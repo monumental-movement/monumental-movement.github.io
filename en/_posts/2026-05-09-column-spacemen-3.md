@@ -21,7 +21,7 @@ Text: mmr｜Theme: About Spacemen 3, a band born in the British underground scen
 
 The post-punk turmoil was still evident in the UK indie scene of the 1980s.
 
-New wave is sophisticated,
+The new wave is sophisticated,
 Gothic deepens the shadows,
 Indie rock was looking for new expressions while expanding its DIY spirit.
 
@@ -35,7 +35,7 @@ Lasting feedback.
 minimal rhythm.
 A dangerous connection to drug culture.
 
-But its simplicity was what made it so strange.
+However, its simplicity was what made it strange.
 
 At a time when many rock bands created their individuality through "addition,"
 Spacemen 3 did a thorough "subtraction".
@@ -187,7 +187,7 @@ Drone.
 They are colliding without being organized.
 
 but,
-On the contrary, its rough edges were intense.
+On the contrary, its roughness was intense.
 
 ### Musical features
 
@@ -258,7 +258,7 @@ It was designed as an "acoustic experience."
 ### Extremely organized arrangement
 
 In the album,
-The number of sounds has further decreased.
+The number of sounds has decreased further.
 
 but,
 Space expanded in the opposite direction.
@@ -282,7 +282,7 @@ It was a device to change one's state of consciousness.
 
 The important thing is that
 Rather than praising drugs,
-The point was that he was obsessed with "transformation of perception" itself.
+The point was his obsession with "transformation of perception" itself.
 
 ### Sound Design
 
@@ -407,7 +407,7 @@ Loud volume.
 Trance feeling.
 And elation.
 
-### Increased Gospelness
+### Increased Gospel-ness
 
 Jason Pierce
 Around this time, he began to lean toward gospel-style elation.
@@ -493,7 +493,7 @@ In addition to the drone feel of Spacemen 3,
 
 were fused.
 
-"Ladies and Gentlemen We Are Floating in Space"
+""Ladies and Gentlemen We Are Floating in Space'' is
 It became an important work of UK rock in the 1990s.
 
 ### Peter Kember's Spectrum
@@ -608,7 +608,7 @@ Rather than "listening" to a song,
 ### Connection with modern festival culture
 
 The current drone festival,
-It has also been pointed out that it was a pioneer in immersive live experiences.
+It has also been pointed out that it is a pioneer in immersive live experiences.
 
 > Spacemen 3 presented a live experience that goes from ""watching a performance" to ""entering an acoustic space."
 
@@ -643,7 +643,7 @@ timeline
 1991 : Fragmentation
 </div>
 
-> For each work, Spacemen 3 simultaneously ""simplified" and ""expanded."
+> In each work, Spacemen 3 simultaneously ""simplified" and ""expanded."
 
 ---
 
@@ -685,7 +685,7 @@ This is because it is modern.
 
 ---
 
-## Final chapter - Why does "repetition" go to space?
+## Final Chapter - Why does "repetition" go to space?
 
 Spacemen 3's music includes
 There are no fancy techniques.
@@ -707,7 +707,7 @@ He turned a minimal performance into a gigantic universe.
 That's why,
 Spacemen 3 is still special.
 
-If you look at it in the vast history of music,
+If you look at the huge history of music,
 The period of activity is short.
 
 but,

@@ -143,7 +143,7 @@ This anonymity functions as a device that increases the purity of music.
 
 ### "Vol. 1" and international recognition
 
-In 2024, they will release their debut album "Vol. 1". This work presented his previously fragmented activities as a single form.
+In 2024, they will release their debut album "Vol. 1". Through this work, his previously fragmented activities were presented as a single form.
 
 Furthermore, in 2026, a live recording on radio station KEXP will be widely shared online, attracting international attention. This exposure led to tours in Europe and North America, and the scale of their activities quickly expanded.
 
@@ -156,7 +156,7 @@ D --> E[international attention]
 E --> F[tour]
 </div>
 
-This flow indicates a contemporary structure in which evaluations in the underground scene are globally connected.
+This flow points to a contemporary structure in which evaluations in the underground scene are globally connected.
 
 > We have entered an era where local activities are instantly connected to the world.
 
@@ -210,7 +210,7 @@ Their presence shows that the possibilities of music are still expanding.
 
 ### Reinterpretation of the angina metaphor
 
-Angine pectoris, as implied by the name Angine de Poitrine, is not just a physical symptom, but has been reinterpreted as a metaphor for the feeling of pressure and tension.
+Angine pectoris, as implied by the name Angine de Poitrine, has been reinterpreted as a metaphor for the feeling of pressure and tension, rather than just a physical symptom.
 
 Their music appeals to the listener not through stability and pleasure, but through instability and tension. The experience is by no means easy, but at the same time it leaves a strong impression.
 

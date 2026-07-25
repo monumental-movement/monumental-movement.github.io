@@ -16,7 +16,7 @@ title: Sugababes – Shape
 
 Sugababes is a British female pop group formed in 1998 by the manager of All Saints.
 
-Released in 2003, "Shape" was Sugababes" fourth single, sampling Sting"s "Shape of My Heart," a hit that peaked at number 11 on the UK charts and reached the top 10 in the Netherlands and Ireland.
+Released in 2003, ""Shape" was Sugababes" fourth single, sampling Sting"s ""Shape of My Heart," a hit that peaked at number 11 in the UK charts and reached the top 10 in the Netherlands and Ireland.
 
 Side A is a remix by Salaam Remi, a US hip-hop producer famous for producing songs by Nas, Amy Winehouse, Sullivan, and others.
 

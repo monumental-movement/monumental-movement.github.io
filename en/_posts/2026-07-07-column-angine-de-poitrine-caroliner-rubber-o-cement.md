@@ -229,7 +229,7 @@ They did not aim for "works to be explained."
 
 The premise was that the audience would collect the fragments themselves and assemble the world in their own way.
 
-At live performances, the members appear more like residents of an unknown community than human beings, wearing giant masks, cloth, and handmade costumes.
+At live performances, the members appear more like residents of an unknown community than humans, wearing giant masks, cloth, and handmade costumes.
 
 It doesn't matter who is playing.
 
@@ -341,7 +341,7 @@ The author does not appear publicly, and only the work remains quietly.
 
 There is an emphasis on autonomy rather than theatricality.
 
-In other words, they both approach the same question in diametrically opposed ways.
+In other words, the two approaches the same question in diametrically opposed ways.
 
 "Who does the work belong to?"
 
@@ -406,7 +406,7 @@ Anonymity is not a performance, but a creative attitude itself.
 
 Angine de Poitrine is a person who symbolizes this characteristic.
 
-> Quebec's anonymous culture was developed not as a theatrical mask, but as an idea that quietly blended the author into the work.
+> Québec's anonymous culture was developed not as a theatrical mask, but as an idea that quietly blended the author into the work.
 
 ---
 
@@ -591,7 +591,7 @@ Hand delivery rather than nationwide distribution.
 
 Word of mouth rather than advertising.
 
-Continuation over profits.
+Continuation over profit.
 
 These values ​​were very compatible with the anonymous method of expression.
 
@@ -719,7 +719,7 @@ These paper media were also an important source of information about new works a
 
 Once you order a work that interests you, it will lead you to other labels and artists.
 
-Through this chain, experimental music scenes in North America, Europe, Japan, Oceania, etc. were loosely connected.
+Through this chain, experimental music scenes in North America, Europe, Japan, and Oceania were loosely connected.
 
 Interestingly, anonymity was not an obstacle for this network.
 
@@ -886,7 +886,7 @@ However, its purpose is not exactly the same as in the 1980s.
 
 At that time, the distribution system itself had a structure that was compatible with anonymity.
 
-In today's world, in an environment where visibility has become the norm, choosing to remain anonymous has a paradoxical meaning.
+In today's world, in an environment where visibility has become the norm, choosing to remain anonymous takes on a paradoxical meaning.
 
 That's why the anonymity exhibited by Carolinar, Rubber O Cement, and Angine de Poitrine still offers fresh suggestions even today.
 
@@ -946,5 +946,14 @@ E --> C
 </div>
 
 > Anonymity is not a technique that erases the author, but a creative structure that allows the work to continue to freely communicate with the times and viewers.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a98Twrr5qAc?si=IOcGyIJAp2mo1voh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

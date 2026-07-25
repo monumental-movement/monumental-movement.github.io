@@ -39,7 +39,7 @@ But he was the man who turned rock"n"roll into a worldwide phenomenon.
 
 In this article, we will re-examine Elvis Presley's influence while tracing his life and musical achievements along with the historical background.
 
-> The story of Elvis is not just a success story of one star, but also the cultural history of the 20th century.
+> The story of Elvis is not just the success story of one star, but also the cultural history of the 20th century.
 
 
 <style type="text/css">
@@ -100,7 +100,7 @@ C[country] --> D
 D --> E[unique style]
 </div>
 
-> Later rock"n"roll was born from the diverse musical experiences he absorbed as a boy.
+> Later rock and roll was born from the diverse musical experiences he absorbed as a boy.
 
 ---
 
@@ -124,7 +124,7 @@ Arthur Crudup"s blues song ""That"s All Right,'' played during the break, receiv
 
 History begins from here.
 
-The song that was played on the radio quickly became a hot topic.
+The song, which was played on the radio, quickly became a hot topic.
 
 The audience could not tell whether the person singing was white or black.
 
@@ -261,7 +261,7 @@ He's not a flashy movie star.
 
 He was a pure rock"n"roll singer.
 
-The program becomes a huge success.
+The program becomes a great success.
 
 Many critics consider this special to be one of the biggest comebacks of his career.
 

@@ -42,7 +42,7 @@ SRL performances consist of ritualized interactions with machines, robots, and s
 
 - **Machine Sex (1979)**: SRL's first performance, which involved using The Demanufacturing Machine to smash objects and throw them at the audience.
 
-- **Illusions of Shameless Abundance (1989)**: Set in San Francisco's SOMA district, a flaming piano, rotting food, fire-breathing robots and fake sculptures resembling explosives lead to beach closures and the dispatch of bomb squads.
+- **Illusions of Shameless Abundance (1989)**: Set in San Francisco's SOMA district, a flaming piano, rotten food, fire-breathing robots and fake sculptures resembling explosives lead to beach closures and the dispatch of bomb squads.
 
 - **The Unexpected Destruction of Elaborately Engineered Artifacts (1997)**: Takes place in Austin, Texas and features robots, flamethrowers, and V-1 jet engines.
 
@@ -167,7 +167,7 @@ SRL continues to perform using machines and robots, and in recent years has part
 
 ### Conclusion
 
-Survival Research Laboratories is an innovative group that questions the relationship between machines and humans, technology and art, and order and chaos. Their work offers a sharp critique of the role and influence of technology in modern society through visual and auditory shocks. SRL's activities will continue to provide inspiration to many artists and engineers.
+Survival Research Laboratories is an innovative group that questions the relationships between machines and humans, technology and art, and order and chaos. Their work offers a sharp critique of the role and influence of technology in modern society through visual and auditory shocks. SRL's activities will continue to provide inspiration to many artists and engineers.
 
 ---
 

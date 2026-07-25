@@ -99,7 +99,7 @@ This is more like "gathering materials" than "performance."
 
 Teo Macero's presence determined the essence of this work.
 
-He turned the music into "compilations" by cutting up and reconstructing the recorded tapes.
+He turned the music into a "compilation" by cutting up and reconstructing the recorded tapes.
 
 * Loop phrases
 * Rearrange sections
@@ -137,7 +137,7 @@ This condition was later called ""jazz-rock" or ""fusion," but it essentially de
 
 ## The subject of music has shifted from "individuals" to "systems"
 
-In traditional jazz, the focus was on the individuality of the soloist.
+Traditionally, jazz focused on the individuality of the soloist.
 
 However, in this work, the structure is reversed.
 
@@ -206,7 +206,7 @@ The main character, Ziggy Stardust, is a fictional rock star who descends on Ear
 In other words, this album
 
 **Not "a work in which an artist plays a character"
-"A work where the character controls the artist"**
+"A work in which the character controls the artist"**
 
 It is.
 
@@ -239,7 +239,7 @@ D --> E[Narrative rock]
 
 ## The "masked culture" of glam rock
 
-This work is considered a symbol of glam rock, but its essence is not just flashy.
+This work is considered a symbol of glam rock, but its essence is more than just flashiness.
 
 What is important is the ""fluidization of identity.''
 
@@ -328,7 +328,7 @@ These are not unified, but rather remain in conflict.
 
 The recording conditions were also less than ideal, with sessions held in the basement of Villa Nellcôte, both acoustically and technically unstable.
 
-However, this instability is the essence of this work.
+However, that instability is the essence of this work.
 
 ---
 
@@ -375,7 +375,7 @@ Even so, the reason why it is possible is that the band itself functions as a "s
 
 ## Ghosts of American Music
 
-Another important element of this work is its strong references to American musical history.
+Another important element of this work is its strong references to American music history.
 
 Although the Stones are a British band, they are completely dependent on the American musical context.
 
@@ -401,7 +401,7 @@ Lock here becomes a "state" rather than a "system."
 
 ## Why is it ranked 13th?
 
-""Exile on Main St." is not a complete version of rock, but ""the last community that was established while collapsing."
+""Exile on Main St." is not the final form of rock, but ""the last community that was established while collapsing."
 
 However, in his later works, music became even more personalized, electronic, and politicized.
 
@@ -449,7 +449,7 @@ The biggest feature of ""London Calling'' is its multilayered genre.
 * Reggae
 * Rockabilly
 *Ska
-*R&B
+* R&B
 
 These are not "integrated" but "coexisted."
 
@@ -471,7 +471,7 @@ For the first time, music becomes a "substitute for news."
 
 Recording was done at Wessex Sound Studios and involved producer Guy Stevens.
 
-His characteristic is not his technical perfection, but his ""introduction of chaos.''
+His characteristic feature is not his technical perfection but his ""introduction of chaos.''
 
 * In-studio improvisation
 * Intentional noise tolerance
@@ -529,7 +529,7 @@ It will transform into an "information compression media" that includes these at
 
 ""London Calling'' is a work that decisively promoted the politicization and multiculturalization of rock.
 
-However, at this stage, the expansion is still within the container called "lock."
+However, at this stage, it is still an expansion within the container called "lock."
 
 In the top works, this "vessel itself" disappears.
 
@@ -544,7 +544,7 @@ In the top works, this "vessel itself" disappears.
 
 ### "The moment lo-fi turned into a myth"
 
-Released in 1998, In the Airplane Over the Sea is an unusual piece of work that, while deviating greatly from the grammar of commercial music, later rose to become a cult center in the internet age.
+Released in 1998, In the Airplane Over the Sea is an unusual piece of work that, while deviating greatly from the grammar of commercial music, later rose to become a cult center in the Internet era.
 
 Neutral Milk Hotel intentionally coexisted ""technical unfinishedness" and ""excessive emotion" in this album.
 
@@ -578,7 +578,7 @@ The album has an extremely strong narrative, but the narrative defies clear expl
 * Cycle of life and death
 * Fragments of body and memory
 
-These are presented not as logic but as a chain of images.
+These are presented as a chain of images rather than logic.
 
 ---
 
@@ -643,9 +643,9 @@ It is.
 
 This work is outside the institutional center of music.
 
-However, it was this "externality" that had a decisive influence on later indie culture, lo-fi aesthetics, and internet music culture.
+However, it was this "externality" that had a decisive influence on later indie culture, lo-fi aesthetics, and online music culture.
 
-> "'In the Airplane Over the Sea' is a work that has gained value not through its musical perfection but through its unfinishedness and mythicity, and we rank it 15th in this ranking because of its cultural leap forward."
+> "'In the Airplane Over the Sea' is a work that gains value not from its musical perfection but from its unfinishedness and mythicity, and its cultural leapfrogging ranks it at number 15 in this ranking."
 
 ---
 
@@ -656,9 +656,9 @@ However, it was this "externality" that had a decisive influence on later indie 
 
 ### "The moment when the "voice" was released from music"
 
-My Life in the Bush of Ghosts, released in 1981, was a work that fundamentally destroyed the conventional structure of song = lyrics = melody.
+My Life in the Bush of Ghosts, released in 1981, was a work that fundamentally destroyed the conventional structure of ""song = lyrics = melody.''
 
-Here, Brian Eno and David Byrne intentionally stripped the music of its singing subject and transformed it into a system of sampling and editing.
+Here, Brian Eno and David Byrne intentionally stripped the music of its "singing subject" and transformed it into a system of sampling and editing.
 
 ---
 
@@ -673,7 +673,7 @@ The biggest feature of this album is the treatment of vocals.
 
 These are placed at the center of the song.
 
-In other words, there is no "singing person" here.
+In other words, there is no ""singing person'' here.
 
 What we have instead is a "relocation of voices that already existed in the world."
 
@@ -767,13 +767,13 @@ In the top works, music further dissolves genre, system, and culture itself.
 
 ## 3 Feet High and Rising
 
-### "The moment when hip-hop was completed as a "collage culture""
+### "The moment when hip-hop was completed as a 'collage culture'"
 
 Released in 1989, 3 Feet High and Rising quietly disrupted hip-hop at a time when it was defined solely by aggression and realism.
 
 Here, De La Soul shifted the sampling culture from violence to "playfulness" and "intellectual construction."
 
-As a result, hip-hop was established as an ""expandable media structure'' for the first time.
+As a result, hip-hop is established as an ""expandable media structure'' for the first time.
 
 ---
 
@@ -861,7 +861,7 @@ It is an "open state" that exists in between.
 
 ## Why is it ranked 17th?
 
-3 Feet High and Rising expands hip-hop from "militant realism" to "cultural collage."
+""3 Feet High and Rising" expands hip-hop from ""militant realism" to ""cultural collage.''
 
 However, hip-hop subsequently evolved in a more structural, political, and industrial direction.
 
@@ -982,7 +982,7 @@ In the top works, music not only reflects reality, but begins to reconstruct rea
 
 ## Blue Lines
 
-### "The moment when the very air of the city was turned into music"
+### "The moment when the "air itself" of the city was turned into music"
 
 Blue Lines, released in 1991, is a work that dissolves the boundaries between hip-hop, soul, dub, and electronic music, and establishes the very essence of the city as music.
 
@@ -994,7 +994,7 @@ Here, Massive Attack puts ""space and gravity'' at the center of their music, ra
 
 The background of this work is the urban environment of Bristol, England.
 
-* Cloudy skies and the tranquility of a port city
+* Cloudy skies and tranquility of a port city
 * Mix of immigrant cultures
 * The intersection of rave culture and hip hop
 * Coexistence of street and introspection
@@ -1021,7 +1021,7 @@ With the participation of Tricky and Shara Nelson, the album loses its "physical
 
 ## Music becomes "scenery"
 
-The innovation of ""Blue Lines'' lies in the fact that the music no longer tells the story.
+The innovation of Blue Lines is that the music no longer tells the story.
 
 Instead there is:
 
@@ -1079,7 +1079,7 @@ As a result, hip-hop changed from ""talking music" to ""drifting music."
 
 ""Blue Lines'' is not a fusion of genres, but a work that presents the dissolution of genres themselves.
 
-However, at this point, electronic music still remains a ""reflection of the city.''
+However, at this point, electronic music still remains a ""reflection of the city''.
 
 In the top works, the music does not reflect the city, but begins to redesign the city itself.
 
@@ -1146,7 +1146,7 @@ D --> E --> F
 
 ## Collapse of music's "authorship"
 
-The importance of this work lies in the fact that it makes it unclear who made it.
+The importance of this work lies in the fact that it makes it unclear who created it.
 
 * Intent is not clear
 * Structure exists but not explained

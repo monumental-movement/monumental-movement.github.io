@@ -66,7 +66,7 @@ We take Len Faki's signature tracks and analyze them in detail, including their 
 
 #### basic information
 - BPM: 125
-- Key: G major
+- Key: G Major
 - Released: Berghain 03 mix CD included, 2009
 
 #### Song structure and rhythm
@@ -88,7 +88,7 @@ It is often used from the middle to the peak of a set, and is the main track to 
 
 #### basic information
 - BPM: 129
-- Key: G major
+- Key: G Major
 - Length: Approximately 8 minutes 15 seconds
 
 #### Song structure and rhythm
@@ -124,7 +124,7 @@ Hi-hats and sub-percussion add complexity and give movement to the overall rhyth
 - High frequencies: Create space with hats and synth effects
 
 #### Role in DJ set
-It is used to maintain the groove in the middle of a set or take a break in the middle of a set, and has the role of stabilizing the floor.
+It is used to maintain a groove in the middle of a set or take a break in the middle of a set, and has the role of stabilizing the floor.
 
 ---
 

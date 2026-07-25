@@ -56,7 +56,7 @@ Richard D. James, also known as Aphex Twin, was born in 1971 in Cornwall, southw
 
 However, the important thing is not whether it is a lie or true. He is dismantling the ""actual image of an artist"' itself. In other words, it is a strategy that obscures the relationship between the work and the personality and sways the listener"s interpretation.
 
-Also, his face often appears in distorted forms in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the most identifying information, the face, the very question of "who you are" is invalidated.
+Also, his face often appears in distorted forms in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the face, which is the most identifying information, the very question of "who you are" is invalidated.
 
 This anonymity is also a device for focusing on the music itself.
 
@@ -76,7 +76,7 @@ In the late 1990s, he moved in a more aggressive and experimental direction. In 
 
 and Drukqs in 2001. In this album, ultra-fast and complex drum programming coexists with tranquil piano music. It is here that his aesthetic - the coexistence of chaos and order - is most clearly manifested.
 
-2014's Syro integrates elements from the past while elevating them to a more sophisticated sound.
+2014's Syro integrates elements from the past and elevates them to a more sophisticated sound.
 
 > His work is not an evolution, but a series of movements to different dimensions.
 

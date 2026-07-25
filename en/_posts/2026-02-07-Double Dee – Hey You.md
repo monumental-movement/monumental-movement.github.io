@@ -19,7 +19,7 @@ Double Dee is a project of Italian producers/DJs: Claudio "Moz-Art" Rispoli, Dav
 
 A House/Acid Jazz track released in 1991 by Onizom Music, a division of Italian label Irma CasaDiPrimordine.
 
-A1&B is a remix by Claudio "Moz-Art" Rispoli (AKA DJ Mozart), also known for his duo Soft House Company with Francesco Montefiori. DJ Claudio Rispoli has emerged as a pioneer of Italian DJing alongside the likes of Daniel Baldelli and Beppe Roda, transcending the boundaries of disco and pop music, and is also known for developing a broad, left-field approach that later became associated with Italy's cosmic sound.
+A1&B is a remix by Claudio "Moz-Art" Rispoli (AKA DJ Mozart), also known for his duo Soft House Company with Francesco Montefiori. DJ Claudio Rispoli has emerged as a pioneer of Italian DJing alongside Daniel Baldelli and Beppe Roda, transcending the boundaries of disco and pop, and is also known for developing a broad, left-field approach that later became associated with Italy's cosmic sound.
 
 #### Tracklist
 ```md

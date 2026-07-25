@@ -19,7 +19,7 @@ title: '[Column] Gros Mené - Unusual blues produced by Quebec''s "rough rock"'
 
 Text: mmr｜Theme: Gros Mené etched in Quebec rock history. Tracing the unique evolution of French rock through its raw sound, humor, sense of community, long silence and resurgence.
 
-### Choosing "not to adjust the lock"
+### Choice of "not adjusting the lock"
 
 At the end of the 1990s, a variety of movements were occurring simultaneously in Quebec's rock scene.
 While populist and social groups like Les Colocs were gaining ground, noisier, rougher music that drew heavily from Anglo-American alternative rock and garage rock was also gaining momentum underground.
@@ -37,9 +37,9 @@ Members include Olivier Langevin, Michel Dufour, and Pierre Bouchard.
 In particular, his collaboration with Langevin would have a major influence on later Quebec rock.
 
 They were in a different place than urban indie rock.
-The sound was a mixture of the atmosphere of the Lac-Saint-Jean region, chalet culture, city bar feel, northern solitude, and a muddy sense of celebration.
+The sound was a mixture of Lac-Saint-Jean vibes, chalet culture, city bar feel, northern solitude, and a muddy sense of celebration.
 
-This feeling cannot be explained simply by music genre.
+This feeling cannot be explained simply by the genre of music.
 Gros Mené symbolized the "physicality of local rock" in Quebec.
 
 > The importance of Gros Mené lies in the fact that, rather than elegantly arranging rock music, it turned the crumbling energy itself into a work of art.
@@ -82,7 +82,7 @@ Rather than a large-scale production, we record in our own space and create soun
 This attitude resonated with the alternative culture of the 1990s.
 
 At the time, the post-Nirvana grunge sensibility remained in North America, and stoner rock and garage revival were also expanding.
-Parallel to the trends of Queens of the Stone Age, Kyuss, and Jon Spencer Blues Explosion, the desire for "dirty rock" was growing around the world.
+Parallel to the trends of Queens of the Stone Age, Kyuss, and Jon Spencer Blues Explosion, the desire for "dirty rock" was growing all over the world.
 
 Gros Mené translated it into Quebecois style.
 
@@ -120,7 +120,7 @@ Gros Mené has always existed somewhere between serious and prankish.
 
 ### 1999, turning point for Quebec rock
 
-In April 1999, Gros Mené released their debut album ""Tue ce drum Pierre Bouchard''.
+In April 1999, Gros Mené released their debut album, ""Tue ce drum Pierre Bouchard''.
 
 This work would later be treated as an important work of Quebec rock.
 
@@ -149,7 +149,7 @@ The drums are recorded with a slightly crushed sound, the guitar is overly disto
 Even so, the reason the performance doesn't fall apart is because of the strong sense of groove between the members.
 
 At this point, the working relationship between Fred Fortin and Olivier Langevin was solid.
-You can already see the feeling that it would later lead to Galaxie in this work.
+I can already see the feeling that it would later lead to Galaxie in this work.
 
 <div class="mermaid">
 flowchart TD
@@ -217,7 +217,7 @@ They prioritized a gritty rock"n"roll sensibility over urban indie sophisticatio
 As a result, they maintain a distance from the mainstream scene while gaining their own support.
 
 Also important was the sense of community in Quebec culture.
-Gros Mené existed not as a huge star, but as a band that ""people in the know know deeply.''
+Gros Mené existed not as a huge star, but as a band that "those in the know know intimately."
 
 > The long silence did not make Gros Mené disappear, but rather turned it into a myth.
 
@@ -229,19 +229,19 @@ Gros Mené existed not as a huge star, but as a band that ""people in the know k
 
 In 2012, Gros Mené suddenly returns.
 
-Their first album in 13 years, ""Agnus Dei,'' shocked many listeners.
+Agnus Dei, their first album in 13 years, shocked many listeners.
 Because the band wasn't just a nostalgic reunion.
 
 The sound was still heavy, dirty, and harsh.
 However, at the same time, the depth of their playing ability and arrangements had clearly increased.
 
-During this period, each member matured through separate projects.
+During this period, each member matured through their own projects.
 Fred Fortin's solo works, his time with Galaxie, and his experiences were brought back to Gros Mené.
 
 "Agnus Dei" won "Album de l"année – alternatif" at ADISQ in 2013.
 It was also highly rated on GAMIQ.
 
-In other words, what was once "dangerous and crude underground rock" was now officially recognized as an important work in Quebec music.
+In other words, what was once ""dangerous and crude underground rock'' was now officially recognized as an important work in Quebec music.
 
 ### Deepening musicality
 
@@ -321,7 +321,7 @@ But this is not just a bad idea.
 At Gros Mené, vulgarity and vulgarity are important aesthetics.
 
 Art is not just about elegance.
-Even drunken conversations and local banter have musical value.
+There is musical value in even drunken conversations and local banter.
 That's what they seem to think.
 
 ### Members and collaborators
@@ -442,7 +442,7 @@ E --> G[High Energy Rock]
 
 ""Doing rock in French'' has been a big theme in Quebec for many years.
 
-Surrounded by English-speaking North America, French music always takes on cultural meaning.
+In an environment surrounded by English-speaking North America, French music always takes on cultural meaning.
 
 Gros Mené answered this question not in theory but in practice.
 
@@ -483,7 +483,7 @@ However, his clumsiness gives him a strong personality.
 
 ### Live is more important than the studio
 
-Gros Mené cannot be talked about solely by his recorded works.
+Gros Mené cannot be talked about only by his recorded works.
 
 Their essence is also present in their live performances.
 
@@ -503,7 +503,7 @@ Rather than looking at the audience analytically, they make noise and sweat toge
 
 This sense of community is close to punk.
 
-However, in the case of Gros Mené, there's a mix of blues viscosity and Quebec humor.
+However, in the case of Gros Mené, blues-like viscosity is mixed with Quebec humor.
 Therefore, it is not just an offensive lock.
 
 > A Gros Mené show was less a place to watch a performance than a place to get involved in a communal frenzy.

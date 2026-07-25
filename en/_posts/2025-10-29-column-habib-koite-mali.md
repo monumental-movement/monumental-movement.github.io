@@ -23,7 +23,7 @@ title: '[Column] Habib Koité & Bamada and the musical and cultural background o
 ## Habib Koité & Bamada - "Quiet revolution" played by Malian strings
 
 
-Text: mmr｜Theme: Comprehensive musical analysis of Habib Koité & Bamada, historical context, inheritance of African identity, and role in globalization
+Text: mmr｜Theme: Comprehensive of Habib Koité & Bamada's musical analysis, historical context, inheritance of African identity, and role in globalization
 
 > West African tradition and postcolonial reconstruction: "Redefining Mali music" led by Habib Koité
 
@@ -46,16 +46,16 @@ color: #fff;
 ## Introduction:
 
 At the end of the 20th century, music from the African continent began to permeate the world in new forms. While Nigeria"s Fela Kuti championed "political Afrobeat," Mali"s Habib Koité started a revolution in a quieter way.
-──With a single guitar, he recreated the sound of Mali's traditional stringed instrument ""Kamalengoni" and created ""Mali music without borders" with the band **Bamada**.
+──With a single guitar, he recreated the sound of Mali's traditional stringed instrument, ""kamarengoni," and together with the band ""**Bamada**," he created ""Mali music without borders.''
 
-His music doesn't talk politics. However, within that tranquility lies the **ethnic dignity and cultural continuity**. Koité was a "translator of African aesthetics" in the age of global music.
+His music doesn't talk politics. However, within that tranquility lies **ethnic dignity and cultural continuity**. Koité was a "translator of African aesthetics" in the age of global music.
 
 ---
 
 ## Chapter 1: The musical universe of Mali
 
-The Republic of Mali is a landlocked country located in West Africa. In the geography where the Sahara Desert and the Niger River intersect, there is a rich cultural heritage dating back to the Mali Empire in the 13th century.
-The music of this land has been inherited by griots = traditional storytellers/musicians. Their role is not just as performers, but as **keepers of national memory**.
+The Republic of Mali is a landlocked country located in West Africa. In a geography where the Sahara Desert and the Niger River intersect, there is a rich cultural heritage that dates back to the 13th century Mali Empire.
+The music of this land has been inherited by griots (traditional storytellers/musicians). Their role is not just as performers, but as **keepers of national memory**.
 
 Bambara, Songhai, Tuareg, Peul, Dogon... Each ethnic group has its own musical instrument and melody system, and the rhythms are intertwined in multiple layers.
 This diversity is the "fundamental polyphony" of Malian music, and Koité has repositioned the "guitar" at its center.
@@ -76,7 +76,7 @@ The sound produced by this guitar rejects European tuning and leans closer to Af
 ## Chapter 3: Formation of Bamada - A dialogue between the heartbeat of the city and tradition
 
 In 1988, Koité formed his own band **Bamada**.
-Bamada is slang for the capital city of Bamako and means "people of Bamako". The band name itself symbolizes **a bridge between city and folklore**.
+Bamada is slang for the capital city of Bamako and means "people of Bamako." The band name itself symbolizes **a bridge between city and folklore**.
 
 Bamada's sound combines a Western band format (guitar, bass, drums, percussion) with traditional African instruments such as balafon and camalengoni.
 Koité asked the members to "bring different ethnic rhythms to the table," **translating the diversity within Mali into an ensemble**.
@@ -85,8 +85,8 @@ Koité asked the members to "bring different ethnic rhythms to the table," **tra
 
 ## Chapter 4: Early works and international breakthroughs
 
-His 1991 debut work ""Muso Ko**'' quietly garnered acclaim both in Mali and abroad.
-However, the decisive turning point was the 1998 album ""**Ma Ya**''.
+His 1991 debut ""Muso Ko**'' quietly garnered acclaim both in Mali and abroad.
+However, the decisive turning point came with the 1998 album ""**Ma Ya**''.
 With this work, Koité accomplishes the "folkification" of African music. Excessive percussion and electronic sounds were eliminated to emphasize the organic relationship between guitar and voice.
 
 > "When you listen to Habib, you hear Africa with no clichés."
@@ -191,7 +191,7 @@ graph TD
     A["Mali traditional music<br>Griot culture"] --> B["Ali Farka Touré<br>(Desert Blues)"]
     B --> C["Habib Koité & Bamada<br>(Urban acoustic fusion)"]
     C --> D["Rokia Traoré / Fatoumata Diawara<br>(Deepening personal expression)"]
-    D --> E["Global Stage<br>New horizon of world music"]
+    D --> E["Global Stage<br>New Horizons for World Music"]
 
 </div>
 

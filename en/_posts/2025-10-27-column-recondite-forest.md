@@ -22,10 +22,10 @@ Recondite――real name Lorenz Brunner.
 When many people hear his music for the first time, they feel a sense of ""loneliness" and ""tranquility."
 However, deep down, there is a tension between nature and technology.
 For Brunner, who grew up in the Bavarian forests of southern Germany, sound is not a product of the city;
-**It was an organic thing born out of fog and humidity, wind and shadow**.
+**It was an organic thing born from fog and humidity, wind and shadow**.
 
 In recent years, the term ""forest bathing'' (Shinrin-yoku) has been attracting worldwide attention, even in Japan.
-It is not just healing, but the act of reconnecting human senses to the natural environment.
+It is not just healing, but the act of reconnecting the human senses to the natural environment.
 This concept and Recondite's sonic world are strangely intimate.
 His minimal tracks are like walking through a digital forest.
 
@@ -94,12 +94,12 @@ Recondite's tracks similarly follow a moderately fast tempo (approximately 110-1
 His beats are meditative and designed to sync with the listener's heartbeat.
 
 From musical psychology, it is known that a certain tempo promotes a state in which the parasympathetic nervous system is dominant.
-Therefore, the Recondite live experience is more than just a club event;
-It can be said that it functions as "**Forest Bathing in the City**."
+Therefore, the Recondite live experience is not just a club event;
+It can be said that it functions as "**forest bathing in the city**".
 
 ---
 
-## Chapter 5: Digital Sea of ​​Trees - Integrating Visuals and Sounds
+## Chapter 5: Digital Sea of ​​Trees - Integrating Visuals and Sound
 
 Recondite also produces his own visuals.
 Misty mountains, silhouetted trees, and frozen lakes.
@@ -175,7 +175,7 @@ It's like **aural forest bathing**.
 The philosopher Maurice Merleau-Ponty
 ""The body is part of the world, and sensations are phenomena of interaction with the world.''
 Recondite's music electronically implements this phenomenological perspective.
-In other words, it presents a new physicality called **Music = Forest of Sensory**.
+In other words, he is presenting a new physicality called **Music = Forest of Senses**.
 
 ---
 

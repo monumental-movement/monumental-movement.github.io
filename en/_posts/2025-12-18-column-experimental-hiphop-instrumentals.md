@@ -73,7 +73,7 @@ In traditional hip-hop production, loops of two to eight bars were the basic uni
 
 ---
 
-Madlib's production is characterized by an improvisational method centered around hardware samplers. When producing using the SP series, physical manipulation takes precedence over visual editing, leaving sample shifts and fluctuations intact in the music.
+Madlib's production is characterized by an improvisational method centered on hardware samplers. When producing using the SP series, physical manipulation takes precedence over visual editing, leaving sample shifts and fluctuations intact in the music.
 
 * Samples are selected with the premise of preserving the original sound.
 * No strict quantization

@@ -20,9 +20,9 @@ title: '[Column] Mathcore / Experimental Metal Thorough explanation: Extremely c
 
 Text: mmr｜Theme: History, technical characteristics, major works, song structure analysis, performance techniques, and influence on related genres
 
-Characterized by mathematical complexity, non-linear progression, and extreme dynamics, **Mathcore** is one of the most challenging styles of heavy music that rapidly evolved from the late 1990s to the 2000s. While this genre is based on the aggressiveness of hardcore and metalcore, it incorporates elements of jazz, experimental music, and progressive metal, actively subverting traditional 4/4 time and pursuing an odd time signature structure that can be described as mathematical.
+Characterized by mathematical complexity, non-linear progression, and extreme dynamics, **Mathcore** is one of the most challenging styles of heavy music that rapidly evolved from the late 1990s to the 2000s. This genre is based on the aggressiveness of hardcore and metalcore, but incorporates elements of jazz, experimental music, and progressive metal, actively subverting the traditional 4/4 time signature and pursuing an odd time signature structure that can be described as mathematical.
 
-**The Dillinger Escape Plan (DEP)** and **Meshuggah** are representatives of this field, and although they were active at the same time, they are extremely interesting in that they challenged the "extreme of complexity" from different directions.
+**The Dillinger Escape Plan (hereinafter referred to as DEP)** and **Meshuggah** are representatives of this field, and it is extremely interesting that although they were active at the same time, they challenged the "extreme of complexity" from different directions.
 
 
 ---
@@ -45,11 +45,11 @@ color: #fff;
 
 ### Evolution from hardcore punk
 
-Mathcore's roots lie in the **hardcore punk** and **metalcore** of the late 1980s and early 90s. In particular, bands like Converge, Botch, and Coalesce began to introduce not only aggression but also **irregular riff structures, chord breakdowns, and sudden tempo changes**, setting the stage for what would become Mathcore.
+Mathcore's foundations lie in the **hardcore punk** and **metalcore** of the late 1980s and early 90s. In particular, bands like Converge, Botch, and Coalesce began to introduce not only aggression but also **irregular riff structures, chord breakdowns, and sudden tempo changes**, setting the stage for what would become Mathcore.
 
 ### Boston-New Jersey Underground Scene
 
-DEP appeared in the northeastern United States in the late 1990s, at a time when the fusion of hardcore and noise rock was active, and by combining this with "technocraticism," new variations with unprecedented speed and complexity were born.
+DEP appeared in the northeastern United States in the late 1990s, when the fusion of hardcore and noise rock was active, and the combination of "technocraticism" gave rise to new variations with unprecedented speed and complexity.
 
 ---
 
@@ -129,7 +129,7 @@ flowchart TD
 
 * Dealing with **metric modulation** (the illusion of tempo)
 * Multi-stage arrangement of snare accents
-*Polyrhythmic simultaneous pronunciation (e.g. 5 connected figures on top of 4/4)
+* Polyrhythmic simultaneous pronunciation (e.g. 5 connected figures on top of 4/4)
 
 ### Base
 
@@ -163,7 +163,7 @@ flowchart TD
 
 ### Mix technology
 
-In Mathcore, multiple tracks of distorted guitars overlap, so organizing the frequency bands is essential.
+In Mathcore, multiple tracks of distorted guitar overlap, so organizing the frequency bands is essential.
 In particular, attack sounds tend to be concentrated in the **2-5kHz** band, and if this area is not properly processed, the outline of the sound will become unclear.
 
 ### Drum recording
@@ -187,7 +187,7 @@ The fragmented structure of DEP and Car Bomb has been incorporated into many mod
 
 ### Post-Metal / Noise
 
-While the complex rhythmic structure remained the same, there was an increase in the number of cases in which music was combined with spatial sounds and ambient elements, and the structure became more multi-layered.
+While the complex rhythmic structure remained the same, the number of cases in which it was combined with spatial sounds and ambient elements increased, and the structure became more multi-layered.
 
 ---
 

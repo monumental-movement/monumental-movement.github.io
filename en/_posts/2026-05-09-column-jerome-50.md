@@ -42,7 +42,7 @@ His real name is Jérôme Charette-Pépin. Born in L"Ancienne-Lorette, a suburb 
 
 In other words, he's not just a folk singer.
 
-His academic perspective of treating words as a research object coexisted with his physical sense as a street musician.
+His academic perspective of treating words as a research subject coexisted with his physical sensibilities as a street musician.
 
 Moreover, he did not confine himself to an academic position.
 
@@ -101,11 +101,11 @@ D --> E[Hiérarchill]
 E --> F[passive resistance]
 </div>
 
-The album's musical style was based on folk, but mixed with alternative country, lo-fi pop, and chanson-like storytelling.
+The album's musicality was based on folk, but mixed with alternative country, lo-fi pop, and chanson-like storytelling.
 
 What was especially important was that the ""social criticism'' was not preachy.
 
-He avoids the high-level view typical of intellectuals and always looks at society through laughter.
+He avoids the perverted view typical of intellectuals and always looks at society through laughter.
 
 This feeling remains consistent even in his later works.
 
@@ -164,7 +164,7 @@ This is where the intimacy in his lyrics comes from.
 
 What decided his career was "Tokébakicitte" released in 2021.
 
-This song was a huge hit on Quebec radio and was selected as one of SOCAN's most popular songs.
+This song was a big hit on Quebec radio and was selected as one of SOCAN's most popular songs.
 
 But the important thing is that it wasn't just a hit song.
 
@@ -196,7 +196,7 @@ What emerges here is the ""popular character'' of Jérôme 50.
 
 Although he came from an indie culture background, he hated being confined to a sense of "intellectual superiority."
 
-He later criticized the elitism that exists in Quebec's leftist cultural sphere.
+He later criticized the elitism that exists within the Quebec leftist cultural sphere.
 
 He was uncomfortable with the attitude of looking down on popular artists, calling them ""too popular.''
 
@@ -214,7 +214,7 @@ In other words, he was seriously aiming for ""music that connects with the peopl
 
 As the title suggests, it is unique.
 
-It is a coined word that includes the nuance of ""contrary to geography,'' and is strongly conscious of the disconnect between urban and rural areas, differences in cultural areas, and issues of regional identity.
+It is a coined word that has the nuance of ""contrary to geography,'' and is strongly conscious of the disconnect between urban and rural areas, differences in cultural areas, and issues of regional identity.
 
 In this album,
 
@@ -243,7 +243,7 @@ mindmap
     ケベック社会
 </div>
 
-In terms of music, genre-crossing has become stronger.
+In terms of music, the cross-genre nature has become stronger.
 
 Disco.
 Ska.
@@ -269,7 +269,7 @@ In 2025, Jérôme 50 will release his third album, ""Anarcolique''.
 
 Here he made a major change of direction.
 
-They boldly introduced ska punk, pop punk, bar folk, and a trash feel from their previous folk-centered line.
+They boldly introduced ska punk, pop punk, bar folk, and a trash feel from their previous folk-centric line.
 
 He himself cites the following as his influences:
 
@@ -327,7 +327,7 @@ This is not just a matter of musicality.
 
 What is important is that it inherits the chanson culture, which is the art of words.
 
-He grew up listening to country music and Les Cowboys Fringants, and was also influenced by pop-punk and emo.
+He grew up listening to country music and Les Cowboys Fringants, and was also influenced by pop punk and emo.
 
 In other words,
 

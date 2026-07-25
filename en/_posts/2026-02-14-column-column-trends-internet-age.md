@@ -20,11 +20,11 @@ title: '[Column] Tracking the history of music trends spreading in the internet 
 
 Text: mmr｜Theme: A long-form analysis that traces the history of music trends spreading in the internet age and the mechanism of global dissemination. Track cities, artists, and services based on facts and explore the background behind trend formation
 
-> With the spread of the Internet, music has become a new cultural phenomenon that transcends borders and spreads in real time.
+> With the spread of the internet, music has become a new cultural phenomenon that transcends borders and spreads in real time.
 
 From the end of the 20th century to the beginning of the 21st century, the Internet changed the core of musical culture. Traditionally, record companies, radio stations, and CD shops were the main sources of distribution, but the Internet has ushered in an era in which individuals can directly distribute songs. At clubs and festivals in cities, it has become commonplace for local songs to instantly spread to other cities via the internet.
 
-In Berlin"s techno clubs and Tokyo"s club scene, DJs and artists informally shared their sets and songs on Mixcloud and SoundCloud, making them accessible to fans and DJs around the world. In this way, a structure was created in which local urban music directly influenced global trends.
+In Berlin"s techno clubs and Tokyo"s club scene, DJs and artists informally shared their sets and songs on Mixcloud and SoundCloud, making them accessible to fans and DJs around the world. In this way, a structure was created in which the local music of cities directly influenced global trends.
 
 
 ---
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Late 1990s-early 2000s: MP3 revolution and file sharing
 
-> The spread of the MP3 format and the emergence of P2P services such as Napster, which occurred in the early days of the Internet, overturned the conventional wisdom of music distribution.
+> The spread of the MP3 format and the emergence of P2P services such as Napster that occurred in the early days of the Internet overturned common sense in music distribution.
 
 In 1995, the introduction of the MP3 format made it easier to compress and share music files, creating an environment in which people could enjoy music without having to rely on purchasing CDs. Los Angeles indie band The Postal Service and Berlin's underground techno tracks reached DJs and listeners around the world via MP3.
 
@@ -94,11 +94,11 @@ Kawaii electropop from Tokyo and K-pop songs from Seoul have also gained popular
 
 In the early 2020s, AI recommendation technology began to analyze individual listener preferences and incorporate them into playlist generation on Spotify and Apple Music. DJs in Berlin, London, and Tokyo optimize their setlists based on AI data. The global hit formation rate has increased significantly.
 
-In addition, generative AI such as OpenAI Jukebox and Google MusicLM has made it possible for artists to create unique music that transcends the boundaries of cities and countries. A mix of New York indie music, London electronic music, and Tokyo city pop is creating new genres and subcultures.
+In addition, generative AI such as OpenAI Jukebox and Google MusicLM has made it possible for artists to create unique music that transcends the boundaries of cities and countries. Indie music from New York, electronic music from London, and city pop from Tokyo are intermingling to create new genres and subcultures.
 
 ---
 
-## Chronology: Internet music trend milestones
+## Chronology: Internet music trends milestones
 
 > Organize major events in online music culture in chronological order
 
@@ -138,9 +138,9 @@ flowchart LR
 
 ## Final Chapter: Looking towards the next 10 years
 
-> Music trends continue to evolve in ways that are difficult to predict as technology and personal communication further intertwine
+> Music trends continue to evolve in ways that are difficult to predict as technology and personal communication become more intertwined
 
-As we have seen so far, the evolution of online music has been shaped by the intersection of cities, artists, and technology. From the MP3 revolution to AI recommendations, music trends are rapidly changing due to the interaction of personal communication and globalization. Over the next 10 years, with the further evolution of generative AI and the emergence of new SNS, difficult-to-predict trends that fuse urban culture and personal communication will continue to form.
+As we have seen so far, the evolution of online music has been shaped by the intersection of cities, artists, and technology. From the MP3 revolution to AI recommendations, music trends are changing rapidly due to the interaction of personal communication and globalization. Over the next 10 years, with the further evolution of generative AI and the emergence of new SNS, difficult-to-predict trends that fuse urban culture and personal communication will continue to form.
 
 ---
 

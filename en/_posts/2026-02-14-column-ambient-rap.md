@@ -56,7 +56,7 @@ timeline
     2020 : Ambient Rap Playlistがストリーミングで広がる
 </div>
 
-> Throughout history, rap has merged with ambient music to expand the meditative experience.
+> Over the course of history, rap has been fused with ambient music to expand the meditative experience.
 
 ---
 

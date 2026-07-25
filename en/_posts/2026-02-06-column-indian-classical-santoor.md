@@ -85,17 +85,17 @@ Even in the performance of the santoor, the time period, emotional character, an
 
 Once in the tala, the santoor begins to take on a percussive driving force, blurring the line between melody and rhythm. This duality creates a charm that is not found in other melodic instruments.
 
-> The santour is an instrument that exists between melody and rhythm.
+> The santour is an instrument that exists in the middle area between melody and rhythm.
 
 ---
 
 ## Recording technology and Santour expansion
 
-Since the late 20th century, advances in recording technology have had a significant impact on the reputation of santour. The details of the santour, which has a short decaying sound, were emphasized by the microphone, giving it a three-dimensional sound.
+Since the late 20th century, advances in recording technology have had a significant impact on the reputation of santoor. The details of the santour, which has a short decaying sound, were emphasized by the microphone, giving it a three-dimensional sound.
 
 This has led to its application not only to solo performances but also to ensembles and film music.
 
-> Technology has expanded Santour's presence, not volume.
+> Technology has expanded Santour's presence, not its volume.
 
 ---
 
@@ -113,7 +113,7 @@ Even in performances outside of the Indian classical framework, raga thinking co
 
 Modern santour players go back and forth between pure classical performance and experimental expression. With an emphasis on complete improvisation, sonic texture, and the treatment of silence, the santour is being redefined as a musical object.
 
-Performances often begin with a soft note. The moment the mallet touches the string, before there is a clear sound of impact, you can feel the metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
+Performances often begin with a soft note. The moment the mallet touches the string, before there is a distinct sound of impact, you can feel the presence of a metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
 
 > The santour is changing from an instrument to be played to one that shapes the listening space.
 
@@ -121,7 +121,7 @@ Performances often begin with a soft note. The moment the mallet touches the str
 
 ## Symbiotic relationship between Kashmiri folk songs and santoor
 
-In Kashmir, santoor was deeply associated with folk culture even before classical music. It was often played to the tune of a song at wedding ceremonies, seasonal festivals, and religious gatherings.
+In Kashmir, santoor was deeply associated with folk culture even before classical music. It was often played to the tune of a song at wedding ceremonies, seasonal festivals, religious gatherings, and other occasions.
 
 When playing the santour as an accompaniment to folk songs, the intonation of the melody and the speaking style are given priority over strict musical scales. The mallet is not swung down with a constant force, but rather changes its speed and angle subtly to match the singer's breathing.
 

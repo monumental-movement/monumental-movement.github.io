@@ -21,9 +21,9 @@ Text: mmr｜Theme: About the new bass culture born from urban reverberations
 
 Post-Dubstep is a movement that expanded bass expression after dubstep, and was formed mainly in London in the late 2000s. Starting from the deep bass, dub-derived spatial processing, and garage rhythm structure of traditional dubstep, it is distinctive in that it has expanded into R&B, soul, experimental electronic music, ambient, and art-oriented beat music.
 
-In South London (Croydon, Brixton, etc.), which was the center of early dubstep, there existed a ""dark sub-bass sound'' that was established through the DMZ party culture, but from around 2006 to 2009, young producers began to introduce more diverse elements. Representatives of this generation include **Burial**, **Mount Kimbie**, and **James Blake**, who later gained worldwide acclaim.
+In South London (Croydon, Brixton, etc.), which was the center of early dubstep, there existed a ""dark sub-bass sound'' that was established through the DMZ party culture, but from around 2006 to 2009, young producers began to introduce more diverse elements. Representatives include **Burial**, **Mount Kimbie**, and **James Blake**, who later gained worldwide acclaim.
 
-By incorporating not only club culture but also ""urban reverberations'' such as city noise, late-night traffic, cell phone recordings, and field recordings as sample materials, they created a new emotionality that was not present in conventional bass music.
+By incorporating not only club culture but also ""urban reverberations'' such as urban noise, late-night traffic, cell phone recordings, and field recordings as sample materials, they created a new emotionality that was not present in conventional bass music.
 
 ---
 
@@ -49,7 +49,7 @@ Typical characteristics include:
 
 - Focus on deep sub-bass between 40 and 60Hz
 - Frequently used sine wave based
-- Emphasizes subtle fluctuations in the volume envelope rather than LFO modulation
+- Emphasis on subtle fluctuations in the volume envelope rather than LFO modulation
 - Don't make the sub stereo, fix it in the center and spread the surroundings with field sound
 
 ### 1-2 Rhythm structure: 2-step transformation and polyrhythm
@@ -65,7 +65,7 @@ Post-dubstep can be described as a ""genre that creates space.'' In particular, 
 
 - Use London street noises (rain, car sounds, ticket gates touching, etc.) as samples
 - Reproducing reflected sound in real space using Convolution Reverb
-- Texturing of reverberation with Granular Synthesis
+- Texturing of reverberations using Granular Synthesis
 - Pauses of silence and noise affect the structure of the song
 
 ---
@@ -78,10 +78,10 @@ Since his debut in 2006, Burial has been hailed as a central symbol of post-dubs
 His most important characteristic is his ability to extract the feeling of loneliness in the city.
 
 ### Sound characteristics
-- The vocal sample is extremely pitch-processed and contains multiple formants, giving it a "gender-indeterminate" feel.
+- The vocal sample is extremely pitch-processed and contains multiple formants, giving it a "gender-unknown" feel.
 - Bringing Vinyl Crackle (record noise) to the foreground
 - The kick is a low attack like distant thunder in the middle of the night
-- The snare has a dry sound quality, not metallic, but like "broken pieces of wood"
+- The snare has a dry sound quality, like "broken pieces of wood" rather than metal.
 - Overall, a "foggy midrange" dominates, and the melody remains a short motif.
 - Frequent use of short release pads that disappear quickly
 
@@ -111,7 +111,7 @@ James Blake is unique in taking post-dubstep out of the context of club culture 
 ### Sampling example
 - Cut your own voice short, pitch shift it, and convert it into a harmonic-rich pad
 - Foreground piano pedal noise with compression
-- Mix short pulse noise (click) in the low range and use it as a kick replacement
+- Mix short pulse noise (click) in the low range and use it as a kick substitute
 
 James Blake's approach has been treated as an important turning point, connecting ""experimental bass music" and ""introspective songwriting."
 
@@ -120,7 +120,7 @@ James Blake's approach has been treated as an important turning point, connectin
 ## Chapter 3: Sound Design Techniques Details
 
 ### 3-1 Processing field recordings
-- Record London's environmental sounds (stations, buses, rain sounds)
+- Record London ambient sounds (stations, buses, rain sounds)
 - Emphasize 300-800Hz with EQ to create a "mid-range urban feel"
 - Shorten the reverb and blur the contours of the space
 - Set Grain Size from 10 to 70ms to form a misty texture
@@ -179,7 +179,7 @@ Since the 2010s, post-dubstep has expanded beyond just a genre derived from dubs
 
 ### 6-1 Typical frequency band distribution
 - 20~60Hz: Sine wave base
-- 200~800Hz: Field recording/noise/vocal fragments
+- 200-800Hz: Field recording, noise, vocal fragments
 - 1~3kHz: Chirp sound, processed percussion
 - 8~12kHz: Air feel, atomization noise
 

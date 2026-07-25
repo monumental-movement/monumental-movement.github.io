@@ -40,7 +40,7 @@ Tracing the history of music, we see not only changes in sound, but also changes
 
 In this article, we explore the relationship between music and ethics, expanding our horizons from the birth of straight edge to the formation of vegan hardcore, as well as noise and avant-garde music.
 
-> Music is a vessel for carrying ideas, and those ideas are born from the details of life.
+> Music is a vessel for carrying thoughts, and those thoughts are born from the details of life.
 
 
 
@@ -88,7 +88,7 @@ Distinct scenes formed in Washington, D.C., Boston, New York, the West Coast, an
 
 However, inside it, a movement other than a mere destructive impulse was also occurring.
 
-Self-control, discipline, and an orientation towards clean living.
+Self-control, discipline, and an orientation toward clean living.
 
 > Paradoxically, a culture of self-discipline began to emerge from the music of rebellion.
 
@@ -156,7 +156,7 @@ Straight edge has become less of a music genre and more of a lifestyle.
 
 It was both a philosophy of self-control and a critique of society.
 
-> Straight Edge has transcended a music genre and has been redefined as a lifestyle ethic.
+> Straight Edge has transcended the genre of music and has been redefined as a lifestyle ethic.
 
 ---
 
@@ -192,7 +192,7 @@ Veganism and vegetarianism didn't start out as hardcore.
 
 Its origins lie in the counterculture of the 1960s.
 
-Oriental thought, the environmental movement, and the idea of ​​returning to nature have influenced many musicians.
+Oriental thought, the environmental movement, and the return to nature philosophy have influenced many musicians.
 
 The idea of ​​harmony between body and mind also permeated musical culture.
 
@@ -206,7 +206,7 @@ One of the most famous vegetarians in the world of pop music is Paul McCartney.
 
 He has been advocating for animal welfare for many years.
 
-Their activities had an impact not only on music fans but also on society in general.
+Their activities have had an impact not only on music fans but also on society in general.
 
 This is a prime example of how music and ethical messages are naturally linked.
 
@@ -254,7 +254,7 @@ Ideas that were once a subculture have permeated general culture.
 
 Let's now shift our perspective to Japan.
 
-In Japan's avant-garde music, there are artists who continue to question the body and ethics in a way different from straight edge or veganism.
+In Japanese avant-garde music, there are performers who have continued to question the body and ethics in a way different from straight edge or veganism.
 
 ---
 

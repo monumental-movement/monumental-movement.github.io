@@ -20,7 +20,7 @@ title: '[Column] Strings that directly convey emotions and thoughts — Guitaris
 
 Text: mmr｜Theme: Explaining the world"s and Japan"s leading guitarists from the perspective of era, genre, technique, and philosophy
 
-The guitar is more than just a musical instrument; in the history of music since the 20th century, it has functioned as an extension of the body that directly conveys emotions and thoughts. The moment your fingers touch the strings, the sound is generated from the vibrations of your fingers and reaches the world through amplifiers and effectors. The tone produced by a guitar acts like a mirror, reflecting a person's emotions, mental state, and even cultural background.
+The guitar is more than just a musical instrument; in the history of music since the 20th century, it has functioned as an extension of the body that directly conveys emotions and ideas. The moment your fingers touch the strings, the sound is generated from the vibrations of your fingers and reaches the world through amplifiers and effectors. The tone produced by a guitar acts like a mirror, reflecting a person's emotions, mental state, and even cultural background.
 
 The image of a guitarist is different between Japan and the world. In the United States and the United Kingdom, blues and rock have become the foundation, and the genre has evolved into a mainstream one. However, Japan has experienced a more complex and free-flowing development, from the postwar electric boom to underground noise, improvisation, and post-rock. The uniqueness of Japanese guitars emerges at the intersection of mainstream technique and underground destructive expression.
 
@@ -50,14 +50,14 @@ color: #fff;
 
 ---
 
-**Jimi Hendrix** exploded the potential of the electric guitar. He made full use of effects such as feedback, wah pedal, and phaser to make the guitar sound like a "voice." In his live performances, he combines improvisation and subversive expression, transforming the guitar from just an accompaniment instrument to a central expressive device.
+**Jimi Hendrix** exploded the potential of the electric guitar. He made full use of effects such as feedback, wah pedal, and phaser to make the guitar sound like a "voice." In live performances, he combines improvisation and subversive expression, transforming the guitar from just an accompaniment instrument to a central expressive device.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-**Lou Reed (The Velvet Underground)** uses simple chord progressions and dissonance to bring artistic subversiveness to his music. It was pop, yet provocative, and contained an underground spirit.
+**Lou Reed (The Velvet Underground)** brought artistic subversiveness to his music using simple chord progressions and dissonance. It was pop, yet provocative, and contained an underground spirit.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -107,7 +107,7 @@ color: #fff;
 
 ---
 
-# III. Japan: Silence and Roaring History of Guitarists
+# III. Japan: A history of silence and roaring guitarists
 
 ## 1. After the war and the dawn of electric power (1950s to 1970s)
 
@@ -192,7 +192,7 @@ The guitar is not just a musical instrument, but a device for self-expression.
 
 - **Pedal board philosophy**: Sound creation = ego design. Each pedal becomes an extension of the player's personality.
 - **Loop/Glitch/DAW**: Extended "finger memory". A single performer can perform orchestral expression.
-- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the Kyoto underground to the world. Influenced improvisational and experimental music both domestically and internationally.
+- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the world from the Kyoto underground. Influenced improvisational and experimental music both domestically and internationally.
 
 Keiji Haino treats the guitar as an extension of his body and mind, and is a presence that shakes the listener's senses with the extremes of sound. The trinity of improvisation, destruction, and expression becomes an important coordinate in the history of Japanese underground guitar.
 

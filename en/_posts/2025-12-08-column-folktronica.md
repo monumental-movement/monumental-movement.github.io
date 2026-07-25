@@ -22,8 +22,8 @@ Text: mmr｜Theme: About the history, techniques, influences, equipment, and mus
 Folk-Tronica/Indietronica is a hybrid musical trend of the 21st century and beyond, where the simple sounds of acoustic instruments intersect with the textures of electronic sounds.
 It was born from the marriage of folk melodies, guitar arpeggios, field recordings of natural sounds, and laptop electronica sampling culture.
 
-Four Tet (Kieran Hebden), Caribou (Daniel Snaith), and Bonobo (Simon Green) are among those who clearly presented this genre to the world.
-Although they all have a background in electronic music, they have expanded the context of electronica since the 2000s by sampling and reconstructing a variety of music such as jazz, folk, ethnic music, and post-rock.
+**Four Tet (Kieran Hebden)**, **Caribou (Daniel Snaith)**, **Bonobo (Simon Green)** are among those who clearly presented this genre to the world.
+Although they all have a background in electronic music, they have sampled and reconstructed a variety of music such as jazz, folk, ethnic music, and post-rock, expanding the context of electronica since the 2000s.
 
 ---
 
@@ -45,14 +45,14 @@ color: #fff;
 
 ### ■ What is Folk-Tronica?
 A term that began to be used by Western media from the late 1990s to the early 2000s.
-**Music that integrates folk (acoustic melodies and songs) and electronica (beats/samples/digital editing)**.
+**Music that integrates folk (acoustic-based melodies and songs) and electronica (beats/samples/digital editing)**.
 
 Main features:
 - Extensive use of live recordings of acoustic guitars, string instruments, and percussion instruments
 - Digital editing (cut-up, granular processing)
 - Field recording texture
 - Simple but emotional melody
-- Coexistence of "touch" and "artificial objects"
+- Coexistence of "touch" and "artificial object"
 
 ### ■ What is Indietronica?
 The flow of introducing electronic music into the context of indie rock.
@@ -77,7 +77,7 @@ Four Tet points:
 ---
 
 ### ■ Caribou (Daniel Snaith)
-- Published electronica works under the initial name Manitoba (2000–2004).
+- Released electronica works under the initial name Manitoba (2000–2004).
 - Later changed the name to Caribou, fusing folk melodies and electronic beats.
 - Known for his fusion of psychedelic and pop, including ""The Milk of Human Kindness" (2005) and ""Andorra" (2007).
 
@@ -172,7 +172,7 @@ flowchart LR
 
 ### ■ Bonobo production features
 
-* Rich layers of strings, bass, keyboards, and percussion instruments
+* Rich layers of strings, bass, keyboards, and percussion
 * Jazz harmony
 * Integration of club music tension and listenability
 
@@ -195,10 +195,10 @@ Additionally, a new style of live management was formed, with the use of electro
 ## 8. Summary: Where acoustic "memory" and digital "reconstruction" meet
 
 Folk-Tronica/Indietronica is a method of reconstructing the simplicity and narrative nature of folk music using electronic music editing technology.
-It is a genre that brings ""warmth," ""touch," and ""aesthetics of gaps'' into the digital age.
+It is a genre that brings ""warmth," ""texture," and ""aesthetics of gaps'' into the digital age.
 
 The works of Four Tet, Caribou, and Bonobo are
-It clearly shows that sample editing, field recording, and acoustic instrument recording techniques can expand the realm of electronic music.
+It clearly demonstrated that **sample editing, field recording, and acoustic instrument recording techniques** can expand the realm of electronic music.
 
 In the future, with the evolution of laptop production and AI audio technology,
 It is thought that Folk-Tronica/Indietronica will continue to spread in various forms.

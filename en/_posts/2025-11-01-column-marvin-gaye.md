@@ -147,7 +147,7 @@ Furthermore, when you think about it from a ""what if" perspective, there are ma
 
 ### Re-evaluation and expansion of expression in modern times
 Even after Gaye's death, his music has been remastered, rediscovered, sampled, and continues to influence new generations today. For example, the discovery of unreleased demo sound sources has also been reported.
-In addition, there is a movement to make his life into a film or documentary, and it is gaining recognition not only as a piece of music history but also as a ""human drama.''
+There is also a movement to make films and documentaries about his life, and his reputation is expanding not only as a piece of music history but also as a ""human drama.''
 
 
 ---
@@ -158,7 +158,7 @@ Looking back on Marvin Gaye's life, it seems that while music itself was his ""s
 The words "If you cannot find peace within yourself, you will never find it anywhere else" are attributed to him.
 There is a shadow in the light of music, and there is light in the shadow - I think it is this antinomy that makes him more than just a "legend".
 His voice continues to be heard throughout time.
-I hope that this manuscript provides an opportunity to reconsider Marvin Gaye, his music, and his strange life.
+I hope that this manuscript will provide an opportunity to reconsider Marvin Gaye, his music, and his strange life.
 
 ---
 

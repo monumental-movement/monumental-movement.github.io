@@ -6,16 +6,14 @@ image: ../assets/images/column-hyperpop-digicore.webp
 lang: en
 layout: post
 tags:
-- Footwork
-- Juke
-- House
-- Chicago
+- Hyperpop
+- Digicore
 title: '[Column] Hyperpop / Digicore'
 ---
 
 
 
-#Hyperpop/Digicore: The complete picture of the next generation of Internet music
+## Hyperpop/Digicore: The complete picture of the next generation of internet music
 
 Text: mmr｜Theme: Comprehensive analysis of sound, production, and culture originating from the next generation of the Internet
 
@@ -135,7 +133,7 @@ flowchart TD
 
 ## 4-3. 100 gecs structure (overcrowded genre)
 
-* A mix of ska, metal, trap, and EDM in one song
+* Mix of ska, metal, trap, and EDM in one song
 * BPM changes, rapid developments
 
 ---
@@ -165,7 +163,7 @@ flowchart LR
 
 ---
 
-## 5-3. Minimal Trap / DnB Impact
+## 5-3. Minimal Trap / DnB impact
 
 * 808 base is modest
 * Kick is short
@@ -263,3 +261,10 @@ In the future, it is likely to be further segmented and expanded due to advances
 ---
 
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HkE69YtaAmU?si=hx0UDSvRFObW286Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -42,7 +42,7 @@ Furthermore, these occult and mystical elements are strongly reflected in Zeppel
 
 ### Deep Purple and Rainbow Oriental Scale
 
-On the other hand, another trend in hard rock can be seen in the introduction of oriental scales and mystical sounds. Although Deep Purple is rooted in classical music and blues, they occasionally incorporate exotic melodies to give their songs an exotic feel. In particular, Ritchie Blackmore's guitar playing includes many phrases reminiscent of Indian music and Arabic scales.
+On the other hand, another trend in hard rock can be seen in the introduction of oriental scales and mystical sounds. Although Deep Purple was rooted in classical music and blues, they occasionally incorporated exotic melodies to give their songs an exotic feel. In particular, Ritchie Blackmore's guitar playing includes many phrases reminiscent of Indian music and Arabic scales.
 
 This trend becomes even more evident in **Rainbow**, which was formed by Blackmore. Their signature song "Stargazer" combines oriental scale with mystical lyrics and grand orchestration. This song goes beyond just hard rock; it has a sense of scale, as if it were a musical expression of a grand myth or epic poem. In addition, during the live performance, the production made full use of fire and light, emphasizing the mystical view of the world and providing the audience with an ""otherworldly experience.''
 
@@ -66,7 +66,7 @@ flowchart LR
 
 </div>
 
-As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern philosophy and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
+As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern thought and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
 
 ---
 

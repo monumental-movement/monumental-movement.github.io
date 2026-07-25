@@ -16,7 +16,7 @@ title: Takehana and Golden Lotus - Samurai Step
 
 Based on bass music, a genre of electronic music, the track combines energetic and dynamic elements such as heavy bass lines, rhythmic drum patterns, effects, and sampling. The melody and sounds reminiscent of traditional Japanese music and samurai culture give the song a distinctive atmosphere.
 
-"Samurai Step" is a favorite among electronic music fans and artists. Their music offers new perspectives and musical experiences through the fusion of Japanese culture and the contemporary music scene.
+"Samurai Step" is a favorite among electronic music fans and artists. Their music offers new perspectives and musical experiences through a fusion of Japanese culture and the contemporary music scene.
 
 #### Tracklist
 ```md

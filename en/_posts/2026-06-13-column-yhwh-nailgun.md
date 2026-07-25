@@ -149,7 +149,7 @@ For this reason, it is important to understand each album, and it is difficult t
 
 Regarding the recording method, spatiality and distortion processing are important factors, and the texture of the mixture is prioritized over clean separation.
 
-> The work is not a collection of songs, but exists as a fragmentary record of a state.
+> A work exists not as a collection of songs, but as a fragmentary record of a state.
 
 ---
 
@@ -197,7 +197,7 @@ In this way, "changes in density" are more important indicators than clear turni
 YHWH Nailgun presents the sonic state itself, rather than the completeness of each song or genre consistency.
 
 The sound is always located between collapse and reconstruction, and continues to move without a stable center.
-Therefore, the listening experience stands out as a phenomenon of being involved, rather than an understanding.
+Therefore, the listening experience stands up as a phenomenon of being involved, rather than understanding.
 
 The essence of this band is not ""making music," but ""shaking the very conditions under which sound is created."
 

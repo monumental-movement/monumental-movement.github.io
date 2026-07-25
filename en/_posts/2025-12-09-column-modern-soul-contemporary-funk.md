@@ -103,7 +103,7 @@ Anderson Paak is
 * Soul Funk
 * west coast hip hop
 * Jazz/Gospel
-By integrating the elements of the band, he expanded Contemporary Funk into the pop field with his unique style as both a drummer and a singer.
+He integrated the elements of the band and expanded Contemporary Funk into the pop field with his unique style as both a drummer and a singer.
 
 ---
 

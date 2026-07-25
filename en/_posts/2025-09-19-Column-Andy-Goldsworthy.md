@@ -52,7 +52,7 @@ color: #fff;
 ### Goldsworthy's representative works/projects
 
 - **Snowball Series**: A huge snowball is set up in a city and displayed as it melts over time.
-- **Icicle Star**: A piece of ice that is assembled into a star shape and melts at sunrise.
+- **Icicle Star**: A piece of ice made into a star shape that melts at sunrise.
 - **Stone River (1997)**: A meandering stone wall installed at Stanford University in the United States.
 - **Rowan Leaves and Hole**: A piece of work in which red leaves are arranged in a circle and float on the water surface.
 - **Storm King Wall (1997–98)**: A long serpentine stone wall at the Storm King Art Center in New York.
@@ -131,7 +131,7 @@ color: #fff;
 
 ### Conclusion
 
-Andy Goldsworthy's works have a ""once-in-time" quality that changes and disappears with time and nature. His aesthetic resonates strongly with the ""ambience," ""repetition," and ""silence" of ambient, field recording, and minimal music. By experiencing the two in combination, a ""dialogue with nature'' that crosses the visual and auditory senses is born.
+Andy Goldsworthy's works have a ""once-in-time" quality that changes and disappears with time and nature. His aesthetic resonates strongly with the ""ambience," ""repetition," and ""silence" of ambient, field recording, and minimal music. By experiencing the two in combination, a ""dialogue with nature'' that crosses the visual and auditory senses is created.
 
 ---
 

@@ -28,7 +28,7 @@ Text: mmr｜Theme: Changes over time, techniques, and cultural background center
 ・Electronic sounds and tape operations
 It is a genre that has expanded the framework of folk music by incorporating such things as folk music.
 
-They range from the psychedelic movement of the late 1960s, the British folk revival, American acid folk, to the post-industrial/experimental music scene of the 1980s to 2000s.
+They range from the psychedelic movement of the late 1960s, British folk revival, American acid folk, to the post-industrial/experimental music scene of the 1980s to 2000s.
 Therefore, the genre is defined not so much by a ""uniform sound" as by ""acoustic experiments" centered on acoustics.
 
 
@@ -81,14 +81,14 @@ Introducing jazz phrasing and non-linear structures to folk music.
 - **Linda Perhacs ("Parallelograms", 1970)**
 An experimental production that combines tape processing, strings, and chorus work.
 
-During this period, American experimental folk was scattered as ""the personal experiments of singer-songwriters'' and did not emerge as a movement. However, it became the sound source foundation for the revival from the 1990s onwards, which will be discussed later.
+During this period, American experimental folk was scattered as ""singer-songwriters' personal experiments'' and did not emerge as a movement. However, it became the sound source foundation for the revival from the 1990s onwards, which will be discussed later.
 
 ---
 
-# 3. 1980s-90s: Influence of Industrial/Neofolk and role of Current 93
+# 3. 1980s-90s: Influence of Industrial / Neofolk and role of Current 93
 
 In the 1980s and 1990s, "neofolk" with acoustic elements emerged from the British post-industrial scene.
-One of the central players is **Current 93 (led by David Tibet)**.
+One of the central players is **Current 93 (hosted by David Tibet)**.
 
 ## Features of Current 93
 - Early on there was a strong noise/industrial element.
@@ -178,7 +178,7 @@ modes, ritual rhythms, religious poetry, etc.
 |--------------|------|------------|------------|
 | **Comus** | UK | 1969– | The origin of acid folk. Darkfolk template. |
 | **Current 93** | UK | 1982– | A fusion of post-industrial and acoustic. The center of neofolk. |
-| **Espers** | USA | 2002– | A symbol of the resurgence of Freak Folk/Psych Folk in the 2000s. |
+| **Espers** | United States | 2002– | A symbol of the resurgence of Freak Folk/Psych Folk in the 2000s. |
 
 By juxtaposing these three elements, we can understand that Experimental Folk is ""not a continuous genre, but a phenomenon in which multiple cultural trends are connected experimentally with acoustics as its base.''
 
@@ -239,12 +239,21 @@ Experimental Folk / Psych Folk, within the constraints of acoustic instruments,
 ・Sound adventure
 ・Poetic worldview
 ・Intersection with folk music and religious symbols
-It is a place where people can try their hand at experimentation, and its core lies in the experimental nature of the creative method itself.
+It is a place for experimenting with ideas, and its core lies in the experimental nature of the creative method itself.
 
 The bizarre acid folk of Comus, the religious recitations of Current 93, and the tranquil, multi-layered arrangements of Espers.
 What these artists have in common is that they treat folk as a "material" and deconstruct and reconstruct it acoustically and culturally.
 
 Experimental music and folk music are never far apart, and the simplicity of acoustic music allows for more room for experimentation.
 The resulting ""borderline music'' is Experimental Folk/Psych Folk.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMIWBb9udV8?si=7XmLDCDUbYf8BdIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

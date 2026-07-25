@@ -18,7 +18,7 @@ title: '[Column] Parliament / Funkadelic: The whole story of the P-Funk revoluti
 ## Prologue: What is P-Funk? A cosmic cultural revolution that goes beyond "funk"
 
 
-Text: mmr｜Theme: About the worldview of P-Funk, which still exists as the foundation of current hip-hop, R&B, electro, art, and fashion.
+Text: mmr｜Theme: About the world view of P-Funk, which still exists as the foundation of current hip-hop, R&B, electro, art, and fashion.
 
 
 In the history of black American music in the second half of the 20th century, **Parliament/Funkadelic (commonly known as P-Funk)** is the group that combines the grandest mythology and sound innovation.
@@ -83,7 +83,7 @@ After Larry Graham's slap, funk quickly became more rhythm-driven, but Funkadeli
 * **Black church gospel call and response**
 * **Lyrics with strong political criticism**
 
-In particular, 1971"s "Maggot Brain" is famous for Eddie Hazell"s over 10 minute guitar solo.
+In particular, 1971"s "Maggot Brain" is remembered for Eddie Hazell"s over 10 minute guitar solo.
 It has been described as the "musical embodiment of black sadness and anger."
 
 ---
@@ -268,7 +268,7 @@ mermaid.initialize({ startOnLoad: true });
 ## Conclusion: P-Funk is a "huge archive of black futures"
 
 George Clinton is more than just a funk leader.
-He was a "cultural designer" who brought together **music, the body, the universe, mythology, and social criticism**.
+He was a "cultural architect" who brought together **music, the body, the universe, mythology, and social criticism**.
 
 P-Funk's worldview is still alive today as the foundation of current hip-hop, R&B, electro art, and fashion.
 As long as P-Funk remains at the center of black music that speaks to the future, their spaceship "Mothership" will never land.

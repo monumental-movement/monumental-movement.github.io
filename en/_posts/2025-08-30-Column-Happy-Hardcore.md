@@ -28,7 +28,7 @@ The affinity between this "happy" sound and "Japanese culture" is not just an im
 
 Derived from British rave/hardcore techno in the early 1990s.
 
-**Characteristics**: High tempo of around 170BPM, pop and melodic synth, anime/cartoon sampling.
+**Characteristics**: High tempo of around 170 BPM, pop and melodic synth, anime/cartoon sampling.
 
 As the name suggests, this genre is a combination of "Happy" and "Hardcore".
 
@@ -42,7 +42,7 @@ Happy Hardcore emphasizes bright and catchy melodies, so it goes well with the t
 
 In particular, the use of voice material from bishoujo anime and Famicom/SNES-style chiptunes are popular with overseas producers.
 
-Example: In the Anime Rave/J-Core scene, anime lines and melodies are sampled to make it happy hardcore.
+Example: In the Anime Rave/J-Core scene, lines and melodies from anime are sampled to make it happy hardcore.
 
 #### Connection with J-Core
 

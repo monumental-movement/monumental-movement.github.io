@@ -23,7 +23,7 @@ Text: mmr｜Theme: Historical facts about the home-recorded beat culture collect
 
 Lo‑Fi Hip Hop has become an established name for a musical practice based on hip-hop beat production that is characterized by intentionally low-resolution sound quality, simple organization, and highly repetitive structures. Chillhop is a derivative name that emphasizes its listening use, especially the aspect consumed in work/environmental music contexts.
 
-The term Lo‑Fi means ""Low Fidelity,'' and refers to an attitude that treats recording technology limitations and noise as an element of expression rather than a flaw. On the other hand, Chillhop is not so much a genre name as a label formed within the categorization and playlist culture on distribution platforms.
+The term Lo-Fi means "low fidelity," and refers to an attitude that treats recording technology limitations and noise as an element of expression rather than a flaw. On the other hand, Chillhop is not so much a genre name as a label formed within the categorization and playlist culture on distribution platforms.
 
 While both share production techniques and aesthetics, they have played different roles in the distribution context.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 Lo-Fi Hip Hop's direct origins lie in the hip-hop beat production culture of the late 1980s and 1990s. Techniques such as repetitive beat construction using samplers and drum machines, sampling from records, and reconstructing breakbeats were carried over into later Lo-Fi beat production.
 
-At the time, the production environment was centered on hardware such as MPC, SP‑1200, and ASR‑10, and short sample times and low bit rates directly affected sound quality. These constraints gave rise to acoustic characteristics that were later reevaluated as ""warmth" and ""roughness."
+At the time, the production environment was centered on hardware such as MPC, SP-1200, and ASR-10, and short sample times and low bit rates directly affected sound quality. These constraints gave rise to acoustic characteristics that were later reevaluated as ""warmth" and ""roughness."
 
 ---
 
@@ -76,7 +76,7 @@ These reflect an attitude that prioritizes atmosphere and sustainability over pe
 
 ## 5. Instrumentalization and functional musicality
 
-Much of Lo‑Fi Hip Hop is an instrumental format that does not involve rap. This tendency has resulted in the elimination of linguistic information and increased functionality as background music.
+Much of Lo‑Fi Hip Hop is an instrumental format that does not involve rap. This trend has resulted in the elimination of linguistic information and increased functionality as background music.
 
 By linking it to concentrated activities such as studying, reading, and working, Lo‑Fi Hip Hop became both a listening object and an ambient music.
 
@@ -118,7 +118,7 @@ While this formalization lowers the barrier to entry, it also limits the range o
 
 Lo‑Fi Hip Hop/Chillhop is strongly tied to a revenue model based on streamed views. Structures suitable for long-term playback are highly compatible with algorithms, and there have been many cases of commercial success.
 
-On the other hand, there is also criticism that consuming music as a background makes it difficult to evaluate individual works.
+On the other hand, there is also criticism that consuming music as background music makes it difficult to evaluate each work individually.
 
 ---
 
@@ -190,7 +190,7 @@ As a result, the following trends became noticeable.
 * Dilution of rust structure
 * Acoustic continuity between songs
 
-These are designed with the premise of consumption in units of streams rather than in units of albums.
+These are designed with the assumption that they will be consumed in streams rather than albums.
 
 ---
 

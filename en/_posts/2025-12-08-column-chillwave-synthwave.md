@@ -21,7 +21,7 @@ title: '[Column] Chillwave / Synthwave Re-evaluation - The encounter between 80s
 
 Text: mmr｜Theme: Based on Washed Out, FM-84, Com Truise, etc., about the birth of Chillwave/Synthwave and its relationship with aesthetics, artwork, and internet culture.
 
-**Chillwave** and **Synthwave**, which rapidly spread from the late 2000s to the 2010s, are genres inspired by 1980s electronic music, synthesizers, VHS culture, and retro game aesthetics. However, there is a clear divergence between the two, with two different axes: ""the sound of vague memories" and ""80s revival cinematic sound."
+**Chillwave** and **Synthwave**, which rapidly spread from the late 2000s to the 2010s, are genres inspired by 1980s electronic music, synthesizers, VHS culture, and retro game aesthetics. However, there is a clear divergence between the two, with two different axes: ""the sound of vague memories" and ""the cinematic sound of 80s revival."
 
 
 ---
@@ -60,7 +60,7 @@ Representative artists:
 - **Neon Indian** (Alan Palomo)
 - 2009's ""Psychic Chasms'' is a symbolic work of the scene.
 - **Toro y Moi** (Chaz Bear)
-- Recognized as a major Chillwave act in 2010 with "Causes of This".
+- Recognized as a major Chillwave act in 2010 with ""Causes of This.''
 
 Chillwave is somewhere between indie rock and electronica, coinciding with the expansion of bedroom recording environments.
 
@@ -69,7 +69,7 @@ Chillwave is somewhere between indie rock and electronica, coinciding with the e
 # 2. What is Synthwave?
 ## 2-1. Formation (mid 2000s to early 2010s)
 Synthwave's origins are earlier than Chillwave, and can be traced back to French electronic music (particularly Kavinsky and College) in the mid-2000s.
-College & Electric Youth's ""A Real Hero", which was used in the early film ""Drive" (2011), became the catalyst for its mainstream spread.
+College & Electric Youth's ""A Real Hero", which was featured in their early film ""Drive" (2011), became the catalyst for their mainstream spread.
 
 Features:
 
@@ -102,7 +102,7 @@ Synthwave grew as a large independent genre on the internet throughout the 2010s
 | Aesthetics | Blurry memories, summer, nostalgia | Neon, futuristic cities, 80s movies |
 | Sound | Lo-fi/dream pop-oriented | Analog synth-centered, sharp sound |
 | Representative | Washed Out, Neon Indian | FM-84, Mitch Murder, The Midnight |
-| Cultural background | Indie and blog culture | Movies, games, and synth pop revival |
+| Cultural background | Indie and blogging culture | Movies, games, and synth pop revival |
 
 Although they look similar at first glance, **Chillwave has a different direction, ""the ambiguity of memories"**, and **Synthwave has an ""ideal image of 80s movies"**.
 
@@ -163,7 +163,7 @@ The sound itself is close to "reconstruction of 80s movies".
 flowchart TB
     A2005["2005: Kavinsky and College establish a style that would become Synthwave"] --> A2009
     A2009["2009: Washed Out"s ""Life of Leisure" and Neon Indian"s ""Psychic Chasms" are recognized as Chillwave's representative works."] --> A2010
-    A2010["2010: Kavinsky"s ""Nightcall" and Toro y Moi"s ""Causes of This" were released, increasing the popularity of both genres."] --> A2011
+    A2010["2010: Kavinsky"s "Nightcall" and Toro y Moi"s "Causes of This" were released, increasing the popularity of both genres."] --> A2011
     A2011["2011: The movie 'Drive' soundtrack influenced the global spread of Synthwave"] --> A2013
     A2013["2013: The end of the chillwave boom begins to be talked about in the music media"] --> A2016
     A2016["2016: FM-84"s Atlas and The Midnight"s activities further expand the popularity of Synthwave"] --> A2020
@@ -218,7 +218,7 @@ Synthwave was heavily influenced by the electronic music and visuals seen in the
 
 ## 9-2. Context of digital revival
 
-Chillwave made extensive use of visual expressions reminiscent of the personal media culture of the 1990s (VHS, camcorders, seaside home footage), and was compatible with the lo-fi photography culture of the Internet (such as early Instagram).
+Chillwave made extensive use of visual expressions reminiscent of the personal media culture of the 1990s (VHS, camcorders, seaside home footage), and was compatible with the internet's lo-fi photo culture (such as early Instagram).
 
 Synthwave's **grid background + neon typography** created by graphic designers has become standardized worldwide, and has also become popular in mix videos on YouTube.
 
@@ -234,6 +234,6 @@ Chillwave, on the other hand, is increasingly being talked about as an "indie er
 # Conclusion
 
 Chillwave and Synthwave both have their origins in the ""80s reappraisal,'' but each moved in a different direction of nostalgia. The former is a **soundscape of vague memories**, and the latter is a **reconstruction of the cinematic 80s world**.
-Behind this is the evolution of Internet culture, synthesizer technology, the DIY spirit, and the evolution of video and design.
+Behind this is the evolution of internet culture, synthesizer technology, the DIY spirit, and video and design.
 
 ---

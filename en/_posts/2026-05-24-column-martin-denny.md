@@ -157,7 +157,7 @@ Percussion placed on the left and right.
 Reverberation that gives a sense of depth.
 The sound of a bird suddenly flying in.
 
-His work was not just a piece of music, but a "sound production that changed the entire room."
+His work was not just a piece of music, but a "sound production that changed the whole room."
 
 It was natural for audio critics to treat his work as a stereo demo record in later years.
 
@@ -326,7 +326,7 @@ In other words, both of them were making sounds of a ""dream product space'' rat
 
 Lounge music and mood music culture began to spread in Japan from the 1960s onwards.
 
-Exotic sounds were often used in hotels, bars, and the tourism industry, especially during the period of high economic growth.
+Exotic sounds were often used especially in hotels, bars, and the tourism industry during the period of high economic growth.
 
 From the 1990s onwards, Martin Denny's work also gained attention again amidst the reappraisal boom of Shibuya kei and lounges.
 
@@ -366,7 +366,7 @@ This is because modern playlist culture is also "music that designs space and mo
 
 In the past, exotica was often considered "light entertainment music."
 
-However, since the 21st century, its acoustic experimentation and spatial design abilities have been evaluated anew.
+However, since the 21st century, its acoustic experimentation and space design abilities have been evaluated anew.
 
 At the same time, the cultural problems associated with exotica are also being discussed.
 

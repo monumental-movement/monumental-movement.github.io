@@ -16,7 +16,7 @@ title: Michael Jackson – Will You Be There
 
 "Will You Be There" is a moving and epic ballad with religious themes and a hopeful message. Michael Jackson's powerful vocals and emotional expressions stand out, making this a song that deeply touches the hearts of the listeners.
 
-This song is also known as the soundtrack for the movie "Free Willy" and was loved by many as the movie"s theme song. It was also frequently performed in Michael Jackson"s live performances, making it one of the most important songs in his career.
+This song is also known as the soundtrack for the movie "Free Willy," and was loved by many as the movie"s theme song. It was also frequently performed in Michael Jackson"s live performances, making it one of the most important songs in his career.
 
 #### Tracklist
 ```md

@@ -19,7 +19,7 @@ title: '[Column] Tango - From the margins of society to world culture, its meani
 
 ## Prologue Tango was society before it was "music"
 
-Text: mmr｜Theme: Tracing the social meaning of tango, from its birth on the fringes of society, to being forgotten, to its revival as a global culture
+Text: mmr｜Theme: Tracing the social meaning of tango, from its birth on the fringes of society to its being forgotten and its revival as a global culture.
 
 Tango was not born as an art from the beginning.
 It was the result of translating the distortions and tensions of the social structure of the Argentine port city of Buenos Aires into sound.
@@ -54,7 +54,7 @@ color: #fff;
 
 
 Argentina in the late 19th century experienced rapid economic growth and at the same time serious social divisions.
-The country prospered through agricultural exports, but only a small portion of the landowning class benefited.
+The nation prospered through agricultural exports, but only a small portion of the landowning class benefited.
 
 As large numbers of immigrant men flocked to cities in search of work, the male-female ratio collapsed.
 As a result, a culture where men dance with each other and competitive dance styles naturally form.

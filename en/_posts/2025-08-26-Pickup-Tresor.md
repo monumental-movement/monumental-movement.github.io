@@ -25,7 +25,7 @@ title: Pick up Tresor works
 Overview: Joey Beltram's work released by Tresor in 2004. Available in CD format at MMR.
 
 
-Attractive point: Includes many representative songs by veteran techno producer Joey Beltram. Through collaboration with Tresor, you can enjoy his deepened sound world.
+Attractive point: Contains many representative songs by veteran techno producer Joey Beltram. Through his collaboration with Tresor, you can enjoy his deepened sound world.
 
 #### Tracklist
 ```md

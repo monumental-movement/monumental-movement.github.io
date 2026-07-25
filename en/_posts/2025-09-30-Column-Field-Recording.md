@@ -15,10 +15,10 @@ title: '[Column] Field recording: Techniques, history, and recommended disc guid
 
 ## Why field recording?
 
-Text: mmr｜Theme: Covers the history of field recording, characteristics of major equipment, representative recording artists/producers, and recommended albums by generation.
+Text: mmr｜Theme: Covers the history of field recording, characteristics of major equipment, representative recording artists and producers, and recommended albums by age group.
 
 
-Field recording is the act of leaving the studio and recording the "sounds of the field" as they are. Natural sounds, urban environmental sounds, folk songs, the sounds of railways and factory machines—these are not just sound effects, but cultural archives and musical materials. It is an essential technology for movies, games, music production, and sound art.
+Field recording is the act of leaving the studio and recording the "sounds of the field" as they are. Natural sounds, urban environmental sounds, folk songs, the sounds of railways and factory machinery -- these are not just sound effects, they are cultural archives and musical materials. This is an essential technology for movies, games, music production, and sound art.
 
 ---
 
@@ -59,7 +59,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 | Tascam | [DR-100MKIII](https://amzn.to/4mJay46) | Professional grade, external microphone input | 2010s |
 | Sound Devices | [MixPre series](https://amzn.to/46IPMeF) | 32-bit float, high-quality preamplifier | 2010s~present |
 | Sony | [PCM-D100](https://amzn.to/46stJds) | High resolution compatible, robust | 2010s |
-| Roland | [R-09](https://amzn.to/4h7FWIp) / [R-26](https://amzn.to/42NZqLY) / [R-07](https://amzn.to/471CpHV) | Small and multifunctional, Bluetooth compatible models available | 2000s to present |
+| Roland | [R-09](https://amzn.to/4h7FWIp) / [R-26](https://amzn.to/42NZqLY) / [R-07](https://amzn.to/471CpHV) | Compact and multifunctional, Bluetooth compatible models available | 2000s to present |
 | NAGRA | Analog/digital equipment | Movie and broadcasting staples | 1960s-present |
 
 
@@ -69,7 +69,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 ### List of field recording artists and equipment used
 
 | Artist | Activity overview/Representative works | Equipment used (typical) |
-| -------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| -------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- |
 | **Alan Lomax** | 20th Century Folk Music Archive. Recording field recordings from the US to the world. Representative works: *The Alan Lomax Collection* | Ampex tape recorder, Nagra (1950s and later), various dynamic microphones |
 | **Chris Watson** | Former Cabaret Voltaire. Responsible for recording natural sounds for the BBC and documentary productions. Representative works: *El Tren Fantasma* (2011) | Sound Devices 7 series, Nagra, Sennheiser MKH series microphones |
 | **Bernie Krause** | A leading expert on natural environmental sounds (biophonics). Representative works: *The Great Animal Orchestra* | Nagra IV, Sound Devices recorder, Neumann & Sennheiser microphone |
@@ -91,7 +91,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - When recording labor songs on a farm in the southern United States, he carried a reel-type recorder that was larger than the camera.
 
-- Even the sounds of everyday life (the sound of dishes and people's laughter) were recorded, and these were made into the ""reality of that culture.''
+- Even the sounds of everyday life (the sound of dishes and people's laughter) were recorded, and they were made into the ""reality of that culture.''
 
 #### Annea Lockwood
 
@@ -109,11 +109,11 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 #### Toshiya Tsunoda
 
-- Apprehend the existence of sound as "spatial resonance."
+- Understanding the existence of sound as "spatial resonance".
 
 - Example: A microphone is installed in a cavity under the asphalt of a road to record minute vibrations.
 
-- The method is similar to a scientific experiment, but the results are converted into an aesthetic experience.
+- The method is similar to a scientific experiment, but the results are transformed into an aesthetic experience.
 
 #### Francisco Lopez
 
@@ -154,7 +154,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 #### Alan Lomax and Ampex
 
-- Ampex from the 1950s was very large and weighed several tens of kilograms.
+- The Ampex of the 1950s was very large and weighed several tens of kilograms.
 
 - Lomax used this as a mobile studio to record.
 
@@ -164,7 +164,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - So reliable that he says, ""I've never seen Nagra stop working.''
 
-- I use a super-directional microphone (Sennheiser MKH 416/816) when recording birds and animals.
+- For recording birds and animals, I use a super-directional microphone (Sennheiser MKH 416/816).
 
 - I made my own ""waterproof bag + sand cloth'' to protect my equipment from sand in the desert.
 
@@ -207,7 +207,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 ### Field recording history and representative albums
 
 | Age | Artist | Representative album | Comment | Link |
-| --------------- | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| --------------- | ---------------------- | ---------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | **1950s–1960s** | Alan Lomax | *The Alan Lomax Collection | Systematizes folk recordings from the mid-20th century. Recording equipment is Ampex/Nagra. The foundation of field recording. | [Amazon](https://amzn.to/3IQh8rr) |
 | **1980s** | Annea Lockwood | *A Sound Map of the Hudson River* (1989) | Map the Hudson River with "sound". A pioneering work in acoustic ecology.              | [Amazon](https://amzn.to/3Inx2cR) |
 | **1990s** | Hildegard Westerkamp | *Transformations* (1996) | Work based on sound walk theory. Experience urban/nature listening.                  | [archive.org](https://archive.org/details/transformationshwesterkamp) |
@@ -223,7 +223,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 ### The present and future of field recording
 
-Field recording is not just a technique, but an act of creating a "sonic memory." With the spread of high-performance portable equipment and advances in digital archive technology, we have entered an era in which anyone can make high-quality on-site recordings. On the other hand, issues such as ethics (subject consent, cultural attribution) and selection of storage formats remain. If you want to incorporate field recording into your hobby or work, we recommend first going out into the field with reliable equipment and creating a workflow to properly manage and share the recorded sound.
+Field recording is not just a technique, but an act of creating a "sonic memory." With the spread of high-performance portable equipment and advances in digital archive technology, we have entered an era in which anyone can make high-quality on-site recordings. On the other hand, issues such as ethics (subject consent, cultural attribution) and selection of storage format remain. If you want to incorporate field recording into your hobby or work, we recommend that you first go out into the field with reliable equipment and create a workflow to properly manage and share the recorded sound.
 
 
 ---

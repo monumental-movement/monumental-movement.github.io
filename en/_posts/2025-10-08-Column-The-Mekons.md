@@ -70,7 +70,7 @@ They leave London and transform into a social critique group that intersects pol
 The members are not fixed, and friends from university days come and go, sometimes recording with as many as 10 people. Its nature as an art collective is becoming stronger.
 
 Their masterpiece in 1989 ["The Mekons Rock "n" Roll"](https://amzn.to/4nIWLMc) was the summation of that.
-A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed low frequencies of the bass. These were gimmicks intended to intentionally distort the "formal beauty of rock."
+A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed bass frequencies. These were gimmicks intended to intentionally distort the "formal beauty of rock."
 With this album, they presented the paradox of ""Isn't rock the system itself?''
 
 > "We know that rock and roll is dangerous. It can destroy countries."

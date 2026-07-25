@@ -27,7 +27,7 @@ Japanese techno is not simply an adaptation of music that originated overseas. T
 
 In the late 1970s, synthesizers gradually became known to the general public in Japan, and musicians began to explore their possibilities. In the 1980s, techno pop became a social phenomenon, and in the 1990s, as club culture matured, a full-fledged techno scene was formed. Since the 2000s, Japanese artists have been showing their presence on labels and festivals around the world.
 
-In this article, we will trace the history of Japanese techno, not just as a music genre, but also including its relationship with culture, technology, cities, and the creative industry.
+This article traces the history of Japanese techno, not just as a music genre, but also in its relationship with culture, technology, cities, and the creative industry.
 
 
 <style type="text/css">
@@ -140,7 +140,7 @@ From the late 1980s to the early 1990s, the club scene became active mainly in T
 
 DJs established a style of creating long grooves while splicing records, and the musical experience, which was different from live performances, attracted young people.
 
-Clubs are becoming more than just places for dancing, they are becoming cultural spaces where new fashion, visual expression, art, and design intersect.
+Clubs are becoming more than just places for dancing; they are becoming cultural spaces where new fashion, visual expression, art, and design intersect.
 
 From here, Japanese techno began its history as full-fledged club music.
 
@@ -290,7 +290,7 @@ Not only rock, but also electronic music and DJ culture began to be introduced o
 
 The outdoor festival featured long DJ sets and live performances, gaining a new fan base.
 
-This kind of environment will revitalize Japan's electronic music scene as a whole and help foster the next generation of artists.
+This environment will revitalize Japan's electronic music scene as a whole and foster the next generation of artists.
 
 > The 1990s marked a turning point for Japanese techno from being an underground culture to being widely recognized by society, laying a solid foundation for the next era.
 
@@ -361,7 +361,7 @@ The performance, which involves manipulating images in real time to match the so
 
 Collaborative productions with filmmakers, lighting designers, and installation artists increased, and techno events developed into comprehensive media art.
 
-> Techno has evolved not only as "music" but also as a comprehensive art that includes images and spatial production.
+> Techno has evolved not only as ""music'' but also as a comprehensive art that includes images and spatial production.
 
 ---
 
@@ -421,7 +421,7 @@ In the late 2000s, the boundaries between techno, ambient, click, glitch, IDM, a
 
 In addition to 4/4 music for clubs, the number of works designed for listening has also increased.
 
-Japanese creators are not bound by genre and are now active in a wide range of fields, including video works, contemporary art, game music, and advertising music.
+Japanese creators are not bound by genre and are now working in a wide range of fields, including video works, contemporary art, game music, and advertising music.
 
 Electronic music is no longer limited to club culture, but has spread to music that can be heard in various situations in daily life.
 
@@ -632,7 +632,7 @@ H --> I
 | Late 2000s | Minimal techno and electronica spread | Diversification of musical expression |
 | 2010s | Distribution services and SNS become popular | It will be an era to directly deliver works to the world |
 | Late 2010s | Modular synthesizer popularity expands | Hardware culture is reevaluated |
-| 2020s | Live streaming and real events coexist | A new form of techno culture takes root |
+| 2020s | Live streaming and real events coexist | A new form of techno culture takes hold |
 
 ---
 

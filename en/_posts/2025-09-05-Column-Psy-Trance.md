@@ -14,14 +14,14 @@ title: '[Column] Psy-Trance history, masterpieces, and 10 recommended tracks'
 
 
 
-## Psychedelic trance (Psy-Trance) — A historical chronicle of psychedelic trance from its origins to the present and changes in equipment
+## Psychedelic Trance — A chronicle of chronology and changes in equipment from its origins to the present
 
 Text: mmr｜Theme: History of Psy-Trance from its origins to the present
 
 
-Goa trance, which originated from the hippie/rave culture in Goa, spread around the world in the mid-1990s as "psychedelic trance." Since then, various derivative genres (Full-on, Darkpsy, Progressive, Psybient, etc.) have been created through the refinement of sound images and the digitization of equipment, and it has become global through festival culture and online distribution.
+Goa trance, which originated from the hippie/rave culture in Goa, spread around the world in the mid-1990s as "psychedelic trance." Since then, a variety of derivative genres (Full-on, Darkpsy, Progressive, Psybient, etc.) have been created through the sophistication of sound images and the digitization of equipment, and it has become global through festival culture and online distribution.
 
-Below, we will summarize the trends by generation, representative masterpieces, changes in equipment, and **10 recommended tracks from each era**.
+The following is a summary of trends by generation, representative masterpieces, changes in equipment, and **10 recommended tracks from each era**.
 
 
 ---
@@ -209,7 +209,7 @@ color: #fff;
 ---
 
 ### Towards the future of psychedelics
-Psy-Trance was born from the intersection of hippie culture and technology, branched out into many different forms after its golden age in the 90s, and continues to dominate festivals around the world. Tracking the evolution of sound design and changes in equipment reveals the dynamism of its sound and the depth of its culture.
+Psy-Trance was born from the intersection of hippie culture and technology, branched out into a variety of forms after its golden age in the 90s, and continues to dominate festivals around the world. Following the evolution of sound design and changes in equipment reveals the dynamism of its sound and the depth of its culture.
 
 We started with analog equipment, went through digitalization, and are now in the stage of fusion that transcends genres. **1990s gore spirituality**, **2000s high-tech full-on explosiveness**, **2010s digital crossover**, and **2020s cross-genre evolution**. Each era created its own aesthetic.
 

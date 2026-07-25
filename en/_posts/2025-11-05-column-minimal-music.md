@@ -11,14 +11,14 @@ tags:
 - House
 - Rock
 title: '[Column] Expanding trajectory of Minimal Music: Aesthetics of repetition and
-  change as seen from Techno, House, and Rock'
+  change from the perspective of Techno, House, and Rock'
 ---
 
 
 ## Prologue: Between silence and repetition
 
 
-Text: mmr｜Theme: "Aesthetics of Repetition and Change"—A cross-sectional interpretation of minimal music, the richest expression of music achieved through "scarcity," from classical to techno to contemporary Japan.
+Text: mmr | Theme: "Aesthetics of Repetition and Change" - A cross-sectional interpretation of minimal music, the richest expression of music achieved through "scarcity," from classical to techno to contemporary Japan.
 
 A single sound rings out, then disappears silently.
 The next sound appears again, at a slightly different angle.
@@ -74,13 +74,13 @@ This ""free repetition'' is an idea that would later lead to electronic music an
 
 | Element | Content |
 |------|------|
-| Basic materials | 53 phrases (in 1-2 measure units) |
+| Basic materials | 53 phrases (1-2 measure units) |
 | Tempo | Any (generally around ♩=120) |
 | Repetition method | Each player moves to the next phrase at their own timing |
 | Effect | Polyrhythm effect due to phase shift |
 
 Steve Reich's next work, Piano Phase (1967), strictly controlled the "discrepancies" in repetition.
-By having two pianists play the same phrase and one accelerating the tempo slightly,
+By having two pianists playing the same phrase and one accelerating the tempo slightly,
 The sound pattern gradually shifts. This "Phase Shifting" is what
 It foresaw the aesthetics of loop structures in later techno.
 
@@ -113,7 +113,7 @@ It was a ""mental construct'' based on rhythmic abstraction.
 Robert Hood's ""Minimal Nation'' (1994) is played by the TR-909 drum machine.
 Creating extreme tension from minimal patterns.
 
-**Track Composition Analysis (Robert Hood - "Rhythm of Vision")**
+**Track composition analysis (Robert Hood - "Rhythm of Vision")**
 
 | Element | Content |
 |------|------|
@@ -131,8 +131,8 @@ Low frequency repetition and reverberation created an acoustic experience that e
 
 ## Chapter 4: Rock and Post-Minimalism - From Brian Eno to Radiohead
 
-Brian Eno's Music for Airports (1978)
-It is not only the father of ambient music, but also the origin of ""static minimalism.''
+Brian Eno's "Music for Airports" (1978)
+Not only is it the father of ambient music, but it is also the origin of ""static minimalism.''
 The accidental overlapping of loop tapes expanded the auditory timeline.
 
 Later, in Radiohead's ""Everything in Its Right Place'' (2000),
@@ -196,7 +196,7 @@ timeline
 
 ## Conclusion: "Change" is born through repetition
 
-Minimalism is not just about "less".
+Minimalism is not just about "few."
 It is the art of discovering the greatest freedom within limitations.
 This lineage continues from Terry Riley"s "In C" to Ryoji Ikeda"s "dataplex".
 While changing form from analog to digital, from the body to data,

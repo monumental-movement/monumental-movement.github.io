@@ -16,11 +16,11 @@ title: '[Column] Klaus Nomi: The critical point of the new wave opened up by voi
 
 
 
-## Prologue: Where did the deformed pop star come from?
+## Prologue: Where did the bizarre pop star come from?
 
 Text: mmr｜Theme: The trajectory of Klaus Nomi, who created a strange form of pop through the fusion of opera and new wave
 
-German countertenor Klaus Nomi emerged as a unique figure in New York in the early 1980s. A classically trained voice, sci-fi geometric costumes, and almost mechanical movements. They transcended the framework of mere music and functioned as performances that simultaneously stirred the visual and auditory senses.
+German countertenor Klaus Nomi emerged as a unique figure in New York in the early 1980s. A classically trained voice, sci-fi, geometric costumes, and almost mechanical movements. They transcended the framework of mere music and functioned as performances that simultaneously stirred the visual and auditory senses.
 
 Although he has been active for only a few years, the aesthetic he has developed in that short time has influenced new wave, art pop, and even contemporary performance culture.
 
@@ -53,11 +53,11 @@ He had experience working at the Deutsche Oper Berlin and was exposed to the beh
 
 ### Immigration to New York
 
-In the mid-1970s, he moved to the United States and settled in New York City. At the time, New York was a chaotic city where punk, disco, and art scenes intersected, making it the perfect testing ground for a unique figure like him.
+In the mid-1970s, he moved to the United States and settled in New York City. At the time, New York was a chaotic city where punk, disco, and art scenes intersected, making it the perfect testing ground for someone as unique as him.
 
 He continued his music career while working at a restaurant, and eventually gained attention in the underground scene.
 
-> A unique expression was born from the intersection of European tradition and New York chaos.
+> A unique expression was born from the intersection of European tradition and the chaos of New York.
 
 ---
 
@@ -67,7 +67,7 @@ He continued his music career while working at a restaurant, and eventually gain
 
 In 1978, he appeared at the performance event "New Wave Vaudeville" and dominated the audience's attention with his unusual presence. The performance here was more than just singing, it was a fusion of visual art, theater, and music.
 
-Triangular suits, whitewashed faces, extremely exaggerated movements. These works foreshadowed the later trend of visual emphasis in pop culture.
+Triangular suits, whitewashed faces, extremely exaggerated movements. These works anticipated the later trend of visual emphasis in pop culture.
 
 ### Voice specificity
 
@@ -112,7 +112,7 @@ These works are a mix of pop songs and classical arias, and are characterized by
 * "Cold Song"
 * "Simple Man"
 
-In particular, "Cold Song" is based on a work by Henry Purcell, and is a symbolic song that combines his classical background with pop direction.
+In particular, "Cold Song" is based on the work of Henry Purcell, and is a symbolic song that combines his classical background with pop direction.
 
 > A unique musical language was created through the coexistence of classical quotations and pop structures.
 
@@ -122,11 +122,11 @@ In particular, "Cold Song" is based on a work by Henry Purcell, and is a symboli
 
 ### Geometric costume
 
-His costumes had a futuristic design that emphasized straight lines and symmetry, and were distinctive among the fashions of the time. This isn"t just a costume, it"s a visual language integrated with his music.
+His costumes had a futuristic design that emphasized straight lines and symmetry, and were distinctive among the fashions of the time. This is not just a costume, but a visual language integrated with his music.
 
 ### Body production
 
-His movements were mechanical and theatrical, often giving the impression of being inhuman. This establishes his character as a ""non-human being''.
+His movements were both mechanical and theatrical, often giving the impression of being inhuman. This establishes his character as a ""non-human being''.
 
 > Visual expression functioned as an inseparable element from music.
 
@@ -146,7 +146,7 @@ He prioritized artistic expression over commercial success, an attitude that res
 
 ---
 
-## Detailed analysis of representative works: Voices and Crystals of Deformity
+## Detailed analysis of representative works: Voices and Crystals of Deformities
 
 ### "Total Eclipse"
 
@@ -251,7 +251,7 @@ E --> F[Overall performance]
 
 ## Late life and death
 
-Klaus Nomi died in 1983. The cause of death was AIDS, making him one of the earliest notable artists to die from the disease.
+Klaus Nomi died in 1983. The cause of death was AIDS, making him one of the first notable artists to die from the disease.
 
 At the time, understanding of the disease was extremely limited, and his death was a huge shock to the artistic community.
 
@@ -267,7 +267,7 @@ Klaus Nomi's style influenced many subsequent artists. In particular, he is a pi
 
 ### Contemporary reappraisal
 
-In the 21st century, his works are being reevaluated and increasingly referenced in the fields of film and fashion. His aesthetic continues to show the possibility of expression that transcends genres.
+In the 21st century, his work has been reevaluated and increasingly referenced in the fields of film and fashion. His aesthetic continues to show the possibility of expression that transcends genres.
 
 > His legacy extends beyond music to the form of expression itself.
 

@@ -164,7 +164,7 @@ Rather, it developed as music used in everyday life, such as urban development, 
 
 As Japan experienced rapid economic growth, new office buildings, department stores, museums, and hotels were constructed one after another.
 
-People not only seek richness, but also begin to be interested in intangible values ​​such as ""comfort" and ""comfort."
+People not only seek richness, but also begin to be interested in intangible values ​​such as "comfort" and "comfort."
 
 What attracted attention was the idea of ​​""designing a space using sound.''
 
@@ -200,7 +200,7 @@ Hosono, who has been active in a wide range of fields including rock, pop, elect
 
 Therefore, "space" always exists in his works.
 
-Rather than insisting on a strong melody, their sound creation was characterized by a sense of scenery, atmosphere, and time itself.
+Rather than insisting on a strong melody, the music was characterized by creating sounds that evoked a sense of scenery, atmosphere, and time itself.
 
 In 1984, ""Watering a Flower'' was produced.
 
@@ -290,13 +290,13 @@ Japanese environmental music fit perfectly into this.
 
 Japanese works do not have excessive self-assertion.
 
-The number of sounds is small, quiet, yet somehow warm.
+The number of sounds is small and quiet, yet somehow warm.
 
 It feels urban yet natural.
 
 This exquisite sense of distance brought a fresh experience to many overseas listeners.
 
-Furthermore, we have entered an era in which works can be shared across borders through video distribution services and SNS.
+Furthermore, we have entered an era where works can be shared across borders through video distribution services and SNS.
 
 Albums once known only to a few enthusiasts are now on the playlists of young creators, architects, designers, and programmers around the world.
 
@@ -384,7 +384,7 @@ This is more like a brand philosophy than a sales strategy.
 
 MUJI's value has always been ""not adding anything unnecessary.''
 
-Products, architecture, packaging, and advertising are all unified by this philosophy.
+Products, architecture, packaging, and advertising are all unified by this idea.
 
 Music is not the only exception.
 
@@ -550,7 +550,7 @@ It is about creating an environment that makes work more efficient.
 
 ## Modern people's brains suffer from "stimulus fatigue"
 
-Behind the popularity of ambient music is a change in the environment surrounding the modern human brain.
+Behind the popularity of ambient music is a change in the environment surrounding modern people's brains.
 
 Our brains have a limit to the amount of information they can process at once.
 
@@ -827,10 +827,10 @@ In the future, where information continues to increase, its value will continue 
 | Around 1917 | Erik Satie presents his concept of "Furniture Music" |
 | 1952 | Premiere of John Cage's 4 minutes 33 seconds |
 | 1960s | Minimal music develops |
-| 1978 | Brian Eno releases "Music for Airports" |
+| 1978 | Brian Eno's "Music for Airports" announced |
 | 1980s | Ambient music spreads in Japan |
 | 1982 | Hiroshi Yoshimura "Music for Nine Post Cards" announced |
-| 1980s | Haruomi Hosono explores new possibilities of environmental music and electronic music |
+| 1980s | Haruomi Hosono explores new possibilities in environmental music and electronic music |
 | 2000s | Minimal design and quiet space design spread worldwide |
 | Late 2010s | Japanese environmental music is reevaluated overseas |
 | 2020s | Playlists for concentration, sleep, and meditation are popular on streaming services |

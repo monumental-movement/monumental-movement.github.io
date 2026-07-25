@@ -20,7 +20,7 @@ title: '[Column] Memories of the vibrations of Mukkuri: A cultural history of th
 
 Text: mmr｜Theme: Deciphering the sonic philosophy of Ainu culture and its historical changes through the smallest musical instrument "mukkuri" that resonates with the body and nature.
 
-The mukkuri, a traditional Ainu musical instrument, is a type of musical instrument classified as a so-called ""mouth harp.'' A tongue-shaped part (reed) is cut out from the center of a long, thin bamboo board, and a string is attached to the end. When the string is pulled, the reed vibrates, generating sound using the oral cavity as a resonator.
+The mukkuri, a traditional Ainu musical instrument, is a type of musical instrument classified as a so-called ""mouth harp.'' A tongue-shaped part (reed) is cut out from the center of a long, thin bamboo board, and a string is attached to the end. When the string is pulled, the reed vibrates, producing sound using the oral cavity as a resonator.
 
 Although the mukkuri has a simple structure, it produces extremely delicate changes in sound. Although the pitch itself cannot be changed significantly, the timbre changes depending on how the mouth opens, the position of the tongue, and the way one breathes, resulting in a wide variety of acoustic expressions.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ## Position in Ainu culture
 
-It is said that the mukkuri was often played mainly by women. It has been used in daily life for play, communication, and personal expression.
+It is said that the mukkuri was often played mainly by women. In daily life, it has been used for play, communication, and personal expression.
 
 In Ainu culture, music existed naturally not only in ceremonial scenes but also in everyday life. Mukkuri is a symbol of this, and it is music that takes place within the individual's body and time, without the need for a special stage or ritual.
 
@@ -97,7 +97,7 @@ D --> E[finishing]
 
 Machining the reed part is particularly important, as slight differences in thickness and shape can greatly affect the sound. Therefore, the skill and experience of the producer determines the sound quality.
 
-It is also sometimes decorated with carvings, making it valuable not only as a musical instrument but also as a craft.
+It is also sometimes decorated with carvings, and has value not only as a musical instrument but also as a craft.
 
 > Mukkuri is a product of precision handiwork that combines crafts and acoustic technology.
 
@@ -177,7 +177,7 @@ As digital music and electronic sounds become mainstream, body-based sounds like
 
 Furthermore, the way that rich acoustics can be created from a minimalist structure is highly suggestive for contemporary music production.
 
-The idea of ​​""drawing out" sound rather than ""creating" it is an opportunity to reconsider the fundamental nature of music.
+The idea of ​​""drawing out" rather than ""creating" sound provides an opportunity to reconsider the fundamental nature of music.
 
 > Mukkuri is a presence that makes us reconsider the origins of music in modern times.
 

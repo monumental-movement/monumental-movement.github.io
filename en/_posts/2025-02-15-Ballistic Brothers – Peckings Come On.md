@@ -19,7 +19,7 @@ Ballistic Brothers was a downbeat band based in England in the 90s, formed by X-
 
 This CD is a single cut from the masterpiece album London Hooligan Soul, released in 1995 by the UK label Junior Boy's Own.
 
-The second song is a remix by jungle drum and bass DJ and producer Simon Templar aka Paul Saunders.
+The second song is a remix by jungle drum and bass DJ and producer Simon Templar, aka Paul Saunders.
 
 The third song is a remix by UK techno DJ and producer Luke Slater.
 

@@ -45,7 +45,7 @@ In the German music scene at the time, there was a strong movement to explore ne
 
 The initial membership composition was fluid, and the group's character as a project-type group was already strongly evident at this point.
 
-> The starting point for Der Plan was an experimental field for electronic pop where urban mechanics and playfulness intersect.
+> The starting point for Der Plan was an electronic pop experiment where urban mechanics and playfulness intersect.
 
 ---
 
@@ -59,7 +59,7 @@ With this change, Der Plan became more than just a band, but a production unit w
 
 This period was characterized by an extreme mix of pop melodies and mechanical rhythms, which also influenced later synthpop and parts of industrial.
 
-> Early fluctuations transformed Der Plan from a fixed band to an experimental production.
+> Early fluctuations transformed Der Plan from a fixed band to an experimental production
 
 ---
 
@@ -68,7 +68,7 @@ This period was characterized by an extreme mix of pop melodies and mechanical r
 
 ### Coexistence of humor and mechanicality
 
-After joining Pyrolator, Der Plan became more clearly focused on electronic music. The traditional rock structure was intentionally dismantled, with synthesizers, rhythm machines, and tape manipulation taking center stage.
+After joining Pyrolator, Der Plan became more clearly focused on electronic music. The traditional rock structure was deliberately dismantled, with synthesizers, rhythm machines, and tape manipulation taking center stage.
 
 An important characteristic of this period is ""humor.'' Der Plan was not a serious avant-garde, but rather had a lightness that parodied pop culture. However, its lightness was not just a joke, but also a sharp observation on media society.
 
@@ -98,7 +98,7 @@ Their work was later reevaluated and became an important piece of German electro
 
 ### Collision and redefinition of old and new
 
-In 2004, Moritz R restarts Der Plan with new members Achim Treu and JJ Jones. However, this activity caused disagreements with the original members, and it became a branched form under the name Der Plan V.4.0.
+In 2004, Moritz R restarts Der Plan with new members Achim Treu and JJ Jones. However, this activity caused a difference of opinion with the original members, and it became a branched form under the name Der Plan V.4.0.
 
 This period is characterized by the problem of originality. The historical meaning of the name Der Plan and the direction of the new project did not necessarily match, and the group's identity became multiple.
 

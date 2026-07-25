@@ -161,7 +161,7 @@ A documentary film depicting the history and development of the Norwegian dance 
 
 ### Analysis: Why Norwegian disco is internationally acclaimed
 
-1. **Texture aesthetics**: The coexistence of Scandinavian ways of creating "space" (reverb and spaciousness) with a warm analog feel.
+1. **Texture aesthetics**: The coexistence of Scandinavian ways of creating "space" (reverb and spaciousness) and a warm analog feel.
 2. **Long track culture**: A style that emphasizes the "journey" through albums rather than clubs.
 3. **Cross-cultural references**: Free references to Italo, French disco, and even folk music elements.
 
@@ -170,7 +170,7 @@ A documentary film depicting the history and development of the Norwegian dance 
 
 ### lastly
 
-Prins Thomas, Lindstrøm, and Mungolian Jet Set continue to send out ""temperature disco'' from Norway to the world. Given their musical background and production work, their tracks go beyond mere dance music and provide a listening experience tinged with a Scandinavian sense of time/landscape.
+Prins Thomas, Lindstrøm, and Mungolian Jet Set continue to deliver "temperature disco" from Norway to the world. Given their musical background and production work, their tracks go beyond mere dance music and provide a listening experience tinged with a Scandinavian sense of time/landscape.
 
 ---
 

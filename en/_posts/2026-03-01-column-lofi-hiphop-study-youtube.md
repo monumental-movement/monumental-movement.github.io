@@ -159,6 +159,6 @@ Music with a repetitive structure is suitable for loop playback. 24-hour distrib
 
 For a generation raised on YouTube and streaming, algorithmic recommendations and playlist culture are the norm, and Lo-Fi was a natural fit for that context.
 
-> The popularity of Lo-Fi hip-hop is not a coincidence; it is shaped by the interaction between acoustic structures and the digital environment.
+> The popularity of Lo-Fi hip-hop is not a coincidence, but is shaped by the interaction of acoustic structures and digital environments.
 
 ---

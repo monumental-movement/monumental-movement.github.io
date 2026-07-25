@@ -70,7 +70,7 @@ Burning Man has long been a magnet for celebrities — entrepreneurs, artists, a
 
 ### Anecdote/Legend
 
-When it was relocated in 1990, a police ban on burning on beaches was a turning point, and the decision was made to move to the desert.
+When it was relocated in 1990, a police ban on burning on the beach was a turning point, and the decision was made to move to the desert.
 Burning Man
 
 An interesting story that the roots of "Google Doodle" are related to the founder's vacation announcement at Burning Man (the intersection of corporate culture and festivals).
@@ -170,7 +170,7 @@ From around this time, participatory experiences that combined fire and art beca
 
 1996 was the year Burning Man accelerated its transformation from a "festival" to a community experimental city.
 
-The values ​​that ""find value in the experience itself'' permeated the participants, and supported the formation of later large-scale art works and themed cities.
+The values ​​that ""find value in the experience itself'' permeated the participants, and supported the formation of large-scale art works and theme-based cities later on.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -178,7 +178,7 @@ The values ​​that ""find value in the experience itself'' permeated the part
 
 #### 1997: Fertility
 
-1997 was the year that Burning Man's symbolism of nature, life, and rebirth became the central theme for the first time.
+1997 was the year that Burning Man's symbolism of nature, life, and rebirth was the first to take center stage.
 
 The prototype of the "celebration of life and creativity" that has been inherited by subsequent themes (2004 Vault of Heaven, 2012 Fertility 2.0, etc.).
 
@@ -204,7 +204,7 @@ The theme of the wheel of time/circularity. The city blocks and streets have bee
 
 The theme is the expression and symbolism of the human body and body. There are many installations that test physicality, aesthetics, and the limits of the body.
 
-Also, from this year, temple installations began to take hold, and installations that combined spirituality and structure, such as the ""Temple of the Mind'' (or similar concepts), appeared.
+Also from this year, temple installations began to take hold, and installations that combined spirituality and structure, such as the ""Temple of the Mind'' (or similar concepts), appeared.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -308,7 +308,7 @@ A re-examination and update of 1997's "Fertility". The theme is creativity, rebi
 
 Using the cargo cult (the gap between material culture and faith) as a motif, we re-examine modern consumer society, cargo distribution, and ritualization.
 
-Many of the camps and structures express the gap between the "material being worshiped" and the "gift economy."
+Many camps and structures express the gap between ""the material being worshiped" and the ""gift economy."
 
 ---
 
@@ -356,7 +356,7 @@ Focusing on metamorphosis, metamorphosis, and transformation, dynamic change, ma
 
 #### 2020: The Multiverse
 
-Originally, the theme was the multiverse concept. However, due to COVID-19, the local festival was canceled. Exploring development in virtual/online space.
+Originally, the theme was the multiverse concept. However, due to COVID-19, the local festival was canceled. Exploring development in virtual space/online space.
 
 ---
 
@@ -370,7 +370,7 @@ A hybrid/virtual/physical fusion approach with the theme of "reflection and refl
 
 #### 2022: Waking Dreams
 
-With the theme of awakening and awakening, the composition was created with an awareness of the fluctuations between dreams and reality and the awakening perspective.
+With the theme of awakening from dreams and awakening, the composition was created with an awareness of the fluctuations between dreams and reality and the awakening perspective.
 
 ---
 

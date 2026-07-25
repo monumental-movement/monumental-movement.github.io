@@ -15,7 +15,7 @@ title: Marschmellows – Soulpower
 
 
 
-Marschmellows is an electronic music project based in Germany from the late 1990s to the 2000s. Their sound is a fusion of Future Jazz, Broken Beat, and downtempo, and they are known as one of the representative artists of Frankfurt, Germany's prestigious label INFRACom!.
+Marschmellows was an electronic music project based in Germany from the late 1990s to the 2000s. Their sound is a fusion of Future Jazz, Broken Beat, and downtempo, and they are known as one of the artists representing INFRACom!, a prestigious label in Frankfurt, Germany.
 
 "Soulpower" is a House/Broken Beat/Future Jazz track released on the label INFRACom! in 1998 and also included on the album "Rebound."
 

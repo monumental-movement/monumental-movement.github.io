@@ -21,11 +21,11 @@ title: '[Column] Why does AKIRA still sound like the sound of the future? — Av
 
 Text: mmr｜Theme: Why AKIRA still sounds like the "sound of the future"—Prophecies about the city and the body drawn by avant-garde folk sounds
 
-In 1988, an animated film was released from Japan, which was in the midst of the bubble economy. The original work is by Katsuhiro Otomo. The music is by Shoji Yamashiro, who leads the entertainment Yamashiro group. The name of the work is AKIRA.
+In 1988, an animated film was released from Japan, which was in the midst of a bubble economy. The original work is by Katsuhiro Otomo. The music is by Shoji Yamashiro, who leads the entertainment Yamashiro group. The name of the work is AKIRA.
 
 Even though it's been nearly 40 years since its release, the sound of this movie never gets old. In fact, in recent years, with the resurgence of cyberpunk, the context of ""Why AKIRA Still Sounds Future'' has become stronger.
 
-The reason is not just nostalgia. Runaway cities, tensions between the state and technology, youth"s outbursts, and the transformation of the body. The soundtrack, which plays at the intersection of folk music and electronic sounds, eerily resonates with today"s world.
+The reason for this is not just nostalgia. Runaway cities, tensions between the state and technology, youth"s outbursts, and the transformation of the body. The soundtrack, which plays at the intersection of folk music and electronic sounds, eerily resonates with today"s world.
 
 In this article, based on facts, we will decipher how AKIRA's music became the "sound of the future" through its production background, acoustic structure, cultural influences, and the process of re-evaluation.
 
@@ -56,7 +56,7 @@ The original manga ""AKIRA'' began serialization in 1982, and the story unfolds 
 
 The story is set in Neo Tokyo in 2019. Military experiments, anti-government demonstrations, motorcycle gangs, and the development of supernatural powers. It depicts the collapse and rebirth of a city, strongly reflecting the atmosphere at the end of the Cold War.
 
-The music was conceived in parallel with the film's production. Director Otomo sought a more fundamental and religious sound than the existing anime-like accompaniment. As a result, the group that was singled out was the entertainment Yamashiro group.
+The music was conceived in parallel with the film's production. Director Otomo sought a more fundamental, religious sound rather than the existing anime-like accompaniment. As a result, the group that was singled out was the entertainment Yamashiro group.
 
 ### Positional relationship with Cyberpunk
 
@@ -122,7 +122,7 @@ Sound does not follow vision, but instead represents the heartbeat of the body. 
 
 In the second half of the story, Tetsuo's rampant abilities and physical transformation are powerfully depicted in terms of sound. The combination of high-frequency electronic sounds, undulating bass, and the tension of the chorus creates an audible sense of unease.
 
-What is important here is that the sound is not just a performance, but is ""part of the story.''
+What is important here is that sound is not just a stage performance, but is ""part of the story.''
 
 Music is not the background. It exists as a voice that symbolizes the will of the city, the pressure of the state, and the collapse of the individual.
 

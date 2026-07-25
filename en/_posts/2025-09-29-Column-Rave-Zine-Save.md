@@ -13,7 +13,7 @@ title: '[Column] Can Zine Save Rave? : Possibility of DIY media as a storage dev
 ---
 
 
-## Zine is a record, zine is an expression, zine is an extension of rave
+## Zine is a record, zine is an expression, zine is an extension of the rave
 
 Text: mmr | Genre: Media culture/music archive | Theme: Zine as a preservation device for unrecorded culture
 
@@ -43,7 +43,7 @@ The vibrations of my body that I felt on the club floor. An illegal rave that la
 
 They are often not recorded. It is not reported in the media and is not recorded in history.
 
-However, a DIY media called ""Zine'' is currently attracting attention as a means of picking up the fragments and retelling the story.
+However, a DIY medium called ""zine'' is currently attracting attention as a means of picking up the fragments and retelling the story.
 
 A zine is not a magazine, diary, or report. However, it is closer to the "voices of the people involved" than any of these. In the rave culture, which inherently resists recording, zines have the potential to serve as ""memory aids.''
 
@@ -78,7 +78,7 @@ Zine is an abbreviation for "Magazine" and is an independent publication that an
 
 ### Zine and rave affinity
 
-Zines can be a ""means for reconstructing the experience'' of unrecorded raves.
+Zines can be a means of reconstructing the experience of unrecorded raves.
 
 #### Specific example
 
@@ -114,7 +114,7 @@ flowchart TD
 ### In the age of digital, why keep things on paper?
 
 | Features | Digital | Paper (Zine) |
-| ----------------------- | --------------------------------- | ---------------------------------------- |
+| ------------------------ | --------------------------------- | ---------------------------------------------- |
 | May disappear | May disappear due to broken link or deletion | Will remain in your possession semi-permanently |
 | Copy | Infinite copying possible | Limited physical copy = presence as "evidence" |
 | Share | Instantly share with a click | Hand delivery/mailing = physical ritual involved |
@@ -127,7 +127,7 @@ Just as rave was a "physical experience," zine is also a "physical medium."
 
 ### Rave Archive
 
-Founded in 2007, Rave Archive is an archive that preserves and shares memories of 90s rave culture. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
+Established in 2007, Rave Archive is an archive that preserves and shares memories of 90s rave culture. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
 
 [Rave Archive](https://ravearchive.com)
 

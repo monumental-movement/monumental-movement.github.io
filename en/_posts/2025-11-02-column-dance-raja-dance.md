@@ -88,7 +88,7 @@ This "hybridity" is the core of South Indian music.
 
 ## Chapter 4: Video production and dance choreography
 
-The dance scenes in ""Dance Raja Dance"' were so ingenious that they exceeded the limits of Indian film technology at the time. Making full use of lighting, smoke, and mirror effects, a **video art composition** that looks like it"s aimed at the MTV generation is developed.
+The dance scenes in ""Dance Raja Dance"' were so elaborate that they exceeded the limits of Indian film technology at the time. Making full use of lighting, smoke, and mirror effects, a **video art composition** that looks like it"s aimed at the MTV generation is developed.
 
 The choreographer was Mugur Sundar (later the father of famous dance master Prabhu Deva), who was up-and-coming at the time.
 While he referenced steps from Hollywood movies, he boldly mixed in elements of **Bharatanatyam hand gestures (mudras)** and folk dance.
@@ -132,9 +132,9 @@ A.R. Rehman's early works Roja (1992) and the foundations of urban soundtracks s
 ## Chapter 8: Cultural Impact and Reappraisal
 
 In the 21st century, ""Dance Raja Dance'' is being reevaluated through YouTube and Spotify.
-The images and music of that time are not "kitsch" but are being reinterpreted as **South Indian Futurism**.
+The images and music of that time are not "kitsch" but have been reinterpreted as **South Indian Futurism**.
 
-For young Kannada-speaking people, this is not just nostalgia, but a starting point for cultural self-expression that moves from the local to the global.
+For young Kannada-speaking people, this is not just nostalgia, but a starting point for cultural self-expression from the local to the global.
 
 ---
 

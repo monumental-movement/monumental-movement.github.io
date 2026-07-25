@@ -24,7 +24,7 @@ Martinique is a French overseas department located in the Lesser Antilles in the
 
 From the 17th century onward, as France colonized the country, slaves brought from Africa were forced to work on sugarcane plantations. They brought not only language and religion, but also a sense of rhythm, singing, dance, and percussion culture.
 
-After that, dances, military music, and church music originating from Europe were mixed with polyrhythms originating from Africa, forming a unique Creole culture. This ""mixing'' is the most distinctive feature of Martinique music.
+After that, dances, military music, and church music originating from Europe were mixed with polyrhythms originating from Africa, forming a unique Creole culture. This "mixing" is the most distinctive feature of Martinique music.
 
 Island music is not simply traditional music. Multiple layers of history overlap, including colonial rule, slavery, immigration, urbanization, tourism, relations with mainland France, and diaspora culture.
 
@@ -200,7 +200,7 @@ The central group that spread this new sound to the world was Kassav.
 
 Formed in 1979, Kassav catapulted zouk into an international genre.
 
-They actively introduced studio technology and created a huge dance sound. Complex percussion, synthesizers, chorus work, and bass lines were fused to create a unique sense of exhilaration.
+They actively introduced studio technology and created a huge dance sound. The fusion of complex percussion, synthesizers, chorus work, and bass lines created a unique sense of exhilaration.
 
 Particularly important was the emphasis on the Creole language.
 

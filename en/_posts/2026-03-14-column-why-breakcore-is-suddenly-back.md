@@ -88,7 +88,7 @@ In particular, European squat culture (rave in illegally occupied spaces) played
 
 In this scene,
 
-"I didn"t have to follow the rules of the genre."
+"I didn't have to follow the rules of the genre."
 
 As a result, music rapidly becomes more radical.
 
@@ -245,7 +245,7 @@ In this way, Breakcore is not a rave culture.
 
 "Internet culture"
 
-was revived inside.
+was revived within.
 
 > Breakcore's resurgence began not in clubs, but on the internet.
 

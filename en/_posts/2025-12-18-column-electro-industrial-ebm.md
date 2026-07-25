@@ -41,7 +41,7 @@ color: #fff;
 
 ## 1. EBM and Electro-Industrial as terms
 
-The term EBM was introduced in the early 1980s, and initially functioned more as a concept to indicate a creative attitude and musical direction than a genre name. As the name "Electronic Body Music" suggests, the emphasis is on directly driving physical movement through electronic sounds.
+The term EBM was introduced in the early 1980s, and initially functioned more as a concept to indicate a creative attitude and musical direction than a genre name. As the name Electronic Body Music itself suggests, the focus is on directly driving physical movement through electronic sounds.
 
 On the other hand, Electro-Industrial is a name that has developed from the structure of EBM, incorporating more complex acoustic processing, noise elements, and psychological and introspective themes. The two are not discontinuous genres, but are distinguished by continuous development with EBM as the backbone.
 

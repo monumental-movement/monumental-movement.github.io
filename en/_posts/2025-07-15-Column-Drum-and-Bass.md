@@ -76,7 +76,7 @@ From this time on, the name "jungle" gradually changed to "D&B". This means the 
 </tr>
 <tr>
 <td>Breakbeat</td>
-<td>Uses a lot of sampling of Amen, Funky Drummer, Apache, etc.</td>
+<td>Large sampling of Amen, Funky Drummer, Apache, etc.</td>
 </tr>
 <tr>
 <td>Subbase</td>

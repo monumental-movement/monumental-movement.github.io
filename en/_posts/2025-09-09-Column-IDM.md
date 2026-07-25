@@ -26,7 +26,7 @@ A labyrinth of sounds that tickles intellectual curiosity - IDM (Intelligent Dan
 
 ## Early 1990s: Birth - The germ of "dance music for listening"
 At the end of the 1980s, in the midst of the UK rave culture and techno craze, underground labels and artists began to explore ""electronic music for home listening'' rather than just a club tool.
-The ""Artificial Intelligence" series released by Warp Records in 1992 was a decisive turning point, and the name ""IDM" became widespread.
+The ""Artificial Intelligence" series released by Warp Records in 1992 was a decisive turning point, and the term ""IDM" became popular.
 
 - **Representative masterpiece**
 - Aphex Twin – *Selected Ambient Works 85-92* (1992)
@@ -52,7 +52,7 @@ color: #fff;
 
 ### List of 10 recommended songs (early 1990s)
 
-| No | Artist | Song title | Comment |
+| No | Artist | Song title | Comments |
 |---|---|---|---|
 | 1 | Aphex Twin | Xtal | Floating ambient beat, symbol of early IDM |
 | 2 | Autechre | Kalpol Intro | The beginning of minimal and abstract IDM |
@@ -82,7 +82,7 @@ Hardware synths such as **Nord Lead** and **Access Virus** became popular.
 
 ### List of 10 recommended songs (late 1990s)
 
-| No | Artist | Song title | Comment |
+| No | Artist | Song title | Comments |
 |---|---|---|---|
 | 1 | Aphex Twin | Girl/Boy Song | Fusion of strings and complex beats |
 | 2 | Autechre | Eutow | Mechanical and beautiful rhythm design |
@@ -112,7 +112,7 @@ Soft synths such as **Reaktor and FM7** have become standard.
 
 ### List of 10 recommended songs (2000s)
 
-| No | Artist | Song title | Comment |
+| No | Artist | Song title | Comments |
 |---|---|---|---|
 | 1 | Boards of Canada | Dayvan Cowboy | Lyrical acoustic beauty |
 | 2 | Four Tet | My Angel Rocks Back and Forth | Folktronica masterpieces |
@@ -142,7 +142,7 @@ Original instrument development using **Max for Live**.
 
 ### List of 10 recommended songs (2010s)
 
-| No | Artist | Song title | Comment |
+| No | Artist | Song title | Comments |
 |---|---|---|---|
 | 1 | Oneohtrix Point Never | Replica | Fusion of glitch and ambient |
 | 2 | Actress | Hubble | Dark and abstract IDM |
@@ -172,7 +172,7 @@ Hybrid production that combines modular and software.
 
 ### List of 10 recommended songs (2020s-present)
 
-| No | Artist | Song title | Comment |
+| No | Artist | Song title | Comments |
 |---|---|---|---|
 | 1 | Autechre | M4 Lema | Complex and organic evolution |
 | 2 | Kelly Lee Owens | Night | Dreamy Soundscape |

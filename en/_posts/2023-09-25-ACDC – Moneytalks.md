@@ -16,7 +16,7 @@ title: ACDC – Moneytalks
 
 "Moneytalks" is a song that is characterized by its up-tempo and catchy riff and melody.The song as a whole conveys AC/DC's powerful performance and powerful vocals, and has a charm that draws the listener in.
 
-This song is known as one of AC/DC's signature songs and is one of the hits of their career. It is a popular song for rock fans who enjoy air guitar and head banging. In addition, its catchy melodies and powerful performances are enjoyed by a wide range of music fans.
+This song is known as one of AC/DC's signature songs and is one of the hits of their career. This song is popular among rock fans as it is an exciting song that includes air guitar and head banging. In addition, its catchy melodies and powerful performances are enjoyed by a wide range of music fans.
 
 #### Tracklist
 ```md

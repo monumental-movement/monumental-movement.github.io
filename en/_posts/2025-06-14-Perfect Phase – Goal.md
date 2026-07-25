@@ -18,7 +18,7 @@ Perfect Phase is a project by Freek Fontein (The Freak) and Willem Faber (Mac Zi
 
 This record is a House/HardHouse track released by Dutch dance label 2-Play in 2000.
 
-The jacket design was by Dennis Harinck, also known as Deaz D., who was a resident of Dutch club Locomotion.
+The jacket design was by Dennis Harinck, aka Deaz D., who was a resident of Dutch club Locomotion.
 
 
 

@@ -61,7 +61,7 @@ As she says, the sound is layered as "grains" and refracts time like light.
 ## Chapter 2: Structure of "Space 1.8" and transformation of consciousness
 
 The track structure of Space 1.8 is reminiscent of a yoga or meditation session.
-From Space 1 to Space 8 -- all songs are arranged like "breathing phases".
+From Space 1 to Space 8 - all songs are arranged like "breathing phases".
 
 - **Space 1:** "Entrance" where subtle modular sounds open up the space
 - **Space 2:** Harp and saxophone dialogue, inner vibration
@@ -82,7 +82,7 @@ This is a flow that connects the concept of "environmental music" proposed by Br
 Nala Sinephro's music is in the spirit of Harold Budd, Alice Coltrane, and Laraaji.
 It is ""contemplative modernism'' that has been redefined in the post-club era of the 21st century.
 
-Her harp and synths diffuse "jazz-like improvisation" into the space by adding layers of sound.
+Her harp and synths diffuse "jazz-like improvisation" into the space, adding layers of sound.
 The rhythm disappears, the melody drifts, and all that remains is the feel of time and space.
 
 
@@ -102,7 +102,7 @@ As this diagram shows, ambient jazz is a movement that simultaneously carries ou
 
 ## Chapter 4: Modular synths and the "listening body"
 
-In live performances, Nala operates the **Eurorack modular system** at the same time as the harp.
+In live performances, Nala operates the **Eurorack modular system** simultaneously with the harp.
 Here, patching itself is an improvisational performance that transforms the listener's body and space.
 
 > Equipment configuration example:
@@ -113,7 +113,7 @@ Here, patching itself is an improvisational performance that transforms the list
 > - Ableton Live (for loop processing)
 
 This configuration is truly a "breathing device for humans and machines."
-Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic clarity.
+Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic transparency.
 It is also an act of sublimating music into a **technology prayer**.
 
 ---

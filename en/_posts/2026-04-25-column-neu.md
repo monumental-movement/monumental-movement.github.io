@@ -91,7 +91,7 @@ D --> E
 
 Although the album was not a commercial success at the time, it was considered a highly innovative work by some critics and musicians. In later years, it was sometimes described in the liner notes of reissues as ""sounds from the future.''
 
-> ""NEU!'' is a work that does not design changes in sound, but the auditory experience itself.
+> ""NEU!'' is a work designed not to change the sound, but to create an auditory experience itself.
 
 ---
 

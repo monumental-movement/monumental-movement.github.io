@@ -14,10 +14,10 @@ title: '[Column] Basic Channel──The origin of Berlin dub techno'
 ---
 
 
-## Prologue: From anonymous noise to a silent revolution
+## Prologue: From anonymous noise to a revolution of silence
 
 
-Text: mmr｜Theme: The "abyss of sound" born from the underground of Berlin in the 1990s—The history of the creation of Basic Channel and Dub Techno
+Text: mmr｜Theme: "Abyss of sound" born from the underground of Berlin in the 1990s - History of the creation of Basic Channel and Dub Techno
 
 
 In 1993, just a few years after the fall of the Berlin Wall.
@@ -86,7 +86,7 @@ It was just **sonic climate change**.
 ## Chapter 3: Reinventing Dub - From Jamaica to Berlin
 
 What Basic Channel was quoting was the idea of ​​**Jamaican dub** from the 70s.
-The reverberation sculptures of King Tubby and Lee "Scratch" Perry have been recreated as a digital process.
+The reverberation sculptures of King Tubby and Lee "Scratch" Perry were recreated as a digital process.
 
 What mattered to them was the courage to mute the sound.
 The effect was not a decoration, but a ""structural operation'' that created the acoustic space itself.
@@ -109,7 +109,7 @@ As a result, Basic Channel became more of a **platform for sonic philosophy** th
 
 ---
 
-## Chapter 5: Rhythm & Sound─The voice deep in the silence
+## Chapter 5: Rhythm & Sound──The voice deep in the silence
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ocg25EUKFM?si=1XqTFcOsJNoD2JIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -123,7 +123,7 @@ I regained my human trembling in the coldness of digital dub.
 
 They continue to refuse interviews and remain invisible.
 But the sound speaks.
-It was an "anonymous spirituality" and a **post-human prayer** that went beyond techno minimalism.
+It was "anonymous spirituality" and a **post-human prayer** that went beyond techno minimalism.
 
 ---
 

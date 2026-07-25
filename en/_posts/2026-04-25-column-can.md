@@ -30,7 +30,7 @@ This background became an important foundation for establishing CAN's music as a
 
 From the beginning, they were more interested in ""creating the conditions that generate sound" than in ""writing songs." As a result, they were more like an experimental unit centered around the studio than a band.
 
-Furthermore, in the cultural vacuum of post-war Germany, there was a strong desire to break away from imitations of Anglo-American rock. This became the core of what would become known as Krautrock.
+Also, in the cultural vacuum of postwar Germany, there was a strong desire to break away from imitations of Anglo-American rock. This became the core of what would become known as Krautrock.
 
 > CAN was not a ""rock group" but an ""experimental device for redesigning the way music is made."
 
@@ -118,7 +118,7 @@ As an anecdote, it is said that during the recording of ""Future Days'' there wa
 * 1971: "Tago Mago" released
 * 1972: "Ege Bamyasi" released
 * 1973: "Future Days" released
-* 1979: Suspended
+* 1979: Suspension of activities
 
 <div class="mermaid">
 timeline

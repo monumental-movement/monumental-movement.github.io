@@ -104,7 +104,7 @@ From the late 1990s to the 2000s, Afrobeat was reevaluated in Europe and North A
 
 ### Terminology background
 
-The term Afro-Fusion has been used since the 2000s to refer to the trend of African artists using a variety of genres. Rather than being a direct successor to Afrobeat, it is characterized by its fusion with hip-hop, R&B, reggae, dancehall, electronic music, etc.
+The term Afro-Fusion has been used since the 2000s to refer to the trend of African artists using a variety of genres. It is not a direct successor to Afrobeat, but is characterized by its fusion with hip-hop, R&B, reggae, dancehall, electronic music, etc.
 
 ### Nigerian Popular Music
 

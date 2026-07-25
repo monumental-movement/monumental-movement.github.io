@@ -16,7 +16,7 @@ Umek is a legendary DJ in the Slovenian techno world who performs at over 100 ve
 
 As a producer, he has been involved in a wide range of activities, including participating in the album ""WAT'' released in 2003 by Slovenian post-industrial, avant-garde, and experimental music band Laibach, which was formed in 1980 when Slovenia was part of the Socialist Federal Republic of Yugoslavia. Since 2007, he has been running his own techno label, 1605 Music Therapy.
 
-"Oranazol" is a techno track released by the label Jericho in 2001.
+"Oranazol" is a techno track released on the label Jericho in 2001.
 
 #### Tracklist
 ```md

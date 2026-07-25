@@ -59,7 +59,7 @@ color: #fff;
 
 In this article, we will look at the Mobile Suit Gundam series from the perspective of music. While tracing the changes in the series and music from 1979 to 2025, we will decipher how music has shaped Gundam and how it has changed over time. The structure of music, changes in lyrics, melodies, recording/distribution formats, and thematic functions played by music - let's take a journey to "listen" to the world of Gundam, using these as clues.
 
-I would like readers to listen carefully to the world of the work while remembering their favorite Gundam theme songs and insert songs. Through this column, we will explore the question of why "Gundam music" continues to be talked about, sung, and remixed across generations.
+I would like all readers to listen carefully to the world of the work while remembering their favorite Gundam theme songs and insert songs. Through this column, we will explore the question of why "Gundam music" continues to be talked about, sung, and remixed across generations.
 
 ---
 
@@ -117,7 +117,7 @@ The appearance of this song was also an opportunity to change the conventional i
 
 Additionally, OVA and movie versions now have a richer variety of music products, including theme songs, insert songs, character songs, and remix discs. Music has expanded from being "exclusive for works" to "exclusive for brands."
 
-### 2.3 Dramatic accompaniment, theme songs, and insert songs: changing tastes over time
+### 2.3 Drama accompaniment, theme songs, and insert songs: changing tastes over time
 
 During this period, the range of music development expanded significantly. In addition to theme songs, insert songs, character songs (songs sung under the character's name), remix albums, best albums, live albums, etc. were released one after another, and the categorization of music products progressed.
 
@@ -172,14 +172,14 @@ Since the Mobile Suit Gundam series is a work that questions the question of ""m
 
 ### 5.1 Live/cover version of theme song/insert song
 
-Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, an album called "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs.This shows that music has transcended the production and become a "global culture."
+Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, the album "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs, showing that music has transcended the work itself and become a "global culture."
 
-Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into a content that is not only something to be "listened to" but also something to "participate in".
+In addition, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the experience of the audience singing along is increasing. In this way, music has changed into a content that is not only something to be "listened to" but also something to "participate in".
 
 ### 5.2 Gundam as a musical work: remix, arrangement, planning edition
 
-As for music products, Gundam series theme songs, insert songs, and soundtracks have been released in numerous best-of albums, symphonic versions, DJ remix editions, and "Suit CDs" (CDs with names of mobile suits and characters). As a result, a market for "Gundam music" that can be enjoyed on its own has been established.
-These remixes/arrangements play a role in promoting ""listening to Gundam"' and inviting people who don"t know the original anime to the Gundam world through the music.
+As for music products, numerous best-of songs, symphonic versions, DJ remix versions, and "Suit CDs" (CDs with names of mobile suits and characters) have been released for the Gundam series' theme songs, insert songs, and soundtracks. As a result, a market for "Gundam music" that can be enjoyed on its own has been established.
+These remixes/arrangements play a role in promoting "listening to Gundam" and inviting people who don't know the original anime to the Gundam world through the music.
 
 ---
 
@@ -249,7 +249,7 @@ Below is a section introducing representative musicians/singers who have made si
 
 - **・Tetsuya Komuro**
 
-A composer and producer who led the Japanese pop music scene from the 1980s to the 1990s. He created the theme song "Beyond the Time ~Beyond the Mobius Universe~" for "Mobile Suit Gundam: Char's Counterattack" released in 1988, creating a turning point in the history of Gundam music.
+A composer and producer who led the Japanese pop music scene from the 1980s to the 1990s. He created the theme song ""Beyond the Time~Beyond the Moebius Universe" for ""Mobile Suit Gundam: Char's Counterattack" released in 1988, creating a turning point in the history of Gundam music.
 
 - **Neil Sedaka**
 

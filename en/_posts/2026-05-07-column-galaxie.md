@@ -44,7 +44,7 @@ color: #fff;
 
 In the early 2000s, the music scene in Quebec, Canada, was at a unique turning point.
 
-While English-speaking indie rock was gaining momentum around the world, in Quebec the French language of rock expression was being passed down to a new generation. That's when the band that would later become known as "Galaxie" emerged.
+While English-speaking indie rock was gaining momentum around the world, in Quebec the French language of rock expression was being passed down to a new generation. That's where the band that later became known as "Galaxie" appeared.
 
 Their sound is difficult to describe in one word.
 
@@ -151,7 +151,7 @@ D --> E[Renamed to Galaxie]
 E --> F[Establish your own route]
 </div>
 
-> The name change was not just a legal process, but an event that made the band's outline stand out more strongly.
+> The name change was not just a legal process, but an event that made the outline of the band even more pronounced.
 
 ---
 
@@ -172,7 +172,7 @@ Galaxie chose the latter.
 
 Moreover, their French is neither chanson-like nor literary.
 
-It was rough, street-like, and a term that could function as a rock band.
+It was rough, street-like, and the words to function as a rock band.
 
 This is a very important point.
 
@@ -221,7 +221,7 @@ mindmap
       身体性
 </div>
 
-> Galaxie borrowed the form of North American rock, but was a very Quebecois band in terms of content.
+> Galaxie was a very Quebecois band, borrowing the form of North American rock, but in terms of content.
 
 ---
 
@@ -259,7 +259,7 @@ Even when recorded in a studio, it feels like sweat is flying from the speakers.
 
 This was also unique in terms of production.
 
-The focus was on the sound of the amp and the atmosphere rather than excessive digital processing.
+Rather than excessive digital processing, the focus was on the sound of the amp and the atmosphere.
 
 ### Fusion with electronic elements
 
@@ -316,9 +316,9 @@ The audience reacts physically before analyzing it.
 - Alcohol goes on
 - shout
 
-It was rock"n"roll's most primitive feature.
+It was the most primitive feature of rock and roll.
 
-Particularly in Quebec, the presence of such a direct, explosive rock sound in French was valuable.
+Especially in Quebec, it was valuable to have such a direct, explosive rock sound in French.
 
 <div class="mermaid">
 graph TD
@@ -399,7 +399,7 @@ This was a surprisingly important role.
 
 French rock sometimes tends to lean too much towards artistry.
 
-But Galaxie didn't give up on the sweat smell.
+However, Galaxie did not give up its sweaty smell.
 
 - Rings at the bar
 - Plays loudly in the car
@@ -409,7 +409,7 @@ They maintained this physical rock culture.
 
 ### Impact on the next generation
 
-Galaxie's influence can also be seen in subsequent Quebec rock bands.
+Galaxie's influence can be seen in subsequent Quebec rock bands.
 
 especially,
 
@@ -423,7 +423,7 @@ was passed down to many young people.
 
 They're not huge mainstream stars.
 
-However, the influence within the scene is extremely large.
+However, its influence within the scene is extremely large.
 
 <div class="mermaid">
 flowchart LR
@@ -487,7 +487,7 @@ The original impulse of rock remains.
 
 That's why it never gets old even if times change.
 
-Even in the streaming era, their sound continues to exist as "music that shakes the air."
+Even in the streaming era, their sound continues to exist as ""music that shakes the air.''
 
 <div class="mermaid">
 graph TD

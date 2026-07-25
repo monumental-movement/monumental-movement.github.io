@@ -10,7 +10,7 @@ tags:
 - Québec
 - Folk Rock
 - Alternative Rock
-title: '[Column] Les Colocs ─ Music as a community born from the streets of Quebec'
+title: '[Column] Les Colocs - Music as a community born from the streets of Quebec'
 ---
 
 
@@ -383,7 +383,7 @@ Les Colocs is
 I didn't hide this problem.
 
 Rather,
-Death and illness were viewed as communal issues.
+Death and illness were viewed as communal problems.
 
 ### "Dehors Novembre"
 
@@ -724,11 +724,20 @@ It was sounded as a celebration, not a sermon.
 That is the reason why it is still listened to today.
 
 The music of Les Colocs includes
-There is a sense of ""we will survive together.''
+There is a sense of ""we will survive together''.
 
 That's why,
 They didn"t end up just being a 90"s band.
 
 > Les Colocs was a rare band whose sound encompassed community, city, language, and pain.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7wg5r1S2r8?si=Lvqe2v7JT0hQTqav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

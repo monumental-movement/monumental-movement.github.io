@@ -17,7 +17,7 @@ Marmion is a trance techno project from Germany by Mijk Van Dijk and Marcos Lóp
 
 "Schöneberg Part 2" is a trance techno track released in 2003 by the German label Superstition.
 
-Side A is a remix by Technasia. The second song on the B-side is a remix by John Acquaviva, who founded Plus 8 Records Ltd. with Richie Hawtin in 1989.
+Side A is a remix by Technasia. The second track on the B-side is a remix by John Acquaviva, who founded Plus 8 Records Ltd. with Richie Hawtin in 1989.
 
 #### Tracklist
 ```md

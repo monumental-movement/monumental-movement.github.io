@@ -79,7 +79,7 @@ Typical clubs include Manchester's Twisted Wheel and the later iconic Wigan Casi
 
 The DJ constructed his set by reading not only the BPM and key, but also the level of fatigue and excitement on the floor. The rarity of the record was important, but even more important was whether it could be danced to.
 
-> In the Northern Soul scene, DJs' song selection decisions themselves determined the evolution of the culture.
+> In the Northern Soul scene, the DJ's song selection decisions themselves determined the evolution of the culture.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukp6AMd8Dik?si=xg2rYzVe_-XpZQJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -127,7 +127,7 @@ In Japan, Northern Soul was not reproduced in the same form as in Britain. Rathe
 
 It tends to emphasize the sound quality of records, the rarity of records, and the commitment to original records rather than dance, and is characterized by its strong connection to collector culture. On the other hand, the essence of music that can be danced to is maintained, and dance-oriented events continue to be held.
 
->Japan's Northern Soul has established itself by uniquely adjusting the balance between appreciation and physicality.
+> Japanese Northern Soul has established itself by uniquely adjusting the balance between appreciation and physicality.
 
 ---
 

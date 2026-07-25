@@ -13,7 +13,7 @@ title: The Cuckoos – Iscariot
 
 
 "Iscariot" is
-This is an EP by The Cuckoos released in 1992 by the UK label "Imaginary Records".
+This is an EP by The Cuckoos released by the UK label "Imaginary Records" in 1992.
 
 
 #### Tracklist

@@ -65,15 +65,15 @@ Initially known as destructive noise rock, it gradually shifted to a structure b
 
 Due to its extreme volume and vibration, sound acts not only as an auditory sensation but also as a physical sensation.
 
-#### Trance by repetition
+#### Trance through repetition
 
-Due to the long repetition, the sense of time becomes diluted and the audience is led into a trance state.
+The long repetition weakens the sense of time, leading the audience into a trance state.
 
 #### The boundary between control and collapse
 
 Even the moment when feedback and noise reach their control limits becomes the core of the performance.
 
-> Boredoms live shows are the process of reaching a critical point in their sound.
+> Boredoms live performances are the process of reaching a critical point in sound.
 
 ---
 
@@ -176,7 +176,7 @@ Sounds exist not as phrases, but as phenomena that continue to overlap.
 
 The last song on the album, ""Mantral,'' is not only a complete studio work, but it can also be understood more three-dimensionally by tracing its origins.
 
-This song originally derives from a motif played during the Boredoms' period, but it has never been released by Boredoms.
+This song originally derives from a motif played during the Boredoms' active period, but it has never been released by Boredoms.
 
 In other words, ""Mantral'' can be said to be a reconstruction of the repetitive phrases and trance structure that were born in the Boredoms scene in his solo work.
 
@@ -210,7 +210,7 @@ Rather than marking the rhythm, the drums function as the "axis that sustains th
 
 * A pattern that repeats at regular intervals
 * Minimalistic blowing without excessive decoration
-* A core that does not disappear even though it is buried in layers of sound
+* A core that remains buried in the layers of sound but never disappears
 
 This drum creates a gentle gravity rather than a chaotic proliferation of sounds.
 
@@ -270,7 +270,7 @@ By being exposed to a variety of performances and unorganized sounds on a daily 
 
 The act of nurturing the next generation not only influences others, but also creates a cycle in which the depth of one's own sound continues to be updated.
 
-> Music is an individual's expression, but at the same time, it is also a phenomenon that is nurtured by the place.
+> Music is an individual's expression, but at the same time it is a phenomenon that is nurtured by the place.
 
 ---
 
@@ -278,7 +278,7 @@ The act of nurturing the next generation not only influences others, but also cr
 
 Seiichi Yamamoto's music does not consist solely of his individual talent.
 
-The extreme acoustics of a wide variety of participating bands, the overseas reputation, and the management of the Namba Bears venue - these things interact with each other to continue updating the depth of the sound.
+The extreme acoustics of a wide variety of participating bands, the overseas reputation, and the management of the Namba Bears venue - these all work together to continue updating the depth of the sound.
 
 The work of nurturing the next generation is not a unidirectional influence. Being exposed to new sounds and immature expressions actually shakes up and updates one's own sound.
 

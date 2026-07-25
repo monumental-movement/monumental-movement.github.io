@@ -60,7 +60,7 @@ The rhythm is linear, and swing and funk are extremely restrained. Sustained pre
 
 In the 2010s, Industrial Techno once again gained a strong presence. The sonic sophistication of post-minimal techno and industrial violence were fused and redefined in a more controlled manner.
 
-A characteristic of this era is that distortion and noise are not placed randomly, but are incorporated after strictly controlling band, phase, and dynamics. Destructibility was a design objective and optimized for the club playing environment.
+A characteristic of this era is that distortion and noise are not placed randomly, but are incorporated after strictly controlling band, phase, and dynamics. Destructibility was a design objective and was optimized for the club playing environment.
 
 ---
 
@@ -92,7 +92,7 @@ The Roland TR series has played a central role in rhythm design in Industrial Te
 
 The TR-909's kick has a sharp attack and sustained low end, and pairs well with distortion processing. Industrial Techno amplifies the pressure by layering sub-bass and noise layers based on this kick.
 
-The TR-606 features a hard, short snare and hi-hat that serve to define the repetitive structure. Modern models such as the TR-8 have made it easier to construct polyrhythms using non-integer division steps.
+The TR-606 features a hard, short snare and hi-hat, which serve to define the repetitive structure. Modern models such as the TR-8 have made it easier to construct polyrhythms using non-integer division steps.
 
 ---
 
@@ -110,7 +110,7 @@ In a modular environment, noise serves not as a melody or decoration, but as a r
 
 Perc's track epitomizes the ""controlled violence'' of industrial techno. The kick has a clear center, and the distortion is concentrated in the midrange. The low range is not destroyed and physical stability is ensured when playing the club.
 
-The development is minimal, and the structure is formed by changing the texture of distortion and adjusting the noise density rather than increasing or decreasing the number of sounds. Rhythmic phasing is minimal and loyalty to the grid is maintained.
+The development is minimal, and the structure is formed by changing the texture of distortion and adjusting noise density rather than increasing or decreasing the number of sounds. Rhythmic phasing is minimal and loyalty to the grid is maintained.
 
 ---
 
@@ -120,7 +120,7 @@ The works of Ancient Methods present Industrial Techno as a ritual structure. Re
 
 The kicks are heavy, evenly spaced, and the noise and reverberations occupy the entire space. Spatial density and reverberant tails play a more important role here than rhythmic changes.
 
-The industrial techno in Ancient Methods is dance music, but it functions as a device that transforms the listening experience itself.
+The industrial techno in Ancient Methods is dance music, but it also functions as a device that transforms the listening experience itself.
 
 ---
 
@@ -144,7 +144,7 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 
 | Years | Events |
 | ------ | -------------------------- |
-| 1970s | Industrial music establishes material-oriented structure |
+| 1970s | Industrial music establishes a material-oriented structure |
 | 1980s | Techno establishes a repetitive temporal structure |
 | 1990s | Fusion of hard techno and industrial |
 | 2010s | Redefining modern industrial techno |

@@ -95,7 +95,7 @@ Music Has the Right to Children is not explicitly dance music.
 
 * BPM is not functional
 *Beat does not move the body
-* 展開は目的を持たない
+* Deployment has no purpose
 
 However, the structure does exist.
 
@@ -105,7 +105,7 @@ This contradiction is the importance of this work.
 
 ## The mythical device of "childhood"
 
-アルバムタイトルが示すように、本作の中心には「子供時代」という概念がある。
+As the album title suggests, the concept of "childhood" is at the heart of this work.
 
 However, it is not a personal memory;
 
@@ -263,7 +263,7 @@ Here, Daft Punk designed music not as an emotional expression, but as a "repeata
 
 The title ""Homework'' is symbolic.
 
-* 即興ではない
+* Not improvised
 * Not an expression of emotion
 * Not based on live performances
 
@@ -889,7 +889,7 @@ In the top-ranked works, emotion itself disappears, moving into a realm where on
 
 Dummy, released in 1994, is a definitive work that equated "memory" and "sound" in Britain in the 1990s.
 
-Here, Portishead perfected the reversal of his idea of ​​not quoting the past, but artificially reconstructing the "texture of the past itself."
+Here, Portishead perfected the reversal of his idea of ​​not quoting the past, but artificially reconstructing ""the texture of the past itself.''
 
 ---
 
@@ -1144,7 +1144,7 @@ This section covers the following albums:
 * Fear of a Black Planet
 * The Miseducation of Lauryn Hill
 * To Pimp a Butterfly
-* Yeezus
+*Yeezus
 * 808s & Heartbreak
 * Aquemini
 

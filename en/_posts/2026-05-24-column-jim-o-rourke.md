@@ -29,7 +29,7 @@ His career has been built not on a sense of unity but on transversality. Rock, e
 
 Born in Chicago, USA in 1969, Jim O'Rourke had a strong interest in experimental music from a young age. He was particularly interested in free improvisation and 20th century contemporary music, and had a different sensibility than just a rock boy.
 
-His areas of influence are extremely wide.
+His influence is extremely wide-ranging.
 
 <style type="text/css">
 
@@ -90,7 +90,7 @@ Music history itself was being rearranged.
 
 Chicago in the 1990s was a pivotal point in the history of American experimental music.
 
-A unique cultural zone was forming, different from New York no-wave and West Coast noise. There, rock and contemporary music, improvisation, and electronic sound mixed naturally.
+A unique cultural zone was forming, different from New York's no-wave and West Coast noise. There, rock and contemporary music, improvisation, and electronic sound mixed naturally.
 
 Jim O'Rourke was at the center of it all.
 
@@ -106,7 +106,7 @@ The silence continues for a long time.
 
 Acoustic instruments and noise coexist.
 
-They intentionally incorporated structures into their work that normal rock bands would avoid.
+They deliberately incorporated structures into their work that normal rock bands would avoid.
 
 <div class="mermaid">
 timeline
@@ -162,14 +162,14 @@ Traditionally, avant-garde music has tended to be associated with esotericism. H
 
 | Year | Works | Features |
 |---|---|---|
-| 1997 | Bad Timing | Guitar-based feature |
+| 1997 | Bad Timing | Long guitar-based composition |
 | 1999 | Eureka | Chamber music pop |
 | 2001 | Insignificance | A masterpiece with a strong rock flavor |
-| 2009 | The Visitor | A traveling work composed of one song |
+| 2009 | The Visitor | A traveling piece composed of one song |
 
 ""Bad Timing'' inherits the flow of American primitive guitar, but develops like film music.
 
-In ""Eureka,'' he used strings and woodwind instruments to create an acoustic world that could be considered the pinnacle of chamber music pop.
+In ""Eureka,'' he used strings and woodwind instruments to create an acoustic world that could be called the pinnacle of chamber music pop.
 
 ""Insignificance'' has a stronger rock tone and is highly popular as his song work.
 
@@ -226,7 +226,7 @@ Sonic Youth brought noise and rock together, and Jim O'Rourke was another bounda
 
 He functioned more as a "structural coordinator" than a guitarist.
 
-After joining Sonic Youth, the sound organization and composition sense of the songs changed significantly.
+After joining Sonic Youth, the sound arrangement and composition sense of the songs changed significantly.
 
 ### Main works during the participation period
 
@@ -237,17 +237,17 @@ After joining Sonic Youth, the sound organization and composition sense of the s
 
 ""Murray Street'' in particular received high praise.
 
-While retaining the violence of a noise band, the space became more expansive and quiet.
+While retaining the violence of a noise band, the space had become more expansive and quiet.
 
 <div class="mermaid">
 flowchart TD
 A[noise] --> D[Murray Street]
 B[improvisational nature] --> D
-C[空間設計] --> D
+C[space design] --> D
 E[melody] --> D
 </div>
 
-Sonic Youth, when Jim O'Rourke joined the band, is said to have achieved not only "destruction" but also "white space."
+It is said that Sonic Youth, when Jim O'Rourke joined, not only achieved "destruction" but also gained "white space".
 
 He was also the acoustic translator between members.
 
@@ -255,7 +255,7 @@ He had an extremely high ability to create a recorded work without sacrificing t
 
 Therefore, his presence was more than just an additional member.
 
-> Jim O'Rourke gave Sonic Youth "breathing" rather than "organization".
+> Jim O'Rourke gave Sonic Youth "breathing" rather than "organizing" them.
 
 ---
 
@@ -267,7 +267,7 @@ He is involved in a wide range of works.
 
 Moreover, none of them sound the same.
 
-Producers with strong individuality usually dye their works in their own unique colors. But Jim O'Rourke was the opposite.
+Producers with strong individuality usually give their works their own unique color. But Jim O'Rourke was the opposite.
 
 He brings out the artist's unique texture.
 
@@ -283,9 +283,9 @@ He brings out the artist's unique texture.
 
 In particular, Wilco's involvement around Yankee Hotel Foxtrot was important.
 
-Since the 2000s, indie rock has evolved in a more acoustic direction than before. One of the turning points was the Jim O'Rourke-esque sensibility.
+Indie rock since the 2000s has evolved in a more acoustic direction than before. One of the turning points was the Jim O'Rourke-like sensibility.
 
-He doesn't make "beautiful recordings" but rather "arranges sounds with meaning."
+He does not make ""pretty recordings," but ""places sounds with meaning."
 
 Even noise has meaning.
 
@@ -385,7 +385,7 @@ But at the same time, it's all of those things.
 
 His greatest achievement was that he did not end up ""crossing genres'' with mere omnivorousness.
 
-多くの音楽家が複数ジャンルを聴く。
+Many musicians listen to multiple genres.
 
 But Jim O'Rourke treated them in the same light.
 
@@ -397,7 +397,7 @@ Both electronic and acoustic sounds were equal.
 
 That feeling is extremely compatible with the current music environment.
 
-Nowadays, thanks to Spotify and YouTube, genre boundaries are blurring more than ever before. In playlist culture, different types of music naturally line up.
+Nowadays, thanks to Spotify and YouTube, genre boundaries are becoming more blurred than before. In playlist culture, different types of music naturally line up.
 
 But Jim O'Rourke has been practicing that sensibility since the 1990s.
 
@@ -436,7 +436,7 @@ Above all, he was a person who continued to doubt the walls of ""music genres''.
 | 2001 | "Insignificance" announced |
 | Late 2000s | Moved to Japan |
 | 2009 | "The Visitor" announced |
-| After 2010s | Shift to improvisation and electronic acoustics |
+| Since the 2010s | Shift to improvisation and electronic acoustics |
 
 ---
 

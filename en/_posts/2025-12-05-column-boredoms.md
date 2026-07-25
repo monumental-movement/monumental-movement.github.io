@@ -18,7 +18,7 @@ title: '[Column] Boredoms: The trajectory of the builder of chaos and the expand
 
 ## Prologue: Who were the Boredoms?
 
-Text: mmr｜Theme: Following the evolution of Boredoms, and how its work form, live performances, and derivative units have developed.
+Text: mmr｜Theme: Following the evolution of Boredoms, and how their work form, live performances, and derivative units have developed.
 
 In the history of Japanese music, **Boredoms** occupy a unique position as an entity that cannot be fully explained in any context.
 Formed in Osaka in the late 1980s, they went on to influence musicians around the world, morphing into noise, hardcore, avant-garde, psychedelia, and later rhythm ensembles.
@@ -59,7 +59,7 @@ flowchart TD
 
 
 
-Hanatarash's live performances are known for their extremeness, and their dangerous behavior, such as bringing in heavy machinery, has sometimes been called into question. This extreme violence and expressive impulse later morphed into the "controlled chaos" of Boredoms.
+Hanatarash's live performances are known for their extremeness, and their dangerous behavior, such as bringing in heavy machinery, has sometimes been called into question. This extreme violence and expressive impulse later transformed into the "controlled chaos" of Boredoms.
 
 ---
 
@@ -72,7 +72,7 @@ Hanatarash's live performances are known for their extremeness, and their danger
 Boredoms started in Osaka around 1986, and early members included **Ai Yamazuka, Mitsuru Tabata, Toyohito Yoshikawa, and HIRA**.
 Their early work was a dense mix of the speed of hardcore and the destructive power of noise, with structures that alternated between screams, fragmented beats, and sudden silences.
 
-In 1988, they began to attract attention in the overseas indie scene and became a hot topic in the underground community in the United States.
+In 1988, it began to attract attention in the overseas indie scene, and became a hot topic in the underground community in the United States.
 In 1989, they were strongly supported by **Sonic Youth**, and through interaction with them, they were connected to American large indies.
 
 ### Musical structure of early Boredoms
@@ -102,7 +102,7 @@ Live performances during this period were always unpredictable and the action on
 ---
 
 1998's ""Super æ'' (Super æ) is a work that maintains the traditional elements of noise mixture, but greatly emphasizes sonic order, repetition, and minimalism.
-The sound became layered, a trance feeling slipped into the repetitive rhythm, and it began to take on a psychedelic feel.
+The sound became layered, a trance feeling slipped into the repetitive rhythm, and it began to take on a psychedelic expanse.
 
 ### 3-2. The pinnacle of "Vision Creation Newsun"
 
@@ -110,7 +110,7 @@ The sound became layered, a trance feeling slipped into the repetitive rhythm, a
 
 ---
 
-The following year, 1999's Vision Creation Newsun was one of the defining works of Boredoms' career.
+The following year"s 1999"s Vision Creation Newsun was one of the defining works of Boredoms' career.
 Natural sounds, ethnic percussion, sustained sounds and cyclical structures, guitar drones, multi-layered rhythms...
 
 The Boredoms weren't even a "rock band" here, but instead deepened into cosmic minimalism and ritual trance.
@@ -143,8 +143,8 @@ Elements of beach recording, long drones, meditative structures, ambient sounds 
 
 ---
 
-Here, the band's name is often written as V∞redoms, and the concept of Boredoms itself changes to a ""collective creative body'' rather than a musical unit.
-In the 2000s, Boredoms entered into new developments, including the name **V∞redoms**, and the most iconic one was the large-scale drum ensemble that started with the ""7x7x7'' live held on July 7th**.
+Here, the band name is often written as V∞redoms, and the concept of Boredoms itself changes to a ""collective creative body'' rather than a musical unit.
+In the 2000s, Boredoms entered into new developments including the name **V∞redoms**, and the most iconic one was the large-scale drum ensemble that started with the ""7x7x7'' live held on July 7th**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -275,7 +275,7 @@ timeline
 ---
 
 ## Final chapter: Boredoms is an "expanding universe"
-Boredoms is more than just a band, it can be said to be a "place itself" that changes its shape over time.
+Boredoms is not just a band, but a "place itself" that changes shape over time.
 Ai"s philosophical perspective, Yoshimi"s physical rhythm, and the uniqueness of each member are intricately intertwined, and the group has grown like one giant living organism.
 
 If you take a look at it, including the personal history of OOIOO and Eye, the activities of Boredoms continue to spread like a ""centerless vortex,'' and their influence continues to be referenced all over the world.

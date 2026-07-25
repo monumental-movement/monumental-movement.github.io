@@ -19,7 +19,7 @@ title: '[Column] Nate Dogg: The trajectory of the "king of hooks" that symbolize
 
 Text: mmr｜Theme: The voice, groove, and legacy at the heart of West Coast hip-hop
 
-There are a number of elements that characterize American West Coast hip-hop in the 1990s.
+There are many elements that characterize American West Coast hip-hop in the 1990s.
 Dr. Dre production, P-Funk-inspired synth swells, thick bass lines, and smooth mellowness.
 But the voice of **Nate Dogg (real name Nathaniel Dwayne Hale, 1969-2011)** has special meaning.
 
@@ -51,14 +51,14 @@ Clarksdale is known as the historic center of the blues, and some of his musical
 
 As a child, he moved with his family to **Long Beach, California**.
 It was here that he met the friends who would later support him throughout his career: Snoop Dogg and Warren G**.
-All three had experience singing in church, and Nate Dogg in particular had extensive experience in **gospel choir**.
+All three had experience singing in church, with Nate Dogg in particular having extensive experience in **gospel choir**.
 
 This foundation of gospel singing had a decisive influence on his later style.
 Although her voice was linear with little vibrato, it had a deep resonance and a sense of rhythm that was naturally ingrained in her body.
 
 ### Joining the Marine Corps
 
-After graduating high school, Nate Dogg **enlisted in the US Marine Corps** and was discharged after serving for about three years.
+After graduating from high school, Nate Dogg **enlisted in the US Marine Corps** and was discharged after serving for about three years.
 This experience changed his life circumstances, but it was also a period that essentially forced him to return to Long Beach and music.
 
 ---
@@ -70,12 +70,12 @@ That is **213 (two one three)**.
 The name is derived from Long Beach's area code, 213, and clearly stamps their local identity.
 
 Local tapes from the time already showed that Nate Dogg's singing voice stood out from the rappers around him.
-His voice had a street vibe, and by singing the melody, he gave the entire song a pleasant floating feeling.
+His voice had the air of the street, and by singing the melody, he gave the entire song a pleasant floating feeling.
 This style would later become the core of guest performance culture.
 
 ---
 
-## 3. Participation and breakthrough in Dr. Dre's "The Chronic"
+## 3. Participation and break in Dr. Dre's "The Chronic"
 
 The decisive turning point in Nate Dogg"s rise to national fame was **1992"s Dr. Dre's ""The Chronic''**.
 After Warren G shared his talent with Dre, Nate Dogg participated in several songs on the album.
@@ -85,14 +85,14 @@ His participation at this time was almost like a debut, but he already had an es
 
 ---
 
-## 4. The impact of "Regulate": The birth of the G-Funk type hook
+## 4. The impact of "Regulate": The birth of the G-Funk hook
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1plPyJdXKIY?si=rx9XunHS0vwUPsA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 In 1994, Warren G's signature song **"Regulate"** was released.
-In this song, Nate Dogg not only writes the chorus, but also narrates the story to complement the song's story, supporting the overall drama of the song.
+In this song, Nate Dogg not only writes the chorus, but also narrates the story that complements the song's story, supporting the drama of the song as a whole.
 
 "Regulate" reached number 2 on the US singles chart.
 This success earned Nate Dogg recognition as ""the best hook maker on the West Coast.''
@@ -114,7 +114,7 @@ The vibration of the vocal cords is strong and the resonance is deep.
 This made it extremely compatible with the hard beats of hip-hop.
 
 ### ■ Melody repeats short phrases
-Creates the "hypnotic" quality necessary for G-Funk.
+Creates the "hypnotic" quality needed by G-Funk.
 
 ### ■ Respecting the "pauses" of rhythm
 Don't sing too much, leave gaps in the beat.
@@ -128,7 +128,7 @@ These characteristics made Nate Dogg's voice an essential component of G-Funk.
 
 ## 6. Solo works and their positioning
 
-Nate Dogg is highly acclaimed for his guest performances, but he has also released several solo albums.
+Nate Dogg is highly acclaimed for his guest appearances, but he has also released several solo albums.
 
 #### ■ "G-Funk Classics, Vol. 1 & 2" (1998)
 
@@ -153,7 +153,7 @@ This work brings out the strength of the bass and leaves a more street-like impr
 
 ---
 
-Nate Dogg guest-starred on major hip-hop hits almost every year from the late '90s to the early 2000s.
+Nate Dogg guest-starred on major hip-hop hits almost every year in the late '90s and early 2000s.
 
 Representative participating songs:
 
@@ -173,7 +173,7 @@ Although it is a sweet R&B sound, it is important that Nate Dogg's voice does no
 
 ## 8. 213 "The Hard Way": The Fruit of Friendship
 
-213, the trio of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
+213, consisting of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
 The album reached number one on Billboard and was the culmination of the three's long friendship and careers.
 
 ---
@@ -186,7 +186,7 @@ In 2008, he suffered a second stroke, making it difficult for him to continue hi
 **Died of heart failure on March 15, 2011 (age 41)**.
 
 Even after his death, his voice continued to be sampled, and many artists publicly celebrated his accomplishments.
-Snoop Dogg and Warren G, in particular, have said that their sound would not have been possible without Nate Dogg.
+Snoop Dogg and Warren G, among others, have said that their sound would not have been possible without Nate Dogg.
 
 ---
 
@@ -228,7 +228,7 @@ flowchart TD
 
 ## 12. Nate Dogg's Legacy: Current Influences
 
-Nate Dogg's style has left a huge influence on modern hip-hop.
+Nate Dogg"s style has left a huge influence on today"s hip-hop.
 
 ### ■ Establishment of the "singing hook" format for rap songs
 

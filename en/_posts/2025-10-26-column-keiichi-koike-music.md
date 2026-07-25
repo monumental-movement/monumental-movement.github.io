@@ -59,11 +59,11 @@ Characterized by philosophical themes and abstract visuals.
 **Visual musicality** is revealed by adjusting the density of lines, screen composition, and temporal rhythm.
   
 - **1988**: Published ""Katajikenai" (Hakusensha) and ""G (GATE 1)" (Schola).
-The tense lines in the sci-fi setting and the expression of the human body are like musical polyrhythms.
+The tense lines in the sci-fi settings and human body expressions are like musical polyrhythms.
 
 ---
 
-## Chapter 3: "ULTRA HEAVEN" – Music of hallucinations and consciousness (2002–)
+## Chapter 3: "ULTRA HEAVEN" – Music of illusion and consciousness (2002–)
 
 - **2002**: "ULTRA HEAVEN" published (Enterbrain).
 The theme is hallucinatory experiences, splitting of consciousness, and altered sense of time.
@@ -76,7 +76,7 @@ Precise lines and visual rhythms give the reader a musical experience.
 Long-term serialization deepens the spiritual world and refines the composition and lines.
 
 - **2009**: Volume 3 of "ULTRA HEAVEN" published.
-The new books released once every four years are a real drag to read.
+New books released every four years are a real drag to read.
 
 ---
 
@@ -88,7 +88,7 @@ The new books released once every four years are a real drag to read.
 
 ### Musicality of frame division
 - Repetition/variation/phase shift arrangement
-- The rhythm changes page by page, and the reader's eye movements are similar to a "musical performance"
+- The rhythm changes page by page, and the reader's eye movements are similar to a "performance"
 
 ### Motif
 - Life, consciousness, hallucinations, philosophical themes
@@ -114,7 +114,7 @@ While influenced by these influences, Koike is unique in that he translates cons
 graph LR
     A["SPINOZA (1986)<br>Motif: Philosophy/Consciousness<br>Technique: Abstract composition, density of lines<br>Musical metaphor: Minimal"]:::a
     B["G (1988)<br>Motif: Science fiction, life transformation<br>Technique: Tense dense lines<br>Music metaphor: Industrial"]:::b
-    C["ULTRA HEAVEN (2002–)<br>Motif: Hallucination/expansion of consciousness<br>Technique: Wave structure of the entire page<br>Music metaphor: Psychedelic ambient"]:::c
+    C["ULTRA HEAVEN (2002–)<br>Motif: Hallucination/Expansion of consciousness<br>Technique: Wave structure of entire page<br>Music metaphor: Psychedelic ambient"]:::c
 
     A --> B --> C
 

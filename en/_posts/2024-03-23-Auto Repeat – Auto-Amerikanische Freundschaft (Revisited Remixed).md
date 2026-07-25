@@ -17,7 +17,7 @@ A house techno track released in 1995 by Alexander Müller, also known as Auto R
 
 The first track on side A is a remix by US house DJ Paul Johnson.
 
-The second track on side A is a remix by DJ Sneak, a Chicago house producer known as one of the pioneers of US house producers in the late 90s.
+The second track on Side A is a remix by DJ Sneak, a Chicago house producer known as one of the pioneers of US house producers in the late 90s.
 
 The Sneak Mix is ​​a very impactful track, a timeless house number that represents the golden mid-90s.
 

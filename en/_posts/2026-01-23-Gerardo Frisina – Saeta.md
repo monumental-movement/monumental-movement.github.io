@@ -13,7 +13,7 @@ title: Gerardo Frisina – Saeta
 ---
 
 
-Gerardo Frisina is an Italian musician/producer who primarily produces Latin jazz music. He is also a member of The Motion Collective.
+Gerardo Frisina is an Italian musician/producer who primarily works on Latin jazz music. He is also a member of The Motion Collective.
 
 "Saeta" is a Latin/Future Jazz track released by Italian Jazz label Schema in 2001.
 

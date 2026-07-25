@@ -59,7 +59,7 @@ This sound has a structure that conversely brings out emotions through ""quietne
 
 # 2. Origin of Slowcore
 ## ■ The "stillness" part of Dream Pop / Shoegaze
-In the late 1980s, **Galaxie 500** are considered to be the forerunners of slowcore, with their laid-back tempos, dreamy guitars, and emotionless vocals.
+The **Galaxie 500** of the late 1980s are considered to be the forerunners of slowcore, with their laid-back tempos, dreamy guitars, and emotionless vocals.
 
 ## ■ Tranquility as the opposite of Grunge
 In 1991, during the alternative explosion symbolized by Nirvana"s ""Nevermind," the attitude of ""don"t dare to turn up the volume" emerged as a paradoxical alternative.
@@ -162,7 +162,7 @@ Controlling ""margin length'' is more important than tempo.
 - Naturally captures room reverb
 - Maintain a sense of distance by keeping the microphone close to each other
 
-In Slowcore, the ""pauses" and ""atmosphere" of recording are themselves instruments.
+In Slowcore, the ""pauses" and ""atmosphere" of the recording itself become instruments.
 
 ---
 
@@ -173,7 +173,7 @@ From a musical psychology point of view, music with a slow tempo and low informa
 - **Emotional calm**
 - **Expansion of time awareness (songs feel longer)**
 
-Therefore, when Slowcore is frequently used in movies, photographs, and video works, it exhibits extremely strong compatibility when expressing ""stopped time''.
+Therefore, when Slowcore is frequently used in movies, photographs, and video works, it exhibits an extremely strong compatibility when expressing ""stopped time''.
 
 ---
 
@@ -197,7 +197,7 @@ Video genres such as ""Slowcore edit" and ""Sadcore atmosphere" have been formed
 - **Grouper** (Liz Harris)
 - **Bedhead / The New Year**
 
-These inherit Slowcore's ""static emotional expression'' while merging with Ambient, Dream Pop, and Drone.
+These inherit Slowcore's "static emotional expression" while merging with Ambient, Dream Pop, and Drone.
 
 ---
 
@@ -232,9 +232,9 @@ flowchart TD
 ---
 
 # 10. Summary
-Slowcore/Sadcore is a genre that was born in the 1990s in American indie music and places value on ""quietness.'' Slow tempo, few notes, distant reverberations, and introspective lyrics. These were born as the opposite of intense music, but now they are once again in the spotlight in visual culture and social media.
+Slowcore/Sadcore is a genre that was born in the 1990s in the American indie genre and places value on ""quietness.'' Slow tempo, few notes, distant reverberations, and introspective lyrics. These were born as the opposite of intense music, but now they are once again in the spotlight in visual culture and social media.
 
-Rather, the limitation of ""few sounds'' **allows the listener to sink deeper into the music, allowing the contours of the world to emerge more clearly**.
+The limitation of ""few sounds'' actually **allows the listener to sink deeper into the music, allowing the contours of the world to emerge more clearly**.
 Slowcore is a unique type of music that quietly depicts the smallest units of emotion.
 
 

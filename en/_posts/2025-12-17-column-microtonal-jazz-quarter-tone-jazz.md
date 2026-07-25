@@ -45,7 +45,7 @@ color: #fff;
 
 Microtonal intervals have existed in Western music since before the 20th century. The comma difference in the Pythagorean temperament and just intonation of the Middle Ages and Renaissance period includes an interval difference of less than a semitone. However, with the establishment of 12-equal temperament for the purpose of simplifying music notation and teaching, these ideas receded into a theoretical background.
 
-In the early 20th century, composers began to intentionally use microtonal intervals, and systems using 24 equal temperament (quarter-tone) and higher divisions were developed. This trend is evident in contemporary music, but jazz has incorporated microtonality in a more practical manner through improvisation and physical manipulation.
+In the early 20th century, composers began to intentionally use microtonal intervals, and systems using 24 equal temperament (quarter-tone) and higher divisions were developed. This trend is evident in modern music, but jazz has incorporated microtonality in a more practical manner through improvisation and physical manipulation.
 
 ### 1-2 Blues and pitch ambiguity
 
@@ -57,7 +57,7 @@ Blues thirds, fifths, and sevenths are theoretically described as minor thirds, 
 
 ### 2-1 Definition of quarter tone system
 
-Quarter tone often refers to 24 equal temperament, which is 12 semitones further divided into two. By dividing one octave into 24 equal parts, new pitches are inserted between semitones. Theoretically, finer pitch divisions are possible, but for practical purposes in performance and education, the quarter tone has become a reference point.
+Quarter tone often refers to 24 equal temperament, which is the semitone of 12 equal temperament divided into two. By dividing one octave into 24 equal parts, new pitches are inserted between semitones. In theory, finer pitch divisions are possible, but for practical purposes in performance and education, the quarter tone has become a reference point.
 
 ### 2-2 Reason for adoption in jazz context
 
@@ -75,7 +75,7 @@ Particularly in improvisational performances, intervals that were treated as "ex
 
 ### 3-1 Background and positioning
 
-Joe Maneri is a person who developed his own microtonal theory while active as a saxophonist and clarinet player. Although he was based on 24-equal temperament, he also emphasized the sense of just intonation, and was an educator who closely linked theory and practice.
+Joe Maneri is a person who developed his own microtonal theory while active as a saxophonist and clarinetist. Although he was based on 24-equal temperament, he also emphasized the sense of just intonation, and was an educator who closely linked theory and practice.
 
 ### 3-2 Structure of microtonal theory
 
@@ -117,7 +117,7 @@ His students are developing Maneri's methodology and applying it to larger ensem
 
 ### 4-1 Polyphonic/polytonal thinking
 
-Jacob Collier, known for his complex harmonic structures and polyphonic approach, deals with microtones as part of his theoretical explorations. In his case, microtonality is introduced as an extension of harmonic necessity rather than an avant-garde experiment.
+Jacob Collier, known for his complex harmonic structures and polyphonic approach, deals with microtones as part of his theoretical explorations. In his case, microtonality is introduced as an extension of harmonic necessity rather than as an avant-garde experiment.
 
 ### 4-2 Microtonal Harmony
 
@@ -149,7 +149,7 @@ In microtonal jazz improvisation, the direction of pitch transition is more impo
 
 ### 5-2 Relationship with rhythm
 
-By subdividing the pitch, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by creating a series of short note values ​​are used in combination.
+As the intervals are subdivided, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by creating a series of short note values ​​are used in combination.
 
 ### 5-3 Deepening acoustic analysis
 

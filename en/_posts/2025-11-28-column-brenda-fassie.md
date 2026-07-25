@@ -78,7 +78,7 @@ color: #fff;
 
 Brenda Fassie was born and raised in a South African township (Ranga). The township was a product of apartheid-era urban space and a site of institutional segregation and economic oppression. The lives, religion, community networks, and entertainment of the people living there constituted a unique culture, and music was a means of expression deeply rooted in daily life.
 
-Growing up with a mother who loved playing the piano and singing, and earning pocket money from an early age by singing at church and to tourists, provided her with an early hands-on education that laid the foundation for her performance abilities. This environment directly led to later musical diversity (singing that mixed English, Zulu, and Xhosa, sense of rhythm, and improvisation).
+Growing up with a mother who loved playing the piano and singing, and earning pocket money from an early age by singing at church and to tourists, provided her with early hands-on education and laid the foundation for her performance abilities. This environment directly led to later musical diversity (singing that mixed English, Zulu, and Xhosa, sense of rhythm, and improvisation).
 
 ---
 
@@ -86,7 +86,7 @@ Growing up with a mother who loved playing the piano and singing, and earning po
 
 During her early years, she participated in several small groups and local performances, and later came to the attention of producers and industry personnel. My experience with a chorus/vocal group like Joy was an opportunity to hone my sense of harmony and staging.
 
-He then began his career as the lead singer of Brenda and the Big Dudes, and eventually gained national attention with the single "Weekend Special." The success of this song, along with its commercial potential, propelled "Township Voices" onto the urban and national stage.
+He then became the lead singer of Brenda and the Big Dudes, and soon gained national attention with the single "Weekend Special." The success of this song, along with its commercial potential, propelled the "voice of the township" onto the urban and national stage.
 
 ---
 

@@ -9,7 +9,7 @@ layout: post
 tags:
 - Northern Soul
 - Soul
-title: '[Column] Ian Pooley ── The contours of 1990s club music carved by the intelligence
+title: '[Column] Ian Pooley ── The outline of 1990s club music carved by the intelligence
   of UK house'
 ---
 
@@ -24,7 +24,7 @@ Ian Pooley was born in Mainz, Germany in 1973. His parents were from England, an
 
 From an early age, black music such as jazz, soul, and funk was played at home rather than rock. Early on, he developed an ear for paying attention not only to rhythmic dynamics, but also to chord progressions and performance intervals. In particular, the electric bass lines and the spatial expansion created by the chords became important foundations for later productions.
 
-As he entered his teens, he became strongly attracted to dance music that was expanding at the time, such as hip-hop, electro, and acid house. What fascinated him here was not the star quality or the lyrics, but the ""structure'' of the track itself. For Pooley, the subtle changes that occur through repetition and the plasticity of music that is rearranged by DJs presents a new way of looking at music.
+As he entered his teens, he became strongly attracted to dance music that was expanding at the time, such as hip-hop, electro, and acid house. What fascinated him here was not the star quality or the lyrics, but the ""structure'' of the track itself. For Pooley, the subtle changes that occur through repetition and the plasticity of music as it is rearranged by DJs presents a new way of looking at music.
 
 > The multilayered musical roots consistently lend intellectual depth to Ian Pooley's work.
 
@@ -50,7 +50,7 @@ In the early 1990s, Ian Pooley began producing in his home environment. At the t
 
 Around 1994, his work gradually gained attention among club DJs. The design philosophy of blending into the flow of the mix without using flashy breaks or excessive samples had a value different from that of instant hits.
 
-Pooley's songs are regarded as a "reliable middle ground", particularly in UK club culture. They can be placed naturally around peak and peak hours and do not collide with other trucks. It is this functionality that has made him a long-term supporter.
+Pooley's songs are regarded as a "reliable middle ground", particularly in UK club culture. They can be placed naturally around peak and peak hours and do not collide with other trucks. It is this functionality that makes him a long-term supporter.
 
 <div class="mermaid">
 graph LR
@@ -65,7 +65,7 @@ C --> D[Establishment within DJ sets]
 
 ## Characteristics of musicality: designing grooves, chords, and repetitions
 
-Ian Pooley"s musicality relies more on internal structure than on surface style. The four-on-the-floor rhythm is deceptively simple, but underneath there"s a complex interplay between bassline, chords, and percussion.
+Ian Pooley's musicality relies more on internal structure than on surface style. The four-on-the-four rhythm is deceptively simple, but underneath it is a complex interplay of bassline, chords, and percussion.
 
 What is noteworthy is the code work. Although he uses harmonies that give a sense of jazz-like tension, he does not foreground them too much. The chords are placed solely as elements to reinforce the groove, without stealing too much of the listener's attention. This suppressed expression is highly effective during long DJ mixes.
 
@@ -89,13 +89,13 @@ The mixer was not just a volume control device, but functioned as part of the so
 
 Many artists working in the same '90s UK house context gravitated toward more sample-driven or vocal-centered production. Pooley, on the other hand, continued to pursue the structural beauty of instrumental music.
 
-For example, while producers heavily influenced by US house emphasized emotional peaks, Pooley emphasizes the change in grooves over time. This approach is possible because of the production environment where minute differences are accumulated through the operation of equipment.
+For example, while producers heavily influenced by US house focused on emotional peaks, Pooley emphasizes the change in grooves over time. This approach is possible because of the production environment where minute differences are accumulated through the operation of equipment.
 
 ### Position within UK House
 
 In the UK house scene, Pooley was somewhere between the mainstream and the underground. His production environment is neither overly experimental nor commercial. This moderation is what allows him to create long-lived songs.
 
-> Pooley's individuality was not so much the choice of equipment, but the way he used it.
+> Pooley"s individuality wasn"t so much the choice of equipment, but the way he used it.
 
 ---
 
@@ -117,7 +117,7 @@ The biggest reason why Ian Pooley's music has continued to be popular for so lon
 
 Pooley's songs rarely have excessive breakdowns or dramatic shifts. Instead, it maintains a certain level of tension while leaving enough space for it to connect naturally with other songs. It was this blank space that made it more maneuverable for DJs.
 
-DJs don't "play" songs, they "arrange" them. Pooley understood the premise deeply and made it a priority to make his tracks work as part of the set. As a result, his works continue to be used in a variety of contexts, without being tied to a specific peak time or genre.
+DJs don't "play" songs, they "arrange" them. Pooley understood the premise deeply and made it a priority to make his tracks work as part of the set. As a result, his work continues to be used in a variety of contexts, without being tied to a specific peak time or genre.
 
 ### Comparison with tracks for contemporary DJs
 
@@ -127,7 +127,7 @@ Pooley's songs, on the other hand, intentionally suppress the peak of reaction. 
 
 ### Role in UK house DJ culture
 
-For UK house DJs, Pooley's songs served as a cross-genre hub. It can be incorporated naturally into deep house, tech house, or minimalist sets, and its flexibility is highly praised.
+For UK house DJs, Pooley's songs served as a cross-genre hub. Its flexibility makes it a natural fit for deep house, tech house, and minimalist sets.
 
 As a result, Pooley's trucks continue to circulate quietly on the outside of fashion. This is one of the most ideal songs in DJ culture.
 
@@ -161,7 +161,7 @@ Early 1990s: Full-scale music production
 1997 Album "Meridian" released
 Continuing stable production activities since the 2000s
 
-> What can be seen throughout the chronology is a consistent and unwavering production attitude.
+> What can be seen throughout the chronology is a consistent and unwavering production approach.
 
 ---
 

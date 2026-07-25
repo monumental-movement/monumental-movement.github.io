@@ -47,7 +47,7 @@ Smartphone notification sounds, subway announcements, street noises.
 They recede into the background of consciousness and become just a piece of information.
 
 However, Cage and the composers of musique concrète encouraged us to practice rediscovering listening.
-Listening is an act of renewing one's relationship with the world,
+Listening is an act of renewing your relationship with the world,
 It is an attitude of accepting ""the sounds that already exist'' rather than choosing a sound.
 
 This attitude would later be carried over to Brian Eno's ambient music.
@@ -134,7 +134,7 @@ graph TD
 </div>
 
 As this diagram shows, ""listening'' is not a passive act, but a creative act.
-Silence functions not as a space for playing music, but as a space for thinking and empathy.
+Silence functions not as a "space" for playing music, but as a space for thinking and empathy.
 
 ---
 

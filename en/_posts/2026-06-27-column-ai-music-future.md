@@ -150,7 +150,7 @@ In other words, the existence of a singer changes from a ""fixed body" to a ""re
 
 This change shakes the "proof of existence" in music.
 
-> When the voice becomes replicable, the question remains: Who is the singer?
+> When the voice becomes replicable, the question remains: who is the singer?
 
 ---
 
@@ -243,7 +243,7 @@ What is ending is not the music itself, but the following boundaries.
 * Original and imitation
 * Production and consumption
 
-As these boundaries become blurred, music is moving into a different form.
+As these boundaries become blurred, music is moving into other forms.
 
 It is not an "end" but a "relocation."
 

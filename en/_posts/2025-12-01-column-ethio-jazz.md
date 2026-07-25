@@ -10,8 +10,8 @@ tags:
 - Jazz
 - 50s
 - 60s
-title: '[Column] What is Ethio-Jazz (Ethiopian Jazz)? A trajectory of innovation etched
-  in the history of African music'
+title: '[Column] What is Ethio-Jazz? — The trajectory of innovation etched in the
+  history of African music'
 ---
 
 

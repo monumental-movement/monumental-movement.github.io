@@ -58,7 +58,7 @@ However, **that transparency was the "problem"**.
 Digital sound is so perfect that it lacks a sense of presence.
 Sounds you can't touch, playlists you can replace.
 What psychologist Winnicott calls a "transitional object"
-In other words, the presence of a ""stuffed toy'' that makes children feel safe has been lost in music.
+In other words, the presence of a ""stuffed animal'' that children feel safe in has been lost in music.
 
 Records are the exact opposite.
 The discs are heavy, absorb dust, are sensitive to temperature, and even spin out of order.
@@ -69,13 +69,13 @@ This **troublesomeness actually creates attachment**.
 
 ## Chapter 2: Memories in Noise -- Analog and Nostalgia
 
-The moment the needle drops, there's a ""sah'' noise.
+The moment the needle drops, there is a ""sah'' noise.
 For some reason, many people feel nostalgic just by listening to it.
 
 This phenomenon is psychologically called the "Proust effect."
 This is a phenomenon in which stimulation of the five senses, such as smells and sounds, evokes memories.
 The noise of the record makes the passage of time itself audible.
-In other words, the act of listening to a record is also ""an act of reuniting with the past.''
+In other words, the act of listening to a record is also an act of ""reuniting with the past.''
 
 If digital sound is "currently ongoing" sound,
 Analog sound is the "reverberation of memory."
@@ -117,7 +117,7 @@ Within this simple mechanism, there is a **dialogue between time and the body**.
 
 Generation Z record buyers
 Actually, I don't know about the "analog era".
-Still, they "buy" records and "display them" on their shelves.
+Still, they "buy" records and "display" them on their shelves.
 
 For them, records are not ""archives" or ""collections."
 Rather, it functions as "evidence of experience."
@@ -139,7 +139,7 @@ That is **rediscovering ""humanity'' in the age of AI**.
 
 ---
 
-## Final Chapter: Records teach us "happiness of imperfection"
+## Final chapter: Records teach us "happiness of imperfection"
 
 The sound of records is not perfect.
 Distortion, dust, and deterioration of the disc -- all of that is etched into the sound.
@@ -147,7 +147,7 @@ But that's what a "living sound" is all about.
 
 Psychologically, people tend to "attach to imperfections" rather than to perfection.
 Accept that imperfection as part of yourself.
-That's the appeal of it as the "ghost of analog."
+That's the appeal of the "ghost of analog".
 
 --Records are not tombstones for music.
 Rather, **human memory itself is a rotating device**.

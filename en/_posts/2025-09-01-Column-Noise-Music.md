@@ -52,7 +52,7 @@ After World War II, the development of magnetic tape and electroacoustic equipme
 - musique concrète (1948-) by Pierre Schaeffer.
 
 ### Representative works
-- Works by Pierre Henry and Tod Dockstader.
+- Works by Pierre Henri and Tod Dockstader.
 
 ### Equipment/Technology
 - Tape editing (reverse rotation, looping, cutting/splicing).

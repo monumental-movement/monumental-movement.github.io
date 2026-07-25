@@ -18,7 +18,7 @@ title: '[Column] Post-rock/ambient interaction with film and architecture'
 Text: mmr｜Theme: Post Rock/Ambient and movies/architecture
 
 The evolution of post-rock/ambient is not limited to just a musical genre, but has an affinity with spatial art such as **film, architecture, and urban planning**.
-In addition to historical masterpieces, we will also organize interactions with movies and architecture, as well as ambient experiences in urban spaces.
+In addition to historical masterpieces, this section will organize interactions with movies and architecture, as well as ambient experiences in urban spaces.
 
 ---
 
@@ -43,7 +43,7 @@ Ambient/post-rock has had a great influence on film music, and has become establ
 
 | Movies | Music | Year | Features |
 |------|----------|----|------|
-| *Arrival* | Jóhann Jóhannsson | 2016 | Expressing the sense of time circulation with drone-like sounds |
+| *Arrival* | Jóhann Jóhannsson | 2016 | Expressing the sense of circulation of time with a drone sound |
 | *Blade Runner 2049* | Hans Zimmer & Benjamin Wallfisch | 2017 | Ambient depiction of the coldness and expanse of a futuristic city |
 | *The Revenant* | Ryuichi Sakamoto & Alva Noto | 2015 | Expressing the pressure of nature and time with electronic and environmental sounds |
 | *Solaris* (2002 edition) | Eduard Artemyev | 2002 | Expanding psychological space with cosmic ambient |
@@ -70,7 +70,7 @@ Ambient/post-rock shows a strong presence in dialogue with urban spaces and arch
 **point**
 - The themes of the urban space are "extension of time" and "fusion with environmental sounds"
 - In architecture, it is possible to design by calculating the volume, reflection, and movement of sound.
-- Music functions as an experience of the entire space, rather than just listening to it alone.
+- Music functions as an experience of the whole space, rather than just listening to it alone.
 
 ---
 
@@ -115,7 +115,7 @@ Film ↔ Architecture: Interaction between visual art and spatial design
 #### The Revenant (2015)
 
 - **Composer**: Ryuichi Sakamoto & Alva Noto
-- **Features**: Expressing the pressure of nature and time with electronic sounds and environmental sounds
+- **Characteristics**: Expressing the pressure of nature and time with electronic sounds and environmental sounds
 - **Sound Sample**: [Main Theme](https://www.youtube.com/watch?v=Czv8J1W4yYU)
 
 #### Solaris (2002)
@@ -127,7 +127,7 @@ Film ↔ Architecture: Interaction between visual art and spatial design
 #### There Will Be Blood (2007)
 
 - **Composer**: Jonny Greenwood
-- **Features**: Post-classical + noise creates a sense of tension and loneliness
+- **Characteristics**: Post-classical + noise creates a sense of tension and loneliness
 - **Sound Sample**: [Full OST](https://www.youtube.com/watch?v=-yXqEzUoFY4)
 
 ---
@@ -145,7 +145,7 @@ Ambient/post-rock has a strong presence in dialogue with urban spaces and archit
 
 #### Tate Modern Turbine Hall, London
 
-- **Features**: Expansion of drone sound and audience experience in huge spaces
+- **Features**: Drone sound in a huge space and expanded audience experience
 - **Sound Sample**: [Mire Lee: Open Wound](https://www.youtube.com/watch?v=uUjkTAGFFYA)
 
 #### Oculus, NYC
@@ -160,9 +160,9 @@ Ambient/post-rock has a strong presence in dialogue with urban spaces and archit
 
 Post-rock/ambient is not just a music genre, but has evolved as a method of designing time and space.
 
-Psychological expansion in film: time manipulation with drones, loops, and soundscapes
+Psychological expansion in film: Manipulating time with drones, loops, and soundscapes
 
-Applications in architecture and urban planning: the experience of staying in a space, walking lines, and harmony with urban environmental sounds
+Applications in architecture and urban planning: the experience of staying in space, walking lines, and harmony with urban environmental sounds
 
 In the future, the fusion of VR/AR and AI-generated music will further evolve the immersive spatial music experience.
 

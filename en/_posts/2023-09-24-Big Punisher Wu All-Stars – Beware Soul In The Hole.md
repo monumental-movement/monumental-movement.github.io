@@ -15,7 +15,7 @@ title: Big Punisher Wu All-Stars – Beware Soul In The Hole
 
 "Beware" A song by the talented rapper Big Punishe (BigPun), known for his wordplay and quick rapping style. His signature flow and clever wordplay stand out.
 
-"Soul In The Hole" A song by Wu All-Stars, a group of artists associated with the Wu-Tang Clan, this song pays homage to the basketball documentary film of the same name, capturing the gritty essence of New York City street basketball culture and combining an energetic rap verse with a catchy chorus.
+"Soul In The Hole" A song by Wu All-Stars, a group of artists associated with the Wu-Tang Clan, the song pays homage to the basketball documentary film of the same name, capturing the gritty essence of New York City street basketball culture and combining an energetic rap verse with a catchy chorus.
 
 Both songs are heavily influenced by the East Coast hip-hop scene of the late 1990s.
 

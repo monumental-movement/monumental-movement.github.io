@@ -101,7 +101,7 @@ These songs show the core of Veve's dance music, while also clearly showing the 
 
 ## Role of lead guitar
 
-Veve's lead guitar was characterized by a sharper "notch" melody than other bands at the time. Especially noticeable in recordings from the 1970s,
+Veve's lead guitar was characterized by a sharper "notch" melody than other bands at the time. Especially noticeable in recordings from the 1970s.
 
 - Chromatic leading rise
 - fast tremolo
@@ -112,7 +112,7 @@ was a symbol of the Veve sound. It also influenced the later rapa-lapa and kasek
 ## Vocal ensemble structure
 
 Veve's vocals are based on **three- to four-part harmony**, with one person maintaining the main melody while the other two or three add counter-melody.
-Compared to ZAïko"s single-line music and OK Jazz"s deep harmony-based music, Veve is somewhere in between, with a lot of **light and bright harmonies**.
+ZAïko is mostly single line, and OK Jazz is mainly deep harmonies, whereas Veve is somewhere in between, with a lot of **light and bright harmonies**.
 
 ## Rhythm section innovation
 
@@ -152,7 +152,7 @@ graph TD
 
 ### Technical analysis
 
-* **The saxophone presents the melody at the beginning → the guitar imitates**
+* **Saxophone presents melody at the beginning → Guitar imitates**
 * **Vocals are "questions" and choruses are "responses"**
 * **Linear, high-pitched guitar solo**
 

@@ -18,7 +18,7 @@ title: '[Column] Korla Pandit and the Vision of Exotica: Dreams and Masks of Pos
 ## Prologue: What was exotica?
 
 
-Text: mmr｜Theme: Exploring the role of the Korla Pandits in the creation of exotica and the aesthetics of Orientalism in postwar American culture
+Text: mmr｜Theme: Exploring the role of Korla Pandit in the nascent period of exotica and the aesthetics of Orientalism in postwar American culture
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg)
 Source: [Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
@@ -55,7 +55,7 @@ color: #fff;
 1. [Chapter 1: The mysterious man named Korla Pandit] (#Chapter 1)
 2. [Chapter 2: Postwar America and "Foreign Dreams"] (#Chapter 2)
 3. [Chapter 3: The Birth of Exotica Music - From Les Baxter to Martin Denny] (#Chapter 3)
-4. [Chapter 4: Idols of the TV Age - The Shock of "Korla Pandit Show"] (#Chapter 4)
+4. [Chapter 4: Idols of the TV Age - Impact of "Korla Pandit Show"] (#Chapter 4)
 5. [Chapter 5: The Truth Behind the Mask - Confessions of John Rowland] (#Chapter 5)
 6. [Chapter 6: Reverberations of Exotica - From Longines Symphonette to Lo-Fi Revival] (#Chapter 6)
 7. [Chapter 7: Modern Reappraisal and Cultural Dislocation] (#Chapter 7)
@@ -72,7 +72,7 @@ color: #fff;
 In 1948, Korla Pandit was the "Prince of India" who appeared on Los Angeles television station KTLA.
 He wears a turban, looks deep into the camera, and plays the Hammond organ. His fingers danced smoothly across the keys, and he didn't say a word.
 
-However, in the late 1990s, shocking facts were revealed in the documentary film Korla (2014).
+However, in the late 1990s, a shocking truth was revealed in the documentary film Korla (2014).
 His real name was **John Roland Redd**, and he was African American.
 
 This "story of the mask" goes beyond a simple stage name anecdote.
@@ -110,7 +110,7 @@ It laid the foundation for the later sounds of Martin Denny and Arthur Lyman.
 There, percussion instruments, bird calls, gamelan, and chimes intermingled to create an acoustic version of the ""imaginary South Seas.''
 
 Pandits, on the other hand, focus more on religious and spiritual aspects,
-He pioneered a unique path of ""meditative and euphoric organ music.''
+He pioneered a unique path of ""organ music for meditation and euphoria.''
 
 Reference/Source:
 - [Wikipedia - Les Baxter](https://en.wikipedia.org/wiki/Les_Baxter)
@@ -118,7 +118,7 @@ Reference/Source:
 
 ---
 
-## Chapter 4: Idols of the Television Age - Impact of "Korla Pandit Show" {#Chapter 4}
+## Chapter 4: Idols of the TV Age - Impact of "Korla Pandit Show" {#Chapter 4}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ul_glviDp2M?si=duNBy74VCRrDdxPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -200,7 +200,7 @@ His silence may have been the most eloquent protest of all.
 The sounds of exotica are not just "tropical BGM".
 **It was a fantasy device to fill the void in the hearts of post-war Americans**.
 
-Behind the mask that symbolizes that fantasy, there was the pain and dream of a black pianist.
+Behind the mask that symbolizes that illusion, there was the pain and dream of a black pianist.
 We can finally find out now.
 
 ---

@@ -41,7 +41,7 @@ color: #fff;
 
 ## 1. Origin and characteristics of krautrock
 
-In West Germany in the late 1960s, young people of the post-war generation were exploring their own unique musical culture, while still being influenced by American and British rock and jazz. Krautrock is a genre born from trial and error with the following characteristics:
+In West Germany in the late 1960s, young people of the post-war generation were influenced by American and British rock and jazz, but were still searching for their own unique musical culture. Krautrock is a genre born from trial and error with the following characteristics:
 
 - **Pursuit of repetitive rhythm**: Neu!'s "Motorik beat" is especially iconic. By mechanically repeating 4/4 of the drum, a trance-like and meditative feeling is created.
 - **Electronic sound experiments**: Make full use of analog synthesizers like Kraftwerk and Tangerine Dream.
@@ -69,7 +69,7 @@ Since the 1990s, krautrock has been reevaluated, and artists who have inherited 
 
 Features of Neo-Krautrock:
 
-- **Rhythm evolution**: Based on Motorik beats, changing the BPM and rhythm pattern, merging with post-rock and electronica.
+- **Rhythm Evolution**: Based on Motorik beats, changing the BPM and rhythm pattern and merging with post-rock and electronica.
 - **Deepening sound design**: Multilayered use of analog synths, digital sound sources, samplers, and effects.
 - **Spatial production**: Make full use of reverb and delay to emphasize the spaciousness of the sound even during live performances.
 - **Genre fusion**: Incorporates elements of ambient, post-rock, electronic music, and indie rock.
@@ -101,7 +101,7 @@ flowchart LR
 Neo-Krautrock is based on the classic Krautrock Motorik beat, but uses a variety of rhythmic techniques:
 
 - **BPM change**: Subtly change the tempo during live performance, creating a dynamic feel for each song.
-- **Polyrhythm**: Creates complexity with a dual structure of drum machine + live drums.
+- **Polyrhythm**: Creates complexity with a dual structure of drum machine and live drums.
 - **Rhythm Sampling**: Digitally processed and rearranged percussion instrument phrases.
 
 ### 3.2 Melody and Harmony
@@ -157,12 +157,12 @@ timeline
 
 ## 6. Neo-Krautrock influences and connections with contemporary music
 
-Neo-Krautrock is more than just a reissue, it's influencing contemporary music:
+Neo-Krautrock is more than just a reissue, it's an influence on contemporary music:
 
 - **Post-lock**: Introduction of repetitive structures and spatial expressions.
 - **Electronica**: A method of combining analog and digital sound sources.
 - **Indie Rock**: Inheriting the spirit of independent production and live performances.
-- **Diversification of live expressions**: Multimedia live performances linked to video and lighting are also on the rise.
+- **Diversification of live expressions**: Multimedia live performances linked to video and lighting are also increasing.
 
 <div class="mermaid">
 flowchart TD

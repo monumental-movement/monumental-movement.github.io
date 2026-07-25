@@ -22,7 +22,7 @@ Text: mmr｜Theme: The intersection of visual art and the far north of acoustic 
 
 Music is usually made up of melody, rhythm, and harmony. However, there is music that strips away all of that and is made up of almost a single frequency. Sachiko M is the embodiment of this extreme.
 
-Her works go beyond the framework of ""music" and instead function as devices that transform the perception of space itself. By using the purest unit of sound, the sine wave, and presenting a sustained sound that hardly changes, the listener is guided into a state where the listener does not ""hear" the sound, but ""experiences it as an environment.''
+Her works go beyond the framework of "music" and instead function as devices that transform the perception of space itself. By using the purest unit of sound, the sine wave, and presenting a sustained sound that hardly changes, the listener is guided into a state where the listener does not ""hear" the sound, but ""experiences it as an environment."
 
 This isn't just minimalism. Rather, it is an act that shakes the boundary between the presence and absence of sound, and is deeply connected to the exhibition space and the context of art.
 
@@ -419,7 +419,7 @@ Sound, like visual works, becomes a device for manipulating the consciousness of
 
 ### Non-temporal structure
 
-It"s hard to feel a clear beginning or end to Sachiko M"s music. Time is not experienced as linear, but as a stagnant or expanded state.
+It"s hard to feel a clear beginning or end to Sachiko M"s music. Time is not linear, but is experienced as a stagnant or expanded state.
 
 ### Changes in listening experience
 
@@ -493,5 +493,14 @@ At that moment when the sound begins to disappear, we begin to hear the space fo
 
 > The absence of sound brings out the existence of space most strongly
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/53eqvKMUDVU?si=GRKlMetUhx6-6fNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

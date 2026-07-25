@@ -17,9 +17,9 @@ Visionaries is a six-piece conscious hip-hop group based in Los Angeles, formed 
 
 The members are LMNO (J. Kelly), 2Mex (A. Ocana), Key-Kool (Kikuo Nishi), DJ Rhettmatic (N. Nirza), Lord Zen (D. Hood), and Dannu (D. Reyes).
 
-Tracks 1 and 3 on Side A are produced by world-famous DJ J.Rocc, known by the nickname Funky President.
+Tracks 1 and 3 on Side A are produced by world-renowned DJ J.Rocc, nicknamed Funky President.
 
-B-sides 1 and 3 are produced by Visionaries member Kikuo Nishi, aka Key Kool.
+B-sides 1 and 3 were produced by Visionaries member Kikuo Nishi, aka Key Kool.
 
 #### Tracklist
 ```md

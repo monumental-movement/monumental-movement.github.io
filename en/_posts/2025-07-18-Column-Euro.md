@@ -25,7 +25,7 @@ Text: mmr｜Theme: The whole picture of Euro music culture in the 90s
 The ""Euro Music'' of the 1990s was not a specific genre, but rather a general term for popular dance-pop music that developed mainly in continental Europe.
 The most iconic of these were ""Eurobeat" and ""Eurodance," but other genres such as Eurotrance, high energy, and synth pop were also running at the same time.
 
-In other words, the Euro of the 1990s was the ""pop image of modern Europe'' that fused party culture, dance music, catchy melodies, and technology.
+In other words, the Euro of the 1990s was the ""pop image of modern Europe,'' a fusion of party culture, dance music, catchy melodies, and technology.
 
 
 <hr>
@@ -81,9 +81,9 @@ In other words, the Euro of the 1990s was the ""pop image of modern Europe'' tha
 
 ### Common language between Europe and pop after the Cold War
 
-After the fall of the Berlin Wall in 1989, Europe rapidly transformed into a cross-border entertainment market. "Euro-pop sung in English" began to enter the international market even from non-English-speaking countries (such as Germany, the Netherlands, Italy, and Sweden).
+After the fall of the Berlin Wall in 1989, Europe rapidly transformed into a cross-border entertainment market. "Euro-pop sung in English" began to enter the international market, even from non-English-speaking countries (such as Germany, the Netherlands, Italy, and Sweden).
 
-This means that Euromusic is a musical culture that prioritizes sensory pleasure over political boundaries. Rhythm, synths, and a simple, repeatable chorus. These have become a "common language" that transcends languages ​​and borders.
+This means that Euromusic is a musical culture that prioritizes sensory pleasure over political boundaries. Rhythm, synths, and a simple, easy-to-repeat chorus. These have become a "common language" that transcends languages ​​and borders.
 
 
 <hr>
@@ -130,15 +130,15 @@ Multiple remixes and B-sides are included in one song, making it suitable for bo
 
 **●MTV Europe**
 
-A base for "visual dance culture" that sells video and music as a set.
+A base for "visual dance culture" that sells videos and music as a set.
 
 **● Super Eurobeat (Japan)**
 
 A series developed independently in Japan by Avex. Also linked to Initial D culture.
 
-**●Reimported disc produced in Europe and distributed in Japan**
+**● Made in Europe, re-imported disc distributed in Japan**
 
-Produced in Italy and Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGHT)
+Produced in Italy/Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGHT)
 
 
 <hr>
@@ -187,7 +187,7 @@ In recent years, Euromusic has been reevaluated in the following ways:
 
 - Like City Pop, Eurobeat from Japan was rediscovered by the internet generation.
 
-In addition, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
+Additionally, 90's Euro is reaching new listeners as the number of plays on Spotify and YouTube increases.
 
 
 

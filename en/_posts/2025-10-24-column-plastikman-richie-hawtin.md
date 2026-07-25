@@ -16,9 +16,9 @@ title: '[Column] Plastikman | Richie Hawtin - The depths of minimalism and the s
 ## Prologue: Self as a "space" of sound
 
 
-Text: mmr｜Theme: Thoughts on how Plastikman, who inherited the spirit of the second generation of Detroit techno, stripped down the sound to the utmost limit and sublimated it into an art that allows you to hear the "reverberation" of rhythm itself.
+Text: mmr | Theme: Thoughts on how Plastikman, who inherited the spirit of the second generation of Detroit techno, stripped down the sound to the utmost limit and sublimated it into an art that lets you hear the "reverberation" of rhythm itself.
 
-Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **experiments in visualizing the internal space of the human body with electronic sound**, and the sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
+Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, especially ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **experiments in visualizing the internal space of the human body with electronic sound**, and their cold liquid-like sounds are also called ""abstract sound sculptures.''
 
 
 
@@ -46,14 +46,14 @@ Hawtin was influenced by the **spirit that resides in the mechanical rhythms** o
 ---
 
 ## Chapter 2: The Birth of Plastikman - Acid Remnants and Techno Introspection
-In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the limit, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
+In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeats and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
 
 Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (https://monumental-movement.jp/Plastikman-Musik). This is Richie Hawtin"s third studio album and second under his Plastikman name.
 
 > "Plastikman is a project that uses sound to visualize my own insides."
 > — Richie Hawtin
 
-The live shows around this time had red strobe lights flashing momentarily in the almost pitch-black venue, symbolizing the materialization of sound. Rather than dancing, the audience felt as if they were ""sinking'' into the sound.
+Live performances around this time had red strobe lights flashing momentarily in an almost pitch-black venue, symbolizing the materialization of sound. Rather than dancing, the audience felt as if they were ""sinking'' into the sound.
 
 #### Plastikman – Musik
 
@@ -92,7 +92,7 @@ With this work, Hawtin becomes the first artist to equate "minimalism" with "nih
 Hawtin also pioneered the fusion of technology and performance.
 In the 2000s, he **redefined DJ play** with the "DE9" series, establishing the ""**prototype of digital DJ**'' that used Ableton Live and Traktor to reconstruct tracks in real time.
 
-On his stage, an environment was constructed in which MacBook, MIDI controller, lighting and video were completely synchronized, presenting a new concept of **""live = breathing data''**.
+On his stage, an environment was constructed in which MacBook, MIDI controller, lighting, and video were completely synchronized, presenting a new concept of ""live = breathing data''.
 
 ---
 
@@ -132,8 +132,8 @@ By splitting each track into tiny samples and rearranging the minimal pulses, we
 ### 2. Technological innovation
 - Real-time processing using **Ableton Live/Traktor**
 - Instant reflection of effect operations via MIDI control
-- The concept of "editing = playing" in sample units
-As a result, the DJ's physical manipulation has changed to the act of playing acoustic material rather than playing the music itself.
+- Concept of "editing = performance" in sample units
+As a result, the DJ's physical manipulation changed to the act of playing acoustic material rather than playing the music itself.
 
 ### 3. Musical significance
 The DE9 series is not just a mix CD, but also functions as a recording of a live performance = new song.
@@ -145,11 +145,11 @@ The DE9 series is not just a mix CD, but also functions as a recording of a live
 
 ---
 
-## Chapter 9: Minus Label History - Minimalist Testing Ground
+## Chapter 9: Minus label history - minimalist testing ground
 
 ### 1. Established Minus
 In 1998, Plastikman founded his own label, **Minus**.
-The goal was "**a space where you can experiment with sounds stripped down to the limit**".
+The goal was "**a space where you can experiment with sounds stripped down to their limits**."
 Minus is characterized by respecting the individuality of the artist while maintaining a sense of unity in the philosophical direction of music.
 
 ### 2. Representative works and artists
@@ -162,7 +162,7 @@ Minus was more than just a distribution platform, it functioned as a place to em
 
 ### 3. Label influence
 - **A fusion of live sets and releases**: digitally reconstructable sound sources
-- **Aesthetics of sound blank space**: Experimenting with "how to use white space"
+- **Aesthetics of sound blank space**: Experimenting with "how to use blank space"
 - **International influence**: Direct influence on club scenes in Berlin, Germany and Tokyo
 
 > Minus is an ""acoustic laboratory"' to pass on Plastikman"s musical philosophy to the next generation.
@@ -280,7 +280,7 @@ timeline
 ## Final chapter: Hawtin as a sound sculptor
 
 Plastikman is the key to techno going "inside" instead of "outside".
-This was not a dismantling of club music, but a reconstruction of the rhythm that resonates inside the body, and an exploration of the fundamental question of music: ""What does it mean to listen?''
+This was not a dismantling of club music, but a reconstruction of the rhythm that resonates within the body, and an exploration of the fundamental question of music: ""What does it mean to listen?''
 
 Today, Richie Hawtin continues to turn the knobs in silence, saying few words.
 This is because he knows better than anyone that just one rotation can change the boundary between sound and silence.
@@ -294,7 +294,7 @@ This is because he knows better than anyone that just one rotation can change th
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musik** EP | The pinnacle of Acid Techno under the name Plastikman. |
 | 1998 | Plastikman | **Minus** EP | The first installment of Minus. Extreme minimal sound. |
-| 1999 | Magda | **Track 1** | A dark minimalist test piece.             |
+| 1999 | Magda | **Track 1** | Dark minimalist test piece.             |
 | 2000 | Richie Hawtin | **EX/EP** | Live remix before DE9.         |
 | 2001 | Plastikman | **DE9: Closer to the Edit** | Digital DJ revolution.               |
 | 2003 | Villalobos | **Allez-Allez** | Early Berlin influence from Minus.       |

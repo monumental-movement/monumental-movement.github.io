@@ -50,7 +50,7 @@ color: #fff;
 Its musicality is multi-layered. AOR, soul, funk, jazz, disco - based on Western black music, they combined Japanese melodic beauty and poetry. Tatsuro Yamashita"s precise vocal harmony, Mariya Takeuchi"s sweet yet heartrending melody, and Eiichi Otaki's structured production. All of them functioned as a "Japanese redefinition of pop."
 
 The themes of this music are summarized in motifs such as love, nightlife, loneliness, and movement. Even though it is set in a city, there is a certain feeling of being left behind.
-It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. This is because, in a time of urbanization and digitalization, they too face the same loneliness.
+It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. Now that urbanization and digitalization have progressed, they too face the same loneliness.
 
 ---
 
@@ -60,7 +60,7 @@ From the late 1970s to the 1980s, Japanese society rapidly achieved affluence.
 Home appliances, cars, fashion, and music symbolized the "urban lifestyle."
 Sony's Walkman (1979) ushered in a revolution in ""carrying music with you,'' and City Pop became the ideal soundtrack.
 
-FM stations open one after another, and DJs play the latest hits in English. The chord progression evokes the winds of the American West Coast, and is associated with images of cities such as Tokyo, Yokohama, and Kobe.
+FM stations open one after another, and DJs play the latest hits in English. The chord progression, which evokes the winds of the American West Coast, is linked to images of cities such as Tokyo, Yokohama, and Kobe.
 It can be said that listeners at the time were expressing themselves ""living in the city'' through city pop.
 During this period, Japan's recording technology reached the highest level in the world, and the sound quality of records was extremely high. It was a time when the city really resonated both acoustically and socially.
 
@@ -138,7 +138,7 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 ## 9. Influence on contemporary artists
 
 In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
-Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
+That lineage includes not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the ""emotions of living in the city'' in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."

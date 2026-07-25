@@ -17,12 +17,12 @@ title: '[Column] Why do sirens differ from country to country?—Design philosop
 
 ## The sound of sirens is "culture"
 
-Text: mmr | Theme: The siren sounds of each country are not just differences in volume, but are the product of design ideas that are closely linked to living environments, travel distance, and music culture.
+Text: mmr｜Theme: The siren sounds of each country are not just differences in volume, but are the product of design ideas that are closely linked to living environments, travel distance, and music culture.
 
 
-A siren sounds somewhere in the city. This sound is not just a warning of an emergency situation, but is actually a ""designed sound"' that reflects the country"s lifestyle and sound environment. It's no coincidence that the volume, frequency, and pattern of sirens vary from country to country. This is because the assumptions about where and how people listen to sound are different.
+A siren sounds somewhere in the city. The sound is not just a warning of an emergency situation, but is actually a ""designed sound"' that reflects the country"s lifestyle and sound environment. It's no coincidence that the volume, frequency, and pattern of sirens vary from country to country. This is because the assumptions about where and how people listen to sound are different.
 
-For example, in Japan, many people live in relatively compact urban structures, and it is common to walk or use public transportation to get around. On the other hand, in a vast country like the United States, long journeys by car are commonplace, and the closed space inside the car becomes one of the main sources of daily noise.
+For example, in Japan, many people live in relatively compact urban structures, and it is common to walk or use public transportation to get around. On the other hand, in a vast country like the United States, long journeys by car are commonplace, and the closed space inside the car is one of the main sources of daily noise.
 
 This difference has a direct impact on siren design.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 When talking about siren performance, we tend to focus on the "volume (decibel)", but in reality, that alone is not enough. What matters is "in what environment" and "how it sounds."
 
-Generally speaking, emergency vehicle sirens have a sound pressure of approximately 100 to 120 decibels. However, this value is only an outdoor standard. In actual living spaces, the following factors greatly affect the arrival of sound.
+Generally speaking, emergency vehicle sirens have a sound pressure of approximately 100 to 120 decibels. However, this figure is only an outdoor standard. In actual living spaces, the following factors greatly affect the arrival of sound.
 
 ・Sound insulation performance inside the car
 ・Car audio volume
@@ -56,7 +56,7 @@ Generally speaking, emergency vehicle sirens have a sound pressure of approximat
 ・City noise level
 ・Reflection of road shapes and buildings
 
-Particularly in recent years, cars are highly sound insulated, and in regions where there is a culture of playing music at high volume inside the car, simply increasing the volume may drown out the siren.
+Particularly in recent years, cars are highly sound insulated, and in regions where there is a culture of playing music at high volume inside the car, the siren may be drowned out by a simple volume.
 
 For this reason, sirens are not just a loud sound, but are designed to be a sound that penetrates the environment.
 
@@ -77,13 +77,13 @@ In such an environment, it is difficult to notice with a normal, monotonous warn
 ・Rhythmically modulating
 ・Designed to give a sense of direction
 
-This ensures that it doesn't get lost in the music and is immediately recognized by the driver.
+This allows it to be instantly recognized by drivers without getting lost in the music.
 
-> A culture of long driving hours and loud music has led to the evolution of sirens with more aggressive and varied sounds.
+> A culture of long driving hours and loud music has led to the evolution of sirens into more aggressive and varied sounds.
 
 ---
 
-## Optimization of Japanese city structure and sirens
+## Japanese city structure and siren optimization
 
 On the other hand, Japan's cities are relatively dense, roads are narrow, and there are many pedestrians and bicycles. For this reason, the importance of sirens is placed on ""recognition at close range" and ""consideration of the surroundings" rather than reaching long distances.
 
@@ -104,7 +104,7 @@ Furthermore, sounds such as "An ambulance is passing by" have the role of helpin
 
 In Europe, many buildings are made of stone due to the influence of urban structures that have continued since the Middle Ages, and the sound reverberation characteristics are unique. For this reason, sirens are designed to use reflected sound to reach a wide range.
 
-The reason why each country has a different sound pattern is to make it easier to identify people when they cross borders. For example, Germany uses a relatively simple pattern, while France uses a different rhythm.
+Additionally, each country has a different sound pattern so that they can be identified when crossing borders. For example, Germany uses a relatively simple pattern, while France uses a different rhythm.
 
 Sounds are not just warnings, but also function as symbols to identify countries and regions.
 
@@ -118,7 +118,7 @@ In Europe, the sound of a siren is not only designed to increase the volume or a
 
 ### Germany: Standardized two-tone alternating pattern
 
-German emergency vehicles commonly use an alternating two-tone pattern known as ""high-low.'' This is clearly standardized, and switching frequencies creates a strong alert.
+German emergency vehicles commonly use an alternating two-note pattern called "high-low". This is clearly standardized, and switching frequencies creates a strong alert.
 
 The characteristics are as follows.
 
@@ -127,7 +127,7 @@ The characteristics are as follows.
 -Easy to identify even at long distances
 - Difficult to mix with other sounds
 
-This simplicity is intentional, and has the advantage of allowing sound to travel unimpeded, even in highly reverberant urban environments. Additionally, in Germany, traffic regulations define the combination of a siren and a blue light as a clear signal for giving way, so the sound pattern must be clear enough to avoid misidentification.
+This simplicity is intentional and has the advantage of ensuring that the sound remains intact even in highly reverberant urban environments. Additionally, in Germany, traffic regulations define the combination of a siren and a blue light as a clear signal to give priority to the road, so it is important that the sound pattern be clear enough to avoid misidentification.
 
 > The German siren is a sound that can be ""avoided without hesitation'' through standardization and clarity.
 
@@ -144,7 +144,7 @@ As for the characteristics.
 ・Design that stands out amidst urban noise
 ・Slightly different depending on vehicle type and usage
 
-In a high-density city like Paris, there is always a lot of noise, so moving sounds are more likely to attract attention than simple two-tone sounds. Therefore, there is a strong tendency for French sirens to be recognized by rhythm.
+In a high-density city like Paris, there is always a lot of noise, so moving sounds are more likely to attract attention than two simple tones. Therefore, there is a strong tendency for French sirens to be recognized by rhythm.
 
 > The French siren is a sound that is perceived as ""motion'' amidst the noise of the city.
 
@@ -202,7 +202,7 @@ In addition, thorough controls have been put in place to control the volume at n
 
 ## Distinctiveness is a "result"
 
-Taking these into account, the differences in sirens in each country are not simply designed to identify national borders, but rather are the result of optimization for each country's urban structure, traffic culture, legal system, and sound environment.
+Taking these into account, the differences in sirens in each country are not simply designed to identify national boundaries, but rather are the result of optimization for each country's urban structure, traffic culture, legal system, and sound environment.
 
 As a result, when entering a neighboring country, people feel strange due to the difference in sounds, and it becomes possible to identify them.
 
@@ -236,7 +236,7 @@ G --> H
 
 In environments where music is played at high volume, the siren needs to have a higher pitch and more modulation. On the other hand, in a quiet environment, excessive volume can have the opposite effect.
 
-In other words, sirens are designed to fit into the ""interstice of everyday sounds.''
+In other words, sirens are designed to fit into the ""interstice of everyday sounds''.
 
 > Siren is designed not to compete with musical culture, but to fill a gap in it.
 
@@ -246,7 +246,7 @@ In other words, sirens are designed to fit into the ""interstice of everyday sou
 
 In recent years, the soundproofing performance of automobiles has further improved, and the spread of electric vehicles has reduced external noise. This change brings new challenges to siren design.
 
-Traditional loud sirens alone are becoming insufficient, and the following technologies are beginning to be introduced.
+Traditional loud sirens are no longer enough, and the following technologies are starting to be introduced.
 
 ・Direct notification to in-car speaker
 ・GPS-linked warning system
@@ -281,7 +281,7 @@ timeline
 
 The difference in sirens is not simply a difference in specifications between countries. This comes from differences in assumptions about where people hear sounds and how they live their lives.
 
-In a country with vast roads and a motorized society, there is a need for strong and changing sounds that can reach the enclosed interior of a car. In countries with densely populated cities, there is a need for sound that coexists with its surroundings and is reliably recognized.
+In a country with vast roads and a motorized society, there is a need for strong and changing sounds that can reach the enclosed interior of a car. Countries with densely populated cities require sound that coexists with the surroundings and is reliably recognized.
 
 Behind this, music culture and the everyday sound environment are closely related.
 

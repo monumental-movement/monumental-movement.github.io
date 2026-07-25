@@ -67,7 +67,7 @@ The experience of listening to the same song at the same time has elevated music
 Radio has created an existence that presents not only music itself, but also ""how to listen to music.''
 The DJ was the music selector, commentator, and storyteller.
 
-Song order, time zone, and comments.
+Song order, time, and comments.
 These give context to the music and define the genre.
 
 The phenomenon of music introduced by a particular DJ being recognized as a genre has been repeated all over the world.
@@ -119,7 +119,7 @@ Although its influence has declined, its pervasiveness in everyday life has rema
 
 ---
 
-## The premise of broadcasting that has been dismantled by the internet
+## The premise of broadcasting that has been dismantled by the Internet
 
 Digitalization will dismantle the fundamental structure of radio.
 Time, frequency, license.
@@ -135,7 +135,7 @@ Radio no longer needs to be a "broadcast".
 ## Reinventing the podcast
 
 Podcasts were radio without a station.
-Produced by individuals, spoken by individuals, and reaching individuals.
+Created by individuals, spoken by individuals, and reaching individuals.
 
 Unlike music distribution, podcasts focus on storytelling.
 Music becomes an object to be analyzed, remembered, and contextualized.

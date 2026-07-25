@@ -25,7 +25,7 @@ Using two turntables and a mixer, they extended the groove for the dancers by lo
 
 Furthermore, records were not just a sound source, but also cultural capital. A DJ's personality was determined by which records he owned and which parts of each record he knew. Relationships with record shops and distributors were also important, and information and physical distribution were closely intertwined.
 
-DJs of this era were not ""those who reproduce sound" but ""those who cut out and reconstruct time." Music was beginning to be treated as editable material rather than something that flowed linearly.
+DJs of this era were not ""people who reproduced sound," but ""people who cut out time and reconstructed it." Music began to be treated as editable material rather than something that flowed linearly.
 
 > Physicality honed within constraints formed the basis of DJ culture
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ## Maturation of analog technology and expansion of club culture
 
-From the 1980s to the early 1990s, DJ technology and club culture rapidly developed. House and techno were born in Chicago and Detroit, and DJs changed from being mere party organizers to being the ones determining the direction of music.
+From the 1980s to the early 1990s, DJ technology and club culture rapidly developed. With the birth of house and techno in Chicago and Detroit, DJs changed from being mere promoters of parties to being able to determine the direction of music.
 
 During this period, turntable technology was further refined and advanced techniques such as scratching, transformers, and juggling were established. These were developed in the context of hip-hop, but also influenced club music.
 
@@ -63,7 +63,7 @@ At this stage, analog music was still the mainstream, and there were physical co
 
 In the late 1990s, DJ culture underwent its first major digital transformation. The CDJ, developed by Pioneer DJ, is a piece of equipment that aims to reproduce the feel of a turntable while using digital media called CDs.
 
-The appearance of the CDJ-1000 was symbolic, allowing operations that were difficult to achieve with analogue devices, such as scratching with the jog wheel, setting cue points, and looping. This allows DJs to play with greater precision and repeatability.
+The introduction of the CDJ-1000 was symbolic, allowing operations that were difficult to achieve with analogue devices, such as scratching with the jog wheel, setting cue points, and looping. This allows DJs to play with greater precision and repeatability.
 
 In addition, the CD medium was lighter than records, making it easier to transport. This allows DJs to carry more songs with them, giving them more freedom in their sets.
 
@@ -81,7 +81,7 @@ These software integrate functions such as sound source management, waveform dis
 
 Waveform displays introduced a visual element to the DJ's work. Beat matching, which previously relied only on the ears, can now be checked on the screen, improving accuracy and speed. On the other hand, some argue that this has led to a relative decline in the importance of ""techniques for adjusting by ear.''
 
-Additionally, the method of obtaining sound sources has also changed. With the spread of online stores, it has become possible to instantly purchase and download music from all over the world, greatly easing regional restrictions.
+Additionally, the method of obtaining sound sources has also changed. With the spread of online stores, it has become possible to instantly purchase and download music from all over the world, and regional restrictions have been greatly eased.
 
 > Music has changed from physical objects to data, and the working environment of DJs has been fundamentally restructured.
 
@@ -91,7 +91,7 @@ Additionally, the method of obtaining sound sources has also changed. With the s
 
 As software evolves, dedicated MIDI controllers appear. This gives DJs a new interface that doesn't rely on traditional turntables.
 
-Using pads to trigger samples, complex effects operations, and loop subdivisions, the controller has changed from a device used to ""play" songs to an instrument used to ""manipulate" songs. This change blurred the line between DJing and live performance.
+Triggering samples with pads, manipulating complex effects, subdividing loops, etc., the controller has changed from a device for "playing" songs to an instrument for "manipulating" songs. This change blurred the line between DJing and live performance.
 
 Furthermore, it will become easier to operate multiple decks at the same time, and methods such as mashups and real-time remixes will become commonplace. DJs have evolved into people who combine existing songs and create new structures on the spot.
 
@@ -109,7 +109,7 @@ Some DJ software now integrates with streaming, allowing you to play songs witho
 
 However, this convenience also created new challenges. These include dependence on internet connectivity, audio quality issues, and licensing restrictions. In addition, the endless options also made it more difficult to choose songs.
 
-In the past, the optimal selection of songs was made from a limited number of records, but now it is necessary to decide ""what not to select'' from a huge number of songs.
+In the past, the optimal selection of songs was made from a limited number of records, but now it is necessary to decide ""what not to choose'' from a huge number of songs.
 
 > Infinite options have made the act of selecting music even more meaningful.
 
@@ -119,13 +119,13 @@ In the past, the optimal selection of songs was made from a limited number of re
 
 In the 2020s, AI technology is starting to have an impact on DJ culture. Automatic beat matching and key analysis have already become standard features, making it possible for even beginners to mix with a certain level of quality.
 
-Furthermore, AI-based song recommendations and playlist generation are changing the song selection process itself. Algorithms suggest optimal songs based on vast amounts of data, but these are only statistical optimal solutions.
+Furthermore, AI-based song recommendations and playlist generation are changing the song selection process itself. Algorithms suggest the best songs based on vast amounts of data, but these are only statistical optimal solutions.
 
 In the space of a club, non-numerical elements such as audience reaction and atmosphere are important, and it is difficult to completely reproduce these with an algorithm.
 
 Therefore, AI is not positioned as a replacement for DJs, but as a supporting tool. The final decision is still left to humans.
 
-> As technology evolves, the value of human intuition increases relatively.
+> As technology advances, the value of human intuition increases relatively.
 
 ---
 

@@ -83,7 +83,7 @@ Recommended points: A masterpiece that condenses the future-oriented and cool so
 
 Features: Minimal track structure with simple synth lines and rhythm. It is characterized by its spatial, floating synth work and cool, mechanical rhythm.
 
-Recommended point: A song that lets you experience the origins of Detroit techno. If you put it in early in a DJ set, you can create a ""Detroit-like cosmic feeling'' on the floor. Easy to listen to even for beginners, perfect for understanding the worldview of the Model 500.
+Recommended point: A song that lets you experience the origins of Detroit techno. By adding it early in a DJ set, you can create a ""Detroit-like cosmic feeling'' on the floor. Easy to listen to even for beginners, perfect for understanding the worldview of the Model 500.
 
 #### Tracklist
 ```md
@@ -307,7 +307,7 @@ B. Circus (The Big Finale Mix)
 
 Features: Track released under the name "M" by Axis in 1992. A song that represents early Detroit minimal.
 
-Recommended points: A must-have disc for collectors who can experience the underground feel of the early 90's, with a rough yet sturdy sound.
+Recommended points: A must-have disc for collectors who can experience the underground feel of the early 90's, with a rough yet sturdy feel.
 
 
 #### Tracklist

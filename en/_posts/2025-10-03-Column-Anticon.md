@@ -252,7 +252,7 @@ The members of Anticon collaborated extensively outside of their own label. For 
 
 ### Current status (2020s) and legacy
 
-There are reports that the official website and activities have shrunk since 2018, and that "continuation as a label" has virtually ceased with the death of founding member Alias. However, individual artists (Why?, Doseone, Odd Nosdam, etc.) continue to pursue solo careers or other labels, and Anticon's musical influence remains strong in the indie/experimental music world today. The diaspora in the 2010s and the turning point in 2018 are good examples of how the "collective" called a label changes as individuals become more diverse.
+There are reports that the official website and activities have shrunk since 2018, and that "continuation as a label" has virtually ceased with the death of founding member Alias. However, individual artists (Why?, Doseone, Odd Nosdam, etc.) continue to pursue solo careers or other labels, and Anticon's musical influence remains strong in the indie/experimental music world to this day. The diaspora of the 2010s and the turning point of 2018 are good examples of how the "collective body" of a label changes as individuals become more diverse.
 
 
 ---
@@ -286,7 +286,7 @@ There are reports that the official website and activities have shrunk since 201
 
 Anticon was more than just a hip-hop label; it was a cultural experiment that proposed new possibilities for words and sounds, incorporating elements of experimental music, post-rock, and electronica. Key members such as Sole, Doseone, Jel, Alias, Odd Nosdam, and Why? continued to update their poetic expressions and sonic worlds through solo work, bands, and collaborations.
 
-At the core of its activities is an awareness of the ""expansion of underground hip-hop" from the late 1990s to the 2000s, and as a result, Anticon has taken on a strong character as an ""art collective," ""independent lab," and ""ideological community." cLOUDDEAD"s fantastic works, Why?"s pop-leaning albums, and the experimental productions of Alias ​​and Odd Nosdam continue to influence many listeners and musicians to this day.
+At the core of its activities is an awareness of the ""expansion of underground hip-hop" from the late 1990s to the 2000s, and as a result, Anticon has taken on a strong character as an ""art collective," ""independent lab," and ""ideological community." cLOUDDEAD"s fantastic works, Why?"s pop-leaning albums, and the experimental production of Alias ​​and Odd Nosdam continue to influence many listeners and musicians to this day.
 
 Although the label effectively came to an end in the late 2010s with the passing of Alias ​​and the scattering of members, its spirit continues to pulsate in the activities of each artist. Anticon's genre-bending aesthetic has become one of the cornerstones of modern indie music and DIY culture, and has been passed down to a new generation of experimental artists on Spotify and Bandcamp.
 

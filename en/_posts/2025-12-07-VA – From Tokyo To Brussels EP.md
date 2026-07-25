@@ -16,7 +16,7 @@ A project album released in 2004 from MB Elektronics, a label run by Marco Baile
 
 A is a track by Japan"s leading techno DJ Q"hey and Belgian legend DJ Marco Bailey.
 
-B is a track by DJ KANA, who was discovered by MARCO BAILEY and is active all over the world, and Belgian Techno/tech house DJ Tom Hades.
+B is a track by DJ KANA, who was discovered by MARCO BAILEY and is active around the world, and Belgian Techno/tech house DJ Tom Hades.
 
 #### Tracklist
 ```md

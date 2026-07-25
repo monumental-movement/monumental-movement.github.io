@@ -18,7 +18,7 @@ title: '[Column] Throbbing Gristle and the birth of industrial—the moment when
 
 ## Introduction: Where does music break down?
 
-Text: mmr｜Theme: A record of innovation that deconstructed the definition of music through noise and provocation and transformed the sounds of industrial society into art
+Text: mmr｜Theme: A record of innovation that deconstructed the definition of music through noise and provocation and transformed the sounds of industrial society into art.
 
 In the mid-1970s, rock music had already matured and pop music was becoming an industry. On the other hand, the fundamental question, ""What is music?'' remained fixed, with almost no one questioning it.
 
@@ -52,7 +52,7 @@ color: #fff;
 
 To understand the essence of Throbbing Gristle, it is impossible to avoid the work of its predecessor, COUM Transmissions.
 
-In the late 1960s, Genesis P-Orridge and Cosey Fanni Tutti were performing in areas that conventional art didn't cover: sex, violence, the body, and deviance.
+In the late 1960s, Genesis P-Orridge and Cosey Fanni Tutti were performing in areas that traditional art didn't cover: sex, violence, the body, and deviance.
 
 Their works were often offensive and socially unacceptable. However, this was not just a provocation, but an act that exposed ""what society is trying not to see.''
 
@@ -71,7 +71,7 @@ COUM used their bodies, not their sounds, to clash with society. Throbbing Grist
 
 In 1975, Throbbing Gristle was formed. Members are Genesis P-Orridge, Cosey Fanni Tutti, Chris Carter, and Peter Christopherson.
 
-The composition of these four people is extremely important. This is because they were not just musicians, but a collective of individuals who brought together different fields.
+The composition of these four people is extremely important. This is because they were not just musicians, but a collective that brought together different fields.
 
 Carter was responsible for electronics design and sound processing, Christopherson was responsible for visuals and design, and P-Orridge and Tutti were responsible for concept and performance.
 
@@ -103,7 +103,7 @@ In addition, the influence spread to other artists through this label. From this
 ---
 
 
-## Sound structure: using the outside of music as material
+## Structure of sound: Using the outside of music as material
 
 Throbbing Gristle's sound cannot be captured by conventional music theory.
 
@@ -130,7 +130,7 @@ Sounds are loud and repetitive, images are disturbing, and words are spoken prov
 
 This is no coincidence. They were intentionally testing the limits of the audience's senses and psychology.
 
-In addition, each live performance had a different structure, was highly improvised, and had low reproducibility. In other words, he refused to be fixed as a work of art.
+In addition, each live performance had a different structure, was highly improvisational, and had low reproducibility. In other words, he refused to be fixed as a work of art.
 
 This approach would later influence live experiences in noise, industrial, and even club culture.
 
@@ -143,7 +143,7 @@ This approach would later influence live experiences in noise, industrial, and e
 
 Throbbing Gristle has always been subject to criticism and censorship due to its extreme expressions.
 
-Their work was often misunderstood and treated as ""dangerous'' for its depiction of violence and taboo themes. However, their intention was not to affirm these things, but to make visible the dark side of society.
+Their works were often misunderstood and treated as ""dangerous'' for their depiction of violence and taboo themes. However, their intention was not to affirm these things, but to make visible the dark side of society.
 
 In this respect, they were also pioneers of media criticism. It used sound and visuals to show how information is manipulated and consumed.
 
@@ -177,7 +177,7 @@ These activities further deepened the methods established by Throbbing Gristle.
 
 A reunion took place in 2004, and at the same time their past works were reevaluated, their influence on a new generation once again expanded.
 
->Dissolution was not the end, but expansion through dispersion.
+> Dissolution was not the end, but expansion through dispersion.
 
 ---
 
@@ -203,7 +203,7 @@ timeline
 
 Throbbing Gristle didn't expand on music. I completely destroyed music once.
 
-What emerged as a result was the genre of industrial, and even more so, an idea that applies to modern electronic music as a whole.
+What emerged as a result was the genre of industrial, and even more so, an idea that pertains to modern electronic music as a whole.
 
 Their works are still not easy to listen to. However, this sense of discomfort makes us question what we are looking for in music.
 

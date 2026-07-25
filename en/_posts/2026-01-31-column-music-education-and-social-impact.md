@@ -24,10 +24,10 @@ Text: mmr｜Theme: How has music education changed society? -Cultural impact int
 Music education is not just technical training. Like reading, writing, and arithmetic, it has been designed as a system for specifying what nations, religions, and communities should share.
 In schools, churches, the military, and local communities, music has always been linked to group formation, discipline, and the transmission of values.
 
-In the West, systematic music education was established in medieval monasteries. The unified transmission of Gregorian chant was the earliest example of the inseparability of musical notation and the educational system.
+Systematic music education was established in the West in medieval monasteries. The unified transmission of Gregorian chant was the earliest example of the inseparability of musical notation and the educational system.
 Here, music was both a religious practice and an educational content that cultivated a class of knowledge.
 
-With the establishment of the modern nation, music education was incorporated into the public education system. Singing of the national anthem, singing education, and training of military bands were introduced as part of national unification through music.
+With the establishment of the modern nation, music education was incorporated into the public education system. Singing the national anthem, singing education, and training military bands were introduced as part of national unification through music.
 Before music education was ""sensitivity education,'' it functioned as a device to stabilize the social structure.
 
 > Music education has always been designed within social institutions, supporting both culture and governance.
@@ -64,7 +64,7 @@ Music was a symbol of modernization and at the same time functioned as part of n
 In the latter half of the 20th century, music education shifted its focus from skill training to expressive activities.
 Educational methods that emphasize children's independence, such as the Orff, Kodály, and Suzuki methods, have become popular internationally.
 
-> Changes in music curriculum reflect changes in the roles that society expects from children.
+> Changes in the music curriculum reflect changes in the roles that society expects from children.
 
 ---
 
@@ -136,7 +136,7 @@ This has brought about the democratization of music education and the diversific
 On the other hand, the division between systematic education and self-study has also been pointed out.
 While there are concerns about a decline in basic theory and music reading ability, learning outcomes that emphasize creativity have also been confirmed.
 
-The digital environment has shifted music education from a single-track career to a multi-track learning model.
+The digital environment has moved music education from a single-track career to a multi-track learning model.
 
 > Digitalization is expanding the scope of music education, and at the same time changing the way we view education itself.
 

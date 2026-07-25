@@ -90,7 +90,7 @@ The Low Pass Gate (an element that controls both volume and timbre) later became
 In the late 1970s, young musician Serge Tochenin was impressed by Don Buchla's design philosophy, and while studying electronic music at UCLA, he envisioned a ""Buchla-like device that more people could have access to.''
 That is **Serge Modular Music System (1974–)**.
 
-While Buchler created custom machines for artists, Serge is rooted in DIY culture and the university community, with an ethos of ""open up the schematics so anyone can build them''.
+While Buchler created custom machines for artists, Serge is rooted in DIY culture and the university community, with an ethos of ""open up the schematics so anyone can make them.''
 This open source attitude was a conceptual revolution that preceded the later spread of Eurorack.
 
 ### 2-2. Serge's philosophy: Patch Programmability

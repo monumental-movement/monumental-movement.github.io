@@ -226,7 +226,7 @@ One of the people at the center of this was Tito Puente.
 
 Mongo will join the orchestra.
 
-### Tito Puente Band
+### Tito Puente Orchestra
 
 Tito Puente's Orchestra was one of the most important groups in Latin music at the time.
 
@@ -440,7 +440,7 @@ His exquisite sense of balance was his main characteristic.
 
 ### Changes in New York
 
-In New York in the early 1960s, a new generation was emerging.
+In the early 1960s, a new generation was emerging in New York.
 
 African American.
 
@@ -690,7 +690,7 @@ The salsa movement centered around Fania rapidly expanded.
 
 Mongo continues to evolve while observing its history.
 
-> In the 1960s, Mongo Santamaria had grown from a great Latin jazz performer to a representative of Latin culture as a whole.
+> In the 1960s, Mongo Santamaria had grown from a master Latin jazz performer to a representative of Latin culture as a whole.
 
 ---
 
@@ -1007,7 +1007,7 @@ However, his achievements go beyond the world of percussion instruments.
 
 He brought Afro-Cuban music to America and combined it with jazz.
 
-""Afro Blue'' expanded the possibilities of Latin jazz.
+With "Afro Blue," he expanded the possibilities of Latin jazz.
 
 ""Watermelon Man'' brought Latin music to the masses.
 

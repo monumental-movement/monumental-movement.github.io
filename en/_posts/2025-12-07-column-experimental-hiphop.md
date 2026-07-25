@@ -274,3 +274,12 @@ The multi-layered electronic music of Flying Lotus, the abstract rap poetry pion
 They continue to function as "laboratories for the future of hip-hop."
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iJEozjrvTMs?si=rfY3Ewks4oie-Bwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

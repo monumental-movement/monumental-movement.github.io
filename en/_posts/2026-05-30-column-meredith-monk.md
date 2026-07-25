@@ -19,7 +19,7 @@ title: '[Column] Meredith Monk──An artist who continued to search for a plac
 
 Text: mmr｜Theme: 60 years of avant-garde artists who continued to search for a "voice" before it became a word
 
-Looking back at the history of music since the latter half of the 20th century, there are several individuals who fundamentally reconsidered the very act of singing.
+Looking back at the history of music since the latter half of the 20th century, there are several people who fundamentally reconsidered the very act of singing.
 
 Meredith Monk is unique among them.
 
@@ -31,7 +31,7 @@ But no title is perfect.
 
 Because what Meredith Monk has been working on has been an attempt to expand the framework of music itself.
 
-For many years, she has treated the ""voice'' not as a mere singing technique, but as the most primitive instrument possessed by humans.
+For many years, she has treated the ""voice'' not as a mere singing technique, but as the most primitive musical instrument possessed by humans.
 
 laughter.
 Moaning.
@@ -71,7 +71,7 @@ Meredith Monk was born in New York in 1942. As a child, he received Dalcroze rhy
 
 Graduated from Sarah Lawrence College in 1964.
 
-In New York at the time, art, dance, music, and theater were rapidly beginning to intersect.
+At the time, art, dance, music, and theater were rapidly beginning to intersect in New York.
 
 John Cage introduced chance,
 Merce Cunningham redefines dance,
@@ -92,9 +92,9 @@ D[picture] --> E
 E --> F[interdisciplinary performance]
 </div>
 
-At that time, the term "multimedia art" had not yet become commonplace.
+At that time, the term ""multimedia art'' had not yet become commonplace.
 
-Monk was practicing it even before the concept was established.
+Monk was practicing the concept even before it was established.
 
 > She didn"t cross genres, but she didn"t have a genre in mind from the beginning.
 
@@ -141,7 +141,7 @@ She treated the voice not as a means of transmitting information, but as a sensa
 
 This idea had a huge influence on later vocal experimental music.
 
-> Monk's music was a rare example of using the voice to transcend words.
+> Monk's music was a rare example of using voice to transcend words.
 
 ---
 
@@ -285,7 +285,7 @@ A --> F[performance art]
 
 She's not a trendsetter.
 
-Rather, he can be said to be the person who became the source of reference for subsequent generations.
+Rather, he can be said to be the person who became the source of reference for future generations.
 
 >Many artists did not imitate Meredith Monk, but discovered possibilities in her.
 

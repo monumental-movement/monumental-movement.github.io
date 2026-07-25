@@ -115,7 +115,7 @@ This song is a rockabilly piece with a ferocious sense of speed and energy, and 
 
 This song is known for being a big hit, especially in Japan.
 
-The word "Fujiyama" in the title and lyrics reminiscent of the atomic bomb would later provoke various debates, but in the United States in the 1950s it was also used as a symbol of "energy" and "explosive power."
+The word "Fujiyama" in the title and the lyrics reminiscent of the atomic bomb would later provoke various debates, but in the United States in the 1950s, it was also used as a symbol of "energy" and "explosive power."
 
 Wanda herself was concentrating on singing with all her might.
 
@@ -145,7 +145,7 @@ In these songs, her characteristic "growling delivery" was on full display.
 
 Fashion was even more important.
 
-Fringed dresses, high heels, and flashy makeup. Wanda brought an unusual level of flamboyance for a country singer, and was even involved in the costume design herself.
+Fringe dresses, high heels, and flashy makeup. Wanda brought an unusual level of flamboyance for a country singer, and was even involved in the costume design herself.
 
 She didn't erase her "femininity."
 
@@ -182,7 +182,7 @@ Female singers were expected to be ""pretty,'' and violent expressions and sexua
 
 But Wanda was different.
 
-She provoked the audience on stage, sang wildly, and exposed her emotions. They were competing in the same arena as male artists.
+She provoked the audience on stage, sang wildly, and exposed her emotions. They were competing on the same playing field as male artists.
 
 However, the trade-off was that the industry sometimes viewed them as ""difficult to deal with.'' He also experienced restrictions on his television appearances and backlash from conservatives.
 
@@ -233,9 +233,9 @@ In the 1970s, Wanda Jackson deepened her religious values ​​and turned to go
 
 This was a major turning point in her life.
 
-He distanced himself from the rock"n"roll lifestyle of his youth and began to pursue activities more rooted in his faith. She began releasing gospel music and appearing at religious events.
+He distanced himself from the rock"n"roll life of his youth and began to pursue activities more rooted in his faith. She began releasing gospel music and appearing at religious events.
 
-However, even here, she did not lose the power of her voice.
+However, even here she did not lose the power of her voice.
 
 The emotional expressions cultivated during the rock era were also powerfully persuasive in gospel music.
 

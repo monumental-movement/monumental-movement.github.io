@@ -203,3 +203,12 @@ Avant-Garde Jazz is often dismissed as difficult music. However, its essence was
 > Ornette Coleman, Cecil Taylor, Sun Ra and others have shown that freedom is not born from disorder but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QtAvjGZRf9o?si=Tnpd3CPPiOktnpC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -19,7 +19,7 @@ title: '[Column] Gabba/Hardcore Techno - A history of rebellious dance music bor
 
 ## 1. Before hardcore - the birth of faster techno
 
-Text: mmr｜Theme: Using speed and distortion as weapons, we depict the history of Gabba Hardcore, the most radical and easily misunderstood dance music produced in European cities and youth culture in the 1990s, from its birth to its spread, divergence, re-evaluation, and spread to Japan, in a three-dimensional urban cultural history.
+Text: mmr｜Theme: Using speed and distortion as weapons, we depict the history of Gabba Hardcore, the most extreme and easily misunderstood dance music produced in European cities and youth culture in the 1990s, from its birth to its spread, divergence, re-evaluation, and spread to Japan, in a three-dimensional urban cultural history.
 
 In the late 1980s, Chicago house and Detroit techno traveled to Europe, receiving their own interpretations in each city. In Germany, there is an emphasis on minimal and mechanical repetition, while in England, breakbeats and rave culture are combined. Meanwhile, in the Netherlands, there was an unusual amount of interest in the ""hardness" and ""speed" of techno.
 
@@ -27,7 +27,7 @@ At the time, Dutch DJs didn't play imported American techno as it was, but inste
 
 This change was driven more by the field than by studio production. Parties in clubs and warehouses became testing grounds, and the audience's reaction directly determined the direction of the music. Immediate effectiveness began to be valued over refinement, and destructive power over architectural beauty.
 
-> While techno tends towards futuristic sophistication, another vision of the future was chosen: ""runaway speed.''
+>While techno tends towards futuristic sophistication, another vision of the future was chosen: ""runaway speed.''
 
 ---
 
@@ -53,13 +53,13 @@ As a port city, Rotterdam had a high proportion of the working class, with many 
 
 In the early 1990s, clubs around Rotterdam favored intentionally rough and aggressive tracks. Distorted kicks are treated as ""mass" rather than ""pitch," and the aim is to create a bass sound that feels like it hits the body directly. The feeling formed here would later become the core of the style known as Gaba.
 
-> Rotterdam"s Gabba was a direct translation of the city"s history of rebuilding and the rhythm of labor into sound.
+> Rotterdam"s Gabba was a direct translation of the city"s history of reconstruction and the rhythm of labor into sound.
 
 ---
 
 ## 3. Establishment of hardcore techno - production technology and sound design
 
-From 1992 to 1994, gabba/hardcore techno rapidly became formalized. Behind this was a change in the production environment. Relatively inexpensive samplers and drum machines became popular, and the know-how of creating radical sounds with limited equipment began to be shared.
+From 1992 to 1994, gabba/hardcore techno rapidly became formalized. Behind this was a change in the production environment. Relatively inexpensive samplers and drum machines became widespread, and the know-how of creating radical sounds with limited equipment began to be shared.
 
 Particular emphasis was placed on the production of the kick drum. By distorting, compressing, and layering existing samples, unique and destructive bass sounds are created. This process was very artisanal, and each producer had a subtle individuality.
 
@@ -75,7 +75,7 @@ Gabba Hardcore was not a culture that could be defined solely by hearing. Skinhe
 
 Sportswear and sneakers are the result of prioritizing functionality to allow people to continue dancing for long periods of time, and were formed without regard to trends in the fashion industry. Here, there was an aesthetic that was not ""for show" but ""for use."
 
-The dance was jumping, and was characterized by movements in which the whole body was thrown against the rhythm. Rather than individual expression, emphasis is placed on the collective elation that comes from sharing the same movements.
+The dance was jumping, and was characterized by movements in which the whole body was thrown against the rhythm. Rather than individual expression, emphasis is placed on the collective elation that comes from sharing the same movement.
 
 > Gaba's physicality was an extreme demonstration of music as a device for creating social solidarity.
 
@@ -85,9 +85,9 @@ The dance was jumping, and was characterized by movements in which the whole bod
 
 Even within the Netherlands, musical orientations were very different between Rotterdam and Amsterdam. Amsterdam was a strong international city, and house and techno were accepted in a sophisticated manner.
 
-Rotterdam's hardcore, on the other hand, functions as a reaction to such sophistication. Immediate effect and destructive power are prioritized over melody and atmosphere, and the criterion is ""whether you can endure it" rather than ""whether you can dance."
+Rotterdam's hardcore, on the other hand, functions as a reaction to such sophistication. Immediate effect and destructive power are prioritized over melody and atmosphere, and the standard is ""whether you can endure it" rather than ""whether you can dance it."
 
-This conflict was exaggerated by the media, with scenes in both cities often portrayed in contrast. However, in reality, the flow of people and influence was bidirectional, and the tension itself was the vitality of the scene.
+This conflict was exaggerated by the media, and the scenes in both cities were often contrasted. However, in reality, the flow of people and influence was bidirectional, and the tension itself was the vitality of the scene.
 
 > The differences between the two cities did not isolate hardcore, but rather accentuated its presence.
 
@@ -95,7 +95,7 @@ This conflict was exaggerated by the media, with scenes in both cities often por
 
 ## 6. Criticism and misunderstanding--view from the outside
 
-Gabba Hardcore was often misunderstood because of its extreme nature. The media emphasized external characteristics and some violent images, and did not sufficiently convey the musical background and internal diversity.
+Gabba hardcore was often misunderstood because of its extreme nature. The media emphasized external characteristics and some violent images, and did not sufficiently convey the musical background and internal diversity.
 
 As a result, entire genres came to be talked about with a single set of values, and were sometimes linked to social issues. However, internally, musical experimentation and detailed stylistic differentiation were progressing.
 
@@ -115,9 +115,9 @@ During this period, hardcore began to distance itself from the mainstream and re
 
 ## 8. History of reception of GABA in Japan: import and reinterpretation
 
-Gabba/Hardcore was introduced in earnest to Japan in the mid-1990s. Its existence became known to some techno enthusiasts through imported records and magazine articles.
+Gabba/hardcore was introduced in earnest to Japan in the mid-1990s. Its existence became known to some techno enthusiasts through imported records and magazine articles.
 
-Initially, it received limited support in the Japanese club scene due to its extreme nature, but the unique energy of hardcore gradually gave rise to unique interpretations. In the Japanese scene, there was a tendency to emphasize not only musicality but also artwork and performance.
+At first, it received only limited support in the Japanese club scene due to its extreme nature, but the unique energy of hardcore gradually gave rise to unique interpretations. In the Japanese scene, there was a tendency to emphasize not only musicality but also artwork and performance.
 
 Since the 2000s, a unique Japanese interpretation of hardcore has been formed, and it has attracted attention from overseas scenes as well. Here, it was not just imitation, but fusion with local sensibilities.
 
@@ -125,11 +125,11 @@ Since the 2000s, a unique Japanese interpretation of hardcore has been formed, a
 
 ---
 
-## 9. Re-evaluation and the present – ​​the legacy of hardcore
+## 9. Reappraisal and the Present: The Legacy of Hardcore
 
 Since the 2010s, 90s hardcore has been subject to re-evaluation. Elements that were once shunned because they were excessive have come to be seen as more of an element of sincerity.
 
-In the context of contemporary techno and experimental music, gabber-like speed and distortion are taking on new meaning. The former rebellion now serves as a reference point.
+Gabba-like speed and distortion are taking on new meaning in the context of contemporary techno and experimental music. The former rebellion now serves as a reference point.
 
 > Gabba Hardcore is an unfinished culture that continues to be reinterpreted over time.
 

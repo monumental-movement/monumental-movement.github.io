@@ -77,14 +77,14 @@ Former member of Emperor. Established a medieval fantasy "Dark Dungeon Music" st
 - **Burzum (Norway) early keyboard pieces**
 The final song of ""Hvis Lyset Tar Oss" and the ambient tracks from ""Filosofem" left a strong symbolism for later Dungeon Synth.
 
-Although these are sound sources that predated "Dungeon Synth as a genre name," they are clearly treated as the source by later generations.
+These are sound sources that predate the "Dungeon Synth as a genre name," but they are clearly treated as the source by later generations.
 
 ### ● 2-2. First wave (1995–2000)
 From 1995 to 2000, a young European project that preceded Mortiis "Era I", Cernunnos Woods, Depressive Silence, and Old Tower released works distributed mainly on tape.
 At this time, the genre name had not yet been established, but expressions such as "Dungeon Music" were already being used in overseas zines.
 
 ### ● 2-3. Blank ~ Re-evaluation (2001–2010)
-Falling outside the mainstream of the metal scene, the genre remained within a small community until the mid-2000s.
+Outside of the mainstream metal scene, the genre remained within a small community until the mid-2000s.
 However, in the late 2000s, as early black metal was reevaluated, **Mortiis Era I was reissued** and began to receive renewed attention worldwide.
 
 ### ● 2-4. Second wave (2010–2015)
@@ -156,7 +156,7 @@ Many artists sought the feel of game consoles and PCM keyboards from the 90s.
 GM pianos, Choir Aahs, Strings, Pads, etc. Cheapness and nostalgia are treated as values.
 
 ### ■ Soft synth
-In modern times, the following are commonly used:
+In modern times, the following are often used:
 
 - **DSK free VST**
 - DSK ChoirZ, DSK Strings, etc.
@@ -199,7 +199,7 @@ Adding a roughness of about 8 to 12 bits will enhance the 90's feel.
 - Wow & Flutter
 - Noise (tape hiss)
 
-Many artists actually record their songs onto cassettes.
+Many artists actually record their songs on cassette.
 
 ### ■ EQ processing
 - **Remove low (below 100Hz)** → Towards monaural/old equipment feel

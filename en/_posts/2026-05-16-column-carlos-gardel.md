@@ -49,11 +49,11 @@ color: #fff;
 
 Carlos Gardel's birth has been debated for many years.
 
-It is generally believed that he was born in Toulouse, France, on December 11, 1890. His birth name was Charles Romual Gardes. However, there is a strong belief that he was born in Uruguay.
+It is generally believed that he was born in Toulouse, France, on December 11, 1890. His birth name was Charles Romual Gardes. However, there is a strong theory that he was born in Uruguay.
 
 His mother, Berta Gardés, moved to Buenos Aires with young Gardel in 1893. He grew up there, speaking Spanish, and spending his youth in Argentine culture.
 
-In other words, Gardel was an Argentine, not so much because of his birth but because of the place where he was formed.
+In other words, Gardel was an Argentine, not so much because of his birth as because of the place where he was formed.
 
 <div class="mermaid">
 graph TD
@@ -71,7 +71,7 @@ Buenos Aires at the time was a mix of Creole music, milongas, habaneras, and Eur
 
 While absorbing this miscellaneous musical environment, Gardel eventually acquired a unique singing style.
 
-> Before Gardel became a ""tango singer,'' he was someone who breathed the atmosphere of an immigrant city itself.
+> Before Gardel became a ""tango singer,'' he was someone who breathed in the atmosphere of an immigrant city itself.
 
 ---
 
@@ -79,7 +79,7 @@ While absorbing this miscellaneous musical environment, Gardel eventually acquir
 
 In the late 1900s, Gardel began his career as a singer of regional and Creole music.
 
-His first big break came when he formed a duo with Jose Lasano.
+His first big break came when he formed a duo with Jose Lazano.
 
 ### Gardel-Lazano
 
@@ -128,7 +128,7 @@ Gardel was not just a singer, but a ""translator of urban emotions.''
 
 ## King of Tango: Absolutely popular in the 1920s
 
-In the 1920s, Carlos Gardel became one of Argentina's biggest stars.
+By the 1920s, Carlos Gardel had become one of Argentina's biggest stars.
 
 Records, radio, stage, touring. With the expansion of new media, his popularity spread throughout South America.
 
@@ -301,7 +301,7 @@ Before Gardel, tango was primarily dance music.
 
 However, his success led to the establishment of a tango culture centered around lyrics.
 
-Later tango singers came more or less under Gardel's influence.
+Subsequent tango singers came more or less under Gardel's influence.
 
 ### Internationalization of tango
 

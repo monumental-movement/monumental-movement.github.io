@@ -12,7 +12,7 @@ title: Tom Hades – Conception
 ---
 
 
-Wim Vanoeveren, also known as Tom Hades, is a techno/techhouse DJ and producer based in Belgium. A stalwart of the Belgian techno scene, he runs the label Rhythm Convert (currently under the name Rhythm Converted).
+Wim Vanoeveren, also known as Tom Hades, is a techno/techhouse DJ and producer based in Belgium. A stalwart of the Belgian techno scene, he runs the label Rhythm Convert (currently known as Rhythm Converted).
 
 "Conception" is a techno track released in 2002 by MB Elektronics, a techno label run by Marco Bailey.
 

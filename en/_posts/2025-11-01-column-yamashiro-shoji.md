@@ -14,7 +14,7 @@ title: '[Column] Shoji Yamashiro (Riki Ohashi) and the entertainment Yamashiro g
 ---
 
 
-## Prologue: Where cyber and primitive intersect - A person named Shoji Yamashiro
+## Prologue: A place where cyber and primitive intersect - A person named Shoji Yamashiro
 
 
 Text: mmr｜Theme: About the entertainment Yamashiro-gumi formed in the early 1970s
@@ -24,7 +24,7 @@ In the 1970s, there was a person who stood out at the border between Japanese mu
 **Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific thought and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
 
 The place for this experiment was Geinoh Yamashirogumi, which was formed in the early 1970s.
-More than just a music group, it was a ""community for comprehensively exploring the relationship between sound, humans, and society" and was a ""place" that integrated music, ethnology, information theory, and anthropology.
+More than just a music group, it was a ""community for comprehensively exploring the relationship between sound, humans, and society," and was a ""place" that integrated music, ethnology, information theory, and anthropology.
 
 ---
 
@@ -59,7 +59,7 @@ The moment when body, voice, space, and time come together to resonate - that is
 ## Chapter 2: 80 types of "sounds of groups" from around the world - Quest for universal musical structure
 
 Geino Yamashiro-gumi was active from the late 1970s to the 1980s.
-He has actually performed and researched **""80 types of ethnic performances from around the world''**.
+He has actually performed and researched **"80 ethnic performances from around the world"**.
 This was not just a collection of folk music, but an exploration of the fundamental question, ""What is the sound that humans make as a group?''
 
 ### ◇ Examples of research/performance targets
@@ -73,7 +73,7 @@ This was not just a collection of folk music, but an exploration of the fundamen
 | Tibet/Mongolia | Homie chanting | Laryngeal resonance and overtone separation |
 
 Rather than treating these as "materials," Yamashiro et al. observed and reconstructed their structure, function, and social significance.
-In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to the ""group creation", ""information environment", and ""sound environmental studies" of the Geino Yamashiro Gumi.
+In particular, the ""acoustic structure that transcends time and space" of Balinese gamelan music is fundamental to Geino Yamashiro Gumi's ""creation of groups," ""information environment," and ""environmental studies of sound."
 
 > "People form groups based on sound. Sound evolves through groups."
 > — Shoji Yamashiro
@@ -102,7 +102,7 @@ It also influenced later world-famous artists such as Aphex Twin, Ryuichi Sakamo
 After ""AKIRA," Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
 He reconsidered sound not just as an auditory stimulus, but as a ""point of contact between information and ecology.''
 
-### ◇ Main works and ideas
+### ◇ Main works and thoughts
 
 | Book title | Publisher/year | Content summary | Link |
 |------|-------------|------------|
@@ -111,10 +111,10 @@ He reconsidered sound not just as an auditory stimulus, but as a ""point of cont
 
 Here, Yamashiro defined sound as a ""communication protocol between humans and the environment.''
 Sound is not a symbol, but an ecological and social activity itself.
-This idea resonates with later research on ""soundscape" and ""media ecology."
+This idea also resonates with later research on ""soundscape" and ""media ecology."
 
 > "Sound is an interface between the environment and information.
->Music is an algorithm by which a herd synchronizes itself with its environment. "
+>Music is an algorithm by which the herd synchronizes itself with its environment. "
 
 ---
 
@@ -124,7 +124,7 @@ His scientific training at Tohoku University's Faculty of Agriculture gave Yamas
 With an understanding of chemistry, biology, and the environment, he came up with the idea of ​​viewing sound not only as a physical phenomenon, but also as part of life's activities.
 
 His approach is a back and forth between scientific observation and artistic practice.
-Rather than a laboratory, the human group itself is treated as an "acoustic system."
+Rather than a laboratory, we treat the human group itself as an "acoustic system."
 There was an ""experimental ethics'' that sought to match the rhythms of life and society.
 
 > ""The sounds we hear are images of the world reconstructed in our brains.

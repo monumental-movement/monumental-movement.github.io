@@ -58,7 +58,7 @@ In the 1980s, Britain was in an environment of widening economic disparity under
 
 - **Immigrant culture**: Caribbean and African immigrant communities brought reggae, funk and soul to form the basis of London's club scene.
 
-- **Post-industrial society**: The decline of manufacturing and the deterioration of cities gave youth culture "deconstructive" values, and club culture became its refuge.
+- **Post-industrial society**: The decline of manufacturing and the deterioration of cities gave youth culture a "deconstructive" sense of values, and club culture became its refuge.
 
 - **Media Influence**: BBC Radio and Pirate Radio introduced Acid Jazz, leading to its spread from the underground to the mainstream.
 
@@ -106,9 +106,9 @@ The spread of Acid Jazz was also closely related to geopolitics in Europe, the U
 
 #### US scene
 
-Acid Jazz was perceived as a "reimport." In the United States, the original 70's jazz funk and soul existed, so the label ""Acid Jazz'' from the UK seemed fresh and was adopted by the club scenes of New York and Chicago.
+Acid Jazz was perceived as a "reimport." In the United States, 70s jazz funk and soul existed as originals, so the label ""Acid Jazz'' from the UK seemed fresh and was adopted by the club scenes of New York and Chicago.
 
-And, like [Deee-Lite](https://amzn.to/3W7JKj0), it expands while linking with hip-hop.
+And like [Deee-Lite](https://amzn.to/3W7JKj0), it expands while linking with hip-hop.
 On the other hand, the connection with hip-hop was emphasized, and it served as a bridge to jazz-hip-hop such as [A Tribe Called Quest](https://amzn.to/4n1XXZO) and [Gang Starr](https://amzn.to/46QAJBa).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,9 +132,9 @@ In Japan, United Future Organization (UFO) in particular received worldwide accl
 
 #### Western Europe
 
-- **France/Germany**: In France, it was incorporated into "Nouvelle Scène Jazz" and club culture in Paris, and in Germany, it was incorporated into the experimental spirit of jazz/clubs centered on West Berlin around the time of reunification (1990).
+- **France/Germany**: In France, it was incorporated into "Nouvelle Scène Jazz" and club culture in Paris, and in Germany, it was incorporated into the experimental spirit of jazz/clubs centered in West Berlin around the time of reunification (1990).
 
-- **Italy/Spain**: Linked with tourism, Acid Jazz is established in resort culture and club scene. Particularly in Ibiza, it was mixed with house and Balearic.
+- **Italy/Spain**: Linked with tourism, Acid Jazz is established in resort culture and club scene. Especially in Ibiza, it was mixed with house and Balearic.
 
 
 
@@ -143,11 +143,11 @@ In Japan, United Future Organization (UFO) in particular received worldwide accl
 
 ### Geopolitical expansion and post-Cold War culture
 
-The expansion of Acid Jazz mainly in Europe was also influenced by post-Cold War cultural liberalization.
+Acid Jazz's expansion mainly in Europe was also influenced by post-Cold War cultural liberalization.
 
 The end of the Cold War in the 1990s → Club culture was liberated in Eastern Europe and the former Soviet Union, and music that combined jazz, funk, and electronics was welcomed.
 
-Globalization → Immigrant culture centered in London spread musically through the "world city" network.
+Globalization → Immigrant culture centered in London spread musically through the network of "world cities."
 
 
 
@@ -157,7 +157,7 @@ Globalization → Immigrant culture centered in London spread musically through 
 
 Acid jazz was more than just a music genre; it was a symbol of club and urban culture.
 
-- **Club Scene**: At the end of the 1980s, DJs played jazz-funk at London clubs such as "Dingwalls" and "The Wag Club," and young people went wild.
+- **Club Scene**: At the end of the 1980s, DJs played jazz-funk at the London clubs "Dingwalls" and "The Wag Club," and young people went wild.
 
 - **Fashion**: A mix of mods, suits, and urban streetwear, with a stylish, urban aesthetic.
 
@@ -169,7 +169,7 @@ Acid jazz was more than just a music genre; it was a symbol of club and urban cu
 
 ### Decline and Reappraisal
 
-In the late 1990s, acid jazz evolved into Nu-Jazz, Lounge, and Broken Beat, and its momentum as a scene converged. However, in recent years, it has been rediscovered on Spotify and YouTube, and young listeners are reappreciating its relaxed texture, which is similar to lo-fi hip-hop and chill-hop.
+In the late 1990s, acid jazz evolved into Nu-Jazz, Lounge, and Broken Beat, and its momentum as a scene converged. However, in recent years, it has been rediscovered on Spotify and YouTube, and young listeners are reappreciating its relaxing texture, which is similar to lo-fi hip-hop and chill-hop.
 
 In addition, it has played a major role as a bridge between club music and jazz, and has influenced the modern jazz revival (a new generation of jazz led by London's [Shabaka Hutchings] (https://amzn.to/3W0xMYx) and others).
 
@@ -183,7 +183,7 @@ Acid jazz is ""intellectual and danceable music'' that was born out of the urban
 
 The music was born from the fusion of London's immigrant culture, club culture, and the dissatisfaction of post-industrial society.
 
-In Europe, it developed into tourism and urban culture after reunification, in the United States, it was combined with hip-hop, and in Japan, it developed into Shibuya-kei and club jazz.
+In Europe, it developed into tourism and post-reunification urban culture, in the United States, it was combined with hip-hop, and in Japan, it developed into Shibuya-kei and club jazz.
 
 The end of the Cold War and globalization encouraged its proliferation, and it served as a geopolitical symbol of freedom and exchange.
 

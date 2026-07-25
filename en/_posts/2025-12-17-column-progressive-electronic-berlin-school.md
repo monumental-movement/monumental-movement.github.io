@@ -77,7 +77,7 @@ Ash Ra Tempel began as a project that fused electronic sounds, guitar, and impro
 
 ### Repeat structure with sequencer
 
-The most distinctive element of the Berlin School is the repeated sound pattern created by analog sequencers. A fixed pattern that lasts for a long time and gradually changes through filter and envelope operations. This method emphasizes the sense of time rather than the sense of beat.
+The most distinctive element of the Berlin School is the repetitive sound pattern created by analog sequencers. A fixed pattern that lasts for a long time and gradually changes through filter and envelope operations. This method emphasizes the sense of time rather than the sense of beat.
 
 ### Long format
 

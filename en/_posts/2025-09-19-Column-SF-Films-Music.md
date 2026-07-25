@@ -62,7 +62,7 @@ Music in science fiction movies is more than just a "background" that supports t
 ### Since 2010s
 
 * **2014 Interstellar**: Hans Zimmer combines pipe organ and synth to simultaneously depict the grandeur of the universe and the inner lives of humans.
-* **2021 "DUNE/Dune"**: A desert planet is expressed with folk music elements + electronic sound, creating an alien-like foreignness.
+* **2021 "DUNE/Dune"**: Expressing a desert planet with folk music elements + electronic sound, creating an alien-like foreignness.
 
 ---
 
@@ -147,8 +147,8 @@ A3. Currently, AI composition tools are being used to create sci-fi movie traile
 ## summary
 
 * Science fiction movies and music are inseparable because they create a sense of the future and another world.
-* It has been expressed in a variety of ways, including electronic sounds, synthesizers, orchestras, and ambient.
-* Throughout history, it can be said that the relationship between humans and technology has been visualized through sound.
+* It has been expressed in a variety of ways, including electronic sounds, synthesizers, orchestra, and ambient.
+* Throughout history, it can be said that the **relationship between humans and technology** has been visualized through sound.
 
 > Future science fiction film music will open up a new world through collaboration between AI and human composers.
 

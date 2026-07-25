@@ -16,13 +16,13 @@ title: '[Column] Ween — A strange universe born from a suburban garage'
 
 ## "What is Ween?"
 
-Text: mmr | Theme: Boognish, a strange god born in a suburban garage in America. From its descent to lo-fi alchemy and deep-sea mythology, The Mollusk, trace the musical universe drawn by the strange brothers Ween.
+Text: mmr｜Theme: Boognish, a strange god born in a garage in the American suburbs. From its descent to lo-fi alchemy and deep-sea mythology, The Mollusk, trace the musical universe drawn by the strange brothers Ween.
 
 
 > A garage tucked away in the suburbs of America.
-> From that darkness, a god was born - Boognish.
+> Out of that darkness, a god was born - Boognish.
 > ——This is music itself that jumps across genres while laughing.
-> Boognish's smile contains pieces of music from all over the world.
+> Boognish's smile contains fragments of music from all over the world.
 
 ---
 
@@ -49,7 +49,7 @@ Two boys grab a cassette tape and a 4-track recorder and begin a strange ritual.
 
 The "**Boognish**" that they created is more than just a logo or character.
 A fictional god of laughter and madness, he was a symbol of Ween's music itself.
-The noises, strange voices, and unusual key changes that were scattered throughout the home recordings were all blessed by Boognish.
+The noises, strange voices, and abnormal key changes that were scattered throughout the home-recorded work were all blessed by Boognish.
 
 > "Boognish isn"t a joke. He"s everything we do."
 > — *Dean Ween Interview, 2003*
@@ -61,7 +61,7 @@ The noises, strange voices, and unusual key changes that were scattered througho
 ### Gene and Dean — imaginary brothers or spiritual doubles?
 
 Gene and Dean.
-Although the sound of their names suggests "brothers," they are not related by blood.
+The sound of their names suggests "brothers," but they are not related by blood.
 But musically, they were almost like twins.
 Gene is the embodiment of emotion and chaos, Dean is the master of construction and craft.
 The moment the two collide, the chaos and magic that is typical of Ween is born.
@@ -84,7 +84,7 @@ The early Ween sound was the magic of home recording on **4-track cassette MTR**
 Leaves noise and distortion intact. It wasn't "filth", it was "truth".
 Their home recordings are a kind of lo-fi alchemy.
 The Pod is a bizarre mix of morbid laughter and psychedelic structure.
-It made listeners feel uneasy while at the same time giving them an addictive feeling of pleasure.
+It made listeners feel anxious, but at the same time it gave them an addictive feeling of pleasure.
 
 ### Contact with the underground scene
 
@@ -142,8 +142,8 @@ The sound is both funny and warm enough to bring tears to your eyes.
 
 ["The Mollusk"](https://amzn.to/48VBtpT) is
 This was the moment when Ween's musical universe expanded to its richest.
-A monumental piece of psychedelic pop with ocean mythology as its theme, led by "**Ocean Man**".
-Brian Wilson"s romance and Captain Beefheart"s madness,
+A monumental piece of psychedelic pop centered on ocean myths, led by "**Ocean Man**".
+The romance of Brian Wilson and the madness of Captain Beefheart.
 It"s an album that feels like it"s enclosed in a single shell.
 
 All recordings are analog using **16-track tape**.
@@ -234,10 +234,10 @@ flowchart TD
 | 1992 | [Pure Guava](https://amzn.to/48ihoda) | "Push th" Little Daisies" included |
 | 1994 | [Chocolate and Cheese](https://amzn.to/46LSWQo) | Turning point to studio production |
 | 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs) | Fake Country x Real Nashville |
-| 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
+| 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A monumental piece of psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
 
 ---
 

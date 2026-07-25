@@ -13,7 +13,7 @@ title: Coalition Of The Killing – Backwards On Pony EP
 ---
 
 
-Coalition Of The Killing (COTK) is a San Francisco-based techno duo consisting of techno DJ/producers Jason Short and Marc Smith.
+Coalition Of The Killing (COTK) is a techno duo based in San Francisco consisting of techno DJ/producers Jason Short and Marc Smith.
 
 A Techno/Minimal track released in 2008 on Karloff Rekordings, a sub-label of Sub Static, a German label founded by M.I.A. and Falko Brocksieper.
 

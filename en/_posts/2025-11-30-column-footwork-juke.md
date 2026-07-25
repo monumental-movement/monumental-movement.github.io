@@ -44,7 +44,7 @@ Footwork/Juke was born in Chicago's ghetto communities in the late 1980s and ear
 
 - **Late 1980s**: As Chicago House flourishes, a more aggressive house sound known as "Ghetto House" develops at area clubs and parties.
 - **Early 1990s**: A culture of short breakbeats, repeated samples, and fast-moving dance steps known as Juke was established.
-- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely connected begins to spread.
+- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely linked begins to spread.
 
 <div class="mermaid">
 flowchart TD
@@ -63,7 +63,7 @@ The musical characteristics of Footwork/Juke are as follows.
 - **Rhythm structure**: Complex syncopation, use of TR-808/909 drum machines.
 - **Sampling**: High-speed recording of fragmented vocals, hip-hop and R&B phrases.
 - **Song structure**: Repeats short phrases mainly in loops. It often uses odd time signatures and irregular breaks.
-- **Sound characteristics**: Low-range bass drum is emphasized, snare is finely dispersed. Skillfully utilizes stereo space.
+- **Acoustic Features**: Low-range bass drum is emphasized, snare is finely dispersed. Skillfully utilizes stereo space.
 
 ---
 

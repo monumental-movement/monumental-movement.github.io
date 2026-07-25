@@ -112,7 +112,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 **Sound Features**:
 
-- Development of minimal techno (simplified structures, emphasis on repeatability)
+- Development of minimal techno (simplified structures, emphasis on repetition)
 
 - Rise of hard techno and acid techno
 
@@ -201,11 +201,11 @@ Listening to his works while tracing their history is nothing but understanding 
 
 ### Related columns
 
-🔗 [[Column] Four Germanys, four technos — wall reverberations and minimal philosophy](https://monumental-movement.jp/column-german-techno-areas)
+🔗 [[Column] Four Germanys, four technos — wall reverberations and minimalist philosophy](https://monumental-movement.jp/column-german-techno-areas)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 

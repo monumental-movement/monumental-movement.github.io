@@ -67,7 +67,7 @@ It was the physical sensation of ""playing'' electronic sounds that made his sou
 
 In 2012, the world club scene shook.
 "Why They Hide Their Bodies Under My Garage."
-This one song made Blawan's name definitive.
+This single song made Blawan's name definitive.
 
 The title is disturbing.
 The distorted vocal sample sounds like a ghost groaning in a basement.
@@ -101,7 +101,7 @@ For a moment when everything melts together, music becomes "substance."
 
 ---
 
-## Chapter 4 Wet Will Always Dry——A record of emotions without emotions
+## Chapter 4 Wet Will Always Dry——Record of emotions without emotions
 
 In 2018, Blawan finally released a full-length album, Wet Will Always Dry.
 As the title suggests, **Wet, Dry. **
@@ -224,7 +224,7 @@ flowchart TD
 ---
 
 > "When you go to his studio, the first thing you see is silence.
-> The silence before turning on the switch is already laden with rhythm.
+> The silence before you turn on the switch is already laden with rhythm.
 > That space itself is the "batting surface." "
 > —— **Paula Temple**
 
@@ -238,7 +238,7 @@ flowchart TD
 
 ---
 
-> "I was watching Karenn"s live performance from the sidelines,
+> "I watched Karenn"s live performance from the sidelines,
 > It felt like being inside a steelworks.
 > Sounds like sparks flying.
 >Still, the faces of the audience were somehow kind. "
@@ -361,7 +361,7 @@ flowchart TD
 
 ---
 
-The sounds produced by this setup are completely hand-crafted electronic sounds.
+The sounds produced by this setup are entirely hand-crafted electronic sounds.
 Blawan is not "typing" but "performing."
 Therefore, his techno retains a ""human instability.''
 
@@ -390,7 +390,7 @@ That contradiction is the reason for his existence.
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
 

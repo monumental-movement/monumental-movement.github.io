@@ -26,7 +26,7 @@ The magic of music production, once confined to the walls of a studio, has final
 
 A bedroom producer is not just someone who creates sound alone.
 They are the embodiment of the ""democratization" of the music industry, and at the same time they are also a symbol of the ""creativity of solitude."
-Nowadays, with direct access to the world via Spotify and SoundCloud, the bedroom is no longer a "private space." Through its network, it has become the base of a new music city = digital city.
+With direct access to the world via Spotify and SoundCloud, the bedroom is no longer a private space. Through its network, it has become the base of a new music city = digital city.
 
 ---
 
@@ -50,7 +50,7 @@ color: #fff;
 ### Cassette MTR opens the door to personal production
 
 In the 1980s, the **cassette MTR (multi-track recorder)** released by companies such as TASCAM and Fostex laid the origin of home recording culture.
-The fact that even lo-fi sound quality can be overdubbed at home has given amateur musicians the possibility of ""self-sufficiency''.
+The fact that even lo-fi sound quality can be overdubbed at home has given amateur musicians the possibility of ""self-sufficiency.''
 The seeds of this development had already begun when Ryuichi Sakamoto was making demos in his home studio and home-recording artists were distributing their sound sources along with zines.
 
 ### Computer and MIDI revolution
@@ -112,7 +112,7 @@ AI expands human creativity as an assistant, and modularity restores the analog 
 Music production is evolving from the ""world of individuals" to ""co-creation between individuals and machines."
 
 The waveforms generated on the DAW screen look like digital paintings.
-Nowadays, the bedroom has transformed into an atelier for not only music, but also for all-round creation.
+Nowadays, the bedroom has transformed into an atelier not only for music but also for all-round creation.
 
 ---
 
@@ -128,7 +128,7 @@ Their activities presented a new structure called ""pop music without an author.
 ### The intersection of Niconico Douga and YouTube
 
 As comment culture and derivative works intertwine in multiple layers, the bedroom has transformed into a place for collaborative production.
-""Creating by one person" eventually became meaningful in a network where ""many people resonated together."
+""Creating by one person" eventually came to have meaning in a network where ""many people resonate together".
 
 ---
 
@@ -180,7 +180,7 @@ And those hands are no longer connected through the mouse or MIDI keyboard.
 Directly connected to the entire world.
 
 >"From my room to your world."
->- That may be the most honest picture of 21st century music.
+>- That may be the most honest picture of music in the 21st century.
 
 ---
 

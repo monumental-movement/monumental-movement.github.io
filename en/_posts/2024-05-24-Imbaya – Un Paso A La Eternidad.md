@@ -15,7 +15,7 @@ title: Imbaya – Un Paso A La Eternidad
 ---
 
 
-Imbaya is a Bolivian trio that plays traditional South American music based on flute and guitar, with occasional vocals. The members are Jaime Vega, Carlos Vega & Mario Vega, who play instruments of Andean culture such as the quena, quenacho, flauta de pan (pan flute), and sampona.
+Imbaya is a Bolivian trio that plays traditional South American music based on flute and guitar, with occasional vocals. The members are Jaime Vega, Carlos Vega & Mario Vega, who play Andean cultural instruments such as the quena, quenacho, flauta de pan (pan flute), and sampona.
 
 "Un Paso A La Eternidad" is an album based on native music made by the Quechua people of Peru, and is a cassette tape released in 1993.
 

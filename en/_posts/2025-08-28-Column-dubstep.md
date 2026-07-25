@@ -39,7 +39,7 @@ Dubstep is supported by the physical pressure of bass sounds, so much so that it
 
 - **Rhythm**: Broken beat structure derived from 2-step. The kick is not a four-beat beat, but the snare is emphasized on the third beat.
 
-- **Bass**: Characterized by deep sub-bass, distorted bass line, and so-called "Wobble Bass".
+- **Bass**: Characterized by deep sub-bass, distorted bass line, so-called "Wobble Bass".
 
 - **Mood**: Dark, minimal or experimental sound design.
 
@@ -83,7 +83,7 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 
 ### Cultural influence of dubstep
 
-- **Penetration into the EDM scene**: Connected with festival culture and becoming a presence that resonates on the main stage.
+- **Penetration into the EDM scene**: Connected to festival culture and becoming a presence that resonates on the main stage.
 
 - **Re-evaluation of bass music**: Significantly influenced the development of subsequent genres such as trap and future bass.
 
@@ -113,7 +113,7 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 
 ### Soundscapes symbolizing 21st century urban culture
 
-More than just a genre, dubstep has become an iconic soundscape of 21st century urban culture.
+More than just a genre, dubstep has become a soundscape emblematic of 21st century urban culture.
 
 The bass vibrations experienced through a club's sound system go beyond the sense of hearing, shaking the body and space, and connecting listeners with each other. Dubstep continues to evolve and will continue to be an exciting musical exploration ground for new generations.
 

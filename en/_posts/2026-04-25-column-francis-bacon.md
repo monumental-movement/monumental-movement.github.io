@@ -22,7 +22,7 @@ Text: mmr｜Theme: The deep structure of creation built through music and anecdo
 
 Francis Bacon's studio was more than just a production location. It was a space almost like a ""laboratory'' where visual and auditory senses intermingled.
 
-His studio in Leith Mews, London, was filled with photographs, newspaper clippings, torn books, cans of paint and records. Materials are scattered on the floor, and images pasted by chance overlap on the walls. During his productions, he often played music at high volume.
+His studio in Leith Mews, London, was filled with photographs, newspaper clippings, torn books, paint cans and records. Materials are scattered on the floor, and images pasted by chance overlap on the walls. During his productions, he often played music at high volume.
 
 According to testimonies from visitors, the moment they entered the studio, they were overwhelmed by the chaos of sounds, smells, and sights. A friend said, ""It was no longer an art studio, but like the inside of a device where emotions were amplified.''
 
@@ -50,9 +50,9 @@ color: #fff;
 
 Richard Wagner"s music is also deeply connected to Bacon"s nightlife.
 
-He was more active at night than during the day, often spending long hours at casinos or bars before returning to the studio to begin production. At that time, Wagner's operas were sometimes played.
+He was more active at night than during the day, often spending long hours at casinos or bars before returning to the studio to begin production. At that time, Wagner's plays were sometimes played.
 
-One anecdote is that he listened to Tristan and Isolde over and over again while listening to it over and over again, with little sleep, and was able to decide on the composition of his important work within a few hours.
+One anecdote is that he wrote Tristan and Isolde while listening to it over and over again, almost without sleep, and was able to decide on the composition of his important work within a few hours.
 
 He is also quoted as saying of Wagner's music, ""It pushes the emotions too far.'' This was not a criticism, but rather an evaluation that reflected his own approach to production.
 
@@ -80,11 +80,11 @@ This repetition is not just an appreciation. Rather, it was an act that imprinte
 
 Chance plays an important role in Bacon's creation. There is also music in the background.
 
-He often welcomed "accidents". For example, there were times when I used the marks left by a brush stroke or the unintentional spread of paint as the center of my work.
+He often welcomed "accidents". For example, there were times when I would take the marks left by a brush stroke or the unintentional spread of paint and place them directly at the center of my work.
 
-In one famous anecdote, he was working on a painting after drinking and accidentally left a large stain on the canvas. However, he did not erase it, but rather found a new form from it.
+In one famous anecdote, he was painting after drinking when he unintentionally left a large stain on his canvas. However, he did not erase it, but rather found a new form from it.
 
-This ""acceptance of accidents"' resonates with the improvisational nature of music. Wagner"s long pieces and Callas's wavering voice contain moments when they deviate from complete control.
+This ""acceptance of accidents"' resonates with the improvisational nature of music. Wagner"s long pieces and Callas' wavering voice contain moments when they deviate from complete control.
 
 <div class="mermaid">
 graph TD

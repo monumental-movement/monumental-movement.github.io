@@ -72,7 +72,7 @@ E --> F
 
 # 1st (1st place)
 
-## 1st Place Sgt. Pepper's Lonely Hearts Club Band — The Studio as a New Instrument
+## 1st place Sgt. Pepper's Lonely Hearts Club Band — The Studio as a New Instrument
 
 London in 1967. The Beatles had already stopped touring and withdrew from the stage. That blank space was not just a pause, but a time to redesign the act of recording itself.
 
@@ -325,7 +325,7 @@ Recordings were made multiple times in 1966.
 The main recording location is
 
 * Scepter Studios
-* TTG Studios
+*TTG Studios
 
 It is.
 
@@ -503,9 +503,9 @@ The later formation of indie label culture, the DIY spirit, and the underground 
 
 This lack of prioritizing commercial success is a continuum of 1980s indie rock, 1990s alternative, and 21st century bedroom music and independent production culture in the digital age.
 
-Today, the cultural environment in which countless artists from all over the world are able to freely exhibit their work in small-scale environments resonates deeply with the idea of ​​""freedom of expression'' that this work represents.
+Today, the cultural environment in which countless artists around the world are able to freely present their work in small-scale environments resonates deeply with the idea of ​​""freedom of expression'' that this work represents.
 
-> "'The Velvet Underground & Nico" was not a hit. However, its influence went far beyond sales and expanded rock from "music" to "a means of expression'. Its innovation is the biggest reason why it ranks third in this ranking."
+> "'The Velvet Underground & Nico" was not a hit, but its influence went far beyond sales, expanding rock from "music" to a "means of expression'. Its innovation is the biggest reason why it ranks third in this ranking."
 
 ---
 
@@ -515,7 +515,7 @@ Today, the cultural environment in which countless artists from all over the wor
 
 What"s Going On, released on May 21, 1971, didn"t just change the history of soul music.
 
-This work was one of the biggest turning points in 20th century music, determining the value that ""pop music can speak about society.''
+This work was one of the biggest turning points in 20th century music, establishing the idea that ""pop music can speak about society.''
 
 At a time when hit songs up until then had centered around love and dance, this album focused on the themes of real life: war, racism, police violence, environmental destruction, poverty, faith, and family.
 
@@ -690,7 +690,7 @@ The following song, ""What's Happening Brother,'' is told from the perspective o
 
 ""Flyin' High (In the Friendly Sky)" deals with drug addiction, ""Save the Children" deals with responsibility for future generations, and ""Mercy Mercy Me (The Ecology)'' deals with the crisis of environmental destruction.
 
-In 1971, hit albums that dealt directly with environmental issues were extremely rare.
+In 1971, hit albums that dealt head-on with environmental issues were extremely rare.
 
 ""Mercy Mercy Me'' expressed concerns about air pollution, oil pollution, and radiation, and resonated with the growing environmental movement that began that year.
 
@@ -833,7 +833,7 @@ The members who participated were some of the best in jazz history.
 *Paul Chambers
 * Jimmy Cobb
 
-In later years, performers who would each become masters representing the history of jazz gathered in one studio.
+In later years, these musicians, each of whom would go on to become masters of jazz history, gathered in one studio.
 
 In particular, the presence of Bill Evans was decisive.
 
@@ -987,7 +987,7 @@ In film music, it became common to create psychological tension by maintaining m
 
 Furthermore, in fusion from the 1970s, Herbie Hancock and Wayne Shorter developed modal ideas and blurred the boundaries between jazz and rock.
 
-Today, even in ambient and electronic music, the ""musical space without chord progressions'' has become a standard method.
+In modern times, ""musical spaces without chord progressions'' have become a standard method even in ambient and electronic music.
 
 This album is one of the origins of that.
 
@@ -1027,7 +1027,7 @@ In contrast, the top works redefine the boundaries of genres, social structures,
 
 However, the idea of ​​""design for freedom'' presented by Kind of Blue became the premise for all subsequent musical improvisation.
 
-> "'Kind of Blue' is a work designed with a minimal structure to maximize the freedom of improvisation. Its quiet innovation went beyond jazz and changed the way we think about music itself. Therefore, we rank it 5th in this ranking."
+> "'Kind of Blue' is a work designed with a minimal structure to maximize the freedom of improvisation. Its quiet innovation went beyond jazz and changed the way we think about music itself. Therefore, we rank it fifth in this ranking."
 
 ---
 
@@ -1063,7 +1063,7 @@ At the center of this was Nirvana, with vocalist/guitarist Kurt Cobain.
 
 They initially debuted on the indie label Sub Pop and were only a local presence.
 
-However, the music was already packed with elements that would disrupt traditional rock.
+However, the music was already filled with elements that would disrupt traditional rock.
 
 ---
 
@@ -1081,7 +1081,7 @@ In particular, Dave Grohl's drums acquired an extremely strong sense of attack a
 
 The guitar was intentionally distorted and mixed to emphasize the low range.
 
-This is an approach that is the complete opposite of the ""clear, well-organized 80's sound'' that had been mainstream up until then.
+This is an approach that is the complete opposite of the ""clear and well-defined 80's sound'' that had been mainstream up until then.
 
 ---
 
@@ -1146,7 +1146,7 @@ It was this incompatibility between fame and alienation, influence and self-deni
 
 ## Influence on subsequent music
 
-The influence of ""Nevermind'' extends throughout rock from the 1990s onward.
+The influence of ""Nevermind'' extends throughout rock from the 1990s onwards.
 
 * Post-grunge
 * Alternative rock
@@ -1285,14 +1285,14 @@ The album's centerpiece, ""Autobahn,'' is about German highways.
 
 However, this is not a landscape depiction.
 
-This is an attempt to musicalize the ""phenomenon of movement itself''.
+This is an attempt to musicalize the ""phenomenon of movement itself.''
 
 * Constant speed repetitive rhythm
 * Mechanical tone change
 * minimal melody
 * Long-term structure maintenance
 
-Through these, music changes from "development" to "sustained."
+As a result of these, music changes from "development" to "sustainment."
 
 <div class="mermaid">
 flowchart LR

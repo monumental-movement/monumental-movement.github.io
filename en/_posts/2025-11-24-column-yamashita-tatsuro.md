@@ -50,7 +50,7 @@ color: #fff;
 ## ■ Sugar Babe (1973–1976)
 Tatsuro Yamashita's musical outlook was formed in the rock/pop analog recording culture of this period.
 
-- Recording media: **Analog multitrack tape (2 inches, mainly 16-24tr)**
+- Recording medium: **Analog multitrack tape (2 inches, mainly 16-24tr)**
 - Studio: Early Japanese studio (Victor, Nichion, CBS Sony, etc.)
 - Musical background: Deep commitment to American recording culture such as Brian Wilson, Phil Spector, Stax, etc.
 
@@ -66,7 +66,7 @@ Arrangements and recordings optimized for analog characteristics had already beg
 
 ---
 
-# 2. Late 1970s: Early solo period and the completed form of "Analog Layer"
+# 2. Late 1970s: Early solo period and the completed version of "Analog Layer"
 
 ## ■ "SPACY" (1977), "GO AHEAD!" (1978)
 This period was the era when Tatsuro made full use of analog 24-track recording.
@@ -182,7 +182,7 @@ As a result, recent analog reissues have received high praise worldwide.
 # 8. 2020s: Latest works - era of analog return
 
 Nowadays, the demand for analog records is increasing again.
-Tatsuro maintains the following attitude amid the digital era:
+Tatsuro maintains the following attitude in the midst of digital prosperity:
 
 - Recording is mainly digital
 - But focus on analog release
@@ -239,7 +239,7 @@ point:
 - Rich mid-low range with NEVE console
 - EMT plate reverberation culture
 
-These "age-specific conditions" make the analog city pop sound unique.
+These "time-specific conditions" make the analog city pop sound unique.
 
 ---
 

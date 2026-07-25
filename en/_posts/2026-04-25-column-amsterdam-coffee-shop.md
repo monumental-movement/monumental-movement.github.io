@@ -17,7 +17,7 @@ title: '[Column] The intersection of coffee shops and music culture in Amsterdam
 
 ## Establishment of coffee shop culture and foundation of sound environment
 
-Text: mmr｜Theme: Coffee shops in Amsterdam are not just spaces for taste; they are urban devices that have fostered unique soundscapes while being closely tied to music culture.
+Text: mmr｜Theme: Coffee shops in Amsterdam are not just recreational spaces, but urban devices that have fostered unique soundscapes while being closely tied to music culture.
 
 
 ### "Spaces that tolerate sound" created by tolerance policies
@@ -58,7 +58,7 @@ From the late 1980s to the 1990s, Amsterdam rapidly developed as Europe's electr
 
 During this period, coffee shops functioned as a "margin" of club culture. It became a part of the rhythm of the city, a place to visit after dancing the night away, or a place to calm down before dancing.
 
-In fact, according to many travelers' testimonies, the general flow was ""club -> coffee shop -> hotel''. In the recollections of people who visited in the 1990s, they were left with a strong impression of an atmosphere where people could sink into the sofa and listen to music, and feel comfortable even if the conversation stopped. ([Reddit][3])
+In fact, according to many travelers' testimonies, the general flow of travel was ""club -> coffee shop -> hotel.'' In the recollections of people who visited in the 1990s, they were left with a strong impression of an atmosphere where they could sink into the sofa and listen to music, and feel comfortable even if the conversation stopped. ([Reddit][3])
 
 It was in this flow that the concept of ""chill out'' was established. Music to calm the excitement of the club. A sound that slows down the tempo and melts into the space. Ambient and downtempo music took root in coffee shops in this very context.
 
@@ -74,7 +74,7 @@ Also, in this era, the existence of a ""store owner who selects music'' has beco
 
 Coffee shops in Amsterdam are not uniform. There are over 200 stores, each with a different atmosphere and music. ([Coffeeshop Relax][1])
 
-Some stores play mainly reggae music, while others focus on jazz, soul, or hip-hop. Additionally, stores geared toward tourists may play more easily understandable dance music.
+Some stores play mostly reggae, while others focus on jazz, soul, or hip-hop. Additionally, stores catering to tourists often play more easily understandable dance music.
 
 Actual reviews have pointed out that the quality of the experience is greatly influenced by the difference in the sound environment, ranging from ""a store for young people with loud trap music" to ""a calm store where you can have quiet conversations." ([Reddit][4])
 
@@ -110,7 +110,7 @@ Music is not the only sound in a coffee shop. The sound of boats on the canal, t
 
 Amsterdam was designed as a canal city in the 17th century, with the entire city open to water and sound. This structure blurs the boundaries between indoor and outdoor sounds.
 
-Additionally, conversations within the store are also an important element. Silence is tolerated in coffee shops, but conversation between strangers often emerges naturally. This "semi-public space" makes the layers of sound even more complex.
+Furthermore, the conversation inside the store is also an important element. Silence is tolerated in coffee shops, but conversation between strangers often emerges naturally. This "semi-public space" makes the layers of sound even more complex.
 
 > The coffee shop captures and reconfigures the sounds of the city to create a unique auditory space.
 

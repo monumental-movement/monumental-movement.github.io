@@ -95,7 +95,7 @@ Montana's arranging philosophy was clear.
 His ideal is "music that dances gracefully."
 They gave classical architectural beauty to the dance culture that originated on the street, and elevated the music to an "elegant festival."
 
-On the other hand, his extreme perfectionism made the studio musicians nervous, and it is said that each recording session required dozens of takes.
+On the other hand, his extreme perfectionism made the studio musicians nervous, and it is said that each recording took dozens of takes.
 
 ---
 

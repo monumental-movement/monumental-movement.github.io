@@ -18,9 +18,9 @@ title: '[Column] Does the genre of music you listen to in your youth influence y
 
 ## Prologue: Why does the "music I listened to when I was young" remain?
 
-Text: mmr｜Theme: Verifying the long-term effects of music listened to during adolescence and young adulthood on values, career views, and social participation using empirical research data from various countries
+Text: mmr｜Theme: Examining the long-term effects of music listened to during adolescence and young adulthood on values, work views, and social participation using empirical research data from various countries.
 
-When many people think back to a certain time in their lives, they conjure up memories that are strongly associated with specific music. It's not just nostalgia. Psychology and neuroscience have repeatedly shown that experiences from our late teens to early 20s tend to become the foundation of our self-concept and value judgments.
+When many people think back to a certain time in their lives, they conjure up memories that are strongly associated with specific music. It"s not just nostalgia. Psychology and neuroscience have repeatedly shown that experiences from one"s late teens to early 20s tend to become the basis of one's self-concept and value judgments.
 
 During this period, the amygdala, which is responsible for emotional processing, and the dopamine circuit, which is responsible for the reward system, are particularly active, making children highly sensitive to new stimuli. Because music simultaneously stimulates emotions, social belonging, and physical sensations, it is more deeply imprinted in our memories than other cultural elements.
 
@@ -104,7 +104,7 @@ A follow-up survey in the United States has confirmed that this group tends to b
 
 Hip-hop's influence is greatest between the ages of 16 and 25. At a time when people are becoming more aware of their social position and attributes, it is easy for people to internalize hip-hop as a form of self-talk.
 
-> Hip hop fosters the ability to verbalize the relationship between self and society.
+> Hip-hop develops the ability to verbalize the relationship between self and society.
 
 ---
 
@@ -114,7 +114,7 @@ The generation that is familiar with electronic music tends to have a sense of t
 
 ### Age range of greatest impact
 
-The influence of electronic music is most apparent between the ages of 18 and 28. Physical sensations and social networks are formed at the same time at the age when children become able to autonomously choose nighttime culture and club spaces.
+The influence of electronic music is most evident between the ages of 18 and 28. Physical sensations and social networks are formed at the same time at the age when children become able to autonomously choose nighttime culture and club spaces.
 
 > Electronic music fosters the ability to adapt to a networked society.
 
@@ -152,7 +152,7 @@ In Europe, the relationship between musical tastes and social behavior has been 
 
 ## Chapter 10: Country comparison: Japan (before 1990s)
 
-In Japan before the 1990s, musical tastes were difficult to directly reflect in social behavior. This is because lifetime employment and a uniform education system absorbed individual differences.
+In Japan before the 1990s, it was difficult for musical tastes to be directly reflected in social behavior. This is because lifetime employment and a uniform education system absorbed individual differences.
 
 Still, it has been confirmed that the generation that is familiar with rock and folk music tends to retain an internal critical nature.
 
@@ -168,7 +168,7 @@ Since the 2000s, as the system has become more fluid, the relationship between m
 
 Since the 2000s in Japan, young people's musical experiences have broadly diverged into three categories. J-POP still provides a generational common ground and is shared in school and media contexts. On the other hand, subcultural music connected to anime and internet culture has played a role in strongly internalizing individual tastes and preferences.
 
-Furthermore, in urban areas, club culture and electronic music function as new social experiences linked to the night-time economy. These divergences create differences in career views and work style choices.
+Furthermore, in urban areas, club culture and electronic music function as new social experiences linked to the nighttime economy. These divergences create differences in career views and work style choices.
 
 > In recent years, music experiences have begun to be reflected in work styles in Japan.
 
@@ -213,13 +213,13 @@ What the empirical data shows is not a simple cause and effect that music determ
 
 Although it manifests itself differently depending on the country and system, the music you listen to in your youth continues to serve as a reference point throughout your life.
 
-> Musical experiences in early life are not a map of life, but a compass.
+> Musical experiences in early childhood are not a map of life, but a compass.
 
 ---
 
-## References/References (research/statistical materials)
+## References/references (research/statistical materials)
 
-This column is constructed based on the following empirical research, long-term surveys, and social statistics. Specific claims are organized based on the overlapping results of multiple studies, rather than on the basis of a single study.
+This column is constructed based on the following empirical research, long-term surveys, and social statistics. Specific claims are organized based on the overlapping results of multiple studies rather than on a single study.
 
 ### Music taste and personality/psychology
 

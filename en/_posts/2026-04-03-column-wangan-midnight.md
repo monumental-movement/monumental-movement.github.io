@@ -25,7 +25,7 @@ The coastline is particularly unique. The straight lines are long, the visibilit
 
 People find stories there. This is because even though it is a controlled space, there is always the possibility of deviation. Speeding, driving at the limit, machine limits, and human limits. The place where everything is tested at the same time is more than just a road.
 
-It is this "boundary" that Wangan Midnight depicts. Everyday and extraordinary, reality and fantasy, reason and impulse. When people stand on that boundary, they seek meaning. And when a meaning is repeated, it becomes a myth.
+It is this "boundary" that Wangan Midnight depicts. Everyday and extraordinary, reality and fantasy, reason and impulse. When people stand on that border, they seek meaning. And when a meaning is repeated, it becomes a myth.
 
 > Expressways turn into myths not because of their speed but because of their meaning.
 
@@ -50,7 +50,7 @@ color: #fff;
 
 The centerpiece is the Nissan Fairlady Z (S30), also known as the "Devil's Z." This car, which has had many accidents in the past and chooses its rider, is depicted as having a will even though it is a machine.
 
-The main character, Akio Asakura, is drawn to this Z and becomes its rider. However, he is not a "chosen being". Rather, it"s incomplete and immature, and that"s why the relationship with cars is possible.
+The main character, Akio Asakura, is drawn to this Z and becomes its rider. However, he is not a "chosen being". Rather, it"s incomplete and immature, and that"s why the relationship with the car is possible.
 
 The feature of this work is that it does not rely on a simple structure of winning and losing. In races, the process is more important than the result, and the characters face themselves in the process.
 
@@ -66,7 +66,7 @@ It is precisely because of this reality that the story takes on the quality of a
 
 In this work, "night" is not just a time period. It is a stage set and a state of mind itself.
 
-The city at night has anonymity. Everyone becomes nobody and is freed from their social roles during the day. Titles, occupations, pasts, everything is temporarily invalidated.
+The city at night has anonymity. Everyone becomes nobody and is freed from their day-to-day social roles. Titles, occupations, pasts, everything is temporarily invalidated.
 
 Among them, the only one left is "me".
 
@@ -78,7 +78,7 @@ The city lights are beautiful, but cold at the same time. Running in that light 
 
 This "back and forth between solitude and togetherness" determines the tone of the work as a whole.
 
-> The highway at night becomes a place where you can face yourself by being separated from others.
+>The highway at night becomes a place where you can face yourself by being separated from others.
 
 ---
 
@@ -86,7 +86,7 @@ This "back and forth between solitude and togetherness" determines the tone of t
 
 Even though the theme is the same, the experience can vary greatly depending on how the music is used.
 
-The Eurobeat in Initial D is a device that emphasizes the sense of speed through rhythm and tempo. By accelerating the viewer's senses and synchronizing sight and hearing, the race becomes entertainment.
+The Eurobeat in "Initial D" is a device that emphasizes the "sense of speed" through rhythm and tempo. By accelerating the viewer's senses and synchronizing sight and hearing, the race becomes entertainment.
 
 On the other hand, the sound in Wangan Midnight is more restrained. Engine noise, wind noise, and the feel of the tires on the ground. These are the main characters, and the music remains a complement to them.
 
@@ -110,7 +110,7 @@ Speed ​​in this work is not just a physical quantity. It is a question, a ch
 
 Why do you run fast?
 
-There is no clear answer to that question. The characters have their own reasons and run in their own ways.
+No clear answer is provided to that question. The characters have their own reasons and run in their own ways.
 
 For some it"s an escape from the past, for others it"s self-validation, and for others it's pure pleasure.
 
@@ -178,7 +178,7 @@ timeline
 
 ### "Wangan Midnight Original Soundtrack"
 
-A soundtrack containing songs used in the anime version (2007).
+A soundtrack that includes songs used in the anime version (2007).
 
 The characteristic is "suppression".
 Although it is mainly synth-based, it is not flashy, and is built with plain repetition and bass grooves.
@@ -213,8 +213,8 @@ A song that embodies the work's symbolic tone.
 ・Low-slung synth
 ・Composition with a lot of white space
 
-This song feels more like "drifting" than "running."
-It creates a unique sense of immersion, where you feel like you are melting into the city.
+This song feels more like ""drifting" than ""running".
+It creates a unique immersive feeling that makes you feel like you are melting into the city.
 
 ---
 
@@ -288,7 +288,7 @@ The sound of the bay is "a state of being in speed."
 ---
 
 
-## Conclusion: Why are highways a myth?
+## Conclusion: Why are expressways a myth?
 
 What Wangan Midnight showed was not the place itself, but the way the people gathered there.
 

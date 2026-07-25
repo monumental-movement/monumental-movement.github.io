@@ -141,7 +141,7 @@ This "intermediate state" is extremely important for creation.
 
 ## Matching ambient and spatial perception
 
-Eliasson and Eno's practices are consistent in that they do not present ""works" but rather design ""conditions of experience."
+Eliasson and Eno's practices are consistent in that they do not present "works" but rather design "conditions of experience."
 
 <div class="mermaid">
 flowchart LR

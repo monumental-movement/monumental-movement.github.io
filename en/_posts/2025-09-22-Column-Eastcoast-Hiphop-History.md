@@ -39,7 +39,7 @@ color: #fff;
 
 * **Representative producers/DJ**: DJ Kool Herc, Grandmaster Flash, Afrika Bambaataa
 * **Major labels**: Sugar Hill Records, Def Jam (late 80's)
-* **Cultural Background**: Born out of the party culture of the Black and Latino communities in the Bronx. Rap, DJing, breakdance, and graffiti all came together to form a hip-hop culture.
+* **Cultural background**: Born out of the party culture of the Black and Latino communities in the Bronx. Rap, DJing, breakdance, and graffiti all came together to form a hip-hop culture.
 * **Video/Fashion**: Low-budget MV, Adidas, Kangol, and gold chains are symbolic.
 
 **Recommended albums**
@@ -47,7 +47,7 @@ color: #fff;
 | Album | Artist | Amazon link | Recommended points |
 |----------|-------------|-------------|----------------|
 | *Rapper"s Delight* (1979) | The Sugarhill Gang | [Amazon](https://amzn.to/4gxF3s2) | World"s first hit hip-hop single |
-| *Paid in Full* (1987) | Eric B. & Rakim | [Amazon](https://amzn.to/48s2voA) | A revolutionary work that revolutionized the flow of rap |
+| *Paid in Full* (1987) | Eric B. & Rakim | [Amazon](https://amzn.to/48s2voA) | A revolutionary piece that revolutionized the flow of rap |
 | *Criminal Minded* (1987) | Boogie Down Productions | [Amazon](https://amzn.to/46gSv0b) | Pioneer of hardcore and social realism |
 
 ---

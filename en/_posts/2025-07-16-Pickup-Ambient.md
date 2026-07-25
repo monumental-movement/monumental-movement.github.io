@@ -27,7 +27,7 @@ Released: 2012 (US label Kimochi)
 
 Format: Limited to 200 albums (Vinyl)
 
-Features: Works that combine deep grooves and spatial soundscapes
+Characteristics: Works that combine deep grooves and spatial soundscapes
 
 #### Tracklist
 ```md
@@ -126,7 +126,7 @@ Release: 1997
 
 Format: 12″
 
-Features: Experimental ambient trip-hop music from Denmark. Includes Luke Vibert (Wagon Christ) remix
+Features: Experimental ambient trip-hop music from Denmark. Also includes Luke Vibert (Wagon Christ) remix.
 
 #### Tracklist
 ```md

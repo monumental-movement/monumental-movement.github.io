@@ -66,7 +66,7 @@ We are used to seeing perfect images.
 That's why the unstable beauty created by JPEG corruption and signal noise feels somehow human.
 
 Glitch has also permeated fashion and advertising.
-The method of incorporating the disordered pixels into the design took the street culture by storm in the late 2010s as "broken design."
+The method of incorporating the disordered pixels into a design took the street culture by storm in the late 2010s as "broken design."
 We are finally able to enjoy the fact that it is not perfect, and that even digital has "noise".
 
 ---
@@ -77,7 +77,7 @@ So why are we attracted to "broken things"?
 Philosophically speaking, it is a yearning for the uncontrollable.
 
 Heidegger called the essence of technology the "disclosure of being."
-Glitch is exactly the moment when technology reveals its own "limitations" - in other words, the world rips apart.
+Glitch is exactly the moment when technology exposes its own "limitations" - in other words, the world rips apart.
 People find beauty in the "different order" that peeks through the gaps.
 
 Glitch is also an aesthetic of **generativity**.
@@ -138,7 +138,7 @@ Perhaps we live in this "bug-filled world".
 I"m sure I"ll become more and more attached to it.
 Because Glitch is who we are.
 A perfect and impossible existence. An existence that continues to move despite its contradictions and noises.
-Humans themselves are the biggest Glitch.
+Humans themselves are the biggest glitch.
 
 
 ---
@@ -172,11 +172,11 @@ It is a modern poem that attempts to exist beautifully despite the noise.
 
 flowchart TD
     A1990["1990: Experimental music using CD noise as material (Oval) appears"]
-    A1995["1995: Release of Ryoji Ikeda's "+/-" — Establishment of digital acoustic aesthetics"]
+    A1995["1995: Announcement of Ryoji Ikeda's "+/-" — Establishment of digital acoustic aesthetics"]
     A2000["2000: Clicks & Cuts movement start (Mille Plateaux)"]
     A2004["2004: Alva Noto & Ryuichi Sakamoto's "Vrion" released"]
     A2010["2010: Rosa Menkman"s "The Glitch Moment(um)' published"]
-    A2013["2013: Arca "&&&&&" announced — fusion of Glitch and physicality"]
+    A2013["2013: Arca's &&&&&' released — fusion of Glitch and physicality"]
     A2020["2020: Expanding the expression of "simulated bugs" in the age of AI art"]
     A2025["2025: Toward the Post-Glitch era—-Philosophy of error becomes everyday"]
 

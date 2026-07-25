@@ -195,7 +195,7 @@ First, the distribution model of the music industry. We have established a struc
 
 Second, the status of DJs as editors has improved. He has come to be recognized as a curator, not just a reproducer.
 
-Third, community-driven value formation. A different evaluation axis than charts and sales has been born.
+Third, community-driven value formation. A different evaluation axis than charts and sales has been created.
 
 Today, hand-editing and thematic mixes are gaining renewed attention as a counterculture to algorithm-driven recommendation systems.
 

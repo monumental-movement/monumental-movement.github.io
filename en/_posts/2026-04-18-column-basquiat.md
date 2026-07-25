@@ -22,7 +22,7 @@ Text: mmr | Theme: Jean-Michel Basquiat's production was shaped by a ""sampling 
 
 New York in the early 1980s. It is said that Jean-Michel Basquiat always had music playing in his Lower East Side studio. For him, sound was not just a background, but a device that determined the speed and structure of thought itself.
 
-Of particular importance was the music of bebop innovator Charlie Parker. Fast, fragmented phrases, sudden modulations, tensions between repetition and deviation. These clearly echo the fragments of language, layering of symbols, and improvised overwriting in Basquiat's paintings.
+Of particular importance was the music of bebop innovator Charlie Parker. Fast, fragmented phrases, sudden modulations, tensions between repetition and deviation. These clearly echo the fragments of language, layering of symbols, and improvisational overwriting in Basquiat's paintings.
 
 At the same time, he was deeply connected to the hip-hop culture that originated in the Bronx. Grandmaster Flash's turntable technology presented a new way of manipulating time, chopping up sounds, rearranging them, and updating their meaning. Basquiat transforms this into a visual method.
 
@@ -98,9 +98,9 @@ For Basquiat, who was active at the same time as the birth of hip-hop, this thou
 
 The city of New York itself was a huge soundscape for Basquiat. The noise of the subway, the buzz of the street, the bass of the club. All of them influence his production.
 
-He wasn't just listening to music, he was taking in the "sounds of the city." As a result, his works have strong noise-like elements. Jumbled placement of letters, repetition of lines, and visual noise.
+He wasn't just listening to music, he was taking in the "sounds of the city." As a result, his works have a strong noise-like element. Jumbled placement of letters, repetitive lines, and visual noise.
 
-This also resonates with hip-hop's loop structure. Minute changes accumulate in a certain rhythm.
+This also resonates with the loop structure of hip-hop. Minute changes accumulate in a certain rhythm.
 
 <div class="mermaid">
 flowchart TD

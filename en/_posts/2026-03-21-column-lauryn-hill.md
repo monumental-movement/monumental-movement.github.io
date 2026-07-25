@@ -79,7 +79,7 @@ For her, music is no longer a performance aimed at the outside world, but a mean
 
 ### Solo work concept
 
-Hill at this time was not just making his solo debut, but was also strongly facing the question of ""what should I say?'' The musical direction is based on hip-hop beats, while incorporating deep elements of soul and gospel.
+Hill at this time was not just making his solo debut, but was also strongly facing the question of "what to say." The musical direction is based on hip-hop beats, while incorporating deep elements of soul and gospel.
 
 The result was the 1998 album
 The Miseducation of Lauryn Hill.

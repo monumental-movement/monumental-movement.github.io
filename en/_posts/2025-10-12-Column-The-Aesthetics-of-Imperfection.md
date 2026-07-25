@@ -49,7 +49,7 @@ In the mid-2020s, the Y2K revival spread from fashion to music to internet cultu
 Among them, the term "Indie Sleaze" is once again in the spotlight.
 In the early 2000s, a party lit by digital camera flashes,
 Muses whose make-up is still ruined,
-An ambiguous romanticism that dwells in the image quality of MySpace.
+An ambiguous romanticism that resides in the image quality of MySpace.
 What was there was the truth because it was not in place.
 
 And in 2024, that "roughness" once again destroyed modern boredom.
@@ -66,7 +66,7 @@ Charli XCX's ""brat'' sublimated that feeling into pop music.
 
 ---
 
-## 2. "Brat" talks about the power of "imperfection"
+## 2. The power of "imperfection" as told by "brat"
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=SPGIqDcpE8WCczlC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

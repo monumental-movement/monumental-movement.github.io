@@ -107,7 +107,7 @@ Mortazavi's discography is a map of the evolution of his explorations. Below, we
 
 Released in 2010, this album is a symbolic departure for Mortazavi. Although it is a solo performance using only traditional instruments (tamback/duff), his technological innovation and sound design are already clearly imprinted. Each track features delicate, multi-layered rhythms that make full use of fingers, palms, and nails, giving the listener the illusion that a single instrument has multiple voices.
 
-What is noteworthy is that his style of hitting is not only fast, but also very dynamic. The resonance of a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. Every time his hands slide over the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
+What is noteworthy is that his style of hitting is not only fast, but also extremely dynamic. The resonance in a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. As his hands slide across the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
 
 Also, the recording/mixing of this album cannot be ignored. When his percussion instruments are recreated in space through a microphone, their echoes and reverberations are vividly captured, creating a soundscape that feels like listening to a microcosm.
 
@@ -164,7 +164,7 @@ Playing Mortazavi live is a very physical and spiritual experience. Every time h
 
 His playing mixes meditative, repetitive structures with fast, complex change patterns that often cause listeners to lose track of time. At the moment when the tempo slows down, the sound continues with reverberation, and these durations gradually overlap, creating resonance within the body. Conversely, when the rhythm suddenly accelerates, the audience's concentration peaks, leading them into a kind of trance-like state.
 
-A live experience like this is not just something you hear with your ears, but an experience that you ""feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse" at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
+A live experience like this is not just something you hear with your ears, but an experience that you can "feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse'' at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
 
 ---
 
@@ -172,7 +172,7 @@ A live experience like this is not just something you hear with your ears, but a
 
 Mortazavi has received international recognition for his skill, artistry, and innovation. In 2003, he won the **RUTH Newcomer Award**. He has also received a lot of interest from the media, and his style and philosophy have been featured in various outlets such as Germany's Deutschlandfunk, Pitchfork, Hardwax, and Boomkat.
 
-In particular, Pitchfork drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic precision and spiritual depth of his more than 30 new techniques.
+In particular, Pitchfork drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic sophistication and spiritual depth created by his more than 30 new techniques.
 
 Also, their physicality and spirituality are often emphasized in live reviews. Drummerszone and others have described in detail the striking points, hand parts, and resonance operations he uses, noting that his hands appear as if they were playing a "sound system."
 

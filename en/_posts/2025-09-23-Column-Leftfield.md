@@ -110,7 +110,7 @@ A. "Leftism" is the best place to start.
 ### summary
 
 
-Leftfield is an icon of UK electronica and synonymous with musical adventure. Although deviating from club culture, its intellectual and artistic spirit of experimentation continues to influence modern AI music and soundtrack production.
+Leftfield is an icon of UK electronica and synonymous with musical adventure. Although deviating from club culture, its intellectual and artistic experimental spirit continues to influence modern AI music and soundtrack production.
 
 
 ---

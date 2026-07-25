@@ -10,7 +10,7 @@ tags:
 - Lyric
 - Hiphop
 - Rap
-title: '[Column] Lyrics translation and cultural transfer issues: When words cross
+title: '[Column] Lyrics translation and cultural transfer issues: when words cross
   the border of music'
 ---
 
@@ -29,7 +29,7 @@ This transplant is not always successful. Rather, they are often distorted, miss
 
 In this article, we will view lyric translation from the perspective of ""cultural import,'' and will organize its historical development, theoretical framework, specific examples, and characteristics of its reception in Japan, based only on facts.
 
-> Lyrics translation allows musical borders to be crossed, but it does not erase cultural borders.
+> Lyric translation allows musical borders to be crossed, but it does not erase cultural borders.
 
 ---
 
@@ -67,7 +67,7 @@ In the field of lyrics translation, the choice between literal translation and l
 Literal translations are good at preserving meaning, but often lose rhythm and emotion.
 Parallel translations preserve the sense of hearing and emotion, but tend to deviate from the meaning of the original text.
 
-In particular, popular music has strong restrictions on melody and number of words, and the logic of prose translation does not apply.
+Particularly in popular music, there are strong restrictions on melody and number of words, and the logic of prose translation does not apply.
 The addition or subtraction of a single syllable disrupts the entire melody, forcing translators to constantly reduce and reconstruct meaning.
 
 In this process, the translator's own cultural understanding and value judgments inevitably intervene.
@@ -80,7 +80,7 @@ The resulting translated lyrics are a compromise between the original song and t
 ## Chapter 3 Translations that can be sung and "translations that cannot be sung"
 
 Lyric translations are divided into translations for reading and translations for singing.
-In the latter case, ease of pronunciation, vowel continuity, and accent position are important.
+In the latter case, ease of pronunciation, vowel sequence, and accent position are important.
 
 Japanese has a simple syllable structure and many vowels, making it difficult to reproduce the consonant sequence and stress structure of English.
 Therefore, when singing English lyrics in Japanese, the meaning of the words is often simplified or the grammar is rearranged.
@@ -97,7 +97,7 @@ As a result, Japanese lyrics tend to prioritize sound over meaning.
 After the war, with the spread of radio and records, a large amount of Western popular music flowed into Japan.
 During this period, many songs were introduced in their original language or with simple translations.
 
-On the other hand, there are many cases where it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
+On the other hand, in many cases it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
 These are not strictly translations, but cultural re-creations.
 
 The custom of ""Japanese lyrics that are separate from the original songs'' that was formed during this period had a long-lasting influence.
@@ -146,9 +146,9 @@ This has made hip-hop a special case of cultural import without any translation.
 
 ---
 
-## Chapter 8 Japanese rap and the opposite culture transfer
+## Chapter 8: Japanese rap and cultural import in the opposite direction
 
-The establishment of Japanese rap progressed not through translation of English lyrics, but through the transplantation of form and attitude.
+The establishment of Japanese rap progressed not through the translation of English lyrics, but through the transplantation of form and attitude.
 Here, the focus is on imitation and reconstruction rather than translation.
 
 In the process of adapting English prosody to Japanese, the unique Japanese sense of rhythm was emphasized and a new system of expression was born.
@@ -160,7 +160,7 @@ This is not a translation, but a localization of cultural transfer.
 
 ## Chapter 9 Lyric translation environment in the digital age
 
-With the spread of the Internet, anyone can instantly reference lyrics and translations.
+With the spread of the Internet, lyrics and translations can now be instantly referenced by anyone.
 There is a mix of official and unofficial translations, and interpretations are diversified.
 
 In this situation, there is no single correct answer, and it is assumed that multiple translations coexist.

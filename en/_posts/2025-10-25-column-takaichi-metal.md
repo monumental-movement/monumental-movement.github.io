@@ -114,7 +114,7 @@ flowchart TD
 
 </div>
 
-Within this structure, Mr. Takaichi plays with ""intellect that controls passion.''
+Within this structure, Takaichi plays with ""intellect that controls passion.''
 
 ---
 

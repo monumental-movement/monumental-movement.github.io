@@ -20,7 +20,7 @@ title: '[Column] Charles Manson and the 1960s: The intersection of ideals and co
 Text: mmr｜Theme: In the 1960s, when ideals and freedom reached their peak, deciphering the structure of madness that was born behind the scenes.
 
 
-The word 1960s brings to mind images of freedom, love, music, and liberation. Young people who sought to break away from existing values ​​questioned institutions such as the nation, family, and religion, and sought new ways of living.
+The word 1960s brings to mind images of freedom, love, music, and liberation. Young people who aimed to break away from existing values ​​questioned institutions such as the nation, family, and religion, and sought new ways of living.
 
 However, its brilliance was always based on balance. When social systems are shaken, people gain freedom, but at the same time they also face anxiety and confusion. Charles Manson was the person who absorbed and embodied that anxiety in an extreme way.
 
@@ -64,7 +64,7 @@ Furthermore, the rise of the civil rights movement, the violent backlash against
 
 ---
 
-## The formation of Manson: an entity emerging from the periphery
+## The formation of Manson: An entity emerging from the periphery
 
 ### Unstable childhood
 
@@ -132,7 +132,7 @@ This incident led to a major change in people's views on hippie culture. Communi
 
 The media covered this incident extensively, emphasizing the ""end of an ideal era.''
 
->One act of violence has rewritten the image of an entire era.
+>A single act of violence changed the image of an entire era
 
 ---
 
@@ -171,7 +171,7 @@ The Manson incident is being consumed not just as a crime, but as a ""story.'' N
 
 At the same time, his existence came to be talked about as a kind of myth, and influenced culture such as music and movies.
 
->Even though the incident is over, its image continues to be amplified in culture.
+> Even though the incident is over, its image continues to be amplified in culture.
 
 ---
 
@@ -181,7 +181,7 @@ After the Manson incident, American society rapidly turned toward realism. In th
 
 Although the counterculture did not disappear completely, its pure ideals were lost and it morphed into a more complex and multilayered form.
 
-> The ideal did not disappear, but instead transformed into a more cautious form.
+> The ideal did not disappear, but transformed into a more cautious form.
 
 ---
 

@@ -233,7 +233,7 @@ This idea is strongly connected to the ""controlled collapse"' in Richter"s late
 
 ### Morton Feldman《Rothko Chapel》(1971)
 
-This work was written for the chapel space of painter Mark Rothko.
+This work was written for painter Mark Rothko's chapel space.
 
 The music is extremely quiet, fragmented, and sustained. There is almost no clear melody or development.
 
@@ -268,7 +268,7 @@ What is especially important is that it is an act of ""causing" rather than ""dr
 
 Musically speaking, this process is more like ""setting up a generative environment'' than improvisation or composition.
 
-Richter's works are not completed drawings, but exist as traces of time.
+Richter's works exist not as completed drawings, but as traces of time.
 
 >A painting is not an image, but a surface on which time has accumulated.
 
