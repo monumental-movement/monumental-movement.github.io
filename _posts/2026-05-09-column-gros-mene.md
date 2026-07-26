@@ -568,3 +568,12 @@ SNS時代の音楽は、常時更新を求められる。
 > Gros Menéは、効率や洗練ではなく、“ロックがまだ危険だった感覚”を保存しているバンドなのである。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eU7DPNtsRf4?si=QwQ-U0Z2otweNaUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
