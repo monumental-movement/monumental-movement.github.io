@@ -4,7 +4,7 @@ title: "【コラム】 なぜ「Angine de Poitrine（アンジーヌ・ド・�
 author: mmr
 categories: [ Column ]
 tags: [ Improvisation, Experimental ]
-image: ../assets/images/column-why-angine -de-poitrine-feels-like-collective-improvisation.webp
+image: ../assets/images/column-why-angine-de-poitrine-feels-like-collective-improvisation.webp
 date: 2026-07-25 00:00:00 +0900
 ---
 
