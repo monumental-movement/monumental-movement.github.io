@@ -47,7 +47,7 @@ color: #fff;
 
 Her hometown is Orcas Island, Washington State, in the northwestern United States. During his childhood, he was homeschooled on this island and grew up surrounded by rich nature and tranquility.
 
-The breeze of the island, the rustling of the wind through the trees, the chirping of birds, the ripples of the water... these natural sensations and environmental sounds were instilled in her ears and body as she grew up.
+The breeze of the island, the rustling of the wind through the trees, the chirping of birds, the ripples of the water...these natural sensations and environmental sounds were instilled in her ears and body as she grew up.
 
 At the same time, he was exposed to traditional instruments such as the piano and guitar from an early age, and tried composing music, developing his sense of pitch and music. This environment of ""nature x traditional instruments x independent learning'' became the foundation for the later shift to modular.
 
@@ -59,7 +59,7 @@ These experiences provided her with the axes of "naturalness," "spatiality," and
 
 Growing up, she studied composition and sound theory at a music educational institution in the United States, and at the same time was active in a folk duo using guitar, voice, and piano.
 
-However, after leaving the confines of his student days and returning to his hometown, an unexpected change occurs: he encounters a Buchla 100 loaned to him by a neighbor. When she first picked up a modular synth, she saw it not as a "flimsy tool" but as a "co-star," "a living thing," and "an electric body."
+However, after leaving the confines of his student days and returning to his hometown, an unexpected change occurs: he encounters a Buchla 100 lent to him by a neighbor. When she first picked up a modular synth, she saw it not as a "flimsy tool" but as a "co-star," "a living thing," and "an electric body."
 
 Buchla's instability, manual patching, and unpredictable sound shifts - through such contingency and instability, she chooses to bring out "living sound," "vibration," "space," and "physicality" from the synth.
 
@@ -71,9 +71,9 @@ This transformation is the basis for all of his subsequent works.
 
 ## Early works and "Tides" — Prelude to modular
 
-Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he started recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
+Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he began recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
 
-This recording was later published in the form of Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
+This recording was later released as a work, titled Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sound/field recordings with modular electronic waveforms.
 
 At this stage, it has not yet created a huge sensation. However, the direction of "modular + natural sounds/environmental sounds + spatiality" was already clear, and the underlying feeling of her music was emerging.
 
@@ -95,7 +95,7 @@ The album *The Kid*, released in 2017, is a work that builds on her previous son
 
 The theme of this work is ""the life cycle from birth to death,'' and it combines a variety of sonic elements, including modular, orchestral, ethnic instruments, percussion, and voice, to create a dramatic and emotional composition.
 
-By portraying the innocence of newborns, the surge of growth, maturity and confusion, and the stillness of finality through the medium of electronic and organic sounds, the body, and space, the listener can feel a sense of "life" within the sounds.
+By depicting the innocence of newborns, the surge of growth, maturity and confusion, and the stillness of finality through the medium of electronic and organic sounds, the body, and space, the listener can feel a sense of "life" within the sounds.
 
 With this work, she went beyond the prejudice that ""electronic music = cold mechanical sound" and showed that ""electronic music can also depict human stories, emotions, and memories."
 
@@ -124,7 +124,7 @@ By mixing Buchla's electronic waveforms with the rustling of the forest, the sou
 The instability of Buchla, the manual nature of patching, the uncontrollable deviations and fluctuations - these are not welcomed as ""flaws", but rather as ""creative margins", ""unexpected chemical changes", and ""sound coincidences".
 
 - **Body sensation and vibration experience**
-Rather than thinking of sound as something you hear with your ears, we consider it something that you feel with your body and something that you experience as vibrations. Voice, breathing, movement, vibration - by connecting these with the electric vibrations of the synthesizer, music is expanded into a perception that uses not only the auditory sense but also the entire body.
+Sound is not viewed as something that is heard with the ears, but as something that is felt with the body and experienced as vibrations. Voice, breathing, movement, vibration - by connecting these with the electric vibrations of the synthesizer, music is expanded into a perception that uses not only the sense of hearing but also the entire body.
 
 - **Multiple layers of temporality, spatiality, and memory**
 Drones, undulations, pads, and field recordings extend time, thicken space, and create memories, emotions, and connections to nature in sound.
@@ -171,7 +171,7 @@ In this way, her sound has not evolved in a linear manner, but has continued to 
 
 ## Conclusion — Message to those who love Buchla
 
-Kaitlyn Aurelia Smith's journey has never been a technical experiment or a show-off of skill. Her goal is to create a rich and poetic ""world of sensations" that interweaves ""the body, nature, electricity, time, and space" through the ""technical device'' of a modular synth.
+Kaitlyn Aurelia Smith's journey has never been a technical experiment or a show-off of skills. Her goal is to create a rich and poetic ""world of sensations" that interweaves ""the body, nature, electricity, time, and space" through the ""technical device'' of a modular synth.
 
 If you love Buchla and modular synths not just as equipment, but as ""living sound vessels," ""vibrating bodies," and ""a mixture of chance and necessity,'' her work will serve as a guidepost for your exploration.
 

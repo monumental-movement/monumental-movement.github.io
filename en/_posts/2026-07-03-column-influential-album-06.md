@@ -28,7 +28,7 @@ But during that same period, another revolution was quietly and decisively under
 
 That is the **black music revolution**.
 
-In the past, R&B and soul were often talked about under the category of "black music." However, from the late 1960s onwards, they began to change from being just a single genre to one that determined the direction of popular music as a whole.
+In the past, R&B and soul were often talked about under the category of "black music." However, from the late 1960s onwards, they began to change from being just one genre to one that determined the direction of popular music as a whole.
 
 Much of today's music, including pop, hip-hop, R&B, house, techno, neo-soul, and even K-pop, is based on the ideas of black music.
 
@@ -198,7 +198,7 @@ is now called the "classic period."
 
 It took about two years to produce, and was recorded intermittently at multiple studios in Los Angeles.
 
-It was originally scheduled for release in 1975, but was postponed because Stevie himself prioritized perfection.
+It was originally scheduled to be released in 1975, but it was postponed because Stevie himself prioritized perfection.
 
 It is this uncompromising attitude that led to the overwhelming perfection of this work.
 
@@ -229,13 +229,13 @@ The "artist-producer" style that Prince, D'Angelo, and Kanye West would later ad
 
 ## The future opened by TONTO
 
-What is essential when talking about this work is the existence of the gigantic modular synthesizer **TONTO (The Original New Timbral Orchestra)**.
+What is essential when talking about this work is the existence of the huge modular synthesizer **TONTO (The Original New Timbral Orchestra)**.
 
 This system was developed by musicians and engineers Malcolm Cecil and Robert Margouleff, and was known at the time as one of the world's largest analog synthesizers.
 
 Stevie used this instrument not just as a special effect, but as a ""singing instrument.''
 
-Its soft string-like tones, rolling bass lines, and dreamy pads became the prototype for sound design that would later extend to synth pop, electro-funk, and modern R&B.
+Its soft string-like tones, rolling bass lines, and dreamy pads became the prototype for sound design that would later go on to synth pop, electro-funk, and modern R&B.
 
 <div class="mermaid">
 flowchart TD
@@ -260,7 +260,7 @@ E --> F
 
 The album includes odes to music, like ""Sir Duke," and songs about love for family, like ""Isn't She Lovely."
 
-On the other hand, ""Village Ghetto Land" looks deeply at urban poverty and inequality, and ""Pastime Paradise" takes a deep look at society and the human condition.
+On the other hand, ""Village Ghetto Land" takes a deep look at urban poverty and inequality, and ""Pastime Paradise" takes a deep look at society and the human condition.
 
 A look at personal happiness and society.
 
@@ -279,7 +279,7 @@ The recording time is over 100 minutes, and it has a scale that can be called a 
 
 However, even though it is such a large work, the level of completion is extremely high until the end.
 
-Up-tempo funk, warm ballads, songs with jazz elements, Latin rhythms, and gospel spirit naturally connect to form a flow that depicts a single life.
+Up-tempo funk, warm ballads, songs with jazz elements, Latin rhythms, and gospel spirit naturally connect to form a flow that depicts a life.
 
 This doesn't just mean that there are a lot of songs.
 
@@ -289,7 +289,7 @@ This doesn't just mean that there are a lot of songs.
 
 ## "Encyclopedia of Black Music"
 
-One of the reasons why this work is acclaimed as a historical work is that it condenses into a single work the main elements of black music that had been cultivated up to the 1970s.
+One of the reasons why this work is acclaimed as a historical work is that it condenses into a single work the main elements of black music that was cultivated up to the 1970s.
 
 <div class="mermaid">
 flowchart LR
@@ -310,7 +310,7 @@ F --> G
 
 </div>
 
-In other words, ""Songs in the Key of Life'' was not an album that perfected a single genre, but an album that integrated the entire history of black music up to that point.
+In other words, ""Songs in the Key of Life'' was not an album that perfected a genre, but an album that integrated the entire history of black music up to that point.
 
 That is why many musicians cite this work as a "textbook".
 
@@ -326,7 +326,7 @@ It received rave reviews from critics and won major categories at the Grammy Awa
 
 Stevie Wonder cemented his position as one of the most representative artists of the 1970s.
 
-Since then, this work has been selected in numerous rankings of ""best albums of all time,'' and is positioned as a monument not only in soul music, but in the history of popular music as a whole.
+Since then, this work has been selected in numerous rankings of ""best albums of all time,'' and is positioned as a monument not only in soul music but in the history of popular music as a whole.
 
 ---
 
@@ -347,7 +347,7 @@ As a typical example,
 
 Others have openly said that they were influenced by this work, or it is strongly reflected in their works.
 
-""Pastime Paradise" was later sampled on Coolio"s ""Gangsta"s Paradise" and became an iconic song in 1990s hip-hop history.
+""Pastime Paradise" was later sampled by Coolio on ""Gangsta's Paradise," and became an iconic song in 1990s hip-hop history.
 
 This work continues to be referenced today as the origin of not only soul, but also a wide range of genres such as R&B, hip-hop, pop, jazz, and gospel.
 
@@ -375,7 +375,7 @@ On the other hand, in this ranking, works that changed the paradigm of music his
 
 However, from the perspective of black music, this is one of the greatest albums of all time, and its cultural and musical influence is immeasurable.
 
-> **""'Songs in the Key of Life' integrates soul, funk, jazz, and gospel and elevates black music into a universal artistic expression.It is ranked No. 51 in this ranking as a historical masterpiece that laid the foundation for modern R&B, hip-hop, and pop.''**
+> **""'Songs in the Key of Life' integrates soul, funk, jazz, and gospel and elevates black music into a universal artistic expression.It is ranked #51 in this ranking as a historical masterpiece that laid the foundation for modern R&B, hip-hop, and pop.''**
 
 ---
 
@@ -397,7 +397,7 @@ Of course, there were works that dealt with social issues, but they were limited
 
 However, ""Innervisions'' depicts social realities such as poverty, drug addiction, racism, injustice, faith, and hope throughout one album.
 
-This is not just a "social album".
+This is not just a "social album."
 
 This was the decisive moment when black music evolved into an art form that reflected society itself.
 
@@ -407,9 +407,9 @@ This was the decisive moment when black music evolved into an art form that refl
 
 Following the huge success of 1972's Talking Book, Stevie Wonder released Innervisions the following year.
 
-During this period, he was at his most fulfilling both musically and spiritually.
+During this period he was at his most fulfilling both musically and spiritually.
 
-Instead of chasing commercial success, they had the freedom to pursue the world they truly wanted to express.
+Instead of pursuing commercial success, they had the freedom to pursue the world they truly wanted to express.
 
 The entire album is an extremely honest depiction of what one artist is feeling in this society right now.
 
@@ -421,7 +421,7 @@ In that sense, Innervisions is Stevie Wonder's most personal work, and at the sa
 
 In the early 1970s, the synthesizer was still seen as an experimental instrument.
 
-But Stevie used a giant modular synthesizer, **TONTO**, to transform it into an instrument that could express human emotions.
+But Stevie used a giant modular synthesizer, **TONTO**, to transform it into an instrument for expressing human emotions.
 
 It"s important to note that he didn"t use synthesizers as futuristic sound effects.
 
@@ -481,7 +481,7 @@ It is a dialogue between human desires, beliefs, fears, hopes, and self.
 
 ""Higher Ground" focuses on spiritual growth, and ""He's Mistra Know-It-All" offers a sharp critique of those in power.
 
-What makes Innervisions unique is the way that social commentary and personal spirituality coexist effortlessly in a single album.
+What makes Innervisions unique is that social commentary and personal spirituality coexist effortlessly in a single album.
 
 ---
 
@@ -585,7 +585,7 @@ At the same time, he utilized the synthesizer as an emotionally rich instrument 
 
 Many say that it is comparable to ""Songs in the Key of Life'' in terms of completeness.
 
-However, in this ranking, we place emphasis on the fact that ""Songs in the Key of Life"' is the culmination of Stevie Wonder"s creation and a work that integrates black music as a whole, and placed it one place below that at number 52.
+However, in this ranking, we place emphasis on the fact that ""Songs in the Key of Life"' is the culmination of Stevie Wonder"s creation and a work that integrates black music as a whole, and placed it one place below it at number 52.
 
 That said, if we look only at the history of black music, both works can be called twin masterpieces.
 
@@ -611,7 +611,7 @@ He transformed jazz from an "art of listening" to groove music that can be felt 
 
 ## Reinvention of jazz funk
 
-Herbie Hancock dismantled the traditional jazz context and boldly incorporated funk rhythms, electronic instruments, and repetitive structures.
+Herbie Hancock deconstructed the traditional jazz context and boldly incorporated funk rhythms, electronic instruments, and repetitive structures.
 
 Particularly symbolic is the minimal yet powerfully propulsive groove.
 
@@ -627,11 +627,11 @@ For the first time, jazz **acquired strong characteristics as dance music**.
 
 ""Chameleon,'' which opens the album, is a monumental piece of jazz-funk that lasts about 15 minutes.
 
-The structure, which begins with a simple bass line, overlaps synthesizers and keyboards, and gradually amplifies the layers of sound, was almost unheard of in jazz up until then.
+The structure, which starts with a simple bass line, synthesizers and keyboards overlap, and gradually amplifies the layers of sound, was almost unheard of in jazz up until then.
 
 The feature of this song is not "development" but "circulation".
 
-As the same riff is repeated, subtle changes accumulate, leading the listener to a trance-like feeling.
+As the same riff is repeated, subtle changes accumulate, leading the listener into a trance-like feeling.
 
 This method was later
 
@@ -680,7 +680,7 @@ For the first time, a sound image that completely matched this urban image was e
 
 ""Head Hunters'' was an unusual commercial success for a jazz work.
 
-At the time, it was rare for a jazz album to be widely accepted on the pop charts, and this success was a major breakthrough in genre boundaries.
+At the time, it was unusual for a jazz album to be widely accepted on the pop charts, and this success was a major breakthrough in genre boundaries.
 
 It's not just a hit.
 
@@ -731,7 +731,7 @@ However, in this ranking, works that directly changed the structure of a broader
 
 Still, it remains "one of the biggest turning points" in jazz history, and continues to underlie modern music.
 
-> **"'Head Hunters' connects jazz to the club and establishes a new musical language centered on repetition and groove. As the origin of hip-hop and electronic music, it ranks No. 53 in this ranking."**
+> **"'Head Hunters' connects jazz to the club and establishes a new musical language centered on repetition and groove. As the source of hip-hop and electronic music, it ranks No. 53 in this ranking."**
 
 ---
 
@@ -743,7 +743,7 @@ Still, it remains "one of the biggest turning points" in jazz history, and conti
 
 Released on July 11, 1972, Super Fly is more than just a movie soundtrack.
 
-This is a **social critique album** that sharply depicts the reality of American urban society while borrowing the framework of blaxploitation films.
+This is a **social criticism album** that sharply depicts the reality of American urban society while borrowing the framework of blaxploitation films.
 
 Until then, film music had basically been an aid to the images.
 
@@ -763,7 +763,7 @@ He has been deeply involved in the civil rights movement since the 1960s, and ha
 
 What is depicted here is the reality of drugs, poverty, urban decay, and the human struggle to escape from it.
 
-However, the important thing is not to portray it as just a ""tragedy''.
+However, the important thing is not to depict it as just a ""tragedy''.
 
 He doesn't stop with criticism, but visualizes the structure itself as music.
 
@@ -797,7 +797,7 @@ These films featured the black community and depicted urban realities, violence,
 
 ""Super Fly'' is also in this vein, but there is a crucial difference.
 
-While movies tell a story visually, this album depicts the same social structure only through sound.
+While movies tell a story visually, this album **depicts the same social structure only through sound**.
 
 In other words, this work was not a supplement to the movie, but ""another story'' parallel to the movie.
 
@@ -807,7 +807,7 @@ In other words, this work was not a supplement to the movie, but ""another story
 
 His signature song "Freddie"s Dead" is a song that depicts the tragedy of a young man living in a poverty-stricken environment in the city.
 
-However, the tone is not one of emotional grief, but rather one of calmness and observation.
+However, the tone is not one of emotional grief, but rather calm and observational.
 
 This sense of distance is important, allowing the listener to understand **reality as a structure** rather than being swallowed up by emotion.
 
@@ -817,13 +817,13 @@ This had a great influence on later street depictions of hip-hop and the express
 
 ## Works that reduce the distance between music and society
 
-Curtis Mayfield's innovation was in turning music into an observation rather than an escape.
+Curtis Mayfield's innovation lies in the fact that he turned music into an observation rather than an escape.
 
 Until then, in popular music, one of the values ​​was to distance yourself from reality.
 
 However, ""Super Fly'' puts reality itself at the center of the music.
 
-As a result, soul music transcends entertainment and takes on the character of a social document.
+As a result, soul music transcends entertainment and takes on the character of social documentation.
 
 ---
 
@@ -856,9 +856,9 @@ In that sense, this work is one of the turning points in the history of black mu
 
 ## Why is it ranked 54th?
 
-""Super Fly'' brought social criticism and cinematic structure to soul music, and had a major influence on subsequent forms of hip-hop and contemporary R&B.
+""Super Fly'' brought social criticism and cinematic structure to soul music, and had a major influence on later hip-hop and contemporary R&B forms of expression.
 
-However, in this ranking, works that have changed the broader genre structure are ranked higher, so it was ranked 54th.
+However, this ranking ranks works that have changed the broader genre structure at the top, so it was ranked 54th.
 
 Nevertheless, this work remains an important reference point today as ""a definitive work that allowed music to speak about society.''
 
@@ -874,11 +874,11 @@ Nevertheless, this work remains an important reference point today as ""a defini
 
 There's a Riot Goin' On, released on November 1, 1971, occupies a unique place in the history of black music.
 
-Up until that point, Sly and the Family Stone had presented a celebratory, open-minded funk, as exemplified by ""Dance to the Music" and ""Everyday People."
+Until then, Sly and the Family Stone had presented a celebratory, open-minded funk, as exemplified by ""Dance to the Music" and ""Everyday People."
 
 However, in this work, that light is almost extinguished.
 
-What emerges instead is a heavy, sinking groove, a fragmented sound, and an extremely inward-looking worldview.
+What emerges is a heavy, sinking groove, a fragmented sound, and an extremely inward-looking worldview.
 
 This isn't just a change in style.
 
@@ -934,7 +934,7 @@ There is no cheering, no call and response.
 
 All there is is an atmosphere of near silence and an indifferent rhythm.
 
-This song depicts not a celebration of community, but the quiet division of families and relationships.
+This song depicts not a celebration of community, but the quiet division of family and human relationships.
 
 This depiction of "quiet decay" became the prototype for later introspective expression in R&B and neo-soul.
 
@@ -1119,7 +1119,7 @@ In America in the 1970s, black culture remained socially repressed.
 
 In this context, P-Funk did not depict the constraints of reality as they were, but instead expressed liberation by creating an "another universe" outside of them.
 
-This is a different method than directly conveying a political message, and is a more fundamental ""liberation through imagination.''
+This is a different method than directly conveying a political message, and is a more fundamental way of ""liberation through the imagination.''
 
 ---
 
@@ -1145,7 +1145,7 @@ It's not an escape.
 
 Rather, it was a strategy to augment reality.
 
-With this work, music has become a medium that can not only depict society, but also create a new world itself.
+With this work, music has become a medium that can not only depict society but also create a new world itself.
 
 ---
 
@@ -1153,7 +1153,7 @@ With this work, music has become a medium that can not only depict society, but 
 
 ""Mothership Connection'' is a historical work that redefined the concept of funk and had a huge influence on hip-hop and club culture.
 
-However, in this ranking, works that institutionalized the genre itself and works that brought about direct changes in music technology and industrial structure are placed higher, so it was ranked 56th.
+However, in this ranking, works that institutionalized the genre itself and works that directly brought about changes in music technology and the industrial structure are placed higher, so it was ranked 56th.
 
 Nevertheless, this work continues to have a strong influence today as a definitive work that expanded black music into a "cosmic imagination."
 
@@ -1165,7 +1165,7 @@ Nevertheless, this work continues to have a strong influence today as a definiti
 
 ## Maggot Brain
 
-### **"The moment when funk fell from the universe to the inside"**
+### **"The moment when funk fell from the universe to the inner world"**
 
 Released on July 12, 1971, Maggot Brain stands at the extreme of the funk genre of the period.
 
@@ -1185,7 +1185,7 @@ There is an anecdote told that the producer instructed him to play while imagini
 
 There's no rhythm or groove here.
 
-What is there is **extended sadness itself**.
+What exists is **extended sadness itself**.
 
 ---
 
@@ -1203,7 +1203,7 @@ This structure marks a pivotal shift in the history of funk.
 * Groove → Stillness
 * Group → Individual
 
-In other words, this work once "stops" the funk genre and exposes its inner emotional structure.
+In other words, this work puts the funk genre on hold and exposes its inner emotional structure.
 
 ---
 
@@ -1211,7 +1211,7 @@ In other words, this work once "stops" the funk genre and exposes its inner emot
 
 The guitar on ""Maggot Brain"' isn"t technical fast-playing or flashy phrases.
 
-In fact, it's the opposite: extremely stretched sounds, shaky vibrato, and blank spaces dominate.
+In fact, it's the opposite: extremely stretched out sounds, shaky vibrato, and blank spaces dominate.
 
 This "pause" is important.
 
@@ -1279,7 +1279,7 @@ Maggot Brain is not an evolution of funk.
 
 Rather, it is the ""inner landscape'' seen once the funk has collapsed.
 
-Funk, the music of groove, has completely lost its groove here, and instead only the emotional density has been stretched to its limits.
+Funk, the music of groove, has completely lost its groove here, and instead only the emotional density is stretched to its limits.
 
 This paradox is the essence of this work.
 
@@ -1293,7 +1293,7 @@ However, in this ranking, works that redefined the genre structure itself are pl
 
 Nevertheless, this work stands alone as the "culmination of internalization" in the history of black music.
 
-> **"'Maggot Brain' turns the emotion itself into music by collapsing funk. It is ranked 57th in this ranking as the pinnacle of inner expression in black music."**
+> **"'Maggot Brain' turns the emotion itself into music by collapsing funk. We rank it at number 57 in this ranking as the pinnacle of inner expression in black music."**
 
 ---
 
@@ -1305,7 +1305,7 @@ Nevertheless, this work stands alone as the "culmination of internalization" in 
 
 Voodoo, released on January 25, 2000, was a work that presented the ""completed form'' of neo-soul before the term was fully defined.
 
-D'Angelo purposefully dismantled the clarity and structure of R&B, pulling the music in a direction that was vaguer, slower, and heavier.
+D'Angelo deliberately dismantled the clarity and structure of R&B up until that point, pulling the music in a direction that was more vague, slower, and heavier.
 
 The result was neither a song nor a beat.
 
@@ -1335,7 +1335,7 @@ The most distinctive feature of ""Voodoo'' is its extreme sense of tempo.
 
 The drums drag back, the bass sinks to the ground, and the vocals float above it.
 
-Here, the very concept of "getting on the beat" becomes ambiguous.
+Here, the very concept of ""getting on the beat'' becomes ambiguous.
 
 Rather, what is important is
 
@@ -1430,7 +1430,7 @@ It becomes the basis for etc.
 
 ## Impact on subsequent
 
-Beyond its commercial success, ""Voodoo'' has been extremely influential musically.
+Beyond its commercial success, Voodoo has had an enormous musical impact.
 
 Representative artists who have been influenced include:
 
@@ -1488,7 +1488,7 @@ The focus here is not on the outside world.
 
 ## Inheritance from Voodoo's "silence"
 
-""Voodoo," which was featured in the previous work, presented a new groove concept of ""slowness," ""silence," and ""spatiality."
+""Voodoo", which was featured in the previous work, presented a new groove concept of ""slowness," ""silence," and ""spatiality."
 
 "Mama"s Gun" is an extension of that, but goes in a different direction.
 
@@ -1519,7 +1519,7 @@ This perspective fundamentally changed the "narrative structure" that had existe
 
 ## The floating time of "Didn"t Cha Know?"
 
-Their signature song "Didn"t Cha Know?" focuses on "swaying" rather than a clear beat.
+Their signature song "Didn"t Cha Know?" focuses on "fluctuation" rather than a clear beat.
 
 The rhythm does not progress, but drifts.
 
@@ -1556,7 +1556,7 @@ Erykah Badu's voice is not overly conditioned.
 
 Rather, it includes elements such as breathing, shaking, and even noise.
 
-This is an aesthetic that is at the opposite end of the spectrum from digital perfection, and the performances by Questlove, James Poyser, and others are similarly premised on a ""human oscillation''.
+This is an aesthetic that is the opposite of digital perfection, and the performances by Questlove, James Poyser, and others are similarly premised on a ""human oscillation''.
 
 This approach would become an important foundation for later R&B.
 
@@ -1631,7 +1631,7 @@ Neo-soul, represented by ""Voodoo" and ""Mama's Gun," perfected its aesthetic in
 * Introspective lyrics
 * Vivid performance
 
-However, after that, neo-soul gradually lost its definition as a genre.
+However, after that, neo-soul gradually lost its definition as a "genre".
 
 And what appeared after that disappearance was ""Channel Orange.''
 
@@ -1643,7 +1643,7 @@ The biggest feature of this work is that there is no clear genre structure.
 
 song by song
 
-*R&B
+* R&B
 * Seoul
 * Electro
 *Hip hop beat
@@ -1695,14 +1695,14 @@ etc. have a major impact.
 
 ## "Degenreization" of black music
 
-The significance of Channel Orange is not its fusion of genres.
+The significance of ""Channel Orange'' is not its fusion of genres.
 
 Rather, it is an invalidation of the very framework of genre.
 
 Until then, black music
 
 * Seoul
-*R&B
+* R&B
 * Funk
 * Neo Soul
 *hip hop
@@ -1752,7 +1752,7 @@ In other words, ""Channel Orange" changed R&B from a ""genre" to an ""emotional 
 
 ## Position in music history
 
-""Channel Orange'' functions as a final stop in the long history of black music.
+""Channel Orange'' serves as a final stop in the long history of black music.
 
 * The physicality of the soul
 * Neo Soul Introspection
@@ -1777,7 +1777,7 @@ Nevertheless, this work is a symbolic work that marks the transition of black mu
 
 ### Next preview (Part 7: Institutionalization of electronic music and the birth of post-clubs)
 
-The innovations in jazz-funk and black music in the 1970s eventually spilled into the new space of the club, creating an era of "institutionalized electronic music" such as techno, house, and bass music.
+The innovations in jazz funk and black music in the 1970s eventually spilled into the new space of the club, creating an era of "institutionalized electronic music" such as techno, house, and bass music.
 
 ---
 

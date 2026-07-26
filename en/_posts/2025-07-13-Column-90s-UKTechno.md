@@ -27,7 +27,7 @@ In the 1990s, techno deepened and mutated in sound and spirit, like a child born
 <hr>
 
 ### Fusion of rave culture and underground
-Following the ""Second Summer of Love"' in 1988, the UK was engulfed in an explosion of acid house and rave. In the aftermath, various subspecies of hardcore, breakbeat, and techno grew underground in the early "90s.
+Following the ""Second Summer of Love"' in 1988, the UK was engulfed in an explosion of acid house and rave. In the aftermath, various sub-variants of hardcore, breakbeat, and techno grew underground in the early "90s.
 
 On the other hand, the end of the Thatcher government and widening economic disparity caused young people's dissatisfaction and rebelliousness to be imprinted in music. UK techno was not just dance music, it was also a social movement armed with sound systems and illegal raves.
 
@@ -188,4 +188,4 @@ Techno created poetry from the reverberations of industry, presenting an aesthet
 
 🔗 [[Column] Luke Slater: The pioneer of British techno and his musical world](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)

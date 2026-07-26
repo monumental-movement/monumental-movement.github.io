@@ -48,7 +48,7 @@ The basic unit of electronic rhythm design is 16 steps, which are divided into 1
 
 ### 4/4・16 steps basic layout example
 
-The most basic structure is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
+The most basic arrangement is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
 
 Accent design does not require all notes to be played at the same intensity. By simply making the first beat of the kick the strongest and the third beat a little weaker, you can create a sense of front and back in the flow of time.
 
@@ -201,7 +201,7 @@ Emphasis on backbeats and fluctuations derived from samples. The texture of the 
 
 Structural complexity and asymmetric design. Discrepancies in the period and irregular time signatures disturb the sense of time.
 
-> Genre is a collection of rhythm design ideas.
+> A genre is a collection of rhythm design ideas.
 
 ---
 
@@ -237,7 +237,7 @@ In TR thinking, first place the kick on the 1st, 5th, 9th, and 13th steps, and t
 
 In piano roll thinking, you visually align the starting points and lengths of the notes, but intentionally move some of them forward or backward. The completed form will be a time structure that visualizes the design intent as it is.
 
-Even with the same 16 steps, if your starting point is different, the texture of the completed rhythm will vary greatly.
+Even with the same 16 steps, if the starting point of thought is different, the texture of the completed rhythm will vary greatly.
 
 > The interface is a type of thinking, not a method of rhythmic input.
 
@@ -248,7 +248,7 @@ Even with the same 16 steps, if your starting point is different, the texture of
 * 1960s: Introduction of mechanical time
 * 1970s: Establishment of repetitive structure
 * 1980s: Popularization of 16-step design
-* 1990s: Misalignment and human feel
+* 1990s: Misalignment and human feeling
 * 2000s: Software abstraction
 * 2010s and beyond: Design as aesthetics
 
@@ -288,7 +288,7 @@ B[step base] --> D[Design derived time]
 
 Differences in rhythm programming arise from the designer's thinking type rather than technical differences.
 
-### Performance designer
+### Performance pattern designer
 
 He is the type who constructs rhythms based on his physical sensations, and the deviations and dynamics arise spontaneously. It goes well with MPC thinking.
 
@@ -308,11 +308,11 @@ One type is not better than the other. The important thing is to be aware of you
 
 ## Final chapter: Thoughts on rhythm design
 
-Rhythm programming is not a matter of arranging sounds. This is the act of designing an experience based on how the auditory sense of time is perceived.
+Rhythm programming is not a matter of arranging sounds. This is the act of designing an experience based on how the sense of hearing perceives time.
 
-Even as technology evolves, this essence remains the same. Rhythm is not the sound that is being played, but rather the structure itself, including the time when it is not playing.
+Even as technology evolves, this essence remains the same. Rhythm is not the sound that is being played, but the structure itself, including the time when it is not playing.
 
-> Rhythm programming is the idea of ​​designing time when you can't hear.
+> Rhythm programming is a way of thinking that designs time when you can't hear.
 
 ---
 

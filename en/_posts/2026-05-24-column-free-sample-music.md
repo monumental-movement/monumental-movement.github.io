@@ -17,7 +17,7 @@ title: '[Column] Free sample culture and the democratization of contemporary mus
 
 ## Introduction
 
-Text: mmr | Theme: Music production, which once required expensive equipment and specialized knowledge, has transformed into a creation that anyone can participate in thanks to free sample culture. Tracing the history of that revolution
+Text: mmr｜Theme: Music production, which once required expensive equipment and specialized knowledge, has changed into a creation that anyone can participate in thanks to free sample culture. Tracing the history of that revolution
 
 <style type="text/css">
 
@@ -41,7 +41,7 @@ I needed a synthesizer.
 
 The act of making records in the 1970s and 1980s was a much more closed world than it is today.
 
-However, the situation has changed significantly since the beginning of the 21st century.
+However, the situation has changed dramatically since the beginning of the 21st century.
 
 One laptop.
 Free DAW.
@@ -94,7 +94,7 @@ F --> G[Music spread in the SNS era]
 
 The origins of sampling culture date back to before Hip Hop.
 
-In the 1940s and 1950s, electronic and musique concrète composers cut and pasted tape to reconstruct sounds.
+In the 1940s and 1950s, electronic music and musique concrète composers cut and pasted tape to reconstruct sounds.
 
 At this point, the idea of ​​treating recorded sounds as ""performance materials'' already existed.
 
@@ -148,7 +148,7 @@ However, the equipment at that time was expensive.
 
 In other words, although the sampling culture of this era was the ""gateway to democratization,'' it had not yet been fully opened.
 
-> Sampling changed from a ""technique to reuse sound" to a ""new creative method."
+> Sampling changed from a ""technique for reusing sounds" to a ""new creative method."
 
 ---
 
@@ -369,7 +369,7 @@ mindmap
     Cloud Rap
 </div>
 
-> Bedroom Producer culture has increasingly prioritized ""individuality" over ""professional quality."
+> The Bedroom Producer culture has increasingly prioritized ""individuality" over ""professional quality."
 
 ---
 
@@ -448,11 +448,11 @@ Anime sample.
 
 Everything starts to mix together.
 
-A large amount of ""unfinished experiments'' that were difficult to occur in the traditional label-driven format were released.
+A large number of ""unfinished experiments'' that were difficult to occur in the traditional label-driven format were released.
 
 This was extremely important.
 
-This is because much of contemporary music is born out of this "experimental space."
+This is because much of contemporary music is born from this "experimental space."
 
 ### Hyperpop and sample feeling
 
@@ -580,7 +580,7 @@ D --> E[Re-edit]
 E --> F[Rediffusion]
 </div>
 
-> In the age of social media, music is increasingly consumed as ""fragments that can be spread easily" rather than ""finished works."
+> In the age of social media, music is increasingly consumed as ""fragments that can be easily spread" rather than ""finished works."
 
 ---
 

@@ -102,7 +102,7 @@ Impressiveness is not created by increasing the sound.
 
 Creating an overwhelming presence by designing the space.
 
-This idea had a huge influence on later minimal house, techno, and UK bass music.
+This idea had a major influence on later minimal house, techno, and UK bass music.
 
 ---
 
@@ -783,7 +783,7 @@ This idea had a strong influence not only on industrial rock acts such as Marily
 
 Trent Reznor later became highly regarded as a film composer.
 
-Its origin is already in ""The Downward Spiral.''
+Its origins are already in ""The Downward Spiral.''
 
 Create space.
 
@@ -1018,7 +1018,7 @@ Folk music.
 
 Movie fragment.
 
-By overlapping them, we construct one huge urban space.
+By overlapping them, we will construct one huge urban space.
 
 This was a method that should be called ""acoustic architecture'' rather than music.
 
@@ -1294,7 +1294,7 @@ Send sound all over the world while operating them in real time.
 
 Electronic music is no longer ""music that is edited later," but ""music that is generated in the moment."
 
-This is also the basic idea of ​​today's live electronics.
+This is also the basic philosophy of today's live electronics.
 
 ---
 
@@ -1369,7 +1369,7 @@ Its influence has led to 21st century music culture, including live streaming, r
 
 In this ranking, ""Lifeforms" (78th place) and ""Dead Cities" (97th place) are ranked higher as works that are more representative of FSOL's musical innovation, so they are ranked 99th. However, ""ISDN" has extremely important meaning as an experiment that was ahead of its time by ""incorporating communication itself into musical expression."
 
-> **"ISDN ushered in live electronics in the network era and turned music into a 'communicated event.' Due to its historical significance, it is ranked 99th in this ranking."**
+> **"ISDN ushered in live electronics in the network era and turned music into a ""communicated event." Due to its historical significance, it is ranked 99th in this ranking."**
 
 ---
 
@@ -1388,7 +1388,7 @@ Techno in the 1990s depicted the future.
 
 Electronica in the 2000s depicted space.
 
-However, what ""Immunity'' depicts is the daily life of humans.
+However, ""Immunity'' depicts the daily lives of people.
 
 morning.
 

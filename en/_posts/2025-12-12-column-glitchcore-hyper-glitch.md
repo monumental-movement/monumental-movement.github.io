@@ -19,8 +19,8 @@ title: '[Column] Glitchcore / Hyper-Glitch Pop continues to break down, the futu
 
 Text: mmr｜Theme: Glitchcore/Hyper-Glitch's formation process, acoustic techniques, cultural background, representative artists, development in the 2020s, and future prospects
 
-Glitchcore and Hyper-Glitch are a trend in Internet-generated pop/electronic music that has been occurring since the late 2010s, with "corruption," "fragmentation," and "overload" at the center of its aesthetic.
-Clicks, noise, digital distortion, pitch shifts, Vocaloid-like processing, rapid song development, bizarre tempo fluctuations -- the most distinctive feature of this album is that it attempts to express a ""balance between excess and decay'' by fusing these elements in a highly pop context.
+Glitchcore and Hyper-Glitch are trends in Internet-generated pop/electronic music since the late 2010s that place "corruption," "fragmentation," and "overload" at the center of their aesthetics.
+Clicks, noise, digital distortion, pitch shifts, Vocaloid-like processing, rapid song development, strange tempo fluctuations -- the most distinctive feature of this album is that it attempts to express a ""balance between excess and decay'' by fusing these elements in a highly pop context.
 
 Acts such as SOPHIE, A. G. Cook, and 100 gecs took this "broken pop" to an international level, proving that many artists could "create a global musical language from their own rooms" through DAWs and sample packs.
 
@@ -46,13 +46,13 @@ color: #fff;
 
 The idea of ​​glitch itself goes back to the aesthetics presented by electronica in the late 1990s (Oval, Alva Noto, Ryoji Ikeda, etc.). He treated CD reading errors and digital signal malfunctions as musical materials, and actively cited the ""aesthetics of failure.''
 
-Glitch music from this era was more experimental, with an emphasis on texture, space, and structure rather than rhythm. On the other hand, later Glitchcore differs decisively in that it is strongly connected to popular pop and Internet culture.
+Glitch from this era was more experimental, with an emphasis on texture, space, and structure rather than rhythm. On the other hand, later Glitchcore differs decisively in that it is strongly connected to popular pop and Internet culture.
 
 ---
 
 ### 1-2 Internet ecosphere and aesthetics of overload
 
-In the late 2010s, the interconnectedness of TikTok, SoundCloud, Discord, Bandcamp, and YouTube gave a strong boost to artists who create and distribute alone. As the culture of instant consumption and high-speed editing through smartphones has become widespread, listeners have become accustomed to "fragments," "short lengths," "excessiveness," and "rapid change."
+In the late 2010s, the interconnectedness of TikTok, SoundCloud, Discord, Bandcamp, and YouTube gave a strong boost to artists who create and distribute alone. As the culture of instant consumption and high-speed editing via smartphones has become widespread, listeners have become accustomed to "fragments," "short lengths," "excessiveness," and "rapid change."
 
 This environment created a fertile ground for music to demand speed, destruction, and the proliferation of information, and it can be said that Glitchcore naturally arose as a result.
 
@@ -62,7 +62,7 @@ This environment created a fertile ground for music to demand speed, destruction
 
 PC Music (from London), to which SOPHIE, A. G. Cook, and GFOTY belonged, had been presenting "hyper pop" (later referred to as Hyperpop) since the early 2010s. Extreme pitch processing, artificial textures, and plastic, unrealistic sound design were direct influences on Glitchcore.
 
-SOPHIE"s sharp sounds, the materiality of synths, the coexistence of destructive sounds and pop melodies became the basis of Glitchcore"s production method itself.
+SOPHIE"s sharp sounds, the materiality of synths, and the coexistence of destructive sounds and pop melodies became the basis of Glitchcore"s production method itself.
 
 ---
 
@@ -70,7 +70,7 @@ SOPHIE"s sharp sounds, the materiality of synths, the coexistence of destructive
 
 ### 2-1　Fast tempo and fragmentation
 
-Glitchcore's BPM is not fixed and often fluctuates over a wide range of 100-180 BPM. Furthermore, the BPM changes suddenly in the middle of the song, and there are compositions that rapidly switch between multiple genres within a single song.
+Glitchcore's BPM is not fixed and often fluctuates over a wide range of 100-180 BPM. Additionally, the BPM changes suddenly in the middle of the song, and the song rapidly switches between multiple genres.
 
 **Characteristic elements:**
 
@@ -152,7 +152,7 @@ Dylan Brady"s solo work was even more trap-heavy, extending Hyper-Glitch"s more 
 
 ### 3-4 Laura Les (solo name)
 
-Laura Les' voice became the ""symbol of high-pitched voices'' in Glitchcore, and also influenced sped-up music culture.
+Laura Les' voice became the ""symbol of the high-pitched voice'' of Glitchcore, and also influenced sped-up music culture.
 
 ---
 
@@ -185,12 +185,12 @@ Example method:
 
 ### 4-2 Aesthetics as "overloaded mix"
 
-In Hyper-Glitch's case, mixes are not about ""setting up," but about ""building while destroying."
+In Hyper-Glitch's case, the mix is ​​not about ""setting up," but about ""building while destroying."
 
 point:
 
 * Simultaneous firing of stems
-* Superposition of dense layers
+* Superimposition of dense layers
 * Excessive low range
 * Extreme use of sound pressure limiters
 
@@ -198,7 +198,7 @@ point:
 
 ### 4-3　Connection with visual culture
 
-音の「過負荷」はビジュアル面でも反映される。
+The sonic "overload" is also reflected visually.
 MV/artwork has the following characteristics.
 
 * Cyber-like, fluorescent, saturated colors
@@ -213,8 +213,8 @@ MV/artwork has the following characteristics.
 
 <div class="mermaid">
 flowchart TD
-    A["Establishment of glitch aesthetics in the late 1990s (Oval, Alva Noto, etc.)"] --> B["Development of electronica and IDM in the early 2000s"]
-    B --> C["The rise of PC Music in the early 2010s (SOPHIE, A. G. Cook)"]
+    A["Establishment of glitch aesthetics in the late 1990s (Oval, Alva Noto, etc.)"] --> B["Early 2000s: Development of electronica and IDM"]
+    B --> C["The rise of PC Music in the early 2010s (SOPHIE, A.G. Cook)"]
     C --> D["2016-2018 Expansion of TikTok/SoundCloud/Discord culture"]
     D --> E["2019 100 gecs' 1000 Gecs' attracts attention"]
     E --> F["2020~2021 Glitchcore/Hyperpop established as an international genre"]
@@ -239,7 +239,7 @@ In the works of osquinn and glaive, delicacy and loneliness are presented as "br
 
 ---
 
-### 6-3　Subculture, anime, internet memes
+### 6-3 Subculture, anime, internet memes
 
 Another major feature is that anime-style expressions, Vocaloid culture, Internet memes, game sounds, etc. are actively cited.
 
@@ -328,7 +328,7 @@ AI facilitates ""large amounts of fragments," ""high-speed generation," and ""ou
 
 ## 11. Summary
 
-Glitchcore/Hyper-Glitch is not just a noise genre, but an innovative music trend that ""contains pop within destruction.''
+Glitchcore/Hyper-Glitch is not just a noise genre, but an innovative musical trend that ""contains pop within destruction.''
 
 * PC Music innovation
 * Genre breakthrough with 100 gecs

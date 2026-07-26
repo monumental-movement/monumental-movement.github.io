@@ -129,7 +129,7 @@ Les Dales Hawerchuk existed as an extension of this environment.
 
 The initial members included drummer Pierre Fortin and bassist Martin Bergeron.
 
-Charles Perron later joined the team, completing a typical lineup.
+Charles Perron later joined, completing a representative lineup.
 
 They didn't aim for refinement from the beginning.
 
@@ -268,7 +268,7 @@ This sense of balance has supported the sustainability of Les Dales Hawerchuk.
 
 ### Growth as a touring band
 
-During this period, they have become more active in festivals and live activities.
+During this period, they have become more active in festivals and live performances.
 
 Their appearances at rock festivals in Canada have increased, and their popularity as a live band has expanded.
 
@@ -456,7 +456,7 @@ But they continued.
 
 One of the reasons is that they did not try too hard to ""adjust to the times.''
 
-There was no sudden approach to trendy indie pop, nor was there a shift towards excessive electronic music.
+There was no sudden approach to trendy indie pop, and there was no progress toward excessive digitization.
 
 We just updated our own rock.
 

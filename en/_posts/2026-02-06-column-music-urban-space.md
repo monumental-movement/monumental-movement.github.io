@@ -187,7 +187,7 @@ Here, music defines the space first, followed by urban functions. Clubs were mor
 
 Detroit techno is an extension of the urban rhythms shaped by the automobile industry. Regular mechanical movements, wide roads, and the hollowing out that followed the population exodus fostered an inorganic and persistent sense of beat.
 
-Techno here became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
+Here, techno became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
 
 > Detroit's music preserves in sound the form of what the city has lost.
 
@@ -212,7 +212,7 @@ Urban structures directly determine the volume, repeatability, and environment i
 
 <div class="mermaid">
 flowchart LR
-A[on the street] --> B[hole]
+A[on the road] --> B[hole]
 B --> C[club]
 C --> D[online space]
 </div>
@@ -266,7 +266,7 @@ As land prices rise due to redevelopment, small-scale music spaces move to the p
 ---
 
 
-## Final Chapter: How does music depict the future of cities?
+## Final chapter: How does music depict the future of cities?
 
 Music records, critiques, and sometimes anticipates the city. As long as urban space continues to change, new music will continue to be born. Listening to music is the act of listening to the city's present and future at the same time.
 

@@ -19,7 +19,7 @@ title: '[Column] Zeni Geva – 30 years of history as the pinnacle of Japanese e
 
 Text: mmr｜Theme: Deciphering the evolution of sound where violence, precision, and structural beauty intersect
 
-Zeni Geva is a band that occupies a very unique position in the history of Japanese experimental noise rock/hardcore. Since their formation in 1987, their sound has been consistently violent, yet at the same time incredibly structured, encompassing precisely calculated mathematical rhythms. The wide-ranging sonic philosophy of leader **KK Null (Kazuyuki Kishino)** continues to form the core of the band, and has had a strong influence on the underground scene in Japan and abroad.
+Zeni Geva is a band that occupies an extremely unique position in the history of Japanese experimental noise rock/hardcore. Since their formation in 1987, their sound has been consistently violent, yet at the same time incredibly structured, encompassing precisely calculated mathematical rhythms. The wide-ranging sonic philosophy of leader **KK Null (Kazuyuki Kishino)** continues to form the core of the band, and has had a strong influence on the underground scene in Japan and abroad.
 
 Their music is layered with noise, metallic guitars, destructive drums, repetitive structures, and electroacoustic textures. The history of Zeni Geva, which has been active intermittently from the 1990s to the present, is extremely important as a nexus between Japanese noise culture and overseas underground.
 
@@ -54,7 +54,7 @@ The band's name is said to be derived from the word "Zeni" and the German word "
 - **How ​​to Kill (1987)**
 - **Vast Impotenz (1988/Cassette)**
 
-In their early works, while centered around noise rock and hardcore, we can already see the beginnings of the repetitive structures, destructive riffs, and mathematically irregular time signatures that would later become their hallmarks.
+In their early works, while centered on noise rock and hardcore, we can already see the beginnings of the repetitive structures, destructive riffs, and mathematically irregular time signatures that would later become their hallmarks.
 
 In 1988, **Mitsuru Tabata** joined the group, further increasing the quality of the guitars. Since then, Tabata has been the pillar of Zeni Geva's sound for a long time.
 
@@ -65,7 +65,7 @@ In 1991, Zeni Geva reached a major turning point. It is a collaboration with Ame
 
 ### "Total Castration (1991)"
 The first full-length album recorded by Albini.
-Zeni Geva"s violence and Albini"s dry, direct sound meshed perfectly, earning them strong reviews overseas.
+Zeni Geva"s violence and Albini"s dry, direct sound meshed perfectly, earning strong reviews overseas.
 
 ### "Desire for Agony (1993)"
 - Released from American label **Alternative Tentacles** (organized by Jello Biafra)
@@ -92,10 +92,10 @@ During this period, Zeni Geva's songs became longer and more structured, includi
 
 ### "10,000 Light Years (2001)"
 - Increased electronic textures
-- Noise/metallic guitar/unusual time signature/electronic sounds intertwine in multiple layers
+- Multi-layered combination of noise/metallic guitar/unusual time signature/electronic sounds
 - Zeni Geva as a sound sculpture, different from the 1980s-90s period
 
-The band reached musical maturity during this period, but at the same time, Null's solo activities and other projects increased, and the time between releases as a band became longer.
+The band reached its peak of musical maturity during this period, but at the same time, Null's solo activities and other projects increased, and the time between releases as a band became longer.
 
 ---
 
@@ -112,7 +112,7 @@ For Zeni Geva, the addition of Yoshida once again had a strong impact.
 
 ---
 
-## 5. Second period Zeni Geva (2010–): Re-evaluation and global re-attention
+## 5. Second period Zeni Geva (2010–): Re-evaluation and global renewed attention
 ### "Alive and Rising (2010)"
 - Live sound source from the 2009 lineup
 - Tatsuya Yoshida"s perverted drums and Null & Tabata"s guitar duel are spectacular
@@ -200,7 +200,7 @@ This is a trajectory in which the three elements continued to expand alternately
 
 They are a rare entity that has remained unrelated to commercial activities, yet continues to receive solid praise from underground music circles around the world. That is Zeni Geva, and at its core has always been KK Null's sonic philosophy.
 
-Even now, their music has not aged well, and it is clear that they even anticipated the framework of modern noise/metal/experimental music.
+Even now, their music has not gotten old, and it is clear that they were even ahead of the framework of modern noise/metal/experimental music.
 I hope this article provides an opportunity to rediscover Zeni Geva.
 
 ---

@@ -22,7 +22,7 @@ Text: mmr｜Theme: Rather than dismantling pop music, it is an attempt to contin
 
 Electro Pop Experimental is a general term for a musical trend that is based on the structure of pop music and actively integrates electroacoustic technology, visualization of the production process, visual expression, and self-calculating music production ideas. This field is not a single genre, but has been established as an intersection of multiple technological histories, production environments, visual cultures, and independent distribution networks.
 
-While conventional electropop has focused on ""familiarity," ""repeatable melodies," and ""danceability,'' experimental electropop is characterized by the fact that while maintaining these aspects, it incorporates tone generation, structural destruction, personality expression, and alteration of the creator into the music itself.
+While traditional electropop has focused on ""friendliness," ""repeatable melodies," and ""danceability,'' experimental electropop is characterized by the fact that while maintaining these, it incorporates timbre generation, structural destruction, personality expression, and a change in the creator into the music itself.
 
 ---
 
@@ -74,7 +74,7 @@ These will later serve as a basis for enhanced experimentation.
 * Sound image design that does not hide artificiality
 * Simultaneous visual expression and music production
 
-This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only act.''
+This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only activity.''
 
 ---
 
@@ -135,7 +135,7 @@ In electropop experimental music, the following elements work together, rather t
 * Live video
 * Fragmentary release of the production process
 
-These are designed to be part of the musical experience, rather than supplementary information about the song.
+These are designed to be part of the musical experience, rather than supplementary explanations of the songs.
 
 ---
 

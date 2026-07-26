@@ -19,7 +19,7 @@ title: '[Column] What is ambient music? Philosophy of "sounds that exist" rather
 
 Text: mmr｜Theme: Ambient, environmental music, electronic music culture theory
 
-Ambient is a genre of music that is not intended to be "actively listened to" by listeners, but rather to "exist in a space." He eliminates clear melodies and rhythms and instead uses sustained sounds (drones), environmental sounds (field recordings), and acoustic processing to construct auditory landscapes.
+Ambient is a music genre that is not intended to be "actively listened to" by listeners, but rather to "exist in a space." He eliminates clear melodies and rhythms and instead uses sustained sounds (drones), environmental sounds (field recordings), and acoustic processing to construct auditory landscapes.
 
 This genre is extremely philosophical music that stands on the border between music and art, sound and space, perception and consciousness.
 
@@ -167,7 +167,7 @@ Ambient music for relaxation and meditation.
 
 ### Ambient is spatial art
 
-Ambient music is not just background music, but is also deeply connected to the following ideas and artistic concepts.
+Ambient music is not just background music, it is also deeply connected to the following ideas and artistic concepts.
 
 **● Minimalism and Time Art**
 
@@ -205,7 +205,7 @@ Fusion with NFT art and generative music is also underway.
 
 Ambient is music that is not at the center of the music, but at the periphery. It is an art that deals not with melody or rhythm, but with the transformation of atmosphere, time, sensation, and consciousness.
 
-It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories. Rather than hearing it with your ears, it's a sound that you can feel in a space.
+It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories. Rather than hearing it with your ears, it's a sound that you can feel in the space.
 
 <hr>
 

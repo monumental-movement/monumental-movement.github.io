@@ -21,9 +21,9 @@ title: '[Column] Cultural history of scat singing: The moment when the voice bec
 
 Text: mmr｜Theme: The cultural history of the birth, spread, and renewal of scat singing, where the voice becomes rhythm and melody beyond words.
 
-Scat singing is a vocal expression that temporarily distances itself from meaningful language and sings improvisationally using syllables and onomatopoeia. This method of treating the voice itself as an instrument through melody, rhythm, timbre, and phrasing has been much more than just a singing technique in the history of jazz. It was an act that updated the very questions ""What is a singer?" and ""What role does the voice play?"
+Scat singing is a vocal expression that temporarily distances itself from meaningful language and sings improvisationally using syllables and onomatopoeia. This method of treating the voice itself as an instrument through melody, rhythm, timbre, and phrasing has been much more than just a singing technique in the history of jazz. It was an act that renewed the very questions of ""What is a singer?" and ""What is the role of the voice?"
 
-In early 20th century America, jazz was a music that was supported by the body and memory rather than sheet music. Improvisation was not an ornament, but a practice at the heart of music. Scat is a natural outcome of this improvisational nature that extends to the voice. By temporarily abandoning words that convey meaning, singers were able to stand on the same level as performers.
+In America in the early 20th century, jazz was a music that was supported by the body and memory rather than sheet music. Improvisation was not an ornament, but a practice at the heart of music. Scat is a natural outcome of bringing this improvisation to the voice. By temporarily abandoning words to convey meaning, singers were able to stand on the same level as performers.
 
 Developments in recording technology were also important. In the process of moving from wax cylinders to shellac discs, improvisation changed from a one-time event to something that is repeatedly listened to, analyzed, and imitated. Scat was also an extremely modern form of expression, where momentary flashes of inspiration became fixed as history.
 
@@ -53,7 +53,7 @@ In the work songs and field horrors sung on plantations in the American South, e
 
 In early 20th century vaudeville and music halls, it was common to sing with many meaningless syllables to attract the attention of the audience. Even in the early jazz vocal recordings that remain, the habit of breaking the endings of words and elongating syllables can be seen. These were the germs of the sensibility that would later become formalized as scat.
 
-> Scat was not a sudden invention, but the accumulation of a long practice of treating the voice as sound.
+> Scat was not a sudden invention, but the culmination of a long practice of treating the voice as sound.
 
 ---
 
@@ -115,7 +115,7 @@ flowchart LR
 
 ## Chapter 5 Modern Jazz and Introspection of Expression
 
-After the 1950s, the recording environment gradually became more stable, and it became possible to record minute differences in expression. Scat has come to be about quality over quantity and density over speed.
+From the 1950s onwards, the recording environment gradually became more stable, making it possible to record minute differences in expression. Scat has come to be about quality over quantity and density over speed.
 
 On Chet Baker's recordings, the scatting is almost a whisper. There are few syllables, and the breath placed at the end of the phrase plays an important role. Even silence functions as part of the improvisation.
 
@@ -127,7 +127,7 @@ On Chet Baker's recordings, the scatting is almost a whisper. There are few syll
 
 In the 1960s, studios served as laboratories for free jazz recording. Singers are freed from melodies and chord progressions and explore the possibilities of their voices themselves.
 
-One improvised take does not have a traditional chorus structure. The beginning begins with almost silent breaths, and gradually fricative sounds such as "ha" and "uh" are mixed in. There is no set tempo, and the voices appear intermittently in response to the flutter of the saxophone or the pounding of the drums.
+One improvised take does not have a traditional chorus structure. The beginning begins with almost silent breaths, and gradually fricative sounds such as "ha" and "uh" are mixed in. There is no fixed tempo, and the voices appear intermittently in response to the flutter of the saxophone or the pounding of the drums.
 
 Scat here is not a series of syllables, but a series of vocal acts themselves. The pitch is undefined, the vowels are distorted, and the breath invades the inside of the phrase. Through the recording, the voice emerges as a third entity that is neither a melodic instrument nor a percussion instrument.
 
@@ -137,11 +137,11 @@ Scat here is not a series of syllables, but a series of vocal acts themselves. T
 
 ## Chapter 7 Scat as a syllabic vocabulary
 
-Although the syllables used in scat may seem arbitrary, they actually have a certain functional tendency. Singers unconsciously select syllables that correspond to the way the instrument is played.
+Although the syllables used in scat may seem arbitrary, they actually have a certain functional tendency. Singers subconsciously select syllables that correspond to the way the instrument is played.
 
-"ba", "bop", and "da", which contain plosive sounds, are often used in situations where you want to make the attack clear. These produce an effect similar to the tonguing of a trumpet or saxophone. On the other hand, syllables such as "doo," "loo," and "la" that are centered around flowing sounds and vowels are suitable for legato phrases and sustaining intervals.
+"ba", "bop", and "da", which contain plosive sounds, are often used in situations where you want to make the attack clear. These produce an effect similar to the tonguing of a trumpet or saxophone. On the other hand, syllables such as ""doo", ""loo", and ""la'' that are centered around flowing sounds and vowels are suitable for legato phrases and sustaining intervals.
 
-The fricatives ""ske," ""sha," and ""tss"' often function as gaps or accents in the rhythm, and are highly compatible with drum hi-hats and brush playing. Scat"s vocabulary is chosen for its acoustic properties rather than its meaning.
+Fricatives such as ""ske," ""sha," and ""tss"' often function as gaps or accents in the rhythm, and are highly compatible with drum hi-hats and brush playing. Scat"s vocabulary is chosen for its acoustic properties rather than its meaning.
 
 > The scat syllables function not as words but as a performance technique.
 
@@ -161,11 +161,11 @@ Scat ideas have become widespread, from the light vocal improvisations of bossa 
 
 The reason Japanese speakers find scat difficult is not so much the technique but the structure of the language. Japanese language is centered around vowels, with few consecutive consonants and clear breaks between syllables. As a result, detailed rhythmic expressions using plosives and fricatives are difficult to embody.
 
-In addition, Japanese vocalizations have a strong connection between meaning and sound, and it is easy to feel psychological resistance to uttering meaningless syllables. Scat requires the courage not to say the syllable, and this feeling may be easier for non-native speakers to acquire.
+Furthermore, in Japanese vocalizations, meaning and sound are strongly linked, and it is easy to feel psychological resistance to uttering meaningless syllables. What scat requires is the courage not to say the syllable, and this feeling may be easier for non-native speakers to acquire.
 
 Looking back at the history of Japanese jazz vocals, singing with lyrics was accepted from an early stage, while instrumental scatting was treated with caution. Behind this is the difference in language and culture.
 
-> Learning scat begins not with vocal technique, but with updating one's view of language.
+> Acquiring scat begins not with vocal technique, but with updating one's view of language.
 
 ---
 
@@ -173,7 +173,7 @@ Looking back at the history of Japanese jazz vocals, singing with lyrics was acc
 
 The cultural history of scat singing is also a history of the possibilities of the voice. From language that carries meaning to pure materials that make up music. This shift shook the very values ​​of 20th century music.
 
-As long as the act of improvisation exists, the voice once again steps outside of meaning. Scat is not a technique of the past, but is always an ongoing question.
+As long as the act of improvisation exists, the voice once again steps outside of meaning. Scat is not a technique from the past, but is always an ongoing question.
 
 > As long as the voice is released as sound, the history of scat will never end.
 

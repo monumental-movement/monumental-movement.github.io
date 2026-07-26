@@ -18,9 +18,9 @@ title: '[Column] The illusion of EDM: Celebrating and rebuilding in the digital 
 ## There is a moment when sound becomes architecture
 
 
-Text: mmr | Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
+Text: mmr｜Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
 
-A flash of laser light splits the night sky, the bass shakes deep within its body, and countless arms raise in unison.
+A flash of laser light splits the night sky, the bass vibrates deep within its body, and countless arms raise in unison.
 The phenomenon called "EDM" was more than just a music genre, it was a celebration of the digital age.
 In the 2010s, cities around the world were reshaped by the sound. The desert of Las Vegas, the forests of Belgium, the bay of Tokyo.
 In this column, we will take a look at EDM's birth, transformation, and "beyond" from the intersection of sound, light, the body, and technology.
@@ -92,12 +92,12 @@ Everyone now knows these three initials.
 
 The stage is not just a set, but an **architectural installation**.
 A screen envelops the forest and fireworks weave the sky.
-The audience becomes "particles of light" and the sound and images are synchronized.
+The audience becomes "grains of light" and the sound and images are synchronized.
 EDM festivals were a new communal ritual created by technology.
 
 A sociologist would say this.
 "Democratization of the trance state"——
-We live in an era of pseudo-religious experiences where everyone shares the same heartbeat at the same moment.
+We live in an era of pseudo-religious experiences where everyone shares a heartbeat at the same moment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TT32mIg4oqg?si=VpULWMwV7C5zWKj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -120,7 +120,7 @@ Logos, perfumes, NFTs, headphones—all have become "industries surrounding soun
 ### Ⅵ. Branching and mutation: Post-EDM horizon
 
 Eventually, the celebrations start to wear out.
-People tired of the glare of the main stage began to return to dark clubs.
+People who were tired of the glare of the main stage began to return to the dark clubs.
 
 "Introspective EDM" demonstrated by Porter Robinson and Madeon——
 It wasn't a festival, it was a sound dealing with individual emotions.
@@ -155,7 +155,7 @@ Japanese EDM has taken on a new form: an introverted celebration.
 
 We have now entered an era where AI generates music in real time.
 Still, people still seek ""drops.''
-This is because there are moments when your body senses time.
+This is because there is a moment when your body senses time.
 
 DJs are no longer just "music selectors."
 He is a **manipulating composer** who reads the breathing of the crowd in real time.
@@ -232,7 +232,7 @@ flowchart TD
 ### Appendix C: Major DAW/Synth/Equipment List
 
 | Category | Name | Notes |
-| ----- | ------------------------ | ----------------------- |
+| ----- | ------------------------ | ------------------------ |
 | DAW | Ableton Live | Designed for live performance |
 | DAW | FL Studio | For beat-making-oriented, young producers |
 | DAW | Logic Pro | Integrated environment for composing/mixing |

@@ -48,7 +48,7 @@ There are two main parameters in the process (sampling) of dividing analog signa
 ### 2.2 12bit acoustic characteristics
 
 * **Quantization noise** tends to become apparent, especially for small signals.
-* **Midrange presence** (midrange emphasis) is relatively noticeable.
+* **Presence of midrange** (emphasis of midrange) is relatively noticeable.
 * Aliasing and coloring that occur during pitch shifting and sample rate conversion create a distinctive "grit".
 
 ### 2.3 Hardware factors
@@ -74,7 +74,7 @@ In the mid-to-late 1980s, semiconductor memory prices were orders of magnitude h
 * **Key features**: 8-track sequencer, filter (analog), individual outs
 
 **Design philosophy and features**
-The SP-1200 was designed with the time constraints of a sampler in mind, and is optimized for the workflow of "cutting and arranging short samples." Combined with internal analog circuitry, the result is a thick low-frequency range with a "roughness" or "undulation." Based on the specifications and E-mu"s technical documents from the time, it can be confirmed that the SP-1200"s A/D path and filter design contribute to the acoustic coloration.
+The SP-1200 was designed with the time constraints of a sampler in mind, and is optimized for the workflow of "cutting and arranging short samples." Combined with internal analog circuitry, the result is a thick low-frequency range with a "roughness" or "undulation." Based on the specifications and E-mu"s technical documentation from the time, we can confirm that the SP-1200"s A/D path and filter design contribute to its acoustic coloration.
 
 **Practical usage**
 
@@ -123,7 +123,7 @@ Although Mirage is not 12bit, it is highly influential as a low resolution sampl
 
 ## Chapter 5: Production workflow using 12bit sampler
 
-Here, a typical production flow assuming SP-1200 and MPC60 is listed in detail based on facts. The description focuses on procedures that match actual producer testimonies and equipment manuals.
+Here, a typical production flow assuming SP-1200 and MPC60 is enumerated in detail based on facts. The description focuses on procedures that match actual producer testimonies and equipment manuals.
 
 ### 5.1 Sampling procedure (SP-1200 type)
 
@@ -148,7 +148,7 @@ In the technical analysis section, the general frequency response of 12-bit equi
 
 ### 6.1 Frequency characteristics
 
-*SP-1200 uses 26.04kHz sampling, so the theoretical Nyquist frequency is 13.02kHz. The sound becomes "rounded" by lowering the high frequencies due to the actual low-pass characteristics and analog circuitry.
+*SP-1200 uses 26.04kHz sampling, so the theoretical Nyquist frequency is 13.02kHz. The actual low-pass characteristics and analog circuitry lower the high frequencies, giving the sound a "rounder" feel.
 * MPC60 uses 40kHz samples, so higher frequencies remain, but high-frequency resolution is limited due to 12-bit quantization.
 
 ### 6.2 Quantization noise
@@ -175,7 +175,7 @@ Low-resolution samples are effective for creating textures and were widely used 
 
 ## Chapter 8: Key artists and usage examples
 
-> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documents.
+> The following is an excerpt of usage examples based on factual information such as public interviews, credits, technical articles, and official documents.
 
 <div class="mermaid">
 
@@ -216,9 +216,9 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ---
 
-## Chapter 12: Summary and outlook
+## Chapter 12: Summary and Outlook
 
-The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace their roots, you always come back to these devices.
+The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to shape the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace the roots of this, you always come back to these devices.
 
 ---
 
@@ -231,7 +231,7 @@ The 12-bit sampler is a great example of how technical constraints can lead to i
 
 ---
 
-### Appendix: Functional relationship/workflow
+### Appendix: Functional relationships/workflow
 
 #### Workflow conceptual diagram
 

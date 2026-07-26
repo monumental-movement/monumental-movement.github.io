@@ -51,7 +51,7 @@ In the 1960s and 1970s, electronic music and pop became closer together. With th
 
 ### 1-3. Transformation after digital
 
-Since the 2000s, production environments using DAWs and laptops have become commonplace, and the degree of freedom in audio manipulation has increased dramatically. At the same time, an environment has been created where visuals and music can be consumed simultaneously through SNS and video platforms. Under these conditions, neo-futurism/avant-garde pop is possible.
+Since the 2000s, production environments using DAWs and laptops have become commonplace, and the degree of freedom in audio manipulation has increased dramatically. At the same time, an environment has been created in which visuals and music can be consumed simultaneously through SNS and video platforms. Under these conditions, neo-futurism/avant-garde pop is possible.
 
 ---
 
@@ -156,7 +156,7 @@ Extreme distortion and digital processing do not serve to hide emotions, but rat
 
 ## 10. Relationship between avant-garde pop and the market
 
-Neo-futurist expressions blur the boundaries between major and indie. In the streaming era, the avant-garde is no longer confined to a specific scene, as experimental works are simultaneously distributed globally.
+Neofuturist expressions blur the boundaries between major and indie. In the streaming era, the avant-garde is no longer confined to a specific scene, as experimental works are simultaneously distributed globally.
 
 
 The strength of the visuals increases the visibility of the work more than the music alone, resulting in the avant-garde content being widely shared. This structure itself is a characteristic of 21st century pop.

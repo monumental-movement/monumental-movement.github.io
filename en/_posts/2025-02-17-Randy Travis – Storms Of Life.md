@@ -16,9 +16,9 @@ title: Randy Travis – Storms Of Life
 
 Randy Travis is an American country singer and actor who has been active since 1979.
 
-Their debut studio album, Storms of Life, released in 1986, was a huge commercial success and made them famous. It has been certified as a triple platinum disc.
+Her debut studio album, Storms of Life, released in 1986, was a huge commercial success and made her famous. It has been certified as a triple platinum disc.
 
-Randy Travis is known as one of the people who contributed to the development of neo-traditional country, along with Reba McEntire, George Strait, Toby Keith, and others.
+Randy Travis is known as one of the people who contributed to the development of neo-traditional country, along with Reba McEntire, George Strait, and Toby Keith.
 
 
 #### Tracklist

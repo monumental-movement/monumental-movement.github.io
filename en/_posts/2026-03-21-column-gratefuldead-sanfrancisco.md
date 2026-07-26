@@ -74,7 +74,7 @@ Each member has a different background, and various elements such as blues, jazz
 
 ### Name changes and symbolism
 
-In the same year, the band changed to its current name. The name comes from American folklore and includes the motif of "giving back to the dead."
+In the same year, the band changed to its current name. The name comes from American folklore and includes the motif of "paying back the dead."
 
 This symbolism would later become deeply connected to their music and the spirituality of their community.
 
@@ -86,7 +86,7 @@ This symbolism would later become deeply connected to their music and the spirit
 
 ### Improvisation and Chaos
 
-On Acid Tests, the Grateful Dead dismantle traditional song structures. There is no set list, and the performance changes depending on the situation.
+On Acid Tests, the Grateful Dead dismantle traditional song structure. There is no set list, and the performance changes depending on the situation.
 
 The audience was also not a passive presence, but was involved in the music as part of the entire space.
 
@@ -126,7 +126,7 @@ Introduced in the 1970s, the ""Wall of Sound'' is a huge sound system that combi
 
 This system allowed the audience to receive the same acoustic experience no matter where they were. Sound is not just information, but an element that makes up the space itself.
 
->Sounds were not just a part of the music, but the music itself.
+> Sound was not just a part of the music, but the music itself.
 
 ---
 
@@ -142,7 +142,7 @@ Bands allow live recordings, and a culture develops where fans exchange recordin
 
 ### A community on the move
 
-Tours are more than just performances; they form a mobile community. A market will be born around the venue, and a unique economic zone will be formed.
+Tours are more than just performances; they form mobile communities. A market will be born around the venue, and a unique economic zone will be formed.
 
 > Deadheads were the bearers of culture, but also the creators.
 
@@ -154,7 +154,7 @@ Tours are more than just performances; they form a mobile community. A market wi
 
 Artists such as Jefferson Airplane and Janis Joplin were active around the same time, and the region as a whole was forming its own music scene.
 
-### Genre deconstruction
+### Genre Deconstruction
 
 Blues, folk, rock, and jazz merge, and existing classifications become meaningless. This freedom is the hallmark of the San Francisco sound.
 
@@ -225,7 +225,7 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[san francisco] --> B[counterculture]
+    A[san francisco] --> B[counter culture]
     B --> C[Grateful Dead]
     C --> D[improvisation]
     C --> E[dead heads]
@@ -245,3 +245,11 @@ Their activities blurred the boundaries between music, society, economy, and com
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GXE1w81eM8I?si=mOUA0bb39Uiis8Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

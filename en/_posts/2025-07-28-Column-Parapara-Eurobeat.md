@@ -28,7 +28,7 @@ There was a mix of factors such as not only musical characteristics but also clu
 <hr>
 
 ### What is Eurobeat? ─ Evolution of Italo Disco
-Eurobeat has its roots in "Italo Disco", which was born in Italy in the 1980s. Adding elements of high energy (Hi-NRG), the tempo changes to a catchy, synth-driven sound.
+Eurobeat has its roots in "Italo Disco", which was born in Italy in the 1980s. Adding elements of high energy (Hi-NRG) to this, the tempo changes to a catchy, synth-driven sound.
 
 ● Main musical characteristics
 
@@ -95,7 +95,7 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 
 - Distribution of choreography videos (VHS, later DVD)
 
-- Series such as ""Parapara Paradise" and ""Parapara Kyonen" are also available.
+- Series such as ""Parapara Paradise" and ""Parapara Kyōten" are also available.
 
 ● Media production
 
@@ -127,7 +127,7 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 
 ### Euro and Parapara were complicit
 Eurobeat and Parapara are not just a combination of music and dance.
-**They were strongly linked by common cultural codes such as ""repetitiveness," ""clear structure," ""collectiveness," and ""dramatic presentation."**
+**They were strongly linked by common cultural codes such as ""repetitiveness," ""clear structure," ""collectiveness," and ""dramatic production."**
 
 It was a perfect example of the phenomenon of ""music becoming culture through the body.''
 

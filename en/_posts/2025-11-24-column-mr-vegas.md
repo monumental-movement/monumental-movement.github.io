@@ -16,9 +16,9 @@ title: '[Column] Mr.Vegas──Dancehall ambassador who sings of tradition and i
 
 ## Prologue: Carrying the rhythm of Kingston
 
-Text: mmr｜Theme: Mr.Vegas's upbringing, main points of his career, representative songs, and his vision for the future
+Text: mmr｜Theme: Mr.Vegas' background, main points in his career, representative songs, and his vision for the future
 
-Clifford Smith, commonly known as **Mr.Vegas**, is a dancehall/reggae singer from Kingston, Jamaica, who has continued to have a strong influence and presence from the late 1990s to the present day. His music not only mirrors his own struggles and growth, but also reflects Jamaica's sound system culture, social messages, faith, and changing times.
+Clifford Smith, commonly known as **Mr.Vegas**, is a dancehall/reggae singer from Kingston, Jamaica, who has continued to have a strong influence and presence from the late 1990s to the present day. His music not only reflects his own struggles and growth trajectory, but also reflects Jamaica's sound system culture, social messages, beliefs, and changing times.
 
 ---
 
@@ -41,9 +41,9 @@ color: #fff;
 - **Real name/birth**
 Mr.Vegas' real name is **Clifford Smith**. Born September 29, 1974 in Kingston, Jamaica.
 - **Nickname "Mr. Vegas"**
-As a child, she played soccer in pink shorts at school, and her classmates compared her to a "Vegas girl." The nickname "Mr.Vegas" was adopted as his stage name.
+As a child, she played soccer in pink shorts at school, and her classmates compared her to a "Vegas showgirl." The nickname "Mr.Vegas" was adopted as his stage name.
 - **Encounter with music**
-From an early age, he was influenced by the local sound system culture and grew up surrounded by music, performing at local parties.
+From an early age, he was influenced by the local sound system culture and grew up familiar with music, performing at local parties.
 
 ### 1.2 Jaw injury and first hit "Nike Air"
 - **Significant Event**
@@ -51,11 +51,11 @@ When he was young, he was hit in the face and broke his jaw during a dispute ove
 - **Recording and turning point**
 Recorded ""Nike Air'' with a producer, even with his jaw wired. This became his first major success song.
 - **Voice characteristics**
-As a result of his jaw injury and treatment, he has developed a unique intonation and sharp voice, which has become his character vocal.
+Due to his jaw injury and treatment, he has developed a unique intonation and sharp voice, which has become his character vocal.
 
 ---
 
-## Chapter 2: Breakout and International Success (1997–2004)
+## Chapter 2: Breakthrough and International Success (1997–2004)
 
 ### 2.1 "Nike Air" and cultural impact
 - It became a big hit in Jamaica from the time it was released, making Mr.Vegas an artist to watch.
@@ -87,7 +87,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 ## Chapter 3: Maturity and diversity (2005–2012)
 
 ### 3.1 Genre expansion
-- The album "Hot It Up" (2007) focuses on uptempo dancehall songs.
+- The album "Hot It Up" (2007) focuses on up-tempo dancehall songs.
 - Try out soca and gospel songs to expand your artistic ability and message.
 
 ### 3.2 Temporary retirement and regression
@@ -95,7 +95,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 - However, he did not completely retire and continued to collaborate with Major Lazer and others.
 
 ### 3.3 Establishment of independent label and "Sweet Jamaica"
-- Established his own label **MV Music**.
+- Founded his own label **MV Music**.
 - Released the album "Sweet Jamaica" (2012) as a two-disc set. Contains classic reggae covers and dancehall songs.
 
 ---
@@ -107,7 +107,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 ### 4.2 Production and release of "Ghetto Reggae"
 - On August 29, 2025, the album **""Ghetto Reggae''** was released.
-- Themes: Homage to sound system culture, re-enactment of 80s-90s reggae/dancehall, love, faith, environmental issues, malice, ganja, etc.
+- Themes: Homage to sound system culture, reenactment of 80"s and 90"s reggae/dancehall, love, faith, environmental issues, malice, ganja, etc.
 - Participating artists: Daddy U-Roy, Demelo, Greentone. Producer: Kirkledove, Ed Robinson, Jemoi Monteith.
 
 ### 4.3 Social activities and statements
@@ -120,7 +120,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 ### 5.1 "Nike Air"
 - Uses Playground riddim. A song that uses sneakers as a symbol of self-expression.
-- Recordings made after a jaw injury created a unique intonation and a personality.
+- Recordings made after a jaw injury created a unique intonation and formed a personality.
 
 ### 5.2 "Heads High"
 - Danny Browne's Filthy riddim.

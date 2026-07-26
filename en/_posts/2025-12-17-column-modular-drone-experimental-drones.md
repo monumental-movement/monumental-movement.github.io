@@ -23,7 +23,7 @@ Text: mmr｜Theme: Positioning modular drones as an intersection of the history 
 
 Modular Drone/Experimental Drones (hereinafter referred to as "modular drones") is a trend of acoustic experiments centered on sustained sounds, and has developed in close connection with the structural characteristics of modular synthesizers. A continuum of sound that does not assume a melody or beat creates time by minutely changing elements such as pitch, timbre, intensity, phase, and spatial arrangement. This music emphasizes "existence" rather than "progression," and changes appear as state transitions rather than events.
 
-What is important about modular drones is that the object of listening is not the persistence of a single sound, but the process by which multiple signal paths interact with each other. Modular synthesizers allow you to freely connect elements such as oscillators, filters, amplifiers, envelopes, LFOs, and random voltages, making the boundaries between stability and instability, control and chance audible. By combining this characteristic with the form of a drone, an acoustic expression that expands the sense of time was created.
+What is important in modular drones is that the object of listening is not the persistence of a single sound, but the process by which multiple signal paths interact with each other. Modular synthesizers allow you to freely connect elements such as oscillators, filters, amplifiers, envelopes, LFOs, and random voltages, making the boundaries between stability and instability, control and chance audible. By combining this characteristic with the form of a drone, an acoustic expression that expands the sense of time was created.
 
 ---
 
@@ -187,13 +187,13 @@ Long reverberation times are not just an effect in drones, but function as part 
 
 ### From score to system
 
-In modular drones, composing is not the act of writing musical notes, but the act of designing the relationship between control voltages. Decisions about which parameters to fix and which elements to allow to fluctuate determine the character of the music.
+In modular drones, composing is not the act of writing musical notes, but the act of designing the relationship between control voltages. The decision as to which parameters to fix and which elements to allow to fluctuate determines the character of the music.
 
 In this sense, a modular synth is both a musical instrument and a self-contained sound system. Rather than directly manipulating the sound, the creator sets the conditions under which the sound continues to be generated.
 
 ### Balance between autonomy and intervention
 
-Fully autonomous patches exhibit unpredictable changes over time. On the other hand, by adding human intervention, the directionality of the sound can be adjusted. The balance between these two is an important decision point in the production of modular drones.
+Fully autonomous patches exhibit unpredictable changes over time. On the other hand, by adding human intervention, the directionality of the sound can be adjusted. The balance between the two is an important decision point in the production of modular drones.
 
 > "Intervention is done as a dialogue with the system, not as a control"
 

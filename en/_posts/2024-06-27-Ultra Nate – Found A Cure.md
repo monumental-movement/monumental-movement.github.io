@@ -15,7 +15,7 @@ title: Ultra Naté – Found A Cure
 
 Ultra Nate is an American singer-songwriter, producer, and DJ known for hit songs such as "Free," "If You Could Read My Mind," and "Automatic."
 
-"Found a Cure" was released as the second single from her third album, Situation: Critical, released in 1998. A house/deep house track that topped the US Billboard Hot Dance Club Songs chart and became a worldwide hit.
+"Found a Cure" was released as the second single from her third album, Situation: Critical, released in 1998. A house/deep house track that reached number 1 on the US Billboard Hot Dance Club Songs chart and became a worldwide hit.
 
 #### Tracklist
 ```md

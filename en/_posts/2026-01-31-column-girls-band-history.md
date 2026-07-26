@@ -186,7 +186,7 @@ Girl bands are not limited to rock music. Female bands have been active in a var
 
 Especially since the 1980s, the spread of electronic musical instruments has brought freedom from physical conditions and existing technology. Women's bands using synthesizers and drum machines presented a new model of music production.
 
-Their cross-genre activities have the power to constantly update the concept of an all-girl band, rather than fixing it.
+Their cross-genre activities help keep the concept of an all-girl band from becoming fixed and constantly update it.
 
 > The diversification of genres has expanded the scope of girl bands.
 

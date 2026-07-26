@@ -123,7 +123,7 @@ However, at that point there was already a feeling that it was ""not your averag
 
 Piggy's guitar playing was unique.
 
-At a time when traditional thrash metal was focused on fast, chromatic riffs, he used a lot of dissonance and strange chords.
+At a time when traditional thrash metal focused on fast, chromatic riffs, he used a lot of dissonance and strange chords.
 
 This guitar style would later influence many musicians.
 
@@ -163,7 +163,7 @@ There are elements of Discharge and GBH in the tempo and aggression.
 
 However, they mixed in a strange sense of odd time signatures.
 
-At this point, the seeds of the later progressive movement were present.
+At this point, the seeds of what would later become progressive were present.
 
 ### Away artwork
 
@@ -526,11 +526,11 @@ However, that turbidity was what made the Voivod sound.
 
 ### Distance from jazz and progressive rock
 
-Piggy was not a virtuosic guitarist.
+Piggy was not a show-off guitarist.
 
 There was also distance from the fast-shooting competition.
 
-Rather, he was a space architect.
+Rather, he was a space designer.
 
 In that sense, he is often compared to Robert Fripp.
 
@@ -554,13 +554,13 @@ He was building guitars with a unique feel.
 
 As a result, Voivod has a unique floating feeling that is difficult to explain.
 
-### Piggy's death
+### Piggy's Death
 
 In 2005, Piggy died of colon cancer.
 
 This was a devastating blow to Voivod.
 
-However, the recordings and ideas he left behind would be utilized in his later works.
+However, the recordings and ideas he left behind were used in his later works.
 
 > Piggy was an innovator who brought the metal guitar to space.
 
@@ -681,7 +681,7 @@ It is still evolving.
 
 ### Spirit of not becoming a veteran
 
-Many long-running metal bands end up being replays of their past.
+Many long-lived metal bands end up being replays of their past.
 
 But Voivod was relatively spared.
 
@@ -823,5 +823,14 @@ And the sound still resonates as if it is coming from the future.
 
 > Voivod were one of the first innovative bands to translate "anxiety about the future" into metal.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FsrBKe5auGg?si=fNq6sIF857tojDuP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

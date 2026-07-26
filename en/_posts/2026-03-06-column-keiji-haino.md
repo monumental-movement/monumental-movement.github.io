@@ -39,7 +39,7 @@ On the other hand, media exposure is extremely low.
 
 On stage, he is known for his iconic appearance in black clothing, long hair, and sunglasses, and is also known for his performance that does not ""imitate'' his own or others' performances.
 
-He is an artist who presents not only the music itself, but also the act of performing through true improvisation.
+He is also an artist who presents not only the music itself, but also the act of performing through true improvisation.
 
 > Keiji Haino is not just a musician, he is something of a spiritual explorer in Japanese experimental music.
 
@@ -132,7 +132,7 @@ Connection with contemporary Japanese music
 
 Keiji Haino's music is often talked about in the context of rock and noise, but it also has connections with contemporary Japanese music.
 
-The relationship with the activities of composer Toru Takemitsu is a symbolic example of this.
+The relationship with the activities of composer Toru Takemitsu is a symbolic example.
 
 Toru Takemitsu is one of Japan's leading contemporary music composers, known for his works that emphasize the spatiality of sound and silence.
 His musical philosophy was unique, combining Western classical and Japanese sensibilities.
@@ -167,7 +167,7 @@ It sounded more like a prayer or a spell than a song.
 
 It is sometimes referred to by overseas music critics as an extreme form of psychedelic rock.
 
-However, the essence of Fushisha is not a form of rock.
+However, the essence of Fushitsusha is not the form of rock.
 
 It is the energy of the sound itself.
 
@@ -423,8 +423,8 @@ By encountering unknown sounds, my music also changes.
 
 ### Flow of solo and major works
 
-Keiji Haino has released a vast amount of recorded works from the late 1970s to the present.
-The format is diverse, including studio works, live recordings, limited editions, and collaborations, and the total number is said to be in the hundreds.
+Keiji Haino has released a huge amount of recorded works from the late 1970s to the present.
+There are a wide variety of formats including studio works, live recordings, limited editions, collaborations, etc., and the total number is said to reach several hundred titles.
 
 The following is a flow of important works that are widely known among them.
 
@@ -439,7 +439,7 @@ The information below is compiled from multiple reliable sources (Discogs, Wikip
 | Year | Title | Label | Notes |
 |---|---|---|---|
 | 1981 | **Is it just me? ** | Pinakotheca | Solo debut work. High quality reissue by Black Editions in 2017 |
-| 1990 | **Nijiumu** | PSF | Representative solo vocal/acoustic works |
+| 1990 | **Nijiumu** | PSF | Masterpiece of solo vocal and acoustic works |
 | 1992 | **Itsukushimi / Affection** | PSF | Live recording released in 1992 |
 | 1993 | **A Challenge to Fate** | PSF | Released in 1994. Important solo works |
 | 1995 | **I Said, This Is the Son of Nihilism** | Table of the Elements | Important American Release |

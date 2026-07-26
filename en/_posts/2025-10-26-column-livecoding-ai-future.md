@@ -197,7 +197,7 @@ Algorithms and humans, machines and emotions.
 Where the boundaries melt,
 A new musical horizon rises.
 
-> Chords transcend sheet music, and AI learns to improvise.
+> Chords go beyond sheet music, and AI learns to improvise.
 > Music is no longer a "human exclusive patent";
 > **Co-Creative Intelligence**.
 

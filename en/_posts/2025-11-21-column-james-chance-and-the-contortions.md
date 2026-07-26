@@ -88,7 +88,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 ### Song "Melt Yourself Down"
 
-- **Characteristics**: Saxophone-driven riff repeats throughout
+- **Feature**: Saxophone-driven riff repeats throughout
 - **Beat**: Drums and bass repeat a precise, tight funk pattern
 - **Sound effect**: The cacophony of guitars and keyboards creates a sense of tension.
 

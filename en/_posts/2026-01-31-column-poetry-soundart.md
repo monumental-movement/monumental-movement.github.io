@@ -60,7 +60,7 @@ With the spread of printing technology, poetry became fixed on paper, and the ac
 
 ### Dada and audio poetry
 
-The Dada movement, born during World War I, rejected meaning and logic and brought sound itself to the fore. Hugo Ball's audio poetry is known for his attempts to break down words into syllables and treat the voice like an instrument. Here, poetry no longer became a means of conveying meaning, but a sound phenomenon itself.
+The Dada movement, born during World War I, rejected meaning and logic and brought sound itself to the fore. Hugo Ball's phonetic poetry is known as an attempt to break down words into syllables and treat the voice like an instrument. Here, poetry no longer became a means of conveying meaning, but a sound phenomenon itself.
 
 ### Futurism and noise
 

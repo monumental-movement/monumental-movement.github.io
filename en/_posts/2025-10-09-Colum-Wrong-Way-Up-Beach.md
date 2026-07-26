@@ -10,8 +10,8 @@ tags:
 - Ambient
 - Film
 - Soundtrack
-title: '[Column] Wrong Way Up and "The Beach"—Reverberations of utopia and the other
-  side of civilization'
+title: '[Column] Wrong Way Up and "The Beach"—The reverberations of utopia and the
+  other side of civilization'
 ---
 
 
@@ -62,7 +62,7 @@ The title "Wrong Way Up" has a double meaning.
 It is a sense of discomfort in an ""upside down world," and at the same time, it is an allegory for ""a mind that wanders as it ascends."
 
 Sonically, Eno"s signature smooth ambience is infused with Cale"s melodic intent.
-For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia. Synth particles sparkle like reflections on the ocean"s surface, and Cale"s voice evokes the idea of ​​"distant land."
+For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia. Synth particles sparkle like reflections on the ocean"s surface, and Cale"s voice evokes the feeling of "distant land."
 
 ---
 
@@ -74,7 +74,7 @@ For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia
 > With my pencil turning moments into line…"
 
 The melody is like a ""memory sketch.''
-This album was a forerunner of Eno's ""environmental pop'' movement from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
+This album was a forerunner of Eno's ""environmental pop'' from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
 ""False ascension'' may refer to the path we take in what we believe is the correct path.
 
 ---
@@ -87,7 +87,7 @@ This album was a forerunner of Eno's ""environmental pop'' movement from the 199
 
 The 2000 film ""The Beach" by Danny Boyle summarizes the ""escapism myth" of young people at the end of the 20th century.
 Richard, played by DiCaprio, obtains a map of the legendary "hidden island" at a cheap hotel in Bangkok and heads to "paradise" with his friends.
-However, what awaits them is not happiness, but communal madness and individual collapse.
+However, what awaits them is not happiness, but communal madness and personal collapse.
 
 Director Boyle depicts the tropical landscape as a ""dazzling reality.''
 The music on ""The Beach'' is also impressive. The transparent chorus of [**All Saints "Pure Shores"**](https://amzn.to/432zg8k), the tranquil electronic sound of [**Moby "Porcelain"**](https://amzn.to/46KLDZ2).
@@ -163,7 +163,7 @@ And in our hearts, we continue to quietly draw a **unseen beach**.
 
 | Artist/Work | Year | Notes | Link |
 |------------------|----|--------------|
-| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic clarity. | [Amazon](https://amzn.to/48mDETk) |
+| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic transparency. | [Amazon](https://amzn.to/48mDETk) |
 | The Beach (Soundtrack) | 2000 | Moby, All Saints, Faithless and more participate. Music of the sea and solitude. | [Amazon](https://amzn.to/47mrub1)
 
 ---

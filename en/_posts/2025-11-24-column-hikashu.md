@@ -19,7 +19,7 @@ title: '[Column] Hikashu: A cross-border history of avant-garde pop—a musical 
 Text: mmr | Theme: A long column by Hikashu, who appeared at the dawn of techno/new wave at the end of the 1970s and pioneered "Japanese experimental pop." Trajectory from formation to present
 
 Hikashu is a group that occupies a unique position in Japanese pop/rock history.
-Since their debut in 1978, they have freely crossed elements such as **new wave, avant-garde music, music theater, improvisation, electronic music, and folk music** while maintaining their unique creations that ""continue to shake up the concept of genre.''
+Since their debut in 1978, they have maintained their unique creations that "continue to shake up the concept of genre" while freely crossing elements such as **new wave, avant-garde music, music theater, improvisation, electronic music, and folk music**.
 
 It is generally known for its bizarre and humorous performances centered around Koichi Makigami (voice, theremin), and for early techno hits such as "At the End of the 20th Century." However, the reality is that his scope is far broader, and he has always been involved in the main lines of Japanese experimental music history.
 
@@ -44,9 +44,9 @@ color: #fff;
 
 Hikashu's roots lie in the underground theater, avant-garde dance, and free improvisation culture that was spreading in Tokyo in the 1970s.
 
-- Koichi Makigami has a background in theatrical vocalizations and improvisational physical expression, and is devoted to methods that treat voice as an "instrument."
+- Koichi Makigami has a background in theatrical vocalizations and impromptu physical expression, and he is devoted to methods that treat voice as an "instrument."
 - Chojin Mita (guitar) explores a sonic approach that connects rock and contemporary music
-- Makoto Inoue (keyboard) also touched on electronic music and tape works, which later led to his unique synth work.
+- Makoto Inoue (keyboard) was exposed to electronic music and tape works, which later led to his unique synth work.
 
 This diverse background has created the foundation for Hikashu, not just a band that focuses on performing, but a group that crosses over theater, sound art, and pop music.
 
@@ -56,7 +56,7 @@ This diverse background has created the foundation for Hikashu, not just a band 
 —With the wave of techno/new wave
 
 In 1978, the official "Hikashu" started.
-Around the same time, YMO debuted in Japan, and the bridge between electronic music and pop music became immediately visible. However, Hikashu, while staying close to this trend, develops a strange pop that barely deviates from the grammar of popular pop.
+Around the same time, YMO debuted in Japan, and the bridge between electronic music and pop music became immediately visible. However, while staying close to this trend, Hikashu develops a strange pop that barely deviates from the grammar of popular pop.
 
 In particular, the performances from 1979 to 1980 are said to be more than just their sounds, but rather their "existence itself is avant-garde," and they have the following characteristics:
 
@@ -81,14 +81,14 @@ Important points during this period:
 - Complex time signatures and acoustic guitar approach
 - Noise expression by voice
 
-It is the beginning of a break from the genre, and cannot be categorized as so-called "new wave/techno."
+It cannot be categorized as so-called "new wave/techno", and is the beginning of a break away from the genre.
 
 ---
 
 # 4. Expansion of Koichi Makigami"s activities (late 1980s – 1990s)
 —To techno, folk music, theremin, and performing arts
 
-In parallel with group activities, leader Koichi Makigami expands the scope of his activities with a focus on **expansion of voice**.
+In parallel with group activities, leader Koichi Makigami expands the scope of his activities with a focus on **expanding his voice**.
 
 - Further exploration of overtone singing
 - Collaboration with contemporary dance
@@ -123,9 +123,9 @@ Hikashu continues to be active into the 2020s, and although they are a long-live
 - Reinterpretation of voice and body
 - Introduction of ethnic instruments
 - Abstract work with minimal ensemble
-- A live arrangement that boldly reconstructs songs from yesteryear.
+- A live arrangement that boldly reconstructs songs from the past.
 
-Hikashu's style of ""re-experimenting" using past works rather than ""reproducing famous songs from the past" is unique to Hikashu.
+Hikashu's style of ""re-experimenting" using past works as material rather than ""reproducing famous songs from the past" is unique to Hikashu.
 
 ---
 
@@ -147,7 +147,7 @@ These are not just vocals, but an exploration of the voice as an acoustic materi
 In the early stages, the new wave-like stoic beats stand out, but from the middle onwards, complex ensembles with multiple beats existing at the same time increase.
 
 ### ■ 3. "Structural humor" rather than "absurdity"
-Hikashu's lyrics and performances may seem bizarre, but many of them are extremely precisely structured.
+Hikashu's lyrics and production may seem bizarre, but many of them are extremely precisely structured.
 Nonsense is not a "thought-stopping gag" but a device for shaking the boundary between language and sound.
 
 ### ■ 4. Theremin and electronic acoustics
@@ -220,8 +220,8 @@ It is not enough to simply talk about Hikashu as a ""legend of Japanese new wave
 
 —The "state" of hikashu
 
-Hikashu is more than a "band", it's a testing ground for sound, body, and humor.
-Even though it has been over 45 years since their formation, they have always appeared on stage not to reenact the past, but to discover the "now" anew.
+Hikashu is more than a ""band'', it is a testing ground for sound, body, and humor.
+Even though it has been over 45 years since their formation, they are always on stage not to reenact the past, but to discover the "now" anew.
 
 This attitude is of unique value in the history of Japanese music.
 Hikashu never ends. They always exist as an ongoing "state."

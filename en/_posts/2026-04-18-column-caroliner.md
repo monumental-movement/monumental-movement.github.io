@@ -49,9 +49,9 @@ color: #fff;
 
 ## Core people and member composition
 
-### Fluid network centered around Grux
+### Fluid network centered on Grux
 
-The main character of the Carolinaliner is Grux. He has been at the core of our activities for many years, and has played an important role in shaping our musical direction and concept.
+The central character of the Carolinaliner is Grux. He has been at the core of our activities for many years, and has played an important role in shaping our musical direction and concept.
 
 There is a history of involvement of multiple members around it, and the following are known as representative names.
 
@@ -228,7 +228,7 @@ It is also important that they have been active for a long period of time, and a
 
 The Carolliner is a rare musical body with a clear center (Grux) and a fluid periphery.
 
-By colliding different elements of experimental, noise, industrial, and bluegrass, he continues to shake up the very framework of music.
+By colliding different elements of Experimental, Noise, Industrial, and Bluegrass, he continues to shake up the very framework of music.
 
 An unfixed structure and continuous activity make this group unique.
 

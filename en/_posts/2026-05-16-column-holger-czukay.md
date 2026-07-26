@@ -19,7 +19,7 @@ title: '[Column] Holger Czukay: The musician who invented the musical instrument
 
 Text: mmr | Theme: Holger Czukay, who transformed "recording" into "performance" rather than just recording. Trace how that innovative idea connected from krautrock to sampling culture, ambient, and contemporary electronic music.
 
-Looking back at the history of music since the 1970s, there are not many people who have turned the act of ""recording'' into a form of creation.
+Looking back at the history of music since the 1970s, there are not many people who turned the act of ""recording'' into a form of creation.
 
 Holger Czukay was one of those few.
 
@@ -39,7 +39,7 @@ Rather, he saw the possibility of new music there.
 
 This connects with later sampling culture, hip-hop, ambient, IDM, experimental electronic music, and even the post-Internet sense of fragmented information.
 
-However, what is interesting is that rather than being a future-oriented technologist, he was a musician who believed in his "ears" to the utmost.
+However, what is interesting is that rather than being a future-oriented technologist, he was a musician who trusted his ears to the utmost.
 
 Theory and intuition coexist in his works.
 
@@ -73,9 +73,9 @@ Holger Schukai was born on March 24, 1938 in the Free City of Danzig, then part 
 
 This area corresponds to present-day Gdańsk, Poland.
 
-His childhood was deeply connected to the turmoil of World War II.
+His childhood was deeply tied to the turmoil of World War II.
 
-At the end of the war, like many people of German descent, he was evacuated.
+At the end of the war, like many Germans, he was evacuated.
 
 It is believed that this sense of ""movement," ""loss," and ""fragmentation'' strongly influenced his acoustic sensibilities in later years.
 
@@ -95,7 +95,7 @@ Eventually he entered the Cologne Academy of Music.
 
 Here he meets a person who will define the rest of his life.
 
-Karlheinz Stockhausen.
+This is Karlheinz Stockhausen.
 
 ---
 
@@ -199,7 +199,7 @@ It's not a fancy technique.
 
 Rather, repetition and a sense of space were important.
 
-In particular, CAN's masterpieces ""Tago Mago," ""Ege Bamyasi," and ""Future Days'' stand out for their unique sense of circulation.
+In particular, CAN's masterpieces ""Tago Mago," ""Ege Bamyasi," and ""Future Days'' highlight their unique sense of circulation.
 
 His play feels more like ""drifting through space" than ""moving forward."
 
@@ -241,11 +241,11 @@ Rather than copying a specific genre, they reconstructed the structure itself.
 
 ### Acoustic space like water surface
 
-1973's Future Days is a unique work by CAN.
+1973's ""Future Days'' is a unique work by CAN.
 
 Rather than intense experimentation, the focus is on a fluid acoustic space.
 
-It is very close to the feeling that would later be called "ambient."
+It is extremely close to the feeling that would later be called "ambient."
 
 It can be said that this work established music as an environment before Brian Eno.
 
@@ -282,7 +282,7 @@ electronic music.
 
 Particularly in the experimental music scene since the 1990s, there has been a re-evaluation of music.
 
-> ""Future Days" pioneered the idea of ​​""music that exists like the air."
+> ""Future Days" was a forerunner of ""music that exists like the air."
 
 ---
 
@@ -448,7 +448,7 @@ In other words, he was ""a person who reached a digital sensibility before digit
 
 ---
 
-## Late life and reevaluation
+## Late life and re-evaluation
 
 ### CAN re-evaluation process
 

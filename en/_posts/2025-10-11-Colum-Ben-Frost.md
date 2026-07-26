@@ -68,7 +68,7 @@ Through collaboration with Hildur Guðnadóttir, Tim Hecker and others,
 We explored how sound crosses the boundary between "pain" and "pleasure."
 
 In his works, the listener's body becomes a "resonator".
-The abdominal cavity, skin, and bones listen, not the ears.
+Listen not with your ears, but with your abdominal cavity, skin, and bones.
 Sound surrounds the listener like air pressure that fills a space.
 
 It's more of a **ritual** than music.
@@ -81,7 +81,7 @@ There comes a moment when a series of sounds expands consciousness and transform
 ## The battlefield of the studio
 
 Ben Frost's production environment is more like a battlefield than just a recording studio.
-A plethora of modular synths, modified mics, and over-the-top compressors.
+A ton of modular synths, modified mics, and over-the-top compressors.
 Instead of "recording" the sound, you **grasp it as if you were punching it**.
 
 He doesn't reject chance, but at the same time says, "Every frequency has a reason for its existence."
@@ -209,7 +209,7 @@ What is sound?
 What is noise?
 And is silence really the opposite?
 
-In the end, what Frost shows is not the "silence" at the end of the sound;
+In the end, what Frost shows is not the "silence" at the end of the sound, but
 **A new sound lurking in the silence**.
 
 > "The limit of sound is not noise. It is silence."

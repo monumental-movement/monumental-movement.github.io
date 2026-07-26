@@ -123,6 +123,16 @@ The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara wi
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KsJjdSXxNVA?si=-f9VVDG3JoRJZfH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ## Chronology: Changes in Tokyo Sound (1950–2025)
 
 <div class="mermaid">

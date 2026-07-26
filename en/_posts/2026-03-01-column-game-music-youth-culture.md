@@ -17,7 +17,7 @@ title: '[Column] The moment when game music becomes mainstream among young peopl
 
 ## What is game music?
 
-Text: mmr | Theme: Where have the ears of the digital generation gone? - The structural shift in which game music has become the core culture of young people
+Text: mmr｜Theme: Where have the ears of the digital generation gone? - The structural shift in which game music has become the core culture of young people
 
 
 Game music refers to a group of musical works created for video games.
@@ -69,7 +69,7 @@ At the same time,
 **Dragon Quest**
 Music: Koichi Sugiyama
 
-"Overture" has a classical fanfare structure and is designed to create a ritualistic uplift as the game begins.
+"Overture" has a classical fanfare structure, designed to create a ritualistic uplift as the game begins.
 
 These were not just background music, but music that symbolized the brand of the work itself.
 
@@ -148,7 +148,7 @@ Distribution starts in 2020
 was recorded with a full orchestra in London, Shanghai, and other locations.
 The official concert video was simultaneously distributed worldwide and viewed by millions of viewers.
 
-At e-sports tournaments, large-scale productions are included in the opening ceremonies.
+At e-sports tournaments, large-scale performances are included in the opening ceremonies.
 **League of Legends**
 is developing virtual artist productions and live performances.
 

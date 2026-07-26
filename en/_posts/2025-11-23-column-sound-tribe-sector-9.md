@@ -88,7 +88,7 @@ Representative song:
 - "Atlas"
 - "Something"
 - "Arigato"
--"Tokyo"
+- "Tokyo"
 -"Peoples"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
@@ -126,7 +126,7 @@ The live structure of the same period was
 - Downtempo
 - IDM-like pattern
 - long improvisations
-The audience transitioned to a floor/festival-type experience with the premise of ""dancing.''
+The audience transitioned to a floor/festival type experience that was premised on ""dancing.''
 
 What's important here is that STS9 pursued a technique for reproducing the "texture of electronic music" with guitar and bass.
 Many parts passed through the effects chain, creating a characteristic in which the editorial thinking in the DAW was directly reflected in the live performance.
@@ -147,7 +147,7 @@ Since the beginning of STS9
 - Educational support
 - Environmental protection
 - Local activities
-He has actively participated in charity activities such as:
+He has actively participated in charity activities such as
 
 There are also many performances that donate a portion of the live ticket proceeds, and many songs that have social issues as their theme.
 In particular, "Peaceblaster" (2008) is positioned as a conceptual work with political and environmental themes as its background.
@@ -199,7 +199,7 @@ This ensures **acoustic thickness** even during live performances, creating a th
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
 ## 7-1. Structuring the set list
 STS9 changes their set list every time they tour,
-- Opener (worldview presentation)
+- Opener (world view presentation)
 - Midfield build-up
 - floor peak
 - Deep downtempo part

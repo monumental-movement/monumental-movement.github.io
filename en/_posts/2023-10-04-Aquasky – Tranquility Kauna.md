@@ -16,7 +16,7 @@ This is an EP by Aquasky released in 1996 on the UK label "Moving Shadow".
 
 Aquasky have worked with 4/4 aliases Black Noise, such as Southern Fried and Wearhouse Music, but this time they return to their roots with a track that takes them back to their Acid House days.
 
-A must-hear EP from this era, from this trio whose career spanned acid, jungle, drum and bass, breakbeat, and now encompasses all forms of bass music.
+A must-hear EP from this era, from this trio whose career has spanned acid, jungle, drum and bass, and breakbeat, and now encompasses all forms of bass music.
 
 #### Tracklist
 ```md

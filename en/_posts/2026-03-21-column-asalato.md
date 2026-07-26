@@ -98,7 +98,7 @@ In this way, the sound of Assarato is not simply the action of ""hitting'' but i
 
 There are two basic movements in the performance of Asarat: ""out" and ""in". Out is the movement in which the ball swings outward, and in is the movement in which the ball swings back inside.
 
-During this reciprocating movement, the rhythm is determined by the timing at which the spheres collide. Even with simple patterns, completely different grooves can be created by changing the timing.
+During this reciprocating motion, the rhythm is determined by the timing at which the spheres collide. Even a simple pattern can create a completely different groove by changing the timing.
 
 Furthermore, it is also possible to create polyrhythmic structures by combining both hands. Playing with a sense of unity even though the right and left hands play different rhythms requires an extremely high level of skill.
 
@@ -130,7 +130,7 @@ Furthermore, rather than simply reproducing the rhythm, the performers improvise
 
 ### From world music to the streets
 
-In the second half of the 20th century, Asarat was introduced to regions other than West Africa as part of the world music movement. With the growing interest in folk music, this instrument gradually gained international recognition.
+In the second half of the 20th century, Asarat was introduced to regions other than West Africa as part of the world music trend. With the growing interest in folk music, this instrument gradually gained international recognition.
 
 After that, it developed in a new form in Europe and Japan, linking it with street performance and juggling culture. Particularly in urban areas, it has become widely used as part of performances that combine music and visual expression.
 

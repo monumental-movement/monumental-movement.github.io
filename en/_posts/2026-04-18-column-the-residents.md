@@ -22,7 +22,7 @@ Text: mmr｜Theme: The trajectory of an avant-garde group that redefined the ver
 
 ### Strategy as a Nameless Being
 
-Since their debut in the early 1970s, The Residents have consistently focused on anonymity. The identities of the members are not made public, with only the visual symbols of giant eyeball masks and top hats serving as their "faces." This complete depersonalization was a clear counter to rock's star system, a device that focused attention on the work itself.
+Since their debut in the early 1970s, The Residents have consistently centered their activities on anonymity. The identities of the members are not made public, with only the visual symbols of giant eyeball masks and top hats serving as their "faces." This complete depersonalization was a clear counter to rock's star system, a device that focused attention on the work itself.
 
 From the beginning of their career, they have treated music, video, performance, and design as inseparable elements, and have transcended the boundaries of being just a band. They are said to have ambiguous origins in the southern United States, and they are said to have eventually established a base of operations in San Francisco, but even this is just part of the information that has become a myth.
 
@@ -76,7 +76,7 @@ Their works constantly question "form itself." The album unit, song length, and 
 
 ### Meaning of eyeball mask
 
-The giant eyeball mask that is a symbol of The Residents is not just a novelty, but a device that indicates the reversal of the relationship between "seeing and being seen." The audience watches the performance, but at the same time, they are also stared back at by giant eyes.
+The giant eyeball mask that is a symbol of The Residents is not just a novelty, but a device that indicates a reversal of the relationship between "seeing and being seen." The audience watches the performance, but at the same time, they are also stared back at by giant eyes.
 
 In a live performance, images, lighting, and costumes are closely linked to create a comprehensive piece of art. This idea is similar to later multimedia art and installation ideas.
 

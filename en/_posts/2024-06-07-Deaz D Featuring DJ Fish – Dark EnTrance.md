@@ -14,7 +14,7 @@ title: Deaz D Featuring DJ Fish – Dark En'Trance
 ---
 
 
-Deaz D (Dennis Harinck) is a resident DJ at the Dutch club Locomotion (-2002) and a hardcore producer who is famous as a member of the Bitte-Ein-Beat crew. DJ Norman, who is active in the hardcore scene with DJ Gizmo, is his own brother.
+Deaz D (Dennis Harinck) is a resident DJ at the Dutch club Locomotion (-2002) and a hardcore producer famous as a member of the Bitte-Ein-Beat crew. DJ Norman, who is active in the hardcore scene with DJ Gizmo, is his own brother.
 
 "Dark En'Trance" is a hardcore gabbana track released in 1993 by Dutch hardcore gabbana label Rave Records.
 

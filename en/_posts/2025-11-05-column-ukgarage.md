@@ -149,7 +149,7 @@ It has begun to reach young people not only in clubs but also through social net
 ## Chapter 8: A volatile future—What UKG has left behind
 
 UK garage transcends genre boundaries and has taken root as the ""urban rhythmic language.''
-Its characteristics of ""bouncing beats," ""human deviations," and ""fragments of voices'' still pulsate throughout UK bass culture.
+Its characteristics of ""bouncing beats," ""human deviations," and ""fragments of voice'' still pulsate throughout UK bass culture.
 
 From underground to mainstream and back to underground——
 The history of UK garage is a cycle of urban music itself.

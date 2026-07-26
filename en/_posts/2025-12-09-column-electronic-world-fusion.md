@@ -78,7 +78,7 @@ flowchart TD
 
 ### 2-2 Thievery Corporation: Downtempo reconstruction of multi-regional music
 
-A producer duo based in Washington DC, USA. It fuses a variety of world music, including reggae, bossa nova, Middle Eastern music, Indian music, and Asian percussion, with downtempo/trip-hop.
+A producer duo based in Washington DC, USA. They fuse a variety of world music, including reggae, bossa nova, Middle Eastern music, Indian music, and Asian percussion, with downtempo/trip-hop.
 
 #### Musical features
 
@@ -153,7 +153,7 @@ flowchart TB
     A1980 --> A1990["1990s: Influx of folk music elements into downtempo and trip hop"]
     A1990 --> A2000["2000s: Nitin Sawhney, Thievery Corporation and others received international recognition"]
     A2000 --> A2010["2010s: Global Base, Connection with Afrofuturism"]
-    A2010 --> A2020["2020s: Music from each region is directly shared through distribution culture, leading to more multi-layered fusion"]
+    A2010 --> A2020["2020s: Music from each region is directly shared through distribution culture, and more multi-layered fusion is progressing."]
 </div>
 
 ---
@@ -188,7 +188,7 @@ flowchart TB
 
 ---
 
-## 7. 現代への影響：グローバル・ベースから環境音楽まで
+## 7. Contemporary influences: from global bass to ambient music
 
 ### 7-1 Development on a global basis
 
@@ -196,11 +196,11 @@ There is a growing movement to incorporate elements of world music into club mus
 
 ### 7-2 Inheritance to Ambient
 
-Folk instrument drones, multi-layered sustained sounds, and recordings of natural environments are widely used in ambient works.
+Folk instrument drones, multi-layered sustained sounds, and recordings of natural environments are widely incorporated into ambient works.
 
 ### 7-3 Handling regional music in the AI ​​era
 
-In modern times, sound source analysis and generation using AI technology is progressing, but issues of cultural background and rights are constantly debated.
+In modern times, sound source analysis and generation using AI technology is progressing, but issues of cultural background and rights are always an area of ​​debate.
 
 ---
 
@@ -230,7 +230,7 @@ Electronic World Fusion doesn't just replace folk music with electronic sounds;
 **"The process by which sound translates culture and connects different values"**
 can be understood as
 
-The genre embodies sonic dialogue, as Nitin Sawhney depicts multicultural societies through his work, and Thievery Corporation connects music from around the world to urban electronic music contexts.
+The genre embodies sonic dialogue, as Nitin Sawhney depicts multicultural societies through his work, and Thievery Corporation connects music from around the world to urban electronic musical contexts.
 
 ---
 
@@ -242,7 +242,7 @@ Electronic music and world music have evolved as media that connect technology a
 
 ## ■ Electronic World Fusion: Detailed chronology (expanded version 1960-2020)
 
-In order to more accurately capture Electronic World Fusion, we present a **detailed chronology** that integrates the flow of electronic music, recording technology, ethnic music distribution, and interregional collaboration.
+In order to more accurately capture Electronic World Fusion, we present a **detailed chronology** that integrates the flow of electronic music, recording technology, ethnic music distribution, and regional collaboration.
 
 ---
 
@@ -297,7 +297,7 @@ flowchart TD
 
 * Increased direct collaboration with musicians from around the world
 * The recording quality of ethnic instruments has improved, and hybrids with electronic sounds have become commonplace.
-* The boundaries between world music and electronica are blurring
+* The boundary between world music and electronica is blurring
 
 ---
 

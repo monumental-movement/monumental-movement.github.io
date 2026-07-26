@@ -28,7 +28,7 @@ An unprecedented method of **reconstructing** pre-recorded songs was born.
 Its name is --**DUB**.
 
 Remove the vocals from an existing song, leaving only the rhythm and bass,
-Play the space itself by making full use of echo and reverb.
+Play with the space itself by making full use of echo and reverb.
 This innovation was not just a "remix" but a redefinition of music.
 
 This dub idea later became **hip-hop, techno, ambient, noise**,

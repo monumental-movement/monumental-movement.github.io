@@ -60,7 +60,7 @@ It did not receive high praise upon its initial release, and was not a commercia
 
 However, today, many musicians and critics consider this work to be the origin of the idea of ​​post-rock.
 
-With this work, Talk Talk reconsidered the very processes of ""writing songs," ""playing," and ""recording,'' which rock music had been predicated on.
+With this work, Talk Talk reconsidered the very processes of ""writing songs," ""playing," and ""recording,'' which had been the premise of rock music up until then.
 
 Rather than being a completed blueprint, music has become a ""phenomenon'' that gradually emerges within the space of the studio.
 
@@ -92,7 +92,7 @@ Producers **Tim Friese-Greene** and Mark Hollis use a production method that is 
 
 The recording studio is covered with black curtains and most of the lights are turned off.
 
-The performers did not play according to the score, but instead improvised based on the atmosphere of the place and each other's reactions.
+The performers did not play according to the musical score, but instead improvised based on the atmosphere of the place and each other's reactions.
 
 From dozens of hours of recorded material, he selects only a few moments and edits them into a single song.
 
@@ -122,7 +122,7 @@ reverberation
 faint noise
 distance between instruments
 
-All these become the constituent elements of the work.
+All of these become the constituent elements of the work.
 
 Especially in the opening track, ""The Rainbow,'' almost nothing happens for several minutes.
 
@@ -160,7 +160,7 @@ And this is the idea of ​​""music as environment'' presented by ambient musi
 
 But Talk Talk didn't just quote them.
 
-They melted everything into the form of a rock band and rebuilt it as a new organic musical language.
+Everything was melted into the form of a rock band and rebuilt as a new organic musical language.
 
 This fusion was inherited not only in later post-rock, but also in many other genres such as post-classical, slowcore, and ambient folk.
 
@@ -197,7 +197,7 @@ The drums do not mark time, but rather emphasize silence.
 
 The vocals also don't exist to explain the story, but blend into the space as a single tone.
 
-At this point, music transformed into an art that allows us to listen to ""sound itself" rather than ""singing."
+At this point, music became not just a song, but an art that allowed us to hear the sound itself.
 
 ---
 
@@ -215,7 +215,7 @@ Each performs freely.
 
 I compiled the fragments over many months,
 
-Leaving behind only the beautiful moments that happened by chance.
+Leaving only the beautiful moments that happened by chance.
 
 This methodology is similar to film editing.
 
@@ -230,7 +230,7 @@ This idea was later
 *Mogwai
 * Godspeed You! Black Emperor
 
-This style has been passed down to many post-rock works.
+It has been inherited by many post-rock works such as.
 
 Furthermore, in the 21st century,
 
@@ -308,7 +308,7 @@ With this work, rock evolved from a ""collection of songs" to ""a comprehensive 
 
 His influence extends beyond post-rock to ambient, post-classical, film music, and even contemporary sound art.
 
-In this ranking, works that created and institutionalized the genre itself were ranked 61st, and the idea of ​​""generated music'' presented by this work has left an extremely large footprint on music production since the 21st century.
+In this ranking, works that created and institutionalized genres themselves were ranked 61st, and the idea of ​​""generated music'' presented by this work has left an extremely large footprint on music production since the 21st century.
 
 > **"'Spirit of Eden" changed rock from a "work to be performed" to a "phenomenon that continues to be generated.'As the origin of the idea of ​​post-rock, it is ranked 61st in this ranking due to its historical significance."**
 
@@ -342,7 +342,7 @@ After ""Loveless," ""guitar sound" came to mean not just a phrase, but the space
 
 In the late 1980s in England, a new form of guitar expression was being sought after post-punk.
 
-Among them, My Bloody Valentine arrived at the idea of ​​integrating noise and melody, rather than making them conflict with each other.
+In this process, My Bloody Valentine arrives at the idea of ​​integrating noise and melody, rather than making them conflict with each other.
 
 The word "shoegaze," which is used along with the band"s name, was born from the band"s constant gaze at the effect pedals at their feet during live performances.
 
@@ -380,7 +380,7 @@ moreover,
 * chorus
 * Precise EQ adjustment
 
-By layering multiple layers, the guitar transforms into a gigantic acoustic wall that no longer feels like a single instrument.
+By layering multiple layers, the guitar has transformed into a gigantic acoustic wall that no longer feels like a single instrument.
 
 This isn't just a lot of effects.
 
@@ -506,7 +506,7 @@ It has become a medium that depicts space, encompasses emotions, and transforms 
 
 Its influence extends beyond shoegaze to include post-rock, dream pop, electronica, and even modern sound design in general.
 
-In this ranking, works that created and institutionalized genres themselves were ranked 62nd, so the idea that ""the tone itself becomes a composition'' that this work presented greatly changed music production from the 1990s onwards.
+In this ranking, works that created and institutionalized genres themselves were ranked 62nd, as they were ranked higher, but the idea presented by this work that ""the tone itself becomes a composition'' greatly changed music production from the 1990s onwards.
 
 > **"'Loveless' transforms the guitar from an instrument to be played to a device that generates space itself. Due to its sonic revolution, it ranks 62nd in this ranking."**
 
@@ -520,7 +520,7 @@ thank you. So let's continue with the same format and density.
 
 ## Tri Repetae
 
-### "The moment when electronic music started to let you hear "structure" instead of "rhythm""
+### "The moment when electronic music began to listen to "structure" instead of "rhythm""
 
 **Tri Repetae**, released on November 6, 1995, is a monumental work that shows the establishment of electronic music as an art independent of club music.
 
@@ -540,7 +540,7 @@ The important thing here is not dancing.
 
 ## Achievement of Artificial Intelligence series
 
-In the early 1990s, Warp Records released the **Artificial Intelligence** series, proposing a new concept of ""techno for home listening''.
+In the early 1990s, Warp Records released the **Artificial Intelligence** series, proposing a new concept of ""home techno''.
 
 Electronic music is not just consumed in clubs.
 
@@ -560,7 +560,7 @@ It exists to make us perceive structure.
 
 The biggest element that characterizes "Tri Repetae" is
 
-**Minute changes that never end**.
+**It is a subtle change that never ends**.
 
 At first glance, it sounds like the same phrase is being repeated.
 
@@ -654,7 +654,7 @@ Noise becomes a wall,
 
 The metallic sound becomes the framework.
 
-Music doesn't just progress in time.
+Music doesn't just progress through time.
 
 It is built within space.
 
@@ -664,13 +664,13 @@ This way of thinking led directly to later glitch, microsound, and experimental 
 
 ## A work that updates the concept of IDM
 
-The term "IDM (Intelligent Dance Music)" has often been the subject of debate.
+The term ""IDM (Intelligent Dance Music)'' has often been the subject of debate.
 
 However, what ""Tri Repetae" shows is not about being ""intellectual."
 
 it is,
 
-It was the fact that electronic music can be successful even if it is not limited to the function of dance.
+It was the fact that electronic music can be created without being limited to the function of dance.
 
 Here electronic music is
 
@@ -692,7 +692,7 @@ For the first time, electronic sound came to be evaluated as ""abstract art.''
 
 His influence extends beyond IDM to glitch, microsound, experimental music, and even modern algorithmic composition.
 
-This ranking ranks 63rd because it ranks works that birthed and institutionalized the electronic music genre itself, but the idea of ​​""listening to the structure'' presented by this work greatly expanded the possibilities of subsequent electronic music.
+This ranking ranks 63rd because it ranks the works that birthed and institutionalized the electronic music genre itself, but the idea of ​​""listening to the structure'' presented by this work greatly expanded the possibilities of subsequent electronic music.
 
 > **"'Tri Repetae' transforms electronic music from rhythms for the body to structures for thought. Its innovative sound design places it at number 63 in this ranking."**
 
@@ -726,7 +726,7 @@ It was here that club music evolved from ""music for dancing" to ""music for imm
 
 Underworld was a new wave band in the 1980s.
 
-However, he was not blessed with commercial success and reached a dead end.
+However, he was not blessed with commercial success and hit a dead end.
 
 The turning point was the addition of DJ Darren Emerson.
 
@@ -772,7 +772,7 @@ What characterizes this work is its long composition, which is unusual for club 
 
 The songs don't develop rapidly.
 
-Slowly change the scenery by making small changes.
+Slowly changing the landscape by making small changes.
 
 The beat disappears.
 
@@ -832,7 +832,7 @@ Its influence extends not only to progressive house, techno, and electronica, bu
 
 This ranking ranked 64th because it ranks works that updated the very structure of electronic music, but the concept of the "club album" presented by this work became an important indicator of electronic music for more than 30 years.
 
-> **"'Dubnobasswithmyheadman' liberated club music from the 12-inch culture and developed it into an art form called the album. Due to this historical shift, it ranks No. 64 in this ranking."**
+> **"'Dubnobasswithmyheadman' liberated club music from 12-inch culture and developed it into an art form called albums. Due to this historical shift, we rank it at number 64 in this ranking."**
 
 ---
 
@@ -878,7 +878,7 @@ He gave jungle a sense of story and emotion, and elevated it to ""music for list
 
 ## A long suite called "Timeless"
 
-The album's title track, ""Timeless,'' is an epic work that lasts approximately 21 minutes.
+The album's title song, ""Timeless,'' is a masterpiece that runs for approximately 21 minutes.
 
 Starting with quiet ambient music,
 
@@ -894,7 +894,7 @@ It's not just repetition.
 
 It is designed as a symphony, with a beginning, development, and conclusion.
 
-At this point, drum"n"bass transformed from music that created ""instantaneous excitement" to ""music that designs time itself."
+At this point, drum"n"bass transformed from music that produced ""instantaneous excitement" to ""music that designs time itself."
 
 ---
 
@@ -964,9 +964,9 @@ His grand sense of composition also spread to film music and game music, and bec
 
 His influence extends not only to UK electronic music as a whole, but also to contemporary bass music, film music, and sound design.
 
-This ranking ranked 65th because it ranks works that birthed and institutionalized electronic music itself, but the idea of ​​""musicizing urban time'' presented by this work was an important turning point in the subsequent history of electronic music.
+This ranking ranks 65th because it ranks works that birthed and institutionalized electronic music itself, but the idea of ​​""musicizing urban time'' that this work showed was an important turning point in the subsequent history of electronic music.
 
-> **"'Timeless" sublimates high-speed breakbeats into the time structure of the city and develops drum"n'bass into album art. Due to its historical significance, it is ranked 65th in this ranking."**
+> **"'Timeless" sublimates high-speed breakbeats into the time structure of the city, and develops drum"n'bass into album art. Due to its historical significance, it is ranked 65th in this ranking."**
 
 ---
 
@@ -991,7 +991,7 @@ Population outflow.
 
 Urban devastation.
 
-Underground Resistance faced this reality head-on, advocating the idea that ""techno is resistance to the city.''
+Underground Resistance faced this reality head-on, advocating the philosophy that ""techno is resistance to the city.''
 
 The work that most clearly crystallizes this philosophy is ""Interstellar Fugitives.''
 
@@ -1005,7 +1005,7 @@ It has become a political medium for deciphering the city and envisioning the fu
 
 Underground Resistance is different from your average band or unit.
 
-They positioned themselves as an ""organization'' and put their ideals, rather than individuals, at the forefront.
+They positioned themselves as an ""organization'' and put their ideas, rather than individuals, at the forefront.
 
 The members wear military uniforms and masks, emphasizing the existence of the ""UR'' community rather than their faces or individual names.
 
@@ -1035,7 +1035,7 @@ Inorganic synth.
 
 Noise that appears intermittently.
 
-They are reminiscent of factory sites, expressways, and deserted urban spaces.
+They are reminiscent of factory ruins, expressways, and deserted urban spaces.
 
 The beat here is not for dancing;
 
@@ -1055,7 +1055,7 @@ Personal names are also not important.
 
 Only the works exist.
 
-As a result, listeners do not worship a particular artist, but empathize with the idea itself.
+As a result, the listener sympathizes with the idea itself, rather than worshiping a specific artist.
 
 This anonymity had a great influence on later electronic music,
 
@@ -1099,7 +1099,7 @@ And it is the will of the individual who resists it.
 
 Techno is not music that celebrates the future.
 
-It became music for reconsidering the future.
+It became music that allowed us to reconsider the future.
 
 This idea deeply influenced later Berlin techno, IDM, industrial techno, and even modern experimental electronic music.
 
@@ -1109,11 +1109,11 @@ This idea deeply influenced later Berlin techno, IDM, industrial techno, and eve
 
 ""Interstellar Fugitives'' is a definitive work that elevated Detroit techno from mere dance music to an ideology that critiques the city and society.
 
-Its influence extends beyond techno to IDM, electro, industrial, and contemporary art.
+His influence extends beyond techno to IDM, electro, industrial, and contemporary art.
 
 This ranking ranked 66th because it ranks works that created and institutionalized the techno genre itself, but the ideas of ""anonymity," ""community," and ""urban criticism'' that this work showed greatly shaped the direction of subsequent electronic music culture.
 
-> **"'Interstellar Fugitives' transformed techno from club music to an anonymous political device that critiqued the city. Its ideological innovation ranks it at number 66 in this ranking."**
+> **"'Interstellar Fugitives' transformed techno from club music to an anonymous political device that critiqued the city. Its ideological innovation places it at number 66 in this ranking."**
 
 
 ---
@@ -1152,7 +1152,7 @@ Alex Paterson originally worked as a club DJ in London.
 
 He's not just passionate about the floor;
 
-He was also deeply interested in the atmosphere flowing before and after the event.
+He was also deeply interested in the atmosphere flowing before and after the scene.
 
 In between DJ sets,
 
@@ -1294,11 +1294,11 @@ In this ranking, we placed ""Ambient 1: Music for Airports" (26th place), which 
 
 ## *Orbital 2 (Brown Album)*
 
-### "The moment when techno acquired "human emotions""
+### "The moment when techno acquired 'human emotions'"
 
 **Orbital 2** (commonly known as *Brown Album*), released on May 24, 1993, is a monumental work that breaks away from the stereotype that techno is an inorganic dance music and completes it as an album imbued with emotions and stories.
 
-In the late 1980s and early 1990s, house and techno were rapidly gaining popularity in the UK rave scene. However, many of the songs were functional tracks intended to be mixed by a DJ, and there were still few works that built a single world view throughout the album.
+In the late 1980s and early 1990s, house and techno were rapidly gaining popularity in the UK rave scene. However, many of the songs were functional tracks intended to be mixed by a DJ, and there were still few works that built a single worldview throughout the album.
 
 Orbital, created by brothers Phil and Paul Hartnoll, changes that in a big way.
 
@@ -1411,7 +1411,7 @@ Its influence extends to progressive house, trance, IDM, live techno, and even m
 
 In this ranking, works that changed the structure of electronic music itself were ranked 68th, but the idea that ""lyrism and album art can exist in techno'' that this work showed was an important turning point in the subsequent history of electronic music.
 
-> **"'Orbital 2' evolved techno from functional club music to album art with emotion and story. Due to its historical significance, we rank it at number 68 in this ranking."**
+> **"'Orbital 2' evolved techno from functional club music to album art with emotion and narrative. Its historical significance ranks it at number 68 in this ranking."**
 
 ---
 
@@ -1556,7 +1556,7 @@ This ranking ranked 69th because it ranks works that created the structure of ra
 
 ### "The moment club music became a comprehensive art"
 
-Released on January 30, 1995, **Leftism** is a historical work that shows that club music has matured from being a single genre to an expression that integrates diverse musical cultures.
+Released on January 30, 1995, **Leftism** is a historical work that shows that club music has matured into an expression that integrates diverse musical cultures, rather than a single genre.
 
 Beyond house and techno, Leftfield has absorbed dub, reggae, breakbeat, ambient, and even rock dynamics, organically combining them into an album.
 
@@ -1592,7 +1592,7 @@ The bass is not just a rhythm section.
 
 It functions like a building that supports the entire space, and beats and synthesizers are placed three-dimensionally on top of it.
 
-When experienced through a club's sound system, the sound vibrates not only your body, but the space itself.
+When experienced through a club's sound system, the sound not only vibrates your body, but the space itself.
 
 This idea had a major influence on later UK bass music and dubstep.
 
@@ -1635,8 +1635,8 @@ Leftism is a seminal work that brought together house, techno, dub, and breakbea
 
 Its influence extends to 21st century electronic music, including The Chemical Brothers, Burial, Four Tet, and Jon Hopkins.
 
-In this ranking, we ranked 70th because we place works that created and institutionalized club culture itself at the top, but this work's idea of ​​""electronic music that transcends genres and integrates'' is an important foundation of modern club music.
+In this ranking, we ranked 70th because we place works that created and institutionalized club culture itself at the top, but the idea of ​​""electronic music that transcends genres and integrates'' that this work shows is an important foundation of modern club music.
 
-> **"'Leftism' redefined club music as a fusion of multiple genres and matured into the comprehensive art of an album. Due to its historical significance, it is ranked 70th in this ranking."**
+> **""'Leftism' redefined club music as a fusion of multiple genres and matured into the comprehensive art of an album. Due to its historical significance, it is ranked 70th in this ranking.''**
 
 ---

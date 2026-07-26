@@ -179,7 +179,7 @@ For production,
 *Pete Rock
 *Large Professor
 *Q-Tip
-* L.E.S.
+*L.E.S.
 
 participated.
 
@@ -264,7 +264,7 @@ However, in this ranking, works that changed the system and industrial structure
 
 Ready to Die, released on September 13, 1994, was a historic piece that transformed a hip-hop album from a collection of songs into a feature film depicting the life of a single person.
 
-Although it is his debut work, The Notorious B.I.G. constructs a story from his childhood, crime, success, conflict, and even a premonition of death. This work has great historical significance as it had a great influence on the later works known as ""concept albums.''
+Although it is his debut work, The Notorious B.I.G. constructs a story from his childhood, crime, success, conflict, and even a premonition of death. This work has great historical significance, as it had a great influence on the later works known as ""concept albums.''
 
 ---
 
@@ -272,7 +272,7 @@ Although it is his debut work, The Notorious B.I.G. constructs a story from his 
 
 In the early 1990s, West Coast artists were enjoying great success in the hip-hop market. Meanwhile, a new generation of stars was needed in New York.
 
-Ready to Die, released on Bad Boy Records led by Sean Combs (then known as Puff Daddy), became a symbol of East Coast hip-hop's resurgence.
+Ready to Die, released on Bad Boy Records led by Sean Combs (then known as Puff Daddy), became a symbol of East Coast hip-hop's revival.
 
 This work ushered in a new golden age of New York hip-hop, combining street realism and sophisticated production at a high level.
 
@@ -397,7 +397,7 @@ He not only designed the music, but also the group's ideology, visuals, and busi
 
 ## The aesthetic of lo-fi
 
-The sound of Enter the Wu-Tang (36 Chambers) is extremely rough compared to major releases of the time.
+The sound on Enter the Wu-Tang (36 Chambers) is extremely rough compared to major releases of the time.
 
 * Roughness of sample
 * Deliberately left noise
@@ -517,7 +517,7 @@ Their sound was completely different from hip-hop.
 * Bold introduction of noise and scratches
 * Collage of sirens and news voices
 
-By carefully combining these elements, we expressed the hustle and bustle of the city and the tension of society as acoustics.
+By carefully combining these elements, we expressed the hustle and bustle of the city and the tension of society in the form of acoustics.
 
 <div class="mermaid">
 flowchart TD
@@ -686,7 +686,7 @@ Furthermore, her equal treatment of themes such as motherhood, faith, society, a
 
 The Miseducation of Lauryn Hill is a work that merges hip-hop and soul into a single persona, blurring the very boundaries of genre.
 
-Furthermore, his expression of sublimating personal experience into a universal story became an important indicator of R&B and hip-hop in the 21st century and beyond.
+Furthermore, his expression of sublimating personal experiences into universal stories has become an important indicator of R&B and hip-hop in the 21st century and beyond.
 
 In this ranking, works that change the structure of the entire genre are ranked higher, so we ranked it 36th, but this work represents a major turning point in the history of music as it shows a new sense of values: ""An artist is not an entity that fits into one genre.''
 
@@ -704,7 +704,7 @@ Released on March 15, 2015, To Pimp a Butterfly is not only a masterpiece of 21s
 
 In this work, Kendrick Lamar intricately intertwines his own successes and struggles, racial issues, history, religion, capitalism, and identity, creating a single album that serves as ""a document that deciphers contemporary America.''
 
-If ""Illmatic" depicted the city as literature, and ""Fear of a Black Planet" brought politics to rap, ""To Pimp a Butterfly'' integrates the two, making hip-hop a comprehensive art that speaks of history and philosophy.
+If ""Illmatic" depicted the city as literature, and ""Fear of a Black Planet" brought politics into rap, ""To Pimp a Butterfly'' integrates the two, making hip-hop a comprehensive art that speaks of history and philosophy.
 
 ---
 
@@ -1036,7 +1036,7 @@ However, "808s & Heartbreak"
 * Self-denial
 * Loss
 
-It has also been shown that talking about is an important expression of hip-hop.
+It has also been shown that talking about things is an important expression of hip-hop.
 
 Its influence extends beyond music to cultural perceptions of masculinity and emotional expression.
 
@@ -1155,7 +1155,7 @@ especially,
 
 These values ​​are strongly inherited in the creative attitude of contemporary artists.
 
-That spirit can also be found in the work of Kendrick Lamar, Tyler, the Creator, and Childish Gambino.
+You can find that spirit in the work of Kendrick Lamar, Tyler, the Creator, and Childish Gambino.
 
 ---
 
@@ -1165,7 +1165,7 @@ That spirit can also be found in the work of Kendrick Lamar, Tyler, the Creator,
 
 It is also an album that symbolizes that hip-hop has transcended the binary opposition of East Coast and West Coast and has grown into a vessel that embraces diverse cultures and histories.
 
-In this ranking, works that have revolutionized broader social systems and production methods are ranked 40th, so their cultural significance goes beyond their ranking.
+In this ranking, works that have revolutionized a broader range of social systems and production methods are ranked 40th, so their cultural significance is greater than their ranking.
 
 > "'Aquemini' elevated Southern hip-hop to a global artistic expression and proved that regional culture can be a universal creative force. Due to its historical significance, we rank it at number 40 in this ranking."
 
@@ -1196,7 +1196,7 @@ Hip hop didn"t end here. Rather, from this point on, it would further deepen its
 
 In Part 4, we traced the evolution of hip-hop into an art that designs literature, politics, society, and culture itself.
 
-However, if we look at the history of music, there is another huge trend.
+However, if we look at the history of music from a bird's-eye view, there is another huge trend.
 
 That is the history of rock's "self-reinvention".
 
@@ -1231,6 +1231,6 @@ The theme of the 5th edition is ""How did rock destroy itself and continue to ev
 
 Rock was never a complete form.
 
-Its history is one of continuous revolution, constantly surpassing previous works, overturning preconceptions, and opening up new musical possibilities.
+Its history has been one of continuous revolution, constantly surpassing previous works, overturning preconceptions, and opening up new musical possibilities.
 
 ---

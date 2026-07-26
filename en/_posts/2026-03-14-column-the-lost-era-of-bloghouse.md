@@ -25,8 +25,8 @@ Text: mmr | Theme: The history of the birth and disappearance of "Bloghouse" in 
 
 In the mid-2000s, the distribution structure of club music was undergoing major changes. In addition to traditional dissemination channels centered on record shops and the DJ community, the Internet, especially music blogs, began to become a new base for dissemination.
 
-The music style that emerged during this period was the culture that later became known as ""Bloghouse.''
-Bloghouse is not a strict musical genre, but rather a movement closely tied to internet culture.
+The music style that emerged during this era was the culture that later became known as ""Bloghouse.''
+Bloghouse is not a strict musical genre, but rather a movement closely tied to Internet culture.
 
 Features include the following elements:
 
@@ -103,7 +103,7 @@ The main ways to discover music were:
 
 Of particular importance was the MP3 blog.
 
-The music blog was a site where the administrator introduced the music he liked.
+The music blog was a site where the administrator introduced his favorite music.
 The article was accompanied by an MP3 file that readers could download directly.
 
 These sites existed in the thousands and were linked together to form a network.
@@ -287,7 +287,7 @@ Additionally, the current TikTok and SoundCloud cultures have a structure simila
 
 The system of spreading music through the community was already established during the Bloghouse era.
 
-If you look at the history of club culture, these movements come and go in short cycles.
+If you look at the history of club culture, movements like these come and go in short cycles.
 However, its influence is passed on to the next generation of music.
 
 Bloghouse is also one of the important footprints left behind by the internet culture of the 2000s.

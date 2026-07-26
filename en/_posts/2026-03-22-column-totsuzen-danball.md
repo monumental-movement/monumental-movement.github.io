@@ -23,7 +23,7 @@ Text: mmr｜Theme: The singularity of the Japanese underground, which deconstruc
 
 ### Music that starts with a strange name
 
-In the history of Japanese independent music, the name ""Sudden Danboard'' has an extremely foreign ring to it. This unit was formed by older brother Eiichi Tsutaki and younger brother Shunji Tsutaki, and began their own activities in the late 1970s.
+In the history of Japanese independent music, the name ""Sudden Danboard'' has an extremely strange ring to it. This unit was formed by older brother Eiichi Tsutaki and younger brother Shunji Tsutaki, and began their own activities in the late 1970s.
 
 Whereas many rock bands of the time relied on clear genres and styles, suddenly Cardboard's music was deliberately deviating from those frameworks. Although the songs have unstable rhythms and simple structures, there is a unique logic within them.
 
@@ -58,7 +58,7 @@ Even in the field of music, there is a movement to distance itself from the popu
 
 Cardboard suddenly appeared in this context. Their music directly expressed the subtle discomforts and indescribable sensations felt in urban life.
 
-> Changes in society have led to a more internal expression of individual expression.
+> Social changes have led to a more internal expression of individual expression.
 
 ---
 
@@ -82,7 +82,7 @@ Additionally, by handling everything from production to distribution themselves,
 
 The most characteristic feature of Sudden Cardboard's music is the instability of its rhythm. Rather than maintaining a constant tempo, the beat that moves back and forth subtly dominates the entire song.
 
-This fluctuation is not a coincidence; it is intentionally created. Because the rhythm is not fixed, the listener must constantly pay attention to changes in the sound.
+This fluctuation is not a coincidence, but is intentionally created. Because the rhythm is not fixed, the listener must constantly pay attention to changes in the sound.
 
 As a result, the music has a strong presence, refusing to be consumed as a "background".
 

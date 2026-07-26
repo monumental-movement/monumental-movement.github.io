@@ -200,7 +200,7 @@ In an era when club spaces were suspended, electronic music began to be redefine
 
 Loraine James was a symbol of that change.
 
-> ""Reflection'' was an important work that transformed electronic music into an internal experience.
+> ""Reflection'' was an important work that transformed electronic music into an inner experience.
 
 ---
 
@@ -216,7 +216,7 @@ This isn't just a side project. Rather, it shows the core of her musical interes
 
 Electronic music has long been required to be "futuristic." However, in Whatever The Weather, the very atmosphere of life is turned into music.
 
-Rain sounds, indoor reverberations, minute noises. They are treated as extensions of emotions.
+Rain sounds, indoor reverberations, minute noises. They are treated as an extension of emotions.
 
 <div class="mermaid">
 graph TD
@@ -293,7 +293,7 @@ The following characteristics are prevalent in the current electronic music scen
 - Cross-genre
 - internal themes
 
-These are elements that existed before Loraine James. However, she integrated them into a modern sentiment.
+These are elements that existed before Loraine James. But she integrated them into modern sentiments.
 
 <div class="mermaid">
 graph TD

@@ -18,9 +18,9 @@ title: '[Column] The world of CMOS Synth and Lunetta: The aesthetics of primitiv
 
 ## What is CMOS Synth?
 
-Text: mmr｜Theme: The moment when logic circuits become music ─ The world of primitive electronic acoustics depicted by CMOS Synth and Lunetta
+Text: mmr | Theme: The moment when logic circuits become music ─ The world of primitive electronic acoustics depicted by CMOS Synth and Lunetta
 
-The so-called Lunetta Synth, a DIY synthesizer using CMOS logic ICs, is a culture that generates sounds from extremely simple and primitive circuits, in contrast to today's sophisticated electronic music environment. This article will discuss its origins, structure, acoustic characteristics, and modern re-evaluation based on historical facts and technical perspectives.
+DIY synthesizers using CMOS logic ICs, the so-called Lunetta Synth, are a culture that generates sounds from extremely simple and primitive circuits, in contrast to today's sophisticated electronic music environment. This article will discuss its origins, structure, acoustic characteristics, and modern re-evaluation based on historical facts and technical perspectives.
 
 ### The moment when logic IC becomes sound
 
@@ -146,7 +146,7 @@ However, the decisive difference is that the focus is on logic signals rather th
 
 ## Acoustic characteristics
 
-### Square wave domination
+### Dominance of square waves
 
 The basic waveform of CMOS Synth is a square wave. This results in the following characteristics:
 

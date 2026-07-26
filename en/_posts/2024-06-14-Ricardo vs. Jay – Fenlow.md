@@ -14,9 +14,9 @@ title: Ricardo vs. Jay – Fenlow
 ---
 
 
-A house minimal track by Ricardo Villalobos, a heavyweight in the minimal techno world, and DJ Jay Haze, a US-born German-based producer.
+A house minimal track by Ricardo Villalobos, a heavyweight in the minimal techno world, and DJ Jay Haze, a producer from the US but based in Germany.
 
-""Fenlow'' was released in 2004 by Contexterrior, a label specializing in dance music with heavy use of sub-bass, clicks, and glitches.
+""Fenlow'' was released in 2004 by Contexterrior, a label specializing in dance music that makes extensive use of sub-bass, clicks, and glitches.
 
 #### Tracklist
 ```md

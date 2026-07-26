@@ -17,7 +17,7 @@ title: '[Column] High brands and noise music — the intersection of luxury and 
 
 Text: mmr｜Theme: The affinity between recent fashion shows and noise music
 
-Noise music is all about underground live houses, sweat and feedback sounds, and extreme performances. High-end brands, on the other hand, are the runways of Paris, Milan, and Tokyo, shiny textiles, and the height of sophistication.
+Noise music is all about underground live houses, sweat and feedback sounds, and extreme performances. High brands, on the other hand, are the runways of Paris, Milan, and Tokyo, shiny textiles, and the height of sophistication.
 It is easy to think that the two cannot intersect.
 However, if you look at fashion shows in recent years, you will find that the two have built a surprisingly close relationship.
 
@@ -54,7 +54,7 @@ Noise becomes a device that emphasizes the dismantling of fashion's existing bea
 
 ### Paradoxical affinity — anti-commercial becomes brand value
 
-Noise originally developed as an antithesis to capitalism and commercial music. What Merzbow and Hijikadan embody is ""outside the framework of the music industry.''
+Noise originally developed as an antithesis to capitalism and commercial music. What Merzbow and Hijikaido embody is ""outside the framework of the music industry.''
 But ironically, it's this "anti-commercial" attitude that makes it an attractive poison for brands.
 
 Just as [Vivienne Westwood](https://amzn.to/46DRqyf) incorporated punk into capitalism, noise is also used as a ""foreign substance for brands to differentiate themselves.'' In other words, rebellion is transformed into a nourishing source of luxury.
@@ -199,7 +199,7 @@ Related artists: Swans, Shellac.
 | [**Yohji Yamamoto**](https://amzn.to/42cl0JT) | Keiji Haino, improviser | Contrast between silence and roar |
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Throbbing Gristle, Whitehouse, Puce Mary | Ruined space and violent acoustics |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Sunn O))), Deathprod, NWW | Ritual Immersive Experience |
-| [**Gucci**](https://amzn.to/4gIXl9X) | Fennesz, Alessandro Cortini | Collision of extravagance and foreign sensation |
+| [**Gucci**](https://amzn.to/4gIXl9X) | Fennesz, Alessandro Cortini | Collision of luxury and foreignness |
 | [**Vivienne Westwood**](https://amzn.to/46DRqyf) | Sex Pistols, early industrial group | Introduction of anti-establishment and anti-aesthetics |
 | [**Prada**](https://amzn.to/4nonZY9) | Ryoji Ikeda, Oval | Transforming city noise into elegance |
 | [**Alexander McQueen**](https://amzn.to/46wxWLO) | Aphex Twin, Chris Watson | A devastating production of beauty and death |
@@ -248,7 +248,7 @@ From the noise/experimental music side, contact with high-end brands was also im
 
 ### COMME des GARÇONS / Gucci / Prada
 
-Archive of materials related to "noise/experimental artists/acoustics that were actually used in shows/campaigns (or whose relationship was clearly reported)"
+Material archive of "noise/experimental artists/acoustics that were actually used in shows/campaigns (or whose relationship was clearly reported)"
 
 COMME des GARÇONS — A tradition of incorporating experimental sounds/noise into "show music"
 
@@ -273,7 +273,7 @@ COMME des GARÇONS — A tradition of incorporating experimental sounds/noise in
 | Show / Materials | Artists | Supplements | References |
 | ---------------------------- | ------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [Gucci](https://amzn.to/4gIXl9X) (Sabato De Sarno debut show, etc.) | **[Mark Ronson](https://amzn.to/46nSdEG) (Show music production/mix)** | Mark Ronson produces Gucci"s show music. An example of mixing classical music to contemporary pop/remix to create a show"s narrative (detailed interview included in the article). ([Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)) | [Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com) |
-| Gucci campaign/special video (region-limited sound material) | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2) (e.g. providing music for some projects)** | [Cortini](https://amzn.to/3WaGPWF)(Nine Inch Nails Related) and electronic music from the same generation are being used in brand videos (there are examples of music being provided for projects aimed at China). *This does not mean that all of the brand's shows are noise-oriented, but rather a "local selection of production." ([Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
+| Gucci campaign/special video (region-limited sound material) | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2) (e.g. providing music for some projects)** | [Cortini](https://amzn.to/3WaGPWF)(Nine Inch Nails Related) and electronic music from the same generation are being used in brand videos (there are examples of music being provided in projects for China, etc.). *This does not mean that all of the brand's shows are noise-oriented, but rather a "local selection of production." ([Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
 
 ---
 
@@ -313,9 +313,9 @@ COMME des GARÇONS — A tradition of incorporating experimental sounds/noise in
 | Brand | Representative video | Featured artist (report/credit) |
 | ------------------- | -------------------- |-------------------------- |
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); Shows playlist — [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Sound design: **BFRND** (Show exclusive score)/Industrial sound usage example |
-| [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 "TEMPLE" — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 etc. (many) | Drone/low frequency production. Immersive noise production can be confirmed from the show video |
+| [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 "TEMPLE" — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 etc. (many) | Drone/Low frequency production. Immersive noise production can be confirmed from the show footage |
 | **Alexander McQueen** | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery & Alessandro Cortini** appointed as campaign song (song "At First Sight") |
-| **Louis Vuitton** | Various show & afterparty records (example archives) — Daft Punk / Virgil Abloh's DJ relationships, etc. (multiple) | In the past, **Daft Punk** provided song editing to LV and also used **Dev Hynes (Blood Orange)** for the score (Virgil Abloh period) |
+| **Louis Vuitton** | Various show & afterparty records (example archives) — Daft Punk/Virgil Abloh's DJ relationships, etc. (multiple) | In the past, **Daft Punk** provided song editing to LV and also used **Dev Hynes (Blood Orange)** for the score (Virgil Abloh period) |
 | **Dior** | Dior (various campaigns/show videos) | There are many cases in which sound designers such as Frédéric Sanchez are involved, and there is a connection with ambient/drone-type production |
 
 ---
@@ -325,7 +325,7 @@ COMME des GARÇONS — A tradition of incorporating experimental sounds/noise in
 "High brand" and "noise music" seem to be unrelated at first glance.
 However, both share an aesthetic that deconstructs and reconstructs beauty.
 Noise tears apart the pretensions of luxury and paradoxically strengthens its brand value.
-The roar that echoes on the runways of the 21st century is proof that brands are not ""existences to be consumed" but ""existences that provoke."
+The roar that echoes on the runways of the 21st century is proof that brands are not meant to be consumed, but to provoke.
 
 ---
 

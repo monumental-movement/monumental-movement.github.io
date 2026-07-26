@@ -39,7 +39,7 @@ A pianist and an orchestra provided live music at the movie theater. Therefore, 
 
 Starting with [""The Jazz Singer'' (1927)] (https://amzn.to/3Wn4CTH), **Optical Sound** was introduced, and we entered an era in which audio information (scores) were recorded on video film.
 
-Around this time, the meaning of ""soundtrack = audio material of a movie'' became clear.
+Around this time, the meaning of ""soundtrack = movie audio material'' became clear.
 
 **●Major media for film music: technological changes in recording and playback**
 

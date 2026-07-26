@@ -17,7 +17,7 @@ Adam Beyer is a Swedish techno producer and DJ from Stockholm. He has released n
 
 Henrik Gustav Berntsson, also known as Henrik B, is a Swedish techno house producer and DJ. Henrik B was once a member of the Swedish House Mafia. Since around 2006, he has been releasing downtempo songs.
 
-"Heat / Wombing" is a techno track released in 2003 by Henrik B's label Illgorhythm Recordings.
+"Heat/Wombing" is a techno track released in 2003 by Henrik B's label Illgorhythm Recordings.
 
 #### Tracklist
 ```md

@@ -24,17 +24,17 @@ Text: mmr｜Theme: The reality of the creation and conflict of a duo that contin
 
 ### Early childhood influences and escape into music
 
-Tears for Fears was formed in 1981 by Roland Orzabal and Curt Smith. The town of Bath where they met is surrounded by historical buildings and a quiet environment, and it is said that its closed-off atmosphere fostered a sense of introspection in them.
+Tears for Fears was formed in 1981 by Roland Orzabal and Curt Smith. The city of Bath where they met is surrounded by historical buildings and a quiet environment, and it is said that its closed-off atmosphere fostered a sense of introspection in them.
 
 Orzabal was born into a Spanish family and experienced family tension and loneliness during his childhood. Smith also had unstable family backgrounds, and for them music was more than just entertainment, it was a refuge from reality.
 
-They first started out as Graduate, but their experiences during this period made them keenly aware of the limitations of ""music that relies on external styles.'' Orzabal later recalled that the music at the time "had nothing to do with our true feelings."
+They first started out as Graduate, but their experiences during this period made them acutely aware of the limitations of ""music that relies on external styles.'' Orzabal later recalled that the music at the time "had nothing to do with our true feelings."
 
 Arthur Janov"s original therapy, from which the band"s name is derived, is the idea of ​​""aiming for mental recovery by releasing suppressed emotions,'' and this was not just an inspiration, but a methodology for writing and composing songs.
 
 ### Episode: Early demo evaluation
 
-Early demo tapes were often deemed "too dark" by record companies at the time. However, this "darkness" is what makes them unique and ultimately makes them stand out in the market.
+Early demo tapes were often deemed "too dark" by record companies at the time. However, that "darkness" is what makes them unique, and ultimately makes them stand out in the market.
 
 > Their decision to channel their inner pain into music definitely separated them from other new wave bands.
 
@@ -64,7 +64,7 @@ Songs like ""Mad World" and ""Pale Shelter" deal with personal loneliness while 
 
 ### Episode: Uncomfortable feeling at live performance
 
-At live shows during this period, while the audience enjoyed dancing, the band performed with almost no expressions on their faces. It is said that this imbalance left a strong impression on viewers.
+At live shows during this period, while the audience enjoyed dancing, the band performed with almost no expression on their faces. It is said that this imbalance left a strong impression on viewers.
 
 It is also said that Orzabal had mixed feelings about the audience's lack of deep understanding of the meaning of the lyrics.
 
@@ -86,7 +86,7 @@ Some critics called the album "overly introspective," but the reviews were not n
 
 ### Episode: Success in America
 
-Success in the American market was an unexpected turn of events for them. They had to fill a huge venue during the tour, and they felt confused by the scale of the venue.
+Success in the American market was an unexpected turn of events for them. During the tour, they had to fill a huge venue, and it was said that they felt confused by the scale of the venue.
 
 Curt Smith later said, "My heart couldn't keep up with the speed of success."
 
@@ -112,7 +112,7 @@ The production costs for this album were said to be significantly higher than th
 
 ### Episode: Distance between members
 
-Curt Smith gradually loses his voice during the production process, and eventually becomes emotionally distant. His departure was not sudden, but the result of a long process.
+Curt Smith gradually loses his voice during the production process and eventually becomes emotionally distant. His departure was not sudden, but the result of a long process.
 
 > Expanding artistic ambitions led to the collapse of the band's internal structure.
 
@@ -126,7 +126,7 @@ After leaving Smith, Orzabal released Elemental and had some success with "Break
 
 ### Episode: The Weight of Names
 
-There were pros and cons about keeping the name "Tears for Fears," with some fans saying, "Isn't this essentially a solo?"
+There were pros and cons about keeping the name "Tears for Fears", with some fans saying, "Isn't this essentially a solo album?"
 
 Still, Orzabal has chosen to preserve the history and meaning of its name.
 
@@ -142,7 +142,7 @@ In the early 2000s, after years of conflict, the two reunited. At the reunion, t
 
 ### ""The Tipping Point'' and maturity
 
-2022's The Tipping Point is a work that explores the themes of loss and the passage of time, and has a depth different from the introspection of his youth.
+2022's The Tipping Point is a work that explores the themes of loss and the passage of time, and has a different depth than the introspection of his youth.
 
 ### Episode: The Impact of Personal Tragedy
 
@@ -188,7 +188,7 @@ flowchart LR
 
 ## summary
 
-Tears for Fears is an example of an answer to the question, ""To what extent can you express your emotions?'' in pop music. Their music is not just a collection of hit songs, but has functioned as an attempt to connect the inner world of the individual with the social structure.
+Tears for Fears is an example of an answer to the question of ""how far can you express your emotions?'' in pop music. Their music is not just a collection of hit songs, but has functioned as an attempt to connect the inner world of the individual with the social structure.
 
 The series of successes, conflicts, breakups, and reunions gives their music a narrative quality that can be taken as a work in itself.
 

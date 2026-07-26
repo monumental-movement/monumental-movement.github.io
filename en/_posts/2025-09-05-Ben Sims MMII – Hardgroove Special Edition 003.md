@@ -15,7 +15,7 @@ title: Ben Sims MMII – Hardgroove Special Edition 003
 
 Ben Sims MMII is one of the aliases of techno legend Ben Sims.
 
-Tribal Techno/Hardgroove was released in 2003 by Ben Sims, known as the standard-bearer of Hardgroove Techno, on his own label Hardgroove. It was released as the third installment of the Hardgroove label's "Special Edition" series. A piece where you can fully enjoy the world of Ben Sims.
+Tribal Techno/Hardgroove was released in 2003 by Ben Sims, known as the standard-bearer of Hardgroove Techno, from his own label Hardgroove. It was released as the third installment of the Hardgroove label's "Special Edition" series. A piece where you can fully enjoy the world of Ben Sims.
 
 #### Tracklist
 ```md

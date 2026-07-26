@@ -12,9 +12,9 @@ title: Friction – '79 Live
 ---
 
 
-Friction was a Japanese punk rock band that was at the center of the "Tokyo Rockers" movement in the late 1970s.
+Friction was a Japanese punk rock band that was at the center of the Tokyo Rockers movement in the late 1970s.
 
-"'79 Live" A 2005 reissue of the live album containing the 1979 live performance (DVD included).
+"'79 Live" A 2005 reissue of the live album containing the 1979 live performance (with DVD).
 
 #### Tracklist
 ```md

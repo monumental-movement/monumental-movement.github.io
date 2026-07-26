@@ -81,7 +81,7 @@ No Wave was more than just a musical genre, it was a cultural movement that inte
 
 DNA's songs on No New York are still handed down as symbolic records of this movement.
 
-His guitar was evaluated in a context different from the traditional "playing technique." Rather, it was an attempt to deconstruct and reconstruct sound itself.
+His guitar was evaluated in a context different from traditional "playing technique." Rather, it was an attempt to deconstruct and reconstruct sound itself.
 
 > Noise was not destruction for him, but the creation of a new language.
 
@@ -147,7 +147,7 @@ What is more important in Lindsay's music than melody or rhythm is the ""texture
 
 The sound is not just an effect, but exists as an extension of a physical gesture.
 
-### Relationship between studio and live performances
+### Relationship between studio and live performance
 
 He is conscious of the spatial spread of sound in both studio recordings and live performances. How the sounds are arranged and how they disappear. The process itself becomes part of the work.
 

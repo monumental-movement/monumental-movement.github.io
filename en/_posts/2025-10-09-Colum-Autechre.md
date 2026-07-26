@@ -20,7 +20,7 @@ Text: mmr | Theme: Autechre by Sean Booth and Rob Brown. Tracing the evolution o
 Autechre is more than just an electronic music duo.
 Their sound is both mathematical and raw. It looks cold and leaves a somewhat human roughness. Sean Booth and Rob Brown, two young men who met in north Manchester, set out on a path to redefining the very structure of sound, using hip-hop and engineering curiosity as starting points.
 
-In the early 1990s, Autechre was a standout among Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
+In the early 1990s, Autechre stood out in Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
 
 > "Techno for us is not about eliminating emotion, but expressing it through structure."
 
@@ -103,7 +103,7 @@ Autechre's live performances completely exclude visual presentation.
 The lights go out and the stage is dark. The audience will be enveloped in a **space of pure sound**.
 This complete inorganic nature is proof that they aim to "dominate the body with sound alone."
 
-In the 2010s, they released the **AE_LIVE series**. The sounds that the program improvised were recorded as they were, and different structures were presented for each city.
+In the 2010s, they released the **AE_LIVE series**. We recorded the sounds that the program improvised as they were, and presented a different structure for each city.
 Furthermore, "NTS Sessions 1–4" (2018) is a masterpiece that is over 8 hours long. This is a monumental achievement in which Autechre has built a "universe of acoustic algorithms."
 
 > "Improvisation is also about borrowing the thinking of a program."
@@ -126,7 +126,7 @@ Their sound is always walking the middle ground between the future and nostalgia
 
 Along with Aphex Twin and Squarepusher, Autechre's influence has been deeply etched in the design philosophy of electronic music since the 21st century.
 Artists influenced by them include **Alva Noto, Ryoji Ikeda, and Oneohtrix Point Never**.
-Both of them explore the boundaries between "structure and emotion" and "algorithm and poetry."
+All of them explore the boundaries between "structure and emotion" and "algorithm and poetry."
 
 Autechre has functioned as a device that asks questions such as ""What is composition?" and ""What is a human being?" as technology advances.
 Even after the term IDM has been exhausted, Autechre continues to leave its ""intellectual genes'' in modern music.
@@ -221,7 +221,7 @@ The journey to find the answer is far from over.
 
 🔗 [[Column] From the origins of IDM to the present - Between intellectual exploration and the dance floor](https://monumental-movement.jp/Column-IDM)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 

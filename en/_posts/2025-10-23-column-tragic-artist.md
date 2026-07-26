@@ -19,7 +19,7 @@ title: '[Column] How to perceive the charm of destructive artists - Between crea
 Text: mmr｜Theme: Genius and destruction, creation and self-destruction. From Kurt Cobain to Amy Winehouse to Yukio Mishima. Explore why people are attracted to destructive artists from the perspectives of psychology, cultural history, and brain science.
 
 
-Why are we so captivated by the image of an artist heading toward destruction?
+Why are we so captivated by the image of an artist heading towards destruction?
 Kurt Cobain, Jim Morrison, Amy Winehouse, and Yukio Mishima.
 Their lives came to an untimely end, with their works shining like crystals of pain, conflict, and loneliness.
 
@@ -103,7 +103,7 @@ It can be said that he was anticipating the 21st century structure associated wi
 
 ---
 
-## Chapter 6: Ethics and Empathy – Are we "consumers" or "accomplices"?
+## Chapter 6: Ethics and empathy – are we "consumers" or "accomplices"?
 
 Admiring tragedy often carries a structure of perpetration.
 Fans unconsciously "glorify" the artist's pain,

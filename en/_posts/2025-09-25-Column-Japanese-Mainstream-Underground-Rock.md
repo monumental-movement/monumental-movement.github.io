@@ -17,7 +17,7 @@ title: '[Column] Japanese rock history: The intersection of mainstream and under
 
 Text: mmr｜Theme: Mainstream and underground Japanese rock
 
-Japanese rock began to spread with [Group Sounds (GS)](https://amzn.to/4gP5wli), which flourished in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
+Japanese rock began to spread with [Group Sounds (GS)] (https://amzn.to/4gP5wli), which flourished in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
 
 ---
 
@@ -61,15 +61,15 @@ At the same time as mainstream music such as [BOØWY](https://amzn.to/48lIrED) /
 
 [Shonen Knife](https://amzn.to/3VFVclI) — Pop punk from Osaka. Nirvana's Kurt Cobain also praised it.
 
-[Melt-Banana](https://amzn.to/46pXls3) — An overwhelming live band with a noisecore/grind feel. His work was published by John Zorn's Tzadik and received international acclaim.
+[Melt-Banana](https://amzn.to/46pXls3) — An overwhelming live band with a noisecore/grind feel. His work was released on Tzadik, which was sponsored by John Zorn, and received international acclaim.
 
 [Acid Mother's Temple](https://amzn.to/3IHRrJC) — A deluge of psych drones. Overwhelming support at European festivals.
 
 ---
 
-### 2000s: Guitar Wolf's rock and roll
+### 2000s: Guitar Wolf"s rock"n'roll
 
-[Guitar Wolf](https://amzn.to/42cIG0G) — Standard bearer of "Jet Rock"n"Roll". After touring overseas, they became a symbol of the garage rock revival.
+[Guitar Wolf](https://amzn.to/42cIG0G) — Standard bearer of "Jet Rock and Roll." After touring overseas, they became a symbol of the garage rock revival.
 
 ---
 
@@ -139,13 +139,13 @@ A4: We gained international acclaim for our overwhelming live performances, sens
 
 **Q5: What is Seiichi Yamamoto's most famous work? **
 
-A5: [Memory Wharf ""Underwater Joe"](https://amzn.to/4pJINuQ), [ROVO's live show](https://amzn.to/4gJvJRT), and solo works [""Crown of Fuzzy Groove"](https://amzn.to/4pJ0ESq) are important.
+A5: [Memory Wharf ""Underwater Joe"] (https://amzn.to/4pJINuQ), [ROVO's live performance] (https://amzn.to/4gJvJRT), and solo works [""Crown of Fuzzy Groove"] (https://amzn.to/4pJ0ESq) are important.
 
 ---
 
 ### summary
 
-Japan"s rock history has evolved in parallel with the "mainstream" on the front and the "underground" on the back. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
+Japan"s rock history has evolved in parallel with the ""mainstream" front and the ""underground" behind the scenes. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
 
 ---
 

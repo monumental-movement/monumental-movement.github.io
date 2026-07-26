@@ -26,7 +26,7 @@ Emerging from London's underground scene in 1969, Hawkwind hold a unique place i
 
 The central figure, Dave Brock, starts with blues and folk, but gradually moves toward layering repetition, drone, and electronic sounds. In the process, the band converged into a unique style with a certain rhythm and structure, while still having improvisation as its core.
 
-Their music is often referred to as "space rock," but that"s not just an atmospheric metaphor. Sustained beats, siren-like synth sounds, and speaking vocals. When they come together, the listener"s perception is separated from their everyday sense of time.
+Their music is often referred to as "space rock," but that"s not just an atmospheric metaphor. Sustained beats, siren-like synth sounds, and spoken word vocals. When they come together, the listener"s perception is separated from their everyday sense of time.
 
 At this point, the key elements that would later lead to techno and ambient music were already in place. Repetition, trance, and mechanical rhythm.
 
@@ -55,7 +55,7 @@ color: #fff;
 
 Hawkwind's uniqueness is evident not only in their live performances, but also in their studio work. Here, we will take up representative works and organize their structures and meanings.
 
-The album ""In Search of Space"' was an early turning point. It is a work that strengthens electronic sounds and narration elements, and clarifies the band"s direction. The sounds are not just pieces of music, but arranged as a continuous experience.
+The album ""In Search of Space"' was an early turning point. It is a work that strengthens electronic sounds and narration elements, and clarifies the band"s direction. The sounds are not just pieces of music, but are arranged as a continuous experience.
 
 The follow-up, Doremi Fasol Latido, introduces a tighter repeating structure. The sustain of the riffs and the driving force of the rhythm became stronger, and the trance-like nature of the song became even more intense. The sound here is very close to later techno structures.
 
@@ -135,9 +135,9 @@ Additionally, the almost excessive volume and duration have a direct effect on p
 
 ### Introduction to weight and velocity
 
-Hawkwind's sound changed significantly in the early 1970s, when Lemmy, who would go on to form Motörhead, was a member.
+In the early 1970s, when Lemmy, who would go on to form Motörhead, was a member, Hawkwind's sound changed significantly.
 
-Their signature song, ""Silver Machine,'' has a simple, powerful riff and a propulsive rhythm, and instantly boosted the band's popularity. During this period, they acquire a more rock-like energy.
+Their signature song, ""Silver Machine,'' has a simple, powerful riff and a propulsive rhythm, and it instantly boosted the band's popularity. During this period, they acquire a more rock-like energy.
 
 However, what is interesting is that even after making it hard, the repetitive structure is maintained. The addition of speed and weight makes the trance even more physical.
 
@@ -198,7 +198,7 @@ timeline
 
 Although the members have changed drastically over the long period of their activities, the core ideology remains consistent. It is "extension through sound."
 
-> Although Hawkwind changes its shape from time to time, it always continues on the same route.
+> Hawkwind has always continued on the same route, even though its shape has changed over time.
 
 ---
 

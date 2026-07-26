@@ -141,7 +141,7 @@ In fact, the works released in 2020–2021 are more for listening than for club 
 ## ● 2) High-speed techno is rising through SNS
 An interesting reversal also occurred.
 
-Although the clubs were closed, **high-speed techno (150-160 BPM) started to go viral on social media**.
+Although the club was closed, **high-speed techno (150-160 BPM) started to go viral on social media**.
 
 The reason is as follows:
 

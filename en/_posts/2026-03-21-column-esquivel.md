@@ -61,7 +61,7 @@ Already at this stage, his music was not just centered around melodies, but was 
 
 ---
 
-## Expansion into America and the stereo revolution
+## American expansion and stereo revolution
 
 In the late 1950s, Esquivel moved his activities to the United States. At the time, home audio equipment was rapidly becoming popular in America as the consumer society expanded.
 

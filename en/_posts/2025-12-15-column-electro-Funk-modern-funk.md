@@ -23,7 +23,7 @@ Electro-Funk/Modern Funk is not a name that refers to a specific era or a single
 
 The essence of funk lies in repeated rhythms, bass lines, and a physical sense of time, rather than chord progressions or melodies. Electro-Funk/Modern Funk has changed its production methods and sound design without losing its essence. As a result, multiple achievements have been made, including studio-based electronic funk and performance-based extended funk.
 
-Chromeo and Jamiroquai derivatives are symbols of this parallel structure, and this article will focus on both to describe the formation process and internal structure of the genre as a whole.
+Chromeo and Jamiroquai derivatives are symbols of this parallel structure, and this article will focus on both to describe the process of formation and internal structure of the genre as a whole.
 
 ---
 
@@ -55,9 +55,9 @@ At this point, funk already had the qualities of loop-based music, and its later
 ## Chapter 2: Changes before electronicization
 
 
-In the late 1970s, advances in studio technology began to change the way funk was produced. With the spread of multi-track recording, performances began to be broken down and treated as material that could be edited. As a result, greater emphasis was placed on rhythmic precision and timbre unity.
+In the late 1970s, advances in studio technology began to change the way funk was produced. With the spread of multi-track recording, performances have come to be broken down and treated as editable material. As a result, greater emphasis was placed on rhythmic precision and timbre unity.
 
-Around the same time, electric pianos and early synthesizers were introduced, and the keyboard changed from being just a harmonic instrument to being a timbre player. At this stage, the ideas for later synth basses and electronic leads were being prepared.
+Around the same time, electric pianos and early synthesizers were introduced, and the keyboard changed from being just a harmonious instrument to being responsible for tone. At this stage, the ideas for later synth basses and electronic leads were being prepared.
 
 ---
 
@@ -75,7 +75,7 @@ At the same time, synthesizer basslines became commonplace, and the low range ca
 ## Chapter 4: Digital production environment and Modern Funk
 
 
-Since the 1990s, with the spread of DAWs, individual production has become a realistic option. Funk no longer relies on large bands, but instead changes to music that can be created by a small group of people or by a single producer.
+Since the 1990s, with the spread of DAWs, personal production has become a realistic option. Funk is no longer based on large bands, but instead changes to music that can be created by a small group of people or by a single producer.
 
 In Modern Funk, each element is clearly organized. It has become common to have a synth bass for low frequencies, a programmed drum for rhythm, and a polyphonic synth for chords, and frequency management at the mix stage is becoming more important.
 
@@ -86,7 +86,7 @@ This arrangement refined the music while eliminating excessive decoration and br
 ## Chapter 5: Structure of Chromeo derivatives
 
 
-The Chromeo derivative shows the direction of extracting the elements of funk and reconstructing it with a minimal structure. Horn sections and complex guitar ensembles are eliminated, and the focus is on keyboards, synth bass, drum machines, and vocals.
+The Chromeo derivative shows the direction of extracting the elements of funk and reconstructing it with a minimal structure. Horn sections and complex guitar ensembles are eliminated, and the focus is on keyboards, synth basses, drum machines, and vocals.
 
 Vocals are valued more for their acoustic role than emotional expression, and are incorporated into the song structure through effects processing. Singing is treated as a type of lead instrument, and functions to fill the gap between rhythm and chords.
 
@@ -98,7 +98,7 @@ This lineage assumes studio production, and the songs are designed as highly com
 
 Jamiroquai derivatives maintain the performance structure of a funk band while incorporating electronic elements. The interaction between drums, bass, guitar, and keyboard is emphasized, and rhythmic fluctuations and dynamics are maintained.
 
-Electronic musical instruments play a supporting role and are used for timbre expansion and spatial processing. Here, live performance and studio production are on the same page, and physical persuasiveness takes precedence over reproducibility.
+Electronic musical instruments play a supporting role and are used to expand the timbre and process the space. Here, live performance and studio production are on the same page, and physical persuasiveness takes precedence over reproducibility.
 
 ---
 

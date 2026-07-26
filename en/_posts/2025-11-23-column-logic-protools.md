@@ -127,7 +127,7 @@ It is the "ancestor" of all plug-in standards.
 
 It was during this period that Hollywood composers began to use DP.
 In particular, **SMPTE synchronization and tempo map editing accuracy** were highly praised.
-Consolidating its position as a "film music DAW".
+It solidified its position as a "film music DAW."
 
 ### ■ Digidesign: At the heart of your professional studio with Pro Tools|24
 
@@ -167,7 +167,7 @@ The acquisition took place in 1994, but the Digidesign brand disappeared in 2010
 *Completely takes over the industry standard for video editing and audio finishing
 * The trend of "Avid → Pro Tools" in film production has become established worldwide.
 
-Two companies, Apple and Avid
+Apple and Avid
 **Plan to take the lead in the DAW market in terms of both OS and video production**
 is completed here.
 
@@ -276,7 +276,7 @@ The six companies that support DAW history have a clear division of roles.
 | **Avid (Pro Tools)** | Movie/Sound/Studio | Dedicated DSP, editing ability, video linkage |
 | **Steinberg** | Standardization (VST)/Comprehensive DAW | Technology base that influenced all DAWs |
 | **MOTU** | Video synchronization/accompaniment composition | Film scoring standard |
-| **Adobe** | Broadcasting, editing, and distribution | For video production with Premiere integration |
+| **Adobe** | Broadcasting/editing/distribution | For video production with Premiere integration |
 | **emagic / Digidesign** | Origins before acquisition | Mac exclusive use/formation of the foundation for film sound |
 
 ---
@@ -306,7 +306,7 @@ timeline
 
 ---
 
-## 10. Conclusion: The history of DAW is a huge story where "corporate strategy x technical standards x market needs" intersect
+## 10. Conclusion: The history of DAW is a huge story where "corporate strategy × technical standards × market needs" intersect
 
 Apple acquired emagic and Avid integrated Digidesign.
 The DAW market has changed significantly along the axis of **OS x video production x studio infrastructure**.

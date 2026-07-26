@@ -16,7 +16,7 @@ title: Marco Carola – Appendix C
 
 Marco Carola is an Italian electronic musician/DJ. He has released music on prestigious labels such as Minus, Plus 8, 2M, and Primate Recordings.
 
-"Appendix C" is a Techno/Tech House track released in 2002 on Southsoul Appendix, an Italian Techno/Tech House label sponsored by Gaetano Parisio.
+"Appendix C" is a Techno/Tech House track released in 2002 on the Italian Techno/Tech House label Southsoul Appendix, sponsored by Gaetano Parisio.
 
 #### Tracklist
 ```md

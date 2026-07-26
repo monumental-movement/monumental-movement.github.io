@@ -345,7 +345,7 @@ Next came algorithms.
 ---
 
 
-## Timeline: History of algorithms and music distribution
+## Chronology: History of algorithms and music distribution
 
 <div class="mermaid">
 timeline

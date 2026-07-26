@@ -47,10 +47,10 @@ color: #fff;
 
 ### Rotation speed and linear velocity: physical laws that determine the "momentum" of sound
 
-One of the factors that determines the sound quality of a record is the rotational speed (RPM) and linear velocity.
+One of the factors that determines the sound quality of a record is the number of revolutions (RPM) and linear velocity.
 
 - **7 inch single: 45RPM**
-There is a lot of force in the sound at the outer periphery, and excellent reproduction of high frequencies. However, distortion increases at the inner circumference.
+There is a lot of force in the sound at the outer periphery, and the reproduction of high frequencies is excellent. However, distortion increases at the inner circumference.
 
 - **12 inch LP: 33⅓RPM**
 It is suitable for long-term playback and ensures stable sound quality, but the high frequencies are somewhat subdued.
@@ -128,7 +128,7 @@ From an acoustic measurement perspective, the playback frequency characteristics
 | 1kHz to 4kHz | ±0dB | Flat, clear |
 | 8kHz or higher | −1 to 2 dB | High frequency attenuation is rather fast (physical constraints) |
 
-This characteristic results in a sound image with a "close feeling" centered around the midrange.
+This characteristic results in a sound image with a "close feeling" centered on the midrange.
 The reason why 10-inch discs are said to have a ""live sound'' is because of the high density of the midrange.
 
 ---
@@ -160,8 +160,8 @@ It is no longer a format of the past, but a 10-inch **device of new time design*
 
 ### Conclusion: Musical philosophy in the physics of a disk
 
-When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the "freedom created by constraints."
-Design limitations, time constraints, and size constraints.
+When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the ""freedom created by constraints.''
+Design limitations, time constraints, and size limitations.
 All of this makes the music "condensed" and restores its "feel."
 
 The format is philosophy, engineering, and poetry.
@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|Follow| G
+    S -->|follow| G
     G --> L
     G --> V
     G --> D

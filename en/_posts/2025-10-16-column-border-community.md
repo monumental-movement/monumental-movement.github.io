@@ -47,7 +47,7 @@ color: #fff;
 ## II. Landscape of 2001: Dawn of Post-Progressive
 
 In 2001, Holden gained attention with the song "A Break in the Clouds" released on Silver Planet.
-Their sound broke the mold of progressive house at the time. Melancholic yet architectural. The floating melodies turned club nights into a poetic experience.
+Their sound broke the mold of progressive house at the time. Melancholic yet architectural. The floating melody turned the club night into a poetic experience.
 
 Starting with this song, he carves out a sonic space that is neither trance nor house.
 This flow later crystallized in the form of Border Community.

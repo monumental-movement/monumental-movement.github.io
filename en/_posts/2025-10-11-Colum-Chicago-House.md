@@ -105,7 +105,7 @@ Early house music was characterized by simple, repetitive rhythms and was create
 Chicago House has grown with the support of the black and LGBTQ+ communities.
 The club was a safe haven, a place free from discrimination and prejudice. Through music, self-expression and community formation progressed, and it became a symbol of minority culture in the city.
 
-Anecdotally, one night at Warehouse, Knuckles' slight change in the tempo of his intro instantly changed the mood throughout the floor. The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
+As an anecdote, one night at Warehouse, Knuckles' slight change in the tempo of his intro instantly changed the mood throughout the floor. The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
 
 ---
 
@@ -158,7 +158,7 @@ In the late 1980s, Chicago House expanded beyond its borders.
 
 Chicago's economic and urban structure, social inequality, and industrial decline laid the groundwork for the birth of house music.
 Clubs were more than just entertainment; they were social and cultural testing grounds, and symbols of freedom and solidarity among city dwellers.
-Chicago House, thus born, spread throughout the world as a cultural phenomenon that intersected urban culture, technology, social movements, and music history.
+Thus was born Chicago House, which spread throughout the world as a cultural phenomenon that intersected urban culture, technology, social movements, and music history.
 
 ---
 

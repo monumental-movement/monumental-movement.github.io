@@ -16,7 +16,7 @@ Out Of Tune Generation is a project of Keitaro Takanami (Pizzicato Five). A1 is 
 
 A2 is a cover of the Greek/British movie "The Day the Fish Came Out."
 
-B1"s Linus & Lucy is a cover of Vince Guaraldi"s 1964 song Linus & Lucy, which is often played in Peanuts (especially Snoopy's Merry Christmas). B2 is the cover of the British movie "Knife from the Lips".
+B1"s Linus & Lucy is a cover of Vince Guaraldi"s 1964 song Linus & Lucy, which is often played in Peanuts (especially Snoopy's Merry Christmas). B2 is the cover of the British movie "Knife From the Lips".
 
 #### Tracklist
 ```md

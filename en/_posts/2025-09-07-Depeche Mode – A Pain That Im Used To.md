@@ -15,7 +15,7 @@ title: Depeche Mode – A Pain That I"m Used To
 
 Single cut from Depeche Mode's 11th album "Playing the Angel". The producer is Ben Hillier.
 
-The remix is ​​by Bitstream (Dave Conner & Steve Conner), a brother duo from the UK who have been releasing IDM/techno/electro sounds since the late 90's on labels such as Warp Records and Elektrix Records.
+The remix was handled by Bitstream (Dave Conner & Steve Conner), a brother duo from the UK who have been releasing IDM/techno/electro sounds since the late 90's on labels such as Warp Records and Elektrix Records.
 
 IDM/Electro was released by UK label Mute in 2005.
 

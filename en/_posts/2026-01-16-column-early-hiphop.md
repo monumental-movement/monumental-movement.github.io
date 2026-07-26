@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Rap
 title: '[Column] Early hip-hop culture before Bambaataa: A chain of expressions that
-  naturally arose from the scene in the Bronx'
+  naturally emerged from the Bronx scene'
 ---
 
 
@@ -23,11 +23,11 @@ The cultural phenomenon that was occurring in New York's South Bronx in the earl
 
 Young people just gathered together, made music, danced, raised their voices, and left their mark on the city. This series of actions would later be organized as a single culture.
 
-What is important in understanding this period is that the core cultural practices already existed even before Afrika Bambaataa, who would later become an icon.
+What is important in understanding this era is that the core cultural practices already existed even before Afrika Bambaataa, who would later become an icon.
 
 Hip-hop was not the invention of one person, but a complex phenomenon created by environment and necessity.
 
->Hip-hop was not born from an ideology, but was a culture that was given its name from the accumulation of actions.
+>Hip-hop was not born from an idea, but was a culture that was given its name from the accumulation of actions.
 
 ---
 
@@ -47,7 +47,7 @@ color: #fff;
 ## Urban conditions of the South Bronx
 
 
-From the late 1960s to the 1970s, the South Bronx was experiencing rapid urban decline. Partition due to expressway construction, decline in the manufacturing industry, loss of employment, and population outflow progressed simultaneously.
+From the late 1960s to the 1970s, the South Bronx was experiencing rapid urban decline. Partition due to expressway construction, decline in the manufacturing industry, loss of employment, and population outflow proceeded simultaneously.
 
 Homes were abandoned, fires and arson were common, and public services were severely degraded. There were few formal cultural activities or recreational opportunities for young people to participate.
 
@@ -74,11 +74,11 @@ D --> E[The emergence of an informal culture]
 
 DJs played the most central role in early hip-hop culture. However, DJs at this stage were more like event organizers than the musicians and artists they are today.
 
-The DJ was responsible for preparing the sound equipment, securing power, bringing in records, and making the party happen. In addition to ""selecting" the music, it was also necessary to ""create the space."
+The DJ was responsible for preparing the sound equipment, securing power, bringing in records, and making the party itself happen. In addition to ""selecting" the music, it was also necessary to ""create the space."
 
 The act of extracting rhythmic parts from funk and soul records and repeating them while observing the audience's reaction became spontaneous and sophisticated.
 
-At this stage, DJs were more time-manipulators than creators.
+At this stage, DJs were less creators than time controllers.
 
 > The DJ's role was not to play music, but to control the energy of the group.
 
@@ -89,7 +89,7 @@ At this stage, DJs were more time-manipulators than creators.
 
 Funk and soul records often had short interludes that consisted of only instrumental music. At this moment, the DJ notices that the dancers' movements are at their most intense.
 
-By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype of the structure that would later be called a breakbeat.
+By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype for the structure that would later be called a breakbeat.
 
 What is important is that this method was not a theoretical invention, but was created as a result of observing audience reactions. The musical structure was reorganized by bodily responses.
 
@@ -126,7 +126,7 @@ At this stage there was little personal narrative or social commentary, and the 
 ## Graffiti and urban surfaces
 
 
-Around the same time, graffiti on subways and buildings was also deeply connected to early hip-hop culture.
+At the same time, graffiti on subways and buildings was also deeply connected to early hip-hop culture.
 
 The act of writing one"s name, leaving a trace, and carving one"s presence in the moving urban space was a means of self-expression, just like music and dance.
 
@@ -171,7 +171,7 @@ The culture that would later be called hip-hop was initially unorganized, but it
 
 Before ideas and definitions were given, sounds were heard, bodies moved, and cities were used. Culture was done first and then talked about.
 
-Understanding this early stage leads to a reconception of hip-hop as a cultural device that responds to circumstances rather than a fixed genre.
+Understanding this early stage leads to rethinking hip-hop as a cultural device that responds to circumstances rather than a fixed genre.
 
 > Hip-hop's essence lies in the time it was created, rather than the moment it was completed.
 

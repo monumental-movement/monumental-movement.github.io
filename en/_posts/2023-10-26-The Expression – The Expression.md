@@ -14,7 +14,7 @@ title: The Expression – The Expression
 
 The Expression is a synthpop rock band formed in Sydney, Australia in 1981.
 
-""The Expression" is an album with a ""new wave" pop style, featuring sharp guitar riffs, synthesizers, and a unique vocal style.
+""The Expression" is an album with a ""new wave" pop style at the forefront, featuring sharp guitar riffs, synthesizers, and a unique vocal style.
 
 
 #### Tracklist

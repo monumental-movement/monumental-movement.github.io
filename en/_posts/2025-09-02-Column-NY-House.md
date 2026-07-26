@@ -93,7 +93,7 @@ DJ style changed with the spread of CDJ and PCDJ. Producers in New York are also
 
 ### 2010s: House Revival and Crossover
 - **Background**
-Behind the scenes of the EDM boom, authentic NY house is being reevaluated. Deep house and classic garage are back in the spotlight.
+Behind the EDM boom, authentic NY house is being reevaluated. Deep house and classic garage are back in the spotlight.
 - **Representative works**
 - Levon Vincent – ​​*NS-07* (2010)
 - DJ Qu – *Party People Clap* (2011)

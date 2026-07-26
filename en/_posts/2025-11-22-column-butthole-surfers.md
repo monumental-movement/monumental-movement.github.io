@@ -19,11 +19,11 @@ title: '[Column] Butthole Surfers: A complete history of American psychedelic pu
 # **Prologue: <Chaos device> that emerged from the southern United States**
 
 
-Text: mmr｜Theme: About Butthole Surfers' **sound source, live performance, recording techniques, production, and equipment**
+Text: mmr｜Theme: Butthole Surfers' **About the sound source, live performance, recording techniques, production, and equipment**
 
 
 Few figures in the American underground of the 1980s were as bizarre, violent and hallucinatory as the Butthole Surfers.
-Their live shows are often described in terms of "shock rock," "heavy psychedelic," and "mayhem," but their essence is much more complex.
+Their live performances are often described in terms of "shock rock," "heavy psychedelic," and "mayhem," but their essence is much more complex.
 
 *Confusion is created by calculation,
 Dissonance is created by improvisation,
@@ -58,7 +58,7 @@ Although the members change over time, the initial core members are as follows.
 * **King Coffey** — Drums
 * **Teresa Taylor** — Drums (twin drum configuration)
 
-Gibby Haynes and Paul Leary, in particular, found harmony despite having different musical orientations and started an activity that resembled an art group.
+Gibby Haynes and Paul Leary, in particular, found harmony despite having different musical orientations and began activities that resembled an art group.
 
 ---
 
@@ -71,7 +71,7 @@ The band's first sound mixes the rapidity of late punk/hardcore with the amorpho
 ### **The Shah Sleeps in Lee Harvey's Grave**
 
 * Guitar mainly uses directly recorded feedback
-* The saxophone plays irregularly, destroying the melody.
+* The saxophone plays irregularly and destroys the melody.
 * Lyrics are fragmentary and performance-oriented.
 
 ### **Lady Sniff**
@@ -93,7 +93,7 @@ flowchart TD
 
 # **3. Chaotic period of the "80s: Psychic… Powerless… Another Man"s Sac (1984)**
 
-At the time, the live set was a combination of live-action 16mm footage, strobe lights, and noise guitars, creating a ""ceremonial"' space that tested the audience"s tolerance.
+At the time, the live set was a combination of live-action 16mm film footage, strobe lights, and noise guitars, creating a space that could be described as a ""ceremonial"' that tested the audience"s tolerance.
 
 ### ● Representative song
 
@@ -120,7 +120,7 @@ flowchart TD
 # **4. Rembrandt Pussyhorse (1986): Deepening the Psychedelic**
 
 This was a time when studio work evolved dramatically.
-The album was designed to give a "vague feeling of anxiety" throughout the album, including multi-layered drums, feedback, inverted sounds, and a different sound field structure.
+The album was designed to give a "vague feeling of unease" throughout the album, including multi-layered drums, feedback, inverted sounds, and a different sound field structure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wiyG0Ly6eFs?si=OY51AkzFwBMvPCuy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -138,8 +138,8 @@ flowchart TD
 
 # **5. Hairway to Steven (1988): Longer and more structured**
 
-Long songs and short songs are arranged alternately, and the ""outline of the song'' becomes more pronounced than before.
-In order to improve live reproducibility, studio recording also proceeded with a clear division of roles.
+Long songs and short songs are arranged alternately, and the "outline of the song" becomes more pronounced than before.
+In order to improve live reproducibility, studio recording also progressed with a clear division of roles.
 
 <div class="mermaid">
 flowchart TD
@@ -194,12 +194,12 @@ With this album, sampler digital effects were introduced in earnest, and the ban
 
 * Directly recorded guitar riff, improvised performance with layered distortion
 * The saxophone forms a cacophony with short phrases
-* The drums use a lot of odd time signatures, and in the studio they basically record in one take.
+* The drums use a lot of odd time signatures, and in the studio they are basically recorded in one take.
 
 2. **Lady Sniff**
 
 * Short song centered on noise processing
-* No samples or tape loops, improvised with analog equipment
+* Improvised production using analog equipment without using samples or tape loops
 * Changes in performance depending on audience reaction
 
 #### Recording method
@@ -431,7 +431,7 @@ flowchart TD
     C --> D["1987–1989: Expansion into Europe and psychedelic period"]
     D --> E["1993: Transition to major period"]
     E --> F["1996: Electriclarryland period"]
-    F --> G["2001: Introduction of electronic sound"]
+    F --> G["2001: Introduction of electronic sounds"]
     G --> H["Afterwards: Continuation of irregular activities"]
 </div>
 
@@ -442,7 +442,7 @@ flowchart TD
 Butthole Surfers' music is often described as "bizarre" and "insane."
 However, at its core it is an **experiment with structure**.
 
-* Dissonance is not improvised but "intended arrangement"
+*Dissonance is not improvised, but "intended arrangement"
 * Noise is part of acoustic design
 * The chaos of a live performance is the precise coordination of lighting, video, and PA.
 * Psychedelia is structured like a story

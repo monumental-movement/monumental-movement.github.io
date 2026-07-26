@@ -207,7 +207,7 @@ In addition, live performances and reconfigurations in acoustic sessions create 
 
 ---
 
-### ● Resonance with acoustic technology: Optimization for modern listening environments
+### ● Resonance with acoustic technology: Optimized for modern listening environments
 Streaming, high-resolution sound sources, smart speakers, headphone environments—the music environment of the 21st century is diversifying, and listeners' listening conditions are becoming more complex.
 Among these, Chapman's songs have a high level of purity that eliminates unnecessary frequencies, so it can be analyzed that the design allows for his voice to be heard in any environment.
 

@@ -74,7 +74,7 @@ Particularly within the remix culture, there have been many attempts to reinterp
 
 Norwegian Kygo is an icon of tropical house. His songs set the tone for the genre with their piano-driven melodies and transparent sound design.
 
-His representative remixes and original songs all have structures that attract listeners through the strength of their melodies, while avoiding excessive decoration. This was a clear departure from EDM"s "drop-centricity'.
+His representative remixes and original songs all have structures that attract listeners through the strength of their melodies, while avoiding excessive decoration. This was a clear departure from the "drop-centricism" of EDM.
 
 ### Thomas Jack and the establishment of the genre name
 
@@ -96,7 +96,7 @@ The kick is modest, and the side chain pumping is also moderately suppressed. In
 
 ### Sound Design
 
-Its distinctive feature is a synthesized sound that imitates natural sounds and acoustic textures. Sounds like flute, guitar, and marimba are often used, and these are reconstructed through digital processing.
+Its distinctive feature is a synthesized sound that imitates natural sounds and acoustic textures. Tones such as flute, guitar, and marimba are often used, and these are reconstructed through digital processing.
 
 Furthermore, in spatial processing, emphasis is placed on spaciousness and transparency. Reverb and delay are not just effects, but function as part of the music, creating a space that envelops the listener.
 

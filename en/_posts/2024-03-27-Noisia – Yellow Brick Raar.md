@@ -23,7 +23,7 @@ Noisia is a Dutch drum and bass trio that disbanded in 2022. He produces a wide 
 
 Where "Yellow Brick" was subdued with a simple beat and tempo, "Raar" feels like you're getting hit in the head with a sinister bass and a crazy beat that feels intentionally off.
 
-This is a must-hear record for all noise fans, even if you don't like house music.
+This is a must-hear record for all Noisia fans, even if you don't like house music.
 
 #### Tracklist
 ```md

@@ -50,7 +50,7 @@ Waajeed (real name Robert O'Bryant) was born in Detroit in the late 1970s.
 The artist's name is of Arabic origin and is taken from a word meaning "to find" or "to discover."
 
 From an early age, he grew up in an environment influenced by **Detroit's soul/gospel culture**, and later came into contact with Slum Village.
-In the late 1990s and early 2000s, Detroit was creating a new standard for neo-soul/hip-hop, symbolized by J Dilla. At the forefront of this field, Waajeed turned to music production while also working as a photographer.
+In the late 1990s and early 2000s, Detroit was creating a new standard for neo-soul/hip-hop, symbolized by J Dilla. Waajeed was at the forefront of this field, and while also working as a photographer, he turned to music production.
 
 ### **● Relationship with Slum Village**
 
@@ -59,7 +59,7 @@ In the late 1990s and early 2000s, Detroit was creating a new standard for neo-s
 * Directly influenced by the creativity of J Dilla
 
 What Waajeed absorbed here was more than just beat making.
-**The attitude is to carry out the inheritance of black music as ""reinvention'' in the modern era**.
+**The attitude is to ""carry out the inheritance of black music as a 'reinvention' for the modern era.''**
 
 ---
 
@@ -170,7 +170,7 @@ Rather than fragmenting these, they are integrated as ""the musical memory of th
 ## **② Community-based production**
 
 After the Dirt Tech Reck period, Waajeed began to consider music not as "personal art" but
-**There is a strong desire to make it function as a cultural device in the local community. **
+**There is a strong desire to function as a cultural device in the local community. **
 
 * Involvement in educational projects
 * Developing young creators in Detroit

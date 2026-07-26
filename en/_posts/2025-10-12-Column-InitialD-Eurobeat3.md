@@ -47,12 +47,12 @@ color: #fff;
 
 ---
 
-## 1. From "pass" to "orbit": the gradation of the musical space traced by Eurobeat
+## 1. From "pass" to "trajectory": the gradation of the musical space traced by Eurobeat
 
 As mentioned in the previous two works, the Eurobeat in Initial D was inseparable from Toge's story.
 However, it was not just an aid to the terrain and visual production, but a **device that translated the distortion of time into sound**.
 
-Looking back now, we can say that Eurobeat was a genre that acoustically visualized the ""internal time of a running body.''
+Looking back now, we can say that Eurobeat was a genre that acoustically visualized ""the internal time of a running body.''
 Rushing beats, overflowing melodies, and repeating choruses all translated physical speed into emotional speed.
 
 In the 21st century, EDM, Trance, Synthwave, and even Hyperpop have inherited this lineage.
@@ -80,7 +80,7 @@ And the origin of that philosophy is none other than the Eurobeat of the 90s.
 > "Speed ​​is the language of the times."
 > — anonymous Eurobeat producer, 1998 interview
 
-This word now takes on new meaning in the era of generative music.
+This word now takes on new meaning in the age of generative music.
 Speed ​​is not just a tempo, but exists as the speed at which emotions are calculated.
 
 ---
@@ -111,7 +111,7 @@ And the sounds made inside are not a reenactment of the past, but are reconstruc
 
 ---
 
-## 4. Fusion of sound and space: installation as running music, live experience
+## 4. Fusion of sound and space: Installation as running music, live experience
 
 An art movement that audibly reproduces the feeling of running has begun in various parts of the world.
 
@@ -121,7 +121,7 @@ The hi-hat is amplified when drifting, and the bass becomes distorted in corners
 
 - **Sound tunnel installation**
 A space where the pitch and tempo of the sound changes as the audience walks.
-Just like "walking drift," your movements generate sound.
+Your movements generate sound, just like "walking drift."
 
 - **Replay in club space**
 "Virtual Toge Night" is a Eurobeat x EDM set that projects images of Toge behind the DJ booth.
@@ -138,7 +138,7 @@ It is becoming a genre that is driven by users.
 
 ### ● AI Drift Remix
 
-When you input the driving log (speed, route, curve information) into the AI,
+When you input your driving log (speed, route, curve information) into AI,
 Automatically generates a Eurobeat-style track that corresponds to that driving style.
 The era of ""your driving becoming the song'' is already beginning to become a reality on the test bench.
 

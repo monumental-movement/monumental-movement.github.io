@@ -71,7 +71,7 @@ Craig Baldwin is an experimental filmmaker who heads San Francisco's ""Other Cin
 
 ### Craig Baldwin's masterpiece filmography
 
-Below, Baldwin's major works are listed by year.
+Below, we have listed Baldwin's major works by year.
 
 #### 1990s
 
@@ -103,7 +103,7 @@ Science fiction based on L. Ron Hubbard and Jack Parsons.
 
 ### Unique perspective of "Tribulation 99"
 
-His 1991 film Tribulation 99: Alien Anomalies Under America is a parody documentary depicting American intervention in Latin America in the form of an alien invasion. Baldwin combined elements such as existing conspiracy theories, UFOs, and Hollow Earth to create a satirical depiction of the history of American imperialism. This work is considered one of his masterpieces.
+His 1991 film Tribulation 99: Alien Anomalies Under America is a parody documentary that depicts American intervention in Latin America in the form of an alien invasion. Baldwin combined elements such as existing conspiracy theories, UFOs, and Hollow Earth to create a satirical depiction of the history of American imperialism. This work is considered one of his masterpieces.
 
 ---
 
@@ -163,11 +163,11 @@ Baldwin's work and ""Other Cinema'' had a major influence on the development of 
 
 ### summary
 
-As a pioneer of underground film, Craig Baldwin has sharply criticized political and social themes through experimental films that make full use of found footage. His work combines visual experimentation and political messages to provoke deep thought. ""Other Cinema'' is an important venue for presenting his works and has had a great influence on the development of underground cinema.
+As a pioneer of underground film, Craig Baldwin has sharply criticized political and social themes through experimental films that make full use of found footage. His work combines visual experimentation with political messages, provoking viewers to think deeply. ""Other Cinema'' is an important venue for presenting his works and has had a great influence on the development of underground cinema.
 
 His work continues to expand the range of cinematic expression and offer audiences new perspectives. Baldwin's work is a must-see for film lovers and researchers, and his work should continue to be watched.
 
-Other Cinema is an important hub of film culture in San Francisco"s Mission District, providing a rare experience for lovers of underground and experimental film. Its DVD collection is an important resource for deeply understanding film history and culture. It"s definitely a place worth visiting for movie buffs and researchers.
+Other Cinema is an important hub of film culture in San Francisco's Mission District, providing a rare experience for lovers of underground and experimental film. Its DVD collection has become an important resource for deeply understanding film history and culture. It is definitely a place worth visiting for film lovers and researchers.
 
 ---
 

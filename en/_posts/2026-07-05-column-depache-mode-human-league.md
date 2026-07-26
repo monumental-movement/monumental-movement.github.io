@@ -15,9 +15,9 @@ title: '[Column] Two evolutionary lines of synth pop: The divergence and integra
 ---
 
 
-## Introduction: How electronic music has redefined "humanity"
+## Introduction: How electronic music redefines "humanity"
 
-Text: mmr｜Theme: Comparing two groups that represent British synth pop in the 1980s, and deciphering their differences and commonalities from multiple perspectives, including musicality, ideology, social background, commerciality, and influence on contemporary music.
+Text: mmr｜Theme: Comparing two groups that represent British synth pop in the 1980s and deciphering their differences and commonalities from multiple perspectives, including musicality, philosophy, social background, commerciality, and influence on contemporary music.
 
 In the early 1980s, synthesizers became more than just musical instruments. It's not an extension of rock or an embellishment of disco. It appears as a presence that changes the design philosophy of music itself.
 
@@ -129,7 +129,7 @@ Both were synth pop, but the music was heading in opposite directions.
 
 ---
 
-## Chapter 4: The British context of the 1980s - between industrial and post-industrial
+## Chapter 4: 1980s British context: between industrial and post-industrial
 
 To understand these two bands, the social background of Britain in the 1980s is important.
 
@@ -155,12 +155,12 @@ In particular, "Don't You Want Me" has a strong narrative, making it easy for li
 
 On the other hand, for Depeche Mode's Dave Gahan, his voice itself functions as an "emotional compression device." The focus is on the texture of the voice rather than the meaning of the lyrics.
 
-In other words, Human League is a "song as a language".
+In other words, Human League is "song as a language".
 Depeche Mode is "voice as acoustics".
 
 <div class="mermaid">
 graph TD
-A["Human League"] --> A1["Interactive Vocal"]
+A["Human League"] --> A1["Interactive vocal"]
 A --> A2["Storytelling"]
 
 B["Depeche Mode"] --> B1["single vocal"]

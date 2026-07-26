@@ -16,7 +16,7 @@ title: '[Column] Frank Sinatra''s life, music, movies, business, and cultural in
 
 ## Frank Sinatra - The man who sang about America
 
-Text: mmr | Theme: Frank Sinatra, a symbol of American popular music. Trace his eventful life and the huge footprints he left in entertainment history.
+Text: mmr | Theme: Frank Sinatra, a symbol of American popular music. Tracing his eventful life and the huge footprints he left in entertainment history
 
 
 <style type="text/css">
@@ -139,7 +139,7 @@ However, at the time, his singing style was innovative.
 
 ## The birth of a star in the big band era
 
-### To the Harry James Band
+### To the Harry James Orchestra
 
 1939.
 
@@ -204,7 +204,7 @@ Started his career as a solo singer.
 
 It was the era of World War II.
 
-As many young people headed off to war, Sinatra"s romantic singing voice supported people"s hearts.
+As many young people headed off to war, Sinatra's romantic voice supported the hearts of people.
 
 "I'll Never Smile Again"
 
@@ -234,7 +234,7 @@ He continued to hone his acting skills.
 
 Sinatra was active in civil rights issues in the 1940s.
 
-Unusually for the time, he took a clear stance against racial discrimination.
+Unusually for the time, he made his stance clear against racial discrimination.
 
 He also participated in campaigns for racial equality.
 
@@ -516,7 +516,7 @@ Many of them are still passed down to this day.
 
 The concept album idea also led to later pop and rock music.
 
-It contributed to the development of a culture in which albums are listened to as one piece of work.
+It contributed to the development of a culture where albums are listened to as a single work.
 
 ### Ideal image of entertainment
 
@@ -593,7 +593,7 @@ pride.
 
 All of this is engraved in his songs.
 
-This is why, even though he was born over 100 years ago, his singing voice still sounds fresh.
+This is the reason why his singing voice still sounds fresh even though he was born over 100 years ago.
 
 What is art that remains timeless?
 

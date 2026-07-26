@@ -108,7 +108,7 @@ This is his early work after studying abroad in London, and focuses on jazz and 
 #### Early 1970s: Afrobeat establishment period
 - **Gentleman (1973)**
 A masterpiece that criticizes colonialism. A social message is added to the funk groove.
-- **Confusion (1975)**
+- **"Confusion" (1975)**
 A 20-minute long song that figuratively depicts the urban chaos in Lagos.
 
 #### Late 1970s: Political peak
@@ -196,11 +196,11 @@ He led the Egyptian 80s and directly inherited his father's style.
 
 ### Current legacy and reputation
 
-**Kalakuta Museum (Lagos)**: Fela's former mansion turned into a museum. Relics and musical instruments are on display.
+**Kalakuta Museum (Lagos)**: Fela's former residence turned into a museum. Relics and musical instruments are on display.
 
 **Felabration**: A music festival held every October. Artists from all over the world gather to celebrate Fela.
 
-**International influences**: Antibalas in America, sampling in hip-hop, even Beyoncé and Jay-Z have cited the rhythm of Fela.
+**International influences**: Antibalas in the US, sampling in hip-hop, even Beyoncé and Jay-Z have cited the rhythm of Fela.
 
 ---
 

@@ -21,7 +21,7 @@ Text: mmr｜Theme: From subculture to mainstream, the evolutionary history of Ja
 
 ### The impact of street culture and its arrival in Japan
 
-The reception of hip-hop in Japan in the 1980s was not just an import of a musical genre, but an ""importation of physical expression and urban culture.'' Breakdancing, DJing, and rap were introduced in sets, creating a "complex culture" that did not exist in the Japanese music context at the time.
+The reception of hip-hop in Japan in the 1980s was not just an import of a music genre, but an ""importation of physical expression and urban culture." Break dancing, DJing, and rap were introduced in sets, creating a ""complex culture" that did not exist in the Japanese music context at the time.
 
 Particularly in Harajuku and Shibuya in Tokyo, dance teams gathered on the streets, and hip-hop as a visual culture took the lead in spreading.
 
@@ -96,7 +96,7 @@ D --> G[Buddha Brand]
 
 ### Mainstreaming Zeebra and Expanding Hip-Hop
 
-Zeebra became a symbol of the mainstreaming of Japanese rap. They expanded their activities from clubs to television, from the streets to advertising, and instantly boosted hip-hop's social recognition.
+Zeebra became a symbol of the mainstreaming of Japanese rap. Expanding his activities from clubs to television and from the streets to advertising, he instantly raised the social recognition of hip-hop.
 
 On the other hand, this "success" also created a distance from the underground.
 

@@ -92,7 +92,7 @@ The user-generated word-of-mouth and comment culture went beyond simply exchangi
 
 Myspace was more than just a place to share music; it also served as a canvas for individuals to express their culture and hobbies. The customizability of profile pages was an important element that reflected users' aesthetic sense and tastes. It was possible to select background images, colors, fonts, and decorate using HTML and CSS, allowing artists to present a visual worldview along with music.
 
-Communities rooted in specific genres and regions have also been actively formed. Users who shared the same hobbies and values, such as emo, punk, indie rock, and hip-hop, connected with each other through friend requests and comments, and an online scene was built. This was a global network that transcended geographical constraints, unlike traditional music scenes that were limited to certain regions. Live events and self-produced CDs were also actively announced, and a culture was formed in which online communities were directly connected to offline activities.
+Communities rooted in specific genres and regions have also been actively formed. Users who shared the same hobbies and values, such as emo, punk, indie rock, and hip-hop, connected with each other through friend requests and comments, and an online scene was built. Unlike traditional regional music scenes, this was a global network that transcended geographical constraints. Live events and self-produced CDs were also actively announced, and a culture was formed in which online communities were directly connected to offline activities.
 
 The expansion of this community represented the prototype of SNS culture as a place for self-expression centered on music. Rather than just passively consuming music, users were able to interact with artists and become part of the culture themselves. With its interactivity and high degree of freedom of expression, Myspace has built a unique cultural sphere that is different from other SNS.
 
@@ -123,7 +123,7 @@ flowchart TB
     C --> D[Contemporary indie/net music]
 </div>
 
-In particular, the culture of individuals freely expressing themselves online and forming communities has had a major influence on contemporary indie musicians and YouTube artists. Myspace's attempt to demonstrate the power of user-generated content and social media word-of-mouth in a music scene traditionally dominated by record companies served as a valuable precedent for platforms to follow.
+In particular, the culture of individuals freely expressing themselves online and forming communities has had a major influence on contemporary indie musicians and YouTube artists. Myspace's attempt to demonstrate the power of user-generated content and social media word-of-mouth in a music scene traditionally dominated by record companies was a valuable precedent for platforms to follow.
 
 Myspace's music culture is also connected to contemporary music culture in terms of cross-genre community formation, diversity of self-expression, and the interconnectedness of the internet and the real world. The history of Myspace is extremely important in learning the possibilities of using SNS to disseminate music based on past successes and failures.
 
@@ -131,7 +131,7 @@ Myspace's music culture is also connected to contemporary music culture in terms
 
 ## Conclusion
 
-> The history of Myspace music culture is important evidence of the potential for the connection between the Internet and music, and provides an essential perspective for understanding the contemporary music scene.
+> The history of Myspace music culture is important evidence of the potential for connections between the Internet and music, and provides an essential perspective for understanding the contemporary music scene.
 
 Myspace in the 2000s was more than just a social media platform; it was an innovative platform that connected music and culture. The experience of individuals expressing themselves, forming communities, and directly connecting artists and listeners has laid the foundation for music dissemination in the modern SNS era. Myspace's efforts are essential to understanding current internet music culture, and their significance remains.
 

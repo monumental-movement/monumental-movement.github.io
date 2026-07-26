@@ -10,13 +10,13 @@ tags:
 - Québec
 - Country
 - Folk
-title: '[Column] Sarah Dufour - The intersection of Quebec dust and modern country'
+title: '[Column] Sarah Dufour ─ The intersection of Quebec dust and modern country'
 ---
 
 
-## Road music in Quebec's language
+## Road music in Quebec language
 
-Text: mmr | Theme: Sarah Dufour, who connects Quebec language culture and North American roots music. Through its history, we trace the changes in modern French-speaking countries.
+Text: mmr｜Theme: Sarah Dufour, who connects Quebec language culture and North American roots music. Through its history, we trace the changes in modern French-speaking countries.
 
 
 <style type="text/css">
@@ -39,7 +39,7 @@ North American country music has long been described as an extension of southern
 
 Amidst this change, Quebec singer-songwriter Sarah Dufour emerged as a unique presence.
 
-Her music is not an imitation of southern country. Rather, it is a musical version of Quebec's language, accent, working culture, nomadic culture, and atmosphere of the provincial city. The influence of Anglophone Americana is certainly present there. However, at the same time, it retains a strong sense of language and lifestyle that is unique to the French speaking world.
+Her music is not an imitation of southern country. Rather, it is a musical version of Quebec's language, accent, work ethic, nomadic culture, and provincial city atmosphere. The influence of Anglophone Americana is certainly present there. However, at the same time, it retains a strong sense of language and lifestyle that is unique to the French speaking world.
 
 Sarah Dufour's work is interesting because it is not a "globalized country," but a "modernized country that retains its regional characteristics."
 
@@ -49,7 +49,7 @@ The vibrations of trucks, bars in local cities, paved roads after the snow melts
 
 This is different from urban pop music.
 
-The song is not about a consumed lifestyle, but about the scenery that actually passes through the body.
+The song is not about the lifestyle that is consumed, but about the scenery that actually passes through the body.
 
 <div class="mermaid">
 graph TD
@@ -66,7 +66,7 @@ E --> G[Americana]
 E --> H[rock]
 </div>
 
-> Sarah Dufour's importance lies in her reconstruction of North American roots music in the "language of Quebec life."
+> Sarah Dufour's importance lies in her reconstruction of North American roots music in the ""language of Quebec life''.
 
 
 ---
@@ -77,23 +77,23 @@ E --> H[rock]
 
 Sarah Dufour is originally from the Saguenay region of Quebec.
 
-Unlike a metropolitan cultural area like Montreal, Saguenay is a region closely connected to forestry, local industry, and harsh winter environments. When discussing Quebec culture, the focus is often on Montreal"s art scene. In reality, however, Quebec"s cultural diversity has been supported by its regional cities.
+Unlike a metropolitan cultural area such as Montreal, Saguenay is a region closely connected to the forestry industry, local industry, and harsh winter environments. When discussing Quebec culture, the focus is often on Montreal"s art scene. However, in reality, Quebec"s cultural diversity has been supported by its regional cities.
 
 In this sense, Sarah Dufour belongs to a different lineage from the "urban francophone culture."
 
 In her music, "on-site sensibilities" come to the fore rather than urban sophistication.
 
-Guitar sounds, for example, tend to be very direct and avoid too much embellishment. The same goes for vocals, where the emphasis is on the force of the words rather than technique. This is influenced by North American roots music, but it is also connected to the "honesty" seen in Quebec culture.
+For example, guitar sounds tend to be very direct and avoid too much embellishment. The same goes for vocals, where the emphasis is on the force of the words rather than technique. This is influenced by North American roots music, but it is also connected to the "honesty" seen in Quebec culture.
 
 Also, her French is different from Parisian French.
 
-It is extremely important that he does not hide his Quebec accent and reflects it in the lyrics.
+It is extremely important that he does not hide his Quebec accent and reflects it as is in the lyrics.
 
 This is not just localism.
 
 Rather, their attitude is closer to ""singing the world in their own words.''
 
-Since the late 20th century, Quebec music has actively differentiated itself from France. After Robert Charlebois, Quebec's unique pop culture was gradually established. And Sarah Dufour can be said to be the one who connected this flow to the modern country/Americana context.
+Since the late 20th century, Quebec music has actively differentiated itself from France. After Robert Charlebois, Quebec's unique pop culture was gradually established. And Sarah Dufour can be said to be the one who connected that flow to the modern country/Americana context.
 
 <div class="mermaid">
 timeline
@@ -118,7 +118,7 @@ Before Sarah Dufour's solo career, she was best known as a member of Les Poules 
 
 This group was a Quebecois folk group based on traditional music, but with a modern sense of arrangement. Here she becomes more than just a vocalist, learning how to connect tradition and modernity.
 
-Quebec's traditional music has a unique history, blending Irish music, French folk music, and North American folk culture. Elements such as the fiddle, rhythmic culture, and collective singing are also tied to the memory of local communities.
+Traditional music in Quebec has a unique history, blending Irish music, French folk music, and North American folk culture. Elements such as the fiddle, rhythmic culture, and collective singing are also tied to the memory of local communities.
 
 Les Poules à Colin did not treat them simply as objects of preservation.
 
@@ -128,7 +128,7 @@ This experience was very important to Sarah Dufour.
 
 Even in her later solo works, she does not treat traditional music like a museum. Rather than simply reproducing old forms, he takes the attitude of ""transplanting them to modern living sensibilities.''
 
-This is consistent with an important ethos of North American Americana.
+This is also consistent with an important ethos of North American Americana.
 
 In other words, the idea is not to ""preserve the past," but to ""inject the past into the present."
 
@@ -152,11 +152,11 @@ E --> F
 
 ### Fusion of Americana and Quebec culture
 
-Sarah Dufour, who has transitioned to a solo career, has become more rock and road-oriented.
+Sarah Dufour, who has transitioned to a solo career, has strengthened her rock and road sensibilities.
 
 What is noteworthy here is that she completely avoided leaning toward "American country."
 
-It's true that the sound is influenced by Americana and Roots Rock. However, the world of lyrics, pronunciation, and depictions of life are strongly influenced by Quebec culture.
+Certainly, the influence of Americana and Roots Rock is strong in terms of sound. However, the lyrics, pronunciation, and depictions of life are strongly influenced by Quebec culture.
 
 This sense of balance is her greatest characteristic.
 
@@ -199,7 +199,7 @@ D --> G[reality of local cities]
 
 Her works always have a "live feel" to them.
 
-This is in contrast to the over-edited culture of contemporary pop music.
+This is in contrast to the over-edited culture of modern pop music.
 
 The sway of the rhythm, the roughness of the guitar, the force of the vocals. These elements are not completely homogenized. Rather, the ""body performing'' remains.
 
@@ -209,7 +209,7 @@ Especially in the Americana scene in recent years, there is a strong tendency to
 
 Also, her staging is very energetic.
 
-It has rock-like propulsion and country-like storytelling at the same time, and is close to the audience. This may also be due to the influence of local live culture.
+Rock-like propulsion and country-like storytelling exist at the same time, and the distance between them and the audience is close. This may be due to the influence of local live culture.
 
 In urban indie culture, "distance" is often aestheticized. But for Sarah Dufour, live performances function as communal spaces.
 
@@ -246,7 +246,7 @@ Rather, she acts like a ""resident of that world.''
 
 This is huge.
 
-In her lyrics and stage performances, a ""sense of the field'' is given priority over self-directed emphasis. As a result, the landscape within the traditionally male-dominated genre appears to be changing.
+In her lyrics and stage performances, a ""sense of the field'' is prioritized over self-directed emphasis. As a result, the landscape within the traditionally male-dominated genre appears to be changing.
 
 Additionally, there is a history of female singer-songwriters having a relatively strong presence in the Quebec cultural area. Sarah Dufour is also an extension of that trend.
 
@@ -280,7 +280,7 @@ The accents and rhythms unique to English country are deeply connected to the li
 
 But Sarah Dufour is taking advantage of that discomfort.
 
-The sharp pronunciation, rapid rhythm, and colloquialism of a Quebecois accent. By actively incorporating these elements into their music, they have created a ""uniquely French country groove.''
+The sharp pronunciation, rapid rhythm, and colloquialism of a Quebecois accent. By actively incorporating these into their music, they have created a ""uniquely French country groove.''
 
 This is a very original attempt.
 
@@ -309,8 +309,8 @@ E --> F[new francophone country]
 
 | Year | Events |
 |---|---|
-| Early 2010s | Active at Les Poules à Colin |
-| Late 2010s | Full-scale solo activities |
+| Early 2010s | Active in Les Poules à Colin |
+| Late 2010s | Full-scale solo career |
 | 2019 | Increasing attention with solo works |
 | 2020s | Expanding presence in the Quebec francophone scene |
 | Mid-2020s | Expanding festival appearances and live activities |

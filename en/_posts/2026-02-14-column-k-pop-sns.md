@@ -17,7 +17,7 @@ title: '[Column] Relationship between K-POP and SNS strategy | Why did it gain g
 
 ## Why is K-POP so popular? - Success factors seen from the structure
 
-Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy
+Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy based on facts
 
 ### K-POP as a "system" that transcends music genres
 
@@ -52,7 +52,7 @@ color: #fff;
 
 Until the 2000s, overseas expansion relied on television broadcasts and local contracts. However, YouTube, which launched in 2005, changed the situation completely.
 
-In 2012, PSY's "Gangnam Style" became a worldwide hit, becoming the first song at the time to surpass 1 billion views on YouTube. This event is a symbolic event that demonstrated that K-POP can overcome language barriers.
+In 2012, PSY's ""Gangnam Style'' became a worldwide hit, becoming the first song at the time to surpass 1 billion views on YouTube. This event is a symbolic event that demonstrated that K-POP can overcome language barriers.
 
 Since then, it has become standard for K-POP music videos to be released on YouTube at the same time as their debut. The number of views has become an indicator of fandom, and a structure has been created in which fans around the world can share their "results" in real time.
 
@@ -75,9 +75,9 @@ Particularly on TikTok, dance challenges function as a spreading device, and whe
 
 ### Case Study: BTS Global Expansion
 
-BTS made full use of SNS in the late 2010s and formed an international fandom even before they were exposed to English-speaking media. Appearances on American music award shows and talk shows are based on existing fandom.
+BTS made extensive use of SNS in the late 2010s and formed an international fandom even before they were exposed to English-speaking media. Appearances on American music award shows and talk shows are based on existing fandom.
 
-By actively communicating on Twitter, they were shaping overseas trends even before they entered the Billboard charts. This is a successful example of a ""reimport type," which is different from the conventional ""local acquisition type."
+By actively communicating on Twitter, they were shaping trends overseas even before they entered the Billboard charts. This is a successful example of a ""reimport type," which is different from the conventional ""local acquisition type."
 
 > SNS is not just an advertising medium for K-POP, but the center of fandom formation.
 

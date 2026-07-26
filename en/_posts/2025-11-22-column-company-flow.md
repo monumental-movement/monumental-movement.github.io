@@ -46,12 +46,12 @@ color: #fff;
 # Chapter 1: Young MC from Brooklyn—The starting point of El-P (1990–1993)
 
 The main character of Company Flow, **El-P (El Producto)**, is from Brooklyn, New York.
-He spent his childhood at a time when the hip-hop movement was expanding explosively in New York, and was already working on rapping and producing cassettes as a teenager.
+He spent his childhood at a time when the hip-hop movement was expanding explosively in New York, and was already working on rapping and making independent cassettes as a teenager.
 
 The following venues were important in the New York underground in the early 1990s.
 
 * **Lyricist Lounge**
-* **Stretch & Bobbito Show** (Legendary Radio Program)
+* **Stretch & Bobbito Show** (legendary radio program)
 * **NY local showcase**
 * **Indie distribution network (record stores, 12-inch culture)**
 
@@ -66,7 +66,7 @@ Next, **Mr. Len** joined as a DJ, completing the three-piece structure we know t
 # Chapter 2: Company Flow's early activities and indie spirit (1993–1995)
 
 After forming the unit, they had no major aspirations,
-**We released music at our own pace and maintained an attitude of fiercely protecting the autonomy of artists**.
+**They released music at their own pace and maintained an attitude of fiercely protecting the autonomy of artists**.
 
 A symbol of this is the launch of their own indie label **Official Recordings**.
 
@@ -93,7 +93,7 @@ It was distinctive in terms of sound, politics, and experimentation.
 
 The beats constructed by El-P have the following texture.
 
-* Mainly SP-1200, but uses a lot of "dirt"
+* Mainly SP-1200, but also uses a lot of "dirt"
 * industrial noise
 * Minimal but disturbing, tense rhythm
 * Frequent use of "Chop" to chop samples into small pieces
@@ -112,7 +112,7 @@ The following are particularly noticeable.
 ### ● 3. Symbol of indie success
 
 ""Funcrusher'' became an underground word-of-mouth hit,
-It will reach the ears of those involved with the emerging label **Rawkus Records**.
+It will reach the ears of the people involved with the emerging label **Rawkus Records**.
 
 ---
 
@@ -199,7 +199,7 @@ The content of the lyric includes the following directions (*Only the main point
 * Criticize the structure of the surveillance society
 * Be wary of the individual's position in the age of information warfare
 * The dangers of combining technology and power
-* Perspective that artists themselves can be subject to surveillance
+* The perspective that artists themselves can be subject to surveillance
 * Rejection and warning against the political-industrial complex
 
 Word choice is not direct propaganda;
@@ -222,7 +222,7 @@ It is composed of elaborate metaphors and abstract expressions.
 ""The Fire in Which You Burn'' is highly acclaimed for the following reasons:
 
 * Representative songs that clearly demonstrate the politics of Company Flow
-* El-P's sound design ability is outstanding.
+* El-P's sound design ability is remarkable.
 * Contents that symbolize underground hip-hop in the late 90s
 * Many prototype elements of later Def Jux works (Cannibal Ox, etc.) can be seen.
 
@@ -232,7 +232,7 @@ It is said that ""Funcrusher Plus" established ""the underground as an ideology"
 
 # Chapter 7: Divergence with Rawkus and return to independence (1998–1999)
 
-Funcrusher Plus was a success, but as Rawkus expanded its scale and formed capital alliances,
+""Funcrusher Plus'' was a success, but as Rawkus continued to expand its scale and form capital alliances,
 Company Flow has prioritized **maintaining artist autonomy**.
 
 Differences of opinion with the label gradually grew,
@@ -282,7 +282,7 @@ Established the label **Definitive Jux (Def Jux)** in 2000.
 Produced the following important works.
 
 * Cannibal Ox "The Cold Vein" (2001)
-*Many works by Mr. Lif, Aesop Rock, Cage, etc.
+* Many works by Mr. Lif, Aesop Rock, Cage, etc.
 
 In 2013, he teamed up with Killer Mike to form **Run The Jewels**.
 It achieved worldwide success and led to a re-evaluation of the Company Flow period.
@@ -359,7 +359,7 @@ It showed that even indie works can create cultural standards.
 ## ● 2. Establishment of "underground as an idea"
 
 It's not just a low-budget production,
-It embodied the underground as an ""thought independent of commercialism.''
+It embodies the underground as an idea that is independent of commercialism.
 
 ---
 
@@ -379,7 +379,7 @@ This led to experimental artists such as
 
 ## ● 4. "Anti-establishment aesthetics" that continues to the present day
 
-The songs, including "The Fire in Which You Burn,"
+A group of songs including "The Fire in Which You Burn"
 He has been dealing with themes such as power/surveillance/information warfare since the 1990s.
 He presented a perspective that is still relevant even after more than 20 years.
 

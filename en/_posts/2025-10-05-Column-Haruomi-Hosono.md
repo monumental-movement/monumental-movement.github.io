@@ -14,9 +14,9 @@ title: '[Column] Haruomi Hosono - Traveler of sound, quiet innovation that trans
 ---
 
 
-## Quiet Revolutionary - Haruomi Hosono
+## Quiet Revolutionary - The Existence of Haruomi Hosono
 
-Text: mmr｜Theme: From Happy End to YMO to Ambient—Tracing the "soundscapes" and cultural backgrounds drawn by Haruomi Hosono through the ages
+Text: mmr｜Theme: From Happy End to YMO to ambient music—tracing the "soundscapes" and cultural backgrounds drawn by Haruomi Hosono through the ages
 
 **Haruomi Hosono** is a musician who has continued to transform Japanese pop music for half a century.
 From the late 1960s to the present, his music has carved out a unique horizon by ""shifting the era" rather than ""defining the era."
@@ -60,7 +60,7 @@ A friend added sound effects and laughter to the tape recordings, and his sense 
 #### Representative work: "Kazamachi Roman" (1971)
 A monumental work that depicts the poetic atmosphere of the city of Tokyo in the context of rock for the first time.
 During this period, Hosono played an important role in composing music while also playing bass.
-Songs such as ""It's Summer" and ""Gather the Wind" have an urban yet nostalgic sound.
+Songs such as ""It's Summer" and ""Gather the Wind" are characterized by their urban yet somehow nostalgic sounds.
 
 #### Historical background
 In the midst of high economic growth after the war.
@@ -158,7 +158,7 @@ This relaxed atmosphere is reflected in the warm, organic sound.
 ### Chapter 5: Technopop Revolution - YMO and the Future of Electronics (1978–1983)
 
 #### Representative works:
-- **Yellow Magic Orchestra"Solid State Survivor"(1979)**
+- **Yellow Magic Orchestra "Solid State Survivor" (1979)**
 - **"BGM" (1981)**
 - **"Technodelic" (1981)**
 
@@ -166,7 +166,7 @@ YMO (Yellow Magic Orchestra) is a revolutionary unit that spread the word techno
 As a leader, Hosono used rhythm machines and sequencers to fuse Asian humor and futuristic sounds.
 
 #### Historical background
-In the early 1980s, Japan reached the peak of its technological and economic growth.
+In the early 1980s, Japan reached the peak of its technological and economic prosperity.
 A time when the development of computers, video games, and electronic musical instruments were fused with music.
 YMO's sound was a symbol of Japan as an electronic nation.
 
@@ -209,7 +209,7 @@ Hosono jokingly said, ""Music is about living with chance.''
 
 ---
 
-### Chapter 7: Landscape Music - Soundtracks and Ambient Sounds (1990–2000)
+### Chapter 7: Music of the Landscape – Soundtracks and Ambient Sounds (1990–2000)
 
 #### Representative works:
 - "Night on the Galactic Railway" (1985)
@@ -217,7 +217,7 @@ Hosono jokingly said, ""Music is about living with chance.''
 - "N.D.E." (1995)
 
 It was a time when he worked on music for a wide variety of media, including animation, movies, and commercials.
-""Night on the Galactic Railway"' shines with delicate compositions that seem to translate Kenji Miyazawa"s fantasy literature into sound.
+""Night on the Galaxy Express"' shines with delicate compositions that seem to translate Kenji Miyazawa"s fantasy literature into sound.
 
 #### Historical background
 After the bursting of the bubble economy, Japan's values ​​have been shaken.

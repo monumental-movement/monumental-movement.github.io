@@ -62,7 +62,7 @@ Avant-Garde Metal does not deny these assumptions in part, but invalidates them 
 
 Avant-garde is not about eccentricity or radicalness, but rather the ability to dismantle existing grammar from within.
 
-The reason Avant-Garde Metal is perceived as difficult is not because of its excessive emotional expression, but because the structures that listeners have unconsciously relied on no longer function. The beat is present but unreliable, the riff is presented but doesn"t stick, and even though it develops, predictions don"t come true.
+The reason Avant-Garde Metal is perceived as difficult is not because of its excessive emotional expression, but because the structures that listeners have unconsciously relied on no longer function. The meter is present but unreliable, the riff is presented but doesn"t stick, and even though it develops, predictions don"t come true.
 
 ---
 
@@ -176,7 +176,7 @@ In this work, the separation of structures goes even further. The songs are stru
 | Method | Demolition | Layering |
 | Time | Rupture | Parallel |
 | Rhythm | Destruction of pulse sensation | Breathing control |
-| Dissonance | Structural Armament | Spatial Direction |
+| Dissonance | Structural armament | Spatial production |
 
 ---
 

@@ -61,7 +61,7 @@ This relationship was not a coincidence, but a natural intersection of undergrou
 
 Lou Reed, in particular, had a literary background and treated music not as mere entertainment but as a ""record of the city.'' John Cale, on the other hand, was influenced by the avant-garde, introducing sustained tones and dissonance.
 
-The tension between the two gave rise to the band's unique sound.
+The tension between the two created the band's unique sound.
 
 A famous anecdote is that Warhol offered little technical guidance to his band, instead telling them to "just keep going." This is completely consistent with minimal art and the idea of ​​repetition.
 
@@ -145,7 +145,7 @@ For example, it was common for visitors to directly appear in movies. There was 
 
 One person said, ""I didn't find out about the movie I was in until later.''
 
-Edie Sedgwick has also become a Factory icon, whose glamorous and destructive life is the stuff of legend.
+Edie Sedgwick has also become a Factory icon, whose glamorous and disastrous life is the stuff of legend.
 
 Regarding music, Lou Reed is said to often perform with his back to the audience. This was an attitude that rejected the relationship with the audience and questioned the very concept of performance.
 

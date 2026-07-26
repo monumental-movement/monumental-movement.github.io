@@ -18,15 +18,15 @@ title: '[Column] Ryoji Ikeda｜Acoustic art of "space = visualization" drawn by 
 
 ## Sound as data, space as sound
 
-Text: mmr｜Theme: Extreme minimalism that converts data into sound and light and allows us to perceive the space itself
+Text: mmr｜Theme: Extreme minimalism that converts data into sound and light to create a perception of space itself
 
 When discussing Ryoji Ikeda's work, the first thing to understand is that the framework of ""music'' itself is not his main subject. His creations are close to comprehensive perceptual devices that integrate acoustics, mathematics, physics, programming, and visual expression.
 
-What is particularly distinctive is the use of ultra-high frequencies that approach the limits of human hearing. This is not just a stimulus, but a design that exposes the boundaries between "hearing" and "not hearing." In other words, it presents the ""conditions of perception'' rather than the sound itself.
+What is particularly distinctive is the use of ultra-high frequencies that approach the limits of human hearing. This is not just a stimulus, but a design that exposes the boundaries between "hearing" and "not being able to hear." In other words, it presents the ""conditions of perception'' rather than the sound itself.
 
 His sounds are broken down to their smallest units: clicks, noises, and sine waves. They function not as rhythms or melodies, but as particles for measuring time and space. What is important here is that sound is treated as a "structure" rather than a "meaning."
 
-And this structure is perfectly synchronized with vision. The numbers, barcodes, and grids shown on the projection are generated from the same data as the sound. As a result, the audience is placed in a state of ""seeing sound" and ""hearing light."
+And this structure is perfectly synchronized with vision. The numbers, barcodes, and grids displayed on the projection are generated from the same data as the sound. As a result, the audience is placed in a state of ""seeing sound" and ""hearing light."
 
 > Sound no longer exists only for the ear, but becomes a structure that is perceived throughout space.
 
@@ -56,7 +56,7 @@ An important change during this period was the expansion from "musical works" to
 
 In the early 2000s, we began collaborating with IRCAM (Institute of Acoustics and Music) in Paris. Here, he collaborates with scientists to conduct research into sonifying data and physical phenomena. This experience culminated in his later masterpiece ""datamatics'' series.
 
-> Ikeda's turning point was the moment it redefined sound from a raw material to a form of information expression.
+> Ikeda's turning point was the moment when it redefined sound from a material to a form of information expression.
 
 ---
 
@@ -78,7 +78,7 @@ D --> E
 E --> F[audience perception]
 </div>
 
-What is important here is that sound and video are not independent, but are generated from the same data. In other words, vision and hearing are just different aspects of the same phenomenon.
+The important point here is that sound and video are not independent, but are generated from the same data. In other words, vision and hearing are just different aspects of the same phenomenon.
 
 Additionally, the "scale" of his works changes frequently. By treating everything from the micro (elementary particles) to the macro (the universe) with the same logic, the audience is made to relativize their own position.
 
@@ -128,7 +128,7 @@ D --> E[Restructuring of perception]
 
 Through this process, the audience gains the experience of ""listening to the space.'' In other words, rather than sound describing space, space itself appears as sound.
 
-Additionally, his works often use extreme contrasts (silence and loud noises, darkness and flashes of light). This is a method to emphasize the threshold of perception and highlight the existence of space.
+Additionally, his works often use extreme contrasts (silence and explosions, darkness and flashes of light). This is a method to emphasize the threshold of perception and highlight the existence of space.
 
 > Space is transformed from a background to an object that can be read as data.
 
@@ -155,7 +155,7 @@ C --> D[Synchronous output to sound and video]
 
 Its characteristics are its speed and density. As information flows at a speed that exceeds the limits of what humans can perceive, it becomes impossible to ""understand'' it.
 
-On the contrary, however, its excess makes the data emerge as a "pure structure."
+However, on the contrary, its excess makes the data emerge as a "pure structure."
 
 > Information loses its meaning and appears as a structure
 
@@ -211,7 +211,7 @@ The audience can see this light from a distance, extending the work beyond a sin
 
 superposition is a live performance piece based on quantum mechanical concepts.
 
-Images projected on multiple screens, synchronized sound, and time axes. When they overlap, the feeling of ""multiple states existing at the same time'' is created.
+Images projected on multiple screens, synchronized sound, and time axis discrepancies. When they overlap, the feeling of ""multiple states existing at the same time'' is created.
 
 <div class="mermaid">
 graph LR
@@ -223,7 +223,7 @@ D --> E[splitting of perception]
 
 In this work, the audience cannot be fixed on one point of view. The experience changes depending on where you look and where you listen.
 
-> Reality is not perceived as a single layer, but as an overlapping of multiple layers.
+>Reality is not perceived as a single layer, but as an overlapping layer.
 
 ---
 
@@ -272,5 +272,14 @@ This cycle is at the heart of Ikeda's art.
 
 > Ikeda's work presents new sensory protocols for understanding the world
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zz_cQR28nlU?si=fHNnQg2-Da-shSFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -75,7 +75,7 @@ After that, the members of the congregation dispersed, but it has been reevaluat
 Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other "Aquarian surname" believer musicians such as Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
-Initially released under the name "Father Yod & The Spirit of "76". After that, the notation such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" was used with some fluctuation.
+Initially released under the name "Father Yod & The Spirit of "76". After that, spellings such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" were used with some fluctuation.
 
 
 There was also a period when they were active in bands under different names such as "Savage Sons of Ya Ho Wa," "Fire, Water, Air," and "Yodship."
@@ -205,7 +205,7 @@ flowchart LR
 Since the late 1990s, Yahooha13 and Source Family recordings have been reevaluated by hardcore collectors and psychedelic music enthusiasts. In particular, 1998's God and Hair (a 13-disc collection) was an important milestone.
 
 
-Since the 2000s, remastered reissues of original LPs and unreleased material collections have been released one after another by Swordfish Records, Drag City, Captain Trip Records, and others.
+Since the 2000s, remastered reissues of original LPs and collections of unreleased material have been released one after another by Swordfish Records, Drag City, Captain Trip Records, and others.
 
 
 In 2012, the documentary film The Source Family (directed by Jodi Wille & Maria Demopoulos) was released, and this sparked renewed interest among the general public.
@@ -216,7 +216,7 @@ In 2009, a compilation of unreleased songs such as [Magnificence in the Memory](
 ---
 
 
-#### Reunion/Activities
+#### Reunion/activities
 
 In 2007, the original members (Sunflower, Octavius, Djin) reportedly performed live for the first time in 33 years.
 
@@ -237,7 +237,7 @@ It is argued that his orientation toward improvisation, spatiality, and transcen
 
 In fields such as commune culture, cult movements, and outsider music research, the existence of Yahowha13/Source Family has become a typical example and subject of research.
 
-On the other hand, it also includes controversial topics such as ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
+On the other hand, it also includes a controversial framework that includes ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
 
 ---
 
@@ -269,14 +269,14 @@ Point: A series of "cosmic" series. Acoustic experimentation (percussion, gongs,
 [Ya Ho Wa 13 (1974)](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13)
 
 
-Point: The core of self-recording. While recording at Garage, the band began to form an improvisational structure. Djin (guitar) / Sunflower (bass) / Octavius ​​(drums) and others are required.
+Point: The core of self-recording. While recording at Garage, the band's improvisational cohesion began to emerge. Djin (guitar) / Sunflower (bass) / Octavius ​​(drums) and others are required.
 
 
 ---
 
 [Penetration: An Aquarian Symphony (1974)](https://amzn.to/4hdcYa5)
 
-Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend that first-time listeners start here.
+Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend starting here for first-time listeners.
 
 
 ---
@@ -309,7 +309,7 @@ Fact: Many tracks are centered around chants, fragmented lines, and religious de
 
 Main motif:
 
-Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - divine name/sacred role.
+Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - Divine name/sacred role.
 
 
 References to the archetypal "travel/purification/elements (fire/water/air/earth)" — a symbol that also appears in the album/song titles.
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Highlights & recommended listening order (beginner → intermediate → researchers)
+### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 
@@ -408,7 +408,7 @@ Source Family Documentary (The Source Family, 2012) — Must-see video material.
 
 **Characteristics**: Over a long improvisational performance, Father Yod repeatedly calls out ""love," ""the universe," and ""truth'' like a prayer.
 
-**Theme**: A metaphor for sublimating sexual energy into "union with the universe." The title "Penetration" refers not only to the physical meaning but also to "penetrating into the depths of consciousness."
+**Theme**: A metaphor for sublimating sexual energy into "union with the universe." The title "Penetration" refers not only to the physical sense but also to "penetrating into the depths of consciousness."
 
 **Recurring Motifs**: "God", "Love", "Children", "Cosmic Light", etc.
 

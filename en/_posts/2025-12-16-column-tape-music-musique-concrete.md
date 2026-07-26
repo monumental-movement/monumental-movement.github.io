@@ -60,7 +60,7 @@ Tape editing was seen not as a recording of a performance, but as an act of comp
 
 ### 3.1 Proximity sound collection and material sensation
 
-By placing the microphone extremely close to the sound source, minute noises and vibrations that would not be perceived in a normal performance space were recorded. As a result, sound came to be perceived not as an abstract pitch, but as a presence with mass.
+By placing the microphone extremely close to the sound source, minute noises and vibrations that would not be perceived in a normal performance space were recorded. As a result, sound began to be perceived as an entity with mass, rather than an abstract pitch.
 
 ### 3.2 Multi-point sound collection
 

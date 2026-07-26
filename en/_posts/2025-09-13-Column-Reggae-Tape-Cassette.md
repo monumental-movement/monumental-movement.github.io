@@ -134,7 +134,7 @@ In the 1990s, when the number of Japanese reggae fans rapidly increased, local c
 - **Introducing an independent mixtape**
 As Japanese sound systems (Mighty Crown, Fire Ball, etc.) grew, they started releasing their own mixes on cassette. This led to the fusion of Japan's unique reggae culture and styles imported directly from Jamaica.
 
-- **After 2000s: CD-R and digitalization wave**
+- **After the 2000s: CD-R and digitalization wave**
 In the 2000s, CD-R and MP3 became mainstream, and cassettes gradually disappeared. However, some collectors and DJs still preserve their cassettes and digitize them to give back to the scene. These continue to have value as a vivid archive of reggae's reception in Japan.
 
 - **Cultural Significance**
@@ -157,7 +157,7 @@ The spread of reggae and cassette culture will be organized in parallel as movem
 | 1997-99 | The peak period of cassette culture. A large amount of on-site recordings are in circulation. | Japanese Sound System sells independently produced mix cassettes. Expanding the fan base. |
 | 2000-05 | With the rise of CD-R and MP3, the decline of cassettes begins. | CD-Rs become mainstream in clubs and shops. However, in some areas, efforts to preserve cassette culture continue. |
 | 2010s | Digital distribution is mainstream. Cassettes are being reevaluated as cultural memory. | Collectors and researchers digitize cassettes from the 90s. Re-evaluation continues. |
-| 2020s | Cassette players and reprint releases appear in the context of analog return. | In Japan, research and reissue projects are being conducted to delve into "reggae cassette culture." |
+| 2020s | Cassette players and reprint releases have appeared in the context of analog return. | In Japan, research and reissue projects are being carried out to delve into "reggae cassette culture." |
 
 ---
 

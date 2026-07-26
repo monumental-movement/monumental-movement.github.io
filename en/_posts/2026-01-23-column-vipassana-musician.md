@@ -52,7 +52,7 @@ color: #fff;
 Vipassana meditation has its roots in the Buddhist tradition, but it has become widespread as a universal technique that is separate from religion.
 The basics are **carefully observing your breathing and bodily sensations, and recognizing the natural flow of thoughts and emotions**.
 
-Modern practitioners often report that they can quiet their mental reactions through observation and awareness, and as a result **creativity and concentration improve**.
+Modern practitioners often report that observation and awareness calm down the reactions of the mind, resulting in **increased creativity and concentration**.
 
 ---
 

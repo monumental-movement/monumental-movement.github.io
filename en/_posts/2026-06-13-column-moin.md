@@ -25,7 +25,7 @@ Moin is an experimental project based in London, England, and is a unit that int
 
 This formation itself is symbolic, and Moin is established at the intersection of Raime"s origins as an electronic duo and Magaletti"s physicality centered around acoustic and improvisational percussion expressions.
 
-In terms of genre, it is a mixture of multiple elements such as post-punk, experimental music, post-hardcore, and minimal techno, but they are not integrated, but rather are presented in an intentionally disassembled state.
+In terms of genres, there are multiple elements mixed together, such as post-punk, experimental music, post-hardcore, and minimal techno, but they are presented in an intentionally disassembled state rather than integrated.
 
 The result is not a ""music genre," but ""sound as a behavior."
 
@@ -86,7 +86,7 @@ Rather, the instability itself becomes a groove.
 
 Magaletti's signature lies in the middle ground, neither completely improvised nor completely composed. There is repetition, but it is organic rather than mechanical.
 
-This ambiguous control state governs the overall sound image of Moin.
+This ambiguous control state governs Moin's overall sound image.
 
 > Drums do not play a rhythm, but function as a device that visualizes the fluctuations of time itself.
 
@@ -98,7 +98,7 @@ This ambiguous control state governs the overall sound image of Moin.
 
 The guitar in Moin is not a melody instrument. Chord progressions are also barely noticeable, replaced by noisy textures and short fragments of phrases.
 
-This approach is at once post-punk and noise-rock, but not entirely in either category.
+This approach is at once post-punk and noise-rock, but it doesn't quite belong to either.
 
 The guitar is treated as a ""sound that does not generate meaning" rather than a ""sound that has meaning."
 
@@ -132,9 +132,9 @@ D --> E[Non-genre acoustic space]
 
 Early works still have a post-punk outline, but as time progresses, those outlines dissolve.
 
-In particular, with "You Never End," it is important that the album as a whole functions as a continuum rather than the structure of individual songs.
+In particular, with "You Never End," it is important that the album as a whole functions as a continuum, rather than the structure of individual songs.
 
-Although each track is independent, they are in a relationship that erodes each other at the same time.
+Although each track is independent, they simultaneously erode each other.
 
 > The chronology is not just a record, but a trajectory that shows how Moin "lost its form"
 
@@ -156,7 +156,7 @@ In post-electronic music contexts, physicality has often been diluted. However, 
 
 The impact of the drums, the noise of the guitar, the shaking of the air. All of them are perceived as physical phenomena.
 
-> Moin's live performance is not about music, but the phenomenon of sound touching the body.
+> Moin's live performance is not about music, but about the phenomenon of sound touching the body.
 
 ---
 
@@ -190,7 +190,7 @@ What emerges instead is ""performance as a relationship.''
 
 ### Instability as the future of music
 
-The future that Moin presents is not a clear-cut answer. Rather, it is an attitude that affirms instability itself.
+The future that Moin presents is not a clear answer. Rather, it is an attitude that affirms instability itself.
 
 Music is not a finished product, but a process that is constantly falling apart.
 

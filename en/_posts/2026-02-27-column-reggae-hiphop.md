@@ -15,7 +15,7 @@ title: '[Column] Reggae × Hip-Hop: From sound systems to world cities—a histo
 
 
 
-## From sound systems to global standards, the genealogy of bass culture that crosses borders
+## From sound systems to world standards, the genealogy of bass culture that crosses borders
 
 Text: mmr｜Theme: The back and forth of rhythm connecting Jamaica and the Bronx, and the cultural history of expansion into global cities
 
@@ -40,7 +40,7 @@ color: #fff;
 
 ### What is Reggae × Hip-Hop?
 
-Reggae is a popular music that was established in Jamaica in the late 1960s, and has evolved from ska and rocksteady, and is characterized by off-beats and heavy bass. Hip-hop is a cultural movement that was formed in the Bronx, New York in the early 1970s, and has four elements: DJing, MCing, breakdancing, and graffiti.
+Reggae is a popular music that was established in Jamaica in the late 1960s, and has evolved from ska and rocksteady, and is characterized by offbeat and heavy bass. Hip-hop is a cultural movement that was formed in the Bronx, New York in the early 1970s, and has four elements: DJing, MCing, breakdancing, and graffiti.
 
 The points of contact between the two are sound system culture, toasting (narration over the beat), and bass-driven sound design.
 
@@ -58,9 +58,9 @@ The points of contact between the two are sound system culture, toasting (narrat
 
 ### Kingston: The establishment of the sound system
 
-In the 1950s, sound systems with large mobile speakers were popular in Kingston. **Coxsone Dodd** and **Duke Reid** imported American R&B and created their own dance culture.
+In Kingston in the 1950s, sound systems featuring large, mobile speakers were popular. **Coxsone Dodd** and **Duke Reid** imported American R&B and created their own dance culture.
 
-From the late 1960s to the 1970s, DJs appeared who spoke over instrumental music. A representative figure is **U-Roy**, who made his style of layering improvisational storytelling over existing riddim into a hit.
+From the late 1960s to the 1970s, DJs appeared who spoke over instrumental music. A representative example of this is **U-Roy**, whose style of layering improvised narrative over existing riddim became a hit.
 
 > The technique of manipulating words over the beat would later be reinvented in another city.
 
@@ -82,7 +82,7 @@ Hip-hop was a reimagining of Jamaican sound system culture in an urban context.
 
 In 1985, **Under Mi Sleng Teng** was released. This song, which used presets on the Casio MT-40, ushered in the digital dancehall era.
 
-Around the same time, sampling culture expanded in America, and hip-hop entered the realm of sonic experimentation. In the 1990s, **Shabba Ranks** became an international hit and the fusion of dancehall and rap progressed.
+Around the same time, sampling culture expanded in the United States, and hip-hop entered the realm of sonic experimentation. In the 1990s, **Shabba Ranks** became an international hit and the fusion of dancehall and rap progressed.
 
 The appearances of **Busta Rhymes**, who has a Jamaican flow, and **The Notorious B.I.G.**, which has a Caribbean intonation, are symbolic of this.
 
@@ -162,7 +162,7 @@ Reggae presented a postcolonial identity in sound. Hip-hop visualized urban real
 * Commercial success of dancehall
 * International standardization of hip-hop
 
-> Reggae × Hip-Hop is a microcosm of the cultural circulation created by cities.
+> Reggae x Hip-Hop is a microcosm of the cultural circulation created by cities.
 
 ---
 

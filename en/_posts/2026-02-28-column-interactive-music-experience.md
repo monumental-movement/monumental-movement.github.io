@@ -52,7 +52,7 @@ color: #fff;
 
 ## History
 
-The beginnings of interactive music date back to the pre-digital era. Tape manipulation and live improvisation were already "changing music." However, it was with the development of computers and game culture that it became a clear structure.
+The beginnings of interactive music date back to the pre-digital era. Tape manipulation and live improvisation were already "changing music." However, it was established as a clear structure with the development of computers and gaming culture.
 
 ### 1970s-1980s: Electronic instruments and MIDI
 
@@ -72,7 +72,7 @@ As a prime example, the music of Nintendo's works is a precursor to interactive 
 ### 2000s: The fusion of online and music
 
 With the spread of broadband, music begins to be linked to network connections.
-MMORPGs and online games have created experiences where music is synchronized in a shared space.
+MMORPGs and online games have created an experience where music is synchronized in a shared space.
 
 ### 2010s: VR/AR/Streaming
 
@@ -120,7 +120,7 @@ Designed a dynamic song structure within the constraints of the in-game sound so
 
 ### Imogen Heap
 
-Practice gesture control live using Mi.Mu gloves.
+Practicing gesture control live using Mi.Mu gloves.
 
 ### Holly Herndon
 
@@ -158,12 +158,12 @@ With the expansion of the game market, the field of music production that relies
 
 ### 3. Redefining live
 
-A live performance with millions of simultaneous participants is now possible in the online space.
+A simultaneous live performance with millions of participants is now possible in the online space.
 Live experiences that are not limited to physical spaces have become commonplace.
 
 ### 4. Changes in industrial structure
 
-Musicians are becoming a presence that provides not only ""music" but also ""experience design."
+Musicians are becoming a presence that provides not only ""songs" but also ""experience design."
 Cross-disciplinary knowledge of UX, programming, and sound design is important.
 
 <div class="mermaid">

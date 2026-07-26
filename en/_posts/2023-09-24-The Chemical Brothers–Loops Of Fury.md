@@ -14,7 +14,7 @@ title: The Chemical Brothers–Loops Of Fury
 
 "Loops of Fury" is an EP by British big beat duo The Chemical Brothers, released in 1996. The track rose to number 13 on the UK Singles Chart.
 
-This "Get Up on It Like This" voice sample is taken from a radio program performed by Africa Islam in 1983. From that program, the vocalist ""We"re "bout ready to rock steady" also appears, and is also used in ""Block Rockin Beats."
+This "Get Up on It Like This" voice sample is taken from a radio program performed by Africa Islam in 1983. The vocal line "We"re "bout ready to rock steady" also appears from that program, and is also used in "Block Rockin Beats."
 
 "Get Up on It Like This" was included in a reconstituted form on the subsequent album "Dig Your Own Hole".
 

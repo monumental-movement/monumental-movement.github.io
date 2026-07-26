@@ -21,7 +21,7 @@ title: '[Column] Dark Jazz / Noir Jazz ─ The sounds of a city drawn by darknes
 Text: mmr｜Theme: About the history of dark jazz centered around Bohren & der Club of Gore
 
 Dark Jazz/Noir Jazz is a subgenre that has undergone a particularly unique evolution in the history of jazz.
-It"s not a smoky late-night bar or a rain-soaked alley in the city; rather, it"s music that draws the "shadow" of the city and leads the listener into a lonely story.
+It's not a smoky late-night bar or a rain-soaked alleyway in the city; rather, the sound itself depicts the shadows of the city, leading the listener into a lonely story.
 
 This article organizes the flow of dark jazz from the late 1990s to the present day, based on data from actual artists and works centered on **Bohren & der Club of Gore**, and comprehensively deals with its musical structure and compatibility with movies/images.
 
@@ -65,7 +65,7 @@ Although there have been several changes in members, the following points have r
 
 - Originally from slow doom/hardcore band
 - In the 1990s, he turned to the approach of "playing jazz at an extremely slow tempo"
-- Tim Bruns (drums), Mickey Kohlmeyer (piano/organ), Robin Schuller (bass), Christoph Kloser (saxophone/piano) and others play key roles.
+- Tim Bruns (drums), Mickey Kohlmeier (piano/organ), Robin Schuller (bass), Christoph Kloser (saxophone/piano) and others play key roles.
 
 Musically, the biggest feature is that it combines the tempo of doom metal, the instrumentation of jazz, and the spatiality of film music.
 
@@ -107,7 +107,7 @@ Using baritone saxophone and electronic processing, he creates an acoustic space
 
 ### ● Expansion since the 2000s
 With the spread of YouTube and Bandcamp, the tag "dark jazz" has become globally shared and diversified by independent artists.
-Musicians from Finland, Poland, Russia, the United States, and other countries participate, and it is distinctive in that it develops around a ""mood'' rather than a specific region.
+Musicians from Finland, Poland, Russia, the United States, and other countries participate, and it is unique in that it develops around a ""mood'' rather than a specific region.
 
 ---
 
@@ -121,7 +121,7 @@ Dark jazz sounds like ""quiet, dark jazz,'' but it is actually a combination of 
 
 ### ● 2. Harmony: Modal structure/utilization of diminished chords
 - Mainly minor
-- Ambiguous resolution using dim7, m7(b5), sus4
+- Ambiguity resolution using dim7, m7(b5), sus4
 - Harmony construction that prioritizes "atmosphere" over functional harmony in jazz
 
 ### ● 3. Acoustic processing
@@ -217,7 +217,7 @@ flowchart TD
 
 ## 8. Current state of dark jazz
 Through long mixes on YouTube and "night view + dark jazz" videos by viewers,
-Since the 2020s, there has been a reappraisal among young listeners.
+Since the 2020s, there has been a re-evaluation of music, especially among young listeners.
 
 - "Quiet music" is gaining popularity alongside the trend of Lo-fi Hip Hop
 - Used as BGM for video production, VJ, and independent films
@@ -230,9 +230,9 @@ It continues to expand as "music that creates an atmosphere."
 
 ## 9. Where is dark jazz headed?
 With the spread of AI-generated video, VJ software, and indie games,
-We have entered an era where visuals and sounds are talked about in the same breath.
+We have entered an age where sight and sound are talked about in the same breath.
 
-Due to the nature of dark jazz, which is ""slow and has many blank spaces,''
+Due to the nature of dark jazz, it is slow and has many blank spaces.
 It is thought that it will continue to have new value by mixing with images.
 
 While belonging to the jazz tradition,
@@ -242,7 +242,7 @@ There is still a high possibility that it will grow as the "sound of the city" i
 ---
 
 # At the end
-Dark jazz is not the background music of a bar or the sound effects of a night town.
+Dark jazz is not the background music of a bar or the sound effects of a night town;
 **This is a modern art that depicts the loneliness and shadows of cities using only sound. **
 
 Each artist, mainly Bohren & der Club of Gore, has drawn different ways of drawing shadows.

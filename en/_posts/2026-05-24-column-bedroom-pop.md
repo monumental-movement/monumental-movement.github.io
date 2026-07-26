@@ -105,7 +105,7 @@ Such images created a far more intimate feeling than a huge studio space.
 
 The conventional star system was based on a "sense of distance."
 
-However, Bedroom Pop, on the contrary, placed value on ""proximity.''
+However, Bedroom Pop, on the contrary, placed value on ""proximity''.
 
 <div class="mermaid">
 flowchart TD
@@ -205,7 +205,7 @@ Billie Eilish was the most iconic figure in popularizing Bedroom Pop as a worldw
 
 His early works, which he produced at home with his brother Finneas, had a different atmosphere from ""pop made in a huge studio.''
 
-In particular, the bass-heavy mix, whispers, and quiet compositions brought the Bedroom Pop feel to the mainstream.
+In particular, the bass-heavy mix, low whispers, and compositions that make use of silence brought the Bedroom Pop feel to the mainstream.
 
 What is important here is that the information that ""produced in one's own room'' itself has become a brand.
 
@@ -375,9 +375,9 @@ In other words, the feeling of entering ""someone's living space'' had value.
 
 ### Re-evaluation of VHS sensation
 
-In the late 2010s, VHS-style filters and lo-fi video processing rapidly became popular.
+In the late 2010s, VHS-style filters and lo-fi video processing quickly became popular.
 
-This can be said to be a reaction to digital images becoming too high-definition.
+This can be said to be a reaction to the fact that digital images have become too high-definition.
 
 Bedroom Pop redefined "roughness" as an attractive feature not only in sound but also in video.
 
@@ -445,7 +445,7 @@ It has a strong sense of atmosphere.
 
 These worked to their advantage in an algorithmic environment.
 
-> Bedroom Pop was emotion-sharing music optimized for the algorithm age.
+> Bedroom Pop was emotion-sharing music optimized for the algorithm era.
 
 ---
 
@@ -479,7 +479,7 @@ In other words, DIY reality has become a commercial format.
 
 Because Bedroom Pop is so introspective, some say that prolonged contact with it can cause emotional exhaustion.
 
-Particularly in the age of social media, it has been pointed out that there is a danger that feelings of loneliness and anxiety are repeatedly amplified.
+Particularly in the age of social media, it has been pointed out that there is a danger that feelings of loneliness and anxiety may be repeatedly amplified.
 
 Still, the reason Bedroom Pop was widely supported is that it created a ""culture that doesn't hide its weaknesses.''
 
@@ -551,7 +551,7 @@ B --> F[indie creation]
 
 ## summary
 
-Bedroom Pop wasn't just a music genre.
+Bedroom Pop wasn't just a genre of music.
 
 It was a huge cultural phenomenon that combined the loneliness, anxiety, desire for creativity, and desire for self-expression that young people in the smartphone era were experiencing.
 

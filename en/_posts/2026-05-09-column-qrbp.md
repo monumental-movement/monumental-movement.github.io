@@ -47,7 +47,7 @@ The mud of rural villages, the cold of winter, cheap alcohol, long roads, fatigu
 
 QRBP is characterized by its passion, not its skill.
 
-The performances are sometimes rough, the singing voices are not very well-arranged, and the live performances are on the border between celebration and chaos. Even so, the reason they are supported is because they are engraved with ""life''.
+The playing is sometimes rough, the singing is not overly organized, and the live performance is on the border between celebration and chaos. Even so, the reason they are supported is because they are engraved with ""life''.
 
 Quebec music has long maintained its unique Francophone identity. QRBP was part of this trend, but it also brought locality and people's characteristics to the fore.
 
@@ -114,7 +114,7 @@ Formed in the Saguenay region of Quebec. It is a rural area that is far from urb
 
 This regionality was extremely important in understanding their music.
 
-Unlike the art scene in Montreal, the area around Saguenay retained a strong worker culture, forestry culture, and sense of local community. QRBP's music is deeply engraved with this atmosphere.
+Unlike the art scene in Montreal, the area around Saguenay retained a strong worker culture, forestry culture, and sense of local community. This atmosphere is deeply engraved in QRBP's music.
 
 In the early days, they weren't as well-known as they are today.
 
@@ -332,7 +332,7 @@ Rather, he continued to grow closer to the audience.
 
 The costumes are not overly staged, and the stage is not overly deified.
 
-What there is is the feeling of ""standing on the same ground.''
+What there is is a sense of ""standing on the same ground''.
 
 This atmosphere was unique at a huge festival.
 
@@ -346,7 +346,7 @@ C --> D["Broader Recognition"]
 D --> E["Community Identity Maintained"]
 </div>
 
-> Even as the scale expanded, QRBP did not lose its "local body temperature".
+> Even as the scale expanded, QRBP did not lose its "local body temperature."
 
 ---
 

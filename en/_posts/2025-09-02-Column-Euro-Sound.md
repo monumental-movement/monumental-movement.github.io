@@ -20,7 +20,7 @@ title: '[Column] "Euro sounds" change depending on national borders: Italy, Germ
 Text: mmr | Theme: Genre: Music column | Theme: Comparative analysis of 90's Euro music by country of production
 
 
-Although it is often referred to as ""Euro music," in reality, the ""sound texture" and ""aesthetic sense'' differ depending on the country in which it was produced.
+Although it is often referred to as ""Euro music," in reality, the ""sound texture" and ""aesthetic sense'' vary depending on the country in which it was produced.
 In the 1990s, the main battlegrounds for this genre were **Italy, Germany, and Sweden**.
 Based on their respective cultural, industrial, and technological backgrounds, they were exporting their own ""sound of the euro'' to the world.
 
@@ -107,7 +107,7 @@ color: #fff;
 | Snap! | *World Power* (1990) | Includes global hits "The Power" and "Rhythm Is a Dancer" |
 | Culture Beat | *Serenity* (1993) | Club-oriented Euro dance. "Mr. Vain" is the representative song |
 | Real McCoy | *Another Night* (1995) | American-German hybrid unit. Hit songs "Another Night" and "Run Away" |
-| U96 | *Das Boot* (1992) | Techno-trance-oriented. Title song is a club hit |
+| U96 | *Das Boot* (1992) | Techno/trance-oriented. Title song is a club hit |
 | Scooter | *Our Happy Hardcore* (1996) | Hard dance euro. Representative song "Hyper Hyper" |
 
 ---
@@ -168,3 +168,13 @@ The greatest appeal of 1990s Euro music is that, while it functions as a ""unive
 Even though they are all similar, the heat of Italy, the hardness of Germany, and the coolness of Sweden are clearly different.
 
 Music born at the intersection of global and local. That may be the essence of the 1990s euro.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1i4AItb_Iw?si=rOvuP_QTU1g6Qp1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

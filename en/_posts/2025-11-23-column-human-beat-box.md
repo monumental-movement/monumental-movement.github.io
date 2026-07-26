@@ -85,7 +85,7 @@ Since the late 2010s, it has largely evolved in the following three directions.
 
 1. **Groove Musician** (Tame Swing Drummer Interpretation)
 2. **Sound Design** (ASMR, mechanical, acoustic approaches)
-3. **Establishment of loop station** (multi-layer construction/electronic music development)
+3. **Establishment of loop station** (multilayer construction/electronic music development)
 
 Centered on GBB, ""beatbox as a musical work'' began to be emphasized.
 
@@ -121,7 +121,7 @@ Rapid growth has been remarkable in recent years.
 - High quality of sound
 - Speed ​​of adaptation to genres
 
-In particular, Japan's strengths are ""accuracy of sound," ""compositional ability," and ""compatibility with images and production.''
+In particular, Japan's strengths include "accuracy of sound," "composition ability," and "compatibility with images and production."
 
 ---
 
@@ -136,7 +136,7 @@ Japanese players are strong in sound accuracy and attention to detail, and are h
 ## ◆ 3. Fusion with video and editing culture
 Mainly on YouTube and SNS,
 **"Video x Music x Performance"**
-Another feature is that the complex beatboxing technique developed from an early stage.
+It is also notable that the complex beatboxing system developed from an early stage.
 
 ---
 
@@ -156,7 +156,7 @@ The characteristic is that
 - Sound design that combines voice and looper
 - Balancing melody, chord, and bass line
 
-""Composer's approach'' is strong.
+A strong ""composer's approach''.
 
 ### ● SO-SO technical features
 - Synthetic voice
@@ -209,7 +209,7 @@ Among recent Japanese players, he is a player with a tone that stands out in liv
 traditional department. Comprehensive skills such as technology, composition, and originality are tested.
 
 ## ◆ Tag Team / Crew
-Synchronization, harmony, and composition ability by multiple people are required.
+Synchronization, harmony, and composition skills by multiple people are required.
 
 ## ◆ Loopstation
 The category that has received the most attention in recent years,
@@ -239,7 +239,7 @@ timeline
 
 # 9. Beatbox trends around the world and the future
 
-## ◆ 1. The line between music production is blurred
+## ◆ 1. The line between music production is blurring
 With the development of Loopstation, beatboxing
 **"Real-time version of music production"**
 Towards an area that can be called
@@ -264,8 +264,8 @@ We can expect him to continue to be active in both Loopstation and solo.
 # Conclusion - Human Beatbox as a culture
 
 Human Beatbox is a modern expression culture that combines many aspects such as music, performance, video, and composition.
-Now that the competition culture is maturing, technology is evolving, and Japanese artists are emerging, beatboxing is undergoing major changes, and beatboxing is becoming more than just a technique, it is becoming an international music genre.
+Nowadays, beatboxing is undergoing major changes such as the maturing of competition culture, the evolution of technology, and the rise of Japanese artists, and beatboxing is becoming more than just a ""technique'' but is becoming established as an international music genre.
 
-I hope this article will help you understand the history and future of beatboxing.
+I hope that this article will help you understand the history and future of beatboxing.
 
 ---

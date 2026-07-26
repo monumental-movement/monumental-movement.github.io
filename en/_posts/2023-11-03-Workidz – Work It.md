@@ -16,7 +16,7 @@ David Nagy, also known as Workidz, is a truck manufacturer based in Budapest, Hu
 
 "Work It", released by Montini Belgium in 2007, is Workidz's masterpiece.
 
-The first song on side B is a remix by St. Louis-based DJ Kobbe.
+The first track on side B is a remix by St. Louis-based DJ Kobbe.
 
 The second song on side B is a remix by Miami-based DJ/producer Martin Accorsi.
 

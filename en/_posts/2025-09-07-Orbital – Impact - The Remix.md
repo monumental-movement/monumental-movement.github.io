@@ -12,7 +12,7 @@ title: Orbital – Impact - The Remix
 ---
 
 
-This work is a remix of singles picked from Orbital's most acclaimed album, ""Orbital 2 (Brown Album)'' (1993), a major UK electro/techno music giant who represented the 90s techno scene along with The Chemical Brothers, Underworld, The Prodigy, and others.
+A remix of singles from Orbital's most acclaimed album, Orbital 2 (Brown Album) (1993), one of the UK electro/techno music giants who represented the 90s techno scene along with The Chemical Brothers, Underworld, and The Prodigy.
 
 A's "Impact USA" is a self-remix of "Impact (The Earth Is Burning)".
 

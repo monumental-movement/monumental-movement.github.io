@@ -10,7 +10,7 @@ tags:
 - Jazz-Funk
 - City Pop
 - 90s
-title: Stardust Revue Band
+title: Stardust Revue Orchestra
 ---
 
 

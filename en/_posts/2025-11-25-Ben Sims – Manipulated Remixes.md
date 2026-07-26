@@ -13,7 +13,7 @@ title: Ben Sims – Manipulated Remixes
 ---
 
 
-A two-disc set released in 2000 by the Primate Recordings label.
+A two-disc set released in 2000 by the label Primate Recordings.
 
 A remix of UK techno legend Ben Sims' ""Manipulated'' by top techno DJs/producers including Adam Beyer, Joel Mull, Jel Ford, and Samuel L. Sessions.
 

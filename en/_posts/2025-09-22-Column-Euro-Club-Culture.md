@@ -131,12 +131,22 @@ Nostalgic yet functional sound for open air and festival scenes
 ### Conclusion: Euro lived on the border between "pop" and "club"
 
 Euro music was not just ""easy-going chart music" or ""hard club tracks."
-Its true value lies in the music that maintained a balance between media and underground, melody and rhythm, system and physicality.
+Its true value lies in the fact that it was music that maintained a balance between media and underground, melody and rhythm, system and physicality.
 
 Listen to it on the radio and dance in the club.
 That may have been the most "correct" way to spend the euro in the 1990s.
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HV5EOcCm9Pk?si=VVym9SwLkBdhH_6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Related columns
 

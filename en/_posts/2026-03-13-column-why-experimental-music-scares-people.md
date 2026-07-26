@@ -220,7 +220,7 @@ B --> C[Anxiety about distorted sound]
 C --> D[noise music]
 </div>
 
-> Noise was not just noise, but a sound that directly touched the human senses.
+> Noise was not just noise, but a sound that directly touched human senses.
 
 ---
 

@@ -50,7 +50,7 @@ color: #fff;
 </style>
 
 
-## History of the Berlin System: How the Club Became an Institution
+## Berlin Institutional History: How the Club Became an Institution
 
 ### Post-unification Berlin and the creation of club spaces
 
@@ -82,7 +82,7 @@ D --> E[international distribution]
 
 Berghain's resident DJs are more than just guests. They are assigned to set for long periods of time, and it is necessary to read their psychological state at each time of day.
 
-Höppner's playing tends to emphasize sustained grooves rather than sudden peaks. The BPM range ranges from house to techno, with smooth transitions.
+Höppner's playing tends to emphasize sustained grooves rather than sudden peaks. The BPM range spans from house to techno, with smooth transitions.
 
 ### Structure for assembling the floor
 
@@ -115,7 +115,7 @@ Höppner's production tends towards reducing the number of sounds and organizing
 
 ### Album "Folk"
 
-The album ""Folk" released by Ostgut Ton in 2015 is a work that explores the balance between club functionality and lyricism. As the title suggests, it is not a direct reference to folk music, but rather a sense of structural ""narration".
+The album ""Folk" released by Ostgut Ton in 2015 is a work that explores the balance between club functionality and lyricism. As the title suggests, it is not a direct reference to folk music, but rather a sense of structural ""narrative".
 
 The track is not a linear peak structure, but is designed to embed subtle changes within the repetition.
 
@@ -164,11 +164,11 @@ timeline
 
 ## Conclusion: Sounds from within the system
 
-Although Ostgut Ton later ceased to be active, the aesthetics formed during that period remain. Berlin's club culture is renewed through repeated institutionalization and reorganization.
+Although Ostgut Ton later ceased to be active, the aesthetics formed during that period remain. Berlin's club culture is updated through repeated institutionalization and restructuring.
 
 Nick Höppner was responsible for running the system, verifying it on the floor, and recording it as a sound source. His career is an example of how urban cultures self-organize and gain international influence.
 
-Not explosive stardom, but sustained practice and thought. It is this quiet driving force that has shaped one aspect of Berlin House.
+Not explosive star power, but sustained practice and thought. It is this quiet driving force that has shaped one aspect of Berlin House.
 
 > The sounds made on the floor transcend the system, but are supported by the system.
 

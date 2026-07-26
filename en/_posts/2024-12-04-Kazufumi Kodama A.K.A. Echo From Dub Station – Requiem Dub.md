@@ -15,7 +15,7 @@ title: Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub
 
 Kazufumi Kodama is a trumpet player who is active in dub bands such as MUTE BEAT and KODAMA AND THE DUB STATION BAND. He has also produced many artists such as Fishmans' first album and CHIEKO BEAUTY.
 
-"Requiem Dub" is Kazufumi Kodama's second solo album, recorded at Wackies, known as a famous NY reggae studio. Released in 1999 by Speedstar International. Kazufumi Kodama himself handled all the performances and production for this album.
+"Requiem Dub" is Kazufumi Kodama's 2nd solo album, recorded at Wackies, known as a famous NY reggae studio. Released in 1999 by Speedstar International. Kazufumi Kodama himself handled all the performances and production for this album.
 
 #### Tracklist
 ```md

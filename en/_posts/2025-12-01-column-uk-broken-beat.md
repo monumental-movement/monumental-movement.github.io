@@ -101,7 +101,7 @@ Broken Beat is more than just dance music, it is characterized by its combinatio
 
 - Use live recordings of drums and percussion as material
 - Sample soul and funk phrases
-- Programming techniques that reflect rhythm changes in real time
+- Programming techniques that reflect rhythmic changes in real time
 
 <div class="mermaid">
 graph LR
@@ -201,7 +201,7 @@ graph TD
 ### IG Culture
 - **Start of activities**: 1996
 - **Characteristics**: Soulful and jazz-fusion Broken Beat
-- **Song Analysis**: "Give Me Time" is impressive with its long sustain on the synth pad and asymmetrical rhythm. A structure that allows for a high degree of freedom in vocal phrases and gives the listener "breathing".
+- **Song Analysis**: "Give Me Time" is impressive with its long sustain on the synth pad and asymmetrical rhythm. A structure that allows for a high degree of freedom in vocal phrases and gives listeners "breathing".
 
 ### 2000Black
 - **Established**: 1998

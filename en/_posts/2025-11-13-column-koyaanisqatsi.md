@@ -116,7 +116,7 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 
 ---
 
-## Chapter 5: The correspondence relationship between video composition and music
+## Chapter 5: The relationship between video composition and music
 
 | Scene | Music motif | Meaning/effect |
 | ----------- | -------- | ---------- |
@@ -125,7 +125,7 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 | Close-up of the face | Chorus and deceleration | Questions about the restoration of humanity |
 | Collapsing Rocket | Silence and Decay | End of Civilization and Rebirth |
 
-As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the image.
+As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the video.
 
 ---
 
@@ -139,7 +139,7 @@ for example:
 * **Contemporary composers such as Sigur Rós, Max Richter, Brian Eno**
 * Directly influenced **environmental films and VJ culture**
 
-This work is not just a movie, but has become something that can be called an ""**audiovisual philosophy book**.''
+This work is not just a movie, but has become something that can be called an ""Audiovisual Philosophy Book''.
 
 ---
 
@@ -160,7 +160,7 @@ D -->|Rebirth/Meditation| A
 
 ---
 
-## Chapter 7: Musical Analysis - Change in Repetition
+## Chapter 7: Musical Analysis -- Change in Repetition
 
 Glass' compositional technique, ""Additive Process,''
 It has a structure in which the number of notes gradually increases or decreases within a phrase.
@@ -169,7 +169,7 @@ example:
 "123 → 1234 → 12345 → 2345 → 345"
 
 These minute changes create the illusion of time, in which the object is moving even though it is stationary.
-It perfectly corresponds to the sense of time in slow motion and time-lapse movies.
+This perfectly corresponds to the sense of time in slow motion and time-lapse movies.
 
 ---
 

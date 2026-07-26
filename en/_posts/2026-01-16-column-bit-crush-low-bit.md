@@ -184,7 +184,7 @@ This is not just nostalgia; it is because the music production environment has b
 
 ### Application to videos, games, and advertising
 
-Low-bit tones are used as symbols that instantly convey a sense of nostalgia, artificiality, and unreality.
+Low-bit sounds are used as symbols that instantly convey a sense of nostalgia, artificiality, and unreality.
 Even short sounds can evoke context, so they go well with images and UI sounds.
 
 > Low-pitched sounds have become sounds that carry meaning.

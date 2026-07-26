@@ -104,7 +104,7 @@ flowchart TD
 
 In the 1970s, disco music becomes a worldwide phenomenon.
 
-However, contrary to the current popular image, the origins of disco culture were deeply connected to the black, Latinx, and LGBTQ+ communities.
+However, contrary to today's popular image, the origins of disco culture were deeply connected to the black, Latinx, and LGBTQ+ communities.
 
 In New York clubs like the Loft, Paradise Garage, and Sanctuary, marginalized people danced the night away.
 
@@ -349,7 +349,7 @@ flowchart TD
 
 ### Dance Floor Inheritance
 
-In modern times, a diverse queer music scene has emerged, including not only house and techno, but also hyperpop, club deconstructed, experimental clubs, and more.
+In modern times, a diverse queer music scene has emerged, including not only house and techno, but also hyperpop, club deconstructed, and experimental clubs.
 
 What they all have in common is a sense of ""questioning the existing framework.''
 

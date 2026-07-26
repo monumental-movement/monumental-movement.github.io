@@ -22,11 +22,11 @@ Text: mmr｜Theme: The trajectory of Pink Floyd's innovation and thought that ex
 
 ### How far can music expand?
 
-In the 1960s, rock was still "music that was played." However, Pink Floyd transforms this into a ""space to be experienced.'' Music as a whole, including sound, light, images, and even silence. Their appearance was an event that rewrote the very definition of rock.
+In the 1960s, rock was still "music to be played." However, Pink Floyd transforms this into a ""space to be experienced.'' Music as a whole, including sound, light, images, and even silence. Their appearance was an event that rewrote the very definition of rock.
 
 At early concerts, such as at London's UFO Club, a liquid light show was projected simultaneously with the music, making the audience not just listeners but ""insiders.'' At this point, their live performance was already an "environment" rather than a concert.
 
-One of the testimonies of the audience at the time is that they were ""not just watching the band, but melting into the space.'' This is not an exaggeration; it was exactly the experience they intended.
+There is a testimony from an audience member at the time that says, ""They were not watching the band, but melting into the space.'' This is not an exaggeration; it was exactly the experience they intended.
 
 > Rock has changed from ""something to listen to" to ""something to immerse yourself in."
 
@@ -55,7 +55,7 @@ Early on, Syd Barrett was the creative center of the band. The songs he wrote we
 
 Their 1967 debut album, The Piper at the Gates of Dawn, epitomized this. The recording coincided with The Beatles making Sgt. Pepper's Lonely Hearts Club Band in the same studio. It is said that they sometimes passed each other in the hallway of the studio, but their musical direction was very different.
 
-Barrett has many anecdotes left behind. There is a well-known story about him never changing the chords on his guitar during a live performance, just playing one note over and over again. There is also an episode in which she applied brilliant cream to her hair, stood on stage, and it melted from the heat of the lights, covering her face.
+Barrett has many anecdotes left behind. There is a well-known story about him never changing the chords on his guitar during a live performance, just playing one note over and over again. There is also an episode in which she applied brilliant cream to her hair and stood on stage, causing it to melt from the heat of the lights and cover her face.
 
 In 1968, he left the band. But then again, during the production of 1975's Wish You Were Here, he suddenly showed up at the studio and no one recognized him. This visit had a deep impact on the band, as symbolized by the song "Shine On You Crazy Diamond."
 
@@ -82,7 +82,7 @@ What they chose was ""constructed music.'' Recording studios began to play a rol
 
 ""Echoes" from ""Meddle" features a mysterious, ping-like sound, which was originally discovered by chance when a microphone was placed close to a piano. This attitude of incorporating chance into structure also applies to later electronic music.
 
-They also experimented with ""quadraphonic sound,'' which moves the sound by placing speakers on all sides at live performances. The experience of having sound come from behind the audience was extremely innovative at the time.
+They also experimented with ""quadraphonic sound,'' which moves the sound by placing speakers on all sides at live performances. The experience of sound coming from behind the audience was extremely innovative at the time.
 
 <div class="mermaid">
 graph TD
@@ -101,7 +101,7 @@ graph TD
 
 ### "The Dark Side of the Moon"
 
-In 1973, The Dark Side of the Moon became a turning point in rock history. This work unifies themes such as time, madness, death, and capitalism, and the album as a whole functions as a single ideology.
+In 1973, The Dark Side of the Moon became a turning point in rock history. This work unifies themes such as time, madness, death, and capitalism, and the entire album functions as a single ideology.
 
 In the recording, the drums were modified to reproduce the sound of a heartbeat, and everyday sounds such as the sound of a cash register and a clock were incorporated into the rhythm. The clock sound at the beginning is a simultaneous recording of many clocks in the studio.
 
@@ -122,7 +122,7 @@ graph LR
 ---
 
 
-## Chapter 4: Growing story and production
+## Chapter 4: Enormous story and production
 
 ### "The Wall" and the parable of division
 
@@ -164,7 +164,7 @@ timeline
     1987 : 活動継続
 </div>
 
-> The band split from one ideology into multiple interpretations.
+> The band split from one ideology to multiple interpretations.
 
 ---
 
@@ -177,7 +177,7 @@ Pink Floyd's influence is immeasurable. In the ambient realm, he resonated with 
 
 Furthermore, many of today's live productions—giant LED screens, stereophonic sound, and immersive installations—are an extension of their efforts.
 
-In 1990, Waters' reenactment of ""The Wall'' at the site of the Berlin Wall became a symbolic cultural event marking the end of the Cold War.
+In 1990, Waters' re-enactment of ""The Wall'' at the site of the Berlin Wall became a symbolic cultural event marking the end of the Cold War.
 
 Furthermore, the moment when the main members reunited at Live 8 in 2005 is remembered as an event that will go down in music history.
 

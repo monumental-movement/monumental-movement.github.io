@@ -15,13 +15,13 @@ title: '[Column] Electro Swing'
 
 
 
-## About the music style Electro Swing
+## About the music style called Electro Swing
 
 Text: mmr｜Theme: Reconstruction using the historical heritage of swing jazz and the grammar of electronic dance music
 
 Electro Swing is a musical style that combines elements of swing jazz, big band, and gypsy jazz from the 1920s to 1940s with the production techniques of electronic dance music from the 2000s onwards. It combines historical elements such as horn riffs, clarinet and violin, and scat vocals with samplers, sequencers, loops, and bass-heavy beats.
 
-This genre is more than just a retro hobby; it lies at the intersection of multiple contexts: the history of recording technology, the structure of dance music, sampling culture, and the expansion of club culture. Electro Swing can be understood as a methodology for reconstructing the musical heritage of the past as material and adapting it to the modern floor.
+This genre is more than just a retro hobby; it lies at the intersection of multiple contexts: the history of recording technology, the structure of dance music, sampling culture, and the expansion of club culture. Electro Swing can be understood as a methodology for reconstructing the musical heritage of the past as raw material and adapting it to the modern floor.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 ## 1. Historical Background: Swing and Dance Music
 
 
-Swing jazz developed in America in the 1930s and was closely tied to dancehall culture. Ensembles based on four-beat rhythms, syncopation, and horn sections have become widespread as popular entertainment.
+Swing jazz developed in America in the 1930s and was closely tied to dancehall culture. Ensembles based on four-beat rhythms, syncopation, and horn sections have become widely popular as popular entertainment.
 
 On the other hand, electronic dance music, which has developed since the 1970s, has passed through disco, house, and techno, and has established itself as a music characterized by repetitive structures and mechanical precision. Electro Swing was created in a way that traverses these two dance music histories.
 
@@ -100,7 +100,7 @@ These do not necessarily reproduce exact swing rhythms, but are reinterpreted to
 
 ## 7. Visual culture and fashion
 
-Electro Swing spread not only through music, but also through 1920s and 1930s style fashion, Art Deco graphics, and retro-futuristic visual expressions. This expanded the understanding of genre from an auditory experience to a holistic cultural experience.
+Electro Swing spread not only through music, but also through 1920s and 1930s style fashion, Art Deco graphics, and retro-futuristic visual expressions. This expanded the understanding of genre from an auditory experience to a comprehensive cultural experience.
 
 ---
 
@@ -171,7 +171,7 @@ This method is consistent with sampling culture after hip-hop, but Electro Swing
 
 ## 16. Sound processing and production techniques
 
-On the production side, sample cutting and time stretching, beat quantization, and bass low-end design play important roles. The bounce of the swing is not fully reproduced, but is absorbed into the four-on-the-four or straight breakbeat.
+On the production side, sample cutting and time stretching, beat quantization, and bass low-end design play important roles. The bounce of the swing is not fully reproduced, but absorbed into the four-on-the-four and straight breakbeats.
 
 As a result, Electro Swing has a structure that is unnatural for jazz, but highly responsive for dance music. This compromise design is the technical core of the creation of the genre.
 
@@ -179,7 +179,7 @@ As a result, Electro Swing has a structure that is unnatural for jazz, but highl
 
 ## 17. Floor functionality and DJ perspective
 
-For DJs, Electro Swing serves as a connecting point for cross-genre mixes. It is easy to connect with house, breakbeat, hip-hop, and even rock"n"roll, allowing you to naturally change the context of the floor.
+For DJs, Electro Swing acts as a connecting point for cross-genre mixes. It is easy to connect with house, breakbeat, hip-hop, and even rock"n"roll, allowing you to naturally change the context of the floor.
 
 This is achieved through rhythmic simplification and melodic fragments with strong motifs. Electro Swing is music that exhibits its power in a flow rather than as a single genre.
 
@@ -195,7 +195,7 @@ On the other hand, another characteristic is that it was difficult to form a cle
 
 ## 19. Comparison with other genres
 
-Electro Swing is sometimes confused with Nu Jazz, Swing House, and Retro House, but the biggest difference is that it foregrounds the symbolism of the swing era. This prioritizes cultural readability over musical complexity.
+Electro Swing is sometimes confused with Nu Jazz, Swing House, and Retro House, but the biggest difference is that it foregrounds the symbolism of the swing period. This prioritizes cultural readability over musical complexity.
 
 While this structure weakened the genre's ability to withstand criticism, it was effective in gaining long-term listeners.
 
@@ -205,7 +205,7 @@ While this structure weakened the genre's ability to withstand criticism, it was
 
 Electro Swing was created by transplanting historical fragments of swing jazz into the structure of electronic dance music. The practices of Parov Stelar and Caravan Palace show that this methodology is not just a fad, but can function as a cultural translation.
 
-Treating the past as raw material that can be edited rather than consumed as decoration is a perspective that permeates contemporary musical culture as a whole. Electro Swing will continue to be referenced as a symbolic example of this.
+Treating the past as raw material that can be edited rather than consumed as decoration is a perspective that permeates contemporary musical culture as a whole. Electro Swing will continue to be referenced as an iconic example.
 
 Electro Swing was created by reconstructing the historical legacy of swing jazz using the grammar of electronic dance music. Practices such as Parov Stelar and Caravan Palace show that this fusion is not a temporary project, but a sustainable expression.
 

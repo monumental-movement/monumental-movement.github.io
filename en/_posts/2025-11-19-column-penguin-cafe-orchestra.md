@@ -21,7 +21,7 @@ title: '[Column] Penguin Cafe Orchestra - An imaginary paradise that resonates b
 Text: mmr｜Theme: **From the establishment of PCO to the trajectory of its activities, acoustic structure, analysis of major works, Simon Jeffes' thoughts**
 
 Penguin Cafe Orchestra (PCO) is a music unit that suddenly appeared in England in the late 1970s.
-Rather than a band, they can be called a ""musical body of thought," and their unique sound that transcends the boundaries of ensemble form, instrumentation, and genres is still hailed as ""one-of-a-kind."
+Rather than a band, they can be called a ""musical body of thought", and their unique sound that transcends the boundaries of ensemble form, instrumentation, and genre is still hailed as ""one-of-a-kind" to this day.
 
 It's not folk, classical, ambient, or world music.
 Although it includes all elements, it does not belong completely to any category.
@@ -53,12 +53,12 @@ PCO's origins lie in a strange event in 1972, when founder Simon Jeffes "succumb
 That's when he had a daydream-like inspiration that later became known as the "Penguin Cafe vision."
 There existed a "utopia" where people could gather freely and continue to make music without discipline or form.
 
-To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structures of minimal music.
+To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structure of minimal music.
 The music was neither traditional nor avant-garde, but crystallized as a sound that could only be found here.
 
 ---
 
-## Chapter 2 Organization and philosophy: An unfixed "orchestra"
+## Chapter 2 Organization and Thought: An unfixed "orchestra"
 
 PCO's composition changes with each album and live performance, and is different from a "band" with fixed members.
 Led by Simon Jeffes, former classical musicians, folk musicians, and experimental musicians participate, and they act as a ""chamber music group that gathers on a project basis''.
@@ -95,14 +95,14 @@ This chapter analyzes the internal structure of PCO's iconic songs.
 ### 3-1. **Music For a Found Harmonium (1984)**
 
 PCO's signature song.
-An iconic anecdote is that he composed music by playing on a broken harmonium he found on the streets of Kyoto.
+An iconic anecdote is that he composed music while playing on a broken harmonium he found on the streets of Kyoto.
 
 **Structural features**
 
 * The main melody is a simple scale movement
 * Contains microtonal shift in the middle part
 * Dispersed chords on the guitar are repeated around the sustained note of the harmonium.
-* A fusion of folk music dynamics and classical precision
+* A fusion of folk music dynamics and classical precision.
 
 Even today, this song is frequently used in movies, commercials, and dance works, and has the "light, celebratory feel" that symbolizes PCO.
 
@@ -134,7 +134,7 @@ A strange piece of music in which a two-tone telephone suddenly rings in a class
 * Electronic sound that exists as a "foreign object" above the ensemble
 * Humorous but postmodern at the same time
 
-In terms of minimal + found sound, this work intersects with Brian Eno's lineage.
+In terms of Minimal + Found sound, this work intersects with Brian Eno's lineage.
 
 ---
 
@@ -152,12 +152,12 @@ Folklore and repetitive structures are fused, and the later style is almost comp
 ### ● *Penguin Cafe Orchestra* (1981)
 
 Contains the famous song "Telephone and Rubber Band".
-He has a strong folk music approach and has acquired a unique "dance quality."
+It has a strong folk music approach and has acquired a unique "dance quality".
 
 ### ● *Broadcasting from Home* (1984)
 
 Contains the famous song "Music For a Found Harmonium".
-An album that reaches its peak with the bright sound that is unique to PCO.
+This is an album where PCO's bright sound quality reaches its peak.
 
 ### ● *Signs of Life* (1987)
 
@@ -179,7 +179,7 @@ PCO's music was received in a variety of ways in many countries, despite being i
 ### ● Affinity with cafe/lounge culture
 
 It was reevaluated during the "cafe music" boom in the late 1990s.
-The ""ambient music with a statement'' that was light and easy to listen to, yet did not become a background feature, attracted attention.
+The ""ambient music with a statement'' that was light and easy to listen to, yet did not become part of the background, attracted attention.
 
 ### ● Heavy media usage
 
@@ -204,7 +204,7 @@ PCO's approach of ""absence of genre" and ""a fusion of chamber music and folk i
 ## Chapter 6: The Death and Aftermath of Simon Jeffes
 
 In 1997, Simon Jeffes passed away at the age of 48 from a brain tumor.
-Although it was a great loss to the music world, the remaining recordings, unreleased notes, and performance scores are still being reevaluated.
+Although it was a great loss for the music world, the remaining recordings, unreleased notes, and performance scores are still being reevaluated.
 
 Later, his son **Arthur Jeffes** started a new project under the name "Penguin Cafe".
 While inheriting the spirit of PCO, they tour the world as a more modern ensemble.

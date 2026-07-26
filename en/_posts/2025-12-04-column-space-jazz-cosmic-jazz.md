@@ -40,9 +40,9 @@ color: #fff;
 
 ## 1. Origin: Sun Ra and the formation of Afrofuturism
 
-From the late 1950s to the 1960s, Sun Ra developed a sound and ideology that significantly deviated from traditional jazz forms. He described himself as ""a being who came from Saturn'' and developed a thorough cosmic worldview. The costume has metallic luster robes, helmets, and abstract geometric patterns. On stage, a performance reminiscent of an extradimensional ritual or a futuristic city unfolded, completely integrating music and visual expression.
+From the late 1950s to the 1960s, Sun Ra developed a sound and ideology that significantly deviated from traditional jazz forms. He described himself as ""a being who came from Saturn'' and developed a thorough cosmic worldview. Her costume includes metallic luster robes, helmets, and abstract geometric patterns. On stage, a performance reminiscent of an extradimensional ritual or a futuristic city unfolded, completely integrating music and visual expression.
 
-In terms of performance, the band was full of very cutting-edge experiments at the time, such as collective improvisation through an orchestral formation, use of electric instruments, and early synthesizers. In particular, Sun Ra Arkestra created a sound that was largely free from conventional harmonics and song structure, moving between free jazz-like chaos and cosmic silence.
+In terms of performance, the band was full of very cutting-edge experiments at the time, such as collective improvisation through the orchestra, electric instruments, and the use of early synthesizers. Sun Ra Arkestra, in particular, created a sound that was largely free from conventional harmonies and song structures, moving between free jazz-like chaos and cosmic silence.
 
 ---
 
@@ -50,7 +50,7 @@ In terms of performance, the band was full of very cutting-edge experiments at t
 
 In the late 1960s and 1970s, Pharoah Sanders expanded his music to include a broader cosmology, building on his spiritual jazz roots. Introducing folk instruments, long drones, repetitive rituals, and expansive soundscapes. Rather than depicting the physical universe, they moved toward depicting the ""cosmos within the mind.''
 
-One of his masterpieces, ""The Creator Has a Master Plan,'' is characterized by a repetitive structure that invites you into a trance-like state, and has a cosmic meditative quality. Although Pharoah Sanders" music differs from Sun Ra"s outer-cosmic worldview, it similarly had a grand spiritual scale that directed the "universe."
+One of his masterpieces, ""The Creator Has a Master Plan,'' is characterized by a repetitive structure that seems to induce a trance-like state, and its cosmic meditative quality stands out. Although Pharoah Sanders" music differs from Sun Ra"s outer-cosmic worldview, it similarly had a grand spiritual scale that directed the "universe."
 
 ---
 
@@ -64,7 +64,7 @@ Metallic robes, headpieces and geometric pattern decoration. Designs that fuse a
 
 ### ● Symbolism of Album Art
 
-Many pieces of space-themed artwork were created, including spaceships, planets, galaxies, and abstract shapes. Visual concepts are strongly shared not only in Sun Ra's body of work, but throughout the Cosmic Jazz lineage.
+Many artworks were created with space themes such as spaceships, planets, galaxies, and abstract shapes. Visual concepts are strongly shared not only in Sun Ra's body of work, but throughout the Cosmic Jazz lineage.
 
 ### ● Ritualistic nature of live performance
 
@@ -117,7 +117,7 @@ A fusion of ethnic and ritual elements and cosmology. We are redefining Spiritua
 
 ### ● Connection with Electronic / Ambient scene
 
-In recent years, fusion with electronica and ambient music has progressed, and Cosmic Jazz has expanded into more abstract areas of expression.
+In recent years, the fusion with electronica and ambient music has progressed, and Cosmic Jazz has expanded into more abstract areas of expression.
 
 ---
 

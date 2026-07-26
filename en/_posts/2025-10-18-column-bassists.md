@@ -74,7 +74,7 @@ Rhythm that speaks between sounds - this is what has elevated jazz to an art for
 ---
 
 Yoshio Suzuki and Kunimitsu Inaba, who supported postwar jazz cafes in Japan,
-Enjoying this "freedom of bass sounds" with the sensibilities of your own country,
+Enjoying this "freedom of bass sounds" with the sensibilities of our own country,
 Before long, they were creating their own unique groove at night in Tokyo.
 
 ---
@@ -135,7 +135,7 @@ The bass guitar no longer played a role behind the scenes, but became an element
 
 After the 1990s, the Japanese underground began to connect with bass sounds.
 Kentaro Nakao of NUMBER GIRL hits a groove of distortion and anger,
-Ichiro Yoshida of ZAZEN BOYS has elevated odd time signatures into "building intelligence."
+ZAZEN BOYS' Ichiro Yoshida has elevated odd time signatures into "building intelligence."
 
 The bassists of ROVO and Shibusa Shirazu,
 Freely moving between jazz and rock, improvisation and construction,

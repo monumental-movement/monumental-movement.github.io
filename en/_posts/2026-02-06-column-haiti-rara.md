@@ -23,7 +23,7 @@ Text: mmr｜Theme: The history and present of street culture where religion, pol
 
 The season has arrived on the dry land of Haiti, where sharp metal sounds and low, undulating drums overlap. Rara does not have a specific venue. Music moves along the roads, penetrates the villages, and transforms people's living spaces into stages. The group continues walking until dawn, accompanied by costumes, dances, and religious symbols. This music is not entertainment, but prayer, political statement, and history storyteller.
 
-Lala is more than just carnival music. It is a culture where the timeline of Lent before Easter, the cosmology of the Voodoo faith, and the memories of colonial rule and revolution overlap, crystallizing in the sounds of the streets. This article traces the rara's origins, instrumentation, social functions, and modern transformations as an accumulation of facts.
+Lala is more than just carnival music. It is a culture where the timeline of Lent before Easter, the cosmology of the Voodoo faith, and the memories of colonial rule and revolution overlap, crystallizing in the sounds heard on the streets. This article traces the rara's origins, instrumentation, social functions, and modern transformations as an accumulation of facts.
 
 > Lala is a collective memory device in the form of music, and a culture that continues to update history through walking.
 
@@ -58,7 +58,7 @@ The Rara procession was not simply a celebration, but had the clear purpose of o
 
 ## Chapter 2 Lala as a religious ritual
 
-Lara is deeply connected to Voodoo beliefs. Many of the processions are dedicated to a specific loa (spirit), and each piece of music and rhythm is given a symbolic meaning. Participants not only play music, but also purify the path for spirits and receive blessings.
+Lara is deeply connected to Voodoo beliefs. Many of the processions are dedicated to a specific loa (spirit), and each piece of music and rhythm is given a symbolic meaning. Participants not only play music, but also purify the passageways for spirits and receive blessings.
 
 Ceremonial preparations are often made before the start of a march. After offerings, prayers, and calls from leaders, the group takes to the streets. Music is a means of communicating with spirits, and its volume and repetition function as elements that promote a trance state.
 
@@ -192,7 +192,7 @@ However, the recorded Lala is only part of the original experience. Music, separ
 
 There is a large amount of processional festival music in the Caribbean and African diaspora. While Lala has similarities with these, it remains unique in its particular seasonality and religious role.
 
-Comparative studies emphasize marching, repetition, and participatory structures, but Lala's case is characterized by a particularly high degree of political message connotation.
+Comparative studies emphasize marching, repetitive, and participatory structures, but Lala's case is characterized by a particularly high degree of political message connotation.
 
 > Lala is a cultural form that can be compared but cannot be easily substituted.
 
@@ -208,3 +208,11 @@ This cycle is the core of Lala. A moment when history, religion, politics, and l
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjdbcRhyCBY?si=xvdMmkn1eCMF4EHX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

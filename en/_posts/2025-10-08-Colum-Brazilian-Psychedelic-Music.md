@@ -48,7 +48,7 @@ color: #fff;
 In 1968, the compilation album **Tropicália: ou Panis et Circencis** was released. This wasn't just an album, it was a cultural declaration.
 Gilberto Gil, Caetano Veloso, Os Mutuntes, Gal Costa, Nara León, and others participated, presenting a Brazilian avant-garde that integrates sound, video, and poetry.
 
-Os Mutantes was particularly innovative. **Sergio Diaz**'s fuzz guitar, **Rita Lee**'s sweet yet provocative vocals, and improvisational noise manipulation were on par with British Pink Floyd and Soft Machine. Their 1970 album A Divina Comédia ou Ando Meio Desligado is considered a sonic turning point in the history of Brazilian music.
+Os Mutantes was particularly innovative. **Sergio Diaz**'s fuzz guitar, **Rita Lee**'s sweet yet provocative vocals, and improvised noise manipulation were on a par with British Pink Floyd and Soft Machine. Their 1970 album A Divina Comédia ou Ando Meio Desligado is considered a sonic turning point in the history of Brazilian music.
 
 > "Os Mutantes ate rock, swallowed bossa nova, and spit out the future."
 > — Rolling Stone Brasil (1971)
@@ -62,7 +62,7 @@ Os Mutantes was particularly innovative. **Sergio Diaz**'s fuzz guitar, **Rita L
 At the time, the recording studio **Phonogram Studios (Rio)** could not obtain Western-made multi-track equipment, so they adopted the artisanal method of layering two-track recorders.
 This restriction is the cause of the unique "bleeding" sound image. In particular, Os Mutuntes' engineer **Arnaldo Baptista** built his own fuzz circuit and subtly fluctuated the pitch, recreating the hallucinatory floating sensation unique to South America.
 
-Another important innovation was the fusion of ethnic instruments and electronic sounds. Combining indigenous sounds like cavaquinho and bell imbau with Moog synths and reverse tape, Brazilian music was expanded into the ""psychedelic tropics.''
+Another important innovation was the fusion of ethnic instruments and electronic sounds. By combining indigenous sounds like cavaquinho and bell imbau with Moog synths and reverse tape, Brazilian music was expanded into a ""psychedelic tropic''.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6ZQcOZ4FJg?si=l5wWpYMS3fpaeGiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -72,7 +72,7 @@ Another important innovation was the fusion of ethnic instruments and electronic
 
 In the 1970s, many of Tropicália's central figures were exiled. However, the fire of music went underground and was alive and well in the local scene. Student bands in São Paulo and local radio in Bahia continued to share sounds through cassette tape networks.
 
-On the other hand, **Clube da Esquina**, based in the state of Minas Gerais, appears. Clube da Esquina, the 1972 album by Milton Nascimento and Lo Borges, is a masterpiece that fused the boundaries between psychedelic, folk, and MPB, and epitomized the ""quiet trip.''
+On the other hand, **Clube da Esquina**, based in the state of Minas Gerais, appears. Clube da Esquina, the 1972 album by Milton Nascimento and Lo Borges, is a masterpiece that fused the boundaries between psychedelic, folk, and MPB, and epitomized the ""quiet trip''.
 
 ---
 

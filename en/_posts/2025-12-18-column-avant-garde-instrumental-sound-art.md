@@ -17,11 +17,11 @@ title: '[Column] Avant-Garde Instrumental / Sound Art'
 
 ## Introduction: How sound becomes a work of art
 
-Text: mmr｜Theme: Focusing on Alvin Lucier and Christian Fennesz, we will organize the continuous lineage from analog sound experiments to digital processing and clarify the structure of sound art, including its relationship with images.
+Text: mmr｜Theme: Focusing on Alvin Lucier and Christian Fennesz, we will organize the continuous lineage from analog sound experiments to digital processing, and clarify the structure of sound art, including its relationship with images.
 
-Since the 20th century, music has moved away from the framework of temporal art centered on melody and harmony, and has expanded into a comprehensive realm of expression that includes physical phenomena, space, and the recording medium itself. Avant-garde instrumental and sound art is not a form that shows off the skill and performance ability of an instrument, but rather presents the entire process by which sound is generated, propagated, reflected, altered, and perceived as a work.
+Since the 20th century, music has moved away from the framework of temporal art centered on melody and harmony, and has expanded into a comprehensive realm of expression that includes physical phenomena, space, and the recording medium itself. Avant-garde instrumental and sound art is not a form that shows off the skill and performance ability of an instrument, but rather presents the entire process of sound generation, propagation, reflection, transformation, and perception as a work.
 
-In this field, musical works are not necessarily reduced to musical scores, nor is the possibility of replayability assumed. Rather, the work exists as a set of conditions, producing different results each time. What is important here, rather than the composer's intentions, is the structure itself, how the acoustic phenomenon stands up and connects with space and technology.
+In this field, musical works are not necessarily reduced to musical scores, nor is the possibility of replayability assumed. Rather, the work exists as a set of conditions, producing different results each time. What is important here, rather than the composer's intentions, is the structure itself, which is how acoustic phenomena arise and connect with space and technology.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ### 1-1 From experimental music to acoustic art
 
-Since the 1950s, with the development of electronic music studios, sound has been separated from musical instrument performance and has become an object that can be manipulated as a signal. Technologies such as magnetic tape, oscillators, and filters made it possible to record, process, and rearrange sound.
+After the 1950s, with the development of electronic music studios, sound was separated from musical instrument performance and became an object that could be manipulated as a signal. Technologies such as magnetic tape, oscillators, and filters made it possible to record, process, and rearrange sound.
 
 With this change, musical works are no longer limited to performance venues, but are moving into museums, galleries, and public spaces. The concept of sound art has been used to refer to a group of works that use sound as their main material but do not necessarily follow musical systems or performance conventions.
 
@@ -71,7 +71,7 @@ Performance is not about demonstrating physical skill, but rather about setting 
 
 Alvin Lucier is a composer who places the physical behavior of sound waves at the center of his works. In his works, the composer's intentional manipulation is kept to a minimum, and the acoustic phenomena unfold autonomously.
 
-In his most famous work, I Am Sitting in a Room, by repeatedly playing back and re-recording the spoken word in the same space, the resonant frequencies unique to the room are emphasized, and the language eventually disappears. This process clearly shows how sound moves from information to physical phenomenon.
+In his masterpiece, I Am Sitting in a Room, the recited audio is repeatedly played back and re-recorded in the same space, emphasizing the room's unique resonant frequencies, until the language disappears. This process clearly illustrates the transition of sound from information to physical phenomenon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -96,11 +96,11 @@ flowchart LR
 
 ### 4-1 Architectural acoustics
 
-Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if the installation location is different.
+Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if it is installed in a different location.
 
 ### 4-2 Spectator position
 
-The position and movement of the audience is a factor that changes the acoustic experience. The work is not intended to be listened to from a fixed point.
+The audience's standing position and movement are factors that change the acoustic experience. The work is not intended to be listened to from a fixed point.
 
 ---
 

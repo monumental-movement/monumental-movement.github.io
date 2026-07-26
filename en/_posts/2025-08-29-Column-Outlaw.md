@@ -21,7 +21,7 @@ title: '[Column] Interaction history of music culture and "outlaws" by generatio
 
 Text: mmr｜Theme: Long-read column that connects subculture research and the temperature of the field
 
-"Music comes from the margins of society." This phrase is old, but it doesn't miss the point. The sense of urgency, anti-normativity, and communal passion that comes from marginality is often visualized as an "outlaw," and crystallizes in the form of sound, use of space, fashion, and body techniques. In this article, we trace the major genres/scenes from the 1950s onwards by age, and look at the intersection of "music and outlaws" through the lens of sociology and cultural studies (Hebdidge, Cohen, Beaudrieu, Becker, etc.).
+"Music comes from the margins of society." This phrase is old, but it doesn't miss the point. The sense of urgency, anti-normativity, and communal energy that comes from marginality is often visualized as an "outlaw," and crystallizes in the form of sound, use of space, fashion, and body techniques. In this article, we trace the major genres/scenes from the 1950s onward by age, and look at the intersection of "music and outlaws" through the lens of sociology and cultural studies (Hebdidge, Cohen, Beaudrieu, Becker, etc.).
 
 <hr>
 
@@ -64,7 +64,7 @@ Garage/protopunk is a DIY spirit and anti-commercialism. School gymnasiums and w
 
 ---
 
-**Mechanism**: A battle over fashion differentiation—what Hebdidge called "style appropriation." The media exaggerates violence and amplifies moral panic.
+**Mechanism**: A battle over the differentiation of fashion—what Hebdidge called "style appropriation." The media exaggerates violence and amplifies moral panic.
 
 
 <hr>
@@ -96,7 +96,7 @@ Disco is a haven for the LGBTQ+/Black/Latinx community, gaining the right to dan
 
 ### 1980s: Hardcore, skinhead reformation, and the birth of hip-hop -- speed, tribalization, and the weaponization of narrative
 
-Hardcore punk is about speed, short lengths, and floor autonomy (circle pits, stage dives) created by instantaneous "agreement." On the other hand, there are conflicts with violence and xenophobia.
+Hardcore punk is about speed, short lengths, and floor autonomy (circle pits, stage dives) born from instantaneous "agreement." On the other hand, there are conflicts with violence and xenophobia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NAPYIMMbWQ?si=STcmncZQCWAsDeLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -164,7 +164,7 @@ EMO/Screamo and Nu Metal's self-revelation and expressions of anger create tensi
 
 <hr>
 
-### 2010s: Trap, SoundCloud Rap, and Leftfield Club: Fragile Economy and Self-Branding
+### 2010s: Trap, Soundcloud Rap, and Leftfield Club: Fragile Economy and Self-Branding
 
 Trap aestheticizes representations connected to the realities of economic periphery (drug economy, surveillance society) through the deep bass and repetition of the 808.
 
@@ -203,9 +203,9 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 ### 7 circuits that create "outlaw status"
 
-**Conversion of space**: Warehouse/ruins/street → club/venue (problems with illegal construction, noise, and occupation).
+**Conversion of space**: Warehouse/ruin/street → club/venue (problems with illegal construction, noise, and occupation).
 
-**Economic periphery**: Friction between informal distribution (booting, mixing, hand-selling) and the copyright regime.
+**Economic periphery**: Friction between informal distribution (booting, mixing, hand selling) and the copyright regime.
 
 **Physical Techniques**: Movements that appear violent/obscene to the outside, such as moshing, breaking, and wind-ups.
 
@@ -213,7 +213,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Radicalization of the narrative**: The realism/exaggeration of the lyrics is misinterpreted by the media as a crime warning.
 
-**Media apparatus**: Reporting creates a "popular devil" (Cohen's moral panic).
+**Media Apparatus**: Reporting creates a "popular devil" (Cohen's Moral Panic).
 
 **Reflection with the system**: The cycle of crackdown → underground → strengthening of solidarity → commercial recovery → deviation again.
 
@@ -249,7 +249,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 ### Who draws the boundaries?
 
 The relationship between music and outlaws is not a glorification of crime. Rather, it is a visualization of the power dynamics of ""who, what, and how to call deviance'' and at the same time a story of the creativity of the periphery.
-From rockabilly in the 1950s to micro-rave in the 2020s, music has teased the edges of norms, loosening social rigidities and experimenting with new public sensibilities. Although their outlaw nature is dangerous, the beats that spark from that spark often shape the next mainstream movement - all the time.
+From rockabilly in the 1950s to micro-rave in the 2020s, music has teased the edges of norms, loosening social rigidities and experimenting with new public sensibilities. Their outlaw nature is dangerous, but the beats that spark from that spark often shape the next mainstream movement - all the time.
 
 ---
 

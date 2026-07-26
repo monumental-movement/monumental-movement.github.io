@@ -65,7 +65,7 @@ In Western Arnhem Land, there were many relatively short and thick instruments, 
 
 ## Linguistic differences and name diversity
 
-In indigenous societies, the names of musical instruments themselves are associated with land rights and stories. The Yolngu people of East Arnhem Land call the didgeridoo ""yidaki,'' a name that refers to a specific production method and tone. The yidaki is used only in ceremonies that belong to the Yolngu song series.
+In indigenous societies, the names of musical instruments themselves are associated with land rights and stories. The Yolngu people of East Arnhem Land refer to the didgeridoo as ""yidaki,'' a name that refers to a particular production method and tone. The yidaki is used only in ceremonies that belong to the Yolngu song series.
 
 In the western region, there are multiple names such as ""Mago", ""Panpi", and ""Bumbu'', and the distribution roughly coincides with language boundaries. The different names have the function of clearly distinguishing the people who can perform, the situations in which it is used, and the musical roles.
 
@@ -99,7 +99,7 @@ In many regions, the didgeridoo has been considered a male instrument, but this 
 
 There were also age restrictions, and performances with specific song series were not allowed unless certain rites of coming of age were passed. As a result, music naturally became a device for intergenerational education.
 
-> The performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
+>Performance qualification was not an exclusion system, but a system that indicated the location of responsibility.
 
 ---
 

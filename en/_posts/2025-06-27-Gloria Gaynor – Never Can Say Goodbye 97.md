@@ -13,7 +13,7 @@ title: Gloria Gaynor – Never Can Say Goodbye '97
 ---
 
 
-A House/Disco track that was remixed by Italian label Nicolosi Productions of the famous song "Never Can Say Goodbye", which was covered by Gloria Gaynor in 1974, and released by Italian house label Just Music.
+A house/disco track released by Italian house label Just Music, remixed by Italian label Nicolosi Productions of the famous song "Never Can Say Goodbye", which was covered by Gloria Gaynor in 1974.
 
 #### Tracklist
 ```md

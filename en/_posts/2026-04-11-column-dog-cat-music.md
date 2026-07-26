@@ -20,7 +20,7 @@ title: '[Column] How do dogs and cats listen to music: The science of pets and s
 
 Text: mmr｜Theme: Scientifically interpreting the compatibility with music genres based on the auditory characteristics and frequency sensitivity of dogs and cats
 
-Listening to music to dogs and cats can calm them down, or conversely, make them excited. Such experiences are not uncommon. However, the reason for this is not just the ""atmosphere'' but the distinct auditory characteristics and differences in frequency.
+Listening to music to dogs and cats can calm them down or, conversely, make them excited. Such experiences are not uncommon. However, the reason for this is not just the ""atmosphere'' but the distinct auditory characteristics and differences in frequency.
 
 The human hearing range is approximately 20Hz to 20kHz. Dogs and cats, on the other hand, have the ability to hear higher frequencies. In other words, even if they are listening to the same music, the ""sound world'' they receive is completely different.
 
@@ -341,7 +341,7 @@ Choosing music for your pet is not just a matter of preference, but akin to ""au
 
 Rather, what is important is how much energy the sound has in which frequency band, and how it changes over time.
 
-> The key is to design the frequency environment rather than choosing the music.
+> The key is not to select music, but to design the frequency environment.
 
 
 ---

@@ -18,11 +18,11 @@ title: '[Column] Noise Punk / Avant-Punk ─ When destructive impulse becomes id
 
 Text: mmr｜Theme: About noise punk/avant punk, which is a memory device for constantly rejecting the safe zone of music
 
-Noise punk/avant punk is an attempt at extreme self-destruction that arose from within the punk movement that was born in the late 1970s. Rather than the superficial images of early punk, such as speed and rebellion, punk is characterized by its underlying impulse of ""denial," ""refusal," and ""destruction'' that extends to the musical structure itself.
+Noise punk/avan punk is an attempt at extreme self-destruction that arose from within the punk movement that was born in the late 1970s. Rather than the superficial images of early punk, such as speed and rebellion, punk is characterized by its underlying impulse of ""denial," ""rejection," and ""destruction,'' which extends to the musical structure itself.
 
-In this music, skill and pleasure are not important. Rather, phrases that are close to unplayable, dissonance, and rhythms on the verge of collapse are actively chosen. There was a clear distrust of rock's entertainment and commercial value.
+In this music, skill and pleasure are not important. Rather, phrases that are close to unplayable, dissonance, and rhythms that are on the verge of collapse are actively chosen. There was a clear distrust of rock's entertainment value and commercial value.
 
-DNA and The Pop Group are the most radical embodiment of this attitude. Rather than updating punk, they dismantled it from within, opening up a completely different realm of expression.
+DNA and The Pop Group are the most radical embodiment of this attitude. Rather than updating punk, they opened up a completely different realm of expression by dismantling punk from within.
 
 > Noise punk was an attempt to visualize ideas by destroying music.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 Around 1977, punk spread rapidly and at the same time rapidly became formalized. 3 chords, short songs, aggressive attitude. They quickly became a style and began to be reproduced. Noise punk/avant punk was born out of a strong sense of discomfort with this situation.
 
-The problem for them was that rock was once again being reduced to ""easy-to-understand music.'' Rebellion becomes a symbol, and dissent becomes fashionable. In order to reject the process itself, the music intentionally moved in an incomprehensible direction.
+The problem for them was that rock was once again being reduced to ""easy-to-understand music''. Rebellion becomes a symbol, and dissent becomes fashionable. In order to reject the process itself, the music intentionally moved in an incomprehensible direction.
 
 This attitude seemed to deny punk, but in reality it was a thorough implementation of the fundamental spirit of punk.
 
@@ -70,9 +70,9 @@ This structure is not accidental, but intentional. I don"t understand, I don"t f
 
 DNA was a band active in New York in the late 1970s, and was a core member of the so-called no wave movement. Their music is structured in such a way that it deconstructs all the basic elements of rock.
 
-The guitar does not form chords, but emit single notes or irregular noises. The bass and drums don't share a beat, and the performance is always on the verge of collapse. The vocals reject the melody and are released as fragmented words and screams.
+Guitars do not form chords, but emit single notes or irregular noises. The bass and drums don't share a beat, and the performance is always on the verge of collapse. The vocals reject the melody and are released as fragmented words and screams.
 
-Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established''.
+Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established.''
 
 > DNA achieved the paradox of denying rock by performing.
 

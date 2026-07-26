@@ -74,7 +74,7 @@ Sampling is the act of recording existing sound and reusing it in a different co
 
 His method is unique in that it transforms the meaning of sounds, rather than simply quoting them. For example, by taking in environmental sounds and everyday sounds and placing them within a musical structure, he shakes up the listener's perception. This approach goes beyond mere music production and questions the very perception of sound.
 
-At the same time, he established his own methodology of manipulating "recorded sound" and "generated sound" in the same layer by handling sampling and modular synthesizers in parallel. Systems like Serge"s and Buchla"s did not have a fixed timbre, but were infinitely variable through patching, making them extremely compatible with his philosophy.
+At the same time, by handling sampling and modular synthesizers in parallel, he established a unique methodology of manipulating "recorded sound" and "generated sound" in the same layer. Systems like Serge"s and Buchla"s did not have a fixed timbre, but were infinitely variable through patching, making them extremely compatible with his philosophy.
 
 > Sound generation and reconstruction are integrated through the combined use of sampling and modular synths.
 
@@ -146,7 +146,7 @@ Jan Tomita's Serge and Buchla modular synthesizers are more than instruments, th
 
 The Serge system is relatively compact and flexible, allowing complex signal processing. On the other hand, Buchla has a design philosophy that does not assume a keyboard, and has a direction of liberating music from performance. Both of these systems are designed to deviate from the traditional Western musical framework.
 
-Yan Tomita used these instruments to focus on ""generating" sounds rather than ""playing" them. Characteristics of his work, such as changes in sound through voltage control, random patching, and acoustic structures that continually change over time, are closely tied to these devices.
+Yan Tomita used these instruments to focus on ""generating" sounds rather than ""playing" them. Characteristics of his work, such as changes in sound through voltage control, random patching, and temporally changing sonic structures, are closely tied to these devices.
 
 Furthermore, this sonic approach functions as the foundation for his activities with Doopees and A.S.L. It is distinctive in that the different fields of pop, experimentation, and research are unified by the same sonic philosophy.
 
@@ -217,7 +217,7 @@ Furthermore, the perspective of ""expanding consciousness through music"' presen
 
 Looking back on Yan Tomita's activities, he has consistently pursued the question ""What is sound?'' Through the series of processes of performance, recording, generation, editing, and playback, sound is shown to be an ever-changing entity.
 
-Although his different activities, such as A.S.L., Dopeees, and his solo works, have different forms, they are all rooted in the same philosophy. Sound is a material, a phenomenon, a memory, and an experience.
+Although his different activities, such as A.S.L., Doopees, and his solo works, have different forms, they are all rooted in the same philosophy. Sound is a material, a phenomenon, a memory, and an experience.
 
 The fusion of modular synths and sampling, and the perspective of their effects on consciousness, continue to be an important foundation in current music production and sound art.
 

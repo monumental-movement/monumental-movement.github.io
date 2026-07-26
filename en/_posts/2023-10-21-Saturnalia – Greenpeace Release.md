@@ -14,7 +14,7 @@ title: Saturnalia – Greenpeace Release
 
 Saturnalia is the project of UK producers Jim Sullivan and Steve McGarrigle. All profits from this release were donated to Greenpeace.
 
-The piano and vocal on the A side is a sample from Mo Lester"s "Blue Sky Day", and the vocal is a sample from African Business"s "In Zaire".
+The piano & vocal on side A is a sample from Mo Lester"s "Blue Sky Day", and the vocal is a sample from African Business"s "In Zaire".
 The B-side line is from the movie Star Trek IV: The Long Walk Home.
 
 #### Tracklist

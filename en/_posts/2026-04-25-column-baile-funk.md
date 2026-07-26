@@ -131,7 +131,7 @@ B --> E[Social Media]
 B --> F[Global Club Scene]
 </div>
 
-As a result, Baile Funk became more than just a music genre, and became a symbol of urban culture.
+As a result, Baile Funk has gone beyond just a music genre and has come to have a presence as a symbol of urban culture.
 
 > Baile Funk has evolved from music to culture, and from culture to phenomenon.
 
@@ -149,7 +149,7 @@ Next, MC Marcinho rose to prominence from the 1990s to the 2000s. He introduced 
 
 Female artists are also important, and Tati Quebra Barraco opens up new horizons in gender expression with her frank and provocative lyrics.
 
-Since the late 2000s, artists such as MC Bonde do Tigrão and Anitta have gained international recognition. Anitta, in particular, connected Baile Funk to the pop market and achieved global success.
+Since the late 2000s, artists such as MC Bonde do Tigrão and Anitta have gained international recognition. Anitta in particular connected Baile Funk to the pop market and achieved global success.
 
 Furthermore, in recent years, artists such as MC Kevinho and MC Fioti have gained a wide audience through streaming as symbols of the digital generation.
 
@@ -221,7 +221,7 @@ Many hit songs are created not by a single artist alone, but by the efforts of a
 * 2010s and beyond: Digitalization and global expansion
 * Now: Diversification and growing cultural influence
 
-> Baile Funk's history has always been updated by the intersection of external influences and internal realities.
+> Baile Funk's history has always been updated by the intersection of external influences and internal reality.
 
 ---
 

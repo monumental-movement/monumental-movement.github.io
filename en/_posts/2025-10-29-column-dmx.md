@@ -29,7 +29,7 @@ Text: mmr｜Theme: Deciphering DMX's rap style, lyrics, and human nature full of
 > ―DMX
 
 In the late 1990s, at a time when hip-hop was becoming a symbol of glamorous success, DMX appeared with a voice that sounded like it was spitting blood.
-It was a voice that went beyond the "reality of the streets" and cried out **human pain and prayers**.
+It was a voice that went beyond the ""reality of the streets'' and cried out **human pain and prayers**.
 
 ---
 
@@ -71,7 +71,7 @@ There is often a structure in which they talk to their inner demons and ask God 
 
 ### 2. Animal metaphor
 DMX often refers to himself as "dog".
-It is a symbol of violence, and at the same time indicates **loyalty, solitude, and wildness**.
+It is a symbol of violence, but also indicates loyalty, solitude, and wildness.
 The dog was the only companion he could trust, and the object of his prayers.
 
 > "I trust dogs more than humans."
@@ -92,8 +92,8 @@ His songs often subvert the normal 16-bar structure.
 The flow suddenly breaks and comes back again. This is because "**emotional rhythm**" was given top priority.
 
 ### 3. Performance
-At live performances, it was not uncommon for audience members to cry during DMX's prayers.
-When he yelled, "**Lord, give me a sign!**," he sounded more like a preacher than a rapper.
+At live performances, it was not uncommon for audience members to cry at DMX's prayers.
+When he shouted, "**Lord, give me a sign!**," he sounded more like a preacher than a rapper.
 
 ---
 
@@ -194,7 +194,7 @@ Those words still serve as a self-forgiveness mantra for many young people today
 DMX's story is more than just a hip-hop biography.
 It was a **modern religious drama** and a myth about the coexistence of **violence and prayer**.
 
-*His "roar" is not anger, but a cry to prove his existence**
+* His "roar" is not anger, but a cry to prove his existence.
 *His "prayer" is not salvation but **continuation of the battle**
 * His "dog" is a symbol of loyalty and solitude
 

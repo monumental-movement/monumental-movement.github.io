@@ -39,7 +39,7 @@ color: #fff;
 
 ## 1960s-1970s: Birth of hard rock and the eve of arcades
 
-- **Background**: Led Zeppelin, Deep Purple, and Black Sabbath appear in London and Los Angeles. Presenting a new musical experience with explosive sounds and profound riffs.
+- **Background**: Led Zeppelin, Deep Purple, and Black Sabbath appeared in London and Los Angeles. Presenting a new musical experience with explosive sounds and profound riffs.
 - **Point of contact with games**: This era was still in the early days of arcades (the eve of ""Pong" and ""Space Invaders"). Although the direct link is weak, the psychedelic artwork and experiments with electronic sounds create seeds that resonate with the game's electronic music aesthetic.
 
 **Representative masterpiece**
@@ -352,7 +352,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 | Rock Mixtape DLC (2022) | Sweet Child O" Mine | Guns N" Roses | Experience guitar masterpieces in VR |
 | Rock Mixtape DLC (2022) | The Pretender | Foo Fighters | Representative songs from the 2000s with strong HR elements |
 | Linkin Park Pack (2020) | In the End | Linkin Park | Close to Nu-Metal with HR elements |
-| Linkin Park Pack (2020) | Numb | Linkin Park | Re-evaluated with VR |
+| Linkin Park Pack (2020) | Numb | Linkin Park | Re-evaluation with VR |
 
 ---
 

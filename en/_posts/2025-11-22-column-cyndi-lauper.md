@@ -10,7 +10,7 @@ tags:
 - 80s
 - 90s
 title: '[Column] Cyndi Lauper: The story of a person who continued to change the times
-  with voice and color'
+  with her voice and color'
 ---
 
 
@@ -45,19 +45,19 @@ Cyndi Lauper was born in Queens, New York in 1953. Her mother is an Italian-Amer
 
 When Cindy was young, she was the kind of kid who would sing just about anything. He sang next to his mother in the kitchen and even in the backyard of the house, and may have been a little noisy to his siblings. However, the singing voice was different from normal. It"s tall, stretchy, looks like it"s going to make you cry, and yet it's strong. I was even told by a teacher at school, ""You should tone down that strange voice a little.''
 
-Nowadays, her voice is a worldwide trademark, but as a child, Cindy lacked confidence in her own voice, and there was a time when she worried that ""everyone thought my voice was strange.''
+Nowadays, her voice is a worldwide trademark, but as a child, Cindy lacked confidence in her own voice, and there was a time when she worried that everyone thought my voice was strange.
 
-However, her mother loved the voice very much. This is because even in the midst of difficult family situations, Cindy's singing voice brought brightness into the home.
+However, her mother loved the voice very much. Because even in the midst of difficult family situations, Cindy's singing voice brought brightness into the home.
 
 ---
 
-# **3. Youth: Rebellious spirit and inclination towards art**
+# **3. Adolescence: Rebellious spirit and inclination towards art**
 
-In her adolescence, Cindy turned to art, painting, writing poetry, and trying anything creative. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
+In her adolescence, Cindy turned to the arts and tried anything creative, including painting and writing poetry. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
 
 Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
 
-During this time, she wore unique fashion combinations at thrift stores and flea markets. The ""unique and colorful fashion'' that came to be seen later on was born in part because people could not afford to buy new items when they were poor.
+During this time, she wore unique fashion combinations at thrift stores and flea markets. The ""unique and colorful fashion'' that came to be known later was born in part because people could not afford to buy new items when they were poor.
 
 The roots of music are soul, blues, rock, and musicals. The city of New York was the best "free music college" for her.
 
@@ -65,9 +65,9 @@ The roots of music are soul, blues, rock, and musicals. The city of New York was
 
 # **4. Meeting with Japanese woman Sakue Suzuki before her debut**
 
-Shortly before her major debut in the 1980s, Cindy was living a not-so-easy life, juggling music activities and part-time jobs. At that time, his life was supported by the help of a Japanese woman. That woman was Sakue Suzuki, who ran a Japanese restaurant.
+Shortly before her major debut in the 1980s, Cindy was living a not-so-easy life, juggling music activities and part-time jobs. During such a period, his life was supported by the help of a Japanese woman. That woman was Sakue Suzuki, who ran a Japanese restaurant.
 
-Mr. Sakue provided Cindy, who was still unknown and in need, with meals for free, and continued to provide emotional support. Cindy later said, ""Sakue was an important member of my family.''
+Mr. Sakue sometimes provided food for free to Cindy, who was still unknown and in need, and continued to provide emotional support. Cindy later said, ""Sakue was an important member of my family.''
 
 This experience later became one of the reasons why she regarded Japan in a special way. She is not just an ""artist who often visits Japan for performances", but a ""gratitude for Japan" that lives at her core.
 
@@ -117,7 +117,7 @@ With the rise of MTV, we entered an era in which images influenced music, and Ci
 
 ### **Girls Just Want to Have Fun**
 
-Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjoy themselves, but it was originally written from a male perspective. Cindy changed the lyrics and nuance, and it became a symbol of women's freedom.
+Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjoy themselves, but it was actually originally written from a male perspective. Cindy changed the lyrics and nuance, and it became a symbol of women's freedom.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIb6AZdTr-A?si=tt7rzky2_Q3m9hRl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -149,9 +149,9 @@ There are three reasons.
 2. **The warmth of her personality**
 3. **Special affinity for Japan**
 
-She enjoys Japanese food every time she visits Japan and quickly becomes friends with the local staff. During the 1994 Japan tour, when he heard that there was a fan with a disability in the audience, he took time after the stage to meet him in person.
+Every time she visits Japan, she enjoys Japanese food and quickly becomes friends with the local staff. During the 1994 Japan tour, when he heard that there was a fan with a disability in the audience, he took time after the stage to meet him in person.
 
-In addition, the 2001 album ""Shine" was released only in Japan. This is said to have been a way of ""giving back to the Japanese fans."
+In addition, their 2001 album ""Shine" was released only in Japan. This is said to have been a way of ""returning the favor to Japanese fans."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61cwXn85sxk?si=NMR2yKfbhBEPlTIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -182,7 +182,7 @@ This incident has been passed down as an episode that symbolizes Cindy's "abilit
 
 # **10. Late 80s to 90s: From pop star to artist**
 
-From the late '80s to the '90s, Cindy oscillated between commercial success and a desire for artistic expression.
+From the late '80s to the '90s, Cindy was torn between commercial success and a desire for artistic expression.
 
 ### **Hat Full of Stars (1993)**
 
@@ -204,7 +204,7 @@ In 2013, he was in charge of the lyrics and composition for the musical "Kinky B
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 
-In this work, she strongly conveys the message that it's okay to live your life the way you are. This is also her own life philosophy, and has received great support from the LGBTQ community.
+In this work, she strongly conveys the message that it's okay to live your life the way you are. It is also her own life philosophy, and has received great support from the LGBTQ community.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

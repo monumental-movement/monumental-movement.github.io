@@ -20,11 +20,11 @@ title: '[Column] Damien Hirst and the speed of punk: the rhythm of production dr
 
 Text: mmr｜Theme: Interpreting the influence of music flowing in the production environment on the speed and ideology of works in contemporary art since the 1980s, based on the relationship between Damien Hirst and punk.
 
-From the late 1980s to the 1990s, British contemporary art underwent a major transformation. At the center of this was Damien Hirst. His works are often talked about in terms of their visual intensity, such as animals soaked in formalin and the arrangement of medical instruments, but there was a clear ""sound'' in the background of his creation.
+From the late 1980s to the 1990s, British contemporary art underwent a major transformation. At the center of this was Damien Hirst. His works are often talked about in terms of their visual intensity, such as animals soaked in formalin and the arrangement of medical equipment, but "sound" was clearly in the background of his creation.
 
 The symbol of this sound is punk, represented by The Sex Pistols.
 
-Punk was more than just a music genre; it was an attitude of speed, destruction, and hostility to the system. In Hearst's studio, music functioned not as decoration, but as an engine that accelerated the tempo and decision-making of his productions.
+Punk was more than just a genre of music; it was an attitude of speed, destruction, and hostility to the system. In Hearst's studio, music functioned not as decoration, but as an engine that accelerated the tempo and decision-making of his productions.
 
 > Music was not just a background, but functioned as a device that determined the speed of production itself.
 ---
@@ -103,7 +103,7 @@ From a musical perspective, this is more of a "production" than a band. It has a
 
 Hirst dominated the art market in the 1990s as a central figure of Young British Artists.
 
-What is important here is the process by which punk's anti-establishment spirit is absorbed into the market. The attitude that once denied the system has instead become a factor that creates market value.
+What is important here is the process by which punk anti-establishmentism is absorbed into the market. The attitude that once denied the system has instead become a factor that creates market value.
 
 ### Works as provocations
 

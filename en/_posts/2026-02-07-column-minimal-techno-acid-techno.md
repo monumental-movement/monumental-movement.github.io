@@ -18,7 +18,7 @@ title: '[Column] Techno minimal vs acid techno: stripped-down aesthetics and run
 
 ## Prologue: The common language of techno
 
-Text: mmr | Theme: Minimal techno and acid techno were born from the same source of techno, but diverged into completely opposite aesthetics depending on the city, club space, and social background. A three-dimensional comparison of the history, acoustic structure, philosophy, and club experience differences in over 10,000 characters.
+Text: mmr | Theme: Minimal techno and acid techno were born from the same source of techno, but diverged into completely opposite aesthetics depending on the city, club space, and social background. A three-dimensional comparison of the history, acoustic structure, ideology, and club experience differences in over 10,000 characters.
 
 
 ### The idea of ​​repetition started in Detroit
@@ -51,7 +51,7 @@ color: #fff;
 
 ### The experimental site of Berlin after reunification
 
-The outline of minimal techno became clear in Berlin in the early 1990s. The countless empty buildings, warehouses, and underground spaces created by reunification became hotbeds for extended parties. Berlin's clubs assumed a timeline that would not end in one night, and music required sustainability and stability rather than flashy developments.
+The outline of minimal techno became clear in Berlin in the early 1990s. The countless empty buildings, warehouses, and underground spaces created by reunification became hotbeds for extended parties. Berlin's clubs assumed a timeline that would not end in one night, and the music required sustainability and stability rather than flashy developments.
 
 ### Resonance between minimalism in architecture and art
 
@@ -79,7 +79,7 @@ In a large club in Berlin, the bass makes the entire building vibrate. Minimal t
 
 ### Coincidence between Chicago and TB-303
 
-Acid techno's origins lie in Chicago in the mid-1980s. The Roland TB-303 was originally designed for guitar practice, but was considered a failure in the market. However, this equipment, which found its way onto the second-hand market, created a bass sound that had never been seen before with its unique resonance and slide function.
+Acid techno's origins lie in Chicago in the mid-1980s. The Roland TB-303 was originally designed for guitar practice, but was considered a failure in the market. However, this equipment, which found its way onto the used market, created an unprecedented bass sound with its unique resonance and slide function.
 
 ### Combining with UK rave culture
 

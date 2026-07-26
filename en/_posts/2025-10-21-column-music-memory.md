@@ -23,7 +23,7 @@ This is the power of sound memory, similar to smell.
 Neuroscience has also shown that music directly stimulates the hippocampus (memory) and amygdala (emotions).
 But more than that, music is an ""art of time" and a ""reenactment of the past."
 
-Listening to music is not just entertainment, but a ""physical act of replaying the past.''
+Listening to music is not just entertainment, but a physical act of replaying the past.
 It existed even before recording technology was invented; it was a way for humans to "share memories" through voice and rhythm.
 
 ---
@@ -108,7 +108,7 @@ Just as musicians say that their hands remember a phrase once they have memorize
 Bodily working memory (procedural memory) is closely linked to auditory memory.
 
 dancing, singing, and playing.
-These are "memory reproductions through the resonance of sound and the body."
+These are ""memory reproductions through the resonance of sound and the body.''
 In other words, listening to music is **becoming yourself from that time again**.
 
 ---
@@ -116,7 +116,7 @@ In other words, listening to music is **becoming yourself from that time again**
 ## Chapter 6: Music and Collective Memory — From National Anthems to Festivals
 
 What Benedict Anderson calls an ""imagined community'' is
-It has been supported by "shared music" such as the national anthem and school song.
+It has been supported by "shared music" such as the national anthem and school anthem.
 
 However, in modern times, ""collective memory'' is born on the floors of festivals and clubs, not in countries.
 The moment people listen to the same song in a crowd, they transcend the individual and connect to a ""sound community.''

@@ -372,7 +372,7 @@ This trend has had a major influence on later LTJ Bukem and High Contrast, as we
 
 ## A work that changed the social evaluation of drum & bass
 
-The success of New Forms changed the social reputation of the drum and bass genre itself.
+The success of New Forms changed the social evaluation of the drum and bass genre itself.
 
 Fast breakbeats are not violent music, but highly structured art.
 
@@ -546,7 +546,7 @@ In this ranking, works that created club music itself and works that fundamental
 
 The Avalanches, hailing from Melbourne, Australia, have collaged together thousands of fragments of existing sound sources, creating an entire album into a dream-like world.
 
-The important thing here is not "which song was sampled."
+What's important here is not "which song was sampled."
 
 The important thing is that they are creating new times and emotions.
 

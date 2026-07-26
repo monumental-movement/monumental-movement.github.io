@@ -14,11 +14,11 @@ title: Talking Heads – Speaking In Tongues
 
 Talking Heads' "Speaking In Tongues" was released in 1983. This album was one of Talking Heads' most commercially successful releases and marked their musical evolution and innovation.
 
-The album is packed with Talking Heads" signature post-punk and new wave elements, combining David Byrne"s vocal style, quirky lyrics, and catchy rhythms and melodies to create a unique sound.
+The album is filled with Talking Heads" signature post-punk and new wave elements, combining David Byrne"s vocal style, quirky lyrics, and catchy rhythms and melodies to create a unique sound.
 
 It includes many hit songs such as "Burning Down the House" and "This Must Be the Place (Naive Melody)."
 
-This album is a must-hear for any Talking Heads fan, and its unique sound and intelligent lyrics make 'Speaking In Tongues' a milestone in rock music history.
+This album is a must-hear for any Talking Heads fan, and the unique sound and intelligent lyrics of 'Speaking In Tongues' make it a milestone in the history of rock music.
 
 
 #### Tracklist

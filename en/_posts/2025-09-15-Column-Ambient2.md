@@ -18,7 +18,7 @@ title: '[Column] Ambient: From "listening music" to "feeling music" II'
 
 Text: mmr｜Theme: Ambient, environmental music, electronic music culture theory
 
-Ambient is a genre of music that is not intended to be "actively listened to" by listeners, but rather to "exist in a space."
+Ambient is a music genre that is not intended to be "actively listened to" by listeners, but rather to "exist in a space."
 He eliminates clear melodies and rhythms and instead uses sustained sounds (drones), environmental sounds (field recordings), and acoustic processing to construct auditory landscapes.
 
 This genre is extremely philosophical music that stands on the border between music and art, sound and space, perception and consciousness.
@@ -333,7 +333,7 @@ Ambient has the aspect of ""acoustic architecture.''
 **others**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
-- Japan's unique "ma" and "wabi-sabi" create a texture different from that of overseas ambient music.
+- Japan's unique "ma" and "wabi-sabi" forms a different texture from overseas ambient music.
 
 ---
 

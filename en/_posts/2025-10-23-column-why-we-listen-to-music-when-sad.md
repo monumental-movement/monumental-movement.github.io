@@ -24,7 +24,7 @@ This act is both intuitive and deeply scientific.
 Music is a ""resonator'' of emotions and the only experience that can be shared in solitude.
 
 In this paper, while crossing the fields of psychology, neuroscience, and cultural history,
-We will explore the question, "Why do people listen to music when they are sad?"
+We will delve deeper into the question, "Why do people listen to music when they are sad?"
 
 ---
 
@@ -60,11 +60,11 @@ This is one of the biggest reasons why people seek out sad music.
 
 According to psychologist Catherine Mercier,
 ""Music is a mimicking device for empathy.''
-When listeners listen to sad music, they "identify" with the emotions of the composer and singer, and
+When listeners listen to sad music, they become ""assimilated'' with the emotions of the composer and singer.
 Feeling the presence of others in loneliness.
 
 This is a universal behavior from a cultural anthropological perspective.
-Funerals, requiems, prayers, labor songs: Every culture has sounds that share sadness.
+Funerals, requiems, prayers, labor songs: Every culture has ""sounds that share sadness.''
 Music of sadness is an act that has a **community healing structure**.
 
 ---
@@ -73,7 +73,7 @@ Music of sadness is an act that has a **community healing structure**.
 
 Music you listen to when you're sad often **plays back memories from the past**.
 Psychologically, this is a phenomenon called "musical recall."
-A certain melody evokes past scenes, smells, and the feel of a season.
+A certain melody evokes scenes, smells, and the feel of seasons from the past.
 
 People organize their memories during times of sadness.
 Music is an "editing tool" for that purpose.
@@ -113,7 +113,7 @@ The pain of an individual is transformed into the voice of the times.
 
 In Japan, there has been a concept called ""mono aware'' since ancient times.
 This is an idea that does not deny sadness, but rather affirms it as a ""beautiful emotion.''
-From gagaku's ""Ettenraku'' to the narration of biwa priests, and even enka,
+From the gagaku ""Ettenraku'' to the narration of biwa priests, and even enka,
 Music in Japanese culture consistently contains a sense of sadness.
 
 Listening to sad music has functioned as an emotional cleansing ritual.
@@ -125,7 +125,7 @@ Crying is not a sign of weakness, but an act of emotional social reconnection.
 ## Chapter 6: "Sharing Grief" in the Digital Age
 
 In Spotify and YouTube playlists,
-It is flooded with tags such as "Sad Songs," "Rainy Mood," and "Breakup Song."
+It is flooded with tags such as "Sad Songs," "Rainy Mood," and "breakup songs."
 The algorithm even learns your tendency to feel sad,
 We propose the optimal "tears BGM".
 
@@ -248,7 +248,7 @@ graph TD
 
 ---
 
-## Sensory structure diagram (resonance of sadness and music)
+## Sensory structure diagram (resonance between sadness and music)
 
 
 <div class="mermaid">
@@ -258,7 +258,7 @@ flowchart TD
 
     A[personal experience of grief] --> B[Music selection (lyrics/melody)]
     B --> C[Self-projection: finding common emotions]
-    C --> D[Emotional resonance: Tears, relief, purification]
+    C --> D[Emotional resonance: tears, relief, purification]
     D --> E[Neural empathy: mirror neuron activation]
     E --> F[Emotional reintegration and recovery]
     F -->|silence of the heart| G[new self-understanding]

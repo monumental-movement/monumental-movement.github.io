@@ -22,7 +22,7 @@ title: Picking up German Techno works
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-Attractive point: A compilation by the prestigious German label Tresor, with a luxurious selection of tracks from some of the biggest names in techno, including Sven Väth, Maurizio, Ben Sims, James Ruskin, and Pacou. This is a piece that allows you to fully experience the charm of the hard, minimal, and innovative techno that symbolizes Berlin-Germany.
+Attractive point: A compilation by the prestigious German label Tresor, with a luxurious selection of tracks from some of the biggest names in techno, including Sven Väth, Maurizio, Ben Sims, James Ruskin, and Pacou. This is a piece that allows you to fully experience the charm of the hard, minimal, and innovative techno that symbolizes Berlin—Germany.
 
 
 #### Tracklist
@@ -57,7 +57,7 @@ Attractive point: A compilation by the prestigious German label Tresor, with a l
 
 
 
-Attractive point: A masterpiece from Zombie Nation, a project by German DJ/producer Splank! (Florian Senfter). In particular, the A-side "Souls At Zero (Original Album Version)" is paired with a remix B-side by Sven Väth. The remix by Sven Väth has a powerful finish that combines the depth and drama of German techno.
+Attractive point: A masterpiece from Zombie Nation, a project by German DJ/producer Splank! (Florian Senfter). In particular, the A-side "Souls At Zero (Original Album Version)" is paired with a remix B-side by Sven Väth. The remix by Sven Väth has a powerful finish that combines the heaviness and drama of German techno.
 
 
 #### Tracklist
@@ -231,7 +231,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Attractive point: A work by Johannes Heil, characterized by dark and dramatic direction. It's a futuristic techno experience with deep beats and a psychedelic approach. The story is impressive as it moves back and forth between silence and explosion.
+Attractive point: A work by Johannes Heil, characterized by dark and dramatic direction. A piece that invites a futuristic techno experience with deep beats and a psychedelic approach. The story is impressive as it moves back and forth between silence and explosion.
 
 
 #### Tracklist

@@ -95,7 +95,7 @@ Just intonation uses interval ratios based on harmonic series.
 * Modulation structure is limited
 * Difficult to understand theory and implementation
 
-This choice transforms the music from a ""transposable structure" to a ""local acoustic structure."
+This choice transforms the music from a "transposable structure" to a "local acoustic structure".
 
 ---
 
@@ -243,7 +243,7 @@ This is established not through intellectual understanding but through repeated 
 Microtonal music does not form a single genre.
 
 * Experimental music
-* Electronic music
+* electronic music
 * Inside Jazz/Pop
 * Video/Installation
 

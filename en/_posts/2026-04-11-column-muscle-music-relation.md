@@ -91,7 +91,7 @@ Matching tempo and movement improves energy efficiency.
 
 ### High Intensity Interval Training (HIIT)
 
-Since switching between strength and weakness is important in HIIT, songs with dynamics are suitable.
+Since switching between strengths is important in HIIT, songs with dynamics are suitable.
 
 - Build-up structure
 - Deployment with drop
@@ -109,7 +109,7 @@ This allows for natural movement phase switching.
 
 Electronic music such as techno and house is characterized by a steady beat and strong bass. These promote rhythm synchronization and are suitable for sustained exercise.
 
-In particular, songs with a strong repetitive structure go well with the repetitive movements of exercise, making it easier to maintain a state of concentration.
+In particular, songs with a strong repetitive structure go well with repetitive movements, making it easier to maintain a state of concentration.
 
 ### Hip-hop and explosiveness
 
@@ -117,7 +117,7 @@ Hip-hop is characterized by its emphasis on beats and heavy rhythms, making it s
 
 ### Rock and psychological awakening
 
-Rock music promotes psychological awakening due to its high sound pressure and energy. The climax in particular during the chorus supports the performance even when the song is close to its limit.
+Rock music promotes psychological awakening due to its high sound pressure and energy. In particular, the climax during the chorus supports the performance even when the song is close to its limit.
 
 > Differences in music genres are not just a matter of preference, but also affect the way we use our bodies.
 
@@ -143,11 +143,11 @@ D --> E[flow]
 
 ---
 
-## Practice: Training playlist design and examples
+## Practice: Training playlist design and specific examples
 
-### Major vs Underground
+### Major vs Underground Contrast
 
-The choice of music for training can be divided into whether you want to ""lift your mood with familiar songs" or ""immerse yourself in unknown sounds." Here, we will present an example of an actual playlist configuration while comparing the two.
+Choosing music for training can also be divided into whether you want to ""lift your mood with familiar songs" or ""immerse yourself in unknown sounds." Here, we will present an example of an actual playlist configuration while comparing the two.
 
 ---
 
@@ -185,7 +185,7 @@ The choice of music for training can be divided into whether you want to ""lift 
 - Ancient Methods – Knights & Bishops
 - Blawan – Why They Hide Their Bodies Under My Garage
 
-> The intensity and repetition of the sound become important in the high-intensity parts, and underground's minimal repetition pushes concentration to the limit.
+> In the high-intensity parts, the intensity and repetition of the sound become important, and the minimal repetition of underground will push your concentration to the maximum.
 
 ---
 
@@ -251,7 +251,7 @@ timeline
     2020 : 個別最適化されたプレイリスト研究が進む
 </div>
 
-> The relationship between music and exercise has been a field of research for many years, and is still evolving.
+> The relationship between music and exercise has been studied for many years, and is still evolving.
 
 ---
 

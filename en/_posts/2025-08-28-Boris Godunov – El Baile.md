@@ -15,7 +15,7 @@ title: Boris Godunov – El Baile
 
 Boris Godunov is a unit formed by Cornelius De Haas and Sascha Mock. He also works under the names Corn & Mocca and Cornelius De Haas & Mokka.
 
-A Latin/House track released in 2002 by the Japanese dance-pop label Escalator Records (now defunct).
+A Latin/House track released in 2002 on the Japanese dance-pop label Escalator Records (now defunct).
 
 
 

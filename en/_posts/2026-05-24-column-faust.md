@@ -17,7 +17,7 @@ title: '[Column] What was Faust? A German avant-garde that deconstructed rock wi
 
 ## A band that appeared to "destroy" rock
 
-Text: mmr｜Theme: Tracing the history, musicality, recording techniques, and influence of Faust on Krautrock, which was born in Germany in the 1970s.
+Text: mmr | Theme: Tracing the history, musicality, recording techniques, and influence of Faust on Krautrock, which was born in Germany in the 1970s.
 
 In the early 1970s, there was growing discomfort in West Germany with the direct imitation of British and American rock. The younger generation after World War II was trying to create their own culture from scratch.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ### West German music scene before Faust was formed
 
-In West Germany at the end of the 1960s, new artistic movements were gaining momentum due to the spread of student movements and counterculture. Similarly, in the music scene, an increasing number of young people are seeking their own unique expressions that are not copies of American rock.
+In West Germany at the end of the 1960s, new artistic movements were gaining momentum due to the spread of student movements and counterculture. Similarly, in the music scene, an increasing number of young people are seeking their own form of expression that is not a copy of American rock.
 
 Groups such as Can, Amon Düül II, Neu!, Tangerine Dream, and Cluster emerged in this vein.
 
@@ -66,11 +66,11 @@ The central figure in the birth of Faust was music journalist and producer Uwe N
 
 He formed Faust with a group of musicians with the goal of creating ""innovative German rock.''
 
-The following people participated as members:
+The following members participated.
 
 -Werner "Zappi" Diermaier
 - Jean-Hervé Peron
-- Rudolf Sosna
+-Rudolf Sosna
 - Hans Joachim Irmler
 - Günther Wüsthoff
 
@@ -96,7 +96,7 @@ As a result, songs are constructed through "editing" rather than "performance."
 
 Their self-titled album Faust, released in 1971, had a huge impact on rock listeners.
 
-This album largely ignores traditional song structures.
+This album largely ignores traditional song structure.
 
 It was a collage of short phrases, noise, conversations, electronic sounds, and fragmented rhythms, and even the boundaries between songs were vague.
 
@@ -148,7 +148,7 @@ While some critics praised it as an innovative work, there were also many who cr
 
 Although it did not lead to commercial success, it had a huge influence on the experimental music scene that followed.
 
-Underground musicians, especially in Britain and the United States, regarded Faust as an important pioneer.
+Underground musicians, especially in Britain and America, regarded Faust as an important pioneer.
 
 > ""Faust'' was more than a collection of songs, it was an experimental record that deconstructed the rock medium.
 
@@ -156,7 +156,7 @@ Underground musicians, especially in Britain and the United States, regarded Fau
 
 ## The pop sensation that began to emerge with "So Far"
 
-On 1972's So Far, Faust began displaying relatively more compact song structures than his previous albums.
+On 1972's So Far, Faust began to display relatively more compact song structures than his previous albums.
 
 However, it was not an approach to a typical pop song.
 
@@ -174,7 +174,7 @@ This feeling would also be connected to later post-punk and industrial.
 
 During the ""So Far'' period, short videos corresponding to each song were also produced.
 
-The footage of the members performing strangely provided a visual indication of Faust's artistic direction.
+The footage of the members performing bizarrely provided a visual indication of Faust's artistic direction.
 
 For them, music was not a separate medium, but a comprehensive form of artistic expression.
 
@@ -209,13 +209,13 @@ In other words, while Neu! created a ""futuristic drive feeling," Faust created 
 
 ## "The Faust Tapes" and price destruction
 
-In 1973, Faust releases The Faust Tapes.
+In 1973, Faust released The Faust Tapes.
 
 This work attracted a lot of attention not only for its content but also for the way it was sold.
 
 ### Strategy of low price sales
 
-Virgin Records in the UK sold the album at the same low price as a single.
+Britain's Virgin Records sold the album at the same low price as a single.
 
 As a result, many listeners purchased the album out of curiosity, and the album's sales exceeded expectations.
 
@@ -229,7 +229,7 @@ This is because the album has almost no unified song structure, and fragmentary 
 
 Rock, electronic sounds, ethnic music-style phrases, noise, and environmental sounds keep switching at high speed.
 
-In modern times, it feels similar to sampling culture, but at the time, everything was done by tape editing.
+In modern times, it feels similar to sampling culture, but back then, everything was done by tape editing.
 
 <div class="mermaid">
 timeline
@@ -266,11 +266,11 @@ Throbbing Gristle, Cabaret Voltaire, and This Heat all retain a strong Faustian 
 
 ## "Faust IV" and its most famous songs
 
-Faust IV, also released in 1973, is the most widely known of Faust's works.
+Faust IV, also released in 1973, is Faust's most widely known work.
 
 ### A long song called "Krautrock"
 
-The album's opening track, "Krautrock," is a repetitive track that lasts approximately 12 minutes.
+The album's opening track, "Krautrock," is a repetitive track lasting approximately 12 minutes.
 
 A simple bass line and drums go on and on, with noise and guitar floating on top.
 
@@ -278,7 +278,7 @@ This song later became a symbol of the genre name ""krautrock.''
 
 ### The strange pop nature of "The Sad Skinhead"
 
-On the other hand, "The Sad Skinhead" has a relatively straight rock feel.
+On the other hand, "The Sad Skinhead" has a relatively straightforward rock feel.
 
 However, its repetition and unsettling nature were alien to normal rock.
 
@@ -288,7 +288,7 @@ It"s not that Faust can"t make ""normal songs," it"s that he ""didn"t want to en
 
 Virgin Records treated Faust as an important experimental artist.
 
-At the time, Virgin was still an emerging label, and it felt like it was competing with the established industry.
+At the time, Virgin was still a new label and felt like it was competing with the established industry.
 
 Faust"s experimental nature also greatly contributed to Virgin"s image formation.
 
@@ -347,7 +347,7 @@ Faust has been restarted intermittently since the 1990s.
 
 Although the membership changed, the spirit of experimentation was maintained.
 
-The live performances were highly improvisational, with different developments each time.
+The live performances were highly improvisational, with a different development each time.
 
 <div class="mermaid">
 graph TD
@@ -404,7 +404,7 @@ That"s why it doesn"t sound old even when you listen to it now.
 
 In fact, it can be said that much contemporary music exists in a post-Faust world.
 
->Faust did not update rock, but rewritten the very concept of "music production".
+> Faust did not update rock, but rewritten the very concept of ""music production.''
 
 ---
 
@@ -440,7 +440,7 @@ In fact, it can be said that much contemporary music exists in a post-Faust worl
 
 | Title | Release year | Features |
 |---|---|---|
-| Faust | 1971 | Collage-like debut |
+| Faust | 1971 | Collage-style debut |
 | So Far | 1972 | Fusion of pop and experimentation |
 | The Faust Tapes | 1973 | The culmination of editorial aesthetics |
 | Faust IV | 1973 | Best known masterpiece |

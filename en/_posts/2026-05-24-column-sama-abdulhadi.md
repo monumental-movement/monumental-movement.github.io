@@ -40,7 +40,7 @@ Techno music is often referred to as ""urban music.''
 
 If you trace its origins, you will find it in Detroit, USA. However, in the 21st century, techno went beyond Europe and spread to the Middle East, Africa, South America, and Asia, absorbing the realities of each region and transforming into new forms.
 
-Amidst this trend, there is one person who left a strong impression on dance music fans around the world.
+Amid this trend, there is one person who left a strong impression on dance music fans around the world.
 
 Sama' Abdulhadi.
 
@@ -152,7 +152,7 @@ Sama' Abdulhadi will gain experience as a player in this environment.
 
 In Middle Eastern society, women's involvement in late-night club culture was often subject to prejudice.
 
-Furthermore, techno has tended to be treated as a ""male-centered'' culture.
+Additionally, techno was often treated as a "male-centric" culture.
 
 DJ equipment.
 Late night event.
@@ -180,11 +180,11 @@ D --> E[The emergence of female DJs]
 E --> F[Rise of Sama' Abdulhadi]
 </div>
 
-Also, rather than portraying her Middle Eastern origin as a ""speciality,'' she placed more emphasis on being evaluated purely as a DJ in the international techno scene.
+Also, rather than portraying her Middle Eastern origins as a ""speciality,'' she placed more emphasis on being evaluated purely as a DJ in the international techno scene.
 
 This attitude gained support from many clubbers and DJs.
 
-> Before she was a "Palestinian DJ" she was an extremely powerful techno DJ.
+> Before she was a "Palestinian DJ", she was an extremely powerful techno DJ.
 
 ---
 
@@ -270,7 +270,7 @@ mindmap
       アンダーグラウンド文化
 </div>
 
-What is especially important is that he is devoted to ""making people dance.''
+What is particularly important is that he is devoted to ""making people dance.''
 
 In recent years, techno has tended to focus more on social media and visual production. However, her play is extremely physical and emphasizes physicality.
 
@@ -386,7 +386,7 @@ There will be more opportunities to introduce the underground culture of each re
 
 This is not a simple story of ""introducing an exotic region.''
 
-In today's globalized techno world, it showed that new energy is being born from the periphery.
+In today's globalized techno, it showed that new energy is being born from the periphery.
 
 <div class="mermaid">
 graph TD
@@ -406,7 +406,7 @@ Sama' Abdulhadi was a symbol of this trend.
 
 ### Establishment as a global DJ
 
-Since Boiler Room, Sama' Abdulhadi has appeared at clubs and festivals all over the world.
+Since Boiler Room, Sama' Abdulhadi has been performing at clubs and festivals all over the world.
 
 Major clubs in Europe.
 Large festival.
@@ -532,6 +532,6 @@ Techno has often been called the "music of the future".
 
 Sama" Abdulhadi"s existence indicates that its future is already diverse, multiregional, and beginning to transcend boundaries.
 
-> The bass sounds she plays not only shake the club, but the world map itself.
+> Her bass sounds not only shake the club, but the world map itself.
 
 ---

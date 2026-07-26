@@ -11,8 +11,8 @@ tags:
 - Folk
 - Punk
 title: '[Column] The 100 most influential albums in music history: A new music history
-  reconstructed based solely on the degree of influence on contemporary music (Part
-  5, 41-50: Rock innovation and the birth of alternative)'
+  reconstructed solely by the degree of influence on contemporary music (Part 5, 41-50:
+  Rock innovation and the birth of alternative)'
 ---
 
 
@@ -129,7 +129,7 @@ Now, let's take a look at the history of innovation starting with #41 -- **Revol
 
 Released on August 5, 1966, Revolver was a work that rewrote not only rock history, but the history of recording art as a whole.
 
-If ""Sgt. Pepper's Lonely Hearts Club Band" was the work that completed the concept album, ""Revolver" was the album that turned the studio itself into a creative space.
+If ""Sgt. Pepper's Lonely Hearts Club Band" perfected the concept of a ""concept album," ""Revolver'' was the album that turned the studio itself into a creative space.
 
 Until then, a recording studio was simply a place to faithfully record performances.
 
@@ -141,9 +141,9 @@ It is no exaggeration to say that the idea of ​​""studio works'' that contin
 
 ## End of touring activities and transition to creation
 
-In the mid-1960s, The Beatles continued touring around the world.
+In the mid-1960s, The Beatles continued to tour around the world.
 
-However, the performance was drowned out by enthusiastic cheers, the new songs were rapidly becoming more complex, and the overcrowded schedule highlighted the limitations of live performances.
+However, performances that were drowned out by enthusiastic cheers, new songs that were rapidly becoming more complex, and an overcrowded schedule highlighted the limitations of live performances.
 
 Furthermore, in 1966, John Lennon's statement that he was ""more popular than Christ'' caused a huge controversy, and the band suffered a great psychological burden.
 
@@ -231,13 +231,13 @@ Furthermore, George Harrison strengthened his presence as a unique composer, whi
 
 ## "Recording" goes beyond performance
 
-Before ""Revolver", the purpose of recording most popular music was to ""record live performances as faithfully as possible."
+Prior to ""Revolver," the purpose of recording most popular music was to ""record live performances as faithfully as possible."
 
 However, in this work, that way of thinking is completely reversed.
 
 Recording is no longer a means of preserving a performance; recording itself has become an act of creation.
 
-This philosophy continues to be used in production using today's DAW.
+This philosophy continues to be passed on to today's DAW productions.
 
 Today,
 
@@ -248,9 +248,9 @@ Today,
 
 Productions like this have become commonplace.
 
-However, the origin of this idea is "Revolver".
+However, the origin of this idea lies in "Revolver".
 
-This album popularized the idea that a ""completed work" and a ""playable work" did not necessarily have to be the same.
+This album popularized the idea that a ""completed work" and a ""playable work" do not necessarily have to be the same.
 
 ---
 
@@ -267,7 +267,7 @@ The album includes
 * Baroque music
 * Experimental music
 
-Various elements such as these naturally coexist.
+A variety of elements naturally coexist.
 
 What is important is that he did not simply use them as quotations, but that he completely digested them into the container of rock.
 
@@ -294,7 +294,7 @@ E --> F
 
 ## Evaluation at the time of release
 
-Immediately after its release, ""Revolver'' received high acclaim in the United Kingdom, the United States, and other countries around the world.
+Immediately after its release, ""Revolver'' received high praise in the UK, the US, and other countries around the world.
 
 However, its innovation was so advanced that not all critics immediately understood its significance.
 
@@ -349,7 +349,7 @@ Its influence continues today in three aspects: recording techniques, compositio
 
 On the other hand, this ranking ranks ""Sgt. Pepper's Lonely Hearts Club Band" more highly as a ""completion of album art," so it was ranked 41st.
 
-Still, without Revolver, rock, electronic music, hip-hop, ambient music, and even music production in the digital age would look very different.
+Still, without Revolver, rock, electronic music, hip-hop, ambient, and even music production in the digital age would have looked very different.
 
 > "'Revolver' changed the recording studio from a mere recording facility to an instrument for creation. We rank it 41st in this ranking as a historical turning point that elevated the act of recording itself to art."
 
@@ -383,7 +383,7 @@ Furthermore, the vacancy caused by the death of manager Brian Epstein had a majo
 
 Under such circumstances, producer George Martin is said to have suggested to the members, ""Let's seriously make an album one last time.''
 
-In response to these words, the four of them worked together towards the common goal of completing the work, even though they kept their distance from each other.
+As if in response to those words, the four of them worked together towards the common goal of completing the work, even though they kept their distance from each other.
 
 ---
 
@@ -391,7 +391,7 @@ In response to these words, the four of them worked together towards the common 
 
 Recording took place at Abbey Road Studios in London.
 
-For this work, an 8-track recorder was introduced in earnest, which was a big improvement over the previous 4-track recording, making it possible to record and edit each part more precisely.
+For this work, an 8-track recorder, which was a major improvement over the previous 4-track recording, was introduced in earnest, making it possible to record and edit each part more precisely.
 
 In addition, engineer Geoff Emerick et al.
 
@@ -402,13 +402,13 @@ In addition, engineer Geoff Emerick et al.
 
 We generously utilized the most cutting-edge technology of the time.
 
-As a result, Abbey Road, despite being a 1960s piece, has a crisp, three-dimensional sound that even modern listeners will be surprised by.
+As a result, Abbey Road, despite being a 1960s work, has a crisp, three-dimensional sound that even modern listeners will be surprised by.
 
 ---
 
 ## Introduction of Moog Synthesizer
 
-One notable innovation in this work is the active introduction of the **Moog Synthesizer** developed by Robert Moog.
+One of the notable innovations in this work is the active introduction of the **Moog synthesizer** developed by Robert Moog.
 
 At the time, this instrument was still mostly used in research institutions and in the field of experimental music, and was extremely rare in popular music.
 
@@ -455,7 +455,7 @@ Paul McCartney displayed his talent as a melody maker and played a central role 
 
 And George Harrison provides two masterpieces, ""Something" and ""Here Comes the Sun."
 
-In particular, ""Something" was praised by Frank Sinatra as ""the most beautiful love song of the last 50 years" and proved to the world that Harrison was an excellent songwriter.
+In particular, ""Something" was praised by Frank Sinatra as ""the most beautiful love song of the past 50 years" and proved to the world that Harrison was an excellent songwriter.
 
 Meanwhile, Ringo Starr also shows off his warm personality on Octopus"s Garden, contributing to the album"s overall balance.
 
@@ -480,7 +480,7 @@ C --> D
 
 </div>
 
-Even today, fans from all over the world visit Abbey Road crossing and take pictures with the same composition.
+Even today, fans from all over the world continue to visit Abbey Road crossings and take photos with the same composition.
 
 This is a prime example of how an album jacket can become more than just a package, it can also become a cultural symbol.
 
@@ -492,7 +492,7 @@ Immediately after its release, Abbey Road achieved great commercial success, top
 
 Although it received mixed reviews at the time, its high level of perfection was widely recognized, and it soon became acclaimed as ""the Beatles' late masterpiece.''
 
-In particular, the beautiful composition of the B-side medley popularized the way rock albums are viewed like classical music suites or symphonies.
+In particular, the beautiful composition of the B-side medley popularized the view of rock albums as if they were classical music suites or symphonies.
 
 ---
 
@@ -509,13 +509,13 @@ Artists who have been particularly influenced by:
 
 Examples include.
 
-Furthermore, the structure of seamlessly connecting songs and the album design, which was designed to be listened to as a single album, were inherited not only in rock, but also in concept albums in progressive rock, ambient, electronic music, and hip-hop.
+Furthermore, the structure of seamlessly connecting songs and the album's design, which was designed to be listened to as a single album, were carried over not only to rock, but also to concept albums in progressive rock, ambient, electronic music, and hip-hop.
 
 ---
 
 ## Position in music history
 
-""Abbey Road" is the Beatles' last recorded album, and at the same time, it is also a symbolic work that shows the maturation of the ""album" expression format.
+""Abbey Road" is the Beatles' last recorded album, and at the same time it is a symbolic work that shows the maturation of the ""album" expression format.
 
 If ""Revolver" turned the studio into a place of creation, and ""Sgt. Pepper's Lonely Hearts Club Band" elevated the album to art, then ""Abbey Road'' brought those two results to fruition through advanced technique and compositional ability.
 
@@ -529,7 +529,7 @@ The production philosophy established here still remains strong in the current a
 
 On the other hand, this ranking ranks this work at number 42, as it rates ""Sgt.
 
-However, considering its completeness and influence on future generations, there is no doubt that Abbey Road is one of the most complete albums in the history of popular music.
+However, given its level of perfection and its influence on future generations, there is no doubt that Abbey Road is one of the most accomplished albums in the history of popular music.
 
 > "'Abbey Road' is a work that has completed the rock album as a comprehensive art form. It ranks 42nd in this ranking as a historical achievement that matured recording technology, compositional beauty, sound design, and the album format itself."
 
@@ -541,15 +541,15 @@ However, considering its completeness and influence on future generations, there
 
 ### **"The moment rock became literature"**
 
-Blonde on Blonde, released on June 20, 1966, symbolized the turning point in which rock music became not just entertainment or youth culture, but a form of expression that was discussed on an equal footing with literature and art.
+Released on June 20, 1966, Blonde on Blonde is a work that symbolizes the turning point in which rock music became not just entertainment or youth culture, but a form of expression that was discussed on an equal footing with literature and art.
 
-Even before that, Bob Dylan was pushing the boundaries of folk and rock with ""The Freewheelin' Bob Dylan," ""Bringing It All Back Home," and ""Highway 61 Revisited.''
+Even before that, Bob Dylan had expanded the possibilities of folk and rock with ""The Freewheelin' Bob Dylan," ""Bringing It All Back Home," and ""Highway 61 Revisited.''
 
 However, in ""Blonde on Blonde,'' his musicality and poetic world reach an unprecedented level of perfection.
 
 Love, loneliness, desire, religion, fantasy, time, cities, memory...
 
-These themes were woven into a language filled with metaphor and symbolism, and rock lyrics evolved from a message to a piece of literature.
+These themes were woven together in a language full of metaphors and symbols, and rock lyrics evolved from a message to a piece of literature.
 
 ---
 
@@ -581,9 +581,9 @@ By performing with them, Dylan
 
 Build a unique sound that is a natural fusion of the two.
 
-Producer Bob Johnston respected the improvisational nature of the performance and created an environment in which the entire studio could maintain the tension of a live performance.
+Producer Bob Johnston respected the improvisational nature of the performance and created an environment where the entire studio could maintain the tension of a live performance.
 
-As a result, this work is imprinted with human fluctuations and dynamism, rather than mechanical perfection.
+As a result, this work is imprinted with human fluctuation and dynamism, rather than mechanical perfection.
 
 ---
 
@@ -614,7 +614,7 @@ E --> F
 
 </div>
 
-""Visions of Johanna," ""Stuck Inside of Mobile with the Memphis Blues Again," and ""Sad Eyed Lady of the Lowlands'' are individual stories, but the album as a whole forms a literary universe.
+""Visions of Johanna," ""Stuck Inside of Mobile with the Memphis Blues Again," and ""Sad Eyed Lady of the Lowlands'' are individual stories, yet the album as a whole forms a literary universe.
 
 ---
 
@@ -641,9 +641,9 @@ This literary method had a decisive influence on later singer-songwriters and al
 
 There were many great songwriters before Blonde on Blonde.
 
-However, what was groundbreaking about this work was that the lyrics were not an element that complemented the melody, but were worthy of being appreciated as literary works in their own right.
+However, what was groundbreaking about this work was that the lyrics were not an element that complemented the melody, but had the value of being appreciated as a literary work in and of itself.
 
-Dylan moved freely between everyday language and abstract imagery, leaving listeners open to interpretation rather than offering clear answers.
+Dylan moved freely between everyday words and abstract images, leaving listeners open to interpretation rather than giving them a clear answer.
 
 This concept of ""open lyrics'' was an idea that had almost never been seen in popular music up until then.
 
@@ -725,7 +725,7 @@ Blonde on Blonde cemented the idea that rock could be an intellectual art form.
 
 After this work, albums came to be seen as not just a collection of hit songs, but as a medium through which a single artist presented his or her worldview and thoughts.
 
-Bob Dylan's award of the Nobel Prize in Literature in later years was a symbolic event in which his literary qualities were recognized beyond the boundaries of music.
+Bob Dylan's awarding of the Nobel Prize in Literature in later years was a symbolic event in which his literary qualities were recognized beyond the boundaries of music.
 
 Of course, this achievement is not just due to one album.
 
@@ -735,7 +735,7 @@ However, there is no doubt that ""Blonde on Blonde'' is one of the works that cr
 
 ## Why is it ranked 43rd?
 
-""Blonde on Blonde"' is a historical masterpiece that elevated rock lyrics to literary expression and defined the artist"s image as a singer-songwriter.
+""Blonde on Blonde"' is a historical masterpiece that elevated rock lyrics into literary expression and defined the artist"s image as a singer-songwriter.
 
 In this ranking, works that changed the recording technology or genre structure themselves are ranked higher, so we ranked it 43rd, but from the perspective of the evolution of lyrical expression, it is one of the most important works in music history.
 
@@ -767,11 +767,11 @@ On July 25, 1965, Bob Dylan appears with his electric band at the Newport Folk F
 
 The moment Dylan, a folk icon, picked up an electric guitar, the audience erupted with cheers and boos.
 
-There are still various theories as to why. Although there were complaints about sound problems and the short performance time, for many in the audience, it was a big shock to see a folk icon approach rock music.
+There are still various theories as to why. There have been complaints about sound problems and the short performance time, but for many in the audience, it was a big shock to see a folk icon approach rock music.
 
 This event was not just an act of a concert.
 
-It has been passed down as a representative incident in the history of popular music, where ""tradition" and ""innovation" collided head-on.
+It has been passed down as one of the most representative events in the history of popular music, where "tradition" and "innovation" collided head-on.
 
 Highway 61 Revisited was released just a month later.
 
@@ -797,9 +797,9 @@ By using this road as a symbol, Dylan condensed the very tradition of American m
 
 ""Like a Rolling Stone'', which opens the album, is known as a song that changed music history.
 
-Until then, it was common sense for radio singles to be around 3 minutes long.
+Until then, radio singles were generally around 3 minutes long.
 
-However, the song became a worldwide hit despite being over six minutes long.
+However, the song became a worldwide hit despite being over 6 minutes long.
 
 moreover,
 
@@ -835,7 +835,7 @@ Recording took place at Columbia Studio A.
 
 Tom Wilson was the producer, with Bob Johnston taking over for some sessions.
 
-The performance was attended by talented musicians who were friends with members who would later become part of The Band, and the session focused on improvisation.
+The performance was attended by talented musicians who were friends with members who would later become The Band, and the session focused on improvisation.
 
 Dylan placed more emphasis on chance and momentum generated on the spot than on playing exactly as written.
 
@@ -845,7 +845,7 @@ This production style had a great influence on later rock bands, leading to the 
 
 ## A new language called folk rock
 
-The success of Highway 61 Revisited cemented the fusion of folk and rock as a new genre, rather than a temporary experiment.
+With the success of ""Highway 61 Revisited'', the fusion of folk and rock became established as a new genre rather than a temporary experiment.
 
 What Dylan presented was not a simple choice between acoustic and electric.
 
@@ -890,7 +890,7 @@ But rock musicians quickly embraced the innovation.
 
 In particular, ""Like a Rolling Stone'' shocked the music industry as a work that changed the very concept of a single.
 
-Radio stations were no exception, and with the success of this work, the custom that ""long songs cannot be broadcast'' gradually began to crumble.
+Radio stations were no exception, and the convention that ""long songs cannot be broadcast'' gradually began to crumble due to the success of this work.
 
 ---
 
@@ -901,14 +901,14 @@ The influence of Highway 61 Revisited spread throughout rock from the late 1960s
 especially,
 
 *Bruce Springsteen
-*Tom Petty
+* Tom Petty
 *Patti Smith
 * Neil Young
 *Elvis Costello
 
 They inherited the path of ""literary rock'' pioneered by Dylan, and each developed it into their own unique expression.
 
-Furthermore, it became an opportunity for the image of the creator as a singer-songwriter to spread worldwide, and determined the direction of rock and folk music from the 1970s onwards.
+Furthermore, it became an opportunity for the image of the creator as a singer-songwriter to spread worldwide, and determined the direction of rock and folk music from the 1970s onward.
 
 ---
 
@@ -932,7 +932,7 @@ In this ranking, ""Blonde on Blonde,'' which further matures this idea, is ranke
 
 Highway 61 Revisited was rock's first major step from youth culture to contemporary art.
 
-> "'Highway 61 Revisited' brought together the ideas of folk and the energy of rock, bringing new intelligence and literary quality to popular music. As a historical turning point that decisively expanded the expressive realm of rock, we rank it 44th in this ranking."
+> "'Highway 61 Revisited' brought together folk ideas and rock energy, bringing new intelligence and literary quality to popular music. As a historical turning point that decisively expanded the expressive realm of rock, we rank it 44th in this ranking."
 
 ---
 
@@ -950,7 +950,7 @@ But Led Zeppelin IV doesn't just make it louder.
 
 By fusing blues, folk, Celtic music, a mythical worldview, outstanding performance techniques, and the most advanced recording technology of the time, they elevated "heaviness" to a form of artistic expression.
 
-Today, many of the sound images that come to mind when many people hear the phrase ""rock-like guitar sound'' originate from this album.
+Today, many of the sound images that come to mind when hearing the words ""rock-like guitar sound'' originate from this album.
 
 ---
 
@@ -964,7 +964,7 @@ This was also a reaction to the previous film, Led Zeppelin III, which received 
 
 Jimmy Page deliberately excluded titles and descriptions because he wanted people to evaluate the work itself.
 
-As a result, the album became known by multiple names, including "Led Zeppelin IV," "Four Symbols," and "Untitled."
+As a result, the album became known by several names, including "Led Zeppelin IV," "Four Symbols," and "Untitled."
 
 ---
 
@@ -974,7 +974,7 @@ The majority of the album was recorded at Headley Grange in Hampshire, England.
 
 At the time, much of their work was created in studios, but Led Zeppelin actively utilized the natural reverberations of the mansion.
 
-The recordings were made using The Rolling Stones Mobile Studio, a mobile recording system, with the building's staircases, halls, and stone walls acting as natural reverberation devices.
+The recordings were made using The Rolling Stones Mobile Studio, a mobile recording system, with the building's stairs, halls, and stone walls acting as natural reverberation devices.
 
 In particular, the huge drum sound that can be heard on ""When the Levee Breaks" is known to have been recorded with a microphone installed in a stairwell, and its acoustics are still talked about as one of the ""best drum recordings of all time."
 
@@ -989,7 +989,7 @@ In particular, the huge drum sound that can be heard on ""When the Levee Breaks"
 *Bass, keyboards, arrangement by John Paul Jones
 * John Bonham's explosive drumming
 
-With these four members working equally, a dynamic and detailed sound that goes beyond simple hard rock was born.
+With these four members working equally, a dynamic and precise sound was created that went beyond mere hard rock.
 
 <div class="mermaid">
 flowchart TD
@@ -1023,7 +1023,7 @@ With this structure, it transforms from a small piece to a masterpiece within a 
 
 Although it was never released as a single, it became one of the most famous rock songs in the world and a symbol of the album-centric era.
 
-""Stairway to Heaven" once again challenged the pop convention that ""hit songs should be short," proving that even long songs can move people's hearts.
+""Stairway to Heaven" once again challenged the pop convention that ""hit songs should be short" and proved that even long songs can move people's hearts.
 
 ---
 
@@ -1044,7 +1044,7 @@ These elements became the basic grammar of heavy metal from the late 1970s onwar
 
 Of course, the existence of Black Sabbath and Deep Purple was also essential for the establishment of heavy metal.
 
-However, ""Led Zeppelin IV" has extremely important meaning in that it presents ""being heavy" not simply as a matter of volume or speed, but as a comprehensive aesthetic that includes acoustics, structure, performance, and mythology.
+However, ""Led Zeppelin IV" has extremely important meaning in that it presents ""being heavy" not simply as a matter of volume or speed, but as a comprehensive aesthetic that includes acoustics, composition, performance, and mythology.
 
 ---
 
@@ -1083,7 +1083,7 @@ What's more, drum recording techniques remain a textbook for recording engineers
 
 ## Position in music history
 
-""Led Zeppelin IV" is a work that elevated ""heavy rock" into a universal form of expression rather than a passing fad.
+""Led Zeppelin IV" is a work that elevated ""heavy rock" into a universal form of expression, rather than a passing fad.
 
 While starting with the blues, rock evolved into a grander, three-dimensional art form by fusing folk, Celtic music, mythology, and studio technology.
 
@@ -1145,7 +1145,7 @@ The Sex Pistols emerged under such circumstances and became a symbol of ""taking
 
 ## The gimmick named Malcolm McLaren
 
-Manager Malcolm McLaren was essential to the band's birth.
+Manager Malcolm McLaren was essential to the birth of the band.
 
 Co-owner of the London boutique SEX, he created the Sex Pistols as a cultural phenomenon, integrating not only music but also fashion, advertising and a provocative media strategy.
 
@@ -1190,14 +1190,14 @@ In particular, ""God Save the Queen'' was released in the year of the Silver Jub
 
 Although the BBC and other broadcasters refrained from broadcasting the song, and many retailers refused to sell it, the single still managed to reach the top of the charts.
 
-This event once again demonstrated to the world the fact that ""music can pose political and cultural challenges to society.''
+This event once again demonstrated to the world that ""music can pose political and cultural challenges to society.''
 
 ---
 
 
 ## Music history changed by "It doesn"t matter if you"re bad"
 
-The greatest legacy left behind by the Sex Pistols is not their playing technique.
+The Sex Pistols' greatest legacy is not their playing technique.
 
 What they demonstrated was the idea that "you can express yourself even if it's not perfect."
 
@@ -1247,7 +1247,7 @@ E --> F
 
 This trend continued into hardcore punk in the 1980s, alternative rock in the 1990s, the indie scene in the 2000s, and even the self-release culture of the Internet era.
 
-The DIY spirit is at the root of today's environment where artists can record their music at home, distribute it themselves, and deliver their work to the world through social media.
+Today's environment in which artists can record their music at home, distribute it themselves, and deliver their work to the world through social media is rooted in the DIY spirit.
 
 ---
 
@@ -1301,15 +1301,15 @@ This idea continues to be passed down to today's indie culture and self-produced
 
 ## Why is it ranked 46th?
 
-Never Mind the Bollocks, Here's the Sex Pistols is a landmark work that elevated punk rock into a global cultural movement and placed the DIY spirit at the center of musical history.
+Never Mind the Bollocks, Here's the Sex Pistols is a landmark work that elevated punk rock into a global cultural movement and put the DIY spirit at the center of musical history.
 
-Because this work did not change recording technology or composition theory itself, it was ranked 46th in this ranking.
+Because it is not a work that changes recording technology or composition theory itself, it is ranked 46th in this ranking.
 
 However, his influence in spreading the idea that ""music is not just for a few talented people'' around the world is immeasurable.
 
 Without this album, the indie scene of the 1980s, alternative rock, and today's self-release culture would be completely different.
 
-> "'Never Mind the Bollocks, Here's the Sex Pistols' is an album that revolutionizes not the techniques of rock, but the qualifications to participate in it. It is ranked 46th in this ranking as a historical work that spread the DIY spirit to the world and became the origin of modern indie culture."
+> "'Never Mind the Bollocks, Here's the Sex Pistols' is an album that revolutionized not the techniques of rock, but the qualifications to participate in it. We place it at number 46 in this ranking as a historical work that spread the DIY spirit to the world and became the origin of modern indie culture."
 
 ---
 
@@ -1331,7 +1331,7 @@ If Nevermind is the work that represents the early 1990s, OK Computer is the wor
 
 The 20th century optimism that the future is bright is already gone on this album.
 
-There was a quiet anxiety about a society where humanity was being weakened in exchange for convenience.
+What was there was a quiet anxiety about a society where humanity is being weakened in exchange for convenience.
 
 ---
 
@@ -1345,7 +1345,7 @@ Thom Yorke, in particular, felt uncomfortable with the rapidly commercializing m
 
 Rather than developing traditional guitar rock, the band aims for more experimental, cinematic, and psychological work.
 
-That challenge culminated in ""OK Computer.''
+That challenge culminated in ""OK Computer''.
 
 ---
 
@@ -1355,7 +1355,7 @@ This work was recorded mainly at St Catherine's Court, a historic building in En
 
 The producer was Nigel Godrich, who would continue to work with the band for many years.
 
-He focused on the natural sound and spatiality that could not be obtained in a conventional commercial studio, and utilized the mansion itself as a huge recording space.
+He placed emphasis on natural sound and spatiality that could not be obtained in a conventional commercial studio, and utilized the mansion itself as a gigantic recording space.
 
 Also,
 
@@ -1378,7 +1378,7 @@ The work includes
 * Krautrock
 * Jazz
 * contemporary music
-* Electronic music
+* electronic music
 * Movie music
 
 Elements such as these are integrated.
@@ -1426,7 +1426,7 @@ Nevertheless, the world depicted in this work was a surprisingly accurate predic
 
 ""OK Computer'' differs from other future-oriented works in that it does not deny technology itself.
 
-What the album depicts is not a simple story of ""computers are evil.''
+What the album depicts is not a simple story of "computers are evil."
 
 Rather, the problem is that humans, in their pursuit of efficiency and rationality, end up adapting themselves to the logic of machines.
 
@@ -1452,7 +1452,7 @@ This song, which sounded futuristic in 1997, has become a reality in today's wor
 
 ""OK Computer'' is an album whose true value can be appreciated by listening to it as a whole, rather than enjoying it one by one.
 
-Starting with the hustle and bustle of the city, the story moves through anxiety, loneliness, fragments of hope, and a quiet afterglow, with a structure that resembles a road movie or science fiction film.
+The story begins with the hustle and bustle of the city, then moves to anxiety, loneliness, fragments of hope, and a quiet afterglow, with a structure that resembles a road movie or science fiction film.
 
 <div class="mermaid">
 flowchart LR
@@ -1494,7 +1494,7 @@ Representative artists influenced by this are:
 *Muse
 *Arcade Fire
 *The National
-*James Blake
+* James Blake
 *Bon Iver
 
 Examples include.
@@ -1523,7 +1523,7 @@ In this ranking, we rate ""Kid A,'' which developed this idea into an even more 
 
 Still, there is no doubt that OK Computer was a work that determined the direction of rock from the 1990s onward.
 
-> "'OK Computer' is the first work that seriously depicts the loneliness and anxiety of humans living in an information society in the form of rock. It is ranked 47th in this ranking as a historical album that anticipates the sensibilities of the 21st century."
+> "'OK Computer' is the first work to fully depict the loneliness and anxiety of humans living in an information society in the form of rock. It is ranked 47th in this ranking as a historical album that anticipates the sensibilities of the 21st century."
 
 ---
 
@@ -1535,7 +1535,7 @@ Still, there is no doubt that OK Computer was a work that determined the directi
 
 Kid A, released on October 2, 2000, is one of the boldest self-denials in rock history.
 
-Bands that achieve worldwide success usually try to refine their line even further.
+Bands that achieve worldwide success usually try to refine their approach.
 
 However, Radiohead, who became the world's greatest rock band with OK Computer, chose to destroy that success themselves.
 
@@ -1543,13 +1543,13 @@ However, Radiohead, who became the world's greatest rock band with OK Computer, 
 
 This work is not just an experimental work.
 
-It was a historical turning point, symbolizing the trend in which the concept of "genre" has rapidly lost its meaning in music production since the 21st century.
+It was a historical turning point, symbolizing the trend in which the concept of "genre" is rapidly losing meaning in music production since the 21st century.
 
 ---
 
 ## Crisis after the success of "OK Computer"
 
-While OK Computer was a worldwide success, the tour took a toll on the band members.
+While OK Computer was a worldwide success, the tour took a toll on the members.
 
 In particular, Thom Yorke's huge success made him uncomfortable with continuing to play the role of ""rock star''.
 
@@ -1632,7 +1632,7 @@ Vocoders and digital processing treat the human voice as a single tone rather th
 
 Although this technique was not uncommon in electronic music, it was extremely revolutionary that it was fully adopted by a world-famous rock band.
 
-The conventional wisdom that lyrics are the center of rock music is quietly dismantled by this work.
+The conventional wisdom that "lyrics are the main focus" in rock music is quietly dismantled by this work.
 
 ---
 
@@ -1669,7 +1669,7 @@ This was a historic event that proved that even cutting-edge experimental music 
 
 Until then, experimentation and commerciality were often considered to be contradictory.
 
-However, ""Kid A'' overturned that conventional wisdom and showed that even highly artistic works can achieve global success.
+However, ""Kid A'' overturned that conventional wisdom and showed that even highly artistic works can achieve worldwide success.
 
 <div class="mermaid">
 flowchart LR
@@ -1708,7 +1708,7 @@ The influence that ""Kid A'' left is not limited to rock music.
 
 Representative artists who inherited this idea include:
 
-*James Blake
+* James Blake
 *Bon Iver
 *Animal Collective
 * The xx
@@ -1739,9 +1739,9 @@ The genre-less production culture in the current music scene can be discussed wi
 
 Kid A is a rare example of a rock band denying their own success and creating a new musical language.
 
-Its influence extended to 21st century indie rock, electronic music, and pop, greatly shaking up the concept of genre.
+Its influence extended to 21st century indie rock, electronic music, and pop music, greatly shaking up the concept of genre.
 
-On the other hand, in this ranking, ""OK Computer" is ranked slightly higher as a ""work that defined the zeitgeist," so it was ranked 48th.
+On the other hand, this ranking places ""OK Computer" slightly higher as a ""work that defined the zeitgeist," so it was ranked 48th.
 
 But if you're just evaluating musical innovation, Kid A is without a doubt one of the most important albums of the 21st century.
 
@@ -1760,7 +1760,7 @@ Released on October 8, 1980, Remain in Light was one of the biggest turning poin
 
 This album boldly incorporates African music, funk, minimalism, electronic music, and studio collage while maintaining the rock band format.
 
-As a result, the fixed idea that ""rock is music centered around the guitar'' was greatly shaken.
+As a result, the stereotype that ""rock is music centered around the guitar'' has been greatly shaken.
 
 It"s hard to find a field that hasn"t been influenced by this album, including later alternative rock, post-rock, dance music, and even the 21st century indie scene.
 
@@ -1798,7 +1798,7 @@ In the recording,
 
 etc. were actively used.
 
-In particular, the method of layering short phrases played by each person to create a gigantic rhythm was an idea that would also be applied to later sampling culture and loop-based electronic music.
+In particular, the method of layering short phrases played by each person to create a gigantic rhythm was an idea that would later be applied to sampling culture and loop-based electronic music.
 
 ---
 
@@ -1808,7 +1808,7 @@ Rock at the time was ""vertical'' music that moved forward based on chord progre
 
 Remain in Light, on the other hand, was influenced by West African music, particularly Afrobeat developed by Fela Kuti, and introduced the idea of ​​creating time through the accumulation of repeated rhythms.
 
-Rather than repeating flashy developments, the songs maintain a groove over a long period of time by making small changes little by little.
+The songs do not repeat flashy developments, but instead make small changes little by little and maintain a groove over a long period of time.
 
 This sense of ""time flowing sideways'' became an important musical philosophy that would lead to subsequent dance music and minimal techno.
 
@@ -1847,9 +1847,9 @@ It was a groundbreaking work that weaved post-1980s themes of urban life, consum
 
 ---
 
-## Turned the studio itself into a "composing device"
+## Turned the studio itself into a "composition device"
 
-""Remain in Light" represents a major change from the traditional idea of ​​""writing a song and recording it."
+""Remain in Light" takes a major change from the traditional idea of ​​""writing a song and recording it."
 
 First, the members hold a long jam session and record snippets of it.
 
@@ -1857,9 +1857,9 @@ The song was then completed by cutting and pasting, looping, and layering new pe
 
 In other words, in this work, the recording process itself became part of the composition.
 
-This production philosophy was also relevant to later sampling music, hip-hop, house, techno, electronica, and even the modern production environment using DAWs (digital audio workstations).
+This production philosophy was also relevant to later sampling music, hip-hop, house, techno, electronica, and even the modern production environment that uses DAWs (digital audio workstations).
 
-This work is one of the pioneering examples of rock works that present the production style of ""composing songs while recording,'' which has become commonplace today, to a high degree of perfection.
+This work is one of the pioneering examples of rock music that presented the production style of ""composing songs while recording,'' which has become commonplace today, to a high degree of perfection.
 
 ---
 
@@ -1869,7 +1869,7 @@ Since its release, the film has received extremely high praise among critics.
 
 The sound, which stands out from conventional new wave and post-punk, was hailed as a work that showed the future of rock, and was selected as one of the year's best albums by many music magazines.
 
-A commercial success, Once in a Lifetime became one of the most iconic films of the MTV era.
+A commercial success, Once in a Lifetime became one of the most representative films of the MTV era.
 
 The music video, which incorporates David Byrne's unique physical expression, also presents new possibilities for musical and visual expression.
 
@@ -1935,9 +1935,9 @@ This work is an indispensable turning point when discussing rock, electronic mus
 
 Although its innovation is extremely great, this ranking ranks works that more directly institutionalized entire genres and works that transformed the music industry itself, so it was ranked 49th.
 
-However, this work is one of the most important works in the history of modern music in the sense that it opened rock to ""world music'' and foreshadowed the cross-genre music production of the 21st century.
+However, this work is one of the most important works in the history of modern music in the sense that it opened up rock to ""world music'' and foreshadowed the cross-genre music production of the 21st century.
 
-> "'Remain in Light' fuses rock, African music, funk, minimalism, and studio collage, redefining the concept of groove and recording. As a historical work that laid the foundation for modern music that transcends genres, it ranks 49th in this ranking."
+> "'Remain in Light' fuses rock with African music, funk, minimalism, and studio collage, redefining the concept of groove and recording. It is ranked 49th in this ranking as a historical work that laid the foundation for modern music that transcends genres."
 
 ---
 
@@ -1986,7 +1986,7 @@ Although they had a punk spirit, their music itself had a structure closer to ja
 
 ## Three-dimensional sound created by two guitars
 
-The band's core members, Tom Verlaine and Richard Lloyd, did not split their traditional roles between lead and rhythm guitar.
+The band's core members, Tom Verlaine and Richard Lloyd, did not split the traditional roles of lead guitar and rhythm guitar.
 
 The two play melodies with each other, intertwine, and at times keep their distance, creating a single acoustic space.
 
@@ -2002,7 +2002,7 @@ This work was produced by Andy Johns.
 
 He is an engineer known for his work with Led Zeppelin and The Rolling Stones, and he used that experience to record television's complex guitar ensembles with astonishing clarity.
 
-Rather than pushing distortion to the forefront, by carefully organizing the localization and lingering sound of each instrument, you can hear each one clearly even when multiple melodies are playing at the same time.
+Rather than pushing distortion to the forefront, the localization and lingering sound of each instrument are carefully arranged so that each melodies can be heard clearly, even when multiple melodies are playing at the same time.
 
 This recording aesthetic would have a major influence on guitar bands from the 1980s onwards.
 
@@ -2033,7 +2033,7 @@ The song begins with a simple repeating riff, and the two guitars gradually buil
 
 This structure gives a sense of the unfolding form of classical music and the improvisational nature of jazz, while still retaining the driving force characteristic of rock.
 
-The techniques of ""repetition and gradual development'' seen in later post-rock and math rock learned a lot from this work, both directly and indirectly.
+The techniques of ""repetition and gradual development'' found in later post-rock and math rock learned a lot from this work, both directly and indirectly.
 
 ---
 
@@ -2123,17 +2123,17 @@ That is the essence of "Marquee Moon."
 
 ## Why is it ranked 50th?
 
-""Marquee Moon'' is a historical work that evolved punk from a mere music of rebellion to a high level of musical expression.
+""Marquee Moon'' is a historical work that evolved punk from mere music of rebellion to a high level of musical expression.
 
 Post-punk, indie rock, alternative rock, and even much of modern guitar music exist on the path blazed by this work.
 
-On the other hand, its influence is mainly concentrated on the rock lineage, and its influence is somewhat limited compared to the works that transformed popular music as a whole, recording technology, and industrial structure.
+On the other hand, its influence is mainly concentrated on the rock lineage, and its scope is somewhat limited compared to the works that transformed popular music as a whole, recording technology, and industrial structure.
 
 Therefore, it is ranked 50th in this ranking.
 
 However, the significance of establishing the value that ""rock can be simple and yet intellectual'' was extremely significant, and this work continues to shine as an important milestone in guitar music even today.
 
-> "'Marquee Moon' fuses the spirit of punk and the intelligence of art rock, and laid the foundation for post-punk and indie rock. As a historical work that greatly expanded the possibilities of guitar ensembles, we rank it at number 50 in this ranking."
+> "'Marquee Moon' fused the spirit of punk and the intelligence of art rock, and laid the foundation for post-punk and indie rock. As a historical work that greatly expanded the possibilities of guitar ensembles, we rank it at number 50 in this ranking."
 
 ---
 
@@ -2188,7 +2188,7 @@ In the next installment, Part 7, we will continue this trend and explore how ele
 
 The repetition of jazz-funk, the collapse of dub, and the birth of disco.
 
-Eventually, they were reconstructed within the space of a "club," and music changed from an individual's expression to the infrastructure that drives the city.
+Eventually, they were reconstructed in the space of a "club," and music changed from an individual's expression to the infrastructure that drives the city.
 
 Unraveling the history of the "institutionalization of electronic music" that continued into techno, house, acid, and bass music.
 

@@ -112,7 +112,7 @@ The focus was on young Norwegian underground musicians.
 * Establishing lo-fi recording as "aesthetics"
 *Tremolo riff
 * Scream Vo
-* Expression of "ice wasteland" through repetition and speed
+* Expression of "Ice Wasteland" through repetition and speed
 * Corpse Paint
 * Natural view of winter, forest, and solitude
 
@@ -222,7 +222,7 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 * Dead (Per Ohlin)'s stage performance (corpse make-up, raw meat, etc.)
 **A decisive event that brought ritual elements of "death and inhumanity" into black metal**.
 * Euronymous is based in Helvete (a record store in Oslo).
-**Formation of a black metal inner circle (close small community). **
+** Forming a black metal inner circle (a small, close community). **
 * Later gained worldwide attention for the Euronymous murder case (1993) and the church arson incident.
 
 ---

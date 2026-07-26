@@ -73,7 +73,7 @@ In the late 1980s and 1990s, Detroit techno and electro were reunited.
 
 ---
 
-**Juan Atkins (Model 500)** was a pioneer in techno, as well as a prolific producer of electro-inspired tracks, freely straddling the boundaries between the two.
+**Juan Atkins (Model 500)** is a pioneer of techno, as well as a prolific producer of electro-inspired tracks, freely straddling the boundaries between the two.
 
 This trend would later lead to IDM and glitch electronica.
 
@@ -91,9 +91,9 @@ In the early 2000s, electro came back into the limelight.
 
 ---
 
-**Electro House Connection**: French/German artists like Justice and Digitalism have taken the club scene by storm by fusing electro-inspired synth riffs with house 4/4.
+**Electro House Connection**: French/German artists like Justice and Digitalism have taken the club scene by storm by fusing electro-synth riffs with house 4/4.
 
-The debut album by Justice, a French electronic dance band active since 2003, was released in 2007 by the French label Ed Banger Records and was a worldwide success, including a Grammy Award nomination for Best Electronic/Dance Album.
+The debut album by Justice, a French electronic dance band active since 2003, was released in 2007 on the French label Ed Banger Records and was a worldwide success, including a Grammy Award nomination for Best Electronic/Dance Album.
 
 #### Tracklist
 ```md

@@ -45,11 +45,11 @@ color: #fff;
 
 ### 1-1. Base layer in the 1960s and 1970s
 
-In the late 1960s, folk connected with rock, acquiring altered consciousness, mythological themes, and expanded song structures. The focus was on acoustic guitar, drone, handclaps, and chorus, and the performance was not necessarily aimed at technique.
+In the late 1960s, folk connected with rock, gaining altered consciousness, mythological themes, and expanded song structures. The focus was on acoustic guitar, drone, handclaps, and chorus, and the performance was not necessarily aimed at technique.
 
 Due to the limitations of recording technology, the psychedelic folk of this period relied on spatial expression and repetition through the performance itself. As a result, the acoustics are simple, but the group and ritual are emphasized.
 
-### 1-2. Reassessment since the 1990s
+### 1-2. Re-evaluation since the 1990s
 
 From the late 1990s to the early 2000s, acid folk and psychedelic folk were reevaluated as reissues and archives were dug up. This allows younger generations of musicians to begin absorbing these as historical reference points.
 
@@ -153,9 +153,9 @@ flowchart TD
 
 Rhythm in Neo-Psychedelic Folk acts on the body in a way different from the physical drive of dance music. Emphasis on clear beats is avoided, and periodic yet amorphous repetitions are used. As a result, the listener's body is not "moved" but placed in a state of "drifting."
 
-> "Rhythm is not a motor command, but a framework for maintaining fluctuations in perception."
+> "Rhythm is not a motor command, but a framework for maintaining perceptual fluctuations"
 
-In Animal Collective"s early works, percussion and handclaps provide a steady sense of beat, but the jumble of voices obscures the center of gravity. In Tame Impala"s early works, the drums are placed in the background, maintaining periodicity but reducing physical tension.
+In Animal Collective"s early works, percussion and handclaps provide a sense of steady beat, but the jumble of voices obscures the center of gravity. In Tame Impala"s early works, the drums are placed in the background, maintaining periodicity but reducing physical tension.
 
 ---
 
@@ -163,7 +163,7 @@ In Animal Collective"s early works, percussion and handclaps provide a steady se
 
 Voice is one of the most important elements in Neo-Psychedelic Folk. The division of roles between lead vocalist and accompaniment is weakened, and multiple voices are placed in the same line. Vocal quality, overlap, and reverberation are prioritized over the clarity of lyrics.
 
-This is the result of transferring the group singing nature of folk music to the studio space.
+This is the result of transferring the group singing nature of folk to the studio space.
 
 > "Songs are not a device to tell a story, but a material that fills a space."
 

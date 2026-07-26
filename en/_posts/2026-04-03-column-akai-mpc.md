@@ -65,7 +65,7 @@ In 1988, Akai MPC60 was born. This equipment had the following characteristics:
 * Sequencer integration
 * Swing (groove) adjustment function
 
-Especially important is the "swing." Rather than a perfectly even rhythm, a slight deviation creates a human-like groove. With this function, the MPC has become not just a tool for driving, but a device that creates a ""glue.''
+Especially important is the "swing." Rather than a perfectly even rhythm, he creates a human-like groove by slightly shifting the rhythm. With this function, the MPC has become not just a tool for driving, but a device that creates a "glue."
 
 <div class="mermaid">
 graph LR

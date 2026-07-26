@@ -11,7 +11,7 @@ title: A Tribe Called Quest – Midnight Marauders
 ---
 
 
-Midnight Marauders, released in 1993, is ATCQ's third album.
+""Midnight Marauders"', released in 1993, is ATCQ"s third album.
 
 #### Tracklist
 ```md

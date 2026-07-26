@@ -54,7 +54,7 @@ The origins of the virtual band can be found in the animation and concept album 
 
 Also, from the late 1960s to the 1970s, works using fictional band settings and alter egos appeared in rock and pop music. This was also a way for the artist to distance himself from his true image and increase his freedom of expression.
 
-These cases already had two elements necessary for later virtual bands. First, the receptivity of the audience to empathize with a fictional being. Second is the recognition that story and setting extend the musical experience.
+These cases already had two elements necessary for later virtual bands. Firstly, the audience's receptivity to empathize with fictional beings. Second is the recognition that story and setting extend the musical experience.
 
 > Virtual bands did not suddenly appear, but are an extension of a long history of intertwining stories and music.
 
@@ -66,7 +66,7 @@ These cases already had two elements necessary for later virtual bands. First, t
 
 From the late 1990s to the early 2000s, computer graphics, the Internet, and the digital music production environment rapidly developed. As a result, the characters are not just illustrations, but characters that move and grow within the video, and become entities that can be continuously exposed.
 
-In terms of music production, with the spread of DAWs and sampling technology, music production that is divorced from the physicality of performance has become commonplace. Singing voices can also be edited and processed to make it unclear who they belong to. This was an important change that led to later speech synthesis culture.
+In terms of music production, with the spread of DAWs and sampling technology, music production that is separated from the physicality of performance has become commonplace. Singing voices can also be edited and processed to make it unclear who they belong to. This was an important change that led to later speech synthesis culture.
 
 In terms of distribution, characters and songs can now be distributed online at the same time, without relying on television or CDs. For virtual bands, the Internet was not just a means of advertising, but the basis for their very existence.
 
@@ -80,7 +80,7 @@ In terms of distribution, characters and songs can now be distributed online at 
 
 In the 2000s, virtual bands with distinct characters and musicality achieved international success. Through animated music videos, a fictional lineup, and a continuous narrative setting, they became ""objects to cheer for'' in the same way as real bands.
 
-What is important is that these projects were not one-off, topical works, but involved album releases, tours, and media development over a long period of time. Audiences gradually begin to pay more attention to the relationships and changes between characters than to the creators behind them.
+What is important is that these projects were not one-off, topical works, but involved album releases, tours, and media development over a long period of time. The audience gradually begins to pay more attention to the relationships and changes between the characters than to the creators behind them.
 
 Here, the virtual band did not hide behind anonymity, but rather acquired a strong personality. A paradoxical state of being anonymous yet with a clear individuality was created.
 

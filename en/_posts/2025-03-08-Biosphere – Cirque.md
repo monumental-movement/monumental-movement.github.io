@@ -14,7 +14,7 @@ title: Biosphere – Cirque
 ---
 
 
-Geir Jenssen, also known as Biosphere, is an electronic ambient musician from Norway. Living in Tromsø, within the Arctic Circle, we are characterized by an ambient and ambient house style inspired by the nature and mountains of the Arctic Circle.
+Geir Jenssen, also known as Biosphere, is an electronic ambient musician from Norway. Since he lives in Tromsø, within the Arctic Circle, he is known for his ambient and ambient house style, which is inspired by the nature and mountains of the Arctic Circle.
 
 "Cirque" is an album released by the UK label Touch in 2000. This album is inspired by American adventurer Chris McCandless, who was the inspiration for mountaineer and author Jon Krakauer"s work Into the Wild. The second song, Le Grand Dôme, appears on French electronic DJ Miss Kittin"s 2006 mix album A Bugged Out Mix.
 

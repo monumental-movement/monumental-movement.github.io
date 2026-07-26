@@ -16,7 +16,7 @@ Cursor Miner is a project by Rob Tubb (real name Rob Tubb).
 
 Cursor Miner is a mix of pure dancefloor anthems, twisted breakbeats, insane experimentation, pop flair, and social commentary.
 
-He's been described as Beck and David Bowie fused with Kraftwerk and Oetaker, what would happen in the middle of an illegal early 90s rave.
+He's been described as Beck and David Bowie fused with Kraftwerk and Oetaker and what would happen in the middle of an illegal early 90s rave.
 
 #### Tracklist
 ```md

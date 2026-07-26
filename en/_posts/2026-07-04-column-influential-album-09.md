@@ -69,7 +69,7 @@ A sustained sound made by a guitar.
 
 These overlapped with the deep bass sounds derived from dub, creating a much darker acoustic space than traditional trip-hop.
 
-The introduction of guitar sounds was especially important.
+The introduction of guitar sounds was particularly important.
 
 This was not a return to rock, but a choice to expand the "texture of sound."
 
@@ -89,9 +89,9 @@ Whispering vocals.
 
 vast reverberations.
 
-In this stillness, the slightest noise or change in tone gives off a strong presence.
+Amidst this silence, even the slightest noise or change in tone gives off a strong presence.
 
-This was a reinterpretation of the "margin" aesthetics cultivated by dub music in the digital production environment of the late 1990s.
+This was a reinterpretation of the aesthetics of "margin" cultivated by dub music in the digital production environment of the late 1990s.
 
 ---
 
@@ -124,7 +124,7 @@ E --> H
 
 Mezzanine's influence was more pronounced in film culture than in clubs.
 
-Many songs from the album have been used in movies, TV dramas, documentaries, and commercials, and their deep and tense sound has become synonymous with ""urban suspense.''
+Many songs from the album have been used in movies, TV dramas, documentaries, and commercials, and their profound and tense sound has become synonymous with ""urban suspense.''
 
 The existence of this work is the reason why electronic music has become an important element supporting psychological depictions in video works.
 
@@ -170,7 +170,7 @@ In this ranking, ""Blue Lines" is ranked 81st because it is ranked high as the d
 
 ### **"The moment when trip hop evolved into music that depicts the inner world of the individual"**
 
-Released in 1995, **Maxinquaye** is a landmark work in which Tricky took the trip-hop genre to a new level.
+Released in 1995, **Maxinquaye** is a landmark work in which Tricky pushed the trip-hop genre to a new level.
 
 If Massive Attack's ""Blue Lines" depicted urban grooves and ""Mezzanine" depicted the urban psyche, ""Maxinquaye'' dives even deeper into the very inner beings of humans.
 
@@ -180,9 +180,9 @@ There is no right or wrong.
 
 There are no heroes either.
 
-What exists is an extremely personal spiritual world where contradictory emotions such as anxiety, memory, dependence, love, violence, and loneliness coexist.
+What exists is an extremely personal spiritual world where conflicting emotions such as anxiety, memory, dependence, love, violence, and loneliness coexist.
 
-Using hip-hop and dub idioms, Tricky presented a new form of ""inner realism'' in popular music.
+Using hip-hop and dub language, Tricky presented a new form of ""inner realism'' in popular music.
 
 ---
 
@@ -204,7 +204,7 @@ The album title comes from the name of his mother, Maxine Quaye, who passed away
 
 A sense of loss, family memories, and questions about self-development flow quietly throughout the work.
 
-This intensely personal perspective was something that had rarely been seen in club music up until then.
+His deeply personal perspective was something that had rarely been seen in club music up until that point.
 
 ---
 
@@ -272,7 +272,7 @@ A long silence.
 
 That blank space is an important element for expressing emotion.
 
-This was an application of the ""subtraction'' aesthetic developed by dub music to psychological depiction.
+This was an application of the ""subtraction'' aesthetic developed by dub music to psychological depictions.
 
 Even when no sound is being played, it becomes part of the story.
 
@@ -302,7 +302,7 @@ This work's philosophy of ""depicting deep psychology through quiet voices'' can
 
 ## Why is it ranked 82nd?
 
-""Maxinquaye'' is a historical work that deepened trip-hop from the sound of urban culture to an art that depicts the spiritual world of the individual.
+""Maxinquaye'' is a historical work that deepened trip-hop from the sound of urban culture to an art that depicts the spiritual world of individuals.
 
 Its influence spanned alternative R&B, dark pop, electronica, and indie music, and became an important source of introspective pop music in the 21st century.
 
@@ -320,7 +320,7 @@ In this ranking, ""Blue Lines" (19th place) created the genre, and ""Mezzanine" 
 
 ### **"The moment when techno became an art expressing "silence""**
 
-Released in 1998, **Consumed** is a historic work in which Richie Hawtin, aka Plastikman, separated minimal techno from its dance music functions and achieved ""sonic art stripped down to its limits.''
+Consumed, released in 1998, is a historic work in which Richie Hawtin, aka Plastikman, separated minimal techno from its dance music functions and created a "sonic art stripped down to its limits."
 
 The techno of the 1980s sang about the future, and the minimal techno of the early 1990s pursued space through repetition.
 
@@ -348,7 +348,7 @@ However, despite his success, he had doubts.
 
 ""Consumed'' was the answer to that question.
 
-Rather than focusing on functionality as a DJ tool, we sought to create a sense of tension that can only be achieved through the medium of an album.
+Rather than focusing on its functionality as a DJ tool, we sought to create a sense of tension that can only be achieved through the medium of an album.
 
 ---
 
@@ -455,7 +455,7 @@ In this ranking, ""69: The Sound of Music" (76th place) and ""BCD" (79th place) 
 
 ## Music for the Jilted Generation
 
-### **"The moment when rave was carved into history as a 'rebellious culture'"**
+### **"The moment when rave was etched into history as a 'rebellious culture'"**
 
 In 1994, **The Prodigy** released **Music for the Jilted Generation**, a historical work that symbolizes the maturation of rave culture as not just a trend, but a social movement.
 
@@ -559,9 +559,9 @@ Pendulum.
 
 The ""fusion of rock and electronic music" created by these artists cannot be described without ""Music for the Jilted Generation".
 
-The Prodigy also presented a new form of live performance, **playing electronic music as a band** rather than as a DJ.
+The Prodigy also presented a new form of live performance, playing electronic music as a band rather than as a DJ.
 
-This was an important turning point that still applies to today's EDM festivals.
+This was an important turning point that still resonates with today's EDM festivals.
 
 ---
 
@@ -573,7 +573,7 @@ But tensions over state regulation, pressure on youth culture, and the freedom o
 
 Electronic music has now taken on the role of not only singing about the ""future" and ""machines," but also as a response to the real world.
 
-This attitude would be inherited by later electro-punk and rave revivals.
+This attitude was inherited by later electro-punk and rave revivals.
 
 ---
 
@@ -597,7 +597,7 @@ In this ranking, works that formed the early days of house and techno are ranked
 
 ### **"The moment when techno became an album that felt like a full-length novel"**
 
-**Second Toughest in the Infants**, released in 1996, is a historic work in which **Underworld** gave dance music a new value as a ""long-length album.''
+**Second Toughest in the Infants**, released in 1996, is a historical work in which **Underworld** gave dance music a new value as a ""long-length album.''
 
 In the mid-1990s, club culture was developing around singles.
 
@@ -625,7 +625,7 @@ The spatiality of dub.
 
 The drama of rock.
 
-By integrating these elements, we aimed to create an album that would work in a club, but also be immersive at home.
+By integrating these, the aim was to create an album that would work in clubs but also be immersive at home.
 
 The final product was ""Second Toughest in the Infants.''
 
@@ -692,7 +692,7 @@ At this point, electronic music once again approaches ""music to be performed" r
 
 ---
 
-## Re-evaluating the art form of "album"
+## Reevaluating the art form of "album"
 
 Since the late 1990s, electronic music has increasingly been talked about in terms of albums.
 
@@ -778,7 +778,7 @@ The result was not just a quote, but a completely new sonic world.
 
 ## From sampling to "acoustic design"
 
-In Permutation, samples lose their original meaning.
+In Permutation, the sample loses its original meaning.
 
 The horn makes noise.
 
@@ -881,9 +881,9 @@ In this ranking, ""Endtroducing...." (30th place) and ""3 Feet High and Rising" 
 
 ### **"The moment when big beat established a post-rock live culture"**
 
-Released in 1998, **Decksandrumsandrockandroll** is a historical work in which **Propellerheads** elevated big beat from just club music to comprehensive entertainment that crosses rock, hip-hop, film music, and DJ culture.
+Released in 1998, **Decksandrumsandrockandroll** is a historic work in which **Propellerheads** elevated big beat from just club music to a comprehensive entertainment that crosses rock, hip-hop, film music, and DJ culture.
 
-In the late 1990s, big beat was enjoying a global boom in Britain, led by bands such as The Chemical Brothers, Fatboy Slim, and The Prodigy.
+In the late 1990s, big beat was enjoying a worldwide boom in Britain, led by bands such as The Chemical Brothers, Fatboy Slim, and The Prodigy.
 
 But Propellerheads stood out from the crowd.
 
@@ -978,7 +978,7 @@ From the club to the arena.
 
 This is where electronic music grows into a genre that can offer a live experience on par with a rock concert.
 
-This trend would later lead to live performances accompanied by video production by Daft Punk, Justice, The Chemical Brothers, and others.
+This trend led to later live performances with video production by Daft Punk, Justice, The Chemical Brothers, and others.
 
 ---
 
@@ -998,7 +998,7 @@ game.
 
 Its powerful beat and flashy sound permeated throughout pop culture.
 
-""Decksandrumsandrockandroll" is a symbol of this cultural expansion, and showed the possibility that ""electronic music could become the center of popular entertainment."
+""Decksandrumsandrockandroll" is a record that symbolizes this cultural expansion and showed the possibility that ""electronic music could become the center of popular entertainment."
 
 ---
 
@@ -1010,7 +1010,7 @@ Its influence extended to live electronics, visual production, advertising music
 
 In this ranking, ""Music for the Jilted Generation" (84th place) is ranked 87th because it is ranked highly as a work that explains the social significance of rave culture, and ""Homework" (23rd place) is ranked high as a work that was responsible for the structural innovation of French house. However, this is an important album that proves that electronic music can be a ""comprehensive art that can be shown live.''
 
-> **"'Decksandrumsandrockandroll' fuses DJ culture, film music, and rock, elevating electronic music to live entertainment. Due to its historical significance, it is ranked 87th in this ranking."**
+> **"'Decksandrumsandrockandroll' fused DJ culture, film music, and rock, elevating electronic music to live entertainment. Due to its historical significance, it is ranked 87th in this ranking."**
 
 ---
 
@@ -1022,7 +1022,7 @@ In this ranking, ""Music for the Jilted Generation" (84th place) is ranked 87th 
 
 ### **"The moment when IDM regained its "humanity""**
 
-The ""Richard D. James Album", released in 1996, is a historic work in which Richard D. James, also known as ""Aphex Twin", once again brought ""melody" and ""humor" into increasingly complex electronic music.
+The **Richard D. James Album**, released in 1996, is a historical work in which Richard D. James, also known as **Aphex Twin**, once again brought ""melody" and ""humor" into increasingly complex electronic music.
 
 1992's **Selected Ambient Works 85–92** (#20) opened up a new sonic space called ambient techno.
 
@@ -1127,7 +1127,7 @@ Four Tet.
 
 Flying Lotus.
 
-Furthermore, much of the idea of ​​""complexity and familiarity coexisting'' has been inherited from this work, even up to modern Hyperpop.
+Furthermore, much of the idea of ​​""coexistence of complexity and familiarity'' has been inherited from this work, even up to modern Hyperpop.
 
 At this point, electronic music went beyond ""experiment for the sake of experiment'' and became an entity that presented the future of pop music.
 
@@ -1155,7 +1155,7 @@ Its influence spread to glitch pop, experimental pop, Hyperpop, and contemporary
 
 In this ranking, ""Selected Ambient Works 85–92'' (20th place) has a greater influence as a historical turning point for ambient techno, so this work is ranked 88th. However, its historical significance is extremely significant in that it showed the potential for electronic music to reach a wide range of listeners while maintaining a high level of experimentation.
 
-> **"'Richard D. James Album' combines experimentation and melody, leading IDM to a more open music culture. As a work that greatly expanded the possibilities of electronic music, it is ranked 88th in this ranking."**
+> **"'Richard D. James Album' balances experimentation and melody, leading IDM to a more open music culture. As a work that greatly expanded the possibilities of electronic music, it is ranked 88th in this ranking."**
 
 ---
 
@@ -1167,7 +1167,7 @@ In this ranking, ""Selected Ambient Works 85–92'' (20th place) has a greater i
 
 ### **"The moment when rock stepped into the unknown realm of "silence""**
 
-""Laughing Stock", released in 1991, is a historic work in which **Talk Talk** overturned the conventional wisdom of rock music and laid the foundation for a new musical philosophy that would later be called ""post-rock."
+**""Laughing Stock"**, released in 1991, is a historical work in which **Talk Talk** overturned the conventional wisdom of rock music and laid the foundation for a new musical philosophy that would later be called ""post-rock."
 
 In the 1980s, Talk Talk was a synthpop band known for hits such as "It's My Life."
 
@@ -1302,7 +1302,7 @@ The role played by this album is behind the ""courage to reduce the sound'' of m
 
 ## Why is it ranked 89th?
 
-""Laughing Stock" is a historical work that evolved rock music into a time art of silence, improvisation, and editing, and laid the foundation for the new idea of ​​""post-rock."
+""Laughing Stock" is a historical work that evolved rock music into a temporal art of silence, improvisation, and editing, and laid the foundation for the new idea of ​​""post-rock."
 
 Its influence extends not only to post-rock acts such as Bark Psychosis and Tortoise, but also to ambient, electronica, and film music.
 

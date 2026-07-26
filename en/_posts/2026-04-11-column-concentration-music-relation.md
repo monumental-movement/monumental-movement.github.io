@@ -62,7 +62,7 @@ The brain constantly emits electrical rhythms called brain waves. Representative
 
 *Delta waves (0.5-4Hz): deep sleep
 * Theta waves (4-8Hz): meditation/light sleep
-* Alpha waves (8~13Hz): Relaxed state
+* Alpha waves (8-13Hz): Relaxed state
 * Beta waves (13-30Hz): Concentration and alertness
 * Gamma waves (30Hz or higher): Advanced cognitive activity
 
@@ -162,7 +162,7 @@ This is why ambient and minimal music is suitable for working.
 
 ### Repetition and prediction
 
-The human brain is excellent at pattern recognition. Music with a consistent loop structure increases predictability and creates a sense of security. In this state, it is easy to enter a "flow state".
+The human brain is excellent at pattern recognition. Music with a consistent loop structure increases predictability and creates a sense of security. In this state, it is easy to enter a "flow state."
 
 > Good work music is music that makes you feel invisible.
 

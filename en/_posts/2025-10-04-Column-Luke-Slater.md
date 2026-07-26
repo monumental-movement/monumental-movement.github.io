@@ -37,7 +37,7 @@ color: #fff;
 
 ### Early background and musical formation
 
-Luke Slater was introduced to music through the influence of his father, and became a drummer by the time he was 12 years old. In the late 1980s, he rose to prominence as a DJ in London's underground clubs. They made their debut with "Momentary Vision" in 1990 and have since become an indispensable part of the evolution of techno.
+Luke Slater was introduced to music through the influence of his father, and became a drummer by the time he was 12 years old. In the late 1980s, he rose to prominence as a DJ in London's underground clubs. Debuting in 1990 with "Momentary Vision", they have since become an indispensable part of the evolution of techno.
 
 In the 90s, they released ambient to minimal works with Warp and NovaMute, and since the 2000s, they have been strongly connected to Berlin's prestigious club Berghain and the label Ostgut Ton, and have quickly become a representative of the European techno scene.
 
@@ -95,7 +95,7 @@ In contrast to the variety of solo acts and the ambient nature of 7th Plain, PAS
 | Year | Album name | Features | Link |
 | ---- | ---------------------- | ----------------- | ------------------------------------------------ |
 | 1997 | *The Drone Sector* | Early masterpiece with strong industrial colors | [Amazon](https://amzn.to/477xvJn) |
-| 1999 | *Atomic Funkster* | Evolution to Hard Minimal | [Amazon](https://amzn.to/4o7j2TJ) |
+| 1999 | *Atomic Funkster* | Evolution to hard minimal | [Amazon](https://amzn.to/4o7j2TJ) |
 | 2009 | *Temporary Suspension* | Released by Ostgut Ton | [Amazon](https://amzn.to/4nzQeTV) |
 | 2011 | *The Messenger* | Fusion of minimalism and future-oriented | [Amazon](https://amzn.to/3KA1vov) |
 | 2016 | *Arc Angel* | Cosmic expanse and hard beat | [Amazon](https://amzn.to/435hqS7) |
@@ -202,7 +202,7 @@ Under his solo name, he is known for a wide range of works spanning techno, elec
 
 **Position**
 
-Slater is acclaimed as a flexible creator who traverses the scene, balancing the hardness of techno with a pop sensibility.
+Slater is acclaimed as a flexible creator who crosses scenes, balancing the hardness of techno with a pop sensibility.
 It laid the foundation for later aliases such as Planetary Assault Systems and The 7th Plain.
 
 ---

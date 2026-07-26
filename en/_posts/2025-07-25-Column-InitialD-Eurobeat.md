@@ -105,7 +105,7 @@ Eurobeat is being reinterpreted in new ways on TikTok and MAD videos.
 
 As a result, Eurobeat became an unusually ""emotional'' music in Japan. In other words:
 
-Eurobeat is music that speaks of speed, and at the same time, it has become a medium that tells a story of running through something while losing something.
+While Eurobeat is music that speaks of speed, it has also become a medium that tells a story of running through something while losing something.
 
 
 <hr>

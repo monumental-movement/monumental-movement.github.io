@@ -21,9 +21,9 @@ title: '[Column] Indie Shoegaze / Dream Pop'
 Text: mmr｜Theme: About the history of reconstructing sound images and sensations
 
 Shoegaze and dream pop, which emerged mainly in the UK from the late 1980s to the early 1990s, significantly shifted the expressive realm of rock music from ""performance" to ""sound image."
-These musics focus on the space, reverberation, and sensual duration created by overlapping sounds, rather than the immediate appeal of melody or the clear delivery of lyrics.
+These musics focus on the space, reverberation, and sensuous duration created by overlapping sounds, rather than the immediate appeal of melody or the clear delivery of lyrics.
 
-The term "shoegaze" came from the way people looked at the effector boards at their feet while performing, and the term became established as a symbol of the introverted nature of the performance. Dream pop, on the other hand, was formed as a result of the fusion of an earlier ambient pop sensibility with the sonic orientation of post-punk.
+The term "shoegaze" came from the way people looked at the effector board at their feet while performing, and the term became established as a symbol of the introverted nature of the performance. Dream pop, on the other hand, was formed as a result of the fusion of an earlier ambient pop sensibility with the post-punk sonic orientation.
 
 Although the two have different origins, they are closely connected in terms of sound processing, voice handling, and visual sensibilities.
 
@@ -50,7 +50,7 @@ color: #fff;
 ### 1-1. Acoustic sensation after post-punk
 
 In the late 1970s and early 1980s, postpunk deconstructed rock's structure and shifted its attention to timbre, texture, and spatial treatment.
-Synthesizers, reverb, and delay are no longer mere decorations, but function as elements that shape the structure of the song itself.
+Synthesizers, reverb, and delay are no longer mere decorations, but function as elements that form the structure of the song itself.
 
 In this process, the singing voice changed from being the main body telling the story to becoming just a part of the sound.
 
@@ -75,7 +75,7 @@ Delay is used to create overlapping reverberations rather than being synchronize
 
 ### 2-2. Rhythm in the background
 
-The drums and bass don't act as a driving force behind the song, but function as a center of gravity to support the sound image.
+The drums and bass don't act as the driving force behind the song, but function as a center of gravity to support the sound image.
 The tempo is relatively constant, and emphasis is placed on the continuation of a state rather than dramatic development.
 
 ---
@@ -90,7 +90,7 @@ Among them, a group of bands pursuing a more distorted guitar sound and a high-d
 ### 3-2. Introducing My Bloody Valentine
 
 My Bloody Valentine is an icon of shoegaze.
-Their music is not just distortion, but is built on fluctuations in pitch, instability in pitch, and minute shifts.
+Their music is not just distortion, but is constructed from fluctuations in pitch, instability in pitch, and minute shifts.
 
 Kevin Shields uses a unique playing technique using a tremolo arm to create a sound image that continues to shake the entire chord.
 This causes the guitar to lose its percussive attack and acquire a continuous wave-like texture.
@@ -109,7 +109,7 @@ As a result, the clarity of single notes is lost, but a thicker sound mass is fo
 ### 4-2. Vocal placement
 
 The vocals don't come to the fore, but are embedded among the instruments.
-The lyrics are intentionally kept low in discernibility, and the voice functions as part of the melodic instrument.
+Lyrics are intentionally kept low in distinguishability, and the voice functions as part of the melodic instrument.
 
 ---
 
@@ -118,7 +118,7 @@ The lyrics are intentionally kept low in discernibility, and the voice functions
 ### 5-1. Jacket and color
 
 Shoegaze/dream pop artwork is often abstract and blurry.
-The vague outlines, low contrast, and nearly monochromatic colors are strongly linked to the texture of the music.
+The vague outlines, low contrast, and almost monochromatic colors are strongly linked to the texture of the music.
 
 ### 5-2. Music video trends
 
@@ -161,7 +161,7 @@ Indie shoegaze and dream pop transformed music from an object to be listened to 
 It is not a display of skill, but a design of the senses, a comprehensive expression that connects visual and physical sensations.
 
 My Bloody Valentine and Cocteau Twins, in their different directions, showed how far music could be abstracted.
-The sound image they left behind continues to be echoed directly or indirectly in many indie works even today.
+The sound images they left behind continue to be echoed directly or indirectly in many indie works even today.
 
 ["This music never ends. It's always replayed in a different form."]
 
@@ -176,7 +176,7 @@ The establishment of shoegaze and dream pop is closely related not only to perfo
 The development of multi-track recording, outboard effects, and in-studio mixing technology has changed music production from ""recording" to ""construction."
 
 In particular, the method of recording the same part multiple times and layering them creates a sound that is both thick and ambiguous at the same time.
-This technique contributed to both the spatial spaciousness of dream pop and the sonic density of shoegaze.
+This technique contributed to both the spatial breadth of dream pop and the density of sound pressure in shoegaze.
 
 ["The studio began to function as part of the instrument"]
 
@@ -188,7 +188,7 @@ Traditional rock mixes typically place vocals and lead instruments in the foregr
 However, in shoegaze/dream pop, this principle is deliberately broken.
 
 Vocals are embedded in the midrange and treated in the same way as guitar and synthesizer reverberations.
-This arrangement creates the effect of giving the listener a bird's-eye view of the entire sound, rather than focusing their attention on one point.
+This arrangement produces the effect of giving the listener a bird's-eye view of the entire sound, rather than concentrating their attention on one point.
 
 ["Obfuscating what is the main character is itself a musical intention"]
 
@@ -261,7 +261,7 @@ This is an attempt to ensure visual anonymity similar to music.
 ### E-1. Succession to the late 1990s and beyond
 
 Even after shoegaze and dream pop temporarily lost commercial attention, their techniques continued underground.
-The emphasis on sound images is being reinterpreted in alternative rock, post-rock, and ambient pop.
+The emphasis on sound image is being reinterpreted in alternative rock, post-rock, and ambient pop.
 
 ---
 
@@ -284,5 +284,14 @@ This extended shoegaze-like layering and dream-pop spatial processing to a small
 | Worldview | Sealing/Compression | Diffusion/Floating |
 
 Although they share the same method, they have reached different directions.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KI7dk_T_2Ss?si=SnmFCsXt3sdtq1yH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

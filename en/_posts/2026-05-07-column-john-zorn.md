@@ -55,7 +55,7 @@ From the late 1970s to the 1980s, Zorn was heavily involved in New York's downto
 
 Particularly influential were the ideas of radical musicians such as Ornette Coleman and John Cage. Improvisation, chance, and the deconstruction of structure. These had a direct influence on Zorn's compositional method.
 
-In this environment, Zorn established a unique composition method called "game piece". This is a method of controlling performance based on rules rather than musical scores, and the real-time decisions of the performers shape the music.
+In this environment, Zorn established his own composition method called "game piece." This is a method of controlling performance based on rules rather than musical scores, and the real-time decisions of the performers shape the music.
 
 His masterpiece ""Cobra'' is a symbol of this, in which Zorn, who plays the role of a conductor, gives instructions to the performers using cards and gestures, creating both improvisation and structure at the same time.
 

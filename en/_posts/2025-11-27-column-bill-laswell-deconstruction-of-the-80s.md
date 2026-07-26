@@ -27,7 +27,7 @@ Because of his diversity, it was not easy to get a bird's-eye view of his activi
 However, with the compilation album Deconstruction of the 80s, things changed completely. This album is a compilation of the multi-genre and multi-project sound sources that Laswell was involved in in the 1980s, remastered and reconstructed.
 In other words, it can be said that this compilation itself appeared as a ""completed form of deconstruction and reconstruction.''
 
-This article focuses on the recordings of this album and projects from that time, and follows the facts of how Bill Laswell & Friends deconstructed and reorganized the acoustics of the 1980s.
+This article focuses on the recordings from this album and projects from that time, and follows the facts of how Bill Laswell & Friends deconstructed and reorganized the acoustics of the 1980s.
 By looking at the whole picture, we can for the first time understand the meaning of the phrase "Deconstruction of the 80s" from both a sonic and cultural perspective.
 
 

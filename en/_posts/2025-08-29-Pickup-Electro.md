@@ -21,7 +21,7 @@ title: Pick up electro works
 ### Afrika Bambaataa & The Soulsonic Force – Planet Rock
 <a href="https://jp.mercari.com/item/m43312143517?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20&%20The%20Soulsonic%20Force%20%E2%80%93%20Planet%20Rock.webp"></a>
 
-Point: A historical masterpiece that can be said to be the cornerstone of electro. A song that bridges hip-hop and dance music with a synthesizer riff and vocal sample. This work is still talked about today as ""futuristic hip-hop'' that flourished along with breakdance culture.
+Point: A historical masterpiece that can be said to be the cornerstone of electro. A song that bridges hip-hop and dance music with a synthesizer riff and vocal sample. This work is still talked about as "futuristic hip-hop" that flourished along with breakdance culture.
 
 Attraction: Origins of electro, futuristic hip-hop
 
@@ -98,7 +98,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-Point: "Side B" is a dark song with a particularly strong electro feel. A ""mechanical tension'' wafts through the tranquil atmosphere, drawing you into a cool yet profound world view.
+Points: "Side B" is a dark song with a particularly strong electro feel. A ""mechanical tension'' wafts through the tranquil atmosphere, drawing you into a cool and profound world view.
 
 Charm: Dark and tense electro
 

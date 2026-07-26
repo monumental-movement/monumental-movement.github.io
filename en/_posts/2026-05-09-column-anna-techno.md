@@ -103,7 +103,7 @@ Such an approach shows that techno is expanding from mere functional music to ar
 
 ANNA soon began performing at major festivals around the world. Its name spread not only in Europe but also in North America and Asia.
 
-Particularly at large festivals, the ability to maximize the energy of the floor in a short period of time is required. ANNA has succeeded in meeting these demands while maintaining her own musical style.
+Particularly at large festivals, the ability to maximize the energy of the floor in a short amount of time is required. ANNA has succeeded in meeting these demands while maintaining her own musical style.
 
 Her sets are not just a series of peaks, but are constructed as stories with slow and slow paces. Therefore, the audience will experience not just a dance experience, but a kind of musical journey.
 

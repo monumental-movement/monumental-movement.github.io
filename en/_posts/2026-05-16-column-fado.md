@@ -91,9 +91,9 @@ However, that prosperity was always accompanied by separation.
 
 It was not uncommon for sailors to go to sea and not return.
 
-The families, lovers, and wives left behind lived their lives waiting for their return.
+The families, lovers, and wives left behind lived their lives while waiting for their return.
 
-The sea, which frequently appears in fado, is not a romantic symbol, but a reality where life and death are adjacent.
+The sea, which frequently appears in fado, is not a romantic symbol, but rather a reality where life and death are adjacent.
 
 Lisbon also had a cultural mix due to African people and people coming and going from Brazil.
 
@@ -188,7 +188,7 @@ B --> E[saudade expression]
 E --> F[sharing with audience]
 </div>
 
-In a Fado performance space, emotional density takes precedence over flashiness.
+In a fado performance space, emotional density takes precedence over flashiness.
 
 > Fado has functioned more as a "space to sink into one's emotions" than as "music to listen to."
 
@@ -257,7 +257,7 @@ Fado, which had previously been seen as a part of downtown culture, was redefine
 
 While preserving traditional fado, she enhanced her poetic expression and stage artistry.
 
-They also actively performed overseas and received high acclaim in Europe, South America, and Japan.
+They also actively performed overseas and received high praise in Europe, South America, and Japan.
 
 Through her, Fado changes from a ""Portuguese domestic folk song" to a ""global cultural expression."
 
@@ -343,7 +343,7 @@ The revolution did not erase fado.
 
 ## Modern fado reproduction
 
-### Generations after Mariza
+### Generations after Marisa
 
 From the late 1990s to the 2000s, Fado once again attracted worldwide attention.
 
@@ -390,7 +390,7 @@ Modern fado is not just about preservation.
 
 ## Fado and literature
 
-### Portugal, the country of poetry
+### Portugal, the land of poetry
 
 Poetry occupies a very important place in Portuguese culture.
 
@@ -416,7 +416,7 @@ A bar at night, quiet seating, dim lighting.
 
 Demonstrate maximum strength in such an environment.
 
-In Lisbon's old town, not only tourists but also locals head to the fado houses at night.
+At night in Lisbon's old town, not only tourists but also locals head to the fado houses.
 
 There, people not only listen to music, but also share ""city time'' itself.
 
@@ -453,7 +453,7 @@ Among these, Fado functions as an important tourist content.
 
 Commercialization has also progressed, with fado shows attached to restaurants, short performances for tourists, and collaboration with cruise tours.
 
-There is also criticism that ""the original Fado spirit is lost.''
+There is also criticism that ""the original Fado spirit is lost''.
 
 However, on the other hand, the reality is that tourism has helped maintain performance spaces, allowing many young singers to continue their careers.
 
@@ -570,7 +570,7 @@ Don't resolve your feelings immediately.
 
 Don't just provide excitement.
 
-Rather, they accept the contradictions and sense of loss that humans face as they are.
+Rather, he accepts the contradictions and sense of loss that humans face as they are.
 
 That is why it continues to have a certain level of support even today.
 

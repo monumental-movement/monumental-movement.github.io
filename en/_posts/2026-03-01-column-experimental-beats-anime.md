@@ -44,7 +44,7 @@ color: #fff;
 Experimental Beats × Anime Soundtrack refers to the phenomenon in which music that incorporates electronic acoustics, avant-garde percussion instrumentation, non-homogeneous rhythm structures, and sampling culture functions as the accompaniment, theme song, and insert song for animation works.
 
 This does not simply mean "using electronic music."
-The essence is that the construction of the rhythm itself is linked to video editing, camera work, and world setting.
+The essence is that the construction of the rhythm itself is linked to video editing, camera work, and worldview setting.
 
 ### Main features
 
@@ -68,7 +68,7 @@ The layered polyrhythms, emphasis on overtones, and collective chorus symbolical
 
 Unlike conventional symphonic accompaniment, it is important that the rhythm has a structure that "propels" the image.
 
-> In the late 1980s, anime moved away from its orchestral focus and began to transform into a field for sonic experimentation.
+> In the late 1980s, anime began to move away from its orchestral focus and transform into a field for sonic experimentation.
 
 ---
 

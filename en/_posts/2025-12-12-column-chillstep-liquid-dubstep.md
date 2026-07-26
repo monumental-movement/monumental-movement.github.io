@@ -79,7 +79,7 @@ The symbol of Chillstep is "smooth sub-bass."
 
 * Sine wave center
 * Adjust warmth with slight distortion (soft clipping)
-* Produce breathing-like fluctuation with light LFO (1/4, 1/8, etc.)
+* Produce breathing-like fluctuations with light LFO (1/4, 1/8, etc.)
 * Add emotion through volume changes without using excessive filter modulation
 
 ### 2-3 Melody and synth design
@@ -128,7 +128,7 @@ Blackmill's style became the template for Chillstep and created a large followin
 ### Blackmill style production process
 
 1. Create a chord progression on the piano (such as a simple I–V–vi–IV type)
-2. Layer the strings and set the attack to be slow
+2. Layer the strings and set the attack slowly
 3. Generate high frequency lead with analog style soft synth
 4. Create a sub-bass with a sine wave and lightly shake it with a 1/4 LFO
 5. Drums are modest, kicks are deep and short
@@ -272,7 +272,7 @@ flowchart TD
 
 ## 8. Current status and future prospects of the genre
 
-Chillstep/Liquid Dubstep is not just an offshoot of dubstep, but a typical example of how the internet and visual culture have shaped a musical genre. Even in the 2020s, it has smoothly integrated with genres such as lo-fi culture, ambient, melodic bass, and future garage, and has been widely accepted as a form of "quiet electronic."
+Chillstep/Liquid Dubstep is not just an offshoot of dubstep, but a representative case of the internet and visual culture forming a musical genre. Even in the 2020s, it has smoothly integrated with genres such as lo-fi culture, ambient, melodic bass, and future garage, and has been widely accepted as a form of "quiet electronic."
 
 Additionally, the following trends have been observed in recent years.
 

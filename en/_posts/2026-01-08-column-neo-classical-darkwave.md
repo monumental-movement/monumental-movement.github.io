@@ -80,7 +80,7 @@ The tempo is mostly medium to low, and even if the rhythm is clear, the driving 
 String instruments, piano, chorus, and percussion instruments play a central role, and electronics are often used in a supporting role. The reverberation and spatial arrangement of live instruments are important elements of acoustic design.
 
 
-> The musical structure is concise, while the emphasis is on timbre and spatial processing.
+> The musical structure is simple, while the emphasis is on timbre and spatial processing.
 
 ---
 

@@ -42,7 +42,7 @@ color: #fff;
 
 ## Assumption of anonymity: The question of who is playing?
 
-The biggest feature of the Clown Core is that its true identity has not been made clear for a long time. There have been various speculations about the members, including a saxophonist active in the jazz scene and a drummer known for experimental music and funk. However, the project itself is designed to avoid fixating on any particular figure.
+The biggest feature of Clown Core is that its true identity has not been made clear for a long time. There have been various speculations about the members, including a saxophonist active in the jazz scene and a drummer known for experimental music and funk. However, the project itself is designed to avoid fixating on any particular figure.
 This anonymity is not just a mystery, but rather built into the structure of the work itself. The clown mask that hides the face functions as a device that shifts the gaze from ""who is playing" to ""what is being played."
 The lack of interviews or explanatory text also strengthens its structure. Music is not spoken of, but suddenly appears and disappears.
 
@@ -81,7 +81,7 @@ In the images of the van, mobility and occlusion exist at the same time. The out
 
 Clown Core gained recognition not through the traditional distribution structure of the music industry, but through fragmentary dissemination on the Internet. Rather than units such as albums or singles, the focus is on short units such as videos.
 This format is strongly associated with modern viewing environments. Users stumble upon the video by chance and are shocked before they can understand it. This is followed by a reversed order of searching for information.
-Comment culture and memetic spread also play an important role. The Clown Core is something that is shared before it is explained, and its meaning is always an afterthought.
+Comment culture and memetic spread also play an important role. The Clown Core is something that is shared before it is explained, and its meaning is always added later.
 
 > Clown Core incorporates the very contingency of the Internet into its structure.
 
@@ -116,7 +116,7 @@ timeline
 
 Clown Core is more than just a musical project, it functions as a question of the form of expression itself. Performance techniques, space, anonymity, video, and internet culture. All of these are treated in the same way, dismantling the traditional framework of a "musical work."
 Here, the momentary emergence and disappearance are more important than the concept of a completed work. The priority is to remain as a shock rather than being understood.
-This attitude is also a response to today's excessive information environment. In a world where the next stimulus comes before the meaning can be explained, Clown Core directly converts "incomprehensibility" into value.
+This attitude is also a response to today's excessive information environment. In a world where the next stimulus arrives before the meaning can be explained, Clown Core directly converts ""incomprehensibility'' into value.
 
 > Clown Core is a structure that presents music as an excess of experience rather than explanation.
 

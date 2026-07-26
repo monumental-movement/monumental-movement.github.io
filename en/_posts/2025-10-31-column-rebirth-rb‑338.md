@@ -51,7 +51,7 @@ However, handling the TB-303 required unique habits and skill in setting the num
 
 ### TR‑808/TR‑909 and standard rhythm equipment
 Around the same time, the TR‑808 (early 1980s) and TR‑909 (mid 1980s) were gaining acclaim as rhythm machines. In particular, the 808"s "boom-bon" kick sound, snap, and sharp hi-hat, and the 909"s punchy kick and cymbal sound have become standard tones in house, techno, and hip-hop.
-However, these devices also had problems, and there were practical constraints such as maintenance, repair, sound stability, and transportation, which posed hurdles to their use.
+However, these equipment also had problems, and there were practical constraints such as maintenance, repair, sound stability, and transportation, which posed hurdles to their use.
 
 ### Signs of changes in the production environment
 In the 1990s, the performance of personal computers (PC/Mac) gradually improved, and MIDI/sequencer software/samplers began to become popular. As a result, an environment in which ""creating music on a computer'' was gradually becoming established.
@@ -150,9 +150,9 @@ After ReBirth's support ended, its ideas and functionality were inherited by oth
 On the other hand, several years after the mobile version was released, it was also removed from the App Store due to IP rights/trademark issues. This incident once again demonstrated that software-based equipment touches the "boundary of intellectual property."
 
 ### "The End" and its reading
-Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
+Although the software called ReBirth did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
+- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 
@@ -167,7 +167,7 @@ By looking back at ReBirth, we can once again remember the idea that "anyone can
 
 ### From "ownership" to "access", from hardware to software
 Before ReBirth, it can be said that the model of production equipment = ownership was strong. Having the equipment was also a status, and it was also the first condition for the production environment. ReBirth has rewritten this into the form of "software purchase" and created a background where "ownership" itself becomes relativized.
-Today, subscription/cloud sharing/rental music tools are commonplace. The door that ReBirth opened can be seen as a "starting point" in this flow.
+Today, subscription/cloud sharing/rental music tools have become commonplace. The door that ReBirth opened can be seen as a "starting point" in this flow.
 
 ### Re-evaluating the "taste/habit" of hardware equipment
 On the other hand, as software advances, things tend to be lost, such as the physical quirks, noise, distortion, and operational feel inherent in hardware equipment. In fact, ReBirth's emulation has been criticized for not being able to fully reproduce the distortions and quirks of the real TB‑303.
@@ -199,7 +199,7 @@ Below is a summary of the major chronology of ReBirth and the technological/cult
 
 ## In conclusion: "Possibilities" shown by ReBirth and future trends in music/technology
 Looking back, ReBirth was more than just a "software synthesizer"; it was an event that changed the very nature of music production.
-It reconsidered the concept of ""equipment ownership, physical constraints, and high costs," and presented a new horizon of ""sound creation that can be accessed through software + easy operability + a base for creators (PC)."
+It reconsidered the concept of "equipment ownership, physical constraints, and high costs," and presented a new horizon of "software-accessible sound creation + easy operability + creator base (PC)."
 Today, we accept the cloud/subscription plugin/mobile audio environment as ""just the way it is''. However, we must not forget the fact that behind this "normal" thing, there were "pioneers" like ReBirth.
 
 At the same time, there are things to relearn from ReBirth. The problem is that while the ease and accessibility of analog equipment has increased, the unique value of analog equipment, such as its quirks, physical sensations, and operability, has become less important. ReBirth is a tool that embodies this gap.

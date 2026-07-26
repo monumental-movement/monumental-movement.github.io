@@ -66,7 +66,7 @@ The party was essentially "non-commercial" and the admission fee was vague. Ther
 
 The biggest feature of his play is the length of his sets.
 
-His sets lasted eight, 10, and even 24 hours, whereas the average club DJ's rotations lasted one to two hours. At certain parties, he would sometimes play alone from the night until the evening of the next day.
+His sets lasted eight, 10, and sometimes 24 hours, whereas the average club DJ's rotations lasted one to two hours. At certain parties, he would sometimes play alone from the night until the evening of the next day.
 
 The composition has clear phases.
 

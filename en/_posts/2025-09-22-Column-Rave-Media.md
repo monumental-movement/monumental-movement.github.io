@@ -52,7 +52,7 @@ Legal risks (illegal parties and drug problems)
 
 Rebellion against commercialism (not "music that sells")
 
-The "physical experience" at that moment is everything (realized from records)
+The "physical experience" of that moment is everything (actual experience from records)
 
 In other words, the rave was "live" in every sense of the word. It was aesthetics and politics to distance yourself from the media.
 
@@ -78,7 +78,7 @@ Rave was not a sound source or score, but a phenomenon itself. Therefore, such r
 
 ### Who archives? Media deterioration
 
-**● Spontaneous archive from the underground**
+**● Spontaneous Archives from the Underground**
 
 Since the 2000s, the following attempts have begun around the world.
 
@@ -117,7 +117,7 @@ Archive of past footage of Shibuya WOMB and ageHa
 
 **Aggressive archiving is underway overseas**
 
-Established in 2007, "[**Rave Archive**](https://ravearchive.com)" is an archive that preserves and shares memories of 90s rave culture. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
+Established in 2007, "[**Rave Archive**](https://ravearchive.com)" is an archive that preserves and shares memories of rave culture in the 90s. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
 
 
 Don't miss the Archive of Old Rave Flyers from 1989-2000 from across the U.S. and Canada.
@@ -137,7 +137,7 @@ Many of the archives we rely on today are "unauthorized."
 
 - Anonymous user memory-based setlists
 
-However, this is also the most vivid means of preserving the ""reality of the place'' at rave. Rather than institutionalized cultural heritage, a collection of "fragments of memories" pulsating underground is now becoming a single "cultural heritage."
+However, this is also the most vivid means of preserving the ""reality of the place'' at rave. Rather than institutionalized cultural heritage, a collection of "memory fragments" pulsating underground is now becoming a single "cultural heritage."
 
 ---
 
@@ -166,7 +166,7 @@ However, the accumulation of memories, fragments, reinterpretations, and "passio
 
 🔗 [[Column] Acid House: Chemical reactions of sound and cultural transformation](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[Column] Psy-Trance history, masterpieces, and 10 recommended tracks](https://monumental-movement.jp/Column-Psy-Trance)
+🔗 [[Column] History of Psy-Trance (psychedelic trance), masterpieces, and 10 recommended tracks](https://monumental-movement.jp/Column-Psy-Trance)
 
 🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 

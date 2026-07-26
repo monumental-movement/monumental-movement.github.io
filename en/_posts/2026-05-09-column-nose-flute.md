@@ -22,11 +22,11 @@ Text: mmr | Theme: The nasal flute of the Igorot people who live in the mountain
 
 The Cordillera region is located in the mountainous region of Luzon Island in the northern part of the Philippines. The Igorot people who live in this area have built their own culture along with the steep rice terraces. Among them, an instrument called the ""nose flute'' has a unique presence.
 
-A nasal flute is a wind instrument that produces sound by blowing air through the nose, and has a fundamentally different principle of sound than a typical flute played with the mouth. This musical instrument is not just a sound device, but has long functioned as a means of mediating emotions and social relationships.
+A nasal flute is a wind instrument that produces sound by blowing air through the nose, and has a fundamentally different principle of sound than a typical flute, which is played with the mouth. This musical instrument is not just a sound device, but has long functioned as a means of mediating emotions and social relationships.
 
 Sounds are more ambiguous than words, but they leave a strong impression on your mind. For the Igorots, the sound of the nasal flute is considered a part of nature, just like the wind in the mountains or the flow of water.
 
-> The nasal flute is not something to be played, but a sound made by breathing.
+> The nasal flute is not a ""thing to be played" but a ""sound produced by breathing."
 
 ---
 
@@ -49,7 +49,7 @@ color: #fff;
 
 Igorots are not a single ethnic group, but a collective term for multiple ethnic groups living in the Cordillera region. Representative groups include Ifugao, Bontoc, and Kalinga.
 
-Their society has long developed under geographical conditions that make them less susceptible to external influences. While the steep mountains and terraced fields prevented foreign invasion, they also served as the foundation for maintaining a unique cultural system.
+Their society has long developed under geographical conditions that make them less susceptible to external influences. While the steep mountains and terraced fields served as a defense against invasion by foreign invaders, they also served as the basis for maintaining a unique cultural system.
 
 Music has also adapted to this environment. In contrast to the strong percussion culture (gong), the nasal flute is a very personal and reflective music. This shows the dual structure of sounds that go outside the community and sounds that go inside.
 
@@ -91,11 +91,11 @@ The scale of the nasal flute is limited, and it does not have the complex harmon
 
 It often uses short repetitions of phrases and subtle changes in pitch. This has a continuity close to that of natural sounds, and has acoustic characteristics that blend in with the mountain environment.
 
-The melodies are improvisational, and are more like ""sounds born on the spot'' than fixed pieces of music. This is a typical feature of music in oral culture.
+The melodies are improvisational, and are more like "sounds born on the spot" than fixed pieces of music. This is a typical feature of music in oral culture.
 
 Music is not recorded; it exists in the moment and disappears. That fragility is part of the charm of the nasal flute.
 
-> The melody of the nasal flute is not something that can be reproduced, but is a one-time sound that is created and then disappears on the spot.
+> The melody of the nasal flute is not something that is reproduced, but is a one-time sound that is created and then disappears on the spot.
 
 ---
 

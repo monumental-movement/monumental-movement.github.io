@@ -17,7 +17,7 @@ title: '[Column] How did the music movement originating from the Discord communi
 ## Introduction
 
 
-Text: mmr | Theme: The music culture born from the Discord community follows in the footsteps of forming a global "new underground scene" through anonymity and high-speed communication.
+Text: mmr｜Theme: The music culture born from the Discord community follows in the footsteps of forming a global "new underground scene" through anonymity and high-speed communication
 
 ### New music history starting from the server
 
@@ -76,11 +76,11 @@ In the 2010s, SoundCloud formed the next generation of indie music scene.
 A lot of DIY music spread from SoundCloud, including cloud rap, lo-fi hip hop, and bedroom pop.
 
 However, SoundCloud was primarily a "public" place.
-It was a space for uploading completed works, and the community nature of the production process was limited.
+It was a space for uploading completed works, and the community aspect of the production process was limited.
 
 That's where Discord became important.
 
-Discord wasn't a place to display completed works, it was a place for unfinished ideas to circulate.
+Discord wasn't a place to display completed works, but a place to circulate unfinished ideas.
 Beat in progress.
 Loop for a few seconds.
 Temporary mix.
@@ -101,7 +101,7 @@ Home recording, low budget microphones, free DAWs, YouTube tutorials.
 The Discord generation exists as an extension of this DIY environment.
 
 However, the Discord generation had an even higher density of "co-production."
-Dozens of creators share beats and melodies simultaneously on one server, forming trends in a short amount of time.
+On one server, dozens of creators share beats and melodies simultaneously, forming trends in a short amount of time.
 
 This was faster than the urban scene and more closed than social media.
 
@@ -224,7 +224,7 @@ Short composition.
 
 Many of them were made by teenage creators.
 
-While the Bedroom Pop generation popularized ""home recording", the Digicore generation has made ""internet collaboration" the norm.
+While the Bedroom Pop generation popularized ""home-recording," the Digicore generation has made ""internet collaboration" the norm.
 
 For them, music production is not a solitary creation.
 It was a collaborative work that took place in an always-online conversation space.
@@ -238,7 +238,7 @@ Producers, vocalists, art staff, and video staff collaborate fluidly.
 
 This structure differs from traditional "fixed bands."
 
-Rather, it's closer to hip-hop crews and anonymous bulletin board culture in the Internet era.
+Rather, it's closer to hip-hop crews and anonymous bulletin board culture in the internet age.
 Members changed frequently and project names were in flux.
 
 ### Connection with TikTok
@@ -276,7 +276,7 @@ Collaborative coordination.
 Visual sharing.
 Promotion.
 
-These activities began to take place within the community.
+These things are now being done within the community.
 
 ### Tutorial Culture
 
@@ -296,7 +296,7 @@ On the other hand, there were gray areas such as plug-in sharing and unofficial 
 
 Particularly in communities with many young creators, access to expensive software was often not possible.
 
-As a result, a production environment was sometimes constructed as an extension of the piracy culture that has continued since the early days of the Internet.
+As a result, a production environment was sometimes created that was an extension of the piracy culture that had continued since the early days of the Internet.
 
 This is also the complicated reality of online music culture.
 
@@ -344,7 +344,7 @@ Anonymous emotion sharing.
 
 This online living environment is also behind the increase in introspective themes around Digicore and Emo Rap.
 
-> During the pandemic, the Discord community was both a space for creation and a space for emotional sharing.
+> The Discord community during the pandemic was both a space for creation and a space for sharing emotions.
 
 ---
 
@@ -352,7 +352,7 @@ This online living environment is also behind the increase in introspective them
 
 ### Genre name generation speed
 
-Genres in the Internet era proliferate at an extremely rapid rate.
+Genres in the Internet era proliferate at an extremely fast rate.
 
 A new name is born only within a Discord server of several hundred people.
 It is then spread on TikTok and SoundCloud.
@@ -364,7 +364,7 @@ However, in the Discord era, the community itself generates the name.
 
 Terms like Digicore and HexD often don't have strict definitions.
 
-However, even within the community, a sense of common sense is established.
+However, there is still a sense of shared feeling within the community.
 
 This is close to the early days of club culture.
 In the beginning, house and techno were more about sharing a sense than having a clear definition.
@@ -459,7 +459,7 @@ Listeners have become more connected to "online presence" than "personality."
 
 ### Closedness
 
-The Discord community also has a strong sense of insularity.
+The Discord community also has a strong closed nature.
 
 Invitation-only server.
 Internal meme.
@@ -491,7 +491,7 @@ When Discord culture achieves commercial success, it also loses its "underground
 
 Within the community, there was quite a bit of backlash against becoming a major player.
 
->While the Discord community has strong creativity, it also suffers from insularity and rapid consumption.
+> While the Discord community has strong creativity, it also suffers from insularity and rapid consumption.
 
 ---
 
@@ -534,7 +534,7 @@ graph TD
     J --> K[Streaming Platforms]
 </div>
 
-> In the Discord community, production, criticism, and dissemination proceeded simultaneously in a single space.
+> In the Discord community, production, criticism, and dissemination proceeded simultaneously within a single space.
 
 ---
 
@@ -564,7 +564,7 @@ Local city.
 abroad.
 Minor.
 
-Discord communities are now allowing people who would otherwise have difficulty connecting to the music industry to access the world.
+People who would otherwise have difficulty connecting to the music industry now have access to the world through Discord communities.
 
 ### Shared culture "in the middle"
 
@@ -609,7 +609,7 @@ Detroit.
 
 However, since the 2020s, that map has changed significantly.
 
-Young creators gather on Discord servers before clubs, open voice chats before studios, and post on TikTok before live houses.
+Young creators gather on Discord servers before clubs, open voice chats before studios, and post to TikTok before live houses.
 
 There, genres, friendships, and trends emerge and disappear at extreme speed.
 

@@ -52,7 +52,7 @@ In the field of 2025, these will dissolve the boundaries between professionals a
 
 #### AI "makes sounds", humans "choose meanings"
 
-For example, electronica artist Arca treats AI sound as a material and combines it with his own real voice. What she does is ""context design that asks why you should choose one out of the countless possibilities created by AI.''
+For example, electronica artist Arca uses AI sound as a material and combines it with his own real voice. What she does is ""contextual design that asks why we choose one out of the countless possibilities created by AI.''
 Similarly, James Blake from the UK created an album [""Playing Robots Into Heaven" (2024)] (https://amzn.to/3L1hE6D) with the theme of ""human fragility" while treating AI as a ""co-author.''
 
 What these examples show is that AI is becoming less of a ""creator of sound" and more of a ""mirror that highlights what people choose."
@@ -63,7 +63,7 @@ Precisely because the tools are open to everyone, what is being questioned is th
 ### Chapter 2: Nostalgia and sound images surrounding "the future of the past"
 
 The "2000s throwback" is causing big waves in the music scene, especially on TikTok.
-Songs from Avril Lavigne and The Killers are going viral again, and at the same time young artists are reinventing the "Y2K aesthetic."
+Songs from Avril Lavigne and The Killers are going viral again, while young artists are reinventing the Y2K aesthetic.
 
 #### Recycling and reinventing 2000s sounds
 
@@ -73,12 +73,12 @@ In Japan, Wednesday Campanella is reconstructing the lightness of '00s J-Pop wit
 These ""retro-futuristic" music function between ""nostalgia" and ""current irony.''
 In other words, we are re-enacting the ""future of those days"' using today"s technology and sensibilities.
 
-#### Towards "Nostalgia that does not imitate oldness"
+#### Towards "nostalgia that does not imitate oldness"
 
 What is important here is the attitude of ""re-editing rather than imitation.''
 As exemplified by playlists such as ""Retro-Future Pop" and ""Y2K Wave" on Spotify, current nostalgia brings the ""sound texture" to the past, but the ""production context" is modern.
 For example, Charli XCX's ""BRAT'' (2024) samples 90s club culture while also exploring the theme of post-internet self-consciousness.
-Her "method of turning past sounds into material" can be said to be sampling the history of music itself.
+Her ""method of turning past sounds into materials'' can be said to be sampling the history of music itself.
 
 ---
 
@@ -108,9 +108,9 @@ The culture of live streaming, which has spread due to the coronavirus pandemic,
 
 #### From Metaverse to "Augmented Reality"
 
-Travis Scott's ""Utopia Experience" in 2024 combined a real venue and AR projection to create a ""live experience that the audience can experience spatially."
+Travis Scott's ""Utopia Experience" in 2024 combined a real venue and AR projection to create a ""live spatial experience" for the audience.
 In Japan, Perfume also incorporated AR production to show fans an "alternate reality stage" through their smartphones.
-The value of a live performance has shifted to how much you can design the ""memories of the place" and ""shared moments."
+The value of a live performance has shifted to how much you can design ""memories of the place" and ""shared moments."
 
 #### Community in the Fan Direct era
 
@@ -174,11 +174,11 @@ What we need now is--
 
 - It"s not about what genre it is, it"s about what kind of moment it creates.
 
-- How do we update the emotional resonance rather than technological evolution?
+- Rather than advancing technology, the question is how to update the emotional resonance.
 
 The music of 2025 is asking us all that question.
 And the answer is not AI or algorithms.
-It quietly exists in ""listening''.
+It exists quietly in ""listening''.
 
 ---
 

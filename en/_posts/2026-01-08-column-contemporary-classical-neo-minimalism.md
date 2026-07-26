@@ -17,7 +17,7 @@ title: '[Column] Contemporary Classical / Neo-minimalism A new wave of contempor
 
 ## Introduction: Modern Classical/Neo-Minimalism Trend
 
-Text: mmr｜Theme: About this trend, based on facts such as composition techniques, production environment, and institutional background, rather than trends or emotional evaluations.
+Text: mmr｜Theme: This trend is based on facts such as composition techniques, production environments, and institutional backgrounds, rather than trends or emotional evaluations.
 
 
 Classical music since the latter half of the 20th century has branched out in a variety of directions through experiments with atonality, aleatorism, and electronic music. In the 21st century, a trend that emphasizes ""tonality," ""repetition," ""tranquility," and ""the listening experience itself" has once again gained international attention. This is the area generally referred to as Contemporary Classical or Neo-Minimalism.
@@ -45,7 +45,7 @@ color: #fff;
 
 ### The establishment of 20th century minimalism
 
-Established in the United States in the 1960s by La Monte Young, Terry Riley, Steve Reich, and Philip Glass, minimalism was characterized by short repetitions, gradual changes, and clear metrical structures. This is understood as a reaction to the celery music of the time and the increasingly complex avant-garde music.
+Established in 1960s America by La Monte Young, Terry Riley, Steve Reich, and Philip Glass, minimalism was characterized by short repetitions, gradual changes, and clear metrical structures. This is understood as a reaction to the celery music of the time and the increasingly complex avant-garde music.
 
 Minimalism eventually influenced opera, film music, and dance music, and became institutionally accepted in classical music in the second half of the 20th century.
 
@@ -83,7 +83,7 @@ Repetitions may maintain complete identity, or they may involve subtle changes i
 
 ### Tonality and harmony
 
-Many composers maintain a clear tonal center, but do not assume a functional harmonic progression. The emphasis is on the sustaining and overlapping chord resonances rather than the resolution to the tonic. Triads, addition chords, and open perfect fifth structures are frequently used.
+Many composers maintain a clear tonal center, but do not assume a functional harmonic progression. The emphasis is on the persistence and overlap of the chords rather than the resolution to the tonic. Triads, addition chords, and open perfect fifth structures are frequently used.
 
 This harmonic processing is not a reproduction of 19th century Romanticism, but can be understood as a choice to ensure acoustic stability.
 
@@ -169,7 +169,7 @@ Post-recording editing, looping, and dynamics adjustments define the structure o
 
 ### Prerequisites for personal hearing
 
-Much of contemporary classical/neo-minimalism is premised on personal listening through headphones or small speakers rather than in a concert hall. This is because minute changes in volume and reverberation have important meaning.
+Much of contemporary classical/neo-minimalism is intended for personal listening through headphones or small speakers rather than in a concert hall. This is because minute changes in volume and reverberation have important meaning.
 
 ### Space and music
 
