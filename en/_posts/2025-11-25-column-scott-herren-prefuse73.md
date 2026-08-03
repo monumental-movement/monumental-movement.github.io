@@ -39,7 +39,7 @@ color: #fff;
 
 # Early life and background
 
-Guillermo Scott Herren was born in 1976 in Miami, Florida, USA. Her father is from Catalonia and her mother is of Irish and Cuban descent, so she grew up in a multicultural environment from an early age. He was trained in music by his mother and has been familiar with several instruments including the piano.
+Guillermo Scott Herren was born in 1976 in Miami, Florida, USA. Her father is from Catalonia and her mother is of Irish and Cuban descent, and she grew up in a multicultural environment from an early age. He was trained in music by his mother and has been familiar with several instruments including the piano.
 
 As a boy, he became interested in hip-hop, punk, and electronic music, and was influenced by the music scene in his hometown of Miami. He started DJing as a teenager, playing nightclubs in Atlanta, and got involved in music production and performance from an early age. Through his experience in the studio, he honed his sonic experiments and sampling techniques.
 
@@ -63,7 +63,7 @@ Around 2000, the project started under the alias **Savath & Savalas**.
 
 In 2004, he released *Apropa"t*. Reflecting Spanish/Catalan vocals, post-rock and Latin influences, they pursued a musical expression different from Prefuse 73.
 
-This project is positioned as another form of his self-expression, and shows his multifaceted musical activities, including the relationship with Prefuse 73's experimental nature.
+This project is positioned as another form of self-expression for him, and shows his multifaceted musical activities, including the relationship with Prefuse 73's experimental nature.
 
 ---
 
@@ -117,7 +117,7 @@ In 2024, he will release *New Strategies for Modern Crime Vol.1* and *Vol.2*, on
 | Delarosa & Asora | Early career, experimental techno, electronic music |
 | Savath & Savalas | Ambient/folk music, mainly acoustic |
 | Piano Overlord | Piano-based, keyboard-based project |
-| Ahmad Szabo | Diversity as a multi-author under different names |
+| Ahmad Szabo | Diversity as a multi-alias author |
 | Other collaborations | Sons of the Morning, Fudge, Risil, Diamond Watch Wrists, etc. |
 
 ---

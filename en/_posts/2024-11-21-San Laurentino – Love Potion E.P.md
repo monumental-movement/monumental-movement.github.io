@@ -12,7 +12,7 @@ title: San Laurentino – Love Potion E.P.
 ---
 
 
-A deep house/ambient house track released in 2010 in a limited edition of 250 copies by Electric Minds, a label in London's East End that releases remixes by ARTHUR RUSSELL. Limited edition.
+ARTHUR RUSSELL (アーサー・ラッセル)のリミックスなどをリリースする、ロンドンのイーストエンドにあるレーベルElectric Mindsから2010年に250枚限定でリリースされたディープハウス・アンビエントハウストラック。限定盤。
 
 #### Tracklist
 ```md

@@ -19,7 +19,7 @@ title: '[Column] Microtonal Jazz / Quarter-Tone Jazz'
 
 Text: mmr｜Theme: Analysis of the theory, performance, and education system of microtonal jazz/quartertone jazz centered on Joe Maneri and Jacob Collier
 
-Since its inception, jazz has been a music that relativizes a fixed pitch system. Historically, there have been practices that do not fit within the framework of 12 equal temperament, such as the variability of thirds and sevenths represented by the Blue Note, embouchure operation on wind instruments, and portamento on string instruments. The trend known as microtonal jazz or quarter-tone jazz is characterized by extending these conventions theoretically and structurally, and explicitly placing ""microtonal intervals'' at the core of the sonic organization.
+Since its inception, jazz has been a music that relativizes a fixed pitch system. Historically, there have been practices that do not fit within the framework of 12 equal temperament, such as the variability of thirds and sevenths represented by the Blue Note, embouchure operation on wind instruments, and portamento on string instruments. The trend known as microtonal jazz or quarter-tone jazz is characterized by extending these conventions theoretically and structurally, explicitly placing ""microtonal intervals'' at the core of the sound organization.
 
 In this article, we will organize the theoretical background and performance practices of microtonal jazz, which was formed from the late 20th century to the 21st century, and analyze it from the perspectives of composition, improvisation, and ensemble operation, with a particular focus on the efforts of Joe Maneri and Jacob Collier. Furthermore, he explains the deepening of this genre through the educational system for the disciple generation, acoustic analysis, and modern approaches.
 
@@ -41,9 +41,9 @@ color: #fff;
 
 ## Chapter 1: Microtones and the Prehistory of Jazz
 
-### 1-1 Historical position of microtonal intervals
+### 1-1 Historical position of microtonal interval
 
-Microtonal intervals have existed in Western music since before the 20th century. The comma difference in the Pythagorean temperament and just intonation of the Middle Ages and Renaissance period includes an interval difference of less than a semitone. However, with the establishment of 12-equal temperament for the purpose of simplifying music notation and teaching, these ideas receded into a theoretical background.
+Microtonal intervals have existed in Western music since before the 20th century. The comma difference in the Pythagorean temperament and just intonation of the Middle Ages and Renaissance period includes an interval difference of less than a semitone. However, with the establishment of 12-equal temperament for the purpose of simplifying music notation and teaching, they receded into a theoretical background.
 
 In the early 20th century, composers began to intentionally use microtonal intervals, and systems using 24 equal temperament (quarter-tone) and higher divisions were developed. This trend is evident in modern music, but jazz has incorporated microtonality in a more practical manner through improvisation and physical manipulation.
 
@@ -75,7 +75,7 @@ Particularly in improvisational performances, intervals that were treated as "ex
 
 ### 3-1 Background and positioning
 
-Joe Maneri is a person who developed his own microtonal theory while active as a saxophonist and clarinetist. Although he was based on 24-equal temperament, he also emphasized the sense of just intonation, and was an educator who closely linked theory and practice.
+Joe Maneri is a person who developed his own microtonal theory while active as a saxophonist and clarinet player. Although he was based on 24-equal temperament, he also emphasized the sense of just intonation, and was an educator who closely linked theory and practice.
 
 ### 3-2 Structure of microtonal theory
 
@@ -117,11 +117,11 @@ His students are developing Maneri's methodology and applying it to larger ensem
 
 ### 4-1 Polyphonic/polytonal thinking
 
-Jacob Collier, known for his complex harmonic structures and polyphonic approach, deals with microtones as part of his theoretical explorations. In his case, microtonality is introduced as an extension of harmonic necessity rather than as an avant-garde experiment.
+Jacob Collier, known for his complex harmonic structures and polyphonic approach, deals with microtones as part of his theoretical explorations. In his case, microtonality is introduced as an extension of harmonic necessity rather than an avant-garde experiment.
 
 ### 4-2 Microtonal Harmony
 
-Collier places emphasis on pitch relationships based on just intonation, and reflects minute pitch differences derived from harmonic series in the actual harmonic progression. As a result, the beat and dissonance that occur in 12-equal temperament are reconstructed with a different kind of stability.
+Collier emphasizes pitch relationships based on just intonation, and reflects minute pitch differences derived from harmonic series in the actual harmonic progression. As a result, the beat and dissonance that occur in 12-equal temperament are reconstructed with a different kind of stability.
 
 <div class="mermaid">
 flowchart TB
@@ -141,7 +141,7 @@ In Collier's approach, individual voices may have different tonal assumptions. A
 
 ---
 
-## Chapter 5: Microtone operation in improvisation
+## Chapter 5: Microtone use in improvisation
 
 ### 5-1 Phrase construction
 
@@ -149,7 +149,7 @@ In microtonal jazz improvisation, the direction of pitch transition is more impo
 
 ### 5-2 Relationship with rhythm
 
-As the intervals are subdivided, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by creating a series of short note values ​​are used in combination.
+By subdividing the pitch, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by consecutively short note values ​​are used in combination.
 
 ### 5-3 Deepening acoustic analysis
 

@@ -92,7 +92,7 @@ Here, the virtual band did not hide behind anonymity, but rather acquired a stro
 
 ### The phenomenon that voices have personalities
 
-Advances in speech synthesis technology have further expanded the possibilities of virtual bands. Vocals that do not depend on a specific singer's body will be treated as an attribute of the character itself. Here, the voice is not something that is played, but something that is designed.
+Advances in speech synthesis technology have further expanded the possibilities of virtual bands. Vocals that do not depend on a specific singer's body will be treated as an attribute of the character itself. Here, the voice is not ""something that is played" but ""something that is designed."
 
 This change also affected the relationship between creators and consumers. Music will no longer be a product that is provided unilaterally, but will begin to function as a shared resource that can be expanded through derivative works and remixes. Characters are no longer fixed idols, but have become entities that can be updated within the community.
 
@@ -108,7 +108,7 @@ As a result, virtual bands become more like decentralized creative platforms tha
 
 Virtual band live performances do not necessarily require the performers and audience to gather in the same place. A variety of forms have been established, including through a screen, AR, VR, and distribution platforms. What is important here is simultaneity and shared experience rather than physical distance.
 
-Rather than seeing the ""person inside'' the character, the audience seeks an experience where they feel that the character itself is there. For this reason, the direction, visuals, and story setting are as important, if not more important, than the performance technique.
+Rather than seeing the person ""inside'' the character, the audience seeks an experience where they feel that the character itself is there. For this reason, the direction, visuals, and story setting are as important, if not more important, than the performance technique.
 
 This format relativized geographical constraints and limits on the number of people, and expanded the very concept of a musical event.
 
@@ -136,7 +136,7 @@ Virtual bands have become an example of music shifting from ""individual express
 
 In recent years, there has been an increase in the number of virtual bands that are active on SNS and virtual spaces on a daily basis. In addition to releasing songs, the characters act as if they are ""living'' through short message postings and distribution.
 
-Here, music is part of the activity, and is just one way to prove the existence of the characters. Fans find value not only in the music, but also in the feeling of sharing time together.
+Here, music is part of the activity, and is just one way to prove the existence of the characters. Fans find value not only in the musical work, but also in the feeling of sharing time together.
 
 This situation differs from the traditional model in which music was consumed in albums or songs.
 

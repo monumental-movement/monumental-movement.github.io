@@ -81,7 +81,7 @@ Haino's musical experiences during this period changed his sensibilities greatly
 Music is not just entertainment;
 I came to see music as something that can express human emotions to the utmost.
 
-He also started playing in a band in his late teens.
+In his late teens, he started playing in a band.
 
 However, he was never satisfied with existing rock forms.
 
@@ -137,7 +137,7 @@ The relationship with the activities of composer Toru Takemitsu is a symbolic ex
 Toru Takemitsu is one of Japan's leading contemporary music composers, known for his works that emphasize the spatiality of sound and silence.
 His musical philosophy was unique, combining Western classical and Japanese sensibilities.
 
-Keiji Haino is said to have had a strong interest in Toru Takemitsu's musical philosophy, and a common sensibility can be seen in the way they handle the margins of sound and space.
+Keiji Haino is said to have had a strong interest in Toru Takemitsu's musical philosophy, and a common feeling can be seen in the way they handle the margins of sound and space.
 
 Even in a roaring noise performance, there is always silence.
 The emphasis on the relationship between sound and silence is similar to contemporary Japanese music.
@@ -154,9 +154,9 @@ Keiji Haino's music lies at the intersection of rock, improvisational music, and
 
 ### Symbol of Japanese experimental rock
 
-Fushitsusha is a music group led by Keiji Haino.
+Fushitsusha is a musical group led by Keiji Haino.
 
-There were no fixed members, and the participants often changed from performance to performance.
+There were no fixed members, and participants often changed from performance to performance.
 
 Characteristics include overwhelming volume and long improvisational performances.
 
@@ -167,7 +167,7 @@ It sounded more like a prayer or a spell than a song.
 
 It is sometimes referred to by overseas music critics as an extreme form of psychedelic rock.
 
-However, the essence of Fushitsusha is not the form of rock.
+However, the essence of Fushisha is not a form of rock.
 
 It is the energy of the sound itself.
 
@@ -181,7 +181,7 @@ This style had a great influence on later experimental musicians.
 
 It is said that the live performance was more like an experience than music.
 
-The audience was engulfed in sound, with performances sometimes lasting several hours.
+The audience was engulfed in sound, and the performances sometimes lasted for hours.
 
 From around this time, Haino's music began to become something that could not be explained by genre.
 
@@ -302,7 +302,7 @@ His activities are as DJ Keiji Haino.
 
 In this style, they perform while playing music from around the world on CDJs.
 
-The music selected is not limited to any genre.
+The music selected is not limited to genre.
 
 folk music
 rock
@@ -346,7 +346,7 @@ D --> E
 
 ---
 
-## An instrument of exploration: the hurdy-gurdy and the quest for unknown sounds
+## Instrument of exploration: the hurdy-gurdy and the quest for unknown sounds
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UFivBFA0xBI?si=KBklExEljuP26hPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -423,7 +423,7 @@ By encountering unknown sounds, my music also changes.
 
 ### Flow of solo and major works
 
-Keiji Haino has released a huge amount of recorded works from the late 1970s to the present.
+Keiji Haino has released a vast amount of recorded works from the late 1970s to the present.
 There are a wide variety of formats including studio works, live recordings, limited editions, collaborations, etc., and the total number is said to reach several hundred titles.
 
 The following is a flow of important works that are widely known among them.
@@ -461,7 +461,7 @@ The information below is compiled from multiple reliable sources (Discogs, Wikip
 | Year | Title | Co-stars | Notes |
 |---|---|---|---|
 | Around 2000 | **Aihiyo** | Masami Kawaguchi and Ikuro Takahashi | A trio work that devastatingly reinterprets Japanese pop and Western music covers |
-| 2012〜 | **Nazoranai (not tracing)** | Stephen O"Malley, Oren Ambarchi | Apart from O"Rourke and Ambarchi, an improvisational trio with O'Malley and Ambarchi. Released multiple works |
+| 2012〜 | **Nazoranai (not tracing)** | Stephen O"Malley, Oren Ambarchi | An improvisational trio with O"Malley and Ambarchi, apart from O'Rourke and Ambarchi. Released multiple works |
 | 2010〜 | **Haino / O"Rourke / Ambarchi** Series | Jim O"Rourke, Oren Ambarchi | A long-term ongoing project that releases an album almost every year |
 
 ---
@@ -545,27 +545,27 @@ Haino --> DJ[DJ Keiji Haino]
 
 </div>
 
-As this diagram shows, Keiji Haino's activities are not located at the center of a genre, but at the intersection of multiple fields.
+As this diagram shows, Keiji Haino's activities are not located at the center of a genre, but at the intersection of multiple areas.
 
 > Keiji Haino's music is not a genre, but an intersection.
 
 ---
 
 
-## Keiji Haino × Japanese Underground Music History Chronology
+## Keiji Haino × Japanese underground music history chronology
 
 ### Intersection with Japanese experimental music
 
-Since the 1970s, a unique underground music scene has formed in Japan that intersects rock, improvisational music, noise, avant-garde music, and more.
+Since the 1970s, a unique underground music scene has formed in Japan that intersects rock, improvisational music, noise, and avant-garde music.
 Keiji Haino has been active as one of the central figures.
 
 | Era | Japanese underground music history | Keiji Haino's movements |
 | ------ | -------------- | -------- |
 | 1970s | Expansion of free jazz and improvisational music | Start of musical activities |
 | 1978 | Tokyo underground scene expands | Fushisha formed |
-| 1980s | Noise music appears | Fushisha live activities |
-| 1990s | Rising overseas ratings | European and American tours |
-| 2000s | Expansion of improvisation and drones | Many collaborations |
+| 1980年代 | ノイズ音楽登場        | 不失者ライブ活動 |
+| 1990年代 | 海外評価上昇         | 欧米ツアー    |
+| 2000s | Expansion of improvisation and drones | Multiple collaborations |
 | 2010s | Noise and electronic music fusion | DJ Keiji Haino |
 | 2020s | Re-evaluation of experimental music | Ongoing activities |
 
@@ -625,7 +625,7 @@ It is characterized by collaborations that transcend genres such as rock, jazz, 
 
 graph TD
 
-Haino[Keiji Haino]
+Haino[灰野敬二]
 
 Oren[Oren Ambarchi]
 Jim[Jim O'Rourke]
@@ -634,7 +634,7 @@ Peter[Peter Brötzmann]
 
 Oren --> Nazoranai[Nazoranai]
 Jim --> Improvisation[improvisation]
-Merzbow --> NoiseSession[noise co-star]
+Merzbow --> NoiseSession[ノイズ共演]
 Peter --> FreeJazz[free jazz performance]
 
 Nazoranai --> Haino
@@ -666,7 +666,7 @@ graph TD
 
 Silence[silence]
 Drone[sustained sound]
-Noise[noise]
+Noise[ノイズ]
 Voice[song]
 Climax[top of sound]
 
@@ -678,7 +678,7 @@ Climax --> Silence
 
 </div>
 
-Live performances start with silence, then drones and noises gradually build up, and the sound reaches its peak with the addition of singing and shouting. It often has a structure that returns to silence again.
+ライブでは、静寂から始まり、ドローンやノイズが徐々に重なり、歌や叫びが加わりながら音のピークへ到達する。そして再び静寂へと戻る構造を持つことが多い。
 
 This cycle creates a feeling similar to a religious ritual or meditative experience.
 
@@ -691,13 +691,13 @@ This cycle creates a feeling similar to a religious ritual or meditative experie
 
 ### International recognition
 
-Keiji Haino has been highly praised by Western music media for many years.
+灰野敬二は欧米の音楽メディアからも長年にわたり評価されている。
 
-| Media | Rating |
+| メディア        | 評価              |
 | ----------- | --------------- |
 | The Wire | Important figures in Japanese avant-garde music |
 | Pitchfork | Icon of experimental music |
-| The Quietus | A musician who fuses noise and spirituality |
+| The Quietus | ノイズと精神性を融合した音楽家 |
 
 He has appeared at many festivals in Europe and North America, and is considered to be a strong influence in the free improvisation and noise scenes.
 
@@ -719,9 +719,9 @@ Keiji Haino began his career in the late 1970s, and paralleling this trend, he h
 
 graph TD
 
-AvantGarde[avant-garde music]
+AvantGarde[前衛音楽]
 FreeJazz[free jazz]
-Noise[noise music]
+Noise[ノイズ音楽]
 Drone[drone music]
 Psychedelic[psychedelic rock]
 Improvisation[improvised music]
@@ -755,16 +755,16 @@ Music that exists simultaneously has a unique presence even among the world's ex
 
 ---
 
-## A presence that erases the boundaries of music
+## 音楽の境界線を消す存在
 
-### Keiji Haino, neither rock nor avant-garde
+### ロックでも前衛でもなく「灰野敬二」
 
 Keiji Haino is often introduced as a ""Japanese noise musician" or ""avant-garde musician."
 However, none of these are completely applicable.
 
 rock energy
 freedom of musical improvisation
-drone persistence
+ドローンの持続
 the sound of ethnic instruments
 And a singing voice emanating from the depths of the soul
 
@@ -808,7 +808,7 @@ It is no exaggeration to say that the very existence of Keiji Haino has become a
 
 At the 2026 Venice Biennale Music Festival, Keiji Haino will receive the Golden Lion Award (Leone d"Oro alla carriera), which is a lifetime achievement award.
 
-This award is given to artists who have continued innovative activities in the field of music for many years, and Keiji Haino was introduced as the ""poet of noise'' (poeta del rumore).
+This award is given to artists who have continued innovative activities in the music field for many years, and Keiji Haino was introduced as the ""poet of noise'' (poeta del rumore).
 
 During his more than 50 years of activities, he has created a unique musical world that defies existing genres, crossing over diverse fields such as improvisation, noise, drone, rock, blues, and free jazz.
 

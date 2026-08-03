@@ -112,7 +112,7 @@ The symbolic work is the one from 1952.
 The performer sits in front of the piano.
 But it doesn't play at all.
 
-The sounds of the audience's coughs and the creaking of chairs echoed through the venue.
+The audience's coughs and the creaking of chairs echoed through the venue.
 
 In other words, the environment itself becomes music.
 
@@ -127,7 +127,7 @@ timeline
 1970s : ノイズミュージック
 </div>
 
-> Experimental music did not destroy music, but expanded the space in which music existed.
+> Experimental music didn't destroy music, it expanded the space where music existed.
 
 ---
 
@@ -141,7 +141,7 @@ Music is no exception.
 
 Research shows that when we listen to music, we unconsciously anticipate the next note.
 
-- melody flow
+- Melody flow
 - chord progression
 - rhythm
 
@@ -196,16 +196,16 @@ These create psychological tension.
 
 In the late 20th century, musicians began to use this effect intentionally.
 
-Noise is not just noise.
+ノイズは単なる騒音ではない。
 It was a way to directly stimulate emotions.
 
 ### The advent of noise music
 
-Since the 1970s, a music genre centered around noise has been born.
+Since the 1970s, a music genre centered around noise has emerged.
 
 - Feedback
 - electronic noise
-- destructive sounds
+- 破壊的サウンド
 
 This music was often extreme.
 
@@ -217,16 +217,16 @@ Experimental music was also a study of how humans ""react to sound.''
 graph TD
 A[nature warning sounds] --> B[human alarm response]
 B --> C[Anxiety about distorted sound]
-C --> D[noise music]
+C --> D[ノイズ音楽]
 </div>
 
-> Noise was not just noise, but a sound that directly touched human senses.
+> Noise was not just noise, but a sound that directly touched the human senses.
 
 ---
 
 ## "Incomprehensible" as a culture
 
-### New art is always rejected
+### 新しい芸術はいつも拒絶される
 
 History shows that new art is almost always rejected.
 
@@ -273,7 +273,7 @@ C --> D[To popular music]
 
 | Year | Events |
 | ------ | ------------ |
-| 1913 | Futurists' declaration of noise art |
+| 1913   | 未来派による騒音芸術宣言 |
 | 1930s | Start of electronic music research |
 | 1952 | Advent of accidental music |
 | 1960s | Fluxus movement |
@@ -292,7 +292,7 @@ C --> D[To popular music]
 The history of music has always been a history of discovering new sounds.
 
 - new instruments
-- new technology
+- 新しい技術
 - New expression
 
 Experimental music is at the forefront of this.
@@ -303,7 +303,7 @@ To what extent can sound become music?
 
 That question has not yet been completely answered.
 
-### Fear is proof of the unknown
+### 恐怖は未知の証拠
 
 It's natural to feel afraid of experimental music.
 

@@ -20,9 +20,9 @@ title: '[Column] The deep structure of psychedelic guitar drawn by Seiichi Yamam
 
 Text: mmr｜Theme: Delay distorts time, guitar paints space—Getting to the heart of Seiichi Yamamoto's acoustic philosophy and psychedelics
 
-Seiichi Yamamoto is a unique figure in the history of Japanese experimental music. Although he is a guitarist, he has also worked as a sound artist who deals with the process of the generation, sustainment, and disappearance of sound.
+Seiichi Yamamoto is a unique figure in the history of Japanese experimental music. Although he is a guitarist, he has also worked as a sound artist who deals with the process of the generation, sustainment, and disappearance of sound itself.
 
-His expressions are diverse, including band, improvisation, film music, and solo works, but at their core is an exploration of the "temporality of sound." In particular, delay-based sounds are a defining element of his music.
+His expressions span a wide range of genres, including band, improvisation, film music, and solo works, but at their core is an exploration of the ""temporality of sound.'' In particular, delay-based sounds are a defining element of his music.
 
 > Seiichi Yamamoto's music is based on the "back side of sound".
 
@@ -73,7 +73,7 @@ The long repetition weakens the sense of time, leading the audience into a tranc
 
 Even the moment when feedback and noise reach their control limits becomes the core of the performance.
 
-> Boredoms live performances are the process of reaching a critical point in sound.
+> Boredoms live shows are the process of reaching a critical point in their sound.
 
 ---
 
@@ -123,7 +123,7 @@ In the compass, we suppress the number of sounds and emphasize reverberation.
 
 ---
 
-## ROVO and transformer structure
+## ROVOとトランス構造
 
 ROVO focuses on long-term repetitive structures.
 
@@ -143,7 +143,7 @@ ROVO focuses on long-term repetitive structures.
 * TOKYO LOOP original soundtrack (2006)
 *PLAYGROUND (2010)
 * PLAYGROUND Acoustic+ (2011)
-* Rhapsodia (2011)
+* ラプソディア（2011）
 * Cover album 1st collection (2013)
 *LIGHTS (2013)
 * Falsetto (2014)
@@ -172,7 +172,7 @@ D --> E[lasting change]
 
 Sounds exist not as phrases, but as phenomena that continue to overlap.
 
-### Origin and arrival in "Mantral"
+### 「Mantral」における起源と到達
 
 The last song on the album, ""Mantral,'' is not only a complete studio work, but it can also be understood more three-dimensionally by tracing its origins.
 
@@ -180,7 +180,7 @@ This song originally derives from a motif played during the Boredoms' active per
 
 In other words, ""Mantral'' can be said to be a reconstruction of the repetitive phrases and trance structure that were born in the Boredoms scene in his solo work.
 
-Furthermore, this melody can also be found on OOIOO's album ""Mountain Book''. Here, the same melodic fragments produced by Seiichi Yamamoto are developed in a different arrangement and context.
+Furthermore, this melody can also be heard on OOIOO's album ""Mountain Book''. Here, the same melodic fragments created by Seiichi Yamamoto are developed in a different arrangement and context.
 
 This fact is important.
 
@@ -198,7 +198,7 @@ In other words, ""Mantral'' is not just a song, but the very core of the sound t
 
 ""Mantral" from ""Crown of Fuzzy Groove" is presented as something close to its final form.
 
-Here, the repeated melody is amplified countless times by delays, and the layers of sound gradually become larger. Sound loses its individual existence and transforms into a gigantic stream of sound.
+ここでは、反復される旋律がディレイによって無数に増幅され、音の層は次第に肥大化していく。音は個別の存在を失い、巨大な音響の流れへと変化する。
 
 At its core is a simple, repeated melody. This melody is multiplexed with a delay, and the sound gradually becomes thicker. Individual sounds lose their contours and transform into a continuous acoustic body.
 
@@ -206,7 +206,7 @@ At its core is a simple, repeated melody. This melody is multiplexed with a dela
 * Rhythm is not explicit and persists
 * Space continues to expand
 
-Rather than marking the rhythm, the drums function as the "axis that sustains the music."
+Rather than setting the rhythm, the drums function as the "axis that sustains the music."
 
 * A pattern that repeats at regular intervals
 * Minimalistic blowing without excessive decoration
@@ -218,7 +218,7 @@ While guitar delays stretch time horizontally, drums fix time vertically.
 
 As a result, the sound "builds up" rather than simply spreading out.
 
-Moreover, the minute fluctuations of the drums avoid a complete mechanical loop and give the repetitions an organic variation. This allows the listener to continue perceiving slight changes while staying within the same pattern.
+Additionally, the drum's minute fluctuations avoid a complete mechanical loop and give the repetitions an organic variation. This allows the listener to continue perceiving slight changes while staying within the same pattern.
 
 Sound is amplified and layered, time is stretched out.
 
@@ -250,7 +250,7 @@ Here, free expression is allowed without being bound by genre or technique, and 
 
 ### Training and influencing the next generation
 
-The Namba Bears are characterized by their development through the ""place itself'' rather than a clear education system.
+The characteristic of the Namba Bears is that they are nurtured through the ""place itself'' rather than a clear education system.
 
 * Openness that allows even unknown performers to perform
 * An atmosphere that allows improvisation and experimentation
@@ -280,7 +280,7 @@ Seiichi Yamamoto's music does not consist solely of his individual talent.
 
 The extreme acoustics of a wide variety of participating bands, the overseas reputation, and the management of the Namba Bears venue - these all work together to continue updating the depth of the sound.
 
-The work of nurturing the next generation is not a unidirectional influence. Being exposed to new sounds and immature expressions actually shakes up and updates one's own sound.
+The work of nurturing the next generation is not a unidirectional influence. Exposure to new sounds and immature expressions actually shakes and updates your own sound.
 
 Sound is not fixed. It keeps changing depending on the place and the person.
 

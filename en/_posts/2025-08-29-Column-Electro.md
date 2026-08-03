@@ -67,7 +67,7 @@ Electro was not just a music genre, but a culture inseparable from breakdance an
 
 In the late 1980s and 1990s, Detroit techno and electro were reunited.
 
-**Drexciya (a legendary duo from Detroit)** is a concept work themed around an undersea civilization, giving a mythical quality to hard electro beats.
+**Drexciya (a legendary duo from Detroit)** is a concept piece themed around an undersea civilization, giving a mythical quality to hard electro beats.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LJuuaAIzDNQ?si=sL_5sD8Q9YAv0T4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -120,7 +120,7 @@ The debut album by Justice, a French electronic dance band active since 2003, wa
 
 ### Modern electro
 
-Today's electro is inherited in its purest form, but is also dispersed into various genres.
+Today's electro is inherited in its purest form, but it is also dispersed into various genres.
 
 As a subgenre of techno/IDM, hard tracks using analog synths and 808s continue to be released.
 

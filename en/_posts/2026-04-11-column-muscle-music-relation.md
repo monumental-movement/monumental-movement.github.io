@@ -109,7 +109,7 @@ This allows for natural movement phase switching.
 
 Electronic music such as techno and house is characterized by a steady beat and strong bass. These promote rhythm synchronization and are suitable for sustained exercise.
 
-In particular, songs with a strong repetitive structure go well with repetitive movements, making it easier to maintain a state of concentration.
+In particular, songs with a strong repetitive structure go well with the repetitive movements of exercise, making it easier to maintain a state of concentration.
 
 ### Hip-hop and explosiveness
 
@@ -145,7 +145,7 @@ D --> E[flow]
 
 ## Practice: Training playlist design and specific examples
 
-### Major vs Underground Contrast
+### Major vs Underground
 
 Choosing music for training can also be divided into whether you want to ""lift your mood with familiar songs" or ""immerse yourself in unknown sounds." Here, we will present an example of an actual playlist configuration while comparing the two.
 
@@ -169,7 +169,7 @@ Choosing music for training can also be divided into whether you want to ""lift 
 
 ---
 
-### Main (muscle training/high intensity 120-150 BPM)
+### Main (Muscle training/high intensity 120-150 BPM)
 
 #### Major
 

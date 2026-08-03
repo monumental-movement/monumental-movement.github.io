@@ -18,7 +18,7 @@ Text: mmr｜Theme: The life and music of Fela Kuti
 
 
 Fela Aníkúlápó Kútì (1938–1997) was a Nigerian musician, activist, and founder of Afrobeat. Their unique sound, which blends jazz, funk, highlife, and Yoruba music, had an immense influence on world music in the second half of the 20th century.
-His music was not just entertainment, but a political statement denouncing military rule and injustice, and a symbol of resistance despite numerous arrests and violence.
+His music was not just entertainment, but a "political statement" denouncing military rule and injustice, and a symbol of resistance despite numerous arrests and violence.
 
 ---
 
@@ -38,7 +38,7 @@ color: #fff;
 
 ### Life and musical evolution
 
-Fela Aníkúlápó Kútì was born in Abeokuta in 1938 and received his musical education in London before returning to Nigeria in the late 1960s and creating his own musical language, combining blues/jazz/funk/highlife with traditional rhythms. It became more political during the Koola Lobitos period in the 1960s and Africa '70 in the 1970s, and later developed into formations such as Egypt 80.
+Fela Aníkúlápó Kútì was born in Abeokuta in 1938 and, after receiving his musical education in London, returned to Nigeria in the late 1960s and created his own musical language, combining blues/jazz/funk/highlife with traditional rhythms. It became more political during the Koola Lobitos period in the 1960s and Africa '70 in the 1970s, and later developed into formations such as Egypt 80.
 
 Fela's music is characterized by long (10 to 30 minute) repetitive grooves, strong horn sections, polyrhythms, and direct messages in pidgin English. Drummer Tony Allen was an integral part of the formation of Afrobeats, and his drumming laid the foundation for the genre.
 
@@ -92,7 +92,7 @@ London period → recording in the US → establishment in Africa '70 → politi
 
 ### Anecdote/Legend
 
-**"Expensive Shit" Incident**: Fela took advantage of the incident in which the police allegedly planted a marijuana joint as a pretext for arrest and turned it into a song (album ""Expensive Shit"'). This story is passed down as an anecdote that symbolizes Fela"s anti-establishment image.
+**"Expensive Shit" Incident**: Fela took advantage of an incident in which the police allegedly planted a marijuana joint as an excuse for an arrest and turned it into a song (album ""Expensive Shit"'). This story is passed down as an anecdote that symbolizes Fela"s anti-establishment image.
 
 **Kalakuta Attack and Mother"s Death**: The incident in which Fela"s mother was allegedly injured when Kalakuta was attacked by the military became the driving force behind her later songs and activities.
 
@@ -134,7 +134,7 @@ A harsh criticism of world leaders. It also attracted international attention.
 
 | Year | Album | Commentary | Link |
 |---|---|---|---|
-| 1969 | The '69 Los Angeles Sessions | Experimental work with strong early jazz + high life vibes | [Amazon](https://amzn.to/3KrT4Mb) |
+| 1969 | The '69 Los Angeles Sessions | Experimental work with strong early jazz + highlife flavor | [Amazon](https://amzn.to/3KrT4Mb) |
 | 1973 | Gentleman | Criticism of colonialism and the perfection of Afrobeat | [Amazon](https://amzn.to/3IFAYFV) |
 | 1975 | Expensive Shit | A masterpiece that takes advantage of a famous false accusation case | [Amazon](https://amzn.to/3IVK6WS) |
 | 1977 | Zombie | Sharply criticizes the military government, resulting in the attack on Kalakuta | [Amazon](https://amzn.to/46VWCh7) |
@@ -169,7 +169,7 @@ flowchart TD
 
 Born in 1962. Fela's eldest son.
 
-He has developed contemporary Afrobeats through solo works such as "Shoki Shoki" and "Africa for Africa."
+He has developed contemporary Afrobeat music through solo works such as "Shoki Shoki" and "Africa for Africa."
 
 While deepening his jazz elements, he has inherited his father's politics.
 
@@ -200,7 +200,7 @@ He led the Egyptian 80s and directly inherited his father's style.
 
 **Felabration**: A music festival held every October. Artists from all over the world gather to celebrate Fela.
 
-**International influences**: Antibalas in the US, sampling in hip-hop, even Beyoncé and Jay-Z have cited the rhythm of Fela.
+**International influences**: Antibalas in the US, sampling in hip-hop, and even Beyonce and Jay-Z have cited the rhythm of Fela.
 
 ---
 
@@ -209,7 +209,7 @@ He led the Egyptian 80s and directly inherited his father's style.
 Fela Kuti was not only the "father of Afrobeats" but also a symbol of political resistance through music. That legacy continues to be reflected through his sons Femi Kuti and Soon Kuti, and in the work of artists around the world.
 If you want to learn more about Afrobeat, we recommend starting with ""Gentleman," ""Expensive Shit," and ""Zombie.''
 
-The words and rhythms of Fela still echo in the breezes of Lagos and on the stages of the world.
+The words and rhythms of Fela still echo in the winds of Lagos and on the stages of the world.
 
 ---
 

@@ -35,17 +35,17 @@ color: #fff;
 </style>
 
 
-### Father Yod/James Edward Baker — Trajectory and Legend
+### Father Yod／James Edward Baker — Trajectory and Legend
 
 #### Early life and career
 
 Born July 4, 1922 in Cincinnati, Ohio. He later talks about his experience serving as a Marine (although some point out that his Silver Star medal cannot be found in official records).
 
 
-Moving to the West Coast, he became devoted to the natural life movement, vegetarianism, hippie culture, and mystical thinking. He opened a health food restaurant called ""The Source'' on Sunset Strip in Los Angeles, which reportedly attracted many famous customers.
+He moved to the West Coast and became devoted to the natural life movement, vegetarianism, hippie culture, and mystical thinking. He opened a health food restaurant called ""The Source'' on Sunset Strip in Los Angeles, which reportedly attracted many famous customers.
 
 
-Eventually, influenced by Yogi Bhajan's Kundalini Yoga philosophy, he organized his own religious movement, Source Family. The group led by him developed a lifestyle that integrated communal living, spiritual practices, music, food and health practices, and rituals.
+Eventually, influenced by Yogi Bhajan's Kundalini Yoga philosophy, he organized his own religious movement, Source Family. The group centered around him developed a lifestyle that integrated communal living, spiritual practices, music, food and health practices, and rituals.
 
 
 Marriage, Wives, and Children: His legal wife was Robin Popper (later Ahom), but according to his followers, he had multiple wives (reportedly 14) and lived together with his followers.
@@ -54,16 +54,16 @@ Marriage, Wives, and Children: His legal wife was Robin Popper (later Ahom), but
 
 #### Anecdote/Legend
 
-Journalism and non-fiction articles have explored this dual nature, with anecdotes about him being a "soldier/former marine/war hero" and stories about him being a "cult leader/ex-marine/bank robber" with accusations of involvement in bank robberies and murders.
+Journalism and non-fiction articles have explored this dual nature, with anecdotes about him being a "soldier, former marine, and war hero," and stories about him being a "cult leader/ex-marine/bank robber" with accusations of involvement in bank robberies and murders.
 
 
-While the commune was in operation, there are records that there were disputes that are typical of cult operations, such as ""abandonment of personal property," ""cutting off of relatives," and ""permission to marry young members.''
+While the commune was in operation, there are records of disputes that are typical of cult operations, such as ""abandonment of personal property," ""cutting off of relatives," and ""permission to marry young members.''
 
 
-On August 25, 1975, he died in an accident while attempting his first hang glider flight in Hawaii (he is said to have crashed and died approximately 9 hours later). This accident effectively became an event that symbolized the "end" of Yahooha13.
+On August 25, 1975, he died in an accident while attempting his first hang glider flight in Hawaii (he crashed and died about 9 hours later). This accident effectively became an event that symbolized the "end" of Yahooha13.
 
 
-After that, the members of the congregation dispersed, but it has been reevaluated through sound archives and folklore. In particular, the 13-disc box set God and Hair (Yahowha Collection), released by Japan"s Captain Trip label in 1998, comprehensively covered Yahowha13/Source Family"s sound sources and became an opportunity for the revival of the legend.
+After that, the members of the congregation dispersed, but it has been reevaluated through sound archives and folklore. In particular, the 13-disc box set God and Hair (Yahowha Collection), released by Japan"s Captain Trip label in 1998, comprehensively covered Yahowha13/Source Family"s sound sources and served as an opportunity for the revival of their legend.
 
 
 ---
@@ -72,7 +72,7 @@ After that, the members of the congregation dispersed, but it has been reevaluat
 
 #### Constituent members and naming history
 
-Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other "Aquarian surname" believer musicians such as Lovely, Hom, Rhythm, Pythias, Aquarian.
+Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with Lovely, Hom, Rhythm, Pythias, Aquarian, and other "Aquarian surname" believer musicians.
 
 
 Initially released under the name "Father Yod & The Spirit of "76". After that, spellings such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" were used with some fluctuation.
@@ -88,7 +88,7 @@ There was also a period when they were active in bands under different names suc
 - **Octavius**: "Father Yod's perspective and breathing determined the direction of the improvisation."
 - **Reminiscences of Source Family**: Recording was a daily ritual, and music was a communion with God.
 
-In this way, Yahowha 13's lyrics and performances focused on ""waves" and ""mantra" rather than ""meaning.''
+In this way, Yahowha 13's lyrics and performances emphasized ""waves" and ""mantra" rather than ""meaning.''
 
 ---
 
@@ -124,10 +124,10 @@ During this period, he was exploring the fusion of acoustic experiments and chan
 
 - **Mid-1974 to 1975**: YaHoWa13 name period/technical deepening period
 
-Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I"m Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (unreleased in 1975 → released later), etc.
+Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I"m Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (1975 unreleased → released later), etc.
 
 
-During this period, attempts were also made to incorporate more "structurality" and "musicality," with a style that included a mixture of distorted guitar riffs, repetitive phrases, and fragmented poetry and singing.
+During this period, attempts were also made to incorporate more "structurality" and "musicality," with a style that included a mixture of distorted guitar riffs, repeated phrases, and fragmented poetry and singing.
 
 
 In particular, Penetration: An Aquarian Symphony is said to be the most popular and re-evaluated work in the band's history, and has been reissued many times.
@@ -136,13 +136,13 @@ In particular, Penetration: An Aquarian Symphony is said to be the most popular 
 
 - **After 1975**: Father Yod postmortem/intermittent active phase
 
-After 1975, the band disbanded due to Father Yod's passing. However, lay musicians continued to record and perform.
+After 1975, the band disbanded due to the death of Father Yod. However, lay musicians continued to record and perform.
 
 
-In 1977, Golden Sunrise (under the name Fire Water Air) and Yodship Suite (Private Press) were released. There is also a collaboration with Sky Saxon (former of The Seeds) and vocal participation.
+In 1977, Golden Sunrise (under the name Fire Water Air) and Yodship Suite (Private Press) were released. He also collaborates with Sky Saxon (from The Seeds) and participates in vocals.
 
 
-Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (such as Sonic Portation by Djin, Sunflower, Octavius, etc.).
+Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (Sonic Portation by Djin, Sunflower, Octavius, etc.).
 
 
 ---
@@ -154,13 +154,13 @@ The following is a list of major works related to Yahowha13/Father Yod organized
 
 | Year | Album name | Explanation | Link |
 | ---------- | ------------------------------------ | ------------------------------------- | ---------------------------------------------------------------------------- |
-| 1973 | *Kohoutek* | The earliest recordings under the name Spirit of "76, characterized by experimentation and roughness | [Amazon](https://amzn.to/4ny1yQf) |
+| 1973 | *Kohoutek* | Early recording under the name Spirit of "76, characterized by experimentation and roughness | [Amazon](https://amzn.to/4ny1yQf) |
 | 1974 | *Contraction* | Deepening of acoustic experiments, transition period of early YaHoWa period | [Amazon](https://amzn.to/4nW1868) |
 | 1974 | *Expansion* | Contains many conceptual improvisational fragments | - |
 | 1974 | *Ya Ho Wa 13* | Early official work under the band name, a clear fusion of chant and guitar | [Discogs](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13) |
-| 1974 | *Penetration: An Aquarian Symphony* | The most widely acclaimed masterpiece, with a high level of perfection in both structure and performance | [Amazon](https://amzn.to/4hdcYa5) |
+| 1974 | *Penetration: An Aquarian Symphony* | The most widely acclaimed masterpiece, with a high degree of perfection in both structure and performance | [Amazon](https://amzn.to/4hdcYa5) |
 | 1974 | *I"m Gonna Take You Home* | An ambitious piece with a song structure tinged with dark romanticism | [Amazon](https://amzn.to/3Wm92Ke) |
-| 1975 | *To the Principles for the Children* | Yod's final work, notable for its strong poetic elements | [Amazon](https://amzn.to/46PceCT) |
+| 1975 | *To the Principles for the Children* | Yod's final work, notable for its poetic nature with strong doctrinal elements | [Amazon](https://amzn.to/46PceCT) |
 | 1975 (released later) | *The Operetta* | Unreleased sound source recorded in 1975 released later | [Amazon](https://amzn.to/42ktDCf) |
 | 1977 | *Golden Sunrise* | Fire, Water, Air, Sky Saxon participation | - |
 | 1977 | *Yodship Suite* | Private press, legendary minimal press | [Amazon](https://amzn.to/3VJKnPE) |
@@ -202,7 +202,7 @@ flowchart LR
 
 #### Re-evaluation/Reissue
 
-Since the late 1990s, Yahooha13 and Source Family recordings have been reevaluated by hardcore collectors and psychedelic music enthusiasts. In particular, 1998's God and Hair (a 13-disc collection) was an important milestone.
+Since the late 1990s, Yahowha13 and Source Family recordings have been reevaluated by hardcore collectors and psychedelic music enthusiasts. In particular, 1998's God and Hair (a 13-disc collection) was an important milestone.
 
 
 Since the 2000s, remastered reissues of original LPs and collections of unreleased material have been released one after another by Swordfish Records, Drag City, Captain Trip Records, and others.
@@ -216,7 +216,7 @@ In 2009, a compilation of unreleased songs such as [Magnificence in the Memory](
 ---
 
 
-#### Reunion/activities
+#### Reunion/Activities
 
 In 2007, the original members (Sunflower, Octavius, Djin) reportedly performed live for the first time in 33 years.
 
@@ -229,7 +229,7 @@ Even after the 2010s, records remain of excavating archived sound sources, relea
 ---
 
 
-#### Heritage and Significance
+#### 遺産と意義
 
 Yahowha13 is attracting attention for its positioning as a ""religious improvisational acoustic work" that goes beyond the framework of rock and psychedelic music, as ""music = channeling and practice that is an extension of doctrine and ritual."
 
@@ -237,7 +237,7 @@ It is argued that his orientation toward improvisation, spatiality, and transcen
 
 In fields such as commune culture, cult movements, and outsider music research, the existence of Yahowha13/Source Family has become a typical example and subject of research.
 
-On the other hand, it also includes a controversial framework that includes ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
+On the other hand, it also includes controversial topics such as ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
 
 ---
 
@@ -245,7 +245,7 @@ On the other hand, it also includes a controversial framework that includes ethi
 
 ### Album details (by selected/notable works)
 
-*The LPs are concentrated between 1973 and 1975, and were initially recorded and sold under the name Father Yod & The Spirit of '76, and later under the name Ya Ho Wa / Ya Ho Wha 13. Disc information varies greatly from edition to edition because it is a small press/archive.
+*The LP group is concentrated between 1973 and 1975, and was initially recorded and sold under the name Father Yod & The Spirit of '76, and later under the name Ya Ho Wa / Ya Ho Wha 13. Disc information varies greatly from edition to edition due to the small press/archive.
 
 
 ---
@@ -253,12 +253,12 @@ On the other hand, it also includes a controversial framework that includes ethi
 [Kohoutek (1973/Father Yod & The Spirit of '76)](https://amzn.to/4ny1yQf)
 
 
-Point: The earliest collection of improvised experiments. You can hear the "premonition of a ritual" where roughness and energy coexist. It is popular with collectors as an early record with strong chants of Father Yod.
+Point: The earliest collection of improvised experiments. You can hear the ""ceremonial omen'' where roughness and energy coexist. It is popular with collectors as an early record with strong chants of Father Yod.
 
 ---
 
 
-[Contraction (1974)](https://amzn.to/4nW1868) / Expansion (1974)
+[Contraction（1974）](https://amzn.to/4nW1868) / Expansion（1974）
 
 
 Point: A series of "cosmic" series. Acoustic experimentation (percussion, gongs, long call and response) is noticeable. A must-have if you are interested in early "experiments with voice and sound."
@@ -276,14 +276,14 @@ Point: The core of self-recording. While recording at Garage, the band's improvi
 
 [Penetration: An Aquarian Symphony (1974)](https://amzn.to/4hdcYa5)
 
-Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend starting here for first-time listeners.
+Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend that first-time listeners start here.
 
 
 ---
 
-[I'm Gonna Take You Home (1974)](https://amzn.to/3Wm92Ke)
+[I'm Gonna Take You Home（1974）](https://amzn.to/3Wm92Ke)
 
-Points: There are some songs that have a somewhat structured structure, and you can feel rough but melodic fragments. A work that features strong singing and chanting.
+ポイント：やや曲構造が出る曲もあり、荒削りだがメロディ的断片も感じられる。歌・チャントが強く出る作品。
 
 
 ---
@@ -295,7 +295,7 @@ Point: Experiment and "prayer (doctrinal) nature" are mixed. The Operetta was re
 
 ---
 
-[Re-edit/Compilation: Magnificence in the Memory (2009, Drag City)](https://amzn.to/48cPyPB)
+[再編集／コンピ：Magnificence in the Memory（2009, Drag City）](https://amzn.to/48cPyPB)
 
 Points: A compilation compiled from unreleased tapes. It has strong aspects of sound source preservation and remastering, and is well-organized for beginners. It received attention in reviews such as Pitchfork.
 
@@ -304,7 +304,7 @@ Points: A compilation compiled from unreleased tapes. It has strong aspects of s
 
 ### Lyrics (poetic expression) analysis — typical themes and readings
 
-Fact: Many tracks are centered around chants, fragmented lines, and religious declarations (Father Yod's "voice"), and official transcriptions of the lyrics are rare. It is rare for a song to have the full lyrics text in circulation, and the sound source itself is positioned as a ""document recording a ceremonial place'' (the sound source and track name are available on Spotify / Shazam, etc.).
+Fact: Many tracks are centered around chants, fragmented lines, and religious declarations (Father Yod's "voice"), and there are few official transcriptions of the lyrics available. It is rare for a song to have the full lyrics text in circulation, and the sound source itself is positioned as a ""document recording a ceremonial place'' (the sound source and track name are available on Spotify / Shazam, etc.).
 
 
 Main motif:
@@ -318,13 +318,13 @@ References to the archetypal "travel/purification/elements (fire/water/air/earth
 Doctrinal/ritual phrases (words indicated by redacted track names such as "man the messiah")—words that are improvised and layered as a leader's declaration.
 
 
-How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sound itself is a ritual / (2) Words are suggestive and poetic triggers that generate a communal experience on the spot." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
+How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sound itself is a ritual / (2) Words are suggestive and poetic triggers that generate an on-the-spot communal experience." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
 
 ---
 
 ### Mini biographies by members
 
-*Source Family believers have the same last name as "Aquarian". Below is a short summary highlighting the activities and key involvements.
+*Source Family believers have the same last name as "Aquarian." Below is a short summary highlighting the activities and key involvements.
 
 - **Father Yod (James Edward Baker)**
 
@@ -341,14 +341,14 @@ The main member who played the band's "improvisational guitar". In later years, 
 He supports the band"s bass and is his father Yod"s right-hand man within the commune (distributive role). The history of their activities is summarized in recent interviews and radio.
 
 
-- **Octavius ​​Aquarian (drum)**
+- **Octavius Aquarian（ドラム）**
 
 In charge of tribal rhythm patterns and long grooves. Participated in later reunions with Djin and Sunflower.
 
 
 - **Isis Aquarian / Electricity Aquarian**
 
-Archive/editor/recorder of Source Family. His book The Source: The Untold Story... (Isis & Electricity) preserves and publishes primary materials, photographs, and unreleased music, and he also collaborated on the production of a 2012 documentary. Their materials supported modern reassessment.
+Archive/editor/recorder of Source Family. His book The Source: The Untold Story... (Isis & Electricity) preserves and publishes primary materials, photographs, and unreleased music, and he also collaborated on the production of a 2012 documentary. Their materials supported modern reappraisal.
 
 
 - **Sky Saxon (from The Seeds)**
@@ -360,30 +360,30 @@ He is known for being part of Source Family for a time and being involved in Ya 
 
 ### Reissues in each country (overview)
 
-- **Japan**: 1998 luxury 13CD box [God And Hair (Yahowha Collection)](https://amzn.to/3KqulI6) (Captain Trip Records) - A large collection of limited production, which has since been mainly distributed in the collector market. The Japanese version is known for its luxurious binding that stimulates collectors' hearts.
+- **日本**：1998年の豪華 13CD ボックス [God And Hair (Yahowha Collection)](https://amzn.to/3KqulI6)（Captain Trip Records）――限定生産の大型コレクションで、以後コレクター市場での流通が中心。日本盤はコレクター心を刺激する豪華装丁で知られる。
 
 - **UK/EU**: Swordfish Records (UK) reissues some titles such as Penetration in remastered/limited press formats. An important label that supported reissue distribution in the UK.
 
 
-- **America**: Drag City (2009's Magnificence in the Memory, etc.) has released an archive compilation and is in charge of re-evaluation and distribution in the US. The editing of Drag City functioned as a sound source organization and an "entrance" to modern listeners.
+- **アメリカ**：Drag City（2009 の Magnificence in the Memory 等）がアーカイブ編集盤を出し、米での再評価と流通を担当。Drag City の編集は音源整理・現代リスナーへの“入口”として機能した。
 
 
-- **Notes (Distribution)**:
+- **備考（流通）**：
 
 Many first edition LPs are small pressings of 500-1000 copies. Original editions are expensive and rare.
 
 
-Reissues vary in the degree of editing of the sound source depending on the publisher and time (there is a mix of edited editions that include unreleased songs, re-presses with the originals, remastered editions, etc.). We recommend checking the edition (year/label) when purchasing.
+再発は版元と時期によって音源の編集度合いが違う（未発表曲を含む編集盤、オリジナルのまま再プレス、リマスター版などが混在）。購入時は版（年／レーベル）を確認することを推奨。
 
 
 ---
 
-### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
+### 聴きどころ & 推奨リスニング順（初心者→中級→研究者向け）
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 
 
-**Understanding songwriting and chanting (intermediate)**: Listen to I'm Gonna Take You Home, Savage Sons of Ya Ho Wa and understand the difference between song elements and session elements.
+**Understanding Song Style and Chanting (Intermediate)**: Listen to I'm Gonna Take You Home, Savage Sons of Ya Ho Wa and understand the difference between song elements and session elements.
 
 
 **Archived/Unpublished (Research)**: Dig deeper with Drag City"s Magnificence in the Memory, Captain Trip"s God and Hair (13CD). High archival value.
@@ -408,7 +408,7 @@ Source Family Documentary (The Source Family, 2012) — Must-see video material.
 
 **Characteristics**: Over a long improvisational performance, Father Yod repeatedly calls out ""love," ""the universe," and ""truth'' like a prayer.
 
-**Theme**: A metaphor for sublimating sexual energy into "union with the universe." The title "Penetration" refers not only to the physical sense but also to "penetrating into the depths of consciousness."
+**テーマ**: 性的エネルギーを「宇宙との一体化」へと昇華させる比喩。タイトル「Penetration」は肉体的意味だけでなく「意識の深層へ突き抜ける」ことを指す。
 
 **Recurring Motifs**: "God", "Love", "Children", "Cosmic Light", etc.
 
@@ -439,11 +439,11 @@ The sound "Ya Ho Wha" itself is a sacred mantra of the Source Family, an express
 
 #### 🇺🇸 America
 
-**Initial situation**: In the 1970s, there were only self-produced discs (very small lots), and it remained a cult.
+**初期状況**: 1970年代当時は自主制作盤（極小ロット）しかなく、カルト的存在に留まっていた。
 
 **1990s**: Reissues by indie labels such as Drag City and Swordfish in the context of a psychedelic reappraisal.
 
-**After 2000s**: With the release of The Source Family documentary film (2012), recognition has expanded as part of hippie cultural history.
+**2000年代以降**: The Source Family ドキュメンタリー映画（2012）公開により、ヒッピー文化史の一部として認知が拡大。
 
 **Evaluation trends**: From the point of view of curiosity as ""the music of a strange cult group," it is now considered an ""important record of the history of the American underground."
 
@@ -466,18 +466,18 @@ The sound "Ya Ho Wha" itself is a sacred mantra of the Source Family, an express
 
 **90s psych reissue boom**: P.S.F. Records and Captain Trip Records actively introduced Yahooha 13.
 
-It has been featured as a ""phantom cult psychedelic" in magazines such as ""Eureka" and ""Eurorock Press,'' and Japanese listeners avidly collect it.
+It has been featured as a ""phantom cult psychedelic'' in magazines such as Eureka and Eurorock Press, and Japanese listeners avidly collect it.
 
-**Evaluation trends**: In Japan, it is loved as ""heretical" and ""esoteric psychedelic," and has become a collector's item at imported disc shops (Disc Union, Melon, Manhattan Records, etc.).
+**評価傾向**: 日本では「異端」「秘教サイケ」として愛好され、輸入盤ショップ（ディスクユニオン、メロン、マンハッタンレコード等）でコレクターアイテム化。
 
 They are also said to have influenced Japanese acid bands such as Acid Mothers Temple and High Rise.
 
 ---
 
-### Comparison summary
+### 比較まとめ
 
 
-| Country | Main reissue period | Characteristic evaluation | Trend |
+| 国         | 主なリイシュー時期         | 特徴的評価           | 傾向               |
 | --------- | ----------------- | --------------- | ---------------- |
 | 🇺🇸 America | 1990s ~ Drag City, etc. | From cult curiosity to historical reappraisal | "Legacy of commune music" |
 | 🇩🇪 Germany | Late 1990s ~ | Discovered in the context of krautrock | "Acoustic Experiment" "Acid Jam" |
@@ -505,7 +505,7 @@ According to family accounts, Yod (James Edward Baker) was originally a restaura
 
 It is said that he was aware of his role in music as a ""conduit of energy" rather than a ""performer."
 
-Member Octavius ​​testifies, ""He let us play, but at the same time he was 'listening' to us.His gaze and his breathing determined the direction of the session.''
+Member Octavius ​​says, ""He let us play, but at the same time he was 'listening' to us.His gaze and breathing determined the direction of the session.''
 
 ---
 
@@ -515,17 +515,17 @@ The Source Family lived together in a Hollywood mansion called The Father House,
 
 Making music was an "extension of everyday life," and his living room and basement became his studio.
 
-One family member recalled, ""Recording is a sacred ritual, and as long as you have a microphone and a tape recorder, the energy of the universe will naturally flow into you.''
+家族の一人は「レコーディングは神聖な儀式で、マイクやテープレコーダーがあれば、あとは宇宙のエネルギーが自然に流れ込んでくる」と回想。
 
 ---
 
 #### Interpretation of lyrics and mantra nature
 
-The words "Ya Ho Wha" are not just a band name, but the "name of God" that was chanted on a daily basis within the Source Family.
+「Ya Ho Wha」という言葉は単なるバンド名ではなく、Source Family 内で日常的に唱えられていた「神の名」。
 
 According to the members' testimonies, this was a variation of "Yahweh," and the pronunciation was designed to intuitively sense the sacredness that resides in the sound.
 
-Therefore, Yahowha 13's lyrics aimed for a meditative and magical effect rather than a literary meaning, and emphasized ""vibration'' rather than meaning.
+したがって Yahowha 13 の歌詞は、文学的な意味よりも 瞑想的・呪術的効果 を狙ったもので、「意味より波動」が重視されていました。
 
 ---
 
@@ -533,17 +533,17 @@ Therefore, Yahowha 13's lyrics aimed for a meditative and magical effect rather 
 
 In 1975, Yod died in a hang gliding accident, but his family said, ""He threw off his body," and viewed his death not as sadness but as ""a transition to the next stage."
 
-After that, the members of Yahowha 13 continued their activities on a piecemeal basis, and from the 1990s onwards, they were reevaluated through reissues and documentaries.
+その後、Yahowha 13 のメンバーは断片的に活動を続け、90年代以降はリイシューやドキュメンタリーによって再評価。
 
 A book of testimonies, The Source: The Untold Story of Father Yod, YaHoWha 13, and The Source Family, describes the complex experience as both "destructive and liberating."
 
 ---
 
-#### Summary of supplementary interpretations
+#### 補足解釈のまとめ
 
 What emerges from the testimonies of members and their families is:
 
-Yahowha 13's music is not a ""song" but a ""record of community prayer."
+Yahowha 13's music is not a "song" but a "record of community prayer."
 
 The lyrics had a mantra-like power rather than meaning.
 
@@ -558,11 +558,11 @@ Even after his death, his music continues to live on as a "spiritual legacy."
 
 More than just a "cult band," Yahowha13/Father Yod left a strong impression on future generations as an unusual project that fused music, religion, and communal practices. His sound, which straddles the line between improvisation, ritual, madness and mystery, still provokes listeners even today.
 
-More than just psychedelic rock, Yahowha 13 and Father Yod's music was a sonic ritual that embodied the hippie culture and community spirit of the 1970s. Under the guidance of Father Yod, Source Family members translated spiritual energy into sound through improvisation, with lyrics and chants that functioned more as mantra-like vibrations than literary meaning.
+More than just psychedelic rock, the music of Yahowha 13 and Father Yod was a sonic ritual that embodied the hippie culture and community spirit of the 1970s. Under the guidance of Father Yod, Source Family members translated spiritual energy into sound through improvisation, with lyrics and chants that functioned more as mantra-like vibrations than literary meaning.
 
-His recordings, such as the albums Penetration: An Aquarian Symphony and I"m Gonna Take You Home, document a fusion of religious ritual and psychedelic improvisation that remains evocative even to modern listeners. It has been reevaluated in the United States as a document of cult history, in Germany as an acoustic experiment, and in Japan as an esoteric psychedelic religion, with each culture developing its own unique interpretations.
+His recordings, such as the albums Penetration: An Aquarian Symphony and I"m Gonna Take You Home, document a fusion of religious ritual and psychedelic improvisation that remains evocative even to modern listeners. It has been reevaluated in the United States as a document of cult history, in Germany as an acoustic experiment, and in Japan as an esoteric psychedelic religion, with each culture developing its own unique interpretation.
 
-Today, through streaming and reissues, Yahowha 13's music is widely accessible, and their cult past has culminated in their influence on the contemporary music scene. The spirit of Father Yod and the experimental spirit of Source Family go beyond mere music and continue to challenge new generations to the possibilities of community, improvisation, and spirituality.
+Today, through streaming and reissues, Yahowha 13's music is widely accessible, and their cult past continues to influence the contemporary music scene. The spirit of Father Yod and the experimental spirit of Source Family go beyond mere music and continue to challenge new generations to the possibilities of community, improvisation, and spirituality.
 
 ---
 

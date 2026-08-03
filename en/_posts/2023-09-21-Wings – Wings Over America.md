@@ -15,7 +15,7 @@ title: Wings – Wings Over America
 
 Featuring live recordings from Wings" 1976 American tour, it vividly captures the band"s performance and energy. The album includes a wide range of songs, including Wings hits and Paul McCartney's solo work.
 
-This album is a work that symbolizes the popularity and success of Wings, and has received high praise from fans and music lovers as a work that is packed with the sense of presence that can only be achieved through live performance and the charm of Wings' songs.
+This album is a work that symbolizes the popularity and success of Wings, and has received high praise from fans and music lovers as a work that is filled with the immersive feeling that can only be achieved by live performance and the charm of Wings' songs.
 
 #### Tracklist
 ```md

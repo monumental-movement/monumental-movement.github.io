@@ -10,20 +10,20 @@ tags:
 - Underground
 - Digital Culture
 - Culture
-title: '[Column] The future of underground music'
+title: 【コラム】 アンダーグラウンド・ミュージックの未来
 ---
 
 
 
 ## Birth of the concept of underground music
 
-Text: mmr｜Theme: Where is underground music heading amid changes in the internet, AI, and communities? Decipher the future from history and current facts.
+Text: mmr | Theme: Where is underground music headed amid changes in the internet, AI, and communities? Decipher the future from history and current facts.
 
 The term underground music is not just a genre name.
-It is a cultural concept that refers to music outside of circulation, power, media, and community.
+それは流通、権力、メディア、コミュニティの外側にある音楽を指す文化的概念である。
 
 In the United States in the 1960s, the term "underground" began to be used to refer to rock, jazz, and folk movements that were not covered by mainstream media.
-Particularly in San Francisco and New York, unique cultural spheres were formed through connections with alternative newspapers and the art scene.
+とくにサンフランシスコやニューヨークでは、オルタナティブ新聞やアートシーンと結びつきながら、独自の文化圏が形成されていく。
 
 There are three characteristics of underground music.
 
@@ -49,7 +49,7 @@ C --> D[1970s Punk]
 D --> E[1980s Electronic Music]
 </div>
 
-> Underground music was not created as a genre, but as a term denoting a cultural position outside the mainstream.
+> Underground music was born not as a genre, but as a term denoting a cultural position outside the mainstream.
 
 ---
 
@@ -58,7 +58,7 @@ D --> E[1980s Electronic Music]
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -71,7 +71,7 @@ color: #fff;
 
 The biggest infrastructure for underground music is the club.
 
-In New York in the 1970s, disco clubs became testing grounds for new music.
+1970年代のニューヨークでは、ディスコクラブが新しい音楽の実験場となった。
 The DJ begins to create a new form of music while stringing together records.
 
 In the 1980s, Chicago's Warehouse and Detroit clubs became centers of electronic music culture.
@@ -89,7 +89,7 @@ It was.
 In 1988, the acid house movement spread in Britain.
 The movement expanded with illegal raves, forming a vast underground network.
 
-Later, in the 1990s, genres such as jungle, drum and bass, and UK garage were born out of this club culture.
+その後、1990年代にはジャングル、ドラムンベース、UKガラージなどがこのクラブ文化から誕生する。
 
 <div class="mermaid">
 graph TD
@@ -113,11 +113,11 @@ In the 2000s, the structure of underground music changed significantly.
 
 The reason is the Internet.
 
-The advent of MySpace, blogs, forums, etc. has changed the way music is discovered.
+MySpace、ブログ、フォーラムなどの登場によって、音楽の発見方法が変わった。
 
 Once upon a time
 
-- record shop
+- レコードショップ
 - Club
 - DJ
 
@@ -158,11 +158,11 @@ G --> H[Global Underground Scene]
 
 ## Underground music in the streaming era
 
-In the 2010s, the center of music distribution shifted to streaming.
+2010年代になると、音楽流通の中心はストリーミングへと移る。
 
 Platforms such as Spotify, Apple Music, and YouTube have become the center of the music market.
 
-This change also affected underground music.
+この変化は地下音楽にも影響を与える。
 
 While streaming generates massive access, it also has a structure in which algorithms determine the visibility of music.
 
@@ -172,19 +172,19 @@ You can"t find music that isn"t included in the algorithm.
 
 This problem became a major challenge for underground music.
 
-But at the same time, platforms like Bandcamp are becoming the new home for independent music.
+しかし同時に、Bandcampのようなプラットフォームが独立音楽の新しい拠点となる。
 
-On Bandcamp
+Bandcampでは
 
-- Artists can sell directly
+- アーティストが直接販売できる
 - A community is formed
 - Small labels can operate
 
 A structure was born.
 
-This can be considered a digital version of record culture.
+これはレコード文化のデジタル版とも言える。
 
-> Even in the streaming era, underground music continues to create its own economic zone.
+> ストリーミング時代でも地下音楽は独自の経済圏を作り続けている。
 
 ---
 
@@ -203,7 +203,7 @@ for example
 
 - Bandcamp Community
 - SoundCloud Scene
-- Discord Community
+- Discordコミュニティ
 - local club
 
 exist at the same time.
@@ -229,13 +229,13 @@ C --> H[SoundCloud]
 
 </div>
 
-> Contemporary underground music exists both in physical space and on the internet.
+> 現代の地下音楽は物理空間とインターネットの両方に存在する。
 
 ---
 
 ## The future of underground music
 
-The future of underground music is headed in several directions.
+地下音楽の未来は、いくつかの方向に向かっている。
 
 The first is the miniaturization of communities.
 
@@ -245,7 +245,7 @@ Second, there is a reassessment of local culture.
 
 While music has become more homogenized due to the Internet, interest in regional culture is increasing.
 
-Thirdly, new technology.
+Third, new technology.
 
 AI, VR, real-time streaming, etc. have the potential to change the way we experience music.
 
@@ -261,7 +261,7 @@ This is because new music always comes from small places.
 
 ---
 
-## Chronology: History of underground music
+## 年表：地下音楽の歴史
 
 | Years | Events |
 | ------ | -------------------- |
@@ -270,7 +270,7 @@ This is because new music always comes from small places.
 | 1980s | Birth of house and techno |
 | 1990s | Rave culture and electronic music expansion |
 | 2000s | MySpace and blogging culture |
-| 2010s | Streaming and SoundCloud |
+| 2010年代 | ストリーミングとSoundCloud   |
 | 2020s | Online communities and hybrid culture |
 
 > Underground music is a culture that has survived while changing its form along with changes in technology and society.

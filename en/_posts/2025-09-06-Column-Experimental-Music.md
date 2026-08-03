@@ -26,7 +26,7 @@ Text: mmr｜Theme: Changes in experimental music from the avant-garde to the pos
 ---
 
 ## 1940s-1950s: The birth of experimental music
-- **Background:** Post-war Europe and America seek to reconstruct music. ""Music of Chance'' by John Cage and musique concrète by Schaeffer appear.
+- **Background:** Post-war Europe and America seek to reconstruct music. ""Music of Chance'' by John Cage and musique concrète by Schaefer appear.
 - **Equipment:** Tape recorder, prepared piano, early oscillator.
 
 ### Masterpiece
@@ -44,7 +44,7 @@ Text: mmr｜Theme: Changes in experimental music from the avant-garde to the pos
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -52,7 +52,7 @@ color: #fff;
 }
 </style>
 
-| Artist | Track | Year |
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
 | Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 | John Cage | 4"33"" | 1952 |
@@ -101,7 +101,7 @@ color: #fff;
 
 ### Masterpiece
 - [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)
-- [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)
+- [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)  
 - [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)
 
 ---
@@ -159,7 +159,7 @@ color: #fff;
 
 ### Masterpiece
 - [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)
-- [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)
+- [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)  
 - [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)
 
 ---
@@ -182,8 +182,8 @@ color: #fff;
 ---
 
 
-## 2000s: Laptops and globalization
-- **Background:** Noise, electronica, and field recordings spread internationally. ""Laptop performance'' at live performances has become commonplace.
+## 2000s：ラップトップとグローバル化
+- **Background:** Noise, electronica, and field recording spread internationally. ""Laptop performance'' at live performances has become commonplace.
 - **Equipment:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Masterpiece
@@ -240,7 +240,7 @@ color: #fff;
 ---
 
 ## 2020s: AI and post-digital era
-- **Background:** AI composition, algorithmic music, and immersive experiences in VR/AR space are underway. Noise and experimental music once again intersect with the club scene.
+- **背景:** AI作曲、アルゴリズミック音楽、VR/AR空間での没入型体験が進行中。ノイズや実験音楽が再びクラブシーンと交錯。  
 - **Equipment:** AI generation tools (RAVE, Magenta Studio), Eurorack, modular synth + machine learning algorithm.
 
 ### Masterpiece
@@ -267,7 +267,7 @@ color: #fff;
 ---
 
 ## The future of experimental music
-Experimental music has always continued to expand the boundaries of music. Starting from prepared piano and tape experiments in the 1940s, to noise and industrial in the 70s, to digital glitch in the 90s, to AI-generated music in the 2020s, it's constantly changing.
+Experimental music has always continued to expand the boundaries of music. Starting from prepared piano and tape experiments in the 1940s, to noise and industrial in the 70s, to digital glitch in the 90s, to AI-generated music in the 2020s, it continues to evolve.
 
 The essence of experimental music is unpredictability and a spirit of exploration. Even outside of commercial music, its influence pervades rock, club music, contemporary music, and pop, making it a force to be reckoned with.
 

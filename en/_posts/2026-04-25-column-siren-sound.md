@@ -26,7 +26,7 @@ For example, in Japan, many people live in relatively compact urban structures, 
 
 This difference has a direct impact on siren design.
 
-> A siren is not just a warning sound, but a sound that reaches people and is designed to be optimized for the human living environment.
+> A siren is not just a warning sound, but a ""sound that reaches people'' that is optimized for the human living environment.
 
 ---
 
@@ -60,13 +60,13 @@ Particularly in recent years, cars are highly sound insulated, and in regions wh
 
 For this reason, sirens are not just a loud sound, but are designed to be a sound that penetrates the environment.
 
-> The essence of a siren is not its volume, but its design, which allows it to be perceived above environmental noise.
+> The essence of a siren is not its volume, but its design to be perceived above environmental noise.
 
 ---
 
 ## Long-distance migration and music culture in America
 
-In the United States, the distances between cities are extremely long, and transportation by automobile is central to life. It is not uncommon for people to drive for more than an hour to commute or travel. As a result, the interior of a car has developed not just as a space for transportation, but also as a space for enjoying music.
+In the United States, the distances between cities are extremely long, and transportation by automobile is the center of life. It is not uncommon for people to drive for more than an hour to commute or travel. As a result, the interior of a car has developed not just as a space for transportation, but also as a space for enjoying music.
 
 Car audio culture is very strong, and it is common to play music at high volumes. This is also due to the prevalence of music genres that emphasize bass and treble, such as hip-hop and rock.
 
@@ -77,9 +77,9 @@ In such an environment, it is difficult to notice with a normal, monotonous warn
 ・Rhythmically modulating
 ・Designed to give a sense of direction
 
-This allows it to be instantly recognized by drivers without getting lost in the music.
+This ensures that it doesn't get lost in the music and is immediately recognized by the driver.
 
-> A culture of long driving hours and loud music has led to the evolution of sirens into more aggressive and varied sounds.
+> A culture of long driving hours and loud music has led to the evolution of sirens with more aggressive and varied sounds.
 
 ---
 
@@ -94,7 +94,7 @@ Additionally, because Japanese homes are densely packed, excessive volume has a 
 ・Use of audio announcements
 ・Night volume control
 
-Furthermore, sounds such as "An ambulance is passing by" have the role of helping people understand the situation even in environments where visual information is difficult to obtain.
+Furthermore, sounds such as "An ambulance is passing by" can help people understand the situation even in environments where visual information is difficult to obtain.
 
 > Japanese sirens are ""sounds that make people understand'' that are optimized with consideration to urban density and the living environment.
 
@@ -118,7 +118,7 @@ In Europe, the sound of a siren is not only designed to increase the volume or a
 
 ### Germany: Standardized two-tone alternating pattern
 
-German emergency vehicles commonly use an alternating two-note pattern called "high-low". This is clearly standardized, and switching frequencies creates a strong alert.
+German emergency vehicles commonly use an alternating two-tone pattern known as ""high-low.'' This is clearly standardized, and switching frequencies creates a strong alert.
 
 The characteristics are as follows.
 
@@ -127,7 +127,7 @@ The characteristics are as follows.
 -Easy to identify even at long distances
 - Difficult to mix with other sounds
 
-This simplicity is intentional and has the advantage of ensuring that the sound remains intact even in highly reverberant urban environments. Additionally, in Germany, traffic regulations define the combination of a siren and a blue light as a clear signal to give priority to the road, so it is important that the sound pattern be clear enough to avoid misidentification.
+This simplicity is intentional, and has the advantage of allowing sound to travel unimpeded, even in highly reverberant urban environments. Additionally, in Germany, traffic regulations define the combination of a siren and a blue light as a clear signal to give priority to the road, so it is important that the sound pattern be clear enough to avoid misidentification.
 
 > The German siren is a sound that can be ""avoided without hesitation'' through standardization and clarity.
 
@@ -146,7 +146,7 @@ As for the characteristics.
 
 In a high-density city like Paris, there is always a lot of noise, so moving sounds are more likely to attract attention than two simple tones. Therefore, there is a strong tendency for French sirens to be recognized by rhythm.
 
-> The French siren is a sound that is perceived as ""motion'' amidst the noise of the city.
+> The French siren is a sound that is perceived as ""motion'' amidst urban noise.
 
 ---
 
@@ -281,7 +281,7 @@ timeline
 
 The difference in sirens is not simply a difference in specifications between countries. This comes from differences in assumptions about where people hear sounds and how they live their lives.
 
-In a country with vast roads and a motorized society, there is a need for strong and changing sounds that can reach the enclosed interior of a car. Countries with densely populated cities require sound that coexists with the surroundings and is reliably recognized.
+In a country with vast roads and a motorized society, there is a need for strong and changing sounds that can reach the enclosed interior of a car. In countries with densely populated cities, there is a need for sound that coexists with its surroundings and is reliably recognized.
 
 Behind this, music culture and the everyday sound environment are closely related.
 

@@ -24,7 +24,7 @@ Funk, hip-hop, Afrobeat, world music, free jazz, noise... Laswell's projects in 
 
 Because of his diversity, it was not easy to get a bird's-eye view of his activities at the time. Because individual works were fragmented and scattered, listeners were unable to grasp the ""whole picture.''
 
-However, with the compilation album Deconstruction of the 80s, things changed completely. This album is a compilation of the multi-genre and multi-project sound sources that Laswell was involved in in the 1980s, remastered and reconstructed.
+However, the situation changed completely with the compilation album ""Deconstruction of the 80s''. This album is a compilation of the multi-genre, multi-project sound sources that Laswell was involved in in the 1980s, remastered and reconstructed.
 In other words, it can be said that this compilation itself appeared as a ""completed form of deconstruction and reconstruction.''
 
 This article focuses on the recordings from this album and projects from that time, and follows the facts of how Bill Laswell & Friends deconstructed and reorganized the acoustics of the 1980s.
@@ -49,13 +49,13 @@ color: #fff;
 
 ## Introduction: Why "deconstructing the 80s"
 When talking about the music history of the 1980s, Bill Laswell is always on the other side.
-Behind the flashy sounds of major pop, he was a ""sound editor'' who reorganized black music, noise, traditional African music, dub, avant-garde, and studio technology, and traversed a variety of fields as a producer, bassist, and conductor.
+Behind the flashy sounds of major pop, he was a "sound editor" who reorganized black music, noise, traditional African music, dub, avant-garde, and studio technology, and traversed a variety of fields as a producer, bassist, and conductor.
 
 The reason why Laswell deserves to be called ""Deconstruction of the 1980s'' lies in the following facts.
 
 - His activities were a "crossroads" bridging pop and underground
 - The produced works are parallelized across the boundaries of world music, jazz, and noise.
-- Breaking the 80's sound formula and turning the studio into a testing ground
+- Breaking the '80s sound formula and turning the studio into a testing ground
 - The released works have blurred the genre definition.
 
 In this article, we introduce Bill Laswell and the musicians around him.
@@ -72,7 +72,7 @@ A "cross-border" network has been formed, and Laswell is at the center of it.
 
 ## 1-2. Material formation
 Material (formed in 1955, active since 1979) is a project centered around Laswell, Michael Beinhorn, and Fred Maher.
-Initially, the group focused on no-wave, minimal, and funk, and later expanded to include dance, hip-hop, and ethnic elements.
+In the early years, the band focused on no-wave, minimal, and funk, and later expanded to include dance, hip-hop, and ethnic elements.
 
 **Key facts:**
 - ""Memory Serves'' (1981) with Sonny Sharrock and Henry Threadgill
@@ -99,7 +99,7 @@ Laswell's sound has a strong affinity for Jamaican dub.
 
 **fact:**
 - Appointed Martin Bisi as engineer
-- Album known for being the first recorded by Whitney Houston ("Memories")
+- Album known for Whitney Houston's first recording ("Memories")
 - Guest appearances by Bernard Fowler, Nona Hendryx, Archie Shepp and others
 - Introducing dub techniques (reverberation, repetition, subtraction) to rock/funk/pop
 

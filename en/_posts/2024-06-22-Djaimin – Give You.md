@@ -13,9 +13,9 @@ title: Djaimin – Give You
 ---
 
 
-Djaimin is a top Swiss DJ and producer. A legend in the Swiss house scene, he was a resident at Montreux's Platinum Club in the 1980s and was one of the first DJs to perform live house music on Swiss radio station Couleur 3. He was also active as the unit Black & White Brothers with Mr. Mike.
+Djaimin is a top Swiss DJ and producer. A legend in the Swiss house scene, he was a resident at Montreux's Platinum Club in the 1980s and was one of the first DJs to perform live house music on Swiss radio station Couleur 3. He was also active as part of the unit Black & White Brothers with Mr. Mike.
 
-"Give You" was Switzerland's first house recording and became a huge hit worldwide.
+"Give You" was Switzerland's first house recording and was a huge hit worldwide.
 
 #### Tracklist
 ```md

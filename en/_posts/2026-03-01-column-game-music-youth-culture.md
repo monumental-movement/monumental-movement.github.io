@@ -31,7 +31,7 @@ Traditionally, it was positioned as background music that supplemented the game 
 
 * The strength of the melody created by technical constraints
 * Composer visibility and branding
-* Explosion of derivative works due to internet culture
+* ネット文化による二次創作の爆発
 * Streaming and playlist generation
 * E-sports and large-scale production
 *Changes in music exposure time among young people
@@ -54,13 +54,13 @@ color: #fff;
 
 ## History
 
-### 1. Establishment of 8bit and melodicism (1980s)
+### 1. 8bitと旋律中心主義の確立（1980年代）
 
 Home game consoles in the 1980s had a limited number of simultaneous polyphony, and restrictions on chords and sustained notes.
 Therefore, composers emphasized clear rhythms and melodies that were easy to remember.
 
 **Super Mario Bros**
-Music: Koji Kondo
+音楽：近藤浩治
 
 The terrestrial BGM is designed with a loop structure of about 2 minutes, and has a light and jumping feel with a tempo of about 100 to 110 BPM.
 The simple triad progression and the driving force of the bass line were strongly connected to the playing experience.
@@ -92,7 +92,7 @@ Started in 2002
 **Distant Worlds: music from FINAL FANTASY**
 has performed repeatedly in North America, Europe, and Japan, and established game music in classical halls.
 
-At this stage, game music transitioned from a ""domestic experience" to a ""performance art in public spaces."
+この段階で、ゲーム音楽は「家庭内体験」から「公共空間の演奏芸術」へ移行した。
 
 > Game music has left the home and entered the concert hall.
 
@@ -113,9 +113,9 @@ Young people not only listen to the original songs, but also
 *EDM remix
 * Chiptune reconstruction
 
-Through such reinterpretation, participants come to participate.
+といった再解釈を通じて参加するようになる。
 
-During this era, game music transformed into "shared material."
+During this era, game music changed into ""shared material.''
 
 > Players have changed from listeners to co-writers.
 
@@ -133,7 +133,7 @@ At the same time,
 **Minecraft**
 Music: C418
 
-The environmental music approach has become part of the daily lives of young people as background music for work.
+環境音楽的アプローチは、作業用BGMとして若年層の日常に溶け込んだ。
 
 Game music will be incorporated into playlists for "concentration," "study," and "sleep," redefining it as background music for daily life.
 
@@ -141,20 +141,20 @@ Game music will be incorporated into playlists for "concentration," "study," and
 
 ---
 
-### 5. Global distribution and orchestration (2020s)
+### 5. グローバル配信とオーケストラ化（2020年代）
 
 Distribution starts in 2020
 **Genshin**
 was recorded with a full orchestra in London, Shanghai, and other locations.
 The official concert video was simultaneously distributed worldwide and viewed by millions of viewers.
 
-At e-sports tournaments, large-scale performances are included in the opening ceremonies.
+At e-sports tournaments, large-scale productions are included in the opening ceremonies.
 **League of Legends**
 is developing virtual artist productions and live performances.
 
 Game music is no longer just "in-game music" but has become a core element of global entertainment.
 
-> For young people, it was the most natural mainstream.
+> 若年層にとって、それは最も自然なメインストリームだった。
 
 ---
 
@@ -200,7 +200,7 @@ flowchart TD
 ## Essential Tracks
 
 * **Ground BGM (Super Mario Bros.)**
-* **Overture (Dragon Quest)**
+* **序曲（ドラゴンクエスト）**
 * **One-Winged Angel**
 * **Megalovania**
 * **Minecraft – Sweden**
@@ -245,6 +245,6 @@ It is predicted that real-time music experiences in VR spaces and Metaverse even
 
 ---
 
-> The moment when game music becomes mainstream among young people is not a single incident, but the result of a 40-year accumulation of technology and culture.
+> The moment when game music becomes mainstream among young people is not a single incident, but the result of 40 years of technology and cultural accumulation.
 
 ---

@@ -10,7 +10,7 @@ tags:
 - Experimental
 - Post Rock
 - History
-title: '[Column] Anticon — Genealogy of anti-icons and their surrounding music'
+title: '[Column] Anticon — Genealogy of anti-icon and its surrounding music'
 ---
 
 
@@ -19,7 +19,7 @@ title: '[Column] Anticon — Genealogy of anti-icons and their surrounding music
 Text: mmr | Theme: The history of experimental hip-hop/indie music by Anticon (founded in 1998) and the discography of major artists.
 
 
-Anticon (anticon.) is an American indie/experimental hip-hop label/collective founded in 1998. While many of the founding members expanded their scope of activities into "avant-garde hip-hop" and indie/electronica, crossing over between solo acts and derivative units, the label's activities declined in the late 2010s after significant changes (departure of a co-founder, death of a member, etc.).
+Anticon (anticon.) is an American indie/experimental hip-hop label/collective that was founded in 1998. While many of the founding members expanded their activities into "avant-garde hip-hop" and indie/electronica, crossing over between solo acts and derivative units, the label's activities declined in the late 2010s after significant changes (departure of a co-founder, death of a member, etc.).
 
 ---
 
@@ -39,7 +39,7 @@ color: #fff;
 
 ## History and spirit — origins as "anti"
 
-Anticon was founded in 1998 with the likes of **Sole (Tim Holland)**, **Doseone (Adam Drucker)**, **Jel (Jeffrey Logan)**, **Odd Nosdam (David Madson)**, **Pedestrian (James Brandon Best)**, and **Yoni Wolf (Why?)**.
+Anticon was founded in 1998 with **Sole (Tim Holland)**, **Doseone (Adam Drucker)**, **Jel (Jeffrey Logan)**, **Odd Nosdam (David Madson)**, **Pedestrian (James Brandon Best)**, **Yoni Wolf (Why?)** and others.
 The name comes from the word "ant-icon", symbolizing resistance to established genres and commercial norms.
 
 Representative projects include **cLOUDDEAD**, **Themselves**, **Subtle**, and **Deep Puddle Dynamics**.
@@ -150,9 +150,9 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 ### ■ Alias ​​(Brendon Whitney)
 
 | Year | Title | Notes | Link |
-| ---- | ------------------------------------- | -------- | ----------------------------------------------------- |
+| ---- | ------------------------------------- | -------- | --------------------------------------------------------------- |
 | 2000 | *The Other Side of the Looking Glass* | Debut work | [Amazon](https://amzn.to/4o9dFDz) |
-| 2003 | *Muted* | Suppressed sound world | [Amazon](https://amzn.to/4mPkFUO) |
+| 2003 | *Muted* | Suppressed Sound World | [Amazon](https://amzn.to/4mPkFUO) |
 | 2008 | *Resurgam* | Post-rock | [Amazon](https://amzn.to/3Wsfz65) |
 | 2014 | *Pitch Black Prism* | Final work | [Amazon](https://amzn.to/3KDPhv3) |
 
@@ -264,7 +264,7 @@ There are reports that the official website and activities have shrunk since 201
 
 **Production Experimentality**: Tracks that utilize field recordings, noise, and subtle ambience need to be listened to with a different metric than traditional beat-oriented hip-hop.
 
-**Politics of community**: The conflicts and resolutions of label management, ownership, and artistic policy are useful materials for thinking about the politics of indie music. Sole's departure in 2010 and Alias' disbandment following his death are important case studies.
+**Politics of Community**: The conflicts and resolutions of label management, ownership, and artistic policy are useful materials for thinking about the politics of indie music. Sole's departure in 2010 and Alias' disbandment following his death are important case studies.
 
 ---
 

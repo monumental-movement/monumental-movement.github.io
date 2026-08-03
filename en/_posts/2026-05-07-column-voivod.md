@@ -18,7 +18,7 @@ title: '[Column] Voivod: SF, nuclear war, and the extreme north of progressive t
 
 ## What was Voivod?
 
-Text: mmr | Theme: Canadian band Voivod has rebuilt thrash metal with science fiction and an experimental spirit, paving the way for the future of progressive metal.
+Text: mmr｜Theme: Canadian maverick band Voivod has rebuilt thrash metal with science fiction and an experimental spirit, paving the way for the future of progressive metal.
 
 Looking back at the history of heavy metal in the 1980s, many bands competed in terms of speed and weight. However, there was a clearly different presence among them. Voivod is from Jonquières, Quebec, Canada.
 
@@ -33,11 +33,11 @@ When many listeners hear Voivod's music for the first time, they feel strangely 
 - The chord progression is unstable and has a floating feel.
 - The vocals are like a roar, but also somehow cold.
 
-However, deep within the chaos there is a strong sense of unity.
+However, beneath the chaos there is a strong sense of unity.
 
 Voivod was a band that was trying to create an "alternative future" rather than "destruction."
 
-In the 1980s, when thrash metal was all about violence and anti-establishment themes, Voivod brought to the fore themes of space, technology, nuclear war, cyborgization, and the collapse of human civilization.
+In the 1980s, when thrash metal was all about violence and anti-establishment themes, Voivod brought themes of space, technology, nuclear war, cyborgization, and the collapse of human civilization to the fore.
 
 And it's not just a lyrical production.
 The sound itself echoes like a collapsed futuristic city.
@@ -111,7 +111,7 @@ This was a fairly rare trait in metal history.
 
 ### Early demo era
 
-Their 1984 demo, To The Death!, already had hints of what would become Voivod.
+The 1984 demo To The Death! already contained what would become Voivod.
 
 A rough performance.
 
@@ -141,7 +141,7 @@ At that time, the world was shrouded in Cold War tension.
 - Arms race.
 - Dystopian future view.
 
-This atmosphere permeated throughout 1980s culture, but Voivod musicalized it in their own way.
+This atmosphere pervaded 1980s culture, but Voivod musicalized it in their own way.
 
 ### Ruined future world
 
@@ -163,7 +163,7 @@ There are elements of Discharge and GBH in the tempo and aggression.
 
 However, they mixed in a strange sense of odd time signatures.
 
-At this point, the seeds of what would later become progressive were present.
+At this point, the seeds of the later progressive movement were present.
 
 ### Away artwork
 
@@ -198,7 +198,7 @@ This directly led to later progressive metal and avant-garde metal.
 
 ## "Rrröööaaarrr" and a slash that makes noise
 
-1986"s Rrröööaaarrr was Voivod"s next move in a more dangerous direction.
+1986's Rrröööaaarrr took Voivod in a more dangerous direction.
 
 This album deliberately subverts the hedonism of typical thrash metal.
 
@@ -234,7 +234,7 @@ The reason is clear.
 
 Voivod was already creating "alternative metal" at this point.
 
-In the mid-1980s, they were ahead of the curve in the experimental metal sensibilities that would spread from the 1990s onwards.
+In the mid-1980s, they anticipated the experimental metal sensibilities that would spread from the 1990s onwards.
 
 ### Canada's position
 
@@ -264,7 +264,7 @@ The future they envision is an unstable, mechanized dystopia.
 
 The late 1980s was also a time when computer technology began to rapidly penetrate general society.
 
-Voivod was a musical expression of this change.
+Voivod was a musical expression of that change.
 
 ### Progressive structure
 
@@ -280,7 +280,7 @@ These had a great influence on later technical metal.
 
 ### Fusion of SF and metal
 
-There were bands that focused on science fiction before Voivod.
+Before Voivod, there were bands that focused on science fiction.
 
 However, there have been few bands that have futuristicized the musical structure itself to this extent.
 
@@ -387,7 +387,7 @@ It received particularly high praise from musicians.
 
 In later years, many experimental metal bands cited Voivod as an important source.
 
-> ""Dimension Hatröss" was a masterpiece that transformed metal into ""space architecture."
+> 『Dimension Hatröss』は、メタルを“宇宙建築”へ変化させた傑作だった。
 
 ---
 
@@ -401,7 +401,7 @@ This work combines their experimental nature and ease of listening with a miracu
 
 A cover of Pink Floyd"s song "Astronomy Domine" symbolizes Voivod"s musical roots.
 
-They weren't just a thrash band, they were deeply psychedelic and cosmic.
+彼らは単なるスラッシュバンドではなく、サイケデリックと宇宙感覚を深く吸収していた。
 
 ### Major distribution and reputation expansion
 
@@ -413,15 +413,15 @@ But at the same time, they never fully adapted to the mainstream market.
 
 ### Complexity and Groove
 
-This work has a stronger sense of groove than before.
+この作品では、従来よりグルーヴ感が強化されている。
 
 Although complex, the music progresses fluidly.
 
 This feeling also connected to later alternative metal.
 
-### Piggy's Guitar Revolution
+### Piggyのギター革命
 
-Piggy's codework was completely unique at this point.
+Piggyのコードワークは、この時点で完全に唯一無二だった。
 
 It deviates greatly from the idea of ​​a general metal guitar.
 
@@ -437,13 +437,13 @@ As the Cold War structure began to change, Voivod's nuclear war worldview began 
 
 They were not just a band of the times, but an expression of civilizational anxiety itself.
 
-> ""Nothingface"' was the crystallization of Voivod"s experimentalism and musicality at the highest level.
+> ""Nothingface"' was a work that crystallized Voivod"s experimentalism and musicality at the highest level.
 
 ---
 
 ## Changes and struggles in the 1990s
 
-In the 1990s, the metal scene changed drastically.
+In the 1990s, the metal scene changed dramatically.
 
 - Grunge.
 - Alternative.
@@ -455,7 +455,7 @@ Voivod will also explore new directions amidst these changes.
 
 ### Melody version of "Angel Rat"
 
-1991's Angel Rat took Voivod in a more melodic direction.
+With 1991's Angel Rat, Voivod took a more melodic direction.
 
 The psychedelic colors and rock feel are stronger here.
 
@@ -463,7 +463,7 @@ Although some fans were confused, this work was reevaluated in later years.
 
 ### "The Outer Limits"
 
-1993's ""The Outer Limits'' again strengthens the sci-fi tone.
+1993年の『The Outer Limits』では、再びSF色が強化される。
 
 The long song "Jack Luminous" became an important song symbolizing Voivod's progressive nature.
 
@@ -479,7 +479,7 @@ His distorted bass sound was an important element supporting Voivod's mechanical
 
 In the 1990s, the metal market was undergoing major restructuring.
 
-Among them, Voivod remained more experimental than commercial.
+その中でVoivodは、商業性より実験性を維持し続けた。
 
 Although this was difficult, it also increased their value in the long term.
 
@@ -510,19 +510,19 @@ These naturally connect to later post-metal and alternative metal.
 
 ## An innovator named Piggy
 
-Piggy's presence is absolutely essential when talking about Voivod.
+Voivodを語る上で、Piggyの存在は絶対に欠かせない。
 
 He occupies a very special place in metal guitar history.
 
-### The man who changed the concept of riffing
+### リフの概念を変えた男
 
 Normal thrash guitar emphasizes aggression and speed.
 
 However, Piggy created an ""unstable space.''
 
-His code is muddy.
+彼のコードは濁っている。
 
-However, that turbidity was what made the Voivod sound.
+だが、その濁りこそがVoivodサウンドを成立させていた。
 
 ### Distance from jazz and progressive rock
 
@@ -554,11 +554,11 @@ He was building guitars with a unique feel.
 
 As a result, Voivod has a unique floating feeling that is difficult to explain.
 
-### Piggy's Death
+### Piggy's death
 
 In 2005, Piggy died of colon cancer.
 
-This was a devastating blow to Voivod.
+これはVoivodにとって壊滅的打撃だった。
 
 However, the recordings and ideas he left behind were used in his later works.
 
@@ -570,9 +570,9 @@ However, the recordings and ideas he left behind were used in his later works.
 
 Voivod is not just a sound band.
 
-Away's artwork was a huge part of shaping the Voivod world.
+Awayによるアートワークは、Voivod世界を形成する巨大要素だった。
 
-### DIY spirit
+### DIY精神
 
 From the beginning, Away was in charge of jackets and logos.
 
@@ -582,7 +582,7 @@ The Voivod were building their own world.
 
 ### SF comic world view
 
-The world Away depicts is a mixture of Mobius, underground comics, and science fiction animation.
+Awayの描く世界には、メビウス、地下コミックス、SFアニメーション的感覚も混在している。
 
 As a result, Voivod became "readable metal."
 
@@ -592,11 +592,11 @@ With Voivod, artwork and sound are perfectly connected.
 
 This is very important.
 
-They weren't just creating album jackets, they were creating world settings.
+彼らは単なるアルバムジャケット制作ではなく、世界設定を作っていた。
 
 ### Expanding Metal Aesthetics
 
-Much of 1980s metal featured muscular, exaggerated visuals.
+1980年代メタルの多くは、筋肉的で誇張されたビジュアルを用いていた。
 
 But Voivod is different.
 
@@ -627,7 +627,7 @@ Voivod changes with each work.
 
 However, at its core, the sense of an ""unstable future world'' remains consistent.
 
-This has pushed them beyond just a genre band to a ""general artistic band.''
+This has pushed them into a ""general artistic band'' rather than just a genre band.
 
 > The artwork for Away was a huge device called Voivod that visualizes the universe.
 
@@ -641,11 +641,11 @@ Since the 2000s, Voivod has continued its activities despite facing difficulties
 
 There was also a time when Jason Newsted, formerly of Metallica, joined the band.
 
-He was known as an avid fan of Voivod.
+彼はVoivodの熱心なファンとして知られていた。
 
-The addition of Newsted has also led to renewed attention to Voivod.
+The addition of Newsted has also led to a renewed focus on Voivod.
 
-### Continuation after Piggy's death
+### Piggy没後の継続
 
 After Piggy's death, it seemed difficult for the band to continue.
 
@@ -655,7 +655,7 @@ This was not just an act of maintaining nostalgia, but an act of continuing the 
 
 ### Connecting with the new generation
 
-In the 21st century, Voivod is being reevaluated by the younger generation.
+21世紀に入り、Voivodは若い世代から再評価されていく。
 
 The reason is clear.
 
@@ -663,13 +663,13 @@ This is because modern metal contains a lot of Voivod elements.
 
 Dissonance.
 
-Odd time signature.
+変拍子。
 
-SF worldview.
+SF世界観。
 
 Acoustic spatiality.
 
-What was once heresy later became standard.
+かつて異端だったものが、後にスタンダード化したのである。
 
 ### After "Target Earth"
 
@@ -691,7 +691,7 @@ They still maintain their experimental spirit.
 
 ---
 
-## What Voivod leaves behind
+## Voivodが残したもの
 
 Voivod wasn't a huge commercial band.
 
@@ -717,7 +717,7 @@ As a result, the path of avant metal and experimental metal expanded.
 
 Metal that dealt with science fiction images existed.
 
-But Voivod has reduced this down to its sonic structure.
+だがVoivodは、それを音響構造へまで落とし込んだ。
 
 This was a very important innovation.
 
@@ -766,7 +766,7 @@ That"s because they weren"t just a trend, they were turning ""anxiety about the 
 | ---- | ---------------------- |
 | 1982 | Formed in Quebec, Canada |
 | 1984 | "War and Pain" announced |
-| 1986 | "Rrröööaaarrr" announced |
+| 1986 | 『Rrröööaaarrr』発表       |
 | 1987 | "Killing Technology" announced |
 | 1988 | "Dimension Hatröss" announced |
 | 1989 | "Nothingface" announced |
@@ -797,9 +797,9 @@ That"s because they weren"t just a trend, they were turning ""anxiety about the 
 
 Voivod was a mutation of thrash metal.
 
-However, they did not stop at mere mutations.
+However, they did not end with mere mutations.
 
-This abnormality was inherited in later generations and permeated many areas such as progressive metal, avant metal, post metal, and technical metal.
+This abnormality was inherited in later generations and permeated into many areas such as progressive metal, avant metal, post metal, and technical metal.
 
 They didn't create "futuristic metal."
 
@@ -819,7 +819,7 @@ An unstable civilization.
 
 Voivod has been making them sound since the 1980s.
 
-And the sound still resonates as if it is coming from the future.
+And that sound still resonates today as if it is coming from the future.
 
 > Voivod were one of the first innovative bands to translate "anxiety about the future" into metal.
 
@@ -829,7 +829,7 @@ And the sound still resonates as if it is coming from the future.
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FsrBKe5auGg?si=fNq6sIF857tojDuP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -17,7 +17,7 @@ title: '[Column] Why does music that was born underground come back again and ag
 
 ## What is Underground Music?
 
-Text: mmr｜Theme: Why does the music that comes from underground come back again and again? Deciphering the cyclical structure of underground culture and its relationship with society through the history of jazz, punk, house, grime, etc.
+Text: mmr | Theme: Why does the music that comes from underground come back again and again? Deciphering the cyclical structure of underground culture and its relationship with society through the history of jazz, punk, house, grime, etc.
 
 
 ### Sound starting from an invisible place
@@ -81,11 +81,11 @@ color: #fff;
 
 Underground music has several conditions in common.
 
-Firstly, being on the **social periphery**.
+First, being on the **social periphery**.
 
 - Surroundings of the city
 - Immigrant community
-- Youth culture
+- 若者文化
 - Minority culture
 
 In these places, values ​​that differ from mainstream culture develop.
@@ -132,7 +132,7 @@ Rock and roll in the 1950s was spread by radio and television.
 
 Punk in the 1970s was spread by music magazines and indie labels.
 
-House and techno in the late 1980s spread around the world through club culture and a network of record shops.
+1980年代後半のハウスとテクノは、クラブ文化とレコードショップのネットワークによって世界に広がった。
 
 In other words, underground music becomes **visible** at some stage.
 
@@ -167,7 +167,7 @@ Many genres become ""pop'' at this stage.
 
 - Punk becomes pop punk
 - Hip hop becomes pop rap
-- Techno turns into EDM
+- テクノはEDMに変化する
 
 This change is not the end of culture.
 
@@ -202,7 +202,7 @@ In other words, underground culture is born as a **reaction** of mainstream cult
 
 This cycle is repeated over and over again.
 
-> The resurgence of the underground is not a coincidence, but a natural reaction to mainstream culture.
+> The resurgence of the underground is not an accident, but a natural reaction to mainstream culture.
 
 ---
 
@@ -229,7 +229,7 @@ This cycle can be seen in almost every genre.
 
 Culture spreads, matures, becomes saturated, and then returns underground.
 
-> Music culture does not progress in a straight line, but as a cycle that goes back and forth between underground and above ground.
+> Musical culture does not progress in a straight line, but as a cycle that goes back and forth between underground and above ground.
 
 ---
 
@@ -241,7 +241,7 @@ Culture spreads, matures, becomes saturated, and then returns underground.
 | 1950s | Rock and roll expands as youth culture |
 | 1970s | Punk emerges as a DIY culture |
 | 1980s | Birth of house and techno in Chicago and Detroit |
-| 1990s | Rave culture and drum & bass expansion |
+| 1990s | Rave culture and the expansion of drum and bass |
 | 2000s | Grime was born from pirate radio |
 | 2010s | Internet-originated genres such as SoundCloud rap emerge |
 | 2020s | Internet community forms new underground scene |
@@ -327,7 +327,7 @@ It doesn't go away.
 
 This is because as long as mainstream culture exists, there will also be an outside world.
 
-Underground cultures start small, grow in communities, and eventually spread throughout the world.
+Underground cultures start small, grow in communities, and eventually spread around the world.
 
 And the moment it expands, a new underground is born somewhere.
 
@@ -335,7 +335,7 @@ Music history is a repetition of this process.
 
 The sounds that begin underground eventually become the sounds of the times.
 
-> The future of music is always beginning to sound underground, something that cannot yet be seen.
+> The future of music is always beginning to sound underground, where we can't see it yet.
 
 ---
 

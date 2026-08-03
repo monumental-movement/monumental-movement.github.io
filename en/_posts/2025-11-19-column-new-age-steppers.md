@@ -20,7 +20,7 @@ title: '[Column] New Age Steppers: The revolution of an action label that reconn
 
 Text: mmr｜Theme: About the history of the "mixed team" that symbolized On-U Sound and the innovations it left behind
 
-In London at the end of the 1970s, even though the punk explosion had subsided, society was still plagued by many rifts such as unemployment, division, strikes, and discrimination against immigrants. The scene seemed like a wasteland, but its crevices became a hotbed of music.
+In London at the end of the 1970s, even though the punk explosion had subsided, society was still plagued by many rifts such as unemployment, division, strikes, and discrimination against immigrants. The scene seemed like a wasteland, but the crevices became a hotbed of music.
 Post-punk artists quickly moved beyond the rock format into dub, reggae, African percussion, noise, electronic sounds, and DIY recording techniques.
 
 It was precisely during these complex times that a young producer named **Adrian Sherwood** rose up and began forming the vast network that would become known as **On-U Sound**.
@@ -137,7 +137,7 @@ This work also has strong socio-political themes.
 
 ## ■ "Love Forever" (2012)
 
-After Ari Up's death, Sherwood released a memorial work that included unreleased recordings.
+A memorial work that Sherwood released after Ari Up's death, including unreleased recordings.
 A very important document that contains Ari's final energy.
 
 ---
@@ -203,7 +203,7 @@ Even if NAS did not directly post political lyrics, ""making music as an experim
 After 1983's "Foundation Steppers," works under the NAS name ceased.
 But its influence spread far and wide.
 
-## ● Area affected
+## ● 影響を受けた領域
 
 *Bristol's Massive Attack, Tricky, Smith & Mighty
 * UK Dub, Digital Dub
@@ -238,7 +238,7 @@ And this thought
 * Ethics of collaboration
 It is still deeply alive today in the form of
 
-The prototype for the "genre-crossing creation" that 21st century musicians routinely engage in is surprisingly close to what NAS did.
+The prototype of ""genre-crossing creation'' that 21st century musicians routinely engage in is surprisingly close to what NAS did.
 
 ---
 

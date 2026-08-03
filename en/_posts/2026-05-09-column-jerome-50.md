@@ -42,7 +42,7 @@ His real name is Jérôme Charette-Pépin. Born in L"Ancienne-Lorette, a suburb 
 
 In other words, he's not just a folk singer.
 
-His academic perspective of treating words as a research subject coexisted with his physical sensibilities as a street musician.
+His academic perspective of treating words as a research object coexisted with his physical sense as a street musician.
 
 Moreover, he did not confine himself to an academic position.
 
@@ -111,7 +111,7 @@ This feeling remains consistent even in his later works.
 
 The album was also nominated for ""Alternative Album of the Year" by ADISQ, and Jérôme 50 himself selected it as ""Révélation de l'année".
 
-His penetrating power was unusual for a young, independent artist.
+インディー出身の若手としては異例の浸透力だった。
 
 > ""La hiérarchill'' was an important work that transformed the malaise of Quebec youth culture into humor.
 
@@ -164,7 +164,7 @@ This is where the intimacy in his lyrics comes from.
 
 What decided his career was "Tokébakicitte" released in 2021.
 
-This song was a big hit on Quebec radio and was selected as one of SOCAN's most popular songs.
+This song was a huge hit on Quebec radio and was selected as one of SOCAN's most popular songs.
 
 But the important thing is that it wasn't just a hit song.
 
@@ -196,19 +196,19 @@ What emerges here is the ""popular character'' of Jérôme 50.
 
 Although he came from an indie culture background, he hated being confined to a sense of "intellectual superiority."
 
-He later criticized the elitism that exists within the Quebec leftist cultural sphere.
+He later criticized the elitism that exists in Quebec's leftist cultural sphere.
 
 He was uncomfortable with the attitude of looking down on popular artists, calling them ""too popular.''
 
-This awareness of the issue is also in common with Les Cowboys Fringants and the Québec Redneck Bluegrass Project.
+この問題意識は、Les Cowboys FringantsやQuébec Redneck Bluegrass Projectに通じる部分もある。
 
 In other words, he was seriously aiming for ""music that connects with the people.''
 
-> ""Tokébakicitte'' was the turning point that took Jérôme 50 from the underground scene to the whole of Quebec.
+> ""Tokébakicitte'' was the turning point that lifted Jérôme 50 from the underground scene to the whole of Quebec.
 
 ---
 
-## "Antigéographiquement" - A look at regional division
+## 「Antigéographiquement」― 地域分断への眼差し
 
 ""Antigéographiquement,'' released in 2023, was a work that further expanded his ideas.
 
@@ -243,7 +243,7 @@ mindmap
     ケベック社会
 </div>
 
-In terms of music, the cross-genre nature has become stronger.
+In terms of music, genre-crossing has become stronger.
 
 Disco.
 Ska.
@@ -269,7 +269,7 @@ In 2025, Jérôme 50 will release his third album, ""Anarcolique''.
 
 Here he made a major change of direction.
 
-They boldly introduced ska punk, pop punk, bar folk, and a trash feel from their previous folk-centric line.
+They boldly introduced ska punk, pop punk, bar folk, and a trash feel from their previous folk-centric route.
 
 He himself cites the following as his influences:
 
@@ -438,5 +438,14 @@ In the history of Quebec music, he will probably be remembered as the person who
 
 > Jérôme 50 continues to translate Quebec's "language of life" into music.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xrm0QDJ79E?si=R7etOLyAm3AXDMzu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

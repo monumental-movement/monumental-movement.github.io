@@ -24,7 +24,7 @@ Text: mmr｜Theme: The trajectory of Pink Floyd's innovation and thought that ex
 
 In the 1960s, rock was still "music to be played." However, Pink Floyd transforms this into a ""space to be experienced.'' Music as a whole, including sound, light, images, and even silence. Their appearance was an event that rewrote the very definition of rock.
 
-At early concerts, such as at London's UFO Club, a liquid light show was projected simultaneously with the music, making the audience not just listeners but ""insiders.'' At this point, their live performance was already an "environment" rather than a concert.
+At early live performances at venues such as London's UFO Club, a liquid light show was projected simultaneously with the music, making the audience not just listeners but ""insiders.'' At this point, their live performance was already an "environment" rather than a concert.
 
 There is a testimony from an audience member at the time that says, ""They were not watching the band, but melting into the space.'' This is not an exaggeration; it was exactly the experience they intended.
 
@@ -105,7 +105,7 @@ In 1973, The Dark Side of the Moon became a turning point in rock history. This 
 
 In the recording, the drums were modified to reproduce the sound of a heartbeat, and everyday sounds such as the sound of a cash register and a clock were incorporated into the rhythm. The clock sound at the beginning is a simultaneous recording of many clocks in the studio.
 
-Another distinctive feature is the inclusion of audio interviews with ordinary people. The answers to questions such as ""What is madness?" and ""What do you think about death?" become part of the song.
+It is also unique in that it includes audio interviews with ordinary people. The answers to questions such as ""What is madness?" and ""What do you think about death?" become part of the song.
 
 This album's jacket design was by Hipgnosis, and the image of a prism symbolizes the decomposition and reconstruction of sound.
 
@@ -122,13 +122,13 @@ graph LR
 ---
 
 
-## Chapter 4: Enormous story and production
+## Chapter 4: Growing story and production
 
 ### "The Wall" and the parable of division
 
 1979's The Wall is based on Roger Waters' personal experiences and explores themes of isolation and oppression.
 
-During the live performance, a gigantic wall is actually built on the stage and is completed as the performance progresses. And at the end, that wall collapses. This production left a strong impression on the audience.
+During the live performance, a huge wall is actually built on the stage and is completed as the performance progresses. And at the end, that wall collapses. This production left a strong impression on the audience.
 
 Even more symbolic is the incident during the "In the Flesh" tour. The incident in which Waters spat at an audience member was a shock even to him, and is said to have been the starting point for the idea for The Wall.
 
@@ -164,12 +164,12 @@ timeline
     1987 : 活動継続
 </div>
 
-> The band split from one ideology to multiple interpretations.
+> バンドは一つの思想から複数の解釈へと分裂した。
 
 ---
 
 
-## Chapter 6: Pink Floyd as a legacy
+## 第六章：遺産としてのPink Floyd
 
 ### Modern impact
 
@@ -183,13 +183,13 @@ Furthermore, the moment when the main members reunited at Live 8 in 2005 is reme
 
 <div class="mermaid">
 graph LR
-    A[Pink Floyd] --> B[Progressive rock]
-    A --> C[ambient]
+    A[Pink Floyd] --> B[プログレ]
+    A --> C[アンビエント]
     A --> D[Live performance]
     A --> E[concept album]
 </div>
 
-> Their music never ends and continues to live on as a methodology.
+> 彼らの音楽は終わらず、方法論として生き続けている。
 
 ---
 
@@ -212,7 +212,7 @@ timeline
     2014 : The Endless River
 </div>
 
-> It is a trajectory that continues to update the definition of music with each era.
+> 時代ごとに音楽の定義を更新し続けた軌跡である。
 
 
 ---

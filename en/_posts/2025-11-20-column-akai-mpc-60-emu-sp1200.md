@@ -17,7 +17,7 @@ title: '[Column] The golden age of 12-bit samplers: MPC60/SP-1200'
 ## Chapter 1: Introduction — Why 12bit?
 
 
-Text: mmr｜Theme: About the 12-bit sampler, which played a central role in music production from the 1980s to the early 1990s.
+Text: mmr | Theme: About the "12-bit sampler" that played a central role in music production from the 1980s to the early 1990s.
 
 The 12-bit sampler was not just a "technological halfway point," it created unintended sonic characteristics, resulting in a new production method and musical language. In the days before "high resolution" like 16-bit and 24-bit were idealized, 12-bit, combined with memory constraints, produced unique sonic contours, distortion, and quantization noise. This was not a drawback for many producers, but rather a raw material for tonal design.
 
@@ -41,9 +41,9 @@ color: #fff;
 
 ### 2.1 Basics of sampling
 
-There are two main parameters in the process (sampling) of dividing analog signals into numerical values ​​by dividing them into fixed time intervals: **sampling frequency (Hz)** and **quantization bit depth (bit)**. Sampling frequency is described by Nyquist theory, and quantization bit depth is related to dynamic range and quantization noise.
+The process of dividing analog signals into numerical values ​​(sampling) has two main parameters: **sampling frequency (Hz)** and **quantization bit depth (bit)**. Sampling frequency is described by Nyquist theory, and quantization bit depth is related to dynamic range and quantization noise.
 
-* **12bit**: Theoretically, the dynamic range is about 72dB (ideal conditions). In reality, the effective dynamic range varies depending on the equipment used, due to the effects of circuit noise and analog paths.
+* **12bit**: Theoretically, the dynamic range is approximately 72dB (ideal conditions). In reality, the effective dynamic range varies depending on the equipment used, due to the effects of circuit noise and analog paths.
 
 ### 2.2 12bit acoustic characteristics
 
@@ -59,7 +59,7 @@ Not only the bit depth, but also the characteristics of the A/D/D/A circuit, the
 
 ## Chapter 3: Market Background — Memory Price and Production Environment
 
-In the mid-to-late 1980s, semiconductor memory prices were orders of magnitude higher than they are today. At a time when adding 1MB of RAM was worth hundreds of dollars, equipment manufacturers chose designs that saved sampling time. This creates practical compromises in the specifications such as short sample times, low sampling frequencies, and 12 bits. On the other hand, creative methods have developed that take advantage of constraints, such as the technique of "taking and dropping samples quickly (high-speed sampling → pitch down").
+In the mid-to-late 1980s, semiconductor memory prices were orders of magnitude higher than they are today. At a time when adding 1MB of RAM was worth hundreds of dollars, equipment manufacturers chose designs that saved sampling time. This creates practical compromises in the specifications such as short sample times, low sampling frequencies, and 12 bits. On the other hand, creative methods have been developed that take advantage of constraints, such as the technique of "taking and dropping samples quickly (high-speed sampling → pitch down").
 
 ---
 
@@ -117,13 +117,13 @@ Although Mirage is not 12bit, it is highly influential as a low resolution sampl
 
 * Release year: 1985
 * Bit depth: 12bit
-* Features: By combining sample playback with an analog filter, it is possible to "synthesize sample tones".
+* Features: By combining sample playback with an analog filter, it is possible to convert sample tones into synthesizers.
 
 ---
 
 ## Chapter 5: Production workflow using 12bit sampler
 
-Here, a typical production flow assuming SP-1200 and MPC60 is enumerated in detail based on facts. The description focuses on procedures that match actual producer testimonies and equipment manuals.
+Here, a typical production flow assuming SP-1200 and MPC60 is listed in detail based on facts. The description focuses on procedures that match actual producer testimonies and equipment manuals.
 
 ### 5.1 Sampling procedure (SP-1200 type)
 
@@ -144,7 +144,7 @@ Here, a typical production flow assuming SP-1200 and MPC60 is enumerated in deta
 
 ## Chapter 6: Scientific analysis of sound quality (frequency characteristics/quantization noise)
 
-In the technical analysis section, the general frequency response of 12-bit equipment, the spectral tendency of quantization noise, and the aliasing tendency during pitch shifting are explained based on general principles. The explanations here follow the general trends that can be confirmed from the manuals and technical articles for each piece of equipment.
+The technical analysis section describes the general frequency response of 12-bit devices, the spectral trend of quantization noise, and the aliasing trend during pitch shifting based on general principles. The explanations here follow the general trends that can be confirmed from the manuals and technical articles for each piece of equipment.
 
 ### 6.1 Frequency characteristics
 
@@ -153,7 +153,7 @@ In the technical analysis section, the general frequency response of 12-bit equi
 
 ### 6.2 Quantization noise
 
-* Quantization noise can be estimated as signal-to-noise ratio (SNR). The ideal 12-bit SNR is about 72dB, but in real equipment it is usually lower than this.
+* Quantization noise can be estimated as signal-to-noise ratio (SNR). Ideally, the SNR is about 72dB at 12bit, but it is usually lower than this in real equipment.
 
 ---
 
@@ -218,7 +218,7 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ## Chapter 12: Summary and Outlook
 
-The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to shape the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace the roots of this, you always come back to these devices.
+The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace the roots of this, you always come back to these devices.
 
 ---
 
@@ -231,7 +231,7 @@ The 12-bit sampler is a great example of how technical constraints can lead to i
 
 ---
 
-### Appendix: Functional relationships/workflow
+### Appendix: Functional relationship/workflow
 
 #### Workflow conceptual diagram
 
@@ -437,7 +437,7 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 stages"] --> C["coarse step"]
+    A["12bit 4096 steps"] --> C["coarse step"]
     B["16bit 65536 stages"] --> D["Smooth step"]
 
 </div> 

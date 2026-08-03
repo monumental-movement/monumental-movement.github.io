@@ -17,7 +17,7 @@ title: Luke Slater – Alright On Top
 An album released in 2002 by the label Mute, featuring vocals entirely by Ricky Barrows. The hit song "Nothing At All" is included.
 Tracks 11 & 12 are bonus tracks only for the Japanese version.
 
-The jacket design is by Julian House, also known as House, a UK graphic designer who has worked on designs for Stereolab, Oasis, The Prodigy, Broadcast, Razorlight, and more.
+ジャケットデザインは、Stereolab, Oasis, The Prodigy, Broadcast, Razorlightなどのデザインを手掛けるUKのグラフィックデザイナーHouse ことJulian Houseによるもの。
 
 #### Tracklist
 ```md

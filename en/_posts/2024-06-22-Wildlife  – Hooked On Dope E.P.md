@@ -18,7 +18,7 @@ Seb Fontaine, also known as Wildlife, is a DJ and producer from the UK. He has b
 
 "Hooked On Dope E.P." is a breakbeat house track released in 1992 by Spot On Records, a label run by Seb Fontaine and Julian Peake.
 
-The first track on Side A, "Dope Jazz" and the second track, "Smells Like Dope", were included on DJ Dan's classic break mixtape "San Francisco Project 2 - Tribute To James Brown / The Scratch - The Bass" released in 1993.
+The first track on Side A, "Dope Jazz", and the second track, "Smells Like Dope", were included on DJ Dan's classic break mixtape "San Francisco Project 2 - Tribute To James Brown / The Scratch - The Bass" released in 1993.
 
 #### Tracklist
 ```md

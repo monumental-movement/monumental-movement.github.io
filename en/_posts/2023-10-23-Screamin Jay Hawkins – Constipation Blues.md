@@ -17,7 +17,7 @@ This song by Screamin' Jay Hawkins was sung and performed by Screamin' Jay Hawki
 
 "Constipation Blues" is a blues song with humor and satire in its lyrics, and the comical expressions in the lyrics are particularly noteworthy. Screamin' Jay Hawkins challenged the boundaries between blues and rock with his playing style and eccentric stage performances.
 
-This song is one of the most iconic pieces of Screamin' Jay Hawkins' career and personality, embodying the unique and mysterious nature of his music.
+この曲は、スクリーミン・ジェイ・ホーキンスのキャリアと個性を象徴するような作品の一つであり、彼の音楽が独自で不可思議なものであることを体現しています。
 
 #### Tracklist
 ```md

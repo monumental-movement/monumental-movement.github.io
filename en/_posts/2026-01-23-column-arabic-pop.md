@@ -47,7 +47,7 @@ color: #fff;
 
 ### Role of the Egyptian film industry
 
-In the mid-20th century, Egypt had the largest film industry in the Arab world, and music was an integral part of film. The songs of Umm Kulthum and Abdel Haleem Hafez were widely distributed through movies and radio, creating a star image common to the Arab-speaking world.
+In the mid-20th century, Egypt had the largest film industry in the Arab world, and music was an integral part of film. The songs of Umm Kulthum and Abdel Haleem Hafez were widely distributed through movies and radio, creating a star image common to Arab-speaking countries.
 
 The national broadcasting station also played a major role, and music was used as a device for cultural integration. As a result, Arab pop gained the character of ""regional standard music'' from an early stage.
 
@@ -59,7 +59,7 @@ The national broadcasting station also played a major role, and music was used a
 
 ### Turning point in the 1990s
 
-In the 1990s, the spread of satellite broadcasting gave rise to cross-border music channels. A Lebanese-based music channel broadcast music videos 24 hours a day, churning out pop stars with visual images.
+In the 1990s, with the spread of satellite broadcasting, music channels that transcended national borders were born. A Lebanese-based music channel broadcast music videos 24 hours a day, churning out pop stars with visual images.
 
 During this period, singers such as Nancy Ajram and Amr Diab gained widespread popularity, and Arab pop was redefined as a pan-Arab market product rather than a single national culture.
 
@@ -73,7 +73,7 @@ During this period, singers such as Nancy Ajram and Amr Diab gained widespread p
 
 Until the early 2000s, Arab pop was largely unrelated to Western charts. The main reasons are the language barrier and the underdeveloped distribution network. On the other hand, limited consumption existed throughout Europe through the diaspora population.
 
-At this stage, global expansion remained a side effect rather than an intended strategy.
+At this stage, global expansion remained a side phenomenon rather than an intended strategy.
 
 > The world market was initially an unexpected stage for Arab pop.
 
@@ -83,7 +83,7 @@ At this stage, global expansion remained a side effect rather than an intended s
 
 ### The advent of streaming era
 
-In the 2010s, video sharing services and streaming distribution rapidly became popular. As a result, language and regional constraints have been significantly relaxed, and views and algorithms have redefined the value of music.
+In the 2010s, video sharing services and streaming distribution rapidly became popular. As a result, language and regional constraints have been greatly eased, and views and algorithms have redefined the value of music.
 
 A situation has arisen in which songs produced for a specific region are accidentally played all over the world, and Arab pop is no exception.
 

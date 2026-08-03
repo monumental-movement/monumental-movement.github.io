@@ -15,7 +15,7 @@ title: Abe Duque – Don't Be So Mean Part I
 
 Abe Duque is active in the New York underground acid scene.
 
-In the early 90's, he participated in PROGRAM2, which was attracting attention in the NY club scene at the time.
+In the early 1990s, he participated in PROGRAM2, which was attracting attention in the NY club scene at the time.
 
 Afterwards, after working under the name KILRIAN, he established Abe Duque Records with DJ Matuss in 2002.
 

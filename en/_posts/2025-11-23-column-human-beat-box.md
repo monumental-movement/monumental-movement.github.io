@@ -20,7 +20,7 @@ title: '[Column] Human Beatbox World history and Japanese players - Technologica
 
 Text: mmr｜Theme: History of Human Beatbox, changes in world tournaments, styles of players from each country, characteristics of Japanese players, and analysis of SO-SO/RUSY/Kohey
 
-Human Beatbox is not just an art of making sounds with your mouth; it is a music culture where technical systems exist in countries around the world, international competitions have been held, and new technologies have been invented with each generation. In this article, we will organize the history based on facts and dig deeper into the establishment of world tournaments, player styles in each country, characteristics in Japan, and representative players such as SO-SO, RUSY, and Kohey.
+Human beatboxing is not just an art of making sounds with your mouth; it is a musical culture in which technical systems exist in countries around the world, international competitions have been held, and new technologies have been invented with each generation. In this article, we will organize the history based on facts and dig deeper into the establishment of world tournaments, player styles in each country, characteristics in Japan, and representative players such as SO-SO, RUSY, and Kohey.
 
 ---
 
@@ -101,7 +101,7 @@ France is one of the most technologically innovative countries in the world.
 - Diversity of technology
 
 ## ◆ 2. United Kingdom
-UK has excellent musicality and construction ability.
+UK は音楽性と構築力に優れる。
 
 - Accuracy of Grooves & Timing
 - Drummer's composition ability
@@ -121,17 +121,17 @@ Rapid growth has been remarkable in recent years.
 - High quality of sound
 - Speed ​​of adaptation to genres
 
-In particular, Japan's strengths include "accuracy of sound," "composition ability," and "compatibility with images and production."
+In particular, Japan's strengths are ""accuracy of sound," ""compositional ability," and ""compatibility with images and production.''
 
 ---
 
 # 5. Japanese beatbox culture and characteristics
 
 ## ◆ 1. Community culture
-In Japan, it has spread through the streets and events since the mid-2000s, and techniques are shared between performers through practice sessions and participation in competitions.
+In Japan, it has spread through the streets and events since the mid-2000s, and techniques are shared through practice sessions and competitions among performers.
 
 ## ◆ 2. Strong technical orientation
-Japanese players are strong in sound accuracy and attention to detail, and are highly praised even by overseas players.
+Japanese players are highly acclaimed by overseas players for their accuracy in sound and attention to detail.
 
 ## ◆ 3. Fusion with video and editing culture
 Mainly on YouTube and SNS,
@@ -156,7 +156,7 @@ The characteristic is that
 - Sound design that combines voice and looper
 - Balancing melody, chord, and bass line
 
-A strong ""composer's approach''.
+""Composer's approach'' is strong.
 
 ### ● SO-SO technical features
 - Synthetic voice
@@ -172,7 +172,7 @@ He has helped raise the profile of Loopstation players in Japan, and has a great
 
 ### ● Precise technique
 RUSY is known for his highly accurate rhythms and smooth combination techniques, and has received high praise mainly at domestic tournaments in Japan.
-Features include:
+The characteristics are:
 
 - tight groove
 - Clear and dense pronunciation
@@ -182,7 +182,7 @@ In particular, he is the type of player who has a high level of organization and
 
 ---
 
-## ◆ C. Kohey ― Multitone, depth, and powerful triple time signature
+## ◆ C. Kohey - Triple beat of polyphony, depth, and power
 
 ### ● Sound pressure and tone
 Koey is a player whose sound is deep, powerful, and has a strong bass range.
@@ -213,11 +213,11 @@ Synchronization, harmony, and composition skills by multiple people are required
 
 ## ◆ Loopstation
 The category that has received the most attention in recent years,
-"Building multi-layered music by yourself"
+「一人で多層音楽を構築する」  
 There is a strong music production element.
 
 ## ◆ Showcases / Exhibition
-Emphasis on musicality. New formats have been added as the tournament culture has matured.
+音楽性重視。大会文化が成熟したことで新たに増えた形式。
 
 ---
 
@@ -239,7 +239,7 @@ timeline
 
 # 9. Beatbox trends around the world and the future
 
-## ◆ 1. The line between music production is blurring
+## ◆ 1. The line between music production is blurred
 With the development of Loopstation, beatboxing
 **"Real-time version of music production"**
 Towards an area that can be called
@@ -251,7 +251,7 @@ We live in an era where SNS accelerates style.
 ## ◆ 3. Future of Japanese strengths
 Japan is
 
-- Technical precision
+- 技術精度  
 - Preciseness
 - Arrangement ability
 - Visual expression

@@ -22,7 +22,7 @@ Text: mmr｜Theme: The intersection of visual art and the far north of acoustic 
 
 Music is usually made up of melody, rhythm, and harmony. However, there is music that strips away all of that and is made up of almost a single frequency. Sachiko M is the embodiment of this extreme.
 
-Her works go beyond the framework of "music" and instead function as devices that transform the perception of space itself. By using the purest unit of sound, the sine wave, and presenting a sustained sound that hardly changes, the listener is guided into a state where the listener does not ""hear" the sound, but ""experiences it as an environment."
+Her works go beyond the framework of ""music'' and instead function as devices that transform the perception of space itself. By using the purest unit of sound, the sine wave, and presenting a sustained sound that hardly changes, the listener is guided into a state where the listener does not "hear" the sound, but "experiences it as an environment."
 
 This isn't just minimalism. Rather, it is an act that shakes the boundary between the presence and absence of sound, and is deeply connected to the exhibition space and the context of art.
 
@@ -82,7 +82,7 @@ For example, the following phenomena occur:
 
 Sachiko M's sound is often described as "almost silent." However, it is not actually completely silent. Rather, its subtle existence relativizes the concept of silence.
 
-In this respect, her practice resonates with John Cage"s 4:33. However, whereas Cage"s approach was to accept environmental sounds as music, Sachiko M brings them out through extremely low artificial sounds.
+In this respect, her practice resonates with John Cage"s 4:33. However, while Cage"s approach was to accept environmental sounds as music, Sachiko M brings them out through extremely low artificial sounds.
 
 > There is no silence, only the frame of perception changes
 
@@ -98,7 +98,7 @@ This scene focused more on the textures and relationships of the sounds themselv
 
 ### reductionism
 
-Her style is associated with a trend called "reductionism." This is an approach that reduces sound elements to the absolute minimum, and has the following characteristics:
+Her style is associated with a trend called "reductionism." This is an approach that reduces the elements of sound to the absolute minimum, and has the following characteristics:
 
 * Extremely low volume
 * Long lasting
@@ -106,7 +106,7 @@ Her style is associated with a trend called "reductionism." This is an approach 
 
 ### Redefining improvisation
 
-Normally, improvisation means ""instantaneous creation," but in Sachiko M's case, it appears as ""the act of continuing to choose not to change anything."
+Normally improvisation means ""instantaneous creation," but in Sachiko M's case, it appears as ""the act of continuing to choose not to change anything."
 
 > Improvisation is not about change, but also about choosing continuity.
 
@@ -116,7 +116,7 @@ Normally, improvisation means ""instantaneous creation," but in Sachiko M's case
 
 ### Installation-like nature
 
-Sachiko M's sound is more strongly associated with museums and gallery spaces than with concert halls. Since sound functions as part of the environment, the entire space becomes a work of art.
+Sachiko M's sound is more closely associated with museums and gallery spaces than with concert halls. Since sound functions as part of the environment, the entire space becomes a work of art.
 
 In this respect, her practice resembles a sound installation.
 
@@ -164,7 +164,7 @@ Performance features:
 * Extreme volume suppression
 * Maintaining near-silence
 
-The audience comes to exist not as an ""audience" but as ""part of the space." Rather than attracting attention, sound changes the very nature of attention.
+The audience no longer exists as an ""audience" but as ""part of the space." Rather than attracting attention, sound changes the very nature of attention.
 
 This format is different from a traditional concert and creates an experience closer to an art exhibition.
 
@@ -172,7 +172,7 @@ This format is different from a traditional concert and creates an experience cl
 
 ---
 
-### Reductionism sessions (late 1990s~)
+### Reductionism session (late 1990s~)
 
 Sachiko M, along with Yoshihide Otomo and Tetsuji Akiyama, worked in the context of so-called reductionism.
 
@@ -192,7 +192,7 @@ What is important here is not the ""performance" but the ""condition setting." M
 
 ### Sound installation practice in art space
 
-Since the 2000s, Sachiko M's activities have expanded to include museums and galleries. Here, sound is arranged not as a temporal event but as a part of space.
+Since the 2000s, Sachiko M's activities have expanded to museums and galleries. Here, sound is arranged not as a temporal event but as a part of space.
 
 Characteristic points:
 
@@ -223,7 +223,7 @@ flowchart TD
     F --> G[Changes in self-perception]
 </div>
 
-In this work, although the sound itself is extremely simple, the process of perception changes step by step. What is especially important is the moment when we can no longer follow the sound, at which point our hearing expands to encompass the entire environment.
+In this work, although the sound itself is extremely simple, the process of perception changes step by step. What is particularly important is the moment when we can no longer follow the sound, at which point our hearing expands to encompass the entire environment.
 
 > Simple sounds evoke complex perceptions
 
@@ -325,7 +325,7 @@ flowchart TD
 
 The sine waves used by Sachiko M are often located at relatively high frequencies within this audible band. This is to create a sense of diffusion within the space and to elicit a sharp auditory response.
 
-Also, since it uses a single frequency, it does not occupy the entire band like normal music, leaving a ""gap'' in the space. The result is a structure in which environmental and body sounds stand out.
+Also, because it uses a single frequency, it does not occupy the entire band like normal music, leaving a ""gap'' in the space. The result is a structure in which environmental and body sounds stand out.
 
 > Areas not occupied by sound expand perception
 
@@ -431,7 +431,7 @@ The listener gradually enters the following states:
 
 ### Relationship with Feldman
 
-This sense of time has also been compared to Morton Feldman's long-duration works. However, Sachiko M has further reduced the elements, reaching almost a single note.
+This sense of time has also been compared to the long-lasting works of Morton Feldman. However, Sachiko M has further reduced the elements, reaching almost a single note.
 
 > Time appears not as something that flows, but as something that stays.
 

@@ -21,7 +21,7 @@ title: '[Column] Rave and media: Archiving unrecorded music culture'
 
 Text: mmr | Genre: Cultural records/media considerations | Theme: Chasing the traces of disappearing music
 
-Rave was an ad-hoc celebration of sound and light, and was basically a culture that did not assume that it would be recorded. Rave, whether in a club or outdoors, is a here-and-now experience, destined to be forgotten and never archived.
+Rave was an ad-hoc festival of sound and light, and was basically a culture that did not assume that it would be recorded. Rave, whether in a club or outdoors, is a here-and-now experience, destined to be forgotten and never archived.
 
 However, in the 21st century, with the advent of YouTube, SNS, and archive sites, ""cultures that were supposed to be unrecorded'' are beginning to be recorded and reevaluated. This change is extremely interesting from both media and music culture perspectives.
 
@@ -78,7 +78,7 @@ Rave was not a sound source or score, but a phenomenon itself. Therefore, such r
 
 ### Who archives? Media deterioration
 
-**● Spontaneous Archives from the Underground**
+**● Spontaneous archive from the underground**
 
 Since the 2000s, the following attempts have begun around the world.
 
@@ -86,7 +86,7 @@ Since the 2000s, the following attempts have begun around the world.
 
 **YouTube/SoundCloud**: Upload old mixtapes and pirated recordings
 
-**Reddit, Forum, Blog**: Verbalization of experiences at the time
+**Reddit, Forum, Blog**: Verbalization of experiences at that time
 
 **Zine/Podcast/Documentary**: Preservation movement with a DIY spirit
 
@@ -129,7 +129,7 @@ Don't miss the Archive of Old Rave Flyers from 1989-2000 from across the U.S. an
 
 ### The value of "irregular archives" in the digital age
 
-Many of the archives we rely on today are "unauthorized."
+Many of the archives we rely on today are "non-regular."
 
 ・Mixtape with no label
 
@@ -166,11 +166,11 @@ However, the accumulation of memories, fragments, reinterpretations, and "passio
 
 🔗 [[Column] Acid House: Chemical reactions of sound and cultural transformation](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[Column] History of Psy-Trance (psychedelic trance), masterpieces, and 10 recommended tracks](https://monumental-movement.jp/Column-Psy-Trance)
+🔗 [[Column] Psy-Trance history, masterpieces, and 10 recommended tracks](https://monumental-movement.jp/Column-Psy-Trance)
 
 🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [[Column] The "sound of the euro" changes depending on the border ─ Italy, Germany, Sweden: Differences in the euro music created by the three major producing countries](https://monumental-movement.jp/Column-Euro-Sound)
+🔗 [[Column] The "sound of the euro" changes depending on the border ─ Italy, Germany, Sweden: differences in the euro music created by the three major producing countries](https://monumental-movement.jp/Column-Euro-Sound)
 
 🔗 [[Column] Eurobeat and Japan: Why are they linked together? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
 

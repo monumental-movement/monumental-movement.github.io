@@ -21,7 +21,7 @@ title: Rednex – Cotton Eye Joe
 
 Rednex is a Swedish Eurodance group whose musical style is a combination of US country music and Eurodance.
 
-""Cotton Eye Joe" is a Euro house song based on the American folk song ""Cotton Eyed Joe" that incorporates banjo and fiddle, and became a worldwide hit.
+"Cotton Eye Joe" is a Euro house song based on the American folk song "Cotton Eyed Joe" that incorporates banjo and fiddle, and became a worldwide hit.
 
 Armand Van Helden and Jeremy Healy will be participating in the remix.
 

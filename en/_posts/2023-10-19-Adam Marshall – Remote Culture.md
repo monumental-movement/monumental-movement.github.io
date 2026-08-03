@@ -12,7 +12,7 @@ title: Adam Marshall – Remote Culture
 ---
 
 
-Adam Marshall is a Canadian-born DJ/producer and owner of the label New Kanada, currently based in Berlin. Also active as a unit called Graze with Christian Andersen.
+Adam Marshall（アダム・マーシャル）は、カナダ出身で現在はベルリンを拠点とするDJ／プロデューサー＆レーベルNew Kanadaのオーナー。Christian AndersenとのユニットGrazeとしても活動。
 
 "Remote Culture" was released in 2005 on Mike Shannon's Canadian minimal dub deep techno/house label Cynosure.
 

@@ -15,9 +15,9 @@ title: Raw Stylus – Use Me
 ---
 
 
-Raw Stylus, a British acid jazz band active in the 1990s, covered Bill Withers' 1972 soul/R&B masterpiece "Use Me."
+1990年代に活動したUKのアシッドジャズバンドRaw Stylus(ロウ・スタイラス)がBill Withers(ビル・ウィザーズ)の1972年のsoul・R&B名曲「Use Me」をカヴァー。
 
-A single released by the British label Acid Jazz in 1993.
+1993年にイギリスのレーベルAcid Jazz からリリースされたシングル。
 
 #### Tracklist
 ```md

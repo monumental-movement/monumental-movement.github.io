@@ -10,7 +10,7 @@ tags:
 - Broken Beat
 - 90s
 - 00s
-title: '[Column] UK Broken Beat re-evaluation trend — innovative trends in club music'
+title: 【コラム】 UK Broken Beat 再評価トレンド — クラブミュージックの革新的潮流
 ---
 
 
@@ -19,7 +19,7 @@ title: '[Column] UK Broken Beat re-evaluation trend — innovative trends in clu
 
 Text: mmr｜Theme: Birth of Broken Beat, activities of major artists, song analysis, techniques, community, and background of re-evaluation
 
-UK Broken Beat is a style of club music that developed in the UK from the late 1990s to the early 2000s, and is characterized by its unique and complex rhythmic structure, while being influenced by jazz, soul, funk, and drum and bass. In recent years, there has been a growing movement to reevaluate past masterpieces, with reissues and new generations of artists taking over the works.
+UK Broken Beat is a style of club music that developed in the UK from the late 1990s to the early 2000s, and is characterized by its unique and complex rhythmic structure, influenced by jazz, soul, funk, and drum and bass. In recent years, there has been a growing movement to reevaluate past masterpieces, with reissues and new generations of artists taking over the works.
 
 ---
 
@@ -48,7 +48,7 @@ In the mid-1990s, jazz-funk and drum and bass were rapidly developing in the UK 
 > "At that time, it wasn't just dancing or listening to music, it was more fun to feel the swing and groove that was born behind the rhythm."
 > — Testimony of a London club DJ at the time
 
-The fusion of this multi-layered sense of rhythm and jazz-like harmonies formed the core sound of Broken Beat.
+こうした多層的なリズム感とジャズ的ハーモニーの融合が、Broken Beat の核となるサウンドを形成しました。
 
 ---
 
@@ -56,7 +56,7 @@ The fusion of this multi-layered sense of rhythm and jazz-like harmonies formed 
 
 Broken Beat's early days feature core artists and labels.
 
-- **Dego (4hero)**: While active as a member of 4hero, he also pursues elements of Broken Beat in his solo works. In particular, "Live in Tokyo" is characterized by the method of directly applying the feeling of live performance to club tracks.
+- **Dego (4hero)**: While active as a member of 4hero, he also pursues elements of Broken Beat in his solo works. In particular, "Live in Tokyo" is characterized by a method that directly translates the feeling of live performance into a club track.
 - **IG Culture**: A pioneer of the Broken Beat style, which combines jazz-funk and soul. We expanded the genre with complex phrases on keyboards and synths.
 - **Kaidi Tatham**: With her versatile keyboard performances and odd time signature rhythms, she played a role in expanding the range of genres.
 - **2000Black**: Label and artist collective, home to the Broken Beat community. In addition to releases, there was also lively interaction at regular events.
@@ -99,7 +99,7 @@ Broken Beat is more than just dance music, it is characterized by its combinatio
 
 ### 3.3 Sampling and live performance techniques
 
-- Use live recordings of drums and percussion as material
+- ドラムやパーカッションのライブ録音を素材に使用  
 - Sample soul and funk phrases
 - Programming techniques that reflect rhythmic changes in real time
 
@@ -125,7 +125,7 @@ graph LR
 | 2004 | 2000Black Collaborative Works | Showing Community Activities and Diversity |
 | 2010 | Signs of reappraisal | Attention at record shops and clubs |
 | 2015 | Reissue release | Early works are being reprinted |
-| 2020 | Expanding popularity through streaming | Penetrating global listener base |
+| 2020 | ストリーミングで人気拡大 | 世界的リスナー層への浸透 |
 | 2023 | New generation artist activities | Inheritance and development by young producers |
 
 <div class="mermaid">
@@ -150,7 +150,7 @@ timeline
 
 Broken Beat was supported not only by individual artists, but also by community and club events.
 
-- **2000Black**: Hold regular events and promote collaboration between artists
+- **2000Black**: Holding regular events and promoting collaboration between artists
 - **Influence of The Herbaliser and Jazzanova**: Diversification of sounds through international exchange
 - **London clubs**: Broken Beat sets take hold at Plastic People, The End and more
 
@@ -167,7 +167,7 @@ graph LR
 
 ---
 
-## 6. Recent reevaluation trends
+## 6. Recent re-evaluation trends
 
 Broken Beat has been undergoing a reappraisal in recent years.
 
@@ -186,7 +186,7 @@ graph TD
 
 ---
 
-## 7. Artist individual profile and analysis
+## 7. Individual artist profile and analysis
 
 ### Dego
 - **Start of activities**: Early 1990s
@@ -212,7 +212,7 @@ graph TD
 
 ## 8. Summary
 
-UK Broken Beat is a uniquely British club music that combines diverse elements such as jazz funk, drum and bass, and hip hop. Core artists and labels such as Dego, Kaidi Tatham, IG Culture, and 2000Black have established unique styles with complex rhythmic structures and soulful melodies. In recent years, it has been reevaluated through reissues and streaming, and is attracting attention in the club scene and the global music community.
+UK Broken Beat is a uniquely British style of club music that combines diverse elements such as jazz funk, drum and bass, and hip hop. Core artists and labels such as Dego, Kaidi Tatham, IG Culture, and 2000Black have established unique styles with complex rhythmic structures and soulful melodies. In recent years, it has been reevaluated through reissues and streaming, and is attracting attention in the club scene and the global music community.
 
 > "Broken Beat's rhythm is not only danceable, but also an aesthetic groove that can be felt by the ear."
 

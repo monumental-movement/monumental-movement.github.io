@@ -19,7 +19,7 @@ title: '[Column] The genealogy of Lo-Fi Folk / Bedroom Folk and the deepening of
 
 Text: mmr｜Theme: About the sonic and cultural development of Lo-Fi Folk, including the artist's production environment and equipment
 
-Folk music with a lo-fi feel is at the center of the ""history of individually produced music"' that has continued since the home-recording culture of the 1970s. The evolution of recording equipment, the spread of individual production, and the approach of quietly recording the singer"s inner feelings have all combined to form a trend known as Bedroom Folk since the 2000s.
+Folk music with a lo-fi feel is at the center of the ""history of individually produced music"' that has continued since the home-recording culture of the 1970s. The evolution of recording equipment, the spread of personal production, and the approach of quietly recording the singer"s inner feelings have all combined to form a trend known as Bedroom Folk since the 2000s.
 
 
 ---
@@ -49,7 +49,7 @@ Consumer tape recorders became popular in the late 1970s, and with the advent of
 - One-take recording with almost no mixdown
 - Sound creation that retains the natural echoes of the room
 
-Although the sound quality was by no means high, it was praised for its ability to preserve the distance between the singing voice and the guitar and the atmosphere of the room.
+Although the sound quality was not high, it was praised for its ability to preserve the distance between the singing voice and the guitar and the atmosphere of the room.
 
 ### 1-2. 1980s–1990s: Connection between indie folk and Takuroku
 In the late 1980s, inexpensive 4-track cassette MTRs (such as TASCAM Portastudio) appeared, and the quality of home recording improved dramatically.
@@ -81,7 +81,7 @@ Many of the recordings are made at the artist's home and include:
 - Whispering vocals
 - Leaving acoustic guitar noise and finger scrapes
 - Record the room air and minute reverb as is
-- ""Feeling of closeness'' unique to low-volume home recording
+- ""Proximity'' unique to low-volume home recording
 
 These elements defined the sonic image of Lo-Fi Folk from the 2000s onwards.
 
@@ -115,7 +115,7 @@ Lo-Fi Folk is characterized by a style that actively accepts the limitations of 
 - Roundness of high frequencies due to cassette saturation
 - Existence of room noise due to quiet environment
 - Vocal super close sound
-- Minor noises (string noise, floor rumble, clothing rustling)
+- Subtle noise (string noise, floor rumble, clothing rustling)
 - Recording layout with a strong one-take feel
 
 ### 3-2. Lyric theme
@@ -145,9 +145,9 @@ Although the sound quality was clearer than before, mixes that still had a "room
 ---
 
 ## 5. 2020s: Post-lo-fi and acoustic return
-In the 2020s, Lo-Fi Folk is moving towards a more static approach. With minimalist compositions, an emphasis on live recording, and a reduction in overt noise, Bedroom Folk is moving toward a stage where "life-sound realism" and "high-resolution intimacy" coexist.
+In the 2020s, Lo-Fi Folk is moving towards a more static approach. With minimalist compositions, an emphasis on live recording, and a reduction in blatant noise, Bedroom Folk is moving toward a stage where "life-sound realism" and "high-resolution intimacy" coexist.
 
-- Lower prices for high-quality condenser microphones
+- Lower prices for high quality condenser microphones
 - Improved DAW standard plug-ins
 - Simplify room tuning at home
 
@@ -201,7 +201,7 @@ flowchart TD
 ---
 
 ## 9. Lo-Fi Folk influence and contemporary significance
-Lo-fi folk is a genre that redefines the expression born from technical constraints as the value of music.
+Lo-fi folk is a genre that redefines the expression born from technological constraints as the value of music.
 
 - Production without relying on large studios
 - Directly record personal emotions and daily life as sound
@@ -214,7 +214,7 @@ These have had a great influence on modern Bedroom Pop and singing culture.
 
 ## 10. Conclusion
 Lo-Fi Folk / Bedroom Folk has pioneered a new expression of folk music, taking into account the limitations of recording equipment and the personal living space.
-Iron & Wine and Sufjan Stevens' early works are iconic examples of the sheer charm of home recording, and they continue to influence many artists today.
+Iron & Wine and the early works of Sufjan Stevens are iconic examples of the sheer charm of home recording, and they continue to influence many artists today.
 
 The small voices recorded in the room recorded the ""feel of everyday life'' as sound that was not available in studio production, and carved out a new chapter in the history of folk music.
 

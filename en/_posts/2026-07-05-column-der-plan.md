@@ -39,7 +39,7 @@ color: #fff;
 
 ### Pop experiment born from an industrial city
 
-Der Plan was formed in 1979 by Frank Fenstermacher, Moritz R, Robert Görl and Chrislo Haas. The city of Düsseldorf was known as one of the centers of electronic music after Kraftwerk, providing an environment where mechanical rhythm and artistic experimentation intersected.
+Der Plan was formed in 1979 by Frank Fenstermacher, Moritz R, Robert Görl and Chrislo Haas. The city of Düsseldorf was known as one of the centers of post-Kraftwerk electronic music, providing an environment where mechanical rhythm and artistic experimentation intersected.
 
 In the German music scene at the time, there was a strong movement to explore new forms of expression while breaking the rock format, and Der Plan was born in this trend. However, they were not just avant-garde artists, but instead chose the position of experimentation under the guise of pop, anticipating the later ""avant pop'' feel.
 
@@ -74,7 +74,7 @@ An important characteristic of this period is ""humor.'' Der Plan was not a seri
 
 The music is fragmented, and the lyrics and structure are discontinuously arranged, so the listener receives a collage-like experience rather than a unified narrative.
 
-> Der Plan from the Pyrolator era was a device that dismantled the structure of electronic music with laughter.
+> Der Plan during the Pyrolator period was a device that dismantled the structure of electronic music with laughter.
 
 ---
 

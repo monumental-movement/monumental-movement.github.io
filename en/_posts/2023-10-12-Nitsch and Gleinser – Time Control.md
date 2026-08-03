@@ -14,7 +14,7 @@ title: Nitsch and Gleinser – Time Control
 
 Nitsch & Gleinser is a duo consisting of German DJ/producer Daniel Nitsch and German producer Christian Gleinser.
 
-"Time Control" is a "future pop" track filled with electro, tech house, and synth pop elements that was released in 2003 by Lasergun, a German label run by Savas Pascalidis.
+"Time Control" is a "future pop" track packed with elements of electro, tech house, and synth pop that was released in 2003 by Lasergun, a German label run by Savas Pascalidis.
 
 #### Tracklist
 ```md

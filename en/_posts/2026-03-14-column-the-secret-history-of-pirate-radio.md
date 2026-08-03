@@ -19,7 +19,7 @@ title: '[Column] The Secret History of Pirate Radio — The musical revolution b
 
 ## The underground world of radio waves
 
-Text: mmr | Theme: Pirate radio, which played outside the control of national radio waves, became the breeding ground for the musical revolution of UK rave, jungle, and grime. Pursuing its unknown history
+Text: mmr | Theme: Pirate radio, which played outside the control of national airwaves, became the breeding ground for the musical revolution of UK rave, jungle, and grime. Pursuing its unknown history
 
 
 
@@ -70,7 +70,7 @@ At the time, the BBC had a near monopoly on British broadcasting. Pop music was 
 
 Then came the maritime broadcasting station.
 
-A ship is anchored on the high seas of the North Sea and a radio signal is transmitted from there.
+A ship is anchored on the high seas of the North Sea and radio is transmitted from there.
 
 This is how the earliest form of pirate radio was born.
 
@@ -199,7 +199,7 @@ Play on the radio and appear in clubs.
 
 This cycle created the music scene.
 
-Listeners listen to a DJ play on the radio at home and then go to a club that weekend.
+Listeners listen to a DJ play on their radio at home and then go to a club that weekend.
 
 Radio was directly connected to the city's nightlife.
 

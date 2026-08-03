@@ -14,7 +14,7 @@ title: India Arie – Heading In The Right Direction
 
 "Heading In The Right Direction" is one of the masterpieces of American singer-songwriter India Arie. She is known for her musical style, which incorporates elements of soul and R&B, and is known for her sincere singing and heart-touching lyrics.
 
-"Heading In The Right Direction" is a song that combines a positive melody with a sophisticated arrangement, and features a positive message and hopeful lyrics, conveying the importance of moving forward even in the face of hardships and setbacks.
+"Heading In The Right Direction" is a song that combines a positive melody with a sophisticated arrangement, and features a positive message and hopeful lyrics, conveying the importance of moving forward even in the face of hardship and setbacks.
 
 India Arie's music has a message of valuing self-love and self-affirmation, which resonates with many people.
 

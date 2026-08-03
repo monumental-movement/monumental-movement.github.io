@@ -124,7 +124,7 @@ It was not uncommon for the sound source to be posted on blogs before the record
 Even more important was the explosion of remix culture.
 
 Many of Bloghouse's releases were bootlegs and unofficial remixes rather than official releases.
-A song by a famous indie band that has been adapted into an electro house song spreads through blogs and becomes a club hit.
+A track by a famous indie band that has been adapted into an electro-house song spreads through blogs and becomes a club hit.
 
 Thus, the cycle of music production and dissemination rapidly accelerated.
 
@@ -237,7 +237,7 @@ Club events of this era had a different atmosphere than traditional house partie
 In other words, Bloghouse was both a music genre and a culture that included fashion and aesthetics.
 
 As indie rock fans flow into clubs, the clientele of club culture changes as well.
-The boundaries between DJs and bands became blurred, and events that included live performances and DJ sets began to increase.
+The line between a DJ and a band became blurred, and more and more events began to include live performances and DJ sets.
 
 This new club culture quickly spread throughout the world.
 

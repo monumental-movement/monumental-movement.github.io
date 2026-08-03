@@ -12,7 +12,7 @@ title: Quartz – The Calling EP
 ---
 
 
-Quartz (Adriano Filippucci) is an Italian DJ and producer. The Calling is a techno track released in 2002 on the Montreal-based tech-trance label Ascend Recordings.
+Quartz (Adriano Filippucci) is an Italian DJ and producer. The Calling is a techno track released in 2002 by Montreal-based tech-trance label Ascend Recordings.
 
 #### Tracklist
 ```md

@@ -17,7 +17,7 @@ title: '[Column] Asarat - The moment when West African rhythms vibrate in your h
 
 ## What is Asarat?
 
-Text: mmr｜Theme: The process by which Asarat, which is rooted in West African lifestyle culture, is connected to contemporary music through physical expression and street culture
+文：mmr｜テーマ：西アフリカの生活文化に根ざしたアサラトが、身体表現とストリート文化を通じて現代音楽へ接続される過程
 
 
 ### A universe of rhythm in a small instrument
@@ -26,9 +26,9 @@ The Asarat is a hand-held percussion instrument that originated in West Africa, 
 
 Although it looks simple, the actual performance requires a high degree of physical control. The combination of movements such as shaking, stopping, hitting, and releasing creates a complex rhythm rather than a simple repetition of sounds. Furthermore, the rhythm is not a mechanical beat, but has an organic fluctuation that depends on the performer's physical sensations.
 
-In addition to being a ""tool for making sounds," asarat is also ""a device for showing movement." His performances always involve visual elements, conveying the rhythmic flow to the viewer intuitively.
+In addition to being a ""tool for making sounds," asarat is also a ""device for showing movement." His performances always involve visual elements, conveying the rhythmic flow to the viewer intuitively.
 
-In this way, the Asarato is an entity in which sound and movement are inseparably linked, and its characteristics set it apart from many other percussion instruments.
+In this way, the Asarat is an entity in which sound and movement are inseparably linked, and its characteristics set it apart from many other percussion instruments.
 
 > The essence of Asarat lies in the condensation of the relationship between the body and rhythm within its simple structure.
 
@@ -58,7 +58,7 @@ These instruments were naturally used in everyday life, as well as in religious 
 
 Therefore, the rhythm of Asarat has not been strictly notated, but has been passed down as a sensation engraved on the body. It was passed down from generation to generation through oral traditions and performances, and different styles were formed in each region.
 
-Furthermore, this instrument was not limited to a particular class or specialist. It is an open object that anyone can pick up and play with, and this is an important element that supports its cultural spread.
+Furthermore, this instrument was not limited to a particular class or specialist. It is an open entity that anyone can pick up and play with, and this is an important element that supports its cultural spread.
 
 > The history of Asarat is embedded in the history of life rather than the history of music.
 
@@ -98,9 +98,9 @@ In this way, the sound of Assarato is not simply the action of ""hitting'' but i
 
 There are two basic movements in the performance of Asarat: ""out" and ""in". Out is the movement in which the ball swings outward, and in is the movement in which the ball swings back inside.
 
-During this reciprocating motion, the rhythm is determined by the timing at which the spheres collide. Even a simple pattern can create a completely different groove by changing the timing.
+During this reciprocating movement, the rhythm is determined by the timing at which the spheres collide. Even with simple patterns, completely different grooves can be created by changing the timing.
 
-Furthermore, it is also possible to create polyrhythmic structures by combining both hands. Playing with a sense of unity even though the right and left hands play different rhythms requires an extremely high level of skill.
+Furthermore, it is also possible to create polyrhythmic structures by combining both hands. Playing with a sense of unity as a whole, even though the right and left hands play different rhythms, requires an extremely high level of skill.
 
 Furthermore, rhythm is not fixed, but is closely linked to the performer's body movements and breathing. As a result, even the same pattern produces slightly different nuances depending on the performer.
 
@@ -130,19 +130,19 @@ Furthermore, rather than simply reproducing the rhythm, the performers improvise
 
 ### From world music to the streets
 
-In the second half of the 20th century, Asarat was introduced to regions other than West Africa as part of the world music trend. With the growing interest in folk music, this instrument gradually gained international recognition.
+In the second half of the 20th century, asarat was introduced to regions other than West Africa as part of the world music movement. With the growing interest in folk music, this instrument gradually gained international recognition.
 
-After that, it developed in a new form in Europe and Japan, linking it with street performance and juggling culture. Particularly in urban areas, it has become widely used as part of performances that combine music and visual expression.
+Later, it developed in a new form in Europe and Japan, linking it with street performance and juggling culture. Particularly in urban areas, it has become widely used as part of performances that combine music and visual expression.
 
 <div class="mermaid">
 graph LR
-A[West Africa] --> B[ethnic culture]
+A[西アフリカ] --> B[ethnic culture]
 B --> C[world music]
 C --> D[urban culture]
 D --> E[street expression]
 </div>
 
-Furthermore, with the spread of the Internet, performance techniques and styles are now being shared around the world, and new styles that transcend regional differences are being born.
+Furthermore, with the spread of the Internet, performance techniques and styles have become shared around the world, creating new styles that transcend regional differences.
 
 > Asarat continues to cross cultural boundaries by moving
 
@@ -174,7 +174,7 @@ timeline
 
 ### Freedom created by fewer constraints
 
-Unlike drums and djembe, asarato does not have a fixed playing surface or pitch. Therefore, the movements of the performer are directly reflected in the sound.
+Unlike drums and djembe, asarato does not have a fixed hitting surface or pitch. Therefore, the movements of the performer are directly reflected in the sound.
 
 Another feature is that it is easy to carry and can be played anywhere. This makes it easier to perform on the street or while traveling, promoting cultural spread.
 
@@ -197,7 +197,7 @@ D --> E[degree of freedom]
 
 Asarat has also attracted attention in the fields of education and training in recent years. It is used as a tool to develop a sense of rhythm and physical coordination, and is especially effective for children and beginners.
 
-Additionally, because it requires the left and right hands to move independently, it has been pointed out that it has the effect of increasing coordination between the brain and body. It is sometimes used in rehabilitation settings, and is a means of reaffirming the relationship between music and the body.
+Additionally, since it requires the left and right hands to move independently, it has been pointed out that it has the effect of increasing coordination between the brain and body. It is sometimes used in rehabilitation settings, and is a means of reaffirming the relationship between music and the body.
 
 > Asarato goes beyond the framework of music education and becomes a device for training the body itself.
 
@@ -229,7 +229,7 @@ Its appeal lies not only in the richness of the sound, but also in the experienc
 
 And even though this instrument transcends cultural boundaries, it has not lost its underlying essence of ""people feeling the rhythm with their bodies.''
 
-> Asarat connects the past and present, passing the rhythm to the future through the body
+> Asarat connects the past and the present, passing the rhythm to the future through the body
 
 ---
 

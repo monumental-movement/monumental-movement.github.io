@@ -20,7 +20,7 @@ title: '[Column] Creation alone: ​​The era of the bedroom producer'
 
 Text: mmr｜Theme: From one computer to the world. The revolutionary history of music born in the bedroom and its social and cultural meanings
 
-It's no longer just yesterday that music production can now be completed in a ""room.''
+It is no longer just yesterday that music production can now be completed in a ""room''.
 However, this has become "normal" since the 21st century, when digitalization has reached its maximum.
 The magic of music production, once confined to the walls of a studio, has finally descended into everyone's rooms thanks to laptops and inexpensive audio interfaces, DAWs (Digital Audio Workstations).
 
@@ -97,7 +97,7 @@ In the silence of their bedrooms, they shared their feelings with young people a
 
 The bedroom is also a symbol of isolation.
 The freedom to decide everything by yourself and create everything by yourself, on the other hand, also brings about the anxiety of being responsible for everything.
-Because one person can handle everything from production, release, promotion, and social media support, **the support of a society with a division of labor is gone**.
+Since production, release, promotion, and social media support can be completed by one person, the support of a society with a division of labor has disappeared.
 
 However, that solitude is the source of modern creativity.
 Music has changed from a ""social act" to ""individual meditation."

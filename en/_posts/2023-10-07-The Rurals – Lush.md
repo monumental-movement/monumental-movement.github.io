@@ -13,7 +13,7 @@ title: The Rurals – Lush
 
 
 "Lush" is
-Released in 2000 on the UK label "Peng", real name Andy Compton.
+Real name Andy Compton, released in 2000 on UK label Peng.
 This is an EP from the project The Rurals.
 
 

@@ -11,7 +11,7 @@ title: Lev Lee – At Night In Ljubljana
 ---
 
 
-Borut Bernik, also known as Lev Lee, is a Slovenian techno producer. Together with Ales Cacovic, he is a Slovenian techno DJ and producer duo also active under the names Clox, Cloak Device, and The Clockworx.
+Lev Leeこと、Borut Bernik（ボルト・ベルニク）はスロベニアのテクノプロデューサー。Ales Cacovicと共に、スロベニアのテクノDJ&プロデューサーデュオとしてClox、Cloak Device、The Clockworx名義でも活動。
 
 #### Tracklist
 ```md

@@ -12,7 +12,7 @@ tags:
 - Chillhop
 - 80s
 - 90s
-title: '[Column] Lo-Fi Hip Hop / Chillhop (home-recorded beat culture)'
+title: 【コラム】 Lo-Fi Hip Hop / Chillhop（宅録ビート文化）
 ---
 
 
@@ -21,11 +21,11 @@ title: '[Column] Lo-Fi Hip Hop / Chillhop (home-recorded beat culture)'
 
 Text: mmr｜Theme: Historical facts about the home-recorded beat culture collectively known as Lo-Fi Hip Hop / Chillhop, including its background, technical conditions, distribution structure, aesthetics, and social acceptance.
 
-Lo‑Fi Hip Hop has become an established name for a musical practice based on hip-hop beat production that is characterized by intentionally low-resolution sound quality, simple organization, and highly repetitive structures. Chillhop is a derivative name that emphasizes its listening use, especially the aspect consumed in work/environmental music contexts.
+Lo‑Fi Hip Hop has become an established name for a musical practice based on hip-hop beat production but characterized by intentionally low-resolution sound quality, simple organization, and highly repetitive structures. Chillhop is a derivative name that emphasizes its listening use, especially the aspect consumed in occupational and environmental music contexts.
 
-The term Lo-Fi means "low fidelity," and refers to an attitude that treats recording technology limitations and noise as an element of expression rather than a flaw. On the other hand, Chillhop is not so much a genre name as a label formed within the categorization and playlist culture on distribution platforms.
+The term Lo‑Fi means ""Low Fidelity,'' and refers to an attitude that treats recording technology limitations and noise as an element of expression rather than a flaw. On the other hand, Chillhop is not so much a genre name as a label formed within the categorization and playlist culture on distribution platforms.
 
-While both share production techniques and aesthetics, they have played different roles in the distribution context.
+両者は制作技法や美学を共有しつつ、流通文脈において異なる役割を担ってきた。
 
 ---
 
@@ -34,7 +34,7 @@ While both share production techniques and aesthetics, they have played differen
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -43,9 +43,9 @@ color: #fff;
 </style>
 
 
-## 2. Hip-hop beat production as an antecedent culture
+## 2. Hip hop beat production as an antecedent culture
 
-Lo-Fi Hip Hop's direct origins lie in the hip-hop beat production culture of the late 1980s and 1990s. Techniques such as repetitive beat construction using samplers and drum machines, sampling from records, and reconstructing breakbeats were carried over into later Lo-Fi beat production.
+Lo-Fi Hip Hop's direct roots lie in the hip-hop beat production culture of the late 1980s and 1990s. Techniques such as repetitive beat construction using samplers and drum machines, sampling from records, and reconstructing breakbeats were carried over into later Lo-Fi beat production.
 
 At the time, the production environment was centered on hardware such as MPC, SP-1200, and ASR-10, and short sample times and low bit rates directly affected sound quality. These constraints gave rise to acoustic characteristics that were later reevaluated as ""warmth" and ""roughness."
 
@@ -57,7 +57,7 @@ From the late 1990s to the 2000s, DAW software and personal computers became mor
 
 In this home recording environment, it has become common for production to be completed using only a simple audio interface, an inexpensive MIDI controller, and headphones. The private nature of the production space is thought to have encouraged a more introspective and understated tendency to sound.
 
-The very production conditions of home recording defined the feel of the genre.
+宅録という制作条件そのものが、ジャンルの感触を規定した。
 
 ---
 
@@ -106,7 +106,7 @@ Visual repetition served to reinforce acoustic repetition.
 
 ---
 
-## 9. Standardization of production techniques
+## 9. 制作技法の定型化
 
 As the genre expanded, production techniques gradually became more standardized. Specific BPM bands, swing amounts, and tone selections have been shared, and production educational content and templates have also increased.
 
@@ -118,7 +118,7 @@ While this formalization lowers the barrier to entry, it also limits the range o
 
 Lo‑Fi Hip Hop/Chillhop is strongly tied to a revenue model based on streamed views. Structures suitable for long-term playback are highly compatible with algorithms, and there have been many cases of commercial success.
 
-On the other hand, there is also criticism that consuming music as background music makes it difficult to evaluate each work individually.
+On the other hand, there is also criticism that consuming music as a background makes it difficult to evaluate individual works.
 
 ---
 
@@ -142,7 +142,7 @@ This culture is not limited to a specific region, but is formed simultaneously o
 
 ### 1990s
 
-* Sound quality characteristics of low-bit samplers become commonplace
+* 低ビットサンプラーの音質特性が一般化
 
 ### Early 2000s
 
@@ -154,7 +154,7 @@ This culture is not limited to a specific region, but is formed simultaneously o
 
 ### 2020s
 
-* Consumption for environmental music has become commonplace
+* 環境音楽的用途としての消費が一般化
 
 ---
 
@@ -174,7 +174,7 @@ D --> E[long playback]
 
 What is distinctive about Lo-Fi Hip Hop/Chillhop is that it has permeated everyday life without being confined to a specific subculture. Connected to activities such as commuting to work or school, working from home, studying, and reading, a listening style in which music is placed in the background rather than the foreground of consciousness has become commonplace.
 
-This everydayization indicates the process by which music moves from being an ""object of appreciation" to being an ""environmental condition." Lo-Fi Hip Hop was accepted as something to keep flowing rather than being listened to.
+This normalization indicates the process by which music moves from being an ""object of appreciation" to being an ""environmental condition." Lo-Fi Hip Hop was accepted as something to keep flowing rather than being listened to.
 
 This expansion of culture was supported by the shift in the role of music to aiding behavior.
 
@@ -259,7 +259,7 @@ This culture of imitation led to the homogenization of genres and at the same ti
 
 ### 2020s
 
-* Generalization of ambient musical consumption
+* 環境音楽的消費の一般化
 
 ---
 

@@ -70,7 +70,7 @@ Furthermore, the rise of the civil rights movement, the violent backlash against
 
 Charles Manson was born in 1934 into extremely unstable circumstances. His mother was young and her livelihood was fragile, so he spent his childhood moving between institutions and relatives' homes.
 
-As a boy, he had already started committing crimes, and was arrested for theft and fraud, and sent to a correctional facility. During this period, he learns ""what is power" and ""what is control". The environment in which violence and psychological pressure were common had a decisive influence on the development of his personality.
+As a young boy, he had already started committing crimes, and was arrested for theft and fraud, and sent to a correctional facility. During this period, he learns ""what is power" and ""what is control". The environment in which violence and psychological pressure were common had a decisive influence on his personality development.
 
 ### Self-development in prison
 
@@ -92,7 +92,7 @@ He adapts to his environment and skillfully adopts hippie language and values. L
 
 ### Establishment of "family"
 
-Eventually, a group of young women forms around him. They lived together, shared drugs, and accepted Manson's word as absolute.
+Eventually, a group consisting mainly of young women forms around him. They lived together, shared drugs, and accepted Manson's word as absolute.
 
 On the surface it looked like a peaceful and free commune, but in reality it was a complete domination structure. Individual will is gradually dismantled and replaced with Manson's ideology.
 
@@ -167,7 +167,7 @@ graph TD
 
 ## Media and Mythologization
 
-The Manson incident is being consumed not just as a crime, but as a ""story.'' Newspapers, television, and books depicted him as a symbol of evil, and his image expanded.
+The Manson incident is being consumed not just as a crime, but as a ""story''. Newspapers, television, and books depicted him as a symbol of evil, and his image expanded.
 
 At the same time, his existence came to be talked about as a kind of myth, and influenced culture such as music and movies.
 
@@ -187,7 +187,7 @@ Although the counterculture did not disappear completely, its pure ideals were l
 
 ## Conclusion: Distortion created by the times
 
-Charles Manson was both unique and a product of his time, the 1960s. The gap that was created in the midst of major changes in society made existences like him possible.
+Charles Manson was both unique and a product of his time, the 1960s. The gap that was created in the midst of major changes in society made existences like his possible.
 
 This incident shows the dangers of freedom and ideals. No matter how beautiful an idea may be, when it loses its balance with reality, it can collapse in unexpected ways.
 

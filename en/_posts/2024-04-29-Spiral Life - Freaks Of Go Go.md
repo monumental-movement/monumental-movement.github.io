@@ -18,7 +18,7 @@ Spiral Life is a music unit composed of Koji Kurumatani and Shokichi Ishida. Act
 
 The third song on the album was used as a commercial song for Tower Records.
 
-The master is mastering engineer Mitsuo Koike, who has worked on YMO and others.
+The master is Mitsuo Koike, a mastering engineer who has worked on YMO and others.
 
 #### Tracklist
 ```md

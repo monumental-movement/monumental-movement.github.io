@@ -26,7 +26,7 @@ The listening experience on Spotify and Apple Music is being reorganized to fit 
 ""Listening on a rainy day," ""Track at 2 a.m." and ""A morning spent with coffee." These list titles indicate a new value: ""context over genre."
 Music is talked about not in terms of what it's made of, but in terms of how it resonates/fits situations.
 
-At the heart of this change are AI, nostalgia, and the listener's own "memory."
+At the heart of this change are AI, nostalgia, and the listeners' own memories.
 
 ---
 
@@ -53,7 +53,7 @@ In the field of 2025, these will dissolve the boundaries between professionals a
 #### AI "makes sounds", humans "choose meanings"
 
 For example, electronica artist Arca uses AI sound as a material and combines it with his own real voice. What she does is ""contextual design that asks why we choose one out of the countless possibilities created by AI.''
-Similarly, James Blake from the UK created an album [""Playing Robots Into Heaven" (2024)] (https://amzn.to/3L1hE6D) with the theme of ""human fragility" while treating AI as a ""co-author.''
+Similarly, James Blake from the UK created an album [Playing Robots Into Heaven (2024)] (https://amzn.to/3L1hE6D) with the theme of "human fragility" while treating AI as a "co-author."
 
 What these examples show is that AI is becoming less of a ""creator of sound" and more of a ""mirror that highlights what people choose."
 Precisely because the tools are open to everyone, what is being questioned is the individual's contextual power = the meaning of choice.
@@ -78,7 +78,7 @@ In other words, we are re-enacting the ""future of those days"' using today"s te
 What is important here is the attitude of ""re-editing rather than imitation.''
 As exemplified by playlists such as ""Retro-Future Pop" and ""Y2K Wave" on Spotify, current nostalgia brings the ""sound texture" to the past, but the ""production context" is modern.
 For example, Charli XCX's ""BRAT'' (2024) samples 90s club culture while also exploring the theme of post-internet self-consciousness.
-Her ""method of turning past sounds into materials'' can be said to be sampling the history of music itself.
+Her "method of turning past sounds into material" can be said to be sampling the history of music itself.
 
 ---
 
@@ -95,7 +95,7 @@ The tempo is slow, the kick is deep, the bass is organic - "stillness for dancin
 
 #### City Pop Re-evaluation: Reimported from the East
 
-After the Japanese song [**Mariya Takeuchi "Plastic Love"**] (https://amzn.to/3J6YPhZ) became viral again overseas, City Pop was reorganized globally as "Asian Nostalgia."
+After the phenomenon of [**Mariya Takeuchi's "Plastic Love"**](https://amzn.to/3J6YPhZ), which originated in Japan, went viral overseas, City Pop was reorganized globally as "Asian Nostalgia."
 As of 2025, young artists from Thailand, Indonesia, and South Korea are re-creating the "Oriental Dream" by quoting City Pop-style chord progressions and textures.
 The center of global pop is not just Los Angeles, but has expanded to Bangkok, Seoul, and Tokyo.
 
@@ -104,7 +104,7 @@ The center of global pop is not just Los Angeles, but has expanded to Bangkok, S
 ### Chapter 4: Live performances and fandom as "participatory music"
 
 The concept of live music is also in the midst of change.
-The culture of live streaming, which has spread due to the coronavirus pandemic, has not ended, and is now changing into a new, regular form called "hybrid live."
+The culture of live streaming, which has spread due to the coronavirus pandemic, has not ended, and is now changing to a new, regular form called "hybrid live."
 
 #### From Metaverse to "Augmented Reality"
 
@@ -178,7 +178,7 @@ What we need now is--
 
 The music of 2025 is asking us all that question.
 And the answer is not AI or algorithms.
-It exists quietly in ""listening''.
+It quietly exists in ""listening''.
 
 ---
 
@@ -187,7 +187,7 @@ It exists quietly in ""listening''.
 | Artist | Representative works (year) | Notes | Link |
 | ------------------- | ----------------------------------- | ------------------- |
 | James Blake | *Playing Robots Into Heaven* (2024) | Collaborative production process with AI | [Amazon](https://amzn.to/3L1hE6D) |
-| Charli XCX | *BRAT* (2024) | Nostalgia + Internet culture fusion | [Amazon](https://amzn.to/4nlF6Jt) |
+| Charli XCX | *BRAT* (2024) | Fusion of nostalgia + internet culture | [Amazon](https://amzn.to/4nlF6Jt) |
 | Chappell Roan | *Midwest Princess* (2024) | Y2K pop and feminist expression | [Amazon](https://amzn.to/4njo1Q5) |
 | Burna Boy | *I Told Them...* (2023) | Global expansion of Afrobeats | [Amazon](https://amzn.to/4niVVVn) |
 | Billie Eilish | *HIT ME HARD AND SOFT* (2024) | Reevaluating the "album experience" | [Amazon](https://amzn.to/4ouVbx9)

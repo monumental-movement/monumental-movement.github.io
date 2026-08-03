@@ -49,8 +49,8 @@ In the 21st century, electronic sounds have been extended to children's toys and
 ## Ⅱ. Sound toy culture in Asia
 
 ### Radel Electronic Tanpura
-The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performance. It has become popular among a wide range of people, from children to adults, because it allows complex stringed instruments to be easily reproduced at home.
-The simplification of electronic sounds actually opened the door to new improvisations. The electronic tanpura placed on the desk at home has become a ""homely ritual'' that resonates at the boundary between learning and play.
+The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performances. It was popular among a wide range of people, from children to adults, because it was easy to reproduce complex stringed instruments at home.
+Rather, the simplification of electronic sounds opened the door to new improvisations. The electronic tanpura placed on the desk at home has become a ""homely ritual'' that resonates at the boundary between learning and play.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -66,7 +66,7 @@ The digitization of traditional musical instruments has progressed not only in I
 Released in 1978, the Omnichord quickly became loved around the world as a unique "chord harp."
 
 - Unique interface combining keyboard and stroke board
-- Easy to play simple chords with just one finger
+- Easy to play simple chords with one finger
 - Lo-fi and cosmic tones
 
 The Omnichord has become more than a prop for techno-pop and indie artists during live performances and recordings. The sound is the embodiment of a design philosophy that welcomes chance and improvisation.
@@ -95,7 +95,7 @@ A fusion of subtle electronic sounds and analog feel. Omnichord's delicate chord
 
 ### Stylophone and Optigan
 The British Stylophone is a desk synth familiar from 1970s TV ads. When you trace the metal contacts with your fingertips, a distinctive beep sounds. Its ease and noisy feel were incorporated into early techno-pop and avant-garde music.
-The Optigan is an organ toy that plays sounds using optical discs, and is characterized by unpredictable patterns and rhythms.
+Optigan is an organ toy that plays sounds using optical discs, and is characterized by unpredictable patterns and rhythms.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -141,13 +141,13 @@ A noise experimental piece that makes full use of modified electronic equipment 
 
 ## Ⅵ. Japan's golden age of electronic toys
 
-In the 1970s and 1980s, portable synths and electronic musical toys became popular in Japanese households.
+In the 1970s and 1980s, portable synths and electronic musical instruments became popular in Japanese households.
 
 - Yamaha Portasound Series
 - CASIO VL-TONE
 - Educational synths such as Gakken's SX-150
 
-Electronic sounds can be easily experienced on desks at home or school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
+Electronic sounds can be easily experienced on desks at home or at school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -168,7 +168,7 @@ In Scandinavia, small, highly designed synths have appeared.
 - Teenage Engineering OP-1
 - Pocket Operator series
 
-Its simple, intuitive operability and cartoon-like tone combine Scandinavian humor and sophistication. It is unique in that it retains its character as a toy, but is also used by professional artists.
+Simple and intuitive operability and cartoon-like tones combine Scandinavian humor and sophistication. It is unique in that it retains its character as a toy, but is also used by professional artists.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBwU-d_WDmU?si=D_5-7a06v6wQYoNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -190,17 +190,17 @@ A complex texture that combines electronic toys and small synth-like sounds.
 
 ---
 
-## Ⅷ. Contemporary Artists and Toy Sound
+## Ⅷ. Contemporary artists and toy sound
 
 Many contemporary artists, including Björk, Cornelius, Bon Iver, and Laurie Anderson, have incorporated toy instruments into their live performances and recordings.
-Low-resolution sounds and accidental noises become tools for creating a sense of intimacy and improvisation, and are praised for daring to maintain a ""handmade'' feel in the age of digital.
+Low-resolution sounds and accidental noises become tools for creating a sense of intimacy and improvisation, and are praised for daring to maintain a "handmade feel" in the age of digital.
 
 ---
 
 ## Ⅸ. Future toy music
 
 Musical toys, such as AI toys, tactile instruments, and social toys, continue to evolve as a testing ground for new interfaces.
-The concept of "play" is once again returning to the center of music creation and is playing an important cultural role in the future of electronic sound.
+The concept of "play" is once again returning to the center of music creation, and is playing an important cultural role in the future of electronic sound.
 
 ---
 
@@ -258,7 +258,7 @@ flowchart TD
 | Fantasma | Cornelius | 1997 | Pop/electronica centered around Omnichord chords | [Amazon](https://amzn.to/4h7f2QM) |
 | Vespertine | Björk | 2001 | Delicate chord feel and minute electronic sounds by Omnichord | [Amazon](https://amzn.to/4ojW240) |
 | Space Oddity | David Bowie | 1969 | Stylophone used, space-like minimal tone | [Amazon](https://amzn.to/48r48mx) |
-| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Ambient/techno with toy electronic sounds such as Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
+| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Ambient/techno with toy-like electronic sounds such as Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
 | Rounds | Four Tet | 2003 | Pocket Operator style mini-synth electronic sound | [Amazon](https://amzn.to/4q451HY) |
 | Cosmogramma | Flying Lotus | 2010 | Complex texture combining small synth/electronic toy sounds | [Amazon](https://amzn.to/4q2iujP) |
 | Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bending Books | [Amazon](https://amzn.to/4haxkAD) |

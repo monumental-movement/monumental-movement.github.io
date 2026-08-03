@@ -46,7 +46,7 @@ In the mid-90s, labels and compilations that pushed the boundaries of the genre 
 
 **Representative works/people**
 - Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>: An important album of club-oriented tribal expression.
-- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>: Although it leans toward progressive rock, it is referred to as a work that connects to the club feeling of the 90s.
+- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>: Although it leans towards prog rock, it is referred to as a work connected to the club feeling of the 90s.
 
 **Musical features**
 - Enhance the floor experience with layered congas and percussion, combinations of sub-bass and powerful kicks, and long repeating compositions.

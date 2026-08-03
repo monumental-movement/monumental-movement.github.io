@@ -14,7 +14,7 @@ title: Lulu – Independence
 
 
 
-"Independence" is the first single from Scottish singer-songwriter Lulu's 11th album, "Independence" (1993). It is known as the comeback song for Lulu, who had not released a new song since 1982.
+"Independence" is the first single from Scottish singer-songwriter Lulu's 11th album, "Independence" (1993), released in 1993. It is known as the comeback song for Lulu, who had not released a new song since 1982.
 
 B1 is a remix by American electronic musician/DJ Tony Humphries, one of the pioneers of house music.
 

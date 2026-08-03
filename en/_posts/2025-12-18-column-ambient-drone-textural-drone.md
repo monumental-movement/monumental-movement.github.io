@@ -22,7 +22,7 @@ Text: mmr｜Theme: About drones that expand music from temporal art to spatial a
 
 Drone is a musical principle that uses sustained sound to transform our sense of time, spatial awareness, and auditory concentration. It is unique in that it uses pitch, overtones, timbre, and duration as structural units as an alternative to melody and harmonic progression. In the history of Western music, early examples include the bolden of the bagpipe, the pedal point of the organ, and the sustained bass notes of religious music.
 
-Since the late 20th century, with the development of recording technology and electronic acoustics, the drone has moved from being a mere accompaniment element to the main structure of an entire piece. Through this process, Ambient Drone was born, followed by Textural Drone, which emphasizes tonal changes and layering of physical texture.
+Since the late 20th century, with the development of recording technology and electronic acoustics, the drone has moved from being a simple accompaniment element to the main structure of an entire piece. Through this process, Ambient Drone was born, followed by Textural Drone, which emphasizes tonal changes and layering of physical texture.
 
 ---
 
@@ -52,7 +52,7 @@ Tape loops, variable speed playback, and feedback circuits provided a means to a
 
 ### 1-3. Connection with ambient concepts
 
-Since the 1970s, ambient music has presented a form of listening that assumes coexistence with the environment. Ambient Drone is positioned in this context as an acoustic device that does not attract too much attention, but has a highly controlled internal structure.
+Since the 1970s, ambient music has presented a form of listening that assumes coexistence with the environment. Ambient Drones are positioned in this context as acoustics that do not attract too much attention, but have highly controlled internal structures.
 
 ## Chapter 2 Extension to Textural Drone
 
@@ -62,7 +62,7 @@ Textural Drone is characterized by a structure in which multiple tonal layers ch
 
 ### 2-2. Layering techniques
 
-The overlaying of multiple tracks transforms the music from a linear structure to a surface structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
+The overlaying of multiple tracks transforms the music from a linear structure to a planar structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
 
 <div class="mermaid">
 flowchart LR
@@ -78,7 +78,7 @@ flowchart LR
 
 ### 3-1. Work characteristics
 
-Stars of the Lid uses strings, brass, and electronic sounds, and is characterized by an extremely slow development. In their works, clear melodic progressions and rhythms are eliminated, and the main structure is the stay of harmony and the breathing of tones.
+Stars of the Lid uses strings, brass, and electronic sounds, and is characterized by an extremely slow development. In their works, clear melodic progressions and rhythms are eliminated, and the main structure is the retention of harmony and the breathing of tones.
 
 ### 3-2. Recording and mixing
 
@@ -96,11 +96,11 @@ Based on his interest in sleep research and brain wave states, Robert Rich creat
 
 ### 4-2. Tone design
 
-Synthesizers, sample processing, and the integration of natural sounds form textures that blur the boundaries between man-made and natural. The slow modulation of overtones serves to visualize the passage of time.
+The integration of synthesizers, sample processing, and natural sounds creates textures that blur the boundaries between man-made and natural. The slow modulation of overtones serves to visualize the passage of time.
 
 ### 4-3. Live performance and installation
 
-Robert Rich's activities are not limited to concert formats, but also include installation-like developments based on spatial sound. This is an example of expanding the use of Ambient Drone.
+Robert Rich's activities are not limited to concert formats, but also include installation-like developments based on spatial acoustics. This is an example of expanding the use of Ambient Drone.
 
 ---
 
@@ -123,7 +123,7 @@ flowchart TB
 
 ### 5-2. Dynamics control
 
-Sudden changes in volume are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
+Sudden volume changes are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
 
 ### 5-3. Spatial processing
 
@@ -135,13 +135,13 @@ Changes in Textural Drone are designed at a level that is not immediately notice
 
 ### 5-5. Relationship between noise and overtones
 
-The noise component is not an impurity, but rather serves as a medium to make the overtone structure perceivable. In Stars of the Lid, the scrapes and breaths of string instruments obscure the contours of the harmonies, while in Robert Rich, environmental samples dissolve the contours of artificial sounds.
+The noise component is not an impurity, but rather serves as a medium to make the harmonic structure perceivable. In Stars of the Lid, the scrapes and breaths of string instruments obscure the contours of the harmonies, while in Robert Rich, environmental samples dissolve the contours of artificial sounds.
 
 Sound source localization is obscured by long reverb time and diffusion processing. As a result, sound is perceived as a texture of the entire space rather than a direction.
 
 ---
 
-## Chapter 6 Visualization of the acoustic world through videos and illustrations
+## Chapter 6 Visualization of the acoustic world through images and illustrations
 
 ### 6-1. Diagram of layer structure
 
@@ -167,7 +167,7 @@ flowchart LR
 
 ### 1960s
 
-* The emergence of minimal works centered on sustained sounds
+* The emergence of minimalist works centered on sustained sounds
 
 ### 1970s
 

@@ -10,7 +10,7 @@ tags:
 - Music
 - Opera
 - History
-title: '[Column] Francis Bacon and music: an auditory experience to depict extreme
+title: '[Column] Francis Bacon and music: an auditory experience for depicting extreme
   emotions'
 ---
 
@@ -82,7 +82,7 @@ Chance plays an important role in Bacon's creation. There is also music in the b
 
 He often welcomed "accidents". For example, there were times when I would take the marks left by a brush stroke or the unintentional spread of paint and place them directly at the center of my work.
 
-In one famous anecdote, he was painting after drinking when he unintentionally left a large stain on his canvas. However, he did not erase it, but rather found a new form from it.
+In one famous anecdote, he was working on a painting after drinking and accidentally left a large stain on the canvas. However, he did not erase it, but rather found a new form from it.
 
 This ""acceptance of accidents"' resonates with the improvisational nature of music. Wagner"s long pieces and Callas' wavering voice contain moments when they deviate from complete control.
 

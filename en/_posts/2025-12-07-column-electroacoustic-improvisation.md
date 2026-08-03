@@ -16,9 +16,9 @@ title: '[Column] The complete history of Electroacoustic Improvisation'
 
 ## From Fennesz to Toral, a fusion of electronic and improvisational
 
-Text: mmr｜Theme: About Christian Fennesz, Rafael Toral, AMM, Sachiko M, Otomo Yoshihide
+Text: mmr｜Theme: Christian Fennesz, Rafael Toral, AMM, Sachiko M, About Otomo Yoshihide
 
-Electroacoustic Improvisation (EAI) is a musical trend that combines electronic acoustics and improvisation, which formed mainly in Europe and Japan from the late 1990s to the early 2000s.
+Electroacoustic Improvisation（以下、EAI）は、1990年代末〜2000年代初頭にかけて、ヨーロッパと日本を中心に形成された**電子音響と即興演奏を融合させた音楽的潮流**である。  
 Improvisational music, electroacoustic music, noise, field recording, modular synths, and digital samplers intersect, establishing a unique practice system that differs from traditional jazz-oriented free improvisation and acoustic school.
 
 ---
@@ -37,15 +37,15 @@ color: #fff;
 </style>
 
 
-## 1. What is EAI?
-EAI is an abbreviation for "Electroacoustic Improvisation," and it began to be used internationally around the year 2000 to refer to **improvisation using electroacoustic processing and processing technology**.
+## 1. EAI とは何か  
+EAI は「Electroacoustic Improvisation」の略称で、**電子音響の処理・加工技術を用いた即興演奏**を指す言葉として2000年前後から国際的に用いられるようになった。  
 Although there is no clear unified definition, the following are common points:
 
-- Improvisationally operate electronic equipment (modulars, laptops, effectors, samplers)
+- Improvisationally operate electronic equipment (modulars, laptops, effects units, samplers)
 - Blurring the boundaries between live instruments and electronic sounds
 - Active use of sustained sounds and subtle sounds (hum, hiss, signal sounds)
 - Breaking away from traditional rhythmic and melodic structures
-- ""The performance itself'' is also subject to appreciation.
+- 「演奏動作そのもの」も鑑賞対象となる  
 - Although it is a generation before live coding, it focuses on electrical operation
 
 Although EAI is often talked about in the context of improvised music, it is more appropriate to call it a ""practical area'' rather than a single genre because it involves multiple areas such as acoustic technology, electronic engineering, and noise culture.
@@ -56,21 +56,21 @@ Although EAI is often talked about in the context of improvised music, it is mor
 
 ### 2-1. Origin ①: Electroacoustic music of the 1970s
 The electroacoustic production techniques pioneered by Pierre Henry, Iannis Xenakis, and Karlheinz Stockhausen gave rise to later EAI interest in material processing—granularity, signal manipulation, and electronic noise.
-In particular, the development of live electronics is an important foundation linked to the improvisational nature of EAI.
+特にライブ電子音響（Live electronics）の発展は、EAIの即興性と結びつく重要な基盤となる。
 
 ### 2-2. Origin ②: Free Improvisation
 AMM (UK, 1960s-) was a pioneer in incorporating electronic equipment (radio, contact microphone, etc.) into their performances.
 The ""liberation of non-instrumental sounds'' demonstrated by Eddie Prévost and Keith Rowe would later become the inspiration for EAI.
 
 ### 2-3. Origin ③: 1980s-1990s noise/alternative electronic sound
-Japanese noise (Merzbow, Incapacitants, etc.) exposed the ""materiality of sound'' through the ultimate pursuit of acoustic materials.
-On the other hand, Otomo Yoshihide and Sachiko M improvised minimal and sophisticated electronic sounds (sine waves) and established the foundations of EAI: ""reducing the number of sounds" and ""emphasizing space."
+日本のノイズ（Merzbow、Incapacitantsなど）は、音響素材の極限的追求により「音の物質性」を露わにした。  
+一方で Otomo Yoshihide や Sachiko M は、ミニマルで精緻な電子音（サイン波）を即興に導入し、EAIの礎となる「音数の減少」「空間の強調」を打ち出した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 2-4. Origin ④: Laptop music in the late 1990s
+### 2-4. 源流④：1990年代後半のラップトップ音楽  
 With the spread of Max/MSP, SuperCollider, etc., laptops have entered the arena of improvisation.
 This means the **democratization of real-time sound processing** and will decisively support EAI's ""improvisation using electronic equipment.''
 
@@ -81,24 +81,24 @@ This means the **democratization of real-time sound processing** and will decisi
 ---
 
 # 3-1. **Christian Fennesz**
-Originally from Austria. He is known for his style, which uses a guitar as a sound source and processes it on a laptop, gently crossing the line between melody and noise.
+オーストリア出身。ギターを音源に使いながら、ノートPCで加工し、メロディとノイズの境界を緩やかに横断するスタイルで知られる。  
 His masterpiece "Endless Summer" (2001) was highly praised as an example of the fusion of electronic and guitar sounds.
 
-From an EAI perspective, the following points are important:
+EAI的観点で重要なのは、以下の点である：
 
 - Treat raw guitar sound and processed sound on the same plane
 - Introduce glitch noise to improvise
 - Treat your laptop as a "second instrument"
 - Incorporate signal processing (filtering, granular) as a performance act
 
-Particularly in live performances, the process of capturing, processing, and creating space in real time is responsible for the improvisational nature of the guitar's minute noises.
+特にライブパフォーマンスでは、ギターの微細なノイズを取り込み、加工し、リアルタイムに空間化する工程が即興性を担っている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ibE5Spt4Pkw?si=rFolW3Ja88GV3WpB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 # 3-2. **Rafael Toral**
-Originally from Portugal. Initially, he produced ambient-oriented electro-acoustic works, but around 2003 he developed a project collectively known as ""Space Program,'' and shifted his focus to **improvisational performances using electronic equipment manually**.
+Originally from Portugal. Initially, he produced ambient-oriented electroacoustic works, but around 2003 he developed a project collectively known as ""Space Program,'' and shifted his focus to improvisational performances that involved manual operation of electronic equipment.
 
 Features:
 
@@ -107,7 +107,7 @@ Features:
 - Treat electronic sounds like jazz phrases
 - Pursuing the match between physical movements and electronic reactions
 
-Toral is unique among EAI in its thoroughness of "hand-playing electronic sounds" and is a representative example of the improvisational possibilities of modular operation.
+Toral is unique among EAI in its thorough approach to "hand-playing electronic sounds," and is a representative example of the improvisational possibilities of modular operation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoJ3vPqkz-w?si=lldtAtTk2AVOX-Ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -117,10 +117,10 @@ Toral is unique among EAI in its thoroughness of "hand-playing electronic sounds
 EAI's Asian roots were formed in an area that overlapped with the ""onkyoha'' movement of the late 1990s.
 
 - Sachiko M establishes extreme minimalism using the sampler's internal test tone (sine wave)
-- Otomo Yoshihide develops acoustic improvisation using turntables, guitars, and samplers
+- Otomo Yoshihide はターンテーブル、ギター、サンプラーを用い音響即興を発展  
 - Filament (Otomo x Sachiko M) is an important unit in the EAI context
 
-Particular emphasis was placed on ""white space" and ""the treatment of silence," which had a great influence on the later international EAI movement.
+特に「余白」「無音の扱い」が強調され、後の国際的EAIムーブメントに大きな影響を及ぼす。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPQHPCoF3Sk?si=idpKewbUugbRWurv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -136,7 +136,7 @@ EAI inherits AMM's aesthetics: ""the social nature of performance," ""the use of
 
 ---
 
-# 4. Systematic analysis of equipment and techniques used
+# 4. 使用機材と技法の体系分析
 
 ## 4-1. Equipment: Modular synth
 Modular in EAI is
@@ -149,14 +149,14 @@ It has characteristics suitable for improvisation.
 
 ## 4-2. Sampler
 In EAI, samplers are often treated as **signal generators/circuit devices** rather than as sound sources.
-The Sachiko M example is a typical example, in which only the internal test tone was used.
+Sachiko M の例はその代表で、内部テストトーンのみを使用した。
 
 ## 4-3. Laptop
 Real-time processing using Max/MSP and Pure Data is typified by Fennesz's style.
 It is important to note that the laptop is not a sensor; the processing itself is an act of performance.
 
-## 4-4. Effector / Physical Noise
-Techniques that utilize signals beyond musical intent, such as contact microphones, mixer feedback, and power supply noise, are also common.
+## 4-4. エフェクター / 物理的ノイズ  
+Techniques that utilize **signals beyond musical intent**, such as contact microphones, mixer feedback, and power supply noise, are also common.
 
 ---
 
@@ -170,12 +170,12 @@ Techniques that utilize signals beyond musical intent, such as contact microphon
 ### 5-2. Japan: Acoustic school centered on Tokyo
 - Off Site (Sendagi, late 1990s to early 2000s) was a base for international EAI exchange
 
-### 5-3. Portugal: Electronic Improvisation in Lisbon
+### 5-3. ポルトガル：Lisbonの電子即興  
 - Rafael Toral plays a central role
 
 ---
 
-# 6. EAI related chronology
+# 6. EAI-related chronology
 
 <div class="mermaid">
 timeline
@@ -199,7 +199,7 @@ timeline
 flowchart TD
     EAI["Electroacoustic Improvisation"]
     AMM --> EAI
-    Noise_Japan["Japanese Noise / Onkyoha"] --> EAI
+    Noise_Japan["Japanese Noise / 音響派"] --> EAI
     Laptop_Music["Laptop Music (1990s)"] --> EAI
     Modular["Modular Synthesizer"] --> EAI
     Fennesz["Christian Fennesz"] --> EAI
@@ -218,13 +218,13 @@ In particular, connections are progressing with the following areas:
 - Modular synth automatic generation system
 - Sound art/installation
 - Integration with field recording technology
-- Improvisation of Ambisonics
+- 空間音響（Ambisonics）の即興利用
 
 Since EAI remains a "practice" rather than a "genre," its form will continue to change as long as there are musicians who work with electrical signals.
 
 ---
 
-# Conclusion
+# 結語
 
 Electroacoustic Improvisation is a rare system of practice where diverse fields such as electronic technology, acoustic science, free improvisation, and noise culture intersect, and the activities of Christian Fennesz and Rafael Toral occupy a central position.
 

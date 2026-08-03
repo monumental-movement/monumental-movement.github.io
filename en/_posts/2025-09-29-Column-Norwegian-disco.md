@@ -14,11 +14,11 @@ title: '[Column] Norwegian disco: Genealogy and recommended records of Prins Tho
 ---
 
 
-## Norwegian Disco: The Genealogy of Prins Thomas, Mungolian Jet Set and Lindstrøm
+## ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜
 
 Text: mmr｜Theme: History of modern disco/space disco born in Norway, solo works, collaborations, produced works
 
-Despite its cold climate and Scandinavian tranquility, Norway has given rise to an important trend of warm disco/space disco. Prins Thomas, Lindstrøm, and the Mungolian Jet Set have reinterpreted 70s and 80s disco, Italo, and French touch with a Norwegian lens, giving 21st century dance music their own unique flavor. In this article, we will comprehensively introduce each artist's solo work, collaboration, and production activities, and list recommended albums by age group.
+Despite its cold climate and Scandinavian tranquility, Norway has given rise to an important trend of warm disco/space disco. Prins Thomas, Lindstrøm, and Mungolian Jet Set have reinterpreted 70s and 80s disco, Italo, and French touch with a Norwegian lens, giving 21st century dance music its own unique flavor. In this article, we will comprehensively introduce each artist's solo work, collaboration, and production activities, and list recommended albums by age group.
 
 ---
 
@@ -37,7 +37,7 @@ color: #fff;
 
 ## Overview: Scandinavian air and "temperature" disco
 
-The disco created by Norwegian producers is more than just retro playback. The melancholy produced by the cold climate and the fusion of warm synth/percussion--this contrast is the flavor of "Nordic disco." Prins Thomas and Lindstrøm influenced each other, expanding the vocabulary of "space disco" through co-writing and remixing. Mungolian Jet Set, on the other hand, also incorporates elements from outside Norway (including the introduction of music samples from Asia and the Middle East) in its DJ mixes and extraordinary music curation.
+The disco created by Norwegian producers is more than just retro playback. The melancholy produced by the cold climate and the fusion of warm synth/percussion--this contrast is the flavor of "Nordic disco." Prins Thomas and Lindstrøm influenced each other, expanding the vocabulary of "space disco" through co-writing and remixing. Mungolian Jet Set, on the other hand, also incorporates essences from outside Norway (including musical samples from Asia and the Middle East) in its DJ mixes and extraordinary music curation.
 
 ---
 
@@ -62,7 +62,7 @@ flowchart TD
 
 ### Prins Thomas
 
-His real name is Thomas Moen Hermansen. Inheriting the spirit of Detroit-Italo and 70s disco, they specialize in long psychedelic build-ups. He is known for his solo albums ""Prins Thomas" and ""II". In addition, the collaborations and remix work released with Lindstrøm and others contributed to the formation of the scene.
+本名はThomas Moen Hermansen。デトロイト〜イタロや70sディスコの精神を受け継ぎつつ、長尺のサイケデリックなビルドアップを得意とする。ソロアルバム『Prins Thomas』や『II』などで知られる。また、Lindstrømらと共にリリースしたコラボレーションやリミックスワークはシーン形成に寄与した。
 
 **Main activities produced/involved**:
 
@@ -79,13 +79,13 @@ His real name is Hans-Peter Lindstrøm. His sound is called the standard-bearer 
 **Main activities produced/involved**:
 
 * Remixes of other artists (female singers and indie bands)
-* Music production for video works and fashion events
+* 映像作品やモード系イベントの音楽制作
 
 ---
 
 ### Mungolian Jet Set
 
-Mainly active as a DJ unit/producer. He is known for his vast record knowledge and mixes that incorporate a sense of tribal rhythm. Their Jet Set Trax-like mix series brings a new editorial perspective to the Norwegian club scene.
+Mainly active as a DJ unit/producer. He is known for his vast knowledge of records and mixes that incorporate a sense of tribal rhythm. Their Jet Set Trax-like mix series brings a new editorial perspective to the Norwegian club scene.
 
 #### Member composition
 
@@ -97,7 +97,7 @@ Features:
 
 An important presence in Norway's underground DJ culture.
 
-With a unique music selection based on his extensive record collection, he freely connects disco, jazz, Afro, house, and experimental music.
+With a unique eye for music selection based on his extensive record collection, he connects everything from disco, jazz, Afro, house, and experimental music.
 
 Known as a DJ who breaks down genre barriers, he brings an electric element to Mungolian Jet Set's work.
 
@@ -114,7 +114,7 @@ An engineer who supports studio work.
 He is in charge of rich sound design, making full use of synthesizers, samplers, programming, etc.
 
 Jazz and
-He brings his classical background and adds depth to his arrangements.
+He brings in his classical background and adds depth to his arrangements.
 
 ---
 
@@ -127,7 +127,7 @@ Mungolian Jet Set's albums and mixes also feature guest vocalists and instrument
 
 #### Sound characteristics
 
-Cross-genre: A mixture of disco, cosmic, house, jazz, Afro, and even rock and prog elements.
+Cross-genre: A mix of disco, cosmic, house, jazz, Afro, and even rock and progressive elements.
 
 Remix sense: He is known for his "space travel" remixes that boldly change the structure of the original song and extend it to over 10 minutes.
 

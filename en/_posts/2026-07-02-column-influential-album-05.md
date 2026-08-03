@@ -35,7 +35,7 @@ A work that destroyed preconceptions through punk.
 
 A work that embraces electronic music.
 
-And this is a work that updates the very question, "What is rock?"
+And this is a work that updates the very question of "What is rock?"
 
 The 10 albums featured in Part 5 are each albums that marked a turning point in the evolution of rock.
 
@@ -78,7 +78,7 @@ The ranking consists of the following 10 works.
 
 | Ranking | Album | Historical significance |
 | -: | -------------------------------------------- | --------------- |
-| 41 | Revolver | The revolution that turned studio recording into an instrument |
+| 41 | Revolver | The revolution that turned studio recording into a musical instrument |
 | 42 | Abbey Road | Complete album art |
 | 43 | Blonde on Blonde | Introducing literary style to rock |
 | 44 | Highway 61 Revisited | Fusion of folk and rock |
@@ -111,17 +111,17 @@ mindmap
 
 If you follow these 10 photos in chronological order, one fact becomes clear.
 
-Rock has always refused to be "completed" and taken steps towards new forms of expression.
+Rock has always refused to be ""completed'' and stepped into new forms of expression.
 
 That's why even now, more than 60 years after its birth, its influence continues to be felt in music around the world.
 
-Now, let's take a look at the history of innovation starting with #41 -- **Revolver**.
+それでは、第41位──**Revolver**から、その革新の歴史を見ていこう。
 
 
 
 ---
 
-# 5th Part 1 (41st place)
+# 第5回 Part1（41位）
 
 ## Revolver
 
@@ -129,13 +129,13 @@ Now, let's take a look at the history of innovation starting with #41 -- **Revol
 
 Released on August 5, 1966, Revolver was a work that rewrote not only rock history, but the history of recording art as a whole.
 
-If ""Sgt. Pepper's Lonely Hearts Club Band" perfected the concept of a ""concept album," ""Revolver'' was the album that turned the studio itself into a creative space.
+もし『Sgt. Pepper's Lonely Hearts Club Band』が「コンセプト・アルバム」という概念を完成させた作品だとすれば、『Revolver』は、その土台となる**スタジオそのものを創作空間へ変えたアルバム**だった。
 
 Until then, a recording studio was simply a place to faithfully record performances.
 
 However, after ""Revolver," the studio transforms from being a place to ""recreate" performances to a place to ""create'' sounds that cannot be played in real life.
 
-It is no exaggeration to say that the idea of ​​""studio works'' that continues in modern rock, electronic music, hip-hop, ambient, and even film music began in earnest with this work.
+現代のロック、電子音楽、ヒップホップ、アンビエント、さらには映画音楽に至るまで続く「スタジオ作品」という思想は、この作品から本格的に始まったと言っても過言ではない。
 
 ---
 
@@ -155,13 +155,13 @@ Revolver is the first serious effort.
 
 ## Experiment started at EMI studio
 
-Production took place at EMI Recording Studios (now Abbey Road Studios) in London.
+制作はロンドンのEMI Recording Studios（現在のAbbey Road Studios）で行われた。
 
-Producer George Martin and engineer Geoff Emerick broke away from traditional recording techniques and actively introduced new sonic experiments.
+プロデューサーのGeorge Martinと、エンジニアのGeoff Emerickは、従来の録音技法にとらわれることなく、新たな音響実験を積極的に導入した。
 
 The main equipment used was a 4-track tape recorder, which was state-of-the-art at the time.
 
-Although it is an extremely limited environment in today's sense, by bouncing (mixing down) the tape many times and recording over and over again, they were able to create a multi-layered sound.
+Although it is an extremely limited environment in today's sense, by bouncing (mixing down) the tape many times and recording over and over again, a multi-layered sound was achieved.
 
 They took advantage of limited technology and created a new world of sound through ingenuity.
 
@@ -177,7 +177,7 @@ In this song,
 
 * Tape loop
 * Reverse rotation recording
-* Change tape speed
+* テープ速度の変更
 *Artificial Double Tracking (ADT)
 * Vocal processing through rotating speakers (Leslie speakers)
 
@@ -187,7 +187,7 @@ These were not special effects, but rather the compositional elements of the son
 
 <div class="mermaid">
 flowchart LR
-A[performance]
+A[演奏]
 B[recording]
 C[tape editing]
 D[acoustic processing]
@@ -197,17 +197,17 @@ A --> B --> C --> D --> E
 
 </div>
 
-This idea directly led to later sampling, remixing, and music production using DAW.
+この発想は後のサンプリング、リミックス、DAWによる音楽制作へと直接つながる。
 
-The origins of the idea of ​​""creating music after recording," which has become commonplace in modern times, can be seen in ""Revolver."
+The origin of the idea of ​​""creating music after recording," which has become commonplace in modern times, can be seen in ""Revolver."
 
 ---
 
 ## Authentic encounter with Indian music
 
-""Revolver'' is also one of the first important works in which Western rock incorporated non-Western music in earnest.
+『Revolver』は、西洋ロックが非西洋音楽を本格的に取り入れた最初期の重要作品でもある。
 
-George Harrison learned Indian classical music in earnest from sitar player Ravi Shankar, and reflected the results in ""Love You To''.
+George Harrison learned Indian classical music in earnest from sitar player Ravi Shankar, and reflected the results in ""Love You To.''
 
 This is not just an exotic hobby.
 
@@ -221,7 +221,7 @@ Its influence extended to later psychedelic rock, progressive rock, ambient, and
 
 In "Revolver," each member's individuality has clearly matured.
 
-For ""Eleanor Rigby,'' Paul McCartney goes beyond the confines of a rock band and employs a string octet to explore the theme of loneliness with a classical sound.
+For ""Eleanor Rigby,'' Paul McCartney goes beyond the boundaries of a rock band and employs a string octet to explore the theme of loneliness in a classically sounding way.
 
 On the other hand, with ""Tomorrow Never Knows,'' John Lennon developed a lyrical world inspired by the expansion of consciousness and Eastern thought, greatly expanding the spiritual scope of rock songs.
 
@@ -244,11 +244,11 @@ Today,
 * Layer vocals dozens of times
 * Edit your performance in detail
 * Combine samples
-* Design the space itself
+* 空間そのものを設計する
 
 Productions like this have become commonplace.
 
-However, the origin of this idea lies in "Revolver".
+しかし、その発想の原点には『Revolver』がある。
 
 This album popularized the idea that a ""completed work" and a ""playable work" do not necessarily have to be the same.
 
@@ -267,17 +267,17 @@ The album includes
 * Baroque music
 * Experimental music
 
-A variety of elements naturally coexist.
+Various elements such as these naturally coexist.
 
-What is important is that he did not simply use them as quotations, but that he completely digested them into the container of rock.
+重要なのは、それらを単なる引用として使ったのではなく、**ロックという器の中へ完全に消化した**ことである。
 
 This attitude later established the value that ""crossing genres'' is the very essence of creativity, from progressive rock, art rock, new wave, and even contemporary pop.
 
 <div class="mermaid">
 flowchart TD
-A[classic]
+A[クラシック]
 B[indian music]
-C[soul]
+C[ソウル]
 D[experimental music]
 E[Revolver]
 F[modern popular music]
@@ -294,11 +294,11 @@ E --> F
 
 ## Evaluation at the time of release
 
-Immediately after its release, ""Revolver'' received high praise in the UK, the US, and other countries around the world.
+発売直後、『Revolver』はイギリス、アメリカをはじめ世界各国で高い評価を受けた。
 
 However, its innovation was so advanced that not all critics immediately understood its significance.
 
-To some listeners who were expecting traditional rock music, this album seemed difficult and experimental.
+For some listeners who were expecting traditional rock music, this album seemed difficult and experimental.
 
 But the musicians reacted very quickly.
 
@@ -310,7 +310,7 @@ In just a few short years, rock sound design itself has changed from before and 
 
 ## Impact on posterity
 
-The impact this work has left is immeasurable.
+本作が残した影響は計り知れない。
 
 The idea of ​​viewing the studio as a creative space is
 
@@ -321,9 +321,9 @@ The idea of ​​viewing the studio as a creative space is
 
 It was passed down to many innovative artists.
 
-Furthermore, this philosophy is deeply embedded in the sampling culture of hip-hop, the sound design of electronic music, the spatial design of ambient music, and the multi-layered production of contemporary pop music.
+さらに、ヒップホップにおけるサンプリング文化や、電子音楽のサウンドデザイン、アンビエントの空間設計、現代ポップスの多層的なプロダクションにも、その思想は深く浸透している。
 
-The current production common sense of ""creating music through recording" would not be possible without ""Revolver."
+「録音によって音楽を創る」という現在の制作常識は、『Revolver』なくしては語れない。
 
 ---
 
@@ -331,9 +331,9 @@ The current production common sense of ""creating music through recording" would
 
 In this ranking, ""Sgt. Pepper's Lonely Hearts Club Band'' is ranked first.
 
-However, that revolution would not have been possible without ""Revolver.''
+しかし、その革命は『Revolver』なしには成立しなかった。
 
-If ""Sgt. Pepper's" is a ""completed form," ""Revolver" is an ""invention."
+『Sgt. Pepper's』が「完成形」であるならば、『Revolver』は「発明」である。
 
 This work, which replaced the studio with an instrument, converted recording technology into creation, and popularized cross-genre ideas, determined the direction of popular music from the late 1960s onwards.
 
@@ -347,25 +347,25 @@ It was here that rock evolved from performance-based music to an art in which th
 
 Its influence continues today in three aspects: recording techniques, composition methods, and genre fusion.
 
-On the other hand, this ranking ranks ""Sgt. Pepper's Lonely Hearts Club Band" more highly as a ""completion of album art," so it was ranked 41st.
+On the other hand, this ranking ranks ""Sgt. Pepper's Lonely Hearts Club Band" more highly as a ""completed album art," so it was ranked 41st.
 
 Still, without Revolver, rock, electronic music, hip-hop, ambient, and even music production in the digital age would have looked very different.
 
-> "'Revolver' changed the recording studio from a mere recording facility to an instrument for creation. We rank it 41st in this ranking as a historical turning point that elevated the act of recording itself to art."
+> "'Revolver' transformed the recording studio from a mere recording facility to an instrument for creation. We rank it 41st in this ranking as a historical turning point that elevated the act of recording itself to art."
 
 ---
 
-# 5th Part 2 (42nd place)
+# 第5回 Part2（42位）
 
 ## Abbey Road
 
-### **"The moment when the art form of an album was completed"**
+### **"The moment when the art form of the album was completed"**
 
 Abbey Road, released on September 26, 1969, was more than just a hit album.
 
 It is a historical work that shows that the ""album'' format was perfected as a comprehensive art form in 20th century popular music.
 
-Ironically, around the time this work was made, interpersonal relationships within The Beatles were seriously deteriorating, and the group's unity was severely shaken.
+Ironically, around the time this work was made, interpersonal relationships within The Beatles were seriously deteriorating, and the group's cohesion was severely shaken.
 
 However, this tense relationship paradoxically brought out the creativity of each member to the limit, resulting in the creation of a work that could be called the band's final completed form.
 
@@ -375,7 +375,7 @@ However, this tense relationship paradoxically brought out the creativity of eac
 
 ## Band headed for collapse
 
-After The Beatles (White Album) in 1968, the differences in direction between the members rapidly widened.
+1968年のThe Beatles (White Album)以降、メンバー間の方向性の違いは急速に広がっていた。
 
 Conflicts over business management, creative initiative, and interest in individual activities all combined to undermine the sense of unity they once had.
 
@@ -396,7 +396,7 @@ For this work, an 8-track recorder, which was a major improvement over the previ
 In addition, engineer Geoff Emerick et al.
 
 * High precision multi-track recording
-* Precise design of stereo space
+* ステレオ空間の緻密な設計
 * Utilization of synthesizer
 * Advancing overdubbing technology
 
@@ -408,11 +408,11 @@ As a result, Abbey Road, despite being a 1960s work, has a crisp, three-dimensio
 
 ## Introduction of Moog Synthesizer
 
-One of the notable innovations in this work is the active introduction of the **Moog synthesizer** developed by Robert Moog.
+One notable innovation in this work is the active introduction of the **Moog Synthesizer** developed by Robert Moog.
 
 At the time, this instrument was still mostly used in research institutions and in the field of experimental music, and was extremely rare in popular music.
 
-In songs such as "Here Comes the Sun" and "Because," the uniquely soft electronic sounds blended naturally into the songs, showing that "synthesizers can become part of musical expression rather than a special effect."
+In songs such as "Here Comes the Sun" and "Because," the unique soft electronic sounds blended naturally into the songs, showing that "synthesizers can be part of musical expression rather than a special effect."
 
 This was an important stepping stone for later progressive rock, electronic music, new wave, and synth pop.
 
@@ -539,7 +539,7 @@ However, given its level of perfection and its influence on future generations, 
 
 ## Blonde on Blonde
 
-### **"The moment rock became literature"**
+### **「ロックが文学になった瞬間」**
 
 Released on June 20, 1966, Blonde on Blonde is a work that symbolizes the turning point in which rock music became not just entertainment or youth culture, but a form of expression that was discussed on an equal footing with literature and art.
 
@@ -779,7 +779,7 @@ Highway 61 Revisited was released just a month later.
 
 ## What Highway 61 means
 
-""Highway 61'' in the album title is an actual highway that stretches from the central United States to the south.
+""Highway 61'' in the album title is an actual highway that stretches from central America to the south.
 
 This road is
 
@@ -787,19 +787,19 @@ This road is
 *Memphis
 *New Orleans
 
-It was also the main artery of musical culture that brought together blues, country, and rock and roll.
+It was also the main artery of musical culture that brought together blues, country, and rock"n"roll.
 
-By using this road as a symbol, Dylan condensed the very tradition of American music into a single album.
+By using this path as a symbol, Dylan condensed the very tradition of American music into a single album.
 
 ---
 
 ## The impact of "Like a Rolling Stone"
 
-""Like a Rolling Stone'', which opens the album, is known as a song that changed music history.
+""Like a Rolling Stone,'' which opens the album, is known as a song that changed music history.
 
 Until then, radio singles were generally around 3 minutes long.
 
-However, the song became a worldwide hit despite being over 6 minutes long.
+However, the song became a worldwide hit despite being over six minutes long.
 
 moreover,
 
@@ -833,7 +833,7 @@ D --> E
 
 Recording took place at Columbia Studio A.
 
-Tom Wilson was the producer, with Bob Johnston taking over for some sessions.
+プロデューサーはTom Wilson、その後一部セッションではBob Johnstonが引き継いだ。
 
 The performance was attended by talented musicians who were friends with members who would later become The Band, and the session focused on improvisation.
 
@@ -849,12 +849,12 @@ With the success of ""Highway 61 Revisited'', the fusion of folk and rock became
 
 What Dylan presented was not a simple choice between acoustic and electric.
 
-What was important was the idea of ​​delivering folk ideas and words with rock energy.
+重要だったのは、**フォークの思想と言葉を、ロックのエネルギーで届ける**という発想だった。
 
-Under the influence of this
+この影響を受け、
 
-*The Byrds
-*Simon & Garfunkel
+* The Byrds
+* Simon & Garfunkel
 *The Band
 *Crosby, Stills, Nash & Young
 
@@ -928,11 +928,11 @@ Considering that ""Blonde on Blonde,'' released the following year, further deep
 
 ""Like a Rolling Stone'' also overturned preconceptions about single length and structure, and had a major impact on music industry conventions.
 
-In this ranking, ""Blonde on Blonde,'' which further matures this idea, is ranked one level higher, so it is ranked 44th, but without this work, the subsequent development of singer-songwriter culture and folk rock would have been unimaginable.
+In this ranking, ""Blonde on Blonde'', which further matures this idea, is ranked one level higher, so it is ranked 44th, but without this work, the subsequent development of singer-songwriter culture and folk rock would have been unimaginable.
 
 Highway 61 Revisited was rock's first major step from youth culture to contemporary art.
 
-> "'Highway 61 Revisited' brought together folk ideas and rock energy, bringing new intelligence and literary quality to popular music. As a historical turning point that decisively expanded the expressive realm of rock, we rank it 44th in this ranking."
+> "'Highway 61 Revisited' brought together the ideas of folk and the energy of rock, bringing new intelligence and literary quality to popular music. We rank it 44th in this ranking as a historical turning point that decisively expanded the expressive realm of rock."
 
 ---
 
@@ -940,7 +940,7 @@ Highway 61 Revisited was rock's first major step from youth culture to contempor
 
 ## Led Zeppelin IV
 
-### **"An album that gave rock a new aesthetic called 'heavy'"**
+### **「ロックに“ヘヴィ”という新しい美学を与えたアルバム」**
 
 Led Zeppelin IV, released on November 8, 1971, is a historical work that brought the hard rock genre to completion and established the aesthetics of "heavy sounds" that would continue in subsequent heavy metal, alternative rock, and even grunge.
 
@@ -948,7 +948,7 @@ Loud rock music existed even before this work.
 
 But Led Zeppelin IV doesn't just make it louder.
 
-By fusing blues, folk, Celtic music, a mythical worldview, outstanding performance techniques, and the most advanced recording technology of the time, they elevated "heaviness" to a form of artistic expression.
+By fusing blues, folk, Celtic music, a mythical worldview, outstanding performance techniques, and cutting-edge recording technology at the time, he elevated "heaviness" to a form of artistic expression.
 
 Today, many of the sound images that come to mind when hearing the words ""rock-like guitar sound'' originate from this album.
 
@@ -962,7 +962,7 @@ Neither the band name nor the title of the work is written on the jacket, and on
 
 This was also a reaction to the previous film, Led Zeppelin III, which received harsh reviews from some critics.
 
-Jimmy Page deliberately excluded titles and descriptions because he wanted people to evaluate the work itself.
+Jimmy Page intentionally excluded titles and descriptions because he wanted people to evaluate the work itself.
 
 As a result, the album became known by several names, including "Led Zeppelin IV," "Four Symbols," and "Untitled."
 
@@ -1008,14 +1008,14 @@ D --> E
 
 ---
 
-## The myth of "Stairway to Heaven"
+## 『Stairway to Heaven』という神話
 
 Needless to say, the biggest symbol of this work is ""Stairway to Heaven.''
 
 This song is about 8 minutes long,
 
 * Quiet acoustic intro
-* Dramatic development in the middle
+* 中盤のドラマティックな展開
 * Amazing guitar solo
 * Exhilaration towards climax
 
@@ -1099,7 +1099,7 @@ On the other hand, this ranking ranks works that have revolutionized recording t
 
 However, the profound sound, beautiful dynamics, outstanding performances, and mythical worldview that pervades the entire album remain an ideal form of rock even now, more than half a century later.
 
-> "'Led Zeppelin IV" elevated hard rock to the realm of art and laid the foundation for the aesthetics and sound design of heavy metal. It is ranked 45th in this ranking as a historical work that sublimated "being heavy' into an expressionistic idea."
+> "'Led Zeppelin IV" elevated hard rock to the realm of art and laid the foundation for the aesthetics and sound design of heavy metal. It is ranked 45th in this ranking as a historical work that sublimated "being heavy' into a form of expression."
 
 ---
 
@@ -1271,7 +1271,7 @@ Never Mind the Bollocks' influence extends far beyond punk.
 
 Representative artists who have been influenced directly or indirectly include:
 
-* The Clash
+*The Clash
 *Black Flag
 * Minor Threat
 *Sonic Youth
@@ -1303,7 +1303,7 @@ This idea continues to be passed down to today's indie culture and self-produced
 
 Never Mind the Bollocks, Here's the Sex Pistols is a landmark work that elevated punk rock into a global cultural movement and put the DIY spirit at the center of musical history.
 
-Because it is not a work that changes recording technology or composition theory itself, it is ranked 46th in this ranking.
+Because this work did not change recording technology or composition theory itself, it was ranked 46th in this ranking.
 
 However, his influence in spreading the idea that ""music is not just for a few talented people'' around the world is immeasurable.
 
@@ -1339,7 +1339,7 @@ What was there was a quiet anxiety about a society where humanity is being weake
 
 With 1995's The Bends, Radiohead established a presence distinct from Britpop.
 
-But members did not want to repeat that success.
+しかしメンバーは、その成功を繰り返すことを望まなかった。
 
 Thom Yorke, in particular, felt uncomfortable with the rapidly commercializing music industry and consumer society itself.
 
@@ -1353,7 +1353,7 @@ That challenge culminated in ""OK Computer''.
 
 This work was recorded mainly at St Catherine's Court, a historic building in England.
 
-The producer was Nigel Godrich, who would continue to work with the band for many years.
+プロデューサーは、以後長年にわたりバンドと協働することになるNigel Godrich。
 
 He placed emphasis on natural sound and spatiality that could not be obtained in a conventional commercial studio, and utilized the mansion itself as a gigantic recording space.
 
@@ -1378,7 +1378,7 @@ The work includes
 * Krautrock
 * Jazz
 * contemporary music
-* electronic music
+* 電子音楽
 * Movie music
 
 Elements such as these are integrated.
@@ -1390,7 +1390,7 @@ flowchart TD
 A[alternative rock]
 B[ambient]
 C[electronic music]
-D[contemporary music]
+D[modern music]
 E[OK Computer]
 F[21st century rock]
 
@@ -1414,7 +1414,7 @@ The structure, which moves from intense guitar rock to a quiet chorus and then t
 
 On the other hand, songs such as ""Karma Police," ""No Surprises," and ""Exit Music (For a Film)'' quietly depict social anxiety and personal loneliness within delicate melodies.
 
-A common thread throughout the album is the question, "Can humans still be happy even with advances in technology?"
+A common thread throughout the album is the question, "Even with technological advances, can humans still be happy?"
 
 In 1997, there were no smartphones or SNS yet.
 
@@ -1422,11 +1422,11 @@ Nevertheless, the world depicted in this work was a surprisingly accurate predic
 
 ---
 
-## "Uncomfortable feeling" rather than admiration for technology
+## テクノロジーへの賛美ではなく「違和感」
 
 ""OK Computer'' differs from other future-oriented works in that it does not deny technology itself.
 
-What the album depicts is not a simple story of "computers are evil."
+What the album depicts is not a simple story of ""computers are evil.''
 
 Rather, the problem is that humans, in their pursuit of efficiency and rationality, end up adapting themselves to the logic of machines.
 
@@ -1466,7 +1466,7 @@ A --> B --> C --> D --> E
 
 </div>
 
-This idea of ​​""drawing a single story with the entire album'' is extremely important in that it inherits the concept albums of the 1970s, but updates them with modern themes.
+This idea of ​​""drawing one story with the entire album'' is extremely important in that it inherits the concept albums of the 1970s, but updates them with modern themes.
 
 ---
 
@@ -1549,7 +1549,7 @@ It was a historical turning point, symbolizing the trend in which the concept of
 
 ## Crisis after the success of "OK Computer"
 
-While OK Computer was a worldwide success, the tour took a toll on the members.
+While OK Computer was a worldwide success, the tour took a toll on the band members.
 
 In particular, Thom Yorke's huge success made him uncomfortable with continuing to play the role of ""rock star''.
 
@@ -1608,7 +1608,7 @@ flowchart TD
 A[rock]
 B[IDM]
 C[ambient]
-D[contemporary music]
+D[modern music]
 E[jazz]
 F[Kid A]
 
@@ -1632,7 +1632,7 @@ Vocoders and digital processing treat the human voice as a single tone rather th
 
 Although this technique was not uncommon in electronic music, it was extremely revolutionary that it was fully adopted by a world-famous rock band.
 
-The conventional wisdom that "lyrics are the main focus" in rock music is quietly dismantled by this work.
+The conventional wisdom that lyrics are the center of rock music is quietly dismantled by this work.
 
 ---
 
@@ -1655,7 +1655,7 @@ This idea was innovative in that it drew on influences from ambient and contempo
 
 ""Everything in Its Right Place'' is a symbol of this.
 
-The piano repetition, processed vocals, and compositions that pile up subtle changes presented a new musical language that could not be explained by traditional rock terms.
+The piano's repetition, processed vocals, and compositions made up of subtle changes presented a new musical language that could not be explained in traditional rock terms.
 
 ---
 
@@ -1696,7 +1696,7 @@ Some criticized it for ""throwing away rock," while others praised it as ""the f
 
 However, evaluations change significantly over time.
 
-In the late 2000s, many music media outlets positioned this work as one of the representative albums of the 21st century, and its innovativeness was widely recognized.
+In the late 2000s, many music media began to position this work as one of the representative albums of the 21st century, and its innovativeness was widely recognized.
 
 Many critics now consider it to be as important as, or even more important than, ""OK Computer.''
 
@@ -1706,7 +1706,7 @@ Many critics now consider it to be as important as, or even more important than,
 
 The influence that ""Kid A'' left is not limited to rock music.
 
-Representative artists who inherited this idea include:
+Representative artists who inherited this philosophy include:
 
 * James Blake
 *Bon Iver
@@ -1717,7 +1717,7 @@ Representative artists who inherited this idea include:
 
 Examples include.
 
-Furthermore, the idea of ​​""genre-crossing production'' became increasingly common in indie rock, electronica, post-rock, experimental hip-hop, and even contemporary pop.
+Furthermore, the idea of ​​""cross-genre production'' became increasingly common in indie rock, electronica, post-rock, experimental hip-hop, and even contemporary pop.
 
 ---
 
@@ -1741,11 +1741,11 @@ Kid A is a rare example of a rock band denying their own success and creating a 
 
 Its influence extended to 21st century indie rock, electronic music, and pop music, greatly shaking up the concept of genre.
 
-On the other hand, this ranking places ""OK Computer" slightly higher as a ""work that defined the zeitgeist," so it was ranked 48th.
+On the other hand, in this ranking, ""OK Computer" is ranked slightly higher as ""a work that defined the zeitgeist," so this work was ranked 48th.
 
 But if you're just evaluating musical innovation, Kid A is without a doubt one of the most important albums of the 21st century.
 
-> "'Kid A' presented the musical language of the 21st century by dismantling the rock genre and fusing electronic music, contemporary music, and ambient music. We rank it at number 48 in this ranking as a historical work that became the starting point of the genre-less era."
+> "'Kid A' presented the musical language of the 21st century by dismantling the rock genre and fusing electronic music, contemporary music, and ambient music. We rank it 48th in this ranking as a historical work that became the starting point of the genre-less era."
 
 ---
 
@@ -1760,7 +1760,7 @@ Released on October 8, 1980, Remain in Light was one of the biggest turning poin
 
 This album boldly incorporates African music, funk, minimalism, electronic music, and studio collage while maintaining the rock band format.
 
-As a result, the stereotype that ""rock is music centered around the guitar'' has been greatly shaken.
+As a result, the fixed idea that ""rock is music centered around the guitar'' was greatly shaken.
 
 It"s hard to find a field that hasn"t been influenced by this album, including later alternative rock, post-rock, dance music, and even the 21st century indie scene.
 
@@ -1798,13 +1798,13 @@ In the recording,
 
 etc. were actively used.
 
-In particular, the method of layering short phrases played by each person to create a gigantic rhythm was an idea that would later be applied to sampling culture and loop-based electronic music.
+In particular, the method of layering short phrases played by each person to create a gigantic rhythm was an idea that would later be found in sampling culture and loop-based electronic music.
 
 ---
 
 ## "Horizontal groove" learned from African music
 
-Rock at the time was ""vertical'' music that moved forward based on chord progressions and melodies.
+Rock music at the time was ""vertical'' music that moved forward based on chord progressions and melodies.
 
 Remain in Light, on the other hand, was influenced by West African music, particularly Afrobeat developed by Fela Kuti, and introduced the idea of ​​creating time through the accumulation of repeated rhythms.
 
@@ -1847,9 +1847,9 @@ It was a groundbreaking work that weaved post-1980s themes of urban life, consum
 
 ---
 
-## Turned the studio itself into a "composition device"
+## Turned the studio itself into a "composing device"
 
-""Remain in Light" takes a major change from the traditional idea of ​​""writing a song and recording it."
+""Remain in Light" represents a major change from the traditional idea of ​​""writing a song and recording it."
 
 First, the members hold a long jam session and record snippets of it.
 
@@ -1935,7 +1935,7 @@ This work is an indispensable turning point when discussing rock, electronic mus
 
 Although its innovation is extremely great, this ranking ranks works that more directly institutionalized entire genres and works that transformed the music industry itself, so it was ranked 49th.
 
-However, this work is one of the most important works in the history of modern music in the sense that it opened up rock to ""world music'' and foreshadowed the cross-genre music production of the 21st century.
+However, this work is one of the most important works in the history of modern music in the sense that it opened rock to ""world music'' and foreshadowed the cross-genre music production of the 21st century.
 
 > "'Remain in Light' fuses rock with African music, funk, minimalism, and studio collage, redefining the concept of groove and recording. It is ranked 49th in this ranking as a historical work that laid the foundation for modern music that transcends genres."
 
@@ -1951,9 +1951,9 @@ Released on February 8, 1977, Marquee Moon blazed a trail away from the intensit
 
 1977 is known as the year that Never Mind the Bollocks, Here's the Sex Pistols and The Clash had a powerful impact on society.
 
-However, ""Marquee Moon,'' released shortly before that, offered a completely different future, sublimating the energy of punk into a technical guitar ensemble and poetic expression.
+However, ""Marquee Moon,'' released shortly before that, offered a completely different future, sublimating the energy of punk into technical guitar ensembles and poetic expression.
 
-If the Sex Pistols proved that anyone could play rock music, Television showed that even simple ensembles can create intelligent and complex music.
+If the Sex Pistols proved that anyone could play rock music, Television showed that even a simple ensemble could create intelligent and complex music.
 
 Its influence quietly but deeply permeated later post-punk, indie rock, and alternative rock.
 
@@ -1961,9 +1961,9 @@ Its influence quietly but deeply permeated later post-punk, indie rock, and alte
 
 ## Another face of New York punk
 
-Television was a mainstay of the New York punk scene based at CBGB in the mid-1970s.
+Televisionは、1970年代半ばのCBGBを拠点としたニューヨーク・パンク・シーンの中心的存在だった。
 
-At the same stage,
+同じステージには、
 
 * Ramones
 *Patti Smith Group
@@ -2008,7 +2008,7 @@ This recording aesthetic would have a major influence on guitar bands from the 1
 
 <div class="mermaid">
 flowchart TD
-A[punk]
+A[パンク]
 B[jazz]
 C[garage lock]
 D[art rock]
@@ -2031,13 +2031,13 @@ During the heyday of punk, placing such a long song at the center of an album wa
 
 The song begins with a simple repeating riff, and the two guitars gradually build up the melody, reaching an ecstatic feeling of exhilaration towards the end.
 
-This structure gives a sense of the unfolding form of classical music and the improvisational nature of jazz, while still retaining the driving force characteristic of rock.
+この構成は、クラシックの展開形式やジャズの即興性を感じさせる一方、ロック特有の推進力も失っていない。
 
 The techniques of ""repetition and gradual development'' found in later post-rock and math rock learned a lot from this work, both directly and indirectly.
 
 ---
 
-# 5th Part 10 (50th place: Marquee Moon, second half)
+# 第5回 Part10（50位：Marquee Moon・後半）
 
 ## Bridge from punk to post-punk
 
@@ -2111,7 +2111,7 @@ E --> F
 
 ""Marquee Moon'' is a highly original work that combines the free spirit of punk, the intelligence of art rock, and the improvisation of jazz.
 
-After this work, in rock music, the ""guitar'' came to be treated as not just an instrument for accompaniment or solos, but as the center of sound design in which multiple melodies intertwine on an equal basis.
+After this work, the ""guitar'' in rock music came to be treated as not just an instrument for accompaniment or solos, but as the center of sound design in which multiple melodies are equally intertwined.
 
 In addition, the method of creating a sense of immersion through repetition and gradual development, without being bound by the length or structure of the song, has certainly been passed down to later post-rock and experimental indie rock.
 
@@ -2172,9 +2172,9 @@ Black music evolved continuously into soul, funk, jazz, neo-soul, and contempora
 
 What was important in this process was that ""individual expression" became ""social records," which further led to the ""deconstruction of genres.''
 
-However, this change is not over yet.
+But this change is far from over.
 
-The innovations of jazz-funk and black music in the 1970s eventually transformed urban space itself into music, creating a new cultural infrastructure called clubs.
+The innovations of jazz-funk and black music in the 1970s eventually transformed the urban space itself into music, creating a new cultural infrastructure called clubs.
 
 There, music becomes a "system" rather than a "work," and rhythm becomes a "technique" rather than an "expression."
 
@@ -2186,7 +2186,7 @@ In the next installment, Part 7, we will continue this trend and explore how ele
 
 ### **Institutionalization of electronic music and the birth of post-clubs**
 
-The repetition of jazz-funk, the collapse of dub, and the birth of disco.
+ジャズ・ファンクの反復、ダブの崩壊、ディスコの誕生。
 
 Eventually, they were reconstructed in the space of a "club," and music changed from an individual's expression to the infrastructure that drives the city.
 

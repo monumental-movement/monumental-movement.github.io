@@ -17,7 +17,7 @@ title: '[Column] Progressive rock and anime: An epic intersecting story'
 
 Text: mmr｜Theme: Progressive rock that has a high affinity with anime
 
-When we talk about the relationship between anime and music, genres that are directly connected come to mind, such as J-Pop, idol songs, Eurobeat, and electronica. However, if you dig a little deeper, you will find that it has a surprisingly strong affinity with **progressive rock**. On the surface, it may seem distant from ""anime songs,'' but its long structure, difficult rhythm, and concept album-like storytelling actually resonate in many ways with the characteristics of the anime medium.
+When we talk about the relationship between anime and music, genres that are directly connected come to mind, such as J-Pop, idol songs, Eurobeat, and electronica. However, if you dig a little deeper, you'll find that it has a surprisingly strong affinity with **progressive rock**. On the surface, it may seem distant from ""anime songs,'' but its long structure, difficult rhythm, and concept album-like storytelling actually resonate in many ways with the characteristics of the anime medium.
 
 ---
 
@@ -41,7 +41,7 @@ color: #fff;
 <div class="mermaid">
 
 flowchart TD
-    P1970["1970s: The Golden Age of Progressive Rock (Pink Floyd, Yes)\nThe rise of space opera in Japanese anime (Yamato, Gundam)"]
+    P1970["1970s: The golden age of progressive rock (Pink Floyd, Yes)\nThe rise of space opera in Japanese anime (Yamato, Gundam)"]
     P1980["1980s: Progressive rock decline and divergence (Neo Prog, Prog Metal)\nAnime deepens with OVA culture and SF (Crusher Joe, AKIRA)"]
     P1990["1990s: Under the influence of post-progressive rock (Porcupine Tree, Dream Theater)\nThe rise of philosophical anime (Neon Genesis Evangelion)"]
     P2000["2000s: Post-rock/prog metal fusion\nAnime: Ghost in the Shell S.A.C., Ergo Proxy"]
@@ -104,7 +104,7 @@ The affinity between anime and progressive rock is not just a combination of mus
 ### ■ Representative progressive rock albums by generation and recommended tracks for anime fans
 
 | Year | Album / Recommended Tracks | Commentary |
-| ----- | -------------------------------------- | ------------------- | --------------------------- |
+| ----- | -------------------------------------- | ------------------- | ------------------------------ |
 | 1970s | [**Pink Floyd** "The Dark Side of the Moon"](https://amzn.to/4mv7iJl) / "Time" | Songs with themes of space and existence resonate with the "Space Battleship Yamato" generation |
 | 1970s | [**Yes** "Close to the Edge"](https://amzn.to/46ACyRk) / "And You and I" | The long composition is close to the epic development of Gundam |
 | 1980s | [**Marillion** "Misplaced Childhood"](https://amzn.to/46HkXHA) / "Kayleigh" | The narrative album structure is highly compatible with OVA culture |

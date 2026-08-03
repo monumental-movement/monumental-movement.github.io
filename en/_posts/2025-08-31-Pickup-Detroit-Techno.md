@@ -81,7 +81,7 @@ Recommended points: A masterpiece that condenses the future-oriented and cool so
 ### Model 500 – Flow
 <a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.webp"></a>
 
-Features: Minimal track structure with simple synth lines and rhythm. It is characterized by its spatial, floating synth work and cool, mechanical rhythm.
+Features: Minimal track structure with simple synth lines and rhythm. It is characterized by its spatial and floating synth work and cool, mechanical rhythm.
 
 Recommended point: A song that lets you experience the origins of Detroit techno. By adding it early in a DJ set, you can create a ""Detroit-like cosmic feeling'' on the floor. Easy to listen to even for beginners, perfect for understanding the worldview of the Model 500.
 
@@ -109,9 +109,9 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-Features: Dramatic sound image that combines ambient, breakbeat, future jazz, etc. with a minimalist base.
+Features: Dramatic sound image that combines ambient, breakbeat, future jazz, etc. based on minimalism.
 
-Recommended points: An album with depth and sophistication that takes the listener on an emotional journey. This is a work that both DJs and listeners will want to listen to carefully.
+Recommended point: An album with depth and sophistication that takes the listener on an emotional journey. This is a work that both DJs and listeners will want to listen to carefully.
 
 #### Tracklist
 ```md
@@ -141,7 +141,7 @@ Recommended points: An album with depth and sophistication that takes the listen
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
-Characteristics: Balancing danceable grooves and abstract experimentation. Track examples: "Tangible–Theory Proliferation (Ultradyne Remix)" and "Fantasy Era."
+Characteristics: Balances danceable grooves and abstract experimentation. Track examples: "Tangible–Theory Proliferation (Ultradyne Remix)" and "Fantasy Era."
 
 Recommended points: Perfect for listeners looking for an exploratory techno experience. Whether it"s on the floor or in headphones, you"ll be drawn to its experimental sound.
 
@@ -171,7 +171,7 @@ B2. Ultradyne–War Drum - Live
 
 Features: Dark, melodious, energetic and danceable rhythm.
 
-Recommended points: Modern and highly unique sound. This is a song that will dramatically liven up the floor if you play it in a late night club or peak time set.
+Recommended points: Modern and highly unique sound. This is a song that will dramatically liven up the floor if you play it in a late-night club or peak-time set.
 
 #### Tracklist
 ```md
@@ -198,9 +198,9 @@ AA2. Soundtrack
 ### Jeff Mills – Very EP
 <a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.webp"></a>
 
-Features: A minimalist and tense piece that is perfect for club warm-ups.
+Features: A minimalist and tense work that is perfect for club warm-ups.
 
-Recommended points: The simple yet gradually accumulating sound image tightens the floor, allowing you to create your own unique world view from the beginning of the set.
+Recommended points: Although simple, the sound image that gradually builds up tightens the floor, allowing you to create a unique world view from the beginning of the set.
 
 #### Tracklist
 ```md
@@ -253,7 +253,7 @@ B2. Black Avenger
 ### Jeff Mills – Skin Deep EP
 <a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.webp"></a>
 
-Features: The track "Call Of The Wild" quotes percussion from Michael Jackson's "Off The Wall".
+Features: The song "Call Of The Wild" quotes percussion from Michael Jackson's "Off The Wall".
 
 Recommended points: The hard feel of Detroit techno is combined with the groove of black music, giving the floor a unique driving force.
 

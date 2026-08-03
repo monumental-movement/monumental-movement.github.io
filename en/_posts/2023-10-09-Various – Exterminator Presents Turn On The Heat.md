@@ -13,7 +13,7 @@ title: Various – Exterminator Presents Turn On The Heat
 
 
 "Exterminator Presents Turn On The Heat" is
-A very classic Fatis Burrell one-riddim compilation album released by the UK label "Sir Coxsone" in 1989.
+A very classic Fatis Burrell one riddim compilation album released by the UK label "Sir Coxsone" in 1989.
 is.
 
 

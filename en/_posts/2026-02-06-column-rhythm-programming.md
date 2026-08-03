@@ -57,7 +57,7 @@ Accent design does not require all notes to be played at the same intensity. By 
 * Strong beat fixed: 1st and 3rd beats are always at maximum intensity
 *Strong beat shift: 1st beat maximum, 3rd beat suppressed
 
-In the latter, the second half feels lighter and the loop gives the impression of rolling forward.
+In the latter case, the second half feels lighter, giving the impression that the loop rolls forward.
 
 > The 16 equal divisions are not a final design, but a draft for the design.
 
@@ -105,7 +105,7 @@ The end of the loop is signaled by removing the hi-hat or adding a ghost note in
 
 ### Case: 4-bar fill design
 
-Adding a snare roll only in the fourth measure creates a structural break.
+By adding a snare roll only in the fourth measure, a structural break is created.
 
 > A good change is one that moves time forward without being conscious of it.
 
@@ -117,7 +117,7 @@ Even if the arrangement is the same, if the timbre changes, the perception of rh
 
 ### Case: Mix of short and long sounds
 
-By combining a short kick and a long sub-bass, the beat and lingering sound are separated and depth is created.
+By combining a short kick and a long sub-bass, the beat and resonance are separated and depth is created.
 
 ### Case: Division of roles by frequency band
 
@@ -191,7 +191,7 @@ By placing strong sounds outside the period, the sense of time is stretched.
 
 ### Techno
 
-Immersive design with repeatability and minute changes. While maintaining the homogeneity of the 16 steps, time is varied with tones and accents.
+Immersive design with repeatability and minute changes. While maintaining the homogeneity of the 16 steps, the time is varied with tones and accents.
 
 ### Hip Hop
 
@@ -207,7 +207,7 @@ Structural complexity and asymmetric design. Discrepancies in the period and irr
 
 ## Chapter 11: DAW Interface and Thinking Style
 
-The design philosophy of rhythm programming is greatly influenced by the interface used. MPC, TR-type step sequencers, and piano rolls each assume a different view of time.
+The design philosophy of rhythm programming is largely influenced by the interface used. MPC, TR-type step sequencers, and piano rolls each assume a different view of time.
 
 ### MPC Thinking: Reconnecting Pads and Body
 
@@ -217,7 +217,7 @@ In this way of thinking, the grid is subject to post-processing, and the rhythm 
 
 ### TR thinking: Visualizing steps and structures
 
-TR sequencers explicitly divide time into equal steps. Since you can see at a glance where there is sound and where there is blank space, placement and omission are the main criteria for judgment.
+TR sequencers explicitly divide time into equal steps. Since you can see at a glance where there is sound and where there is blank space, placement and omission are central to judgment.
 
 Here, structure takes precedence over playability, and rhythms are constructed logically.
 
@@ -248,7 +248,7 @@ Even with the same 16 steps, if the starting point of thought is different, the 
 * 1960s: Introduction of mechanical time
 * 1970s: Establishment of repetitive structure
 * 1980s: Popularization of 16-step design
-* 1990s: Misalignment and human feeling
+* 1990s: Misalignment and human feel
 * 2000s: Software abstraction
 * 2010s and beyond: Design as aesthetics
 
@@ -294,7 +294,7 @@ He is the type who constructs rhythms based on his physical sensations, and the 
 
 ### Structural Designer
 
-View time as a block and construct a rhythm through placement and omission. Highly compatible with TR-type step thinking.
+View time as blocks and construct rhythms through placement and omission. Highly compatible with TR-type step thinking.
 
 ### Abstract Designer
 
@@ -310,9 +310,9 @@ One type is not better than the other. The important thing is to be aware of you
 
 Rhythm programming is not a matter of arranging sounds. This is the act of designing an experience based on how the sense of hearing perceives time.
 
-Even as technology evolves, this essence remains the same. Rhythm is not the sound that is being played, but the structure itself, including the time when it is not playing.
+Even as technology evolves, this essence remains the same. Rhythm is not the sound that is being played, but rather the structure itself, including the time when it is not playing.
 
-> Rhythm programming is a way of thinking that designs time when you can't hear.
+> Rhythm programming is the idea of ​​designing time when you can't hear.
 
 ---
 

@@ -16,7 +16,7 @@ title: Battles – Gloss Drop
 
 Battles is an American experimental rock band formed in 2002.
 
-"Gloss Drop" is Battles' second album released in 2011, featuring guests Gary Numan, Matias Aguayo, Kaz Makino of Blonde Redhead, and EYyo Yamazuka of Boredoms.
+"Gloss Drop" is Battles' second album released in 2011, featuring guests Gary Numan, Matias Aguayo, Kaz Makino of Blonde Redhead, and Ai Yamazuka of Boredoms.
 
 #### Tracklist
 ```md

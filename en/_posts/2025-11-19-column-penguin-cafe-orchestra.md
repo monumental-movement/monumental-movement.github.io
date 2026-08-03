@@ -83,7 +83,7 @@ Led by Simon Jeffes, former classical musicians, folk musicians, and experimenta
 ### ● The core of their ideology
 
 Jeffes described his music as "spontaneous structures."
-It is not the rules of Western music or the traditions of folk music, but an **organic process** in which an accumulation of sounds takes shape by chance.
+It is not the rules of Western music or the traditions of folk music, but an organic process in which a collection of sounds takes shape by chance.
 This "spontaneousness" is the reason why PCO's sound, while sometimes magical, has a warm, everyday feel to it.
 
 ---
@@ -95,13 +95,13 @@ This chapter analyzes the internal structure of PCO's iconic songs.
 ### 3-1. **Music For a Found Harmonium (1984)**
 
 PCO's signature song.
-An iconic anecdote is that he composed music while playing on a broken harmonium he found on the streets of Kyoto.
+An iconic anecdote is that he played and composed music on a broken harmonium he found on the streets of Kyoto.
 
 **Structural features**
 
 * The main melody is a simple scale movement
-* Contains microtonal shift in the middle part
-* Dispersed chords on the guitar are repeated around the sustained note of the harmonium.
+* 中間部で微分音的なズレを含む
+* Dispersed chords on the guitar are repeated around the sustained notes of the harmonium.
 * A fusion of folk music dynamics and classical precision.
 
 Even today, this song is frequently used in movies, commercials, and dance works, and has the "light, celebratory feel" that symbolizes PCO.
@@ -124,7 +124,7 @@ It's a quiet yet dramatic song that feels like the expansion and contraction of 
 
 ---
 
-### 3-3. **Telephone and Rubber Band (1981)**
+### 3-3. **Telephone and Rubber Band（1981）**
 
 A strange piece of music in which a two-tone telephone suddenly rings in a classical ensemble.
 
@@ -134,7 +134,7 @@ A strange piece of music in which a two-tone telephone suddenly rings in a class
 * Electronic sound that exists as a "foreign object" above the ensemble
 * Humorous but postmodern at the same time
 
-In terms of Minimal + Found sound, this work intersects with Brian Eno's lineage.
+In terms of minimal + found sound, this work intersects with Brian Eno's lineage.
 
 ---
 
@@ -147,12 +147,12 @@ The main albums are explained below.
 
 Debut album released on Virgin Records' sub-label Obscure.
 Among the Obscure works produced by Brian Eno, this is the most "different" and "bright".
-Folklore and repetitive structures are fused, and the later style is almost complete.
+A fusion of folklore and repetitive structure almost completes the later style.
 
 ### ● *Penguin Cafe Orchestra* (1981)
 
 Contains the famous song "Telephone and Rubber Band".
-It has a strong folk music approach and has acquired a unique "dance quality".
+He has a strong folk music approach and has acquired a unique "dance quality".
 
 ### ● *Broadcasting from Home* (1984)
 
@@ -179,13 +179,13 @@ PCO's music was received in a variety of ways in many countries, despite being i
 ### ● Affinity with cafe/lounge culture
 
 It was reevaluated during the "cafe music" boom in the late 1990s.
-The ""ambient music with a statement'' that was light and easy to listen to, yet did not become part of the background, attracted attention.
+The "ambient music with a statement" that was light and easy to listen to, yet did not become part of the background, attracted attention.
 
 ### ● Heavy media usage
 
 * TV program BGM
 * CM
-* Movies (especially works by European directors)
+* 映画（特にヨーロッパ系監督作品）
 * Ballet/dance company sound source
 
 PCO's music is emotional but not descriptive, so it is valued as ""sound that allows images to breathe''.
@@ -268,7 +268,7 @@ flowchart TD
   A --> A2[Viola: auxiliary harmony]
 
   B[Midrange: Main Repetition] --> B1[Piano: Arpeggio repeat]
-  B --> B2[Guitar: Auxiliary rhythm]
+  B --> B2[Guitar：補助リズム]
 
   C[Low range: Bass Layer] --> C1[Cello: bottom retention]
   C --> C2[Bass: Foundation]
@@ -290,12 +290,12 @@ What supports this longevity is――
 * has no nationality
 * Not dependent on era
 * Don't force emotions
-* but has a deep temperature
+* しかし深い温度を持つ
 
 It is a fusion without contradiction.
 
 PCO's sound can either ""melt into the background" or ""take center stage."
-The song listens to the listener's state of mind and sounds completely different each time.
+リスナーの心の状態に寄り添い、その都度まったく違った曲に聴こえる。
 
 It may be that the ""imaginary cafe'' that Simon Jeffes saw in his fever is still quietly operating somewhere around the world.
 
@@ -304,7 +304,7 @@ It may be that the ""imaginary cafe'' that Simon Jeffes saw in his fever is stil
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Em1aIz3ONZc?si=HkYqZuq-Uvy8qJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

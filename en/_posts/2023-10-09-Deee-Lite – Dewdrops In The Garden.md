@@ -14,7 +14,7 @@ title: Deee-Lite – Dewdrops In The Garden
 
 Dewdrops in the Garden is the third and final studio album by American dance music band Deee-Lite, released in August 1994 by Elektra Records.
 
-The album moved away from the political lyrical content of its predecessor, moving towards themes of dance and intimacy, with an emphasis on leaning towards psychedelic music.
+The album moved away from the political lyrical content of their previous albums, moving towards themes of dance and intimacy, with an emphasis on leaning towards psychedelic music.
 
 #### Tracklist
 ```md

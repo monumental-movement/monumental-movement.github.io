@@ -18,7 +18,7 @@ title: '[Column] Decline and revival of radio culture as interpreted from the pe
 
 ## A device called radio that existed before music
 
-Text: mmr｜Theme: The media of voice that transforms through music - About the cultural history from radio to podcasts
+Text: mmr｜Theme: The media of voice that transforms through music - On the cultural history from radio to podcasts
 
 
 Radio is often talked about as a music medium, but its essence when it was first invented was the simultaneous sharing of audio.
@@ -82,7 +82,7 @@ DJs were invisible editors in the formation of music culture.
 Jazz, rock, soul, hip hop.
 These genres originated as local cultures and were spread by radio.
 
-Broadcast slots fixate genres, and music becomes standardized according to listeners' expectations.
+Broadcast slots are set in fixed genres, and music becomes standardized according to listeners' expectations.
 Song length, intro, chorus placement.
 The music format itself was optimized for broadcast time.
 
@@ -110,7 +110,7 @@ Caught between television and the Internet, radio will no longer play a leading 
 But it never completely disappeared.
 
 In the car, while working, late at night.
-Radio will survive as ""voice that does not require concentration.''
+Radio will survive as a ""voice that does not require concentration.''
 
 During this period, the music becomes background music and the narrative is simplified.
 Although its influence has declined, its pervasiveness in everyday life has remained.
@@ -135,7 +135,7 @@ Radio no longer needs to be a "broadcast".
 ## Reinventing the podcast
 
 Podcasts were radio without a station.
-Created by individuals, spoken by individuals, and reaching individuals.
+Produced by individuals, spoken by individuals, and reaching individuals.
 
 Unlike music distribution, podcasts focus on storytelling.
 Music becomes an object to be analyzed, remembered, and contextualized.
@@ -160,7 +160,7 @@ This is a more personal, long-form reimagining of DJ culture from the golden age
 
 
 The traditional radio economy relied on advertising.
-The structure in which value was determined by viewer ratings and number of viewers was optimized for large-scale broadcasting.
+The structure in which value was determined by viewer ratings and reach was optimized for large-scale broadcasting.
 
 Niche music cultures and specialized narratives are difficult to establish under this model.
 

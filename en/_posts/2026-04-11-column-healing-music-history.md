@@ -19,7 +19,7 @@ title: '[Column] Science of Healing and Music: History and Present of Healing So
 
 Text: mmr｜Theme: Unraveling the influence of music on the mind and body from history and science, and approaching the essence of healing
 
-In our daily lives, we are unconsciously influenced by sounds. The chirping of birds in the morning, the buzz of a cafe, the quiet melody of a piano. They are not just a background, they exist as the ""environment itself'' that directly affects emotional and physical states.
+In our daily lives, we are unconsciously influenced by sounds. The chirping of birds in the morning, the buzz of a cafe, the quiet melody of a piano. They are not just a background, but exist as the ""environment itself'' that directly affects emotional and physical states.
 
 The connection between music and ""healing'' is not just a subjective feeling. Years of research have revealed that it is closely related to physiological indicators such as brain waves, heart rate, and autonomic nerves. In particular, certain rhythms and frequencies contribute to reducing stress and improving concentration.
 
@@ -54,7 +54,7 @@ In medieval Europe, monophonic religious music such as Gregorian chant was used 
 
 On the other hand, in the East, musical cultures linked to nature and cosmology are developing, such as Japanese gagaku, Indian ragas, and Chinese guqin. These have functioned not just as entertainment, but as a means of spiritual training and meditation.
 
-In the 20th century, the field of music therapy was established, and it began to be applied to treatments such as the treatment of psychological trauma caused by war. In this trend, the role of music expanded from ""art" to ""function."
+In the 20th century, the field of music therapy was established and began to be applied to treatments such as the treatment of psychological trauma caused by war. In this trend, the role of music expanded from ""art" to ""function."
 
 > Music has existed since ancient times as a technology that works on the inner world of humans.
 
@@ -64,7 +64,7 @@ In the 20th century, the field of music therapy was established, and it began to
 
 The reason why music brings healing can be explained from a neuroscience perspective.
 
-The human brain responds very sensitively to external sound stimuli. In particular, rhythm and frequency have the property of synchronizing with brain waves. This is called "entrainment".
+The human brain responds very sensitively to external sound stimuli. In particular, rhythm and frequency have the property of being synchronized with brain waves. This is called "entrainment".
 
 The main types of brain waves are:
 
@@ -112,7 +112,7 @@ With the spread of digital sound sources, anyone can now generate high-quality s
 
 Technologies such as binaural beats and isochronic tones are also attracting attention. These methods induce brain waves into a specific state by applying different frequencies to the left and right ears.
 
-Additionally, platforms like Spotify and YouTube offer a plethora of playlists for specific purposes, such as focus, sleep, and meditation.
+Furthermore, platforms such as Spotify and YouTube offer a large number of playlists for different purposes, such as focus, sleep, and meditation.
 
 Music generation using AI is also evolving, and attempts are being made to change the music in real time depending on the user's state.
 
@@ -167,7 +167,7 @@ B[Medium frequency 200-2000Hz] --> B1[Conversation/natural sounds]
 C[High frequency 2000Hz or more] --> C1[Stimulation/alertness]
 </div>
 
-Low frequencies tend to synchronize with heartbeat and breathing, promoting a state of relaxation. Healing music is often designed around this band.
+Low frequencies tend to synchronize with heartbeat and breathing, promoting a relaxed state. Healing music is often designed around this band.
 
 ---
 
@@ -206,9 +206,9 @@ The faster the tempo, the faster the heart rate will rise, while the slower the 
 
 ---
 
-## Relationship between tempo and period (understanding as a wave)
+## Relationship between tempo and period (understood as a wave)
 
-BPM is the number of beats per time and can also be expressed as a wave. The slower the tempo, the longer the cycle.
+BPM is the number of beats per hour and can also be expressed as a wave. The slower the tempo, the longer the cycle.
 
 A larger period means a slower rhythm (lower BPM). In healing music, states with long cycles are often used.
 
@@ -268,7 +268,7 @@ What is important is not only ""what to listen to" but also ""how to listen to i
 
 During quiet moments, listen to your own breathing and sound. Listen carefully to the sounds of your environment. That alone changes the way you see the world.
 
-Music is not just entertainment, it is also a tool for regulating the body and mind. These possibilities will continue to expand.
+Music is not just entertainment, but also a tool for regulating the body and mind. These possibilities will continue to expand.
 
 > Healing is not far away, it is already all around us.
 

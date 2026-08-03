@@ -14,7 +14,7 @@ title: Mayo Shono – Refrain M・A・Y・O – Refrain
 ---
 
 
-"Reflan" is Mayo Shono"s fourth original album, which includes her signature song "Flying to Istanbul" (composed by Kyohei Tsutsumi). City Pop was released in 1978 by Nippon Columbia"s sub-label Nippon Columbia.
+"Refran" is Mayo Shono"s fourth original album, which includes her signature song "Flying to Istanbul" (composed by Kyohei Tsutsumi). City Pop was released in 1978 by Nippon Columbia"s sub-label Nippon Columbia.
 
 #### Tracklist
 ```md

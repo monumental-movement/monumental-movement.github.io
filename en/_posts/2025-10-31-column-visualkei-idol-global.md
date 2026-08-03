@@ -17,7 +17,7 @@ title: '[Column] Why visual kei and idol culture cross borders: The internationa
 ## Prologue: When Japan's "peripheral music" moves the world
 
 
-Text: mmr｜Theme: Why does Japanese subculture music reach the world? - Understanding the history of the formation of overseas fandoms and cultural translation, with a focus on visual kei and idol culture
+Text: mmr | Theme: Why does Japanese subculture music reach the world? - Understanding the history of the formation and cultural translation of overseas fandoms, with a focus on visual kei and idol culture
 
 
 "X JAPAN" "BABYMETAL" "Perfume" "Dir en grey"
@@ -72,7 +72,7 @@ The reason behind BABYMETAL's success at overseas festivals is
 There was a structural strategy to embed the concept of ""Japanese idols'' within the global style of metal.
 
 The export of idol culture is also a fusion of religious ritual and technological community.
-Handshake events, broadcasts, and SNS live events digitize ceremonial "contact" and turn fans into "followers."
+Handshake events, broadcasts, and SNS live events digitize ceremonial "contact" and transform fans into "followers."
 This structure was translated overseas as ""participatory culture,'' and as a result, cultural boundaries were dissolved.
 
 ---
@@ -81,7 +81,7 @@ This structure was translated overseas as ""participatory culture,'' and as a re
 
 Since the 2000s, the emergence of YouTube and Nico Nico Douga has globalized Japanese subculture music.
 MV, live footage, fan subtitles, reaction videos.
-In particular, ""reaction culture" has encouraged the visualization of overseas fandoms and created a new act in which ""watching itself is participation"**.
+In particular, ""reaction culture" has encouraged the visualization of overseas fandoms and given rise to a new act in which ""watching itself is participation".
 
 It is also important that fan activities through doujinshi and cosplay expanded the musical experience.
 Crossover with anime and game culture
@@ -102,7 +102,7 @@ It also connects with the LGBTQ+ community and queer theory.
 
 For example, X JAPAN"s YOSHIKI and L"Arc~en~Ciel's HYDE wear feminine expressions even though they are male.
 This was sublimated as "direction."
-This ambiguity is the reason why he has been accepted around the world as an expressive figure in the post-gender era.
+This ambiguity is the reason why she has been accepted around the world as an expressive figure in the post-gender era.
 
 Furthermore, the way young female idols like BABYMETAL ""ceremonially subvert'' the male-dominated metal scene,
 It also made possible a feminist interpretation.
@@ -119,7 +119,7 @@ However, visual kei and idol culture survived with a "different grammar."
 
 If K-POP's strength lies in its precision as a "completed product,"
 Japanese subculture music is about "imperfection" and "closeness,"
-In other words, the value is **a lot of room for fan intervention**.
+In other words, the value is the amount of room for fan intervention.
 The reason why overseas fans are attracted to Japanese underground idols and indie visual kei is that
 This is because I sympathize with its "open and unfinished nature."
 
@@ -134,14 +134,14 @@ Today, visual kei and idols are no longer exclusive to "Japanese culture."
 Brazilian visual kei bands, French underground idol events, American doujin festivals...
 Around the world, we are evolving from "imitation" to "co-creation."
 
-The essence of subculture music lies in **building empathy through multi-layered translation**.
+The essence of subculture music lies in **building empathy through multilayered translation**.
 Expressions originating from Japan are reconfigured as mirrors of other cultures,
-A new sensibility is added to it. That cycle is
+そこに新たな感性が付与される。その循環こそが、  
 This is a new form of "music that transcends borders."
 
 ---
 
-## Chronology: Main topics of subculture music crossing borders
+## Chronology: Main topics of subculture music that crosses borders
 
 <div class="mermaid">
 

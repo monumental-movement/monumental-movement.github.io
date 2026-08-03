@@ -44,7 +44,7 @@ color: #fff;
 
 # # 1. The foundation of Ethiopian music: the pentatonic scale (kinet) and unique modal culture
 
-Ethiopia has had a multi-layered musical culture since ancient times, including Ethiopian Orthodox chants (Zara), the Azmari culture of local bards, and the urban music of the capital Addis Ababa.
+A multi-layered musical culture has existed in Ethiopia since ancient times, including the Ethiopian Orthodox chant (Zara), the Azmari culture of local minstrels, and the urban music of the capital, Addis Ababa.
 
 Particularly famous is Ethiopia's unique modal system called ""qenet.''
 There are four typical Kinets:
@@ -73,7 +73,7 @@ He then moved to the United States and became one of the first African students 
 * American Soul/R&B
 * Experience with various musical instruments such as vibraphone and conga
 
-These became the foundation for the creation of the unique genre that would later become known as ""Ethio-Jazz.''
+These became the foundation for the creation of the unique genre that later became ""Ethio-Jazz.''
 
 ---
 
@@ -93,7 +93,7 @@ Examples include.
 
 # # 4. Golden Age (1960–70s): Addis Ababa's urban culture and music industry
 
-In the 1960s and 1970s, urbanization and international exchange progressed in Ethiopia, and the music scene in Addis Ababa was revitalized, centered on clubs, hotels, and players from military bands.
+In the 1960s and 1970s, Ethiopia experienced urbanization and international exchange, and Addis Ababa's music scene was revitalized, centered on clubs, hotels, and players from military bands.
 
 **Main features:**
 
@@ -139,13 +139,13 @@ Military band recordings were reissued, and this triggered a worldwide re-evalua
 
 ---
 
-# # 7. 2000s: Breakthrough with the movie "Broken Flowers"
+# # 7. 2000s: Re-breakout with the movie "Broken Flowers"
 
-In 2005, as the music for the film **Broken Flowers** directed by Jim Jarmusch.
+In 2005, as the music for the film ""Broken Flowers'' directed by Jim Jarmusch.
 Many of Mulatu's songs were used, and it attracted a lot of attention.
 
-After this event, collaborations with artists from Europe and North America increased,
-Ethio-Jazz once again becomes recognized as an international music genre.
+After this event, collaborations with European and North American artists increased.
+Ethio-Jazz once again becomes recognized as an international musical genre.
 
 ---
 
@@ -205,7 +205,7 @@ flowchart TD
 
 ### ■ Mulatu Astatke
 
-Founder of Ethio-Jazz. His representative works were released in the late 1960s and 1970s.
+Founder of Ethio-Jazz. His representative works were released from the late 1960s to the 1970s.
 He is internationally recognized as a vibraphonist and composer/arranger, and in recent years has been involved in music research at Harvard University and other institutions.
 
 ### ■ Mahmoud Ahmed

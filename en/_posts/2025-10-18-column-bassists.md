@@ -113,7 +113,7 @@ He pushed bass into the realm of abstract art.
 
 ---
 
-## III. Bass map of Japan: Bassists who move between above ground and underground
+## III. Japan's bass map: Bassists who move between above ground and underground
 
 ### 1. Haruomi Hosono and translators of Japanese rhythm
 
@@ -126,7 +126,7 @@ What he established was the aesthetic of ""grooving in Japanese.''
 ---
 
 Hironori Ito of Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-They have created a sound that connects the world between popular songs and AOR.
+They have created a world-class sound between popular songs and AOR.
 The bass guitar no longer played a role behind the scenes, but became an element that supported the "dignity" of music.
 
 ---
@@ -145,14 +145,14 @@ It blurred the line between club culture and live music.
 
 ---
 
-The delicate bass sounds of downy and toe sounds like a poem depicting a city night.
-There is not a scream, but a ""breathing stillness''.
+The delicate bass tones of downy and toe sounds like a poem depicting a city night.
+There is not a scream, but a ""breathing stillness.''
 
 ---
 
 ### 3. Bass philosophy after club culture
 
-In the 2000s, the bass changed its appearance once again.
+In the 2000s, bass changed its appearance once again.
 Shinichi Osawa brings "human bass" to club tracks,
 STUTS and yahyel combined typing and live music.
 

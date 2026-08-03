@@ -12,7 +12,7 @@ title: Mase – Welcome Back
 ---
 
 
-Mase (Ma$e) is a Florida rapper known for his 1997 hit album Harlem World, which featured Jay-Z, DMX, Lil' Kim, and more.
+Mase (Ma$e) is a Florida rapper known for his 1997 hit album Harlem World, which featured artists such as Jay-Z, DMX, and Lil' Kim.
 
 After releasing their second album, ""Double Up," in 1999, they retired, but returned in 2004 with ""Welcome Back."
 

@@ -16,7 +16,7 @@ The Brothers Johnson is an American soul/funk/jazz/disco band. Formed in Los Ang
 
 The two began their careers as backing musicians for the likes of Bobby Womack and Billy Preston, before being discovered by producer Quincy Jones.
 
-Quincy Jones brought them to attention when he used them on his 1975 album Mellow Madness.
+Quincy Jones used them on his 1975 album Mellow Madness, which brought them attention.
 
 He recorded eight albums between 1976 and 1988, and is best known for the disco hit "Stomp!" (1980) and the Shuggy Otis classic "Strawberry Letter #23" (1977 cover).
 

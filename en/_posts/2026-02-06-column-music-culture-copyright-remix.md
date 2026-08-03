@@ -19,7 +19,7 @@ title: '[Column] Remix culture and the issue of rights: between copying and crea
 
 Text: mmr | Theme: Remix culture has rapidly expanded from the 20th to the 21st century, crossing over music, video, art, and internet expression. On the other hand, although the copyright system was developed to protect the rights of creators, it has always caused friction with cultural practices that are predicated on reuse, quotation, and modification. This paper takes the historical development of remix culture as a starting point, organizes the institutional characteristics of Japanese law, US law, and EU law, and examines the relationship between rights and creation from multiple angles, expanding the scope beyond music to include videos, memes, and derivative works.
 
-Even before the word remix became popular, human culture has always been premised on reuse and modification. Works such as parodies of folk songs, variations on oral literature, and melodic adaptations of religious music were not fixed, finished products, but transformed during the process of transmission.
+Even before the word remix became popular, human culture has always been based on reuse and modification. Works such as parodies of folk songs, variations on oral literature, and repurposed melodies of religious music were not fixed, finished products, but transformed during the process of transmission.
 
 Even after the modern era, when the concept of musical notation and composers was established, variations, arrangements, and quotations have been regarded as legitimate creative acts. The themes and variations in classical music and the interpretation of standards in jazz show that the reconstruction of existing materials is at the heart of expression.
 
@@ -53,7 +53,7 @@ Tape editing in particular formed the technical premise that was directly linked
 
 ## Jamaican Dub and Version Culture
 
-Established in Jamaica in the late 1960s, dub established remixing as an independent production act. The method of creating new music by manipulating multi-tracks of existing reggae sound sources, deleting vocals, processing effects, and manipulating space dismantled the idea of ​​focusing on original songs.
+Established in Jamaica in the late 1960s, dub established remixing as an independent production act. The method of creating new music by manipulating multi-tracks of existing reggae sound sources, deleting vocals, processing effects, and manipulating space dismantles the idea of ​​focusing on original songs.
 
 The background to this was a production environment that made the most of limited resources and immediate competition in sound system culture. Rights processing relied more on practice than on institutions, and reuse was a routine assumption.
 
@@ -83,9 +83,9 @@ At the same time, there are exceptions such as quotation, personal use, and educ
 
 ## Remix and Fair Use under U.S. Law
 
-A distinctive feature of US copyright law is the fair use provision. It has the flexibility to allow use without permission after comprehensively determining factors such as the purpose of use, nature of the work, amount of use, and impact on the market.
+A distinctive feature of US copyright law is the fair use provision. It has the flexibility to comprehensively judge factors such as the purpose of use, nature of the work, amount of use, and impact on the market, and permit use without permission.
 
-In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of deformability has become an important criterion in video remix and meme culture.
+In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of transformability has become an important criterion in video remix and meme culture.
 
 > US law has a structure in which freedom of expression and protection of rights are adjusted after the fact.
 
@@ -95,9 +95,9 @@ In music sampling lawsuits, there has been an increase in the number of cases in
 
 In the EU, the focus is on directives aimed at harmonizing systems among member countries. While copyright protection is relatively strong, there are clear exceptions regarding parody and quotation.
 
-The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are handled. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
+The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are treated. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
 
-> EU law systematically seeks a balance between market integration and cultural protection.
+> EU law institutionally seeks a balance between market integration and cultural protection.
 
 ---
 
@@ -107,13 +107,13 @@ Japanese copyright law places a strong emphasis on the right to adapt, and use t
 
 On the other hand, in recent years, efforts have been made to respond to the digital age, such as by introducing flexible rights restriction regulations and making it a non-prosecution offense. Derivative creation culture has developed uniquely between systems and practices.
 
->Japanese law, while emphasizing clarity, has relied on complementation by custom.
+> Japanese law, while emphasizing clarity, has relied on complementation by custom.
 
 ---
 
 ## Video remix and mashup
 
-In the video field, re-editing movies, reconstructing trailers, and fan-made videos have expanded remix culture. Because visual references are more obvious than music, rights issues are easier to visualize.
+In the video field, movie re-editing, trailer reconstruction, and fan-made videos have expanded remix culture. Because visual references are more obvious than music, rights issues are easier to visualize.
 
 Still, critical reediting and educational use have gained some legitimacy.
 
@@ -143,7 +143,7 @@ This can be said to be a choice that prioritizes cultural sustainability over st
 
 ## Re-editing problem in the AI ​​era
 
-Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage raise issues that cannot be resolved using conventional copyright concepts.
+Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage pose problems that cannot be resolved using traditional copyright concepts.
 
 > AI will redefine who is responsible for remixing.
 

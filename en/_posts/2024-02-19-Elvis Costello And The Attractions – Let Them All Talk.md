@@ -23,7 +23,7 @@ Formed by Elvis Costello, they were initially credited only on the B-side of the
 
 In 2002, the band reformed as Elvis Costello & the Imposters, excluding Bruce Thomas.
 
-In 2003, Elvis Costello and the Attractions were inducted into the Rock and Roll Hall of Fame.
+In 2003, Elvis Costello & the Attractions were inducted into the Rock and Roll Hall of Fame.
 
 #### Tracklist
 ```md

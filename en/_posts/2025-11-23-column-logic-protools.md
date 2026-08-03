@@ -33,8 +33,8 @@ The following six companies shaped the overall picture:
 * **Adobe (Audition)**
 * **emagic/Digidesign (before acquisition)**
 
-The differences in the strategies adopted by these companies have led to the **multipolarization of DAW culture**.
-While Apple and Avid pursued "vertical integration" through acquisitions, Steinberg, MOTU, and Adobe established their influence through "technical standards" and "domain specialization."
+The differences in the strategies taken by these companies have led to the **multipolarization of DAW culture**.
+While Apple and Avid have pursued "vertical integration" through acquisitions, Steinberg, MOTU, and Adobe have established their influence through "technical standards" and "domain specialization."
 
 ---
 
@@ -167,7 +167,7 @@ The acquisition took place in 1994, but the Digidesign brand disappeared in 2010
 *Completely takes over the industry standard for video editing and audio finishing
 * The trend of "Avid → Pro Tools" in film production has become established worldwide.
 
-Apple and Avid
+Two companies, Apple and Avid
 **Plan to take the lead in the DAW market in terms of both OS and video production**
 is completed here.
 
@@ -228,7 +228,7 @@ During this period, DAWs became mainstream with **CPU-dependent native processin
 * MOTU moves into modern workflow with DP9/10
 * Adobe's Audition penetration is due to increasing demand for podcasts
 
-By this time, the word "DAW" had become completely common,
+By this time, the word "DAW" had become completely popular.
 Coupled with the expansion of home recording culture, the overall market will expand rapidly.
 
 ---
@@ -306,7 +306,7 @@ timeline
 
 ---
 
-## 10. Conclusion: The history of DAW is a huge story where "corporate strategy × technical standards × market needs" intersect
+## 10. Conclusion: The history of DAW is a huge story where "corporate strategy x technical standards x market needs" intersect
 
 Apple acquired emagic and Avid integrated Digidesign.
 The DAW market has changed significantly along the axis of **OS x video production x studio infrastructure**.
@@ -315,7 +315,7 @@ MOTU has mastered **video synchronization**,
 Adobe has created its own market with **integration with broadcast and video editing**.
 
 Although the six companies compete with each other,
-As a result, together they have shaped the ""culture of music production itself.''
+As a result, together they have shaped the very culture of music production.
 
 After 2025, AI editing, cloud collaboration, expansion of mobile production, etc.
 The future of DAWs will take on a new dimension.

@@ -20,7 +20,7 @@ title: '[Column] Complete history of French hip-hop: from NTM to the present day
 Text: mmr｜Theme: Focusing on NTM and IAM, explanations of each album and song, social background, regional style analysis, and chronology.
 
 French hip-hop is a cultural movement that was born in the suburbs of French cities in the late 1980s, and while influenced by American hip-hop, it has developed to reflect its own social and cultural background.
-In particular, young people from immigrant communities and low-income families have adopted rap as a way to express their voices, and the lyrics contain political and social messages.
+In particular, young people from immigrant communities and low-income families have adopted rap as a means of expressing their voices, and the lyrics contain political and social messages.
 
 ---
 
@@ -47,7 +47,7 @@ In the early 1980s, hip-hop culture was introduced from the Bronx in America to 
 - **Breakdance**: B-boy/B-girl activities in city parks and public facilities
 - **Graffiti**: Spreading in urban spaces as a form of self-expression for young people
 
-During this period, rap was still a minor subculture, existing primarily as a street culture among young people.
+During this period, rap was still a minor subculture, existing mainly as a street culture among young people.
 
 ### 1-2. Formation of NTM and IAM
 
@@ -74,7 +74,7 @@ flowchart TD
 
 ---
 
-## 2. 1990s: Golden Age and Deepening Social Consciousness
+## 2. 1990s: golden age and deepening social consciousness
 
 ### 2-1. NTM social message
 
@@ -145,7 +145,7 @@ flowchart TB
 ### 4-1. Examples of new generation wrappers
 
 - **PNL (Peace N" Loves)**
-- Self-produced beat, autotune, urban culture expression
+- Self-produced beats, autotune, urban culture expression
 - **Damso**
 - From Belgium, fusion of social themes and love songs
 - **Niska**

@@ -9,7 +9,7 @@ tags:
 - House
 - Deep House
 - Acid House
-title: '[Column] From Chicago to the world: The birth and evolution of house music'
+title: 【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化
 ---
 
 
@@ -53,13 +53,13 @@ The vast space of the warehouse, the height of the ceiling, and the echo of the 
 
 ### Social background of Chicago in the 1980s
 
-The early 1980s were a tough economic time for Chicago.
+The early 1980s were tough economic times for Chicago.
 
 - Increased unemployment rate due to industrial decline
-- Community division due to urban redevelopment
+- 都市再開発によるコミュニティの分断  
 - Racial disparities and social inequality
 
-Filling this urban void, club culture functioned as a new venue for social and cultural expression. Disillusioned with the commercialization of disco, young people flocked to clubs such as the Warehouse, The Power Plant, and Music Box to enjoy freedom through music.
+Club culture functioned as a new venue for social and cultural expression, filling this urban void. Disillusioned with the commercialization of disco, young people flocked to clubs such as the Warehouse, The Power Plant, and Music Box to celebrate freedom through music.
 
 ### Club management and community
 
@@ -74,19 +74,19 @@ As an anecdote, Frankie Knuckles read the cheers from the crowd late at night an
 
 ### Frankie Knuckles — Godfather of House
 
-A New York native, Knuckles shaped Chicago's club culture by DJing at the Warehouse.
+A New York native, Knuckles shaped Chicago's club culture through his DJing at the Warehouse.
 Influenced by disco and soul, they made full use of rhythm machines and synthesizers to create new grooves.
 Under his hands, DJs have changed from mere craftsmen who connect songs to directors who control the entire floor.
 
 ### Marshall Jefferson — Dancefloor Revolution
 
 Jefferson created "Move Your Body" to promote participatory dance experiences in clubs.
-The technique of eliciting a physical reaction from the audience through subtle changes in the intro has elevated music from a mere series of sounds to a social phenomenon.
+イントロの微細な変化で観客の身体の反応を引き出す技術は、音楽を単なる音の連なりから、社会的現象へと押し上げた。
 
-### Larry Heard — the spiritual expression of deep house
+### Larry Heard — Deep House Spiritual Expression
 
 Larry Heard created ""Can You Feel It'' at home using simple equipment.
-With its deep meditative groove, the track not only contributed to the clubbing experience, but also to the listener's individual spiritual journey.
+With its deep meditative groove, the track contributed not only to the clubbing experience, but also to the listener's individual spiritual journey.
 
 ---
 
@@ -96,14 +96,14 @@ With its deep meditative groove, the track not only contributed to the clubbing 
 - **Deep House**: Meditative and soulful, represented by Larry Heard
 - **Vocal House**: Emphasis on lyrics and emotional expression, reflecting the voices of the community
 
-Early house music was characterized by simple, repetitive rhythms and was created using Roland TR-808/TR-909 rhythm machines and analog synths. A small sound ingenuity had the power to change the atmosphere of the entire club.
+Early house music was characterized by simple, repetitive rhythms and was created using Roland TR-808/TR-909 rhythm machines and analog synths. Small sound innovations had the power to change the atmosphere of the entire club.
 
 ---
 
 ## Chapter 4: The intersection of society and culture
 
 Chicago House has grown with the support of the black and LGBTQ+ communities.
-The club was a safe haven, a place free from discrimination and prejudice. Through music, self-expression and community formation progressed, and it became a symbol of minority culture in the city.
+クラブは安全な避難所であり、差別や偏見から解放される場所だった。音楽を通じて自己表現や共同体形成が進み、都市におけるマイノリティ文化の象徴となった。
 
 As an anecdote, one night at Warehouse, Knuckles' slight change in the tempo of his intro instantly changed the mood throughout the floor. The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
 
@@ -116,7 +116,7 @@ Chicago House is closely connected to the evolution of technology.
 - Possibility of home production with **samplers and digital recording technology**
 - Democratization of culture through **independent labels and the DIY spirit**
 
-Larry Heard's home-produced Can You Feel It is an anecdote that symbolizes the democratization of music and the expansion of club culture.
+Larry Heard's home-produced Can You Feel It is an anecdote to the democratization of music and the expansion of club culture.
 
 ---
 
@@ -223,6 +223,6 @@ Its influence extends to British acid house, Detroit techno, modern EDM and deep
 
 🔗 [[Column] What is deep house? ─ Exploring the depth of sound that blends the temperature of soul and jazz into house] (https://monumental-movement.jp/Column-Deep-House)
 
-🔗 [[Column] From the origins of NY House to the present - History, masterpieces, and changes in equipment](https://monumental-movement.jp/Column-NY-House)
+🔗 [[Column] From the origins of NY House to the present ─ History, masterpieces, and changes in equipment](https://monumental-movement.jp/Column-NY-House)
 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)

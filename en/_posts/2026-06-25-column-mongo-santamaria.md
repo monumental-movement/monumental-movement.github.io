@@ -17,7 +17,7 @@ title: '[Column] Mongo Santamaria -- the conga revolutionary who pushed Latin ja
 
 ## Mongo Santamaria -- The man who changed Latin music
 
-Text: mmr | Theme: Following in the footsteps of Mongo Santamaria, who moved to New York with traditional Afro-Cuban rhythms and pioneered everything from Latin jazz to boogaloo and salsa eve.
+Text: mmr｜Theme: Following in the footsteps of Mongo Santamaria, who moved to New York with traditional Afro-Cuban rhythms and pioneered everything from Latin jazz to boogaloo and the eve of salsa.
 
 When we look back at the history of jazz, the focus is often on the performers who play the melodies.
 
@@ -35,7 +35,7 @@ He's not just a celebrity either.
 
 He made a major contribution to the development of Latin jazz and bridged Afro-Cuban music with American popular music.
 
-Furthermore, in 1963, they made a huge hit with ""Watermelon Man,'' and succeeded in bringing Latin music to the American public.
+Furthermore, in 1963, they made a huge hit with ""Watermelon Man,'' and succeeded in bringing Latin music to the general public in America.
 
 Later salsa.
 Latin soul.
@@ -43,7 +43,7 @@ Boogaloo.
 
 If you trace its origins, you will always find Mongo Santamaria.
 
-> Mongo Santamaria was more than just a conga player; he was a force in the movement of 20th century Latin music.
+> Mongo Santamaria was more than just a conga player, he was a force in the movement of 20th century Latin music.
 
 
 
@@ -142,7 +142,7 @@ While gaining experience in various orchestras, he established himself as a cong
 
 Dance culture was developing greatly in Cuba in the 1940s.
 
-People flocked to clubs almost every night.
+People flocked to the club almost every night.
 
 Afro-Cuban music was played there.
 
@@ -188,7 +188,7 @@ America was a big market for musicians.
 
 Mongo will also be riding that wave.
 
-> The experience he gained in Havana laid the foundation for his later career in New York.
+> The experience he gained in Havana laid the foundation for his future career in New York.
 
 ---
 
@@ -369,7 +369,7 @@ It's not just for dancing.
 
 It was also music to be listened to.
 
-It brought to the fore rhythmic structures derived from Africa, while giving it a jazz-like development.
+It brought to the fore rhythmic structures derived from Africa, while also giving it a jazz-like development.
 
 ### Reconnecting with Africa
 
@@ -406,7 +406,7 @@ It went well with modal jazz, and was loved by many improvisers.
 
 This work established Mongo's reputation as a composer.
 
-> ""Afro Blue'' is not only a masterpiece of Latin jazz, but also an important work that made us reacquaint ourselves with the history of African music.
+> ""Afro Blue'' is not only a masterpiece of Latin jazz, but also an important work that made us reaffirm the history of African music.
 
 ---
 
@@ -440,19 +440,19 @@ His exquisite sense of balance was his main characteristic.
 
 ### Changes in New York
 
-In the early 1960s, a new generation was emerging in New York.
+In New York in the early 1960s, a new generation was emerging.
 
 African American.
 
 Puerto Rican residents.
 
-Cuban immigration.
+Cuban immigrants.
 
 They were looking for music that wasn't bound by existing genres.
 
 Mongo was sensitive to the zeitgeist.
 
-> Mongo, who became a bandleader, built his own unique music while absorbing the changes of the times.
+> Mongo, who became a band leader, built his own unique music while absorbing the changes of the times.
 
 ---
 
@@ -486,7 +486,7 @@ The results were amazing.
 
 "Watermelon Man" becomes a huge hit on the US charts.
 
-It was an unprecedented event in which a conga player dominated the pop charts.
+It was an unprecedented event for a conga player to dominate the pop charts.
 
 <div class="mermaid">
 graph LR
@@ -539,7 +539,7 @@ Mongo also reacts to this trend.
 
 ### Fusion of rhythms
 
-He combined Afro-Cuban music with soul.
+He combined Afro-Cuban music and soul.
 
 The result was Latin soul.
 
@@ -580,7 +580,7 @@ From the mid to late 1960s, a new style was born in New York.
 
 It's boogaloo.
 
-This was born out of the culture of the younger generation, where English and Spanish were mixed together.
+This was born out of the culture of the younger generation, where English and Spanish were mixed.
 
 Unlike traditional Latin music, it had strong influences from soul and R&B.
 
@@ -702,7 +702,7 @@ In the 1970s, Latin music in New York reached a major turning point.
 
 It's the era of salsa.
 
-This new style, which developed mainly among Puerto Rican immigrants, eventually grew into a worldwide movement.
+This new style, which developed mainly among Puerto Rican immigrants, eventually grew into a global movement.
 
 Latin music was no longer a regional culture.
 
@@ -1027,7 +1027,7 @@ He may not be talked about much as a leading figure in jazz history.
 
 However, if you were to name a person who rewrote the musical map of the 20th century, Mongo Santamaria would definitely be one of them.
 
-> Mongo Santamaria's greatest legacy is proving that rhythm has the power to unite people across borders and languages.
+> Mongo Santamaria's greatest legacy is that he proved that rhythm has the power to unite people across borders and languages.
 
 
 ---

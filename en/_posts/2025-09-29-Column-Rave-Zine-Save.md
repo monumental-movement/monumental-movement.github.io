@@ -59,7 +59,7 @@ Rave is a musical culture that emphasizes the experience of the here and now, an
 | Illegality/Anonymity | No records are kept to avoid detection by the police or government |
 | Transient | Events on the floor disappear for a moment |
 
-Thus, the ""true image'' of many raves does not remain. The lack of sound sources, images, and records threatens to disrupt cultural inheritance.
+In this way, the ""true image'' of many raves does not remain. The lack of sound sources, images, and records threatens to disrupt cultural inheritance.
 
 ---
 
@@ -78,7 +78,7 @@ Zine is an abbreviation for "Magazine" and is an independent publication that an
 
 ### Zine and rave affinity
 
-Zines can be a means of reconstructing the experience of unrecorded raves.
+Zines can be a ""means for reconstructing the experience'' of unrecorded raves.
 
 #### Specific example
 
@@ -127,7 +127,7 @@ Just as rave was a "physical experience," zine is also a "physical medium."
 
 ### Rave Archive
 
-Established in 2007, Rave Archive is an archive that preserves and shares memories of 90s rave culture. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
+Founded in 2007, Rave Archive is an archive that preserves and shares memories of rave culture in the 90s. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
 
 [Rave Archive](https://ravearchive.com)
 

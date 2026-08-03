@@ -10,7 +10,7 @@ tags:
 - Jazz
 - Electronic
 - Acid Jazz
-title: '[Column] History of Future Jazz, famous records, and changes in equipment'
+title: '[Column] Future Jazz history, masterpieces, and changes in equipment'
 ---
 
 
@@ -95,7 +95,7 @@ The term "Future Jazz" became established around Germany's Compost Records. The 
 | 6 | Fauna Flash | Tel Aviv | Dark and deep beat. |
 | 7 | Koop | Waltz for Koop | Important works from Northern Europe. |
 | 8 | A Forest Mighty Black | Everything | A fusion of downtempo and jazz. |
-| 9 | Beanfield | Tides | A fusion of vocals and beats. |
+| 9 | Beanfield | Tides | Fusion of vocals and beats. |
 | 10 | Kruder & Dorfmeister | Sofa Rockers | Chill Future Jazz classic. |
 
 ---
@@ -195,7 +195,7 @@ Future Jazz fuses with hip-hop and contemporary jazz and evolves in a crossover 
 
 ## 2020s: Re-evaluation and fusion with AI and modularity
 - **Background**
-In the era of streaming and AI, Future Jazz has been reevaluated and intersected with modular and AI music.
+In the streaming and AI era, Future Jazz has been reevaluated and intersected with modular and AI music.
 
 - **Representative artists/master records**
 - [Alfa Mist — *Bring Backs* (2021)](https://amzn.to/4pNoA7x)
@@ -211,15 +211,15 @@ In the era of streaming and AI, Future Jazz has been reevaluated and intersected
 
 | No | Artist | Track | Comments |
 |---|---|---|---|
-| 1 | Alfa Mist | Keep On | Melancholy Future Jazz. |
-| 2 | Kamaal Williams | Hold On | A representative contemporary jazz piece from London. |
+| 1 | Alfa Mist | Keep On | Future Jazz with a melancholy feel. |
+| 2 | Kamaal Williams | Hold On | A representative contemporary jazz song from London. |
 | 3 | Shabaka Hutchings | Hustle | Spiritual and powerful. |
 | 4 | Nubya Garcia | Pace | Saxophone stands out. |
 | 5 | Blue Lab Beats | Pineapple | A fusion of hip-hop and jazz. |
 | 6 | Kokoroko | Abusey Junction | Melancholic and beautiful. |
 | 7 | Floating Points | LesAlpx | Electronica and jazz fusion. |
 | 8 | Tom Misch & Yussef Dayes | What Kinda Music | Modern interpretations of pop and jazz. |
-| 9 | Makaya McCraven | Autumn in New York | A fusion of improvisation and editing. |
+| 9 | Makaya McCraven | Autumn in New York | 即興と編集の融合。 |
 | 10 | Immanuel Wilkins | Ferguson — An American Tradition | A fusion of sociality and musical expression. |
 
 ---
@@ -227,7 +227,7 @@ In the era of streaming and AI, Future Jazz has been reevaluated and intersected
 # A genre that is always on the cutting edge of the times
 Future Jazz has continued to evolve as a place where traditional jazz improvisation and electronic innovation intersect. It started with the club culture of the 90s, went through Broken Beat and Nu-Jazz, and is now expanding into a multi-layered expression that also incorporates modularity and AI.
 
-As befits the name ""futuristic jazz,'' it is a genre that is always on the cutting edge of the times.
+As befits the name "futuristic jazz," it is a genre that is always on the cutting edge of the times.
 
 ---
 

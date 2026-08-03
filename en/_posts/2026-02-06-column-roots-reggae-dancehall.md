@@ -49,7 +49,7 @@ color: #fff;
 
 ## Chapter 1 Social background and expression of the roots reggae generation
 
-In Jamaica during the 1960s and 1970s, when the roots-reggae generation grew up, politics and culture were closely intertwined. Before music was entertainment, it was education and a device for sharing ideas. The reason why Bob Marley's songs were accepted across national borders was because, more than just the melody, there was a universal theme of oppression and liberation.
+Politics and culture were closely intertwined in Jamaica in the 1960s and 1970s, when the roots reggae generation grew up. Before music was entertainment, it was education and a device for sharing ideas. The reason why Bob Marley's songs were accepted across national borders was more than just the melody, but the universal themes of oppression and liberation.
 
 Artists like Burning Spear and Culture inscribed history and memory into songs, expanding personal history into collective history. The rhythm was slow, heavy, and repetitive, creating a structure that gave the listener time to think.
 
@@ -81,19 +81,19 @@ At the Sound Clash scene, the audience's reaction was everything. The improvisat
 
 ## Chapter 4 Digitalization and the rise of the dancehall generation
 
-In the mid-1980s, the conditions for music production changed completely with the spread of digital riddim. The environment in which music could be produced by a small number of people, in a short time, and at low cost gave the younger generation a decisive freedom.
+In the mid-1980s, the conditions for music production changed completely with the spread of digital riddim. The environment in which music could be produced by a small number of people, in a short period of time, and at low cost gave the younger generation a decisive freedom.
 
 Dancehall artists such as Shabba Ranks value immediate reaction over long-term evaluation. Lyrics became everyday and direct, and music became completely connected to life.
 
-> Dancehall was a quick fix to survive uncertain times.
+> Dancehall was a quick fix for survival in uncertain times.
 
 ---
 
 ## Chapter 5 Misunderstanding of the narrative of intergenerational conflict
 
-Roots reggae and dancehall are often talked about in opposition, but many dancehall artists grew up listening to roots. There was no denial, just a transformation.
+Roots reggae and dancehall are often talked about in opposition, but many dancehall artists grew up listening to roots music. There was no denial, just a transformation.
 
-Spirituality has not disappeared, but has transformed into self-affirmation, survival strategy, and physical expression.
+Spirituality has not disappeared, but transformed into self-affirmation, survival strategy, and physical expression.
 
 > Conflict is an illusion; the reality is the history of successive generations.
 

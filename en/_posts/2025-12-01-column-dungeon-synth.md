@@ -24,9 +24,9 @@ title: '[Column] Dungeon Synth ─ An underground ambient aesthetic that diverge
 
 ## Dungeon Synth ─ An underground ambient aesthetic that diverges from black metal
 
-Text: mmr｜Theme: About the history, production techniques, and cultural position of Dungeon Synth, an underground ambient genre derived from black metal
+Text: mmr｜Theme: About the history, production techniques, and cultural positioning of Dungeon Synth, an underground ambient genre derived from black metal
 
-Dungeon Synth is a music genre that expresses the spirituality of black metal and fantasy/medieval worldview through minimalist synth sounds.
+Dungeon Synth is a music genre that expresses the spirituality of black metal and fantasy/medieval worldview with minimalist synth sounds.
 Its origins can be traced back to the European extreme music scene of the early 1990s, but the second and third generations have rapidly expanded since the late 2010s with the expansion of Bandcamp culture, and it has now developed into a gigantic DIY network.
 
 ---
@@ -58,23 +58,23 @@ Dungeon Synth has the following features.
 - Lo-fi, tape texture, cheap PCM sound source, early music style melody
 - **DIY principle**
 - Personal production/individual release/Bandcamp focus
-- **Emphasis on "presentation of scenery" rather than performance**
+- **Emphasis on "presenting the scene" rather than the performance**
 
-As a result, the music is often described as "a soundtrack without a movie," "ambient music for a tabletop RPG," or "a keyboard echoing in a lonely castle."
+As a result, the music is often described as ""a soundtrack without a movie," ""ambient music for a tabletop RPG," or ""keyboards echoing in a lonely castle.''
 
 ---
 
-## ■ 2. History ─ From the earliest times to the present day
+## ■ 2. History – from the earliest times to the present day
 
 Below, we will summarize the important trends from the birth of the genre to the present.
 
 ### ● 2-1. Early period (1991–1994)
-In the early 1990s, on the fringes of Scandinavian black metal, artists began creating ""dark keyboard-based ambient'' that reduced the number of sounds to the bare minimum.
+In the early 1990s, on the fringes of Scandinavian black metal, artists began creating ""dark keyboard-based ambient'' that had the number of sounds reduced to the bare minimum.
 
 Of particular importance are:
 - **Mortiis (Norway)**
 Former member of Emperor. Established a medieval fantasy "Dark Dungeon Music" style.
-- **Burzum (Norway) early keyboard pieces**
+- **Early keyboard pieces by Burzum (Norway)**
 The final song of ""Hvis Lyset Tar Oss" and the ambient tracks from ""Filosofem" left a strong symbolism for later Dungeon Synth.
 
 These are sound sources that predate the "Dungeon Synth as a genre name," but they are clearly treated as the source by later generations.
@@ -84,17 +84,17 @@ From 1995 to 2000, a young European project that preceded Mortiis "Era I", Cernu
 At this time, the genre name had not yet been established, but expressions such as "Dungeon Music" were already being used in overseas zines.
 
 ### ● 2-3. Blank ~ Re-evaluation (2001–2010)
-Outside of the mainstream metal scene, the genre remained within a small community until the mid-2000s.
-However, in the late 2000s, as early black metal was reevaluated, **Mortiis Era I was reissued** and began to receive renewed attention worldwide.
+Falling outside the mainstream of the metal scene, the genre remained within a small community until the mid-2000s.
+However, in the late 2000s, as early black metal began to be reevaluated, **Mortiis Era I was reissued** and began to receive renewed attention worldwide.
 
 ### ● 2-4. Second wave (2010–2015)
-Changes in the internet environment and the spread of Bandcamp became the deciding factor.
+Changes in the Internet environment and the spread of Bandcamp were the deciding factors.
 
 - **Rise of Bandcamp (early 2010s)**
 - **The name "Dungeon Synth" has become established on Reddit/Forum**
 - **Reactivation of label activities such as Dark Age Productions**
 
-During this period, in parallel with Atmospheric Black Metal, quieter, more immersive works increased overseas, forming a cohesive subculture.
+During this period, in parallel with Atmospheric Black Metal, quieter and more immersive works increased overseas, forming a cohesive subculture.
 
 ### ● 2-5. Third wave (2016–2023)
 The most important period when the genre grew rapidly.
@@ -106,7 +106,7 @@ Re-presenting the early lo-fi feel and classic fantasy worldview.
 - **Fief (USA)**
 Expanding their fan base by presenting a bright and melodic side.
 
-Around this time, a large number of mix videos were uploaded to YouTube, and Twitch streamers used them as background music, dramatically expanding awareness.
+Around this time, a large number of mix videos were uploaded to YouTube, and recognition increased dramatically as Twitch streamers used them as background music.
 
 ### ● 2-6. Modern day (2024–)
 The following characteristics can be seen in the second half of the 2020s.
@@ -156,20 +156,20 @@ Many artists sought the feel of game consoles and PCM keyboards from the 90s.
 GM pianos, Choir Aahs, Strings, Pads, etc. Cheapness and nostalgia are treated as values.
 
 ### ■ Soft synth
-In modern times, the following are often used:
+In modern times, the following are commonly used:
 
 - **DSK free VST**
 - DSK ChoirZ, DSK Strings, etc.
 - **Kontakt library (period instruments/pads)**
 - **Free synths such as Helm and Surge**
 
-In order to maintain a lo-fi quality, samples with low bitrates are often intentionally used.
+In order to maintain a lo-fi quality, low-bitrate samples are often intentionally used.
 
 ---
 
 ## ● 4-2. MIDI arrangement techniques
 
-Dungeon Synth emphasizes **repetition, a small number of motives, and long pads** over complex performances.
+Dungeon Synth emphasizes **repetition, small numbers of motives, and long pads** over complex performances.
 
 ### ▼ Characteristics of harmony
 - Natural minor scale
@@ -182,8 +182,8 @@ Dungeon Synth emphasizes **repetition, a small number of motives, and long pads*
 - Slow tempo (40-70 BPM)
 
 ### ▼ Treatment of rhythm
-Dungeon Synth is often **rhythmless (drumless)**.
-Even if there were, the only sounds were small toms, percussion, and light timpani.
+Dungeon Synth is often **no rhythm (drumless)**.
+Even if there is, the only sounds are small toms, percussion, and light timpani.
 
 ---
 
@@ -192,17 +192,17 @@ Even if there were, the only sounds were small toms, percussion, and light timpa
 An important technique to create the "underground" feel of Dungeon Synth.
 
 ### ■ Bit Reduction (Bit Crusher)
-Adding a roughness of about 8 to 12 bits will enhance the 90's feel.
+Adding a roughness of about 8 to 12 bits enhances the 90's feel.
 
 ### ■ Tape simulation
 - Saturation (light distortion)
 - Wow & Flutter
 - Noise (tape hiss)
 
-Many artists actually record their songs on cassette.
+Many artists actually record their songs onto cassettes.
 
 ### ■ EQ processing
-- **Remove low (below 100Hz)** → Towards monaural/old equipment feel
+- **Reduce low (below 100Hz)** → Towards monaural/old equipment feel
 - **Remove high frequencies (above 6-8kHz)** → Remove digital odor
 
 ### ■ Reverb
@@ -276,7 +276,7 @@ Visual influence is extremely large and plays a role in complementing the worldv
 - **Fief (USA)**
 
 ## ● Modern day (2024–)
-- Significant multinationalization and segmentation.
+- Significant multinationalization and fragmentation.
 Themes such as Forest / Winter / Heroic / Cosmic Synth have increased.
 
 ---
@@ -314,7 +314,7 @@ Below is a plan for actually creating a song.
 
 # ■ 9. Cultural significance of Dungeon Synth
 
-Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient music, and is a culture that aspires to "building an inner world."
+Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient, and is a culture that aspires to "building an inner world."
 
 - Individual creators spin their own stories without relying on large-scale scenes
 - Strongly tied to the aesthetics of fantasy literature, TRPGs, and game music
@@ -337,3 +337,10 @@ Although the acoustics are simple, the intentional constraints create a strong a
 ---
 
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJu3JSgtX70?si=KssA1Azw2fK0oF7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

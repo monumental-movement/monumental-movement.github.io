@@ -14,7 +14,7 @@ title: Les Rallizes Dénudés – Live 1972
 ---
 
 
-Les Rallizes Dénudés/Hadaka no rariizu is an experimental noise rock/psychedelic rock band formed in Kyoto in 1967, led by Takashi Mizutani. Naked Larrys, who were active from the 1960s to the 1990s, had a huge influence on the noise rock scene both in Japan and abroad, and still boasts cult popularity. The original members were Takashi Mizutani, Takeshi Nakamura, and Morisuke Wakabayashi. In addition, the members are in flux, with Fujio Yamaguchi (formerly known as Hachibu, later of Teardrops) and Makoto Kubota joining the group for a time. The group ceased its activities in 1996.
+Les Rallizes Dénudés/Hadaka no rariizu is an experimental noise rock/psychedelic rock band formed in Kyoto in 1967, led by Takashi Mizutani. Naked Larry's, who were active from the 1960s to the 1990s, had a huge influence on the noise rock scene both domestically and internationally, and still boasts cult popularity. The original members were Takashi Mizutani, Takeshi Nakamura, and Morisuke Wakabayashi. In addition, the members are in flux, with Fujio Yamaguchi (formerly known as Hachibu, later of Teardrops) and Makoto Kubota joining the group for a time. The group ceased its activities in 1996.
 
 #### Tracklist
 ```md

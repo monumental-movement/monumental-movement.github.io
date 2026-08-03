@@ -64,7 +64,7 @@ Gene and Dean.
 The sound of their names suggests "brothers," but they are not related by blood.
 But musically, they were almost like twins.
 Gene is the embodiment of emotion and chaos, Dean is the master of construction and craft.
-The moment the two collide, the chaos and magic that is typical of Ween is born.
+The moment the two collide, the chaos and magic that is unique to Ween is born.
 
 ["The Pod"](https://amzn.to/46LSWjm) (1991) uses a cheap microphone and an old four-track
 **"Dirty Beauty"** rules. Distorted vocals, muffled drums,
@@ -135,15 +135,15 @@ The sound is both funny and warm enough to bring tears to your eyes.
 
 ---
 
-## Band Mode and the Deep Sea Myth of "The Mollusk"
+## Band Mode and the Deep Sea Mythology of "The Mollusk"
 
 > "The ocean is limitless. We want our music to be like that too."
 > — *Gene Ween, 1997 Interview*
 
-["The Mollusk"](https://amzn.to/48VBtpT) is
+[""The Mollusk''](https://amzn.to/48VBtpT) is
 This was the moment when Ween's musical universe expanded to its richest.
 A monumental piece of psychedelic pop centered on ocean myths, led by "**Ocean Man**".
-The romance of Brian Wilson and the madness of Captain Beefheart.
+Brian Wilson"s romance and Captain Beefheart"s madness,
 It"s an album that feels like it"s enclosed in a single shell.
 
 All recordings are analog using **16-track tape**.
@@ -160,13 +160,13 @@ Live Ween was complete chaos.
 Laughter and noise collide, and the boundaries with the audience melt.
 It was more like a ritual than a band.
 
-> "Every show is an accident waiting to be beautiful."
+> “Every show is an accident waiting to be beautiful.”  
 > — *Dean Ween, 1997*
 
 However, behind the scenes, there were conflicts between alcohol, drugs, fatigue, and friendship.
 In 2008, Gene Ween left the band for personal reasons.
 He overcame his alcohol dependence and began a quiet path to recovery.
-Dean formed **The Dean Ween Group** and connected the spirit of Ween in another way.
+Dean formed **The Dean Ween Group** and connected the souls of Ween in another way.
 
 ---
 
@@ -191,7 +191,7 @@ This work condenses the irony and beauty of the very existence of Ween.
 In the 2010s, Ween quietly reunited.
 Gene and Dean's smiles on stage were the same as they were back then.
 There were people in the audience who grew up listening to Ween in the 90s,
-There was a mix of young people who learned about "Push th" Little Daisies" on YouTube.
+There was a mix of young people who learned about "Push th" Little Daisies" from YouTube.
 
 > "Laughing is our religion."
 > — *Gene Ween, 2012 Interview*
@@ -233,15 +233,15 @@ flowchart TD
 | 1991 | [The Pod](https://amzn.to/46LSWjm) | Malformed lo-fi aesthetics |
 | 1992 | [Pure Guava](https://amzn.to/48ihoda) | "Push th" Little Daisies" included |
 | 1994 | [Chocolate and Cheese](https://amzn.to/46LSWQo) | Turning point to studio production |
-| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs) | Fake Country x Real Nashville |
+| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs) | Fake country x real Nashville |
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A monumental piece of psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
 
 ---
 
-## Final Chapter: Gods Who Laugh Under the Sea — The Eternal Joke of Ween
+## Final Chapter: Gods Who Laugh at the Bottom of the Sea — The Eternal Joke of Ween
 
 Ween"s story can"t be summed up simply as a "crazy band."
 It is a record of two men who swam through the vast ocean of music while laughing.

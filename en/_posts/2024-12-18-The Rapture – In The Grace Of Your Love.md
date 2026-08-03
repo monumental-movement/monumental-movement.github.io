@@ -14,11 +14,11 @@ title: The Rapture – In The Grace Of Your Love
 ---
 
 
-The Rapture is a US dance punk rock band from New York formed in 1998. They disbanded in 2014, but resumed their activities in 2019.
+The Raptureは、1998年に結成されたNY出身のUSのダンスパンク・ロックバンド。2014年に解散したが、2019年から活動を再開した。
 
-They mix various genres of music such as dance punk, post-punk, acid house, disco, and electronica, and are known as the pioneers of the post-punk revival in the early 2000s, especially for their unique style that mixes early post-punk sounds with electronic and dance.
+ダンスパンク、ポストパンク、アシッドハウス、ディスコ、エレクトロニカなど、さまざまなジャンルの音楽をミックスし、特に初期のポストパンクサウンドとエレクトロニックとダンスをミックスした独特のスタイルで、2000年代初頭のポストパンクリバイバルの先駆者として知られている。
 
-Released in 2011 by DFA Records, "In The Grace Of Your Love" is The Rapture's third and final studio album.
+2011年にDFAレコーズからリリースされた「In The Grace Of Your Love」は、The Raptureの3枚目のスタジオアルバムであり最後のアルバム。
 
 #### Tracklist
 ```md

@@ -14,7 +14,7 @@ title: Superfly – B With U
 
 
 UK R&B singer Dee Jacobee"s "I"m Alive" by American DJ/house music artist
-A house track remixed by remixers Todd Terry and D.A.R.C.
+House track remixed by remixer Todd Terry and D.A.R.C.
 
 #### Tracklist
 ```md

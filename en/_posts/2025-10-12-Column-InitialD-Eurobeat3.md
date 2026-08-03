@@ -22,7 +22,7 @@ title: '[Column] Beyond Drift: Eurobeat/EDM and the future form of "memory of sp
 Text: mmr｜Theme: Initial D, Eurobeat, and the fate of the "acceleration of sound" that follows."
 
 
-"Initial D" and Eurobeat. The era when these connections functioned as a cultural device can no longer be talked about solely through ""nostalgia.''
+"Initial D" and Eurobeat. The era when these connections functioned as a cultural device can no longer be described solely through ""nostalgia.''
 From the late 1990s to the early 2000s, the resonance of images of cars driving through mountain passes and high-tempo sounds created an unconscious, shared experience.
 Speed ​​= music, and music = acceleration of emotions.
 
@@ -49,7 +49,7 @@ color: #fff;
 
 ## 1. From "pass" to "trajectory": the gradation of the musical space traced by Eurobeat
 
-As mentioned in the previous two works, the Eurobeat in Initial D was inseparable from Toge's story.
+As mentioned in the previous two works, the Eurobeat in Initial D was inseparable from Touge's story.
 However, it was not just an aid to the terrain and visual production, but a **device that translated the distortion of time into sound**.
 
 Looking back now, we can say that Eurobeat was a genre that acoustically visualized ""the internal time of a running body.''
@@ -73,14 +73,14 @@ In the 2020s, there are many young artists who consciously quote Eurobeat-like "
 For example, if you follow the ""Eurobeat Remake" and ""Nightcore Revival" tags on YouTube,
 You can see that countless tracks are being created at the intersection of EDM, anime culture, and game music.
 
-The build-up of EDM, the vocal chop of Hyperpop, the melody lift of Trance.
+EDM build-up, Hyperpop vocal chops, Trance melody lift.
 What runs through them is the idea of ​​""sound that designs upliftment''.
-And the origin of that philosophy is none other than the Eurobeat of the 90s.
+And the origin of this idea is none other than the Eurobeat of the 1990s.
 
 > "Speed ​​is the language of the times."
 > — anonymous Eurobeat producer, 1998 interview
 
-This word now takes on new meaning in the age of generative music.
+This word now takes on new meaning in the era of generative music.
 Speed ​​is not just a tempo, but exists as the speed at which emotions are calculated.
 
 ---
@@ -111,7 +111,7 @@ And the sounds made inside are not a reenactment of the past, but are reconstruc
 
 ---
 
-## 4. Fusion of sound and space: Installation as running music, live experience
+## 4. Fusion of sound and space: installation as running music, live experience
 
 An art movement that audibly reproduces the feeling of running has begun in various parts of the world.
 
@@ -121,7 +121,7 @@ The hi-hat is amplified when drifting, and the bass becomes distorted in corners
 
 - **Sound tunnel installation**
 A space where the pitch and tempo of the sound changes as the audience walks.
-Your movements generate sound, just like "walking drift."
+Just like "walking drift," your movements generate sound.
 
 - **Replay in club space**
 "Virtual Toge Night" is a Eurobeat x EDM set that projects images of Toge behind the DJ booth.
@@ -138,15 +138,15 @@ It is becoming a genre that is driven by users.
 
 ### ● AI Drift Remix
 
-When you input your driving log (speed, route, curve information) into AI,
+When you input the driving log (speed, route, curve information) into the AI,
 Automatically generates a Eurobeat-style track that corresponds to that driving style.
-The era of ""your driving becoming the song'' is already beginning to become a reality on the test bench.
+The era in which ""your driving becomes the song'' is already beginning to become a reality on the test bench.
 
 ### ● Eurobeat revival from SNS
 
-On TikTok and YouTube, the number of posts that combine "Eurobeat x own driving video" has increased explosively.
+On TikTok and YouTube, the number of posts combining "Eurobeat x your own driving video" has increased explosively.
 These are not just nostalgia, but function as a ""new format for sharing the feeling of driving.''
-It is, so to speak, a ""speed-sharing medium''.
+It is, so to speak, a ""speed sharing medium''.
 
 ### ● NFT/Blockchain and redefining music ownership
 

@@ -18,7 +18,7 @@ title: '[Column] Québec Redneck Bluegrass Project - Rebellious bluegrass resoun
 
 ## A band that plays the muddy sounds of Quebec
 
-Text: mmr｜Theme: The trajectory of the Québec Redneck Bluegrass Project, which uses bluegrass and punk spirit to express the discomfort between Quebec's indigenous culture and modern society.
+Text: mmr｜Theme: The trajectory of the Québec Redneck Bluegrass Project, which uses bluegrass and punk spirit to express the discomfort between the indigenous culture of the Quebec region and modern society.
 
 <style type="text/css">
 
@@ -39,7 +39,7 @@ Québec Redneck Bluegrass Project, commonly known as QRBP, is a bluegrass/folk b
 
 However, simply describing them as a "bluegrass band" misses the reality.
 
-Their music blends bluegrass from the American South, Quebec folk, punk, garage rock, country, folk, bar music, and work song sensibilities. Overarching the whole thing was an ""aesthetics that moves in the opposite direction to sophistication.''
+Their music blends bluegrass from the American South, Quebec folk music, punk, garage rock, country, folk, barroom music, and work song sensibilities. Overarching the whole thing was an ""aesthetics that moves in the opposite direction to sophistication.''
 
 It's not urban smart.
 
@@ -92,7 +92,7 @@ The performance has a garage feel, and the recording has a rough feel to it. But
 
 While urban folk turned toward introspection, QRBP turned toward community.
 
-The audience shouts, drinks, dances and rubs shoulders together. The live performance was not a "watching" event, but a participatory space.
+The audience shouts, drinks, dances and rubs shoulders together. The live performance was not a "viewing" event, but a participatory space.
 
 <div class="mermaid">
 flowchart TD
@@ -110,7 +110,7 @@ D --> E["QRBP Sound"]
 
 The Québec Redneck Bluegrass Project began its activities in the 2000s.
 
-Formed in the Saguenay region of Quebec. It is a rural area that is far from urban culture.
+Formed in the Saguenay region of Quebec. It is a rural area far away from urban culture.
 
 This regionality was extremely important in understanding their music.
 
@@ -124,7 +124,7 @@ Bars, small festivals, local events, community spaces. There they began to be re
 
 What was particularly important was that he prioritized ""the energy of the space over the skill of the performance.''
 
-QRBP"s live shows have an energy that"s on the verge of being out of control.
+QRBP"s live shows have an energy that"s on the verge of being uncontrollable.
 
 The line between the audience and the audience is thin, and the stage becomes a celebration. The feeling is similar to a punk concert.
 
@@ -141,7 +141,7 @@ timeline
     フェス出演期 : ケベック各地へ拡大
 </div>
 
-> The foundation of QRBP was formed not by media strategy but by the enthusiasm on the ground.
+> The foundation of QRBP was formed not by media strategy but by the enthusiasm of the people on the ground.
 
 ---
 
@@ -192,7 +192,7 @@ mindmap
 
 As QRBP continues their activities, they develop from a mere live band to a group with a unique artistic quality.
 
-Their albums consistently retain a raw recording feel.
+Their albums consistently have a raw recording feel.
 
 Excessive production is avoided, and the roughness and atmosphere of the performance is maintained. As a result, even though it is a studio work, it retains a strong live energy.
 
@@ -214,7 +214,7 @@ These issues are portrayed without sounding preachy.
 
 Musically, QRBP gradually expanded its range.
 
-In addition to traditional bluegrass, they also display folk-punk tempo, rock-like propulsion, and sometimes country-ballad lyricism.
+In addition to traditional bluegrass, they also display folk-punk tempo, rock-like propulsion, and sometimes country ballad-like lyricism.
 
 As a result, they strengthened their presence as a ""local culture renewal band" rather than a ""tradition preservation band."
 
@@ -233,17 +233,17 @@ E["Country Ballad"] --> F
 
 ## Live culture and sense of community
 
-If I had to choose one of QRBP's biggest attractions, I think many audiences would choose the live performances.
+If I were to pick one of QRBP's biggest attractions, I think many audience members would choose the live performances.
 
 At their live performances, there is almost no atmosphere in which the audience can watch in silence.
 
-Scream, sing along, dance, drink, and rub shoulders.
+Shout, sing along, dance, drink, and rub shoulders.
 
 The entire venue becomes a community.
 
 This feeling is similar to punk and Irish pub culture. However, QRBP was unique in that it was tied to Quebec regional culture.
 
-The live space has an atmosphere where anyone can enter.
+The live performance space has an atmosphere that allows anyone to enter.
 
 It doesn't matter whether you have musical knowledge or not.
 
@@ -292,7 +292,7 @@ Furthermore, they distanced themselves from ""urban culture-centrism.''
 
 This is not a simple anti-urban ideology.
 
-Rather, it is an argument that ""regions have cultures, too.''
+Rather, it is an argument that ""regions have cultures too.''
 
 Worker culture.
 
@@ -320,9 +320,9 @@ D --> E["Collective Resonance"]
 
 ## To the symbol of the festival era
 
-As their activities expanded, QRBP began appearing at major Quebec festivals.
+As their activities expanded, QRBP began to perform at major Quebec festivals.
 
-What is important here is that even when they became gigantic, they did not lose their ""earthiness.''
+What is important here is that even when they became gigantic, they did not lose their ""earthiness''.
 
 Many bands move toward sophistication as they expand in size.
 
@@ -352,9 +352,9 @@ D --> E["Community Identity Maintained"]
 
 ## What QRBP leaves behind
 
-The importance of QRBP cannot be measured only by hit charts.
+The importance of QRBP cannot be measured by hit charts alone.
 
-They proved that "local culture can become modern music."
+They proved that ""local culture can become modern music.''
 
 Moreover, this was achieved without forcing urbanization.
 
@@ -374,7 +374,7 @@ A sense of community.
 
 Rather than eliminating such things, they instead converted them into attractive features.
 
-As a result, they have gained support not only within Quebec culture, but also among folk-punk/alt-country/DIY culture groups around the world.
+As a result, they have gained support not only within Quebec culture, but also among folk-punk, alt-country, and DIY cultures around the world.
 
 QRBP is not a traditional music preservation organization.
 
@@ -424,7 +424,7 @@ Québec Redneck Bluegrass Project is more than just a folk band.
 
 They have played music that does not shame local culture.
 
-In an era where urbanization and digitalization are progressing and all cultures are becoming homogenized, QRBP has demonstrated the strength of being ""rooted in the local area.''
+In an era where urbanization and digitalization are progressing and all cultures are becoming homogenized, QRBP demonstrated the strength of being ""rooted in the local area.''
 
 The music isn't too sophisticated.
 

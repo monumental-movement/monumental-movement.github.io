@@ -21,13 +21,13 @@ Text: mmr｜Theme: We didn't change music. Tracing the history of anarcho-punk c
 
 ### What was punk?
 
-In the late 1970s, many people understood punk to mean "fast, rough rock." However, something appears in England that cannot be explained by that definition alone.
+1970年代後半、多くの人はパンクを「速くて荒々しいロック」と理解した。しかし、その定義だけでは説明できない存在がイギリスに現れる。
 
 Crass.
 
 Rather than relying on record companies, they produced and distributed their own music, planned live shows, and sent out political messages. There are no giant lighting equipment or stars on stage. All members worked in the same position, and the band functioned more like a community than a band.
 
-The ideologically central figure is Penny Rimbaud.
+その思想的な中心人物が、Penny Rimbaudである。
 
 A drummer, poet, and thinker, he consistently believed that ""punk is not music, but a way of life.''
 
@@ -74,11 +74,11 @@ This environment also had a great influence on Penny Rimbaud.
 
 ### Jeremy John Lauder's childhood
 
-Penny Rimbaud was born Jeremy John Ratter (later using the stage name Penny Rimbaud) in 1943 in Gloucestershire, England.
+Penny Rimbaud was born Jeremy John Ratter (later using the stage name Penny Rimbaud) in Gloucestershire, England, in 1943.
 
 His family was relatively wealthy and he received a traditional education.
 
-However, he reflected in his later writings that he felt uncomfortable with authority and hierarchical relationships from an early age.
+However, he reflected in his later writings that from an early age he felt uncomfortable with authority and hierarchical relationships.
 
 School education emphasized obedience, and art education also imposed certain values.
 
@@ -98,13 +98,13 @@ The album was not a product, but a medium to convey ideas.
 
 The attitude of not separating art and life was formed during this period.
 
-### Empathy for Arthur Rimbaud
+### Sympathy for Arthur Rimbaud
 
 Jeremy Ratter chose the name "Penny Rimbaud" in homage to 19th century French poet Arthur Rimbaud.
 
-Rimbaud is known for shocking the literary world at a young age, then abruptly ceasing his creative career.
+Rimbaud is known for shocking the literary world at a young age and then abruptly ceasing his creative career.
 
-Rimbaud's way of life, distancing himself from the existing literary system and social norms, symbolized his ideal anti-establishment spirit.
+Rimbaud's ideal way of living, distancing himself from the existing literary system and social norms, represented an ideal anti-establishment spirit.
 
 A stage name was not just a name, but also a declaration of one's thoughts.
 
@@ -156,7 +156,7 @@ In addition to music, Dial House hosted a variety of other forms of expression, 
 
 Penny Rimbaud herself not only plays the drums, but also actively participates in poetry readings and experimental performances.
 
-Looking at their activities around this time, it can be seen that Crass was not a band that sprang up suddenly, but rather was a natural extension of an artistic community that had lasted for over a decade.
+Looking at their activities around this time, it can be seen that Crass was not a band that suddenly sprang up, but rather was a natural extension of an artistic community that had lasted for more than a decade.
 
 ### Meaning of "community"
 
@@ -196,7 +196,7 @@ E --> F
 F --> G
 </div>
 
-> Dial House was not only a base for Crass's activities, but also a place of experimentation where they continued to examine the question of ""Can a culture that does not depend on institutions be established'' in daily life.
+> Dial House was not only a base for Crass' activities, but also a place of experimentation where they continued to examine the question ""Can a culture that does not depend on institutions be established?'' in daily life.
 
 
 ---
@@ -217,17 +217,17 @@ A contract with a major label.
 
 Commercial development by fashion brands.
 
-Penny Rimbaud and his Dial House friends saw these movements and became concerned that punk was losing its inherent resistance to existing values.
+Seeing these movements, Penny Rimbaud and his Dial House colleagues became concerned that punk was losing its inherent resistance to existing values.
 
-They wanted to rebuild punk not just as a music genre, but as an expression to question the very structure of society.
+They wanted to rebuild punk not just as a music genre, but as an expression that could question the very structure of society.
 
-The result was Crass.
+Crass was born as a result.
 
 ### Group of different ages and backgrounds
 
 Crass officially started as a band in 1977.
 
-Members included not only young punk musicians, but also artists, performers, designers, poets, and more.
+Its members included not only young punk musicians, but also artists, performers, designers, poets, and more.
 
 Penny Rimbaud was in her mid-30s when they formed, making her older than many of the early punk band members.
 
@@ -247,7 +247,7 @@ In addition to playing,
 
 We did these things ourselves.
 
-The ""band" and the ""community" were not separated.
+There was no separation between the ""band" and the ""community."
 
 ### "There Is No Authority But Yourself"
 
@@ -289,9 +289,9 @@ Treat everyone equally during photo shoots,
 
 Even in interviews, we speak as a group rather than as individuals,
 
-At live performances, they placed more emphasis on images and messages than on stage production.
+At live performances, they focused more on images and messages than on stage production.
 
-This means that the idea of ​​denying authority was directly reflected in the management methods.
+This means that the idea of ​​denying authority was also reflected in the management methods.
 
 > Crass was an extremely rare musical group that focused on ""what to share" rather than ""who is at the center."
 
@@ -377,7 +377,7 @@ Themes are presented one after another, posing questions to the listener.
 
 ### Artwork is also part of the work
 
-For Crass, the jacket design was also an important expression.
+Jacket design was also an important expression for Crass.
 
 Based on black and white printing,
 
@@ -426,7 +426,7 @@ A --> F
 A --> G
 </div>
 
-> ""The Feeding of the 5000'' was a comprehensive work of expression that integrated music, design, writing, and thought while borrowing the album format.
+> ""The Feeding of the 5000'' was a comprehensive work of expression that integrated music, design, text, and thought while borrowing the album format.
 
 ---
 
@@ -544,7 +544,7 @@ The important thing was to ""bring out to the world expressions that don't have 
 
 Therefore, the criteria for selecting works was not based on commerciality, but on the originality of thought and expression.
 
-Penny Rimbaud believed that DIY was not just about "creating something just for ourselves," but also about "expanding the environment in which everyone can make it themselves."
+Penny Rimbaud believed that DIY was not just about "making something just for ourselves," but also about "expanding the environment in which everyone can make it themselves."
 
 Crass Records was a place to put that idea into practice.
 
@@ -560,13 +560,13 @@ Delivered directly to independent shops.
 
 Conducts mail sales.
 
-Fans introduce each other's works through word of mouth.
+Fans introduce works to each other through word of mouth.
 
 By accumulating these methods, a unique distribution network was formed.
 
 This system later became a model for DIY labels around the world.
 
-Today, self-release through the Internet has become commonplace, and its ideological origins can also be seen in the practices of Crass Records.
+Today, self-release through the Internet has become commonplace, and its ideological prototype can also be seen in the practices of Crass Records.
 
 ### A label that supported diverse artists
 
@@ -642,7 +642,7 @@ military industry,
 
 financial capital,
 
-national power,
+国家権力、
 
 It contained a critique of mass consumption society.
 
@@ -683,7 +683,7 @@ graph TD
 
 A["Cold War"]
 B["Nuclear arms expansion"]
-C["Anti-war movement"]
+C["反戦運動"]
 D["Penny Rimbaud"]
 E["Crass"]
 F["How Does It Feel?"]
@@ -706,13 +706,13 @@ H --> G
 
 ## "Never-ending project" called Dial House
 
-### Community that continued even after the band disbanded
+### バンド解散後も続いた共同体
 
 Crass ended its activities in 1984.
 
 But Dial House didn't end there.
 
-Penny Rimbaud continued to live there and welcomed many artists, researchers, and musicians.
+Penny Rimbaudはその後も同地で生活を続け、多くの芸術家や研究者、音楽家を迎え入れた。
 
 The younger generation came,
 
@@ -722,13 +722,13 @@ produce works,
 
 Stay for a few days to a few weeks.
 
-These exchanges continued for several decades.
+こうした交流は数十年にわたって続いた。
 
 Dial House continued to exist as an ongoing cultural hub rather than an "old base of Crass."
 
 ### Why I continued to write and talk about books
 
-After the band disbanded, Penny Rimbaud began her writing career in earnest.
+バンド解散後、Penny Rimbaudは執筆活動を本格化させる。
 
 autobiography,
 
@@ -736,11 +736,11 @@ poetry collection,
 
 essay,
 
-thought book,
+思想書、
 
 Reading works.
 
-Although the methods of expression changed, the theme remained consistent: ""Think for yourself.''
+表現方法は変わっても、一貫していたテーマは「自分自身で考えること」だった。
 
 In his lectures and interviews,
 
@@ -750,23 +750,23 @@ Rather than "giving answers"
 
 I didn't change my attitude.
 
-As a result, Penny Rimbaud came to be evaluated not only as a former band member but also as a thinker and educator.
+そのため、Penny Rimbaudは単なる元バンドマンではなく、思想家や教育者としても評価されるようになる。
 
 ### I haven't left music.
 
 Even after Crass disbanded, Penny Rimbaud continued to make music.
 
-He has released a wide variety of expressions, including spoken word works, experimental music, and collaborations with jazz musicians.
+スポークンワード作品や実験音楽、ジャズ・ミュージシャンとの共演など、多様な表現を発表している。
 
-While continuing to play the drum as an instrument, he created many works that combined poetry and improvisation.
+ドラムという楽器も続けながら、詩と即興演奏を組み合わせた作品を数多く残した。
 
-This shows that for him music remained a method of dialogue, rather than a commodity.
+これは、彼にとって音楽が商品ではなく、対話の方法であり続けたことを示している。
 
-### Dial House's legacy
+### Dial Houseが残したもの
 
-Today, many people associate the word ""communal living'' with a specific ideological group.
+今日、「共同生活」という言葉からは特定の思想集団を連想する人も少なくない。
 
-However, Dial House was different from such a closed community.
+しかしDial Houseは、そのような閉じた共同体とは異なっていた。
 
 people can visit freely,
 
@@ -774,7 +774,7 @@ I was free to leave.
 
 What was important was not ""having the same ideas," but ""living together while recognizing each other's differences."
 
-This attitude is emblematic of Penny Rimbaud's entire philosophy.
+この姿勢は、Penny Rimbaudの思想全体を象徴している。
 
 <div class="mermaid">
 graph LR
@@ -834,7 +834,7 @@ Plan your own live show.
 
 Distribute by yourself.
 
-Many artists have developed this practice, which we now take for granted, but Crass was one of the most thorough in its practice.
+Many artists have developed this practice, which now seems commonplace, but Crass was one of the most thorough in its practice.
 
 Not just punk.
 
@@ -858,7 +858,7 @@ communal space.
 
 Benefit Live.
 
-Although Crass was not the only one to create these, they combined them into a single practice and presented them to many people.
+これらはCrassだけが生み出したものではないが、彼らはそれらを一つの実践として結び付け、多くの人々へ提示した。
 
 ### Commonalities with the Internet era
 
@@ -866,13 +866,13 @@ In the 21st century, the environment for music production and information dissem
 
 Recording equipment is now available to individuals, allowing them to directly share their work with the world.
 
-By using SNS and video distribution services, it is now possible to be active without going through major media.
+SNSや動画配信サービスを利用すれば、大手メディアを介さず活動することも可能になった。
 
 With this change, Crass's ideas take on new meaning.
 
 Even if the technology changes,
 
-"Delivering our own expressions"
+「自分たちの表現を自分たちで届ける」
 
 That idea has not changed.
 
@@ -890,7 +890,7 @@ Penny Rimbaud is often referred to as the "drummer of Crass."
 
 Of course, that's not a mistake.
 
-However, that alone does not give us a complete picture of his activities.
+しかし、それだけでは彼の活動の全体像は見えてこない。
 
 he is also a poet
 
@@ -922,7 +922,7 @@ Creating an opportunity to think through the work.
 
 Creating a place for dialogue between people from different positions.
 
-He believed that this was the important role of art.
+それこそが芸術の重要な役割だと捉えていた。
 
 This attitude is the reason why Crass's works have not become one-sided advertisements and have attracted much discussion.
 
@@ -936,7 +936,7 @@ It was a way to use short words to reflect the contradictions in society and giv
 
 For this reason, Crass's lyrics often feature poetic structures and recitative rhythms.
 
-It"s not just a slogan, but one of the reasons it"s praised as punk with literary elements.
+It"s not just a slogan, but one of the reasons why it"s praised as punk with literary elements.
 
 ### Thoughts that do not aim for "perfection"
 
@@ -991,7 +991,7 @@ F --> G
 
 ### Impact on independent culture
 
-Nowadays, many musicians and creators create and disseminate their own works.
+Nowadays, many musicians and creators create and publish their own works.
 
 Raise funds through crowdfunding.
 
@@ -999,7 +999,7 @@ Sell ​​your work online.
 
 Operates an independent label.
 
-Such activities are no longer uncommon.
+こうした活動は珍しいものではなくなった。
 
 Behind this is the history of DIY culture that has been accumulated over many years.
 
@@ -1088,7 +1088,7 @@ mindmap
 | 1984 | Crass disbanded. |
 | Late 1980s | Active mainly in writing, lectures, and spoken word works. |
 | 1990s | Collaboration with improvisational musicians and jazz musicians. |
-| Since the 2000s | Continued creative work, lectures, and publishing activities based at Dial House. |
+| Since the 2000s | Continuing to create, lecture, and publish based at Dial House. |
 | 2020s | While continuing his writing, reading, and music activities, he continues to talk about the history of DIY culture and anarcho-punk. |
 
 <div class="mermaid">
@@ -1171,7 +1171,7 @@ In Britain in the late 1970s, many punk bands expressed their dissatisfaction an
 
 Among them, Penny Rimbaud was a person who focused more on the methodology of how to return that anger to society than on the anger itself.
 
-He wasn't just trying to take on the music industry.
+He wasn't just trying to fight back against the music industry.
 
 life.
 
@@ -1221,7 +1221,7 @@ Of course, these have been formed by the overlapping of many cultural trends, an
 
 However, there is no doubt that Penny Rimbaud was one of the most emblematic practitioners of these trends, and left an impact that went beyond music.
 
-His most important legacy is not a single work, album, or band.
+His most important legacy is not one work, one album, or one band.
 
 This was a demonstration of the idea that ""culture can be created with our own hands.''
 

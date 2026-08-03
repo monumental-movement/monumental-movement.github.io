@@ -64,7 +64,7 @@ Metallic robes, headpieces and geometric pattern decoration. Designs that fuse a
 
 ### ● Symbolism of Album Art
 
-Many artworks were created with space themes such as spaceships, planets, galaxies, and abstract shapes. Visual concepts are strongly shared not only in Sun Ra's body of work, but throughout the Cosmic Jazz lineage.
+Many pieces of space-themed artwork were created, including spaceships, planets, galaxies, and abstract shapes. Visual concepts are strongly shared not only in Sun Ra's body of work, but throughout the Cosmic Jazz lineage.
 
 ### ● Ritualistic nature of live performance
 

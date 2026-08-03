@@ -22,11 +22,11 @@ Text: mmr｜Theme: Tracing the unique sound philosophy created by a different-di
 Late 1970s, on the shores of Lake Garda in northern Italy.
 Little did anyone know that this place, which was just a resort for tourists, would later become the center of an acoustic phenomenon called **Cosmic Sound**.
 The central figure is **Daniele Baldelli**.
-He is not just a DJ, but has become known as an ""architect who reconstructs the speed of sound and space.''
+He has become more than just a DJ, he has become known as an ""architect who reconstructs the speed of sound and space.''
 
 The disco scene at the time was dominated by 4/4 rhythms, represented by American soul and house music.
-However, Baldelli interweaves ethnic music, electronic sounds, progressive rock, African drums, and even krautrock.
-**We presented the concept of "cosmic tempo"**, which allows you to freely change the BPM.
+However, Baldelli interweaves **folk music, electronic sounds, progressive rock, African drums, and krautrock**.
+We presented the concept of **"cosmic tempo"**, which allows you to freely change the BPM.
 
 > "I don't believe in genres. I only believe in the flow of sound."
 > ― Daniele Baldelli
@@ -74,19 +74,19 @@ Rather than dancing, the audience had an experience of being ""immersed'' in the
 Daniele Baldelli's real innovation was in treating speed (tempo) as a musical element.
 he speaks.
 
-> ""It's easy to mix music genres.
+> ""It's easy to mix musical genres.
 > However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
 
-His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed down synth ambient.
+His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed-down synth ambient.
 **Transfers smoothly**. You can't even feel the boundaries between songs.
 Throughout the night it feels like a spaceship is going down and out of orbit.
 
 ---
 
-## 4. Sound material science - Relocation of sound sources in Cosmic
+## 4. Material studies of sound - Relocation of sound sources in Cosmic
 
 Baldelli was a pioneer of DJs who treated songs as "material."
-There was a strong sense of ""composing'' the recorded sounds again on the turntable.
+I had a strong sense of ""composing'' the recorded sounds again on the turntable.
 
 | Sources used | Specific examples |
 |:--|:--|
@@ -96,7 +96,7 @@ There was a strong sense of ""composing'' the recorded sounds again on the turnt
 | Space theme | Space, Rockets, Cerrone |
 | Soundtrack | Morricone, Carpenter, Goblin |
 
-This multicultural mix was the precursor to later **Balearic Sound**, **Leftfield Disco**, as well as **Downtempo** and **Nu Disco**.
+This multicultural mix became the precursor to later **Balearic Sound**, **Leftfield Disco**, as well as **Downtempo** and **Nu Disco**.
 
 ---
 

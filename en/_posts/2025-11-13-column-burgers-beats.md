@@ -20,9 +20,9 @@ title: '[Column] 50 years of history of burger shops and music - The culture of 
 Text: mmr｜Theme: On the evolution of fast food music as a "culture that can be enjoyed with the ears"
 
 The music of the hamburger shop is not just a commercial song, but a ""sound portrait of the times.''
-What values ​​society sought and what tempo it lived in - all of these are condensed into a 15-second jingle and sound logo.
+What values ​​society sought and what tempo it lived at - all of these are condensed into a 15-second jingle and sound logo.
 
-McDonald"s upbeat family pop, Burger King"s rebellious guitar riffs, and Mos Burger's handcrafted warmth from the ukulele.
+McDonald"s upbeat family pop, Burger King"s rebellious guitar riffs, and Mos Burger's handcrafted ukulele sounds.
 Rather than corporate advertisements, these are the very ""aural memories of the times.''
 
 ---
@@ -46,11 +46,11 @@ color: #fff;
 ### 1-1 Singing "hamburger = happiness": McDonald"s early commercial
 "You Deserve a Break Today" was produced in 1971 by the American advertising agency **DDB (Doyle Dane Bernbach)**.
 Composed by Sid Woloshin, lyrics by Dan Kallis.
-It had an uplifting feel similar to a musical, and symbolized McDonald's as a "healing" in a consumer society.
+It had the uplifting feeling of a musical, and symbolized McDonald's as a "healing" in a consumer society.
 
 > ♪ "You deserve a break today, so get up and get away—to McDonald"s!"
 
-This song was sold as a single in the United States and was an unusual hit, entering the radio charts.
+This song was an unusual hit, selling as a single in the United States and entering the radio charts.
 It was the first time fast food commercials entered the realm of pop music.
 
 ### 1-2 Linkage with the music industry: From advertising to hit songs
@@ -70,7 +70,7 @@ Burger King's music strategy has always been based on the themes of **rebellion 
 The unit that worked on Beastie Boys and Beck uses a novel method of carving out product descriptions as rhythms.
 
 ### 2-2 Example of participation of foreign commercial musicians
-- **Mark Mothersbaugh** (Devo): Provided guitar and synth sounds in US commercials in the late 90s.
+- **Mark Mothersbaugh** (Devo): Provided guitar + synth sounds in US commercials in the late 90's
 - **Daft Punk**: Responsible for rhythm composition and electro arrangement for limited European commercials
 
 ---
@@ -105,7 +105,7 @@ Early introduction of the concept of "music supporting taste."
 ## Chapter 5 Redefining the digital age: "Sound brand power" conveyed in 5 seconds (2010-2020s)
 
 ### 5-1 Reconstruction of sound logo
-- McDonald's: Universal pentatonic jingle (supervised by Pharrell, Hiroshi Kawabe)
+- McDonald's: Universal pentatonic jingle (supervised by Pharrell and Hiroshi Kawabe)
 - Change tempo/key arrangement for each country
 
 ### 5-2　Trend of SNS x artist collaboration

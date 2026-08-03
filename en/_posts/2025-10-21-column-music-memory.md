@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: Memory and Rhythm — Music as a "structure of time"
 
 The most fundamental structure of music is **rhythm**.
-Rhythm is the order of time, and through repetition it brings the past back into the present.
+Rhythm is the order of time, and through repetition it brings the "past" back into the present.
 Festivals, prayers, and dances. All of these are acts of experiencing the circle of time.
 
 Carving out a rhythm is the very act of consolidating memory.
@@ -60,7 +60,7 @@ Spotify playlists are also just a new format.
 
 ## Chapter 2: Recording and Playback — Birth of "Recorded Time"
 
-At the beginning of the 20th century, when **Edison's phonograph** appeared, humans were able to reproduce the ""sounds of the past'' for the first time.
+At the beginning of the 20th century, when **Edison's phonograph** appeared, humans were able to reproduce the sounds of the past for the first time.
 It was a revolution in the history of music, and at the same time it was the birth of ""technology to preserve time.''
 
 Records, tapes, CDs, MP3s, and streaming.
@@ -91,11 +91,11 @@ The phenomenon of ""nostalgic melodies" being revived on Spotify and YouTube is 
 In the past, the moment a person selected a record and dropped the needle, there was a ""rebirth of memory.''
 However, in modern times, AI predicts our ""mood'' based on our past playback history.
 
-Spotify"s ""Discover Weekly" and Apple Music"s ""Personal Mix" are attempts at algorithmic memory editing.
+Spotify"s Discover Weekly and Apple Music"s Personal Mixes are attempts at algorithmic memory editing.
 But there is also danger lurking there.
-We may be listening to "memory as data" rather than "our own memory."
+We may be listening to ""memory as data" rather than ""our own memory."
 
-> Human nostalgia is being externalized by algorithms.
+> Human nostalgia is externalized by algorithms.
 
 At this time, music becomes not an individual's internal memory, but a network memory (collective digital memory).
 
@@ -121,7 +121,7 @@ It has been supported by "shared music" such as the national anthem and school a
 However, in modern times, ""collective memory'' is born on the floors of festivals and clubs, not in countries.
 The moment people listen to the same song in a crowd, they transcend the individual and connect to a ""sound community.''
 
-It is a new "ritual" of the 21st century and a renewal of memory.
+It is a new "ritual" for the 21st century and a renewal of memory.
 
 ---
 
@@ -180,7 +180,7 @@ flowchart TD
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]
-    D --> F[emotional reaction]
+    D --> F[emotional response]
     E --> G[Re-experiencing the past through music]
     F --> G
     G --> H[Generation of nostalgia]

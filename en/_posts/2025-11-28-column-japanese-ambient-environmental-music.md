@@ -23,7 +23,7 @@ In the late 2010s, "Japanese Ambient" and "Japanese Environmental Music" began t
 However, there are important points that cannot be explained by these factors alone.
 
 This is the fact that Japan's ""environmental music'' in the 1980s was born from a different cultural soil than ambient music around the world.
-While Western ambient music (beginning with Brian Eno) aimed at "sounds that melt into the background without stealing attention," Japanese environmental music was closely connected to ""urban planning, architecture, commercial spaces, product design, art, consumer electronics culture, and philosophy of life.''
+While Western ambient music (beginning with Brian Eno) aimed at ""sounds that melt into the background without stealing attention," Japanese environmental music was closely connected to ""urban planning, architecture, commercial spaces, product design, art, consumer electronics culture, and philosophy of life."
 
 The following composers were at the center of this.
 
@@ -49,13 +49,13 @@ color: #fff;
 </style>
 
 
-# **Chapter 1: Formation of the concept of "environmental music" in Japan**
+# **第1章：日本における「環境音楽」という概念の形成**
 
 ## ● 1-1. 1970s: Experimental ground for electronic music and contemporary music
 
 The emergence of Japanese ambient music paralleled the development of electronic music studios in the 1970s. Many universities and research institutes were researching electronic acoustics, tape music, and musique concrète, and at the same time, ""sound installations'' increased in the field of contemporary art.
 
-While studying spatial art at an art university, Hiroshi Yoshimura began creating works that linked the environment and sound from an early stage, and was also involved in acoustic planning for public spaces.
+While studying spatial art at an art university, Hiroshi Yoshimura began producing works that linked the environment and sound from an early stage, and was also involved in acoustic planning for public spaces.
 
 Japanese ambient music is characterized by being formed at the intersection of these **arts, sound engineering, and urban planning**.
 
@@ -66,7 +66,7 @@ Japanese ambient music is characterized by being formed at the intersection of t
 In the early 1980s, MUJI aimed at ""music for consumers" and planned a series of ""environmental music" for store spaces.
 Haruomi Hosono and others participated in this series, which triggered a major change in the role of sound in commercial spaces.
 
-The feature was that it not only functioned as store background music, but was also designed to be of high quality.
+The feature was that it not only functioned as store background music, but also sought to be of high quality as a work.
 
 ---
 
@@ -76,7 +76,7 @@ In the 1980s, Japan experienced rapid economic growth and urbanization, but in t
 
 - white wall
 - Minimal design using wood
-- "Beauty of simplicity" symbolized by MUJI
+- 無印良品に象徴される「簡素の美」
 - Zen space design
 
 These environmental philosophies were linked to music and formed the basis for Japan's unique "environmental music."
@@ -95,7 +95,7 @@ Hiroshi Yoshimura (1940–2003) is the most important composer when talking abou
 
 ## ● Representative works
 - **《Music For Nine Post Cards》(1982)**
-It was created with the exhibition space of an art museum in mind. Transparent piano/synth phrase.
+  美術館の展示空間を想定して制作された。透明なピアノ/シンセのフレーズ。
 - **《Green》(1986)**
 One of the most highly rated works. A fusion of natural sounds and soft electronic sounds.
 - **《Soundscape》 series (1986~)**
@@ -112,16 +112,16 @@ We pursued "sound that changes the nature of the space, not just for appreciatio
 
 ---
 
-# **2-2. Midori Takada - Music of time and space drawn by percussion instruments**
+# **2-2. 高田みどり ― 打楽器が描く時間と空間の音楽**
 
-Midori Takada (1951–) has gained worldwide acclaim as a Japanese percussionist and composer.
+高田みどり（1951–）は、日本の打楽器奏者／作曲家として世界的評価を得ている。
 
 ## ● Representative works
 - **《Through the Looking Glass》(1983)**
 A masterpiece that uses percussion instruments, marimba, voice, and ethnic instruments.
 - **《Lunar Cruise》(1989 / co-written with Ryo Kamomiya)**
 
-## ● Musical features
+## ● 音楽的特徴
 - Minimal structure
 - Spatial handling of percussion instrument reverberations
 - Applying the structure of gamelan African music
@@ -148,7 +148,7 @@ After recurrence, the patient was reevaluated overseas.
 
 ---
 
-# **2-4. Inoyama Land - Pastoralism and landscape description of electronic sounds**
+# **2-4. Inoyama Land - Pastoral and landscape description of electronic sounds**
 
 The duo ""Inoyamaland'' consisting of Yasushi Yamashita and Makoto Inoue has a unique style that straddles the line between techno pop and environmental music.
 
@@ -177,7 +177,7 @@ Equipment that was often used (within the range that can be confirmed as fact)
 - Field recorder (cassette/reel-to-reel)
 
 ## ● 3-2. Home recording and home studio culture
-Home recording equipment became widespread in Japan early on, and many composers conducted experimental sound production at home.
+Home recording equipment became widespread in Japan from an early stage, and many composers conducted experimental sound production at home.
 This was a major feature compared to Europe and America, and became the background for the deepening of environmental music on an individual level.
 
 ## ● 3-3. Cooperation with acoustic design and architecture
@@ -190,7 +190,7 @@ Hiroshi Yoshimura and Inoyama Land also participated in the acoustic design of a
 ## ● 4-1. MUJI, PARCO, department store BGM
 
 Commercial facilities in Tokyo in the 1980s focused on music design,
-"Acoustics that improve the quality of life"
+“生活の質を上げる音響”  
 was raised as a theme.
 
 In this context, environmental music went beyond mere background music and became an element that shaped the impression of the space.
@@ -223,7 +223,7 @@ This created a global listener base.
 
 ## ● 5-3. Influence on modern ambient music
 
-Many of the ambient composers of the 2020s cite Japan's 1980s environmental music as an influence.
+Many ambient composers of the 2020s cite Japan's 1980s environmental music as an influence.
 
 The reason is
 **Unique acoustic aesthetics that harmonizes melody and silence**
@@ -236,10 +236,10 @@ This is because it is extremely modern.
 | Year | Events |
 |----|--------|
 | 1970s | Development of electronic music and sound art |
-| 1975 | Hiroshi Yoshimura is involved in environmental music planning |
+| 1975 | Hiroshi Yoshimura becomes involved in environmental music planning |
 | 1980 | MUJI begins preparations for environmental music series |
 | 1982 | Hiroshi Yoshimura《Music For Nine Post Cards》 |
-| 1983 | Midori Takada《Through the Looking Glass》, Inoyama Land《Danzindan-Pojidon》 |
+| 1983 | 高田みどり《Through the Looking Glass》、イノヤマランド《Danzindan-Pojidon》 |
 | 1986 | Hiroshi Yoshimura《Green》 |
 | 1987 | Takashi Kokubo《A Dream Sails Out To Sea》 |
 | 1990s | Distribution of some works stopped / On the eve of re-evaluation |
@@ -255,7 +255,7 @@ graph LR
     MUJI[MUJI<br>Environmental music project] --> YH[Hiroshi Yoshimura]
     YH --> JP[Establishment of 80s environmental music]
     MT[Midori Takada] --> JP
-    TK[Takashi Kokubo] --> JP
+    TK[小久保隆] --> JP
     INO[Inoyama Land] --> JP
     JP --> RE[2010s re-evaluation]
     RE --> WW[global ambient boom]
@@ -272,17 +272,17 @@ It is.
 
 - Intermediate area between art and music
 - Response to urbanization
-- Lifestyle culture and home appliance technology
-- Synthesizer innovation
+- 生活文化と家電テクノロジー  
+- シンセサイザーの革新  
 - Collaboration with spatial design
 
 All of these were present in Japan in the 1980s.
 
 The world has reevaluated the
-**Not only the beauty of the music itself, but also the unique Japanese philosophy contained within it**
+**Not only the beauty of the music itself, but also the unique Japanese philosophy that resides within it**
 It is.
 
-Ambient music continues to have new meanings around the world, and the works from the 1980s that gave rise to it are likely to remain an important foundation of music history.
+Ambient music continues to have new meanings around the world, and the works from the 1980s that gave rise to it will continue to remain an important foundation of music history.
 
 ---
 

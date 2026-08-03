@@ -15,7 +15,7 @@ title: Elvis - I Really Don't Want To Know
 
 "I Really Don't Want To Know" was originally written by Don Robertson and Howard Barnes and released in 1953.
 
-It has been covered by many artists including Les Paul & Mary Ford, Andy Williams, Eddie Arnold, Johnny Rodriguez, Tommy Edwards, Ronnie Dove, Jason & the Scorchers, Anne Murray, and Jerry Lee Lewis.
+It has been covered by many artists including Les Paul and Mary Ford, Andy Williams, Eddie Arnold, Johnny Rodriguez, Tommy Edwards, Ronnie Dove, Jason and the Scorchers, Anne Murray, and Jerry Lee Lewis.
 
 This Elvis version was released by RCA Victor in 1971.
 

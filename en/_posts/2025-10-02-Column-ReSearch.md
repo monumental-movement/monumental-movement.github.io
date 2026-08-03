@@ -17,7 +17,7 @@ title: '[Column] RE/Search: Magazines that record subcultures and their cultural
 
 ## V. Vale and RE/Search: Subculture Explorer
 
-Text: mmr｜Theme: About "RE/Search", a historical archive of subcultures and cultural heritage that records music, movies, and art across the board.
+Text: mmr｜Theme: About "RE/Search", a historical archive of subcultures and a cultural heritage that cross-sectionally records music, movies, and art
 
 
 V. Vale is a publisher and editor based in San Francisco since the late 1970s. His works Search & Destroy and RE/Search became important archives that systematically recorded underground culture.
@@ -133,7 +133,7 @@ Experimental groups such as Survival Research Laboratories and Other Cinema gath
 
 ### summary
 
-V. Vale's RE/Search is more than just a magazine; it is a historical archive of subculture, and a cultural heritage that cross-cuts music, film, and art. He continues to explore a wide range of fields, from industrial to modern primitives, from cult films to cyberpunk, and his influence continues to ripple all over the world.
+V. Vale's RE/Search is more than just a magazine; it is a historical archive of subculture, and a cultural heritage that cross-cuts music, film, and art. From industrial to modern primitives, cult films to cyberpunk, he continues to explore a wide range of fields, and his influence continues to be felt all over the world.
 For researchers and underground culture enthusiasts, RE/Search is a must-read.
 
 ---

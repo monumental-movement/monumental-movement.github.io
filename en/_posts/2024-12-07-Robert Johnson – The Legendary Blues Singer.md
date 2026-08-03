@@ -13,7 +13,7 @@ title: Robert Johnson – The Legendary Blues Singer
 
 Robert Johnson is a master of the blues and delta blues style, known as one of the most influential musicians of the 20th century.
 
-The sound sources he left behind in two recordings from 1936 to 1937 had a great influence on future generations of musicians.
+The sound source he left behind in two recordings from 1936 to 1937 had a great influence on future generations of musicians.
 
 "The Legendary Blues Singer" is a compilation album of Robert Johnson's famous songs.
 

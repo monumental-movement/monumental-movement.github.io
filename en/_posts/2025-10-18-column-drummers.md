@@ -47,7 +47,7 @@ color: #fff;
 ## Introduction: What is rhythm? A cultural history of blowing and breathing
 
 Percussion instruments are the beginning of music and the heartbeat of the world.
-The drums in African villages are a substitute for words, and the Latin American congas are a continuation of prayer.
+The drums in African villages are a substitute for words, and the Latin American conga is a continuation of prayer.
 And in cities after the Industrial Revolution, it became synchronized with the rhythm of machines.
 The drum set was born in the early 20th century.
 The combination of snare, kick, and hi-hat was designed as an extension of human limbs,
@@ -123,14 +123,14 @@ European experimental drummers have criticized rhythm as a "philosophy."
 
 Greg Fox (ex-Liturgy) is a fusion of black metal and improvisation.
 Deantoni Parks (The Mars Volta) plays the sampler with one hand and the snare with the other.
-Use your body to solve the 21st century challenge of ""coexistence of humans and machines.''
+Use your body to solve the 21st century challenge of "coexistence of humans and machines."
 Their performance lies somewhere between religious ritual and technology.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chapter 2: The heartbeat of Japan — Rhythms that connect above and below ground
+## Chapter 2: The Heartbeat of Japan — Rhythms that connect above and below ground
 
 ### 2-1. After Ponta — From craftsman to thinker
 

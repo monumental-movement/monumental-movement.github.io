@@ -12,7 +12,7 @@ title: Steve Angello – Voices
 ---
 
 
-Steve Angello is a Greek-Swedish DJ, record producer, and remixer.
+Steve Angello（スティーブアンジェロ）は、ギリシャ系スウェーデン人の DJ・レコードプロデューサー・リミキサー。
 
 Steve Angello is a member of the Swedish House Mafia, along with Axwell and Sebastian Ingrosso.
 

@@ -21,7 +21,7 @@ Text: mmr｜Theme: About Dreamwave/Chill Synthwave, a music genre that does not 
 
 Dreamwave and Chill Synthwave are musical styles derived from synthwave that have become clear since the 2010s. While it is based on the synthesizer culture, visual aesthetics, and urban nostalgia of the 1980s, it is distinctive in that it suppresses aggression and retro-futuristic exaggeration, and emphasizes emotion, resonance, and introspection. These are more like aesthetic intentions and design ideas for the listening experience than genres.
 
-Dreamwave has a strong tendency to construct sound images with psychological themes such as fantasy, memory, and dreaming, while Chill Synthwave can be understood as a form that simplifies the tempo and structure and enhances the listenability that blends into living spaces. The two overlap, reinterpreting the ""80s emotion"' in today"s digital environment.
+Dreamwave has a strong tendency to construct sound images with psychological themes such as fantasy, memory, and dreaming, while Chill Synthwave can be understood as a form that simplifies the tempo and structure and enhances the listening experience to blend into living spaces. The two overlap, reinterpreting the ""80s emotion"' in today"s digital environment.
 
 > Both styles do not have clear boundaries and exist continuously, centered around emotional design.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 The 1980s was a period of transition from analog to digital, and the vocabulary of electronic music expanded explosively with the spread of polyphonic synthesizers, FM sound sources, and the MIDI standard. At the same time, the expanding role of home video, cable television, and film music created a strong connection between music and images.
 
-Around 2010, as the Internet sharing culture matured, past video, sound sources, and design assets began to be recirculated. In this trend, the sound image of the 1980s was not just nostalgic, but became an object to be reconstructed with modern sensibilities. Dreamwave / Chill Synthwave is formed as a reinterpretation that focuses on "scenic memory" in particular.
+Around 2010, as the Internet sharing culture matured, past video, sound sources, and design assets began to be recirculated. In this trend, the sound image of the 1980s was not just nostalgic, but became an object to be reconstructed with modern sensibilities. Dreamwave / Chill Synthwave is formed as a reinterpretation that focuses on "scene memory" in particular.
 
 > The 1980s referred to here is more of a collective memory than an actual era.
 
@@ -89,7 +89,7 @@ C --> D[emotional listening]
 
 FM-84 is positioned as one of Dreamwave's representative projects. Characterized by transparent synth pads, lyrical melodies, and restrained beat structures, the songs are often associated with nightscapes and a sense of movement.
 
-FM-84"s work references 80"s AOR and film music sensibilities, but uses modern mixing to avoid an overly retro feel. This creates nostalgia and presentness at the same time.
+FM-84"s work references 80"s AOR and film music sensibilities, while avoiding an overly retro feel through modern mixing. This creates nostalgia and presentness at the same time.
 
 > FM-84 established Dreamwave as emotional music.
 
@@ -103,7 +103,7 @@ FM-84"s work references 80"s AOR and film music sensibilities, but uses modern m
 
 Timecop1983 is an artist with strong Chill Synthwave aspects, and is characterized by a simple structure and soft sound image. Rhythm is kept to a minimum, with the melody and chord progression taking center stage.
 
-Although Timecop1983's music is BGM-like, it is designed so that if you listen carefully, you will be able to discern minute changes in tone and harmonic choices.
+Timecop1983's music is designed to sound like background music, but if you listen carefully, you will be able to discern subtle changes in tone and harmonic choices.
 
 > The essence of Chill Synthwave is that it blends into the listener's daily life.
 
@@ -113,7 +113,7 @@ Although Timecop1983's music is BGM-like, it is designed so that if you listen c
 
 Dreamwave/Chill Synthwave tends to be consumed as ambient music rather than intensive listening. They are often placed in gaps in daily life, such as during night work, transportation, and rest time.
 
-This can be achieved with either headphones or speakers, but since the expansion of the stereo space is particularly important, a playback environment with high spatial reproducibility is preferred.
+This can be achieved with either headphones or speakers, but since stereo spatial expansion is particularly important, a playback environment with high spatial reproducibility is preferred.
 
 > This music doesn't divide time, it embraces it.
 
@@ -135,7 +135,7 @@ This can be achieved with either headphones or speakers, but since the expansion
 
 ## Summary: Meaning in modern times
 
-Dreamwave / Chill Synthwave is not an attempt to recreate past musical styles, but a cultural practice that reorganizes memory, emotion, and visual sensation. There, the 1980s is the material, not the purpose.
+Dreamwave/Chill Synthwave is not an attempt to recreate past musical styles, but a cultural practice that reorganizes memory, emotion, and visual sensation. There, the 1980s is the material, not the purpose.
 
 The reason this style is popular is that in today's information-rich society, there is a need for music that does not make excessive statements. Dreamwave/Chill Synthwave exists in response to that demand.
 

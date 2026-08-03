@@ -18,7 +18,7 @@ title: '[Column] Avant-Garde Jazz—a movement that dismantled structure and red
 
 ## Prologue: The moment when jazz stepped into the "unknown"
 
-Text: mmr｜Theme: On the essence of Avant-Garde Jazz, which is often distanced from the mainstream as a music of solution.
+Text: mmr｜Theme: On the essence of Avant-Garde Jazz, which is often distanced from others as a music of solution.
 
 
 In the mid-20th century, jazz seemed like a mature music. There were distinct styles: swing, bebop, and hard bop, and a shared language of chord progressions, time signatures, and solo structures. However, in the late 1950s, a movement began to doubt this very premise, quietly but surely. Does music really need to follow harmony and form? How free can improvisation be? The movement that would later be called ""Avant-Garde Jazz'' was born from these questions.
@@ -64,7 +64,7 @@ Ornette Coleman is the most emblematic of the starting point of avant-garde jazz
 
 ### Innovation of the early quartet
 
-Coleman's quartet, formed in the late 1950s, is characterized by its lack of a piano. This choice was made to weaken the harmonic dominance and allow each player to make melodic decisions directly. The composition of trumpet, alto saxophone, bass, and drums created a place where everyone could simultaneously become the subject of improvisation.
+Coleman's quartet, formed in the late 1950s, is characterized by its lack of a piano. This choice was made to weaken the harmonic control and allow each player to make melodic decisions directly. The composition of trumpet, alto saxophone, bass, and drums created a place where everyone could simultaneously become the subject of improvisation.
 
 ### Representative recording analysis: [The Shape of Jazz to Come (1959)](https://amzn.to/49KxOLD)
 
@@ -117,13 +117,13 @@ Sun Ra is a person who liberated avant-garde jazz from the framework of music an
 
 ### A community called Arkestra
 
-The Sun Ra Arkestra did not have a fixed composition, and the number of members and the composition of instruments changed depending on the period. This fluidity is directly connected to his musical philosophy, which centers on collective improvisation. Individual performances are free, but the overall performance maintains a sense of ritual unity.
+The Sun Ra Arkestra did not have a fixed composition, and the number of members and instrumentation changed depending on the period. This fluidity is directly connected to his musical philosophy, which centers on collective improvisation. Individual performances are free, but the overall performance maintains a sense of ritual unity.
 
 ### Representative recording analysis: [The Magic City (1966)](https://amzn.to/3LGlHWG)
 
 In this recording, tonality and meter have little meaning. Fragmented phrases, noise-like sounds, and sudden group performances appear alternately. What is important is that the music does not progress linearly.
 
-Repeated short motifs change the listener's sense of time and lead the music into a cyclical experience. Improvisation functions as a collective ritual rather than a display of individual skill.
+The repeated short motifs change the listener's sense of time and lead the music into a cyclical experience. Improvisation functions as a collective ritual rather than a display of individual skill.
 
 ### Cosmic thought and musical structure
 
@@ -145,11 +145,11 @@ The characteristics of European improvisation are its handling of tone and space
 
 ## Social background: 1960s era
 
-The development of avant-garde jazz is inseparable from the social conditions of the 1960s. The civil rights movement, the anti-war movement, and the questioning of existing authority had a strong influence on the consciousness of musicians. This rejection of form and norms was as much a political gesture as it was a musical choice.
+The development of avant-garde jazz cannot be separated from the social conditions of the 1960s. The civil rights movement, the anti-war movement, and the questioning of existing authority had a strong influence on the consciousness of musicians. This rejection of form and norms was as much a political gesture as it was a musical choice.
 
-Many avant-garde jazz performers distance themselves from commercialism and establish independent labels or cooperatives. This was a practice to protect the freedom of performance, and an action to question the very nature of music.
+Many avant-garde jazz performers distance themselves from commercialism and establish their own labels or cooperatives. This was a practice to protect the freedom of performance, and an action to question the very nature of music.
 
-> Avant-garde jazz is also a movement that reflects social changes through sound.
+> Avant-garde jazz is also a movement that reflects social changes in sound.
 
 ---
 
@@ -187,9 +187,9 @@ timeline
 
 ## Subsequent influences: Expansion of improvised music
 
-Avant-garde jazz had a major influence on later free improvisation, noise, and experimental music. Even in the fields of rock and electronic music, the idea of ​​liberation from form has been inherited.
+Avant-garde jazz had a major influence on later free improvisation, noise, and experimental music. The idea of ​​freedom from form has been inherited in the fields of rock and electronic music as well.
 
-What is particularly important is that he positions improvisation as an expression that is not bound by a specific usage. This has implications that transcend musical genres.
+What is particularly important is that he positions improvisation as an expression that is not tied to a specific usage. This has implications that transcend musical genres.
 
 > Avant-garde jazz is an idea that continues to be updated even today.
 
@@ -200,7 +200,7 @@ What is particularly important is that he positions improvisation as an expressi
 Avant-Garde Jazz is often dismissed as difficult music. However, its essence was an attempt to liberate music from fixed forms and reconsider it as a momentary creation.
 
 
-> Ornette Coleman, Cecil Taylor, Sun Ra and others have shown that freedom is not born from disorder but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
+> Ornette Coleman, Cecil Taylor, Sun Ra and others have shown us that freedom is not born from disorder, but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
 
 ---
 

@@ -16,7 +16,7 @@ title: Life – Never EP
 
 Life is the alias used by UK techno stalwart Oliver Ho on his releases on Cosmic Records' Cosmic ID division. The tracks under the name Life are characterized by deep tribal techno.
 
-"Never EP" is a Tribal/Techno/Minimal track released in 2001.
+「Never EP」は、2001年にリリースされたTribal／Techno／Minimalトラック。
 
 #### Tracklist
 ```md

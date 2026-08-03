@@ -23,9 +23,9 @@ Text: mmr｜Theme: Examining changes in musical expression from the narrated aya
 
 
 Ayahuasca is not a device that produces music. It is a ritual system that has been formed over a long period of time in the Amazon basin of South America, and it is not an experience that is completed only within an individual.
-Nevertheless, in the contemporary musical context, ayahuasca has been talked about simply as a ""source of creativity" and ""an opportunity for awakening." However, when we follow the words of the musicians who have spoken about their experiences, we find that their narratives are surprisingly cautious, fragmented, and distanced.
-They do not recount visions or revelations in detail. Do not conclude a causal relationship with the work. What is spoken instead are lingering effects that cannot be translated, such as changes in sensation, the expansion and contraction of time, and changes in the way we deal with sound.
-This article is not about experience itself. What we examine is the attitude of musicians in how they talk about their experiences and where they stop talking.
+Nevertheless, in the contemporary musical context, ayahuasca has been talked about simply as a ""source of creativity" and ""an opportunity for awakening." But when we follow the words of the musicians who have spoken about their experiences, we find that their narratives are surprisingly cautious, fragmented, and distanced.
+They do not recount visions and revelations. Do not conclude a causal relationship with the work. What is spoken instead are lingering effects that cannot be translated, such as changes in sensation, the expansion and contraction of time, and changes in the way we deal with sound.
+This paper is not concerned with the experience itself. What we examine is the attitude of musicians in how they talk about their experiences and where they stop talking.
 
 >More than experience, the distance of storytelling has left a mark on music history.
 
@@ -72,12 +72,12 @@ The repetitive rhythm and celebratory nature of late Boredoms and OOIOO cannot b
 
 ---
 
-## Chapter 4: Reflective Testimony of Maynard James Keenan
+## Chapter 4: The Reflective Testimony of Maynard James Keenan
 
-Tool's Maynard James Keenan mentions ritual experiences, including ayahuasca, but his narrative is consistently reflective. The experience is described not as a revelation but as a process of confronting fear and self-deception.
+Tool's Maynard James Keenan mentions ritual experiences, including ayahuasca, but his narrative is consistently reflective. The experience is not described as a revelation but as a process of confronting fear and self-deception.
 Tool's themes of circular structure and transformation have been discussed not as a depiction of an experience, but as a post-experience perspective.
 
-> Maynard's account treats experience not as a symbol but as a technique of reflection.
+> Maynard's account treats experience not as a symbol but as a technique of introspection.
 
 ---
 

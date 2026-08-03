@@ -39,7 +39,7 @@ color: #fff;
 
 1. [Foundation and Background](#beginning)
 2. [Introduction of album and project](#album)
-3. [Singeli](#singeli)
+3. [シンゲリ（Singeli）](#singeli)
 4. [Acolitronix](#acholitronix)
 5. [Electro Maloya](#electro-maloya)
 6. [Anecdotes and legends](#story)
@@ -124,11 +124,11 @@ flowchart TD
 
 #### Connection with dance
 
-- Singeli is not only about music, but also integrated with the dance experience.
+- Singeli integrates not only music but also the dance experience.
 
 - Complex footwork to match the high-speed beat
 
-- Improvisation through collaboration with the audience
+- 観客との呼応による即興性
 
 - Important community building at festivals and clubs
 
@@ -182,7 +182,7 @@ flowchart TD
     B --> C["Electronic music fusion in urban areas"]
     C --> D["Introduced in Nyege Nyege Tapes"]
     D --> E["Impromptu performance at clubs and festivals"]
-    E --> F["International attention and collaboration"]
+    E --> F["国際的注目とコラボレーション"]
 
 </div>
 
@@ -194,7 +194,7 @@ flowchart TD
 
 - Bridging urban and local culture
 
-- Promoting African music on the international stage
+- 国際舞台でのアフリカ音楽発信
 
 
 ---
@@ -235,7 +235,7 @@ Electro Maloya is an experimental style that recreates the traditional music of 
 
 | Features | Details |
 | ---- | ------------------------ |
-| BPM | 100-140BPM, slow rhythm of traditional Maloya |
+| BPM | 100-140BPM, traditional Maloya slow rhythm |
 | Rhythm | Looping percussion polyrhythm |
 | Melody | Synth reconstruction of traditional melody and chorus |
 | Vocal | Mainly chorus, sampling + reverb |
@@ -273,7 +273,7 @@ These styles play an important role in Nyege Nyege Tapes" reinterpretation of Af
 
 #### Performance and Experience
 
-- A fusion of tradition and modernity: a live performance where traditional percussion instruments and electronic music coexist.
+- A fusion of tradition and modernity: A live performance where traditional percussion instruments and electronic music coexist.
 
 - Linked with dance: You can improvise dance according to the polyrhythm while using a relaxed BPM.
 
@@ -293,7 +293,7 @@ flowchart LR
 
 #### Electro Maloya (Summary)
 Electro Maloya is an experimental genre that reconstructs traditional Maloya music with electronic music.
-It is attracting worldwide attention as a musical style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
+歴史の継承、文化的再解釈、都市クラブ文化との融合、国際発信を同時に担う音楽スタイルとして、世界的に注目されています。
 
 ---
 
@@ -305,7 +305,7 @@ It is attracting worldwide attention as a musical style that simultaneously carr
 
 - Youth culture self-expression and community building
 
-- Attention to African music worldwide through international dissemination
+- Attracting global attention to African music through international dissemination
 
 
 ---
@@ -323,7 +323,7 @@ Nyege Nyege continues to lead the African music scene through his record label N
 
 ---
 
-### <a id="youtube"></a>Recommended YouTube links
+### <a id="youtube"></a>おすすめYouTubeリンク
 
 Below are some recommended YouTube links related to Nyege Nyege:
 
@@ -348,7 +348,7 @@ Below are some recommended YouTube links related to Nyege Nyege:
 ### <a id="conclusion"></a>Summary
 
 Nyege Nyege is an important music group that disseminates "outsider music" that fuses traditional African music and modern electronic music to the world. The label Nyege Nyege Tapes is at the forefront of promoting the fusion of traditional African music and electronic music, including Shingeli, Akolitronics, Electro Maloya, etc.
-We have established a unique position in the world music scene by simultaneously preserving local culture, expressing urban and youth culture, and disseminating it internationally. Their activities remind us of the importance of not only music, but also cultural diversity and social inclusion. We will continue to keep an eye on their music and activities.
+We are simultaneously responsible for preserving local culture, expressing urban and youth culture, and disseminating it internationally, and have established a unique position in the world music scene. Their activities remind us of the importance of not only music, but also cultural diversity and social inclusion. We will continue to keep an eye on their music and activities.
 
 ---
 

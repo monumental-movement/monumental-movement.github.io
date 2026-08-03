@@ -20,11 +20,11 @@ title: '[Column] DJ Harvey and record collection: DJ as a body that lives "sound
 Text: mmr｜Theme: Not just a DJ, but a consideration of the last "shaman" of the analog era
 
 
-DJ Harvey - Just hearing that name makes many club freaks' faces go slack.
-Co-founder of the legendary London club **Tonka Sound System**, he rose to fame in the 90s as a resident at **Ministry of Sound**, moved to **Ibiza** in the 2000s, and is now based in **Los Angeles**.
+DJ Harvey - just hearing that name makes many club freaks' faces go slack.
+Co-founder of the legendary London club **Tonka Sound System**, he rose to fame in the 90s as a resident at **Ministry of Sound**, moved to **Ibiza** in the 2000s, and is currently based in **Los Angeles**.
 
 Harvey says. "Records are fragments of my soul. When the needle drops, God dwells there."
-These words tell us everything about his view of DJing. In the 21st century, where digitalization has progressed, he still believes in ""music as a substance''. That faith is what makes DJ Harvey a legend.
+These words tell us everything about his view of DJing. In the 21st century, where digitalization has advanced, he still believes in ""music as a material''. That faith is what makes DJ Harvey a legend.
 
 ---
 
@@ -45,10 +45,10 @@ color: #fff;
 ## Chapter 1: The era when records are "alive"
 
 London in the 1980s. Harvey was immersed in street culture through skateboarding and punk. However, he eventually started frequenting record stores and became obsessed with the charm of 12-inch singles.
-At that time, records were not just a sound source, but a culture that could be accessed. The texture of the jacket, the smell of the liner notes, the depth of the cut. All of that was part of the "musical experience."
+At that time, records were not just a sound source, but a culture that could be touched. The texture of the jacket, the smell of the liner notes, the depth of the cut. All of that was part of the "musical experience."
 
 The first album he bought was **Grace Jones' ""Pull Up to the Bumper''**.
-The moment his body moved to that bassline, Harvey realized his destiny as a DJ.
+The moment his body moved to that bass line, Harvey realized his destiny as a DJ.
 
 > "For me, records are like breathing. I breathe in sound and let it out. That's it."
 
@@ -63,7 +63,7 @@ For him, a record is ""the act of keeping a record of someone else's life.''
 Wandering around markets and flea markets, digging up dusty records. There are not only sounds but also **traces of time** engraved there.
 
 Harvey says, "The more a record has human fingerprints on it, the more alive the sound is."
-His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and even Hawaiian AOR.
+His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and Hawaiian AOR.
 The selection of songs is not random, but based on an intuition of reading the ""airflow of sound''.
 
 His DJ bag is like a travel journal. Each record contains memories of some night.
@@ -73,7 +73,7 @@ His DJ bag is like a travel journal. Each record contains memories of some night
 ## Chapter 3: London - Ibiza - LA, a moving record box
 
 Harvey's records have always been on the move.
-From underground clubs in London to **Pikes Hotel** in Ibiza to warehouse events in LA.
+From London"s underground clubs to Ibiza"s **Pikes Hotel** to LA's warehouse events.
 As cities change, so do the sounds. He reconfigures the set to suit the mood.
 
 During his time in Ibiza, Harvey redefined the word 'Balearic'.
@@ -93,7 +93,7 @@ The series of movements is like a dance.
 
 He places emphasis on ""grooves in which humans can shift, rather than grooves calculated by computers.''
 That's why his play is always **raw**. At the same time, this is the same root of his record collecting philosophy.
-Distortion, noise, and scratch sounds on the disc. Accept everything as **"physicality of music"**.
+Distortion, noise, and scratch sounds on the disc. Accept everything as **"the physicality of music"**.
 
 > "The scars of the sound are beautiful."
 
@@ -121,7 +121,7 @@ DJ Harvey recently said in an interview:
 > "I"m not a "collector' anymore. I just live with music."
 
 In these words, there is the **freedom** that I have reached at the end of my DJ career of over 40 years.
-Collecting records was not an act of "owning" music, but rather a way of living time together.
+Collecting records was not an act of ""owning'' music, but rather a way to **live time together**.
 
 The walls of his house are lined with analog records. However, they are by no means static archives.
 Every time Harvey drops the needle, the time on the board comes to life again.
@@ -186,7 +186,7 @@ flowchart TD
 
 ## Conclusion
 
-DJ Harvey plays the records of the past as the sounds of the future.
+DJ Harvey plays records from the past as the sounds of the future.
 Among these techniques is the magic of manipulating the **time device** called music.
 His existence is not a revival of analog in the digital age;
 **This is a redefinition of ""living music'' itself**.
@@ -224,10 +224,10 @@ flowchart TD
     A["Record Digging Start<br>(Travel destination/local market)"]
     B["Used record store search<br>(emphasis on dialogue with store owners)"]
     C["Preview & Intuitive Judgment of Jacket"]
-    D["Selected based on the 'air' of the sound (sensation rather than genre)"]
+    D["Selected based on the 'air' of the sound (feeling rather than genre)"]
     E["Trade with local DJs<br>(exchange each other's records)"]
-    F["Reorganized after returning to Japan (classified by climate and time zone)"]
-    G["Introducing the club set into practice<br>(verifying the adaption of the board to the field)"]
+    F["Reorganized after returning to Japan (classified by climate and time of day)"]
+    G["Practical use of club set<br>(Verifying board's "field" adaptation)"]
     H["Archive / Re-recording / Edit production"]
 
     A --> B --> C --> D --> E --> F --> G --> H
@@ -239,7 +239,7 @@ flowchart TD
 Harvey's digging behavior is a process of journey and encounter.
 He always searches for records to absorb the "local flavor."
 It is said that temperature, humidity, and even the color of the light affect the sense of song selection.
-The disc I found in the desert in LA and the disc I found in Shimokitazawa, Tokyo are the same set.
+The disc I found in the LA desert and the disc I found in Shimokitazawa, Tokyo are the same set.
 That is the essence of Harvey's Balearic philosophy.
 
 ---
@@ -271,7 +271,7 @@ This diagram visually shows how Harvey is "keeping the sound alive."
 ## Summary
 
 Through these, Harvey's DJ philosophy becomes clear.
-This means that it is not just a matter of playing music, but an act of tuning time, body, and space.
+It is not just music reproduction, but an act of tuning time, body, and space.
 The record box is his world view,
 Each disc is alive as a "fragment of memory and experience."
 

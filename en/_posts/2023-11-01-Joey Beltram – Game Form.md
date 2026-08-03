@@ -17,13 +17,13 @@ The first song on side B is a remix by US DJ and producer Robert Armani. The sec
 
 Joy Beltrame is widely recognized as an early innovator in underground dance music.
 
-He started working as a DJ as a hobby in 1983, when he was 12 years old, primarily playing early electro and hip-hop.
+He started working as a DJ in 1983, when he was 12 years old, primarily playing early electro and hip-hop music.
 
 He turned to house music in 1985, the same year that the first wave of Chicago house arrived in New York, and in 1989, while still working as a courier, he began releasing some of his early work on several small record labels in New York.
 
 A year later, they caught the attention of Belgium's R&S Records, who released their first major record, Energy Flash, by mid-1990, with a string of equally impressive releases to follow.
 
-Throughout the '90s, he continued to create timeless music on the cutting edge label of the time.
+Throughout the 90's, he continued to create timeless music on the cutting edge label of the time.
 
 In 1999, he founded his own label, STX Records, which currently records with both JB³ and Joey Beltram.
 

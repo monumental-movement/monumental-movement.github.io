@@ -19,7 +19,7 @@ title: '[Column] Butthole Surfers: A complete history of American psychedelic pu
 # **Prologue: <Chaos device> that emerged from the southern United States**
 
 
-Text: mmr｜Theme: Butthole Surfers' **About the sound source, live performance, recording techniques, production, and equipment**
+Text: mmr｜Theme: About Butthole Surfers' **sound source, live performance, recording techniques, production, and equipment**
 
 
 Few figures in the American underground of the 1980s were as bizarre, violent and hallucinatory as the Butthole Surfers.
@@ -72,7 +72,7 @@ The band's first sound mixes the rapidity of late punk/hardcore with the amorpho
 
 * Guitar mainly uses directly recorded feedback
 * The saxophone plays irregularly and destroys the melody.
-* Lyrics are fragmentary and performance-oriented.
+* Lyrics are fragmentary and have a strong performance feel.
 
 ### **Lady Sniff**
 
@@ -139,7 +139,7 @@ flowchart TD
 # **5. Hairway to Steven (1988): Longer and more structured**
 
 Long songs and short songs are arranged alternately, and the "outline of the song" becomes more pronounced than before.
-In order to improve live reproducibility, studio recording also progressed with a clear division of roles.
+ライブ再現性を高めるため、スタジオ録音も明確な役割分担で進んだ。
 
 <div class="mermaid">
 flowchart TD
@@ -172,7 +172,7 @@ Although the melody is brought to the fore, the noise and strangeness are mainta
 
 <div class="mermaid">
 flowchart TD
-    A["Melody focused recording"] --> B["Guitar/Saxophone processing"]
+    A["Melody focused recording"] --> B["ギター/サックス加工"]
     B --> C["Rhythm pattern optimization"]
     C --> D["Noise/psychedelic effect adjustment"]
     D --> E["Mix Mastering"]
@@ -182,7 +182,7 @@ flowchart TD
 
 # **7. Weird Revolution (2001): Electronic sound introduction period**
 
-With this album, sampler digital effects were introduced in earnest, and the band's sonic image changed significantly.
+In this album, sampler digital effects were introduced in earnest, and the band's sonic image changed significantly.
 
 ## 7. Detailed explanation of all album songs and recording method
 
@@ -194,19 +194,19 @@ With this album, sampler digital effects were introduced in earnest, and the ban
 
 * Directly recorded guitar riff, improvised performance with layered distortion
 * The saxophone forms a cacophony with short phrases
-* The drums use a lot of odd time signatures, and in the studio they are basically recorded in one take.
+* The drums use a lot of odd time signatures, and in the studio they basically record in one take.
 
 2. **Lady Sniff**
 
 * Short song centered on noise processing
-* Improvised production using analog equipment without using samples or tape loops
+* No samples or tape loops, improvised with analog equipment
 * Changes in performance depending on audience reaction
 
 #### Recording method
 
 <div class="mermaid">
 flowchart TD
-    A["Direct guitar recording"] --> B["Distortion processing"]
+    A["ギター直録り"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
     D --> E["Whole mix (Lo-Fi)"]
@@ -228,7 +228,7 @@ flowchart TD
 flowchart TD
     A["Multi-track recording"] --> B["Guitar/Sax Effect"]
     B --> C["Drum odd time signature recording"]
-    C --> D["Add improvised part"]
+    C --> D["即興パート追加"]
     D --> E["Mixing/Mastering (Lo-Fi)"]
 </div>
 
@@ -253,7 +253,7 @@ flowchart TD
 ### 7.4 Hairway to Steven (1988)
 
 * Psychedelic and Gothic fusion
-* Change the recording style for each song (comparison between long songs and short songs)
+* 曲ごとに録音スタイルを変更（長編曲・短編曲の対比）
 * Experimental parts remain while emphasizing live reproducibility
 
 <div class="mermaid">
@@ -269,7 +269,7 @@ flowchart TD
 ### 7.5 Independent Worm Saloon (1993)
 
 * Improved recording quality in line with major debut
-*Using studio multi-track, improving song structure
+* スタジオマルチトラック使用、曲構成を整備
 * Separately record guitar, bass, drums, and saxophone to precisely control noise and effects
 
 <div class="mermaid">
@@ -327,7 +327,7 @@ The production can be systematized as follows based on the facts alone.
 * Abstract video using 16mm film
 * Guitar feedback is emphasized on the PA console
 * Twin drums positioned in the center of the stage
-* Saxophone dissonant improvisation
+* サックスは不協和音即興
 
 <div class="mermaid">
 flowchart LR
@@ -356,7 +356,7 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    A["Electronic sound/sampler"] --> B["Live PA Sync"]
+    A["電子音・サンプラー"] --> B["Live PA Sync"]
     B --> C["Video: Digital Projection"]
     C --> D["Sync with band performance"]
     D --> E["High resolution lighting system"]
@@ -392,7 +392,7 @@ flowchart TD
 
 The equipment used by Butthole Surfers varies greatly over the years, but the following remains in the literature.
 
-## 9.1 Guitar/Amplifier
+## 9.1 ギター / アンプ
 
 *Gibson SG
 *Fender Stratocaster
@@ -414,7 +414,7 @@ The equipment used by Butthole Surfers varies greatly over the years, but the fo
 * Alto saxophone (mainly improvisational)
 * Added delay/reverb processing in PA
 
-## 9.5 Electronic sounds (2000s)
+## 9.5 電子音（2000年代）
 
 * Sampler: AKAI model
 * Synth pad: Roland
@@ -439,7 +439,7 @@ flowchart TD
 
 # **11. Summary: The musical significance of Butthole Surfers**
 
-Butthole Surfers' music is often described as "bizarre" and "insane."
+Butthole Surfers' music is often described as "bizarre" and "crazy."
 However, at its core it is an **experiment with structure**.
 
 *Dissonance is not improvised, but "intended arrangement"

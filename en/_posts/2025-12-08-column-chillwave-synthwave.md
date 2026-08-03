@@ -90,7 +90,7 @@ Main artists:
 - **Kavinsky**
 - "Nightcall" (2010) is said to be a symbolic song.
 
-Synthwave grew as a large independent genre on the internet throughout the 2010s.
+Synthwave grew as a large, independent genre online throughout the 2010s.
 
 ---
 
@@ -99,7 +99,7 @@ Synthwave grew as a large independent genre on the internet throughout the 2010s
 | Element | Chillwave | Synthwave |
 |------|------------|------------|
 | Main periods | 2009-2013 | 2005-present |
-| Aesthetics | Blurry memories, summer, nostalgia | Neon, futuristic cities, 80s movies |
+| Aesthetics | Blurred memories, summer, nostalgia | Neon, futuristic cities, 80s movies |
 | Sound | Lo-fi/dream pop-oriented | Analog synth-centered, sharp sound |
 | Representative | Washed Out, Neon Indian | FM-84, Mitch Murder, The Midnight |
 | Cultural background | Indie and blogging culture | Movies, games, and synth pop revival |

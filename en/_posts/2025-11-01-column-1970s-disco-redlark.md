@@ -20,7 +20,7 @@ title: '[Column] Japan"s 70"s Disco and Red Lark - Aesthetics of the night depic
 Text: mmr | Theme: A record of Japan's 1970s era, when disco and Red Lark advertisements intertwined. Reminiscing about the night when music, fashion, and the smell of cigarettes intersected
 
 Japan in the 1970s. Shinjuku, Akasaka, Roppongi.
-The night city was trying to gain unknown freedom through the word "disco."
+The night town was trying to gain unknown freedom through the word "disco."
 The atmosphere was filled with glowing mirror balls, Soul Train-like grooves, and Red Lark's red packaging.
 
 ---
@@ -145,7 +145,7 @@ Vinyl records and cigarettes were burning in the same rhythm.
 
 ## 8. Post-disco generation and the reverberations of Red Lark
 
-In the early 1980s, large discos such as ""Maharaja" and ""Kisanadu" were born,
+In the early 1980s, large discotheques such as ""Maharaja" and ""Kisanadu" were born.
 Over time, the music evolved from city pop to eurobeat.
 However, the ""smell of urban decadence and freedom'' at its origin was engraved in the red color of Red Lark.
 

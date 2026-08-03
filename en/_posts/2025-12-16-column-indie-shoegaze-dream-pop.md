@@ -27,7 +27,7 @@ The term "shoegaze" came from the way people looked at the effector board at the
 
 Although the two have different origins, they are closely connected in terms of sound processing, voice handling, and visual sensibilities.
 
-["The genre name was an afterthought, and many of those involved were not aware of its classification at first."]
+["The genre name was an afterthought, and many of the people involved were not aware of its classification at first."]
 
 ---
 
@@ -49,7 +49,7 @@ color: #fff;
 
 ### 1-1. Acoustic sensation after post-punk
 
-In the late 1970s and early 1980s, postpunk deconstructed rock's structure and shifted its attention to timbre, texture, and spatial treatment.
+In the late 1970s and early 1980s, postpunk deconstructed rock's structures and shifted its attention to timbre, texture, and spatial treatment.
 Synthesizers, reverb, and delay are no longer mere decorations, but function as elements that form the structure of the song itself.
 
 In this process, the singing voice changed from being the main body telling the story to becoming just a part of the sound.
@@ -70,13 +70,13 @@ Lyrics were often abstract or improvised, and the meaning of language became sec
 
 ### 2-1. Guitar and spatial processing
 
-Dream pop guitars are arranged as sustained sounds, rather than riffs or chord progressions.
+Dream pop guitars are arranged as sustained sounds rather than riffs or chord progressions.
 Delay is used to create overlapping reverberations rather than being synchronized to the beat, and reverb plays the role of melting the contours of the sound.
 
 ### 2-2. Rhythm in the background
 
 The drums and bass don't act as the driving force behind the song, but function as a center of gravity to support the sound image.
-The tempo is relatively constant, and emphasis is placed on the continuation of a state rather than dramatic development.
+The tempo is relatively constant, and emphasis is placed on the persistence of a state rather than dramatic developments.
 
 ---
 
@@ -136,7 +136,7 @@ Camerawork and editing also avoid clear focus and emphasize a sense of visual fl
 | Volume | Relatively suppressed | Loud volume/high density |
 | Distortion | Less | Multilayer |
 | Treatment of voices | Floating | Buried |
-| Sensations | Dreaming/Introspection | Oppression/Euphoria |
+| Sensation | Dreaming/Introspection | Oppression/Euphoria |
 
 The two are not opposed to each other, but rather exist on a continuum.
 
@@ -185,10 +185,10 @@ This technique contributed to both the spatial breadth of dream pop and the dens
 ### A-2. Redefining foreground and background in the mix
 
 Traditional rock mixes typically place vocals and lead instruments in the foreground.
-However, in shoegaze/dream pop, this principle is deliberately broken.
+However, in shoegaze/dream pop, this principle is intentionally broken.
 
 Vocals are embedded in the midrange and treated in the same way as guitar and synthesizer reverberations.
-This arrangement produces the effect of giving the listener a bird's-eye view of the entire sound, rather than concentrating their attention on one point.
+This arrangement creates the effect of giving the listener a bird's-eye view of the entire sound, rather than focusing their attention on one point.
 
 ["Obfuscating what is the main character is itself a musical intention"]
 

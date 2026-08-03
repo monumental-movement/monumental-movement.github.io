@@ -18,9 +18,9 @@ Also known as DJ Zki & Dobre and René Et Gaston, they started working together 
 
 In the same year, they founded the record label Fresh Fruit. Most of the tracks they released on Fresh Fruit were from before they left the label in 1995.
 
-After their departure, Jark Prongo founded Pssst Music, releasing productions under various aliases as before, and in 1998 the real success story of Jark Prongo began.
+After their departure, Jark Prongo founded Pssst Music, releasing productions under various aliases as before, and in 1998, the real success story of Jark Prongo began.
 
-Sasha plays "Movin' Thru Your System," which received critical acclaim and was included on the Global Underground CD.
+Sasha played "Movin' Thru Your System" which received great reviews and was included on the Global Underground CD.
 
 #### Tracklist
 ```md

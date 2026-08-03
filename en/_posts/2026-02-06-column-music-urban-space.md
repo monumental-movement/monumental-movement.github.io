@@ -18,9 +18,9 @@ title: '[Column] Music and urban space: A history of mutual generation woven by 
 
 ## Introduction Why do cities produce music?
 
-Text: mmr｜Theme: Since the 20th century, music has interacted with urban space, tracing the history of how music has reshaped the shape and feel of cities while crossing streets, clubs, homes, and media, using examples from specific cities and genres.
+Text: mmr｜Theme: Since the 20th century, music has interacted with urban space, tracing the history of how music has reshaped the shape and feel of cities while crossing streets, clubs, homes, and media, through examples from specific cities and genres.
 
-Cities bring people together, divide them, and rearrange them. Population density, immigration, industry, transportation, regulation. When these elements overlap, music becomes not just entertainment, but the very rhythm of urban life. The sounds of a factory, the repetition of traffic, and the buzz of a crowd are structured through the musician's sensibility and become a genre. Cities are not musical "stages". It is a musical generator, and at the same time, it is an entity that is reinterpreted through music.
+Cities bring people together, divide them, and rearrange them. Population density, immigration, industry, transportation, regulation. When these elements overlap, music becomes not just entertainment, but the very rhythm of urban life. The sounds of a factory, the repetition of traffic, and the murmur of a crowd are structured through the musician's sensibility and become a genre. Cities are not musical "stages". It is a music generator, and at the same time, it is an entity that is reinterpreted through music.
 
 > The city is a mirror that reflects music, and at the same time has been reshaped by music.
 
@@ -44,11 +44,11 @@ color: #fff;
 
 ### New Orleans and Jazz
 
-In the early 20th century, New Orleans was a port city where diverse cultures intersected. Black communities, Creole culture, the traditions of military bands, and religious music intermingled, and the music played at street parades and dance halls crystallized into jazz. Here, the public spaces of the city were themselves performance venues.
+In the early 20th century, New Orleans was a port city where diverse cultures intersected. Black communities, Creole culture, the traditions of military bands, and religious music intermingled, and the music played in street parades and dance halls crystallized into jazz. Here, the public space of the city itself was a venue for performance.
 
 ### New York and Tin Pan Alley
 
-In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry established a format for popular music that reflected the city's speed and commerciality.
+In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry defined the format of popular music, reflecting the city's speed and commerciality.
 
 > Modern cities had the power to push music from improvisation to industry.
 
@@ -78,7 +78,7 @@ In Detroit, the center of the auto industry, Motown exported urban labor and hop
 
 A DJ turned on the power and threw a block party in a run-down neighborhood in the Bronx. Hip-hop emerged from the gaps in urban infrastructure and functioned as a reoccupation of space.
 
-> Music emerged from the cracks of the city and gave it a voice.
+> Music was born from the cracks of the city and gave it a voice.
 
 ---
 
@@ -124,13 +124,13 @@ While cities produce music, they also regulate it. Overcrowding, noise ordinance
 
 Radio, television, and the Internet, which seemed to separate music from the city, actually created a new image of the city. Certain city names continue to function as sound brands.
 
-> The media expanded the city and made music seem free from geography.
+> The media expanded the city and made it seem like music was freed from geography.
 
 ---
 
 ## Chapter 8 21st Century: Global Cities and Local Sounds
 
-Globalization has rapidly reduced the musical distance between cities. Air networks and digital distribution will shorten relationships that once took decades to months. However, on the other hand, the acoustic environments, languages, and rhythms of life unique to cities were not completely homogenized. Rather, locality itself is consciously staged and redefined as musical value.
+Globalization has rapidly reduced the musical distance between cities. Air networks and digital distribution are shortening relationships that once took decades to months. However, on the other hand, the acoustic environments, languages, and rhythms of life unique to cities were not completely homogenized. Rather, locality itself is consciously staged and redefined as musical value.
 
 Although club music and hip-hop have formats that are shared across borders, they take on different expressions depending on each city's housing conditions, traffic hours, and institutional differences in the nighttime economy. As a result, multiple urban dialects emerged within the same genre.
 
@@ -149,8 +149,8 @@ Although club music and hip-hop have formats that are shared across borders, the
 * 1960s: Motown flourishes in Detroit
 * Birth of hip-hop in New York in the 1970s
 * 1980s: House in Chicago, techno in Detroit
-* Club culture combined with urban reorganization in Berlin in the 1990s
-* Since the 2000s: Redefining urban music through the Internet
+* Club culture combined with urban restructuring in Berlin in the 1990s
+* Since the 2000s: Redefining urban music through the internet
 
 ### Japanese History
 
@@ -202,7 +202,7 @@ C[hollowed out area] --> D[Loud volume/repetitive structure]
 E[redevelopment area] --> F[Accumulation of club culture]
 </div>
 
-Urban structures directly determine the volume, repeatability, and environment in which music is played. This is a consequence of living conditions, not a cultural choice.
+Urban structures directly determine the volume, repeatability, and playback environment of music. This is a consequence of living conditions, not a cultural choice.
 
 > The form of music unconsciously reflects the design philosophy of the city.
 
@@ -229,7 +229,7 @@ Tokyo is one of the most densely populated cities in the world, and its music cu
 
 Since the 1960s, with the distribution of imported records and the spread of audio equipment, the ""listening environment'' itself has come to have cultural value in Tokyo. Music has become both a shared experience and an object for individuals to select, collect, and play. The small size of the city makes people more interested in the resolution of sound images and knowledge that crosses genres than in volume.
 
-From the 1980s to the 1990s, while club culture was imported, it developed independently as it adapted to the regulatory environment unique to cities. While operating for short hours, being underground, and downsizing were constraints, they also created a selective audience and an intense experience.
+From the 1980s to the 1990s, while club culture was imported, it developed independently as it adapted to the regulatory environment unique to cities. While operating for short hours, underground, and downsized were constraints, they also created a selective audience and an intense experience.
 
 > Tokyo's musical culture has overcome the constraints of overcrowding through refinement.
 
@@ -237,7 +237,7 @@ From the 1980s to the 1990s, while club culture was imported, it developed indep
 
 ## Chapter 16 Osaka: Miscellaneousness and physical rhythm
 
-Osaka has an urban structure in which commerce, residence, and entertainment are relatively mixed. It is easy to visually grasp the flow of people, and music culture tends to emphasize physical reactions rather than theory. Live house culture and dance music have developed in conjunction with the materialistic nature of cities.
+Osaka has an urban structure where commerce, residence, and entertainment are relatively mixed. It is easy to visually grasp the flow of people, and music culture tends to emphasize physical reactions rather than theory. Live house culture and dance music have developed in conjunction with the materialistic nature of cities.
 
 The scale of the city is smaller than Tokyo, and the music scene circulates in visible units. The intensity of the venue is prioritized over the purity of the genre, and the live experience itself becomes the axis of evaluation.
 
@@ -247,9 +247,9 @@ The scale of the city is smaller than Tokyo, and the music scene circulates in v
 
 ## Chapter 17 Local cities: Updates from the periphery seen in Fukuoka and Sapporo
 
-Musical culture in local cities has matured on its own timeline, while being influenced by the central government. Due to Fukuoka's geographical proximity to Asia and its character as a port city, it has been quick to accept foreign culture, and clubs and live music venues tend to cluster in the city center.
+Musical culture in local cities has matured on its own unique timeline, despite being influenced by the central government. Due to Fukuoka's geographical proximity to Asia and its character as a port city, it has been quick to accept foreign cultures, and clubs and live music venues tend to cluster in the city center.
 
-Due to the climate and size of the city, Sapporo has a strong indoor orientation, and events that cross genres are held for a long time. The urban margins have functioned as a space for experimental expression.
+Due to the climate and size of the city, Sapporo has a strong indoor orientation, and events that cross genres are held for a long time. The urban margins have functioned as spaces for experimental expression.
 
 > Regional cities have matured music at a different rate than the central region.
 
@@ -270,7 +270,7 @@ As land prices rise due to redevelopment, small-scale music spaces move to the p
 
 Music records, critiques, and sometimes anticipates the city. As long as urban space continues to change, new music will continue to be born. Listening to music is the act of listening to the city's present and future at the same time.
 
-> Music remains the most sensuous language through which cities speak about themselves.
+> Music remains the most sensual language through which cities speak about themselves.
 
 ---
 

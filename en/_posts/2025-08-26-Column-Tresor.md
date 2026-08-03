@@ -23,7 +23,7 @@ Text: mmr｜Theme: Berlin club culture and the European techno scene
 
 ### What is Tresor?
 
-Tresor (meaning ""safe"' in German) is a club that was founded in Berlin, Germany in 1991, and is a center of techno culture that also hosts a label of the same name. Amidst the chaos that followed the end of the Cold War, it served as the most important center for connecting Detroit techno and Berlin"s underground culture, and continues to maintain its international influence to this day.
+Tresor (meaning ""safe"' in German) is a club founded in Berlin, Germany in 1991, and is a center of techno culture that also hosts a label of the same name. Amidst the chaos that followed the end of the Cold War, it served as the most important center for connecting Detroit techno and Berlin"s underground culture, and continues to maintain its international influence to this day.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDuT0ximZp4?si=vCTf7etqZo_TVcpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -31,7 +31,7 @@ Tresor (meaning ""safe"' in German) is a club that was founded in Berlin, German
 
 ### Background of its birth: Berlin and the post-Cold War vacuum
 
-In 1989, the Berlin Wall fell. Spaces that were once controlled by the state have turned into ""lawless zones'' and become testing grounds for underground youth culture.
+In 1989, the Berlin Wall fell. Spaces that were once controlled by the state have turned into "lawless zones" and become testing grounds for underground youth culture.
 
 Abandoned buildings, disused factories, and underground spaces have been turned into clubs.
 
@@ -42,18 +42,18 @@ Among them, Tresor opened in a renovated vault of a former department store. The
 
 ### Musical Significance: The Bridge Between Detroit and Berlin
 
-Tresor, in particular, served as a springboard for Detroit techno's expansion into Europe.
+Tresor in particular served as a springboard for Detroit techno's expansion into Europe.
 
 [Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g) are the founders of Detroit, known as the "Belleville Three."
 
 [Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP) and others are active in Berlin and play at Tresor.
-As a result, the futuristic and political techno born in the United States was linked with European club culture, creating the foundation for a ""global techno network.''
+As a result, the futuristic and politically charged techno born in the United States was linked with European club culture, creating the foundation for a ""global techno network.''
 
 <hr>
 
 ### Label "Tresor Records"
 
-Founded in 1991 as an attached club, Tresor Records functions as an important techno label.
+Established in 1991 as part of a club, Tresor Records functions as an important techno label.
 
 [Jeff Mills – Waveform Transmission Series](https://amzn.to/4mJeXE1)
 
@@ -154,7 +154,7 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 
 ### Elevating the music of techno from a "temporary fad" to a "universal culture"
 
-More than just a club or a label, Tresor is a ""cultural crossroads"' that connects Berlin"s history, post-Cold War urban space, and the future of black music in Detroit.
+More than just a club or label, Tresor is a cultural crossroads that connects Berlin's history, post-Cold War urban space, and the future of black music in Detroit.
 The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""temporary fad" to ""universal culture."
 
 ---

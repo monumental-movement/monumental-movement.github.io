@@ -18,11 +18,11 @@ title: '[Column] History and evolution of DTM (DAW) — How the sound production
 
 Text: mmr｜Theme: A cultural device symbolizing the "democratization of music production"
 
-DTM (DeskTop Music) - Called ""DTM'' in Japanese and DAW (Digital Audio Workstation) in English-speaking countries, the workflow refers to a culture in which recording, editing, mixing, and production are completed using computers and software. In this article, we will organize the flow from its emergence to the present, along with a chronology, with a focus on "technological turning points" and "cultural impact."
+DTM (DeskTop Music) - The workflow, called "DTM" in Japanese and DAW (Digital Audio Workstation) in English-speaking countries, refers to a culture in which recording, editing, mixing, and production are completed using computers and software. In this article, we will organize the flow from its emergence to the present, along with a chronology, with a focus on "technological turning points" and "cultural impact."
 
 <hr>
 
-### Trend by era
+### 時代ごとの流れ
 
 **1940–1960s**: Era of tape and multitrack recording
 Techniques for "cutting and pasting" sound developed, such as tape editing, tape looping, and musique concrète. Overdub recording in studios became popular.
@@ -51,7 +51,7 @@ Automatic mixing/mastering, generation AI, cloud project sharing, etc. are affec
 
 ### Origin and early days (tape to analog era)
 
-The origin of DTM is the act itself of ""creating a work by recording and editing sound.'' Experiments with physical media, such as tape editing (cutting and pasting), tape looping (creating repeated sounds), tape reversing, and speed manipulation, shaped electronic music in the mid-20th century. This was an era where large studio equipment and skilled engineers were the focus.
+The origin of DTM is the act of ""recording and editing sound to create a work.'' Experiments with physical media, such as tape editing (cutting and pasting), tape looping (creating repetitive sounds), tape reversing, and speed manipulation, shaped electronic music in the mid-20th century. This was an era where large studio equipment and skilled engineers were the focus.
 
 <hr>
 
@@ -69,13 +69,13 @@ Improvements in computer performance and the practical use of hard disk recordin
 
 ### Birth of home studios and "individual production" (2000s)
 
-With improvements in the performance of personal PCs, the spread of audio interfaces, and improvements in the quality of plug-ins, recording is no longer just for the studio. Production environments centered around loops and patterns, such as FL Studio and Ableton Live, have changed the production style of electronic music and hip-hop, and it has become common for individuals to complete albums and soundtracks at home. With the combination of Internet distribution and sales platforms (Bandcamp, SoundCloud, etc.), the threshold from production to release has dropped dramatically.
+With improvements in the performance of personal PCs, the spread of audio interfaces, and improvements in the quality of plug-ins, recording is no longer just for the studio. Production environments centered on loops and patterns, such as FL Studio and Ableton Live, have changed the production style of electronic music and hip-hop, and it has become common for individuals to complete albums and soundtracks at home. With the combination of Internet distribution and sales platforms (Bandcamp, SoundCloud, etc.), the threshold from production to release has dropped dramatically.
 
 <hr>
 
-### 2010s and beyond: Diversification, improvisation, and cloud computing
+### 2010年代以降：多様化・即興性・クラウド化
 
-DAWs have evolved from tools for simply "recording, arranging, and mixing" to multifunctional features such as live performance (Ableton Live), real-time collaboration, video linkage, and modular integration. Usage options are further expanding, including mobile apps/DAWs for iPad, cloud project synchronization, and the introduction of subscription models.
+DAWは単に「録る・並べる・ミックスする」ツールから、ライブパフォーマンス（Ableton Live）、リアルタイムコラボレーション、映像連携、モジュラー統合など多機能化しました。モバイルアプリ／iPad用DAW、クラウドでのプロジェクト同期、サブスクリプションモデルの導入など、利用形態はさらに拡張しています。
 
 <hr>
 
@@ -85,7 +85,7 @@ DAWs have evolved from tools for simply "recording, arranging, and mixing" to mu
 
 **MIDI**: Recording/editing performance information. We will also keep an eye on the evolution of standards such as MIDI CC and MIDI 2.0 (which is gradually becoming popular).
 
-**Plug-ins (VST/AU/AAX, etc.)**: Expand functionality by adding soft sound sources and effects.
+**プラグイン（VST/AU/AAX等）**：ソフト音源やエフェクトを追加することで機能を拡張。
 
 **Sampling and Samplers**: An important tool in sound design. Sampler culture is the foundation of hip-hop and electronica.
 
@@ -93,7 +93,7 @@ DAWs have evolved from tools for simply "recording, arranging, and mixing" to mu
 
 **Automation and Modulation**: Achieve dynamism by changing parameters over time.
 
-**Non-destructive editing**: Can be edited without changing the original data. Basic functions of DAW.
+**非破壊編集**：元データを変更せず編集が可能。DAWの基本機能。
 
 <hr>
 
@@ -105,11 +105,11 @@ DAWs have evolved from tools for simply "recording, arranging, and mixing" to mu
 
 [**Logic Pro (Apple)**](https://amzn.to/3W5tqzp): Comprehensive and cost-effective. Popular with Mac users. Abundant built-in sound sources.
 
-[**Ableton Live**](https://amzn.to/3IN6QbN): Specialized in clip-based improvisation and live use. Widely used in electronic systems.
+[**Ableton Live**](https://amzn.to/3IN6QbN)：クリップベースの即興性とライブ用途に特化。エレクトロニック系に広く採用。
 
 [**FL Studio**](https://amzn.to/43ocpnQ): Ideal for creating loops/patterns, popular for beat making. Easy to use piano roll.
 
-[**REAPER**](https://amzn.to/4ognVtw): Lightweight and highly customizable. Low cost and plenty of community expansion.
+[**REAPER**](https://amzn.to/4ognVtw): Lightweight and highly customizable. Low cost and plenty of community extensions.
 
 <hr>
 
@@ -117,11 +117,11 @@ DAWs have evolved from tools for simply "recording, arranging, and mixing" to mu
 
 **Democratization**: Lower production costs have made it possible for a variety of artists to participate. Indie/home production has become the norm.
 
-**Collaboration**: International collaboration and file exchange via the internet is expanding. Boundaries are solved.
+**Collaboration**: International collaboration and file exchange via the Internet is expanding. Boundaries are solved.
 
 **Changes in commercial models**: Direct sales through self-produced products, software usage through subscriptions, and expansion of the plug-in market.
 
-**Learning and community**: The democratization of learning is progressing through know-how sharing on YouTube and forums.
+**Learning and Community**: The democratization of learning is progressing through know-how sharing on YouTube and forums.
 
 <hr>
 
@@ -137,7 +137,7 @@ DAWs have evolved from tools for simply "recording, arranging, and mixing" to mu
 
 <hr>
 
-### Practical advice (for those who are about to start DTM)
+### Practical advice (for those starting DTM)
 
 Clarify your purpose (track production, band recording, live performance, sound design, etc.). The choice of DAW is determined by the purpose.
 

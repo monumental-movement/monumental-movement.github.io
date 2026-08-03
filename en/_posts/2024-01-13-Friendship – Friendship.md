@@ -31,11 +31,11 @@ Earned a bachelor's degree in composition in 1972. While attending the school, h
 
 He then toured with artists such as Johnny Mathis, Michel Legrand, and Henry Mancini, before moving to Los Angeles in 1976 and beginning a multi-genre studio recording career.
 
-He has performed and recorded with numerous jazz artists, including George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, the Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schifrin, Diane Schur, Sarah Vaughan, Joe Zawinul, and others.
+He has performed and recorded with numerous jazz artists, including George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schifrin, Diane Schur, Sarah Vaughan, Joe Zawinul, and others.
 
 He also recorded with the band Friendship with Lee Ritenour, Ernie Watts, and Alex Acuna, and continues to perform and record with Lee and Dave Grusin, releasing works on GRP Records.
 
-Additionally, he was a sought-after bassist and was sought after by countless artists, including Lionel Richie, Quincy Jones, Jeffrey Osbourne, Chaka Khan, Robbie Robertson, Kenny Rogers, Kenny Loggins, and Ruben Blades.
+Additionally, he was a sought-after bassist and was sought after by countless artists including Lionel Richie, Quincy Jones, Jeffrey Osbourne, Chaka Khan, Robbie Robertson, Kenny Rogers, Kenny Loggins, and Ruben Blades.
 
 For the third year in a row, he was voted ""Most Valuable Player in the bass category'' by members of the Los Angeles Grammy Awards Organizing Association (NARAS), placing him second only to Ray Brown and Chuck Domannico.
 

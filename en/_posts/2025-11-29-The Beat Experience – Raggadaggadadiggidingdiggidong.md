@@ -23,7 +23,7 @@ title: The Beat Experience – Raggadaggadadiggidingdiggidong
 
 The Beat Experience is one of Stefan Heinemann's many aliases. Stefan Heinemann was also active in Hypertrophy, a project with German house/electro/trance producer and DJ Thorsten Kaiser (DJ Thoka).
 
-"Raggadaggadadiggidingdiggidong" is a Euro House track released on the German Dance Pop label Blow Up in 1994. Produced by The Wild Boys.
+"Raggadaggadadiggidingdiggidong" is a Euro House track released in 1994 on the German Dance Pop label Blow Up. Produced by The Wild Boys.
 
 #### Tracklist
 ```md

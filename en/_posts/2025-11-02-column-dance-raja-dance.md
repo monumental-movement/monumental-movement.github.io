@@ -20,7 +20,7 @@ title: '[Column] Vijaya Anand and "Dance Raja Dance" — South Indian film music
 
 Text: mmr | Theme: At the end of the 1980s, urban culture in southern India exploded with disco. Vijaya Anand"s "Dance Raja Dance' is about the sound and visual carnival of Karnataka.
 
-In the late 1980s, the Indian film industry was in the midst of change. Mumbai's Hindi cinema (Bollywood) was at a turning point before A.R. Rehman, and a new sound was needed. Meanwhile, in the Kannada film industry (Sandalwood), **Vijaya Anand** was experimenting with pioneering musical innovations.
+In the late 1980s, the Indian film industry was in the midst of change. Mumbai's Hindi cinema (Bollywood) was at a turning point before A.R. Rehman and was in need of a new sound. Meanwhile, in the Kannada film industry (Sandalwood), **Vijaya Anand** was experimenting with pioneering musical innovations.
 
 Released in 1987, Dance Raja Dance was more than just an entertaining film. It was the intersection of South Indian sensibilities and global disco culture, and was the "sound of the future" for young people in regional cities.
 
@@ -66,7 +66,7 @@ The characteristics of his music can be summarized in the following three points
 
 ---
 
-The film was the culmination of a **musical-action-romance** that brought together the stars of the time: director D. Rajendra Babu, lead actor Vishnuvardhan, and actress Khushbu.
+The film was the culmination of a **musical action romance** that brought together the stars of the time: director D. Rajendra Babu, lead actor Vishnuvardhan, and actress Khushbu.
 
 ### Story summary
 A young man named Raja (Vishnuvardhan) lives as a dancer in a downtown area, but gains national popularity after participating in a television dance contest. After going through betrayal, love, and family secrets, they finally express their ""own roots'' through dance, a moving story.
@@ -79,7 +79,7 @@ The plot is simple, but what is noteworthy is the integration of the production 
 
 After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread throughout India as a symbol of ""dance = freedom.''
 
-In South India, this trend took on a unique variation. While Mumbai's discotheques depicted an ""urban dream", **discotheques in Kannada films were an expression of ""regional pride"**.
+In South India, this trend took on its own variations. While Mumbai's discotheques depicted an ""urban dream", **discotheques in Kannada films were an expression of ""regional pride"**.
 
 Vijaya Anand's music bridges rural and urban rhythms by fusing electronics with folk percussion instruments (thaviru, dhol, nadaswaram).
 This "hybridity" is the core of South Indian music.
@@ -91,7 +91,7 @@ This "hybridity" is the core of South Indian music.
 The dance scenes in ""Dance Raja Dance"' were so elaborate that they exceeded the limits of Indian film technology at the time. Making full use of lighting, smoke, and mirror effects, a **video art composition** that looks like it"s aimed at the MTV generation is developed.
 
 The choreographer was Mugur Sundar (later the father of famous dance master Prabhu Deva), who was up-and-coming at the time.
-While he referenced steps from Hollywood movies, he boldly mixed in elements of **Bharatanatyam hand gestures (mudras)** and folk dance.
+Although he referenced steps from Hollywood movies, he boldly mixed in elements of **Bharatanatyam hand gestures (mudras)** and folk dance.
 This "South Indian MTV feel" was later inherited by A.R. Rehman and Harris Jayaraj.
 
 ---
@@ -99,7 +99,7 @@ This "South Indian MTV feel" was later inherited by A.R. Rehman and Harris Jayar
 ## Chapter 5: Changes in social background and audience demographics
 
 In the late 1980s, southern India was experiencing a period of expansion of television culture, along with a wave of urbanization.
-It was a time when the state-run broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
+It was a time when the state broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
 
 The setting in which the main character of ""Dance Raja Dance'', Raja, becomes famous through a TV show truly symbolizes the germination of neoliberal values.
 Overcoming the constraints of work, class, and family and achieving success through talent and hard work—this can be called the ""Indian version of the American Dream.''
@@ -116,14 +116,14 @@ Overcoming the constraints of work, class, and family and achieving success thro
 | **Finale Medley** | Various | Reprise composition of all songs | Dance final scene |
 
 It has been confirmed that these songs were created using cutting-edge equipment at the time, such as FM synth (Yamaha DX7) and Roland TR-707.
-In particular, the **rising brass synth sound** heard in the intro of ""Dance Raja Dance'' reminds me of the textures of Moroder and Depeche Mode.
+In particular, the **rising sound of brass synth** heard in the intro of ""Dance Raja Dance'' is reminiscent of the textures of Moroder and Depeche Mode.
 
 ---
 
 ## Chapter Seven: Legacy of Vijaya Anand
 
 Vijaya Anand has composed scores for many films since the 1990s, but few have been as innovative as Dance Raja Dance.
-However, his music gave younger music directors the perspective of ""film as a testing ground for popular music.''
+However, his music gave younger music directors the perspective of ""movies as a testing ground for popular music.''
 
 A.R. Rehman's early works Roja (1992) and the foundations of urban soundtracks such as Gentleman (1993) are clearly an extension of the experiments of Vijaya Anand and Bappi Lahiri.
 
@@ -132,7 +132,7 @@ A.R. Rehman's early works Roja (1992) and the foundations of urban soundtracks s
 ## Chapter 8: Cultural Impact and Reappraisal
 
 In the 21st century, ""Dance Raja Dance'' is being reevaluated through YouTube and Spotify.
-The images and music of that time are not "kitsch" but have been reinterpreted as **South Indian Futurism**.
+The images and music of that time are not "kitsch" but are being reinterpreted as **South Indian Futurism**.
 
 For young Kannada-speaking people, this is not just nostalgia, but a starting point for cultural self-expression from the local to the global.
 

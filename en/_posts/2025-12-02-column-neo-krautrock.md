@@ -46,7 +46,7 @@ In West Germany in the late 1960s, young people of the post-war generation were 
 - **Pursuit of repetitive rhythm**: Neu!'s "Motorik beat" is especially iconic. By mechanically repeating 4/4 of the drum, a trance-like and meditative feeling is created.
 - **Electronic sound experiments**: Make full use of analog synthesizers like Kraftwerk and Tangerine Dream.
 - **Independent production and anti-commercialism**: Albums are recorded on independent labels and small studios, prioritizing experimental elements.
-- **Cross-genre fusion**: Flexibility to cross-incorporate jazz, folk, rock, and classical.
+- **Cross-genre fusion**: Flexibility to incorporate jazz, folk, rock, and classical music across genres.
 
 Iconic bands include **Can, Neu!, Kraftwerk, Faust, and Amon Düül II**, whose sound directly influenced later Neo-Krautrock.
 
@@ -70,7 +70,7 @@ Since the 1990s, krautrock has been reevaluated, and artists who have inherited 
 Features of Neo-Krautrock:
 
 - **Rhythm Evolution**: Based on Motorik beats, changing the BPM and rhythm pattern and merging with post-rock and electronica.
-- **Deepening sound design**: Multilayered use of analog synths, digital sound sources, samplers, and effects.
+- **Deepening sound design**: Multi-layered use of analog synths, digital sound sources, samplers, and effects.
 - **Spatial production**: Make full use of reverb and delay to emphasize the spaciousness of the sound even during live performances.
 - **Genre fusion**: Incorporates elements of ambient, post-rock, electronic music, and indie rock.
 
@@ -101,7 +101,7 @@ flowchart LR
 Neo-Krautrock is based on the classic Krautrock Motorik beat, but uses a variety of rhythmic techniques:
 
 - **BPM change**: Subtly change the tempo during live performance, creating a dynamic feel for each song.
-- **Polyrhythm**: Creates complexity with a dual structure of drum machine and live drums.
+- **Polyrhythm**: Creates complexity with a dual structure of drum machine + live drums.
 - **Rhythm Sampling**: Digitally processed and rearranged percussion instrument phrases.
 
 ### 3.2 Melody and Harmony
@@ -155,14 +155,14 @@ timeline
 
 ---
 
-## 6. Neo-Krautrock influences and connections with contemporary music
+## 6. The influence of Neo-Krautrock and its connection with contemporary music
 
 Neo-Krautrock is more than just a reissue, it's an influence on contemporary music:
 
 - **Post-lock**: Introduction of repetitive structures and spatial expressions.
 - **Electronica**: A method of combining analog and digital sound sources.
 - **Indie Rock**: Inheriting the spirit of independent production and live performances.
-- **Diversification of live expressions**: Multimedia live performances linked to video and lighting are also increasing.
+- **Diversification of live expressions**: Multimedia live performances linked to video and lighting are also on the rise.
 
 <div class="mermaid">
 flowchart TD
@@ -186,7 +186,7 @@ flowchart TD
 
 ## 8. Conclusion
 
-Neo-Krautrock brings the spirit of Krautrock back to the 21st century, becoming a bridge between the past and the future. Artists like Tropic of Cancer and Panda Lux retain the original krautrock aesthetic while promoting new musical experimentation. With advances in music theory, recording technology, and live expression, Neo-Krautrock will continue to be at the center of the experimental music scene.
+Neo-Krautrock brings the spirit of Krautrock back to the 21st century, becoming a bridge between the past and the future. Artists like Tropic of Cancer and Panda Lux retain the original krautrock aesthetic while promoting new musical experimentation. With advances in music theory, recording technology, and live expression, Neo-Krautrock will continue to exist at the center of the experimental music scene.
 
 ---
 

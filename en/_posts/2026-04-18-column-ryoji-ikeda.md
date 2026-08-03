@@ -26,7 +26,7 @@ What is particularly distinctive is the use of ultra-high frequencies that appro
 
 His sounds are broken down to their smallest units: clicks, noises, and sine waves. They function not as rhythms or melodies, but as particles for measuring time and space. What is important here is that sound is treated as a "structure" rather than a "meaning."
 
-And this structure is perfectly synchronized with vision. The numbers, barcodes, and grids displayed on the projection are generated from the same data as the sound. As a result, the audience is placed in a state of ""seeing sound" and ""hearing light."
+And this structure is perfectly synchronized with vision. The numbers, barcodes, and grids shown on the projection are generated from the same data as the sound. As a result, the audience is placed in a state of ""seeing sound" and ""hearing light."
 
 > Sound no longer exists only for the ear, but becomes a structure that is perceived throughout space.
 
@@ -52,9 +52,9 @@ Ikeda"s career dates back to the 1990s. Their extremely stripped-down sound attr
 
 Around 1995, the foundation for a body of work that would later receive international acclaim was formed. The 1998 album ""+/-'' revealed a style that treated digital signals themselves as sound.
 
-An important change during this period was the expansion from "musical works" to "installations." Rather than simply producing sound sources, he is moving toward turning the entire space into a work of art.
+この時期の重要な変化は、「音楽作品」から「インスタレーション」への拡張だ。単なる音源制作ではなく、空間全体を作品化する方向へと移行していく。
 
-In the early 2000s, we began collaborating with IRCAM (Institute of Acoustics and Music) in Paris. Here, he collaborates with scientists to conduct research into sonifying data and physical phenomena. This experience culminated in his later masterpiece ""datamatics'' series.
+In the early 2000s, we began collaborating with IRCAM (Institute of Acoustics and Music) in Paris. Here he collaborates with scientists to conduct research into sonifying data and physical phenomena. This experience culminated in his later masterpiece ""datamatics'' series.
 
 > Ikeda's turning point was the moment when it redefined sound from a material to a form of information expression.
 
@@ -70,17 +70,17 @@ Below is a conceptual diagram of the basic structure in datamatics.
 
 <div class="mermaid">
 graph TD
-A[numerical data] --> B[algorithm processing]
+A[数値データ] --> B[algorithm processing]
 B --> C[acoustic conversion]
-B --> D[Video generation]
+B --> D[映像生成]
 C --> E[spatial arrangement]
 D --> E
 E --> F[audience perception]
 </div>
 
-The important point here is that sound and video are not independent, but are generated from the same data. In other words, vision and hearing are just different aspects of the same phenomenon.
+What is important here is that sound and video are not independent, but are generated from the same data. In other words, vision and hearing are just different aspects of the same phenomenon.
 
-Additionally, the "scale" of his works changes frequently. By treating everything from the micro (elementary particles) to the macro (the universe) with the same logic, the audience is made to relativize their own position.
+また、彼の作品では「スケール」が頻繁に変化する。ミクロ（素粒子）からマクロ（宇宙）までを同一のロジックで扱うことで、観客は自身の位置づけを相対化される。
 
 > Data is not abstracted but converted into "reality" experienced through perception
 
@@ -88,7 +88,7 @@ Additionally, the "scale" of his works changes frequently. By treating everythin
 
 ## Ultra-high frequencies and the body: exposing the limits of perception
 
-In Ikeda's work, ultra-high frequencies are more than just a sound effect. It functions as a device to measure the body itself.
+Ikedaの作品において、超高周波は単なる音響効果ではない。それは身体そのものを測定する装置として機能する。
 
 The human audible range is generally considered to be between 20Hz and 20kHz, but Ikeda actively uses the range near or beyond that upper limit. At this time, the sound is felt as ""pressure" or ""vibration" rather than ""heard.''
 
@@ -153,7 +153,7 @@ B --> C[Place on time axis]
 C --> D[Synchronous output to sound and video]
 </div>
 
-Its characteristics are its speed and density. As information flows at a speed that exceeds the limits of what humans can perceive, it becomes impossible to ""understand'' it.
+Its characteristics are its speed and density. As information flows at a speed that exceeds the limits of what humans can perceive, it becomes impossible to "understand" it.
 
 However, on the contrary, its excess makes the data emerge as a "pure structure."
 
@@ -192,7 +192,7 @@ spectra is a work that focuses on light rather than sound. Countless powerful se
 
 In this piece, sound is kept to a minimum and the visual scale comes to the fore. But its structure is still data-like.
 
-The placement, spacing, and intensity of light are all calculated, and the urban space and natural environment themselves become part of the work.
+The placement, spacing, and intensity of light are all calculated, and the urban space and natural environment itself become part of the work.
 
 <div class="mermaid">
 graph TD
@@ -218,7 +218,7 @@ graph LR
 A[Video layer 1] --> D[superposition]
 B[Video layer 2] --> D
 C[acoustic layer] --> D
-D --> E[splitting of perception]
+D --> E[division of perception]
 </div>
 
 In this work, the audience cannot be fixed on one point of view. The experience changes depending on where you look and where you listen.

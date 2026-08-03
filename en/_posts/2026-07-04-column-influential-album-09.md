@@ -11,8 +11,8 @@ tags:
 - House
 - Techno
 title: '[Column] The 100 most influential records in music history: A new history
-  of music reconstructed solely based on the degree of influence on contemporary music
-  (Part 9, 81-90: Maturation of electronic music and establishment of acoustic art)'
+  of music reconstructed solely based on its influence on contemporary music (Part
+  9, 81-90: Maturation of electronic music and establishment of acoustic art)'
 ---
 
 
@@ -23,13 +23,13 @@ title: '[Column] The 100 most influential records in music history: A new histor
 
 ## Mezzanine
 
-### **"The moment when downtempo became music that depicts the psychology of the city"**
+### **「ダウンテンポが“都市の心理”を描く音楽になった瞬間」**
 
-""Mezzanine", released in 1998, is a historical work in which Massive Attack further expanded the trip-hop genre, fusing electronic music with rock, dub, and post-punk, and depicting the ""psychology of humans living in the city" in acoustic form.
+""Mezzanine", released in 1998, is a historic work in which Massive Attack further expanded the trip-hop genre, fusing electronic music with rock, dub, and post-punk, and depicting the ""psychology of humans living in the city" in acoustic form.
 
 If ""Blue Lines" in the early 1990s gave birth to a new type of urban music called trip-hop, ""Mezzanine" was its mature form.
 
-Here, tension takes precedence over a comfortable groove.
+ここでは心地よいグルーヴよりも緊張感が優先される。
 
 An unstable atmosphere dominates rather than a beautiful melody.
 
@@ -59,7 +59,7 @@ Since the late 1980s, Massive Attack has developed a unique sound that blends re
 
 However, in addition to its roots, ""Mezzanine'' incorporates new elements.
 
-post-punk.
+Post-punk.
 
 noise.
 
@@ -120,7 +120,7 @@ E --> H
 
 ---
 
-## Acoustics demanded by movies and television
+## 映画とテレビが求めた音響
 
 Mezzanine's influence was more pronounced in film culture than in clubs.
 
@@ -132,13 +132,13 @@ It's not the soundtrack.
 
 However, it strongly reminds me of images.
 
-Its cinematic construction power was the greatest feature of ""Mezzanine.''
+その映画的な構築力こそ、『Mezzanine』最大の特徴だった。
 
 ---
 
 ## Influence on 21st century alternative sounds
 
-This was the era when Radiohead approached electronic music with "Kid A."
+Radioheadが『Kid A』で電子音楽へ接近した時代。
 
 A time when Nine Inch Nails combined silence and noise.
 
@@ -156,7 +156,7 @@ Furthermore, the influence of this work remains strong in contemporary dark pop 
 
 Its influence extends to dark electronica, film music, alternative pop, and contemporary R&B, providing the prototype for the 21st century's "urban sounds."
 
-In this ranking, ""Blue Lines" is ranked 81st because it is ranked high as the definitive work that started trip hop. However, ""Mezzanine" is a work that matures that aesthetic to the utmost, proving that electronic music is a powerful medium of expression for depicting psychology and space.
+In this ranking, ""Blue Lines" is ranked 81st because it is ranked high as the definitive work that started trip hop. However, ""Mezzanine" is a work that matures that aesthetic to the extreme and proves that electronic music is a powerful medium of expression for depicting psychology and space.
 
 > **"'Mezzanine' matured trip-hop into a sound art of urban psychology and established the prototype of 21st century dark electronica. Due to its historical significance, it is ranked 81st in this ranking."**
 
@@ -174,7 +174,7 @@ Released in 1995, **Maxinquaye** is a landmark work in which Tricky pushed the t
 
 If Massive Attack's ""Blue Lines" depicted urban grooves and ""Mezzanine" depicted the urban psyche, ""Maxinquaye'' dives even deeper into the very inner beings of humans.
 
-There is no clear message here.
+ここには明快なメッセージはない。
 
 There is no right or wrong.
 
@@ -210,7 +210,7 @@ His deeply personal perspective was something that had rarely been seen in club 
 
 ## Expressive power of "whisper"
 
-""Maxinquaye" is characterized by Tricky's ""whispered" delivery rather than his own rapping.
+『Maxinquaye』を特徴づけるのは、Tricky自身のラップというよりも、**囁くような語り**である。
 
 It's not about making a strong statement.
 
@@ -306,7 +306,7 @@ This work's philosophy of ""depicting deep psychology through quiet voices'' can
 
 Its influence spanned alternative R&B, dark pop, electronica, and indie music, and became an important source of introspective pop music in the 21st century.
 
-In this ranking, ""Blue Lines" (19th place) created the genre, and ""Mezzanine" (81st place) is positioned as the work that perfected its sonic aesthetics, so it was ranked 82nd. However, the new realm of expression that ""Maxinquaye" pioneered, ""psychological depiction through music," continues to have a quiet and profound influence on subsequent popular music as a whole.
+In this ranking, ""Blue Lines" (19th place) created the genre, and ""Mezzanine" (81st place) is positioned as the work that perfected its sonic aesthetics, so it was ranked 82nd. However, the new field of expression that ""Maxinquaye" pioneered, ""psychological depiction through music," continues to have a quiet and profound influence on subsequent popular music as a whole.
 
 > **"'Maxinquaye" has evolved trip-hop from the "sound of the city" to the "sound of the heart'. It is ranked 82nd in this ranking as a work that opens up new possibilities for electronic music that depicts the inner world."**
 
@@ -320,7 +320,7 @@ In this ranking, ""Blue Lines" (19th place) created the genre, and ""Mezzanine" 
 
 ### **"The moment when techno became an art expressing "silence""**
 
-Consumed, released in 1998, is a historic work in which Richie Hawtin, aka Plastikman, separated minimal techno from its dance music functions and created a "sonic art stripped down to its limits."
+Released in 1998, **Consumed** is a historic work in which Richie Hawtin, aka Plastikman, separated minimal techno from its dance music functions and achieved ""sonic art stripped down to its limits.''
 
 The techno of the 1980s sang about the future, and the minimal techno of the early 1990s pursued space through repetition.
 
@@ -443,9 +443,9 @@ Consumed elevated minimal techno to a fully fledged art form.
 
 His influence spanned a wide range of fields, including micro house, sound art, contemporary ambient, and installation works, and he established the ""aesthetics of subtraction'' in electronic music.
 
-In this ranking, ""69: The Sound of Music" (76th place) and ""BCD" (79th place) are ranked high as works that were responsible for the structural innovation of techno, so we placed it at 83rd place. However, ""Consumed" is an important work that purifies this idea to the utmost and opens up a new realm of expression called ""techno that lets you listen to silence."
+In this ranking, ""69: The Sound of Music" (76th place) and ""BCD" (79th place) are ranked high as works that were responsible for the structural innovation of techno, so we placed it at 83rd place. However, ""Consumed" is an important work that purifies this idea to the utmost and opens up a new area of ​​expression called ""techno that makes you listen to silence."
 
-> **"'Consumed' strips down techno to its limits and establishes a new aesthetic of ""music that listens to silence itself." Due to its historical significance, it is ranked 83rd in this ranking."**
+> **「『Consumed』はテクノを極限まで削ぎ落とし、『沈黙そのものを聴く音楽』という新しい美学を確立した。その歴史的意義により本ランキング第83位に位置付ける。」**
 
 ---
 
@@ -455,7 +455,7 @@ In this ranking, ""69: The Sound of Music" (76th place) and ""BCD" (79th place) 
 
 ## Music for the Jilted Generation
 
-### **"The moment when rave was etched into history as a 'rebellious culture'"**
+### **"The moment when rave was carved into history as a 'rebellious culture'"**
 
 In 1994, **The Prodigy** released **Music for the Jilted Generation**, a historical work that symbolizes the maturation of rave culture as not just a trend, but a social movement.
 
@@ -571,7 +571,7 @@ This work is not an album that directly shouts political slogans.
 
 But tensions over state regulation, pressure on youth culture, and the freedom of club culture run through the album.
 
-Electronic music has now taken on the role of not only singing about the ""future" and ""machines," but also as a response to the real world.
+Electronic music has now taken on the role of not only singing about the ""future" and ""machines," but also responding to the real world.
 
 This attitude was inherited by later electro-punk and rave revivals.
 
@@ -692,7 +692,7 @@ At this point, electronic music once again approaches ""music to be performed" r
 
 ---
 
-## Reevaluating the art form of "album"
+## Re-evaluating the art form of "album"
 
 Since the late 1990s, electronic music has increasingly been talked about in terms of albums.
 
@@ -706,7 +706,7 @@ We build a world not based on one song, but on the time axis of one hour.
 
 One of the works that determined this trend was ""Second Toughest in the Infants.''
 
-This work may be the reason why many electronic musicians today emphasize the "album experience."
+This work may have shown why many electronic musicians today emphasize the "album experience."
 
 ---
 
@@ -714,7 +714,7 @@ This work may be the reason why many electronic musicians today emphasize the "a
 
 ""Second Toughest in the Infants'' is an important work that established the artistry of the full-length album in dance music.
 
-Its influence spans progressive electronica, live electronic, and album-oriented electronic music.
+Its influence extends across progressive electronica, live electronic, and album-oriented electronic music.
 
 In this ranking, works that created genres themselves and works that fundamentally changed the structure of electronic music are ranked higher, so they were ranked 85th. However, the value that this work proved, that ""electronic music can tell deep stories in the form of an album,'' was inherited by many subsequent artists, and became an important cornerstone of modern electronic music.
 
@@ -750,7 +750,7 @@ Sounds of life.
 
 Every sound material is broken down and given new life.
 
-Permutation was an album that didn't make you listen to samples, but made you forget the very concept of samples.
+Permutation was an album that didn't make you listen to samples, but rather made you forget the very concept of samples.
 
 ---
 
@@ -778,7 +778,7 @@ The result was not just a quote, but a completely new sonic world.
 
 ## From sampling to "acoustic design"
 
-In Permutation, the sample loses its original meaning.
+In Permutation, samples lose their original meaning.
 
 The horn makes noise.
 
@@ -869,7 +869,7 @@ His influence extends to diverse fields such as glitch, electronica, sound desig
 
 In this ranking, ""Endtroducing...." (30th place) and ""3 Feet High and Rising" (17th place) are ranked high as works that changed sampling culture itself, so we placed it at 86th place. However, ""Permutation" has high historical value as a work that refined this technique to the utmost and perfected the modern production idea of ​​""creating a new world using samples as raw materials."
 
-> **""'Permutation" evolved sampling from "quotation" to "sound design.' It is ranked 86th in this ranking as a work that laid the foundation for sound design in the digital age.''**
+> **"'Permutation" evolved sampling from "quotation" to "sound design'. As a work that laid the foundation for sound design in the digital age, it is ranked 86th in this ranking."**
 
 ---
 
@@ -978,7 +978,7 @@ From the club to the arena.
 
 This is where electronic music grows into a genre that can offer a live experience on par with a rock concert.
 
-This trend led to later live performances with video production by Daft Punk, Justice, The Chemical Brothers, and others.
+This trend would later lead to live performances accompanied by video production by Daft Punk, Justice, The Chemical Brothers, and others.
 
 ---
 
@@ -1022,7 +1022,7 @@ In this ranking, ""Music for the Jilted Generation" (84th place) is ranked 87th 
 
 ### **"The moment when IDM regained its "humanity""**
 
-The **Richard D. James Album**, released in 1996, is a historical work in which Richard D. James, also known as **Aphex Twin**, once again brought ""melody" and ""humor" into increasingly complex electronic music.
+The **Richard D. James Album**, released in 1996, is a historic work in which Richard D. James, also known as **Aphex Twin**, once again brought ""melody" and ""humor" into increasingly complex electronic music.
 
 1992's **Selected Ambient Works 85–92** (#20) opened up a new sonic space called ambient techno.
 
@@ -1179,7 +1179,7 @@ It can also be played on the radio,
 
 Nor did he choose to live up to commercial expectations.
 
-Mark Hollis' aim was not to make a sound, but to record the moment the sound was created.
+Mark Hollis' goal was not to make a sound, but to record the moment the sound was created.
 
 ""Laughing Stock'' is a work that changed rock from an art of performance to an art of listening.
 
@@ -1286,7 +1286,7 @@ The quiet revolution that this work pioneered flows through their works.
 
 Laughing Stock isn't just a quiet album.
 
-It was a work that turned the "white space" in music into a positive expression.
+It was a work that turned the "blank spaces" in music into active expression.
 
 That is later ambient.
 
@@ -1308,7 +1308,7 @@ Its influence extends not only to post-rock acts such as Bark Psychosis and Tort
 
 In this ranking, ""Spirit of Eden" (61st) is ranked higher as a decisive turning point for Talk Talk, so it is ranked 89th. However, ""Laughing Stock" further purified this idea and left a solid footprint in music history as a work that defined the value that ""music can speak even through silence.''
 
-> **"'Laughing Stock" transformed rock into "the art of listening to silence' and determined the idea of ​​post-rock. Due to its historical significance, it is ranked 89th in this ranking."**
+> **"'Laughing Stock" transformed rock into "the art of listening to silence' and defined the idea of ​​post-rock. Due to its historical significance, it is ranked 89th in this ranking."**
 
 ---
 
@@ -1318,7 +1318,7 @@ In this ranking, ""Spirit of Eden" (61st) is ranked higher as a decisive turning
 
 ## Hex
 
-### **"The moment when the word "post-rock" became a "sound""**
+### **"The moment the word "post-rock" became a "sound""**
 
 Released in 1994, **""Hex''** is a historical work in which **Bark Psychosis** fuses rock, jazz, ambient, and dub, and presents the concept of "post-rock" as a concrete sound for the first time.
 
@@ -1334,7 +1334,7 @@ There's bass and drums.
 
 Still, it doesn't sound like rock.
 
-""Hex'' marked the beginning of a new era of creating music that was not rock while using rock instrumentation.
+""Hex'' marked the beginning of a new era of creating music that was not rock music while using rock instrumentation.
 
 ---
 
@@ -1421,7 +1421,7 @@ A guitar that seems to disappear.
 
 Long aftertaste.
 
-Through this accumulation, the listener finds their own emotions.
+Through this accumulation, the listener will find their own emotions.
 
 This ""music that leaves things open to interpretation'' became a major feature of post-rock and film music that followed.
 

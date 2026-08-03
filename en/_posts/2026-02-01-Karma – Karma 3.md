@@ -14,7 +14,7 @@ title: Karma – Karma 3
 
 
 
-Karma is a duo consisting of Lars Vegas (Lars Dorsch), one of the founders of the record shop and label "Groove Attack" in Cologne, Germany, and DJ/producer Tom Dams.
+Karma is a duo consisting of Lars Vegas (Lars Dorsch), one of the founders of the record shop and label Groove Attack in Cologne, Germany, and DJ/producer Tom Dams.
 
 "Karma 3" is a Breakbeat/Downtempo track released by Groove Attack Productions in 1997.
 

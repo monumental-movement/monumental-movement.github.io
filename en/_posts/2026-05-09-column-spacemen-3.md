@@ -25,7 +25,7 @@ The new wave is sophisticated,
 Gothic deepens the shadows,
 Indie rock was looking for new expressions while expanding its DIY spirit.
 
-Spacemen 3 appeared in such an era.
+Spacemen 3 appeared in that era.
 
 Their music was the exact opposite of technique.
 
@@ -51,7 +51,7 @@ The sound image is shoegaze,
 drone,
 space rock,
 post lock,
-It has even influenced modern ambient music.
+It has even influenced contemporary ambient music.
 
 > Spacemen 3 was a rare rock band that created a huge space through "scarcity."
 
@@ -104,7 +104,7 @@ The two were particularly attracted to the following music.
 - The Velvet Underground
 -The Stooges
 -MC5
--13th Floor Elevators
+- 13th Floor Elevators
 -Suicide
 -Can
 - The Modern Lovers
@@ -128,7 +128,7 @@ Although the initial members were in flux,
 Eventually, the following structure will be established.
 
 - Jason Pierce
--Peter Kember
+- Peter Kember
 - Will Carruthers
 - Jonny Mattock
 
@@ -195,7 +195,7 @@ What the whole album has in common is that
 The idea is to "change your state of consciousness by repeating the same thing over and over again."
 
 The representative song "Ode to Street Hassle" is
-You can feel the strong respect for The Velvet Underground.
+I feel a strong respect for The Velvet Underground.
 
 on the other hand,
 In "Little Doll" etc.
@@ -407,7 +407,7 @@ Loud volume.
 Trance feeling.
 And elation.
 
-### Increased Gospel-ness
+### Increased Gospelness
 
 Jason Pierce
 Around this time, he began to lean toward gospel-style elation.
@@ -570,7 +570,7 @@ B --> E["90s Alternative"]
 C --> F["Ambient Drone"]
 </div>
 
-> Spacemen 3 left a legacy for subsequent generations of "how to create space within the roar."
+> Spacemen 3 left a legacy for subsequent generations about how to create space within a roar.
 
 ---
 

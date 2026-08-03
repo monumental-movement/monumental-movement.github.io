@@ -20,7 +20,7 @@ title: '[Column] NTS/Boiler Room live streaming artists and unknown performance 
 
 Text: mmr｜Theme: How DJ sets, experimental music, and unknown live performances have been formed and expanded around live streaming platforms.
 
-At the beginning of the 21st century, music performance spaces gradually expanded from physical venues such as clubs and concert halls to spaces where music is distributed via the Internet. Especially since the 2010s, live music streaming has become established as an independent form of performance, rather than just recording or broadcasting.
+At the beginning of the 21st century, music performance spaces gradually expanded from physical locations such as clubs and concert halls to spaces where music is distributed via the Internet. Especially since the 2010s, live music distribution has become more than just a recording or broadcast, and has become an independent form of performance.
 
 NTS Radio and Boiler Room have different origins and philosophies within this flow, but they are the ones that have made live streaming culture visible internationally. What both of them have in common is cross-genre, improvisation, and an attitude of distancing themselves from the existing framework of the music industry.
 
@@ -54,7 +54,7 @@ A feature of NTS is that it does not give any particular genre an advantage in p
 
 Boiler Room started out as a project to stream small indoor DJ events in London. The camera enters the same space as the DJ, and is characterized by a format that includes the presence of the audience.
 
-This format differs from traditional video recording in which a camera is installed behind the DJ booth, and has a structure in which the audience, space, and performers are all in the same frame. As a result, DJ performance has been visualized as an expression that includes "physical and social behavior" rather than an act of "only sound."
+This format differed from traditional video recording in which a camera was installed behind the DJ booth, and had a structure in which the audience, space, and performers were all in the same frame. As a result, DJ performance has been visualized as an expression that includes "physical and social behavior" rather than an act of "only sound."
 
 ---
 
@@ -148,7 +148,7 @@ The facts summarized in this paper will serve as a foundation for considering fu
 The practice of the live streaming artists appearing on NTS and Boiler Room is more about ""music as a body of movement'' than the name of a genre.
 
 DJ sets and experimental performances in live streams are presented as a state of continuous change over time, rather than as a finished piece of work.
-This can be viewed as "recordable movement."
+This can be regarded as "recordable movement."
 
 > "The moment music rejects fixed formats, its movement becomes most evident."
 
@@ -160,7 +160,7 @@ Traditionally, there was a distinction between music production in the studio an
 
 On NTS, it has been confirmed that there are many cases in which material in the middle of production or unfinished sound sources is played as is in the program. Boiler Room also occasionally releases live sets that are close to rehearsals.
 
-> "The disappearance of studios and locations freed music from 'preparation'"
+> "The disappearance of studios and locations freed music from 'preparation'."
 
 ---
 
@@ -184,7 +184,7 @@ Particularly on NTS, DJs create musical archives by continuing their programs ov
 
 ## Supplementary Chapter 5 Video Intervention and Refusal
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
+While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference directly affects the direction of performance.
 
 When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
 
@@ -210,7 +210,7 @@ This recontextualization extends the life of the work while rejecting a single i
 
 ## Supplementary Chapter 8 Economic Structure and Independence
 
-NTS and Boiler Room have demonstrated a model different from the traditional economic structure centered on record sales. Distribution is not only advertising, but also an activity itself.
+NTS and Boiler Room have demonstrated a different model from the traditional record sales-centered economic structure. Distribution is not only advertising, but also an activity itself.
 
 > "Live streaming exists as evidence of activity, not as a product."
 
@@ -218,7 +218,7 @@ NTS and Boiler Room have demonstrated a model different from the traditional eco
 
 ## Supplementary Chapter 9 Connection to music history
 
-These live streaming cultures are continuous with the history of improvisational music, experimental music, and DJ culture. New technologies do not make existing practices invisible, but reposition them.
+These live streaming cultures are continuous with the history of improvisational music, experimental music, and DJ culture. New technologies reposition existing practices rather than making them invisible.
 
 ---
 

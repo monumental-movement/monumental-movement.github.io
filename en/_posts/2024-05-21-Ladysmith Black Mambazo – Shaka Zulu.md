@@ -13,7 +13,7 @@ title: Ladysmith Black Mambazo – Shaka Zulu
 ---
 
 
-Founded in 1964 by Joseph Shabalala, Ladysmith Black Mambazo is a South African male choral group that sings in the isikatamiya (traditional Zulu music) and Mbube style.
+Founded in 1964 by Joseph Shabalala, Ladysmith Black Mambazo is a South African male choral group that sings in the isikatamiya (traditional Zulu music) and mbube style.
 
 He gained worldwide fame after appearing on Simon & Garfunkel"s Paul Simon"s album ""Graceland'' and won various awards including a Grammy Award.
 

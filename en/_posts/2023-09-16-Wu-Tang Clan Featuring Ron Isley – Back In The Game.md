@@ -19,7 +19,7 @@ This track features a groovy beat, classic sample, and strong rap performance.
 
 The members of Wu-Tang Clan rhyme with their own style and lyrics, expressing the reality of the streets and their love of hip-hop culture.
 
-Ron Isley's soulful vocals bring an emotional element to the songs that resonate with listeners.
+Ron Isley's soulful vocals bring an emotional element to the songs that resonate with the listener.
 
 #### Tracklist
 ```md

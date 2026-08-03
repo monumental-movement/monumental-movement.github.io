@@ -17,7 +17,7 @@ title: '[Column] Bay Area Noise/Experimental Music Scene — 50 Years of Destruc
 
 ## What happened in the Bay Area?
 
-Text: mmr｜Theme: The intersection of machines, collage, and improvisation -- the history and recommended discography of noise/experimental music nurtured in the Bay Area
+Text: mmr | Theme: The intersection of machines, collage, and improvisation -- the history and recommended discography of noise/experimental music nurtured in the Bay Area
 
 
 
@@ -59,7 +59,7 @@ flowchart TD
 
 #### Survival Research Laboratories (SRL)
 
-SRL, known for its destructive mechanical performance, was founded in 1978 by Marc Poulin. The show, which used huge equipment and the sounds of fire, dust, and metal, clearly presented the "visibility" and "danger" of noise, and established the Bay Area as a "testing ground for sound and machinery." SRL's activities are praised not only for expressing acoustic noise, but also for their perspective on industrial technology.
+Known for its destructive mechanical performance, SRL was founded in 1978 by Marc Poulin. The show, which used huge equipment and the sounds of fire, dust, and metal, clearly presented the "visibility" and "danger" of noise, and established the Bay Area as a "testing ground for sound and machinery." SRL's activities are valued not only for acoustic noise expressions, but also for their perspective on industrial technology.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Cp7aD0q63g?si=SGP_qqxe3psR5CwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -83,7 +83,7 @@ Matmos was formed in San Francisco in the 1990s and gained international acclaim
 
 ### Community and the field (Noise Pop, Bay Improviser, etc.)
 
-The Bay Area is home to indie festivals like Noise Pop and improvisational/experimental music communities like Bay Improviser, which are responsible for passing down expressions and venues for younger generations. These scenes circulate through the venue of "live" and provide a platform where old and new intersect.
+The Bay Area is home to indie festivals like Noise Pop and improvisational/experimental music communities like Bay Improviser, which are responsible for passing on the expression and venue of the younger generation. These scenes circulate through the venue of "live" and provide a platform where old and new intersect.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zuetPCa6C5U?si=GUpW_QiphCpXrUHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -107,11 +107,11 @@ The following are the main works mentioned in the main text.
 
 | Artist / Work | Year | Notes | Link |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *Escape From Noise* | 1987 | A mixture of tape collages and short songs, a masterpiece | [Amazon](https://amzn.to/47akMEX) |
+| Negativland — *Escape From Noise* | 1987 | A mixture of tape collage and short songs, a masterpiece | [Amazon](https://amzn.to/47akMEX) |
 | Matmos — *A Chance To Cut Is A Chance To Cure* | 2001 | Concept work using medical sounds | [Amazon](https://amzn.to/48IJtKN) |
 | Matmos — *The Civil War* | 2003 | Continuation of concept and sampling experiments | [Amazon](https://amzn.to/4gKSuoA) |
 | Bay Area compilation (regional edition) | 2010s | Mainly local distribution. Recommended to get from Bandcamp or local labels | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |
-| Bill Orcutt — *Jump On It* | 2023 | Experimental Acoustic. Representative examples of Bay Area guitar work |[Amazon](https://amzn.to/4o2jF0Q) |
+| Bill Orcutt — *Jump On It* | 2023 | Experimental acoustic. Representative examples of Bay Area guitar work |[Amazon](https://amzn.to/4o2jF0Q) |
 
 
 
@@ -119,7 +119,7 @@ The following are the main works mentioned in the main text.
 
 ### Summary (now/future)
 
-Noise/experimental music in the Bay Area is constantly being updated as an act of not only ""destruction" but also ""re-editing and critiquing." SRL"s mechanical theater, Negativland"s media criticism, Matmos' sound research—all have presented practices that go beyond music. Currently, a hybrid of digital distribution and local DIY is progressing, and Bandcamp and local festivals are supporting young artists. Listening and participating in the scene is the best way to understand this scene.
+Noise/experimental music in the Bay Area is constantly being updated as an act of not only "destruction" but also "re-editing and critiquing." SRL"s mechanical theater, Negativland"s media criticism, Matmos' sound research—all have presented practices that go beyond music. Currently, a hybrid of digital distribution and local DIY is progressing, and Bandcamp and local festivals are supporting young artists. Listening and participating in the scene is the best way to understand this scene.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

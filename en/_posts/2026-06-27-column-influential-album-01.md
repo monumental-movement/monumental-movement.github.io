@@ -11,9 +11,9 @@ tags:
 - Sampling
 - Techno
 - Rock
-title: '[Column] The 100 most influential albums in music history: A new music history
-  reconstructed solely based on the degree of influence on modern music (Part 1, 1-10:
-  10 revolutions that gave birth to modern music)'
+title: '[Column] The 100 most influential records in music history: A new history
+  of music reconstructed solely based on the degree of influence on modern music (Part
+  1, 1-10: 10 revolutions that gave birth to modern music)'
 ---
 
 
@@ -72,27 +72,27 @@ E --> F
 
 # 1st (1st place)
 
-## 1st place Sgt. Pepper's Lonely Hearts Club Band — The Studio as a New Instrument
+## 1st Place Sgt. Pepper's Lonely Hearts Club Band — The Studio as a New Instrument
 
-London in 1967. The Beatles had already stopped touring and withdrew from the stage. That blank space was not just a pause, but a time to redesign the act of recording itself.
+1967年のロンドン。ビートルズはすでにツアー活動を停止し、ステージから撤退していた。その空白は単なる休止ではなく、録音という行為そのものを再設計するための時間だった。
 
 Sgt. Pepper's Lonely Hearts Club Band is an album born as a result of this, with the concept of "a fictional live performance by a fictional band," and at the same time, it is a work that fundamentally rewrites the prerequisites for music production.
 
-At the time, pop music was still dominated by a ""single-centered'' industrial structure. However, this work deviates from that structure and introduces a new concept of time, in which the entire album is designed as one work.
+At the time, pop music was still dominated by a ""single-centered'' industrial structure. However, this work deviates from that structure and introduces a new concept of time, in which the entire album is designed as a single work.
 
 Recorded at EMI Studios (later Abbey Road Studios) in London, produced by George Martin. He brought the arrangement perspective of classical music to pop, integrating strings, brass, tape editing, reverse playback, and variable speed recording.
 
-Particularly symbolic is the "disappearance of breaks" between songs. Audience applause, ambient sounds, and orchestral glissandi dissolve the gaps between songs, making the entire album function as one continuous stream of consciousness.
+特に象徴的なのは、楽曲同士の“切れ目の消失”である。観客の拍手、環境音、オーケストラのグリッサンドが曲間を溶解させ、アルバム全体が一つの連続した意識流として機能する。
 
 This structure became a reference point for later concept albums and established the concept of a ""work unit'' in rock music.
 
-In terms of recording technology, countless tape dubbings were performed within the constraints of a 4-track recorder, creating artificial layers of sound. This "excessive density born from constraints" became the prototype for later studio productions.
+In terms of recording technology, countless tape dubbings were performed within the constraints of a four-track recorder, creating artificial layers of sound. This "excessive density born from constraints" became the prototype for later studio productions.
 
 Furthermore, as exemplified by ""A Day in the Life," the method of connecting different songwriting fragments through editing transformed traditional songwriting into ""the art of editing."
 
-Culturally, it was perfectly synchronized with 1967's Summer of Love and became a symbol of psychedelic culture. However, what is important is that it was not just a reflection of the times, but functioned as an ""editor'' of the times themselves.
+文化的には、1967年のサマー・オブ・ラブと完全に同期し、サイケデリック文化の象徴となる。しかし重要なのは、それが単なる時代の反映ではなく、時代そのものの“編集者”として機能した点である。
 
-Rather than music reflecting society, music redesigns society's perceptual structure. This reversal is happening here.
+音楽が社会を反映するのではなく、音楽が社会の知覚構造を再設計する。この逆転がここで起きている。
 
 The subsequent impact is direct. Progressive rock, art rock, and even modern pop album design are all under the influence of this work.
 
@@ -132,11 +132,11 @@ What is important here is the collapse of the concept of ""band = performance un
 
 Recording took place at a number of studios in Los Angeles, with the environments of Sanborn and Western Studio playing an especially important role. Brian Wilson considered the composition based on the "color of sound" and designed the music based on acoustic density rather than harmony.
 
-The instruments used are also unique. It incorporates sound materials that deviate from pop grammar, such as percussion that sounds like the sound of hitting a salmon can, bells, cello, and the theremin-like tone of the ondes martenot.
+The instruments used are also unique. It incorporates sound materials that deviate from pop grammar, such as percussion that sounds like a hammered salmon can, bells, cello, and the theremin-like tone of the ondes martenot.
 
 The result is "structural music for emotion." The hooks and riffs of traditional hit songs have been diluted, and instead the emotional flow itself is structured.
 
-This album became the starting point for later indie pop, dream pop, and even ambient pop. This is a turning point in music's transition from an ""extroverted expression" to an ""inner construction."
+このアルバムは後のインディーポップ、ドリームポップ、さらにはアンビエント的ポップの起点となる。音楽が“外向的な表現”から“内面的な構築物”へと移行する転換点である。
 
 Brian Wilson's mental stress during the production process was later talked about as a symbol of the relationship between creativity and isolation.
 
@@ -206,7 +206,7 @@ There are
 
 There existed a unique artistic realm in which both were mixed.
 
-The central figure is artist Andy Warhol.
+その中心人物こそ芸術家のAndy Warholである。
 
 Warhol went to a studio called the Factory.
 
@@ -218,7 +218,7 @@ Warhol went to a studio called the Factory.
 
 were brought together to form a new artistic community.
 
-Then, what appeared was
+そこへ現れたのが、
 
 * Lou Reed
 *John Cale
@@ -229,7 +229,7 @@ It was The Velvet Underground by The Velvet Underground.
 
 They weren't psychedelic or blues rock.
 
-They were the first rock band to bring the dark side of city life into their music.
+They were the first rock band to bring the dark side of city life directly into their music.
 
 ---
 
@@ -304,7 +304,7 @@ The record company at the time was
 * Reduce noise
 * Rewrite the lyrics
 
-It was common to request that.
+と要求することが普通だった。
 
 But Warhol gave no such instructions.
 
@@ -325,7 +325,7 @@ Recordings were made multiple times in 1966.
 The main recording location is
 
 * Scepter Studios
-*TTG Studios
+* TTG Studios
 
 It is.
 
@@ -337,17 +337,17 @@ Rather, the characteristic
 
 "Performance itself rather than recording technology"
 
-It was.
+だった。
 
 John Cale distorts the viola;
 
-Incorporating sustained sounds into rock bands.
+Incorporating sustained sounds into a rock band.
 
 In addition, Lou Reed's guitar used different tunings and repeated rhythms than a typical rock guitar, and he performed with an emphasis on texture rather than chords.
 
-Maureen Tucker, on the other hand, played a drum set with a different configuration than typical rock drummers, creating a minimalist beat that minimized the use of cymbals.
+一方、Maureen Tuckerはドラムセットを一般的なロックドラマーとは異なる構成で演奏し、シンバルの使用を極力抑えたミニマルなビートを生み出した。
 
-As a result, rather than each instrument competing in technique, a unique sense of immersion was created through the overlapping of constant rhythms and sustained sounds.
+As a result, each instrument did not compete with each other in terms of skill, but instead created a unique sense of immersion through the overlapping of constant rhythms and sustained sounds.
 
 <div class="mermaid">
 
@@ -371,19 +371,19 @@ E --> H[Alternative Rock]
 
 ---
 
-## Lyrics that depict taboos head-on
+## タブーを正面から描いた歌詞
 
 In 1967, many pop songs were about love.
 
 But Lou Reed
 
-* Heroin
+* ヘロイン
 * Prostitution
 *BDSM
 * urban solitude
 *Drug addiction
 * Violence
-* Gender
+* 性
 
 was depicted from a surprisingly calm perspective.
 
@@ -393,7 +393,7 @@ Rather than glorifying drugs, ""Heroin'' depicts the inner lives of addicts in t
 
 ""Venus in Furs'' is based on Venus in Furs and deals with sexual themes that were highly unusual in pop music at the time.
 
-These lyrics were not intended to be sensational per se, but were born from an attitude of trying to record the ""reality that exists in the city'' without embellishing it.
+これらの歌詞はセンセーショナルであること自体を目的としたものではなく、「都市に存在する現実」を装飾せず記録しようとする姿勢から生まれていた。
 
 > ""The greatest innovation of this work is that it presents not only a beautiful world, but a reality that no one has ever tried to sing about in the words of rock.''
 
@@ -401,13 +401,13 @@ These lyrics were not intended to be sensational per se, but were born from an a
 
 ---
 
-## Evaluation at the time of release - an album whose time was too early
+## Evaluation at the time of release - an album that was too early for its time
 
 The Velvet Underground & Nico, released on March 12, 1967, was not exactly well-received.
 
 The release label, Verve Records, is a prestigious label that handles a lot of jazz music, and they didn't have a clear strategy for how to market avant-garde rock music like this album.
 
-Immediately after the album"s release, problems arose over the issue of Warhol"s ""Banana'' sticker on the album jacket and the rights of the person appearing in the photo on the back, which forced a temporary suspension of shipments.
+Immediately after its release, problems arose including the issue of Warhol's ""Banana'' sticker on the album jacket and the rights of the person appearing in the photo on the back, which forced a temporary suspension of shipments.
 
 As a result, many regions disappeared from the market without sufficient distribution.
 
@@ -419,11 +419,11 @@ Many songs were not eligible for airplay due to the high possibility of violatin
 
 Commercial results were also poor, with initial sales being extremely limited.
 
-Although it briefly ranked in the album charts at the time, it was far from a big hit and could not be called a success in the eyes of the record company.
+当時のアルバム・チャートでは一時的にランクインしたものの、大ヒット作品には遠く及ばず、レコード会社から見れば成功作とは言えなかった。
 
 However, what is interesting is that the reactions of critics were also very divided.
 
-While some critics gave it a negative review, calling it ""uncomfortable," ""the performance is shoddy," and ""the lyrics are decadent," there were also a few who praised it highly, saying it ""showed a new direction for rock."
+While some critics gave it a negative review, calling it ""uncomfortable," ""the playing is shoddy," and ""the lyrics are decadent," there were also a few who praised it highly, saying it ""showed a new direction for rock."
 
 In other words, it"s not that this album wasn"t understood, but that ""very few people could understand it.''
 
@@ -435,17 +435,17 @@ In the 1970s, this album became a secret topic of conversation among used record
 
 A famous quote by music producer Brian Eno symbolizes this.
 
-> "The first album only sold 30,000 copies. But all 30,000 of them started a band."
+> "The first album only sold 30,000 copies. But all 30,000 people started a band."
 
 There are various theories about this statement, and no clear primary source material has been confirmed as to where Eno actually used this expression.
 
-However, the reason this phrase continues to be widely quoted is that it is, in fact, a very accurate expression of the historical impact of the work.
+However, the reason this phrase continues to be widely quoted is that it effectively describes the historical impact of the work so accurately.
 
-The young musicians who listened to this work received a new sense of value: ""The performance doesn"t have to be perfect," ""You can create music even if you don"t have a big studio," and ""It's okay to sing songs other than existing themes.''
+Young musicians who listened to this work received a new sense of value: ""The performance doesn"t have to be perfect," ""You can create music even if you don"t have a big studio," and ""It's okay to sing songs other than existing themes.''
 
 In other words, this album is not a work that teaches ""how to be successful.''
 
-It was a work that spread the idea that ""you can express yourself freely.''
+It was a work that spread the idea that ""it is okay to express oneself freely.''
 
 <div class="mermaid">
 
@@ -486,10 +486,10 @@ Furthermore, from the 1980s onwards, its influence became even more widespread.
 *Sonic Youth fuses noise and alternative rock.
 * R.E.M. established an indie rock aesthetic.
 * The Jesus and Mary Chain brought feedback noise to the fore.
-* Galaxie 500 has a minimalist performance and a deeper floating feeling.
+* Galaxie 500 has a deeper minimalist performance and floating feeling.
 * My Bloody Valentine elevated the roaring guitar to an artistic expression and laid the foundation for shoegaze.
 
-Although these bands differ in their musical style, they share a common position in the lineage of the Velvet Underground in their attitude of ""rewriting the rules of existing rock.''
+Although these bands have different musical styles, they share the same attitude of ""rewriting the rules of existing rock'' and are positioned in the lineage of the Velvet Underground.
 
 ---
 
@@ -517,7 +517,7 @@ What"s Going On, released on May 21, 1971, didn"t just change the history of sou
 
 This work was one of the biggest turning points in 20th century music, establishing the idea that ""pop music can speak about society.''
 
-At a time when hit songs up until then had centered around love and dance, this album focused on the themes of real life: war, racism, police violence, environmental destruction, poverty, faith, and family.
+それまでのヒット・ソングが恋愛やダンスを中心に描いていた時代に、本作は戦争、人種差別、警察暴力、環境破壊、貧困、信仰、家族という現実社会そのものをアルバム全体のテーマに据えた。
 
 Moreover, it was not a sermon, but an enveloping expression with an overwhelmingly beautiful melody and smooth groove.
 
@@ -525,7 +525,7 @@ After this work, Seoul gained a new status as not just entertainment, but as ""a
 
 ---
 
-## Turbulent American society
+## 激動するアメリカ社会
 
 Around 1970, America was in the midst of one of the greatest social unrests of the post-war era.
 
@@ -563,7 +563,7 @@ It was also important that his younger brother, Frankie Gaye, returned from the 
 
 His testimony strongly instilled in Marvin Gaye the awareness that ""war is not a heroic tale, but a reality that destroys human beings.''
 
-At the same time, police violence against black people, the civil rights movement stagnated, and poverty issues were looming as familiar realities.
+At the same time, police brutality against black people, the stagnation of the civil rights movement, and the issue of poverty were looming as familiar realities.
 
 He begins to feel strongly uncomfortable about ""continuing to sing only about love.''
 
@@ -575,7 +575,7 @@ The inspiration for ""What's Going On'' came from Renaldo Benson (Four Tops)' ex
 
 Benson felt, ""Why doesn't anyone sing about this situation?'' and began writing songs that looked at society.
 
-Later, composer Al Cleveland joined the band, and eventually Marvin Gaye himself rewrote the lyrics, developing the song to have a more universal perspective.
+Later, composer Al Cleveland joined the band, and eventually Marvin Gaye himself rewrote the lyrics, developing the song into a more universally oriented piece.
 
 "What"s Going On" in the title is more than just a question, "What"s going on?"
 
@@ -601,11 +601,11 @@ Therefore, they refused to release the single.
 
 But Marvin Gaye wouldn't budge.
 
-"If we don"t release this song, we won"t record it again."
+"If we don"t release this song, we won"t record it anymore."
 
 With that declaration, they effectively go on strike.
 
-Losing one of Motown's biggest stars was a huge loss.
+Motownにとって最大級のスターを失うことは大きな損失だった。
 
 Berry Gordy eventually relented, and the title track was released as a single in January 1971.
 
@@ -640,15 +640,15 @@ E --> F
 
 The album was recorded primarily at Hitsville U.S.A. Studio A (Detroit) and a studio in Los Angeles, where Motown was relocating.
 
-Motown's talented group of studio musicians, The Funk Brothers, participated in the production, and their outstanding playing skills supported the overall sense of unity of the work.
+The Funk Brothers, Motown's talented group of studio musicians, participated in the production, and their outstanding playing skills supported the overall sense of unity of the work.
 
 Unusually for the time, Marvin Gaye recorded his vocals not just once, but multiple times.
 
 The reason for this was a coincidence.
 
-When the engineer accidentally played different takes at the same time, Marvin Gaye liked the sound and asked to keep both.
+When the engineer mistakenly played different takes at the same time, Marvin Gaye liked the sound and asked to keep both.
 
-This double vocal method created a unique floating feeling, as if the main melody and free fakes were having a conversation, and became the iconic sound of this work.
+This double vocal technique created a unique floating feeling, as if the main melody and free fakes were having a conversation, and became the iconic sound of this work.
 
 Furthermore, the structure that connects songs with almost no interruptions was groundbreaking.
 
@@ -676,13 +676,13 @@ E --> G[new soul expression]
 
 ---
 
-## "One prayer" called a concept album
+## コンセプト・アルバムという「一つの祈り」
 
-What"s essential when talking about ""What"s Going On'' is its structure.
+『What's Going On』を語る上で欠かせないのが、その構成である。
 
 An album is not just a collection of songs.
 
-It is designed to be a story about a veteran returning home, looking at a changed society, and thinking about human conflict, environmental destruction, faith, family, and hope.
+It is designed as a story about a veteran returning home, looking at a changed society, and thinking about human conflict, environmental destruction, faith, family, and hope.
 
 The opening song, ""What's Going On," begins with the call, ""Brother, brother, brother," demonstrating the need for dialogue that transcends race and position.
 
@@ -729,13 +729,13 @@ The album received high praise immediately after its release in May 1971.
 
 Following the title song, ""Mercy Mercy Me (The Ecology)" and ""Inner City Blues (Make Me Wanna Holler)" were also hits, achieving great commercial success.
 
-What is noteworthy is that its success overturned the conventional wisdom in the music industry at the time that ""works that deal with social issues do not sell.''
+What is noteworthy is that its success overturned the conventional wisdom in the music industry at the time that ""works that deal with social issues will not sell.''
 
 Critics hailed it as Marvin Gaye's breakthrough from soul singer to all-around artist.
 
 This album also gave Motown artists greater creative freedom, allowing them to become more actively involved in album production.
 
-The idea of ​​having the artists themselves construct the overall theme and sound of their work, rather than being led by a record company, had a major influence on subsequent black music as a whole.
+The idea of ​​having the artists themselves create the overall theme and sound of their work, rather than being led by a record company, had a major influence on black music as a whole thereafter.
 
 ---
 
@@ -755,17 +755,17 @@ Curtis Mayfield further pushed the social nature of Soul with sharper depictions
 
 From the 1980s onward, Prince developed an artist-driven creative approach to producing albums that crossed genres.
 
-Furthermore, in the era of hip-hop, this spirit was inherited in new forms.
+Furthermore, in the era of hip-hop, this spirit was inherited in a new form.
 
 Public Enemy, 2Pac, Kendrick Lamar, and others have taken social inequality and racial issues as central themes in their works, and have continued the ""dialogue with society through music'' that this work opened up into the present day.
 
-In addition, neo-soul standard-bearers such as D'Angelo, Erykah Badu, and Maxwell were greatly influenced by this work in their approach of constructing the entire work as a single idea.
+In addition, neo-soul standard-bearers such as D'Angelo, Erykah Badu, and Maxwell were greatly influenced by this work in their approach to constructing the entire work as a single idea.
 
 ---
 
 ## Why is it ranked 4th in this ranking?
 
-What"s Going On isn"t a work that changed rock history.
+What"s Going On doesn"t change rock history.
 
 However, it is an album that fundamentally changed the way music speaks about society.
 
@@ -777,7 +777,7 @@ Today, expressing social issues and personal beliefs throughout a work is common
 
 One of the works that built this cultural foundation is ""What's Going On.''
 
-> "'What's Going On' confronts soul music with society and sublimates the album format into a single ideology. Can music change the world? It is a historical masterpiece that answers the question with beauty and empathy, and is worthy of being ranked 4th in this ranking."
+> "'What's Going On' confronts soul music with society and sublimates the album format into a single ideology. Can music change the world? - It is a historical masterpiece that answers the question with beauty and empathy, and is worthy of being ranked 4th in this ranking."
 
 
 ---
@@ -787,13 +787,13 @@ One of the works that built this cultural foundation is ""What's Going On.''
 
 ### An album that rewrote the future of jazz in "just two days"
 
-Kind of Blue, released on August 17, 1959, is the best-selling jazz album in history, and one of the most influential works in all of music history.
+Kind of Blue, released on August 17, 1959, is the best-selling album in jazz history, and one of the most influential works in all of music history.
 
 This work is not just a masterpiece.
 
 It was a revolutionary work that completely overturned the conventional wisdom of jazz performance and changed the way of thinking from ""performances that follow chord progressions" to ""performances that sing freely within a scale (mode)."
 
-With this single album, the new concept of mode jazz permeated the world, and it had an immeasurable influence not only on subsequent jazz, but also on rock, fusion, ambient, film music, and contemporary music.
+This single album spread the new concept of mode jazz to the world, and had an immeasurable influence not only on subsequent jazz, but also on rock, fusion, ambient, film music, and contemporary music.
 
 Despite its innovation, it only took two days to record.
 
@@ -807,7 +807,7 @@ Although hard bop and cool jazz later developed, many performers were still requ
 
 Miles Davis begins to feel the limits of this situation.
 
-He believed that by changing the chords one after another, the performer was forced to concentrate on following the harmony, and the room to freely sing the melody itself was limited.
+He believed that by changing chords one after another, the performer was forced to concentrate on following the harmony, and the room for singing the melody itself was limited.
 
 He sought a wider musical space and was searching for new ways to improvise.
 
@@ -833,13 +833,13 @@ The members who participated were some of the best in jazz history.
 *Paul Chambers
 * Jimmy Cobb
 
-In later years, these musicians, each of whom would go on to become masters of jazz history, gathered in one studio.
+In later years, performers who would each become masters representing the history of jazz gathered in one studio.
 
 In particular, the presence of Bill Evans was decisive.
 
-He was strongly influenced by impressionist music such as Claude Debussy and Maurice Ravel, and had a clear harmonic sense that was lacking in traditional jazz.
+He was strongly influenced by impressionist music such as Claude Debussy and Maurice Ravel, and had a clear sense of harmony that was lacking in traditional jazz.
 
-The sound perfectly matched Miles Davis's goal of ""music with spaces.''
+The sound perfectly matched Miles Davis's goal of ""music with blank space''.
 
 <div class="mermaid">
 
@@ -892,7 +892,7 @@ Rather than perfection, priority was placed on the tension and natural dialogue 
 
 Recording took place over two days, March 2 and April 22, 1959, at Columbia 30th Street Studio.
 
-This studio was a renovated building originally built as a church, and was known for its high ceilings and rich reverberations.
+This studio is a renovated building originally built as a church, and was known for its high ceilings and rich reverberation.
 
 It was an environment in which the original sound of the instrument spread naturally throughout the space without relying on artificial reverb.
 
@@ -927,11 +927,11 @@ F --> G
 
 The core of ""Kind of Blue'' lies in the idea of ​​modal improvisation.
 
-In traditional jazz, chord progressions change minutely, and improvisations are built on top of that. In other words, the performer had to constantly anticipate the ""next chord'' while assembling a phrase.
+In traditional jazz, chord progressions change minutely, and improvisations are built on top of them. In other words, the performer had to constantly anticipate the ""next chord'' while assembling a phrase.
 
 However, in modal jazz, a certain scale space is maintained for a long time. In this way, the performer can concentrate on the ""color changes within the scale" rather than ""the movement of chords".
 
-As a result, improvisation was freed from competitive techniques and changed to expressions more like singing or speaking.
+As a result, improvisation was freed from competition in technique and changed to expressions more like singing or speaking.
 
 This structure is not just a theory; it determines the atmosphere of the album as a whole.
 
@@ -963,11 +963,11 @@ Recording Kind of Blue was surprisingly simple.
 
 The sessions took place over just two days, and most of the songs were recorded in a state close to how they were first heard.
 
-Miles Davis did not prepare a detailed arrangement before entering the studio, and only gave the members very simple instructions.
+Miles Davis did not prepare detailed arrangements before entering the studio, and only gave the members very simple instructions.
 
 Although this method may seem haphazard at first glance, it is actually a highly designed ""aesthetics of constraints.''
 
-While giving freedom to the performers, by setting the framework of a mode, they were able to converge the infinite options into a certain direction.
+While giving freedom to the performers, by setting the framework of a mode, the infinite options were converged in a certain direction.
 
 Bill Evans later said of this production method, ""The work itself was not the finished painting, but the moment it was painted.''
 
@@ -1005,7 +1005,7 @@ However, this ""textbook conversion'' also creates a certain contradiction.
 
 Originally, this work was a record of free improvisation, music that refused to be confined by theory or form.
 
-Despite this, it continues to be analyzed in later generations as a ""textbook of mode jazz.''
+Despite this, it continues to be analyzed as a ""textbook of mode jazz'' in later generations.
 
 In other words, this album
 
@@ -1019,7 +1019,7 @@ It is also an existence with a paradox.
 
 ""Kind of Blue" can be described as a ""reinvention of language" in the history of music.
 
-However, in this ranking, it is positioned not as a work that destroys the structure itself, but as a work that expands on the inside of the structure.
+However, in this ranking, it is not positioned as a work that destroys the structure itself, but as a work that expands on the inside of the structure.
 
 The shift from bebop to mode was revolutionary, but still within the framework of jazz.
 
@@ -1041,7 +1041,7 @@ It was a turning point that disrupted the "commercial rock order" that had laste
 
 After this album, the center of the music industry changed dramatically.
 
-LA's hard rock scene and MTV-style star system quickly lost influence, and Seattle-based grunge rose to the center of global pop culture in its place.
+L.A.'s hard rock scene and MTV-style star system quickly lost influence, and Seattle-based grunge rose to the center of global pop culture in its place.
 
 This work was a symbol of that.
 
@@ -1063,7 +1063,7 @@ At the center of this was Nirvana, with vocalist/guitarist Kurt Cobain.
 
 They initially debuted on the indie label Sub Pop and were only a local presence.
 
-However, the music was already filled with elements that would disrupt traditional rock.
+However, the music was already packed with elements that would disrupt traditional rock.
 
 ---
 
@@ -1071,7 +1071,7 @@ However, the music was already filled with elements that would disrupt tradition
 
 Butch Vig was the producer of this work.
 
-He had the sense of balance to create a commercially viable sound image while retaining the roughness of an indie style.
+He had a sense of balance that allowed him to create a commercially viable sound while retaining the roughness of an indie style.
 
 Recording was primarily done at Sound City Studios.
 
@@ -1093,7 +1093,7 @@ Although it had a catchy melody at first glance, the sound was extremely rough, 
 
 Their signature song, ""Smells Like Teen Spirit,'' has been hailed as a youth anthem around the world, but its lyrics are full of irony and weariness.
 
-Kurt Cobain has often said that he "never intended to write a hit song," but the song ended up dominating MTV and radio.
+Kurt Cobain has often said that he "didn't intend to write a hit song," but the song ended up dominating MTV and radio.
 
 This phenomenon became a classic example of underground culture being absorbed into the mainstream.
 
@@ -1157,7 +1157,7 @@ Genres like this have expanded rapidly.
 
 Some bands, such as Foo Fighters, rearranged the structure of pop after grunge.
 
-In addition, the number of artists aiming for more introspective expressions is increasing, and values ​​that place more emphasis on ""emotional reality" than ""perfect performance" are becoming established.
+Additionally, the number of artists who are oriented toward more introspective expressions is increasing, and values ​​that place more emphasis on ""emotional reality" than ""perfect performance" are becoming established.
 
 ---
 
@@ -1167,7 +1167,7 @@ In addition, the number of artists aiming for more introspective expressions is 
 
 However, the essence of this is not the creation of a genre, but the ""reorganization of the existing rock industry''.
 
-While their top works changed the very language of music or the very structure of culture, Nevermind changed the era by renewing the core of pop-rock.
+While their top works changed the very language of music or the very fabric of culture, ""Nevermind'' changed the era by renewing the core of pop-rock.
 
 Nevertheless, the destructive power of this work is overwhelming.
 
@@ -1261,9 +1261,9 @@ This work is one of the complete forms of rock.
 
 However, at the same time, it remains at the "maximum reach within the framework of rock."
 
-While the top works move toward the dismantling of genres themselves and the redefinition of social structures, this album is located at the "ultimate refinement of the inner world."
+While his top works move toward the dismantling of genres themselves and the redefinition of social structures, this album is positioned at the "ultimate refinement of the inner world."
 
-> "'The Dark Side of the Moon' is a work that completely visualizes human consciousness as a sound structure. Its level of perfection is a milestone in rock history, and ranks it 7th in this ranking."
+> "'The Dark Side of the Moon' is a work that completely visualizes human consciousness as a sound structure. Its level of perfection is a milestone in the history of rock, and ranks it 7th in this ranking."
 
 ---
 
@@ -1324,7 +1324,7 @@ Ralf Hütter and Florian Schneider transformed music from "human expression" to 
 
 ---
 
-## Not the "origin" but a "branching point" of electronic music
+## Not the "origin" but the "branching point" of electronic music
 
 What is important is that this work is not just the beginning of electronic music.
 
@@ -1350,7 +1350,7 @@ This is the structural starting point for all of this.
 
 ""Autobahn" is a revolutionary work that turns music into a ""mechanical system."
 
-However, its scope is still limited to the "internal evolution of music."
+However, its scope is still limited to the ""internal evolution of music.''
 
 In the top works, music transforms the social structure and cultural system itself.
 
@@ -1371,7 +1371,7 @@ Music has already gone through three stages of transformation.
 * Mechanization (Autobahn)
 * Socialization (What's Going On / Nevermind)
 
-What remains at the end is a stage in which music has become an ""industry'' and has a worldwide domination structure.
+What remains at the end is a stage in which music has become an ""industry'' and has a worldwide control structure.
 
 The symbols are 9th and 10th.
 
@@ -1434,7 +1434,7 @@ In particular, the short film ""Thriller" elevated music videos to a ""movie-lev
 
 From then on, music expanded from ""something you listen to" to ""something you see."
 
-Perfectly coinciding with the rise of MTV, pop music moved to the center of visual culture.
+Perfectly in sync with the rise of MTV, pop music moved to the center of visual culture.
 
 ---
 
@@ -1452,7 +1452,7 @@ However, it is historically extremely important in that it completely integrated
 
 ## The moment music became a "political weapon"
 
-Released in 1988, It Takes a Nation of Millions to Hold Us Back transformed hip-hop from "entertainment" to "political media."
+It Takes a Nation of Millions to Hold Us Back, released in 1988, transformed hip-hop from "entertainment" to "political media."
 
 Public Enemy redefined the role of music with this album.
 
@@ -1538,7 +1538,7 @@ From this point on, music loses its "single center."
 
 What appears instead is:
 
-* Branch of Jazz (Fusion Avant Garde)
+* Branch of jazz (fusion avant-garde)
 * Rock collapse and post
 * Institutionalization of hip-hop
 * Birth of ambient/electronic music

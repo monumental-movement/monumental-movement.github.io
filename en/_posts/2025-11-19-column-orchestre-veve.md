@@ -20,7 +20,7 @@ title: '[Column] Orchestra Veve: A complete history of the prestigious band that
 
 Text: mmr｜Theme: Background to the formation of Orchestra Veve, musical characteristics of the golden era, technical aspects, analysis of representative songs, comparison with other bands
 
-Orchestra Veve is a band that occupies an important position in the music history of Congo (formerly Zaire). They were active at the turning point of the transition from rumba congolaise to soukous, and led the scene mainly in the 1970s with their vigorous recordings and innovative ensembles.
+Orchestra Veve is a band that occupies an important place in the music history of Congo (formerly Zaire). They were active at the turning point of the transition from rumba congolaise to soukous, and led the scene mainly in the 1970s with their vigorous recordings and innovative ensembles.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 
 By the late 1960s, Congolese music had already formed a competitive live culture in the Grande Quartier. As powerhouse bands such as OK Jazz, African Fiesta, and Zaïko competed with each other, and the sophistication of guitar ensembles and vocal polyphony accelerated, the number of independent labels supporting the success of young musicians was increasing.
 
-Orchestra Veve was born amidst this musical fluidity brought about by urbanization and media expansion in the post-independence era. In particular, it was a time when several emerging bands emerged due to the combination of Congo's strong dance culture, the expanding influence of broadcasters, and the demand for performances in street corners bars.
+Orchestra Veve was born amidst this musical fluidity brought about by urbanization and media expansion in the post-independence era. In particular, it was a time when several emerging bands emerged due to the combination of Congo's strong dance culture, the growing influence of broadcasters, and the demand for performances in street corners bars.
 
 ---
 
@@ -50,7 +50,7 @@ Orchestra Veve was born amidst this musical fluidity brought about by urbanizati
 
 Founder **Veve Verckys** was a saxophonist and a visionary businessman. He had already accumulated know-how in recording management through his activities with OK Jazz, established his own label Veve, and discovered and hired many young performers.
 
-Orchestra Veve is more than just a band.
+Orchestra Veve is more than just a band;
 **Performance team + recording team + production direction + promotion network**
 It was highly organized for its time.
 
@@ -72,11 +72,11 @@ At the end of the 1960s, Veve initially followed the traditional style of Rumba 
 - **Mix that brings the saxophone to the forefront**
 - **Use of three-tone harmony for male vocals**
 
-In particular, early recordings such as ""Nakomitunaka" and ""Mfumbwa" have been praised for their strong, linear melodies and enhanced dance characteristics, rather than the traditional meandering lead guitar. In addition, the works from this period introduced the unique ""hanging'' rhythm pattern of the Veve sound, which became the forerunner of the rapid evolution of soukousu later.
+In particular, early recordings such as ""Nakomitunaka" and ""Mfumbwa" have been praised for their strong, linear melodies, which are more danceable than the traditional meandering lead guitar. In addition, the works from this period introduced the unique ""hanging'' rhythm pattern of the Veve sound, which became the forerunner of the rapid evolution of soukousu later.
 
 ---
 
-# Chapter 4 1970s: Maturity of Sound and Golden Age
+# Chapter 4 1970s: Maturity of sound and golden age
 
 The early 1970s saw Veve's most creative period. With Veran himself in charge as a recording producer, he was able to achieve a compact recording system and mass releases at the same time.
 
@@ -116,7 +116,7 @@ ZAïko is mostly single line, and OK Jazz is mainly deep harmonies, whereas Veve
 
 ## Rhythm section innovation
 
-Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
+Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carve the back of the 16th minute, but rather creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
 
 ---
 
@@ -148,12 +148,12 @@ graph TD
 
 ## Song B: Mfumbwa — melancholy melody and call and response
 
-"Mfumbwa" is a song that symbolizes Veve's "narrative nature of songs" and is beautifully composed of call and response.
+"Mfumbwa" is a song that symbolizes Veve's "narrative nature of songs" and has a beautiful call-and-response structure.
 
 ### Technical analysis
 
 * **Saxophone presents melody at the beginning → Guitar imitates**
-* **Vocals are "questions" and choruses are "responses"**
+* **Vocal is the "question", chorus is the "response"**
 * **Linear, high-pitched guitar solo**
 
 ### Call and response structure
@@ -176,13 +176,13 @@ sequenceDiagram
 
 ## Song C: Nitarudia — Dance-oriented soukous eve
 
-In this song, a faster and more fragmented guitar appears as a precursor to the song becoming sokusu. It is said to be the most future-oriented sound of Veve's works.
+In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
 
 ### Technical analysis
 
 * **Hi-hat: 16 minute increments now available**
 * **Guitar: When viewed on a pentagram (staff), the arpeggio rises in a staircase pattern**
-* **Bass: Phrase that "bounces" in 2-bar units**
+* **Bass: "bounce" phrase in 2-bar units**
 
 ### Structure of guitar approach
 
@@ -201,7 +201,7 @@ flowchart LR
 # Chapter 7 Recording technology, studio environment, production system
 
 Veve's recording environment was one of the most advanced in Africa at the time.
-It had its own studio, had multiple recording engineers on staff, and had the following technical characteristics:
+It had its own studio and multiple recording engineers were always present, and had the following technical characteristics.
 
 - **Quickly take advantage of the transition period from 2-4 track recording to 4-8 track recording**
 - **Stereo method of swinging the guitar left and right**
@@ -212,10 +212,10 @@ One of the characteristics of this work is that it prioritizes the live exciteme
 
 ---
 
-# Chapter 8 Dance culture and reception history: Congo and the diaspora
+# Chapter 8 Dance Culture and Reception History: Within Congo and the Diaspora
 
 Veve"s music was very influential in Congo"s urban dance culture.
-It is especially popular at bars (dance halls), and each time a band's recording is played, certain steps become established.
+It is especially popular at bars (dance halls), where certain steps become established every time the band's recording is played.
 
 * **Style that uses large hand gestures**
 * **Steps with strong sideways movement**
@@ -238,7 +238,7 @@ Although both are from the same era, their directions are very different.
 
 ## Musical distance with OK Jazz
 
-Since Veran himself is from OK Jazz, they have the same sense of harmony and depth of melodic processing, but
+Veran himself is from OK Jazz, so they have the same sense of harmony and depth of melodic processing, but
 Veve is more modern and danceable compared to OK Jazz.
 
 ## Commonalities with Afrisa International

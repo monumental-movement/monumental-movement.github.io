@@ -51,7 +51,7 @@ color: #fff;
 
 ### The intersection of music and art
 
-The birth of The Durutti Column is inseparable from Manchester's legendary label Factory Records. This label produced artists such as Joy Division and New Order, and released works of art that included not only music but also design and concept into the world.
+The Durutti Column"s origins are inseparable from Manchester"s legendary label Factory Records. This label produced artists such as Joy Division and New Order, and released works of art that included not only music but also design and concept into the world.
 
 The Durutti Column's debut film, The Return of the Durutti Column, is a symbol of this. The jacket was made of a sandpaper-like material, a provocative design that would damage other records. This was both an artistic irony and a critique of the music industry itself.
 
@@ -65,11 +65,11 @@ However, the music on the inside, in contrast to its exterior, was extremely cal
 
 ### Don't just make a sound, make it resonate
 
-Vini Reilly's guitar almost nullifies the concepts of "riff" and "solo" in the context of rock. His performances are composed of silences between sounds.
+Vini Reilly's guitar almost nullifies the concept of "riff" or "solo" in the context of rock. His performances are composed of silences between sounds.
 
-Although he makes extensive use of delay and reverb, they are not just effects, but function as a means of manipulating time itself. Once a sound is played, it repeats, overlaps, and forms a new layer in space.
+Although he makes extensive use of delay and reverb, they are not just effects, but function as a means of manipulating time itself. Once a sound is played, it repeats in space, overlapping and forming new layers.
 
-This method had a major influence on later ambient and post-rock. In particular, there are many parts that resonate with Brian Eno's philosophy, and they share the perspective of viewing music as ""part of the environment.''
+This method had a major influence on later ambient and post-rock. In particular, there are many parts that resonate with Brian Eno's ideas, and they share the perspective of viewing music as ""part of the environment.''
 
 Below is a simplified diagram of its structure.
 
@@ -101,7 +101,7 @@ A[1980 early] --> B[ambient guitar]
 B --> C[1983 mid-term]
 C --> D[Rhythm introduction]
 D --> E[1986 onwards]
-E --> F[Fusion with electronic sounds]
+E --> F[Fusion with electronic sound]
 </div>
 
 For example, in ""LC," a clearer structure emerges, and in ""Another Setting," classical elements are emphasized.
@@ -122,7 +122,7 @@ Their music is extremely abstract, even compared to their contemporaries The Smi
 
 The rhythmic emphasis is weak, and there are almost no songs. Therefore, it does not rely on common pop structures. Although this was commercially disadvantageous, it resulted in an extremely long career.
 
-Additionally, their music has had an impact across genres. Traces of this can be seen in post-rock, ambient, and even modern lo-fi and electronica.
+Additionally, their music has had an impact across genres. Traces of this can be seen in post-rock, ambient, and even contemporary lo-fi and electronica.
 
 > Rather than belonging to a genre, they continued to create a space outside of the genre.
 
@@ -168,7 +168,7 @@ This song seems to have a clear melody line, but it"s actually vague. It leaves 
 
 This is no coincidence. Reilly's performance is designed to leave the melody as a "feel" rather than a fixed "sign".
 
-Therefore, as you listen to this song repeatedly, you will gradually begin to see its outline. What was initially felt as a landscape gradually became understood as a structure.
+Therefore, as you listen to this song repeatedly, you will gradually begin to see its outline. What was perceived as a landscape at first gradually became understood as a structure.
 
 > What remains in the memory is not the melody, but the texture of the atmosphere itself.
 
@@ -184,13 +184,13 @@ The sound leaves a lot of blank space and doesn't tell everything. Therefore, li
 
 Similarly, the season of summer has a specific image but has different meanings depending on the person.
 
-> This song does not "depict summer" but "reminds me of summer."
+> This song doesn't "depict summer" but "reminds me of summer."
 
 ---
 
 ### Distance from post-punk
 
-The uniqueness of this song is even more striking when compared to the post-punk works of the same era.
+This song's uniqueness is even more striking when compared to post-punk works of the same era.
 
 For example, while Joy Division expressed inner tension and despair with strong beats, ""Sketch for Summer'' has almost no tension.
 
@@ -206,9 +206,9 @@ This "emotional sparsity" was strongly connected to the context of later ambient
 
 This song is often described as ambient, but it's not exactly ambient music either.
 
-While Brian Eno defines ambient as ""music you can listen to or ignore," ""Sketch for Summer" is a little more foregrounded.
+While Brian Eno defines ambient as ""music you can listen to or ignore," ""Sketch for Summer" is a little more in the foreground.
 
-If you listen carefully, you can see the delicate structure, but it also works well when played as a background. This "in-between position" gives rise to the uniqueness of this song.
+If you listen carefully, you can see the delicate structure, but it also works well when played as a background. This "middle position" gives rise to the uniqueness of this song.
 
 > Ambiguity, which can be both background and foreground, is the essence of this song.
 
@@ -218,7 +218,7 @@ If you listen carefully, you can see the delicate structure, but it also works w
 
 The influence of ""Sketch for Summer'' is far-reaching, although it is rarely cited directly.
 
-It is familiar to the texture-oriented approach of guitar in post-rock, the ambiguous sonic image in lo-fi, and even the use of white space in contemporary ambient pop.
+It is familiar to the texture-oriented approach of guitars in post-rock, the ambiguous sonic images in lo-fi, and even the use of white space in contemporary ambient pop.
 
 In particular, the idea of ​​""creating a rich space with less sound'' has become an important reference point for many artists.
 
@@ -232,7 +232,7 @@ It's clear why this song, created over 40 years ago, still sounds fresh.
 
 This is because it does not depend on the era. Elements such as drum machine tones or synth trends are almost absent, and the focus is on the structure of the sound itself.
 
-As a result, the song always resonates in the present tense, without being tied to any particular era.
+As a result, the song always resonates in the present tense, without being anchored to a specific era.
 
 > "Sketch for Summer" is not music from the past, but music separated from time.
 
@@ -264,8 +264,15 @@ Music that is created by reducing the sound. A structure that emphasizes reverbe
 
 What"s most important is the fact that the music still hasn"t gotten old. In fact, in the modern listening environment, that "margin" resonates more richly.
 
-> The longest lasting music exists in silence.
+> The longest-lasting music exists in silence.
+
+---
 
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jOZFIiYgofo?si=K_H7HIBE2VKsrCBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

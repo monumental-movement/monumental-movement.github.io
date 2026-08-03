@@ -24,7 +24,7 @@ Furniture was a British pop band that was active from 1979 to 1991. Band members
 
 Furniture gained popularity in the early 1980s with a unique sound that incorporated elements of pop, new wave, and post-punk.
 
-This EP from their second album Furniture was released in 1985, and the band's music was characterized by catchy melodies, atmospheric acoustics, and introspective lyrics.
+This EP from their second album, Furniture, was released in 1985, and the band's music was characterized by catchy melodies, atmospheric acoustics, and introspective lyrics.
 
 Furniture's music received critical acclaim for its unique sound and sophisticated songwriting. They incorporated pop sensibilities while maintaining an alternative edge, fusing artistry and accessibility, but they were not commercially successful and disbanded in 1991.
 

@@ -10,7 +10,7 @@ tags:
 - No Wave
 - Bossa Nova
 - Nose
-title: '[Column] Border-crossing noise and bossa nova: Art Lindsay''s trajectory'
+title: '[Column] Crossing borders of noise and bossa nova: Art Lindsay''s trajectory'
 ---
 
 
@@ -21,7 +21,7 @@ Text: mmr｜Theme: The trajectory of Art Lindsay, who continued to traverse nois
 
 ### Between noise and sensuality
 
-When many people first hear the name Art Lindsay, they try to fit his music into one genre. But following his career, that attempt quickly becomes meaningless. He is one of the few who has been able to combine the noise of no wave and the softness of Brazilian music at the same time.
+When many people first hear the name Art Lindsay, they try to fit his music into one genre. But following his career, that attempt quickly becomes meaningless. He is one of the few who has managed to achieve both the noise of no wave and the softness of Brazilian music at the same time.
 
 In the avant-garde music movement that formed in New York in the late 1970s, he transformed the guitar from a ""melodic instrument" to a ""device that produces physical collision sounds." On the other hand, the humidity and physicality of Rio de Janeiro are deeply etched into his voice and compositions.
 
@@ -49,13 +49,13 @@ color: #fff;
 
 ### Childhood and cultural background
 
-Born in the United States, Lindsay spent much of her childhood in Brazil. Because his parents were missionaries, he was deeply immersed in the local culture. This experience became an important factor in determining his later musicality.
+Born in the United States, Lindsay spent much of her childhood in Brazil. Because his parents were missionaries, he became deeply immersed in the local culture. This experience became an important factor in determining his later musicality.
 
 The rhythmic fluctuations of Brazilian music, especially bossa nova and samba, the sound of Portuguese as a language, and the close relationship between the body and music. These feelings accumulate within him as natural sensations.
 
 The reason why he often sang in Portuguese rather than English in later years was due to the influence of this period.
 
-### Music as physicality
+### 身体性としての音楽
 
 One of the characteristics of Brazilian music is that sound is directly connected to the body. Rhythm is not just a structure; it is integrated with the movement of the body. Lindsay would carry this sensibility into his later experimental music.
 
@@ -77,7 +77,7 @@ This style fundamentally denied traditional rock values.
 
 ### The phenomenon of no wave
 
-No Wave was more than just a musical genre, it was a cultural movement that intersected art, film, and performance. In doing so, Lindsay explores the relationship between music, the body, and visual expression.
+ノー・ウェイヴは単なる音楽ジャンルではなく、アート、映画、パフォーマンスを横断する文化運動だった。リンゼイはその中で、音楽と身体、視覚表現の関係を探求していく。
 
 DNA's songs on No New York are still handed down as symbolic records of this movement.
 
@@ -135,7 +135,7 @@ Since the 1990s, as global music networks have expanded, the Japanese and New Yo
 
 His music differs from the extreme violence of Japanese noise, opening up to a more sensual and ambiguous direction. However, the underlying attitude of ""deconstructing sound'' is common to all of them.
 
-> The noises produced in different places were different answers to the same question.
+> The noises generated in different places were different answers to the same question.
 
 ---
 
@@ -209,26 +209,26 @@ The noise of no wave and the softness of Brazilian music. It is not easy to achi
 
 ### Suggestions for the future of music
 
-His activities demonstrate that music is not just a collection of genres, but an intersection of culture, the body, and space.
+彼の活動は、音楽が単なるジャンルの集合ではなく、文化や身体、空間の交差点であることを示している。
 
 In modern times, music is becoming increasingly diverse. A person like him gives us a hint to connect different elements.
 
-> Crossing borders itself is the essence of his music.
+> 越境すること自体が、彼の音楽の本質である。
 
 ---
 
-## Chronology
+## 年表
 
 <div class="mermaid">
 flowchart TD
-A[1953 Birth] --> B[childhood brazil]
-B --> C[1970s Moved to NY]
-C --> D[DNA formation]
+A[1953 Birth] --> B[幼少期 ブラジル]
+B --> C[1970s NY移住]
+C --> D[DNA結成]
 D --> E[Participating in No New York]
-E --> F[1980s Brazilian music approach]
+E --> F[1980s ブラジル音楽接近]
 F --> G[1990s Solo activity]
-G --> H[Resonance with Japanese noise]
-H --> I[2000s Collaboration/Production]
+G --> H[日本ノイズとの共振]
+H --> I[2000s コラボ・プロデュース]
 </div>
 
 

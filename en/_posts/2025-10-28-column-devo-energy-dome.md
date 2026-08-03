@@ -18,13 +18,13 @@ title: '[Column] DEVO and Energy Dome ─ Utopia and degeneration theory in the 
 ## Prologue: What does the red dome mean?
 
 
-Text: mmr｜Theme: Using DEVO's symbol "Energy Dome" as a clue, deciphering the theory of degeneration, technology, DIY thinking, and the transformation of pop culture
+Text: mmr｜Theme: Using DEVO's symbol "Energy Dome" as a clue, deciphering the theory of degeneration, technology, DIY thinking, and the transformation of pop culture.
 
 In the late 1970s, American new wave band **DEVO** embodied a new era of pop art, not only with their music but also with their visual iconography.
 The symbol of this is the red plastic hat they wore on stage and in their music videos -- **Energy Dome**.
 
 This strange, futuristic design was more than just a costume.
-According to DEVO, it is "a device for reusing the energy that humans wastefully emit."
+According to DEVO, it is "a device for reusing energy that humans wastefully emit."
 It was also a device that embodied their philosophy of De-Evolution through humor and irony.
 
 ---
@@ -62,7 +62,7 @@ This phrase was both an anti-establishment slogan and a social satire.
 
 DEVO has been a "music unit" and a "multimedia project" from the beginning.
 They will project live slide footage, create handmade videos, and perform performance art.
-His early film ""The Truth About De-Evolution'' from 1976 is known as an experimental film documenting American decadence.
+His first film, 1976's The Truth About De-Evolution, is known as an experimental film documenting American decadence.
 
 The film won an award at the Ann Arbor Film Festival in 1977 and caught the attention of **David Bowie** and **Iggy Pop**.
 After that, DEVO signed a contract with Warner Brothers and released their debut album ""Q: Are We Not Men? A: We Are DEVO!'' (1978) with Brian Eno as producer.
@@ -86,7 +86,7 @@ In other words, the Energy Dome is a humor device for "laughing at the system wi
 
 ## Chapter 4: DIY culture and techno-anarchism
 
-DEVO used home-made electronics and synthesizers to create their sound, with a tongue-in-cheek look at commercial rock.
+DEVO used home-made electronics and synthesizers to create their sound, albeit with a bit of irony towards commercial rock.
 Using Roland and ARP synths, they modified their own and reproduced proto-techno loop structures live.
 This practice can be said to be the prototype of the later **Independent/Lo-Fi movement**.
 
@@ -99,16 +99,16 @@ In the sense that DEVO itself became a "brand" and presented the contradictions 
 
 On the surface, the 1980 smash hit "Whip It" sounds like just comical synth-pop.
 However, the lyrics are a parody of anti-heroism, saying, ""Fix the world yourself.''
-DEVO's humor was not just nonsense, but functioned as a critique of a media-manipulated society.
+DEVO's humor was not just nonsense, but functioned as a critique of society that manipulates the media.
 
-In their music videos, they condense white laboratories, synthesized sounds, and mechanical movements into a pop-cynic format.
+In their music videos, they concoct white laboratories, synthesized sounds, and mechanical movements—all in a pop-cynic format.
 This is similar to Warhol's repetitive aesthetic, and is why they are said to be the first musical group to aestheticize irony.
 
 ---
 
 ## Chapter 6: Costume culture as social satire
 
-Energy Dome performed a parody of obedience through futuristic uniforms, while their punk contemporaries expressed rebellion with safety pins and leather.
+Energy Dome played a parody of submissiveness through futuristic uniforms, while their punk contemporaries expressed rebellion with safety pins and leather.
 ""Performing obedience is the most radical form of resistance.'' That was DEVO's paradoxical message.
 
 The structure can be easily visualized in a diagram as follows:
@@ -133,7 +133,7 @@ This "performance of obedience" is the gene that later led to Daft Punk and Kraf
 
 ## Chapter 7: DEVO's visual culture and anime structure
 
-DEVO's music videos consist of **post-anime edits** that reflect the information overload of the television generation.
+DEVO's music videos are composed of **post-anime edits** that reflect the information overload of the television generation.
 Fast-forwarding, replaying in reverse, and emphasizing artificial movements make it seem as if humans themselves have become robot-like beings.
 This visual style later influenced the production aesthetics of Japan's ""Detroit Metal City'' and Perfume.
 
@@ -150,7 +150,7 @@ In the 2020s, he continues to update his theory of degeneration to include NFTs 
 
 ---
 
-## Chapter 9: DEVO's trajectory as seen in the chronology
+## Chapter 9: DEVO's trajectory in chronology
 
 <div class="mermaid">
 
@@ -172,9 +172,9 @@ timeline
 
 ---
 
-## Chapter 10: Today's Significance of Energy Dome
+## 第10章：エナジードームの今日的意義
 
-The Energy Dome is still loved by DEVO fans as a "helmet of thought."
+The Energy Dome is still loved by DEVO fans as a ""thinking helmet.''
 During the coronavirus pandemic, **Energy domes with face shields** are sold,
 It has once again attracted attention as a warning about environmental issues.
 
@@ -188,13 +188,13 @@ It shows us the heretical wisdom of ""affirming degeneration.''
 
 DEVO's message is not just irony, but a philosophy for self-transformation.
 Under pressure to evolve, they dared to degenerate.
-Rather, that choice becomes a means of restoring human freedom.
+その選択が、むしろ人間的自由を回復する手段となる。
 
-> "Freedom of Choice is what you got. Freedom from choice is what you want."
+> “Freedom of Choice is what you got. Freedom from choice is what you want.”
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy dome is not a helmet that closes off the future.
-**Perhaps it is an icon for us to once again have the freedom to choose.**
+**It may be an icon for us to once again have the freedom to choose.**
 ---
 
 ## Related materials/references

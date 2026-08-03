@@ -18,7 +18,7 @@ title: '[Column] The sound of the mountain wind - the deep layers of the nasal f
 
 ## Prologue: "Breathing melody" that is not a voice or an instrument
 
-Text: mmr | Theme: The nasal flute of the Igorot people who live in the mountainous regions of the northern Philippines is not a voice or a musical instrument, but is ""music of breathing.'' This paper deciphers the relationship between mountain culture and sound, focusing on its origin, structure, and social role.
+Text: mmr｜Theme: The nasal flute of the Igorot people who live in the mountainous regions of the northern Philippines is neither a voice nor a musical instrument, but ""breathing music.'' This paper deciphers the relationship between mountain culture and sound, focusing on its origin, structure, and social role.
 
 The Cordillera region is located in the mountainous region of Luzon Island in the northern part of the Philippines. The Igorot people who live in this area have built their own culture along with the steep rice terraces. Among them, an instrument called the ""nose flute'' has a unique presence.
 
@@ -49,7 +49,7 @@ color: #fff;
 
 Igorots are not a single ethnic group, but a collective term for multiple ethnic groups living in the Cordillera region. Representative groups include Ifugao, Bontoc, and Kalinga.
 
-Their society has long developed under geographical conditions that make them less susceptible to external influences. While the steep mountains and terraced fields served as a defense against invasion by foreign invaders, they also served as the basis for maintaining a unique cultural system.
+Their society has long developed under geographical conditions that make them less susceptible to external influences. While the steep mountains and terraced fields prevented foreign invasion, they also served as the foundation for maintaining a unique cultural system.
 
 Music has also adapted to this environment. In contrast to the strong percussion culture (gong), the nasal flute is a very personal and reflective music. This shows the dual structure of sounds that go outside the community and sounds that go inside.
 
@@ -77,7 +77,7 @@ The most symbolic use of the nasal flute is during courtship. Cases have been re
 
 By expressing his feelings through melodies rather than words, he conveys his feelings while avoiding direct confessions. It is this indirectness that enhances the cultural value of the nasal flute.
 
-The nasal flute is also used for personal time. It is often played during breaks while working in the mountains or during alone time, and functions as a means of self-expression.
+The nasal flute is also used for personal time. It is often played during breaks in work in the mountains or during alone time, and functions as a means of self-expression.
 
 Importantly, this instrument does not exist for public performance. In the sense that it is music that does not assume an audience, the nasal flute is an extremely introverted cultural device.
 
@@ -95,7 +95,7 @@ The melodies are improvisational, and are more like "sounds born on the spot" th
 
 Music is not recorded; it exists in the moment and disappears. That fragility is part of the charm of the nasal flute.
 
-> The melody of the nasal flute is not something that is reproduced, but is a one-time sound that is created and then disappears on the spot.
+> The melody of the nasal flute is not something that can be reproduced, but is a one-time sound that is created and then disappears on the spot.
 
 ---
 
@@ -128,7 +128,7 @@ Value as a research object and practice as a culture. There is always a tension 
 
 ## The modern nasal flute: preservation and change
 
-In modern times, the nose flute is sometimes played in the context of tourism and cultural preservation. While this has the aspect of passing on tradition, it is also a situation that is different from the original usage situation.
+In modern times, the nose flute is sometimes played in the context of tourism and cultural preservation. While this has the aspect of passing on tradition, it is also a situation different from the original usage.
 
 Among younger generations, the frequency of traditional musical instrument use is decreasing due to urbanization and education. However, at the same time, there is also a movement to reevaluate it as a cultural heritage.
 
@@ -154,7 +154,7 @@ flowchart TD
 
 A nasal flute is a device that expresses feelings that cannot be put into words through sound. The sound is small and does not reach far. However, it is just that much more intimate and direct.
 
-The presence of the nasal flute stands in contrast to contemporary music, which often seeks loud volumes and complex structures. It is music that is created by ""reducing the sound" rather than ""increasing the sound."
+The presence of the nasal flute stands in contrast to contemporary music, which often strives for loudness and complex structures. It is music that is created by ""reducing the sound" rather than ""increasing the sound."
 
 A man breathes in the silence of the mountains. That action becomes music. Through its extreme simplicity, the nasal flute questions the essence of music.
 

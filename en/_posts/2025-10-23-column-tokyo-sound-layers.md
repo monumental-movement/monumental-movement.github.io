@@ -26,7 +26,7 @@ The sounds of trains, crowds, the hum of neon signs, street guitars, and undergr
 Each sound coexists, composing different eras and different layers.
 
 In this column, we will focus on four areas in Tokyo where musical cultures have intersected in particular: Shinjuku, Shibuya, Shimokitazawa, and Akihabara, and trace the changes in sound from the postwar period to the present day.
-It is not just a piece of local history, but a record of the city's "soundscape," a mirror image of society mediated by music.
+It is not just a piece of local history, but a record of the city's ""soundscape,'' a mirror image of society mediated by music.
 
 ---
 
@@ -61,7 +61,7 @@ The live house ""LOFT'' opened in 1976, establishing Shinjuku as a free zone for
 ## Chapter 2: Shibuya - Between the club and the street
 
 ### 1. The illusion of Shibuya-kei
-In the 1990s, Shibuya was in the spotlight as a ""music city connected to the world.''
+In the 1990s, Shibuya was in the spotlight as a "music city connected to the world."
 A network of sounds spreading from the 7th floor of Tower Records. Pizzicato Five, Cornelius, Kenji Ozawa.
 The pop sensibilities imported from overseas were simultaneously redefined as Japanese cool.
 
@@ -75,11 +75,11 @@ A city where house, techno, and hip-hop intersect, melting the boundaries betwee
 
 ### 1. Democratization of music starts in the studio
 In the late 1980s, young people gathered with guitars in Shimokitazawa, a neighborhood dotted with small studios and live music venues.
-"Shimokita" became a symbol of indie music, and was the birthplace of Number Girl, ASIAN KUNG-FU GENERATION, Kururi, and others.
+"Shimokita" became a symbol of indie music, and was the birthplace of artists such as Number Girl, ASIAN KUNG-FU GENERATION, and Kururi.
 
 ### 2. "Create your own music culture"
 Independent production, ZINE, and SNS without going through a record company.
-Inheriting the DIY spirit of music, Shimokitazawa still pulsates with live houses such as BASEMENT BAR and SHELTER.
+Inheriting the DIY spirit of music, Shimokitazawa continues to pulsate, centered around the live houses ""BASEMENT BAR" and ""SHELTER."
 
 ---
 
@@ -92,7 +92,7 @@ Although it is a melting pot of subculture, it has formed a new context that con
 
 ### 2. The sound of Akihabara is "augmented reality"
 A city where "music" and "technology" are fused. Live streaming, VTuber, AI music.
-Akihabara is a ""futuristic pop testing ground,'' and is evolving on a different timeline than other areas of Tokyo.
+Akihabara is a ""future pop testing ground'' that is evolving on a different timeline than other areas of Tokyo.
 
 ---
 
@@ -100,7 +100,7 @@ Akihabara is a ""futuristic pop testing ground,'' and is evolving on a different
 
 Improvisation at night in Shinjuku, beats in Shibuya, band sounds in Shimokitazawa, electronic sounds in Akihabara.
 Although these have independent contexts, they are now intertwined with each other.
-A Shibuya-raised truck maker incorporates Akihabara aesthetics, and a Shimokitazawa singer references Shinjuku jazz rhythms.
+A Shibuya-raised truck maker incorporates Akihabara aesthetics, while a Shimokitazawa singer quotes Shinjuku jazz rhythms.
 **Tokyo's sound exists as a "multilayered remix." **
 
 ---
@@ -119,7 +119,7 @@ All of them make up the huge sound archive that is Tokyo.
 Where will the next Tokyo sound come from?
 AI-generated music, virtual clubs, and live music on the streets.
 Although the form may change, the structure of ""a city that speaks with sound'' remains the same.
-The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara will continue to reverberate into the future as one "Tokyo beat."
+The nights of Shinjuku, the clubs of Shibuya, and the cyberspace of Akihabara will continue to reverberate into the future as one "Tokyo beat."
 
 ---
 
@@ -141,7 +141,7 @@ flowchart TD
 
     A1950["1950s: The birth of jazz cafe culture in Shinjuku"]
     A1970["1970s: Fusion of underground theater and rock (Shinjuku LOFT)"]
-    A1990["1990s: The rise of Shibuya-kei pops and club culture"]
+    A1990["1990s: The Rise of Shibuya Pops and Club Culture"]
     A2000["2000s: Vocaloid and remix culture spread from Akihabara"]
     A2010["2010s: Revival of Shimokitazawa Indies and Festival Culture"]
     A2020["2020s: The rise of AI music and virtual city live performances"]

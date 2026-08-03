@@ -284,7 +284,7 @@ This trend dramatically changed the speed of production.
 
 Even environmental sounds that once required recording techniques can now be used immediately.
 
-What is even more important is that we have entered an era in which the world can share the same materials.
+More importantly, we have entered an era in which the same materials are shared all over the world.
 
 As a result, genre boundaries rapidly become blurred.
 
@@ -425,7 +425,7 @@ imitate.
 Disassemble.
 Understand from there.
 
-This ""practical-first'' type of learning led to an explosive increase in the number of people producing music.
+This ""practice-first'' type of learning led to an explosive increase in the number of people producing music.
 
 > Music education in the YouTube era has changed from "learning and then creating" to "learning while creating."
 
@@ -448,11 +448,11 @@ Anime sample.
 
 Everything starts to mix together.
 
-A large number of ""unfinished experiments'' that were difficult to occur in the traditional label-driven format were released.
+A large amount of ""unfinished experiments'' that were difficult to occur in the traditional label-driven format were released.
 
 This was extremely important.
 
-This is because much of contemporary music is born from this "experimental space."
+This is because much of contemporary music is born out of this "experimental space."
 
 ### Hyperpop and sample feeling
 
@@ -500,7 +500,7 @@ Sampling famous songs = more expensive
 
 This situation arises.
 
-This was a big barrier for indie creators.
+This was a big hurdle for indie creators.
 
 ### Free samples were also "legal materials"
 
@@ -575,7 +575,7 @@ This brings us closer to ""editable materials.''
 flowchart TD
 A[sample culture] --> B[SNS spread]
 B --> C[short video]
-C --> D[meme]
+C --> D[meme-ization]
 D --> E[Re-edit]
 E --> F[Rediffusion]
 </div>
@@ -599,7 +599,7 @@ environmental sounds.
 
 AI is now able to generate these.
 
-In other words, it's not just about "using pre-recorded material."
+In other words, it's not just about "using pre-recorded material";
 The era of ""generating the necessary materials'' has begun.
 
 ### The next stage of democratization

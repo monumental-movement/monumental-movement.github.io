@@ -16,7 +16,7 @@ DHS (Dimensional Holofonic Sound) is a project by producer Benjamin Stokes, know
 
 Since 1988, DHS has been creating music, visuals, and live shows.
 
-This EP is a collection of selected DHS tracks, and is a wonderful EP that includes special versions of DHS's pioneering style, musical diversity, and evolution.
+This EP is a collection of a selection of DHS tracks, and is a wonderful EP that includes special versions of DHS's pioneering style, musical diversity, and evolution.
 
 The full-size LP was never pressed, so this is the only way these songs are available on vinyl.
 

@@ -12,7 +12,7 @@ title: VA – From Tokyo To Brussels EP
 ---
 
 
-A project album released in 2004 from MB Elektronics, a label run by Marco Bailey.
+A project album released in 2004 by MB Elektronics, a label run by Marco Bailey.
 
 A is a track by Japan"s leading techno DJ Q"hey and Belgian legend DJ Marco Bailey.
 

@@ -39,7 +39,7 @@ A pianist and an orchestra provided live music at the movie theater. Therefore, 
 
 Starting with [""The Jazz Singer'' (1927)] (https://amzn.to/3Wn4CTH), **Optical Sound** was introduced, and we entered an era in which audio information (scores) were recorded on video film.
 
-Around this time, the meaning of ""soundtrack = movie audio material'' became clear.
+Around this time, the meaning of ""soundtrack = audio material of a movie'' became clear.
 
 **●Major media for film music: technological changes in recording and playback**
 
@@ -73,13 +73,13 @@ Since the 1980s, it has become popular as a format with high sound quality, long
 
 It became possible to record full scores, creating a golden age for movie music appreciation.
 
-Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) have also appeared.
+Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) also appear.
 
 ■DVD/Blu-ray: Video + Music
 
 A medium for ""re-experiencing'' soundtracks in video works.
 
-The spatial expression of music has greatly evolved through stereophonic technology such as 5.1ch/DTS.
+The spatial expression of music has greatly evolved with stereophonic technology such as 5.1ch/DTS.
 
 ■Digital sound source (MP3/WAV/FLAC/AAC)
 
@@ -87,7 +87,7 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
+Everything from full scores to unreleased songs and alternate takes can be delivered in high resolution.
 
 ■Subscription (Spotify / Apple Music, etc.)
 
@@ -104,11 +104,11 @@ The boundary between "functionality" and "artistic" in film music is once again 
 flowchart TD
   A["🎞 Sound on film (1930s-1960s) Optical recording → magnetic recording. Stereo conversion and improved sound quality"]
   B["💿 Records (1950s-1980s) General distribution of film music. Mainly recording highlights."]
-  C["📼 Cassette / 8-track (1970s-80s) Popularity in home and car playback devices. Portability of movie music."]
-  D["💽CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
+  C["📼 Cassette / 8-track (1970s-1980s) Popularity in home and car playback devices. Portability of movie music."]
+  D["💽 CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
   E["📀 DVD/Blu-ray (1990s and later) Re-experience the soundtrack with video + 3D sound"]
   F["💻Digital sound source (2000s~) MP3/FLAC, etc. High-resolution distribution and communication by independent artists"]
-  G["☁ Subscription (2010s~) The era of listening to movie music. Making playlists and redefining them"]
+  G["☁ Subscription (2010s~) The era of listening to movie music. Create a playlist and redefine it"]
 
   A --> B --> C --> D --> E --> F --> G
 
@@ -193,13 +193,13 @@ Mixes based on Dolby Atmos and spatial audio are also on the rise.
 
 ### "Separation" and "reunification" of music and images
 
-The medium of film music is not simply a means of delivering sound; it is a device that can be separated from the image and appreciated on its own, or reconnected with the image to enable re-experience.
+The medium of film music is not simply a means of delivering sound; it is a device that can be separated from the image and appreciated on its own, or reconnected with the image to allow for a re-experience.
 
-Scores that give you new discoveries when you listen to them on CD (e.g. Thomas Newman's music)
+Scores that give you new discoveries when you listen to them on CD (e.g. music by Thomas Newman)
 
 A soundtrack that "evokes memories" by being separated from the images
 
-The emergence of next-generation media that is reintegrated with images, such as game music and VR
+The emergence of next-generation media that is reintegrated with video, such as game music and VR
 
 
 <hr>
@@ -208,7 +208,7 @@ The emergence of next-generation media that is reintegrated with images, such as
 
 Movie music remains in our hearts as "time" in a way that is different from stories and images. And those memories are preserved through the ""media'' of LPs, CDs, MP3s, and streaming, and are sometimes played back and sometimes forgotten.
 
-The sound that flows on the screen returns to us through the speakers. The medium is a vessel for memory and another device for reproducing the story.
+The sound that flows on the screen returns to our insides through the speakers. The medium is a vessel for memory and another device for reproducing the story.
 
 
 <hr>

@@ -12,7 +12,7 @@ title: Overrocket – Weather Forecast
 ---
 
 
-OVERROCKET is an electropop unit consisting of Denki Groove engineers Takashi Watanabe, Michiyo Honda, and Mitsuto Suzuki. B-side "Weather Forecast (Rain Hat Mix)" is a remix by DJ Tasaka.
+OVERROCKETは、電気グルーヴのエンジニア渡部高士、本田みちよ、鈴木光人のエレクトロポップ・ユニット。B面「Weather Forecast (Rain Hat Mix)」は、DJ TasakaによるRemix。
 
 #### Tracklist
 ```md
@@ -23,7 +23,7 @@ A2. Weather Forecast (Original Mix)
 B1. Weather Forecast (Rain Hat Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m66003495421?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66003495421?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQkvOezzJk8?si=kQdYFi8nqFnf2uYT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

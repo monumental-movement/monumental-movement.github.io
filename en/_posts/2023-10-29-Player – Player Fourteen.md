@@ -12,7 +12,7 @@ title: Player – Player Fourteen
 ---
 
 
-Player is a techno group consisting of a variety of members including Jon Nuccle, Mark Turner, Pete Simpson, and Richard Wilkinson.
+Player is a techno collective comprised of diverse members such as Jon Nuccle, Mark Turner, Pete Simpson, and Richard Wilkinson.
 
 #### Tracklist
 ```md

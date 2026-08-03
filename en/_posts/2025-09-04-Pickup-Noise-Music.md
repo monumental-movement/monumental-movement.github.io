@@ -153,7 +153,7 @@ B2  Shoot
 ### Tipsy – Nude On The Moon / Space Golf
 <a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20Space%20Golf.webp"></a>
 
-- **Background**: San Francisco lounge collage duo. A mixture of abstract/trip hop/experimental/noise elements.
+- **Background**: San Francisco lounge collage duo. A mix of abstract/trip hop/experimental/noise elements.
 - **Highlights**: Lo-fi texture x Mondo cut-up. It's also a pleasant introduction to "ear-friendly noise."
 
 #### Tracklist
@@ -209,7 +209,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 ## summary
 
-- **From the royal roar** *Merzbird*/Naked Rally's.
+- **If you enter from the royal roar** *Merzbird*/Naked Rally's.
 - *Smoking Kills* if you want to experience the texture of noise in a club context.
 - For a **collage approach**, try Hair Stylistics/Tipsy/WXBD.
 - **For those who like to make their own stuff**, check out the Eurorack column to find out about the best equipment before listening to it.

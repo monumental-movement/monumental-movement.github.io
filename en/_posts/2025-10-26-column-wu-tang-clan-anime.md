@@ -23,7 +23,7 @@ From there, a group called "Xiaolin" emerged that shocked the history of hip-hop
 **Wu-Tang Clan** - The chain of combative and philosophical words woven by nine MCs was a strange form of art that combined street violence with Buddhist tranquility.
 
 At the core of their worldview, **kung fu movies, oriental philosophy, and ""anime imagination''** coexisted.
-For black American youth in the 1990s, Asian culture was an ""exotic spiritual weapon'' and a means of escape from social oppression.
+For black American youth in the 1990s, Asian culture was both an ""exotic spiritual weapon'' and a means of escape from social oppression.
 Wu-Tang Clan sampled Bruce Lee, Sun Tzu, and Lao Tzu, and later resonated strongly with the aesthetics of Japanese anime.
 
 ---
@@ -81,7 +81,7 @@ In 2007, the Japanese anime ""Afro Samurai'' was broadcast nationwide.
 The voice actor is Samuel L. Jackson.
 RZA was in charge of the music.
 
-This work was a true ""mutual remix'' of Japanese and American culture, created by a Japanese studio and told by a black American artist.
+This work was created by a Japanese studio and told by a black American artist, making it a true ""mutual remix'' of Japanese and American culture.
 "Samurai" is no longer a foreign warrior, but has been redefined as an embodiment of hip-hop ethics.
 
 > "Sword = Mike" "War = Rap Battle"
@@ -96,7 +96,7 @@ At the same time, it became a pioneer of ""fusion with hip-hop'' for the Japanes
 
 After Wu-Tang Clan, hip-hop acquired the ""language to talk about anime.''
 Tyler, The Creator references "Akira" and "Neon Genesis Evangelion",
-Kanye West depicts an anime-like world in the MV for "Strong Feeling",
+Kanye West depicts an anime-like world in the music video for "Strong Feeling",
 Lil Uzi Vert and Megan Thee Stallion proudly incorporate "otaku culture" into their identities.
 
 All of these phenomena are an extension of the ""window to Oriental fantasy'' opened by Wu-Tang.
@@ -115,8 +115,8 @@ It emphasized the "Zen" aspect of hip-hop and resonated with RZA's spiritual wor
 In particular, Nujabes' music combines sampling and the aesthetics of ma.
 He was spiritually connected to the Wu-Tang Clan, the "Samurai of Sound."
 
-In the 2020s, clear references appear in Japanese anime works.
-The influence of lo-fi hip-hop can be seen in the BGM of "Jujutsu Kaisen".
+In the 2020s, clear references appear in Japanese anime works as well.
+The BGM of "Jujutsu Kaisen" shows the influence of lo-fi hip-hop,
 Multiple hip-hop artists will participate in the ending of "Chainsaw Man."
 Here, anime once again reconnects with the language of the "street."
 
@@ -126,7 +126,7 @@ Here, anime once again reconnects with the language of the "street."
 
 The "East" seen by the Wu-Tang Clan is not a figment of imagination;
 It was a structural diversion to introduce philosophical elements such as **self-discipline, serenity, and spiritual unity** into a world of violence.
-At the same time, it is in line with the ""stories of battle and growth'' that Japanese anime has depicted.
+At the same time, this is in line with the ""stories of battle and growth'' that Japanese anime has depicted.
 
 Street MCs sharpen their rap skills like a sword,
 Anime characters transcend themselves through "training."

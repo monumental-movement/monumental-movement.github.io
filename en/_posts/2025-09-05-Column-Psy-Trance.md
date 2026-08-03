@@ -14,14 +14,14 @@ title: '[Column] Psy-Trance history, masterpieces, and 10 recommended tracks'
 
 
 
-## Psychedelic Trance — A chronicle of chronology and changes in equipment from its origins to the present
+## Psychedelic trance (Psy-Trance) — A historical chronicle of psychedelic trance from its origins to the present and changes in equipment
 
 Text: mmr｜Theme: History of Psy-Trance from its origins to the present
 
 
 Goa trance, which originated from the hippie/rave culture in Goa, spread around the world in the mid-1990s as "psychedelic trance." Since then, a variety of derivative genres (Full-on, Darkpsy, Progressive, Psybient, etc.) have been created through the sophistication of sound images and the digitization of equipment, and it has become global through festival culture and online distribution.
 
-The following is a summary of trends by generation, representative masterpieces, changes in equipment, and **10 recommended tracks from each era**.
+Below, we will summarize the trends by generation, representative masterpieces, changes in equipment, and **10 recommended tracks from each era**.
 
 
 ---

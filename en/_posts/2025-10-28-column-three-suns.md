@@ -56,7 +56,7 @@ It can be said that this one song gave birth to the concept of "home music" in p
 
 The sound of the accordion is connected to the nostalgia of soldiers returning from the battlefield.
 The guitar and organ gently envelop it.
-That sound was a "light of sound" that warmed the microcosm of the home.
+そのサウンドは、家庭という小宇宙を温める“音の灯火”だった。
 
 ---
 
@@ -120,7 +120,7 @@ The ""ma'', where the density of sound is thin and exists like air, was the fore
 | Air | French duo | Analog feel and floating melody |
 | Cornelius | Japan | Home acoustic sound construction |
 | Stereolab | British and French | Retro-Future Sound |
-| Beirut | America | Standard-bearer of accordion revival |
+| Beirut | America | Standard-bearer of accordion restoration |
 
 ---
 
@@ -149,13 +149,13 @@ timeline
 
 The sound of Three Suns still lingers.
 An old coffee shop on the corner, an old YouTube channel, or a lo-fi playlist.
-Somewhere, I can hear the accordion breathing.
+Somewhere in there, I can hear the breathing of an accordion.
 
 > The accordion is the "lungs" between machines and humans.
 > That was the core of Three Suns' music.
 
 Accordions are not outdated;
-It is once again starting to sound for the sake of an ""analog future.''
+It is beginning to sound once again for the sake of an ""analog future.''
 
 ---
 

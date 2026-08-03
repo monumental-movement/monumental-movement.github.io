@@ -20,7 +20,7 @@ Text: mmr｜Theme: UK Techno Culture
 <hr>
 
 ### Techno, another UK revolution
-In the 1990s, techno deepened and mutated in sound and spirit, like a child born in Detroit growing up in the UK. Britain not only embraced this music, but expanded it from the underground to clubs, raves and venues for sonic experimentation. In this article, we will cover the overall picture of 90s UK techno from the perspectives of culture, music, people, and labels.
+In the 1990s, techno deepened and mutated in sound and spirit, like a child born in Detroit growing up in the UK. Britain not only embraced this music, but expanded it from the underground to clubs, raves, and venues for sonic experimentation. In this article, we will cover the overall picture of 90s UK techno from the perspectives of culture, music, people, and labels.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -71,7 +71,7 @@ Founded by Regis. Together with Surgeon and others, he defined the ""Birmingham 
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
-A sub-label of Mute Records. With artists such as Luke Slater, Speedy J, and Laurent Garnier, they have spread not only to the UK but also to the techno scene throughout Europe.
+A sub-label of Mute Records. With artists such as Luke Slater, Speedy J, and Laurent Garnier, they have spread to the techno scene not only in the UK but also throughout Europe.
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 

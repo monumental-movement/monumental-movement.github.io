@@ -14,7 +14,7 @@ title: MK – Burning
 
 MK (Marc Kinchen) is a music producer/DJ/remixer from Detroit. "Burning" is one of MK's masterpieces.
 
-The first track on Side A is a remix by Klubbheads, a dance music producer/DJ team from the Netherlands.
+A面1曲目は、オランダ出身のダンスミュージックプロデューサー/DJ チームKlubbheads（クラブヘッズ）によるremix。
 
 The first song on side B is a remix by Sharam Jey, an Iranian DJ/producer living in Germany.
 

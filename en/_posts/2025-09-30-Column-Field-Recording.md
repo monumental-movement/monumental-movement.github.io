@@ -113,11 +113,11 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - Example: A microphone is installed in a cavity under the asphalt of a road to record minute vibrations.
 
-- The method is similar to a scientific experiment, but the results are transformed into an aesthetic experience.
+- The method is similar to a scientific experiment, but the results are converted into an aesthetic experience.
 
 #### Francisco Lopez
 
-- Hand out "eye masks" to the audience and perform a performance in which they can listen to the sound in total darkness.
+- Hand out "eye masks" to the audience and perform a performance where they can listen to the sound in total darkness.
 
 - Aims to "erase the boundary between music and environmental sounds."
 
@@ -154,7 +154,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 #### Alan Lomax and Ampex
 
-- The Ampex of the 1950s was very large and weighed several tens of kilograms.
+- Ampex from the 1950s was very large and weighed several tens of kilograms.
 
 - Lomax used this as a mobile studio to record.
 

@@ -17,7 +17,7 @@ title: '[Column] YHWH Nailgun: The critical point of contemporary alternative re
 
 ## Introduction: "Sounds that are difficult to name" outside the genre
 
-Text: mmr | Theme: YHWH Nailgun's musical characteristics and background, scene context, and expression structure
+Text: mmr｜Theme: YHWH Nailgun's musical characteristics and background, scene context, and expression structure
 
 YHWH Nailgun is often talked about as having a musicality that doesn't fit into conventional rock or noise classification systems.
 While maintaining the basic composition of guitar, drums, and vocals, the sound intentionally disrupts the stability of rhythm and tonality, presenting a fragmented structure.
@@ -55,7 +55,7 @@ Words that evoke holiness and words that evoke violent mechanicality are connect
 
 This structure of the name is not just a novelty, but is consistent with the artist's attitude of recreating the tension created by the clash of meanings in the form of sound.
 
-The band's aesthetic has always been in the direction of ""rejecting the stabilization of meaning,'' and they tend to intentionally dismantle chord progressions and formulaic developments that make listeners feel at ease.
+The band's aesthetics have always been in the direction of ""rejecting the stabilization of meaning,'' and they tend to intentionally dismantle chord progressions and formulaic developments that give the listener peace of mind.
 
 <div class="mermaid">
 flowchart TD
@@ -67,7 +67,7 @@ D --> B
 
 This circular structure becomes an important frame in their understanding of music.
 
-> The name itself already functions as a metaphor for the acoustic structure.
+> 名称そのものがすでに音響構造のメタファーとして機能している。
 
 ---
 
@@ -78,20 +78,20 @@ This circular structure becomes an important frame in their understanding of mus
 YHWH Nailgun"s sound isn"t just an extension of noise rock or hardcore, but a structurally controlled breakdown.
 
 The guitars sometimes function as riffs, but they are often placed intermittently as rhythmic reference points and never reach full repetition.
-While the drums maintain a metrical stability, they refuse to establish a fixed groove through intentional shifts and asymmetrical accents.
+While the drums maintain a metrical stability, they refuse to have a fixed groove through intentional shifts and asymmetrical accents.
 
 Vocals are often arranged as rhythmic fragments rather than melodies, and function more as sonic collisions than linguistic meanings.
 
 <div class="mermaid">
 flowchart TD
-G[guitar fragments] --> S[spatial distortion]
+G[ギター断片] --> S[spatial distortion]
 D[drum pattern] --> S
 V[vocal fragment] --> S
 S --> R[Reconfigured rhythm space]
 R --> G
 </div>
 
-This structure has a design concept that dismantles the conventional hierarchy of ""song = main melody + accompaniment'' and levelizes all elements.
+この構造は、従来の「楽曲＝主旋律＋伴奏」という階層を解体し、全要素を水平化する設計思想を持つ。
 
 > Sound functions as a rewired circuit rather than destruction.
 
@@ -105,7 +105,7 @@ To understand YHWH Nailgun, we cannot ignore the context of experimental music, 
 
 Historically, industrial, noise, art rock, and post-punk have intermingled in this region, and the boundaries between genres have remained vague for a long time.
 
-Although YHWH Nailgun is an extension of this, it is distinctive in that it swings in the direction of pushing for more extreme structural collapse.
+Although YHWH Nailgun is an extension of this, it is distinctive in that it swings in the direction of pushing the collapse of the structure to an even more extreme level.
 
 Furthermore, due to the intersection of DIY production environments and art space contexts, there is a strong tendency for live performances and recordings to be treated as ""phenomena'' rather than mere music reproduction.
 
@@ -122,7 +122,7 @@ YHWH Nailgun's live performance is not just a reproduction of a song, but a reco
 The boundaries between songs are blurred, and fragments are connected to form a whole.
 Rather than following a fixed song order, the audience will experience a continuous change in energy state.
 
-The volume dynamics are also extreme, and the design creates physical tension by rapidly switching between silence and saturation.
+The volume dynamics are also extreme, and the design is designed to create physical tension by rapidly switching between silence and saturation.
 
 <div class="mermaid">
 flowchart TD
@@ -194,7 +194,7 @@ In this way, "changes in density" are more important indicators than clear turni
 
 ---
 
-YHWH Nailgun presents the sonic state itself, rather than the completeness of each song or genre consistency.
+YHWH Nailgun is an entity that presents the sonic state itself, rather than the completeness of each song or genre consistency.
 
 The sound is always located between collapse and reconstruction, and continues to move without a stable center.
 Therefore, the listening experience stands up as a phenomenon of being involved, rather than understanding.

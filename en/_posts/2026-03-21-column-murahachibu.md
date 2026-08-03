@@ -18,11 +18,11 @@ title: '[Column] Murahachibu and 1970s Japan: Deviating sounds, rejecting societ
 
 ## What was Murahachibu?
 
-Text: mmr｜Theme: Thoroughly deciphering the deviant music that was born behind the scenes of high economic growth and its social background.
+文：mmr｜テーマ：高度経済成長の裏側で生まれた逸脱の音楽と、その社会的背景を徹底的に読み解く
 
 ### Thought of rejection indicated by the name
 
-In the early 1970s, ostracism emerged as an extremely unique entity in Japanese rock history. The name is taken from a word that means punishment in traditional Japanese communities, and it was an extremely provocative statement of intent, calling itself ""exclusion from the community.''
+In the early 1970s, ostracism emerged as an extremely unique group in Japanese rock history. The name is taken from a word that means punishment in traditional Japanese communities, and it was an extremely provocative statement of intent, calling itself ""exclusion from the community.''
 
 At the center of this band was vocalist Kazushi Shibata, commonly known as Charbo. He was more than just a singer, he was a challenge to society at the time. Rather than well-rounded singing or technique, the singer's rough and unstable voice reflected the distortions of the times.
 
@@ -97,11 +97,11 @@ Although this type of expression was considered immature by the mainstream music
 
 ### Unvisible existence
 
-Ostracism rarely appeared in mass media such as television or radio. This was not simply due to a lack of opportunity, but rather because their expressions did not fit within the media framework.
+Ostracism rarely appeared in mass media such as television or radio. This was not simply due to a lack of opportunity, but because their expression did not fit within the media framework.
 
 The music industry at the time consisted mainly of folk and popular songs, with an emphasis on message quality and friendliness. The music of ostracism did not fit into either of these categories.
 
-As a result, there were very few opportunities for their work to be recorded, and their lives were passed down primarily through live experiences. This ""lack of records'' would greatly contribute to the mythologizing in later years.
+As a result, there are very few opportunities for their work to be recorded, and their lives are only passed down through live experiences. This "lack of records" would greatly contribute to the mythization of the story in later years.
 
 > Precisely because they are invisible, their existence is amplified by imagination.
 
@@ -172,7 +172,7 @@ In contemporary Japan's underground music and DIY culture, the influence of ostr
 
 A production method that does not rely on existing frameworks, a focus on the live space, and a way of thinking that prioritizes freedom of expression - these are still shared by many artists today.
 
-Their music continues to be re-evaluated in new contexts through the development of re-recorded sources and archives.
+Their music continues to be re-evaluated in new contexts through the development of new sound sources and archives.
 
 > Ostracism does not exist in the past, but has an ongoing influence.
 

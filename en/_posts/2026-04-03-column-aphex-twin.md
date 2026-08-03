@@ -19,7 +19,7 @@ title: '[Column] Aphex Twin''s philosophical view of music: coexistence of order
 
 Text: mmr｜Theme: Aphex Twin's philosophical view of music that embodies the coexistence of order and disorder in electronic music
 
-Music usually has a ""conductor of understanding.'' Melody, rhythm, development—these guide the listener. However, in Aphex Twin's music, this line of conductor is intentionally severed.
+音楽には通常、「理解の導線」がある。メロディ、リズム、展開——それらが聴き手を導く。しかしAphex Twinの音楽には、その導線が意図的に断ち切られている。
 
 Beats disintegrate, melodies are fragmented, and the placement of notes is unpredictable. Even so, the listener can still feel the "beauty" in it. Where does this phenomenon come from?
 
@@ -27,7 +27,7 @@ His works directly affect "perception" rather than understanding. The sound itse
 
 More importantly, the disorder is not completely random. There is always an internal structure to his sound. Behind what appears to be chaos, there is an extremely precise design. This "invisible order" gives the listener a unique sense of security and discomfort at the same time.
 
-In other words, his music is not ""incomprehensible," it's just ""a different way of understanding it."
+In other words, his music is not ""incomprehensible," it's just that ""the way we understand it is different from conventional ways."
 
 > People feel beauty not because they cannot understand something, but when their way of understanding is updated.
 
@@ -56,7 +56,7 @@ Richard D. James, also known as Aphex Twin, was born in 1971 in Cornwall, southw
 
 However, the important thing is not whether it is a lie or true. He is dismantling the ""actual image of an artist"' itself. In other words, it is a strategy that obscures the relationship between the work and the personality and sways the listener"s interpretation.
 
-Also, his face often appears in distorted forms in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the face, which is the most identifying information, the very question of "who you are" is invalidated.
+Also, his face often appears distorted in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the face, the most identifying information, the question of "who you are" is invalidated.
 
 This anonymity is also a device for focusing on the music itself.
 
@@ -68,11 +68,11 @@ This anonymity is also a device for focusing on the music itself.
 
 Aphex Twin's career coincides with the evolution of electronic music itself.
 
-First is Selected Ambient Works 85–92, which is one of his early masterpieces. This piece is composed of a simple drum machine and floating synth sounds. Emphasis was placed on "space" and "emotion" rather than complexity, and it determined the direction of later ambient techno.
+First is Selected Ambient Works 85–92, which is an early masterpiece. This piece is composed of a simple drum machine and floating synth sounds. Emphasis was placed on "space" and "emotion" rather than complexity, and it determined the direction of later ambient techno.
 
 The subsequent Selected Ambient Works Volume II progresses to even more extreme abstraction. The rhythm almost disappears, and a drone-like sound spreads. This work greatly expanded the possibilities of electronic music as environmental music.
 
-In the late 1990s, he moved in a more aggressive and experimental direction. In particular, ""Windowlicker'' was widely known for its strange visuals, blurring the boundaries between pop and avant-garde.
+In the late 1990s, he took a more aggressive and experimental direction. In particular, ""Windowlicker'' is widely known for its strange visuals, blurring the boundaries between pop and avant-garde.
 
 and Drukqs in 2001. In this album, ultra-fast and complex drum programming coexists with tranquil piano music. It is here that his aesthetic - the coexistence of chaos and order - is most clearly manifested.
 
@@ -116,9 +116,9 @@ Belongs to the genre and deviates from it at the same time. This duality places 
 
 There are many stories about Aphex Twin.
 
-For example, there is a story where a hard drive full of unreleased songs was left behind on an airplane, and it was later leaked. It is also said that he uses his own software to generate extremely complex rhythms.
+For example, there's a story about someone who left a hard disk full of unreleased songs on an airplane, which was later leaked. It is also said that he uses his own software to generate extremely complex rhythms.
 
-Even more famous are his anecdotes about live performances. In some cases, they only played the sound source, or intentionally caused confusion, in a way that betrayed the ""performance'' that the audience expected.
+Even more famous is his anecdote about live performance. In some cases, they only played back the sound source, betraying the ""performance'' that the audience expected, and sometimes intentionally caused confusion.
 
 These actions may seem provocative, but for him they are also an attempt to redefine "the musical experience itself."
 
@@ -132,7 +132,7 @@ Creepy images with composite faces and unpredictable promotions are also part of
 
 Aphex Twin's influence is immeasurable.
 
-The IDM scene that was formed around Warp Records was greatly shaped by his presence.
+The IDM scene that formed around Warp Records was largely shaped by his presence.
 
 Also, Radiohead's Thom Yorke has openly stated his influence, and his influence is strongly reflected in his works after Kid A.
 
@@ -151,7 +151,7 @@ His influence extends beyond sonic style. It lies in renewing the question, "Wha
 * 1994: Selected Ambient Works Volume II announced
 * 1999: "Windowlicker" released
 * 2001: Drukqs announced
-* 2014: Syro announced
+* 2014年：Syro発表
 
 ---
 
@@ -162,7 +162,7 @@ graph TD
 A[Chaos] --> B[fragmented rhythm]
 A --> C[nonlinear structure]
 D[control order] --> E[precision design]
-D --> F[acoustic balance]
+D --> F[音響バランス]
 B --> G[unpredictable groove]
 E --> G
 C --> H[time distortion]

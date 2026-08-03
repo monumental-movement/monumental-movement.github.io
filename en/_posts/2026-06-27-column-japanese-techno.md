@@ -71,11 +71,11 @@ In the late 1970s, an increasing number of Japanese musicians began to actively 
 
 Overseas, Kraftwerk and Giorgio Moroder incorporated mechanical rhythms into their music, and electronic music was also evolving as dance music.
 
-Musicians who have absorbed these trends with a uniquely Japanese sensibility do not simply imitate them, but explore new electronic music by incorporating various elements such as the Japanese language, game culture, animation, and design.
+Musicians who have absorbed these trends with a uniquely Japanese sensibility are not just imitating them, but are exploring new electronic music by incorporating various elements such as the Japanese language, game culture, animation, and design.
 
 The symbol of this was Yellow Magic Orchestra (YMO), which was formed in 1978.
 
->Japanese techno did not start in clubs, but built its own unique foundation through the intersection of two streams: electronic music and musical instrument development.
+>Japanese techno did not begin in clubs, but built its own unique foundation through the intersection of two streams: electronic music and musical instrument development.
 
 ---
 
@@ -89,7 +89,7 @@ While actively utilizing synthesizers, sequencers, and drum machines, they relea
 
 At the time, the word "techno" was widely used in Japan, and it was widely covered on TV and in magazines.
 
-The songs, which boldly incorporate game sounds and computer sounds, give a futuristic impression, and coinciding with Japan's period of high economic growth, they have come to be accepted as sounds symbolizing the "near future."
+The songs, which boldly incorporate game sounds and computer sounds, give off a futuristic impression, and coinciding with Japan's period of high economic growth, they have come to be accepted as sounds symbolizing the "near future."
 
 ### Impact on the world
 
@@ -101,7 +101,7 @@ Many techno, house, electronica, and hip-hop artists active since the 1980s have
 
 Furthermore, the performance of Japanese-made synthesizers and rhythm machines became highly acclaimed around the world, and Japanese companies began to greatly contribute to the development of electronic music culture.
 
-YMO was not just a popular group, but an existence that proved that ""Japanese electronic music can be exchanged with the world on an equal basis.''
+YMO was not just a popular group, but an existence that proved that ""Japanese electronic music can interact with the world on an equal basis.''
 
 <div class="mermaid">
 flowchart LR
@@ -120,7 +120,7 @@ C --> F
 
 </div>
 
-> YMO not only helped popularize techno in Japan, but also became a symbol of the beginning of an era in which Japanese electronic music influenced the world.
+> YMO not only popularized techno in Japan, but also became a symbol of the beginning of an era in which electronic music from Japan would influence the world.
 
 ---
 
@@ -128,7 +128,7 @@ C --> F
 
 ### Changes in the late 1980s
 
-In the late 1980s, acid house became popular in Europe, and in Detroit, a new type of dance music that later became known as techno was born.
+In the late 1980s, acid house became popular in Europe, and in Detroit, a new type of dance music that would later be called techno was born.
 
 In Japan, such music gradually began to be introduced through specialty stores that handled imported records and club DJs.
 
@@ -163,7 +163,7 @@ Clubs back then were not just places for dancing. It was also a testing ground w
 
 In Tokyo, clubs of all sizes were born, mainly in Shibuya, Nishi-Azabu, Aoyama, and Shinjuku, and in Kansai, a unique scene was forming mainly in Osaka and Kyoto.
 
-DJs are beginning to be recognized as not only the ones who select music, but also the ones who design the flow of the entire space throughout the night, and the profession of DJ has gradually gained social recognition in Japan as well.
+DJs are beginning to be recognized as not only the ones who select the music, but also the ones who design the flow of the entire space throughout the night, and the profession of DJ is gradually gaining social recognition in Japan as well.
 
 > In the early 1990s, Japanese techno began to rapidly grow as an urban culture unique to Japan, rather than as a receptacle for foreign culture.
 
@@ -181,7 +181,7 @@ Unlike the "techno pop" that had been common in Japan up until then, its minimal
 
 Furthermore, the ""precision" and ""aesthetics of repetition" that the Japanese had for a long time naturally resonated with the philosophy of Detroit techno.
 
-The idea of ​​creating a deep worldview with a small number of sounds gradually permeated the Japanese electronic music scene.
+The idea of ​​creating a deep world view with a small number of sounds gradually permeated the Japanese electronic music scene.
 
 ### Foreign artists coming to Japan
 
@@ -207,7 +207,7 @@ Berlin was characterized by a culture that valued not only music but also free e
 
 The idea that music itself, rather than clothes or titles, brings people together is gradually permeating Japanese club culture.
 
-In the late 1990s, examples of Japanese DJs and producers working in Berlin began to be seen, and the relationship deepened further.
+In the late 1990s, we began to see examples of Japanese DJs and producers working in Berlin, and the exchange deepened further.
 
 >Japanese techno evolved in its own direction, learning the musicality from Detroit and the spirit of club culture from Berlin.
 
@@ -243,7 +243,7 @@ The culture of seeking imported foreign records played an important role in fost
 
 ### Establish your own style
 
-In the mid-1990s, Japanese producers not only followed overseas productions, but also began to create their own unique sounds.
+In the mid-1990s, Japanese producers not only followed up on foreign works, but also began to create their own unique sounds.
 
 Diverse styles such as minimal techno, hard techno, ambient, and electro coexist, and the delicate sound creation unique to Japan has become highly acclaimed overseas.
 
@@ -276,7 +276,7 @@ D --> G
 
 </div>
 
-> In the late 1990s, Japanese techno steadily grew into a scene that no longer followed the world, but instead was transmitting music to the world.
+> In the late 1990s, Japanese techno steadily grew into a scene that no longer followed the world, but was transmitting music to the world.
 
 ---
 
@@ -292,7 +292,7 @@ The outdoor festival featured long DJ sets and live performances, gaining a new 
 
 This environment will revitalize Japan's electronic music scene as a whole and foster the next generation of artists.
 
-> The 1990s marked a turning point for Japanese techno from being an underground culture to being widely recognized by society, laying a solid foundation for the next era.
+> The 1990s marked a turning point in Japanese techno's transition from underground culture to widespread social recognition, laying a solid foundation for the next era.
 
 ---
 
@@ -305,7 +305,7 @@ In the 2000s, the Japanese techno scene entered a new phase.
 
 Until the 1990s, the latest information from overseas was often transmitted at different times through imported records and music magazines. However, with the spread of the Internet, it has become possible to instantly access music information from all over the world, and Japanese artists are rapidly becoming closer to the overseas scene.
 
-The sound source production environment has also changed significantly. Improvements in computer performance and the spread of DAWs (Digital Audio Workstations) have made it possible to produce high-quality music without the need for a large-scale studio.
+The sound source production environment has also changed significantly. Improvements in computer performance and the spread of DAWs (Digital Audio Workstations) have made it possible to produce high-quality music without the need for a large studio.
 
 Thus began the era of the ""home studio,'' where people could broadcast their work to the world from a single room in their home.
 
@@ -321,7 +321,7 @@ Young Japanese creators are creating new expressions in parallel with electronic
 
 In the techno scene of the early 2000s, minimal techno became a global trend.
 
-The method of suppressing flashy melodies and developments, and repeating a very limited number of sounds while changing them little by little, was compatible with the delicate sensibilities of the Japanese people.
+The method of suppressing flashy melodies and development, and repeating a limited number of sounds while changing them little by little, was compatible with the delicate sensibilities of the Japanese people.
 
 By reducing the number of sounds, each timbre, reverberation, and rhythmic fluctuation become more prominent.
 
@@ -333,7 +333,7 @@ Overseas, Japanese works are sometimes described as ""minimalist yet warm,'' and
 
 In this era, live performances were more about ""designing a space" than ""playing a song."
 
-As the integration of lighting and video production progresses, audiences will become more attracted to events where they can experience not just the sound, but the entire space.
+As the integration of lighting and video production progresses, audiences will become more attracted to events where they can experience not just the sound but the entire space.
 
 The sound, which changes little by little during a long set, brought a new sense of value to Japanese club culture.
 
@@ -371,7 +371,7 @@ Collaborative productions with filmmakers, lighting designers, and installation 
 
 In the 2000s, Japanese labels began to actively distribute their products overseas.
 
-In addition to CDs, analog records and digital distribution have also expanded, and production of works that are not limited to Japan has become commonplace.
+Not only CDs but also analog records and digital distribution have become more available, and production of works that are not limited to Japan has become commonplace.
 
 Collaborative productions and remix projects with overseas artists are increasing, and Japanese producers are naturally integrating into the global scene.
 
@@ -383,7 +383,7 @@ What attracted the attention of foreign critics and DJs was the unique sound des
 
 Japanese production techniques, such as carefully organized mixes from low to high frequencies, detailed reverberation processing, and precise rhythm structures, came to be highly trusted by club DJs.
 
-This reputation, combined with the trust placed in Japanese-made audio equipment and electronic musical instruments, increased the value of the Japanese techno brand as a whole.
+This reputation, coupled with trust in Japanese-made audio equipment and electronic musical instruments, increased the value of the Japanese techno brand as a whole.
 
 >Japanese labels not only served as a place to present works, but also functioned as a window for delivering Japan's unique sound to the world.
 
@@ -397,13 +397,13 @@ In the 2000s, many electronic music festivals began to be held across Japan.
 
 In addition to urban events, outdoor events that take advantage of natural environments such as mountain areas and beaches also gained popularity.
 
-Festivals offer different musical experiences during the day and night, and have a different appeal than clubs, and many foreign artists come to perform.
+Festivals, which offer different musical experiences during the day and night, have a different appeal than clubs, and many foreign artists come to perform.
 
 Japanese event management was praised for its time management and high sound quality, and gained the trust of international performers.
 
 ### Festival as a community
 
-The festival was not just a live event, but also played an important role as a community where people interacted.
+The festival was not just a live event, but also played an important role as a community where people could interact.
 
 Creators from a variety of fields, including not only music fans but also videographers, designers, architects, and people in the fashion industry, gather together to create new collaborations.
 
@@ -421,7 +421,7 @@ In the late 2000s, the boundaries between techno, ambient, click, glitch, IDM, a
 
 In addition to 4/4 music for clubs, the number of works designed for listening has also increased.
 
-Japanese creators are not bound by genre and are now working in a wide range of fields, including video works, contemporary art, game music, and advertising music.
+Japanese creators are not bound by genre and are working in a wide range of fields, including video works, contemporary art, game music, and advertising music.
 
 Electronic music is no longer limited to club culture, but has spread to music that can be heard in various situations in daily life.
 
@@ -448,7 +448,7 @@ G --> H
 
 </div>
 
-> The 2000s was a time when Japanese techno transcended the confines of clubs and matured into a comprehensive expression that was linked to contemporary art and digital culture.
+> The 2000s was a time when Japanese techno transcended the boundaries of clubs and matured into a comprehensive expression that was linked to contemporary art and digital culture.
 
 ---
 
@@ -458,7 +458,7 @@ G --> H
 
 In the 2010s, Japan's techno scene became even more diverse.
 
-With the spread of music distribution services, SNS, and video sharing services, the way people present their works has changed dramatically. We are now in an era where it is possible to release the music you create to the world without having to go through a record company or distribution network, and a new generation of producers and DJs are emerging one after another.
+With the spread of music distribution services, SNS, and video sharing services, the way people present their work has changed dramatically. We are now in an era where it is possible to release the music you create to the world without having to go through a record company or distribution network, and a new generation of producers and DJs are emerging one after another.
 
 In the past, the center of activity was concentrated in urban areas such as Tokyo and Osaka, but as Japanese creators living in regional cities and overseas can now share their works in the same arena, Japanese techno is freed from geographical constraints.
 
@@ -486,7 +486,7 @@ Modular synthesizer culture centered on the Eurorack standard is also spreading 
 
 The joy of designing the tone itself goes well with Japan's electronic musical instrument culture, which has continued since the 1970s, and many creators are creating original sounds.
 
-This trend has also led to active exchanges with improvisation, ambient, and experimental music, further enriching Japan's unique electronic music culture.
+This trend has also stimulated exchanges with improvisational performance, ambient music, and experimental music, further enriching Japan's unique electronic music culture.
 
 > The return to hardware became a symbol of a new creative style that was born in an era when digital technology had matured.
 
@@ -508,7 +508,7 @@ Furthermore, the fact that Japanese synthesizers and rhythm machines continue to
 
 Modern Japanese producers don't necessarily produce only techno.
 
-Activities that cross diverse fields such as ambient, house, electro, IDM, experimental music, game music, and film music are common.
+Activities that cross various fields such as ambient, house, electro, IDM, experimental music, game music, and film music are common.
 
 The attitude of not fixating genres has become a major characteristic of Japanese creators, and their flexible ideas are praised even overseas.
 
@@ -530,7 +530,7 @@ These small-scale communities also serve as places for young creators to gain ex
 
 Around 2020, live streaming DJ events and online festivals also spread.
 
-Now that Japanese artists can participate in events around the world from their homes, rather than just gathering at physical venues, there are more opportunities for Japanese artists to directly deliver their performances to listeners overseas.
+Now that Japanese artists can not only gather at physical venues but also participate in events around the world from home, there are more opportunities for Japanese artists to directly deliver their performances to listeners overseas.
 
 Online distribution has become established as a complement to real events, and continues to be an important means of presentation.
 
@@ -544,7 +544,7 @@ Online distribution has become established as a complement to real events, and c
 
 When talking about Japanese techno, the existence of electronic musical instrument manufacturers is essential.
 
-Equipment developed by Japanese companies, such as synthesizers, drum machines, sequencers, and samplers, have supported music production around the world for many years.
+Equipment developed by Japanese companies, such as synthesizers, drum machines, sequencers, and samplers, has supported music production around the world for many years.
 
 From the 1980s to the present, many products have continued to be used as standards, and new models are attracting attention from creators around the world.
 
@@ -632,7 +632,7 @@ H --> I
 | Late 2000s | Minimal techno and electronica spread | Diversification of musical expression |
 | 2010s | Distribution services and SNS become popular | It will be an era to directly deliver works to the world |
 | Late 2010s | Modular synthesizer popularity expands | Hardware culture is reevaluated |
-| 2020s | Live streaming and real events coexist | A new form of techno culture takes hold |
+| 2020s | Live streaming and real events coexist | A new form of techno culture takes root |
 
 ---
 
@@ -737,7 +737,7 @@ They've absorbed forward-looking sound design from Detroit, club culture and lon
 
 However, in the process, Japan did not lose its unique sensibilities.
 
-Precision, beautiful white space, compositions that accumulate minute changes, and the attitude of considering the acoustic space itself as a work of art continue to be communicated to the world as uniquely Japanese values.
+Precision, beautiful white space, compositions that accumulate small changes, and the attitude of considering the acoustic space itself as a work of art continue to be communicated to the world as uniquely Japanese values.
 
 Japan and other countries do not have a unidirectional relationship of influence, but rather they stimulate each other.
 
@@ -749,11 +749,11 @@ Japan and other countries do not have a unidirectional relationship of influence
 
 The history of Japanese techno is also the history of electronic music culture spanning about half a century.
 
-Experiments in electronic music that began in the 1950s led to synthesizer culture in the 1970s, and spread widely into society through YMO, which was formed in 1978. Later, in the 1990s, club culture matured, and a uniquely Japanese style was formed while deepening interaction with overseas techno scenes.
+Experiments with electronic music that began in the 1950s led to synthesizer culture in the 1970s, and spread widely into society through YMO, which was formed in 1978. Later, in the 1990s, club culture matured, and a uniquely Japanese style was formed while deepening interaction with overseas techno scenes.
 
 In the 2000s, internationalization progressed with the spread of the Internet and digital production environments, and Japanese artists and labels began to have a solid presence in the global electronic music scene. Since the 2010s, techno has become even more diverse, actively incorporating new technologies and cultures such as distribution services, SNS, modular synthesizers, and audiovisual expression.
 
-Looking back on this history, we can see that Japanese techno was never a culture that simply followed overseas trends. Japan has continued to offer a unique perspective to the world's electronic music through the development of electronic musical instruments, sound technology, recording culture, visual expression, and fusion with pop culture.
+Looking back on this history, we can see that Japanese techno was never a culture that simply followed overseas trends. Japan has continued to provide a unique perspective on electronic music around the world through the development of electronic musical instruments, sound technology, recording culture, visual expression, and fusion with pop culture.
 
 Japanese techno is also one of the few musical cultures where tradition and innovation coexist. While incorporating cutting-edge digital technology, the appeal of analog equipment and live performance is also being reconsidered. This attitude of trying to incorporate human sensations and chance into music, rather than just pursuing efficiency, is still strongly inherited in the current scene.
 

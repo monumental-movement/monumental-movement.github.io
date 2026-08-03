@@ -19,10 +19,10 @@ title: '[Column] Gros Mené - Unusual blues produced by Quebec''s "rough rock"'
 
 Text: mmr｜Theme: Gros Mené etched in Quebec rock history. Tracing the unique evolution of French rock through its raw sound, humor, sense of community, long silence and resurgence.
 
-### Choice of "not adjusting the lock"
+### Choosing "not to adjust the lock"
 
 At the end of the 1990s, a variety of movements were occurring simultaneously in Quebec's rock scene.
-While populist and social groups like Les Colocs were gaining ground, noisier, rougher music that drew heavily from Anglo-American alternative rock and garage rock was also gaining momentum underground.
+While populist and social groups such as Les Colocs were gaining ground, noisier, rougher music, with influences from Anglo-American alternative rock and garage rock, was also gaining momentum underground.
 
 Gros Mené appeared in this atmosphere.
 
@@ -73,16 +73,16 @@ Recording was also done in a chalet in Saint-Félicien, and the sound reflected 
 This is not just a location issue.
 
 In Quebec in the 1990s, "regional" had an important meaning.
-In contrast to the cultural industry centered in Montreal, the music emanating from the local community had a unique sense of distance.
+In contrast to the cultural industry centered in Montreal, there was a unique sense of distance between the music emanating from the local community.
 
-Gros Mené's sound has a humid atmosphere, heavy rhythms, and bar-like exhilaration that are inseparable from its location.
+Gros Mené's sound has a humid atmosphere, heavy rhythm, and bar-like exhilaration that are inseparable from its location.
 
 They also had a strong DIY spirit.
 Rather than a large-scale production, we record in our own space and create sound using our own senses.
 This attitude resonated with the alternative culture of the 1990s.
 
 At the time, the post-Nirvana grunge sensibility remained in North America, and stoner rock and garage revival were also expanding.
-Parallel to the trends of Queens of the Stone Age, Kyuss, and Jon Spencer Blues Explosion, the desire for "dirty rock" was growing all over the world.
+Parallel to the trends of Queens of the Stone Age, Kyuss, and Jon Spencer Blues Explosion, the desire for "dirty rock" was growing around the world.
 
 Gros Mené translated it into Quebecois style.
 
@@ -103,7 +103,7 @@ D --> H[french rock]
 
 ### Meaning of band name
 
-"Mené" is a word that means small fish, and refers to fish used as bait for fishing.
+"Mené" is a word that means small fish and refers to fish used as bait for fishing.
 In other words, the name "Gros Mené" is a contradiction in terms.
 This is because the word ""huge" is added to the word that means ""small fish."
 
@@ -120,21 +120,21 @@ Gros Mené has always existed somewhere between serious and prankish.
 
 ### 1999, turning point for Quebec rock
 
-In April 1999, Gros Mené released their debut album, ""Tue ce drum Pierre Bouchard''.
+In April 1999, Gros Mené released their debut album ""Tue ce drum Pierre Bouchard''.
 
 This work would later be treated as an important work of Quebec rock.
 
 The recording took place in a chalet in Saint-Félicien.
 Although it was a studio recording, the sound is strangely vivid.
-The guitar is distorted, the drums are wild, the bass is muddy, and the vocals are screaming.
+The guitars are distorted, the drums are wild, the bass is muddy, and the vocals are screaming.
 
 But it's not just rough.
-There was a strange tenacity to the performance, a mix of blues, garage rock, punk, and stoner rock.
+The performance had a strange tenacity to it, a mix of blues, garage rock, punk, and stoner rock.
 
 This work is also known as the first release on La Tribu label.
 This album occupies a symbolic position in the history of La Tribu, which later became an important indie label.
 
-Pierre Bouchard, mentioned in the title, is a drummer.
+Pierre Bouchard, who is included in the title, is a drummer.
 However, he does not appear on all of the songs on the album.
 Still, the fact that it was chosen as the album"s name shows Gros Mené"s unique sense of humor.
 
@@ -173,7 +173,7 @@ He screams, laughs, and distorts his French with a Quebecois accent.
 This attitude had a great influence on subsequent generations.
 
 Furthermore, they had the attitude of not making rock music too much of an art form.
-Their music always had a bar feel and a sense of camaraderie, and they refused to be overly deified.
+Their music always had a bar feel and a sense of collegial laughter, refusing to be overly deified.
 
 > ""Tue ce drum Pierre Bouchard'' showed that Quebec rock could reach world-class standards while remaining connected to local culture.
 
@@ -229,7 +229,7 @@ Gros Mené existed not as a huge star, but as a band that "those in the know kno
 
 In 2012, Gros Mené suddenly returns.
 
-Agnus Dei, their first album in 13 years, shocked many listeners.
+Their first album in 13 years, ""Agnus Dei,'' shocked many listeners.
 Because the band wasn't just a nostalgic reunion.
 
 The sound was still heavy, dirty, and harsh.
@@ -248,7 +248,7 @@ In other words, what was once ""dangerous and crude underground rock'' was now o
 Agnus Dei further enhances the stoner rock and blues sensibilities.
 
 The riff is heavy, the groove is tenacious, and the performance is thick.
-However, the humor is not lost.
+一方でユーモアは失われていない。
 
 The lyrics include women, hockey, alcohol, fantasy, and the atmosphere of local cities.
 This feeling also makes me feel close to American southern rock and New Orleans music.
@@ -256,7 +256,7 @@ This feeling also makes me feel close to American southern rock and New Orleans 
 Fred Fortin himself mentioned the influence of Dr. John's Gris-Gris in a later interview.
 
 In other words, Gros Mené is more than just hard rock.
-It's a unique hybrid of blues, New Orleans groove, stoner rock, and Quebecois bar culture.
+ブルース、ニューオーリンズ的グルーヴ、ストーナー・ロック、ケベックの酒場文化が混ざった独特のハイブリッドなのである。
 
 <div class="mermaid">
 sequenceDiagram
@@ -299,14 +299,14 @@ Fred Fortin says he doesn't like the modern marketing method of releasing multip
 This attitude reflects Gros Mené's personality well.
 
 They have always distanced themselves from industry logic.
-An album is a chunk of music that should be released all at once.
+アルバムとは、一気に投下されるべき塊である。
 They maintained that classic feel.
 
 Production on Pax et Bonum began around 2014.
 In other words, it was actually a work that took a very long time to create.
 
 Recording took place in a studio and chalet in Saint-Félicien.
-Land characteristics are also important here.
+ここでも土地性が重要である。
 
 ### Sound changes
 
@@ -376,7 +376,7 @@ Locality has great meaning in Quebec culture.
 Montreal is not the only cultural center.
 The sense of local community deeply influences the music.
 
-Gros Mené"s rough-and-tumble rock sensibility is more than just a musical genre; it"s closely tied to the local culture.
+Gros Mené"s rough-and-tumble rock sensibility is more than just a musical genre, it"s closely tied to the local culture.
 
 ### Humor and violence
 
@@ -388,7 +388,7 @@ Rather, it is humor used to neutralize violence and instability.
 Gros Mené's songs are both dangerous and funny.
 This feeling makes the band more than just stoner rock.
 
->Fred Fortin was a musician who embodied the "locality and atypicality" of Quebec rock.
+> Fred Fortin was a musician who embodied the "regionality and atypicality" of Quebec rock.
 
 ---
 
@@ -398,7 +398,7 @@ This feeling makes the band more than just stoner rock.
 
 Olivier Langevin's presence at Gros Mené was also decisive.
 
-He would later go on to lead Galaxie, but his collaboration with Fred Fortin has continued since the late 1990s.
+Although he would later go on to lead Galaxie, his collaboration with Fred Fortin has continued since the late 1990s.
 
 Langevin's guitar is more than just accompaniment.
 
@@ -413,7 +413,7 @@ This atmosphere is the core of Gros Mené.
 
 Although Gros Mené and Galaxie are separate bands, they are strongly linked in Quebec rock history.
 
-Both explored rough guitars, heavy grooves, and new forms of French rock.
+Both explored rough guitars, heavy grooves, and a new form of French rock.
 
 But there are also differences.
 
@@ -572,5 +572,14 @@ There's a long silence, then it suddenly comes back and disappears again.
 This unpredictability is what makes them special.
 
 > Gros Mené is a band that preserves the sense that rock was still dangerous, rather than efficiency or sophistication.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eU7DPNtsRf4?si=QwQ-U0Z2otweNaUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -20,7 +20,7 @@ title: '[Column] The Pop Group - The rebellious sound and historical background 
 
 Text: mmr | Theme: A rebellious music movement that exploded in Bristol, England at the end of the 1970s - tracing the intersection of politics and art played by The Pop Group, and its impact along with the historical background.
 
-In 1978, an unusual band appeared in the port city of Bristol in southwestern England.
+In 1978, an unusual band appears in the port city of Bristol in southwestern England.
 Its name is **The Pop Group**.
 Although they called themselves pop, their music was not funk, punk, or jazz, but rather an experiment in which all genres collided explosively.
 
@@ -61,13 +61,13 @@ It also permeated the white rock youth.
 
 It was in this cultural mix that the young people of The Pop Group grew up.
 At school, he listened to punk and funk, and at night he would hang out at sound systems in immigrant neighborhoods.
-They absorbed the very magnetic field of the city, where ""anger," ""mixed race," ""politics," and ""Beat" were swirling.
+They absorbed the very magnetic field of the city, where ""anger," ""mixed race," ""politics," and ""beat" were swirling.
 
 ---
 
 ## Chapter 2: The Birth and Rebellion of The Pop Group (1978–1980)
 
-### 1978 - A sound that disrupted all genres
+### 1978 - The sound that destroyed all genres
 
 The members are in their late teens to early 20s.
 **Mark Stewart (vocals)**, **Gareth Sager (guitar)**, **Bruce Smith (drums)**,
@@ -105,13 +105,13 @@ It also overlaps with the prototype of "political dub."
 
 ## Chapter 4: Deconstruction and Rebirth - Chain of Post-Pop Groups
 
-In 1980, The Pop Group suddenly disbanded.
+1980年、The Pop Groupは突然解散する。  
 After that, each member takes a different path.
 
 - Mark Stewart: Collaborated with Adrian Sherwood as a solo artist and established **Industrial Dub**.
 - Gareth Sager and Bruce Smith: Formed **Rip Rig + Panic**.
 A young **Neneh Cherry** was also there.
-- Dan Catsis: He remained at the foundation of Bristol music, later becoming involved with Massive Attack.
+- Dan Catsis: He later became involved with Massive Attack and remained a cornerstone of Bristol music.
 
 This divergence gave rise to the diversity of the Bristol sound.
 Trip hop, dub, experimental music, political hip hop...
@@ -122,11 +122,11 @@ The influence of The Pop Group is etched into all of them.
 ## Chapter 5: Reassessment and revival in the 21st century
 
 The Pop Group has long been a cult figure.
-Since the 2000s, it has been reevaluated amidst the post-punk revival trend.
+Since the 2000s, it has been reevaluated amidst the post-punk revival.
 Especially since 2005, following the **Gang of Four and Wire reunions**,
 They also resumed their activities in 2010. In 2015, he released his new work ""Citizen Zombie.''
 
-While the violent nature of the sound was still present, it was more political and had a sharper message than before.
+While the violent nature of the sound was still there, it was more political and had a sharper message than before.
 For them, ""reunion" was not about nostalgia, but ""continuation of resistance."
 
 > "You don"t stop being angry because time passes."
@@ -134,7 +134,7 @@ For them, ""reunion" was not about nostalgia, but ""continuation of resistance."
 
 Mark Stewart's death marked the end of an era.
 However, his voice still resonates even in a modern society covered with AI and surveillance capitalism.
-It continues to resonate as an "echo of resistance."
+「抵抗のエコー」として鳴り続けている。
 
 ---
 
@@ -144,11 +144,11 @@ The seeds planted by The Pop Group would soon be passed on to other artists in B
 
 - **Massive Attack** - "Soundscape" themed around politics and urban darkness.
 - **Portishead** - Sublimating repressed emotions into sonic experiments
-- **Tricky** - A fusion of bass and poetic violence
+- **Tricky** ― 低音と詩的暴力性の融合  
 
 Although these artists directly seem to belong to different genres,
 At the root of all of this is a common ""musical spirit that resists society.''
-In other words, **""The Pop Group's ethics'' = sonic resistance**.
+すなわち、**“The Pop Group的な倫理”＝音の抵抗**である。
 
 ---
 
@@ -156,9 +156,9 @@ In other words, **""The Pop Group's ethics'' = sonic resistance**.
 
 The Pop Group
 He posed the questions, ""What is music?" and ""What can art do about politics?"
-Their sound continues to refuse to answer that question.
+彼らのサウンドは、今もその問いへの答えを拒否し続けている。
 
-What they left behind was not an answer but the question itself.
+What they left behind was not an answer, but the question itself.
 That is Bristol's greatest legacy.
 
 ---
@@ -189,8 +189,8 @@ timeline
 
 ## Reference discography
 
-| Year | Title | Notes | Link |
-| ---- | ------------------------------------- | ------------------------------------- |
+| 年    | タイトル                                                | 備考                     | リンク |
+| ---- | --------------------------------------------------- | ---------------------- |
 | 1979 | **Y** | Debut work. A fusion of experimental sound and social criticism. | [Amazon](https://amzn.to/4nmSqgA)] |
 | 1980 | **For How Much Longer Do We Tolerate Mass Murder?** | Second, more politically charged.           | [Amazon](https://amzn.to/3LttGWA)] |
 | 1980 | **We Are All Prostitutes** | A symbol of social agitation.        | [Amazon](https://amzn.to/4oC0FX5)] |
@@ -221,7 +221,7 @@ flowchart TD
 ## summary
 
 The Pop Group is a band that redefined music as a language of resistance.
-That attitude continues to influence underground culture not only in Bristol but around the world.
+その姿勢はブリストルだけでなく、全世界のアンダーグラウンド文化に影響を与え続けている。
 
 > "This is not entertainment. This is resistance."
 

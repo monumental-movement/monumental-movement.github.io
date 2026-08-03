@@ -37,7 +37,7 @@ However, this simplicity does not necessarily mean a lack of information.
 
 Each note is carefully placed, and even silence functions as part of the music.
 
-HVOB is not a unit that creates individuality through flashy techniques or complicated compositions.
+HVOBは派手な技巧や複雑な構成によって個性を生み出したユニットではない。
 
 He is one of the few artists who has created a unique world by designing "margins."
 
@@ -77,11 +77,11 @@ Meanwhile, since the 1990s, the city's electronic music scene has also developed
 
 Unlike the huge club culture of Berlin, Vienna creates an environment where minimal, downtempo, ambient, and experimental music naturally mix.
 
-It was not uncommon for electronic music events to be held not only in clubs but also in museums, galleries, and cultural facilities, and the idea of ​​music as art was widespread.
+クラブだけでなく、美術館やギャラリー、文化施設でも電子音楽イベントが開催されることが珍しくなく、音楽をアートとして捉える価値観が浸透していた。
 
 ### Characteristics of Vienna Electronica
 
-In Vienna in the early 2000s, there were many artists who emphasized delicate textures rather than extremely flashy sounds.
+In Vienna in the early 2000s, many artists focused on delicate textures rather than extremely flashy sounds.
 
 A mix that makes the space feel larger while reducing the number of sounds.
 
@@ -105,7 +105,7 @@ Rather than the traditional method of sending demos to record companies, it was 
 
 This change has created an environment in which even small cities can receive international recognition.
 
-Music distribution in this digital age has also had a major influence on why HVOB has attracted attention across Europe from a relatively early stage.
+Music distribution in the digital age has also had a major influence on why HVOB has attracted attention across Europe from a relatively early stage.
 
 <div class="mermaid">
 graph LR
@@ -128,7 +128,7 @@ E --> F[HVOB]
 
 ## Birth of HVOB──Anna Müller and Paul Wallner
 
-### Duo formation
+### デュオ結成
 
 HVOB was formed in Vienna, Austria in 2012.
 
@@ -211,7 +211,7 @@ This work was so complete that it was hard to believe that it was a unit that ha
 
 Deep house and minimal techno were widely supported in Europe at the time, but HVOB did not simply follow that trend.
 
-Although the song is based on a four-on-the-floor beat, there is a quiet atmosphere throughout the song, making it both club music and a listening piece.
+Although the song is based on a four-on-the-floor beat, there is a quiet atmosphere throughout the song, creating a composition that works well as both club music and listening work.
 
 Although the vocals are at the center of the song, they never come too far forward, and are placed on an equal footing with the synthesizer and rhythm.
 
@@ -291,7 +291,7 @@ On the other hand, the number of sounds has not increased rapidly, and the attit
 
 ### Rhythm changes
 
-In ""Trialog'', the presence of kicks and basses is clearer, and the sense of immersion when played on a club system is improved.
+In ""Trialog,'' the presence of kicks and bass sounds is clearer, and the sense of immersion when played on a club system is improved.
 
 However, even when the beat comes to the forefront, the balance with the melody and vocals remains intact.
 
@@ -307,7 +307,7 @@ The LED screen backdrop and geometric visual expressions visually expanded the w
 
 The video is not just a decoration, but is designed to complement the song structure itself.
 
-The amount of light and colors are synchronized with the development of the music, allowing the audience to immerse themselves in the work both visually and audibly.
+The amount of light and colors are synchronized with the development of the music, allowing the audience to immerse themselves in the work both visually and aurally.
 
 ### Maturity of vocal expression
 
@@ -352,9 +352,9 @@ In 2017, HVOB released their third studio album, Silk.
 
 As the title ""Silk'' suggests, the overall sound of this work is smoother, with softness pushed to the forefront rather than sharpness.
 
-While maintaining the minimalist aesthetic that has been consistent since their debut, the texture of the songs has become even more organic.
+While maintaining the minimal aesthetic that has been consistent since their debut, the texture of the songs has become even more organic.
 
-The synthesizer"s tone spreads out and blends into the air, and the rhythm doesn"t overstate itself.
+The synthesizer"s tone spreads out and melts into the air, and the rhythm doesn"t overstate itself.
 
 As a result, even though it is club music, listeners can feel as if they are listening to movie music.
 
@@ -427,7 +427,7 @@ D --> E
 E --> F[Immersive Listening]
 </div>
 
-> ""Silk" was the album that evolved HVOB's music from ""works for the dance floor" to ""works that allow you to enjoy the space itself.''
+> 『Silk』はHVOBの音楽を「ダンスフロアのための作品」から「空間そのものを味わう作品」へと進化させたアルバムだった。
 
 ---
 
@@ -547,7 +547,7 @@ Because there are so few sounds, slight differences in tone or changes in volume
 
 That"s why small changes play such an important role in HVOB"s songs.
 
-### Arrangement with tone as the main character
+### 音色を主役にしたアレンジ
 
 In many pop songs, the melody is the main character.
 
@@ -583,7 +583,7 @@ Only the vocals remain.
 
 These short silences accentuate the next sound.
 
-The dynamics of the song as a whole are created by subtracting sounds rather than adding them.
+音を足すことではなく、あえて引くことによって楽曲全体のダイナミクスを生み出しているのである。
 
 This way of thinking is also reflected in live performances, resulting in a sound that is loud but less tiring to the ears.
 
@@ -602,7 +602,7 @@ C --> E
 D[silence]
 D --> E
 
-E --> F[immersive feeling]
+E --> F[没入感]
 </div>
 
 > HVOB's music is shaped by the choice of ""what to leave behind," rather than ""how much sound can be increased."
@@ -613,7 +613,7 @@ E --> F[immersive feeling]
 
 ### Main events
 
-| Year | Events |
+| 年 | 出来事 |
 |----|--------|
 | 2012 | HVOB formed by Anna Müller and Paul Wallner in Vienna |
 | 2012 | Early works released on SoundCloud and attracting attention |
@@ -706,13 +706,13 @@ This debut album is a work that determined the direction of the unit HVOB.
 
 Although it was based on minimal techno, deep house, and electronica, it had a quiet spatial quality that transcended the framework of club music.
 
-By this point, the approach of minimizing the number of notes and treating Anna Müller's vocals as a single instrument had already been perfected.
+By this point, Anna Müller's approach of minimizing the number of notes and treating her vocals as a single instrument had already been perfected.
 
 The song's composition, which seems to design the flow of time itself, such as their signature song "Always Like This," left a strong impression on many listeners.
 
 ### "Trialog" (2015)
 
-In their second album, the presence of low frequencies increased, developing a dynamic sound with live performance in mind.
+In their second album, the presence of low frequencies increased, developing a dynamic sound with live performances in mind.
 
 However, the aesthetic of HVOB's blank spaces has not been lost.
 
@@ -756,7 +756,7 @@ Intense build-up.
 
 Excessive sound pressure.
 
-Without relying on these elements, he turned the tranquility itself into an attraction.
+Without relying on these elements, he turned the quietness itself into an attraction.
 
 This attitude has spread as values ​​shared by many minimal electronic and organic electronica artists.
 
@@ -832,7 +832,7 @@ Looking back at HVOB's history, there are few dramatic changes in direction.
 
 He did not pander to trends, nor did he drastically change his musical style.
 
-Even so, the reason why they continue to perform live in various parts of the world and attract so many listeners is clear.
+Even so, it is clear why they continue to perform live all over the world and attract so many listeners.
 
 They have made small changes in each work.
 

@@ -23,7 +23,7 @@ Text: mmr｜Theme: UK garage nurtured in the underground of London in the 90s. T
 In the mid-1990s, there was a sonic revolution quietly underway in London's underground clubs.
 Its name is "UK Garage". Based on American Garage House, they have established a unique "shuffling rhythm" by combining jungle rhythms, R&B vocals, and Jamaican sound system culture.
 
-This new sound was more than just a genre of club music, it served as an expression of urban multiculturalism and immigrant communities. UK garage eventually branched out into **2-Step, Speed ​​Garage, Grime, and Dubstep**, becoming the cornerstone of current UK bass culture.
+This new sound was more than just a genre of club music, and served as an expression of urban multiculturalism and immigrant communities. UK garage eventually branched out into **2-Step, Speed ​​Garage, Grime, and Dubstep**, becoming the cornerstone of current UK bass culture.
 
 ---
 
@@ -43,10 +43,10 @@ color: #fff;
 
 ## Chapter 1: Roots—American Garage and UK Reinterpretation
 
-The origins of UK garage can be traced back to the **US Garage House** that flourished in the late 1980s, namely the New York deep house produced by **Larry Levan** and **Todd Terry**.
+The origins of UK garage can be traced back to the **US Garage House**, which flourished in the late 1980s, namely the New York deep house produced by **Larry Levan** and **Todd Terry**.
 The sound made its way to the UK, where club DJs, particularly in London, transformed it into a faster, more swinging sound.
 
-After ""Second Summer of Love" in 1988, rave culture spread, and in an environment that mixed house, jungle, and breakbeats, a demographic emerged that sought ""music that was soulful but not too hard." This later became the breeding ground for UK garage.
+After ""Second Summer of Love" in 1988, rave culture spread, and in an environment that mixed house, jungle, and breakbeats, a demographic emerged that sought ""music that was soulful without being too hard." This later became the breeding ground for UK garage.
 
 ---
 
@@ -106,14 +106,14 @@ This phenomenon of ""sound and voice becoming one'' became the foundation for th
 ## Chapter 5: Early 2000s—Mainstreaming and fragmentation
 
 Around 2000, UK garage entered its golden age on the charts.
-**Craig David**'s ""Born To Do It" (2000) reached number 1 in the UK, and 2-Step became popular in pop music. However, at the same time, a backlash against ""commercialization" arose.
+**Craig David**'s ""Born To Do It" (2000) reached number one in the UK, and 2-Step became popular in pop music. However, at the same time, a backlash against ""commercialization" also emerged.
 
 From 2001 to 2003, a more aggressive and dark sound emerged in clubs. This became the starting point for later **Grime** and **Dubstep**.
 
 | Branch | Features | Representative Artist |
 |------|------|-------------------|
 | **Grime** | Around BPM140, MC-based hard sound | Wiley, Dizzee Rascal |
-| **Dubstep** | Emphasis on bass, dark space | Skream, Benga, Digital Mystikz |
+| **Dubstep** | Emphasis on bass, dark spatiality | Skream, Benga, Digital Mystikz |
 | **Bassline** | 4/4 return, pop vocals | T2, DJ Q |
 
 ---
@@ -132,7 +132,7 @@ The UKG party was also a common space that transcended class and race, and serve
 
 ---
 
-## Chapter 7: Succession and Revival—20 Years Since UKG
+## Chapter 7: Succession and Revival—20 years since UKG
 
 From the late 2010s to the 2020s, UK garage will undergo a wave of reappraisal.
 Disclosure, Burial, Jamie xx and others are reimagining it in a modern way, re-projecting the spirit of UKG into lo-fi and Future Garage.
@@ -142,7 +142,7 @@ Disclosure, Burial, Jamie xx and others are reimagining it in a modern way, re-p
 - **Joy Orbison – "Hyph Mngo" (2009)**
 
 Furthermore, with the hit **Eliza Rose – "B.O.T.A." ​​(2022)**, 2-Step rhythms once again dominated the charts.
-It has begun to reach young people not only in clubs but also through social networking sites such as TikTok.
+It has started to reach young people not only in clubs but also through social networking sites such as TikTok.
 
 ---
 

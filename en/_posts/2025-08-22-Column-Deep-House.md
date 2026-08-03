@@ -20,7 +20,7 @@ title: '[Column] What is deep house? ─ Exploring the depth of the sound that b
 
 Text: mmr｜Theme: Deep House, a genre that continues to quietly evolve while incorporating history and context.
 
-Deep house is a strain of house that emerged in the Chicago-New Jersey area in the late 1980s. Characterized by soul/jazz harmonies, smooth bass, and a restrained groove, it is a type of dance music that is ""deep, long, and warms the body'' rather than a rush peak. BPM is generally 118–124 (slow to medium speed), 7th/9th chords, electric piano (Rhodes), organ (Korg M1 series), and laid-back vocals are symbolic. It has a "night temperature" that is valid for both the floor and listening.
+Deep house is a strain of house that sprouted in the Chicago-New Jersey area in the late 1980s. Characterized by soul/jazz harmonies, smooth bass, and a restrained groove, it is a type of dance music that is ""deep, long, and warms the body'' rather than a rush peak. BPM is generally 118–124 (slow to medium speed), 7th/9th chords, electric piano (Rhodes), organ (Korg M1 series), and laid-back vocals are symbolic. It has a "night temperature" that is valid for both the floor and listening.
 
 
 <hr>
@@ -33,11 +33,11 @@ Deep house is a strain of house that emerged in the Chicago-New Jersey area in t
 
 **1990s: Deepening and diversification**
 
-Chicago"s [Ron Trent & Chez Damier (Prescription)](https://amzn.to/4nOApsp), New York"s [Masters At Work (MAW)](https://amzn.to/3KTsg7y), and Detroit's [Moodymann](https://amzn.to/4h9ZZWB) expand on the "black" texture. The number of bases will increase in the UK and Germany, creating a bridge between deep and tech.
+Chicago"s [Ron Trent & Chez Damier (Prescription)] (https://amzn.to/4nOApsp), New York"s [Masters At Work (MAW)] (https://amzn.to/3KTsg7y), and Detroit's [Moodymann] (https://amzn.to/4h9ZZWB) expand on the "black" texture. The number of bases will increase in the UK and Germany, creating a bridge between deep and tech.
 
 **2000s: Listening orientation and sophistication**
 
-Naked Music, Jimpster (Freerange) and more will take you to the lounge-soulful sophistication. In Germany, [Henrik Schwarz](https://amzn.to/4h8i9I4), [Âme](https://amzn.to/47pAIEq), and [Dixon (Innervisions)](https://amzn.to/4heIsN1) are popular for their minimalist to modern architectural aesthetics.
+Naked Music, Jimpster (Freerange) and more will take you from lounge to soulful sophistication. In Germany, [Henrik Schwarz](https://amzn.to/4h8i9I4), [Âme](https://amzn.to/47pAIEq), and [Dixon (Innervisions)](https://amzn.to/4heIsN1) are popular for their minimalist to modern architectural aesthetics.
 
 **2010s and beyond: bifurcation and globalization**
 
@@ -48,15 +48,15 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 ### Musical features
 
-**Harmony**: Major 7th/9th, suspension chord, lots of tension. Even in a minor key, there is a nuance of "sadness≠tragic".
+**和声**：メジャー7th／9th、サスコード、多めのテンション。短調でも“哀愁≠悲壮”のニュアンス。
 
 **Beat**: The kick has a round and deep aftertaste. The hi-hat is a shuffle to a light swing. 909/707/727 and 808 textures are standard.
 
 **Bass**: Mainly undulating long notes with carefully controlled subbands.
 
-**Keyboard/Texture**: Rhodes/M1 organ/soft strings, space type (delay/reverb) is long but not dense.
+**Keyboard/Texture**: Rhodes/M1 organ/soft strings, spatial type (delay/reverb) is long but not dense.
 
-**Vocal**: Speaking low to mid range, gospel to soul lineage. Make use of "pause" by using the necessary and sufficient number of words.
+**Vocal**: Speaking low to mid range, gospel to soul lineage. Make use of the "pause" by using the necessary and sufficient number of words.
 
 
 <hr>
@@ -111,11 +111,11 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 - Gradually layer EQ and faders on long mixes (16-32 bars or more).
 
-- Matching key (tonality) and tesserae (timbre): Avoid destroying the atmosphere by selecting songs in adjacent keys/closely related tones.
+- Matching the key (tonality) and tesserae (timbre): Avoid destroying the atmosphere by selecting songs in adjacent keys/closely related tones.
 
-- Dynamic waves: "Raise the heat a little bit and bring it back quickly" for 30-45 minutes.
+- Dynamic waves: "Raise the heat a little and then bring it back" for 30-45 minutes.
 
-- BPM setting that is not too fast: Create a "stride length" at 118–121, then move to 122–124 in the second half.
+- BPM setting that is not too fast: Create a "stride length" at 118–121, then increase to 122–124 in the second half.
 
 
 <hr>
@@ -143,7 +143,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Listening context**: Late night drive, work/study BGM, cocktail time.
 
-**Aesthetics**: ""Emotional over functionality''. More shadow than sparkle.
+**Aesthetics**: "Emotional over functionality." More shadow than sparkle.
 
 
 <hr>

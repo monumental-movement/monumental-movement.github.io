@@ -17,7 +17,7 @@ Featured Crystal Waters is a house vocalist born in Deptford Township, New Jerse
 
 She is the daughter of jazz musician Junior Waters and great-niece of Ethel Waters, who runs IAH Records.
 
-Growing up surrounded by music from an early age, she became familiar with jazz under the influence of her father, and began working in the house music scene in the late 1980s, achieving a worldwide hit with the single "Gypsy Woman (She's Homeless)" in 1991.
+Growing up surrounded by music from an early age, she became familiar with jazz through the influence of her father, and began working in the house music scene in the late 1980s, achieving a worldwide hit with the single "Gypsy Woman (She's Homeless)" in 1991.
 
 Since then, he has released many hit songs such as "100% Pure Love" and "Destination Calabria" and has become one of the leading artists in the house music world.
 

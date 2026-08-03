@@ -22,7 +22,7 @@ Text: mmr｜Theme: A sonic pilgrimage where improvisation and environmental soun
 
 
 In the early 1960s, Japan's avant-garde music scene was quietly flourishing.
-Centered around the Experimental Workshop and Sogetsu Art Center led by Toru Takemitsu, Kei Ichiyanagi, and Joji Yuasa, the boundaries between genres such as music, dance, video, and lighting were being broken down.
+The boundaries between genres such as music, dance, video, and lighting were being broken down, centered around the Experimental Workshop and Sogetsu Art Center, which were led by Toru Takemitsu, Kei Ichiyanagi, and Joji Yuasa.
 
 During this period, Takehisa Kosugi was studying violin at Tokyo University of the Arts, but he was beginning to feel the limits of traditional musical forms. He began to see sound as an ""event" rather than a ""structure," and eventually began to explore improvisation and chance.
 
@@ -113,8 +113,8 @@ Improvisational performances in various locations ranged from local cultural fac
 
 ## VI. Deconstruction and expansion of sound: the ritual of improvisation
 
-The Taj Mahal Tourists' performances do not have the usual ""songs" or ""structure."
-Rather, it is more like the act of emitting sound into the environment and waiting for a chance resonance.
+The Taj Mahal Tourists' performances do not have the usual ""songs" or ""structures."
+Rather, it is more like the act of emitting sound into the environment and waiting for an accidental resonance.
 
 They use PA systems and microphones creatively,
 The entire space was treated as a kind of "resonator."
@@ -131,7 +131,7 @@ This is a live recording of an improvisational performance held around the Taj M
 It is highly praised as a ""soundscape'' that perfectly combines time, space, and sound.
 
 There is no rhythm or melody on the album.
-Instead, the sound of wind, electronic sounds, voices, and the resonance of strings gently intersect,
+Instead, the sound of the wind, electronic sounds, voices, and string resonance gently intersect,
 It presents an experience that invites the listener to go "inside the sound."
 
 ---
@@ -139,7 +139,7 @@ It presents an experience that invites the listener to go "inside the sound."
 ## VIII. Overseas activities and "Catch-Wave" (1975)
 
 After staying in Europe, Kosugi moved to the United States in the mid-1970s.
-He develops solo activities that combine electronic acoustics and improvisation.
+Develops solo activities that combine electronic acoustics and improvisation.
 His 1975 masterpiece "Catch-Wave" (EM Records reissue) is
 This is a soundscape piece that makes full use of violin, tape delay, and feedback.
 He also influenced Brian Eno and Robert Ashley.
@@ -154,7 +154,7 @@ Until his later years, based on his belief that "sound is a natural phenomenon,"
 
 ---
 
-## X. The legacy of Takehisa Kosugi and the Taj Mahal Tourist Group
+## X. The legacy of Takehisa Kosugi and the Taj Mahal Tourists
 
 Today, their activities include "sound art," "field recording," and "ambient music."
 It is being reevaluated as the source of diverse musical trends.
@@ -170,11 +170,11 @@ This is the most important message that Kosugi left us.
 | 1938 | Born in Yokohama City, Kanagawa Prefecture |
 | 1960 | Graduated from the Faculty of Music, Tokyo University of the Arts |
 | 1961–63 | Participated in avant-garde experimental music activities with Kei Ichiyanagi, Toru Takemitsu, and others |
-| 1964 | ""Collective Music'' formed, performed with Cage & Tudor |
+| 1964 | Formed "Collective Music" and performed with Cage & Tudor |
 | 1965–68 | Fluxus-like performances (Sogetsu Art Center, etc.) |
 | 1969 | "Taj Mahal Travel Group" formed |
 | 1971–72 | Musical pilgrimage from India to Europe |
-| 1972 | 《Taj Mahal Travelers – July 15, 1972》 Announcement |
+| 1972 | [Taj Mahal Travelers – July 15, 1972] Announcement |
 | 1975 | Solo work "Catch-Wave" released |
 | 1977–90s | Merce Cunningham Dance Company Music Director |
 | 2018 | Passed away. Passed away at the age of 80.                                |
@@ -198,13 +198,13 @@ This is the most important message that Kosugi left us.
 ## Conclusion - freedom of sound and prayer
 
 The Taj Mahal tour group"s trip was not just a ""band"s overseas performance.''
-It was a spiritual journey that transcended the institution of music and resonated with the world.
+It was a spiritual journey to transcend the institution of music and resonate with the world.
 
 > "We are travelers, not performers."
 > ― Takehisa Kosugi
 
 Even now, half a century later, the sounds they emitted still resonate.
-It continues to vibrate quietly in the air, in the memories, and deep in the hearts of the listeners.
+It continues to vibrate quietly in the air, in the memory, and deep in the hearts of the listeners.
 
 ---
 

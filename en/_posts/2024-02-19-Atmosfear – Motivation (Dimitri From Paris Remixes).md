@@ -13,7 +13,7 @@ title: Atmosfear – Motivation (Dimitri From Paris Remixes)
 ---
 
 
-A remix of Motivation by Atmosfear, a jazz-funk/Brit-funk band formed in England in 1978, by French house guru Dimitri From Paris.
+French house guru Dimitri From Paris remixes Motivation by Atmosfear, a jazz-funk/Brit-funk band formed in England in 1978.
 
 "Motivation (Dimitri From Paris Remixes)" was released in 1998 by the UK label Disorient.
 

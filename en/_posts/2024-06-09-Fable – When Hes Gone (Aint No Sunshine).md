@@ -8,13 +8,13 @@ layout: post
 tags:
 - Trance
 - 00s
-title: Fable – When He"s Gone (Ain"t No Sunshine)
+title: Fable – When He's Gone (Ain't No Sunshine)
 ---
 
 
 Gez Dewar, also known as Fable, is a music/TV producer from the UK. Also known as Heliotropic, a unit with Nick Hale.
 
-Released in 2000 by UK-based record label 3 Beat Music Ltd, "When He"s Gone" is a trance track that samples Bill Withers' "Ain"t No Sunshine" and features vocals by Carolyn Harding, who started her career as a house vocalist in the early 80's Paradise Garage scene.
+Released in 2000 by UK-based record label 3 Beat Music Ltd, "When He"s Gone" is a trance track that samples Bill Withers' "Ain"t No Sunshine" and features vocals by Carolyn Harding, who started her career as a house vocalist in the early '80s Paradise Garage scene.
 
 #### Tracklist
 ```md

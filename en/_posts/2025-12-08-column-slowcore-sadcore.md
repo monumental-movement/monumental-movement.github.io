@@ -31,7 +31,7 @@ Representative bands include **Red House Painters (1989-)**, **Low (1993-)**, **
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-# 1. Definition of Slowcore / Sadcore
+# 1. Slowcore / Sadcore の定義  
 The term slowcore has been used by media and critics since the early 1990s, and there is no clear originator. Sadcore is no different, and artists themselves often reject this label.
 
 However, the common characteristics are as follows.
@@ -57,7 +57,7 @@ This sound has a structure that conversely brings out emotions through ""quietne
 
 ---
 
-# 2. Origin of Slowcore
+# 2. Slowcore の源流  
 ## ■ The "stillness" part of Dream Pop / Shoegaze
 The **Galaxie 500** of the late 1980s are considered to be the forerunners of slowcore, with their laid-back tempos, dreamy guitars, and emotionless vocals.
 
@@ -82,7 +82,7 @@ Focusing on small labels in regional cities such as Minnesota, Ohio, and Califor
 - *Ocean Beach* (1995)
 
 **Special points:**
-Songs such as ""Katy Song" and ""Funhouse" have a structure in which the ""extension between notes'' amplifies emotion due to their tranquility and length (6 to 10 minutes).
+楽曲「Katy Song」「Funhouse」などは、静謐さと長さ（6〜10分）によって「音の間の伸び」が感情を増幅させる構造を持つ。
 
 ---
 
@@ -115,7 +115,7 @@ Songs such as ""Katy Song" and ""Funhouse" have a structure in which the ""exten
 
 ## ■Idaho
 - **Formed: 1992 (Los Angeles)**
-- Features a unique tone using a 4-string guitar (2 fewer than usual).
+- Features a unique tone using a 4-string guitar (2 less than usual).
 
 ### Masterpiece
 - *This Way Out* (1994)
@@ -142,7 +142,7 @@ Songs such as ""Katy Song" and ""Funhouse" have a structure in which the ""exten
 
 ## ■ Drums
 - brush
-- Soft mallet
+- ソフトマレット  
 - Minimal configuration with suppressed tom/snare
 - Extremely simple pattern
 
@@ -152,7 +152,7 @@ example:
 | Kick --- | Snare ----- | Hat - |
 
 
-Controlling ""margin length'' is more important than tempo.
+Controlling the ""margin length'' is more important than the tempo.
 
 ---
 
@@ -162,7 +162,7 @@ Controlling ""margin length'' is more important than tempo.
 - Naturally captures room reverb
 - Maintain a sense of distance by keeping the microphone close to each other
 
-In Slowcore, the ""pauses" and ""atmosphere" of the recording itself become instruments.
+In Slowcore, the ""pauses" and ""atmosphere" of recording are themselves instruments.
 
 ---
 
@@ -173,7 +173,7 @@ From a musical psychology point of view, music with a slow tempo and low informa
 - **Emotional calm**
 - **Expansion of time awareness (songs feel longer)**
 
-Therefore, when Slowcore is frequently used in movies, photographs, and video works, it exhibits an extremely strong compatibility when expressing ""stopped time''.
+Therefore, when Slowcore is frequently used in movies, photographs, and video works, it exhibits extremely strong compatibility when expressing ""stopped time''.
 
 ---
 

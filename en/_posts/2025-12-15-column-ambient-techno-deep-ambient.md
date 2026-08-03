@@ -18,7 +18,7 @@ title: '[Column] Ambient Techno / Deep Ambient'
 
 Text: mmr｜Theme: Rather than separating the two as genre names, the two are about the common design philosophy of ""sinking time," ""space that makes you feel pressure," and ""a state in which sound continues to exist.''
 
-Ambient Techno is a field of electronic music that was established in the early 1990s, and is a musical style that combines the repetitive rhythmic structure of techno with the spatiality and sustainability of ambient music. Its distinctive feature is that it retains the sense of time of club music while also functioning as music for appreciation.
+Ambient Techno is a field of electronic music that was established in the early 1990s, and is a musical style that combines the repetitive rhythm structure of techno with the spatiality and sustainability of ambient music. Its distinctive feature is that it retains the sense of time of club music while also functioning as music for appreciation.
 
 Deep Ambient (so-called deep-sea ambient) has a higher level of abstraction and does not require the presence of beats. The main focus is on extremely deep sound images, sustained sounds centered on low frequency bands, and compositions that obscure the contours of time.
 
@@ -42,9 +42,9 @@ color: #fff;
 
 Ambient music, which was formed in the 1970s, embraced the idea of ​​music functioning as part of the environment. What is important is that the acoustics were designed to dominate space and time, minimizing melodies and dramatic developments.
 
-On the other hand, techno, which was established in the late 1980s, has developed as a music that induces physical movement, with repetitive beats and mechanical precision at its core. Although these two trends seem to be polar opposites at first glance, they share common elements of ""persistence," ""repetition," and ""non-narrative.''
+On the other hand, techno, which was established in the late 1980s, has developed as a music that induces physical movement, with repetitive beats and mechanical precision at its core. Although these two trends seem to be polar opposites, they share common elements of ""persistence," ""repetition," and ""non-narrative.''
 
-From the late 1980s to the early 1990s, as club culture matured, there was a need for music that could function outside the dance floor, or music that could support non-peak hours, and the two became closer in practical terms.
+From the end of the 1980s to the beginning of the 1990s, as club culture matured, there was a need for music that could function outside the dance floor, or music that could support non-peak times, and the two became closer in practical terms.
 
 ---
 
@@ -55,7 +55,7 @@ The Orb integrates the spatial processing of ambient, techno, and dub, presentin
 
 What is noteworthy is that even in scenes where rhythm is in the foreground, he never shows off his driving force. The beat is not a device that directs movement, but rather serves as a reference point for measuring depth.
 
-This design philosophy became the basis of Ambient Techno, and had a decisive influence on the subsequent Deep Ambient and deep-sea techno expressions.
+This design concept became the basis of Ambient Techno, and had a decisive influence on the subsequent Deep Ambient and deep-sea techno expressions.
 
 
 ---
@@ -71,11 +71,11 @@ This metaphor is no coincidence. In deep water, high frequencies are attenuated 
 
 ## 5. Technical chapter: Low frequency design and frequency distribution
 
-In deep-sea acoustics, low frequencies exist not just for the sake of power. The band around 20Hz to 80Hz does not play a melodic role, but is used to represent the pressure and mass of space.
+In deep-sea acoustics, the low range exists not just for its power. The band around 20Hz to 80Hz does not play a melodic role, but is used to represent the pressure and mass of space.
 
 Sub-bass often doesn't have a clear attack, rising slowly and decaying slowly. As a result, the listener is placed in a state where the listener does not "hear" the sound, but "feels" it as sound pressure.
 
-From the mid-low range to the mid-range, sustained sounds with suppressed overtones are placed, which serves to equalize the density of the sound.
+From the low-mid range to the mid-range, sustained sounds with suppressed overtones are placed, which serves to equalize the density of the sound.
 
 
 ---
@@ -100,7 +100,7 @@ Deep-sea ambient music has a high affinity with concentration, introspection, an
 
 ## 8. Redefining rhythm
 
-Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth meter.
+Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth gauge.
 
 In Deep Ambient, even this standard may be removed, but rather than being completely timeless, internal time is maintained through minute fluctuations.
 
@@ -118,7 +118,7 @@ The decisive difference from deep-sea ambient music lies in the master-slave rel
 
 ## 10. Comparison with Deep Techno
 
-Deep Techno is characterized by its minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
+Deep Techno is characterized by minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
 
 While Ambient Techno/Deep Ambient distances itself from the club-like nature, Deep Techno introduces deep-sea sound while retaining the floor function. This difference creates a clear difference in usage and listening posture.
 
@@ -143,7 +143,7 @@ What is important when using BGM for work is not to draw attention, but to stabi
 
 ## 13. Relationship with meditation/introspection usage
 
-In meditative applications, music is not the object but the background. Deep sea ambient structurally satisfies this condition.
+In meditative applications, music is not the object but the background. Deep-sea ambient music structurally satisfies this condition.
 
 
 ## 14. Chronology

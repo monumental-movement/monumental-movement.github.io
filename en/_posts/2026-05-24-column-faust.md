@@ -17,7 +17,7 @@ title: '[Column] What was Faust? A German avant-garde that deconstructed rock wi
 
 ## A band that appeared to "destroy" rock
 
-Text: mmr | Theme: Tracing the history, musicality, recording techniques, and influence of Faust on Krautrock, which was born in Germany in the 1970s.
+Text: mmr｜Theme: Tracing the history, musicality, recording techniques, and influence of Faust on Krautrock, which was born in Germany in the 1970s
 
 In the early 1970s, there was growing discomfort in West Germany with the direct imitation of British and American rock. The younger generation after World War II was trying to create their own culture from scratch.
 
@@ -66,7 +66,7 @@ The central figure in the birth of Faust was music journalist and producer Uwe N
 
 He formed Faust with a group of musicians with the goal of creating ""innovative German rock.''
 
-The following members participated.
+The following people participated as members:
 
 -Werner "Zappi" Diermaier
 - Jean-Hervé Peron
@@ -80,15 +80,15 @@ They signed a deal with Polydor that prioritized a spirit of experimentation ove
 
 Faust was based in an old school/factory in Wümme, northern Germany.
 
-This wasn't just a recording studio, it was a combination of living space and laboratory. The members continued to record day and night while living together.
+This was more than just a recording studio, it was a combination of living space and laboratory. The members continued to record day and night while living together.
 
 This environment greatly influenced Faust's musical formation.
 
-In normal commercial studios, recording times are limited. However, Faust was able to record endless improvisations and edit them later.
+In normal commercial studios, recording time is limited. However, Faust was able to record endless improvisations and edit them later.
 
 As a result, songs are constructed through "editing" rather than "performance."
 
-> Faust was not just a rock band, but an early experimental group that turned recordings into works of art.
+>Faust was not just a rock band, but an early experimental group that turned recordings into works of art.
 
 ---
 
@@ -168,7 +168,7 @@ The song "It's A Rainy Day, Sunshine Girl" on the album is known as a relatively
 
 Although it has simple repetitive phrases and a minimalist beat, it has an unstable and crumbling atmosphere.
 
-This feeling would also be connected to later post-punk and industrial.
+This feeling also led to later post-punk and industrial.
 
 ### Connection between video and music
 
@@ -191,7 +191,7 @@ Faust's performance may seem chaotic at first glance, but it actually had a very
 
 Drummer Zappi Diermaier in particular created a hypnotic atmosphere by mechanically repeating simple beats.
 
-This sense of repetition also resonates with later techno and minimal music.
+This sense of repetition resonates with later techno and minimal music.
 
 ### Comparison with Neu!
 

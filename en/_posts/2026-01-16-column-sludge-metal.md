@@ -17,14 +17,14 @@ title: '[Column] Sludge Metal ─ Acoustic aesthetics created by weight and stag
 
 ## Prologue: An acoustic world dominated by slowness and weight
 
-Text: mmr｜Theme: About the sonic aesthetics of sludge metal
+Text: mmr｜Theme: About the acoustic aesthetics of sludge metal
 
 
-Sludge metal is not music aimed at advancing or uplifting. The tempo is slow, the riffs are relentlessly repetitive, and the sonic images refuse to be clearly separated. There is a sense of music filling the space, enveloping the listener, and slowing down their movements.
+Sludge metal is not music aimed at advancing or uplifting. The tempo is slow, the riffs are relentlessly repetitive, and the sonic images refuse to be clearly separated. There is a feeling of music filling the space, enveloping the listener, and slowing down their movements.
 
 What is important in this genre is not the melody or technique, but the quality of the sound. The thickness of the distortion, the pressure of the bass, and the interval of the rhythm. These factors act in a complex manner, and music exists not as a linear progression, but as a precipitating substance.
 
-As the genre name suggests, the sonic aesthetics of sludge metal lies in ""stagnation''. He intentionally distances himself from clear sound, sophisticated structure, and a comfortable listening experience, presenting turbidity and stagnation as values. That attitude has occupied a unique position in metal music culture.
+As the genre name suggests, the sonic aesthetics of sludge metal lies in "stagnation." He intentionally distances himself from clear sound, sophisticated structure, and a comfortable listening experience, presenting turbidity and stagnation as values. That attitude has occupied a unique position in metal music culture.
 
 > The sound of sludge metal exists not to move forward, but to sink into a place.
 
@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-## Before Formation: The intersection of doom metal and hardcore
+## Before Formation: The Intersection of Doom Metal and Hardcore
 
 Sludge metal is not a musical style that emerged in isolation. Behind this, there are two trends: doom metal, which has continued since the 1970s, and hardcore punk, which spread in the 1980s.
 
@@ -76,11 +76,11 @@ The guitar sound never dries out, and distortion always lingers. The rhythm refu
 
 ## Acoustic structure: distortion density and persistence
 
-Distortion in sludge metal is not an element to decorate the sound. Due to excessive gain settings and an overemphasis on the bass range, the distortion itself forms the backbone of the music.
+Distortion in sludge metal is not an element to decorate the sound. Due to excessive gain settings and an overemphasis on the bass range, the distortion itself forms the framework of the music.
 
 Even if it's a single-note riff, the overtones expand due to distortion, giving it a chord-like thickness. The pitch becomes vague and the boundary between noise and music is intentionally blurred. This ambiguity gives the sound of sludge metal a unique sense of oppression.
 
-Another feature is that the sound lasts for a long time. The riff is not rounded up and the sustain is stretched out. Rather than following the rhythm, the listener remains within the mass of sound.
+Another feature is that the sound lasts for a long time. The riff is not rounded up and the sustain is stretched out. Rather than following the rhythm, the listener is kept within the mass of sound.
 
 > The distortion in sludge metal is not a decoration, but the structure of the music itself.
 
@@ -100,11 +100,11 @@ Sludge metal rhythms don't work to propel you forward, they work to keep you the
 
 ## Vocal expression: between a scream and a murmur
 
-Sludge metal vocals often don"t have a clear melody. It"s not as deep as Death Growl or as linear as Punk Shout. What is there is a voice that is the result of emotional wear and tear.
+Sludge metal vocals often do not have a clear melody. It's not as deep as Death Growl or as linear as Punk Shout. What is there is a voice that is the result of emotional wear and tear.
 
 The screams are rough, sometimes hoarse, and often cannot be made out as words. However, this is not a lack of skill, but rather an expression of an attitude of not processing emotions. The themes of the lyrics are also introspective, focusing on self-loathing, emptiness, and mental exhaustion.
 
-Rather than being brought to the forefront, the voice blends into the distorted guitar and bass, functioning as part of the acoustics.
+The voice doesn't come to the fore, but instead blends into the distorted guitar and bass, functioning as part of the acoustics.
 
 > Sludge metal voices are traces of emotion, not melody.
 
@@ -166,7 +166,7 @@ graph TD
 
 ## Final chapter: What the weight says
 
-Sludge metal was established as a reaction to a music culture that competed for speed and skill. In this case, the sound does not have to be comfortable, but rather must be unpleasant, heavy, and have no escape.
+Sludge metal was established as a reaction to a music culture that competed for speed and skill. In this case, sound does not have to be comfortable, but rather must be unpleasant, heavy, and have no escape.
 
 Even if times and technology change, the stagnation and pressure that humans feel will not disappear. Sludge metal does not exaggerate or purify these sounds, but simply continues to produce them as sounds.
 

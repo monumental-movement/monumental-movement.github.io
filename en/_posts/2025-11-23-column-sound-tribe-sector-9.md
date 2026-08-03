@@ -52,7 +52,7 @@ The members had a wide range of backgrounds, including rock, jazz, funk, electro
 
 Around 1997, a rare
 **Electronica x Live Ensemble**
-This direction was formed and the name Sound Tribe Sector 9 was started.
+This direction was formed, and the name Sound Tribe Sector 9 was started.
 
 ---
 
@@ -82,18 +82,18 @@ These were rare in the rock scene at the time, and were described by the audienc
 
 2005"s "Artifact" is considered to be STS9"s masterpiece.
 
-The multi-layered structure of synth layers, programmed beats, and thick percussion completely moved them away from the jam band framework and into a more electronic musical direction.
+The multi-layered structure of synth layers, programmed beats, and thick percussion completely moved them away from the jam band framework and into a more electronic music direction.
 
 Representative song:
 - "Atlas"
 - "Something"
 - "Arigato"
-- "Tokyo"
--"Peoples"
+-"Tokyo"
+- "People"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
 
-"Artifact" is a work that showcases STS9's sound and creativity to the fullest, and has earned high praise in the electronic music and jam band scene for its unique sound and innovative approach.
+"Artifact" is a work that demonstrates STS9's sound and creativity to the fullest, and has earned high praise in the electronic music and jam band scene for its unique sound and innovative approach.
 
 Their sound combines elements from a variety of genres, including ambient, electronica, jazz, funk, and dubstep.
 
@@ -126,7 +126,7 @@ The live structure of the same period was
 - Downtempo
 - IDM-like pattern
 - long improvisations
-The audience transitioned to a floor/festival type experience that was premised on ""dancing.''
+The audience transitioned to a floor/festival-type experience with the premise of ""dancing.''
 
 What's important here is that STS9 pursued a technique for reproducing the "texture of electronic music" with guitar and bass.
 Many parts passed through the effects chain, creating a characteristic in which the editorial thinking in the DAW was directly reflected in the live performance.
@@ -139,7 +139,7 @@ Many parts passed through the effects chain, creating a characteristic in which 
 STS9 launched their own label **1320 Records**,
 In addition to their own work, they supported artists with similar musical aspirations.
 
-It is unique in that it is not just a place for album production, but also plays a role close to that of a community.
+It is unique in that it is not just a place for album production, but plays a role close to that of a community.
 
 ## 4-2. Establishment of social activities and charity culture
 
@@ -270,7 +270,7 @@ flowchart LR
 # 11. Cultural influence and positioning
 ## 11-1. Establishing LiveTronica
 
-STS9, along with The Disco Biscuits and The New Deal, have become representative of "livetronica",
+STS9, along with The Disco Biscuits and The New Deal, have become representative of "livetronica".
 They have established a new genre that bridges electronic music and jam bands.
 
 ## 11-2. Strong ties with festival culture
@@ -288,7 +288,7 @@ It is also important because it shows how artists should be in the 21st century 
 
 ---
 
-# 12. Conclusion: 21st century "bands that evolve through live performance"
+# 12. Conclusion: 21st century "bands that evolve through live performances"
 
 Sound Tribe Sector 9 is
 **An attempt to transfer the structure of electronic music to live performance while maintaining the band format**

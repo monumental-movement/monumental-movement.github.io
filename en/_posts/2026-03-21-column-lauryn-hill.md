@@ -17,7 +17,7 @@ title: '[Column] Lauryn Hill -- A record of music where soul and truth intersect
 
 ## Prologue: When voices change the times
 
-Text: mmr｜Theme: A trajectory of expression that fused the inner world of the individual and social perspective, carving "truth" into music
+Text: mmr｜Theme: A trajectory of expression that fuses the inner world of the individual and social perspective, carving "truth" into music
 
 The music scene of the 1990s was a time when hip-hop and R&B rapidly became mainstream and were established as huge industries. Music videos, radio, and record company strategies have made music more influential than ever before, while also increasing the pressures of homogenization and commercialism.
 
@@ -27,7 +27,7 @@ Her music freely traverses rap and singing, integrating themes of love, betrayal
 
 If hip-hop is music that talks about the outside world, then it can be said that she brought a deep realm of the ""inner'' world into it.
 
-> The moment music began to resonate again as a "personal voice", she was at the center of it all.
+>The moment music began to resonate again as an "individual voice", she was at the center of it all.
 
 ---
 
@@ -51,13 +51,13 @@ color: #fff;
 
 Lauryn Hill's career began as a member of The Fugees. The group was formed with Wyclef Jean and Pras Michel, and had a diasporic identity, as symbolized by the word Refugee.
 
-Their debut album, Blunted on Reality, released in 1994, was in line with the hip-hop trends of the time and was not a huge commercial success. However, even among them, Hill's switching between singing and rapping was already giving off a unique presence.
+Their debut album, Blunted on Reality, released in 1994, followed the current hip-hop trends at the time and was not a huge commercial success. However, even among them, Hill's switching between singing and rapping was already giving off a unique presence.
 
 ### "The Score" marks a shift
 
 In 1996, their second album, The Score, changed the game. This work was not just a hip-hop album, but a multi-layered piece of music that strongly reflected the influences of soul and reggae.
 
-In particular, Killing Me Softly, while retaining the lyricism of the original song, was repositioned within a hip-hop context and became a worldwide hit.
+In particular, Killing Me Softly retained the lyricism of the original song while being repositioned within a hip-hop context, making it a worldwide hit.
 
 What became clear in this success was the fact that Hill was not just a member of the group, but the musical centerpiece. Her voice served as the emotional core of the song.
 
@@ -117,9 +117,9 @@ Everything Is Everything also brings social messages to the forefront.
 
 The album won five Grammy Awards and set a historic record for a female artist.
 
-What is important, however, is that its success was measured not by mere sales, but by ""content.''
+However, what is important is that the success was measured not just in terms of sales, but also in terms of content.
 
-> An individual's confession became a mirror that reflected the era itself.
+> An individual's confession became a mirror that reflected the times themselves.
 
 ---
 

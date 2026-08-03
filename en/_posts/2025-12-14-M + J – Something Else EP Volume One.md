@@ -13,7 +13,7 @@ title: M + J – Something Else EP Volume One
 ---
 
 
-Murray Gold is an English stage/film/TV music composer/theatre/radio scriptwriter known for being the music director/composer for the science fiction drama "Doctor Who" from 2005 to 2017.
+Murray Gold is an English stage/film/TV music composer/theatre/radio scriptwriter known for being the music director/composer for the science fiction drama Doctor Who from 2005 to 2017.
 
 Joe Davis is the founder of the English label Far Out Recordings, DJ and Brazilian music enthusiast.
 

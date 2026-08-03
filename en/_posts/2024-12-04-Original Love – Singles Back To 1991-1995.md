@@ -13,7 +13,7 @@ title: Original Love – Singles Back To 1991-1995
 ---
 
 
-Original Love's best album released in 1996. All singles released from 1991 to 1995 are included in release order.
+Original Love's best album released in 1996. All singles released from 1991 to 1995 are included in the order of release.
 
 #### Tracklist
 ```md

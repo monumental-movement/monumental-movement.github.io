@@ -13,7 +13,7 @@ title: '[Column] New Wave: The intersection of post-punk music innovation and 19
 ---
 
 
-## New Wave is not just a genre, but a ""sensibility of the times'' that inherits the experimental spirit of the post-punk era and fuses diverse music and cultures.**
+## New Wave is not just a genre, but a ""sensibility of the times'' that inherits the experimental spirit of the post-punk era and fuses diverse music and culture.**
 
 
 Text: mmr｜Theme: Post-punk era art movement
@@ -98,11 +98,11 @@ New York"s Talking Heads is centered around art school graduate David Byrne, and
 
 The diversity of the new wave is deeply tied to the social context in which it was born.
 
-- **UK**: Economic crisis in the late 1970s, rising unemployment rate under Thatcher administration. Young people felt a ""feeling of stagnation with no tomorrow,'' and they projected this into music and fashion.
+- **UK**: Economic crisis in the late 1970s, rising unemployment rate under the Thatcher government. Young people felt a ""feeling of stagnation with no tomorrow,'' and they projected this into music and fashion.
 
 - **America**: Linked to the New York art scene (CBGB, Mudd Club), it spread as intellectual experimental music after punk.
 
-- **Japan**: Against the backdrop of high economic growth and advances in technology, "techno new wave" such as YMO and Plastics gained international recognition.
+- **Japan**: Against the backdrop of the afterglow of high economic growth and advances in technology, "techno new wave" such as YMO and Plastics gained international recognition.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rRmS8sO1fYw?si=dk81ZKx-l_K1P-aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -130,7 +130,7 @@ New Wave was a major turning point in music history in that it ""crossed genre b
 
 New wave originated from punk in the 1970s, and was an important movement in music history that incorporated electronic technology, crossed genres, and was socially critical. At the same time, it was an overall cultural movement that symbolized 1980s urban culture, involving fashion, video, art, and lifestyle.
 
-New Wave is a ""comprehensive art of the era'' in which music, art, social criticism, and fashion are intricately intertwined.
+New Wave is the ""comprehensive art of the era'' in which music, art, social criticism, and fashion are intricately intertwined.
 
 ---
 

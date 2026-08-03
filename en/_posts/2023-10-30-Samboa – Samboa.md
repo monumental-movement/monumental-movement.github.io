@@ -12,7 +12,7 @@ title: Sambôa – Sambôa
 ---
 
 
-This album is a reissue of Brazilian jazz duo Sambôa's second album ""Samboa'' released in 1983.
+This album is a reissue of the second album "Samboa" released in 1983 by Brazilian jazz duo Sambôa.
 
 #### Tracklist
 ```md

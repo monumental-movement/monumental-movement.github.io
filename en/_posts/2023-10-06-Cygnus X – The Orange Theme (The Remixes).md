@@ -16,7 +16,7 @@ Cygnus X is a German techno unit active in the 1990s. They are known for their t
 
 "The Orange Theme" is Cygnus X's signature song and was first released in 1994. This song features an energetic beat, high-tension synth sound, and powerful build-up and drop. Its magnificent sound and unique melodies will be familiar to fans of trance music.
 
-Remixers have added their own unique approaches to songs, bringing new interpretations and sounds. This allowed us to incorporate different musical styles and artists' perspectives while still retaining elements of the original song.
+Remixers have added their own unique approaches to songs, bringing new interpretations and sounds. This allows us to incorporate different musical styles and artists' perspectives while still retaining elements of the original song.
 
 The Orange Theme (The Remixes) is an exciting collection of remixes for lovers of trance and hard trance. The song has a high tempo and high energy and is sure to be a hit on dance floors at clubs and festivals.
 

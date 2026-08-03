@@ -108,7 +108,7 @@ High range suddenly rolls off (especially normal tape)
 
 Mid-low range is relatively stable
 
-Hiss noise of about -50dB always spreads to high frequencies
+Hiss noise of around -50dB always spreads to high frequencies
 
 Using Dolby NR reduces some high-frequency noise, but the roundness of the sound remains.
 
@@ -148,7 +148,7 @@ Spectrogram trend:
 
 Low to mid range reproducibility close to CD
 
-High frequency attenuates early around 17-18kHz (effect of data compression)
+High frequency attenuates early at around 17-18kHz (effect of data compression)
 
 Transient components often appear "blurred"
 
@@ -175,7 +175,7 @@ Future: A small but sustainable market is expected with the support of analog so
 
 #### Cassette tape
 
-Current status: The once mainstream media has declined. Limited support among enthusiasts and indie scenes.
+Current status: The once mainstream media has declined. Limited support in the mania and indie scene.
 
 Future: Niche popularity as retro culture. It survives as part of DIY music and collections.
 
@@ -211,7 +211,7 @@ Dolby Atmos is an object-based 3D sound technology that goes beyond traditional 
 
 Sound image placement in the height direction is possible
 
-Dramatically improves the live feel and sense of presence of movies, games, and music
+Dramatically improve the live feel and presence of movies, games, and music
 
 Can be played in home theaters, headphones, and smartphones
 
@@ -240,16 +240,16 @@ Combined with high-resolution sound sources for a more immersive listening exper
 
 The transition from physical media to streaming is almost complete
 
-The focus of the next generation is support for high quality sound distribution (high resolution, MQA) and spatial audio (Dolby Atmos, Sony 360 Reality Audio)
+The focus of the next generation will be support for high quality sound distribution (high resolution, MQA) and spatial audio (Dolby Atmos, Sony 360 Reality Audio)
 
 
 <hr>
 
 #### Evolution of the experience
 
-Users are moving from simply playing music to experiencing spatial sound
+Users move from simply playing music to experiencing spatial sound
 
-A complex market where analog regression and digital advancement coexist.
+A complex market where analog regression and digital advancement coexist
 
 Dolby Atmos is highly anticipated as a new means of expression for live performances and festival experiences.
 

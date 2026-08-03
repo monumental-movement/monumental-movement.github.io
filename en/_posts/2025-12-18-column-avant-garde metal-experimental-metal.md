@@ -17,7 +17,7 @@ title: '[Column] Avant-Garde Metal / Experimental Metal'
 
 ## Prologue
 
-Text: mmr | Theme: Redesigning the structure, time, and gravity of avant-garde metal/experimental metal
+Text: mmr｜Theme: Redesigning the structure, time, and gravity of avant-garde metal/experimental metal
 
 
 Avant-Garde Metal is not a genre, but rather a structural reexamination of the metal musical system.
@@ -44,7 +44,7 @@ color: #fff;
 
 ## Structural assumptions in metal
 
-To understand avant-garde metal, it is first necessary to clarify what is the premise behind regular metal.
+In order to understand avant-garde metal, it is first necessary to clarify what normal metal is based on.
 
 Traditional metal has been formed as a collection of structural assumptions such as the following.
 
@@ -62,7 +62,7 @@ Avant-Garde Metal does not deny these assumptions in part, but invalidates them 
 
 Avant-garde is not about eccentricity or radicalness, but rather the ability to dismantle existing grammar from within.
 
-The reason Avant-Garde Metal is perceived as difficult is not because of its excessive emotional expression, but because the structures that listeners have unconsciously relied on no longer function. The meter is present but unreliable, the riff is presented but doesn"t stick, and even though it develops, predictions don"t come true.
+The reason why Avant-Garde Metal is perceived as difficult is not because of its excessive emotional expression, but because the structures that listeners have unconsciously relied on no longer function. The meter is present but unreliable, the riff is presented but doesn"t stick, and even though it develops, predictions don"t come true.
 
 ---
 
@@ -82,9 +82,9 @@ When structure becomes problematic, metal moves to a new stage. Riffs become fra
 
 ## Gorguts: Structural design as destruction
 
-Gorguts dismantled death metal itself from the inside out, using its vocabulary to its fullest.
+Gorguts deconstructed death metal itself from the inside out, using its vocabulary to its fullest.
 
-In their music, riffs are present but without driving force, time signatures are notated but unstable, and development is perceived as ruptures rather than continuity. This is not an introduction of elements outside the genre, but an avant-garde effect created by distorting the internal grammar.
+In their music, riffs are present but without driving force, time signatures are notated but unstable, and developments are perceived as ruptures rather than continuity. This is not the introduction of elements outside the genre, but an avant-garde effect created by distorting the internal grammar.
 
 ---
 
@@ -182,7 +182,7 @@ In this work, the separation of structures goes even further. The songs are stru
 
 ## Influence and inheritance of avant-garde metal
 
-Avant-garde metal didn't create a genre, it left behind a way of thinking. In subsequent extreme music, structure became an element as important as, or even more than, expression.
+Avant-garde metal didn't create a genre, it left behind a way of thinking. In subsequent extreme music, structure became as important as, or even more important than, expression.
 
 ---
 

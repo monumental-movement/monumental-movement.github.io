@@ -58,7 +58,7 @@ color: #fff;
 
 This movement is characterized by a unique groove that combines live instruments and electronic beats. Piano, keyboards, horns, percussion, and more are incorporated as live music, overlaid with complex drum patterns and house beats. The result is a unique sound that inherits the heritage of jazz, funk, and soul while also having the immediacy and danceability of club music.
 
-Artists such as Dego, Kaidi Tatham, IG Culture, Bugz in the Attic, and Neon Phusion have contributed significantly to Broken Beat"s growth. In particular, Dego"s label 2000Black served as a central hub for the genre, producing many talented artists. Against this background, Dego & Kaidi will form a collaborative relationship that will expand the context of UK black music.
+Broken Beat の成長には、Dego、Kaidi Tatham、IG Culture、Bugz in the Attic、Neon Phusion などのアーティストが大きく貢献した。特に Dego が主宰したレーベル 2000Black は、このジャンルの中心的拠点として機能し、多くの才能あるアーティストたちを輩出した。こうした背景のもと、Dego & Kaidi は協働関係を築き、UK のブラック・ミュージックの文脈を新たに拡張していく。
 
 ---
 
@@ -70,7 +70,7 @@ Dego began his career as part of the pioneering UK Jungle/Drum & Bass outfit 4He
 
 ### Kaidi Tatham
 
-Kaidi Tatham is a multi-instrumentalist, producer, and composer who is well versed in keyboard, flute, and percussion instruments. He was exposed to classical and gospel music from a young age, and later studied performing arts in London. In the late 1990s, he began working with Broken Beat artists such as IG Culture, Bugz in the Attic, and Neon Phusion. He has received critical acclaim both live and in the studio, and is sometimes referred to as ""UK's Herbie Hancock.''
+Kaidi Tatham は、マルチ奏者・プロデューサー・コンポーザーとして、鍵盤、フルート、打楽器などに精通している。若い頃からクラシックやゴスペル音楽に触れ、後にロンドンでパフォーミング・アーツを学んだ。1990年代後半には、IG Culture や Bugz in the Attic、Neon Phusion などの Broken Beat 系アーティストと共に活動を開始。ライヴとスタジオ双方で高い評価を受け、「UK の Herbie Hancock」と称されることもある。
 
 ---
 
@@ -89,7 +89,7 @@ flowchart LR
 
 ---
 
-2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also fostered in this environment, producing numerous club hits and studio releases.
+2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also nurtured in this environment, producing numerous club hits and studio releases.
 
 ---
 
@@ -131,7 +131,7 @@ A So We Gwarn is a 14-track album that combines elements of jazz, soul, house, h
 
 ---
 
-Their signature song, "Treasure Beach," attempts to transform Afrobeat into UK jazz, with Rhodes and horns as the main components, with Wayne Francis' horns providing an impressive accent. The entire album redefines Broken Beat and its significance as a crossroads of UK-US black music.
+Their signature song, "Treasure Beach," attempts to transform Afrobeat into UK jazz, with Rhodes and horns playing the main role, with Wayne Francis' horns providing an impressive accent. The entire album redefines Broken Beat and its significance as an intersection of UK-US black music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iG2UeZfUbQ?si=csNxYA4plEZQ2nnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -147,7 +147,7 @@ flowchart TD
 
 ---
 
-## Cultural significance of "So We Gwarn"
+## “So We Gwarn” の文化的意義
 
 ""A So We Gwarn" fused UK"s Broken Beat/jazz/soul culture with Detroit"s house culture. They re-presented to the world the ""acoustic instruments + beat + jazz/funk/soul groove" established by Broken Beat, and encouraged a re-evaluation of UK Black Music.
 
@@ -157,7 +157,7 @@ The album functions not as nostalgia for the past, but as a proposal for the fut
 
 ## Developments in the 2020s and beyond
 
-Kaidi Tatham continues to be active not only in Broken Beat, but also as a solo artist and in collaborations. Dego also continues to produce mainly 2000Black, and his sound continues to evolve beyond the boundaries of genre. Sound Signature continues to serve as a crossroads for black music and influence globally.
+Kaidi Tatham continues to be active not only in Broken Beat, but also as a solo artist and in collaborations. Dego also continues to produce mainly 2000Black, and his sound continues to evolve beyond the boundaries of genre. Sound Signature continues to serve as a crossroads for black music and continues to influence globally.
 
 Broken Beat is not talked about as a phenomenon of the past, but is being reinterpreted as a "black music movement" in an ongoing manner. Dego & Kaidi's activities provide the foundation that makes such reinterpretation possible.
 

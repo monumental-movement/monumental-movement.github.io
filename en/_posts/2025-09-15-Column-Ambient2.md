@@ -10,7 +10,7 @@ tags:
 - 90s
 - 80s
 - 70s
-title: '[Column] Ambient: From "listening music" to "feeling music" II'
+title: '[Column] Ambient: From "music to listen to" to "music to feel" II'
 ---
 
 
@@ -31,7 +31,7 @@ This genre is extremely philosophical music that stands on the border between mu
 After World War II, with the acceleration of urbanization and industrialization, people's living environments became acutely aware of the contrast between "noise" and "silence." Artists and composers began trying to rethink music as an "environment" rather than "entertainment."
 
 ### Representative trends
-- [**Erik Satie**: "Musique d"ameublement"](https://amzn.to/42JssfB) positioned music not as something to be actively listened to, but as a "function" that constitutes a space.
+- [**Erik Satie**: "Musique d'ameublement"](https://amzn.to/42JssfB) positioned music not as something to be actively listened to, but as a "function" that constitutes a space.
 - [**John Cage**《4"33"》(1952)](https://amzn.to/4pOfrLZ): A radical experiment in which the performer does not make any sound and uses the ambient sounds floating in the venue as music.
 - [**Musique Concrète**:](https://a.r10.to/hgipOu) Pierre Schaeffer and others attempted to reconstruct sound by making full use of recording and editing techniques.
 
@@ -65,7 +65,7 @@ During this period, the word "ambient" took root, and the role of music as urban
 ## ■ 1980s: Fusion with electronic music
 
 ### Social background
-The music is driven by the tension of the Cold War structure and at the same time by optimism towards technology. With the spread of home synthesizers, ambient music has shifted from being music for a minority of listeners to music that is part of everyday life.
+The music is driven by the tension of the Cold War structure and at the same time by optimism towards technology. With the spread of home synthesizers, ambient music has changed from being music for a minority of listeners to music that is part of everyday life.
 
 ### Masterpiece
 - [Harold Budd & Brian Eno "The Plateaux of Mirror" (1980)](https://amzn.to/4nmHFvq)
@@ -287,8 +287,8 @@ color: #fff;
 - Convert data to audio and video. Create a minimal and ambient immersive space.
 - **Ryuichi Sakamoto "async – Installation"** (2017, Watari Museum of Art, etc.)
 - Ambient art that explores the view of life and death and memory, combining environmental sounds and electronic sounds.
-- **Olafur Eliasson "The Weather Project"** (2003, Tate Modern)
-- Presents an ambient immersive space as an integrated visual and audio experience.
+- **Olafur Eliasson “The Weather Project”**（2003, テート・モダン）  
+  - 視覚と音響の統合体験として、アンビエント的没入空間を提示。  
 
 ---
 
@@ -318,7 +318,7 @@ Ambient has the aspect of ""acoustic architecture.''
 - Representative works ["Music for Nine Post Cards"](https://amzn.to/429uNQV) (1982), ["Green"](https://amzn.to/4nN36pp) (1986)
 - With its simple melody and clear sound, it has been reevaluated overseas in recent years.
 
-**Yuji Takahashi**
+**高橋悠治 (Yuji Takahashi)**
 
 - Interacted with avant-garde composers such as John Cage and helped establish experimental music in Japan.
 
@@ -333,7 +333,7 @@ Ambient has the aspect of ""acoustic architecture.''
 **others**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
-- Japan's unique "ma" and "wabi-sabi" forms a different texture from overseas ambient music.
+- Japan's unique "ma" and "wabi-sabi" create a texture different from that of overseas ambient music.
 
 ---
 
@@ -356,4 +356,4 @@ In the future, ambient will become even more essential as ""environmental infras
 
 ### Related columns
 
-🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)

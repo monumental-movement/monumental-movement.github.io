@@ -26,7 +26,7 @@ title: '[Column] Brenda Fassie — The township diva: A journey of glory and str
 Text: mmr | Theme: Brenda Fassie (1964–2004), a songstress from a township in South Africa. Glory and setbacks, politics and private life -- trace his life and legacy based on facts
 
 
-The book carefully traces her journey, which was raised in a township and led South African popular music from the 1980s to the 2000s, with chronology, charts, and song explanations.
+This book carefully traces her journey, which was raised in a township and led South African popular music from the 1980s to the 2000s, with a chronology, diagrams, and song explanations.
 
 
 ---
@@ -62,13 +62,13 @@ color: #fff;
 | Childhood | Raised in an environment where his mother was involved in music, he rose to prominence early on by singing to churches and tourists.                               |
 | Around 1981 | Became serious about music activities at a young age. Gained experience in vocal groups and local bands.                                   |
 | 1983 | Gained national attention with songs such as "Weekend Special".                                      |
-| 1985 | Give birth to a son. Since then, she has balanced her life as a mother and child with her music career.                                            |
+| 1985 | Give birth to a son. Since then, she has balanced life as a mother and child with music activities.                                            |
 | 1989 | Marriage (Nhlanhla Mbambo). later divorced.                                             |
 | 1990 | Album "Black President" released. Political messages attract attention.                              |
 | 1991 | Problems in his private life were reported, and problems with drug use came to the fore.                                              |
 | 1995 | A scandal is discovered, including the death of a lover. The cycle of rehabilitation and return begins.                                    |
 | 1996–1999 | Returned to commercial success with albums such as ""Now Is the Time," ""Paparazzi," ""Memeza," and ""Nomakanjani." |
-| 2001 | Increased attention from international media and her influence reevaluated.                                        |
+| 2001 | Attention from international media increases, and her influence is reevaluated.                                        |
 | 2004 | He collapsed in April and passed away on May 9th at the age of 39. After his death, his best albums will be sorted out.                                     |
 
 ---
@@ -92,7 +92,7 @@ He then became the lead singer of Brenda and the Big Dudes, and soon gained nati
 
 # 4. National success and masterpieces (1983–1990)
 
-Throughout the 1980s, she released a number of singles and albums and became a leading figure in black pop in South Africa. Her expressions were rich in stage costumes, choreography, and performances that involved the audience, and she was very popular in terms of media and concert mobilization.
+1980年代を通じて、彼女は数々のシングルとアルバムを発表し、南アフリカにおける黒人ポップの代表的存在となりました。彼女の表現は、舞台衣装や振付、観客を巻き込むパフォーマンス性に富み、メディアやコンサート動員の面でも高い人気を誇りました。
 
 Some of the representative songs
 
@@ -116,7 +116,7 @@ The death of her lover in 1995 and the resulting scandal caused her own mental s
 
 Released in 1990, Black President had special meaning in the context of the anti-apartheid movement, containing a message of respect and hope for Nelson Mandela, who was then a prisoner. This work is important as an example of popular music becoming a platform for political expression.
 
-Brenda's lyrics often intermingled with township life, the trials of the black community, and personal emotions, in which listeners found empathy and catharsis. As a singer, she not only entertained, but also served as a social voice.
+Brenda's lyrics often mixed township life, the trials of the black community, and personal emotions, and audiences found empathy and catharsis in them. As a singer, she not only entertained, but also served as a social voice.
 
 ---
 
@@ -124,7 +124,7 @@ Brenda's lyrics often intermingled with township life, the trials of the black c
 
 Since 1996, she has focused her efforts on music production, achieving commercial success with several albums. Works such as Memeza and Nomakanjani, in particular, were huge hits and cemented her status in the late 1990s.
 
-In works from this period, you can hear Brenda's vocal expressions becoming more mature, even as she incorporates kwaito and dance beats. Their on-stage charisma, skillful audience involvement, and production sophistication on recording once again won them widespread support.
+In her works from this period, you can hear Brenda's vocal expressions becoming more mature, while incorporating kwaito and dance beats. Their on-stage charisma, skillful audience involvement, and production sophistication on recording once again won them widespread support.
 
 ---
 
@@ -171,7 +171,7 @@ flowchart TB
 
 ---
 
-# 12. Representative song explanation
+# 12. 代表曲解説
 
 * **Weekend Special** — An early classic. It was well-received by a wide range of audiences due to its shuffling rhythm and catchy chorus.
 * **Too Late for Mama** — An emotional ballad. The narrative nature of the lyrics and lyrical vocals are impressive.
@@ -182,7 +182,7 @@ flowchart TB
 
 # 13. Sociocultural evaluation and influence on posterity
 
-Brenda's accomplishments go beyond musical success with cultural and social impact. She pushed the voices of the township and black communities to the center of pop music, contributed to LGBTQ visibility, and paved the way for the next generation of black women artists.
+Brenda's accomplishments go beyond musical success with cultural and social impact. She pushed the voices of the township and black communities to the center of pop music, contributed to LGBTQ visibility, and paved the way for the next generation of black female artists.
 
 On the other hand, reports about drug problems and scandals also provided material to show the bright and dark sides of stars. Today, she remains an iconic figure in South African music history.
 

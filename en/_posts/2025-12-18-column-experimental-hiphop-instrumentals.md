@@ -10,7 +10,7 @@ tags:
 - Experimental
 - Hiphop
 - Instrumental
-title: '[Column] Experimental Hip Hop Instrumentals'
+title: 【コラム】 Experimental Hip Hop Instrumentals（実験ヒップホップ・インスト）
 ---
 
 
@@ -21,7 +21,7 @@ Text: mmr｜Theme: The history of the establishment of experimental hip-hop inst
 
 Hip-hop is essentially a culture in which the MC's verbal expression and the repetitive structure of the beat complement each other. However, since the 1990s, as instrumental works without rap began to circulate independently, beats came to the foreground as a theme rather than an accompaniment. Especially in experimental instruments, there is no need for a homogeneous beat structure or development design for rapping, and time, texture, and fragmentation become the main design targets.
 
-> "The absence of wrap is not an omission, but an expansion of design freedom."
+> "ラップの不在は欠落ではなく、設計自由度の拡張である"
 
 ---
 
@@ -39,7 +39,7 @@ color: #fff;
 </style>
 
 
-## Terminology: Experimental Hip Hop Instrumentals
+## Terminology: Experimental Hip Hop Instruments
 
 In this article, Experimental Hip Hop Instrumentals refers to a group of instrumentals that share the following production characteristics.
 
@@ -73,7 +73,7 @@ In traditional hip-hop production, loops of two to eight bars were the basic uni
 
 ---
 
-Madlib's production is characterized by an improvisational method centered on hardware samplers. When producing using the SP series, physical manipulation takes precedence over visual editing, leaving sample shifts and fluctuations intact in the music.
+Madlib's production is characterized by an improvisational method centered on hardware samplers. When producing using the SP series, physical manipulation takes precedence over visual editing, leaving sample deviations and fluctuations intact in the music.
 
 * Samples are selected with the premise of preserving the original sound.
 * No strict quantization
@@ -150,7 +150,7 @@ The structure, in which many short pieces are arranged in succession, has the ch
 
 ---
 
-## Intersection with other genres
+## 他ジャンルとの交差
 
 The experimental instrumental is identified as hip-hop by the presence of a beat, while connecting with ambient, noise, and jazz improvisation.
 
@@ -158,7 +158,7 @@ The experimental instrumental is identified as hip-hop by the presence of a beat
 
 ## Listening environment
 
-A structure adapted to intermittent playback rather than concentrated listening is consistent with modern production environments. The large amount of production assumes coexistence rather than consumption.
+集中聴取よりも断続的再生に適応する構造は、現代的制作環境と一致する。制作量の多さは消費ではなく共存を前提とする。
 
 ---
 

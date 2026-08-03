@@ -19,7 +19,7 @@ title: '[Column] Reggae × Hip-Hop: From sound systems to world cities—a histo
 
 Text: mmr｜Theme: The back and forth of rhythm connecting Jamaica and the Bronx, and the cultural history of expansion into global cities
 
-Reggae and hip-hop are bass cultures that were born from the periphery and spread to the world through cities. When Jamaican sound systems intersected with New York's Bronx, the music became more than just entertainment and began to tell the story of immigration and the city itself. This paper traces the history of that exchange in terms of events and works.
+Reggae and hip-hop are bass cultures that were born from the periphery and spread throughout the world through cities. When Jamaican sound systems intersected with New York's Bronx, the music became more than just entertainment and began to tell the story of immigration and the city itself. This paper traces the history of that exchange in terms of events and works.
 
 
 ---
@@ -58,9 +58,9 @@ The points of contact between the two are sound system culture, toasting (narrat
 
 ### Kingston: The establishment of the sound system
 
-In Kingston in the 1950s, sound systems featuring large, mobile speakers were popular. **Coxsone Dodd** and **Duke Reid** imported American R&B and created their own dance culture.
+In the 1950s, sound systems with large mobile speakers were popular in Kingston. **Coxsone Dodd** and **Duke Reid** imported American R&B and created their own dance culture.
 
-From the late 1960s to the 1970s, DJs appeared who spoke over instrumental music. A representative example of this is **U-Roy**, whose style of layering improvised narrative over existing riddim became a hit.
+From the late 1960s to the 1970s, DJs appeared who spoke over instrumental music. A representative figure is **U-Roy**, who made his style of layering improvised storytelling over existing riddim into a hit.
 
 > The technique of manipulating words over the beat would later be reinvented in another city.
 
@@ -94,7 +94,7 @@ The appearances of **Busta Rhymes**, who has a Jamaican flow, and **The Notoriou
 
 In the 2000s, dancehall rhythms permeated mainstream pop. **Sean Paul** becomes a success on the US charts and his Caribbean beat becomes a global standard.
 
-Additionally, artists such as **Rihanna** and **Drake** introduced dancehall elements, and hip-hop became completely global.
+Additionally, artists such as **Rihanna** and **Drake** incorporated dancehall elements, and hip-hop became completely global.
 
 > Reggae and hip-hop are once again intersecting at the heart of the pop market.
 

@@ -46,7 +46,7 @@ When Pan Sonic was formed in Finland in the early 90s, the electronic music scen
 Mika Vainio was originally active in the industrial/noise genre, and in the early 1990s he turned to electrical sound experiments. Ilpo Vaisanen similarly moved between the realms of DIY electronics and performance art.
 
 ### Debut under the name Panasonic
-Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994. Much of the equipment consisted of modified analog circuits, feedback systems, and oscillators, and the main ingredient was physical electronic vibrations, which were completely different from existing forms of club music.
+Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994. Much of the equipment consisted of modified analog circuits, feedback systems, and oscillators, and the main component was physical electronic vibrations, which were completely different from existing forms of club music.
 In the music scene of the time, there were few who presented electroacoustic minimalism in such a pure form.
 
 ### Name issue with Matsushita Electric
@@ -67,10 +67,10 @@ He rarely uses commercially available synthesizers, instead focusing on the foll
 - Voltage control circuit
 - Physical materials such as amplifiers, metal pieces, magnetic coils, etc.
 
-As a result, Pan Sonic's sound has a rawness that sounds like a recording of the exact moment an electronic component operates. The sound is harsh, particles are large, and overwhelmingly physical.
+As a result, Pan Sonic's sound has a rawness that sounds like it was recorded ""the moment electronic components operate''. The sound is harsh, the particles are large, and it is overwhelmingly physical.
 
 ## 2-2. Minimal structure
-Although the sonic material is extremely simple, the song has a detailed structure.
+Although the sonic material is extremely simple, the songs have a detailed structure.
 
 - repeating pulses
 - Finely fluctuating frequency
@@ -89,7 +89,7 @@ Many of his works include extremely low sounds, around 20Hz, which often caused 
 Below, representative works will be explained based on facts.
 
 ## 3-1. *Vakio* (1995)
-This debut work is a monumental piece of minimal electronic sound. Characterized by extreme repetition, inorganic pulses, and low-frequency drones, this is the prototype for his later work.
+A debut work and a monumental piece of minimal electronic sound. Characterized by extreme repetition, inorganic pulses, and low-frequency drones, this is the prototype for his later work.
 
 ## 3-2. *Kulma* (1997)
 The sound is more aggressive and industrial. Metallic noises, compressed pulses, and mechanical rhythms come to the fore.
@@ -104,7 +104,7 @@ A 4-disc, 234-minute masterpiece. It can be said to be the culmination of all th
 - Disc 3: Silence and Drone
 - Disc 4: Long Ambient
 
-This is the work that most clearly demonstrates Pan Sonic's "time" and "structure."
+This is the work where Pan Sonic's "time" and "structure" are most clearly demonstrated.
 
 ## 3-5. *Gravitoni* (2010)
 A late masterpiece with a deeper electronic texture and minimalist structure. This is essentially the last work before going on hiatus, and it has a gravity-like pressure to it.
@@ -137,7 +137,7 @@ Its **purity of repetition** marked a new path for club music.
 They have often collaborated with Japanese noise artists (especially Merzbow, etc.), and they have enhanced each other's experimentalism.
 
 ### 5-3. Contemporary acoustics/sound art
-This approach of treating electronic sound as a "phenomenon" was inherited by later electronic sound artists.
+The approach of treating electronic sound as a "phenomenon" was inherited by later electronic sound artists.
 
 ### 5-4. Mika Vainio's solo activities
 Mika Vainio has released numerous works under the solo name Ø (Zero). He shared the same attitude as Pan Sonic in exploring the smallest unit of electronic sound.

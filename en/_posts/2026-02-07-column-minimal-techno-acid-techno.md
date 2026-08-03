@@ -27,7 +27,7 @@ Techno is a musical culture that was formed in Detroit in the early 1980s, and i
 
 ### Transmission and mutation to Europe
 
-In the late 1980s and early 1990s, techno traveled to Europe and was interpreted differently in each city. Particularly in cities such as Berlin, Frankfurt, and London, the club space itself became a defining element of music, and techno began to function not just as a genre but as an operating system for urban culture.
+1980年代後半から90年代初頭にかけて、テクノはヨーロッパへ渡り、都市ごとに異なる解釈を受ける。特にベルリン、フランクフルト、ロンドンといった都市では、クラブという空間そのものが音楽を規定する要素となり、テクノは単なるジャンルではなく、都市文化の運用システムとして機能し始めた。
 
 >Before it was music, techno was a common language for connecting cities and bodies.
 
@@ -77,7 +77,7 @@ In a large club in Berlin, the bass makes the entire building vibrate. Minimal t
 
 ## Origin of acid techno
 
-### Coincidence between Chicago and TB-303
+### シカゴとTB-303の偶然
 
 Acid techno's origins lie in Chicago in the mid-1980s. The Roland TB-303 was originally designed for guitar practice, but was considered a failure in the market. However, this equipment, which found its way onto the used market, created an unprecedented bass sound with its unique resonance and slide function.
 
@@ -91,7 +91,7 @@ In the early 1990s, acid made its way to Britain and became associated with ille
 
 ## Acoustic structure of acid techno
 
-### Improvisation of resonance operation
+### レゾナンス操作という即興性
 
 The core of acid techno lies in the real-time manipulation of the TB-303's filter and resonance. Sound is not fixed and constantly transforms. This improvisation gives the track a raw sense of tension.
 
@@ -107,9 +107,9 @@ High resonance and distortion directly stimulate the listener's body. Acid techn
 
 ### Minimalism of anonymity and immersion
 
-In minimal techno, DJs and artists are not in the foreground. The booth is dark and visual information is extremely limited. What matters is not who is playing the music, but how the sound fills the space.
+ミニマル・テクノでは、DJやアーティストは前景に出ない。ブースは暗く、視覚情報は極端に制限される。重要なのは誰がかけているかではなく、音が空間をどう満たすかである。
 
-### Acid of excess and hedonism
+### 過剰と享楽のアシッド
 
 In acid techno, the sounds are assertive and sometimes even humorous. The distorted bass line symbolizes an attitude that favors chaos over order.
 
@@ -121,13 +121,13 @@ In acid techno, the sounds are assertive and sometimes even humorous. The distor
 
 ### Minimal design suitable for long-term operation
 
-Minimal techno dominates the floor at a Berlin club all night long. Because there are fewer movements, dancers feel less fatigued and can continue dancing for long periods of time.
+ベルリンのクラブでは、ミニマル・テクノが夜通しフロアを支配する。展開が少ないからこそ、疲労を感じにくく、ダンサーは長時間踊り続けることができる。
 
 ### Acid rules peak time
 
 Acid techno instantly raises the temperature on the floor. By being introduced at peak times, it creates a collective explosion.
 
-> In the club, music functions as a device to manipulate time and emotions.
+> クラブにおいて音楽は、時間と感情を操作する装置として機能する。
 
 ---
 

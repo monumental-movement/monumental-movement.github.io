@@ -62,7 +62,7 @@ The following are the characteristics of their song structures.
 ### 1. Ultra-fast and fragmented structure
 
 The technique of **changing phrases of 1-2 beats at high speed, rather than in units of measures, is remarkable.
-The aural sense of direction is constantly shaken by the inserted breaks, polyrhythms, and misaligned accents.
+The aural sense of direction is constantly shaken by the breaks, polyrhythms, and accents that are inserted.
 
 ### 2. Influence from jazz
 
@@ -71,7 +71,7 @@ Guitarist Ben Weinman reconstructed the tension chords and upper structure-like 
 
 ### 3. Separation of vocals and acoustics
 
-Because the vocals do not follow the instrument structure, it feels like the rhythm of the song and the band are not linked.
+Since the vocals do not follow the instrument structure, it feels like the rhythm of the song and the band are not linked.
 This "independence" is stronger than in other genres, and increases the experimental nature.
 
 ---
@@ -169,7 +169,7 @@ In particular, attack sounds tend to be concentrated in the **2-5kHz** band, and
 ### Drum recording
 
 * Emphasizes the "core" of kick and snare
-*Tom's localization is not linear, and is often arranged in unique ways to match the complexity of the song.
+* Tom's localization is not linear, and is often arranged in unique ways to match the complexity of the song.
 
 ---
 

@@ -42,14 +42,14 @@ color: #fff;
 }
 </style>
 
-## 1. The rekindling of Indie Sleaze and the pleasure of "roughness"
+## 1. Rekindling of Indie Sleaze and the pleasure of "roughness"
 
 ### 1-1. What lies behind Y2K nostalgia
 In the mid-2020s, the Y2K revival spread from fashion to music to internet culture.
 Among them, the term "Indie Sleaze" is once again in the spotlight.
 In the early 2000s, a party lit by digital camera flashes,
 Muses whose make-up is still ruined,
-An ambiguous romanticism that resides in the image quality of MySpace.
+An ambiguous romanticism that dwells in the image quality of MySpace.
 What was there was the truth because it was not in place.
 
 And in 2024, that "roughness" once again destroyed modern boredom.
@@ -57,7 +57,7 @@ This attitude of rejecting perfect filters has become a new aesthetic.
 
 ### 1-2. Signs shown by fashion
 Launched by Saint Laurent and Heaven by Marc Jacobs
-The "roughness of the night" and "worn out shine" are
+The "roughness of the night" and the "worn out shine"
 Eventually, it infected the world of music as well.
 In the eerie decadence of the Balenciaga show,
 The "beauty of not being perfect" was stirring.
@@ -66,7 +66,7 @@ Charli XCX's ""brat'' sublimated that feeling into pop music.
 
 ---
 
-## 2. The power of "imperfection" as told by "brat"
+## 2. "Brat" talks about the power of "imperfection"
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=SPGIqDcpE8WCczlC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -76,13 +76,13 @@ Charli XCX's ""brat'' sublimated that feeling into pop music.
 ### 2-1. Casual reality
 When you listen to "brat", the first thing you feel is the comfort of being "unfinished."
 The vocals are rough, the mix is ​​staticy, and the lyrics are spit out impulsively.
-However, there is a "raw" feel to it that is not found in other pop music.
+However, there is a "raw" quality to it that is not found in other pop music.
 It is a ""human touch'' that is the opposite of the era of perfection.
 
 ### 2-2. The antithesis of a perfect world
 Smartphones and social networking sites have created an obsession with always being right.
 Images are cleaned up, voices are corrected, and mistakes are instantly removed.
-However, Charli XCX seems to laugh off the pressure.
+However, Charli XCX seems to laugh off the pressure,
 He dared to throw out an uneven sound to the world.
 The success of ""brat'' is a milestone in pop history.
 It symbolizes a "departure from the belief in perfection."
@@ -127,12 +127,12 @@ It is in them that I find evidence of my real self.
 It"s not just about aesthetics, it"s also about resetting your way of life.
 People who are tired of building their personalities on SNS and return to their "body" again.
 The humidity of the club, the roar of the live house,
-There is an imperfect but certain feeling within it.
-Music is once again returning to the "human scene" rather than the digital world.
+There is an imperfect yet certain feeling within it.
+Music is once again returning to the "human field" rather than the digital world.
 
 ---
 
-## 5. Turning point in beauty ─ From "adjusting" to "collapsing"
+## 5. Beauty turning point ─ From "adjusting" to "collapsing"
 
 ### 5-1. Courage to affirm imperfection
 The last ten years have been dominated by ideas of minimalism and tidying up.
@@ -143,7 +143,7 @@ Instead of removing them, accept them as part of the work.
 Therein lies the sensibility of a new era.
 
 ### 5-2. "Rewilding" of pop
-After "brat," artists let go of their microphones.
+After "brat," artists let go of the microphone,
 Impromptu recording with smartphone,
 I started uploading songs unfinished.
 What they all have in common is the attitude of ""leaving things as they are.''
@@ -153,7 +153,7 @@ It is also an attempt to return to the ""human rhythm.''
 
 ---
 
-## 6. The future of imperfection ─ Toward a new reality
+## 6. An incomplete future ─ Toward a new reality
 
 We are finally on the verge of being freed from the shackles of "perfection."
 Outside the world arranged by algorithms,
@@ -176,7 +176,7 @@ The time has come to make this world sing again.
 
 | Artist/Album / Track | Year | Description | Link |
 |:--|:--|:--:|:--|:--|
-| **Charli XCX**/*brat* | 2024 | 21st century rebellion against "perfection" with gritty club beats and impromptu vocals. | [Amazon](https://amzn.to/437JNPC) |
+| **Charli XCX**/*brat* | 2024 | A 21st century rebellion that rejects "perfection" with gritty club beats and impromptu vocals. | [Amazon](https://amzn.to/437JNPC) |
 | **Kesha**/*Joyride* | 2024 | Trashy A comeback work that recreates Eurodance and celebrates "dirty pleasure." | [Amazon](https://amzn.to/3KMtt0q) |
 | **Yaeji**/*With A Hammer* | 2023 | A post-club masterpiece that turns introspection and anger into beats while switching back and forth between Korean and English. | [Amazon](https://amzn.to/471ZFEp) |
 | **Ethel Cain**/*Preacher"s Daughter* | 2022 | The pinnacle of modern gothic pop, depicting the collapse of Americana and self-salvation. | [Amazon](https://amzn.to/3Ja7LmB) |

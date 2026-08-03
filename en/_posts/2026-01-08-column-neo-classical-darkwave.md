@@ -20,7 +20,7 @@ title: '[Column] Neo-Classical Darkwave'
 
 Text: mmr｜Theme: About Neo-Classical Darkwave, a sustained musical practice mediated by time, faith, and sound.
 
-Neo-Classical Darkwave is a musical trend that formed from the late 1980s to the 1990s, and is a style that partially fuses post-punk dark wave, gothic, and industrial sensibilities with the diction, organization, and aesthetics of Western classical music. The genre name is an afterthought, and it is not a movement that was established from the beginning with a clear self-definition.
+Neo-Classical Darkwave is a musical trend that formed from the late 1980s to the 1990s, and is a style that partially fuses post-punk dark wave, gothic, and industrial sensibilities with the language, organization, and aesthetics of Western classical music. The genre name is an afterthought, and it is not a movement that was established from the beginning with a clear self-definition.
 
 This genre is characterized by its use of modern recording techniques, repetitive structures, slow tempos, and dark acoustics, while still referencing classical elements such as tonality, mode, and harmonic progression. Lyrics often deal with abstract and symbolic themes such as mythology, religion, views on life and death, time, and memory, and tend to focus on metaphysical expression rather than concrete social criticism.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ### Prehistory: Postpunk and Darkwave
 
-From the end of the 1970s to the beginning of the 1980s, the post-punk music scene moved away from the conventional rock format, and began to adopt more introspective and abstract forms of expression. The introduction of synthesizers and drum machines, minimalist structure, and emphasis on the bass range became the foundation for later dark wave sounds.
+From the end of the 1970s to the beginning of the 1980s, the post-punk music scene moved away from the conventional rock format and began to adopt more introspective and abstract forms of expression. The introduction of synthesizers and drum machines, minimalist structure, and emphasis on the bass range became the foundation for later dark wave sounds.
 
 Around the same time, interest in medieval music and religious music was revived, especially in Europe, and the groundwork was formed for attempts to connect contemporary music production with historical sound materials.
 
@@ -73,7 +73,7 @@ In this genre, in addition to major and minor keys, church modes such as Doric a
 
 ### Rhythm and tempo
 
-The tempo is mostly medium to low, and even if the rhythm is clear, the driving force is suppressed. The repetitive rhythm emphasizes the ritualistic nature and serves to obscure the sense of time.
+The tempo is mostly medium to low, and even if the rhythm is clear, the driving force is suppressed. Repetitive rhythms emphasize ritual and serve to obscure the sense of time.
 
 ### Organization
 
@@ -125,7 +125,7 @@ Vocals often play a tonal role rather than linguistic meaning, and the readabili
 
 ---
 
-Dead Can Dance crossed the boundaries of folk music, religious music, and ambient music, and had a major influence on the subsequent Neo-Classical Darkwave. Although their works are difficult to categorize into a specific genre, they continue to be referenced in terms of sonic aesthetics and spirituality.
+Dead Can Dance crossed the boundaries of folk music, religious music, and ambient, and had a major influence on the subsequent Neo-Classical Darkwave. Although their works are difficult to categorize into a specific genre, they continue to be referenced in terms of sonic aesthetics and spirituality.
 
 ---
 
@@ -135,7 +135,7 @@ Dead Can Dance crossed the boundaries of folk music, religious music, and ambien
 
 ---
 
-Arcana"s string orchestration, low-pitched vocals, and religious motifs are at the fore, and the genre"s characteristics are clearly defined. His works are consistently solemn and constructed in a way that excludes worldliness.
+Arcana brings to the fore string orchestration, low-pitched vocals, and religious motifs, making it a genre-defining piece. His works are consistently solemn and constructed in a way that excludes worldliness.
 
 
 > Representative artists demonstrate the breadth and depth of their genres.
@@ -159,7 +159,7 @@ C --> D[Establishment and re-evaluation of genre names]
 
 ## Summary
 
-Neo-Classical Darkwave is a musical field that was established by connecting sacred music, classical harmony, and symbolist aesthetics with recording technology and dark culture from the late 20th century onwards, rather than simply reproducing the musical idioms of the past. There is no single inventor or center in the process of its formation, but rather a gradual convergence of multiple regions, backgrounds, and individual practices.
+Neo-Classical Darkwave is a musical field that was established not simply by reproducing the musical idioms of the past, but by connecting sacred music, classical harmony, and symbolist aesthetics with recording technology and dark culture from the late 20th century onwards. There is no single inventor or center in the process of its formation, but rather a gradual convergence of multiple regions, backgrounds, and individual practices.
 
 This music does not aim for consumptive immediacy, but has a structure that assumes repeated listening and spatial immersion. As a result, genres function as cultural archives that remain referenced over time, while maintaining a distance from large-scale commercial spheres.
 

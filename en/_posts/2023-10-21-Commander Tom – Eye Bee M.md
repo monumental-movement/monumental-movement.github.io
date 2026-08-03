@@ -12,7 +12,7 @@ title: Commander Tom – Eye Bee M
 ---
 
 
-Commander Tom is a techno DJ and producer from Germany. "Eye Bee M" is one of Commander Tom"s signature songs. The B-side is a song featuring Mars, known for San Francisco"s cybertrance pioneer Mars & Mystre.
+Commander Tom is a techno DJ and producer from Germany. "Eye Bee M" is one of Commander Tom"s signature songs. The B-side is a song featuring Mars, known for San Francisco"s cybertrance pioneers Mars & Mystre.
 
 #### Tracklist
 ```md

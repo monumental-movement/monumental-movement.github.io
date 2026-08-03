@@ -19,7 +19,7 @@ title: '[Column] Wrong Way Up and "The Beach"—The reverberations of utopia and
 
 Text: mmr | Theme: Exploring the sounds of utopia and escape through Brian Eno & John Cale's "Wrong Way Up" and "The Beach" starring Leonardo DiCaprio
 
-At the end of the 1990s, the world still believed in the word "paradise." The end of the Cold War, the birth of the Internet, and dreams of globalization.
+At the end of the 1990s, the world still believed in the word "paradise." The end of the Cold War, the birth of the Internet, and the dream of globalization.
 However, cracks were already appearing behind that dream. **Brian Eno and John Cale"s ""Wrong Way Up" (1990)** and **Leonardo DiCaprio"s ""The Beach" (2000)** stand on opposite ends of that chasm.
 
 Both stories are about heading south. It depicts the loneliness and disillusionment that lurks in the attempt to find paradise at the end of escape.
@@ -75,7 +75,7 @@ For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia
 
 The melody is like a ""memory sketch.''
 This album was a forerunner of Eno's ""environmental pop'' from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
-""False ascension'' may refer to the path we take in what we believe is the correct path.
+""False ascension'' may refer to the path we take in what we believe to be the correct path.
 
 ---
 
@@ -163,7 +163,7 @@ And in our hearts, we continue to quietly draw a **unseen beach**.
 
 | Artist/Work | Year | Notes | Link |
 |------------------|----|--------------|
-| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic transparency. | [Amazon](https://amzn.to/48mDETk) |
+| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic clarity. | [Amazon](https://amzn.to/48mDETk) |
 | The Beach (Soundtrack) | 2000 | Moby, All Saints, Faithless and more participate. Music of the sea and solitude. | [Amazon](https://amzn.to/47mrub1)
 
 ---

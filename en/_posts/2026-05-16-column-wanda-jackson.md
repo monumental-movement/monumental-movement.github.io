@@ -16,7 +16,7 @@ title: '[Column] Wanda Jackson: The Queen Who Turned Country Into Rock "n" Roll'
 
 ## America before rock and roll
 
-Text: mmr | Theme: In the 1950s, in the male-dominated world of rock and roll, Wanda Jackson proved that women could rock. Follow her life as she cuts through the ages with her voice, crossing country, rockabilly, and gospel.
+文：mmr｜テーマ：1950年代、男性中心だったロックンロールの世界で、ワンダ・ジャクソンは“女性でもロックできる”ことを証明した。カントリー、ロカビリー、ゴスペルを横断しながら、自分の声で時代を切り裂いた彼女の人生を追う
 
 <style type="text/css">
 
@@ -49,7 +49,7 @@ D --> E["Explosion of youth culture"]
 E --> F["Wanda Jackson appears"]
 </div>
 
-> At a time when rock"n"roll was still "man's music," Wanda Jackson jumped head-on into it.
+> At a time when rock"n"roll was still "men's music," Wanda Jackson jumped head-on into it.
 
 ---
 
@@ -60,7 +60,7 @@ Wanda Lavon Jackson was born on October 20, 1937 in Maude, Oklahoma, USA. Music 
 
 The family later moved to California, but returned to Oklahoma. During her nomadic life, she was strongly influenced by radio culture. In America in the 1950s, radio was the greatest source of entertainment and a device for creating new stars.
 
-Wanda was praised for her singing ability as a child and began appearing on local radio programs. She particularly stood out on country and western programs, and her singing voice attracted attention from an early stage.
+Wanda's singing ability was praised as a child and she began appearing on local radio programs. She particularly stood out on country and western programs, and her singing voice attracted attention from an early age.
 
 Already a regional star in high school, he entered the music industry at a young age.
 
@@ -89,7 +89,7 @@ At the time, Elvis was still on the verge of his breakout success, but he was be
 
 This encounter was decisive.
 
-Wanda has always had a strong sense of rhythm. Furthermore, her deep, punchy voice deviated greatly from the conventional image of female singers. It was a perfect match for rock"n"roll.
+ワンダはもともと強いリズム感を持っていた。さらに低めでパンチのある声質は、従来の女性歌手像から大きく外れていた。ロックンロールとの相性は抜群だったのである。
 
 However, at the time, there was great resistance to women singing rock music. Television and radio stations shunned her as "radical," and she was criticized by conservatives.
 
@@ -99,21 +99,21 @@ However, Wanda did not change her style.
 flowchart TD
 A["Activities as a country singer"] --> B["Meet Elvis"]
 B --> C["I"m encouraged to play rock"n'roll"]
-C --> D["Going the rockabilly route"]
+C --> D["ロカビリー路線へ"]
 D --> E["Establishing your own style"]
 </div>
 
-> Meeting Elvis liberated Wanda Jackson from being an "ordinary country singer."
+> エルヴィスとの出会いは、ワンダ・ジャクソンを“普通のカントリー歌手”から解放した。
 
 ---
 
 ## The impact of "Fujiyama Mama"
 
-In 1957, Wanda Jackson released "Fujiyama Mama".
+1957年、ワンダ・ジャクソンは「Fujiyama Mama」を発表する。
 
 This song is a rockabilly piece with a ferocious sense of speed and energy, and has become her signature song. Her explosive singing, roaring rhythm, and wild shouts completely destroyed the image of female singers at the time.
 
-This song is known for being a big hit, especially in Japan.
+特に日本ではこの曲が大ヒットしたことで知られる。
 
 The word "Fujiyama" in the title and the lyrics reminiscent of the atomic bomb would later provoke various debates, but in the United States in the 1950s, it was also used as a symbol of "energy" and "explosive power."
 
@@ -125,7 +125,7 @@ The audience was surprised to hear her song. It was extremely rare to find a fem
 graph TD
 A["Fujiyama Mama"] --> B["Intense rockabilly"]
 A --> C["Renovating the image of women"]
-A --> D["Popular in Japan"]
+A --> D["日本でも人気"]
 A --> E["Representative song"]
 </div>
 
@@ -135,7 +135,7 @@ A --> E["Representative song"]
 
 ## Birth of the Rockabilly Queen
 
-In the late 1950s, Wanda Jackson released a series of rockabilly songs.
+1950年代後半、ワンダ・ジャクソンは次々とロカビリー楽曲を発表していく。
 
 "Mean Mean Man"
 "Let's Have a Party"
@@ -145,7 +145,7 @@ In these songs, her characteristic "growling delivery" was on full display.
 
 Fashion was even more important.
 
-Fringe dresses, high heels, and flashy makeup. Wanda brought an unusual level of flamboyance for a country singer, and was even involved in the costume design herself.
+フリンジ付きドレス、ハイヒール、派手なメイク。ワンダはカントリー歌手としては異例の派手さを持ち込み、自ら衣装デザインにも関与していた。
 
 She didn't erase her "femininity."
 
@@ -178,15 +178,15 @@ mindmap
 
 In the 1950s and early 1960s, the music industry remained male-dominated.
 
-Female singers were expected to be ""pretty,'' and violent expressions and sexual energy were not welcomed.
+女性歌手は“可愛らしくあること”を期待され、激しい表現や性的エネルギーを前面に出すことは歓迎されなかった。
 
 But Wanda was different.
 
 She provoked the audience on stage, sang wildly, and exposed her emotions. They were competing on the same playing field as male artists.
 
-However, the trade-off was that the industry sometimes viewed them as ""difficult to deal with.'' He also experienced restrictions on his television appearances and backlash from conservatives.
+However, the trade-off was that the industry sometimes saw them as ""difficult to deal with.'' He also experienced restrictions on his television appearances and backlash from conservatives.
 
-Still, she continued to tour.
+それでも彼女はツアーを続けた。
 
 It gained support not only in the United States, but also in Europe and overseas.
 
@@ -211,7 +211,7 @@ Meanwhile, 1950s-style rockabilly gradually fell out of the mainstream.
 
 Wanda Jackson also shifted her focus back to country music.
 
-She hasn't completely given up on rock. However, since he was able to perform more stably in the country market, he has since become more of a Nashville artist.
+She hasn't completely given up on rock. However, since he was able to perform more stably in the country market, he became more of a Nashville artist.
 
 Even so, her singing always retained a rock-like power.
 
@@ -227,13 +227,13 @@ D --> E["Country Return"]
 
 ---
 
-## Encounter with Gospel
+## ゴスペルとの出会い
 
 In the 1970s, Wanda Jackson deepened her religious values ​​and turned to gospel music.
 
-This was a major turning point in her life.
+これは彼女の人生における大きな転機だった。
 
-He distanced himself from the rock"n"roll life of his youth and began to pursue activities more rooted in his faith. She began releasing gospel music and appearing at religious events.
+若い頃のロックンロール的生活から距離を置き、より信仰に根差した活動へ向かうようになる。彼女はゴスペル作品を発表し、宗教イベントなどにも出演するようになった。
 
 However, even here she did not lose the power of her voice.
 
@@ -257,7 +257,7 @@ From the 1980s onward, as rockabilly and roots music began to be reevaluated, Wa
 
 Punk and garage rock artists were strongly influenced by her rawness.
 
-It"s not that she"s rocking it even though she's a woman.
+「女性なのにロックしている」のではない。
 
 "He was a real rock singer from the beginning."
 
@@ -316,7 +316,7 @@ He was one of the first to pave the way.
 
 Her spirit has been inherited by later Janis Joplin, Joan Jett, and even other female artists after punk.
 
-And above all, Wanda Jackson was "a woman who seriously rocked."
+Above all, Wanda Jackson was "a woman who seriously rocked."
 
 That is the reason why it still attracts so many people.
 
@@ -329,7 +329,7 @@ A --> E["Influence on posterity"]
 
 E --> F["Janis Joplin"]
 E --> G["Joan Jett"]
-E --> H["Female punk generation"]
+E --> H["女性パンク世代"]
 </div>
 
 > Wanda Jackson was the person who unleashed the "potential of female rock" into the future.
@@ -341,7 +341,7 @@ E --> H["Female punk generation"]
 | Year | Events |
 |---|---|
 | 1937 | Born in Oklahoma |
-| 1954 | Signed with Decca Records |
+| 1954 | デッカ・レコードと契約 |
 | Mid-1950s | Interaction with Elvis Presley |
 | 1957 | "Fujiyama Mama" announced |
 | 1958 | "Let's Have a Party" hit |
@@ -356,7 +356,7 @@ E --> H["Female punk generation"]
 
 The history of rock and roll has often been told in a male-centered manner.
 
-However, in the very beginning, there was a woman who grabbed the microphone, screamed, and excited the audience.
+だが、その最初期にマイクを握り、叫び、観客を熱狂させていた女性がいた。
 
 Wanda Jackson wasn't special because she was a woman.
 
@@ -364,5 +364,14 @@ It was pure rock as hell.
 
 > Wanda Jackson's voice continues to resonate with the primal energy of rock and roll.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/04VduMgZF74?si=-mqrDAQmyLNEkAul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -60,11 +60,11 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 - **Ellen Allien (Berlin)**: Founder of BPitch Control. A fusion of underground and experimentalism.
 
-- **Paul Kalkbrenner**: Widely known for the movie ""Berlin Calling.'' Melodic and lyrical techno.
+- **Paul Kalkbrenner**: Widely known for the movie "Berlin Calling". Melodic and lyrical techno.
 
 - **Johannes Heil**: Producer pursuing hard and dark German techno.
 
-- **Len Faki, Ben Klock, Marcel Dettmann**: Gained worldwide acclaim as Berghain residents.
+- **Len Faki, Ben Klock, Marcel Dettmann**: Gained worldwide acclaim as residents at Berghain.
 
 <hr>
 
@@ -90,7 +90,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 #### Early 1990s (expansion period)
 
-**Background**: After the fall of the Berlin Wall, rave culture exploded in vacant warehouses and factory sites. Club "Tresor" opened (1991).
+**Background**: After the fall of the Berlin Wall, rave culture exploded in empty warehouses and factory sites. Club "Tresor" opened (1991).
 
 **Sound Features**:
 
@@ -172,7 +172,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 - Reinterpretations of hard trance and 90s sounds are also popular.
 
-**Trend**: While inheriting the coldness typical of past "German techno," it has evolved with the addition of emotional expression and visual production.
+**Trend**: While inheriting the coolness characteristic of past "German techno," it has evolved with the addition of emotional expression and visual production.
 
 If you compare the songs by decade, you can see a cycle of ""Industrial and cold → Minimalization → Hardening → Melodicization → Re-industrialization''**.
 

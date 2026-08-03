@@ -12,7 +12,7 @@ title: Accept – Russian Roulette
 ---
 
 
-"Accept – Russian Roulette" is an album by the German heavy metal band Accept. This album is their seventh studio album, released in 1986.
+"Accept – Russian Roulette" is an album by the German heavy metal band Accept. This album is the band's seventh studio album, released in 1986.
 
 This album is known for its heavy guitar riffs, powerful vocals, and energetic drumming.
 

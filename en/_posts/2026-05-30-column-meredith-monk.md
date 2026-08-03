@@ -29,7 +29,7 @@ Alternatively, he may be described as a choreographer, film director, or perform
 
 But no title is perfect.
 
-Because what Meredith Monk has been working on has been an attempt to expand the framework of music itself.
+Because what Meredith Monk has been working on is an attempt to expand the framework of music itself.
 
 For many years, she has treated the ""voice'' not as a mere singing technique, but as the most primitive musical instrument possessed by humans.
 
@@ -40,7 +40,7 @@ Breathing.
 Scream.
 Humming.
 
-He pushed these elements to the center of music.
+This pushed these elements to the center of the music.
 
 The ideas that are now widely recognized as vocal experiments and extended vocal techniques were extremely heretical when she began her career in the 1960s.
 
@@ -94,7 +94,7 @@ E --> F[interdisciplinary performance]
 
 At that time, the term ""multimedia art'' had not yet become commonplace.
 
-Monk was practicing the concept even before it was established.
+Monk was practicing it even before the concept was established.
 
 > She didn"t cross genres, but she didn"t have a genre in mind from the beginning.
 
@@ -254,7 +254,7 @@ Monk deconstructed the opera format and presented new possibilities.
 
 In that sense, ATLAS occupies an important position in the history of experimental opera in the second half of the 20th century.
 
-> ""ATLAS'' is not an opera that tells a story, but a work that depicts human imagination itself.
+> ""ATLAS'' was not an opera that told a story, but a work that depicted human imagination itself.
 
 ---
 
@@ -276,7 +276,7 @@ In the recent documentary Monk in Pieces, David Byrne, Björk and others talk ab
 
 <div class="mermaid">
 graph TD
-A[Meredith Monk] --> B[contemporary music]
+A[Meredith Monk] --> B[modern music]
 A --> C[experimental electronic music]
 A --> D[performing arts]
 A --> E[Video work]
@@ -285,7 +285,7 @@ A --> F[performance art]
 
 She's not a trendsetter.
 
-Rather, he can be said to be the person who became the source of reference for future generations.
+Rather, he can be said to be the person who became the source of reference for subsequent generations.
 
 >Many artists did not imitate Meredith Monk, but discovered possibilities in her.
 
@@ -332,13 +332,13 @@ She transformed the very fact that humans are there into art.
 
 That's why it never gets old even if times change.
 
-This is because I continued to focus on the most primitive act of uttering a voice.
+This is because he continued to focus on the most primitive act of uttering a voice.
 
 In this day and age where music has become highly technological, her work sounds rather fresh.
 
 There are still physical fluctuations that cannot be replaced by machines.
 
-> Meredith Monk's art is not a prophecy of the future of music, but a record of a continued rediscovery of the fundamental power of the human voice.
+> Meredith Monk's art is not a prediction of the future of music, but a record of her continued rediscovery of the fundamental power of the human voice.
 
 
 ---

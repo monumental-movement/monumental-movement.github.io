@@ -11,7 +11,7 @@ title: Selu Vibra – Stargazing
 ---
 
 
-Selu Vibra is a project by Swedish trance DJ/producers Sebastian Brandt, Niklas Gustavsson, and Ludvig Holm.
+Selu Vibra（セルビブラ）は、スウェーデンのトランスDJ/プロデューサーSebastian Brandt、Niklas Gustavsson、Ludvig Holmによるプロジェクト。
 
 The B-side is a remix by Arnej (Arney Secerkadic), also known as 8 Wonders, a progressive trance/trance DJ and producer from Canada.
 

@@ -16,7 +16,7 @@ Toni-Ville Henrik Virtanen, also known as Darude, is a Finnish EDM producer/DJ b
 
 "Feel The Beat" is a Trance song released in 2000 by UK independent trance label Neo.
 
-B is a remix by JS16 (Jaakko Sakari Salovaara), known for producing Finnish hip-hop group Bomfunk MC's "Freestyler" and working with Darude.
+B is a remix by JS16 (Jaakko Sakari Salovaara), who is known for producing Finnish hip-hop group Bomfunk MC's "Freestyler" and working with Darude.
 
 #### Tracklist
 ```md

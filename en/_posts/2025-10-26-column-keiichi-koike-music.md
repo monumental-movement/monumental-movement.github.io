@@ -45,25 +45,25 @@ color: #fff;
 He is attracting attention as the youngest person to be selected.
 - **1981**: Moved to the United States and participated in commercial production at Richard Williams Animation Inc.
 Learn the importance of movement and rhythm through animation techniques.
-- **1983**: ""LANDED" published in Marvel's ""Epic Illustrated."
+- **1983**: ""LANDED" was published in Marvel's ""Epic Illustrated".
 Expand the range of visual expression by presenting your work internationally.
 
-During this period, the foundations of **temporal/rhythmic expression** in line and screen composition were established.
+During this period, the foundations of **temporal and rhythmic expression** in line and screen composition were established.
 
 ---
 
 ## Chapter 2: First book and SF expression (1986–1990)
 
-- **1986**: First book "SPINOZA" published (Sakushasha).
+- **1986**: First book "SPINOZA" published (Sakusha).
 Characterized by philosophical themes and abstract visuals.
-**Visual musicality** is revealed by adjusting the density of lines, screen composition, and temporal rhythm.
+By adjusting the density of lines, screen composition, and temporal rhythm, **visual musicality** is revealed.
   
 - **1988**: Published ""Katajikenai" (Hakusensha) and ""G (GATE 1)" (Schola).
-The tense lines in the sci-fi settings and human body expressions are like musical polyrhythms.
+The tense lines in the sci-fi setting and the expression of the human body are like musical polyrhythms.
 
 ---
 
-## Chapter 3: "ULTRA HEAVEN" – Music of illusion and consciousness (2002–)
+## Chapter 3: "ULTRA HEAVEN" – Music of hallucinations and consciousness (2002–)
 
 - **2002**: "ULTRA HEAVEN" published (Enterbrain).
 The theme is hallucinatory experiences, splitting of consciousness, and altered sense of time.
@@ -76,7 +76,7 @@ Precise lines and visual rhythms give the reader a musical experience.
 Long-term serialization deepens the spiritual world and refines the composition and lines.
 
 - **2009**: Volume 3 of "ULTRA HEAVEN" published.
-New books released every four years are a real drag to read.
+The new books released once every four years are a real drag to read.
 
 ---
 
@@ -88,7 +88,7 @@ New books released every four years are a real drag to read.
 
 ### Musicality of frame division
 - Repetition/variation/phase shift arrangement
-- The rhythm changes page by page, and the reader's eye movements are similar to a "performance"
+- The rhythm changes page by page, and the reader's eye movements are similar to a "musical performance"
 
 ### Motif
 - Life, consciousness, hallucinations, philosophical themes
@@ -128,7 +128,7 @@ graph LR
 ---
 
 
-## Chapter 7: Chronology - Keiichi Koike's trajectory
+## 第7章：年表 ― 小池桂一の軌跡
 
 <div class="mermaid">
 
@@ -151,9 +151,9 @@ timeline
 
 ## Final chapter: Music played by vision
 
-Keiichi Koike's manga is a musical experience of lines and spaces.
+小池桂一の漫画は、**線と間による音楽体験**である。
 With each turn of the page, the reader's consciousness ripples and silence rings.
-It is not text or sound effects, but purely visual music.
+それは、文字や効果音ではなく、純粋に**視覚から生まれる音楽**である。
 
 > "Lines are sound. White and black alternately play silence and noise." - Keiichi Koike
 
@@ -161,11 +161,11 @@ It is not text or sound effects, but purely visual music.
 
 ## References/Materials
 
-- [Keiichi Koike "SPINOZA" (Sakusha, 1986)](https://amzn.to/4o3cRAl)
+- [小池桂一『SPINOZA』（作品社、1986）](https://amzn.to/4o3cRAl)
 
-- [Keiichi Koike "G" (Schola, 1988)](https://amzn.to/49lDEmS)
+- [小池桂一『G』（スコラ、1988）](https://amzn.to/49lDEmS)
 
-- [Keiichi Koike "ULTRA HEAVEN" (Enterbrain, 2002–)](https://amzn.to/4qrGr49)
+- [小池桂一『ULTRA HEAVEN』（エンターブレイン、2002–）](https://amzn.to/4qrGr49)
 
 - [Keiichi Koike "HEAVEN'S DOOR" (2003)](https://amzn.to/3L6u8dk)
 

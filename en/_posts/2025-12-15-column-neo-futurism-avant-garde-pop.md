@@ -19,7 +19,7 @@ title: '[Column] Neo-Futurism / Avant-Garde Pop'
 
 Text: mmr｜Theme: Organized as an intersection of music history, art history, and technology history, and about actual artists' achievements and work trends
 
-Neo-futurism/avant-garde pop is a trend that has established experimental sound structures, physicality, and future-oriented visual expression within the distribution structure of pop music. In the 21st century, the aspiration for the "future" that originated in Futurist art in the early 20th century has been linked to digital production environments, post-internet visual culture, and the redefinition of gender and body representation, reconfiguring music and visual expression as inseparable.
+ネオフューチャリズム／前衛ポップとは、実験的な音響構造や身体性、未来志向のビジュアル表現を、ポップ・ミュージックの流通構造の中で成立させた潮流である。20世紀初頭の未来派美術に端を発する「未来」への希求は、21世紀においてデジタル制作環境、ポスト・インターネット的視覚文化、ジェンダーや身体表象の再定義と結びつき、音楽と視覚表現を不可分なものとして再構築した。
 
 FKA twigs and Arca are iconic in this context. Her/their work does not simply present innovative sounds, but functions as a comprehensive art that integrates the body, technology, emotion, and identity.
 
@@ -30,7 +30,7 @@ FKA twigs and Arca are iconic in this context. Her/their work does not simply pr
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -43,11 +43,11 @@ color: #fff;
 
 ### 1-1. Futurism and musical experimentation
 
-Italian Futurism in the early 20th century focused on machines, speed, and noise as objects of beauty. Luigi Russolo's noise music theorized a departure from melodicism and had a strong influence on later experimental music. Although this idea was not directly inherited by pop music, it became an important prototype in terms of its ""attitude to affirm futuristic acoustics.''
+The Italian Futurists of the early 20th century focused on machines, speed, and noise as objects of beauty. Luigi Russolo's noise music theorized a departure from melodicism and had a strong influence on later experimental music. Although this idea was not directly inherited by pop music, it became an important prototype in terms of its ""attitude to affirm futuristic acoustics.''
 
-### 1-2. Prehistory of avant-garde pop
+### 1-2. アヴァンギャルド・ポップの前史
 
-In the 1960s and 1970s, electronic music and pop became closer together. With the spread of synthesizers, experimental tones were introduced into popular music, and science fiction images were frequently used in visual expression. These formed a model that was ""avant-garde, yet communicable.''
+In the 1960s and 1970s, electronic music and pop became closer together. With the spread of synthesizers, experimental tones were introduced into popular music, and science fiction images were frequently used in visual expression. These products formed a model that was ""avant-garde, yet distributable.''
 
 ### 1-3. Transformation after digital
 
@@ -72,11 +72,11 @@ In neofuturist pop, synthesizers and digitally processed tones are foregrounded 
 
 ### 3-2. Rhythm and structure
 
-The rhythms are not necessarily dance floor-oriented, and are often fragmented and asymmetrical. On the other hand, the choruses and motifs are clearly established and retain their memorability as pop music.
+The rhythms are not necessarily dance floor-oriented, and are often fragmented and asymmetrical. On the other hand, the chorus and motifs are clearly set and retain the memorability of pop songs.
 
 ### 3-3. Vocal processing
 
-Although the vocals are real voices, they are presented as an ""extension of the body'' through pitch processing, formant conversion, and multiple processing. This is a symbolic method to show the fluidity of the subject.
+Although the vocals are natural voices, they are presented as an ""extension of the body'' through pitch processing, formant conversion, and multiple processing. This is a symbolic method to show the fluidity of the subject.
 
 ---
 
@@ -96,7 +96,7 @@ As seen in FKA twigs' video works, the body is often fragmented and rendered mec
 
 ### 5-1. FKA twigs
 
-FKA twigs integrates experimental sounds and advanced physical expression while maintaining an R&B context. He treats music, dance, and video as inseparable elements, creating emotion and abstraction at the same time.
+FKA twigs integrates experimental sounds and advanced physical expression while remaining grounded in an R&B context. He treats music, dance, and video as inseparable elements, creating emotion and abstraction at the same time.
 
 ### 5-2. Arca
 
@@ -104,7 +104,7 @@ Arca is known for productions that coexist with sonic extremes and pop. Distorte
 
 ---
 
-## 6. Chronology: Formation of neo-futurism/avant-garde pop
+## 6. Chronology: Formation of neofuturism/avant-garde pop
 
 <div class="mermaid">
 timeline
@@ -146,7 +146,7 @@ What FKA twigs and Arca's works have in common is a departure from a linear comp
 
 ### 9-2. Music construction starting from the body
 
-In FKA twigs' productions, dance and physical movement are often the inspiration for musical structures. Rhythm reflects the tension and release of the body, and is manifested in the fluctuations in tempo and pauses. This is a body-driven composition method that differs from traditional beat-centered composition.
+In FKA twigs' productions, dance and physical movement are often the inspiration for musical structures. Rhythm reflects the tension and release of the body, and is manifested in fluctuations in tempo and pauses. This is a body-driven composition method that differs from traditional beat-centered composition.
 
 ### 9-3. Distance between acoustic processing and emotion
 
@@ -167,7 +167,7 @@ The strength of the visuals increases the visibility of the work more than the m
 
 Traditional pop criticism has focused on song structure and hit potential. However, in neo-futurism/avant-garde pop, the totality of sound, visuals, and physical expression is the subject of evaluation.
 
-There is a growing tendency for criticism to be based on ""what kind of questions are posed" rather than ""easy to understand". This means approaching the axis of contemporary art evaluation.
+There is an increasing tendency for criticism to be based on ""what kind of questions are posed" rather than ""easy to understand". This means approaching the axis of contemporary art evaluation.
 
 ---
 
@@ -194,13 +194,13 @@ The integration of music and visuals is accelerating, and emphasis is placed on 
 
 ### 13-3. 2020s
 
-Expressions that cut across gender, the body, and technology became commonplace, and neofuturism became established as an aesthetic.
+Expressions that cut across gender, body, and technology became commonplace, and neofuturism became established as an aesthetic.
 
 ---
 
 ## Conclusion
 
-Neofuturism/avant-garde pop is not a style that embellishes the future, but a practice that visualizes the relationship between the current body and technology. Works by FKA twigs and Arca show how music can integrate vision, thought, and the body.
+Neofuturism/avant-garde pop is not a style that embellishes the future, but a practice that visualizes the relationship between the current body and technology. Works by FKA twigs and Arca demonstrate how music can integrate vision, thought, and the body.
 
 This trend is not a passing trend, but rather the latest in a cultural continuum extending from the 20th century avant-garde. The avant-garde is no longer on the periphery, but continues to be renewed within pop.
 

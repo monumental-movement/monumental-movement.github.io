@@ -20,7 +20,7 @@ Side A is a remix by Swedish trance/progressive DJ and producer Mike Shiver.
 
 Featured Kate Cameron is a professional house and trance singer with a rich alto voice, best known for her work with Jones & Simmons, particularly as a featured artist under their aliases Space Brothers and Chakra, who have had success with crossovers such as I Am and Home.
 
-Her credits include ""P.A.S.S.I.O.N" with John of Norman Cooke/Pleased Women, ""Far From In Love" with Above & Beyond, and ""What Ya'' with Dutch House act Signum. It was excerpted from her hard house track "You Better" under the alias Mount Rushmore Presents the Knack, which has seen chart success as a prominent producer and solo artist, including "Got 4 Me."
+彼女は、ノーマン・クック/プリーズド・ウィミンのジョンと共演した「P.A.S.S.I.O.N」、アバブ＆ビヨンドと共演した「ファー・フロム・イン・ラブ」、そしてダッチ・ハウス・アクトのシグナムと共演した「ホワット・ヤ・ガット・4・ミー」など、著名なプロデューサーとソロ・アーティストとしてチャートでの成功を収め、マウント・ラッシュモア・プレゼンツ・ザ・ナックという別名で彼女のハードハウストラック「ユー・ベター」から抜粋されたものである。
 
 Along with Angie Brown, she was a backing vocalist on many songs on Freak Power's hit album Drive Thru Booty, including their second single release, "Rush". She continues to tour and record with Freak Power,
 

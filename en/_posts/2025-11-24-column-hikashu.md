@@ -44,9 +44,9 @@ color: #fff;
 
 Hikashu's roots lie in the underground theater, avant-garde dance, and free improvisation culture that was spreading in Tokyo in the 1970s.
 
-- Koichi Makigami has a background in theatrical vocalizations and impromptu physical expression, and he is devoted to methods that treat voice as an "instrument."
+- Koichi Makigami has a background in theatrical vocalizations and improvisational physical expression, and is devoted to methods that treat voice as an "instrument."
 - Chojin Mita (guitar) explores a sonic approach that connects rock and contemporary music
-- Makoto Inoue (keyboard) was exposed to electronic music and tape works, which later led to his unique synth work.
+- Makoto Inoue (keyboard) also touched on electronic music and tape works, which later led to his unique synth work.
 
 This diverse background has created the foundation for Hikashu, not just a band that focuses on performing, but a group that crosses over theater, sound art, and pop music.
 
@@ -81,7 +81,7 @@ Important points during this period:
 - Complex time signatures and acoustic guitar approach
 - Noise expression by voice
 
-It cannot be categorized as so-called "new wave/techno", and is the beginning of a break away from the genre.
+It is the beginning of a break from the genre, and cannot be categorized as so-called "new wave/techno."
 
 ---
 
@@ -110,7 +110,7 @@ Characteristics of this period:
 - Demonstrate a high level of performance while maintaining nonsense and humor
 - Multi-directional development including live sound sources, limited editions, minimally structured experimental works, etc.
 
-Especially since the 2010s, the number of overseas performances has increased several times a year, and the group has become a regular at avant-garde music festivals around the world.
+Especially since the 2010s, the number of overseas performances has increased several times a year, and the band has become a regular at avant-garde music festivals around the world.
 
 ---
 
@@ -123,7 +123,7 @@ Hikashu continues to be active into the 2020s, and although they are a long-live
 - Reinterpretation of voice and body
 - Introduction of ethnic instruments
 - Abstract work with minimal ensemble
-- A live arrangement that boldly reconstructs songs from the past.
+- A live arrangement that boldly reconstructs songs from yesteryear.
 
 Hikashu's style of ""re-experimenting" using past works as material rather than ""reproducing famous songs from the past" is unique to Hikashu.
 

@@ -28,7 +28,7 @@ NEU! was formed in 1971 by Klaus Dinger and Michael Rother. Both artists had pre
 
 Germany at this time was acutely aware of its political and cultural disconnect with its past. There was a feeling that it was necessary to create a ""German sound" rather than just copying British and American rock. NEU! responded to this request by changing not the language or lyrics, but the ""structure" itself.
 
-Furthermore, the band name "NEU!" (new) has more meaning than just a name. It is said to have originated from pop advertisements in record stores and copies of consumer society, and symbolizes that their music is located between commercial symbols and experimentation.
+Furthermore, the band name "NEU!" (new) has more meaning than just a name. It is said to have originated from pop advertisements in record stores and copies of consumer society, and symbolizes the position of their music between commercial symbols and experimentation.
 
 > NEU! is not just a band, but a turning point in musical thought in postwar Germany.
 
@@ -48,15 +48,15 @@ color: #fff;
 </style>
 
 
-## The invention of motorik beat
+## Invention of Mortic Beat
 
 ### Innovation of linear rhythm
 
-One of NEU!'s most important contributions is the rhythm style called "mortal beat." This is a type of drumming mainly established by Klaus Dinger, and is characterized by maintaining a constant tempo and sustaining a beat with almost no change.
+One of NEU!'s most important contributions is the rhythm style called "mortal beat." This is a type of drumming primarily established by Klaus Dinger, and is characterized by maintaining a constant tempo and sustaining an almost constant beat.
 
 This style is different from traditional rock grooves and swings, and creates a feeling of driving down the autobahn. In fact, Dinger himself is said to have referred to this rhythm as "a beat that moves forward forever."
 
-An interesting anecdote is that Dinger had a strong aversion to fluctuations in tempo during live performances, and was obsessed with maintaining a constant mechanical speed. There are also testimonies that even physical movements were kept to a minimum in order to avoid increasing the tempo due to the enthusiasm of the audience or the atmosphere of the venue.
+An interesting anecdote is that Dinger was extremely averse to fluctuations in tempo during live performances, and was obsessed with maintaining a constant mechanical speed. There are also testimonies that even physical movements were kept to a minimum in order to avoid increasing the tempo due to the enthusiasm of the audience or the atmosphere of the venue.
 
 <div class="mermaid">
 graph LR
@@ -71,7 +71,7 @@ This beat influenced later techno, post-punk, and even modern electronic music.
 
 ---
 
-## Debut work "NEU!" and acoustic experiments
+## デビュー作『NEU!』と音響的実験
 
 ### Minimalism and space construction
 
@@ -103,11 +103,11 @@ Their second album, 1973's NEU! 2, was born under the practical constraints of a
 
 This is not just reuse, but is close to the concept of "reinterpretation of sound." By changing the speed, the same material transforms into music with completely different meanings.
 
-There are some interesting anecdotes surrounding this production process. Normally, production would be halted when the budget runs out, but NEU! took advantage of these constraints and arrived at the idea of ​​""transforming the same sound source.'' As a result, this became something that anticipated later DJ culture and the concept of remixing.
+There are some interesting anecdotes surrounding this production process. Normally, production would be halted when the budget runs out, but NEU! took advantage of these constraints and came up with the idea of ​​""transforming the same sound source.'' As a result, this became something that anticipated later DJ culture and the concept of remixing.
 
 <div class="mermaid">
 graph TD
-A[Existing sound source] --> B[speed change]
+A[既存音源] --> B[速度変更]
 B --> C[pitch change]
 B --> D[Texture change]
 C --> E[new songs]
@@ -124,7 +124,7 @@ At the time, this method was controversial, with some critics calling it unfinis
 
 ### Contrast between static and dynamic
 
-On 1975's NEU! 75, the first half and second half of the album take a clearly different direction. The first half is ambient and melodic songs led by Rother, and the second half is aggressive and noisy songs led by Dinger.
+On 1975's NEU! 75, the first half and second half of the album take a clearly different direction. The first half is ambient and melodious songs led by Rother, and the second half is aggressive and noisy songs led by Dinger.
 
 This structure can be said to directly reflect the differences in musical orientation within the band. In fact, there is evidence that the relationship between the two was already strained at this time, and that the recordings were made separately.
 
@@ -132,7 +132,7 @@ The songs in the second half in particular had a roughness similar to later punk
 
 <div class="mermaid">
 graph LR
-A[Rother side] --> B[static/melodic]
+A[Rother side] --> B[静的・旋律的]
 C[Dinger side] --> D[dynamic/destructive]
 B --> E[contrast structure]
 D --> E
@@ -172,11 +172,11 @@ timeline
     2000s : 再発と影響の拡大
 </div>
 
-> Despite being active for a short period of time, NEU! is deeply engraved in the long-term history of music.
+> Despite being active for a short period of time, NEU! is deeply etched into the long-term history of music.
 
 ---
 
-## Conclusion——The future presented by NEU!
+## 結論——NEU!が提示した未来
 
 ### Redefining musical time and structure
 

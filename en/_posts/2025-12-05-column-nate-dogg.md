@@ -51,7 +51,7 @@ Clarksdale is known as the historic center of the blues, and some of his musical
 
 As a child, he moved with his family to **Long Beach, California**.
 It was here that he met the friends who would later support him throughout his career: Snoop Dogg and Warren G**.
-All three had experience singing in church, with Nate Dogg in particular having extensive experience in **gospel choir**.
+All three had experience singing in church, and Nate Dogg in particular had extensive experience in **gospel choir**.
 
 This foundation of gospel singing had a decisive influence on his later style.
 Although her voice was linear with little vibrato, it had a deep resonance and a sense of rhythm that was naturally ingrained in her body.
@@ -78,7 +78,7 @@ This style would later become the core of guest performance culture.
 ## 3. Participation and break in Dr. Dre's "The Chronic"
 
 The decisive turning point in Nate Dogg"s rise to national fame was **1992"s Dr. Dre's ""The Chronic''**.
-After Warren G shared his talent with Dre, Nate Dogg participated in several songs on the album.
+After Dre was introduced to his talent through Warren G, Nate Dogg participated in several songs on the album.
 
 His singing voice perfectly rides on top of G-Funk's heavy bass and synths, giving it a different layer of charm than rap.
 His participation at this time was almost like a debut, but he already had an established presence.
@@ -173,7 +173,7 @@ Although it is a sweet R&B sound, it is important that Nate Dogg's voice does no
 
 ## 8. 213 "The Hard Way": The Fruit of Friendship
 
-213, consisting of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
+213, the band consisting of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
 The album reached number one on Billboard and was the culmination of the three's long friendship and careers.
 
 ---
@@ -186,11 +186,11 @@ In 2008, he suffered a second stroke, making it difficult for him to continue hi
 **Died of heart failure on March 15, 2011 (age 41)**.
 
 Even after his death, his voice continued to be sampled, and many artists publicly celebrated his accomplishments.
-Snoop Dogg and Warren G, among others, have said that their sound would not have been possible without Nate Dogg.
+Snoop Dogg and Warren G, in particular, have said that their sound would not have been possible without Nate Dogg.
 
 ---
 
-## 10. Nate Dogg Timeline
+## 10. Nate Dogg Chronology
 
 <div class="mermaid">
 timeline

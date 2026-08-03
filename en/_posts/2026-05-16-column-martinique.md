@@ -14,21 +14,21 @@ title: '[Column] History of Martinique music and grooves that cross borders'
 ---
 
 
-## "Music Crossroads" floating in the Caribbean Sea
+## "Musical Crossroads" floating in the Caribbean Sea
 
 Text: mmr | Theme: Martinique, an island where French culture and African rhythms intersect. The music echoes the very history of the Caribbean.
 
 ### The history of the island shaped the music
 
-Martinique is a French overseas department located in the Lesser Antilles in the Caribbean. It is still treated as part of the French Republic, and its administrative, educational system, and currency are the same as mainland France. However, culturally, it is a complex mix of influences not only from Europe, but also from Africa, the West Indies, and South America.
+Martinique is a French overseas department located in the Lesser Antilles in the Caribbean. It is still treated as part of the French Republic, and its administrative, educational system, and currency are the same as mainland France. However, culturally, it is a complex mixture of influences not only from Europe but also from Africa, the West Indies, and South America.
 
-From the 17th century onward, as France colonized the country, slaves brought from Africa were forced to work on sugarcane plantations. They brought not only language and religion, but also a sense of rhythm, singing, dance, and percussion culture.
+From the 17th century onward, as France colonized the country, slaves brought from Africa were forced to work on sugarcane plantations. They brought with them not only language and religion, but also a sense of rhythm, singing, dance, and percussion culture.
 
-After that, dances, military music, and church music originating from Europe were mixed with polyrhythms originating from Africa, forming a unique Creole culture. This "mixing" is the most distinctive feature of Martinique music.
+After that, dances, military music, and church music originating from Europe were mixed with polyrhythms originating from Africa, forming a unique Creole culture. This ""mixing'' is the most distinctive feature of Martinique music.
 
 Island music is not simply traditional music. Multiple layers of history overlap, including colonial rule, slavery, immigration, urbanization, tourism, relations with mainland France, and diaspora culture.
 
-The collision of European harmonies and African rhythms created a unique Martinique oscillation. There is a ""groove that is not neatly organized''.
+The collision of European harmonies and African rhythms created a unique Martinique sway. There is a ""groove that is not neatly organized''.
 
 Music has always been connected to society. Festivals, labor, political movements, religious ceremonies, carnivals, dance halls. Music was at the center of every scene.
 
@@ -67,7 +67,7 @@ D --> F[Beret]
 D --> G[zouk]
 </div>
 
->Martinique music was not a monoculture, but a creole music formed by a mixture of histories themselves.
+> Martinique music was not a monoculture, but a creole music formed by a mixture of histories themselves.
 
 ---
 
@@ -77,13 +77,13 @@ D --> G[zouk]
 
 When talking about Martinique's traditional music, the first thing that becomes important is the beret.
 
-Bere is a traditional performing art that integrates singing, drumming, and dancing, and retains strong cultural elements originating from Africa. Percussion instruments play a particularly important role, with giant drums forming the core of the rhythm.
+Bere is a traditional performing art that combines singing, drumming, and dancing, and retains strong cultural elements originating from Africa. Percussion instruments play a particularly important role, with giant drums forming the core of the rhythm.
 
 The bere was often performed as a community activity after plantation work. It was not just entertainment, but also a shared sense of community memory and resistance.
 
 During slavery, rulers tried to suppress African culture, but music and dance never completely disappeared. Rather, it was passed down like an underground water vein.
 
-In bere, a call-and-response format is often used. This is a common form of African music, and is structured as a dialogue between the singer and the community.
+In bere, a call-and-response format is often used. This is a common form of African music, and is a structure in which the singer and the community interact.
 
 Dancing is also important. The dancers engage in improvisational tactics, and the music and bodies are closely linked.
 
@@ -115,7 +115,7 @@ E --> F
 
 ### Fusion of French dances and Caribbean rhythms
 
-From the late 19th century to the early 20th century, a type of music called ""beguine'' developed in Martinique.
+In the late 19th and early 20th centuries, a type of music called ""beguine'' developed in Martinique.
 
 Beguine is dance music that incorporates Caribbean rhythms while being influenced by European dances. It featured a light and sophisticated sound, using clarinet, trombone, piano, and percussion instruments.
 
@@ -295,15 +295,15 @@ The revival of Bere, the reappraisal of the Creole language, and the growing int
 
 <div class="mermaid">
 flowchart TD
-A[colonial rule] --> B[cultural oppression]
+A[colonial rule] --> B[cultural suppression]
 B --> C[cultural revival movement]
 C --> D[Bere re-evaluation]
 C --> E[Restoration of the Creole language]
-D --> F[contemporary music]
+D --> F[modern music]
 E --> F
 </div>
 
-> Martinique music has always questioned cultural independence behind the fun.
+>Behind the joy, Martinique music has always questioned cultural independence.
 
 ---
 
@@ -325,13 +325,13 @@ This physicality is also a common feature throughout Caribbean culture.
 
 Repetition plays an important role in zouk and traditional percussion music.
 
-By repeating the same rhythm with small changes, a sense of collective elation is created.
+By repeating the same rhythm and making small changes, a sense of collective elation is created.
 
 This is a common feature of African music, and can be connected to later house, techno, and club music.
 
 In fact, many DJs and producers are influenced by Caribbean music.
 
-It has many things in common with modern club culture, such as the bass-oriented sound, the body-centered structure, and the communal nature of the dance space.
+It has many things in common with modern club culture, such as a sound that emphasizes bass, a body-centered structure, and a communal nature of the dance space.
 
 <div class="mermaid">
 graph LR
@@ -392,7 +392,7 @@ What is important is that it is not just ""preservation of the old style.''
 
 Martinique music has historically been mixed. In other words, change itself was tradition.
 
-Therefore, the experiments by the new generation are also in line with the essence of Martinique music.
+Therefore, the experiments by the new generation are also in keeping with the essence of Martinique music.
 
 ### Creole culture in the global era
 
@@ -435,7 +435,7 @@ E --> F
 | 1930s | Caribbean music becomes popular in Paris |
 | 1960s | Cultural revival movement becomes active |
 | 1979 | Formation of Kassav |
-| 1980s | Zouk becomes a global success |
+| 1980s | Zouk becomes a worldwide success |
 | Since the 2000s | Progressive fusion with electronic music and hip-hop |
 
 > The history of Martinique music is a history in which colonial history and cultural creation have progressed simultaneously.
@@ -454,7 +454,7 @@ The Caribbean Sea has always been a place of movement for people and cultures.
 
 Martinique music can be said to be a culture that embodies that mobility into sound.
 
-Behind the rhythm is a history of colonial rule, behind the celebration is communal resistance, and behind the dance is cultural identity.
+Behind the rhythm is a history of colonial rule, behind the celebration is communal resistance, and behind the dance is a cultural identity.
 
 Still, the music isn't just heavy.
 

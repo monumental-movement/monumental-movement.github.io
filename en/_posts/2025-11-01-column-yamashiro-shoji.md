@@ -17,7 +17,7 @@ title: '[Column] Shoji Yamashiro (Riki Ohashi) and the entertainment Yamashiro g
 ## Prologue: A place where cyber and primitive intersect - A person named Shoji Yamashiro
 
 
-Text: mmr｜Theme: About the entertainment Yamashiro-gumi formed in the early 1970s
+Text: mmr｜Theme: About the entertainment Yamashiro-gumi, which was formed in the early 1970s
 
 
 In the 1970s, there was a person who stood out at the border between Japanese music and visuals.
@@ -47,7 +47,7 @@ color: #fff;
 The starting point for the Geino Yamashiro Gumi was the formation of a ""collective'' of people who came together across universities, companies, and professions.
 Doctors, teachers, engineers, students, housewives - people with different professions and philosophies shared an intuitive desire to ""live in sound''.
 
-From the beginning, Yamashiro defined art not as an act of individual expression, but as the expression of a group.
+当初から山城は、芸術を個人の表現行為ではなく、**「群れ」の表現**と定義した。  
 Therefore, their rehearsals were not just performances, but the process of ""sound generating a field.''
 The moment when body, voice, space, and time come together to resonate - that is the starting point for Geino Yamashiro Gumi.
 
@@ -114,7 +114,7 @@ Sound is not a symbol, but an ecological and social activity itself.
 This idea also resonates with later research on ""soundscape" and ""media ecology."
 
 > "Sound is an interface between the environment and information.
->Music is an algorithm by which the herd synchronizes itself with its environment. "
+>Music is an algorithm by which a herd synchronizes itself with its environment. "
 
 ---
 
@@ -135,11 +135,11 @@ There was an ""experimental ethics'' that sought to match the rhythms of life an
 ## Chapter 6: Crowds in the 21st Century - The Significance of Performing Arts in the Information Society
 
 In the modern age of social media and AI, the concept of "swarm" is becoming important again.
-It can be said that the practices of the Geino Yamashiro Gumi anticipated the ""regeneration of communal resonance''.
+It can be said that the practices of the Geino Yamashiro-gumi anticipated the **regeneration of communal resonance**.
 
 From "individual" to "group".
 From "information" to "resonance".
-The ideals advocated by the Geino Yamashiro Gumi in the 1970s are also the prototype for a ""new community'' in a network society.
+The ideals advocated by the Geino Yamashiro Gumi in the 1970s are also the prototype for a ""new community'' in the network society.
 
 Music is not something that "communicates", but something that "resonates with".
 What Shoji Yamashiro explored was performing arts as an ecology of information and emotion.

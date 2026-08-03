@@ -16,7 +16,7 @@ title: '[Column] Yann Tomita: A sound explorer who expanded the horizons of soun
 
 
 
-## Prologue: An entity that redefined music as a "material"
+## Prologue: An entity that redefined music as "material"
 
 Text: mmr｜Theme: The trajectory of an explorer who updated the concept of sound by crossing sampling and modular synths
 
@@ -25,9 +25,9 @@ Text: mmr｜Theme: The trajectory of an explorer who updated the concept of soun
 
 In the history of Japanese music, Yan Tomita is more than just a musician. His activities are not limited to performance and composition, but are full of attempts to update the way we perceive sound itself. He has played an extremely important role in the introduction and development of sampling culture in Japan, especially since the 1980s.
 
-A characteristic of Yan Tomita is that he does not rely on existing genres. His attitude of traversing different fields such as pop, dub, electronic music, ethnic music, and environmental sounds while reconstructing them as "materials" was unprecedented at the time. The idea of ​​viewing music not as a completed work but as a collection of editable fragments overlaps with the foundation of later digital music production.
+A characteristic of Yan Tomita is that he does not rely on existing genres. His attitude of traversing different fields such as pop, dub, electronic music, ethnic music, and environmental sounds while reconstructing them as "materials" was unprecedented at the time. The idea of ​​viewing music not as a completed work but as a collection of editable fragments also overlaps with the foundation of later digital music production.
 
-His approach is to redefine music production as a process of ""recording" and ""relocation." Recorded sounds are no longer fixed records, but become materials that must be rearranged. Although this idea resonates with the trends of hip-hop, dub, and musique concrète, it is important that it was developed uniquely in Japan.
+His approach is to redefine music production as a process of ""recording" and ""relocation." Recorded sounds are no longer fixed records, but become materials that must be rearranged again. Although this idea resonates with the trends of hip-hop, dub, and musique concrète, it is important that it was developed uniquely in Japan.
 
 Furthermore, he has a strong interest in electronic audio equipment itself, and has made modular synthesizers the center of his acoustic experiments. In particular, the fact that he owned systems such as Serge and Buchla and used them as experimental sound generation devices is essential to understanding his musical outlook.
 
@@ -68,7 +68,7 @@ Also, since the field of percussion emphasizes timbre and texture rather than pi
 
 ### Transformation brought about by digital devices
 
-In the 1980s, the appearance of samplers brought about major changes in music production. Yan Tomita was one of the first to notice this new technology, and saw it not as a mere tool, but as a device that could change the concept of music.
+In the 1980s, the appearance of samplers brought about major changes in music production. Jan Tomita was one of the first to notice this new technology, and saw it not as a mere tool, but as a device that could change the concept of music.
 
 Sampling is the act of recording existing sound and reusing it in a different context. This technology shifts the focus of music from ""performance" to ""editing." Yan Tomita actively accepted this change and deepened his technique of sound collage.
 
@@ -82,13 +82,13 @@ At the same time, by handling sampling and modular synthesizers in parallel, he 
 
 ## Audio Science Laboratory (A.S.L.)
 
-### The theme is "Expanding consciousness through music"
+### Theme "Expanding consciousness through music"
 
 In 1989, Jan Tomita heads up the Audio Science Laboratory (A.S.L.). This activity was not just a production project, but a venue for acoustic research developed under the theme of ""expanding consciousness through music.''
 
 In A.S.L., it becomes clear that sound is viewed not as mere entertainment, but as a phenomenon that affects perception and consciousness. It explores how elements such as acoustic placement, frequency, and spatiality affect human sensation.
 
-His activities during this period were closely linked to sonic experiments using sampling and modular synths. Sound is treated as both a ""thing that is composed" and a ""phenomenon that is experienced," and approaches from both perspectives are being attempted.
+His activities during this period were closely linked to sonic experiments using sampling and modular synths. Sound is treated as both a ""thing that is composed" and a ""phenomenon that is experienced," and attempts are being made to approach it from both perspectives.
 
 Moreover, this idea would appear more clearly in his later works. Music is not simply an expression, but is positioned as a device for transforming perception.
 
@@ -100,13 +100,13 @@ Moreover, this idea would appear more clearly in his later works. Music is not s
 
 ### Fusion of fictional story and sampling
 
-In the 1990s, Dopeees occupied a unique position among Yan Tomita's activities. Although this project was a pop unit centered around vocalists, its internal structure was extremely experimental.
+In the 1990s, Doopees occupied a unique position among Yan Tomita's activities. Although this project was a pop unit centered around vocalists, its internal structure was extremely experimental.
 
-Doopees' works combine radio drama-like narratives, fragmented sounds, and sampled audio sources, and are structured as sonic stories rather than songs. In particular, the structure seen in the album ""Doopee Time'' is a series of songs, talk, and sound effects, forming a kind of imaginary broadcast space.
+Doopees' works combine radio-drama-like narratives, fragmented sounds, and sampled audio sources, and are structured as sonic stories rather than songs. In particular, the structure seen in the album ""Doopee Time'' is a series of songs, talk, and sound effects, forming a kind of imaginary broadcast space.
 
 This method is directly connected to Yang Tomita's sampling philosophy. Sound is not simply arranged as a musical element, but is treated as an element that composes a story or situation. In other words, music and storytelling are integrated on the same level.
 
-Also, the pop surface of Dopeees does not hide his experimentalism, but rather serves as a device to highlight it. The project's uniqueness lies in the precise placement of sound fragments behind familiar melodies and voices.
+Moreover, the pop surface of Doopees does not cover up his experimentalism, but rather functions as a device to highlight it. The project's uniqueness lies in the precise placement of sound fragments behind familiar melodies and voices.
 
 >Doopees was an attempt to reconstruct the sound and story while borrowing from pop formats.
 
@@ -144,9 +144,9 @@ Repeated sounds are not just repetitions, but continue with subtle changes. As a
 
 Jan Tomita's Serge and Buchla modular synthesizers are more than instruments, they serve as a platform for sonic experimentation.
 
-The Serge system is relatively compact and flexible, allowing complex signal processing. On the other hand, Buchla has a design philosophy that does not assume a keyboard, and has a direction of liberating music from performance. Both of these systems are designed to deviate from the traditional Western musical framework.
+The Serge system is relatively compact and flexible, allowing complex signal processing. On the other hand, Buchla has a design philosophy that does not assume a keyboard, and has a direction that frees music from performance. Both of these systems are designed to deviate from the traditional Western musical framework.
 
-Yan Tomita used these instruments to focus on ""generating" sounds rather than ""playing" them. Characteristics of his work, such as changes in sound through voltage control, random patching, and temporally changing sonic structures, are closely tied to these devices.
+Yan Tomita used these instruments to focus on ""generating" sounds rather than ""playing" them. Characteristics of his work, such as changes in sound through voltage control, random patching, and acoustic structures that continually change over time, are closely tied to these devices.
 
 Furthermore, this sonic approach functions as the foundation for his activities with Doopees and A.S.L. It is distinctive in that the different fields of pop, experimentation, and research are unified by the same sonic philosophy.
 
@@ -173,7 +173,7 @@ timeline
     2000s : Forever Yann Music Meme 2 発表
 </div>
 
-> It is distinctive in that research, pop culture, and experimentation are developed in parallel.
+> It is distinctive in that research, pop, and experimentation are developed in parallel.
 
 ---
 
@@ -207,7 +207,7 @@ His influence was also important in terms of the philosophical introduction of m
 
 Furthermore, the perspective of ""expanding consciousness through music"' presented through A.S.L."s activities is evaluated as an attempt to expand music from mere entertainment and connect it to the realm of perception and experience.
 
-> The influence that spans the three layers of music, research, and pop continues even today.
+> The influence that spans the three layers of music, research, and pop continues to this day.
 
 ---
 
@@ -219,7 +219,7 @@ Looking back on Yan Tomita's activities, he has consistently pursued the questio
 
 Although his different activities, such as A.S.L., Doopees, and his solo works, have different forms, they are all rooted in the same philosophy. Sound is a material, a phenomenon, a memory, and an experience.
 
-The fusion of modular synths and sampling, and the perspective of their effects on consciousness, continue to be an important foundation in current music production and sound art.
+The fusion of modular synths and sampling, and the perspective of their effects on consciousness, continues to be an important foundation for current music production and sound art.
 
 > The core of his activities is an attempt to renew perception itself through sound.
 

@@ -14,7 +14,7 @@ title: '[Column] World history of the girl band scene'
 ---
 
 
-## Prologue: The expression form of girl band
+## Prologue: The form of expression called a girl band
 
 Text: mmr｜Theme: How women have updated music history in the form of bands
 
@@ -45,9 +45,9 @@ color: #fff;
 
 ## 1950–60s: The eve of rock and the emergence of women's ensembles
 
-In the 1950s, rock and roll was born in the United States, and the band form became the center of youth culture. On the other hand, female musicians at the time were often in the forefront as singers, and the performance was generally performed by men. One group that emerged as an exception was an all-female group that played musical instruments.
+In the 1950s, rock and roll was born in the United States, and the band form became the center of youth culture. On the other hand, female musicians at the time often came to the fore as singers, and the performance was generally performed by men. One group that emerged as an exception was an all-female group that played musical instruments.
 
-The Shirelles and the Ronettes, which appeared in 1964, were technically vocal groups, but as a female-dominated collective they had a strong influence on their successors. Eventually, in the late 1960s, women began to be seen picking up guitars and drums on the West Coast of the United States and the United Kingdom.
+Although the Shirelles and the Ronettes, which appeared in 1964, were technically vocal groups, they had a strong influence on their successors as female-dominated collectives. Eventually, in the late 1960s, the sight of women picking up guitars and drums gradually became visible on the West Coast of the United States and in England.
 
 <div class="mermaid">
 flowchart LR
@@ -160,7 +160,7 @@ During the alternative rock era of the 1990s, girl bands became genre-crossing e
 
 The European girl band scene has a different cultural background than America's. In Britain, class society and youth culture were closely linked, and for women to form a band was an expression of their social position.
 
-The post-punk era of the late 1970s and 1980s saw an increase in bands based in art schools and school networks, combining musical experimentation with political consciousness. Within this context, female bands became a presence that played a role in the musical avant-garde and social critique.
+The post-punk era of the late 1970s and 1980s saw an increase in bands based in art schools and school networks, combining musical experimentation with political awareness. Within this context, female bands became a presence that played a role in the musical avant-garde and social critique.
 
 In continental Europe, a scene is forming around Berlin and Paris where the boundaries between art and music are blurred. Female bands developed their own unique expressions while intersecting with club culture and performance art.
 
@@ -196,7 +196,7 @@ Their cross-genre activities help keep the concept of an all-girl band from beco
 
 The history of girl bands is also closely related to changes in media representation. In the early days, the emphasis was on rarity and appearance, and musicality was often treated as secondary.
 
-As the media changes, from music magazines to television to the internet, female bands are able to control their own image. In the age of SNS, self-production has become possible, and external regulations have become relative.
+As the media changes from music magazines to television and the Internet, female bands are able to control their own image. In the age of SNS, self-production has become possible, and external regulations have become relative.
 
 > Changes in representation have expanded the freedom of expression.
 
@@ -204,7 +204,7 @@ As the media changes, from music magazines to television to the internet, female
 
 ## Role of education/community
 
-Education and community were essential for the increase in girl bands. Promoting music education, workshops, and women-only events have created new participants.
+Education and community presence were essential to the increase in girl bands. Promoting music education, workshops, and women-only events have created new participants.
 
 Especially since the 1990s, networks among women have promoted the sharing of knowledge and experiences and supported the formation of a sustained scene.
 
@@ -214,7 +214,7 @@ Especially since the 1990s, networks among women have promoted the sharing of kn
 
 ## Supplementary Chronology: Detailed Version
 
-1950s: Female vocal groups were the norm
+1950s: Female vocal groups were mainstream
 1960s: Emergence of female performers
 1970s: Commercial establishment of female rock bands
 1980s: Punk and DIY expansion

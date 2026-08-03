@@ -14,7 +14,7 @@ title: Alter Ego – Beat The Bush
 ---
 
 
-Alter Ego is a German electronic music duo formed in 1992 by Roman Flügel and Jörn Elling Wuttke. He is best known for his 2004 masterpiece "Rocker".
+Alter Ego is a German electronic music duo formed in 1992 by Roman Flügel and Jörn Elling Wuttke. He is best known for his masterpiece "Rocker" released in 2004.
 
 "Beat The Bush" is a Techno/Minimal/Acid remix released by German label Klang Elektronik in 2005.
 

@@ -44,7 +44,7 @@ color: #fff;
 
 Swing jazz developed in America in the 1930s and was closely tied to dancehall culture. Ensembles based on four-beat rhythms, syncopation, and horn sections have become widely popular as popular entertainment.
 
-On the other hand, electronic dance music, which has developed since the 1970s, has passed through disco, house, and techno, and has established itself as a music characterized by repetitive structures and mechanical precision. Electro Swing was created in a way that traverses these two dance music histories.
+On the other hand, electronic dance music, which has developed since the 1970s, has passed through disco, house, and techno, and has established itself as music characterized by repetitive structures and mechanical precision. Electro Swing was created in a way that traverses these two dance music histories.
 
 ---
 
@@ -81,7 +81,7 @@ Parov Stelar's music is unique in that it combines the immediate impact of club 
 
 France's Caravan Palace is unique in that they developed Electro Swing in the form of a band. He created a combination of live instrument performance and electronic programming, emphasizing visual and physical performance.
 
-Their songs mix elements of not only swing but also gypsy jazz, pop, and electronica, expanding the expressive range of Electro Swing.
+Their songs mix elements of not only swing, but also gypsy jazz, pop, and electronica, expanding the expressive range of Electro Swing.
 
 ---
 
@@ -100,7 +100,7 @@ These do not necessarily reproduce exact swing rhythms, but are reinterpreted to
 
 ## 7. Visual culture and fashion
 
-Electro Swing spread not only through music, but also through 1920s and 1930s style fashion, Art Deco graphics, and retro-futuristic visual expressions. This expanded the understanding of genre from an auditory experience to a comprehensive cultural experience.
+Electro Swing spread not only through music, but also through 1920s and 1930s style fashion, Art Deco graphics, and retro-futuristic visual expressions. This expanded the understanding of genre from an auditory experience to a holistic cultural experience.
 
 ---
 
@@ -179,7 +179,7 @@ As a result, Electro Swing has a structure that is unnatural for jazz, but highl
 
 ## 17. Floor functionality and DJ perspective
 
-For DJs, Electro Swing acts as a connecting point for cross-genre mixes. It is easy to connect with house, breakbeat, hip-hop, and even rock"n"roll, allowing you to naturally change the context of the floor.
+For DJs, Electro Swing serves as a connecting point for cross-genre mixes. It is easy to connect with house, breakbeat, hip-hop, and even rock"n"roll, allowing you to naturally change the context of the floor.
 
 This is achieved through rhythmic simplification and melodic fragments with strong motifs. Electro Swing is music that exhibits its power in a flow rather than as a single genre.
 

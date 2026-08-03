@@ -53,7 +53,7 @@ As everyone surrenders to the sound as a nobody, boundaries of class, gender, an
 ## Chapter 2: From disco to rave — the democratization of the night and the politics of the body
 
 Discotheques in the 1970s served as a platform for expression of the LGBTQ community and black culture.
-Studio 54 and Paradise Garage were "sonic emancipation zones" for people who were pushed to the margins of society, but they were also political spaces.
+Studio 54 and Paradise Garage were "sound emancipation zones" for people who were pushed to the margins of society, and at the same time they were political spaces.
 
 At the end of the 1980s, rave culture emerged with acid house and fled outside the city.
 Warehouses, fields, abandoned factories—dancing in uncontrolled spaces was also a form of resistance to the control of time by the state and capital.
@@ -84,7 +84,7 @@ But at the same time, music became a means of social inclusion.
 
 The club"s architecture reconfigures the city"s soundscape.
 Bass sounds, laser beams, and smoke echo in the inorganic concrete space.
-They are both architectural devices and **interfaces that connect the body and technology**.
+They are both architectural devices and interfaces that connect the body and technology.
 
 The DJ booth is the ""conductor of the city," and the sound system is the ""nervous system of society."
 As technology advances, the form of clubs changes and so do the politics of sound.
@@ -134,7 +134,7 @@ flowchart TD
     A1988["1988: Second Summer of Love/Acid House Revolution (UK)"]
     A1991["1991: Berlin Tresor Open"]
     A1999["1999: Fusion of the Internet and DJ culture"]
-    A2012["2012: Revision of Japan"s Entertainment Business Law ""A night where it"s okay to dance''"]
+    A2012["2012: Revision of Japan"s Entertainment Business Law "A night where it"s okay to dance""]
     A2020["2020: Turning into a digital club due to the pandemic"]
     A2025["2025: Reconnecting AI DJ and real clubs"]
 

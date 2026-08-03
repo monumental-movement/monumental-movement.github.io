@@ -17,7 +17,7 @@ title: '[Column] High energy and LGBTQ: dance music that symbolizes liberation a
 ## Dance music that symbolizes liberation and identity
 
 
-Text: mmr｜Theme: Symbolic music of "liberation and solidarity" that overlaps with American gay culture and the era of the HIV/AIDS crisis
+Text: mmr | Theme: Symbolic music of "liberation and solidarity" that overlaps with American gay culture and the era of the HIV/AIDS crisis
 
 <hr>
 

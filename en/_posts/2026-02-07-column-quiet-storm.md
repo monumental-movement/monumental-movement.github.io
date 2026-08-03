@@ -21,9 +21,9 @@ Text: mmr | Theme: Tracing how Quiet Storm, born from late-night radio and studi
 
 In the mid-1970s, the way R&B was listened to in urban America was quietly beginning to change. Separate from the funk and up-tempo soul that played on daytime radio, a group of songs selected for the night time slot began to spontaneously come together. Quiet Storm was the name given to the group later.
 
-Smokey Robinson's 1975 album ""A Quiet Storm'' is said to be a symbol of this. This work, produced in a studio in Los Angeles, was recorded with an emphasis on the distance and resonance of the vocals, suppressing the thick horns and strong backbeats. The microphone was placed close to his mouth, and it is said that he was conscious of making sure that his breathing and the fluctuation of his voice remained as they were. What is important here is that the silence was born not from the production, but from the recording environment itself.
+Smokey Robinson's 1975 album ""A Quiet Storm'' is said to be a symbol of this. This work, produced in a studio in Los Angeles, was recorded with an emphasis on the distance and resonance of the vocals, suppressing the thick horns and strong backbeat. The microphone was placed close to his mouth, and it is said that he was conscious of keeping the sound of his breathing and the fluctuations in his voice. What is important here is that the silence was born not from the production, but from the recording environment itself.
 
-The album name was adopted as the title of a late-night show on an FM station in Washington, D.C., giving Quiet Storm a clear definition. In the program, songs with the same temperature were played consecutively, and the silences and fade-outs between songs were also calculated. Rather than a genre, Quiet Storm began to function as a framework for binding time periods and emotions.
+The name of the album was adopted as the title of a late-night show on an FM station in Washington, D.C., giving Quiet Storm a clear definition. In the program, songs with the same temperature were played consecutively, and the silences and fade-outs between songs were also calculated. Rather than a genre, Quiet Storm began to function as a framework for binding time periods and emotions.
 
 > Quiet Storm was a concept born not from the type of music, but from the place where the music was placed.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ## The nexus of late-night radio and urban culture
 
-FM radio in the 1970s was at a major turning point in terms of sound quality and programming. Compared to the days when AM was the norm, FM had less noise and was able to deliver the full range from bass to treble. These technical conditions made the choice to play slow, delicate R&B at night a viable option.
+FM radio in the 1970s was at a major turning point in terms of sound quality and programming. Compared to the days when AM was the main focus, FM had less noise and was able to deliver the full range from bass to treble. These technical conditions made the choice to play slow, delicate R&B at night a viable option.
 
 The atmosphere in the studio late at night was completely different from that in the daytime. The lights were dimmed, and the DJ sat alone in the booth, facing the microphone while looking out at the city lights through the glass. A few records are selected in advance and placed next to the turntable, but the proceedings are not tied to a strict script. Since listeners' responses can only be received by phone or letter, DJs end up addressing imaginary listeners.
 
@@ -97,7 +97,7 @@ On the other hand, excessive sophistication also invited criticism. It was point
 
 In the 1990s, hip-hop producers began applying the textures of nighttime R&B to their beat production. The slow tempo, long sustain, and subdued vocal phrases functioned as elements that filled the gaps in rap. It was often sampled, but what was important was its atmosphere.
 
-At the neo-soul production site, Quiet Storm's recording philosophy is more directly inherited. An attempt was made to preserve the atmosphere of a night studio by recording the live performance in a format similar to a one-shot recording and minimizing editing. This was an attitude that resonated spiritually with late-night radio in the 1970s.
+At the neo-soul production site, Quiet Storm's recording philosophy is more directly inherited. An attempt was made to preserve the atmosphere of a nighttime studio by recording the live performance in a format similar to a one-shot recording and minimizing editing. This was an attitude that resonated spiritually with late-night radio in the 1970s.
 
 > Quiet Storm was passed on to the next generation as a production philosophy.
 

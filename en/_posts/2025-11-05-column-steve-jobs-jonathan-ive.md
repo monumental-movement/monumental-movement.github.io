@@ -20,7 +20,7 @@ title: '[Column] Steve Jobs and Jonathan Ive - Resonance between sound and desig
 Text: mmr｜Theme: Tracing the changes in the duo's music views, design philosophy, and product line based on primary materials and reliable testimonies.
 
 
-Among the many products Apple has created, the design surrounding "sound" has always been at the center of it.
+アップルが生み出した数々の製品の中でも、「音」にまつわるデザインは常に中心にあった。  
 The collaboration between Steve Jobs and Jonathan Ive goes beyond mere product design.
 A new culture of **fusion of music and technology** was born.
 
@@ -47,7 +47,7 @@ color: #fff;
 ## Chapter 1 Records and the California Air
 
 Steve Jobs was a product of the California counterculture of the late 1960s and 1970s.
-Many biographies confirm that he admired Bob Dylan and the Beatles from a young age.
+His admiration for Bob Dylan and the Beatles from a young age is confirmed by numerous biographies.
 
 In Walter Isaacson's biography "Steve Jobs" (2011), his living room has a **tube amplifier and a record player**.
 It is said that he listened to albums by Bob Dylan and Joan Baez every night.
@@ -89,7 +89,7 @@ Ive focused on the ""finger tactility'' of wheel operation.
 The arrival of the iTunes Store (2003) marked the first revolution in music consumption since the record era.
 Jobs' prediction that ""the music industry will be saved by software'' is coming true.
 
-> "Delivering music legally and digitally is the greatest respect for musicians."
+> "Delivering music legally digitally is the greatest respect for musicians."
 > — Steve Jobs (2003)
 
 ---
@@ -154,7 +154,7 @@ After Jobs passed away, Ive described him as follows.
 > "He looked at products the way you listen to music: there"s rhythm, there"s harmony, there's silence."
 
 Ive himself calls the design work he continues with LoveFrom a "sound process."
-In other words, design is not only a visual art, but also an act of constructing sound.
+In other words, design is both visual art and the act of constructing sound.
 
 ---
 

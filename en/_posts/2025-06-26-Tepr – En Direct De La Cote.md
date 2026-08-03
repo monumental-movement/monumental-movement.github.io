@@ -20,7 +20,7 @@ Tanguy Destable, also known as Tepr, is a French musician, composer, and artisti
 A2 is a remix by Patrick Alavi, also known as Alavi, who heads the label Roxour and is a DJ and producer specializing in Funk & Electronics.
 
 The co-producer of B1 and B2 is Grand Marnier.
-B2 is a remix by French producer datA, also known as David Guillon.
+B2 is a remix by French producer datA, aka David Guillon.
 
 #### Tracklist
 ```md

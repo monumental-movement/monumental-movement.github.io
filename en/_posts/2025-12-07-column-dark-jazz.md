@@ -63,7 +63,7 @@ By combining these characteristics, a unique sound image was born that could be 
 Formed in North Rhine-Westphalia, Germany.
 Although there have been several changes in members, the following points have remained consistent.
 
-- Originally from slow doom/hardcore band
+- Originally from slow doom/hardcore bands
 - In the 1990s, he turned to the approach of "playing jazz at an extremely slow tempo"
 - Tim Bruns (drums), Mickey Kohlmeier (piano/organ), Robin Schuller (bass), Christoph Kloser (saxophone/piano) and others play key roles.
 
@@ -121,7 +121,7 @@ Dark jazz sounds like ""quiet, dark jazz,'' but it is actually a combination of 
 
 ### ● 2. Harmony: Modal structure/utilization of diminished chords
 - Mainly minor
-- Ambiguity resolution using dim7, m7(b5), sus4
+- Ambiguous resolution using dim7, m7(b5), sus4
 - Harmony construction that prioritizes "atmosphere" over functional harmony in jazz
 
 ### ● 3. Acoustic processing
@@ -230,7 +230,7 @@ It continues to expand as "music that creates an atmosphere."
 
 ## 9. Where is dark jazz headed?
 With the spread of AI-generated video, VJ software, and indie games,
-We have entered an age where sight and sound are talked about in the same breath.
+視覚とサウンドが同列で語られる時代となった。
 
 Due to the nature of dark jazz, it is slow and has many blank spaces.
 It is thought that it will continue to have new value by mixing with images.
@@ -242,7 +242,7 @@ There is still a high possibility that it will grow as the "sound of the city" i
 ---
 
 # At the end
-Dark jazz is not the background music of a bar or the sound effects of a night town;
+Dark jazz is not the background music of a bar or the sound effects of a night town.
 **This is a modern art that depicts the loneliness and shadows of cities using only sound. **
 
 Each artist, mainly Bohren & der Club of Gore, has drawn different ways of drawing shadows.

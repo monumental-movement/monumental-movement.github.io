@@ -17,7 +17,7 @@ Jeremy Petrus, also known as Mossa, is a musician, DJ, and electronic music prod
 
 "Salt Peanuts EP" is a tech house minimal track released on French label Frankie Rec in 2007.
 
-The second track on side B is a remix by Jean-Patrice Rémillard, also known as Pheek, who is a techno/minimal DJ and producer from Montreal who runs the label Archipel.
+The second track on side B is a remix by Jean-Patrice Rémillard, aka Pheek, a techno/minimal DJ and producer from Montreal who runs the label Archipel.
 
 #### Tracklist
 ```md

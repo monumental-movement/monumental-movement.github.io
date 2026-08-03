@@ -61,9 +61,9 @@ C --> D[northern india music culture]
 
 ## A heretical presence in Indian classical music
 
-The sitar, sarod, and bansuri, which are the main instruments of Hindustani music, all emphasize sustained and smooth sounds. On the other hand, since the santur is a percussion instrument, the duration of the sound is short, making it difficult to directly express meand (smooth sounds).
+The sitar, sarod, and bansuri, which are the main instruments of Hindustani music, all emphasize sustained and sliding sounds. On the other hand, since the santur is a percussion instrument, the duration of the sound is short, making it difficult to directly express meand (smooth sounds).
 
-For this reason, the santour has long been considered ""incomplete as a classical instrument.'' However, this restriction became the basis for later unique interpretations.
+For this reason, the santour has long been regarded as ""incomplete as a classical instrument.'' However, this restriction became the basis for later unique interpretations.
 
 > Restrictions were not a drawback, but a condition for creating new musical idioms.
 
@@ -73,19 +73,19 @@ For this reason, the santour has long been considered ""incomplete as a classica
 
 Pandit Shivkumar Sharma was the man who promoted the santoor as an official solo instrument in Indian classical music in the late 20th century. He improved the string structure of the santoor and realized the scale system necessary for raga performance.
 
-In addition, by making use of the granularity of the sound produced by striking the strings and establishing a playing method that simulates gamaka and meando, the santur gained its status as a melodic instrument.
+In addition, by making use of the granularity of the sound produced by the strings and establishing a playing method that simulates gamaka and meando, the santur gained its status as a melodic instrument.
 
-> Sharma's accomplishment was not in changing the instrument, but in changing the way the instrument was heard.
+> Sharma's achievement lies not in changing the instrument, but in changing the way the instrument is heard.
 
 ---
 
 ## Santoor in Raga and Tara
 
-Even in the performance of the santoor, the time period, emotional character, and scale structure of the raga are strictly observed. The clear attack from the strings adds a new sense of tension to the static development of Aarap.
+Even in santoor performance, the time period, emotional character, and scale structure of the raga are strictly observed. The clear attack from the strings adds a new sense of tension to the static development of Aarap.
 
-Once in the tala, the santoor begins to take on a percussive driving force, blurring the line between melody and rhythm. This duality creates a charm that is not found in other melodic instruments.
+Once in tala, the santoor begins to take on a percussive driving force, blurring the line between melody and rhythm. This duality creates a charm that is not found in other melodic instruments.
 
-> The santour is an instrument that exists in the middle area between melody and rhythm.
+> The santour is an instrument that exists between melody and rhythm.
 
 ---
 
@@ -113,7 +113,7 @@ Even in performances outside of the Indian classical framework, raga thinking co
 
 Modern santour players go back and forth between pure classical performance and experimental expression. With an emphasis on complete improvisation, sonic texture, and the treatment of silence, the santour is being redefined as a musical object.
 
-Performances often begin with a soft note. The moment the mallet touches the string, before there is a distinct sound of impact, you can feel the presence of a metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
+Performances often begin with a soft note. The moment the mallet touches the string, before there is a distinct sound of impact, you can feel the metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
 
 > The santour is changing from an instrument to be played to one that shapes the listening space.
 
@@ -131,7 +131,7 @@ When playing the santour as an accompaniment to folk songs, the intonation of th
 
 ## Comparison with Santur in other regions: Focusing on Iran
 
-Iranian santurs have fewer strings than Indian ones, and have a more organized range. The melodies are more clearly delineated, and improvisations are developed through changes in ornamentation.
+Iranian santurs have fewer strings than Indian ones, and have a more organized range. The melody is more clearly demarcated, and improvisations are developed through changes in ornamentation.
 
 While Indian santoor emphasizes the continuous flow of sound, Iranian santoor has a strong note-by-note structure. When playing, the mallet is struck at a nearly perpendicular angle to the strings, bringing the attack sound clearly into the foreground.
 
@@ -143,7 +143,7 @@ While Indian santoor emphasizes the continuous flow of sound, Iranian santoor ha
 
 The Indian classical santoor has around 100 strings, which are divided into courses of multiple strings. Each course is tuned to the same pitch to ensure stability in volume and overtones.
 
-The tuning changes for each raga, and the arrangement is such that the tonic and subordinate notes are particularly emphasized. This creates a natural resonance drone while avoiding unnecessary sounds during performance.
+The tuning changes for each raga, and the arrangement is such that the tonic and subordinate notes are particularly emphasized. This creates a natural drone due to resonance while avoiding unnecessary sounds during performance.
 
 > Tuning is not a preparatory work, but an idea that functions as a part of the performance.
 
@@ -184,7 +184,7 @@ timeline
 
 The santur is not just a folk instrument. This is one answer to the question of how sound remembers time. When countless strings strike at the same time, the individual notes disappear and only the overall resonance remains.
 
-This characteristic is the reason why santour continues to be updated even in modern times.
+This characteristic is the reason why santours continue to be updated even in modern times.
 
 > The santour is not an instrument that preserves the past, but a device that transforms the past into the present.
 

@@ -15,7 +15,7 @@ title: Drivetrain – Symphonium
 
 "Symphonium" is a techno track produced by Drivetrain, an artist active in the Detroit techno scene.
 
-"Symphonium" has dark and melodic elements, yet features an energetic and danceable rhythm, firmly expressing the drivetrain's unique sonic identity. This song will appeal to techno fans and dance music lovers.
+""Symphonium"' has dark and melodic elements, yet features an energetic and danceable rhythm, firmly expressing the drivetrain"s unique sonic identity. This song will appeal to techno fans and dance music lovers.
 
 #### Tracklist
 ```md

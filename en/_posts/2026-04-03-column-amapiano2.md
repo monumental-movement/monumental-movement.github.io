@@ -49,7 +49,7 @@ color: #fff;
 
 ### Sound from the township
 
-Amapiano"s origins lie in South Africa"s township culture on the urban periphery. Especially in the Johannesburg and Pretoria areas, music has always existed as something ""adjacent to life.''
+Amapiano"s origins lie in South Africa"s township culture on the urban periphery. Especially around Johannesburg and Pretoria, music has always existed as ""an integral part of life.''
 
 Since the 1990s, young people have been searching for new ways to express themselves in a post-apartheid society. The kwaito genre played an important role in this. The slow tempo and repetitive beats directly influenced later Amapiano.
 
@@ -103,7 +103,7 @@ This non-verbal nature was one of the important factors that pushed Amapiano to 
 
 In Amapiano, music and dance are not separated. At the same time as a new track is born, a new step is born.
 
-Typical examples include movements such as ""Vosho" and ""Pouncing Cat." These are not just choreography, but body language shared within a community.
+Typical examples include movements such as "Vosho" and "Pouncing Cat." These are not just choreography, but a body language shared within a community.
 
 ### Sent from the street
 
