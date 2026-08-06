@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【コラム】 山城祥二（大橋力）と芸能山城組 ― 音響・群れ・環境の総合芸術としての探求"
+title:  "【コラム】 山城祥二（大橋力:Tsutomu Ohashi）と芸能山城組 ― 音響・群れ・環境の総合芸術としての探求"
 author: mmr
 categories: [ Column ]
 tags: [ Experimental, Tribal, 70s ]
