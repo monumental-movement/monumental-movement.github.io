@@ -24,7 +24,7 @@ Text: mmr｜Theme: Delving into the technical background of 10-inch records, suc
 
 The physical structure of a record embodies the philosophy of the musical format in its purest form.
 The 10-inch disc is a format that is particularly ""designally middle-of-the-road.''
-A board with a diameter of 25 cm exhibits intermediate characteristics between 7 inches and 12 inches in terms of linear groove speed, groove width, and rotational speed.
+A board with a diameter of 25 cm exhibits intermediate characteristics between 7-inch and 12-inch grooves in terms of linear velocity, groove width, and rotational speed.
 
 What this means is that here is the optimal solution for the trade-off between playback time and sound quality.
 The 10-inch size exists at a "beautiful balance point" with few design constraints.
@@ -45,18 +45,18 @@ color: #fff;
 </style>
 
 
-### Rotation speed and linear velocity: physical laws that determine the "momentum" of sound
+### Rotational speed and linear velocity: physical laws that determine the "momentum" of sound
 
-One of the factors that determines the sound quality of a record is the number of revolutions (RPM) and linear velocity.
+One of the factors that determines the sound quality of a record is the rotational speed (RPM) and linear velocity.
 
 - **7 inch single: 45RPM**
 There is a lot of force in the sound at the outer periphery, and the reproduction of high frequencies is excellent. However, distortion increases at the inner circumference.
 
 - **12 inch LP: 33⅓RPM**
-It is suitable for long-term playback and ensures stable sound quality, but the high frequencies are somewhat subdued.
+It is suitable for long-term playback and ensures stable sound quality, but the high range is somewhat subdued.
 
 - **10 inch LP: 33⅓RPM or 45RPM**
-The limit is about 12 minutes per side at 33⅓, and about 8 to 9 minutes at 45 RPM.
+At 33⅓, the limit is about 12 minutes per side, and at 45 RPM, the limit is about 8 to 9 minutes.
 In other words, the strength of the 10-inch is that it is possible to design a system that prioritizes sound quality over time.
 
 The average linear velocity is approximately 15% higher than that of 12 inches, and there is less distortion on the inner periphery.
@@ -77,13 +77,13 @@ Due to this structural feature, 10-inch discs exhibit the following acoustic tre
 - Tight midrange localization
 - High range is slightly rough, but has momentum
 
-This characteristic makes it suitable for live recordings and rough mixes, and this is why artists who choose 10-inch discs emphasize experimentation.
+This characteristic makes it suitable for live albums and rough mixes, and this is why artists who choose 10-inch discs emphasize experimentation.
 
 ---
 
 ### Mastering process: from lacquer to stamper
 
-The key point in the 10-inch record production process is the **lacquer cutting** stage.
+The key point in the process unique to 10-inch records in record production is the **lacquer cutting** stage.
 Due to the smaller diameter of the 10-inch disc, there is less cutting head tracking error.
 This improves the accuracy of the sound groove and makes stereo localization more stable.
 
@@ -110,10 +110,10 @@ This process is especially important for 10-inch models because the stability of
 
 ### Press material and weight: 180g Behind the myth
 
-For 10-inch discs, the thickness is generally around 1.8 to 2.0 mm, and the weight is approximately 120 to 150 g.
-Influenced by the boom in 12-inch 180g heavy discs, we tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
+For 10-inch discs, the thickness is typically around 1.8 to 2.0 mm and the weight is approximately 120 to 150 g.
+Influenced by the boom in 12-inch 180g heavy-duty discs, we tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
 
-The small size of the 10-inch board naturally increases the rigidity of the entire board, making it less likely to warp and cause less resonance.
+The small size of the 10-inch board naturally increases the rigidity of the entire board, making it less likely to warp and generate less resonance.
 In other words, even if it is thin, the sound is tight. For this reason, there is almost no disadvantage in terms of sound quality even with a lightweight 10-inch disc.
 
 ---
@@ -128,7 +128,7 @@ From an acoustic measurement perspective, the playback frequency characteristics
 | 1kHz to 4kHz | ±0dB | Flat, clear |
 | 8kHz or higher | −1 to 2 dB | High frequency attenuation is rather fast (physical constraints) |
 
-This characteristic results in a sound image with a "close feeling" centered on the midrange.
+This characteristic results in a sound image with a "close feeling" centered around the midrange.
 The reason why 10-inch discs are said to have a ""live sound'' is because of the high density of the midrange.
 
 ---
@@ -141,9 +141,9 @@ The selection criteria are as follows:
 - **33⅓RPM**: Focus on recording time. Ideal for EPs and small albums.
 - **45RPM**: Focus on sound quality and dynamics. For maxi singles and audiophiles.
 
-What's interesting is that the 10-inch 45RPM disc has a more "condensed sound image" than the 12-inch 45RPM disc.
+What's interesting is that the 45RPM 10-inch disc has a more "condensed sound image" than the 12-inch 45RPM disc.
 This is due to the physical phenomenon that the winding speed of the groove is fast, so the low range comes to the front.
-As a result, club and noise artists often choose the 10-inch 45RPM.
+As a result, club and noise artists often choose 10-inch 45RPM.
 
 ---
 
@@ -154,14 +154,14 @@ Because time is limited, it is important to decide which sounds to keep and whic
 This feeling is similar to editing a movie or cropping a photo.
 
 There is also a movement among modern mastering engineers to seek a "10-inch optimized sound image."
-It is no longer a format of the past, but a 10-inch **device of new time design**.
+It is no longer a format of the past, but 10 inches as a **device of new time design**.
 
 ---
 
 ### Conclusion: Musical philosophy in the physics of a disk
 
-When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the ""freedom created by constraints.''
-Design limitations, time constraints, and size limitations.
+When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the "freedom created by constraints."
+Design limitations, time constraints, and size constraints.
 All of this makes the music "condensed" and restores its "feel."
 
 The format is philosophy, engineering, and poetry.
@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|follow| G
+    S -->|Follow| G
     G --> L
     G --> V
     G --> D
@@ -237,6 +237,6 @@ flowchart TD
 
 ### Related columns
 
-🔗 [[Column] The temptation of the 10-inch——Aesthetics of sound told by the format](https://monumental-movement.jp/Column-10-Inch-Vinyl)
+🔗 [[Column] The temptation of 10-inch vinyl——Aesthetics of sound told by the format](https://monumental-movement.jp/Column-10-Inch-Vinyl)
 
 🔗 [[Column] "From the sound of a needle to streaming, sound continues to live on through time." From the era of rewind to the era of infinite skip](https://monumental-movement.jp/Column-Media-Types)

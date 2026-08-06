@@ -19,10 +19,10 @@ title: '[Column] Waajeed —— A creator who continues to renew the genealogy o
 Text: mmr｜Theme: Waajeed's life and works, and his role in the genealogy of Detroit
 
 
-When discussing Detroit"s musical history, the focus is often on the giants of the early days of techno. However, there are many artists who have "re-integrated" the city"s own **black music bloodline**--hip-hop, gospel, soul, house, jazz, and techno--and sublimated it into new forms of expression since the 2000s.
+When discussing Detroit"s music history, the focus is often on the giants of the early days of techno. However, there are many artists who have reintegrated the city"s own **black music bloodline**--hip-hop, gospel, soul, house, jazz, and techno--and sublimated it into new forms of expression since the 2000s.
 
 One person at the center of this is **Waajeed**.
-Starting his career around Slum Village, he has continued to make Detroit's musical aesthetic function as a "platform for connecting to the future" with Platinum Pied Pipers (PPP), Tiny Hearts, and his own label **Dirt Tech Reck**.
+Starting his career around Slum Village, he has continued to use Detroit's musical aesthetic as a platform to connect to the future, with bands such as Platinum Pied Pipers (PPP), Tiny Hearts, and his own label **Dirt Tech Reck**.
 
 Since the late 2010s, he has been building a body of work that more directly follows the flow of Detroit house/techno, while also bringing to the forefront the expression of black roots.
 In particular, **""Shango EP" (2017)** and one of their current masterpieces, **""Mother EP" (2018)** are positioned as works that strongly present the spirituality and community nature of club music while inheriting the traditions of Detroit.
@@ -50,7 +50,7 @@ Waajeed (real name Robert O'Bryant) was born in Detroit in the late 1970s.
 The artist's name is of Arabic origin and is taken from a word meaning "to find" or "to discover."
 
 From an early age, he grew up in an environment influenced by **Detroit's soul/gospel culture**, and later came into contact with Slum Village.
-In the late 1990s and early 2000s, Detroit was creating a new standard for neo-soul/hip-hop, symbolized by J Dilla. Waajeed was at the forefront of this field, and while also working as a photographer, he turned to music production.
+In the late 1990s and early 2000s, Detroit was creating a new standard for neo-soul/hip-hop, symbolized by J Dilla. At the forefront of this field, Waajeed turned to music production while also working as a photographer.
 
 ### **● Relationship with Slum Village**
 
@@ -59,7 +59,7 @@ In the late 1990s and early 2000s, Detroit was creating a new standard for neo-s
 * Directly influenced by the creativity of J Dilla
 
 What Waajeed absorbed here was more than just beat making.
-**The attitude is to ""carry out the inheritance of black music as a 'reinvention' for the modern era.''**
+**The attitude is to carry out the inheritance of black music as ""reinvention'' in the modern era**.
 
 ---
 
@@ -99,7 +99,7 @@ Many of the releases feature the following elements:
 
 * A sound rooted in Detroit
 * Black community narrative and social background
-* The connection between the dance floor and spirituality
+* The connection between dance floor and spirituality
 * Structure that crosses hip-hop, house, and techno
 
 From here, Waajeed will move into a different field from the PPP period.
@@ -124,16 +124,16 @@ On this EP, Waajeed:
 * Black Spiritual Call
 * Ritual nature of raw sounds and rhythm
 
-He clearly steered the band towards ""representing house/techno as a return to the spirit of black art'' by fusing them.
+The group clearly steered the band towards ""representing house/techno as a return to the spirit of black art'' by fusing them.
 
-**Rather than being an extension of the PPP and hip-hop era, this work presented a new phase of Detroit music** and received high praise worldwide.
+**Rather than being an extension of the PPP and hip-hop era, this work presented a new aspect of Detroit music** and received high praise worldwide.
 
 ---
 
 # **5. "Mother EP" (2018): Fusion of spirituality, clubbing, and blackness**
 
 **Mother EP (2018)** is widely recognized as Waajeed's masterpiece.
-The theme of this work is not just house/techno, but club music as an archive of the memory and spirituality of the black community.
+The theme of this work is not just house/techno, but **club music as an archive of the memory and spirituality of the black community**.
 
 ### Features
 
@@ -152,7 +152,7 @@ It is in a position that can be called **"the aesthetic destination of Dirt Tech
 
 # **6. Production attitude: Practitioner redefining Detroit**
 
-To summarize Waajeed's production approach, the following three points are central.
+To sum up Waajeed's production approach, the following three points are central.
 
 ---
 
@@ -205,7 +205,7 @@ This is even more pronounced on Mother, giving the club track an emotional depth
 
 ### **■ Hybrid of live sound and electronic sound**
 
-The technique of naturally blending synths, pads, electric piano, live drums, percussion, etc. is also the result of the "ear training" of the hip-hop era.
+His technique for naturally blending synths, pads, electric piano, live drums, percussion, etc. is also a result of the ""ear training'' of the hip-hop era.
 
 ---
 
@@ -218,7 +218,7 @@ The technique of naturally blending synths, pads, electric piano, live drums, pe
 * **"The War LP" (2012)**
 * **"Shango EP"(2017)**
 * **"From The Dirt"(2017)**
-* **"Ten Toes Down EP" (2018)**
+* **"Ten Toes Down EP"(2018)**
 * **"Mother" (2022)**
 
 ---
@@ -259,7 +259,7 @@ graph TD
 Waajeed is a rare artist who treats Detroit's music culture not as a "genre" but as a continuum of history and communal memory.
 
 * Hip-hop → Soul → Gospel → House → Techno
-In the sense that he single-handedly embodies this lineage, he embodies the image of a typical "Detroit creator."
+In the sense that he embodies this lineage all by himself, he embodies the image of a typical "Detroit creator."
 
 Moreover, this creation is aimed at innovation, not nostalgia.
 The works from "Shango EP" to "Mother" are
@@ -271,7 +271,7 @@ It will continue to be referred to as **club music that looks at the roots and f
 
 Waajeed's career has been one of continuing to reinterpret the "layers of history" of the city of Detroit by intersecting them with contemporary club culture.
 Not only are the individual works attractive;
-**It is also important as a methodology for translating urban memory and black spirituality into music**, and its existence will continue to be a symbol that supports the evolution of Detroit music.
+It is also important as a methodology for translating urban memory and black spirituality into music, and its existence will continue to be a symbol that supports the evolution of Detroit music.
 
 ---
 

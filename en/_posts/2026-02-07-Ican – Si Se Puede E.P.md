@@ -14,9 +14,9 @@ title: Ican – Si Se Puede E.P
 
 
 
-Ican is a duo consisting of Esteban Adame and Santiago Salazar.
+Ican is a duo made up of Esteban Adame and Santiago Salazar.
 
-Esteban Adame was invited by Mike Banks of Detroit's Underground Resistance in 2004 to participate as a keyboard player in Banks' new project (Galaxy 2 Galaxy / Los Hermanos), and began working with G2G bandmate Santiago Salazar (DJ S2) as Ican.
+In 2004, Esteban Adame was invited by Mike Banks of Detroit's Underground Resistance to participate as a keyboard player in Banks' new project (Galaxy 2 Galaxy / Los Hermanos), and began working with G2G bandmate Santiago Salazar (DJ S2) as Ican.
 
 "Si Se Puede E.P." is a Deep House track released in 2006 by Santiago Salazar and Esteban Adame's label Ican Productions.
 

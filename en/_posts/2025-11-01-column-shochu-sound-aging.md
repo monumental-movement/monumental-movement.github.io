@@ -17,12 +17,12 @@ title: '[Column] Shochu grown by sound: The harmony of fermentation that resonat
 ## Prologue: On the island of the sound of waves and shochu
 
 
-Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Exploring its scientific basis and cultural background
+Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Explore its scientific basis and cultural background
 
 
 Amami Oshima, the farthest point of the Nansei Islands.
 On this island, brown sugar shochu is surrounded by the sun and sea breeze, and people are quietly ""listening'' to music.
-At night, the faint sounds of classical music, jazz, and island songs flow from the depths of the storage room, and alcohol molecules tremble inside the stainless steel tank.
+At night, classical music, jazz, and island songs play faintly from the depths of the storage room, and alcohol molecules tremble inside the stainless steel tank.
 They say that the sound makes the shochu softer.
 
 This is not just a romantic metaphor. The phenomenon that physical vibrations caused by sound waves aids in ripening and brings out the flavor is currently attracting attention.
@@ -53,10 +53,10 @@ In 1949 (Showa 24), when the Amami Islands were returned to Japan, a special exe
 This is the only shochu standard that allows the combination of brown sugar and rice malt, and has become a cultural heritage exclusive to the Amami Islands.
 
 > "Brown sugar shochu is made from Amami's soil, water, and wind."
-> —— From an interview with the brewer of Amami Oshima Kaiun Sake Brewery
+> —— Interview with the brewer of Amami Oshima Kaiun Sake Brewery
 
 A soft texture created by the minerality of brown sugar and the soft water of the island.
-It wasn't until the beginning of the 21st century that the idea of ​​using sound to enhance this natural blessing emerged.
+It wasn't until the beginning of the 21st century that the idea of ​​enhancing this natural blessing with sound emerged.
 
 ---
 
@@ -146,7 +146,7 @@ That day is approaching.
 | Years | Events |
 |------|---------|
 | 1600s | Sugarcane cultivation begins in Amami |
-| 1800s | Start of production of local shochu using brown sugar |
+| 1800s | Production of local shochu using brown sugar as raw material begins |
 | 1949 | Return of the Amami Islands to Japan, special approval for "brown sugar shochu" |
 | 2005 | Amami Oshima's first acoustically aged shochu test begins |
 | 2008 | Kagoshima University begins scientific research on acoustic maturation |
@@ -189,7 +189,7 @@ A small universe is playing inside the glass.
 
 ## Chapter 8: Comparison of acoustic experimental data
 
-Acoustic maturation makes a difference not only in sensory impressions but also in scientific data.
+Acoustic maturation makes a difference not only in sensory impressions, but also in scientific data.
 The graph below is visualized based on Kagoshima University joint research (2023) and experimental data from four Amami Oshima breweries.
 
 ### Comparison of acoustic maturation of each brewery (average value)
@@ -253,7 +253,7 @@ Among them, **4 breweries have introduced acoustic aging technology**, and all o
 <div class="mermaid">
 
 graph TD
-A[Amami Oshima] --> A1[Amami Oshima Kaiun Sake Brewery<br>🎶 Island song/taiko drum aging]
+A[Amami Oshima] --> A1[Amami Oshima Kaiun Sake Brewery<br>🎶 Shimauta/Taiko drum aging]
 A --> A2[Amami Brown Sugar Sake Brewery<br>🎷 Jazz Acoustics]
 A --> A3[Machida Sake Brewery (Sato no Akebono)<br>🌿 Natural sound aging]
 A --> A4[Amami Oshima Sake Brewery<br>🎻 Classical Acoustics]
@@ -276,8 +276,8 @@ E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024
 
 * **Amami Oshima**: Largest concentration of warehouses. The birthplace of acoustic maturity.
 * **Kikaijima**: Features a unique mineral feel made using hard water.
-* **Tokunoshima/Okinerabujima**: Research into sea breeze aging and low-temperature fermentation is progressing.
-* **Yoronjima**: Culturally, it exists somewhere between Okinawa's awamori.
+* **Tokunoshima/Okinerabujima**: Research on sea breeze aging and low-temperature fermentation is progressing.
+* **Yoron Island**: Culturally, it exists somewhere between Okinawa's awamori.
 
 ---
 
@@ -291,7 +291,7 @@ Acoustic maturation is not just a "device";
 **This is the "resonance of the island" where the topography itself becomes an instrument**.
 
 > "Amami is an island like one giant speaker.
->The wind plays a low pitch, the waves play a medium pitch, and the voices of insects play a high pitch. "
+>The wind plays a low pitch, the waves play a medium pitch, and the insects' voices play a high pitch. "
 > —— Machida Sake Brewery・Torji talk
 
 ---

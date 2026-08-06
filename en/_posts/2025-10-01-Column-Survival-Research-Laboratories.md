@@ -8,7 +8,7 @@ layout: post
 tags:
 - Art
 - Experimental
-title: '[Column] Survival Research Laboratories (SRL): Pioneer of mechanical art'
+title: '【コラム】 Survival Research Laboratories（SRL）: 機械芸術の先駆者'
 ---
 
 
@@ -44,7 +44,7 @@ SRL performances consist of ritualized interactions with machines, robots, and s
 
 - **Illusions of Shameless Abundance (1989)**: Set in San Francisco's SOMA district, a flaming piano, rotten food, fire-breathing robots and fake sculptures resembling explosives lead to beach closures and the dispatch of bomb squads.
 
-- **The Unexpected Destruction of Elaborately Engineered Artifacts (1997)**: Takes place in Austin, Texas and features robots, flamethrowers, and V-1 jet engines.
+- **The Unexpected Destruction of Elaborately Engineered Artifacts（1997年）**：テキサス州オースティンで行われ、ロボット、火炎放射器、V-1ジェットエンジンが登場しました。
 
 ---
 
@@ -53,7 +53,7 @@ SRL performances consist of ritualized interactions with machines, robots, and s
 
 #### Mark Pauline
 
-Role: Founder (1978-present)/Artistic Director
+役割：創設者（1978年〜現在）／芸術監督
 
 Background: Graduated from California Institute of the Arts (SFAI). When he was young, he lost his right hand in an explosives accident and was fitted with a prosthetic arm. From this experience, he deepened his expression on the theme of "danger and machinery."
 
@@ -67,7 +67,7 @@ Currently: Leads SRL from its base in Petaluma, California.
 
 Role: Sound design, mechanical music (mainly from 1980s to 1990s)
 
-Achievements: Converting robots into musical instruments, making it possible to compose and perform music by machines. Later, he became independent and formed "Mechanical Sound Orchestra (MSO)".
+Achievements: Converting robots into musical instruments, enabling machines to compose and perform music. Later, he became independent and formed "Mechanical Sound Orchestra (MSO)".
 
 Influence: Established SRL's sound that lies between "noise and music".
 
@@ -98,7 +98,7 @@ Amy Critchett: Producer/management support.
 
 Karen Marcelo: Serves as a bridge between hacker culture and organizes "dorkbot SF."
 
-Alan Rath: Early member. He later gained acclaim for his unique electronic sculptures.
+Alan Rath：初期メンバー。後に独自の電子彫刻で評価を得る。
 
 Gilles Larrain: Collaboration on video and photo records.
 
@@ -109,8 +109,8 @@ Gilles Larrain: Collaboration on video and photo records.
 <div class="mermaid">
 flowchart TD
     A[Mark Pauline<br>Founder/Artistic Director] --> B[Matt Heckert<br>Sound/Mechanical Music]
-    A --> C[Eric Werner<br>Robotics Engineer]
-    A --> D[Joe Grand<br>Electronic Design/Control]
+    A --> C[Eric Werner<br>ロボットエンジニア]
+    A --> D[Joe Grand<br>電子設計/制御]
     A --> E[Amy Critchett<br>Produced]
     A --> F[Karen Marcelo<br>Hacker Culture Collaboration]
     A --> G[Alan Rath<br>Electronic Sculptor]
@@ -125,7 +125,7 @@ SRL also releases DVDs and albums containing acoustic experiences of performance
 
 | Title | Description | Link |
 | --------------------------- | ------------ | ----------- |
-| Survival Research Laboratories | DVD Premium BOX Iron Case Specifications | [Amazon](https://amzn.to/3KyG0o2) |
+| Survival Research Laboratories | DVD premium BOX iron case specifications | [Amazon](https://amzn.to/3KyG0o2) |
 | Survival Research Laboratories | Contains live recordings from 1992 to 1998.                   | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
 
 
@@ -144,9 +144,9 @@ SRL is a pioneering fusion of robotics, performance art, and sociopolitical sati
 
 Survival Research Laboratories (SRL) was founded in San Francisco in 1978 by Mark Pauline. SRL is known for its artistic reinterpretation of industrial, military, and science and technology, and its performances using machines and robots. Early performances included ""Machine Sex" (1979) and ""Illusions of Shameless Abundance" (1989), which made a strong impression on audiences.
 
-#### Relocation and new base (2007-present)
+#### 移転と新たな拠点（2007年〜現在）
 
-In 2007, SRL moved to Petaluma, about an hour north of San Francisco. This move was made with 180 tons of equipment being moved due to rising rents for the San Francisco warehouse. Today, SRL is located at 839 N. Petaluma Blvd in Petaluma, where they build machines and prepare for performances in a large garage.
+In 2007, SRL moved to Petaluma, about an hour north of San Francisco. The move was made with 180 tons of equipment being moved due to rising rents at the San Francisco warehouse. Today, SRL is located at 839 N. Petaluma Blvd in Petaluma, where they build machines and prepare for performances in a large garage.
 
 #### Current activities and prospects
 
@@ -165,7 +165,7 @@ SRL continues to perform using machines and robots, and in recent years has part
 ---
 
 
-### Conclusion
+### 結論
 
 Survival Research Laboratories is an innovative group that questions the relationships between machines and humans, technology and art, and order and chaos. Their work offers a sharp critique of the role and influence of technology in modern society through visual and auditory shocks. SRL's activities will continue to provide inspiration to many artists and engineers.
 

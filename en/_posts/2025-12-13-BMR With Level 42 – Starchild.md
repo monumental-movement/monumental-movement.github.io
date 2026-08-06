@@ -13,7 +13,7 @@ title: BMR With Level 42 – Starchild
 ---
 
 
-BMR is a project by DJ and producer Boris Dlugosch and Michi Lange, who are also known as pioneers of German house.
+BMR is a project by Michi Lange and DJ and producer Boris Dlugosch, who is also known as a pioneer of German house.
 
 Level 42 is a British fusion pop band known for their songs ""Something about you" and ""Lessons in love."
 

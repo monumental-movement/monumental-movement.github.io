@@ -16,7 +16,7 @@ title: '[Column] Boundary history of performance art and music | Practices since
 
 
 
-## Prologue: When did sound become "action"?
+## Prologue: When did sound become an "action"?
 
 Text: mmr｜Theme: A long-form study that traces the history of how performance art and music have intersected and redefined the body, time, and space, based only on facts.
 
@@ -49,9 +49,9 @@ color: #fff;
 
 In Italy at the beginning of the 20th century, rapid industrialization and urbanization were changing people's sensory environment. The sounds of steam engines, internal combustion engines, and factories filled the city with a sound pressure and persistence that was unimaginable in music up until then. Futurist artists saw this change as progress rather than decadence, and actively tried to affirm it from the artistic side.
 
-The intonalmoli, conceived by Luigi Russolo, is a device that focuses on the timbre and texture of noise rather than pitch. The act of playing by turning a handle and operating a lever was more like operating a machine than playing a musical instrument, and it made a strong visual impression. The audience hears the sounds and at the same time witnesses the performers' physical movements.
+The intonalmoli, conceived by Luigi Russolo, is a device that focuses on the timbre and texture of noise rather than the pitch. The act of playing by turning a handle and operating a lever was more similar to operating a machine than to playing a musical instrument, and it made a strong visual impression. The audience hears the sounds and at the same time witnesses the performers' physical movements.
 
-Already here, music was presented not as something that could only be heard, but as an entire act on stage.
+Already here, music was presented not as something that could only be heard by the ears, but as an entire act on stage.
 
 > The act of bringing noise into music redefined the very concept of performance.
 
@@ -59,9 +59,9 @@ Already here, music was presented not as something that could only be heard, but
 
 ## Chapter 2: Introduction to Dada and Chance
 
-Dada activities do not have a unified style or technique. Instead, what was shared was a distrust of the existing value system. At a soirée at the Cabaret Voltaire, poetry readings turned into shouts, music dissolved into noise, and sudden physical movements interjected.
+Dada activities do not have a unified style or technique. Instead, what was shared was a distrust of the existing value system. At the soirée at the Cabaret Voltaire, poetry readings turned into shouts, music dissolved into noise, and sudden physical movements interjected.
 
-Importantly, these were not rigorously designed in advance. The chain of coincidences, the performer"s mood, and the audience"s reactions became the compositional elements of the work. Music is no longer an object to be reproduced, but is generated as an ad hoc event.
+Importantly, these were not rigorously designed in advance. The chain of coincidences, the performer"s mood, and the audience"s reactions became the compositional elements of the piece. Music is no longer an object to be reproduced, but is generated as an ad hoc event.
 
 This attitude later became the prototype for open structures in improvised music and performance art.
 
@@ -71,7 +71,7 @@ This attitude later became the prototype for open structures in improvised music
 
 ## Chapter 3: John Cage and the Turning Point of Silence
 
-John Cage fundamentally challenged the premise that the composer is the subject of music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
+John Cage fundamentally challenged the premise that the composer is the main person who composes music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
 
 This structure shifted the center of gravity from the act of ""creating" music to the act of ""listening." A work is created not by its sonic content, but by its time frame and how it directs attention.
 
@@ -107,7 +107,7 @@ In this structure, sound is an extension of the body, and the body becomes an in
 
 ## Chapter 6: Resonance of experimental music and performance
 
-In the field of experimental music, the continuity and state of concentration of the performance act were treated as part of the work, as well as the acoustic structure. Phrases that are repeated over long periods of time or structures that only undergo slight changes place a strong strain on the performer's body.
+In the field of experimental music, the continuity and state of concentration of the performance act were treated as part of the work, as well as the acoustic structure. Phrases that are repeated for long periods of time or structures that only undergo slight changes place a strong strain on the performer's body.
 
 While the audience waits for the sound to change, they also pay attention to the performer's posture, breathing, and eye movements. The musical experience changes from an auditory-centered appreciation to an experience of sharing time.
 
@@ -141,9 +141,9 @@ On the dance floor, individual bodies synchronize to the rhythm and form a colle
 
 ## Chapter 9: Museums/Festivals and Hybridization
 
-In the 21st century, the functional differences between museums and music festivals have rapidly narrowed. Sound works performed in exhibition spaces are presented as timed performances, and images and spatial design are prerequisites for music events.
+In the 21st century, the functional differences between museums and music festivals have rapidly narrowed. Sound works performed in exhibition spaces are presented as timed performances, and visuals and spatial design are prerequisites for music events.
 
-The audience not only ""appreciates'' the work, but completes the experience by staying in the place and placing their bodies there. The genre classification is merely a matter of operational convenience; the experience design is the core of the work.
+The audience not only ""appreciates'' the work, but also completes the experience by staying in the place and placing their bodies there. The genre classification is merely a matter of operational convenience; the experience design is the core of the work.
 
 > The boundaries have not disappeared, but the focus of the question has shifted.
 

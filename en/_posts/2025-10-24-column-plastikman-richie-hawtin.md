@@ -73,15 +73,15 @@ An album released by Richie Hawtin under the alias Plastikman on the NovaMute la
 10. Lasttrak
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/By3uKp_-kkE?si=askNThkCqlBgstK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chapter 3: "Consumed" – The aesthetics of "silence"
-1998's _Consumed_ is an outlier in the history of techno. The BPM is slow and the rhythm is no longer a drum, but a low frequency sound like breathing.
+## 第3章：『Consumed』― 〈沈黙〉の美学
+1998's _Consumed_ is a heresy in the history of techno. The BPM is slow and the rhythm is no longer a drum, but a low frequency sound like breathing.
 This work, which seems to float in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
 
 With this work, Hawtin becomes the first artist to equate "minimalism" with "nihility." Plastikman's minimalism was not an omission, but a strategy of silence that highlighted the contours of existence.
@@ -92,7 +92,7 @@ With this work, Hawtin becomes the first artist to equate "minimalism" with "nih
 Hawtin also pioneered the fusion of technology and performance.
 In the 2000s, he **redefined DJ play** with the "DE9" series, establishing the ""**prototype of digital DJ**'' that used Ableton Live and Traktor to reconstruct tracks in real time.
 
-On his stage, an environment was constructed in which MacBook, MIDI controller, lighting, and video were completely synchronized, presenting a new concept of ""live = breathing data''.
+彼のステージには、MacBook、MIDIコントローラ、そして照明・映像が完全同期する環境が構築され、**“ライブ＝データの呼吸”**という新しい概念を提示した。
 
 ---
 
@@ -110,7 +110,7 @@ His minimalism evolved, completely dissolving the boundaries between music and a
 Plastikman"s genes permeate Villalobos, Donato Dozzy, Cio D"Or, and the modern modular scene.
 ""Pleasure of structure," ""introspection of sound," and ""temporization of space'' -- these elements now form the basis of techno.
 
-In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground as a dialogue between piano and minimalism. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
+特に『Consumed in Key』（2022、コラボ：Chilly Gonzales）は、**ピアノとミニマルの対話**という新境地を開いた。Plastikmanが再び「人間性と無機性の境界線」を撫でる瞬間だった。
 
 ---
 
@@ -125,18 +125,18 @@ Plastikman's true philosophy is his continued transformation of music, the body,
 ## Chapter 8: DE9 Series - Digital DJ Revolution
 
 ### 1. Introducing DE9
-In 2001, Plastikman released DE9: Closer to the Edit.
+2001年、Plastikmanは『DE9: Closer to the Edit』をリリース。  
 Traditional DJ mixes rely on track order and fades, but here Hawtin uses waveform-level editing and restructuring.
 By splitting each track into tiny samples and rearranging the minimal pulses, we created a completely new timeline of dance music.
 
 ### 2. Technological innovation
 - Real-time processing using **Ableton Live/Traktor**
-- Instant reflection of effect operations via MIDI control
-- Concept of "editing = performance" in sample units
-As a result, the DJ's physical manipulation changed to the act of playing acoustic material rather than playing the music itself.
+- MIDI制御によるエフェクト操作の即時反映  
+- サンプル単位での“編集＝演奏”の概念  
+これにより、DJの身体操作が**楽曲自体を再生するのではなく、音響の素材を演奏する行為**へと変化した。
 
-### 3. Musical significance
-The DE9 series is not just a mix CD, but also functions as a recording of a live performance = new song.
+### 3. 音楽的意義
+DE9シリーズは単なるミックスCDではなく、**ライブパフォーマンスの録音＝新曲**として機能する。  
 - Closer to the Edit (2001): Cold mechanical precision
 - "DE9: Transitions" (2005): Visualization of effect processing
 - "DE9: Closer to the Edit 2.0 / Live" (2019): Fusion of modular and digital
@@ -145,25 +145,25 @@ The DE9 series is not just a mix CD, but also functions as a recording of a live
 
 ---
 
-## Chapter 9: Minus label history - minimalist testing ground
+## Chapter 9: Minus Label History - Minimalist Testing Ground
 
 ### 1. Established Minus
 In 1998, Plastikman founded his own label, **Minus**.
-The goal was "**a space where you can experiment with sounds stripped down to their limits**."
-Minus is characterized by respecting the individuality of the artist while maintaining a sense of unity in the philosophical direction of music.
+目指したのは「**極限まで削ぎ落としたサウンドを実験できる空間**」。  
+Minusはアーティストの個性を尊重しつつも、**音楽の哲学的方向性**に統一感を持たせた点が特徴である。
 
 ### 2. Representative works and artists
-- Richie Hawtin (also known as Plastikman)
+- Richie Hawtin（Plastikman名義を含む）  
 - Villalobos
 -Magda
 - Gaiser
 
 Minus was more than just a distribution platform, it functioned as a place to embody the idea of ​​minimal techno.
 
-### 3. Label influence
+### 3. レーベルの影響
 - **A fusion of live sets and releases**: digitally reconstructable sound sources
 - **Aesthetics of sound blank space**: Experimenting with "how to use blank space"
-- **International influence**: Direct influence on club scenes in Berlin, Germany and Tokyo
+- **国際的影響力**: ドイツ・ベルリンや東京のクラブシーンに直接波及
 
 > Minus is an ""acoustic laboratory"' to pass on Plastikman"s musical philosophy to the next generation.
 
@@ -174,8 +174,8 @@ Minus was more than just a distribution platform, it functioned as a place to em
 <div class="mermaid">
 
 flowchart TD
-    A[DE9 series] -->|real-time editing| B[Minus label works]
-    B --> C[modern minimalist artist]
+    A[DE9シリーズ] -->|real-time editing| B[Minusレーベル作品]
+    B --> C[現代ミニマルアーティスト]
     C --> D[global club scene]
     A --> E[Redefining DJ expression]
     E --> D
@@ -185,12 +185,12 @@ flowchart TD
 ---
 
 
-## DE9 series detailed analysis
+## DE9シリーズ詳細解析
 
 ### 1. DE9: Closer to the Edit (2001)
 - **Concept**: An innovative work that re-edits the track waveform sample by sample to give it live performance potential.
 - **Representative track analysis**:
-- *Spastik* : Super fast loop of continuous hi-hats. In the waveform diagram, you can see how the pulse density gradually changes.
+  - *Spastik* : 連続するハイハットの超高速ループ。波形図ではパルスの密度が徐々に変化する様子が確認できる。
 - *Minus/Orange*: Low-frequency reverberation expands the space. Although the waveform is periodic and regular, the minute noise creates a physiological sensation.
 - **Illustration example**:
 
@@ -222,7 +222,7 @@ graph TD
 
 ### 3. DE9: Closer to the Edit 2.0 / Live (2019)
 
-- **Concept**: A fusion of modular synth and digital editing. Expanding the concept of "performance = editing" that rearranges sounds in real time.
+- **コンセプト**: モジュラーシンセとデジタル編集の融合。リアルタイムで音を組み替える「演奏＝編集」概念を拡張。
 
 - **Representative track analysis**:
 - *Akufen Rework*: Generate rhythm in extremely small units by layering minute samples.
@@ -277,7 +277,7 @@ timeline
 
 ---
 
-## Final chapter: Hawtin as a sound sculptor
+## 終章：音の彫刻家としてのHawtin
 
 Plastikman is the key to techno going "inside" instead of "outside".
 This was not a dismantling of club music, but a reconstruction of the rhythm that resonates within the body, and an exploration of the fundamental question of music: ""What does it mean to listen?''
@@ -294,18 +294,18 @@ This is because he knows better than anyone that just one rotation can change th
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musik** EP | The pinnacle of Acid Techno under the name Plastikman. |
 | 1998 | Plastikman | **Minus** EP | The first installment of Minus. Extreme minimal sound. |
-| 1999 | Magda | **Track 1** | Dark minimalist test piece.             |
+| 1999 | Magda         | **Track 1**                 | 暗黒ミニマルの試験作。             |
 | 2000 | Richie Hawtin | **EX/EP** | Live remix before DE9.         |
 | 2001 | Plastikman | **DE9: Closer to the Edit** | Digital DJ revolution.               |
-| 2003 | Villalobos | **Allez-Allez** | Early Berlin influence from Minus.       |
-| 2005 | Plastikman | **DE9: Transitions** | Structuring with an emphasis on effects.            |
+| 2003 | Villalobos    | **Allez-Allez**             | Minusからの初期ベルリン影響。       |
+| 2005 | Plastikman    | **DE9: Transitions**        | エフェクト重視の構造化。            |
 | 2006 | Gaiser | **EP1** | Exploration of minimal techno.            |
 | 2010 | Plastikman | **Live Set** | Lively embodies Minus' philosophy.        |
 | 2014 | Plastikman | **EX** | Installation at Tate Modern. |
-| 2019 | Plastikman | **DE9: 2.0 / Live** | Modular + digital editing.           |
+| 2019 | Plastikman    | **DE9: 2.0 / Live**         | モジュラー＋デジタル編集。           |
 
 
-> The Minus label is a testing ground for Plastikman's ideas, a platform that allows artists the freedom to explore sonic freedom.
+> The Minus label is a testing ground for Plastikman's ideas, a platform that allows artists the freedom to explore their sonic freedom.
 
 
 ---
@@ -315,9 +315,9 @@ This is because he knows better than anyone that just one rotation can change th
 <div class="mermaid">
 
 flowchart TD
-    A[DE9 series] -->|Waveform unit editing| B[Minus label works]
+    A[DE9 series] -->|波形単位編集| B[Minus label works]
     B --> C[Innovation in live expression]
-    C --> D[modern minimal scene]
+    C --> D[現代ミニマルシーン]
     B --> E[Influence on a new generation of artists]
     A --> F[Redefining DJ expression]
     F --> D

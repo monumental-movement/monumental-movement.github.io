@@ -13,10 +13,10 @@ title: '[Column] Glitch: When noise turns into beauty'
 ---
 
 
-## The pleasure of error
+## エラーという快楽
 
 
-Text: mmr｜Theme: The moment when error turns into beauty. Glitch culture, born from digital fraying, reflects the "broken aesthetic" of the 21st century. A feature-length cultural theory about music, images, and fragments of society.
+文：mmr｜テーマ：エラーが美に変わる瞬間。デジタルのほころびから生まれたGlitch文化は、21世紀の“壊れた美学”を映し出す。音楽、映像、そして社会の断片をめぐる長編文化論
 
 
 A quiet computer screen late at night. The image that is being rendered suddenly breaks into pieces and pixels go out of control.
@@ -24,13 +24,13 @@ Suddenly, in that ""broken moment,'' I find myself feeling beautiful.
 That was the beginning of **Glitch**.
 
 In the past, "error" was something that should be eliminated. But now, errors have become "expressions."
-In the small flaws that occur within a perfect system, we find something nostalgic about our humanity.
+We find a nostalgic sense of humanity in the small flaws that occur within a perfect system.
 Glitch is the aesthetic language of the 21st century, a poem born at the moment when technology reveals its limitations.
 
 ---
 
 
-### Sound of Glitch: The day noise became music
+### Sound of Glitch：ノイズが音楽になった日
 
 In the early 1990s, Germany's **Oval** intentionally scratched the surface of a CD and recorded the moment when the player could no longer read it.
 That irregular clicking sound, intermittent rhythm due to missing data.
@@ -41,12 +41,12 @@ Although it was a "sound of error," it was strangely organic and somehow warm.
 ---
 
 Around the same time, **Ryoji Ikeda** and **Alva Noto** used DSP processing to hone sine waves and noise particles to the limit.
-Programming environments such as Max/MSP and SuperCollider actively introduce accidental bugs and randomness into music.
+Max/MSPやSuperColliderといったプログラム環境は、偶発的なバグやランダム性を積極的に音楽に取り込む。  
 This trend blossomed in the early 2000s as the **Clicks & Cuts** movement, reinventing the aesthetics of electronic music.
 
-Glitch was a technique for converting the ""coincidence fluctuations'' produced by digital devices into poetic rhythms.
-The fact that the sound "breaks" is no longer a failure.
-It is the emergence of a new order.
+Glitchは、デジタル機器が生む「偶然のゆらぎ」を、詩的なリズムへと変換する術だった。  
+音が“壊れる”ということは、もはや失敗ではない。  
+それは、**新しい秩序の出現**なのだ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6E6_fzGfBfU?si=I0HTJWmH8-krFaEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -54,34 +54,34 @@ It is the emergence of a new order.
 
 ### Glitch Visuals: The moment a pixel breaks
 
-Glitch has also been quietly gaining popularity in the world of film.
+映像の世界でも、Glitchは静かに浸透していった。  
 A technique called **datamosh** intentionally destroys the compressed data of a video, creating a strange sequence of frames that seem to blend together.
-Lost pixels change shape like fluid, blurring the boundaries between reality and unreality.
+失われたピクセルが流体のように形を変え、現実と非現実の境界を曖昧にする。
 
 As media artist **Rosa Menkman** writes in ""The Glitch Moment(um)'':
-> "Glitch is an aesthetic that exposes the invisible structures of media."
+> “Glitchは、メディアの見えない構造を暴き出す美学である。”
 
 For her, an error is not just a breakdown, but a momentary "self-disclosure" in which a system reveals itself.
-We are used to seeing perfect images.
+私たちは普段、完璧な画像を見慣れている。  
 That's why the unstable beauty created by JPEG corruption and signal noise feels somehow human.
 
-Glitch has also permeated fashion and advertising.
+Glitchはファッションや広告にも浸透した。  
 The method of incorporating the disordered pixels into a design took the street culture by storm in the late 2010s as "broken design."
-We are finally able to enjoy the fact that it is not perfect, and that even digital has "noise".
+完璧ではないこと、デジタルにも“ノイズ”が宿ることを、私たちはようやく楽しめるようになったのだ。
 
 ---
 
-### Glitch as philosophy
+### 哲学としてのGlitch
 
-So why are we attracted to "broken things"?
+では、なぜ私たちは「壊れたもの」に惹かれるのか。  
 Philosophically speaking, it is a yearning for the uncontrollable.
 
 Heidegger called the essence of technology the "disclosure of being."
-Glitch is exactly the moment when technology exposes its own "limitations" - in other words, the world rips apart.
+Glitchとはまさに、テクノロジーが自身の“限界”を暴露する瞬間——つまり、世界の裂け目だ。  
 People find beauty in the "different order" that peeks through the gaps.
 
-Glitch is also an aesthetic of **generativity**.
-Unexpected coincidences intervene in an algorithm that operates under complete control.
+Glitch is also an aesthetic of **Generation**.
+Unexpected chance intervenes in an algorithm that operates under complete control.
 Humans find life-like reality in this "uncertainty."
 
 A landscape that can only be seen by losing control.
@@ -91,15 +91,15 @@ This is where modern creativity resides.
 
 ### Glitch in Society: Noise running through social systems
 
-Glitch isn't just about art.
-It is also a metaphor that reflects the very structure of society.
+Glitchは芸術だけの問題ではない。  
+It is also a ""metaphor'' that reflects the very structure of society.
 
 "Bug-like phenomena" caused by SNS algorithms—sudden spread of information, flare-ups, and misrecognition.
 "Hallucination" generated by AI—a world where reality and fiction intermingle.
-These are all **structural glitches** of digital society.
+これらはすべて、デジタル社会の**構造的Glitch**だ。
 
 The emergence of NFT art is also a noise that has changed the concept of "ownership" in the age of digital reproduction.
-Although data should be able to be copied infinitely, it redefines scarcity as a "one-of-a-kind item."
+データは無限にコピーできるはずなのに、「一点もの」としての希少性を再定義する。  
 Contradictions continue to exist as contradictions—that's what Glitch is all about.
 
 Society will become increasingly "optimized."
@@ -113,13 +113,13 @@ That's why we feel a sense of freedom in unintentional bugs and noises.
 Glitch's reception in Japan was accompanied by a unique sensibility.
 Glitch pop developed by **Seiho** and **Tatsuro Kojima** in club culture.
 It was an attempt to incorporate noise into the structure of pop.
-On the other hand, media artists such as **Daito Manabe** and **evala** designed the acoustic space itself as a "visualized Glitch."
+一方、**真鍋大度**や**evala**らメディアアーティストは、音響空間そのものを“可視化されたGlitch”として設計した。
 
 This aesthetic is deeply embedded in anime and video works as well.
 Bug effects seen in "Cyber ​​Coil", "Ghost in the Shell SAC_2045", and "EVA:3.0+1.0"——
 It has become a device that symbolizes the ""fluctuation of cognition'' in an information-overloaded society.
 
-And now, in a night club in Tokyo,
+そして今、東京の夜のクラブでは、  
 Fragments of sound made up of broken samples echo like the heartbeat of the city itself.
 Glitch has gone beyond the boundaries of art and has become our "everyday sound."
 
@@ -131,11 +131,11 @@ Being "broken" is no longer special.
 We live in an era where AI generates "simulated bugs" and designs noise.
 How do humans create "coincidence" in a perfectly controlled simulation?
 
-Post-Glitch is the aesthetics of an era where even things that break are designed.
+Post-Glitchとは、壊れることすらデザインされる時代の美学だ。  
 In this world, errors are also a language, and the ""fictional noise'' produced by generative AI becomes a new kind of poetry.
 
-Perhaps we live in this "bug-filled world".
-I"m sure I"ll become more and more attached to it.
+おそらく、私たちはこの“バグだらけの世界”に、  
+ますます愛着を抱いていくのだろう。  
 Because Glitch is who we are.
 A perfect and impossible existence. An existence that continues to move despite its contradictions and noises.
 Humans themselves are the biggest glitch.
@@ -143,9 +143,9 @@ Humans themselves are the biggest glitch.
 
 ---
 
-### Conclusion: Hope inside the bug
+### 結語：バグの中にある希望
 
-The world continues to fall apart.
+世界は壊れ続けている。
 Our networks, our cities, and ourselves.
 Even so, a certain rhythm and color are still alive within these fragments.
 
@@ -156,7 +156,7 @@ It is a modern poem that attempts to exist beautifully despite the noise.
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FniwgK-74jo?si=_brp__HGK7NkhRsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -166,7 +166,7 @@ It is a modern poem that attempts to exist beautifully despite the noise.
 
 ### Appendix: Glitch Culture Archive
 
-#### Chronology — Glitch's music, video, and thought history (1990–2025)
+#### 年表 — Glitchの音楽・映像・思想史（1990–2025）
 
 <div class="mermaid">
 
@@ -174,11 +174,11 @@ flowchart TD
     A1990["1990: Experimental music using CD noise as material (Oval) appears"]
     A1995["1995: Announcement of Ryoji Ikeda's "+/-" — Establishment of digital acoustic aesthetics"]
     A2000["2000: Clicks & Cuts movement start (Mille Plateaux)"]
-    A2004["2004: Alva Noto & Ryuichi Sakamoto's "Vrion" released"]
-    A2010["2010: Rosa Menkman"s "The Glitch Moment(um)' published"]
-    A2013["2013: Arca's &&&&&' released — fusion of Glitch and physicality"]
+    A2004["2004：Alva Noto & Ryuichi Sakamoto『Vrioon』リリース"]
+    A2010["2010：Rosa Menkman『The Glitch Moment(um)』刊行"]
+    A2013["2013：Arca『&&&&&』発表 — Glitchと身体性の融合"]
     A2020["2020: Expanding the expression of "simulated bugs" in the age of AI art"]
-    A2025["2025: Toward the Post-Glitch era—-Philosophy of error becomes everyday"]
+    A2025["2025：Post-Glitch時代へ——エラーの哲学が日常化"]
 
     A1990 --> A1995 --> A2000 --> A2004 --> A2010 --> A2013 --> A2020 --> A2025
 
@@ -204,15 +204,15 @@ color: #fff;
 
 
 
-#### Glitch must-listen discography
+#### Glitch必聴ディスコグラフィー
 
 | Year | Artist | Title of work (Amazon link) | Notes |
-| ---- | -------------- | ---------------------------------------------------------------- | --------------- |
+| ---- | -------------- | ------------------------------------------------------------- | --------------- |
 | 1995 | Oval | [94diskont](https://amzn.to/47k6D9b) | Monument of "CD Kuon" |
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | The pinnacle of minimal acoustics |
 | 2000 | Various Artists | [Clicks & Cuts Vol.1](https://amzn.to/4q4epvc) | The origin of the Glitch movement |
 | 2004 | Alva Noto + Ryuichi Sakamoto | [Vrion](https://amzn.to/4ofoSlO) | Resonance of piano and digital |
-| 2013 | Arca | [&&&&&](https://amzn.to/42ACorW) | Fusion of bug and body |
-| 2022 | Seiho | [CAMP](https://amzn.to/4n5hF74) | Evolution of Japanese glitch pop |
+| 2013 | Arca | [&&&&&](https://amzn.to/42ACorW) | Fusion of bug and flesh |
+| 2022 | Seiho                        | [CAMP](https://amzn.to/4n5hF74)                | 日本的グリッチ・ポップの進化  |
 
 

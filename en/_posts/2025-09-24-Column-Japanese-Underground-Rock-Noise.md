@@ -41,9 +41,9 @@ color: #fff;
 
 ### Japanese underground craze
 
-[**Fushitsusha**](https://amzn.to/4mBoM6K) led by Keiji Haino, Masami Akita"s [**Merzbow**](https://amzn.to/46qEmxw), Ai Yamazuka and Seiichi Yamamoto"s [BOREDOMS](https://amzn.to/4nKFfGO), [Incapacitors](https: Groups like //amzn.to/3IsJjwx) and [Violence Onsen Geisha](https://amzn.to/4gJWXbk) broke the boundaries of conventional rock and punk, creating a sonic world that combined noise and experimental spirit.
+[**Fushitsusha**](https://amzn.to/4mBoM6K) led by Keiji Haino, Masami Akita"s [**Merzbow**](https://amzn.to/46qEmxw), Ai Yamazuka and Seiichi Yamamoto"s [BOREDOMS](https://amzn.to/4nKFfGO), [Incapacitors](https: Groups like //amzn.to/3IsJjwx) and [Violence Onsen Geisha](https://amzn.to/4gJWXbk) broke the boundaries of traditional rock and punk, creating a sonic world that combined noise and experimental spirit.
 
-This period also saw the rise of indie labels, appearances at international festivals, and accelerated interactions with the American and European underground. Furthermore, cutting-edge activities were developed that influenced film and soundtrack production, as well as later **AI music generation**.
+This period also saw the rise of indie labels, appearances at international festivals, and accelerated interaction with the American and European underground. Furthermore, cutting-edge activities were developed that influenced film and soundtrack production, as well as later **AI music generation**.
 
 ---
 
@@ -53,7 +53,7 @@ This period also saw the rise of indie labels, appearances at international fest
 - **Merzbau**: While moving from analog equipment to laptop noise, it reflects animal rights and vegetarianism.
 - **Firefighter**: An existence that blurs the line between "noise band" and "performance art."
 - **Boredoms**: Fusing psychedelic and noise, influencing the American alternative scene.
-- **Melt-Banana**: "Nano Core" combines the speed of hardcore and the texture of noise.
+- **Melt-Banana**: "Nano Core" combines hardcore speed and noise texture.
 
 ---
 
@@ -89,13 +89,13 @@ This period also saw the rise of indie labels, appearances at international fest
 ### Emergency stairs
 
 - **Features**: The world's first "noise band". In addition to noise performances, they became legendary for their extreme performances (food throwing, sparks, naked dancing).
-- **Changes**: Started their activities in the 80"s, and recorded mainly live albums in the 90"s. Since the 2000s, he has developed experimental activities such as co-starring with idols.
+- **Changes**: Started their activities in the 80"s and recorded mainly live albums in the 90"s. Since the 2000s, he has developed experimental activities such as co-starring with idols.
 - **Anecdote**: The act of ""butchering a chicken'' during a live performance sparked a huge discussion in overseas media and was treated as a social scandal.
 
 | Album | Features | Links |
 |----------|------|--------------|
 | *Zoroku's Strange Disease* (1980) | Records of early violent noise | [Amazon](https://amzn.to/3ItXW2H) |
-| *Noise Densetsu* (2014) | All members of Merzbau and Incapacitors participate, session sound source with Hijikaido | [Amazon](https://amzn.to/3WbpsVI) |
+| *Noise Densetsu* (2014) | All members of Merzbau and Incapacitances participate, session sound source with Hijikaido | [Amazon](https://amzn.to/3WbpsVI) |
 
 ---
 
@@ -179,7 +179,7 @@ A4: Experimental sound gives a unique sense of tension to the video work, and pr
 
 ### summary
 
-Japanese underground rock and noise from the 1990s to the 2000s was not just a musical genre, but a cultural testing ground. Keiji Haino"s ceremonial performance, Merzbow"s technological evolution, Hijikadan"s destructive performance, Melt-Banana"s driving sensation, and Boredoms' psychedelic noise fusion are unique expressions that will remain in the history of world music.
+Japanese underground rock and noise from the 1990s to 2000s was not just a music genre, but a cultural testing ground. Keiji Haino"s ceremonial performance, Merzbow"s technological evolution, Hijikadan"s destructive performance, Melt-Banana"s driving sensation, and Boredoms' psychedelic noise fusion are unique expressions that will remain in the history of world music.
 
 ---
 

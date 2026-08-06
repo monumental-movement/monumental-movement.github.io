@@ -9,8 +9,7 @@ tags:
 - Techno
 - Detroit Techno
 - Minimal
-title: '[Column] From the origins of techno to the present - A chronological history
-  traced through famous records and equipment'
+title: 【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史
 ---
 
 
@@ -55,7 +54,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Roland TR-808 / TR-909 / TB-303
 - SH-101 / Juno-106
 - Yamaha DX7
--Akai S900/S950
+- Akai S900/S950
 - Atari ST + Cubase/Notator
 
 ---
@@ -66,7 +65,7 @@ The history of techno was born and evolved from the relationship between "cities
 - UK rave culture and clubbing
 
 **Masterpiece**
-- Underground Resistance – *X-101/X-102* (1991–)
+- Underground Resistance – *X-101 / X-102*（1991–）  
 - Aphex Twin – *Selected Ambient Works 85–92* (1992)
 - Basic Channel – *BCD* (1994)
 - Robert Hood – *Minimal Nation* (1994)

@@ -13,7 +13,7 @@ title: Various – Golden R&B
 ---
 
 
-"Various – Golden R&B" was released as part of Tamla Motown"s Golden Compact series.
+"Various - Golden R&B" was released as part of Tamla Motown's Golden Compact series.
 
 #### Tracklist
 ```md

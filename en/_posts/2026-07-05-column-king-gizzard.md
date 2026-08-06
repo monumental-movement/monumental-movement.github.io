@@ -10,8 +10,8 @@ tags:
 - Microtonal
 - Garage Rock
 - Metal
-title: '[Column] King Gizzard and the Lizard Wizard: A complete look at the modern
-  psychedelic universe where hyper-prolificity and experimentation intersect'
+title: '[Column] King Gizzard and the Lizard Wizard: An overview of the modern psychedelic
+  universe where hyper-prolificity and experimentation intersect'
 ---
 
 
@@ -21,7 +21,7 @@ Text: mmr｜Theme: King Gizzard's expanding sound universe born of extraordinary
 
 ### The meaning of abnormal creative density in modern times
 
-King Gizzard and the Lizard Wizard is a band from Melbourne, Australia that is said to have simultaneously pushed quantity and experimentation to their limits in the rock scene since the 2010s. They are not just a psychedelic rock band, but a "musical system" that continually deconstructs and reconstructs the genre itself.
+King Gizzard and the Lizard Wizard is a band from Melbourne, Australia that is said to have simultaneously pushed quantity and experimentation to their limits in the rock scene since the 2010s. They are not just a psychedelic rock band, but a kind of ""musical system'' that continually deconstructs and reconstructs the genre itself.
 
 From their early debut to the present, they have continued to set different rules for each work, crossing over garage rock, psychedelic, jazz, metal, electronic music, folk, and even minimal composition. The result was a paradoxical aesthetic in which ""change itself is style,'' rather than a unified style.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ### Accelerator born from the local scene in the early 2010s
 
-King Gizzard and the Lizard Wizard were formed in Melbourne in 2010. The central figure was Stu Mackenzie, and around him Ambrose Kenny-Smith, Joey Walker, Cook Craig, Lucas Skinner, and Michael Cavanagh joined, and the band expanded with a fluid structure.
+King Gizzard and the Lizard Wizard were formed in Melbourne in 2010. The central figure was Stu Mackenzie, and around him Ambrose Kenny-Smith, Joey Walker, Cook Craig, Lucas Skinner, and Michael Cavanagh joined, and the band expanded with a fluid composition.
 
 At the time, Melbourne was a hybrid of indie rock and psychedelic reinterpretation, with a small live house culture forming an extremely dense creative environment. In this environment, King Gizzard absorbed improvisation, prolificity, and a DIY spirit, forming the basis for producing multiple albums in a short period of time.
 
@@ -61,11 +61,11 @@ Their early work was an extension of lo-fi garage rock, but there were already h
 
 ### Non-linear strategy of multiple releases per year
 
-The most unique thing about King Gizzard is the speed of its production. Since the mid-2010s, they have continued to release multiple albums a year, completely deviating from the music industry's typical production cycle.
+The most unique thing about King Gizzard is the speed of its production. Since the mid-2010s, they have continued to release multiple albums per year, completely deviating from the music industry's typical production cycle.
 
 This prolificity is not just mass production. Each album is designed under a different set of rules, and the musical language changes with each work. For example, one piece may be based on microtonals, while another may focus on metal-like riff structures.
 
-A typical example is ""Nonagon Infinity," which has an ""infinite loop structure" where the last song is connected first. In addition, ""Flying Microtonal Banana'' introduces a unique tuning that incorporates the microtonal scale found in Turkish music.
+A typical example is ""Nonagon Infinity," which has an ""infinite loop structure" where the last song is connected first. ""Flying Microtonal Banana'' also introduced a unique tuning that incorporates the microtonal scale found in Turkish music.
 
 Furthermore, 2017's ""Polygondwanaland'' adopted the format of free distribution, experimenting with copyright and distribution models themselves.
 
@@ -145,10 +145,10 @@ Also, multiple instruments are changed on stage, and the roles of the members ar
 
 King Gizzard and the Lizard Wizard transcended the boundaries of indie rock and became a symbol of genre fluidity in contemporary music. Their influence extends beyond just musical style to production methods, release strategies, and artwork.
 
-Their presence is also leading to a redefinition of the concept of albums in the streaming era. In a music environment of short-term consumption, King Gizzard achieves "paradoxical sustainability through overproduction."
+Their presence is also leading to a redefinition of the album concept itself in the streaming era. In a music environment of short-term consumption, King Gizzard achieves "paradoxical sustainability through overproduction."
 
 They are also important in that they present a creative model that is not dependent on industrial structure through independent label management and independent production.
 
-> King Gizzard is an entity that continues to update not the music itself, but the "method of producing music".
+> King Gizzard is an entity that continues to update not the music itself, but the way music is produced.
 
 ---

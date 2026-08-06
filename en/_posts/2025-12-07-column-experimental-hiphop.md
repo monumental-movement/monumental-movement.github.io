@@ -19,7 +19,7 @@ title: '[Column] Experimental Hip Hop / Abstract Hip Hop reconstruction'
 
 Text: mmr｜Theme: History of beat experiments, sampling culture, and changes in major works
 
-Experimental Hip Hop and Abstract Hip Hop have developed as trends in hip hop that ""deconstruct and recompose forms.'' In the late '90s, there was a spirit of "structural destruction" presented by Company Flow and Anti-Pop Consortium, and in the 2000s and beyond, Flying Lotus, Shabazz Palaces, Busdriver, Milo, Clipping. and others pioneered their own aesthetics.
+Experimental Hip Hop and Abstract Hip Hop have developed as trends in hip hop that ""deconstruct and recompose forms.'' In the late '90s, there was a spirit of "structural destruction" presented by Company Flow and Anti-Pop Consortium, and in the 2000s and beyond, Flying Lotus, Shabazz Palaces, Busdriver, Milo, Clipping. and others pioneered their own unique aesthetics.
 
 In this article, we will summarize the history of beat experiments, sampling techniques, and developments after the LA beat scene based on facts. It also deals with the "swing/slip" culture after J Dilla and its contact with jazz/electronic music/club music, giving an overview of trends up to the 2020s.
 
@@ -74,7 +74,7 @@ The foundations of Experimental/Abstract Hip Hop were formed in the late 1990s.
 
 ---
 
-- An important role in the NY underground at the end of the 1990s.
+- An important role in the NY underground in the late 1990s.
 - Introducing noisy sounds, segmented rap and electronic music.
 - Expands the connection between electronic music and hip-hop by signing with Warp Records.
 
@@ -125,7 +125,7 @@ These created the musical ground that directly led to later Shabazz Palaces and 
 Shabazz Palaces was started around 2009, led by Ishmael Butler (formerly of Digable Planets).
 
 ### Features
-- A combination of West African percussion, psychedelia, ambient and experimental sound.
+- Construction combining West African percussion, psychedelia, ambient and experimental sound.
 - Rap is often melodic and cryptographic, and does not rely on the traditional 16-bar structure.
 - "Black Up" (2011) is a masterpiece of abstract hip-hop in the 2010s.
 
@@ -139,7 +139,7 @@ At the heart of experimental hip-hop since the 2000s is the ""reinvention of rhy
 
 ### ● Influence of J Dilla
 - The "humanized swing" and "drunk beat" found in 2006"s "Donuts" had a decisive influence on later generations.
-- His style of not completely following the grid, leaving intentional deviations and disturbances, permeated the LA beat scene and Flying Lotus' work.
+- His style of not completely following the grid, leaving intentional deviations and disturbances, permeated the LA beat scene and Flying Lotus' works.
 
 ### ● Structure of "Drunk Beat"
 - Kick and snare are a few milliseconds out of sequence.
@@ -171,7 +171,7 @@ This gave rise to a trend that focused on texture.
 
 ---
 
-## 7. Expansion since 2010s: Clipping. / Milo / Open Mike Eagle
+## 7. Extensions since 2010s: Clipping. / Milo / Open Mike Eagle
 
 ### ● Clipping. (2010~)
 
@@ -180,7 +180,7 @@ This gave rise to a trend that focused on texture.
 ---
 
 - Built under the influence of noise music and connecting experimental electronic music techniques to rap.
-- He introduces noise, harshness, and glitches into his beats, and his delivery is mathematically precise.
+- Introduces noise, harshness, and glitches into the beat, and the delivery is mathematically precise.
 
 ---
 
@@ -268,10 +268,10 @@ flowchart TD
 
 ## 12. Conclusion: Experimental / Abstract What is Hip Hop?
 
-Experimental/Abstract Hip Hop is not just a derivative genre of hip hop, but an intellectual project that deconstructs rhythmic structures, narratives, sample culture, and electronic music approaches, and continues to this day.
+Experimental/Abstract Hip Hop is not just a "subgenre" of hip hop, but an intellectual project that deconstructs rhythmic structures, narratives, sample culture, and electronic music approaches, and continues to this day.
 
 The multi-layered electronic music of Flying Lotus, the abstract rap poetry pioneered by Shabazz Palaces, the non-linear swing of J Dilla, the noise experiments of Clipping.
-They continue to function as "laboratories for the future of hip-hop."
+They continue to function today as a "laboratory for the future of hip-hop."
 
 ---
 

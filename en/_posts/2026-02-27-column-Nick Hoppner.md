@@ -82,7 +82,7 @@ D --> E[international distribution]
 
 Berghain's resident DJs are more than just guests. They are assigned to set for long periods of time, and it is necessary to read their psychological state at each time of day.
 
-Höppner's playing tends to emphasize sustained grooves rather than sudden peaks. The BPM range spans from house to techno, with smooth transitions.
+Höppner's playing tends to emphasize sustained grooves rather than sudden peaks. The BPM range ranges from house to techno, with smooth transitions.
 
 ### Structure for assembling the floor
 
@@ -90,15 +90,15 @@ His set structure can be organized into three layers.
 
 1. Rhythm stabilization
 2. Introducing harmony and chords
-3. Texture density adjustment
+3. テクスチャの密度調整
 
-This is a design that values ​​the passage of time itself rather than momentary excitement.
+これは瞬間的な盛り上がりよりも、時間の経過そのものを価値化する設計である。
 
 <div class="mermaid">
 graph TD
-A[low density groove] --> B[Midrange filling]
+A[low density groove] --> B[中域の充填]
 B --> C[harmony expansion]
-C --> D[scrape it off again]
+C --> D[再び削ぎ落とす]
 </div>
 
 > Floors are formed by persistence, not explosions.
@@ -119,13 +119,13 @@ The album ""Folk" released by Ostgut Ton in 2015 is a work that explores the bal
 
 The track is not a linear peak structure, but is designed to embed subtle changes within the repetition.
 
-> Acoustic philosophy is to decide which sounds should not be produced rather than which ones should be produced.
+> 音響思想とは、鳴らす音よりも鳴らさない音を決めることである。
 
 ---
 
-## Curation: The work of weaving context
+## キュレーション：文脈を編む仕事
 
-Ostgut Ton"s compilations and Berghain-related mixes are more than just DJ productions. This is an editorial act that presents the club"s philosophy along a chronological axis.
+Ostgut Ton"s compilations and Berghain-related mixes are more than just DJ productions. This is an editing act that presents the club"s philosophy along a chronological axis.
 
 Höppner was involved in this editing process, presenting Berghain's musical cross-section to the outside world. What is important here is that the act of selecting a sound source is also an act of defining a context.
 
@@ -133,7 +133,7 @@ Höppner was involved in this editing process, presenting Berghain's musical cro
 graph LR
 A[floor experience] --> B[Song selection]
 B --> C[compilation]
-C --> D[cultural record]
+C --> D[文化的記録]
 </div>
 
 > Curation is both a record of culture and a guide to the future.
@@ -164,12 +164,12 @@ timeline
 
 ## Conclusion: Sounds from within the system
 
-Although Ostgut Ton later ceased to be active, the aesthetics formed during that period remain. Berlin's club culture is updated through repeated institutionalization and restructuring.
+Ostgut Tonは後に活動を終えるが、その時代に形成された美学は消えない。ベルリンのクラブ文化は制度化と再編を繰り返しながら更新される。
 
 Nick Höppner was responsible for running the system, verifying it on the floor, and recording it as a sound source. His career is an example of how urban cultures self-organize and gain international influence.
 
-Not explosive star power, but sustained practice and thought. It is this quiet driving force that has shaped one aspect of Berlin House.
+Not explosive stardom, but sustained practice and thought. It is this quiet driving force that has shaped one aspect of Berlin House.
 
-> The sounds made on the floor transcend the system, but are supported by the system.
+> フロアで鳴る音は制度を超え、しかし制度によって支えられている。
 
 ---

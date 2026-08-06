@@ -21,9 +21,9 @@ This track represents the changes in the techno scene since the release of the D
 
 Needless to say, the success of "Knights Of The Jaguar" had a huge impact on the techno scene, and many artists began pursuing harder and more aggressive sounds, leading techno to evolve into more experimental and avant-garde music.
 
-Samuel L's ""Day n' Night" is a representative work of techno sound after the groundbreaking ""Knights Of The Jaguar", which was a turning point in the techno scene, and also had a great influence.
+Samuel L's ""Day n' Night" is a representative work of techno sound after the groundbreaking ""Knights Of The Jaguar", which was a turning point in the techno scene, and was also a major influence.
 
-Among the techno tracks from 2001, it's a techno sound right after the millennium, with funky elements intertwined with a straight beat, a pleasant bass drum, no breaks or vocals, just music playing.
+Among the techno tracks from 2001, this is a techno sound right after the millennium, with funky elements intertwined with a straight beat, a pleasant bass drum, no breaks or vocals, just the music playing.
 
 This record is a great track that will definitely make any techno lover's day out.
 

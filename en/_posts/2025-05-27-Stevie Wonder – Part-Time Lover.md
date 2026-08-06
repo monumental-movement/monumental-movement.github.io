@@ -17,7 +17,7 @@ title: Stevie Wonder – Part-Time Lover
 
 The song reached number one on the Billboard Hot 100, R&B, Dance, and Adult Contemporary charts, making it Stevie Wonder's last number one hit.
 
-The song features ad-libs and backing vocals by R&B singer Luther Vandross, and features Earth, Wind and Fire's Syreeta Wright and Philip Bailey.
+The song features improvisations and backing vocals by R&B singer Luther Vandross, and features Earth, Wind and Fire's Syreeta Wright and Philip Bailey.
 
 #### Tracklist
 ```md

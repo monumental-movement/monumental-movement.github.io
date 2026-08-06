@@ -115,7 +115,7 @@ color: #fff;
 
 ## 1990s: The rise of alternatives and home consoles
 
-- **Time background**: With the rise of grunge and alternative music, classic hard rock was in a bit of a decline. However, it is strongly supported by metal bands such as Metallica.
+- **Time Background**: With the rise of grunge and alternative music, classic hard rock was in a bit of a decline. However, it is strongly supported by metal bands such as Metallica.
 - **Point of contact with games**: With the advent of PlayStation and Nintendo 64, CD sound sources were created. The use of ""actual rock songs'' in games is also increasing.
 - The "Gran Turismo" series and "Tony Hawk"s Pro Skater" are symbols of the direct connection between rock and games.
 
@@ -193,7 +193,7 @@ color: #fff;
 
 ## 2010s~Present: Streaming Era and Reappraisal
 
-- **Background**: Classic hard rock is being rediscovered through Spotify and YouTube.
+- **Background**: Classic hard rock is rediscovered through Spotify and YouTube.
 - **Point of contact with games**: In e-sports and distribution culture, hard rock will take on a new role as ""game live BGM" and ""arranged music for rhythm games."
 - Games such as *Doom (2016)* that boldly incorporate hard rock/metal sounds have also appeared, once again emphasizing the relationship between "explosive music and adrenaline."
 
@@ -223,7 +223,7 @@ color: #fff;
 
 | Year | Title | Notes |
 |------|------------|------|
-| 2013 | The Last of Us | Works with impressive guitar music |
+| 2013 | The Last of Us | A work with impressive guitar music |
 | 2016 | Doom (Reboot) | Sound directly connected to metal/hard rock |
 | 2018 | Red Dead Redemption 2 | Rock epic worldview |
 | 2020 | Cyberpunk 2077 | Embodying Rock Attitude |
@@ -240,10 +240,10 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 ## Guitar Hero series songs
 
 | Title | Tracks | Artist | Notes |
-|----------|---------|-------------|------|
+|----------|---------|--------------|------|
 | Guitar Hero (2005) | Smoke on the Water | Deep Purple | Famous songs that appeared in the first generation |
 | Guitar Hero II (2006) | Sweet Child O" Mine | Guns N" Roses | Impressive guitar solo |
-| Guitar Hero II (2006) | Carry on Wayward Son | Kansas | Hard rock anthem |
+| Guitar Hero II (2006) | Carry on Wayward Son | Kansas | Hard Rock Anthem |
 | Guitar Hero III (2007) | Welcome to the Jungle | Guns N" Roses | One of the most popular songs in the series |
 | Guitar Hero III (2007) | One | Metallica | Famous as a highly difficult song |
 | Guitar Hero III (2007) | Through the Fire and Flames | DragonForce | Legendary intense song |
@@ -280,7 +280,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 
 ---
 
-### KONAMI: beatmania IIDX series (hard rock recording example)
+### KONAMI: beatmania IIDX シリーズ（ハードロック系収録例）
 
 | Title | Tracks | Artist | Notes |
 |----------|---------|-------------|------|
@@ -297,7 +297,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 | Taiko no Tatsujin 6 (2004) | DON"T CUT | Jimmy Weckl | Hard fusion drums |
 | Taiko no Tatsujin 11 (2007) | Rumble Ranunculus | Seiya Murai | Guitar-based rock |
 | Taiko no Tatsujin 14 (2010) | Xa | Tatsh | Metal high-speed song |
-| Taiko no Tatsujin Green Ver. (2018) | MEGALOVANIA | Toby Fox | Guitar riff-based, game music origin |
+| Taiko no Tatsujin Green Ver. (2018) | MEGALOVANIA | Toby Fox | Mainly guitar riff, game music origin |
 
 ---
 

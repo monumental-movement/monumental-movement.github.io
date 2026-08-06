@@ -17,7 +17,7 @@ title: Erdbeerfeld – Warten Sie Schon Lange?
 
 Erdbeerfeld is a duo formed by sound artist Susanne Feld and sampling artist Sascha Wild.
 
-"Warten Sie Schon Lange?" is an Electro/Synth-pop/Tech House track released by German label Hal 9000 in 2005. Distribution is by Kompakt.
+"Warten Sie Schon Lange?" is an Electro/Synth-pop/Tech House track released on the German label Hal 9000 in 2005. Distribution is by Kompakt.
 
 A2 is a remix by Hal 9000 (Falk Meinunger), a German electro musician who was active in the Frankfurt club scene in the 90s, and DJ/producer Sylvie Marks.
 

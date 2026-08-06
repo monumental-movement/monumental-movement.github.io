@@ -21,7 +21,7 @@ title: '[Column] Strictly Rhythm — From its origins to the present: Historical
 Text: mmr｜Theme: From the establishment of the legendary New York house label **Strictly Rhythm** to the present, organized by era from the perspective of historical background, representative masterpieces, and trends in production equipment at the time.
 
 
-Strictly Rhythm (commonly known as Strictly) is a house specialty label founded in New York in 1989. With their A&R sense honed on the street and their club-oriented song selection, they led the 90's house scene in New York and around the world. The label excelled at discovering and nurturing DJs/producers while striking a balance between underground "sounds" and commercial hits.
+Strictly Rhythm (commonly known as Strictly) is a house specialty label founded in New York in 1989. With their A&R sense honed on the street and club-oriented song selection, they led the New York and world house scene in the 1990s. The label excelled at discovering and nurturing DJs/producers while striking a balance between underground "sounds" and commercial hits.
 
 ---
 
@@ -43,13 +43,13 @@ color: #fff;
 
 **Historical background**: House/techno, which had sprouted in Chicago and Detroit, entered New York clubs in the early 1990s. It was a time when club culture was about to become commercialized, and an underground spirit of experimentation remained.
 
-**What happened**: Founded in 1989 by Mark Finkelstein and Gladys Pizarro. Since our founding, we have focused on DJ-oriented 12-inch music, producing sound that connects directly to the dance floor and is popular at local clubs.
+**What happened**: Founded in 1989 by Mark Finkelstein and Gladys Pizarro. Since its founding, the company has focused on DJ-oriented 12-inch music, producing sound that connects directly to the dance floor and is popular at local clubs.
 
 **Representative masterpiece (early)**
 - Roger Sanchez — *Luv Dancin'* (1990, under the name Underground Solution)
 
 **Equipment trends**
-There were many productions using turntables and samplers (early SP series and Akai) that took advantage of the "loop feeling" of records.
+Many productions utilized turntables and samplers (early SP series and Akai) to take advantage of the "loop feeling" of records.
 
 ---
 
@@ -74,7 +74,7 @@ There were many productions using turntables and samplers (early SP series and A
 
 **Key moments/representative works**
 - Reel 2 Real feat. The Mad Stuntman — *I Like To Move It* (1993)
-- Armand Van Helden — *Witch Doktor* (1994)
+- Armand Van Helden — *Witch Doktor*（1994）
 - Josh Wink — *Higher State Of Consciousness* (1995)
 - Ultra Naté — *Free* (1997)
 
@@ -91,7 +91,7 @@ There were many productions using turntables and samplers (early SP series and A
 | 1 | Reel 2 Real ft. The Mad Stuntman | I Like To Move It (1993) | A worldwide hit dance anthem, featuring a Caribbean rhythm. |
 | 2 | Armand Van Helden | Witch Doktor | Unique sampling and heavy beats are impressive. |
 | 3 | Barbara Tucker | I Found A Place | Soulful and warm vocal house. |
-| 4 | George Morel | Morel"s Groove | A simple loop that looks great on the floor. |
+| 4 | George Morel | Morel’s Groove | シンプルなループながらフロア映えするトラック。 |
 | 5 | India | To Be In Love | A work that shines with melodious and smooth vocals. |
 | 6 | Josh Wink | Higher State Of Consciousness | A club anthem with psychedelic elements. |
 | 7 | Harddrive | Just Believe | A classic deep house song with an emotional chord progression. |
@@ -130,7 +130,7 @@ DAWs and software plug-ins have begun to enter the production workflow, and the 
 
 ---
 
-## 2007-2010: Restart and international expansion
+## 2007〜2010：再始動と国際展開
 
 **Background**: Digital distribution and globalization of dance music.
 
@@ -144,7 +144,7 @@ DAW-centricity, plug-in sound sources, and software/analog modeling became mains
 
 ---
 
-| No | Artist | Track | Comments |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
 | 1 | Quentin Harris | Let"s Be Young | Modern deep house, smooth groove. |
 | 2 | Dennis Ferrer | Hey Hey | House track for energetic floors. |
@@ -172,7 +172,7 @@ The brand/catalog is still active and is used as an "asset" for reissues, compil
 
 | No | Artist | Track | Comments |
 |---|---|---|---|
-| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered with smooth sound quality. |
+| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered, smooth sound quality. |
 | 2 | Dennis Ferrer | Maniac 3000 | Features a modern and sophisticated house beat. |
 | 3 | Quentin Harris | My Joy (Re-edit) | Deep house re-edited for clubs. |
 | 4 | Barbara Tucker | Think (About It) 2015 Mix | A reinterpretation of vocal house, full of emotion. |

@@ -86,7 +86,7 @@ In response, Buchla didn't include a keyboard, but included a touch controller a
 
 ## ● Superior tone and control
 
-The idea that modulation and complex controls determine musical structure remains intact in modern modular synth culture.
+The idea that modulation and complex controls determine musical structure has been inherited directly from modern modular synth culture.
 
 ---
 
@@ -112,7 +112,7 @@ flowchart LR
 *One of the first pieces of electronic music released by a commercial label
 * Composition styles that can be connected to performing arts and multimedia
 
-This work was not only highly acclaimed as a work of art, but it was also one of the earliest examples of electronic music being established as a ""commodity to be appreciated.''
+This work was not only highly acclaimed as a work of art, but was also one of the earliest examples of electronic music being established as a ""commodity to be appreciated.''
 
 ---
 
@@ -159,7 +159,7 @@ The following is a summary of Subotnick's major works from a structural perspect
 ## ● The Wild Bull (1968)
 
 * Built only with electronic sounds
-* A work that explores the balance between operability and acoustic structure
+* A work that explores the balance between operability and acoustic structure.
 
 ## ● Sidewinder (1971)
 
@@ -233,7 +233,7 @@ Morton Subotnick's achievement lies in reinventing the very framework of electro
 He elevated electronic sound from ""timbre manipulation" to ""structural generation," and the system he created with Buchla is the foundation of today's modular synth culture.
 
 "Electronic music can be the future of classical music"
-Although Subotnick did not utter these words himself, the trajectory of his work shows just that.
+Although Subotnick did not utter these words himself, his career trajectory shows just that.
 
 When talking about the history of electronic music, Morton Subotnick's name always comes up at the beginning.
 And even now, more than half a century later, its influence has not diminished, but rather continues to grow.

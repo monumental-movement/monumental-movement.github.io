@@ -33,7 +33,7 @@ In particular, the following two groups are known as pioneers:
 
 - [**DAF**](https://amzn.to/4ogYOH1) (Deutsch Amerikanische Freundschaft, Germany)
 
-By making full use of cold, sharp electronics, violent minimal beats, and militaristic vocals, they created a new kind of "physical electronic music" that differs from conventional pop and rock.
+By making full use of cold, sharp electronics, violent minimal beats, and militaristic vocals, they created a new kind of "physical electronic music" that differs from traditional pop and rock.
 
 
 <hr>
@@ -66,7 +66,7 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 
 #### Vocal
 
-- Low, inorganic voices, mostly male voices
+- Low, inorganic voices, mostly by men
 
 - Speaks in a commanding tone, slogan-like rather than singing.
 
@@ -156,7 +156,7 @@ EBM has also had a huge influence on the following genres:
 ### Connection with club culture: EBM as body music
 EBM is not just music to be listened to at home, but has a very strong aspect as ""music for dancing.'' Since the late 1980s, EBM has become an established culture, centered around specific nightclubs and festivals (e.g. Wave-Gotik-Treffen, Amphi Festival), accompanied by dark clothing, leather, and cyber costumes.
 
-In the 1990s, while being looked back on as **"Old School EBM"**, the scene branched out into the following:
+In the 90s, while being looked back on as **"Old School EBM"**, the scene branched out into the following:
 
 - Futurepop ([VNV Nation](https://amzn.to/4942pDT), [Covenant](https://amzn.to/4n5mRYq), etc.)
 
@@ -204,7 +204,7 @@ These artists are influenced by EBM, but combine it with elements such as coldwa
 <hr>
 
 ### Aesthetics that fuses physical body and electronics
-As the name suggests, EBM is "electronic body music." It was more than just dance music, it was a total form of expression: political, mechanical, physical, and rebellious.
+As the name suggests, EBM is "electronic body music." It was more than just dance music, it was a total form of expression that was political, mechanical, physical, and rebellious.
 
 Currently, the influence of EBM is spreading across many fields, from club culture and festivals to the DIY scene, art, and fashion.
 

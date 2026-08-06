@@ -15,11 +15,11 @@ title: '[Column] Björk: When the natural phenomenon of voice transcends pop'
 
 
 
-## Introduction: The voice is not an instrument, but a phenomenon
+## Prologue: The voice is not an instrument, but a phenomenon
 
 Text: mmr｜Theme: The process by which a voice born from an island of ice and fire melts and redefines the boundaries of pop music
 
-From the geographically and culturally isolated environment of Iceland, there is someone who has shaken the very structure of world pop music. That's Björk. Her music cannot be categorized by genre. Electronica, pop, classical, and folk music are just materials; what emerges in the end is the fundamental phenomenon of "voice."
+From the geographically and culturally isolated environment of Iceland, there is someone who has shaken the very structure of world pop music. That"s Björk. Her music can"t be categorized by genre. Electronica, pop, classical, and folk music are just materials; what emerges in the end is the fundamental phenomenon of "voice."
 
 Her voice doesn't just trace the melody. Trembling, tearing, whispering, jumping. It moves away from the meaning of words and resonates as the movement of the body itself. It exists as a sound synchronized with the movement of nature, like the creaking of a glacier or the heartbeat of a volcano.
 
@@ -65,7 +65,7 @@ His debut solo album, ""Debut,'' was created in conjunction with London's club c
 
 It is anecdotally known that in this work she prioritized ""establishing her own musical language" over ""becoming a pop star." The resulting album was a rare example of commercial success and experimentation at the same time.
 
-> While borrowing the pop format, a different language was being generated inside it.
+> While borrowing the pop format, a different language was being created inside it.
 
 ---
 
@@ -85,7 +85,7 @@ During production, she was stalked and her living environment was shaken up. Thi
 
 ""Homogenic" is often cited as her masterpiece. Here, she succeeded in embodying her ""inner landscape" as sound.
 
-Strings and beats work closely together, creating a tectonic sonic sound on "Jóga." This is not just a metaphor; the music actually reflects Iceland's topographical image.
+Strings and beats are tightly intertwined, creating a tectonic sound on "Jóga." This is not just a metaphor; the music actually reflects Iceland's topographical image.
 
 In production, electronic sound programming and analog performance are precisely combined. This fusion had a great influence on later electronica.
 
@@ -109,9 +109,9 @@ Elements such as chorus and harp are also introduced, blurring the line between 
 
 ""Medúlla'' is composed almost entirely of human voices. Beatbox, chorus, solo voice. These elements overlap to create music that does not require instruments.
 
-This attempt also reconfirmed that the smallest unit of music is the voice. It includes political and social themes and focuses on human existence itself.
+This attempt also reconfirmed that the smallest unit of music is the "voice." It includes political and social themes, and focuses on human existence itself.
 
-> An extreme experiment in which the world can be built with just your voice
+> An extreme experiment in which the world can be built using only voice
 
 ---
 
@@ -121,7 +121,7 @@ Biophilia was as much an educational project as it was an album. The app connect
 
 Each song corresponds to a natural phenomenon, with themes such as lightning, crystals, and DNA. Here she redefined music as an "interface of knowledge."
 
-> Music has expanded from being something to listen to to a device for understanding it.
+> Music has expanded from being something to listen to to being a device for understanding.
 
 ---
 

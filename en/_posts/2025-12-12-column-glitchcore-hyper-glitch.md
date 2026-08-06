@@ -77,7 +77,7 @@ Glitchcore's BPM is not fixed and often fluctuates over a wide range of 100-180 
 * Extreme tempo changes
 * Editing that suddenly transitions to a different song in the middle of a song
 * Short hooks and fragmented melodies
-*Focus on strong 15-30 second hooks for TikTok
+* Focus on strong 15-30 second hooks for TikTok
 
 ---
 
@@ -185,7 +185,7 @@ Example method:
 
 ### 4-2 Aesthetics as "overloaded mix"
 
-In Hyper-Glitch's case, the mix is ​​not about ""setting up," but about ""building while destroying."
+In Hyper-Glitch's case, mixes are not about ""setting up," but about ""building while destroying."
 
 point:
 
@@ -261,13 +261,13 @@ Another major feature is that anime-style expressions, Vocaloid culture, Interne
 * Hard, elastic sound image
 * Fusion of metallic and electronic sounds
 * Electronic sounds with "materiality"
-* 3D effect that makes the sound feel physical
+* Three-dimensional effect that makes the sound feel physical
 
 ---
 
 ### 7-3 SoundCloud personality
 
-osquinn and glaive brought emo chord progressions, guitar touches, and airy vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
+osquinn and glaive brought emo chord progressions, guitar touches, and light vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
 
 ---
 
@@ -289,7 +289,7 @@ The sped-up version of songs popularized on TikTok has a high affinity with Glit
 
 ### 9-2 Approach between AI vocals and Glitchcore
 
-Singing voice synthesis and character voice generation using AI are an extension of Glitchcore's ""non-human voice.''
+Singing voice synthesis and character voice generation using AI are an extension of Glitchcore's ""inhuman voice.''
 The pitch fluctuation and unnaturalness of AI voices are aesthetically acceptable.
 
 ---

@@ -16,7 +16,7 @@ title: '[Column] Loraine James──Map of emotions beyond the broken beat'
 
 ## Who is Loraine James?
 
-Text: mmr｜Theme: Loraine James continues to depict the reality of London, personal feelings, and loneliness in the digital age with complex beats. We will trace the meaning this music has given to contemporary electronic music.
+Text: mmr｜Theme: Loraine James continues to portray the reality of London, personal feelings, and loneliness in the digital age with complex beats. We will trace the meaning this music has given to contemporary electronic music.
 
 
 <style type="text/css">
@@ -63,7 +63,7 @@ Since her appearance, the ""broken structure"' in electronic music has come to b
 
 ## The feeling created by the city of London
 
-Loraine James grew up in Enfield, north London. The city of London has long been a huge testing ground for multicultural musical intersections.
+Loraine James grew up in Enfield, north London. The city of London has long been a huge testing ground for multicultural music.
 
 From the late 1990s to the early 2000s, UK garage, jungle, grime, and dubstep were rapidly developing in London. These musics have something in common. This means that the ""urban reality'' is directly engraved into the sound.
 
@@ -71,7 +71,7 @@ The influence of grime culture is particularly strong. A rough beat, a structure
 
 She also learned to play the piano from an early age. Classical harmonic sense and London's bass music culture. The simultaneous existence of these two led to the formation of a unique sound in later years.
 
-More importantly, it was the Internet generation. It was a time when music could be accessed across regions through platforms such as SoundCloud, YouTube, and Bandcamp. The influence of musicians as diverse as Aphex Twin, Flying Lotus, Boards of Canada, Burial, and J Dilla was gradually absorbed.
+More importantly, it was the Internet generation. It was a time when music could be accessed across regions through platforms such as SoundCloud, YouTube, and Bandcamp. Influences from musicians as diverse as Aphex Twin, Flying Lotus, Boards of Canada, Burial, and J Dilla were absorbed piecemeal.
 
 <div class="mermaid">
 timeline
@@ -93,7 +93,7 @@ The city of London is always noisy. But within that noise, there is also lonelin
 
 Loraine James's early work has a thoroughly DIY feel.
 
-Sound produced in a limited environment, not with expensive studio equipment. Rather, its roughness served as an attractive feature.
+Sounds created in a limited environment rather than using expensive studio equipment. Rather, its roughness served as an attractive feature.
 
 In the late 2010s, she began releasing her work mainly on Bandcamp and SoundCloud. This was a different trend from the traditional music industry. We live in an era where music reaches listeners directly, without going through major labels or specialized media.
 
@@ -108,7 +108,7 @@ Her early songs have the following characteristics:
 - Strong bass design
 - emotional ambience
 
-What attracted particular attention was the uniqueness of the way it broke.
+What drew particular attention was the uniqueness of the way it broke.
 
 Traditional IDM has tended to emphasize mathematical structure. But for Loraine James, the disruption of rhythm functioned as an emotional expression.
 
@@ -121,7 +121,7 @@ D --> E[online evaluation]
 E --> F[To label contract]
 </div>
 
-From around this time onwards, she avoided being talked about in the category of ""female electronic musician.'' The emphasis was on having the work evaluated on its own.
+From this time on, she avoided being talked about in the category of ""female electronic musician.'' The emphasis was on having the work evaluated on its own.
 
 > Loraine James's early works turned unfinishedness into a weapon.
 
@@ -159,7 +159,7 @@ E --> F[For You and I]
 
 With this album, Loraine James began to be recognized as not just a newcomer, but as someone who would update contemporary electronic music.
 
-> Her encounter with Hyperdub catapulted Loraine James from local talent to global figure.
+> Her encounter with Hyperdub catapulted Loraine James from a local talent to a global figure.
 
 ---
 
@@ -216,7 +216,7 @@ This isn't just a side project. Rather, it shows the core of her musical interes
 
 Electronic music has long been required to be "futuristic." However, in Whatever The Weather, the very atmosphere of life is turned into music.
 
-Rain sounds, indoor reverberations, minute noises. They are treated as an extension of emotions.
+Rain sounds, indoor reverberations, minute noises. They are treated as extensions of emotions.
 
 <div class="mermaid">
 graph TD
@@ -231,7 +231,7 @@ E --> H[static structure]
 
 This direction is deeply related to the recent reappraisal of ambient music.
 
-In an age of information overload, people are starting to seek ""blank space" rather than ""stimulation." Whatever The Weather was right in line with the sensibilities of the times.
+In an era of information overload, people are starting to seek ""blank space" rather than ""stimulation." Whatever The Weather was right in line with the sensibilities of the times.
 
 > Whatever The Weather was Loraine James's purest reflection of her inner world.
 
@@ -280,7 +280,7 @@ Since the 2020s, many young electronic musicians have begun to incorporate "emot
 
 Behind this is Loraine James.
 
-Traditional electronic music places emphasis on precision. However, she actively introduced dislocation and disintegration.
+Traditional electronic music places emphasis on precision. However, she actively introduced misalignment and disintegration.
 
 What is even more important is that it was established as an ""emotion" rather than an ""intellect."
 
@@ -306,7 +306,7 @@ D --> E
 E --> F[2020s electronic music]
 </div>
 
-In particular, musicians from the Bandcamp generation and beyond have been greatly influenced by her free structure.
+In particular, musicians from the Bandcamp generation onward have been greatly influenced by her free structure.
 
 Emotion rather than genre name.
 More atmosphere than theory.

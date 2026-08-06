@@ -22,7 +22,7 @@ title: '[Column] The birth of Akai MPC and beat culture: How sampling has change
 Text: mmr｜Theme: "Time" and "physicality" redefined by sampling and pad operation
 
 
-In the late 1980s, the rhythms that had previously been confined to the studio began to descend into our fingertips. It"s not a keyboard or a musical score, it"s the physical act of creating music by hitting it. At the center of this was Akai's MPC series.
+In the late 1980s, the rhythms that had previously been confined to the studio began to descend into the palm of your fingertips. It"s not a keyboard or a musical score, it"s the physical act of creating music by hitting it. At the center of this was Akai's MPC series.
 
 This machine is not just a drum machine, nor is it just a sampler. It was a device that chopped up sounds, rearranged them, and reconstructed time itself.
 

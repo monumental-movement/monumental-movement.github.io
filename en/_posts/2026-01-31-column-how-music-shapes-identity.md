@@ -19,9 +19,9 @@ title: '[Column] How does music shape us?'
 Text: mmr｜Theme: Why does music shape people's self-awareness?
 
 
-Why do people identify with music? This question is both old and new. Melodies, rhythms, voices, and noises are physically nothing more than vibrations in the air, but we have found meaning in them, projected our emotions onto them, and sometimes entrusted our lives to them. When I listen to one song, I remember who I am, and when I listen to another song, I imagine who I want to be in the future. Throughout this cycle, music has gone beyond mere entertainment and has functioned as a framework for self-understanding.
+Why do people identify with music? This question is both old and new. Melodies, rhythms, voices, and noises are physically nothing more than vibrations in the air, but we have found meaning in them, projected our emotions onto them, and sometimes entrusted our lives to them. When I listen to one song, I remember who I am, and when I listen to another song, I imagine who I want to be in the future. Through its iterations, music has gone beyond mere entertainment and functioned as a framework for self-understanding.
 
-If we look back at history, we can see that music has always existed at the boundary between the individual and society. Religious rituals imprint community values ​​on the body, modern nations foster national consciousness, and in modern times, playlists make individuals' inner lives visible. Music is given to us from the outside and continues to update our self-awareness while changing its meaning on the inside.
+If we look back at history, we can see that music has always existed at the boundary between the individual and society. Religious rituals imprint community values ​​on the body, modern nations foster national consciousness, and in modern times, playlists make the inner lives of individuals visible. Music is given to us from the outside and continues to update our self-awareness while changing its meaning on the inside.
 
 > Music is one of the oldest media we have used to understand ourselves.
 
@@ -65,7 +65,7 @@ C --> D["Sense of community"]
 
 ### Internalization of faith and sound
 
-At a time when religion was the central norm of society, music was an important means of internalizing faith. The single melody of Gregorian chant is designed to suppress the individual"s emotions and encourage immersion in God. Buddhist chants align breathing and vocalizations, changing the practitioner"s physical sensations themselves. In Islam, when reciting the Qur'an, the melody and meaning are inseparably linked, and the act of listening itself becomes a practice of faith.
+At a time when religion was the central norm of society, music was an important means of internalizing faith. The single melody of Gregorian chant is designed to suppress the individual"s emotions and encourage immersion in God. Buddhist chants align breathing and vocalizations, changing the practitioner"s physical sensations themselves. In Islamic Qur'an recitation, the melody and meaning are inseparably linked, and the act of listening itself becomes a practice of faith.
 
 These musics function beyond personal taste. By listening to it repeatedly, singing it, and letting it seep into your body, faith becomes rooted inside as a prerequisite, rather than something to be doubted. Music was a translation device that transformed external doctrine into an internal voice.
 
@@ -96,7 +96,7 @@ C --> D[national consciousness]
 
 ### Self-image changed by regeneration technology
 
-In the early 20th century, the spread of the phonograph and records fundamentally changed the musical experience. Until then, music was something where performers and audiences shared the same place and time, but playback technology has disrupted that premise. People will be able to listen to music alone and re-experience the same performance over and over again.
+At the beginning of the 20th century, the spread of the phonograph and records fundamentally changed the musical experience. Until then, music was something where performers and audiences shared the same place and time, but playback technology has disrupted that premise. People will be able to listen to music alone and re-experience the same performance over and over again.
 
 This change transformed the relationship between music and the self into a personal one. Even the same song can have different meanings depending on the listener's life experiences and circumstances. Music became both a collective symbol and a container for personal memory.
 
@@ -110,7 +110,7 @@ This change transformed the relationship between music and the self into a perso
 
 In the second half of the 20th century, musical genres became central indicators of generational identity. Jazz symbolized urbanization and modernity, and rock embodied rebellion and freedom. Punk expressed a rejection of the established order in short, sharp sounds, and hip-hop became a way to speak to marginalized experiences.
 
-For young people, the music they chose was an act of showing which values ​​they resonated with. Like the way we dress and the way we speak, our musical tastes are at the core of our self-expression.
+For young people, the music they chose was an act of showing which values ​​they resonated with. Like clothing and language, musical tastes are at the core of self-expression.
 
 <div class="mermaid">
 timeline
@@ -135,7 +135,7 @@ Music was also an important means for socially oppressed people to express thems
 
 ---
 
-## Expanding Media and Identity
+## Expanding media and identity
 
 ### From Radio to the Internet
 

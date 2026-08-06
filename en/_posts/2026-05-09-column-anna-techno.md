@@ -22,11 +22,11 @@ Text: mmr｜Theme: ANNA"s sonic aesthetics and global leap forward, embodying th
 
 The club scene in Brazil, South America, is often talked about with its flashy festival culture and tropical images. However, behind the scenes, there existed a fertile ground for techno that had undergone a unique evolution different from that of Europe. It was in this context that ANNA (real name: Ana Miranda) emerged.
 
-She was born in Brazil in the late 1980s and grew up surrounded by music from an early age. What is noteworthy is that his family owned a nightclub. Clubs are not just entertainment spaces, but places where people can experience the relationship between music and people, and for ANNA, they played a role similar to educational institutions.
+She was born in Brazil in the late 1980s and grew up surrounded by music from an early age. What's notable is that his family owned a nightclub. Clubs are not just entertainment spaces, but places where people can experience the relationship between music and people, and for ANNA, they played a role similar to educational institutions.
 
 By the time he was a teenager, he had already started working as a DJ, gaining experience playing at local clubs. What was cultivated here was more than just mixing techniques. The sense of reading the atmosphere on the floor, the physical understanding of changes in sound, and the interaction with the audience.
 
-Eventually, she rose to prominence within Brazil and established her presence in the major club scenes in South America. However, at that time, it had not yet become a global breakthrough.
+Eventually, she rose to prominence within Brazil and established her presence in the major club scenes in South America. However, at that point, it had not yet become a global breakthrough.
 
 > The experience rooted in local club culture was the foundation that gave ANNA's later sound a deep and persuasive power.
 
@@ -49,23 +49,23 @@ color: #fff;
 
 ## Expanding into Europe and rebuilding the sound
 
-A major turning point in ANNA's career was her move to Barcelona, ​​Spain. After achieving some success in the South American scene, she moved to Europe in search of a wider stage.
+A major turning point in ANNA's career was her move to Barcelona, ​​Spain. After achieving some success in the South American scene, she moved to Europe in search of a broader stage.
 
 European techno, especially in Berlin, was dominated by minimalist and structural sounds. This environment would have a major influence on ANNA's musicality.
 
-Her early music was centered around somewhat hard and straightforward techno, but this gradually changed after she moved to Europe. Rather than relying solely on low-frequency pressure, there was a shift to a sound that emphasized spatiality and the layered structure of sound.
+Her early music was centered around somewhat hard and straightforward techno, but after moving to Europe, her music gradually changed. Rather than relying solely on low-frequency pressure, there was a shift to a sound that emphasized spatiality and the layered structure of sound.
 
 This change is not just an imitation of style. ANNA's uniqueness lies in its ability to maintain a Brazilian sensibility - the physicality and flexibility of the groove - while fusing European architectural aesthetics.
 
 As a result, her music has evolved into something that combines seemingly contradictory elements: ""functional and emotional.''
 
-> Experience in Europe elevated ANNA's sound from mere club music to "music with structure"
+> The experience in Europe elevated ANNA's sound from just club music to "music with structure"
 
 ---
 
 ## Releases that triggered a breakout
 
-It was a series of trucks released in the late 2010s that made ANNA's name known around the world. One of the most iconic is "Hidden Beauties."
+It was a series of trucks released in the late 2010s that made ANNA famous around the world. One of the most iconic is "Hidden Beauties."
 
 This work achieved an extremely high level of balance between functionality and aesthetic sense in techno. It was praised for its delicate sound changes and drama, rather than just a peak-time track.
 
@@ -89,7 +89,7 @@ Of particular note are the following elements:
 * Midrange texture (subtle placement of noise and pads)
 * High frequency accent (sound that is not overly assertive but has a strong presence)
 
-Although these are intended for playback in a club environment, they also have the quality to withstand listening purposes.
+Although these are intended for playback in a club environment, they have the quality to withstand listening purposes.
 
 Also, there are often "blank spaces" in her music. This blank space is not just silence, but a space designed to create anticipation for what will come next.
 
@@ -103,9 +103,9 @@ Such an approach shows that techno is expanding from mere functional music to ar
 
 ANNA soon began performing at major festivals around the world. Its name spread not only in Europe but also in North America and Asia.
 
-Particularly at large festivals, the ability to maximize the energy of the floor in a short amount of time is required. ANNA has succeeded in meeting these demands while maintaining her own musical style.
+Particularly at large festivals, the ability to maximize the energy of the floor in a short period of time is required. ANNA has succeeded in meeting these demands while maintaining her own musical style.
 
-Her sets are not just a series of peaks, but are constructed as stories with slow and slow paces. Therefore, the audience will experience not just a dance experience, but a kind of musical journey.
+Her sets are not just a series of peaks, but are constructed as stories with slow and slow paces. As a result, the audience will experience not just a dance experience, but a kind of musical journey.
 
 In this respect, ANNA has transformed into something more than just a "DJ".
 

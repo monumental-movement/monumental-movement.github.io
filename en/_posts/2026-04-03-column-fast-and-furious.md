@@ -21,9 +21,9 @@ title: '[Column] Fast & Furious and the sound of illegal speed: The true nature 
 Text: mmr｜Theme: Unraveling how street racing culture and film sound were combined to create a "sense of speed"
 
 
-When we watch a movie, we don't just feel the speed from the screen. Rather, it is the sound that is decisive. The roar of the engine, the squeal of the tires, and the tempo of the music. When these things come together, "speed" goes beyond visual perception and becomes a physical sensation.
+When we watch a movie, we don't just feel the speed on the screen. Rather, it is the sound that is decisive. The roar of the engine, the squeal of the tires, and the tempo of the music. When these things come together, "speed" goes beyond visual perception and becomes a physical sensation.
 
-Fast and Furious, released in 2001, was a work that shared this feeling on a global scale. This movie, which depicts illegal street racing and youth culture in Los Angeles at night, is remembered as not just a car action movie, but as a ""movie that runs with sound.''
+Fast and Furious, released in 2001, was a film that shared this feeling on a global scale. This movie, which depicts illegal street racing and youth culture in the Los Angeles night scene, is remembered as not just a car action movie, but also as a ""movie that runs with sound.''
 
 After this work, the perception that "speed = sound" continued to be reinforced in pop culture.
 
@@ -67,7 +67,7 @@ For example, the pitch of engine sounds is often emphasized more than the actual
 
 The tempo of the music also plays an important role. It's not just songs with a fast BPM (tempo) that are used; rather, by layering detailed rhythms on songs with a medium tempo, a sustained sense of tension is created.
 
-In this way, the movie creates a world that feels faster than it actually is.
+In this way, the movie created a world that felt faster than it actually was.
 
 > Movie speed is a designed illusion, not a reproduction of reality.
 
@@ -75,7 +75,7 @@ In this way, the movie creates a world that feels faster than it actually is.
 
 ## Chapter 3: Synchronizing hip-hop and machines
 
-In the series" early years, music wasn"t just a backdrop. Hip-hop was treated as an entity that was integrated with cars.
+In the early days of the series, music was more than just a backdrop. Hip-hop was treated as an entity that was integrated with cars.
 
 The deep bass kick overlaps with the heartbeat of the engine, and the snare synchronizes with the rhythm of gear changes. Hip-hop, especially from the American West Coast, was deeply connected to car culture, and was incorporated directly into movie soundtracks.
 
@@ -103,11 +103,11 @@ Movies depict characters not only through visual performance but also through so
 
 ## Chapter 5: Evolution of the series and transformation of sound
 
-The series takes a major turn after Fast & Furious MAX. It changed from a story centered on street racing to an international action movie.
+The series takes a major turn after Fast & Furious MAX. The story changed from a story centered on street racing to an international action movie.
 
-Along with this, the role of sound will also change. The early realistic vehicle sounds were gradually abstracted away, and explosions, collisions, and environmental sounds were emphasized.
+Along with this, the role of sound will also change. The early realistic vehicle sounds gradually became abstracted, with emphasis on explosions, collisions, and environmental sounds.
 
-Furthermore, with the arrival of Dwayne Johnson, the scale of sound expanded at once. In order to express physical strength, deep bass sounds are emphasized.
+Furthermore, with the arrival of Dwayne Johnson, the scale of sound expanded at once. In order to express physical strength, the bass becomes more emphasized.
 
 In this way, the series shifted the center of gravity of sound from "speed" to "impact."
 
@@ -115,7 +115,7 @@ In this way, the series shifted the center of gravity of sound from "speed" to "
 
 ---
 
-## Chapter 6: Changes in sound and speed seen in a chronology
+## Chapter 6: Changes in sound and speed as seen in the chronology
 
 | Year | Event | Characteristics of sound |
 | ------ | ------ | ---------------------- |
@@ -148,7 +148,7 @@ Particularly for the younger generation, the sound of engines and drifting cars 
 
 The songs and sound styles featured in the film also influenced club music and advertising music.
 
-In this way, the "sound of illegal speed" was reconstituted as legal entertainment and spread all over the world.
+In this way, the ""sound of illegal speed'' was reconstituted as legal entertainment and spread all over the world.
 
 > Sounds that were once illegal are being redefined as culture
 

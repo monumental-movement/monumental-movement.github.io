@@ -21,7 +21,7 @@ Text: mmr｜Theme: The genealogy of electronic funk and the structure, equipment
 
 Electro-Funk/Modern Funk is not a name that refers to a specific era or a single movement. This name is a comprehensive framework that refers to the entire process by which the structural principles of funk established in the 1970s have been reorganized while embracing electronic musical instruments and digital production environments.
 
-The essence of funk lies in repeated rhythms, bass lines, and a physical sense of time, rather than chord progressions or melodies. Electro-Funk/Modern Funk has changed its production methods and sound design without losing its essence. As a result, multiple achievements have been made, including studio-based electronic funk and performance-based extended funk.
+The essence of funk is less about chord progressions and melodies than about repeated rhythms, bass lines, and a physical sense of time. Electro-Funk/Modern Funk has changed its production methods and sound design without losing its essence. As a result, multiple achievements have been made, including studio-based electronic funk and performance-based extended funk.
 
 Chromeo and Jamiroquai derivatives are symbols of this parallel structure, and this article will focus on both to describe the process of formation and internal structure of the genre as a whole.
 
@@ -55,7 +55,7 @@ At this point, funk already had the qualities of loop-based music, and its later
 ## Chapter 2: Changes before electronicization
 
 
-In the late 1970s, advances in studio technology began to change the way funk was produced. With the spread of multi-track recording, performances have come to be broken down and treated as editable material. As a result, greater emphasis was placed on rhythmic precision and timbre unity.
+In the late 1970s, advances in studio technology began to change the way funk was produced. With the spread of multi-track recording, performances began to be broken down and treated as editable material. As a result, greater emphasis was placed on rhythmic precision and timbre unity.
 
 Around the same time, electric pianos and early synthesizers were introduced, and the keyboard changed from being just a harmonious instrument to being responsible for tone. At this stage, the ideas for later synth basses and electronic leads were being prepared.
 
@@ -68,7 +68,7 @@ In the early 1980s, the widespread use of drum machines marked a decisive turnin
 
 However, complete mechanicality undermines the appeal of funk, so a ""pseudo-physicality'' is introduced using swing values ​​and velocity changes. This idea was inherited from Electro-Funk to Modern Funk.
 
-At the same time, synthesizer basslines became commonplace, and the low range came to be dominated by tonal design rather than playing technique.
+At the same time, synthesized bass lines became commonplace, and the low range came to be dominated by tonal design rather than playing technique.
 
 ---
 
@@ -98,7 +98,7 @@ This lineage assumes studio production, and the songs are designed as highly com
 
 Jamiroquai derivatives maintain the performance structure of a funk band while incorporating electronic elements. The interaction between drums, bass, guitar, and keyboard is emphasized, and rhythmic fluctuations and dynamics are maintained.
 
-Electronic musical instruments play a supporting role and are used to expand the timbre and process the space. Here, live performance and studio production are on the same page, and physical persuasiveness takes precedence over reproducibility.
+Electronic musical instruments play a supporting role and are used for timbre expansion and spatial processing. Here, live performance and studio production are on the same page, and physical persuasiveness takes precedence over reproducibility.
 
 ---
 
@@ -123,7 +123,7 @@ The drum machine has a limited number of tones and is mainly composed of kick, s
 
 The basic time signature is 4/4, divided into 16th notes. The hi-hat serves as a time reference point, the kick emphasizes the beat, and the snare or clap emphasizes the second and fourth beats.
 
-The bass does not overlap completely with the kick, but uses slight deviations and backbeats to generate propulsion. This gap is the element that gives the mechanical rhythm a sense of life.
+The bass does not overlap completely with the kick, but uses slight deviations and backbeats to generate propulsion. This discrepancy is the element that gives the mechanical rhythm a sense of life.
 
 ---
 

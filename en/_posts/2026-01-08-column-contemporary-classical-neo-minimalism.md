@@ -15,7 +15,7 @@ title: '[Column] Contemporary Classical / Neo-minimalism A new wave of contempor
 
 
 
-## Introduction: Modern Classical/Neo-Minimalism Trend
+## Introduction: Contemporary Classical/Neo-Minimalism Trend
 
 Text: mmr｜Theme: This trend is based on facts such as composition techniques, production environments, and institutional backgrounds, rather than trends or emotional evaluations.
 
@@ -161,7 +161,7 @@ Multiple simple layers are layered together to form a complex sound. Each layer 
 
 ### The act of composing called editing
 
-Post-recording editing, looping, and dynamics adjustments define the structure of the piece itself. The editing process is not treated as post-processing, but as an extension of the composition process.
+録音後の編集、ループ化、ダイナミクス調整は、作品構造そのものを規定する。編集工程は後処理ではなく、作曲過程の延長として扱われる。
 
 ---
 
@@ -173,7 +173,7 @@ Much of contemporary classical/neo-minimalism is intended for personal listening
 
 ### Space and music
 
-It is often performed and reproduced in exhibition spaces, museums, and installations. Music is both a time art and an element that defines space.
+It is often performed and reproduced in exhibition spaces, museums, and installations. Music is both a temporal art and an element that defines space.
 
 > "Silence and blank spaces also have different meanings depending on the listening environment."
 

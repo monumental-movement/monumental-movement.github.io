@@ -14,13 +14,13 @@ title: Elektrochemie LK – Girl! Part 2
 ---
 
 
-Elektrochemie LK is the alias of DJ Thomas Schumacher, a German techno musician who has been active since the 1990s.
+Elektrochemie LK is the alias of DJ Thomas Schumacher, a techno musician from Germany who has been active since the 90s.
 
 "Girl! / Part 2" is a techno-electro track released in 2001 by the German label Leaded.
 
 The first song on Side A is a remix by Christopher Just, known for his huge hit I'm a Disco Dancer (And a Sweet Romancer).
 
-The second track on side A is a remix by German techno DJ and producer Stephan Bodzin.
+The second track on Side A is a remix by German techno DJ and producer Stephan Bodzin.
 
 The first song on side B is a remix by ALEXANDER KOWALSKI, a techno producer and performer who has been active since the 90s.
 

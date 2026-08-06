@@ -54,7 +54,7 @@ By sharing the process (code) of producing sound with the audience,
 The idea was to turn the production process itself into a performance.
 
 Environments such as TidalCycles, SuperCollider, and Sonic Pi are
-Enables the act of "writing sounds by hand" improvisationally,
+Making it possible to improvise the act of "writing sounds by hand",
 It brought a new live nature to electronic music.
 
 ---
@@ -67,7 +67,7 @@ Representative examples include OpenAI"s "Jukebox," Google"s "Magenta," and "Rif
 AI doesn't write code.
 Instead, it learns patterns from large amounts of data and "internalizes" production rules.
 In other words, AI is algorithmic intelligence that is "outside" of Live Coding.
-However, in recent years, the boundaries have rapidly become blurred.
+However, in recent years, the boundaries have become rapidly blurred.
 
 For example, TidalCycles users use GPT to suggest codes in real time,
 Cases are beginning to appear where AI analyzes live performances and predicts the next rhythm.
@@ -84,7 +84,7 @@ Essentially it remains within the bounds of probability.
 
 However, this difference is also the source of creativity.
 AI provides infinite combinations, and humans find meaning in them.
-The relationship between the two is not one of "dominance and subordination," but rather a mutually complementary creative relationship.
+The relationship between the two is not one of ""dominance and subordination,'' but is moving toward a mutually complementary creative relationship.
 
 ---
 
@@ -133,7 +133,7 @@ This is the key to unlocking the future of algorithmic music.
 
 ---
 
-## Chapter 7: Future prospects - Towards "algorithm-driven collaboration"
+## Chapter 7: Future Prospects - Towards "algorithm-driven collaboration"
 
 In the 2030s, "AI sessions" will become commonplace in music production.
 AI is not just a tool, but is positioned as a co-performer.
@@ -197,7 +197,7 @@ Algorithms and humans, machines and emotions.
 Where the boundaries melt,
 A new musical horizon rises.
 
-> Chords go beyond sheet music, and AI learns to improvise.
+> Chords transcend sheet music, and AI learns to improvise.
 > Music is no longer a "human exclusive patent";
 > **Co-Creative Intelligence**.
 

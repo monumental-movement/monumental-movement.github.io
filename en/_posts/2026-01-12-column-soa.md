@@ -23,7 +23,7 @@ S.O.A is a hardcore punk band formed in New York in 1980. Their active period is
 
 The band's name, ""State of Alert,'' is a word that means constant vigilance. Rather than being a political slogan, this was a literal expression of the state of mind of young people living in New York at the time. Economic instability, deteriorating public order, urban ruin, and a rift within the punk scene. S.O.A presented them with sonic speed and shortness without explaining them.
 
-> S.O.A (State Of Alert) was a short-lived but definitive band that existed just before New York hardcore took on its own definition.
+> S.O.A (State Of Alert) was a short-lived but definitive band that existed just before New York hardcore was coming into its own.
 
 
 ---
@@ -69,7 +69,7 @@ The guitar, bass, and drum members were also closely connected to the New York u
 
 S.O.A's music is not oriented toward performance technique or complexity. Most of the songs last around one minute, and there are almost no introductions or development elements. The drums serve to push the beat forward rather than drive it, and the guitar is more on the border between noise and rhythm than a riff.
 
-This musicality is different from the "heaviness" and "groove" of later New York hardcore, and is rather closer to the early impulses of D.C. hardcore. However, S.O.A's sound has a dry tension typical of urban New York, and the immediate outpouring of emotion is more at the forefront than politics.
+This musicality is different from the "heaviness" and "groove" of later New York hardcore, and is rather closer to the early impulses of D.C. hardcore. However, S.O.A's sound has the dry tension typical of urban New York, and the immediate outpouring of emotion is more at the forefront than politics.
 
 > S.O.A's songs exist as a result of excision rather than construction.
 
@@ -101,7 +101,7 @@ No Policy E.P. is not a work that is evaluated for its completeness or sound qua
 
 S.O.A's live activities were short-lived and the venues were limited. They primarily performed in small clubs and DIY spaces, and were only known within the New York punk scene at the time. At live performances, the emphasis was on the energy of collision rather than musical perfection, and the distance from the audience was extremely close.
 
-The band disbanded around 1981. The reason for the group's disbandment is more like a natural disappearance due to the movement of members and changes in their interests, rather than a specific incident. However, this dissolution does not end S.O.A. Instead, it spreads in a different way.
+The band disbanded around 1981. The reason for the group's disbandment is more like a spontaneous disappearance due to the movement of members and changes in their interests, rather than a specific incident. However, this dissolution does not end S.O.A. Instead, it spreads in a different way.
 
 > S.O.A was a live band and was more present in the field than on record.
 
@@ -111,7 +111,7 @@ The band disbanded around 1981. The reason for the group's disbandment is more l
 ## Flow derived from S.O.A
 
 
-Henry Rollins joins Black Flag after S.O.A disbands. There, he acquired a more sustained and structured expression. On the other hand, members of the New York side and surrounding figures became involved in the formation of the scene that led to Agostic Front and Cro-Mags.
+Henry Rollins joins Black Flag after S.O.A disbands. There, he acquired a more sustained and structured expression. Meanwhile, members of the New York side and surrounding figures became involved in the formation of the scene that led to Agostic Front and Cro-Mags.
 
 S.O.A itself is rarely talked about as a representative of New York hardcore. However, as a record of that ""nobody phase,'' it provides important clues for understanding what subsequent bands inherited and what they discarded.
 

@@ -21,11 +21,11 @@ title: '[Column] Kendrick Lamar: The structure and thinking that expanded hip-ho
 Text: mmr｜Theme: About Kendrick Lamar, who expanded hip-hop from fragmentary self-expression to a long narrative art.
 
 
-Kendrick Lamar's body of work is not a collection of songs, but has a structure closer to a full-length novel or a classic epic poem. His albums go beyond the concept of "song order" and overlap personal and social history while manipulating time, perspective, and narrator. There is no chance or improvisation, but a carefully designed narrative structure.
+Kendrick Lamar's body of work is more like a full-length novel or a classic epic poem than a collection of songs. His albums go beyond the concept of "song order" and overlap personal and social history while manipulating time, perspective, and narrator. There is no chance or improvisation, but a carefully designed narrative structure.
 
-Hip-hop originally developed as an expression that captures the emotions and reality of the moment. Every battle, every block party, every song on the radio had value in its ephemerality. But Kendrick offered a way to use the format to tell long-distance stories. The structure, which can only be seen in its entirety by listening to the album as a whole, requires the listener to actively read it.
+Hip-hop originally developed as an expression that captures the emotions and reality of the moment. Every battle, every block party, every song on the radio had value in its ephemerality. But Kendrick offered a way to use the format to tell long-distance stories. The structure, which can only be seen in its entirety by listening to the album as a whole, requires listeners to actively read it.
 
-Furthermore, his story cannot be reduced to self-praise or success stories. Rather, by actively placing failure, fear, regret, and contradiction at the center of the story, he visualizes the ""weakness" and ""silence" that hip-hop has avoided. This overlaps with the history of epic poems, which depict not only the glory of heroes but also their trials and sufferings.
+Furthermore, his story cannot be reduced to self-praise or success stories. Rather, by actively placing failure, fear, regret, and contradiction at the center of the story, he visualizes the ""weakness" and ""silence" that hip-hop has avoided. This overlaps with the history of epic poems, which depict not only the glory of heroes but also the trials and sufferings of heroes.
 
 > Kendrick Lamar stands at the tip of hip-hop's transition from momentary expression to long-distance narrative.
 
@@ -36,7 +36,7 @@ Furthermore, his story cannot be reduced to self-praise or success stories. Rath
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,29 +46,29 @@ color: #fff;
 
 
 
-## The epic stage of Compton
+## Comptonという叙事詩的舞台
 
 ### Geography and reality
 
 Kendrick Lamar Duckworth was born in 1987 in Compton, California. This city has been a symbol of West Coast gangsta rap since N.W.A. It was a space where violence, poverty, police power, and racial issues were embedded in everyday life. Kendrick's narrative never departs from this concrete sense of place.
 
-Compton is more than just a backdrop; it has the power to define the story. Concrete details such as travel routes, intersections, residential areas, and fast food restaurants appear repeatedly and resist abstraction. Like a city-state or a battlefield in an epic poem, the city itself functions as a character.
+コンプトンは単なる背景ではなく、物語を規定する力を持つ。移動経路、交差点、住宅街、ファストフード店といった具体的なディテールが繰り返し登場し、抽象化を拒む。叙事詩における都市国家や戦場のように、この街自体が一つの登場人物として機能する。
 
 ### Narrator's position
 
-He speaks not as a ""commentator looking in from the outside," but as ""a person who lives on the inside." The narrator is not fixed throughout, but changes from boy to observer to perpetrator to victim to prophet. The fluctuation of perspective rejects the simple dualism of good and evil and preserves the complexity of reality as it is.
+彼は「外から俯瞰する解説者」ではなく、「内部に生きる当事者」として語る。その語り手は一貫して固定されているわけではなく、少年、観察者、加害者、被害者、預言者へと変化する。視点の揺れは、単純な善悪二元論を拒否し、現実の複雑さをそのまま保持する。
 
-This multi-view structure is similar to the back and forth between gods and humans, heroes and storytellers seen in classical epic poetry. Kendrick places himself in the lead role, yet maintains a distance from which he does not identify completely.
+この多視点構造は、古典叙事詩で見られる神々と人間、英雄と語り部の往復に似ている。Kendrick は自分自身を主人公に置きながらも、完全に同一化しない距離を保つ。
 
 > Kendrick's story includes moments where Compton itself becomes the storyteller.
 
 ---
 
-## Section.80: The story of generations divided into chapters
+## Section.80：章立てされた世代の物語
 
 ### The theme of generations
 
-2011's ""Section.80" is structured around the generation born during the Reagan administration. The album title itself functions like a chapter number, ""Section.80," which depicts the impact of social policy, drugs, and educational inequality on the lives of young people.
+2011's ""Section.80" is structured around the generation born during the Reagan administration. The album title itself functions like a chapter number, ""Section.80," which depicts the effects of social policy, drugs, and educational inequality on the lives of young people.
 
 ### Structure of short story series
 
@@ -82,7 +82,7 @@ Although each song seems to be an independent short story, they are connected by
 
 ### The entire album is a story of one night
 
-2012"s Good Kid, m.A.A.d City was the first time Kendrick Lamar"s epic structure came to full fruition. The entire album is structured as one day spent in Compton.
+2012"s Good Kid, m.A.A.d City was the first time Kendrick Lamar"s epic structure was fully realized. The entire album is structured as one day spent in Compton.
 
 ### Narrative device called skit
 
@@ -90,10 +90,10 @@ Skits such as voicemails from parents, gunshots, and conversations with friends 
 
 <div class="mermaid">
 flowchart LR
-A[morning outing] --> B[meeting up with friends]
+A[morning outing] --> B[仲間との合流]
 B --> C[conflict and violence]
 C --> D[death and regret]
-D --> E[reflection and prayer]
+D --> E[内省と祈り]
 </div>
 
 ### Transformation of the protagonist
@@ -122,7 +122,7 @@ The dialogue with Tupac in the final song evokes the mythical motif of a convers
 
 ---
 
-## DAMN.: Tragic structure that goes backwards in time
+## DAMN.：時間を逆行する悲劇構造
 
 ### A two-way story
 
@@ -142,7 +142,7 @@ Each song symbolically deals with human emotions and sins, and takes on a religi
 
 In this 2022 film, the story dives deep from society to the inner world of the individual. Themes of trauma, family, and healing come to the fore.
 
-### Meaning of two-part structure
+### 二部構成の意味
 
 The dichotomy of Big Steppers and Mr. Morale separates the outward role from the introspective self.
 
@@ -155,7 +155,7 @@ The dichotomy of Big Steppers and Mr. Morale separates the outward role from the
 * 1987: Born in Compton
 * 2011: Section.80 announced
 * 2012: good kid, m.A.A.d city announced
-* 2015: To Pimp a Butterfly announced
+* 2015年：To Pimp a Butterfly 発表
 * 2017: DAMN. Announcement
 * 2022: Mr. Morale & the Big Steppers announced
 

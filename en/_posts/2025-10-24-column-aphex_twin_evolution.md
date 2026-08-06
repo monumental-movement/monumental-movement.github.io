@@ -9,7 +9,7 @@ tags:
 - UK Techno
 - IDM
 - Techno
-title: '[Column] Aphex Twin''s early days and present day -- beyond the critical point
+title: '[Column] Aphex Twin''s early days and present day -- Beyond the critical point
   of electronic music'
 ---
 
@@ -21,7 +21,7 @@ Text: mmr｜Theme: Comparing Aphex Twin's early works with their current achieve
 
 In the early 1990s, Richard D. James (Aphex Twin) emerged as someone who completely turned the existing grammar of genres like techno and ambient on its head. His early works are sound experiments in which machine dreams and human illusions intertwine, and his current sound lies between an artificial intelligence structure and a return to nostalgia.
 
-Below, we will compare and examine these "changes" and "unchanges" from the four axes of work, technology, aesthetics, and ideology.
+Below, we will compare and examine these "changes" and "unchanges" based on the four axes of work, technology, aesthetics, and ideology.
 
 ---
 
@@ -59,7 +59,7 @@ In the early EPs, the physical constraints of the hardware shaped the very chara
 **Manual errors** such as the Roland TB-303, SH-101, and Akai S950 defined his aesthetic.
 
 Glitches (atomization of noise) and irregular tempo changes are
-It later became the origin of a movement called "IDM (Intelligent Dance Music)".
+It later became the origin of a movement called ""IDM (Intelligent Dance Music)''.
 
 ---
 
@@ -67,7 +67,7 @@ It later became the origin of a movement called "IDM (Intelligent Dance Music)".
 
 His early music was also an experiment in pushing the "physicality of sound" to its limits.
 The internal noise of the machine becomes the rhythm, and the errors become the building blocks.
-It is ""analog violence'' before digital, and an attempt to transform error into the aesthetics of construction.
+It is pre-digital "analog violence" and an attempt to transform error into the aesthetics of construction.
 
 ---
 
@@ -85,10 +85,10 @@ It's amazing that they created this complexity in a pre-DAW environment.
 ### 2.2 "Come to Daddy" "Windowlicker" ─ Media and Nightmare
 
 From 1997 to 1999, Aphex Twin combined music with "visual horror."
-The PV group created in collaboration with Chris Cunningham **converted the instability of electronic sound into the amorphousness of images**.
+The PV group created in collaboration with Chris Cunningham transformed the instability of electronic sound into the amorphousness of video.
 
 Around the time MTV featured him as the "weirdest genius"
-He was already sensing that his music was in danger of becoming incorporated into popular culture.
+He was already sensing that his music was in danger of being incorporated into popular culture.
 
 ---
 
@@ -124,7 +124,7 @@ Sound particles self-deploy like AI's thoughts, forming an inhuman "flow."
 Aphex Twin takes AI composition not just as a technological innovation;
 It is treated as a "**device that extends human perception**".
 His recent work can be described as an attempt to make artificial intelligence learn about "human errors."
-In other words, his music is a testing ground for post-AI humanism.
+In short, his music is a testing ground for post-AI humanism.
 
 ---
 
@@ -136,7 +136,7 @@ In other words, his music is a testing ground for post-AI humanism.
 | Texture of sound | Organic, accidental, material | Geometric, informational, transparent |
 | Aesthetics | Coexistence of noise and rhythm | Symbiosis of data and emotion |
 | Subject of expression | Individual's inner world/body | Boundary between humans and machines |
-| Social context | Rave ~ the dawn of IDM | The maturation of AI/algorithm culture |
+| Social Context | Rave ~ Early IDM | Maturity of AI/Algorithm Culture |
 
 ---
 
@@ -144,7 +144,7 @@ In other words, his music is a testing ground for post-AI humanism.
 
 The core of Aphex Twin lies in ""remaining foreign'' even as times change.
 Even when music becomes trendy, his sound always leaves a "margin".
-It is in that margin that there is room for the listener to project their own feelings.
+It is in that blank space that there is room for listeners to project their own emotions.
 
 ---
 
@@ -152,7 +152,7 @@ It is in that margin that there is room for the listener to project their own fe
 
 After Aphex Twin, electronic music is no longer just a "genre."
 Artists influenced by him include Burial, Oneohtrix Point Never, Autechre, Arca, etc.
-All of these questions reconsider the meaning generation of sound itself.
+All of these questions reconsider the "meaning generation" of sound itself.
 
 > "In an era where music is converted into data, Aphex Twin has become a ""sculptor of perception.''
 
@@ -234,7 +234,7 @@ His journey may foretell a future in which music itself becomes conscious.
 
 ## Waveform/spectrogram comparison (conceptual diagram)
 
-**Description**: A conceptual diagram to visualize the differences in waveforms and spectrograms by arranging the typical acoustic features of the early and current times.
+**Explanation**: A conceptual diagram to visualize the differences in waveforms and spectrograms by arranging the typical acoustic features of the early and current times.
 
 <div class="mermaid">
 
@@ -294,7 +294,7 @@ flowchart TD
   A --> A2["Akai S900 / S950<br>Sampler (cut and paste)"]
   A --> A3["Atari ST + Cubase (initial)"]
 
-  B --> B1["Higher performance sampler <br> Expansion of hardware synths"]
+  B --> B1["Higher performance sampler<br>Expansion of hardware synths"]
   B --> B2["DAW introduction (Pro Tools etc.)<br>Precision editing"]
   B --> B3["External effects/hard processing"]
 

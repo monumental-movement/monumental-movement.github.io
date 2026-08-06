@@ -39,17 +39,17 @@ color: #fff;
 
 ---
 
-### 1970s: Keiji Haino's experimental spirit
+### 1970年代：灰野敬二の実験精神
 
-[Keiji Haino](https://amzn.to/46ngHxU) — Crossing improvisation, free jazz, and noise. It had a decisive influence on the experimental music scene both domestically and internationally.
+[灰野敬二](https://amzn.to/46ngHxU) — 即興演奏、フリージャズ、ノイズを横断。国内外の実験音楽シーンに決定的な影響を与えた。
 
-In contrast to [Happy End ""Kazemachi Roman''](https://amzn.to/3Vzh16v), Underground has evolved in a darker direction.
+[はっぴいえんど『風街ろまん』](https://amzn.to/3Vzh16v)と対照的に、アンダーグラウンドはより暗黒の方向へ進化。
 
 ---
 
-### 1980s: Band boom
+### 1980年代：バンドブーム
 
-At the same time as mainstream music such as [BOØWY](https://amzn.to/48lIrED) / [RC Succession](https://amzn.to/48DtL3B), the experimental spirit from underground has increased its presence.
+[BOØWY](https://amzn.to/48lIrED) / [RCサクセション](https://amzn.to/48DtL3B)などメインストリームと同時進行で、地下からの実験精神が存在感を増した。
 
 ---
 
@@ -59,9 +59,9 @@ At the same time as mainstream music such as [BOØWY](https://amzn.to/48lIrED) /
 
 [Seiichi Yamamoto](https://amzn.to/4mHCi9d) ([Omide Hatoba](https://amzn.to/3WaQhta), [ROVO](https://amzn.to/3Kodwxd)) — Kyoto-based experimental rock.
 
-[Shonen Knife](https://amzn.to/3VFVclI) — Pop punk from Osaka. Nirvana's Kurt Cobain also praised it.
+[少年ナイフ](https://amzn.to/3VFVclI) — 大阪発のポップ・パンク。Nirvanaのカート・コバーンも絶賛。
 
-[Melt-Banana](https://amzn.to/46pXls3) — An overwhelming live band with a noisecore/grind feel. His work was released on Tzadik, which was sponsored by John Zorn, and received international acclaim.
+[Melt-Banana](https://amzn.to/46pXls3) — An overwhelming live band with a noisecore/grind feel. His work was published by John Zorn's Tzadik and received international acclaim.
 
 [Acid Mother's Temple](https://amzn.to/3IHRrJC) — A deluge of psych drones. Overwhelming support at European festivals.
 
@@ -145,7 +145,7 @@ A5: [Memory Wharf ""Underwater Joe"] (https://amzn.to/4pJINuQ), [ROVO's live per
 
 ### summary
 
-Japan"s rock history has evolved in parallel with the ""mainstream" front and the ""underground" behind the scenes. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
+Japan"s rock history has evolved in parallel with the "mainstream" on the front and the "underground" on the back. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
 
 ---
 

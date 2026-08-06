@@ -42,7 +42,7 @@ color: #fff;
 
 ## Chapter 1 Premise of electronic music before electropop
 
-In order to understand the formation of the electronic pop experiment system, it is necessary to take a bird's-eye view of the history of the combination of electronic music and popular music in the latter half of the 20th century.
+In order to understand the establishment of electronic pop experiments, it is necessary to look at the history of the combination of electronic music and popular music in the latter half of the 20th century.
 
 ### Combining synthesizer and pop structures
 
@@ -74,7 +74,7 @@ These will later serve as a basis for enhanced experimentation.
 * Sound image design that does not hide artificiality
 * Simultaneous visual expression and music production
 
-This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only activity.''
+This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only'' activity.
 
 ---
 
@@ -102,11 +102,11 @@ Grimes is a representative of experimental electropop, an artist who has present
 
 ### Characteristics of production process
 
-Grimes' production is characterized by intentionally leaving traces of the limitations of the recording environment and personal production in his works. Noise, unbalanced volume, and excessive effects processing are not signs of a lack of perfection, but serve as proof of the existence of the creator.
+Grimes' production is characterized by the fact that he intentionally leaves traces of the limitations of the recording environment and personal production in his works. Noise, unbalanced volume, and excessive effects processing are not signs of a lack of perfection, but serve as proof of the existence of the creator.
 
 ### Visual integration
 
-The visuals presented along with the music do not serve to explain the worldview of the song, but rather to visualize the production idea itself.
+The visuals presented along with the music do not serve to explain the worldview of the song, but to visualize the production idea itself.
 
 ---
 
@@ -128,7 +128,7 @@ The experimental nature of Carpenter Brut manifests itself less in the music its
 
 ## Chapter 7 Visual Culture and Electropop Experiments
 
-In electropop experimental music, the following elements work together, rather than just the music alone.
+In electropop experimental music, the following elements work together, rather than just music alone.
 
 * Album artwork
 * Music video
@@ -252,7 +252,7 @@ These will continue to be updated as the technological environment changes.
 
 ## Conclusion
 
-Electro Pop Experimental is an attempt to continue expanding pop music's internal structure rather than deconstructing it. Artists such as Grimes and Carpenter Brut have redefined the listening experience by presenting music production as a "process" rather than a "result."
+Electro Pop Experimental is an attempt to continue expanding pop music's internal structure rather than deconstructing it. Artists such as Grimes and Carpenter Brut have redefined the listening experience by presenting music production as a process rather than a result.
 
 This trend will continue to evolve as production techniques, visual culture, and personal expression change.
 

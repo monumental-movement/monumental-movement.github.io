@@ -92,7 +92,7 @@ B2. Higher (Instrumental)
 ### Max Coo & Steve Coo – "Boogie Dancer"
 <a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93%20Boogie%20Dancer.webp"></a>
 
-Vocals by Ken Laszlo add spice. A great number that makes you feel Italo's orthodox and groovy charm.
+Vocals by Ken Laszlo add spice. A good number that makes you feel Italo's orthodox and groovy charm.
 
 #### Tracklist
 ```md
@@ -117,7 +117,7 @@ B3. Boogie Dancer (Verona Beat)
 ### Dave Hammond – "Africa"
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-Italo disco style developed in Europe, with a Eurobeat style. When you want to warm up the space with danceables.
+European-style Italo disco with a Eurobeat style. When you want to warm up the space with danceables.
 
 #### Tracklist
 ```md

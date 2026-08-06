@@ -40,9 +40,9 @@ color: #fff;
 
 ### Characteristics and charm of Other Cinema
 
-""Other Cinema'' is known as a place to introduce experimental and challenging works that stand out from commercial films. In particular, many works by American underground films and independent film pioneers are shown. These works include visual experiments and social messages, offering new perspectives to the audience.
+""Other Cinema'' is known as a place to introduce experimental and challenging works that stand out from commercial films. In particular, many American underground films and the works of independent film pioneers are screened. These works include visual experiments and social messages, offering new perspectives to the audience.
 
-Craig Baldwin also produces his own work, and his films occupy a central place in Other Cinema's screening program. His work explores visual and sound experiments through the reconstruction of archival footage and critique of pop culture.
+Craig Baldwin also produces his own work, and his films occupy a central place in Other Cinema's screening program. His work explores experiments in sight and sound through the reconstruction of archival footage and critique of pop culture.
 
 
 ---
@@ -141,7 +141,7 @@ Below, we"ve organized Craig Baldwin"s works by year and provided links to purch
 
 Baldwin's work is known for its use of found footage to sharply critique political and social themes. His films combine visual experimentation with political messages to provoke deep thought.
 
-In particular, ""Tribulation 99: Alien Anomalies Under America" uses political satire by portraying America's intervention in Latin America as an alien invasion. ""Sonic Outlaws" explores the themes of music and copyright, and questions the relationship between media and art. Spectres of the Spectrum examines the relationship between technology and society by exploring the history of radio waves and media.
+In particular, ""Tribulation 99: Alien Anomalies Under America"' uses political satire by portraying America"s intervention in Latin America as an alien invasion. "Sonic Outlaws" explores the themes of music and copyright, and questions the relationship between media and art. Spectres of the Spectrum examines the relationship between technology and society by exploring the history of radio waves and media.
 
 ---
 
@@ -149,7 +149,7 @@ In particular, ""Tribulation 99: Alien Anomalies Under America" uses political s
 
 "Other Cinema" is an experimental film screening series hosted by Baldwin every Saturday at San Francisco's Artists' Television Access (ATA). This series has become an important outlet for underground and experimental cinema, and is a treasure for film lovers and researchers alike.
 
-Baldwin's work and ""Other Cinema'' had a major influence on the development of underground American cinema and opened up new possibilities for experimental film. His activities continue to expand the range of cinematic expression and provide audiences with new perspectives.
+Baldwin's work and ""Other Cinema'' had a major influence on the development of underground American cinema and opened up new possibilities for experimental film. His activities continue to expand the range of cinematic expression and provide new perspectives to audiences.
 
 ---
 
@@ -165,9 +165,9 @@ Baldwin's work and ""Other Cinema'' had a major influence on the development of 
 
 As a pioneer of underground film, Craig Baldwin has sharply criticized political and social themes through experimental films that make full use of found footage. His work combines visual experimentation with political messages, provoking viewers to think deeply. ""Other Cinema'' is an important venue for presenting his works and has had a great influence on the development of underground cinema.
 
-His work continues to expand the range of cinematic expression and offer audiences new perspectives. Baldwin's work is a must-see for film lovers and researchers, and his work should continue to be watched.
+His work continues to expand the range of cinematic expression and offer new perspectives to audiences. Baldwin's work is a must-see for film lovers and researchers, and his work should continue to be watched.
 
-Other Cinema is an important hub of film culture in San Francisco's Mission District, providing a rare experience for lovers of underground and experimental film. Its DVD collection has become an important resource for deeply understanding film history and culture. It is definitely a place worth visiting for film lovers and researchers.
+Other Cinema is an important hub of film culture in San Francisco"s Mission District, providing a rare experience for lovers of underground and experimental film. Its DVD collection has become an important resource for deeply understanding film history and culture. It"s definitely a place worth visiting for movie buffs and researchers.
 
 ---
 

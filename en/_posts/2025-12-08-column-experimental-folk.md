@@ -29,7 +29,7 @@ Text: mmr｜Theme: Changes over time, techniques, and cultural background center
 It is a genre that has expanded the framework of folk music by incorporating such things as folk music.
 
 They range from the psychedelic movement of the late 1960s, British folk revival, American acid folk, to the post-industrial/experimental music scene of the 1980s to 2000s.
-Therefore, the genre is defined not so much by a ""uniform sound" as by ""acoustic experiments" centered on acoustics.
+For this reason, the genre is defined not so much by a ""uniform sound" as by ""acoustic experiments" centered around acoustics.
 
 
 ---
@@ -56,30 +56,30 @@ The earliest examples of Experimental Folk/Psych Folk can be found in the Acid F
 Scottish duo. Introducing Eastern instruments, a microtonal approach, and ritualistic song structures.
 It is said to be the group that created the prototype of Psych Folk.
 
-- **Comus** (1969–)
-His 1971 debut *"First Utterance"* was set in the context of British folk, but
+- **Comus**（1969–）  
+  1971年のデビュー作 *“First Utterance”* は、英国フォークの文脈にありながら、  
 ・Creepy vocals
 ・Dissonant acoustic guitar
 ・Frazy arrangement for flute and violin
 It has been praised as a work that had a decisive influence on later dark folk/acid folk.
 
-Although Comus was not a commercial success, current 93 and many other dark folk artists have spoken of its influence.
+Although Comus was not a commercial success, future members of Current 93 and many other dark folk artists have spoken of their influence.
 
 ---
 
 # 2. 1970s: The emergence of American introspective folk and experimentation
 
-In the United States, psych-folk was not as defined as a collective movement in the United Kingdom, but the following trends are important:
+In America, psych-folk was not as defined as a collective movement as in Britain, but the following trends are important:
 
 - **John Fahey and the Genealogy of American Primitives**
-Fingerpicking with improvisational, drone, and noise motives.
+Fingerpicking with improvisational/drone/noise motives.
 Fahey was a ""folk guitar experimenter'' and greatly influenced subsequent artists.
 
 - **Tim Buckley's later works**
 Introducing jazz phrasing and non-linear structures to folk music.
 
 - **Linda Perhacs ("Parallelograms", 1970)**
-An experimental production that combines tape processing, strings, and chorus work.
+  テープ処理、ストリングス、コーラスワークを組み合わせた実験的プロダクション。
 
 During this period, American experimental folk was scattered as ""singer-songwriters' personal experiments'' and did not emerge as a movement. However, it became the sound source foundation for the revival from the 1990s onwards, which will be discussed later.
 
@@ -88,19 +88,19 @@ During this period, American experimental folk was scattered as ""singer-songwri
 # 3. 1980s-90s: Influence of Industrial / Neofolk and role of Current 93
 
 In the 1980s and 1990s, "neofolk" with acoustic elements emerged from the British post-industrial scene.
-One of the central players is **Current 93 (hosted by David Tibet)**.
+One of the central players is **Current 93 (led by David Tibet)**.
 
 ## Features of Current 93
-- Early on there was a strong noise/industrial element.
+- In the beginning, noise/industrial elements were strong.
 - Since the 1990s, the focus has shifted to acoustic instruments such as harmonium, guitar, hurdy-gurdy, and percussion.
-- Emphasis on mysticism and poetic recitation
+- 神秘主義や詩的朗読を重視  
 - Inheriting Comus and British folk approaches
 - Featuring Nick Cave, Michael Cashmore, Ben Chasny (Six Organs of Admittance) and many more
 
 He has defined the current characteristics of Experimental Folk: ""experimental music x acoustic x poetic recitation.''
 
 ## Intersection with Neofolk
-Neofolk (Death in June, Sol Invictus, etc.) is often politically controversial, but sonically
+Neofolk (Death in June, Sol Invictus, etc.) are often politically controversial, but sonically
 **Minimal arrangement x folk guitar x drone x solemn poetry**
 These elements are connected to Psych Folk's experimental orientation.
 
@@ -129,7 +129,7 @@ Examples include.
 
 ---
 
-# 5. Post-2010s: Fusion of drone, electro-acoustic, and contemporary music
+# 5. 2010年代以降：ドローン、エレクトロアコースティック、現代音楽との融合
 
 In the 2010s, Experimental Folk began blurring the lines between acoustic and contemporary music.
 
@@ -167,18 +167,18 @@ modes, ritual rhythms, religious poetry, etc.
 - Mysticism/Fables/Religious Symbols
 - Naturalism/pastoral scenes
 - Spiritual world/introspection
-- Quotes from folk tales/legends
+- 民話／伝承の引用  
 - Unusual feeling, recollection of altered consciousness (derived from psychedelia)
 
 ---
 
 # 7. Positioning of Comus・Espers・Current 93
 
-| Artist | Region | Active period | Position |
-|--------------|------|------------|------------|
+| アーティスト | 地域 | 活動時期 | 位置付け |
+|--------------|------|-----------|-----------|
 | **Comus** | UK | 1969– | The origin of acid folk. Darkfolk template. |
 | **Current 93** | UK | 1982– | A fusion of post-industrial and acoustic. The center of neofolk. |
-| **Espers** | United States | 2002– | A symbol of the resurgence of Freak Folk/Psych Folk in the 2000s. |
+| **Espers** | USA | 2002– | A symbol of the resurgence of Freak Folk/Psych Folk in the 2000s. |
 
 By juxtaposing these three elements, we can understand that Experimental Folk is ""not a continuous genre, but a phenomenon in which multiple cultural trends are connected experimentally with acoustics as its base.''
 
@@ -239,7 +239,7 @@ Experimental Folk / Psych Folk, within the constraints of acoustic instruments,
 ・Sound adventure
 ・Poetic worldview
 ・Intersection with folk music and religious symbols
-It is a place for experimenting with ideas, and its core lies in the experimental nature of the creative method itself.
+It is a place where people can try their hand at experimentation, and its core lies in the experimental nature of the creative method itself.
 
 The bizarre acid folk of Comus, the religious recitations of Current 93, and the tranquil, multi-layered arrangements of Espers.
 What these artists have in common is that they treat folk as a "material" and deconstruct and reconstruct it acoustically and culturally.

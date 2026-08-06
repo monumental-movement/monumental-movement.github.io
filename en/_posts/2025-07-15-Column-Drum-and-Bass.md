@@ -8,7 +8,7 @@ layout: post
 tags:
 - Drum n Bass
 - Jungle
-title: '[Column] The impact of Drum & Bass: Urban poetics woven by speed and bass'
+title: 【コラム】 Drum & Bassの衝撃：速度と重低音が紡ぐ都市の詩学
 ---
 
 
@@ -17,7 +17,7 @@ title: '[Column] The impact of Drum & Bass: Urban poetics woven by speed and bas
 Text: mmr｜Theme: Thoughts on Drum & Bass/Jungle/UK sound
 
 
-Drum & Bass (D&B) is a music genre born in London's underground club scene in the early 1990s, and at the same time is the very rhythm of multicultural city life. Combining fast breakbeats, roaring bass lines, and reggae/dub/hip-hop/techno, they revolutionized UK music history.
+Drum & Bass（以下D&B）は、1990年代初頭のロンドンの地下クラブシーンで生まれた音楽ジャンルであり、同時に多文化的都市生活のリズムそのものである。高速ブレイクビート、唸るようなベースライン、レゲエ／ダブ／ヒップホップ／テクノなどを融合し、UKの音楽史に革新をもたらした。
 
 Its evolution has been incredible, with many branches ranging from jungle, liquid funk, and techstep to neurofunk, jump-up, and drumstep.
 
@@ -28,7 +28,7 @@ Its evolution has been incredible, with many branches ranging from jungle, liqui
 
 **● 1990-1993: Jungle movement**
 
-D&B's roots lie in the jungle genre. This was a chaotic beat music that was a mix of acid house, rave, hip-hop, and reggae, and centered around a sampling of Amen Break.
+D&Bのルーツはジャングルというジャンルにある。これは、アシッド・ハウス、レイヴ、ヒップホップ、レゲエなどが混ざり合って生まれたカオス的ビート音楽であり、特にアーメン・ブレイク（Amen Break）のサンプリングが中核を成していた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -38,7 +38,7 @@ D&B's roots lie in the jungle genre. This was a chaotic beat music that was a mi
 
 **Rebel MC / Congo Natty**: Remains strongly influenced by reggae roots.
 
-**Shut Up and Dance**: A bridge between jungle and hip-hop.
+**Shut Up and Dance**：ジャングルとヒップホップの橋渡し。
 
 **LTJ Bukem**: Leads to later Intelligent D&B.
 
@@ -46,11 +46,11 @@ D&B's roots lie in the jungle genre. This was a chaotic beat music that was a mi
 
 **Establishment period of Drum & Bass**
 
-From this time on, the name "jungle" gradually changed to "D&B". This means the sound is more refined and the sub-bass and production techniques have improved. Its functionality as club music increases and the scene matures.
+From this time on, the name "jungle" gradually changed to "D&B". This means a more refined sound, improved sub-bass and production techniques. Its functionality as club music increases and the scene matures.
 
 #### Representative artists:
 
-**Goldie (Metalheadz)**: Sublimated D&B to art with the masterpiece ["Timeless"](https://amzn.to/4nMAsF9).
+**Goldie (Metalheadz)**: Sublimated D&B to art with his masterpiece ["Timeless"](https://amzn.to/4nMAsF9).
 
 **Roni Size / Reprazent**: Won the Mercury Prize for [""New Forms''](https://amzn.to/3J3I7zN), which was a fusion of live performance and jazz.
 
@@ -64,7 +64,7 @@ From this time on, the name "jungle" gradually changed to "D&B". This means the 
 <div class="table-border">
 <table>
 <thead>
-<tr>
+    <tr>
 <th>element</th>
 <th>Contents</th>
 </tr>
@@ -78,8 +78,8 @@ From this time on, the name "jungle" gradually changed to "D&B". This means the 
 <td>Breakbeat</td>
 <td>Large sampling of Amen, Funky Drummer, Apache, etc.</td>
 </tr>
-<tr>
-<td>Subbase</td>
+    <tr>
+      <td>サブベース</td>
 <td>Super bass that resonates with your body is the core of music</td>
 </tr>
 <tr>
@@ -89,8 +89,8 @@ From this time on, the name "jungle" gradually changed to "D&B". This means the 
 <tr>
 <td>Sound Design</td>
 <td>Effect processing such as filters, reverb, and distortion is very important</td>
-</tr>
-</tbody>
+    </tr>
+  </tbody>
 </table>
 </div>
 <br>
@@ -100,7 +100,7 @@ From this time on, the name "jungle" gradually changed to "D&B". This means the 
 
 ### Subgenre: The world of D&B with its many faces
 
-**● Jungle**
+**● ジャングル（Jungle）**
 
 The origin of D&B. Features ragga vocals, reggae bass, and rough breaks.
 
@@ -110,7 +110,7 @@ Dark, industrial, inorganic sound. Representatives include Ed Rush & Optical and
 
 **● Neurofunk**
 
-Evolution of Tech Step. Mainly nervous and distorted bass lines. Noisia, Phace, Mefjus, etc.
+テックステップの進化形。神経質で歪んだベースラインが中心。Noisia、Phace、Mefjusなど。
 
 **● Liquid Funk**
 
@@ -118,7 +118,7 @@ A mellow style that incorporates elements of jazz, soul, and R&B. Caliber, High 
 
 **● Jump-Up**
 
-With a catchy bass and simple structure, it connects directly to the dance floor. DJ Hazard, Sub Zero, etc.
+A catchy bass and simple structure that connects directly to the dance floor. DJ Hazard, Sub Zero, etc.
 
 **● Drumstep**
 
@@ -139,7 +139,7 @@ A subgenre influenced by halftime and dubstep. Excision, Downlink etc.
 
 **Exit Records (dBridge)**: Developing experimental and sophisticated sounds.
 
-In addition, unofficial media such as Pirate Radio and Rinse FM played a large role in popularizing D&B.
+また、Pirate Radio（海賊ラジオ）やRinse FMといった非公式メディアがD&Bの普及に果たした役割も大きい。
 
 
 <hr>
@@ -170,13 +170,13 @@ Born in multi-ethnic cities like London and Bristol, D&B grew up at the intersec
 
 ### Global expansion and branching
 
-Currently, D&B reigns as the foundation of bass music around the world. Scenes are particularly established in Europe (Austria, the Netherlands), North America, Japan, and Australia.
+Currently, D&B reigns as the foundation of bass music around the world. Scenes are particularly established in Europe (Austria, the Netherlands), North America, Japan, Australia, etc.
 
 **● Featured contemporary artists**
 
-**Noisia (disbanded)**: God-level production technology.
+**Noisia（解散済）**：神レベルのプロダクション技術。
 
-**Alix Perez**: A sonic alchemist who can do everything from dub to half step.
+**Alix Perez**: A sonic alchemist who can do everything from dub to half-step.
 
 **Sub Focus / Wilkinson**: A link between the mainstream and the underground.
 
@@ -187,7 +187,7 @@ Currently, D&B reigns as the foundation of bass music around the world. Scenes a
 
 Drum & Bass is more than just club music. It is the beat of anxiety, hope, speed, tension, and resistance of people living in the city.
 
-This music connects, moves, and makes people think in a divided society. Once you fall in love with the rhythm, D&B will begin to flow within you.
+この音楽は、分断された社会の中で人々をつなげ、動かし、考えさせる。ひとたびそのリズムに魅せられたなら、あなたの中にもD&Bが流れ始めるだろう。
 
 ---
 

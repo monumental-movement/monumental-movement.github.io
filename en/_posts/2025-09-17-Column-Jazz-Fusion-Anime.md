@@ -9,8 +9,8 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Column] Affinity between anime and jazz/fusion: A story of city nights and
-  music'
+title: '[Column] The affinity between anime and jazz/fusion: A story of city nights
+  and music'
 ---
 
 
@@ -53,7 +53,7 @@ Since this success, jazz has often been referred to as a symbol of coolness and 
 On the other hand, jazz is not just "urban".
 Cafes, street corners on rainy days, calm afternoons - it is often used as background music to brighten up casual everyday life.
 
-For example, "Apollo on the Slope" (2012). The original manga uses jazz itself as its theme, but the sounds of the sessions that echo in the city of Nagasaki, where the story is set, support the fluctuations of daily life and youth with the improvisational nature unique to jazz.
+For example, "Apollo on the Slope" (2012). The original manga uses jazz itself as its theme, but the sounds of the sessions that echo in the city of Nagasaki, where the story takes place, support the fluctuations of daily life and youth with the improvisation characteristic of jazz.
 In addition, although ""Nodame Cantabile'' focuses on classical music, swing and light jazz-style arrangements are inserted into everyday scenes, highlighting the free-spirited nature of the characters.
 
 ---
@@ -92,7 +92,7 @@ flowchart TD
 ### ■ Jazz/fusion works recommended for anime fans
 
 | Year | Artist/Album | Recommended Tracks |
-| ----- | ------------------------- | ---------------------------- |
+| ----- | ------------------------| | ---------------------|
 | 1970s | **Miles Davis** *Bitches Brew* | "Pharaoh's Dance": A chaotic space battle scene |
 | 1980s | **Miles Davis** *Tutu* | "Tutu": A character walking in the city at night |
 | 1990s | **Katsumi Watanabe** *Tokyo Ensemble Lab* | "Manhattan Flu Dance": Bebop-like speed |
@@ -104,7 +104,7 @@ flowchart TD
 ---
 
 
-### ■ Fantasy crossover table (specific anime scenes x jazz songs)
+### ■ Delusional crossover table (specific anime scenes x jazz songs)
 
 | Anime scene | Jazz/fusion song you want to play in your imagination | Explanation |
 | --------------------------- | ------------------------------------ | --------------------------- |

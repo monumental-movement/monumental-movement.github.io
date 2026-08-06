@@ -28,7 +28,7 @@ From the end of the 19th century to the beginning of the 20th century, Buenos Ai
 Centered around Spain and Italy, Eastern European, African, and indigenous cultures were mixed together, and work, poverty, and loneliness existed on a daily basis.
 
 Tango grew up on the "underside" of this city.
-It was performed not at the balls of high society, but in the courtyards of dockworkers' taverns, boarding houses, and brothels.
+It was danced not at the balls of high society, but in the courtyards of dockworkers' taverns, boarding houses, and brothels.
 Physical distance, line of sight, and improvisation were more important than musical sophistication.
 
 > Tango is a culture that has always started from the periphery, not the center of society.
@@ -56,7 +56,7 @@ color: #fff;
 Argentina in the late 19th century experienced rapid economic growth and at the same time serious social divisions.
 The nation prospered through agricultural exports, but only a small portion of the landowning class benefited.
 
-As large numbers of immigrant men flocked to cities in search of work, the male-female ratio collapsed.
+As large numbers of immigrant men flocked to cities in search of jobs, the male-female ratio collapsed.
 As a result, a culture where men dance with each other and competitive dance styles naturally form.
 
 The lyrics of early tango were very different from today's romantic image.
@@ -119,7 +119,7 @@ Its poetic depictions of personal sadness, nostalgia, and lost love have gained 
 ## The distance between politics and tango
 
 
-Tango has also had a complicated relationship with political power.
+Tango has also had a complex relationship with political power.
 Although they rarely supported a particular political party directly, they were used to shape the nation's image.
 
 On the other hand, there were times when it was affected by censorship and cultural control.
@@ -152,9 +152,9 @@ From the 1980s onwards, tango once again attracted attention.
 There are multiple factors.
 
 One is to rebuild it as an international performing art.
-The other issue is the re-evaluation of cultural heritage within Argentina.
+The other issue is the reassessment of cultural heritage within Argentina.
 
-Dance is liberated from formalism, and emphasis is once again placed on improvisation and physical dialogue.
+Dance is liberated from formalism, with a renewed emphasis on improvisation and physical dialogue.
 There is a growing movement among younger generations to reinterpret traditions.
 
 > Revitalization is not a reproduction of the past, but a renewal.
@@ -165,7 +165,7 @@ There is a growing movement among younger generations to reinterpret traditions.
 
 
 Tango in modern times is not just a nostalgic hobby.
-It functions as a place for physicality, distance from others, and impromptu communication in urban life.
+It functions as a place for physicality in urban life, distance from others, and impromptu communication.
 
 Gender roles are also becoming more flexible, and rigid lead-follow structures are being reconsidered.
 Tango has once again become a ""mirror that reflects society.''

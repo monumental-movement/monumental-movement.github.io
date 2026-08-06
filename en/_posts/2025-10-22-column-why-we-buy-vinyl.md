@@ -69,7 +69,7 @@ This **troublesomeness actually creates attachment**.
 
 ## Chapter 2: Memories in Noise -- Analog and Nostalgia
 
-The moment the needle drops, there is a ""sah'' noise.
+The "thud" noise the moment the needle drops.
 For some reason, many people feel nostalgic just by listening to it.
 
 This phenomenon is psychologically called the "Proust effect."
@@ -96,7 +96,7 @@ Unconsciously, we seek a sound that is not too formal.
 
 ---
 
-## Chapter 4: Media Archeology - Music as Material
+## Chapter 4: Media Archeology -- Music as Material
 
 Records are also **sound sculptures**.
 The act of carving out sound is to confine time into matter.
@@ -122,9 +122,9 @@ Still, they "buy" records and "display" them on their shelves.
 For them, records are not ""archives" or ""collections."
 Rather, it functions as "evidence of experience."
 
-The artistry of the jacket, the act of turning the disc over,
+The artistry of the jacket, the act of turning the record over,
 Physical steps not in the app.
-This is also an expression of **anti-transparency culture** in the digital age.
+This is also an expression of **anti-transparent culture** in the digital age.
 
 ---
 
@@ -147,7 +147,7 @@ But that's what a "living sound" is all about.
 
 Psychologically, people tend to "attach to imperfections" rather than to perfection.
 Accept that imperfection as part of yourself.
-That's the appeal of the "ghost of analog".
+That's the appeal of it as the "ghost of analog."
 
 --Records are not tombstones for music.
 Rather, **human memory itself is a rotating device**.

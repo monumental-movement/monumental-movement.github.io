@@ -23,7 +23,7 @@ Text: mmr | Theme: Rebellion and destruction - a challenge to existing music and
 
 ## 1) Pioneer (1910s–1940s): Futurism and tape experiments — conceptualization of "noise"
 ### Historical background
-A time when industrialization and urbanization made the noise of the city crowds and machinery commonplace. The ""aesthetic sense'' of sound expanded, and sounds other than traditional musical instruments began to be incorporated into art.
+A time when industrialization and urbanization made the noise of cities and machinery commonplace. The ""aesthetic sense'' of sound expanded, and sounds other than traditional musical instruments began to be incorporated into art.
 
 ### Important events/people
 - In 1913, Italian avant-garde artist Luigi Russolo published ""The Art of Noises''.
@@ -33,7 +33,7 @@ A time when industrialization and urbanization made the noise of the city crowds
 ---
 
 ### Representative works
-- Live recording of Russolo's "Noise Machine".
+- Recorded demonstration of Russolo's "Noise Machine".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -52,7 +52,7 @@ After World War II, the development of magnetic tape and electroacoustic equipme
 - musique concrète (1948-) by Pierre Schaeffer.
 
 ### Representative works
-- Works by Pierre Henri and Tod Dockstader.
+- Works by Pierre Henry and Tod Dockstader.
 
 ### Equipment/Technology
 - Tape editing (reverse rotation, looping, cutting/splicing).
@@ -104,11 +104,11 @@ Cassette culture and the DIY spirit formed an international noise network.
 ---
 
 ## 6) Diversification and crossover (1990s–2000s)
-### Historical background
+### 時代背景
 Noise intersects with rock, metal, post-rock, and electronica.
 
-### Representative works/trends
-- [Boredoms](https://amzn.to/3WenMeo), [Lightning Bolt](https://amzn.to/49apKnp), [Sonic Youth](https://amzn.to/498sFwX), etc.
+### 代表的作品／潮流
+- [Boredoms](https://amzn.to/3WenMeo)、[Lightning Bolt](https://amzn.to/49apKnp)、[Sonic Youth](https://amzn.to/498sFwX)など。
 
 ### Equipment/Technology
 - DAW, digital effects, samplers, granular synthesis.
@@ -117,12 +117,12 @@ Noise intersects with rock, metal, post-rock, and electronica.
 
 ## 7) Modern (2010s–present): Software and Modules
 ### Historical background
-Diversification through modular synth revival and laptop acoustics.
+Diversification with modular synth revival and laptop sound.
 
 ### Representative trends
 - Connection with Eurorack noise, live coding and sound art.
 
-### Equipment/Technology
+### 機材・技術
 - Modular (Eurorack), Max/MSP, SuperCollider, Circuit Bending.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,7 +132,7 @@ Diversification through modular synth revival and laptop acoustics.
 ## Summary of equipment changes
 - **Initial**: Noise machine, environmental sound
 - **Tape period**: Magnetic tape editing
-- **Analog period**: Synth, guitar + effects
+- **アナログ期**：シンセ、ギター＋エフェクト  
 - **Cassette period**: DIY noise, cassette distribution
 - **Digital period**: DAW, software processing
 - **Modern**: Eurorack, live coding, circuit bending
@@ -140,11 +140,11 @@ Diversification through modular synth revival and laptop acoustics.
 ---
 
 ## Representative masterpiece list
-- Luigi Russolo — *The Art of Noises* (1913, theory/performance)
+- Luigi Russolo — *The Art of Noises*（1913, 理論書／実演）  
 - Pierre Schaeffer — *musique concrète* works
 - Lou Reed — *Metal Machine Music* (1975)
-- Throbbing Gristle — early works
-- Einstürzende Neubauten — *Kollaps*
+- Throbbing Gristle — 初期作品群  
+- Einstürzende Neubauten — *Kollaps*  
 - Merzbow — *Pulse Demon* and others
 - Whitehouse — early works
 - Boredoms — Late experimental works
@@ -152,8 +152,8 @@ Diversification through modular synth revival and laptop acoustics.
 
 ---
 
-## At the end
-Noise music is always a challenge to existing aesthetics and an attempt to expand the boundaries of music. From Russolo's mechanical sounds to modular synths, even after more than 100 years of history, the essence of all instruments is to "listen to the sound itself."
+## 終わりに
+Noise music is always a challenge to existing aesthetics and an attempt to expand the boundaries of music. From Russolo's mechanical sounds to modular synths, even after more than 100 years of history, their essence lies in "listening to the sound itself."
 
 ---
 

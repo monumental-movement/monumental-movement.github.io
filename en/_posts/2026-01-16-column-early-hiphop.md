@@ -47,7 +47,7 @@ color: #fff;
 ## Urban conditions of the South Bronx
 
 
-From the late 1960s to the 1970s, the South Bronx was experiencing rapid urban decline. Partition due to expressway construction, decline in the manufacturing industry, loss of employment, and population outflow proceeded simultaneously.
+From the late 1960s to the 1970s, the South Bronx was experiencing rapid urban decline. Partition due to expressway construction, decline in the manufacturing industry, loss of employment, and population outflow progressed simultaneously.
 
 Homes were abandoned, fires and arson were common, and public services were severely degraded. There were few formal cultural activities or recreational opportunities for young people to participate.
 
@@ -72,13 +72,13 @@ D --> E[The emergence of an informal culture]
 ## Birth of the role of DJ
 
 
-DJs played the most central role in early hip-hop culture. However, DJs at this stage were more like event organizers than the musicians and artists they are today.
+DJs played the most central role in early hip-hop culture. However, DJs at this stage were more like people in charge of organizing events than the musicians and artists they are today.
 
 The DJ was responsible for preparing the sound equipment, securing power, bringing in records, and making the party itself happen. In addition to ""selecting" the music, it was also necessary to ""create the space."
 
 The act of extracting rhythmic parts from funk and soul records and repeating them while observing the audience's reaction became spontaneous and sophisticated.
 
-At this stage, DJs were less creators than time controllers.
+At this stage, DJs were more time-manipulators than creators.
 
 > The DJ's role was not to play music, but to control the energy of the group.
 
@@ -87,13 +87,13 @@ At this stage, DJs were less creators than time controllers.
 ## Discovery and establishment of breakbeats
 
 
-Funk and soul records often had short interludes that consisted of only instrumental music. At this moment, the DJ notices that the dancers' movements are at their most intense.
+Funk and soul records often had short interludes that consisted of just instrumental music. At this moment, the DJ notices that the dancers' movements are at their most intense.
 
-By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype for the structure that would later be called a breakbeat.
+By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype for the structure later known as breakbeats.
 
 What is important is that this method was not a theoretical invention, but was created as a result of observing audience reactions. The musical structure was reorganized by bodily responses.
 
-> Blake was given meaning by being danced, not discovered.
+> Blake was not discovered, but given meaning by being danced.
 
 ---
 
@@ -115,7 +115,7 @@ This dance culture later came to be called breakdance, but at first there was no
 
 The use of voice in early parties was practical rather than poetic. Voices were used to stir up the crowd, command attention, and keep the party flowing.
 
-Short phrases, rhyming phrases, and repeated calls emerge naturally and gradually connect with rhythm.
+Short phrases, rhyming phrases, and repeated calls emerge naturally and gradually become connected to rhythm.
 
 At this stage there was little personal narrative or social commentary, and the goal was to maintain the energy of the space.
 

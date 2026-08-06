@@ -14,7 +14,7 @@ title: '[Column] Sama'' Abdulhadi ─ Palestinian techno that resonates across b
 ---
 
 
-## The bass that resounded from Palestine to the world
+## The bass that echoed from Palestine to the world
 
 Text: mmr | Theme: Understanding how contemporary techno intersects with politics, culture, and identity through the activities of Palestinian DJ Sama' Abdulhadi
 
@@ -46,7 +46,7 @@ Sama' Abdulhadi.
 
 A DJ/producer from Palestine, he is a symbol of making the Middle Eastern techno scene visible to the world.
 
-One of the things that made her name internationally known was her appearance in Boiler Room in 2018. Although centered on the rough and heavy Berlin-style techno, there was a sense of urgency to their playing, and a passion that went beyond mere club music.
+One of the things that made her name famous internationally was her appearance in Boiler Room, which was released in 2018. Although centered on the rough and heavy Berlin-style techno, there was a sense of urgency to their playing, and a passion that went beyond mere club music.
 
 But Sama" Abdulhadi"s importance cannot be explained simply as a ""famous female DJ.''
 
@@ -111,7 +111,7 @@ E --> F[Connect to the international scene]
 
 At the time, the electronic music scene itself was still small in the Middle East. Particularly in Palestine, the foundation of club culture is very weak, and it is not easy to hold events.
 
-However, that's why the DIY spirit was so strong.
+But that's why I had a strong DIY spirit.
 
 look for a place,
 Bring your equipment,
@@ -184,7 +184,7 @@ Also, rather than portraying her Middle Eastern origins as a ""speciality,'' she
 
 This attitude gained support from many clubbers and DJs.
 
-> Before she was a "Palestinian DJ", she was an extremely powerful techno DJ.
+> Before she was a "Palestinian DJ" she was an extremely powerful techno DJ.
 
 ---
 
@@ -192,7 +192,7 @@ This attitude gained support from many clubbers and DJs.
 
 ### Impact of 2018
 
-One of the events that made Sama" Abdulhadi"s name popular on a global scale was her appearance on Boiler Room in 2018.
+One of the events that made Sama" Abdulhadi"s name popular on a global scale was his appearance on Boiler Room in 2018.
 
 Boiler Room has been a pivotal distribution platform in club culture since the 2000s.
 
@@ -210,7 +210,7 @@ Hard and stoic.
 Energetic and uncompromising.
 There is also a strong sense of unity with the audience.
 
-He was highly praised as a full-fledged techno DJ, not just a ""unusual regional DJ.''
+He was highly praised as a full-fledged techno DJ, not just a ""unusual local DJ.''
 
 <div class="mermaid">
 timeline
@@ -270,7 +270,7 @@ mindmap
       アンダーグラウンド文化
 </div>
 
-What is particularly important is that he is devoted to ""making people dance.''
+What is especially important is that he is devoted to ""making people dance.''
 
 In recent years, techno has tended to focus more on social media and visual production. However, her play is extremely physical and emphasizes physicality.
 
@@ -314,7 +314,7 @@ After the event, some people criticized her for ""desecrating a religious space,
 
 This incident caused great debate around the world.
 
-Club culture supporters came to her defense.
+Club culture supporters defended her.
 
 On the other hand, there was also criticism from conservatives.
 
@@ -365,7 +365,7 @@ The emergence of Sama' Abdulhadi was a huge inspiration to young DJs and produce
 The influence on female artists is particularly large.
 
 "You can go to the world even if you are from the Middle East"
-"It"s appreciated even underground."
+"It"s appreciated even in the underground."
 "Connecting from the local scene to the international stage"
 
 Such a possibility has been visualized.

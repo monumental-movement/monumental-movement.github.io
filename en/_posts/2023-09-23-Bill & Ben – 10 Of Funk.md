@@ -12,9 +12,9 @@ title: Bill & Ben – 10 Of Funk
 ---
 
 
-Bill & Ben's "10" Of Funk is full of funk music elements: rhythmic beats, heavy bass lines, syncopation, and a soul-stirring horn section.
+Bill & Ben's ""10'' Of Funk is full of funk music elements: rhythmic beats, heavy bass lines, syncopation, and a soul-stirring horn section.
 
-Enjoy Bill & Ben's funky and entertaining sound, including powerful beats, unique riffs, and groovy rhythms that will get the dance floor excited.
+Enjoy Bill & Ben's funky and entertaining sound, including powerful beats, unique riffs, and groovy rhythms that will get the dance floor going.
 
 #### Tracklist
 ```md

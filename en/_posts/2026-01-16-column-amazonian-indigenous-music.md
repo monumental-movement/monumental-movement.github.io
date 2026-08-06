@@ -51,7 +51,7 @@ In many Amazonian indigenous societies, music has a distinct social role. Who si
 
 Certain ceremonial songs are known only to elders, and their melodies are passed down orally from generation to generation. On the other hand, the songs that accompany group dances are shared by the entire community and become engraved on the body through repetition. Musical knowledge is not something that can be taught; it is something that can be acquired naturally in everyday life.
 
-Music also plays a role in maintaining order within a community. The progress of the ritual is controlled by music, and when the song ends, the next act begins. Time itself is divided by sound.
+Music also plays a role in maintaining order within a community. The progression of the ritual is controlled by music, and when the song ends, the next act begins. Time itself is divided by sound.
 
 > Music is a device that visualizes the structure of society and fixes the order of the community in the form of sound.
 
@@ -60,9 +60,9 @@ Music also plays a role in maintaining order within a community. The progress of
 ## Melody and rhythm as imitation of nature
 
 
-In indigenous Amazonian music, many of the melodies and rhythms are directly influenced by the natural environment. The sounds of birds, the footsteps of animals, and the rhythm of rain are directly incorporated into musical materials.
+In Amazonian indigenous music, many of the melodies and rhythms are directly influenced by the natural environment. The sounds of birds, the footsteps of animals, and the rhythm of rain are directly incorporated into musical materials.
 
-Melodies are often composed of short repetitions of phrases, and are not intended to develop or resolve as in Western music. The structure, which does not have a clear end, reflects the sense of a continuous space in the forest. The rhythm is also not metrical, but cyclical and contains fluctuations.
+Melodies are often composed of short repetitions of phrases, and do not aim for development or resolution as in Western music. The structure, which has no clear end, reflects the sense of a continuous space in the forest. The rhythm is also not metrical, but cyclical and contains fluctuations.
 
 These musics do not "describe" nature. This is an act to reaffirm that humans exist as a part of nature.
 
@@ -73,7 +73,7 @@ These musics do not "describe" nature. This is an act to reaffirm that humans ex
 ## Symbolism of instrumentation and materials
 
 
-The instruments used are made from materials obtained from the surrounding environment. The main materials are wood, bamboo, bone, seeds, shells, and clay, each with specific symbolism.
+The instruments used are made from materials obtained from the surrounding environment. The main materials include wood, bamboo, bone, seeds, shells, and clay, each of which has a specific symbolism.
 
 The flute is one of the most important musical instruments, and is often said to reproduce the voices of mythical beings or ancestors. Taiko drums serve as the basis for dances and marches, and serve to unify the movement of the community. Shakers are associated with rain and fertility and are an essential part of rituals.
 
@@ -86,7 +86,7 @@ For some instruments, it may not even be possible to see them; only the sound is
 ## Ritual music and consciousness transformation
 
 
-Rites of passage and healing use long, repetitive songs and rhythms. These changes the participants' state of consciousness and shift them from the everyday world to ritual time.
+Rites of passage and healing rituals use long, repetitive songs and rhythms. These changes the participants' state of consciousness and shift them from the everyday world to ritual time.
 
 Shamans communicate with spirits through song and seek out the causes of illness and illness. Lyrics are often symbolic and have no direct meaning. What is important is not the content of the words, but the vibration and repetition of the sound itself.
 

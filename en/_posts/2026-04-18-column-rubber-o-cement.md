@@ -20,7 +20,7 @@ title: '[Column] Rubber O Cement and the underground structure of San Francisco 
 
 Text: mmr｜Theme: The intersection of collective improvisation and DIY spirit in San Francisco underground music
 
-In San Francisco's underground music scene, ""Rubber O Cement'' is known as a band that cannot be categorized into a clear genre. Without a fixed organization or style, he has worked with approaches that turn improvisation, noise, performance, video, and even the space itself into works.
+In San Francisco's underground music scene, Rubber O Cement is known as a band that cannot be categorized into a clear genre. Without a fixed organization or style, he has worked through approaches that incorporate improvisation, noise, performance, video, and even the space itself into works.
 
 Their characteristic is that they are more of a "variable project" than a band. The participating members are fluid, with different artists and performers being involved each time, although the event centers around a specific central figure. This structure is closely related to the art collective culture in San Francisco since the 1970s.
 
@@ -62,13 +62,13 @@ Rubber O Cement focuses on activities in these "non-institutional spaces" and de
 
 Rubber O Cement is a fluid collective, and the concept of fixed members is vague, but Grux and Mick Goldwater are known as the core of their activities.
 
-Grux is known for his visually and physically impactful performances, collapsing the boundaries between music, objects, costumes, and bodies. During the actual performance, the performers wear oddly shaped masks and structures, and treat the instruments themselves as part of their extended bodies. As a result, the act of performing is not just the production of sound, but also a visual event.
+Grux is known for his visually and physically impactful performances, collapsing the boundaries between music, objects, costumes, and bodies. During the actual performance, he wears strangely shaped masks and structures, and treats the instrument itself as an extended part of his body. As a result, the act of performing is not just the production of sound, but also a visual event.
 
 Meanwhile, Mick Goldwater is heavily involved in the acoustics, responsible for designing the flow of sound throughout the space using electronics, feedback, and processed signals. His approach is distinctive in that it emphasizes the state of the sound rather than the musical structure.
 
 The relationship between the two is not the traditional division of roles between performer and accompanist, but functions as ""two forces that control the space from different aspects.''
 
-> The core of Rubber O Cement is the intersection of physicality and acoustic design.
+> At the core of Rubber O Cement is the intersection of physicality and acoustic design.
 
 ---
 
@@ -100,7 +100,7 @@ Another important aspect of Rubber O Cement is its DIY spirit. Rather than relyi
 
 This attitude resonates with post-punk DIY culture, but it's not just anti-commercialism. Rather, it appears as a technological quest to control sound itself.
 
-The recording method is also different from traditional album production, focusing on live recording and on-site recording. There is a strong tendency to keep editing to a minimum and leave the sounds of the events as they are.
+The recording method is also different from traditional album production, focusing on live recording and on-site recording. There is a strong tendency to keep editing to a minimum and leave the sound as it happened.
 
 <div class="mermaid">
 flowchart LR
@@ -119,9 +119,9 @@ Rubber O Cement's activities are not limited to music, but have strong aspects a
 
 Visual elements are often introduced, with video projection, lighting, and object placement linked to sound. This allows the audience to experience the entire environment rather than just hearing the sound.
 
-It also assumes that performance is not reproducible. Even with the same setup, the results will not be the same. This irreversibility is at the core of their expression.
+It is also assumed that performance is not reproducible. Even with the same setup, the results will not be the same. This irreversibility is at the core of their expression.
 
-> Uniqueness is what defines the value of their work.
+> The one-time nature of their work defines the value of their work.
 
 ---
 
@@ -191,7 +191,7 @@ Furthermore, it has strong relationships with galleries and art spaces, and has 
 
 Today, improvised music and noise are being reinvented in a digital environment, but Rubber O Cement's approach remains relevant. In particular, expressions that include space and the body have a value that is difficult to replace online.
 
-Furthermore, the variable composition of members and non-fixed work formats are highly compatible with modern collaboration culture. Their models serve as a reference point for artists who work on a project basis.
+Furthermore, the variable composition of members and non-fixed work formats are highly compatible with contemporary collaborative culture. Their models serve as a reference point for artists who work on a project basis.
 
 > Rubber O Cement presents a structure that can be updated even in the current representation environment.
 
@@ -205,7 +205,7 @@ Their activities question the very definition of music, blurring the boundaries 
 
 Such practices continue to present values ​​that differ from commercial success. And that is the source of the underground scene's staying power.
 
-> Rubber O Cement is a concrete example of the possibilities that extend beyond music.
+> Rubber O Cement is a concrete example of the possibilities that extend outside of music.
 
 
 ---

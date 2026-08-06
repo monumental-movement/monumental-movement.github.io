@@ -19,7 +19,7 @@ title: '[Column] Tech House: Minimal precision and reinventing the groove'
 
 Text: mmr｜Theme: Background of birth, characteristics of sound, main artists, development in each region, expansion since the 2000s, and current situation
 
-Tech House is a genre that fused the minimal structure of techno with the groove of house, establishing a unique presence in club scenes around the world from the mid-1990s to the 2000s. To put it bluntly, it is ""softer than techno and harder than house,'' but in reality it is a complex music culture that closely reflects the process of scene formation, regional characteristics, and the evolution of DJ culture.
+Tech House is a genre that fuses the minimal structure of techno with the groove of house, establishing a unique presence in club scenes around the world from the mid-1990s to the 2000s. To put it bluntly, it is ""softer than techno and harder than house,'' but in reality it is a complex music culture that closely reflects the process of scene formation, regional characteristics, and the evolution of DJ culture.
 
 
 ---
@@ -40,7 +40,7 @@ color: #fff;
 
 ## 1. What is Tech House?
 
-Tech House is generally understood to be ""dance music that incorporates the structure and sonic processing of techno while maintaining the warmth of house.'' It combines the minimalism, metallic textures, and repetitive structures found in techno while retaining the funkiness and fatness of house.
+Tech House is generally understood as ""dance music that incorporates the structure and sonic processing of techno while maintaining the warmth of house.'' It combines the minimalism, metallic textures, and repetitive structures found in techno while retaining the funkiness and fatness of house.
 
 The characteristics can be summarized as follows.
 
@@ -67,7 +67,7 @@ In particular, the following trends were the premise for the creation of Tech Ho
 * Mix of Tribal House, Garage, and Progressive House
 * Cross-genre DJ styles from Pirate Radio and the London club scene (The End, etc.)
 
-The people who gathered at the club weren't just looking for either techno or house, but were enjoying long DJ plays that mixed elements of both. Through this process, he developed a sense of mixing that naturally combines the "hardness of techno" and the "warmth of house."
+The people who gathered at the club weren't just looking for either techno or house music, they were enjoying long-form DJ plays that mixed elements of both. Through this process, he developed a sense of mixing that naturally combines the "hardness of techno" and the "warmth of house."
 
 ---
 
@@ -152,7 +152,7 @@ flowchart TD
 
 ## 6. Changes in sound
 
-Towards the late 2000s, Tech House experienced the following changes.
+Towards the late 2000s, Tech House underwent the following changes.
 
 * **More detailed arrangement of rhythm**
 * **Increase in sub-base** (increased influence of Germany and South America)
@@ -168,17 +168,17 @@ At this time, Tech House was characterized by being ""softer than minimal", ""da
 
 In the 2010s, Tech House became one of the most frequently played 4/4 in clubs and festivals around the world. The increase in demand was particularly large in Ibiza.
 
-Examples of featured artists:
+Examples of notable artists:
 
 *Jamie Jones (Hot Creations)
 *Lee Foss
 * Hot Since 82
 * Green Velvet (bridge between Tech House and House)
 * Claude VonStroke (Dirtybird context)
-*Solardo
+* Solardo
 * Fisher (commercial success)
 
-In the late 2010s, ""festival-style tech house'' with its more poppy and catchy hooks appeared, and it expanded as music used at large-scale events.
+In the late 2010s, ""festival-style tech house'' with more poppy and catchy hooks emerged and expanded as music used at large-scale events.
 
 ---
 
@@ -197,7 +197,7 @@ flowchart TD
 
 ## 8. Regional development
 
-Tech House is interpreted and cultivated differently in each country. Below is a summary of representative regions.
+Tech Houseは国ごとに解釈と育ち方が異なる。以下では代表的な地域をまとめる。
 
 ### ■ 1. United Kingdom
 
@@ -242,10 +242,10 @@ These labels defined Tech House's sound image by focusing on highly functional t
 
 ## 10. Equipment/production aspects
 
-Although Tech House is not bound by any specific equipment, the following production trends are generally observed.
+Tech Houseには特定の機材縛りがあるわけではないが、一般的に以下のような制作傾向が見られる。
 
 * Minimal arrangement of square wave and sine wave basses
-* Drum machine sound sources such as 909, 808, 707, etc.
+* 909、808、707などのドラムマシン音源
 * Predominantly sample-based processing rather than modular
 * Reverb is short
 * Tighten the midrange with EQ
@@ -299,9 +299,9 @@ flowchart TD
 
 ## 14. Summary
 
-Tech House is club music that combines the warmth of house with the minimal structure of techno.It grew mainly in the British club scene in the 1990s, and since the 2000s, it has spread all over the world, closely intersecting with Germany and the United States.
+Tech House is a type of club music that combines the warmth of house with the minimal structure of techno.It grew mainly in the British club scene in the 1990s, and since the 2000s, it has spread all over the world, closely intersecting with Germany and the United States.
 
-Today, Tech House has evolved into music that is played in a wide range of contexts, from the underground to the main stage, and has become an essential part of DJ culture.
+Today, Tech House has evolved into music that is played in a wide range of contexts, from underground to main stage, and has become an essential part of DJ culture.
 
 In this article, we have systematically organized how the Tech House genre was formed and how it has developed into its current form, covering its history, sound, regional culture, production theory, and representative artists. Tech House will continue to be an important part of club culture in the future.
 

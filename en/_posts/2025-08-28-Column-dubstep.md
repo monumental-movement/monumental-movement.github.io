@@ -65,7 +65,7 @@ From around 2008, dubstep spread beyond the UK underground and spread around the
 
 ---
 
-- **Break in America**: A more aggressive and flashy ""Brostep'' has appeared, led by Skrillex.
+- **アメリカでのブレイク**：Skrillexを筆頭に、より攻撃的で派手な「ブロステップ（Brostep）」が登場。
 
 
 - **Remix culture**: Dubstep elements were brought into pop, rock, and hip-hop, gaining a wide range of listeners.
@@ -77,7 +77,7 @@ From around 2008, dubstep spread beyond the UK underground and spread around the
 ### Dubstep in Japan
 
 It gradually became popular in Japan in the late 2000s, and Goth-Trad attracted worldwide attention. His sound has undergone a unique evolution, incorporating the context of noise/experimental music while also linking to the London scene.
-A uniquely Japanese dubstep culture was formed through events held at clubs in Shibuya and releases from domestic labels.
+Japan's unique dubstep culture was formed through events held at clubs in Shibuya and releases from domestic labels.
 
 <hr>
 
@@ -99,7 +99,7 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 
 - [**Zed Bias – Ambush Riddim / Cosmic Minefield**](https://monumental-movement.jp/Zed-Bias-Ambush-Riddim-Cosmic-Minefield)
 
-→ A piece that bridged the gap from garage to dubstep.
+→ ガラージからダブステップへの橋渡しとなった一枚。
 
 - [**Benga & Walsh vs Darqwan – Addicts / Megatection**](https://monumental-movement.jp/Benga-and-Walsh-Vs-Darqwan-Addicts-Megatection)
 
@@ -115,7 +115,7 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 
 More than just a genre, dubstep has become a soundscape emblematic of 21st century urban culture.
 
-The bass vibrations experienced through a club's sound system go beyond the sense of hearing, shaking the body and space, and connecting listeners with each other. Dubstep continues to evolve and will continue to be an exciting musical exploration ground for new generations.
+The bass vibrations experienced through a club's sound system go beyond the senses of hearing, shaking the body and space, and connecting listeners with each other. Dubstep continues to evolve and will continue to be an exciting musical exploration ground for new generations.
 
 ---
 

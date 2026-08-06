@@ -17,7 +17,7 @@ title: '[Column] Afrobeat / Afro-Fusion - Structural changes and global expansio
 
 ## Introduction
 
-Text: mmr｜Theme: The fact that Afrobeat developed around Nigeria's live culture, how Afro-Fusion came to be used in a cross-border production and distribution environment, and the history of the music industry and diaspora movements.
+Text: mmr｜Theme: The fact that Afrobeat developed around Nigeria's live culture, how Afro-Fusion came to be used in a cross-border production and distribution environment, the history of the music industry, and diaspora movements.
 
 
 Afrobeat and Afro-Fusion are musical cultures that originated in West Africa, particularly Nigeria and Ghana. Although the two are often confused, they have different historical backgrounds, musical structures, and social roles. This article organizes the history from the establishment of Afrobeat to the development of Afro-Fusion based only on verifiable facts, and comprehensively describes changes in musical characteristics, production techniques, social context, and international reception.
@@ -84,7 +84,7 @@ In the 1970s, Nigeria's urban culture expanded due to increased oil revenues, an
 
 ### Impact on other regions
 
-Afrobeat also influenced neighboring countries such as Ghana, Benin, and Togo. Artists from Benin in particular created unique expressions that combined highlife, local rhythms, and Afrobeat. This led to Afrobeat being recognized as a regional style rather than the music of a single country.
+Afrobeatはガーナ、ベナン、トーゴなど周辺国にも影響を及ぼした。特にベナン出身のアーティストたちは、ハイライフや現地リズムとAfrobeatを組み合わせた独自の表現を行った。これにより、Afrobeatは単一の国の音楽ではなく、地域的スタイルとして認識されるようになった。
 
 ---
 
@@ -156,13 +156,13 @@ timeline
 
 ## Changes in production technology
 
-Afrobeat in the 1970s, when analog recording was the mainstream, was produced in a format similar to a live one-shot recording. The simultaneous performance of multiple people created the driving force of the music. In contrast, Afro-Fusion is centered around division of labor and production using digital DAWs, making it possible to exchange data across borders.
+Afrobeat in the 1970s, when analog recording was the mainstream, was produced in a format similar to a live one-shot recording. The simultaneous performance of multiple people created the driving force for the music. In contrast, Afro-Fusion is centered around division of labor and production using digital DAWs, making it possible to exchange data across borders.
 
 ---
 
 ## Conclusion
 
-Afrobeat and Afro-Fusion are musics that were formed in different historical backgrounds and production environments, even though they share the same cultural area. The former is a collective expression rooted in a specific historical situation, and the latter is an individual and fluid expression after globalization. Through the facts presented in this paper, we can confirm continuity and discontinuity between the two.
+Afrobeat and Afro-Fusion are musics that were formed in different historical backgrounds and production environments, even though they share the same cultural sphere. The former is a collective expression rooted in a specific historical situation, and the latter is an individual and fluid expression after globalization. Through the facts presented in this paper, we can confirm continuity and discontinuity between the two.
 
 > "The two are not opposed concepts, but are understood as different stages placed on a historical timeline."
 

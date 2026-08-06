@@ -92,7 +92,7 @@ Dance music also changed to music that was listened to at home.
 
 ### The germ of oriental pop
 
-Dance music organized for cities incorporated popular elements and became the basis of later Turkish pop music.
+Dance music organized for cities incorporated popular elements and became the foundation of later Turkish pop music.
 
 > Dancing music has been reorganized as listening music.
 
@@ -103,7 +103,7 @@ Dance music organized for cities incorporated popular elements and became the ba
 
 ### Fusion of folk and rock
 
-In the late 1960s, a movement emerged to fuse Anatolian folk music with rock.
+In the late 1960s, a movement emerged to fuse Anatolian folk music and rock.
 Electric guitars and drums were used as devices to extend traditional dance rhythms.
 
 ### Maintaining dance quality
@@ -169,7 +169,7 @@ A cycle was born in which the electronic version of Turkish rhythm influenced yo
 | 16th–19th century | Dance music established in Ottoman urban culture |
 | 1920s | Popularization through recording and broadcasting |
 | 1960s–70s | The emergence of Anatolian rock |
-| 1980s | Re-editing in the diaspora |
+| 1980s | Re-editing in the Diaspora |
 | 1990s | Connection with club culture |
 | 2000s – | Acceleration of global circulation |
 

@@ -16,13 +16,13 @@ title: '[Column] A complete history of Krautrock - German experimental music as 
 
 ## Introduction: Why "krautrock"?
 
-Text: mmr｜Theme: Krautrock is an important trend that deeply influenced later generations of music such as experimental music, electronic music, post-rock, and techno that originated in Germany.
+Text: mmr | Theme: Krautrock is an important trend that deeply influenced later generations of music, including experimental music, electronic music, post-rock, and techno that originated in Germany.
 
 "Krautrock"——. It was originally a derogatory name given by a British music magazine.
-"Sauerkraut" is a slang term for German people.
+"Sauerkraut" is a slang term for Germans.
 However, young people in the late 1960s reversed that label and used it as a banner for creating their own music.
 
-Postwar Germany. Memories of defeat, the flood of American and British culture, and the emptiness of not having a voice.
+Postwar Germany. The memory of defeat in the war, the flood of American and British culture, and the emptiness of not having a voice.
 Krautrock was born out of this "nothingness."
 It is not just a musical movement, but a reconstruction of the post-war generation's identity.
 Eventually, it became a "philosophical movement of sound" that reinvented the history of rock.
@@ -67,14 +67,14 @@ This is where the myth of CAN was born.
 **Michael Caroli** guitar,
 And **Damo Suzuki**, a vocalist who has wandered from Japan.
 
-In 1970, he happened to meet Damo Suzuki, a Japanese hippie singing on the streets of Cologne.
+In 1970, he happened to meet Damo Suzuki, a Japanese hippie who was singing on the streets of Cologne.
 That night, they were already on stage and the album ""Tago Mago'' was born.
 "Would you like to take the stage?"—the impromptu night began instantly.
 He ended up becoming a member of the band.
 
 Their music is a "fluid rhythm" that rejects structure.
 Especially on the album "Tago Mago" (1971), the songs were rearranged through editing.
-This gave rise to the concept that "recording tape itself is an instrument."
+This gave rise to the concept that the recording tape itself is an instrument.
 Shukai's editing techniques were similar to later hip-hop sampling.
 
 > "Rhythm rules time. But improvisation frees you from time."
@@ -92,20 +92,20 @@ It would later influence Radiohead, The Fall, and even Aphex Twin.
 NEU! was formed after Kraftwerk's early members **Klaus Dinger** and **Michael Lotter** left the group.
 The sound was "pure movement" with all unnecessary decorations removed.
 
-Dinger's drum continues to tick at a constant speed, like a never-ending conveyor.
+Dinger's drum continues to tick at a constant speed, like a never-stopping conveyor.
 This beat eventually became known as ""Motorik''.
 Rotor's guitar and bass slide like a streamline,
 Music has made "moving forward" itself an objective.
 
 NEU! recorded in the studio due to a lack of funds.
-Rotate the tape backwards, change the speed, cut and paste the sounds,
+Rotating the tape in reverse, changing the speed, cutting and pasting the sounds,
 It shook the boundary between "life" and "machine."
 
-> "Motorik is the sound of ""human continuation,'' not a machine."
+> ""Motorik is the sound of ""human persistence", not machines."
 > — Klaus Dinger
 
 This simple rhythmic structure is similar to David Bowie's Berlin trilogy.
-He also left a huge influence on Brian Eno's ambient works.
+He also left a great influence on Brian Eno's ambient works.
 In NEU!'s sound, the listener realizes that time is not a straight line but a circle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4toGr7aXeVA?si=JmyFgu9v8zaxFFAS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -136,7 +136,7 @@ The punk, industrial, and sampling cultures that followed were all based on Faus
 
 ---
 
-## Chapter 5: Kraftwerk - The origins of techno and inorganic beauty
+## Chapter 5: Kraftwerk - The Origins of Techno and Inorganic Beauty
 
 Düsseldorf.
 The straight roads and cold texture of the industrial city became music.
@@ -144,7 +144,7 @@ Kraftwerk by **Ralf Hütter** and **Florian Schneider**
 In the early days, it was improvisational rock that made full use of flute and organ.
 
 However, in 1974, with Autobahn, they suddenly began to "design" music.
-Electronic sounds, rhythm machines, and "humans as machines."
+Electronic sounds, rhythm machines, and "human beings as machines."
 Even on stage, they performed with no emotion and no expressions.
 
 This complete anonymity was heresy in the rock scene at the time.
@@ -168,7 +168,7 @@ The "future" that they saw is now in our current musical landscape.
 ### Revolution in silence
 Unit **Cluster** by **Dieter Möbius** and **Hans-Joachim Roedelius**.
 Unlike CAN and Faust, they are hardly "noise" or "rock".
-Between the inorganic electronic sounds and silence, the reverberations and breathing of the city were felt.
+The reverberations and breathing of the city were felt between the inorganic electronic sounds and silence.
 
 His debut album, Cluster 71 (1971), is a series of experimental tape sounds, but also somehow meditative.
 The follow-up, ""Zuckerzeit"' (1974), was produced by Neu!"s Klaus Dinger and introduced a minimalist and comfortable rhythm.
@@ -187,8 +187,8 @@ The setting is Forst, a rural village in northern Germany. They set up a studio 
 
 ### Birth of "pastoral electronic music"
 Harmonia's sound is between the silence of Cluster and the rhythm of Neu!.
-In ""Musik von Harmonia'' (1974), gentle electronic undulations spread out like a green landscape.
-Their follow-up, ""Deluxe" (1975), was described by Brian Eno as ""the most important band in the world," and he himself later visited Forst to record a co-written song.
+In Musik von Harmonia (1974), gentle electronic undulations spread out like a green landscape.
+The follow-up, ""Deluxe" (1975), was described by Brian Eno as ""the most important band in the world," and he himself later visited Forst to record a co-written song.
 
 > "Their sound was the pastoral music of the future" - Brian Eno
 
@@ -205,7 +205,7 @@ Leader **Florian Fricke** was deeply devoted to religious music and philosophy, 
 However, what he was aiming for was not the coldness of electronics, but **mystery and inner sound**.
 
 ### Resonance with Herzog
-Film director **Werner Herzog** fell in love with their spiritual sounds and used them in many of his films, including ""Aguirre," ""Nosferatu," and ""Fitzcarraldo.''
+Film director **Werner Herzog** fell in love with their spiritual sounds and used them in many films, including ""Aguirre," ""Nosferatu," and ""Fitzcarraldo.''
 The music of ""Aguirre"' (1975) shook the audience"s consciousness like a hallucination echoing in the Andes mountains.
 
 > "The sound of Popol Vu was the words of prayer that the soul heard."
@@ -235,7 +235,7 @@ For later Jean-Michel Jarre, Vangelis, and even Techno writers, he became the st
 
 In the late 1970s, young people in Germany were once again undergoing change.
 Krautrock's experimental spirit manifests itself in punk and new wave.
-In Berlin, David Bowie and Brian Eno created the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
+In Berlin, David Bowie and Brian Eno produced the ""Berlin Trilogy"' and imbibed Kraut"s aesthetic.
 
 - Bowie's "Low" (1977) is a fusion of Neu! and Cluster.
 - Joy Division and The Fall reinjected motorik rhythms into rock.

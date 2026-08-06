@@ -20,7 +20,7 @@ title: '[Column] DMX: Howling Soul - Between violence and prayer'
 
 
 
-## DMX: Howling Soul - Between Violence and Prayer
+## DMX：吠える魂 ― 暴力と祈りのはざまで
 
 
 Text: mmr｜Theme: Deciphering DMX's rap style, lyrics, and human nature full of contradictions. A record of a soul that continued to burn between violence and prayer, anger and relief.
@@ -47,7 +47,7 @@ color: #fff;
 </style>
 
 
-## I. Birth of Roar: The existence of DMX
+## I. 咆哮の誕生：DMXという存在
 
 Earl Simmons, also known as **DMX (Dark Man X)**.
 Born in Yonkers, New York, he grew up amid domestic violence and poverty. His childhood was deeply traumatic, and he spent his life going back and forth between juvenile detention centers and church.
@@ -58,7 +58,7 @@ It was like preaching in church and fighting in the streets at the same time.
 
 ---
 
-## II. Street Pastor: Lyric Structure and Vocabulary
+## II. ストリートの牧師：リリックの構造と語彙
 
 DMX's lyrics are not just a show of violence, but a story of sin and redemption.
 
@@ -97,7 +97,7 @@ When he shouted, "**Lord, give me a sign!**," he sounded more like a preacher th
 
 ---
 
-## IV. Ruff Ryders and Runaway Success
+## IV. Ruff Rydersと暴走する成功
 
 In 1998, "It"s Dark and Hell Is Hot" was released.
 DMX quickly reached number one in the US, and went on to set an unprecedented record of five consecutive albums at number one on Billboard.
@@ -123,9 +123,9 @@ However, behind the scenes, DMX's heart was falling apart between his faith and 
 ## V. Forms of Prayer: Faith and Self-Dialogue
 
 Almost every DMX album includes a ""Prayer'' track.
-This is his self-purification ritual, indicating that the music is "an extension of prayer."
+This is his self-purification ritual, showing that the music is "an extension of prayer."
 
-> "I come to you hungry and tired, you give me food and let me sleep."
+> “I come to you hungry and tired, you give me food and let me sleep.”
 > ― *Prayer III*, 1999
 
 For him, God was not a ""symbol of salvation," but an ""existence that gives trials."
@@ -192,7 +192,7 @@ Those words still serve as a self-forgiveness mantra for many young people today
 ## X. Conclusion: Mythical structure called DMX
 
 DMX's story is more than just a hip-hop biography.
-It was a **modern religious drama** and a myth about the coexistence of **violence and prayer**.
+それは**現代の宗教劇**であり、**暴力と祈りの共存**を描いた神話だった。
 
 * His "roar" is not anger, but a cry to prove his existence.
 *His "prayer" is not salvation but **continuation of the battle**
@@ -228,7 +228,7 @@ timeline
 
 ## Reference work discography
 
-| Release year | Title | Notes | Link |
+| 発売年  | タイトル                      | 備考                 | リンク                  |
 | ---- | ------------------------------------- | ------------------ | ------------------------------------- |
 | 1998 | *It"s Dark and Hell Is Hot* | Debut work/Street Roar | [Amazon](https://amzn.to/3X0cPx9) |
 | 1998 | *Flesh of My Flesh, Blood of My Blood* | Intersection of blood and faith | [Amazon](https://amzn.to/3WvpPea) |
@@ -238,15 +238,15 @@ timeline
 
 ---
 
-## Appendix: Sound structure analysis (relationship between beat and voice)
+## 付録：音の構造分析（ビートと声の関係）
 
 <div class="mermaid">
 
 graph LR
-A[Swizz Beatz Beats] --> B(aggressive drums)
+A[Swizz Beatz Beats] --> B(攻撃的ドラム)
 B --> C[DMX's roaring vocals]
 C --> D{感情の頂点}
-D -->|explosion| E["Breaks like "Arf! Arf!""]
+D -->|explosion| E["“Arf! Arf!”などのブレイク"]
 D -->|silence| F[prayer monologue]
 
 </div>

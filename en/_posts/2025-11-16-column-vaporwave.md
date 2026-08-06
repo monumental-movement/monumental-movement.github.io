@@ -17,10 +17,10 @@ title: '[Column] Complete history of vaporwave culture — label history, acoust
 ## Introduction: What is Vaporwave?
 
 
-Text: mmr｜Theme: Vaporwave, a movement that started as a music genre, is a huge cultural sphere surrounding memory, history, media, and social psychology.
+Text: mmr｜Theme: Vaporwave, a movement that began as a music genre, is a huge cultural sphere surrounding memory, history, media, and social psychology.
 
 
-Vaporwave is a cultural phenomenon that was born around 2010 at the intersection of Internet culture, post-financial crisis emotions, and archived images of the past. This article synthesizes label history, aesthetics, acoustic structure, sociocultural theory, derivative genres, semiotics, chronology, and illustrations, and redefines vaporwave as a ""comprehensive art born in an era of lost future.''
+Vaporwave is a cultural phenomenon that was born around 2010 at the intersection of Internet culture, post-financial crisis emotions, and archived images of the past. This article synthesizes label history, aesthetics, acoustic structure, sociocultural theory, derivative genres, semiotics, chronology, and illustrations, and redefines vaporwave as ""a comprehensive art born in an era of lost future.''
 
 ---
 
@@ -41,14 +41,14 @@ color: #fff;
 
 ### 1-1 Context of the early days of vaporwave and Internet culture
 
-The establishment of vaporwave is closely related to the blogging culture of the late 2000s, Tumblr"s image collecting culture, and the dawn of YouTube"s algorithm era. In particular, the excessive slowdown processing by Eccojams (Oneohtrix Point Never) became the seeds of subsequent genres and became established as a ""method of destroying real time.''
+The establishment of vaporwave is closely related to the blogging culture of the late 2000s, Tumblr"s image collecting culture, and the dawn of YouTube"s algorithm era. In particular, the excessive slowdown processing by Eccojams (Oneohtrix Point Never) became the seed of subsequent genres and became established as a ""method of destroying real time.''
 
 ### 1-2 Main labels (Beer On The Rug / Constellation Tatsu / Dream Catalog / Orange Milk)
 
 - **Beer On The Rug** is the label that most emblematically recorded early vaporwave, producing many iconic artists such as MACINTOSH PLUS, Laserdisc Visions, and Luxury Elite.
-- **Constellation Tatsu** has deepened their approach to ambient music, fusing tape culture and spiritual aesthetics.
+- **Constellation Tatsu** has deepened their approach to ambient music, fusing tape culture with spiritual aesthetics.
 - **Dream Catalog** emphasized the reconstruction of the image of China and Japan, a sci-fi view of the future, and the ghostly nature of cities.
-- **Orange Milk Records** expanded the possibilities of music after Vaporwave in the context of experimental electronic music, and also established a unique position in terms of artwork.
+- **Orange Milk Records** expanded the possibilities of music after Vaporwave from the context of experimental electronic music, and also established a unique position in terms of artwork.
 
 ## Chapter 2: Transformation of Vaporwave Aesthetics
 
@@ -59,7 +59,7 @@ Early Eccojams were not just slowdowns, but devices that created new emotions by
 ### 2-2 Direction of aesthetics
 
 * **The collapse of an artificial utopia** (Utopian Virtual)
-* **Decadence, industrialization, and destructive future vision** (Hardvapour)
+* **Decadence, industrialization, destructive future image** (Hardvapour)
 * **The sweetness and irony of consumer culture** (Future Funk)
 * **Fusion of urban ghostliness and environmental sounds** (Mallsoft)
 
@@ -75,7 +75,7 @@ Aesthetics is based on the ""ambivalence of criticism and pleasure," and all sym
 * Classic Vaporwave: 70–90 BPM (advertisement music speed range)
 * Mallsoft: BPM settings are ambiguous due to environmental sounds
 * Future Funk: 110–130 BPM (connected to dance music)
-* Hardvapour: 150–190 BPM (Gaba Hard Techno)
+* Hardvapour: 150–190 BPM (Gabba Hard Techno)
 
 ### 3-2 Acoustic structure
 
@@ -100,7 +100,7 @@ These can be said to be techniques for reconstructing ""lost materiality.''
 
 ### 4-1 Background: Art born in an era of lost future
 
-Around 2010, when the feeling of confinement after the financial crisis and the archive culture of the internet overlapped, vaporwave became a cultural device that reconstructed the "future image of the past."
+Around 2010, with the combination of the feeling of confinement following the financial crisis and the archive culture of the internet, vaporwave became a cultural device that reconstructed the "future image of the past."
 
 ### 4-2 Semiotics
 
@@ -162,7 +162,7 @@ graph TD
     B[Technology UI] --> B2[Deterioration/noise]
     C[90s japanese statue] --> C2[abstraction]
     D[classical sculpture] --> D2[meta quote]
-    A2 --> Z[Vaporwave worldview]
+    A2 --> Z[Vaporwave world view]
     B2 --> Z
     C2 --> Z
     D2 --> Z
@@ -175,9 +175,9 @@ graph TD
 
 What is vaporwave and its core definition**
 
-### **5-1 Towards an existence that transcends "genre"**
+### **5-1　Beyond "genre"**
 
-Vaporwave was initially treated as a ""minor genre that originated on the Internet'', but
+Vaporwave was initially treated as a "minor genre that originated on the internet", but
 After spreading for more than 10 years, it has become a cultural device that transcends genres, as shown below.
 
 * music
@@ -208,7 +208,7 @@ This is a new psychological structure in the internet age, and is the core emoti
 
 #### **Core ③: Aesthetic Ambivalence**
 
-Criticize and enjoy at the same time.
+批判しながら、同時に楽しむ。
 Destroy and praise at the same time.
 This contradiction is postmodern, and is the very essence of vaporwave's aesthetics.
 
@@ -216,7 +216,7 @@ This contradiction is postmodern, and is the very essence of vaporwave's aesthet
 
 ### **5-3 Conclusion: Philosophical definition of vaporwave (final version)**
 
-> **Vaporwave is a world where the past vision of the future has collapsed,
+> **Vaporwave is a world where the past vision of the future has collapsed.
 > The Internet generation re-edited the fragments of symbols,
 > Visualizing the "pain of losing the future" and the "pleasure of consumer society" at the same time,
 > It is a comprehensive art of the post-capitalist era. **

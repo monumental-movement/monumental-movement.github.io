@@ -71,13 +71,13 @@ COUM used their bodies, not their sounds, to clash with society. Throbbing Grist
 
 In 1975, Throbbing Gristle was formed. Members are Genesis P-Orridge, Cosey Fanni Tutti, Chris Carter, and Peter Christopherson.
 
-The composition of these four people is extremely important. This is because they were not just musicians, but a collective that brought together different fields.
+The composition of these four people is extremely important. This is because they were not just musicians, but a collective of individuals who brought together different fields.
 
 Carter was responsible for electronics design and sound processing, Christopherson was responsible for visuals and design, and P-Orridge and Tutti were responsible for concept and performance.
 
 In other words, they were not a "band" but a "cross-media system."
 
-Their phrase "Industrial Music for Industrial People" is not just a genre name. It was a critique of social structure, and at the same time a declaration of the function of his music.
+Their phrase "Industrial Music for Industrial People" is more than just a genre name. It was a critique of social structure, and at the same time a declaration of the function of his music.
 
 How are humans managed, consumed, and standardized in an industrialized society? This process is reproduced as sound. That was their purpose.
 
@@ -94,7 +94,7 @@ This decision was extremely important. Their work was not accepted commercially 
 
 They managed all recording, production, distribution, and sales themselves. This complete autonomy became the basic model for the later independent scene.
 
-Industrial Records was more than just a label, it was an expansion device for ideas. Not only the music, but also the visuals, text, logo, and packaging were all designed based on a unified concept.
+Industrial Records was more than just a label, it was an expansion device for thought. Not only the music, but also the visuals, text, logo, and packaging were all designed based on a unified concept.
 
 In addition, the influence spread to other artists through this label. From this point on, the concept of "industrial" expanded into a concrete movement.
 
@@ -128,7 +128,7 @@ Seeing Throbbing Gristle live was a radically different experience than a tradit
 
 Sounds are loud and repetitive, images are disturbing, and words are spoken provocatively. The audience is not allowed to "enjoy" but rather is forced to endure.
 
-This is no coincidence. They were intentionally testing the limits of the audience's senses and psychology.
+これは偶然ではない。彼らは意図的に、観客の感覚と心理の限界を試していた。
 
 In addition, each live performance had a different structure, was highly improvisational, and had low reproducibility. In other words, he refused to be fixed as a work of art.
 

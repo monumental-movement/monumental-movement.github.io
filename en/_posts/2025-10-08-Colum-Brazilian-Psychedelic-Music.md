@@ -15,7 +15,7 @@ title: '[Column] Tropical illusions — the world of Brazilian psychedelics'
 
 ## Prologue: The dawn of Brazilian psychedelics
 
-Text: mmr | Theme: Tracing the genealogy of psychedelic music born in Brazil, from the Tropicália movement to modern revival
+Text: mmr｜Theme: Tracing the genealogy of psychedelic music born in Brazil, from the Tropicália movement to modern revival
 
 In the late 1960s, political tensions and cultural experimentation coexisted in a strange way in Rio de Janeiro and São Paulo. While speech was increasingly controlled under the military regime, young people were inspired by British and American rock and sought new sonic freedom. At the forefront of this movement was the Tropicália movement.
 
@@ -24,7 +24,7 @@ Along with the poet **Torcato Neto** and the artist **Hélio Oiticica**, the mus
 > "Tropicália is the tropics in our souls."
 > — Caetano Veloso, 1968
 
-In the studios of the time, ""manual overdubbing" was repeated, taking advantage of the limitations of recording equipment. ""Psychedelic sound technology" was born, including physically cutting and pasting reel-type tape and rotating the tape backwards to create reverse echoes.
+In the studios of the time, ""manual overdubbing" was repeated, taking advantage of the limitations of recording equipment. ""Psychedelic sound technology" was born, such as physically cutting and pasting reel-type tape and rotating the tape backwards to create reverse echoes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mTFYMEPLjA0?si=A_wPO-C5Dvwii4gJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -60,7 +60,7 @@ Os Mutantes was particularly innovative. **Sergio Diaz**'s fuzz guitar, **Rita L
 ## Chapter 2: Acoustic Revolution — Innovation in Brazilian Recording Technology
 
 At the time, the recording studio **Phonogram Studios (Rio)** could not obtain Western-made multi-track equipment, so they adopted the artisanal method of layering two-track recorders.
-This restriction is the cause of the unique "bleeding" sound image. In particular, Os Mutuntes' engineer **Arnaldo Baptista** built his own fuzz circuit and subtly fluctuated the pitch, recreating the hallucinatory floating sensation unique to South America.
+This restriction is the cause of the unique "bleeding" sound image. In particular, Os Mutuntes' engineer **Arnaldo Baptista** built his own fuzz circuit and subtly fluctuated the pitch to recreate the hallucinatory floating sensation unique to South America.
 
 Another important innovation was the fusion of ethnic instruments and electronic sounds. By combining indigenous sounds like cavaquinho and bell imbau with Moog synths and reverse tape, Brazilian music was expanded into a ""psychedelic tropic''.
 
@@ -78,7 +78,7 @@ On the other hand, **Clube da Esquina**, based in the state of Minas Gerais, app
 
 ## Chapter 4: Modern Rebirth — The Age of Psychedelic Revival
 
-In the 21st century, young Brazilian bands have once again regained their "tropical illusion."
+In the 21st century, young Brazilian bands have once again regained their ""tropical illusion.''
 **Boogarins**, **Carne Doce**, **Glue Trip**, **O Terno** and others bridge British and American indie rock with the hallucinogenic sounds of the 60s. In particular, Boogarins' 2015 album "Manual" is characterized by **lo-fi spatial recording** using cassettes and analog mixers, and symbolizes the ""DIY psychedelia'' of the Spotify generation.
 
 > "Our sound is humid, like the Brazilian air."
@@ -90,7 +90,7 @@ In the 21st century, young Brazilian bands have once again regained their "tropi
 
 ## Chapter 5: Live Review — Tropical Trance Experience
 
-The Boogarins' show at Cine Joia in São Paulo in 2018 was the moment when the ghost of Tropicália was brought back to life.
+Boogarins" 2018 show at São Paulo"s Cine Joia was the moment when the ghost of Tropicália was brought back to life.
 Behind the stage are moving images of tropical plants, lighting that gives you a sense of humidity, and an endless guitar drone. Rather than dancing, the audience **"floated"**, immersed in the sound.
 
 The encore performance of "Lucifernandis" created a chaotic sound that sounded like the second coming of Os Mutantes, and the audience's cheers shook the air.
@@ -106,7 +106,7 @@ flowchart TD
     A1967["1967: The start of the Tropicália movement"]
     A1968a["1968: Release of the album 'Tropicália: ou Panis et Circencis'"]
     A1968b["1968: Os Mutantes Debut"]
-    A1969["1969: Veloso and Jill in exile in London"]
+    A1969["1969: Veloso and Jill Exile in London"]
     A1972["1972: 'Expresso 2222' announced"]
     A2006["2006: Os Mutantes Reunion"]
     A2015["2015: Boogarins 'Manual...' Worldwide evaluation"]

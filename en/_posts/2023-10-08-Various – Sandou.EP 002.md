@@ -13,7 +13,7 @@ title: Various – Sandou.EP 002
 
 
 "Sandou.EP 002" is
-This is an EP released by the Japanese label "Sandou Records" in 1997.
+1997年に日本のレーベル「Sandou Records」からリリースされたEPです。
 
 #### Tracklist
 ```md

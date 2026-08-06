@@ -18,7 +18,7 @@ title: '[Column] DMC World DJ Championship: The trajectory of turntablism becomi
 
 # DMC World DJ Championship——World history of turntablism
 
-Text: mmr｜Theme: History of the DMC World DJ Championship, technological innovation, crowdfunding, history of the world championship, achievements of Japanese players, equipment culture, Turntablism
+Text: mmr｜Theme: History of the DMC World DJ Championship, technological innovation, crowdfunding, changes in the world championship, achievements of Japanese players, equipment culture, Turntablism
 
 Known as one of the world's largest DJ battles, the **DMC World DJ Championship (hereinafter referred to as DMC)** has progressed with the growth of turntablism culture since its inception in 1985.
 The process by which hip-hop DJ techniques became independent as a ""musical expression" and was further institutionalized as a ""world competition" is a unique history unparalleled to any other genre.
@@ -47,7 +47,7 @@ The background was the rapidly growing **club culture** in Europe and the **occu
 At the time, DJ technology was dominated by mixes that seamlessly connected songs, and scratching and tricks were still only being developed in certain hip-hop regions.
 
 ## 1-2 In 1985, the invention of "competitive DJing"
-DMC founder Tony Prince came up with the idea of ​​showcasing the creativity of DJs as a ""competition'' and held the first DMC World DJ Championship in London in 1985.
+DMC founder Tony Prince came up with the idea of ​​showcasing the creativity of DJs as a "competition" and held the first DMC World DJ Championship in London in 1985.
 Initially, this competition was not focused on tricks as it is today, but instead was a place to compete in song selection and mixing techniques.
 
 ---
@@ -67,7 +67,7 @@ After Cheese, DJs didn't just play songs;
 - Treat samples like instruments
 It has evolved in that direction.
 
-Particularly in the early 1990s, DJ Aladdin, Cutmaster Swift, Cash Money and others created routines centered around "rhythmic reconstruction," and the competition grew as a showcase for musical performance.
+Particularly in the early 1990s, DJ Aladdin, Cutmaster Swift, Cash Money, and others created routines centered around "rhythmic reconstruction," and the competition grew as a showcase for musical performance.
 
 ---
 
@@ -88,7 +88,7 @@ Japan has had a major influence on the DMC world since the late 1990s.
 - **2000: DJ KENTARO becomes the first Japanese to win the world championship (highest score in history)**
 - Since then, DJ YASA, DJ HI-C, Kireek (5 consecutive wins in the team category), etc. have gained worldwide acclaim.
 
-In particular, KENTARO"s routine is said to be ""outstanding in speed, accuracy, composition, and musicality,'' making it one of the most symbolic years in DMC"s history.
+In particular, KENTARO"s routine is said to be ""outstanding in its speed, accuracy, composition, and musicality,'' making it one of the most symbolic years in DMC"s history.
 
 ---
 
@@ -105,7 +105,7 @@ This results in
 Such an evolution is taking place.
 
 ## 4-2　Video qualifying/online
-Around 2011, an **Online DJ Championship** using YouTube was introduced, opening the door for DJs from all over the world to participate.
+Around 2011, an **Online DJ Championship** using YouTube was introduced, opening the door to participation for DJs from all over the world.
 
 ---
 
@@ -120,7 +120,7 @@ In particular, in the late 2010s, as the burden of operating costs increased, DM
 - Supported by DJs, equipment brands, and fans around the world
 - Providing commemorative goods and limited content for supporters
 
-As a result, DMC began to become more of a community-led and protected cultural asset, rather than a ""commercial event''.
+As a result, DMC began to become more of a community-led cultural asset, rather than a commercial event.
 
 ## 5-2　Pandemic period: Switching to remote competition
 In 2020-2021, the new infectious disease made it difficult to hold a physical event, so DMC held the world tournament completely online.
@@ -132,7 +132,7 @@ Equipment companies including Rane and Technics supported the competition, usher
 The history of DMC is also the **technical history of turntablism**.
 
 ## 6-1 Development of scratch technology
-### 1980s: Establishment of basic technology
+### 1980s：基礎技術の確立  
 - Baby Scratch
 - Transformer
 -Chirp
@@ -182,18 +182,18 @@ This will accelerate a new DJ style that combines DVS and analog.
 # Chapter 8 Global movement supporting DMC
 
 ## 8-1 Institutionalization of regional qualifying rounds
-DMC established the flow of national preliminaries → national champions → world tournament, creating the foundation for each country's scene to develop independently.
+DMC は国別予選 → 国のチャンピオン → 世界大会という流れを確立し、各国のシーンが独自に発展する土壌を作った。
 
 ## 8-2 Impact on education/schools
 Turntablism has been around since the 2000s.
 - DJ School
-- Workshop
+- ワークショップ  
 - University Music and Media Department
-It was also incorporated into the club, and came to be evaluated as a genre of music rather than just a club technique.
+It has come to be recognized as a genre of music rather than just a club technique.
 
 ---
 
-# Chapter 9 Chronology: DMC Main Topics
+# 第9章　年表：DMC 主要トピック
 
 <div class="mermaid">
 timeline
@@ -213,14 +213,14 @@ timeline
 
 ---
 
-# Chapter 10 Modern DMC and the future of turntablism
+# 第10章　現代の DMC とターンテーブリズムの未来
 
 ## 10-1 Era of hybrid tournaments
-Since the pandemic, a tournament format that combines online and offline has become established.
+パンデミック以降は、オンラインとオフラインを組み合わせた大会形式が定着。  
 He is moving in the direction of combining the routine of a video work with the enthusiasm of real life.
 
 ## 10-2　Future where the turntable becomes a "musical instrument"
-In the world of electronic music, turntables are
+電子音楽の世界では、ターンテーブルは  
 - improvisation
 - Composition tools
 - live art
@@ -238,7 +238,7 @@ DMC World DJ Championship is more than just a competition.
 **Express your creativity**
 **History of technological innovation**
 
-All of that became a condensed existence.
+そのすべてが凝縮された存在となった。
 
 As symbolized by crowdfunding, DMC is a culture protected by fans around the world, and its story will continue to be rewritten by DJs and the community.
 
@@ -282,14 +282,14 @@ flowchart TD
 
 ## **② "Generational genealogy chart" of turntablist**
 
-(Facts only: not the relationship between specific performers, but the general genealogy of periodization)
+（事実のみ：特定の演者の関係性ではなく、時代区分の一般的系譜）
 
 ### Generational division of turntablism
 
 <div class="mermaid">
 flowchart LR
-    A[1980s<br>Dawn] --> B[1990s<br>Mix ~ Battle competition]
-    B --> C[2000s<br>DVS introduction and speedup]
+    A[1980s<br>Dawn] --> B[1990s<br>ミックス〜バトル競技化]
+    B --> C[2000s<br>DVS 導入と高速化]
     C --> D[2010s<br>Online/Visualization]
     D --> E[2020s<br>Hybrid tournament era]
 </div>
@@ -304,7 +304,7 @@ flowchart LR
 flowchart TB
     A[1985: World DJ Championship (individual)] --> B[1990: Team Division]
     B --> C[1990s：Battle for World Supremacy]
-    C --> D[2006: DVS authorization]
+    C --> D[2006：DVS 許可]
     D --> E[2011: Online qualifying]
     E --> F[2020: Fully online world tournament]
     F --> G[2023: Hybrid event]
@@ -328,7 +328,7 @@ flowchart LR
     B --> B3[Key Shift Mix]
 
     C[DVS/digital] --> C1[fast melody arrangement]
-    C --> C2[Visual synchronous routine]
+    C --> C2[ビジュアル同期型ルーティン]
 </div>
 
 ---
@@ -341,7 +341,7 @@ flowchart LR
 
 <div class="mermaid">
 graph LR
-    A[1980s<br>About 10-15 countries] --> B[1990s<br>20-25 countries]
+    A[1980s<br>About 10-15 countries] --> B[1990s<br>20〜25ヵ国]
     B --> C[2000s<br>Around 30 countries]
     C --> D[2010s<br>More than 40 countries due to online]
 </div>
@@ -384,7 +384,7 @@ flowchart LR
     A --> C[Electronic Music]
     A --> D[Performance Art]
     A --> E[Education/Academia]
-    A --> F[Equipment development]
+    A --> F[機材開発]
 
     C --> C1[club scene]
     C --> C2[beat making]
@@ -398,9 +398,9 @@ flowchart LR
 
 ---
 
-## **⑧ DMC World Tournament "Historical Rule Changes" Structure Diagram**
+## **⑧ DMC 世界大会 “歴代ルール変更” 構造図**
 
-### History of DMC rules (main changes)
+### DMC ルールの歴史（主な変更）
 
 <div class="mermaid">
 timeline
@@ -420,7 +420,7 @@ timeline
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nh1LkoO_--E?si=frOaj4N60C7HvDUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

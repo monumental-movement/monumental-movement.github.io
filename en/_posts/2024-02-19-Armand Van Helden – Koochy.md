@@ -15,7 +15,7 @@ title: Armand Van Helden – Koochy
 
 "Koochy" was released in 2000 as the lead single from Armand Van Helden's fourth studio album, Killing Puritans (2000).
 
-Extensive sampling of Gary Numan's 1979 single "Cars".
+ Gary Numan（ゲイリーニューマン）の1979年のシングル「Cars カーズ」を多量にサンプリング。
 
 Armand Van Helden is a DJ, record producer, remixer, and songwriter from Boston, Massachusetts, USA.
 
@@ -25,9 +25,9 @@ Because his father was in the U.S. Air Force, he spent his childhood moving arou
 
 He bought a drum machine at the age of 13 and started DJing two years later.
 
-With a career spanning over 30 years, he is known as a stalwart in the house music world.
+彼は、30年以上にわたるキャリアを持ち、ハウスミュージック界の重鎮として知られています。
 
-Van Helden"s best known singles are "You Don"t Know Me," "I Want Your Soul," "My My My" (featuring Tara McDonald), and "Bonkers" (featuring Dizzee Rascal). Both songs reached number one on the UK dance charts and peaked at number two on the Billboard dance charts.
+ヴァン・ヘルデンが最も知られるシングルは、「You Don't Know Me」、「I Want Your Soul」、「My My My」(タラ・マクドナルド featuring)、そして「Bonkers」(ディジー・ラスカル featuring)です。いずれの曲もイギリスのダンスチャートで1位を獲得し、ビルボードのダンスチャートでも最高2位にランクインしました。
 
 #### Tracklist
 ```md

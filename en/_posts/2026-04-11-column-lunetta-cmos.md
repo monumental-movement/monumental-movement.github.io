@@ -24,7 +24,7 @@ DIY synthesizers using CMOS logic ICs, the so-called Lunetta Synth, are a cultur
 
 ### The moment when logic IC becomes sound
 
-CMOS Synth is a general term for synthesizers that generate sound using CMOS logic ICs originally designed as digital circuits. These ICs are originally intended for calculations and signal processing, but by devising a clock and feedback structure, they can oscillate and generate audible sounds.
+CMOS Synth is a general term for synthesizers that generate sound using CMOS logic ICs originally designed as digital circuits. These ICs were originally intended for calculations and signal processing, but by devising a clock and feedback structure, they can oscillate and generate audible sounds.
 
 Typical ICs include the following.
 
@@ -33,7 +33,7 @@ Typical ICs include the following.
 * 4017: Decade counter
 *4070: XOR gate
 
-These can produce sounds on their own, but when combined, complex rhythms and patterns can be created.
+These can produce sounds when used alone, but complex rhythms and patterns can be created by combining multiple of them.
 
 ---
 
@@ -93,7 +93,7 @@ A counter IC divides the input clock and generates signals with multiple differe
 
 <div class="mermaid">
 flowchart TD
-CLK[clock] --> C1[1/2]
+CLK[クロック] --> C1[1/2]
 CLK --> C2[1/4]
 CLK --> C3[1/8]
 CLK --> C4[1/16]
@@ -111,7 +111,7 @@ Logical operations such as XOR and AND change the relationship between signals. 
 
 ---
 
-## Historical background
+## 歴史的背景
 
 ### The interface between digital circuits and music
 
@@ -128,11 +128,11 @@ In the early 2000s, CMOS sound creation was rediscovered through Internet forums
 *Low cost
 * Can be manufactured by soldering only
 
-In this vein, the concept of "Lunetta Synth" spread and became established in the DIY community.
+この流れの中で「Lunetta Synth」という概念が広まり、DIYコミュニティの中で確立された。
 
 ### Relationship with modular synths
 
-Lunetta has a different philosophy from modular synths, but they intersect in the following points.
+Lunettaはモジュラーシンセとは異なる思想を持つが、以下の点で交差する。
 
 * Structural changes due to patching
 * Modular design
@@ -140,7 +140,7 @@ Lunetta has a different philosophy from modular synths, but they intersect in th
 
 However, the decisive difference is that the focus is on logic signals rather than voltage control.
 
-> Lunetta is not a modular simplification, but a completely different evolution.
+> Lunettaはモジュラーの簡略化ではなく、全く別の進化系である。
 
 ---
 
@@ -152,19 +152,19 @@ The basic waveform of CMOS Synth is a square wave. This results in the following
 
 * Strong harmonic components
 * Digital hard texture
-* Rhythmic discontinuity
+* リズミカルな断続性
 
 ### Instability and contingency
 
-The behavior of CMOS circuits changes depending on the power supply voltage, temperature, and wiring.
+CMOS回路は電源電圧や温度、配線によって挙動が変化する。
 
-* Clock fluctuation
+* クロックの揺らぎ
 * Aperiodic pattern
 * Chaotic rhythm
 
-This results in music with low reproducibility.
+This creates music with low repeatability.
 
-### Connection outside the audio range
+### 可聴域外との接続
 
 By dividing the high frequency clock, the process of dropping it into the audible range itself becomes a musical structure.
 
@@ -259,7 +259,7 @@ Lunetta has a high affinity with the following genres.
 * Industrial
 * Experimental electronic music
 
-This is due to the emphasis on contingency rather than control.
+This is due to the emphasis placed on contingency rather than control.
 
 ### Educational value
 

@@ -17,7 +17,7 @@ title: '[Column] Brazilian Boogie / MPB Rare Groove Re-evaluation'
 
 ## Preface
 
-Text: mmr｜Theme: Development of Boogie and MPB, representative artists and major works, re-evaluation overseas, and influence on modern times
+Text: mmr｜Theme: Development of Boogie and MPB, representative artists and major works, reappraisal overseas, and influence on modern times
 
 The Brazilian music scene from the late 1970s to the early 1980s saw a variety of expressions emerge amidst political repression, and came to be reevaluated in the context of the global rare groove. In particular, **Brazilian Boogie** is attracting attention for its urban, danceable music style, which incorporates elements of funk, soul, and disco while following the flow of MPB (Música Popular Brasileira).
 
@@ -122,7 +122,7 @@ Since the 1990s, Brazilian rare groove records have been traded at high prices, 
 
 ### 4-2. Reevaluating DJ culture and clubs
 
-In clubs outside Brazil, DJ sets centered around Brazilian Boogie, who influenced contemporary club music such as Nu-Disco and Deep Disco. Among the disco/soul mix, Brazilian Boogie's mellow and groovy songs attracted attention.
+Clubs outside Brazil hosted DJ sets centered around Brazilian Boogie, who influenced contemporary club music such as Nu-Disco and Deep Disco. Among the disco/soul mix, Brazilian Boogie's mellow and groovy songs attracted attention.
 
 ---
 

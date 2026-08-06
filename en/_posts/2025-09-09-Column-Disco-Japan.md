@@ -88,14 +88,14 @@ color: #fff;
 
 ## 1980s — Bubble period and popularization of disco
 - **Background**
-Japan entered a bubble economy period, and large discotheques such as ""Maharaja" and ""Juliana Tokyo" were born. The "Juri fan" culture is expanding in Nishi-Shinjuku and Roppongi.
+  日本はバブル経済期に突入し、「マハラジャ」「ジュリアナ東京」といった大型ディスコが誕生。西新宿や六本木で「ジュリ扇」文化が拡大。  
 
-- **Representative masterpieces (overseas)**
-- Michael Jackson — *Thriller* (1982)
+- **代表的な名盤（海外）**  
+  - Michael Jackson — *Thriller* (1982)  
 - Madonna — *Like a Virgin* (1984)
 - Chaka Khan — *I Feel for You* (1984)
 
-- **Representative masterpiece (Japan)**
+- **代表的な名盤（日本）**  
 - Yoko Oginome — *Dancing Hero* (1985)
 - Akina Nakamori — *DESIRE -Passion-* (1986)
 - Motoharu Sano — *Young Bloods* (1985)
@@ -115,13 +115,13 @@ Formation of the foundation of the "fan dance culture" that continued with Bodyc
 
 ### 10 Recommended Tracks (1980s)
 
-| Track | Artist | Comments |
+| トラック | アーティスト | コメント |
 |----------|--------------|----------|
 | Billie Jean | Michael Jackson | A textbook piece of bassline and groove. |
-| Thriller | Michael Jackson | The world's biggest hit and visual innovation. |
+| Thriller | Michael Jackson | 世界最大のヒットと映像革新。 |
 | Like a Virgin | Madonna | Symbolizes the birth of a female pop icon. |
 | I Feel for You | Chaka Khan | A fusion of hip-hop and disco. |
-| Dancing Hero | Yoko Oginome | A hit synonymous with Japanese disco. |
+| ダンシング・ヒーロー | 荻野目洋子 | 日本ディスコの代名詞的ヒット。 |
 | DESIRE -Passion- | Akina Nakamori | A fusion of disco beats and pop songs. |
 | Let"s Groove | Earth, Wind & Fire | A bridge from funk to disco. |
 | Word Up! | Cameo | Funk-based disco classic. |
@@ -136,12 +136,12 @@ Even after Japan's bubble burst, disco turned into a "club" culture. Eurobeat an
 
 - **Representative masterpieces (overseas)**
 - Daft Punk — *Homework* (1997)
-- Deee-Lite — *World Clique* (1990)
+  - Deee-Lite — *World Clique* (1990)  
 - C+C Music Factory — *Gonna Make You Sweat* (1990)
 
-- **Representative masterpiece (Japan)**
+- **代表的な名盤（日本）**  
 - TRF — *EZ DO DANCE* (1993)
-- Namie Amuro — *Body Feels EXIT* (1995)
+  - 安室奈美恵 — *Body Feels EXIT* (1995)  
 - globe — *DEPARTURES* (1996)
 
 - **Relationship with Japanese culture**
@@ -165,7 +165,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved
 | Gonna Make You Sweat | C+C Music Factory | Floor-exploding vocal house. |
 | Music Sounds Better with You | Stardust | The pinnacle of filter house. |
 | Around the World | Daft Punk | Robotic House Revolution. |
-| EZ DO DANCE | TRF | A song that symbolizes Japanese club culture. |
+| EZ DO DANCE | TRF | 日本のクラブカルチャーを象徴する一曲。 |
 | Body Feels EXIT | Namie Amuro | A dance number that represents the heyday of TK sound. |
 | Rhythm Is a Dancer | Snap! | A milestone in Eurodance. |
 | What Is Love | Haddaway | A club anthem loved all over the world. |
@@ -258,7 +258,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 | Can't Stop the Feeling | Justin Timberlake | Pop Disco |
 | The Bay | Metronomy | Indie Nu-Disco |
 | D.A.N.C.E. | Justice | Electro x Disco |
-| I Feel Better | Hot Chip | Electro-pop |
+| I Feel Better | Hot Chip | Electropop-oriented |
 | Red Lights | Tiësto | Intersection of EDM and Nu-Disco |
 
 
@@ -301,7 +301,7 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 | Levitating | Dua Lipa | Popular on TikTok |
 | Say So | Doja Cat | Very popular in Japan |
 | Disco | Kylie Minogue | Modern disco as the title suggests |
-| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop comeback |
+| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop revival |
 | Funk to the Future | Night Tempo | Future Funk interpretation from Japan |
 | Leave the Door Open | Silk Sonic | Soul x Disco fusion |
 | Break My Soul | Beyoncé | House and disco fusion |
@@ -312,5 +312,5 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 ---
 
 
-# Disco is not a "legacy of the past" but a living rhythm that supports the foundations of modern club and pop culture.
-Disco began as a subculture in the United States in the 1970s, and evolved independently in Japan by merging with nightlife culture. In the 1980s, it gave birth to ""Juliana Tokyo" and ""Maharaja" along with the bubble, and in the 90s it became integrated into club culture, and since the 2000s it has been reinterpreted in the context of Nu-Disco and city pop. Today, it continues to live on in Japan's club/disco culture and continues to thrill dance floors across generations.
+# Disco is not a ""relic of the past'' but a living rhythm that supports the roots of modern club and pop culture.
+Disco began as a subculture in the United States in the 1970s, and evolved independently in Japan by merging with nightlife culture. In the 1980s, it gave birth to ""Juliana Tokyo" and ""Maharaja" along with the bubble, and in the 90s it blended into club culture, and since the 2000s it has been reinterpreted in the context of Nu-Disco and city pop. Today, it continues to live on in Japan's club/disco culture and continues to thrill dance floors across generations.

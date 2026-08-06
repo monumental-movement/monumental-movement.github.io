@@ -14,9 +14,9 @@ title: Tone Theory – Limbo Of Vanished Possibilities
 
 'Limbo Of Vanished Possibilities' by Tone Theory (Derrick Carter) is perfect for the dance floor, with its beat, intricate percussion, and powerful bassline.
 
-In addition, the electronic "whistle" main hook, the delicate and beautiful little melody, and the emotional but mysterious vocals give off a sense of good taste.
+In addition, the electronic "whistle" main hook, delicate and beautiful little melody, and emotional but mysterious vocals give off a sense of good taste.
 
-Next, there are beautiful organ and piano lines, small hits, and filtered handclap percussion, and then DC provides a killer bassline that paints a rich sonic picture with a "bouncy" texture.
+Then there are beautiful organ and piano lines, small hits, and filtered handclap percussion, and then DC provides a killer bassline, which paints a rich sonic picture with a "bouncy" texture.
 
 
 #### Tracklist

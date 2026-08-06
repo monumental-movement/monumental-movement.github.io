@@ -13,7 +13,7 @@ title: VA – The Emotion E.P.
 ---
 
 
-A Tribal/Techno compilation released in 2002 by Cristian Varela's label Donkey Head Recordings.
+A Tribal/Techno compilation released in 2002 on Cristian Varela's label Donkey Head Recordings.
 
 Manuel Río Martin, also known as Bando, is a Spanish DJ/producer and founder of the label Patchwork (a sub-label of N.E.W.S.).
 

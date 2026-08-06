@@ -16,7 +16,7 @@ title: '[Column] Frank Sinatra''s life, music, movies, business, and cultural in
 
 ## Frank Sinatra - The man who sang about America
 
-Text: mmr | Theme: Frank Sinatra, a symbol of American popular music. Tracing his eventful life and the huge footprints he left in entertainment history
+Text: mmr｜Theme: Frank Sinatra, a symbol of American popular music. Tracing his eventful life and the huge footprints he left in entertainment history
 
 
 <style type="text/css">
@@ -131,7 +131,7 @@ Sinatra took full advantage of this new technology.
 
 In later years, many singers would imitate him.
 
-However, at the time, his singing style was innovative.
+However, at the time, his singing style was revolutionary.
 
 >Beyond being a great singer, Sinatra was one of the first artists to understand the microphone era.
 
@@ -310,7 +310,7 @@ Sinatra himself received critical acclaim and won the Academy Award for Best Sup
 
 attracting attention again.
 
-He is starting to make a comeback as a singer.
+He is also starting to make a comeback as a singer.
 
 ### The Capitol era has arrived
 
@@ -516,7 +516,7 @@ Many of them are still passed down to this day.
 
 The concept album idea also led to later pop and rock music.
 
-It contributed to the development of a culture where albums are listened to as a single work.
+It contributed to the development of a culture in which albums are listened to as one piece of work.
 
 ### Ideal image of entertainment
 
@@ -575,7 +575,7 @@ mindmap
 
 Frank Sinatra was more than just a popular singer.
 
-He perfected the art of singing during the microphone era, elevated albums to art form, achieved success in the film industry, and influenced the music business.
+He perfected the art of singing in the microphone era, elevated albums to art form, achieved success in the film industry, and influenced the music business.
 
 Above all, he sang about life itself.
 
@@ -599,6 +599,6 @@ What is art that remains timeless?
 
 One answer to that question is Frank Sinatra.
 
->Frank Sinatra was not only one of the ""greatest singers of the 20th century,'' but also a historical figure who continued to sing the story of America.
+> Frank Sinatra was not only one of the ""greatest singers of the 20th century,'' but also a historical figure who continued to sing the story of America.
 
 ---

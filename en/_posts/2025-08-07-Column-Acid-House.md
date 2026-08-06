@@ -26,7 +26,7 @@ Text: mmr｜Theme: Chemical reactions of sound and cultural transformation
 ### Origin: Radiation from underground in Chicago
 Acid house is a music genre that originated from the underground club scene in Chicago, USA in the mid-1980s, and is a subgenre of house music.
 
-The origin of this genre was born from the "accidental misuse" of an electronic instrument called the Roland TB-303 Bass Line Synthesizer. Originally developed as a bass guitar replacement, the TB-303 was used by DJs and producers (particularly from a unit called **Phuture**) in unexpected ways, producing undulating, ""liquid" and ""psychedelic" basslines.
+The origin of this genre was born from the "accidental misuse" of an electronic instrument called the Roland TB-303 Bass Line Synthesizer. Originally developed as a bass guitar replacement, the TB-303 was used by DJs and producers (particularly from a unit called Phuture) to manipulate it in unexpected ways, producing undulating, liquid, and psychedelic basslines.
 
 Phuture's 1987 single "Acid Tracks" became the prototype for this new style, both in sonic character and name.
 
@@ -44,7 +44,7 @@ The most important characteristics of acid house are the following sound element
 
 - Unique "purpy" and "squish" sound
 
-- Mysterious acoustic changes caused by filter resonance and slide
+- フィルターのレゾナンスとスライドによって発生する不思議な音響変化
 
 - Analog randomness and manual operation organicity
 
@@ -79,7 +79,7 @@ Acid house rapidly spread to the UK from the end of 1987 to 1988. Club DJs broug
 
 <hr>
 
-#### "Second Summer of Love": 1988
+####  「セカンド・サマー・オブ・ラヴ（Second Summer of Love）」：1988年
 
 - The connection between acid house and ecstasy (MDMA)
 
@@ -109,11 +109,11 @@ Acid house influenced not only music, but also visual and youth culture.
 
 - Yellow color, neon, psychedelic visuals
 
-- DIY graphics seen on T-shirts, flyers and record jackets
+- Tシャツ、フライヤー、レコードジャケットに見られるDIYグラフィック
 
 - Highly compatible with the Zine culture and free newspapers of the time
 
-This fashion continued into rave culture, trance, techno, breakbeat, and other scenes from the 1990s onwards.
+This fashion continued into rave culture, trance, techno, breakbeat, and other scenes from the 1990s onward.
 
 
 <hr>
@@ -124,14 +124,14 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 <div class="table-border">
 <table>
 <thead>
-<tr>
+    <tr>
 <th>Time</th>
 <th>Region/Style</th>
 <th>Features</th>
 </tr>
 </thead>
 <tbody>
-<tr>
+    <tr>
 <td>1990s</td>
 <td>German Hard Acid</td>
 <td>Faster and aggressive style. Development into Acid Techno and Hard Acid</td>
@@ -139,7 +139,7 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 <tr>
 <td>Late 1990s</td>
 <td>France/Belgium</td>
-<td>Connect with Rave Fusion of trance and acid</td>
+      <td>Raveと接続　トランスとアシッドの融合</td>
 </tr>
 <tr>
 <td>2000s-present</td>
@@ -151,7 +151,7 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 <td>Acid Jazz, Acid Trap, etc.</td>
 <td>Examples of derived genres named "Acid" also appear</td>
 </tr>
-</tbody>
+  </tbody>
 </table>
 </div>
 		
@@ -160,19 +160,19 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 
 <hr>
 
-### Positioning and re-evaluation in modern times
+### 現代における位置づけと再評価
 
-Today, acid house is being reevaluated amidst retro culture and the revival of analog equipment. In particular, it stands out in the following ways:
+Today, acid house is being reevaluated amidst retro culture and the revival of analog gear. In particular, it stands out in the following ways:
 
 - Classical return to festivals and raves
 
-- Cultural reappraisal in zines, archives and art exhibitions
+- Cultural reappraisal in zines, archives and art exhibits
 
 - Acid set popularity on YouTube and Bandcamp
 
 - Explosive spread of TB-303 clone aircraft (reproduction of analog equipment)
 
-More than just a musical genre, acid house continues to be at the nexus of electronic music and counterculture.
+More than just a musical genre, acid house remains at the nexus of electronic music and counterculture.
 
 
 <hr>

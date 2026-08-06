@@ -55,7 +55,7 @@ color: #fff;
 1. [Chapter 1: The mysterious man named Korla Pandit] (#Chapter 1)
 2. [Chapter 2: Postwar America and "Foreign Dreams"] (#Chapter 2)
 3. [Chapter 3: The Birth of Exotica Music - From Les Baxter to Martin Denny] (#Chapter 3)
-4. [Chapter 4: Idols of the TV Age - Impact of "Korla Pandit Show"] (#Chapter 4)
+4. [Chapter 4: Idols of the TV Age - The Shock of "Korla Pandit Show"] (#Chapter 4)
 5. [Chapter 5: The Truth Behind the Mask - Confessions of John Rowland] (#Chapter 5)
 6. [Chapter 6: Reverberations of Exotica - From Longines Symphonette to Lo-Fi Revival] (#Chapter 6)
 7. [Chapter 7: Modern Reappraisal and Cultural Dislocation] (#Chapter 7)
@@ -72,7 +72,7 @@ color: #fff;
 In 1948, Korla Pandit was the "Prince of India" who appeared on Los Angeles television station KTLA.
 He wears a turban, looks deep into the camera, and plays the Hammond organ. His fingers danced smoothly across the keys, and he didn't say a word.
 
-However, in the late 1990s, a shocking truth was revealed in the documentary film Korla (2014).
+However, in the late 1990s, shocking facts were revealed in the documentary film Korla (2014).
 His real name was **John Roland Redd**, and he was African American.
 
 This "story of the mask" goes beyond a simple stage name anecdote.
@@ -87,7 +87,7 @@ In America in the early 1950s, in the shadow of victory in World War II and the 
 
 - ""South Pacific'' (1958) was a big hit in Hollywood.
 - Tiki bars became popular in homes, and bamboo furniture and tropical-patterned curtains filled the dreams of the common man.
-- In terms of music, Latin, Hawaiian, Arabian, and Indian music were consumed as "fantasy background music."
+- In terms of music, Latin, Hawaiian, Arabian, and Indian music was consumed as "fantasy background music."
 
 In this context, the Pandit's silence and mask came to symbolize an idealized "foreign tranquility."
 
@@ -110,7 +110,7 @@ It laid the foundation for the later sounds of Martin Denny and Arthur Lyman.
 There, percussion instruments, bird calls, gamelan, and chimes intermingled to create an acoustic version of the ""imaginary South Seas.''
 
 Pandits, on the other hand, focus more on religious and spiritual aspects,
-He pioneered a unique path of ""organ music for meditation and euphoria.''
+He pioneered a unique path of ""meditative and euphoric organ music.''
 
 Reference/Source:
 - [Wikipedia - Les Baxter](https://en.wikipedia.org/wiki/Les_Baxter)
@@ -124,7 +124,7 @@ Reference/Source:
 
 ---
 
-The Korla Pandit Show, which aired from 1951, was one of the first American music television shows.
+The Korla Pandit Show, which aired from 1951, was one of America's earliest music television shows.
 The production, which was constructed using only sight and sound without uttering words, provided a ""safe foreign country'' for white viewers at the time.
 
 Pundit has had more than 1,000 broadcasts, giving her more television exposure than her contemporaneous Nat King Cole.
@@ -161,7 +161,7 @@ Since the 2000s, his videos and records have been rediscovered as collector's it
 
 ---
 
-## Chronology: Korla Pandit and Exotic Music History (1940–2020) {#Chronology}
+## Chronology: Korla Pandit and the history of exotica music (1940–2020) {#Chronology}
 
 | Year | Events |
 |----|--------|

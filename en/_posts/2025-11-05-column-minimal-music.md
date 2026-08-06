@@ -75,7 +75,7 @@ This ""free repetition'' is an idea that would later lead to electronic music an
 | Element | Content |
 |------|------|
 | Basic materials | 53 phrases (1-2 measure units) |
-| Tempo | Any (generally around ♩=120) |
+| Tempo | Arbitrary (generally around ♩=120) |
 | Repetition method | Each player moves to the next phrase at their own timing |
 | Effect | Polyrhythm effect due to phase shift |
 
@@ -152,7 +152,7 @@ Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
 ### Isao Tomita: Symphony in the electrons
 
 Isao Tomita used a synthesizer to reconstruct classical music in ""electronic repetition.''
-In Moonlight (1974), subtle modulation fluctuations shape the sonic space.
+In "Moonlight" (1974), subtle modulation fluctuations shape the sonic space.
 This sense of "electronic persistence" also applies to later techno-ambient music.
 
 ### Ryoji Ikeda: Minimal data and frequency

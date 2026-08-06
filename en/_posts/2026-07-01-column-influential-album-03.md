@@ -11,8 +11,8 @@ tags:
 - Sampling
 - Techno
 title: '[Column] The 100 most influential records in music history: A new history
-  of music reconstructed solely based on its influence on contemporary music (Part
-  3, 21-30: The Dawn of Electronic Music and the Ambient Revolution)'
+  of music reconstructed solely by its influence on contemporary music (Part 3, 21-30:
+  The dawn of electronic music and the ambient revolution)'
 ---
 
 
@@ -66,7 +66,7 @@ The sound of this work is often said to evoke a feeling of "nostalgia," but this
 * Fragmented melody
 * Ambiguous sample handling
 
-All of these are designs to construct a ""non-existent past.''
+All of these are designs to construct a ""nonexistent past.''
 
 ---
 
@@ -253,13 +253,13 @@ In the top works, the music shifts to a structure that doesn't even require a st
 
 ### "The moment club music was designed as 'labor'"
 
-Released in 1997, Homework chronicles the critical moment in electronic music's transition from club culture to industrialization.
+Homework, released in 1997, chronicles the critical moment in electronic music's transition from club culture to industrialization.
 
 Here, Daft Punk designed music not as an emotional expression, but as a "repeatable work process."
 
 ---
 
-## Meaning of the title: "Homework = Repetition device"
+## Meaning of the title: "Homework = Repetition Device"
 
 The title ""Homework'' is symbolic.
 
@@ -349,7 +349,7 @@ However, at this stage, music still relies on the logic of the groove.
 
 In the top works, the groove itself is dismantled and connected directly to cities, structures, and systems.
 
-> ""'Homework' is a piece of work that transforms club music into a production-oriented structure and transforms electronic music into a production-centered structure, and due to its historical significance, we rank it 23rd in this ranking.''
+> "'Homework' is a work that transforms club music into work and electronic music into a production-centered structure, and due to its historical significance, we rank it 23rd in this ranking."
 
 ---
 
@@ -360,7 +360,7 @@ In the top works, the groove itself is dismantled and connected directly to citi
 
 ### "The moment when the railroad redesigned the "time axis" of music"
 
-Trans-Europe Express, released in 1977, was a decisive turning point in the history of electronic music, from ""human performance" to ""machine rhythm structure."
+Trans-Europe Express, released in 1977, marked a decisive turning point in the history of electronic music from "human performance" to "mechanical rhythmic structure."
 
 Here, Kraftwerk reimagined music not as an expression but as a model for ""transportation systems," ""urban infrastructure," and ""mechanical time.''
 
@@ -377,7 +377,7 @@ But it's not just a depiction.
 * Phrase = Vehicle connection
 * Structure = route network
 
-In other words, the music is not a ""reproduction of a train," but an ""acousticization of the train system."
+In other words, the music is not a ""reenactment of a train," but an ""acousticization of the train system."
 
 ---
 
@@ -396,7 +396,7 @@ As a result, the music is not "played" but "active".
 
 ## The Düsseldorf School and "urban abstraction"
 
-Kraftwerk's importance goes beyond just pioneering electronic music.
+Kraftwerk's importance goes beyond just being a pioneer in electronic music.
 
 Rather than depicting the city directly, they redesigned it as an abstract model.
 
@@ -556,7 +556,7 @@ It can be said that Kraftwerk has almost completed the "OS" for electronic music
 
 ""Computer World'' is a work that redefines music as a model of a social system.
 
-However, at this stage, music is still designed as a ""system that humans can understand.''
+However, at this stage, music is still designed as a system that humans can understand.
 
 In the top works, the system itself exceeds human understanding.
 
@@ -595,7 +595,7 @@ Rather, it is "music that controls the very speed at which the environment chang
 
 ## Non-place called airport
 
-The "airport" indicated in the title is symbolic.
+The ""airport'' in the title is symbolic.
 
 * Space for people to pass through
 * A place that is not a destination
@@ -642,7 +642,7 @@ This is not a passiveization of music, but an environmentalization.
 
 ---
 
-## The middle ground between technology and philosophy
+## Midway between technology and philosophy
 
 Brian Eno's philosophy is both technical and philosophical.
 
@@ -781,7 +781,7 @@ However, at this stage, music still maintains a ""song-based structure.''
 
 In the top works, the unit of music itself disappears.
 
-> ""'Another Green World' is a transitional work that moves music from song units to environmental arrangements, dissolving the boundaries of genres, and is ranked 27th in this ranking due to its structural significance.''
+> ""'Another Green World' is a transitional work that moves music from individual songs to environmental arrangements, dissolving the boundaries of genres, and ranks it at number 27 in this ranking due to its structural significance.''
 
 ---
 
@@ -874,9 +874,9 @@ This work gives "body" to electronic music once again.
 
 However, at this stage, the framework of ""individual feelings'' is still maintained.
 
-In the top-ranked works, emotion itself disappears, moving into a realm where only structure remains.
+In the top works, the emotion itself disappears, moving into a realm where only structure remains.
 
-> "'Homogenic' transforms electronic music into a structured system of emotions, presenting a new sonic terrain that integrates voices, beats, and nature. Due to its historical significance, we rank it at number 28 in this ranking."
+> "'Homogenic' transforms electronic music into a structured system of emotions and presents a new sonic terrain that integrates voices, beats, and nature. Due to its historical significance, it is ranked 28th in this ranking."
 
 ---
 
@@ -885,15 +885,15 @@ In the top-ranked works, emotion itself disappears, moving into a realm where on
 
 ## Dummy
 
-### "The moment when nostalgia became fixed as a 'production technique'"
+### "The moment when nostalgia became fixed as a "production technique""
 
 Dummy, released in 1994, is a definitive work that equated "memory" and "sound" in Britain in the 1990s.
 
-Here, Portishead perfected the reversal of his idea of ​​not quoting the past, but artificially reconstructing ""the texture of the past itself.''
+Here, Portishead perfected the reversal of his idea of ​​not quoting the past, but artificially reconstructing the "texture of the past itself."
 
 ---
 
-## Establishment of "trip hop" condition
+## Establishing a state called "trip hop"
 
 This work formed the core of the trend that would later become known as trip-hop, but its essence is not a genre.
 
@@ -936,7 +936,7 @@ Here, the voice becomes not ""something that speaks" but ""something that remain
 
 The structure of ""Dummy'' is cinematic.
 
-* Low-light scenes
+*Low light scene
 * Slow camera work development
 * Lack of clear narrative
 * Fragmentary scene composition
@@ -992,7 +992,7 @@ In the top works, memory itself disappears, and the music shifts to pure structu
 
 Endtroducing...., released in 1996, was a work that redefined the very concept of music creation with the extreme premise of ""an album constructed without using any original sound sources.''
 
-Here, DJ Shadow created music not as a performance or a composition, but as a ""architecture created by editing existing sounds.''
+Here, DJ Shadow created music not as a performance or a composition, but as an ""architecture created by editing existing sounds.''
 
 ---
 
@@ -1001,7 +1001,7 @@ Here, DJ Shadow created music not as a performance or a composition, but as a ""
 The basic idea of ​​this work is clear.
 
 * Do not make new recordings
-* Use existing records only
+* Use only existing records
 * Built only with sound quotes
 * Complete editorialism
 
@@ -1099,13 +1099,13 @@ In the top works, even editing disappears, and the music dissolves directly into
 
 # Part 3 (Closing)
 
-The 21st to 30th places so far have been the very process of electronic music transitioning from "experiment" to "system."
+The 21st to 30th place thus far was the very process of electronic music's transition from "experiment" to "system."
 
 * Memory is designed as sound (Music Has the Right to Children)
 * Pop music is converted into mechanical emotions (Discovery)
 * Club music redefined as a labor process (Homework)
 * The machine becomes a model of time (Trans-Europe Express)
-* Information society has been transformed into an acoustic structure (Computer World)
+* Information society is transformed into acoustic structure (Computer World)
 * Music extended to the environment (Ambient 1: Music for Airports)
 * The landscape is abstracted (Another Green World)
 * Emotions are designed as topography (Homogenic)
@@ -1118,7 +1118,7 @@ In other words, it can be said that the third time was a process in which music 
 
 # Next preview (4th: 31st to 40th place)
 
-In Part 4, we finally get into another huge structure that evolved in parallel with electronic music: the institutionalization and structuring of hip-hop.
+In Part 4, we will finally get into another huge structure that evolved in parallel with electronic music: the institutionalization and structuring of hip-hop.
 
 In this world, music is no longer a matter of "individual expression";
 
@@ -1137,7 +1137,7 @@ begins to function as
 
 This section covers the following albums:
 
-*The Chronic
+* The Chronic
 *Illmatic
 *Ready to Die
 * Enter the Wu-Tang (36 Chambers)

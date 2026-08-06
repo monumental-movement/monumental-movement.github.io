@@ -18,10 +18,10 @@ title: '[Column] Salsoul Orchestra and MFSB - Evolution from Philadelphia to Dis
 
 Text: mmr｜Theme: About the musical revolution that formed the basis of "disco"
 
-In the early 1970s, a musical revolution that later became the prototype for ""disco'' occurred in Philadelphia, a city on the east coast of the United States.
+In the early 1970s, a musical revolution that would become the prototype for ""disco'' occurred in Philadelphia, a city on the east coast of the United States.
 At the center of this were **MFSB (Mother Father Sister Brother)** and **Salsoul Orchestra**.
 
-They established a new sound called ""orchestra soul'' by fusing gorgeous arrangements with plenty of strings and horns, a detailed rhythm section, and a soulful spirit.
+They established a new sound called ""orchestra soul'' by fusing gorgeous arrangements that incorporate plenty of strings and horns, a detailed rhythm section, and a soulful spirit.
 This lineage later spread to disco culture around the world, and was inherited by house, Latin, and even hip-hop sampling cultures.
 
 ---
@@ -43,7 +43,7 @@ color: #fff;
 ## The birth of the Philadelphia Sound: Gamble & Huff and Sigma Sound
 
 At the end of the 1960s, **Philadelphia International Records (PIR)**, by **Kenneth Gamble** and **Leon Huff**, supported the Philadelphia music scene.
-They began their activities based at **Sigma Sound Studios**, aiming to replace Motown as a new center for black music.
+They started their activities based at **Sigma Sound Studios**, aiming to replace Motown as a new center for black music.
 
 The recording was supported by an exclusive session group -- **MFSB**.
 The members of MFSB included the following:
@@ -81,7 +81,7 @@ Montana uses the orchestration skills he cultivated at PIR to fuse Latin percuss
 As a result, a unique equation was created: **Disco+Orchestra+Salsa=Salsoul**.
 
 The representative song "**Salsoul Hustle**" is a perfect symbol of this.
-Congas, timbales, strings, horns, and muted guitar all intertwine exquisitely, creating a feel of Latin cheerfulness and Philly sophistication at the same time.
+Congas, timbales, strings, horns, and muted guitars intertwine exquisitely, creating a feel of Latin cheerfulness and Philly sophistication at the same time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DmLiiKYhKYg?si=7P_heKoUd6TOeLiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -15,9 +15,9 @@ title: Swod – Sekunden
 
 Swod is a recording project by musicians Oliver Doerell and Stephan Wöhrmann.
 
-Oliver Doerell is a multi-instrumentalist based in electronic music who also works under the name Cummi Flu. Stephan Wöhrmann is a modern classical piano and drum player. Both are solo artists who compose music for dance, film, and sound installations.
+Oliver Doerell is a multi-instrumentalist based on electronic music, also active under the name Cummi Flu. Stephan Wöhrmann is a modern classical piano and drum player. Both are solo artists who compose music for dance, film, and sound installations.
 
-"Sekunden" is a minimalist modern classical experimental album released in 2007 by the German label City Center Offices.
+"Sekunden" is a minimal modern classical experimental album released in 2007 by the German label City Center Offices.
 
 #### Tracklist
 ```md

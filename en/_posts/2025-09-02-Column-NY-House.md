@@ -27,7 +27,7 @@ New York House was born out of the echoes of disco and the excitement of undergr
 
 ### Late 1970s: Wavering from disco
 - **Background**
-While large-scale discotheques such as Studio 54 were thriving, underground clubs that resisted commercialization were also born. This is where the birth of the house began.
+While large-scale discotheques such as Studio 54 were thriving, underground clubs that resisted commercialization were also born. This is where the momentum of the house began.
 - **Representative spots**
 - Paradise Garage (symbolized by Larry Levan's DJ play)
 - **Representative works**
@@ -67,7 +67,7 @@ Influenced by Chicago house, New York has developed a more soulful and sophistic
 
 ### 1990s: golden age and diversification
 - **Background**
-House is taking the world club scene by storm. NY house is subdivided into styles such as "deep" and "garage."
+House has taken over the world's club scene. NY house is subdivided into styles such as "deep" and "garage."
 - **Representative artists/works**
 - Masters at Work (MAW) – *The Ha Dance* (1991)
 - Barbara Tucker – *I Get Lifted* (1994)
@@ -120,9 +120,9 @@ After the pandemic, online streaming and virtual clubs have become popular. NY h
 ### Representative DJ/Producer
 
 -Larry Levan
-- Frankie Knuckles (Connecting Chicago and NY)
+- Frankie Knuckles (Connecting Chicago and New York)
 - Masters at Work (Louie Vega & Kenny Dope)
--David Morales
+- David Morales  
 - Tony Humphries
 - Kerri Chandler
 - Barbara Tucker (important as a singer)
@@ -133,11 +133,11 @@ After the pandemic, online streaming and virtual clubs have become popular. NY h
 
 ### Representative Club (NYC)
 
-- **Paradise Garage (1977–1987)**
+- **Paradise Garage（1977–1987）**  
 Larry Levan's legendary home. The starting point for NY House.
 
 - **The Loft**
-Hosted by David Mancuso. The origin of private party culture.
+  David Mancusoが主催。プライベートパーティ文化の源流。  
 
 - **Sound Factory (1989–1995)**
 Junior Vasquez is a resident. Symbolizing the golden age of vocal house in the 90s.
@@ -166,7 +166,7 @@ Brooklyn new generation club. A place of deep and soulful heritage.
 ---
 
 ### Still on dance floors around the world
-While NY house was influenced by Chicago house, it inherited the genes of disco culture and established its own musical style of ""soulful and human grooves.'' The city's culture, diverse communities, and innovations in DJing and club sound systems have created an ever-evolving musical heritage.
+While NY house was influenced by Chicago house, it inherited the genes of disco culture and established its own musical style of ""soulful, human groove.'' The city's culture, diverse communities, and innovations in DJing and club sound systems have created an ever-evolving musical heritage.
 
 ---
 

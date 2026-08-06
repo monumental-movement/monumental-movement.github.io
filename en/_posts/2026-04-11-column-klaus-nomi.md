@@ -53,7 +53,7 @@ He had experience working at the Deutsche Oper Berlin and was exposed to the beh
 
 ### Immigration to New York
 
-In the mid-1970s, he moved to the United States and settled in New York City. At the time, New York was a chaotic city where punk, disco, and art scenes intersected, making it the perfect testing ground for someone as unique as him.
+1970年代半ば、彼はアメリカへ渡り、New York Cityに拠点を移す。当時のニューヨークはパンク、ディスコ、アートシーンが交差する混沌の都市であり、彼のような異質な存在にとっては絶好の実験場だった。
 
 He continued his music career while working at a restaurant, and eventually gained attention in the underground scene.
 
@@ -71,7 +71,7 @@ Triangular suits, whitewashed faces, extremely exaggerated movements. These work
 
 ### Voice specificity
 
-His greatest feature is his singing style, which combines operatic high range and pop structure. His attempt to sing a pop song using a countertenor voice was extremely unusual at the time.
+His greatest feature is his singing, which combines operatic high range and pop structure. His attempt to sing a pop song using a countertenor voice was extremely unusual at the time.
 
 This was an attempt to blur the boundaries between classical and pop music, and could be considered a precursor to later crossover music.
 
@@ -81,9 +81,9 @@ This was an attempt to blur the boundaries between classical and pop music, and 
 
 ## Connection with David Bowie
 
-### Co-starring on Saturday Night Live
+### Saturday Night Liveでの共演
 
-In 1980, David Bowie featured Klaus Nomi on the backing vocals when he appeared on the television show "Saturday Night Live." This appearance will be one of his biggest media exposures.
+1980年、David Bowieはテレビ番組「Saturday Night Live」に出演した際、バックコーラスとしてKlaus Nomiを起用した。この出演は彼にとって最大のメディア露出のひとつとなる。
 
 Bowie himself was an artist who valued transformation and visual expression, and their aesthetics had something in common.
 
@@ -95,14 +95,14 @@ This collaboration was also the moment when the boundaries between underground a
 
 ---
 
-## Representative works and musical characteristics
+## 代表作と音楽的特徴
 
 ### Album works
 
-He released two studio albums during his lifetime.
+彼は生前に2枚のスタジオアルバムを発表している。
 
-* Klaus Nomi (1981)
-* Simple Man (1982)
+* Klaus Nomi（1981年）
+* Simple Man（1982年）
 
 These works are a mix of pop songs and classical arias, and are characterized by compositions that transcend genre boundaries.
 
@@ -122,11 +122,11 @@ In particular, "Cold Song" is based on the work of Henry Purcell, and is a symbo
 
 ### Geometric costume
 
-His costumes had a futuristic design that emphasized straight lines and symmetry, and were distinctive among the fashions of the time. This is not just a costume, but a visual language integrated with his music.
+His costumes had a futuristic design that emphasized straight lines and symmetry, and were distinctive among the fashions of the time. This isn"t just a costume, it"s a visual language integrated with his music.
 
 ### Body production
 
-His movements were both mechanical and theatrical, often giving the impression of being inhuman. This establishes his character as a ""non-human being''.
+His movements were both mechanical and theatrical, often giving the impression of being inhuman. This establishes his character as a ""non-human being.''
 
 > Visual expression functioned as an inseparable element from music.
 
@@ -146,7 +146,7 @@ He prioritized artistic expression over commercial success, an attitude that res
 
 ---
 
-## Detailed analysis of representative works: Voices and Crystals of Deformities
+## Detailed analysis of masterpieces: Voices and Crystals of Deformity
 
 ### "Total Eclipse"
 
@@ -269,7 +269,7 @@ Klaus Nomi's style influenced many subsequent artists. In particular, he is a pi
 
 In the 21st century, his work has been reevaluated and increasingly referenced in the fields of film and fashion. His aesthetic continues to show the possibility of expression that transcends genres.
 
-> His legacy extends beyond music to the form of expression itself.
+> His legacy extends not only to music but also to the form of expression itself.
 
 ---
 

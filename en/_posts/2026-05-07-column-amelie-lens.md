@@ -10,18 +10,18 @@ tags:
 - Techno
 - DJ
 - Belgium
-title: '[Column] Amelie Lens: The core of modern techno opened up by rigid minimalism'
+title: '[Column] Amelie Lens: The core of modern techno carved out by rigid minimalism'
 ---
 
 
 
 ## Prologue: Being at the axis of modern techno
 
-Text: mmr｜Theme: Minimal techno innovation from Belgium and inheritance of hands-on approach
+文：mmr｜テーマ：ベルギー発ミニマル・テクノの革新と現場主義の継承
 
 Belgian DJ/producer Amelie Lens has established herself as one of the most influential figures in the techno scene since the late 2010s. Her sound is hard, fast, and extremely stripped-down minimalism, maintaining a consistent intensity from gigantic festivals to underground clubs.
 
-His music is more than just a style, it has the power to redefine the modern club experience itself. This attitude of eliminating visual presentation and excessive decoration, and emphasizing the direct relationship between sound and the body, can be said to be a movement to restore the original functionality of techno.
+His music is more than just a style, it has the power to redefine the modern club experience itself. This attitude of eliminating visual presentation and excessive decoration and emphasizing the direct relationship between sound and the body can be said to be a movement to restore the original functionality of techno.
 
 > He has brought back the ""physicality'' that is the origin of techno to the present day.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 Born in Belgium in 1990, Amelie Lens was interested in both music and fashion from a young age. She worked as a model for a while, but gradually developed an interest in club culture and decided to pursue a career as a DJ.
 
-Belgium is an important region in the European club scene and has a particularly rich cultural wealth of electronic music. This environment had a considerable influence on the formation of her sensibilities.
+Belgium is an important region in the European club scene and has a rich cultural wealth, especially in electronic music. This environment had a considerable influence on the formation of her sensibilities.
 
 ### Transformation as a DJ
 
@@ -64,7 +64,7 @@ Started DJing in earnest around 2014. In the early days, he mainly played in sma
 
 One of the key factors that accelerated her career was her relationship with techno labels. In particular, releases from major European labels served as an opportunity to make her musicality widely known.
 
-After that, he established his own label ""Lenske'' and began to play the role not only as an artist but also as a curator. This move marks a shift from being a mere DJ to a scene-shaper.
+After that, he established his own label ""Lenske'' and began to take on the role not only as an artist but also as a curator. This move marks a shift from being a mere DJ to a scene-shaper.
 
 ### Festival presence
 
@@ -99,7 +99,7 @@ This structure is designed to induce a trance state through the small number and
 
 Her sets generally run at a high BPM (around 135-140). This resonates with recent trends in hard techno, but in her case the emphasis is on sustainability rather than excessive aggression.
 
-> Few elements and fast tempo create a deep immersion.
+> Few elements and fast tempo creates a deep immersion.
 
 ---
 
@@ -120,7 +120,7 @@ D --> E
 
 This structure creates an ecosystem that is more than just a release platform.
 
-### Community building
+### コミュニティ形成
 
 She emphasizes direct relationships with fans through SNS and events. This is also an important element required of modern artists.
 
@@ -128,11 +128,11 @@ She emphasizes direct relationships with fans through SNS and events. This is al
 
 ---
 
-## Chronology
+## 年表
 
 ### Major Career Events
 
-* 1990: Born in Belgium
+* 1990年：ベルギーに誕生
 * Around 2014: Full-scale start of DJ activities
 * 2016: International reputation increased
 * 2018: Established own label
@@ -167,5 +167,14 @@ His approach of stripping away decorations and concentrating on the sound itself
 
 > The strength achieved through stripping will shape the techno of the future.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S-TENTCOYM4?si=6-VAU1zosQDzCTGn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

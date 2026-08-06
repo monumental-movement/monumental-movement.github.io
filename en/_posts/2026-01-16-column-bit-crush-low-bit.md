@@ -24,7 +24,7 @@ Text: mmr｜Theme: Digital distortion has changed music--About the technical his
 The history of digital music is often talked about as a history of high-quality sound. Sampling frequencies have increased, bit depth has been extended, and noise has been eliminated. However, on the other hand, expressions that intentionally lower the resolution have repeatedly appeared.
 Words like bit crush, low bit music, and 8bit/12bit sound technically mean ""limitation" or ""deficiency," but in music history they have formed a distinct aesthetic and culture.
 
-In this column, we will analyze the relationship between bit depth and sound, the limitations of early digital devices, and the flow that led to game consoles, samplers, and DAWs, and interpret the accumulation of facts as to why low-resolution sound became a form of musical expression.
+In this column, we will analyze the relationship between bit depth and sound, the limitations of early digital devices, and the flow that led to game consoles, samplers, and DAWs, and interpret the accumulation of facts as to why low-resolution sound was established as a form of musical expression.
 
 >Digital music has always encompassed both ""enhancing" and ""destructing" at the same time.
 
@@ -64,7 +64,7 @@ Low bit depths were common in early digital audio equipment due to cost and proc
 The sampling frequency is the resolution on the time axis, and the bit depth is the resolution on the amplitude axis.
 If either one is low, the sound will be rough. However, especially when the bit depth decreases, distortion is more likely to be perceived as timbre.
 
-Unlike analog distortion, this distortion has a discontinuous and hard texture. This gave rise to a characteristic that would later be called ""digital sound.''
+Unlike analog distortion, this distortion has a discontinuous and hard texture. This gave rise to the characteristic that would later be called ""digital sound.''
 
 > Digital distortion gives the timbre itself a mathematical contour.
 
@@ -89,7 +89,7 @@ Rather than sacrificing sound quality, this was a compromise to make it work.
 Family computers, arcade boards, and 8-bit and 16-bit generation game consoles had extremely limited sound source specifications.
 The composition of square waves, triangle waves, noise, and simple sample playback gave it a distinctly digital tone.
 
-This sound was considered ""for children" and ""simple," but at the same time it became deeply engraved in generational memory.
+This sound was considered ""children's" and ""simple," but at the same time it became deeply engraved in generational memory.
 
 > Game music was the biggest medium that allowed low-bit sounds to permeate everyday life.
 
@@ -114,7 +114,7 @@ Low-bit sound is not just a matter of sound quality, but has become an element t
 The spread of the Internet has rapidly democratized music production tools and distribution.
 With the advent of emulators, tracker software, and simple synths, low-bit music is leaving the realm of experts.
 
-This trend also connected with later lo-fi-oriented music and indie music.
+This trend would connect with later lo-fi-oriented music and indie music.
 
 > Low-resolution sound has entered the high-resolution distribution network.
 
@@ -153,7 +153,7 @@ Low resolution will no longer be treated as a constraint, but as a means of expr
 Phenomena such as CD reading errors, data corruption, and processing failures should have been eliminated.
 However, some electronic musicians begin to treat this as a sound material.
 
-Low-bit noise and glitches have in common that they both assume digital imperfection.
+Low bit sounds and glitches have in common that they both assume digital imperfection.
 
 > Digital no longer needs to be perfect.
 
@@ -176,7 +176,7 @@ Low bit sounds are like brush strokes in abstract music.
 ### Hardware Revival
 
 In recent years, 8bit/12bit samplers and lo-fi oriented sound sources have been reevaluated.
-This is not just nostalgia; it is because the music production environment has become so high-resolution that the opposite direction has become a clear option.
+This is not just a matter of nostalgia; it is because the music production environment has become more high-resolution that the opposite direction has become a clear option.
 
 > Low sound quality is chosen precisely because we live in an era of high sound quality.
 
@@ -184,7 +184,7 @@ This is not just nostalgia; it is because the music production environment has b
 
 ### Application to videos, games, and advertising
 
-Low-bit sounds are used as symbols that instantly convey a sense of nostalgia, artificiality, and unreality.
+Low-bit tones are used as symbols that instantly convey a sense of nostalgia, artificiality, and unreality.
 Even short sounds can evoke context, so they go well with images and UI sounds.
 
 > Low-pitched sounds have become sounds that carry meaning.
@@ -237,7 +237,7 @@ As technology advances, limits are no longer imposed from outside.
 That's why the act of intentionally lowering resolution involves a clear ideology.
 
 Low bits are not a relic of the past.
-It is an aesthetic that will only come to fruition once digital music has matured.
+It is an aesthetic that will only be established once digital music has matured.
 
 > Choosing the resolution of sound is equivalent to choosing the position of expression.
 

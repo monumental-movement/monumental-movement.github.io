@@ -21,9 +21,9 @@ title: '[Column] The Golden Age of Hong Kong Movie Soundtracks: The Heartbeat an
 
 Text: mmr｜Theme: Soundtrack innovation and urban culture resonance in 1990s Hong Kong films
 
-Hong Kong cinema in the 1990s was an era in which the contours of the city were etched not only through images but also through sound. The reflections of neon lights, the humid night air, the speed and excitement all flow into the audience's bodies along with the music. In particular, the soundtrack was not just a background, but functioned as another narrator running alongside the story.
+Hong Kong cinema in the 1990s was an era in which the contours of the city were engraved not only through images but also through sound. The reflections of neon lights, the humid night air, the speed and impatience all flow into the audience's bodies along with the music. In particular, the soundtrack was not just a background, but functioned as another narrator running alongside the story.
 
-At this time, Hong Kong was about to be handed over in 1997, and there was a unique sense of tension and floating in the society as a whole. Film music directly reflected this atmosphere, sometimes expressing the heartbeat of the city with pop and lightness, and other times with urgent rhythms.
+At this time, Hong Kong's handover in 1997 was just around the corner, and there was a unique sense of tension and floating in the society as a whole. Film music directly reflected this atmosphere, sometimes expressing the heartbeat of the city with pop and lightness, and other times with urgent rhythms.
 
 In Koisuru Planet, for example, repeated pop songs emphasize the characters" loneliness and time dislocation, and the music itself is integrated into the story"s structure. Here, ""music selection'' began to have the same meaning as composition.
 
@@ -57,7 +57,7 @@ Stars such as Zhang Guorong, Liu Dehua, and Wang Fei were both actors and singer
 ### Representative artists and characteristics
 
 * Wang Fei
-Symbolizes urban loneliness with a floating voice and alternative-oriented songs
+  浮遊感のある声とオルタナティブ志向の楽曲で、都市的孤独を象徴
 
 * Zhang Guorong
 Wide range of emotional expressions, suitable for everything from love stories to dramas.
@@ -70,7 +70,7 @@ Providing many dramatic songs with powerful vocals
 
 ### Drama of the theme song
 
-The theme song was not just an ending, but also served to reinforce the emotional core of the story. Especially in romantic films and noir films, the melody of the theme song remains strongly in the memory of the audience.
+The theme song was not just an ending, but also served to reinforce the emotional core of the story. Especially in romantic movies and noir films, the melody of the theme song remains strongly in the memory of the audience.
 
 In Angel's Tears, music also functions as a device to visualize the psychological distance between the characters.
 
@@ -127,7 +127,7 @@ Main track examples:
 
 Hong Kong film music in the 1990s was extremely multicultural. There was a mix of jazz, electronica, classical, rock, and even traditional Chinese music.
 
-Shigeru Umebayashi, a representative composer, fuses Japanese melodies and Western arrangements.
+Shigeru Umebayashi, a representative composer, fuses Japanese melodies with Western arrangements.
 
 Gu Ka-hui also worked in both television and film, and laid the foundation for Hong Kong music.
 
@@ -195,13 +195,13 @@ graph TD
     C --> E
 </div>
 
-> Though independent, images and music intersected, creating a multilayered audience experience.
+> Though independent, images and music intersected, creating a multi-layered audience experience.
 
 ---
 
 ## Final Chapter: Memories of Hong Kong left behind by sound
 
-Hong Kong movie soundtracks in the 1990s went beyond mere film music and functioned as memories of the city itself. It is imprinted with an atmosphere of political change, waves of globalization, and individual loneliness all at the same time.
+Hong Kong movie soundtracks in the 1990s went beyond mere film music and functioned as memories of the city itself. It is imprinted with the atmosphere of a political transition, the waves of globalization, and the loneliness of the individual.
 
 When we listen back to that music today, we are not just remembering a movie, but reliving the texture of an era.
 

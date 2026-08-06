@@ -13,7 +13,7 @@ title: Shokichi Kina + Makoto Yano – The Celebrations
 ---
 
 
-Recorded live in Osaka and Tokyo in 1982 by Shokichi Kino, who established ""Uchina Pop,'' a modern arrangement of Ryukyu folk songs, and producer/pianist Makoto Yano. Shakichi Kino's signature song "Hana" is also included. Reissue released in 1990.
+Recorded live in Osaka and Tokyo in 1982 by Shokichi Kino, who established ""Uchina Pop,'' a modern arrangement of Ryukyu folk songs, and producer/pianist Makoto Yano. Shokichi Kino's signature song "Hana" is also included. Reissue released in 1990.
 
 Shokichi Kino + Makoto Yano
 1982 Osaka/Tokyo Live "The Celebrations"

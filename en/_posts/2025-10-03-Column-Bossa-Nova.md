@@ -55,7 +55,7 @@ color: #fff;
 
 #### Stan Getz
 
-- **Solo Album**: ["Jazz Samba" (1962)](https://amzn.to/4q0kjh9), "Big Band Bossa Nova" (1962)
+- **Solo album**: ["Jazz Samba" (1962)](https://amzn.to/4q0kjh9), "Big Band Bossa Nova" (1962)
 - **Collaboration**: ["Getz/Gilberto" (1964)](https://amzn.to/4nAx9Ry)
 
 ---
@@ -74,9 +74,9 @@ color: #fff;
 
 **Year of Birth**: June 10, 1931 (Juazeiro, Bahia, Brazil)
 
-**Characteristics**: Known as the founder of bossa nova, he is known as the "god of bossa nova" for his unique guitar playing and modest singing style.
+**Characteristics**: Known as the founder of bossa nova, he is known as the ""god of bossa nova'' for his unique guitar playing and modest singing style.
 
-**Anecdote**: In 1958, during the production of the album [Chega de Saudade](https://amzn.to/3W7J1yt), when the sound engineer pointed out that the volume of his guitar was too low, Gilberto responded, ""Instead of raising the volume of the guitar, just lower the other sounds,'' embodying his musical philosophy.
+**Anecdote**: In 1958, during the production of the album [Chega de Saudade](https://amzn.to/3W7J1yt), when the sound engineer pointed out that the volume of his guitar was too low, Gilberto responded, "Instead of raising the volume of the guitar, just lower the other sounds," embodying his musical philosophy.
 
 **Influence**: His style greatly influenced later artists and laid the foundation for bossa nova.
 
@@ -86,7 +86,7 @@ color: #fff;
 
 **Year of Birth**: January 25, 1927 (Rio de Janeiro, Brazil)
 
-**Characteristics**: Known as a pianist, composer, and arranger, he was responsible for such representative bossa nova songs as ""The Girl from Ipanema" and ""Waves."
+**Characteristics**: Known as a pianist, composer, and arranger, he has created representative bossa nova songs such as ""The Girl from Ipanema" and ""Waves."
 
 **Anecdote**: He worshiped Frank Sinatra as a "god" and dreamed of working with him. In fact, his dream came true in 1967 when they collaborated on the album [Francis Albert Sinatra & Antônio Carlos Jobim](https://amzn.to/42jb1Te).
 
@@ -100,9 +100,9 @@ color: #fff;
 
 **Characteristics**: A jazz saxophonist who is known as the ""bridge between jazz and bossa nova'' who contributed to the spread of bossa nova.
 
-**Anecdote**: In 1962, he introduced bossa nova to America by co-starring with João Gilberto on the album [Jazz Samba](https://amzn.to/4q0kjh9). In particular, her performance of ""The Girl from Ipanema'' became a huge hit and led to the global boom in bossa nova.
+**Anecdote**: In 1962, he co-starred with Joao Gilberto on the album [Jazz Samba](https://amzn.to/4q0kjh9) and introduced bossa nova to America. In particular, her performance of ""The Girl from Ipanema'' became a huge hit and led to the global boom in bossa nova.
 
-**Influence**: Getz's playing influenced many musicians as a symbol of the fusion of bossa nova and jazz.
+**Influence**: Getz's playing symbolized the fusion of bossa nova and jazz and influenced many musicians.
 
 ---
 
@@ -135,7 +135,7 @@ color: #fff;
 
 | Year | Album | Commentary | Link |
 |----|----------|------|--------------|
-| 1963 | The Composer of Desafinado Plays | Presents sophisticated bossa nova chord progressions and melodies, centering on "Desafinado." An early masterpiece that shows Jobim's compositional ability. | [Amazon](https://amzn.to/3VJM1AP) |
+| 1963 | The Composer of Desafinado Plays | Presents sophisticated bossa nova chord progressions and melodies, centering on "Desafinado." An early representative work that shows Jobim's compositional ability. | [Amazon](https://amzn.to/3VJM1AP) |
 | 1965 | The Wonderful World of Antônio Carlos Jobim | Arrangements centering around the piano, fusing jazz elements with Brazilian music. An album that gained international acclaim. | [Amazon](https://amzn.to/46zbymt) |
 | 1967 | Francis Albert Sinatra & Antônio Carlos Jobim | A collaboration with Sinatra. It spread the appeal of bossa nova to American listeners and includes the famous song "The Girl from Ipanema." | [Amazon](https://amzn.to/42jb1Te) |
 | 1970 | Stone Flower | An experimental work that introduces a more fusion-like attempt. Exploring new harmonies with guitar and percussion. | [Amazon](https://amzn.to/46ByhhP) |
@@ -161,7 +161,7 @@ color: #fff;
 |----|----------|------|--------------|
 | 1966 | Herb Alpert Presents Sérgio Mendes & Brasil '66 | Produced for the American market and includes the hit song "Mas Que Nada." A masterpiece that spread Brazilian music around the world. | [Amazon](https://amzn.to/4mR12fg) |
 | 1968 | Look Around | Further promoting the fusion of pop and bossa nova. The catchy and sophisticated arrangement is popular. | [Amazon](https://amzn.to/4mNhxca) |
-| 1969 | Fool on the Hill | Beatles songs arranged in a bossa nova style. An album that shines with experimentalism that transcends genres. | [Amazon](https://amzn.to/4mIItdb) |
+| 1969 | Fool on the Hill | A Beatles song arranged in a bossa nova style. An album that shines with experimentalism that transcends genres. | [Amazon](https://amzn.to/4mIItdb) |
 | 1971 | Stillness | This is an album with a calm atmosphere, and the beauty of the arrangement and chorus stands out. | [Amazon](https://amzn.to/433P2Qj) |
 | 1983 | Confetti | A late career work that combines the sounds of the 80s and Brazilian music. Characterized by light rhythm and modern arrangement. | [Amazon](https://amzn.to/4o58hRH) |
 
@@ -204,19 +204,19 @@ flowchart TD
 
 ## The influence of bossa nova and its inheritance to the present day
 
-Bossa Nova has influenced various genres such as jazz, pop, and classical music, and has had a great influence on the modern music scene. In recent years, artists have been creating songs that incorporate elements of bossa nova, and fusion that transcends genre boundaries is progressing.
+Bossa Nova has influenced various genres such as jazz, pop, and classical music, and has had a great influence on the modern music scene. In recent years, fusion that transcends the boundaries of genres is progressing, with artists creating songs that incorporate elements of bossa nova.
 
 ---
 
 ## summary
 
-Bossa Nova is a rare genre that began in an apartment in Rio de Janeiro in the late 1950s and has rewritten the world"s musical map. João Gilberto"s whispering guitar and voice, Antonio Carlos Jobim"s sophisticated compositions, Stan Getz"s jazz interpretation, and Sergio Mendes' pop internationalism. Although their individual personalities and activities are independent, they are organically linked and continue to be listened to throughout the ages.
+Bossa Nova is a rare genre that began in an apartment in Rio de Janeiro in the late 1950s and has rewritten the world"s musical map. João Gilberto"s whispering guitar and voice, Antonio Carlos Jobim"s sophisticated compositions, Stan Getz"s jazz interpretation, and Sergio Mendes' pop internationalization. Although their individual personalities and activities are independent, they are organically linked and continue to be listened to throughout the ages.
 
-Even today, the word "Bossa Nova" goes beyond just a musical genre and functions as a symbol of "Brazilian culture" and a "relaxed atmosphere." Through digital platforms such as Spotify and YouTube, it has been received freshly by the younger generation, and it frequently appears in AI recommendations and playlists.
+Even today, the word "Bossa Nova" goes beyond just a musical genre and functions as a symbol of "a symbol of Brazilian culture" and a "relaxed atmosphere." Through digital platforms such as Spotify and YouTube, it has been received freshly by the younger generation, and it frequently appears in AI recommendations and playlists.
 
-The charm of bossa nova lies in its unique musicality, which combines the freedom of jazz, the rhythm of samba, and the sense of harmony of classical music. Furthermore, if we look at its history, it also reflects social backgrounds such as international cultural exchange during the Cold War, urbanization in Brazil, and interaction with the American music market.
+The charm of bossa nova lies in its unique musicality, which combines the freedom of jazz, the rhythm of samba, and the sense of harmony of classical music. Furthermore, if we look at its history, we can also see social backgrounds such as international cultural exchange during the Cold War, urbanization in Brazil, and interaction with the American music market.
 
-By following albums and discography, as well as learning about anecdotes from the time and the lives of artists, you will be able to understand bossa nova more deeply. The music itself resonates as a soothing ""healing" sound, but at the same time, it can also be enjoyed as a ""document" that reflects the spirit of the times. That is the true value of the cultural heritage that is Bossa Nova.
+By not only following albums and discography, but also learning about anecdotes from the time and the lives of artists, you will be able to understand bossa nova more deeply. The music itself resonates as a soothing ""healing" sound, but at the same time, it can also be enjoyed as a ""document" that reflects the spirit of the times. That is the true value of the cultural heritage that is Bossa Nova.
 
 ---
 

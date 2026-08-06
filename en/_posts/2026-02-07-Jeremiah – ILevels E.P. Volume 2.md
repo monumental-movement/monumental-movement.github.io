@@ -14,7 +14,7 @@ title: Jeremiah – I*LLevels E.P. Volume 2
 
 
 
-Jeremiah (Christian Mahringer) is an electronic music producer/DJ based in Vienna, Austria. In 1994, he founded the label Grow! Records with production duo Michael Peter (Duke) & Martin Retschitzegger (DJ Tin), and was active from the mid-1990s to the 2000s.
+Jeremiah (Christian Mahringer) is an electronic music producer/DJ based in Vienna, Austria. In 1994, he founded the label Grow! Records with the production duo Michael Peter (Duke) & Martin Retschitzegger (DJ Tin), and was active from the mid-1990s to the 2000s.
 
 "I Levels E.P. Volume 2" is a Deep House/Tech House track released on Grow! in 1996.
 

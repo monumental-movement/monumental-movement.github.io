@@ -14,7 +14,7 @@ title: Robbie Craig – 15 Candles
 
 "15 Candles / L.O.V.E. Feeling" is a UK garage track by East17 vocalist (2014-) Robbie Craig.
 
-Promo edition limited to 700 copies.
+700枚限定のプロモ盤。
 
 Side A is a remix by UK garage artist Laurence Bagnall and Stanton Warriors member and UK garage/house/bass music producer Mark Yardley.
 
@@ -25,7 +25,7 @@ A. 15 Candles (Lawrence Bagnall & M. Yardley Remix)
 AA. L.O.V.E. Feeling (Spread Luv Project Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m34773732505?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34773732505?afid=6142608987){: .button1}
 
 
 

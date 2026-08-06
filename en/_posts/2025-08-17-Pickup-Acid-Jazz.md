@@ -13,7 +13,7 @@ title: Pick up acid jazz pieces
 ---
 
 
-"A remarkable collection of acid jazz works that fuse jazz improvisation and club grooves to create a sophisticated urban sound."
+""A remarkable collection of acid jazz works that combine jazz improvisation and club grooves to create a sophisticated urban sound.''
 
 <hr>
 
@@ -22,7 +22,7 @@ title: Pick up acid jazz pieces
 
 Summary: The second concept album released in 1993 by Corduroy, a four-piece acid jazz band based in London. Published by Acid Jazz Records.
 
-Recommended points: The second song "London England" is called a dance floor classic of the 1990s, and it is highly regarded as their masterpiece, including other singles that entered the top 10 of the UK indie charts.
+Recommended points: The second song "London England" is considered a dance floor classic of the 1990s, and it is highly regarded as their masterpiece, including other singles that entered the top 10 of the UK indie charts.
 
 #### Tracklist
 ```md
@@ -56,7 +56,7 @@ Recommended points: The second song "London England" is called a dance floor cla
 
 Summary: A single by Raw Stylus, a British acid jazz band active in the 1990s, covering Bill Withers' 1972 soul/R&B song "Use Me." Released on the Acid Jazz label.
 
-Recommended points: Although "Use Me" is a cover of a famous song, its appeal is a fusion of respect for the original and an acid jazz-like interpretation, allowing you to enjoy a multi-layered sound that includes funk and soul.
+Recommended point: Although "Use Me" is a cover of a famous song, its appeal is a fusion of respect for the original and an acid jazz-like interpretation, allowing you to enjoy a multi-layered sound that includes funk and soul.
 
 #### Tracklist
 ```md

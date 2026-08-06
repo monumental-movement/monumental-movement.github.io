@@ -10,8 +10,8 @@ tags:
 - Healing
 - History
 title: '[Column] Religious music around the world and its psychological and social
-  effects - The history of music and prayer as explained through illustrations and
-  timelines -'
+  effects - The history of music and prayer explained through illustrations and timelines
+  -'
 ---
 
 
@@ -20,11 +20,11 @@ title: '[Column] Religious music around the world and its psychological and soci
 
 Text: mmr｜Theme: Comparing religious music from around the world from the perspectives of history, psychology, and physiological effects, and understanding it through illustrations
 
-Music is a universal element that supports religious rituals, prayers, and meditation.
+音楽は宗教の儀式・祈り・瞑想を支える普遍的な要素です。
 From ancient chants to modern healing music, sounds, rhythms, and voices have had a profound impact on the human mind and body.
 
 * Rhythm → **Adjust brain waves** (increase in alpha and theta waves)
-* Melody → **Evoking emotions** (relief, elation, tears)
+* 旋律 → **感情の喚起**（安心・高揚・涙）
 * Chorus → **Strengthening sense of community**
 
 ---
@@ -34,7 +34,7 @@ From ancient chants to modern healing music, sounds, rhythms, and voices have ha
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -43,14 +43,14 @@ color: #fff;
 </style>
 
 
-## Hindu music: the sound of the universe "Nada Brahma"
+## ヒンドゥー教音楽：宇宙の響き「ナーダ・ブラフマ」
 
 * **Main Forms**: Mantras, Bhajans, Ragas
 * **Main instruments**: sitar, tabla, harmonium
 * **Representative performers**: Ravi Shankar, Bismara Khan
-* **Psychological effect**:
+* **心理効果**：
 
-* Long chanting → **Induces meditative state**
+  * 長時間の詠唱 → **瞑想状態を誘導**
 * Repetitive rhythm → **Stress reduction**
 * Group chant → **Social harmony**
 
@@ -58,7 +58,7 @@ color: #fff;
 
 ---
 
-## Buddhist music: silence and overtone prayer
+## 仏教音楽：静寂と倍音の祈り
 
 * **Major formats**: Shomyo, Tibetan communiqué, sutra recitation
 * **Characteristics**: Overtone singing method, bell/conch
@@ -68,7 +68,7 @@ color: #fff;
 * Breathing and chanting are synchronized → **Stability of autonomic nervous system**
 
 
-| Effects | Physiological effects |
+| 効果 | 生理的作用 |
 |------|-------------|
 | Overtone chanting method | Regulate your breathing and stabilize your brain waves |
 | Conch shell/bell | Improving concentration |
@@ -78,13 +78,13 @@ color: #fff;
 
 ## Christian music: solemnity and resonance created by sound
 
-* **Major formats**: Gregorian chant, organ music, gospel
+* **Main formats**: Gregorian chant, organ music, gospel
 * **Iconic works**:
 
 * *Chant* (Benedictine Order)
 * Mahalia Jackson"Take My Hand, Precious Lord"
 
-* **Psychological effect**:
+* **心理効果**：
 
 * **Harmony stabilizes heart rate**
 * **Reverberations of the church space** strengthens the sense of relief
@@ -107,7 +107,7 @@ color: #fff;
 
 * **Format**: Cantor chant, synagogue melody
 * **Characteristics**: Intonation expression using modes
-* **Psychological effect**:
+* **心理効果**：
 
 * Awakens emotional memory **Increases prayer concentration**
 * Music prompts **reaffirmation of history and identity**
@@ -195,13 +195,13 @@ timeline
 
 ## Psychological effect matrix of each religious music
 
-| Religious music | Relaxation | Concentration | Emotional elevation | Social cohesion | Trance induction |
+| 宗教音楽   | リラクゼーション | 集中 | 感情高揚 | 社会的結束 | トランス誘導 |
 | ------ | -------- | -- | ---- | ----- | ------ |
 | Hinduism | ◎ | ◎ | ○ | ○ | ○ |
-| Buddhism | ◎ | ◎ | △ | ○ | △ |
+| 仏教     | ◎        | ◎  | △    | ○     | △      |
 | Christianity | ○ | △ | ◎ | ◎ | △ |
 | Islam | ○ | ◎ | ○ | ○ | ◎ |
-| Judaism | △ | ○ | ◎ | ○ | △ |
+| ユダヤ教   | △        | ○  | ◎    | ○     | △      |
 | African Religion | △ | ○ | ○ | ◎ | ◎ |
 
 (◎: Strong effect, ○: Moderate, △: Weak)
@@ -210,10 +210,10 @@ timeline
 
 ## Conclusion: Music is the language of prayer
 
-Religious music deeply moves the human spirit and brings about **harmony between body, mind, and society**.
+宗教音楽は人間の精神を深く動かし、**身体・心・社会の調和**をもたらす。
 From ancient mantras to modern ambient music, the underlying theme is a transcendental experience through sound.
 
-Even if religions change, the power of sound points in the same direction.
+Even if religions change, the power of sound remains in the same direction.
 It is the **universal rhythm of prayer**.
 
 ---

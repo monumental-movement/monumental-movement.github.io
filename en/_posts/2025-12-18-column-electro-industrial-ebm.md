@@ -19,7 +19,7 @@ title: '[Column] Electro-Industrial / EBM'
 
 Text: mmr｜Theme: Electro-Industrial/About the formation, structure, and expansion of EBM
 
-Electro-Industrial and EBM (Electronic Body Music) are trends in electronic music that were formed from the late 1970s to the 1980s, and are characterized by their combination of the experimental spirit of industrial music with repetitive physical movements on the dance floor. This genre is not just a musical style, but has emerged as a comprehensive system of expression that reflects changes in production methods, sound design, performance forms, and even changes in urban culture and the technological environment.
+Electro-Industrial and EBM (Electronic Body Music) are trends in electronic music that formed from the late 1970s to the 1980s, and are characterized by their combination of the experimental spirit of industrial music with the repetitive physical movements of the dance floor. This genre is not just a musical style, but a comprehensive system of expression that reflects changes in production methods, sound design, and performance forms, as well as changes in urban culture and the technological environment.
 
 EBM did not emerge from a single country or city in a unidirectional manner. It was formed through the intersection of post-punk, industrial, electronic music technology, and club culture in multiple regions, mainly Belgium, England, and Germany. Front 242 and Nitzer Ebb are representative examples of structural and aesthetic formulations in this process.
 
@@ -67,9 +67,9 @@ What these regions have in common is an industrialized urban environment and the
 
 ## 4. Detailed analysis of rhythm structure
 
-The rhythm structure of EBM is based on 4/4 time and is characterized by a clear and linear arrangement. The kick drum strongly indicates each beat, and the snare and claps function as part of the structure rather than decoration.
+The rhythmic structure of EBM is based on 4/4 time and is characterized by a clear and linear arrangement. The kick drum strongly indicates each beat, and the snare and claps function as part of the structure rather than decoration.
 
-The swing feel seen in funk and disco has been intentionally avoided, and an arrangement has been chosen that minimizes temporal fluctuations. This allows the rhythm to act on the body more as a pressure than a groove.
+The swing feel found in funk and disco has been intentionally avoided, and an arrangement has been chosen that minimizes temporal fluctuations. This causes the rhythm to act on the body more as a pressure than a groove.
 
 <div class="mermaid">
 flowchart LR
@@ -107,7 +107,7 @@ As exemplified by Nitzer Ebb, vocals are placed as part of the rhythm and play a
 
 ## 8. Equipment configuration and production environment
 
-Drum machines, analog synthesizers, and hardware sequencers played central roles in early EBM. These were selected with emphasis on reproducibility not only for studio production but also for live performances.
+Drum machines, analog synthesizers, and hardware sequencers played central roles in early EBM. These were selected with an emphasis on reproducibility not only for studio production but also for live performances.
 
 The production process often proceeds in stages: timbre design, pattern construction, and iterative verification.
 

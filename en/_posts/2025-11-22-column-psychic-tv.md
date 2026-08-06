@@ -19,10 +19,10 @@ title: '[Column] Psychic TV: The complete history of a multimedia group that cro
 ## 1. Introduction
 
 
-Text: mmr｜Theme: History, philosophy, musicality, live activities, rituals, and influence on future generations of Psychic TV from its formation to its demise
+Text: mmr | Theme: Psychic TV's history, philosophy, musicality, live activities, rituals, and influence on future generations from its formation to its demise
 
 
-Formed in England in 1981, Psychic TV is more than just a music band; it is a comprehensive artistic collective that integrates music, video, performance, and occultism. Built around Genesis Breyer P-Orridge"s ideas and vision, Psychic TV"s efforts remained at the forefront of counterculture from the 1980s to the 2000s, fusing industrial music, psychedelics, acid house, performance art, and ritual culture.
+Formed in the UK in 1981, Psychic TV is more than just a music band; it is a comprehensive art collective that integrates music, video, performance, and occultism. Built around Genesis Breyer P-Orridge"s ideas and vision, Psychic TV"s efforts remained at the forefront of counterculture from the 1980s to the 2000s, fusing industrial music, psychedelics, acid house, performance art, and ritual culture.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -52,9 +52,9 @@ Through his work with COUM Transmissions, Genesis developed a strong interest in
 
 #### 2.2 Throbbing Gristle disbandment and Psychic TV formation
 
-Throbbing Gristle was formed in 1976 and shocked the music world in the late 1970s with their noise, industrial music, and guerilla-style live performances. However, in 1981, the group disbanded. Shortly after, Genesis began a new musical and artistic project with Peter Christopherson and Alex Fergusson. That's Psychic TV.
+Formed in 1976, Throbbing Gristle shocked the music world in the late 1970s with their noise, industrial music, and guerilla-style live performances. However, in 1981, the group disbanded. Shortly thereafter, Genesis began a new musical and artistic project with Peter Christopherson and Alex Fergusson. That's Psychic TV.
 
-Psychic TV was designed not just as a music band, but as a ""multimedia collective'' that integrates music, video, performance, and occultism, and from the beginning had a structure that emphasized experimentation and provocation.
+Psychic TV は単なる音楽バンドではなく、音楽、映像、パフォーマンス、オカルティズムを統合する「マルチメディア・コレクティブ」として設計され、当初から実験性と挑発性を前面に押し出す構造を持っていた。
 
 ---
 
@@ -80,11 +80,11 @@ In 1981, **Thee Temple ov Psychick Youth (T.O.P.Y.)** was founded in parallel wi
 
 #### 4.1 Monthly live album planning
 
-In 1986, Psychic TV began an ambitious project to release a monthly live album. Eventually, 17 albums were released, and the band demonstrated quantitative innovation in their musical endeavors. This mass release strengthened the band's relationship with the fan community, and influenced later electronic and experimental music scenes.
+In 1986, Psychic TV began an ambitious project to release a monthly live album. Eventually, 17 albums were released, and the band demonstrated quantitative innovation in their musical endeavors. This mass release strengthened the band's relationship with the fan community, and influenced the electronic and experimental music scenes that followed.
 
 #### 4.2 Transformation of musical styles
 
-During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live shows and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
+During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live performances and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
 
 #### 4.3 Magic, Chaos Magic, and Deepening Thought
 
@@ -120,7 +120,7 @@ Later albums included ""Hell Is Invisible...Heaven Is Her/e", ""Mr. Alien Brain 
 
 #### 6.3 Final Year and Death of Genesis
 
-In 2017, Genesis announced that he had chronic myeloid leukemia and subsequently curtailed his touring activities. He passed away on March 14, 2020 at the age of 70, marking the end of Psychic TV's activities.
+In 2017, Genesis announced that he had chronic myeloid leukemia and subsequently curtailed touring. On March 14, 2020, he passed away at the age of 70, marking the end of Psychic TV's activities.
 
 ---
 
@@ -168,7 +168,7 @@ graph LR
 
 ### 10. Conclusion
 
-Psychic TV was a comprehensive movement that crossed music, ritual, and ideology. Their work goes beyond just music, exploring magic, images, the body, spirituality, and community. Genesis P‑Orridge's vision disrupts genre boundaries and anticipates future forms of expression, and his influence remains deeply etched in contemporary experimental music and counterculture.
+Psychic TV was a comprehensive movement that crossed music, ritual, and ideology. Their work goes beyond just music and explores magic, images, the body, spirituality, and community. Genesis P‑Orridge's vision disrupts genre boundaries and anticipates future forms of expression, and his influence remains deeply etched in contemporary experimental music and counterculture.
 
 ---
 

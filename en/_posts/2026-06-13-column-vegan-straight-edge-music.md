@@ -78,7 +78,7 @@ Are "rebelling" and "destructing yourself" really the same thing?
 
 This question led to later straight edge thinking.
 
-### The advent of hardcore punk
+### The emergence of hardcore punk
 
 From the late 1970s to the early 1980s, punk evolved into more extreme forms.
 
@@ -126,7 +126,7 @@ Straight Edge was not a political party or a religion.
 
 It was not a theory created by someone, but a culture that grew from the empathy of young people.
 
-> Straight edge was not an engineered ideology, but a culture expanded by resonance.
+> Straight edge was not an engineered idea, but a culture expanded by resonance.
 
 ---
 
@@ -156,7 +156,7 @@ Straight edge has become less of a music genre and more of a lifestyle.
 
 It was both a philosophy of self-control and a critique of society.
 
-> Straight Edge has transcended the genre of music and has been redefined as a lifestyle ethic.
+> Straight Edge has transcended a music genre and has been redefined as a lifestyle ethic.
 
 ---
 
@@ -186,7 +186,7 @@ In addition to abstinence from alcohol and drugs, veganism became an important f
 
 ---
 
-## Historical background of vegetarian music
+## Musical historical background of vegetarianism
 
 Veganism and vegetarianism didn't start out as hardcore.
 
@@ -206,9 +206,9 @@ One of the most famous vegetarians in the world of pop music is Paul McCartney.
 
 He has been advocating for animal welfare for many years.
 
-Their activities have had an impact not only on music fans but also on society in general.
+Their activities had an impact not only on music fans but also on society in general.
 
-This is a prime example of how music and ethical messages are naturally linked.
+This is a prime example of the natural connection between music and an ethical message.
 
 ---
 
@@ -298,7 +298,7 @@ Keiji Haino presented a third physicality that is neither abstinence nor pleasur
 
 Throbbing Gristle founded industrial music in England in the late 1970s.
 
-They expressed the violent nature of society and the controlled society through sound.
+They expressed the violence and controlled society of society through sound.
 
 Noise was not entertainment but a tool for social criticism.
 
@@ -352,7 +352,7 @@ H --> E
 
 ## Conclusion
 
-Straight edge and veganism aren't just peripheral cultures of music.
+Straight edge and veganism aren't just fringe cultures around music.
 
 These were practices that connected music and life.
 

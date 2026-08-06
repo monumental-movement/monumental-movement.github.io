@@ -23,7 +23,7 @@ Text: mmr | Theme: Tracing how music born on the streets of cities shaped world 
 
 Street music refers to a musical culture that was born and developed not in commercial facilities or theaters, but in public spaces such as streets, plazas, markets, and subway stations.
 
-Here, community is valued over institutions, improvisation is valued over musical scores, and the physicality of the field is valued over authority.
+Here, community is valued over institutions, improvisation is valued over musical scores, and the physicality of the scene is valued over authority.
 
 * Performance/expression in public spaces
 * A communal and autonomous production environment
@@ -54,7 +54,7 @@ color: #fff;
 ### 1. Late 19th century: urbanization and street entertainment
 
 Rapid urbanization progressed in the late 19th century
-In New Orleans, brass bands, funeral music, and the original blues mingled on the streets. The black community's celebrations and parades had a decisive influence on the later formation of jazz.
+In New Orleans, brass bands, funeral music, and the original blues mingled in the streets. The black community's celebrations and parades had a decisive influence on the later formation of jazz.
 
 of the same period
 In Rio de Janeiro, freed slave and immigrant cultures intersect, and the prototype of samba begins to take shape in the alleys around the favelas.
@@ -74,7 +74,7 @@ In the Caribbean, Trinidad's calypso spread as street songs containing political
 
 Sound system culture is born in Kingston, Jamaica.
 Coxsone Dodd
-The mobile speaker culture led by Duke Reid directly linked outdoor dance and the recording industry.
+The mobile speaker culture led by Duke Reid directly connected outdoor dance and the recording industry.
 
 Eventually, ska passed through rock steady and reggae was established.
 Bob Marley rose from the streets to international icon.
@@ -87,7 +87,7 @@ August 11, 1973
 Held in the Bronx, New York City
 DJ Kool Herc's parties are considered the starting point of hip-hop.
 
-Block parties, turntables, MC, breakdance, graffiti. All of this was a comprehensive culture born out of public space.
+Block parties, turntables, MC, breakdance, graffiti. All of these were integrated cultures born out of public space.
 
 Eventually
 As Grandmaster Flash and others advanced the technology, rap became a language of social criticism.
@@ -99,7 +99,7 @@ Paris,
 Tokyo,
 Spread to Johannesburg.
 
-In France, second-generation immigrants spoke about suburban issues through rap, and in Japan, a unique culture was formed that linked clubbing and street fashion.
+In France, second-generation immigrants talked about suburban issues through rap, and in Japan, a unique culture combining clubbing and street fashion was formed.
 
 In Brazil, funk carioca was born from the favelas, and in South Africa, kwaito symbolized post-apartheid youth culture.
 
@@ -154,7 +154,7 @@ Street music is more than just entertainment.
 * Medium of political resistance
 * Formation of urban identity
 * Fusion of fashion, dance, and art
-* Formation of a global cultural network
+* Forming a global cultural network
 
 Hip-hop has been discussed at the United Nations, and reggae has been registered as a UNESCO Intangible Cultural Heritage. However, its starting point is always in public space.
 
@@ -189,7 +189,7 @@ Not necessarily. Many genres maintain ties to their communities even after comme
 
 ### Does street music still exist today?
 
-exist. From performers on the subway to buskers streaming online, this continues in various forms.
+exist. From subway performers to online-streamed buskers, this continues in various forms.
 
 > Street music is not a legacy of the past, but an ongoing culture.
 

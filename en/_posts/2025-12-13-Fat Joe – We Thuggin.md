@@ -14,7 +14,7 @@ title: Fat Joe – We Thuggin'
 
 A's "We Thuggin'" is a Hip Hop track released by Atlantic in 2001 featuring R. Kelly. The producer is Ron G.
 
-B's "My Lifestyle" is a Hip Hop track produced by D.I.T.C. member and Hip Hop producer/DJ Buckwild (Anthony Best).
+Bの「My Lifestyle 」は、D.I.T.C.のメンバーでありHip Hop プロデューサー／ DJのBuckwild(Anthony Best)がプロデュースしたHip Hopトラック。
 
 #### Tracklist
 ```md

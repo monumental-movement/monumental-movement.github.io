@@ -13,7 +13,7 @@ title: '[Column] Hyperpop / Digicore'
 
 
 
-## Hyperpop/Digicore: The complete picture of the next generation of internet music
+## Hyperpop/Digicore: The complete picture of the next generation of Internet music
 
 Text: mmr｜Theme: Comprehensive analysis of sound, production, and culture originating from the next generation of the Internet
 
@@ -133,7 +133,7 @@ flowchart TD
 
 ## 4-3. 100 gecs structure (overcrowded genre)
 
-* Mix of ska, metal, trap, and EDM in one song
+* A mix of ska, metal, trap, and EDM in one song
 * BPM changes, rapid developments
 
 ---
@@ -252,7 +252,7 @@ graph TD
 
 # 10. Summary
 
-Hyperpop and Digicore are trends that were born out of the democratization of music production tools and the maturation of Internet culture. The ease of production, remix culture, social media spread, and the experimental spirit of young creators combined to dismantle the traditional genre structure and present a new form of pop.
+Hyperpop and Digicore are trends that were born out of the democratization of music production tools and the maturation of Internet culture. The simplicity of production, remix culture, social media spread, and the experimental spirit of young creators combined to dismantle the traditional genre structure and present a new form of pop.
 
 In the future, it is likely to be further segmented and expanded due to advances in AI vocals, generated sound sources, real-time collaboration, etc.
 

@@ -20,7 +20,7 @@ title: '[Column] Madvillain "Madvillainy" ─ 21st century hip-hop myth woven fr
 Text: mmr｜Theme: A study of "Madvillainy" (https://amzn.to/3JhySfH), a "labyrinth of sound" that reconstructs the hip-hop form itself after deconstructing it.
 
 In the spring of 2004, an album released by a small label in Los Angeles, **Stones Throw Records**, quietly overturned the conventional wisdom of hip-hop.
-**Madvillain [""Madvillainy"'](https://amzn.to/3JhySfH)** ---It"s a rap album, a poetry collection, and a sound collage through radio waves. **
+**Madvillain [""Madvillainy''](https://amzn.to/3JhySfH)** ---It is a rap album, a poetry collection, and a sound collage transmitted through radio waves. **
 
 At the beginning of the 21st century, American hip-hop was moving toward the extravagant "brand culture" symbolized by Jay-Z and 50 Cent. On the flip side, this album is about anonymity and the poetics of fragments, and it has deep roots in the world's underground.
 What captivates the listener is not the degree of perfection, but rather the ""unfinished beauty''.
@@ -49,16 +49,16 @@ color: #fff;
 Madlib (real name Otis Jackson Jr.) is a "sampler poet" who alchemizes musical chaos.
 His beats are not based on a systematic rhythm, but instead are dominated by an ""aesthetics of chance''. Old records, library sound archives, anime sound effects - all of these can be used as materials.
 
-Especially in this work, **SP-303 Dr. Sample** holds the key. Although it is cheaper and more lo-fi equipment than a typical MPC, Madlib actively retains its rough texture**. By shifting the pitch of the sampling and making the loop subtly waver, they achieved an "unstableness that cannot be reproduced in a live performance."
+Especially in this work, **SP-303 Dr. Sample** holds the key. Although it is cheaper and more lo-fi equipment than a typical MPC, Madlib actively retains its rough texture**. By shifting the pitch of the sampling and subtly shaking the loop, they achieved an "unstableness that cannot be reproduced in a live performance."
 
 ### MF DOOM: The Masked Poet
 MF DOOM (real name Daniel Dumile) was born out of tragedy.
-In the early 1990s, when he debuted as KMD, he lost his younger brother Subroc in an accident, and his contract with the label was canceled.
+In the early 1990s, when he debuted as KMD, he lost his younger brother Subroc in an accident, and his contract with the label was cancelled.
 He remained silent for several years and returned wearing a metal mask. **
 
 DOOM made the mask a symbol of "creation" rather than "escape."
 His lyrics are full of complex meter, internal rhyme, and metaphor, and are a mix of literary structure and street style.
-For example, in "Figaro," the chain of vowels and the rhythm of consonants sound like an instrument. He was a rapper who manipulated words not as "meanings" but as "sounds."
+たとえば「Figaro」では、母音の連鎖と子音のリズムがまるで楽器のように鳴る。彼は言葉を“意味”でなく“音”として操るラッパーだった。
 
 ---
 
@@ -78,24 +78,24 @@ Peanut Butter Wolf, head of Stones Throw at the time, said, ""Recording was more
 The 22 songs on "Madvillainy" (https://amzn.to/3JhySfH) are structured like one long "montage film."
 The acoustic characteristics can be summarized into the following three points.
 
-1. **Time Disconnect**: The song is short and ends abruptly. The transitions are intentionally rough.
+1. **Time Cut**: The song is short and ends abruptly. The transitions are intentionally rough.
 2. **Spatial Compression**: Minimize reverb and spatial processing to bring the distance between samples close to zero.
-3. **Frequency distortion**: Creates a **VHS-like sound** where the high frequencies are removed by making extensive use of SP-303 effects.
+3. **Frequency distortion**: Creates a **VHS-like sound** where the high frequencies are removed by using many SP-303 effects.
 
-This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as ""components" rather than ""materials," he transformed hip-hop into an archeology of sound.
+This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as "component elements" rather than "materials," he transformed hip-hop into an archeology of sound.
 
 ---
 
 ## Chapter 4: Analysis by track (selection)
 
 ### Accordion
-The first thing you hear is an ominous loop of an accordion riff.
+最初に聴こえるのは、アコーディオンのリフが不穏に鳴り響くループ。  
 The beat seems monotonous and slightly off. DOOM's voice comes in to complement the "distortion", showing that **beat and rap have a complementary relationship**.
 ""Rather than controlling the rhythm, it floats'' - this attitude runs through the entire album.
 
 ### Meat Grinder
-The bass line creaks like metal, and the sound of breathing as it approaches the microphone is recorded.
-Madlib's sampling **deliberately removes pitch correction** makes the listener aware of the ""boundary between discomfort and pleasure.''
+ベースラインが金属のように軋み、マイクに近づく呼吸音が録音されている。  
+Madlibのサンプリングは、**ピッチ補正をあえて外す**ことで、聴く者に「不快と快楽の境界」を意識させる。
 
 ### Figaro
 DOOM's cadence in this song can be analyzed as a poetic structure.
@@ -130,7 +130,7 @@ There is a paradox here that ""villain = person who has the freedom to speak''**
 [Madvillainy](https://amzn.to/3JhySfH), which was not a commercial success upon its release in 2004, received a cult following among critics.
 Pitchfork called it "the pinnacle of non-linear editing in hip-hop," and The Wire called it "a 21st century version of The Velvet Underground & Nico."
 
-Importantly, this album functions as ""proto-internet music.''
+Importantly, this album functions as ""proto-Internet music.''
 Before YouTube or SoundCloud, there was already a methodology for re-editing pieces of information to create new meaning.
 In other words, ""Madvillainy'' is the original text of the post-net era.
 
@@ -146,7 +146,7 @@ Madlib, J Dilla, Aloe Blacc and others appeared on the label, building a bridge 
 
 ---
 
-## Chapter 8: Impact and Legacy
+## 第八章：影響と遺産
 
 - Flying Lotus: A fusion of jazz and beat science.
 - Earl Sweatshirt: Fragmented introspective rap borrowed from DOOM.
@@ -209,9 +209,9 @@ flowchart TD
 
 ## Conclusion: Eternity in Fragments
 
-["Madvillainy"](https://amzn.to/3JhySfH) is a "sound labyrinth" that dismantles the hip-hop form itself and then reconstructs it.
-There is no ""completion" or ""end."
-Sampled sounds regain meaning even as they lose their origins.
+["Madvillainy"](https://amzn.to/3JhySfH) is a "labyrinth of sound" that dismantles the hip-hop form itself and then reconstructs it.
+There is no "completion" or "end."
+サンプリングされた音は、出自を失いながらも再び意味を獲得する。
 The mask left behind by DOOM still shines in underground studios around the world.
 
 > "It ain"t nuttin" like the villain."
@@ -221,7 +221,7 @@ The mask left behind by DOOM still shines in underground studios around the worl
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gXOkqpWhsD0?si=WEZRPKJsazCLjDDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -65,10 +65,10 @@ When discussing Frost's acoustic philosophy, one cannot ignore the perspective o
 He uses sub-bass and distortion to precisely design sonic violence.
 
 Through collaboration with Hildur Guðnadóttir, Tim Hecker and others,
-We explored how sound crosses the boundary between "pain" and "pleasure."
+I explored how sound crosses the boundary between "pain" and "pleasure."
 
 In his works, the listener's body becomes a "resonator".
-Listen not with your ears, but with your abdominal cavity, skin, and bones.
+The abdominal cavity, skin, and bones listen, not the ears.
 Sound surrounds the listener like air pressure that fills a space.
 
 It's more of a **ritual** than music.
@@ -114,7 +114,7 @@ It evokes the "memory of silence" that humans have lost in civilization.
 
 ## Explosion of light: A U R O R A and the criticality of sound
 
-**A U R O R A**, released in 2014, was a watershed moment in Ben Frost's career.
+Released in 2014, **A U R O R A** was a watershed moment in Ben Frost's career.
 With this work, he abandoned his previous "acoustic + electronic sound" approach,
 **I built a world almost entirely with electronic sound particles**.
 

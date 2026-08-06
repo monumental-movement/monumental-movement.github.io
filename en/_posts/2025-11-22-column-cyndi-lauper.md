@@ -41,13 +41,13 @@ color: #fff;
 
 # **2. Childhood and family background: A girl with an "unusual voice" born in Queens**
 
-Cyndi Lauper was born in Queens, New York in 1953. Her mother is an Italian-American woman who loves art and theater. There was a rift with his father, and the family environment was not peaceful. I grew up in what is called a "complicated family."
+シンディ・ローパーは1953年、ニューヨーク州クイーンズで生まれました。母親はイタリア系アメリカ人で、芸術や演劇が大好きな女性。父親とは不和があり、家庭環境は穏やかとは言えませんでした。いわゆる“複雑な家庭”で育ったわけです。
 
-When Cindy was young, she was the kind of kid who would sing just about anything. He sang next to his mother in the kitchen and even in the backyard of the house, and may have been a little noisy to his siblings. However, the singing voice was different from normal. It"s tall, stretchy, looks like it"s going to make you cry, and yet it's strong. I was even told by a teacher at school, ""You should tone down that strange voice a little.''
+When Cindy was young, she was a child who would sing anything. He sang next to his mother in the kitchen and even in the backyard of the house, and may have been a little noisy to his siblings. However, the singing voice was different from normal. It"s tall, stretchy, looks like it"s going to make you cry, and yet it's strong. I was even told by a teacher at school, ""You should tone down that strange voice a little.''
 
 Nowadays, her voice is a worldwide trademark, but as a child, Cindy lacked confidence in her own voice, and there was a time when she worried that everyone thought my voice was strange.
 
-However, her mother loved the voice very much. Because even in the midst of difficult family situations, Cindy's singing voice brought brightness into the home.
+However, her mother loved the voice very much. This is because even in the midst of difficult family situations, Cindy's singing voice brought brightness into the home.
 
 ---
 
@@ -94,7 +94,7 @@ Cindy cried. But he didn't give up. She reevaluated her vocal technique from scr
 
 Around 1981-82, Cindy begins singing in nightclubs. Here, her overwhelming singing voice once again attracted attention and caught the attention of those in the industry. Her life takes a turn when she meets David Wolfe, who later becomes her manager.
 
-At the time, the music industry tended to judge female artists, especially those with too much individuality, as ""difficult." However, Cindy's ""difficulty" was what made her attractive.
+At the time, the music industry tended to judge female artists, especially those with too much individuality, as ""difficult." However, Cindy's charm lies in her ""difficulty".
 
 In 1983, I finally got a contract for my solo debut.
 This is where Cyndi Lauper's "world domination" begins.
@@ -117,7 +117,7 @@ With the rise of MTV, we entered an era in which images influenced music, and Ci
 
 ### **Girls Just Want to Have Fun**
 
-Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjoy themselves, but it was actually originally written from a male perspective. Cindy changed the lyrics and nuance, and it became a symbol of women's freedom.
+Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjoy themselves, but it was originally written from a male perspective. Cindy changed the lyrics and nuance, and it became a symbol of women's freedom.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIb6AZdTr-A?si=tt7rzky2_Q3m9hRl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -149,9 +149,9 @@ There are three reasons.
 2. **The warmth of her personality**
 3. **Special affinity for Japan**
 
-Every time she visits Japan, she enjoys Japanese food and quickly becomes friends with the local staff. During the 1994 Japan tour, when he heard that there was a fan with a disability in the audience, he took time after the stage to meet him in person.
+She enjoys Japanese food every time she visits Japan and quickly becomes friends with the local staff. During the 1994 Japan tour, when he heard that there was a fan with a disability in the audience, he took time after the stage to meet him in person.
 
-In addition, their 2001 album ""Shine" was released only in Japan. This is said to have been a way of ""returning the favor to Japanese fans."
+In addition, the 2001 album ""Shine" was released only in Japan. This is said to have been a way of ""giving back to the Japanese fans."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61cwXn85sxk?si=NMR2yKfbhBEPlTIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -174,7 +174,7 @@ Quincy Jones: "Cindy, can you...take that?"
 
 Cindy burst out laughing and said, "Oh, sorry!" as she removed her accessories, and it is said that the atmosphere instantly relaxed.
 
-This incident has been passed down as an episode that symbolizes Cindy's "ability to turn tension into laughter."
+This incident has been passed down as an episode that symbolizes Cindy's "power to turn tension into laughter."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HpReqNFVL-0?si=fIa219LH-KniM82d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -182,7 +182,7 @@ This incident has been passed down as an episode that symbolizes Cindy's "abilit
 
 # **10. Late 80s to 90s: From pop star to artist**
 
-From the late '80s to the '90s, Cindy was torn between commercial success and a desire for artistic expression.
+From the late '80s to the '90s, Cindy oscillated between commercial success and a desire for artistic expression.
 
 ### **Hat Full of Stars (1993)**
 
@@ -259,11 +259,11 @@ flowchart TD
 **1993** "Hat Full of Stars"
 **2000s** Cross genres such as blues/dance
 **2013** Won Tony Award for "Kinky Boots"
-**2020s** Farewell tour announcement
+**2020s**　フェアウェルツアー発表
 
 ---
 
-# **17. Summary: Cyndi Lauper's "Freedom"**
+# **17. まとめ：シンディ・ローパーの“自由という生き方”**
 
 The reason why Cyndi Lauper has been loved for over 40 years is...
 Because she is the embodiment of freedom.

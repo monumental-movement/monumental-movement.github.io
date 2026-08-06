@@ -21,9 +21,9 @@ title: '[Column] Didgeridoo music and Australian indigenous culture'
 Text: mmr｜Theme: A multi-layered cultural history of didgeridoo music, which is rooted in indigenous societies in northern Australia, from regional differences, linguistic differences, and tribal examples.
 
 
-The didgeridoo is a traditional wind instrument that has been used by Australia's Aboriginal communities, mainly from the northern coast to the interior. Generally, the material is made from a eucalyptus tree trunk that has been hollowed out by termites, and the opening on one side is coated with beeswax to adjust the mouthfeel. Although the structure is extremely simple, the sounds emitted are not limited to monophonic drones, but have complex acoustic layers that combine overtones, rhythm, and vocalizations.
+The didgeridoo is a traditional wind instrument that has been used by Aboriginal communities in Australia, mainly from the northern coast to the interior. Generally, the material is made from the trunk of a eucalyptus tree that has been hollowed out by termites, and the opening on one side is coated with beeswax to adjust the texture. Although the structure is extremely simple, the sound emitted is not just a single note drone, but has complex acoustic layers that combine overtones, rhythm, and vocalizations.
 
-The name ""didgeridoo'' that is common today does not originate from an indigenous language, but is an onomatopoeic name coined by English speakers in the early 20th century. In indigenous societies, musical instruments are named in connection with land and language, and different names reflect differences in culture.
+The name ""didgeridoo'' that is common today does not originate from indigenous languages, but was created by English speakers in the early 20th century as an onomatopoeic term. In indigenous societies, musical instruments are named in connection with land and language, and different names reflect differences in culture.
 
 > The didgeridoo is not a single musical instrument, but a collection of cultural practices that vary by region.
 
@@ -87,7 +87,7 @@ A yidaki performer is not just a musician; he or she must be a knowledgeable per
 
 In the Bininji groups of western Arnhem Land, the didgeridoo has a more rhythmic role. Onomatopoeic playing techniques using tongue clicks and voices have developed, and sound patterns reminiscent of animals and natural phenomena are often used.
 
-Making musical instruments is also an important area of ​​knowledge here, and the type of wood chosen and the direction in which it is cut has ritual significance. In many cases, production and performance are not separated.
+Making musical instruments is also an important area of ​​knowledge here, and the type of wood chosen and the direction in which it is cut has ritual significance. Production and performance are often not separated.
 
 > Instrument making itself is part of a cultural practice.
 
@@ -97,9 +97,9 @@ Making musical instruments is also an important area of ​​knowledge here, an
 
 In many regions, the didgeridoo has been considered a male instrument, but this is based on ritual rather than biological distinctions. Women were responsible for other singing and percussion elements, and there was a division of roles in the music as a whole.
 
-There were also age restrictions, and performances with specific song series were not allowed unless certain rites of coming of age were passed. As a result, music naturally became a device for intergenerational education.
+There were also restrictions on age, and performances with specific song series were not allowed unless certain rites of coming of age were passed. As a result, music naturally became a device for intergenerational education.
 
->Performance qualification was not an exclusion system, but a system that indicated the location of responsibility.
+>Performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
 
 ---
 
@@ -107,7 +107,7 @@ There were also age restrictions, and performances with specific song series wer
 
 Circular breathing is a widely shared technique, but its use varies by region. In the east, the stability of sustained sounds is emphasized, while in the west, intermittent rhythmic changes are prominent.
 
-Additionally, there are regional differences in the techniques used to make simultaneous voices, such as adding a low growl or emphasizing tongue sounds. These are not improvised, but are stylized for each song series.
+There are also regional differences in the techniques used to make simultaneous voices, such as adding a low growl or emphasizing tongue sounds. These songs are not improvised, but are stylized for each song series.
 
 > The difference in technique is not the improvisational nature, but the difference in the tradition system.
 
@@ -117,7 +117,7 @@ Additionally, there are regional differences in the techniques used to make simu
 
 Colonization from the 19th century onwards caused a severe break in didgeridoo culture. Due to land loss and forced migration, many areas have lost their ceremonial sites.
 
-In the 20th century, as ethnographers and missionaries began recording more and more, the didgeridoo began to be treated as a ""culture that should be preserved.'' In this process, regional differences were abstracted away and a single image was formed.
+In the 20th century, as ethnographers and missionaries began to record more and more records, the didgeridoo began to be treated as a ""culture that should be preserved.'' In this process, regional differences were abstracted away and a single image was formed.
 
 > In some ways, homogenization has progressed in the name of preservation.
 
@@ -169,9 +169,9 @@ flowchart LR
 
 ## Comparison between tribes in the same song series
 
-Even if the song series originates from the same ancestral being or mythical event, the practices vary greatly from tribe to tribe. A song series is not a fixed ""song,'' but is understood as a framework that varies depending on location, language, and blood relations.
+Even if the song series originates from the same ancestral being or mythical event, the practices vary greatly from tribe to tribe. A song series is not a fixed ""song,'' but is understood as a framework that varies depending on location, language, and kinship.
 
-For example, songs on the Arnhem Land coast and inland areas differ in tempo, rhythmic density, and didgeridoo sound patterns, even though songs refer to the same ancestral being. Coastal areas emphasize smooth drones that evoke the tides and waterfowl, while inland areas emphasize intermittent rhythms associated with footfall and hunting movements.
+For example, songs that refer to the same ancestral entity differ in tempo, rhythmic density, and didgeridoo sound pattern between coastal Arnhem Land and inland areas. Coastal areas emphasize smooth drones that evoke the tides and waterfowl, while inland areas emphasize intermittent rhythms associated with footfall and hunting movements.
 
 These differences are not ""misinterpretations'' but are legitimate forms of inheritance in each land. The same song series has a structure that includes multiple correct answers.
 
@@ -183,7 +183,7 @@ These differences are not ""misinterpretations'' but are legitimate forms of inh
 
 It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo changes its role.
 
-In parts of East Arnhem Land, the didgeridoo functions as a stable support that keeps the pitch as low as possible and matches the rhythm of the lyrics. In contrast, in the West, the didgeridoo provides rhythmic cues and guides the dancers' movements.
+In parts of East Arnhem Land, the didgeridoo functions as a steady support that keeps the pitch as low as possible, matching the rhythm of the lyrics. In contrast, in the West, the didgeridoo provides rhythmic cues and guides the dancers' movements.
 
 > The importance of an instrument is not absolute, but relative within the structure.
 
@@ -191,9 +191,9 @@ In parts of East Arnhem Land, the didgeridoo functions as a stable support that 
 
 ## Musical representation seen in rock paintings
 
-Rock art throughout northern Australia depicts human figures holding long, tubular instruments, as well as hunting and ceremonial scenes. These have been interpreted to refer to the didgeridoo or its predecessor.
+Rock art throughout northern Australia depicts human figures holding long, tubular musical instruments, as well as hunting and ceremonial scenes. These have been interpreted to refer to the didgeridoo or its predecessor.
 
-The depiction of musical instruments in rock art is more a symbol of ritual action than a realistic record. The body decorations and placement of the figures suggest that music was performed as a collective practice.
+The depiction of musical instruments in rock art is more a symbol of ritual action than a realistic record. The body decorations and arrangement of the figures suggest that music was performed as a collective practice.
 
 However, rock art is difficult to date, and cannot be used alone as evidence to determine history. It only gains meaning when compared with oral traditions and ethnographic materials.
 

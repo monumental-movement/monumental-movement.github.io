@@ -19,7 +19,7 @@ title: '[Column] Modern Soul / Contemporary Funk'
 
 Text: mmr｜Theme: Rhythm, performance, and production aesthetics that redefine soul and funk in the 21st century
 
-Modern Soul and Contemporary Funk refer to styles that evolved into a modern sound image from the late 1990s to the 2010s, incorporating elements of jazz, hip-hop, R&B, neo-soul, and beat music while inheriting the soul/funk tradition.
+Modern Soul（モダンソウル）および Contemporary Funk（コンテンポラリーファンク）は、1990年代後半から2010年代以降にかけて、ソウル／ファンクの伝統を継承しながら、ジャズ、ヒップホップ、R&B、ネオソウル、ビートミュージックの要素を取り込み、現代的な音像へと進化したスタイルを指す。
 
 Representative artists include **Hiatus Kaiyote**, **Anderson .Paak**, as well as D"Angelo, Robert Glasper, Thundercat, Vulfpeck, Cory Henry, The Internet, and more.
 
@@ -43,17 +43,17 @@ color: #fff;
 
 ## 1. Definition and background
 
-### 1-1. What is Modern Soul?
+### 1-1. Modern Soul とは
 
 Modern Soul is a musical style based on the soul/R&B tradition that incorporates contemporary sound design, non-cyclic chord progressions, and strong influences from beat music culture.
 It is positioned as an evolution of neo-soul since the 2000s.
 
-Features
+特徴
 
-* Smooth texture, coexistence of electronic and acoustic
+* なめらかなテクスチャ、エレクトロニックとアコースティックの併存
 * Complicated chord work (tension, quarter tone, etc.)
 * Drumming that can be assembled in 16-32 minute increments
-* Jazz interplay
+* ジャズ的インタープレイ
 * Non-root bass line, melodic bass
 * There are many works that have a higher emphasis on "band performance" than R&B.
 
@@ -62,7 +62,7 @@ Features
 Contemporary Funk inherits the elements of 1970s funk (groove, repetition, downbeat emphasis, slap bass, horn section),
 
 * Minimal/tight rhythm
-* Clear recording, precise control of compression/saturation
+* クリアな録音、コンプレッション／サチュレーションの精密制御
 *Hip-hop loop feel
 * Hybrid of live performance and DAW editing
 21st century funk with
@@ -71,7 +71,7 @@ In particular, ""minimal funk with a reduced number of sounds" typified by Vulfp
 
 ---
 
-## 2. Genealogy and historical development
+## 2. 系譜と歴史的展開
 
 ### 2-1. Late 1990s: Rise of neo-soul
 
@@ -79,7 +79,7 @@ The neo-soul music pioneered by D'Angelo, Erykah Badu, Lauryn Hill, and Maxwell 
 
 established here
 
-* Hip hop beat feel
+* ヒップホップのビート感
 * Jazz chords
 * Analog texture
 * Loose groove
@@ -87,18 +87,18 @@ became the basis of Modern Soul.
 
 ### 2-2. 2010s: New trends and band sounds from Australia
 
-Melbourne's musical community (Hiatus Kaiyote, The Bamboos, etc.), with their jazz-honed playing skills, multicultural background, and electronic music influences, formed the core of Modern Soul, which has been described as ""complex but pop.''
+Melbourne's musical community (Hiatus Kaiyote, The Bamboos, etc.), with their jazz-honed performance skills, multicultural background, and electronic music influences, formed the core of Modern Soul, which has been described as ""complex but pop.''
 
 Especially the appearance of **Hiatus Kaiyote**.
 
-* Polyrhythm
+* Polyrhythm（ポリリズム）
 * Very complex code
 * Detailed arrangement
-It has had a great impact internationally, linking the city with Seoul.
+  をソウルと結びつけ、国際的に大きな影響を与えた。
 
 ### 2-3. Anderson .Paak and the West Coast Community
 
-Anderson Paak is
+アンダーソン・パークは
 
 * Soul Funk
 * west coast hip hop
@@ -116,7 +116,7 @@ He integrated the elements of the band and expanded Contemporary Funk into the p
 * **Dilla beat (snare with a bit of delay)**
 * **Compound meter, polyrhythm**
 * **Large use of ghost notes**
-* **32 minute swings**
+* **Swing in 32 minute increments**
 
 #### Modern Soul Rhythm Structure
 
@@ -133,7 +133,7 @@ flowchart TD
 ### 3-2. Harmony
 
 * Frequent tension chords such as 7th, 9th, 11th, 13th
-* Chords derived from melodic minor
+* メロディック・マイナー由来のコード
 * Jazz quarter harmony
 * Rootless Voicing
 * Chromatic inversion and modal approach
@@ -179,7 +179,7 @@ The production of Modern Soul/Contemporary Funk is a perfect fusion of DAW and l
 
 ### 4-4. Vocal processing
 
-* Multiple stages of compression (Serial Compression)
+* コンプレッション複数段（Serial Compression）
 * Use tape plug-in for analog feel
 * Natural processing of pitch correction
 

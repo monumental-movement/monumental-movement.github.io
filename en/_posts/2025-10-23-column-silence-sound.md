@@ -17,7 +17,7 @@ title: '[Column] Silent music: Rediscovering the act of listening'
 
 Text: mmr | Theme: After John Cage's ""4 minutes and 33 seconds,'' silence became another aspect of music. What is listening? Considering the reconstruction of the relationship between humans and the world as told by music without sound
 
-When John Cage"s ""4"33'' premiered in New York in 1952, audiences were perplexed and agitated.
+When John Cage's ""4:33'' premiered in New York in 1952, audiences were confused and agitated.
 The pianist doesn't play a single note. However, the venue was filled with sounds: coughs, chairs creaking, and the wind outside.
 At that moment, it became clear that music is not just composed sounds, but the act of listening itself.
 
@@ -47,10 +47,10 @@ Smartphone notification sounds, subway announcements, street noises.
 They recede into the background of consciousness and become just a piece of information.
 
 However, Cage and the composers of musique concrète encouraged us to practice rediscovering listening.
-Listening is an act of renewing your relationship with the world,
+Listening is an act of renewing one's relationship with the world,
 It is an attitude of accepting ""the sounds that already exist'' rather than choosing a sound.
 
-This attitude would later be carried over to Brian Eno's ambient music.
+This attitude would later be carried over into Brian Eno's ambient music.
 he speaks. ""Ambient music is music that exists with the environment, even if you don't consciously listen to it.''
 
 ---
@@ -75,7 +75,7 @@ timeline
 </div>
 
 In this trend, silence has been treated not as a "blank space" but as a "possibility."
-In other words, when the act of listening becomes a theme, music transcends its framework. **
+In other words, when the act of listening becomes a theme, music transcends that framework. **
 
 ---
 
@@ -87,8 +87,8 @@ This was an attempt to understand sound as part of society, culture, and the nat
 
 "We live in a landscape of sound. To listen is to understand the environment."
 
-The hustle and bustle of the city, the rustling of the forest, the babbling of the river—recording and editing them became a musical act in itself.
-This idea continues in today's field recording culture and artists who incorporate environmental sounds (Ryuichi Sakamoto, Chris Watson, etc.).
+The hustle and bustle of the city, the rustle of the forest, the babbling of the river—recording and editing them became a musical act in itself.
+This idea continues in today's field recording culture and artists who incorporate ambient sounds (Ryuichi Sakamoto, Chris Watson, etc.).
 
 ---
 
@@ -141,7 +141,7 @@ Silence functions not as a "space" for playing music, but as a space for thinkin
 ## Conclusion: The Future of Silence — Toward a Politics of Listening
 
 Silence will likely become a new form of resistance in future music culture.
-Information overload, instant pleasure, and algorithmic music selection.
+Information overload, instant gratification, and algorithmic music selection.
 In this context, listening becomes a kind of **slow listening** exercise.
 
 When we regain the verb "listen,"
@@ -149,7 +149,7 @@ Music once again connects us with the world.
 
 ---
 
-## Reference chronology: Expansion of the philosophy of silence and sound
+## Reference chronology: Spread of philosophy of silence and sound
 
 
 | Year | Events | Main people |

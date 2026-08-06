@@ -14,7 +14,7 @@ title: Johan Bacto – Mankind 3
 
 Johan Bacto (Johan Svensson) is a Swedish Techno producer. He runs labels such as Mankind, Zync, and Countdown 2000.
 
-"Mankind 3" is a Techno song released by Johan Bacto's label MANKIND in 1998.
+"Mankind 3" is a Techno song released by Johan Bacto's MANKIND label in 1998.
 
 #### Tracklist
 ```md

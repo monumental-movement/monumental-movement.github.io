@@ -21,7 +21,7 @@ Text: mmr｜Theme: Deciphering the evolution of sound where violence, precision,
 
 Zeni Geva is a band that occupies an extremely unique position in the history of Japanese experimental noise rock/hardcore. Since their formation in 1987, their sound has been consistently violent, yet at the same time incredibly structured, encompassing precisely calculated mathematical rhythms. The wide-ranging sonic philosophy of leader **KK Null (Kazuyuki Kishino)** continues to form the core of the band, and has had a strong influence on the underground scene in Japan and abroad.
 
-Their music is layered with noise, metallic guitars, destructive drums, repetitive structures, and electroacoustic textures. The history of Zeni Geva, which has been active intermittently from the 1990s to the present, is extremely important as a nexus between Japanese noise culture and overseas underground.
+Their music is layered with noise, metallic guitars, destructive drums, repetitive structures, and electroacoustic textures. The history of Zeni Geva, which has been active intermittently since the 1990s to the present, is extremely important as a nexus between Japanese noise culture and overseas underground.
 
 ---
 
@@ -65,7 +65,7 @@ In 1991, Zeni Geva reached a major turning point. It is a collaboration with Ame
 
 ### "Total Castration (1991)"
 The first full-length album recorded by Albini.
-Zeni Geva"s violence and Albini"s dry, direct sound meshed perfectly, earning strong reviews overseas.
+Zeni Geva"s violence and Albini"s dry, direct sound meshed perfectly, earning them strong reviews overseas.
 
 ### "Desire for Agony (1993)"
 - Released from American label **Alternative Tentacles** (organized by Jello Biafra)
@@ -85,9 +85,9 @@ It is said to be the album with the most well-balanced integration of acoustics,
 In 1996, there was a change in drummers, with Blake Fleming joining the band for a short time. Later, **Masataka Fujikake** joined the band, and Zeni Geva's rhythms became more complex, faster, and more layered.
 
 ### Strengthening structural musicality
-During this period, Zeni Geva's songs became longer and more structured, including songs over 16 minutes.
+During this period, Zeni Geva's songs became longer and more structured, including songs longer than 16 minutes.
 - Multiple parts diverge and reconverge
-- Contrapuntal riff with two guitars
+- Contrapuntal riff for two guitars
 - Increased use of electronic devices such as Nulltron
 
 ### "10,000 Light Years (2001)"
@@ -198,7 +198,7 @@ The history of Zeni Geva is
 **"Violence" x "Structure" x "Experiment"**
 This is a trajectory in which the three elements continued to expand alternately or simultaneously for more than 30 years.
 
-They are a rare entity that has remained unrelated to commercial activities, yet continues to receive solid praise from underground music circles around the world. That is Zeni Geva, and at its core has always been KK Null's sonic philosophy.
+They are a rare entity that has remained unrelated to commercial activities, but continues to receive solid praise from underground music circles around the world. That is Zeni Geva, and at its core has always been KK Null's sonic philosophy.
 
 Even now, their music has not gotten old, and it is clear that they were even ahead of the framework of modern noise/metal/experimental music.
 I hope this article provides an opportunity to rediscover Zeni Geva.

@@ -41,9 +41,9 @@ color: #fff;
 ## ■ Hard rock and outlaw lifestyle
 
 More than just a music genre, hard rock has often been talked about as an inseparable ""way of life.''
-Symbols of this were the **muscle cars** and **Harley-Davidsons**, which were born from the background of American culture.
+Symbols of this were the **muscle car** and **Harley-Davidson**, both of which were born from the background of American culture.
 
-The 1960s and 1970s were a tumultuous time for the United States, with the Vietnam War becoming a quagmire, the civil rights movement, and the clash between conservative values ​​and counterculture. Young people who rebelled against the existing order and social norms sought self-expression using the keyword "freedom," and rock and motor culture were symbolic means for this.
+The 1960s and 1970s were a tumultuous time for the United States, with the Vietnam War becoming a quagmire, the civil rights movement, and the clash between conservative values ​​and counterculture. Young people who rebelled against the existing order and social norms sought self-expression based on the keyword "freedom," and rock and motor culture were symbolic means for this.
 
 The roar of the large-displacement engine was as wild as the distortion emitted from a Marshall amplifier, and it shook the hearts of the listeners. **Speed, power, and the freedom to deviate from the norm** - these came together to form the "outlaw lifestyle."
 
@@ -51,7 +51,7 @@ The roar of the large-displacement engine was as wild as the distortion emitted 
 
 ## ■ "Easy Rider" and the atmosphere of the times
 
-The 1969 movie ""Easy Rider'' is a symbol of the youth culture and hard rock lifestyle of the time.
+The 1969 film ""Easy Rider'' is a work that truly symbolizes the youth culture and hard rock lifestyle of the time.
 The protagonists" journey across America on motorcycles in search of freedom was not just a journey, but a metaphor for ""breaking away from the system.'' Steppenwolf"s "Born To Be Wild", which plays on the soundtrack, resonates with the roar of motorcycles and is still passed down as a hard rock anthem of freedom.
 
 This film can be said to have defined the intimate relationship between hard rock and car culture by visualizing the moment when music, motorcycles, and freedom came together.
@@ -62,8 +62,8 @@ This film can be said to have defined the intimate relationship between hard roc
 
 Global hard rock bands **AC/DC** and **KISS** have captivated audiences by incorporating car culture not only in their music but also in their performances.
 
-- AC/DC, as exemplified by songs such as ""Highway to Hell" and ""Thunderstruck," overlaid images of ""road," ""thunder," and ""speeding'' on rock music, directly linking music to the sensation of driving.
-- At KISS' live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
+- AC/DC, as exemplified by songs such as ""Highway to Hell" and ""Thunderstruck," overlaid images of ""road," ""thunder," and ""running'' on rock music, directly linking music to the sensation of driving.
+- At KISS' live performance, the sound of a Harley engine echoed against the backdrop of flames, giving the audience an experience as if the stage itself had been transformed into an American road movie.
 
 This echoed the 1970s American "culture of speed," and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
 
@@ -77,14 +77,14 @@ For fans, the sound of the engine itself was "another kind of rock"n"roll."
 - **The roar of the V8 engine** resonates with the guitar riff, giving the listener a sense of physical release.
 - The sound of an engine is ""uncontrolled noise,'' and it overlaps with the rebellious spirit of rock, as it disrupts social order and silence.
 
-The roar of cars and motorcycles driving away was itself a musical experience, a ""rebellion through sound'' against existing values.
+The roar of passing cars and motorcycles was itself a musical experience, a ""rebellion through sound'' against existing values.
 
 ---
 
 ## ■ Acceptance in Japan - Connection with Bosozoku culture
 
 This composition of ""hard rock x car/motorcycle culture'' was uniquely developed in Japan as well.
-Bosozoku, which appeared in Japanese youth culture from the late 1970s to the 1980s, had a similar spirit to American outlaw culture in that they used domestically produced motorcycles rather than Harleys as their mainstay, but expressed themselves through engine sounds and noises.
+Bosozoku, which appeared in Japanese youth culture from the late 1970s to the 1980s, had a similar spirit to American outlaw culture in terms of ""self-expression'' through engine sounds and noise, although they centered around domestically produced motorcycles rather than Harleys.
 
 Many Japanese hard rock fans and heavy metal enthusiasts incorporated motorcycles and modified cars as part of their lifestyle, and the resonance between music and motor culture was certainly alive and well in Japanese society. This can be said to be the result of America"s longing for "freedom" being superimposed on Japan"s "delinquent culture."
 
@@ -93,7 +93,7 @@ Many Japanese hard rock fans and heavy metal enthusiasts incorporated motorcycle
 ## ■ Resonance between music and car culture
 
 Understanding hard rock is more than just listening to albums.
-The existence of ""Harleys running down the road" and ""muscle cars cutting through the night" is essential, and the combination of their visuals and roaring sounds forms the overall cultural picture.
+The existence of ""Harleys running down the road" and ""muscle cars cutting through the night" is essential, and the combination of visuals and roaring sounds forms the overall cultural picture.
 
 When the roar of the engine and the guitar riff resonate, the music shakes not only the auditory senses but also the entire body, turning the audience into ""experiencers.'' This is where the core of hard rock, unlike any other genre, lies.
 
@@ -142,7 +142,7 @@ When the roar of the engine and the guitar riff resonate, the music shakes not o
 | Shout at the Devil | Mötley Crüe | Symbol of the outlaw lifestyle. |
 | I Wanna Rock | Twisted Sister | Reminiscent of the freedom of youth and the speed of cars. |
 | Cum On Feel the Noize | Quiet Riot | A song synonymous with running and rebellion. |
-| You Shook Me All Night Long | AC/DC | Energy that is compatible with road culture. |
+| You Shook Me All Night Long | AC/DC | Energy that goes well with road culture. |
 
 ---
 
@@ -156,7 +156,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 | Artist | Album | Release year | Features |
 |-------------|----------|---------|------|
 | Guns N" Roses | Use Your Illusion I & II | 1991 | A masterpiece that combines hard rock and balladry |
-| Metallica | Black Album | 1991 | "Enter Sandman" breaks the boundary between metal and rock |
+| Metallica | Black Album | 1991 | Breaking through the boundaries between metal and rock with "Enter Sandman" |
 | Foo Fighters | The Color and the Shape | 1997 | New generation rock anthem after grunge |
 | Audioslave | Audioslave | 2002 | Rage x Soundgarden crossover |
 | Velvet Revolver | Contraband | 2004 | Former GNR members' return to classic rock after the 90s |
@@ -168,7 +168,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 
 | Artist | Album | Release year | Features |
 |-------------|----------|---------|------|
-| Led Zeppelin | Led Zeppelin IV | 1971 | Includes "Stairway to Heaven", Mythical Being |
+| Led Zeppelin | Led Zeppelin IV | 1971 | Includes "Stairway to Heaven," Mythical Being |
 | AC/DC | Back in Black | 1980 | Immortal hard rock anthem with worldwide sales |
 | Deep Purple | Machine Head | 1972 | "Smoke on the Water" establishes a classic riff |
 | Black Sabbath | Paranoid | 1970 | Dark and heavy sound symbolizes the outlaw spirit |
@@ -178,7 +178,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 
 ## Hard rock and outlaw lifestyle
 
-Hard rock is more than just a genre of music and is often referred to as a ""lifestyle.'' Symbolic of this are American muscle cars and Harley-Davidson.
+Hard rock is more than just a genre of music, and is often referred to as a ""lifestyle.'' Symbolic of this are American muscle cars and Harley-Davidson.
 The roar of the large-displacement engine echoes through the city, resembling the distortion emitted by a guitar amp. As if music and machinery resonate at the same frequency, riders and drivers flaunt their presence.
 
 It also has deep ties to outlaw culture. Biker gangs and street culture in the '70s often had hard rock as their soundtrack. The desire for freedom and deviation from the norm is an expression of strong, irresistible impulses, just like a hard rock guitar riff.
@@ -192,7 +192,7 @@ From live music venues to highways, hard rock has always been inseparable from a
 ## Japanese hard rock related songs and cultural background
 
 Hard rock in Japan gradually took root in the 1970s, and in the 1980s bands such as LOUDNESS and EARTHSHAKER made their way to the world.
-Also, from the 1990s onwards, groups such as X JAPAN, B'z, and GLAY developed their own interpretations of hard rock, which had a strong influence on the visual aspect.
+Also, from the 1990s onwards, groups such as X JAPAN, B'z, and GLAY developed their own interpretations of hard rock, which had a strong influence on the visual aspect as well.
 The culture of Harley-Davidson and American muscle cars has permeated the Japanese rock scene, and they are frequently used in live productions and music videos.
 
 | Artist | Song | Release year | Features |
@@ -200,7 +200,7 @@ The culture of Harley-Davidson and American muscle cars has permeated the Japane
 | LOUDNESS | Crazy Nights | 1985 | A monumental piece of Japanese hard rock that has expanded to the world |
 | X JAPAN | Rusty Nail | 1994 | Symphonic and lyrical hard rock |
 | B"z | LOVE PHANTOM | 1995 | Fusion of hard rock and J-POP melodies |
-| SEX MACHINEGUNS | German Power | 1998 | 90s Japanese HR representative with both humor and excitement |
+| SEX MACHINEGUNS | German Power | 1998 | 90s Japanese HR representative who combines humor and excitement |
 | Dir en grey | Obscure | 2003 | Dark and avant-garde, internationally acclaimed |
 
 ## Machines associated with hard rock
@@ -208,7 +208,7 @@ The culture of Harley-Davidson and American muscle cars has permeated the Japane
 | Type | Model | Features |
 |--------|-------|------|
 | Muscle car | Dodge Charger R/T | Equipped with 426 HEMI engine, overwhelming presence |
-| Muscle car | Ford Mustang Mach 1 | Symbol of American culture from the 60s to 70s |
+| Muscle car | Ford Mustang Mach 1 | Symbol of American culture in the 60s and 70s |
 | Harley | Harley-Davidson Shovelhead | The heart of the wild heartbeat and custom culture |
 | Harley | Harley-Davidson Fat Boy | Frequently used in hard rock video works from the 90's onwards |
 

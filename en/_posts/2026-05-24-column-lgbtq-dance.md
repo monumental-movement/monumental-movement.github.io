@@ -38,7 +38,7 @@ People who have been pushed to the margins of society. People who have been forc
 
 Disco, house, techno, ballroom, rave. These are not just music genres. There was a strong will to ""create a safe place for ourselves.''
 
-The kick drum playing on the dark club floor wasn"t just a beat. It was a place where you didn"t have to hide your name, a place where you didn't have to be afraid of your body, and a space where people who had been pushed out of society could feel for the first time that it was okay to exist.
+The kick drum playing on the dark club floor wasn"t just a beat. It was a place where people didn"t have to hide their names, a place where they didn't have to be afraid of their bodies, and a space where people who had been pushed to the outside of society felt for the first time that it was okay to exist.
 
 Dance music is also the history of the LGBTQ+ community.
 
@@ -82,7 +82,7 @@ In 1969, a confrontation with police at New York's Stonewall Inn was a turning p
 
 Patrons resisted frequent police raids. This event led to several days of protests, which led directly to the Pride movement that followed.
 
-What is important is that the stage for this rebellion was a club.
+What is important is that the stage for this rebellion was a "club."
 
 The music, dance, and nightlife space was already a hub for the LGBTQ+ community.
 
@@ -104,7 +104,7 @@ flowchart TD
 
 In the 1970s, disco music becomes a worldwide phenomenon.
 
-However, contrary to today's popular image, the origins of disco culture were deeply connected to the black, Latinx, and LGBTQ+ communities.
+However, contrary to the current popular image, the origins of disco culture were deeply connected to the black, Latinx, and LGBTQ+ communities.
 
 In New York clubs like the Loft, Paradise Garage, and Sanctuary, marginalized people danced the night away.
 
@@ -116,7 +116,7 @@ Disco was not a ""dance for show," but a ""dance to liberate oneself."
 
 One of the major changes during the disco era was the role of the DJ.
 
-Up until then, live music had been the main focus of clubs, but a culture developed in which DJs controlled the entire space.
+Up until then, clubs had centered around live music, but a culture developed in which DJs controlled the entire space.
 
 Particularly in New York club culture, DJs were not just people who played music, but people who read the emotions of the floor and guided people into a trance-like state.
 
@@ -137,7 +137,7 @@ In 1979, an anti-disco movement called ""Disco Demolition Night'' broke out in C
 
 It has also been pointed out that this event, in which tons of disco records were blown up, was not just a reaction against the music genre.
 
-There are still many analyzes today that say that disco culture was a mixture of hatred towards black culture, gay culture, and Latin culture.
+There is still a lot of analysis that suggests that disco culture was a mixture of hatred towards black culture, gay culture, and Latin culture.
 
 The ""free body expression'' promoted by disco created a conflict with conservative values.
 
@@ -167,7 +167,7 @@ At the time, the LGBTQ+ community was facing a dire situation with the HIV/AIDS 
 
 In the 1980s, clubs remained an important place to be, even as prejudice and fear drove many people out of society.
 
-Dancing was not an escape from reality, but an act of sharing the feeling of ""still being alive.''
+Dancing was not an escape from reality, but an act of sharing the feeling of being ""still alive.''
 
 House music can be both euphoric and urgent.
 
@@ -191,9 +191,9 @@ Early house classics like "Your Love" and "Can You Feel It" have the repetition 
 
 The club space was often likened to a ""church.''
 
-For those rejected by society, clubs were a spiritual community.
+For people rejected by society, clubs were a spiritual community.
 
-> The highs of house music were associated not only with pleasure but also with a sense of survival.
+> The highs of house music were linked not only to pleasure but also to a sense of survival.
 
 ---
 
@@ -249,7 +249,7 @@ This feeling has had a great influence on modern techno culture.
 
 From the 1980s to the 1990s, ballroom culture developed in New York.
 
-In this culture, which was formed around the Black and Latinx LGBTQ+ community, there existed pseudo-family-like communities called "houses."
+In this culture, which was formed around the black and Latinx LGBTQ+ community, there existed pseudo-family-like communities called "houses."
 
 Young people rejected by their families supported each other and participated in the ball event.
 
@@ -299,7 +299,7 @@ Rather, music functioned as a device for sharing grief.
 
 There is a sense of loss and hope at the same time in house and garage music.
 
-Amidst the repeated beats, people remembered their deceased friends and at the same time supported each other among the survivors.
+In the repeated beats, people remembered their deceased friends and at the same time supported each other among the survivors.
 
 The dance floor was both a celebratory space and a memorial space.
 
@@ -326,7 +326,7 @@ What used to be a closed community in each city has now spread around the world 
 
 Queer DJs, non-binary artists, and trans producers will become more visible.
 
-At the same time, commercialization created a sense of tension.
+At the same time, a sense of tension was created due to commercialization.
 
 ### How to maintain a "safe space"
 
@@ -342,7 +342,7 @@ It is also an understanding that club culture has historically been supported by
 flowchart TD
     A["Underground club"] --> B["Community formation"]
     B --> C["Music culture"]
-    C --> D["Global spread"]
+    C --> D["世界的拡散"]
     D --> E["Commercialization"]
     E --> F["Rethinking safe space"]
 </div>
@@ -353,7 +353,7 @@ In modern times, a diverse queer music scene has emerged, including not only hou
 
 What they all have in common is a sense of ""questioning the existing framework.''
 
-Genre, gender, body, identity. Blurring those boundaries remains at the heart of club culture.
+Genre, gender, body, identity. Blurring the boundaries remains at the core of club culture.
 
 > Modern club culture inherits the "blueprints of freedom" established by queer communities of the past.
 

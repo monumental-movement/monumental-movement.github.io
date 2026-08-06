@@ -17,13 +17,13 @@ title: '[Column] Carlos Gardel -- The birth of the "voice" that brought tango to
 
 ## Before Tango: The heat of the immigrant city of Buenos Aires
 
-Text: mmr | Theme: Why did tango, which was born in the port city of Buenos Aires in the early 20th century, become a world music? At the center of this was the "voice" of Carlos Gardel.
+Text: mmr | Theme: How did tango, which was born in the port city of Buenos Aires in the early 20th century, become a world music? At the center of this was the "voice" of Carlos Gardel.
 
 From the end of the 19th century to the beginning of the 20th century, Argentina was one of the world's leading immigrant nations. A large number of immigrants poured in from Spain, Italy, France, and Eastern Europe, and the capital, Buenos Aires, rapidly transformed into a gigantic city.
 
 Longshoremen, sailors, taverns, brothels, cafes, dance halls. The mixed emotions of people on the periphery of the city gave birth to new music. That was tango.
 
-Initially, tango was a music that was looked down upon by the upper classes. Crude, dangerous, downtown. However, its melancholy and sensuality strongly stimulated the emotions of people who were burdened by the loneliness of urbanization.
+In the beginning, tango was a music that was looked down upon by the upper classes. Crude, dangerous, downtown. However, its melancholy and sensuality strongly stimulated the emotions of people who were burdened by the loneliness of urbanization.
 
 Out of this chaotic urban space, a man later known as the "King of Tango" emerges.
 
@@ -215,13 +215,13 @@ The transition from the silent film era to talkies was difficult for many actors
 
 However, Gardel originally gained popularity for his "voice."
 
-His singing voice and speaking style were directly connected to his movie star status.
+His singing voice and speaking style were directly linked to his movie star status.
 
 In particular, his soft pronunciation and friendly smile attracted many viewers.
 
 ### New York and Latin Market
 
-In the United States in the 1930s, the Spanish-speaking film market was growing.
+In the 1930s in the United States, the Spanish-speaking film market was growing.
 
 Gardel's films were an important group of films aimed at that huge market.
 
@@ -377,5 +377,14 @@ He was one of the biggest stars born in the immigrant city of Buenos Aires, and 
 And even now, his voice continues to resonate, not as a memory of the past, but as an ongoing memory.
 
 > Carlos Gardel was the moment when tango became a world language.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PfrCyVI522g?si=dzD6OKYs9mLtA6RX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

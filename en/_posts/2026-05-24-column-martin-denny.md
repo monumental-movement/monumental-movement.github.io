@@ -17,11 +17,11 @@ title: '[Column] Martin Denny and Exotica: The tropical sound dreamed of by post
 
 ## Where was the southern land?
 
-Text: mmr｜Theme: Martin Denny uses sound to depict the "tropical fantasy" that spread to postwar America. Tracing the influence of its innovative exotica sounds on lounge, ambient and electronic music
+Text: mmr | Theme: Martin Denny uses sound to depict the "tropical fantasy" that spread to postwar America. Tracing the influence of its innovative exotica sounds on lounge, ambient, and electronic music
 
 ### Postwar America and the fantasy of paradise
 
-In the 1950s, the American middle class was rapidly expanding due to economic growth following World War II. As new lifestyles such as televisions, suburban homes, private cars, and home appliances were gradually permeating ordinary households, people's longing for a ""distant world'' was also growing.
+In the 1950s, the American middle class was rapidly expanding due to economic growth following World War II. As new ways of living such as televisions, suburban housing, private cars, and home appliances began to permeate ordinary households one after another, people's longing for a ""distant world'' grew at the same time.
 
 One of the symbols was Hawaii.
 
@@ -53,7 +53,7 @@ color: #fff;
 
 Martin Denny was born in New York in 1911. He received classical piano training from an early age and later studied at the Los Angeles Conservatory of Music. When he was young, he was active as a jazz pianist and experienced dance bands and lounge performances.
 
-He served in the U.S. Army during World War II and served in the South Pacific region. This experience is said to have had a great influence on his later exotica works.
+He served in the U.S. Army during World War II, serving in the South Pacific region. This experience is said to have had a great influence on his later exotica works.
 
 After the war, he moved to Hawaii. He began performing at hotels and clubs in Honolulu. Here, he formed the ""spatial production type music'' that would later become his signature style.
 
@@ -80,9 +80,9 @@ E --> H[modern electronic music]
 
 Martin Denny's masterpiece ""Exotica'' was released in 1957. However, his unique style began by chance.
 
-While performing at Shell Bar in Honolulu, birds around the outdoor stage began chirping in response to the performance. In response, percussionist Augie Colon improvised an imitation of a bird's song, and the audience reacted strongly.
+While performing at Shell Bar in Honolulu, birds around the outdoor stage began chirping in response to the performance. In response, percussionist Augie Colon improvised an imitation of a bird call, and the audience reacted strongly.
 
-Denny saw the potential in this incident and began to incorporate bird calls and jungle-style sound effects into his performances.
+Denny saw the potential in this incident and began incorporating bird calls and jungle-style sound effects into his performances.
 
 This was not just a comical performance.
 
@@ -90,19 +90,19 @@ At the time, stereo recording technology was rapidly becoming popular in the Ame
 
 Martin Denny understood this new listening environment very early on.
 
-In his works, the vibraphone swings from side to side, percussion moves around the space, and ambient sounds create depth. This was a similar feeling to later ambient music and sound design.
+In his works, the vibraphone swings from side to side, percussion moves around the space, and ambient sounds create depth. This feeling was similar to later ambient music and sound design.
 
 ### The impact of "Exotica"
 
 Their 1957 album Exotica was a huge success.
 
-"Quiet Village" in particular became a signature song, and the single version reached the top of the US charts in 1959. The sound, which was a mixture of the dreamy sounds of the vibraphone, Latin rhythms, bird calls, and strange choruses, was different from previous jazz or pop music.
+"Quiet Village" in particular became a signature song, and the single version reached the top of the US charts in 1959. The sound, which was a mixture of the dreamy sounds of the vibraphone, Latin rhythms, bird calls, and strange choruses, was different from both jazz and pop music up until then.
 
 With this work, the word "Exotica" itself became established as a genre name.
 
 The album jacket at the time was also important. "Paradise" was packaged visually, with emphasis on tropical plants, tiki statues, Polynesian decor, and cocktail culture.
 
-A huge lifestyle market was formed, encompassing not only music but also space design, interior design, bar culture, and the tourism industry.
+A huge lifestyle market was formed, encompassing not only music, but space design, interior design, bar culture, and the tourism industry.
 
 <div class="mermaid">
 flowchart TD
@@ -143,13 +143,13 @@ Martin Denny's music was ideal as background music.
 
 His works were characterized by ""not interfering with conversation" but ""creating a strong atmosphere." This is an important quality that will be inherited by later lounge music as a whole.
 
-Denny not only created music that was listened to as the main character, but also music that created a space.
+Denny was creating not only ""music that was listened to as the main character," but also ""music that established a space."
 
 ### Music of the stereo era
 
 By the end of the 1950s, stereo audio had become a symbol of high-class home culture.
 
-Record companies began to compete on ""quality of sound," and listeners also began to enjoy ""tasting the feeling of traveling at home."
+Record companies began to compete on ""quality of sound," and listeners began to enjoy ""tasting the feeling of traveling at home."
 
 Martin Denny's work was very compatible with this stereo culture.
 
@@ -157,7 +157,7 @@ Percussion placed on the left and right.
 Reverberation that gives a sense of depth.
 The sound of a bird suddenly flying in.
 
-His work was not just a piece of music, but a "sound production that changed the whole room."
+His work was more than just a piece of music, it was a "sound production that changed the whole room."
 
 It was natural for audio critics to treat his work as a stereo demo record in later years.
 
@@ -165,7 +165,7 @@ It was natural for audio critics to treat his work as a stereo demo record in la
 
 Les Baxter is essential when talking about exotica.
 
-Baxter was an arranger who had been doing "exotic orchestration" even before Martin Denny, and he was the one who laid the foundations of exotica.
+Baxter was an arranger who had been doing "exotic orchestration" even before Martin Denny, and was the person who laid the foundations of exotica.
 
 But instead of Baxter's grand orchestral approach, Martin Denny built a smaller, more intimate sound.
 
@@ -193,7 +193,7 @@ F --> H[environmental music]
 
 One of the most distinctive features of Martin Denny's work is the vibraphone.
 
-The vibraphone is metallic yet soft and has a long aftertaste. Furthermore, the addition of fluctuations from the motor creates a fantastic floating feeling.
+The vibraphone is metallic, yet soft, and has a long aftertaste. Furthermore, the addition of vibration from the motor creates a fantastic floating feeling.
 
 This instrument was extremely important in expressing the "humidity" of exotica.
 
@@ -217,7 +217,7 @@ This feeling has become an extremely important concept in modern electronic musi
 
 When I listen to Martin Denny's work again, I realize that it is very "quiet music".
 
-The tempo does not increase rapidly, the dynamics are relatively calm, and the number of notes is not too large.
+The tempo doesn"t increase rapidly, the dynamics are relatively calm, and there aren"t too many notes.
 
 This was quite unique for 1950s pop music.
 
@@ -258,7 +258,7 @@ Rather, it became established as "mood music" in TV programs, hotels, bars, comm
 
 ### Redefining lounge music
 
-Since the 1970s, the word "lounge" has often been treated as a neglected genre.
+Since the 1970s, the term "lounge" has often been treated as a neglected genre.
 
 However, in the 1990s, the situation changed.
 
@@ -299,7 +299,7 @@ timeline
 
 In ambient music after Brian Eno, the idea of ​​""music that exists as an environment'' became important.
 
-Martin Denny is not an ambient writer. However, there was certainly a sense of connection to his later environmental music in his works.
+Martin Denny is not an ambient writer. However, there was definitely a sense of connection to his later environmental music in his works.
 
 In particular, the following points are common.
 
@@ -324,11 +324,11 @@ In other words, both of them were making sounds of a ""dream product space'' rat
 
 ### Impact on Japan
 
-Lounge music and mood music culture began to spread in Japan from the 1960s onwards.
+In Japan, lounge music and mood music culture began to spread since the 1960s.
 
 Exotic sounds were often used especially in hotels, bars, and the tourism industry during the period of high economic growth.
 
-From the 1990s onwards, Martin Denny's work also gained attention again amidst the reappraisal boom of Shibuya kei and lounges.
+Since the 1990s, Martin Denny's work has been attracting renewed attention as a result of the re-evaluation of Shibuya-kei and lounge styles.
 
 It is often pointed out that there is an indirect connection with Haruomi Hosono and other Japanese musicians who deal with environmental music and exotic sensations.
 
@@ -342,7 +342,7 @@ A --> F[Lo-fi Hip Hop]
 A --> G[environmental music]
 </div>
 
-> Martin Denny's music did not end up as "past entertainment", but was quietly passed on to modern spatial music.
+> Martin Denny's music did not end up as "past entertainment", but was quietly inherited by contemporary spatial music.
 
 ---
 

@@ -13,7 +13,7 @@ title: Bryan Cox – Freaks On Tha Floor
 ---
 
 
-Bryan Cox is a DJ/producer from New York. His style is a mix of disco, electro, house, and techno. He has released on prestigious labels such as Spinnin, Toolroom, 100%pure, Detected, Great Stuff, and Sublime.
+Bryan Cox (ブライアン・コックス)は、ニューヨーク出身のDJ／プロデューサー。ディスコ、エレクトロ、ハウス、テクノの様々なスタイルをミックスさせたスタイルが特徴。Spinnin, Toolroom, 100%pure, Detected, Great Stuff, Sublimeなど名門レーベルからリリースしている。
 
 "Freaks On Tha Floor" is a House/Techno song released by the American label Eden Recordings in 2005.
 

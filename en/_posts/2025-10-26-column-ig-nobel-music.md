@@ -41,7 +41,7 @@ color: #fff;
 ## 1. Prologue: Where science and music meet
 
 The **Ig Nobel Prize** is known as the ""eccentric little brother'' of the Nobel Prize.
-Since its creation in 1991 by the American satirical scientific journal *Annals of Improbable Research*,
+Since its founding in 1991 by the American satirical scientific journal *Annals of Improbable Research*,
 The award has been given to research that makes people laugh and think.
 
 In addition to fields such as physics, medicine, peace, and literature, this award is held in fields such as physics, medicine, peace, and literature.
@@ -98,7 +98,7 @@ It also attracted a lot of attention in society as an example of visualizing the
 
 In 2020, research by **Takeshi Nishimura** and colleagues at the Primate Research Institute, Kyoto University
 Received the **Acoustics Prize**.
-The research team placed crocodiles in a helium and oxygen mixed gas (Heliox) environment.
+The research team placed crocodiles in a helium-oxygen mixed gas (Heliox) environment.
 Analyzing the formants (resonant components) of the cry.
 As a result, we confirmed that the resonance structure also changes as the air density changes.
 
@@ -124,14 +124,14 @@ Music also exists at the intersection of reason and play.
 
 ### 3.2 Music as a "social experiment using sound"
 
-John Cage's ""4 Minutes 33 Seconds'' (1952) is known as music that does not make any sound.
+John Cage's 4 Minutes 33 Seconds (1952) is known as silent music.
 From an Ig Nobel perspective, it can also be interpreted as an ""auditory/psychological experiment in a silent environment.''
 "Generative music" proposed by Brian Eno,
 This is an example of transplanting the scientific concepts of chance, algorithms, and time structure into art.
 
 Just as science discovers the "laws of the world" through experiments,
 Musicians also explore the "laws of listening" through experiments.
-The two share the same spirit of inquiry with different methodologies.
+Both share the same spirit of inquiry with different methodologies.
 
 ---
 

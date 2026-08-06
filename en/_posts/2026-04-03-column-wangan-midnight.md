@@ -25,7 +25,7 @@ The coastline is particularly unique. The straight lines are long, the visibilit
 
 People find stories there. This is because even though it is a controlled space, there is always the possibility of deviation. Speeding, driving at the limit, machine limits, and human limits. The place where everything is tested at the same time is more than just a road.
 
-It is this "boundary" that Wangan Midnight depicts. Everyday and extraordinary, reality and fantasy, reason and impulse. When people stand on that border, they seek meaning. And when a meaning is repeated, it becomes a myth.
+It is this "boundary" that Wangan Midnight depicts. Everyday and extraordinary, reality and fantasy, reason and impulse. When people stand on that boundary, they seek meaning. And when a meaning is repeated, it becomes a myth.
 
 > Expressways turn into myths not because of their speed but because of their meaning.
 
@@ -44,13 +44,13 @@ color: #fff;
 }
 </style>
 
-## What is Wangan Midnight?
+## 湾岸ミッドナイトとは何か
 
 ""Wangan Midnight'' is a manga that began serialization in 1990, and has a unique position among works depicting Japanese street racing culture. This is not just a battle manga, but a work that delves deeply into the relationship between cars and humans.
 
 The centerpiece is the Nissan Fairlady Z (S30), also known as the "Devil's Z." This car, which has had many accidents in the past and chooses its rider, is depicted as having a will even though it is a machine.
 
-The main character, Akio Asakura, is drawn to this Z and becomes its rider. However, he is not a "chosen being". Rather, it"s incomplete and immature, and that"s why the relationship with the car is possible.
+主人公・朝倉アキオは、このZに引き寄せられるようにして乗り手となる。だが彼は“選ばれた存在”ではない。むしろ不完全で、未熟で、だからこそ車との関係が成立する。
 
 The feature of this work is that it does not rely on a simple structure of winning and losing. In races, the process is more important than the result, and the characters face themselves in the process.
 
@@ -58,7 +58,7 @@ Additionally, all of the vehicles that appear are real models, and their tuning 
 
 It is precisely because of this reality that the story takes on the quality of an ""urban legend.'' A world that seems real, but that we can never touch. That is the charm of Wangan Midnight.
 
-> Wangan Midnight is not a story of speed, but of relationships.
+> 湾岸ミッドナイトは、速度の物語ではなく“関係性”の物語である。
 
 ---
 
@@ -66,19 +66,19 @@ It is precisely because of this reality that the story takes on the quality of a
 
 In this work, "night" is not just a time period. It is a stage set and a state of mind itself.
 
-The city at night has anonymity. Everyone becomes nobody and is freed from their day-to-day social roles. Titles, occupations, pasts, everything is temporarily invalidated.
+The city at night has anonymity. Everyone becomes nobody and is freed from their social roles during the day. Titles, occupations, pasts, everything is temporarily invalidated.
 
 Among them, the only one left is "me".
 
-Driving on a highway is extremely lonely. Even if someone is in the passenger seat, you are essentially alone. All decisions are left to you, and you are responsible for the results.
+高速道路を走るという行為は、極めて孤独だ。助手席に誰かがいても、本質的には一人である。判断はすべて自分に委ねられ、結果も自分が引き受ける。
 
 The characters in Wangan Midnight do not avoid this loneliness. Rather, they try to confirm their own existence within it. Speed ​​is not an escape, but a means of dialogue.
 
 The city lights are beautiful, but cold at the same time. Running in that light also means feeling the distance from the world. That's why the momentary sense of unity you get in that moment is so strong.
 
-This "back and forth between solitude and togetherness" determines the tone of the work as a whole.
+この「孤独と一体感の往復」が、作品全体のトーンを決定づけている。
 
->The highway at night becomes a place where you can face yourself by being separated from others.
+> The highway at night becomes a place where you can face yourself by being separated from others.
 
 ---
 
@@ -86,15 +86,15 @@ This "back and forth between solitude and togetherness" determines the tone of t
 
 Even though the theme is the same, the experience can vary greatly depending on how the music is used.
 
-The Eurobeat in "Initial D" is a device that emphasizes the "sense of speed" through rhythm and tempo. By accelerating the viewer's senses and synchronizing sight and hearing, the race becomes entertainment.
+The Eurobeat in Initial D is a device that emphasizes the sense of speed through rhythm and tempo. By accelerating the viewer's senses and synchronizing sight and hearing, the race becomes entertainment.
 
-On the other hand, the sound in Wangan Midnight is more restrained. Engine noise, wind noise, and the feel of the tires on the ground. These are the main characters, and the music remains a complement to them.
+一方で、湾岸ミッドナイトにおける音は、より抑制的である。エンジン音、風切り音、タイヤの接地感。これらが主役であり、音楽はそれを補完する存在に留まる。
 
-What is important here is the choice of ""not letting the music come to the forefront.''
+ここで重要なのは、“音楽が前に出ない”という選択だ。
 
 This creates a more introspective experience for the viewer. Instead of being pulled by the music, you will feel the speed with your own senses.
 
-Additionally, the overall tempo of the piece is relaxed. There are few extreme productions or excessive cuts, and the flow of time itself feels like it is ""stretching''.
+また、作品全体のテンポもゆったりしている。極端な演出や過剰なカット割りは少なく、時間の流れそのものが“伸びる”ような感覚がある。
 
 This difference is not just a difference in style. It clearly shows the difference in what the works are aiming for.
 
@@ -104,19 +104,19 @@ Wangan Midnight seeks "immersion" rather than excitement.
 
 ---
 
-## Speed ​​= Philosophy
+## スピード＝哲学
 
 Speed ​​in this work is not just a physical quantity. It is a question, a choice, and sometimes something close to faith.
 
 Why do you run fast?
 
-No clear answer is provided to that question. The characters have their own reasons and run in their own ways.
+There is no clear answer to that question. The characters have their own reasons and run in their own ways.
 
 For some it"s an escape from the past, for others it"s self-validation, and for others it's pure pleasure.
 
 The important thing is that not all of this can be denied.
 
-Speed ​​comes with risk. Accident, malfunction, death. All of them exist as reality. The choice to run despite this cannot be explained by rationality alone.
+速度にはリスクが伴う。事故、故障、死。そのすべてが現実として存在する。それでもなお走るという選択は、合理性だけでは説明できない。
 
 Here, speed turns into "philosophy."
 
@@ -132,7 +132,7 @@ Wangan Midnight depicts a series of such choices.
 
 Wangan Midnight is not just fiction, but is closely tied to real street culture.
 
-From the late 1980s to the 1990s, an informal racing culture existed in Japan's urban areas on expressways. In particular, the Metropolitan Expressway Bayside Route was one of its central locations.
+1980年代後半から1990年代にかけて、日本の都市部では高速道路を舞台にした非公式なレース文化が存在していた。特に首都高速湾岸線は、その中心的な場所の一つだった。
 
 Although this culture was not widely covered by the media, it definitely existed and attracted many young people.
 
@@ -150,7 +150,7 @@ A[Late 1980s: Formation of expressway culture] --> B[Development of tuning cultu
 B --> C[Unofficial race along the coastline]
 C --> D[Wangan Midnight serialization begins]
 D --> E[Expanding awareness through media]
-E --> F[Establishment as a culture]
+E --> F[文化としての定着]
 </div>
 
 > The story functions as a myth because of the reality of the street.
@@ -178,7 +178,7 @@ timeline
 
 ### "Wangan Midnight Original Soundtrack"
 
-A soundtrack that includes songs used in the anime version (2007).
+A soundtrack containing songs used in the anime version (2007).
 
 The characteristic is "suppression".
 Although it is mainly synth-based, it is not flashy, and is built with plain repetition and bass grooves.
@@ -201,7 +201,7 @@ The music is designed to present the temperature of the city and speed as it is,
 Anime opening theme.
 
 Although it has a rock-oriented structure, it is characterized by a balance that does not overheat.
-Rather than a "battle", it expresses the "feeling of being drawn towards fate".
+“戦い”というより“運命に引き寄せられる感覚”を表現している。
 
 ---
 
@@ -209,12 +209,12 @@ Rather than a "battle", it expresses the "feeling of being drawn towards fate".
 
 A song that embodies the work's symbolic tone.
 
-・Repetitive beat
+・反復的なビート
 ・Low-slung synth
 ・Composition with a lot of white space
 
 This song feels more like ""drifting" than ""running".
-It creates a unique immersive feeling that makes you feel like you are melting into the city.
+It creates a unique sense of immersion, where you feel like you are melting into the city.
 
 ---
 
@@ -236,7 +236,7 @@ In the arcade game series, the music takes a slightly different direction.
 ### "Maximum Tune Original Soundtrack"
 
 Composer: Yuzo Kodai.
-Here, there is a shift to more "music for running."
+ここではより“走るための音楽”にシフトしている。
 
 Features:
 

@@ -22,7 +22,7 @@ title: '[Column] The 100 most influential albums in music history: A new music h
 
 ### **"The moment when dub became a technique for composing 'space itself'"**
 
-""Super Ape'', released in 1976, is a historical work that elevated dub from a mere derivative of reggae to an independent musical expression that uses the recording studio itself as a place of creation.
+""Super Ape'', released in 1976, is a historic work that elevated dub from a mere derivative of reggae to an independent musical expression that uses the recording studio itself as a place of creation.
 
 Producer Lee "Scratch" Perry treated the studio, which had previously been thought of as a place to record performances, as an "instrument."
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ## A revolution born of Jamaican recording culture
 
-In Jamaica in the 1970s, there was a culture of editing a single recorded material multiple times to create a new work in order to make the most of expensive studio equipment.
+In Jamaica in the 1970s, in order to make the most of expensive studio equipment, there was a culture of editing a single recorded material multiple times to create a new work.
 
 The central figure is Lee "Scratch" Perry.
 
@@ -119,7 +119,7 @@ Reverberation rising from the gaps in the sound.
 
 Lee "Scratch" Perry wasn't playing an instrument, he was playing "space."
 
-This idea would later be inherited by the ambient work of Brian Eno, the trip-hop of Massive Attack, the minimal dub techno of Basic Channel, and even UK bass music after Burial.
+This idea would later be inherited by Brian Eno"s ambient work, Massive Attack"s trip-hop, Basic Channel's minimal dub techno, and even post-Burial UK bass music.
 
 ---
 
@@ -129,7 +129,7 @@ Super Ape's influence goes far beyond reggae.
 
 In hip-hop in the 1980s, the spatial processing of dub was linked to sampling culture, and in the 1990s trip-hop and dub techno inherited this idea.
 
-Furthermore, since the 2000s, methods of designing spaces centered around bass have become an important expression in dubstep and experimental electronica.
+Furthermore, since the 2000s, methods of designing spaces centered on bass sounds have become an important expression in dubstep and experimental electronica.
 
 Today's mixes, which make full use of automation and spatial effects, are carried out on DAWs, and this philosophy still remains strong.
 
@@ -141,7 +141,7 @@ Today's mixes, which make full use of automation and spatial effects, are carrie
 
 Its innovations have had a long-lasting impact on fields as diverse as recording technology, production, club culture, electronic music, and hip-hop.
 
-In this ranking, works that fundamentally changed the recording technology itself were ranked 71st, as we place them higher, but the idea of ​​""composing space'' that this work shows continues to be one of the foundations of contemporary music production.
+This ranking ranks 71st because works that fundamentally changed the recording technology itself are placed higher, but the idea of ​​""composing space'' that this work shows continues to be one of the foundations of contemporary music production.
 
 > **"'Super Ape' transformed a recording studio into a performance venue and established dub as a spatial art. Due to its innovation, it is ranked 71st in this ranking."**
 
@@ -190,7 +190,7 @@ The biggest feature of this work is its handling of breakbeats.
 
 In traditional dance music, rhythm was a device for synchronizing the bodies.
 
-However, by breaking down the beat and rearranging it, Gerald turned time itself into an object of editing.
+But by breaking down the beat and rearranging it, Gerald turned time itself into an object of editing.
 
 The drum sways even as it accelerates,
 
@@ -255,11 +255,11 @@ It is no exaggeration to say that current UK bass music is an extension of the s
 
 ## Why is it ranked 72nd?
 
-""Black Secret Technology'' is an important work that matured jungle from the fragmented sound of urban culture to artistic electronic music.
+""Black Secret Technology'' is an important work that matured jungle from the fragmented sounds of urban culture to artistic electronic music.
 
-His accomplishments in developing breakbeat into a time-editing technique were significant, and became an important starting point for the genealogy that would later extend to drum"n"bass, UK garage, grime, and dubstep.
+His accomplishments in developing breakbeat into a time-editing technique were significant, and became an important starting point for the lineage that would later extend to drum and bass, UK garage, grime, and dubstep.
 
-In this ranking, works that place emphasis on subsequent cultural repercussions are placed higher than works that institutionalize the jungle itself, so we placed it in 72nd place, but the idea that this work shows is to ""depict the multilayered nature of the city through sound'' is the basis of contemporary UK electronic music.
+In this ranking, works that place emphasis on subsequent cultural repercussions are placed higher than works that institutionalize the jungle itself, so we placed it at 72nd place, but the idea of ​​""depicting the multilayered nature of the city through sound'' that this work shows is the basis of contemporary UK electronic music.
 
 > **"'Black Secret Technology' evolved breakbeat into a time-editing technique and sublimated jungle into the sonic language of the city. Due to its historical significance, it is ranked 72nd in this ranking."**
 
@@ -275,7 +275,7 @@ In this ranking, works that place emphasis on subsequent cultural repercussions 
 
 ""New Forms'', released in 1997, is a historical work that shows that drum and bass has made a leap from underground club culture and has been established as a comprehensive musical expression.
 
-Roni Size & Reprazent gave drum"n"bass a new range of expression, fusing jazz, soul, hip-hop, and live performance without losing the wild energy that jungle had always possessed.
+Roni Size & Reprazent gave drum"n"bass a new range of expression, fusing jazz, soul, hip-hop, and live performance without losing the wild energy of jungle.
 
 This work won the Mercury Prize in 1997 and is widely known as a work that showed that club music could receive the same artistic recognition as rock and jazz.
 
@@ -299,7 +299,7 @@ breakbeats.
 
 ""New Forms'' was born in an environment where these things naturally intersect.
 
-Bristol was an important testing ground for British music in the 1990s, with the likes of Massive Attack, Portishead and Tricky also emerging from the same city.
+Bristol was an important testing ground for British music in the 1990s, with the likes of Massive Attack, Portishead and Tricky emerging from the same city.
 
 However, rather than the introspective nature of trip-hop, Roni Size forged a path of his own, combining jazz-like playability and composition while maintaining the vibrancy of club culture.
 
@@ -307,7 +307,7 @@ However, rather than the introspective nature of trip-hop, Roni Size forged a pa
 
 ## Fusion of programming and live music
 
-The innovation of ""New Forms'' lies in the fact that it was designed to complement and complement each other, rather than being in opposition to live performance.
+The innovation of ""New Forms'' lies in the fact that it was designed so that typing and live performance were not opposed to each other, but complemented each other.
 
 A breakbeat played at high speed.
 
@@ -317,7 +317,7 @@ Improvisation on saxophone and keyboard.
 
 A rich melody with female vocals.
 
-These do not exist separately, but are integrated as one organic sound.
+These do not exist separately, but are integrated into one organic sound.
 
 Jungle"s mechanical editing techniques and jazz"s human improvisation.
 
@@ -350,7 +350,7 @@ E --> H
 
 ---
 
-## Establishment of "listening club music"
+## Establishment of "listening to club music"
 
 Until the mid-1990s, many drum"n"bass works were created with DJ use in mind.
 
@@ -405,13 +405,13 @@ In this ranking, works that pioneered the genres of jungle and drum"n"bass were 
 
 ### **"The moment when rock and rave became "the same culture"**
 
-**Screamadelica**, released in 1991, is a historical work that completely erased the boundaries that existed between rock and club music, and determined the musical culture from the 1990s onwards.
+**Screamadelica**, released in 1991, is a historical work that completely erased the boundaries that existed between rock and club music and determined the music culture from the 1990s onwards.
 
-Until then, there was a clear distinction between rock and dance music, which was music played by a band and dance music which was played by a DJ.
+それまでロックは「バンドが演奏する音楽」、ダンス・ミュージックは「DJが再生する音楽」という明確な区別が存在していた。
 
 But Primal Scream overturns that assumption with this album.
 
-Boldly incorporating acid house, dub, psychedelia, gospel, sampling, and club mixes into the rock lineup of guitar, bass, and drums, they presented a new sense of values ​​of ""dancing to rock.''
+They boldly incorporated acid house, dub, psychedelia, gospel, sampling, and club mixes into the rock lineup of guitar, bass, and drums, and presented a new sense of value called ""dancing to rock.''
 
 Screamadelica is more than just a fusion of genres.
 
@@ -431,7 +431,7 @@ The Stone Roses
 
 808 State
 
-These artists had been experimenting with the fusion of band performance and dance music, and Screamadelica took that trend one step further.
+These artists had been experimenting with the fusion of band performance and dance music, and Screamadelica took that trend a step further.
 
 Rather than ""quoting'' club culture, Primal Scream dived fully into it.
 
@@ -530,7 +530,7 @@ Its influence extends to big beat, electronic rock, Britpop and even contemporar
 
 In this ranking, works that created club music itself and works that fundamentally changed the structure of electronic music were ranked 74th, so the idea that ""rock and dance music are not in conflict'', which this work showed, became an important premise for popular music for over 30 years afterward.
 
-> **"'Screamadelica' integrated rock and club culture into one culture, redefining British music from the 1990s onwards. Due to its historical significance, it is ranked 74th in this ranking."**
+> **"'Screamadelica' integrated rock and club culture into one culture, redefining British music from the 1990s onwards. Due to its historical significance, we rank it at number 74 in this ranking."**
 
 ---
 
@@ -544,7 +544,7 @@ In this ranking, works that created club music itself and works that fundamental
 
 **Since I Left You**, released in 2000, is a historical work that liberated the technique of sampling from mere quotation and beat-making and sublimated it into a musical language for constructing ""memories" and ""stories."
 
-The Avalanches, hailing from Melbourne, Australia, have collaged together thousands of fragments of existing sound sources, creating an entire album into a dream-like world.
+Hailing from Melbourne, Australia, The Avalanches collaged together thousands of fragments of existing sound sources, creating an entire album into a dream-like world.
 
 What's important here is not "which song was sampled."
 
@@ -592,7 +592,7 @@ latin music.
 
 Music from all over the world is cut into pieces and rearranged into new contexts.
 
-Each quotation may be short, but when they accumulate, they create ""nostalgic music that no one has ever heard before''.
+Each quotation may be short, but when they accumulate, they create ""nostalgic music that no one has ever heard before.''
 
 This feeling was the result of a re-editing of 20th century recording culture itself.
 
@@ -665,13 +665,13 @@ The idea that ""by combining existing materials, you can create completely new w
 
 ## Why is it ranked 75th?
 
-""Since I Left You" is a historical work that evolved sampling from a beat-making technique to an ""art of building memories and stories."
+""Since I Left You" is a historic work that evolved sampling from a beat-making technique to an ""art of building memories and stories."
 
 Its influence extends to electronica, hip-hop, indie pop, and even the remix culture of the internet age.
 
 In this ranking, works that have historically established the sampling technique itself are ranked 75th, so the idea of ​​""creating future music by re-editing past recording culture'' that this work shows is an important turning point that symbolizes music production in the 21st century.
 
-> **""'Since I Left You' has evolved sampling into a technique for composing memories, rather than quoting it. Due to its innovation, it ranks No. 75 in this ranking.''**
+> **""'Since I Left You' evolved sampling into a ""technique for composing memories" rather than quoting it.Due to its innovation, it ranks 75th in this ranking."**
 
 ---
 
@@ -685,11 +685,11 @@ In this ranking, works that have historically established the sampling technique
 
 Released in 1993, ""69: The Sound of Music'' is a historic work by Carl Craig, a representative of the second generation of Detroit techno, who expanded techno from functional club music to pure acoustic art.
 
-If Juan Atkins envisioned cities of the future, Derrick May gave machines emotion, and Kevin Saunderson connected them to club culture, Carl Craig took things a step further.
+If Juan Atkins envisioned cities of the future, Derrick May gave machines emotion, and Kevin Saunderson connected them to club culture, Carl Craig took things even further.
 
 The aim is to expand techno into ""music for listening and thinking" rather than ""music for dancing".
 
-""The Sound of Music'' heralded the coming of age of Detroit techno, and served as a major turning point for the subsequent minimal techno, IDM, and electronica.
+""The Sound of Music'' signaled the coming of age of Detroit techno, and was a major turning point for the subsequent minimal techno, IDM, and electronica.
 
 ---
 
@@ -727,7 +727,7 @@ Subdued beat.
 
 At first glance, there are not many changes.
 
-However, if you listen closely, you will notice that the timbre, localization, reverberation, and rhythmic fluctuations are constantly changing.
+However, if you listen carefully, you will notice that the timbre, localization, reverberation, and rhythmic fluctuations are constantly changing.
 
 Carl Craig was designing "space" rather than piling up notes.
 
@@ -778,7 +778,7 @@ This aesthetic would be inherited by later Basic Channel, Ricardo Villalobos, Pl
 
 ## Techno living "outside the club"
 
-Carl Craig's greatest accomplishment was proving that techno was not only a music that existed in clubs.
+Carl Craig's greatest accomplishment was proving that techno was not just a music that existed in clubs.
 
 Concentrate on listening at home.
 
@@ -814,7 +814,7 @@ In this ranking, we ranked 76th because the works that created the techno genre 
 
 ### **"The moment when ambient music became an art of composing the journey itself"**
 
-""Chill Out", released in 1990, is an epoch-making work in the history of ambient music that takes the concept of environmental music one step further and transforms ""moving landscape" itself into music.
+""Chill Out", released in 1990, is an epoch-making work in the history of ambient music that takes the concept of environmental music one step further and converts ""moving landscape" itself into music.
 
 The KLF, which produced it, was known as a dance unit that had produced stadium-sized hits up until then. However, this album, released in the midst of that success, was an experiment in the opposite direction of a commercial hit.
 
@@ -848,7 +848,7 @@ A culture called ""chill out'' was born out of this trend.
 
 However, this work is not just BGM.
 
-The entire album tells a story of leaving the city at the end of the night and continuing your journey towards the morning sun.
+The entire album tells the story of leaving the city at the end of the night and continuing your journey towards the morning sun.
 
 ---
 
@@ -937,7 +937,7 @@ The KLF developed Brian Eno's idea of ​​""music as an environment" into ""mu
 
 ## Why is it ranked 77th?
 
-Chill Out is a historical work that evolved ambient music from static environmental music to a moving narrative space.
+Chill Out is a historical work that evolved ambient music from static environmental music to a constantly moving narrative space.
 
 His influences range from ambient house, sound art, field recording, and cinematic electronica.
 
@@ -1066,7 +1066,7 @@ Video music.
 
 Sound design for VR space.
 
-Today, much of the ""music that designs environments'' inherits the ideas of this work.
+Today, much of the ""music used to design environments'' inherits the ideas of this work.
 
 ---
 
@@ -1090,13 +1090,13 @@ It was here that electronic music evolved from ""music for dancing" to ""a space
 
 ## Why is it ranked 78th?
 
-""Lifeforms" is a monumental work that develops ambient music from being just quiet music to ""the art of designing living environments."
+""Lifeforms" is a monumental work that develops ambient music from just quiet music to ""the art of designing living environments."
 
-Its influence has spread to IDM, electronica, game music, sound installations, and other sonic culture since the 1990s.
+Its influence has spread to the entire sonic culture since the 1990s, including IDM, electronica, game music, and sound installations.
 
-In this ranking, works that established the very concept of ambient and works that created the basic structure of electronic music are placed higher, so we placed it at 78th place. However, the idea of ​​""designing music as an ecosystem'' presented by this work is an important turning point that forms the basis of modern sound design.
+In this ranking, works that established the concept of ambient itself and works that created the basic structure of electronic music are placed higher, so we placed it at 78th place. However, the idea of ​​""designing music as an ecosystem'' presented by this work is an important turning point that forms the basis of modern sound design.
 
-> **""'Lifeforms" evolved electronic music from a song to an "ecosystem' and expanded into an art that creates the acoustic space itself. Due to its historical significance, it is ranked 78th in this ranking.''**
+> **""'Lifeforms" evolved electronic music from a song to an "ecosystem' and expanded it into an art that creates the acoustic space itself. Due to its historical significance, it is ranked 78th in this ranking.''**
 
 ---
 
@@ -1108,7 +1108,7 @@ In this ranking, works that established the very concept of ambient and works th
 
 ### **"The moment Berlin turned techno into architecture"**
 
-In 1995, **Basic Channel** (Moritz von Oswald / Mark Ernestus) released **BCD**, a work that proved that ""reducing the sound'' could be the greatest innovation in the history of techno.
+In 1995, **Basic Channel** (Moritz von Oswald / Mark Ernestus) released **BCD**, proving that ""reducing the sound'' could be the greatest innovation in the history of techno.
 
 Detroit techno in the 1980s envisioned a futuristic city, and raves in the early 1990s created a huge amount of energy.
 
@@ -1132,7 +1132,7 @@ What was needed was
 
 It's not a flashy melody.
 
-A sound that will not make you tired even if you keep playing it for a long time.
+A sound that you won't get tired of even if you keep playing it for a long time.
 
 Bass that permeates the entire building.
 
@@ -1158,7 +1158,7 @@ Blank.
 
 They become as important as the performance.
 
-Basic Channel transferred this idea to techno.
+Basic Channel transferred this philosophy to techno.
 
 Beats are minimal.
 
@@ -1274,11 +1274,11 @@ This idea has become an extremely important foundation for electronic music prod
 
 ""BCD"' is a historical work that established Berlin"s unique spatial aesthetic while inheriting Detroit techno.
 
-His influence extends to dub techno, minimal techno, sound art, and even acoustic design in architectural spaces.
+His influence extends to dub techno, minimal techno, sound art, and even the acoustic design of architectural spaces.
 
-In this ranking, works that created the genre of techno itself and works that changed the fundamental structure of electronic music are placed higher, so we placed it at 79th place. However, the idea that ""sound can become architecture'' that this work showed was an important turning point that determined electronic music after Berlin.
+In this ranking, works that created the techno genre itself and works that changed the fundamental structure of electronic music are placed higher, so we placed it at 79th place. However, the idea that ""sound can become architecture'' that this work showed was an important turning point that determined electronic music after Berlin.
 
-> **"'BCD" elevated techno to an architectural space and established a new aesthetic of "music that listens to time and reverberation.' Due to its historical significance, it is ranked 79th in this ranking."**
+> **"'BCD" sublimated techno into an architectural space and established a new aesthetic of "music that listens to time and reverberation.' Due to its historical significance, it is ranked 79th in this ranking."**
 
 ---
 
@@ -1356,7 +1356,7 @@ A minute synthesizer drifts through space,
 
 The reverberations change shape little by little.
 
-Sounds that didn't exist a few minutes ago suddenly change the scenery.
+Sounds that didn't exist a few minutes ago suddenly changed the scenery.
 
 There are no "incidents" happening here.
 
@@ -1421,7 +1421,7 @@ Loscil was able to depict the urban landscape as sound.
 
 Taylor Deupree and the 12k label have made "minor changes" an aesthetic.
 
-Furthermore, this idea has been widely inherited in environmental music, game music, meditation music, and sound design for architectural spaces.
+Furthermore, this idea has been widely inherited in everything from environmental music, game music, meditation music, and sound design for architectural spaces.
 
 This work established a new sense of value: not ""music that makes you listen to something," but ""music that lets you experience the passage of time."
 
@@ -1431,9 +1431,9 @@ This work established a new sense of value: not ""music that makes you listen to
 
 ""76:14'' is a definitive work that developed ambient music from spatial art to **temporal art**.
 
-The idea of ​​transforming perception through an accumulation of minute changes, rather than through dramatic development or technique, had a deep influence on subsequent contemporary ambient music, sound installations, and environmental sound design.
+The idea of ​​transforming perception through an accumulation of minute changes, rather than dramatic developments or techniques, had a deep influence on subsequent contemporary ambient music, sound installations, and environmental sound design.
 
-In this ranking, ""Ambient 1: Music for Airports" (26th place), which created the concept of ambient music, and ""Lifeforms" (78th place), which expanded electronic music as an ecosystem, are ranked higher, so we placed it at 80th place. However, ""76:14" acts as an important bridge between the two, and is a work that determined the direction of 21st century ambient music as ""music that designs time."
+In this ranking, ""Ambient 1: Music for Airports" (26th place), which created the concept of ambient music, and ""Lifeforms" (78th place), which expanded electronic music as an ecosystem, are ranked higher, so it was ranked 80th. However, ""76:14" acts as an important bridge between the two, and is a work that determined the direction of 21st century ambient music as ""music that designs time."
 
 > **"'76:14" evolved ambient music from "music of space" to "music of time'. It is ranked 80th in this ranking as a historical work that shows that electronic music can design perception itself."**
 

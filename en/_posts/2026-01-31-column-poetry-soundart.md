@@ -21,7 +21,7 @@ title: '[Column] Poetry reading and sound art: A history of expression where voi
 
 Text: mmr｜Theme: Tracing the history of the evolution of poetry and sound expression since the 20th century, which was born from the combination of voice and words with sound.
 
-Poetry reading and sound art are both often talked about as ""expressions received by the ears.'' However, when one stands at the intersection of the two, what emerges is not just recitation or music, but a unique experience that involves time and space. The voice not only carries meaning, but also takes on texture, rhythm, and physicality, and the sound is freed from melody and harmony and expanded into the environment itself. In this liminal area, poetry has been transformed into an auditory art.
+Poetry reading and sound art are both often talked about as ""expressions received by the ears.'' However, when one stands at the intersection of the two, what emerges is not just recitation or music, but a unique experience that involves time and space. The voice not only carries meaning, but also takes on texture, rhythm, and physicality, and sound is freed from melody and harmony and expanded into the environment itself. In this liminal area, poetry has been transformed into an auditory art.
 
 > Knowing the relationship between poetry reading and sound art leads to understanding how the boundaries between words and sounds have been shaken.
 
@@ -60,11 +60,11 @@ With the spread of printing technology, poetry became fixed on paper, and the ac
 
 ### Dada and audio poetry
 
-The Dada movement, born during World War I, rejected meaning and logic and brought sound itself to the fore. Hugo Ball's phonetic poetry is known as an attempt to break down words into syllables and treat the voice like an instrument. Here, poetry no longer became a means of conveying meaning, but a sound phenomenon itself.
+The Dada movement, born during World War I, rejected meaning and logic and brought sound itself to the fore. Hugo Ball's audio poetry is known for his attempts to break down words into syllables and treat the voice like an instrument. Here, poetry no longer became a means of conveying meaning, but a sound phenomenon itself.
 
 ### Futurism and noise
 
-Italian Futurism brought mechanical and urban noise into art. Their reading performances emphasize shouts, onomatopoeia, and rhythm, blurring the boundaries between poetry, music, and noise.
+Italian Futurism brought mechanical and urban noise into art. Their recitation performances emphasize shouts, onomatopoeia, and rhythm, blurring the boundaries between poetry, music, and noise.
 
 > The avant-garde liberated the voice from meaning and rediscovered it as sound.
 
@@ -152,7 +152,7 @@ E --> F[1980s Poetry x Sound Collaboration]
 F --> G[2000s digital reading]
 </div>
 
->Throughout history, voices and sounds have been repeatedly separated and reconnected.
+>Throughout history, voices and sounds have repeatedly been separated and reconnected.
 
 ---
 
@@ -192,7 +192,7 @@ Poetry reading is an expression that makes one strongly aware of the existence o
 
 ### The importance of improvisation
 
-When collaborating with sound art, improvisational vocalizations and reactions are often more important than fixed texts. Poetry becomes a process generated on the spot rather than a completed work.
+When collaborating with sound art, improvisational vocalizations and reactions are often more important than fixed texts. Poetry becomes a process generated on the spot rather than a finished work.
 
 > Improvisation, including the body, creates a tension between poetry and sound.
 
@@ -220,7 +220,7 @@ A reading performance is essentially a one-time event. Audio recordings and vide
 
 ### Sound as an archive
 
-Still, audio archives are an important source of information about the history of poetry and sound art. By listening and comparing voices from different eras, changes in expression become clear.
+Still, audio archives are an important source of information about the history of poetry and sound art. By listening to and comparing voices from different eras, changes in expression become clear.
 
 > Recorded voices connect past time to the present.
 

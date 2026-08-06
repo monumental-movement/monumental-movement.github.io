@@ -13,7 +13,7 @@ title: Rainstar – Breakdown
 
 
 
-Rainstar is a project by Alan Dwyer, Alan McLeod, Danny Weaver, and Paul Spencer, founding member of the UK dance trio Dario G.
+Rainstar is a project by Alan Dwyer, Alan McLeod, Danny Weaver, and Paul Spencer, founding member of UK dance trio Dario G.
 
 "Breakdown" is a House track that samples Ray Parker Junior"s "Always Thinking Of You," released in 2001 on Warner Music UK"s Eternal label.
 

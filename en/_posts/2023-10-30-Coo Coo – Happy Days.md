@@ -13,7 +13,7 @@ title: Coo Coo – Happy Days
 ---
 
 
-Coo Coo is an Italo disco pop group representing the 1980s Eurobeat high-energy scene produced by Mauro Farina, Giuliano Crivellente, and Florian Fadinger (F.C.F.).
+Coo Coo is an Italo disco pop group representing the 1980s Eurobeat high energy scene produced by Mauro Farina, Giuliano Crivellente, and Florian Fadinger = F.C.F.
 
 "Happy Days" is Coo Coo's signature song, released by Flea Records in 1989.
 

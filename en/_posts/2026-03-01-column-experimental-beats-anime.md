@@ -23,7 +23,7 @@ Text: mmr | Theme: How has experimental beat updated anime music and expanded vi
 Electroacoustics, ethnic percussion, sampling, breakbeats, ambient processing.
 These are not just decorations, but have been incorporated into anime works as structures that create a worldview.
 
-This article focuses on representative examples from the late 1980s onwards, and examines how experimental beats have penetrated anime music and changed its narrative structure and cultural reception from the perspectives of works, composers, and sound techniques.
+This article focuses on representative examples from the late 1980s onwards, and examines how experimental beats have penetrated anime music and changed its narrative structure and cultural reception, from the perspectives of works, composers, and sound techniques.
 
 ---
 
@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-Experimental Beats × Anime Soundtrack refers to the phenomenon in which music that incorporates electronic acoustics, avant-garde percussion instrumentation, non-homogeneous rhythm structures, and sampling culture functions as the accompaniment, theme song, and insert song for animation works.
+Experimental Beats × Anime Soundtrack refers to the phenomenon in which music that incorporates electronic acoustics, avant-garde percussion instrumentation, non-homogeneous rhythm structures, and sampling culture functions as the soundtrack, theme song, and insert song for animation works.
 
 This does not simply mean "using electronic music."
 The essence is that the construction of the rhythm itself is linked to video editing, camera work, and worldview setting.
@@ -76,7 +76,7 @@ Unlike conventional symphonic accompaniment, it is important that the rhythm has
 
 Kenji Kawai, who was in charge of the music for GHOST IN THE SHELL released in 1995, combined electronic sounds and religious melodies.
 
-Polyphonic chorus referencing Bulgarian voices, inorganic synth pads, and low-frequency beats.
+A polyphonic chorus that references Bulgarian voices, an inorganic synth pad, and a low-frequency beat.
 This is an example of expressing the tension between physicality and mechanicality through sound.
 
 In Cowboy Bebop, which aired in 1998, Yoko Kanno freely traversed jazz, big band, funk, and electronica.
@@ -107,10 +107,10 @@ In PSYCHO-PASS, which aired in 2012, Yugo Kanno combined deep bass electronics a
 A sense of urban tension was created using low-frequency beats.
 
 Yoko Kanno was in charge again in 2014's Terror of Reverberations.
-Ambient processing, ambient sound textures and minimal rhythms.
+Ambient processing, ambient sound textures, and minimal rhythms.
 The contrast between the silence and the beat created psychological tension.
 
-During this era, a variety of electronic music such as EDM, ambient, and post-rock was incorporated into anime soundtracks.
+During this period, a variety of electronic music such as EDM, ambient, and post-rock was incorporated into anime soundtracks.
 
 > Experimental beats have moved to a stage where they function as spatial design rather than flashiness.
 

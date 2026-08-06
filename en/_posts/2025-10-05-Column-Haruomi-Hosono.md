@@ -20,7 +20,7 @@ Text: mmr｜Theme: From Happy End to YMO to ambient music—tracing the "soundsc
 
 **Haruomi Hosono** is a musician who has continued to transform Japanese pop music for half a century.
 From the late 1960s to the present, his music has carved out a unique horizon by ""shifting the era" rather than ""defining the era."
-Diverse cultures, humor, nostalgia, technology—all of these are blended into Hosono's sound.
+Diverse cultures, humor, nostalgia, technology—all of which blend into Hosono's sound.
 
 ---
 
@@ -60,7 +60,7 @@ A friend added sound effects and laughter to the tape recordings, and his sense 
 #### Representative work: "Kazamachi Roman" (1971)
 A monumental work that depicts the poetic atmosphere of the city of Tokyo in the context of rock for the first time.
 During this period, Hosono played an important role in composing music while also playing bass.
-Songs such as ""It's Summer" and ""Gather the Wind" are characterized by their urban yet somehow nostalgic sounds.
+Songs such as ""It's Summer" and ""Gather the Wind" have an urban yet nostalgic sound.
 
 #### Historical background
 In the midst of high economic growth after the war.
@@ -72,7 +72,7 @@ Recordings at that time were made at Yotsuya Onkyo House's predecessor studio. W
 Although influenced by American bands such as The Band and Buffalo Springfield, they put literary Japanese lyrics to the fore.
 
 #### Anecdote
-Hosono, who was frustrated by the number of equipment problems during recording, reportedly said, ""I want a place where I can record the sound a little better.''
+Hosono, who was frustrated by the number of equipment problems during recording, is said to have said, ""I want a place where I can record the sound a little better.''
 After that, it became the foundation for him to pursue his own sonic ideals.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -109,7 +109,7 @@ This experience led to his later work on the Tropical Trilogy and YMO's sense of
 - "Tin Pan Alley" (1977)
 
 Blues, R&B, and Beatles-style pop are digested in Japanese, with a focus on music played at school festivals and live music venues in Tokyo.
-Hosono was in charge of bass and composition, demonstrating an early urban sensibility.
+Hosono was in charge of bass and composition, demonstrating his early urban sensibilities.
 
 #### Historical background
 The nascent period of urban pop-rock in Japan, influenced by the Beatles and the Rolling Stones.
@@ -142,7 +142,7 @@ Japan after the oil shock. My yearning for overseas travel and exotic cultures g
 In television and movies, the idea that ""tropical countries = healing" spread, and in music, ""imaginary resorts" became a theme.
 
 #### Production environment
-Recorded at home/studio "HOSONO HOUSE" (Saitama, Sayama).
+Recorded at home/studio "HOSONO HOUSE" (Sayama, Saitama).
 They converted the living room of a wooden house into a studio and recorded using analog tape and a simple mixer.
 This home recording style became the origin of later city pop and home recording culture.
 
@@ -166,7 +166,7 @@ YMO (Yellow Magic Orchestra) is a revolutionary unit that spread the word techno
 As a leader, Hosono used rhythm machines and sequencers to fuse Asian humor and futuristic sounds.
 
 #### Historical background
-In the early 1980s, Japan reached the peak of its technological and economic prosperity.
+In the early 1980s, Japan reached the peak of its technological and economic growth.
 A time when the development of computers, video games, and electronic musical instruments were fused with music.
 YMO's sound was a symbol of Japan as an electronic nation.
 
@@ -193,7 +193,7 @@ The audience laughed, and so did the members. Hosono is said to have said, ""Mac
 On the other hand, ""Omni Sight Seeing" combines elements of ethnic music and environmental sounds, depicting the culmination of a ""sonic journey".
 
 #### Historical background
-Japan during the bubble economy. In the midst of a culture of excessive consumption, Hosono's music, on the contrary, is oriented toward ""silence" and ""space."
+Japan during the bubble economy. In the midst of an excessive consumer culture, Hosono's music, on the contrary, is oriented toward ""silence" and ""space."
 Around the world, Brian Eno, Jon Hassell, and others were advocating ambient music, and Hosono was in line with that trend.
 
 #### Production environment
@@ -202,14 +202,14 @@ An experimental process that interweaves "tape fragments" and "environmental sou
 The living room was used as a recording booth, and even the echoes from the furniture became part of the sound.
 
 #### Anecdote
-It is said that in the recording of ""Philharmony," he used the sound of a cat's cry, which he happened to hear, as the ""sound material."
+In the recording of ""Philharmony," it is said that he used the sound of a cat's cry, which he happened to hear, as a ""sound material."
 Hosono jokingly said, ""Music is about living with chance.''
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCAt_v_VDEc?si=JNiOG-MhlGPzdQxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Chapter 7: Music of the Landscape – Soundtracks and Ambient Sounds (1990–2000)
+### Chapter 7: Landscape Music - Soundtracks and Ambient Sounds (1990–2000)
 
 #### Representative works:
 - "Night on the Galactic Railway" (1985)
@@ -217,7 +217,7 @@ Hosono jokingly said, ""Music is about living with chance.''
 - "N.D.E." (1995)
 
 It was a time when he worked on music for a wide variety of media, including animation, movies, and commercials.
-""Night on the Galaxy Express"' shines with delicate compositions that seem to translate Kenji Miyazawa"s fantasy literature into sound.
+""Night on the Galactic Railway"' shines with delicate compositions that seem to translate Kenji Miyazawa"s fantasy literature into sound.
 
 #### Historical background
 After the bursting of the bubble economy, Japan's values ​​have been shaken.
@@ -251,7 +251,7 @@ After the earthquake and economic stagnation, Japanese society began to seek a "
 Hosono embodies this trend through his sounds, saying, ""Nostalgia illuminates the future.''
 
 #### Production environment
-"Daisyworld Studio" is a private studio in Nakameguro.
+"Daisyworld Studio" is a private studio established in Nakameguro.
 Uses vintage microphone, tape echo, and upright piano.
 During the recording, he turned off the air conditioner and focused on "breathing the sound."
 

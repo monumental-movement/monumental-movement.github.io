@@ -71,7 +71,7 @@ Performance is not about demonstrating physical skill, but rather about setting 
 
 Alvin Lucier is a composer who places the physical behavior of sound waves at the center of his works. In his works, the composer's intentional manipulation is kept to a minimum, and the acoustic phenomena unfold autonomously.
 
-In his masterpiece, I Am Sitting in a Room, the recited audio is repeatedly played back and re-recorded in the same space, emphasizing the room's unique resonant frequencies, until the language disappears. This process clearly illustrates the transition of sound from information to physical phenomenon.
+In his masterpiece, I Am Sitting in a Room, the recited audio is repeatedly played back and re-recorded in the same space, emphasizing the room's unique resonant frequencies, until the language disappears. This process clearly shows how sound moves from information to physical phenomenon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -112,7 +112,7 @@ The audience's standing position and movement are factors that change the acoust
 
 ### 5-1 Guitar and digital processing
 
-Christian Fennesz deconstructs and reconstructs electric guitar sounds through digital processing. The original sound is altered through effect processing and computer calculations, and the causal relationship between performance actions and auditory results becomes unclear.
+Christian Fennesz uses digital processing to deconstruct and reconstruct electric guitar sounds. The original sound is altered through effect processing and computer calculations, and the causal relationship between performance actions and auditory results becomes unclear.
 
 ### 5-2 Noise and resolution
 

@@ -23,7 +23,7 @@ Looking back at the history of music since the 1970s, there are not many people 
 
 Holger Czukay was one of those few.
 
-He's not a "bassist" in the general sense of the word. Of course, his performances at CAN were important, but he was essentially a ""sound editor," a ""space builder," and an ""accidental discoverer.''
+He's not a "bassist" in the general sense of the word. Of course, his performances at CAN were important, but he was essentially a "sound editor," a "space builder," and an "accidental discoverer."
 
 Noise from the radio.
 Shortwave broadcast fragment.
@@ -33,7 +33,7 @@ Reverse rotation of the tape.
 Editing mistake.
 A sound recorded by chance.
 
-He did not throw them away as "unnecessary noise".
+He did not discard them as "unnecessary noise".
 
 Rather, he saw the possibility of new music there.
 
@@ -75,7 +75,7 @@ This area corresponds to present-day Gdańsk, Poland.
 
 His childhood was deeply tied to the turmoil of World War II.
 
-At the end of the war, like many Germans, he was evacuated.
+At the end of the war, like many German residents, he was evacuated.
 
 It is believed that this sense of ""movement," ""loss," and ""fragmentation'' strongly influenced his acoustic sensibilities in later years.
 
@@ -112,7 +112,7 @@ Tape editing.
 minimalism.
 noise.
 
-Postwar Germany was disconnected from its "past culture" and was searching for new forms of expression.
+After the war, Germany was disconnected from its ""past culture'' and was searching for new forms of expression.
 
 One person at the center of this was Stockhausen.
 
@@ -209,9 +209,9 @@ What was important in CAN's recordings was the method of editing the enormous am
 
 This was quite innovative at the time.
 
-He records several hours of jams, then cuts and pastes the tapes into songs.
+He records several hours of jams, then cuts and pastes the tapes to create songs.
 
-A feeling similar to the later sampling culture and DAW editing already existed.
+A feeling similar to later sampling culture and DAW editing already existed.
 
 <div class="mermaid">
 flowchart TD
@@ -233,7 +233,7 @@ However, they took a method closer to "absorption" than "quotation."
 
 Rather than copying a specific genre, they reconstructed the structure itself.
 
-> CAN was a rock band, but it also existed like an "editing art group."
+>While CAN was a rock band, they also existed as an "editing art group."
 
 ---
 
@@ -265,7 +265,7 @@ A[Future Days] --> B[repetition]
 A --> C[environmental sounds]
 A --> D[floating feeling]
 A --> E[long time structure]
-B --> F[Ambient impact]
+B --> F[アンビエントへの影響]
 C --> F
 D --> F
 E --> F
@@ -290,13 +290,13 @@ Particularly in the experimental music scene since the 1990s, there has been a r
 
 ### Direction after leaving CAN
 
-From around 1977, Shukai gradually began to distance itself from CAN.
+From around 1977, Shukai gradually began to distance himself from CAN.
 
 After that, he shifted his focus to solo works.
 
 Here he becomes even more free.
 
-### Impact of "Movies"
+### 『Movies』の衝撃
 
 1979's ""Movies'' is known as his signature solo work.
 
@@ -306,16 +306,16 @@ Audio fragments picked up from shortwave radio.
 Middle Eastern melody.
 Repeating beats.
 
-It had a structure that made it difficult to classify it into existing genres.
+既存ジャンルへ分類しづらい構造だった。
 
 ### Sampling before sampling
 
 What is important is that this is a pre-digital work.
 
-He was editing by hand.
+彼は手作業で編集していた。
 
 Cut the tape,
-Paste,
+貼り、
 rotates backwards,
 I waited for a coincidence.
 
@@ -341,7 +341,7 @@ Radio waves.
 
 This is similar to the sense of fragmented information in the Internet era.
 
-It is not the complete information, but the charm of the broken signal.
+完成された情報ではなく、途切れた信号の魅力である。
 
 > Shukai has converted "sound fragments floating around the world" into music.
 
@@ -386,7 +386,7 @@ He moved away from melody-centeredness and constructed the auditory experience i
 
 This also applies to his later drone, acoustic, and electro-acoustic works.
 
-> Shukai moved in the direction of making sounds "exist" rather than "playing" them.
+> Shukai moved in the direction of making sounds "exist" rather than "performing" them.
 
 ---
 
@@ -448,7 +448,7 @@ In other words, he was ""a person who reached a digital sensibility before digit
 
 ---
 
-## Late life and re-evaluation
+## Late life and reevaluation
 
 ### CAN re-evaluation process
 
@@ -493,7 +493,7 @@ This is because his music is not just an "experiment from the past."
 
 Rather, it is strangely connected to the current information society.
 
-> Shukai's music was made with "future ears."
+> Shukai's music was created with "future ears."
 
 ---
 
@@ -539,7 +539,7 @@ Rather, it is strangely connected to the current information society.
 
 ## Why Holger Czukay still matters
 
-Holger Czukay cannot be described simply as a genre pioneer.
+Holger Czukay cannot be described simply as a "genre pioneer".
 
 He turned "recorded reality" into music.
 

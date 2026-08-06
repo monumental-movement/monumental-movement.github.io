@@ -117,7 +117,7 @@ Below is a specific example of a meditation playlist structure. The early part i
 | 35:00-40:30 | World"s End Rhapsody | Nujabes | Meditative melodies and samples |
 | 40:30-45:00 | Donuts (Outro) | J Dilla | Maintain immersion with beat loops |
 | 45:00-50:30 | Nightfall | Flying Lotus | Ambient and lingering |
-| 50:30-60:00 | A Long Journey | Marconi Union | Final stage relaxation, regulating heartbeat |
+| 50:30-60:00 | A Long Journey | Marconi Union | Relaxation at the end, regulating heartbeat |
 
 <div class="mermaid">
 sequenceDiagram

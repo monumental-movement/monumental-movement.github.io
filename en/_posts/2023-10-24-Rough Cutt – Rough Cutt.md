@@ -12,7 +12,7 @@ title: Rough Cutt – Rough Cutt
 ---
 
 
-Rough Cutt was an American heavy metal band from Los Angeles that included Ozzy Osbourne"s Jake E. Lee, Orgy"s Amir Derakh, and Quiet Riot's Paul Shortino.
+Rough Cutt is an American heavy metal band from Los Angeles that included Jake E. Lee of Ozzy Osbourne, Amir Derakh of Orgy, and Paul Shortino of Quiet Riot.
 
 #### Tracklist
 ```md

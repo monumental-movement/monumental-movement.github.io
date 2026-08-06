@@ -26,7 +26,7 @@ Although the term "alternative rock" became popular in the early 1990s, its orig
 
 In the 1980s, mainstream rock was centered on loud arena-sized hard rock, commercially polished AOR, and pop rock associated with MTV. On the other hand, in regional cities and university towns, a new movement of bands rooted in the DIY spirit and not based on commercial success began to emerge.
 
-In the United States at the time, independent labels such as SST Records, Twin/Tone, and Touch and Go were producing a variety of styles that were not dependent on genre. This was a movement called ""college rock'', a band that inherited the speed and anti-authoritarianism of hardcore punk, but had a freer experimental spirit.
+In the United States at the time, independent labels such as SST Records, Twin/Tone, and Touch and Go were producing a variety of styles that were not dependent on genre. This was a movement known as ""college rock'', a band that inherited the speed and anti-authoritarianism of hardcore punk, but had a freer experimental spirit.
 
 Around the same time, in Britain, the post-punk scene was branching out underground in a complicated way.
 Labels like Factory, 4AD, and Creation all had their own unique aesthetics, releasing a wide range of bands from guitar pop to shoegaze to gothic rock.
@@ -51,7 +51,7 @@ color: #fff;
 
 ## **Chapter 1: From Postpunk to College Rock (1980–1987)**
 
-R.E.M.'s 1983 Murmur is particularly important as the starting point for alternative. While distancing themselves from commercialism, they featured melodies influenced by folk rock and ambiguous lyrics, and gained a large following, especially in American university towns. R.E.M.'s success was the moment that proved that ""a new type of rock that is different from the mainstream, but has a reliable audience'' could be created.
+R.E.M.'s 1983 Murmur is particularly important as the starting point for alternative. While distancing themselves from commercialism, they featured melodies influenced by folk rock and ambiguous lyrics, and gained a large following, especially in American university towns. R.E.M.'s success was the moment that proved that ""a new type of rock that is different from the mainstream but has a reliable audience'' could be created.
 
 Around the same time, bands such as The Replacements, Hüsker Dü, The Feelies, and Sonic Youth emerged, flexibly mixing noise, melody, and experimentation. In particular, Sonic Youth's exploration of guitar tuning and noise structure had a major influence on subsequent alternative music.
 
@@ -72,7 +72,7 @@ These three became the basis for later Alterna.
 Since 1987, US indie music has become more sophisticated, and album production methods have evolved significantly. Pixies released "Surfer Rosa" in 1988, clarifying the dynamic structure of "stillness and movement." This structure was later taken over by Nirvana, leading to the explosion of grunge.
 
 Dinosaur Jr. also brought back the guitar solo and fused it with roaring sounds, defining the grammar of later alternative guitar.
-Fugazi retained the spirit of hardcore, introduced melodies and structural arrangements, and held its own as a DIY icon.
+Fugazi retained the spirit of hardcore, introduced melodies and structural arrangements, and held their own as a DIY icon.
 
 In the UK, bands such as Stone Roses (1989) and My Bloody Valentine (1990) appeared, and the Manchester scene and shoegaze brought a new trend to Europe.
 
@@ -93,7 +93,7 @@ characteristic of grunge
 
 However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts on MTV.
 
-Around the same time, bands from Seattle such as Pearl Jam, Soundgarden, and Alice in Chains achieved success one after another, and became recognized worldwide as "representatives of grunge/alternative."
+Around the same time, bands from Seattle such as Pearl Jam, Soundgarden, and Alice in Chains achieved success one after another, and became recognized worldwide as ""representatives of grunge/alternative.''
 
 However, it is not accurate to talk about alternative as a whole in terms of grunge alone. Around the same time, bands with diverse styles such as Pavement, Smashing Pumpkins, Breeders, and Belly appeared, and the realm of alternative music rapidly expanded.
 
@@ -105,7 +105,7 @@ Since 1995, alternative has changed from being a ""genre" to a ""methodology tha
 
 ### ● Establishment of indie rock
 
-The success of Pavement and Guided by Voices solidified the idea that creativity could work on a low budget, and the lo-fi aesthetic became a symbol of indie.
+The success of Pavement and Guided by Voices cemented the idea that creativity can work on a low budget, and the lo-fi aesthetic became an indie icon.
 
 ### ● Rise of female artists
 
@@ -121,7 +121,7 @@ This movement connects to lyrical and experimental bands like Radiohead and The 
 The rise of Tortoise, Mogwai, Godspeed You! Black Emperor and others pushed the boundaries of rock.
 
 Alternative is no longer a single style;
-**"A general term for creativity that is not captured by commercialism"**
+**"A general term for creativity that is not recovered by commercialism"**
 It has come to be understood as.
 
 ---
@@ -130,7 +130,7 @@ It has come to be understood as.
 
 In the early 2000s, bands such as The Strokes, The White Stripes, Interpol, and Yeah Yeah Yeahs achieved worldwide success with their revival-style guitar rock. This is often referred to as the "post-punk revival."
 
-At the same time, bands such as Arcade Fire, Modest Mouse, The National, and Franz Ferdinand emerged in various places, and alternative music overlapped with the broader definition of "indie rock."
+At the same time, bands such as Arcade Fire, Modest Mouse, The National, and Franz Ferdinand emerged in various places, and alternative music began to overlap with the broader definition of "indie rock."
 
 In the late 2000s, American festival culture (Coachella, Lollapalooza) became larger and more indie acts graced the main stage. The sight of bands that were once underground taking center stage at festivals has become commonplace.
 
@@ -182,10 +182,10 @@ flowchart TD
 # **Chapter 7: The current location and future of alternatives**
 
 In the 2020s, the word "alternative" is increasingly used to refer to a "place" or "community" rather than a genre.
-With indie distribution centered around Bandcamp, the expansion of Bedroom Pop, and the spread of cross-genre production environments, alternative continues to be a concept that symbolizes the ""spirit of independent production.''
+Alternative continues to be a concept that symbolizes the "spirit of independent production" due to indie distribution centered on Bandcamp, the expansion of Bedroom Pop, and the spread of cross-genre production environments.
 
 Although it is unlikely that a huge movement like the one in the past will occur, it can be said that the ""spirit of independence'' has taken root more widely.
-What started as a small underground movement in the 1980s continues to pervade every musical genre around the world, 40 years later.
+What started as a small underground movement in the 1980s continues to infiltrate every musical genre around the world, 40 years later.
 
 ---
 

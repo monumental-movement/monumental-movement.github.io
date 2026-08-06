@@ -18,12 +18,12 @@ title: '[Column] Western horror movies and their soundtracks since 2010'
 
 Text: mmr｜Theme: From A24 to Blumhouse to AI horror--unraveling the "horror of sound" that has dominated horror films since the 2010s, from both cultural history and acoustic aesthetics.
 
-In the 2010s, horror movies have transformed into an art form that is more conscious of sound than ever before.
-Jump scares are a thing of the past, and instead low frequencies, environmental noise, and reverberations dominate the scares.
-This was also an application of the psychoacoustic discovery that hearing affects the deeper psyche more directly than vision.
+2010年代、ホラー映画はかつてないほど「音」を意識する芸術へと変貌した。  
+Jump scares are a thing of the past, and low frequencies, environmental noise, and reverberations are instead the main source of fear.
+それは、視覚よりも聴覚が深層心理を直撃するという聴覚心理学的な発見の応用でもあった。  
 
 Horror movies of this era not only gave fear, but also ""eroded"' the audience"s inner world through sound.
-At the center of this change were a new generation of production studios such as A24 and Blumhouse.
+この変化の中心にいたのが、A24やブラムハウスといった新世代の制作スタジオである。
 
 ---
 
@@ -31,7 +31,7 @@ At the center of this change were a new generation of production studios such as
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -47,11 +47,11 @@ color: #fff;
 ---
 
 The arrival of A24 elevated horror into the context of art cinema.
-["The Witch" (2015)](https://amzn.to/48UASVp) is a symbol of this. The score by [Mark Korven](https://amzn.to/3KHRdTr) rejects melody, with a prayerful drone composed of wooden instruments and microtones that grips the audience's nerves.
-Acoustic design that blurs the line between silence and noise was at the heart of the A24 aesthetic.
+[『The Witch』（2015）](https://amzn.to/48UASVp)はその象徴である。[Mark Korven](https://amzn.to/3KHRdTr)によるスコアは旋律を拒み、**木製楽器と微分音**で構成された祈祷的ドローンが観客の神経を締め上げる。  
+沈黙とノイズの境界が曖昧になる音響設計は、まさにA24美学の核心だった。
 
 In the following [Hereditary/Hereditary (2018)](https://amzn.to/470xAxf), [Colin Stetson](https://amzn.to/438tcv3)'s saxophonic drone creates an unusual tension.
-The breath sound, the resonance of the distorted reeds, the vibrations of the deep bass--these things make you feel the presence of an "invisible presence" physically.
+ブレス音、歪んだリードの共鳴、重低音の波動──これらが“見えない存在”の気配を物理的に感じさせる。  
 
 In "Midsommar" (2019) (https://amzn.to/3WzeBFe), [The Haxan Cloak] (https://amzn.to/4mV3nFT) and [Bobby Krlic] (https://amzn.to/473kC1M) fuse Nordic folk ritual music with electronic noise.
 Contrary to the sunny images, the sound blurred the line between celebration and madness, opening up a new frontier for horror.
@@ -66,16 +66,16 @@ A24's horror sound system shakes the audience with ""whispers" rather than ""scr
 
 ---
 
-Blumhouse Productions, by contrast, amplified the fear with a low budget but detailed sound design.
-[Joseph Bishara](https://amzn.to/4okJ3ix) was in charge of the composition for ['Insidious" (2010)](https://amzn.to/4nRnAOm) and ["The Conjuring' (2013)](https://amzn.to/48qVkx0).
-The "wall of sound" that distorts the strings to their limits and layers white noise is like an exorcism nightmare.
+対照的に、ブラムハウス・プロダクションは**低予算ながら緻密な音設計**で恐怖を増幅させた。  
+[Joseph Bishara](https://amzn.to/4okJ3ix) was in charge of the composition for [""Insidious" (2010)](https://amzn.to/4nRnAOm) and [""The Conjuring" (2013)](https://amzn.to/48qVkx0).
+ストリングスを限界まで歪ませ、ホワイトノイズを重層させる“音の壁”は、まるでエクソシズムの悪夢だ。
 
 In [Get Out (2017)](https://amzn.to/48TUfxW), [Michael Abels](https://amzn.to/4720Bca) constructs a jazz score that inverts the chord progression of Negro spirituals.
 The sound translates **social fear = structure of racism** into sound.
 This is a rare example of music serving a political function as part of storytelling.
 
 In [""The Invisible Man'' (2020)] (https://amzn.to/48qvBVt), [Benjamin Wallfisch] (https://amzn.to/46ZWI7p) embodies the "invisible presence" with electronic sounds.
-The design of the **negative acoustic space** shines, as the moment when no sound is heard creates the greatest fear.
+音が聞こえない瞬間こそが最大の恐怖を生むという、**負の音響空間**のデザインが光る。
 
 ---
 
@@ -86,11 +86,11 @@ The design of the **negative acoustic space** shines, as the moment when no soun
 ---
 
 In the mid-2010s, the '80s horror sound made a comeback.
-In ['It Follows' (2014)] (https://amzn.to/4mSiAaF), Disasterpeace visualizes the fear of being chased with cold synth-based arpeggios.
-The track became popular in club culture, and served as an opportunity for retro synths to be reevaluated.
+[『It Follows』（2014）](https://amzn.to/4mSiAaF)では、Disasterpeaceがシンセベースの冷たいアルペジオで**追跡される恐怖**を音像化。  
+そのトラックはクラブカルチャーでも人気を博し、レトロシンセが再評価される契機となった。
 
-[""The Guest"' (2014)](https://amzn.to/3WxUjvS) is a modern reinterpretation of John Carpenter"s electronic suspense.
-The retrowave wave was spreading, and Kyle Dixon & Michael Stein's score for Stranger Things set the tone.
+["The Guest" (2014)](https://amzn.to/3WxUjvS) is a modern reinterpretation of John Carpenter's electronic suspense.
+レトロウェーブの波が広がり、[『Stranger Things』](https://amzn.to/3KRGS7r)のKyle Dixon & Michael Steinによるスコアがその潮流を決定づけた。  
 
 The ""fusion of nostalgia and fear'' through electronic sounds dominated the 2010s as a sound horror aesthetic directly descended from Carpenter.
 
@@ -103,11 +103,11 @@ The ""fusion of nostalgia and fear'' through electronic sounds dominated the 201
 ---
 
 In addition to A24, horror films that pursue the "aesthetics of silence" have appeared in Europe.
-Directed by Luca Guadagnino [Suspiria (2018)] (https://amzn.to/4hee5Gs), [Thom Yorke] (https://amzn.to/4nWkJmY) created a sound of prayer and despair centered around piano and synth.
-This is a homage to the Goblin version [Suspiria (1977)](https://amzn.to/4nHfyqZ), and at the same time a sonic poem of loss and rebirth.
+ルカ・グァダニーノ監督[『Suspiria』（2018）](https://amzn.to/4hee5Gs)は、[Thom Yorke](https://amzn.to/4nWkJmY)がピアノとシンセを中心に、祈りと絶望の音を紡いだ。  
+これはGoblin版[『Suspiria』（1977）](https://amzn.to/4nHfyqZ)への敬意であり、同時に**喪失と再生の音響詩**でもある。  
 
-[Saint Maud (2019)](https://amzn.to/4q40qph) is a scene of silence and auditory hallucinations that seems to engulf religious madness.
-In Norway"s ["Thelma" (2017)] (https://amzn.to/4q6uf8J) and Sweden"s ['Border' (2018)] (https://amzn.to/48W9tCu), icy drone sounds reproduce the **Scandinavian cold**.
+[『Saint Maud』（2019）](https://amzn.to/4q40qph)では、宗教的狂気を包み込むような静寂と幻聴。  
+In Norway"s ["Thelma" (2017)] (https://amzn.to/4q6uf8J) and Sweden"s ['Border' (2018)] (https://amzn.to/48W9tCu), icy drone sounds recreate the **Scandinavian cold**.
 
 Silence, environmental sounds, breathing—these create a religious fear that goes beyond the visual.
 
@@ -119,14 +119,14 @@ Electronic musicians like [Oneohtrix Point Never](https://amzn.to/4nITXym), [Ben
 Ben Frost"s ["Dark" series](https://amzn.to/42B4KCn) and ["Super Dark Times' (2017)](https://amzn.to/42DfU9Q) create an aural sense of unease with drone and distortion.
 Mica Levi's [""Under the Skin'' (2013)](https://amzn.to/3J4PJC6) presents the feeling of an alien foreign body as a deviation from the musical scale.
 
-Furthermore, horror soundtracks are recirculated as analog records,
-**Death Waltz** and **Waxwork Records** re-evaluated horror music as a ""listening cultural heritage''.
+さらに、ホラー・サウンドトラックはアナログレコードとして再流通し、  
+**Death Waltz** and **Waxwork Records** re-evaluated horror music as a "cultural heritage to listen to."
 The phenomenon of club DJs incorporating horror soundtracks into their sets has become widespread.
 It was a time when film music and club culture were intertwined in a strange way.
 
 ---
 
-### Chapter 6: Asian Horror Internationalization and Sound Locality
+### 第六章：アジア・ホラー国際化と音のローカリティ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEL_GJJ5Izk?si=iXiTtgJJmk0zyXZK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -134,12 +134,12 @@ It was a time when film music and club culture were intertwined in a strange way
 
 The unique horror sound is attracting attention in Asia as well.
 In [The Wailing (2016/Korea)](https://amzn.to/46NKuA5), folk ritual music blurs the line between fear and prayer.
-Japanese horror sound ── [Kenji Kawai ("Ring")](https://amzn.to/4h9avxd) and Hiroshi Takahashi"s method—
-It was passed down to the world as a **fear etiquette using silence and environmental sounds**.
+Japanese horror sound ──[Kenji Kawai ("Ring")](https://amzn.to/4h9avxd) and Hiroshi Takahashi"s methods—
+**沈黙と環境音による恐怖の作法**として世界に継承された。  
 
 As Netflix titles consolidate the global market,
-The ""sound folklore'' of each region is gaining a new position in global horror.
-Sound transcends language. Fear needs no translation.
+各地域の“音の民俗性”がグローバルホラーの中で新たな位置を獲得している。  
+音は言語を超える。恐怖は翻訳を必要としない。
 
 ---
 
@@ -149,15 +149,15 @@ Sound transcends language. Fear needs no translation.
 
 ---
 
-[""Skinamarink'' (2022)](https://amzn.to/4o6XZ3m) is a new-age horror film composed of household camera noise and spatial distortion.
-Sound is hardly music, but merely "reverberations."
-But it is that **missing sound** that evokes the most human fears.
+[""Skinamarink'' (2022)](https://amzn.to/4o6XZ3m) is a new-age horror film made up of household camera noise and spatial distortion.
+音はほとんど音楽ではなく、“残響の残滓”にすぎない。  
+しかしその**欠落した音**こそが、最も人間的な恐怖を喚起する。
 
-AI-generated music is already venturing into the realm of horror sound.
+AI生成音楽はすでにホラー音響の領域に足を踏み入れている。  
 Using deep learning to imitate human fear reactions,
 It is now possible to generate **uncanny valley sounds** that make you feel that something is wrong.
 
-From surround sound in movie theaters to spatial sound in earphones──
+From movie theater surround to earphone spatial sound──
 Fear is no longer confined to the ears of individuals.
 
 ---
@@ -169,7 +169,7 @@ Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's r
 All of these are acoustic translations of the question, "What is fear?"
 
 The sounds of horror resonate with social anxiety and individual loneliness.
-It is also music that aims to regain the ""deep emotion'' that pop music has lost.
+それはポップミュージックが失った“深層の感情”を取り戻すための音楽でもある。  
 The next generation of horror composers already has an ear for turning horror into art.
 
 ---
@@ -202,10 +202,10 @@ flowchart TD
 | Year | Title | Composer | Label | Link |
 | ---- | ------------------- | ----------------------------- | -------------- | ---------------------------------------------- |
 | 2014 | *It Follows* | Disasterpeace | Milan Records | [Amazon](https://amzn.to/4nIdRcN) |
-| 2018 | *Hereditary* | Colin Stetson | Milan Records | [Amazon](https://amzn.to/4mY7XDe) |
+| 2018 | *Hereditary*        | Colin Stetson                 | Milan Records  | [Amazon](https://amzn.to/4mY7XDe) |
 | 2019 | *Midsommar* | Bobby Krlic (The Haxan Cloak) | Milan Records | [Amazon](https://amzn.to/4h66SrF) |
 | 2017 | *Get Out* | Michael Abels | Back Lot Music | [Amazon](https://amzn.to/48YphVo) |
-| 2020 | *The Invisible Man* | Benjamin Wallfisch | Back Lot Music | [Amazon](https://amzn.to/48qSwjs) |
+| 2020 | *The Invisible Man* | Benjamin Wallfisch            | Back Lot Music | [Amazon](https://amzn.to/48qSwjs) |
 
 ---
 

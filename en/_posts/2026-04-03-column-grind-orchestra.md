@@ -18,13 +18,13 @@ title: '[Column] Grind Orchestra — A group of sounds that transcend boundaries
 
 ## Introduction — What the name says
 
-Text: mmr｜Theme: Experimental hardcore group structure and recording expanded around improvisation and noise
+Text: mmr｜Theme: Group structure and recording of experimental hardcore expanded around improvisation and noise
 
 The name Grind Orchestra sums up the nature of the music. "Grind" means friction or crushing, and "Orchestra" means music as a collective. The combination of these two words refers not just to a band, but to the field itself, which is created by the collision and accumulation of sounds.
 
 Formed in 1995 by former Boredoms member Toyohito Yoshikawa, this project began its activities by crossing the boundaries of hardcore, noise, and improvisational music.
 
-Although they have a typical band structure, in reality they are more like an experiment that generates the collision and development of sounds in real time, rather than a group that performs fixed songs.
+Although they have a typical band structure, they are not actually a group that performs fixed songs, but more like an experiment that generates the collision and development of sounds in real time.
 
 > Grind Orchestra is a sonic collective that combines the impulse of hardcore with the freedom of improvisation.
 
@@ -54,7 +54,7 @@ In 1994, around the time of his departure, he started a new group called Grind O
 
 From its inception, its composition was extremely unique. With a total of four percussionists, theremin and electronics, the band deviated from the traditional concept of a band.
 
-What this arrangement created was a surging beat and Japanese vocals in which meaning and sound are intertwined in multiple layers. It wasn"t just noise or hardcore, it was a strange pop world that didn"t exist anywhere else.
+What this arrangement created was a surging beat and Japanese vocals in which meaning and sound are intertwined in multiple layers. It wasn"t just noise or hardcore, it emerged as a strange pop world that didn"t exist anywhere else.
 
 > Grind Orchestra created a unique pop structure through an unusual arrangement.
 
@@ -73,9 +73,9 @@ Although Grind Orchestra was fluid, the following eight members were the main co
 ・Tsutomu Motoyama
 ・Yojiro Tatekawa
 
-The multiple percussion system, which was an early feature, created a ""layered" rather than a ""division of labor" in rhythm. Rather than synchronizing individual rhythms, they coexist with gaps and collisions, forming a gigantic mass of beats.
+The multiple percussion system, which was an early feature, created a ""multilayered" rhythm rather than a ""division of labor." Rather than synchronizing individual rhythms, they coexist with gaps and collisions, forming a gigantic mass of beats.
 
-The addition of theremin and electronic sounds gives the space a sense of spaciousness and a different kind of acoustics.
+The addition of theremin and electronic sounds creates spatial expansion and a unique sound.
 
 ### Initial organization structure
 
@@ -100,7 +100,7 @@ This arrangement itself determined the direction of the music.
 
 The musical core of Grind Orchestra lies in its overwhelming rhythmic movement and vocals that almost deconstruct language.
 
-The beat created by multiple percussions is not just a rhythm, but is perceived as a undulation or mass. The Japanese vocals that overlap this play a more acoustic role than conveying meaning, and resonate in a multidimensional manner.
+The beat created by multiple percussions is not just a rhythm, but is perceived as a undulation or mass. The Japanese vocals layered on top play a more acoustic role than conveying meaning, resonating multidimensionally.
 
 What this combination creates is a chaotic yet somehow catchy feeling, a ""distorted pop feel'' so to speak.
 
@@ -150,7 +150,7 @@ Grind Orchestra's sound sources were mainly released on the Tag Rag label.
 
 These works document the transition from the percussion-based chaos of his early years to the structured sound of his later years.
 
-> Grind Orchestra's discography is a trajectory of musical evolution.
+> Grind Orchestra's discography is a true trajectory of musical evolution.
 
 ---
 
@@ -167,7 +167,7 @@ timeline
     2002 : 複数作品リリース
 </div>
 
-Although it was a short period of time, it is clear that he has made a huge leap forward musically.
+Although it was a short period of time, it can be seen that he has made a huge leap forward musically.
 
 > Grind Orchestra is an experimental music project that has undergone rapid evolution in a short period of time.
 
@@ -187,7 +187,7 @@ In particular, his approach, which centered on rhythm and voice, had a major inf
 
 ## Conclusion — pop that deviates from structure
 
-Grind Orchestra is a rare project that is based on the impulse of hardcore and the texture of noise, but also finds an unusual pop quality in it.
+Grind Orchestra is a rare project that is based on the impulse of hardcore and the texture of noise, but that also finds an unusual pop quality.
 
 Physical beats with multiple percussion, vocals that transcend meaning, and melodic elements introduced in the later stages. By mixing these together, music like no other was formed.
 

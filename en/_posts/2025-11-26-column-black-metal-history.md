@@ -47,9 +47,9 @@ You can't tell just by the characteristics of the sound.
 Religious views, geographical environment, ethnic culture, philosophy, political situation, natural environment, recording techniques, and underground ethics.
 All of these things combine to make black metal a unique entity that is different from other genres.
 
-In this article, we will comprehensively organize the overall picture based on historical facts, and
+In this article, we will comprehensively organize the overall picture based on historical facts,
 Furthermore, **Regional analysis, deep digging of individual bands, and chronological breakdown** are also integrated.
-Build the definitive full-length black metal theory.
+Build a definitive full-length black metal theory.
 
 ---
 
@@ -112,9 +112,9 @@ The focus was on young Norwegian underground musicians.
 * Establishing lo-fi recording as "aesthetics"
 *Tremolo riff
 * Scream Vo
-* Expression of "Ice Wasteland" through repetition and speed
+* Expression of "ice wasteland" through repetition and speed
 * Corpse Paint
-* Natural view of winter, forest, and solitude
+* Nature view of winter, forest, and solitude
 
 ## ■ Representative band
 
@@ -133,7 +133,7 @@ The focus was on young Norwegian underground musicians.
 * 1993–1994: Major album releases all at once
 
 The Norwegian scene combines violence and aesthetics.
-Sparking a global debate, black metal is more than just music.
+Sparking global debate, black metal is more than just music.
 It has become a **cultural phenomenon**.
 
 ---
@@ -179,7 +179,7 @@ It has evolved into "conceptual music born from the reactions of cultures around
 
 ## **Chapter 6: Individual band details section (thoughts, musicality, and social influence of major bands)**
 
-Here, we will systematically delve into the bands that have become the cornerstone of black metal history by era, region, and trend.
+Here, we will systematically delve into the bands that became the cornerstone of black metal history by era, region, and trend.
 
 ---
 
@@ -210,7 +210,7 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 * Minimal structure of the riff
 * Faster rhythm (especially 1985-87)
 * The melody line is reminiscent of Sweden's unique "chill" and "humidity" and is directly connected to subsequent movements.
-* In the 90's, they transitioned to the Viking metal period, and went beyond the scope of black metal to recreate Norse mythology aesthetics.
+* In the 1990s, they transitioned to the Viking metal period, going beyond the scope of black metal to recreate Norse mythology aesthetics.
 
 ---
 
@@ -222,7 +222,7 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 * Dead (Per Ohlin)'s stage performance (corpse make-up, raw meat, etc.)
 **A decisive event that brought ritual elements of "death and inhumanity" into black metal**.
 * Euronymous is based in Helvete (a record store in Oslo).
-** Forming a black metal inner circle (a small, close community). **
+**Formation of a black metal inner circle (close small community). **
 * Later gained worldwide attention for the Euronymous murder case (1993) and the church arson incident.
 
 ---
@@ -233,8 +233,8 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 Major works: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * The music aims for thorough minimalism,
-**A style that aims to create a trance-like nature and the collapse of one's sense of time through repetition**.
-* Continuing to make a strong statement in the Norwegian cultural and religious debate in the early 1990s,
+**A style that aims to create a trance-like nature and the collapse of the sense of time through repetition**.
+*Continued to make a strong statement in the Norwegian cultural and religious debate in the early 1990s,
 Due to excessive media coverage, black metal's ""dangerous image'' was established.
 * After the incident (murder of Euronymous) and arrest, Burzum's sound source became more ambient-oriented.
 
@@ -270,7 +270,7 @@ A pioneer who expanded black metal to orchestral sound**.
 **Major works: *Battles in the North* (1995), *At the Heart of Winter* (1999)**
 
 * Build a fictitious ice and snow world called "Blashyrkh",
-**It is unique in that it emphasizes fictional myth rather than violence**.
+It is unique in that it emphasizes fictional myth rather than violence.
 * The speed of the guitar and drums and the density of the fictional world became the source of later "fantasy BM".
 
 ---
@@ -313,7 +313,7 @@ A pioneer who expanded black metal to orchestral sound**.
 
 * Noise, Primitives, Raw Satanism, etc.
 **The most "heretical" black metal is concentrated**.
-* Emphasis on "ceremoniality" rather than quality of recording.
+* Emphasis on "ceremonial nature" rather than the quality of the recording.
 
 ---
 
@@ -352,7 +352,7 @@ Each style has been subdivided and led its global expansion.
 
 — Major events + list of masterpieces by year —**
 
-Below is a **fact-based timeline**. Incidents and works are based on the year of official release and year of occurrence.
+Below is a **fact-based timeline**. Incidents and works are based on the year of official release/occurrence.
 
 ---
 
@@ -472,13 +472,13 @@ flowchart TD
 
 ## **Summary: What is black metal**
 
-Although black metal is a school of metal music, it is a ""comprehensive cultural phenomenon'' with roots in many fields, including religion, aesthetics, philosophy, recording culture, and local society.
+Although black metal is a school of metal music, it is a ""comprehensive cultural phenomenon'' that has roots in many fields such as religion, aesthetics, philosophy, recording culture, and local society.
 More than just destructive music, it has evolved in different directions in various places, and has at times permeated art, literature, and visual culture.
 
 Cold, darkness, spirituality, rebellion, solitude, celebration, ritual.
 All of these exist simultaneously in black metal.
 * Black metal music grew as a reflection of the climate, culture, and history of a particular region.
-* Since the 1990s, **multipolarization (from centered on Norway to the rest of the world)** has progressed.
+* Since the 1990s, **multipolarization (from centered in Norway to the rest of the world)** has progressed.
 * Incidents, ideas, and social backgrounds had a strong influence on genre evaluation and image formation,
 **In terms of music history, the essence is the changes in each band's work structure and recording aesthetics**.
 * Since the 2000s, it has been subdivided into **avant-garde, nature-worshipping, DSBM, and post-BM**.

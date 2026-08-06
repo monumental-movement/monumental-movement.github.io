@@ -64,7 +64,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Clear A melody/chorus structure → Easy to create dance "choreography"
 
-- Dramatic song development → Matches the climax of the swing
+- Dramatic song development → Matches the excitement of the swing
 
 
 <hr>
@@ -89,7 +89,7 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 <hr>
 
 ### Gyaru culture and charisma: Consumed dance
-● To "ParaPara = symbol of gal culture"
+● To "ParaPara = symbol of gyaru culture"
 
 - Closely linked to Shibuya 109 fashion
 

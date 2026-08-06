@@ -10,8 +10,7 @@ tags:
 - Minimal Wave
 - Coldwave
 - 00s
-title: '[Column] Minimal Wave / Coldwave ── Re-evaluation and revival of 70s-80s electronic
-  music'
+title: 【コラム】 Minimal Wave / Coldwave ── 70s〜80s電子音楽の再評価と再興
 ---
 
 
@@ -31,7 +30,7 @@ Representative acts include **Oppenheimer Analysis, Carol, Deux, Asylum Party, a
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -45,8 +44,8 @@ Although "minimal wave" and "cold wave" are often confused, there are clear diff
 
 ### ● Minimal Wave
 - **Main regions: America/Belgium/Netherlands/UK**
-- **Center period: 1978-1986**
-- **Characteristics: Mainly analog synths, minimal structure, more rustic and experimental than techno pop**
+- **中心年代：1978〜1986**
+- **特徴：アナログシンセ主体・ミニマル構造・テクノポップよりも素朴で実験的**
 - Mainly DIY cassette culture and independent distribution labels
 - Systematized by NY label **Minimal Wave Records (Veronica Vasicka)** in the 2000s
 
@@ -55,7 +54,7 @@ Although "minimal wave" and "cold wave" are often confused, there are clear diff
 - **Center period: 1979-1989**
 - **Characteristics: Post-punk influence, cold voice, dark melody**
 - Many band formations (bass + drum machine + synth)
-- Typical examples include Asylum Party, Trisomie 21, and Little Nemo.
+- Typical examples include Asylum Party, Trisomie 21, Little Nemo, etc.
 
 It is easy to understand if you understand it as follows:
 
@@ -68,7 +67,7 @@ It is easy to understand if you understand it as follows:
 ## 2. Background of the birth of the genre: Electronic music revolution from the late 70s to the 80s
 
 ### ● 2-1. Technological innovation: Popularization of analog synths
-In the late 1970s, the price of synthesizers fell, making them affordable to ordinary musicians.
+In the late 1970s, the price of synthesizers dropped, making them affordable to ordinary musicians.
 Representative models:
 - **Korg MS-10 / MS-20**
 - **ARP Odyssey**
@@ -76,7 +75,7 @@ Representative models:
 - **Sequential Circuits Pro-One**
 - **Roland TR-606/TR-808 (drum machine)**
 
-It is now possible to create music using a standalone synth + 4-track cassette recorder, instead of using expensive modular equipment.
+It is now possible to create music using a single synth + 4-track cassette recorder, instead of using expensive modular equipment.
 
 ### ● 2-2. Influence of punk/post-punk
 - The punk idea that "anyone can make music"
@@ -99,15 +98,15 @@ This became the basis of Minimal Wave/Coldwave.
 
 ### ● UK/USA: Center of Minimal Wave
 - Oppenheimer Analysis (UK)
-- Turquoise Days (UK)
+- Turquoise Days（UK）  
 - Eleven Pond (US, New York)
-- Martin Dupont (France but also re-evaluated in the context of Minimal Wave)
+- Martin Dupont (France but also re-evaluated in the Minimal Wave context)
 
 There are many people who symbolize the DIY trend of electronic music.
-In particular, **Oppenheimer Analysis**'s "The Devil's Dancers" was later reissued by Minimal Wave Records and became a signature song.
+特に **Oppenheimer Analysis** の “The Devil's Dancers” は後年 Minimal Wave Records により再発され代表曲となった。
 
-### ● France/Belgium: the center of Coldwave
-- Trisomie 21 (FR)
+### ● フランス・ベルギー：Coldwave の中心
+- Trisomie 21（FR）  
 - Asylum Party (FR)
 - Little Nemo (FR)
 - War Office Propaganda (BE)
@@ -135,7 +134,7 @@ It has a strong minimalist approach towards electronic acoustics, and comes into
 - Minimum analog delay/reverb
 
 ### ● 4-3. Vocal characteristics
-- "Cold" voice with suppressed emotions
+- 感情を抑えた「冷淡」な声質
 - Dry mix with less reverb
 - Female vocalist (Cécile of Deux) is also important
 
@@ -159,26 +158,26 @@ Minimal Wave/Coldwave records and cassettes share a common aesthetic.
 
 ### ● 5-3. DIY printing texture
 - Risograph, silk screen, copy machine roughness
-- Low resolution black and white photos
+- 低解像のモノクロ写真
 
 These have had a major influence on modern "Retro Synthwave" design.
 
 ---
 
-## 6. Resurrection: Minimal Wave movement since 2000s
+## 6. 再興：2000年代以降の Minimal Wave ムーブメント
 
 Minimal Wave/Coldwave was largely forgotten in the 90s, but was greatly reevaluated in the 2000s.
 
 ### ● 6-1. Minimal Wave Records (NY)
 Established in 2005. The host, **Veronica Vasicka**, works as a DJ while also
-It attracted worldwide attention as a label that compiled and reissued minimal synth works that it discovered.
+It gained worldwide attention as a label that compiles and reissues unearthed minimal synth works.
 
 Representative compilation:
 - *The Minimal Wave Tapes Vol.1 (2010, Stones Throw)*
 - *The Minimal Wave Tapes Vol.2 (2012, Stones Throw)*
 
 ### ● 6-2. Internet and rediscovery
-- With the spread of Discogs, rare sound sources from the cassette era are being shared.
+- Discogs の普及により、カセット時代の希少音源が共有される
 - Old recordings uploaded to YouTube spread among young people
 - Blog culture (e.g. Mutant Sounds) introduces rare sound sources
 
@@ -187,7 +186,7 @@ Representative compilation:
 ### ● TR/ST (2010s~)
 - A project by Canadian artist Robert Alfons
 - Minimal Wave / Coldwave texture + modern electro
-- Features a dark atmosphere and processed voice quality
+- ダークな空気感と加工された声質が特徴
 
 ### ● Cold Cave
 - Strongly influenced by 80s dark wave, inheriting the texture of Minimal Wave
@@ -196,7 +195,7 @@ These played a role in introducing a new generation of listeners to the genre.
 
 ---
 
-## 7. Representative artists and work explanations
+## 7. 代表アーティスト・作品解説
 
 ### ● Oppenheimer Analysis (UK)
 - Duo of Andy Oppenheimer and Martin Lloyd
@@ -216,7 +215,7 @@ These played a role in introducing a new generation of listeners to the genre.
 - Active in the late 1980s
 - *Picture One* (1988) etc. received high praise
 
-### ● TR/ST (CA)
+### ● TR/ST（CA）
 - modern cold wave
 - *TRST* (2012), *Joyland* (2014) rated
 
@@ -226,7 +225,7 @@ These played a role in introducing a new generation of listeners to the genre.
 
 <div class="mermaid">
 flowchart TD
-    A["Late half of the 1970s<br>Population of analog synths"] --> B["DIY cassette culture"]
+    A["1970s 後半<br>アナログシンセ普及"] --> B["DIY cassette culture"]
     B --> C["Minimal Wave<br>(US/UK/BE/NL)"]
     A --> D["Post-Punk<br>(UK/FR)"]
     D --> E["Coldwave<br>(FR/BE)"]

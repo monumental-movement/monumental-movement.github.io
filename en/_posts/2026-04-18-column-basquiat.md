@@ -16,7 +16,7 @@ title: '[Column] Musical thinking in Jean-Michel Basquiat: Painting production a
 
 
 
-## Drawing in music: Basquiat's production environment
+## 音楽の中で描く──バスキアの制作環境
 
 Text: mmr | Theme: Jean-Michel Basquiat's production was shaped by a ""sampling mindset'' that stood at the intersection of jazz and hip-hop. This article interprets the production process as a DJ-like collage.
 
@@ -28,7 +28,7 @@ At the same time, he was deeply connected to the hip-hop culture that originated
 
 Painting is not a static act. It is a performance that progresses in a time frame that is continuously updated in sync with the music.
 
->Sound functioned not as a background but as the rhythm of thought itself
+> Sound functioned not as a background but as the rhythm of thought itself
 
 
 ---
@@ -47,9 +47,9 @@ color: #fff;
 </style>
 
 
-## Layers of jazz structure and painting
+## ジャズの構造と絵画のレイヤー
 
-Charlie Parker's performance involves a process of presenting a theme, disassembling it, and reconstructing it. This is a so-called "head → solo → head" format, but what is important are the deviations and regressions that occur in between.
+Charlie Parker's performance involves a process of theme presentation, decomposition, and reconstruction. This is a so-called "head → solo → head" format, but what is important are the deviations and regressions that occur in between.
 
 A similar structure can be seen in Basquiat's work. For example, words and icons are written once, then erased, overwritten, and reappear. This repetition is not just a modification, but an ""improvisation of meaning.''
 
@@ -71,17 +71,17 @@ This tension gives his paintings a unique rhythm and density.
 
 ---
 
-## Hip hop and sampling thinking
+## ヒップホップとサンプリング的思考
 
-In the early 1980s, hip-hop was an experimental culture that had not yet been institutionalized. Grandmaster Flash treated the turntable as an instrument, extracting breakbeats from existing records and constructing new music.
+In the early 1980s, hip-hop was an experimental culture that had yet to be institutionalized. Grandmaster Flash treated the turntable as an instrument, extracting breakbeats from existing records and constructing new music.
 
 This "sampling" is not just a quotation. It is an act of cutting and pasting different times and contexts to generate new meanings.
 
-A similar process can be seen in Basquiat's screens. Medical books, history, street culture, advertising, and poetic fragments. When these are decontextualized and rearranged, they take on new meaning.
+A similar process can be seen on Basquiat's screens. Medical books, history, street culture, advertising, poetic fragments. When these are decontextualized and rearranged, they take on new meaning.
 
 <div class="mermaid">
 flowchart LR
-A[Existing image] --> B[cutting]
+A[既存イメージ] --> B[cutting]
 B --> C[Relocation]
 C --> D[new meaning]
 </div>
@@ -90,17 +90,17 @@ This is exactly the same structure as a DJ mix. What is important is not ""creat
 
 For Basquiat, who was active at the same time as the birth of hip-hop, this thought was extremely natural.
 
-> New meaning emerges by rearranging existing fragments
+> 既存の断片を再配置することで、新しい意味が立ち上がる
 
 ---
 
 ## Noise, Repetition and Urban Rhythm
 
-The city of New York itself was a huge soundscape for Basquiat. The noise of the subway, the buzz of the street, the bass of the club. All of them influence his production.
+The city of New York itself was a huge soundscape for Basquiat. The noise of the subway, the buzz of the street, the bass of the club. All of these influence his production.
 
-He wasn't just listening to music, he was taking in the "sounds of the city." As a result, his works have a strong noise-like element. Jumbled placement of letters, repetitive lines, and visual noise.
+He wasn't just listening to music, he was taking in the "sounds of the city." As a result, his works have strong noise-like elements. Jumbled placement of letters, repetition of lines, and visual noise.
 
-This also resonates with the loop structure of hip-hop. Minute changes accumulate in a certain rhythm.
+This also resonates with hip-hop's loop structure. Minute changes accumulate in a certain rhythm.
 
 <div class="mermaid">
 flowchart TD
@@ -119,11 +119,11 @@ Seeing sounds and listening to pictures. This traversal of sensations is at the 
 
 ## Painter as DJ──Creation of editing
 
-The key to understanding Basquiat's production lies not in ""drawing" but in ""editing." Rather than completing the screen in one go, he overwrites, deletes, and rearranges it over and over again.
+The key to understanding Basquiat's production lies not in ""drawing" but in ""editing." Rather than completing the screen in one go, he overwrites, deletes, and rearranges it many times.
 
-This process is very similar to how a DJ mixes a record. What matters is not the materials at hand, but how they are combined.
+このプロセスは、DJがレコードをミックスする行為と極めて近い。重要なのは手元にある素材ではなく、それをどう組み合わせるかである。
 
-In his works, the same words appear, are erased, and rewritten over and over again. This repetition has the same function as a loop in music.
+彼の作品には、同じ単語が何度も現れ、消され、また書かれる。この反復は、音楽におけるループと同じ機能を持つ。
 
 <div class="mermaid">
 flowchart LR
@@ -166,7 +166,7 @@ To understand Basquiat, you need to listen not only to his paintings but also to
 
 This production process is also the prototype for all modern creations: sampling, remixing, and collage.
 
-> Basquiat's paintings visualize the very structure of music.
+> Basquiat's paintings visualize the structure of music itself.
 
 
 ---

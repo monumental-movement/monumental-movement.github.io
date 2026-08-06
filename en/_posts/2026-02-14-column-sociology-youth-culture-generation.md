@@ -58,11 +58,11 @@ Importantly, ""formative tastes'' have a stronger correlation with personality t
 
 ## Chapter 2: Effects on educational and career choices
 
-Longitudinal studies from multiple countries have shown that the level of involvement in musical culture in early life is statistically associated with educational and career choices in adulthood. The sample size ranges from a few thousand to 10,000 people and has been followed for more than 10 years.
+Longitudinal studies from multiple countries have shown that involvement in musical culture in early life is statistically associated with educational and career choices in adulthood. The sample size ranges from a few thousand to 10,000 people and has been followed for more than 10 years.
 
 Those familiar with experimental and anti-establishment music culture are more likely to pursue fields of creativity and self-discretion, such as art, research, IT, and media. On the other hand, those who mainly listened to commercial and traditional genres tended to have jobs with high institutional stability.
 
-Because this relationship remains even after controlling for family environment and educational background, it is interpreted that music culture has an independent influence on values ​​and career aspirations.
+Because this relationship remains even after controlling for family environment and educational background, it is interpreted that musical culture has an independent influence on values ​​and career aspirations.
 
 > Musical culture does not directly determine career paths, but shapes the priorities of choices.
 
@@ -70,7 +70,7 @@ Because this relationship remains even after controlling for family environment 
 
 ## Chapter 3: Effects on political consciousness and social participation
 
-Research that analyzes the relationship with political consciousness shows that people who listened to music with strong social messages when they were young tended to have higher voting rates and social movement participation rates as adults. The study is broken down by generation and compared over several decades.
+Research that analyzes the relationship with political consciousness shows that people who listened to music with strong social messages when they were young tended to have higher voting rates and participation in social movements as adults. The study is broken down by generation and compared over several decades.
 
 On the other hand, those familiar with a music culture that emphasizes entertainment and individualism are more likely to express their values ​​through consumption behavior and lifestyle rather than institutional political participation.
 
@@ -104,7 +104,7 @@ A follow-up survey in the United States has confirmed that this group tends to b
 
 Hip-hop's influence is greatest between the ages of 16 and 25. At a time when people are becoming more aware of their social position and attributes, it is easy for people to internalize hip-hop as a form of self-talk.
 
-> Hip-hop develops the ability to verbalize the relationship between self and society.
+> Hip hop fosters the ability to verbalize the relationship between self and society.
 
 ---
 
@@ -122,7 +122,7 @@ The influence of electronic music is most evident between the ages of 18 and 28.
 
 ## Chapter 7: Genre analysis ④ Pop
 
-Pop music is the most widely shared culture and functions as a synonym and a common language. People who had a pop-centered music experience when they were young tend to be more cooperative.
+Pop music is the most widely shared culture and functions as a synonym and a common language. People who had a pop-centered music experience in their youth tended to be more cooperative.
 
 ### Age range of greatest impact
 
@@ -146,7 +146,7 @@ Hip-hop, rock, and country are each associated with different community structur
 
 In Europe, the relationship between musical tastes and social behavior has been analyzed in conjunction with educational systems and urban culture. The electronic music generation has a strong international orientation and high labor mobility.
 
-> In Europe, musical experiences relativize national border consciousness.
+> In Europe, the musical experience relativizes national border consciousness.
 
 ---
 
@@ -164,7 +164,7 @@ Still, it has been confirmed that the generation that is familiar with rock and 
 
 Since the 2000s, as the system has become more fluid, the relationship between musical tastes and job views has become apparent. Those who are familiar with subcultural music are more likely to be freelancers or have multiple jobs.
 
-### Branch of J-POP/Subculture/Club Culture
+### Branching of J-POP/Subculture/Club Culture
 
 Since the 2000s in Japan, young people's musical experiences have broadly diverged into three categories. J-POP still provides a generational common ground and is shared in school and media contexts. On the other hand, subcultural music connected to anime and internet culture has played a role in strongly internalizing individual tastes and preferences.
 

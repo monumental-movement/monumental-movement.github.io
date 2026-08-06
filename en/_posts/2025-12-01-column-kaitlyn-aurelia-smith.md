@@ -9,7 +9,7 @@ tags:
 - Buchla
 - Modular
 - Ambient
-title: '[Column] Kaitlyn Aurelia Smith — The echoes of "electric life" in Buchla'
+title: 【コラム】 Kaitlyn Aurelia Smith — Buchla に宿る「電気の命」の響き
 ---
 
 
@@ -20,7 +20,7 @@ Text: mmr｜Theme: About her upbringing and background, changes in her work and 
 
 In the world of electronic music and modular synths, synths are often treated as symbols of "machines." However, her sound overturns these preconceptions. The sound is warm and rich, as if ""you can feel a living thing or organic breath deep inside the cables and knobs of a modular synth.''
 
-By choosing vintage or modular equipment, especially Buchla-style modular equipment, she creates a sonic ecosystem through ""accidentality", ""instability", ""manuality", or ""electrical vibrations and resonance with the body", rather than just synthetic sounds.
+By choosing vintage or modular equipment, especially Buchla-style modular equipment, she creates a sonic ecosystem through ""accidentality," ""instability," ""manuality," or ""electrical vibration and resonance with the body," rather than just synthetic sounds.
 
 By carefully weaving together voices, live instruments, field recordings, nature and physicality, he elevates the modular from a "cold machine" to a "living vessel of sound." People who love modular and Buchla-style synths will be strongly attracted to this attitude.
 
@@ -59,7 +59,7 @@ These experiences provided her with the axes of "naturalness," "spatiality," and
 
 Growing up, she studied composition and sound theory at a music educational institution in the United States, and at the same time was active in a folk duo using guitar, voice, and piano.
 
-However, after leaving the confines of his student days and returning to his hometown, an unexpected change occurs: he encounters a Buchla 100 lent to him by a neighbor. When she first picked up a modular synth, she saw it not as a "flimsy tool" but as a "co-star," "a living thing," and "an electric body."
+しかし、学生時代の枠を出た後、故郷に戻ることで思わぬ変化が訪れる――隣人から貸与された Buchla 100 との出会いだ。モジュラー・シンセを初めて手にしたとき、彼女はそれを「薄っぺらい道具」ではなく、「共演者」「生き物」「電気の身体」として捉えた。
 
 Buchla's instability, manual patching, and unpredictable sound shifts - through such contingency and instability, she chooses to bring out "living sound," "vibration," "space," and "physicality" from the synth.
 
@@ -71,9 +71,9 @@ This transformation is the basis for all of his subsequent works.
 
 ## Early works and "Tides" — Prelude to modular
 
-Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he began recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
+Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he started recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
 
-This recording was later released as a work, titled Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sound/field recordings with modular electronic waveforms.
+This recording was later released as a work, titled Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
 
 At this stage, it has not yet created a huge sensation. However, the direction of "modular + natural sounds/environmental sounds + spatiality" was already clear, and the underlying feeling of her music was emerging.
 
@@ -85,7 +85,7 @@ The real turning point was the album *EARS* released in 2016. In this work, whil
 
 The coldness of electronic sounds, the softness of organic instruments, the fluctuation of voices, and natural noises all intertwine to create a dreamy and lively sound that resembles a "futuristic jungle."
 
-With this work, she went from being a mere modular experimenter to a painter who uses modular objects to depict the organic world, and gained attention from many listeners and critics.
+With this work, she went from being a simple modular experimenter to a painter who uses modular objects to depict the organic world, and gained attention from many listeners and critics.
 
 ---
 
@@ -105,9 +105,9 @@ With this work, she went beyond the prejudice that ""electronic music = cold mec
 
 The sound that has matured over the years since 2017 reaches new horizons with the 2020 album *The Mosaic of Transformation*.
 
-In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movement, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
+In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movements, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
 
-As a result, this work has a sound that prioritizes "waves," "fluctuations," "spatial sensation," and "physical sensation" rather than structure or form. Droney silences, rolling pads, whispering voices, and layers of enveloping synths resonate across organic and electronic, physical and electric, time and space.
+As a result, this work has a sound that prioritizes "waves," "fluctuations," "spatial sensations," and "physical sensations" rather than structure or form. Drone-like stillness, rolling pads, whispering voices, and layers of enveloping synths resonate across organic and electronic, physical and electric, time and space.
 
 This attempt is a highly poetic and meditative work that presents modular/analog synths not as mere sound sources, but as ""an interface that connects the body and the world.''
 
@@ -175,7 +175,7 @@ Kaitlyn Aurelia Smith's journey has never been a technical experiment or a show-
 
 If you love Buchla and modular synths not just as equipment, but as ""living sound vessels," ""vibrating bodies," and ""a mixture of chance and necessity,'' her work will serve as a guidepost for your exploration.
 
-Through the "place" of electronic music/modular/analog synths, there is the possibility of rediscovering physical sensations, nature, time and space, memory and emotions.
+There is a possibility here to rediscover physical sensations, nature, time and space, memory and emotions through the "place" of electronic music/modular/analog synths.
 
 --I hope this article helps shed new light on your love for Buchla and electronic music.
 

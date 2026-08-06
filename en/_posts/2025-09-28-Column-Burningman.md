@@ -70,7 +70,7 @@ Burning Man has long been a magnet for celebrities — entrepreneurs, artists, a
 
 ### Anecdote/Legend
 
-When it was relocated in 1990, a police ban on burning on the beach was a turning point, and the decision was made to move to the desert.
+When it was relocated in 1990, a police ban on burning on beaches was a turning point, and the decision was made to move to the desert.
 Burning Man
 
 An interesting story that the roots of "Google Doodle" are related to the founder's vacation announcement at Burning Man (the intersection of corporate culture and festivals).
@@ -99,7 +99,7 @@ Since the 2000s, giant "mutant vehicles" and sculptures made of fire have attrac
 
 ### Contemporary implications and challenges
 
-While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental concerns, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
+While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental concerns, and the question, "Who is Burning for?" Communities are stepping up sustainability efforts (Leave No Trace and art grants) and sharing knowledge in regional networks.
 
 ---
 
@@ -178,7 +178,7 @@ The values ​​that ""find value in the experience itself'' permeated the part
 
 #### 1997: Fertility
 
-1997 was the year that Burning Man's symbolism of nature, life, and rebirth was the first to take center stage.
+1997 was the year that Burning Man's symbolism of nature, life, and rebirth became the central theme for the first time.
 
 The prototype of the "celebration of life and creativity" that has been inherited by subsequent themes (2004 Vault of Heaven, 2012 Fertility 2.0, etc.).
 
@@ -264,7 +264,7 @@ A theme that explores the conflicting axes of hope and fear. There were structur
 
 A theme that reconsiders the relationship between nature and civilization. A composition based on the motif of the "Green Man" (an anthropomorphic figure of plants and naturally occurring plants).
 
-However, in that year, his burning art ""Crude Awakening'', which imitated a giant oil rig, caused controversy and was criticized.
+However, in that year, his burning art ""Crude Awakening,'' which imitated a giant oil rig, caused controversy and was criticized.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -272,7 +272,7 @@ However, in that year, his burning art ""Crude Awakening'', which imitated a gia
 
 #### 2008: American Dream
 
-American Dream/Questions about consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
+American Dream/Question for consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
 
 ---
 
@@ -308,7 +308,7 @@ A re-examination and update of 1997's "Fertility". The theme is creativity, rebi
 
 Using the cargo cult (the gap between material culture and faith) as a motif, we re-examine modern consumer society, cargo distribution, and ritualization.
 
-Many camps and structures express the gap between ""the material being worshiped" and the ""gift economy."
+Many camps and structures express the gap between the ""material being worshiped" and the ""gift economy."
 
 ---
 
@@ -356,7 +356,7 @@ Focusing on metamorphosis, metamorphosis, and transformation, dynamic change, ma
 
 #### 2020: The Multiverse
 
-Originally, the theme was the multiverse concept. However, due to COVID-19, the local festival was canceled. Exploring development in virtual space/online space.
+Originally, the theme was the multiverse concept. However, due to COVID-19, the local festival was canceled. Exploring development in virtual/online space.
 
 ---
 
@@ -370,7 +370,7 @@ A hybrid/virtual/physical fusion approach with the theme of "reflection and refl
 
 #### 2022: Waking Dreams
 
-With the theme of awakening from dreams and awakening, the composition was created with an awareness of the fluctuations between dreams and reality and the awakening perspective.
+With the theme of awakening and awakening, the composition was created with an awareness of the fluctuations between dreams and reality and the awakening perspective.
 
 ---
 

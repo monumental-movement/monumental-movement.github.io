@@ -13,7 +13,7 @@ title: Olav Basoski – Water Fire Rhythm Love EP1
 ---
 
 
-Olav Basoski is a leading figure in Holland House, active since the late 1990s.
+Olav Basoski is a stalwart of Holland House, active since the late 1990s.
 
 "Water Fire Rhythm Love EP1", released in 2004 on his own label Rootz Records, allows you to enjoy Olav Basoski's sophisticated House/Electro sound.
 

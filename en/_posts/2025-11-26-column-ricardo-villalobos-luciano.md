@@ -17,9 +17,9 @@ title: '[Column] Ricardo Villalobos × Luciano — A rhythmic journey where Sout
 
 ## Introduction
 
-Text: mmr｜Theme: Tracing the individual paths of both parties, their encounters and collaborations, their musical achievements and influences, and their subsequent developments, using chronology, diagrams, and analysis.
+Text: mmr｜Theme: Tracing the individual paths of both parties, their encounters and collaborations, their musical achievements and influences, and subsequent developments, using chronology, diagrams, and analysis.
 
-In an old club covered in dust from Chile, there was a moment when the sound was reborn. Ricardo Villalobos returned to his native Chile with the techno sensibilities honed in Berlin, Germany, still holding onto the South American rhythms of his childhood. That same night, Luciano was exploring his music in the Chilean club scene. The two met - it wasn't just a coincidence, it was almost inevitable.
+In an old club covered in dust from Chile, there was a moment when the sound was reborn. Ricardo Villalobos returned to his native Chile with the techno sensibilities honed in Berlin, Germany, while still holding onto the South American rhythms of his childhood. That same night, Luciano was exploring his music in the Chilean club scene. The two met - it wasn't just a coincidence, it was almost inevitable.
 
 Their music has the power to go beyond mere dance beats and fuse culture and the body, as well as time and space. This is one "story" that will remain in the club's history.
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ### The trajectory of Villalobos
 
-Ricardo Villalobos was born in 1970 in Santiago, Chile. His family moved to Germany when he was young, but the rhythms of South America remained with him. The sounds of congas and bongos would later be revived as subtle percussion in his tracks. In his early 20s, while working in the Berlin club scene, he was exposed to the cutting edge of minimal techno, and by fusing it with a Latin-derived rhythmic sensibility, he formed his own musical language.
+Ricardo Villalobos was born in 1970 in Santiago, Chile. His family moved to Germany when he was young, but the rhythms of South America remained with him. The sounds of congas and bongos would later be revived as subtle percussion in his tracks. In his early 20s, while working in the Berlin club scene, he was introduced to the cutting edge of minimal techno, and by fusing it with a Latin-derived rhythmic sensibility, he formed his own musical language.
 
 His early EP works were characterized by an "immersive" sound with subtle percussion and long tracks. For example, ""Halma" and ""Que Belle Epoque" go beyond mere dance music and have structures that involve the listener in the flow of time.
 
@@ -51,19 +51,19 @@ His early EP works were characterized by an "immersive" sound with subtle percus
 
 Luciano (real name Lucien Nicolet) was born in Switzerland in 1978 and grew up in Chile. He became familiar with the guitar from an early age and developed a sense of the rhythm of Latin music. He first encountered club music when he was a teenager, absorbing disco, house, and techno while searching for his own "warm minimalist" style.
 
-The label he later founded, Cadenza, produced artists who combined South American enthusiasm with European minimalism. Luciano's music always has a "dialogue with the dance floor" and focuses on the physical sensations of the dancer.
+The label he later founded, Cadenza, produced artists who combined South American energy with European minimalism. Luciano's music always has a "dialogue with the dance floor" and focuses on the physical sensations of the dancer.
 
 ---
 
 ## Chapter 2: Encounter and the birth of Sense Club
 
-While Villalobos sat at a turntable in a Chilean club in the late 1990s, Luciano sensed the rhythmic contours and instantly resonated with him. The two will launch a joint project called ""Sense Club.'' This place, where Latin rhythms and European techno intersect, has transcended the framework of a simple musical unit and has become a testing ground for culture and the body.
+In a Chilean club in the late 1990s, while Villalobos sat at a turntable, Luciano sensed the rhythmic contours and instantly resonated with him. The two will launch a joint project called ""Sense Club.'' This venue, which intersects Latin rhythms and European techno, has gone beyond the framework of a mere musical unit and has become a testing ground for culture and the body.
 
 Sense Club's philosophy was clear. ""Dancing is not just a movement, but a ritual that connects culture and the body.'' Long sets, subtle percussion, and the occasional cacophony of sounds all breathe new life into the dance floor.
 
 ### Sense Club early live anecdotes
 
-One night there were about 300 people on the club floor. Villalobos plays long tracks in sequence, making minute adjustments on the turntable. Meanwhile, Luciano mixed samples of percussion instruments in real time. The audience danced for a long time, and by the end of the set, they seemed to have melted into the flow of time. This experience was a moment that symbolized the two's musical philosophies.
+One night there were about 300 people on the club floor. Villalobos plays long tracks in sequence, making minute adjustments on the turntable. Meanwhile, Luciano mixed samples of percussion instruments in real time. The audience danced for a long time, and by the end of the set, they seemed to have melted into the flow of time. This experience was a symbolic moment in the two's musical philosophies.
 
 ---
 
@@ -71,12 +71,12 @@ One night there were about 300 people on the club floor. Villalobos plays long t
 
 ### Evolution of Alcachofa and Villalobos
 
-In 2003, Villalobos released the album Alcachofa. This work is hailed as a masterpiece that redefines the language of club culture. Throughout the long track, which lasts over 10 minutes, the rhythm changes minutely and the beats intertwine incessantly. The listeners' bodies were naturally immersed in the flow of time, and the floor became a kind of ""ceremonial space.''
+In 2003, Villalobos released the album Alcachofa. This work is hailed as a masterpiece that redefines the language of club culture. In the long track, which lasts over 10 minutes, the rhythm changes minutely and the beats intertwine constantly. The listeners' bodies were naturally immersed in the flow of time, and the floor became a kind of ""ceremonial space.''
 
 Examples of songs included in the album:
 
 - *Fizheuer Zieheuer* — Looped percussion gradually unfolds, drawing dancers into a vortex of time.
-- *Enfants* — Minimal beats and understated melodies overlap to create a floating feeling in the space.
+- *Enfants* — Minimal beats and modest melodies overlap to create a floating feeling in the space.
 - *Que Belle Epoque* — Unusual percussion brings tension and release to the floor at the same time
 
 ### Luciano and Cadenza Label
@@ -84,18 +84,18 @@ Examples of songs included in the album:
 Around the same time, Luciano founded the Swiss-based Cadenza label. The sound, which mixed the warmth of Latin and the coolness of minimalism, became a breath of fresh air in European clubs. His early releases include songs such as:
 
 - *Rise of Angel* — A fusion of deep bass lines and rhythmic percussion
-- *The Dialogue* — A set track that focuses on dialogue between melody and rhythm.
+- *The Dialogue* — A set track with a dialogue between melody and rhythm.
 - *No Friends* — A long track optimized for impromptu dance on the club floor
 
 ---
 
 ## Chapter 4 Intersection of culture and sound
 
-Their music is more than just beats. By combining Villalobos" German precision with electronic music and Luciano"s South American rhythmic sensibilities, the club became more than just a playground, but a cultural embodiment. The audience was unknowingly moving between two worlds as they surrendered to the beat.
+Their music is more than just beats. By combining Villalobos" German precision with electronic music and Luciano"s South American rhythmic sensibilities, the club has transformed from just a playground to a place that embodies culture. The audience was unknowingly moving between two worlds as they surrendered to the beat.
 
 ### Revolution of rhythm and body
 
-Villalobos" long tracks draw the listener/dancer into a whirlpool of time. The minute changes repeated over 10 or 15 minutes assimilate the body to the rhythm, turning the club into a ceremonial space rather than just a playground. The addition of Luciano"s Latin percussion fills the floor with warmth and dynamism.
+Villalobos" long tracks draw listeners/dancers into a whirlpool of time. The minute changes repeated over 10 or 15 minutes assimilate the body to the rhythm, turning the club into a ceremonial space rather than just a playground. The addition of Luciano"s Latin percussion fills the floor with warmth and dynamism.
 
 ---
 
@@ -105,7 +105,7 @@ Sense Club's live performance at Mutek Festival (Chile) in 2004 is known as a le
 
 ### World tour and international influence
 
-Both perform live throughout Europe, South America, and North America. Performances in Berlin, Zurich, Santiago, and New York in particular were large-scale and had a revolutionary impact on club culture. Today's tech house and minimalist styles are clearly influenced by their efforts.
+Both perform live throughout Europe, South America, and North America. Their performances, especially in Berlin, Zurich, Santiago, and New York, were large-scale and had a revolutionary impact on club culture. Today's tech house and minimalist styles are clearly influenced by their efforts.
 
 ---
 

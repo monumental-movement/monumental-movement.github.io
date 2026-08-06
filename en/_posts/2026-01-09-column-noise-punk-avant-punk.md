@@ -14,13 +14,13 @@ title: '[Column] Noise Punk / Avant-Punk ─ When destructive impulse becomes id
 
 
 
-## Prologue: Why Punk Had to Break
+## Prologue: Why did punk have to break?
 
 Text: mmr｜Theme: About noise punk/avant punk, which is a memory device for constantly rejecting the safe zone of music
 
 Noise punk/avan punk is an attempt at extreme self-destruction that arose from within the punk movement that was born in the late 1970s. Rather than the superficial images of early punk, such as speed and rebellion, punk is characterized by its underlying impulse of ""denial," ""rejection," and ""destruction,'' which extends to the musical structure itself.
 
-In this music, skill and pleasure are not important. Rather, phrases that are close to unplayable, dissonance, and rhythms that are on the verge of collapse are actively chosen. There was a clear distrust of rock's entertainment value and commercial value.
+In this music, skill and pleasure are not important. Rather, phrases that are close to unplayable, dissonance, and rhythms on the verge of collapse are actively chosen. There was a clear distrust of rock's entertainment and commercial value.
 
 DNA and The Pop Group are the most radical embodiment of this attitude. Rather than updating punk, they opened up a completely different realm of expression by dismantling punk from within.
 
@@ -44,7 +44,7 @@ color: #fff;
 
 ## Punk after Punk: Collapse of preconditions
 
-Around 1977, punk spread rapidly and at the same time rapidly became formalized. 3 chords, short songs, aggressive attitude. They quickly became a style and began to be reproduced. Noise punk/avant punk was born out of a strong sense of discomfort with this situation.
+Around 1977, punk spread rapidly and at the same time rapidly became formalized. 3 chords, short songs, aggressive attitude. They quickly became a style and began to be reproduced. Noise punk/avan punk was born out of a strong sense of discomfort with this situation.
 
 The problem for them was that rock was once again being reduced to ""easy-to-understand music''. Rebellion becomes a symbol, and dissent becomes fashionable. In order to reject the process itself, the music intentionally moved in an incomprehensible direction.
 
@@ -72,7 +72,7 @@ DNA was a band active in New York in the late 1970s, and was a core member of th
 
 Guitars do not form chords, but emit single notes or irregular noises. The bass and drums don't share a beat, and the performance is always on the verge of collapse. The vocals reject the melody and are released as fragmented words and screams.
 
-Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established.''
+Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established''.
 
 > DNA achieved the paradox of denying rock by performing.
 
@@ -137,7 +137,7 @@ timeline
 
 This trend occurred intensively in a short period of time and left a deep influence on subsequent alternative music.
 
-> Although the history of noise punk is short, its aftershocks continue for a long time.
+> The history of noise punk is short, but its aftershocks are long lasting.
 
 ---
 
@@ -145,7 +145,7 @@ This trend occurred intensively in a short period of time and left a deep influe
 
 Although noise punk/avant punk was not a commercial success, its influence extends to subsequent experimental music, post-punk, industrial, and even contemporary noise.
 
-What is important is not a specific sound, but the inheritance of an ""attitude of continued doubt.'' Every time music is about to be reclaimed as pleasure, it has played the role of creating a crack.
+What is important is not a particular sound, but the fact that an attitude of continued doubt was inherited. Every time music is about to be reclaimed as pleasure, it has played the role of creating a crack.
 
 > Noise punk is a memory device that constantly refuses the safe zone of music.
 

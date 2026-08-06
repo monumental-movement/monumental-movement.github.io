@@ -24,10 +24,10 @@ Text: mmr｜Theme: How has music education changed society? -Cultural impact int
 Music education is not just technical training. Like reading, writing, and arithmetic, it has been designed as a system for specifying what nations, religions, and communities should share.
 In schools, churches, the military, and local communities, music has always been linked to group formation, discipline, and the transmission of values.
 
-Systematic music education was established in the West in medieval monasteries. The unified transmission of Gregorian chant was the earliest example of the inseparability of musical notation and the educational system.
+In the West, systematic music education was established in medieval monasteries. The unified transmission of Gregorian chant was the earliest example of the inseparability of musical notation and the educational system.
 Here, music was both a religious practice and an educational content that cultivated a class of knowledge.
 
-With the establishment of the modern nation, music education was incorporated into the public education system. Singing the national anthem, singing education, and training military bands were introduced as part of national unification through music.
+With the establishment of the modern nation, music education was incorporated into the public education system. Singing of the national anthem, singing education, and training of military bands were introduced as part of national unification through music.
 Before music education was ""sensitivity education,'' it functioned as a device to stabilize the social structure.
 
 > Music education has always been designed within social institutions, supporting both culture and governance.
@@ -52,11 +52,11 @@ color: #fff;
 ## Formation of the public education system and music curriculum
 
 
-After the 19th century, when compulsory education systems were established in each country, music became an official subject.
+After the 19th century, as compulsory education systems were established in each country, music became an official subject.
 In Prussia and France, music education was combined with moral education and played a role in instilling collective behavior and discipline.
 
 In the United States, the concept of ""music appreciation'' was introduced in the late 19th century, and emphasis was placed on developing not only performance techniques but also appreciation skills.
-This was also a means of forming a common culture in an immigrant society.
+This was also a means of forming a common culture in immigrant societies.
 
 Singing education was introduced in Japan during the Meiji period, and a unique educational system was built that was based on Western music theory but combined Japanese lyrics and national ideals.
 Music was a symbol of modernization and at the same time functioned as part of national education.
@@ -94,7 +94,7 @@ Access to music education has long been strongly tied to social class.
 The cost of purchasing musical instruments, the cost of lessons, and the availability of time were more advantageous than those of the middle class.
 
 Classical music education has been particularly associated with elite education and has functioned as a symbol of cultural capital.
-On the other hand, music education for the working class centered on group forms such as chorus and wind bands.
+On the other hand, music education for the working class centered on group formats such as chorus and wind bands.
 
 From the latter half of the 20th century onwards, the disparity in opportunities for music education was corrected to a certain extent through public subsidies and the expansion of school education.
 However, economic factors continue to influence musical instrument education and professional education.
@@ -133,10 +133,10 @@ DAWs, online teaching materials, and video sharing platforms have revolutionized
 Knowledge that was previously limited to specialized institutions can now be shared widely through the Internet.
 This has brought about the democratization of music education and the diversification of evaluation standards.
 
-On the other hand, the division between systematic education and self-study has also been pointed out.
+On the other hand, it has also been pointed out that there is a divide between systematic education and self-learning.
 While there are concerns about a decline in basic theory and music reading ability, learning outcomes that emphasize creativity have also been confirmed.
 
-The digital environment has moved music education from a single-track career to a multi-track learning model.
+The digital environment has shifted music education from a single-track career to a multi-track learning model.
 
 > Digitalization is expanding the scope of music education, and at the same time changing the way we view education itself.
 
@@ -164,9 +164,9 @@ timeline
 
 
 Although music education is a field whose results are difficult to quantify, it has had a long-term impact on society.
-Aspects such as cultural inheritance, social participation, and the formation of a sense of community are difficult to replace in other educational fields.
+Aspects such as the inheritance of culture, social participation, and the formation of a sense of community are difficult to replace in other fields of education.
 
-Although music education as a system has always changed, the experience of interacting with others through sound itself is universal.
+Although music education as a system is constantly changing, the experience of interacting with others through sound itself is universal.
 It is one of the areas of education that most clearly shows what kind of human being society is looking for.
 
 > Music education has quietly but surely shaped society's values.

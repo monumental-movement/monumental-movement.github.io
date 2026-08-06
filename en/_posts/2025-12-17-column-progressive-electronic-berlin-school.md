@@ -19,7 +19,7 @@ title: '[Column] Progressive Electronic / Berlin School'
 Text: mmr｜Theme: Progressive electronic and Berlin School electronic music from the late 1960s to the present
 
 
-20th century electronic music began in the realm of academic research and experimental art. Following the development of electronic musical instruments in the 1920s and 1930s, magnetic tape technology after the war, and the establishment of musique concrète and electronic music studios in the 1950s, an environment began to emerge in the late 1960s that allowed individual composers to create electronic music outside of the studio. Amid this change, a series of progressive electronic music that later became known collectively as the ""Berlin School'' was established mainly in West Germany.
+20th century electronic music began in the realm of academic research and experimental art. Following the development of electronic musical instruments in the 1920s and 1930s, postwar magnetic tape technology, and the establishment of musique concrète and electronic music studios in the 1950s, an environment began to emerge in the late 1960s that allowed individual composers to create electronic music outside of the studio. Amid this change, a series of progressive electronic music that later became known collectively as the ""Berlin School'' was established mainly in West Germany.
 
 The Berlin School is not a unified movement or an official school in the strict sense of the word. It is a name that was unified in later music history research and criticism as a result of multiple composers working in a common metropolitan area, technological environment, and musical interests. At its core are composers and projects such as Tangerine Dream, Klaus Schulze, and Ash Ra Tempel (later Ashra).
 
@@ -45,7 +45,7 @@ color: #fff;
 
 After World War II, research into composition using purely electronic sounds was carried out in Germany, centered on the Cologne Electronic Music Studio. Meanwhile, in France, musique concrète, which uses environmental and concrete sounds as its materials, developed. These trends gave later electronic musicians the concept of ""constructing sound itself.''
 
-In the 1960s, modular synthesizers appeared. It became possible to change pitch, timbre, and rhythm through voltage control, allowing composers to manipulate sound in real time. This technological progress supported the establishment of the Berlin School, which is characterized by long structures and repetitive progressions.
+In the 1960s, modular synthesizers appeared. Voltage control enables changes in pitch, timbre, and rhythm, allowing composers to manipulate sound in real time. This technological progress supported the establishment of the Berlin School, which is characterized by long-form structures and repetitive progressions.
 
 ### Point of contact between rock and avant-garde
 
@@ -59,11 +59,11 @@ At the same time, a movement to fuse rock and avant-garde art was gaining moment
 
 Tangerine Dream was formed in 1967, and their early work combined rock formations with avant-garde improvisation. In the early 1970s, he began composing using synthesizers and sequencers.
 
-What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-form structure that musicalizes the flow of time itself, which differs from traditional song formats.
+What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-length structure that musicalizes the flow of time itself, which differs from traditional song formats.
 
 ### Klaus Schulze
 
-After participating in Tangerine Dream and Ash Ra Tempel, Klaus Schulze will focus on his solo career. His works are characterized by longer sustained notes, gradual changes, and improvisation. In many cases, the rhythm does not appear clearly, and the transition of the timbre itself forms the structure.
+After participating in Tangerine Dream and Ash Ra Tempel, Klaus Schulze will focus on his solo career. His works are characterized by longer sustained notes, gradual changes, and improvisation. In many cases, the rhythm does not appear clearly, and the transition of tones itself forms the structure.
 
 From the beginning, Schulze worked in a private studio, practicing multi-layered recordings using numerous synthesizers and tape equipment. This production form also influenced later ambient and drone music.
 
@@ -113,7 +113,7 @@ In the 21st century, modular synthesizers are being reevaluated. The Berlin Scho
 
 ## Chapter 7 Detailed analysis of technical foundations
 
-This chapter organizes the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
+In this chapter, we will organize the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
 
 ### Analog modular synthesizer
 
@@ -125,7 +125,7 @@ This non-determinism is strongly connected to the Berlin School's compositional 
 
 Analog sequencers were devices that cycled through multiple steps of voltage values, and provided the physical support for the repetitive structure of the Berlin School. Each step is evenly distributed in time, but melodic and harmonic contours are formed by setting the voltage values.
 
-What is important is that the sequence is based on ""cycle" rather than ""meter." As a result, rhythm became not just a framework for dancing, but a foundation for expanding the listener's sense of time.
+What is important is that the sequence is based on ""circulation" rather than ""meter." As a result, rhythm became not just a framework for dancing, but a foundation for expanding the listener's sense of time.
 
 ### Tape recording and multilayer structure
 
@@ -143,9 +143,9 @@ A format in which a certain sequence runs through the entire song, expanding thr
 
 ### Unbeatable continuous tone type
 
-A form that is built around sustained notes and slow changes, without a clear sequence. It is prominent in the works of Klaus Schulze, and became the prototype for later ambient and drone music.
+A format built around sustained notes and slow changes, without a clear sequence. It is prominent in the works of Klaus Schulze, and became the prototype for later ambient and drone music.
 
-### Improvisation recording editing type
+### Impromptu recording editing type
 
 A format that uses live or studio improvisation as material and is structured through post-editing. This method blurs the boundaries between composition and performance, positioning the work as a record of an event.
 
@@ -157,7 +157,7 @@ From the late 1970s onwards, Berlin School composers expanded their activities i
 
 The Berlin School method of film music is characterized by its emphasis on spatial formation rather than melody-driven music. Rather than illustrating a story, music plays a role in constructing a psychological and physical environment.
 
-This practice was inherited by later cinematic ambient and sound design-oriented electronic music.
+This practice was inherited in later cinematic ambient and sound design-oriented electronic music.
 
 ---
 
@@ -167,13 +167,13 @@ In order to accurately understand the Berlin School, it is necessary to organize
 
 ### Before Kraftwerk
 
-Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock and academic electronic music.
+Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock, and also a release from academic electronic music.
 
 ### After Kraftwerk
 
 Kraftwerk reorganized electronic music into clear rhythmic structures and repetitive beats. This has led to the international acceptance of electronic music as a danceable form. On the other hand, the Berlin School kept its distance from beat-centricism and maintained its own line as time-expanding music.
 
-This divergence, as a differentiation between techno/synthpop and ambient/drone, gave a clear axis to the electronic music map of later years.
+This divergence, as a differentiation between techno/synthpop and ambient/drone, gives a clear axis to the electronic music map of later years.
 
 ---
 
@@ -207,7 +207,7 @@ G --> H["Techno"]
 
 ## Conclusion
 
-In the history of electronic music, the Berlin School is positioned as a movement that transformed the sense of time rather than the format. Its influence continues to expand, quietly but surely.
+In the history of electronic music, the Berlin School is positioned as a movement that transformed not the form but the sense of time. Its influence continues to expand, quietly but surely.
 
 ---
 

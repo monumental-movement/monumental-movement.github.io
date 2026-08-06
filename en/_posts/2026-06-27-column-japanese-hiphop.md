@@ -62,7 +62,7 @@ Rappers at the time were mixing English phrases with Japanese, searching for for
 
 In the mid-1990s, Japanese rap suddenly began to take on a social aspect. The symbol of this is King Giddra. Their song ""Power from the Sky'' was a historical work that verbalized the feeling of confinement in the city and the anger of young people.
 
-The composition of Zeebra, K Dub Shine, and DJ Oasis was "polyphonic hip hop", each depicting the city from a different perspective.
+The composition of Zeebra, K Dub Shine, and DJ Oasis was "polyphonic hip-hop", each depicting the city from a different perspective.
 
 In particular, K Dub Shine's lyrics brought a "criticism" to Japanese rap with a style that intersected news perspectives and personal feelings.
 
@@ -72,7 +72,7 @@ Around the same time, Scha Dara Parr was instrumental in reducing hip-hop to the
 
 Through this contrast, Japanese rap acquires two axes: ""anger" and ""play."
 
-### Impact of Buddha Brand and "Human Power Plant"
+### The impact of Buddha Brand and the "human power plant"
 
 In the underground world, Buddha Brand's ""Human Power Plant'' becomes a symbolic incident. This song is said to be a work that established the "black aesthetic" of Japanese rap.
 
@@ -142,7 +142,7 @@ His presence presented a perspective of ""coexistence with the streets" rather t
 
 BAD HOP, based in Kawasaki, Kanagawa, presented a new model of Japanese rap by combining trap sounds with regional characteristics.
 
-They quickly spread through YouTube, becoming both local and global at the same time.
+They quickly spread through YouTube, making them both local and global at the same time.
 
 <div class="mermaid">
 flowchart LR
@@ -170,7 +170,7 @@ Hip-hop is merging with electro, rock, and pop, and clear genre boundaries are d
 
 ### A new meaning to freestyle
 
-Battle culture has moved to YouTube, and while improvisation has become a "show," it has become even more important in terms of visualizing language ability.
+Battle culture has shifted to YouTube, and while improvisation has become a "show", it has become even more important in terms of visualizing language ability.
 
 <div class="mermaid">
 flowchart TD
@@ -197,7 +197,7 @@ Thanks to short-form media such as TikTok, rap has moved from the ""era of full 
 
 ### Redefinition as an urban language
 
-Today's Japanese hip-hop is not just music, but functions as an ""urban language system.'' It has a structure in which regional, individual, and global characteristics coexist at the same time.
+Today's Japanese hip-hop is not just music, but functions as an ""urban language system.'' It has a structure in which locality, individuality, and globality coexist at the same time.
 
 <div class="mermaid">
 flowchart LR

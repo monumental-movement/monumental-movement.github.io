@@ -60,7 +60,7 @@ This was a time when the word "future" still contained both hope and fear; it wa
 ## Chapter 2 UK edition: Dawn of the New Romantic
 
 In the early 1980s, young people dressed in eccentric makeup and fashion gathered at London's Blitz club.
-They were dubbed the "Blitz Kids" and created new icons like Visage, Spandau Ballet, and Duran Duran.
+They were dubbed the "Blitz Kids" and created new icons such as Visage, Spandau Ballet, and Duran Duran.
 What was playing here was the sound of ""New Romantic'' wrapped in electronic sparkle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Im3JzxlatUs?si=9L5V4yfDnF78Y_MT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -68,7 +68,7 @@ What was playing here was the sound of ""New Romantic'' wrapped in electronic sp
 ---
 
 Gary Numan's Cars became an anthem of urban loneliness, and Depeche Mode portrayed the frustrations of youth with the inorganic sounds of industrial areas.
-Meanwhile, New Order transcends Joy Division's tragedy and heads to the dance floor, fusing the electronic and the physical with "Blue Monday."
+Meanwhile, New Order moves past Joy Division's tragedy and heads to the dance floor, fusing the electronic and the physical with "Blue Monday."
 Neil Tennant of Pet Shop Boys said, ""Synths are masks to hide your emotions.''
 Synthpop was truly the ""aesthetics of loneliness'' of the 1980s.
 
@@ -77,9 +77,9 @@ Synthpop was truly the ""aesthetics of loneliness'' of the 1980s.
 ## Chapter 3 US edition: Electro-pop and MTV dizziness
 
 In America, Donna Summer and producer Giorgio Moroder's 1977 hit ""I Feel Love'' was a decisive turning point.
-Introducing a full electronic beat to the disco rhythm, the song transported the dance floor into the future.
+Introducing a full electronic beat to a disco rhythm, the song transported the dance floor into the future.
 Prince continued this trend and created a fusion of funk and synth called the Minneapolis sound.
-Although his music is sexual, he finds a real groove in the electronic sounds.
+Although his music is sexual, he finds a deep-blooded groove in the electronic sounds.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ZqqvrWCs3Q?si=y-zm367WFHsR2Pdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,7 +97,7 @@ This was the moment when Kraftwerk's ideas were reflected in the gorgeous mirror
 
 At that time, a quiet revolution was beginning in Tokyo.
 The sound produced by YMO (Yellow Magic Orchestra) in 1978 was not just an imitation, but a reimagining of electronic music into an "Asian context."
-Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s sense of rhythm: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
+Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s rhythmic sensibilities: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
 
 Ryuichi Sakamoto later said:
 > "Technology is a way to make music more human."
@@ -106,9 +106,9 @@ Ryuichi Sakamoto later said:
 
 ---
 
-When Perfume and Yasutaka Nakata arrived on the scene in the 2000s, that philosophy was revived in a new form.
-The voice was artificial due to auto-tune and sequencing, but it certainly had the ""feelings of the digital age'' in it.
-They symbolized an era when ""being mechanical" became ""cute."
+When Perfume and Yasutaka Nakata emerged in the 2000s, that philosophy was revived in a new form.
+The voice was artificial due to auto-tune and sequencing, but it certainly had the ""emotions of the digital age'' in it.
+They symbolized an era when being mechanical became cute.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QF_bLVsJLlY?si=yL5vXkVtGfxIWUi5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -123,8 +123,8 @@ Japanese synth pop has matured as a "translation" rather than a mere imitation.
 
 ## Chapter 5 Resonance of the world: Where Japanese electronic sounds have crossed over
 
-YMO's impact spread across the ocean to many artists.
-Daft Punk praised Ryuichi Sakamoto's sound design in interviews, and their sense of melody is clearly influenced by Japanese minimalism.
+YMO's impact spread to many artists across the world.
+Daft Punk have praised Ryuichi Sakamoto's sound design in interviews, and their sense of melody is clearly influenced by Japanese minimalism.
 Radiohead"s ""Kid A" is an introspective development of YMO"s idea of ​​""depicting emotions with electronic sounds."
 "Everything in Its Right Place" is cold and beautiful, as if the ghosts of "BGM" and "Technodelic" have come back to life.
 
@@ -141,7 +141,7 @@ Behind this is a continuous technological aesthetic from YMO to Perfume.
 
 ---
 
-## Chapter 6 Technology and emotions: When machines draw humans
+## Chapter 6 Technology and Emotions: When Machines Depict Humans
 
 Sequencer, sampler, autotune.
 These were not tools for ""accuracy," but brushes used to highlight ""human ambiguity."
@@ -150,7 +150,7 @@ Something mechanical can be emotional—that's the paradoxical charm of synthpop
 In the 21st century, ""the aesthetics of imperfection'' is being reevaluated.
 Grimes" voice wavering, Charli XCX"s AI vocal processing, and Yaeji's blend of native languages.
 All of these prove that ""imperfect sounds'' convey humanity.
-As AI composition advances, the "human artificiality" of synthpop may be the last romanticism in music.
+As AI composition evolves, the "human artificiality" of synthpop may be the last romanticism in music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -215,7 +215,7 @@ flowchart TD
     A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
     A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
     A2012["2012: Grimes' Visions"<br>Towards the era of DIY synth pop"]
-    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyperpop"]
+    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyper pop"]
     A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
     A2023["2023: Caroline Polachek "Desire, I Want To Turn Into You"<br>Towards the extreme north of maturity"]
 
@@ -241,7 +241,7 @@ flowchart TD
 | 2000s | **Perfume** | *GAME* (2008) | A monumental piece of high-tech pop from Japan. Yasutaka Nakata's perfectionist aesthetic.     | [Amazon](https://amzn.to/4n5WHoC) |
 | 2010s | **Grimes** | *Art Angels* (2015) | A fusion of otaku culture and DIY pop. Anticipating emotions in the AI ​​era.      | [Amazon](https://amzn.to/4q6159R) |
 | 2010s | **Charli XCX** | *Crash* (2022) | The complete form of hyper pop. Embodying the future form of synth pop.        | [Amazon](https://amzn.to/3JaMwRD) |
-| 2020s | **Yaeji** | *With a Hammer* (2023) | A standard bearer of next-generation synth pop that mixes Korean and English.         | [Amazon](https://amzn.to/48rkjAr) |
+| 2020s | **Yaeji** | *With a Hammer* (2023) | A standard-bearer of next-generation synth pop that mixes Korean and English.         | [Amazon](https://amzn.to/48rkjAr) |
 
 ---
 

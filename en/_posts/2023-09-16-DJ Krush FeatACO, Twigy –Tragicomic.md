@@ -14,7 +14,7 @@ title: DJ Krush FeatACO, Twigy –Tragicomic
 
 DJ Krush is a highly regarded track maker in Japanese hip-hop, trip-hop, and downtempo music genres, known for his unique sound and beat-making skills.
 
-ACO is one of the singers who has received high praise both in Japan and abroad for his soulful and emotional vocal style, and Twigy has gained attention for his rapping skills and career.
+ACO is one of the singers who has received high praise in Japan and abroad for his soulful and emotional vocal style, and Twigy has gained attention for his rapping skills and career.
 
 "Tragicomic" was released as part of DJ Krush's albums and singles and is enjoyed by trip-hop and electronica enthusiasts.
 

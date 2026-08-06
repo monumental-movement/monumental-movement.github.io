@@ -21,14 +21,14 @@ title: '[Column] French Touch / Nu Disco: Reappraisal of French house since the 
 Text: mmr｜Theme: How the reappraisal of 2000s French house connected to Nu Disco——
 About analog synths, record culture, and filter house techniques
 
-In the late 2020s, **French Touch** (French house) is being reevaluated in both club and internet culture. In terms of DJ performances, songs like Stardust"s ""Music Sounds Better With You" and Cassius' ""1999" are moving the younger crowd again, and Daft Punk"s early works are finding new audiences through vinyl reissues.
+In the late 2020s, **French Touch** (French house) is being reevaluated in both club and internet culture. DJ performances such as Stardust"s ""Music Sounds Better With You" and Cassius' ""1999" are stirring the dance floor among younger audiences once again, and Daft Punk"s early works are finding new audiences through vinyl reissues.
 Furthermore, as domestic and foreign producers actively incorporate *analog synths, tape textures, the roughness of sampling, and the texture of vinyl lips*, they are naturally connecting with the context of **Nu Disco**, which was established in the late 2000s.
 
 This phenomenon is not just nostalgia.
 Rather, it is precisely because the digital environment has become completely pervasive that
 **The ""temperature of analog", ""the fluctuation of filters", and the ""physicality of record culture''** are being reinterpreted.
 
-The "feel" of French Touch is giving a new reality to electronic music in the 2020s.
+The ""touch'' of French Touch is giving a new reality to electronic music in the 2020s.
 
 ---
 
@@ -79,8 +79,8 @@ These filter modules have an analog structure, so the overtone fluctuations duri
 
 ### ● ② Record sampling and EQ/filter work
 Daft Punk actively employs vinyl noise and texture as part of their music by leaving the sample's sound image "rough".
-Especially during the "Discovery" period, instead of polishing the sample to high quality,
-**The aesthetics of making pop music ""just as it was picked up from records**'' is a constant.
+Especially during the "Discovery" period, instead of polishing the samples to high quality,
+**The aesthetic of making pop music ""just as it was picked up from the record''** is a constant.
 
 ### ● ③ Tape/compression texture
 Outboard compressors (especially the Alesis 3630) were often used in studio environments at the time.
@@ -94,7 +94,7 @@ In 1998, the unit "Stardust" of Thomas Bangalter + Alan Braxe + Benjamin Diamond
 **Recorded a worldwide hit with the release of only one song**.
 
 Features:
-- Samples the riff from Chaka Khan's "Fate"
+- Sample the riff from Chaka Khan's "Fate"
 - Roulé label-like filter processing
 - Extremely sophisticated melody and disco feel
 
@@ -143,7 +143,7 @@ In this context, French Touch's ""sampling aesthetics," ""filterwork," and ""ana
 
 ---
 
-## 7. Nu Disco's representative producer and the inheritance of French Touch
+## 7. Nu Disco"s representative producer and the inheritance of French Touch
 ### ● Todd Terje (Norway)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gHiqPG0526U?si=uMtmiTUfQuyJDj4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -157,7 +157,7 @@ In this context, French Touch's ""sampling aesthetics," ""filterwork," and ""ana
 ---
 
 ### ● Breakbot (France)
-- AOR to disco route similar to Daft Punk "Discovery"
+- AOR to disco route similar to Daft Punk's "Discovery"
 - Combination of light bass line and live instruments
 - Inheriting the "cute and colorful sound image" of French Touch
 
@@ -185,7 +185,7 @@ These artists updated the French Touch gene in a Nu Disco context.
 - rich in saturation
 - High frequency components are round and blend well with disco sounds
 
-French Touch's filter sweep relied on analog harmonic changes.
+French Touch's filter sweep relied on harmonic changes unique to analog.
 
 ### ◆ ② Record culture: Music production based on sampling
 Much of French Touch begins with vinyl samples.
@@ -203,9 +203,9 @@ This "ambiguity" was very important to French Touch.
 ### ◆ ③ Tape/analog outboard
 - light distortion of tape
 - Crushed loops due to compressor
-- Coarse sampling rate of MPC/SP-1200
+- MPC/SP-1200 coarse sampling rate
 
-These qualities have been passed down to Nu Disco's texture.
+These qualities have been passed down to the texture of Nu Disco.
 
 ---
 
@@ -276,7 +276,7 @@ This has been a consistent legacy since Daft Punk's "Da Funk."
 
 ### ◆ From sampling to "replay"
 Nu Disco is more than just sampling.
-**There are many styles that ""reconstruct disco'' with real synths**.
+**There are many styles that ""reconstruct disco'' using real synths**.
 This can be said to be a realization of the French Touch aesthetic with a "modern, polished sound."
 
 ---
@@ -288,7 +288,7 @@ It remains deeply rooted in today's dance music.
 
 The rise of Nu Disco, the return to pop music, and the return of analog media culture.
 These are all the legacies of French Touch.
-In fact, it is thought that this re-evaluation will accelerate further in the future.
+その再評価はむしろ今後さらに加速すると考えられる。
 
 > **French Touch is music that redefines "analog magic" in the digital age. **
 > **And Nu Disco is its successor, keeping that spirit updated for the 21st century. **

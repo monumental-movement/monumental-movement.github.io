@@ -9,8 +9,7 @@ tags:
 - Citypop
 - 70s
 - 80s
-title: '[Column] Tatsuro Yamashita: Analog aesthetics and changes in sound after transition
-  to digital'
+title: 【コラム】 山下達郎：アナログの美学とデジタル移行後の音の変化
 ---
 
 
@@ -19,7 +18,7 @@ title: '[Column] Tatsuro Yamashita: Analog aesthetics and changes in sound after
 Text: mmr｜Theme: From the city pop era to the latest works, about the sound philosophy followed by "recording people"
 
 In the history of Japanese pop music, **Tatsuro Yamashita** is not only a vocalist and composer, but also one of Japan's leading ""recording authors''.
-What runs through his albums, more than trends or musical genres that change with the times, is **recording technology, medium, and acoustic philosophy**.
+What runs through his albums, more than trends or music genres that change with the times, is **recording technology, medium, and acoustic philosophy**.
 
 especially,
 - **Thorough sound creation in the analog tape era**
@@ -50,7 +49,7 @@ color: #fff;
 ## ■ Sugar Babe (1973–1976)
 Tatsuro Yamashita's musical outlook was formed in the rock/pop analog recording culture of this period.
 
-- Recording medium: **Analog multitrack tape (2 inches, mainly 16-24tr)**
+- Recording media: **Analog multitrack tape (2 inches, mainly 16-24tr)**
 - Studio: Early Japanese studio (Victor, Nichion, CBS Sony, etc.)
 - Musical background: Deep commitment to American recording culture such as Brian Wilson, Phil Spector, Stax, etc.
 
@@ -58,7 +57,7 @@ During this period, Tatsuro said that he had already solidified the idea that ""
 
 ### ■ Sound characteristics of "SONGS" (1975)
 - Self-chorus overdubbing
-- **Dead room sound** of drums
+- ドラムの**デッドなルームサウンド**  
 - Live recording of horns/strings
 - Analog-specific **thick mid-low range**
 
@@ -66,13 +65,13 @@ Arrangements and recordings optimized for analog characteristics had already beg
 
 ---
 
-# 2. Late 1970s: Early solo period and the completed version of "Analog Layer"
+# 2. Late 1970s: Early solo period and the completed form of "Analog Layer"
 
 ## ■ "SPACY" (1977), "GO AHEAD!" (1978)
 This period was the era when Tatsuro made full use of analog 24-track recording.
 
 Features:
-- **Temperature-feeling compression** with tape
+- テープによる**温度感のあるコンプレッション**  
 - Overdubbing of hand playing (guitar, keyboard, percussion)
 - **Dozens of overdubbing vocals**
 
@@ -87,7 +86,7 @@ In the early 1980s, Japanese studio technology had reached a world-class level.
 At the center of this was **CBS Sony Shinanomachi Studio**.
 
 ### ▼ Analog recording peak
-- Equipment used: Studer A80/A800 24tr, NEVE console
+- 使用機材：Studer A80/A800 24tr、NEVEコンソール  
 - Rhythm: Live drums + analog recording
 - Guitar: Warm tone through compressor
 - Chorus: "Dense layering" unique to analog
@@ -123,7 +122,7 @@ Tatsuro began using digital equipment in earnest.
 
 Specifically, I avoided digital recording itself for the following reasons:
 
-- In the early stages of digital recording, high frequencies are hard and depth is easily lost.
+- In the early stages of digital recording, the high range is hard and depth is easily lost.
 - I hated losing the "roundness" of analog over-recording.
 - Analog was better for building my own chorus.
 
@@ -135,7 +134,7 @@ In fact, Tatsuro says, ""The era when analog 24 tracks became obsolete was a cri
 
 In the 1990s, the industry completely transitioned to digital.
 
-### ▼ Although Tatsuro transitioned to digital recording, his basic stance remained the same.
+### ▼ Although Tatsuro transitioned to digital recording, he did not change his basic stance.
 - Adopts digital recording
 - However, **increased processing to maintain analog texture**
 - Musical instrument recordings still use a lot of live sound
@@ -219,7 +218,7 @@ timeline
 |------|---------------------------|--------------------------|
 | Recording media | Tape (2 inches) | PCM/ProTools |
 | Sound impression | Warm, thick, round | Clear, sharp |
-| Chorus | The more you layer, the more it becomes together | It tends to become stiff when layered |
+| Chorus | The more you layer, the more it becomes | It tends to become stiff when layered |
 | Drums | Thick and natural low range | Fast rise |
 | Noise | Small amount of tape hiss | Almost zero |
 | Tatsuro"s evaluation | "It"s close to the ideal form of music" | "It depends on how you use it" |

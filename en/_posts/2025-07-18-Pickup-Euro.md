@@ -238,7 +238,7 @@ Format: Vinyl
 
 Genre: Euro Beat / Euro House
 
-Belgian-produced Euro truck, published in October 2023
+Belgian produced Euro truck, published in October 2023
 
 #### Tracklist
 ```md
@@ -452,7 +452,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <td>Tam Arrow</td>
 <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
 <td>Vinyl</td>
-<td>Made in Italy 2001 Euro Beat EP</td>
+<td>2001 Made in Italy Euro Beat EP</td>
 </tr>
 <tr>
 <td>Dao Dezi</td>

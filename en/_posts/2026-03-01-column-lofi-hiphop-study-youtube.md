@@ -16,17 +16,17 @@ title: '[Column] Why Lo-Fi hip-hop has become a standard for studying and workin
 
 
 
-## What is Lo-Fi hip-hop?
+## Lo-Fiヒップホップとは
 
-Text: mmr｜Theme: Examining the historical background of Lo-Fi hip-hop becoming globally supported as "background music for studying and working" and the structure of its popularity.
+Text: mmr｜Theme: Examining the historical background of Lo-Fi hip-hop becoming popular worldwide as "background music for studying and working" and the structure of its popularity.
 
-Lo-Fi hip-hop is a sub-genre of instrumental hip-hop that is characterized by intentionally noisy and distorted textures, simple beats, and short loop structures.
+Lo-Fiヒップホップとは、意図的にノイズや歪みを含ませた質感、シンプルなビート、短いループ構造を特徴とするインストゥルメンタル中心のヒップホップ派生ジャンルである。
 Lyrics are often absent and the tempo is around 60-90 BPM.
 
 * Drum machine beats and jazz-inspired harmonies
 * Textures such as record noise and tape hiss
 * Short iterative loop structure
-* Mainly instrumental without vocals
+* ボーカルを排したインストゥルメンタル中心
 * Minimal design suitable for long playback
 
 ---
@@ -36,7 +36,7 @@ Lyrics are often absent and the tempo is around 60-90 BPM.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -47,15 +47,15 @@ color: #fff;
 
 ## History
 
-Lo-Fi hip-hop has its roots in underground hip-hop in the 1990s. It was characterized by a sampling-based production method and a cool, introspective tone. J Dilla and Nujabes are cited as iconic figures.
+Lo-Fi hip-hop has its roots in underground hip-hop in the 1990s. It was characterized by a sampling-based production method and a cool, introspective tone. J Dilla and Nujabes can be cited as iconic figures.
 
-J Dilla established a unique off-the-grid drum arrangement, the so-called "Dilla feel." Nujabes popularized instrumental hip-hop internationally with a softer reimagining of jazz and soul. His songs were used in the TV anime ""Samurai Champloo'' and reached overseas listeners.
+J Dilla established a unique off-the-grid drum arrangement, the so-called "Dilla feel." Nujabes popularized instrumental hip-hop internationally with a softer reimagining of jazz and soul. His songs were used in the TV anime "Samurai Champloo" and reached overseas listeners as well.
 
 From the late 2000s to the early 2010s, the digitalization of production environments progressed, and online sharing of DAWs and sampled materials became commonplace. The genre slowly took shape, with unknown beatmakers releasing songs on platforms like Bandcamp and SoundCloud.
 
 Around 2013, the format of ""24-hour live streaming'' on YouTube became widespread. The symbol of this is a channel that continues to play music along with visuals of an anime-style girl sitting at a desk. Lofi Girl, as it would become widely known, established the format of 24-hour streaming and became a cultural device with millions of concurrent viewers.
 
-Even on Spotify, playlists such as "Chill" and "Focus" are spread by algorithms, and Lo-Fi hip-hop is being redefined as a "functional music category" rather than a "genre."
+Spotifyでも「Chill」「Focus」などのプレイリストがアルゴリズム主導で拡散され、Lo-Fiヒップホップは“ジャンル”というより“機能的音楽カテゴリー”として再定義されていく。
 
 <div class="mermaid">
 timeline
@@ -92,7 +92,7 @@ Representative of the 2010s SoundCloud generation. It gained popularity due to i
 
 ### Idealism
 
-Their melodious, piano-based Lo-Fi beats have expanded their support in the streaming era.
+Their melodic, piano-based Lo-Fi beats have expanded their support in the streaming era.
 
 > The major artists shared an attitude of emphasizing production aesthetics over commercialism.
 
@@ -159,6 +159,6 @@ Music with a repetitive structure is suitable for loop playback. 24-hour distrib
 
 For a generation raised on YouTube and streaming, algorithmic recommendations and playlist culture are the norm, and Lo-Fi was a natural fit for that context.
 
-> The popularity of Lo-Fi hip-hop is not a coincidence, but is shaped by the interaction of acoustic structures and digital environments.
+> The popularity of Lo-Fi hip-hop is not a coincidence; it is shaped by the interaction of acoustic structures and digital environments.
 
 ---

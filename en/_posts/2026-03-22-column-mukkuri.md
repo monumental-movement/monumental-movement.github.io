@@ -24,7 +24,7 @@ The mukkuri, a traditional Ainu musical instrument, is a type of musical instrum
 
 Although the mukkuri has a simple structure, it produces extremely delicate changes in sound. Although the pitch itself cannot be changed significantly, the timbre changes depending on how the mouth opens, the position of the tongue, and the way one breathes, resulting in a wide variety of acoustic expressions.
 
-A feature of this instrument is that ""the performer's body itself becomes a part of the instrument.'' Sound is not manipulated from the outside, but is generated in conjunction with the space inside the body. Therefore, the mukkuri is not just a musical instrument, but also a device that allows one to directly experience the relationship between the body and sound.
+A feature of this instrument is that ""the performer's body itself becomes a part of the instrument.'' Sound is not manipulated from the outside, but is generated in conjunction with the space inside the body. Therefore, the mukkuri is not just a musical instrument, but also a device for directly experiencing the relationship between the body and sound.
 
 > Mukkuri is an instrument that "resonates" rather than "plays"
 
@@ -126,7 +126,7 @@ From this comparison, it can be seen that even among the universal musical instr
 
 With the progress of modernization, Ainu culture underwent major changes. Mukkuri is no exception, and at one point its tradition was on the verge of extinction.
 
-However, from the latter half of the 20th century onwards, mukkuri began to be reevaluated amidst the movement for cultural revival. Opportunities for it to be performed in education, tourism, and performing arts have increased, and it is once again attracting attention.
+However, from the latter half of the 20th century onwards, mukkuri began to be reevaluated amidst the movement for cultural revival. It is once again attracting attention as it is increasingly being performed in education, tourism, and the performing arts.
 
 Furthermore, with the development of recording technology, the sound of Mukkuri has spread both domestically and internationally, and its value as folk music has come to be recognized.
 

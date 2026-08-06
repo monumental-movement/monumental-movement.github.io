@@ -26,11 +26,11 @@ Text: mmr｜Theme: The reality of the creation and conflict of a duo that contin
 
 Tears for Fears was formed in 1981 by Roland Orzabal and Curt Smith. The city of Bath where they met is surrounded by historical buildings and a quiet environment, and it is said that its closed-off atmosphere fostered a sense of introspection in them.
 
-Orzabal was born into a Spanish family and experienced family tension and loneliness during his childhood. Smith also had unstable family backgrounds, and for them music was more than just entertainment, it was a refuge from reality.
+Orzabal was born into a Spanish family and experienced family tension and loneliness during his childhood. Smith also had unstable family backgrounds, and for both of them, music was more than just entertainment, it was a refuge from reality.
 
 They first started out as Graduate, but their experiences during this period made them acutely aware of the limitations of ""music that relies on external styles.'' Orzabal later recalled that the music at the time "had nothing to do with our true feelings."
 
-Arthur Janov"s original therapy, from which the band"s name is derived, is the idea of ​​""aiming for mental recovery by releasing suppressed emotions,'' and this was not just an inspiration, but a methodology for writing and composing songs.
+Arthur Janov"s original therapy, from which the band"s name is derived, is based on the philosophy of ""aiming for mental recovery by releasing repressed emotions,'' and this was not just an inspiration, but was incorporated as a methodology for songwriting and composition.
 
 ### Episode: Early demo evaluation
 
@@ -78,7 +78,7 @@ Some critics called the album "overly introspective," but the reviews were not n
 
 ## Global success and pressure
 
-### ""Songs from the Big Chair'' expansion
+### Expansion of "Songs from the Big Chair"
 
 1985's Songs from the Big Chair was a major breakthrough both musically and commercially. As studio technology improved, the songs became more dynamic and open.
 
@@ -86,13 +86,13 @@ Some critics called the album "overly introspective," but the reviews were not n
 
 ### Episode: Success in America
 
-Success in the American market was an unexpected turn of events for them. During the tour, they had to fill a huge venue, and it was said that they felt confused by the scale of the venue.
+Success in the American market was an unexpected turn of events for them. They had to fill a huge venue during the tour, and they felt confused by the scale of the venue.
 
 Curt Smith later said, "My heart couldn't keep up with the speed of success."
 
 ### Episode: Tension at the production site
 
-During the making of this album, Orzabal became extremely meticulous, often re-recording the same phrases over and over again. As a result, production took a long time, and subtle rifts began to appear in the relationships between the members.
+During the making of this album, Orzabal became extremely detail-oriented, often re-recording the same phrases over and over again. As a result, production took a long time, and subtle rifts began to appear in the relationships between the members.
 
 >Behind the scenes of global success, the balance between creativity and human relationships has begun to collapse.
 
@@ -190,7 +190,7 @@ flowchart LR
 
 Tears for Fears is an example of an answer to the question of ""how far can you express your emotions?'' in pop music. Their music is not just a collection of hit songs, but has functioned as an attempt to connect the inner world of the individual with the social structure.
 
-The series of successes, conflicts, breakups, and reunions gives their music a narrative quality that can be taken as a work in itself.
+The series of successes, conflicts, breakups, and reunions gives their music a narrative quality that can be perceived as a work in itself.
 
 > The essence of this duo is that music that began as an inner cry has over time transformed into a universal human experience.
 

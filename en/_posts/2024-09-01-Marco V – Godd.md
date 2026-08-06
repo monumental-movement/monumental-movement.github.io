@@ -17,7 +17,7 @@ Marinus Verkuijlen, also known as Marco V, is a Dutch electronic music DJ. He is
 
 "Godd" is a hard trance/tech trance track released in 2002 by German independent record label Superstar Recordings.
 
-The second song on side B is a remix by DJ Errik, who is a resident DJ at Poison Club in Düsseldorf, Germany, and plays at many famous festivals.
+The second song on side B is a remix by DJ Errik, who is a resident DJ at Poison Club in Düsseldorf, Germany and plays at many famous festivals.
 
 #### Tracklist
 ```md

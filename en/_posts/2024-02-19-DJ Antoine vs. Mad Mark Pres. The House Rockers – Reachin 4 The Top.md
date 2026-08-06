@@ -13,7 +13,7 @@ title: DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top
 ---
 
 
-A house/garage house track by DJ Antoine & Madmark released in 2000 on Fresh Fruit Records, a Dutch house label founded by DJ Zki & Dobre.
+A house/garage house track by DJ Antoine & Madmark, released in 2000 on Fresh Fruit Records, a Dutch house label founded by DJ Zki & Dobre.
 
 #### Tracklist
 ```md

@@ -33,7 +33,7 @@ In this column, we will organize the relationship between frequency, brain waves
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,9 +46,9 @@ color: #fff;
 
 ### The true nature of sound is vibration
 
-Sound is the vibration of air, and its frequency is called "frequency (Hz)." For example, 440Hz means a sound that vibrates 440 times per second. The higher the value, the higher the sound, and the lower the value, the lower the sound.
+音とは空気の振動であり、その振動数を「周波数（Hz）」と呼ぶ。例えば440Hzは、1秒間に440回振動する音を意味する。この数値が高いほど音は高く、低いほど低く聞こえる。
 
-The audible range for humans is said to be approximately 20Hz to 20,000Hz, but it is not the simple audible range that is related to concentration, but a specific frequency range that is associated with brain responses.
+人間が可聴できる範囲はおおよそ20Hz〜20,000Hzとされるが、集中力に関係するのは単純な可聴域ではなく、脳の反応と結びついた特定の帯域である。
 
 In addition to the top image, we will prepare a diagram that visually conveys the "relationship between frequency and concentration" in a form that can be used as is for Jekyll. It can be embedded as is in mermaid format.
 
@@ -56,11 +56,11 @@ In addition to the top image, we will prepare a diagram that visually conveys th
 
 
 
-### Relationship with brain waves
+### 脳波との関係
 
-The brain constantly emits electrical rhythms called brain waves. Representative ones are as follows.
+The brain constantly emits electrical rhythms, which are called brain waves. Representative ones are as follows.
 
-*Delta waves (0.5-4Hz): deep sleep
+* デルタ波（0.5〜4Hz）：深い睡眠
 * Theta waves (4-8Hz): meditation/light sleep
 * Alpha waves (8-13Hz): Relaxed state
 * Beta waves (13-30Hz): Concentration and alertness
@@ -162,7 +162,7 @@ This is why ambient and minimal music is suitable for working.
 
 ### Repetition and prediction
 
-The human brain is excellent at pattern recognition. Music with a consistent loop structure increases predictability and creates a sense of security. In this state, it is easy to enter a "flow state."
+The human brain is excellent at pattern recognition. Music with a consistent loop structure increases predictability and creates a sense of security. In this state, it is easy to enter a "flow state".
 
 > Good work music is music that makes you feel invisible.
 
@@ -230,7 +230,7 @@ Sound conditions for maximizing concentration can be summarized as follows:
 * Frequency band: Centered on mid-low range (200Hz to 2000Hz)
 * Tempo: Constant (60-100 BPM)
 * Dynamics: little change
-* Melody: Subdued or None
+* Melody: Subdued or none
 * Noise: Use of white noise and natural sounds
 
 ### Practical approach
@@ -239,7 +239,7 @@ Sound conditions for maximizing concentration can be summarized as follows:
 * Ambient music and drones for deep concentration
 * Add a light beat to simple tasks
 
-The important thing is to ""change the sound depending on the purpose.''
+重要なのは「目的によって音を変える」ことだ。
 
 > Music is not something you choose, but something you use properly.
 

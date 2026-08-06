@@ -19,7 +19,7 @@ title: '[Column] Noise Desert: From the 2000s Texas Scene to the Present'
 Text: mmr｜Theme: From Charalambides to Black Leather Jesus, tracing the genealogy of southern experimental sound—Texas noise in the 2000s and its current state
 
 
-It was from the late 1990s to the early 2000s that noise music took root in the vast landscape of the American South.
+It was from the late 1990s to the early 2000s that the music known as noise took root in the vast landscape of the American South.
 While New York and Los Angeles were ""art cities'' that developed noise music in art galleries and underground clubs, Texas developed its grammar as a place of geographic isolation and personal experimentation.
 
 Houston, Austin, and San Antonio—these cities may be the ""homelands of country and blues'' on the surface, but behind the scenes **tape collage, non-music, and drone** were quietly being cultivated.
@@ -61,7 +61,7 @@ Charalambides' activities spread through the **Kranky** and **Wholly Other** lab
 ### Chapter 2: Noise of Iron and Flesh — Black Leather Jesus and the Genealogy of Physicality
 
 **Black Leather Jesus (BLJ)**, which has been active since the 1990s, is a Houston-based noise group led by **Richard Ramirez**.
-BLJ continued to be active in the 2000s and beyond as the ""extreme of harsh noise"', along with Japan"s Hijikaido, MERZBOW, and America's The Haters.
+BLJ continued to be active in the 2000s and beyond as the ""extreme of harsh noise"', along with Japan"s Hijikaido and MERZBOW, and America's The Haters.
 
 BLJ is characterized by its fusion of noise, flesh, and homosexual aesthetics.
 Their stages feature restraints, leather, and religious rituals, accompanied by physical explosions of noise.
@@ -75,8 +75,8 @@ Offshoot units such as **Werewolf Jerusalem** and **The Rita** also sprang up ar
 
 ### Chapter 3: From drones to ambient sounds — the connection between Austin and art noise
 
-Austin is the city in Texas where noise has taken on new directions, especially as a hotbed of college culture and DIY art.
-In the late 2000s, artists like **Iron Lung, Pure Ground, and Digital Leather** shifted their focus from harshness to minimalism.
+Austin is a city in Texas where noise has taken on new directions, especially as a hotbed of college culture and DIY art.
+In the late 2000s, artists like Iron Lung, Pure Ground, and Digital Leather shifted their focus from harsh to minimalist.
 
 The recording environment has also changed. Cassette labels were on the rise, and exchanges with countries such as **Edition Mego and Hospital Productions** were also progressing.
 A characteristic of this period was the redefinition of **noise as art**.
@@ -98,19 +98,19 @@ As a typical example:
 - **Rick Reed**'s tape works (core of the Austin electronic sound scene)
 - **Poetics of Memory and Noise** using loop cassettes by **Amulets (Randall Taylor)**
 
-These movements no longer consider noise as "destructive music" but as **the noise of time and existence**.
+These movements are no longer considering noise as "destructive music" but as **the noise of time and existence**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0i3He1ZuX0?si=jgmkTZXvvxXgZCTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Chapter 5: Current Location and Future of Modern Texas Noise
+### Chapter 5: The present and future of modern Texas noise
 
 The Texas noise scene of the 2020s lies between the network and the land.
 While young artists from Houston and Dallas are active as a digital collective through Bandcamp, YouTube, Discord, etc.
 Older artists continue to work with analog equipment.
 
-> "Noise is a matter of attitude, not technology."
+> "Noise is not about technology, it's about attitude."
 > — Richard Ramirez (Black Leather Jesus)
 
 Texas noise continues to oscillate between wild and urban.
@@ -130,7 +130,7 @@ flowchart TD
     A2005["2005: Black Leather Jesus' "Yes, I Am That Fucking Desperate" released"]
     A2010["2010: Amulets starts its activities"]
     A2015["2015: Tom Carter's "Long Time Underground" released"]
-    A2020["2020: Texas noise netlabel group becoming active (Bandcamp)"]
+    A2020["2020: Texas noise netlabel group becomes active (Bandcamp)"]
     A2024["2024: Movement to reevaluate Black Leather Jesus, European tour realized"]
 
     A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
@@ -157,7 +157,7 @@ flowchart TD
 
 Texas noise is horizon noise, not city noise.
 It wasn't a scream or resistance, but a slight vibration to confirm its existence.
-Noise artists here are not only working through technology, but also
+The local noise artists are not only working through technology;
 Rather, he continues to update his ""ethics of sound'' in solitude and nature.
 
 > "Noise is music in the form of silence."
@@ -177,4 +177,4 @@ Rather, he continues to update his ""ethics of sound'' in solitude and nature.
 
 🔗 [[Column] History and masterpieces of Experimental Music: From its origins to the present](https://monumental-movement.jp/Column-Experimental-Music)
 
-🔗 [[Column] High brands and noise music — the intersection of luxury and radical acoustics](https://monumental-movement.jp/Column-High-Brands-Noise-Music)
+🔗 [【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点](https://monumental-movement.jp/Column-High-Brands-Noise-Music)

@@ -20,7 +20,7 @@ title: '[Column] Electronic World Fusion: The point where electronic acoustics a
 
 Text: mmr｜Theme: From the origins of Electronic World Fusion to its technical aspects, representative works, regional characteristics, and contemporary significance
 
-In the second half of the 20th century, electronic music developed around synthesizers and samplers, but at the same time traditional music from around the world began to enter Western pop culture. Electronic World Fusion is an area where the two are fully connected, and is a rare genre where the history, culture, and ideology of technology and folk music intersect.
+In the second half of the 20th century, electronic music developed around synthesizers and samplers, but at the same time traditional music from around the world began to enter Western pop culture. Electronic World Fusion is an area in which the two are fully connected, and is a rare genre where the history, culture, and ideology of technology and folk music intersect.
 
 Representative artists include **Nitin Sawhney**, who incorporates Indian classical music and social themes, and **Thievery Corporation**, which fuses downtempo with diverse musical elements from Latin America, the Middle East, and Asia.
 
@@ -153,7 +153,7 @@ flowchart TB
     A1980 --> A1990["1990s: Influx of folk music elements into downtempo and trip hop"]
     A1990 --> A2000["2000s: Nitin Sawhney, Thievery Corporation and others received international recognition"]
     A2000 --> A2010["2010s: Global Base, Connection with Afrofuturism"]
-    A2010 --> A2020["2020s: Music from each region is directly shared through distribution culture, and more multi-layered fusion is progressing."]
+    A2010 --> A2020["2020s: Music from each region is directly shared through distribution culture, leading to more multi-layered fusion"]
 </div>
 
 ---
@@ -169,7 +169,7 @@ flowchart TB
 
 #### ・Prophesy (2001)
 
-* Collaboration with musicians from all over the world
+* Collaboration with musicians from around the world
 * Progressing organic integration of traditional music and electronic sounds
 
 ---
@@ -230,7 +230,7 @@ Electronic World Fusion doesn't just replace folk music with electronic sounds;
 **"The process by which sound translates culture and connects different values"**
 can be understood as
 
-The genre embodies sonic dialogue, as Nitin Sawhney depicts multicultural societies through his work, and Thievery Corporation connects music from around the world to urban electronic musical contexts.
+The genre embodies sonic dialogue, as Nitin Sawhney depicts multicultural societies through his work, and Thievery Corporation connects music from around the world to urban electronic music contexts.
 
 ---
 

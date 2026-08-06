@@ -18,7 +18,7 @@ title: Circus – New Horizon
 
 Circus is a four-member chorus group consisting of two men and two women who debuted in 1978. He is known for hit songs such as ""Mr. Summertime" (covered by Michelle Fughan), ""American Feeling", and ""Woman in Love.''
 
-"New Horizon" is a City Pop/Disco/Soul/Vocal/popular song released by the Alfa label in 1979.
+"New Horizon" is a City Pop/Disco/Soul/Vocal/popular song released by the label Alfa in 1979.
 
 #### Tracklist
 ```md

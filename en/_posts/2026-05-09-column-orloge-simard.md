@@ -10,7 +10,7 @@ tags:
 - Québec
 - Rock
 - Garage Rock
-title: '[Column] Orloge Simard - Current status of chaotic rock pioneered by Saguenay''s
+title: '[Column] Orloge Simard - The current state of chaotic rock pioneered by Saguenay''s
   "aucuncadrisme"'
 ---
 
@@ -20,7 +20,7 @@ title: '[Column] Orloge Simard - Current status of chaotic rock pioneered by Sag
 
 Text: mmr | Theme: Orloge Simard, who emerged from the Saguenay region of Quebec, built a unique rock image with vulgarity, humor, and social observation as their weapons. Tracking its progress with a focus on locality, anti-censorship, and live culture
 
-The rock scene in Quebec"s Saguenay region has long had a unique intensity. Unlike urban areas such as Montreal or Quebec City, in Saguenay, the ""region itself'' functions strongly as the cultural background. Bar culture, harsh winter climate, working class life, and the unique black humor of the Francophone world. Mixing these together, Quebec"s regional rock has a "rawness" that is different from that of urban indie.
+The rock scene in Quebec"s Saguenay region has long had a unique intensity. Unlike urban areas such as Montreal or Quebec City, in Saguenay, the ""region itself'' functions strongly as the cultural background. Bar culture, harsh winter climate, working-class life, and black humor unique to the Francophone world. Mixing these together, Quebec"s regional rock has a "rawness" that is different from that of urban indie.
 
 In this vein, Quebec rock band Orloge Simard emerged in 2012. The central character is Olivier Simard. He originally played music to make people laugh, and with the addition of several Saguenay musicians, the band Orloge Simard was formed.
 
@@ -28,11 +28,11 @@ They called their philosophy and aesthetics "aucuncadrisme." Literally translate
 
 Orloge Simard's music is a motley mix of styles, including garage rock, punk, folk, blues, psychedelic, reggae, and country. The important thing is not to organize them to give them a sense of unity, but to "release them as they are mixed."
 
-A vulgar, noisy, drunken concert. However, buried within this was a sense of real life in a provincial city, a satire on Quebec society, and even a sense of community identity.
+A vulgar, noisy, drunken concert. However, deep within it was embedded a realistic sense of life in a provincial city, a satire on Quebec society, and even a sense of community identity.
 
-They were not ""unsophisticated," but they ""refused to be refined."
+They were not ""unsophisticated," but rather they ""refused to be refined."
 
-> Orloge Simard's starting point was not just a prank, but the idea of ​​musicalizing the atmosphere of Saguenay.
+> Orloge Simard の出発点は、単なる悪ふざけではなく、サグネーという土地の空気を音楽化することにあった。
 
 
 ---
@@ -61,7 +61,7 @@ However, if we dismiss Orloge Simard as just a ""sleazy band,'' we lose sight of
 
 Their lyrics often serve as an exaggeration of real life. Alcohol, drugs, violence, desire, work, and the sense of stagnation in local cities. These are themes that have long been present in Quebec popular culture, and Orloge Simard presents them without a filter.
 
-As such, they are often compared to Mononc' Serge and Plume Latraverse. Both are figures in Quebec rock history who used humor and obscenity to reflect society.
+As such, they are often compared to Mononc' Serge and Plume Latraverse. In the history of Quebec rock, both artists used humor and obscenity to reflect society.
 
 However, Orloge Simard is more than just an inheritor.
 
@@ -123,7 +123,7 @@ E --> F[Performing at a large festival]
 
 Aucun Cadre became an essential work for understanding Orloge Simard in later years.
 
-> ""Aucun Cadre" established their methodology of ""creating a work of art without organizing it" from chaos.
+> ""Aucun Cadre" established their methodology of ""turning chaos into a work without organizing it".
 
 ---
 
@@ -147,7 +147,7 @@ At the stage of ""Coke calciné'', the characteristics of Orloge Simard were alr
 
 Furthermore, they had been using the expression "folk sale" since then. This functioned as a term that emphasized Quebec's uniquely vulgar folk sensibilities.
 
-At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of cases in which audiences at some festivals were repulsed by radical lyrics.
+At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of audiences at some festivals revolting due to radical lyrics.
 
 However, at the same time, the number of fans who enthusiastically supported them increased.
 
@@ -208,9 +208,9 @@ The literal translation of the title is "Always drink, never die." At this point
 
 This album streamlined the songwriting while maintaining the rawness of their earlier work. It wasn't just a bad vibe, but their ability to build as a band had clearly improved.
 
-Also, Orloge Simard's live performances rapidly increased in popularity during this period, gaining cult popularity throughout Quebec.
+Also, during this period, Orloge Simard's live performances rapidly increased in popularity, gaining cult popularity throughout Quebec.
 
-In 2017, he was nominated in the GAMIQ (Gala alternatif de la musique indépendante du Québec) public voting category.
+2017年には GAMIQ（Gala alternatif de la musique indépendante du Québec）の一般投票部門にノミネートされている。
 
 This meant that they began to be recognized as a part of the Quebec indie scene, rather than just a band that made jokes.
 
@@ -238,7 +238,7 @@ This work records the band's artistic views, live culture, and regional characte
 
 The title "Saguenay Libre" has a symbolic meaning.
 
-This was not just the name of the area, but also functioned as a phrase that expressed the ""liberation of Saguenay values.''
+This was not just the name of the area, but also functioned as a word that expressed the ""liberation of Saguenay values.''
 
 For Orloge Simard, Saguenay is more than just his hometown.
 
@@ -275,7 +275,7 @@ After this work, Orloge Simard was increasingly talked about as a ""symbol of Qu
 
 ---
 
-## "À chacun son Waterloo"—Evolution as a rock band
+## "À chacun son Waterloo" – Evolution as a rock band
 
 À chacun son Waterloo, released in 2020, marked a major change for Orloge Simard.
 
@@ -309,15 +309,15 @@ Rather, it should be said that they have evolved into a band that cannot be expl
 
 ## "Culture du culte" and the era of anti-censorship
 
-""Culture du culte"', released in 2022, is a work commemorating the 10th anniversary of the band"s formation, and at the same time, it is also an album that most strongly expresses Orloge Simard's thoughts.
+"Culture du culte", released in 2022, is a work commemorating the band"s 10th anniversary, and at the same time, it is also the album that most strongly expresses Orloge Simard"s thoughts.
 
 They are positioning this work as an "anti-censorship manifesto."
 
-The album introduction uses words like "authenticity," "intellectual nonchalance," and "extreme worship," and the very concept of "culture du culte" has become a worldview.
+The album introduction uses words such as "authenticity," "intellectual nonchalance," and "extreme worship," making the very concept of "culture du culte" a worldview.
 
 What is important here is that Orloge Simard is not simply posing as an anti-establishment figure.
 
-They expressed discomfort with the ""homogenization of speech" and ""safe expression" in modern society.
+They expressed discomfort with the "homogenization of speech" and "safe expression" in modern society.
 
 In other words, their anti-censorship philosophy is not an expression of shock per se, but rather a sense of trying to protect a ""space where people can freely fail.''
 
@@ -325,7 +325,7 @@ This attitude is also connected to modern Internet culture.
 
 In the age of social media, comments can instantly become the subject of criticism and surveillance. Orloge Simard tried to maintain a ""disorganized rock space'' against such an atmosphere.
 
-As a result, they continue to garner support and criticism at the same time.
+そのため、彼らは支持と批判を同時に集め続ける。
 
 But that is also the reason for Orloge Simard's existence.
 
@@ -359,7 +359,7 @@ What is especially important is not to hide locality.
 
 Many contemporary indie bands tend to dilute their regional flavor in favor of an international market. But Orloge Simard was the opposite.
 
-They placed extreme emphasis on Saguenay accents and regional jokes, and rather used their ""localness'' as a weapon.
+They placed extreme emphasis on Saguenay accents and local jokes, and rather used their ""localness'' as a weapon.
 
 This was an extremely important strategy in Quebec culture.
 
@@ -367,11 +367,11 @@ Also, while they have a punk spirit, they also place emphasis on "community".
 
 While typical punk music emphasizes individualistic rebellion, Orloge Simard's live shows are closer to communal frenzy.
 
-The audience participates not as ""solitary rebels," but as ""comrades making noise together."
+The audience does not participate as ""solitary rebels," but as ""comrades making noise together."
 
 This feeling is deeply connected to Quebec's bar culture and festival culture.
 
-Additionally, they value humor.
+さらに、彼らはユーモアを重視する。
 
 Quebec rock culture has a tradition of expressing politics and social criticism through humor. Orloge Simard also belongs to that lineage.
 
@@ -385,12 +385,12 @@ Quebec rock culture has a tradition of expressing politics and social criticism 
 
 | Year | Works | Overview |
 | ---- | ---------------------------------- | ----------------- |
-| 2013 | Coke calciné | Early mini album. Relapse later |
+| 2013 | Coke calciné | Initial mini album. Relapse later |
 | 2014 | Aucun Cadre | Full-scale debut work |
 | 2017 | Beuvez tousjours, ne mourez jamais | A masterpiece that determined the popularity of live performances |
 | 2019 | Saguenay Libre | Documentary |
-| 2020 | À chacun son Waterloo | A transformational work with a stronger rock flavor |
-| 2022 | Culture du culte | 10th anniversary work that brings anti-censorship ideas to the forefront |
+| 2020 | À chacun son Waterloo | A transformational work with a stronger rock color |
+| 2022 | Culture du culte | 10th anniversary work that brings anti-censorship ideas to the fore |
 
 <div class="mermaid">
 timeline

@@ -25,7 +25,7 @@ This ""sense of the future'' had a strong influence not only on architecture and
 
 His music is more than just lounge music. This was an attempt to redesign the auditory experience itself, based on the idea of ​​""arranging sound in space.'' Sound bounces between the left and right speakers, and the vocals are treated as acoustic material that goes beyond words, requiring listeners to "experience" rather than just listen.
 
-It was an attempt to foresee a future that no one had seen yet, using just sound.
+It was an attempt to foresee a future that no one has seen yet, using just sound.
 
 > Esquivel's music was an experiential device that allowed us to experience the future, rather than depicting it.
 
@@ -49,19 +49,19 @@ color: #fff;
 
 Esquivel was born in 1918 in Tampico, Mexico. He received piano education from an early age and thoroughly acquired the basics of classical music. However, his interest was not simply in performance techniques, but in the structural aspect of ""how the sounds are arranged and how they resonate.''
 
-During the 1940s and 1950s, he worked as a music director in the Mexican radio and television industry. My experience during this period was decisive. Broadcast music must leave a strong impression within a limited amount of time, and to that end, sound density, placement, and timing are extremely important.
+During the 1940s and 1950s, he worked as a music director in the Mexican radio and television industry. My experience during this period was decisive. Broadcast music must leave a strong impression within a limited amount of time, and to achieve this, sound density, placement, and timing are extremely important.
 
 It was here that he honed his ability to treat sound not as a line but as a collection of points. Short phrases, fragmented sounds, sudden shifts—these would become the core of his later style.
 
 Additionally, due to the characteristics of broadcasting as a medium, sound needed to function as a substitute for vision. In other words, at this point he had naturally acquired the idea of ​​""visually constructing'' sound.
 
-Already at this stage, his music was not just centered around melodies, but was moving toward spatial and structural design.
+Already at this stage, his music was not just centered around melodies, but toward spatial and structural design.
 
 > The constraints of broadcast music gave Esquivel the idea of ​​designing a sound space.
 
 ---
 
-## American expansion and stereo revolution
+## Expansion into America and the stereo revolution
 
 In the late 1950s, Esquivel moved his activities to the United States. At the time, home audio equipment was rapidly becoming popular in America as the consumer society expanded.
 
@@ -106,7 +106,7 @@ D --> E[spatial arrangement of sound]
 E --> F[futuristic sound]
 </div>
 
-This work was more than just an album, it could be called a "prototype of future music."
+This work was not just an album, but a prototype for future music.
 
 > ""Other Worlds, Other Sounds"' wasn"t music, it was a blueprint for the future.
 
@@ -157,11 +157,11 @@ As a result, he gradually withdrew from the public eye and became a forgotten fi
 
 ## Re-evaluation and "lost future"
 
-In the 1990s, as lounge music and exotica were being reevaluated, Esquivel's work began to attract attention again.
+In the 1990s, as lounge music and exotica were being reevaluated, Esquivel's work began to gain attention again.
 
 This reappraisal was not just nostalgia. Rather, his music begins to take on a new meaning as ""the unrealized future.''
 
-With the development of electronic music and sampling culture, the idea of ​​treating sound as a material has become commonplace, and his method has come to be understood in a modern context.
+With the development of electronic music and sampling culture, it has become common to treat sound as a material, and his method has come to be understood in a modern context.
 
 <div class="mermaid">
 timeline
@@ -180,7 +180,7 @@ His sound was rediscovered not as a relic of the past, but as an unfinished proj
 
 ## Influence on modern times: The legacy of sound spatial design
 
-Space has become an important element in modern music production. In addition to stereo, technologies such as surround and spatial audio have become widespread, and sound has come to be treated three-dimensionally.
+"Space" has become an important element in modern music production. In addition to stereo, technologies such as surround and spatial audio have become widespread, and sound has come to be treated three-dimensionally.
 
 In this context, Esquivel's ideas have a very important meaning. More than half a century ago, he put into practice the idea of ​​spatially designing sound.
 
@@ -227,7 +227,7 @@ Esquivel's music is a product of an era that dreamed of the future. However, it 
 
 Listening to his music is not looking back on the past. It is also about rediscovering another possible future.
 
-Many of the methods that are commonplace in modern music production—spatial design, sound treatment, studio-based production—already existed in him.
+Many of the techniques that are commonplace in modern music production—spatial design, sound treatment, studio-based production—already existed in him.
 
 The future does not appear suddenly. It exists as a species in the past and will eventually be discovered again.
 

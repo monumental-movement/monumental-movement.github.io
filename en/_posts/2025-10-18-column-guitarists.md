@@ -22,7 +22,7 @@ Text: mmr｜Theme: Explaining the world"s and Japan"s leading guitarists from th
 
 The guitar is more than just a musical instrument; in the history of music since the 20th century, it has functioned as an extension of the body that directly conveys emotions and ideas. The moment your fingers touch the strings, the sound is generated from the vibrations of your fingers and reaches the world through amplifiers and effectors. The tone produced by a guitar acts like a mirror, reflecting a person's emotions, mental state, and even cultural background.
 
-The image of a guitarist is different between Japan and the world. In the United States and the United Kingdom, blues and rock have become the foundation, and the genre has evolved into a mainstream one. However, Japan has experienced a more complex and free-flowing development, from the postwar electric boom to underground noise, improvisation, and post-rock. The uniqueness of Japanese guitars emerges at the intersection of mainstream technique and underground destructive expression.
+The image of a guitarist is different in the world and in Japan. In the United States and the United Kingdom, blues and rock have become the foundation, and it has evolved into a mainstream. However, Japan has experienced a more complex and free-flowing development, from the post-war electric boom to underground noise, improvisation, and post-rock. The uniqueness of Japanese guitars emerges at the intersection of mainstream technique and underground destructive expression.
 
 ---
 
@@ -44,7 +44,7 @@ color: #fff;
 
 ## 1. Rock flashpoint (1950s-60s)
 
-**Chuck Berry** built the backbone of rock"n"roll through the fusion of rhythm guitar and phrases. The cutting with his right hand forms the basis of a dance beat, while the phrases with his left hand draw a unique melody even though they are derived from blues. Berry's music showed that the electric guitar could become a symbol of youthful rebellion and freedom.
+**Chuck Berry**は、リズムギターとフレーズの融合によりロックンロールの骨格を築いた。彼の右手によるカッティングはダンスビートの基盤を作り、左手のフレーズはブルース由来ながら独自の旋律を描く。Berryの音楽は、エレキギターが若者の反抗や自由を象徴する手段になることを示した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKCt8ssC7cs?si=Mt9LbNIUi7bufZ-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -57,7 +57,7 @@ color: #fff;
 ---
 
 
-**Lou Reed (The Velvet Underground)** brought artistic subversiveness to his music using simple chord progressions and dissonance. It was pop, yet provocative, and contained an underground spirit.
+**Lou Reed (The Velvet Underground)** brought artistic subversiveness to his music through the use of simple chord progressions and dissonance. It was pop, yet provocative, and contained an underground spirit.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ color: #fff;
 
 **Robert Fripp (King Crimson)** established an innovative approach to progressive rock, using complex rhythms and improvised layers.
 
-**Thurston Moore & Lee Ranaldo (Sonic Youth)** actively incorporate serendipity into their work, using specially tuned and prepared guitars. Using noise as a means of expression, he showed that the guitar is a tool for depicting not only melodies and chords, but also space and emotion.
+**Thurston Moore & Lee Ranaldo (Sonic Youth)** actively incorporate serendipity into their work, using specially tuned and prepared guitars. Using noise as a means of expression, he showed that the guitar is a tool for not only melody and chords, but also space and emotion.
 
 **Glenn Branca** has assembled a guitar orchestra that allows for the expression of urban acoustics. The layered structure of harmony and noise created by multiple guitar players had a major influence on later shoegaze and noise rock.
 
@@ -87,7 +87,7 @@ color: #fff;
 
 **David Pajo (Slint/Papa ​​M)** is a pioneer of post-rock that structures silence. The combination of delicate arpeggios and rhythms creates a contrast between stillness and movement, creating a narrative sound world.
 
-**Jim O"Rourke** fuses experimental sounds and melody to develop guitar work that crosses genres. This made it possible to achieve both acoustics and singing spirit.
+**Jim O"Rourke** fuses experimental sound and melody to develop guitar work that crosses genres. This made it possible to achieve both acoustics and singing spirit.
 
 **Godspeed You! Black Emperor** treats the guitar as a tool for epic poetry, painting urban and social landscapes with long songs.
 
@@ -99,7 +99,7 @@ color: #fff;
 
 **Mary Halvorson** fuses jazz improvisation and abstract expression, turning the impossible with the guitar into the possible. He is a bridge between modern jazz and avant-garde.
 
-**Ryley Walker** introduces spiritual variations to modern folk, fusing blues, jazz, and rock. The guitar is a vehicle for storytelling and a mirror for emotional complexity.
+**Ryley Walker**は現代フォークに精神的変奏を導入し、ブルース、ジャズ、ロックを融合。ギターは物語を語るための手段であり、感情の複雑さを映す鏡となる。
 
 **Yves Tumor** traverses noise, pop, and physical expression. The guitar is treated like a voice or sound effect, and becomes a medium of expression that transcends the framework of an instrument.
 
@@ -141,7 +141,7 @@ color: #fff;
 - **Techniques**: Integrates all physical expressions such as picking, sliding, bow playing, resonant object manipulation, bass shouts, strange voices, whistling, etc.
 - **Ideology**: Music is an extension of the body, and the guitar is a mirror of emotion and spirit. Sublimating the destructive tone as an emotional expression.
 - **Major Works**:
-- "Live at Improvised Music from Japan" series: Records of extreme improvised performances
+- "Live at Improvised Music from Japan" series: records of extreme improvised performances
 - Live performance with MERZBOW: Dialogue between noise and physical expression
 - Collaboration with Seiichi Yamamoto: Improvisation where introspection and destruction intertwine
 - **Live Features**:
@@ -168,7 +168,7 @@ color: #fff;
 
 **envy** has established a unique emotional expression by fusing passionate hardcore with lyrical guitar work.
 
-**Boris** has gained international acclaim for their roaring sound and fusion of various genres.
+**Boris** has earned international acclaim for their roaring sound and fusion of various genres.
 
 **Zeni Geva** fuses metal and noise to create destructive improvisational expressions.
 
@@ -202,7 +202,7 @@ Keiji Haino treats the guitar as an extension of his body and mind, and is a pre
 
 # V. Conclusion: The lingering sound of the strings that never stops ringing
 
-The guitar has always been a symbol of free expression, from the underground to the world. The era has come when the ""temperature and ideology of the performer'' is more important than the technique.
+The guitar has always been a symbol of free expression, from the underground to the world. The era has come when the **temperature and ideology of the performer** is more important than the technique.
 
 > The trembling of guitar strings continues to resonate throughout the ages.
 
@@ -261,7 +261,7 @@ flowchart TD
 | Chuck Berry | "The Great Twenty-Eight" | [ Amazon ](https://amzn.to/3Wdxmhy) |
 | Char (Naoto Takenaka) | "Smoke" | [ Amazon ](https://www.amazon.co.jp/s?k=Char+Smoke) |
 | Takeshi Terauchi | "Everything about the electric guitar" | [ Amazon ](https://amzn.to/499jFro) |
-| Ichiko Aoba | "0 (Zero)" | [ Amazon ](https://amzn.to/4os2Yfk) |
+| Ichiko Aoba | "0" | [ Amazon ](https://amzn.to/4os2Yfk) |
 | toe | "the book about my idle plot on a vague anxiety" | [ Amazon ](https://amzn.to/4nVdaNt) |
 | Yvette Young / Covet | "technicolor" | [ Amazon ](https://amzn.to/3L2AbPX) |
 | Fred Frith | "Guitar Solos" | [ Amazon ](https://amzn.to/3Jc5o2K) |

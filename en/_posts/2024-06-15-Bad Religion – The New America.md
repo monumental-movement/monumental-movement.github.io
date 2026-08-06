@@ -14,7 +14,7 @@ title: Bad Religion – The New America
 ---
 
 
-Bad Religion is a punk rock band formed in Los Angeles, and is a leading figure in modern punk rock, known as one of the groups that created the melodic hardcore style.
+Bad Religion is a punk rock band formed in Los Angeles, and a heavyweight of modern punk rock, known as one of the groups that created the melodic hardcore style.
 
 "The New America", released in 2000, is their 11th studio album, with tracks 14 and 15 being bonus tracks on the Japanese version.
 

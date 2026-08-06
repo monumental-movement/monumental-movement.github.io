@@ -24,7 +24,7 @@ Text: mmr｜Theme: The trajectory of an avant-garde group that redefined the ver
 
 Since their debut in the early 1970s, The Residents have consistently centered their activities on anonymity. The identities of the members are not made public, with only the visual symbols of giant eyeball masks and top hats serving as their "faces." This complete depersonalization was a clear counter to rock's star system, a device that focused attention on the work itself.
 
-From the beginning of their career, they have treated music, video, performance, and design as inseparable elements, and have transcended the boundaries of being just a band. They are said to have ambiguous origins in the southern United States, and they are said to have eventually established a base of operations in San Francisco, but even this is just part of the information that has become a myth.
+From the beginning of their career, they have treated music, video, performance, and design as inseparable elements, and have transcended the boundaries of being just a band. Their origins are said to be ambiguous, coming from the southern United States, and they are said to have eventually established a base of operations in San Francisco, but even this is just part of the information that has become a myth.
 
 > Anonymity was not a cover-up, but the most radical way to ensure a thorough focus on the work.
 
@@ -50,7 +50,7 @@ color: #fff;
 
 In the 1970s, they established their own label, Ralph Records, in order to operate outside the major system. What is important here is that they autonomously controlled not only music production but also distribution and packaging.
 
-One of his masterpieces, Meet the Residents (1974), was a collection of deliberately distorted pop songs that functioned as an attempt to deconstruct existing musical grammar. Despite its Beatles-like familiarity, its interior is filled with dissonance and fragmented structure.
+One of his masterpieces, Meet the Residents (1974), was a collection of intentionally distorted pop songs that functioned as an attempt to dismantle existing musical grammar. Despite its Beatles-like familiarity, its interior is filled with dissonance and fragmented structure.
 
 Rather than showing off their musical instrument playing skills, they created new sounds through recording techniques, editing, and the handling of noise. This can be said to be a pioneering attitude that will lead to later DIY culture and lo-fi aesthetics.
 
@@ -66,7 +66,7 @@ In the late 1970s and 1980s, The Residents moved toward more conceptual work. In
 
 In ""The Commercial Album'' (1980), he experimented with keeping all 40 songs to about one minute, which included a critique of advertising culture. This was a structure that took advantage of the format of TV commercials at the time, and was also an attempt to expose the consumer nature of pop music.
 
-Their works constantly question "form itself." The album unit, song length, and genre boundaries are all subject to manipulation.
+Their works constantly question "form itself." The unit of album, song length, and genre boundaries are all subject to manipulation.
 
 > For them, music was nothing more than a material for dismantling structures.
 
@@ -78,7 +78,7 @@ Their works constantly question "form itself." The album unit, song length, and 
 
 The giant eyeball mask that is a symbol of The Residents is not just a novelty, but a device that indicates a reversal of the relationship between "seeing and being seen." The audience watches the performance, but at the same time, they are also stared back at by giant eyes.
 
-In a live performance, images, lighting, and costumes are closely linked to create a comprehensive piece of art. This idea is similar to later multimedia art and installation ideas.
+In a live performance, images, lighting, and costumes are closely linked to create a comprehensive piece of art. This is similar to later multimedia art and installation-like ideas.
 
 <div class="mermaid">
 flowchart TD

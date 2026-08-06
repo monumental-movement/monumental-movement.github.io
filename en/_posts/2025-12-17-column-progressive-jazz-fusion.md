@@ -17,12 +17,12 @@ title: '[Column] Progressive Jazz / Fusion'
 
 ## Introduction: The concept of progressive jazz/fusion
 
-Text: mmr｜Theme: Positioning modular drones as an intersection of the history of acoustic technology, history of musical instruments, and compositional thought, and systematically organizing their formation and development.
+Text: mmr｜Theme: Positioning the modular drone as an intersection of the history of acoustic technology, history of musical instruments, and compositional thought, and systematically organizing its formation and development.
 
 
 Progressive jazz/fusion is a developmental trend in jazz that was formed from the late 1960s to the 1970s, and was established as a result of the simultaneous integration of multiple musical idioms such as modal jazz, post-bop, rock, funk, contemporary music, and folk music. ""Progressive'' here does not simply mean technical sophistication, but refers to the attitude itself that continues to reorganize musical structure, rhythm design, timbre arrangement, and the relationship between improvisation and composition.
 
-Although the term fusion is often understood as a compromise between jazz and rock, the reality is more complex. External conditions such as the standardization of electric instruments, the evolution of PA and studio technology, changes in recording media, and the acceleration of international musical exchange directly influenced performance styles and structural design. In this article, we will examine the underlying logic of progressive jazz/fusion by analyzing the structure, instruments, and performance philosophy of Weather Report and Mahavishnu Orchestra, which form the core of this trend.
+Although the term fusion is often understood as a compromise between jazz and rock, the reality is more complex. External conditions such as the standardization of electric instruments, advances in PA and studio technology, changes in recording media, and the acceleration of international musical exchange directly influenced performance styles and structural design. In this article, we will examine the underlying logic of progressive jazz/fusion by analyzing the structure, instruments, and performance philosophy of Weather Report and Mahavishnu Orchestra, which form the core of this trend.
 
 ---
 
@@ -44,7 +44,7 @@ color: #fff;
 
 In the late 1960s, jazz expanded its vocabulary beyond hard bop and gained flexibility in its temporal structure through modal playing and free improvisation. On the other hand, rock music was changing into music that was based on loud volumes and repetitive beats, and was designed for large-scale listening environments. The maturation of electric instruments and amplification technology has expanded the connection between the two on a physical rather than an ideological level.
 
-During this period, many jazz musicians introduced electric pianos, electric basses, and amplified guitars, building ensembles based on volume, sustain, and timbre manipulation that were impossible with traditional acoustic formations. As a result, new forms of performance featuring long structures, circular riffs, complex meters, and repetitive structures took hold, and progressive jazz/fusion came to be recognized as a distinct current.
+During this period, many jazz musicians introduced electric pianos, electric basses, and amplified guitars, building ensembles that relied on volume, sustain, and timbre manipulation that was impossible with traditional acoustic formations. As a result, new forms of performance featuring long structures, circular riffs, complex meters, and repetitive structures took hold, and progressive jazz/fusion came to be recognized as a distinct current.
 
 ---
 
@@ -52,13 +52,13 @@ During this period, many jazz musicians introduced electric pianos, electric bas
 
 ### Formation and basic philosophy of the band
 
-Weather Report was formed in 1970 and prioritized the sonic integrity of the entire ensemble over the excellence of individual soloists. The traditional division of roles between theme, accompaniment, and improvisation was intentionally blurred, and the pieces were designed as processes that generate and transform over time rather than fixed forms.
+Weather Report was formed in 1970 and prioritized the sonic integrity of the ensemble as a whole, rather than the excellence of individual soloists. The traditional division of roles between theme, accompaniment, and improvisation was intentionally blurred, and the pieces were designed as processes that generate and transform over time rather than fixed forms.
 
 This idea is distinctive in that improvisation is viewed as ""sound production by a group" rather than ""individual expression." Each instrument moves away from its fixed role as the main melody or accompaniment, and instead functions as an element of timbre, rhythmic density, and spatial arrangement.
 
 ### Structural features and time design
 
-Weather Report's song structures often eschew a linear format of thematic presentation and alternation of solos, instead adopting a cyclical and variable structure. Short motifs and chord fragments are repeated, and the rhythm arrangement, range, and timbre change each time, resulting in a gradual transformation of the whole piece.
+Weather Report's song structure often avoids a linear format of thematic presentation and alternation of solos, instead adopting a cyclical and variable structure. Short motifs and chord fragments are repeated, and the rhythm arrangement, range, and timbre change each time, resulting in a gradual transformation of the whole piece.
 
 <div class="mermaid">
 flowchart TD
@@ -73,7 +73,7 @@ In this structure, the increase or decrease in acoustic density itself becomes t
 
 ### Instrumentation and division of roles
 
-The keyboard uses an electric piano or synthesizer, and rather than presenting a harmonic progression, he creates a sonic layer of sustained notes and fragmented phrases. The bass doesn't just support the low notes, it also carries the melodic movement, indicating the direction of the song as a whole. Rather than maintaining a constant beat, the drums drive the whole thing through texture, accent placement, and density adjustment.
+The keyboard uses an electric piano and a synthesizer, and rather than presenting a harmonic progression, he creates a sonic layer of sustained notes and fragmented phrases. The bass doesn't just support the low notes, it also carries the melodic movement, indicating the direction of the song as a whole. Rather than maintaining a constant beat, the drums drive the whole thing through texture, accent placement, and density adjustment.
 
 ---
 
@@ -83,7 +83,7 @@ The keyboard uses an electric piano or synthesizer, and rather than presenting a
 
 The Mahavishnu Orchestra began operations in the early 1970s and was characterized by extremely fast tempos, complex time signature structures, and strictly composed unison. While Weather Report emphasized fluid generation, Mahavishnu Orchestra contrasts with its emphasis on constructability and reproducibility.
 
-The improvisation here develops within a composed framework rather than in complete freedom. Each performer is required to perform within highly technical constraints, and the ensemble as a whole has the integrity of a precision machine.
+The improvisation here takes place within a composed framework rather than complete freedom. Each performer is required to perform within highly technical constraints, and the ensemble as a whole has the integrity of a precision machine.
 
 ### Rhythmic structure and form
 
@@ -105,7 +105,7 @@ sequenceDiagram
 
 ### Instrument composition and performance techniques
 
-The electric guitar is accompanied by distortion and continuously develops high-speed scales and arpeggios. The violin was introduced as a melodic instrument in rock formations, and has the same volume and maneuverability as the guitar. The keyboard is responsible for supporting sustained notes and harmonies, and supports the overall thickness.
+Electric guitars are accompanied by distortion and continuously develop high-speed scales and arpeggios. The violin was introduced as a melodic instrument in rock formations, and has the same volume and maneuverability as the guitar. The keyboard is responsible for supporting sustained notes and harmonies, and supports the overall thickness.
 
 ---
 
@@ -150,7 +150,7 @@ Progressive jazz/fusion left a legacy of thinking that linked structural design 
 
 ## Conclusion
 
-Progressive Jazz/Fusion was more a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
+Progressive Jazz/Fusion was more of a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
 
 ---
 

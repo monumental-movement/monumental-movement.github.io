@@ -22,7 +22,7 @@ title: Pick up Happy Hardcore works
 
 Released: 1994/Dutch happy hardcore masterpiece
 
-Features: A classic that took the 90's Eurodance/rave scene by storm with its catchy melody and positive energy. It continues to be loved by many clubs and raves today.
+Features: A classic that took the 90's Eurodance rave scene by storm with its catchy melody and positive energy. It continues to be loved by many clubs and raves today.
 
 #### Tracklist
 ```md
@@ -124,7 +124,7 @@ B2. Forevermore (Original)
 
 Artist: Popular British DJ/producer Mark Breeze
 
-Characteristics: A song that has been supported by many clubs, with an uplifting melody and energetic beat, as well as samples from "Kick Your Legs In The Air" and "Don"t Make Me Wait (Special Version)."
+Characteristics: A song that has been supported by many clubs, with an uplifting melody, energetic beat, and sampling of "Kick Your Legs In The Air" and "Don"t Make Me Wait (Special Version)."
 
 #### Tracklist
 ```md

@@ -14,7 +14,7 @@ title: Christiane F. Christiana – Wunderbar Health Dub
 ---
 
 
-Electro/Synth-pop/Leftfield tracks under the name Christiane F./Christiana by Christiane Vera Felscherinow, who is known for the autobiographical book "Christiane F." and the movie "Wir Kinder vom Bahnhof Zoo." It was released in 2003 by the German label Playhouse.
+Electro/Synth-pop/Leftfield tracks by Christiane Vera Felscherinow, who is known for her autobiographical book ""Christiane F." and the movie ""Wir Kinder vom Bahnhof Zoo" and movies, under the name Christiane F./Christiana. It was released in 2003 by the German label Playhouse.
 
 Alexander Hacke of Einstürzende Neubauten and F.M. Einheit were deeply involved in Christiane F's musical activities.
 

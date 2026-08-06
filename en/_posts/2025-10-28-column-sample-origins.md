@@ -15,7 +15,7 @@ title: '[Column] The origins of sampling - 20 most sampled sound sources'
 ### Prologue: Tracing the DNA of sound
 
 
-Text: mmr｜Theme: Based on data such as **WhoSampled**, we will highlight the ""20 most sampled sound sources'' and explore how each has been etched into music history.
+Text: mmr｜Theme: ""20 most sampled sound sources'' based on data such as **WhoSampled** and explore how each has been etched into music history
 
 
 Sampling is a technology that most directly embodies ""quotation" and ""reconstruction" in the history of music. From the early days of hip-hop in the late '70s to today's electronica, a single drum break, bassline, or scream has been transformed into hundreds or thousands of songs.
@@ -69,7 +69,7 @@ Bernard Edwards" bass line became famous on Sugarhill Gang"s "Rapper's Delight."
 ---
 
 #### 5. James Brown – "Funky Drummer" (1970)
-Clyde Stubblefield's drum break is the holy grail of sampling. Public Enemy, LL Cool J, Prince, Beastie Boys -- every time that snare hit, the era was renewed.
+Clyde Stubblefield's drum breaks are the holy grail of sampling. Public Enemy, LL Cool J, Prince, Beastie Boys -- every time that snare hit, the era was renewed.
 The ""nucleus of rhythm'' has breathed life into the greatest number of works, from before hip-hop to after hip-hop.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AoQ4AtsFWVM?si=R0oO64bCh8qulHO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -109,8 +109,8 @@ Although the melody is modest, the "space" between the snare and kick forms a go
 ---
 
 #### 10. The Honey Drippers – "Impeach the President" (1973)
-A drum break where political messages and grooves coexist. Quoted by Nas, The Notorious B.I.G., and even J. Cole.
-The reason why the title ironically resonates across time is because the ""aesthetics of resistance'' engraved in the rhythm is universal.
+A drum break where political messages and grooves coexist. Nas, The Notorious B.I.G., and even J. Cole.
+The reason why the title ironically resonates across time is because the ""aesthetics of resistance'' carved into the rhythm is universal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7hNr8WpVYI0?si=IEACVEwNdD9Xf7Rb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -140,7 +140,7 @@ The smooth groove has a level of perfection that feels like it was written with 
 ---
 
 #### 14. Mountain – "Long Red" (1972)
-The chant "You know what I mean!" was frequently used by Public Enemy and De La Soul during live performances.
+The chant "You know what I mean!" was often used by Public Enemy and De La Soul during live performances.
 This is a great example of how a simple rock song becomes a hip-hop "part" through vocal sampling.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,20 +171,20 @@ A masterpiece of instrumental funk, LL Cool J and Public Enemy cited it as a bre
 
 #### 18. Barry White – "I"m Gonna Love You Just a Little More Baby" (1973)
 In the sampling world, it is a symbol of love. Quoted by The Dream and Kanye West, it straddles the line between soul and desire.
-The ""sustained sound'' of sweet strings gave hip-hop a luxurious feel.
+甘美なストリングスの“持続音”が、ヒップホップにラグジュアリーな質感を与えた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### 19. Tom Scott – "Today" (1973)
-Used on Pete Rock & C.L. Smooth's "They Reminisce Over You". This song, which has themes of sadness and memory, showed that sampling can be an art of "memorial."
+Pete Rock & C.L. Smooth「They Reminisce Over You」で使用。悲しみと記憶をテーマにしたこの曲は、サンプリングが“追悼”の芸術になり得ることを示した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KYKPc-DooNo?si=dRFaHjTgOoRW21cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 20. The Soul Searchers – "Ashley"s Roachclip" (1974)
+#### 20. The Soul Searchers – “Ashley’s Roachclip” (1974)
 Used by The Roots, Eric B. & Rakim, Arrested Development, and more. The transparency and density of the drum break was inherited by the ""warm sampling aesthetic'' of the 1990s.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/md9veYbl7wI?si=X2sEcu_lKxFEpBAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -198,14 +198,14 @@ Used by The Roots, Eric B. & Rakim, Arrested Development, and more. The transpar
 | 1960s | Soul/funk recording technology develops. The budding drum break culture. |
 | 1973 | Kool Herc plays two copies of "Apache" at a block party. Birth of hip hop. |
 | 1984 | Run-D.M.C. achieves first commercial sampling hit. |
-| 1989 | Public Enemy's ""Fear of a Black Planet'' establishes multiple sampling techniques. |
-| 1994 | Wu-Tang Clan, RZA's "noise sampling" creates a new trend. |
+| 1989 | Public Enemy『Fear of a Black Planet』で多重サンプリング技法が確立。 |
+| 1994 | Wu-Tang Clan、RZAの“ノイズ・サンプリング”が新潮流を生む。 |
 | 2000s | Daft Punk and Kanye West turn soul samples into pop. |
-| 2020s | Towards a new era of AI sampling and copyright issues. |
+| 2020s | AIサンプリングと著作権問題の新時代へ。 |
 
 ---
 
-### Diagram: Sampling chain
+### 図：サンプリングの連鎖
 
 <div class="mermaid">
 
@@ -223,9 +223,9 @@ E --> F["2020s AI Sampling Era"]
 
 ### Conclusion: Rhythm is forever cyclical
 
-Sampling is the act of borrowing someone else's time to talk about a new era.
-Behind this is the breathing of nameless musicians, the noise of equipment, and the inheritance of culture.
-""The same sound coming back again and again'' is proof of the evolution of pop music, and is the most humane technology that connects the past and the future.
+サンプリングとは、他者の時間を借りて新たな時代を語る行為だ。
+その背後には、名もなきミュージシャンたちの呼吸、機材のノイズ、そして文化の継承がある。
+「同じ音が何度も蘇る」ことこそ、ポップミュージックの進化の証であり、過去と未来を繋ぐ最も人間的なテクノロジーなのだ。
 
 ---
 
@@ -241,7 +241,7 @@ Behind this is the breathing of nameless musicians, the noise of equipment, and 
 
 ### Reference
 
-- [WhoSampled.com](WhoSampled.com)
-- [The Breakbeat Bible](https://amzn.to/3J9CXma)
+- [WhoSampled.com](WhoSampled.com) 
+- [The Breakbeat Bible](https://amzn.to/3J9CXma) 
 
 ---

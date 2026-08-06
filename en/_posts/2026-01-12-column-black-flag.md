@@ -19,9 +19,9 @@ title: '[Column] Black Flag - The turning point of Southern California hardcore'
 Text: mmr｜Theme: About a band that left a legacy of method and attitude rather than commercial success
 
 
-Black Flag was more than just a band name, it was a kind of structural change that pervaded the American West Coast underground from the late 1970s to the early 1980s. While they were known for their fast, harsh, and simple playing, they were also beset by practices that would have a decisive influence on generations to come: DIY, self-sufficient touring, and record-making independence. Musically, they continued to reject the linear image of punk, changing from their early three-chord hardcore to the heavier, slower, experimental sound of their later years.
+Black Flag was more than just a band name, it was a kind of structural change that pervaded the American West Coast underground from the late 1970s to the early 1980s. While they were known for their fast, harsh, and simple playing, they also had practices that would have a decisive influence on generations to come: DIY, self-sufficient touring, and record-making independence. Musically, they continued to reject the linear image of punk, changing from their early three-chord hardcore to the heavier, slower, experimental sound of their later years.
 
-The local characteristics of Southern California, suburban culture, repressive daily life, and a tense relationship with the police. Black Flag's music is inseparable from these concrete environments. Anger and emptiness were not abstract things, but an extension of life. Each of their songs, tours, and records exists as a practical response to their environment.
+The local characteristics of Southern California, suburban culture, repressive daily life, and a tense relationship with the police. Black Flag's music is inseparable from these specific environments. Anger and emptiness were not abstract things, but an extension of life. Each of their songs, tours, and records exists as a practical response to their environment.
 
 > Black Flag was a band that functioned as a methodology, not a style.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 Black Flag's origins lie in guitarist Greg Ginn. When the band started in 1976 in the Hermosa Beach, California area, their name was Panic. It was a time when punk rock was beginning to spread from England and New York, and the influence of the Ramones and Sex Pistols was clear, but the scene in Southern California was still in its infancy.
 
-Panic briefly changed its name to Black Flag. The name referred to the anarchist symbol of the black flag, and rather than a clear political statement, it contained a sense of denial of order and stability. The four-line design used as a logo was a simple and instantly recognizable visual symbol that would go on to become one of the most famous icons in punk history.
+Panic briefly changed its name to Black Flag. The name referred to the anarchist symbol of the black flag, and rather than a clear political statement, it contained a sense of denial of order and stability. The four-line design used as a logo was a simple and instantly recognizable visual symbol that would become one of the most famous icons in punk history.
 
 The initial members changed drastically, with vocals, bass, and drums frequently being replaced. This instability was a weakness, but also a factor that prevented the band"s musical direction from becoming fixed. From the beginning, Greg Ginn"s guitar playing was characterized by excessive distortion and repetitive riffs, and we can already see the beginnings of his later development.
 
@@ -77,7 +77,7 @@ After the release of ""Nervous Breakdown,'' Keith Morris left the band. The reas
 
 Black Flag continued their activities while searching for a new vocalist. During this period, multiple singers participated for a short period of time, and fragments of their sound sources remain. The band lacked stability, but that meant continued musical trial and error.
 
-Importantly during this period of transition, Greg Ginn took full control and sought to maintain the band as a long-term project. Despite frequent personnel changes, the Black Flag name and philosophy remained.
+Importantly during this period of transition, Greg Ginn took full control and sought to maintain the band as a long-term project. Despite frequent personnel changes, the Black Flag name and philosophy remained intact.
 
 > Instability was a precondition for change, not dissolution.
 
@@ -115,7 +115,7 @@ After his addition, the band began touring the United States in earnest. Perform
 
 SST Records is indispensable when talking about Black Flag's activities. It was originally the name of an electronics company run by Greg Ginn, which operated completely independently as a record label.
 
-In addition to releasing Black Flag material, SST also actively released works by other underground bands. As a result, a unique distribution network was formed centered on the West Coast, creating a punk economic zone that was not dependent on major labels.
+In addition to releasing Black Flag material, SST also actively released works by other underground bands. As a result, a unique distribution network centered on the West Coast was formed, creating a punk economic zone that was not dependent on major labels.
 
 This DIY model set a realistic precedent for later indie rock and hardcore scenes. His attitude of producing records, printing jackets, distributing them, and arranging tours himself was inseparable from the content of the music itself.
 
@@ -129,7 +129,7 @@ This DIY model set a realistic precedent for later indie rock and hardcore scene
 
 In the early days of Black Flag, speed and shortness were their weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated and the noisy texture became emphasized.
 
-This change was not just an experiment, but also a reflection of life on the road, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
+This change was not just an experiment, but also a reflection of touring life, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
 
 During this period, Black Flag expanded the boundaries of hardcore and laid the foundation for later influences on sludge, grunge, and alternative rock.
 

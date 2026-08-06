@@ -9,8 +9,8 @@ tags:
 - Happy Hardcore
 - 90s
 - 00s
-title: '[Column] Happy Hardcore and Japanese Culture: The Encounter of High-Speed
-  ​​Beat and "Kawaii"'
+title: '[Column] Happy hardcore and Japanese culture - the encounter between high-speed
+  beat and "kawaii"'
 ---
 
 
@@ -19,7 +19,7 @@ title: '[Column] Happy Hardcore and Japanese Culture: The Encounter of High-Spee
 Text: mmr｜Theme: The relationship between Happy Hardcore and Japanese culture
 
 Happy Hardcore emerged from the British rave scene in the early 1990s.
-The music, which combines pop and emotional melodies with explosively fast beats of around 170 BPM, took Europe by storm, and then unexpectedly connected with Japanese culture, achieving a unique development.
+The music, which combines pop and emotional melodies with an explosively fast beat of around 170 BPM, took Europe by storm, and then unexpectedly connected with Japanese culture, achieving unique development.
 The affinity between this "happy" sound and "Japanese culture" is not just an import of musical genres, but a new cultural hybrid.
 
 <hr>
@@ -52,19 +52,19 @@ Based on happy hardcore, fused with otaku culture (anime, doujin, Akihabara club
 
 [DJ Sharpnel](https://amzn.to/4pIBKCL) and [m1dy](https://amzn.to/4pCFQfA) are internationally known.
 
-Overseas fans recognize the formula of "Happy Hardcore + Anime" as "Japanese" and support it as a re-import.
+Overseas fans recognize the formula of "Happy Hardcore + Anime" as "Japanese" and support it as a reimport.
 
 #### Dance game culture (BEMANI/DDR)
 
 Many happy hardcore songs are included in Konami's [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) and [beatmania IIDX series](https://amzn.to/46ic1ta).
 
-As a result, game center culture other than clubs in Japan has spread to young people.
+As a result, the culture of arcades other than clubs in Japan has spread to young people.
 
-For example: DDR songs by [Naoki](https://amzn.to/42BJOuW), [Ryu☆](https://amzn.to/46xoN5F), [DJ Shimamura](https://amzn.to/46OsTHX) and others have a great influence on Happy Hardcore fans overseas.
+Example: DDR songs by [Naoki](https://amzn.to/42BJOuW), [Ryu☆](https://amzn.to/46xoN5F), [DJ Shimamura](https://amzn.to/46OsTHX) and others have a great influence on happy hardcore fans overseas.
 
 #### Festivals and doujin sales
 
-Unlike rave in the UK, the scene in Japan is centered around M3 (sound/media mix doujin sales) and Akihabara-style club events.
+Unlike raves in the UK, the scene in Japan is centered around M3 (sound/media mix doujin sales) and Akihabara-style club events.
 
 "Derivative music distribution" and "doujin CD culture" uniquely supported the distribution and development of Happy Hardcore.
 
@@ -72,13 +72,13 @@ Unlike rave in the UK, the scene in Japan is centered around M3 (sound/media mix
 
 ### Cultural keywords
 
-- **Kawaii**: Japanese ""cute culture'' is reflected in the fast, pop melody.
+- **Kawaii**: Japanese "kawaii culture" is reflected in the fast, pop melody.
 
 - **Otaku culture**: Directly connected to anime, doujinshi, and Akihabara club culture.
 
 - **Game culture**: DDR and music games made happy hardcore more familiar.
 
-- **Reimportation phenomenon**: A genre that originated in the UK develops independently in Japan and once again influences the world.
+- **Reimport phenomenon**: A genre that originated in the UK develops independently in Japan, and once again influences the world.
 
 <hr>
 
@@ -96,7 +96,7 @@ Unlike rave in the UK, the scene in Japan is centered around M3 (sound/media mix
 
 ### The unique role of Japanese culture in global music history
 
-Happy Hardcore originally came from British rave, but it merged with Japanese culture (anime, games, doujins, music games) to form a unique "J-Core" culture.
+Happy Hardcore originally came from British rave, but it merged with Japanese culture (anime, games, doujins, music games) to form its own "J-Core" culture.
 Today, it is recognized as being associated with "Happy Hardcore = anime-like cuteness," and Japan has become an important base internationally.
 
 ---

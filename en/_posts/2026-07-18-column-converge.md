@@ -65,7 +65,7 @@ color: #fff;
 
 ### Scene from the late 1980s
 
-In Boston in the 1980s, a hardcore scene was forming, represented by SSD, DYS, Negative FX, etc.
+In the 1980s, Boston was home to a hardcore scene represented by SSD, DYS, Negative FX, and more.
 
 Initially, the style was close to New York hardcore, but over time more and more bands began to actively incorporate metal influences.
 
@@ -111,7 +111,7 @@ Converge was formed in Massachusetts in 1990.
 
 The central players were Jacob Bannon and Kurt Ballou.
 
-Still in their teens at the time, they listened to a wide variety of music, including not only hardcore but also metal, punk, and alternative rock.
+Still in their teens at the time, they listened to a wide variety of music, including hardcore, metal, punk, and alternative rock.
 
 The initial members were not fixed, and the lineup changed several times immediately after its formation.
 
@@ -137,7 +137,7 @@ Everything converges to one point: Converge.
 
 From around 1991 to 1992, Converge produced several demos and splits.
 
-The sound sources from that time do not yet have as complex a composition as they did in later years.
+The sound sources from that time do not yet have as complex a structure as they did in later years.
 
 but,
 
@@ -239,7 +239,7 @@ This style continued in subsequent works and became an important characteristic 
 
 ### Live Rating Increase
 
-After the album's release, Converge toured extensively throughout the United States.
+After the release of the album, Converge toured extensively throughout the United States.
 
 They are known for their live performance, which is more powerful than the sound source, and have received high praise from many audiences and band members.
 
@@ -249,7 +249,7 @@ Its reputation spread mainly through word of mouth, and Converge's presence perm
 
 ---
 
-## "When Forever Comes Crashing" – a work that elevates chaos to complete expression
+## "When Forever Comes Crashing"—a work that elevates chaos to complete expression
 
 ### Heavier, more complex sounds
 
@@ -353,11 +353,11 @@ Overwhelming speed.
 
 Complex fill.
 
-Accurate tempo management.
+正確なテンポ管理。
 
 And intense live performance.
 
-With these, Converge's performance has been raised to the next level.
+These features raised Converge's performance to the next level.
 
 The representative lineup that continues to this day was completed during this period.
 
@@ -398,19 +398,19 @@ Integrity.
 
 Hatebreed.
 
-Shai Hulud.
+Shai Hulud。
 
 These bands were gaining popularity, but each took very different directions.
 
 Converge was the most experimental of the bunch.
 
-They continued to explore more complex and free music without moving towards a breakdown-centric style.
+They continued to explore more complex and free music without moving towards a breakdown-based style.
 
 ### Creativity over commerciality
 
 At that time, nu-metal was very popular in heavy music.
 
-However, Converge continued to thoroughly refine their music without pandering to trends.
+しかしConvergeは流行へ迎合することなく、自分たちの音楽を徹底的に磨き続けた。
 
 This attitude is the very essence of a DIY spirit that prioritizes the perfection of the work over commercial success.
 
@@ -512,13 +512,13 @@ Such reviews spread by word of mouth and shocked many musicians.
 
 The album is not a work that can be understood with just one listen.
 
-Because of its complex structure and vast amount of information, the more you listen to it, the more you discover new things.
+Because of its complex structure and vast amount of information, it is perceived as a work that offers new discoveries the more you listen to it.
 
 ### Songs that show their true value live
 
 The songs from ""Jane Doe'' also played an important role in the live performance.
 
-Performances that sound complicated on the sound source are reproduced with surprising accuracy on stage.
+Performances that sound complex on the sound source are reproduced with surprising accuracy on stage.
 
 Tempo change.
 
@@ -604,7 +604,7 @@ Overall, a heavy and gloomy atmosphere prevailed, and the range of emotional exp
 
 In this work, the presence of the bass has increased even more.
 
-Nate Newton's performance does not just trace the same phrase as the guitar, but also adds depth to the entire song with independent movements.
+Nate Newton's performance not only follows the same phrases as the guitar, but also adds depth to the entire song through independent movements.
 
 With the bass brought to the forefront, Converge's sound has become more three-dimensional.
 
@@ -634,7 +634,7 @@ Converge had evolved into a band that was not just "fast" and "heavy," but also 
 
 The tempo of the album as a whole is fast, with many songs rushing through in a short period of time.
 
-Although it has a vigor reminiscent of the early works, the accuracy of the performance has improved significantly.
+Although it has a vigor reminiscent of his early works, the precision of his performance has improved significantly.
 
 ### Combination of simplicity and complexity
 
@@ -769,7 +769,7 @@ In other words, rather than recreating the momentum of when they were young, it 
 
 ### Range of emotions
 
-In "The Dusk in Us," there"s more than just anger.
+"The Dusk in Us" is not just about anger;
 
 Loneliness.
 
@@ -801,9 +801,9 @@ Unlike regular Converge works, it not only incorporates heaviness, but also inco
 
 ### New musical possibilities
 
-"Bloodmoon: I" has many long songs, and the slowly developing structure stands out.
+""Bloodmoon: I'' has many long songs, and their slowly developing compositions stand out.
 
-The sound that makes use of noise and reverberation is an extension of Converge's longstanding experimental attitude.
+The sound that utilizes noise and reverberation is an extension of Converge's longstanding experimental attitude.
 
 On the other hand, the contrasting vocals of Jacob Bannon and Chelsea Wolfe gave a fresh impression.
 
@@ -811,7 +811,7 @@ On the other hand, the contrasting vocals of Jacob Bannon and Chelsea Wolfe gave
 
 Although Converge has been active for over 30 years, their music has not become fixed.
 
-Their ability to incorporate new expressions while maintaining the Converge-like feel is a feature that sets them apart from many long-running bands.
+Their ability to incorporate new expressions while maintaining a Converge-like feel is a feature that sets them apart from many long-running bands.
 
 > ""Bloodmoon: I'' once again shows that Converge are a creative band that continues to challenge themselves.
 
@@ -1061,7 +1061,7 @@ Starting from hardcore punk, they have absorbed a variety of elements such as me
 
 Its history is not a history of adhering to one style.
 
-It is a history of not losing the ""Converge-ness'' while exploring new methods for each work.
+It is a history of not losing the "Converge-ness" while exploring new methods for each work.
 
 ""Jane Doe'' is still talked about today as a representative work of extreme music, but its reputation goes beyond just a single masterpiece.
 

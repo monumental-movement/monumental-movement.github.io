@@ -16,12 +16,12 @@ title: '[Column] MERZBOW ── Noise, the liberating acoustics'
 ## Prologue: Noise as the inversion of silence
 
 
-Text: mmr｜Theme: Exploring the philosophy and cultural historical significance of noise music pioneered by Masami Akita/Merzbow
+Text: mmr｜Theme: Exploring the philosophy and cultural historical significance of noise music pioneered by Masami Akita = Merzbow
 
 Since the 1980s, "noise music" originating from Japan has followed a unique trajectory in the history of world music. The person who has continued to stand at the center of this is **Masami Akita (Merzbow)**. His sound is violent yet meditative, destructive yet organic.
 It goes beyond the framework of ""music" and should instead be seen as **an ""aural philosophical experiment."**
 
-The name Merzbow comes from Schulz's Dada-like collage work ""Merzbau''. In other words, the very act of dismantling existing structures and reconstructing the fragments is his creative principle.
+The name Merzbow comes from Schulz's Dada-style collage work ""Merzbau''. In other words, the very act of dismantling existing structures and reconstructing the fragments is his creative principle.
 Akita has been active for over 40 years, but his philosophy has always been ""the politics of listening''. Noise is not just "noisy sound", but a counterattack of sounds that have been excluded from the social order.
 
 ---
@@ -41,11 +41,11 @@ color: #fff;
 
 
 ## Background: Japan's avant-garde soil and DIY culture
-At the end of the 1970s, Tokyo's underground was filled with a diverse spirit of experimentation. The context of contemporary music by Yuji Takahashi and Toru Takemitsu, the impulses of punk/free jazz, and the happening practices of the art world intersect.
+At the end of the 1970s, Tokyo's underground was filled with a diverse experimental spirit. The context of contemporary music by Yuji Takahashi and Toru Takemitsu, the impulses of punk/free jazz, and the happening practices of the art world intersect.
 Akita studied art history at an art university and explored the relationship between the body and sound.
 
 Early Merzbow was developed as an ""action art'' that involved the audience and the space through live noise similar to action painting.
-Also, the cassette culture (cassette underground) supported his expression. The DIY spirit of **home recording + mailing network** was a precursor to what would later become an Internet-like phenomenon.
+Also, the cassette culture (cassette underground) supported his expression. The DIY spirit of **home recording + mailing network** was a harbinger of what would later become an Internet-like phenomenon.
 
 ---
 
@@ -63,13 +63,13 @@ There exists a ""resonance between inorganic and organic''.
 
 ---
 
-## Equipment and production process: acoustic "ecosystem"
+## Equipment and production process: the acoustic "ecosystem"
 In the early days, the focus was on ""physical noise'' directly connected to metal junk, amplifiers, microphones, magnetic tape, effectors, etc.
 In the mid-1990s, with the introduction of Macs and digital devices, the granularity and controllability of sound suddenly changed.
-However, Akita does not aim at control, but instead shifts to experiments to find the ""point of collapse of control.''
+However, Akita does not aim at control, but instead shifts to experiments to find the ""point of collapse of control**.''
 
 His studio is an organism of its own, with its myriad analog devices and patch cables intertwined.
-Merzbow's "sound" is a record of the mutual interference process between humans and machines.
+Merzbow's "sound" is a record of the mutual interaction process between humans and machines.
 
 ---
 
@@ -86,7 +86,7 @@ Despite being the opposite of "music that sells," the paradox of receiving high 
 ## International influence: making noise a global language
 Since the 1990s, Merzbow has been mythologised through underground networks around the world.
 Its influence extended to many artists such as **Wolf Eyes (US), Prurient (US), and Alva Noto (Germany)**.
-His ""Japanese noise'' became an important reference point for Western critics as well, as it represents the coexistence of Oriental tranquility and violence.
+His "Japanese noise" became an important reference point for Western critics as well, as it represents the coexistence of Oriental tranquility and violence.
 
 In the 2000s, the noise scene spread to Indonesia, Russia, and South America.
 At the root of this is the philosophy established by Merzbow: ""Anyone can dismantle the world with sound.''
@@ -94,7 +94,7 @@ At the root of this is the philosophy established by Merzbow: ""Anyone can disma
 ---
 
 ## Current: Noise after AI
-In the 2020s, as music generation by AI becomes commonplace, Merzbow's presence is once again gaining traction.
+In the 2020s, as AI-based music generation becomes commonplace, Merzbow's presence is once again gaining traction.
 His noise became a symbol of ""the non-algorithmic chaos of human consciousness.''
 The more orderly and beautiful the generative music becomes, the more Merzbow's "chaos" stands up as traces of real life.
 

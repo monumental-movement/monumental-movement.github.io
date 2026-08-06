@@ -18,7 +18,7 @@ title: '[Column] Damien Hirst and the speed of punk: the rhythm of production dr
 
 ## Introduction: Noise and speed in the studio
 
-Text: mmr｜Theme: Interpreting the influence of music flowing in the production environment on the speed and ideology of works in contemporary art since the 1980s, based on the relationship between Damien Hirst and punk.
+Text: mmr｜Theme: Interpreting the influence of music flowing in the production environment on the speed and ideology of works in contemporary art since the 1980s, from the relationship between Damien Hirst and punk.
 
 From the late 1980s to the 1990s, British contemporary art underwent a major transformation. At the center of this was Damien Hirst. His works are often talked about in terms of their visual intensity, such as animals soaked in formalin and the arrangement of medical equipment, but "sound" was clearly in the background of his creation.
 
@@ -53,7 +53,7 @@ As seen in their signature song "God Save the Queen," punk is premised on a blat
 
 ### Thoughts on DIY and destruction
 
-An important characteristic of punk is its DIY spirit. Make it yourself and present it yourself. The process does not involve institutions or authorities.
+An important characteristic of punk is its DIY spirit. Create it yourself and present it yourself. The process does not involve institutions or authorities.
 
 This structure strongly resonates with criticism of academicism and the market system in art. Before Hearst, galleries and critics determined values ​​in the art world, but punk had the power to override that very structure.
 
@@ -73,7 +73,7 @@ His attitude of creating his own space without relying on existing galleries ove
 
 It is said that music was always playing at Hearst's production sites. Punk and rock music in particular played an important role in maintaining a sense of speed.
 
-In his work, which involved repetitive tasks and mass production, music was not used to maintain concentration, but rather to encourage acceleration and decision-making.
+In his works, which involved repetitive tasks and mass production, music was not used to maintain concentration, but rather to encourage acceleration and decision-making.
 
 > Music at the production site existed not to deepen thinking but to speed up judgment.
 
@@ -103,7 +103,7 @@ From a musical perspective, this is more of a "production" than a band. It has a
 
 Hirst dominated the art market in the 1990s as a central figure of Young British Artists.
 
-What is important here is the process by which punk anti-establishmentism is absorbed into the market. The attitude that once denied the system has instead become a factor that creates market value.
+What is important here is the process by which punk's anti-establishment spirit is absorbed into the market. The attitude that once denied the system has instead become a factor that creates market value.
 
 ### Works as provocations
 
@@ -162,11 +162,11 @@ flowchart LR
 
 ## Conclusion: An era where speed becomes valuable
 
-To understand Damien Hirst's production, you need to listen not only to the visual elements but also to the music that was playing in the studio.
+To understand Damien Hirst's production, you have to listen not only to the visual elements but also to the music that was playing in the studio.
 
 Punk, exemplified by The Sex Pistols, was more than just an influence, it provided an underlying logic of production. Speed, immediacy, anti-establishment. All of these are directly connected to the generation of new value in contemporary art.
 
-And now, its value has become inseparable from the market. What was once a rebellion has now become part of the most efficient production strategy.
+And now, that value has become inseparable from the market. What was once a rebellion has now become part of the most efficient production strategy.
 
 > When speed itself is converted into value, art appears as movement rather than thought.
 

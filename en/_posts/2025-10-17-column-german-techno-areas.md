@@ -88,7 +88,7 @@ NEU!, La Düsseldorf, Cluster—'70s electro experiments laid the groundwork for
 ### 2-2. Kompakt and the genealogy of minimal pop
 
 In the 1990s, the **Kompakt label**, which emerged from Cologne, presented a ""soft techno'' that was different from the rigidity of Berlin.
-Wolfgang Voigt's Gas depicts low frequencies floating in a foggy forest. It was the moment when minimalism acquired **emotion and poetry**.
+Wolfgang Voigt's Gas depicts low frequencies floating in a foggy forest. It was the moment when minimalism gained **emotion and poetry**.
 
 > "For me, techno is a landscape painting."
 > — Wolfgang Voigt
@@ -130,7 +130,7 @@ The sound pressure in the basement of the Dorian Gray club was both a social rea
 ### 3-3. Where did Frankfurt's genes go?
 
 Cocoon, Ibiza, festival culture.
-The origin of all this lies in the Frankfurt rave of the 1990s.
+The origin of all this is the Frankfurt rave of the 90s.
 Europe before EDM started here.
 Techno was a prayer, another heartbeat beating behind the economy.
 
@@ -153,7 +153,7 @@ Not ""music for dancing" but ""beats for thinking."
 
 ### 4-2. Local scene in eastern Leipzig
 
-The DIY spirit that has continued since the East German era is alive and well in the basement of this city.
+The DIY spirit that dates back to the East German era is alive and well in the basement of this city.
 Turning an abandoned building into a club and producing sound using a homemade system.
 What exists there is **techno as a community**, unrelated to commercialization.
 For them, music is both political and everyday.
@@ -161,7 +161,7 @@ For them, music is both political and everyday.
 ### 4-3. Significance of "non-centered techno"
 
 It's easy to deify Berlin.
-But the true diversity of German techno lies in the **resistance of the periphery**.
+But the real diversity of German techno lies in the **resistance of the periphery**.
 The slowness of time and the analog feel of the countryside.
 This reflects the future sound of techno.
 
@@ -179,7 +179,7 @@ Each rhythm intersects, creating a **multipolar sonic map of Germany**.
 
 A return to hardware and a rediscovery of modular synths.
 It"s not just nostalgia, it"s a return to **hand-based techno**.
-German techno continues to tune cities and bodies.
+German techno continues to tune the city and the body.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6izudjC4_g0?si=O1WoBn12317T8Sfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -351,7 +351,7 @@ That's why this country remains "honest in sound" more than anywhere else in the
 
 ### Related columns
 
-🔗 [[Column] The genealogy and current state of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
+🔗 [[Column] Genealogy and present of German Techno - Aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 

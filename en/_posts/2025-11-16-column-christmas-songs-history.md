@@ -18,10 +18,10 @@ title: '[Column] Changes in Christmas songs: 1950s to 2020s'
 ## Prologue The global appeal of Christmas songs
 
 
-Text: mmr｜Theme: About Christmas songs, which are not just seasonal music, but cultural phenomena that reflect changes in the technology, social background, and music industry of the times.
+文：mmr｜テーマ：単なる季節音楽ではなく、時代の技術・社会背景・音楽産業の変化を映す文化現象であるクリスマスソングについて
 
 
-Christmas songs have a special existence, warming the heart in the cold winter and telling stories of love, family, and friendship in melodies. It has been loved by generations, and its expression and distribution format have changed over time. If we follow the changes from the 1950s to the 2020s, we can see how music technology, social environment, and media strategy have influenced it.
+クリスマスソングは、冬の寒さの中で心を温め、恋愛や家族、友情の物語をメロディにのせて伝える特別な存在です。世代を超えて親しまれ、時代とともに表現や流通形態も変化してきました。1950年代から2020年代までの変遷を追うと、音楽技術や社会環境、メディア戦略がどのように影響したかが見えてきます。
 
 ---
 
@@ -70,7 +70,7 @@ Vincent Montana Jr.'s 1976 Christmas Jollies is a groundbreaking album that inco
 
 **Features**
 - gorgeous strings and horns
-- Classic song cover + original
+- クラシック曲カバー＋オリジナル
 - Arrangements for dance parties
 - A bridge to later synth pop/R&B Christmas songs
 
@@ -119,12 +119,12 @@ Released in 1984, "Last Christmas" combines synth pop and heartbreaking romance.
 
 ---
 
-Released in 1983. AOR/city pop depicting urban winter scenery and love. It is regularly played on radio and commercials, and has become a standard winter song in Japan.
+Released in 1983. AOR/city pop depicting urban winter scenery and love. It is regularly played on radio and commercials and has become a standard winter song in Japan.
 
 #### Representative song
 
 | Year | Song title | Artist | Features |
-| ---- | ------------------------ | ------------------------ | -----------| |
+| ---- | ------------------------ | ---------------------- | ------------ |
 | 1980 | Happy Xmas (War Is Over) | John Lennon & Yoko Ono | Social Message |
 | 1983 | Christmas Eve | Tatsuro Yamashita | Urban winter scenery/love theme |
 | 1984 | Last Christmas | Wham! | World classic, many covers |
@@ -183,7 +183,7 @@ In 1994, Mariah Carey's "All I Want For Christmas Is You" became a worldwide hit
 ## 2010s-2020s SNS/streaming era
 
 * Mainstream playback on Spotify, Apple Music, and YouTube
-* Old song cover goes viral on TikTok
+* TikTokで旧曲カバーがバイラル
 * Increase in online live and virtual events due to the coronavirus pandemic
 * Commercial strategy focuses on distribution and SNS, accelerating re-evaluation of old songs
 
@@ -222,8 +222,8 @@ D --> E[2020s Online streaming becomes standard]
 | ----------- | -------------------------------- |
 | 1950s-70s | Jazz, pops, soul/family, religion, winter scenery |
 | Mid-1970s | Disco-soul fusion in "Christmas Jollies" |
-| 1980s | Synth pop/urban romance/establishment of standard songs |
-| 1990s | Mariah Carey establishes love-centered modern pop music |
+| 1980年代      | シンセポップ・都市的恋愛・定番曲確立               |
+| 1990年代      | マライア・キャリーにより恋愛中心モダンポップス確立        |
 | 2000s | Genre diversification and remake culture |
 | 2010s to 2020s | Re-evaluation of old songs and spread of new songs in the SNS/streaming era |
 

@@ -11,7 +11,7 @@ title: King Kobra – I Want Your Sex
 ---
 
 
-This is a single from "King Kobra", a project by his real name David Brian Srb.
+本名David Brian Srbのプロジェクトである「King Kobra」のシングルです。
 
 David Brian Srb was born in Omaha, Nebraska, and is a multi-instrumentalist, singer-songwriter, recording engineer, and music producer.
 

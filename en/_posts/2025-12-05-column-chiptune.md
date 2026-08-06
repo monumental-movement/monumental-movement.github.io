@@ -18,7 +18,7 @@ title: '[Column] Chiptune / 8-bit Music''s current location and future'
 
 Text: mmr｜Theme: Comprehensive research on reinterpreting Famicom/Game Boy sound sources into modern times
 
-The sound known as Chiptune, or 8-bit music, has transcended the confines of a nostalgic genre that simply evokes the sounds of retro games, and continues to have a unique power in modern music culture. There are many reasons, but the most fundamental one is ""universal musicality born from constraints''**.
+The sound known as Chiptune, or 8-bit music, has transcended the boundaries of simply being a nostalgic genre that evokes the sounds of retro games, and continues to have a unique power in modern music culture. There are many reasons for this, but the most fundamental one is **""universal musicality born from constraints''**.
 
 The sounds of the Famicom/NES and Game Boy are both built with a limited number of channels, limited waveforms, and a limited range of tones. However, the melodies that were born from within these constraints are all unusually memorable. It has an extremely high melodiousness that anyone can memorize the melody within just a few seconds of listening.
 
@@ -40,11 +40,11 @@ color: #fff;
 </style>
 
 
-## Chapter 1: The origins of 8-bit - Famicom and Game Boy sound source chips
+## Chapter 1: Origin of 8-bit - Famicom and Game Boy sound source chip
 
 ### 1-1. "Ricoh 2A03" that determined the sound of Famicom/NES
 
-What determined the Famicom's sound was a sound source chip called **Ricoh 2A03 (Japan)/2A07 (overseas NES)** integrated into the CPU. This chip belongs to the so-called "PSG (Programmable Sound Generator)".
+What determined the sound of the Famicom was a sound source chip integrated into the CPU called **Ricoh 2A03 (Japan)/2A07 (overseas NES)**. This chip belongs to the so-called "PSG (Programmable Sound Generator)".
 
 #### 5-channel configuration of Famicom sound source
 
@@ -76,7 +76,7 @@ The Game Boy is equipped with a CPU + PSG sound source called **Sharp LR35902** 
 - Channel that allows you to freely draw 4-bit waveforms of 32 samples
 - **Noise Channel**
 
-Waveform memory is at the heart of creativity, and even in the modern Game Boy Chiptune, the Wave channel is widely used to generate bass, lead, kick, and unique tones. The low-end thickness is particularly attractive, and it is loved as a ""Game Boy-like tone'' including the DAC noise peculiar to the hardware.
+Waveform memory is at the heart of creativity, and even in the modern Game Boy Chiptune, this wave channel is widely used for bass, lead, kick, and unique tone generation. The low-end thickness is particularly attractive, and it is loved as a ""Game Boy-like tone'' including the DAC noise peculiar to the hardware.
 
 ---
 
@@ -84,7 +84,7 @@ Waveform memory is at the heart of creativity, and even in the modern Game Boy C
 
 ### 2-1. The appeal of square waves (Square/Pulse)
 
-Square waves have a clearer overtone structure than other waveforms, creating clear melodies typical of game music. Changing the duty ratio will greatly change the character of the sound, and will also affect emotional expression.
+Square waves have a clearer overtone structure than other waveforms, creating clear melodies typical of game music. Changing the duty ratio greatly changes the character of the sound, and also affects emotional expression.
 
 - **12.5%**: Thin and sharp
 - **25%**: Bright
@@ -107,7 +107,7 @@ The Game Boy's WAVE channel allows you to create arbitrary waveforms rather than
 
 ---
 
-## Chapter 3: Tracker culture and Chiptune production - LSDj / Nanoloop / Famitracker
+## Chapter 3: Tracker culture and Chipune production - LSDj / Nanoloop / Famitracker
 
 ### 3-1. What is Tracker?
 
@@ -125,7 +125,7 @@ They are a core part of Chiptune culture and are used by artists around the worl
 
 ### 3-2. LSDj - King of Game Boy music
 
-LSDj is a highly complete portable tracker that directly controls the sound source of the actual Game Boy. Bass sounds that skillfully use WAVE channels, rhythms created with noise, and unique fluctuations caused by clock fluctuations are popular.
+LSDj is highly complete as a portable Tracker, and directly controls the sound source of the actual Game Boy. Bass sounds that skillfully use WAVE channels, rhythms created with noise, and unique fluctuations caused by clock fluctuations are popular.
 
 ### 3-3. Famitracker - Faithfully reproduces NES sound sources
 
@@ -151,7 +151,7 @@ Plogue reproduces the sound source chip from the circuit level, so it can produc
 
 ### 4-2. Production with Ableton / Logic / FL Studio
 
-DAW allows you to freely process effects, making it ideal for fusing Chiptune with modern electronic music.
+DAW allows you to freely process effects, making it perfect for fusing Chiptune with modern electronic music.
 
 example:
 - Add delay/reverb to 8-bit lead to create a synth lead
@@ -165,7 +165,7 @@ These "expanded chips" have become mainstream recently.
 ## Chapter 5: The intersection of game music remix culture and Chiptune
 
 There are a huge number of game music arrangements on YouTube and social media.
-Chiptune has a special role in this.
+Chiptune has a special role in that.
 
 reason:
 
@@ -195,7 +195,7 @@ Chiptune is by no means limited to a "reproduction of game music", but is active
 
 - Adjust noise channel length and frequency
 - Kick is reproduced by Pitch falling
-- Snare combines a short noise with a square wave
+- Snare combines short noise and square wave
 
 ---
 
@@ -219,7 +219,7 @@ flowchart TD
 Chiptune has communities all over the world.
 The features are as follows.
 
-- Live performance on actual Game Boy or NES
+- Live performance using actual Game Boy or NES
 - Composition using Tracker is the world standard
 - Highly compatible with illustrations, videos, and pixel art
 - DIY spirit and open culture
@@ -249,13 +249,13 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 ## Chapter 10: The future of Chiptune and the future of 8-bit aesthetics
 
 8-bit music is no longer a symbol of retro;
-**An existence that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
+**A presence that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
 It has become.
 
 - Use in Hyperpop and EDM
 - Lo-fi hiphop 8-bit textures
 - Strengthening the worldview of video works
-- Comprehensive production combined with pixel art
+- Comprehensive performance combined with pixel art
 
 8-bit sound will continue to have an impact on both cultural and technological aspects.
 
@@ -263,7 +263,7 @@ It has become.
 
 ## Conclusion: Chiptune is the musical language of the future
 
-**Chiptune is not "music of the past" but "a musical language that will continue to be used by future creators." **
+**Chiptune is not "music of the past" but "a musical language that will continue to be used by creators of the future." **
 
 The square wave doesn't disappear.
 The snare on the noise channel is still new.

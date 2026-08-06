@@ -49,7 +49,7 @@ Jamal"s first album as a leader was 1951"s New Talent, an album centered around 
 
 ### 1955–56 — The success of At the Pershing: But Not for Me
 
-Formed in 1955, the Ahmad Jamal Trio (Israel Crosby on bass, Vernel Fournier on drums) performed regularly at Chicago's Pershing Lounge. A recording of this live performance, released in 1958, At the Pershing: But Not for Me, was a huge commercial and critical success. The performance of "Poinciana" in particular was a hit, and had a great impact not only on jazz fans but also on general listeners.
+Formed in 1955, the Ahmad Jamal Trio (Israel Crosby on bass, Vernel Fournier on drums) performed regularly at Chicago's Pershing Lounge. A recording of this live performance, released in 1958, At the Pershing: But Not for Me, was a huge commercial and critical success. The performance of "Poinciana" in particular was a hit and had a great impact not only on jazz fans but also on general listeners.
 
 This album features:
 
@@ -78,7 +78,7 @@ Jamal creates space between phrases and builds rhythm and melody in response to 
 The performance focuses on simple phrases with no decorations, and clearly presents the theme to the listener. The repetition and rhythmic changes give the performance a sense of dynamic tension.
 
 ### 3. Interactive performance in trio formation
-The representative Ahmad Jamal Trio (piano, bass, drums) developed an interactive performance in which each instrument responded to the other. The bass and drums are more than just accompaniment, working closely with the piano to create an improvised dynamic.
+The representative Ahmad Jamal Trio (piano, bass, drums) developed an interactive performance in which each instrument resonated with each other. The bass and drums are more than just accompaniment, working closely with the piano to create an improvised dynamic.
 
 ### 4. Harmony and Modal Approach
 Jamal excels at playing chords and modal scales, creating a flexible sound that goes beyond the complexity of traditional bebop. This allows the audience to experience a simple yet profound performance.
@@ -146,7 +146,7 @@ timeline
 
 ## Impact and evaluation for posterity
 
-Ahmad Jamal's music occupies a unique place in jazz history. Its influence was revolutionary in that it went beyond simply passing on a style and remade the musical ""space'' itself.
+Ahmad Jamal's music occupies a unique place in jazz history. Its influence was revolutionary in that it went beyond the mere inheritance of styles and remade the musical ""space'' itself.
 
 ### 1. Influence on Miles Davis
 Miles Davis repeatedly cited Jamal as his ""most influential pianist'' during his lifetime.
@@ -155,7 +155,7 @@ In particular, the following points are important:
 - **The concept of "Space"**
 Jamal"s playing with blank spaces had a strong influence on Miles"s fashion era from the late 1950s.
 - **Minimalistic theme presentation**
-Jamal's sense of structure is also reflected in Miles' arrangements from his quintet period.
+Jamal's sense of composition is also reflected in Miles' arrangements from his quintet period.
 - **Trio dynamism**
 The interactive approach between bass and drums also contributed to the formation of Miles' band interplay.
 
@@ -191,7 +191,7 @@ Jamal's signature style, the aesthetics of tranquility, has been passed down to 
 - Brad Mehldau
 -Vijay Iyer et al.
 
-Particularly in contemporary jazz, **performances that make use of minimalist structures and blank space** have become widely accepted, and Jamal is credited with laying the foundation for this.
+Particularly in contemporary jazz, **playing that makes use of minimal structures and blank space** has become widely accepted, and Jamal is credited with laying the foundation for this.
 
 ### 5. Late evaluation and activities in later years
 Since the 2000s, Jamal has developed activities with the following characteristics:

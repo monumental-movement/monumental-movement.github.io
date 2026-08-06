@@ -14,7 +14,7 @@ title: The Cinematic Orchestra – Ode To The Big Sea / Channel 1 Suite (Remixes
 ---
 
 
-The Cinematic Orchestra is a jazz/downtempo/electronica band formed in London, England in 1999, led by composer/producer Jason Swinscoe.
+The Cinematic Orchestraは、作曲家／プロデューサーの Jason Swinscoe（J Swinscoeジェイソン・スウィンスコー） が中心となって1999年にイギリス・ロンドンで結成されたジャズ／ダウンテンポ／エレクトロニカ バンド。
 
 Future Jazz & Downtempo remix of "Ode To The Big Sea / Channel 1 Suite" released in 1999 on the UK independent label Ninja Tune.
 

@@ -19,7 +19,7 @@ title: '[Column] Chillstep / Liquid Dubstep'
 
 Text: mmr｜Theme: About the "emotional dubstep" born between silence and bass
 
-Chillstep and Liquid Dubstep are spin-off genres that began to take shape on the internet around 2010, emphasizing the melodic and ambient aspects of dubstep. Unlike traditional dubstep's aggressive wobble bass, harsh filter modulation, and post-brostep metal leads, Chillstep brings to the fore ""quietness, transparency, and a soft-defined low range.''
+Chillstep and Liquid Dubstep are spin-off genres that began to take shape on the Internet around 2010, emphasizing the melodic and ambient aspects of dubstep. Unlike traditional dubstep's aggressive wobble bass, harsh filter modulation, and post-brostep metal leads, Chillstep brings to the fore ""quietness, transparency, and a soft-defined low range.''
 
 The background flow is as follows.
 
@@ -50,16 +50,16 @@ color: #fff;
 
 ### 1-1 Dubstep evolution and melody development
 
-Dubstep was originally rooted in the London underground and was characterized by heavy sub-bass and harsh snare sounds. However, from 2008 to 2010, tracks with a melodic approach became popular on YouTube and SoundCloud.
+Dubstep was originally rooted in London's underground, and was characterized by heavy sub-bass and harsh snare sounds. However, from 2008 to 2010, tracks with a melodic approach became popular on YouTube and SoundCloud.
 
-Features include the following:
+Features include the following.
 
 * Narrows the bass wobble width for softer modulation
 * Increased ratio of piano strings pads
 * Gives breathing dynamics without making the side chain extremely deep
 * Focus on "build ~ melody" rather than drop
 
-Although the influence of Mt. Eden is large, the name ""Chillstep'' as a genre arose spontaneously within internet culture.
+Although the influence of Mt. Eden is large, the genre name ""Chillstep'' arose naturally within internet culture.
 
 ---
 
@@ -79,7 +79,7 @@ The symbol of Chillstep is "smooth sub-bass."
 
 * Sine wave center
 * Adjust warmth with slight distortion (soft clipping)
-* Produce breathing-like fluctuations with light LFO (1/4, 1/8, etc.)
+* Produce a breathing-like fluctuation with light LFO (1/4, 1/8, etc.)
 * Add emotion through volume changes without using excessive filter modulation
 
 ### 2-3 Melody and synth design
@@ -128,7 +128,7 @@ Blackmill's style became the template for Chillstep and created a large followin
 ### Blackmill style production process
 
 1. Create a chord progression on the piano (such as a simple I–V–vi–IV type)
-2. Layer the strings and set the attack slowly
+2. Layer the strings and set the attack to be slow
 3. Generate high frequency lead with analog style soft synth
 4. Create a sub-bass with a sine wave and lightly shake it with a 1/4 LFO
 5. Drums are modest, kicks are deep and short
@@ -231,7 +231,7 @@ Emphasis is placed on ""sustainability" and ""lingering resonance" rather than m
 
 ### 5-6 mix
 
-*Smoothly suppresses 5-7kHz stimulation
+* Suppress and smooth 5-7kHz stimulation
 * Minimize background noise (analog hiss, wind, rain, etc.)
 * Fog-like texture with high-cut reverb
 * Sidechain is suppressive, only creates movement
@@ -272,7 +272,7 @@ flowchart TD
 
 ## 8. Current status and future prospects of the genre
 
-Chillstep/Liquid Dubstep is not just an offshoot of dubstep, but a representative case of the internet and visual culture forming a musical genre. Even in the 2020s, it has smoothly integrated with genres such as lo-fi culture, ambient, melodic bass, and future garage, and has been widely accepted as a form of "quiet electronic."
+Chillstep/Liquid Dubstep is not just an offshoot of dubstep, but a typical example of how the internet and visual culture have shaped a musical genre. Even in the 2020s, it has smoothly integrated with genres such as lo-fi culture, ambient, melodic bass, and future garage, and has been widely accepted as a form of "quiet electronic."
 
 Additionally, the following trends have been observed in recent years.
 
@@ -287,7 +287,7 @@ Chillstep, which is a combination of "music + visuals + story," is likely to con
 
 ## 9. Summary
 
-Chillstep / Liquid Dubstep is music that strips away the aggressive aspects of dubstep and restructures it around emotion, scenery, and tranquility. Artists such as Blackmill and MitiS defined the genre through their lyricism and careful sonic processing, creating many followers.
+Chillstep / Liquid Dubstep is music that strips away the aggressive aspects of dubstep and rebuilds it around emotion, scenery, and tranquility. Artists such as Blackmill and MitiS defined the genre through their lyricism and careful sonic processing, creating many followers.
 
 Its musicality is not based on "strength" but on "temperature, breathing, and blank spaces."
 A quiet late night, the light of a video, a foggy landscape--Chillstep continues to have a solid presence by nestling into these scenes.

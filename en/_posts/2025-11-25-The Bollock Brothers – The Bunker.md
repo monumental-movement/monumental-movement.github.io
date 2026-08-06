@@ -14,7 +14,7 @@ title: The Bollock Brothers – The Bunker (From The Forthcoming Film)
 ---
 
 
-The Bollock Brothers are a British punk/new wave band formed in 1979 by Jock McDonald, a London promoter/DJ/manager and former member of 4" Be 2".
+The Bollock Brothers are a British punk/new wave band formed in 1979 by London promoter/DJ/manager and former member of 4" Be 2" Jock McDonald.
 
 "The Bunker", released in 1980, is well known as The Bollock Brothers' signature song. The producer is Jimmy Lydon, brother of Sex Pistols' John Lydon.
 

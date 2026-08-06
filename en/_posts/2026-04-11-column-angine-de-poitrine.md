@@ -50,9 +50,9 @@ color: #fff;
 
 ### French culture and experimental spirit
 
-Their hometown of Saguenay, Quebec, is a region with strong roots in French culture, forming a unique cultural region in North America. This environment also influenced the music, fostering an approach different from that of English-speaking rock.
+Their hometown, Saguenay, Quebec, is a region with strong French culture, forming a unique cultural region in North America. This environment also influenced the music, fostering an approach different from that of English-speaking rock.
 
-Quebec's music scene tends to emphasize artistry and experimentation over commerciality, and attempts to transcend genre boundaries are commonplace. Angine de Poitrine was also formed within this context.
+Quebec's music scene tends to emphasize artistry and experimentation over commerciality, and experiments that transcend genre boundaries are commonplace. Angine de Poitrine was also formed within this context.
 
 <div class="mermaid">
 flowchart TD
@@ -91,7 +91,7 @@ timeline
 
 This ""time lag between formation and establishment'' shows that their music was formed through improvisational trial and error.
 
-> Bands are not born instantaneously, but have contours over time.
+> Bands are not born instantaneously, but have an outline over time.
 
 ---
 
@@ -101,7 +101,7 @@ This ""time lag between formation and establishment'' shows that their music was
 
 Although Angine de Poitrine's music is based on math rock, it is distinctive in that it actively incorporates microtonal elements. It uses pitches that deviate from the standard 12-temperament temperament and non-standard tuning, creating a unique instability.
 
-In terms of rhythm, complex time signatures and polyrhythms are often used, and the structure has both regularity and disruption. As a result, the listener's expectations are constantly being betrayed.
+In terms of rhythm, complex time signatures and polyrhythms are often used, and the music has a structure that is both regular and disrupted at the same time. As a result, the listener's expectations are constantly being betrayed.
 
 <div class="mermaid">
 flowchart LR
@@ -121,7 +121,7 @@ Khn de Poitrine also uses a custom-built double neck guitar, which allows for ex
 
 ### Meaning of masks and characters
 
-The sound is not the only important thing in their live performances. Visual direction also functions as part of the work.
+Sound isn"t the only thing that"s important in their live performances. Visual direction also functions as part of the work.
 
 Initially, the costumes and characters were conceived as jokes, but gradually became established as an experimental means of exploring relationships with the audience. By erasing personal identity through masks, the audience is forced to focus on the sounds and movements themselves.
 
@@ -135,7 +135,7 @@ D --> E[Change in experience]
 
 This anonymity functions as a device that increases the purity of music.
 
->Visual blockage causes sensory concentration
+> Visual blockage conversely creates sensory concentration
 
 ---
 
@@ -156,7 +156,7 @@ D --> E[international attention]
 E --> F[tour]
 </div>
 
-This flow points to a contemporary structure in which evaluations in the underground scene are globally connected.
+This flow indicates a contemporary structure in which evaluations in the underground scene are globally connected.
 
 > We have entered an era where local activities are instantly connected to the world.
 

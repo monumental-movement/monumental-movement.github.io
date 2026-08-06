@@ -29,15 +29,15 @@ Nostalgia used to be a feeling deeply tied to personal memories. Childhood memor
 However, the advent of the Internet has fundamentally changed this emotional structure.
 
 YouTube, blogs, social media, and streaming.
-With music from all eras now accessible at the same time, music has come to be consumed as an ""archive of time" rather than the ""present".
+With music from all eras now accessible at the same time, music has come to be consumed as an ""archive of time" rather than the ""present."
 
 1970s disco, 1980s synth pop, 1990s R&B, 2000s indie rock.
 All of them line up on the same timeline.
 
-In this situation, music is experienced not as something new, but as layers of time.
+In this situation, music is not experienced as new, but as layers of time.
 And the emotion that crossed all these layers was nostalgia.
 
-The Internet is not only the world"s largest music library, but also the world"s largest storage device.
+インターネットは、世界最大の音楽ライブラリであると同時に、**世界最大の記憶装置**でもある。
 
 > When the Internet transformed music from a "culture of the present" to a "culture of time," nostalgia became its central emotion.
 
@@ -48,7 +48,7 @@ The Internet is not only the world"s largest music library, but also the world"s
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -62,8 +62,8 @@ color: #fff;
 
 ### A cultural concept that has existed since the 19th century
 
-The word nostalgia was created as a medical term in the 17th century.
-The term was coined by the Swiss physician Johannes Hofer to describe the psychological state experienced by soldiers away from home.
+The word nostalgia originated as a medical term in the 17th century.
+A term coined by Swiss physician Johannes Hofer to describe the psychological state experienced by soldiers who leave their homeland.
 
 The etymology is
 
@@ -81,7 +81,7 @@ In classical music, a movement was born to reinterpret folk songs and folk music
 In jazz, a culture of reperforming standard songs was formed after the 1920s.
 Even in rock, there was a return to the blues in the 1960s.
 
-In other words, music has always looked back.
+In other words, music has always looked back on the past.
 
 However, the nature of nostalgia in the Internet era is different from that of the past.
 
@@ -153,7 +153,7 @@ Vaporwave is
 
 * Capitalism
 * Consumer culture
-* Digital society
+* デジタル社会
 
 It began as an art that satirizes.
 
@@ -238,7 +238,7 @@ There are three main reasons.
 The first is **information overload**.
 The Internet provides a huge amount of music, but it also creates fatigue.
 
-The second is **identity stability**.
+The second is **stability of identity**.
 Nostalgic music provides a sense of security in a rapidly changing society.
 
 The third is **admiration for analog**.

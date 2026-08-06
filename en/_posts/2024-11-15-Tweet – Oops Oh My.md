@@ -17,7 +17,7 @@ Charlene Keys, also known as Tweet, is an American R&B/soul singer, songwriter, 
 
 "Oops (Oh My)", released by Elektra in 2002, is Tweet's debut solo single.
 
-Produced by Timbaland, with guest vocals by Missy Elliott. It was a huge hit, reaching number one on the Hot R&B/Hip-Hop Songs list and number seven on the Billboard Hot 100.
+Produced by Timbaland, with guest vocals by Missy Elliott. It became a huge hit, reaching number one on the Hot R&B/Hip-Hop Songs list and number seven on the Billboard Hot 100.
 
 #### Tracklist
 ```md

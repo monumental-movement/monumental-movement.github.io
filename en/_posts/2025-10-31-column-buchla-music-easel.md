@@ -16,7 +16,7 @@ title: '[Column] Buchla Music Easel and the philosophy of "solitary performance"
 
 ## Introduction: What is Buchla Music Easel?
 
-Text: mmr｜Theme: Music Easel, which even in modern times is praised by many live artists as the "smallest orchestra that can be played alone"
+Text: mmr｜Theme: Music Easel, which even today is praised by many live artists as the "smallest orchestra that can perform on its own"
 
 
 The **Buchla Music Easel**, which appeared in 1973, is a portable version of the famous analog modular **Buchla 200 series**.
@@ -69,7 +69,7 @@ D -->|Control Voltage| B
 
 </div>
 
-Due to this interconnection, a simple sine wave has a harmonic structure, and the minute touches during performance are immediately reflected in the acoustics.
+Due to this interconnection, a simple sine wave has a harmonic structure, and the minute touches during performance are immediately reflected in the sound.
 
 ---
 
@@ -97,7 +97,7 @@ G --> H[Main Out]
 </div>
 
 This structure allows you to complete clock generation → modulation → sound output** all by itself.
-Easel itself functions as a "complete music system" without the need for external equipment.
+外部機材を必要とせず、Easel自身が「完結した音楽系」として機能する。
 
 ### Technical features
 
@@ -116,7 +116,7 @@ The idea that integrates these is not "portability" but "improvisation," and the
 
 Legendary female electronic musician **Suzanne Ciani** started her solo live series "Easel Sessions" at Easel in the 2010s.
 She does away with any laptops and performs solely on Easel.
-At the live performance, the pitch changes smoothly with the pressure of the hands, and the FM modulation organically fluctuates.
+At the live performance, the pitch changes smoothly with the pressure of the hand, and the FM modulation organically fluctuates.
 Ciani says, ""Buchla is a breathing instrument.''
 
 Sonically, Easel's **asynchronous modulation** creates a flow of overtones that seems to float through space.
@@ -127,7 +127,7 @@ The audience gets the illusion that ""the air itself is being played.''
 | Elements | Technical Points | Auditory Impressions |
 | --------------------------- | ------------- | ------------ |
 | Change in FM amount of Modulation Oscillator | Waveform fluctuates nonlinearly over time | Organic fluctuation |
-| Pulser + Envelope connection | Generation of cycles without a sense of beat | Sense of time like "breathing" |
+| Pulser + Envelope connection | Generates a cycle without a sense of beat | A sense of time like "breathing" |
 | Self-interference of Reverb reverberation | Opposite phase generation of overtones | Floating feeling/reverberant spread |
 
 ---
@@ -147,7 +147,7 @@ Cohen said, ""Easel is a tool for sculpting time.''
 In his performance, the waveform folding of the Complex Oscillator causes overtones to collapse and reproduce continuously,
 It produces a sound that is as if an acoustic instrument were reconstructing itself.
 
-### Sound technology analysis: Cohen's improvisational structure
+### 音響技術分析：Cohenの即興構造
 
 <div class="mermaid">
 
@@ -161,11 +161,11 @@ E -->|Stereo Out| F[Audience Space]
 </div>
 
 This asynchronous trigger structure allows the Easel to generate a "non-metered groove" on its own.
-Cohen says that music arises just by "surrendering" yourself to the flow of current.
+Cohenはその電流の流れに“身を委ねる”だけで音楽が立ち上がると述べている。
 
 ---
 
-## Chapter 5: Contemporary Artists and Easel Inheritance
+## 第5章：現代アーティストとEaselの継承
 
 ### Suzanne Ciani
 
@@ -173,8 +173,8 @@ Cohen says that music arises just by "surrendering" yourself to the flow of curr
 
 ### Todd Barton
 
-→ As an educator, he explains Easel as "the point of contact between consciousness and machines."
-"Don"t play it—listen to it playing you."
+→ As an educator, he explains Easel as the "intersection between consciousness and machines."
+“Don’t play it—listen to it playing you.”（演奏するな、演奏されろ）
 
 ### Charles Cohen
 
@@ -193,7 +193,7 @@ Playing Music Easel isn't about flipping a switch;
 **It is the act of relying on the reaction speed of an electric circuit**.
 The pressure, humidity, and temperature of your fingertips affect the CV value and change the sound.
 
-In other words, Easel is an instrument in which the human skin becomes the circuit.
+つまり、Easelは「人間の皮膚が回路になる」楽器であり、
 The sounds that exist there are phenomena, not data.
 
 In recent live performances, analog Easel operations are not converted to MIDI,
@@ -204,11 +204,11 @@ This "anti-digital" trend is also a sign of bringing back physical reality to el
 
 ## Conclusion: The future as an orchestra
 
-Easel is functionally small and expressively limitless.
+Easelは、機能的には小さく、表現的には無限である。
 The electric current flickering inside creates a "living sound" in synchronization with the performer's breathing.
 
 As Charles Cohen said, "Easel is a lonely conversation partner"
-As Suzanne Ciani has shown, "it is the organ that translates human emotions into electronic form."
+As Suzanne Ciani has shown, "it is an organ that translates human emotions into electronic form."
 
 In today's laptop-dominated live environment,
 Buchla Music Easel remains a "solitary orchestra".
@@ -239,7 +239,7 @@ timeline
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ehLVOMR8Txw?si=Pp3UIOfRvj41tH3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

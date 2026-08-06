@@ -16,12 +16,12 @@ title: '[Column] From Joy Division to New Order: The evolution of Manchester sou
 
 ## Prologue: From Silence to a Sea of ​​Electronics — Manchester Dawn
 
-Text: mmr | Theme: From Joy Division to New Order - A story of the transformation and rebirth of sound, from darkness to light, from solitude to the dance floor.
+Text: mmr｜Theme: From Joy Division to New Order - A story of the transformation and rebirth of sound, from darkness to light, from solitude to the dance floor.
 
 
 In the late 1970s, the industrial city of Manchester was in the midst of devastation and stagnation. Rising unemployment, social unrest, and gray skies. Among them, Joy Division turned the despair of young people into sound with their inorganic beats and cold poetry. Ian Curtis's voice resonated as a symbol of the pain and loneliness of the times, opening the door to a new era of post-punk.
 
-However, Curtis' death in 1980 brought that story to an abrupt end. The remaining members choose rebirth from their sadness and step into the future of electronic music. The birth of New Order marked the beginning of a new chapter in the Manchester sound that has evolved beyond tragedy.
+However, Curtis' death in 1980 brought that story to an abrupt end. The remaining members choose rebirth from their sadness and step into the future of electronic music. The birth of New Order was the beginning of a new chapter in the Manchester sound that evolved beyond tragedy.
 
 ---
 
@@ -56,7 +56,7 @@ Kraftrock from Kraftwerk and Neu!, the cold, hard sounds of the Velvet Undergrou
 ### Chapter 2: Despair of Sound—The World of Joy Division
 
 **"Internal Sound"**
-Ian Curtis" lyrics depict self-alienation, social anxiety, and inner darkness. Songs such as ""Transmission" and ""She"s Lost Control" are masterpieces that overlap the solitude of the individual with the inorganic nature of the city.
+Ian Curtis" lyrics depict self-alienation, social anxiety, and inner darkness. Songs such as ""Transmission" and ""She"s Lost Control" are masterpieces that overlap the loneliness of the individual with the inorganic nature of the city.
 
 **"Production Innovation"**
 Producer Martin Hannett used recording techniques to pursue a spatial sound that was different from traditional rock music. The reverb on the drums and the three-dimensional placement of the bass were important elements that created the coldness and tension of Joy Division's sound.
@@ -68,7 +68,7 @@ Purchase on Amazon → [Unknown Pleasures](https://amzn.to/4h2l8BW)
 
 ---
 
-### Chapter 3: Individuality and Destiny—Ian Curtis' Conflict
+### Chapter 3: Individuality and Destiny—Ian Curtis's Conflict
 
 **"Darkness in the depths of the heart"**
 Curtis, who suffered from epilepsy and depression, spends his days torn between self-expression and his illness. While his symptoms affected his live performances, they also became a factor in deepening his musicality.
@@ -107,7 +107,7 @@ Founded by Tony Wilson, the label values ​​musical freedom and aesthetics. P
 Haçienda will be the setting for New Order"s DJ sets, and the band"s music will be inextricably linked to the dance floor. A two-way relationship with the local community was created.
 
 **"Musical individuality created by regional characteristics"**
-Manchester's gray, industrial environment was fertile ground for a cold yet lyrical musical style. The relationship between cities and music had a great influence on later generations of artists.
+Manchester's gray industrial environment provided a breeding ground for a cold yet lyrical musical style. The relationship between cities and music had a great influence on later generations of artists.
 
 Purchase on Amazon → [Movement](https://amzn.to/4mXprzN)
 
@@ -119,7 +119,7 @@ Purchase on Amazon → [Movement](https://amzn.to/4mXprzN)
 With songs such as "Power, Corruption & Lies," "Low-Life," and "Technique," they further deepened their fusion of rock, synth, and dance. They experimented with different production techniques on each album, increasing their reception in clubs and on the radio.
 
 **"Fusion of video/design and sound"**
-The artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element that symbolically expressed the album"s content.
+Artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element that symbolically expressed the album"s content.
 
 **"Cooperation and friction between members"**
 The division of roles and clashing opinions between Sumner, Hook, Morris, and Gillian Gilbert create tension within the band as the music evolves. Friction also became a driving force for creativity.
@@ -143,7 +143,7 @@ Purchase on Amazon → [Still](https://amzn.to/4mXpD1Z)
 
 ---
 
-### Chapter 8 (extra edition): Anecdotes, people, equipment, inside stories
+### Chapter 8 (extra edition): Anecdotes, people, equipment, behind-the-scenes stories
 
 **"Unreleased sound sources and rare tracks"**
 The BBC sessions and demo recordings include many famous songs that were not later made into albums. Excavation by fans continues even now.
@@ -166,11 +166,11 @@ It is a microcosm of the history of music at the end of the 20th century: **"reb
 
 Ian Curtis' poems of loneliness and destruction echo through the gray industrial areas of Manchester.
 Out of that afterglow came New Order's flickering electronic beats.
-In other words, it was within Joy Division's silence that the rhythm of New Order was sprouting.
+In other words, it was in the silence of Joy Division that the rhythm of New Order was sprouting.
 
 The city of Manchester was a place for young people to find expression in the midst of economic devastation.
 Music recorded the emotions of the times more honestly than politics or religion.
-What supported that sound was a strange fusion of temperature, where technology envelopes human pain.
+And what supported that sound was a strange fusion of temperature, where technology envelopes human pain.
 Martin Hannett"s reverberation, Peter Saville"s design, Haçienda's lighting and architecture——
 All of these things came together to form a cultural area called the Manchester Sound.
 

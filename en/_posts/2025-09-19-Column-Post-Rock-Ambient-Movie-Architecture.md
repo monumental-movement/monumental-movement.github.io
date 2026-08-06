@@ -43,7 +43,7 @@ Ambient/post-rock has had a great influence on film music, and has become establ
 
 | Movies | Music | Year | Features |
 |------|----------|----|------|
-| *Arrival* | Jóhann Jóhannsson | 2016 | Expressing the sense of circulation of time with a drone sound |
+| *Arrival* | Jóhann Jóhannsson | 2016 | Expressing the sense of circulation of time with drone-like sounds |
 | *Blade Runner 2049* | Hans Zimmer & Benjamin Wallfisch | 2017 | Ambient depiction of the coldness and expanse of a futuristic city |
 | *The Revenant* | Ryuichi Sakamoto & Alva Noto | 2015 | Expressing the pressure of nature and time with electronic and environmental sounds |
 | *Solaris* (2002 edition) | Eduard Artemyev | 2002 | Expanding psychological space with cosmic ambient |
@@ -67,14 +67,14 @@ Ambient/post-rock shows a strong presence in dialogue with urban spaces and arch
 | Tate Modern Turbine Hall | Various sound installations | 2000s | Drone sound and audience experience expansion in a huge space |
 | Oculus, NYC | Sound installation by Steve Reich / La Monte Young influence | 2016 | Integrating architectural reverb and urban acoustic design |
 
-**point**
+**ポイント**  
 - The themes of the urban space are "extension of time" and "fusion with environmental sounds"
 - In architecture, it is possible to design by calculating the volume, reflection, and movement of sound.
 - Music functions as an experience of the whole space, rather than just listening to it alone.
 
 ---
 
-### Relationship matrix between movies, architecture, and music
+### Relationship matrix between movies/architecture and music
 
 <div class="mermaid">
 flowchart LR
@@ -110,12 +110,12 @@ Film ↔ Architecture: Interaction between visual art and spatial design
 
 - **Composer**: Hans Zimmer & Benjamin Wallfisch
 - **Features**: Ambient depiction of the coldness and expanse of a futuristic city
-- **Sound Sample**: [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
+- **サウンドサンプル**: [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
 
 #### The Revenant (2015)
 
 - **Composer**: Ryuichi Sakamoto & Alva Noto
-- **Characteristics**: Expressing the pressure of nature and time with electronic sounds and environmental sounds
+- **Features**: Expressing the pressure of nature and time with electronic sounds and environmental sounds
 - **Sound Sample**: [Main Theme](https://www.youtube.com/watch?v=Czv8J1W4yYU)
 
 #### Solaris (2002)
@@ -127,7 +127,7 @@ Film ↔ Architecture: Interaction between visual art and spatial design
 #### There Will Be Blood (2007)
 
 - **Composer**: Jonny Greenwood
-- **Characteristics**: Post-classical + noise creates a sense of tension and loneliness
+- **特徴**: ポストクラシカル＋ノイズで緊張感と孤独を演出
 - **Sound Sample**: [Full OST](https://www.youtube.com/watch?v=-yXqEzUoFY4)
 
 ---
@@ -160,9 +160,9 @@ Ambient/post-rock has a strong presence in dialogue with urban spaces and archit
 
 Post-rock/ambient is not just a music genre, but has evolved as a method of designing time and space.
 
-Psychological expansion in film: Manipulating time with drones, loops, and soundscapes
+Psychological expansion in film: time manipulation with drones, loops, and soundscapes
 
-Applications in architecture and urban planning: the experience of staying in space, walking lines, and harmony with urban environmental sounds
+Applications in architecture and urban planning: the experience of staying in a space, walking lines, and harmony with urban environmental sounds
 
 In the future, the fusion of VR/AR and AI-generated music will further evolve the immersive spatial music experience.
 

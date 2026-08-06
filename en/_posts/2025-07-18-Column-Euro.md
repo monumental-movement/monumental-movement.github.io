@@ -83,7 +83,7 @@ In other words, the Euro of the 1990s was the ""pop image of modern Europe,'' a 
 
 After the fall of the Berlin Wall in 1989, Europe rapidly transformed into a cross-border entertainment market. "Euro-pop sung in English" began to enter the international market, even from non-English-speaking countries (such as Germany, the Netherlands, Italy, and Sweden).
 
-This means that Euromusic is a musical culture that prioritizes sensory pleasure over political boundaries. Rhythm, synths, and a simple, easy-to-repeat chorus. These have become a "common language" that transcends languages ​​and borders.
+This means that Euromusic is a musical culture that prioritizes sensory pleasure over political boundaries. Rhythm, synths, and a simple, repeatable chorus. These have become a "common language" that transcends languages ​​and borders.
 
 
 <hr>
@@ -162,7 +162,7 @@ Produced in Italy/Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGHT)
 
 <hr>
 
-### Why did the critics ignore it? ──"Lightness" and "Anti-Art"
+### Why did the critics ignore it? ──"Lightness" and "Anti-art"
 
 Euro music was not well received by critics for a long time. The reason is as follows:
 
@@ -198,7 +198,7 @@ Additionally, 90's Euro is reaching new listeners as the number of plays on Spot
 Euro music in the 1990s was a phenomenon that turned dance, pleasure, and melody into an international language, not lyrics or politics.
 That lightness became a weapon that allowed him to transcend genre boundaries and values.
 
-Now, once again, the "naive heat" of the Euro may be asking us a question that transcends genres and generations.
+Now, once again, the "naive heat" of the Euro may be asking us questions, transcending genres and generations.
 
 Is it nostalgia or newness for you?
 
@@ -272,7 +272,7 @@ Is it nostalgia or newness for you?
 <td>Tam Arrow</td>
 <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
 <td>Vinyl</td>
-<td>Made in Italy 2001 Euro Beat EP</td>
+<td>2001 Made in Italy Euro Beat EP</td>
 </tr>
 <tr>
 <td>Dao Dezi</td>

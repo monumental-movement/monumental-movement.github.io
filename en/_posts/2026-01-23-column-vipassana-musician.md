@@ -18,11 +18,11 @@ title: '[Column] Music and the Sound of Awareness: The Journey of Musicians Who 
 
 ## Introduction - Music and Vipassana meditation
 
-Text: mmr｜Theme: The moment when music and Vipassana meditation intersect—about the inner journey of musicians and the deepening of their creativity
+Text: mmr｜Theme: The moment when music and Vipassana meditation intersect - About the inner journey of musicians and the deepening of their creativity
 
 
-music and meditation. At first glance, these seem to be in completely different realms, but both require deep inner observation, breathing, and concentration on rhythm, and they share a common ground that fosters human sensibility.
-Among these, **Vipassana meditation (Insight Meditation)** has been accepted by people all over the world as a technique for observing thoughts and sensations as they really are.
+music and meditation. At first glance, these seem to be in completely different realms, but they both require deep inner observation, breathing, and concentration on rhythm, and they share a common ground that fosters human sensibility.
+Among these, **Vipassana meditation** has been accepted by people all over the world as a technique for observing thoughts and sensations as they really are.
 
 This column focuses on **famous musicians who have practiced and experienced Vipassana meditation**, and provides a fact-based introduction to how they incorporated meditation into their own creations and lives.
 
@@ -47,12 +47,12 @@ color: #fff;
 
 ## What is Vipassana meditation?
 
-> Vipassana is an old meditation method that means ""seeing things as they really are,'' and is still widely practiced today as a way to cultivate a balanced mind through self-observation and mental purification.
+> Vipassana is an old meditation method that means ""seeing things as they really are,'' and is still widely practiced today as a way to cultivate a balanced mind through self-observation and purification of the mind.
 
 Vipassana meditation has its roots in the Buddhist tradition, but it has become widespread as a universal technique that is separate from religion.
 The basics are **carefully observing your breathing and bodily sensations, and recognizing the natural flow of thoughts and emotions**.
 
-Modern practitioners often report that observation and awareness calm down the reactions of the mind, resulting in **increased creativity and concentration**.
+Modern practitioners often report that observation and awareness calm the reactions of the mind, resulting in **increased creativity and concentration**.
 
 ---
 
@@ -67,7 +67,7 @@ Specifically, the following practices are known:
 - Began learning Vipassana meditation in 2003 with the advice of Rick Rubin
 - Then attended numerous **10-day meditation courses**
 - It has been announced that ""I usually do zazen meditation for about 2 hours a day.''
-- It is also said that after his early meditation experience, he instituted a three-year period of abstinence (restriction on sexual activity) (as a personal discipline).
+- It is also said that after his early meditation experiences, he instituted a three-year period of abstinence (restriction on sexual activity) (as a personal discipline).
 
 These are all notable examples of how meditation had a profound influence on his self-insight and the establishment of his values.
 
@@ -91,7 +91,7 @@ These are all notable examples of how meditation had a profound influence on his
 > Iranian classical musician Omid Lotfi Kamkar is said to have been practicing Vipassana meditation since 1997, and is able to balance his performance with meditation.
 
 Omid Lotfi Kamkar is an artist who has been pursuing music since childhood and has been practicing Vipassana meditation for about 20 years.
-In this way, there are examples where the relationship between meditation and music is recognized not only in Western rock but also in the Middle Eastern and classical music worlds.
+In this way, there are examples where the relationship between meditation and music is recognized not only in Western rock but also in the world of Middle Eastern and classical music.
 
 ---
 
@@ -136,7 +136,7 @@ There are many other artists who are learning meditation for self-exploration, i
 
 ## Conclusion: A journey of awareness and music
 
-Vipassana meditation is not just a mental training exercise, but a way to face the deep truths of life through self-observation.
+Vipassana meditation is not just a mental training exercise, but a method for confronting the deep truths of life through self-observation.
 And it also brings a lot of awareness to the world of musical expression.
 The musicians featured in this article show that the overlap between meditation and music has the potential to deepen creativity and insight into existence.
 

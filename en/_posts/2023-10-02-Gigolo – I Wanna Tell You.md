@@ -11,7 +11,7 @@ title: Gigolo – I Wanna Tell You
 ---
 
 
-Gigolo is the alias of Edwin Maduro, an electronic dance producer and owner of Mo' Hop Records. Alternative names used by Edwin Maduro include Breadth Of View, Eddie Maduro, Eddie Satin, Gigolo, Monolith, and The Vision.
+Gigoloは、Mo' Hop Recordsのオーナーであるエレクトロニック・ダンス・プロデューサー、 Edwin Maduro(エドウィン・マドゥロ)の別名義。Edwin Maduroが使用する別名義には、Breadth Of View、Eddie Maduro、Eddie Satin、Gigolo、Monolith、The Visionなどがある。
 
 #### Tracklist
 ```md

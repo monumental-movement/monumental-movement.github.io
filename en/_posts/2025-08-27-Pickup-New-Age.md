@@ -19,10 +19,10 @@ title: Pick up New Age works
 ### Schawkie Roth – Dance Of The Tao
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-Characteristics: Schawkie Roth is a composer specializing in healing, meditation, relaxation music and acoustic jazz, and is considered one of the pioneers of New Age spiritual music.
+特徴：Schawkie Rothは、ヒーリング・瞑想・リラクゼーション音楽やアコースティックジャズを専門とする作曲家で、ニューエイジ・スピリチュアル音楽の先駆者の一人とされています。
 
 
-Charm: A fusion of Eastern philosophy and Western music, this piece is perfect for meditation and relaxation.
+魅力：東洋的な哲学と西洋の音楽が融合した、瞑想やリラクゼーションに最適な作品です。 
 
 #### Tracklist
 ```md
@@ -76,7 +76,7 @@ Appeal: Featuring synthesizer tones that promote deep meditative states, suitabl
 Features: Kitaro played keyboards as a member of the Japanese progressive rock band "Far East Family Band" in the early 1970s, and later developed a solo career.
 
 
-Appeal: A fantastic sound world that uses synthesizers spreads out, providing comfortable relaxation.
+魅力：シンセサイザーを駆使した幻想的な音世界が広がり、心地よいリラクゼーションを提供します。 
 
 #### Tracklist
 ```md
@@ -108,7 +108,7 @@ B5. Astral Trip
 
 Features: This is an album by Patrick Bernhardt released by the Canadian label "Imagine Records". A fantastic sound world that fuses ambient and new age elements opens up.
 
-Appeal: Featuring synthesizer tones that promote deep meditative states, suitable for mind and body relaxation.
+魅力：深い瞑想状態を促進するシンセサイザーの音色が特徴で、心身のリラクゼーションに適しています。
 
 #### Tracklist
 ```md
@@ -173,7 +173,7 @@ Charm: Spiritual music that incorporates elements of jazz, making you feel one w
 
 Features: A 1996 double LP by Australian ambient/relaxation music creator Tony O'Connor.
 
-Charm: The harmonious combination of natural sounds and synthesizers provides a soothing space that feels like taking a forest bath.
+Appeal: The harmonious combination of natural sounds and synthesizers provides a soothing space that feels like taking a forest bath.
 
 #### Tracklist
 ```md

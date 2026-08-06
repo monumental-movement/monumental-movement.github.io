@@ -49,16 +49,16 @@ color: #fff;
 
 From an archaeological perspective, the earliest "musical instruments" were percussion instruments.
 It is a stone or tree beaten for hunting or prayer,
-Creating a "beat" was also an act of creating a community.
+Creating a ""beat'' was also an act of creating a community.
 
 In many tribal societies in Africa and Oceania,
-The drum was both a means of transmitting information and a central part of rituals.
+Taiko drums were both a means of transmitting information and a central part of rituals.
 The rhythm of heartbeat is a metaphor for life,
 **Rhythm was a code for the body to communicate with the outside world**.
 
 ### 2. Dance that ticks the "beat" of the community
 
-Dancing is often referred to as ""nonverbal communication.''
+Dance is often referred to as ""nonverbal communication.''
 However, its essence lies rather in the reconfirmation of society through the resonance of the body.
 Festival dances and religious trances are
 It was a device that melted the "self" in a rhythmic flow that transcended the individual.
@@ -120,7 +120,7 @@ It was a political act of memory and rebirth.
 ### 2. Tokyo: Between regulation and creativity
 
 Japan's club culture matured under the legal constraints of the Entertainment Business Act.
-In this country, where dancing was once considered illegal,
+In this country where "dancing" was once considered "illegal",
 People searched for new ways to move their bodies in time with sound.
 Shibuya, Daikanyama, Shimokitazawa, and local small boxes――
 Secret dance venues formed the underworld of the city.
@@ -169,7 +169,7 @@ What sociologist Durkheim refers to as "collective effervescence" is
 It is a moment when the energy of the community is simultaneously energized.
 The club's dance floor is a modern recreation of exactly that.
 A place where lonely individuals can connect with others through rhythm.
-It's a more primitive and much more physical empathic device than social media.
+It's a more primitive and much more physical empathic device than SNS.
 
 ---
 
@@ -186,7 +186,7 @@ Rhythm will become the new language of communication.
 
 ---
 
-## Conclusion: Beat is the memory of the body
+## 結語：ビートは身体の記憶である
 
 Even if music is converted into data and rhythms are programmed,
 Humans never stop dancing.

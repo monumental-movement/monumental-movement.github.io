@@ -13,7 +13,7 @@ title: South Central – Nothing Can Go Wrong
 ---
 
 
-"Nothing Can Go Wrong" is a glitch electro track by South Central, a DJ duo from Brighton, UK, released in 2007 on the UK independent label A/G/P.
+"Nothing Can Go Wrong" is a glitch electro track by South Central, a DJ duo from Brighton, England, released in 2007 on the UK independent label A/G/P.
 
 #### Tracklist
 ```md

@@ -45,7 +45,7 @@ color: #fff;
 
 ### Intelligent electronic music after breakbeats
 
-In the early 1990s, attempts to subdivide and reconstruct breakbeats progressed, and rhythms that contained change rather than repetition came to be valued. In a field called IDM, the focus is less on the stability of tempo and more on what's happening inside the beat. Rhythm has changed from being a foundation for dancing to an information structure for listening.
+In the early 1990s, attempts were made to subdivide and reconstruct breakbeats, and rhythms that contained change rather than repetition came to be valued. In a field called IDM, the focus is less on the stability of tempo and more on what's happening inside the beat. Rhythm has changed from being a foundation for dancing to an information structure for listening.
 
 ### Redefining time signature and tempo
 
@@ -59,11 +59,11 @@ In IDM, multiple periods often exist simultaneously within a 4/4 time signature.
 
 ### Genealogy from electric jazz
 
-Electric jazz in the 1970s emphasized the expansion of the rhythm section and sustained grooves, but did not go as far as breaking down the beat. Since the 1990s, the introduction of samplers and sequencers has made it possible to repeat accurately and produce minute shifts that are difficult to perform manually.
+Electric jazz in the 1970s emphasized the expansion of the rhythm section and sustained grooves, but did not go as far as breaking down the beat. Since the 1990s, the introduction of samplers and sequencers has made it possible to repeat accurately and produce minute shifts that would be difficult to perform manually.
 
 ### Coexistence of improvisation and programming
 
-Improvisation is not lost even in an electronic environment. Performers manipulate loops and effects in real time, improvising the structure itself. The improvisation here appears not as a phrase, but as a structural manipulation.
+Improvisation is not lost even in an electronic environment. Performers manipulate loops and effects in real time, improvising changes to the structure itself. The improvisation here appears not as a phrase, but as a structural manipulation.
 
 > Electronicization did not take away the improvisational nature of jazz, but moved it to a different level.
 
@@ -116,11 +116,11 @@ On the surface, simple repetition continues, but internally the accent positions
 
 ### Polyrhythm and Polymeter
 
-In IDM x Jazz, polyrhythm, in which multiple rhythm cycles run simultaneously, and polymeter, which have different time signatures, are used together. What is important is that they are mathematically consistent and not completely chaotic.
+IDM x Jazz uses both polyrhythm, which has multiple rhythm cycles running simultaneously, and polymeter, which has a different time signature. What is important is that they are mathematically consistent and not completely chaotic.
 
 ### Micro timing control
 
-By moving the notes forward and backward in millisecond increments, a groove that is both mechanical and organic is created. This is also a process of analyzing human playing habits and intentionally rearranging them.
+By moving the notes forward and backward in millisecond increments, a groove that is both mechanical and organic is created. This is also a process of analyzing human performance habits and intentionally rearranging them.
 
 > Complexity arises not from the amount of information, but from the accuracy of time arrangement.
 

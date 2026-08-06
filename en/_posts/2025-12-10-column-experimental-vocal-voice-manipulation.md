@@ -18,9 +18,9 @@ title: '[Column] Experimental Vocal / Voice Manipulation — History and techniq
 
 ## Prologue
 
-Text: mmr｜Theme: Experimental vocals that process, generate, and rearrange the voice as a material/history, techniques, representatives, and contemporary trends of voice manipulation
+Text: mmr｜Theme: Experimental vocals that process, generate, and rearrange the voice as a material/History, techniques, representatives, and contemporary trends of voice manipulation
 
-In the 21st century, the singing voice has gone from simply conveying melodies to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis, have greatly expanded the possibilities of the voice.
+In the 21st century, the singing voice has gone from simply conveying a melody to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis, have greatly expanded the possibilities of the voice.
 
 ---
 
@@ -46,7 +46,7 @@ By the mid-20th century, recording and tape manipulation provided the first majo
 
 ### 1-2. The era of synthesis and analog equipment
 
-Since the 1970s, vocoders and analog synthesizers have become popular, giving rise to crossovers between voices and synthesized sounds. The vocoder applied the spectral envelope of the voice to another carrier sound, making it possible to fuse the human voice with electronic sounds. As a result, robotic/mechanical tones have become widely available.
+Since the 1970s, vocoders and analog synthesizers have become popular, creating a crossover between voices and synthesized sounds. The vocoder applied the spectral envelope of the voice to another carrier sound, making it possible to fuse the human voice with electronic sounds. As a result, robotic/mechanical tones have become widely available.
 
 ---
 
@@ -62,7 +62,7 @@ Advances in techniques for changing pitch while maintaining formants (the elemen
 
 ### 2-3. Loops, live sampling, and performance techniques
 
-Performances using loop stations and real-time loopers have popularized the way a single singer creates multiple vocal layers on the spot. Here is a new vocal expression that combines improvisation and arrangement decisions live.
+Performances using loop stations and real-time loopers have popularized the method in which a single singer creates multiple layers of voice on the spot. Here is a new vocal expression that combines improvisation and arrangement decisions live.
 
 ---
 
@@ -93,7 +93,7 @@ Formant manipulation is effective for manipulating voice quality indicators such
 
 ### 4-3. Granular synthesis
 
-By breaking down into short sound pieces (grains) and rearranging them over time, or changing their density, sustained sounds are stretched, fragmented, and produce grainy textures. Particularly useful for texturing voices.
+By breaking it down into short sound pieces (grains) and rearranging them over time, or changing their density, sustained sounds are stretched, fragmented, and produce granular textures. Particularly useful for texturing voices.
 
 ### 4-4. Sample & Chop (Slicing)
 
@@ -105,7 +105,7 @@ Adding echo characteristics, panning, and manipulating perspective are important
 
 ### 4-6. Noise and nonlinear processing
 
-Distortion, waveform shaping, and feedback processing amplify the harshness and aggressiveness of the voice, giving it a sense of substance not found in traditional singing voices.
+Distortion, waveform shaping, and feedback processing amplify the roughness and aggressiveness of the voice, giving it a sense of substance not found in traditional singing voices.
 
 ---
 
@@ -115,7 +115,7 @@ The transformation of voice into a material is an expansion of expression, and a
 
 ### 5-1. Identity and voice
 
-Voice reflects an individual's physical characteristics, but it is easily altered by processing techniques. This allows artists to expand their range of self-expression, and listeners to update their awareness of voices.
+Voice reflects an individual's physical characteristics, but it is easily altered by processing techniques. This allows artists to expand their range of self-expression, and listeners to update their awareness of voice.
 
 ### 5-2. Performance ethics and generation technology
 
@@ -180,7 +180,7 @@ flowchart TD
     B --> C["1970s Increased use of vocoder"]
     C --> D["1990s DAW popularization"]
     D --> E["Comprehensive use of 2000s voice materials"]
-    E --> F["A collection of works centered on Bjork's voice"]
+    E --> F["Bjork の声中心の作品群"]
     E --> G["Real-time operation of Imogen Heap"]
     H["2010s AI voice analysis progress"] --> I["2020s Popularization of voice generation model"]
 </div>

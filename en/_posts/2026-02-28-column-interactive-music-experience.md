@@ -10,8 +10,7 @@ tags:
 - Interactive
 - Technology
 - Streaming
-title: '[Column] The future of interactive music experiences - the current state of
-  technology-enhanced listening and creation'
+title: 【コラム】 インタラクティブ音楽体験の未来 ― テクノロジーが拡張する聴取と創造の現在地
 ---
 
 
@@ -52,11 +51,11 @@ color: #fff;
 
 ## History
 
-The beginnings of interactive music date back to the pre-digital era. Tape manipulation and live improvisation were already "changing music." However, it was established as a clear structure with the development of computers and gaming culture.
+The beginnings of interactive music date back to the pre-digital era. Tape manipulation and live improvisation were already "changing music." However, it was with the development of computers and game culture that it became a clear structure.
 
-### 1970s-1980s: Electronic instruments and MIDI
+### 1970年代〜1980年代：電子楽器とMIDI
 
-In 1983, the MIDI standard was established to standardize communication between electronic musical instruments. Performance data can now be controlled, and sounds can be treated as a "collection of events."
+1983年、MIDI規格が策定され、電子楽器間の通信が標準化された。演奏データが制御可能になり、音は「イベントの集合」として扱われるようになる。
 This mechanism became the basis for later game music and real-time generation.
 
 ### 1990s: Evolution of game music
@@ -77,7 +76,7 @@ MMORPGs and online games have created an experience where music is synchronized 
 ### 2010s: VR/AR/Streaming
 
 With the advancement of VR technology, music is becoming spatial.
-With a head-mounted display and spatial sound, music has a "location."
+ヘッドマウントディスプレイと空間音響により、音楽は「位置」を持つ。
 
 Typical examples include:
 
@@ -112,7 +111,7 @@ Presenting the concept of generative music. 1978's Music for Airports laid the f
 
 ### Koji Kondo
 
-Established situation-related music design for Nintendo works. Popularizing the interactivity of game music.
+Established situation-based music design for Nintendo works. Popularizing the interactivity of game music.
 
 ### Yuzo Koshiro
 
@@ -120,7 +119,7 @@ Designed a dynamic song structure within the constraints of the in-game sound so
 
 ### Imogen Heap
 
-Practicing gesture control live using Mi.Mu gloves.
+Practice gesture control live using Mi.Mu gloves.
 
 ### Holly Herndon
 

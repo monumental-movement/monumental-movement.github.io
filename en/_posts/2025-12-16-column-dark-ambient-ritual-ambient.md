@@ -17,7 +17,7 @@ title: '[Column] Dark Ambient / Ritual Ambient'
 
 ## 1. Redefining the concept of genre
 
-Text: mmr｜Theme: Formation of immersive experience through acoustics, space, and ritual structure
+Text: mmr｜Theme: Formation of immersive experience through sound, space, and ritual structure
 
 Dark Ambient is not a semantic extension of ambient music, but a sonic expression created by intentionally reducing musical elements.
 
@@ -55,7 +55,7 @@ From the late 1970s to the 1980s, people around industrial music experimented wi
 * Frequency design with discomfort in mind
 * Refusal to repeat or expand
 
-These attempts resulted in ""music that cannot be heard,'' and laid the groundwork for the immersive sound that later Dark Ambient aspired to.
+These attempts resulted in ""music that cannot be heard'' and laid the groundwork for the immersive sound that later Dark Ambient aspired to.
 
 ---
 
@@ -70,7 +70,7 @@ The characteristics of his production can be summarized as follows.
 * Processing that intentionally hides the source of the sound
 * Configuration without expansion
 
-Through this methodology, music is presented as a state of being rather than a progression over time.
+Through this methodology, music is presented as a state of being rather than a progression on a time axis.
 
 ---
 
@@ -78,7 +78,7 @@ Through this methodology, music is presented as a state of being rather than a p
 
 ### 4.1 Frequency band imbalance
 
-The design, centered around the lower end of the audible range, creates a perception accompanied by a physical sensation of vibration.
+The design, centered around the lower limit of the audible range, creates a perception accompanied by a physical vibrational sensation.
 
 ### 4.2 Handling spatial recording
 
@@ -178,7 +178,7 @@ Dark Ambient / Ritual Ambient has been used in the following areas:
 * Museum installation
 * Game environment sounds
 
-What they have in common is that sound does not provide explanations.
+The common feature is that sound does not provide explanations.
 
 ---
 

@@ -59,14 +59,14 @@ In the opening video, a reddish-brown rocky mountain towering in the wilderness 
 Eventually, the sounds of human civilization's machines, the hustle and bustle of the city, and the acceleration of consumer society begin to overlap as a rhythm.
 
 > Natural and artificial. Silence and overcrowding. light and speed.
-> This movie is a series of contrasts, and that is the message.
+> This movie is a series of ""contrastions,'' and that is its message.
 
 ---
 
 ## Chapter 2: Philip Glass's Sound Construction
 
 Glass's music is based on repetition, but it is not just repetition.
-The layering of minute changes creates a **"difference between stillness and movement"**.
+Through the accumulation of minute changes, a **"difference between stillness and movement"** is created.
 
 His score is precisely in sync with the cuts and tempo of the footage, as if the footage had been edited into music.
 In fact, Reggio and Glass' production process involved editing in which the images and sounds echoed with each other.
@@ -116,16 +116,16 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 
 ---
 
-## Chapter 5: The relationship between video composition and music
+## Chapter 5: The correspondence relationship between video composition and music
 
 | Scene | Music motif | Meaning/effect |
 | ----------- | -------- | ---------- |
 | Wilderness and rocket launch | Sustained organ sound | Contrast between life and machine |
 | Urban transportation/factories | Repetition of sequences | Endless labor cycle |
-| Close-up of the face | Chorus and deceleration | Questions about the restoration of humanity |
+| Close-up of the face | Chorus and deceleration | Questions about the recovery of humanity |
 | Collapsing Rocket | Silence and Decay | End of Civilization and Rebirth |
 
-As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the video.
+As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the image.
 
 ---
 
@@ -139,7 +139,7 @@ for example:
 * **Contemporary composers such as Sigur Rós, Max Richter, Brian Eno**
 * Directly influenced **environmental films and VJ culture**
 
-This work is not just a movie, but has become something that can be called an ""Audiovisual Philosophy Book''.
+This work is not just a movie, but has become something that can be called an ""**audiovisual philosophy book**.''
 
 ---
 
@@ -148,7 +148,7 @@ This work is not just a movie, but has become something that can be called an ""
 <div class="mermaid">
 
 graph TD
-A[nature] -->|destruction/consumption| B[City]
+A[nature] -->|破壊・消費| B[City]
 B -->|Excess/speed| C[machine society]
 C -->|collapse| D[silence]
 D -->|Rebirth/Meditation| A
@@ -168,7 +168,7 @@ It has a structure in which the number of notes gradually increases or decreases
 example:
 "123 → 1234 → 12345 → 2345 → 345"
 
-These minute changes create the illusion of time, in which the object is moving even though it is stationary.
+These minute changes create the illusion of time, where the object is moving even though it is stationary.
 This perfectly corresponds to the sense of time in slow motion and time-lapse movies.
 
 ---

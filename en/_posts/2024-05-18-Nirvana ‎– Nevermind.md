@@ -15,7 +15,7 @@ title: Nirvana – Nevermind
 
 Nirvana is a US rock band known as a pioneer of alternative rock and grunge. "Nevermind" is Nirvana's second album and was a huge hit, reaching number one on the Billboard. The success of this album sparked the grunge/alternative rock movement in America.
 
-"Smells Like Teen Spirit" was released as the lead single for "Nevermind" and became Nirvana's signature song.
+「Smells Like Teen Spirit（スメルズ・ライク・ティーン・スピリット）」は「Nevermind」先行シングルとしてリリースされ、ニルヴァーナの代表曲となった。
 
 The song "Something In The Way" will be used in the movie "THE BATMAN" to be released in 2022.
 

@@ -10,7 +10,7 @@ tags:
 - Jazz-Funk
 - City Pop
 - 90s
-title: Stardust Revue Orchestra
+title: Stardust Revue 楽団
 ---
 
 
@@ -31,4 +31,4 @@ title: Stardust Revue Orchestra
 10. Candle On The Water
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m34893813565?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34893813565?afid=6142608987){: .button1}

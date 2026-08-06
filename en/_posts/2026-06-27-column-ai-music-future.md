@@ -14,7 +14,7 @@ title: '[Column] Will AI end music? Redefining creativity in the Suno/Udio era'
 ---
 
 
-## Will the music end? Or will the era in which humans had a monopoly on music end?
+## Will the music end? Or will the era in which humans monopolized music end?
 
 Text: mmr｜Theme: Will AI end music? Redefining creativity in the Suno/Udio era
 
@@ -150,7 +150,7 @@ In other words, the existence of a singer changes from a ""fixed body" to a ""re
 
 This change shakes the "proof of existence" in music.
 
-> When the voice becomes replicable, the question remains: who is the singer?
+> When the voice becomes replicable, the question remains: Who is the singer?
 
 ---
 
@@ -188,7 +188,7 @@ What is important here is that value is beginning to be determined not by the mu
 When AI can generate music, will the role of humans disappear?
 In fact, the opposite phenomenon is occurring.
 
-Human beings are transitioning into beings that design "directions" rather than "results."
+Humans are transitioning into beings that design "directions" rather than "results."
 
 * It"s not about what you make, it"s about what you choose
 * Design for intent, not sound
@@ -243,14 +243,14 @@ What is ending is not the music itself, but the following boundaries.
 * Original and imitation
 * Production and consumption
 
-As these boundaries become blurred, music is moving into other forms.
+As these boundaries become blurred, music is moving into a different form.
 
 It is not an "end" but a "relocation."
 
 Music doesn't go away.
 However, it is no longer the same music as before.
 
->The music never ends. However, it is no longer something that only humans have.
+>The music never ends. However, it is no longer something that only belongs to humans.
 
 
 ---

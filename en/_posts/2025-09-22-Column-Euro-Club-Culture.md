@@ -18,9 +18,9 @@ title: '[Column] Euro music and club culture: the intersection of radio and rave
 
 Text: mmr｜Genre: Music culture study｜Theme: The intersection between the Euro and clubs in the 90s
 
-Euro music, represented by ""Eurobeat" and ""Eurodance," is a genre that dominated clubs and charts in the 1990s, but it is often misunderstood as ""light music.'' However, in reality, it was a hybrid existence born at the intersection of mass media, centered on radio, and underground rave culture.
+Euro music, represented by ""Eurobeat" and ""Eurodance," is a genre that dominated clubs and charts in the 1990s, but is often misunderstood as ""light music.'' However, in reality, it was a hybrid existence born at the intersection of mass media, centered on radio, and underground rave culture.
 
-This article explores the role that Euromusic played between the club scene and popular music from two contexts: radio and rave.
+This article explores the role that Euromusic played between the club scene and popular music from the two contexts of radio and rave.
 
 ---
 
@@ -68,7 +68,7 @@ Euromusic originally inherited sounds that originated in gay clubs, such as ""It
 
 Germany: Many euro-taste tracks played on Love Parade and Mayday
 
-UK: Hardbag and Euro-House styles appeared in garage sets in the mid-90s.
+イギリス：Hardbag、Euro-House系が90年代中盤のガラージ・セットに出現
 
 Netherlands: The boundaries between Speed ​​Garage and Hard Trance are blurring
 
@@ -81,18 +81,18 @@ Artists such as Cosmic Gate and Scooter have broken through boundaries.
 ---
 
 
-### Musical Crossroads: The Technical Fusion of Euro vs. Club Tracks
+### Musical crossroads: the technical fusion of euro vs. club tracks
 
 | Elements | Euro Music | Club Culture |
 |--------|--------------------|--------------------|
 | Principal | Producer/Composer | DJ/Organizer |
-| Format | Song unit (single-oriented) | Long play, mix-oriented |
+| 形式   | 楽曲単位（シングル志向） | ロングプレイ、ミックス志向 |
 | Composition | Emphasis on melody, A melody, B melody structure | Emphasis on groove, minimal development |
-| Conductor | Radio, TV, CD | Parties, festivals, vinyl |
+| Leading wire | Radio, TV, CD | Parties, festivals, vinyl |
 | Exchange point | Collaboration on 12-inch remixes, DJ edits, dub mixes, etc. |
 
 
-Although these two cultures may seem contradictory, they were loosely connected through **mix CDs, vinyl culture, and the remix market**.
+この2つの文化は相反するように見えても、**ミックスCDやヴァイナル文化、リミックス市場**を通じて緩やかに結びついていた。  
 
 
 ---
@@ -108,16 +108,16 @@ Although it is a commercial package, the song selection has a club flair.
 
 **● Bridge from Euro to Trance**
 
-Eurotrance, a junction between Euro dance and trance, appears in the Late 90"s.
+Eurotrance, a junction between Eurodance and trance, appears in the Late 90"s.
 
-ATB, Fragma, Darude and more present a sound that weaves between pop and club
+ATB、Fragma、Darudeなどがポップとクラブの間を縫う音を提示
 
 ---
 
 
 ### Why is it being reevaluated now?
 
-In the 2020s, the 90s euro is being rediscovered on TikTok and YouTube. The reasons behind this are as follows.
+2020年代に入り、TikTokやYouTubeで再発見される90年代ユーロ。その背景には、次のような要因がある。
 
 Melodic and clear structure **matches the "instant viewing era"**
 
@@ -153,7 +153,7 @@ That may have been the most "correct" way to spend the euro in the 1990s.
 
 🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [[Column] The "sound of the euro" changes depending on the border ─ Italy, Germany, Sweden: Differences in the euro music created by the three major producing countries](https://monumental-movement.jp/Column-Euro-Sound)
+🔗 [[Column] The "sound of the euro" changes depending on the border ─ Italy, Germany, Sweden: differences in the euro music created by the three major producing countries](https://monumental-movement.jp/Column-Euro-Sound)
 
 🔗 [[Column] Eurobeat and Japan: Why are they linked together? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
 

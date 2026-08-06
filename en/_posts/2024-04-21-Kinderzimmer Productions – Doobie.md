@@ -13,7 +13,7 @@ title: Kinderzimmer Productions – Doobie
 ---
 
 
-Kinderzimmer Productions is a hip-hop band formed in the mid-1990s by Quasi Modo (Sascha Klammt, DJ) and Textor (Henrik von Holtum, MC) from Ulm, Germany.
+Kinderzimmer Productionsは、ドイツのウルム出身Quasi Modo (Sascha Klammt、DJ) と Textor (Henrik von Holtum、MC)により1990年代半ばに結成されたヒップホップバンド。
 
 #### Tracklist
 ```md

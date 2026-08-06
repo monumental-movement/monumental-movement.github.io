@@ -17,14 +17,14 @@ title: '[Column] The acoustic space called Factory: Andy Warhol and the Velvet U
 
 ## Establishment of a place called Factory
 
-Text: mmr｜Theme: Delving into the core of culture through the reality of the "Factory" space in New York in the 1960s, where art production and music intersected in an undifferentiated manner, its acoustic and social meaning, and anecdotes from the people who gathered there.
+Text: mmr | Theme: Delving into the core of culture through the reality of the "Factory" space in New York in the 1960s, where art production and music intertwined in an undifferentiated manner, its acoustic and social meaning, and anecdotes from the people who gathered there.
 
 
 ### Why was the silver room filled with sound?
 
-Factory, the production base built by Andy Warhol in the mid-1960s, was not just an atelier, but an "open place" where something was always happening.
+Factory, the production base built by Andy Warhol in the mid-1960s, was not just an atelier, but an open space where something was always happening.
 
-The silver paper pasted on the wall diffusely reflects light, making the sense of time vague. The boundaries between day and night were vague, and who was coming and going when. The production, the dialogue, the filming, the drugs, the music—it was all there at the same time.
+The silver paper pasted on the wall reflects light diffusely, obscuring the sense of time. The boundaries between day and night were vague, and who was supposed to come and go when. The production, the dialogue, the filming, the drugs, the music—it was all there at the same time.
 
 Among the testimonies from those days, there is one that says, ""The silence at the Factory causes anxiety.'' Because when the sound stopped, it meant that the event stopped.
 
@@ -59,7 +59,7 @@ Andy Warhol became involved with The Velvet Underground around 1965.
 
 This relationship was not a coincidence, but a natural intersection of underground culture in New York at the time.
 
-Lou Reed, in particular, had a literary background and treated music not as mere entertainment but as a ""record of the city.'' John Cale, on the other hand, was influenced by the avant-garde, introducing sustained tones and dissonance.
+Lou Reed in particular had a literary background and treated music not as mere entertainment but as a ""record of the city.'' John Cale, on the other hand, was influenced by the avant-garde, introducing sustained tones and dissonance.
 
 The tension between the two created the band's unique sound.
 
@@ -79,13 +79,13 @@ Exploding Plastic Inevitable (EPI), which began in 1966, was a project that brou
 
 The event featured a performance by The Velvet Underground and a video of Warhol.
 
-Records show that spectators were often confused and even angry. The reason was simple: ""I didn't know where to look.''
+Records show that spectators were often confused and even angry. The reason was simple: "I didn't know where to look."
 
 Anecdotally, one audience member experiencing EPI for the first time is said to have said, ""This feels like an accident scene, not a concert.''
 
 <div class="mermaid">
 flowchart TD
-A[music] --> B[picture]
+A[music] --> B[映像]
 B --> C[light]
 C --> D[audience]
 D --> E[immersion state]
@@ -139,13 +139,13 @@ C --> D[new perception]
 
 ### People gathered at Factory
 
-There are countless anecdotes about Factory.
+Factory has countless anecdotes.
 
 For example, it was common for visitors to directly appear in movies. There was no script, just cameras rolling.
 
 One person said, ""I didn't find out about the movie I was in until later.''
 
-Edie Sedgwick has also become a Factory icon, whose glamorous and disastrous life is the stuff of legend.
+Edie Sedgwick has also become a Factory icon, whose glamorous and destructive life is the stuff of legend.
 
 Regarding music, Lou Reed is said to often perform with his back to the audience. This was an attitude that rejected the relationship with the audience and questioned the very concept of performance.
 

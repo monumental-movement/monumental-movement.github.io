@@ -16,15 +16,15 @@ title: '[Column] The structure of contemporary techno pioneered by KNTXT: Evolut
 
 
 
-## What is KNTXT? Redefining the label starting from DJing
+## What is KNTXT: Redefining the label starting from DJing
 
 Text: mmr｜Theme: The role of labels being redefined from the techno scene and the structure of continuous evolution
 
-KNTXT, a label launched by Belgian techno DJ Charlotte de Witte in 2019, is not just a place to supply sound sources, but functions as a platform that integrates the ideas and aesthetics of contemporary techno.
+Launched in 2019 by Belgian techno DJ Charlotte de Witte, the label "KNTXT" is not just a place to supply sound sources, but functions as a platform that integrates the ideas and aesthetics of contemporary techno.
 
-The name KNTXT is a coined word that removes the vowel from the word "context," and it is intended to present the "context itself," which includes not only the music but also the ideology, culture, and spatial experience behind it.
+The name KNTXT is a coined word that removes the vowel from the word "context," and it is intended to present the "context itself," which includes not only the music, but also the ideology, culture, and spatial experience behind it.
 
-The label had a clear direction from its inception. In other words, while centering on hard, minimalist techno oriented towards peak times, we wanted to create an environment that artists could control themselves. As a result, KNTXT gained worldwide recognition in a short period of time and became one of the key centers in modern techno.
+The label had a clear direction from its inception. In other words, while focusing on hard, minimalist techno that is geared toward peak times, we want to create an environment in which artists can control themselves. As a result, KNTXT gained worldwide recognition in a short period of time and became one of the key centers in modern techno.
 
 > KNTXT is not just a label, it has been established as a new artist-centered music distribution model.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ## Establishment background: Why was it a label now?
 
-In the late 2010s, the techno scene was at a major turning point. The spread of streaming has changed the structure of music consumption, and at the same time, the role of the DJ has expanded from a ""selector" to a ""performer with a brand."
+In the late 2010s, the techno scene was at a major turning point. The spread of streaming has changed the structure of music consumption, and at the same time the role of DJs has expanded from ""selector" to ""performer with a brand."
 
 Charlotte de Witte was one of the people at the center of that change, spanning everything from mega-festivals to underground clubs. She recognized the need for a venue where she could fully reflect her musical direction, rather than relying on existing labels.
 
@@ -85,7 +85,7 @@ The artwork in particular has a minimalist yet strong visual impact, and functio
 
 ---
 
-## Event development: label spatialization
+## イベント展開：レーベルの空間化
 
 KNTXT is not only a label, but also an event brand. KNTXT events held around the world are not just club nights, but are designed as places to experience the label's worldview.
 
@@ -157,7 +157,7 @@ Among them, KNTXT is recognized as a representative of "peak time techno." This 
 
 KNTXT's success is also the result of accurately linking supply and demand in this peak time area.
 
-> KNTXT functions as a core player in modern techno.
+> KNTXT functions as an entity that plays a central role in modern techno.
 
 ---
 

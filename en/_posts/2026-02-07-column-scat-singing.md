@@ -17,7 +17,7 @@ title: '[Column] Cultural history of scat singing: The moment when the voice bec
 
 
 
-## Prologue Freedom born at the moment of abandoning meaning
+## Prologue Freedom born the moment you abandon meaning
 
 Text: mmr｜Theme: The cultural history of the birth, spread, and renewal of scat singing, where the voice becomes rhythm and melody beyond words.
 
@@ -49,9 +49,9 @@ color: #fff;
 
 Although it is difficult to pinpoint the direct origins of scat singing, its prehistory clearly exists. In musical cultures originating from Africa, the voice was not only a tool for communicating words, but also a physical act responsible for rhythm and pitch. The sense that meaningful language and meaningless vocalizations coexist in the same space was deeply rooted in call-and-response and ritual music.
 
-In the work songs and field horrors sung on plantations in the American South, elongated vowels and improvised screams formed the rhythm of labor. These vocalizations were more like movement than melodies, and the voice functioned as an extension of the body.
+In the work songs and field horrors sung on plantations in the American South, elongated vowels and improvised screams formed the rhythm of labor. These vocalizations were more like movements than melodies, and the voice functioned as an extension of the body.
 
-In early 20th century vaudeville and music halls, it was common to sing with many meaningless syllables to attract the attention of the audience. Even in the early jazz vocal recordings that remain, the habit of breaking the endings of words and elongating syllables can be seen. These were the germs of the sensibility that would later become formalized as scat.
+In early 20th century vaudeville and music halls, it was common to sing with many meaningless syllables to attract the attention of the audience. Even in early jazz vocal recordings that remain, the habit of breaking the endings of words and elongating syllables can be seen. These were the germs of the sensibility that would later become formalized as scat.
 
 > Scat was not a sudden invention, but the culmination of a long practice of treating the voice as sound.
 
@@ -63,7 +63,7 @@ In the mid-1920s, one-shot recording was the norm in recording studios in Chicag
 
 In his scat, the syllables have no meaning, but the rhythmic arrangement is very clear. The beginning of the phrase is the attack of the trumpet, and the ending naturally converges with the breath. Here the voice acts as a melodic instrument, and the absence of lyrics becomes a prerequisite rather than an omission.
 
-If you listen carefully to records from that time, you will see that a sense of distance from the band was also important. The scat doesn"t get lost in the accompaniment, but it doesn"t stand out too much either. The sense of improvising within the ensemble had already been perfected.
+If you listen carefully to records from that time, you"ll realize that the sense of distance between you and the band was also important. The scat doesn"t get lost in the accompaniment, but it doesn't stand out too much either. The sense of improvising within the ensemble had already been perfected.
 
 <div class="mermaid">
 timeline
@@ -83,7 +83,7 @@ Big band recordings in the 1930s required singers to make a strong impression in
 
 Although her scat has a clear melodic line, it always contains subtle fluctuations. It's as if the sense of time that swings back and forth, which is unique to swing, is visualized through the voice. In the recording, she seamlessly takes over the flow even when she enters immediately after an instrumental solo.
 
-If we pseudo-transcribe one chorus of typical scat improvisation, we can see its structure. It begins with a light bouncing "ba-doo-la", followed by a short breath. The next bar breaks into syllables, "bop-ba-dee-ah," perfectly in sync with the drum's ride pattern. At the end of the phrase, lower the pitch and lengthen the vowels, landing naturally on the walking bass.
+If we pseudo-transcribe one chorus of typical scat improvisation, we can see its structure. The song begins with a light bouncing "ba-doo-la", followed immediately by a short breath. The next bar breaks into syllables, "bop-ba-dee-ah," perfectly in sync with the drum's ride pattern. At the end of the phrase, lower the pitch and lengthen the vowels, landing naturally on the walking bass.
 
 What is important is the placement rather than the syllables themselves. Breaths are always placed at rhythmic breaks, not at semantic breaks in phrases. The voice does not sing a melody, but plays time.
 
@@ -127,9 +127,9 @@ On Chet Baker's recordings, the scatting is almost a whisper. There are few syll
 
 In the 1960s, studios served as laboratories for free jazz recording. Singers are freed from melodies and chord progressions and explore the possibilities of their voices themselves.
 
-One improvised take does not have a traditional chorus structure. The beginning begins with almost silent breaths, and gradually fricative sounds such as "ha" and "uh" are mixed in. There is no fixed tempo, and the voices appear intermittently in response to the flutter of the saxophone or the pounding of the drums.
+One improvised take does not have a traditional chorus structure. The beginning begins with almost silent breaths, and gradually fricative sounds such as "ha" and "uh" are mixed in. There is no set tempo, and the voices appear intermittently in response to the flutter of the saxophone or the pounding of the drums.
 
-Scat here is not a series of syllables, but a series of vocal acts themselves. The pitch is undefined, the vowels are distorted, and the breath invades the inside of the phrase. Through the recording, the voice emerges as a third entity that is neither a melodic instrument nor a percussion instrument.
+Scat here is not a series of syllables, but a series of vocal acts themselves. The pitch is undefined, the vowels are distorted, and the breath invades the inside of the phrase. Through the recording, the voice stands up as a third entity, neither a melodic instrument nor a percussion instrument.
 
 > By being deconstructed, Scat rediscovered the primal power of the voice.
 

@@ -11,8 +11,8 @@ tags:
 - Funk
 - Neo Soul
 title: '[Column] The 100 most influential albums in music history: A new music history
-  reconstructed solely based on the degree of influence on modern music (Part 6, 51-60:
-  Innovation in black music and the origins of modern R&B)'
+  reconstructed solely based on its influence on modern music (Part 6, 51-60: Innovation
+  in black music and the origins of modern R&B)'
 ---
 
 
@@ -58,7 +58,7 @@ A[Melody-centered]
 B[soul]
 C[funk]
 D[Groove-centered]
-E[contemporary music]
+E[modern music]
 
 A --> B --> C --> D --> E
 
@@ -165,7 +165,7 @@ color: #fff;
 
 ## Songs in the Key of Life
 
-### **"One of the greatest masterpieces of the 20th century that elevated soul music to 'art'"**
+### **""One of the greatest masterpieces of the 20th century that elevated soul music to 'art'''**
 
 Songs in the Key of Life, released on September 28, 1976, transcends the boundaries of the soul music genre and is one of the most representative albums of 20th century popular music as a whole.
 
@@ -397,7 +397,7 @@ Of course, there were works that dealt with social issues, but they were limited
 
 However, ""Innervisions'' depicts social realities such as poverty, drug addiction, racism, injustice, faith, and hope throughout one album.
 
-This is not just a "social album."
+This is not just a "social album".
 
 This was the decisive moment when black music evolved into an art form that reflected society itself.
 
@@ -407,9 +407,9 @@ This was the decisive moment when black music evolved into an art form that refl
 
 Following the huge success of 1972's Talking Book, Stevie Wonder released Innervisions the following year.
 
-During this period he was at his most fulfilling both musically and spiritually.
+During this period, he was at his most fulfilling both musically and spiritually.
 
-Instead of pursuing commercial success, they had the freedom to pursue the world they truly wanted to express.
+Instead of chasing commercial success, they had the freedom to pursue the world they truly wanted to express.
 
 The entire album is an extremely honest depiction of what one artist is feeling in this society right now.
 
@@ -477,7 +477,7 @@ The album title ""Innervisions" means ""inner perspective" or ""vision in the he
 
 In this work, Stevie is not only looking at society.
 
-It is a dialogue between human desires, beliefs, fears, hopes, and self.
+It is a dialogue between human desire, faith, fear, hope, and self.
 
 ""Higher Ground" focuses on spiritual growth, and ""He's Mistra Know-It-All" offers a sharp critique of those in power.
 
@@ -571,7 +571,7 @@ A --> F
 
 Innervisions is not just a masterpiece of "social soul."
 
-This work fused black music with ideology and artistry, and presented a new model for artists to face society as individual expressors.
+This work fused black music with ideology and artistry, presenting a new model for artists to face society as individual expressors.
 
 At the same time, he utilized the synthesizer as an emotionally rich instrument and achieved a high level of self-produced work, which has had a great influence on subsequent music production.
 
@@ -587,7 +587,7 @@ Many say that it is comparable to ""Songs in the Key of Life'' in terms of compl
 
 However, in this ranking, we place emphasis on the fact that ""Songs in the Key of Life"' is the culmination of Stevie Wonder"s creation and a work that integrates black music as a whole, and placed it one place below it at number 52.
 
-That said, if we look only at the history of black music, both works can be called twin masterpieces.
+That said, if we look only at the history of black music, these two works can be called twin masterpieces.
 
 > **"'Innervisions' fuses sociality, spirituality, synthesizers, and self-production, pushing black music into the realm of thought and art. It ranks 52nd in this ranking as the origin of creativity that extends to modern R&B and hip-hop."**
 
@@ -688,7 +688,7 @@ It was the moment when jazz was repositioned from elite music to popular music.
 
 ---
 
-## Impact on subsequent
+## Effect on subsequent
 
 The influence of Head Hunters is far-reaching.
 
@@ -729,7 +729,7 @@ Head Hunters is a historic work that redefined jazz, connected funk and electron
 
 However, in this ranking, works that directly changed the structure of a broader range of popular music are ranked higher, so it was ranked 53rd.
 
-Still, it remains "one of the biggest turning points" in jazz history, and continues to underlie modern music.
+Still, the work remains "one of the biggest turning points" in jazz history, and continues to underlie modern music.
 
 > **"'Head Hunters' connects jazz to the club and establishes a new musical language centered on repetition and groove. As the source of hip-hop and electronic music, it ranks No. 53 in this ranking."**
 
@@ -771,7 +771,7 @@ He doesn't stop with criticism, but visualizes the structure itself as music.
 
 ## Reinventing funk and soul
 
-The sound of ""Super Fly'' is distinctly different from traditional soul music.
+The sound of ""Super Fly'' is distinctly different from traditional soul.
 
 The characteristic is that
 
@@ -797,7 +797,7 @@ These films featured the black community and depicted urban realities, violence,
 
 ""Super Fly'' is also in this vein, but there is a crucial difference.
 
-While movies tell a story visually, this album **depicts the same social structure only through sound**.
+While movies tell a story visually, this album depicts the same social structure only through sound.
 
 In other words, this work was not a supplement to the movie, but ""another story'' parallel to the movie.
 
@@ -819,7 +819,7 @@ This had a great influence on later street depictions of hip-hop and the express
 
 Curtis Mayfield's innovation lies in the fact that he turned music into an observation rather than an escape.
 
-Until then, in popular music, one of the values ​​was to distance yourself from reality.
+Up until then, popular music had valued detachment from reality.
 
 However, ""Super Fly'' puts reality itself at the center of the music.
 
@@ -827,7 +827,7 @@ As a result, soul music transcends entertainment and takes on the character of s
 
 ---
 
-## Impact on subsequent
+## Effect on subsequent
 
 ""Super Fly'' had a direct influence on later black music and hip-hop.
 
@@ -872,7 +872,7 @@ Nevertheless, this work remains an important reference point today as ""a defini
 
 ### **"The moment when the festive funk collapses inward"**
 
-There's a Riot Goin' On, released on November 1, 1971, occupies a unique place in the history of black music.
+Released on November 1, 1971, There's a Riot Goin' On occupies a unique place in the history of black music.
 
 Until then, Sly and the Family Stone had presented a celebratory, open-minded funk, as exemplified by ""Dance to the Music" and ""Everyday People."
 
@@ -973,7 +973,7 @@ B --> E
 
 ## Turning point in 1970s black music
 
-There's a Riot Goin' On represents a shift from the optimistic black music of the early 1970s to more realistic, introspective music.
+There's a Riot Goin' On represents a shift from the optimistic black music of the early 1970s to something more realistic and introspective.
 
 If What's Going On from the same period is ""introspection looking at society," this work is ""introspection as the collapse of the individual."
 
@@ -981,7 +981,7 @@ These two directions formed the two major genealogies of black music that follow
 
 ---
 
-## Impact on subsequent
+## Effect on subsequent
 
 The influence of this work is very wide-ranging.
 
@@ -989,7 +989,7 @@ The influence of this work is very wide-ranging.
 * D'Angelo (Voodoo groove)
 * J Dilla (broken beat feeling)
 * Portishead (decadent sound)
-* Massive Attack (trip hop)
+*Massive Attack (trip hop)
 
 It had a strong influence on.
 
@@ -1013,7 +1013,7 @@ In other words, this work did not end the genre.
 
 ""There's a Riot Goin' On'' is an extremely important work that turned funk inward and transformed the collapse of the groove into musical expression.
 
-However, this ranking ranks works that more directly institutionalize new genres at the top, so it was ranked 55th.
+However, this ranking places works that more directly institutionalize new genres at the top, so it was ranked 55th.
 
 Nevertheless, this work continues to have an extremely large influence as a ""quietly disintegrating revolution'' in the history of black music.
 
@@ -1041,7 +1041,7 @@ At the center of this work is George Clinton.
 
 He's not just a bandleader.
 
-He is a "myth creator" who created the fictional universe world called P-Funk.
+He is a "myth creator" who created the fictional cosmic world called P-Funk.
 
 In that world,
 
@@ -1117,9 +1117,9 @@ The importance of this work goes beyond mere musical innovation.
 
 In America in the 1970s, black culture remained socially repressed.
 
-In this context, P-Funk did not depict the constraints of reality as they were, but instead expressed liberation by creating an "another universe" outside of them.
+In doing so, P-Funk did not depict the constraints of reality as they were, but instead expressed liberation by creating an "another universe" outside of them.
 
-This is a different method than directly conveying a political message, and is a more fundamental way of ""liberation through the imagination.''
+This is a different method from directly conveying a political message, and is a more fundamental ""liberation through the imagination.''
 
 ---
 
@@ -1253,13 +1253,13 @@ In particular, it is positioned as an extension of electric guitar expression si
 
 But it's not just an imitation.
 
-It is unique in that it expresses emotions not through heavy distortion, but through delicacy and emptiness.
+It is unique in that it does not use heavy distortion, but rather expresses emotions through delicacy and emptiness.
 
-This "quiet extreme" is also connected to the later post-rock and shoegaze sensibilities.
+This "quiet extreme" also parallels the later post-rock and shoegaze sensibilities.
 
 ---
 
-## Impact on subsequent
+## Effect on subsequent
 
 Although Maggot Brain is not an immediate hit, its musical influence is huge.
 
@@ -1289,7 +1289,7 @@ This paradox is the essence of this work.
 
 ""Maggot Brain'' is a work that collapses the concept of funk and presents the extremes of music as an emotional expression.
 
-However, in this ranking, works that redefined the genre structure itself are placed at the top, so it was ranked 57th.
+However, in this ranking, works that redefine the genre structure are placed at the top, so it was ranked 57th.
 
 Nevertheless, this work stands alone as the "culmination of internalization" in the history of black music.
 
@@ -1374,7 +1374,7 @@ have a strong influence on
 
 ## Redefining physicality as "Untitled (How Does It Feel)"
 
-The album's signature song, "Untitled (How Does It Feel)," has an extremely minimal structure.
+The album's signature song, ""Untitled (How Does It Feel),'' has an extremely minimal structure.
 
 Although the rhythm and chords are simple, the space has an unusual density.
 
@@ -1428,9 +1428,9 @@ It becomes the basis for etc.
 
 ---
 
-## Impact on subsequent
+## Effect on subsequent
 
-Beyond its commercial success, Voodoo has had an enormous musical impact.
+Beyond its commercial success, ""Voodoo'' has been extremely influential musically.
 
 Representative artists who have been influenced include:
 
@@ -1452,7 +1452,7 @@ The ""spatial R&B" and ""delayed grooves" common to their music are an extension
 
 There are no flashy developments or excessive embellishments here.
 
-There is only **deep layers of time and groove**.
+There is only **deeper layers of time and groove**.
 
 With this work, R&B changed from ""singing music" to ""sinking music."
 
@@ -1464,7 +1464,7 @@ With this work, R&B changed from ""singing music" to ""sinking music."
 
 However, in this ranking, historical turning points that created or reorganized the genre itself are placed at the top, so it was ranked 58th.
 
-Nevertheless, this work occupies an extremely important position as the completed form of "time redesign" in black music.
+Nevertheless, this work occupies an extremely important position as the completion of the "redesign of time" in black music.
 
 > **"'Voodoo" changed R&B from groove music to "time music'. As the complete form of neo-soul, it is ranked 58th in this ranking."**
 
@@ -1482,13 +1482,13 @@ Erykah Badu further deepens her position as a ""contemporary soul storyteller'' 
 
 The focus here is not on the outside world.
 
-**"Politics within the universe of oneself"**.
+**""Politics within the universe of oneself''**.
 
 ---
 
 ## Inheritance from Voodoo's "silence"
 
-""Voodoo", which was featured in the previous work, presented a new groove concept of ""slowness," ""silence," and ""spatiality."
+""Voodoo", which was featured in the previous work, presented a new groove concept of ""slowness", ""silence", and ""spatiality".
 
 "Mama"s Gun" is an extension of that, but goes in a different direction.
 
@@ -1523,7 +1523,7 @@ Their signature song "Didn"t Cha Know?" focuses on "fluctuation" rather than a c
 
 The rhythm does not progress, but drifts.
 
-Codes don"t resolve, emotions don"t stick.
+Codes don"t resolve, emotions don"t stay fixed.
 
 This instability creates a ""space for interpretation'' for the listener.
 
@@ -1631,7 +1631,7 @@ Neo-soul, represented by ""Voodoo" and ""Mama's Gun," perfected its aesthetic in
 * Introspective lyrics
 * Vivid performance
 
-However, after that, neo-soul gradually lost its definition as a "genre".
+However, after that, neo-soul gradually lost its definition as a genre.
 
 And what appeared after that disappearance was ""Channel Orange.''
 
@@ -1673,7 +1673,7 @@ This "unfinishedness" has become the basic structure of R&B since the 2010s.
 
 ## Sound as memory
 
-""Channel Orange'' does not depict urban scenes or personal experiences directly, but presents them as fragments of memory.
+""Channel Orange'' does not directly depict urban scenes or personal experiences, but rather presents them as fragments of memory.
 
 * Night drive
 *Hotel room

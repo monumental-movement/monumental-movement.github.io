@@ -26,7 +26,7 @@ In the 1970s, the Dutch government adopted a pragmatic policy toward cannabis, i
 
 The first store, Mellow Yellow, opened in 1972 and is said to have operated inside a bakery. While ostensibly serving coffee, transactions were quietly going on inside. This "double structure" became the prototype for the space design of the coffee shop. ([Coffeeshop Relax][1])
 
-Then, in 1975, the future iconic "The Bulldog" appeared. This store has established a style of openly selling over the counter, rather than the traditional "hidden transactions." Despite being arrested by the police, he continued to operate his business, and his attitude has become something of an urban legend. It is said that products were hidden in hidden compartments inside the store, and that evidence was immediately destroyed in the event of an arrest. ([The Bulldog Seeds][2])
+Then, in 1975, the iconic "The Bulldog" appeared. This store has established a style of openly selling over the counter, rather than the traditional "hidden transactions." Despite being arrested by the police, he continued to operate his business, and his attitude has become something of an urban legend. It is said that products were hidden in hidden storage areas inside the store, and that evidence was immediately destroyed in the event of an arrest. ([The Bulldog Seeds][2])
 
 What was important in this environment was "sound." The music continued to flow at a constant tempo, enveloping the guests who stayed for a long time. Not too noisy, but not silent either. This delicate balance naturally selects genres such as reggae and dub.
 
@@ -56,7 +56,7 @@ color: #fff;
 
 From the late 1980s to the 1990s, Amsterdam rapidly developed as Europe's electronic music capital. Former churches and cultural facilities such as clubs Paradiso and Melkweg became music hubs, and techno and house music spread.
 
-During this period, coffee shops functioned as a "margin" of club culture. It became a part of the rhythm of the city, a place to visit after dancing the night away, or a place to calm down before dancing.
+During this period, coffee shops functioned as a "margin" of club culture. It became integrated into the rhythm of the city, a place to visit after dancing the night away, or a place to calm down before dancing.
 
 In fact, according to many travelers' testimonies, the general flow of travel was ""club -> coffee shop -> hotel.'' In the recollections of people who visited in the 1990s, they were left with a strong impression of an atmosphere where they could sink into the sofa and listen to music, and feel comfortable even if the conversation stopped. ([Reddit][3])
 
@@ -82,7 +82,7 @@ This diversity is no coincidence. A coffee shop is a ""mirror of the city'' that
 
 As a result, genres are not fixed, but rather change flexibly. Techno becomes downtempo and hip-hop becomes lounge. Here, music is not a pure genre, but is reconstituted as a form adapted to the space.
 
-> The coffee shop has become a device for dismantling musical genres and re-editing them space by space.
+> The coffee shop has become a device for dismantling music genres and re-editing them space by space.
 
 ---
 

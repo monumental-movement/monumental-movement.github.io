@@ -16,7 +16,7 @@ title: '[Column] Detailed history of melodic hardcore in Japan and America'
 
 ## 1. Introduction: What is Melocore?
 
-Text: mmr｜Theme: About Japanese and American melocore, which is supported worldwide for its "heat" and "importance of melody"
+Text: mmr｜Theme: About Japanese and American melocore, which are supported worldwide for their "heat" and "importance of melody"
 
 
 Melodic hardcore is a subgenre of hardcore punk that developed in the United States in the late 1980s.
@@ -114,7 +114,7 @@ flowchart TD
 - Representative songs: "Marry Me", "My Favorite Song"
 
 #### BRAHMAN (formed in 1995)
-- Intermediate existence between hardcore and merocore
+- Intermediate between hardcore and merocore
 - Passion and philosophical lyrics unique to Japan
 - Representative songs: "The Silent Cry", "A Man of Spirit"
 
@@ -187,7 +187,7 @@ flowchart TD
 
 - Fusion with pop punk
 - Screamo melocore (A Day to Remember, etc.)
-- In Japan, emphasis is placed on melody while retaining youthful/daily lyrics.
+- In Japan, emphasis is placed on melody while maintaining youthful/everyday lyrics.
 - In America, political messages and powerful live performances are the focus
 
 ---
@@ -197,7 +197,7 @@ flowchart TD
 - Penetration into youth culture (fashion/lifestyle)
 - Inheriting the DIY spirit and live house culture
 - Community building through domestic and international festivals (Punk Spring, Warped Tour, etc.)
-- Serves as a model for music education and band activities
+- Serves as a role model for music education and band activities
 
 ---
 

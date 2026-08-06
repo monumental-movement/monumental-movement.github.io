@@ -15,7 +15,7 @@ title: Latex – Encore
 
 Michael Borrmann, also known as Latex, is a producer from Germany. He also works under the name Steril and has released on various labels including DJ Hell's label International Deejay Gigolo Records and Lasergun.
 
-"Encore" is an Electro, Tech House track released in 2001 by Frank Müller's Berlin-based techno and electro label Müller Records.
+"Encore" is an Electro, Tech House track released in 2001 on Müller Records, a Berlin-based techno and electro label run by Frank Müller.
 
 Mastering was done by engineer Christoph Grote-Beverborg of Dubplates & Mastering, aka CGB.
 

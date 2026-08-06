@@ -26,7 +26,7 @@ People without newspapers or television can share information and exchange messa
 **A sound system is an expression device that integrates music, politics, and community**.
 Eventually, the waves would cross the ocean and shake London, New York, and even Tokyo.
 
-This column introduces the sound system culture that was born on the streets of Jamaica.
+In this column, we will introduce the sound system culture that was born on the streets of Jamaica.
 How did dancehall evolve into a worldwide musical phenomenon?
 We will follow it from the perspectives of history, ideology, technology, and society.
 
@@ -50,14 +50,14 @@ color: #fff;
 
 ### ▪ The moment street parties become "culture"
 
-In post-war Jamaica, record store owners and young music lovers loaded up trucks, set up speakers, and started playing music all night. This is the origin of the "sound system".
+In postwar Jamaica, record store owners and young music lovers loaded up trucks, set up speakers, and started playing music all night. This is the origin of the "sound system".
 
 A typical initial system is:
 
 | Operator | Name | Activity period | Characteristics |
 |------|------|------------|------|
 | Tom the Great Sebastian | 1950s | Mainly jazz and R&B. The earliest "mobile" systems |
-| Duke Reid | Duke Reid the Trojan | 1950s-60s | A famous gun-wielding operator who graduated from the police force. Later founded Treasure Isle |
+| Duke Reid | Duke Reid the Trojan | 1950s-60s | A famous police officer with a gun. Later founded Treasure Isle |
 | Clement "Coxsone" Dodd | Sir Coxsone Downbeat | 1950s~ | Former Studio One. Leading the ska era |
 
 ### ▪ Local economy and community
@@ -78,7 +78,7 @@ King Tubby, Lee Perry, Errol Thompson and others used the mixing table like a mu
 
 ### ▪ Speaker bass philosophy
 
-The "bass" of the sound system had a religious sound.
+The "bass" of the sound system had a religious overtone.
 Connected with the Rastafarian spirit, they express their view of the universe as ""low tone = earth" and ""treble tone = heaven".
 This idea was later inherited by **UK dub** (Jah Shaka, Aba Shanti-I) and **soundclash culture**.
 
@@ -99,7 +99,7 @@ This song, which uses Casio MT-40's rhythm presets, is said to be the first comp
 
 ### ▪ MC (Deejay) takes center stage
 
-Toasting culture approached DJ rap and influenced the birth of hip-hop.
+Toasting (narrative) culture approached DJ rap and influenced the birth of hip-hop.
 It is a well-known story that Jamaican Kool Herc brought a sound system to New York's Bronx and started the breakbeat culture.
 
 ---
@@ -109,7 +109,7 @@ It is a well-known story that Jamaican Kool Herc brought a sound system to New Y
 ### ▪ Clash = Battle of Sound
 
 Sound Clash is an event where multiple sound systems compete against each other.
-The difference between winning and losing is how many **Original Dub Plate** (special recordings) you have and how much you can excite the audience.
+The difference between winning and losing is how many **original dub plates** (special recordings) you have and how much you can excite the audience.
 
 Representative sounds:
 - **Stone Love Movement** (Kingston)
@@ -160,7 +160,7 @@ At the root of this is the sound system philosophy of ""producing our own sounds
 
 ---
 
-## Timeline: The evolution of sound systems and dancehall
+## Timeline: Evolution of Sound Systems and Dancehall
 
 | Years | Events | Key Persons |
 |------|----------|----------------|
@@ -255,7 +255,7 @@ graph TD
 </div>
 
 This diagram shows the network of independent sound system cultures formed by region.
-The following characteristics are clear: ""Yokohama = internationally competitive oriented", ""Osaka = direct connection to the streets", and ""Okinawa = the connection point between the Caribbean and Asia''.
+The following characteristics are clear: ""Yokohama = internationally competitive oriented", ""Osaka = direct connection to the streets", and ""Okinawa = connection point between the Caribbean and Asia''.
 
 ---
 

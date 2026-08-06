@@ -91,7 +91,7 @@ B2. Everyday Balloon
 ### Bomb The Bass – Say A Little Prayer
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
-Acid x dub x pop. An art piece from 1988 that transcends genres.
+Acid x dub x pop. An 1988 art piece that transcends genre boundaries.
 
 #### Tracklist
 ```md

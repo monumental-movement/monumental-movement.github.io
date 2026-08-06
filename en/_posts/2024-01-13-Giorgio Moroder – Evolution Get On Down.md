@@ -25,7 +25,7 @@ Giorgio Moroder (real name: Giovanni Giorgio Moroder) was born on April 26, 1940
 
 A musician from Italy who is a composer, arranger, producer, performer, and DJ. He has been hailed as one of the most innovative and influential figures in electronic and disco music.
 
-Founding the Oasis label and Musicland Studios, he created the Munich sound (often confused with later Italo disco) in the 1970s, producing iconic work with Donna Summer and Roberta Kelly.
+Founding the Oasis label and Musicland Studios, he created the Munich sound (often confused with later Italo disco) in the 1970s, creating iconic work with Donna Summer and Roberta Kelly.
 
 
 #### Tracklist

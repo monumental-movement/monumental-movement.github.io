@@ -96,7 +96,7 @@ During this period, Harakami"s collaboration with Ryuichi Sakamoto further stren
 
 ### "unrest" (2011)
 A work published in his later years.
-There's something ephemeral about it, and it gives you the feeling of **the serenity of accepting the end**.
+There's something ephemeral about it, and it gives you the feeling of **the tranquility of accepting the end**.
 It"s like autumn in Kyoto, and it"s a sadness that makes you laugh while staring at the falling leaves.
 
 ---
@@ -110,16 +110,16 @@ Ryuichi Sakamoto is said to have described him as "the quietest revolutionary."
 He was a rare person who melted the boundaries between electronic and acoustic sounds and achieved both ""gentleness" and ""structural beauty".
 
 Harakami's interaction with Kazumi Nikaido also shows her dedication to "everyday music."
-His sound was not esoteric experimental music, but the very rhythm of life.
+His sound was not esoteric experimental music, but the rhythm of life itself.
 
 ---
 
-## Chapter 5: From local to global - Genealogy of Kyoto electronic sounds
+## Chapter 5: From local to global - Genealogy of electronic sounds from Kyoto
 
 Rei Harakami's existence had a great influence on later Japanese local electronica.
 Following in his footsteps, artists such as **aus, agraph, Ametsub, and no.9** emerged from the Kyoto/Kansai area.
 
-The sounds all have in common, depicting the relationship between the city and nature.
+The sounds have one thing in common: they depict the relationship between the city and nature.
 The "sound of Kyoto's silence" created by Harakami occupies a unique position in the global context.
 
 ---
@@ -142,7 +142,7 @@ Rei Harakami's music embodied the harmony between landscape and humans, nature a
 There is a **quiet sense of happiness** that is neither ""convenient" nor ""exciting."
 
 The sound he left behind is as soft as the sunset in Kyoto, and will never fade.
-If you listen closely, you can still hear that sound floating somewhere in town.
+If you listen carefully, you can still hear that sound floating somewhere in town.
 
 > There is sound in the silence. Kyoto is in the sound.
 

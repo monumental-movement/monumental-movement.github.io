@@ -17,7 +17,7 @@ title: '[Column] The Afro-Cuban skeleton - The genealogy of the heartbeat carved
 ## Introduction: Another history of American music told by taiko drums
 
 
-Text: mmr｜Theme: Based on Sabu Martinez and Arsenio Rodríguez
+Text: mmr｜Theme: Centered around Sabu Martinez and Arsenio Rodríguez
 Tracing the turning points of Latin music history longitudinally
 
 In the 1950s, a rhythm exchanged at the back door of a jazz club shook the very fabric of American music.
@@ -45,13 +45,13 @@ color: #fff;
 ## **Chapter 1: The birth of Afro-Cuban - From the black earth and the Caribbean Sea**
 
 At the end of the 19th century, Cuba was coming to the end of its history as a Spanish colony.
-However, behind the hustle and bustle of the War of Independence, another revolution was underway - that of music.
+だが、独立戦争の喧騒の裏で、もうひとつの革命が進行していた――それが**音楽**である。
 Yoruba and Congolese ritual rhythms intersect with Spanish melodies, creating songs such as "son," "rumba," and "abakua."
 This created a multi-layered rhythmic structure.
 
 * **Religious elements: ** Ritual rhythms such as Santería's ""bata drum" and Congolese ""makuta" have become urban music.
 * **Social factors:** After the abolition of slavery, an Afro-American community was formed in Havana, and the professionalization of black musicians progressed.
-* **Technical elements:** The standardization of the tres (three-string guitar) and congas made the later montuno structure possible.
+* **Technical elements:** The standardization of the tres (three-string guitar) and conga made the later montuno structure possible.
 
 It is against this background that a blind revolutionary named **Arsenio Rodríguez** (1911–1970) emerges.
 
@@ -71,7 +71,7 @@ In exchange for this sense, he gained the supernatural ability to hear the "inne
 - 3. Convert **call and response** to jazz interplay.
 - 4. Clarification of the "tumbao" concept by **strengthening the baseline**.
 
-This led to his band becoming a pioneer as an "Afro-Cuban ensemble."
+As a result, his band became a pioneer as an "Afro-Cuban ensemble."
 It also influenced later Tito Puente, Machito, and Thelonious Monk.
 
 > "If jazz seeks reason, Son awakens memory."
@@ -170,7 +170,7 @@ For example, **Miguel Zenón**, **Daymé Arocena**, **Makaya McCraven**, etc.
 Translating the genes of Sabu and Arsenio into modern sound design.
 
 In particular, Makaya McCraven's "organic beat collage"
-It can be said that this is a continuation of Sabu's ""hand-editing'' feeling.
+It can be said that this is a continuation of Sabu's sense of "editing by hand".
 
 In addition, Arsenio's "tumbao structure" is
 It is also the prototype of "rhythmic symmetry" in hip-hop loop construction.

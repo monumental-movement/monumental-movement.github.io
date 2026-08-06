@@ -19,7 +19,7 @@ Track AI
 
 Synth: Modular Expansion - Cubes
 Drum Break: The Winstons - Amen, Brother.
-Vocal/Scratch: Jungle Brothers - Jimmy's Bonus Beat.
+ヴォーカル/スクラッチ：Jungle Brothers - Jimmy's Bonus Beat.
 Vocal: Cheryl Lynn - Encore.
 
 Track Aii

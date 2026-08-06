@@ -15,7 +15,7 @@ title: Mooncoin – Mooncoin
 ---
 
 
-Mooncoin is a duo formed by Mickie Zekley and Michael Hubbert, whose style is a combination of Irish music, Celtic music, and British music.
+Mooncoin is a duo formed by Mickie Zekley and Michael Hubbert, whose style is a combination of Irish, Celtic, and British music.
 
 "Mooncoin" is a rare sound source released in 1982 by the US label Kicking Mule Records.
 

@@ -29,7 +29,7 @@ His career has been built not on a sense of unity but on transversality. Rock, e
 
 Born in Chicago, USA in 1969, Jim O'Rourke had a strong interest in experimental music from a young age. He was particularly interested in free improvisation and 20th century contemporary music, and had a different sensibility than just a rock boy.
 
-His influence is extremely wide-ranging.
+His areas of influence are extremely wide.
 
 <style type="text/css">
 
@@ -63,7 +63,7 @@ color: #fff;
 
 <div class="mermaid">
 graph TD
-A[contemporary music] --> D[Jim O'Rourke]
+A[modern music] --> D[Jim O'Rourke]
 B[noise] --> D
 C[fork] --> D
 E[improvised music] --> D
@@ -90,7 +90,7 @@ Music history itself was being rearranged.
 
 Chicago in the 1990s was a pivotal point in the history of American experimental music.
 
-A unique cultural zone was forming, different from New York's no-wave and West Coast noise. There, rock and contemporary music, improvisation, and electronic sound mixed naturally.
+A unique cultural zone was forming, different from New York no-wave and West Coast noise. There, rock and contemporary music, improvisation, and electronic sound mixed naturally.
 
 Jim O'Rourke was at the center of it all.
 
@@ -118,7 +118,7 @@ timeline
     1997 : Drag City作品群で注目
 </div>
 
-At the time, Jim O'Rourke was more than just an "avant-garde musician."
+Back then, Jim O'Rourke was more than just an "avant-garde musician."
 
 He also had a very good pop sensibility.
 
@@ -169,7 +169,7 @@ Traditionally, avant-garde music has tended to be associated with esotericism. H
 
 ""Bad Timing'' inherits the flow of American primitive guitar, but develops like film music.
 
-In ""Eureka,'' he used strings and woodwind instruments to create an acoustic world that could be called the pinnacle of chamber music pop.
+In ""Eureka,'' he used strings and woodwind instruments to create an acoustic world that could be considered the pinnacle of chamber music pop.
 
 ""Insignificance'' has a stronger rock tone and is highly popular as his song work.
 
@@ -247,7 +247,7 @@ C[space design] --> D
 E[melody] --> D
 </div>
 
-It is said that Sonic Youth, when Jim O'Rourke joined, not only achieved "destruction" but also gained "white space".
+Sonic Youth, when Jim O'Rourke joined the band, is said to have achieved not only "destruction" but also "white space."
 
 He was also the acoustic translator between members.
 

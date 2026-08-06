@@ -46,7 +46,7 @@ Those **10 seconds of the loop** completely rewrote my auditory world.
 
 At that time, I only listened to music as an expression of emotion with lyrics.
 But that rhythmic repetition taught me the pleasure of ""structure over meaning''.
-It was at that moment that I realized that sound can be a ""space" rather than a ""message".
+It was at that moment that I realized that sound could be a ""space" rather than a ""message".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yYNEKwgkKE4?si=o3SjQ8uD3GeOIaPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -102,7 +102,7 @@ Phrase changes, bass omissions, snare repetitions——
 Each moment recalibrates the breathing and energy of the floor.
 
 To use the ""flow theory'' proposed by psychologist Mihaly Csikszentmihalyi,
-This 10-second sonic immersion is what modern-day meditation is all about.
+This 10-second sonic immersion is what modern ""meditation'' is all about.
 As people dance, they dissolve themselves in the waves of sound.
 
 ---
@@ -120,7 +120,7 @@ Rather, they are being tested on their sensitivity to finding just 10 seconds of
 
 ## Chapter 6: Why do we never forget that sound?
 
-A 10-second sound is tied to the physical sensation of that moment and is memorized.
+The 10 seconds of sound is tied to the physical sensations of that moment and is memorized.
 The smell of rain, the light in the room, the rhythm of your heartbeat.
 Therefore, even if time passes, just listening to the sound brings back the ""entire experience'' of the past.
 

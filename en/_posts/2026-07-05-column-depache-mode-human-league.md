@@ -17,11 +17,11 @@ title: '[Column] Two evolutionary lines of synth pop: The divergence and integra
 
 ## Introduction: How electronic music redefines "humanity"
 
-Text: mmr｜Theme: Comparing two groups that represent British synth pop in the 1980s and deciphering their differences and commonalities from multiple perspectives, including musicality, philosophy, social background, commerciality, and influence on contemporary music.
+Text: mmr｜Theme: Comparing two groups representing British synth pop in the 1980s and deciphering their differences and commonalities from multiple perspectives, including musicality, philosophy, social background, commerciality, and influence on contemporary music.
 
 In the early 1980s, synthesizers became more than just musical instruments. It's not an extension of rock or an embellishment of disco. It appears as a presence that changes the design philosophy of music itself.
 
-Depeche Mode and the Human League played a key role in this. Although both belong to the same British synth pop trend, the direction of their evolution is vastly different. One side has progressed to ""electronic music that sinks into the dark side of emotion," and the other has progressed to ""the democratization and mechanization of pop."
+Depeche Mode and the Human League played a key role in this. Although both belong to the same British synth pop trend, the direction of their evolution is vastly different. One was ""electronic music that sinks into the dark side of emotions," and the other was ""the democratization and mechanization of pop."
 
 This difference is not just a difference in musicality, but also a turning point in the era of the 1980s itself.
 
@@ -75,7 +75,7 @@ The essence of the Human League was to "humanize machines." Rather than making e
 
 Depeche Mode were formed in Basildon in 1980. In the early days, they belonged to the upbeat synth pop trend, but their essence gradually moved in a different direction.
 
-Of particular importance are Martin Gore"s songwriting and Dave Garn"s vocals.
+Particularly important are Martin Gore"s songwriting and Dave Garn"s vocals.
 
 Their music gradually became less and less ""pop.'' What emerged instead were themes of desire, dependence, power, and religiosity.
 
@@ -94,7 +94,7 @@ E --> F["Global Impact"]
 
 By stepping outside of pop, Depeche Mode paradoxically achieved huge popularity.
 
-> Depeche Mode achieved deeper emotions by reducing emotion
+> Depeche Modeは感情を削ることで、より深い感情に到達した
 
 ---
 
@@ -129,9 +129,9 @@ Both were synth pop, but the music was heading in opposite directions.
 
 ---
 
-## Chapter 4: 1980s British context: between industrial and post-industrial
+## Chapter 4: The British context of the 1980s - between industrial and post-industrial
 
-To understand these two bands, the social background of Britain in the 1980s is important.
+To understand these two bands, the social background of 1980s Britain is important.
 
 Cities such as Sheffield and Basildon were in the process of transitioning from centers of industrialization to post-industrial societies.
 
@@ -141,7 +141,7 @@ In the early days of Human League, they directly translated the coldness of indu
 
 Depeche Mode did the opposite, digging deeper into the emptiness of industrial society and connecting with spiritual themes.
 
-In other words, they both viewed the same society but interpreted it in different ways.
+In other words, they both looked at the same society but interpreted it in different ways.
 
 > British synthpop in the 1980s was a device for translating social changes into sound
 
@@ -207,7 +207,7 @@ What is important is that we have arrived at different destinations from the sam
 
 These two lineages are still alive in modern electronic music and indie pop.
 
-Human League's influence remains in the clarity of dance music and electropop. The structure is simple, with an emphasis on immediate pleasure.
+Human Leagueの影響は、ダンスミュージックやエレクトロポップの明快さに残っている。構造はシンプルであり、即時的な快楽を重視する方向性だ。
 
 Depeche Mode's influence is strong in their reinterpretations of darkwave, industrial, and post-punk. Music functions as a device for dealing with deep emotions.
 

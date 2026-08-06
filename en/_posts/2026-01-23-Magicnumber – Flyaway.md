@@ -18,7 +18,7 @@ Magicnumber is the alias of British musician/composer/producer/bassist Ross Hill
 
 "Flyaway" is a Deep House track released in 2004 by Stereo Deluxe, a label specializing in modern & urban club/lounge music.
 
-A2 is a remix by Liquid People, the British House production team of Conan Manchester and Dan Smith.
+A2 is a remix by British House production team Liquid People by Conan Manchester and Dan Smith.
 
 B2 is a remix by Andy Mac and DJ/producer Atjazz (Martin Iveson).
 

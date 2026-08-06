@@ -45,7 +45,7 @@ color: #fff;
 
 ## Introduction:
 
-At the end of the 20th century, music from the African continent began to permeate the world in new forms. While Nigeria"s Fela Kuti championed "political Afrobeat," Mali"s Habib Koité started a revolution in a quieter way.
+At the end of the 20th century, music from the African continent permeated the world in new forms. While Nigeria"s Fela Kuti championed "political Afrobeat," Mali"s Habib Koité started a revolution in a quieter way.
 ──With a single guitar, he recreated the sound of Mali's traditional stringed instrument, ""kamarengoni," and together with the band ""**Bamada**," he created ""Mali music without borders.''
 
 His music doesn't talk politics. However, within that tranquility lies **ethnic dignity and cultural continuity**. Koité was a "translator of African aesthetics" in the age of global music.
@@ -55,7 +55,7 @@ His music doesn't talk politics. However, within that tranquility lies **ethnic 
 ## Chapter 1: The musical universe of Mali
 
 The Republic of Mali is a landlocked country located in West Africa. In a geography where the Sahara Desert and the Niger River intersect, there is a rich cultural heritage that dates back to the 13th century Mali Empire.
-The music of this land has been inherited by griots (traditional storytellers/musicians). Their role is not just as performers, but as **keepers of national memory**.
+The music of this land has been inherited by griots = traditional storytellers/musicians. Their role is not just as performers, but as **keepers of national memory**.
 
 Bambara, Songhai, Tuareg, Peul, Dogon... Each ethnic group has its own musical instrument and melody system, and the rhythms are intertwined in multiple layers.
 This diversity is the "fundamental polyphony" of Malian music, and Koité has repositioned the "guitar" at its center.
@@ -68,7 +68,7 @@ Habib Koité was born in Kayazi, Mali in 1958. Her grandmother was part of Geri'
 As a young man, he studied at the **National Institute of Arts (INA)** in Bamako, where he mastered both classical guitar and folk music theory.
 After graduating, he began to innovate his guitar playing style.
 
-Koité devised a unique playing technique in which he pulled the strings with his nails instead of his fingers, reproducing the delicate tone of the kamarengoni.
+Koité devised a unique playing technique in which he pulled the strings with his nails instead of his fingers, reproducing the delicate tones of the kamarengoni.
 The sound produced by this guitar rejects European tuning and leans closer to African rhythms. It was like the sound of **the desert wind and the flow of the Niger River**.
 
 ---
@@ -76,7 +76,7 @@ The sound produced by this guitar rejects European tuning and leans closer to Af
 ## Chapter 3: Formation of Bamada - A dialogue between the heartbeat of the city and tradition
 
 In 1988, Koité formed his own band **Bamada**.
-Bamada is slang for the capital city of Bamako and means "people of Bamako." The band name itself symbolizes **a bridge between city and folklore**.
+Bamada is slang for the capital city of Bamako and means "people of Bamako". The band name itself symbolizes **a bridge between city and folklore**.
 
 Bamada's sound combines a Western band format (guitar, bass, drums, percussion) with traditional African instruments such as balafon and camalengoni.
 Koité asked the members to "bring different ethnic rhythms to the table," **translating the diversity within Mali into an ensemble**.
@@ -92,7 +92,7 @@ With this work, Koité accomplishes the "folkification" of African music. Excess
 > "When you listen to Habib, you hear Africa with no clichés."
 > — Bonnie Raitt (US singer Koité fan)
 
-After receiving critical acclaim at world music festivals in Europe and the United States, performing with Ry Cooder and Bonnie Raitt, and participating in the ""Putumayo Presents Africa'' series, Koité established an international position as the voice of Africa.
+After receiving high praise at world music festivals in Europe and the United States, performing with Ry Cooder and Bonnie Raitt, and participating in the ""Putumayo Presents Africa'' series, Koité established an international position as the voice of Africa.
 
 ---
 
@@ -112,7 +112,7 @@ This is because sound is a medium that conveys not only emotions but also ""soci
 
 ## Chapter 6: Koité as a cultural translator
 
-Koité positions himself not as a ""guardian of tradition," but as a ""translator."
+Koité positions himself not as a "guardian of tradition" but as a "translator."
 His goal is to convert Malian sounds into an "understandable language".
 But it's not just globalization. Rather, it is a search for **sounds that can reach the world without being westernized**.
 
@@ -121,7 +121,7 @@ It goes back and forth between music and words, and embodies ""multilingual iden
 
 ---
 
-## Chapter 7: Resistance beyond politics - Peace depicted through music
+## Chapter 7: Resistance beyond politics - peace depicted through music
 
 Since the 1990s, Mali has been exposed to civil war, ethnic conflict, and Islamic extremism.
 Koité's music does not directly criticize politics, but symbolically sends out a message of peace.
@@ -137,7 +137,7 @@ This "root and branch" metaphor best describes Habib Koité's philosophy.
 ## Chapter 8: 21st Century Mali Music Map and Koité Influence
 
 Subsequent generations of the Koité included the **Rokia Traoré**, **Fatoumata Diawara**, and **Vieux Farka Touré**.
-All of them have inherited the "African acoustic context" that Koité established, while evolving in a more personal and experimental direction.
+All of them have inherited the "African acoustic context" that Koité established, but have evolved in a more personal and experimental direction.
 
 In other words, Habib Koité was the first to bridge Malian music from tradition to individual expression.
 
@@ -154,7 +154,7 @@ Take the song "**Wassiye**" from "Ma Ya" as an example.
 
 With this structure, the entire song creates a "time for storytelling."
 This differs from the "time passage" of pop songs, **the rhythm returns within a ""circular time''**.
-The ""philosophy of time'' that underlies Mali music is expressed here in sound.
+The ""philosophy of time'' that underlies Mali music is manifested here in sound.
 
 ---
 
@@ -191,7 +191,7 @@ graph TD
     A["Mali traditional music<br>Griot culture"] --> B["Ali Farka Touré<br>(Desert Blues)"]
     B --> C["Habib Koité & Bamada<br>(Urban acoustic fusion)"]
     C --> D["Rokia Traoré / Fatoumata Diawara<br>(Deepening personal expression)"]
-    D --> E["Global Stage<br>New Horizons for World Music"]
+    D --> E["Global Stage<br>New horizon of world music"]
 
 </div>
 

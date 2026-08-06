@@ -12,9 +12,9 @@ title: Rednail Kidz – Elektrik Disko
 ---
 
 
-Rednail Kidz is a US deep house production duo consisting of DJ/producer Derrick Carter and Chris Nazuka, who have been active since the early 80's Chicago house.
+Rednail Kidz is a US deep house production duo consisting of DJ/producer Derrick Carter and Chris Nazuka, who have been active since the early 80's Chicago House.
 
-Also known as Rednail Kid, there is Rednail Kidz + 1, which includes Anthony Pearson as a member.
+There is also Rednail Kid, Rednail Kidz + 1, which has Anthony Pearson as a member.
 
 #### Tracklist
 ```md

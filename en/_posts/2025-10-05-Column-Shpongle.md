@@ -9,13 +9,13 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[Column] Shpongle: Reincarnation of sound and journey of consciousness'
+title: '[Column] Shpongle: The cycle of sound and the journey of consciousness'
 ---
 
 
 ## Raja Ram × Simon Posford: Encounter and chemical reaction
 
-Text: mmr｜Theme: Philosophy of the acoustic universe drawn by Raja Ram and Simon Posford
+文：mmr｜テーマ：Raja RamとSimon Posfordが描く音響宇宙の哲学
 
 
 Shpongle is a monumental psychedelic electronica/psychedelic project centered around Simon Posford and Raja Ram. Formed in 1996, inspired by the total solar eclipse in India, they have presented an "audio-journey" that fuses ethnic sampling, acoustic instrumentation, and masterful studio production. Their sound image is distinct from club-oriented trance, and invites listeners to a story that transcends time and space.
@@ -55,7 +55,7 @@ In the 1990s, British psychedelic culture was at a crossroads in its evolution.
 A time when the Goa Trance craze swept Europe and LSD culture merged with technology.
 At the center of this trend was Twisted Records (1996-).
 
-Twisted releases spiritual and intellectual trance music centered on Posford, including Hallucinogen, Younger Brother, Prometheus, and Celtic Cross.
+Twisted releases spiritual and intellectual trance music centered on Posford, including Hallucinogen, Young Brother, Prometheus, and Celtic Cross.
 Shpongle was born with the theme of "journey into the inner universe" at its core.
 
 ---
@@ -64,7 +64,7 @@ Shpongle was born with the theme of "journey into the inner universe" at its cor
 
 flowchart TD
   A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Established Twisted Records<br>Centered by Simon Posford"]
-  B --> C["1998: Formation of Shpongle"]
+  B --> C["1998: Shpongle formed"]
   C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>Related project development"]
   D --> E["2000s: UK Psych Culture Revival"]
   E --> F["2010s~: Fusion with world festival culture"]

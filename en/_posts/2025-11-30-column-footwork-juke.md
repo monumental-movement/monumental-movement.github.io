@@ -44,7 +44,7 @@ Footwork/Juke was born in Chicago's ghetto communities in the late 1980s and ear
 
 - **Late 1980s**: As Chicago House flourishes, a more aggressive house sound known as "Ghetto House" develops at area clubs and parties.
 - **Early 1990s**: A culture of short breakbeats, repeated samples, and fast-moving dance steps known as Juke was established.
-- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely linked begins to spread.
+- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely connected begins to spread.
 
 <div class="mermaid">
 flowchart TD
@@ -62,8 +62,8 @@ The musical characteristics of Footwork/Juke are as follows.
 - **Tempo**: Very fast, around 160 BPM.
 - **Rhythm structure**: Complex syncopation, use of TR-808/909 drum machines.
 - **Sampling**: High-speed recording of fragmented vocals, hip-hop and R&B phrases.
-- **Song structure**: Repeats short phrases mainly in loops. It often uses odd time signatures and irregular breaks.
-- **Acoustic Features**: Low-range bass drum is emphasized, snare is finely dispersed. Skillfully utilizes stereo space.
+- **曲構成**：ループ中心で短いフレーズを繰り返す。変拍子や不規則なブレイクを用いることが多い。  
+- **Sound characteristics**: Low-range bass drum is emphasized, snare is finely dispersed. Skillfully utilizes stereo space.
 
 ---
 
@@ -85,13 +85,13 @@ flowchart LR
 
 ---
 
-## 4. Major artists/labels
+## 4. 主要アーティスト・レーベル
 
 The following important figures and labels exist in the Footwork/Juke scene.
 
-| Artist/Producer | Contribution |
+| アーティスト/プロデューサー | 貢献 |
 |--------------------------|------|
-| DJ Rashad | A central figure who spread footwork internationally. Deploying complex rhythms and innovative sample techniques |
+| DJ Rashad | フットワークを国際的に広めた中心人物。複雑なリズムと革新的なサンプル技法を展開 |
 | DJ Spinn | Builds the Footwork sound with DJ Rashad, has a great influence on young people |
 | RP Boo | One of the founders of early footwork, Ghetto House turned into footwork |
 | Traxman | Contributed to the development of the Juke scene in Chicago |
@@ -113,11 +113,11 @@ timeline
 
 ---
 
-## 6. International expansion
+## 6. 国際的な拡がり
 
 Footwork has been attracting attention outside of the United States since the 2010s. It particularly influenced the electronic dance music scenes in Europe, Japan, Brazil, and Australia.
 
-- **Europe**: Planet Mu and UK-based producers release, footwork battle event held
+- **ヨーロッパ**：Planet MuやUKベースのプロデューサーがリリース、フットワーク・バトルイベント開催  
 - **Japan**: Footwork event held in underground club, influencing DJs and young creators
 - **SNS/Distribution Culture**: International dissemination through YouTube and SoundCloud
 
@@ -140,7 +140,7 @@ The connection with Ghetto House, the prototype of early Footwork, is clear.
 ---
 
 - **DJ Spinn – "At All"**
-Creative sample use, close connection between dance and music.
+Creative use of samples and the close connection between dance and music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

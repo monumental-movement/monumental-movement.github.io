@@ -13,7 +13,7 @@ title: Johannes Heil – Future Primitive
 ---
 
 
-Johannes Heil's music has a dark, dramatic atmosphere, with heavy beats and psychedelic sounds. The meticulous production and evolving arrangements transport the listener to a futuristic world.
+Johannes Heil's music has a dark and dramatic atmosphere, with heavy beats and psychedelic sounds. The meticulous production and evolving arrangements transport the listener to a futuristic world.
 
 Johannes Heil's work is highly acclaimed by techno music fans and the underground music scene, and is known for his unique sound style.
 

@@ -21,17 +21,17 @@ title: '[Column] German techno and the pandemic in the 2020s: Cultural transform
 
 
 
-## Pandemic: A true history of everything from lockdown to reopening to redefining music
+## The Pandemic: A true history of everything from lockdown to reopening to redefining music
 
 
-Text: mmr | Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained
+Text: mmr｜Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained?
 
 
 German techno in the 2020s experienced a dramatic seismic shift centered on the **COVID-19 pandemic (2020–2022)**.
 Clubs were completely shut down by the government, and the entire scene was fundamentally shaken, including tourism, economy, culture, music production, and social values.
 
 Germany is one of the countries in the world where the "institutionalization of club culture" is the most advanced, and clubs are treated politically as cultural facilities and are even on the agenda of urban policy.
-Therefore, the changes in the 2020s are not just changes in music genres, but are also largely recorded in research on cultural policy, urban planning, tourism economy, and subculture in German society.
+Therefore, the changes in the 2020s are not just changes in music genres, but are also largely recorded in studies of cultural policy, urban planning, tourism economy, and subculture in German society.
 
 ---
 
@@ -78,15 +78,15 @@ This "sign of speeding up" was abruptly interrupted by the pandemic.
 
 # Chapter 2: March 2020--First-ever "nationwide club lockdown"
 ## ● Clubs across Germany ordered to close
-In March 2020, the German government announced the following as an infection control measure:
+In March 2020, the German government announced the following measures to prevent infection:
 **Announced complete closure of clubs, bars and leisure facilities**.
 
 This was a legal action and all clubs were immediately closed.
-More than 300 clubs in Berlin alone went silent,
+Over 300 clubs in Berlin alone went silent all at once.
 For the first time in its history, the world-famous techno city experienced a "complete standstill."
 
 ### Impact:
-- All clubs closed (March 2020 to early 2021)
+- All clubs suspended (March 2020 to early 2021)
 - All closed including Berghain and Tresor
 - Income from club tourism is reduced to zero
 - Occupations such as DJs, staff, lighting, and sound workers have lost income.
@@ -127,7 +127,7 @@ The early days of the pandemic were also a time when music changed into somethin
 
 # Chapter 4: The "acoustics" of techno will change (2020-2021)
 ## ● 1) Increase in introspective and experimental techno
-Since there is no place to DJ, the demand for ""music that makes people dance'' has disappeared for artists.
+Since there is no place for DJing, the demand for ""music that makes people dance'' has disappeared for artists.
 Therefore, EP/album production will proceed in the following direction:
 
 - Ambient Techno
@@ -180,12 +180,12 @@ During its long-term closure, Berghain opened its interior to the public as a ga
 It attracted attention as an example of a techno club being treated like a museum.
 
 ## ● Long-established stores such as Tresor are also severely affected.
-Clubs such as Tresor, Watergate and ://about blank lost their gate revenue.
+Clubs like Tresor, Watergate, and ://about blank lost their gate revenue.
 We tried to maintain it through government support, donations, and online projects.
 
 ---
 
-# Chapter 6: Resuming in 2022 - Explosion of high-speed techno
+# Chapter 6: Resumption in 2022 - Explosion of high-speed techno
 ## ● After restarting, BPM suddenly increased
 Clubs will reopen across Germany in 2022.
 From here on, the music changes drastically.
@@ -194,11 +194,11 @@ From here on, the music changes drastically.
 - 150-170 BPM is common
 - Stronger trance elements
 - 90's rave style tone is back
-- Industrial x transformer hybrid is established
+- Industrial x transformer hybrid has become established
 - "High-speed 4-stroke" has become mainstream worldwide
 
 The aesthetics of high-speed techno that emerged on social media during the pandemic
-It's like the sound of the actual club has been overwritten.
+It's like the sound of an actual club has been overwritten.
 
 ## ● Visits from young people will increase explosively
 In 2022–2023, the number of young tourists, especially from the EU, increased.
@@ -220,7 +220,7 @@ Techno from 2022 to 2024 has been completely updated to the "post-pandemic gener
 # Chapter 7: Cultural policy and urban issues in Berlin in the 2020s
 ## ● 1) Gentrification and club survival issues
 In Berlin, club locations have been under threat due to urban redevelopment.
-Post-pandemic, clubs are increasingly on the urban policy agenda.
+Post-pandemic, clubs have increasingly been on the urban policy agenda.
 
 The idea that clubs should be protected as cultural assets is gaining ground.
 
@@ -230,8 +230,8 @@ Berlin has exposed the fragility of its urban structure, which has become too de
 
 Since then, the city has begun to strengthen cultural measures for local residents.
 
-## ● 3) Digitization and archiving are progressing
-In the wake of the pandemic, the club's historical materials, videos, and audio sources have been made available online.
+## ● 3) Digitization and archiving progress
+Due to the pandemic, the club's historical materials, videos, and audio sources have been made available online.
 From 2023 onwards, archive projects will be supported as part of cultural policy.
 
 ---
@@ -285,7 +285,7 @@ As of 2024, 150-170 BPM will be the mainstream.
 It is unclear whether this will continue, but it may continue due to the following factors:
 
 - Visual presentation on SNS goes well with high-speed music
-- Young aesthetics prefer "high information density"
+- Younger aesthetics prefer "high information density"
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.
@@ -294,7 +294,7 @@ It is predicted that protection policies will become more advanced from 2025 onw
 
 ## ● 3) Rise of regional cities
 Young players' scenes are thriving after the pandemic in places like Leipzig, Dresden, and Hamburg.
-In the second half of the 2020s, there is a high possibility that the concentration of electricity in Berlin will ease.
+In the second half of the 2020s, there is a high possibility that the concentration in Berlin will ease.
 
 ---
 

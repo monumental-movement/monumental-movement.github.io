@@ -10,14 +10,14 @@ tags:
 - Techno
 - Philosophy
 - Detroit Techno
-title: '[Column] Why is techno an ideology?'
+title: 【コラム】 テクノはなぜ思想なのか
 ---
 
 
 
 ## Why is techno called ideology?
 
-Text: mmr｜Theme: Future thoughts behind the repeated beats. Cities, machines, bodies, communities. Deciphering from history the reason why techno is more than music and is called ideology.
+Text: mmr｜Theme: Future thoughts behind the repetitive beats. Cities, machines, bodies, communities. Deciphering from history why techno is more than music and is called ideology.
 
 
 
@@ -25,9 +25,9 @@ A 4/4 beat that continues to play in the darkness of the club.
 repeating rhythm.
 Inorganic synthesizer sound.
 
-At first glance, techno appears to be just dance music.
+一見すると、テクノはただのダンスミュージックのように見える。
 
-However, this music was not created just for entertainment.
+しかし、この音楽は単なる娯楽として生まれたわけではない。
 
 Collapse of the city.
 mechanized society.
@@ -71,7 +71,7 @@ At the beginning of the 20th century, music underwent major changes.
 This was the advent of recording technology.
 
 Until then, music existed only in the moment it was played.
-However, through recording, the sound becomes preserved.
+しかし録音によって、音は保存されるようになる。
 
 This change changed the very concept of music.
 
@@ -80,7 +80,7 @@ Electronic musical instruments were born in the 1920s.
 - theremin
 - Ondes Martenot
 
-These instruments used electricity to produce sound.
+これらの楽器は、電気を使って音を生み出した。
 
 Music has become something created not only by the body but also by technology.
 
@@ -117,7 +117,7 @@ They broke away from rock tradition and created music that incorporated mechanic
 
 Using these electronic devices, they created a futuristic sound.
 
-The theme was also unique.
+テーマも独特だった。
 
 - Highway
 - computer
@@ -133,7 +133,7 @@ Even more important was their aesthetic.
 - Uniform rhythm.
 - Minimalist structure.
 
-This was music that expressed the relationship between humans and machines.
+これは人間と機械の関係を表現する音楽だった。
 
 This idea would later become a central element of techno.
 
@@ -196,7 +196,7 @@ The influences were diverse.
 - disco
 - SF culture
 
-When these are mixed together, a new sound is born.
+When these things are mixed together, a new sound is born.
 
 Their music was not only music for clubs, but also music for imagining future cities.
 
@@ -228,7 +228,7 @@ Why was this structure created?
 
 One of the reasons is dance.
 
-In the club, we needed long grooves.
+In the club, we needed a long groove.
 
 However, another reason lies in the philosophy of music.
 
@@ -437,7 +437,7 @@ Techno is not just a genre.
 
 It is a culture that includes these things.
 
-Amidst the repeated beats, people imagine the future.
+People imagine the future within the repeating beats.
 
 And on the floor of a dark club, they share the same rhythm.
 

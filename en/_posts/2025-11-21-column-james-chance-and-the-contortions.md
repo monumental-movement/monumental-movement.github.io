@@ -42,7 +42,7 @@ color: #fff;
 ## 1. James Chance's early life and musical background
 
 James Chance (real name James Siegfried) was born in Wisconsin, USA in 1953 and studied piano. Influenced by free jazz, especially Ornette Coleman and Albert Ayler, he aimed for expressions that were not tied to existing musical forms.
-He moved to New York in 1975, and after playing in early bands such as Flaming Youth and Teenage Jesus and the Jerks, he formed **Contortions**, a band that realized his vision.
+He moved to New York in 1975, and after playing in early bands such as Flaming Youth and Teenage Jesus and the Jerks, he formed **Contortions**, a band that embodies his vision.
 
 ---
 
@@ -90,7 +90,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 - **Feature**: Saxophone-driven riff repeats throughout
 - **Beat**: Drums and bass repeat a precise, tight funk pattern
-- **Sound effect**: The cacophony of guitars and keyboards creates a sense of tension.
+- **Sound effect**: The cacophony of guitars and keyboards creates a sense of tension
 
 ---
 
@@ -147,7 +147,7 @@ A["James Chance"] --> B["Contortions"]
 B --> C["Pat Place → Bush Tetras"]
 B --> D["Jody Harris → Raybeats"]
 B --> E["George Scott III → John Cale Tour"]
-B --> F["Don Christensen → Leave"]
+B --> F["Don Christensen → 離脱"]
 
 </div>
 
@@ -155,16 +155,16 @@ B --> F["Don Christensen → Leave"]
 
 ## 7. Interruption/Reunion and Late Works
 
-- Suspended in the early 1980s
+- 1980年代初頭、活動休止  
 - Reunion with original members in 2001
 - Released the single "Melt Yourself Down" in 2016
-- Final performance in 2019
+- 最終公演は2019年
 
 ---
 
 ## 8. Musical Heritage and Influences
 
-- Status as the core band of No Wave
+- ノー・ウェイヴの中心バンドとしての地位  
 - Influences on dance punk and post-punk
 - Technical/expressive influence on subsequent artists such as ESG and Liquid Liquid
 - Re-evaluation in the art scene
@@ -212,7 +212,7 @@ timeline
 
 ## 10. Summary
 
-James Chance and the Contortions is a band that takes the fusion of avant-garde music and performance to the extreme. The rhythm, improvisation, and physical expression of their albums and live performances became the foundation of later dance-punk and post-punk. Although their music was short-lived, it continues to be regarded as a symbol of innovation.
+James Chance and the Contortions は、前衛音楽とパフォーマンスの融合を極限まで追求したバンドである。アルバムやライブ演奏におけるリズム、即興性、身体表現は、後のダンス・パンクやポスト・パンクの礎となった。彼らの音楽は短命であったが、今なお革新性の象徴として評価され続けている。
 
 
 ---

@@ -21,15 +21,15 @@ Text: mmr｜Theme: From Leeds punk to the American wilderness. The Mekons' 45-ye
 > **"It started with laughter, not rebellion."**
 
 1977, University of Leeds, Northern England.
-The Mekons were started by students in a corner of a lecture room, jokingly thinking, ""Maybe we could form a band ourselves.'' Jon Langford, Tom Greenhalgh, Kevin Lycett, and others would become symbols of the post-punk culture. They had no musical skills and even borrowed instruments.
+The Mekons were started by students in a corner of a lecture hall, jokingly thinking, ""Maybe we could form a band ourselves.'' Jon Langford, Tom Greenhalgh, Kevin Lycett, and others would become symbols of the post-punk culture. They had no musical skills and even borrowed instruments.
 At that time, punk was a revolution that anyone could start. The name Mekons is said to come from the "rebel" character in Byron's play The Curse of Minerva.
 
 The single ""Where Were You / I'll Have To Dance Then (On My Own)'', released in 1978, symbolizes their early punk spirit.
-""Where Were You?'' depicts the loneliness of young people and their doubts about society with sharp guitar riffs and vocals mixed with noise. The B-side, I'll Have To Dance Then (On My Own), expresses self-alienation and the desire for freedom with punk energy.
+"Where Were You?" depicts the loneliness of young people and their doubts about society with sharp guitar riffs and vocals mixed with noise. The B-side, I'll Have To Dance Then (On My Own), expresses self-alienation and the desire for freedom with punk energy.
 Although the recording is rough, it is full of improvisation with friends from university, and you can see the origins of the ""aesthetics of imperfection'' that Mekons later pursued.
 
-Along with their early single ""Never Been in a Riot,'' this single is considered an important piece of Mekons' early trinity of social criticism, humor, and self-exploration.
-At live shows at the time, it was a common sight for the audience to laugh, get confused, and sometimes get into arguments every time this song ended.
+Along with their early single ""Never Been in a Riot,'' this single is considered to be an important piece of Mekons' early trinity of social criticism, humor, and self-exploration.
+At live shows at the time, it was common for the audience to laugh, get confused, and sometimes get into arguments every time this song ended.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71s-T8oUTQs?si=JRL_vF4jjerlZhUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -51,12 +51,12 @@ color: #fff;
 ### Chapter 1: Escape from the rough and clumsy punk
 > **"Clumsiness was sincerity."**
 
-Debut album released in 1979 [""The Quality of Mercy Is Not Strnen"] (https://amzn.to/477GZ6y). The typographical error in the title ""Stolen" itself symbolized the band's attitude.
+Debut album released in 1979 [""The Quality of Mercy Is Not Strnen"'] (https://amzn.to/477GZ6y). The typographical error in the title, "Stolen," itself symbolized the band"s attitude.
 Recorded at Virgin Studios in London. At the time, they said, ""It was the first time I had seen a mixer table.''
 The acoustics are rough, and the microphone distance and balance are unstable. Still, the howling guitar and distortion of the vocals were recorded as "creativity born out of ignorance." There is no producer, and the sound image is based on the DIY spirit.
 
 "We weren't political or romantic, we were just confused," says Jon Langford.
-At that time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
+At the time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -78,16 +78,16 @@ With this album, they presented the paradox of ""Isn't rock the system itself?''
 
 ---
 
-### Chapter 3: Encounter with American music and the dawn of "alternative country"
+### Chapter 3: Encounter with American music and the dawn of "alt-country"
 > **"Amidst the wine and dust, there was the truth."**
 
-With 1985"s ["Fear and Whiskey'](https://amzn.to/4mV4QMk), the Mekons ventured into completely new horizons.
+With 1985's [Fear and Whiskey](https://amzn.to/4mV4QMk), the Mekons stepped out onto completely new horizons.
 What was there was the folk and country music of the American South, as well as the feelings of ""loss of home'' felt by postwar British society.
 During this period, Jon Langford rediscovered that ""country is the blues of the working class'' while listening to Hank Williams and Merle Haggard.
 
 Recorded at Woodlands, Leeds, an indie studio at the time. The guitar, recorded directly on line to analog tape, has a natural saturation that takes advantage of the distortion of the amplifier, and room mics are often used for vocals.
 This lo-fi sound creates a "poetic sense of distance" rather than a "muddy smell."
-This album would later be reevaluated as a precursor to "alt-country" artists such as Uncle Tupelo and Wilco.
+This album would later be reevaluated as a precursor to the "alt-country" genre of artists such as Uncle Tupelo and Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -104,20 +104,20 @@ During this period, Mekons existed as a "drifting artistic community" that trans
 It was said that "Mekons" music sounds like it doesn"t belong anywhere."
 Like immigrants, they moved between musical contexts, creating temporary homes there.
 The album [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) is a symbol of this, and its acoustic composition, which includes brass and violin, emphasizes its "foreignness."
-Although he used Pro Tools for this work, he purposely used an analog console for mixing, leaving a ""human imbalance.''
+Although he used Pro Tools for this work, he intentionally used an analog console for mixing, leaving a ""human imbalance.''
 
 ---
 
 ### Chapter 5: Feminism and Solidarity, Perspectives of Female Members
-> **"As voices multiply, the truth splits."**
+> **"As more voices grow, the truth becomes more divided."**
 
 Sally Timms deserves special mention in Mekons history.
 When she officially joined the group in 1985, she functioned not just as a vocalist, but as a "storyteller."
 Her clear voice had the power to transform the band's political language into poetic allegory.
 Sally says, "Telling a story is more powerful than shouting anger." With her perspective added, Mekons has been reevaluated in a feminist context.
 
-Its polyphonic nature, along with its contemporaries Raincoats and Au Pairs, is a rare example of a woman's voice acquiring social reality.
-At live performances, there are many scenes where Sally reads aloud and Langford accompanies on guitar, making the Mekons' ""music = storytelling'' structure clear.
+Its polyphonic nature, along with its contemporaries Raincoats and Au Pairs, is also a rare example of a woman's voice acquiring social reality.
+At live shows, Sally reads aloud and Langford often accompanies on guitar, making the Mekons' ""music = storytelling'' structure clear.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iQJbxIaUEjI?si=M-SWXL5_ebqPcrqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -133,7 +133,7 @@ This work depicts how Mekons have traversed various forms of expression, includi
 Jon Langford himself was active as a painter and presented an ""anti-romantic image of America'' by symbolically depicting the landscapes of the American Midwest.
 
 While maintaining analog recording, their sound intentionally produces a ""roughness.''
-Langford said, ""Noise is in our blood,'' and when recording, he preferred to remove the noise gate and leave in ambient sounds.
+Langford said, ""Noise is in our blood,'' and when recording, he preferred to remove the noise gate and leave the ambient sounds intact.
 This "scarred sound" was the realism that Mekons believed in.
 
 ---
@@ -159,7 +159,7 @@ Acoustic guitar, electronic drone, and distant wind sounds. It sounds like a "te
 
 For over 45 years, they have rejected commercialism and sought a way to make a living outside of the music industry.
 It is an aesthetic of solidarity, not self-preservation.
-Their body of work has transcended the ideals of post-punk and has become the very practice of ""art of survival.''
+Their works have transcended the ideals of post-punk and have become the very practice of ""art of survival.''
 
 Mekons" music isn"t perfect. But that imperfection resonates with the imperfection of the world.
 That's why they still ring.

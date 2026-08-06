@@ -14,7 +14,7 @@ title: ACDC – For Those About To Rock We Salute You
 
 "For Those About to Rock We Salute You" is AC/DC"s eighth album. The album features the band"s trademark heavy guitar riffs, explosive drum beats, and Brian Johnson's powerful vocals.
 
-This album builds on the success of their previous album, Back in Black, and continues its energy and glory.
+This album builds on the success of their previous album 'Back in Black' and continues its energy and glory.
 
 The album includes the hit song "For Those About to Rock (We Salute You)," as well as songs such as "Let's Get It Up," "Inject the Venom," and "Evil Walks."
 

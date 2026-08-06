@@ -12,7 +12,7 @@ title: Orchestral Manoeuvres In The Dark – Crush
 ---
 
 
-Crush is the sixth studio album by British electronic band Orchestra Manoeuvres in the Dark (OMD), released on June 17, 1985 by Virgin Records.
+Crush is the sixth studio album by British electronic band Orchestral Manoeuvres in the Dark (OMD), released on June 17, 1985 by Virgin Records.
 
 This album is the first of two OMD studio albums produced by Stephen Hague. Primarily targeted at the American market, it is notable for the group's transition to a more sophisticated sound, although elements of their previous experiments remain.
 

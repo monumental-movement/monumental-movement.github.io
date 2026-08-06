@@ -47,9 +47,9 @@ color: #fff;
 
 The background to the birth of Northern Soul was the regional disparities that plagued British society in the 1960s and the transformation of youth culture. In the south, centered on London, mod, psychedelic, and later rock culture became visible, while in the industrial metropolitan areas of the north, there was a different kind of interest in black American music.
 
-In cities such as Manchester, Wigan, Blackpool and Sheffield, a culture of working-class young people flocking to clubs on weekend nights and dancing for long hours took hold. There, songs that no one knew but were overwhelmingly danceable were more valuable than the latest hits.
+マンチェスター、ウィガン、ブラックプール、シェフィールドといった都市では、労働者階級の若者たちが週末の夜にクラブへ集い、長時間にわたって踊り続ける文化が定着していく。そこでは最新のヒット曲よりも、誰も知らないが圧倒的に踊れる楽曲が価値を持った。
 
-What is important in this context is the physical and psychological distance between northern England and America. Soul music, which originated in the American South and Detroit, resonated more strongly with the sensibilities of young people in the North than in London. This is because themes such as labor, oppression, and solidarity were shared as daily sensibilities.
+What is important in this context is the physical and psychological distance between northern England and the United States. Soul music, which originated in the American South and Detroit, resonated more strongly with the sensibilities of young people in the North than in London. This is because themes such as labor, oppression, and solidarity were shared as daily sensibilities.
 
 > Northern Soul was born spontaneously at the intersection of the social structure of northern England and the physical culture of young people.
 
@@ -60,11 +60,11 @@ What is important in this context is the physical and psychological distance bet
 ## Relationship with American Soul
 
 
-The musical foundation of Northern Soul lies in soul music produced in America. However, many of these were singles released by small labels in local cities, rather than major label releases like Motown.
+The musical foundation of Northern Soul lies in soul music produced in America. However, many of these were not major label works like Motown, but singles released by small labels in regional cities.
 
-A British club DJ unearths works by unknown artists recorded in Detroit, Chicago, Los Angeles, Philadelphia, and even southern regions such as Alabama and Texas. Although these songs never charted in the United States, they had the power to set dance floors ablaze in northern England.
+デトロイト、シカゴ、ロサンゼルス、フィラデルフィア、さらにはアラバマやテキサスといった南部地域で録音された無名アーティストの作品が、英国のクラブDJによって発掘される。これらの楽曲は、アメリカ本国ではチャート入りすることなく埋もれていたが、英国北部ではダンスフロアを熱狂させる力を持っていた。
 
-DJs went directly to the United States to make purchases, finding inventory hidden in the backs of warehouses, radio stations, and record stores. As a result, the rarity of records in which no one else had them became valuable, and a "one-of-a-kind culture" unique to Northern Soul was formed.
+DJs went directly to the United States to make purchases, scouring inventory hidden in the backs of warehouses, radio stations, and record stores. As a result, the rarity of having the same record becomes valuable, and the unique ""one-of-a-kind culture'' of Northern Soul was formed.
 
 > Northern Soul was a cross-border culture that was established through the rediscovery and reappraisal of black American music.
 
@@ -73,13 +73,13 @@ DJs went directly to the United States to make purchases, finding inventory hidd
 ## Club culture and the role of the DJ
 
 
-In Northern Soul, DJs were not just music selectors, but cultural curators. Song selection was extremely strategic and competitive, as the records owned by a particular DJ were directly linked to the club's reputation.
+In Northern Soul, DJs were not just music selectors, but cultural curators. Song selection was highly strategic and competitive, as the records a particular DJ owned was directly linked to the reputation of the club.
 
 Typical clubs include Manchester's Twisted Wheel and the later iconic Wigan Casino. All-night events were common at these clubs, with dancers dancing for hours on end.
 
 The DJ constructed his set by reading not only the BPM and key, but also the level of fatigue and excitement on the floor. The rarity of the record was important, but even more important was whether it could be danced to.
 
-> In the Northern Soul scene, the DJ's song selection decisions themselves determined the evolution of the culture.
+> ノーザンソウルの現場では、DJの選曲判断そのものが文化の進化を決定づけていた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukp6AMd8Dik?si=xg2rYzVe_-XpZQJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -88,7 +88,7 @@ The DJ constructed his set by reading not only the BPM and key, but also the lev
 ## Characteristics of dance and fashion
 
 
-Northern soul developed not only with music, but also with its own dance style and fashion. The dance is acrobatic, making frequent use of spins, kicks, and jumps, and is characterized by steps that glide across the floor.
+ノーザンソウルは音楽だけでなく、独自のダンススタイルとファッションを伴って発展した。ダンスはアクロバティックで、スピンやキック、ジャンプを多用し、床を滑るようなステップが特徴的である。
 
 To enable this physical expression, emphasis was placed on functionality in clothing. Tight jeans, loose tops, and shoes with slippery soles became the norm, and a culture of expressing individuality with patches and badges took root.
 
@@ -101,9 +101,9 @@ What is important is that these styles were not trends handed down from above, b
 ## Change and persistence since the 1970s
 
 
-In the 1970s, new dance music such as disco, funk, and later house emerged, and the heyday of northern soul came to an end. However, the culture itself did not disappear.
+In the 1970s, new dance music such as disco, funk, and later house emerged, and the heyday of Northern Soul came to an end. However, the culture itself did not disappear.
 
-Even after clubs close and the scene shrinks, Northern Soul continues to be preserved and passed on through collector culture, reissues, and retrospective events. Since the 1980s, there has been a growing movement to reevaluate it, and it has become known to younger generations through films and documentaries.
+Even after clubs close and the scene shrinks, Northern Soul continues to be preserved and passed on through collector culture, reissues, and retrospective events. After the 1980s, there was a growing movement to re-evaluate it, and it became known to younger generations through movies and documentaries.
 
 > Northern Soul is not a passing fad, but has survived as a culture that is continually reinterpreted.
 
@@ -127,7 +127,7 @@ In Japan, Northern Soul was not reproduced in the same form as in Britain. Rathe
 
 It tends to emphasize the sound quality of records, the rarity of records, and the commitment to original records rather than dance, and is characterized by its strong connection to collector culture. On the other hand, the essence of music that can be danced to is maintained, and dance-oriented events continue to be held.
 
-> Japanese Northern Soul has established itself by uniquely adjusting the balance between appreciation and physicality.
+>Japan's Northern Soul has established itself by uniquely adjusting the balance between appreciation and physicality.
 
 ---
 
@@ -151,15 +151,15 @@ timeline
 
 ---
 
-## Structural diagram: Cultural flow
+## 構造図：文化の流れ
 
 <div class="mermaid">
 graph LR
 A[American region Seoul] --> B[Northern UK DJ]
 B --> C[club culture]
-C --> D[dance and fashion]
+C --> D[ダンスとファッション]
 C --> E[Spread to Japan]
-E --> F[Japan's unique acceptance]
+E --> F[日本独自の受容]
 </div>
 
 > The history of Northern Soul illustrates the very process by which music is recontextualized across borders and time.

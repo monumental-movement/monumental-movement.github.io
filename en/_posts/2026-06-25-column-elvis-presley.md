@@ -66,7 +66,7 @@ Elvis Aaron Presley was born in Tupelo, Mississippi.
 
 The family was never wealthy.
 
-His father, Vernon Presley, had many regular jobs, and his mother, Gladys, supported the household while raising her son.
+His father, Vernon Presley, had many regular jobs, while his mother, Gladys, supported the household while raising her son.
 
 Elvis was born as a twin, but his older brother Jesse was stillborn.
 
@@ -78,7 +78,7 @@ This experience greatly influenced his later singing style.
 
 On the other hand, he was also absorbing country and blues music through the radio.
 
-In the American South, black music and white music existed geographically close to each other.
+In the American South, black and white music existed geographically close to each other.
 
 However, they were socially divided.
 
@@ -124,7 +124,7 @@ Arthur Crudup"s blues song ""That"s All Right,'' played during the break, receiv
 
 History begins from here.
 
-The song, which was played on the radio, quickly became a hot topic.
+The song that was played on the radio quickly became a hot topic.
 
 The audience could not tell whether the person singing was white or black.
 
@@ -261,7 +261,7 @@ He's not a flashy movie star.
 
 He was a pure rock"n"roll singer.
 
-The program becomes a great success.
+The program becomes a huge success.
 
 Many critics consider this special to be one of the biggest comebacks of his career.
 

@@ -200,7 +200,7 @@ color: #fff;
 ### Land Rover
 
 - **Representative model**: Range Rover Evoque (Meridian 13-19 speakers, 825W)
-- **Technology**: Acoustic optimization at vehicle design stage
+- **Technology**: Acoustic optimization at the vehicle design stage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9b2M4QzWKQ?si=AuLz_pyciWmkgTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -252,10 +252,10 @@ color: #fff;
 
 ---
 
-## Summary: From engine sound to sound art — a vision of the future of cars and sound
+## Summary: From engine sound to sound art — the future of cars and sound
 
 Cars used to be "machines for transportation". However, now it is a ""space that embraces sound'' and is an extension of culture.
-Germany has imbued sound with precision engineering, Britain with tradition and formality, America with freedom and power, and Japan with delicate harmony.
+Germany has imbued sound with precision engineering, England with tradition and formality, America with freedom and power, and Japan with delicate harmony.
 Car audio in each country is also a crystallization of that society's aesthetic sense and industrial philosophy.
 
 Rolls-Royce's "silent stage" is the ultimate in silence.

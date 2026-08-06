@@ -9,18 +9,18 @@ tags:
 - Industrial
 - UK Techno
 - Techno
-title: '[Column] Blawan: Pleasure of Steel and the Body Deep in the Night — Echoes
-  of the Dreams of UK Techno'
+title: '[Column] Blawan: Steel pleasure and the body deep in the night — the reverberations
+  of UK techno''s dreams'
 ---
 
 
 ## Prologue Rhythm that grew in the shadow of factories—from the lingering scent of industry
 
 
-Text: mmr｜Theme: About Blawan's cold yet somehow human beat that continues to have roots in the UK underground
+Text: mmr｜Theme: Blawan's cold yet somehow human beat that continues to take root in the UK underground
 
 Once upon a time, the industrial areas of northern England were filled with the smell of steam and metal.
-Jamie Roberts -- or Blawan -- may have grown up unconsciously inhaling its reverberations.
+Jamie Roberts, or Blawan, may have grown up unconsciously inhaling its reverberations.
 The bloodline of electronic music flowing from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 It has echoed the rhythm of labor and the breathing of the city at the same time.
 
@@ -67,7 +67,7 @@ It was the physical sensation of ""playing'' electronic sounds that made his sou
 
 In 2012, the world club scene shook.
 "Why They Hide Their Bodies Under My Garage."
-This single song made Blawan's name definitive.
+This one song made Blawan's name definitive.
 
 The title is disturbing.
 The distorted vocal sample sounds like a ghost groaning in a basement.
@@ -75,7 +75,7 @@ The beat is heavy and repeats with a tenacity that borders on madness.
 However, there is a strange **"pleasure"** within it.
 It compressed the listener's body and at the same time released it - it was a moment of **fear and euphoria**.
 
-Many DJs drop this track at peak times,
+Many DJs drop this track during peak times,
 The club floor was reportedly engulfed in a moment of "violent euphoria."
 This song is not just a hit,
 It was a symbol of reviving ""feelings without emotions'' in techno.
@@ -101,14 +101,14 @@ For a moment when everything melts together, music becomes "substance."
 
 ---
 
-## Chapter 4 Wet Will Always Dry——Record of emotions without emotions
+## Chapter 4 Wet Will Always Dry——A record of emotions without emotions
 
 In 2018, Blawan finally released a full-length album, Wet Will Always Dry.
 As the title suggests, **Wet, Dry. **
 What we see there is an incomplete cycle of human emotions.
 
 "Careless" "North" "Stell"――
-Every song hides a slight warmth beneath its coldness.
+Each song hides a slight warmth beneath its coldness.
 Amidst the expressionless, metallic sound, there are occasional pauses that look like breathing.
 Human emotions permeate through that small gap.
 
@@ -117,7 +117,7 @@ On the contrary, his stoicism makes Blawan's "emotion" stand out.
 
 ---
 
-## Chapter 5 A club without a body—Blawan in the 2020s
+## Chapter 5 Club without a body—Blawan in the 2020s
 
 During the pandemic, clubs went silent.
 However, Blawan's sound is quietly changing.
@@ -134,14 +134,14 @@ This is the paradoxical sound of an era in which electronic devices imitate the 
 
 ## Chapter 6 People and city surrounding Blawan
 
-Blawan's sound does not belong to any one artist.
+Blawan's sound does not belong to a single artist.
 UK industrial genes built by Regis and Surgeon,
 The violent rhythms of Paula Temple and Giant Swan,
 And the delicate particles of Skee Mask.
 All of that is being rebuilt within him.
 
 Rather than the sterility of Berlin, I prefer the humidity of London.
-Use the pressure of your palm rather than digital.
+Use palm pressure rather than digital.
 Blawan continues to choose **land weight**.
 It is also a form of resistance for the club to continue to be a ""place'' once again.
 
@@ -158,9 +158,9 @@ With each moment, Blawan's sound straddles the line between coldness and passion
 
 In the background lies his own life, including the loss of friends and struggles with addiction.
 Behind the cold mechanical sounds is the breathing sound of loss and rebirth.
-After making an impact with ""Why They Hide Their Bodies Under My Garage.", what he has arrived at after more than 10 years is ""a prayer that dwells in destruction."
+After making an impact with ""Why They Hide Their Bodies Under My Garage.", what he has arrived at after more than ten years is ""a prayer that dwells in destruction."
 
-At a time when techno is becoming more abstract and clubs are melting into the digital world, Blawan dares to bring back "gravity."
+At a time when techno is becoming abstract and clubs are melting into digital, Blawan dares to bring back the "gravity."
 The beat that runs through the veins of the Steel City.
 In it, he quietly asks: Can sound still be human? **
 
@@ -225,7 +225,7 @@ flowchart TD
 
 > "When you go to his studio, the first thing you see is silence.
 > The silence before you turn on the switch is already laden with rhythm.
-> That space itself is the "batting surface." "
+> That space itself has become the "batting surface." "
 > —— **Paula Temple**
 
 ---
@@ -240,7 +240,7 @@ flowchart TD
 
 > "I watched Karenn"s live performance from the sidelines,
 > It felt like being inside a steelworks.
-> Sounds like sparks flying.
+>Sounds like sparks flying.
 >Still, the faces of the audience were somehow kind. "
 > —— **Surgeon (Anthony Child)**
 
@@ -271,7 +271,7 @@ flowchart TD
 
 ### Final Chapter: Prayer of Steel—Dancing is survival
 
-Blawan's sound is sometimes cold and sometimes rough.
+Blawan's sound is sometimes cold and sometimes harsh.
 However, deep within, there is certainly a ""human prayer.''
 The act of dancing is a ritual for "surviving" in the noise of the city.
 "Why They Hide Their Bodies Under My Garage." still attracts people because
@@ -352,7 +352,7 @@ flowchart TD
 
 | Classification | Equipment | Application | Features |
 | ---------- | ------------------------------------ | ---------- | -------------------- |
-| Sequencer | **Intellijel Metropolis** | Melody/Rhythm Generation | Emphasis on hard 16-step feel |
+| Sequencer | **Intellijel Metropolis** | Melody/rhythm generation | Emphasis on hard 16-step feel |
 | Oscillator | **Verbos Complex VCO / Plaits** | Main oscillation source | Combination of analog distortion and digital particles |
 | Drum Synth | **Moog DFAM** | Metallic percussion | The core of Blawan's "industrial noise" |
 | FX Chain | **Analog Heat / Mimeophon / BigSky** | Texture adjustment | Build space with drive and reverb |

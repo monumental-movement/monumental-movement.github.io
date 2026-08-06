@@ -22,7 +22,7 @@ Text: mmr｜Theme: Tracing the musical philosophy of "Border Community" establis
 The name Border Community is more than just a label.
 It was a statement of ""a community connected through music" and a desire to ""transcend existing genres and commercial structures."
 
-In the early 2000s, the club scene was in the midst of major changes. Trance was formalizing and progressive house was becoming rigid.
+In the early 2000s, the club scene was in the midst of major changes. Trance was becoming formalized and progressive house was becoming rigid.
 In it, James Holden was exploring sounds that go back and forth between melody and noise, analog and digital, intelligence and emotion.
 
 "Border Community" was born as his "border laboratory."
@@ -49,7 +49,7 @@ color: #fff;
 In 2001, Holden gained attention with the song "A Break in the Clouds" released on Silver Planet.
 Their sound broke the mold of progressive house at the time. Melancholic yet architectural. The floating melody turned the club night into a poetic experience.
 
-Starting with this song, he carves out a sonic space that is neither trance nor house.
+Starting with this song, he carves out a sound that is neither trance nor house.
 This flow later crystallized in the form of Border Community.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -64,8 +64,8 @@ In opposition to commercial club music, it advocated a DIY spirit in which artis
 Nathan Fake's first release, ""The Sky Was Pink,'' marked a turning point in club music history.
 The emotional and introspective tracks influenced subsequent post-club generations such as Four Tet and Caribou.
 
-The artwork and release design were also unique. Illustrations with soft brush strokes, minimalist design based on white.
-Like sound, Border Community's worldview was aimed at "visualizing emotions."
+The artwork and release design were also unique. A minimalist design with soft brush strokes and a white background.
+Like sound, Border Community's worldview aims to "visualize emotions."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IV9HfG6s8Qk?si=LC0WFL0dZbH1AdFi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -110,7 +110,7 @@ This was a new chapter for Border Community, and at the same time an event in mu
 The sound that fuses synthesizer improvisation, folk rhythms, and analog noise brings electronic music back to something ""lifelike.''
 
 After that, he transitioned to a live band formation, and his sound became even more free.
-Border Community may have receded from the mainstream, but its influence has continued to be passed down to the likes of Jon Hopkins, Floating Points, and Four Tet.
+Border Community may have receded from the mainstream, but its influence has continued to be felt by artists such as Jon Hopkins, Floating Points, and Four Tet.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bV6zHOIfyO0?si=UVJGyf0UHZJxtcIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -120,7 +120,7 @@ Border Community may have receded from the mainstream, but its influence has con
 ""Border'' is not a boundary between genres, but a boundary between ideas.
 For Holden, music was a response to society and a question to the world.
 
-As club culture became commercialized, Border Community became a base for regaining ""emotions" and ""autonomy."
+As club culture became more commercialized, Border Community became a base for regaining ""emotions" and ""autonomy."
 Sound is not nostalgia, but the reconstruction of memory.
 It has the power to make listeners reconsider their own boundaries.
 

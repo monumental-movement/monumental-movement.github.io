@@ -19,7 +19,7 @@ title: '[Column] How did the music movement originating from the Discord communi
 
 Text: mmr｜Theme: The music culture born from the Discord community follows in the footsteps of forming a global "new underground scene" through anonymity and high-speed communication
 
-### New music history starting from the server
+### A new music history starting from the server
 
 In the past, music scenes were formed in each city.
 London had punk, Detroit had techno, Seattle had grunge.
@@ -43,7 +43,7 @@ Young artists found allies solely on Discord servers, sent beats to each other, 
 This is not just a technological innovation.
 It was a structural change in the music community itself.
 
-> Discord has changed from being a "conversation tool" to a huge cultural device that generates underground music in the 2020s.
+> Discord has changed from being a "conversation tool" to a huge cultural device that generates underground music for the 2020s.
 
 <style type="text/css">
 
@@ -66,7 +66,7 @@ color: #fff;
 
 To understand the Discord community, we need to look back at the internet music culture that preceded it.
 
-In the early 2000s, message boards and forums were at the heart of the music community.
+In the early 2000s, message boards and forums were the heart of the music community.
 Many music creators interacted in text-based spaces such as 4chan, Something Awful, Reddit, Hip Hop Forums, and KVR Audio.
 
 Then, with the advent of MySpace, music and social media merged.
@@ -124,11 +124,11 @@ This sense of speed was incomparable to traditional music production environment
 Anonymity was also important.
 
 In an environment where real names and backgrounds are not required, ""sound'' becomes a criterion for evaluation rather than age or nationality.
-It's no longer uncommon for teenage creators to find listeners all over the world.
+It's no longer rare for teenage creators to find listeners all over the world.
 
 ### Small cultural area formed by each server
 
-In Discord, each server has its own unique culture.
+On Discord, each server has its own unique culture.
 
 Distorted 808s are prevalent on one server, while ambient vocal processing is shared on another.
 Each server had its own aesthetic, including memes, tone, artwork, and even font feel.
@@ -187,7 +187,7 @@ Excessive processing.
 irony.
 Internet slang.
 
-Music was not only something to listen to, but also material to be shared.
+Music was not only ""something to listen to," but also ""material to be shared."
 Connection with TikTok will also be important here.
 
 Music created on Discord is spread on TikTok and fed back to Discord.
@@ -207,7 +207,7 @@ Rather, it functioned as a shared atmosphere within the Discord community.
 
 In other words, genre was not ""strict music theory," but ""what a community calls itself."
 
-> Genres in the Discord era were shaped more by community empathy than by music theory.
+> In the Discord era, genres were shaped more by community empathy than by music theory.
 
 ---
 
@@ -238,7 +238,7 @@ Producers, vocalists, art staff, and video staff collaborate fluidly.
 
 This structure differs from traditional "fixed bands."
 
-Rather, it's closer to hip-hop crews and anonymous bulletin board culture in the internet age.
+Rather, it's closer to hip-hop crews and anonymous bulletin board culture in the Internet era.
 Members changed frequently and project names were in flux.
 
 ### Connection with TikTok
@@ -276,7 +276,7 @@ Collaborative coordination.
 Visual sharing.
 Promotion.
 
-These things are now being done within the community.
+These activities began to take place within the community.
 
 ### Tutorial Culture
 
@@ -294,13 +294,13 @@ This further democratized music production.
 
 On the other hand, there were gray areas such as plug-in sharing and unofficial sample distribution.
 
-Particularly in communities with many young creators, access to expensive software was often not possible.
+Particularly in communities with many young creators, access to expensive software was often lacking.
 
 As a result, a production environment was sometimes created that was an extension of the piracy culture that had continued since the early days of the Internet.
 
 This is also the complicated reality of online music culture.
 
-> The DIY spirit of the Discord era expanded to include both technology sharing and informal culture.
+> The DIY ethos of the Discord era expanded to include both technology sharing and informal culture.
 
 ---
 
@@ -398,7 +398,7 @@ This cycle has led to extremely rapid trend formation.
 
 Spotify's algorithmic recommendations were also important.
 
-More and more small-scale artists are being discovered through playlists.
+More and more small-scale artists are being discovered via playlists.
 As a result, the possibility that artists from the Discord community will be connected to major distribution has increased.
 
 ### Optimization to the algorithm
@@ -411,7 +411,7 @@ Highly stimulating sound image.
 
 These characteristics are closely tied to TikTok and the short video environment.
 
-Algorithmic analysis itself was sometimes a topic of conversation in the Discord community.
+Algorithm analysis itself was sometimes a topic of conversation in the Discord community.
 
 > Music in the Discord era is simultaneously formed by human communities and algorithmic environments.
 
@@ -459,7 +459,7 @@ Listeners have become more connected to "online presence" than "personality."
 
 ### Closedness
 
-The Discord community also has a strong closed nature.
+Discord communities also have a strong sense of insularity.
 
 Invitation-only server.
 Internal meme.
@@ -471,7 +471,7 @@ While these structures strengthen community cohesion, they also raise barriers t
 
 Another characteristic was that trends changed too quickly.
 
-Genres change and trends disappear in a matter of weeks.
+Genres change and trends disappear within a few weeks.
 
 As a result, there has been an increase in cases where producers are becoming exhausted.
 
@@ -590,7 +590,7 @@ Music production.
 
 These are mixed together in the same space.
 
-As a result, music genres no longer stand alone but have become part of the ""online community experience.''
+As a result, music genres no longer stand alone, but have become part of the ""online community experience.''
 
 > The Discord movement has transformed music from a "work" to a "connection space."
 

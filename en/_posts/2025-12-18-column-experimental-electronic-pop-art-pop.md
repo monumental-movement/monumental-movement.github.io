@@ -22,7 +22,7 @@ Text: mmr｜Theme: About the formation and development of experimental electroni
 
 Experimental Electronic Pop/Art Pop is a musical field that has been established by introducing electronic acoustic technology, experimental composition methods, and contemporary artistic thinking while maintaining the format of popular music. The genre tends to be defined more by production attitudes and structural orientation than by sharing a clear musical style.
 
-The term Art Pop has been used as an umbrella concept to refer to the intersection of pop music with art and thought. On the other hand, Experimental Electronic Pop often refers to the practice of structural experimentation within the framework of pop, with a focus on electronic acoustics. The two have developed while overlapping, and since the 2010s they have increasingly been recognized as almost the same field of expression.
+The term Art Pop has been used as a comprehensive concept to refer to the intersection of pop music with art and thought. On the other hand, Experimental Electronic Pop often refers to the practice of structural experimentation within the framework of pop, with a focus on electronic acoustics. The two have developed while overlapping, and since the 2010s they have increasingly been recognized as almost the same field of expression.
 
 ---
 
@@ -50,7 +50,7 @@ In the 1970s, synthesizers became popular, and electronic sounds became establis
 
 ## 3. Development of electroacoustic technology and changes in composition structure
 
-Advances in electroacoustic technology have changed the hierarchical structure of music production. The traditional step-by-step process of composing, performing, and recording is integrated in a DAW environment, allowing composers to directly manipulate the entire sound experience.
+Advances in electroacoustic technology have changed the hierarchical structure of music production. The traditional step-by-step process of composing, performing, and recording is integrated in a DAW environment, allowing composers to directly manipulate the entire acoustic experience.
 
 This change resulted in the following structural features.
 
@@ -58,15 +58,15 @@ This change resulted in the following structural features.
 * Structure based on acoustic units rather than phrase units
 * Incorporating contingencies and errors
 
-Experimental Electronic Pop/Art Pop actively utilizes these characteristics.
+Experimental Electronic Pop / Art Pop actively utilizes these characteristics.
 
 ---
 
 ## 4. Inseparable relationship with visual media
 
-Since the 2010s, musical works have almost inevitably been linked to images. Music videos, live videos, and short videos for social media have changed the very structure of music reception.
+2010年代以降、音楽作品はほぼ必然的に映像と結びつくようになる。ミュージックビデオ、ライブ映像、SNS用の短尺映像は、音楽の受容構造そのものを変化させた。
 
-In the context of Art Pop, the video is not designed as a complement to the song, but as an equivalent component. Sound and video are conceived at the same time, and the work has a structure in which either one alone cannot complete the work.
+In the context of Art Pop, the video is not designed as a complement to the song, but as an equivalent component. Sound and video are conceived at the same time, and the work is structured so that it cannot be completed with either one alone.
 
 ---
 
@@ -80,9 +80,9 @@ Dance and performance are not just performances, but function as devices to visu
 
 ## 6. FKA twigs activity background
 
-FKA twigs is an artist from the UK who engages in music production, dance, and visual expression. Her works have an integrated structure in which songs, videos, and live performances complement each other.
+FKA twigs is an artist from the UK who works across the fields of music production, dance, and visual expression. Her works have an integrated structure in which songs, videos, and live performances complement each other.
 
-Since his early works, he has consistently placed his own body at the center of his expression, and is distinctive in that he treats voice and movement on the same plane.
+初期作品から一貫して、自身の身体を表現の中心に据え、声と動作を同一平面上で扱っている点が特徴的である。
 
 ---
 
@@ -102,7 +102,7 @@ These are methods for presenting the voice as a physical presence.
 
 Rhythm is often composed of intermittent arrangements rather than following a fixed meter. Beats are omitted and silence plays an important role.
 
-Due to this structure, music is perceived as a spatial arrangement rather than a linear time.
+この構造により、音楽は線的時間ではなく、空間的配置として知覚される。
 
 ---
 
@@ -138,7 +138,7 @@ These are used to intentionally disrupt musical continuity.
 
 ## 12. Arca rhythm processing
 
-Rhythm is presented as a physical shock rather than functioning as a beat. The beats are placed in unpredictable positions, eliminating the stability of the groove.
+リズムは拍子として機能するよりも、物理的衝撃として提示される。ビートは予測不能な位置に配置され、グルーヴの安定性は排除される。
 
 This puts the listener in a state of physical tension.
 
@@ -154,7 +154,7 @@ Body representations do not indicate fixed identities, but are presented as ever
 
 ---
 
-## 14. Structural features common to both
+## 14. 両者に共通する構造的特徴
 
 FKA twigs and Arca have in common that they are designed in such a way that sound and video cannot be separated. Both are produced based on the premise of a comprehensive presentation format, rather than a single piece of music.
 
@@ -162,15 +162,15 @@ They also share an attitude of transforming pop music's internal structure while
 
 ---
 
-## 15. Organizing differences
+## 15. 差異点の整理
 
-FKA twigs emphasizes spatiality and delicate acoustic placement, expressing bodily control and tension. Arca, on the other hand, brings to the fore the excessive deformation of sound and the fluidity of body image.
+FKA twigs は、空間性や繊細な音響配置を重視し、身体の制御と緊張を表現する。一方 Arca は、音響の過剰な変形と身体イメージの流動性を前面に出す。
 
-This difference shows the range of expression within the same genre.
+この差異は、同一ジャンル内における表現の幅を示している。
 
 ---
 
-## 16. Genre structure diagram
+## 16. ジャンル構造図
 
 <div class="mermaid">
 flowchart TD
@@ -197,13 +197,13 @@ timeline
 
 ---
 
-## 18. Significance in modern times
+## 18. 現代における意義
 
 Experimental Electronic Pop/Art Pop is positioned as an attempt to reconstruct the form of expression itself while maintaining the audibility of pop music. In this field, music is not limited to an auditory art, but is developed as a complex practice that includes the visual, physical, and technological.
 
 ---
 
-## 19. Summary
+## 19. 総括
 
 This genre is not a fixed style, but a structure that continues to change depending on the production environment and media situation. FKA twigs and Arca are clear examples of this mutability, redefining the relationship between music, images, and the body.
 

@@ -19,9 +19,9 @@ title: '[Column] History and development of Vaportrap/Cloud Rap'
 
 Text: mmr｜Theme: About the genealogy of cloud rap that intersects with Lo-Fi Hip Hop
 
-Cloud Rap arose around 2010, centered around the Bay Area and U.S. Internet Underground, and developed while connecting with post-vaporwave subculture aesthetics, Chopped & Screwed, Lo-Fi Hip-Hop, and modern emo rap. In particular, the activities of **Lil B**, **Clams Casino**, and **Main Attrakionz** symbolized the early days, forming the basis of a lineage that would later lead to **Lil Peep**, **XXXTENTACION**, **Bones**, and **Yung Lean**.
+Cloud Rap arose around 2010, centered around the Bay Area and U.S. Internet Underground, and developed while connecting with post-vaporwave subculture aesthetics, Chopped & Screwed, Lo-Fi Hip-Hop, and modern emo rap. In particular, the activities of **Lil B**, **Clams Casino**, and **Main Attrakionz** symbolized the early days of the band, forming the basis of a lineage that would later lead to **Lil Peep**, **XXXTENTACION**, **Bones**, and **Yung Lean**.
 
-Cloud Rap was far more ambient-oriented than traditional Hip Hop, featuring a more ambient-oriented sound, vocal processing with strong reverb, and dreamy textures with spatial FX, and later evolved into Vaportrap, absorbing electronic music and Vaporwave-like meme culture.
+Cloud Rap was characterized by far more ambient sounds than traditional Hip Hop, vocal processing with strong reverb, and dreamy textures with spatial FX, and as it evolved into Vaportrap, it absorbed electronic music and Vaporwave meme culture.
 
 
 ---
@@ -60,7 +60,7 @@ In the late 2000s, MySpace and DatPiff expanded the mixtape culture of Internet 
 
 ---
 
-Around 2009, Lil B developed a rap style that was highly compatible with Internet culture, and the producers who supported his music formed the prototype of Cloud Rap.
+Around 2009, Lil B developed a rap style that was highly compatible with internet culture, and the group of producers who supported his music formed the prototype of Cloud Rap.
 
 ---
 
@@ -70,7 +70,7 @@ Around 2009, Lil B developed a rap style that was highly compatible with Interne
 
 ---
 
-Clams Casino"s instrumental collection released around 2011 and the music they provided to A$AP Rocky determined Cloud Rap"s sonic image, with its ""misty pads," ""ambient melodies," and ""deep spatial processing.''
+Clams Casino"s instrumental collections released around 2011 and the music they provided to A$AP Rocky determined Cloud Rap"s sonic image, with its ""foggy pads," ""ambient melodies," and ""deep spatial processing.''
 
 ---
 
@@ -150,13 +150,13 @@ In the late 2020s, cloud-like pads and ambient texture generation using diffusio
 
 ### ● Typical beat elements of Vaportrap / Cloud Rap
 
-* **Pad**: Deep reverb synth, ambient chords
+* **パッド**：深いリバーブのシンセ、アンビエント的コード
 * **Drums**: Trap target (808, hi-hat roll, deep kick)
 * **BPM**: 120–150
 * **Vocal processing**: Deeper reverb, Auto-Tune, dub processing
 * **Texture**: 90s/Y2K Culture Quotes
 
-Below is a relationship diagram illustrating the sound structure:
+以下はサウンド構造を図示した関係図：
 
 <div class="mermaid">
 flowchart TD
@@ -183,7 +183,7 @@ timeline
 
 ---
 
-## Conclusion: Where is "cloud rap" headed?
+## 結語：〈雲系ラップ〉はどこへ向かうのか
 
 Cloud Rap is not just a genre, it has become a symbol of post-internet hip-hop production methods, aesthetics, and distribution culture. The fusion with Vaportrap continues to indicate a direction in which music revolves around the online aesthetic sphere rather than the physical context.
 

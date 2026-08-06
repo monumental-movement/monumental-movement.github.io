@@ -16,7 +16,7 @@ title: '[Column] Cyberpunk: Edgerunners — The day the anime brought its song b
 
 
 
-## Case studies where anime works re-emerged existing songs into global hits
+## An example of how an anime work re-emerged an existing song into a global hit
 
 Text: mmr｜Theme: Structural analysis of how anime works resurfaced existing songs into global hits
 
@@ -49,7 +49,7 @@ color: #fff;
 - Original game: Cyberpunk 2077 (released in 2020)
 - Anime distribution start: September 2022
 - Production studio: TRIGGER
-- Distribution platform: Netflix
+- 配信プラットフォーム：Netflix
 - Re-hit song: I Really Want to Stay at Your House
 - Artist: Rosa Walton
 
@@ -153,22 +153,22 @@ This chain is a diffusion model unique to the streaming era.
 ### Anime x existing song re-evaluation model
 
 In recent years, there have been an increasing number of cases in which video works resurface past songs.
-Running Up That Hill once again became a global hit in the Netflix series Stranger Things.
+Running Up That Hill once again became a worldwide hit in the Netflix series Stranger Things.
 
-However, Edgerunners is unique in that it has a three-stage structure in which the in-game songs are reevaluated by the anime.
+However, Edgerunners is unique in that it has a three-stage structure in which the in-game songs are reevaluated based on the anime.
 
 Games → Anime → Streaming re-explosion
 
-This trend has been analyzed as a successful example of a cross-IP strategy.
+This trend is being analyzed as a successful example of a cross-IP strategy.
 
 ### Refocusing on synthwave
 
 The acoustics of the song are based on 1980s synth sounds.
 Due to its affinity with the cyberpunk worldview, interest in the genre itself has increased.
 
-After the anime was distributed, it was also confirmed that related playlists and similar artists were affected.
+After the anime was released, it was also confirmed that related playlists and similar artists were affected.
 
-> It also influenced the re-evaluation of music genres themselves.
+> It also influenced the re-evaluation of the music genre itself.
 
 ---
 

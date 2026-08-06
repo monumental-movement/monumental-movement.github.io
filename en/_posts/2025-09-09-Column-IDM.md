@@ -20,12 +20,12 @@ title: '[Column] From the origins of IDM to the present - Between intellectual e
 
 Text: mmr｜Theme: From the birth of IDM to the present
 
-A labyrinth of sounds that tickles intellectual curiosity - IDM (Intelligent Dance Music) is a genre that was born out of the experimental spirit of techno and ambient music in the early 1990s, going beyond the boundaries of club music and opening up a new realm of ""electronic music for listening.'' Emphasizing complex rhythms, precise acoustic processing, and original sound design over functionality on the dance floor, it embodies the fusion of technology and artistry. This trend continues from pioneers such as Aphex Twin and Autechre to the modern experimental electronic music scene.
+A labyrinth of sounds that tickle intellectual curiosity - IDM (Intelligent Dance Music) was born in the early 1990s out of the experimental spirit of techno and ambient, and is a genre that went beyond the boundaries of club music and opened up a new field of ""electronic music for listening.'' Emphasizing complex rhythms, precise acoustic processing, and original sound design over functionality on the dance floor, it embodies the fusion of technology and artistry. This trend continues from pioneers like Aphex Twin and Autechre to the modern experimental electronic music scene.
 
 ---
 
 ## Early 1990s: Birth - The germ of "dance music for listening"
-At the end of the 1980s, in the midst of the UK rave culture and techno craze, underground labels and artists began to explore ""electronic music for home listening'' rather than just a club tool.
+Amidst the UK rave culture and techno craze of the late 1980s, underground labels and artists began to explore electronic music for home listening, rather than just a club tool.
 The ""Artificial Intelligence" series released by Warp Records in 1992 was a decisive turning point, and the term ""IDM" became popular.
 
 - **Representative masterpiece**
@@ -68,7 +68,7 @@ color: #fff;
 ---
 
 ## Late 1990s: Deepening and complexity
-After interacting with jungle and drum and bass, IDM moved on to rhythmic subdivision and sonic experimentation. Artistic acclaim outside the clubs grew, and it began to be talked about in the context of art schools and galleries.
+After interacting with jungle and drum and bass, IDM progressed to rhythmic subdivision and sonic experimentation. Artistic acclaim outside the clubs grew, and it began to be talked about in the context of art schools and galleries.
 
 - **Representative masterpiece**
 - Aphex Twin – *Richard D. James Album* (1996)
@@ -89,7 +89,7 @@ Hardware synths such as **Nord Lead** and **Access Virus** became popular.
 | 3 | Squarepusher | My Red Hot Car | An innovative blend of jazz and IDM |
 | 4 | μ-Ziq | Brace Yourself Jason | Drill-like development and playfulness |
 | 5 | Boards of Canada | Roygbiv | Nostalgic and warm sound |
-| 6 | Plaid | Abla Eedio | Geometric and pop melody |
+| 6 | Plaid | Abla Eedio | Geometric pop melody |
 | 7 | Bogdan Raczynski | Samurai Math Beats | Intense beat experiment |
 | 8 | Cylob | Cut The Midrange, Drop The Bass | A humorous gem from the Aphex group |
 | 9 | Luke Vibert | I Love Acid | The intersection of IDM and acid |
@@ -98,7 +98,7 @@ Hardware synths such as **Nord Lead** and **Access Virus** became popular.
 ---
 
 ## 2000s: Post-IDM and Crossover
-Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the nature of releases has changed.
+Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the way releases are done has also changed.
 
 - **Representative masterpiece**
 - Boards of Canada – *Geogaddi* (2002)
@@ -107,7 +107,7 @@ Fusing with electronica, post-rock, ambient, etc., it expands to a wider range o
 - Venetian Snares – *Rossz Csillag Alatt Született* (2005)
 
 - **Equipment characteristics**
-Introducing **Ableton Live**, which combines real-time manipulation and production.
+Introducing **Ableton Live**, which combines real-time operation and production.
 Soft synths such as **Reaktor and FM7** have become standard.
 
 ### List of 10 recommended songs (2000s)

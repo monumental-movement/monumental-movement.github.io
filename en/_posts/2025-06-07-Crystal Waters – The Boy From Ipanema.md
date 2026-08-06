@@ -13,7 +13,7 @@ title: Crystal Waters – The Boy From Ipanema
 ---
 
 
-Crystal Waters is an American house and dance music singer-songwriter known for her hit songs "Gypsy Woman" and "100% Pure Love" in the 1990s.
+Crystal Waters is an American house and dance music singer-songwriter known for the 1990s hit songs "Gypsy Woman" and "100% Pure Love."
 
 "The Boy From Ipanema" is a house track released in 1996.
 

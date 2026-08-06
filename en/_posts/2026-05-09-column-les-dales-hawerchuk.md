@@ -17,11 +17,11 @@ title: '[Column] Les Dales Hawerchuk -- A rough and exciting history of Quebec r
 
 ## Who is Les Dales Hawerchuk?
 
-Text: mmr｜Theme: Deciphering the vitality of regional rock through the more than 20-year trajectory of Les Dales Hawerchuk, which was born at the intersection of Quebec regional culture, hockey, and garage rock.
+Text: mmr｜Theme: Deciphering the vitality of local rock through the more than 20-year history of Les Dales Hawerchuk, which was born at the intersection of Quebec local culture, hockey, and garage rock.
 
-Les Dales Hawerchuk is a band that occupies a unique position when discussing Quebec rock since the 2000s.
+2000年代以降のケベック・ロックを語るうえで、Les Dales Hawerchukは独特な位置を占めるバンドである。
 
-They weren't a band aiming for a huge market. Nor did it emerge as sophisticated urban rock. Rather, their appeal lay in the fact that they echoed the flavor of local cities.
+They weren't a band aimed at a huge market. Nor did it emerge as sophisticated urban rock. Rather, their appeal lay in the fact that they echoed the flavor of local cities.
 
 They started their activities in Roberval, Quebec. Located in the Saguenay-Lac-Saint-Jean region, this area is known for its strong local culture. Pride as a French-speaking country, harsh winters, hockey culture, bar culture, and bonding among friends. That atmosphere flowed directly into Les Dales Hawerchuk's music.
 
@@ -53,7 +53,7 @@ With the condition that he not go to jail.
 
 This episode alone conveys their sense of humor and their sense of distance from Quebec culture.
 
-Les Dales Hawerchuk was a band that prioritized the enthusiasm of live music venues over the intellect of so-called indie rock.
+Les Dales Hawerchuk was a band that prioritized live house enthusiasm over so-called indie rock intelligence.
 
 thick guitar.
 
@@ -91,7 +91,7 @@ Explosive garage rock like Galaxie.
 
 Of these, Les Dales Hawerchuk was the rock band that sounded closest to the ""tavern" and ""hockey rink."
 
-In particular, their early works have strong elements of garage rock, rockabilly, and punk rock, and their roughness comes to the fore.
+In particular, their early works have strong elements of garage rock, rockabilly, and punk rock, with a roughness at the forefront.
 
 Their songs don't show off their technique.
 
@@ -127,9 +127,9 @@ He plays instruments in the garage and watches hockey at night.
 
 Les Dales Hawerchuk existed as an extension of this environment.
 
-The initial members included drummer Pierre Fortin and bassist Martin Bergeron.
+Initial members included drummer Pierre Fortin and bassist Martin Bergeron.
 
-Charles Perron later joined, completing a representative lineup.
+Charles Perron later joined the team, completing a typical lineup.
 
 They didn't aim for refinement from the beginning.
 
@@ -153,7 +153,7 @@ He was involved in producing the first three films.
 
 This connection was very important, as Galaxie itself was an icon of Quebec garage rock.
 
-Langevin was able to capture the raw energy of Les Dales Hawerchuk without sacrificing it.
+Langevin was able to capture Les Dales Hawerchuk's raw energy without sacrificing it.
 
 If they were overly trimmed, they would have lost their charm.
 
@@ -278,15 +278,15 @@ Whether in small clubs or at outdoor festivals, their performances had a kind of
 
 The audience is in a state of ""participating" rather than ""listening" to the music.
 
-This is part punk rock, part sports support culture.
+This is both punk rock and sports support culture.
 
 ### Connection with Quebec rock culture
 
-In Quebec in the late 2000s, French rock was evolving on its own.
+In Quebec in the late 2000s, French rock was undergoing a unique evolution.
 
 Although they were influenced by American indie rock, they retained a strong sense of Quebec's unique language.
 
-Among them, Les Dales Hawerchuk particularly emphasized a "local feel".
+Among them, Les Dales Hawerchuk particularly emphasized a ""local feel.''
 
 It smells like sweat, not urban sophistication.
 
@@ -332,7 +332,7 @@ The important thing about Les Dales Hawerchuk is that he wasn't afraid to "sound
 
 This is not a lack of technology.
 
-Rather, it was the antithesis of over-dressed rock.
+Rather, it was the antithesis of overly arranged rock.
 
 Rock is essentially music of impulse.
 
@@ -420,7 +420,7 @@ Still feels like a bar.
 
 However, as he gets older, he becomes more persuasive.
 
-It wasn't just the urge of youth, but also the weight of a band that has been touring live houses for many years.
+It's not just the impulse of youth, but the weight of a band that has been touring live houses for many years.
 
 <div class="mermaid">
 quadrantChart
@@ -526,7 +526,7 @@ Hockey plays a role in strengthening the sense of community in Canadian cities.
 
 Les Dales Hawerchuk was no different.
 
-Their live shows have a "local feel" to them.
+Their live shows have a ""local feel.''
 
 There is an atmosphere of supporting fellow bands, rather than a sense of distance when looking at huge stars.
 
@@ -664,7 +664,7 @@ B->>A: "さらに加速"
 | 2017 | "Désavantage numérique" is a nominee in the rock category |
 | 2025 | Re-evaluation related to "Attaque à cinq" |
 
-> What emerges throughout their discography is that they have consistently maintained the "Les Dales Hawerchuk-ness."
+> Throughout their discography, it is clear that they have consistently maintained the ""Les Dales Hawerchuk-ness.''
 
 ---
 
@@ -768,5 +768,14 @@ This is because the whole atmosphere is ringing.
 
 > Les Dales Hawerchuk is a rock band that continues to carry the energy of Quebec culture to this day.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bn12NqdBfkM?si=RIeQMvth6aIllqRJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

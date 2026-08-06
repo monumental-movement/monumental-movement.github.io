@@ -22,7 +22,7 @@ Text: mmr | Theme: Understanding why ambient music is supported by wealthy peopl
 
 We spend most of our day with "sound."
 
-In the morning, I wake up to an alarm on my smartphone and hear train announcements while commuting. Notifications keep ringing in the office, and short videos and advertisements keep popping up on social media. Even after returning home, the information that can be heard and seen through video streaming services, games, news apps, etc. is continuous.
+I wake up in the morning with an alarm on my smartphone, and hear train announcements while commuting. Notifications keep ringing in the office, and short videos and advertisements keep popping up on social media. Even after returning home, the information that can be heard and seen through video streaming services, games, news apps, etc. is continuous.
 
 Looking back at human history, there has never been a time when we were surrounded by so much information and sound.
 
@@ -32,9 +32,9 @@ In this environment, unexpected genres are increasing their presence around the 
 
 That is ambient music.
 
-This music, which was once often talked about as a branch of experimental music or contemporary music, is now chosen for every aspect of daily life, including work, study, sleep, reading, and meditation.
+This music, which was once often talked about as a branch of experimental music or contemporary music, is now the music of choice in every aspect of daily life, including work, study, sleep, reading, and meditation.
 
-In particular, the spread of music streaming services has greatly supported this trend.
+特に音楽ストリーミングサービスの普及は、この流れを大きく後押しした。
 
 Categories such as "Focus," "Sleep," "Relax," and "Meditation" are standard in many services, with ambient and ambient music at their core. An increasing number of people around the world are using music not as something to listen to, but as something to organize their lives.
 
@@ -42,7 +42,7 @@ What is interesting is its support base.
 
 Occupations that require a high degree of concentration, such as engineers, designers, creators, researchers, and investors working at IT companies, tend to choose quieter music.
 
-Furthermore, at high-end hotels, luxury spas, and luxury brand stores, there are many scenes where ambient music that blends into the space is played rather than loud pop music.
+Furthermore, in many luxury hotels, luxury spas, and luxury brand stores, ambient music that blends into the space is often played rather than loud pop music.
 
 I wonder why?
 
@@ -95,7 +95,7 @@ In the album's liner notes, Eno explains that he aimed for "music that could be 
 
 Conventional music was based on the premise of focusing attention on the performer.
 
-At concerts, we stare at the stage, and at records, we listen to songs.
+At concerts, we stare at the stage, and at records we listen to songs.
 
 But with ambient, it was the opposite.
 
@@ -133,7 +133,7 @@ Don"t interfere with people"s thoughts.
 
 And it is about quietly working on the psychological state of the people there.
 
-That's why ambient music has become accepted not only in concert halls, but also in airports, museums, hotels, offices, homes, and other places.
+That's why ambient has become accepted not only in concert halls, but also in airports, museums, hotels, offices, homes, and everywhere else.
 
 That was the moment when his role expanded from ""music to listen to" to ""sounds that exist in our daily lives."
 
@@ -172,7 +172,7 @@ Architecture has light, furniture, and plants.
 
 By adding "sound" to this, a spatial experience is completed.
 
-This idea resonated with global design ideas rather than being uniquely Japanese, but in Japan it permeated society in a very natural way.
+Although this idea resonated with global design ideas rather than being unique to Japan, it permeated society in a very natural way in Japan.
 
 It is believed that behind this is the aesthetic sense of ""margin" and ""ma" that has existed in Japanese culture since ancient times.
 
@@ -188,7 +188,7 @@ Since ancient times, Japan has cultivated a culture in which ""nothing'' is valu
 
 This aesthetic sense naturally connects with the environmental music of the 1980s.
 
->Japanese environmental music was not so much a new genre as a translation of the sense of ""tranquility'' that existed in Japanese culture into contemporary music.
+>Rather than being a new genre, Japanese environmental music was a translation of the sense of ""tranquility'' that lived in Japanese culture into contemporary music.
 
 ---
 
@@ -200,7 +200,7 @@ Hosono, who has been active in a wide range of fields including rock, pop, elect
 
 Therefore, "space" always exists in his works.
 
-Rather than insisting on a strong melody, the music was characterized by creating sounds that evoked a sense of scenery, atmosphere, and time itself.
+Rather than insisting on a strong melody, their sound creation was characterized by a sense of scenery, atmosphere, and time itself.
 
 In 1984, ""Watering a Flower'' was produced.
 
@@ -248,7 +248,7 @@ His masterpiece ""Music for Nine Post Cards'' depicts the quiet passage of time 
 
 There are no performances that strongly stir emotions.
 
-Instead, there are sounds that evoke the smallest changes in nature, such as light coming in through a window, trees swaying in the wind, and reflections on the water surface.
+Instead, there are sounds that remind us of the smallest changes in nature, such as light coming in through a window, trees swaying in the wind, and reflections on water.
 
 Yoshimura did not try to explain the music.
 
@@ -256,9 +256,9 @@ This left room for the listener to feel the space freely.
 
 This attitude is also reflected in the sound production at museums and galleries.
 
-Rather than enhancing the work, it sets the mood for the entire space.
+Rather than highlighting the work, it sets the tone for the entire space.
 
-The sound becomes part of the atmosphere rather than the main character.
+The sound becomes part of the atmosphere, not the main character.
 
 This way of thinking is similar to current architectural acoustics and sound design.
 
@@ -266,7 +266,7 @@ Since the late 2010s, when his works have been reissued overseas, they have gain
 
 Its popularity, which has spread through streaming services and video distribution, is not just a passing nostalgic hobby.
 
-Precisely because we live in an era filled with so much information, the ""quiet space"' of Hiroshi Yoshimura"s music has been received as a novel value.
+Precisely because we live in an age where there is so much information, the ""quiet margins"' of Hiroshi Yoshimura"s music were accepted as having a fresh value.
 
 > More than 40 years later, the soundscapes drawn by Hiroshi Yoshimura still resonate quietly in the hearts of people living in a digital society.
 
@@ -280,7 +280,7 @@ The turning point came in the late 2010s.
 
 With the release of reissues and compilations by overseas record labels, Japanese environmental music rapidly began to attract attention among music fans in Europe and North America.
 
-There are reasons behind this, not just the resurgence in popularity of analog records.
+There is a reason behind this, not just the resurgence in popularity of analog records.
 
 As remote work has spread around the world and people are spending more time at home, an increasing number of people are looking for music that helps them concentrate and music that fits their daily lives.
 
@@ -290,7 +290,7 @@ Japanese environmental music fit perfectly into this.
 
 Japanese works do not have excessive self-assertion.
 
-The number of sounds is small and quiet, yet somehow warm.
+The number of sounds is small, quiet, yet somehow warm.
 
 It feels urban yet natural.
 
@@ -304,7 +304,7 @@ In this way, Japanese environmental music has acquired a new meaning, not as ""J
 
 Far from being outdated, quiet music has become even more valuable in today's information-rich society.
 
-> The reason that Japanese environmental music has spread around the world is not because it is a masterpiece of the past, but because modern society has finally caught up with its value.
+> The reason Japan's environmental music spread around the world was not because it was a masterpiece of the past, but because modern society had finally caught up with its value.
 
 ---
 
@@ -318,11 +318,11 @@ Lighting, architecture, materials, white space, and "sound" are also considered 
 
 When you think of Apple's product launches, you can clearly see its characteristics.
 
-Loud rock or intense dance music is rarely played continuously.
+Loud rock and intense dance music rarely plays continuously.
 
 Quiet electronic or minimalist sounds are often chosen to complement the images, and are designed to naturally draw attention to the product itself.
 
-The Apple Store has the same philosophy.
+Apple Storeにも同じ思想がある。
 
 An open architecture that makes extensive use of glass.
 
@@ -340,7 +340,7 @@ Since its founding, Apple has incorporated values ​​close to the modern desi
 
 Reduce unnecessary buttons.
 
-Reduce complex operations.
+複雑な操作を減らす。
 
 Reduce the amount of information.
 
@@ -378,7 +378,7 @@ Rather, the focus is on providing an environment where users can calmly interact
 
 As a result, the music played inside the store tends to avoid assertiveness.
 
-Folk music, natural sounds, acoustic instruments, and gentle ambient music are selected to avoid rushing the shopping process.
+The selection includes folk music, natural sounds, acoustic instruments, and gentle, ambient songs to avoid rushing the shopping process.
 
 This is more like a brand philosophy than a sales strategy.
 
@@ -442,7 +442,7 @@ Guests are looking for more than just luxurious decorations.
 
 It is a time to disconnect from the busy daily life and regain oneself.
 
-To achieve this, the sound must not be too assertive.
+To achieve this, the sound must not be too overpowering.
 
 Quiet music gives a sense of security and time to the space.
 
@@ -454,7 +454,7 @@ Quiet music gives a sense of security and time to the space.
 
 Interestingly, luxury brands and luxury spaces have one thing in common.
 
-That is, "the amount of information is small."
+That is, ""the amount of information is small.''
 
 High-end boutiques rarely have products lined up tightly.
 
@@ -482,11 +482,11 @@ In the past, wealth meant having a lot of things.
 
 However, in modern times, we are overflowing with information and sounds.
 
-As a result, ""nothing'' itself became a new value.
+As a result, "nothing" itself became a new value.
 
 Silence is not just silence.
 
-It's a space to think, a time to rest, and an environment where you can return your consciousness to yourself.
+It is a space to think, a time to rest, and an environment in which to return one's consciousness to oneself.
 
 This is why ambient music has an affinity with luxury spaces.
 
@@ -510,7 +510,7 @@ Design your product.
 
 Plan new services.
 
-Unlike simple tasks, these jobs require a high degree of concentration.
+こうした仕事では、単純作業とは異なり、高い集中力を維持することが求められる。
 
 Therefore, great attention has been paid to the sound environment during work.
 
@@ -532,7 +532,7 @@ Especially if you like a song, it's easier to pay attention to the melody and ly
 
 On the other hand, ambient music does not aim to force one's attention towards the music itself.
 
-The sound is present, but not too forward.
+音は存在するが、前へ出過ぎない。
 
 This makes it easier to return attention to the work that should be done.
 
@@ -570,15 +570,15 @@ advertisement.
 
 All of this information is subject to processing by the brain.
 
-Moreover, in modern times, all these things are surging at the same time.
+しかも現代では、それらが同時に押し寄せる。
 
 For example, while you're at work, you receive an email, a chat ringer, and a notification appears on your smartphone.
 
 Even though each stimulus is small, the accumulation of these stimuli causes the brain to constantly switch its attention.
 
-Various studies have pointed out that if this state continues for a long time, the ability to concentrate deteriorates, affecting judgment and creativity.
+この状態が長時間続くと、集中力が低下し、判断力や創造性にも影響を及ぼすことがさまざまな研究で指摘されてきた。
 
-In other words, it's not just our bodies that are tired.
+つまり、私たちが疲れているのは、身体だけではない。
 
 The brain itself becomes fatigued due to stimulation.
 
@@ -588,7 +588,7 @@ By reducing stimulation, the brain does not have to process information as much 
 
 Ambient music is used as one means to achieve this.
 
-When the sound is completely eliminated, some people become more concerned about the sounds around them.
+音が完全になくなると、周囲の物音が逆に気になる人もいる。
 
 Therefore, by having a constant sound that spreads gently, small noises become less noticeable.
 
@@ -690,9 +690,9 @@ Music was an object to be approached as a piece of work.
 
 However, with the spread of streaming services, that relationship has changed significantly.
 
-Music can now be played anytime, anywhere, and it has become important not just what to listen to, but when and in what situations.
+Music can now be played anytime and anywhere, and it has become important not only ""what to listen to" but ""when and in what situations to listen to it."
 
-Symbolizing this change are playlists such as ""Focus," ""Deep Focus," ""Peaceful Piano," ""Sleep," ""Meditation," and ""Relax."
+その変化を象徴しているのが、「Focus」「Deep Focus」「Peaceful Piano」「Sleep」「Meditation」「Relax」といったプレイリストである。
 
 These are not organized around specific artists.
 
@@ -702,15 +702,15 @@ In other words, music's role has expanded from just entertainment to a tool for 
 
 Ambient music was extremely compatible with this change.
 
-This is because music was originally created with the purpose of creating spaces and environments.
+This is because music was originally created for the purpose of creating spaces and environments.
 
-It can be said that the streaming era has moved from an era of listening to a single song to an era of creating a space.
+The streaming era can be said to have moved from an era of listening to a single song to an era of creating a space.
 
 And at the center of it all was ambient.
 
 This trend is not a temporary fad.
 
-Interest in ambient music has also been boosted by the increased need to set up the home as a work or study space due to the establishment of telecommuting and online learning.
+Interest in ambient music has also been boosted by the growing need to set up the home as a work or study space as people work from home and learn online.
 
 Work, study, read, sleep.
 
@@ -722,7 +722,7 @@ The idea of ​​choosing the optimal sound environment for every aspect of lif
 
 ## What wealthy people want is "quiet time"
 
-Now let's go back to the title of the article.
+ここで、記事のタイトルへ戻ろう。
 
 "Why do wealthy people around the world listen to ambient music?"
 
@@ -730,7 +730,7 @@ Of course, not all wealthy people prefer ambient music.
 
 Such generalizations are not true.
 
-However, there is certainly a trend towards a quieter sound environment being valued in luxury hotels, luxury homes, luxury brands, wellness facilities, luxury offices, etc.
+However, there is certainly a trend in luxury hotels, luxury homes, luxury brands, wellness facilities, high-end offices, etc., where quiet acoustic environments are becoming more important.
 
 The reason is simple.
 
@@ -738,15 +738,15 @@ This is because the more affluent people become, the more they begin to value ""
 
 A quiet living environment is rare in the city.
 
-A well-soundproofed house costs a lot of money.
+A house with high soundproofing performance costs a lot of money.
 
 Hotels and restaurants that aren't crowded are kept quiet by high prices.
 
-The widespread use of noise-cancelling headphones also symbolizes an era in which ""quietness'' has become a value.
+ノイズキャンセリングヘッドホンが広く普及したことも、「静けさ」が価値になった時代を象徴している。
 
 Silence is not just a lack of sound.
 
-It"s time to think, it"s time to rest, it's time to face yourself.
+It's a space to think, a space to rest, and a space to face yourself.
 
 That's why brands, architects, hotels, and companies that design spaces treat ""tranquility'' as an important value.
 
@@ -760,7 +760,7 @@ This is because the purpose is to arrange the entire space calmly without interf
 
 ---
 
-## Music is moving into an era where designing the "environment" rather than the "ear"
+## Music is moving into an era where we design the "environment" rather than the "ears"
 
 Music in the 20th century developed through advances in performance and recording technology.
 
@@ -827,10 +827,10 @@ In the future, where information continues to increase, its value will continue 
 | Around 1917 | Erik Satie presents his concept of "Furniture Music" |
 | 1952 | Premiere of John Cage's 4 minutes 33 seconds |
 | 1960s | Minimal music develops |
-| 1978 | Brian Eno's "Music for Airports" announced |
+| 1978 | Brian Eno releases "Music for Airports" |
 | 1980s | Ambient music spreads in Japan |
 | 1982 | Hiroshi Yoshimura "Music for Nine Post Cards" announced |
-| 1980s | Haruomi Hosono explores new possibilities in environmental music and electronic music |
+| 1980s | Haruomi Hosono explores new possibilities of environmental music and electronic music |
 | 2000s | Minimal design and quiet space design spread worldwide |
 | Late 2010s | Japanese environmental music is reevaluated overseas |
 | 2020s | Playlists for concentration, sleep, and meditation are popular on streaming services |
@@ -921,7 +921,7 @@ J
 
 Ambient music is not just experimental music enjoyed by a few enthusiasts.
 
-It has evolved into architecture, design, technology, wellness, and a culture that quietly supports modern life.
+It has evolved into architecture, design, technology, wellness, and a culture that quietly supports modern people's lives.
 
 If the 20th century was an era of increasing sounds, then the 21st century could be called an era of choosing sounds.
 

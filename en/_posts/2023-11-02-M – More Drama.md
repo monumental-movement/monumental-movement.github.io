@@ -14,7 +14,7 @@ title: M – More Drama
 ---
 
 
-"'M' – More Drama" is a techno track by Jeff Mills released under the name "M" on Axis, a techno label founded by Jeff Mills in 1992.
+ 「"M" – More Drama」は、1992年にJeff Mills（ジェフ・ミルズ）が設立したテクノレーベルAxisから「M」名義でリリースしたJeff Millsのテクノトラック。
 
 #### Tracklist
 ```md

@@ -7,17 +7,17 @@ lang: en
 layout: post
 tags:
 - History
-title: '[Column] Enoch Light and Command Records: The lineage of the man and label
-  who created hi-fi culture'
+title: '[Column] Enoch Light and Command Records: The man who created hi-fi culture
+  and the lineage of the label'
 ---
 
 
-## Command Records and "sound design"—what was innovative about it?
+##  Command Records と“音のデザイン”──何が革新的だったのか
 
 Text: mmr | Theme: Carefully traces the history, representative works, related artists, anecdotes, and influence of Enoch Wright, who elevated the "demonstration record" of the stereo era to the level of art, and the company he founded, Command Records, to this day.
 
 
-In the 1950s and 1960s, there was a person among audio enthusiasts who changed their orientation from ""records to be listened to" to ""records to be listened to." Conductor/producer Enoch Light started Command Records, a label pursuing high quality sound, in 1959, and became a symbol of ""hi-fi culture"' with his unique artwork and cutting-edge recording technology. This article summarizes the entire story, including its historical context, representative works, relationship with Tony Mottola, and today"s evaluation.
+In the 1950s and 1960s, there was a person among audio enthusiasts who changed their orientation from ""records to be listened to" to ""records to be listened to." Conductor/producer Enoch Light started Command Records, a label pursuing high sound quality, in 1959, and became a symbol of ""hi-fi culture"' with his unique artwork and cutting-edge recording technology. This article summarizes the entire story, including its historical context, representative works, relationship with Tony Mottola, and today"s evaluation.
 
 ---
 
@@ -35,7 +35,7 @@ color: #fff;
 
 ### "Hi-Fi Lounge/Space Age Pop"
 
-Command Records clearly aimed at the market as an ""audio demonstration record," selecting, arranging, and recording the songs with the highest priority on sound quality. Wright introduced the latest technology such as multi-mic recording and master recording on 35mm film, and practiced production with a strong awareness of the sound field (stereo image). This resulted in a group of albums that emphasized the ""panning effect" and localization of percussion instruments, and established the ""hi-fi lounge/space age pop'' genre, which was different from general pop and jazz.
+Command Records clearly aimed at the ""audio demonstration record'' market, selecting, arranging, and recording songs with top priority on sound quality. Wright introduced the latest technology such as multi-mic recording and master recording on 35mm film, and practiced production with a strong awareness of the sound field (stereo image). This resulted in a group of albums that emphasized the "panning effect" and localization of percussion instruments, and established the genre sense of "hi-fi lounge/space age pop," which was different from general pop and jazz.
 
 ---
 
@@ -63,9 +63,9 @@ The sound quality, which was close to that of a ""demonstration'' version, was w
 <div class="mermaid">
 
 flowchart TD
-    A["1940s: Enoch Light — Big Band/Radio Activities"]
-    B["1955: Grand Award Records established (led by Light)"]
-    C["1959: Establishment of Command Records → Start of Persuasive / Provocative series"]
+    A["1940s: Enoch Light — Big Band/Radio"]
+    B["1955: Grand Award Records 設立（Light が主導）"]
+    C["1959: Command Records founded → Persuasive / Provocative series started"]
     D["1959 (October): Grand Award and Command sold to ABC-Paramount"]
     E["1961: Stereo 35/MM (Carnegie Hall recording) was a big hit"]
     F["1970s: Reduction and termination of Command's activities (effective termination)"]
@@ -77,13 +77,13 @@ flowchart TD
 ---
 
 
-### Representative series and albums
+### 代表的なシリーズとアルバム
 
 Persuasive Percussion series (first published in 1959)
-A series intended to be a "stereo showpiece" with percussion instruments in the foreground. It gained popularity with its song selection and layout that had a strong impact even among outsiders. The jacket graphics and explanation of the gatefold were also innovative at the time.
+打楽器を前面に出した“ステレオの見せ場”を意図したシリーズ。門外漢にもインパクトの強い選曲とレイアウトで人気を博した。ジャケットのグラフィックやゲートフォールドの解説も当時としては斬新。
 
 
-Provocative Percussion Series
+Provocative Percussion シリーズ
 Sister series of Persuasive. Although the concept is similar, some works have been improved on the arrangement and solo presentation, and have achieved high rankings on the Billboard charts.
 
 
@@ -95,7 +95,7 @@ The album was recorded at Carnegie Hall using a 35mm master. It remained at the 
 
 ### Recommended album list by generation
 
-| Year | Album (artist) | Commentary | Link |
+| 年代        |  アルバム（アーティスト） | 解説               | リンク         |
 | --------- | -------------------- | ----------------- | ------------- |
 | 1959 | Persuasive Percussion (Terry Snyder & The All Stars) | First in the series. "Showable recording" that emphasizes the stereo effect.  | [Amazon](https://amzn.to/4pSSAyH) |
 | 1959 | Provocative Percussion (Enoch Light & The Light Brigade) | A masterpiece along with the Persuasive series. Visual aspects such as Josef Albers' artwork are also noteworthy. | [Amazon](https://amzn.to/4gYbFLV) |
@@ -107,9 +107,9 @@ The album was recorded at Carnegie Hall using a 35mm master. It remained at the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Musicians involved/artists produced
+### Musicians involved/produced artists
 
-In addition to conducting himself, Enoch Light used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
+In addition to conducting himself, Enoch Light also used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others and experimented with acoustics.
 
 ---
 
@@ -134,7 +134,7 @@ flowchart TD
   A["Enoch Light<br>Conductor/Producer"] --> B["Command Records<br>1959〜1970s"]
   B --> C["Persuasive Percussion<br>(Terry Snyder & All Stars)"]
   B --> D["Provocative Percussion<br>(Light Brigade)"]
-  B --> E["Tony Mottola Solo Work<br>Roman Guitar Series"]
+  B --> E["Tony Mottola ソロ作品<br>Roman Guitarシリーズ"]
   E --> F["Roman Guitar Vol.1 (1960)"]
   E --> G["Roman Guitar Vol.2 (1961)"]
   E --> H["Roman Guitar Vol.3 (1963)"]
@@ -147,7 +147,7 @@ flowchart TD
 
 American jazz/studio guitarist (1918–2004)
 
-He was active in sessions for the NBC Orchestra and television programs, and was one of New York's busiest guitarists from the 1950s to the 1970s.
+NBCオーケストラやテレビ番組のセッションでも活躍し、1950年代から70年代にかけてニューヨークで最も多忙なギタリストのひとり。
 
 He performs in a wide range of genres, including not only jazz, but also easy listening, Latin, pop, and film music.
 
@@ -155,13 +155,13 @@ He performs in a wide range of genres, including not only jazz, but also easy li
 
 ### Encounter and relationship with Enoch Light
 
-- **Grand Award → Regular guitarist during the Command Records era**
+- **Grand Award → Regular guitarist during the Command Records period**
 
 When Enoch Light founded Grand Award and Command, he assembled New York's top session talent. Among them, the regular guitar player is Tony Mottola.
 
 He also played an important role in the "Persuasive Percussion" and "Provocative Percussion" series.
 
-In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was put to good use.
+ラテン調リズムやステレオ定位の実験において、ギターは“左右に振り分けやすい楽器”として重宝され、Mottolaの柔軟なプレイが活かされました。
 
 - **Solo album release (from Command)**
 
@@ -180,7 +180,7 @@ Mottola was one of the pillars that supported Command's "lounge/easy listening r
 - **Command Records regular guitarist**
 
 He almost always participates in the recordings of the Grand Award~Command established by Light.
-He was responsible for conducting guitar localization experiments in the "Persuasive Percussion" series and other works.
+He was responsible for the guitar localization experiments in the "Persuasive Percussion" series.
 
 - **Solo album release**
 
@@ -205,7 +205,7 @@ Emphasizes the effects of reverb and reverberation processing
 | 1959 | *Persuasive Percussion* | Produce stereo localization with guitar. A symbolic work of the early Command.         | [Amazon](https://amzn.to/4pSSAyH) |
 | 1960 | *Roman Guitar* | Solo debut from Command. Latin/Italian folk songs in high fidelity. | [Amazon](https://amzn.to/4nK0HMz) |
 | 1961 | *Roman Guitar Vol.2* | Sequel to the blockbuster. Exotic song selection.                  | [Amazon](https://amzn.to/46Bdf2Q) |
-| 1963 | *Roman Guitar Vol.3* | Completed series. A monument to lounge/easy listening.          | [Amazon](https://amzn.to/4gSJhLf) |
+| 1963 | *Roman Guitar Vol.3* | Completed series. A monument to lounge easy listening.          | [Amazon](https://amzn.to/4gSJhLf) |
 | 1963 | *Enoch Light Presents Tony Mottola and the Quad Guitars* | An experimental album unique to Command, with overdubbing of four guitars.        | [Discogs](https://www.discogs.com/release/6340847-Tony-Mottola-And-The-Quad-Guitars-Tony-Mottola-And-The-Quad-Guitar) |
 
 ---
@@ -217,11 +217,11 @@ Command Records itself effectively came to an end around 1970, but their works a
 
 ---
 
-### Summary: Legacy of Enoch Light
+### まとめ：Enoch Light の遺産
 
-Enoch Light was a man who not only pursued "good sound" but also designed an object called a record, redefining the "listening experience" in the stereo era. Command Records" works are still being reevaluated today in the context of audio history, design history, and pop culture. Creating the ""surprise'' you feel when you listen to music for the first time is Wright"s true essence, and his works still retain that magical power.
+Enoch Lightは単に“いい音”を追求しただけでなく、レコードという物体をデザインし、ステレオ時代における「聴取体験」を再定義した人物だ。Command Records の諸作は、今日でもオーディオの歴史、デザイン史、そしてポップ・カルチャーの文脈で再評価されている。初めて聴くときの「驚き」を演出すること──それがライトの真骨頂であり、彼の作品は現在でもその魔力を保っている。
 
-Also, the relationship between Enoch Light and Tony Mottola went beyond just "producer and guitarist". Combining Light"s recording aesthetic with Mottola"s flexible and versatile guitar playing, Command Records became a space-age pop icon that continues to captivate audiophiles around the world.
+Also, the relationship between Enoch Light and Tony Mottola went beyond just "producer and guitarist." Combining Light"s recording aesthetic with Mottola"s flexible and versatile guitar playing, Command Records became a space-age pop icon that continues to captivate audiophiles around the world.
 
 ---
 

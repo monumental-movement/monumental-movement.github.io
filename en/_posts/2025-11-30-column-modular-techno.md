@@ -22,9 +22,9 @@ Text: mmr｜Theme: About the Modular Techno scene
 
 **Modular Techno** is an electronic music genre that combines sound design centered on modular synthesizers with the rhythm structure of techno. Particularly in live performances, it is characterized by the artist's ability to improvise sounds and rhythms by patching synth modules and operating CV/Gate in real time.
 
-Although its origins as a genre date back to the early 2000s, its foundational elements are deeply rooted in the emergence of analog modular synths in the 1970s and the formation of Detroit techno in the 1980s. Due to the high degree of freedom of modular synths, it is often possible to develop unique sounds that emphasize the texture and spatial expanse of the sound, rather than simply playing techno tracks.
+Although its origins as a genre date back to the early 2000s, its foundational elements are deeply rooted in the emergence of analog modular synths in the 1970s and the formation of Detroit techno in the 1980s. Due to the high degree of freedom of modular synths, it is often possible to develop unique sounds that emphasize the texture and spatial expanse of the sound, rather than just playing techno tracks.
 
-In his live set, he manipulates rhythm, bass line, percussion, and noise effects in each module to create an improvised musical space that changes. As a result, listeners can experience an experience that is more like ""experiencing a performance" than ""listening to a track."
+In his live set, he manipulates rhythm, bass line, percussion, and noise effects module by module to create a musical space that changes improvisationally. As a result, listeners get an experience that is more like ""experiencing a performance" than ""listening to a track."
 
 
 ---
@@ -60,7 +60,7 @@ graph TD
 
 ## Evolution of modular synths
 
-In the 1990s, analog/digital hybrid modules from Roland, Korg, Doepfer, and others appeared, lowering the barrier to using modular synths and allowing many artists to create experimental sounds in their home studios or small clubs.
+In the 1990s, analog/digital hybrid modules from Roland, Korg, Doepfer, and others appeared, lowering the barrier to entry into modular synths and allowing many artists to create experimental sounds in their home studios or small clubs.
 
 Especially since 1995, the Eurorack standard proposed by Doepfer has made modules compatible and compact, making it easier for individuals to build modular sets. This directly leads to the expansion of the Modular Techno scene from the 2000s onwards.
 
@@ -77,7 +77,7 @@ timeline
 
 In the early 2000s, artists who made full use of modular synths began to attract attention in the club scene mainly in Berlin. Surgeon, Ø [Phase], SNTS, and others created unique textures with their live sets that combined analog modules, providing an experience different from traditional techno clubs. Performances at Berlin clubs such as Berghain and Sisyphos are recognized as emblematic events for Modular Techno.
 
-In addition, the publication of performance videos on online communities, forums, and YouTube greatly contributed to the worldwide spread. This led to an active exchange of information on modular synth technology and setups, accelerating the maturation of the scene as a whole.
+また、オンラインコミュニティやフォーラム、YouTubeでのパフォーマンス動画の公開も、世界的な拡散に大きく寄与した。これにより、モジュラーシンセの技術やセットアップの情報交換が活発化し、シーン全体の成熟が加速した。
 
 <div class="mermaid">
 graph LR
@@ -104,19 +104,19 @@ British-born Surgeon is known as one of the first artists to introduce modular s
 
 ## Richie Hawtin
 
-Richie Hawtin, who has been deeply involved in both Detroit techno and minimal techno, has also incorporated modular synths into his performances since the 2010s. His set is a composite of mixers, effects, computers, and Eurorack modules, and by finely manipulating the sonic dynamics, he creates a more fluid structure than traditional minimal techno.
+デトロイトテクノとミニマルテクノの双方に深く関与してきたRichie Hawtinも、2010年代以降のライブにおいてモジュラーシンセを組み込んだパフォーマンスを展開した。彼のセットはミキサー、エフェクター、コンピュータ、そしてEurorackモジュールの複合構成となっており、音響のダイナミクスを細かく操作することで、従来のミニマルテクノよりも流動的な構造をつくり出した。
 
 ## SNTS
 
-SNTS, known as a highly anonymous artist, has a strong presence in the areas of dark techno and industrial techno. In his live set, he makes full use of analog saturation, distortion modules, noise sources, etc. to create a three-dimensional and violent acoustic space. That sound gained many followers and had a strong influence on the texture of bass lines and kicks.
+Known as a highly anonymous artist, SNTS has a strong presence in the areas of dark techno and industrial techno. In his live set, he makes full use of analog saturation, distortion modules, noise sources, etc. to create a three-dimensional and violent acoustic space. That sound gained many followers and had a strong influence on the texture of bass lines and kicks.
 
 ---
 
-## Artist and equipment mapping
+## アーティストと機材のマッピング
 
 <div class="mermaid">
 graph TD
-    Surgeon --> Eurorack[Eurorack-centered live set]
+    Surgeon --> Eurorack[Eurorack中心のライブセット]
     ØPhase --> PhaseMod[Complex phase modulation approach]
     RichieHawtin --> HybridSet[hybrid live system]
     SNTS --> NoiseStack[Noise/distortion configuration]
@@ -136,13 +136,13 @@ A major feature of the Eurorack standard is that modules from various manufactur
 
 ## Role of sequencer and CV/Gate
 
-Rhythm and groove play a central role in techno. A modular sequencer controls changes in pitch and filtering by changing the CV value for each step, and also plays the role of a rhythm machine. Furthermore, by synchronizing multiple modules using CV/Gate, it is possible to generate beats that include complex polyrhythms and randomness.
+テクノにおいてリズムとグルーヴは中心的役割を担う。モジュラーにおけるシーケンサーは、ステップごとにCV値を変化させることでピッチやフィルタリングの変化を制御し、リズムマシン的な役割も果たす。また、CV/Gateによって複数モジュールを同期させ、複雑なポリリズムやランダム性を内包したビートを生成することが可能である。
 
 In particular, Modular Techno makes heavy use of the sequencer's randomization function and stochastic sequence generation. This creates an organic rhythm that is constantly undergoing subtle changes, rather than a fixed loop.
 
 ## Utilize filters, effects, and noise modules
 
-Modular synths have a wide variety of filters and envelopes, which greatly contribute to the tonal design of techno. Effect modules such as a VCF with sour resonance, a wavefolder that creates a complex overtone structure, distortion and a bit crusher support the unique texture of Modular Techno.
+Modular synths have a wide variety of filters and envelopes, which greatly contribute to the tonal design of techno. Effect modules such as a VCF with sour resonance, a wavefolder that creates a complex harmonic structure, distortion and a bit crusher support the unique texture of Modular Techno.
 
 Noise sources and random generators are also used in techno to strengthen the attack component and create ambient sound textures, creating accidental fluctuations in the rhythm.
 
@@ -175,11 +175,11 @@ This real-time nature is at the heart of Modular Techno's appeal.
 
 # Scene and Culture
 
-The development of the Modular Techno scene is not only influenced by musical factors, but also by club culture, the DIY spirit, and the development of the equipment community. Particularly since the 2000s, in electronic music cities such as Berlin, London, and Barcelona, ​​performance events and workshops centering on modular synths have been held frequently, allowing artists and audiences to share techniques and aesthetics with the same enthusiasm.
+The development of the Modular Techno scene is not only influenced by musical factors, but also by club culture, the DIY spirit, and the development of the equipment community. Particularly since the 2000s, electronic music cities such as Berlin, London, and Barcelona have frequently held performance events and workshops centered around modular synths, where artists and audiences share technology and aesthetics with the same enthusiasm.
 
 ## Connection with club culture centered around Berlin
 
-Berlin has served not only as an international hub for techno, but also as a testing ground for modular synth culture. Clubs such as Berghain, Tresor and Griessmuehle introduced a new performance format into the context of club culture, featuring modular artists in the framework of ""electroacoustic live'', which differed from DJ sets.
+Berlin has served not only as an international hub for techno, but also as a testing ground for modular synth culture. Clubs such as Berghain, Tresor and Griessmuehle introduced a new performance form into the context of club culture, featuring modular artists in the framework of ""electroacoustic live'', which differed from DJ sets.
 
 Additionally, Superbooth (a synthesizer exhibition held annually in Berlin) plays a decisive role in the development of modular culture. By bringing together numerous manufacturers, artists, and creators and directly sharing technical information and sound creation know-how, Modular Techno's sonic sophistication progressed rapidly.
 
@@ -193,7 +193,7 @@ graph LR
 
 ## Spread of DIY/maker culture
 
-The spread of the Eurorack standard has created an environment in which the number of manufacturers has increased and a variety of sound source and effect modules have been developed. A number of cutting-edge manufacturers have emerged, including Mutable Instruments, Make Noise, Intellijel, and ALM Busy Circuits, allowing artists to build systems that suit their musical needs.
+The spread of the Eurorack standard has created an environment in which the number of manufacturers has increased and a variety of sound source and effect modules have been developed. A number of cutting-edge manufacturers, including Mutable Instruments, Make Noise, Intellijel, and ALM Busy Circuits, have emerged, allowing artists to build systems that suit their musical needs.
 
 This "build-your-own culture" matches the DIY spirit of techno, and is a factor in the formation of completely different sonic aesthetics for each artist.
 
@@ -225,7 +225,7 @@ By mixing these with the kick and bass line, a strong sense of density and subst
 
 ## 3. "Fluidity" of structure
 
-Modular Techno often takes an approach closer to "sound sculpture," in which the state of the sound continues to change slowly, rather than the traditional 16-bar development.
+Modular Techno often takes an approach closer to "sound sculpture," in which the state of the sound changes slowly, rather than the traditional 16-bar development.
 
 The layers of rhythm → texture → noise → bass transition smoothly over time. This structure also enhances connectivity with Ambient Techno, Drone, and Industrial.
 
@@ -265,11 +265,11 @@ In the early days, Modular Techno was considered too experimental and not suitab
 - In the live report, the improvisational and physical performance was highlighted.
 - From a producer's perspective, it attracted a lot of interest as a new production method, and the number of teaching materials and courses increased.
 
-The shift from ""track reproduction" to ""sound generation" has also influenced the performance theory of electronic music.
+The shift from ""track reproduction" to ""sound generation" also influenced the performance theory of electronic music.
 
 ---
 
-# Future outlook
+# Future prospects
 
 Modular Techno is expected to continue to evolve, and several directions are expected.
 
@@ -277,7 +277,7 @@ Modular Techno is expected to continue to evolve, and several directions are exp
 Advances in DSP technology have led to an increase in digital modules equipped with physical modeling, particle synthesis, and complex FM algorithms. This makes it possible to handle acoustic expressions that were previously impossible in real time.
 
 ## 2. Generalization of hybrid live
-The configuration of modular + PC (Ableton, Bitwig) + drum machine will become even more common, and the boundaries between traditional club sets and live performances will become blurred.
+The configuration of modular + PC (Ableton, Bitwig) + drum machine will become even more common, and the boundaries between traditional club sets and live performance will become blurred.
 
 ## 3. Deepening community culture
 The community is maturing both online and offline, with module sharing, live patch releases, and an increase in educational content.
@@ -308,7 +308,7 @@ At the root of this is the most fundamental joy in electronic music: ""manipulat
 
 ---
 
-# Detailed equipment list (Modular Techno frequently used modules)
+# Detailed equipment list (often used modules in Modular Techno)
 
 The following is a compilation of equipment categories often used by actual Modular Techno artists, with a focus on Eurorack.
 
@@ -382,7 +382,7 @@ While developing techno with a strong industrial/EBM tone, he also introduces di
 
 ## Rødhåd
 
-Known as a techno artist from Berlin, he has revealed in public interviews that he makes extensive use of modular synths in his studio production. Especially when creating the textures of deep techno/dub techno, he emphasizes the randomness and texture of analog modules.
+Known as a techno artist from Berlin, he has revealed in public interviews that he makes extensive use of modular synths in his studio production. Especially when creating the textures of deep techno/dub techno, he places emphasis on the randomness and texture of analog modules.
 
 ---
 

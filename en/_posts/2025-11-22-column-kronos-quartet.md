@@ -23,7 +23,7 @@ Text: mmr｜Theme: Performance styles that are not bound by the traditional fram
 
 The Kronos Quartet is a string quartet formed in San Francisco in 1973. The founding members were classically trained musicians, including David Harris (violin), John Schneider (viola), and Hank Douglas (cello).
 
-Since its formation, Kronos Quartet has explored a wide range of genres, including contemporary music, world music, film music, and even pop. Their music goes beyond traditional string quartets and is known for their innovative performance techniques and innovative repertoire selections.
+Since its formation, Kronos Quartet has explored a wide range of genres, including contemporary music, world music, film music, and even pop. Their music goes beyond traditional string quartets and is known for innovative performance techniques and innovative repertoire selections.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4I-GGTCV0K0?si=9rxVeyJ-BeoCQL0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -43,11 +43,11 @@ color: #fff;
 </style>
 
 
-## 2. From formation to early activities (1973–1980s)
+## 2. Formation and early activities (1973–1980s)
 
-Since its inception in San Francisco, the Kronos Quartet has been exploring a performance style outside of the traditional framework of classical music. Founder David Harris studied classical music at the University of California, Berkeley, and then became active in the San Francisco music scene, forming a quartet with like-minded friends.
+Since its inception in San Francisco, the Kronos Quartet has been exploring a performance style that is outside of the traditional framework of classical music. Founder David Harris studied classical music at the University of California, Berkeley, and then became active in the San Francisco music scene, forming a quartet with like-minded friends.
 
-In addition to baroque and classical works, the early repertoire included new works by contemporary composers. Their debut album, ""Kronos Quartet,'' released in 1976, was highly praised by critics for its combination of the esoteric nature of contemporary music and the high level of performance technique. During this period, they performed throughout the United States, mainly in San Francisco, and built a reputation as an innovative quartet.
+In addition to baroque and classical works, the early repertoire included new works by contemporary composers. Their debut album, ""Kronos Quartet,'' released in 1976, was highly acclaimed by critics for its combination of difficult contemporary music and high performance technique. During this period, they performed throughout the United States, mainly in San Francisco, and built a reputation as an innovative quartet.
 
 ### Major albums (early)
 
@@ -58,9 +58,9 @@ In addition to baroque and classical works, the early repertoire included new wo
 
 ## 3. Challenge to modern music (1980s–1990s)
 
-In the 1980s, the Kronos Quartet became an important presence in the American contemporary music world. The Kronos Quartet began collaborating with contemporary music masters such as Philip Glass, Steve Reich, and Terry Riley, and through performing and recording their works, the Kronos Quartet gained worldwide acclaim.
+In the 1980s, the Kronos Quartet became an important presence in contemporary American music. The Kronos Quartet began collaborating with contemporary music masters such as Philip Glass, Steve Reich, and Terry Riley, and through performing and recording their works, the Kronos Quartet gained worldwide acclaim.
 
-This period was characterized by **innovations in performance techniques**. In addition to traditional playing techniques for string instruments, studio work has increased, using electronics, introducing rhythms and scales from non-Western music, and making full use of sampling and multi-track recording.
+This period was characterized by **innovations in performance techniques**. In addition to traditional playing techniques for stringed instruments, studio work has increased, using electronics, introducing rhythms and scales from non-Western music, and making full use of sampling and multi-track recording.
 
 ### Major albums (contemporary music period)
 
@@ -73,7 +73,7 @@ This period was characterized by **innovations in performance techniques**. In a
 
 From the 1990s to the 2000s, the Kronos Quartet began to move beyond the boundaries of classical music, merging with genres such as world music, pop, film music, and jazz.
 
-Innovation in film music is particularly notable with the film ""Requiem for a Dream" released in 2000. Composed by Clint Mansell, performed by Kronos Quartet. The string quartet"s ""Lux Aeterna" and other pieces were overwhelmingly effective in their repetitive motive, building tension, and amplifying emotion, all of which are linked to the film"s psychological portrayal.
+Innovation in film music is particularly notable with the film ""Requiem for a Dream" released in 2000. Composed by Clint Mansell, performed by Kronos Quartet. The string quartet"s ""Lux Aeterna" and other songs were overwhelmingly effective in their repetitive motive, building tension, and amplifying emotion, all of which are linked to the film"s psychological portrayal.
 
 ### Movie Soundtrack Features
 
@@ -87,7 +87,7 @@ Innovation in film music is particularly notable with the film ""Requiem for a D
 
 * Applying minimal music techniques to film music
 * Frequent use of detailed articulations (staccato, spiccato, portamento)
-* Achieves a thicker sound image by overlapping multi-track recording.
+* Achieves a thick sound image by overlapping multi-track recording.
 
 ---
 
@@ -122,7 +122,7 @@ Innovation in film music is particularly notable with the film ""Requiem for a D
 
 ---
 
-### Integrate film music into chronology
+### Integrating film music into the timeline
 
 
 <div class="mermaid">
@@ -165,7 +165,7 @@ In addition to performing, the Kronos Quartet also focuses on educational and so
 
 * **Workshop/Educational Program**: Guidance at universities and music schools, training of young musicians.
 * **Cultural exchange activities**: Concerts around the world, joint performances with local musicians.
-* **Works dealing with social themes**: Production of musical works related to conflict, environmental issues, and human rights.
+* **Works dealing with social themes**: Production of musical works related to conflicts, environmental issues, and human rights.
 
 Their latest album further deepens their collaboration with traditional music, combining technically advanced recording and performance.
 
@@ -206,7 +206,7 @@ graph TD
 
 ## 8. Summary
 
-Kronos Quartet has greatly expanded the possibilities of string quartets through activities that cross genres, not just classical music, but contemporary music, world music, pop music, and film music. Their innovation is not only reflected in their high level of performance technique, but also in their challenge of multicultural and social themes.
+The Kronos Quartet has greatly expanded the possibilities of string quartets through activities that go beyond classical music to include contemporary music, world music, pop music, and film music. Their innovation is not only reflected in their high level of performance technique, but also in their challenge of multicultural and social themes.
 
 Nearly half a century after its founding, the Kronos Quartet continues to influence musicians, composers, and audiences around the world, and ranks as one of the most important string quartets in contemporary music.
 

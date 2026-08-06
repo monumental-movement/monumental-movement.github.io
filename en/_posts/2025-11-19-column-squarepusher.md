@@ -49,7 +49,7 @@ He received a classical jazz education and mastered complex rhythms and chords.
 ### 2.2 Influence of jazz fusion
 
 - Jaco Pastorius: polyphonic bass, improvisation
-- Weather Report: Complex Rhythms
+- Weather Report: Complex Rhythm
 - ELP: Electronic sound and live fusion
 
 ### 2.3 Encounter with electronic music

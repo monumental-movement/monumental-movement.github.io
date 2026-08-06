@@ -11,7 +11,7 @@ tags:
 - Ambient
 - Techno
 - Dub
-title: '[Column] The birth of DUB music and the expanded universe - a revolution that
+title: '[Column] The birth of DUB music and the expanded universe - A revolution that
   began with the reconstruction of acoustics'
 ---
 
@@ -55,7 +55,7 @@ color: #fff;
 ## Chapter 1: Nights in Kingston - The birth of sound system culture
 
 In the late 1950s and early 1960s, sound systems (mobile DJ equipment) on street corners were popular in Jamaica.
-It was a center of entertainment for people. Ska, rocksteady, and reggae played from giant speakers.
+It was a center of entertainment for people. Ska, rocksteady, and reggae playing from giant speakers.
 Competing for this is a group of DJs called **Sound Crew**.
 
 In the recording studio, an instrumental track is recorded as the **B-side (Version)** of a popular song.
@@ -115,7 +115,7 @@ In this vein, **On-U Sound** led by **Adrian Sherwood** appeared.
 He combines the chaos of Perry with the sophistication of Tubby,
 They created a more industrial and abstract ""UK dub.''
 
-Works such as **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
+Works such as **African Head Charge**, **Dub Syndicate**, **New Age Steppers** are
 It will be a place where Jamaican spiritual roots and European post-punk spirit intersect.
 
 Around the same time, **Mad Professor**'s **Ariwa Studio** also opened in south London.
@@ -126,7 +126,7 @@ His Dub Me Crazy series was a sonic adventure between technology and fantasy.
 ## Chapter 5: Techno, Ambient, and Modern "DUB Thinking"
 
 Since the 1990s, dub's influences have been **techno, ambient, drum and bass**,
-Furthermore, it has also permeated **hip-hop remix culture**.
+It also permeates **hip-hop remix culture**.
 
 In Berlin, **Basic Channel (Moritz von Oswald & Mark Ernestus)** appears.
 They spatially processed rhythmic particles and established **dub techno**.
@@ -149,7 +149,7 @@ It is the aesthetics of lack and the idea of ​​reproduction.
 - Use technology as "improvisational expression".
 - Redefining "original" in the process of reproduction.
 
-This kind of dub-like thinking is also common to modern **AI music generation** and **remix culture**.
+This kind of dub-like thinking also applies to modern AI music generation and remix culture.
 The act of "editing" and "recomposing" the sound itself is
 It is the basis of creative acts in the 21st century.
 

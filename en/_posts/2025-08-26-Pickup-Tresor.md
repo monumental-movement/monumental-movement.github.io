@@ -147,7 +147,7 @@ Attractive point: Covers a wide range of styles such as dub techno and ambient, 
 ### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-Summary: Tresor's early compilation work released in 1992. It is a condensed content packed with songs by a variety of artists from sides A to D.
+Summary: Tresor's early compilation work released in 1992. It is a condensed content packed with songs by various artists from A side to D side.
 
 
 Attractive point: As the title suggests, "Klang Der Familie" (Sounds of the Family), this is a historical masterpiece that gives a realistic feel to the formative period of Berlin's techno culture. Especially recommended for analog fans.
@@ -182,7 +182,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 Summary: A full-length album released in 2001 by Japanese hard techno DJ/producer DJ Shufflemaster (Tatsuya Kanamori). It is known as a masterpiece released by Tresor.
 
 
-Attractive point: The deep hard techno sound and detailed composition are attractive. He has received high praise internationally and is a valuable Japanese artist who has spread around the world through his relationship with Tresor.
+Attractive point: The deep hard techno sound and detailed composition are attractive. He has received high praise internationally, and is a valuable Japanese artist who has spread around the world through his relationship with Tresor.
 
 #### Tracklist
 ```md

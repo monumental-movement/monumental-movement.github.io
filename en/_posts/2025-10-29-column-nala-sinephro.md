@@ -19,8 +19,8 @@ title: '[Column] Nala Sinephro - Sound Breathing and Cosmic Silence: The Current
 
 Text: mmr｜Theme: Jazz is not about technique or genre expansion, but about the fundamental question of what sound can bring to humans.
 
-When we first come into contact with Nala Sinephro's music, we are forced to let go of the concept of a "song."
-His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation as if it were breathing.
+When we first hear Nala Sinephro's music, we are forced to let go of the concept of a "song."
+His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation, as if it were breathing.
 
 Harp, tenor saxophone, modular synthesizer, and space itself.
 Nala's music depicts the moment when the sound itself becomes a "spiritual environment."
@@ -49,12 +49,12 @@ Sons of Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd, and others have esta
 
 She has St. Lucian and Belgian roots and studied classical and electronic acoustics simultaneously.
 Through a session at London's jazz club "Total Refreshment Centre",
-He has formed a unique sonic language that freely moves between harp and modular synth.
+ハープとモジュラー・シンセを自在に行き来する独自の音語を形成していく。
 
 > "Sound is like particles in the air to me."
 > ― Nala Sinephro
 
-As she says, the sound is layered as "grains" and refracts time like light.
+As she says, the sound is made up of layers of "particles" and refracts time like light.
 
 ---
 
@@ -126,7 +126,7 @@ Music like Nala appeared not as "healing" but as a form of resistance.
 "Silence" is not just a rest.
 It is also the politics of self-care, in which one regains one's own rhythm against the hustle and bustle of the world.
 
-Listening to her music is an act of returning to one's inner self.
+Listening to her music is an act of going back inside yourself.
 At the same time, it is also a declaration of slowness in response to the speed of society.
 
 ---
@@ -135,7 +135,7 @@ At the same time, it is also a declaration of slowness in response to the speed 
 
 | Year | Events |
 |----|--------|
-| 1998 | Born as a Belgian of St. Lucian descent |
+| 1998 | Born as a Belgian of Saint Lucian descent |
 | 2015 | Moved to London and started working in the jazz scene |
 | 2018 | Join Total Refreshment Center and start improvisational sessions |
 | 2021 | "Space 1.8" released from Warp Records |
@@ -144,7 +144,7 @@ At the same time, it is also a declaration of slowness in response to the speed 
 
 ---
 
-## Illustration: Genealogy of Ambient Jazz (Mermaid)
+## Illustration: Genealogy of ambient jazz (Mermaid)
 
 <div class="mermaid">
 

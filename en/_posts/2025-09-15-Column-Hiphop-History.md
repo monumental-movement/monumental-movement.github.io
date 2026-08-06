@@ -17,10 +17,10 @@ title: '[Column] History of US Hip Hop: Overall picture including regions, clubs
 
 ## History of American hip-hop: Overall picture including regions, clubs, media, equipment, etc.
 
-Text: mmr｜Theme: About hip-hop, where different styles have been formed in each region of the United States
+Text: mmr｜Theme: About hip-hop, where different styles have been formed in each region in the United States
 
-Hip-hop was born in the Bronx, New York in the late 1970s, and has developed into more than just a music genre, it has also become a culture linked to dance, graffiti, fashion, and social movements.
-In America, different styles were formed in each region, and development was supported by the club scene, radio, demo tapes, and record culture. Additionally, the development of sampling technology and the subsequent trend toward de-sampling symbolized musical innovation in hip-hop.
+Hip hop was born in the Bronx, New York in the late 1970s, and has developed into more than just a music genre, it has also become a culture linked to dance, graffiti, fashion, and social movements.
+In the United States, different styles were formed in each region, and development was supported by the club scene, radio, demo tapes, and record culture. Additionally, the development of sampling technology and the subsequent trend toward de-sampling symbolized musical innovation in hip-hop.
 
 ---
 
@@ -49,7 +49,7 @@ Clubs and block parties were more than just music venues; they were a symbol of 
 At the time, hip-hop was popularized through radio programs (e.g. WBLS's "The Show"), and demo tapes were an important means of discovering artists.
 DJ Kool Herc and Afrika Bambaataa played their mixtapes on local radio and at parties, helping to spread the word.
 
-### Representative masterpieces
+### Representative masterpiece
 
 [The Sugarhill Gang"Rapper's Delight"(1979)](https://amzn.to/4ngQIOx)
 
@@ -72,7 +72,7 @@ A unique G-funk style was honed in the clubs and rolling parties of the West Coa
 ### Role of demo tapes and radio
 The new song was aired on local radio stations (KDAY, KMEL), and young people who listened to the demo tape spread it by word of mouth. In particular, local radio DJs acted as referees of the scene.
 
-### Representative masterpieces
+### Representative masterpiece
 
 [Run-D.M.C. "Raising Hell" (1986)](https://amzn.to/3IBasNE)
 
@@ -91,7 +91,7 @@ Extract phrases from soul, funk, and jazz records using a sampler (Akai MPC60/SP
 
 ### East Coast vs West Coast
 Regional tensions influence music, as exemplified by the conflict between The Notorious B.I.G. and 2Pac.
-New York clubs (Tunnel, Limelight) became places for rap battles and the premiere of new releases, fostering a rap battle culture.
+New York clubs (Tunnel, Limelight) became venues for rap battles and the premiere of new releases, fostering a rap battle culture.
 
 ### South (Atlanta, Houston, New Orleans)
 OutKast and UGK emerged and established their own unique sound. Tape distribution in clubs supported the spread of regional hip-hop.
@@ -100,7 +100,7 @@ OutKast and UGK emerged and established their own unique sound. Tape distributio
 Due to copyright issues and rising costs, an increasing number of artists are turning to original sound source production and live performance.
 Dr. Dre's ""The Chronic'' (1992) skillfully uses sampling, while G-funk uses a lot of synths and original bass lines.
 
-### Representative masterpieces
+### Representative masterpiece
 
 **East Coast**: [The Notorious B.I.G. "Ready to Die" (1994)](https://amzn.to/3K94fcv)
 
@@ -117,10 +117,10 @@ DJ sets evolved at clubs in New York and LA. In an era before radio and streamin
 Before demo tapes and the Internet, rap battles were centered around clubs.
 
 De-sampling and equipment changes
-With the spread of DAWs (Pro Tools, Ableton Live), it is now possible to create original sound sources using synths and plug-ins without relying on sampling.
+With the spread of DAWs (Pro Tools, Ableton Live), it is now possible to create unique sound sources using synths and plug-ins without relying on sampling.
 This increases the proportion of original beats.
 
-### Representative masterpieces
+### Representative masterpiece
 
 [Jay-Z "The Blueprint" (2001)](https://amzn.to/4pC13WW)
 
@@ -142,7 +142,7 @@ DAW (Ableton Live, FL Studio)
 
 Expanding the use of plugins and sample packs
 
-### Representative masterpieces
+### Representative masterpiece
 
 [Kendrick Lamar "good kid, m.A.A.d city" (2012)](https://amzn.to/4pCB4yv)
 
@@ -156,7 +156,7 @@ Expanding the use of plugins and sample packs
 
 **West Coast**: Gangsta rap, G-funk, rolling parties in the clubs
 
-**Southern part**: Trap, tape distribution, unique sense of rhythm
+**Southern**: Trap, tape distribution, unique sense of rhythm
 
 **Clubs and radio**: A place for dissemination and dissemination, a hotbed of freestyle culture
 
@@ -181,9 +181,9 @@ Unauthorized sample in "Transmitting Live from Mars". Since then, De La Soul has
 
 ## Role of mixtape culture
 
-- Mixtapes by **DJ Clue, DJ Drama, DJ Screw** and others became a bridge from the underground to the mainstream in the 90s and beyond.
+- Mixtapes by **DJ Clue, DJ Drama, DJ Screw** and others became a bridge from the underground to the mainstream after the 90s.
 - **Southern (Houston, ATL)** ""Screw Tape" and ""Gangsta Grillz" formed the scene, making it possible to discover artists independent of labels.
-- In the 2000s, Mixtape moved to "SoundCloud" and "DatPiff" and evolved into a means of promotion in the Internet era.
+- In the 2000s, Mixtape transitioned to "SoundCloud" and "DatPiff" and evolved into a means of promotion in the Internet era.
 
 ---
 
@@ -195,7 +195,7 @@ Unauthorized sample in "Transmitting Live from Mars". Since then, De La Soul has
 | 1990s | *The Chronic*, *All Eyez on Me* | Parliament-Funkadelic, G-Funk |
 | 2000s | *Stakonia*, *Tha Carter III* | Reduced sampling/synth mainstream |
 | 2010s | *DS2*, *My Beautiful Dark Twisted Fantasy* | Sampling reduction/homemade beat + Auto-Tune |
-| 2020s | *Mr. Morale & The Big Steppers*, *The Off-Season* | Sample regression + AI generated beat experiment |
+| 2020s | *Mr. Morale & The Big Steppers*, *The Off-Season* | Sample regression + AI-generated beat experiment |
 
 ---
 
@@ -226,7 +226,7 @@ Unauthorized sample in "Transmitting Live from Mars". Since then, De La Soul has
 
 | Age | Power Center | Characteristics |
 |------|----------|------|
-| 1980s | East (centered in NYC) | Golden age of sampling, emphasis on lyricism |
+| 1980s | East (mainly NYC) | Golden age of sampling, emphasis on lyricism |
 | 1990s | West (LA, Bay) | G-Funk at its peak, 2Pac vs. Biggie |
 | 2000s | South (ATL, Houston, Miami) | Trap eve, Crunk, and the rise of Screwstyle |
 | 2010s | Trap (South) + Midwest (Chicago Drill, Kanye, Detroit beat) | Sampling reduction + FL Studio spread |
@@ -332,7 +332,7 @@ Bass: ▂▄▅▄▂
 </tr>
 <tr>
 <td>
-- Akai MPC60
+-Akai MPC60
 -Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909
@@ -443,7 +443,7 @@ The map of power visualizes which region the center of the scene has shifted to 
 
 ## Conclusion
  
-Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles that have influenced not only music, but also fashion, language, social movements, and more. Hip-hop will continue to evolve as new techniques and expression methods emerge.
+Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles, which have influenced not only music but also fashion, language, and social movements. Hip-hop will continue to evolve as new techniques and expression methods emerge.
 
 ---
 
@@ -461,5 +461,5 @@ Hip-hop has evolved to reflect the culture and social background of each region.
 🔗 [[Column] Overview of West Coast Hip Hop — From its origins to the underground](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
 
-🔗 [[Column] East Coast Hip Hop History — From the Bronx to Brooklyn and around the world](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[Column] East Coast Hip Hop Overview — From the Bronx to Brooklyn and around the world](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 

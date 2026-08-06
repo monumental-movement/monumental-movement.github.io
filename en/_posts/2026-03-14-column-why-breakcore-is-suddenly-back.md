@@ -30,7 +30,7 @@ In the history of electronic music, ""genres that disrupt common sense'' appear 
 Then, in the late 1990s, music emerged that further destroyed all of that.
 That is Breakcore.
 
-Breakcore is music created by extremely deconstructing the high-speed breakbeats of jungle and drum"n"bass, and colliding all kinds of materials with it, including noise, metal, classical music, anime sounds, game sounds, etc.
+Breakcore is music created by extreme decomposition of the high-speed breakbeats of jungle and drum"n"bass, and colliding all kinds of materials with it, including noise, metal, classical music, anime sounds, game sounds, etc.
 
 The features can be summarized into the following three main points.
 
@@ -153,7 +153,7 @@ Of particular importance was the
 
 It was.
 
-In the 1990s, hardware samplers were the mainstream, but in the 2000s software production became commonplace.
+In the 1990s, hardware samplers were the mainstream, but in the 2000s, software production became commonplace.
 
 This results in
 
@@ -245,7 +245,7 @@ In this way, Breakcore is not a rave culture.
 
 "Internet culture"
 
-was revived within.
+was revived inside.
 
 > Breakcore's resurgence began not in clubs, but on the internet.
 
@@ -370,7 +370,7 @@ Music most suited to modern digital culture
 
 It was.
 
-> The resurgence of Breakcore was not a coincidence, but a necessity of digital culture.
+> The resurgence of Breakcore was not a coincidence but a necessity of digital culture.
 
 ---
 
@@ -395,7 +395,7 @@ rather
 
 It is music born from.
 
-Breakcore will continue to evolve in a place that is different from mainstream music.
+Breakcore will continue to evolve in a place different from mainstream music.
 
 And the place is not a club
 
@@ -405,3 +405,11 @@ It might be the internet.
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qZcWCu5n7UU?si=ogdO96MU-s3Jxrac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

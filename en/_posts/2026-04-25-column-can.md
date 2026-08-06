@@ -11,7 +11,7 @@ tags:
 - Experimental
 - 70s
 title: '[Column] Sonic horizons opened up through repetition and improvisation - the
-  pop skeleton redefined by CAN'
+  framework of pop redefined by CAN'
 ---
 
 
@@ -22,7 +22,7 @@ Text: mmr｜Theme: The trajectory of a collective improvisational band born in p
 
 
 
-### A community for deconstructing existing lock grammars
+### Community for deconstructing existing locking grammars
 
 CAN is a music group formed in West Germany in 1968. The core members, Irmin Schmidt and Holger Czukay, had studied under contemporary music composer Karlheinz Stockhausen, and had a perspective on music as a matter of ""structure" and ""time."
 
@@ -55,7 +55,7 @@ color: #fff;
 
 ### Music completed on recorded tape
 
-CAN's production method was thorough. They recorded hours of improvisation, then extracted and edited fragments to complete the piece. In this process, post-recording editing is just as important, if not more so, than composing.
+CAN's production method was thorough. They recorded hours of improvisation, then extracted and edited fragments of the recording to complete the piece. In this process, post-recording editing is as important, if not more so, than composing.
 
 Holger Czukay used shortwave radio and other external sound sources and collaged them onto tape. This is said to be the forerunner of later sampling and loop culture.
 
@@ -63,7 +63,7 @@ Jaki Liebezeit's drumming is especially important. He believed in "not hitting e
 
 Anecdotally, it has been said that Liebezeit "could keep hitting one beat for hours." Even in actual recordings, his rhythm was sustained for a long time with almost no fluctuation, and his precision was outstanding among rock drummers of the time.
 
-In addition, their studio ""Inner Space'' was a renovated former movie theater, and the echoes and spatiality of the sound itself became part of the music. The recording at this location was not just a record, but a sound design that included the space.
+In addition, their studio ""Inner Space'' was a renovated former movie theater, so the echoes and spatiality of the sound itself became part of the music. The recording at this location was not just a record, but a sound design that included the space.
 
 > For CAN, the studio was not a recording device, but an "instrument" for generating music.
 
@@ -74,9 +74,9 @@ In addition, their studio ""Inner Space'' was a renovated former movie theater, 
 
 ### Voices that dismantle language
 
-Early vocalist Malcolm Mooney had a style of fragmentary, repetitive phrases. His songs function more as devices for creating rhythm and tension than for meaning.
+Early vocalist Malcolm Mooney had a style of fragmented, repetitive phrases. His songs function more as devices for creating rhythm and tension than for meaning.
 
-Mooney left the band due to mental strain, but with Damo Suzuki who joined afterwards, CAN's music moved to a new level.
+Mooney left the band due to mental stress, but with Damo Suzuki who joined afterwards, CAN's music moved to a new level.
 
 Suzuki has almost no formal lyrics, instead adopting an improvisational vocal style. There is an anecdote that they met him by chance on the street and were taken straight to the stage. This event itself symbolizes the improvisation and serendipity of CAN.
 
@@ -131,7 +131,7 @@ timeline
     1979 : 活動停止
 </div>
 
-> During their short period of activity, CAN marked a decisive turning point in music history.
+> In their short period of activity, CAN marked a decisive turning point in music history.
 
 ---
 
@@ -163,13 +163,13 @@ CAN's music is created by layering ever-changing sounds over a fixed rhythm.
 
 There are many anecdotes about CAN. For example, Damo Suzuki was scouted by band members while singing on the streets of Munich, improvised on stage that night, and became an official member.
 
-Additionally, Holger Czukay sometimes incorporated shortwave radio noises he happened to pick up during recording into his works, believing that ""sounds that appear by chance are part of the music.''
+In addition, Holger Czukay sometimes incorporated shortwave radio noises he happened to pick up during recording into his works, believing that ""sounds that appear by chance are part of the music.''
 
 It is said that once Jaki Liebezeit decided on a rhythm, he rarely changed it, and the other members even got lost in it. This shows his philosophy of treating rhythm as a "fixed axis."
 
 Furthermore, they had a unique style in which they performed and produced music simultaneously, making editorial decisions on the spot while recording their live performances.
 
-> At the CAN site, even chance was controlled and incorporated as part of the music.
+> At CAN, even chance was controlled and incorporated as part of the music.
 
 ---
 
@@ -180,7 +180,7 @@ Furthermore, they had a unique style in which they performed and produced music 
 
 CAN's influence extends to post-punk, new wave, electronic music, and even modern beat music. In particular, the ideas of repetitive structure and studio editing are fundamental to contemporary music production.
 
-Their method is genre-agnostic, and continues to be reinterpreted in different contexts such as techno and hip-hop.
+Their method is genre-agnostic and continues to be reinterpreted in different contexts such as techno and hip-hop.
 
 In addition, the rediscovery of archived sound sources has further increased its reputation in recent years. Unreleased tapes and live recordings are considered important as evidence of their high level of improvisation.
 

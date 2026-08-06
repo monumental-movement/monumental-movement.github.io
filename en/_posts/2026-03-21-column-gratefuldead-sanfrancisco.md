@@ -56,7 +56,7 @@ Many of them questioned existing social structures and sought communal living an
 
 ### LSD and expanded perception
 
-""Acid Tests"' by Ken Kesey and the Merry Pranksters is an iconic event in the region"s culture. The music, light, and LSD-induced changes in perception came together to create an experience unlike any traditional concert.
+Ken Kesey and the Merry Pranksters' ""Acid Tests'' is an iconic cultural event in the region. The music, light, and LSD-induced changes in perception came together to create an experience unlike any traditional concert.
 
 In this context, music was not just entertainment, but functioned as a device for transforming consciousness itself.
 
@@ -104,13 +104,13 @@ This format would have a major influence on later live culture.
 
 ### Fluidity of the song
 
-Grateful Dead songs don't have a fixed form. The structure of the same song changes each time it is performed, sometimes showing completely different developments.
+Grateful Dead songs don't have a fixed form. The structure of the same song changes each time it is played, sometimes showing completely different developments.
 
 This fluidity creates a ""one-time experience'' for the audience.
 
 ### Collective improvisation
 
-Improvisation is achieved not only by individual skills but also by a high level of communication between members. The performance evolves organically by finely adjusting the line of sight, the nuances of the sound, and the timing.
+即興は個人の技術だけでなく、メンバー間の高度なコミュニケーションによって成立する。視線、音のニュアンス、タイミングが微細に調整されることで、演奏は有機的に進化していく。
 
 > Improvisation is not a coincidence, but an accumulation of relationships.
 
@@ -154,7 +154,7 @@ Tours are more than just performances; they form mobile communities. A market wi
 
 Artists such as Jefferson Airplane and Janis Joplin were active around the same time, and the region as a whole was forming its own music scene.
 
-### Genre Deconstruction
+### Genre deconstruction
 
 Blues, folk, rock, and jazz merge, and existing classifications become meaningless. This freedom is the hallmark of the San Francisco sound.
 
@@ -194,7 +194,7 @@ Live-centered activities continued, and touring itself became established as a c
 
 ### Jerry Garcia Death
 
-In 1995, an era ended with Garcia's death. However, the members continue their activities and the culture is passed down.
+1995年、ガルシアの死により一つの時代が終わる。しかしメンバーは活動を続け、文化は継承される。
 
 ### Current impact
 
@@ -225,12 +225,12 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[san francisco] --> B[counter culture]
+    A[san francisco] --> B[counterculture]
     B --> C[Grateful Dead]
     C --> D[improvisation]
     C --> E[dead heads]
     E --> F[community]
-    D --> G[jam band]
+    D --> G[ジャムバンド]
 </div>
 
 ---

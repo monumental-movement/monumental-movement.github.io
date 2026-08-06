@@ -15,7 +15,7 @@ title: T99 – Anasthasia
 
 
 T99 was a Belgian duo active in the late 80"s and early 90"s.
-T99 was originally Patrick De Meyer's solo project, but T99 became a Patrick De Meyer and Olivier Abbeloos recording after Patrick heard Olivier Abbeloos' song ""Anasthasia'' and suggested that Abbeloos release it as T99.
+T99 was originally Patrick De Meyer's solo project, but T99 became a Patrick De Meyer and Olivier Abbeloos recording after Patrick heard the song "Anasthasia", which was being produced by Olivier Abbeloos, and suggested that Abbeloos release it as T99.
 
 "Anasthasia" is a techno breakbeat hardcore track released in 1991 by XL Recordings, a UK independent label that releases rave and dance music.
 

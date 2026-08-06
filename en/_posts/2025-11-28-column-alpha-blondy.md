@@ -23,7 +23,7 @@ title: '[Column] Alpha Blondy and apartheid: the message of freedom and resistan
 
 ## Introduction
 
-Text: mmr｜Theme: Alpha Blondy's life, musical characteristics, relationship with apartheid, analysis of each album, local reactions, and the impact of his music on society.
+Text: mmr｜Theme: Alpha Blondy's life, musical characteristics, relationship with apartheid, analysis of each album, local reactions, and the impact his music had on society.
 
 
 Ivorian reggae artist **Alpha Blondy** has been active internationally since the late 1970s, and has made it his life's work to convey social and political messages in his music.
@@ -52,7 +52,7 @@ color: #fff;
 Alpha Blondy (real name: Seydou Koné) was born in 1953 in Gigure, Ivory Coast. Raised in a multicultural environment from an early age, he became familiar with French, Diura, and Igbo languages. In his youth, he encountered Jamaican reggae music and was deeply impressed by its rhythm and message.
 
 ### 1.1 Musical departure
-- **1977**: Start of musical activities in Abidjan
+- **1977**: Start of music career in Abidjan
 - **1980**: Formation of the band "Solar System"
 - **1982**: Debut album "Jah Glory" released
 
@@ -66,7 +66,7 @@ Apartheid was a system of systematic racial segregation that took place in South
 
 ### 2.1 Features of the system
 - Maintenance of white supremacy
-- Restrictions on residence and movement of non-white residents (blacks, coloreds, and Indians)
+- Residence and movement restrictions for non-white residents (blacks, coloreds, and Indians)
 - Discriminatory restrictions on education, medical care, and occupations
 - Deprivation of political rights
 
@@ -77,7 +77,7 @@ Non-white residents faced discrimination in all areas, including education, empl
 
 ## 3. Alpha Blondy and Apartheid
 
-Alpha Blondy's music has been an explicit critique of apartheid since the early 1980s.
+Since the early 1980s, Alpha Blondy's music has been a clear critique of apartheid.
 
 ### 3.1 Main activities
 - Sending anti-discrimination messages through international tours
@@ -109,7 +109,7 @@ A work that directly criticizes apartheid.
 - **"Apartheid is Nazism"**
 - English lyrics: "Oppression and hatred, just like the dark days of Europe"
 - Japanese translation: "Oppression and hatred, it's like the dark days of Europe."
-- Commentary: Comparing apartheid to Nazism and arousing international sympathy. It gave courage to black listeners in South Africa.
+- Commentary: Comparing apartheid to Nazism to evoke international sympathy. It gave courage to black listeners in South Africa.
   
 - **"Peace in Zimbabwe"**
 - English lyrics: "Peace must come to every land, Zimbabwe and beyond"
@@ -222,8 +222,8 @@ graph LR
 
 ## 11. Conclusion
 
-Alpha Blondy's music went beyond entertainment and functioned as social media. Through his activities during the apartheid period, he showed that music can be a means of political and social resistance.
-Considering the message of each song and the local reactions, his music is a symbol of the universal values ​​of freedom and peace, and is an important teaching material for thinking about music and social justice even in modern times.
+Alpha Blondy's music went beyond entertainment and functioned as social media. Through his activities during the apartheid era, he showed that music can be a means of political and social resistance.
+Considering the messages of each song and the local reactions, his music is a symbol of the universal values ​​of freedom and peace, and is an important teaching material for thinking about music and social justice even in modern times.
 
 ---
 

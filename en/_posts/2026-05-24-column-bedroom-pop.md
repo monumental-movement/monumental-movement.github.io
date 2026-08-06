@@ -105,7 +105,7 @@ Such images created a far more intimate feeling than a huge studio space.
 
 The conventional star system was based on a "sense of distance."
 
-However, Bedroom Pop, on the contrary, placed value on ""proximity''.
+However, Bedroom Pop, on the contrary, placed value on ""proximity.''
 
 <div class="mermaid">
 flowchart TD
@@ -191,7 +191,7 @@ Microphone distortion.
 
 Sounds of life.
 
-These became "elements that create a sense of presence" rather than "things that should be deleted."
+These are no longer ""things that should be deleted," but rather ""elements that create a sense of presence."
 
 In other words, Bedroom Pop was a culture that prioritized atmosphere over perfection.
 
@@ -261,7 +261,7 @@ For many young people, the music coming from their rooms had a sense of reality.
 
 The closed spaces of Bedroom Pop overlapped with the feeling of living in isolation.
 
-Furthermore, the amount of time people spend on TikTok has increased rapidly, and the spread of music through short videos has accelerated.
+Furthermore, the amount of time users spend on TikTok has increased rapidly, and the spread of music through short videos has accelerated.
 
 Many songs were popularized only in part, and these fragments functioned as emotional sharing devices.
 
@@ -311,7 +311,7 @@ It has changed the very values ​​of young people.
 
 Once upon a time, musical success meant big studios, TV appearances, gigantic gigs, and a lavish lifestyle.
 
-However, in the Bedroom Pop era, the feeling of being able to start from your own room is valued.
+However, in the Bedroom Pop era, the feeling of being able to start in your own room is valued.
 
 Success came to be seen as an ""extended event'' rather than a distant dream.
 
@@ -355,7 +355,7 @@ D --> E[professionalization]
 
 ## Influence on fashion and visual aesthetics
 
-Bedroom Pop had a huge impact not only on music, but also on video and fashion.
+Bedroom Pop had a huge influence not only on music, but also on video and fashion.
 
 Of particular importance is the ""aesthetics that avoids excessive production.''
 
@@ -389,7 +389,7 @@ LED light.
 
 record shelf.
 
-A small synth.
+Small synth.
 
 Ornamental plants.
 
@@ -479,7 +479,7 @@ In other words, DIY reality has become a commercial format.
 
 Because Bedroom Pop is so introspective, some say that prolonged contact with it can cause emotional exhaustion.
 
-Particularly in the age of social media, it has been pointed out that there is a danger that feelings of loneliness and anxiety may be repeatedly amplified.
+Particularly in the age of social media, it has been pointed out that there is a danger that feelings of loneliness and anxiety are repeatedly amplified.
 
 Still, the reason Bedroom Pop was widely supported is that it created a ""culture that doesn't hide its weaknesses.''
 
@@ -489,7 +489,7 @@ Still, the reason Bedroom Pop was widely supported is that it created a ""cultur
 
 ## How will Bedroom Pop change in the future?
 
-Since the mid-2020s, the term Bedroom Pop itself hasn't been used as often as it was during its peak.
+Since the mid-2020s, the term Bedroom Pop itself hasn't been used as often as it was at its peak.
 
 However, its influence has already permeated pop culture as a whole.
 

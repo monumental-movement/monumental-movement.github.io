@@ -17,7 +17,7 @@ title: '[Column] Relationship between science fiction movies and music: History 
 
 Text: mmr｜Theme: About the inseparable relationship between science fiction movies and music
 
-Explains the relationship between science fiction movies and music from historical background, musical methods, and representative works. From the fusion of synthesizers and orchestras to musical expression in the AI ​​era
+Explains the relationship between science fiction movies and music from the historical background, musical methods, and representative works. From the fusion of synthesizers and orchestras to musical expression in the AI ​​era
 
 ---
 
@@ -57,7 +57,7 @@ Music in science fiction movies is more than just a "background" that supports t
 ### 1990s-2000s
 
 * **1995 Ghost in the Shell**: Kenji Kawai's fusion of folk music and electronic music embodies a ""post-human'' world.
-* **2001 ""A.I." and ""Minority Report" **: John Williams once again brought classical structure to life, giving a humanistic lyricism to the city of the future.
+* **2001 ""A.I." and ""Minority Report" **: John Williams once again brought classical structure to life, giving human lyricism to the city of the future.
 
 ### Since 2010s
 
@@ -85,7 +85,7 @@ The music used in science fiction movies has the following characteristic approa
 * The silence of space and the presence of the unknown.
 * Example: Silent space + classical music from ""2001: A Space Odyssey.''
 
-4. **Fusion of orchestra and electronic sound**
+4. **Fusion of orchestra and electronic sounds**
 
 * Both grandeur and futuristic feel.
 * Examples: ""Star Wars" and ""Interstellar."
@@ -116,13 +116,13 @@ The music used in science fiction movies has the following characteristic approa
 | Blade Runner | Vangelis | Neon City and Humanity | Synthesizer Ambient | [Amazon](https://amzn.to/4ndI1Vp) |
 | Ghost in the Shell | Kenji Kawai | Post-human worldview | Ethnic music + electronic sound | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
 | Interstellar | Hans Zimmer | Space and human drama | Pipe organ x electronic sound | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack) |
-| DUNE | Hans Zimmer | Religion on another world planet | Ethnic music x experimental sound | [Amazon](https://amzn.to/46cL4XJ) |
+| DUNE | Hans Zimmer | Religiousness on another world planet | Ethnic music x experimental sound | [Amazon](https://amzn.to/46cL4XJ) |
 
 ---
 
 ## Modern impact
 
-* **Game music/VR experience**: Follows the method of film music such as "Mass Effect" and "Cyberpunk 2077".
+* **Game music/VR experience**: Follows the method of movie music such as "Mass Effect" and "Cyberpunk 2077".
 * **Spread into music genres**: There are many genres derived from science fiction film music, such as synthwave, dark ambient, and electronica.
 * **AI music generation**: The vision of the future depicted in science fiction movies is becoming a reality as automatic music composition by AI and immersive experiences in VR space.
 
@@ -147,8 +147,8 @@ A3. Currently, AI composition tools are being used to create sci-fi movie traile
 ## summary
 
 * Science fiction movies and music are inseparable because they create a sense of the future and another world.
-* It has been expressed in a variety of ways, including electronic sounds, synthesizers, orchestra, and ambient.
-* Throughout history, it can be said that the **relationship between humans and technology** has been visualized through sound.
+* It has been expressed in a variety of ways, including electronic sounds, synthesizers, orchestras, and ambient.
+* Throughout history, it can be said that the relationship between humans and technology has been visualized through sound.
 
 > Future science fiction film music will open up a new world through collaboration between AI and human composers.
 

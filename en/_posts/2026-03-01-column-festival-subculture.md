@@ -55,7 +55,7 @@ color: #fff;
 ### Festival and collective eruption
 
 Sociologist Émile Durkheim called the strong collective elation in religious rituals a "collective boil."
-It is a phenomenon in which an individual is subsumed into a group and enters a state that goes beyond normal self-consciousness.
+It is a phenomenon in which an individual is included in a group and enters a state that exceeds normal self-consciousness.
 
 From ancient times to the Middle Ages, festivals were central devices for community integration. Music, dance, and repetitive rhythms promote group synchronization.
 Festival culture inherits this structure in a secularized form.
@@ -63,7 +63,7 @@ Festival culture inherits this structure in a secularized form.
 ### 1960s Counterculture
 
 The 1969 Woodstock Festival is a historic event attended by approximately 400,000 people.
-The anti-war movement, hippie culture, and rock music intersected, and musical events were linked to social movements.
+Anti-war movements, hippie culture, and rock music intersected, and musical events were linked to social movements.
 
 At this point, the meaning of festivals expanded from ""listening to music" to ""sharing values."
 
@@ -108,7 +108,7 @@ Common wristbands, T-shirts, and hand signs function as symbolic capital.
 ### Emotional contagion
 
 The crowd's cheers, jumps, and choruses diffuse the emotions.
-Research has shown that the process of imitating other people's facial expressions and body movements increases emotional sharing.
+Research has shown that the process of imitating the facial expressions and body movements of others increases emotional sharing.
 
 At festivals, this process takes place simultaneously with tens of thousands of people.
 
@@ -224,7 +224,7 @@ The institutional challenge is to ensure safety while maintaining psychological 
 ## Cultural influence
 
 ・Impact on the fashion industry
-・Expansion of tourism industry
+・Expansion of the tourism industry
 ・City brand strategy
 ・Changes in music consumption patterns
 ・Generational identity formation

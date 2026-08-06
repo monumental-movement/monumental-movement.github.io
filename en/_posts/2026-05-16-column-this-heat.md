@@ -113,7 +113,7 @@ There was no clear division of roles among the three. Rather, they continued to 
 
 Cold Storage is absolutely essential when talking about This Heat.
 
-Cold Storage was an independent studio built in a converted former cold storage warehouse in south London. They used it as their home base, recording, editing, and experimenting.
+Cold Storage was an independent studio in a converted former cold storage warehouse in south London. They used it as their base, recording, editing and experimenting.
 
 It was crucial to have a space of our own, away from the constraints of a commercial studio.
 
@@ -147,13 +147,13 @@ There were very few rock bands in the late 1970s that integrated recording and e
 
 1979's self-titled album This Heat occupies a unique place in post-punk history.
 
-This album doesn't have the stability that a normal rock album has.
+This album doesn't have the stability of a normal rock album.
 
 The album unfolds as a kind of disturbing collage, a series of short snippets, noises, tape edits, repetitions, ambient sounds, and disconnected rhythms.
 
 "Horizontal Hold" was especially symbolic.
 
-As the title suggests, which refers to television interference, the song has a structure in which the signal fluctuates intermittently and is disrupted.
+As the title suggests, which refers to television interference, the song has a structure in which the signal fluctuates intermittently, disrupting the signal.
 
 ""24 Track Loop'' is an important song that combines minimal music and tape experimentation, and influenced later industrial, drone, and noise scenes.
 
@@ -184,7 +184,7 @@ During this period, the Cold War was once again intensifying. The fear of nuclea
 
 From the album's opening song, "Sleep," it sounds like the world is already on the verge of collapse.
 
-Military rhythms, urgent vocals, and unstable harmonies. The song is not just a political message, but a sound that expresses the ""psychological state of fear'' itself.
+Military rhythms, urgent vocals, and unstable harmonies. The song is not just a political message, but also embodies the ""psychological state of fear'' itself.
 
 "Cenotaph" is particularly known as a representative song.
 
@@ -218,13 +218,13 @@ They actively used tape playback, noise manipulation, and improvisation in their
 
 As a result, the performance changed greatly each time.
 
-It didn't have the reproducibility of a normal rock live performance, and what was more appealing was the state of being on the verge of losing control.
+It didn't have the reproducibility of a normal rock live performance, but rather the appeal was that it was on the verge of losing control.
 
 For the audience, it felt more like being thrown into a giant sound system than listening to a song.
 
 In particular, Hayward's drumming was overwhelming live.
 
-Although it seemed like they were playing a simple beat, they kept subtly shifting their accents, making the entire space unstable.
+Although it seemed like they were hitting a simple beat, they kept subtly shifting their accents, making the entire space unstable.
 
 <div class="mermaid">
 flowchart TD
@@ -252,7 +252,7 @@ It lasted only a few years.
 
 However, the impact it left in such a short period of time was enormous.
 
-It is said that there were multiple reasons for the group's disbandment, including differences in musical direction, mental fatigue, and financial problems.
+It is said that the reason for the group's disbandment was due to multiple factors, including differences in musical direction, mental fatigue, and financial problems.
 
 Gareth Williams, in particular, gradually began to distance himself from band activities.
 
@@ -276,7 +276,7 @@ Because it was so short-lived, This Heat has become something of a myth.
 
 But it"s not the mystery that"s important. The fact is that the recordings that have actually survived are still extremely cutting-edge.
 
-> This Heat wasn't a band that disappeared in a short period of time, but a band that reached the future in a short period of time.
+> This Heat wasn't a band that disappeared in a short period of time, it was a band that reached the future in a short period of time.
 
 ---
 
@@ -284,7 +284,7 @@ But it"s not the mystery that"s important. The fact is that the recordings that 
 
 This Heat's influence quietly spread from the 1980s onwards.
 
-Particularly since the 1990s, many areas such as post-rock, experimental music, industrial, noise, math rock, and avant-rock have been reevaluated.
+In particular, post-rock, experimental music, industrial, noise, math rock, and avant-rock have been reevaluated in many areas since the 1990s.
 
 Many later artists have cited This Heat as an influence, including Slint, Stereolab, Tortoise, Sonic Youth, Radiohead, and Black Midi.
 
@@ -404,7 +404,7 @@ Their experimental nature was deeply connected to the sense of the times and soc
 
 Therefore, the sound never gets old.
 
-And while genre-crossing has become commonplace these days, This Heat has been traversing rock, noise, contemporary music, electronic music, and improvisation long before that.
+And while genre-crossing is commonplace these days, This Heat has been traversing rock, noise, contemporary music, electronic music, and improvisation long before that.
 
 They weren't aiming for genre fusion.
 
@@ -445,7 +445,15 @@ This Heat recorded the moment when rock changed from "music" to "situation itsel
 
 And that record remains futuristic even after more than 40 years.
 
-> Listening to This Heat's work is not like appreciating a masterpiece from the past, but rather an experience that connects to the unstable times themselves.
+> Listening to This Heat's work is more like an experience of connecting to an unstable era itself, rather than appreciating a masterpiece from the past.
 
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ct21vEa9DLI?si=qZBQXfIqkZQBOI_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

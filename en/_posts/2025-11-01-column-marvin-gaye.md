@@ -18,14 +18,14 @@ title: '[Column] Marvin Gaye: Between Love and Pain - Salvation and Destruction 
 ## From Motown star to lonely wanderer to tragic end
 
 
-Text: mmr | Theme: "Love", "Social Justice", and "Inner Darkness". About Marvin Gaye's music, a "human anthem" that goes beyond the boundaries of soul music
+Text: mmr | Theme: "Love", "Social Justice", and "Inner Darkness". About Marvin Gaye's music, a "human anthem" that transcends the boundaries of soul music
 
 
 A hotel room in Brussels, 1982.
-Marvin Gaye sat alone at the microphone as the dry beat of a Roland TR-808 blared.
+As the dry beat of a Roland TR-808 blared, Marvin Gaye sat alone at the microphone.
 ""Midnight Love'' was an album of prayer born between exile and rebirth, love and self-destruction.
 The man who once led the golden age of Motown and spread the word "sexual healing" to the world eventually ended his life at the hands of his father.
-The paradox is that those who continued to sing about love were the ones who were the most hungry for love.
+The paradox is that those who kept singing about love were the ones who were the most hungry for love.
 Marvin Gaye's life was the epitome of "the most beautiful, most painful blues" in the history of American music.
 
 ---
@@ -48,7 +48,7 @@ color: #fff;
 
 The life of Marvin Gaye, known as the ""Prince of Soul" and ""Prince of Motown," was filled with family complications, conflicts with himself, constant creative endeavors, and a tragic ending behind his spectacular success. His music was more than just a "pop hit"; it was an amalgamation of social messages, personal confessions, and grooves.
 
-In this article, we will reconsider him not just as a musical genius, but as a human being who lived a ""strange life.'' We will unravel his progress from two axes: changes in music and his own inner oscillations.
+In this article, we will reconsider him not just as a musical genius, but as a human being who lived a ""strange life''. We will unravel his progress from two axes: changes in music and his own inner oscillations.
 
 ---
 
@@ -63,7 +63,7 @@ In the mid-1950s, Gaye enlisted in the U.S. Air Force, but was discharged after 
 Eventually, he moved to the Detroit/Motown area, and in 1961, he seized the opportunity to make his debut as a solo singer.
 
 ### Encounter with Motown
-An encounter with Berry Gordy, founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
+A chance encounter with Berry Gordy, the founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
 During this period, he gradually began to realize that he could move from ""just singing" to ""talking through songs."
 
 ---
@@ -93,7 +93,7 @@ On May 21, 1971, the album "What"s Going On" was released. Focusing on social is
 With this album, he was involved in writing, composing, and producing the album himself, showing his independence as an artist.
 
 ### "Let"s Get It On" (1973) and the exploration of sexuality
-In 1973"s "Let"s Get It On," she delved deeper into the theme of love/desire, demonstrating her "sex appeal" as a soul singer. There is a clear shift from the former "social accusation" to "inner passion."
+In 1973"s "Let"s Get It On," she delved deeper into the theme of love/desire and demonstrated her "sex appeal" as a soul singer. There is a clear shift from the former "social accusation" to "inner passion."
 During this period, Gaye experienced the joy of creation, as well as the failure of love and financial pressure in his personal life, and these fluctuations cast a shadow on his work.
 
 ### "Here, My Dear" (1976) – Establishment as a confessional album
@@ -106,11 +106,11 @@ After releasing this album, Gaye was exhausted both physically and mentally and 
 ## Chapter 4: A period of chaos and rebirth (1977-1983)
 
 ### Tax avoidance, escape from Europe, preparation for restart
-In the late 1970s and early 1980s, gay men faced many challenges in the United States, including tax problems, drug use, and creative stagnation. Moving to Belgium and spending more time in Europe took on an ""escapism'' both musically and physically.
-In the midst of all this, he was looking for a comeback, seeking new sounds and new environments.
+In the late 1970s and early 1980s, gay men faced many challenges in the United States, including tax issues, drug use, and creative stagnation. Moving to Belgium and spending more time in Europe took on an ""escapism'' both musically and physically.
+In the midst of all this, he was looking for a comeback and was looking for new sounds and new environments.
 
 ### "Midnight Love" (1982)/"Sexual Healing"
-On November 8, 1982, Marvin Gaye released his first album after the transfer, ""Midnight Love,'' making a huge comeback.
+On November 8, 1982, Marvin Gaye made a huge comeback with the release of his first album after the transfer, ""Midnight Love.''
 
 A major point of this album is the use of the famous Roland TR-808 throughout.
 
@@ -123,10 +123,10 @@ Specifically, in "Sexual Healing," the bass drum, hi-hat, and clap at the beginn
 
 The production background seems to be that due to production budget and number restrictions at the time, it was necessary to proceed with production using machines rather than using a large band.
 
-This ""fusion of man and machine"' also overlaps with Marvin Gaye"s own life - the sound of his own voice (human) and machine (808), and the frustration and rebirth behind it.
+This "fusion of man and machine" also overlaps with Marvin Gaye's own life - the sound of his own voice (human) and machine (808), and the frustration and rebirth behind it.
 
 ### Last live performance, TV appearance, and death
-In 1983, he appeared on the TV show "Motown 25: Yesterday, Today, Forever" and performed classic songs from yesteryear.
+In 1983, he appeared on the TV show "Motown 25: Yesterday, Today, Forever," performing classic songs from yesteryear.
 However, on April 1, 1984, he was shot by his father, Marvin Gaye Sr., at his parents' home in Los Angeles and passed away at the age of 44.
 
 This sudden tragedy symbolized the antinomy of his life: success and despair, salvation and bondage, and left a strong impression not only in the history of music but also as a human drama.
@@ -134,7 +134,7 @@ This sudden tragedy symbolized the antinomy of his life: success and despair, sa
 
 ---
 
-## Chapter 5: Legacy, influence, and the strange "what ifs"
+## Chapter 5: Legacy, influence, and the strange "what if"
 
 ### Pioneer to the liberation of the music industry and artists
 Marvin Gaye was not only a hit maker, but also someone who paved the way for artists to independently create music themselves. The album "What"s Going On" was a work in which he was deeply involved in writing, composing, and producing the lyrics, and had a great influence on subsequent R&B/neo-soul.
@@ -143,7 +143,7 @@ Furthermore, the use of the Roland TR-808 on ""Midnight Love'' also showed new p
 
 ### Personal strange fate
 Gay's life is filled with the ""curious" fate of childhood domestic violence, love breakdowns, financial and drug problems, and being shot and killed by his father. This trend goes beyond the framework of a mere ""tragic star" and reveals a human image of a man whose ""talent and suffering'' intertwine.
-Furthermore, when you think about it from a ""what if" perspective, there are many hypotheses that come to mind: what if he had broken off his relationship with his father, what if he had not been completely trapped in the Motown system, what if he had continued to live. They are evidence of a ""strange life" where chance and necessity intertwine.
+Furthermore, when you think about it from a "what if" perspective, there are many theories that come to mind: what if he had severed his relationship with his father, what if he had not become completely trapped in the Motown system, what if he had continued to live. They are evidence of a ""strange life'' where chance and necessity intertwine.
 
 ### Re-evaluation and expansion of expression in modern times
 Even after Gaye's death, his music has been remastered, rediscovered, sampled, and continues to influence new generations today. For example, the discovery of unreleased demo sound sources has also been reported.

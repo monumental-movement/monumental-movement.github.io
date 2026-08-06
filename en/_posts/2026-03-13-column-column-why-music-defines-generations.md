@@ -19,9 +19,9 @@ title: '[Column] Why does music shape generations?'
 Text: mmr｜Theme: Why does music become a symbol of a generation? Deciphering the relationship between music and generational culture from the 20th century to the present, focusing on changes in technology, social movements, and media.
 
 
-When people talk about a generation, they often think of music.
+When people talk about a certain generation, they often think of music.
 
-Rock in the 1960s, disco in the 1970s, synth pop in the 1980s, grunge and hip-hop in the 1990s.
+Rock in the 1960s, disco in the 1970s, synth pop in the 1980s, and grunge and hip-hop in the 1990s.
 Music is not just entertainment; it has functioned as a cultural device that symbolizes the atmosphere, values, and emotions of young people at that time.
 
 Sociologists have long described a generation as a group of people who share the same historical moment.
@@ -31,7 +31,7 @@ A medium is needed to fix the emotions of the event in memory.
 Music has played the strongest role in this.
 
 Music is an art that is connected to time, and at the same time it is accompanied by emotion.
-Many people have experienced the phenomenon of instantly reliving the scenery and emotions of a certain era when they hear a particular song.
+Many people have experienced the phenomenon where the scenery and emotions of a certain era come back to them the moment they hear a particular song.
 
 This memory system has turned music into a symbol of a generation.
 
@@ -72,13 +72,13 @@ As a result, a structure of ""music for each generation'' was born.
 
 <div class="mermaid">
 graph TD
-A[Early 20th century music is a common culture of all generations] --> B[Postwar economic growth]
+A[Early 20th century music is a common culture of all generations] --> B[戦後経済成長]
 B --> C[Birth of teenager culture]
 C --> D[Youth music market]
 D --> E[Music culture for each generation]
 </div>
 
-This trend became decisive from the 1950s onwards with the explosive popularity of rock and roll.
+This trend began in the 1950s with the explosive popularity of rock and roll.
 
 Rock and roll wasn't just new music.
 It was a culture that symbolized that young people had different values ​​from their parents' generation.
@@ -174,7 +174,7 @@ D --> E[generation identity]
 
 In this way, music becomes not just a part of culture, but a part of an individual's life.
 
-The reason why different generations have different music is
+The reason why different music exists for each generation is
 This is because each generation experiences a different historical moment in their youth.
 
 > Adolescent musical experiences are long remembered as the core of generational identity.
@@ -191,7 +191,7 @@ The recording industry and television created a culture of sharing the same musi
 For example, rock, disco, hip hop,
 Each influenced youth culture around the world.
 
-At the same time, however, integration with local culture progressed.
+However, at the same time, integration with local culture progressed.
 
 Hip-hop has developed uniquely in each country,
 Rock also produced different styles in each country.
@@ -215,7 +215,7 @@ It becomes a new culture by being reinterpreted in each region.
 
 In the 21st century, the way we listen to music has changed dramatically.
 
-Streaming services provide a huge selection of songs,
+Streaming services offer a huge selection of songs,
 Listeners can access past and present music at the same time.
 
 This has also influenced the structure of generational music.

@@ -50,7 +50,7 @@ color: #fff;
 | Album | Artist | Amazon link | Recommended points |
 |----------|-------------|-------------|----------------|
 | *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | An important work that laid the foundation for gangsta rap |
-| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | A controversial work that shook society. Icon of the West Coast |
+| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | A controversial work that shook society. West Coast Icon |
 | *On the Nile* (1984) | The Egyptian Lover | [Amazon](https://amzn.to/3VsfDCE) | An outstanding fusion of electro and rap |
 
 ---
@@ -78,8 +78,8 @@ color: #fff;
 
 * **Representative producers**: Madlib, Daz Dillinger, Battlecat
 * **Major labels**: Stones Throw, Aftermath
-* **Cultural Background**: Mainstream G‑Funk is weakening, and LA underground bands like Project Blowed and Freestyle Fellowship are gaining attention. The Bay Area Hyphy movement also occurred.
-* **Video/Fashion**: Skate, graffiti, and jazz club-like visual expressions are increasing, and street brands such as Supreme and BAPE are becoming popular.
+* **Cultural background**: Mainstream G-Funk is weakening, and LA underground bands such as Project Blowed and Freestyle Fellowship are gaining attention. The Bay Area Hyphy movement also occurred.
+* **Video/Fashion**: Skate, graffiti, and jazz club-like visual expressions are increasing, and street brands such as Supreme and BAPE are becoming more popular.
 
 **Recommended album (excerpt)**
 
@@ -179,7 +179,7 @@ Low-budget music videos, unique fashion styles, and ties to lowrider culture cre
 
 Since the 2000s, diversity has expanded with the success of independent underground acts such as Madlib and The Game. In addition, Kendrick Lamar and other artists with global influence who make full use of SNS and the Internet have appeared, and their songs and visual expressions containing conscious messages are forming a new trend in West Coast hip-hop.
 
-More than just a music genre, the region's hip-hop continues to influence social messages, fashion, film, and culture as a whole, and continues to inspire artists and fans around the world.
+More than just a musical genre, hip-hop from this region continues to influence social messages, fashion, film, and overall culture, and continues to provide inspiration for artists and fans around the world.
 
 
 ---

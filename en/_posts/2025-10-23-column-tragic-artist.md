@@ -58,9 +58,9 @@ The moment the work and life match, the audience becomes intoxicated by the trut
 
 ## Chapter 2: Psychological Analysis - Mechanisms of Creativity and Self-Destruction
 
-Psychologist Nancy Andreasen has discovered that many forms of creative genius show a link to "bipolar disorder."
+Psychologist Nancy Andreasen has discovered that many forms of creative genius show a link to bipolar disorder.
 The overwhelming concentration and passion that are born during the height of creativity,
-The period of depression that follows. It is this amplitude that gives birth to original expression.
+The period of depression that follows. It is this amplitude that gives rise to original expression.
 
 On the other hand, the urge to self-destruct can be said to be an ""extreme expression of the desire for approval.''
 The pain of not being understood by society transforms into "work" the proof of one's existence.
@@ -72,12 +72,12 @@ The culmination of this is the ""aesthetics of death,'' a view of art that is co
 
 After Kurt Cobain's death, his suicide note was quoted all over the world.
 Jim Morrison's grave remains a place of pilgrimage.
-The public "consumes" the destruction and receives the tragedy as a "story."
+The public "consumes" destruction and receives tragedy as a "story."
 
 The media accelerated that structure.
 Scandals, addiction, death from overwork, burnout...
 In the ""empathy economy'' of the social media era, pain has become the emotion most easily spread.
-People see their own shadows in the "crumbling genius."
+People see their own shadows in ""the crumbling genius.''
 
 ---
 
@@ -92,26 +92,26 @@ In other words, the story of a destructive artist is a device that creates a ""p
 
 ---
 
-## Chapter 5: "Self-destruction and approval" in the SNS era
+## 第五章：SNS時代の「自己破壊と承認」
 
 In today's world, anyone can become a small-scale ""disastrous artist.''
 The structure of transmitting emotions and gaining sympathy through SNS blurs the line between creation and self-revelation.
 
 When excessive self-expression eats away at the soul, the boundaries between artists and followers collapse.
-In that sense, Kurt Cobain's "Lonely Cry"
+その意味で、カート・コバーンの“孤独な叫び”は、  
 It can be said that he was anticipating the 21st century structure associated with posting on Instagram and TikTok.
 
 ---
 
 ## Chapter 6: Ethics and empathy – are we "consumers" or "accomplices"?
 
-Admiring tragedy often carries a structure of perpetration.
+Admiring tragedy often contains a structure of perpetration.
 Fans unconsciously "glorify" the artist's pain,
 Even after death, the suffering is "deified."
 
 However, empathy is supposed to mean "understanding their pain and wishing for their recovery."
 Rather than becoming intoxicated by destruction, what can we learn from it and how can we heal?
-This is the new ethics for accepting art in the 21st century.
+This will become the new ethics for accepting art in the 21st century.
 
 ---
 
@@ -123,7 +123,7 @@ Now that AI is in charge of creation and communities are expanding where people 
 There is no need to worship "ruin" as a myth.
 
 In fact, ""survival'' itself may be a new art form.
-Creation that moves towards recovery rather than destruction.
+Creation that moves toward recovery rather than destruction.
 Beyond that lies the image of a truly free artist.
 
 ---
@@ -147,16 +147,16 @@ timeline
 
 ---
 
-## Illustration: Diagram of the psychological structure of a destructive artist
+## 図版：破滅型アーティストの心理構造ダイアグラム
 
 
 <div class="mermaid">
 
     flowchart TD
-    A[creative urge] --> B[internal pain/conflict]
+    A[creative urge] --> B[内的苦痛・葛藤]
     B --> C[Sublimation through production]
     C --> D[Social evaluation/approval]
-    D --> E[expectations and pressure]
+    D --> E[期待とプレッシャー]
     E --> F[Dependency, isolation, mental anxiety]
     F --> G[Ruin (death, disappearance, deviation)]
     G -->|Reinterpretation/mythologization| H[Public sympathy and consumption]

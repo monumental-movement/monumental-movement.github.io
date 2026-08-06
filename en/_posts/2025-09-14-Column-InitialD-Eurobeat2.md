@@ -34,9 +34,9 @@ Eurobeat naturally flowed into arcade games such as ""Initial D Arcade Stage" an
 ### Acceleration of internet culture and memes
 From the late 2000s to the 2010s, Eurobeat was absorbed into Internet meme culture with songs like "Deja Vu" and "Running in the 90s."
 Amidst the trend of short-form videos, from YouTube Poop to MAD videos to TikTok, Eurobeat has transformed into a strange entity that is both a gag and a serious one.
-This sense of speed and humor coexist functions as a ""rhythm of laughter that can be understood intuitively'' even for a generation that no longer knows Touge or anime.
+This sense of speed and humor coexist functions as a ""rhythm of laughter that can be understood intuitively'' even for a generation that no longer knows Toge or anime.
 
-### Inheritance of street culture and "driving"
+### Inheritance of street culture and "running"
 On the other hand, Eurobeat continues to be "street music." Eurobeat, which is played on the Shuto Expressway late at night, at drift events, and at tuning car meetings, has seeped into the real racing culture through Initial D.
 Here, it functions not just as background music, but as a symbol to share the ""spirituality of driving." In other words, music survives not only as a recreation of the mountain pass, but also as a ""community password."
 
@@ -211,7 +211,7 @@ Drift : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (slip sound) </div>
 
 | Area | Representative elements | Connection with Eurobeat |
 | ------- | ------------------------------------ | -------------------- |
-| Toge Runner Culture | AE86, RX-7, GT-R | Synchronized with the driving scene in "Initial D" |
+| Pass driver culture | AE86, RX-7, GT-R | Synchronized with the driving scene in the movie "Initial D" |
 | Club culture | Parapara, Velfarre | Directly connected to Avex Eurobeat |
 | Internet Culture | Deja Vu Memes | Re-explosion on YouTube/TikTok |
 | Game culture | Initial D Arcade Stage, Gran Turismo | Eurobeat becomes standard BGM |

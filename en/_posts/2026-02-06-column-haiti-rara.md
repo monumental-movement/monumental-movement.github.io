@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Historical origin of Lala
+## Chapter 1 Historical origins of Lala
 
 The origin of lala is closely tied to the deep layers of Haitian society that was formed between the 18th and 19th centuries. In Saint-Domingue during the French colonial period, people brought from various parts of Africa maintained their own religious rituals and musical culture. Although these traditions were suppressed under plantation control, they were inherited in fragments through nightly gatherings and festivals.
 
@@ -70,7 +70,7 @@ Religious aspects differ from region to region, and even within the same rara, t
 
 ## Chapter 3 Instrumentation and Acoustic Structure
 
-Lara's defining feature is the metal wind instrument vaksen. Long pipes made of bamboo or metal are blown, and multiple players play single notes to form a polyrhythm. Added to this are drums, maracas, and metal percussion instruments.
+Lara's defining feature is the metal wind instrument vaksen. A polyrhythm is formed by blowing a long tube made of bamboo or metal, with multiple players playing single notes. Added to this are drums, maracas, and metal percussion instruments.
 
 The vaxin is not so much a melodic instrument as a device for building layers of sound. Each player plays a different pitch and rhythm, creating an overall undulating sound. Music is not written into musical scores, but is inherited through physical memory.
 
@@ -98,7 +98,7 @@ Under the dictatorship, Rara marches were sometimes subject to surveillance, but
 
 ## Chapter 5 Regional differences and diversity
 
-Even within Haiti, the style of rara varies greatly depending on the region. In urban areas, there is a tendency for the formations to become larger and louder. On the other hand, in rural areas, there is a strong religious ritual, and the relationships among the participants are close.
+Even within Haiti, the style of rara varies greatly depending on the region. In urban areas, there is a tendency for the formations to become larger and the volume to be louder. On the other hand, in rural areas, there is a strong religious ritual, and the relationships between the participants are close.
 
 Rara is also inherited in immigrant communities, and marches held abroad function as a place for identity confirmation. The form changes depending on the environment and legal system, but the core of the combination of walking and music remains the same.
 
@@ -132,7 +132,7 @@ Still, every year during Lent, Lara reappears on the streets. Even in situations
 
 ## Chapter 7 Spatial structure and physical sensation of marching
 
-The essence of Lala is "movement". The performers and participants do not remain on a fixed stage, but pass through roads, intersections, village boundaries, and areas around cemeteries. These spaces have a functional meaning in everyday life, but during the Rara period they take on a ceremonial meaning. The places through which the music passes are temporarily sanctified and become etched in the community's memory.
+The essence of Lala is "movement". The performers and participants do not remain on a fixed stage, but pass through roads, intersections, village boundaries, and the vicinity of cemeteries. Although these spaces have a functional meaning in everyday life, they take on a ceremonial meaning during Rara. The places through which the music passes are temporarily sanctified and become etched in the community's memory.
 
 What is important in marching is acoustic continuity rather than visual order. Even if the ranks are disorganized, the march will continue as long as the sound does not break up. Participants rely on sound to determine their location and synchronize their bodies. For this reason, in Lara, hearing is more central to spatial recognition than line of sight.
 
@@ -150,7 +150,7 @@ D --> E[Return or another base]
 
 ## Chapter 8 Elements of body, fatigue, and duration
 
-Lara lasts a long time. Marches have been recorded lasting from a few hours to overnight, and sometimes over multiple days. Although the performers take breaks, they basically keep walking, blowing, and tapping. Fatigue is inevitable, and sharing that limit becomes part of the ritual itself.
+Lara lasts a long time. Marches have been recorded lasting from several hours to overnight, and sometimes over multiple days. Although the performers take breaks, they basically keep walking, blowing, and tapping. Fatigue is inevitable, and sharing that limit becomes part of the ritual itself.
 
 The physical demands are supported by the simplicity and repetitive nature of the music. This is why sustainable patterns are valued over complex melodies and advanced techniques. Music is not designed to overwork the body, but is optimized to be a form that the body can sustain.
 
@@ -170,7 +170,7 @@ The lyrics often use metaphors and allusions, and often avoid direct expression.
 
 ## Chapter 10 View and representation from the outside
 
-Lala has attracted the attention of researchers and tourists from overseas, but its representation tends to be biased. In many cases, only musical exoticism and celebratory aspects are emphasized, and religious and political contexts are omitted.
+Lala has attracted the attention of foreign researchers and tourists, but its representation tends to be biased. In many cases, only musical exoticism and celebratory aspects are emphasized, and religious and political contexts are omitted.
 
 This external gaze has also influenced Lara's self-understanding. While some groups have become more theatrical and have strengthened visual elements, there are also movements that continue to emphasize internal ritual aspects.
 
@@ -192,7 +192,7 @@ However, the recorded Lala is only part of the original experience. Music, separ
 
 There is a large amount of processional festival music in the Caribbean and African diaspora. While Lala has similarities with these, it remains unique in its particular seasonality and religious role.
 
-Comparative studies emphasize marching, repetitive, and participatory structures, but Lala's case is characterized by a particularly high degree of political message connotation.
+Comparative studies emphasize marching, repetition, and participatory structures, but Lala's case is characterized by a particularly high degree of political message connotation.
 
 > Lala is a cultural form that can be compared but cannot be easily substituted.
 

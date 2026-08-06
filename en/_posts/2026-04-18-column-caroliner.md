@@ -19,13 +19,13 @@ title: '[Column] Carolina Liner: A masked community hidden in San Francisco''s u
 
 ## What is Carolliner?
 
-Text: mmr｜Theme: Interpreting the musical structure of Caroliner, which spans from experimental music to bluegrass, and the reality of the fluid community centered around Grux, the core figure.
+文：mmr｜テーマ：実験音楽からブルーグラスまでを横断するキャロライナーの音楽構造と、中核人物Gruxを軸とした流動的共同体の実像を読み解く。
 
 ### A story that begins with masks and anonymity
 
 Carolinaliner is an avant-garde music group based in San Francisco, USA, and has been active since the late 1980s. The name is not constant, and it is also known for its long and extremely variable names, such as "Caroliner Rainbow" and "Caroliner Rainbow Hernia Milk Queen."
 
-Musically, they are a unique entity that traverses the seemingly contradictory genres of Experimental, Noise, Industrial, and Bluegrass. In particular, the way bluegrass elements are fused with distortion and noise is unique.
+音楽的には Experimental、Noise、Industrial、そして Bluegrass という一見相容れないジャンルを横断する特異な存在である。特にブルーグラス的な要素が、歪みやノイズと融合する点は他に類を見ない。
 
 Anonymity is ensured, and the true faces and fixed composition of the members are not revealed. However, there is a clear structure within it.
 
@@ -49,11 +49,11 @@ color: #fff;
 
 ## Core people and member composition
 
-### Fluid network centered on Grux
+### Fluid network centered around Grux
 
 The central character of the Carolinaliner is Grux. He has been at the core of our activities for many years, and has played an important role in shaping our musical direction and concept.
 
-There is a history of involvement of multiple members around it, and the following are known as representative names.
+その周囲には複数のメンバーが関与してきた履歴があり、代表的な名前として以下が知られている。
 
 ・Brandan Kearney
 ・Chris Cooper
@@ -63,11 +63,11 @@ There is a history of involvement of multiple members around it, and the followi
 ・Lara Allen
 ・Phil Franklin
 
-These members do not exist as a fixed organization, but rather have a fluid structure in which the degree of involvement changes depending on the period and project. In particular, Lara Allen is said to have played an important role in terms of vocals and performance.
+These members do not exist as a fixed organization, but have a fluid structure in which the degree of involvement changes depending on the period and project. In particular, Lara Allen is said to have played an important role in terms of vocals and performance.
 
 <div class="mermaid">
 flowchart TD
-A[Grux] --> B[central structure]
+A[Grux] --> B[中心構造]
 B --> C[carolina liner]
 C --> D[Participating members]
 D --> E[Brandan Kearney]
@@ -91,9 +91,9 @@ In this structure, the center is fixed, but the surroundings are constantly chan
 
 Caroliner was born in the San Francisco underground music scene in the late 1980s. At this time, there was a strong DIY spirit, and cassette culture and non-commercial distribution were mainstream.
 
-Within this environment, they choose to be outside of circulation and develop their own activities. It existed as a comprehensive art that included not only music but also visual expression and performance.
+彼らはその環境の中で、流通の外側に位置することを選び、独自の活動を展開する。音楽のみならず、視覚表現やパフォーマンスを含む総合的なアートとして存在していた。
 
->Caroliner was a particularly closed and unique group within the underground scene.
+> キャロライナーは地下シーンの中でも特に閉鎖性と独自性を強めた存在だった。
 
 ---
 
@@ -103,8 +103,8 @@ Within this environment, they choose to be outside of circulation and develop th
 
 Caroliner's music is built on the collision of genres.
 
-・Bluegrass-style stringed instruments and melodies
-・Acoustic destruction due to noise
+・ブルーグラス的な弦楽器や旋律
+・ノイズによる音響の破壊
 ・Industrial texture
 ・Experimental musical structural deconstruction
 
@@ -121,7 +121,7 @@ E --> F[unstable acoustics]
 
 In particular, the structure in which bluegrass elements are buried in distortion symbolizes the deconstruction and reconstruction of past musical forms.
 
->Carolinars are unique in that even traditional music is dismantled into noise.
+>Carolina is unique in that even traditional music is dismantled into noise.
 
 ---
 
@@ -153,7 +153,7 @@ This structure forces the audience to experience rather than interpret.
 
 Caroliner's works do not have a clear finished form.
 
-Although the sound sources released mainly on cassettes and limited releases are fragments, they form a continuum as a whole.
+Although each of the sound sources released mainly on cassettes and limited releases are fragments, they form a continuum as a whole.
 
 Typical titles include the following.
 
@@ -200,7 +200,7 @@ E --> F[carolina liner]
 F --> G[Unclassified area]
 </div>
 
->Carolina is not at the intersection of genres, but outside of them.
+>Carolina is not at the intersection of genres, but rather outside of them.
 
 ---
 
@@ -228,11 +228,11 @@ It is also important that they have been active for a long period of time, and a
 
 The Carolliner is a rare musical body with a clear center (Grux) and a fluid periphery.
 
-By colliding different elements of Experimental, Noise, Industrial, and Bluegrass, he continues to shake up the very framework of music.
+By colliding different elements of experimental, noise, industrial, and bluegrass, he continues to shake the very framework of music.
 
 An unfixed structure and continuous activity make this group unique.
 
->Caroliner has a structure that is constantly collapsing even though it has a center.
+> Although the carolina liner has a center, it has a structure that constantly collapses.
 
 
 ---

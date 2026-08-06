@@ -13,7 +13,7 @@ title: Enzyme & Malice – Close Encounters Thru The Wormhole
 ---
 
 
-A hardcore break track by hardcore break DJ/producers Enzyme and Malice.
+ハードコアブレイクのDJ /プロデューサーEnzymeとMaliceによるハードコア・ブレイクトラック。
 
 Enzyme and Malice also work under the name Portal.
 

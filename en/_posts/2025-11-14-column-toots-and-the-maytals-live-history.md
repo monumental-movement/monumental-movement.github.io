@@ -61,7 +61,7 @@ The audience participates by clapping and dancing, and laughter echoes through t
 
 ### 1.2 Birth and reaction of "Do the Reggay"
 
-First performed in 1966, ""Do the Reggay'' instantly electrified audiences at club shows in Jamaica. The audience sings, dances, and laughs in a circle on the floor, filling the venue. Every time Toots calls out, "Do the Reggay!", there is a chain reaction of clapping and cheering.
+First performed in 1966, ""Do the Reggay'' instantly electrified audiences at club shows in Jamaica. The audience sings, dances, and laughs in a circle on the floor, filling the venue. Every time Toots calls out, "Do the Reggay!", a chain reaction of clapping and cheers ensues.
 
 This song was not just a performance, but a cultural ritual with audience participation. The word reggae spread around the world, creating a moment when audiences functioned as transmitters of culture.
 
@@ -88,7 +88,7 @@ In 1970, Toots and the Maytals embarked on their first European tour. At London'
 
 * Guitar and organ riffs echo through the floor, creating an impromptu dance.
 
-During live performances, Toots would sometimes invite audience members to dance, turning the floor into a kind of participatory theater. Success here laid the foundation for the spread of reggae in Europe.
+During live performances, Toots would sometimes invite audience members to dance, making the floor a kind of participatory theater. Success here laid the foundation for the spread of reggae in Europe.
 
 ---
 
@@ -111,7 +111,7 @@ Live performances during this period showed advances in sound and production, an
 
 ### 3.1 Reggae Sunsplash and large festival
 
-In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae Sunsplash. Once on stage, the audience begins to sing along, clapping and dancing, making the whole venue engulfed in a single rhythm.
+In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae Sunsplash. Once on stage, the audience begins to sing along, clapping and dancing, making the entire venue engulfed in a single rhythm.
 
 **Presence of performance**:
 
@@ -124,7 +124,7 @@ In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae
 
 ### 3.2 Madison Square Garden Performance (1988)
 
-A live performance held at New York's Madison Square Garden in 1988 had a decisive influence on the acceptance of reggae in the United States. Toots performed a call-and-response rendition of "Funky Kingston" with the audience, who got up and danced, bringing the entire venue together.
+A live performance held at New York's Madison Square Garden in 1988 had a decisive impact on the acceptance of reggae in the United States. Toots performed a call-and-response rendition of "Funky Kingston" with the audience, who got up and danced, bringing the entire venue together.
 
 The live recording was released as "Live at Madison Square Garden" and influenced fans around the world. This success served as an opportunity to establish reggae's status in the United States.
 
@@ -151,8 +151,8 @@ Approximately 10,000 people gathered for the 50th anniversary concert at Kingsto
 
 **Detailed description**:
 
-* A set list that covers everything from early masterpieces to the latest albums.
-* "Monkey Man" has the entire audience shaking from side to side and the floor ripples.
+* A comprehensive setlist from early masterpieces to the latest albums
+* "Monkey Man" has the entire audience shaking from side to side, making the floor ripple.
 * Toots looks at each audience member and improvises lyrics.
 
 * The entire festival became a space to experience historical continuity.
@@ -161,7 +161,7 @@ Approximately 10,000 people gathered for the 50th anniversary concert at Kingsto
 
 ### 4.3 Toots Hibbert passed away (2020)
 
-In 2020, Toots Hibbert passed away. Fans around the world commemorate the event through live videos and recordings, and pass on the culture through dance and chorus. Reggae culture through live performances has been passed down from generation to generation.
+In 2020, Toots Hibbert passed away. Fans around the world commemorate him through live videos and recordings, and pass on the culture through dance and chorus. Reggae culture through live performances has been passed down from generation to generation.
 
 ---
 
@@ -182,11 +182,11 @@ Through live performances in Europe and America, reggae spread around the world 
 
 | Year | Events | Live Episodes | Cultural Significance |
 | ---- | -------------------- | ---------------------------- | --------------- |
-| 1962 | Formation | Kingston "Chocomo Lounge" first live show | Call & Response prototype |
+| 1962 | Formation | Kingston "Chocomo Lounge" first live show | Call & Response model |
 | 1966 | "Do the Reggay" released | Audience dancing in a circle | Birth of the word "Reggae" |
-| 1968 | National festival appearance | Several thousand people | Visualizing the evolution of music genres |
+| 1968 | Appearance at the National Festival | Thousands of people | Visualizing the evolution of music genres |
 | 1970 | First European tour | London "Carnival Club" | Pioneer of worldwide spread |
-| 1972 | Live in London | Introduction of PA and improvisational dance guidance | Establishment of live music with an emphasis on sound |
+| 1972 | Live in London | Introduction of PA and improvisational dance guidance | Establishment of live music with emphasis on sound |
 | 1975 | "Funky Kingston" released | NY tour, audience participation | US market penetration |
 | 1980 | Reggae Sunsplash appearance | Audience chorus | International community formation |
 | 1988 | MSG Performance | "Funky Kingston" Call & Response | Popularization of American Reggae |
@@ -212,7 +212,7 @@ D -->|symbolic/historical| E[Cultural inheritance/memorial live]
 
 ## 8. Summary
 
-Toots and the Maytals' live shows were the embodiment of musical genre development, community building, and international cultural exchange. Interactivity with the audience, improvisation, and historical continuity through live performances are the reasons why their music has been passed down through the ages. Live performances are not just musical performances, but cultural rituals that embody reggae itself.
+Toots and the Maytals' live performances were the embodiment of musical genre development, community building, and international cultural exchange. Interactivity with the audience, improvisation, and historical continuity through live performances are the reasons why their music has been passed down through the ages. Live performances are not just musical performances, but cultural rituals that embody reggae itself.
 
 ---
 
