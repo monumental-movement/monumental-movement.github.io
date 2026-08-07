@@ -254,7 +254,7 @@ Afrobeatsは主に西アフリカ、特にナイジェリアやガーナを中�
 
 その基盤にはAfrobeat、ハイライフ、ダンスホール、R&B、ヒップホップ、ポップミュージックなど、多様な影響が存在する。
 
-代表的なアーティストとしては、:contentReference[oaicite:0]{index=0}、:contentReference[oaicite:1]{index=1}、:contentReference[oaicite:2]{index=2}などが挙げられる。
+代表的なアーティストとしては、Kabza De Small、DJ Maphorisa、Aymosなどが挙げられる。
 
 Afrobeatsの大きな特徴は、歌を中心としたポップ構造である。
 
@@ -398,7 +398,7 @@ Amapianoの成長は、一部のヒット曲によって突然起こったもの
 
 ## Kabza De Small ― Amapianoの音楽的基盤を築いた存在
 
-:contentReference[oaicite:0]{index=0}は、Amapianoを語る上で最も重要な人物の一人である。
+Kabza De Smallは、Amapianoを語る上で最も重要な人物の一人である。
 
 1992年生まれの彼は、南アフリカのプレトリア周辺で活動を開始した。
 
@@ -424,7 +424,7 @@ Kabza De Smallの音楽は、Amapianoを「流行のビート」ではなく、�
 
 ## DJ Maphorisa ― ジャンルの境界を越えたプロデューサー
 
-:contentReference[oaicite:1]{index=1}は、Amapianoを国際市場へ接続した重要人物である。
+DJ Maphorisaは、Amapianoを国際市場へ接続した重要人物である。
 
 彼はAmapiano以前から南アフリカの音楽シーンで成功しており、Afropop、Hip Hop、Houseなど幅広いジャンルに関わってきた。
 
@@ -446,7 +446,7 @@ Kabza De Smallとの「Scorpion Kings」プロジェクトは、その象徴的�
 
 ## Aymos ― 歌声によって広がったAmapiano
 
-:contentReference[oaicite:2]{index=2}は、Amapianoにソウルフルなボーカル表現を持ち込んだ重要なシンガーである。
+Aymosは、Amapianoにソウルフルなボーカル表現を持ち込んだ重要なシンガーである。
 
 それまでのAmapianoはDJやプロデューサー中心の文化だった。
 
@@ -464,7 +464,7 @@ Amapianoが世界市場へ進出する過程で、ボーカルの存在感は非
 
 ## Focalistic ― AmapianoとHip Hopを融合した新世代
 
-:contentReference[oaicite:3]{index=3}は、AmapianoとHip Hopを結びつけた代表的アーティストである。
+Focalisticは、AmapianoとHip Hopを結びつけた代表的アーティストである。
 
 彼はラッパーとして活動していたが、Amapianoのリズムを取り入れることで独自のスタイルを確立した。
 
@@ -480,7 +480,7 @@ Focalisticの音楽は、タウンシップ文化、ストリート感覚、現�
 
 ## Young Stunna ― 新世代Amapianoボーカルの象徴
 
-:contentReference[oaicite:4]{index=4}は、2020年代のAmapianoを代表する若手アーティストの一人である。
+Young Stunnaは、2020年代のAmapianoを代表する若手アーティストの一人である。
 
 特徴的な高音ボーカルとメロディックな歌唱によって、Amapianoに新しい表情を加えた。
 
@@ -494,7 +494,7 @@ Focalisticの音楽は、タウンシップ文化、ストリート感覚、現�
 
 ## Uncle Waffles ― 世界へ広げた女性DJの存在
 
-:contentReference[oaicite:5]{index=5}は、Amapianoの国際的拡散に大きな影響を与えたDJである。
+Uncle Wafflesは、Amapianoの国際的拡散に大きな影響を与えたDJである。
 
 彼女はエスワティニ出身で、南アフリカを中心に活動を広げた。
 
@@ -514,7 +514,7 @@ Uncle Wafflesの成功は、Amapianoが若い世代のデジタル文化と強�
 
 ## Tyla ― Amapianoとグローバルポップの接点
 
-:contentReference[oaicite:6]{index=6}は、Amapianoの国際的認知をさらに高めたアーティストである。
+Tylaは、Amapianoの国際的認知をさらに高めたアーティストである。
 
 彼女の音楽はAmapiano、R&B、ポップミュージックを融合したスタイルを持つ。
 
@@ -659,7 +659,7 @@ Amapianoの成長を理解するには、Afrobeatsの存在を無視できない
 
 ナイジェリアを中心としたアーティストたちは、アフリカ音楽を国際的なメインストリームへ押し上げた。
 
-:contentReference[oaicite:0]{index=0}、:contentReference[oaicite:1]{index=1}、:contentReference[oaicite:2]{index=2}などの成功によって、Afrobeatsは世界中で認識されるジャンルになった。
+Kabza De Small、DJ Maphorisa、Aymosなどの成功によって、Afrobeatsは世界中で認識されるジャンルになった。
 
 Afrobeatsの強みは、歌とメロディーである。
 
