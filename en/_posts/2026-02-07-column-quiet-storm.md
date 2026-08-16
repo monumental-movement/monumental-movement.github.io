@@ -59,7 +59,7 @@ For the black community working in the city, radio during this time was a part o
 
 ## Musical characteristics and arrangement aesthetics
 
-Analyzing Quiet Storm"s songs reveals common philosophies in their recordings and arrangements. First of all, the rhythm section doesn"t claim to be playing. The drums are brushed, light snares, or dumped kicks, and the attack sound is rounded. Although the bass occupies the lower register, the phrases are short and there are many sustained notes.
+Analyzing Quiet Storm"s songs reveals common philosophies in their recordings and arrangements. First of all, the rhythm section doesn"t claim to be playing. The drums are brushed, light snares, or dumped kicks, and the attack sound is rounded. Although the bass occupies the lower range, the phrases are short and there are many sustained notes.
 
 In the studio, the emphasis was on clarifying the place of each instrument rather than increasing the number of sounds. Electric pianos and early polyphonic synthesizers are placed in stereo to create spaciousness, but flashy modulation is avoided. Reverb was not used to exaggerate the space, but to create a smooth transition between sounds.
 

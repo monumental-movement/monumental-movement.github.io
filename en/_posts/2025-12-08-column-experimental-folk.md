@@ -56,8 +56,8 @@ The earliest examples of Experimental Folk/Psych Folk can be found in the Acid F
 Scottish duo. Introducing Eastern instruments, a microtonal approach, and ritualistic song structures.
 It is said to be the group that created the prototype of Psych Folk.
 
-- **Comus**（1969–）  
-  1971年のデビュー作 *“First Utterance”* は、英国フォークの文脈にありながら、  
+- **Comus** (1969–)
+His 1971 debut *"First Utterance"* was set in the context of British folk, but
 ・Creepy vocals
 ・Dissonant acoustic guitar
 ・Frazy arrangement for flute and violin
@@ -72,14 +72,14 @@ Although Comus was not a commercial success, future members of Current 93 and ma
 In America, psych-folk was not as defined as a collective movement as in Britain, but the following trends are important:
 
 - **John Fahey and the Genealogy of American Primitives**
-Fingerpicking with improvisational/drone/noise motives.
+Fingerpicking with improvisational, drone, and noise motives.
 Fahey was a ""folk guitar experimenter'' and greatly influenced subsequent artists.
 
 - **Tim Buckley's later works**
 Introducing jazz phrasing and non-linear structures to folk music.
 
 - **Linda Perhacs ("Parallelograms", 1970)**
-  テープ処理、ストリングス、コーラスワークを組み合わせた実験的プロダクション。
+An experimental production that combines tape processing, strings, and chorus work.
 
 During this period, American experimental folk was scattered as ""singer-songwriters' personal experiments'' and did not emerge as a movement. However, it became the sound source foundation for the revival from the 1990s onwards, which will be discussed later.
 
@@ -88,19 +88,19 @@ During this period, American experimental folk was scattered as ""singer-songwri
 # 3. 1980s-90s: Influence of Industrial / Neofolk and role of Current 93
 
 In the 1980s and 1990s, "neofolk" with acoustic elements emerged from the British post-industrial scene.
-One of the central players is **Current 93 (led by David Tibet)**.
+One of the central players is **Current 93 (hosted by David Tibet)**.
 
 ## Features of Current 93
-- In the beginning, noise/industrial elements were strong.
+- Early on there was a strong noise/industrial element.
 - Since the 1990s, the focus has shifted to acoustic instruments such as harmonium, guitar, hurdy-gurdy, and percussion.
-- 神秘主義や詩的朗読を重視  
+- Emphasis on mysticism and poetic recitation
 - Inheriting Comus and British folk approaches
 - Featuring Nick Cave, Michael Cashmore, Ben Chasny (Six Organs of Admittance) and many more
 
 He has defined the current characteristics of Experimental Folk: ""experimental music x acoustic x poetic recitation.''
 
 ## Intersection with Neofolk
-Neofolk (Death in June, Sol Invictus, etc.) are often politically controversial, but sonically
+Neofolk (Death in June, Sol Invictus, etc.) is often politically controversial, but sonically
 **Minimal arrangement x folk guitar x drone x solemn poetry**
 These elements are connected to Psych Folk's experimental orientation.
 
@@ -129,7 +129,7 @@ Examples include.
 
 ---
 
-# 5. 2010年代以降：ドローン、エレクトロアコースティック、現代音楽との融合
+# 5. Post-2010s: Fusion of drone, electro-acoustic, and contemporary music
 
 In the 2010s, Experimental Folk began blurring the lines between acoustic and contemporary music.
 
@@ -167,15 +167,15 @@ modes, ritual rhythms, religious poetry, etc.
 - Mysticism/Fables/Religious Symbols
 - Naturalism/pastoral scenes
 - Spiritual world/introspection
-- 民話／伝承の引用  
+- Quotes from folk tales/legends
 - Unusual feeling, recollection of altered consciousness (derived from psychedelia)
 
 ---
 
 # 7. Positioning of Comus・Espers・Current 93
 
-| アーティスト | 地域 | 活動時期 | 位置付け |
-|--------------|------|-----------|-----------|
+| Artist | Region | Active period | Position |
+|--------------|------|------------|------------|
 | **Comus** | UK | 1969– | The origin of acid folk. Darkfolk template. |
 | **Current 93** | UK | 1982– | A fusion of post-industrial and acoustic. The center of neofolk. |
 | **Espers** | USA | 2002– | A symbol of the resurgence of Freak Folk/Psych Folk in the 2000s. |

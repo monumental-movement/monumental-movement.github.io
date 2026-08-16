@@ -78,7 +78,7 @@ On the other hand, **Clube da Esquina**, based in the state of Minas Gerais, app
 
 ## Chapter 4: Modern Rebirth — The Age of Psychedelic Revival
 
-In the 21st century, young Brazilian bands have once again regained their ""tropical illusion.''
+In the 21st century, young Brazilian bands have once again regained their "tropical illusion."
 **Boogarins**, **Carne Doce**, **Glue Trip**, **O Terno** and others bridge British and American indie rock with the hallucinogenic sounds of the 60s. In particular, Boogarins' 2015 album "Manual" is characterized by **lo-fi spatial recording** using cassettes and analog mixers, and symbolizes the ""DIY psychedelia'' of the Spotify generation.
 
 > "Our sound is humid, like the Brazilian air."
@@ -106,7 +106,7 @@ flowchart TD
     A1967["1967: The start of the Tropicália movement"]
     A1968a["1968: Release of the album 'Tropicália: ou Panis et Circencis'"]
     A1968b["1968: Os Mutantes Debut"]
-    A1969["1969: Veloso and Jill Exile in London"]
+    A1969["1969: Veloso and Jill in exile in London"]
     A1972["1972: 'Expresso 2222' announced"]
     A2006["2006: Os Mutantes Reunion"]
     A2015["2015: Boogarins 'Manual...' Worldwide evaluation"]

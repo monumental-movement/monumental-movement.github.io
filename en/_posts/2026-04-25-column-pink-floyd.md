@@ -164,12 +164,12 @@ timeline
     1987 : 活動継続
 </div>
 
-> バンドは一つの思想から複数の解釈へと分裂した。
+> The band split from one ideology to multiple interpretations.
 
 ---
 
 
-## 第六章：遺産としてのPink Floyd
+## Chapter 6: Pink Floyd as a legacy
 
 ### Modern impact
 
@@ -183,13 +183,13 @@ Furthermore, the moment when the main members reunited at Live 8 in 2005 is reme
 
 <div class="mermaid">
 graph LR
-    A[Pink Floyd] --> B[プログレ]
-    A --> C[アンビエント]
+    A[Pink Floyd] --> B[Progressive rock]
+    A --> C[ambient]
     A --> D[Live performance]
     A --> E[concept album]
 </div>
 
-> 彼らの音楽は終わらず、方法論として生き続けている。
+> Their music never ends and continues to live on as a methodology.
 
 ---
 
@@ -212,7 +212,7 @@ timeline
     2014 : The Endless River
 </div>
 
-> 時代ごとに音楽の定義を更新し続けた軌跡である。
+> It is a trajectory that continues to update the definition of music with each era.
 
 
 ---

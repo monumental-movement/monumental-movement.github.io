@@ -12,7 +12,7 @@ title: '[Column] New Age Music - The intersection of meditation and soundscape'
 ---
 
 
-## ――自然との調和、内省、そして癒し――
+## --Harmony with nature, self-reflection, and healing--
 
 
 Text: mmr｜Theme: Deep relationship with New Age ideology and counterculture
@@ -21,16 +21,16 @@ Text: mmr｜Theme: Deep relationship with New Age ideology and counterculture
 
 ### Definition and characteristics
 
-ニューエイジ音楽（New Age Music）は、1970年代後半から1980年代にかけて欧米を中心に広がった音楽ジャンルで、瞑想・リラクゼーション・精神世界といった文脈で聴かれることが多いスタイルを指す。
+New Age music is a music genre that spread mainly in Europe and America from the late 1970s to the 1980s, and refers to a style that is often listened to in the context of meditation, relaxation, and the spiritual world.
 It has developed through a mix of ambient, contemporary, folk, and environmental music, and is characterized by a meditative, non-aggressive sound that makes full use of synthesizers and acoustic instruments. The melodies are simple, often with long sustained notes and repeated structures, and the rhythms are often purposely omitted or very slow.
 
 For this reason, it played a role as "healing music" and was associated with spiritual lifestyles and the return-to-nature movement.
 
 <hr>
 
-### 成り立ちと歴史的背景
+### Origin and historical background
 
-**1970年代**：ニューエイジ思想や東洋哲学への関心の高まりとともに、瞑想や自然回帰を志向する人々の間で広がった。クラウトロック（[Tangerine Dream](https://amzn.to/42JEfLd), [Popol Vuh](https://amzn.to/4nSrarh) など）や[ブライアン・イーノ](https://amzn.to/4ooImVa)のアンビエント作品が土壌となる。
+**1970s**: With the rise of interest in New Age thought and Eastern philosophy, it spread among people who aspired to meditation and returning to nature. Krautrock ([Tangerine Dream](https://amzn.to/42JEfLd), [Popol Vuh](https://amzn.to/4nSrarh), etc.) and the ambient works of [Brian Eno](https://amzn.to/4ooImVa) became the soil.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/reu15RM5OO0?si=cE3kX-VUHyezeIhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -56,7 +56,7 @@ After the 2000s: There was a time when it was looked down upon as "spiritual BGM
 
 - **George Winston**: A tranquil sound world of solo piano. Works with a seasonal feel, such as "December."
 
-- **アンドレアス・フォーレンヴァイダー（Andreas Vollenweider）**：エレクトリック・ハープを用いた幻想的な演奏で人気。
+- **Andreas Vollenweider**: Popular for his fantastical performances using the electric harp.
 
 - **Enigma**: A worldwide hit with "Sadeness (Part I)," a fusion of Gregorian chant and synth.
 
@@ -66,7 +66,7 @@ After the 2000s: There was a time when it was looked down upon as "spiritual BGM
 
 ### Cultural/ideological background
 
-ニューエイジ音楽は単なる音楽ジャンルではなく、ニューエイジ思想やカウンターカルチャーとの深い関係性を持っていた。
+New Age music is more than just a music genre; it has deep connections with New Age ideas and counterculture.
 
 Incorporating spiritual elements such as Eastern philosophy, Indian philosophy, meditation, and nature worship, he aims to liberate himself from city life.
 
@@ -90,7 +90,7 @@ Current new age music has moved away from being simply "healing music" and is be
 
 <hr>
 
-### “音のオアシス”の体現
+### Embodying an "oasis of sound"
 
 New Age music has often been described as ""background music'', to put it bluntly. However, its meditative and non-aggressive sound has come to embody the "sound oasis" that people are seeking as urbanization and information technology progress.
 In modern times, it has been reabsorbed into genres such as ambient and chillout, but its ideals - harmony with nature, introspection, and healing - have become even more urgent.

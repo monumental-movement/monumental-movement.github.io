@@ -54,7 +54,7 @@ His music doesn't talk politics. However, within that tranquility lies **ethnic 
 
 ## Chapter 1: The musical universe of Mali
 
-The Republic of Mali is a landlocked country located in West Africa. In a geography where the Sahara Desert and the Niger River intersect, there is a rich cultural heritage that dates back to the 13th century Mali Empire.
+The Republic of Mali is a landlocked country located in West Africa. In the geography where the Sahara Desert and the Niger River intersect, there is a rich cultural heritage dating back to the Mali Empire in the 13th century.
 The music of this land has been inherited by griots = traditional storytellers/musicians. Their role is not just as performers, but as **keepers of national memory**.
 
 Bambara, Songhai, Tuareg, Peul, Dogon... Each ethnic group has its own musical instrument and melody system, and the rhythms are intertwined in multiple layers.
@@ -68,7 +68,7 @@ Habib Koité was born in Kayazi, Mali in 1958. Her grandmother was part of Geri'
 As a young man, he studied at the **National Institute of Arts (INA)** in Bamako, where he mastered both classical guitar and folk music theory.
 After graduating, he began to innovate his guitar playing style.
 
-Koité devised a unique playing technique in which he pulled the strings with his nails instead of his fingers, reproducing the delicate tones of the kamarengoni.
+Koité devised a unique playing technique in which he pulled the strings with his nails instead of his fingers, reproducing the delicate tone of the kamarengoni.
 The sound produced by this guitar rejects European tuning and leans closer to African rhythms. It was like the sound of **the desert wind and the flow of the Niger River**.
 
 ---
@@ -78,7 +78,7 @@ The sound produced by this guitar rejects European tuning and leans closer to Af
 In 1988, Koité formed his own band **Bamada**.
 Bamada is slang for the capital city of Bamako and means "people of Bamako". The band name itself symbolizes **a bridge between city and folklore**.
 
-Bamada's sound combines a Western band format (guitar, bass, drums, percussion) with traditional African instruments such as balafon and camalengoni.
+Bamada's sound combines a Western band format (guitar, bass, drums, percussion) with traditional African instruments, the balafon and camalengoni.
 Koité asked the members to "bring different ethnic rhythms to the table," **translating the diversity within Mali into an ensemble**.
 
 ---
@@ -191,7 +191,7 @@ graph TD
     A["Mali traditional music<br>Griot culture"] --> B["Ali Farka Touré<br>(Desert Blues)"]
     B --> C["Habib Koité & Bamada<br>(Urban acoustic fusion)"]
     C --> D["Rokia Traoré / Fatoumata Diawara<br>(Deepening personal expression)"]
-    D --> E["Global Stage<br>New horizon of world music"]
+    D --> E["Global Stage<br>New Horizons for World Music"]
 
 </div>
 

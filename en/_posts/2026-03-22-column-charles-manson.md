@@ -70,7 +70,7 @@ Furthermore, the rise of the civil rights movement, the violent backlash against
 
 Charles Manson was born in 1934 into extremely unstable circumstances. His mother was young and her livelihood was fragile, so he spent his childhood moving between institutions and relatives' homes.
 
-As a young boy, he had already started committing crimes, and was arrested for theft and fraud, and sent to a correctional facility. During this period, he learns ""what is power" and ""what is control". The environment in which violence and psychological pressure were common had a decisive influence on his personality development.
+As a boy, he had already started committing crimes, and was arrested for theft and fraud, and sent to a correctional facility. During this period, he learns ""what is power" and ""what is control". The environment in which violence and psychological pressure were common had a decisive influence on the development of his personality.
 
 ### Self-development in prison
 

@@ -15,7 +15,7 @@ title: '[Column] 10-inch temptation: The aesthetics of sound told by the format'
 ---
 
 
-## 10インチという「中間のフォーマット」
+## "Intermediate format" of 10 inches
 
 
 Text: mmr｜Theme: Neither 7 inches nor 12 inches. The aesthetics of sound and memories of the times told by the 10-inch medium format
@@ -26,8 +26,8 @@ There is a certain ambiguity in that word. It has a unique yet half-finished pre
 
 10 inches is not just a matter of size. It was also another philosophy that redefined ""length of time" and ""density of sound." The restriction of around 10 minutes per side forced artists and engineers to choose ""condensation,'' and the result was a surprisingly well-defined sound and a listening experience that required concentration.
 
-"Just long enough to take a drink by the time you finish listening."
-The aesthetics of 10-inch products resides in this sense of time.
+"Just long enough to take a swig by the time you finish listening."
+The aesthetics of 10 inches resides in this sense of time.
 
 ---
 
@@ -82,16 +82,16 @@ When Radiohead released [Com Lag (2plus2isfive)](https://amzn.to/4nEgRXM) on a 1
 
 ---
 
-### 10-inch culture in Japan: minimalism and craftsmanship
+### 日本における10インチ文化：ミニマリズムと職人気質
 
 In Japan, 10-inch discs are often treated as "rare discs."
-However, because of its scarcity, it creates a special attachment to it.
+だが、その少なさゆえに、特別な愛着を生む。
 
 The precision technology of Toyo Kasei and other domestic press plants shows its true value in delicate formats like 10 inches. The silence of the board, the smoothness of the hands, and the color of the print. Each one is the result of a craftsman's sensitivity.
 
 In recent years, an increasing number of artists have chosen 10-inch discs, such as Haruomi Hosono"s [10-inch reissue] (https://amzn.to/4nMnl7a), Tabito Nanao [""Little Melody"] (https://amzn.to/46SV7QE), and Shintaro Sakamoto [""God of Disco"] (https://amzn.to/4oaCpen). It"s not just nostalgia, but an act of redesigning "listening time."
 
-"It's short, but deep."
+"It's short, but intense."
 The Japanese aesthetic of "ma" naturally blends into the 10-inch format.
 
 ---
@@ -99,7 +99,7 @@ The Japanese aesthetic of "ma" naturally blends into the 10-inch format.
 ### Redefining physical media: 10-inch future format philosophy
 
 In this era of streaming, the differences in format should have nothing to do with the sound.
-However, the existence of a 10-inch camera shakes that assumption.
+だが、10インチの存在はその前提を揺るがす。
 
 Short playback time encourages concentration.
 Small size creates intimacy.
@@ -110,17 +110,17 @@ It is a music experience that is conscious of the end, unlike a playlist that fl
 
 ---
 
-### Final chapter: Time in the palm of your hand, 10-inch speaks about the "density of sound"
+### Final Chapter: Time in the palm of your hand, 10-inch speaks about the "density of sound"
 
 10 inches is incomplete yet complete.
 It's not a long story or a short story, but a "short story" format.
-Music in the palm of your hand. However, its density is not inferior to 12 inches.
+手のひらに乗る音楽。だが、その密度は12インチにも劣らない。
 
 A format is not just a container, but an idea.
 Reevaluating the 10-inch is an act of reconsidering the way music is listened to.
 
-There is always a ""middle'' between technologies.
-Freedom of expression and a spirit of experimentation reside within this ambiguity.
+いつの時代も、技術の境目には「中間」が存在する。  
+It is in this ambiguity that the freedom of expression and spirit of experimentation resides.
 The 10-inch size quietly tells us this.
 
 ---
@@ -146,6 +146,6 @@ A2020["2020s: 10-inch reissue in Japan, object value re-emerges"]
 
 ### Related columns
 
-🔗 [【コラム】 10インチレコード技術補足編：溝幅・回転数・マスタリングの真実](https://monumental-movement.jp/Column-10-Inch-Vinyl-Tech)
+🔗 [[Column] 10-inch record technology supplement: The truth about groove width, rotation speed, and mastering](https://monumental-movement.jp/Column-10-Inch-Vinyl-Tech)
 
 🔗 [[Column] "From the sound of a needle to streaming, sound continues to live on through time." From the era of rewind to the era of infinite skip](https://monumental-movement.jp/Column-Media-Types)

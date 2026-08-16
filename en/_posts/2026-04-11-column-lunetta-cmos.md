@@ -93,7 +93,7 @@ A counter IC divides the input clock and generates signals with multiple differe
 
 <div class="mermaid">
 flowchart TD
-CLK[クロック] --> C1[1/2]
+CLK[clock] --> C1[1/2]
 CLK --> C2[1/4]
 CLK --> C3[1/8]
 CLK --> C4[1/16]
@@ -111,7 +111,7 @@ Logical operations such as XOR and AND change the relationship between signals. 
 
 ---
 
-## 歴史的背景
+## Historical background
 
 ### The interface between digital circuits and music
 
@@ -128,11 +128,11 @@ In the early 2000s, CMOS sound creation was rediscovered through Internet forums
 *Low cost
 * Can be manufactured by soldering only
 
-この流れの中で「Lunetta Synth」という概念が広まり、DIYコミュニティの中で確立された。
+In this vein, the concept of "Lunetta Synth" spread and became established in the DIY community.
 
 ### Relationship with modular synths
 
-Lunettaはモジュラーシンセとは異なる思想を持つが、以下の点で交差する。
+Lunetta has a different philosophy from modular synths, but they intersect in the following points.
 
 * Structural changes due to patching
 * Modular design
@@ -140,31 +140,31 @@ Lunettaはモジュラーシンセとは異なる思想を持つが、以下の�
 
 However, the decisive difference is that the focus is on logic signals rather than voltage control.
 
-> Lunettaはモジュラーの簡略化ではなく、全く別の進化系である。
+> Lunetta is not a modular simplification, but a completely different evolution.
 
 ---
 
 ## Acoustic characteristics
 
-### Dominance of square waves
+### Square wave domination
 
 The basic waveform of CMOS Synth is a square wave. This results in the following characteristics:
 
 * Strong harmonic components
 * Digital hard texture
-* リズミカルな断続性
+* Rhythmic discontinuity
 
 ### Instability and contingency
 
-CMOS回路は電源電圧や温度、配線によって挙動が変化する。
+The behavior of CMOS circuits changes depending on the power supply voltage, temperature, and wiring.
 
-* クロックの揺らぎ
+* Clock fluctuation
 * Aperiodic pattern
 * Chaotic rhythm
 
 This creates music with low repeatability.
 
-### 可聴域外との接続
+### Connection outside the audio range
 
 By dividing the high frequency clock, the process of dropping it into the audible range itself becomes a musical structure.
 

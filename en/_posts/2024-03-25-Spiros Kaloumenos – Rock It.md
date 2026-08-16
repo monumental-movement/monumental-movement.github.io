@@ -12,7 +12,7 @@ title: Spiros Kaloumenos – Rock It
 ---
 
 
-A techno track released on MB Elektronics in 2006 by Greek techno DJ Spiros Kaloumenos, who is part of the Marco Bailey family active in the Spanish minimal techno scene and runs Omega Audio Recordings with techno DJ Axel Karakasis.
+A techno track released on MB Elektronics in 2006 by Greek techno DJ Spiros Kaloumenos, who is a member of the Marco Bailey family active in the Spanish minimal techno scene and runs Omega Audio Recordings with techno DJ Axel Karakasis.
 
 Spiros Kaloumeno was born in Piraeus, Greece, and at the age of 13 he realized that music, especially electronic music, was his priority in life.
 

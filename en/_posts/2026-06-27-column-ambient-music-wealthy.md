@@ -26,15 +26,15 @@ I wake up in the morning with an alarm on my smartphone, and hear train announce
 
 Looking back at human history, there has never been a time when we were surrounded by so much information and sound.
 
-While the Internet has made our lives more convenient, it has also created a society that demands constant attention. Respond when notifications ring, reply when messages arrive, and keep up with new information. The brain continues to work without rest.
+インターネットは私たちの生活を便利にした一方で、常に何かへ注意を向け続けることを求める社会を生み出した。通知が鳴れば反応し、メッセージが届けば返信し、新しい情報を追い続ける。脳は休む間もなく働き続けている。
 
 In this environment, unexpected genres are increasing their presence around the world.
 
 That is ambient music.
 
-This music, which was once often talked about as a branch of experimental music or contemporary music, is now the music of choice in every aspect of daily life, including work, study, sleep, reading, and meditation.
+かつては実験音楽や現代音楽の一分野として語られることが多かったこの音楽は、今では仕事、勉強、睡眠、読書、瞑想など、日常生活のあらゆる場面で選ばれている。
 
-特に音楽ストリーミングサービスの普及は、この流れを大きく後押しした。
+In particular, the spread of music streaming services has greatly supported this trend.
 
 Categories such as "Focus," "Sleep," "Relax," and "Meditation" are standard in many services, with ambient and ambient music at their core. An increasing number of people around the world are using music not as something to listen to, but as something to organize their lives.
 
@@ -48,13 +48,13 @@ I wonder why?
 
 Humans are stimulation-seeking creatures, but when they become overstimulated, they begin to seek environments that reduce stimulation.
 
-In modern society, ""tranquility'' is no longer something that comes naturally.
+現代社会では、「静けさ」は自然に手に入るものではなくなった。
 
 Cities are noisy, information is constantly flowing, and the lines between work and personal life are blurring. In this environment, quiet spaces and quiet time have become resources that can only be obtained consciously.
 
 This change in the times is behind the popularity of ambient music.
 
-It's not the music itself that has changed.
+音楽そのものが変わったのではない。
 
 The environment surrounding us has changed.
 
@@ -111,11 +111,11 @@ In the early 20th century, French composer Eric Satie proposed the concept of "f
 
 This music was not intended for people to listen to performances, but to integrate into people's daily lives.
 
-Furthermore, in 1952, John Cage released 4 minutes 33 seconds.
+さらに1952年にはジョン・ケージが《4分33秒》を発表する。
 
 This work, in which the performers did not play a single note, posed the question to the world: ""What is music?''
 
-Rather than the silence itself, the work presented the environmental sounds present in the venue.
+静寂そのものではなく、会場に存在する環境音を作品として提示したのである。
 
 In the 1960s, minimal music by artists such as La Monte Young and Terry Riley appeared, and expressions that involved changing small amounts of material over long periods of time became widespread.
 
@@ -123,9 +123,9 @@ Inheriting these trends, Eno constructs new environmental music suitable for mod
 
 Ambient music is by no means ""music where nothing happens.''
 
-The changes in sound are very gradual, but the purpose is clear.
+音の変化は非常にゆるやかだが、その目的は明確である。
 
-Organize the space.
+空間を整えること。
 
 To slow down the flow of time.
 
@@ -200,7 +200,7 @@ Hosono, who has been active in a wide range of fields including rock, pop, elect
 
 Therefore, "space" always exists in his works.
 
-Rather than insisting on a strong melody, their sound creation was characterized by a sense of scenery, atmosphere, and time itself.
+Rather than insisting on a strong melody, the music was characterized by creating sounds that evoked a sense of scenery, atmosphere, and time itself.
 
 In 1984, ""Watering a Flower'' was produced.
 
@@ -220,7 +220,7 @@ Even with electronic sounds, it doesn't feel cold.
 
 Although it is artificial, it retains an organic temperature.
 
-This unique balance continues to influence musicians and producers around the world today.
+This unique balance continues to influence musicians and producers around the world even today.
 
 In recent years, it has been rediscovered by younger generations through overseas record shops and distribution services, and has become a representative of the term "Japanese Ambient."
 
@@ -240,7 +240,7 @@ There's no strong beat.
 
 There is no impressive rust.
 
-Still, it strangely sticks with my ears and I don't get tired even if I play it for a long time.
+Still, it strangely sticks with my ears, and I don't get tired even after playing it for long periods of time.
 
 The reason for this is that Yoshimura thought of music as ""scenery''.
 
@@ -258,7 +258,7 @@ This attitude is also reflected in the sound production at museums and galleries
 
 Rather than highlighting the work, it sets the tone for the entire space.
 
-The sound becomes part of the atmosphere, not the main character.
+The sound becomes part of the atmosphere rather than the main character.
 
 This way of thinking is similar to current architectural acoustics and sound design.
 
@@ -290,7 +290,7 @@ Japanese environmental music fit perfectly into this.
 
 Japanese works do not have excessive self-assertion.
 
-The number of sounds is small, quiet, yet somehow warm.
+The number of sounds is small and quiet, yet somehow warm.
 
 It feels urban yet natural.
 
@@ -304,7 +304,7 @@ In this way, Japanese environmental music has acquired a new meaning, not as ""J
 
 Far from being outdated, quiet music has become even more valuable in today's information-rich society.
 
-> The reason Japan's environmental music spread around the world was not because it was a masterpiece of the past, but because modern society had finally caught up with its value.
+> The reason Japanese environmental music spread around the world was not because it was a masterpiece of the past, but because modern society had finally caught up to its value.
 
 ---
 
@@ -322,7 +322,7 @@ Loud rock and intense dance music rarely plays continuously.
 
 Quiet electronic or minimalist sounds are often chosen to complement the images, and are designed to naturally draw attention to the product itself.
 
-Apple Storeにも同じ思想がある。
+The Apple Store has the same philosophy.
 
 An open architecture that makes extensive use of glass.
 
@@ -340,7 +340,7 @@ Since its founding, Apple has incorporated values ​​close to the modern desi
 
 Reduce unnecessary buttons.
 
-複雑な操作を減らす。
+Reduce complex operations.
 
 Reduce the amount of information.
 
@@ -364,7 +364,7 @@ Many people feel calm when they walk into a MUJI store.
 
 The reason for this cannot be explained by the product alone.
 
-There are few flashy decorations in the store, the colors are muted, and lots of wood and natural materials are used.
+There are few flashy decorations inside the store, the colors are muted, and lots of wood and natural materials are used.
 
 The lighting is soft and the products are spaced well apart.
 
@@ -382,7 +382,7 @@ The selection includes folk music, natural sounds, acoustic instruments, and gen
 
 This is more like a brand philosophy than a sales strategy.
 
-MUJI's value has always been ""not adding anything unnecessary.''
+MUJI has always valued the value of ""not adding anything unnecessary.''
 
 Products, architecture, packaging, and advertising are all unified by this idea.
 
@@ -454,7 +454,7 @@ Quiet music gives a sense of security and time to the space.
 
 Interestingly, luxury brands and luxury spaces have one thing in common.
 
-That is, ""the amount of information is small.''
+That is, "the amount of information is small."
 
 High-end boutiques rarely have products lined up tightly.
 
@@ -510,13 +510,13 @@ Design your product.
 
 Plan new services.
 
-こうした仕事では、単純作業とは異なり、高い集中力を維持することが求められる。
+Unlike simple tasks, these jobs require a high degree of concentration.
 
 Therefore, great attention has been paid to the sound environment during work.
 
 There are conversations in the office, keyboard typing, and the phone ringing.
 
-Open offices have become common in recent years, and surrounding noises often interfere with concentration.
+Open offices have become commonplace in recent years, and surrounding noises often interfere with concentration.
 
 Therefore, many people have started using headphones and earphones to create their own sound environment.
 
@@ -526,13 +526,13 @@ Of course, everyone has different tastes, but electronic music with few lyrics, 
 
 The reason is relatively simple.
 
-When music has lyrics, the brain tries to process the meaning of the words.
+歌詞がある音楽では、脳は言葉の意味を処理しようとする。
 
 Especially if you like a song, it's easier to pay attention to the melody and lyrics.
 
-On the other hand, ambient music does not aim to force one's attention towards the music itself.
+一方でアンビエントは、音楽そのものへ意識を強く向けさせることを目的としていない。
 
-音は存在するが、前へ出過ぎない。
+The sound is present, but not too forward.
 
 This makes it easier to return attention to the work that should be done.
 
@@ -554,7 +554,7 @@ Behind the popularity of ambient music is a change in the environment surroundin
 
 Our brains have a limit to the amount of information they can process at once.
 
-In psychology, this limited processing capacity is explained using concepts such as ""attentional resources" and ""working memory."
+心理学では、この限られた処理能力を「注意資源」や「ワーキングメモリ」といった概念で説明している。
 
 What you see.
 
@@ -570,15 +570,15 @@ advertisement.
 
 All of this information is subject to processing by the brain.
 
-しかも現代では、それらが同時に押し寄せる。
+Moreover, in modern times, all these things are surging at the same time.
 
 For example, while you're at work, you receive an email, a chat ringer, and a notification appears on your smartphone.
 
 Even though each stimulus is small, the accumulation of these stimuli causes the brain to constantly switch its attention.
 
-この状態が長時間続くと、集中力が低下し、判断力や創造性にも影響を及ぼすことがさまざまな研究で指摘されてきた。
+Various studies have pointed out that if this state continues for a long time, the ability to concentrate deteriorates, affecting judgment and creativity.
 
-つまり、私たちが疲れているのは、身体だけではない。
+In other words, it's not just our bodies that are tired.
 
 The brain itself becomes fatigued due to stimulation.
 
@@ -588,13 +588,13 @@ By reducing stimulation, the brain does not have to process information as much 
 
 Ambient music is used as one means to achieve this.
 
-音が完全になくなると、周囲の物音が逆に気になる人もいる。
+When the sound is completely eliminated, some people become more concerned about the sounds around them.
 
 Therefore, by having a constant sound that spreads gently, small noises become less noticeable.
 
 Ambient music is not music that increases stimulation, but music that conditions stimulation.
 
->What modern people are looking for may not be new stimulation, but an environment where they can think in peace.
+> What modern people are looking for may not be new stimulation, but an environment where they can think in peace.
 
 ---
 
@@ -642,15 +642,15 @@ An environment where people can continue to think with peace of mind is also an 
 
 Ambient music has become widely accepted around the world, partly due to the growing interest in meditation and mindfulness.
 
-When you think of meditation, some people may think of a religious practice.
+瞑想というと、宗教的な修行を思い浮かべる人もいるかもしれない。
 
-However, in recent years, it has increasingly been adopted as a form of self-care for the mind and body.
+しかし近年では、心身を整えるセルフケアの一つとして取り入れられる場面が増えている。
 
-Turn your attention to your breathing.
+呼吸へ意識を向ける。
 
 Become aware of your thoughts and let them go.
 
-Return your attention to the present moment.
+今この瞬間へ注意を戻す。
 
 A quiet environment is important for these practices.
 
@@ -670,7 +670,7 @@ What they all had in common was that they did not overstimulate the brain.
 
 In modern society, many services and products compete for people's attention.
 
-In this context, ambient exists not to steal attention, but to protect it.
+その中でアンビエントは、注意を奪うのではなく、注意を守るために存在している。
 
 This reversed way of thinking is the reason why ambient music continues to be supported even now, half a century later.
 
@@ -692,19 +692,19 @@ However, with the spread of streaming services, that relationship has changed si
 
 Music can now be played anytime and anywhere, and it has become important not only ""what to listen to" but ""when and in what situations to listen to it."
 
-その変化を象徴しているのが、「Focus」「Deep Focus」「Peaceful Piano」「Sleep」「Meditation」「Relax」といったプレイリストである。
+Symbolizing this change are playlists such as ""Focus," ""Deep Focus," ""Peaceful Piano," ""Sleep," ""Meditation," and ""Relax."
 
 These are not organized around specific artists.
 
 The purpose is to support daily life activities such as ""concentration," ""sleep," and ""calmness.''
 
-In other words, music's role has expanded from just entertainment to a tool for organizing our lives.
+つまり、音楽は娯楽だけではなく、暮らしを整えるツールへと役割を広げた。
 
 Ambient music was extremely compatible with this change.
 
-This is because music was originally created for the purpose of creating spaces and environments.
+This is because music was originally created with the purpose of creating spaces and environments.
 
-The streaming era can be said to have moved from an era of listening to a single song to an era of creating a space.
+ストリーミング時代は、「一曲を聴く時代」から、「空間をつくる時代」へ移ったともいえる。
 
 And at the center of it all was ambient.
 
@@ -714,7 +714,7 @@ Interest in ambient music has also been boosted by the growing need to set up th
 
 Work, study, read, sleep.
 
-The idea of ​​choosing the optimal sound environment for every aspect of life is spreading around the world.
+The idea of ​​choosing the optimal sound environment for every situation in life is spreading around the world.
 
 > Ambient music is changing from music to be enjoyed to infrastructure that supports our daily lives.
 
@@ -722,7 +722,7 @@ The idea of ​​choosing the optimal sound environment for every aspect of lif
 
 ## What wealthy people want is "quiet time"
 
-ここで、記事のタイトルへ戻ろう。
+Now let's go back to the title of the article.
 
 "Why do wealthy people around the world listen to ambient music?"
 
@@ -738,15 +738,15 @@ This is because the more affluent people become, the more they begin to value ""
 
 A quiet living environment is rare in the city.
 
-A house with high soundproofing performance costs a lot of money.
+A well-soundproofed house costs a lot of money.
 
-Hotels and restaurants that aren't crowded are kept quiet by high prices.
+混雑していないホテルやレストランも、高い価格によってその静けさが保たれている。
 
 ノイズキャンセリングヘッドホンが広く普及したことも、「静けさ」が価値になった時代を象徴している。
 
 Silence is not just a lack of sound.
 
-It's a space to think, a space to rest, and a space to face yourself.
+It"s time to think, it"s time to rest, it's time to face yourself.
 
 That's why brands, architects, hotels, and companies that design spaces treat ""tranquility'' as an important value.
 
@@ -827,10 +827,10 @@ In the future, where information continues to increase, its value will continue 
 | Around 1917 | Erik Satie presents his concept of "Furniture Music" |
 | 1952 | Premiere of John Cage's 4 minutes 33 seconds |
 | 1960s | Minimal music develops |
-| 1978 | Brian Eno releases "Music for Airports" |
+| 1978 | Brian Eno's "Music for Airports" announced |
 | 1980s | Ambient music spreads in Japan |
 | 1982 | Hiroshi Yoshimura "Music for Nine Post Cards" announced |
-| 1980s | Haruomi Hosono explores new possibilities of environmental music and electronic music |
+| 1980s | Haruomi Hosono explores new possibilities in environmental music and electronic music |
 | 2000s | Minimal design and quiet space design spread worldwide |
 | Late 2010s | Japanese environmental music is reevaluated overseas |
 | 2020s | Playlists for concentration, sleep, and meditation are popular on streaming services |
@@ -842,9 +842,9 @@ In the future, where information continues to increase, its value will continue 
 <div class="mermaid">
 flowchart TD
 
-A["Experimental music of the first half of the 20th century"]
-A --> B["Furniture music"]
-A --> C["4 minutes 33 seconds"]
+A["20世紀前半の実験音楽"]
+A --> B["家具の音楽"]
+A --> C["4分33秒"]
 A --> D["Minimal Music"]
 
 B --> E["Brian Eno"]
@@ -890,7 +890,7 @@ C
 -->E["stress"]
 
 D
--->F["Looking for a quiet environment"]
+-->F["静かな環境を求める"]
 
 E
 -->F

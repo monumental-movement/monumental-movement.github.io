@@ -171,7 +171,7 @@ B1. I Can't Crack (Broken Mix)
 ### Devo – New Traditionalists
 <a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
 
-Release: Posted on May 18, 2024. The fourth self-produced album by Devo, a representative of US new wave (1981).
+Release: Posted on May 18, 2024. The fourth self-produced album (1981) by Devo, a representative of the US new wave.
 
 
 Recommended points: An innovative album that combines minimal and cool synth lines, electronic percussion, and the theme of "deevolution." Contains representative songs such as "Through Being Cool".
@@ -221,7 +221,7 @@ B3. Stephen
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 
 
 #### Youtube

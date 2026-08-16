@@ -55,7 +55,7 @@ RZA (Wu-Tang's spiritual leader) later said:
 > "Anime warriors were our life.
 > They trained themselves in solitude and fought against the world. "
 
-This ""spiritual shaolin = story of training'' has a structure similar to the street struggle.
+This ""spiritual shaolin = story of training'' has a structure similar to that of street struggles.
 The ""samurai self-image" held by Wu-Tang Clan members became the prototype for the ""anime-like stoicism" that later spread throughout hip-hop.
 
 ---
@@ -70,7 +70,7 @@ Mokugyo, the koto, the shakuhachi, the sound of temple bells -- these were symbo
 However, in the 2000s, his interest expanded to ""Japanese anime.''
 RZA showed strong respect for **Nujabes**, who was the music supervisor for "Samurai Champloo".
 Ghostface Killah expanded his alias from "Tony Starks" to "Iron Man".
-He later became involved in producing the soundtrack for Afro Samurai.
+He later became involved in the production of the soundtrack for ""Afro Samurai''.
 At this point, Asian culture moves from mere quotation to the realm of co-production = collaboration.
 
 ---
@@ -96,7 +96,7 @@ At the same time, it became a pioneer of ""fusion with hip-hop'' for the Japanes
 
 After Wu-Tang Clan, hip-hop acquired the ""language to talk about anime.''
 Tyler, The Creator references "Akira" and "Neon Genesis Evangelion",
-Kanye West depicts an anime-like world in the music video for "Strong Feeling",
+Kanye West depicts an anime-like world in the MV for "Strong Feeling",
 Lil Uzi Vert and Megan Thee Stallion proudly incorporate "otaku culture" into their identities.
 
 All of these phenomena are an extension of the ""window to Oriental fantasy'' opened by Wu-Tang.
@@ -115,7 +115,7 @@ It emphasized the "Zen" aspect of hip-hop and resonated with RZA's spiritual wor
 In particular, Nujabes' music combines sampling and the aesthetics of ma.
 He was spiritually connected to the Wu-Tang Clan, the "Samurai of Sound."
 
-In the 2020s, clear references appear in Japanese anime works as well.
+In the 2020s, clear references appear in Japanese anime works.
 The BGM of "Jujutsu Kaisen" shows the influence of lo-fi hip-hop,
 Multiple hip-hop artists will participate in the ending of "Chainsaw Man."
 Here, anime once again reconnects with the language of the "street."
@@ -126,10 +126,10 @@ Here, anime once again reconnects with the language of the "street."
 
 The "East" seen by the Wu-Tang Clan is not a figment of imagination;
 It was a structural diversion to introduce philosophical elements such as **self-discipline, serenity, and spiritual unity** into a world of violence.
-At the same time, this is in line with the ""stories of battle and growth'' that Japanese anime has depicted.
+At the same time, it is in line with the ""stories of battle and growth'' that Japanese anime has depicted.
 
 Street MCs sharpen their rap skills like a sword,
-Anime characters transcend themselves through "training."
+Anime characters transcend themselves through "training".
 These two stories transcend cultural barriers and converge into one spiritual archetype: the poetics of the warrior.
 
 Today, hip-hop and anime share the same global myth.
@@ -199,7 +199,7 @@ flowchart TD
 
 ## Final Chapter: Where Rhythm and Sword Intersect
 
-The Wu-Tang Clan's name was taken from the Chinese martial arts temple Wudang.
+The Wu-Tang Clan's name was taken from the Chinese martial arts temple "Wudang".
 However, their true stage was in the spiritual dojo = music.
 Just as Japanese anime depicts human growth through battle,
 They too have continued to train their souls through "sound and poetry."
@@ -208,7 +208,7 @@ This attitude is still alive in contemporary artists.
 Anime characters and rappers are all facing the same question.
 **"How to train yourself and how to fight against the world"**
 
-That is the greatest legacy left by the Wu-Tang Clan.
+That is the greatest legacy left behind by the Wu-Tang Clan.
 
 ---
 

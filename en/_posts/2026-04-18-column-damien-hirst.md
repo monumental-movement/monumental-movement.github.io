@@ -18,7 +18,7 @@ title: '[Column] Damien Hirst and the speed of punk: the rhythm of production dr
 
 ## Introduction: Noise and speed in the studio
 
-Text: mmr｜Theme: Interpreting the influence of music flowing in the production environment on the speed and ideology of works in contemporary art since the 1980s, from the relationship between Damien Hirst and punk.
+Text: mmr｜Theme: Interpreting the influence of music flowing in the production environment on the speed and ideology of works in contemporary art since the 1980s, based on the relationship between Damien Hirst and punk.
 
 From the late 1980s to the 1990s, British contemporary art underwent a major transformation. At the center of this was Damien Hirst. His works are often talked about in terms of their visual intensity, such as animals soaked in formalin and the arrangement of medical equipment, but "sound" was clearly in the background of his creation.
 
@@ -107,7 +107,7 @@ What is important here is the process by which punk's anti-establishment spirit 
 
 ### Works as provocations
 
-Works that use animal carcasses and medical equipment raise ethical debates. This is similar to the provocative nature of punk.
+Works that use animal carcasses and medical equipment raise ethical debates. This is the same type of provocativeness that punk has.
 
 However, the provocation is no longer external to the system, but operates within it. Within the institutions of galleries and museums, a structure has emerged in which criticism is commodified.
 
@@ -166,7 +166,7 @@ To understand Damien Hirst's production, you have to listen not only to the visu
 
 Punk, exemplified by The Sex Pistols, was more than just an influence, it provided an underlying logic of production. Speed, immediacy, anti-establishment. All of these are directly connected to the generation of new value in contemporary art.
 
-And now, that value has become inseparable from the market. What was once a rebellion has now become part of the most efficient production strategy.
+And now, its value has become inseparable from the market. What was once a rebellion has now become part of the most efficient production strategy.
 
 > When speed itself is converted into value, art appears as movement rather than thought.
 

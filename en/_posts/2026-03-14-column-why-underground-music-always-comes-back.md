@@ -85,7 +85,7 @@ First, being on the **social periphery**.
 
 - Surroundings of the city
 - Immigrant community
-- 若者文化
+- Youth culture
 - Minority culture
 
 In these places, values ​​that differ from mainstream culture develop.
@@ -132,7 +132,7 @@ Rock and roll in the 1950s was spread by radio and television.
 
 Punk in the 1970s was spread by music magazines and indie labels.
 
-1980年代後半のハウスとテクノは、クラブ文化とレコードショップのネットワークによって世界に広がった。
+House and techno in the late 1980s spread around the world through club culture and a network of record shops.
 
 In other words, underground music becomes **visible** at some stage.
 
@@ -167,7 +167,7 @@ Many genres become ""pop'' at this stage.
 
 - Punk becomes pop punk
 - Hip hop becomes pop rap
-- テクノはEDMに変化する
+- Techno turns into EDM
 
 This change is not the end of culture.
 

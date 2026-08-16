@@ -17,7 +17,7 @@ title: '[Column] History of US Hip Hop: Overall picture including regions, clubs
 
 ## History of American hip-hop: Overall picture including regions, clubs, media, equipment, etc.
 
-Text: mmr｜Theme: About hip-hop, where different styles have been formed in each region in the United States
+Text: mmr｜Theme: About hip-hop, where different styles have been formed in each region of the United States
 
 Hip hop was born in the Bronx, New York in the late 1970s, and has developed into more than just a music genre, it has also become a culture linked to dance, graffiti, fashion, and social movements.
 In the United States, different styles were formed in each region, and development was supported by the club scene, radio, demo tapes, and record culture. Additionally, the development of sampling technology and the subsequent trend toward de-sampling symbolized musical innovation in hip-hop.
@@ -114,10 +114,10 @@ Dr. Dre's ""The Chronic'' (1992) skillfully uses sampling, while G-funk uses a l
 
 ### Club culture
 DJ sets evolved at clubs in New York and LA. In an era before radio and streaming, songs became a buzz on club floors.
-Before demo tapes and the Internet, rap battles were centered around clubs.
+Before demo tapes and the internet, rap battles were centered around clubs.
 
 De-sampling and equipment changes
-With the spread of DAWs (Pro Tools, Ableton Live), it is now possible to create unique sound sources using synths and plug-ins without relying on sampling.
+With the spread of DAWs (Pro Tools, Ableton Live), it is now possible to create original sound sources using synths and plug-ins without relying on sampling.
 This increases the proportion of original beats.
 
 ### Representative masterpiece
@@ -156,7 +156,7 @@ Expanding the use of plugins and sample packs
 
 **West Coast**: Gangsta rap, G-funk, rolling parties in the clubs
 
-**Southern**: Trap, tape distribution, unique sense of rhythm
+**Southern part**: Trap, tape distribution, unique sense of rhythm
 
 **Clubs and radio**: A place for dissemination and dissemination, a hotbed of freestyle culture
 
@@ -166,13 +166,13 @@ Hip-hop is a culture that has evolved through a close intertwining of regions, c
 
 ---
 
-## Specific example of sampling copyright litigation
+## Specific examples of sampling copyright lawsuits
 
 - **Grand Upright Music v. Biz Markie (1991)**
 Gilbert O"Sullivan"s "Alone Again" unauthorized sampling lawsuit. Since then, it has been clarified that samples without permission are illegal.
 
 - **Bridgeport Music v. Dimension Films (2005)**
-An incident involving unauthorized use of Funkadelic's guitar loop. It has become a legal precedent that the use of samples without permission, even for one second, is prohibited.
+An incident involving unauthorized use of Funkadelic's guitar loop. The court established that the use of samples without permission, even for one second, is prohibited.
 
 - **The Turtles v. De La Soul (1989~Settlement)**
 Unauthorized sample in "Transmitting Live from Mars". Since then, De La Soul has been difficult to distribute digitally for many years.
@@ -218,7 +218,7 @@ Unauthorized sample in "Transmitting Live from Mars". Since then, De La Soul has
 | 1990s | Akai MPC60/3000, Roland TR-909, Ensoniq ASR-10 |
 | 2000s | Korg Triton, Roland Fantom, Pro Tools, TR-808 |
 | 2010s | FL Studio, Ableton Live, Auto-Tune, Maschine |
-| 2020s | Serato DJ, Ableton Push, Native Instruments Maschine+, AI beat generation tool |
+| 2020s | Serato DJ, Ableton Push, Native Instruments Maschine+, AIビート生成ツール |
 
 ---
 
@@ -292,7 +292,7 @@ flowchart TB
 # Waveform comparison of typical hip-hop beats
 
 Although it is text-based, it is expressed with pseudo waveforms that are conscious of sine waves and square waves.
-You can visually understand the evolution of rhythm in hip-hop.
+ヒップホップにおけるリズムの進化を「視覚的に」理解できる。
 
 ---
 
@@ -332,8 +332,8 @@ Bass: ▂▄▅▄▂
 </tr>
 <tr>
 <td>
--Akai MPC60
--Akai MPC3000
+- Akai MPC60
+- Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909
 </td>
@@ -360,7 +360,7 @@ Bass: ▂▄▆█▇▆▄▂
 </tr>
 <tr>
 <td>
-- Akai MPC2000XL
+-Akai MPC2000XL
 -Pro Tools
 - Korg Triton
 </td>

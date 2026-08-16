@@ -63,7 +63,7 @@ In other words, bass sounds are deeply connected to the history of human evoluti
 
 In this column, we will explore the question, "Why does bass feel so good?" by crossing the fields of acoustics, neuroscience, psychology, evolution, physiology, and music culture.
 
-> The pleasure of bass sounds comes from reactions throughout the human body that cannot be explained by the ears alone.
+> The pleasure of bass sounds comes from a reaction throughout the human body that cannot be explained by the ears alone.
 
 
 
@@ -385,21 +385,21 @@ gorilla.
 
 There are situations in which both use lower frequencies than humans.
 
-The low voice is
+The low voice
 
 "I'm big"
 
-「近づくな」
+"Don't come close"
 
-It is thought that it has evolved as a means of conveying this information to others.
+It is thought that it has evolved as a means of conveying information to others.
 
 ### Humans also unconsciously evaluate low voices
 
-心理学の研究では、人は状況によって声の高さを変えることが知られています。
+Psychological research shows that people change the pitch of their voices depending on the situation.
 
 especially,
 
-- 緊張した場面
+- tense scene
 - Situations that demonstrate leadership
 - Scenes where you want to express dignity
 
@@ -474,7 +474,7 @@ That's why bass frequencies have a stronger effect on our bodies and emotions th
 
 ---
 
-## 低音と音楽文化の発展
+## Development of bass and music culture
 
 ### Increasing the size of musical instruments created bass sounds
 
@@ -482,11 +482,11 @@ Ancient percussion instruments and drums were sometimes made large to carry soun
 
 As instruments become larger, they can produce lower frequencies.
 
-Later, instruments that played low tones such as the double bass and pipe organ developed, and they became an important part of supporting harmony in Western music.
+Later, instruments for bass sounds such as the double bass and pipe organ developed, and they became an important part of supporting harmony in Western music.
 
-On the other hand, in the latter half of the 20th century, advances in electrical technology led to the appearance of electric basses, large amplifiers, and subwoofers, making it possible to express ultra-low frequencies that were previously difficult to reproduce.
+On the other hand, in the second half of the 20th century, advances in electrical technology led to the appearance of electric basses, large amplifiers, and subwoofers, making it possible to express ultra-low frequencies that were previously difficult to reproduce.
 
-In this way, the role of bass has expanded from being the "foundation" to being the "main player."
+In this way, the role of the bass expanded from the "foundation" to the "main role."
 
 > Advances in technology have made bass sounds easier to reproduce and have developed into a central expression of modern music.
 
@@ -494,7 +494,7 @@ In this way, the role of bass has expanded from being the "foundation" to being 
 
 ## A time when bass became the main character of music
 
-### レコードでは再現できなかった超低音
+### Super bass that couldn't be reproduced on records
 
 Nowadays, audio equipment that can play up to around 20Hz is not uncommon.
 
@@ -508,7 +508,7 @@ When RIAA equalization was standardized in the 1950s, record recording efficienc
 
 In other words, the era in which we could freely handle bass sounds was only made possible by advances in audio technology.
 
-### 電気楽器が低音の表現を変えた
+### Electric instruments have changed the expression of bass sounds
 
 In the 1950s, electric basses began to become popular.
 
@@ -527,7 +527,7 @@ In the late 1960s, large bass amplifiers were developed, and it became possible 
 
 ### Dub created a "culture of listening to bass sounds"
 
-1970年代のジャマイカでは、ダブという新しい音楽表現が誕生します。
+In Jamaica in the 1970s, a new musical expression called dub was born.
 
 In the dub,
 
@@ -551,7 +551,7 @@ A[large speaker]
 
 B-->C[sound system culture]
 
-C-->D[ヒップホップ]
+C-->D[hip hop]
 C-->E[house]
 C-->F[techno]
 C-->G[drum and bass]
@@ -560,11 +560,11 @@ C-->H[dubstep]
 
 ### Synthesizers made super bass possible
 
-アナログシンセサイザーの普及は、低音表現をさらに進化させました。
+The spread of analog synthesizers has further evolved bass expression.
 
 The oscillator made it possible to stably generate ultra-low frequencies that were difficult to play with previous bass instruments.
 
-特にサイン波は倍音が少なく、非常に滑らかな低音を作ることができます。
+In particular, sine waves have few overtones and can produce very smooth bass sounds.
 
 Many of today's sub-bass are designed around this simple waveform.
 
@@ -587,7 +587,7 @@ In such songs, the 808 bass itself began to play the role of the melody.
 
 Nowadays, it is not uncommon to hear expressions such as ""the bass sings the song" rather than ""the bass supports the song."
 
-> 技術の進歩によって低音は伴奏から主役へと進化し、現代音楽のサウンドデザインそのものを変えていきました。
+> Advances in technology have evolved the bass from an accompaniment to a leading role, changing the very sound design of modern music.
 
 ---
 
@@ -624,13 +624,13 @@ In other words, the bass
 
 Both are very flexible beings that can be expressed.
 
-### Bass creates space in clubs
+### Bass creates space in the club
 
-クラブへ入ると、高音より先に低音を感じることがあります。
+When you enter a club, you may hear the bass before the high.
 
 This is because low frequencies tend to go around walls and obstacles.
 
-遠くからでも重低音だけが聞こえてくる経験をした人も多いでしょう。
+Many people have experienced hearing only heavy bass even from a distance.
 
 At large clubs,
 
@@ -654,7 +654,7 @@ The way bass is used varies depending on the genre.
 |Drum"n"Bass|Sub-bass that supports high-speed rhythm|
 |Dubstep|Tone change due to swaying bass|
 |Amapiano|The unique low frequency produced by log drums|
-|映画音楽|緊張感や迫力を演出する超低音|
+|Movie music|Super bass that creates tension and power|
 
 <div class="mermaid">
 mindmap
@@ -695,14 +695,14 @@ That's why good bass is not just "heard," but perceived as a "sense of stability
 
 ### Used as "invisible production" in video works
 
-低音は音楽だけのものではありません。
+Bass isn't just for music.
 
 It is also actively used in movies and games to move the emotions of the audience.
 
 for example,
 
 - explosion
-- 地震
+- Earthquake
 - spaceship engine
 - Monster footsteps
 - Ambient sounds for tense scenes
@@ -724,7 +724,7 @@ Therefore, bass plays the role of reinforcing the power and tension that cannot 
 
 Generally, the frequencies that humans can hear are said to be around 20Hz to 20,000Hz.
 
-しかし、この数値はあくまで目安です。
+However, this figure is only a guideline.
 
 The actual perceptible range varies greatly depending on age, hearing ability, volume, and playback environment.
 
@@ -736,14 +736,14 @@ In other words, ultra-low frequencies are not something that can be determined o
 
 ### Is anything below 20Hz "sound"?
 
-20Hz未満の周波数は、一般に「超低周波（インフラサウンド）」と呼ばれます。
+Frequencies below 20Hz are commonly referred to as "infrasound."
 
 In this region, it is difficult for humans to recognize distinct pitches.
 
 However, if the sound pressure is large,
 
 - Feeling of pressure
-- 振動
+- vibration
 - air movement
 
 It may feel like.
@@ -752,7 +752,7 @@ In the natural world,
 
 - volcanic activity
 - Earthquake
-- thunder
+- lightning
 - strong wind
 - sea waves
 
@@ -766,7 +766,7 @@ To reproduce bass, you have to move a lot of air.
 
 Therefore, it may be difficult for small speakers to reproduce frequencies around 20 to 40 Hz at sufficient volume.
 
-In large subwoofers, the large-diameter diaphragm is moved back and forth significantly to increase the ability to reproduce ultra-low frequencies.
+In large subwoofers, the large-diameter diaphragm is moved forward and backward to improve ultra-low frequency reproduction ability.
 
 This is in contrast to the treble range.
 
@@ -779,13 +779,13 @@ flowchart LR
 
 A[I want to play bass]
 
-A --> B[大量の空気を動かす]
+A --> B[move large amounts of air]
 
 B --> C[Large diameter unit]
 
 C --> D[subwoofer]
 
-D --> E[The bass that you feel with your body]
+D --> E[The bass that you feel in your body]
 </div>
 
 ### Can it be reproduced with headphones?
@@ -794,7 +794,7 @@ In recent years, headphones and earphones have greatly improved their bass perfo
 
 However, it is not easy to perfectly reproduce the ""heart-pounding bass'' of a live venue.
 
-理由は単純です。
+The reason is simple.
 
 Headphones deliver sound to your ears, but they do not transmit air vibrations throughout your body.
 
@@ -820,7 +820,7 @@ In acoustic design, it is important not only to emphasize low frequencies, but a
 
 Good quality bass is not only loud, but also well-defined and in harmony with the rest of the music.
 
-> Ultra-bass sounds are perceived not only by the ears but also by the entire body, so the experience changes greatly depending on the playback environment.
+> Ultra-low frequencies are perceived not only by the ears but also by the entire body, so the experience changes greatly depending on the playback environment.
 
 ---
 
@@ -849,7 +849,7 @@ Therefore, when producing music, we make adjustments to frequency bands and timi
 
 Sub-bass is a very low frequency band centered around 20-60Hz.
 
-多くのリスナーは、その存在を明確に意識しません。
+Many listeners are not clearly aware of its existence.
 
 However, the impression of a song changes greatly depending on whether there is a sub-bass or not.
 
@@ -877,7 +877,7 @@ This is one of the reasons why you can feel the baseline even on small smartphon
 
 A characteristic of ultra-low frequencies is that it is difficult to distinguish between left and right positions.
 
-そのため、音楽制作ではサブベースを中央へ配置することが一般的です。
+Therefore, in music production, it is common to place the sub-bass in the center.
 
 By this,
 
@@ -967,7 +967,7 @@ timeline
 
 ## Bass is not a "sound" but an "experience"
 
-### Why only bass moves my body?
+### Why does only the bass move my body?
 
 As we have seen, bass has different characteristics than other frequency bands.
 

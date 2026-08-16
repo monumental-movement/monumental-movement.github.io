@@ -8,7 +8,7 @@ layout: post
 tags:
 - Hiphop
 - Vinyl
-title: '[Column] The origins of sampling - 20 most sampled sound sources'
+title: '[Column] Origin of sampling ─ 20 most sampled sound sources'
 ---
 
 
@@ -37,7 +37,7 @@ color: #fff;
 
 
 #### 1. The Winstons – "Amen, Brother" (1969)
-Commonly known as "**Amen Break**". The six-second drum solo spawned countless genres, including hip-hop, jungle, drum and bass, and hardcore techno. Producers everywhere from N.W.A. and Public Enemy to Aphex Twin and The Prodigy carved out this break.
+Commonly known as "**Amen Break**". The six-second drum solo spawned countless genres, including hip-hop, jungle, drum and bass, and hardcore techno. Producers from N.W.A. and Public Enemy to Aphex Twin and The Prodigy carved out this break.
 Former drummer Gregory Coleman passed away without a reward, but the ""spirit of the groove'' that dwells between the snare and the hi-hat continues to resonate.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxZuq57_bYM?si=9sRN2gAN9wrfNQmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -46,7 +46,7 @@ Former drummer Gregory Coleman passed away without a reward, but the ""spirit of
 
 #### 2. Lyn Collins – "Think (About It)" (1972)
 Produced by James Brown. A woman"s powerful shout and "Woo! Yeah!" break symbolize the golden age of hip-hop. Quotes include Rob Base & DJ E-Z Rock"s "It Takes Two," as well as Snoop Dogg and Beyoncé.
-Combining the strength of feminism and the dynamism of funk, it caused a "chain reaction of voices" on the club floor.
+Combining the strength of feminism and the dynamism of funk, it caused a ""chain reaction of voices'' on the club floor.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKix_06L5AY?si=k-WaUDAVRRi6Mk3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -125,7 +125,7 @@ A famous material that symbolizes RZA's "shade sampling philosophy".
 ---
 
 #### 12. Joe Tex – "Papa Was Too" (1966)
-A fusion of James Brown-style funk and comedic rhythms. Quoted by Fatboy Slim and the Beastie Boys, it became the key to translating the "talk" of funk into hip-hop.
+A fusion of James Brown-style funk and comedic rhythms. Quoted by Fatboy Slim and the Beastie Boys, it became the key to translating funk's "talk" into hip-hop.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3oQdfZVMkYI?si=4OQVI7HXZGxLl0I7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -156,7 +156,7 @@ Known for Big Daddy Kane"s ""Ain"t No Half-Steppin'' and Mary J. Blige. Reconstr
 
 #### 16. Edwin Birdsong – "Cola Bottle Baby" (1979)
 Reconstructed into Daft Punk's ""Harder, Better, Faster, Stronger,'' it became the cornerstone of 21st century electro-pop.
-The moment when the experimental funk of the 70s was reborn in the age of technology.
+The moment when the experimental funk of the 1970s was reborn in the age of technology.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3AKrwna2C8?si=IOnm-Miry5dJAPdm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -171,20 +171,20 @@ A masterpiece of instrumental funk, LL Cool J and Public Enemy cited it as a bre
 
 #### 18. Barry White – "I"m Gonna Love You Just a Little More Baby" (1973)
 In the sampling world, it is a symbol of love. Quoted by The Dream and Kanye West, it straddles the line between soul and desire.
-甘美なストリングスの“持続音”が、ヒップホップにラグジュアリーな質感を与えた。
+The ""sustained sound'' of sweet strings gave hip-hop a luxurious feel.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### 19. Tom Scott – "Today" (1973)
-Pete Rock & C.L. Smooth「They Reminisce Over You」で使用。悲しみと記憶をテーマにしたこの曲は、サンプリングが“追悼”の芸術になり得ることを示した。
+Used on Pete Rock & C.L. Smooth's "They Reminisce Over You". This song, which has themes of sadness and memory, showed that sampling can be an art of "memorial."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KYKPc-DooNo?si=dRFaHjTgOoRW21cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 20. The Soul Searchers – “Ashley’s Roachclip” (1974)
+#### 20. The Soul Searchers – "Ashley"s Roachclip" (1974)
 Used by The Roots, Eric B. & Rakim, Arrested Development, and more. The transparency and density of the drum break was inherited by the ""warm sampling aesthetic'' of the 1990s.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/md9veYbl7wI?si=X2sEcu_lKxFEpBAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -198,14 +198,14 @@ Used by The Roots, Eric B. & Rakim, Arrested Development, and more. The transpar
 | 1960s | Soul/funk recording technology develops. The budding drum break culture. |
 | 1973 | Kool Herc plays two copies of "Apache" at a block party. Birth of hip hop. |
 | 1984 | Run-D.M.C. achieves first commercial sampling hit. |
-| 1989 | Public Enemy『Fear of a Black Planet』で多重サンプリング技法が確立。 |
-| 1994 | Wu-Tang Clan、RZAの“ノイズ・サンプリング”が新潮流を生む。 |
+| 1989 | Public Enemy's ""Fear of a Black Planet'' establishes multiple sampling techniques. |
+| 1994 | Wu-Tang Clan, RZA's "noise sampling" creates a new trend. |
 | 2000s | Daft Punk and Kanye West turn soul samples into pop. |
-| 2020s | AIサンプリングと著作権問題の新時代へ。 |
+| 2020s | Towards a new era of AI sampling and copyright issues. |
 
 ---
 
-### 図：サンプリングの連鎖
+### Diagram: Sampling chain
 
 <div class="mermaid">
 
@@ -223,9 +223,9 @@ E --> F["2020s AI Sampling Era"]
 
 ### Conclusion: Rhythm is forever cyclical
 
-サンプリングとは、他者の時間を借りて新たな時代を語る行為だ。
-その背後には、名もなきミュージシャンたちの呼吸、機材のノイズ、そして文化の継承がある。
-「同じ音が何度も蘇る」ことこそ、ポップミュージックの進化の証であり、過去と未来を繋ぐ最も人間的なテクノロジーなのだ。
+Sampling is the act of borrowing someone else's time to talk about a new era.
+Behind this is the breathing of nameless musicians, the noise of equipment, and the inheritance of culture.
+""The same sound coming back again and again'' is proof of the evolution of pop music, and it is the most humane technology that connects the past and the future.
 
 ---
 
@@ -241,7 +241,7 @@ E --> F["2020s AI Sampling Era"]
 
 ### Reference
 
-- [WhoSampled.com](WhoSampled.com) 
-- [The Breakbeat Bible](https://amzn.to/3J9CXma) 
+- [WhoSampled.com](WhoSampled.com)
+- [The Breakbeat Bible](https://amzn.to/3J9CXma)
 
 ---

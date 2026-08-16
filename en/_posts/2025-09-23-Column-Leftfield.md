@@ -16,7 +16,7 @@ title: '[Column] What is Leftfield? — The intersection of genre and artist'
 
 ## Leftfield is an icon of UK electronica and synonymous with musical adventure.
 
-Text: mmr｜Theme: Thoughts on the Leftfield genre and artists
+Text: mmr｜Theme: Thoughts on the Leftfield genre and the artist
 
 Leftfield is a symbol of UK electronica, an experimental and unconventional expression of the genre.
 In this article, we will explain the significance and representative works of Leftfield from the 1990s to the 2000s.

@@ -13,7 +13,7 @@ title: Tonga – Welcome To Sambatown
 ---
 
 
-TONGA, a project by DJ Corradino, Gianluca Lul, and Mauro Gazzotti, is a Latin house remake of the classic samba classic Welcome To Sambatown. A masterpiece played by many DJs such as EMMA.
+DJ Corradino, Gianluca Lul, Mauro Gazzottiによるプロジェクト、TONGAが往年のサンバクラシックWelcome To Sambatownをラテンハウス・リメイク。EMMAなど多くのDJがプレイした名盤。
 
 #### Tracklist
 ```md

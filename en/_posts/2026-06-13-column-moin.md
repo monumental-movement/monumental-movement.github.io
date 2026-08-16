@@ -21,13 +21,13 @@ Text: mmr｜Theme: Tracing the collapse and reconstruction of post-genre musical
 
 ### A band that rejects boundaries
 
-Moinはイギリス・ロンドンを拠点に活動する実験的プロジェクトであり、一般的な意味での「バンド」という枠組みを意図的に曖昧化しているユニットである。メンバーはJoe Andrews、Tom Halstead（いずれもRaimeとしても知られる）と、イタリア出身のドラマーValentina Magalettiの三名で構成される。
+Moin is an experimental project based in London, England, and is a unit that intentionally obfuscates the framework of a "band" in the general sense. The band consists of Joe Andrews, Tom Halstead (also known as Raime), and Italian drummer Valentina Magaletti.
 
 This formation itself is symbolic, and Moin is established at the intersection of Raime"s origins as an electronic duo and Magaletti"s physicality centered around acoustic and improvisational percussion expressions.
 
 In terms of genres, there are multiple elements mixed together, such as post-punk, experimental music, post-hardcore, and minimal techno, but they are presented in an intentionally disassembled state rather than integrated.
 
-その結果として生まれるのは「音楽ジャンル」ではなく「振る舞いとしての音」である。
+The result is not a ""music genre," but ""sound as a behavior."
 
 > Moin stands up not as a collection of genres, but as a movement itself that remains after genres collapse.
 
@@ -38,7 +38,7 @@ In terms of genres, there are multiple elements mixed together, such as post-pun
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -58,17 +58,17 @@ An important part of understanding Moin is the existence of members Joe Andrews 
 
 However, in Moin, this structure is intentionally dismantled. Instead of synthesizers and sustained drone sounds, guitars, drums, and fragmented rhythms come to the fore.
 
-この変化は単なる楽器編成の変更ではない。むしろ「電子音による空間構築」から「物理的衝突による時間構築」への転換である。
+This change is not just a change in instrumentation. Rather, it is a shift from ""construction of space through electronic sounds" to ""construction of time through physical collisions."
 
 Sounds don"t spread out, they collide. It doesn"t stretch, it cuts off. That discontinuity is at the heart of Moin.
 
-### 解体されたポストテクノ的構造
+### Deconstructed post-techno structure
 
-Raime時代にあったミニマル・テクノ的構造は、Moinにおいて「残響」としてのみ存在する。ビートは明確に刻まれず、代わりに断片化された衝撃として現れる。
+The minimal techno structure of the Raime era exists only as "reverberation" in Moin. The beats aren't clearly carved, instead appearing as fragmented jolts.
 
 As a result, listeners focus on the "unpredictability" rather than the groove.
 
-> Raimeの空間はMoinの断片へと分解され、音楽は構築物から現象へと変質する
+> Raime"s space breaks down into Moin"s fragments, and music transforms from a construct to a phenomenon.
 
 ---
 
@@ -76,7 +76,7 @@ As a result, listeners focus on the "unpredictability" rather than the groove.
 
 ### Structural devices beyond drums
 
-Moinの中心にあるのはValentina Magalettiのドラムであるが、それは単なるリズム楽器ではない。彼女の演奏は構造そのものを生成する行為として機能している。
+At the heart of Moin is Valentina Magaletti"s drums, but they"re more than just rhythm instruments. Her performance functions as an act that generates the structure itself.
 
 Uneven beats, intentional shifts, and micro changes in dynamics form the framework of the entire song. The "stability of the beat" in traditional rock and techno is not important here.
 
@@ -84,9 +84,9 @@ Rather, the instability itself becomes a groove.
 
 ### Between improvisation and design
 
-Magalettiの特徴は、完全な即興でも完全な作曲でもない中間領域にある。反復は存在するが、それは機械的ではなく有機的である。
+Magaletti's signature lies in the middle ground, neither completely improvised nor completely composed. There is repetition, but it is organic rather than mechanical.
 
-This ambiguous control state governs Moin's overall sound image.
+This ambiguous control state governs the overall sound image of Moin.
 
 > Drums do not play a rhythm, but function as a device that visualizes the fluctuations of time itself.
 
@@ -94,13 +94,13 @@ This ambiguous control state governs Moin's overall sound image.
 
 ## Sound characteristics: guitar deconstruction and rhythmic fragmentation
 
-### ギターは旋律ではなく衝突である
+### Guitar is a collision, not a melody
 
 The guitar in Moin is not a melody instrument. Chord progressions are also barely noticeable, replaced by noisy textures and short fragments of phrases.
 
 This approach is at once post-punk and noise-rock, but it doesn't quite belong to either.
 
-ギターは「意味を持つ音」ではなく「意味を生成しない音」として扱われる。
+The guitar is treated as a ""sound that does not generate meaning" rather than a ""sound that has meaning."
 
 ### Rhythm desynchronization
 
@@ -126,15 +126,15 @@ D --> E[Non-genre acoustic space]
 
 | Year | Works | Features |
 | ---- | ------------- | --------------------- |
-| 2020 | Moin EP       | 初期断片的構造、ポストパンクの影響が強い  |
+| 2020 | Moin EP | Early fragmentary structure, strong post-punk influence |
 | 2022 | Paste | Enhanced rhythmic experimentation and expanded acoustic space |
 | 2024 | You Never End | Completed structure, image of the band after genre collapse |
 
-In the early works, there is still a post-punk outline, but as time progresses, that outline dissolves.
+Early works still have a post-punk outline, but as time progresses, those outlines dissolve.
 
 In particular, with "You Never End," it is important that the album as a whole functions as a continuum, rather than the structure of individual songs.
 
-Although each track is independent, they simultaneously erode each other.
+Although each track is independent, they are in a relationship that erodes each other at the same time.
 
 > The chronology is not just a record, but a trajectory that shows how Moin "lost its form"
 
@@ -156,7 +156,7 @@ In post-electronic music contexts, physicality has often been diluted. However, 
 
 The impact of the drums, the noise of the guitar, the shaking of the air. All of them are perceived as physical phenomena.
 
-> Moin's live performance is not about music, but the phenomenon of sound touching the body.
+> Moin's live performance is not about music, but about the phenomenon of sound touching the body.
 
 ---
 
@@ -190,7 +190,7 @@ What emerges instead is ""performance as a relationship.''
 
 ### Instability as the future of music
 
-The future that Moin presents is not a clear answer. Rather, it is an attitude that affirms instability itself.
+The future that Moin presents is not a clear-cut answer. Rather, it is an attitude that affirms instability itself.
 
 Music is not a finished product, but a process that is constantly falling apart.
 

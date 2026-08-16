@@ -150,13 +150,13 @@ In the late 2020s, cloud-like pads and ambient texture generation using diffusio
 
 ### ● Typical beat elements of Vaportrap / Cloud Rap
 
-* **パッド**：深いリバーブのシンセ、アンビエント的コード
+* **Pad**: Deep reverb synth, ambient chords
 * **Drums**: Trap target (808, hi-hat roll, deep kick)
 * **BPM**: 120–150
 * **Vocal processing**: Deeper reverb, Auto-Tune, dub processing
 * **Texture**: 90s/Y2K Culture Quotes
 
-以下はサウンド構造を図示した関係図：
+Below is a relationship diagram illustrating the sound structure:
 
 <div class="mermaid">
 flowchart TD
@@ -183,7 +183,7 @@ timeline
 
 ---
 
-## 結語：〈雲系ラップ〉はどこへ向かうのか
+## Conclusion: Where is "cloud rap" headed?
 
 Cloud Rap is not just a genre, it has become a symbol of post-internet hip-hop production methods, aesthetics, and distribution culture. The fusion with Vaportrap continues to indicate a direction in which music revolves around the online aesthetic sphere rather than the physical context.
 

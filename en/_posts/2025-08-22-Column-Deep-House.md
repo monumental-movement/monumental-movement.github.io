@@ -48,7 +48,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 ### Musical features
 
-**和声**：メジャー7th／9th、サスコード、多めのテンション。短調でも“哀愁≠悲壮”のニュアンス。
+**Harmony**: Major 7th/9th, suspension chord, lots of tension. Even in a minor key, there is a nuance of "sadness≠tragic".
 
 **Beat**: The kick has a round and deep aftertaste. The hi-hat is a shuffle to a light swing. 909/707/727 and 808 textures are standard.
 
@@ -56,7 +56,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Keyboard/Texture**: Rhodes/M1 organ/soft strings, spatial type (delay/reverb) is long but not dense.
 
-**Vocal**: Speaking low to mid range, gospel to soul lineage. Make use of the "pause" by using the necessary and sufficient number of words.
+**Vocal**: Speaking low to mid range, gospel to soul lineage. Make use of "pause" by using the necessary and sufficient number of words.
 
 
 <hr>
@@ -111,7 +111,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 - Gradually layer EQ and faders on long mixes (16-32 bars or more).
 
-- Matching the key (tonality) and tesserae (timbre): Avoid destroying the atmosphere by selecting songs in adjacent keys/closely related tones.
+- Matching key (tonality) and tesserae (timbre): Avoid destroying the atmosphere by selecting songs in adjacent keys/closely related tones.
 
 - Dynamic waves: "Raise the heat a little and then bring it back" for 30-45 minutes.
 
@@ -132,7 +132,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Sampling**: Loop a short jazz/soul phrase and let it melt into the space with a long decay.
 
-**Mix**: Kick 40–60Hz is modest, 80–120Hz creates body rumble. Vocals should not output too much 2–5kHz.
+**Mix**: Keep the kick at 40–60Hz and create a body rumble at 80–120Hz. Vocals should not output too much 2–5kHz.
 
 
 <hr>
@@ -143,7 +143,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Listening context**: Late night drive, work/study BGM, cocktail time.
 
-**Aesthetics**: "Emotional over functionality." More shadow than sparkle.
+**Aesthetics**: ""Emotional over functionality''. More shadow than sparkle.
 
 
 <hr>
@@ -203,7 +203,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 ### Music that can be enjoyed over time, not in a moment
 
-Deep house is music that can be enjoyed over time. Rather than a single, conspicuous hit, there is a ""comfortable continuation'' that keeps the floor and listeners in sync with each other. If you understand everything from historical origins to current sub-styles, and the secrets of production and DJing, you will be able to greatly deepen your selection and appreciation.
+Deep house is music that can be enjoyed over time. Rather than a single, conspicuous hit, there is a "comfort of continuity" that keeps the floor and listeners in sync with each other. If you understand everything from historical origins to current sub-styles, and the secrets of production and DJing, you will be able to greatly deepen your selection and appreciation.
 
 ---
 

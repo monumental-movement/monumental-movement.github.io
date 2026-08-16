@@ -10,7 +10,7 @@ tags:
 - Ambient
 - Sound
 - Art
-title: '[Column] Listening to light and space: Olafur Eliasson and ambient perceptual
+title: '[Column] Listening to light and space: Olafur Eliasson and ambient perception
   experiments'
 ---
 
@@ -77,7 +77,7 @@ One critic described the work as "rehabilitation for city dwellers." Freed from 
 
 ### 《Ice Watch》 (2014–)
 
-グリーンランドの氷塊を都市に運び、自然に溶ける様子を公開するプロジェクト。この作品には象徴的なエピソードがある。
+A project to transport ice cubes from Greenland to cities and show them how they melt naturally. This work has a symbolic episode.
 
 During the exhibit, a child touched the ice and asked, ""Will this disappear in the future?'' This phrase brings the abstract issue of climate change into a very concrete sense of time.
 
@@ -113,7 +113,7 @@ This discovery was a decisive turning point in moving music from the ""foregroun
 
 ### Ambient 4: On Land (1982)
 
-この作品は実在の風景ではなく、記憶の中の風景を音として再構築したものである。イーノは具体的な場所を参照しながらも、それを曖昧化し、心理的な地形として提示する。
+This work is not a real landscape, but a reconstruction of the landscape in my memory as sound. Although Eno refers to specific places, he obscures them and presents them as psychological topography.
 
 In an interview, he said, ""I don't use actual natural sounds, but many people can feel nature.''
 
@@ -123,9 +123,9 @@ This shows that perception is based on internal interpretation rather than repro
 
 ---
 
-## スタジオという実験場：制作と環境の融合
+## The studio is a testing ground: the fusion of production and environment
 
-エリアソンのスタジオは、単なる制作場所ではなく、知覚の研究所でもある。建築、科学、芸術が交差するこの空間では、あらゆる要素が調整対象となる。
+Eliasson's studio is not just a place of production, but also a laboratory of perception. In this space where architecture, science, and art intersect, every element is subject to adjustment.
 
 Ambient music plays an important role in this. Sound without a strong rhythm or melody does not steal attention, but it also creates a state of not complete silence.
 
@@ -145,10 +145,10 @@ Eliasson and Eno's practices are consistent in that they do not present "works" 
 
 <div class="mermaid">
 flowchart LR
-A[光] --> D[perception]
+A[light] --> D[perception]
 B[sound] --> D
-C[身体] --> D
-D --> E[現実の再解釈]
+C[body] --> D
+D --> E[reinterpretation of reality]
 </div>
 
 In this structure, the audience is not a passive entity. Rather, it functions as a part of the work and participates in the generation of perception.
@@ -164,10 +164,10 @@ In this structure, the audience is not a passive entity. Rather, it functions as
 | 1948 | Brian Eno is born |
 | 1967 | Birth of Eliasson |
 | 1975 | "Discreet Music" |
-| 1978  | 『Ambient 1』           |
+| 1978 | "Ambient 1" |
 | 1982 | "On Land" |
-| 1995  | スタジオ設立                |
-| 2003  | 《The Weather Project》 |
+| 1995 | Studio established |
+| 2003 | 《The Weather Project》 |
 | 2014 | 《Riverbed》 |
 | 2014〜 | 《Ice Watch》 |
 

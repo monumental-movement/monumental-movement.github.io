@@ -9,7 +9,7 @@ tags:
 - Psy-Trance
 - Goa
 - Trance
-title: Pick up Psy-Trance works
+title: Psy-Trance（サイケデリックトランス）作品をピックアップ
 ---
 
 
@@ -95,7 +95,7 @@ F2. Deeper And Deeper
 <a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.webp"></a>
 
 
-- **Commentary**: A compilation that summarizes the Mexican trance scene. A work that allows you to enjoy regional characteristics and diverse styles.
+- **解説**：メキシコのトランス・シーンを集約したコンピレーション。地域性と多様なスタイルを味わえる作品。
 
 #### Tracklist
 ```md
@@ -134,7 +134,7 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -210,7 +210,7 @@ AA. Inner Child
 
 - **Release publication date**: 2024-05-13
 
-- **Commentary**: Compilation of MATSURI label by DJ Tsuyoshi. A great work that connects trance heritage from the 90s with modernity.
+- **解説**：DJ Tsuyoshiが手掛けるMATSURIレーベルのコンピレーション。90年代からのトランス遺産と現代性を繋ぐ良作。
 
 #### Tracklist
 ```md

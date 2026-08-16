@@ -24,7 +24,7 @@ title: '[Column] German techno and the pandemic in the 2020s: Cultural transform
 ## The Pandemic: A true history of everything from lockdown to reopening to redefining music
 
 
-Text: mmr｜Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained?
+Text: mmr | Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained
 
 
 German techno in the 2020s experienced a dramatic seismic shift centered on the **COVID-19 pandemic (2020–2022)**.
@@ -220,7 +220,7 @@ Techno from 2022 to 2024 has been completely updated to the "post-pandemic gener
 # Chapter 7: Cultural policy and urban issues in Berlin in the 2020s
 ## ● 1) Gentrification and club survival issues
 In Berlin, club locations have been under threat due to urban redevelopment.
-Post-pandemic, clubs have increasingly been on the urban policy agenda.
+Post-pandemic, clubs are increasingly on the urban policy agenda.
 
 The idea that clubs should be protected as cultural assets is gaining ground.
 
@@ -231,7 +231,7 @@ Berlin has exposed the fragility of its urban structure, which has become too de
 Since then, the city has begun to strengthen cultural measures for local residents.
 
 ## ● 3) Digitization and archiving progress
-Due to the pandemic, the club's historical materials, videos, and audio sources have been made available online.
+In the wake of the pandemic, the club's historical materials, videos, and audio sources have been made available online.
 From 2023 onwards, archive projects will be supported as part of cultural policy.
 
 ---
@@ -285,7 +285,7 @@ As of 2024, 150-170 BPM will be the mainstream.
 It is unclear whether this will continue, but it may continue due to the following factors:
 
 - Visual presentation on SNS goes well with high-speed music
-- Younger aesthetics prefer "high information density"
+- Young aesthetics prefer "high information density"
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.
@@ -294,7 +294,7 @@ It is predicted that protection policies will become more advanced from 2025 onw
 
 ## ● 3) Rise of regional cities
 Young players' scenes are thriving after the pandemic in places like Leipzig, Dresden, and Hamburg.
-In the second half of the 2020s, there is a high possibility that the concentration in Berlin will ease.
+In the second half of the 2020s, there is a high possibility that the concentration of electricity in Berlin will ease.
 
 ---
 

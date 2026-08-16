@@ -51,7 +51,7 @@ During this period, his relationship with musical instruments in his life went b
 ### 3. Traditional musical instruments called tambak and duff - their meaning and background
 
 His main instrument, the tombak, is a traditional percussion instrument that forms the core of Persian music. It has a goblet-shaped body and is made by tapping the leather surface with the hands or fingers, giving it an extremely rich tone and expressive power.
-Through a variety of playing techniques, the tamback has a history of establishing its status not only as an accompaniment instrument but also as a solo instrument.
+Through a variety of playing techniques, the tamback has a history of establishing itself not only as an accompaniment instrument but also as a solo instrument.
 
 Additionally, the **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi has performed not only with tombak, but also with duff, and has developed solo and collaborative performances that take advantage of the characteristics of each.
 
@@ -77,12 +77,12 @@ Mortazavi's most notable accomplishment is **more than 30 self-developed strikin
 Specifically, the approaches include:
 
 * **Use of different hitting points**: Attack areas that traditional players do not use, such as the center of the leather, the edge (rim), and the body (wooden part).
-* **Diverse parts of the hand**: The entire hand of the player is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that would otherwise be considered taboo.
+* **Various parts of the hand**: The entire hand of the player is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and parts that would otherwise be considered taboo.
 * **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
 * **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
 * **Resonance operation**: Controls the resonance of the body and designs the aftertaste when hitting. In this way, the "reverberation" of the sound that remains after a single hit is used as an expressive element.
 
-These techniques have also received conservative criticism from some traditional masters. However, rather than denying tradition, Mortazavi remained determined to explore its depth and possibilities.
+These techniques have also received conservative criticism from some traditional masters. However, rather than denying tradition, Mortazavi remained determined to explore its depth and potential.
 
 ---
 
@@ -235,7 +235,7 @@ Mohammad Reza Mortazavi's journey is a journey that redefines tradition, expands
 
 He doesn't just preserve the classic instrument, the tamback, but transforms it for the future. In the process of transformation, music, body, community, and consciousness intersect, and new horizons open up.
 
-The path he will take from now on is clear. Further technical exploration, new collaborations, and expansion into unknown sound spaces. However, what is more important than that is that he continues to be someone who constantly asks, ""What is rhythm?''
+The path he will take from now on is clear. Further technological exploration, new collaborations, and expansion into unknown sound spaces. However, what is more important than that is that he continues to be someone who constantly asks, ""What is rhythm?''
 
 Listening to his music is not just surrendering to the rhythm, but a journey to find the resonance between your own inner heartbeat and the world's heartbeat. Mortazavi is the guide, the map, and the destination of that journey.
 

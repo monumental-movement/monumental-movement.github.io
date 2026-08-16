@@ -23,7 +23,7 @@ Text: mmr｜Theme: A multi-layered cultural history of didgeridoo music, which i
 
 The didgeridoo is a traditional wind instrument that has been used by Aboriginal communities in Australia, mainly from the northern coast to the interior. Generally, the material is made from the trunk of a eucalyptus tree that has been hollowed out by termites, and the opening on one side is coated with beeswax to adjust the texture. Although the structure is extremely simple, the sound emitted is not just a single note drone, but has complex acoustic layers that combine overtones, rhythm, and vocalizations.
 
-The name ""didgeridoo'' that is common today does not originate from indigenous languages, but was created by English speakers in the early 20th century as an onomatopoeic term. In indigenous societies, musical instruments are named in connection with land and language, and different names reflect differences in culture.
+The name ""didgeridoo'' that is common today does not originate from indigenous languages, but was created by English speakers as an onomatopoeic term in the early 20th century. In indigenous societies, musical instruments are named in connection with land and language, and different names reflect cultural differences.
 
 > The didgeridoo is not a single musical instrument, but a collection of cultural practices that vary by region.
 
@@ -87,7 +87,7 @@ A yidaki performer is not just a musician; he or she must be a knowledgeable per
 
 In the Bininji groups of western Arnhem Land, the didgeridoo has a more rhythmic role. Onomatopoeic playing techniques using tongue clicks and voices have developed, and sound patterns reminiscent of animals and natural phenomena are often used.
 
-Making musical instruments is also an important area of ​​knowledge here, and the type of wood chosen and the direction in which it is cut has ritual significance. Production and performance are often not separated.
+Making musical instruments is also an important area of ​​knowledge here, and the type of wood chosen and the direction in which it is cut has ritual significance. In many cases, production and performance are not separated.
 
 > Instrument making itself is part of a cultural practice.
 
@@ -181,7 +181,7 @@ These differences are not ""misinterpretations'' but are legitimate forms of inh
 
 ## Role differentiation of singing, dancing, and didgeridoo
 
-It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo changes its role.
+It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo's role changes.
 
 In parts of East Arnhem Land, the didgeridoo functions as a steady support that keeps the pitch as low as possible, matching the rhythm of the lyrics. In contrast, in the West, the didgeridoo provides rhythmic cues and guides the dancers' movements.
 

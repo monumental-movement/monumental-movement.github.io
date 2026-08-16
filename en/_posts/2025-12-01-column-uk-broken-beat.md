@@ -10,7 +10,7 @@ tags:
 - Broken Beat
 - 90s
 - 00s
-title: 【コラム】 UK Broken Beat 再評価トレンド — クラブミュージックの革新的潮流
+title: '[Column] UK Broken Beat re-evaluation trend — innovative trends in club music'
 ---
 
 
@@ -48,7 +48,7 @@ In the mid-1990s, jazz-funk and drum and bass were rapidly developing in the UK 
 > "At that time, it wasn't just dancing or listening to music, it was more fun to feel the swing and groove that was born behind the rhythm."
 > — Testimony of a London club DJ at the time
 
-こうした多層的なリズム感とジャズ的ハーモニーの融合が、Broken Beat の核となるサウンドを形成しました。
+The fusion of this multi-layered sense of rhythm and jazz-like harmonies formed the core sound of Broken Beat.
 
 ---
 
@@ -65,8 +65,8 @@ Representative labels:
 
 - **Rising High**: Origin of early electronica jazz funk
 - **Reinforced Records**: Bridging Drum & Bass and Broken Beat
-- **Talkin" Loud**: A release that emphasizes soul and jazz elements.
-- **2000Black**: Activities as an artist group and community building
+- **Talkin" Loud**: A release that brings soul and jazz elements to the forefront.
+- **2000Black**: Activities as an artist group and community formation
 
 <div class="mermaid">
 graph TD
@@ -99,7 +99,7 @@ Broken Beat is more than just dance music, it is characterized by its combinatio
 
 ### 3.3 Sampling and live performance techniques
 
-- ドラムやパーカッションのライブ録音を素材に使用  
+- Use live recordings of drums and percussion as material
 - Sample soul and funk phrases
 - Programming techniques that reflect rhythmic changes in real time
 
@@ -125,7 +125,7 @@ graph LR
 | 2004 | 2000Black Collaborative Works | Showing Community Activities and Diversity |
 | 2010 | Signs of reappraisal | Attention at record shops and clubs |
 | 2015 | Reissue release | Early works are being reprinted |
-| 2020 | ストリーミングで人気拡大 | 世界的リスナー層への浸透 |
+| 2020 | Expanding popularity through streaming | Penetrating global listener base |
 | 2023 | New generation artist activities | Inheritance and development by young producers |
 
 <div class="mermaid">
@@ -150,11 +150,11 @@ timeline
 
 Broken Beat was supported not only by individual artists, but also by community and club events.
 
-- **2000Black**: Holding regular events and promoting collaboration between artists
+- **2000Black**: Hold regular events and promote collaboration between artists
 - **Influence of The Herbaliser and Jazzanova**: Diversification of sounds through international exchange
 - **London clubs**: Broken Beat sets take hold at Plastic People, The End and more
 
-> "Broken Beat wasn't just music to listen to, it was a genre where you could dance and experience the sway of the rhythm."
+> "Broken Beat wasn't just music to listen to, it was a genre where you could experience the sway of the rhythm while dancing."
 > — Testimony of a club patron at the time
 
 <div class="mermaid">
@@ -167,7 +167,7 @@ graph LR
 
 ---
 
-## 6. Recent re-evaluation trends
+## 6. Recent reevaluation trends
 
 Broken Beat has been undergoing a reappraisal in recent years.
 
@@ -186,7 +186,7 @@ graph TD
 
 ---
 
-## 7. Individual artist profile and analysis
+## 7. Artist individual profile and analysis
 
 ### Dego
 - **Start of activities**: Early 1990s
@@ -201,7 +201,7 @@ graph TD
 ### IG Culture
 - **Start of activities**: 1996
 - **Characteristics**: Soulful and jazz-fusion Broken Beat
-- **Song Analysis**: "Give Me Time" is impressive with its long sustain on the synth pad and asymmetrical rhythm. A structure that allows for a high degree of freedom in vocal phrases and gives listeners "breathing".
+- **Song Analysis**: "Give Me Time" is impressive with its long sustain on the synth pad and asymmetrical rhythm. A structure that allows for a high degree of freedom in vocal phrases and gives the listener "breathing".
 
 ### 2000Black
 - **Established**: 1998

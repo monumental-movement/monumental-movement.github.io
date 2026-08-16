@@ -75,11 +75,11 @@ Representative ones are:
 - Sequential Circuits Pro-One
 - ARP Odyssey
 
-These filter modules have an analog structure, so the overtone fluctuations during sweep are rich. French Touch's sonic image of ""closing and opening the filter'' is created with a texture unique to hardware.
+These filter modules have an analog structure, so **rich harmonic fluctuations during sweep**. French Touch's ""close and open filter'' sound image is created with a texture unique to hardware.
 
 ### ● ② Record sampling and EQ/filter work
 Daft Punk actively employs vinyl noise and texture as part of their music by leaving the sample's sound image "rough".
-Especially during the "Discovery" period, instead of polishing the samples to high quality,
+Especially during the "Discovery" period, instead of polishing the sample to high quality,
 **The aesthetic of making pop music ""just as it was picked up from the record''** is a constant.
 
 ### ● ③ Tape/compression texture
@@ -189,14 +189,14 @@ French Touch's filter sweep relied on harmonic changes unique to analog.
 
 ### ◆ ② Record culture: Music production based on sampling
 Much of French Touch begins with vinyl samples.
-Here is the ""joy of discovering'' music**.
+Here lies the ""joy of discovering'' music**.
 It was the atmosphere of the time when club culture and record culture were directly connected.
 Digging records itself was the gateway to creation.
 
 Vinyl features:
 - Noise = Texture
 - The thickness of the sound changes depending on the stylus pressure.
-- The sound image changes depending on the environment in which you rip the same record.
+- Even with the same record, the sound image changes depending on the environment in which it is ripped.
 
 This "ambiguity" was very important to French Touch.
 
@@ -288,7 +288,7 @@ It remains deeply rooted in today's dance music.
 
 The rise of Nu Disco, the return to pop music, and the return of analog media culture.
 These are all the legacies of French Touch.
-その再評価はむしろ今後さらに加速すると考えられる。
+In fact, it is thought that this re-evaluation will accelerate further in the future.
 
 > **French Touch is music that redefines "analog magic" in the digital age. **
 > **And Nu Disco is its successor, keeping that spirit updated for the 21st century. **

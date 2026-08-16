@@ -24,7 +24,7 @@ Text: mmr｜Theme: John Zorn's creative philosophy that continues to cross genre
 
 When you first hear the name John Zorn, few people can describe his music in one sentence. Although he is a jazz saxophonist, his work extends beyond free jazz to noise, hardcore, classical music, and even film music and Jewish music.
 
-1953年、アメリカ・ニューヨークに生まれたゾーンは、幼少期からクラシックと現代音楽に触れ、やがてレコードを通じてロックやジャズに傾倒していく。彼の音楽観を決定づけたのは、既存のジャンルという枠組みそのものに対する強い違和感だった。
+Born in New York, USA in 1953, Zorn was exposed to classical and contemporary music from an early age, and eventually turned to rock and jazz through records. What determined his view of music was a strong sense of discomfort with the framework of existing genres.
 
 From an early stage, Zorn took the position that ""music is an event, not a category.'' As a result, his works are characterized by sudden changes in key, sudden changes in genre, and contrasts between silence and explosion.
 
@@ -51,11 +51,11 @@ color: #fff;
 
 ### Improvised networks fostered by loft culture
 
-1970年代後半から1980年代にかけて、ゾーンはニューヨークのダウンタウン・シーンに深く関わる。この時期のニューヨークは、既存の音楽産業から外れたアーティストたちがロフトや小さなクラブで実験的な演奏を行う場となっていた。
+From the late 1970s to the 1980s, Zorn was heavily involved in New York's downtown scene. During this period, New York became a place for artists outside the established music industry to perform experimentally in lofts and small clubs.
 
 Particularly influential were the ideas of radical musicians such as Ornette Coleman and John Cage. Improvisation, chance, and the deconstruction of structure. These had a direct influence on Zorn's compositional method.
 
-In this environment, Zorn established his own composition method called "game piece." This is a method of controlling performance based on rules rather than musical scores, and the real-time decisions of the performers shape the music.
+In this environment, Zorn established a unique composition method called ""game pieces.'' This is a method of controlling performance based on rules rather than musical scores, and the real-time decisions of the performers shape the music.
 
 His masterpiece ""Cobra'' is a symbol of this, in which Zorn, who plays the role of a conductor, gives instructions to the performers using cards and gestures, creating both improvisation and structure at the same time.
 
@@ -63,7 +63,7 @@ His masterpiece ""Cobra'' is a symbol of this, in which Zorn, who plays the role
 
 ---
 
-## 代表的アルバムと音楽的飛躍
+## Representative albums and musical breakthroughs
 
 ### A discography where fragments and stories intersect
 
@@ -71,13 +71,13 @@ Zorn's body of work is vast, but one of his most important albums marks a turnin
 
 First up is Naked City (1989). This work by the band of the same name had a shocking structure that switched genres in seconds, and it instantly made Zone famous. Jazz, hardcore, and film music collide, and the very continuity of music is dismantled.
 
-続いて『Torture Garden』（1989）。こちらはさらに極端で、1曲が数秒から1分未満という短さで構成される。リスナーは音楽を「味わう」前に次の断片へと投げ込まれる。
+Next was "Torture Garden" (1989). This is even more extreme, with each song lasting anywhere from a few seconds to less than a minute. Before the listener can "taste" the music, they are thrown into the next snippet.
 
 In the 1990s, Masada Project's ""Masada: Alef'' (1994) was an important turning point. Although it is based on Jewish melodies, it has been reconstructed in an improvised jazz format. This is a work where melodic beauty comes to the fore rather than intensity, and the other side of Zorn becomes clear.
 
-さらに『Spillane』（1987）は、テキストやイメージを元に構成された「音による文学作品」とも言えるアルバムである。ハードボイルド作家Mickey Spillaneの世界観を音響で再現し、ナレーションと音楽が複雑に絡み合う。
+Furthermore, ""Spillane" (1987) is an album that can be described as a ""literary work of sound" composed based on text and images. The worldview of hard-boiled author Mickey Spillane is recreated in sound, with narration and music intricately intertwined.
 
-""The Gift'' (2001) is unique in the 2000s and beyond. Incorporating elements of lounge and surf music, it presents a relaxed side that differs from the violent sound image of the past.
+""The Gift'' (2001) is unique in the 2000s and beyond. Incorporating elements of lounge and surf music, it presents a relaxed side that is different from the violent sound image of the past.
 
 <div class="mermaid">
 graph LR
@@ -97,7 +97,7 @@ F --> G
 
 ### A collage of sounds that cuts through the world in a short time
 
-Formed in 1989, the band Naked City was the project that instantly made Zone famous. The band's members include musicians from a variety of backgrounds, including Bill Frisell and Yamatsuka Eye.
+The band Naked City, formed in 1989, was the project that instantly made Zone famous. The band's members include musicians from a variety of backgrounds, including Bill Frisell and Yamatsuka Eye.
 
 Their songs have an extreme style, switching from jazz to grindcore to surf rock in seconds. The album ""Naked City'' consists of film-like fragments strung together at high speed to form a structure that resembles a sonic montage.
 
@@ -115,9 +115,9 @@ Zorn has also composed music for numerous films, most famously for the TETSUO se
 
 These soundtracks are characterized by metallic noises and ominous rhythms, and serve to amplify the violence of the images. On the other hand, another aspect of Zone is a group of tranquil and religious works.
 
-特にMasadaプロジェクトでは、ユダヤ音楽の旋律をベースにした美しい楽曲が多数制作されている。このシリーズは後に「Radical Jewish Culture」という概念へと発展し、文化的アイデンティティを音楽で再構築する試みとなった。
+The Masada project in particular has produced many beautiful pieces based on Jewish melodies. This series later evolved into the concept of ""Radical Jewish Culture,'' an attempt to reconstruct cultural identity through music.
 
-> ゾーンの音楽は、暴力と祈りという対極を同時に内包している。
+> Zone's music simultaneously contains the opposites of violence and prayer.
 
 ---
 
@@ -147,7 +147,7 @@ In 1995, Zorn founded his own label, Tzadik. This label is not just a place to p
 
 Tzadik provides an environment where artists who are not bound by genre can freely present their work. This clearly shows the emphasis on artistry over commerciality.
 
-Zorn also established the live space ""The Stone'' in New York, and created the performance venue itself. Recording, eating and drinking are prohibited here, and a space is maintained where the focus is purely on music.
+Zorn also established the live space ""The Stone'' in New York, creating the performance venue itself. Recording, eating and drinking are prohibited here, and a space is maintained where the focus is purely on music.
 
 > Zone designs not only the music, but also the environment in which it is created.
 
@@ -194,7 +194,7 @@ timeline
     2010s : 「Book of Angels」展開
 </div>
 
-> Zone's career is constantly being updated with new projects.
+> Zone's career is constantly updated with new projects.
 
 ---
 

@@ -19,7 +19,7 @@ title: '[Column] Modern Soul / Contemporary Funk'
 
 Text: mmr｜Theme: Rhythm, performance, and production aesthetics that redefine soul and funk in the 21st century
 
-Modern Soul（モダンソウル）および Contemporary Funk（コンテンポラリーファンク）は、1990年代後半から2010年代以降にかけて、ソウル／ファンクの伝統を継承しながら、ジャズ、ヒップホップ、R&B、ネオソウル、ビートミュージックの要素を取り込み、現代的な音像へと進化したスタイルを指す。
+Modern Soul and Contemporary Funk refer to styles that evolved into a modern sound image from the late 1990s to the 2010s, incorporating elements of jazz, hip-hop, R&B, neo-soul, and beat music while inheriting the soul/funk tradition.
 
 Representative artists include **Hiatus Kaiyote**, **Anderson .Paak**, as well as D"Angelo, Robert Glasper, Thundercat, Vulfpeck, Cory Henry, The Internet, and more.
 
@@ -43,17 +43,17 @@ color: #fff;
 
 ## 1. Definition and background
 
-### 1-1. Modern Soul とは
+### 1-1. What is Modern Soul?
 
 Modern Soul is a musical style based on the soul/R&B tradition that incorporates contemporary sound design, non-cyclic chord progressions, and strong influences from beat music culture.
 It is positioned as an evolution of neo-soul since the 2000s.
 
-特徴
+Features
 
-* なめらかなテクスチャ、エレクトロニックとアコースティックの併存
+* Smooth texture, coexistence of electronic and acoustic
 * Complicated chord work (tension, quarter tone, etc.)
 * Drumming that can be assembled in 16-32 minute increments
-* ジャズ的インタープレイ
+* Jazz interplay
 * Non-root bass line, melodic bass
 * There are many works that have a higher emphasis on "band performance" than R&B.
 
@@ -62,7 +62,7 @@ It is positioned as an evolution of neo-soul since the 2000s.
 Contemporary Funk inherits the elements of 1970s funk (groove, repetition, downbeat emphasis, slap bass, horn section),
 
 * Minimal/tight rhythm
-* クリアな録音、コンプレッション／サチュレーションの精密制御
+* Clear recording, precise control of compression/saturation
 *Hip-hop loop feel
 * Hybrid of live performance and DAW editing
 21st century funk with
@@ -71,7 +71,7 @@ In particular, ""minimal funk with a reduced number of sounds" typified by Vulfp
 
 ---
 
-## 2. 系譜と歴史的展開
+## 2. Genealogy and historical development
 
 ### 2-1. Late 1990s: Rise of neo-soul
 
@@ -79,7 +79,7 @@ The neo-soul music pioneered by D'Angelo, Erykah Badu, Lauryn Hill, and Maxwell 
 
 established here
 
-* ヒップホップのビート感
+* Hip hop beat feel
 * Jazz chords
 * Analog texture
 * Loose groove
@@ -91,14 +91,14 @@ Melbourne's musical community (Hiatus Kaiyote, The Bamboos, etc.), with their ja
 
 Especially the appearance of **Hiatus Kaiyote**.
 
-* Polyrhythm（ポリリズム）
+* Polyrhythm
 * Very complex code
 * Detailed arrangement
-  をソウルと結びつけ、国際的に大きな影響を与えた。
+It has had a great impact internationally, linking the city with Seoul.
 
 ### 2-3. Anderson .Paak and the West Coast Community
 
-アンダーソン・パークは
+Anderson Paak is
 
 * Soul Funk
 * west coast hip hop
@@ -116,7 +116,7 @@ He integrated the elements of the band and expanded Contemporary Funk into the p
 * **Dilla beat (snare with a bit of delay)**
 * **Compound meter, polyrhythm**
 * **Large use of ghost notes**
-* **Swing in 32 minute increments**
+* **32 minute swings**
 
 #### Modern Soul Rhythm Structure
 
@@ -133,7 +133,7 @@ flowchart TD
 ### 3-2. Harmony
 
 * Frequent tension chords such as 7th, 9th, 11th, 13th
-* メロディック・マイナー由来のコード
+* Chords derived from melodic minor
 * Jazz quarter harmony
 * Rootless Voicing
 * Chromatic inversion and modal approach
@@ -179,7 +179,7 @@ The production of Modern Soul/Contemporary Funk is a perfect fusion of DAW and l
 
 ### 4-4. Vocal processing
 
-* コンプレッション複数段（Serial Compression）
+* Multiple stages of compression (Serial Compression)
 * Use tape plug-in for analog feel
 * Natural processing of pitch correction
 

@@ -17,7 +17,7 @@ title: '[Column] Charlotte de Witte: Queen of the techno world'
 ## Prologue ─ Rise of the Queen of Techno
 
 
-文：mmr｜テーマ：Charlotte de Witte がどのようにして自身の「テクノワールド」を築き上げたのかを、ディスコグラフィやフェス出演歴、曲解説、年表、図解を交えて探る
+Text: mmr | Theme: Explore how Charlotte de Witte built her "techno world" through her discography, festival appearance history, song commentary, chronology, and illustrations.
 
 Belgian DJ/producer **Charlotte de Witte** is currently known as one of the most important figures in the techno world.
 Her deep, minimalist sound, energetic live sets, and historic appearances at major festivals have earned her the nickname "Techno Queen."
@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## 幼少期と原点（〜2010）
+## Childhood and origins (~2010)
 
 Charlotte Aloïs de Witte was born **July 21, 1992** in Ghent, Belgium.
 As a teenager, he frequented local clubs and underground parties and developed a strong fascination with electronic music and underground club culture.
@@ -65,16 +65,16 @@ During this period, her sound took on a darker, more minimalist style, including
 Representative works include:
 
 - **Weltschmerz EP (2015, Turbo)**
-  - 代表曲：「Weltschmerz」  
+- Representative song: "Weltschmerz"
 - Features a dark, heavy beat and acid line.
 
 - **Closer EP (2017, KNTXT)**
-  - 代表曲：「Closer」  
+- Representative song: "Closer"
 - Induce the floor into a trance-like state with its minimalist structure and repetitive rhythm.
 
-- **Wisdom EP (2017, KNTXT)**  
+- **Wisdom EP (2017, KNTXT)**
 - Representative song: "Wisdom"
-  - ライブセットでのフロア統制を意識した構成。  
+- Composed with floor control in mind for live sets.
 
 He also gained international attention, appearing on BBC Radio 1's Essential Mix (2018).
 
@@ -82,8 +82,8 @@ He also gained international attention, appearing on BBC Radio 1's Essential Mix
 
 ## KNTXT: Creation of label and brand (2019 onwards)
 
-**2019年**、Charlotte de Witte は自身のレーベル **KNTXT** を設立。  
-KNTXT is a brand that reflects her minimal and powerful techno philosophy, with a philosophy of purity, strength and evolution.
+**2019** Charlotte de Witte founded her own label **KNTXT**.
+KNTXT is a brand that reflects her minimal and powerful techno philosophy, with the principles of purity, strength and evolution.
 
 Through the label, we discover and develop emerging artists, and also develop event series and radio shows. As a result, KNTXT is more than just a label, it has become a community that represents Charlotte's techno world.
 
@@ -100,7 +100,7 @@ Examples of major appearances:
 - 2022: Main stage closing (first female & techno artist)
 - 2025: Opening and closing scheduled to appear on the same day
 
-- **Movement Festival (デトロイト)**
+- **Movement Festival (Detroit)**
 - 2023: Main stage closing (first woman)
 
 - **BBC Radio 1 Essential Mix (2018)**
@@ -134,7 +134,7 @@ A work that strongly emphasizes industrial techno elements.
 ## Social and cultural significance
 
 - **Pioneering as a female DJ**
-  男性優位のテクノシーンにおいて、Charlotte はTomorrowlandやMovementでのクロージング出演など、歴史的快挙を成し遂げました。  
+In the male-dominated techno scene, Charlotte achieved historic feats including closing appearances on Tomorrowland and Movement.
 
 - **Support for young artists**
 Through KNTXT, we provide a platform for the next generation of artists.
@@ -242,10 +242,10 @@ graph TD
 ---
 
 
-## 結論 ─ テクノワールドにおける遺産
+## Conclusion – Legacy in the techno world
 
 Charlotte de Witte's career is more than just a success story.
-自身の哲学と音楽感を具現化するワールドを築き上げ、それをレーベル、ライブ、レコードを通じて共有しています。  
+He has built a world that embodies his philosophy and musical sensibility, and shares it through his label, live shows, and records.
 
 Her debut album in 2025 is an introspective expression of her techno world.
 Charlotte de Witte's techno world will continue to expand through her festival appearances and label activities.

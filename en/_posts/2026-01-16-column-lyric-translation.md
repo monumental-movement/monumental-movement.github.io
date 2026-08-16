@@ -21,7 +21,7 @@ title: '[Column] Lyrics translation and cultural transfer issues: When words cro
 Text: mmr｜Theme: Why does lyrics translation carry culture? About the history of misreading, transformation, and establishment
 
 
-ポピュラー音楽において、歌詞は単なる情報伝達の手段ではない。
+In popular music, lyrics are not just a means of conveying information.
 It is a text with extremely high cultural density, encompassing pronunciation, prosody, metaphor, social assumptions, religious views, class sense, and even the atmosphere of the time.
 
 Translating lyrics is not a process of replacing languages, but rather an act of transplanting a culture to another environment.
@@ -47,10 +47,10 @@ color: #fff;
 </style>
 
 
-## 第1章　翻訳以前に存在する「歌詞の文化的前提」
+## Chapter 1 "Cultural assumptions of lyrics" that exist before translation
 
-Lyrics are based on prerequisite knowledge shared by the speaker and audience.
-Place names, proper nouns, religious symbols, slang, and references to social institutions are self-explanatory to people in one culture, but lose meaning in another.
+Lyrics are based on prerequisite knowledge shared by the speaker and listener.
+Place names, proper names, religious symbols, slang, and references to social institutions are self-explanatory to people in one culture, but lose meaning in another.
 
 Biblical metaphors in blues and gospel, urban codes in hip-hop, and narratives of land and kinship in country music are elements that are easily lost in translation.
 
@@ -128,7 +128,7 @@ However, this misreading does not necessarily have negative consequences.
 There are many examples of lyrics that are misunderstood in one culture, acquiring new meaning in another context and forming unique reception histories.
 The reception of rock and hip-hop in Japan has also been established through this chain of reinterpretations.
 
-The important point is that translation does not completely reproduce the original culture, but that it enables new cultural practices.
+What is important is that translation does not completely reproduce the original culture, but that it enables new cultural practices.
 
 > Misreading is not a failure of cultural transfer, but the starting point of change.
 
@@ -201,7 +201,7 @@ timeline
 <div class="mermaid">
 graph TD
     A[original culture lyrics] --> B[translation]
-    B --> C[意味の削減]
+    B --> C[reduction of meaning]
     B --> D[Reconstruction of meaning]
     C --> E[misreading]
     D --> F[reinterpretation]

@@ -39,7 +39,7 @@ Dubstep is supported by the physical pressure of bass sounds, so much so that it
 
 - **Rhythm**: Broken beat structure derived from 2-step. The kick is not a four-beat beat, but the snare is emphasized on the third beat.
 
-- **Bass**: Characterized by deep sub-bass, distorted bass line, so-called "Wobble Bass".
+- **Bass**: Characterized by deep sub-bass, distorted bass line, and so-called "Wobble Bass".
 
 - **Mood**: Dark, minimal or experimental sound design.
 
@@ -65,7 +65,7 @@ From around 2008, dubstep spread beyond the UK underground and spread around the
 
 ---
 
-- **アメリカでのブレイク**：Skrillexを筆頭に、より攻撃的で派手な「ブロステップ（Brostep）」が登場。
+- **Break in America**: A more aggressive and flashy ""Brostep'' has appeared, led by Skrillex.
 
 
 - **Remix culture**: Dubstep elements were brought into pop, rock, and hip-hop, gaining a wide range of listeners.
@@ -83,7 +83,7 @@ Japan's unique dubstep culture was formed through events held at clubs in Shibuy
 
 ### Cultural influence of dubstep
 
-- **Penetration into the EDM scene**: Connected to festival culture and becoming a presence that resonates on the main stage.
+- **Penetration into the EDM scene**: Connected with festival culture and becoming a presence that resonates on the main stage.
 
 - **Re-evaluation of bass music**: Significantly influenced the development of subsequent genres such as trap and future bass.
 
@@ -99,7 +99,7 @@ Japan's unique dubstep culture was formed through events held at clubs in Shibuy
 
 - [**Zed Bias – Ambush Riddim / Cosmic Minefield**](https://monumental-movement.jp/Zed-Bias-Ambush-Riddim-Cosmic-Minefield)
 
-→ ガラージからダブステップへの橋渡しとなった一枚。
+→ A piece that bridged the gap from garage to dubstep.
 
 - [**Benga & Walsh vs Darqwan – Addicts / Megatection**](https://monumental-movement.jp/Benga-and-Walsh-Vs-Darqwan-Addicts-Megatection)
 

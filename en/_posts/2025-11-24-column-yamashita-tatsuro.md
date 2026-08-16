@@ -9,7 +9,8 @@ tags:
 - Citypop
 - 70s
 - 80s
-title: 【コラム】 山下達郎：アナログの美学とデジタル移行後の音の変化
+title: '[Column] Tatsuro Yamashita: Analog aesthetics and changes in sound after transition
+  to digital'
 ---
 
 
@@ -49,7 +50,7 @@ color: #fff;
 ## ■ Sugar Babe (1973–1976)
 Tatsuro Yamashita's musical outlook was formed in the rock/pop analog recording culture of this period.
 
-- Recording media: **Analog multitrack tape (2 inches, mainly 16-24tr)**
+- Recording medium: **Analog multitrack tape (2 inches, mainly 16-24tr)**
 - Studio: Early Japanese studio (Victor, Nichion, CBS Sony, etc.)
 - Musical background: Deep commitment to American recording culture such as Brian Wilson, Phil Spector, Stax, etc.
 
@@ -57,7 +58,7 @@ During this period, Tatsuro said that he had already solidified the idea that ""
 
 ### ■ Sound characteristics of "SONGS" (1975)
 - Self-chorus overdubbing
-- ドラムの**デッドなルームサウンド**  
+- **Dead room sound** of drums
 - Live recording of horns/strings
 - Analog-specific **thick mid-low range**
 
@@ -71,7 +72,7 @@ Arrangements and recordings optimized for analog characteristics had already beg
 This period was the era when Tatsuro made full use of analog 24-track recording.
 
 Features:
-- テープによる**温度感のあるコンプレッション**  
+- **Temperature-feeling compression** with tape
 - Overdubbing of hand playing (guitar, keyboard, percussion)
 - **Dozens of overdubbing vocals**
 
@@ -86,7 +87,7 @@ In the early 1980s, Japanese studio technology had reached a world-class level.
 At the center of this was **CBS Sony Shinanomachi Studio**.
 
 ### ▼ Analog recording peak
-- 使用機材：Studer A80/A800 24tr、NEVEコンソール  
+- Equipment used: Studer A80/A800 24tr, NEVE console
 - Rhythm: Live drums + analog recording
 - Guitar: Warm tone through compressor
 - Chorus: "Dense layering" unique to analog
@@ -95,7 +96,7 @@ At the center of this was **CBS Sony Shinanomachi Studio**.
 The sound from this time is often referred to as the ""ideal form of city pop.''
 
 ## ■ Recording aesthetics of "FOR YOU" (1982)
-This work is said to be one of the top of Tatsuro's works.
+A work that is talked about as one of the top of Tatsuro's works.
 Acoustic characteristics:
 
 1. **The highest level of clarity in analog recording**
@@ -122,7 +123,7 @@ Tatsuro began using digital equipment in earnest.
 
 Specifically, I avoided digital recording itself for the following reasons:
 
-- In the early stages of digital recording, the high range is hard and depth is easily lost.
+- In the early stages of digital recording, high frequencies are hard and depth is easily lost.
 - I hated losing the "roundness" of analog over-recording.
 - Analog was better for building my own chorus.
 
@@ -134,7 +135,7 @@ In fact, Tatsuro says, ""The era when analog 24 tracks became obsolete was a cri
 
 In the 1990s, the industry completely transitioned to digital.
 
-### ▼ Although Tatsuro transitioned to digital recording, he did not change his basic stance.
+### ▼ Although Tatsuro transitioned to digital recording, his basic stance remained the same.
 - Adopts digital recording
 - However, **increased processing to maintain analog texture**
 - Musical instrument recordings still use a lot of live sound
@@ -181,7 +182,7 @@ As a result, recent analog reissues have received high praise worldwide.
 # 8. 2020s: Latest works - era of analog return
 
 Nowadays, the demand for analog records is increasing again.
-Tatsuro maintains the following attitude in the midst of digital prosperity:
+Tatsuro maintains the following attitude amid the digital age:
 
 - Recording is mainly digital
 - But focus on analog release
@@ -218,7 +219,7 @@ timeline
 |------|---------------------------|--------------------------|
 | Recording media | Tape (2 inches) | PCM/ProTools |
 | Sound impression | Warm, thick, round | Clear, sharp |
-| Chorus | The more you layer, the more it becomes | It tends to become stiff when layered |
+| Chorus | The more you layer, the more it becomes together | It tends to become stiff when layered |
 | Drums | Thick and natural low range | Fast rise |
 | Noise | Small amount of tape hiss | Almost zero |
 | Tatsuro"s evaluation | "It"s close to the ideal form of music" | "It depends on how you use it" |

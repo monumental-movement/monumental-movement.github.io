@@ -19,15 +19,15 @@ title: '[Column] David Thomas and the horizon of post-punk: The moment when the 
 
 Text: mmr｜Theme: Expansion of voices and the formation of urban imagination in post-punk
 
-### ロックの「歌う」という前提を裏返す存在
+### An existence that turns the premise of rock "singing" upside down
 
 In rock, the ""voice"' has often been treated as a medium to carry melody. However, the arrival of David Thomas quietly but decisively undermined that assumption. His voice isn"t beautiful or even. Rather, he is unstable, sometimes shouting, sometimes muttering, and sometimes speaking. That ambiguous line is the core of his music.
 
-1970年代後半、アメリカ・オハイオ州クリーブランドという工業都市の荒廃した風景の中で、彼の音楽は形成された。その音は単なるパンクの延長ではなく、都市のノイズ、労働の疲労、そして文化の断片を吸収した「環境そのもの」だった。
+In the late 1970s, his music was formed in the desolate landscape of the industrial city of Cleveland, Ohio, USA. The sound was not just an extension of punk, but an ""environment itself'' that absorbed the noise of the city, the fatigue of work, and fragments of culture.
 
 Pere Ubu, which he led, was more than just a band, it functioned as a ideological device. There, music existed not as a story but as a landscape.
 
-> ロックの常識を逸脱することで、逆にロックの可能性を拡張した存在だった。
+> By deviating from the common sense of rock, they were an existence that expanded the possibilities of rock.
 
 ---
 
@@ -52,11 +52,11 @@ color: #fff;
 
 David Thomas was born in America in 1953. He grew up in Cleveland, a typical Rust Belt city centered on the steel industry, which was in economic decline in the 1970s. This environment had a decisive influence on his music.
 
-City noise, mechanical sounds, and inorganic landscapes. These later appear as "sound textures" in his works. It is due to this urban experience that his voice functions as part of the environmental sounds, rather than just singing.
+City noise, mechanical sounds, and inorganic landscapes. These later appear as "sound textures" in his works. It is due to this urban experience that his voice functions not just as a song, but as part of the environmental sounds.
 
-In addition to music, he also had a strong interest in literature and film. Avant-garde literature and experimental film in particular have influenced his structural view of music.
+In addition to music, he also had a strong interest in literature and movies. Avant-garde literature and experimental film in particular have influenced his structural view of music.
 
-> 都市の崩壊と文化の断片が、彼の音楽の原材料となった。
+> Urban decay and cultural fragments became the raw material for his music.
 
 ---
 
@@ -64,9 +64,9 @@ In addition to music, he also had a strong interest in literature and film. Avan
 
 ### Proto-punk underground core
 
-1970年代半ば、David ThomasはRocket from the Tombsに参加する。このバンドは短命でありながら、後のパンク／ポスト・パンクに多大な影響を与えた。
+In the mid-1970s, David Thomas joined Rocket from the Tombs. Although this band was short-lived, it had a huge influence on later punk/post-punk.
 
-Although the songs of this period were rough and noisy, they already contained a structural experimental nature. Many of his songs were later re-recorded on Pere Ubu, and there is no doubt that this was the starting point for his music.
+Although the songs of this period were rough and noisy, they already had a structural experimental nature within them. Many of his songs were later re-recorded on Pere Ubu, and there is no doubt that this was the starting point for his music.
 
 What is important is that this band was not just an ""initial form,'' but a fragment of a fully formed idea. His music was "different" from the beginning.
 
@@ -78,7 +78,7 @@ What is important is that this band was not just an ""initial form,'' but a frag
 
 ### Fusion of noise and structure
 
-1975年、David ThomasはPere Ubuを結成する。このバンド名は、ユビュ王に由来しており、その時点で彼らの美学が示唆されている。
+In 1975, David Thomas formed Pere Ubu. The band's name comes from King Ubu, which hints at their aesthetic at the time.
 
 Their 1978 album, The Modern Dance, is considered a monumental work in post-punk. This album combines synthesizer noise, non-linear structures, and David Thomas's unconventional vocals to create a sonic space completely different from traditional rock.
 
@@ -99,7 +99,7 @@ C --> D[The establishment of post-punk]
 
 ### The boundary between singing and storytelling
 
-David Thomas's most distinctive feature is his vocal style. His voice is very different from traditional singing, but rather falls somewhere between "talking" and "screaming".
+David Thomas's greatest feature is his vocal style. His voice is very different from traditional singing, but rather falls somewhere between "talking" and "screaming".
 
 This style functions as a means of presenting a situation or landscape rather than a direct expression of emotion. He creates music by "talking" rather than "singing."
 

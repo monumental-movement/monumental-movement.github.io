@@ -25,7 +25,7 @@ title: '[Column] The 100 most influential records in music history: A new histor
 
 Released in 2007, "Untrue" does not exist as an extension of dance music.
 
-Rather, it is ""music as memory"' that was reached at the end of club culture"s most advanced development.
+Rather, it is ""music as memory"' that arrived at the end of club culture"s most advanced development.
 
 Burial"s sound doesn"t depict the excitement of the floor. What we find instead is London after dawn, rain-soaked asphalt, and the echoes of an empty city.
 
@@ -56,7 +56,7 @@ color: #fff;
 
 It's not a work that produced flashy hit songs.
 
-It did not receive very high reviews when it was first released, and it was not a commercial success.
+It did not receive high praise upon its initial release, and was not a commercial success.
 
 However, today, many musicians and critics consider this work to be the origin of the idea of ​​post-rock.
 
@@ -215,7 +215,7 @@ Each performs freely.
 
 I compiled the fragments over many months,
 
-Leaving only the beautiful moments that happened by chance.
+Leaving behind only the beautiful moments that happened by chance.
 
 This methodology is similar to film editing.
 
@@ -230,7 +230,7 @@ This idea was later
 *Mogwai
 * Godspeed You! Black Emperor
 
-It has been inherited by many post-rock works such as.
+This style has been passed down to many post-rock works.
 
 Furthermore, in the 21st century,
 
@@ -314,7 +314,7 @@ In this ranking, works that created and institutionalized the genre itself were 
 
 ---
 
-thank you. Now, as Part 2 of Part 7, I will write about No. 62 with the same final quality as before.
+thank you. Now, as Part 2 of Part 7, I will be writing No. 62 with the same final quality as before.
 
 ---
 
@@ -358,7 +358,7 @@ Here, rock acquires a new sonic language.
 
 ## Acoustic revolution by Kevin Shields
 
-Kevin Shields, the central figure on this album, completely rejected traditional guitar recording.
+Kevin Shields, the central figure on this album, completely rejects conventional guitar recording.
 
 His most distinctive feature is his playing style, which he called the "Glide Guitar."
 
@@ -380,7 +380,7 @@ moreover,
 * chorus
 * Precise EQ adjustment
 
-By layering multiple layers, the guitar transforms into a gigantic acoustic wall that no longer feels like a single instrument.
+By layering multiple layers, the guitar has transformed into a gigantic acoustic wall that no longer feels like a single instrument.
 
 This isn't just a lot of effects.
 
@@ -408,7 +408,7 @@ Adjust the microphone position in centimeters,
 
 While carefully rearranging amplifiers and effects,
 
-Pursuing ideal acoustics.
+Pursuing the ideal acoustics.
 
 Here, more than just playing technique,
 
@@ -508,7 +508,7 @@ Its influence extends beyond shoegaze to include post-rock, dream pop, electroni
 
 In this ranking, works that created and institutionalized genres themselves were ranked 62nd, as they were ranked higher, but the idea presented by this work that ""the tone itself becomes a composition'' greatly changed music production from the 1990s onwards.
 
-> **"'Loveless' transforms the guitar from an instrument to be played into a device that generates the space itself. Due to its sonic revolution, it ranks 62nd in this ranking."**
+> **"'Loveless' transforms the guitar from an instrument to be played to a device that generates space itself. Due to its sonic revolution, it ranks 62nd in this ranking."**
 
 ---
 
@@ -830,7 +830,7 @@ The album format once again became the central expression of electronic music.
 
 Its influence extends not only to progressive house, techno, and electronica, but also to modern dance music as a whole.
 
-This ranking ranked 64th because it ranks works that updated the very structure of electronic music, but the concept of the "club album" presented by this work became an important indicator of electronic music for over 30 years.
+This ranking ranked 64th because works that updated the very structure of electronic music were ranked high, but the concept of the "club album" presented by this work became an important indicator of electronic music for over 30 years afterwards.
 
 > **"'Dubnobasswithmyheadman' liberated club music from 12-inch culture and developed it into an art form called albums. Due to this historical shift, we rank it at number 64 in this ranking."**
 
@@ -987,7 +987,7 @@ Decline of the automobile industry.
 
 unemployment.
 
-人口流出。
+Population outflow.
 
 Urban devastation.
 
@@ -1055,7 +1055,7 @@ Personal names are also not important.
 
 Only the works exist.
 
-As a result, the listener sympathizes with the idea itself, rather than worshiping a specific artist.
+As a result, listeners do not worship a particular artist, but empathize with the idea itself.
 
 This anonymity had a great influence on later electronic music,
 
@@ -1089,7 +1089,7 @@ What they drew was
 
 Management society.
 
-監視。
+Surveillance.
 
 information.
 
@@ -1126,7 +1126,7 @@ This ranking ranked 66th because it ranks works that created and institutionaliz
 
 **The Orb's Adventures Beyond the Ultraworld**, released in 1991, was the first historic album to truly fuse club culture and ambient music.
 
-1980年代末、イギリスではセカンド・サマー・オブ・ラブを経てレイブ文化が急速に拡大していた。
+At the end of the 1980s, rave culture was rapidly expanding in Britain following the Second Summer of Love.
 
 A club where you can dance all night long.
 
@@ -1140,7 +1140,7 @@ Time to rest in a corner of the club.
 
 Before dawn, the time when consciousness slowly returns to reality.
 
-The Orb was the first to give music to this "non-dancing time".
+The Orb was the first to give music to that ""time without dancing.''
 
 At this point, ambient music took a step forward from the quiet environmental music that Brian Eno proposed, and changed to **environmental music that envelopes the urban space itself**.
 
@@ -1152,7 +1152,7 @@ Alex Paterson originally worked as a club DJ in London.
 
 He's not just passionate about the floor;
 
-He was also deeply interested in the atmosphere flowing before and after the event.
+He was also deeply interested in the atmosphere flowing before and after the scene.
 
 In between DJ sets,
 
@@ -1174,11 +1174,11 @@ It has become a **media for designing spaces**.
 
 ---
 
-## サンプリングによる「音響コラージュ」
+## "Acoustic collage" by sampling
 
 In "The Orb's Adventures Beyond the Ultraworld",
 
-数え切れないほどのサンプルが使用されている。
+Countless samples are used.
 
 environmental sounds.
 
@@ -1200,7 +1200,7 @@ Edited to build a huge sonic landscape.
 
 Sampling here is not quoting.
 
-**世界そのものを編集する技術**へと変わった。
+It has turned into a **technique for editing the world itself**.
 
 ---
 
@@ -1286,7 +1286,7 @@ Its influences extend to ambient house, downtempo, chillout, electronica, and ev
 
 In this ranking, we placed ""Ambient 1: Music for Airports" (26th place), which presented the idea of ​​ambient music itself, and ""Selected Ambient Works 85–92" (20th place), which further promoted the environmentalization of electronic music, so we placed it in 67th place, but this work's achievement in ""changing the club space into ambient music'' is extremely significant.
 
-> **「『The Orb's Adventures Beyond the Ultraworld』は、アンビエントをクラブ文化と結び付け、電子音楽を“空間を設計する芸術”へと発展させた。その歴史的意義により本ランキング第67位に位置付ける。」**
+> **"'The Orb"s Adventures Beyond the Ultraworld' combines ambient music with club culture and develops electronic music into an "art of designing spaces'. Due to its historical significance, it is ranked 67th in this ranking."**
 
 ---
 
@@ -1316,7 +1316,7 @@ However, this enthusiasm gradually became institutionalized, and a new direction
 
 Orbital brings tranquility and lyricism to the club without sacrificing its energy.
 
-激しいビートの中にも、
+Even in the midst of intense beats,
 
 beautiful chord progression,
 
@@ -1351,7 +1351,7 @@ It has been passed down to many types of live electronics.
 
 ---
 
-## 『Halcyon + On + On』という電子音楽の新しい抒情
+## A new lyricism of electronic music called "Halcyon + On + On"
 
 The album"s signature song, "Halcyon + On + On," best exemplifies Orbital"s aesthetic.
 
@@ -1395,11 +1395,11 @@ while functioning on the dance floor.
 
 It works even if you listen to it at home.
 
-アルバム全体が一つの物語として流れ、
+The entire album flows as a story,
 
 Although each song is an independent track, they resonate as part of a larger structure.
 
-This idea became one of the standards for electronic music albums from the 1990s onwards.
+This idea became a standard for electronic music albums from the 1990s onwards.
 
 ---
 
@@ -1424,7 +1424,7 @@ In this ranking, works that changed the structure of electronic music itself wer
 
 Released in March 1991, **The White Room** is a historical work that symbolizes the penetration of underground rave culture into British society as a whole.
 
-1988年の"Second Summer of Love"以降、レイヴは倉庫や野外で夜を徹して開催される非公式な文化として急速に拡大していった。
+After 1988's "Second Summer of Love," raves rapidly expanded into an informal culture held all night in warehouses and outdoors.
 
 However, most of these were on-site experiences centered around DJ culture, and were not fully translated into the form of an ""album'' that could be shared at home by ordinary listeners.
 
@@ -1446,13 +1446,13 @@ Anonymity.
 
 Massive sampling.
 
-過剰な自己神話。
+Excessive self-mythology.
 
 In 1994, he even performed a shocking performance in which he incinerated 1 million pounds.
 
 For them, works are not just records.
 
-流通、メディア、資本主義までも含めた「プロジェクト」だった。
+It was a ""project'' that included distribution, media, and even capitalism.
 
 This idea has had a great influence on later art collectives and anonymous projects.
 
@@ -1464,7 +1464,7 @@ In "The White Room," a variety of sound sources coexist seamlessly.
 
 rock.
 
-ハウス。
+House.
 
 Ambient.
 
@@ -1476,7 +1476,7 @@ radio.
 
 These are not just collages.
 
-異なる文化を編集し、新しい世界を創り上げるための素材である。
+It is a material for editing different cultures and creating a new world.
 
 Here, sampling evolved from musical quotation to a technique for editing culture itself.
 
@@ -1494,7 +1494,7 @@ rock dynamism.
 
 The song's structure, which could work as a pop song while still retaining the excitement of a club, was unprecedented.
 
-この成功により、電子音楽はアンダーグラウンドの文化から、メインストリームへ進出する道を切り開いた。
+This success paved the way for electronic music to move from underground culture into the mainstream.
 
 <div class="mermaid">
 flowchart TD
@@ -1526,7 +1526,7 @@ However, this work solidified that enthusiasm in the form of an album.
 
 Electronic music leaves the clubs,
 
-家庭で、
+At home,
 
 on the radio,
 
@@ -1544,9 +1544,9 @@ The White Room is a landmark work that elevated rave culture from the undergroun
 
 Its influence extends not only to house and techno, but also to big beat, electronica, sampling culture, and even modern live culture.
 
-This ranking ranked 69th because it ranks works that created the structure of rave and electronic music themselves, but the role this work played in ""connecting club culture to pop culture'' was an important turning point in the history of music from the 1990s onwards.
+This ranking ranked 69th because it ranks works that created the structure of rave and electronic music themselves, but the role this work demonstrated in ""connecting club culture to pop culture'' was an important turning point in the history of music from the 1990s onwards.
 
-> **「『The White Room』はレイヴ・カルチャーをクラブの外へ解放し、電子音楽を世界的なポップ・カルチャーへと押し上げた。その歴史的意義により本ランキング第69位に位置付ける。」**
+> **"'The White Room' took rave culture out of the clubs and propelled electronic music into global pop culture. Due to its historical significance, we rank it at number 69 in this ranking."**
 
 ---
 
@@ -1592,7 +1592,7 @@ The bass is not just a rhythm section.
 
 It functions like a building that supports the entire space, and beats and synthesizers are placed three-dimensionally on top of it.
 
-When experienced through a club's sound system, the sound not only vibrates your body, but the space itself.
+When experienced through a club's sound system, the sound vibrates not only your body, but the space itself.
 
 This idea had a major influence on later UK bass music and dubstep.
 
@@ -1631,7 +1631,7 @@ This compositional philosophy would be inherited in later electronica and post-c
 
 ## Why is it ranked 70th?
 
-『Leftism』は、ハウス、テクノ、ダブ、ブレイクビーツを統合し、クラブ・ミュージックをアルバム芸術へと押し上げた重要作品である。
+Leftism is a seminal work that brought together house, techno, dub, and breakbeat, and elevated club music to album art.
 
 Its influence extends to 21st century electronic music, including The Chemical Brothers, Burial, Four Tet, and Jon Hopkins.
 

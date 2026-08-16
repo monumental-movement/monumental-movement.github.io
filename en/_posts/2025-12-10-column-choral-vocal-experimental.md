@@ -52,7 +52,7 @@ Choral/Vocal Experimental is a field that was established in the flow of redisco
 
 Here we take a bird's-eye view of how choral music acquired experimental elements over a long period from the 15th century to the present day.
 
-## 2-1. ルネサンス〜バロック：ポリフォニーの基盤
+## 2-1. Renaissance to Baroque: Foundations of polyphony
 
 * The development of polyphony from the monophony of Gregorian chant by Palestrina and Josquin formed the basis for the multilayered structure of the voice.
 * Already during the Renaissance, there were works that used **textural layering** and **spatial arrangement** in canons, masses, and motets, and this became the prototype for later experimental approaches.
@@ -75,7 +75,7 @@ especially
 
 These works marked a turning point in treating chorus as ""an acoustic substance rather than a collection of harmonies.''
 
-## 2-4. スペクトル楽派と声の音響化（1970〜80年代）
+## 2-4. Spectral music school and vocalization (1970s-1980s)
 
 Spectral music, which developed mainly in Paris, emphasized the overtone structure of the voice, resonance phenomena, and dynamic changes in timbre.
 
@@ -86,11 +86,11 @@ Typical example:
 
 Particularly in works dealing with voices, the position of the larynx, resonant cavity, and vowel formants were analyzed acoustically, and the chorus was constructed based on this analysis.
 
-## 2-5. 21世紀：エリック・ウィテカーとデジタル時代の新展開
+## 2-5. 21st Century: Eric Whitaker and New Developments in the Digital Age
 
 Eric Whitacre is a bridge between traditional choral music and a spirit of sonic experimentation.
 
-* 《Lux Aurumque》（2000）
+*《Lux Aurumque》(2000)
 *《Sleep》(2000)
 etc. are located between polyphony and rich parallel harmony, and are characterized by harmonic density and manipulation of textural density.
 
@@ -121,7 +121,7 @@ timeline
 
 Experimental choral techniques can be broadly classified into the following six categories.
 
-## 4-1. ミクロポリフォニー
+## 4-1. Micropolyphony
 
 A technique developed by Ligeti, in which each voice plays slightly different rhythms and sound patterns at the same time.
 **Form an acoustic cloud that "stills while moving"**.
@@ -130,7 +130,7 @@ A technique developed by Ligeti, in which each voice plays slightly different rh
 
 * When a chorus of 100 people smoothly transitions to a different pitch every second, it becomes difficult to hear individual voices.
 **A texture like a huge overtone group** appears.
-* 特に《Lux Aeterna》の序盤では、無伴奏合唱が層状に重なり、音響が**立体的に膨張**するような効果が得られている。
+*Especially in the beginning of "Lux Aeterna", the unaccompanied chorus overlaps in layers, creating the effect of **three-dimensional expansion** of the sound.
 
 ## 4-2. Microtone/Pitch bend
 
@@ -148,7 +148,7 @@ This method is also seen in Steve Reich's Come Out and Tehillim.
 
 ### Acoustic phenomena
 
-* 同一フレーズが次第にズレることで、倍音的干渉や認知的錯覚が生じる。
+* The same phrase gradually becomes out of sync, causing harmonic interference and cognitive illusions.
 * In chorus, differences in vowel shapes can sometimes sound like spatial holograms.
 
 ## 4-4. Resonance/formant manipulation
@@ -159,7 +159,7 @@ Electroacoustic spectral analysis was introduced, allowing for more conscious co
 ### Acoustic phenomena
 
 * Even the same "A" can have completely different tones depending on the opening of the vocal tract and how it is sounded.
-* 合唱全体でフォルマントを変化させると、**空間的に色が変わるような音響変容**が生まれる。
+* Changing the formants throughout the chorus creates a **acoustic transformation that changes color spatially**.
 
 ## 4-5. Voice noise
 
@@ -186,11 +186,11 @@ With these, the static image of chorus is completely dismantled, and **the parti
 
 Ligeti was a composer who symbolized 20th century acoustic thinking and brought about the most radical innovations in choral music.
 
-### Features of representative works
+### Characteristics of representative works
 
 *《Lux Aeterna》: Micropolyphony without accompaniment
 * 《Requiem》: Dense texture and tension in "Kyrie"
-*《Clocks and Clouds》: The floating feeling of the female chorus and instrumental music and the contrast of the rhythm group
+*《Clocks and Clouds》: A contrast between the floating feeling and rhythm group created by the female chorus and instrumental music
 
 Ligeti's method also influenced film music, most notably gaining general recognition when used in 2001: A Space Odyssey.
 
@@ -209,7 +209,7 @@ Whittaker is known for her choral works that maintain a classical beauty while l
 ### Virtual Choir
 
 "Virtual Choir", which took place in the 2010s, was an attempt to integrate individual voices recorded from all over the world and create a gigantic chorus.
-This is notable in music history as an **expansion of the concept of choral singing in the internet age**.
+This is noteworthy in terms of music history as an **expansion of the concept of choral singing in the internet age**.
 
 ---
 
@@ -223,14 +223,14 @@ This is notable in music history as an **expansion of the concept of choral sing
 
 ---
 
-# 6. Visualization of acoustic phenomena: Structural diagram of multilayered voices
+# 6. Visualization of acoustic phenomena: Structural diagram of voice multilayering
 
 <div class="mermaid">
 flowchart TD
     A["Single voice melody"] --> B["Branching to multiple voices"]
     B --> C["Micropolyphony: A collection of minute deviations"]
     B --> D["Formant manipulation: Changes in vowel resonance"]
-    C --> E["雲状テクスチャ"]
+    C --> E["Cloudy texture"]
     D --> F["Chromatic acoustic change"]
     E --> G["Spatialization/3D sound field"]
     F --> G["Spatialization/3D sound field"]
@@ -270,7 +270,7 @@ There are examples of expressing the particle nature and spatialization of voice
 
 ## 8-1. Ligeti《Lux Aeterna》
 
-* 無伴奏合唱
+* Unaccompanied chorus
 * Alto group whose pitch rises and falls smoothly
 * Dynamic texture changes on fixed chords
 
@@ -290,21 +290,21 @@ When many voices resonate, the overtones become richer and the space becomes bri
 * Structuring voice as frequency components
 * A meditative composition that mixes narrative and sustained sounds.
 
-声が“楽器化”する代表例である。
+This is a typical example of the voice becoming an instrument.
 
 ---
 
 # 9. Trends in the 21st century
 
-Modern Vocal Experimental has made further progress in the following areas.
+Modern Vocal Experimental has made further advances in the following areas.
 
 ## 9-1. Integration of voice and electronic sound
 
 using real-time processing
 
-* グラニュラー
+* Granular
 * Polyphony generation
-* 空間ディフュージョン
+* Spatial diffusion
 
 As a result, voices are becoming more and more "overtoned" and "materialized."
 
@@ -320,7 +320,7 @@ Collaborations with dance companies and performing arts that integrate voice and
 
 # 10. Summary
 
-Choral / Vocal Experimental does not consider the voice as a collection of pitches, but rather
+Choral / Vocal Experimental is about the voice not as a collection of pitches, but as a collection of pitches.
 **It is an area that comprehensively deals with acoustic, spatial, physical, and social phenomena**.
 
 The vocal possibilities demonstrated by Ligeti and Whittaker have been further expanded by modern composers.

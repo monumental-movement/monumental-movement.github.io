@@ -76,7 +76,7 @@ In particular, early recordings such as ""Nakomitunaka" and ""Mfumbwa" have been
 
 ---
 
-# Chapter 4 1970s: Maturity of sound and golden age
+# Chapter 4 1970s: Maturity of Sound and Golden Age
 
 The early 1970s saw Veve's most creative period. With Veran himself in charge as a recording producer, he was able to achieve a compact recording system and mass releases at the same time.
 
@@ -182,7 +182,7 @@ In this song, a faster and more segmented guitar appears as a precursor to the s
 
 * **Hi-hat: 16 minute increments now available**
 * **Guitar: When viewed on a pentagram (staff), the arpeggio rises in a staircase pattern**
-* **Bass: "bounce" phrase in 2-bar units**
+* **Bass: Phrase that "bounces" in 2-bar units**
 
 ### Structure of guitar approach
 
@@ -201,7 +201,7 @@ flowchart LR
 # Chapter 7 Recording technology, studio environment, production system
 
 Veve's recording environment was one of the most advanced in Africa at the time.
-It had its own studio and multiple recording engineers were always present, and had the following technical characteristics.
+It had its own studio, had multiple recording engineers on staff, and had the following technical characteristics.
 
 - **Quickly take advantage of the transition period from 2-4 track recording to 4-8 track recording**
 - **Stereo method of swinging the guitar left and right**

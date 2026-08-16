@@ -17,7 +17,7 @@ This is the first EP by a band active in Rio de Janeiro, Brazil.
 
 As the title suggests, this song is dedicated to John Lennon and Paul McCartney of the Beatles.
 
-ジャジーなダンストラックに仕上げられたリミックスは必聴です。
+The remix, which has been turned into a jazzy dance track, is a must-listen.
 
 #### Tracklist
 ```md

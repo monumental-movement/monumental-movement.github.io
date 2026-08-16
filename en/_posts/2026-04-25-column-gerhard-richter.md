@@ -91,14 +91,14 @@ Feldman was closely associated with painters, especially abstract expressionist 
 Feldman features:
 
 * Avoiding clear rhythms and structures
-* 微細な変化の連続
+* A series of minute changes
 * A state close to "almost silent"
 
 These are very similar to the overlapping layers in Richter's abstract paintings.
 
 In Richter's work, paint is applied, scratched off, and layered again and again. As a result, faint traces of the past remain in the final painting, visualizing the accumulation of time.
 
-This is the same type of "persistence" and "reverberation of memory" in Feldman's music.
+This is the same type of ""persistence" and ""memory reverberation" in Feldman's music.
 
 > Silence is not a blank space, but a state of sharpened perception.
 
@@ -173,7 +173,7 @@ This trend is not just a technique of art or music, but an attempt to redefine t
 
 ## The role of sound at the production site
 
-### 実際に流れていた音楽
+### Music that was actually playing
 
 Although there is limited evidence that Richter himself always played specific music, given his historical background and friendships, it is highly likely that the following types of music were present in his production environment:
 
@@ -214,7 +214,7 @@ timeline
 
 This work is treated as an extreme turning point in music history.
 
-演奏者はピアノの前に座るが、一切の音を出さない。代わりに観客の呼吸、椅子の軋み、外部環境の音が「作品」として立ち上がる。
+The performer sits at the piano but does not make any sounds. Instead, the breathing of the audience, the creaking of chairs, and the sounds of the external environment emerge as ""works.''
 
 The important point of the cage is not ""silence" but ""manifesting environmental sounds".
 
@@ -241,11 +241,11 @@ The following three features:
 
 * Sound appears extremely slow
 * Intervals between notes act as spaces
-* 空間そのものが音楽化される
+* The space itself becomes music
 
 Feldman deals with the "quality of time" rather than the "structure of sound."
 
-この作品の中では、音は前景ではなく背景でもなく、「知覚の粒子」として存在する。
+In this work, sound is not in the foreground or background, but exists as "particles of perception."
 
 This is similar to the overlapping layers in Richter's abstract paintings.
 
@@ -256,7 +256,7 @@ This is similar to the overlapping layers in Richter's abstract paintings.
 
 ### Gerhard Richter《Abstract Painting》 (series from the 1980s)
 
-Richter's abstract works are created by dragging paint with a squeegee (a large spatula-like tool).
+Richter's abstract works are created by dragging paint with a squeegee (a large spatula-shaped tool).
 
 This operation causes the following symptoms:
 
@@ -268,7 +268,7 @@ What is especially important is that it is an act of ""causing" rather than ""dr
 
 Musically speaking, this process is more like ""setting up a generative environment'' than improvisation or composition.
 
-Richter's works are not completed drawings, but exist as traces of time.
+Richter's works exist not as completed drawings, but as traces of time.
 
 >A painting is not an image, but a surface on which time has accumulated.
 
@@ -302,7 +302,7 @@ D --> E[Art = transition to a place of experience]
 
 ## Supplement: Common denominator: production space
 
-What all three have in common is that they deal not with the ""work itself," but with ""the conditions under which the work occurs."
+What all three have in common is that they deal with the ""conditions under which a work occurs" rather than the ""work itself."
 
 * Cage: The environment where sound is created
 * Feldman: An environment where time collapses
@@ -326,11 +326,11 @@ The ""Anecdote/Legend Part'' can be added or expanded to existing columns withou
 
 The most well-known event that determined John Cage's thinking was his experience in an anechoic chamber at Harvard University.
 
-He went into the room to experience complete silence, but says he ended up hearing two sounds. One is a high tone, the other is a low tone. They were the sounds of their own nervous system and blood flow, respectively.
+He went into the room to experience complete silence, but says he ended up hearing two sounds. One is a high pitched sound and the other is a low pitched pitch. They were the sounds of their own nervous system and blood flow, respectively.
 
 This experience led him to the conclusion that ""complete silence does not exist.''
 
-This anecdote is not just an anecdote, but serves as the ideological basis for 4 minutes 33 seconds. In other words, this work did not ""eliminate sound," but rather ""exposed the ever-present sound."
+This anecdote is not just an anecdote, but serves as the ideological basis for 4 minutes 33 seconds. In other words, this work did not ""eliminate sound," but ""exposed the ever-present sound."
 
 Cage is also known for his emphasis on chance in his daily life. He used the I Ching not only in his compositions, but also in the content of his lectures and the structure of his texts, and continued to avoid intentional meaning generation.
 
@@ -368,7 +368,7 @@ There is a constant tension between chance and control in Gerhard Richter's work
 
 His work in the studio is often recorded, but what is particularly impressive is the act of daring to destroy a work that is nearing completion.
 
-A squeegee is used to stretch out the layers of paint, exposing the lower layers. As a result, a composition that took several hours to construct can collapse in an instant.
+A squeegee is used to spread out the layers of paint, exposing the lower layers. As a result, a composition that took several hours to construct can collapse in an instant.
 
 However, this "destruction" is not a failure. Rather, it is a means to bring out a structure that goes beyond intention.
 
@@ -376,7 +376,7 @@ Richter himself has repeatedly said, ""You can't plan a good painting.''
 
 He is also known for his technique of blurring photographs. This is not just a style, but an attempt to visualize the "uncertainty of memory."
 
-The photograph, which is supposed to be clear, becomes ambiguous, and the viewer is placed in a state of ""trying to see.''
+The photograph, which is supposed to be clear, becomes ambiguous, and the viewer is placed in a state of trying to "see."
 
 This process is similar to Feldman"s subtle changes in music and Cage"s manifestation of environmental sounds.
 
@@ -421,7 +421,7 @@ They are not rhythms or melodies, but abstract elements such as:
 
 Although these are not direct applications of music theory, they resonate strongly with auditory thinking.
 
-Furthermore, in his works, ""stopped time" and ""fluid time" exist simultaneously. This can be thought of as a visualization of Feldman"s duration and the temporality of Cage"s environmental sounds.
+Furthermore, in his works, ""stopped time" and ""time in flux" exist simultaneously. This can be thought of as a visualization of Feldman"s duration and the temporality of Cage"s environmental sounds.
 
 > The painting is still, but time continues to move inside it.
 

@@ -9,43 +9,45 @@ tags:
 - Euro
 - Euro Beat
 - Euro House
-title: 【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い
+title: '[Column] The "sound of the euro" changes depending on national borders: Italy,
+  Germany, and Sweden: Differences in euro music created by the three major producing
+  countries'
 ---
 
 
 
-## “ユーロの音” なぜ国別で音が違うのか？
+## "The sound of the euro" Why do the sounds differ depending on the country?
 
-文：mmr｜テーマ：ジャンル：音楽コラム｜テーマ：制作国別90年代ユーロ音楽の比較分析
+Text: mmr | Theme: Genre: Music column | Theme: Comparative analysis of 90's Euro music by country of production
 
 
 Although it is often referred to as ""Euro music," in reality, the ""sound texture" and ""aesthetic sense'' vary depending on the country in which it was produced.
-90年代、このジャンルの主戦場となったのは主に **イタリア、ドイツ、スウェーデン**。  
+In the 1990s, the main battlegrounds for this genre were **Italy, Germany, and Sweden**.
 Based on their respective cultural, industrial, and technological backgrounds, they were exporting their own ""sound of the euro'' to the world.
 
 ---
 
-### イタリア産ユーロ：「スピード」と「シンセの艶」
-**概要**  
-- **拠点**：ミラノ、ヴェローナ、パルマなど  
+### Italian Euro: "Speed" and "Synth Shine"
+**overview**
+- **Locations**: Milan, Verona, Parma, etc.
 - **Main labels**: Time Records, A-Beat-C, Discomagic
 - **Features**: Fast BPM, fancy synth, thick unison melody, emotional vocals
 
 **Sound characteristics**
-- BPMは140～160と非常に高速  
+- BPM is very fast at 140-160
 - There are many sounds, and the synths are flashy and sparkling.
 - Prioritize melody over rhythm
-- ドラマチックでエモーショナルな展開  
+- Dramatic and emotional development
 
 **Representative artist/unit**
-- Dave Rodgers  
+-Dave Rodgers
 - Domino
 - Alexia
 - Corona
 - Eiffel 65
 
-**文化的背景**  
-- Italo Disco〜ハイエナジーの継承者  
+**Cultural background**
+- Italo Disco ~ Successor of High Energy
 - The structure and scale are theatrical, typical of Italy, a major country of film music.
 - Domestic demand is limited, export-oriented to foreign countries (especially Japan)
 
@@ -95,8 +97,8 @@ color: #fff;
 -Scooter
 
 **Cultural background**
-- Precision and technological orientation as an industrial nation
-- Club rave culture is highly prevalent, and there are many more practical tracks
+- Precision and technological orientation as an industrialized nation
+- Club rave culture is highly pervasive, and there are many more practical tracks
 - Musical liberation progresses after the fall of the Berlin Wall
 
 **Representative discography**
@@ -128,7 +130,7 @@ color: #fff;
 -Roxette
 - Dr. Alban
 - Rednex
-- Army of Lovers  
+- Army of Lovers
 
 **Cultural background**
 - Sweden has a high level of English education, and the lyrics are mostly in English.
@@ -156,7 +158,7 @@ color: #fff;
 | **BPM** | Fast (140-160) | Standard to Slightly Fast (128-140) | Middle (110-130) |
 | **Aesthetics** | Flashy, emotional, dramatic | Mechanical, structural | Soft, pop, sophisticated |
 | **Main Battlefield** | Japanese Market/Anime/Parapara | Club/Rave | International Pop Market |
-| **Melody tendency** | Clear, flashy, lead synth | Repetitive, dark | Friendly, melodic focus |
+| **Melody tendency** | Clear, flashy, lead synth | Repetitive, dark | Friendly, mostly melodies |
 | **Cultural characteristics** | Inheritance of Italo Disco | Precision industrial club thinking | Nordic pop export orientation |
 
 
@@ -166,7 +168,7 @@ color: #fff;
 The greatest appeal of 1990s Euro music is that, while it functions as a ""universal language,'' it is actually deeply embedded with the cultures and aesthetics of each country.
 Even though they are all similar, the heat of Italy, the hardness of Germany, and the coolness of Sweden are clearly different.
 
-Music born at the intersection of global and local. Perhaps that is the essence of the 1990s euro.
+Music born at the intersection of global and local. That may be the essence of the 1990s euro.
 
 ---
 

@@ -161,7 +161,7 @@ In the 1990s, as lounge music and exotica were being reevaluated, Esquivel's wor
 
 This reappraisal was not just nostalgia. Rather, his music begins to take on a new meaning as ""the unrealized future.''
 
-With the development of electronic music and sampling culture, it has become common to treat sound as a material, and his method has come to be understood in a modern context.
+With the development of electronic music and sampling culture, it has become common to treat sound as a material, and his methods have come to be understood in a modern context.
 
 <div class="mermaid">
 timeline
@@ -180,7 +180,7 @@ His sound was rediscovered not as a relic of the past, but as an unfinished proj
 
 ## Influence on modern times: The legacy of sound spatial design
 
-"Space" has become an important element in modern music production. In addition to stereo, technologies such as surround and spatial audio have become widespread, and sound has come to be treated three-dimensionally.
+Space has become an important element in modern music production. In addition to stereo, technologies such as surround and spatial audio have become widespread, and sound has come to be treated three-dimensionally.
 
 In this context, Esquivel's ideas have a very important meaning. More than half a century ago, he put into practice the idea of ​​spatially designing sound.
 

@@ -19,7 +19,7 @@ title: '[Column] Progressive Electronic / Berlin School'
 Text: mmr｜Theme: Progressive electronic and Berlin School electronic music from the late 1960s to the present
 
 
-20th century electronic music began in the realm of academic research and experimental art. Following the development of electronic musical instruments in the 1920s and 1930s, postwar magnetic tape technology, and the establishment of musique concrète and electronic music studios in the 1950s, an environment began to emerge in the late 1960s that allowed individual composers to create electronic music outside of the studio. Amid this change, a series of progressive electronic music that later became known collectively as the ""Berlin School'' was established mainly in West Germany.
+20th century electronic music began in the realm of academic research and experimental art. Following the development of electronic musical instruments in the 1920s and 1930s, magnetic tape technology after the war, and the establishment of musique concrète and electronic music studios in the 1950s, an environment began to emerge in the late 1960s that allowed individual composers to create electronic music outside of the studio. Amid this change, a series of progressive electronic music that later became known collectively as the ""Berlin School'' was established mainly in West Germany.
 
 The Berlin School is not a unified movement or an official school in the strict sense of the word. It is a name that was unified in later music history research and criticism as a result of multiple composers working in a common metropolitan area, technological environment, and musical interests. At its core are composers and projects such as Tangerine Dream, Klaus Schulze, and Ash Ra Tempel (later Ashra).
 
@@ -59,11 +59,11 @@ At the same time, a movement to fuse rock and avant-garde art was gaining moment
 
 Tangerine Dream was formed in 1967, and their early work combined rock formations with avant-garde improvisation. In the early 1970s, he began composing using synthesizers and sequencers.
 
-What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-length structure that musicalizes the flow of time itself, which differs from traditional song formats.
+What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of repeating sequence patterns. This method created a long-form structure that musicalizes the flow of time itself, which differs from traditional song formats.
 
 ### Klaus Schulze
 
-After participating in Tangerine Dream and Ash Ra Tempel, Klaus Schulze will focus on his solo career. His works are characterized by longer sustained notes, gradual changes, and improvisation. In many cases, the rhythm does not appear clearly, and the transition of tones itself forms the structure.
+After participating in Tangerine Dream and Ash Ra Tempel, Klaus Schulze will focus on his solo career. His works are characterized by longer sustained notes, gradual changes, and improvisation. In many cases, the rhythm does not appear clearly, and the transition of the timbre itself forms the structure.
 
 From the beginning, Schulze worked in a private studio, practicing multi-layered recordings using numerous synthesizers and tape equipment. This production form also influenced later ambient and drone music.
 
@@ -129,7 +129,7 @@ What is important is that the sequence is based on ""circulation" rather than ""
 
 ### Tape recording and multilayer structure
 
-Multi-track recording and tape editing played an important role in the early Berlin School. By recording long periods of improvisational performance, editing and layering parts of it, a non-linear structure was constructed. This is an attitude that treats the studio as a composing space, and can be seen as a precedent for later DAW-like production thinking.
+Multi-track recording and tape editing played an important role in the early Berlin School. A non-linear structure was constructed by recording long periods of improvisational performance, editing and layering parts of it. This is an attitude that treats the studio as a composing space, and can be seen as a precedent for later DAW-like production thinking.
 
 ---
 
@@ -145,7 +145,7 @@ A format in which a certain sequence runs through the entire song, expanding thr
 
 A format built around sustained notes and slow changes, without a clear sequence. It is prominent in the works of Klaus Schulze, and became the prototype for later ambient and drone music.
 
-### Impromptu recording editing type
+### Improvisation recording editing type
 
 A format that uses live or studio improvisation as material and is structured through post-editing. This method blurs the boundaries between composition and performance, positioning the work as a record of an event.
 
@@ -155,7 +155,7 @@ A format that uses live or studio improvisation as material and is structured th
 
 From the late 1970s onwards, Berlin School composers expanded their activities into the field of film music. Long-lasting sounds, repetitive progressions, and electronic tones have a high affinity with the time axis of images.
 
-The Berlin School method of film music is characterized by its emphasis on spatial formation rather than melody-driven music. Rather than illustrating a story, music plays a role in constructing a psychological and physical environment.
+The Berlin school method of film music is characterized by its emphasis on spatial formation rather than melody-driven music. Rather than illustrating a story, music plays a role in constructing a psychological and physical environment.
 
 This practice was inherited in later cinematic ambient and sound design-oriented electronic music.
 

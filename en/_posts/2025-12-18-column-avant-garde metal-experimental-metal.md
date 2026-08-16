@@ -44,7 +44,7 @@ color: #fff;
 
 ## Structural assumptions in metal
 
-In order to understand avant-garde metal, it is first necessary to clarify what normal metal is based on.
+To understand avant-garde metal, it is first necessary to clarify what normal metal is based on.
 
 Traditional metal has been formed as a collection of structural assumptions such as the following.
 
@@ -82,7 +82,7 @@ When structure becomes problematic, metal moves to a new stage. Riffs become fra
 
 ## Gorguts: Structural design as destruction
 
-Gorguts deconstructed death metal itself from the inside out, using its vocabulary to its fullest.
+Gorguts dismantled death metal itself from the inside out, using its vocabulary to its fullest.
 
 In their music, riffs are present but without driving force, time signatures are notated but unstable, and developments are perceived as ruptures rather than continuity. This is not the introduction of elements outside the genre, but an avant-garde effect created by distorting the internal grammar.
 
@@ -140,7 +140,7 @@ Maudlin of the Well's avant-garde is based not on destruction but on internaliza
 
 Maudlin of the Well's songs have multiple layers of metal time, chamber music time, and ambient time.
 
-These time layers are not integrated, but always coexist with a gap between them.
+These time layers are not integrated and always coexist with a gap between them.
 
 <div class="mermaid">
 flowchart TD
@@ -176,7 +176,7 @@ In this work, the separation of structures goes even further. The songs are stru
 | Method | Demolition | Layering |
 | Time | Rupture | Parallel |
 | Rhythm | Destruction of pulse sensation | Breathing control |
-| Dissonance | Structural armament | Spatial production |
+| Dissonance | Structural Armament | Spatial Direction |
 
 ---
 

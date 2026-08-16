@@ -247,7 +247,7 @@ However, the MC-303 made it possible to create rhythms, bass lines, and melodies
 
 It became a gateway to electronic music production, especially for beginners and live performers.
 
-It also influenced the way we thought about integrated music production equipment that would later appear, such as the Roland MC series, Novation Circuit, and Ableton Push.
+It also influenced the way we thought about integrated music production equipment, such as the Roland MC series, Novation Circuit, and Ableton Push, which were later introduced.
 
 > The MC-303 expanded electronic music production from an area reserved for experts to an expression accessible to everyone.
 
@@ -257,7 +257,7 @@ It also influenced the way we thought about integrated music production equipmen
 
 Ableton Live, introduced in 2001, revolutionized the way music was produced on computers.
 
-Traditional DAWs have focused on arranging sounds along the time axis, similar to a recording studio.
+Traditional DAWs have centered around arranging sounds along the time axis, similar to a recording studio.
 
 Ableton Live introduced Session View, which allows you to freely rearrange clips.
 

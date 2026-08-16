@@ -10,7 +10,7 @@ tags:
 - Music
 - Opera
 - History
-title: '[Column] Francis Bacon and music: an auditory experience for depicting extreme
+title: '[Column] Francis Bacon and music: an auditory experience to depict extreme
   emotions'
 ---
 
@@ -50,7 +50,7 @@ color: #fff;
 
 Richard Wagner"s music is also deeply connected to Bacon"s nightlife.
 
-He was more active at night than during the day, often spending long hours at casinos or bars before returning to the studio to begin production. At that time, Wagner's plays were sometimes played.
+He was more active at night than during the day, often spending long hours at casinos or bars before returning to the studio to begin production. At that time, Wagner's operas were sometimes played.
 
 One anecdote is that he wrote Tristan and Isolde while listening to it over and over again, almost without sleep, and was able to decide on the composition of his important work within a few hours.
 
@@ -84,7 +84,7 @@ He often welcomed "accidents". For example, there were times when I would take t
 
 In one famous anecdote, he was working on a painting after drinking and accidentally left a large stain on the canvas. However, he did not erase it, but rather found a new form from it.
 
-This ""acceptance of accidents"' resonates with the improvisational nature of music. Wagner"s long pieces and Callas' wavering voice contain moments when they deviate from complete control.
+This ""acceptance of accidents"' resonates with the improvisational nature of music. Wagner"s long compositions and Callas' wavering voice contain moments when they deviate from complete control.
 
 <div class="mermaid">
 graph TD

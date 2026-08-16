@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: Memory and Rhythm — Music as a "structure of time"
 
 The most fundamental structure of music is **rhythm**.
-Rhythm is the order of time, and through repetition it brings the "past" back into the present.
+Rhythm is the order of time, and through repetition it brings the past back into the present.
 Festivals, prayers, and dances. All of these are acts of experiencing the circle of time.
 
 Carving out a rhythm is the very act of consolidating memory.
@@ -93,9 +93,9 @@ However, in modern times, AI predicts our ""mood'' based on our past playback hi
 
 Spotify"s Discover Weekly and Apple Music"s Personal Mixes are attempts at algorithmic memory editing.
 But there is also danger lurking there.
-We may be listening to ""memory as data" rather than ""our own memory."
+We may be listening to "memory as data" rather than "our own memory."
 
-> Human nostalgia is externalized by algorithms.
+> Human nostalgia is being externalized by algorithms.
 
 At this time, music becomes not an individual's internal memory, but a network memory (collective digital memory).
 
@@ -116,7 +116,7 @@ In other words, listening to music is **becoming yourself from that time again**
 ## Chapter 6: Music and Collective Memory — From National Anthems to Festivals
 
 What Benedict Anderson calls an ""imagined community'' is
-It has been supported by "shared music" such as the national anthem and school anthem.
+It has been supported by "shared music" such as the national anthem and school song.
 
 However, in modern times, ""collective memory'' is born on the floors of festivals and clubs, not in countries.
 The moment people listen to the same song in a crowd, they transcend the individual and connect to a ""sound community.''
@@ -180,7 +180,7 @@ flowchart TD
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]
-    D --> F[emotional response]
+    D --> F[emotional reaction]
     E --> G[Re-experiencing the past through music]
     F --> G
     G --> H[Generation of nostalgia]

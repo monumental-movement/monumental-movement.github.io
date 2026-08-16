@@ -17,7 +17,7 @@ title: '[Column] Gong legend: era, myth, sound and community'
 ## 1. Introduction: Musician as Scientist
 
 
-Text: mmr | Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
+Text: mmr｜Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
 
 > "We were a flying teapot sailing through the revolution."
 > ― Daevid Allen
@@ -78,7 +78,7 @@ Their base of activity was not just a band, but an "anarchy commune" of sound an
 | Year | Anecdote/Incident |
 | :-- | :-- |
 | 1967 | At the height of the Paris May Revolution, Allen travels to France and exiles |
-| 1968 | "Teddy Bear Incident" - Stuffed animal thrown at police |
+| 1968 | "Teddy Bear Incident" - Throwing stuffed animal at police |
 | 1969 | *Magick Brother* production and first live performance |
 
 *Characters*: **Zero the Hero** (traveler), **Octave Doctor** (sound scientist)
@@ -102,7 +102,7 @@ In addition, Didier Margrive"s saxophone and Pierre Moherlin"s percussion are ad
 
 > 🎧 Recommended listening: *Flying Teapot*, *Angel"s Egg*, *You*
 
-Gong's music created a world in the form of ""sound poetry" rather than ""rock + jazz."
+Gong's music created a world in the form of **""sound poetry"**, rather than ""rock + jazz."
 
 ---
 
@@ -111,9 +111,9 @@ Gong's music created a world in the form of ""sound poetry" rather than ""rock +
 A trilogy released between 1973 and 1974.
 "Flying Teapot," "Angel"s Egg," and "You."
 
-These are not just albums, but mythological epics of "Planet Gong." Taking the form of a radio broadcast, Zero the Hero and Pot Head Pixies appear, and the journey through space and consciousness is depicted.
+These are not just albums, but mythological epics of "Planet Gong". Taking the form of a radio broadcast, Zero the Hero and Pot Head Pixies appear, and the journey through space and consciousness is depicted.
 
-| Character | Features |
+|Character |Characteristics |
 | :-- | :-- |
 | Zero the Hero | A traveler who travels between Earth and the Gong planet |
 | Pot Head Pixies | Spirits of Happiness and Chaos |
@@ -130,15 +130,15 @@ Gong established the concept of ""narrative sound'' in music.
 A communal lifestyle based in a lodge in the south of France.
 There, recording, improvisation, philosophical dialogue, vegetarianism, raising children, and writing poetry were all continuous.
 
-Members came and went rapidly, and the sound structure was as fluid as its structure.
+Members came and went rapidly, and the sound structure was fluid as well.
 Despite this, Gong's "spirit" remained.
-This is because they were not ""fixed members'' but existed as a **shared vision**.
+This is because they were not "fixed members" but existed as a **shared vision**.
 
 Gong was the ideal form of ""a life of music" and ""playing as if you were living it."
 
 ---
 
-## Chapter 6 Society and Gong——Intersection with counterculture {#chapter6}
+## Chapter 6 Society and Gong—Interface with counterculture {#chapter6}
 
 Gong was about more than music.
 Europe's hippie movement, dropout culture, commune ideology, anti-nuclear demonstrations, and environmental movements.
@@ -167,7 +167,7 @@ Even after Allen passed away in 2015, Gong continues to live on as a ""regenerat
 ## Chapter 8 The world of Gong mythology—Characters, iconography, and worldview {#chapter8}
 
 Gong is a comprehensive art that integrates music, mythology, and art.
-Centering around the Radio Gnomes trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
+Centering around the Radio Gnome trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
 
 Below is a diagram showing its symbolic structure:
 
@@ -214,7 +214,7 @@ Gong moved between reality and myth, and the anecdotes themselves were part of t
 | 1973–74 | *Radio Gnome Trilogy* completed |
 | 1976 | *Pierre Moerlan"s Gong* period begins |
 | 1990–2015 | Allen return, reorganization live |
-| 2016– | *Rejoice! I'm Dead!* Announced and ongoing activities |
+| 2016– | *Rejoice! I'm Dead!* Announced/Continuing activities |
 
 <div class="mermaid">
 
@@ -241,7 +241,7 @@ timeline
 | 1969 | *Magick Brother* | Early = psychedelic/jazz/rock fusion | [Amazon](https://amzn.to/4hCfA1g) |
 | 1973 | *Flying Teapot* | "Radio Gnome Trilogy" 1st | [Amazon](https://amzn.to/4oJGvup) |
 | 1973 | *Angel"s Egg* | 2nd part of the trilogy | [Amazon](https://amzn.to/4ntEdP0) |
-| 1974 | *You* | Third trilogy | [Amazon](https://amzn.to/3WpzEdz) |
+| 1974 | *You* | Third part of the trilogy | [Amazon](https://amzn.to/3WpzEdz) |
 | 2009 | *2032* | Revival/Mythology Review Edition | [Amazon](https://amzn.to/431WbAK) |
 | 2016 | *Rejoice! I'm Dead!* | New chapter after the death of the founder | [Amazon](https://amzn.to/431YDHu) |
 | 2019 | *The Universe Also Collapses* | One of the latest studio releases | [Amazon](https://amzn.to/3Ld2M5p) |

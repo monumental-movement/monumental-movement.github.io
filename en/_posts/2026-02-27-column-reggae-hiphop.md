@@ -94,7 +94,7 @@ The appearances of **Busta Rhymes**, who has a Jamaican flow, and **The Notoriou
 
 In the 2000s, dancehall rhythms permeated mainstream pop. **Sean Paul** becomes a success on the US charts and his Caribbean beat becomes a global standard.
 
-Additionally, artists such as **Rihanna** and **Drake** incorporated dancehall elements, and hip-hop became completely global.
+Additionally, artists such as **Rihanna** and **Drake** introduced dancehall elements, and hip-hop became completely global.
 
 > Reggae and hip-hop are once again intersecting at the heart of the pop market.
 

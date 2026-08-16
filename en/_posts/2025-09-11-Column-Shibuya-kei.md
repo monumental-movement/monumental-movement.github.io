@@ -73,7 +73,7 @@ color: #fff;
 
 ## 1990s — Golden age of Shibuya style
 ### Historical background
-- Pizzicato Five led by Yasuhi Konishi, Cornelius (Keigo Oyamada), and Flipper's Guitar (Kenji Ozawa + Keigo Oyamada) are representative of the Shibuya style.
+- Pizzicato Five led by Yasuhi Konishi, Cornelius (Keigo Oyamada), and Flipper's Guitar (Kenji Ozawa + Keigo Oyamada) represent Shibuya-kei.
 - It was featured on "Oricon" and "MTV Japan" and became a major hit.
 - Links to overseas club scenes.
 
@@ -87,7 +87,7 @@ color: #fff;
 - Digital multitrack (ADAT, DAT)
 - Typing using Mac + Cubase
 
-### Recommended 10 songs (1990s)
+### 10 recommended songs (1990s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|
@@ -183,7 +183,7 @@ color: #fff;
 - Software-based production
 - Analog and digital hybrid
 
-### Recommended 10 songs (2020s)
+### 10 recommended songs (2020s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|
@@ -191,12 +191,12 @@ color: #fff;
 | Spark | cero | Intersection with contemporary jazz |
 | e o | cero | The height of neo-Shibuya sense |
 | Stay | Towa Tei | Minimal and sophisticated beauty |
-| Ambience | Dorian | Neo-city pop inheritance |
+| Ambience | Dorian | Neo City Pop Inheritance |
 | Neon Sign | Metafive | Future vision of clubs and Shibuya |
 | Ryusei | cero | organic groove |
 | Future Past | Cornelius | Experiments Across Generations |
 | Groove Is In You | Towa Tei | The boundary between dance and art |
-| Nostalgia | Young indies | Neo-Shibuya-kei budding |
+| Nostalgia | Young indie | Neo-Shibuya style budding |
 
 ---
 

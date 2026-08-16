@@ -90,7 +90,7 @@ Music history itself was being rearranged.
 
 Chicago in the 1990s was a pivotal point in the history of American experimental music.
 
-A unique cultural zone was forming, different from New York no-wave and West Coast noise. There, rock and contemporary music, improvisation, and electronic sound mixed naturally.
+A unique cultural zone was forming, different from New York's no-wave and West Coast noise. There, rock and contemporary music, improvisation, and electronic sound mixed naturally.
 
 Jim O'Rourke was at the center of it all.
 
@@ -169,7 +169,7 @@ Traditionally, avant-garde music has tended to be associated with esotericism. H
 
 ""Bad Timing'' inherits the flow of American primitive guitar, but develops like film music.
 
-In ""Eureka,'' he used strings and woodwind instruments to create an acoustic world that could be considered the pinnacle of chamber music pop.
+In ""Eureka,'' he used strings and woodwind instruments to create an acoustic world that could be called the pinnacle of chamber music pop.
 
 ""Insignificance'' has a stronger rock tone and is highly popular as his song work.
 
@@ -247,7 +247,7 @@ C[space design] --> D
 E[melody] --> D
 </div>
 
-Sonic Youth, when Jim O'Rourke joined the band, is said to have achieved not only "destruction" but also "white space."
+It is said that Sonic Youth, when Jim O'Rourke joined, not only achieved "destruction" but also gained "white space".
 
 He was also the acoustic translator between members.
 
@@ -285,7 +285,7 @@ In particular, Wilco's involvement around Yankee Hotel Foxtrot was important.
 
 Indie rock since the 2000s has evolved in a more acoustic direction than before. One of the turning points was the Jim O'Rourke-like sensibility.
 
-He does not make ""pretty recordings," but ""places sounds with meaning."
+He doesn't make "beautiful recordings" but rather "arranges sounds with meaning."
 
 Even noise has meaning.
 
@@ -436,7 +436,7 @@ Above all, he was a person who continued to doubt the walls of ""music genres''.
 | 2001 | "Insignificance" announced |
 | Late 2000s | Moved to Japan |
 | 2009 | "The Visitor" announced |
-| Since the 2010s | Shift to improvisation and electronic acoustics |
+| After 2010s | Shift to improvisation and electronic acoustics |
 
 ---
 

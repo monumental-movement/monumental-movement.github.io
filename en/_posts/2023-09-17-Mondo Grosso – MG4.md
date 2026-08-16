@@ -14,7 +14,7 @@ title: Mondo Grosso – MG4
 
 Japanese club music based on Shinichi Osawa's roots in jazz, soul, and Brazilian music, with delicate arrangements using live instruments and 2Step dance beats.
 
-Also included are "Life" and "Butterfly", which were hits at the time and featured Bird.
+It also includes songs such as "Life" and "Butterfly", which were hits at the time and featured Bird.
 
 #### Tracklist
 ```md

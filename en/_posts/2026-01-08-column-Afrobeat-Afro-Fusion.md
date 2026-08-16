@@ -84,7 +84,7 @@ In the 1970s, Nigeria's urban culture expanded due to increased oil revenues, an
 
 ### Impact on other regions
 
-Afrobeatはガーナ、ベナン、トーゴなど周辺国にも影響を及ぼした。特にベナン出身のアーティストたちは、ハイライフや現地リズムとAfrobeatを組み合わせた独自の表現を行った。これにより、Afrobeatは単一の国の音楽ではなく、地域的スタイルとして認識されるようになった。
+Afrobeat also influenced neighboring countries such as Ghana, Benin, and Togo. Artists from Benin in particular created unique expressions that combined highlife, local rhythms, and Afrobeat. This led to Afrobeat being recognized as a regional style rather than the music of a single country.
 
 ---
 

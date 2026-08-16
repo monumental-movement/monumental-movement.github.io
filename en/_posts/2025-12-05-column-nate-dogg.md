@@ -75,7 +75,7 @@ This style would later become the core of guest performance culture.
 
 ---
 
-## 3. Participation and break in Dr. Dre's "The Chronic"
+## 3. Participation and breakthrough in Dr. Dre's "The Chronic"
 
 The decisive turning point in Nate Dogg"s rise to national fame was **1992"s Dr. Dre's ""The Chronic''**.
 After Dre was introduced to his talent through Warren G, Nate Dogg participated in several songs on the album.
@@ -85,7 +85,7 @@ His participation at this time was almost like a debut, but he already had an es
 
 ---
 
-## 4. The impact of "Regulate": The birth of the G-Funk hook
+## 4. The impact of "Regulate": The birth of the G-Funk type hook
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1plPyJdXKIY?si=rx9XunHS0vwUPsA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -153,7 +153,7 @@ This work brings out the strength of the bass and leaves a more street-like impr
 
 ---
 
-Nate Dogg guest-starred on major hip-hop hits almost every year in the late '90s and early 2000s.
+Nate Dogg guest-starred on major hip-hop hits almost every year from the late '90s to the early 2000s.
 
 Representative participating songs:
 
@@ -162,10 +162,10 @@ Representative participating songs:
 - "Area Codes" (Ludacris, 2001)
 - "21 Questions" (50 Cent, 2003)
 - "Nobody Does It Better"
-- "I Got Love"
+-"I Got Love"
 
 In particular, "21 Questions" reached number one in the US.
-Although it is a sweet R&B sound, it is important that Nate Dogg's voice does not lose the tension of the street.
+Although it was a sweet R&B sound, it was important to note that Nate Dogg's voice did not lose the tension of the street.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDMhlvbOFaM?si=OavxoFCED3LL7j9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -190,7 +190,7 @@ Snoop Dogg and Warren G, in particular, have said that their sound would not hav
 
 ---
 
-## 10. Nate Dogg Chronology
+## 10. Nate Dogg Timeline
 
 <div class="mermaid">
 timeline

@@ -26,7 +26,7 @@ Text: mmr｜Theme: Changes in experimental music from the avant-garde to the pos
 ---
 
 ## 1940s-1950s: The birth of experimental music
-- **Background:** Post-war Europe and America seek to reconstruct music. ""Music of Chance'' by John Cage and musique concrète by Schaefer appear.
+- **Background:** Post-war Europe and America seek to reconstruct music. ""Music of Chance'' by John Cage and musique concrète by Schaeffer appear.
 - **Equipment:** Tape recorder, prepared piano, early oscillator.
 
 ### Masterpiece
@@ -44,7 +44,7 @@ Text: mmr｜Theme: Changes in experimental music from the avant-garde to the pos
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -52,7 +52,7 @@ color: #fff;
 }
 </style>
 
-| アーティスト | トラック | 年 |
+| Artist | Track | Year |
 |--------------|----------|----|
 | Pierre Schaeffer | Étude aux chemins de fer | 1948 |
 | John Cage | 4"33"" | 1952 |
@@ -101,7 +101,7 @@ color: #fff;
 
 ### Masterpiece
 - [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)
-- [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)  
+- [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)
 - [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)
 
 ---
@@ -159,7 +159,7 @@ color: #fff;
 
 ### Masterpiece
 - [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)
-- [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)  
+- [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)
 - [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)
 
 ---
@@ -182,7 +182,7 @@ color: #fff;
 ---
 
 
-## 2000s：ラップトップとグローバル化
+## 2000s: Laptops and globalization
 - **Background:** Noise, electronica, and field recording spread internationally. ""Laptop performance'' at live performances has become commonplace.
 - **Equipment:** Ableton Live, SuperCollider, Kontakt, laptop.
 
@@ -240,7 +240,7 @@ color: #fff;
 ---
 
 ## 2020s: AI and post-digital era
-- **背景:** AI作曲、アルゴリズミック音楽、VR/AR空間での没入型体験が進行中。ノイズや実験音楽が再びクラブシーンと交錯。  
+- **Background:** AI composition, algorithmic music, and immersive experiences in VR/AR space are in progress. Noise and experimental music once again intersect with the club scene.
 - **Equipment:** AI generation tools (RAVE, Magenta Studio), Eurorack, modular synth + machine learning algorithm.
 
 ### Masterpiece

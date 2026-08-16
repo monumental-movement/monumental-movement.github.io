@@ -15,7 +15,7 @@ title: '[Column] Contemporary Classical / Neo-minimalism A new wave of contempor
 
 
 
-## Introduction: Contemporary Classical/Neo-Minimalism Trend
+## Introduction: Modern Classical/Neo-Minimalism Trend
 
 Text: mmr｜Theme: This trend is based on facts such as composition techniques, production environments, and institutional backgrounds, rather than trends or emotional evaluations.
 
@@ -83,7 +83,7 @@ Repetitions may maintain complete identity, or they may involve subtle changes i
 
 ### Tonality and harmony
 
-Many composers maintain a clear tonal center, but do not assume a functional harmonic progression. The emphasis is on the persistence and overlap of the chords rather than the resolution to the tonic. Triads, addition chords, and open perfect fifth structures are frequently used.
+Many composers maintain a clear tonal center, but do not assume a functional harmonic progression. The emphasis is on the sustaining and overlapping chord resonances rather than the resolution to the tonic. Triads, addition chords, and open perfect fifth structures are frequently used.
 
 This harmonic processing is not a reproduction of 19th century Romanticism, but can be understood as a choice to ensure acoustic stability.
 
@@ -137,7 +137,7 @@ The technique itself has its origins in mid-20th century experimental music, but
 
 ### Composition and improvisation
 
-His works include both strictly notated patterns and improvisational elements. As a certain rhythmic pattern is repeated, minute changes caused by the performer's physical manipulation drive the music.
+His works include both strictly notated patterns and improvisational elements. While a certain rhythmic pattern is repeated, minute changes caused by the performer's physical manipulation drive the music.
 
 ### Connection with other fields
 
@@ -161,7 +161,7 @@ Multiple simple layers are layered together to form a complex sound. Each layer 
 
 ### The act of composing called editing
 
-録音後の編集、ループ化、ダイナミクス調整は、作品構造そのものを規定する。編集工程は後処理ではなく、作曲過程の延長として扱われる。
+Post-recording editing, looping, and dynamics adjustments define the structure of the piece itself. The editing process is not treated as post-processing, but as an extension of the composition process.
 
 ---
 
@@ -173,7 +173,7 @@ Much of contemporary classical/neo-minimalism is intended for personal listening
 
 ### Space and music
 
-It is often performed and reproduced in exhibition spaces, museums, and installations. Music is both a temporal art and an element that defines space.
+It is often performed and reproduced in exhibition spaces, museums, and installations. Music is both a time art and an element that defines space.
 
 > "Silence and blank spaces also have different meanings depending on the listening environment."
 
@@ -224,7 +224,7 @@ flowchart LR
 
 ## Conclusion
 
-Contemporary Classical/Neo-Minimalism has been shaped by multiple factors, including the history since minimalism, advances in recording technology, and changes in the listening environment. Max Richter, Nils Frahm, and Hauschka are among its representative practitioners.
+Contemporary Classical/Neo-Minimalism has been shaped by multiple factors, including the history since minimalism, advances in recording technology, and changes in the listening environment. Max Richter, Nils Frahm, Hauschka, and others are positioned as representative practitioners.
 
 > "Modern classical/neo-minimalism is a practice that reflects the music production environment of the 21st century."
 

@@ -53,7 +53,7 @@ color: #fff;
 
 Martin Denny was born in New York in 1911. He received classical piano training from an early age and later studied at the Los Angeles Conservatory of Music. When he was young, he was active as a jazz pianist and experienced dance bands and lounge performances.
 
-He served in the U.S. Army during World War II, serving in the South Pacific region. This experience is said to have had a great influence on his later exotica works.
+He served in the U.S. Army during World War II and served in the South Pacific region. This experience is said to have had a great influence on his later exotica works.
 
 After the war, he moved to Hawaii. He began performing at hotels and clubs in Honolulu. Here, he formed the ""spatial production type music'' that would later become his signature style.
 
@@ -80,7 +80,7 @@ E --> H[modern electronic music]
 
 Martin Denny's masterpiece ""Exotica'' was released in 1957. However, his unique style began by chance.
 
-While performing at Shell Bar in Honolulu, birds around the outdoor stage began chirping in response to the performance. In response, percussionist Augie Colon improvised an imitation of a bird call, and the audience reacted strongly.
+While performing at Shell Bar in Honolulu, birds around the outdoor stage began chirping in response to the performance. In response, percussionist Augie Colon improvised an imitation of a bird's song, and the audience reacted strongly.
 
 Denny saw the potential in this incident and began incorporating bird calls and jungle-style sound effects into his performances.
 
@@ -90,13 +90,13 @@ At the time, stereo recording technology was rapidly becoming popular in the Ame
 
 Martin Denny understood this new listening environment very early on.
 
-In his works, the vibraphone swings from side to side, percussion moves around the space, and ambient sounds create depth. This feeling was similar to later ambient music and sound design.
+In his works, the vibraphone swings from side to side, percussion moves around the space, and ambient sounds create depth. This was a similar feeling to later ambient music and sound design.
 
 ### The impact of "Exotica"
 
 Their 1957 album Exotica was a huge success.
 
-"Quiet Village" in particular became a signature song, and the single version reached the top of the US charts in 1959. The sound, which was a mixture of the dreamy sounds of the vibraphone, Latin rhythms, bird calls, and strange choruses, was different from both jazz and pop music up until then.
+"Quiet Village" in particular became a signature song, and the single version reached the top of the US charts in 1959. The sound, which was a mixture of the dreamy sounds of the vibraphone, Latin rhythms, bird calls, and strange choruses, was different from previous jazz or pop music.
 
 With this work, the word "Exotica" itself became established as a genre name.
 
@@ -193,7 +193,7 @@ F --> H[environmental music]
 
 One of the most distinctive features of Martin Denny's work is the vibraphone.
 
-The vibraphone is metallic, yet soft, and has a long aftertaste. Furthermore, the addition of vibration from the motor creates a fantastic floating feeling.
+The vibraphone is metallic yet soft and has a long aftertaste. Furthermore, the addition of fluctuations from the motor creates a fantastic floating feeling.
 
 This instrument was extremely important in expressing the "humidity" of exotica.
 
@@ -217,7 +217,7 @@ This feeling has become an extremely important concept in modern electronic musi
 
 When I listen to Martin Denny's work again, I realize that it is very "quiet music".
 
-The tempo doesn"t increase rapidly, the dynamics are relatively calm, and there aren"t too many notes.
+The tempo does not increase rapidly, the dynamics are relatively calm, and the number of notes is not too large.
 
 This was quite unique for 1950s pop music.
 
@@ -328,7 +328,7 @@ In Japan, lounge music and mood music culture began to spread since the 1960s.
 
 Exotic sounds were often used especially in hotels, bars, and the tourism industry during the period of high economic growth.
 
-Since the 1990s, Martin Denny's work has been attracting renewed attention as a result of the re-evaluation of Shibuya-kei and lounge styles.
+From the 1990s onwards, Martin Denny's work also attracted renewed attention amidst the reappraisal boom of Shibuya-kei and lounge styles.
 
 It is often pointed out that there is an indirect connection with Haruomi Hosono and other Japanese musicians who deal with environmental music and exotic sensations.
 
@@ -346,7 +346,7 @@ A --> G[environmental music]
 
 ---
 
-## The existence of Martin Denny
+## Martin Denny
 
 ### More than just a musician
 
@@ -444,7 +444,7 @@ Martin Denny's work remains more than just a retro hobby.
 
 One of the reasons why modern people are attracted to his music is because of the lack of information.
 
-In today"s world, where we are constantly bombarded with information, Denny"s music has a huge amount of space.
+In today"s world where we are constantly bombarded with information, Denny"s music has a huge amount of space.
 
 The blank space gives the listener space for imagination.
 

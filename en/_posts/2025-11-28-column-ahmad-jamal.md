@@ -24,7 +24,7 @@ Ahmad Jamal was born on July 2, 1925 in Pittsburgh, Pennsylvania, USA. His birth
 
 While in high school, he began playing in local dance bands, laying the foundation for jazz. In 1944, he began performing professionally at local clubs. During World War II, he served as a musician in the Army, playing piano in the military orchestra. During this period, he gained experience in improvisation and small trios, which influenced his later style.
 
-After the war, Jamal moved to New York and made his first recording in 1947. In 1949, he recorded some works under his own name, and it was around this time that he began to develop the characteristics of ""minimalist piano performances that make use of space.''
+After the war, Jamal expanded his career to New York and participated in his first recording in 1947. In 1949, he recorded some works under his own name, and it was around this time that he began to develop the characteristics of ""minimalist piano performances that make use of space.''
 
 ---
 
@@ -49,7 +49,7 @@ Jamal"s first album as a leader was 1951"s New Talent, an album centered around 
 
 ### 1955–56 — The success of At the Pershing: But Not for Me
 
-Formed in 1955, the Ahmad Jamal Trio (Israel Crosby on bass, Vernel Fournier on drums) performed regularly at Chicago's Pershing Lounge. A recording of this live performance, released in 1958, At the Pershing: But Not for Me, was a huge commercial and critical success. The performance of "Poinciana" in particular was a hit and had a great impact not only on jazz fans but also on general listeners.
+Formed in 1955, the Ahmad Jamal Trio (Israel Crosby on bass, Vernel Fournier on drums) performed regularly at Chicago's Pershing Lounge. A recording of this live performance, released in 1958, At the Pershing: But Not for Me, was a huge commercial and critical success. The performance of "Poinciana" in particular was a hit, and had a great impact not only on jazz fans but also on general listeners.
 
 This album features:
 
@@ -69,10 +69,10 @@ In the 1960s, Jamal began his international activities. He has toured throughout
 
 ## Performance style and musical characteristics
 
-Ahmad Jamal's playing has a unique presence in modern jazz. His characteristic feature is that he plays with an emphasis on space, rather than simply relying on technique or fast playing. By making use of the blank spaces, the resonance of each note and changes in rhythm stand out, leaving a deep impression on the audience.
+Ahmad Jamal's playing has a unique presence in modern jazz. His characteristic feature is his performance, which emphasizes space, rather than relying on mere technique or fast playing. By making use of the blank spaces, the resonance of each note and changes in rhythm stand out, leaving a deep impression on the audience.
 
 ### 1. Utilization of rhythm space
-Jamal creates space between phrases and builds rhythm and melody in response to each other. This method was later cited by Miles Davis as ""one of the pianists who influenced me the most,'' and it also influenced the development of modal jazz.
+Jamal creates space between phrases and builds rhythm and melody in response to each other. This method was later cited by Miles Davis as ""one of the pianists who influenced me the most,'' and influenced the development of modal jazz.
 
 ### 2. Minimal approach
 The performance focuses on simple phrases with no decorations, and clearly presents the theme to the listener. The repetition and rhythmic changes give the performance a sense of dynamic tension.
@@ -155,7 +155,7 @@ In particular, the following points are important:
 - **The concept of "Space"**
 Jamal"s playing with blank spaces had a strong influence on Miles"s fashion era from the late 1950s.
 - **Minimalistic theme presentation**
-Jamal's sense of composition is also reflected in Miles' arrangements from his quintet period.
+Jamal's sense of structure is also reflected in Miles' arrangements from his quintet period.
 - **Trio dynamism**
 The interactive approach between bass and drums also contributed to the formation of Miles' band interplay.
 
@@ -178,7 +178,7 @@ The impact is reflected in:
 - Appearance at international jazz festivals
 - High influence on non-American pianists
 - Expansion of cultural horizons after converting to Islam (converted in the 1950s)
-- Changing musical perspectives for a global audience
+- Changing views on music for a global audience
 
 In particular, the fact that he converted in the 1950s and took the name ""Ahmad Jamal'' symbolizes his attitude as an artist with cultural independence.
 

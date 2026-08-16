@@ -28,7 +28,7 @@ The identifying elements of music, such as meter, melody, and instrumentality, r
 * Spatial reverberation
 *Unknown sound source
 
-Ritual Ambient is distinct in that it uses this Dark Ambient-like method while introducing a clear "progressive structure." Ritualism is not established through symbols, but through the design of the arrangement of sounds and their duration.
+Ritual Ambient is distinct in that it uses this Dark Ambient-like method while introducing a clear "progressive structure." Ritualism is established not through symbols, but through the arrangement of sounds and the design of their duration.
 
 
 ---
@@ -70,7 +70,7 @@ The characteristics of his production can be summarized as follows.
 * Processing that intentionally hides the source of the sound
 * Configuration without expansion
 
-Through this methodology, music is presented as a state of being rather than a progression on a time axis.
+Through this methodology, music is presented as a state of being rather than a progression over time.
 
 ---
 
@@ -138,7 +138,7 @@ Although all the songs are independent, they form a ritual flow depending on the
 
 ### 8.3 Mixing philosophy
 
-Avoid extreme localization changes and maintain a central sound image.
+Avoid extreme localization changes and maintain a centrally focused sound image.
 
 ["Raison d"être"s music is designed to transform the listening space into a virtual sanctuary."]
 
@@ -178,7 +178,7 @@ Dark Ambient / Ritual Ambient has been used in the following areas:
 * Museum installation
 * Game environment sounds
 
-The common feature is that sound does not provide explanations.
+What they have in common is that sound does not provide explanations.
 
 ---
 

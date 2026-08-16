@@ -35,5 +35,5 @@ Kenny Larkin is a techno house producer and DJ from Detroit. He began his career
 
 [Purchase on Mercari](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

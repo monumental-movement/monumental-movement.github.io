@@ -10,12 +10,12 @@ tags:
 - Techno
 - Philosophy
 - Detroit Techno
-title: 【コラム】 テクノはなぜ思想なのか
+title: '[Column] Why is techno an ideology?'
 ---
 
 
 
-## Why is techno called ideology?
+## テクノはなぜ思想と呼ばれるのか
 
 Text: mmr｜Theme: Future thoughts behind the repetitive beats. Cities, machines, bodies, communities. Deciphering from history why techno is more than music and is called ideology.
 
@@ -25,9 +25,9 @@ A 4/4 beat that continues to play in the darkness of the club.
 repeating rhythm.
 Inorganic synthesizer sound.
 
-一見すると、テクノはただのダンスミュージックのように見える。
+At first glance, techno appears to be just dance music.
 
-しかし、この音楽は単なる娯楽として生まれたわけではない。
+However, this music was not created just for entertainment.
 
 Collapse of the city.
 mechanized society.
@@ -52,7 +52,7 @@ This is because techno has always been music for thinking about the future and s
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -62,16 +62,16 @@ color: #fff;
 
 
 
-## The encounter between machines and music
+## 機械と音楽の出会い
 
 In order to understand the philosophy of techno, it is first necessary to look back at the relationship between machines and music.
 
 At the beginning of the 20th century, music underwent major changes.
 
-This was the advent of recording technology.
+録音技術の登場である。
 
 Until then, music existed only in the moment it was played.
-しかし録音によって、音は保存されるようになる。
+However, through recording, the sound becomes preserved.
 
 This change changed the very concept of music.
 
@@ -80,7 +80,7 @@ Electronic musical instruments were born in the 1920s.
 - theremin
 - Ondes Martenot
 
-これらの楽器は、電気を使って音を生み出した。
+These instruments used electricity to produce sound.
 
 Music has become something created not only by the body but also by technology.
 
@@ -94,7 +94,7 @@ These were later called "electronic music."
 
 Electronic music has liberated music from the concept of performance.
 
-Composers began to treat sound itself as a material.
+作曲家は音そのものを素材として扱うようになる。
 
 This idea was the basis of techno.
 
@@ -117,7 +117,7 @@ They broke away from rock tradition and created music that incorporated mechanic
 
 Using these electronic devices, they created a futuristic sound.
 
-テーマも独特だった。
+The theme was also unique.
 
 - Highway
 - computer
@@ -133,7 +133,7 @@ Even more important was their aesthetic.
 - Uniform rhythm.
 - Minimalist structure.
 
-これは人間と機械の関係を表現する音楽だった。
+This was music that expressed the relationship between humans and machines.
 
 This idea would later become a central element of techno.
 
@@ -170,7 +170,7 @@ That's Detroit techno.
 
 This music reflected the reality of the city.
 
-- Beats like a factory machine.
+- 工場の機械のようなビート。
 - Futuristic city-like synth sounds.
 - Inorganic yet emotional atmosphere.
 
@@ -181,18 +181,18 @@ Techno was the sound of the city.
 ---
 
 
-## Three founders of techno
+## テクノの三人の創始者
 
 The history of Detroit techno begins with three people.
 
-They are commonly known as the "Belleville Three."
+通称「ベルヴィル・スリー」である。
 
 They started making music in high school.
 
 The influences were diverse.
 
 - european electronic music
-- Funk
+- funk
 - disco
 - SF culture
 
@@ -204,7 +204,7 @@ Their music was not only music for clubs, but also music for imagining future ci
 - Technology.
 - artificial intelligence.
 
-These themes become important motifs in techno.
+こうしたテーマはテクノの重要なモチーフになる。
 
 This music was also a new form of black music.
 
@@ -218,9 +218,9 @@ In other words, techno was a fusion of black music and futuristic ideas.
 
 ## Philosophy of repetition
 
-The biggest characteristic of techno is repetition.
+テクノの最大の特徴は反復である。
 
-The same beat continues for minutes.
+同じビートが何分も続く。
 
 The melody hardly changes.
 
@@ -234,7 +234,7 @@ However, another reason lies in the philosophy of music.
 
 Repetition changes human consciousness.
 
-If the same rhythm continues, the listener loses sense of time.
+When the same rhythm continues, the listener loses sense of time.
 
 This is a phenomenon found in many cultures.
 
@@ -246,7 +246,7 @@ Repetitive rhythms lead humans into a trance state.
 
 Techno was a reconstruction of this old musical principle using electronic sounds.
 
-In other words, techno is the most futuristic music, but also the most primitive.
+In short, techno is the most futuristic music, but also the most primitive.
 
 > Techno repetition is a device for changing time and consciousness.
 

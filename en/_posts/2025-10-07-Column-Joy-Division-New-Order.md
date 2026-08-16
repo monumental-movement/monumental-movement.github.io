@@ -56,7 +56,7 @@ Kraftrock from Kraftwerk and Neu!, the cold, hard sounds of the Velvet Undergrou
 ### Chapter 2: Despair of Sound—The World of Joy Division
 
 **"Internal Sound"**
-Ian Curtis" lyrics depict self-alienation, social anxiety, and inner darkness. Songs such as ""Transmission" and ""She"s Lost Control" are masterpieces that overlap the loneliness of the individual with the inorganic nature of the city.
+Ian Curtis" lyrics depict self-alienation, social anxiety, and inner darkness. Songs such as ""Transmission" and ""She"s Lost Control" are masterpieces that overlap the solitude of the individual with the inorganic nature of the city.
 
 **"Production Innovation"**
 Producer Martin Hannett used recording techniques to pursue a spatial sound that was different from traditional rock music. The reverb on the drums and the three-dimensional placement of the bass were important elements that created the coldness and tension of Joy Division's sound.
@@ -104,7 +104,7 @@ Purchase on Amazon → [Power Corruption & Lies](https://amzn.to/46WqNET)
 Founded by Tony Wilson, the label values ​​musical freedom and aesthetics. Pursuing the fusion of design and music, he and his band led the Manchester sound until the label collapsed.
 
 **"Interaction between club culture and bands"**
-Haçienda will be the setting for New Order"s DJ sets, and the band"s music will be inextricably linked to the dance floor. A two-way relationship with the local community was created.
+Haçienda will be the stage for New Order"s DJ sets, and the band"s music will be closely tied to the dance floor. A two-way relationship with the local community was created.
 
 **"Musical individuality created by regional characteristics"**
 Manchester's gray industrial environment provided a breeding ground for a cold yet lyrical musical style. The relationship between cities and music had a great influence on later generations of artists.
@@ -170,12 +170,12 @@ In other words, it was in the silence of Joy Division that the rhythm of New Ord
 
 The city of Manchester was a place for young people to find expression in the midst of economic devastation.
 Music recorded the emotions of the times more honestly than politics or religion.
-And what supported that sound was a strange fusion of temperature, where technology envelopes human pain.
+What supported that sound was a strange fusion of temperature, where technology envelopes human pain.
 Martin Hannett"s reverberation, Peter Saville"s design, Haçienda's lighting and architecture——
 All of these things came together to form a cultural area called the Manchester Sound.
 
 Joy Division's sound is a mirror that looks into the night,
-The sounds of New Order were a beacon to dance through the night.
+The sound of New Order was a beacon to dance through the night.
 Their trajectory is described as ""a beat of hope that can only be played by those who have overcome tragedy.''
 It still resonates in countless artists and club floors.
 

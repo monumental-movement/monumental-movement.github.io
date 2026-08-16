@@ -123,7 +123,7 @@ Dropped out of school and jumped into the world of music.
 
 During the 1920s and 1930s, electrical recording and microphone technology developed rapidly.
 
-Previously, singers had to sing loudly.
+Previously singers had to sing loudly.
 
 However, with the advent of the microphone, expressions that sound like a whisper are now possible.
 
@@ -131,7 +131,7 @@ Sinatra took full advantage of this new technology.
 
 In later years, many singers would imitate him.
 
-However, at the time, his singing style was revolutionary.
+However, at the time, his singing style was innovative.
 
 >Beyond being a great singer, Sinatra was one of the first artists to understand the microphone era.
 
@@ -171,7 +171,7 @@ Sinatra was already pioneering a phenomenon that would later be seen in the Beat
 flowchart LR
 A[Harry James] --> B[Tommy Dorsey]
 B --> C[National popularity]
-C --> D[Solo activities]
+C --> D[Solo activity]
 D --> E[Movie appearance]
 E --> F[national star]
 </div>
@@ -204,7 +204,7 @@ Started his career as a solo singer.
 
 It was the era of World War II.
 
-As many young people headed off to war, Sinatra's romantic voice supported the hearts of people.
+As many young people headed off to war, Sinatra"s romantic singing voice supported people"s hearts.
 
 "I'll Never Smile Again"
 
@@ -310,7 +310,7 @@ Sinatra himself received critical acclaim and won the Academy Award for Best Sup
 
 attracting attention again.
 
-He is also starting to make a comeback as a singer.
+He is starting to make a comeback as a singer.
 
 ### The Capitol era has arrived
 
@@ -472,7 +472,7 @@ They delivered the works of these composers to a new generation.
 
 He has continued to be active since the 1970s.
 
-He once announced his retirement, but returned to the stage again.
+He once announced his retirement, but returned to the stage.
 
 From the 1980s to the 1990s, he came to be treated as a living legend.
 
@@ -480,7 +480,7 @@ From the 1980s to the 1990s, he came to be treated as a living legend.
 
 In the 1990s, his collaborations with younger generations also became a hot topic.
 
-It will be supported by generations.
+Become a presence that is supported across generations.
 
 ### Died in 1998
 

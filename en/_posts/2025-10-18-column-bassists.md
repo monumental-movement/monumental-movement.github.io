@@ -66,7 +66,7 @@ Anger and intelligence, improvisation and construction. There is poetry in that 
 ---
 
 Players like Ray Brown and Ron Carter
-He brought philosophy to the "walking baseline."
+He brought philosophy to "Walking Baseline."
 Rhythm that speaks between sounds - this is what has elevated jazz to an art form.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -146,7 +146,7 @@ It blurred the line between club culture and live music.
 ---
 
 The delicate bass tones of downy and toe sounds like a poem depicting a city night.
-There is not a scream, but a ""breathing stillness.''
+There is not a scream, but a ""breathing stillness''.
 
 ---
 
@@ -193,7 +193,7 @@ Fender Precision, Jazz Bass, Rickenbacker.
 Each shape indicates a difference in musical thought itself.
 
 The evolution of synth basses also democratized bass sounds.
-Moog, Roland, Novation---machines have feelings,
+Moog, Roland, Novation---machines have emotions,
 The baseline changed from "program" to "personality."
 
 After Jaco, Fretless became something like a silent poet.
@@ -217,7 +217,7 @@ The planet of bass has not stopped ringing yet.
 
 ---
 
-## Reference discography: The world and Japan revolved around bass sounds
+## Reference discography: Japan and the world around bass sounds
 
 | Artist | Work | Year | Notes | Link |
 |:--|:--|:--:|:--|:--|

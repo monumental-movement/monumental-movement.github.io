@@ -65,7 +65,7 @@ In 1988, Akai MPC60 was born. This equipment had the following characteristics:
 * Sequencer integration
 * Swing (groove) adjustment function
 
-Especially important is the "swing." Rather than a perfectly even rhythm, he creates a human-like groove by slightly shifting the rhythm. With this function, the MPC has become not just a tool for driving, but a device that creates a "glue."
+Especially important is the "swing." Rather than a perfectly even rhythm, a slight deviation creates a human-like groove. With this function, the MPC has become not just a tool for driving, but a device that creates a ""glue.''
 
 <div class="mermaid">
 graph LR
@@ -80,7 +80,7 @@ D --> E[groove generation]
 ---
 
 
-## Fusion with hip-hop: expansion of sampling culture
+## Fusion with hip-hop: Expansion of sampling culture
 
 MPC became explosively popular, especially in the hip-hop scene. This was because it perfectly matched the culture of cutting out sounds from existing records and reconstructing them in a new context.
 

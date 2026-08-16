@@ -18,7 +18,7 @@ title: Pick up drum and bass works
 
 ### Aquasky – Nylon Roadster / Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
-A 12″ breakbeat track featuring smooth and emotional piano circa 1996-97.
+A 12″ breakbeat track featuring smooth and emotional piano from around 1996-97.
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ Y. Cosmic Glue
 ### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Emotional acid and breakbeats released by Moving Shadow in the UK in 1996.
+Emotional acid and breakbeat released by Moving Shadow in the UK in 1996.
 
 #### Tracklist
 ```md

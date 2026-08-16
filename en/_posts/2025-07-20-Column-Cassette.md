@@ -151,7 +151,7 @@ Approximately 20Hz to 15kHz with **chrome tape**
 
 - Recording and playback equalization according to IEC standards differs depending on tape type.
 
-- Realizes high frequency extension with high frequency amplification circuit (ferrite head, etc.)
+- Achieves high frequency extension with high frequency amplification circuit (ferrite head, etc.)
 
 - Optimize bias signal (high frequency magnetic vibration) to reduce distortion and noise
 

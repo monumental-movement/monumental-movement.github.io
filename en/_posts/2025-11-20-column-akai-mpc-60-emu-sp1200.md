@@ -43,12 +43,12 @@ color: #fff;
 
 The process of dividing analog signals into numerical values ​​(sampling) has two main parameters: **sampling frequency (Hz)** and **quantization bit depth (bit)**. Sampling frequency is described by Nyquist theory, and quantization bit depth is related to dynamic range and quantization noise.
 
-* **12bit**: Theoretically, the dynamic range is approximately 72dB (ideal conditions). In reality, the effective dynamic range varies depending on the equipment used, due to the effects of circuit noise and analog paths.
+* **12bit**: Theoretically, the dynamic range is about 72dB (ideal conditions). In reality, the effective dynamic range varies depending on the equipment used, due to the effects of circuit noise and analog paths.
 
 ### 2.2 12bit acoustic characteristics
 
 * **Quantization noise** tends to become apparent, especially for small signals.
-* **Presence of midrange** (emphasis of midrange) is relatively noticeable.
+* **Midrange presence** (midrange emphasis) is relatively noticeable.
 * Aliasing and coloring that occur during pitch shifting and sample rate conversion create a distinctive "grit".
 
 ### 2.3 Hardware factors
@@ -144,7 +144,7 @@ Here, a typical production flow assuming SP-1200 and MPC60 is listed in detail b
 
 ## Chapter 6: Scientific analysis of sound quality (frequency characteristics/quantization noise)
 
-The technical analysis section describes the general frequency response of 12-bit devices, the spectral trend of quantization noise, and the aliasing trend during pitch shifting based on general principles. The explanations here follow the general trends that can be confirmed from the manuals and technical articles for each piece of equipment.
+In the technical analysis section, the general frequency response of 12-bit equipment, the spectral trend of quantization noise, and the aliasing trend during pitch shifting are explained based on general principles. The explanations here follow the general trends that can be confirmed from the manuals and technical articles for each piece of equipment.
 
 ### 6.1 Frequency characteristics
 
@@ -165,7 +165,7 @@ The SP-1200 has a tone optimized for reworking bootlegs and breaks, and it becam
 
 ### 7.2 Relationship between R&B and MPC
 
-The MPC60's high playability and MIDI compatibility have made it popular in R&B and pop music production sites. Multiple interviews have shown that producers such as Teddy Riley have used MPC in their productions.
+The MPC60's high playability and MIDI compatibility have made it popular in R&B and pop production. Multiple interviews have shown that producers such as Teddy Riley have used MPC in their productions.
 
 ### 7.3 House/Techno and Low Resolution Samples
 
@@ -216,7 +216,7 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ---
 
-## Chapter 12: Summary and Outlook
+## Chapter 12: Summary and outlook
 
 The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace the roots of this, you always come back to these devices.
 

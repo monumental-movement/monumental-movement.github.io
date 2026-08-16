@@ -104,7 +104,7 @@ This event highlighted her strong presence in the music world, as she does not n
 
 ---
 
-## Chapter 3 "Talkin" "bout a Revolution": Genealogy of silent cries
+## Chapter 3 "Talkin" "bout a Revolution": Genealogy of quiet cries
 
 ### ● When songs go towards society
 "Talkin" "bout a Revolution" can be said to be a song that continues the tradition of protest songs and folk storytelling into the modern era.
@@ -116,7 +116,7 @@ However, this song contains the will to resist oppression, an eye toward social 
 
 ### ● Voices that resonate with character relationships
 Chapman"s musical worlds often depict other people"s perspectives and characters' stories.
-"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she said.
+"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she says.
 This way of speaking has an affinity with folk and blues traditions.
 
 She cites gospel, soul, and folk singers as her musical influences, and has a strong sense of forming a collective voice rather than an individual voice.
@@ -171,7 +171,7 @@ Additionally, our relationships with producers and engineers have matured, allow
 Chapman continued to release select releases into the 2000s.
 Although he has changed musicality and accompaniment style in 2000"s *Telling Stories*, 2002"s *Let It Rain*, 2005"s *Where You Live*, and 2008"s *Our Bright Future*, he has consistently maintained a sense of spontaneity and gentleness.
 
-For *Where You Live*, she was involved in the production and is said to have had an influence on the sound design.
+For *Where You Live*, she herself was involved in the production and is said to have had an influence on the sound design.
 She also rarely uses streaming, instead offering her works through CDs and vinyl. This is an expression of the company's stance of ""protecting the means by which artists can be fairly rewarded.'' :
 
 ---
@@ -207,7 +207,7 @@ In addition, live performances and reconfigurations in acoustic sessions create 
 
 ---
 
-### ● Resonance with acoustic technology: Optimization for modern listening environments
+### ● Resonance with acoustic technology: Optimized for modern listening environments
 Streaming, high-resolution sound sources, smart speakers, and headphone environments—the music environment of the 21st century is diversifying, and listeners' listening conditions are becoming more complex.
 Among these, Chapman's songs have a high level of purity that eliminates unnecessary frequencies, so it can be analyzed that the design allows for his voice to be heard in any environment.
 
@@ -225,7 +225,7 @@ she doesn't scream out loud. However, each word slowly reaches deep into the hea
 What she leaves behind is not a flashy stage or excessive production.
 Rather, it is a poem that cultivates ""ears that hear the voices of the voiceless,'' a way of using time and senses, and a methodology of quiet resistance.
 
-I hope that this column will give you an opportunity to reconsider the contours of Tracy Chapman's world with your own sensibilities.
+I hope that through this column you will be able to reconsider the contours of Tracy Chapman's world with your own sensibilities.
 
 ---
 

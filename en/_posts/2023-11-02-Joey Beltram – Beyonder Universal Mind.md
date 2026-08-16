@@ -13,7 +13,7 @@ title: Joey Beltram – Beyonder / Universal Mind
 ---
 
 
- 「Beyonder / Universal Mind」は、2004年にTresor（トレゾア）からリリースされた、Joey Beltram（ジョイ・ベルトラム）のテクノ・テックハウス・トラック。
+"Beyonder/Universal Mind" is a techno/techhouse track by Joey Beltram, released on Tresor in 2004.
 
 #### Tracklist
 ```md

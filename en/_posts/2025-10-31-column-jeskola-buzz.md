@@ -20,7 +20,7 @@ title: '[Column] The legacy of Jeskola Buzz: The miracle of electronic music bor
 
 Text: mmr｜Theme: Trace the technical characteristics and history of Buzz, then organize what was possible from the user/community perspective, and trace specific examples of artists' usage and its musical influence.
 
-1990年代半ば、電子音楽／PC音楽制作の世界は大きな転換期を迎えていた。従来、ハードウェア・シンセサイザー、専用機器、レコーディングスタジオが中心であり、個人が自由に曲を制作・発表する環境は限られていた。だが、PC（Windows）とソフトウェア技術の進展により、「自宅でも自由に音を作れる時代」が本格化し始める。
+In the mid-1990s, the world of electronic music/PC music production was at a major turning point. Traditionally, hardware synthesizers, dedicated equipment, and recording studios were the main focus, limiting the environment in which individuals could freely produce and present songs. However, with advances in PC (Windows) and software technology, an era in which people can freely create sounds at home has begun in earnest.
 
 Meanwhile, "Jeskola Buzz" by Finnish developer Oskari Tammelin appeared around 1997 (or is said to have had an alpha version before then).
 Buzz is a freeware (free distribution) modular tracker/sequencer for Windows that has been supported by many users. Its biggest appeal was the environment in which it was possible to recreate "modular equipment" on software by freely assembling sound sources (generators), effects (machines), and routing (wiring).
@@ -71,7 +71,7 @@ In this way, Buzz played a heretical and innovative role at the time, ""creating
 
 ## 3. Buzz innovation: modular sequencer and plug-in culture
 
-In this chapter, we will analyze in detail the ""what was technologically innovative'' about Buzz.
+In this chapter, we will discuss in detail what Buzz's technological innovations were.
 
 ### 3.1 Sound sources and effects can be handled in "machine" units
 
@@ -106,7 +106,7 @@ Another important aspect of Buzz was that it was actively supported, shared, and
 
 ### 4.1 Free plug-in sharing and sound source market culture
 
-Buzz users were creating sound source machines/effect machines and distributing them for free on forums and websites. For example, many machines were posted on BuzzMachines.com and Demoscene forums.
+Buzz users were creating sound source machines/effect machines and distributing them for free on forums and websites. For example, many machines were posted on BuzzMachines.com and demoscene forums.
 This made it commonplace to download someone else's machine and insert it into your own songs. In other words, a cycle was born in which "users create equipment (software equipment) and then share it with friends and the internet."
 
 ### 4.2 Deep relationship with demoscene
@@ -130,7 +130,7 @@ In this way, the Buzz community has grown beyond just "software users" to become
 
 ## 5. Artists using Buzz: Examples from Japan and abroad
 
-In this chapter, we will highlight artists who have actually used Buzz or have been mentioned to have used it, and introduce their anecdotes. Separately list those for whom use has been confirmed and those for whom use is said to be possible.
+In this chapter, we will highlight artists who have actually used Buzz or have been mentioned to have used it, and introduce their anecdotes. Separately list those who are confirmed to have used the drug and those who are said to have the possibility of using it.
 
 ### 5.1 Definitely used: James Holden
 
@@ -149,7 +149,7 @@ From these accounts, it is highly reliable that Holden produced some of his earl
 Taking a track such as "Blank It" from the album *The Idiots Are Winning* as an example, the following points suggest the environment in which Buzz will be used:
 
 * Complex loop/sampler material is developed in parallel,
-* Modular filter operation and LFO modulation can be seen (the sound has a "mechanical feeling"),
+* Modular filter operation and LFO modulation can be seen (the sound has a "mechanical feel"),
 * It has a rhythm structure that repeats and subdivides like a vertical pattern, and this can be said to be unique to Buzz, which can be easily edited in tracker format.
 
 In this way, Holden"s early works have a sonic language that is highly compatible with Buzz"s characteristics (modular/tracker).
@@ -254,7 +254,7 @@ Below is a chronology of Buzz's history/major events.
 | 2000 (October 5) | Developer lost source code and announced official suspension of development.                                |
 | 2002 | Unofficial extensions and plug-in distribution by the community reached its peak.                                              |
 | 2008 (June) | Announcement of restart of development. User-centered updates continue. ) |
-| Around 2012 | Build 1400s was released, and testimonies such as ""James Holden used it'' spread on forums. |
+| Around 2012 | Build 1400s was released, and testimonies such as "James Holden used it" are spreading on forums. |
 | 2016 (January 16) | Build 1503 released. Recorded as the official "latest" version.                           |
 | 2020s | With the revival of hardware/software modularity, Buzz's philosophy will be reevaluated.                                     |
 

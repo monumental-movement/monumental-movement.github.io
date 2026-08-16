@@ -15,7 +15,7 @@ title: Ronny X – Jesus Christ Superstar
 
 Ronny X, also known as Ronald Fiolet, is an artist who is active under the name FIO and in various groups.
 
-Andrew Lloyd Webber(アンドルー・ロイド・ウェバー)とTim Rice(ティム・ライス)の「Jesus Christ Superstar」を、RonnyX、ダッチトランスDJ／プロデューサーMisja HelslootなどがリミックスしたElectro／Progressive Tranceトラック。2006年にオランダのインディペンデントレーベルTimaticsからリリースされた。
+An Electro/Progressive Trance track remixed by Andrew Lloyd Webber and Tim Rice's "Jesus Christ Superstar" by RonnyX, Dutch trance DJ/producer Misja Helsloot, and others. It was released in 2006 on the Dutch independent label Timatics.
 
 Proceeds from this record were donated to childrensfund Heavenly-Yours-Foundation.eu.
 

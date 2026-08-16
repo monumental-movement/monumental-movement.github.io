@@ -13,7 +13,7 @@ title: Denzil & Dwayne – Force Of Habit
 ---
 
 
-Denzil & Dwayn is a project by Maykel Piron, a Dutch trance producer and one of the founders of Armada Music, and Michiel Van Der Kuy, a Dutch musician and music producer.
+Denzil & Dwaynは、オランダのトランスプロデューサーでありArmada Musicの創設者の1人Maykel Pironとオランダのミュージシャン・音楽プロデューサーMichiel Van Der Kuyによるプロジェクト。
 
 "Force Of Habit" is a trance track released in 1999 by the Dutch label Flammable.
 

@@ -16,7 +16,7 @@ title: '[Column] Klaus Nomi: The critical point of the new wave opened up by voi
 
 
 
-## Prologue: Where did the bizarre pop star come from?
+## Prologue: Where did the deformed pop star come from?
 
 Text: mmr｜Theme: The trajectory of Klaus Nomi, who created a strange form of pop through the fusion of opera and new wave
 
@@ -53,7 +53,7 @@ He had experience working at the Deutsche Oper Berlin and was exposed to the beh
 
 ### Immigration to New York
 
-1970年代半ば、彼はアメリカへ渡り、New York Cityに拠点を移す。当時のニューヨークはパンク、ディスコ、アートシーンが交差する混沌の都市であり、彼のような異質な存在にとっては絶好の実験場だった。
+In the mid-1970s, he moved to the United States and settled in New York City. At the time, New York was a chaotic city where punk, disco, and art scenes intersected, making it the perfect testing ground for someone as unique as him.
 
 He continued his music career while working at a restaurant, and eventually gained attention in the underground scene.
 
@@ -67,7 +67,7 @@ He continued his music career while working at a restaurant, and eventually gain
 
 In 1978, he appeared at the performance event "New Wave Vaudeville" and dominated the audience's attention with his unusual presence. The performance here was more than just singing, it was a fusion of visual art, theater, and music.
 
-Triangular suits, whitewashed faces, extremely exaggerated movements. These works anticipated the later trend of visual emphasis in pop culture.
+Triangular suits, whitewashed faces, extremely exaggerated movements. These works foreshadowed the later trend of visual emphasis in pop culture.
 
 ### Voice specificity
 
@@ -81,9 +81,9 @@ This was an attempt to blur the boundaries between classical and pop music, and 
 
 ## Connection with David Bowie
 
-### Saturday Night Liveでの共演
+### Co-starring on Saturday Night Live
 
-1980年、David Bowieはテレビ番組「Saturday Night Live」に出演した際、バックコーラスとしてKlaus Nomiを起用した。この出演は彼にとって最大のメディア露出のひとつとなる。
+In 1980, David Bowie featured Klaus Nomi on the backing vocals when he appeared on the television show "Saturday Night Live." This appearance will be one of his biggest media exposures.
 
 Bowie himself was an artist who valued transformation and visual expression, and their aesthetics had something in common.
 
@@ -95,14 +95,14 @@ This collaboration was also the moment when the boundaries between underground a
 
 ---
 
-## 代表作と音楽的特徴
+## Representative works and musical characteristics
 
 ### Album works
 
-彼は生前に2枚のスタジオアルバムを発表している。
+He released two studio albums during his lifetime.
 
-* Klaus Nomi（1981年）
-* Simple Man（1982年）
+* Klaus Nomi (1981)
+* Simple Man (1982)
 
 These works are a mix of pop songs and classical arias, and are characterized by compositions that transcend genre boundaries.
 
@@ -112,7 +112,7 @@ These works are a mix of pop songs and classical arias, and are characterized by
 * "Cold Song"
 * "Simple Man"
 
-In particular, "Cold Song" is based on the work of Henry Purcell, and is a symbolic song that combines his classical background with pop direction.
+In particular, "Cold Song" is based on the work of Henry Purcell, and is a symbolic song that combines his classical background with pop production.
 
 > A unique musical language was created through the coexistence of classical quotations and pop structures.
 
@@ -122,11 +122,11 @@ In particular, "Cold Song" is based on the work of Henry Purcell, and is a symbo
 
 ### Geometric costume
 
-His costumes had a futuristic design that emphasized straight lines and symmetry, and were distinctive among the fashions of the time. This isn"t just a costume, it"s a visual language integrated with his music.
+His costumes had a futuristic design that emphasized straight lines and symmetry, and were distinctive among the fashions of the time. This is not just a costume, but a visual language integrated with his music.
 
 ### Body production
 
-His movements were both mechanical and theatrical, often giving the impression of being inhuman. This establishes his character as a ""non-human being.''
+His movements were mechanical and theatrical, often giving the impression of being inhuman. This establishes his character as a ""non-human being''.
 
 > Visual expression functioned as an inseparable element from music.
 
@@ -146,7 +146,7 @@ He prioritized artistic expression over commercial success, an attitude that res
 
 ---
 
-## Detailed analysis of masterpieces: Voices and Crystals of Deformity
+## Detailed analysis of representative works: Voices and Crystals of Deformities
 
 ### "Total Eclipse"
 
@@ -184,7 +184,7 @@ The theme of ""simple humans" indicated in the title serves to emphasize the con
 
 This cover of Lou Christie"s song maintains the pop format, but transforms it into a completely different impression with Nomi"s unique voice.
 
-While retaining the lightness of the original song, his voice adds a somewhat disturbing, floating quality to the song. This is a good example of his high ability to interpret.
+While retaining the lightness of the original song, his voice adds a somewhat disturbing and floating quality to the song. This is a good example of his high ""power of interpretation.''
 
 > His ability to reconstruct existing pop music with unusual filters stands out.
 

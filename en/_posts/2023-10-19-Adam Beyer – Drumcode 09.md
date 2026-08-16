@@ -12,7 +12,7 @@ title: Adam Beyer – Drumcode 09
 ---
 
 
-90年代後期、スウェーデン・ミニマル・テクノ・シーンの中心人物として活躍するスウェーデンのテクノDJ/プロデューサーAdam Beyer（アダム・ベイヤー）が、自身が運営するレーベルDrumcode より1997年にリリースした、この時代を象徴するテクノトラック。
+Swedish techno DJ/producer Adam Beyer, who was a central figure in the Swedish minimal techno scene in the late 90s, released this techno track that symbolizes this era in 1997 on his own label Drumcode.
 
 #### Tracklist
 ```md

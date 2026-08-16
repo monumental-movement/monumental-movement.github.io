@@ -22,7 +22,7 @@ DTM (DeskTop Music) - The workflow, called "DTM" in Japanese and DAW (Digital Au
 
 <hr>
 
-### 時代ごとの流れ
+### Trend by era
 
 **1940–1960s**: Era of tape and multitrack recording
 Techniques for "cutting and pasting" sound developed, such as tape editing, tape looping, and musique concrète. Overdub recording in studios became popular.
@@ -41,11 +41,11 @@ High-performance recording systems that rely on hardware have become widespread,
 **2000s**: Computer-based DAWs became mainstream and home studios exploded.
 Lower prices and improved plug-in quality have made it possible for individuals to create professional-quality products. Loop culture, combined with the expansion of online distribution.
 
-**2010s**: DAW diversification and live/improvisation-oriented (Ableton, etc.)
+**2010s**: DAW diversification and live/improvisational orientation (Ableton, etc.)
 Introducing non-linear editing, clip-based live music integration, cloud and collaboration tools.
 
 **2020s**: AI-assisted production, cloud collaboration, further democratization
-Automatic mixing/mastering, generation AI, cloud project sharing, etc. are affecting the production flow.
+Automatic mixing/mastering, generation AI, cloud project sharing, etc. affect the production flow.
 
 <hr>
 
@@ -73,9 +73,9 @@ With improvements in the performance of personal PCs, the spread of audio interf
 
 <hr>
 
-### 2010年代以降：多様化・即興性・クラウド化
+### 2010s and beyond: Diversification, improvisation, and cloud computing
 
-DAWは単に「録る・並べる・ミックスする」ツールから、ライブパフォーマンス（Ableton Live）、リアルタイムコラボレーション、映像連携、モジュラー統合など多機能化しました。モバイルアプリ／iPad用DAW、クラウドでのプロジェクト同期、サブスクリプションモデルの導入など、利用形態はさらに拡張しています。
+DAWs have evolved from tools for simply "recording, arranging, and mixing" to multifunctional features such as live performance (Ableton Live), real-time collaboration, video linkage, and modular integration. Usage options are further expanding, including mobile apps/iPad DAWs, cloud project synchronization, and the introduction of subscription models.
 
 <hr>
 
@@ -85,7 +85,7 @@ DAWは単に「録る・並べる・ミックスする」ツールから、ラ�
 
 **MIDI**: Recording/editing performance information. We will also keep an eye on the evolution of standards such as MIDI CC and MIDI 2.0 (which is gradually becoming popular).
 
-**プラグイン（VST/AU/AAX等）**：ソフト音源やエフェクトを追加することで機能を拡張。
+**Plug-ins (VST/AU/AAX, etc.)**: Expand functionality by adding soft sound sources and effects.
 
 **Sampling and Samplers**: An important tool in sound design. Sampler culture is the foundation of hip-hop and electronica.
 
@@ -93,7 +93,7 @@ DAWは単に「録る・並べる・ミックスする」ツールから、ラ�
 
 **Automation and Modulation**: Achieve dynamism by changing parameters over time.
 
-**非破壊編集**：元データを変更せず編集が可能。DAWの基本機能。
+**Non-destructive editing**: Can be edited without changing the original data. Basic functions of DAW.
 
 <hr>
 
@@ -103,9 +103,9 @@ DAWは単に「録る・並べる・ミックスする」ツールから、ラ�
 
 [**Cubase (Steinberg)**](https://amzn.to/3J9udfx): Strengths in MIDI sequences and composition workflow. The creator of the VST standard.
 
-[**Logic Pro (Apple)**](https://amzn.to/3W5tqzp): Comprehensive and cost-effective. Popular with Mac users. Abundant built-in sound sources.
+[**Logic Pro (Apple)**](https://amzn.to/3W5tqzp): Comprehensive and good cost performance. Popular with Mac users. Abundant built-in sound sources.
 
-[**Ableton Live**](https://amzn.to/3IN6QbN)：クリップベースの即興性とライブ用途に特化。エレクトロニック系に広く採用。
+[**Ableton Live**](https://amzn.to/3IN6QbN): Specialized in clip-based improvisation and live use. Widely used in electronic systems.
 
 [**FL Studio**](https://amzn.to/43ocpnQ): Ideal for creating loops/patterns, popular for beat making. Easy to use piano roll.
 

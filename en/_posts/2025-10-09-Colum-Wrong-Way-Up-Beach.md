@@ -62,7 +62,7 @@ The title "Wrong Way Up" has a double meaning.
 It is a sense of discomfort in an ""upside down world," and at the same time, it is an allegory for ""a mind that wanders as it ascends."
 
 Sonically, Eno"s signature smooth ambience is infused with Cale"s melodic intent.
-For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia. Synth particles sparkle like reflections on the ocean"s surface, and Cale"s voice evokes the feeling of "distant land."
+For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia. Synth particles sparkle like reflections on the ocean"s surface, and Cale"s voice evokes the idea of ​​"distant land."
 
 ---
 
@@ -75,7 +75,7 @@ For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia
 
 The melody is like a ""memory sketch.''
 This album was a forerunner of Eno's ""environmental pop'' from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
-""False ascension'' may refer to the path we take in what we believe to be the correct path.
+""False ascension'' may refer to the path we take in what we believe is the correct path.
 
 ---
 
@@ -134,7 +134,7 @@ Here, sound and images perfectly overlap, creating a modern ""illusion of utopia
 ---
 
 Where will we run to in the 21st century?
-In an era where social media connects the world and AI plays a part in imagination, the phrase **"Wrong Way Up"** rings even more realistic.
+In an age where social media connects the world and AI plays a part in imagination, the phrase **"Wrong Way Up"** rings even more realistic.
 ""False ascension'' is now a metaphor for civilization.
 
 Eno & Cale's album had a premonition of "music after giving up on paradise."
@@ -163,7 +163,7 @@ And in our hearts, we continue to quietly draw a **unseen beach**.
 
 | Artist/Work | Year | Notes | Link |
 |------------------|----|--------------|
-| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic clarity. | [Amazon](https://amzn.to/48mDETk) |
+| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic transparency. | [Amazon](https://amzn.to/48mDETk) |
 | The Beach (Soundtrack) | 2000 | Moby, All Saints, Faithless and more participate. Music of the sea and solitude. | [Amazon](https://amzn.to/47mrub1)
 
 ---

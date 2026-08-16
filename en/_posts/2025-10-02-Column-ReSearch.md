@@ -124,7 +124,7 @@ John Waters provided many materials during the production of Incredibly Strange 
 In 1988, he traveled to London to interview J.G. Ballard in person. Ballard said, ""I never thought that the people who would read my novels would be the punk generation.''
 
 - **Funding difficulties and the continuation of zine culture**
-Although its circulation was small, its readership spread all over the world, and Vale said, ""A passionate readership is more important than mass circulation.''
+Although circulation was small, readers spread all over the world, and Vale said, ""A passionate readership is more important than mass circulation.''
 
 - **Resonance with San Francisco**
 Experimental groups such as Survival Research Laboratories and Other Cinema gathered around RE/Search, building a network of zines and art.

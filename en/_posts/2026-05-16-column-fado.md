@@ -10,7 +10,8 @@ tags:
 - Music
 - Portugal
 - Folk
-title: 【コラム】 ファド――港町リスボンから世界へ響いた“サウダーデ”の歌
+title: '[Column] Fado: The song "Saudade" that resonated from the port city of Lisbon
+  to the world'
 ---
 
 
@@ -36,7 +37,7 @@ color: #fff;
 
 The word fado is said to be derived from the Latin word "fatum". The meaning is "fate".
 
-As its etymology suggests, fado is not just a popular song. It has developed as a music that sings of emotions that humans cannot avoid, such as the uncertainty of life, separation, the feeling of waiting for the return of those who went to sea, poverty, love, and the loneliness of city life.
+As its etymology suggests, Fado is not just a popular song. It has developed as a music that sings of emotions that humans cannot avoid, such as the uncertainty of life, separation, the feeling of waiting for the return of those who went to sea, poverty, love, and the loneliness of city life.
 
 Of particular importance is the uniquely Portuguese feeling of ""saudade.''
 
@@ -44,7 +45,7 @@ Saudade is often translated into Japanese as ""nostalgia," ""mistache," or ""fee
 
 It is understood as a complex emotional concept that includes not only nostalgia for the past, but also feelings for time that cannot be returned, love for someone you cannot meet, and desires for a future that does not exist.
 
-ファドは、このサウダーデを声によって表現する音楽だった。
+Fado was music that expressed this saudade through the voice.
 
 It is thought to have been sung in Lisbon in the 19th century by dockworkers, sailors, prostitutes, bar musicians, and the city's lower class. In other words, Fado did not exist as "high culture" from the beginning.
 
@@ -52,12 +53,12 @@ Rather, it was folk music that grew up on the fringes of cities.
 
 Bars, alleys, the sea, betrayal, jealousy, fate, and resignation appear repeatedly in the lyrics.
 
-On the other hand, Fado has a very strong poetic quality. Rather than simply music of sadness, it has matured into an art form that beautifully condenses and presents emotions.
+On the other hand, Fado has a very strong poetic quality. It has matured into an art form that beautifully condenses and presents emotions, rather than simply music of sadness.
 
 <div class="mermaid">
 graph TD
 A[Latin fatum] --> B[destiny]
-B --> C[サウダーデ]
+B --> C[Saudade]
 C --> D[nostalgia]
 C --> E[separation]
 C --> F[urban solitude]
@@ -98,7 +99,7 @@ Lisbon also had a cultural mix due to African people and people coming and going
 
 Researchers have also pointed out the possibility that African dance music and musical elements of Brazilian origin influenced the creation of Fado.
 
-つまりファドは、“純粋な民族音楽”として孤立して生まれたわけではない。
+In other words, Fado was not born in isolation as "pure folk music."
 
 It was urban music that was formed in the mixed culture unique to port cities.
 
@@ -124,7 +125,7 @@ Although the accompaniment was important, it was the singing voice and the emoti
 
 <div class="mermaid">
 flowchart LR
-A[Age of Discovery] --> B[港湾都市リスボン]
+A[Age of Discovery] --> B[port city lisbon]
 B --> C[cultural mix]
 C --> D[downtown culture]
 D --> E[bar]
@@ -144,21 +145,21 @@ Lisbon was not just a backdrop, it was a ""device'' that shaped Fado itself.
 
 The Portuguese guitar is known as the instrument that symbolizes fado.
 
-涙型のボディと12弦構造を持つこの楽器は、一般的なクラシックギターとは異なる響きを持つ。
+This instrument, with its teardrop-shaped body and 12-string structure, has a different sound from typical classical guitars.
 
 It is characterized by the sharpness and lingering sound of the metal strings, giving the melody a unique melancholy.
 
 Normally, a fado performance is organized as follows.
 
-* ファディスタ（歌手）
+* Fadista (singer)
 * portuguese guitar
 * Viola (classical guitar accompaniment)
 
 In some cases, a bass guitar may also be added.
 
-ファド演奏では、過剰なアレンジはあまり好まれない。
+Excessive arrangements are not very popular in fado performances.
 
-Rather, the importance is placed on ""space" and ""silence."
+Rather, the emphasis is on "pause" and "silence."
 
 There is a culture in which the audience refrains from speaking privately during performances, creating an atmosphere in which the entire store is focused on the song.
 
@@ -168,7 +169,7 @@ Fado is music that shares emotions throughout the space.
 
 ### Improvisation and lyrics
 
-Although Fado has a formal structure, it has a strong improvisational nature in its emotional expression.
+Although Fado has a formal structure, it has a strong sense of improvisation in its emotional expression.
 
 The tempo, intonation, and pauses vary greatly depending on the singer.
 
@@ -187,9 +188,9 @@ B --> E[saudade expression]
 E --> F[sharing with audience]
 </div>
 
-In a fado performance space, emotional density takes precedence over flashiness.
+In a Fado performance space, emotional density takes precedence over flashiness.
 
-> Fado has functioned more as a space to sink into one's emotions than music to listen to.
+> Fado has functioned more as a "space to sink into one's emotions" than as "music to listen to."
 
 ---
 
@@ -197,13 +198,13 @@ In a fado performance space, emotional density takes precedence over flashiness.
 
 ### First Fadista
 
-Maria Severa is an indispensable figure when discussing Fado history.
+Maria Severa is an indispensable figure when talking about the history of Fado.
 
 She is said to have existed in the first half of the 19th century, and is often referred to as the "first Fadista."
 
 She is said to have been both a prostitute and a singer, and became a symbol of Lisbon's downtown culture.
 
-セヴェーラに関する記録は限られており、後世の神話化も多い。
+Records regarding Severa are limited, and there are many myths about him in later years.
 
 However, what is important is that she played a decisive role in shaping the image of ""Fado = urban lower culture.''
 
@@ -213,11 +214,11 @@ Its narrative nature became strongly connected to the "fatefulness" of fado.
 
 In the 20th century, the statue of Severa was reproduced in movies and plays, and was positioned as the origin of Fado culture.
 
-### 女性歌手とファド
+### Female singers and fado
 
-Female singers have a very strong presence in Fado.
+Female singers have a very strong presence in fado.
 
-これは単なる偶然ではない。
+This is no mere coincidence.
 
 This is because the emotional expressions of those who wait, those who lose, and those who continue to hold on to love have been strongly visualized by female singers.
 
@@ -234,7 +235,7 @@ S->>F: 歌唱イメージ定着
 F->>C: 神話化
 </div>
 
-セヴェーラは、史実と伝説の境界に存在する。
+Severa exists on the border between historical fact and legend.
 
 > However, it was this ambiguity that strengthened the mystique of fado music.
 
@@ -248,13 +249,13 @@ At the turn of the 20th century, Amalia Rodríguez was the person who helped pus
 
 Born in 1920, she is said to have grown up in a poor environment from an early age.
 
-Since the 1940s, he has become a representative figure in the fado world with his overwhelming singing ability and presence.
+Since the 1940s, he has become a leading figure in the fado world with his overwhelming singing ability and presence.
 
 Amalia's achievements go beyond simple popularity.
 
-それまで下町文化として見られていたファドを、芸術として再定義したことにある。
+Fado, which had previously been seen as a part of downtown culture, was redefined as art.
 
-While preserving traditional Fado, she enhanced her poetic expression and stage artistry.
+While preserving traditional fado, she enhanced her poetic expression and stage artistry.
 
 They also actively performed overseas and received high praise in Europe, South America, and Japan.
 
@@ -268,7 +269,7 @@ Portugal in the mid-20th century was under the Salazar dictatorship.
 
 The regime used Fado as a "national culture" and treated it as a symbol of conservative values.
 
-そのため民主化後、一部では「ファド＝独裁体制の音楽」という批判も起きる。
+For this reason, after democratization, some people criticized Fado as the music of the dictatorship.
 
 However, in reality, Fado culture as a whole was not simply supportive of the regime.
 
@@ -278,7 +279,7 @@ In other words, although fado was used by the state, it was a complex culture th
 
 <div class="mermaid">
 flowchart TD
-A[Amalia Rodriguez] --> B[芸術化]
+A[Amalia Rodriguez] --> B[Artification]
 A --> C[internationalization]
 A --> D[mass popularity]
 D --> E[national culturalization]
@@ -309,7 +310,7 @@ In 1974, the dictatorship collapsed with the Carnation Revolution.
 
 Portuguese society has undergone major changes due to democratization.
 
-However, immediately after the revolution, fado's presence temporarily weakened.
+However, immediately after the revolution, Fado's presence temporarily weakened.
 
 This is because it was not seen as music that symbolized a new era.
 
@@ -342,9 +343,9 @@ The revolution did not erase fado.
 
 ## Modern fado reproduction
 
-### Generations after Mariza
+### Generations after Marisa
 
-1990年代後半から2000年代にかけて、ファドは再び世界的注目を集める。
+From the late 1990s to the 2000s, Fado once again attracted worldwide attention.
 
 One of the central characters was Marisa.
 
@@ -362,7 +363,7 @@ As it became closer to jazz, pop, and Brazilian music, fado ceased to be a close
 
 In 2011, Fado was registered as a UNESCO Intangible Cultural Heritage.
 
-これは単なる観光資源認定ではない。
+This is not just a tourist resource certification.
 
 This means that Fado has been internationally recognized as a culture that inherits the memories and emotions of urban communities.
 
@@ -381,15 +382,15 @@ F --> H
 G --> H
 </div>
 
-現代ファドは、保存だけを目的としていない。
+Modern Fado is not just about preservation.
 
-> Fado continues to exist as a ""living culture'' by continuing to update itself while embracing the past.
+> Fado continues to exist as a ""living culture'' by continuing to renew itself while retaining its past.
 
 ---
 
 ## Fado and literature
 
-### Portugal, the land of poetry
+### Portugal, the country of poetry
 
 Poetry occupies a very important place in Portuguese culture.
 
@@ -397,7 +398,7 @@ Many poets, including Fernando Pessoa, shaped Portuguese culture in the 20th cen
 
 Fado also has strong ties to poetry.
 
-The lyrics incorporate symbols, allusions, religiosity, and urban landscapes.
+The lyrics incorporate symbolism, allusion, religiosity, and urban landscapes.
 
 Rather than being simple love songs, they often include philosophical questions about how to perceive life.
 
@@ -438,7 +439,7 @@ mindmap
 
 Fado is not only music, but also a poetic culture in Portuguese.
 
-> そのため翻訳では完全に再現できない感情の層が存在している。
+>Therefore, there is a layer of emotion that cannot be fully reproduced through translation.
 
 ---
 
@@ -452,9 +453,9 @@ Among these, Fado functions as an important tourist content.
 
 Commercialization has also progressed, with fado shows attached to restaurants, short performances for tourists, and collaboration with cruise tours.
 
-There is also criticism that ""the original Fado spirit is lost.''
+There is also criticism that ""the original Fado spirit is lost''.
 
-However, on the other hand, the reality is that tourism has helped maintain performance spaces, allowing many young singers to continue their activities.
+However, on the other hand, the reality is that tourism has helped maintain performance spaces, allowing many young singers to continue their careers.
 
 In other words, modern Fado continues to strike a balance between "preservation" and "commercialization."
 
@@ -466,14 +467,14 @@ African culture, Brazilian culture, port culture, popular culture.
 
 Considering the history of absorbing these things, it is impossible to understand them from the viewpoint of only looking for "pure prototypes."
 
-Fado is a culture that is inherited while changing.
+Fado is a culture that is passed down through changes.
 
 <div class="mermaid">
 flowchart TD
-A[tradition] --> B[観光化]
+A[tradition] --> B[Tourism]
 B --> C[commercialization]
 C --> D[Developing young people]
-D --> E[文化継承]
+D --> E[cultural inheritance]
 E --> F[reinterpretation]
 </div>
 
@@ -489,11 +490,11 @@ Fado is not a relic of the past.
 
 After the 1980s, as the market concept of "world music" was formed, fado received an international reappraisal.
 
-In Europe and Japan, it tended to be accepted as ""quiet emotional music.''
+In Europe and Japan, there was a strong tendency for it to be perceived as "quiet emotional music."
 
-また、アルゼンチン・タンゴとの比較も頻繁に行われる。
+It is also frequently compared to Argentine tango.
 
-This is because both were born out of port town culture, have a background in urban underworld culture, and share a strong sense of nostalgia.
+This is because both were born out of port town culture, have a background in lower urban culture, and share a strong sense of nostalgia.
 
 Furthermore, in modern times, there are increasing connections with ambient, jazz, chamber music, and contemporary music.
 
@@ -569,7 +570,7 @@ Don't resolve your feelings immediately.
 
 Don't just provide excitement.
 
-Rather, they accept the contradictions and sense of loss that humans face as they are.
+Rather, he accepts the contradictions and sense of loss that humans face as they are.
 
 That is why it continues to have a certain level of support even today.
 

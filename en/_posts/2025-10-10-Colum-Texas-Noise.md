@@ -43,7 +43,7 @@ color: #fff;
 ### Chapter 1: Solitary Sound Experiments — Charalambides and the Expansion of Southern Consciousness
 
 In the early 2000s, **Charalambides** (Christina and Tom Carter) were a mainstay of the Texas noise scene.
-Their sound wasn't so much noise as it was an experimental ritual that explored the ""junior edge'' of folk and drone.
+Their sound wasn't so much noise as it was an experimental ritual that explored the tipping point between folk and drone.
 
 - Infinitely stretched guitar reverberation
 - Vocal phrase repeated like a prayer
@@ -58,14 +58,14 @@ Charalambides' activities spread through the **Kranky** and **Wholly Other** lab
 
 ---
 
-### Chapter 2: Noise of Iron and Flesh — Black Leather Jesus and the Genealogy of Physicality
+### Chapter 2: The Noise of Iron and Flesh — Black Leather Jesus and the Genealogy of Physicality
 
 **Black Leather Jesus (BLJ)**, which has been active since the 1990s, is a Houston-based noise group led by **Richard Ramirez**.
-BLJ continued to be active in the 2000s and beyond as the ""extreme of harsh noise"', along with Japan"s Hijikaido and MERZBOW, and America's The Haters.
+BLJ has continued to be active since the 2000s as the ""extreme of harsh noise"', along with Japan"s Hijikaido and MERZBOW, and America's The Haters.
 
-BLJ is characterized by its fusion of noise, flesh, and homosexual aesthetics.
+BLJ is characterized by its fusion of noise, body, and homosexual aesthetics.
 Their stages feature restraints, leather, and religious rituals, accompanied by physical explosions of noise.
-It was more than a sonic experiment, it was a body-mediated resistance and celebration.
+Rather than an acoustic experiment, it was a body-mediated resistance and celebration.
 
 Offshoot units such as **Werewolf Jerusalem** and **The Rita** also sprang up around BLJ, turning Texas noise culture into an **underground empire**.
 
@@ -78,7 +78,7 @@ Offshoot units such as **Werewolf Jerusalem** and **The Rita** also sprang up ar
 Austin is a city in Texas where noise has taken on new directions, especially as a hotbed of college culture and DIY art.
 In the late 2000s, artists like Iron Lung, Pure Ground, and Digital Leather shifted their focus from harsh to minimalist.
 
-The recording environment has also changed. Cassette labels were on the rise, and exchanges with countries such as **Edition Mego and Hospital Productions** were also progressing.
+The recording environment has also changed. Cassette labels emerged, and exchanges with countries such as **Edition Mego and Hospital Productions** also progressed.
 A characteristic of this period was the redefinition of **noise as art**.
 In particular, the "No Idea Festival" was held in small galleries and warehouses in Austin.
 Recognized Texas noise culture as part of an international avant-garde music network.
@@ -157,8 +157,8 @@ flowchart TD
 
 Texas noise is horizon noise, not city noise.
 It wasn't a scream or resistance, but a slight vibration to confirm its existence.
-The local noise artists are not only working through technology;
-Rather, he continues to update his ""ethics of sound'' in solitude and nature.
+Noise artists here are not only working through technology, but also
+Rather, he continues to update his "ethics of sound" in solitude and nature.
 
 > "Noise is music in the form of silence."
 > — From an unsigned tape note
@@ -177,4 +177,4 @@ Rather, he continues to update his ""ethics of sound'' in solitude and nature.
 
 🔗 [[Column] History and masterpieces of Experimental Music: From its origins to the present](https://monumental-movement.jp/Column-Experimental-Music)
 
-🔗 [【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点](https://monumental-movement.jp/Column-High-Brands-Noise-Music)
+🔗 [[Column] High brands and noise music — the intersection of luxury and radical acoustics](https://monumental-movement.jp/Column-High-Brands-Noise-Music)

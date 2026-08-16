@@ -17,19 +17,19 @@ title: '[Column] The 100 most influential records in music history: A new histor
 
 
 
-## 9th (81st place)
+## 第9回（81位）
 
 ---
 
 ## Mezzanine
 
-### **「ダウンテンポが“都市の心理”を描く音楽になった瞬間」**
+### **"The moment when downtempo became music that depicts the psychology of the city"**
 
 ""Mezzanine", released in 1998, is a historic work in which Massive Attack further expanded the trip-hop genre, fusing electronic music with rock, dub, and post-punk, and depicting the ""psychology of humans living in the city" in acoustic form.
 
 If ""Blue Lines" in the early 1990s gave birth to a new type of urban music called trip-hop, ""Mezzanine" was its mature form.
 
-ここでは心地よいグルーヴよりも緊張感が優先される。
+Here, tension takes precedence over a comfortable groove.
 
 An unstable atmosphere dominates rather than a beautiful melody.
 
@@ -59,7 +59,7 @@ Since the late 1980s, Massive Attack has developed a unique sound that blends re
 
 However, in addition to its roots, ""Mezzanine'' incorporates new elements.
 
-Post-punk.
+post-punk.
 
 noise.
 
@@ -77,7 +77,7 @@ This was not a return to rock, but a choice to expand the "texture of sound."
 
 ## "Silence" creates the greatest tension
 
-""Mezzanine"' doesn"t have many flashy developments.
+『Mezzanine』には派手な展開は少ない。
 
 On the contrary, it is being thoroughly suppressed.
 
@@ -89,7 +89,7 @@ Whispering vocals.
 
 vast reverberations.
 
-Amidst this silence, even the slightest noise or change in tone gives off a strong presence.
+In this stillness, the slightest noise or change in tone gives off a strong presence.
 
 This was a reinterpretation of the aesthetics of "margin" cultivated by dub music in the digital production environment of the late 1990s.
 
@@ -120,7 +120,7 @@ E --> H
 
 ---
 
-## 映画とテレビが求めた音響
+## Acoustics demanded by movies and television
 
 Mezzanine's influence was more pronounced in film culture than in clubs.
 
@@ -132,15 +132,15 @@ It's not the soundtrack.
 
 However, it strongly reminds me of images.
 
-その映画的な構築力こそ、『Mezzanine』最大の特徴だった。
+Its cinematic construction power was the greatest feature of ""Mezzanine.''
 
 ---
 
 ## Influence on 21st century alternative sounds
 
-Radioheadが『Kid A』で電子音楽へ接近した時代。
+This was the era when Radiohead approached electronic music with "Kid A."
 
-A time when Nine Inch Nails combined silence and noise.
+Nine Inch Nailsが静寂とノイズを融合した時代。
 
 This was the era when James Blake presented minimalist songs.
 
@@ -158,7 +158,7 @@ Its influence extends to dark electronica, film music, alternative pop, and cont
 
 In this ranking, ""Blue Lines" is ranked 81st because it is ranked high as the definitive work that started trip hop. However, ""Mezzanine" is a work that matures that aesthetic to the extreme and proves that electronic music is a powerful medium of expression for depicting psychology and space.
 
-> **"'Mezzanine' matured trip-hop into a sound art of urban psychology and established the prototype of 21st century dark electronica. Due to its historical significance, it is ranked 81st in this ranking."**
+> **「『Mezzanine』はトリップホップを都市心理の音響芸術へと成熟させ、21世紀のダーク・エレクトロニカの原型を築いた。その歴史的意義により本ランキング第81位に位置付ける。」**
 
 ---
 
@@ -168,11 +168,11 @@ In this ranking, ""Blue Lines" is ranked 81st because it is ranked high as the d
 
 ## Maxinquaye
 
-### **"The moment when trip hop evolved into music that depicts the inner world of the individual"**
+### **「トリップホップが“個人の内面”を描く音楽へと進化した瞬間」**
 
 Released in 1995, **Maxinquaye** is a landmark work in which Tricky pushed the trip-hop genre to a new level.
 
-If Massive Attack's ""Blue Lines" depicted urban grooves and ""Mezzanine" depicted the urban psyche, ""Maxinquaye'' dives even deeper into the very inner beings of humans.
+Massive Attackの『Blue Lines』が都市のグルーヴを描き、『Mezzanine』が都市の心理を描いたとすれば、『Maxinquaye』はさらに深く、人間の内面そのものへ潜り込んだ。
 
 ここには明快なメッセージはない。
 
@@ -204,7 +204,7 @@ The album title comes from the name of his mother, Maxine Quaye, who passed away
 
 A sense of loss, family memories, and questions about self-development flow quietly throughout the work.
 
-His deeply personal perspective was something that had rarely been seen in club music up until that point.
+This intensely personal perspective was something that had rarely been seen in club music up until then.
 
 ---
 
@@ -212,7 +212,7 @@ His deeply personal perspective was something that had rarely been seen in club 
 
 『Maxinquaye』を特徴づけるのは、Tricky自身のラップというよりも、**囁くような語り**である。
 
-It's not about making a strong statement.
+力強く主張するのではない。
 
 It's not about exploding emotions.
 
@@ -260,7 +260,7 @@ H --> I
 
 ## Emotions expressed by "margin"
 
-"Maxinquaye" doesn't have many notes.
+『Maxinquaye』では、音数は決して多くない。
 
 Dry beets.
 
@@ -272,9 +272,9 @@ A long silence.
 
 That blank space is an important element for expressing emotion.
 
-This was an application of the ""subtraction'' aesthetic developed by dub music to psychological depictions.
+This was an application of the ""subtraction'' aesthetic developed by dub music to psychological depiction.
 
-Even when no sound is being played, it becomes part of the story.
+音が鳴っていない時間さえも、物語の一部になる。
 
 This idea had a major influence on later alternative R&B and minimal pop.
 
@@ -300,13 +300,13 @@ This work's philosophy of ""depicting deep psychology through quiet voices'' can
 
 ---
 
-## Why is it ranked 82nd?
+## なぜ82位なのか
 
 ""Maxinquaye'' is a historical work that deepened trip-hop from the sound of urban culture to an art that depicts the spiritual world of individuals.
 
 Its influence spanned alternative R&B, dark pop, electronica, and indie music, and became an important source of introspective pop music in the 21st century.
 
-In this ranking, ""Blue Lines" (19th place) created the genre, and ""Mezzanine" (81st place) is positioned as the work that perfected its sonic aesthetics, so it was ranked 82nd. However, the new field of expression that ""Maxinquaye" pioneered, ""psychological depiction through music," continues to have a quiet and profound influence on subsequent popular music as a whole.
+本ランキングでは、『Blue Lines』（19位）がジャンルを創出し、『Mezzanine』（81位）がその音響美学を完成させた作品として位置付けられているため、第82位とした。しかし、『Maxinquaye』が切り開いた「音楽による心理描写」という新しい表現領域は、その後のポピュラー音楽全体に静かで深い影響を与え続けている。
 
 > **"'Maxinquaye" has evolved trip-hop from the "sound of the city" to the "sound of the heart'. It is ranked 82nd in this ranking as a work that opens up new possibilities for electronic music that depicts the inner world."**
 
@@ -318,9 +318,9 @@ In this ranking, ""Blue Lines" (19th place) created the genre, and ""Mezzanine" 
 
 ## Consumed
 
-### **"The moment when techno became an art expressing "silence""**
+### **「テクノが“沈黙”を表現する芸術になった瞬間」**
 
-Released in 1998, **Consumed** is a historic work in which Richie Hawtin, aka Plastikman, separated minimal techno from its dance music functions and achieved ""sonic art stripped down to its limits.''
+Consumed, released in 1998, is a historic work in which Richie Hawtin, aka Plastikman, separated minimal techno from its dance music functions and created a "sonic art stripped down to its limits."
 
 The techno of the 1980s sang about the future, and the minimal techno of the early 1990s pursued space through repetition.
 
@@ -344,9 +344,9 @@ Richie Hawtin emerged as a member of the second generation of Detroit techno, wo
 
 However, despite his success, he had doubts.
 
-"Is techno just about exciting the floor?"
+「フロアを盛り上げることだけがテクノなのか。」
 
-""Consumed'' was the answer to that question.
+『Consumed』は、その問いへの答えだった。
 
 Rather than focusing on its functionality as a DJ tool, we sought to create a sense of tension that can only be achieved through the medium of an album.
 
@@ -354,15 +354,15 @@ Rather than focusing on its functionality as a DJ tool, we sought to create a se
 
 ## Limit of "subtraction"
 
-In this work, each sound is extremely carefully examined.
+In this work, each sound is extremely carefully considered.
 
 A low resounding kick.
 
-Slight hi-hat.
+わずかなハイハット。
 
 A short synth snippet.
 
-deep reverb.
+深いリバーブ。
 
 This alone is what makes a song.
 
@@ -407,7 +407,7 @@ A quiet exhibition space.
 
 A huge concrete building.
 
-A dark video work.
+暗い映像作品。
 
 This work works surprisingly naturally in such a place.
 
@@ -445,7 +445,7 @@ His influence spanned a wide range of fields, including micro house, sound art, 
 
 In this ranking, ""69: The Sound of Music" (76th place) and ""BCD" (79th place) are ranked high as works that were responsible for the structural innovation of techno, so we placed it at 83rd place. However, ""Consumed" is an important work that purifies this idea to the utmost and opens up a new area of ​​expression called ""techno that makes you listen to silence."
 
-> **「『Consumed』はテクノを極限まで削ぎ落とし、『沈黙そのものを聴く音楽』という新しい美学を確立した。その歴史的意義により本ランキング第83位に位置付ける。」**
+> **"'Consumed' strips down techno to its limits and establishes a new aesthetic of ""music that listens to silence itself." Due to its historical significance, it is ranked 83rd in this ranking."**
 
 ---
 
@@ -455,7 +455,7 @@ In this ranking, ""69: The Sound of Music" (76th place) and ""BCD" (79th place) 
 
 ## Music for the Jilted Generation
 
-### **"The moment when rave was carved into history as a 'rebellious culture'"**
+### **"The moment when rave was etched into history as a 'rebellious culture'"**
 
 In 1994, **The Prodigy** released **Music for the Jilted Generation**, a historical work that symbolizes the maturation of rave culture as not just a trend, but a social movement.
 
@@ -561,7 +561,7 @@ The ""fusion of rock and electronic music" created by these artists cannot be de
 
 The Prodigy also presented a new form of live performance, playing electronic music as a band rather than as a DJ.
 
-This was an important turning point that still resonates with today's EDM festivals.
+This was an important turning point that still applies to today's EDM festivals.
 
 ---
 
@@ -571,9 +571,9 @@ This work is not an album that directly shouts political slogans.
 
 But tensions over state regulation, pressure on youth culture, and the freedom of club culture run through the album.
 
-Electronic music has now taken on the role of not only singing about the ""future" and ""machines," but also responding to the real world.
+電子音楽はここで、「未来」や「機械」を歌うだけではなく、**現実社会への応答**という役割も担うようになった。
 
-This attitude was inherited by later electro-punk and rave revivals.
+This attitude would be inherited by later electro-punk and rave revivals.
 
 ---
 
@@ -625,7 +625,7 @@ The spatiality of dub.
 
 The drama of rock.
 
-By integrating these, the aim was to create an album that would work in clubs but also be immersive at home.
+これらを統合し、「クラブで機能しながら、家でも没入できるアルバム」を目指した。
 
 The final product was ""Second Toughest in the Infants.''
 
@@ -635,7 +635,7 @@ The final product was ""Second Toughest in the Infants.''
 
 "Juanita: Kiteless: To Dream of Love", which opens the album, is over 16 minutes long.
 
-However, its length is by no means redundant.
+しかし、その長さは決して冗長ではない。
 
 The rhythm changes little by little,
 
@@ -692,7 +692,7 @@ At this point, electronic music once again approaches ""music to be performed" r
 
 ---
 
-## Re-evaluating the art form of "album"
+## Reevaluating the art form of "album"
 
 Since the late 1990s, electronic music has increasingly been talked about in terms of albums.
 
@@ -768,7 +768,7 @@ Funki Porcini.
 
 Among them, Amon Tobin was a particularly unusual figure.
 
-His passion was not only for the dance floor, but also for exploring the "texture of sound itself."
+彼はダンスフロアのためだけではなく、「音そのものの質感」を探究することに情熱を注いだ。
 
 Cut jazz records into small pieces and process them until the original shape is no longer recognizable.
 
@@ -778,7 +778,7 @@ The result was not just a quote, but a completely new sonic world.
 
 ## From sampling to "acoustic design"
 
-In Permutation, samples lose their original meaning.
+In Permutation, the sample loses its original meaning.
 
 The horn makes noise.
 
@@ -881,9 +881,9 @@ In this ranking, ""Endtroducing...." (30th place) and ""3 Feet High and Rising" 
 
 ### **"The moment when big beat established a post-rock live culture"**
 
-Released in 1998, **Decksandrumsandrockandroll** is a historic work in which **Propellerheads** elevated big beat from just club music to a comprehensive entertainment that crosses rock, hip-hop, film music, and DJ culture.
+1998年に発表された**『Decksandrumsandrockandroll』**は、**Propellerheads**がビッグ・ビートを単なるクラブ・ミュージックではなく、ロック、ヒップホップ、映画音楽、DJカルチャーを横断する総合エンターテインメントへと昇華した歴史的作品である。
 
-In the late 1990s, big beat was enjoying a worldwide boom in Britain, led by bands such as The Chemical Brothers, Fatboy Slim, and The Prodigy.
+In the late 1990s, big beat was enjoying a global boom in Britain, led by bands such as The Chemical Brothers, Fatboy Slim, and The Prodigy.
 
 But Propellerheads stood out from the crowd.
 
@@ -895,7 +895,7 @@ scratch.
 
 horn section.
 
-breakbeats.
+ブレイクビーツ。
 
 Orchestration reminiscent of a spy movie.
 
@@ -1318,7 +1318,7 @@ In this ranking, ""Spirit of Eden" (61st) is ranked higher as a decisive turning
 
 ## Hex
 
-### **"The moment the word "post-rock" became a "sound""**
+### **"The moment when the word "post-rock" became a "sound""**
 
 Released in 1994, **""Hex''** is a historical work in which **Bark Psychosis** fuses rock, jazz, ambient, and dub, and presents the concept of "post-rock" as a concrete sound for the first time.
 

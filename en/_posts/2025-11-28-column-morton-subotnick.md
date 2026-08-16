@@ -107,7 +107,7 @@ flowchart LR
 
 ### Features of the work
 
-* The entire story consists of only electronic sounds by Buchla 100
+* The entire episode consists of only electronic sounds by Buchla 100
 * Structure that includes rhythmic elements, which was unusual at the time.
 *One of the first pieces of electronic music released by a commercial label
 * Composition styles that can be connected to performing arts and multimedia
@@ -236,7 +236,7 @@ He elevated electronic sound from ""timbre manipulation" to ""structural generat
 Although Subotnick did not utter these words himself, his career trajectory shows just that.
 
 When talking about the history of electronic music, Morton Subotnick's name always comes up at the beginning.
-And even now, more than half a century later, its influence has not diminished, but rather continues to grow.
+And even now, more than half a century later, its influence has not diminished, but rather continues to expand.
 
 ---
 

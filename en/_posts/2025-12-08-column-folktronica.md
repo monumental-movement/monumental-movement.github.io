@@ -77,7 +77,7 @@ Four Tet points:
 ---
 
 ### ■ Caribou (Daniel Snaith)
-- Published electronica works under the initial name Manitoba (2000–2004).
+- Released electronica works under the initial name Manitoba (2000–2004).
 - Later changed the name to Caribou, fusing folk melodies and electronic beats.
 - Known for his fusion of psychedelic and pop, including ""The Milk of Human Kindness" (2005) and ""Andorra" (2007).
 
@@ -172,7 +172,7 @@ flowchart LR
 
 ### ■ Bonobo production features
 
-* Rich layers of strings, bass, keyboards, and percussion instruments
+* Rich layers of strings, bass, keyboards, and percussion
 * Jazz harmony
 * Integration of club music tension and listenability
 
@@ -195,7 +195,7 @@ Additionally, a new style of live management was formed, with the use of electro
 ## 8. Summary: Where acoustic "memory" meets digital "reconstruction"
 
 Folk-Tronica/Indietronica is a method of reconstructing the simplicity and narrative nature of folk music using electronic music editing technology.
-It is a genre that brings ""warmth," ""touch," and ""aesthetics of gaps'' into the digital age.
+It is a genre that brings ""warmth," ""texture," and ""aesthetics of gaps'' into the digital age.
 
 The works of Four Tet, Caribou, and Bonobo are
 It clearly demonstrated that **sample editing, field recording, and acoustic instrument recording techniques** can expand the realm of electronic music.

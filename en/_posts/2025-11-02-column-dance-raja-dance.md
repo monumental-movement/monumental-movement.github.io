@@ -79,7 +79,7 @@ The plot is simple, but what is noteworthy is the integration of the production 
 
 After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread throughout India as a symbol of ""dance = freedom.''
 
-In South India, this trend took on its own variations. While Mumbai's discotheques depicted an ""urban dream", **discotheques in Kannada films were an expression of ""regional pride"**.
+In South India, this trend took on its own variations. While the discotheques of Mumbai depicted the ""urban dream", the discotheques of Kannada films were an expression of ""regional pride".
 
 Vijaya Anand's music bridges rural and urban rhythms by fusing electronics with folk percussion instruments (thaviru, dhol, nadaswaram).
 This "hybridity" is the core of South Indian music.
@@ -132,7 +132,7 @@ A.R. Rehman's early works Roja (1992) and the foundations of urban soundtracks s
 ## Chapter 8: Cultural Impact and Reappraisal
 
 In the 21st century, ""Dance Raja Dance'' is being reevaluated through YouTube and Spotify.
-The images and music of that time are not "kitsch" but are being reinterpreted as **South Indian Futurism**.
+The images and music of that time are not "kitsch" but have been reinterpreted as **South Indian Futurism**.
 
 For young Kannada-speaking people, this is not just nostalgia, but a starting point for cultural self-expression from the local to the global.
 

@@ -10,7 +10,7 @@ tags:
 - Bloghouse
 - Electro
 - House
-title: '[Column] The dance music revolution brought about by the internet'
+title: '[Column] Dance music revolution brought about by the internet'
 ---
 
 
@@ -236,10 +236,10 @@ Club events of this era had a different atmosphere than traditional house partie
 
 In other words, Bloghouse was both a music genre and a culture that included fashion and aesthetics.
 
-As indie rock fans flow into clubs, the clientele of club culture changes as well.
+インディーロックのファンがクラブに流入し、クラブカルチャーの客層も変化する。
 The line between a DJ and a band became blurred, and more and more events began to include live performances and DJ sets.
 
-This new club culture quickly spread throughout the world.
+この新しいクラブ文化は、世界各地で急速に広がっていった。
 
 > 2006 to 2009 was a time when Bloghouse was at the center of club culture.
 
@@ -254,7 +254,7 @@ Bloghouse quickly became a huge movement, but it didn't have a long lifespan.
 There are several reasons for the decline.
 
 First, there is a decline in MP3 blogs.
-Around 2010, copyright issues became more serious, and many blogs stopped distributing MP3s.
+2010年前後になると著作権問題が強化され、多くのブログがMP3配布を停止した。
 
 Second, there are changes in music distribution.
 
@@ -266,7 +266,7 @@ The sound of the club scene was changing as big festival electronic music gained
 
 Bloghouse's DIY culture is gradually being overshadowed by the huge festival culture.
 
-> Bloghouse's demise was closely tied to changes in internet music distribution.
+> Bloghouse's demise was closely tied to changes in Internet music distribution.
 
 ---
 
@@ -276,9 +276,9 @@ Bloghouse's DIY culture is gradually being overshadowed by the huge festival cul
 
 Bloghouse was short-lived, but its influence is still felt today.
 
-The following are the main legacies:
+主な遺産として挙げられるのは以下である。
 
-- Establishment of indie dance
+- インディーダンスの定着
 - Expansion of remix culture
 - Increase in DIY producers
 - Internet-driven music discovery

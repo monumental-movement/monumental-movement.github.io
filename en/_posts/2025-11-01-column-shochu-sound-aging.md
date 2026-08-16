@@ -17,7 +17,7 @@ title: '[Column] Shochu grown by sound: The harmony of fermentation that resonat
 ## Prologue: On the island of the sound of waves and shochu
 
 
-Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Explore its scientific basis and cultural background
+Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Exploring its scientific basis and cultural background
 
 
 Amami Oshima, the farthest point of the Nansei Islands.
@@ -25,7 +25,7 @@ On this island, brown sugar shochu is surrounded by the sun and sea breeze, and 
 At night, classical music, jazz, and island songs play faintly from the depths of the storage room, and alcohol molecules tremble inside the stainless steel tank.
 They say that the sound makes the shochu softer.
 
-This is not just a romantic metaphor. The phenomenon that physical vibrations caused by sound waves aids in ripening and brings out the flavor is currently attracting attention.
+This is not just a romantic metaphor. The phenomenon of physical vibrations caused by sound waves aiding ripening and enhancing the flavor is currently attracting attention.
 In this article, we will take a look at the whole picture of the ""acoustically aged shochu'' that brewers in Amami Oshima are trying to create, from both scientific and cultural perspectives.
 
 ---
@@ -67,7 +67,7 @@ The impetus was the ""acoustic aging'' of wine that a wine brewer saw in Tokyo.
 I learned about an attempt to speed up maturation by playing classical music,
 He returned to Amami thinking, ""Maybe it could be done with shochu.''
 
-In 2005, a certain warehouse on Amami Oshima installed acoustic speakers in its storage room for the first time.
+In 2005, an acoustic speaker was installed in a warehouse on Amami Oshima for the first time.
 The subjects tested were classical music (Bach, Mozart) and island songs (such as Satokuni Taka's ""Asahabushi'').
 Six months later, the people involved who tasted it were surprised.
 "Even though it's the same raw sake, it was more mellow when I listened to it."
@@ -75,7 +75,7 @@ Six months later, the people involved who tasted it were surprised.
 ### ● Mechanism of acoustic maturation
 Sound waves cause minute vibrations inside the liquid.
 Changing the frequency increases molecular collisions and accelerates the esterification reaction.
-This is said to increase the aromatic components and reduce the irritation of alcohol.
+This is said to increase the aroma components and reduce the irritation of alcohol.
 
 > ""Bass waves move the liquid as deep bass waves, and high frequencies cause the surface layer to vibrate minutely.
 > It's like receiving a sonic massage. "
@@ -189,7 +189,7 @@ A small universe is playing inside the glass.
 
 ## Chapter 8: Comparison of acoustic experimental data
 
-Acoustic maturation makes a difference not only in sensory impressions, but also in scientific data.
+Acoustic maturation makes a difference not only in sensory impressions but also in scientific data.
 The graph below is visualized based on Kagoshima University joint research (2023) and experimental data from four Amami Oshima breweries.
 
 ### Comparison of acoustic maturation of each brewery (average value)
@@ -276,14 +276,14 @@ E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024
 
 * **Amami Oshima**: Largest concentration of warehouses. The birthplace of acoustic maturity.
 * **Kikaijima**: Features a unique mineral feel made using hard water.
-* **Tokunoshima/Okinerabujima**: Research on sea breeze aging and low-temperature fermentation is progressing.
-* **Yoron Island**: Culturally, it exists somewhere between Okinawa's awamori.
+* **Tokunoshima/Okinerabujima**: Research into sea breeze aging and low-temperature fermentation is progressing.
+* **Yoronjima**: Culturally, it exists somewhere between Okinawa's awamori.
 
 ---
 
 ## Chapter 10: Diversity of flavors created by sounds and terrain
 
-Amami's topography stretches 160km from north to south, and the humidity, wind direction, and acoustic characteristics of the coastline vary from region to region.
+Amami's topography stretches 160km from north to south, and the humidity, wind direction, and acoustic characteristics of the coastline vary by region.
 For example, a storehouse facing Tatsugo Bay takes advantage of the sound of waves.
 Warehouses located in mountainous areas create a maturing environment that takes advantage of natural reverberations.
 
@@ -291,7 +291,7 @@ Acoustic maturation is not just a "device";
 **This is the "resonance of the island" where the topography itself becomes an instrument**.
 
 > "Amami is an island like one giant speaker.
->The wind plays a low pitch, the waves play a medium pitch, and the insects' voices play a high pitch. "
+>The wind plays a low pitch, the waves play a medium pitch, and the voices of insects play a high pitch. "
 > —— Machida Sake Brewery・Torji talk
 
 ---

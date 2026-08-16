@@ -24,7 +24,7 @@ Text: mmr | Theme: Why does Japanese subculture music reach the world? - Underst
 When these names are mentioned, many overseas listeners speak of them with fond memories.
 Japanese subculture music, once considered "Galapagos culture," has transcended national borders as a unique system of expression in the 21st century.
 
-At its root is the phenomenon that music functions as a translation device for cultural codes.
+At the root of this is the phenomenon that music functions as a translation device for cultural codes.
 Go beyond language and evoke "nonverbal empathy" through visuals, concepts, fashion, and physical expression.
 This article will delve into how Japanese subculture music gained worldwide support from a cultural sociological perspective, centering on visual kei and idol culture.
 
@@ -51,7 +51,7 @@ This genre, which added aestheticism, theatricality, and gender ambiguity to a W
 
 For overseas listeners, the appeal of Visual Kei lies in its expressiveness that transcends musical genres.
 Makeup and costumes are not just appearances; they blur the boundaries between the individual and society, and are seen as symbols of self-reconstruction.
-Especially in Europe, it is understood as an extension of gothic, androgynous, and post-punk culture.
+Especially in Europe, it is understood as an extension of Gothic, androgynous, and post-punk culture.
 In America, it was recontextualized through anime culture and otaku sensibilities.
 
 > "They are not pretending to be rock stars — they *perform* identity."
@@ -72,7 +72,7 @@ The reason behind BABYMETAL's success at overseas festivals is
 There was a structural strategy to embed the concept of ""Japanese idols'' within the global style of metal.
 
 The export of idol culture is also a fusion of religious ritual and technological community.
-Handshake events, broadcasts, and SNS live events digitize ceremonial "contact" and transform fans into "followers."
+Handshake events, broadcasts, and SNS live events digitize ceremonial "contact" and turn fans into "followers."
 This structure was translated overseas as ""participatory culture,'' and as a result, cultural boundaries were dissolved.
 
 ---
@@ -121,7 +121,7 @@ If K-POP's strength lies in its precision as a "completed product,"
 Japanese subculture music is about "imperfection" and "closeness,"
 In other words, the value is the amount of room for fan intervention.
 The reason why overseas fans are attracted to Japanese underground idols and indie visual kei is that
-This is because I sympathize with its "open and unfinished nature."
+This is because I empathize with its "open and unfinished nature."
 
 In addition, the melody-oriented and emotional lyrics of J-POP,
 It is perceived as "exotic nostalgia" and is loved in a context different from the global orientation of Korean pop.
@@ -136,7 +136,7 @@ Around the world, we are evolving from "imitation" to "co-creation."
 
 The essence of subculture music lies in **building empathy through multilayered translation**.
 Expressions originating from Japan are reconfigured as mirrors of other cultures,
-そこに新たな感性が付与される。その循環こそが、  
+A new sensibility is added to it. That cycle is
 This is a new form of "music that transcends borders."
 
 ---

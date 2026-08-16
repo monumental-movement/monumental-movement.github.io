@@ -78,7 +78,7 @@ In the same year, the band changed to its current name. The name comes from Amer
 
 This symbolism would later become deeply connected to their music and the spirituality of their community.
 
-> The band name was not just a label, but also a statement of thought.
+> The band name was not just a label, but also a statement of ideology.
 
 ---
 
@@ -110,7 +110,7 @@ This fluidity creates a ""one-time experience'' for the audience.
 
 ### Collective improvisation
 
-即興は個人の技術だけでなく、メンバー間の高度なコミュニケーションによって成立する。視線、音のニュアンス、タイミングが微細に調整されることで、演奏は有機的に進化していく。
+Improvisation is achieved not only by individual skills but also by a high level of communication between members. The performance evolves organically by finely adjusting the line of sight, the nuances of the sound, and the timing.
 
 > Improvisation is not a coincidence, but an accumulation of relationships.
 
@@ -120,7 +120,7 @@ This fluidity creates a ""one-time experience'' for the audience.
 
 ### Technical challenges
 
-Introduced in the 1970s, the ""Wall of Sound'' is a huge sound system that combines hundreds of speakers. The aim was to minimize distortion and deliver uniform sound even in large venues.
+Introduced in the 1970s, the "Wall of Sound" is a huge sound system that combines hundreds of speakers. The aim was to minimize distortion and deliver uniform sound even in large venues.
 
 ### Changes in live experience
 
@@ -142,7 +142,7 @@ Bands allow live recordings, and a culture develops where fans exchange recordin
 
 ### A community on the move
 
-Tours are more than just performances; they form mobile communities. A market will be born around the venue, and a unique economic zone will be formed.
+Tours are more than just performances; they form a mobile community. A market will be born around the venue, and a unique economic zone will be formed.
 
 > Deadheads were the bearers of culture, but also the creators.
 
@@ -154,7 +154,7 @@ Tours are more than just performances; they form mobile communities. A market wi
 
 Artists such as Jefferson Airplane and Janis Joplin were active around the same time, and the region as a whole was forming its own music scene.
 
-### Genre deconstruction
+### Genre Deconstruction
 
 Blues, folk, rock, and jazz merge, and existing classifications become meaningless. This freedom is the hallmark of the San Francisco sound.
 
@@ -166,7 +166,7 @@ Blues, folk, rock, and jazz merge, and existing classifications become meaningle
 
 ### Influence of Summer of Love
 
-The Summer of Love in 1967 made San Francisco world famous. However, as a result, tourism and commercialization progress.
+The Summer of Love in 1967 made San Francisco world famous. However, the result is increased tourism and commercialization.
 
 ### Discrepancy between ideal and reality
 
@@ -190,11 +190,11 @@ Live-centered activities continued, and touring itself became established as a c
 
 ---
 
-## End and succession
+## End and inheritance
 
 ### Jerry Garcia Death
 
-1995年、ガルシアの死により一つの時代が終わる。しかしメンバーは活動を続け、文化は継承される。
+In 1995, an era ended with Garcia's death. However, the members continue their activities and the culture is passed down.
 
 ### Current impact
 
@@ -230,7 +230,7 @@ graph TD
     C --> D[improvisation]
     C --> E[dead heads]
     E --> F[community]
-    D --> G[ジャムバンド]
+    D --> G[jam band]
 </div>
 
 ---

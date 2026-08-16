@@ -24,7 +24,7 @@ This act is both intuitive and deeply scientific.
 Music is a ""resonator'' of emotions and the only experience that can be shared in solitude.
 
 In this paper, while crossing the fields of psychology, neuroscience, and cultural history,
-We will explore the question, "Why do people listen to music when they are sad?"
+We will delve deeper into the question, "Why do people listen to music when they are sad?"
 
 ---
 
@@ -48,7 +48,7 @@ According to modern neuroscience, sadness is strongly associated with activity i
 By listening to music, these areas undergo "emotional restructuring" and
 Encourages the process of objectively viewing one's own emotions.
 
-Music is not just an external stimulus, but a ""mirror of the nerves.''
+Music is not just an external stimulus, but a ""mirror of nerves.''
 When you listen to a sad melody, "sad neurons" resonate in your brain,
 The feel-good chemical **dopamine** is secreted there.
 This contradictory reaction—"pleasure in sadness"—is what
@@ -61,7 +61,7 @@ This is one of the biggest reasons why people seek out sad music.
 According to psychologist Catherine Mercier,
 ""Music is a mimicking device for empathy.''
 When listeners listen to sad music, they "identify" with the emotions of the composer and singer, and
-孤独の中に「他者の存在」を感じ取る。
+Feeling the presence of others in loneliness.
 
 This is a universal behavior from a cultural anthropological perspective.
 Funerals, requiems, prayers, labor songs: Every culture has sounds that share sadness.
@@ -73,7 +73,7 @@ Music of sadness is an act that has a **community healing structure**.
 
 Music you listen to when you're sad often **plays back memories from the past**.
 Psychologically, this is a phenomenon called "musical recall."
-A certain melody evokes scenes, smells, and the feel of seasons from the past.
+A certain melody evokes past scenes, smells, and the feel of a season.
 
 People organize their memories during times of sadness.
 Music is an "editing tool" for that purpose.
@@ -104,8 +104,8 @@ timeline
 
 </div>
 
-この流れを見ると、悲しみの音楽は常に**社会の鏡**として存在してきたことがわかる。
-個人の痛みが、時代の声に変換されるのだ。
+Looking at this trend, we can see that music of sadness has always existed as a mirror of society.
+The pain of an individual is transformed into the voice of the times.
 
 ---
 
@@ -113,7 +113,7 @@ timeline
 
 In Japan, there has been a concept called ""mono aware'' since ancient times.
 This is an idea that does not deny sadness, but rather affirms it as a ""beautiful emotion.''
-From the gagaku ""Ettenraku'' to the narration of biwa priests, and even enka,
+From gagaku's ""Ettenraku'' to the narration of biwa priests, and even enka,
 Music in Japanese culture consistently contains a sense of sadness.
 
 Listening to sad music has functioned as an emotional cleansing ritual.
@@ -124,8 +124,8 @@ Crying is not a sign of weakness, but an act of emotional social reconnection.
 
 ## Chapter 6: "Sharing Grief" in the Digital Age
 
-SpotifyやYouTubeのプレイリストにおいて、
-It is flooded with tags such as "Sad Songs," "Rainy Mood," and "breakup songs."
+In Spotify and YouTube playlists,
+It is flooded with tags such as "Sad Songs," "Rainy Mood," and "Breakup Song."
 The algorithm even learns your tendency to feel sad,
 We propose the optimal "tears BGM".
 
@@ -164,20 +164,20 @@ It is also a "translator" of emotions.
 ## Final chapter: Kindness in the sound
 
 Listening to music when people are sad
-It"s not about escaping your emotions, it"s about getting yourself back together again.
+It's not to escape your emotions, but to **regain yourself**.
 
 Shedding tears in the melody,
 Regain your breathing in the rhythm,
 Achieving "reconnection with the world" beyond words.
 
-音楽とは、悲しみを愛に変えるメディアなのだ。
+Music is a medium that turns sadness into love.
 
 ---
 
 
 ### YouTube Podcast
 
-※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pf0h4h6ACNo?si=F2mkTikfN0F5ZOzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -198,15 +198,15 @@ Achieving "reconnection with the world" beyond words.
 ## Diagram: Neural mapping of emotion and music
 
 | Emotional state | Main brain regions | Influenced musical elements | Physiological responses |
-| ---- | -------- | --------------- | --------- |
+| ---- | -------- | --------------- | -------- |
 | Sadness | Amygdala/Insular Cortex | Slow tempo, minor chord | Lacrimal gland stimulation, slow heart rate |
-| 安堵   | 前頭前野・側坐核 | 穏やかなハーモニー       | 呼吸安定、α波増加 |
+| Relief | Prefrontal cortex/nucleus accumbens | Gentle harmony | Stable breathing, increase in alpha waves |
 | Empathy | Medial prefrontal cortex | Vocal-centered structure | Oxytocin secretion |
 | Regeneration | Cingulate Cortex | Crescendo Structure | Dopamine Rise |
 
 
 >"When you are sad, you listen to music not because you are afraid of silence.
->その沈黙の奥に、自分の心臓の音を聴くためだ。”
+>To listen to the sound of your own heart in the depths of that silence. "
 
 ---
 
@@ -227,14 +227,14 @@ Achieving "reconnection with the world" beyond words.
 <div class="mermaid">
 
 graph TD
-    title["脳の神経マップ：音楽と感情のネットワーク"]
+    title["Neural Map of the Brain: Music and Emotion Network"]
 
     A[Auditory cortex (primary auditory cortex)] -->|Processing of sound information| B[Amygdala: emotional center]
     A -->|Rhythm and melody analysis| C[Prefrontal cortex: Comparison with judgment and memory]
     B -->|elicit an emotional response| D[Cingulate cortex: Empathy/self-consciousness]
     C -->|Pleasure evaluation| E[Nucleus accumbens: dopamine reward system]
     D -->|Synchronization with other people's emotions| F[Insular cortex: generation of bodily empathy]
-    E -->|Amplify your sense of satisfaction| B
+    E -->|Increase satisfaction| B
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#b2df8a,stroke:#66a61e
@@ -254,14 +254,14 @@ graph TD
 <div class="mermaid">
 
 flowchart TD
-    title["共感構造ダイアグラム：悲しみと音楽の共鳴プロセス"]
+    title["Empathy Structure Diagram: Resonance Process of Grief and Music"]
 
-    A[個人の悲しみ体験] --> B[音楽の選択（歌詞・メロディ）]
-    B --> C[自己投影：共通する感情の発見]
+    A[personal experience of grief] --> B[Music selection (lyrics/melody)]
+    B --> C[Self-projection: finding common emotions]
     C --> D[Emotional resonance: Tears, relief, purification]
     D --> E[Neural empathy: mirror neuron activation]
     E --> F[Emotional reintegration and recovery]
-    F -->|心の静寂| G[new self-understanding]
+    F -->|silence of the heart| G[new self-understanding]
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#fbb4ae,stroke:#de2d26

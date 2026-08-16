@@ -13,7 +13,7 @@ title: Eagles – Hotel California
 ---
 
 
-Title song from the Eagles' album ""Hotel California''. Lyrics and music were written by Don Felder and Don Henley.
+Title song from the Eagles' album ""Hotel California.'' Lyrics and music by Don Felder and Don Henley.
 
 #### Tracklist
 ```md

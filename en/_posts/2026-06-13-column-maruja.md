@@ -57,7 +57,7 @@ timeline
     2026 : ポストジャンル世代の象徴として再評価
 </div>
 
-> The starting point of Maruja lies not in the history of the city, but in the "fluctuations" of the city itself.
+> The starting point of Maruja is not the history of the city, but the "fluctuations" of the city itself.
 
 ---
 

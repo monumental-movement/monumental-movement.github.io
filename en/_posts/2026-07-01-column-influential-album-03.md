@@ -11,8 +11,8 @@ tags:
 - Sampling
 - Techno
 title: '[Column] The 100 most influential records in music history: A new history
-  of music reconstructed solely by its influence on contemporary music (Part 3, 21-30:
-  The dawn of electronic music and the ambient revolution)'
+  of music reconstructed solely based on its influence on contemporary music (Part
+  3, 21-30: The Dawn of Electronic Music and the Ambient Revolution)'
 ---
 
 
@@ -51,7 +51,7 @@ In the late 1990s, electronic music was already branching into two directions.
 * Dance floor oriented (techno/house)
 * Listening-oriented (Ambient/IDM)
 
-However, this work does not belong to either of these categories.
+However, this work does not belong to either of them.
 
 Rather, by making the ""noise of memory'' into a theme, he separates music from the time axis.
 
@@ -358,7 +358,7 @@ In the top works, the groove itself is dismantled and connected directly to citi
 
 ## Trans-Europe Express
 
-### "The moment when the railroad redesigned the "time axis" of music"
+### "The moment when railways redesigned the "time axis" of music"
 
 Trans-Europe Express, released in 1977, marked a decisive turning point in the history of electronic music from "human performance" to "mechanical rhythmic structure."
 
@@ -396,9 +396,9 @@ As a result, the music is not "played" but "active".
 
 ## The Düsseldorf School and "urban abstraction"
 
-Kraftwerk's importance goes beyond just being a pioneer in electronic music.
+Kraftwerk's importance goes beyond just pioneering electronic music.
 
-Rather than depicting the city directly, they redesigned it as an abstract model.
+Rather than depicting cities directly, they redesigned them as abstract models.
 
 * Railway
 * Communication network
@@ -570,7 +570,7 @@ In the top works, the system itself exceeds human understanding.
 
 ## Ambient 1: Music for Airports
 
-### "The moment music became a blueprint for a space"
+### "The moment when music became a blueprint for a space"
 
 Ambient 1: Music for Airports, released in 1978, is a definitive work that changed the role of music from ""an object to be heard" to ""an element that makes up the environment."
 
@@ -602,7 +602,7 @@ The ""airport'' in the title is symbolic.
 * Highly anonymous environment
 * A space with little emotion
 
-Brian Eno turned this "non-place" into music.
+Brian Eno has turned this "non-place" into music.
 
 ---
 
@@ -642,7 +642,7 @@ This is not a passiveization of music, but an environmentalization.
 
 ---
 
-## Midway between technology and philosophy
+## The middle ground between technology and philosophy
 
 Brian Eno's philosophy is both technical and philosophical.
 
@@ -779,7 +779,7 @@ With this work, Brian Eno completes the "experimental phase" of what would becom
 
 However, at this stage, music still maintains a ""song-based structure.''
 
-In the top works, the unit of music itself disappears.
+In the top works, the unit itself, the song, disappears.
 
 > ""'Another Green World' is a transitional work that moves music from individual songs to environmental arrangements, dissolving the boundaries of genres, and ranks it at number 27 in this ranking due to its structural significance.''
 
@@ -790,11 +790,11 @@ In the top works, the unit of music itself disappears.
 
 ## Homogenic
 
-### "The moment when electronic music was redesigned as an emotional terrain"
+### "The moment when electronic music was redesigned as a "terrain of emotion""
 
 Homogenic, released in 1997, is a work that realized an extremely unique attempt to ""sonically map emotions themselves'' by colliding electronic music and orchestration.
 
-Here, Björk treats the voice not just as a means of singing, but as a ""topographical entity,'' like a natural phenomenon.
+Here, Björk treated the voice not just as a means of singing, but as a ""topographical entity'' like a natural phenomenon.
 
 ---
 
@@ -803,7 +803,7 @@ Here, Björk treats the voice not just as a means of singing, but as a ""topogra
 The structure of this work is supported by duality.
 
 * String music = glaciers, volcanoes, natural pressure
-* Beat = city, technology, man-made structure
+* Beat = city, technology, artificial structure
 
 This conflict is not fused, but rather maintained in tension.
 
@@ -829,7 +829,7 @@ The result is not just an album, but a "map of emotions."
 
 <div class="mermaid">
 flowchart TD
-A[iceland nature image]
+A[iceland nature images]
 B[electronic beat]
 C[string orchestra]
 D[vocal processing]
@@ -915,7 +915,7 @@ Portishead uses sampling not just as a quotation, but as a "reenactment of degra
 * Fragments of old movie music
 * Obscure jazz sample
 
-Rather than "reproducing" the past as it is, they function as **reenactments of the past that have been damaged by time**.
+Rather than "reproducing" the past as it is, they function as **reenactments of the past damaged by time**.
 
 ---
 
@@ -936,7 +936,7 @@ Here, the voice becomes not ""something that speaks" but ""something that remain
 
 The structure of ""Dummy'' is cinematic.
 
-*Low light scene
+* Low-light scenes
 * Slow camera work development
 * Lack of clear narrative
 * Fragmentary scene composition
@@ -1001,11 +1001,11 @@ Here, DJ Shadow created music not as a performance or a composition, but as an "
 The basic idea of ​​this work is clear.
 
 * Do not make new recordings
-* Use only existing records
+* Use existing records only
 * Built only with sound quotes
 * Complete editorialism
 
-In other words, this is not "creation" but "extreme editing."
+In other words, this is not ""creation" but ""extreme editing."
 
 ---
 
@@ -1075,7 +1075,7 @@ At this point, hip-hop transforms from ""music that speaks" to ""the structure i
 
 ## "Starting point" instead of "ending"
 
-The title ""Endtroducing" includes both an ""end" and an ""introduction.''
+The title ""Endtroducing" contains both an ""end" and an ""introduction.''
 
 This is a declaration, not a contradiction.
 
@@ -1105,10 +1105,10 @@ The 21st to 30th place thus far was the very process of electronic music's trans
 * Pop music is converted into mechanical emotions (Discovery)
 * Club music redefined as a labor process (Homework)
 * The machine becomes a model of time (Trans-Europe Express)
-* Information society is transformed into acoustic structure (Computer World)
+* Information society has been transformed into an acoustic structure (Computer World)
 * Music extended to the environment (Ambient 1: Music for Airports)
 * The landscape is abstracted (Another Green World)
-* Emotions are designed as topography (Homogenic)
+*Emotions are designed as topography (Homogenic)
 * Nostalgia becomes a technique (Dummy)
 * Editing has become creation itself (Endtroducing....)
 
@@ -1137,7 +1137,7 @@ begins to function as
 
 This section covers the following albums:
 
-* The Chronic
+*The Chronic
 *Illmatic
 *Ready to Die
 * Enter the Wu-Tang (36 Chambers)

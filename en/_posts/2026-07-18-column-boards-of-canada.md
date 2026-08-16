@@ -17,7 +17,7 @@ title: '[Column] Boards of Canada - A solitary electronic music unit that depict
 
 ## Introduction
 
-Text: mmr｜Theme: Tracing the trajectory of Boards of Canada, which brought together a new experience of ""listening to memories'' in electronic music by fusing childhood memories, analog equipment, and a focus on nature.
+Text: mmr｜Theme: Tracing the trajectory of Boards of Canada, who brought together a new experience of ""listening to memories'' in electronic music by fusing childhood memories, analog equipment, and a focus on nature.
 
 
 
@@ -30,7 +30,7 @@ During this time, there were works that appeared from a completely different dir
 
 **Boards of Canada's ""Music Has the Right to Children''**.
 
-There were no flashy beats, no club-ready euphoria.
+There were no flashy beats or club-ready euphoria.
 
 In its place were synthesizers that looked like blurred images, noises reminiscent of old cassette tapes, slow, swaying beats, and an inexplicable sense of nostalgia.
 
@@ -50,7 +50,7 @@ However, when looking back at the history of electronic music, it is impossible 
 
 In this article, we will take a detailed look at the band's origins as a sibling unit, their music production philosophy, representative works, sound design, and influence on future generations, along with the historical background.
 
-> Boards of Canada was an extremely unique band that pushed electronic music towards memory rather than the future.
+> Boards of Canada was a unique band that pushed electronic music towards memory rather than the future.
 
 
 <style type="text/css">
@@ -79,7 +79,7 @@ Boards of Canada
 
 A Scottish electronic music unit formed by.
 
-二人は実の兄弟ではないが、幼少期から家族同然の環境で育ち、長年にわたり共同制作を続けている。
+Although the two are not biological brothers, they grew up in an environment where they felt like family from an early age, and have continued to collaborate on productions for many years.
 
 Based in Scotland.
 
@@ -159,7 +159,7 @@ Some of the representative titles are:
 
 etc.
 
-These were not distributed to the general public, and are said to have been distributed to a limited number of acquaintances.
+These were not in general circulation, and are said to have been distributed to a limited number of acquaintances.
 
 In later years, these works have become legendary among devoted fans, but have rarely been officially reissued.
 
@@ -208,7 +208,7 @@ D --> E[Deepening of acoustic experiments]
 E --> F[Approaching Warp Records]
 </div>
 
-They maintained an attitude of viewing recording itself as a play rather than a finished piece of music.
+They maintained an attitude of viewing recording itself as a play rather than a completed piece of music.
 
 > Boards of Canada's origins lie not in the studio, but in the accumulation of childhood experiences with film and recording.
 
@@ -225,7 +225,7 @@ This trend, which was later called IDM (Intelligent Dance Music), produced many 
 In this era,
 
 * Aphex Twin
-* Autechre
+*Autechre
 * Squarepusher
 
 etc. were opening up new possibilities for electronic music.
@@ -246,7 +246,7 @@ Warp Records was known for emphasizing originality over commerciality, and had a
 
 This environment provides a foundation that allows them to present their work while preserving their uniqueness.
 
-### 『Music Has the Right to Children』の登場
+### Introducing "Music Has the Right to Children"
 
 Music Has the Right to Children, released in 1998, is widely regarded as Boards of Canada's masterpiece.
 
@@ -256,7 +256,7 @@ Representative songs include
 
 *Roygbiv
 *Aquarius
-*Telephasic Workshop
+* Telephasic Workshop
 * Turquoise Hexagon Sun
 
 etc.
@@ -304,7 +304,7 @@ Listening to their work feels like playing an old VHS tape or cassette tape.
 
 This is not just a lo-fi orientation.
 
-Each time magnetic tape is repeatedly recorded and played back, it loses a little bit of its high range, and the pitch also fluctuates slightly.
+Each time magnetic tape is repeatedly recorded and played back, the high frequencies are gradually lost and the pitch fluctuates slightly.
 
 The Boards of Canada took advantage of this change.
 
@@ -381,11 +381,11 @@ Boards of Canada attempted to express that ambiguity through sound.
 
 In psychology, it is believed that human memories are not stored like images, but are reconstructed each time.
 
-つまり、人は思い出すたびに記憶を書き換えている。
+In other words, people rewrite their memories every time they recall something.
 
 Boards of Canada's music reflects this characteristic of "imperfect memory."
 
-音程は少し揺れ、
+The pitch fluctuates a little,
 
 There is noise,
 
@@ -395,39 +395,39 @@ The sample will be cut off in the middle.
 
 None of this is a coincidence, but a method of acoustically expressing the ambiguity of memory.
 
-### 子どもの声が持つ意味
+### The meaning of children's voices
 
 In his works, he often uses samples reminiscent of children's voices, laughter, and narration from educational programs.
 
-しかし、それらは明確なメッセージを伝えるためではない。
+However, they are not intended to convey a clear message.
 
 It seems to make sense, but I don't.
 
 I can hear it, but I can't.
 
-その曖昧さによって、リスナー自身が記憶を補完する余地が生まれる。
+That ambiguity leaves room for listeners to supplement their own memories.
 
-この構造は映画における「見せない演出」に近い。
+This structure is similar to the ""direction without showing'' in movies.
 
 By reducing information, we are stimulating the imagination.
 
-### 自然は背景ではなく登場人物
+### Nature is a character, not a backdrop
 
 The natural environment plays an important role in Boards of Canada's work.
 
 wind,
 
-雨、
+rain,
 
 trees,
 
-鳥、
+bird,
 
-虫、
+insect,
 
-遠くの環境音。
+Distant environmental sounds.
 
-これらは効果音ではなく、音楽の一部として配置される。
+These are not sound effects, but are placed as part of the music.
 
 The experience of spending his childhood in nature is deeply rooted in the worldview of his works as a whole.
 
@@ -440,14 +440,14 @@ flowchart LR
 A[listen to sound] --> B[emotions]
 B --> C[past experience]
 C --> D[memory reconstruction]
-D --> E[個人ごとの風景]
+D --> E[Scenery for each individual]
 </div>
 
 This is why different people imagine different scenes even when listening to the same work.
 
 Rather than presenting a set narrative, Boards of Canada leaves space for each listener to create their own memories.
 
-### 「説明しない」という表現
+### Expression of "not explaining"
 
 Even in interviews, they have avoided explaining in detail the specific meaning of their works.
 
@@ -472,12 +472,12 @@ Boards of Canada, who gained worldwide acclaim with ""Music Has the Right to Chi
 
 This work is known as an album that continues the gentle nostalgia of their debut, but ventures into a darker, more complex, and psychological direction.
 
-アルバム全体には、
+The whole album includes
 
-* 不完全なリズム
+* imperfect rhythm
 * Distorted voice samples
-* 不協和音に近い和声
-* 不規則なノイズ
+* Harmony close to dissonance
+* irregular noise
 * Sudden silence
 
 etc. are arranged.
@@ -492,11 +492,11 @@ The work has a structure that allows for multiple interpretations.
 
 ---
 
-2005年発表の**『The Campfire Headphase』**では、それまで以上にギターが前面へと登場する。
+2005's **The Campfire Headphase** brought guitars to the fore even more than before.
 
-もちろん電子音楽であることに変わりはない。
+Of course, it's still electronic music.
 
-しかし、
+but,
 
 * acoustic guitar
 * electric guitar
@@ -508,11 +508,11 @@ Their signature song "Dayvan Cowboy" is especially widely known among their work
 
 It has been used in many video productions, and has become one of the songs that symbolizes Boards of Canada's worldview.
 
-本作では、前作のような緊張感よりも開放感が強く感じられる。
+In this work, there is a strong sense of openness rather than the tension of the previous work.
 
 The spatial expressions suggestive of a forest, dusk, and a wide sky, giving us a renewed impression of our connection with nature.
 
-### 『Tomorrow's Harvest』（2013年）──未来ではなく終末の風景
+### "Tomorrow's Harvest" (2013) - A landscape not of the future but of the apocalypse
 
 ---
 
@@ -534,7 +534,7 @@ Not the city, but the world after people have left.
 
 The scenery is more reminiscent of the ""end of civilization'' than the future.
 
-しかし、その描写は決して派手ではない。
+However, the depiction is by no means flashy.
 
 It has a unique beauty that makes you feel as if you are quietly staring at the end.
 
@@ -543,9 +543,9 @@ It has a unique beauty that makes you feel as if you are quietly staring at the 
 | Works | Main features | Impressions |
 | ---------------------------- | ----------- | --------- |
 | Music Has the Right to Children | Childhood/Educational Videos/Memories | Warm Nostalgia |
-| Geogaddi | Psychology/Mystery/Unnaturalness | Anxiety and tension |
+| Geogaddi | Psychology, mystery, and discomfort | Anxiety and tension |
 | The Campfire Headphase | Guitar/Nature/Landscape | Openness and Nostalgia |
-| Tomorrow's Harvest              | 終末・未来・静寂    | 荒廃と余韻     |
+| Tomorrow's Harvest | End, Future, Silence | Desolation and Remains |
 
 ### Change in worldview
 
@@ -568,9 +568,9 @@ Although the expression changes with each work, the core themes of "time," "memo
 
 ---
 
-Boards of Canadaは、電子音楽シーンの中でも特にライブ出演が少ないアーティストとして知られている。
+Boards of Canada is known as an artist in the electronic music scene who rarely appears live.
 
-Although they performed several times in the late 1990s, their public appearances have drastically decreased since then.
+Although they held several live performances in the late 1990s, their opportunities to appear in public have drastically decreased since then.
 
 They rarely perform at festivals and do not tour the world.
 
@@ -592,7 +592,7 @@ There is hardly any clear explanation given.
 
 This attitude is also thought to allow listeners to freely receive the work themselves.
 
-By reducing the number of explanations, he leaves room for the work to speak for itself.
+By reducing explanations, the work leaves room for it to speak for itself.
 
 ### A sense of distance that remains unchanged even in the internet age
 
@@ -652,7 +652,7 @@ The mystique is not so much a result of a performance, but rather a result of an
 
 ### Existing beyond the framework of IDM
 
-Boards of Canada are often introduced as IDM's leading artists.
+Boards of Canada is often introduced as one of IDM's leading artists.
 
 However, its influence is not limited to the IDM genre.
 
@@ -683,9 +683,9 @@ These characteristics have a lot in common with the expressions that Boards of C
 
 Of course, lo-fi hip-hop is a genre that has developed independently based on hip-hop culture, and Boards of Canada did not directly create this trend.
 
-However, Boards of Canada is often cited as one of the entities that laid the groundwork for the widespread acceptance of the idea of ​​treating sound deterioration as an attraction rather than a drawback.
+However, Boards of Canada is often cited as one of the entities that laid the groundwork for the widespread acceptance of the idea that ""treating sound deterioration as an attraction rather than a drawback.''
 
-### Influence on movies, television, and video works
+### Influence on film, television, and video works
 
 Boards of Canada's work has a very high affinity with images.
 
@@ -718,7 +718,7 @@ Electronic music has long been talked about as music that symbolizes the ""futur
 
 New equipment, new technology, new sounds.
 
-However, Boards of Canada took a different perspective.
+However, Boards of Canada took a different perspective from that direction.
 
 What they were looking at was not the future, but people's memories and the flow of time.
 
@@ -801,9 +801,9 @@ The most important word when talking about Boards of Canada is "memory."
 
 Their works are not music meant to explain certain events.
 
-Scenes from my childhood, old TV shows, the air in the forest, the colors of the sunset, the voices of children heard from afar.
+Scenes from childhood, old TV shows, the air in the forest, the colors of the sunset, the voices of children heard from afar.
 
-By translating these fragmented impressions into sound, the structure is designed to evoke the listener's own memories.
+By translating these fragmentary impressions into sound, the structure is designed to evoke the listener's own memories.
 
 For this reason, even the same piece of work is received in very different ways depending on the person.
 
@@ -837,7 +837,7 @@ This sense of distance from nature has remained unchanged since his debut.
 
 ### "Anonymity"
 
-Boards of Canada has avoided focusing on the artist rather than the work.
+Boards of Canada has avoided putting the artist's identity before the work.
 
 There are few live appearances, interviews are limited, and there is almost no self-communication on SNS.
 

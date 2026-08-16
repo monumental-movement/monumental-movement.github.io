@@ -75,7 +75,7 @@ He wears a turban, looks deep into the camera, and plays the Hammond organ. His 
 However, in the late 1990s, shocking facts were revealed in the documentary film Korla (2014).
 His real name was **John Roland Redd**, and he was African American.
 
-This "story of the mask" goes beyond a simple stage name anecdote.
+This "mask story" goes beyond a mere stage name anecdote.
 **It brings to light the triple structure of race, foreign countries, and art in postwar American society**.
 
 ---
@@ -118,13 +118,13 @@ Reference/Source:
 
 ---
 
-## Chapter 4: Idols of the TV Age - Impact of "Korla Pandit Show" {#Chapter 4}
+## Chapter 4: Idols of the Television Age - Impact of "Korla Pandit Show" {#Chapter 4}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ul_glviDp2M?si=duNBy74VCRrDdxPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-The Korla Pandit Show, which aired from 1951, was one of America's earliest music television shows.
+The Korla Pandit Show, which aired from 1951, was one of the first American music television shows.
 The production, which was constructed using only sight and sound without uttering words, provided a ""safe foreign country'' for white viewers at the time.
 
 Pundit has had more than 1,000 broadcasts, giving her more television exposure than her contemporaneous Nat King Cole.

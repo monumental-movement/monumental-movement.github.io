@@ -80,7 +80,7 @@ On the other hand, there are many devices that were not well received when they 
 
 Many of the devices that are now considered masterpieces were not commercially successful when they were first released, but were later reevaluated in a new music culture.
 
-> Masterpieces are not devices that were praised on the day they were released, but devices that have been used for decades.
+> A famous machine is one that has been used for decades, not one that was praised on the day it was released.
 
 ---
 
@@ -88,7 +88,7 @@ Many of the devices that are now considered masterpieces were not commercially s
 
 The 50 models introduced in this article are not just a popularity ranking.
 
-The selection was made comprehensively from the following perspectives.
+The selection was made comprehensively from the following points of view.
 
 |Evaluation items|Contents|
 |---|---|
@@ -96,7 +96,7 @@ The selection was made comprehensively from the following perspectives.
 |Cultural influence|Did it form new genres and scenes?|
 |Popularity|Has it been used for a long time all over the world?|
 |Inheritance|Did it affect successor models or software?|
-|現在性|現代でも制作現場で使われているか|
+|Currentness|Is it still used in production today?|
 
 There is a clear reason why a company cannot be evaluated based on the number of units sold alone.
 
@@ -161,7 +161,7 @@ Fairlight CMI was an early music production system equipped with digital samplin
 
 What was particularly innovative was the ability to see the sound waveform on the screen.
 
-The idea of ​​editing sounds as visual information, rather than judging them only with the ears, became the basis of subsequent computer music production.
+音を耳だけで判断するのではなく、視覚的な情報として編集するという考え方は、その後のコンピューター音楽制作の基本となった。
 
 In the 1980s, innovative artists such as Peter Gabriel, Kate Bush, and Herbie Hancock introduced Fairlight CMI.
 
@@ -171,7 +171,7 @@ With Fairlight CMI, musicians have gained a new idea of ​​not only creating 
 
 This idea has been passed down to later sampler culture, hip-hop production, electronic music, and today's DAW environment.
 
-> Fairlight CMI changed not recording technology, but the way musicians saw sound.
+> Fairlight CMIが変えたのは録音技術ではなく、音楽家が音を見る方法だった。
 
 ---
 
@@ -183,13 +183,13 @@ Until the 1960s, synthesizers were mainly large, complex modular systems.
 
 They were intended for research facilities and professional studios, and were not intended for ordinary musicians to use on stage.
 
-Minimoogは、その複雑な電子回路を小型化し、鍵盤楽器として演奏できる形にまとめた。
+The Minimoog has miniaturized the complex electronic circuitry and packaged it into a form that can be played as a keyboard instrument.
 
 The thick, bold tone produced by three oscillators, a low-pass filter, and envelope control captivated many musicians.
 
 Of particular importance was the transition of the synthesizer from a ""futuristic sound effect-making machine" to a ""main performance instrument."
 
-プログレッシブ・ロックではシンセサイザーの可能性を大きく広げ、電子音楽、ファンク、ポップス、映画音楽にも影響を与えた。
+Progressive rock greatly expanded the possibilities of synthesizers, and influenced electronic music, funk, pop, and film music.
 
 Many analog synthesizers that have appeared since then inherited the philosophy of operability and sound creation established by the Minimoog.
 
@@ -209,17 +209,17 @@ However, the LM-1 used sample sounds recorded from actual drum performances.
 
 This technology has made it possible to create expressions that resemble human drumming rather than mechanical rhythms.
 
-It also had features that led to modern beat production, such as individual volume adjustment, pattern editing, and programmable rhythm production.
+さらに、個別の音量調整、パターン編集、プログラム可能なリズム制作など、現代のビート制作につながる機能を備えていた。
 
-In the pop, funk, and new wave of the 1980s, the LM-1 spread a new sense of rhythm.
+1980年代のポップ、ファンク、ニューウェーブでは、LM-1による新しいリズム感が広がった。
 
 Prince in particular utilized this equipment to create his own rhythm programming.
 
 Until then, drum machines were often seen as a substitute for drummers.
 
-However, with the LM-1, the idea of ​​not only ""playing" rhythms but also ""designing" them became widespread.
+しかしLM-1によって、リズムを「演奏する」だけではなく、「設計する」という考え方が広まった。
 
-> The Linn LM-1 transformed drums from recorded sounds to buildable instruments.
+> The Linn LM-1 transformed drums from recorded sounds into buildable instruments.
 
 ---
 
@@ -239,7 +239,7 @@ The deep resonating bass drum, sharp hi-hat, and unique snare sound made it poss
 
 Especially the strong kick sound in the low range became the basis of the huge bass feeling in club music.
 
-The TR-808 is more than just a drum machine.
+TR-808は単なるドラムマシンではない。
 
 It was a cultural tool that gave birth to a new genre.
 
@@ -251,7 +251,7 @@ From hip-hop to modern trap, its influence continues more than 40 years later.
 
 ## 5. Roland TB-303 — Acid revolution born from failure
 
-Released in 1981, the Roland TB-303 Bass Line was originally developed as a replacement for bassists.
+1981年に発売されたRoland TB-303 Bass Lineは、当初はベーシストの代替機材として開発された。
 
 However, it was not successful in reproducing actual bass performance, and it disappeared from the market for a short period of time.
 
@@ -261,7 +261,7 @@ The undulating sound created by manipulating the filter has become a new express
 
 The music centered around TB-303 spread around the world as acid house, and had a great influence on the development of club culture and the rave scene.
 
-この機材の歴史が示しているのは、製作者の想定した使い方だけが機材の未来を決めるわけではないということだ。
+The history of this equipment shows that its future is not solely determined by its creator's intended use.
 
 New discoveries made by musicians can change the value of equipment later on.
 
@@ -281,9 +281,9 @@ With the advent of the DX7, the sound creation of synthesizers changed dramatica
 
 With analog synths, it was common to change the sound by directly operating knobs, but with the DX7, it is now possible to precisely preserve tones through digital control.
 
-Furthermore, 128 types of preset tones are built-in, making it possible to create complex sounds without any specialized knowledge.
+Furthermore, it has 128 preset tones, allowing you to create complex sounds without any specialized knowledge.
 
-The DX7's sound was heavily used in 1980s pop music, creating many iconic tones for electric piano, bass, strings, brass, and more.
+1980年代のポップミュージックではDX7の音が大量に使用され、エレクトリックピアノ、ベース、ストリングス、ブラスなど、多くの象徴的な音色を作り出した。
 
 On the other hand, the spread of DX7 also served as an opportunity to accelerate the digitalization of music production.
 
@@ -299,17 +299,17 @@ The DX7 was not just a hit product, it was a piece of equipment that shaped the 
 
 Released in 1988, the Akai MPC60 is a piece of equipment that defined modern beatmaking culture.
 
-Roger Linn, later known as the "father of MPC", was involved in its development.
+開発には、後に「MPCの父」と呼ばれるRoger Linnが関わった。
 
-The MPC60 was a music production system that integrated a sampler, sequencer, and pad controller.
+MPC60は、サンプラー、シーケンサー、パッドコントローラーを一体化した音楽制作システムだった。
 
 Until then, sampling equipment was expensive and complicated to operate.
 
 However, the MPC60 uses an intuitive operating method that allows you to create rhythms by hitting the pads with your fingers.
 
-This interface is the basis of modern finger drum and beat production.
+このインターフェースは、現在のフィンガードラムやビート制作の基本となっている。
 
-特にヒップホップ制作において、MPCは革命的な存在になった。
+Especially in hip-hop production, MPC became a revolutionary presence.
 
 Producers could now sample drum sounds and phrases from records and reconstruct them to create new beats.
 
@@ -319,7 +319,7 @@ Since the 1990s, many hip-hop producers have created works centered on MPC.
 
 It also influenced not only hip-hop but also a wide range of genres such as house, techno, and electronica.
 
-> The MPC60 changed the sampler from a recording device to an instrument for creating new music.
+> MPC60はサンプラーを録音機材から、新しい音楽を作るための楽器へ変えた。
 
 ---
 
@@ -335,7 +335,7 @@ Although it was not a commercial success when released, it became widely used in
 
 The TR-909's 4/4 beat formed the basic rhythmic structure of club music.
 
-In Chicago house, Detroit techno, and European dance music, the 909 sound became a genre symbol.
+シカゴ・ハウス、デトロイト・テクノ、ヨーロッパのダンスミュージックでは、909の音がジャンルの象徴となった。
 
 Another reason for its popularity was that it was compatible with MIDI, making it easy to link with other electronic musical instruments.
 
@@ -347,19 +347,19 @@ The TR-909 was extremely compatible with the huge sound systems played in clubs,
 
 ## 9. Sequential Circuits Prophet-5 — The masterpiece that created the future of polyphonic synths
 
-The Prophet-5, released in 1978, was one of the world's first fully programmable polyphonic synthesizers.
+1978年に発売されたProphet-5は、世界初の完全プログラマブル・ポリフォニックシンセサイザーの一つである。
 
-Before that, many synthesizers required manual timbre adjustment before playing.
+それ以前の多くのシンセサイザーは、演奏前に手作業で音色を調整する必要があった。
 
 However, the Prophet-5 was able to save the created tones in its memory.
 
-This feature turned the synthesizer into a more practical instrument for live performance.
+この機能は、シンセサイザーをライブ演奏でより実用的な楽器へ変えた。
 
 Another major feature was that it was capable of producing five notes at the same time, and had both the thick tones typical of analog synths and stable operability.
 
 The Prophet-5 was used in a wide range of fields including pop, rock, film music, and electronic music.
 
-また、後のデジタルシンセサイザーやソフトウェア音源における「プリセット」という考え方にも大きな影響を与えた。
+It also had a major influence on the idea of ​​"presets" in later digital synthesizers and software sound sources.
 
 The idea of ​​preserving and reusing tones has become commonplace in today's music production environment.
 
@@ -381,13 +381,13 @@ At the time, it was thought that it would be difficult to achieve natural expres
 
 The D-50 proposed a new solution to this problem by combining "recorded sound" and "synthesized sound."
 
-Typical tones include dreamy pads, bell-type sounds, and spatial synth sounds, and had a major influence on pop music and film music from the late 1980s to the early 1990s.
+代表的な音色には、幻想的なパッド、ベル系サウンド、空間的なシンセ音などがあり、1980年代後半から1990年代初頭のポップスや映画音楽に大きな影響を与えた。
 
 The D-50 bridged the gap between the analog synthesizer era and the all-digital era.
 
-This design philosophy continues to be used in today's hybrid sound sources and software synthesizers.
+現在のハイブリッド音源やソフトウェアシンセサイザーにも、その設計思想は受け継がれている。
 
-> The Roland D-50 was a turning point that connected the electronic sounds of the past with the digital sounds of the future.
+> Roland D-50は、過去の電子音と未来のデジタル音をつないだ転換点だった。
 
 ---
 
@@ -397,7 +397,7 @@ The equipment that appeared in the 1970s and 1980s didn't just create new sounds
 
 Fairlight CMI turns sound into editable data.
 
-Minimoog turned the synthesizer into a musical instrument.
+Minimoogはシンセサイザーを演奏楽器へ変えた。
 
 The TR-808 and TR-909 transformed rhythm itself into culture.
 

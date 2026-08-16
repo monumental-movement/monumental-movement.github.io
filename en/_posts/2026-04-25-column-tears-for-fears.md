@@ -68,7 +68,7 @@ At live shows during this period, while the audience enjoyed dancing, the band p
 
 It is also said that Orzabal had mixed feelings about the audience's lack of deep understanding of the meaning of the lyrics.
 
-### Episode: Distance with critics
+### Episode: Distance from critics
 
 Some critics called the album "overly introspective," but the reviews were not necessarily negative, and it was noted as "a new kind of pop possibility."
 
@@ -86,7 +86,7 @@ Some critics called the album "overly introspective," but the reviews were not n
 
 ### Episode: Success in America
 
-Success in the American market was an unexpected turn of events for them. They had to fill a huge venue during the tour, and they felt confused by the scale of the venue.
+Success in the American market was an unexpected turn of events for them. During the tour, they had to fill a huge venue, and it was said that they felt confused by the scale of the venue.
 
 Curt Smith later said, "My heart couldn't keep up with the speed of success."
 

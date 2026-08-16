@@ -67,7 +67,7 @@ It later became the origin of a movement called ""IDM (Intelligent Dance Music)'
 
 His early music was also an experiment in pushing the "physicality of sound" to its limits.
 The internal noise of the machine becomes the rhythm, and the errors become the building blocks.
-It is pre-digital "analog violence" and an attempt to transform error into the aesthetics of construction.
+It is ""analog violence'' before digital, and an attempt to transform error into the aesthetics of construction.
 
 ---
 
@@ -85,7 +85,7 @@ It's amazing that they created this complexity in a pre-DAW environment.
 ### 2.2 "Come to Daddy" "Windowlicker" ─ Media and Nightmare
 
 From 1997 to 1999, Aphex Twin combined music with "visual horror."
-The PV group created in collaboration with Chris Cunningham transformed the instability of electronic sound into the amorphousness of video.
+The PV group created in collaboration with Chris Cunningham **translated the instability of electronic sound into the amorphousness of the image**.
 
 Around the time MTV featured him as the "weirdest genius"
 He was already sensing that his music was in danger of being incorporated into popular culture.
@@ -154,13 +154,13 @@ After Aphex Twin, electronic music is no longer just a "genre."
 Artists influenced by him include Burial, Oneohtrix Point Never, Autechre, Arca, etc.
 All of these questions reconsider the "meaning generation" of sound itself.
 
-> "In an era where music is converted into data, Aphex Twin has become a ""sculptor of perception.''
+> "Aphex Twin has become a "sculptor of perception" in an era where music is turned into data."
 
 ---
 
 ### Supplementary chapter: Suggestions for the future of music
 
-We live in an era where AI creates music and Spotify categorizes your mood.
+We live in an era where AI creates music and Spotify classifies your mood.
 In such a situation, the sound of Aphex Twin is trying to recover the human noise hidden in the data.
 His current music is no longer an act of ""listening," but rather a ""philosophy of sound that exists."
 
@@ -191,11 +191,11 @@ timeline
 ## VII. Conclusion: Aphex Twin, a "sound conscious body"
 
 Aphex Twin's music is not just a collection of electronic sounds.
-It is an experiment to visualize the "**metastructure of listening**".
+It is an experiment to visualize the "**meta-structure of listening**".
 It is also a **philosophical event** where human emotions and machine perception meet.
 
 In his early works, "electronization of emotions" was carried out,
-Nowadays, the trend has reversed to the ""emotionalization of electronics''.
+Currently, this has reversed to the ""emotionalization of electronics''.
 His journey may foretell a future in which music itself becomes conscious.
 
 ---
@@ -247,7 +247,7 @@ flowchart TD
   A --> A3["Tape/analog distortion/accidental noise"]
   A --> A4["A relatively simple kick/beat"]
 
-  B --> B1["Widely dispersed frequency (balanced between low and high)"]
+  B --> B1["Frequency widely dispersed (balanced between low and high)"]
   B --> B2["Wide dynamic range<br>Transient accuracy↑"]
   B --> B3["Modular + digital composite texture"]
   B --> B4["Polyrhythm timing error"]

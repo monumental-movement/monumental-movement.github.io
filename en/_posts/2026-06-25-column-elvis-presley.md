@@ -179,7 +179,7 @@ Some TV stations even took measures to not show people from the waist down.
 
 That's how much he shook up the values ​​of his time.
 
-> The arrival of Elvis was more than a revolution in youth culture than music.
+> The arrival of Elvis was a revolution in youth culture more than music.
 
 ---
 
@@ -209,7 +209,7 @@ However, his film-centered activities were also criticized.
 
 This is because many of the works have become similar in content and the musical challenge has decreased.
 
-> Although his success as a movie star was huge, it also led to stagnation as a musician.
+> His success as a movie star was huge, but it also led to stagnation as a musician.
 
 ---
 
@@ -261,7 +261,7 @@ He's not a flashy movie star.
 
 He was a pure rock"n"roll singer.
 
-The program becomes a huge success.
+The program becomes a great success.
 
 Many critics consider this special to be one of the biggest comebacks of his career.
 

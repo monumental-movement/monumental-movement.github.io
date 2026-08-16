@@ -25,7 +25,7 @@ Text: mmr｜Theme: Why does experimental music feel "scary"? Unraveling the reas
 For many people, music is something that exists within a certain set of rules.
 It has a melody, it has a rhythm, it has a structure, it has a predictable flow.
 
-The basic structure of classical music and pop music is surprisingly common.
+The basic structure of both classical music and pop music is surprisingly common.
 Over a long history, patterns that make humans feel comfortable have been formed, such as tension and release, repetition, and the progression of harmony.
 
 However, experimental music dares to break that rule.
@@ -34,7 +34,7 @@ There's no melody.
 The rhythm is disrupted.
 The sound sounds like noise.
 
-These were not just novelties, but important ideas that arose within the artistic movements of the 20th century.
+These were not just novelties, but important ideas that were born in the artistic movements of the 20th century.
 
 Artists began to ask questions.
 
@@ -127,7 +127,7 @@ timeline
 1970s : ノイズミュージック
 </div>
 
-> Experimental music didn't destroy music, it expanded the space where music existed.
+> Experimental music did not destroy music, but expanded the space in which music existed.
 
 ---
 
@@ -141,7 +141,7 @@ Music is no exception.
 
 Research shows that when we listen to music, we unconsciously anticipate the next note.
 
-- Melody flow
+- melody flow
 - chord progression
 - rhythm
 
@@ -196,16 +196,16 @@ These create psychological tension.
 
 In the late 20th century, musicians began to use this effect intentionally.
 
-ノイズは単なる騒音ではない。
+Noise is not just noise.
 It was a way to directly stimulate emotions.
 
 ### The advent of noise music
 
-Since the 1970s, a music genre centered around noise has emerged.
+Since the 1970s, a music genre centered around noise has been born.
 
 - Feedback
 - electronic noise
-- 破壊的サウンド
+- destructive sounds
 
 This music was often extreme.
 
@@ -217,16 +217,16 @@ Experimental music was also a study of how humans ""react to sound.''
 graph TD
 A[nature warning sounds] --> B[human alarm response]
 B --> C[Anxiety about distorted sound]
-C --> D[ノイズ音楽]
+C --> D[noise music]
 </div>
 
-> Noise was not just noise, but a sound that directly touched the human senses.
+> Noise was not just noise, but a sound that directly touched human senses.
 
 ---
 
 ## "Incomprehensible" as a culture
 
-### 新しい芸術はいつも拒絶される
+### New art is always rejected
 
 History shows that new art is almost always rejected.
 
@@ -273,7 +273,7 @@ C --> D[To popular music]
 
 | Year | Events |
 | ------ | ------------ |
-| 1913   | 未来派による騒音芸術宣言 |
+| 1913 | Futurists' declaration of noise art |
 | 1930s | Start of electronic music research |
 | 1952 | Advent of accidental music |
 | 1960s | Fluxus movement |
@@ -292,7 +292,7 @@ C --> D[To popular music]
 The history of music has always been a history of discovering new sounds.
 
 - new instruments
-- 新しい技術
+- new technology
 - New expression
 
 Experimental music is at the forefront of this.
@@ -303,13 +303,13 @@ To what extent can sound become music?
 
 That question has not yet been completely answered.
 
-### 恐怖は未知の証拠
+### Fear is proof of the unknown
 
 It's natural to feel afraid of experimental music.
 
 The unknown makes people anxious.
 
-However, at the same time, the unknown is also the source of creation.
+However, at the same time, the unknown is also the source of creativity.
 
 Art has always been born between fear and curiosity.
 

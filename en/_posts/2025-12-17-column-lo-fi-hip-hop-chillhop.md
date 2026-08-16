@@ -12,7 +12,7 @@ tags:
 - Chillhop
 - 80s
 - 90s
-title: 【コラム】 Lo-Fi Hip Hop / Chillhop（宅録ビート文化）
+title: '[Column] Lo-Fi Hip Hop / Chillhop (home-recorded beat culture)'
 ---
 
 
@@ -25,7 +25,7 @@ Lo‑Fi Hip Hop has become an established name for a musical practice based on h
 
 The term Lo‑Fi means ""Low Fidelity,'' and refers to an attitude that treats recording technology limitations and noise as an element of expression rather than a flaw. On the other hand, Chillhop is not so much a genre name as a label formed within the categorization and playlist culture on distribution platforms.
 
-両者は制作技法や美学を共有しつつ、流通文脈において異なる役割を担ってきた。
+While both share production techniques and aesthetics, they have played different roles in the distribution context.
 
 ---
 
@@ -34,7 +34,7 @@ The term Lo‑Fi means ""Low Fidelity,'' and refers to an attitude that treats r
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -43,7 +43,7 @@ color: #fff;
 </style>
 
 
-## 2. Hip hop beat production as an antecedent culture
+## 2. Hip-hop beat production as an antecedent culture
 
 Lo-Fi Hip Hop's direct roots lie in the hip-hop beat production culture of the late 1980s and 1990s. Techniques such as repetitive beat construction using samplers and drum machines, sampling from records, and reconstructing breakbeats were carried over into later Lo-Fi beat production.
 
@@ -57,7 +57,7 @@ From the late 1990s to the 2000s, DAW software and personal computers became mor
 
 In this home recording environment, it has become common for production to be completed using only a simple audio interface, an inexpensive MIDI controller, and headphones. The private nature of the production space is thought to have encouraged a more introspective and understated tendency to sound.
 
-宅録という制作条件そのものが、ジャンルの感触を規定した。
+The very production conditions of home recording defined the feel of the genre.
 
 ---
 
@@ -106,7 +106,7 @@ Visual repetition served to reinforce acoustic repetition.
 
 ---
 
-## 9. 制作技法の定型化
+## 9. Standardization of production techniques
 
 As the genre expanded, production techniques gradually became more standardized. Specific BPM bands, swing amounts, and tone selections have been shared, and production educational content and templates have also increased.
 
@@ -114,11 +114,11 @@ While this formalization lowers the barrier to entry, it also limits the range o
 
 ---
 
-## 10. Commercialization and critical perspective
+## 10. 商業化と批評的視点
 
-Lo‑Fi Hip Hop/Chillhop is strongly tied to a revenue model based on streamed views. Structures suitable for long-term playback are highly compatible with algorithms, and there have been many cases of commercial success.
+Lo‑Fi Hip Hop / Chillhop は、配信再生数に基づく収益モデルと強く結びついた。長時間再生に適した構造は、アルゴリズムとの親和性が高く、商業的成功を収めた事例も多い。
 
-On the other hand, there is also criticism that consuming music as a background makes it difficult to evaluate individual works.
+On the other hand, there is also criticism that consuming music as background music makes it difficult to evaluate each work individually.
 
 ---
 
@@ -142,7 +142,7 @@ This culture is not limited to a specific region, but is formed simultaneously o
 
 ### 1990s
 
-* 低ビットサンプラーの音質特性が一般化
+* Sound quality characteristics of low-bit samplers become commonplace
 
 ### Early 2000s
 
@@ -154,7 +154,7 @@ This culture is not limited to a specific region, but is formed simultaneously o
 
 ### 2020s
 
-* 環境音楽的用途としての消費が一般化
+* Consumption for environmental music becomes commonplace
 
 ---
 
@@ -174,7 +174,7 @@ D --> E[long playback]
 
 What is distinctive about Lo-Fi Hip Hop/Chillhop is that it has permeated everyday life without being confined to a specific subculture. Connected to activities such as commuting to work or school, working from home, studying, and reading, a listening style in which music is placed in the background rather than the foreground of consciousness has become commonplace.
 
-This normalization indicates the process by which music moves from being an ""object of appreciation" to being an ""environmental condition." Lo-Fi Hip Hop was accepted as something to keep flowing rather than being listened to.
+This everydayization indicates the process by which music moves from being an ""object of appreciation" to being an ""environmental condition." Lo-Fi Hip Hop was accepted as something to keep flowing rather than being listened to.
 
 This expansion of culture was supported by the shift in the role of music to aiding behavior.
 
@@ -190,7 +190,7 @@ As a result, the following trends became noticeable.
 * Dilution of rust structure
 * Acoustic continuity between songs
 
-These are designed with the assumption that they will be consumed in streams rather than albums.
+These are designed with the premise of consumption in units of streams rather than in units of albums.
 
 ---
 
@@ -259,7 +259,7 @@ This culture of imitation led to the homogenization of genres and at the same ti
 
 ### 2020s
 
-* 環境音楽的消費の一般化
+* Generalization of ambient musical consumption
 
 ---
 

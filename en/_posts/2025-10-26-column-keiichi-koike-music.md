@@ -20,7 +20,7 @@ title: '[Column] Music-like manga artist Keiichi Koike - Visual rhythm played by
 Text: mmr｜Theme: Thoughts on the fact that Keiichi Koike's manga is "comics that are like music"
 
 
-Keiichi Koike's manga is more like a listening experience than reading it.
+Keiichi Koike's manga is more of a listening experience than a reading experience.
 The quivering lines, the contrast between black and white, and the gaps in the page structure convey both silence and noise at the same time.
 In that sense, his manga can be called ""comics that are like music.''
 
@@ -45,7 +45,7 @@ color: #fff;
 He is attracting attention as the youngest person to be selected.
 - **1981**: Moved to the United States and participated in commercial production at Richard Williams Animation Inc.
 Learn the importance of movement and rhythm through animation techniques.
-- **1983**: ""LANDED" was published in Marvel's ""Epic Illustrated".
+- **1983**: ""LANDED" was published in Marvel's ""Epic Illustrated."
 Expand the range of visual expression by presenting your work internationally.
 
 During this period, the foundations of **temporal and rhythmic expression** in line and screen composition were established.
@@ -56,10 +56,10 @@ During this period, the foundations of **temporal and rhythmic expression** in l
 
 - **1986**: First book "SPINOZA" published (Sakusha).
 Characterized by philosophical themes and abstract visuals.
-By adjusting the density of lines, screen composition, and temporal rhythm, **visual musicality** is revealed.
+**Visual musicality** is revealed by adjusting the density of lines, screen composition, and temporal rhythm.
   
 - **1988**: Published ""Katajikenai" (Hakusensha) and ""G (GATE 1)" (Schola).
-The tense lines in the sci-fi setting and the expression of the human body are like musical polyrhythms.
+The tense lines in the sci-fi settings and human body expressions are like musical polyrhythms.
 
 ---
 
@@ -76,7 +76,7 @@ Precise lines and visual rhythms give the reader a musical experience.
 Long-term serialization deepens the spiritual world and refines the composition and lines.
 
 - **2009**: Volume 3 of "ULTRA HEAVEN" published.
-The new books released once every four years are a real drag to read.
+New books released every four years are a real drag to read.
 
 ---
 
@@ -128,7 +128,7 @@ graph LR
 ---
 
 
-## 第7章：年表 ― 小池桂一の軌跡
+## Chapter 7: Chronology - Keiichi Koike's trajectory
 
 <div class="mermaid">
 
@@ -151,9 +151,9 @@ timeline
 
 ## Final chapter: Music played by vision
 
-小池桂一の漫画は、**線と間による音楽体験**である。
+Keiichi Koike's manga is a musical experience of lines and spaces.
 With each turn of the page, the reader's consciousness ripples and silence rings.
-それは、文字や効果音ではなく、純粋に**視覚から生まれる音楽**である。
+It is not text or sound effects, but purely visual music.
 
 > "Lines are sound. White and black alternately play silence and noise." - Keiichi Koike
 
@@ -161,11 +161,11 @@ With each turn of the page, the reader's consciousness ripples and silence rings
 
 ## References/Materials
 
-- [小池桂一『SPINOZA』（作品社、1986）](https://amzn.to/4o3cRAl)
+- [Keiichi Koike "SPINOZA" (Sakusha, 1986)](https://amzn.to/4o3cRAl)
 
-- [小池桂一『G』（スコラ、1988）](https://amzn.to/49lDEmS)
+- [Keiichi Koike "G" (Schola, 1988)](https://amzn.to/49lDEmS)
 
-- [小池桂一『ULTRA HEAVEN』（エンターブレイン、2002–）](https://amzn.to/4qrGr49)
+- [Keiichi Koike "ULTRA HEAVEN" (Enterbrain, 2002–)](https://amzn.to/4qrGr49)
 
 - [Keiichi Koike "HEAVEN'S DOOR" (2003)](https://amzn.to/3L6u8dk)
 

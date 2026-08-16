@@ -30,7 +30,7 @@ In the history of electronic music, ""genres that disrupt common sense'' appear 
 Then, in the late 1990s, music emerged that further destroyed all of that.
 That is Breakcore.
 
-Breakcore is music created by extreme decomposition of the high-speed breakbeats of jungle and drum"n"bass, and colliding all kinds of materials with it, including noise, metal, classical music, anime sounds, game sounds, etc.
+Breakcore is music created by extremely decomposing the high-speed breakbeats of jungle and drum"n"bass, and colliding all kinds of materials with it, including noise, metal, classical music, anime sounds, game sounds, etc.
 
 The features can be summarized into the following three main points.
 
@@ -75,7 +75,7 @@ Jungle and drum and bass were rapidly developing in the club scene at the time.
 
 These genres were created by deconstructing drum loops known as "Amen Breaks."
 
-But in the mid-1990s, some artists began to take the beat even further.
+However, in the mid-1990s, some artists began to take the beat even further.
 
 The following culture influenced this.
 
@@ -88,7 +88,7 @@ In particular, European squat culture (rave in illegally occupied spaces) played
 
 In this scene,
 
-"I didn't have to follow the rules of the genre."
+"I didn"t have to follow the rules of the genre."
 
 As a result, music rapidly becomes more radical.
 
@@ -120,7 +120,7 @@ In other words, Breakcore is not just dance music;
 
 But there was.
 
-Many of the songs contained anti-capitalist and anti-establishment samples.
+Many of the songs included anti-capitalist and anti-establishment samples.
 
 Therefore, Breakcore was not played in commercial clubs, but mainly in the following places.
 
@@ -153,7 +153,7 @@ Of particular importance was the
 
 It was.
 
-In the 1990s, hardware samplers were the mainstream, but in the 2000s, software production became commonplace.
+In the 1990s, hardware samplers were the mainstream, but in the 2000s software production became commonplace.
 
 This results in
 
@@ -273,7 +273,7 @@ Everything moves at high speed.
 
 Breakcore's musical structure is very close to this feeling.
 
-The beat is constantly changing, samples colliding one after another.
+The beat changes constantly, samples colliding one after another.
 
 In other words, Breakcore is
 
@@ -379,7 +379,7 @@ It was.
 
 What will happen to Breakcore in the future?
 
-If you look at history, this genre has always lived in the following places.
+If you look at history, this genre has always lived in the following places:
 
 - Underground
 - internet

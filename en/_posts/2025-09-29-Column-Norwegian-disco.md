@@ -14,11 +14,11 @@ title: '[Column] Norwegian disco: Genealogy and recommended records of Prins Tho
 ---
 
 
-## ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜
+## Norwegian Disco: The Genealogy of Prins Thomas, Mungolian Jet Set and Lindstrøm
 
 Text: mmr｜Theme: History of modern disco/space disco born in Norway, solo works, collaborations, produced works
 
-Despite its cold climate and Scandinavian tranquility, Norway has given rise to an important trend of warm disco/space disco. Prins Thomas, Lindstrøm, and Mungolian Jet Set have reinterpreted 70s and 80s disco, Italo, and French touch with a Norwegian lens, giving 21st century dance music its own unique flavor. In this article, we will comprehensively introduce each artist's solo work, collaboration, and production activities, and list recommended albums by age group.
+Despite its cold climate and Scandinavian tranquility, Norway has given rise to an important trend of warm disco/space disco. Prins Thomas, Lindstrøm, and the Mungolian Jet Set have reinterpreted 70s and 80s disco, Italo, and French touch with a Norwegian lens, giving 21st century dance music their own unique flavor. In this article, we will comprehensively introduce each artist's solo work, collaboration, and production activities, and list recommended albums by age group.
 
 ---
 
@@ -62,7 +62,7 @@ flowchart TD
 
 ### Prins Thomas
 
-本名はThomas Moen Hermansen。デトロイト〜イタロや70sディスコの精神を受け継ぎつつ、長尺のサイケデリックなビルドアップを得意とする。ソロアルバム『Prins Thomas』や『II』などで知られる。また、Lindstrømらと共にリリースしたコラボレーションやリミックスワークはシーン形成に寄与した。
+His real name is Thomas Moen Hermansen. Inheriting the spirit of Detroit-Italo and 70s disco, they specialize in long psychedelic build-ups. He is known for his solo albums ""Prins Thomas" and ""II". In addition, the collaborations and remix work released with Lindstrøm and others contributed to the formation of the scene.
 
 **Main activities produced/involved**:
 
@@ -79,7 +79,7 @@ His real name is Hans-Peter Lindstrøm. His sound is called the standard-bearer 
 **Main activities produced/involved**:
 
 * Remixes of other artists (female singers and indie bands)
-* 映像作品やモード系イベントの音楽制作
+* Music production for video works and fashion events
 
 ---
 
@@ -114,7 +114,7 @@ An engineer who supports studio work.
 He is in charge of rich sound design, making full use of synthesizers, samplers, programming, etc.
 
 Jazz and
-He brings in his classical background and adds depth to his arrangements.
+He brings his classical background and adds depth to his arrangements.
 
 ---
 

@@ -16,7 +16,7 @@ title: '[Column] Cyberpunk: Edgerunners — The day the anime brought its song b
 
 
 
-## An example of how an anime work re-emerged an existing song into a global hit
+## Case studies where anime works re-emerged existing songs into global hits
 
 Text: mmr｜Theme: Structural analysis of how anime works resurfaced existing songs into global hits
 
@@ -49,7 +49,7 @@ color: #fff;
 - Original game: Cyberpunk 2077 (released in 2020)
 - Anime distribution start: September 2022
 - Production studio: TRIGGER
-- 配信プラットフォーム：Netflix
+- Distribution platform: Netflix
 - Re-hit song: I Really Want to Stay at Your House
 - Artist: Rosa Walton
 
@@ -110,7 +110,7 @@ The characteristics are as follows.
 ・A jumping melody with a chorus that emphasizes emotion
 ・Repetitive and memorable phrases
 
-The sound is highly compatible with the cyberpunk urban sensibility, evoking the near future and nostalgia at the same time.
+The sound is highly compatible with the cyberpunk urban feel, evoking a sense of the near future and nostalgia at the same time.
 
 <div class="mermaid">
 flowchart TD
@@ -155,7 +155,7 @@ This chain is a diffusion model unique to the streaming era.
 In recent years, there have been an increasing number of cases in which video works resurface past songs.
 Running Up That Hill once again became a worldwide hit in the Netflix series Stranger Things.
 
-However, Edgerunners is unique in that it has a three-stage structure in which the in-game songs are reevaluated based on the anime.
+However, Edgerunners is unique in that it has a three-stage structure in which the in-game songs are reevaluated by the anime.
 
 Games → Anime → Streaming re-explosion
 
@@ -180,7 +180,7 @@ After the anime was released, it was also confirmed that related playlists and s
 * Fall 2022: Re-emergence on the charts in multiple countries
 * 2023: Continuous long tail regeneration
 
-> The song, which had been dormant for two years, was restarted through the story.
+> A song that had been dormant for two years was restarted through the story.
 
 ---
 

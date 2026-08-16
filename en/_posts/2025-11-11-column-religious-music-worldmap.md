@@ -20,11 +20,11 @@ title: '[Column] Religious music around the world and its psychological and soci
 
 Text: mmr｜Theme: Comparing religious music from around the world from the perspectives of history, psychology, and physiological effects, and understanding it through illustrations
 
-音楽は宗教の儀式・祈り・瞑想を支える普遍的な要素です。
+Music is a universal element that supports religious rituals, prayers, and meditation.
 From ancient chants to modern healing music, sounds, rhythms, and voices have had a profound impact on the human mind and body.
 
 * Rhythm → **Adjust brain waves** (increase in alpha and theta waves)
-* 旋律 → **感情の喚起**（安心・高揚・涙）
+* Melody → **Evoking emotions** (relief, elation, tears)
 * Chorus → **Strengthening sense of community**
 
 ---
@@ -34,7 +34,7 @@ From ancient chants to modern healing music, sounds, rhythms, and voices have ha
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -43,14 +43,14 @@ color: #fff;
 </style>
 
 
-## ヒンドゥー教音楽：宇宙の響き「ナーダ・ブラフマ」
+## Hindu music: the sound of the universe "Nada Brahma"
 
 * **Main Forms**: Mantras, Bhajans, Ragas
 * **Main instruments**: sitar, tabla, harmonium
 * **Representative performers**: Ravi Shankar, Bismara Khan
-* **心理効果**：
+* **Psychological effect**:
 
-  * 長時間の詠唱 → **瞑想状態を誘導**
+* Long chanting → **Induces meditative state**
 * Repetitive rhythm → **Stress reduction**
 * Group chant → **Social harmony**
 
@@ -58,7 +58,7 @@ color: #fff;
 
 ---
 
-## 仏教音楽：静寂と倍音の祈り
+## Buddhist music: silence and overtone prayer
 
 * **Major formats**: Shomyo, Tibetan communiqué, sutra recitation
 * **Characteristics**: Overtone singing method, bell/conch
@@ -68,7 +68,7 @@ color: #fff;
 * Breathing and chanting are synchronized → **Stability of autonomic nervous system**
 
 
-| 効果 | 生理的作用 |
+| Effects | Physiological effects |
 |------|-------------|
 | Overtone chanting method | Regulate your breathing and stabilize your brain waves |
 | Conch shell/bell | Improving concentration |
@@ -84,7 +84,7 @@ color: #fff;
 * *Chant* (Benedictine Order)
 * Mahalia Jackson"Take My Hand, Precious Lord"
 
-* **心理効果**：
+* **Psychological effect**:
 
 * **Harmony stabilizes heart rate**
 * **Reverberations of the church space** strengthens the sense of relief
@@ -107,7 +107,7 @@ color: #fff;
 
 * **Format**: Cantor chant, synagogue melody
 * **Characteristics**: Intonation expression using modes
-* **心理効果**：
+* **Psychological effect**:
 
 * Awakens emotional memory **Increases prayer concentration**
 * Music prompts **reaffirmation of history and identity**
@@ -195,13 +195,13 @@ timeline
 
 ## Psychological effect matrix of each religious music
 
-| 宗教音楽   | リラクゼーション | 集中 | 感情高揚 | 社会的結束 | トランス誘導 |
+| Religious music | Relaxation | Concentration | Emotional elevation | Social cohesion | Trance induction |
 | ------ | -------- | -- | ---- | ----- | ------ |
 | Hinduism | ◎ | ◎ | ○ | ○ | ○ |
-| 仏教     | ◎        | ◎  | △    | ○     | △      |
+| Buddhism | ◎ | ◎ | △ | ○ | △ |
 | Christianity | ○ | △ | ◎ | ◎ | △ |
 | Islam | ○ | ◎ | ○ | ○ | ◎ |
-| ユダヤ教   | △        | ○  | ◎    | ○     | △      |
+| Judaism | △ | ○ | ◎ | ○ | △ |
 | African Religion | △ | ○ | ○ | ◎ | ◎ |
 
 (◎: Strong effect, ○: Moderate, △: Weak)
@@ -210,7 +210,7 @@ timeline
 
 ## Conclusion: Music is the language of prayer
 
-宗教音楽は人間の精神を深く動かし、**身体・心・社会の調和**をもたらす。
+Religious music deeply moves the human spirit and brings about **harmony between body, mind, and society**.
 From ancient mantras to modern ambient music, the underlying theme is a transcendental experience through sound.
 
 Even if religions change, the power of sound remains in the same direction.

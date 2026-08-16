@@ -36,5 +36,5 @@ Geir Jenssen, also known as Biosphere, is an electronic ambient musician from No
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4tjIUeT-FS4?si=Sog6kAGXpP8fO4OL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

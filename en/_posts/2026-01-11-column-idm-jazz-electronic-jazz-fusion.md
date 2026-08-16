@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Establishment of IDM and changes in the view of rhythm
+## Establishment of IDM and changes in rhythm outlook
 
 ### Intelligent electronic music after breakbeats
 
@@ -63,7 +63,7 @@ Electric jazz in the 1970s emphasized the expansion of the rhythm section and su
 
 ### Coexistence of improvisation and programming
 
-Improvisation is not lost even in an electronic environment. Performers manipulate loops and effects in real time, improvising changes to the structure itself. The improvisation here appears not as a phrase, but as a structural manipulation.
+Improvisation is not lost even in an electronic environment. Performers manipulate loops and effects in real time, improvising the structure itself. The improvisation here appears not as a phrase, but as a structural manipulation.
 
 > Electronicization did not take away the improvisational nature of jazz, but moved it to a different level.
 
@@ -120,7 +120,7 @@ IDM x Jazz uses both polyrhythm, which has multiple rhythm cycles running simult
 
 ### Micro timing control
 
-By moving the notes forward and backward in millisecond increments, a groove that is both mechanical and organic is created. This is also a process of analyzing human performance habits and intentionally rearranging them.
+By moving the notes forward and backward in millisecond increments, a groove that is both mechanical and organic is created. This is also a process of analyzing human playing habits and intentionally rearranging them.
 
 > Complexity arises not from the amount of information, but from the accuracy of time arrangement.
 

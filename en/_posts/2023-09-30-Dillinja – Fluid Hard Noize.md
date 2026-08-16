@@ -15,7 +15,7 @@ This is a track that every drum & bass fan will love. What no one understood was
 
 This Reese sound was used on a variety of tracks, including "Nasty Ways," "Take My Life," "Love Is Not a Game Remix," and "Bambaata Remix," and variations of it were also used on "Tudor Rose" and "Go Dillinja."
 
-このReeseサウンドがおそらくドラム＆ベースで作られた中で最もクールなサウンドであると言っても過言ではありません。そして1998年にはブリットポップがエアウェーブに溢れていた時期に、Dillinjaのような人物がアンダーグラウンドでレコードを売ることなどにまったく無頓着で、よりクールなものを制作していたと考えると、それは狂気に思えます。
+It's no exaggeration to say that this Reese sound is probably the coolest drum & bass sound ever created. And it seems crazy to think that back in 1998, during the airwaves of Britpop, someone like Dillinja was underground, completely unconcerned with selling records, and producing something much cooler.
 
 #### Tracklist
 ```md

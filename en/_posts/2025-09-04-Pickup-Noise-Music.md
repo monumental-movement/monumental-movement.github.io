@@ -128,7 +128,7 @@ B. Best Of Hair-Style In My Life
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
 - **Background**: French electro standard-bearer around Ed Banger. A single that injects "screaming noise" into futuristic electro.
-- **Highlights**: The sharp breaks and saturation of "Dolami." A great example of enjoying the texture of noise in a club format.
+- **Highlights**: The sharp breaks and saturation of "Dolami." A great example of enjoying the texture of noise in club format.
 
 #### Tracklist
 ```md
@@ -212,7 +212,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 - **If you enter from the royal roar** *Merzbird*/Naked Rally's.
 - *Smoking Kills* if you want to experience the texture of noise in a club context.
 - For a **collage approach**, try Hair Stylistics/Tipsy/WXBD.
-- **For those who like to make their own stuff**, check out the Eurorack column to find out about the best equipment before listening to it.
+- For those who prefer to make their own equipment, check out the Eurorack column to find out about the best equipment before listening.
 
 ---
 

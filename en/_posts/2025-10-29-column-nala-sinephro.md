@@ -49,7 +49,7 @@ Sons of Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd, and others have esta
 
 She has St. Lucian and Belgian roots and studied classical and electronic acoustics simultaneously.
 Through a session at London's jazz club "Total Refreshment Centre",
-ハープとモジュラー・シンセを自在に行き来する独自の音語を形成していく。
+He has created a unique sonic language that freely moves between harp and modular synth.
 
 > "Sound is like particles in the air to me."
 > ― Nala Sinephro
@@ -82,8 +82,8 @@ This is a flow that connects the concept of "environmental music" proposed by Br
 Nala Sinephro's music is in the spirit of Harold Budd, Alice Coltrane, and Laraaji.
 It is ""contemplative modernism'' that has been redefined in the post-club era of the 21st century.
 
-Her harp and synths diffuse "jazz-like improvisation" into the space, adding layers of sound.
-The rhythm disappears, the melody drifts, and all that remains is the feel of time and space.
+Her harp and synths diffuse "jazz-like improvisation" into the space by adding layers of sound.
+The rhythm disappears, the melody drifts, and all that remains is the **feel of time and space**.
 
 
 <div class="mermaid">
@@ -114,7 +114,7 @@ Here, patching itself is an improvisational performance that transforms the list
 
 This configuration is truly a "breathing device for humans and machines."
 Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic transparency.
-It is also an act of sublimating music into a **technology prayer**.
+It is also an act of sublimating music into a **prayer of technology**.
 
 ---
 
@@ -169,7 +169,7 @@ graph TD
 ## Conclusion: The future of sound pulsates in silence
 
 Nala Sinephro's music reopens the question, "What is jazz?"
-This is not an extension of technique or genre, but rather a fundamental question of what sound can bring to humans.
+This is not an expansion of technique or genre, but a fundamental question of **what does sound bring to humans**?
 
 At the heart of ambient jazz is the hope that ""listening to music" can once again become ""an act of connecting with the world."
 Each note released by Nala's harp is as quiet as the breathing of the universe, but it is certainly alive.

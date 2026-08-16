@@ -19,7 +19,7 @@ title: '[Column] Aesthetics of imperfection ─ A new aesthetic of pop living in
 
 Text: mmr｜Theme: Tiredness towards "perfect pop". As a reaction to this, the "aesthetics of imperfection" is once again sweeping the world.
 
-Weary of the "perfect pop" created by the smartphone era. As a reaction to this, the ""aesthetics of imperfection"' is once again sweeping the world. Charli XCX"s brat symbolized not just a trend, but a cultural rewilding.
+Tiredness with the "perfect pop" created by the smartphone era. As a reaction to this, the ""aesthetics of imperfection"' is once again sweeping the world. Charli XCX"s brat symbolized not just a trend, but a cultural rewilding.
 
 Pop culture has finally tired of the "too clean aesthetic".
 Charli XCX's album "brat" dominates the summer charts.
@@ -49,7 +49,7 @@ In the mid-2020s, the Y2K revival spread from fashion to music to internet cultu
 Among them, the term "Indie Sleaze" is once again in the spotlight.
 In the early 2000s, a party lit by digital camera flashes,
 Muses whose make-up is still ruined,
-An ambiguous romanticism that dwells in the image quality of MySpace.
+An ambiguous romanticism that resides in the image quality of MySpace.
 What was there was the truth because it was not in place.
 
 And in 2024, that "roughness" once again destroyed modern boredom.
@@ -57,7 +57,7 @@ This attitude of rejecting perfect filters has become a new aesthetic.
 
 ### 1-2. Signs shown by fashion
 Launched by Saint Laurent and Heaven by Marc Jacobs
-The "roughness of the night" and the "worn out shine"
+The "roughness of the night" and "worn out shine" are
 Eventually, it infected the world of music as well.
 In the eerie decadence of the Balenciaga show,
 The "beauty of not being perfect" was stirring.
@@ -66,7 +66,7 @@ Charli XCX's ""brat'' sublimated that feeling into pop music.
 
 ---
 
-## 2. "Brat" talks about the power of "imperfection"
+## 2. The power of "imperfection" as told by "brat"
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=SPGIqDcpE8WCczlC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -82,7 +82,7 @@ It is a ""human touch'' that is the opposite of the era of perfection.
 ### 2-2. The antithesis of a perfect world
 Smartphones and social networking sites have created an obsession with always being right.
 Images are cleaned up, voices are corrected, and mistakes are instantly removed.
-However, Charli XCX seems to laugh off the pressure,
+However, Charli XCX seems to laugh off the pressure.
 He dared to throw out an uneven sound to the world.
 The success of ""brat'' is a milestone in pop history.
 It symbolizes a "departure from the belief in perfection."
@@ -97,7 +97,7 @@ I dared to revive it cheaply.
 Behind the sparkling synths, a rawness shines through, like a mixture of sweat and makeup.
 It was a carnivalesque rebellion against the world of overly controlled beauty.
 Charli XCX and Kesha's movements showed that
-It was the dawn of an era of ""openness'' rather than perfection.
+It was the arrival of an era of ""openness'' rather than perfection.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2Dh2B_M98U?si=BTkOhCPEdgVVxvrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -124,11 +124,11 @@ It is in them that I find evidence of my real self.
 
 ### 4-2. Escape from online to offline
 "The Aesthetics of Imperfection" is
-It"s not just about aesthetics, it"s also about resetting your way of life.
+It"s not just an aesthetic, it"s also a reset of our way of life.
 People who are tired of building their personalities on SNS and return to their "body" again.
 The humidity of the club, the roar of the live house,
 There is an imperfect yet certain feeling within it.
-Music is once again returning to the "human field" rather than the digital world.
+Music is once again returning to the "human scene" rather than the digital world.
 
 ---
 
@@ -136,14 +136,14 @@ Music is once again returning to the "human field" rather than the digital world
 
 ### 5-1. Courage to affirm imperfection
 The last ten years have been dominated by ideas of minimalism and tidying up.
-We have been afraid of what we are missing.
+We have been afraid of "what is missing."
 But now, what is missing is the blank space for creation.
 Noisy sounds, blurred images, and stuck words.
 Instead of removing them, accept them as part of the work.
 Therein lies the sensibility of a new era.
 
 ### 5-2. "Rewilding" of pop
-After "brat," artists let go of the microphone,
+After "brat," artists let go of their microphones.
 Impromptu recording with smartphone,
 I started uploading songs unfinished.
 What they all have in common is the attitude of ""leaving things as they are.''
@@ -156,7 +156,7 @@ It is also an attempt to return to the ""human rhythm.''
 ## 6. An incomplete future ─ Toward a new reality
 
 We are finally on the verge of being freed from the shackles of "perfection."
-Outside the world arranged by algorithms,
+Outside the world created by algorithms,
 Errors, distortions, and obscurities shine once again.
 
 It's evolution, not regression.

@@ -84,7 +84,7 @@ Soft electronic jazz and soul, popular in Japan
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
 
 #### Youtube

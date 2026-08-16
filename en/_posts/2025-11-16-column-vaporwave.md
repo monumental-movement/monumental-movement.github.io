@@ -175,7 +175,7 @@ graph TD
 
 What is vaporwave and its core definition**
 
-### **5-1　Beyond "genre"**
+### **5-1 Towards an existence that transcends "genre"**
 
 Vaporwave was initially treated as a "minor genre that originated on the internet", but
 After spreading for more than 10 years, it has become a cultural device that transcends genres, as shown below.
@@ -208,7 +208,7 @@ This is a new psychological structure in the internet age, and is the core emoti
 
 #### **Core ③: Aesthetic Ambivalence**
 
-批判しながら、同時に楽しむ。
+Criticize and enjoy at the same time.
 Destroy and praise at the same time.
 This contradiction is postmodern, and is the very essence of vaporwave's aesthetics.
 
@@ -216,7 +216,7 @@ This contradiction is postmodern, and is the very essence of vaporwave's aesthet
 
 ### **5-3 Conclusion: Philosophical definition of vaporwave (final version)**
 
-> **Vaporwave is a world where the past vision of the future has collapsed.
+> **Vaporwave is a world where the past vision of the future has collapsed,
 > The Internet generation re-edited the fragments of symbols,
 > Visualizing the "pain of losing the future" and the "pleasure of consumer society" at the same time,
 > It is a comprehensive art of the post-capitalist era. **

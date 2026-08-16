@@ -45,7 +45,7 @@ color: #fff;
 
 The concept of a drone existed before electronic music. Its prototypes include sustained bass in traditional music, sustained harmony in religious music, and stationary sounds in mechanical and environmental sounds. In the history of Western music, the sustained sounds of medieval organums and bagpipes have played a role in spatially supporting music.
 
-In the 20th century, industrialization and electrification progressed, and persistent mechanical noise permeated our daily environment. This environmental change provided an opportunity for musicians to change the way they perceived sound. From a melody-centered view of music to a focus on the texture and temporal duration of the sound itself, drones were redefined as an important element of experimental music.
+In the 20th century, industrialization and electrification progressed, and persistent mechanical sounds permeated our daily environment. This environmental change provided an opportunity for musicians to change the way they perceived sound. From a melody-centered view of music to a focus on the texture and temporal duration of the sound itself, drones were redefined as an important element of experimental music.
 
 ---
 
@@ -177,7 +177,7 @@ Furthermore, by applying different spectral changes to the left and right sides,
 
 ### Fusion of reverberation and sustained sound
 
-Long reverberation times are not just an effect in drones, but function as part of the acoustic structure. When the original sound and the reverberant sound cannot be separated, the beginning and end of the sound become ambiguous, and the sustained sound becomes infinite.
+Long reverberation times are not just an effect in drones, but function as part of the acoustic structure. When the original sound and the reverberant sound cannot be separated, the start and end of the sound become ambiguous, and the sustained sound takes on an infinity.
 
 > "Reverberation does not decorate sound, but works as a device that stretches time itself."
 
@@ -203,7 +203,7 @@ Fully autonomous patches exhibit unpredictable changes over time. On the other h
 
 ### Sustained sounds in a live environment
 
-In the live performance of modular drones, the temporal length itself becomes a component. There is no requirement for the development to occur in a short period of time, and the process by which the acoustic space gradually changes in quality is shared.
+In the live performance of modular drones, the temporal length itself becomes a component. There is no requirement for the development to take place in a short period of time, and the process by which the acoustic space gradually changes in quality is shared.
 
 The presence of visually exposed patches and cables emphasizes the instrumental aspects of how sound is produced.
 

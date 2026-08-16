@@ -56,7 +56,7 @@ In the 1980s and 1990s, with the spread of samplers, folk music sources were inc
 
 ### 2-1 Nitin Sawhney: Depicting a multicultural society through sound
 
-British composer and multi-instrumentalist. He is known for his works that fuse Indian classical music, electronic acoustics, strings, and jazz.
+British composer and multi-instrumentalist. He is known for his works that fuse Indian classical music with electronic acoustics, strings, and jazz.
 
 #### Musical features
 
@@ -153,7 +153,7 @@ flowchart TB
     A1980 --> A1990["1990s: Influx of folk music elements into downtempo and trip hop"]
     A1990 --> A2000["2000s: Nitin Sawhney, Thievery Corporation and others received international recognition"]
     A2000 --> A2010["2010s: Global Base, Connection with Afrofuturism"]
-    A2010 --> A2020["2020s: Music from each region is directly shared through distribution culture, leading to more multi-layered fusion"]
+    A2010 --> A2020["2020s: Music from each region is directly shared through distribution culture, and more multi-layered fusion is progressing."]
 </div>
 
 ---
@@ -297,7 +297,7 @@ flowchart TD
 
 * Increased direct collaboration with musicians from around the world
 * The recording quality of ethnic instruments has improved, and hybrids with electronic sounds have become commonplace.
-* The boundary between world music and electronica is blurring
+* The boundaries between world music and electronica are blurring
 
 ---
 

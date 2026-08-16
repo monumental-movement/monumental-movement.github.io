@@ -21,7 +21,7 @@ Since then, they have released numerous albums and singles, and with their melod
 
 In 2010, he suspended his activities under the name FreeTEMPO, and since then has participated in various music projects.
 
-2021年に11年ぶりにFreeTEMPO名義での活動を再開。
+In 2021, he resumed activities under the name FreeTEMPO for the first time in 11 years.
 
 #### Tracklist
 ```md

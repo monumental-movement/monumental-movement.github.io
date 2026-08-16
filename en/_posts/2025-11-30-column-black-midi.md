@@ -18,7 +18,7 @@ title: '[Column] Black Midi — The impact of experimental rock from London and 
 
 # The trajectory and musicality of the rising star of London experimental rock
 
-Text: mmr｜Theme: From their formation to their main works, their evaluation both domestically and internationally, and their influence on subsequent bands and culture.
+Text: mmr｜Theme: From their formation to their main works, their evaluation at home and abroad, and their influence on subsequent bands and culture
 
 Black Midi is a young rock/experimental music band formed in London in 2017. Just a few years after their debut, they shocked the world of indie rock with their bold sound, overwhelming performance, and unpredictable live structure that went beyond traditional rock and post-punk.
 
@@ -92,12 +92,12 @@ In this way, during their debut period, Black Midi attracted intense attention f
 
 - On the other hand, there were also comments such as ""the sound is too dense," ""the balance between noise and structure is difficult to find," and ""it gives the impression that it is too elaborate, rather than the freedom of live improvisation." While some critics praised Cavalcade's opulence and structure, others felt that the ""raw danger" and ""improvisational impulse'' characteristic of their debut work had diminished.
 
-- Furthermore, regarding their 3rd album *Hellfire*, there were compliments such as ""the most experimental and theatrical ever", ""a group of songs with a narrative, allegory, and character", ""it chooses the listener, but it has a strong impact", and ""a work of art that goes outside the framework of 'rock"." In particular, Hellfire"s radical composition and sound, as well as the multi-layered nature of the music, have received high praise.
+- Furthermore, regarding their 3rd album *Hellfire*, there were compliments such as ""the most experimental and theatrical ever", ""a group of songs with a narrative, allegory, and character", ""it chooses the listener, but it has a powerful impact", and ""a work of art that goes outside the framework of 'rock"." In particular, Hellfire"s radical composition and sound, as well as the multi-layered nature of the music, have received high praise.
 
 - However, at the same time, there are also persistent complaints that ""the structure is too complex and the entrance is narrow", ""you have to listen to it more than the initial impact", and ""it"s a work that people either like or hate", and some say that it is difficult to say that Black Midi"s songs are ""for everyone".
 In other words, Black Midi's period of growth was a period in which it expanded its techniques, structure, and musicality, and because of its radicalness and sophistication, it expanded its horizons as music that could easily be divided into pros and cons and that could be chosen by the listener.
 
-### 3-3. The value of live performances and "performance/improvisation" — Live albums and re-evaluation
+### 3-3. The value of live performance and "performance/improvisation" — Live albums and re-evaluation
 
 - The live album *Live Fire* released in 2022 captures Black Midi's appearance as a "live band" in a different form from the studio recording. Many of the songs have been reconstructed, and the improvisation, changes, and passion of the performance are realistically conveyed. Their approach of "recording + live reinterpretation" was seen as a demonstration of their versatility and flexibility.
 
@@ -113,7 +113,7 @@ In other words, Black Midi's period of growth was a period in which it expanded 
 
 - Black Midi is based at a live house in Brixton, south London, and has been considered a key band in the "Windmill scene", a movement of young experimental rock/post-punk/art rock-oriented bands. Along with them, several young bands participated in the same scene, and together they attracted attention.
 
-- Their success demonstrated the "potential for commercial/critical success" in this scene. In other words, they paved the way for even young bands with an indie/underground style of experimentation to be able to build world-class works and careers. This became a "success model" for Windmill Scene and the bands that followed.
+- Their success demonstrated the "potential for commercial/critical success" in this scene. In other words, they paved the way for even young bands with indie/underground experimentalism to be able to build world-class works and careers. This became a "success model" for Windmill Scene and the bands that followed.
 
 
 ### 4‑2. Re-evaluating genre mixing, experimentation, and liveism
@@ -141,7 +141,7 @@ Bands like Black Midi aren't always popular with everyone because of their exper
 
 Still, the value of Black Midi lies in the following points.
 
-- Breaking down the traditional genre framework and opening up new horizons of hybridity/experiment.
+- Breaking down the traditional genre framework and opening up new horizons of hybridity/experimentation.
 - Studio recording and live performance, composition and improvisation, noise and structure, popness and experimentation - an attitude that relativizes these dichotomies and affirms them all as music.
 - Sounds and ideas that can be used internationally/cross-culturally. It has made it possible for it to be accepted across Internet culture, Japanese subculture, Western indie music, and everything else.
 

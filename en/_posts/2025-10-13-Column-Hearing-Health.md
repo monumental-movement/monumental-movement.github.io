@@ -8,7 +8,7 @@ layout: post
 tags:
 - History
 - Ambient
-title: '[Column] The miracle of listening: the future of "sound" envisioned by the
+title: '[Column] The miracle of listening: The future of "sound" envisioned by the
   Hearing Health Foundation'
 ---
 

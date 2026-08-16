@@ -69,7 +69,7 @@ What these regions have in common is an industrialized urban environment and the
 
 The rhythmic structure of EBM is based on 4/4 time and is characterized by a clear and linear arrangement. The kick drum strongly indicates each beat, and the snare and claps function as part of the structure rather than decoration.
 
-The swing feel found in funk and disco has been intentionally avoided, and an arrangement has been chosen that minimizes temporal fluctuations. This causes the rhythm to act on the body more as a pressure than a groove.
+The swing feel found in funk and disco has been intentionally avoided, and an arrangement has been chosen that minimizes temporal fluctuations. This allows the rhythm to act on the body more as a pressure than a groove.
 
 <div class="mermaid">
 flowchart LR

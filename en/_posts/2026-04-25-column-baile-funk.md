@@ -18,13 +18,13 @@ title: '[Column] Baile Funk: The trajectory of bass culture expanding from the s
 
 ## What is Baile Funk?
 
-Text: mmr｜Theme: The cultural trajectory of Baile Funk, which was born in Rio's favelas and expanded to the world while resonating with the reality of the city.
+Text: mmr｜Theme: The cultural trajectory of Baile Funk, which was born in Rio's favelas and expanded to the world while resonating with the realities of the city.
 
 ### Music born from urban reality
 
 Baile Funk is a dance music that originated in the favelas (poor areas) of Rio de Janeiro, Brazil. Its direct musical roots lie in the Miami bass that migrated to Brazil in the 1980s, from which it developed its own rhythm and culture. In particular, the strong low tones of Miami bass and the simple, repetitive beat form the foundation.
 
-The word Baile means "dance party," and Funk does not necessarily refer to American funk. Locally, ""Baile" is recognized as an event, and ""Funk" is recognized as a music style.
+The word Baile means "dance party," and Funk does not necessarily refer to American funk. Locally, "Baile" is recognized as an event, and "Funk" is recognized as a music style.
 
 Rio's young people expanded on this music within their limited environment and built their own club culture around sound systems and DJ culture. It is not just a musical genre, but functions as a means of social expression.
 
@@ -49,7 +49,7 @@ color: #fff;
 
 ## Origin and formation (1980s-1990s)
 
-### マイアミからリオへ
+### From Miami to Rio
 
 In the late 1980s, Rio de Janeiro had a party culture influenced by imported hip-hop and electro. DJs were at the center of this, and DJ Marlboro in particular is known for playing an important role in establishing Baile Funk.
 
@@ -131,7 +131,7 @@ B --> E[Social Media]
 B --> F[Global Club Scene]
 </div>
 
-As a result, Baile Funk has gone beyond just a music genre and has come to have a presence as a symbol of urban culture.
+As a result, Baile Funk has gone beyond a mere musical genre to become a symbol of urban culture.
 
 > Baile Funk has evolved from music to culture, and from culture to phenomenon.
 
@@ -221,7 +221,7 @@ Many hit songs are created not by a single artist alone, but by the efforts of a
 * 2010s and beyond: Digitalization and global expansion
 * Now: Diversification and growing cultural influence
 
-> Baile Funk's history has always been updated by the intersection of external influences and internal reality.
+> Baile Funk's history has always been updated by the intersection of external influences and internal realities.
 
 ---
 
@@ -234,7 +234,7 @@ Baile Funk is more than just club music. It is a condensed expression of urban r
 
 The music that started in Rio's favelas is now blaring in clubs all over the world. However, underlying this is always local reality.
 
-Even as globalization progresses, the core remains unchanged. Rather, its locality is Baile Funk's strength.
+Even as globalization progresses, the core remains unchanged. In fact, Baile Funk's strength lies in its locality.
 
 > Baile Funk continues to be music that resonates strongly with local realities as it spreads around the world.
 

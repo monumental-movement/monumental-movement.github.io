@@ -60,7 +60,7 @@ A friend added sound effects and laughter to the tape recordings, and his sense 
 #### Representative work: "Kazamachi Roman" (1971)
 A monumental work that depicts the poetic atmosphere of the city of Tokyo in the context of rock for the first time.
 During this period, Hosono played an important role in composing music while also playing bass.
-Songs such as ""It's Summer" and ""Gather the Wind" have an urban yet nostalgic sound.
+Songs such as ""It's Summer" and ""Gather the Wind" are characterized by their urban yet somehow nostalgic sounds.
 
 #### Historical background
 In the midst of high economic growth after the war.
@@ -68,7 +68,7 @@ With the rise of folk and GS, the search for a new expression called "Japanese r
 Happy End was the first band to explore ""Japanese rhythms that were not imitations of English.''
 
 #### Production environment
-Recordings at that time were made at Yotsuya Onkyo House's predecessor studio. Warm sound from analog tape recording and vintage equipment.
+Recordings at that time were made at a studio that was the predecessor of Yotsuya Onkyo House. Warm sound from analog tape recording and vintage equipment.
 Although influenced by American bands such as The Band and Buffalo Springfield, they put literary Japanese lyrics to the fore.
 
 #### Anecdote
@@ -109,7 +109,7 @@ This experience led to his later work on the Tropical Trilogy and YMO's sense of
 - "Tin Pan Alley" (1977)
 
 Blues, R&B, and Beatles-style pop are digested in Japanese, with a focus on music played at school festivals and live music venues in Tokyo.
-Hosono was in charge of bass and composition, demonstrating his early urban sensibilities.
+Hosono was in charge of bass and composition, demonstrating an early urban sensibility.
 
 #### Historical background
 The nascent period of urban pop-rock in Japan, influenced by the Beatles and the Rolling Stones.
@@ -142,12 +142,12 @@ Japan after the oil shock. My yearning for overseas travel and exotic cultures g
 In television and movies, the idea that ""tropical countries = healing" spread, and in music, ""imaginary resorts" became a theme.
 
 #### Production environment
-Recorded at home/studio "HOSONO HOUSE" (Sayama, Saitama).
+Recorded at home/studio "HOSONO HOUSE" (Saitama, Sayama).
 They converted the living room of a wooden house into a studio and recorded using analog tape and a simple mixer.
 This home recording style became the origin of later city pop and home recording culture.
 
 #### Anecdote
-During the recording of "HOSONO HOUSE", the power breaker tripped many times.
+It is said that the power breaker tripped many times during the recording of "HOSONO HOUSE".
 Hosono is said to have laughed and continued recording, saying, ""The sound of electricity falling is part of the music.''
 This relaxed atmosphere is reflected in the warm, organic sound.
 
@@ -209,7 +209,7 @@ Hosono jokingly said, ""Music is about living with chance.''
 
 ---
 
-### Chapter 7: Landscape Music - Soundtracks and Ambient Sounds (1990–2000)
+### Chapter 7: Music of the Landscape – Soundtracks and Ambient Sounds (1990–2000)
 
 #### Representative works:
 - "Night on the Galactic Railway" (1985)

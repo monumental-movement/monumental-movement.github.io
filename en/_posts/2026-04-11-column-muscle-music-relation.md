@@ -51,7 +51,7 @@ color: #fff;
 
 ### Decreased subjective exercise intensity
 
-The ""tightness" you feel when exercising depends not only on the actual load but also on how your brain perceives it. This index is called ""subjective intensity of exertion" (RPE).
+The ""tightness'' you feel when exercising depends not only on the actual load but also on how your brain perceives it. This metric is called "subjective intensity of exertion" (RPE).
 
 Studies have shown that exercising while listening to music significantly lowers this RPE. In other words, the same load will "feel easier".
 
@@ -77,7 +77,7 @@ When training with heavy weights, you need to produce maximum output in a short 
 - Strong bass
 - Clear rhythm
 
-This activates the sympathetic nervous system and promotes instantaneous exertion of force.
+This activates the sympathetic nervous system and promotes the instantaneous exertion of force.
 
 ### Aerobic exercise
 
@@ -109,7 +109,7 @@ This allows for natural movement phase switching.
 
 Electronic music such as techno and house is characterized by a steady beat and strong bass. These promote rhythm synchronization and are suitable for sustained exercise.
 
-In particular, songs with a strong repetitive structure go well with the repetitive movements of exercise, making it easier to maintain a state of concentration.
+In particular, songs with a strong repetitive structure go well with repetitive movements, making it easier to maintain a state of concentration.
 
 ### Hip-hop and explosiveness
 
@@ -145,7 +145,7 @@ D --> E[flow]
 
 ## Practice: Training playlist design and specific examples
 
-### Major vs Underground
+### Major vs Underground Contrast
 
 Choosing music for training can also be divided into whether you want to ""lift your mood with familiar songs" or ""immerse yourself in unknown sounds." Here, we will present an example of an actual playlist configuration while comparing the two.
 
@@ -169,7 +169,7 @@ Choosing music for training can also be divided into whether you want to ""lift 
 
 ---
 
-### Main (Muscle training/high intensity 120-150 BPM)
+### Main (muscle training/high intensity 120-150 BPM)
 
 #### Major
 

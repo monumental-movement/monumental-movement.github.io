@@ -19,11 +19,11 @@ title: '[Column] RZA: A complete history of creation and philosophy from the min
 ## 1. Childhood and musical environment
 
 
-Text: mmr｜Theme: RZA Film music, production philosophy, and later activities
+文：mmr｜テーマ：RZA 映画音楽、制作哲学、後期活動について
 
 Robert Fitzgerald Diggs (RZA) was born on July 5, 1969 in Stony Brook, New York.
 He became familiar with music from an early age, and was introduced to soul, funk, and early hip-hop through the influence of his brother.
-In particular, the underground club culture in New York in the late 1970s and early 1980s had a major influence on the later Wu-Tang Clan sound.
+In particular, the underground club culture of New York in the late 1970s and early 1980s had a major influence on the later Wu-Tang Clan sound.
 
 RZA taught himself music theory and was interested in sampling and rhythm construction, while at the same time absorbing his own ideas from kung fu movies and philosophy books. What he learned at this stage became the foundation for his later production style and musical philosophy.
 
@@ -84,7 +84,7 @@ Representative works and distinctive tracks are as follows:
 
 * **Ol" Dirty Bastard – "Return to the 36 Chambers" (1995)**
 
-* **"Brooklyn Zoo"**: Rough vocals, coarse beats, and RZA"s editing skills shine
+* **"Brooklyn Zoo"**: Rough vocals, rough beats, and RZA"s editing skills shine
 * **"Shimmy Shimmy Ya"**: A simple drum pattern layered with debris samples to embody the aesthetic of chaos.
 
 * **Ghostface Killah – "Ironman" (1996)**
@@ -120,8 +120,8 @@ In 1999, RZA released experimental solo work under the name **Bobby Digital**.
 * Song "Love Jones": Skillfully processed jazz sample
 * **"Digital Bullet" (2001)**
 
-* Song "Keep It Movin"": Beat composition that incorporates movie music style.
-  * 曲「Glocko Pop」：荒れたサンプリングとループのリズムで実験的な質感
+* Song "Keep It Movin"": Beat composition incorporating movie music style
+* Song "Glocko Pop": Experimental texture with rough sampling and loop rhythm
 
 In these works, RZA pursues sound design that goes beyond the framework of traditional hip-hop.
 
@@ -161,7 +161,7 @@ flowchart TD
 
 </div>
 
-映画音楽においても、RZAは**サンプリングの哲学を維持しつつ、映像の物語性に沿った楽曲設計**を行った。
+Even in film music, RZA maintained the philosophy of sampling while designing music in line with the narrative of the video.
 
 ---
 
@@ -213,7 +213,7 @@ flowchart TD
 </div>
 
 * Pursuing hip-hop experimentation in collaboration with Gravediggaz and Prince Paul
-* Kanye West や他現代プロデューサーへの影響
+* Influence on Kanye West and other modern producers
 * Developing film music in collaboration with film directors
 
 ---
@@ -259,7 +259,7 @@ flowchart TD
 
 * Dark and harsh sound
 * Influence of Asian movies and Zen philosophy
-* 共同制作ネットワークによる文化拡張
+* Cultural expansion through co-production networks
 
 ---
 
@@ -272,13 +272,13 @@ flowchart TD
     B --> C["1994-1997: A series of solo works"]
     C --> D["1997: Equipment lost in flood"]
     D --> E["1999: Bobby Digital solo work"]
-    E --> F["2000s：映画音楽進出"]
+    E --> F["2000s: Foray into film music"]
     F --> G["2010s: Reorganization of Wu-related works / Book publishing"]
     G --> H["2020s: Film director/cultural producer activities"]
 
 </div>
 
-Throughout his career, RZA has been involved in a wide range of activities including album production, solo activities, film music, education and book writing.
+Throughout his career, RZA has developed a multifaceted career spanning album production, solo activities, film music, education and book writing.
 
 ---
 

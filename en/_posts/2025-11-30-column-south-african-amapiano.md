@@ -50,7 +50,7 @@ Amapiano is influenced by the following genres:
 
 In particular, community outreach through township clubs, street parties, taxi ranks, etc. played an important role in the birth of Amapiano.
 
-### Acoustic characteristics
+### Acoustic features
 
 Amapiano's sound consists of the following elements:
 
@@ -60,7 +60,7 @@ Amapiano's sound consists of the following elements:
 * **Tempo**: Slow groove around 110–120 BPM
 * **Vocal**: Various styles such as singing, rapping, chorus, etc.
 
-These elements combined to develop music that expressed the youth culture of township clubs and streets.
+The combination of these elements led to the development of music that expressed the youth culture of township clubs and streets.
 
 ---
 
@@ -82,14 +82,14 @@ graph LR
 
 ### Geography and time
 
-The birthplace of Amapiano is **Gauteng** in South Africa. Particularly important are the townships of **Johannesburg** and **Pretoria**.
+The birthplace of Amapiano is Gauteng, South Africa. Particularly important are the townships of **Johannesburg** and **Pretoria**.
 
 According to multiple sources, experiments with Amapiano began around 2012, and the unified name "Amapiano" as a genre was established later.
 
 ### Pioneers and the formation of places
 
 * **MFR Souls (Tumelo Nedondwe & Tumelo Mabe)** contributed to the formation of early Amapiano
-* Audio sources are shared among friends and spread via WhatsApp, clubs, parties and taxi ranks
+* Audio sources are shared among friends and spread via WhatsApp, clubs, parties, and taxi ranks
 * This DIY/grassroots spread became the foundation for the establishment of the genre.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dx62kohEnsg?si=9J2-_DUYJlzvfs5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,7 +132,7 @@ As a result, Amapiano has grown from just underground music to a genre recognize
 * **Kabza De Small & DJ Maphorisa**
 
 * Album **Scorpion Kings** released in July 2019
-* Promoting genre breakout and commercialization nationwide
+*Promoting genre breakout and commercialization nationwide
 * Sequel **The Return of the Scorpion Kings (November 2019)** was also a success
 
 During this period, Amapiano became more than just a township music, it became a nationally and commercially recognized genre.

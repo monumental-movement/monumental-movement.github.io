@@ -369,7 +369,7 @@ It's not just for dancing.
 
 It was also music to be listened to.
 
-It brought to the fore rhythmic structures derived from Africa, while also giving it a jazz-like development.
+It brought to the fore rhythmic structures derived from Africa, while giving it a jazz-like development.
 
 ### Reconnecting with Africa
 
@@ -440,19 +440,19 @@ His exquisite sense of balance was his main characteristic.
 
 ### Changes in New York
 
-In New York in the early 1960s, a new generation was emerging.
+In the early 1960s, a new generation was emerging in New York.
 
 African American.
 
 Puerto Rican residents.
 
-Cuban immigrants.
+Cuban immigration.
 
 They were looking for music that wasn't bound by existing genres.
 
 Mongo was sensitive to the zeitgeist.
 
-> Mongo, who became a band leader, built his own unique music while absorbing the changes of the times.
+> Mongo, who became a bandleader, built his own unique music while absorbing the changes of the times.
 
 ---
 
@@ -562,7 +562,7 @@ The younger audience had more of an affinity for soul than jazz.
 
 Mongo understood that feeling.
 
-It's not about forcing difficult music on people.
+I'm not trying to force difficult music on you.
 
 Make music that you can enjoy.
 
@@ -889,7 +889,7 @@ It is regarded as one of the most important vocal works in the history of Latin 
 | Year | Events |
 | -------- | -------------------- |
 | 1917 | Born in Havana |
-| 1930s | Started playing in local orchestra |
+| 1930s | Started playing in a local band |
 | 1940s | Increased reputation within Cuba |
 | 1950 | Moved to New York |
 | Early 1950s | Joined Tito Puente Orchestra |
@@ -993,7 +993,7 @@ They have already become commonplace.
 
 That is why his achievements are often overlooked.
 
-However, if you trace the history, Mongo is always at its origin.
+However, if you trace the history, Mongo is always at the origin.
 
 > Mongo Santamaria was one of the key figures in the history of 20th century music who moved history in an obscure place.
 

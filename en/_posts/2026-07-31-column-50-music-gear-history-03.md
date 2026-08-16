@@ -32,7 +32,7 @@ Many pop, new wave, and film scores of the 1980s used Emulator II's unique, text
 
 In addition, the idea of ​​reconstructing sounds using a sampler had a great influence on later hip-hop production and electronic music.
 
-音を録音するだけではなく、切り取り、並べ替え、変形するという制作方法は、現在の音楽制作の基本的な考え方になっている。
+The production method of not only recording sound but also cutting it, rearranging it, and transforming it has become the basic idea of ​​modern music production.
 
 > Emulator II expanded the sampling culture of converting real sounds into new instruments.
 
@@ -53,7 +53,7 @@ color: #fff;
 
 ---
 
-## 22. Yamaha SY77 — デジタル音源をさらに発展させたハイブリッドシンセサイザー
+## 22. Yamaha SY77 — A hybrid synthesizer that further develops digital sound sources
 
 Released in 1989, the Yamaha SY77 was an innovative synthesizer that combined FM sound source and sample playback technology.
 
@@ -81,13 +81,13 @@ The JV-1080 contained a large number of high-quality preset tones in one unit, p
 
 It was particularly compatible with MIDI environments, and was widely used in computer-based music production.
 
-1990年代のポップス、ゲーム音楽、テレビ音楽、ダンスミュージックでは、JVシリーズの音色が頻繁に使われた。
+The sounds of the JV series were frequently used in pop music, game music, TV music, and dance music in the 1990s.
 
 It also influenced the idea of ​​""having a large amount of built-in tones'' in the software sound generation era.
 
 This is one of the ideas that formed the basis of the current virtual sound source library.
 
-> The JV-1080 ushered in an era in which large music libraries could be carried around in a single studio rack.
+> The JV-1080 created an era in which a huge music library could be carried in a single studio rack.
 
 ---
 
@@ -101,11 +101,11 @@ However, the harsh sound quality created by the limited sampling time and unique
 
 Sampler loop editing, drum programming, and extracting sounds from records became central to hip-hop production in the late 1980s and 1990s.
 
-SP-1200による粒状感のあるサウンドは、多くのプロデューサーに愛され、後に「ヴィンテージヒップホップサウンド」の象徴となった。
+The grainy sound produced by the SP-1200 was loved by many producers, and later became a symbol of the "vintage hip-hop sound."
 
-What is important is that technological constraints did not limit creativity, but rather gave rise to unique expressions.
+What is important is that technological constraints did not limit creativity, but instead gave rise to unique expressions.
 
-Modern producers often intentionally recreate the feel of old samplers.
+Modern producers often intentionally recreate the feel of older samplers.
 
 > The SP-1200 was a historical piece of equipment that transformed limited technology into musical individuality.
 
@@ -115,7 +115,7 @@ Modern producers often intentionally recreate the feel of old samplers.
 
 The Technics SL-1200, released in 1972, is an essential turntable for the development of DJ culture.
 
-当初は高性能な家庭用レコードプレーヤーとして開発された。
+It was originally developed as a high-performance home record player.
 
 However, due to its high durability, stable rotational performance, and direct drive method, it became widely used by club DJs and hip-hop DJs.
 
@@ -127,7 +127,7 @@ The SL-1200 played a central role in the development of hip-hop culture, club cu
 
 Even today, when digital DJ equipment has become widespread, it continues to be highly regarded for its ease of use and cultural symbolism.
 
-> SL-1200は、レコードプレーヤーを再生装置から演奏楽器へ変えた。
+> The SL-1200 transforms the record player from a playback device to a musical instrument.
 
 ---
 
@@ -143,23 +143,23 @@ It was especially used in 1980s pop and rock music to create thick synth pads an
 
 This created a trend in which analog synthesizers were recognized as not just electronic sound generators, but as full-fledged musical instruments that could play chords.
 
-> OB-X pushed analog synthesizers to the center of band sound.
+> The OB-X pushed analog synthesizers to the center of the band's sound.
 
 ---
 
 ## 27. EMS VCS3 — A compact synthesizer that expands the possibilities of experimental music
 
-1969年に発売されたEMS VCS3は、実験音楽や電子音響の歴史に大きな影響を与えたシンセサイザーである。
+The EMS VCS3, released in 1969, was a synthesizer that had a major influence on the history of experimental music and electronic acoustics.
 
-Despite its compact housing, the unique patching method enabled complex acoustic processing.
+Despite its compact size, the unique patching method enabled complex acoustic processing.
 
 Unlike ordinary keyboard instruments, it was designed as a piece of equipment for exploring the process of creating sound itself.
 
-BBC Radiophonic Workshopなどの電子音響制作でも使用され、映画音楽や実験音楽に独特のサウンドを提供した。
+It was also used in electronic sound productions such as the BBC Radiophonic Workshop, providing a unique sound for film scores and experimental music.
 
 The VCS3 showed that the synthesizer was not only a device for playing melodies, but also a device for exploring acoustics itself.
 
-> The EMS VCS3 transforms the synthesizer from a futuristic instrument to a canvas for sonic experimentation.
+> The EMS VCS3 transforms the synthesizer from a future instrument to a canvas for sonic experimentation.
 
 ---
 
@@ -171,7 +171,7 @@ The large modular synthesizers of the late 1960s were extremely expensive and co
 
 Therefore, it was mainly used by research facilities and some professionals.
 
-The ARP 2600 employs a design that is relatively easy to handle while retaining the flexibility of a modular system.
+The ARP 2600 employs a relatively easy-to-use design while retaining the flexibility of a modular system.
 
 Oscillators, filters, envelopes, mixers, etc. were built into the main unit, and the flow of sound could be changed using patch cables.
 
@@ -199,7 +199,7 @@ However, its flexibility gave musicians the freedom to design new tones.
 
 In 1968, Walter Carlos' album ""Switched-On Bach'' made the Moog synthesizer famous worldwide.
 
-電子楽器でクラシック作品を演奏するという試みは、多くの人々にシンセサイザーの可能性を示した。
+Attempts to play classical pieces on electronic instruments showed many people the potential of synthesizers.
 
 After that, Moog's philosophy was inherited by many analog synthesizers, including the Minimoog.
 
@@ -213,11 +213,11 @@ The basic concepts of modern software synthesizers, modular environments, and el
 
 The Pioneer CDJ-1000, released in 2001, was the equipment that determined the digitalization of DJ culture.
 
-Before that, club DJs mainly used turntables like the Technics SL-1200 and analog records.
+Before that, club DJs mainly used turntables such as the Technics SL-1200 and analog records.
 
 However, with the spread of CDs, music media was undergoing major changes.
 
-CDJ-1000は、CDを使用しながらターンテーブルに近い操作感を提供した。
+The CDJ-1000 provided an operating feel similar to that of a turntable while using CDs.
 
 The digital sound source has evolved into a form suitable for live performance, including scratch operation using the jog dial, pitch adjustment, waveform display, and cue point management.
 

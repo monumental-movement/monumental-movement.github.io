@@ -84,7 +84,7 @@ Featuring a hard and minimalist techno sound, it is known as a symbol of "peak t
 
 - After 2000s: Moved base to Ostgut Ton (Berghain direct label) and continues to release works to this day.
 
-PAS = Luke Slater's "front-line club hard techno project."
+PAS = Luke Slater's "front-line project for club hard techno."
 
 In contrast to the variety of solo acts and the ambient nature of 7th Plain, PAS can be described as a stoic techno expression that is purely meant to shake the floor.
 
@@ -135,7 +135,7 @@ The 7th Plain = "The deep world of ambient techno" by Luke Slater.
 | Year | Album name | Features | Link |
 | ---- | --------------------- | --------------------- | ------------------------------------------ |
 | 1994 | *The 4 Cornered Room* | A masterpiece of ambient techno | [Amazon](https://amzn.to/4nttGUI) |
-| 1994 | *My Yellow Wise Rug* | Experimental work with a high sense of space | [Amazon](https://amzn.to/3VOULWo) |
+| 1994 | *My Yellow Wise Rug* | Experimental work with a high degree of spatiality | [Amazon](https://amzn.to/3VOULWo) |
 | 2016 | *Chronicles I* | Archive collection (Warp Records period) | [Amazon](https://amzn.to/4mK8uJ7) |
 | 2016 | *Chronicles II* | Second archive collection | [Amazon](https://amzn.to/4gYSJN4) |
 | 2018 | *Chronicles III* | Collection including unreleased sound sources | [Amazon](https://amzn.to/4mPG9AW) |
@@ -164,7 +164,7 @@ Each of them are veterans who have been active since the 90s, and through collab
 **Position**
 
 LSD is a "supergroup" in modern techno, a project that combines the experiences and styles of each member.
-Live performances at Berghain and international festivals have received particularly high praise.
+Live performances at Berghain and international festivals have received particular acclaim.
 
 LSD = A ""culmination of hard minimalism'' brought together by three masters, incorporating not only techno but also electro, funk, and vocal songs, developing a wide range of expressions.
 
@@ -202,7 +202,7 @@ Under his solo name, he is known for a wide range of works spanning techno, elec
 
 **Position**
 
-Slater is acclaimed as a flexible creator who crosses scenes, combining the hardness of techno with a pop sensibility.
+Slater is acclaimed as a flexible creator who crosses scenes, balancing the hardness of techno with a pop sensibility.
 It laid the foundation for later aliases such as Planetary Assault Systems and The 7th Plain.
 
 ---

@@ -15,7 +15,7 @@ title: '[Column] Expansion of bear damage and impact of sound'
 ## 1. Introduction: Current status of bear damage and the importance of sound
 
 
-Text: mmr | Theme: An analysis of the damage caused by bears, which has been increasing in recent years, from the perspective of the impact of noise and behavior control. Examining the role of sound design in the coexistence of humans and bears
+Text: mmr | Theme: An analysis of the damage caused by bears, which has been increasing in recent years, from the perspective of the impact of noise and behavior control. Examining the role that sound design plays in the coexistence of humans and bears
 
 In recent years, damage caused by bears has been rapidly increasing in Japan. There are approximately 1,000 cases of crop damage per year, and human damage has approximately doubled in the past 10 years (Ministry of the Environment's ""Wild Animal Damage Statistics 2024''). The physical measures taken so far are not sufficient, and sustainable damage control methods are required.
 
@@ -76,7 +76,7 @@ Due to depopulation, mountain farmland has been left abandoned, and bears' habit
 
 ### 3.2 Proximity of agricultural crops and forest resources
 
-With the increase in orchards and nut forests, there are more cases of bears invading communities. A survey of orchards in Nagano Prefecture found that in some areas, the annual damage rate reached approximately 12%.
+With the increase in orchards and nut forests, there are an increasing number of cases of bears invading communities. According to a survey of orchards in Nagano Prefecture, there are areas where the annual damage rate is as high as about 12%.
 
 ### 3.3 Impact of climate change
 
@@ -125,7 +125,7 @@ G[high frequency electronic sound] --> H[experimental avoidance]
 
 - **Hokkaido Orchard (2015–2018)**: Invasion rate reduced by 40% due to use of firecrackers
 
-- **Kyushu Electronic Sound Trial (2019–2021)**: Short-term avoidance due to high-frequency device use, long-term habituation occurring
+- **Kyushu electronic sound trial (2019–2021)**: Short-term avoidance due to the use of high-frequency equipment, long-term habituation occurs
 
 - **Tohoku AI Speaker Demonstration (2020–2023)**: Pre-bear invasion warning success rate 65%
 

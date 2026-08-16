@@ -19,7 +19,7 @@ title: '[Column] A complete history of Krautrock - German experimental music as 
 Text: mmr | Theme: Krautrock is an important trend that deeply influenced later generations of music, including experimental music, electronic music, post-rock, and techno that originated in Germany.
 
 "Krautrock"——. It was originally a derogatory name given by a British music magazine.
-"Sauerkraut" is a slang term for Germans.
+"Sauerkraut" is a slang term for German people.
 However, young people in the late 1960s reversed that label and used it as a banner for creating their own music.
 
 Postwar Germany. The memory of defeat in the war, the flood of American and British culture, and the emptiness of not having a voice.
@@ -92,7 +92,7 @@ It would later influence Radiohead, The Fall, and even Aphex Twin.
 NEU! was formed after Kraftwerk's early members **Klaus Dinger** and **Michael Lotter** left the group.
 The sound was "pure movement" with all unnecessary decorations removed.
 
-Dinger's drum continues to tick at a constant speed, like a never-stopping conveyor.
+Dinger's drum continues to tick at a constant speed, like a never-ending conveyor.
 This beat eventually became known as ""Motorik''.
 Rotor's guitar and bass slide like a streamline,
 Music has made "moving forward" itself an objective.
@@ -144,7 +144,7 @@ Kraftwerk by **Ralf Hütter** and **Florian Schneider**
 In the early days, it was improvisational rock that made full use of flute and organ.
 
 However, in 1974, with Autobahn, they suddenly began to "design" music.
-Electronic sounds, rhythm machines, and "human beings as machines."
+Electronic sounds, rhythm machines, and "humans as machines."
 Even on stage, they performed with no emotion and no expressions.
 
 This complete anonymity was heresy in the rock scene at the time.
@@ -168,11 +168,11 @@ The "future" that they saw is now in our current musical landscape.
 ### Revolution in silence
 Unit **Cluster** by **Dieter Möbius** and **Hans-Joachim Roedelius**.
 Unlike CAN and Faust, they are hardly "noise" or "rock".
-The reverberations and breathing of the city were felt between the inorganic electronic sounds and silence.
+Between the inorganic electronic sounds and silence, the reverberations and breathing of the city were felt.
 
 His debut album, Cluster 71 (1971), is a series of experimental tape sounds, but also somehow meditative.
 The follow-up, ""Zuckerzeit"' (1974), was produced by Neu!"s Klaus Dinger and introduced a minimalist and comfortable rhythm.
-Electronic sounds became the "sounds of everyday life" - one of the origins of what later became Ambient and Electronica.
+Electronic sounds became the ""sounds of everyday life'' - one of the origins of what later became Ambient and Electronica.
 
 > "The nothingness between the sounds is the space in which we compose." - Hans-Joachim Roedelius
 
@@ -219,8 +219,8 @@ It can be said that Krautrock's ""spiritual experiment'' reached its religious p
 ## Chapter 9: Klaus Schulze - The Lone Traveler of the Synthesizer
 
 Former Tangerine Dream drummer and electronic music seeker **Klaus Schulz**.
-He expanded on krautrock through solitary studio work rather than in a group setting.
-They constructed long tracks, each lasting over 30 minutes, and created it as if to ""sculpt'' time with sound.
+He expanded on krautrock through solitary studio work rather than in groups.
+We created long tracks, each over 30 minutes long, and created them as if to ""sculpt'' time with sound.
 
 His masterpieces "Timewind" (1975) and "Moondawn" (1976) are electronic meditations with endless rhythms and sequencers.
 For later Jean-Michel Jarre, Vangelis, and even Techno writers, he became the starting point for the ""philosopher of electrons''.
@@ -297,7 +297,7 @@ flowchart TD
 | **Motorik** | Constant 4/4 beat established by Neu! A linear, trance-like rhythm.           |
 | **Cosmic Music** | Space-oriented electronic music by Tangerine Dream, Klaus Schulze, and others. |
 | **Continental Rock** | Musical expression from a European perspective, as opposed to Anglo-American rock.                |
-| **Kraut** | Originally British slang. It was originally a derogatory term, but was later redefined as a word of pride.         |
+| **Kraut** | Originally British slang. It was originally a derogatory term, but it was later redefined as a word of pride.         |
 | **Motorik Groove** | The rhythm of "Ein-zwei-drei-vier...". A symbol of minimalism and euphoria.    |
 
 

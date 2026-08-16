@@ -93,7 +93,7 @@ DJ style changed with the spread of CDJ and PCDJ. Producers in New York are also
 
 ### 2010s: House Revival and Crossover
 - **Background**
-Behind the EDM boom, authentic NY house is being reevaluated. Deep house and classic garage are back in the spotlight.
+Behind the scenes of the EDM boom, authentic NY house is being reevaluated. Deep house and classic garage are back in the spotlight.
 - **Representative works**
 - Levon Vincent – ​​*NS-07* (2010)
 - DJ Qu – *Party People Clap* (2011)
@@ -120,9 +120,9 @@ After the pandemic, online streaming and virtual clubs have become popular. NY h
 ### Representative DJ/Producer
 
 -Larry Levan
-- Frankie Knuckles (Connecting Chicago and New York)
+- Frankie Knuckles (Connecting Chicago and NY)
 - Masters at Work (Louie Vega & Kenny Dope)
-- David Morales  
+-David Morales
 - Tony Humphries
 - Kerri Chandler
 - Barbara Tucker (important as a singer)
@@ -133,11 +133,11 @@ After the pandemic, online streaming and virtual clubs have become popular. NY h
 
 ### Representative Club (NYC)
 
-- **Paradise Garage（1977–1987）**  
+- **Paradise Garage (1977–1987)**
 Larry Levan's legendary home. The starting point for NY House.
 
 - **The Loft**
-  David Mancusoが主催。プライベートパーティ文化の源流。  
+Hosted by David Mancuso. The origin of private party culture.
 
 - **Sound Factory (1989–1995)**
 Junior Vasquez is a resident. Symbolizing the golden age of vocal house in the 90s.

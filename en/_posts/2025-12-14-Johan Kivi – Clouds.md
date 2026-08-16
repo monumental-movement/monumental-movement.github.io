@@ -16,7 +16,7 @@ Johan Kivi is a Trance producer from Sweden. He was also active in the progressi
 
 "Clouds" is a trance track released in 2004 by the UK trance/hard trance label Inspired Records.
 
-Bは、スウェーデン出身のKaveh Aziziによるremix。
+B is a remix by Kaveh Azizi from Sweden.
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ A. Clouds (Original)
 B. Clouds (Kaveh Azizi Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56714960126?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m56714960126?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_iHjGKLPKPs?si=e7GBv53eEV4EEtRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

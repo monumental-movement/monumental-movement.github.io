@@ -140,13 +140,13 @@ sequenceDiagram
 * **Stereo image**: The feeling of being surrounded by the spread of left and right sound images
 * **Minimize tempo changes**: Avoid sudden changes and maintain a meditative flow
 
-> Technological innovations maintain immersion in the sound space and mental space
+> Technical innovations maintain immersive sound space and mental space
 
 ---
 
 ## The spread of streaming culture and playlists
 
-Since the 2010s, Lo-Fi Hip Hop/Ambient Rap playlists have expanded on Spotify and YouTube. The tags ""Concentration," ""Meditation," and ""Work'' allow listeners to access songs without hesitation.
+Since the 2010s, Lo-Fi Hip Hop/Ambient Rap playlists have expanded on Spotify and YouTube. The tags ""concentration," ""meditation," and ""work use'' allow listeners to access songs without hesitation.
 
 <div class="mermaid">
 pie
@@ -157,7 +157,7 @@ pie
     "その他":10
 </div>
 
-> Digital distribution personalizes the music experience and accelerates the proliferation of meditation spaces
+> Digital distribution has personalized the music experience and accelerated the proliferation of meditation spaces
 
 ---
 

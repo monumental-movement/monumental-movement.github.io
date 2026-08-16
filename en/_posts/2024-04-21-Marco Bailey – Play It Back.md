@@ -17,7 +17,7 @@ Marco Bailey is a producer and DJ from Belgium. He runs the label PORNOGRAPHIC w
 
 In 2023, he founded the techno label Elektronik Zoo Sounds.
 
-「Play It Back」は、Redhead（レッドヘッド）ことSteve Vangilbergenと共同プロデュースしたテクノ・エレクトロトラック。
+"Play It Back" is a techno electro track co-produced with Steve Vangilbergen, also known as Redhead.
 
 Released in 2000 on Intec Records, a techno label founded by Carl Cox and DJ C1.
 

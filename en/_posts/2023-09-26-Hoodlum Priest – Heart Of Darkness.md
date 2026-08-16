@@ -41,7 +41,7 @@ As the name suggests, "Heart of Darkness" is a song that deals with the inner co
 10. Rebel Angel
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35353871687?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m35353871687?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dF-y7RQTBtc?si=TPzxiNWv6M3Ip7nl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

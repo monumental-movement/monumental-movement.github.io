@@ -73,7 +73,7 @@ C --> D[intraoral resonance]
 D --> E[change in sound]
 </div>
 
-Since the reed's vibration frequency is constant, changes in pitch are primarily caused by the manipulation of overtones. Performers control the tone by emphasizing specific overtones by changing the shape of their mouth and the position of their tongue.
+Since the reed's vibration frequency is constant, changes in pitch are mainly created by manipulating overtones. Performers control the tone by emphasizing specific overtones by changing the shape of their mouth and the position of their tongue.
 
 This mechanism is common with mouth harps from other regions (such as those in Mongolia and Europe), but the mukkuri is characterized by a particularly soft and delicate sound.
 
@@ -118,7 +118,7 @@ On the other hand, common points include the use of body resonance and timbre ch
 
 From this comparison, it can be seen that even among the universal musical instruments known as the mouth harp, the mukkuri has a form that is particularly closely connected to daily life.
 
-> Mukkuri is a musical instrument that is closely connected to daily life in the global mouth harp culture.
+> Mukkuri is a musical instrument closely connected to daily life in the global mouth harp culture.
 
 ---
 
@@ -126,7 +126,7 @@ From this comparison, it can be seen that even among the universal musical instr
 
 With the progress of modernization, Ainu culture underwent major changes. Mukkuri is no exception, and at one point its tradition was on the verge of extinction.
 
-However, from the latter half of the 20th century onwards, mukkuri began to be reevaluated amidst the movement for cultural revival. It is once again attracting attention as it is increasingly being performed in education, tourism, and the performing arts.
+However, from the latter half of the 20th century onwards, mukkuri began to be reevaluated amidst the movement for cultural revival. Opportunities for it to be performed in education, tourism, and performing arts have increased, and it is once again attracting attention.
 
 Furthermore, with the development of recording technology, the sound of Mukkuri has spread both domestically and internationally, and its value as folk music has come to be recognized.
 
@@ -175,9 +175,9 @@ In modern society, the mukkuri has come to mean more than just a traditional mus
 
 As digital music and electronic sounds become mainstream, body-based sounds like Mukkuri present contrasting values. There is immediacy, chance, and individuality.
 
-Furthermore, the way that rich acoustics can be created from a minimalist structure is highly suggestive for contemporary music production.
+Furthermore, the fact that it produces rich acoustics from a minimalist structure has many implications for contemporary music production.
 
-The idea of ​​""drawing out" rather than ""creating" sound provides an opportunity to reconsider the fundamental nature of music.
+The idea of ​​""drawing out" sound rather than ""creating" it is an opportunity to reconsider the fundamental nature of music.
 
 > Mukkuri is a presence that makes us reconsider the origins of music in modern times.
 

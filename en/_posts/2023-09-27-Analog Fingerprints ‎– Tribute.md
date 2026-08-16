@@ -16,7 +16,7 @@ The A-side of "Tribute" by Analog Fingerprints is a bumpy electro house track wi
 
 Analog Fingerprints' real name is Marco Passarani.
 
-イタリアのDJであり、プロデューサーです。
+Italian DJ and producer.
 
 #### Tracklist
 ```md

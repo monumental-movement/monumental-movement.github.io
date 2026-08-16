@@ -20,7 +20,7 @@ title: '[Column] Galaxie - The route of explosive rock and roll that ran through
 
 Text: mmr | Theme: Galaxie, who combined French rock and garage spirit, pushed forward into the Quebec music scene with their own unique energy. Tracing the history and cultural background of that roaring sound
 
-ケベック独自の文化と言語環境の中で、爆音ロックを武器に存在感を放ったGalaxieの軌跡を通して、2000年代以降のフランス語ロックの変化を読み解く。
+We will decipher the changes in French rock since the 2000s through the trajectory of Galaxie, who made their presence known through their explosive rock music in Quebec's unique cultural and linguistic environment.
 
 
 ---
@@ -50,7 +50,7 @@ Their sound is difficult to describe in one word.
 
 - Garage Rock Roughness
 - Heaviness of alternative rock
-- ストーナー的な低音
+- stoner bass
 - And some punk-like straight-line ability
 
 They were ringing them in French.
@@ -62,31 +62,31 @@ While working as a guitarist, singer, and songwriter, he also became deeply invo
 
 Galaxie originally started out under the name "Galaxie 500". However, to avoid name conflicts with the legendary American dream pop band, they later changed their name to simply "Galaxie".
 
-だが名前が変わっても、その音は変わらなかった。
+But even though the name changed, the sound remained the same.
 
 - roar
 - Feeling of running
 - Sweat odor
 - and a sense of celebration
 
-彼らは“洗練されたロック”ではなく、“鳴らすことで生きるロック”を提示していたのである。
+They were not presenting ""sophisticated rock," but ""rock that lives by playing."
 
 <div class="mermaid">
 graph LR
-A[1990年代末のケベック・ロック] --> B[Influence of English-speaking indies]
+A[Quebec rock in the late 1990s] --> B[Influence of English-speaking indies]
 A --> C[french rock culture]
-B --> D[ガレージ/オルタナ影響]
+B --> D[Garage/alternative influence]
 C --> D
 D --> E[Birth of Galaxie]
 </div>
 
-> Galaxie was more than just a local rock band, it functioned as an amplification device for Quebec's cultural energy.
+> Galaxie was more than just a local rock band, it functioned as a device for amplifying Quebec's cultural energy.
 
 ---
 
 ## From Galaxie 500 to Galaxie
 
-### バンド結成の背景
+### Background of the band formation
 
 Galaxie's story begins in the late 1990s.
 
@@ -151,7 +151,7 @@ D --> E[Renamed to Galaxie]
 E --> F[Establish your own route]
 </div>
 
-> The name change was not just a legal process, but an event that made the band's outline stand out even more strongly.
+> The name change was not just a legal process, but an event that made the outline of the band even more pronounced.
 
 ---
 
@@ -259,7 +259,7 @@ Even when recorded in a studio, it feels like sweat is flying from the speakers.
 
 This was also unique in terms of production.
 
-The focus was on the sound of the amp and the atmosphere rather than excessive digital processing.
+Rather than excessive digital processing, the focus was on the sound of the amp and the atmosphere.
 
 ### Fusion with electronic elements
 
@@ -316,7 +316,7 @@ The audience reacts physically before analyzing it.
 - Alcohol goes on
 - shout
 
-It was rock"n"roll's most primitive feature.
+It was the most primitive feature of rock and roll.
 
 Especially in Quebec, it was valuable to have such a direct, explosive rock sound in French.
 
@@ -344,22 +344,22 @@ Olivier Langevin is more than just a frontman.
 He is an influential figure in the Quebec music scene as a whole.
 
 - Guitarist
-- シンガー
-- 作曲家
+- Singer
+- Composer
 - Producer
 
 While holding multiple roles, he has been involved with many artists.
 
 As a result, Galaxie's sound has a sense of connection to the entire scene.
 
-孤立したバンドではなく、ケベック音楽共同体の一部として存在していたのである。
+Rather than being an isolated band, they existed as part of the Quebec musical community.
 
 ### Characteristics of sound creation
 
 Langevin's guitars are very distinctive.
 
 - heavy
-- ざらついている
+- Rough
 - But there is a core.
 
 It's different from simple heavy rock.
@@ -372,10 +372,10 @@ As a result, a Galaxie recording feels like an entire room vibrating, rather tha
 
 <div class="mermaid">
 graph LR
-A[Olivier Langevin] --> B[ギタリスト]
+A[Olivier Langevin] --> B[guitarist]
 A --> C[songwriter]
 A --> D[producer]
-A --> E[シーン形成]
+A --> E[scene formation]
 </div>
 
 > Without Olivier Langevin, the phenomenon of Galaxie would not have existed.
@@ -390,7 +390,7 @@ There are many important artists in Quebec's musical history.
 
 - fork
 - chanson
-- プログレ
+- Progressive rock
 - indie
 
 Among them, Galaxie carved out a position as the ""French version of explosive rock''.
@@ -399,11 +399,11 @@ This was a surprisingly important role.
 
 French rock sometimes tends to lean too much towards artistry.
 
-But Galaxie didn't give up on the sweat smell.
+However, Galaxie did not give up its sweaty smell.
 
 - Rings at the bar
 - Plays loudly in the car
-- ライブで暴れる
+- Go crazy live
 
 They maintained this physical rock culture.
 
@@ -427,7 +427,7 @@ However, its influence within the scene is extremely large.
 
 <div class="mermaid">
 flowchart LR
-A[quebec traditional music] --> B[1990年代インディー]
+A[quebec traditional music] --> B[1990s indie]
 B --> C[Galaxie]
 C --> D[next generation french rock]
 </div>
@@ -438,15 +438,15 @@ C --> D[next generation french rock]
 
 ## Chronology
 
-### Galaxie主要年表
+### Galaxie Main Chronology
 
-| 年代 | 出来事 |
+| Years | Events |
 |---|---|
 | Late 1990s | Started as Galaxie 500 |
 | Early 2000s | Attracting attention in the Quebec rock scene |
 | After name change | Name changed to "Galaxie" |
 | 2000s | Album release and expansion of tour activities |
-| 2010年代 | ケベックを代表するライブバンドとして定着 |
+| 2010s | Established as Quebec's leading live band |
 | 2020s | Maintaining continued influence on the scene |
 
 > Galaxie's history was also the process by which Quebec rock connected from local culture to contemporary North American rock.
@@ -457,7 +457,7 @@ C --> D[next generation french rock]
 
 ### The strength of staying local
 
-Galaxieは世界的巨大スターではない。
+Galaxie is not a huge global star.
 
 However, it has been supported for a long time.
 
@@ -465,7 +465,7 @@ The reason is clear.
 
 This is because they did not lose their "place."
 
-- ケベック
+- Quebec
 - French
 - Live
 - Explosive sound
@@ -520,10 +520,10 @@ When I listen to Galaxie's music, I can see the scenery.
 
 It's not just a rock.
 
-ケベックという場所の温度そのものだ。
+It's the temperature of a place called Quebec.
 
 They didn't have big ideas.
-It"s not like he"s bringing difficult concepts to the fore.
+Nor does it bring to the fore difficult concepts.
 
 However, it continued to run with a bang.
 
@@ -531,7 +531,7 @@ As a result, Galaxie has earned a special place in Quebec rock history.
 
 And even today, their sound continues to resonate as "living rock."
 
-> Galaxieの軌跡は、地域文化とロックンロールが衝突した時に生まれる強烈なエネルギーの記録だった。
+> Galaxie"s trajectory was a record of the intense energy created when local culture and rock"n'roll collided.
 
 ---
 

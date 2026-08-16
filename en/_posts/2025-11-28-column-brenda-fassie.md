@@ -23,10 +23,10 @@ title: '[Column] Brenda Fassie — The township diva: A journey of glory and str
 
 # Introduction
 
-Text: mmr | Theme: Brenda Fassie (1964–2004), a songstress from a township in South Africa. Glory and setbacks, politics and private life -- trace his life and legacy based on facts
+Text: mmr | Theme: Brenda Fassie (1964–2004), a songstress from a township in South Africa. Glory and setbacks, politics and private life -- his life and legacy based on facts
 
 
-This book carefully traces her journey, which was raised in a township and led South African popular music from the 1980s to the 2000s, with a chronology, diagrams, and song explanations.
+This book carefully traces her journey, which was raised in a township and led South African popular music from the 1980s to the 2000s, with chronology, charts, and song explanations.
 
 
 ---
@@ -92,7 +92,7 @@ He then became the lead singer of Brenda and the Big Dudes, and soon gained nati
 
 # 4. National success and masterpieces (1983–1990)
 
-1980年代を通じて、彼女は数々のシングルとアルバムを発表し、南アフリカにおける黒人ポップの代表的存在となりました。彼女の表現は、舞台衣装や振付、観客を巻き込むパフォーマンス性に富み、メディアやコンサート動員の面でも高い人気を誇りました。
+Throughout the 1980s, she released a number of singles and albums and became a leading figure in black pop in South Africa. Her expressions were rich in stage costumes, choreography, and performances that involved the audience, and were highly popular in terms of media and concert mobilization.
 
 Some of the representative songs
 
@@ -140,7 +140,7 @@ Stage costumes, facial expressions, and performance direction are also part of h
 
 In April 2004, Brenda collapsed at home and was taken to the hospital. After several days of treatment, he passed away on May 9th. There were multiple reports on the cause of death, but the final report was that asthma attacks and complications were contributing factors.
 
-Her death sent a deep shock through the South African music world, with tributes pouring in from home and abroad. A posthumous best-of compilation and retrospective compilation preserves Brenda's music for generations of artists and listeners. In some cases, her sons and musical students continue her legacy.
+Her death had a deep impact on the South African music world, with tributes pouring in from home and abroad. A posthumous best-of compilation and retrospective compilation preserves Brenda's music for generations of artists and listeners. In some cases, her sons and musical students continue her legacy.
 
 ---
 
@@ -171,7 +171,7 @@ flowchart TB
 
 ---
 
-# 12. 代表曲解説
+# 12. Representative song explanation
 
 * **Weekend Special** — An early classic. It was well-received by a wide range of audiences due to its shuffling rhythm and catchy chorus.
 * **Too Late for Mama** — An emotional ballad. The narrative nature of the lyrics and lyrical vocals are impressive.
@@ -184,7 +184,7 @@ flowchart TB
 
 Brenda's accomplishments go beyond musical success with cultural and social impact. She pushed the voices of the township and black communities to the center of pop music, contributed to LGBTQ visibility, and paved the way for the next generation of black female artists.
 
-On the other hand, reports about drug problems and scandals also provided material to show the bright and dark sides of stars. Today, she remains an iconic figure in South African music history.
+On the other hand, reports about drug problems and scandals also showed the stars' bright and dark sides. Today, she remains an iconic figure in South African music history.
 
 ---
 

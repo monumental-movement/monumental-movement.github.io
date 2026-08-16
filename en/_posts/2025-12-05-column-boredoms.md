@@ -23,7 +23,7 @@ Text: mmr｜Theme: Following the evolution of Boredoms, and how their work form,
 In the history of Japanese music, **Boredoms** occupy a unique position as an entity that cannot be fully explained in any context.
 Formed in Osaka in the late 1980s, they went on to influence musicians around the world, morphing into noise, hardcore, avant-garde, psychedelia, and later rhythm ensembles.
 
-Boredomsはジャンルを越境するため、単純な歴史叙述では捉えられない。しかしその活動は確かに時代と連動し、同時に時代と断絶していた。  
+Because Boredoms transcends genre boundaries, it cannot be captured in a simple historical narrative. However, their activities were certainly linked to the times, and at the same time disconnected from them.
 
 ---
 
@@ -32,7 +32,7 @@ Boredomsはジャンルを越境するため、単純な歴史叙述では捉え
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## 第1章：結成前史と大阪アンダーグラウンドの地層
+## Chapter 1: Pre-formation history and strata of Osaka Underground
 In the 1980s, Osaka had a unique underground culture that was different from that of Tokyo. A mix of theaters, abandoned buildings, and live music venues created many places where the boundaries between punk, hardcore, noise, and performance art were blurred. **Yamatsuka Ai**, the core member of Boredoms, sought out her own expression while absorbing this cluttered environment.
 
 In his early years, Ai's activities were strongly performance-oriented, and he practiced not only sound, but also body movement, objects, and collage-like expressions.
@@ -59,7 +59,7 @@ flowchart TD
 
 
 
-Hanatarash's live performances are known for their extremeness, and their dangerous behavior, such as bringing in heavy machinery, has sometimes been called into question. This extreme violence and expressive impulse later morphed into the "controlled chaos" of Boredoms.
+Hanatarash's live performances are known for their extremeness, and their dangerous behavior, such as bringing in heavy machinery, has sometimes been called into question. This extreme violence and expressive impulse later transformed into the "controlled chaos" of Boredoms.
 
 ---
 
@@ -93,9 +93,9 @@ Live performances during this period were always unpredictable and the action on
 
 ---
 
-## 第3章：90年代のサイケデリック期と構築性の獲得（1990–1999）
+## Chapter 3: The psychedelic period of the 90s and the acquisition of constructedness (1990–1999)
 
-### 3-1. 『Super æ』への到達
+### 3-1. Reaching "Super æ"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FK4JAnszGvk?si=0ggxJZxjvvvp-Nrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -132,7 +132,7 @@ As a result, his works in the late 1990s changed to a "vortex of light" sound, a
 
 In the early 2000s, a major change occurred in the membership composition.
 The guitarist and bassist were left out, and the lineup moved toward a new structure centered around "drums and percussion."
-The multi-layered style of drums and percussion centered around Yoshimi P-We would become the hallmark of Boredoms.
+The multi-layered style of drums and percussion centered around Yoshimi P-We would later become a characteristic of Boredoms.
 
 ### 4-2. New phase with "Seadrum / House of Sun"
 
@@ -159,7 +159,7 @@ In the 2000s, Boredoms entered into new developments including the name **V∞re
 
 <div class="mermaid">
 flowchart TD
-    A["中央：Eye（指揮）"] --> B["Drum ring (multiple layers)"]
+    A["Center: Eye (conductor)"] --> B["Drum ring (multiple layers)"]
     B --> C["Polyrhythm"]
     C --> D["Sustaining elation"]
     D --> E["360 degree experience"]
@@ -194,7 +194,7 @@ OOIOO is a project started by **Yoshimi P-We** in the late 1990s, and although i
 flowchart TD
     A["Ethnic rhythm"] --> X["OOIOO"]
     B["Polyrhythm"] --> X
-    C["Environmental Sound Research"] --> X
+    C["Environmental sound research"] --> X
     D["Building a female ensemble"] --> X
 </div>
 
@@ -219,7 +219,7 @@ Since the early 1990s, Ai has been using turntables and cassettes as materials, 
 ## 7.3 Inclination to Rhythm (2000s)
 During the bore drum period, Ai's interest shifted greatly to the physical aspects of rhythm, and his role as a conductor became central.
 
-### Eye expression evolution
+### Evolution of Eye expression
 
 <div class="mermaid">
 flowchart TD
@@ -275,7 +275,7 @@ timeline
 ---
 
 ## Final chapter: Boredoms is an "expanding universe"
-Boredoms is not just a band, but a "place itself" that changes shape over time.
+Boredoms is more than just a band, it can be said to be a "place itself" that changes its shape over time.
 Ai"s philosophical perspective, Yoshimi"s physical rhythm, and the uniqueness of each member are intricately intertwined, and the group has grown like one giant living organism.
 
 If you take a look at it, including the personal history of OOIOO and Eye, the activities of Boredoms continue to spread like a ""centerless vortex,'' and their influence continues to be referenced all over the world.

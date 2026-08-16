@@ -102,7 +102,7 @@ A --> B --> C --> D --> E
 
 ---
 
-## “西海岸サウンド”の制度化
+## Institutionalization of "West Coast Sound"
 
 This work is not just an album, but also **standardization of regional sound**.
 
@@ -120,11 +120,11 @@ These are fixed as music design principles.
 After ""The Chronic,'' hip-hop became clearly integrated into the industrial structure.
 
 * Label-driven production
-* プロデューサーブランド化
+*Producer branding
 * Standardization of sound
 * Transition from street to market
 
-ここで音楽は「表現」から「商品設計」へと変わる。
+Here, music changes from "expression" to "product design."
 
 ---
 
@@ -156,14 +156,14 @@ This album went beyond the conventional understanding that ""rap is the art of r
 
 ## Turning point in New York hip-hop
 
-1990年代初頭のヒップホップは、西海岸ではThe Chronicに象徴されるGファンクが大きな成功を収める一方、東海岸では新たな方向性が模索されていた。
+In the early 1990s, hip-hop was finding great success on the West Coast with G-funk, represented by The Chronic, while the East Coast was exploring new directions.
 
 Among them, "Illmatic" is not about flashy sound or commerciality,
 
 * Dense lime structure
 * Realistic depiction of the city
 * Jazz-derived sampling
-* 高度な言語感覚
+* Advanced language sense
 
 The aesthetic of New York hip-hop was rebuilt.
 
@@ -179,7 +179,7 @@ For production,
 *Pete Rock
 *Large Professor
 *Q-Tip
-*L.E.S.
+* L.E.S.
 
 participated.
 
@@ -199,7 +199,7 @@ The city becomes not a stage setting, but the work itself.
 
 <div class="mermaid">
 flowchart TD
-A[queensbridge]
+A[queens bridge]
 B[daily observations]
 C[poetic description]
 D[wrap]
@@ -213,20 +213,20 @@ A --> B --> C --> D --> E
 
 ## Inheritance of jazz thinking
 
-サウンド面では、ジャズやソウルのサンプルが巧みに用いられている。
+In terms of sound, jazz and soul samples are used skillfully.
 
 But it's not just about creating an atmosphere.
 
 jazz has
 
 * Improvisation
-* 間（ま）
+* between
 * Feeling of tension
 * Conversational groove
 
-を、ラップという形式へ翻訳しているのである。
+is translated into the form of rap.
 
-そのため『Illmatic』は、ヒップホップでありながら、ジャズ・アルバムにも通じる知的な緊張感を持っている。
+As a result, while ""Illmatic'' is a hip-hop album, it has an intellectual tension similar to that of a jazz album.
 
 ---
 
@@ -236,15 +236,15 @@ After this work, a good rapper is not just someone who can speak quickly and rhy
 
 * Good observer
 * Excellent writer
-* 優れたストーリーテラー
+* Great storyteller
 
 It has become necessary to be.
 
-この価値観は、その後のJay-Z、Kendrick Lamar、J. Coleなど、多くのMCへと受け継がれていく。
+These values ​​were passed on to many subsequent MCs, including Jay-Z, Kendrick Lamar, and J. Cole.
 
 ---
 
-## なぜ32位なのか
+## Why is it ranked 32nd?
 
 Illmatic is a work that elevates hip-hop from urban documentation to urban literature.
 
@@ -256,15 +256,15 @@ However, in this ranking, works that have changed the system and industrial stru
 
 ---
 
-# 第4回 Part3（33位）
+# 4th Part3 (33rd place)
 
 ## Ready to Die
 
 ### "The moment hip-hop became a movie"
 
-1994年9月13日に発表されたReady to Dieは、ヒップホップ・アルバムを楽曲集ではなく、一人の人間の人生を描く長編映画のような作品へと変えた歴史的な一枚である。
+Ready to Die, released on September 13, 1994, was a historic piece that transformed a hip-hop album from a collection of songs to a full-length film depicting one person's life.
 
-デビュー作でありながら、The Notorious B.I.G.は、自身の幼少期から犯罪、成功、葛藤、そして死の予感までを一つの物語として構築した。後の「コンセプト・アルバム」と呼ばれる作品群に多大な影響を与えた点でも、本作の歴史的意義は極めて大きい。
+Although it is his debut work, The Notorious B.I.G. constructs a story from his childhood, crime, success, conflict, and even a premonition of death. This work has great historical significance, as it had a great influence on the later works known as ""concept albums.''
 
 ---
 
@@ -282,16 +282,16 @@ This work ushered in a new golden age of New York hip-hop, combining street real
 
 The innovation of "Ready to Die" is not just in the perfection of each song.
 
-アルバムは一人の青年の人生を描くように構成されている。
+The album is structured to depict the life of one young man.
 
 *Birth
-* 貧困
-* 犯罪への接近
+* poverty
+* Access to crime
 * success
-* 孤独
+* Loneliness
 * Self-destruction
 
-楽曲同士が有機的につながり、リスナーは映画を観るように主人公の人生を追体験する。
+The songs are organically connected to each other, allowing the listener to relive the life of the main character as if watching a movie.
 
 <div class="mermaid">
 flowchart TD
@@ -311,9 +311,9 @@ A --> B --> C --> D --> E
 
 The Notorious B.I.G.'s greatest weapon is its outstanding storytelling.
 
-彼のラップは、派手な比喩や技巧だけで成立しているわけではない。
+His rapping isn't just about flashy metaphors and finesse.
 
-* 登場人物の心理
+* Psychology of characters
 * During the conversation
 * Scene change
 * Tension and relaxation
@@ -330,7 +330,7 @@ While the album features hits like "Juicy" and "Big Poppa," it maintains a consi
 
 This is hip hop
 
-* シングル中心の文化
+* Single-centered culture
 * Club-centric culture
 
 from,
@@ -343,7 +343,7 @@ It symbolizes the flow of maturation.
 
 ## Impact on posterity
 
-『Ready to Die』は、その後のヒップホップ作品に計り知れない影響を与えた。
+"Ready to Die" had an immense influence on subsequent hip-hop productions.
 
 especially,
 
@@ -351,7 +351,7 @@ especially,
 * good kid, m.A.A.d city
 *2014 Forest Hills Drive
 
-など、物語性を重視したアルバムには、本作の影響が色濃く見られる。
+The influence of this work can be seen strongly in albums that emphasize narrative.
 
 His accomplishments are also significant in establishing the ""first-person narrative'' in rap as an artistic expression.
 
@@ -359,9 +359,9 @@ His accomplishments are also significant in establishing the ""first-person narr
 
 ## Why is it ranked 33rd?
 
-『Ready to Die』は、ヒップホップ・アルバムを映画や長編小説のような総合芸術へと押し上げた作品である。
+""Ready to Die'' is a work that elevated the hip-hop album to a total art form, like a movie or a full-length novel.
 
-ただし、本ランキングでは、ジャンル全体の構造や制度を根本から変えた作品をより上位に位置付けているため、第33位とした。
+However, in this ranking, works that fundamentally change the structure and system of the genre as a whole are ranked higher, so it was ranked 33rd.
 
 Still, there is no doubt that this album is a historical milestone, establishing a new aesthetic for hip-hop that involves telling a story as an entire album.
 
@@ -377,13 +377,13 @@ Still, there is no doubt that this album is a historical milestone, establishing
 
 Enter the Wu-Tang (36 Chambers), released on November 9, 1993, is one of the most revolutionary group debuts in hip-hop history.
 
-Until then, rap groups generally consisted of several MCs sharing the roles. However, the Wu-Tang Clan completely overturned that idea.
+Until then, rap groups generally had several MCs sharing the roles. However, the Wu-Tang Clan completely overturned that idea.
 
 Nine MCs, each with their own individuality, formed one gigantic worldview—this ""hip-hop as a collective'' was a new expression that had never existed before.
 
 ---
 
-## ニューヨーク、スタテンアイランドからの革命
+## Revolution from Staten Island, New York
 
 In New York in the early 1990s, West Coast G-funk was enjoying commercial success, while the East Coast was searching for a new identity.
 
@@ -391,7 +391,7 @@ Wu-Tang Clan, who emerged from Staten Island, developed a rough-hewn, rough-hewn
 
 At the center of this was producer and MC RZA.
 
-彼は音楽だけでなく、グループの思想、ビジュアル、ビジネス戦略まで設計し、Wu-Tang Clanを単なるラップ・グループではなく、一つの文化圏として構築した。
+He not only designed the music, but also the group's ideology, visuals, and business strategy, building Wu-Tang Clan into a cultural sphere rather than just a rap group.
 
 ---
 
@@ -427,7 +427,7 @@ A bold combination of various materials.
 flowchart TD
 A[soul]
 B[jazz]
-C[カンフー映画]
+C[kung fu movies]
 D[lo-fi beat]
 E[Wu-Tang sound]
 
@@ -456,7 +456,7 @@ Furthermore, Wu-Tang Clan developed an unprecedented business model in which eac
 
 Wu-Tang Clan wasn't just about music.
 
-* ロゴデザイン
+* Logo design
 * Apparel
 * Merchandise
 * Collaboration with movies and games
@@ -495,14 +495,14 @@ This work proved that hip-hop can not only be a mirror reflecting society, but a
 
 In America in the late 1980s, when this work was created,
 
-* 人種間の緊張
-* 都市部の貧困
-* 「麻薬との戦争」に象徴される強硬な治安政策
-* メディアによるステレオタイプの再生産
+* Racial tensions
+* Urban poverty
+*Hard-line security policy symbolized by the "war on drugs"
+* Media reproduction of stereotypes
 
 Many social problems were brought to the fore.
 
-こうした状況の中で、Public Enemyはヒップホップを「娯楽」ではなく「公共空間での議論の場」として位置づけた。
+Under these circumstances, Public Enemy positioned hip-hop not as ""entertainment" but as ""a forum for discussion in public space."
 
 ---
 
@@ -517,7 +517,7 @@ Their sound was completely different from hip-hop.
 * Bold introduction of noise and scratches
 * Collage of sirens and news voices
 
-これらを緻密に組み合わせることで、都市の喧騒や社会の緊張感そのものを音響として表現した。
+By carefully combining these elements, we expressed the hustle and bustle of the city and the tension of society in the form of acoustics.
 
 <div class="mermaid">
 flowchart TD
@@ -538,13 +538,13 @@ D --> E
 
 ## Rap becomes a "speech"
 
-フロントマンであるChuck Dのラップは、従来のMCとは大きく異なる。
+Frontman Chuck D's rap style is very different from traditional MCs.
 
 His voice is not for singing, but for communicating.
 
 Her powerful, profound flows have a persuasive power reminiscent of the speeches of politicians and activists, and the songs resonate not as personal feelings but as statements for the entire community.
 
-一方で、Flavor Flavはユーモアや混沌を持ち込み、アルバム全体の緊張感に独特のダイナミズムを与えた。この対照的な二人の存在も、Public Enemyならではの表現を支えている。
+Flavor Flav, on the other hand, brought humor and chaos, giving the album"s overall tension a unique dynamism. The existence of these two contrasting artists also supports Public Enemy"s unique expression.
 
 ---
 
@@ -609,7 +609,7 @@ In hip-hop at the time, there were very few artists who could move between rappi
 The question here is
 
 * what is love
-* 家族とは何か
+* What is family?
 * Living as a woman
 *Fame and success
 * Faith and self-awareness
@@ -632,13 +632,13 @@ However, this album focuses on a warm sound that actively incorporates live musi
 * Jazz
 *hip hop
 
-それぞれの要素が無理なく溶け合い、一つの有機的な音楽世界を形成している。
+Each element blends effortlessly to form an organic musical world.
 
 <div class="mermaid">
 flowchart TD
 A[hip hop]
 B[R&B/Soul]
-C[ゴスペル]
+C[gospel]
 D[reggae]
 E[The Miseducation of Lauryn Hill]
 
@@ -653,11 +653,11 @@ D --> E
 
 ## Erase the boundary between "singing" and "rap"
 
-本作以前にも、歌うラッパーは存在した。
+There were rappers who sang before this work.
 
-しかしLauryn Hillは、ラップから歌へ、歌からラップへと、ごく自然に移行する。
+But Lauryn Hill transitions from rapping to singing and singing to rapping quite naturally.
 
-その切り替えは技術の誇示ではなく、感情の流れに従って行われる。
+The switch is not made to show off technique, but to follow the flow of emotion.
 
 This approach was later
 
@@ -690,7 +690,7 @@ Furthermore, his expression of sublimating personal experiences into universal s
 
 In this ranking, works that have changed the structure of the entire genre are ranked higher, so we placed it at 36th place.However, this work represents a major turning point in the history of music, as it shows a new sense of values: ""An artist is not an entity that fits into one genre.''
 
-> 「『The Miseducation of Lauryn Hill』は、ヒップホップ、ソウル、R&Bを一人の表現者の中で統合し、歌とラップの境界を消滅させた。その革新性により本ランキング第36位に位置付ける。」
+> "'The Miseducation of Lauryn Hill' integrates hip-hop, soul, and R&B in a single performer, erasing the boundaries between singing and rapping. Due to its innovation, it ranks No. 36 in this ranking."
 
 ---
 
@@ -739,16 +739,16 @@ Rather than simply playing accompaniment, they actively incorporated improvisati
 
 ## The whole album is a story
 
-『To Pimp a Butterfly』は、楽曲ごとの完成度だけではなく、アルバム全体で一つの物語を形成している。
+""To Pimp a Butterfly'' is not just about the perfection of each song, but the album as a whole forms a story.
 
-主人公は成功を手にする一方で、
+While the protagonist achieves success,
 
 * Self-denial
-* 名声への恐怖
+* Fear of fame
 * Disconnection from society
 * Dialogue with history
 
-を経験しながら、自らの存在意義を探し続ける。
+While experiencing this, he continues to search for the meaning of his existence.
 
 The poems that are read little by little throughout the work come to a complete form in the final part, and the entire album comes to fruition as a magnificent epic poem.
 
@@ -785,9 +785,9 @@ has evolved into a comprehensive production system that involves equal participa
 
 ## Impact on posterity
 
-『To Pimp a Butterfly』は、ヒップホップが社会問題を語るだけではなく、歴史、哲学、文学、美術、ジャズといった多様な文化を横断できる芸術形式であることを示した。
+""To Pimp a Butterfly'' showed that hip-hop is an art form that not only speaks to social issues, but can traverse diverse cultures such as history, philosophy, literature, art, and jazz.
 
-また、アルバム単位で思想を展開するという姿勢は、多くの現代アーティストに影響を与えた。
+In addition, his attitude of developing his ideas on an album-by-album basis influenced many contemporary artists.
 
 Furthermore, full-fledged collaboration with jazz musicians subsequently greatly shortened the distance between hip-hop and jazz, accelerating the trend of cross-genre production.
 
@@ -828,7 +828,7 @@ The biggest feature of "Yeezus" is its extreme minimalism.
 In traditional hip hop,
 
 *Thick sampling
-* 複数の楽器レイヤー
+* Multiple instrument layers
 * Luxury arrangement
 
 The sound image was created by
@@ -836,7 +836,7 @@ The sound image was created by
 However, in this work,
 
 * One synth
-* 無機質なドラム
+* Inorganic drum
 * Intentional blank space
 * Sudden noise
 
@@ -868,7 +868,7 @@ As a result, ""Yeezus'' has come to be praised as both a rap album and an experi
 flowchart TD
 A[hip hop]
 B[techno]
-C[インダストリアル]
+C[industrial]
 D[minimalism]
 E[Yeezus]
 
@@ -892,7 +892,7 @@ This is not a lack of production, but a design philosophy.
 * Rhythm changes rapidly
 * Dissonance not resolved
 
-These elements are placed to give the listener a sense of tension and discomfort, rather than a comfortable listening experience.
+These elements are placed to give the listener a sense of tension and discomfort, rather than a comfortable viewing experience.
 
 In other words, the purpose of this work is not to ""bring things together beautifully," but to ""shake the order."
 
@@ -908,11 +908,11 @@ In the late 2010s,
 * Distorted synth sounds
 * Industrial texture
 * Excessive autotune
-* ノイズを積極的に用いるアレンジ
+* Arrangements that actively use noise
 
 It also spread widely into pop and R&B.
 
-さらに、ラップと電子音楽を対等に融合する制作手法は、多くのプロデューサーやアーティストの発想を変える契機となった。
+Furthermore, the production method that equally fused rap and electronic music became an opportunity to change the way many producers and artists thought.
 
 ---
 
@@ -996,7 +996,7 @@ Autotune had been used before this work, but mostly for pitch correction and spe
 
 In ""808s & Heartbreak," it functions as a ""voice that conveys emotion."
 
-Far from losing its human touch, the processed voices now emphasize the contours of emotion.
+Far from losing its human touch, the processed voice now emphasizes the contours of emotion.
 
 This idea completely changed subsequent hip-hop and R&B.
 
@@ -1013,7 +1013,7 @@ especially,
 *Future
 *The Weeknd
 *Travis Scott
-* Post Malone
+*Post Malone
 *Juice WRLD
 
 Artists who represent contemporary hip-hop and melodic rap, such as ""Hip-Hop" and ""Melodic Rap," have said that they have been directly influenced by this work.
@@ -1138,7 +1138,7 @@ Since this success,
 
 Cities in the southern United States began to produce world-class artists one after another.
 
-Eventually, the South would become the biggest creative center for hip-hop in the 21st century.
+Eventually, the South would become the greatest creative center for hip-hop in the 21st century.
 
 ---
 

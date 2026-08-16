@@ -62,11 +62,11 @@ Rather than showing off their musical instrument playing skills, they created ne
 
 ### Pop Reconstruction
 
-In the late 1970s and 1980s, The Residents moved toward more conceptual work. In particular, ""Eskimo'' (1979) is an album that combines narrative and sound sculpture, and is located at the intersection of environmental sounds and narrative rather than music.
+From the late 1970s to the 1980s, The Residents progressed towards more conceptual works. In particular, ""Eskimo'' (1979) is an album that combines narrative and sound sculpture, and is located at the intersection of environmental sounds and narrative rather than music.
 
 In ""The Commercial Album'' (1980), he experimented with keeping all 40 songs to about one minute, which included a critique of advertising culture. This was a structure that took advantage of the format of TV commercials at the time, and was also an attempt to expose the consumer nature of pop music.
 
-Their works constantly question "form itself." The unit of album, song length, and genre boundaries are all subject to manipulation.
+Their works constantly question "form itself." The album unit, song length, and genre boundaries are all subject to manipulation.
 
 > For them, music was nothing more than a material for dismantling structures.
 

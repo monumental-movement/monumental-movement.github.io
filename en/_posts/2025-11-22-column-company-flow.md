@@ -112,7 +112,7 @@ The following are particularly noticeable.
 ### ● 3. Symbol of indie success
 
 ""Funcrusher'' became an underground word-of-mouth hit,
-It will reach the ears of the people involved with the emerging label **Rawkus Records**.
+It will reach the ears of those involved with the emerging label **Rawkus Records**.
 
 ---
 
@@ -168,13 +168,13 @@ Sharp scratches are placed throughout the mix, reinforcing the hard feel of the 
 
 ## 2. Lyric direction
 
-El-P と Bigg Jus は、次のトピックを頻繁に扱う。
+El-P and Bigg Jus frequently address the following topics:
 
 * Criticism of the corporatized music industry
 * Defending autonomy and creativity
 * Political and social metaphors
 * Suspicion of technology and power structures
-* 実験的・抽象的な語り口
+* Experimental/abstract narrative style
 
 The song that had a particularly big influence here was ""The Fire in Which You Burn''.
 
@@ -189,28 +189,28 @@ This song is known as a song that symbolizes the message of Company Flow.
 
 ---
 
-## ● 曲のテーマ
+## ● Song theme
 
 **Hacker culture/surveillance society/information manipulation/individual freedom and resistance**
-これらが複雑な比喩で提示される。
+These are presented in complex metaphors.
 
-リリックの内容は以下の方向性を含む（※事実の範囲内で要点のみ）：
+The content of the lyric includes the following directions (*Only the main points within the scope of the facts):
 
-* 監視社会の構造を批判
+* Criticize the structure of the surveillance society
 * Be wary of the individual's position in the age of information warfare
 * The dangers of combining technology and power
 * The perspective that artists themselves can be subject to surveillance
-* 政治・産業の複合体に対する拒絶と警告
+* Rejection and warning against the political-industrial complex
 
 Word choice is not direct propaganda;
-緻密な比喩と抽象表現で構成されている。
+It is composed of elaborate metaphors and abstract expressions.
 
 ---
 
 ## ● Sound composition
 
-* 低く唸るようなベース
-* 不穏なサンプル・ループ
+* Low, growling bass
+* Ominous sample loop
 * Intermittent synth noise
 * Detailed percussion with MPC chop
 * A mix of cool textures throughout
@@ -222,28 +222,28 @@ Word choice is not direct propaganda;
 ""The Fire in Which You Burn'' is highly acclaimed for the following reasons:
 
 * Representative songs that clearly demonstrate the politics of Company Flow
-* El-P のサウンドデザイン能力の高さが顕著
+* El-P's sound design ability is remarkable.
 * Contents that symbolize underground hip-hop in the late 90s
-* 後の Def Jux 作品（Cannibal Ox など）の原型要素が多数みられる
+* Many prototype elements of later Def Jux works (Cannibal Ox, etc.) can be seen.
 
-この曲を中心に、『Funcrusher Plus』が“思想としてのアンダーグラウンド”を確立したと言われる。
+It is said that ""Funcrusher Plus" established an ""underground ideology" around this song.
 
 ---
 
 # Chapter 7: Divergence with Rawkus and return to independence (1998–1999)
 
-『Funcrusher Plus』は成功したが、Rawkus が規模拡大・資本提携を進める中で、
+""Funcrusher Plus'' was a success, but as Rawkus continued to expand its scale and form capital alliances,
 Company Flow has prioritized **maintaining artist autonomy**.
 
 Differences of opinion with the label gradually grew,
-1999年、彼らは Rawkus Records を離脱する。
+In 1999, they left Rawkus Records.
 
-「メジャー的な体制」と距離を置き、
+Keeping distance from "major systems",
 Turning to indie again was an event that defined Company Flow's aesthetic.
 
 ---
 
-# 第8章：『Little Johnny from the Hospitul』——インストによる実験（2000）
+# Chapter 8: "Little Johnny from the Hospital"——Instrumental experiment (2000)
 
 In 2000, Company Flow was an instrumental album.
 **"Little Johnny from the Hospital: Breaks & Instrumentals Vol.1"** is released.
@@ -252,27 +252,27 @@ This work has the following characteristics.
 
 ### ● Complete installation
 
-ラップを排除し、El-P のビート美学が前面化。
+Eliminating rap, El-P's beat aesthetic comes to the fore.
 
-### ● 実験性の拡大
+### ● Expansion of experimentation
 
-* DJシャウトを排除
+* Eliminates DJ shout
 * BPM, structure, and number of layers are more complex than before
-* エレクトロニックな要素が増加
+* Increased electronic elements
 * Mixing Lo-Fi and Hi-Fi textures
 
 ### ● Prototype of later El-P solo works
 
-音響的な未来志向が顕著で、後の Def Jux 作品の音像に直結する。
+The sound is clearly future-oriented, and has a direct connection to the sound image of later Def Jux works.
 
 ---
 
 # Chapter 9: Suspension of activities and progress of members (2001–)
 
 Around 2001, Company Flow became inactive.
-これは明確な「解散宣言」ではないが、事実上の活動終了と見なされる。
+Although this is not a clear "declaration of dissolution," it is considered the de facto end of their activities.
 
-その後のメンバーの歩みは以下の通り。
+The progress of the members since then is as follows.
 
 ---
 
@@ -291,7 +291,7 @@ It achieved worldwide success and led to a re-evaluation of the Company Flow per
 
 ## ● Bigg Jus
 
-政治性・芸術性の高いソロ作品を継続。
+Continues to produce solo works with high political and artistic characteristics.
 He is also involved in visual art and community projects.
 
 ---
@@ -309,7 +309,7 @@ Many mix works and collaborations.
 | ---- | ------------------------------- | ---------- | --------------------- |
 | 1995 | Juvenile Techniques | 12-inch single | Official Recordings |
 | 1996 | Funcrusher | EP | Official Recordings |
-| 1997 | Funcrusher Plus                 | アルバム       | Rawkus Records      |
+| 1997 | Funcrusher Plus | Album | Rawkus Records |
 | 2000 | Little Johnny from the Hospital | Instrumental album | Rawkus Records |
 
 ---
@@ -356,10 +356,10 @@ It showed that even indie works can create cultural standards.
 
 ---
 
-## ● 2. “思想としてのアンダーグラウンド”の確立
+## ● 2. Establishment of "underground as an idea"
 
 It's not just a low-budget production,
-It embodies the underground as an idea that is independent of commercialism.
+It embodied the underground as an ""thought independent of commercialism.''
 
 ---
 
@@ -379,7 +379,7 @@ This led to experimental artists such as
 
 ## ● 4. "Anti-establishment aesthetics" that continues to the present day
 
-The songs, including "The Fire in Which You Burn,"
+A group of songs including "The Fire in Which You Burn"
 He has been dealing with themes such as power/surveillance/information warfare since the 1990s.
 He presented a perspective that is still relevant even after more than 20 years.
 
@@ -402,7 +402,7 @@ All of this became clear through their activities.
 Especially as symbolized by **The Fire in Which You Burn**.
 They were ahead of the changing times and left behind insights that are relevant today.
 
-Company Flow は短い期間しか活動していない。
+Company Flow has only been active for a short period of time.
 However, the horizons they opened,
 It continues to be a defining and essential value in the history of hip-hop.
 
@@ -411,7 +411,7 @@ It continues to be a defining and essential value in the history of hip-hop.
 
 ### YouTube Podcast
 
-※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g8thlyfVW-s?si=qZtLW7LfwASeERMe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

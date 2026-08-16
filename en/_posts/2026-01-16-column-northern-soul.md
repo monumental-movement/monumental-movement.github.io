@@ -47,7 +47,7 @@ color: #fff;
 
 The background to the birth of Northern Soul was the regional disparities that plagued British society in the 1960s and the transformation of youth culture. In the south, centered on London, mod, psychedelic, and later rock culture became visible, while in the industrial metropolitan areas of the north, there was a different kind of interest in black American music.
 
-マンチェスター、ウィガン、ブラックプール、シェフィールドといった都市では、労働者階級の若者たちが週末の夜にクラブへ集い、長時間にわたって踊り続ける文化が定着していく。そこでは最新のヒット曲よりも、誰も知らないが圧倒的に踊れる楽曲が価値を持った。
+In cities such as Manchester, Wigan, Blackpool and Sheffield, a culture of working-class young people flocking to clubs on weekend nights and dancing for long hours took hold. There, songs that no one knew but were overwhelmingly danceable were more valuable than the latest hits.
 
 What is important in this context is the physical and psychological distance between northern England and the United States. Soul music, which originated in the American South and Detroit, resonated more strongly with the sensibilities of young people in the North than in London. This is because themes such as labor, oppression, and solidarity were shared as daily sensibilities.
 
@@ -62,7 +62,7 @@ What is important in this context is the physical and psychological distance bet
 
 The musical foundation of Northern Soul lies in soul music produced in America. However, many of these were not major label works like Motown, but singles released by small labels in regional cities.
 
-デトロイト、シカゴ、ロサンゼルス、フィラデルフィア、さらにはアラバマやテキサスといった南部地域で録音された無名アーティストの作品が、英国のクラブDJによって発掘される。これらの楽曲は、アメリカ本国ではチャート入りすることなく埋もれていたが、英国北部ではダンスフロアを熱狂させる力を持っていた。
+A British club DJ unearths works by unknown artists recorded in Detroit, Chicago, Los Angeles, Philadelphia, and even southern regions such as Alabama and Texas. Although these songs never charted in the United States, they had the power to set dance floors ablaze in northern England.
 
 DJs went directly to the United States to make purchases, scouring inventory hidden in the backs of warehouses, radio stations, and record stores. As a result, the rarity of having the same record becomes valuable, and the unique ""one-of-a-kind culture'' of Northern Soul was formed.
 
@@ -73,13 +73,13 @@ DJs went directly to the United States to make purchases, scouring inventory hid
 ## Club culture and the role of the DJ
 
 
-In Northern Soul, DJs were not just music selectors, but cultural curators. Song selection was highly strategic and competitive, as the records a particular DJ owned was directly linked to the reputation of the club.
+In Northern Soul, DJs were not just music selectors, but cultural curators. Song selection was highly strategic and competitive, as the records a particular DJ owned was directly linked to the club's reputation.
 
 Typical clubs include Manchester's Twisted Wheel and the later iconic Wigan Casino. All-night events were common at these clubs, with dancers dancing for hours on end.
 
 The DJ constructed his set by reading not only the BPM and key, but also the level of fatigue and excitement on the floor. The rarity of the record was important, but even more important was whether it could be danced to.
 
-> ノーザンソウルの現場では、DJの選曲判断そのものが文化の進化を決定づけていた。
+> In the Northern Soul scene, DJs' song selection decisions themselves determined the evolution of the culture.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukp6AMd8Dik?si=xg2rYzVe_-XpZQJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -88,7 +88,7 @@ The DJ constructed his set by reading not only the BPM and key, but also the lev
 ## Characteristics of dance and fashion
 
 
-ノーザンソウルは音楽だけでなく、独自のダンススタイルとファッションを伴って発展した。ダンスはアクロバティックで、スピンやキック、ジャンプを多用し、床を滑るようなステップが特徴的である。
+Northern soul developed not only with music, but also with its own dance style and fashion. The dance is acrobatic, making frequent use of spins, kicks, and jumps, and is characterized by steps that glide across the floor.
 
 To enable this physical expression, emphasis was placed on functionality in clothing. Tight jeans, loose tops, and shoes with slippery soles became the norm, and a culture of expressing individuality with patches and badges took root.
 
@@ -127,7 +127,7 @@ In Japan, Northern Soul was not reproduced in the same form as in Britain. Rathe
 
 It tends to emphasize the sound quality of records, the rarity of records, and the commitment to original records rather than dance, and is characterized by its strong connection to collector culture. On the other hand, the essence of music that can be danced to is maintained, and dance-oriented events continue to be held.
 
->Japan's Northern Soul has established itself by uniquely adjusting the balance between appreciation and physicality.
+> Japanese Northern Soul has established itself by uniquely adjusting the balance between appreciation and physicality.
 
 ---
 
@@ -151,15 +151,15 @@ timeline
 
 ---
 
-## 構造図：文化の流れ
+## Structural diagram: Cultural flow
 
 <div class="mermaid">
 graph LR
 A[American region Seoul] --> B[Northern UK DJ]
 B --> C[club culture]
-C --> D[ダンスとファッション]
+C --> D[dance and fashion]
 C --> E[Spread to Japan]
-E --> F[日本独自の受容]
+E --> F[Japan's unique acceptance]
 </div>
 
 > The history of Northern Soul illustrates the very process by which music is recontextualized across borders and time.

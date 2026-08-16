@@ -179,7 +179,7 @@ As a result, Electro Swing has a structure that is unnatural for jazz, but highl
 
 ## 17. Floor functionality and DJ perspective
 
-For DJs, Electro Swing serves as a connecting point for cross-genre mixes. It is easy to connect with house, breakbeat, hip-hop, and even rock"n"roll, allowing you to naturally change the context of the floor.
+For DJs, Electro Swing acts as a connecting point for cross-genre mixes. It is easy to connect with house, breakbeat, hip-hop, and even rock"n"roll, allowing you to naturally change the context of the floor.
 
 This is achieved through rhythmic simplification and melodic fragments with strong motifs. Electro Swing is music that exhibits its power in a flow rather than as a single genre.
 

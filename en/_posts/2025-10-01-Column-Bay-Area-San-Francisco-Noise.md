@@ -47,7 +47,7 @@ We will trace the genealogy of locally cultivated noise/experimental music and e
 
 <div class="mermaid">
 flowchart TD
-    A["1978: SRL（Mark Pauline）"] --> B["1980s: Negativland — Tape collage/radio experiment"]
+    A["1978: SRL（Mark Pauline）"] --> B["1980s: Negativland — Tape Collage/Radio Experiment"]
     B --> C["1990s: Rise of the Indie/Bandcamp system and expansion of experimental ecosystem"]
     C --> D["2000s: Matmos — International evaluation with emphasis on samples/concepts"]
     D --> E["2010s-2020s: Regional compilation/improvisation network maturation"]
@@ -73,7 +73,7 @@ A group active in the San Francisco area and known for their media critical work
 
 ---
 
-#### Matmos and local derivation
+#### Matmos and local derivations
 
 Matmos was formed in San Francisco in the 1990s and gained international acclaim for their conceptual work that uses sampling. Since the 2000s, it has continued to lead the "conceptual side" of experimental music, strengthening its connections with art institutions and contemporary music festivals.
 
@@ -111,7 +111,7 @@ The following are the main works mentioned in the main text.
 | Matmos — *A Chance To Cut Is A Chance To Cure* | 2001 | Concept work using medical sounds | [Amazon](https://amzn.to/48IJtKN) |
 | Matmos — *The Civil War* | 2003 | Continuation of concept and sampling experiments | [Amazon](https://amzn.to/4gKSuoA) |
 | Bay Area compilation (regional edition) | 2010s | Mainly local distribution. Recommended to get from Bandcamp or local labels | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |
-| Bill Orcutt — *Jump On It* | 2023 | Experimental acoustic. Representative examples of Bay Area guitar work |[Amazon](https://amzn.to/4o2jF0Q) |
+| Bill Orcutt — *Jump On It* | 2023 | Experimental Acoustic. Representative examples of Bay Area guitar work |[Amazon](https://amzn.to/4o2jF0Q) |
 
 
 

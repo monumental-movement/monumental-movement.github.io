@@ -26,7 +26,7 @@ Future Jazz emerged in the early 1990s as a genre that combines the improvisatio
 
 ## Early 1990s: Germination — From Acid Jazz to Future Jazz
 - **Background**
-Acid Jazz has become popular mainly in the UK, reimagining jazz funk and soul for clubs. This was an era when DJs and producers experimented with new interpretations of jazz using turntables and samplers.
+Acid Jazz is gaining popularity mainly in the UK, and is reimagining jazz funk and soul for clubs. This was an era when DJs and producers experimented with new interpretations of jazz using turntables and samplers.
 
 - **Representative artists/master records**
 - [Galliano — *In Pursuit of the 13th Note* (1991)](https://amzn.to/4mzKCaW)
@@ -78,7 +78,7 @@ The term "Future Jazz" became established around Germany's Compost Records. The 
 - [Rainer Trüby Trio — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)
 
 - **Equipment characteristics**
--Akai MPC3000
+- Akai MPC3000
 -EMU SP-1200
 -Roland JV-1080
 -Korg MS-20
@@ -211,15 +211,15 @@ In the streaming and AI era, Future Jazz has been reevaluated and intersected wi
 
 | No | Artist | Track | Comments |
 |---|---|---|---|
-| 1 | Alfa Mist | Keep On | Future Jazz with a melancholy feel. |
-| 2 | Kamaal Williams | Hold On | A representative contemporary jazz song from London. |
+| 1 | Alfa Mist | Keep On | Melancholy Future Jazz. |
+| 2 | Kamaal Williams | Hold On | A representative contemporary jazz piece from London. |
 | 3 | Shabaka Hutchings | Hustle | Spiritual and powerful. |
 | 4 | Nubya Garcia | Pace | Saxophone stands out. |
 | 5 | Blue Lab Beats | Pineapple | A fusion of hip-hop and jazz. |
 | 6 | Kokoroko | Abusey Junction | Melancholic and beautiful. |
 | 7 | Floating Points | LesAlpx | Electronica and jazz fusion. |
 | 8 | Tom Misch & Yussef Dayes | What Kinda Music | Modern interpretations of pop and jazz. |
-| 9 | Makaya McCraven | Autumn in New York | 即興と編集の融合。 |
+| 9 | Makaya McCraven | Autumn in New York | A fusion of improvisation and editing. |
 | 10 | Immanuel Wilkins | Ferguson — An American Tradition | A fusion of sociality and musical expression. |
 
 ---
@@ -227,7 +227,7 @@ In the streaming and AI era, Future Jazz has been reevaluated and intersected wi
 # A genre that is always on the cutting edge of the times
 Future Jazz has continued to evolve as a place where traditional jazz improvisation and electronic innovation intersect. It started with the club culture of the 90s, went through Broken Beat and Nu-Jazz, and is now expanding into a multi-layered expression that also incorporates modularity and AI.
 
-As befits the name "futuristic jazz," it is a genre that is always on the cutting edge of the times.
+As befits the name ""futuristic jazz,'' it is a genre that is always on the cutting edge of the times.
 
 ---
 

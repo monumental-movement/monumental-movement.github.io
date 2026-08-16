@@ -72,7 +72,7 @@ The shoulder strap also made it suitable for live performance, demonstrating the
 
 ## 33. Roland MC-505 — A groove box for dance music production all in one
 
-The Roland MC-505, released in 1998, was a piece of equipment that further developed the groove box culture.
+The Roland MC-505, released in 1998, is a piece of equipment that further developed the groove box culture.
 
 Introduced as a successor to the MC-303, it is equipped with more powerful sound sources, effects, and sequence functions.
 
@@ -112,19 +112,19 @@ The CS-80 was designed not only to create tones, but also to reflect the perform
 
 It had performance functions similar to today's synthesizers, such as a velocity-sensitive keyboard, aftertouch, and a ribbon controller.
 
-Its rich, dreamy sound was particularly appreciated in film music and electronic music.
+Its rich, dreamy sound was especially highly praised for film music and electronic music.
 
 Film composer Vangelis uses the CS-80 to create a grand, spatial sound.
 
 Although the CS-80 was not a mass-produced piece of equipment, it developed the synthesizer into not just a sound source, but a musical instrument with expressive power.
 
-> The CS-80 proves that it is possible to give a human expression to electronic musical instruments.
+> The CS-80 proves that it is possible to give electronic musical instruments a human look.
 
 ---
 
 
 
-## 36. Roland VP-330 Vocoder Plus — A device that converts the human voice into electronic music
+## 36. Roland VP-330 Vocoder Plus — Equipment that converts human voice into electronic music
 
 The Roland VP-330 Vocoder Plus, released in 1979, is an iconic piece of equipment that combines vocal expression with electronic music.
 
@@ -132,7 +132,7 @@ Vocoder technology itself has existed since before the 1970s, but the VP-330 adv
 
 Its unique feature was that it could create unique robot voices and futuristic chorus sounds by analyzing human voices and fusing them with synthesizer sounds.
 
-Furthermore, by combining the string sound source and vocoder function, it could be used not just as an effect device, but as a playable keyboard.
+Furthermore, by combining the string sound source and vocoder function, it could be used not only as an effect device but also as a playable keyboard.
 
 New wave, synth pop, and electronic music of the 1980s featured many of the VP-330's fantastical sounds.
 
@@ -148,7 +148,7 @@ The Roland R-8, released in 1989, is a piece of equipment that greatly enhances 
 
 While the TR series created an electronic rhythm culture, the R-8 pursued more realistic drum sounds and detailed performance expression.
 
-Velocity response, sound strength, and detailed timing adjustments make it possible to perform expressions similar to those of actual drummers.
+Velocity responsiveness, sound strength, and detailed timing adjustments make it possible to perform expressions similar to those of actual drummers.
 
 Additionally, drum tone expansion cards made it possible to support a variety of genres.
 
@@ -182,7 +182,7 @@ It was used in many fields, including hip hop, electronic music, and live perfor
 
 Novation Launchpad, released in 2009, greatly expanded the live performance culture centered around Ableton Live.
 
-A grid of buttons made it intuitive to start clips, loop, and perform.
+A grid of buttons makes it intuitive to launch clips, loop, and perform.
 
 Unlike traditional keyboard and mouse operations, this system was unique in that it allowed users to visually grasp the musical structure while playing.
 
@@ -206,7 +206,7 @@ Octatrack is designed for live performance, changing samples in real time.
 
 By combining pitch changes, time stretching, effect processing, and routing changes, it was possible to play the sound itself.
 
-He was particularly praised for his work in the fields of experimental electronic music, ambient music, and live electronics.
+He was particularly praised for his work in the fields of experimental electronic music, ambient, and live electronics.
 
 The sampler has become more than just a material management tool, it has become an instrument that continuously changes the sound.
 

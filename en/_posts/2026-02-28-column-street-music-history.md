@@ -23,7 +23,7 @@ Text: mmr | Theme: Tracing how music born on the streets of cities shaped world 
 
 Street music refers to a musical culture that was born and developed not in commercial facilities or theaters, but in public spaces such as streets, plazas, markets, and subway stations.
 
-Here, community is valued over institutions, improvisation is valued over musical scores, and the physicality of the scene is valued over authority.
+Here, community is valued over institutions, improvisation is valued over musical scores, and the physicality of the field is valued over authority.
 
 * Performance/expression in public spaces
 * A communal and autonomous production environment
@@ -87,7 +87,7 @@ August 11, 1973
 Held in the Bronx, New York City
 DJ Kool Herc's parties are considered the starting point of hip-hop.
 
-Block parties, turntables, MC, breakdance, graffiti. All of these were integrated cultures born out of public space.
+Block parties, turntables, MC, breakdance, graffiti. All of this was a comprehensive culture born out of public space.
 
 Eventually
 As Grandmaster Flash and others advanced the technology, rap became a language of social criticism.
@@ -154,7 +154,7 @@ Street music is more than just entertainment.
 * Medium of political resistance
 * Formation of urban identity
 * Fusion of fashion, dance, and art
-* Forming a global cultural network
+* Formation of a global cultural network
 
 Hip-hop has been discussed at the United Nations, and reggae has been registered as a UNESCO Intangible Cultural Heritage. However, its starting point is always in public space.
 

@@ -11,7 +11,7 @@ tags:
 - Jazz
 - Indies
 - Rock
-title: '[Column] The multilayered structure of Tokyo sound - the sound culture of
+title: '[Column] The multi-layered structure of Tokyo sound - the sound culture of
   Shinjuku, Shibuya, Shimokitazawa, and Akihabara'
 ---
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Chapter 1: Shinjuku - Jazz City of Chaos and Freedom
 
-### 1. Shinjuku Pit In and Postwar Jazz Night
+### 1. Shinjuku Pit Inn and Postwar Jazz Night
 In the late 1960s, young people emerging from the post-war chaos gathered in the back alleys of Shinjuku.
 Many jazz cafes such as Pit Inn, DUG, and J were born, and sound became a symbol of freedom.
 The night when the saxophone rang out was also the political season, and jazz sounded simultaneously the anger and liberation of the city.
@@ -71,7 +71,7 @@ A city where house, techno, and hip-hop intersect, melting the boundaries betwee
 
 ---
 
-## Chapter 3: Shimokitazawa - The Mecca of Independents
+## Chapter 3: Shimokitazawa - The Holy Land of Independents
 
 ### 1. Democratization of music starts in the studio
 In the late 1980s, young people gathered with guitars in Shimokitazawa, a neighborhood dotted with small studios and live music venues.

@@ -14,7 +14,7 @@ title: Pick up electro works
 ---
 
 
-"A collection of electro works in which the cyber fantasy of the 1980s continues to dance to this day."
+""A collection of electro works in which the cyber fantasy of the 1980s continues to dance to this day.''
 
 <hr>
 
@@ -73,7 +73,7 @@ B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 ### Arthur Baker vs. Rennie Pilgrem – Like No Other (Remixes)
 <a href="https://jp.mercari.com/item/m55195821890?afid=6142608987"><img src="../assets/images/Arthur%20Baker%20Vs%20Rennie%20Pilgrem%20%E2%80%93%20Like%20No%20Other%20(Remixes).webp"></a>
 
-Highlights: A remix album by electro pioneer Arthur Baker, reconstructed in a big beat and electro style by UK breakbeat heavyweight Rennie Pilgrem. ""A new interpretation by two people who built a bridge between Electro and hip-hop'' is appealing.
+Highlights: A remix album by electro pioneer Arthur Baker, reconstructed in a big beat and electro style by UK breakbeat heavyweight Rennie Pilgrem. The attraction is ""a new interpretation by two people who built a bridge between Electro and hip-hop''.
 
 Charm: Electro pioneering spirit revived through remixing
 
@@ -98,7 +98,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-Point: "Side B" is a dark song with a particularly strong electro feel. A ""mechanical tension'' wafts through the tranquil atmosphere, drawing you into a cool yet profound worldview.
+Points: "Side B" is a dark song with a particularly strong electro feel. A ""mechanical tension'' wafts through the tranquil atmosphere, drawing you into a cool and profound world view.
 
 Charm: Dark and tense electro
 

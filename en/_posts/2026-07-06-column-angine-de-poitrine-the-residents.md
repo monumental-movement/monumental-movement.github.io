@@ -57,7 +57,7 @@ Does anonymity mean hiding?
 
 Or is it a new form of self-expression?
 
-The answer is hidden in about 50 years of music history.
+The answer is hidden in approximately 50 years of music history.
 
 > Anonymity has developed not as an act of reducing information, but as a device that changes the perspective from which works are viewed.
 
@@ -85,7 +85,7 @@ However, the background to this is deeply related to the artistic philosophy of 
 
 From the late 1960s to the 1970s, the question of ""who is the author'' became a hot topic of discussion in contemporary art in Europe and America.
 
-Is the work a mirror that reflects the artist's personality?
+Is a work a mirror that reflects the artist's personality?
 
 Or do works, once released into the world, exist independently of their creators?
 
@@ -95,7 +95,7 @@ In the rock scene at the time, the star system was rapidly maturing.
 
 Musicians not only perform, but also become fashion leaders, symbols of youth culture, and central figures in the media.
 
-Works and personalities were closely linked, and ""who made it"' became part of the work"s value.
+Works and personalities were closely linked, and ""who made them"' became part of the work"s value.
 
 That's why the idea of ​​doing the opposite was so powerful.
 
@@ -111,7 +111,7 @@ In conceptual art, the idea itself became more important than the author.
 
 Similar changes occur in music.
 
-Works began to appear that presented concepts themselves, rather than competing with performance techniques.
+Works began to appear that presented the concept itself, rather than competing in performance technique.
 
 Developments in recording technology also supported this trend.
 
@@ -190,7 +190,7 @@ A work of art is not meant to tell the story of its creator's life.
 
 Shouldn't the work itself be appreciated as an independent entity?
 
-This way of thinking gradually permeates music as well.
+This way of thinking gradually permeates into music.
 
 Of course, this does not mean that there were no musicians working anonymously.
 
@@ -198,7 +198,7 @@ Masked bands and pseudonymous projects have existed for some time.
 
 However, many of these were just a part of staging or creating a buzz, and did not advocate ""anonymity itself'' as an artistic philosophy.
 
-What was groundbreaking about The Residents was that it placed anonymity at the center of its creative philosophy, rather than an advertising method.
+What was groundbreaking about The Residents was that it placed anonymity at the center of its creative philosophy, rather than as an advertising method.
 
 For them, anonymity is not a game of hiding one's true identity.
 
@@ -240,7 +240,7 @@ He doesn't even talk about his background.
 
 Even the interviews were carefully controlled so as not to disrupt the world of the work.
 
-匿名とは、作品の純度を守るためのフレームだったのである。
+Anonymity was a frame to protect the purity of the work.
 
 <div class="mermaid">
 flowchart TD
@@ -257,7 +257,7 @@ C --> D
 D --> E
 </div>
 
-この発想は当時としては極めて異例だった。
+This idea was extremely unusual at the time.
 
 However, it is this unusualness that makes The Residents unique.
 
@@ -265,7 +265,7 @@ They weren't just a "band that hides their faces."
 
 Crossing the boundaries of music, video, art, design, and performance, he transformed ""anonymity'' itself into a work of art.
 
-> The Residentsの革新性は、匿名を秘密ではなく「作品の構造」として設計したことにあった。
+> The innovation of The Residents was that it designed anonymity not as a secret but as a ""structure of the work.''
 
 ---
 
@@ -295,140 +295,17 @@ The idea of ​​producing and distributing music by oneself without relying on
 
 The Residents would also build their own base of activities within this flow.
 
-その中心となったのが、後に重要な役割を果たす自主レーベルの存在だった。
+At the center of this was the existence of independent labels, which would later play an important role.
 
 The idea of ​​anonymity cannot be achieved with music alone.
 
 The entire system of how the work was presented and delivered needed to support that philosophy.
 
-> The expression "anonymous" was not only a design concept for the work, but also for the activity itself.
+> The expression "anonymous" was a concept used not only in the work but also in the design of the activity itself.
 
 ---
 
-## Birth of The Residents: Anonymity was not a coincidence, but a designed art.
-
-### The work existed before the name
-
-What"s interesting about the early days of The Residents is that the name "The Residents" wasn"t originally planned.
-
-In their early days, they sent demo tapes to record companies. However, no deal was reached, and the returned package reportedly had the word "Residents" written on it instead of the sender's name.
-
-Eventually, they adopted that name as their own group name, which is widely known as the origin of the name The Residents.
-
-It is difficult to completely verify the authenticity of this anecdote. However, what is important is that they themselves did not actively deny this story, but rather allowed it to function as part of the world of the work.
-
-In addition to the facts, ""how they are told'' was also a component of the work.
-
-This attitude remained consistent until later years.
-
-Despite repeated discussions about the identity of the members, they did not provide a clear answer.
-
-The important thing was not to hide the truth, but to not fix the answer.
-
-### The work is the main character, not the author
-
-When you look at the cover of The Residents, you get a distinctly different impression from your average rock band.
-
-There are almost no photos of the members, instead strange illustrations, collages, and experimental designs are front and center.
-
-Even if you pick up an album, you won't know what kind of person is playing.
-
-Instead, what catches your eye is the world of the work itself.
-
-This visual design is also common to music.
-
-Rather than aiming for the familiarity of pop music, his music creates a sense of anxiety, discomfort, humor, satire, and dreaminess.
-
-In other words, the listener does not encounter a ""person" but the ""world of the work."
-
-Anonymity does not mean reducing information.
-
-人物に向いていた視線を、作品そのものへ向け直す編集作業だった。
-
-### What the giant eyeballs mean
-
-The most famous visual symbolizing The Residents is the giant eyeball mask.
-
-Once you see him in a tuxedo, with only his eyes standing out, you'll never forget it.
-
-What is interesting is that this mask was both a tool for ""hiding one's true identity" and a device for creating a ""new personality."
-
-As a result of hiding their faces, they became ""nobody''.
-
-しかし同時に、「The Residents」という一つの架空の人格が誕生した。
-
-This is a little different from an actor playing a role.
-
-Actors have real names, but in The Residents their real names are pushed to the outside of the work.
-
-Until the end, the only thing the audience is exposed to is the existence of ""The Residents.''
-
-<div class="mermaid">
-flowchart LR
-
-A["Real name/personal"]
-B["Anonymization"]
-C["Eyeball mask"]
-D["The Residents"]
-E["Work world"]
-
-A --> B
-B --> C
-C --> D
-D --> E
-</div>
-
-Anonymity is not just for erasing one's identity.
-
-It was also a way to create a new subject that exists only within the work.
-
-> By erasing "who they are," The Residents gave a strong impression of "what they represent."
-
----
-
-## Ralph Records──An independent label that supported the idea of ​​anonymity
-
-### A vessel to protect expression
-
-In the 1970s, many musicians released their work through major record companies.
-
-However, in an environment where commercial success was sought after, it was not easy to continually release experimental works.
-
-The reason The Residents have been able to maintain their unique expression over the years is due to their independent label, **Ralph Records**.
-
-This label was more than just a distributor.
-
-It was a place where they could reflect their ideas, including the design, worldview, and distribution methods of their works.
-
-The idea of ​​anonymity does not apply to music alone.
-
-It only works if a consistent worldview is maintained, from album jackets, advertising methods, live productions, and video productions.
-
-Ralph Records became an important foundation supporting that worldview.
-
-### Balancing commerciality and experimentation
-
-The word independent production gives some people the impression that it is a small-scale, closed activity.
-
-However, The Residents continued to release works while maintaining their independence, and continued to receive acclaim all over the world.
-
-This was not a complete denial of commerciality, but rather the result of creating a system to prioritize their own expression.
-
-Works do not exist solely to sell.
-
-At the same time, if it doesn"t reach anyone, it won"t become a culture.
-
-This sense of balance is one of the reasons The Residents have been able to continue their work for nearly half a century.
-
-Although they are anonymous, they have never disappeared from society.
-
-Rather, they built their own brand while maintaining a form of anonymity.
-
-> The Residents' anonymity was supported not only by their works but also by the entire system of production, distribution, and presentation.
-
----
-
-## Birth of The Residents: Anonymity was not a coincidence, but a designed art.
+## The Birth of The Residents: Anonymity was not a coincidence, but a designed art.
 
 ### The work existed before the name
 
@@ -509,7 +386,130 @@ It was also a way to create a new subject that exists only within the work.
 
 ---
 
-## Ralph Records──An independent label that supported the idea of ​​anonymity
+## Ralph Records──Independent label that supported the idea of ​​anonymity
+
+### A vessel to protect expression
+
+In the 1970s, many musicians released their work through major record companies.
+
+However, in an environment where commercial success was sought after, it was not easy to continually release experimental works.
+
+The reason The Residents have been able to maintain their unique expression over the years is due to their independent label, **Ralph Records**.
+
+This label was more than just a distributor.
+
+It was a place where they could reflect their ideas, including the design, worldview, and distribution methods of their works.
+
+The idea of ​​anonymity does not apply to music alone.
+
+It only works if a consistent worldview is maintained, from album jackets, advertising methods, live productions, and video productions.
+
+Ralph Records became an important foundation supporting that worldview.
+
+### Balancing commerciality and experimentation
+
+The word independent production gives some people the impression that it is a small-scale, closed activity.
+
+However, The Residents continued to release works while maintaining their independence, and continued to receive acclaim all over the world.
+
+This was not a complete denial of commerciality, but rather the result of creating a system to prioritize their own expression.
+
+Works do not exist solely to sell.
+
+At the same time, if it doesn"t reach anyone, it won"t become a culture.
+
+This sense of balance is one of the reasons The Residents have been able to continue their work for nearly half a century.
+
+Although they are anonymous, they have never disappeared from society.
+
+Rather, they built their own brand while maintaining a form of anonymity.
+
+> The Residents' anonymity was supported not only by their works but also by the entire system of production, distribution, and presentation.
+
+---
+
+## The Birth of The Residents: Anonymity was not a coincidence, but a designed art.
+
+### The work existed before the name
+
+What"s interesting about the early days of The Residents is that the name "The Residents" wasn"t originally planned.
+
+In their early days, they sent demo tapes to record companies. However, no deal was reached, and the returned package reportedly had the word "Residents" written on it instead of the sender's name.
+
+Eventually, they adopted that name as their own group name, which is widely known as the origin of the name The Residents.
+
+It is difficult to completely verify the authenticity of this anecdote. However, what is important is that they themselves did not actively deny this story, but rather allowed it to function as part of the world of the work.
+
+In addition to the facts, ""how they are told'' was also a component of the work.
+
+This attitude remained consistent until later years.
+
+Despite repeated discussions about the identity of the members, they did not provide a clear answer.
+
+The important thing was not to hide the truth, but to not fix the answer.
+
+### The work is the main character, not the author
+
+When you look at the cover of The Residents, you get a distinctly different impression from your average rock band.
+
+There are almost no photos of the members, instead strange illustrations, collages, and experimental designs are front and center.
+
+Even if you pick up an album, you won't know what kind of person is playing.
+
+Instead, what catches your eye is the world of the work itself.
+
+This visual design is also common to music.
+
+Rather than aiming for the familiarity of pop music, his music creates a sense of anxiety, discomfort, humor, satire, and dreaminess.
+
+In other words, the listener does not encounter a ""person" but the ""world of the work."
+
+Anonymity does not mean reducing information.
+
+It was an editing process that redirected the gaze from the person to the work itself.
+
+### What the giant eyeballs mean
+
+The most famous visual symbolizing The Residents is the giant eyeball mask.
+
+Once you see him in a tuxedo, with only his eyes standing out, you'll never forget it.
+
+What is interesting is that this mask was both a tool for ""hiding one's true identity" and a device for creating a ""new personality."
+
+As a result of hiding their faces, they became ""nobody''.
+
+However, at the same time, a fictional personality called "The Residents" was born.
+
+This is a little different from an actor playing a role.
+
+Actors have real names, but in The Residents their real names are pushed to the outside of the work.
+
+Until the end, the only thing the audience is exposed to is the existence of ""The Residents.''
+
+<div class="mermaid">
+flowchart LR
+
+A["Real name/personal"]
+B["Anonymization"]
+C["Eyeball mask"]
+D["The Residents"]
+E["Work world"]
+
+A --> B
+B --> C
+C --> D
+D --> E
+</div>
+
+Anonymity is not just for erasing one's identity.
+
+It was also a way to create a new subject that exists only within the work.
+
+> By erasing "who they are," The Residents gave a strong impression of "what they represent."
+
+---
+
+## Ralph Records──Independent label that supported the idea of ​​anonymity
 
 ### A vessel to protect expression
 
@@ -571,7 +571,7 @@ Rather, it will need to be designed as a "deliberate absence."
 
 What is important here is modern anonymous expressions such as Angine de Poitrine.
 
-### Angine de Poitrine, a "contoured absence"
+### "Absence with contours" called Angine de Poitrine
 
 What makes Angine de Poitrine unique is that it differs from the excessive characterization of The Residents.
 
@@ -581,19 +581,19 @@ It is not uncommon for people not to show their faces.
 
 However, the important thing is that its absence functions as a "blank space."
 
-In other words, it is not anonymity used to hide something, but rather a ""structure based on the premise of not explaining anything'' from the beginning.
+In other words, it is not a form of anonymity to hide something, but a ""structure based on the premise of not explaining anything'' from the beginning.
 
 This is where the distance from The Residents arises.
 
 The Residents created an "excessive anonymity."
 
-A huge centerpiece, a thorough setting, and a mythicalization of the work's world.
+A huge centerpiece, a thorough setting, and a mythicalization of the world of the work.
 
 Angine de Poitrine, on the other hand, goes in the opposite direction.
 
-Information is drastically reduced, leaving only room for interpretation.
+Information is stripped down to the extreme, leaving only room for interpretation.
 
-Here, anonymity becomes "tranquility" rather than decoration.
+Here, anonymity becomes ""tranquility'' rather than decoration.
 
 ### Changes in the meaning of anonymous in the SNS era
 
@@ -626,7 +626,7 @@ D["Building a worldview"]
 E["Angine de Poitrine"]
 F["Minimized Anonymous"]
 G["Information suppression"]
-H["Works as blank spaces"]
+H["Works as blank space"]
 
 A --> B --> C --> D
 E --> F --> G --> H
@@ -636,7 +636,7 @@ Anonymous diverges here in two directions.
 
 One is ""anonymous creation of stories''.
 
-The other is "anonymous erasure of stories."
+The other is "Anonymous, which erases stories."
 
 Although the two seem similar, they have completely different design philosophies.
 
@@ -694,7 +694,7 @@ What is important here is that anonymity is no longer a binary choice of "yes/no
 
 Rather, anonymity exists as a spectrum.
 
-The Residents is at one end of the spectrum, pushing visual and symbolic anonymity to the extreme.
+The Residents is located at one extreme, pushing visual and symbolic anonymity to the extreme.
 
 Angine de Poitrine is closer to the other extreme, turning the lack of information into her work.
 
@@ -776,7 +776,7 @@ This is because from the beginning, they placed ""uncertainty of identity'' at t
 
 The more information we have, the more it is treated as "material" rather than "answers."
 
-Instead of trying to determine the identity, fans will instead enjoy the uncertainty.
+Instead of trying to pinpoint the identity, fans will instead enjoy the uncertainty.
 
 This is the moment when anonymity changes from a "mystery" to a "continuing structure."
 
@@ -784,7 +784,7 @@ This is the moment when anonymity changes from a "mystery" to a "continuing stru
 
 On the other hand, Angine de Poitrine's anonymity has a different meaning in the Internet environment.
 
-In their case, lack of information is not simply a lack of information.
+In their case, lack of information is not just a lack of information.
 
 Rather, it functions as a deliberately designed "silence."
 
@@ -800,7 +800,7 @@ The lack of information conversely focuses the listener's attention.
 
 ### Anonymity in the digital age is not "zero"
 
-Modern anonymity cannot be achieved through simple absence.
+Modern anonymity does not exist through simple absence.
 
 Complete zero information almost never exists, and there is always some kind of noise mixed in.
 
@@ -834,13 +834,13 @@ Anonymousness does not mean a lack of information.
 
 This is a design problem of how to arrange information.
 
-> Anonymity in the digital age is not about ""disappearing," but has transformed into ""controlling one's appearance."
+> Anonymity in the digital age has changed from ""disappearing" to ""controlling one's appearance."
 
 ---
 
 
 
-## What anonymity brings to the work: Reconstruction of the listening experience
+## What anonymity brings to the work: Restructuring the listening experience
 
 ### What remains when "who made it" is lost
 
@@ -1033,7 +1033,7 @@ SNS posts, production scenes, live footage, interviews, and daily snippets.
 
 By consuming these things at the same speed as the works themselves, music has always come to be understood in terms of humans.
 
-この状態では、匿名であることは単なる珍しさではない。
+In this state, anonymity is not just a novelty.
 
 Rather, it is reevaluated as a conscious structure.
 
@@ -1075,7 +1075,7 @@ If The Residents is ""anonymity that shows itself", then Angine de Poitrine is "
 
 ### The two anonyms are complementary, not opposed.
 
-この二つはしばしば対照的に語られるが、本質的には対立ではない。
+Although these two are often contrasted, they are not essentially contradictory.
 
 Rather, it shows both ends of the concept of anonymity.
 
@@ -1090,7 +1090,7 @@ flowchart LR
 
 A["Visualized music culture"]
 B["Personality-centered consumption"]
-C["匿名性の再評価"]
+C["Re-evaluating anonymity"]
 
 D["The Residents"]
 E["Excessive anonymity/mythologization"]
@@ -1105,7 +1105,7 @@ C --> D --> E --> H
 C --> F --> G --> H
 </div>
 
-### 匿名は「距離」を作る技術ではない
+### Anonymity is not a technique for creating "distance"
 
 Anonymity is often understood as an act of distancing.
 
@@ -1117,7 +1117,7 @@ From relationships with people to relationships with sound itself.
 
 From the relationship with story to the relationship with structure.
 
-Anonymity is not a blockage, but a relocation.
+Anonymousness is not a blockade, but a relocation.
 
 > The current role of anonymity is to reconfigure the relationship between music and listeners from "person-based" to "experience-based".
 
@@ -1135,13 +1135,13 @@ Understanding the meaning of a work by knowing its genre, background, and contex
 
 In the case of rock, we trace history, and in the case of electronic music, we trace technological evolution.
 
-In other words, music was also an object to be understood as information.
+In other words, music was also an object that could be understood as information.
 
 However, in works with strong anonymity, this structure collapses.
 
 Because there is little prerequisite information, listeners are drawn into ""experience" before ""understanding."
 
-At that moment, music changes from being something you read to something you encounter.
+At that moment, music changes from something you read to something you encounter.
 
 ### "Constructed Encounters" in The Residents
 
@@ -1157,11 +1157,11 @@ In other words, their anonymity is not just obscurity, but functions as a device
 
 Encounters are not by chance but by design.
 
-### Angine de Poitrineにおける「未定義の遭遇」
+### "Undefined Encounters" in Angine de Poitrine
 
 Angine de Poitrine's anonymity stands in contrast to The Residents.
 
-そこには物語の誘導もなければ、象徴的なビジュアルの過剰もない。
+There is no narrative guidance, nor is there an overabundance of symbolic visuals.
 
 Only the sound is presented.
 
@@ -1173,13 +1173,13 @@ Rather, it is closer to the state immediately before meaning is generated.
 
 In other words, it is an experience itself that has not yet been fixed.
 
-If The Residents is an "encounter that shakes up meaning," Angine de Poitrine is an "encounter before meaning is born."
+If The Residents is an "encounter that shakes up meaning," then Angine de Poitrine is an "encounter before meaning is born."
 
 ### The moment when the role of the listener changes
 
 In music, where there is a strong sense of anonymity, the role of the listener also changes.
 
-通常、リスナーは解釈者として作品に参加する。
+Usually the listener participates in the work as an interpreter.
 
 However, when anonymity increases, we are drawn back to the pre-interpretation stage.
 
@@ -1191,7 +1191,7 @@ This is because music is perceived as something that continues to be created, ra
 
 ### Two encounter models
 
-The ResidentsとAngine de Poitrineは、それぞれ異なる遭遇モデルを提示している。
+The Residents and Angine de Poitrine each offer different encounter models.
 
 <div class="mermaid">
 flowchart LR
@@ -1206,7 +1206,7 @@ E["Constructed encounter (fluctuation of meaning)"]
 F["Angine de Poitrine"]
 G["Undefined encounter (before meaning generation)"]
 
-H["体験モデル（直接性）"]
+H["Experiential model (directness)"]
 
 A --> B --> C
 A --> D --> E --> H
@@ -1223,15 +1223,15 @@ Anonymity is important not because it hides meaning.
 
 This is because the state before meaning is established is maintained for a long time.
 
-During this time, listeners come face-to-face with the sound.
+During this time, listeners come face to face with the sound directly.
 
 There are no explanations or labels.
 
-There is just sound and time passing.
+There's just sound and time passing.
 
 And it is this state that creates the purest listening experience.
 
-> 匿名性の本質は意味を隠すことではなく、意味が立ち上がる瞬間を遅らせることにある。
+> The essence of anonymity is not to hide meaning, but to delay the moment when meaning emerges.
 
 
 ---
@@ -1239,21 +1239,21 @@ And it is this state that creates the purest listening experience.
 
 ## The critical point of anonymity - to what extent is it possible to "disappear"?
 
-### 完全な匿名は成立するのか
+### Is complete anonymity possible?
 
-匿名性を極限まで押し進めたとき、最終的に何が残るのか。
+When we push anonymity to its limits, what remains in the end?
 
 This question is not just a theoretical one, but also a practical problem in musical expression.
 
 Erase your name.
 
-顔を消す。
+Erase your face.
 
-履歴を消す。
+Erase history.
 
 Even so, the sound itself always leaves traces that ""someone made it.''
 
-音の癖、構造の選択、録音の質感、ミックスの傾向。
+Sound habits, structure choices, recording textures, mix trends.
 
 Complete anonymity is actually an ideal that is technically impossible to achieve.
 
@@ -1277,29 +1277,29 @@ What we find here is a body of work that was designed from the beginning to be a
 
 The direction Angine de Poitrine is heading in contrasts with The Residents.
 
-彼らは匿名性を“強化する”のではなく、“希薄化する”。
+They do not "enhance" anonymity, they "dilute" it.
 
 Don't create symbols.
 
 It has no character.
 
-過剰な設定を持ち込まない。
+Do not introduce excessive settings.
 
-その結果として残るのは、極めてシンプルな構造だ。
+What remains as a result is a very simple structure.
 
 But this simplicity is not empty.
 
-むしろ、意味が入り込む余地そのものを最大化する設計である。
+Rather, it is a design that maximizes the very room for meaning.
 
 The less information there is, the more the listener will complete the meaning themselves.
 
 Completion of that becomes an experience.
 
-### 匿名性の逆説──消えるほど存在が強くなる
+### The paradox of anonymity - the more you disappear, the stronger your presence becomes
 
-匿名性には逆説がある。
+There is a paradox to anonymity.
 
-The more subtle your presence is, the stronger your presence will leave an impression.
+The thinner the presence, the stronger the impression it leaves.
 
 The Residents became memorable by making the invisible visible.
 
@@ -1326,7 +1326,7 @@ G["Angine de Poitrine"]
 H["Information minimization"]
 I["Fluidization of meaning"]
 
-J["匿名性の臨界点"]
+J["Critical point of anonymity"]
 K["Work = existence itself"]
 
 A --> B --> C
@@ -1339,9 +1339,9 @@ J --> K
 
 The critical point of anonymity is not ""disappearance," but ""a change in the form of existence."
 
-### 匿名は“欠如”ではなく“構造”になる
+### Anonymity becomes a "structure" rather than a "lack"
 
-匿名性を単なる欠如として捉えると、その本質は見えなくなる。
+If we view anonymity as a mere lack, we lose sight of its true nature.
 
 What is important is not what is not there, but what is there.
 
@@ -1351,16 +1351,16 @@ Angine de Poitrine established anonymity as a "blank structure."
 
 Both remove the "person" from the center of the music, in different ways.
 
-> The critical point of anonymity is the ""moment'' when the structure itself becomes the work that remains after the person has disappeared.
+> The critical point of anonymity is ""the moment when the structure itself becomes a work'' that remains after the person has disappeared.
 
 ---
 
 
 ## Comparison axis of anonymity ─ The design philosophy of The Residents and Angine de Poitrine
 
-### Even though it is the same "anonymous", the design is completely different
+### Even though it's the same "anonymous", the design is completely different
 
-ここまで見てきたように、The ResidentsとAngine de Poitrineは、どちらも匿名性を軸にした音楽表現である。
+As we have seen, both The Residents and Angine de Poitrine are musical expressions centered on anonymity.
 
 However, the design philosophy is surprisingly different.
 
@@ -1392,15 +1392,15 @@ In this structure, anonymity becomes an "expression" rather than a "blank space.
 
 Angine de Poitrine's anonymity is at the other end of the spectrum.
 
-象徴的なビジュアルは最小限。
+Symbolic visuals are minimal.
 
-キャラクター化も行われない。
+There is no characterization either.
 
 Explanations are also extremely limited.
 
-ここで重要なのは、「隠している」のではなく「最初から語らない」という点である。
+The important point here is not to "hide" but to "not talk about it from the beginning."
 
-匿名が意図ではなく、前提として組み込まれている。
+Anonymity is built in as a prerequisite, not as an intention.
 
 As a result, the work remains separate from the person.
 
@@ -1417,7 +1417,7 @@ E["Anonymous Visualization"]
 
 F["Angine de Poitrine"]
 G["Minimally designed anonymous"]
-H["情報抑制・沈黙"]
+H["Information suppression/silence"]
 I["Anonymous Invisibility"]
 
 J["Work-centered experience"]
@@ -1426,25 +1426,25 @@ A --> B --> C --> D --> E --> J
 A --> F --> G --> H --> I --> J
 </div>
 
-この構造を見ると、両者の違いは単なるスタイルではないことがわかる。
+Looking at this structure, you can see that the difference between the two is not just in style.
 
 The ""handling'' of anonymity itself is different.
 
-### 匿名の目的は同じだが、手段が違う
+### The purpose of anonymity is the same, but the means are different
 
-両者に共通している目的は一つである。
+Both have one purpose in common.
 
 This is a ""departure from a person-centered understanding of music.''
 
-しかし、そのための手段は正反対だ。
+However, the means to achieve this are exactly the opposite.
 
-The Residentsは、人物を消す代わりに“別の人格”を作り出した。
+Instead of erasing characters, The Residents created "alternative personalities."
 
 Angine de Poitrine "creates nothing" while erasing the characters.
 
-この差は小さいようで大きい。
+This difference may seem small, but it is large.
 
-前者は構築であり、後者は非構築である。
+The former is a construction, and the latter is a non-construction.
 
 ### Anonymity Direction Map
 
@@ -1458,12 +1458,12 @@ Between these two axes, there are countless intermediate forms.
 <div class="mermaid">
 flowchart TD
 
-A["完全な可視性"]
-B["通常のアーティスト像"]
+A["Full visibility"]
+B["Normal artist image"]
 C["Partially anonymous"]
 D["Symbolized Anonymous"]
 E["The Residents"]
-F["抽象的匿名"]
+F["Abstract Anonymous"]
 G["Angine de Poitrine"]
 H["Completely invisible"]
 
@@ -1472,16 +1472,16 @@ A --> B --> C --> D --> E --> F --> G --> H
 
 Anonymity is no longer a matter of "yes/no."
 
-どこまで設計するかの問題である。
+The question is how far should the design go?
 
-> 匿名性の比較とは、隠す量の違いではなく、世界観をどこまで作り込むかの違いである。
+> Comparison of anonymity is not a difference in the amount of concealment, but a difference in the extent to which the worldview is elaborated.
 
 ---
 
 
-## 匿名性が残したもの──音楽史における影響と残響
+## The legacy of anonymity: its influence and reverberations in music history
 
-### 匿名は一時的な手法では終わらなかった
+### Anonymity was not just a temporary measure
 
 Being anonymous was originally a very special choice.
 
@@ -1566,7 +1566,7 @@ Angine de Poitrine left behind ""structure as a blank.''
 
 Both create a ""center other than the person'' in the music in different ways.
 
-> The biggest legacy of anonymity is not the artist, but "music as a structure."
+> The biggest legacy of anonymity is not the artist but "music as a structure."
 
 
 ---
@@ -1608,19 +1608,19 @@ The anonymity offered by The Residents still functions as a pole.
 
 This is the direction of ""completely turning anonymity into a work.''
 
-Characterization, visualization, mythification.
+Characterization, visualization, mythologizing.
 
 Anonymity becomes a "narrative device" here.
 
 This model continues to be influential, but it is also an area that is difficult to replicate.
 
-This is because in an age of information overload, it is extremely difficult to maintain a ""complete myth.''
+This is because in the age of information overload, it is extremely difficult to maintain a ""complete myth.''
 
 ### "Subtractive model" after Angine de Poitrine
 
 Angine de Poitrine anonymity, by contrast, has a more modern structure.
 
-It is a design that does not ""create something," but ""makes it work by not adding anything."
+It is a design that does not ""create something," but ""makes it work without adding anything."
 
 This subtractive model is well suited to the social media era.
 
@@ -1636,7 +1636,7 @@ On the one hand, there is more narrative anonymity.
 
 The other is a more diluted anonymity.
 
-These two extremes are different answers to the same question.
+Both extremes are different answers to the same question.
 
 "How far can you separate the person from the music?"
 
@@ -1715,7 +1715,7 @@ As a result of this movement, music is reestablished in a different form.
 
 ### What The Residents Leave Behind
 
-The Residents' greatest legacy in music history is not proof that expression can be achieved even if anonymous.
+The Residents' greatest legacy in music history is not proof that expression can be achieved even anonymously.
 
 In fact, the opposite is true.
 
@@ -1813,7 +1813,7 @@ However, as requested, I will add it as a final appendix to extend the aftertast
 
 ### Anonymous is not a "disappearing idea" but a "remaining structure"
 
-The concept of anonymity seems to become more tenuous as time progresses, but in fact the opposite is true.
+Although the concept of anonymity seems to become more tenuous as time progresses, it actually moves in the opposite direction.
 
 The more visualization progresses, the more interest in the ""invisible'' becomes a reaction.
 

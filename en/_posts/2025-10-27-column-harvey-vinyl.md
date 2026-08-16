@@ -20,7 +20,7 @@ title: '[Column] DJ Harvey and record collection: DJ as a body that lives "sound
 Text: mmr｜Theme: Not just a DJ, but a consideration of the last "shaman" of the analog era
 
 
-DJ Harvey - just hearing that name makes many club freaks' faces go slack.
+DJ Harvey - Just hearing that name makes many club freaks' faces go slack.
 Co-founder of the legendary London club **Tonka Sound System**, he rose to fame in the 90s as a resident at **Ministry of Sound**, moved to **Ibiza** in the 2000s, and is currently based in **Los Angeles**.
 
 Harvey says. "Records are fragments of my soul. When the needle drops, God dwells there."
@@ -45,10 +45,10 @@ color: #fff;
 ## Chapter 1: The era when records are "alive"
 
 London in the 1980s. Harvey was immersed in street culture through skateboarding and punk. However, he eventually started frequenting record stores and became obsessed with the charm of 12-inch singles.
-At that time, records were not just a sound source, but a culture that could be touched. The texture of the jacket, the smell of the liner notes, the depth of the cut. All of that was part of the "musical experience."
+At that time, records were not just a sound source, but a culture that could be accessed. The texture of the jacket, the smell of the liner notes, the depth of the cut. All of that was part of the "musical experience."
 
 The first album he bought was **Grace Jones' ""Pull Up to the Bumper''**.
-The moment his body moved to that bass line, Harvey realized his destiny as a DJ.
+The moment his body moved to that bassline, Harvey realized his destiny as a DJ.
 
 > "For me, records are like breathing. I breathe in sound and let it out. That's it."
 
@@ -63,7 +63,7 @@ For him, a record is ""the act of keeping a record of someone else's life.''
 Wandering around markets and flea markets, digging up dusty records. There are not only sounds but also **traces of time** engraved there.
 
 Harvey says, "The more a record has human fingerprints on it, the more alive the sound is."
-His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and Hawaiian AOR.
+His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and even Hawaiian AOR.
 The selection of songs is not random, but based on an intuition of reading the ""airflow of sound''.
 
 His DJ bag is like a travel journal. Each record contains memories of some night.
@@ -121,7 +121,7 @@ DJ Harvey recently said in an interview:
 > "I"m not a "collector' anymore. I just live with music."
 
 In these words, there is the **freedom** that I have reached at the end of my DJ career of over 40 years.
-Collecting records was not an act of ""owning'' music, but rather a way to **live time together**.
+Collecting records was not an act of "owning" music, but rather a way of living time together.
 
 The walls of his house are lined with analog records. However, they are by no means static archives.
 Every time Harvey drops the needle, the time on the board comes to life again.
@@ -211,7 +211,7 @@ pie title DJ Harvey's Vinyl Box Composition
 **Explanation**:
 Harvey's record box is an organic archive premised on the mixing of genres.
 What is noteworthy is that "Rock" and "House" are placed equally.
-This symbolizes the fact that he is a DJ who always connects by vibe, not by genre.
+This symbolizes the fact that he is a DJ who always connects with vibes, not genres.
 The "Oddities" slot is Harvey's secret weapon. Activates during after hours and sunrise settings.
 
 ---

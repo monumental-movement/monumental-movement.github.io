@@ -112,9 +112,9 @@ Although Myspace attempted to rebrand itself during this period, it was unable t
 
 ## Re-evaluation of 2000s Myspace music culture
 
-> 現代のインディー音楽やネット文化はMyspaceの試みなしには語れず、その意義が再評価されつつある
+> Modern indie music and internet culture cannot be considered without the efforts of Myspace, and its significance is being reevaluated.
 
-現在、2000年代のMyspace音楽文化は、単なる懐古的な話題ではなく、インターネット文化と音楽文化の交差点として重要性が再評価されている。Myspaceは、DIY文化や個人発信の先駆けであり、アーティスト自身が主体的に音楽を広める仕組みを生み出した。このモデルは、SoundCloudやBandcamp、さらにTikTokなど現代の音楽拡散プラットフォームの原型となっている。
+Currently, the Myspace music culture of the 2000s is not just a nostalgic topic, but is being reevaluated in importance as an intersection of Internet culture and music culture. Myspace was a pioneer in DIY culture and personal communication, and created a system for artists to independently spread their music. This model is the prototype for modern music distribution platforms such as SoundCloud, Bandcamp, and even TikTok.
 
 <div class="mermaid">
 flowchart TB

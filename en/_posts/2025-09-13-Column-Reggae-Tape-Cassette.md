@@ -21,7 +21,7 @@ title: '[Column] Reggae music and cassette culture: the relationship between sou
 Text: mmr｜Theme: Relationship between reggae and cassette culture based on the historical background
 
 
-Reggae music is a musical style that originated in Jamaica in the late 1960s, and its rhythms and lyrics have been imbued with social and political messages. Its unique system of music distribution and enjoyment centered on sound systems set it apart from the commercial record industry. The media called ""cassette tape'' played an important role in this. Cassettes were cheap and easy to copy, and strongly connected local everyday life with reggae culture. Here, we will examine the relationship between reggae and cassette culture, taking into account the historical background.
+Reggae music is a musical style that originated in Jamaica in the late 1960s, and its rhythms and lyrics have been imbued with social and political messages. Its unique system of music distribution and enjoyment centered on sound systems set it apart from the commercial record industry. The media called ""cassette tape'' played an important role in this. Cassettes were cheap and easy to copy, and strongly connected local everyday life with reggae culture. Here, we will consider the relationship between reggae and cassette culture, taking into account the historical background.
 
 
 ---
@@ -63,7 +63,7 @@ At sound system events and dance halls, a culture has emerged in which live reco
 For example, recordings of specific sound system confrontations (sound clashes) and later distributing them on cassette were a valuable means of sharing experiences for fans.
 
 - **Diaspora and Cassette**
-For Caribbean immigrant communities in Britain and the United States, the cassettes sent from Jamaica were a real-time medium that conveyed the ""current state of their homeland.'' Through mail and informal networks, Jamaica's latest reggae and dancehall music quickly spread overseas.
+For Caribbean immigrant communities in Britain and the United States, the cassettes sent from Jamaica were a real-time medium that conveyed the ""current state of their homeland.'' Through the mail and informal networks, Jamaica's latest reggae and dancehall music quickly spread overseas.
 
 ---
 
@@ -101,7 +101,7 @@ A list of famous recordings that symbolize reggae cassette culture. These are no
 |------------------|------|------|
 | Stone Love Sound System Live @ Kingston | 1982 | A representative recording from the early days of Sound Clash. The cheers from the audience were also lively. |
 | Killamanjaro vs. Black Scorpio Clash | 1985 | The tension of the sound showdown and the exchange of impromptu MCs. |
-| Silverhawk Sound System 90"s Dancehall Set | 1992 | The craze of dancehall during the heyday of digital riddim was condensed. |
+| Silverhawk Sound System 90"s Dancehall Set | 1992 | The craze of dancehall in the heyday of digital riddim is condensed. |
 | Bass Odyssey Live in Clarendon | 1994 | Contains the vivid excitement of local events. |
 | Stone Love Anniversary Party Tapes | 1997 | A commemorative cassette summarizing the highlights of the scene. |
 
@@ -134,7 +134,7 @@ In the 1990s, when the number of Japanese reggae fans rapidly increased, local c
 - **Introducing an independent mixtape**
 As Japanese sound systems (Mighty Crown, Fire Ball, etc.) grew, they started releasing their own mixes on cassette. This led to the fusion of Japan's unique reggae culture and styles imported directly from Jamaica.
 
-- **After 2000s: CD-R and digitalization wave**
+- **After the 2000s: CD-R and digitalization wave**
 In the 2000s, CD-R and MP3 became mainstream, and cassettes gradually disappeared. However, some collectors and DJs still preserve their cassettes and digitize them to give back to the scene. These continue to have value as a vivid archive of reggae's reception in Japan.
 
 - **Cultural Significance**
@@ -148,9 +148,9 @@ The spread of reggae and cassette culture will be organized in parallel as movem
 
 | Age | Movements in Jamaica | Movements in Japan |
 |------|-------------------|-------------|
-| 1968 | The birth of reggae. It changed from ska to rock steady, and a bass-based rhythm was established. | The existence of reggae has been introduced to a limited extent, and there is still almost no general recognition. |
+| 1968 | The birth of reggae. It changed from ska to rocksteady, and a bass-based rhythm was established. | The existence of reggae has been introduced on a limited basis, and there is still almost no general recognition. |
 | 1970s | Sound system culture expands. Compact cassettes begin to flow in. | Bob Marley is introduced through some music magazines and imported record stores. |
-| 1980-82 | Cassette recording rapidly increased in the field of sound systems. Distributed on the street. | Some record stores in Tokyo and Osaka begin unofficially distributing cassettes brought back from Jamaica. |
+| 1980-82 | Cassette recording rapidly increased in sound system settings. Distributed on the street. | Some record stores in Tokyo and Osaka begin unofficially distributing cassettes brought back from Jamaica. |
 | 1985 | The "Sleng Teng" riddim is introduced, and the digital age begins. Accelerates cassette recording. | The import of local recording cassettes by overseas travelers and DJs is increasing, and they are used in the club scene. |
 | 1990-92 | The golden age of dancehall. Stone Love, Killamanjaro and others are popular. Cassettes have become an essential medium. | Mighty Crown formed (1991). Researched local cassettes and started working on a sound system unique to Japan. |
 | 1994-96 | Sound Clash recordings are distributed worldwide. | Reggae events are popular mainly in Shibuya and Osaka Minami. Imported cassettes are a source of information on the latest riddims. |
@@ -175,7 +175,7 @@ The spread of reggae and cassette culture will be organized in parallel as movem
 
 ## monumental-movement.jp: Cassette/Reggae related page list
 
-| Page name | Format/tag | Announcement date/characteristics | Link |
+| Page name | Format/Tags | Announcement date/Features | Link |
 |---|----------------------|----------------|-------|
 | Bob Marley – Soul Almighty - The Formative Years Vol. 1 | **Cassette**, 90s / Reggae / Roots / Rocksteady | Remastered work including unreleased songs. Released as a cassette in the 90's. :contentReference[oaicite:0]{index=0} | [Bob Marley – Soul Almighty Vol.1](https://monumental-movement.jp/Bob-Marley-Soul-Almighty-The-Formative-Years-Vol.-1/) |
 | Yellowman & General Trees – A Reggae Calypso Encounter | **Cassette**, Dancehall / Reggae | Yellowman + General Trees co-star. Strong aspects of dancehall reggae, including calypso elements. :contentReference[oaicite:2]{index=2} | [Yellowman & General Trees – A Reggae Calypso Encounter](https://monumental-movement.jp/Yellowman-and-General-Trees-A-Reggae-Calypso-Encounter/) |

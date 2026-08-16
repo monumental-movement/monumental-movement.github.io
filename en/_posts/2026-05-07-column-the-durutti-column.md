@@ -27,7 +27,7 @@ While many post-punk bands focused on aggressive rhythms and politics, this proj
 
 Although the guitar playing of the central figure, Vini Reilly, was influenced by classical music, jazz, flamenco, etc., he sublimated it into a unique grammar without directly quoting them. His sound is more like a trembling air than a melody.
 
-By this point, The Durutti Column was already outside the realm of post-punk.
+At this point, The Durutti Column was already outside the framework of post-punk.
 
 > Their music could be said to deal with ""space itself'' rather than genre.
 
@@ -67,7 +67,7 @@ However, the music on the inside, in contrast to its exterior, was extremely cal
 
 Vini Reilly's guitar almost nullifies the concept of "riff" or "solo" in the context of rock. His performances are composed of silences between sounds.
 
-Although he makes extensive use of delay and reverb, they are not just effects, but function as a means of manipulating time itself. Once a sound is played, it repeats in space, overlapping and forming new layers.
+Although he makes extensive use of delay and reverb, they are not just effects, but function as a means of manipulating time itself. Once a sound is played, it repeats, overlaps, and forms a new layer in space.
 
 This method had a major influence on later ambient and post-rock. In particular, there are many parts that resonate with Brian Eno's ideas, and they share the perspective of viewing music as ""part of the environment.''
 
@@ -101,7 +101,7 @@ A[1980 early] --> B[ambient guitar]
 B --> C[1983 mid-term]
 C --> D[Rhythm introduction]
 D --> E[1986 onwards]
-E --> F[Fusion with electronic sound]
+E --> F[Fusion with electronic sounds]
 </div>
 
 For example, in ""LC," a clearer structure emerges, and in ""Another Setting," classical elements are emphasized.
@@ -122,7 +122,7 @@ Their music is extremely abstract, even compared to their contemporaries The Smi
 
 The rhythmic emphasis is weak, and there are almost no songs. Therefore, it does not rely on common pop structures. Although this was commercially disadvantageous, it resulted in an extremely long career.
 
-Additionally, their music has had an impact across genres. Traces of this can be seen in post-rock, ambient, and even contemporary lo-fi and electronica.
+Additionally, their music has had an impact across genres. Traces of this can be seen in post-rock, ambient, and even modern lo-fi and electronica.
 
 > Rather than belonging to a genre, they continued to create a space outside of the genre.
 
@@ -142,7 +142,7 @@ It's only about two and a half minutes long. However, their aesthetic is almost 
 
 ### Sound as "grain" of guitar
 
-The centerpiece is Vini Reilly's guitar, but the important thing here is not the phrase, but the grain of the sound.
+The centerpiece is Vini Reilly's guitar, but the important thing here is not the "phrase" but the "grains of sound."
 
 Normal rock guitar moves time forward through riffs and chord progressions, but with "Sketch for Summer," time expands in the opposite direction. Single notes are repeated with a delay, overlapping each other with slight shifts, creating a flow that feels like rhythm but is not.
 
@@ -168,7 +168,7 @@ This song seems to have a clear melody line, but it"s actually vague. It leaves 
 
 This is no coincidence. Reilly's performance is designed to leave the melody as a "feel" rather than a fixed "sign".
 
-Therefore, as you listen to this song repeatedly, you will gradually begin to see its outline. What was perceived as a landscape at first gradually became understood as a structure.
+Therefore, as you listen to this song repeatedly, you will gradually begin to see its outline. What was initially felt as a landscape gradually became understood as a structure.
 
 > What remains in the memory is not the melody, but the texture of the atmosphere itself.
 
@@ -184,7 +184,7 @@ The sound leaves a lot of blank space and doesn't tell everything. Therefore, li
 
 Similarly, the season of summer has a specific image but has different meanings depending on the person.
 
-> This song doesn't "depict summer" but "reminds me of summer."
+> This song does not "depict summer" but "reminds me of summer."
 
 ---
 
@@ -208,7 +208,7 @@ This song is often described as ambient, but it's not exactly ambient music eith
 
 While Brian Eno defines ambient as ""music you can listen to or ignore," ""Sketch for Summer" is a little more in the foreground.
 
-If you listen carefully, you can see the delicate structure, but it also works well when played as a background. This "middle position" gives rise to the uniqueness of this song.
+If you listen carefully, you can see the delicate structure, but it also works well when played as a background. This "in-between position" gives rise to the uniqueness of this song.
 
 > Ambiguity, which can be both background and foreground, is the essence of this song.
 
@@ -228,7 +228,7 @@ In particular, the idea of ​​""creating a rich space with less sound'' has b
 
 ### Why does it still resonate today?
 
-It's clear why this song, created over 40 years ago, still sounds fresh.
+It's easy to see why this song, created over 40 years ago, still sounds fresh.
 
 This is because it does not depend on the era. Elements such as drum machine tones or synth trends are almost absent, and the focus is on the structure of the sound itself.
 
@@ -264,7 +264,7 @@ Music that is created by reducing the sound. A structure that emphasizes reverbe
 
 What"s most important is the fact that the music still hasn"t gotten old. In fact, in the modern listening environment, that "margin" resonates more richly.
 
-> The longest-lasting music exists in silence.
+> The longest lasting music exists in silence.
 
 ---
 

@@ -23,7 +23,7 @@ Text: mmr｜Theme: Tracing Toots and the Maytals' live performances, including a
 
 Kingston, Jamaica in the 1960s. With the hustle and bustle of a port town, the buzz of markets, and the rhythm of street ska all over the city, Toots and the Maytals, led by Toots Hibbert, have become a presence that transforms music itself into culture through their live performances.
 
-At live performances, the audience is not just an audience member, but a part of the performance. Call-and-response, impromptu talks, and dance exchanges with the audience transform mere musical events into cultural rituals. ""Do the Reggay'', born in 1966, was a symbolic moment, and the audience themselves became the promoters of reggae culture.
+At live performances, the audience is not just an audience member, but a part of the performance. Call-and-response, impromptu talks, and dance exchanges with the audience transform simple musical events into cultural rituals. ""Do the Reggay'', which was born in 1966, was a symbolic moment, and the audience themselves became the promoters of reggae culture.
 
 ---
 
@@ -61,7 +61,7 @@ The audience participates by clapping and dancing, and laughter echoes through t
 
 ### 1.2 Birth and reaction of "Do the Reggay"
 
-First performed in 1966, ""Do the Reggay'' instantly electrified audiences at club shows in Jamaica. The audience sings, dances, and laughs in a circle on the floor, filling the venue. Every time Toots calls out, "Do the Reggay!", a chain reaction of clapping and cheers ensues.
+First performed in 1966, ""Do the Reggay'' instantly electrified audiences at club shows in Jamaica. The audience sings, dances, and laughs in a circle on the floor, filling the venue. Every time Toots calls out, "Do the Reggay!", there is a chain reaction of clapping and cheering.
 
 This song was not just a performance, but a cultural ritual with audience participation. The word reggae spread around the world, creating a moment when audiences functioned as transmitters of culture.
 
@@ -69,7 +69,7 @@ This song was not just a performance, but a cultural ritual with audience partic
 
 ### 1.3 Cultural significance of early live shows
 
-* The prototype of a participatory live performance based on call and response
+* Prototype of participatory live performance with call and response
 * Music events that encourage local community unity
 * Creating a cultural experience where the stage and audience become one
 
@@ -88,7 +88,7 @@ In 1970, Toots and the Maytals embarked on their first European tour. At London'
 
 * Guitar and organ riffs echo through the floor, creating an impromptu dance.
 
-During live performances, Toots would sometimes invite audience members to dance, making the floor a kind of participatory theater. Success here laid the foundation for the spread of reggae in Europe.
+During live performances, Toots would sometimes invite audience members to dance, turning the floor into a kind of participatory theater. Success here laid the foundation for the spread of reggae in Europe.
 
 ---
 
@@ -152,7 +152,7 @@ Approximately 10,000 people gathered for the 50th anniversary concert at Kingsto
 **Detailed description**:
 
 * A comprehensive setlist from early masterpieces to the latest albums
-* "Monkey Man" has the entire audience shaking from side to side, making the floor ripple.
+* "Monkey Man" has the entire audience shaking from side to side and the floor ripples.
 * Toots looks at each audience member and improvises lyrics.
 
 * The entire festival became a space to experience historical continuity.
@@ -186,7 +186,7 @@ Through live performances in Europe and America, reggae spread around the world 
 | 1966 | "Do the Reggay" released | Audience dancing in a circle | Birth of the word "Reggae" |
 | 1968 | Appearance at the National Festival | Thousands of people | Visualizing the evolution of music genres |
 | 1970 | First European tour | London "Carnival Club" | Pioneer of worldwide spread |
-| 1972 | Live in London | Introduction of PA and improvisational dance guidance | Establishment of live music with emphasis on sound |
+| 1972 | Live in London | Introduction of PA and improvisational dance guidance | Establishment of live music with an emphasis on sound |
 | 1975 | "Funky Kingston" released | NY tour, audience participation | US market penetration |
 | 1980 | Reggae Sunsplash appearance | Audience chorus | International community formation |
 | 1988 | MSG Performance | "Funky Kingston" Call & Response | Popularization of American Reggae |

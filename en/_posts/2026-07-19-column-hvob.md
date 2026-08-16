@@ -33,11 +33,11 @@ Vocals sung in a whisper.
 
 And the quiet passage of time.
 
-However, this simplicity does not necessarily mean a lack of information.
+However, its simplicity does not necessarily mean a lack of information.
 
 Each note is carefully placed, and even silence functions as part of the music.
 
-HVOBは派手な技巧や複雑な構成によって個性を生み出したユニットではない。
+HVOB is not a unit that creates individuality through flashy techniques or complicated compositions.
 
 He is one of the few artists who has created a unique world by designing "margins."
 
@@ -77,7 +77,7 @@ Meanwhile, since the 1990s, the city's electronic music scene has also developed
 
 Unlike the huge club culture of Berlin, Vienna creates an environment where minimal, downtempo, ambient, and experimental music naturally mix.
 
-クラブだけでなく、美術館やギャラリー、文化施設でも電子音楽イベントが開催されることが珍しくなく、音楽をアートとして捉える価値観が浸透していた。
+It was not uncommon for electronic music events to be held not only in clubs but also in museums, galleries, and cultural facilities, and the idea of ​​music as art was widespread.
 
 ### Characteristics of Vienna Electronica
 
@@ -128,7 +128,7 @@ E --> F[HVOB]
 
 ## Birth of HVOB──Anna Müller and Paul Wallner
 
-### デュオ結成
+### Duo formation
 
 HVOB was formed in Vienna, Austria in 2012.
 
@@ -303,11 +303,11 @@ This duality is a characteristic of HVOB.
 
 From this time on, HVOB began to place greater emphasis on live footage.
 
-The LED screen backdrop and geometric visual expressions visually expanded the worldview of music.
+The LED screen backdrop and geometric visual expressions visually expanded the musical worldview.
 
 The video is not just a decoration, but is designed to complement the song structure itself.
 
-The amount of light and colors are synchronized with the development of the music, allowing the audience to immerse themselves in the work both visually and aurally.
+The amount of light and colors are synchronized with the development of the music, allowing the audience to immerse themselves in the work both visually and audibly.
 
 ### Maturity of vocal expression
 
@@ -354,7 +354,7 @@ As the title ""Silk'' suggests, the overall sound of this work is smoother, with
 
 While maintaining the minimal aesthetic that has been consistent since their debut, the texture of the songs has become even more organic.
 
-The synthesizer"s tone spreads out and melts into the air, and the rhythm doesn"t overstate itself.
+The synthesizer"s tone spreads out and blends into the air, and the rhythm doesn"t overstate itself.
 
 As a result, even though it is club music, listeners can feel as if they are listening to movie music.
 
@@ -376,7 +376,7 @@ What is particularly impressive is the "margin" that dominates the entire song.
 
 By intentionally leaving silence rather than cramming in too much sound, each tone stands out more clearly.
 
-This method is common to ambient and minimal music, and is representative of HVOB's sound design.
+This method is a concept shared with ambient and minimal music, and is representative of HVOB's sound design.
 
 ### Music that lets you hear the space rather than the melody
 
@@ -427,7 +427,7 @@ D --> E
 E --> F[Immersive Listening]
 </div>
 
-> 『Silk』はHVOBの音楽を「ダンスフロアのための作品」から「空間そのものを味わう作品」へと進化させたアルバムだった。
+> ""Silk" was the album that evolved HVOB's music from ""works for the dance floor" to ""works that allow you to enjoy the space itself.''
 
 ---
 
@@ -451,7 +451,7 @@ This is based on the idea of ​​""reconstructing'' music on the spot, rather 
 
 Visual production is essential when talking about HVOB's live performances.
 
-Images using LED screens and projections are closely synchronized with the development of the songs.
+Images using LED screens and projections are closely synchronized with the development of the song.
 
 Abstract geometric pattern.
 
@@ -461,7 +461,7 @@ Colors that change slowly.
 
 The images do not serve to explain the story, but rather to visualize the texture of the music.
 
-Therefore, just looking at the video will not complete the project, and listening to the music alone will not complete the project.
+Therefore, it cannot be completed just by looking at the video, nor can it be completed by only listening to the music.
 
 Only when the two come together will the HVOB live experience be complete.
 
@@ -525,11 +525,11 @@ E --> F[Immersion]
 
 ### Choose what sounds to keep instead of adding more sounds
 
-Analyzing HVOB's works, the most significant feature is their ""small number of sounds.''
+Analyzing HVOB's works, the most significant feature is the ""small number of sounds.''
 
 In modern electronic music, it's not uncommon to layer dozens of tracks and add detailed sound effects.
 
-On the other hand, HVOB doesn't stack sound any more than necessary.
+On the other hand, HVOB doesn't stack sounds any more than necessary.
 
 One synthesizer.
 
@@ -539,15 +539,15 @@ One vocal.
 
 Each is designed to fulfill its role.
 
-This idea of ​​""subtraction'' does not simply simplify production.
+This idea of ​​"subtraction" does not simply simplify production.
 
-Rather, by removing unnecessary elements, each sound that remains is given greater meaning.
+Rather, as a result of removing unnecessary elements, each sound that remains is given greater meaning.
 
 Because there are so few sounds, slight differences in tone or changes in volume can affect the overall impression of the song.
 
 That"s why small changes play such an important role in HVOB"s songs.
 
-### 音色を主役にしたアレンジ
+### Arrangement with tone as the main character
 
 In many pop songs, the melody is the main character.
 
@@ -555,7 +555,7 @@ On the other hand, in HVOB, the ""timbre'' itself becomes the center of the work
 
 Even if the same chord progression is repeated, the expression of the song slowly changes as the filter opens and closes and the overtones change.
 
-The listener feels as if they are listening to the texture of the sound itself, rather than following the melody.
+Rather than following the melody, the listener feels like they are listening to the texture of the sound itself.
 
 This method is a way of thinking that is shared with ambient and minimal music, and is an important element that supports HVOB's unique worldview.
 
@@ -583,7 +583,7 @@ Only the vocals remain.
 
 These short silences accentuate the next sound.
 
-音を足すことではなく、あえて引くことによって楽曲全体のダイナミクスを生み出しているのである。
+The dynamics of the song as a whole are created by subtracting sounds rather than adding them.
 
 This way of thinking is also reflected in live performances, resulting in a sound that is loud but less tiring to the ears.
 
@@ -602,7 +602,7 @@ C --> E
 D[silence]
 D --> E
 
-E --> F[没入感]
+E --> F[immersive feeling]
 </div>
 
 > HVOB's music is shaped by the choice of ""what to leave behind," rather than ""how much sound can be increased."
@@ -613,7 +613,7 @@ E --> F[没入感]
 
 ### Main events
 
-| 年 | 出来事 |
+| Year | Events |
 |----|--------|
 | 2012 | HVOB formed by Anna Müller and Paul Wallner in Vienna |
 | 2012 | Early works released on SoundCloud and attracting attention |
@@ -712,7 +712,7 @@ The song's composition, which seems to design the flow of time itself, such as t
 
 ### "Trialog" (2015)
 
-In their second album, the presence of low frequencies increased, developing a dynamic sound with live performances in mind.
+In their second album, the presence of low frequencies increased, developing a dynamic sound with live performance in mind.
 
 However, the aesthetic of HVOB's blank spaces has not been lost.
 
@@ -724,7 +724,7 @@ It has a high affinity with live sets, and many songs are now played in long arr
 
 As the title suggests, ""Silk'' has a softer sound quality.
 
-It is characterized by a sound design that naturally blends into the atmosphere, rather than a sharp outline.
+It is characterized by a sound design that naturally blends into the atmosphere, rather than having sharp contours.
 
 Space rather than rhythm.
 

@@ -44,7 +44,7 @@ Ambient music, which was formed in the 1970s, embraced the idea of ​​music f
 
 On the other hand, techno, which was established in the late 1980s, has developed as a music that induces physical movement, with repetitive beats and mechanical precision at its core. Although these two trends seem to be polar opposites, they share common elements of ""persistence," ""repetition," and ""non-narrative.''
 
-From the end of the 1980s to the beginning of the 1990s, as club culture matured, there was a need for music that could function outside the dance floor, or music that could support non-peak times, and the two became closer in practical terms.
+From the late 1980s to the early 1990s, as club culture matured, there was a need for music that could function outside of the dance floor, or music that could support non-peak times, and the two became closer in practical terms.
 
 ---
 

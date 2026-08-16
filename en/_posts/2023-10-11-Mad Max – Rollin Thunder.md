@@ -14,7 +14,7 @@ title: Mad Max – Rollin Thunder
 
 Mad Max is a hard rock band formed in 1981 by Michael Voss, Jürgen Brefors, Roland Bergman, and Axel Kruse from Münster, Germany.
 
-The album "Rollin" Thunder", released in 1984, is Mad Max"s second album.
+The album "Rollin" Thunder" released in 1984 is Mad Max"s second album.
 
 #### Tracklist
 ```md

@@ -28,7 +28,7 @@ We are not talking about "masterpieces" here, but only works that have rewritten
 This is not a work that created a genre, but a work that broke the premise of the genre.
 It's not music that creates emotion, but music that changes the way music is made.
 
-> Music history is not a genealogy of talent, but a chain of breaking rules.
+> Music history is not a genealogy of talent, but a chain of rule breaking.
 
 
 <style type="text/css">
@@ -74,7 +74,7 @@ E --> F
 
 ## 1st Place Sgt. Pepper's Lonely Hearts Club Band — The Studio as a New Instrument
 
-1967年のロンドン。ビートルズはすでにツアー活動を停止し、ステージから撤退していた。その空白は単なる休止ではなく、録音という行為そのものを再設計するための時間だった。
+London in 1967. The Beatles had already stopped touring and withdrew from the stage. That blank space was not just a pause, but a time to redesign the act of recording itself.
 
 Sgt. Pepper's Lonely Hearts Club Band is an album born as a result of this, with the concept of "a fictional live performance by a fictional band," and at the same time, it is a work that fundamentally rewrites the prerequisites for music production.
 
@@ -82,7 +82,7 @@ At the time, pop music was still dominated by a ""single-centered'' industrial s
 
 Recorded at EMI Studios (later Abbey Road Studios) in London, produced by George Martin. He brought the arrangement perspective of classical music to pop, integrating strings, brass, tape editing, reverse playback, and variable speed recording.
 
-特に象徴的なのは、楽曲同士の“切れ目の消失”である。観客の拍手、環境音、オーケストラのグリッサンドが曲間を溶解させ、アルバム全体が一つの連続した意識流として機能する。
+Particularly symbolic is the "disappearance of breaks" between songs. Audience applause, ambient sounds, and orchestral glissandi dissolve the gaps between songs, making the entire album function as one continuous stream of consciousness.
 
 This structure became a reference point for later concept albums and established the concept of a ""work unit'' in rock music.
 
@@ -90,9 +90,9 @@ In terms of recording technology, countless tape dubbings were performed within 
 
 Furthermore, as exemplified by ""A Day in the Life," the method of connecting different songwriting fragments through editing transformed traditional songwriting into ""the art of editing."
 
-文化的には、1967年のサマー・オブ・ラブと完全に同期し、サイケデリック文化の象徴となる。しかし重要なのは、それが単なる時代の反映ではなく、時代そのものの“編集者”として機能した点である。
+Culturally, it was perfectly synchronized with 1967's Summer of Love and became a symbol of psychedelic culture. However, what is important is that it was not just a reflection of the times, but functioned as an ""editor'' of the times themselves.
 
-音楽が社会を反映するのではなく、音楽が社会の知覚構造を再設計する。この逆転がここで起きている。
+Rather than music reflecting society, music redesigns society's perceptual structure. This reversal is happening here.
 
 The subsequent impact is direct. Progressive rock, art rock, and even modern pop album design are all under the influence of this work.
 
@@ -136,7 +136,7 @@ The instruments used are also unique. It incorporates sound materials that devia
 
 The result is "structural music for emotion." The hooks and riffs of traditional hit songs have been diluted, and instead the emotional flow itself is structured.
 
-このアルバムは後のインディーポップ、ドリームポップ、さらにはアンビエント的ポップの起点となる。音楽が“外向的な表現”から“内面的な構築物”へと移行する転換点である。
+This album became the starting point for later indie pop, dream pop, and even ambient pop. This is a turning point in music's transition from an ""extroverted expression" to an ""inner construction."
 
 Brian Wilson's mental stress during the production process was later talked about as a symbol of the relationship between creativity and isolation.
 
@@ -206,7 +206,7 @@ There are
 
 There existed a unique artistic realm in which both were mixed.
 
-その中心人物こそ芸術家のAndy Warholである。
+The central figure is artist Andy Warhol.
 
 Warhol went to a studio called the Factory.
 
@@ -218,7 +218,7 @@ Warhol went to a studio called the Factory.
 
 were brought together to form a new artistic community.
 
-そこへ現れたのが、
+Then, what appeared was
 
 * Lou Reed
 *John Cale
@@ -304,7 +304,7 @@ The record company at the time was
 * Reduce noise
 * Rewrite the lyrics
 
-と要求することが普通だった。
+It was common to request that.
 
 But Warhol gave no such instructions.
 
@@ -337,7 +337,7 @@ Rather, the characteristic
 
 "Performance itself rather than recording technology"
 
-だった。
+It was.
 
 John Cale distorts the viola;
 
@@ -345,7 +345,7 @@ Incorporating sustained sounds into a rock band.
 
 In addition, Lou Reed's guitar used different tunings and repeated rhythms than a typical rock guitar, and he performed with an emphasis on texture rather than chords.
 
-一方、Maureen Tuckerはドラムセットを一般的なロックドラマーとは異なる構成で演奏し、シンバルの使用を極力抑えたミニマルなビートを生み出した。
+Maureen Tucker, on the other hand, played a drum set with a different configuration than typical rock drummers, creating a minimalist beat that minimized the use of cymbals.
 
 As a result, each instrument did not compete with each other in terms of skill, but instead created a unique sense of immersion through the overlapping of constant rhythms and sustained sounds.
 
@@ -371,19 +371,19 @@ E --> H[Alternative Rock]
 
 ---
 
-## タブーを正面から描いた歌詞
+## Lyrics that depict taboos head-on
 
 In 1967, many pop songs were about love.
 
 But Lou Reed
 
-* ヘロイン
+* Heroin
 * Prostitution
 *BDSM
 * urban solitude
 *Drug addiction
 * Violence
-* 性
+* Gender
 
 was depicted from a surprisingly calm perspective.
 
@@ -393,7 +393,7 @@ Rather than glorifying drugs, ""Heroin'' depicts the inner lives of addicts in t
 
 ""Venus in Furs'' is based on Venus in Furs and deals with sexual themes that were highly unusual in pop music at the time.
 
-これらの歌詞はセンセーショナルであること自体を目的としたものではなく、「都市に存在する現実」を装飾せず記録しようとする姿勢から生まれていた。
+These lyrics were not intended to be sensational per se, but were born from an attitude of trying to record the ""reality that exists in the city'' without embellishing it.
 
 > ""The greatest innovation of this work is that it presents not only a beautiful world, but a reality that no one has ever tried to sing about in the words of rock.''
 
@@ -419,7 +419,7 @@ Many songs were not eligible for airplay due to the high possibility of violatin
 
 Commercial results were also poor, with initial sales being extremely limited.
 
-当時のアルバム・チャートでは一時的にランクインしたものの、大ヒット作品には遠く及ばず、レコード会社から見れば成功作とは言えなかった。
+Although it briefly ranked on the album charts at the time, it was far from a blockbuster, and could not be called a success from the record company's perspective.
 
 However, what is interesting is that the reactions of critics were also very divided.
 
@@ -435,9 +435,9 @@ In the 1970s, this album became a secret topic of conversation among used record
 
 A famous quote by music producer Brian Eno symbolizes this.
 
-> "The first album only sold 30,000 copies. But all 30,000 people started a band."
+> "The first album only sold 30,000 copies. But all 30,000 of them started a band."
 
-There are various theories about this statement, and no clear primary source material has been confirmed as to where Eno actually used this expression.
+There are various theories regarding this statement, and no clear primary source material has been confirmed as to where Eno actually used this expression.
 
 However, the reason this phrase continues to be widely quoted is that it effectively describes the historical impact of the work so accurately.
 
@@ -445,7 +445,7 @@ Young musicians who listened to this work received a new sense of value: ""The p
 
 In other words, this album is not a work that teaches ""how to be successful.''
 
-It was a work that spread the idea that ""it is okay to express oneself freely.''
+It was a work that spread the idea that ""you can express yourself freely.''
 
 <div class="mermaid">
 
@@ -517,7 +517,7 @@ What"s Going On, released on May 21, 1971, didn"t just change the history of sou
 
 This work was one of the biggest turning points in 20th century music, establishing the idea that ""pop music can speak about society.''
 
-それまでのヒット・ソングが恋愛やダンスを中心に描いていた時代に、本作は戦争、人種差別、警察暴力、環境破壊、貧困、信仰、家族という現実社会そのものをアルバム全体のテーマに据えた。
+At a time when hit songs up until then had centered around love and dance, this album focused on the themes of war, racism, police violence, environmental destruction, poverty, faith, and family, all of which were the realities of society.
 
 Moreover, it was not a sermon, but an enveloping expression with an overwhelmingly beautiful melody and smooth groove.
 
@@ -525,7 +525,7 @@ After this work, Seoul gained a new status as not just entertainment, but as ""a
 
 ---
 
-## 激動するアメリカ社会
+## Turbulent American society
 
 Around 1970, America was in the midst of one of the greatest social unrests of the post-war era.
 
@@ -605,7 +605,7 @@ But Marvin Gaye wouldn't budge.
 
 With that declaration, they effectively go on strike.
 
-Motownにとって最大級のスターを失うことは大きな損失だった。
+Losing one of Motown's biggest stars was a huge loss.
 
 Berry Gordy eventually relented, and the title track was released as a single in January 1971.
 
@@ -676,9 +676,9 @@ E --> G[new soul expression]
 
 ---
 
-## コンセプト・アルバムという「一つの祈り」
+## "One prayer" called a concept album
 
-『What's Going On』を語る上で欠かせないのが、その構成である。
+What"s essential when talking about ""What"s Going On'' is its structure.
 
 An album is not just a collection of songs.
 
@@ -729,7 +729,7 @@ The album received high praise immediately after its release in May 1971.
 
 Following the title song, ""Mercy Mercy Me (The Ecology)" and ""Inner City Blues (Make Me Wanna Holler)" were also hits, achieving great commercial success.
 
-What is noteworthy is that its success overturned the conventional wisdom in the music industry at the time that ""works that deal with social issues will not sell.''
+What is noteworthy is that its success overturned the conventional wisdom in the music industry at the time that ""works that deal with social issues do not sell.''
 
 Critics hailed it as Marvin Gaye's breakthrough from soul singer to all-around artist.
 
@@ -755,7 +755,7 @@ Curtis Mayfield further pushed the social nature of Soul with sharper depictions
 
 From the 1980s onward, Prince developed an artist-driven creative approach to producing albums that crossed genres.
 
-Furthermore, in the era of hip-hop, this spirit was inherited in a new form.
+Furthermore, in the era of hip-hop, this spirit was inherited in new forms.
 
 Public Enemy, 2Pac, Kendrick Lamar, and others have taken social inequality and racial issues as central themes in their works, and have continued the ""dialogue with society through music'' that this work opened up into the present day.
 
@@ -787,7 +787,7 @@ One of the works that built this cultural foundation is ""What's Going On.''
 
 ### An album that rewrote the future of jazz in "just two days"
 
-Kind of Blue, released on August 17, 1959, is the best-selling album in jazz history, and one of the most influential works in all of music history.
+Kind of Blue, released on August 17, 1959, is the best-selling jazz album in history, and one of the most influential works in all of music history.
 
 This work is not just a masterpiece.
 
@@ -927,7 +927,7 @@ F --> G
 
 The core of ""Kind of Blue'' lies in the idea of ​​modal improvisation.
 
-In traditional jazz, chord progressions change minutely, and improvisations are built on top of them. In other words, the performer had to constantly anticipate the ""next chord'' while assembling a phrase.
+In traditional jazz, chord progressions change minutely, and improvisations are built on top of that. In other words, the performer had to constantly anticipate the ""next chord'' while assembling a phrase.
 
 However, in modal jazz, a certain scale space is maintained for a long time. In this way, the performer can concentrate on the ""color changes within the scale" rather than ""the movement of chords".
 
@@ -1063,7 +1063,7 @@ At the center of this was Nirvana, with vocalist/guitarist Kurt Cobain.
 
 They initially debuted on the indie label Sub Pop and were only a local presence.
 
-However, the music was already packed with elements that would disrupt traditional rock.
+However, the music was already filled with elements that would disrupt traditional rock.
 
 ---
 
@@ -1146,7 +1146,7 @@ It was this incompatibility between fame and alienation, influence and self-deni
 
 ## Influence on subsequent music
 
-The influence of ""Nevermind'' extends throughout rock from the 1990s onwards.
+The influence of ""Nevermind'' extends throughout rock from the 1990s onward.
 
 * Post-grunge
 * Alternative rock
@@ -1386,7 +1386,7 @@ Although these two albums are contrasting, they are both works that have reached
 
 ## The album that turned pop music into "world infrastructure"
 
-Thriller, released in 1982, was more than just a global hit.
+Thriller, released in 1982, was more than just a worldwide hit.
 
 This was the moment when music went beyond a cultural phenomenon and transformed into a global device that integrated "economy, media, race, and visual culture."
 
@@ -1573,7 +1573,7 @@ It becomes a series of questions like this:
 * Where did the core of "rock" disappear?
 * How has sampling changed music?
 * How did electronic music erase "composition"?
-* Why did hip-hop become an institution?
+* Why did hip-hop become a system?
 
 ---
 

@@ -85,7 +85,7 @@ In Detroit in the 1990s,
 - record shop
 - cassette label
 
-It became a base for exchanges among experimental musicians.
+It became a base for exchanges between experimental musicians.
 
 The distinction between genres is vague;
 
@@ -277,7 +277,7 @@ However, if you follow their own works in chronological order, you will find tha
 
 Their production method started with the basic structure of a rock band and gradually dismantled it.
 
-一般的なロックでは、
+In a typical lock,
 
 - guitar
 - base
@@ -297,7 +297,7 @@ In Wolf Eyes, the distinction between live instruments and electronic sounds is 
 The saxophone that John Olson plays is not just for playing beautiful melodies;
 
 - noise
-- 息の摩擦音
+- breath fricatives
 - key hitting sound
 - Feedback
 
@@ -306,7 +306,7 @@ It is treated as "sound material" including such things as.
 Similarly, electronic devices are not just synthesizers;
 
 - Oscillating sound
-- ハムノイズ
+- hum noise
 - Cable contact sound
 - Tape distortion
 
@@ -314,7 +314,7 @@ Even sounds that would otherwise be unnecessary are actively incorporated.
 
 The result is an acoustic space that even the performers themselves cannot fully predict.
 
-### Industrial influence
+### Industrial influences
 
 Wolf Eyes is often cited for its similarities with industrial music.
 
@@ -324,15 +324,15 @@ However, they do not aim to reproduce existing industrial sounds.
 
 The resulting sounds are reminiscent of factory equipment and urban space, and each piece takes on a completely different expression.
 
-そこには即興演奏ならではの偶然性が常に存在している。
+There is always a sense of chance that is unique to improvisation.
 
 ### Commonalities with free jazz
 
-Wolf Eyesを語る際、フリージャズとの関係も見逃せない。
+When talking about Wolf Eyes, the relationship with free jazz cannot be overlooked.
 
 Rather than following a set chord progression or tempo, the performers listen to each other's sounds and respond instantaneously, which is similar to the idea of ​​free jazz.
 
-John Olsonによるサックス演奏も、メロディーを中心とするものではなく、
+John Olson's saxophone playing is also not centered around melody;
 
 - breathing
 - sound pressure
@@ -360,7 +360,7 @@ It can be seen that multiple elements are mixed together.
 
 One of the characteristics of the group Wolf Eyes is that it is difficult to classify them into genres.
 
-> Wolf Eyes created a multi-layered experimental music that cannot be explained by the word "noise".
+> Wolf Eyes created a multi-layered experimental music that cannot be explained with the word "noise."
 
 ---
 
@@ -368,7 +368,7 @@ One of the characteristics of the group Wolf Eyes is that it is difficult to cla
 
 ### Activities that spread within the cassette culture
 
-1990年代後半から2000年代初頭にかけて、Wolf Eyesは大量の自主制作作品を発表していく。
+From the late 1990s to the early 2000s, Wolf Eyes released a large number of independent works.
 
 Many of them are
 
@@ -389,7 +389,7 @@ Wolf Eyes will deepen their interactions not only with American experimental mus
 
 At festivals and joint live performances,
 
-- ノイズ
+- noise
 - improvisation
 - Avant-garde
 - electronic music
@@ -402,7 +402,7 @@ Through such exchanges, their music came to be recognized as part of experimenta
 
 Live performances are essential when discussing Wolf Eyes' reputation.
 
-While studio recordings are made with great detail, live performance changes greatly in performance time and composition.
+While studio recordings are made with great detail, live performance changes greatly in performance time and structure.
 
 Even in the same work,
 
@@ -412,7 +412,7 @@ On other days, it's mainly intense electronic noise,
 
 It is not uncommon for the content to change.
 
-The thrill of the moment is what makes their live shows so appealing.
+The thrill of the moment is what makes their live performances so appealing.
 
 ### Make the performance space itself a work of art
 
@@ -428,7 +428,7 @@ Wolf Eyes was not only designing the ""performance" but also the ""entire space.
 
 Another characteristic of Wolf Eyes is that it gained support based on the uniqueness of the work itself, rather than commercial success.
 
-音楽雑誌や専門メディアだけでなく、世界各地の自主レーベルやアーティストから高く評価され、多数のコラボレーションやライブ出演につながっていった。
+They were highly praised not only by music magazines and specialized media, but also by independent labels and artists around the world, leading to numerous collaborations and live appearances.
 
 This accumulation became a major factor in later attracting attention from the wider music scene.
 
@@ -457,7 +457,7 @@ timeline
     2002 : 海外ツアー・共同制作が増加
 </div>
 
-This period was also the time when the experiments that led to his later masterpieces were most actively carried out.
+This period was also the time when experiments that led to his later masterpieces were most actively carried out.
 
 The recording method and organization differ for each work, and he maintains an attitude of not fixating on a ""completed form''.
 
@@ -482,9 +482,9 @@ Wolf Eyes was no exception, a group that gained support through the work itself 
 
 In 2004, Wolf Eyes signed with American label Sub Pop.
 
-Sub Popは1980年代後半から活動を続け、インディー・ロックやオルタナティブ・ロックの重要レーベルとして知られていた。
+Sub Pop has been active since the late 1980s and was known as an important label for indie rock and alternative rock.
 
-It was a surprise to many music fans that such a label welcomed the highly experimental Wolf Eyes.
+It was a surprise to many music fans that such a label welcomed the extremely experimental Wolf Eyes.
 
 This was not just a contract, but also an event that symbolized the fact that noise music was beginning to attract attention from the wider music scene.
 
@@ -499,13 +499,13 @@ While maintaining the elements cultivated in previous works,
 - Recording perfection
 - Overall composition of the song
 
-がさらに洗練され、多くの音楽メディアで高い評価を受けた。
+was further refined and received high praise from many music media.
 
 On the other hand, it is not a work that aims to be easy to understand like a typical rock album, and has not lost any of its experimental attitude.
 
 A complex interplay of sharp electronic sounds, distorted vocals, metallic hitting sounds, saxophone, and tape noise creates a unique sense of tension.
 
-### ノイズを「作品」として提示する
+### Presenting noise as a "work"
 
 With Burned Mind, many listeners began to see Wolf Eyes as more than just a radical noise outfit, but as an artist creating sonic works.
 
@@ -564,7 +564,7 @@ He is currently enrolled in
 
 played an important role in.
 
-Even after leaving the band, he continued his solo career and received high praise as an experimental musician.
+Even after leaving the group, he continued his solo career and received high praise as an experimental musician.
 
 It was a big change for Wolf Eyes, but the group never stopped working.
 
@@ -622,7 +622,7 @@ The fundamental idea remains unchanged.
 
 The reason why we have been able to continue our activities from the 1990s to the present is as follows.
 
-It"s because I didn"t have a fixed musical style.
+It"s because I didn"t fix my musical style.
 
 Rather than repeating the same work,
 
@@ -638,7 +638,7 @@ By continuing to change, he has explored new expressions.
 
 This attitude is the reason why he has been supported by many experimental musicians for many years.
 
-> Even though Wolf Eyes" members have changed, they haven"t lost their philosophy, and their flexibility has allowed them to continue their activities for nearly 30 years.
+> Wolf Eyes has remained active for nearly 30 years due to its flexibility, maintaining its philosophy even as members have changed.
 
 ---
 
@@ -725,7 +725,7 @@ Although the musicality continues to change with each work,
 
 His attitude of thinking outside the box is consistent.
 
-That's why Wolf Eyes continues to be acclaimed not as a "legend from the past" but as an ongoing experimental music group.
+That's why Wolf Eyes continues to be acclaimed not as a ""legend from the past,'' but as an ongoing experimental music group.
 
 > Wolf Eyes' greatest accomplishment is presenting noise to the world not as a genre, but as a free method of musical expression.
 
@@ -845,7 +845,7 @@ In other words, works are not fixed, but are constantly being updated.
 
 There were many great noise artists before Wolf Eyes.
 
-However, they are not a closed genre of noise,
+However, they are not a closed genre of noise;
 
 - rock
 - free jazz
@@ -853,7 +853,7 @@ However, they are not a closed genre of noise,
 - Industrial
 - improvisation
 
-By combining it with other things, we have opened up a new realm of expression.
+By combining it with other things, we opened up a new realm of expression.
 
 As a result, noise has come to be widely recognized as an important element in understanding contemporary experimental music, rather than being a culture limited to a few enthusiasts.
 
@@ -861,7 +861,7 @@ As a result, noise has come to be widely recognized as an important element in u
 
 Wolf Eyes was born in the city of Detroit.
 
-The city developed as an industrial city and has since undergone major changes.
+The city developed as an industrial city and has since experienced major changes.
 
 Doubting existing values,
 
@@ -998,20 +998,20 @@ However, if you listen carefully to the work,
 - Volume change
 - Tone arrangement
 - Tension and silence
-- repetition
+- Repetition
 - How to use space
 
 It can be seen that everything is carefully designed.
 
 Although there are elements of improvisation, this does not imply anarchy.
 
-The performers listen to each other's sounds and react to each other, assembling the entire piece.
+The performers listen and react to each other's sounds, assembling the entire piece.
 
 ### "Equipment is not the only thing that matters"
 
 Wolf Eyes uses a wide variety of electronic equipment, but it"s not the equipment itself that"s important.
 
-Even if you use the same equipment, the same work will not be produced.
+Even if you use the same equipment, it doesn't mean that the same work will be produced.
 
 The important thing is that
 

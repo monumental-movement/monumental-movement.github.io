@@ -182,9 +182,9 @@ The low range is the core of Glitch Hop, and is the area that directly elicits a
 
 In this band, the kick's body rumble and bass overtones tend to overlap, resulting in turbidity. In Glitch Hop, emphasis is placed on distinction at the tone design stage rather than reduction through EQ. As a result, there are many cases where the band itself becomes relatively hollow.
 
-The midrange is the area responsible for the legibility of rhythmic information, where clicks, short noises, and processed percussion are concentrated. Here, transients are emphasized and an extremely short tone length is set to ensure the clarity of the sound image.
+The midrange is the area responsible for the legibility of rhythmic information, where clicks, short noises, and processed percussion are concentrated. Here, transients are emphasized and an extremely short note length is set to ensure the clarity of the sound image.
 
-The high frequency range is responsible for spatial information and texture. In Glitch Hop, constant play is avoided, and the sound is only inserted sharply at the moment of need. This emphasizes the contrast in the development while reducing the burden on the ears.
+The high frequency range is responsible for spatial information and texture. In Glitch Hop, constant sound is avoided, and it is only inserted sharply at the moment of need. This emphasizes the contrast in the development while reducing the burden on the ears.
 
 ---
 
@@ -192,7 +192,7 @@ The high frequency range is responsible for spatial information and texture. In 
 
 In a Glitch Hop mix, depth is expressed not by the amount of reverberation, but by the sharpness of the attack and the rate of decay. Notes placed in the front have short tails, while notes placed in the back have long tails.
 
-While the low range is fixed almost in the center, the glitch elements in the mid and high range are actively placed to the left and right. Autopan is often used to avoid static positioning.
+While the low range is fixed approximately in the center, the glitch elements in the mid and high range are actively placed to the left and right. Autopan is often used to avoid static positioning.
 
 ---
 

@@ -21,9 +21,9 @@ Text: mmr｜Theme: Susumu Yokota. A solitary artist who explores the soul of sou
 
 
 In the early 1990s, Japan's electronic music scene was still in its infancy. While techno and house were permeating as imported culture, ambient music, which focused on "environmental sounds" and "silence," was still a minority experimental genre.
-Susumu Yokota was a poet who lived in this quiet space. Although his music is an extension of club culture, it is somehow ""outside''. He was a rare artist who used particles of electrons to depict the breath of nature, the distance of the wind, and the reverberations of memories.
+Susumu Yokota was a poet who lived in this quiet space. His music is an extension of club culture, yet somehow ""outside'' it. He was a rare artist who used electronic particles to depict the breath of nature, the distance of the wind, and the reverberations of memories.
 
-Although Yokota started out in Tokyo's club scene, he quickly transcended that context. His music focused more on "pause" than the "rhythm" of dance music, and moved toward pursuing the tranquility and organicity of electronic music. This is similar to the Japanese sense of "wabi-sabi."
+Although Yokota started out in Tokyo's club scene, he quickly transcended that context. His music focused more on "pause" than the "rhythm" of dance music, and moved toward pursuing the tranquility and organicity of electronic music. This is similar to the Japanese sense of ""wabi-sabi.''
 
 ---
 
@@ -79,7 +79,7 @@ Yokota's unique "music of life" floating between nature and electronics. It has 
 
 "Anima Mundi" means "soul of the world" in Latin.
 The series of works that Susumu Yokota developed under this name were truly worthy of that name.
-The songs focus on drones, environmental sounds, and harmonic structures, expanding the listener's inner space. There is no beat or melody. There is only the ""sound that exists.''
+The songs focus on drones, ambient sounds, and harmonic structures, expanding the listener's inner space. There is no beat or melody. There is only the ""sound that exists.''
 
 For Yokota, this name could be said to be a ""channel that connects the unconscious and the universe.''
 If the music under the name Susumu Yokota is "earthly poetry," Anima Mundi is "heavenly prayer."
@@ -118,7 +118,7 @@ Overseas, he was described as ""Japan"s Brian Eno,'' but Yokota"s music was actu
 
 Yokota's live performance was not just a reenactment, but an attempt to "play out the space itself."
 He eliminated lighting and images as much as possible, transforming the space with the "density of air" that sound has.
-The audience is surrounded by particles of sound and loses their sense of time. It was an experience where each person seemed to melt into the sound.
+The audience is enveloped in particles of sound and loses their sense of time. It was an experience that felt like each person was melting into the sound.
 
 His stance was a rare example of combining the dance-like physicality of techno with the meditative nature of ambient.
 
@@ -128,7 +128,7 @@ His stance was a rare example of combining the dance-like physicality of techno 
 
 Yokota's musical philosophy, simply put, is ""finding life in sound.''
 For him, sound was not just a material, but a living entity.
-That"s why there is no artificial coldness in his works. Even though it"s an electronic sound, it has a warm, plant-like feel to it.
+That"s why his works have no artificial coldness. Even though it"s an electronic sound, it has a warm, plant-like feel to it.
 
 His music is also a poetic exploration of time.
 Time does not feel like it is "flowing", but rather "swaying".
@@ -156,7 +156,7 @@ Furthermore, Yokota's spirit has certainly been inherited by contemporary ambien
 | 1999 | **Sakura** | Susumu Yokota | Masterpiece. A timeless ambient masterpiece that blends environmental sounds and melancholic melodies. | [[Amazon]](https://amzn.to/43o2dMb) |
 | 2000 | **Grinning Cat** | Susumu Yokota | A mysterious floating feeling and a fairy-tale worldview. The beauty of composition is similar to that of Ryuichi Sakamoto. | [[Amazon]](https://amzn.to/4qfXg1I) |
 | 2001 | **Symbol** | Susumu Yokota | An aesthetic achievement that makes full use of sampling of classical sound sources. | [[Amazon]](https://amzn.to/47vZGBY) |
-| 2003 | **The Boy and the Tree** | Susumu Yokota | Acoustic poetry that gives you a sense of tranquility and vitality, as if you were listening to it in the forest. | [[Amazon]](https://amzn.to/4qjzYIs) |
+| 2003 | **The Boy and the Tree** | Susumu Yokota | An acoustic poem that gives you a sense of tranquility and vitality, as if you were listening to it in the forest. | [[Amazon]](https://amzn.to/4qjzYIs) |
 | 2005 | **Wonder Waltz** | Susumu Yokota | A late masterpiece that combines beats and fantasy. Depicts a soft dream world. | [[Amazon]](https://amzn.to/3IV6Vu1) |
 | 1997–2002 | **Anima Mundi works** | Anima Mundi | Experimental ambient project under another name. A world of sound that blurs the boundaries between electronic and nature. | [[Amazon]](https://amzn.to/497CTh5) |
 
@@ -168,5 +168,5 @@ Susumu Yokota's music is told not through flashy melodies and beats, but through
 In that silence dwell the noise of the city, the breath of nature, and human memory.
 The music he left behind is not just a collection of works, but a mirror that reflects the inner self of the listener.
 
-Even after the sound disappears, something remains in your heart.
+Even after the sound disappears, something remains in my heart.
 That is the greatest "sound" that the musician Susumu Yokota left to the world.

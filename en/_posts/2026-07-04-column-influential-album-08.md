@@ -372,7 +372,7 @@ This trend has had a major influence on later LTJ Bukem and High Contrast, as we
 
 ## A work that changed the social evaluation of drum & bass
 
-The success of New Forms changed the social evaluation of the drum and bass genre itself.
+The success of New Forms changed the social reputation of the drum and bass genre itself.
 
 Fast breakbeats are not violent music, but highly structured art.
 
@@ -405,13 +405,13 @@ In this ranking, works that pioneered the genres of jungle and drum"n"bass were 
 
 ### **"The moment when rock and rave became "the same culture"**
 
-**Screamadelica**, released in 1991, is a historical work that completely erased the boundaries that existed between rock and club music and determined the music culture from the 1990s onwards.
+**Screamadelica**, released in 1991, is a historical work that completely erased the boundaries that existed between rock and club music, and determined the musical culture of the 1990s and beyond.
 
-それまでロックは「バンドが演奏する音楽」、ダンス・ミュージックは「DJが再生する音楽」という明確な区別が存在していた。
+Until then, there was a clear distinction between rock and dance music, which was ""music played by a band," and dance music, which was ""music played by a DJ."
 
 But Primal Scream overturns that assumption with this album.
 
-They boldly incorporated acid house, dub, psychedelia, gospel, sampling, and club mixes into the rock lineup of guitar, bass, and drums, and presented a new sense of value called ""dancing to rock.''
+They boldly incorporated acid house, dub, psychedelia, gospel, sampling, and club mixes into the rock lineup of guitar, bass, and drums, and presented a new sense of values ​​called ""dancing to rock.''
 
 Screamadelica is more than just a fusion of genres.
 
@@ -814,7 +814,7 @@ In this ranking, we ranked 76th because the works that created the techno genre 
 
 ### **"The moment when ambient music became an art of composing the journey itself"**
 
-""Chill Out", released in 1990, is an epoch-making work in the history of ambient music that takes the concept of environmental music one step further and converts ""moving landscape" itself into music.
+""Chill Out", released in 1990, is an epoch-making work in the history of ambient music that takes the concept of environmental music one step further and transforms ""moving landscape" itself into music.
 
 The KLF, which produced it, was known as a dance unit that had produced stadium-sized hits up until then. However, this album, released in the midst of that success, was an experiment in the opposite direction of a commercial hit.
 
@@ -955,7 +955,7 @@ In this ranking, works that created the very concept of ambient and works that f
 
 ""Lifeforms", released by **The Future Sound of London** in 1994, is a historical work that showed that electronic music had completely become independent from the framework of club and pop music, and had reached ""the art of creating a living environment through sound."
 
-Up until then, ambient music had often been talked about as music to decorate a space.
+Up until then, ambient music had often been talked about as music meant to decorate a space.
 
 However, ""Lifeforms'' pushes that concept even further.
 
@@ -985,7 +985,7 @@ Instead, it is placed
 
 A synthesizer that grows like a plant.
 
-An ambient pad that gives you a sense of humidity.
+Ambient pad that gives you a sense of humidity.
 
 Fragmented folk music.
 
@@ -1074,7 +1074,7 @@ Today, much of the ""music used to design environments'' inherits the ideas of t
 
 Since the late 1990s, electronic music has expanded beyond clubs to museums, films, and installations.
 
-The idea behind this is that ""Music can design the environment itself," as expressed by ""Lifeforms."
+The background to this is the idea that ""Music can design the environment itself" as shown by ""Lifeforms".
 
 Boards of Canada.
 
@@ -1132,7 +1132,7 @@ What was needed was
 
 It's not a flashy melody.
 
-A sound that you won't get tired of even if you keep playing it for a long time.
+A sound that will not make you tired even if you keep playing it for a long time.
 
 Bass that permeates the entire building.
 

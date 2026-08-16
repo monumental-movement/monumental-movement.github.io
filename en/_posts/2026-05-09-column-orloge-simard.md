@@ -32,7 +32,7 @@ A vulgar, noisy, drunken concert. However, deep within it was embedded a realist
 
 They were not ""unsophisticated," but rather they ""refused to be refined."
 
-> Orloge Simard の出発点は、単なる悪ふざけではなく、サグネーという土地の空気を音楽化することにあった。
+> Orloge Simard's starting point was not just a prank, but the idea of ​​musicalizing the atmosphere of Saguenay.
 
 
 ---
@@ -147,7 +147,7 @@ At the stage of ""Coke calciné'', the characteristics of Orloge Simard were alr
 
 Furthermore, they had been using the expression "folk sale" since then. This functioned as a term that emphasized Quebec's uniquely vulgar folk sensibilities.
 
-At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of audiences at some festivals revolting due to radical lyrics.
+At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of cases in which audiences at some festivals were repulsed by radical lyrics.
 
 However, at the same time, the number of fans who enthusiastically supported them increased.
 
@@ -210,7 +210,7 @@ This album streamlined the songwriting while maintaining the rawness of their ea
 
 Also, during this period, Orloge Simard's live performances rapidly increased in popularity, gaining cult popularity throughout Quebec.
 
-2017年には GAMIQ（Gala alternatif de la musique indépendante du Québec）の一般投票部門にノミネートされている。
+In 2017, he was nominated in the GAMIQ (Gala alternatif de la musique indépendante du Québec) public voting category.
 
 This meant that they began to be recognized as a part of the Quebec indie scene, rather than just a band that made jokes.
 
@@ -238,7 +238,7 @@ This work records the band's artistic views, live culture, and regional characte
 
 The title "Saguenay Libre" has a symbolic meaning.
 
-This was not just the name of the area, but also functioned as a word that expressed the ""liberation of Saguenay values.''
+This was not just the name of the area, but also functioned as a phrase that expressed the ""liberation of Saguenay values.''
 
 For Orloge Simard, Saguenay is more than just his hometown.
 
@@ -309,7 +309,7 @@ Rather, it should be said that they have evolved into a band that cannot be expl
 
 ## "Culture du culte" and the era of anti-censorship
 
-"Culture du culte", released in 2022, is a work commemorating the band"s 10th anniversary, and at the same time, it is also the album that most strongly expresses Orloge Simard"s thoughts.
+""Culture du culte"', released in 2022, is a work commemorating the 10th anniversary of the band"s formation, and at the same time, it is also an album that most strongly expresses Orloge Simard's thoughts.
 
 They are positioning this work as an "anti-censorship manifesto."
 
@@ -317,7 +317,7 @@ The album introduction uses words such as "authenticity," "intellectual nonchala
 
 What is important here is that Orloge Simard is not simply posing as an anti-establishment figure.
 
-They expressed discomfort with the "homogenization of speech" and "safe expression" in modern society.
+They expressed discomfort with the ""homogenization of speech" and ""safe expression" in modern society.
 
 In other words, their anti-censorship philosophy is not an expression of shock per se, but rather a sense of trying to protect a ""space where people can freely fail.''
 
@@ -325,7 +325,7 @@ This attitude is also connected to modern Internet culture.
 
 In the age of social media, comments can instantly become the subject of criticism and surveillance. Orloge Simard tried to maintain a ""disorganized rock space'' against such an atmosphere.
 
-そのため、彼らは支持と批判を同時に集め続ける。
+As a result, they continue to garner support and criticism at the same time.
 
 But that is also the reason for Orloge Simard's existence.
 
@@ -367,15 +367,15 @@ Also, while they have a punk spirit, they also place emphasis on "community".
 
 While typical punk music emphasizes individualistic rebellion, Orloge Simard's live shows are closer to communal frenzy.
 
-The audience does not participate as ""solitary rebels," but as ""comrades making noise together."
+The audience participates not as ""solitary rebels," but as ""comrades making noise together."
 
 This feeling is deeply connected to Quebec's bar culture and festival culture.
 
-さらに、彼らはユーモアを重視する。
+Additionally, they value humor.
 
 Quebec rock culture has a tradition of expressing politics and social criticism through humor. Orloge Simard also belongs to that lineage.
 
-> Orloge Simard was a modern version of Quebec rock's provincial, communal, and black humor.
+> Orloge Simard は、ケベック・ロックの地方性、共同体性、ブラックユーモアを現代化した存在だった。
 
 ---
 
@@ -385,7 +385,7 @@ Quebec rock culture has a tradition of expressing politics and social criticism 
 
 | Year | Works | Overview |
 | ---- | ---------------------------------- | ----------------- |
-| 2013 | Coke calciné | Initial mini album. Relapse later |
+| 2013 | Coke calciné | Early mini album. Relapse later |
 | 2014 | Aucun Cadre | Full-scale debut work |
 | 2017 | Beuvez tousjours, ne mourez jamais | A masterpiece that determined the popularity of live performances |
 | 2019 | Saguenay Libre | Documentary |
@@ -434,11 +434,11 @@ As a result, their music is not ""music that can reach everyone," but ""music th
 
 Their activities also overlap with Quebec culture itself.
 
-An exaggerated affirmation of the local culture of French-speaking Canada. This attitude has become a place of identity confirmation for many viewers.
+An exaggerated affirmation of the local culture of French-speaking Canada. This attitude has become a place for many viewers to confirm their identity.
 
 Moreover, Orloge Simard never loses its sense of danger.
 
-In modern rock, many artists move toward safety in order to avoid controversy and manage their brand. However, they still maintain a chaotic live space.
+In contemporary rock, many artists move toward safety in order to avoid controversy and manage their brand. However, they still maintain a chaotic live space.
 
 This instability functions as rock's original charm.
 

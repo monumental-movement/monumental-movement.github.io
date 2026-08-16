@@ -18,7 +18,7 @@ title: '[Column] Québec Redneck Bluegrass Project - Rebellious bluegrass resoun
 
 ## A band that plays the muddy sounds of Quebec
 
-Text: mmr｜Theme: The trajectory of the Québec Redneck Bluegrass Project, which uses bluegrass and punk spirit to express the discomfort between the indigenous culture of the Quebec region and modern society.
+Text: mmr｜Theme: The trajectory of the Québec Redneck Bluegrass Project, which uses bluegrass and punk spirit to express the discomfort between Quebec's indigenous culture and modern society.
 
 <style type="text/css">
 
@@ -114,7 +114,7 @@ Formed in the Saguenay region of Quebec. It is a rural area far away from urban 
 
 This regionality was extremely important in understanding their music.
 
-Unlike the art scene in Montreal, the area around Saguenay retained a strong worker culture, forestry culture, and sense of local community. This atmosphere is deeply engraved in QRBP's music.
+Unlike the art scene in Montreal, the area around Saguenay retained a strong worker culture, forestry culture, and sense of local community. QRBP's music is deeply engraved with this atmosphere.
 
 In the early days, they weren't as well-known as they are today.
 
@@ -184,7 +184,7 @@ mindmap
     Community
 </div>
 
-> "Redneck" was not a derogatory term; for QRBP, it was a symbol of pride in local culture.
+> "Redneck" was not a derogatory term; for QRBP, it was a banner of pride in local culture.
 
 ---
 
@@ -214,7 +214,7 @@ These issues are portrayed without sounding preachy.
 
 Musically, QRBP gradually expanded its range.
 
-In addition to traditional bluegrass, they also display folk-punk tempo, rock-like propulsion, and sometimes country ballad-like lyricism.
+In addition to traditional bluegrass, they also display folk-punk tempo, rock-like propulsion, and sometimes country-ballad lyricism.
 
 As a result, they strengthened their presence as a ""local culture renewal band" rather than a ""tradition preservation band."
 
@@ -286,13 +286,13 @@ This was because it was necessary to maintain French culture within the huge cul
 
 As a result, there is often a sense of ""preserving regionality'' in Quebec music.
 
-QRBP also brings regional language and culture to the fore.
+QRBP also brought regional language and culture to the fore.
 
 Furthermore, they distanced themselves from ""urban culture-centrism.''
 
 This is not a simple anti-urban ideology.
 
-Rather, it is an argument that ""regions have cultures too.''
+Rather, it is an argument that ""regions have cultures, too.''
 
 Worker culture.
 
@@ -302,7 +302,7 @@ Bar culture.
 
 Peer culture.
 
-A sense that there is no need to be ashamed of such things runs through all of their work.
+A sense that there is no need to be ashamed of such things runs through their work.
 
 This stance resonated with supporters of local culture not only in Quebec but around the world.
 
@@ -352,9 +352,9 @@ D --> E["Community Identity Maintained"]
 
 ## What QRBP leaves behind
 
-The importance of QRBP cannot be measured by hit charts alone.
+The importance of QRBP cannot be measured only by hit charts.
 
-They proved that ""local culture can become modern music.''
+They proved that "local culture can become modern music."
 
 Moreover, this was achieved without forcing urbanization.
 

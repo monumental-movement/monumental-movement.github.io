@@ -11,7 +11,7 @@ tags:
 - New Wave
 - 80s
 title: '[Column] Two evolutionary lines of synth pop: The divergence and integration
-  of 80s electronic music depicted by Depeche Mode and Human League'
+  of 1980s electronic music depicted by Depeche Mode and Human League'
 ---
 
 
@@ -21,7 +21,7 @@ Text: mmr｜Theme: Comparing two groups representing British synth pop in the 19
 
 In the early 1980s, synthesizers became more than just musical instruments. It's not an extension of rock or an embellishment of disco. It appears as a presence that changes the design philosophy of music itself.
 
-Depeche Mode and the Human League played a key role in this. Although both belong to the same British synth pop trend, the direction of their evolution is vastly different. One was ""electronic music that sinks into the dark side of emotions," and the other was ""the democratization and mechanization of pop."
+Depeche Mode and the Human League played a key role in this. Although both belong to the same British synth pop trend, the direction of their evolution is vastly different. One side has progressed to ""electronic music that sinks into the dark side of emotion," and the other has progressed to ""the democratization and mechanization of pop."
 
 This difference is not just a difference in musicality, but also a turning point in the era of the 1980s itself.
 
@@ -73,9 +73,9 @@ The essence of the Human League was to "humanize machines." Rather than making e
 
 ## Chapter 2: The emergence of Depeche Mode - electronic physicality stripped of emotion
 
-Depeche Mode were formed in Basildon in 1980. In the early days, they belonged to the upbeat synth pop trend, but their essence gradually moved in a different direction.
+Depeche Mode was formed in Basildon in 1980. In the early days, they belonged to the upbeat synth pop trend, but their essence gradually moved in a different direction.
 
-Particularly important are Martin Gore"s songwriting and Dave Garn"s vocals.
+Of particular importance are Martin Gore"s songwriting and Dave Garn"s vocals.
 
 Their music gradually became less and less ""pop.'' What emerged instead were themes of desire, dependence, power, and religiosity.
 
@@ -85,16 +85,16 @@ From 1986"s ""Black Celebration," 1987"s ""Music for the Masses," and 1990's ""V
 
 <div class="mermaid">
 graph TD
-A["1980 Formed"] --> B["Early synth pop"]
+A["1980 結成"] --> B["Early synth pop"]
 B --> C["Darkening"]
 C --> D["Deepening the theme"]
 D --> E["Violator 1990"]
-E --> F["Global Impact"]
+E --> F["GLOBAL IMPACT"]
 </div>
 
 By stepping outside of pop, Depeche Mode paradoxically achieved huge popularity.
 
-> Depeche Modeは感情を削ることで、より深い感情に到達した
+> Depeche Mode achieved deeper emotions by reducing emotion
 
 ---
 
@@ -129,7 +129,7 @@ Both were synth pop, but the music was heading in opposite directions.
 
 ---
 
-## Chapter 4: The British context of the 1980s - between industrial and post-industrial
+## Chapter 4: 1980s British context: between industrial and post-industrial
 
 To understand these two bands, the social background of 1980s Britain is important.
 
@@ -155,12 +155,12 @@ In particular, "Don't You Want Me" has a strong narrative, making it easy for li
 
 On the other hand, for Depeche Mode's Dave Gahan, his voice itself functions as an "emotional compression device." The focus is on the texture of the voice rather than the meaning of the lyrics.
 
-In other words, Human League is "song as a language".
+In other words, Human League is a "song as a language".
 Depeche Mode is "voice as acoustics".
 
 <div class="mermaid">
 graph TD
-A["Human League"] --> A1["Interactive vocal"]
+A["Human League"] --> A1["Interactive Vocal"]
 A --> A2["Storytelling"]
 
 B["Depeche Mode"] --> B1["single vocal"]
@@ -199,7 +199,7 @@ B --> B2["Stadiumization"]
 
 What is important is that we have arrived at different destinations from the same starting point.
 
-> Synthpop was not a single genre, but contained multiple futures.
+> Synthpop was not just one genre, but contained multiple futures.
 
 ---
 
@@ -207,7 +207,7 @@ What is important is that we have arrived at different destinations from the sam
 
 These two lineages are still alive in modern electronic music and indie pop.
 
-Human Leagueの影響は、ダンスミュージックやエレクトロポップの明快さに残っている。構造はシンプルであり、即時的な快楽を重視する方向性だ。
+Human League's influence remains in the clarity of dance music and electropop. The structure is simple, with an emphasis on immediate pleasure.
 
 Depeche Mode's influence is strong in their reinterpretations of darkwave, industrial, and post-punk. Music functions as a device for dealing with deep emotions.
 

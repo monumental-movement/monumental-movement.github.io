@@ -224,7 +224,7 @@ The institutional challenge is to ensure safety while maintaining psychological 
 ## Cultural influence
 
 ・Impact on the fashion industry
-・Expansion of the tourism industry
+・Expansion of tourism industry
 ・City brand strategy
 ・Changes in music consumption patterns
 ・Generational identity formation

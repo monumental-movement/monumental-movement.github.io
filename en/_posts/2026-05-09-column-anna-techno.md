@@ -26,7 +26,7 @@ She was born in Brazil in the late 1980s and grew up surrounded by music from an
 
 By the time he was a teenager, he had already started working as a DJ, gaining experience playing at local clubs. What was cultivated here was more than just mixing techniques. The sense of reading the atmosphere on the floor, the physical understanding of changes in sound, and the interaction with the audience.
 
-Eventually, she rose to prominence within Brazil and established her presence in the major club scenes in South America. However, at that point, it had not yet become a global breakthrough.
+Eventually, she rose to prominence within Brazil and established her presence in the major club scenes in South America. However, at that time, it had not yet become a global breakthrough.
 
 > The experience rooted in local club culture was the foundation that gave ANNA's later sound a deep and persuasive power.
 
@@ -165,7 +165,7 @@ graph TD
 
 ANNA's career has been built not on flashy stories but on steady accumulation. In the process, she has traversed the opposing axes of locality and globality, functionality and artistry.
 
-While her music is optimized for the club environment, it provides a listening experience that goes beyond it. This is also proof that the possibilities of the techno genre are currently expanding.
+While her music is optimized for the club space, it provides a listening experience that goes beyond it. This is also proof that the possibilities of the techno genre are currently expanding.
 
 In the future, ANNA will continue to update her own sound without relying on specific trends. This movement suggests the very future of techno music.
 

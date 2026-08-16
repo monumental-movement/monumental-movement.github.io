@@ -45,7 +45,7 @@ Theory and intuition coexist in his works.
 
 That's why it never gets old even after more than half a century.
 
->Holger Czukay was a person who turned "the recorded world itself" into music.
+>Holger Czukay was a person who transformed "the recorded world itself" into music.
 
 ---
 
@@ -73,7 +73,7 @@ Holger Schukai was born on March 24, 1938 in the Free City of Danzig, then part 
 
 This area corresponds to present-day Gdańsk, Poland.
 
-His childhood was deeply tied to the turmoil of World War II.
+His childhood was deeply connected to the turmoil of World War II.
 
 At the end of the war, like many German residents, he was evacuated.
 
@@ -112,7 +112,7 @@ Tape editing.
 minimalism.
 noise.
 
-After the war, Germany was disconnected from its ""past culture'' and was searching for new forms of expression.
+Postwar Germany was disconnected from its "past culture" and was searching for new forms of expression.
 
 One person at the center of this was Stockhausen.
 
@@ -211,7 +211,7 @@ This was quite innovative at the time.
 
 He records several hours of jams, then cuts and pastes the tapes to create songs.
 
-A feeling similar to later sampling culture and DAW editing already existed.
+A feeling similar to the later sampling culture and DAW editing already existed.
 
 <div class="mermaid">
 flowchart TD
@@ -265,7 +265,7 @@ A[Future Days] --> B[repetition]
 A --> C[environmental sounds]
 A --> D[floating feeling]
 A --> E[long time structure]
-B --> F[アンビエントへの影響]
+B --> F[Ambient impact]
 C --> F
 D --> F
 E --> F
@@ -296,7 +296,7 @@ After that, he shifted his focus to solo works.
 
 Here he becomes even more free.
 
-### 『Movies』の衝撃
+### Impact of "Movies"
 
 1979's ""Movies'' is known as his signature solo work.
 
@@ -306,16 +306,16 @@ Audio fragments picked up from shortwave radio.
 Middle Eastern melody.
 Repeating beats.
 
-既存ジャンルへ分類しづらい構造だった。
+It had a structure that made it difficult to classify it into existing genres.
 
 ### Sampling before sampling
 
 What is important is that this is a pre-digital work.
 
-彼は手作業で編集していた。
+He was editing by hand.
 
 Cut the tape,
-貼り、
+Paste,
 rotates backwards,
 I waited for a coincidence.
 
@@ -341,7 +341,7 @@ Radio waves.
 
 This is similar to the sense of fragmented information in the Internet era.
 
-完成された情報ではなく、途切れた信号の魅力である。
+It is not the complete information, but the charm of the broken signal.
 
 > Shukai has converted "sound fragments floating around the world" into music.
 
@@ -493,7 +493,7 @@ This is because his music is not just an "experiment from the past."
 
 Rather, it is strangely connected to the current information society.
 
-> Shukai's music was created with "future ears."
+> Shukai's music was made with "future ears."
 
 ---
 

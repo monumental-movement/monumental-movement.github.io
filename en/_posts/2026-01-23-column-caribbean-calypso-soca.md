@@ -20,9 +20,9 @@ title: '[Column] Caribbean Soca/Calypso Culture Theory'
 
 Text: mmr｜Theme: Caribbean music where colonial rule and celebration intersect, and the cultural continuum from calypso to soca
 
-The Caribbean is more than just a geographical area. It is a historically compressed space in which colonial rule by European powers, forced deportation from Africa, rupture of indigenous culture, and post-liberation mixing all overlap at the same time. In this environment, music served more than just entertainment. For people who were deprived of language and whose political voice was restricted, song was a repository of memory, a medium of social criticism, and a device for reorganizing the community.
+The Caribbean is not just a geographical area. It is a historically compressed space in which colonial rule by European powers, forced deportation from Africa, rupture of indigenous culture, and post-liberation mixing all overlap at the same time. In this environment, music served more than just entertainment. For people who were deprived of language and whose political voice was restricted, song was a repository of memory, a medium of social criticism, and a device for reorganizing the community.
 
-Calypso and soca are its most iconic achievements. Although both are often consumed as dance music, they are intertwined with resistance to colonial rule, working-class humor, and the tension between urbanization and celebration. It is not enough to simply distinguish that calypso is spoken music and soca is music for the body. Both branches stem from the same root and are the result of responding to the demands of different times.
+Calypso and soca are its most iconic achievements. Although both are often consumed as dance music, they are intertwined with resistance to colonial rule, working-class humor, and the tension between urbanization and celebration. It is not enough to simply distinguish that calypso is spoken music and soca is music of the body. Both branches stem from the same root and are the result of responding to the demands of different times.
 
 > Caribbean music is a place where history itself continues to play as a rhythm.
 
@@ -45,9 +45,9 @@ color: #fff;
 
 ## Origin and formation of Calypso
 
-Calypso's origins date back to the 18th and 19th centuries on the island of Trinidad. The carnival culture introduced during the French colonial period and the call-and-response singing and improvisational poetry culture originating from West Africa, centered on storytelling, intermingled to create a unique form of song. It was originally sung in French-Creole, and was a form of social criticism that was difficult for the colonial powers to understand.
+Calypso's origins date back to the 18th and 19th centuries on the island of Trinidad. The carnival culture introduced during the French colonial period and the call-and-response singing culture originating from West Africa, as well as the improvisational poetry culture centered on storytelling, created a unique form of song. Originally sung in French-Creole, it was a form of social criticism that was difficult for the colonial powers to understand.
 
-In the late 19th century, under British rule, calypso expanded to urban areas while incorporating English. Before newspapers became popular, calypsonians were de facto reporters, reporting on scandals, politics, crime, and romance in verse. Lyric cleverness, irony, and double meaning were important evaluation criteria, and emphasis was placed on the sharpness of the words rather than the melody.
+In the late 19th century, under British rule, calypso expanded to urban areas while incorporating English. Before newspapers became popular, calypsonians were de facto reporters, reporting on scandals, politics, crime, and romance in verse. The cleverness, irony, and double meaning of the lyrics were important evaluation criteria, and the sharpness of the words was more important than the melody.
 
 At this stage, calypso changed from mere folk music to urban popular music. Performance venues called tents were established, competition was born, and star calypsonians were born. Songs quickly responded to social events and became a living archive that was updated every year.
 
@@ -71,7 +71,7 @@ Steelpans appeared in the early 20th century, and their acoustic characteristics
 
 In the first half of the 20th century, recording technology and radio broadcasting took calypso outside its borders. Recordings in the United States and England imposed certain restrictions on performance time, sound quality, and lyrical content, but in return they gained an international audience. As a result, obscene expressions and political criticism are suppressed, and more generic themes increase.
 
-During this process, calypso became increasingly consumed as exotic, tropical music. At the same time, however, a more radical and direct expression is maintained on the island, forming a dual structure. The division between foreign and domestic, recording and live performances, and official and unofficial music would later influence the birth of soca.
+During this process, calypso became increasingly consumed as exotic, tropical music. At the same time, however, a more radical and direct expression is maintained on the island, forming a dual structure. The division between foreign and domestic, recorded and live, and official and unofficial forms also influenced the later birth of soca.
 
 > While modernization expanded calypso, it also served as a test of its sharpness.
 
@@ -81,7 +81,7 @@ During this process, calypso became increasingly consumed as exotic, tropical mu
 
 In the 1970s, Trinidadian society was undergoing major changes. The increasing number of young people, the influx of disco and funk music, and the spread of electric instruments and studio technology place new demands on traditional calypso. The songs, which are centered around words and have a moderate tempo, gradually began to feel unsatisfactory at festivals.
 
-Soca emerged in this context. The name is said to be a coined word combining soul and calypso, and the music actually retained the structure of calypso, but brought rhythm to the fore, and strengthened the bass and drums. Lyrics become simpler, repetition and chants increase, and physical uplift takes precedence.
+Soca emerged in this context. The name is said to be a coined word combining soul and calypso, and the music actually retained the structure of calypso, but brought rhythm to the fore, and strengthened the bass and drums. Lyrics become simpler, repetition and chanting increase, and physical upliftment becomes a priority.
 
 Soca is not a rupture but a reorganization. It was not a complete abandonment of the social nature of calypso, but rather a shift towards maximizing the emotions shared at celebratory occasions.
 
@@ -91,9 +91,9 @@ Soca is not a rupture but a reorganization. It was not a complete abandonment of
 
 ## Rhythm structure and acoustic characteristics
 
-Soca's greatest feature is its foregrounding of rhythm. Based on the four-time signature, the music uses thick layers of percussion instruments to create propulsive force through syncopation. The bass line is repetitive and serves to move the entire dance floor as one body.
+Soca's greatest feature is its foregrounding of rhythm. Based on a four-time signature, the music uses thick layers of percussion instruments to create propulsive force through syncopation. The bass line is repetitive and serves to move the entire dance floor as one body.
 
-The combination of synthesizers and brass is also important. The bright, sharp tone is easy to drown out even in outdoor spaces, and supports marching and dancing at the same time. Many of the lyrics are short phrases, and the immediate effect of the sound is more important than the meaning.
+The combination of synthesizer and brass is also important. The bright, sharp tone is easy to drown out even in outdoor spaces, and supports marching and dancing at the same time. Many of the lyrics are short phrases, and the immediate impact of the sound is more important than the meaning.
 
 <div class="mermaid">
 flowchart LR
@@ -139,7 +139,7 @@ timeline
     1980s : 国際カーニバルへの定着
 </div>
 
-> The chronology shows the trajectory of music being updated along with society.
+> The chronology shows the trajectory of music's renewal along with society.
 
 ---
 
@@ -184,7 +184,7 @@ C --> D[carnival specialization]
 
 ## Technological innovation and 21st century soca
 
-With the spread of digital production environments, soca can now be mass-produced even on a low budget. As a result, the supply of music for each year's carnival increases explosively. On the other hand, the immediacy and speed of consumption are also accelerating, shortening the lifespan of songs.
+With the spread of digital production environments, soca can now be mass-produced even on a low budget. As a result, the supply of music for the annual carnival increases explosively. On the other hand, the immediacy and speed of consumption are also accelerating, shortening the lifespan of songs.
 
 SNS and video sharing culture have further strengthened the combination of dance and music. The choreography becomes inseparable from the music, and visual diffusion becomes a condition for success. This trend is creating new forms of expression while preserving the essence of festival music.
 

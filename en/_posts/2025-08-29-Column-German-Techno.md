@@ -60,7 +60,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 - **Ellen Allien (Berlin)**: Founder of BPitch Control. A fusion of underground and experimentalism.
 
-- **Paul Kalkbrenner**: Widely known for the movie "Berlin Calling". Melodic and lyrical techno.
+- **Paul Kalkbrenner**: Widely known for the movie ""Berlin Calling.'' Melodic and lyrical techno.
 
 - **Johannes Heil**: Producer pursuing hard and dark German techno.
 
@@ -112,7 +112,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 **Sound Features**:
 
-- Development of minimal techno (simplified structures, emphasis on repetition)
+- Development of minimal techno (simplified structures, emphasis on repeatability)
 
 - Rise of hard techno and acid techno
 

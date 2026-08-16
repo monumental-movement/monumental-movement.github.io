@@ -16,7 +16,7 @@ title: '[Column] Converge - A new horizon of metalcore opened up by passion and 
 
 ## Introduction
 
-Text: mmr | Theme: Converge, which defined heavy music from the 1990s onwards. Interpreting its history through changes in works, ideas, live performances, and musicality
+Text: mmr | Theme: Converge, which defined heavy music from the 1990s onwards. Interpreting its history from changes in works, ideas, live performances, and musicality
 
 
 In the early 1990s, hardcore punk was at a major turning point in America.
@@ -137,7 +137,7 @@ Everything converges to one point: Converge.
 
 From around 1991 to 1992, Converge produced several demos and splits.
 
-The sound sources from that time do not yet have as complex a structure as they did in later years.
+The sound sources from that time do not yet have as complex a composition as they did in later years.
 
 but,
 
@@ -239,7 +239,7 @@ This style continued in subsequent works and became an important characteristic 
 
 ### Live Rating Increase
 
-After the release of the album, Converge toured extensively throughout the United States.
+After the album's release, Converge toured extensively throughout the United States.
 
 They are known for their live performance, which is more powerful than the sound source, and have received high praise from many audiences and band members.
 
@@ -249,7 +249,7 @@ Its reputation spread mainly through word of mouth, and Converge's presence perm
 
 ---
 
-## "When Forever Comes Crashing"—a work that elevates chaos to complete expression
+## "When Forever Comes Crashing" – a work that elevates chaos to complete expression
 
 ### Heavier, more complex sounds
 
@@ -339,7 +339,7 @@ One of the reasons Converge's sound is so clear and overwhelming is that Ballou 
 
 ### Nate Newton
 
-Nate Newton, who joined the band as bassist in 1999, plays an important role not only in the performance but also in the chorus.
+Nate Newton, who joined the group in 1999 as a bassist, plays an important role not only in the performance but also in the chorus.
 
 The increased bass depth gives the Converge's sound even more weight.
 
@@ -353,11 +353,11 @@ Overwhelming speed.
 
 Complex fill.
 
-正確なテンポ管理。
+Accurate tempo management.
 
 And intense live performance.
 
-These features raised Converge's performance to the next level.
+With these, Converge's performance has been raised to the next level.
 
 The representative lineup that continues to this day was completed during this period.
 
@@ -390,7 +390,7 @@ D --> I["drum"]
 
 ### Hardcore at the end of the century
 
-By the end of the 1990s, the term metalcore was slowly gaining traction in the United States.
+By the end of the 1990s, the term metalcore was slowly gaining traction in America.
 
 Earth Crisis.
 
@@ -398,19 +398,19 @@ Integrity.
 
 Hatebreed.
 
-Shai Hulud。
+Shai Hulud.
 
 These bands were gaining popularity, but each took very different directions.
 
 Converge was the most experimental of the bunch.
 
-They continued to explore more complex and free music without moving towards a breakdown-based style.
+They continued to explore more complex and free music without moving towards a breakdown-centric style.
 
 ### Creativity over commerciality
 
 At that time, nu-metal was very popular in heavy music.
 
-しかしConvergeは流行へ迎合することなく、自分たちの音楽を徹底的に磨き続けた。
+However, Converge continued to thoroughly refine their music without pandering to trends.
 
 This attitude is the very essence of a DIY spirit that prioritizes the perfection of the work over commercial success.
 
@@ -512,7 +512,7 @@ Such reviews spread by word of mouth and shocked many musicians.
 
 The album is not a work that can be understood with just one listen.
 
-Because of its complex structure and vast amount of information, it is perceived as a work that offers new discoveries the more you listen to it.
+Because of its complex structure and vast amount of information, the more you listen to it, the more you discover new things.
 
 ### Songs that show their true value live
 
@@ -538,7 +538,7 @@ Many metalcore bands emerged in the early 2000s.
 
 But while Converge is at the center of this trend, it has always existed in a slightly different position.
 
-They don't incorporate melodic choruses, nor do they change direction with commercial considerations in mind.
+They don't incorporate melodic choruses, nor do they change directions with commercial considerations in mind.
 
 As a result, it has come to be evaluated as a unique entity that cannot be explained by the word "metalcore" alone.
 
@@ -596,7 +596,7 @@ In 2004, Converge released You Fail Me.
 
 It attracted attention because it was the sequel to ""Jane Doe,'' but it was not just a sequel.
 
-The musicality has matured further, with an increasing emphasis on space and lingering sound rather than just violent intensity.
+The musicality has matured further, with an increasing emphasis on space and lingering sounds, rather than just violent intensity.
 
 Overall, a heavy and gloomy atmosphere prevailed, and the range of emotional expression was further expanded.
 
@@ -620,7 +620,7 @@ reverberation.
 
 By boldly incorporating these elements, the contrast with the intense scenes was further emphasized.
 
-Converge had evolved into a band that was not just "fast" and "heavy," but also manipulated "pause."
+Converge had evolved into a band that was not just "fast" and "heavy," but also controlled "pause."
 
 > ""You Fail Me" is a work that maintains the perfection achieved with ""Jane Doe," while opening up new ways of expression.
 
@@ -682,7 +682,7 @@ slow riff.
 
 noise.
 
-quiet part.
+静かなパート。
 
 These are placed more boldly than ever before.
 
@@ -783,7 +783,7 @@ Quiet resignation.
 
 Various emotions coexist in one album.
 
-Jacob Bannon"s vocals don"t just scream, he also carefully builds up emotion by making use of the intonation and pauses in his words.
+Jacob Bannon"s vocals don"t just scream, he also carefully builds up emotions by making use of the intonation and pauses in his words.
 
 > ""The Dusk in Us'' showed that Converge is continuing to explore new expressions without relying on past successes.
 
@@ -803,7 +803,7 @@ Unlike regular Converge works, it not only incorporates heaviness, but also inco
 
 ""Bloodmoon: I'' has many long songs, and their slowly developing compositions stand out.
 
-The sound that utilizes noise and reverberation is an extension of Converge's longstanding experimental attitude.
+The sound that makes use of noise and reverberation is an extension of Converge's longstanding experimental attitude.
 
 On the other hand, the contrasting vocals of Jacob Bannon and Chelsea Wolfe gave a fresh impression.
 
@@ -857,7 +857,7 @@ The reason he is supported across genres is not just his technique, but his cons
 
 ### Inheriting the DIY spirit
 
-Their emphasis on independent production and their commitment to preserving their own expression remain a benchmark for many young bands today.
+The group's emphasis on independent production and their commitment to preserving their own expression continue to serve as a benchmark for many young bands today.
 
 They continue to create works that they are satisfied with, without being influenced by commercial trends.
 
@@ -1061,7 +1061,7 @@ Starting from hardcore punk, they have absorbed a variety of elements such as me
 
 Its history is not a history of adhering to one style.
 
-It is a history of not losing the "Converge-ness" while exploring new methods for each work.
+It is a history of not losing the ""Converge-ness'' while exploring new methods for each work.
 
 ""Jane Doe'' is still talked about today as a representative work of extreme music, but its reputation goes beyond just a single masterpiece.
 

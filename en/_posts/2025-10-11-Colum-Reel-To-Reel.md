@@ -51,11 +51,11 @@ Listeners change the reels, watch the rotation, and "play" the magnetic flow.
 There is an act of physically handling time. Sound is not just reproduced data, but returns to a phenomenon involving movement and friction.
 
 What modern people are looking for may be this "regenerating body."
-オープンリールは、**聴くことの再物質化**を促すデバイスなのだ。
+Reel-to-reel is a device that encourages the rematerialization of listening.
 
 ---
 
-## 第2章　磁気のメディア論 — 記録とは何か？
+## Chapter 2 Media Theory of Magnetism — What is Recording?
 If you look at the surface of the tape with a microscope, you will see countless magnetic particles lined up there.
 Sound is a physical pattern in which electrical signals are arranged as magnetic shading.
 Unlike the digital world, which is made up of 0s and 1s, there is a ""continuous world'' here.
@@ -70,9 +70,9 @@ However, it is this "finiteness" that turns sound into a special event.
 
 ---
 
-## 第3章　アナログ復活の系譜と次の波
+## Chapter 3 Genealogy of analog revival and next wave
 Over the past 20 years, we have witnessed a ""resurgence of analogue'' many times.
-Records revive the visual ritual** through the "object" of the jacket.
+Records revive the **ritual of vision** through the ""object'' called the jacket,
 Cassettes brought back the DIY spirit and **lo-fi freedom**.
 
 And reel-to-reel goes even further.
@@ -88,7 +88,7 @@ The analog revival is not just a nostalgic revival;
 For Rhino's reprint, we have selected two works from 1971 that symbolize the pinnacle of analog recording.
 T. Rex's ""Electric Warrior'' is a glam rock metal heat.
 Yes "The Yes Album" is a progressive rock acoustic space.
-それらを**マスターテープに限りなく近いクオリティ**で再現する意図がある。
+The intention is to reproduce them with a quality that is as close as possible to the master tapes.
 
 However, what is important here is not "sound quality".
 "High Fidelity" is not only "high fidelity" but also **faithfulness to reality**.
@@ -102,7 +102,7 @@ It is an act of "believing in sound" rather than "consuming sound."
 
 ## Chapter 5 Reelism 2025: The birth of a new analog culture
 Reel-to-reel is currently undergoing a quiet update.
-Companies such as Recording The Masters and ATR Magnetics have restarted tape production.
+Companies such as Recording The Masters and ATR Magnetics have resumed tape production.
 Young engineers and artists are rebuilding the "Reel culture."
 
 In the area of ​​ambient and experimental music,
@@ -123,7 +123,7 @@ As the tape is played, the number of tapes decreases, and the sound continues to
 Its finite nature encourages listeners to concentrate and immerse themselves.
 
 Just as the infinite loop of streaming gave rise to "listening while listening,"
-Reel's finite time will help you regain your ability to concentrate on listening.
+Reel's limited time will help you regain your ability to concentrate on listening.
 Analog is no longer retro.
 It's another way technology expands human senses.
 
@@ -146,7 +146,7 @@ Reel is once again turning to record the future.
 <div class="mermaid">
 
 flowchart TD
-    A1950["1950年代：家庭用オープンリール普及（ソニー、アカイ）"]
+    A1950["1950s: Popularization of open reel for home use (Sony, Akai)"]
     A1971["1971: T. Rex"s "Electric Warrior"/Yes"s "The Yes Album" released"]
     A1982["1980s: The advent of CD, the end of the analog era"]
     A2000["2000s: Analog re-evaluation and resumption of tape production"]
@@ -160,7 +160,7 @@ flowchart TD
 
 ### Appendix B: Reel-to-reel reprint lineup
 
-[Rhinoの販売先リンク-RHINO HIGH FIDELITY](https://store.rhino.com/en/rhino-store/special-edition-shops/rhino-high-fidelity)
+[Rhino sales link-RHINO HIGH FIDELITY](https://store.rhino.com/en/rhino-store/special-edition-shops/rhino-high-fidelity)
 
 | Artist | Title | Year | Link |
 | :----- | :----- | :--: | :-------------------------------------------------- |

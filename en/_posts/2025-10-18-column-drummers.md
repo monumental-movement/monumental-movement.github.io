@@ -47,7 +47,7 @@ color: #fff;
 ## Introduction: What is rhythm? A cultural history of blowing and breathing
 
 Percussion instruments are the beginning of music and the heartbeat of the world.
-The drums in African villages are a substitute for words, and the Latin American conga is a continuation of prayer.
+The drums in African villages are a substitute for words, and the Latin American congas are a continuation of prayer.
 And in cities after the Industrial Revolution, it became synchronized with the rhythm of machines.
 The drum set was born in the early 20th century.
 The combination of snare, kick, and hi-hat was designed as an extension of human limbs,
@@ -157,7 +157,7 @@ He is attracting attention as a symbol of Japan's avant-garde drummers.
 
 Tatsuya Nakamura has turned the drum into something that is both violence and poetry.
 Beyond the context of "Kiyoshiro Imawano" and "Blankey Jet City,"
-A being that embodies the body's cries as sound.
+An existence that embodies the body's cries as sound.
 Junji Ikebata plays the drums that translate blues into Japanese.
 The stick has the Showa style and rebelliousness.
 

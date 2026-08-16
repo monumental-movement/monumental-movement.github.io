@@ -14,10 +14,10 @@ title: '[Column] Floating Points and acoustics as science - Analytical developme
 ---
 
 
-## 1. 導入：科学者としての音楽家
+## 1. Introduction: Musician as Scientist
 
 
-文：mmr｜テーマ：神経科学者Sam ShepherdによるFloating Points。彼の音楽に潜む科学的構造と、アンビエント・ジャズとしての再定義を探る
+Text: mmr | Theme: Floating Points by neuroscientist Sam Shepherd. Explore the scientific structure hidden in his music and its redefinition as ambient jazz
 
 **Sam Shepherd**, aka Floating Points, was a neuroscientist before he was a musician.
 The ""precise sound design" and ""organic improvisation" that characterize his work are the very thoughts he creates as he goes back and forth between the laboratory and the stage. Electronic sounds are not inorganic data, but can be seen as waveforms that fluctuate in the same way as brain reactions. For him, sound is both a "measurable natural phenomenon" and the "uncontrollable breath of life."
@@ -39,42 +39,42 @@ color: #fff;
 
 
 
-### 2. 構造の科学 ― Elaenia期（2015）
+### 2. Science of structure - Elaenia period (2015)
 His debut album ""Elaenia'' is a turning point in the scientific reorganization of the context of ambient jazz.
 The sound is a combination of modular synthesizer waveforms, Rhodes harmonics, and string reverberations layered together to create a frequency dialogue.
 This dialogue is more like ""resonance as a physical phenomenon'' like wave interference than improvisation.
 
-> “Silhouettes (I, II & III)” は10分間の音響実験であり、  
+> "Silhouettes (I, II & III)" is a 10 minute sonic experiment,
 > Synth LFO (low frequency vibration) and drummer Leo Taylor's rhythm
-> **Repeat synchronization and desynchronization** as different periodic frequencies.
+> **Repeat synchronization and desynchronization as frequencies of different periods**.
 
 There is a moment here where "human rhythm" and "machine cycle" intersect.
-It"s not just a fusion, it"s a point of observable chaos.
+It"s not just a fusion, it"s a point of origin for observable chaos.
 
 ---
 
 ### 3. Compression and implosion - Crush period (2019)
-『Crush』では、シンセサイズされた音圧とジャズ的リズムが極限まで圧縮される。  
+In "Crush," synthesized sound pressure and jazz rhythms are compressed to the limit.
 The result is an improvised form of electronic energy.
 In the title song "Falaise", the algorithmic filter modulation changes in milliseconds,
-音はほとんど「液体の物理現象」のように流動する。
+Sound flows almost like a ""physical phenomenon of liquid.''
 
-Shepherdのスタジオでは、AbletonやEurorackが**脳内の神経ネットワークのモデル**として機能する。  
+In Shepherd's studio, Ableton and Eurorack serve as models of the neural networks in the brain.
 Each knob tweak is an acoustic experiment that changes the rate at which neurons fire.
-ここでジャズ的な即興は、もはや“人の演奏”ではなく“信号の応答”に変質する。  
+At this point, jazz improvisation no longer becomes a ""person's performance" but a ""response to a signal."
 It is "improvisation performed by a machine" and is also a pioneering form of **post-human jazz**.
 
 ---
 
-### 4. 光の共鳴 ― Promises期（2021）
-Pharoah Sandersとの共作『Promises』は、Floating Pointsの科学的音響思考が**魂の領域に到達した**作品である。  
-This album intersects the physical "measurement of sound" and the metaphysical "sense of time."
-9章から成る組曲全体を貫くモチーフはわずか数音の反復だが、それは量子的な干渉パターンのように変化する。
+### 4. Resonance of light - Promises period (2021)
+Promises, co-written with Pharoah Sanders, is a work in which Floating Points' scientific sonic thinking reaches the realm of the soul.
+This album is a mix of physical "measurement of sound" and metaphysical "sense of time."
+The motif that runs through the nine-chapter suite is the repetition of just a few notes, which change like quantum interference patterns.
 
-Pharoah Sandersのサックスは、電子音に溶け込みながらも人間の「呼吸」を保ち続ける。  
-そのバランスは、まるで**観測者と被観測物の関係**のようだ。  
-Floating Pointsの音は空間を測定し、Sandersの息はその空間をゆらがせる。  
-そこには科学とスピリチュアル、測定と祈りが**ひとつの音響現象として同居**している。
+Pharoah Sanders' saxophone blends into electronic sounds while maintaining its human "breathing" quality.
+The balance is like the relationship between the observer and the observed object.
+Floating Points' sounds measure space, and Sanders' breath sways it.
+There, science and spirituality, measurement and prayer coexist as one acoustic phenomenon.
 
 ---
 
@@ -93,7 +93,7 @@ graph TD
 </div>
 
 While jazz improvisation was a temporal phenomenon, this model
-Floating Pointsの音響では即興が**空間的・周波数的に展開する**ことを示す。
+The acoustics of Floating Points show that improvisation unfolds in space and frequency.
 The listener becomes a **listener who observes space** rather than following time.
 
 ---
@@ -134,7 +134,7 @@ timeline
 ### 8. Conclusion: Observing sound
 
 Listening to Floating Points' music is more like an act of "observing" than "experiencing" the sound.
-そこでは聴覚が科学的感覚器として働き、音楽が精神と物理の中間領域**に立ち上がる。
+Here, hearing functions as a scientific sense organ, and music rises to the middle ground** between the mind and the physical.
 
 The genre of ambient jazz was created by him from ""experimental music in silence.''
 It evolved into ""music as observation.''

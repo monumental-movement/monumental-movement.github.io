@@ -64,7 +64,7 @@ The experience of listening to the same song at the same time has elevated music
 
 ## Editor of music culture called DJ
 
-Radio has created an existence that presents not only music itself, but also ""how to listen to music.''
+Radio has created an existence that not only presents music itself, but also suggests ""how to listen to music.''
 The DJ was the music selector, commentator, and storyteller.
 
 Song order, time, and comments.
@@ -86,7 +86,7 @@ Broadcast slots are set in fixed genres, and music becomes standardized accordin
 Song length, intro, chorus placement.
 The music format itself was optimized for broadcast time.
 
-> Radio cultivated genres and molded them at the same time.
+>Radio fostered genres and molded them at the same time.
 
 ---
 

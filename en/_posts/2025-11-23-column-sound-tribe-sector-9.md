@@ -52,7 +52,7 @@ The members had a wide range of backgrounds, including rock, jazz, funk, electro
 
 Around 1997, a rare
 **Electronica x Live Ensemble**
-This direction was formed, and the name Sound Tribe Sector 9 was started.
+This direction was formed and the name Sound Tribe Sector 9 was started.
 
 ---
 
@@ -88,12 +88,12 @@ Representative song:
 - "Atlas"
 - "Something"
 - "Arigato"
--"Tokyo"
-- "People"
+- "Tokyo"
+-"Peoples"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
 
-"Artifact" is a work that demonstrates STS9's sound and creativity to the fullest, and has earned high praise in the electronic music and jam band scene for its unique sound and innovative approach.
+"Artifact" is a work that showcases STS9's sound and creativity to the fullest, earning high acclaim in the electronic music and jam band scene for its unique sound and innovative approach.
 
 Their sound combines elements from a variety of genres, including ambient, electronica, jazz, funk, and dubstep.
 
@@ -181,7 +181,7 @@ In electronic music, live music plays the role of a drum machine, with bass, gui
 - breakbeats
 - Latin percussion
 - IDM subdivision
-are combined, and the method of ""creating a world view with rhythm'' is thoroughly implemented.
+are combined, and the method of ""creating a worldview with rhythm'' is thorough.
 
 ## 6-2. Extensive use of sound processing and effects
 
@@ -210,7 +210,7 @@ and designs live performances with a structure that is similar to a DJ set.
 
 Lighting is extremely important at STS9 live performances.
 A particular feature is that the movement of light is linked to changes in the song.
-During the festival"s night performance, the lighting itself functions as a gigantic "stage set," heightening the audience"s sense of immersion.
+During the festival"s night performances, the lighting itself functions as a gigantic "stage set," heightening the audience"s sense of immersion.
 
 ## 7-3. Community culture
 
@@ -270,7 +270,7 @@ flowchart LR
 # 11. Cultural influence and positioning
 ## 11-1. Establishing LiveTronica
 
-STS9, along with The Disco Biscuits and The New Deal, have become representative of "livetronica".
+STS9, along with The Disco Biscuits and The New Deal, have become representative of "livetronica",
 They have established a new genre that bridges electronic music and jam bands.
 
 ## 11-2. Strong ties with festival culture
@@ -288,7 +288,7 @@ It is also important because it shows how artists should be in the 21st century 
 
 ---
 
-# 12. Conclusion: 21st century "bands that evolve through live performances"
+# 12. Conclusion: 21st century "bands that evolve through live performance"
 
 Sound Tribe Sector 9 is
 **An attempt to transfer the structure of electronic music to live performance while maintaining the band format**

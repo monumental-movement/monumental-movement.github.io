@@ -294,7 +294,7 @@ That alone will make the market difficult to grow.
 
 ### Can the community expand?
 
-Genres don't spread just through music.
+Genres don't spread through music alone.
 
 Surrounding culture becomes important.
 
@@ -363,7 +363,7 @@ I often hear the explanation that ""it"s not popular because it"s difficult musi
 
 But in reality, that alone cannot explain it.
 
-For example, classical music has many extremely complex pieces.
+例えばクラシック音楽には非常に複雑な作品が数多く存在する。
 
 In contemporary music, there are works that do not have tonality or that use extremely complex rhythms.
 
@@ -419,9 +419,9 @@ This method of appreciation is similar to reading a novel over and over again.
 
 But in today's streaming era, many listeners move on to the next song within tens of seconds.
 
-It cannot be said that the compatibility with this viewing behavior is good.
+この視聴行動との相性は決して良いとは言えない。
 
-### Reason 3: The purpose is for experience, not entertainment.
+### 理由3　娯楽ではなく体験を目的としている
 
 Music has various roles.
 
@@ -467,7 +467,7 @@ Free Jazz, which developed from the late 1950s to the 1960s, actively incorporat
 
 It's not that he rejected traditional jazz.
 
-Rather, it was born as a result of musicians who deeply understood the tradition and sought new forms of expression.
+Rather, it was born as a result of performers who deeply understood the tradition and sought a new form of expression.
 
 Although his highly flexible performances influenced many musicians, his popularity remained limited in the popular music market.
 
@@ -673,7 +673,7 @@ Some believe that serendipitous encounters with new listeners have become more d
 
 The phrase "music that doesn't sell" is often used.
 
-However, in reality, it is often more accurate to rephrase it as ""music that does not have a large market.''
+However, in reality, it is often more accurate to phrase it as "music that does not have a large market."
 
 For example, if you produce a limited edition of 300 records and all of them are purchased, then your work has achieved its purpose.
 
@@ -681,7 +681,7 @@ The ability of an independent label to continuously deliver works to hundreds of
 
 Mass sales are not the only value of music.
 
-Underground cultures often emphasize building relationships with a small number of followers over long periods of time.
+Underground cultures often emphasize building long-term relationships with a small number of followers.
 
 ### On a global scale, there is no shortage of supporters.
 
@@ -722,7 +722,7 @@ A --> G[direct popularization]
 G --> H[limited]
 </div>
 
-> Even if the market size is small, the ability to create new expressions can have a major impact on later musical history.
+> Even if the market size is small, the power to create new expressions can have a great impact on later music history.
 
 ---
 
@@ -797,22 +797,22 @@ The following is a chronological arrangement of these major trends.
 | Period | Event | Influence on Mainstream | Influence on Underground Culture |
 |------|---------|--------------------------|-------------------|
 | Early 1900s | Spread of recording technology | Music begins to reach homes | Local culture begins to be recorded |
-| 1920s | Expansion of radio broadcasting | Nationwide hits created | Locally unique music preserved |
-| 1940〜50年代 | LPレコードの普及 | アルバム文化が成立 | 長尺作品の制作が可能になる |
+| 1920s | Expansion of radio broadcasting | Nationwide hits are born | Locally unique music is also preserved |
+| 1940s and 1950s | Spread of LP records | Establishment of album culture | Production of long works became possible |
 | 1950s | Spread of Rock"n"Roll | Youth culture becomes a huge market | Independent labels also increase |
 | 1960s | Development of Free Jazz and experimental music | Expansion of pop market | Diversification of art music |
 | 1970s | Development of Punk, Industrial, and Noise | Rock becomes a huge industry | DIY culture spreads |
 | 1980s | MTV/CD era | A global star is born | Indie labels expand |
 | 1990s | Internet spread begins | Information distribution becomes faster | Connection with overseas communities |
-| 2000年代 | ダウンロード配信 | 市場構造が変化 | 自主制作の発表機会が増える |
+| 2000s | Download distribution | Market structure changes | Opportunities to present independent productions increase |
 | 2010s | Streaming | Global hits are increasing | Niche genres are reaching the world |
 | 2020s | SNS/short video culture | Spread speed further increases | Small-scale genres will become easier to continue |
 
-> 音楽史は「主流」と「地下」が対立する歴史ではなく、それぞれが異なる役割を果たしながら発展してきた歴史でもある。
+> The history of music is not a history of conflict between the ""mainstream" and the ""underground," but rather a history of development as each plays a different role.
 
 ---
 
-## メインストリームとアンダーグラウンドの違い
+## Difference between mainstream and underground
 
 <div class="mermaid">
 flowchart LR
@@ -824,7 +824,7 @@ C --> D[Radio/TV]
 D --> E[large scale live]
 E --> F[mainstream]
 
-B -->|いいえ| G[自主制作]
+B -->|no| G[Independent production]
 G --> H[small scale live]
 H --> I[community building]
 I --> J[Continuing as an underground culture]
@@ -846,7 +846,7 @@ There are many examples of ideas from underground culture later being incorporat
 
 ---
 
-## 音楽文化の循環
+## Circulation of music culture
 
 <div class="mermaid">
 flowchart TD
@@ -864,7 +864,7 @@ F --> A
 
 Many innovative ideas don't start out in popular culture.
 
-少人数による試行錯誤が積み重ねられ、それが別のジャンルへ取り入れられ、やがて広く普及する。
+Through trial and error by a small number of people, it is incorporated into other genres, and eventually becomes widespread.
 
 Utilizing synthesizers,
 
@@ -872,7 +872,7 @@ sampling,
 
 feedback,
 
-アンビエント的な空間表現、
+ambient spatial expression,
 
 Noisy texture.
 
@@ -892,16 +892,16 @@ There are many types of music around the world that have been passed down within
 
 for example,
 
-- 特定地域の民俗音楽
-- 宗教儀式で演奏される音楽
+- Folk music from a specific region
+- music played at religious ceremonies
 - Singing culture in regional languages
 - Traditional music played only in small communities
 
-こうした音楽は、大衆市場を目指して生まれたものではない。
+This kind of music was not created with the aim of reaching the mass market.
 
 community memory,
 
-祭礼、
+festival,
 
 life,
 
@@ -911,11 +911,11 @@ It is deeply connected to history.
 
 Therefore, value cannot be measured solely by market size.
 
-また近年では、インターネットを通じてローカルジャンルが国外へ紹介される機会も増えている。
+In recent years, there have also been increasing opportunities for local genres to be introduced overseas through the Internet.
 
 Although there are some examples that temporarily attract attention, many continue to exist while maintaining their character as a regional culture.
 
-これは、グローバル化が進んだ現在でも、音楽が地域性を失っていないことを示している。
+This shows that even in today's world of globalization, music has not lost its regional character.
 
 > The world's music culture is not made up of one large market, but is made up of an accumulation of diverse regional cultures.
 
@@ -923,29 +923,29 @@ Although there are some examples that temporarily attract attention, many contin
 
 ## summary
 
-「メインストリームにならない音楽」と聞くと、多くの人は「人気がない音楽」や「失敗したジャンル」を想像するかもしれない。
+When many people hear the phrase ""music that doesn't become mainstream," they may think of ""unpopular music" or ""failed genres.''
 
 However, if we look back at music history, this view is not necessarily accurate.
 
 Experimental music, Free Jazz, Noise, Drone, Musique Concrète, Industrial, etc., although never creating a large market, had a long-lasting influence on many musicians and artists.
 
-その影響は、ロック、電子音楽、映画音楽、ゲーム音楽、現代美術、サウンドデザインなど、さまざまな分野へ広がっている。
+Its influence has spread to various fields such as rock, electronic music, film music, game music, contemporary art, and sound design.
 
-また、メインストリームとアンダーグラウンドは固定された関係ではない。
+Furthermore, the relationship between mainstream and underground is not fixed.
 
 A genre that was a minority at one time may later become widely accepted.
 
-逆に、一度大きな市場を形成したジャンルが細分化し、新たな地下文化を生み出すこともある。
+Conversely, a genre that once formed a large market can become fragmented and create a new underground culture.
 
 Music culture exists in a cycle of constant change.
 
 The value and influence of a culture cannot be measured by the size of the market alone.
 
-Music, which millions of people listen to, also plays an important role.
+Music, listened to by millions of people, also plays an important role.
 
-一方で、数百人しか聴かない音楽だからこそ挑戦できる表現もある。
+On the other hand, there are some expressions that can be challenged precisely because the music is only heard by a few hundred people.
 
-The existence of both has maintained the richness of musical culture as a whole.
+The existence of both has kept the musical culture as a whole rich.
 
 Today, we live in an era where music from all over the world can be accessed through streaming and SNS.
 

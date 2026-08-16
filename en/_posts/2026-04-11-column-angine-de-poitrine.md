@@ -75,7 +75,7 @@ This regionality allows their music to be both verbal and abstract.
 
 ### Long run-up and turning point
 
-Although the two have been performing together since they were young, they only officially started as Angine de Poitrine in 2019. However, at this point it had not been established as an ongoing project.
+Although the two have been performing together since they were young, they only officially started working as Angine de Poitrine in 2019. However, at this point it was not established as an ongoing project.
 
 The turning point occurred after 2023. Around this time, regular activities began, and the frequency of live performances and productions increased. Their identity as a band became clearer, and their communication to the outside world was strengthened.
 
@@ -91,7 +91,7 @@ timeline
 
 This ""time lag between formation and establishment'' shows that their music was formed through improvisational trial and error.
 
-> Bands are not born instantaneously, but have an outline over time.
+> Bands are not born instantaneously, but have contours over time.
 
 ---
 
@@ -101,7 +101,7 @@ This ""time lag between formation and establishment'' shows that their music was
 
 Although Angine de Poitrine's music is based on math rock, it is distinctive in that it actively incorporates microtonal elements. It uses pitches that deviate from the standard 12-temperament temperament and non-standard tuning, creating a unique instability.
 
-In terms of rhythm, complex time signatures and polyrhythms are often used, and the music has a structure that is both regular and disrupted at the same time. As a result, the listener's expectations are constantly being betrayed.
+In terms of rhythm, complex time signatures and polyrhythms are often used, and the structure has both regularity and disruption. As a result, the listener's expectations are constantly being betrayed.
 
 <div class="mermaid">
 flowchart LR
@@ -145,7 +145,7 @@ This anonymity functions as a device that increases the purity of music.
 
 In 2024, they will release their debut album "Vol. 1". Through this work, his previously fragmented activities were presented as a single form.
 
-Furthermore, in 2026, a live recording on radio station KEXP will be widely shared online, attracting international attention. This exposure led to tours in Europe and North America, and the scale of their activities quickly expanded.
+Furthermore, in 2026, a live recording on radio station KEXP will be widely shared online, attracting international attention. This exposure led to tours in Europe and North America, and the scale of their activities rapidly expanded.
 
 <div class="mermaid">
 flowchart TD
@@ -158,7 +158,7 @@ E --> F[tour]
 
 This flow indicates a contemporary structure in which evaluations in the underground scene are globally connected.
 
-> We have entered an era where local activities are instantly connected to the world.
+> We are entering an era where local activities are instantly connected to the world.
 
 ---
 

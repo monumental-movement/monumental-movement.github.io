@@ -22,7 +22,7 @@ Text: mmr｜Theme: The trajectory of a collective improvisational band born in p
 
 
 
-### Community for deconstructing existing locking grammars
+### A community for deconstructing existing lock grammars
 
 CAN is a music group formed in West Germany in 1968. The core members, Irmin Schmidt and Holger Czukay, had studied under contemporary music composer Karlheinz Stockhausen, and had a perspective on music as a matter of ""structure" and ""time."
 
@@ -55,7 +55,7 @@ color: #fff;
 
 ### Music completed on recorded tape
 
-CAN's production method was thorough. They recorded hours of improvisation, then extracted and edited fragments of the recording to complete the piece. In this process, post-recording editing is as important, if not more so, than composing.
+CAN's production method was thorough. They recorded hours of improvisation, from which they extracted and edited fragments to complete the piece. In this process, post-recording editing is as important, if not more so, than composing.
 
 Holger Czukay used shortwave radio and other external sound sources and collaged them onto tape. This is said to be the forerunner of later sampling and loop culture.
 

@@ -25,7 +25,7 @@ A hotel room in Brussels, 1982.
 As the dry beat of a Roland TR-808 blared, Marvin Gaye sat alone at the microphone.
 ""Midnight Love'' was an album of prayer born between exile and rebirth, love and self-destruction.
 The man who once led the golden age of Motown and spread the word "sexual healing" to the world eventually ended his life at the hands of his father.
-The paradox is that those who kept singing about love were the ones who were the most hungry for love.
+The paradox is that those who kept singing about love were the ones who were the most hungry for it.
 Marvin Gaye's life was the epitome of "the most beautiful, most painful blues" in the history of American music.
 
 ---
@@ -48,7 +48,7 @@ color: #fff;
 
 The life of Marvin Gaye, known as the ""Prince of Soul" and ""Prince of Motown," was filled with family complications, conflicts with himself, constant creative endeavors, and a tragic ending behind his spectacular success. His music was more than just a "pop hit"; it was an amalgamation of social messages, personal confessions, and grooves.
 
-In this article, we will reconsider him not just as a musical genius, but as a human being who lived a ""strange life''. We will unravel his progress from two axes: changes in music and his own inner oscillations.
+In this article, we will reconsider him not just as a musical genius, but as a human being who lived a ""strange life.'' We will unravel his progress from two axes: changes in music and his own inner oscillations.
 
 ---
 
@@ -59,7 +59,7 @@ Born Marvin Pentz Gay Jr. on April 2, 1939, in Washington, D.C. Her father, Marv
 However, since his childhood, he had been exposed to violence and a controlling attitude from his father, and he was in such a tense state that he later said that he lived with an almighty father who was like a king.
 
 ### Approaching Youth, the U.S. Air Force, and Doo-Wop
-In the mid-1950s, Gaye enlisted in the U.S. Air Force, but was discharged after a short time due to his rebellion against discipline. His interest in music grew, and he began working with doo-wop groups such as "The Marquees" and "The Moonglows." These activities served as an important foundation for my solo career.
+In the mid-1950s, Gaye enlisted in the U.S. Air Force, but was discharged after a short time due to his rebellion against discipline. His interest in music grew, and he began working with doo-wop groups such as ""The Marquees" and ""The Moonglows." These activities served as an important foundation for my solo career.
 Eventually, he moved to the Detroit/Motown area, and in 1961, he seized the opportunity to make his debut as a solo singer.
 
 ### Encounter with Motown
@@ -94,9 +94,9 @@ With this album, he was involved in writing, composing, and producing the album 
 
 ### "Let"s Get It On" (1973) and the exploration of sexuality
 In 1973"s "Let"s Get It On," she delved deeper into the theme of love/desire and demonstrated her "sex appeal" as a soul singer. There is a clear shift from the former "social accusation" to "inner passion."
-During this period, Gaye experienced the joy of creation, as well as the failure of love and financial pressure in his personal life, and these fluctuations cast a shadow on his work.
+この時期、ゲイは創作の喜びと同時に、私生活における愛の破綻や財政的なプレッシャーも経験しており、その揺れが作品に陰影を与えています。
 
-### "Here, My Dear" (1976) – Establishment as a confessional album
+### "Here, My Dear" (1976) – Established as a confessional album
 In 1976, he released the album Here, My Dear, which reflected the terms of his divorce from his wife, Anna Gordy. Although this was not a commercial success, it was positioned as a "confession album" that was later reevaluated.
 After releasing this album, Gaye was exhausted both physically and mentally and reached a turning point in his life.
 
@@ -110,7 +110,7 @@ In the late 1970s and early 1980s, gay men faced many challenges in the United S
 In the midst of all this, he was looking for a comeback and was looking for new sounds and new environments.
 
 ### "Midnight Love" (1982)/"Sexual Healing"
-On November 8, 1982, Marvin Gaye made a huge comeback with the release of his first album after the transfer, ""Midnight Love.''
+On November 8, 1982, Marvin Gaye released his first album after the transfer, ""Midnight Love,'' making a huge comeback.
 
 A major point of this album is the use of the famous Roland TR-808 throughout.
 
@@ -136,7 +136,7 @@ This sudden tragedy symbolized the antinomy of his life: success and despair, sa
 
 ## Chapter 5: Legacy, influence, and the strange "what if"
 
-### Pioneer to the liberation of the music industry and artists
+### 音楽産業・アーティストの解放への先駆け  
 Marvin Gaye was not only a hit maker, but also someone who paved the way for artists to independently create music themselves. The album "What"s Going On" was a work in which he was deeply involved in writing, composing, and producing the lyrics, and had a great influence on subsequent R&B/neo-soul.
 
 Furthermore, the use of the Roland TR-808 on ""Midnight Love'' also showed new possibilities for the fusion of electronic equipment and soul music.
@@ -154,7 +154,7 @@ There is also a movement to make films and documentaries about his life, and his
 
 ## Final chapter: The soul that continues to sing
 
-Looking back on Marvin Gaye's life, it seems that while music itself was his ""salvation," it was also his ""captivity." Through his voice, he continued to sing about the pain of society, the joy of love, and his own struggles.
+マーヴィン・ゲイの人生を振り返ると、それは音楽そのものが“救い”であったと同時に、“囚われ”でもあったように思われます。彼は自身の声を通じて、社会の痛み、愛の歓び、自分自身の葛藤を歌い続けました。  
 The words "If you cannot find peace within yourself, you will never find it anywhere else" are attributed to him.
 There is a shadow in the light of music, and there is light in the shadow - I think it is this antinomy that makes him more than just a "legend".
 His voice continues to be heard throughout time.

@@ -146,7 +146,7 @@ for example,
 
 When these changes come together, people naturally feel ""organized.''
 
-つまり一致しているのは音そのものではない。
+In other words, what is consistent is not the sound itself.
 
 It is the direction of change.
 
@@ -166,7 +166,7 @@ walking speed.
 
 It's time to pick up your instrument.
 
-こうした動きが演奏そのものと一体化している。
+These movements are integrated with the performance itself.
 
 The audience unconsciously reads the changes in their bodies, even if they are not aware of it.
 
@@ -192,13 +192,13 @@ One of them readies their instrument.
 
 Someone steps forward.
 
-その数秒後に演奏全体が変化する。
+A few seconds later, the entire performance changes.
 
 In other words, the members don"t just hear and react to each other"s "sounds."
 
 They also share physical signs.
 
-これは即興演奏において非常に重要な特徴である。
+This is a very important feature in improvisation.
 
 The performer predicts the future.
 
@@ -208,11 +208,11 @@ When these predictions are agreed upon across the group, major developments natu
 
 In a normal band,
 
-ギター。
+guitar.
 
 base.
 
-ドラム。
+drum.
 
 vocal.
 
@@ -242,7 +242,7 @@ Same phrase.
 
 Same rhythm.
 
-同じ展開。
+Same development.
 
 But in actual music, repetition does not take away freedom.
 
@@ -254,7 +254,7 @@ Minimal music consists of short patterns repeated over long periods of time.
 
 In folk music, there are many examples where the same cyclical structure continues for several minutes.
 
-その繰り返しがあるからこそ、演奏者は小さな変化を自在に加えることができる。
+Because of this repetition, the performer can freely make small changes.
 
 ### Iteration of Angine de Poitrine
 
@@ -322,7 +322,7 @@ If it"s a rock band, it"s the drummer and vocalist.
 
 In jazz, solos are often handed off using gaze or cues.
 
-However, in Angine de Poitrine's performance, there is no such clear central character.
+However, in Angine de Poitrine's performance, there is no such clear central figure.
 
 There are very few moments during a performance where only one person is in control.
 
@@ -334,11 +334,11 @@ The entire group appears to be evaluating the situation at the same time and cho
 
 ### Body movements become information
 
-演奏中、人は音だけを聴いているわけではない。
+During a performance, people don't just listen to the sound.
 
 We also receive a large amount of information visually.
 
-楽器を構え直す。
+Ready your instrument.
 
 The body's center of gravity moves forward.
 
@@ -394,7 +394,7 @@ One or the other does not always initiate change.
 
 By switching roles with each performance, the music is no longer fixed in one direction, but instead develops in a variety of ways.
 
-### 合図は共有された経験から生まれる
+### Signals come from shared experiences
 
 The body alone is not enough.
 
@@ -434,7 +434,7 @@ Change in volume.
 
 length of silence.
 
-音色の切り替わる間隔。
+The interval at which the tone changes.
 
 These are also rhythms that shape the flow of time.
 
@@ -570,7 +570,7 @@ When people have a conversation, they sometimes unconsciously match the timing o
 
 The same phenomenon occurs with music.
 
-When a group plays for a long time, their breathing speed and body rhythm gradually come closer together.
+When a group plays for a long time, the speed of breathing and the rhythm of the body gradually come closer to each other.
 
 This is not a strict tempo.
 
@@ -706,7 +706,7 @@ Order itself continues to move.
 
 In normal music, the purpose is to listen to a completed piece of music.
 
-On the other hand, at Angine de Poitrine's live performances, the process by which the music is created becomes a work of art.
+On the other hand, at Angine de Poitrine's live performances, the process by which the music is created becomes the work itself.
 
 The performers also do not know all the results.
 
@@ -754,7 +754,7 @@ This is because the whole system is constantly exchanging information and creati
 | Early 1990s | Angine de Poitrine begins activities in Quebec, Canada | Develops an experimental performance style with a large group that is different from a fixed rock band. |
 | 1990s | Continuing to perform live activities mainly in the local area | Through repeated live performances, a sense of commonality among performers is accumulated. |
 | Late 1990s | Released cassette works and self-produced sound sources | Not only studio works, but the act of performing itself is regarded as a work. |
-| 2000s | Continuing live expressions that include improvisation | A style that maintains cohesion as a group while creating different developments in each performance has become established. |
+| 2000s | Continuing live expressions that include improvisation | A style that maintains cohesion as a group while creating a different development for each performance has become established. |
 | Since the 2010s | Re-evaluation of past works continues | Opportunities to be introduced as unique collective expressions that cross improvisation, noise, and performance will increase. |
 
 ---
@@ -949,7 +949,7 @@ The tempo is also not fixed.
 
 There are few scenes where the melody is the main focus.
 
-For this reason, first-time listeners often get the impression that this is a group of people who are improvising and playing freely.
+For this reason, first-time listeners often get the impression that it is a group of people who improvise and play freely.
 
 However, if you take the time to observe the performance, a different picture emerges.
 

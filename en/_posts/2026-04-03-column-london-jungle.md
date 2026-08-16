@@ -19,13 +19,13 @@ title: '[Column] Sounds of the jungle: London''s urban tensions'
 
 Text: mmr｜Theme: Jungle sounds and people created by London's urban tension, and their reality
 
-London in the early 1990s. Redevelopment, rising unemployment, expanding immigrant communities, and increased police regulation. A combination of these complex factors had quietly built up pressure on the city.
+London in the early 1990s. Redevelopment, rising unemployment, expanding immigrant communities, and increased police regulation. A combination of these complex factors was quietly accumulating pressure on the city.
 
 Jungle is the direct translation of this pressure into sound. It was more than just club music, it was a culture that presented the tension and disconnection of the city as it was in the form of acoustics.
 
 The sound is extremely fast, fragmented, and heavy. Breakbeat fragmentation, sub-bass vibrations, and dancehall-derived voices. They directly reflect London's multi-layered cultural structure.
 
-This music was not planned. It was born as a result of the DJs and producers at the scene updating the sound while responding to the atmosphere of the place.
+This music wasn't planned. It was born as a result of the DJs and producers at the scene updating the sound while responding to the atmosphere of the place.
 
 > Jungle is not a musical genre, but a sonic structure that visualizes the pressures of the city.
 
@@ -36,7 +36,7 @@ This music was not planned. It was born as a result of the DJs and producers at 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -47,7 +47,7 @@ color: #fff;
 
 ## Divergence from rave culture
 
-1980年代後半から続くレイヴ文化は、ジャングルの母体だった。アシッドハウスに始まり、巨大な違法パーティーが各地で開催されていた。
+The rave culture that has been going on since the late 1980s was the parent body of the jungle. Starting with acid house, huge illegal parties were being held all over the place.
 
 However, in 1994, the situation changed completely with the Criminal Justice and Public Order Act. This law cracked down on music events with "repetitive beats," and rave culture was hit hard.
 
@@ -57,7 +57,7 @@ The important thing here is "Amen break". This short drum phrase was chopped up 
 
 At the same time, the place of activity shifted from clubs to pirate radio, and music spread in a more local and underground manner.
 
-> レイヴの終焉はジャングルの始まりであり、規制は創造性を加速させた。
+> The end of rave was the beginning of jungle, and regulation accelerated creativity.
 
 ---
 
@@ -86,7 +86,7 @@ Furthermore, with the addition of the Raga MC's voice and Patois phrases, the so
 
 ## Representative artists and tracks
 
-Jungle has been shaped by countless producers, but there are some artists and songs that are especially iconic.
+Jungle was formed by countless producers, but there are some artists and songs that are especially iconic.
 
 ### Goldie — "Inner City Life" (1994)
 
@@ -96,7 +96,7 @@ A representative figure who brought jungle to the world stage. Goldie was origin
 
 A famous anecdote is that when Goldie created this song, he was conscious of a different direction from the traditional "raga-based jungle." As a result, it became a bridge to later drum and bass.
 
-### Shy FX — “Original Nuttah” (1994)
+### Shy FX — "Original Nuttah" (1994)
 
 An iconic track from Raga Jungle. Created with UK Apache MCs, it exploded in clubs and radio.
 
@@ -106,7 +106,7 @@ Although the production was carried out using relatively simple equipment, the r
 
 ### LTJ Bukem — "Horizons" (1995)
 
-He is a person who has established a style that is especially called "intelligent" among the jungles. His sound emphasizes floating rather than aggression.
+He is a person who has established a style that is especially called "intelligent" even in the jungle. His sound emphasizes floating rather than aggression.
 
 "Horizons" showed that jungle can be more than just dance music, it can also be listened to.
 
@@ -116,7 +116,7 @@ It is said that Bukem gradually adjusted the tempo and spatiality while observin
 
 One of the most innovative figures in the reinvention of breakbeats. Remarc's tracks are characterized by extremely detailed rhythms.
 
-He took advantage of the limitations of his equipment and created his own unique grooves by chopping samples to their limits.
+He took advantage of the limitations of his equipment and created his own unique grooves by cutting samples to their limits.
 
 ### General Levy — "Incredible" (1994)
 
@@ -134,7 +134,7 @@ Pirate radio played a decisive role in the spread of the jungle. In London, ille
 
 This allows distribution without going through a record company. Trucks are evaluated through clubs and radio and then weeded out on the spot.
 
-DJは単なる再生者ではなく、キュレーターであり編集者だった。ミックスの中でトラックの意味が変わるため、作品は常に流動的な状態にあった。
+DJs were not just players, but curators and editors. The work was always in a state of flux, as tracks changed meaning in the mix.
 
 > Jungle is not a work, but a process generated by distribution and the site.
 

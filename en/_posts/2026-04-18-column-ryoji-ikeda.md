@@ -22,7 +22,7 @@ Text: mmr｜Theme: Extreme minimalism that converts data into sound and light to
 
 When discussing Ryoji Ikeda's work, the first thing to understand is that the framework of ""music'' itself is not his main subject. His creations are close to comprehensive perceptual devices that integrate acoustics, mathematics, physics, programming, and visual expression.
 
-What is particularly distinctive is the use of ultra-high frequencies that approach the limits of human hearing. This is not just a stimulus, but a design that exposes the boundaries between "hearing" and "not being able to hear." In other words, it presents the ""conditions of perception'' rather than the sound itself.
+What is particularly distinctive is the use of ultra-high frequencies that approach the limits of human hearing. This is not just a stimulus, but a design that exposes the boundaries between "hearing" and "not hearing." In other words, it presents the ""conditions of perception'' rather than the sound itself.
 
 His sounds are broken down to their smallest units: clicks, noises, and sine waves. They function not as rhythms or melodies, but as particles for measuring time and space. What is important here is that sound is treated as a "structure" rather than a "meaning."
 
@@ -52,11 +52,11 @@ Ikeda"s career dates back to the 1990s. Their extremely stripped-down sound attr
 
 Around 1995, the foundation for a body of work that would later receive international acclaim was formed. The 1998 album ""+/-'' revealed a style that treated digital signals themselves as sound.
 
-この時期の重要な変化は、「音楽作品」から「インスタレーション」への拡張だ。単なる音源制作ではなく、空間全体を作品化する方向へと移行していく。
+An important change during this period was the expansion from "musical works" to "installations." Rather than simply producing sound sources, he is moving toward turning the entire space into a work of art.
 
-In the early 2000s, we began collaborating with IRCAM (Institute of Acoustics and Music) in Paris. Here he collaborates with scientists to conduct research into sonifying data and physical phenomena. This experience culminated in his later masterpiece ""datamatics'' series.
+In the early 2000s, we began collaborating with IRCAM (Institute of Acoustics and Music) in Paris. Here, he collaborates with scientists to conduct research into sonifying data and physical phenomena. This experience culminated in his later masterpiece ""datamatics'' series.
 
-> Ikeda's turning point was the moment when it redefined sound from a material to a form of information expression.
+> Ikeda's turning point was the moment it redefined sound from a raw material to a form of information expression.
 
 ---
 
@@ -70,9 +70,9 @@ Below is a conceptual diagram of the basic structure in datamatics.
 
 <div class="mermaid">
 graph TD
-A[数値データ] --> B[algorithm processing]
+A[numerical data] --> B[algorithm processing]
 B --> C[acoustic conversion]
-B --> D[映像生成]
+B --> D[Video generation]
 C --> E[spatial arrangement]
 D --> E
 E --> F[audience perception]
@@ -80,7 +80,7 @@ E --> F[audience perception]
 
 What is important here is that sound and video are not independent, but are generated from the same data. In other words, vision and hearing are just different aspects of the same phenomenon.
 
-また、彼の作品では「スケール」が頻繁に変化する。ミクロ（素粒子）からマクロ（宇宙）までを同一のロジックで扱うことで、観客は自身の位置づけを相対化される。
+Additionally, the "scale" of his works changes frequently. By treating everything from the micro (elementary particles) to the macro (the universe) with the same logic, the audience is made to relativize their own position.
 
 > Data is not abstracted but converted into "reality" experienced through perception
 
@@ -88,7 +88,7 @@ What is important here is that sound and video are not independent, but are gene
 
 ## Ultra-high frequencies and the body: exposing the limits of perception
 
-Ikedaの作品において、超高周波は単なる音響効果ではない。それは身体そのものを測定する装置として機能する。
+In Ikeda's work, ultra-high frequencies are more than just a sound effect. It functions as a device to measure the body itself.
 
 The human audible range is generally considered to be between 20Hz and 20kHz, but Ikeda actively uses the range near or beyond that upper limit. At this time, the sound is felt as ""pressure" or ""vibration" rather than ""heard.''
 
@@ -128,7 +128,7 @@ D --> E[Restructuring of perception]
 
 Through this process, the audience gains the experience of ""listening to the space.'' In other words, rather than sound describing space, space itself appears as sound.
 
-Additionally, his works often use extreme contrasts (silence and explosions, darkness and flashes of light). This is a method to emphasize the threshold of perception and highlight the existence of space.
+Additionally, his works often use extreme contrasts (silence and loud noises, darkness and flashes of light). This is a method to emphasize the threshold of perception and highlight the existence of space.
 
 > Space is transformed from a background to an object that can be read as data.
 
@@ -153,9 +153,9 @@ B --> C[Place on time axis]
 C --> D[Synchronous output to sound and video]
 </div>
 
-Its characteristics are its speed and density. As information flows at a speed that exceeds the limits of what humans can perceive, it becomes impossible to "understand" it.
+Its characteristics are its speed and density. As information flows at a speed that exceeds the limits of what humans can perceive, it becomes impossible to ""understand'' it.
 
-However, on the contrary, its excess makes the data emerge as a "pure structure."
+On the contrary, however, its excess makes the data emerge as a "pure structure."
 
 > Information loses its meaning and appears as a structure
 
@@ -211,7 +211,7 @@ The audience can see this light from a distance, extending the work beyond a sin
 
 superposition is a live performance piece based on quantum mechanical concepts.
 
-Images projected on multiple screens, synchronized sound, and time axis discrepancies. When they overlap, the feeling of ""multiple states existing at the same time'' is created.
+Images projected on multiple screens, synchronized sound, and time axes. When they overlap, the feeling of ""multiple states existing at the same time'' is created.
 
 <div class="mermaid">
 graph LR

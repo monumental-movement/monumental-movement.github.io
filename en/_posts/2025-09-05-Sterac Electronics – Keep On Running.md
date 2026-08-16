@@ -13,7 +13,7 @@ title: Sterac Electronics – Keep On Running
 ---
 
 
-Sterac Electronics こと Steve Rachmad は世界的に活躍するアムステルダム出身のテクノプロデューサー／DJ。オランダにデトロイトテクノを広めた存在として広く称されている。
+Steve Rachmad, also known as Sterac Electronics, is an internationally active techno producer/DJ from Amsterdam. He is widely credited with popularizing Detroit techno in the Netherlands.
 
 He uses various names depending on his musical style, including Sterac, Parallel 9, Ignacio, Scorp, Black Scorpion, Tons of Tones, Dreg, and Adverse Match.
 

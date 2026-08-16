@@ -10,7 +10,7 @@ tags:
 - 90s
 - 80s
 - 70s
-title: '[Column] Ambient: From "music to listen to" to "music to feel" II'
+title: '[Column] Ambient: From "listening music" to "feeling music" II'
 ---
 
 
@@ -257,7 +257,7 @@ color: #fff;
 | 1980s | Yamaha DX7 | Transparent sound from FM sound source. A symbol of 80's ambient. |
 | 1980s | Roland Juno-60 | Warm pad string tone suitable for meditative space. |
 | 1980s | Fairlight CMI | Expensive sampler. Introducing natural sounds and sound effects into the ambient music. |
-| 1990s | Akai S1000/S3000 | A classic sampler that supported club ambient music. |
+| 1990s | Akai S1000/S3000 | A classic sampler that supported club-style ambient music. |
 | 1990s | DAT recorder | Essential for long sessions and recording environmental sounds. |
 | 2000s | Ableton Live | Specialized in loop-based editing. Enables improvised ambient production. |
 | 2000s | Max/MSP | Fusion with sound art, real-time sound processing. |
@@ -287,8 +287,8 @@ color: #fff;
 - Convert data to audio and video. Create a minimal and ambient immersive space.
 - **Ryuichi Sakamoto "async – Installation"** (2017, Watari Museum of Art, etc.)
 - Ambient art that explores the view of life and death and memory, combining environmental sounds and electronic sounds.
-- **Olafur Eliasson “The Weather Project”**（2003, テート・モダン）  
-  - 視覚と音響の統合体験として、アンビエント的没入空間を提示。  
+- **Olafur Eliasson "The Weather Project"** (2003, Tate Modern)
+- Presents an ambient immersive space as an integrated visual and audio experience.
 
 ---
 
@@ -297,7 +297,7 @@ color: #fff;
 Ambient has the aspect of ""acoustic architecture.''
 - **Airports (Eno's Music for Airports)**: Resonance of architectural space and sound.
 - **Urban Soundscape Studies (R. Murray Schafer)**: Ambient sounds define the urban experience.
-- In **modern architecture**, it has been introduced as an "acoustic design" that goes beyond background music, contributing to the psychological comfort of cities.
+- In **modern architecture**, it has been introduced as an "acoustic design" that goes beyond background music and contributes to the psychological comfort of cities.
 
 ---
 
@@ -318,7 +318,7 @@ Ambient has the aspect of ""acoustic architecture.''
 - Representative works ["Music for Nine Post Cards"](https://amzn.to/429uNQV) (1982), ["Green"](https://amzn.to/4nN36pp) (1986)
 - With its simple melody and clear sound, it has been reevaluated overseas in recent years.
 
-**高橋悠治 (Yuji Takahashi)**
+**Yuji Takahashi**
 
 - Interacted with avant-garde composers such as John Cage and helped establish experimental music in Japan.
 
@@ -356,4 +356,4 @@ In the future, ambient will become even more essential as ""environmental infras
 
 ### Related columns
 
-🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
+🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard](https://monumental-movement.jp/Column-Ambient)

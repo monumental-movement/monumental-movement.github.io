@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Rap
 title: '[Column] Early hip-hop culture before Bambaataa: A chain of expressions that
-  naturally emerged from the Bronx scene'
+  naturally arose from the scene in the Bronx'
 ---
 
 
@@ -27,7 +27,7 @@ What is important in understanding this era is that the core cultural practices 
 
 Hip-hop was not the invention of one person, but a complex phenomenon created by environment and necessity.
 
->Hip-hop was not born from an idea, but was a culture that was given its name from the accumulation of actions.
+>Hip-hop was not born from an ideology, but was a culture that was given its name from the accumulation of actions.
 
 ---
 
@@ -78,22 +78,22 @@ The DJ was responsible for preparing the sound equipment, securing power, bringi
 
 The act of extracting rhythmic parts from funk and soul records and repeating them while observing the audience's reaction became spontaneous and sophisticated.
 
-At this stage, DJs were more time-manipulators than creators.
+At this stage, DJs were less creators than time controllers.
 
-> The DJ's role was not to play music, but to control the energy of the group.
+> The DJ was not a person who played music, but a person who controlled the energy of the group.
 
 ---
 
 ## Discovery and establishment of breakbeats
 
 
-Funk and soul records often had short interludes that consisted of just instrumental music. At this moment, the DJ notices that the dancers' movements are at their most intense.
+Funk and soul records often had short interludes that consisted of only instrumental music. At this moment, the DJ notices that the dancers' movements are at their most intense.
 
-By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype for the structure later known as breakbeats.
+By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype for the structure that would later be called a breakbeat.
 
 What is important is that this method was not a theoretical invention, but was created as a result of observing audience reactions. The musical structure was reorganized by bodily responses.
 
-> Blake was not discovered, but given meaning by being danced.
+> Blake was given meaning by being danced, not discovered.
 
 ---
 

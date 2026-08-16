@@ -101,14 +101,14 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 </tr>
 </thead>
 <tbody>
-<tr>
+    <tr>
 <td>Front 242</td>
 <td>Belgium</td>
 <td>"Headhunter", Geography (1982)</td>
 </tr>
 <tr>
 <td>DAF</td>
-<td>Germany</td>
+      <td>ドイツ</td>
 <td>"Der Mussolini", Alles ist gut (1981)</td>
 </tr>
 <tr>
@@ -117,19 +117,19 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 <td>"Join in the Chant", That Total Age (1987)</td>
 </tr>
 <tr>
-<td>Klinik</td>
-<td>Belgium</td>
+      <td>Klinik</td>
+      <td>ベルギー</td>
 <td>"Moving Hands"</td>
 </tr>
 <tr>
 <td>Skinny Puppy</td>
-<td>Canada</td>
-<td>"Assimilate"</td>
-</tr>
+      <td>カナダ</td>
+      <td>“Assimilate”</td>
+    </tr>
 <tr>
 <td>Die Krupps</td>
-<td>Germany</td>
-<td>Evolution from EBM to metal fusion</td>
+      <td>ドイツ</td>
+      <td>EBMからメタル融合まで進化</td>
 </tr>
 </tbody>
 </table>
@@ -140,7 +140,7 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 ### Scene spread and influence
 EBM rapidly spread in the club scene and underground from the late 1980s to the early 1990s. It had a strong influence on the electronic music scene in various parts of Europe, especially in Germany, Sweden, Austria, and France.
 
-EBM has also had a huge influence on the following genres:
+また、EBMは以下のジャンルにも多大な影響を与えました：
 
 - Industrial rock/metal (e.g. [Ministry](https://amzn.to/47pfJBC), [Nine Inch Nails](https://amzn.to/4nPTgDL), [Rammstein](https://amzn.to/46ReLxY))
 
@@ -162,12 +162,12 @@ In the 90s, while being looked back on as **"Old School EBM"**, the scene branch
 
 - Dark Electro / Harsh EBM ([Suicide Commando](https://amzn.to/3W1sPPd), [Hocico](https://amzn.to/4oiOwWW), etc.)
 
-- Techno Body Music (TBM): EBM revival by techno DJs ([Helena Hauff](https://amzn.to/46RgP9c), [Ancient Methods](https://amzn.to/47ucub9))
+- Techno Body Music (TBM)：テクノDJによるEBMリバイバル（[Helena Hauff](https://amzn.to/46RgP9c)、[Ancient Methods](https://amzn.to/47ucub9)）
 
 
 <hr>
 
-### Recent revival and current EBM
+### 近年のリバイバルと現在のEBM
 Since the 2010s, along with the techno-industrial revival, EBM has been reevaluated.
 
 

@@ -22,7 +22,7 @@ Detroit techno is ""electronic music with a human touch'' that was born from the
 
 ### Origins and Definition — When and Who Called it "Techno"?
 
-In Detroit in the early 1980s, electronic dance music that made full use of synths and rhythm machines grew.
+In the early 1980s in Detroit, electronic dance music that made full use of synths and rhythm machines grew.
 
 Led by Juan Atkins, Derrick May, and Kevin Saunderson (not the so-called "Berlin trio" but the "Detroit trio"), they presented a sonic aesthetic that was different from the existing "electro" and "house," and it became established as "techno."
 
@@ -147,7 +147,7 @@ The following are the "core" songs for understanding Detroit techno.
 
 ### Production technical notes
 
-**Typical equipment**: Roland TR-808/909 (rhythm), SH-101, Juno series, sequencer (hard/soft).
+**Representative equipment**: Roland TR-808/909 (rhythm), SH-101, Juno series, sequencer (hard/soft).
 
 **Construction method**: Add "movement" to the repeating beats by changing filters and effects, and design spaces. It's common to use EQ to keep the lows thick and the highs clear.
 

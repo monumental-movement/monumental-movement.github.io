@@ -49,7 +49,7 @@ color: #fff;
 
 ### Sound from the township
 
-Amapiano"s origins lie in South Africa"s township culture on the urban periphery. Especially around Johannesburg and Pretoria, music has always existed as ""an integral part of life.''
+Amapiano"s origins lie in South Africa"s township culture on the urban periphery. Especially in the Johannesburg and Pretoria areas, music has always existed as something ""adjacent to life.''
 
 Since the 1990s, young people have been searching for new ways to express themselves in a post-apartheid society. The kwaito genre played an important role in this. The slow tempo and repetitive beats directly influenced later Amapiano.
 
@@ -101,9 +101,9 @@ This non-verbal nature was one of the important factors that pushed Amapiano to 
 
 ### Music and choreography are born at the same time
 
-In Amapiano, music and dance are not separated. At the same time as a new track is born, a new step is born.
+In Amapiano, music and dance are not separated. When a new track is born, a new step is born.
 
-Typical examples include movements such as "Vosho" and "Pouncing Cat." These are not just choreography, but a body language shared within a community.
+Typical examples include movements such as ""Vosho" and ""Pouncing Cat." These are not just choreography, but body language shared within a community.
 
 ### Sent from the street
 
@@ -127,7 +127,7 @@ By being shared through the body, Amapiano changes from something you listen to 
 
 The structure of the Amapiano lends itself well to short clips. Distinctive drops, repeats, and instantly recognizable sounds.
 
-This creates a situation in which you can ""know what song it is'' even if the video is only a few seconds long.
+This creates a situation where you can ""know what song it is'' even if the video is only a few seconds long.
 
 ### Viral chain
 
@@ -137,7 +137,7 @@ Importantly, the diffusion here is not centralized. It is amplified not by any p
 
 ### Changing role of the artist
 
-Traditionally, artists released music and the media disseminated it. However, with Amapiano, users themselves are the main agents of promotion.
+Traditionally, artists released music and the media disseminated it. However, with Amapiano, users themselves are the main actors in promotion.
 
 As a result, "hits" are no longer planned, but instead discovered later.
 
@@ -153,7 +153,7 @@ Currently, Amapiano is accelerating its fusion with other genres. Crossover with
 
 ### Production Refinement
 
-The initial roughness has gradually been refined, with greater precision in the mix and sound design. On the other hand, there are also movements that intentionally leave a lo-fi feel.
+The initial roughness has been gradually refined and the precision of the mix and sound design improved. On the other hand, there are also movements that intentionally leave a lo-fi feel.
 
 ### Global/local reconnection
 

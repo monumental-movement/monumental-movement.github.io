@@ -27,7 +27,7 @@ Electro is a trend of electronic music that emerged in the early 1980s. Based on
 
 <hr>
 
-### Origins of electro: resonance with hip-hop
+### エレクトロの起源：ヒップホップとの共振
 
 The birth of electro is closely tied to the breakdance culture of the Bronx, New York.
 
@@ -55,7 +55,7 @@ B. Planet Rock (Instrumental)
 
 **Egyptian Lover – Egypt, Egypt**
 
-Making full use of synths, she presents a sexual and decadent worldview. A song that symbolizes the West Coast scene.
+シンセを駆使しつつ、セクシャルで退廃的な世界観を提示。西海岸シーンを象徴する一曲。
 
 Electro was not just a music genre, but a culture inseparable from breakdance and street fashion. The silver costumes and cyber-style visuals embodied the sensibility of the era of ""the fusion of machines and humans.''
 
@@ -65,7 +65,7 @@ Electro was not just a music genre, but a culture inseparable from breakdance an
 
 ### Intersection of techno and electro
 
-In the late 1980s and 1990s, Detroit techno and electro were reunited.
+1980年代後半から1990年代にかけて、デトロイト・テクノとエレクトロは再び結びつく。
 
 **Drexciya (a legendary duo from Detroit)** is a concept piece themed around an undersea civilization, giving a mythical quality to hard electro beats.
 
@@ -75,7 +75,7 @@ In the late 1980s and 1990s, Detroit techno and electro were reunited.
 
 **Juan Atkins (Model 500)** is a pioneer of techno, as well as a prolific producer of electro-inspired tracks, freely straddling the boundaries between the two.
 
-This trend would later lead to IDM and glitch electronica.
+この流れは、のちのIDMやグリッチ・エレクトロニカにもつながっていく。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NQCB6yK9gvc?si=5eg1vQF0lHBk3phd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -120,17 +120,17 @@ The debut album by Justice, a French electronic dance band active since 2003, wa
 
 ### Modern electro
 
-Today's electro is inherited in its purest form, but it is also dispersed into various genres.
+今日のエレクトロは、純粋な形で継承される一方、様々なジャンルに分散している。
 
 As a subgenre of techno/IDM, hard tracks using analog synths and 808s continue to be released.
 
-The rhythmic approach derived from electro is also evident in bass music and trap.
+ベースミュージックやTrapにも、エレクトロ由来のリズム・アプローチが顕著に見られる。
 
 In the Japanese scene, Ken Ishii and Goth-Trad have incorporated electro elements and developed their own unique interpretations.
 
 <hr>
 
-### Notable masterpieces
+### 注目すべき代表作
 
 [Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)](https://monumental-movement.jp/Afrika-Bambaataa-&-The-Soulsonic-Force-Planet-Rock)
 

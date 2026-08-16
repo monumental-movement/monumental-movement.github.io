@@ -20,7 +20,7 @@ title: '[Column] Steve Jobs and Jonathan Ive - Resonance between sound and desig
 Text: mmr｜Theme: Tracing the changes in the duo's music views, design philosophy, and product line based on primary materials and reliable testimonies.
 
 
-アップルが生み出した数々の製品の中でも、「音」にまつわるデザインは常に中心にあった。  
+Among the many products Apple has created, the design surrounding "sound" has always been at the center of it.
 The collaboration between Steve Jobs and Jonathan Ive goes beyond mere product design.
 A new culture of **fusion of music and technology** was born.
 
@@ -163,7 +163,7 @@ In other words, design is both visual art and the act of constructing sound.
 The "startup sound", "click sound", and "silence design" of Apple products are
 It was all the result of a sonic collaboration between Jobs and Ive.
 
-The philosophy of sound they created remains at the core of music even today in the age of AI.
+The philosophy of sound that they created remains at the core of music even today in the age of AI.
 Through music and design, they brought technology back to human sensibilities.
 
 ---

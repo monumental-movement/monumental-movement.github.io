@@ -36,7 +36,7 @@ color: #fff;
 </style>
 
 
-### Bossa Nova and Brasilia architecture —— Modernism in the city and music
+### Bossa Nova and Brasilia architecture —— Modernism in cities and music
 
 In 1956, the futuristic city of Brasilia was built as part of a plan to relocate Brazil"s capital. Architect Oscar Niemeyer"s curvaceous and bold concrete structure showed the world a new image of Brazil. Coincidentally, around that time, João Gilberto changed musical history with ""Chega de Saudade" and Antonio Carlos Jobim achieved international success with ""The Girl from Ipanema".
 
@@ -64,7 +64,7 @@ What's even more interesting is that the spread of bossa nova was in sync with t
 
 ---
 
-### Conclusion —— Bossa Nova is a crossroads of cultures
+### Conclusion —— Bossa Nova is a cultural crossroads
 
 Looking at it this way, we can see that bossa nova was not just a music genre, but a comprehensive cultural phenomenon that symbolized modern Brazil, intersecting with architecture, technology, and fashion.
 

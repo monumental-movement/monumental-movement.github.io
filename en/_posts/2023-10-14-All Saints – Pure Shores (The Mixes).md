@@ -14,7 +14,7 @@ title: All Saints – Pure Shores (The Mixes)
 
 The first track on side A is a remix by UK DJ/producer/sound designer Tom Middleton, also known as Cosmos.
 
-The second track on Side A is a remix by Karl Clive Gordon, aka K-Gee, a former member of Outlaw Posse and Brothers Like Outlaw.
+The second track on side A is a remix by Karl Clive Gordon, aka K-Gee, a former member of Outlaw Posse and Brothers Like Outlaw.
 
 The B-side is a remix by Mark Stent, a UK record producer and mixing engineer who has worked with many international artists including Marshmello, U2, Beyoncé, Björk, Depeche Mode, Echo & the Bunnymen, Grimes, and Ed Sheeran.
 

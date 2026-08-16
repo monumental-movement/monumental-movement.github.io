@@ -68,7 +68,7 @@ color: #fff;
 ---
 
 ## Late 1990s: Deepening and complexity
-After interacting with jungle and drum and bass, IDM progressed to rhythmic subdivision and sonic experimentation. Artistic acclaim outside the clubs grew, and it began to be talked about in the context of art schools and galleries.
+After interacting with jungle and drum and bass, IDM moved on to rhythmic subdivision and sonic experimentation. Artistic acclaim outside the clubs grew, and it began to be talked about in the context of art schools and galleries.
 
 - **Representative masterpiece**
 - Aphex Twin – *Richard D. James Album* (1996)
@@ -98,7 +98,7 @@ Hardware synths such as **Nord Lead** and **Access Virus** became popular.
 ---
 
 ## 2000s: Post-IDM and Crossover
-Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the way releases are done has also changed.
+Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the nature of releases has changed.
 
 - **Representative masterpiece**
 - Boards of Canada – *Geogaddi* (2002)
@@ -140,7 +140,7 @@ Mixed with bass music, grime, and ambient techno. IDM became more of an aestheti
 **Modular synth (Eurorack)** boom.
 Original instrument development using **Max for Live**.
 
-### List of 10 recommended songs (2010s)
+### おすすめ10曲リスト（2010年代）
 
 | No | Artist | Song title | Comments |
 |---|---|---|---|

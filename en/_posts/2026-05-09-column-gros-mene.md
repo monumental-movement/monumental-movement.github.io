@@ -19,7 +19,7 @@ title: '[Column] Gros Mené - Unusual blues produced by Quebec''s "rough rock"'
 
 Text: mmr｜Theme: Gros Mené etched in Quebec rock history. Tracing the unique evolution of French rock through its raw sound, humor, sense of community, long silence and resurgence.
 
-### Choosing "not to adjust the lock"
+### Choice of "not adjusting the lock"
 
 At the end of the 1990s, a variety of movements were occurring simultaneously in Quebec's rock scene.
 While populist and social groups such as Les Colocs were gaining ground, noisier, rougher music, with influences from Anglo-American alternative rock and garage rock, was also gaining momentum underground.
@@ -82,7 +82,7 @@ Rather than a large-scale production, we record in our own space and create soun
 This attitude resonated with the alternative culture of the 1990s.
 
 At the time, the post-Nirvana grunge sensibility remained in North America, and stoner rock and garage revival were also expanding.
-Parallel to the trends of Queens of the Stone Age, Kyuss, and Jon Spencer Blues Explosion, the desire for "dirty rock" was growing around the world.
+Parallel to the trends of Queens of the Stone Age, Kyuss, and Jon Spencer Blues Explosion, the desire for "dirty rock" was growing all over the world.
 
 Gros Mené translated it into Quebecois style.
 
@@ -120,7 +120,7 @@ Gros Mené has always existed somewhere between serious and prankish.
 
 ### 1999, turning point for Quebec rock
 
-In April 1999, Gros Mené released their debut album ""Tue ce drum Pierre Bouchard''.
+In April 1999, Gros Mené released their debut album, ""Tue ce drum Pierre Bouchard''.
 
 This work would later be treated as an important work of Quebec rock.
 
@@ -134,7 +134,7 @@ The performance had a strange tenacity to it, a mix of blues, garage rock, punk,
 This work is also known as the first release on La Tribu label.
 This album occupies a symbolic position in the history of La Tribu, which later became an important indie label.
 
-Pierre Bouchard, who is included in the title, is a drummer.
+Pierre Bouchard, mentioned in the title, is a drummer.
 However, he does not appear on all of the songs on the album.
 Still, the fact that it was chosen as the album"s name shows Gros Mené"s unique sense of humor.
 
@@ -167,13 +167,13 @@ E --> H[locality]
 What was unique about this work was that it destroyed the silent pressure that ""French rock should be sophisticated.''
 
 Rough rock existed before Gros Mené.
-However, they directly connected it to local culture and language sense.
+However, they directly connected it to local culture and linguistic sensibilities.
 
 He screams, laughs, and distorts his French with a Quebecois accent.
 This attitude had a great influence on subsequent generations.
 
 Furthermore, they had the attitude of not making rock music too much of an art form.
-Their music always had a bar feel and a sense of collegial laughter, refusing to be overly deified.
+Their music always had a bar feel and a sense of camaraderie, and they refused to be overly deified.
 
 > ""Tue ce drum Pierre Bouchard'' showed that Quebec rock could reach world-class standards while remaining connected to local culture.
 
@@ -217,7 +217,7 @@ They prioritized a gritty rock"n"roll sensibility over urban indie sophisticatio
 As a result, they maintain a distance from the mainstream scene while gaining their own support.
 
 Also important was the sense of community in Quebec culture.
-Gros Mené existed not as a huge star, but as a band that "those in the know know intimately."
+Gros Mené existed not as a huge star, but as a band that ""people in the know know deeply.''
 
 > The long silence did not make Gros Mené disappear, but rather turned it into a myth.
 
@@ -248,7 +248,7 @@ In other words, what was once ""dangerous and crude underground rock'' was now o
 Agnus Dei further enhances the stoner rock and blues sensibilities.
 
 The riff is heavy, the groove is tenacious, and the performance is thick.
-一方でユーモアは失われていない。
+However, the humor is not lost.
 
 The lyrics include women, hockey, alcohol, fantasy, and the atmosphere of local cities.
 This feeling also makes me feel close to American southern rock and New Orleans music.
@@ -256,7 +256,7 @@ This feeling also makes me feel close to American southern rock and New Orleans 
 Fred Fortin himself mentioned the influence of Dr. John's Gris-Gris in a later interview.
 
 In other words, Gros Mené is more than just hard rock.
-ブルース、ニューオーリンズ的グルーヴ、ストーナー・ロック、ケベックの酒場文化が混ざった独特のハイブリッドなのである。
+It's a unique hybrid of blues, New Orleans groove, stoner rock, and Quebecois bar culture.
 
 <div class="mermaid">
 sequenceDiagram
@@ -299,14 +299,14 @@ Fred Fortin says he doesn't like the modern marketing method of releasing multip
 This attitude reflects Gros Mené's personality well.
 
 They have always distanced themselves from industry logic.
-アルバムとは、一気に投下されるべき塊である。
+An album is a chunk of music that should be released all at once.
 They maintained that classic feel.
 
 Production on Pax et Bonum began around 2014.
 In other words, it was actually a work that took a very long time to create.
 
-Recording took place in a studio and chalet in Saint-Félicien.
-ここでも土地性が重要である。
+Recording took place in a studio/chalet in Saint-Félicien.
+Land characteristics are also important here.
 
 ### Sound changes
 
@@ -376,7 +376,7 @@ Locality has great meaning in Quebec culture.
 Montreal is not the only cultural center.
 The sense of local community deeply influences the music.
 
-Gros Mené"s rough-and-tumble rock sensibility is more than just a musical genre, it"s closely tied to the local culture.
+Gros Mené"s rough-and-tumble rock sensibility is more than just a musical genre; it"s closely tied to the local culture.
 
 ### Humor and violence
 
@@ -398,7 +398,7 @@ This feeling makes the band more than just stoner rock.
 
 Olivier Langevin's presence at Gros Mené was also decisive.
 
-Although he would later go on to lead Galaxie, his collaboration with Fred Fortin has continued since the late 1990s.
+He would later go on to lead Galaxie, but his collaboration with Fred Fortin has continued since the late 1990s.
 
 Langevin's guitar is more than just accompaniment.
 
@@ -413,7 +413,7 @@ This atmosphere is the core of Gros Mené.
 
 Although Gros Mené and Galaxie are separate bands, they are strongly linked in Quebec rock history.
 
-Both explored rough guitars, heavy grooves, and a new form of French rock.
+Both explored rough guitars, heavy grooves, and new forms of French rock.
 
 But there are also differences.
 
@@ -442,11 +442,11 @@ E --> G[High Energy Rock]
 
 ""Doing rock in French'' has been a big theme in Quebec for many years.
 
-In an environment surrounded by English-speaking North America, French music always takes on cultural meaning.
+Surrounded by English-speaking North America, French music always takes on cultural meaning.
 
 Gros Mené answered this question not in theory but in practice.
 
-They didn't prove that it was possible to play rock music in French.
+They didn't prove that it was possible to play rock in French.
 Rather, they created "rock that could only exist because it was Quebecois French."
 
 The accent, the phrasing, the local feel.
@@ -483,7 +483,7 @@ However, his clumsiness gives him a strong personality.
 
 ### Live is more important than the studio
 
-Gros Mené cannot be talked about only by his recorded works.
+Gros Mené cannot be talked about solely by his recorded works.
 
 Their essence is also present in their live performances.
 

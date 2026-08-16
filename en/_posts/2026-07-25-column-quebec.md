@@ -85,7 +85,7 @@ Music was no exception.
 
 ### Halfway between France and America
 
-Québec musicians had natural access to both the European avant-garde and American improvisational culture.
+Quebec musicians had natural access to both the European avant-garde and American improvisational culture.
 
 Contemporary music developed in Paris.
 
@@ -218,7 +218,7 @@ Universities were equipped with recording facilities and electronic equipment, a
 
 This flow directly led to later electronic music and sound art.
 
-一方で、アメリカのフリージャズも若い演奏家たちに強い刺激を与えていた。
+On the other hand, American free jazz also provided a strong stimulus to young performers.
 
 Many musicians began to embrace the free idea of ​​composing music on the spot, rather than playing accurately from a musical score.
 
@@ -234,7 +234,7 @@ This idea of ​​""not creating boundaries'' became the most important charact
 
 ### Evaluation axis different from commercial
 
-In the late 1960s, the emphasis on artistic originality over commercial success took hold.
+By the late 1960s, the emphasis on artistic originality over commercial success had become established.
 
 Rather than whether a work sells in large numbers, people are now evaluating it for whether it has created an expression that did not exist before.
 
@@ -425,7 +425,7 @@ Younger generations gain experience by performing alongside veterans and bring n
 
 As this cycle has continued, the scene has developed without relying on any particular star.
 
-The result was the formation of an experimental music culture that lasted for decades.
+As a result, an experimental music culture was formed that lasted for decades.
 
 <div class="mermaid">
 graph LR
@@ -552,12 +552,12 @@ Young performers gain experience by performing with veterans and launch new proj
 
 The fact that this cycle has continued for many years is the greatest strength of Quebec experimental music.
 
-Rather than a single star, the entire region supports creativity.
+It is not just a single star, but an entire region that supports creativity.
 
 <div class="mermaid">
 flowchart TD
 
-A["1960年代<br>静かな革命"] --> B["1970s<br>L'Infonie・Conventum"]
+A["1960s<br>Quiet Revolution"] --> B["1970s<br>L'Infonie・Conventum"]
 B --> C["1980s<br>Ambiances Magnétiques"]
 C --> D["1990s<br>Constellation Records"]
 D --> E["Godspeed You! Black Emperor"]
@@ -575,7 +575,7 @@ H --> K
 
 ---
 
-## 年表
+## Chronology
 
 | Years | Events |
 | -------- | ------------------------------------------------- |
@@ -586,7 +586,7 @@ H --> K
 | 1983 | Established Ambiances Magnétiques |
 | 1980s | Jean Derome, René Lussier and others gain international acclaim |
 | 1994 | Godspeed You! Black Emperor formed |
-| 1997年    | Constellation Records設立                           |
+| 1997 | Constellation Records established |
 | Late 1990s | Fly Pan Am begins operations |
 | 2000s | Digital production and DIY culture merge |
 | Since the 2000s | Diverse activities such as Angine de Poitrine, Contraction, Miriodor continue |
@@ -603,7 +603,7 @@ H --> K
 
 Experimental music is now being produced all over the world.
 
-ベルリンには電子音楽とサウンドアートの文化がある。
+Berlin has a culture of electronic music and sound art.
 
 London has a long history of improvisation and free improvisation.
 
@@ -611,17 +611,17 @@ New York is an important center for minimal music and the avant-garde, and Japan
 
 Each is a city with global influence and has produced many outstanding musicians.
 
-しかし、それらと比較したとき、ケベックには他地域とは異なる特徴がある。
+However, when compared to these regions, Quebec has characteristics that set it apart from other regions.
 
 This is because not only a few famous musicians but the entire region has supported experimental music for a long time.
 
-### 「競争」ではなく「共創」
+### "Co-creation" instead of "competition"
 
 In many cities, generational change occurs as new talent emerges.
 
 On the other hand, in Quebec there is a deep-rooted culture of musicians from different generations performing together and launching new projects together.
 
-ベテランが若手へ知識を伝え、若手は新しい技術や発想を持ち込む。
+Veterans pass on their knowledge to young people, and young people bring in new techniques and ideas.
 
 As a result, the entire community continues to grow.
 
@@ -629,7 +629,7 @@ Another major feature is that it maintains horizontal cooperative relationships 
 
 ### Systems that support the arts
 
-ケベックでは文化政策や公的支援が比較的充実しており、商業的成功だけでは測れない芸術活動にも一定の支援が行われてきた。
+Quebec has relatively strong cultural policies and public support, and a certain amount of support has been given to artistic activities that cannot be measured solely by commercial success.
 
 Of course, not all musicians have access to sufficient support.
 
@@ -647,15 +647,15 @@ In Quebec, failure itself tends to be accepted as part of creation.
 
 Unexplored performance methods, new ways to use instruments, fusion with different genres, etc. are evaluated not only for the completed work but also for the trial and error involved.
 
-この文化があるからこそ、既存の枠組みを超える音楽が継続的に生まれてきた。
+It is precisely because of this culture that music that transcends existing frameworks has been continuously produced.
 
 ### Network spreading around the world
 
-現在、ケベックの音楽家はヨーロッパ、アジア、南米など各地のフェスティバルや芸術祭へ参加し、国際的な共同制作も数多く行っている。
+Québec musicians currently participate in festivals and art festivals throughout Europe, Asia, and South America, and are involved in many international collaborative productions.
 
 Meanwhile, foreign musicians will also have the opportunity to visit Montreal and perform with local musicians.
 
-この双方向の交流によって、地域文化でありながら閉鎖的ではない、開かれた実験音楽シーンが維持されている。
+This two-way exchange maintains an open experimental music scene that is part of local culture but not closed.
 
 > Quebec's strength lies not in a single genius or a single trend, but in a community that supports creativity across generations.
 
@@ -671,7 +671,7 @@ The background is French culture, the education system, arts policy, local commu
 
 Starting with social changes in the 1960s, Musique actuelle in the 1970s, independent label culture in the 1980s, international recognition in the 1990s, and continuing to be passed down to younger generations to this day.
 
-これらは独立した出来事ではなく、一つの長い歴史としてつながっている。
+These are not independent events, but are connected as one long history.
 
 ### Attitude, not genre
 
@@ -683,9 +683,9 @@ What they have in common is the attitude of ""searching for the expression we ne
 
 That"s why Quebec music doesn"t get old even when times change.
 
-This is because he has always been looking for new creative methods rather than following trends.
+This is because he has always searched for new creative methods rather than following trends.
 
-### 小さな地域が世界へ与えた影響
+### The impact of a small region on the world
 
 In terms of population and market size alone, Quebec is by no means the world's largest music region.
 
@@ -693,9 +693,9 @@ Nevertheless, this land has spawned many experimental musicians, labels, festiva
 
 The reason for this is not only his works, but also the connections he has cultivated over the decades.
 
-音楽は単独では存在せず、コミュニティの中で育つ。
+Music does not exist in isolation; it grows within a community.
 
-ケベックは、そのことを最もよく示している地域の一つと言える。
+Quebec is one of the regions that best exemplifies this.
 
 ### The chain of creation continues
 
@@ -707,7 +707,7 @@ Experimental music is not a special genre.
 
 It is a never-ending task of ""searching for music that doesn't exist yet.''
 
-そしてケベックは、その営みを半世紀以上にわたり支え続けてきた世界でも稀有な場所なのである。
+And Quebec is a rare place in the world that has continued to support this business for more than half a century.
 
 > The history of experimental music in Quebec is not the history of individual masterpieces, but the history of the culture itself, which has been fostered by people supporting each other in free creation, and this history continues even today.
 

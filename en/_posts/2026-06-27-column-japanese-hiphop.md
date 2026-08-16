@@ -128,7 +128,7 @@ D --> G[Rhymester]
 
 ### KOHH and urban loneliness
 
-KOHH is a presence that brought out the ""individual inner world'' in Japanese rap in the 2010s. Rather than stories of success or the streets, his lyrics were built around loneliness, loss, and the fluctuations of everyday life.
+KOHH is a presence that brought out the ""personal inner world'' in Japanese rap in the 2010s. Rather than stories of success or the streets, his lyrics were built around loneliness, loss, and the fluctuations of everyday life.
 
 This was a shift from the traditional "expression of strength" to "expression of vulnerability."
 

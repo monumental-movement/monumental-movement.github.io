@@ -103,7 +103,7 @@ flowchart TD
 ### 3.1 Early Japanese Melocore
 
 #### Hi-Standard (formed in 1991)
-- In 1995, "Growing Up" created a boom in Japan.
+- Created a boom in Japan with ""Growing Up'' in 1995
 - Signed with Fat Wreck Chords in 1997, successfully toured America and gained international acclaim.
 - Features: Short and fast songs, pop melodies, youthful lyrics
 - Representative songs: "Stay Gold", "Summer of Love"
@@ -114,7 +114,7 @@ flowchart TD
 - Representative songs: "Marry Me", "My Favorite Song"
 
 #### BRAHMAN (formed in 1995)
-- Intermediate between hardcore and merocore
+- Intermediate existence between hardcore and merocore
 - Passion and philosophical lyrics unique to Japan
 - Representative songs: "The Silent Cry", "A Man of Spirit"
 

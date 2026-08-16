@@ -9,7 +9,7 @@ tags:
 - Buchla
 - Modular
 - Ambient
-title: 【コラム】 Kaitlyn Aurelia Smith — Buchla に宿る「電気の命」の響き
+title: '[Column] Kaitlyn Aurelia Smith — The echoes of "electric life" in Buchla'
 ---
 
 
@@ -59,7 +59,7 @@ These experiences provided her with the axes of "naturalness," "spatiality," and
 
 Growing up, she studied composition and sound theory at a music educational institution in the United States, and at the same time was active in a folk duo using guitar, voice, and piano.
 
-しかし、学生時代の枠を出た後、故郷に戻ることで思わぬ変化が訪れる――隣人から貸与された Buchla 100 との出会いだ。モジュラー・シンセを初めて手にしたとき、彼女はそれを「薄っぺらい道具」ではなく、「共演者」「生き物」「電気の身体」として捉えた。
+However, after leaving the confines of his student days and returning to his hometown, an unexpected change occurs: he encounters a Buchla 100 lent to him by a neighbor. When she first picked up a modular synth, she saw it not as a "flimsy tool" but as a "co-star," "a living thing," and "an electric body."
 
 Buchla's instability, manual patching, and unpredictable sound shifts - through such contingency and instability, she chooses to bring out "living sound," "vibration," "space," and "physicality" from the synth.
 
@@ -71,7 +71,7 @@ This transformation is the basis for all of his subsequent works.
 
 ## Early works and "Tides" — Prelude to modular
 
-Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he started recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
+Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he began recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
 
 This recording was later released as a work, titled Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
 
@@ -85,13 +85,13 @@ The real turning point was the album *EARS* released in 2016. In this work, whil
 
 The coldness of electronic sounds, the softness of organic instruments, the fluctuation of voices, and natural noises all intertwine to create a dreamy and lively sound that resembles a "futuristic jungle."
 
-With this work, she went from being a simple modular experimenter to a painter who uses modular objects to depict the organic world, and gained attention from many listeners and critics.
+With this work, she went from being a mere modular experimenter to a painter who uses modular objects to depict the organic world, and gained attention from many listeners and critics.
 
 ---
 
 ## "The Kid" — A journey through the life cycle of sound
 
-The album *The Kid*, released in 2017, is a work that builds on her previous sonic experiments and further emphasizes "storytelling/humanity."
+The album *The Kid* released in 2017 is a work that builds on her previous sonic experiments and further emphasizes "storytelling/humanity."
 
 The theme of this work is ""the life cycle from birth to death,'' and it combines a variety of sonic elements, including modular, orchestral, ethnic instruments, percussion, and voice, to create a dramatic and emotional composition.
 

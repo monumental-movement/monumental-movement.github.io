@@ -12,7 +12,7 @@ title: Grand Funk – The Best Of Grand Funk
 ---
 
 
-Grand Funk Railroad (GFR) is an American hard rock band. The core members are Mark Furner, Mel Thatcher, and Don Brewer.
+Grand Funk Railroad (GFR) is an American hard rock band. The core members are Mark Farner, Mel Thatcher, and Don Brewer.
 
 #### Tracklist
 ```md

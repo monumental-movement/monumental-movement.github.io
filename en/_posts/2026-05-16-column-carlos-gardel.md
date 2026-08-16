@@ -23,7 +23,7 @@ From the end of the 19th century to the beginning of the 20th century, Argentina
 
 Longshoremen, sailors, taverns, brothels, cafes, dance halls. The mixed emotions of people on the periphery of the city gave birth to new music. That was tango.
 
-In the beginning, tango was a music that was looked down upon by the upper classes. Crude, dangerous, downtown. However, its melancholy and sensuality strongly stimulated the emotions of people who were burdened by the loneliness of urbanization.
+Initially, tango was a music that was looked down upon by the upper classes. Crude, dangerous, downtown. However, its melancholy and sensuality strongly stimulated the emotions of people who were burdened by the loneliness of urbanization.
 
 Out of this chaotic urban space, a man later known as the "King of Tango" emerges.
 
@@ -71,7 +71,7 @@ Buenos Aires at the time was a mix of Creole music, milongas, habaneras, and Eur
 
 While absorbing this miscellaneous musical environment, Gardel eventually acquired a unique singing style.
 
-> Before Gardel became a ""tango singer,'' he was someone who breathed in the atmosphere of an immigrant city itself.
+> Before Gardel became a ""tango singer,'' he was someone who breathed the atmosphere of an immigrant city itself.
 
 ---
 
@@ -79,7 +79,7 @@ While absorbing this miscellaneous musical environment, Gardel eventually acquir
 
 In the late 1900s, Gardel began his career as a singer of regional and Creole music.
 
-His first big break came when he formed a duo with Jose Lazano.
+His first big break came when he formed a duo with Jose Lasano.
 
 ### Gardel-Lazano
 
@@ -128,7 +128,7 @@ Gardel was not just a singer, but a ""translator of urban emotions.''
 
 ## King of Tango: Absolutely popular in the 1920s
 
-By the 1920s, Carlos Gardel had become one of Argentina's biggest stars.
+In the 1920s, Carlos Gardel became one of Argentina's biggest stars.
 
 Records, radio, stage, touring. With the expansion of new media, his popularity spread throughout South America.
 
@@ -213,9 +213,9 @@ D --> E[international star]
 
 The transition from the silent film era to talkies was difficult for many actors.
 
-However, Gardel originally gained popularity for his "voice."
+However, Gardel was originally popular for his "voice."
 
-His singing voice and speaking style were directly linked to his movie star status.
+His singing voice and speaking style were directly connected to his movie star status.
 
 In particular, his soft pronunciation and friendly smile attracted many viewers.
 
@@ -247,7 +247,7 @@ He was 44 years old.
 
 This news sent shockwaves throughout Latin America.
 
-Newspapers ran daily special features, and memorial gatherings were held in various locations.
+Newspapers ran special features every day, and memorial gatherings were held in various locations.
 
 Gardel died at the height of his popularity, so his image was forever fixed as a "young star."
 

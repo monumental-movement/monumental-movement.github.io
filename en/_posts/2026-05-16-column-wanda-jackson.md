@@ -16,7 +16,7 @@ title: '[Column] Wanda Jackson: The Queen Who Turned Country Into Rock "n" Roll'
 
 ## America before rock and roll
 
-文：mmr｜テーマ：1950年代、男性中心だったロックンロールの世界で、ワンダ・ジャクソンは“女性でもロックできる”ことを証明した。カントリー、ロカビリー、ゴスペルを横断しながら、自分の声で時代を切り裂いた彼女の人生を追う
+Text: mmr | Theme: In the 1950s, in the male-dominated world of rock and roll, Wanda Jackson proved that women could rock. Follow her life as she cuts through the era with her voice, crossing country, rockabilly, and gospel.
 
 <style type="text/css">
 
@@ -89,7 +89,7 @@ At the time, Elvis was still on the verge of his breakout success, but he was be
 
 This encounter was decisive.
 
-ワンダはもともと強いリズム感を持っていた。さらに低めでパンチのある声質は、従来の女性歌手像から大きく外れていた。ロックンロールとの相性は抜群だったのである。
+Wanda has always had a strong sense of rhythm. Furthermore, her deep, punchy voice deviated greatly from the conventional image of female singers. It was a perfect match for rock"n"roll.
 
 However, at the time, there was great resistance to women singing rock music. Television and radio stations shunned her as "radical," and she was criticized by conservatives.
 
@@ -99,21 +99,21 @@ However, Wanda did not change her style.
 flowchart TD
 A["Activities as a country singer"] --> B["Meet Elvis"]
 B --> C["I"m encouraged to play rock"n'roll"]
-C --> D["ロカビリー路線へ"]
+C --> D["Going the rockabilly route"]
 D --> E["Establishing your own style"]
 </div>
 
-> エルヴィスとの出会いは、ワンダ・ジャクソンを“普通のカントリー歌手”から解放した。
+> Meeting Elvis liberated Wanda Jackson from being an "ordinary country singer."
 
 ---
 
 ## The impact of "Fujiyama Mama"
 
-1957年、ワンダ・ジャクソンは「Fujiyama Mama」を発表する。
+In 1957, Wanda Jackson released "Fujiyama Mama".
 
 This song is a rockabilly piece with a ferocious sense of speed and energy, and has become her signature song. Her explosive singing, roaring rhythm, and wild shouts completely destroyed the image of female singers at the time.
 
-特に日本ではこの曲が大ヒットしたことで知られる。
+This song is known for being a big hit, especially in Japan.
 
 The word "Fujiyama" in the title and the lyrics reminiscent of the atomic bomb would later provoke various debates, but in the United States in the 1950s, it was also used as a symbol of "energy" and "explosive power."
 
@@ -125,7 +125,7 @@ The audience was surprised to hear her song. It was extremely rare to find a fem
 graph TD
 A["Fujiyama Mama"] --> B["Intense rockabilly"]
 A --> C["Renovating the image of women"]
-A --> D["日本でも人気"]
+A --> D["Popular in Japan"]
 A --> E["Representative song"]
 </div>
 
@@ -135,7 +135,7 @@ A --> E["Representative song"]
 
 ## Birth of the Rockabilly Queen
 
-1950年代後半、ワンダ・ジャクソンは次々とロカビリー楽曲を発表していく。
+In the late 1950s, Wanda Jackson released a series of rockabilly songs.
 
 "Mean Mean Man"
 "Let's Have a Party"
@@ -145,7 +145,7 @@ In these songs, her characteristic "growling delivery" was on full display.
 
 Fashion was even more important.
 
-フリンジ付きドレス、ハイヒール、派手なメイク。ワンダはカントリー歌手としては異例の派手さを持ち込み、自ら衣装デザインにも関与していた。
+Fringed dresses, high heels, and flashy makeup. Wanda brought an unusual level of flamboyance for a country singer, and was even involved in the costume design herself.
 
 She didn't erase her "femininity."
 
@@ -178,7 +178,7 @@ mindmap
 
 In the 1950s and early 1960s, the music industry remained male-dominated.
 
-女性歌手は“可愛らしくあること”を期待され、激しい表現や性的エネルギーを前面に出すことは歓迎されなかった。
+Female singers were expected to be ""pretty,'' and violent expressions and sexual energy were not welcomed.
 
 But Wanda was different.
 
@@ -186,7 +186,7 @@ She provoked the audience on stage, sang wildly, and exposed her emotions. They 
 
 However, the trade-off was that the industry sometimes saw them as ""difficult to deal with.'' He also experienced restrictions on his television appearances and backlash from conservatives.
 
-それでも彼女はツアーを続けた。
+Still, she continued to tour.
 
 It gained support not only in the United States, but also in Europe and overseas.
 
@@ -223,19 +223,19 @@ C --> D["Rockabilly decline"]
 D --> E["Country Return"]
 </div>
 
-> Even though the times have changed, Wanda Jackson's "core strength" has remained the same.
+> Even though the times have changed, Wanda Jackson's ""core strength'' has remained the same.
 
 ---
 
-## ゴスペルとの出会い
+## Encounter with Gospel
 
 In the 1970s, Wanda Jackson deepened her religious values ​​and turned to gospel music.
 
-これは彼女の人生における大きな転機だった。
+This was a major turning point in her life.
 
-若い頃のロックンロール的生活から距離を置き、より信仰に根差した活動へ向かうようになる。彼女はゴスペル作品を発表し、宗教イベントなどにも出演するようになった。
+He distanced himself from the rock"n"roll life of his youth and began to pursue activities more rooted in his faith. She began releasing gospel music and appearing at religious events.
 
-However, even here she did not lose the power of her voice.
+However, even here, she did not lose the power of her voice.
 
 The emotional expressions cultivated during the rock era were also powerfully persuasive in gospel music.
 
@@ -257,7 +257,7 @@ From the 1980s onward, as rockabilly and roots music began to be reevaluated, Wa
 
 Punk and garage rock artists were strongly influenced by her rawness.
 
-「女性なのにロックしている」のではない。
+It"s not like she"s rocking it even though she's a woman.
 
 "He was a real rock singer from the beginning."
 
@@ -306,7 +306,7 @@ timeline
 
 Wanda Jackson's accomplishments go beyond just having a hit song.
 
-She broke down the stereotypes of how women should sing.
+She broke the stereotypes of how women should sing.
 
 It's okay to scream.
 It's okay to be intense.
@@ -316,7 +316,7 @@ He was one of the first to pave the way.
 
 Her spirit has been inherited by later Janis Joplin, Joan Jett, and even other female artists after punk.
 
-Above all, Wanda Jackson was "a woman who seriously rocked."
+And above all, Wanda Jackson was "a woman who seriously rocked."
 
 That is the reason why it still attracts so many people.
 
@@ -329,7 +329,7 @@ A --> E["Influence on posterity"]
 
 E --> F["Janis Joplin"]
 E --> G["Joan Jett"]
-E --> H["女性パンク世代"]
+E --> H["Female punk generation"]
 </div>
 
 > Wanda Jackson was the person who unleashed the "potential of female rock" into the future.
@@ -341,7 +341,7 @@ E --> H["女性パンク世代"]
 | Year | Events |
 |---|---|
 | 1937 | Born in Oklahoma |
-| 1954 | デッカ・レコードと契約 |
+| 1954 | Signed with Decca Records |
 | Mid-1950s | Interaction with Elvis Presley |
 | 1957 | "Fujiyama Mama" announced |
 | 1958 | "Let's Have a Party" hit |
@@ -356,7 +356,7 @@ E --> H["女性パンク世代"]
 
 The history of rock and roll has often been told in a male-centered manner.
 
-だが、その最初期にマイクを握り、叫び、観客を熱狂させていた女性がいた。
+However, at the very beginning, there was a woman who grabbed the microphone, screamed, and excited the audience.
 
 Wanda Jackson wasn't special because she was a woman.
 

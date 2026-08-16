@@ -19,7 +19,7 @@ Dan Curtin is an American producer and DJ. Focusing on techno/house, they incorp
 
 "New World EP" is a Techno/House/Tribal/Latin track released in 1998 by the label Sublime Records.
 
-D1は、オランダのレジェンドOrlando Voorn(オーランド・ヴォーン)によるremix。
+D1 is a remix by Dutch legend Orlando Voorn.
 
 D2 is a remix by British techno musician Dave Angel.
 

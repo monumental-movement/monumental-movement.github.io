@@ -77,7 +77,7 @@ Non-white residents faced discrimination in all areas, including education, empl
 
 ## 3. Alpha Blondy and Apartheid
 
-Since the early 1980s, Alpha Blondy's music has been a clear critique of apartheid.
+Alpha Blondy's music has been an explicit critique of apartheid since the early 1980s.
 
 ### 3.1 Main activities
 - Sending anti-discrimination messages through international tours
@@ -152,7 +152,7 @@ timeline
 ## 6. Alpha Blondy's musical characteristics and message
 
 1. **Social criticism through reggae**
-His songs directly criticize oppression and racism by those in power.
+Her songs directly criticize oppression and racism by those in power.
 2. **Multilingual expression**
 Delivering messages far and wide in French, English, Diura and Igbo languages.
 3. **Religious/Spiritual Motifs**

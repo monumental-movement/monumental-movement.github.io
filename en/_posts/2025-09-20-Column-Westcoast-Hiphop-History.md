@@ -50,7 +50,7 @@ color: #fff;
 | Album | Artist | Amazon link | Recommended points |
 |----------|-------------|-------------|----------------|
 | *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | An important work that laid the foundation for gangsta rap |
-| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | A controversial work that shook society. West Coast Icon |
+| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | A controversial work that shook society. Icon of the West Coast |
 | *On the Nile* (1984) | The Egyptian Lover | [Amazon](https://amzn.to/3VsfDCE) | An outstanding fusion of electro and rap |
 
 ---

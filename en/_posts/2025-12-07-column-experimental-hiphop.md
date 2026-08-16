@@ -49,7 +49,7 @@ The definitions here are based on those used in general criticism and music rese
 - Focused on producers such as Flying Lotus, Teebs, Daedelus, and Samiyam.
 
 ### ● Abstract Hip Hop
-- Hip-hop, which was established in the late 1990s and has an "abstract idiom".
+- Hip-hop, which was established in the late 1990s and has an "abstracted idiom".
 - Features abstract wordplay, Stream of Consciousness-like lyrics, and a beat that deviates from the traditional "boom bap" structure.
 - Represented by Company Flow, Anti-Pop Consortium, Cannibal Ox, Aesop Rock, etc.
 
@@ -74,7 +74,7 @@ The foundations of Experimental/Abstract Hip Hop were formed in the late 1990s.
 
 ---
 
-- An important role in the NY underground in the late 1990s.
+- An important role in the NY underground at the end of the 1990s.
 - Introducing noisy sounds, segmented rap and electronic music.
 - Expands the connection between electronic music and hip-hop by signing with Warp Records.
 
@@ -95,7 +95,7 @@ These created the musical ground that directly led to later Shabazz Palaces and 
 
 ### ● Low End Theory (2006–2018)
 - A famous event started at the club "The Airliner" in Lincoln Heights, Los Angeles.
-- Led by Daddy Kev, Gaslamp Killer, and others, it became the mother of the LA beat scene.
+- Led by Daddy Kev, Gaslamp Killer and others, it became the mother of the LA beat scene.
 - Flying Lotus' signature song "Massage Situation" (2007) symbolizes the expansion of the scene.
 
 ### ● Flying Lotus (late 2000s~)
@@ -125,7 +125,7 @@ These created the musical ground that directly led to later Shabazz Palaces and 
 Shabazz Palaces was started around 2009, led by Ishmael Butler (formerly of Digable Planets).
 
 ### Features
-- Construction combining West African percussion, psychedelia, ambient and experimental sound.
+- A combination of West African percussion, psychedelia, ambient and experimental sound.
 - Rap is often melodic and cryptographic, and does not rely on the traditional 16-bar structure.
 - "Black Up" (2011) is a masterpiece of abstract hip-hop in the 2010s.
 
@@ -180,7 +180,7 @@ This gave rise to a trend that focused on texture.
 ---
 
 - Built under the influence of noise music and connecting experimental electronic music techniques to rap.
-- Introduces noise, harshness, and glitches into the beat, and the delivery is mathematically precise.
+- He introduces noise, harshness, and glitches into his beats, and his delivery is mathematically precise.
 
 ---
 

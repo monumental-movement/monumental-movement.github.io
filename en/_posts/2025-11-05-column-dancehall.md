@@ -26,7 +26,7 @@ People without newspapers or television can share information and exchange messa
 **A sound system is an expression device that integrates music, politics, and community**.
 Eventually, the waves would cross the ocean and shake London, New York, and even Tokyo.
 
-In this column, we will introduce the sound system culture that was born on the streets of Jamaica.
+This column introduces the sound system culture that was born on the streets of Jamaica.
 How did dancehall evolve into a worldwide musical phenomenon?
 We will follow it from the perspectives of history, ideology, technology, and society.
 
@@ -109,7 +109,7 @@ It is a well-known story that Jamaican Kool Herc brought a sound system to New Y
 ### ▪ Clash = Battle of Sound
 
 Sound Clash is an event where multiple sound systems compete against each other.
-The difference between winning and losing is how many **original dub plates** (special recordings) you have and how much you can excite the audience.
+The difference between winning and losing is how many **Original Dub Plate** (special recordings) you have and how much you can excite the audience.
 
 Representative sounds:
 - **Stone Love Movement** (Kingston)
@@ -155,12 +155,12 @@ Main Japanese players:
 ### ▪ DIY spirit and modern inheritance
 
 In recent years, it has intersected with dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** and others are currently active.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** are currently active.
 At the root of this is the sound system philosophy of ""producing our own sounds with our own hands.''
 
 ---
 
-## Timeline: Evolution of Sound Systems and Dancehall
+## Timeline: The evolution of sound systems and dancehall
 
 | Years | Events | Key Persons |
 |------|----------|----------------|
@@ -169,7 +169,7 @@ At the root of this is the sound system philosophy of ""producing our own sounds
 | 1960s | Ska → Rocksteady → Reggae | The Skatalites |
 | 1970s | Birth of Dub, penetration of Rasta ideology | King Tubby, Lee Perry |
 | 1980s | Digital Revolution, "Sleng Teng" | Wayne Smith |
-| 1990s | Dancehall's golden age, Mighty Crown emerges | Shabba Ranks, Beenie Man |
+| 1990s | The golden age of dancehall, the arrival of the Mighty Crown | Shabba Ranks, Beenie Man |
 | 2000s | Global pop | Sean Paul, Elephant Man |
 | 2010s | Global Dancehall / Reggaeton era | Popcaan, Drake |
 | 2020s | Rise of local DIY sound | Mura Masa System and others |

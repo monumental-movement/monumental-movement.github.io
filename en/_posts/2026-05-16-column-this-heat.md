@@ -16,7 +16,7 @@ title: '[Column] This Heat: The deepest part of post-punk recorded in an era of 
 
 ## What was This Heat?
 
-Text: mmr｜Theme: Cold War anxiety, urban confinement, the DIY spirit, and an obsession with recording technology itself. This Heat transformed post-punk into not just an update of rock, but an act of questioning the sound itself.
+Text: mmr｜Theme: Cold War anxiety, urban confinement, the DIY spirit, and an obsession with recording technology itself. This Heat transformed post-punk into not just an update of rock, but an act of questioning sound itself.
 
 <style type="text/css">
 
@@ -113,7 +113,7 @@ There was no clear division of roles among the three. Rather, they continued to 
 
 Cold Storage is absolutely essential when talking about This Heat.
 
-Cold Storage was an independent studio in a converted former cold storage warehouse in south London. They used it as their base, recording, editing and experimenting.
+Cold Storage was an independent studio built in a converted former cold storage warehouse in south London. They used it as their home base, recording, editing, and experimenting.
 
 It was crucial to have a space of our own, away from the constraints of a commercial studio.
 
@@ -252,7 +252,7 @@ It lasted only a few years.
 
 However, the impact it left in such a short period of time was enormous.
 
-It is said that the reason for the group's disbandment was due to multiple factors, including differences in musical direction, mental fatigue, and financial problems.
+It is said that there were multiple reasons for the group's disbandment, including differences in musical direction, mental fatigue, and financial problems.
 
 Gareth Williams, in particular, gradually began to distance himself from band activities.
 
@@ -276,7 +276,7 @@ Because it was so short-lived, This Heat has become something of a myth.
 
 But it"s not the mystery that"s important. The fact is that the recordings that have actually survived are still extremely cutting-edge.
 
-> This Heat wasn't a band that disappeared in a short period of time, it was a band that reached the future in a short period of time.
+> This Heat wasn't a band that disappeared in a short period of time, but a band that reached the future in a short period of time.
 
 ---
 
@@ -290,7 +290,7 @@ Many later artists have cited This Heat as an influence, including Slint, Stereo
 
 The reason they were praised was not just because of their ""unusual music.''
 
-This Heat maintained the format of a rock band while destroying its internal structure.
+This Heat maintained the format of a rock band while destroying its inner structure.
 
 This was a very important point.
 
@@ -320,7 +320,7 @@ DAW editing is commonplace these days, but This Heat pushed it to the extreme du
 
 If you view This Heat as simply experimental music, you lose sight of its essence.
 
-What makes their music special is not its skill or avant-garde, but the fact that it translated the ""anxieties of the times'' into sound in a very specific way.
+What makes their music special is not its technical skill or avant-garde, but the fact that it translated the ""anxieties of the times'' into sound in a very specific way.
 
 The Cold War, the sense of urban decay, a surveillance society, information noise, and economic instability.
 
@@ -408,7 +408,7 @@ And while genre-crossing is commonplace these days, This Heat has been traversin
 
 They weren't aiming for genre fusion.
 
-As a result of simply continuing to choose the ""necessary sound,'' genre boundaries began to disappear.
+As a result of simply continuing to choose the ""necessary sound'', genre boundaries began to disappear.
 
 <div class="mermaid">
 flowchart TD

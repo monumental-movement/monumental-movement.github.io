@@ -22,7 +22,7 @@ title: '[Column] Beyond Drift: Eurobeat/EDM and the future form of "memory of sp
 Text: mmr｜Theme: Initial D, Eurobeat, and the fate of the "acceleration of sound" that follows."
 
 
-"Initial D" and Eurobeat. The era when these connections functioned as a cultural device can no longer be described solely through ""nostalgia.''
+"Initial D" and Eurobeat. The era when these connections functioned as a cultural device can no longer be talked about solely through ""nostalgia.''
 From the late 1990s to the early 2000s, the resonance of images of cars driving through mountain passes and high-tempo sounds created an unconscious, shared experience.
 Speed ​​= music, and music = acceleration of emotions.
 
@@ -63,7 +63,7 @@ It's not the inheritance of a genre, but the inheritance of a sense of accelerat
 - Excessive repetition of spatial reverb and claps
 
 These characteristics are exactly the echoes of Eurobeat.
-And now, its reverberations are once again beginning to pulsate in the internet space.
+And now, its reverberations are beginning to pulsate once again in the internet space.
 
 ---
 
@@ -71,23 +71,23 @@ And now, its reverberations are once again beginning to pulsate in the internet 
 
 In the 2020s, there are many young artists who consciously quote Eurobeat-like "sense of acceleration".
 For example, if you follow the ""Eurobeat Remake" and ""Nightcore Revival" tags on YouTube,
-You can see that countless tracks are being created at the intersection of EDM, anime culture, and game music.
+You can see countless tracks being created at the intersection of EDM, anime culture, and game music.
 
 EDM build-up, Hyperpop vocal chops, Trance melody lift.
 What runs through them is the idea of ​​""sound that designs upliftment''.
-And the origin of this idea is none other than the Eurobeat of the 1990s.
+And the origin of that philosophy is none other than the Eurobeat of the 90s.
 
 > "Speed ​​is the language of the times."
 > — anonymous Eurobeat producer, 1998 interview
 
-This word now takes on new meaning in the era of generative music.
+This word now takes on new meaning in the age of generative music.
 Speed ​​is not just a tempo, but exists as the speed at which emotions are calculated.
 
 ---
 
 ## 3. Automotive × Music Technology: Autonomous Driving, VR/AR, Soundscape
 
-If Eurobeat was born on the ""pass", the next step would be ""orbit".
+If Eurobeat was born on the "pass", the next step would be "orbital".
 It could be a satellite orbit or a VR driving space.
 New coordinates are now unfolding for music and speed to intersect again.
 
@@ -111,7 +111,7 @@ And the sounds made inside are not a reenactment of the past, but are reconstruc
 
 ---
 
-## 4. Fusion of sound and space: installation as running music, live experience
+## 4. Fusion of sound and space: Installation as running music, live experience
 
 An art movement that audibly reproduces the feeling of running has begun in various parts of the world.
 
@@ -121,7 +121,7 @@ The hi-hat is amplified when drifting, and the bass becomes distorted in corners
 
 - **Sound tunnel installation**
 A space where the pitch and tempo of the sound changes as the audience walks.
-Just like "walking drift," your movements generate sound.
+Your movements generate sound, just like "walking drift."
 
 - **Replay in club space**
 "Virtual Toge Night" is a Eurobeat x EDM set that projects images of Toge behind the DJ booth.
@@ -134,11 +134,11 @@ What these efforts demonstrate is the fact that Eurobeat is moving from ""listen
 ## 5. Media that shares "memory of speed": AI remix, generative music, participatory expression
 
 Now that AI music generation has become commonplace, Eurobeat has gone beyond a "reproducible genre".
-It is becoming a genre that is driven by users.
+It is becoming a "genre that users can run."
 
 ### ● AI Drift Remix
 
-When you input the driving log (speed, route, curve information) into the AI,
+When you input your driving log (speed, route, curve information) into AI,
 Automatically generates a Eurobeat-style track that corresponds to that driving style.
 The era in which ""your driving becomes the song'' is already beginning to become a reality on the test bench.
 
@@ -207,7 +207,7 @@ The headlights that once illuminated the mountain pass,
 We now run through countless virtual spaces through displays and speakers.
 
 > Eurobeat is not over.
-> It's just a matter of changing where you run.
+>It's just a matter of changing where you run.
 
 ---
 

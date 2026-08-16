@@ -22,7 +22,7 @@ Text: mmr｜Theme: The intersection of visual art and the far north of acoustic 
 
 Music is usually made up of melody, rhythm, and harmony. However, there is music that strips away all of that and is made up of almost a single frequency. Sachiko M is the embodiment of this extreme.
 
-Her works go beyond the framework of ""music'' and instead function as devices that transform the perception of space itself. By using the purest unit of sound, the sine wave, and presenting a sustained sound that hardly changes, the listener is guided into a state where the listener does not "hear" the sound, but "experiences it as an environment."
+Her works go beyond the framework of "music" and instead function as devices that transform the perception of space itself. By using the purest unit of sound, the sine wave, and presenting a sustained sound that hardly changes, the listener is guided into a state where the listener does not "hear" the sound, but "experiences it as an environment."
 
 This isn't just minimalism. Rather, it is an act that shakes the boundary between the presence and absence of sound, and is deeply connected to the exhibition space and the context of art.
 
@@ -106,7 +106,7 @@ Her style is associated with a trend called "reductionism." This is an approach 
 
 ### Redefining improvisation
 
-Normally improvisation means ""instantaneous creation," but in Sachiko M's case, it appears as ""the act of continuing to choose not to change anything."
+Normally, improvisation means ""instantaneous creation," but in Sachiko M's case, it appears as ""the act of continuing to choose not to change anything."
 
 > Improvisation is not about change, but also about choosing continuity.
 
@@ -223,7 +223,7 @@ flowchart TD
     F --> G[Changes in self-perception]
 </div>
 
-In this work, although the sound itself is extremely simple, the process of perception changes step by step. What is particularly important is the moment when we can no longer follow the sound, at which point our hearing expands to encompass the entire environment.
+In this work, although the sound itself is extremely simple, the process of perception changes step by step. What is especially important is the moment when we can no longer follow the sound, at which point our hearing expands to encompass the entire environment.
 
 > Simple sounds evoke complex perceptions
 

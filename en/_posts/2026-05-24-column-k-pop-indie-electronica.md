@@ -33,7 +33,7 @@ color: #fff;
 
 From the late 2010s to the 2020s, K-Pop has become more than just idol music.
 
-もちろん巨大資本による洗練されたエンターテインメントであることは変わらない。しかしその内部では、驚くほど自由な音楽的実験が進行している。
+Of course, it is still sophisticated entertainment produced by huge capital. But inside, surprisingly free musical experimentation is underway.
 
 Of particular importance is the connection with Indie Electronica.
 
@@ -74,7 +74,7 @@ K-Pop used to be "overwhelming music."
 
 Today's K-Pop is becoming ""music that permeates the air.''
 
-> K-PopとIndie Electronicaの融合は、派手さではなく“質感”の時代への移行を象徴している。
+> The fusion of K-Pop and Indie Electronica symbolizes a shift to an era of "texture" rather than flashiness.
 
 ---
 
@@ -104,7 +104,7 @@ for example,
 - small noise
 - Reverb lingering sound
 - Whispering vocals
-- 不完全なビート
+- incomplete beat
 - Lo-fi texture
 
 These aesthetics were the complete opposite of traditional K-Pop.
@@ -123,7 +123,7 @@ The worldwide popularity of Bedroom Pop is an extension of this trend.
 <div class="mermaid">
 flowchart TD
 A["CD era"] --> B["Loud volume and flashiness"]
-B --> C["クラブ志向"]
+B --> C["Club-oriented"]
 
 D["Streaming era"] --> E["Close distance feeling"]
 E --> F["Atmosphere"]
@@ -162,7 +162,7 @@ electronica,
 noise,
 ambient,
 art pop,
-実験音楽が非常に近い距離で混ざり合っていた。
+Experimental music was intermingled at a very close distance.
 
 Even more important is the existence of the SoundCloud generation.
 
@@ -170,7 +170,7 @@ As DAW environments became cheaper, home production rapidly became popular.
 
 As a result, young producers who were active outside of K-Pop began to flow into idol music.
 
-従来のK-Pop制作陣は、
+The traditional K-Pop production team is
 
 - large studio
 - Overseas composition team
@@ -185,26 +185,26 @@ graph TD
 A["Traditional K-Pop"] --> B["Division of labor"]
 B --> C["Large scale production"]
 
-D["New generation producer"] --> E["自宅制作"]
+D["New generation producer"] --> E["Home production"]
 E --> F["SoundCloud Culture"]
-F --> G["Lo-fi質感"]
+F --> G["Lo-fi texture"]
 </div>
 
 As a result, K-Pop has begun to rely not only on ""perfection" but also on ""a personal atmosphere."
 
 This is also in sync with changes in global pop music as a whole.
 
-> 韓国インディーシーンの蓄積が、現在のK-Popの繊細な電子感覚を支えている。
+> The accumulation of Korean indie scenes supports the delicate electronic sensibility of current K-Pop.
 
 ---
 
-## NewJeansが変えた“静かな革命”
+## "Quiet revolution" brought about by NewJeans
 
 When talking about K-Pop x Indie Electronica, the appearance of New Jeans is inevitable.
 
 They have greatly changed the structure of traditional K-Pop.
 
-それまでのK-Popは、
+Until then, K-Pop was
 
 - intense drop
 - Rapid development
@@ -327,7 +327,7 @@ has become an important attraction.
 
 ## Idol music becoming "Lo-fi"
 
-Lo-fi used to be a term that was born from the poor recording environment.
+Lo-fi used to be a term that was born from poor recording environments.
 
 But now Lo-fi exists as an aesthetic.
 

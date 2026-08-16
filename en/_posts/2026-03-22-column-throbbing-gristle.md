@@ -58,7 +58,7 @@ Their works were often offensive and socially unacceptable. However, this was no
 
 ""Prostitution,'' held at the Institute of Contemporary Arts in London in 1976, is a symbolic event. The exhibition caused such an uproar that it was debated in the British Parliament, and they were denounced as "destroyers of civilization."
 
-However, the important point is that they were already challenging the ""limits of expression'' here. Music is just a medium chosen after the fact.
+However, what is important is that they were already challenging the ""limits of expression'' here. Music is just a medium chosen after the fact.
 
 COUM used their bodies, not their sounds, to clash with society. Throbbing Gristle was the one who translated that into sound.
 
@@ -71,7 +71,7 @@ COUM used their bodies, not their sounds, to clash with society. Throbbing Grist
 
 In 1975, Throbbing Gristle was formed. Members are Genesis P-Orridge, Cosey Fanni Tutti, Chris Carter, and Peter Christopherson.
 
-The composition of these four people is extremely important. This is because they were not just musicians, but a collective of individuals who brought together different fields.
+The composition of these four people is extremely important. This is because they were not just musicians, but a collective that brought together different fields.
 
 Carter was responsible for electronics design and sound processing, Christopherson was responsible for visuals and design, and P-Orridge and Tutti were responsible for concept and performance.
 
@@ -107,7 +107,7 @@ In addition, the influence spread to other artists through this label. From this
 
 Throbbing Gristle's sound cannot be captured by conventional music theory.
 
-They did not focus on playing instruments. Instead, he used synthesizers, homemade circuits, tape manipulation, feedback, and radio noise.
+They did not focus on playing musical instruments. Instead, he used synthesizers, homemade circuits, tape manipulation, feedback, and radio noise.
 
 What is important is that these are not just effects, but are treated as ""sounds themselves''.
 
@@ -128,7 +128,7 @@ Seeing Throbbing Gristle live was a radically different experience than a tradit
 
 Sounds are loud and repetitive, images are disturbing, and words are spoken provocatively. The audience is not allowed to "enjoy" but rather is forced to endure.
 
-これは偶然ではない。彼らは意図的に、観客の感覚と心理の限界を試していた。
+This is no coincidence. They were intentionally testing the limits of the audience's senses and psychology.
 
 In addition, each live performance had a different structure, was highly improvisational, and had low reproducibility. In other words, he refused to be fixed as a work of art.
 

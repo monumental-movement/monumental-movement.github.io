@@ -19,7 +19,7 @@ She began singing in church at an early age and developed a passion for music. A
 
 While attending university, he began performing at local clubs and events, gradually gaining recognition, and in the early 2000s, signed with a major label and released his debut album.
 
-Since then, he has released several albums and established a strong position in the R&B scene, and continues to actively collaborate with other artists and create songs in addition to his solo career.
+その後、数枚のアルバムをリリースし、R&B シーンで確固たる地位を築き、いまもなおソロ活動に加え、他のアーティストとのコラボレーションや楽曲制作にも積極的に取り組んでいる。
 
 #### Tracklist
 ```md

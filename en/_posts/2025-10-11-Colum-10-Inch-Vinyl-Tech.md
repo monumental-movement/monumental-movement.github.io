@@ -53,10 +53,10 @@ One of the factors that determines the sound quality of a record is the rotation
 There is a lot of force in the sound at the outer periphery, and the reproduction of high frequencies is excellent. However, distortion increases at the inner circumference.
 
 - **12 inch LP: 33⅓RPM**
-It is suitable for long-term playback and ensures stable sound quality, but the high range is somewhat subdued.
+It is suitable for long-term playback and ensures stable sound quality, but the high frequencies are somewhat subdued.
 
 - **10 inch LP: 33⅓RPM or 45RPM**
-At 33⅓, the limit is about 12 minutes per side, and at 45 RPM, the limit is about 8 to 9 minutes.
+The limit is about 12 minutes per side at 33⅓, and about 8 to 9 minutes at 45 RPM.
 In other words, the strength of the 10-inch is that it is possible to design a system that prioritizes sound quality over time.
 
 The average linear velocity is approximately 15% higher than that of 12 inches, and there is less distortion on the inner periphery.
@@ -110,10 +110,10 @@ This process is especially important for 10-inch models because the stability of
 
 ### Press material and weight: 180g Behind the myth
 
-For 10-inch discs, the thickness is typically around 1.8 to 2.0 mm and the weight is approximately 120 to 150 g.
+For 10-inch discs, the thickness is generally around 1.8 to 2.0 mm, and the weight is approximately 120 to 150 g.
 Influenced by the boom in 12-inch 180g heavy-duty discs, we tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
 
-The small size of the 10-inch board naturally increases the rigidity of the entire board, making it less likely to warp and generate less resonance.
+The small size of the 10-inch board naturally increases the rigidity of the entire board, making it less likely to warp and cause less resonance.
 In other words, even if it is thin, the sound is tight. For this reason, there is almost no disadvantage in terms of sound quality even with a lightweight 10-inch disc.
 
 ---
@@ -128,7 +128,7 @@ From an acoustic measurement perspective, the playback frequency characteristics
 | 1kHz to 4kHz | ±0dB | Flat, clear |
 | 8kHz or higher | −1 to 2 dB | High frequency attenuation is rather fast (physical constraints) |
 
-This characteristic results in a sound image with a "close feeling" centered around the midrange.
+This characteristic results in a sound image with a "close feeling" centered on the midrange.
 The reason why 10-inch discs are said to have a ""live sound'' is because of the high density of the midrange.
 
 ---
@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|Follow| G
+    S -->|follow| G
     G --> L
     G --> V
     G --> D
@@ -218,7 +218,7 @@ flowchart TB
 flowchart TD
     O["Outer rim: High linear velocity → Good high frequency reproduction"]
     M["Middle range: Linear speed decrease → High range attenuation begins"]
-    I["Inner rim: Low linear velocity → Inner rim distortion increase and high frequency attenuation"]
+    I["Inner rim: Low linear velocity → Inner rim distortion increase/high frequency attenuation"]
 
     O --> M --> I
 

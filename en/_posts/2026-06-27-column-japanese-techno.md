@@ -79,7 +79,7 @@ The symbol of this was Yellow Magic Orchestra (YMO), which was formed in 1978.
 
 ---
 
-## The world opened by YMO
+## The world opened up by YMO
 
 ### New music called techno pop
 
@@ -227,7 +227,7 @@ Their commitment to sound equipment has been highly praised by overseas DJs, and
 
 Additionally, each region had its own distinctive scene, with Osaka supporting harder techno and Kyoto supporting experimental electronic music.
 
-### Maturity of DJ culture
+### Maturation of DJ culture
 
 Around this time, DJs began to be recognized as not just people who played music, but artists who edited music and created a space.
 
@@ -301,7 +301,7 @@ This environment will revitalize Japan's electronic music scene as a whole and f
 
 ### Towards an era of connecting with the world in real time
 
-In the 2000s, the Japanese techno scene entered a new phase.
+In the 2000s, Japan's techno scene entered a new phase.
 
 Until the 1990s, the latest information from overseas was often transmitted at different times through imported records and music magazines. However, with the spread of the Internet, it has become possible to instantly access music information from all over the world, and Japanese artists are rapidly becoming closer to the overseas scene.
 
@@ -421,7 +421,7 @@ In the late 2000s, the boundaries between techno, ambient, click, glitch, IDM, a
 
 In addition to 4/4 music for clubs, the number of works designed for listening has also increased.
 
-Japanese creators are not bound by genre and are working in a wide range of fields, including video works, contemporary art, game music, and advertising music.
+Japanese creators are not bound by genre and are now working in a wide range of fields, including video works, contemporary art, game music, and advertising music.
 
 Electronic music is no longer limited to club culture, but has spread to music that can be heard in various situations in daily life.
 
@@ -498,7 +498,7 @@ This trend has also stimulated exchanges with improvisational performance, ambie
 
 The precision of sound design is often cited as a reason why Japanese techno is highly praised overseas.
 
-Japanese production sites have a culture of paying close attention to detail, such as detailed noise processing, use of spatial effects, low frequency control, and precise localization design.
+Japanese production sites have a culture of careful attention to detail, such as detailed noise processing, use of spatial effects, low frequency control, and precise localization design.
 
 This is deeply connected to recording technology and audio culture that have been built over many years.
 
@@ -542,7 +542,7 @@ Online distribution has become established as a complement to real events, and c
 
 ### Manufacturer that continues to create global standards
 
-When talking about Japanese techno, the existence of electronic musical instrument manufacturers is essential.
+When talking about Japanese techno, the presence of electronic musical instrument manufacturers is essential.
 
 Equipment developed by Japanese companies, such as synthesizers, drum machines, sequencers, and samplers, has supported music production around the world for many years.
 
@@ -622,7 +622,7 @@ H --> I
 | 1950s | Electronic music production begins at broadcasting stations and research institutes | The dawn of electronic music in Japan |
 | 1960s | Tape music and experimental music develop | Form the basis of modern electronic music |
 | Early 1970s | Domestic synthesizer development progresses | Electronic musical instrument industry begins to develop |
-| 1978 | YMO formed | Providing techno pop to the world |
+| 1978 | Formation of YMO | Spreading techno pop to the world |
 | 1979 | "Solid State Survivor" released | Expansion of techno boom |
 | 1980s | Japanese-made electronic musical instruments spread around the world | Great impact on the world's music production environment |
 | Late 1980s | Full-fledged influx of foreign club music | The foundation of club culture is formed |
@@ -632,7 +632,7 @@ H --> I
 | Late 2000s | Minimal techno and electronica spread | Diversification of musical expression |
 | 2010s | Distribution services and SNS become popular | It will be an era to directly deliver works to the world |
 | Late 2010s | Modular synthesizer popularity expands | Hardware culture is reevaluated |
-| 2020s | Live streaming and real events coexist | A new form of techno culture takes root |
+| 2020s | Live streaming and real events coexist | A new form of techno culture takes hold |
 
 ---
 
@@ -719,7 +719,7 @@ This is deeply connected not only to the technological capabilities of electroni
 
 When new equipment appears in Japan, there is a tendency to view it not as just a convenient tool, but as a new way of expression.
 
-Synthesizers, samplers, drum machines, computers and modular systems.
+Synthesizers, samplers, drum machines, computers, modular systems.
 
 All of these have been combined with performance techniques to create new musical expressions.
 

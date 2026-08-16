@@ -21,7 +21,7 @@ Text: mmr｜Theme: From Leeds punk to the American wilderness. The Mekons' 45-ye
 > **"It started with laughter, not rebellion."**
 
 1977, University of Leeds, Northern England.
-The Mekons were started by students in a corner of a lecture hall, jokingly thinking, ""Maybe we could form a band ourselves.'' Jon Langford, Tom Greenhalgh, Kevin Lycett, and others would become symbols of the post-punk culture. They had no musical skills and even borrowed instruments.
+The Mekons were started by students in a corner of a lecture room, jokingly thinking, ""Maybe we could form a band ourselves.'' Jon Langford, Tom Greenhalgh, Kevin Lycett, and others would become symbols of the post-punk culture. They had no musical skills and even borrowed instruments.
 At that time, punk was a revolution that anyone could start. The name Mekons is said to come from the "rebel" character in Byron's play The Curse of Minerva.
 
 The single ""Where Were You / I'll Have To Dance Then (On My Own)'', released in 1978, symbolizes their early punk spirit.
@@ -69,7 +69,7 @@ In the early 1980s, as punk became more popular, Mekons gradually changed their 
 They leave London and transform into a social critique group that intersects politics and culture. In the context of the Theater of Hate and Red Wedge movements, Mekons chose "community over music."
 The members are not fixed, and friends from university days come and go, sometimes recording with as many as 10 people. Its nature as an art collective is becoming stronger.
 
-Their masterpiece in 1989 ["The Mekons Rock "n" Roll"](https://amzn.to/4nIWLMc) was the summation of that.
+Their 1989 masterpiece ["The Mekons Rock "n" Roll"](https://amzn.to/4nIWLMc) was the summation of that.
 A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed bass frequencies. These were gimmicks intended to intentionally distort the "formal beauty of rock."
 With this album, they presented the paradox of ""Isn't rock the system itself?''
 

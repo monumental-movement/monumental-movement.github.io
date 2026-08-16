@@ -126,7 +126,7 @@ graph LR
 
 ## Meditation with musicians: Expanding possibilities
 
-Regarding practitioners of Vipassana meditation**
+Regarding Vipassana meditation practitioners**
 Although there are not many musicians who have confirmed evidence that has been published worldwide,
 **At least there are examples like Rivers Cuomo where daily practices are revealed. **
 

@@ -20,7 +20,7 @@ title: '[Column] Ben Frost and acoustic architecture: Between noise and structur
 Text: mmr | Theme: Redefining the sublime in the digital age by Ben Frost
 
 
-When many listeners hear Ben Frost's music for the first time, the first thing they notice is not volume, but density.
+Ben Frostの音楽を初めて聴いたとき、多くのリスナーがまず感じるのは「音量」ではなく「密度」だ。  
 It's not just a loud noise. Sound expands the space itself, compresses it, and exists as if to take away its breath.
 
 For Frost, who is originally from Australia and lives in Iceland, **sound is a physical phenomenon and a form of violence**.
@@ -47,14 +47,14 @@ color: #fff;
 ## The silence of Iceland and the roughness of Australia
 
 His work has a coexistence of Icelandic tranquility and Australian wilderness.
-In a quiet landscape on the outskirts of Reykjavik, he creates excessive distortion and deep bass.
+レイキャヴィーク郊外の静かな風景の中で、彼は過剰なまでの歪みと重低音を作り出す。  
 
 In collaboration with Bedroom Community's Valgeir Sigurðsson and Nico Muhly,
 It created a tense tension between classical structure and electronic destruction.
 
 2009's ""**By the Throat**'' is a truly symbolic work.
 Here, sounds growl, breathe, and attack like beasts.
-Field recordings of wolf howls, breathing sounds, and low-frequency growls.
+フィールドレコーディングされた狼の遠吠え、呼吸音、低周波の唸り。  
 These are not environmental sounds, but are organized as "attacking sounds."
 
 ---
@@ -62,7 +62,7 @@ These are not environmental sounds, but are organized as "attacking sounds."
 ## Sound as a weapon, sound as a ritual
 
 When discussing Frost's acoustic philosophy, one cannot ignore the perspective of ""weaponizing sound.''
-He uses sub-bass and distortion to precisely design sonic violence.
+彼はサブベースと歪みを使って**音の暴力性を精密にデザイン**する。  
 
 Through collaboration with Hildur Guðnadóttir, Tim Hecker and others,
 I explored how sound crosses the boundary between "pain" and "pleasure."
@@ -85,7 +85,7 @@ A ton of modular synths, modified mics, and over-the-top compressors.
 Instead of "recording" the sound, you **grasp it as if you were punching it**.
 
 He doesn't reject chance, but at the same time says, "Every frequency has a reason for its existence."
-Noise and distortion are not useless.
+ノイズも、歪みも、無駄ではない。  
 
 Field-recorded wind sounds and vibrations,
 When it begins to take on an architectural structure through electronic processing,
@@ -114,7 +114,7 @@ It evokes the "memory of silence" that humans have lost in civilization.
 
 ## Explosion of light: A U R O R A and the criticality of sound
 
-Released in 2014, **A U R O R A** was a watershed moment in Ben Frost's career.
+2014年に発表された『**A U R O R A**』は、Ben Frostのキャリアにおける分水嶺である。  
 With this work, he abandoned his previous "acoustic + electronic sound" approach,
 **I built a world almost entirely with electronic sound particles**.
 
@@ -125,7 +125,7 @@ The reverberation of the sound is removed to visualize the "oxygen-free acoustic
 
 "A U R O R A" is based on my experience in Congo, Africa.
 It was inspired by extreme physical conditions such as sunlight, heat, and the instability of electricity.
-It is the violence of light, the construction of sound by photons.
+It is violence by light, **construction of sound by photons**.
 
 After this album, his sound became more and more architectural and inorganic.
 At the same time, it began to pulse like a living organism.
@@ -136,13 +136,13 @@ A U R O R A can be said to be a work that truly captures the moment when sound b
 
 ---
 
-## Bodies, Machines, and Sacredness
+## 身体、機械、そして聖性
 
-For live performances, Frost keeps lighting to a minimum;
+ライブパフォーマンスのFrostは、照明を最小限にし、  
 Transform the stage into a ritual space of light and noise.
 
 Extreme sound pressure, low frequency undulations, white light.
-They numb the audience's senses and turn them into a **sacred experience**.
+それらは観客の感覚を麻痺させ、**聖的体験**へと転化する。  
 
 The structure resembles a Laibach, a Swans, or even a religious ceremony.
 "The calm that lies beyond excess"——
@@ -152,17 +152,17 @@ Frost finds a kind of **relief** in that.
 
 ---
 
-## The collapse of time and the digital abyss
+## 時間の崩壊とデジタルの深淵
 
 In recent years, Frost has been using AI composition and real-time processing to
 He is interested in the "uncontrollable autonomy of sound."
 
-The sound leaves his hands and changes in a self-generated manner.
+音は彼の手を離れ、自己生成的に変化していく。  
 Tarkovsky and William Gibson-like vision of the future.
 There is a poetics of decayed technology and reverberation.
 
 Frost's sound attempts to redefine the sublime in the digital age.
-It's like an architect trying to maintain a structure without fear of collapse.
+それは、崩壊を恐れずに構造を保とうとする建築家のようだ。
 
 ---
 
@@ -172,7 +172,7 @@ Ultimately, Ben Frost isn't looking at the boundary between nature and man-made.
 Rather, it is a ""new ecosystem'' that will be born in the interim.
 
 Electronic sounds do not imitate nature, but become the language of nature itself.
-Noise is not destruction, but the voice of the environment.
+ノイズは破壊ではなく、環境の声である。  
 
 He says:
 > "The act of listening is a sense of survival."
@@ -209,7 +209,7 @@ What is sound?
 What is noise?
 And is silence really the opposite?
 
-In the end, what Frost shows is not the "silence" at the end of the sound, but
+In the end, what Frost shows is not the "silence" at the end of the sound;
 **A new sound lurking in the silence**.
 
 > "The limit of sound is not noise. It is silence."

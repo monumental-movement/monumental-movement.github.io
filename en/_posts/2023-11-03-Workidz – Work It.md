@@ -18,7 +18,7 @@ David Nagy, also known as Workidz, is a truck manufacturer based in Budapest, Hu
 
 The first track on side B is a remix by St. Louis-based DJ Kobbe.
 
-The second song on side B is a remix by Miami-based DJ/producer Martin Accorsi.
+The second song on the B-side is a remix by Miami-based DJ/producer Martin Accorsi.
 
 #### Tracklist
 ```md

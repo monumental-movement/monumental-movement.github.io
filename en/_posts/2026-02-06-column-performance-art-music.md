@@ -71,7 +71,7 @@ This attitude later became the prototype for open structures in improvised music
 
 ## Chapter 3: John Cage and the Turning Point of Silence
 
-John Cage fundamentally challenged the premise that the composer is the main person who composes music. In ""4 minutes 33 seconds'', the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
+John Cage fundamentally challenged the premise that the composer is the main person who composes music. In "4 minutes 33 seconds", the performer is present on the stage, but does not make any intentional act of pronunciation. As a result, the audience is forced to pay attention to environmental sounds that they had previously ignored.
 
 This structure shifted the center of gravity from the act of ""creating" music to the act of ""listening." A work is created not by its sonic content, but by its time frame and how it directs attention.
 
@@ -83,7 +83,7 @@ This idea is directly connected to the later idea of ​​framing in performanc
 
 ## Chapter 4: Fluxus and the musicalization of everyday actions
 
-The biggest turning point that Fluxus presented was the dismantling of the special skill of ""playing music.'' The event score was written as a set of instructions that can be performed by anyone without the need for specialized training. There, the importance is placed on the very fact that the act is performed, rather than accuracy or completeness.
+The biggest turning point that Fluxus presented was the dismantling of the special skill of ""playing music.'' The Event Score was written as a set of instructions that can be performed by anyone without the need for specialized training. The fact that an action is performed is considered more important than accuracy or completeness.
 
 For example, actions such as standing for a certain period of time, moving an object, or opening and closing a lid completely deviate from conventional musical value judgments. However, the subtle sounds, silence, and visual tension created by this act strongly captured the audience's attention.
 
@@ -143,13 +143,13 @@ On the dance floor, individual bodies synchronize to the rhythm and form a colle
 
 In the 21st century, the functional differences between museums and music festivals have rapidly narrowed. Sound works performed in exhibition spaces are presented as timed performances, and visuals and spatial design are prerequisites for music events.
 
-The audience not only ""appreciates'' the work, but also completes the experience by staying in the place and placing their bodies there. The genre classification is merely a matter of operational convenience; the experience design is the core of the work.
+The audience not only ""appreciates'' the work, but also completes the experience by staying in the place and placing their bodies there. Genre classification is merely a matter of operational convenience; experience design is the core of the work.
 
 > The boundaries have not disappeared, but the focus of the question has shifted.
 
 ---
 
-## Chronology: A two-layer timeline of performance art and music
+## Chronology: A two-tiered timeline of performance art and music
 
 <div class="mermaid">
 timeline

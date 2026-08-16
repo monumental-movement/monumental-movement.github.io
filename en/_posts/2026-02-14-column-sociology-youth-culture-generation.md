@@ -22,11 +22,11 @@ Text: mmr｜Theme: Examining the long-term effects of music listened to during a
 
 When many people think back to a certain time in their lives, they conjure up memories that are strongly associated with specific music. It"s not just nostalgia. Psychology and neuroscience have repeatedly shown that experiences from one"s late teens to early 20s tend to become the basis of one's self-concept and value judgments.
 
-During this period, the amygdala, which is responsible for emotional processing, and the dopamine circuit, which is responsible for the reward system, are particularly active, making children highly sensitive to new stimuli. Because music simultaneously stimulates emotions, social belonging, and physical sensations, it is more deeply imprinted in our memories than other cultural elements.
+During this period, the amygdala, which is responsible for emotional processing, and the dopamine circuit, which is responsible for the reward system, are particularly active, making children highly sensitive to new stimuli. Music is more deeply imprinted in our memories than other cultural elements because it simultaneously stimulates emotions, social belonging, and physical sensations.
 
 This paper examines the extent to which the genres of music listened to in youth influence later life and social behavior, based on long-term follow-up surveys, social statistics, and generational comparative studies in various countries.
 
-> Musical experiences from early childhood remain in one's life, not as memories, but as criteria for judgment.
+> Musical experiences from our youth remain in our lives not as memories but as criteria for judgment.
 
 ---
 
@@ -114,7 +114,7 @@ The generation that is familiar with electronic music tends to have a sense of t
 
 ### Age range of greatest impact
 
-The influence of electronic music is most evident between the ages of 18 and 28. Physical sensations and social networks are formed at the same time at the age when children become able to autonomously choose nighttime culture and club spaces.
+The influence of electronic music is most apparent between the ages of 18 and 28. Physical sensations and social networks are formed at the same time at the age when children become able to autonomously choose nighttime culture and club spaces.
 
 > Electronic music fosters the ability to adapt to a networked society.
 
@@ -122,7 +122,7 @@ The influence of electronic music is most evident between the ages of 18 and 28.
 
 ## Chapter 7: Genre analysis ④ Pop
 
-Pop music is the most widely shared culture and functions as a synonym and a common language. People who had a pop-centered music experience in their youth tended to be more cooperative.
+Pop music is the most widely shared culture and functions as a synonym and a common language. People who had a pop-centered music experience when they were young tend to be more cooperative.
 
 ### Age range of greatest impact
 
@@ -152,7 +152,7 @@ In Europe, the relationship between musical tastes and social behavior has been 
 
 ## Chapter 10: Country comparison: Japan (before 1990s)
 
-In Japan before the 1990s, it was difficult for musical tastes to be directly reflected in social behavior. This is because lifetime employment and a uniform education system absorbed individual differences.
+In Japan before the 1990s, musical tastes were difficult to directly reflect in social behavior. This is because lifetime employment and a uniform education system absorbed individual differences.
 
 Still, it has been confirmed that the generation that is familiar with rock and folk music tends to retain an internal critical nature.
 
@@ -217,9 +217,9 @@ Although it manifests itself differently depending on the country and system, th
 
 ---
 
-## References/references (research/statistical materials)
+## References/References (research/statistical materials)
 
-This column is constructed based on the following empirical research, long-term surveys, and social statistics. Specific claims are organized based on the overlapping results of multiple studies rather than on a single study.
+This column is constructed based on the following empirical research, long-term surveys, and social statistics. Specific claims are organized based on the overlapping results of multiple studies, rather than on the basis of a single study.
 
 ### Music taste and personality/psychology
 

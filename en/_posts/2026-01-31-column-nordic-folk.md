@@ -10,23 +10,24 @@ tags:
 - Mythology
 - Folklore
 - Dark Folk
-title: 【コラム】 北欧フォークに宿る暗黒神話性──歌と神話が共有する北方の記憶
+title: '[Column] The dark mythical nature of Nordic folk: Northern memories shared
+  by songs and myths'
 ---
 
 
 
-## Outline of Nordic folk music culture
+## Outline of the musical culture of Nordic folk
 
 Text: mmr｜Theme: A long study that deciphers the dark side of the myths and folk beliefs engraved in Scandinavian folk music from history and folklore.
 
 
-北欧フォークと呼ばれる音楽文化は、ノルウェー、スウェーデン、フィンランド、デンマーク、アイスランドといった地域に伝わる民謡、舞曲、吟唱の総体を指す。これらは近代的なジャンル名が与えられる以前から、生活・信仰・労働・死と密接に結びついた音楽として存在してきた。
+The musical culture called Nordic folk refers to the collective of folk songs, dances, and chants that have been handed down in regions such as Norway, Sweden, Finland, Denmark, and Iceland. Even before these genres were given modern names, they have existed as music closely connected to life, faith, work, and death.
 
 The melodies are often based on a minor key, are repetitive, and have a musical time that contains tension and silence rather than ""brightness'' in the modern sense. The lyrics often deal with themes such as the dead, ghosts, spirits, curses, and betrayal, as well as stories of heroism and love.
 
-This characteristic is not a coincidence, but is deeply related to the very structure of the mythological system and folk beliefs in the Nordic world.
+This characteristic is not a coincidence, but is deeply connected to the very structure of the mythological system and folk beliefs in the Nordic world.
 
-> 北欧フォークは娯楽音楽ではなく、神話的世界観を音として保存する装置だった。
+> Nordic folk was not entertainment music, but a device for preserving a mythical worldview as sound.
 
 ---
 
@@ -60,7 +61,7 @@ What is important about this mythological system is that there is no assumption 
 ## Folk beliefs and dark beings
 
 
-In Northern Europe, folk beliefs survived for a long time even after Christianity. It was believed that spirits resided in forests, lakes, mountains, and swamps, and these spirits were both blessings and harm to humans.
+In the Nordic region, folk beliefs survived for a long time even after Christianity. It was believed that spirits resided in forests, lakes, mountains, and swamps, and these spirits were both blessings and harm to humans.
 
 Female forest spirits such as Sweden"s Skogsloh, Norway"s Huldra, and Finland's Metsan Vaki are said to be beautiful and inviting, but are said to be destructive to those who get too close.
 
@@ -99,7 +100,7 @@ The very structure of the instrument forms a sonic world that avoids clear resol
 ## Christianization and transformation of dark mythology
 
 
-Even after the Nordic world became Christian, old myths and animism did not completely disappear. These are reinterpreted as heresies, superstitions, and folk tales, and they slip into folk songs.
+Even after the Nordic world became Christian, old myths and animist beliefs did not completely disappear. These are reinterpreted as heresies, superstitions, and folk tales, and slip into folk songs.
 
 Christian concepts such as the devil, hell, and sin were combined with existing dark entities to form new narratives. As a result, Nordic folk takes on a double darkness.
 
@@ -112,7 +113,7 @@ On the other hand, mythical beings are rarely determined to be completely evil, 
 ## Rediscovery and reinterpretation after modern times
 
 
-From the 19th century onwards, with the rise of nationalism, Nordic folk was reevaluated as a ""cultural heritage''. As the collection and notation progressed, the dark content was categorized as symbolic and literary.
+After the 19th century, with the rise of nationalism, Nordic folk was reevaluated as a ""cultural heritage.'' As the collection and notation progressed, the dark content was categorized as symbolic and literary.
 
 In the second half of the 20th century, reinterpretation progressed in the context of dark folk, neofolk, and ambient, and mythicity and the idea of ​​life and death came to the fore once again.
 
@@ -126,7 +127,7 @@ However, many modern reinterpretations do not reproduce past values, but instead
 
 <div class="mermaid">
 graph TD
-A["Norse mythology"] --> B["民間信仰"]
+A["Norse mythology"] --> B["Folk beliefs"]
 B --> C["Ballad"]
 C --> D["Instruments and acoustics"]
 D --> E["Modern reinterpretation"]
@@ -134,11 +135,11 @@ A --> C
 B --> D
 </div>
 
-> 北欧フォークの暗さは単一要素ではなく、複層的な構造の結果である。
+> The darkness of Nordic folk is not a single element, but the result of a multilayered structure.
 
 ---
 
-## 年表：神話と音楽の交差点
+## Chronology: The intersection of mythology and music
 
 <div class="mermaid">
 timeline
@@ -157,7 +158,7 @@ timeline
 
 The dark mythical nature of Nordic folk is not just an ornament to emphasize fear or tragedy. It is a worldview that allows us to face nature and death, time and fate, and a system of knowledge that has been shared through music.
 
-この音楽が現代においても聴き継がれる理由は、その暗さが過去のものではなく、現在の不確実性とも共鳴するからだろう。
+The reason this music continues to be heard today is because its darkness resonates not with the past, but with the uncertainty of the present.
 
 > Nordic folk is music for living together with darkness without denying it.
 

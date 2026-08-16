@@ -139,13 +139,13 @@ Military band recordings were reissued, and this triggered a worldwide re-evalua
 
 ---
 
-# # 7. 2000s: Re-breakout with the movie "Broken Flowers"
+# # 7. 2000s: Breakthrough with the movie "Broken Flowers"
 
-In 2005, as the music for the film ""Broken Flowers'' directed by Jim Jarmusch.
+In 2005, as the music for the film **Broken Flowers** directed by Jim Jarmusch.
 Many of Mulatu's songs were used, and it attracted a lot of attention.
 
 After this event, collaborations with European and North American artists increased.
-Ethio-Jazz once again becomes recognized as an international musical genre.
+Ethio-Jazz once again becomes recognized as an international music genre.
 
 ---
 

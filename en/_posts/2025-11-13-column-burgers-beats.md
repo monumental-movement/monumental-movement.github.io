@@ -46,11 +46,11 @@ color: #fff;
 ### 1-1 Singing "hamburger = happiness": McDonald"s early commercial
 "You Deserve a Break Today" was produced in 1971 by the American advertising agency **DDB (Doyle Dane Bernbach)**.
 Composed by Sid Woloshin, lyrics by Dan Kallis.
-It had the uplifting feeling of a musical, and symbolized McDonald's as a "healing" in a consumer society.
+It had an uplifting feel similar to a musical, and symbolized McDonald's as a "healing" in a consumer society.
 
 > ♪ "You deserve a break today, so get up and get away—to McDonald"s!"
 
-This song was an unusual hit, selling as a single in the United States and entering the radio charts.
+This song was sold as a single in the United States and was an unusual hit, entering the radio charts.
 It was the first time fast food commercials entered the realm of pop music.
 
 ### 1-2 Linkage with the music industry: From advertising to hit songs
@@ -105,7 +105,7 @@ Early introduction of the concept of "music supporting taste."
 ## Chapter 5 Redefining the digital age: "Sound brand power" conveyed in 5 seconds (2010-2020s)
 
 ### 5-1 Reconstruction of sound logo
-- McDonald's: Universal pentatonic jingle (supervised by Pharrell and Hiroshi Kawabe)
+- McDonald's: Universal pentatonic jingle (supervised by Pharrell, Hiroshi Kawabe)
 - Change tempo/key arrangement for each country
 
 ### 5-2　Trend of SNS x artist collaboration

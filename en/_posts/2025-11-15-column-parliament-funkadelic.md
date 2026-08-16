@@ -15,22 +15,22 @@ title: '[Column] Parliament / Funkadelic: The whole story of the P-Funk revoluti
 ---
 
 
-## Prologue：P-Funkとは何か ― “ファンク”を越えた宇宙的文化革命
+## Prologue: What is P-Funk? A cosmic cultural revolution that goes beyond "funk"
 
 
 Text: mmr｜Theme: About the world view of P-Funk, which still exists as the foundation of current hip-hop, R&B, electro, art, and fashion.
 
 
 In the history of black American music in the second half of the 20th century, **Parliament/Funkadelic (commonly known as P-Funk)** is the group that combines the grandest mythology and sound innovation.
-Led by George Clinton, this collective was more than just a band, it was a gigantic project that combined a multiverse story, a futuristic sense of technology, and the thoroughly physical rhythms of funk.
+Led by George Clinton, this collective was more than just a band, it was a gigantic project that combined a **multiverse story**, **futuristic technological sensibilities**, and **all-out physical funk rhythms**.
 
-P-Funk becomes clear when you understand it along the following three axes.
+P-Funk becomes clear when you understand it in terms of the following three axes.
 
 1. **Parliament: Epic funk opera type sound**
-2. **Funkadelic：サイケデリック・ロックとソウルの融合**
+2. **Funkadelic: A fusion of psychedelic rock and soul**
 3. **P-Funk collective: comprehensive art including musicians, costumes, space mythology, live performances, etc.**
 
-本稿では、P-Funkの音楽的技法、文化的インパクト、年表、楽曲解析、そして後世への影響を大規模に整理する。
+This article provides a comprehensive overview of P-Funk's musical techniques, cultural impact, chronology, song analysis, and influence on future generations.
 
 ---
 
@@ -50,7 +50,7 @@ color: #fff;
 
 ## Chapter 1: Birth of Parliament / Funkadelic - 1950s-early 70s
 
-### ■ ニュージャージーの床屋から始まった “ドゥーワップの夢”
+### ■ "Doo-wop dream" started in a New Jersey barber shop
 P-Funk's origins date back to the late 1950s at the Plainfield Barber Shop in Newark, where George Clinton worked.
 While waiting for customers, he harmonized with his friends and formed a doo-wop group called **The Parliaments**.
 
@@ -88,7 +88,7 @@ It has been described as the "musical embodiment of black sadness and anger."
 
 ---
 
-## 第3章：Parliament の宇宙神話 ― P-Funk神話体系の構築（1974〜）
+## Chapter 3: Parliament's Space Myth - Building the P-Funk Mythology (1974~)
 
 In the mid-1970s, George Clinton began developing black science fiction under the name **Parliament**.
 
@@ -96,7 +96,7 @@ In the mid-1970s, George Clinton began developing black science fiction under th
 
 * Concept: Afrofuturism x Funk
 * Theme: "The black funk savior from outer space"
-* At the live performance, a giant spaceship "**Mothership**" descended, sending the audience into a frenzy.
+* At the live performance, a giant spaceship called "**Mothership**" descended, sending the audience into a frenzy.
 
 To this point, P-Funk has strengthened the following elements in all directions.
 
@@ -114,24 +114,24 @@ These characters are integrated into the music, costumes, stage direction, liner
 
 ## Chapter 4: A deep dive into musical technique - Why is P-Funk's sound so "cosmic"?
 
-What makes P-Funk unique is not just the strength of its groove, but its "structural control."
+P-Funk's characteristic lies not simply in the strength of its groove, but in its "structural control."
 
 ### ■ 1. "Rubbery Bass" by Bootsy Collins
 
 * Octave bounce
 * Laid back nori
-* シンコペーション多用
+* Heavy use of syncopation
 *Using Distortion and Auto-Wah
 
 ### ■ 2. Drum "low gravity groove"
 
-ジェローム“ビッグフット”ブレイリーらのドラミングは以下の特徴を持つ。
+The drumming of Jerome "Bigfoot" Braley and others has the following characteristics.
 
 * Minimal bass drum
 * Snare is deep and back
 *Hi-hat has a bit of shuffle
 
-結果、ビートが「浮遊しながら前に進む」感覚になる。
+As a result, the beat feels like it's moving forward while floating.
 
 ### ■ 3. Opera-like depth of chorus and ensemble
 
@@ -139,7 +139,7 @@ What makes P-Funk unique is not just the strength of its groove, but its "struct
 * Arrange multiple singers with different voice qualities
 * Gospel style response
 
-### ■ 4. ホーンのファンキーな“指示音”
+### ■ 4. Funky horn "indication sound"
 
 * James Brown-style sharp accent
 * But it has more play than JB and more harmony than unison.
@@ -155,7 +155,7 @@ Barney Worrell's Minimoog brought "cosmic electronic sounds" to black music for 
 
 ### ■ Funkadelic "Maggot Brain" (1971)
 
-* 黒人ロックの最高峰
+* The pinnacle of black rock
 * The title song is a masterpiece called "Crying Guitar"
 * A forerunner of art-rock funk with strong social metaphors
 
@@ -197,21 +197,21 @@ graph TD
 
 P-Funk left three major impacts on black culture.
 
-### ■ (1) 黒人SF表現の拡大（アフロフューチャリズム）
+### ■ (1) Expansion of black science fiction expression (Afrofuturism)
 
-Along with Sun Ra, P-Funk created a cultural foundation for black people's future.
+Along with Sun Ra, P-Funk created a cultural foundation for black people to speak about their future.
 
 ### ■ (2) Re-evaluation through hip-hop
 
 In particular, the following artists sampled extensively.
 
 * Dr. Dre (G-Funk)
-* Ice Cube
+*Ice Cube
 *Digital Underground
 *Public Enemy
 * De La Soul
 
-### ■ (3) ファッション・アート・政治思想へ波及
+### ■ (3) Spread into fashion, art, and political thought
 
 * Multicolored hair, space suit, giant boots
 *Anti-discrimination message through space mythology
@@ -240,7 +240,7 @@ timeline
 </div>
 
 <script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
 mermaid.initialize({ startOnLoad: true });
 </script>
 
@@ -256,16 +256,16 @@ mermaid.initialize({ startOnLoad: true });
 ### ■ Prince
 
 * Multiple personality character construction
-* Live theater, sexual expression, cross-genre
+* Live theater/sexual expression/cross-genre
 
 ### ■ Thundercat & Flying Lotus
 
-* ベースの跳ね感、宇宙感の継承
+* Inheriting the bouncy feel of the bass and the sense of space
 *Thundercat speaks of Bootsy as its direct ancestor
 
 ---
 
-## Conclusion: P-Funk is a "huge archive of the black future"
+## Conclusion: P-Funk is a "huge archive of black futures"
 
 George Clinton is more than just a funk leader.
 He was a "cultural designer" who brought together **music, the body, the universe, mythology, and social criticism**.
@@ -281,11 +281,11 @@ As long as P-Funk remains at the center of black music that speaks to the future
 * Funkadelic "Cosmic Slop"
 *Parliament "Mothership Connection"
 * Parliament "Funkentelechy vs. the Placebo Syndrome"
-* Bootsy’s Rubber Band 『Stretchin’ Out in Bootsy’s Rubber Band』
+* Bootsy"s Rubber Band "Stretchin" Out in Bootsy"s Rubber Band"
 
 ---
 
-### Appendix: Live composition (1976 Mothership Tour reproduction diagram)
+### Appendix: Live composition (1976 Mothership Tour reproduction map)
 
 <div class="mermaid">
 flowchart TD

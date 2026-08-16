@@ -45,7 +45,7 @@ In the German music scene at the time, there was a strong movement to explore ne
 
 The initial membership composition was fluid, and the group's character as a project-type group was already strongly evident at this point.
 
-> The starting point for Der Plan was an electronic pop experiment where urban mechanics and playfulness intersect.
+> The starting point for Der Plan was an experimental field for electronic pop where urban mechanics and playfulness intersect.
 
 ---
 
@@ -74,7 +74,7 @@ An important characteristic of this period is ""humor.'' Der Plan was not a seri
 
 The music is fragmented, and the lyrics and structure are discontinuously arranged, so the listener receives a collage-like experience rather than a unified narrative.
 
-> Der Plan during the Pyrolator period was a device that dismantled the structure of electronic music with laughter.
+> Der Plan from the Pyrolator era was a device that dismantled the structure of electronic music with laughter.
 
 ---
 

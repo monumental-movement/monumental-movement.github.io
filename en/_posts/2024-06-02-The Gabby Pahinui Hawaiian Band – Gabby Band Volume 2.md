@@ -16,7 +16,7 @@ title: The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2
 
 "Gabby Band Volume 2" is the fourth album released in 1977 by Gabby Pahinui, a slack key guitarist and vocalist representing Hawaiian music and a central figure in the Hawaiian Renaissance of the 1970s, with the band known as Gabby Band since 1972.
 
-ギャビーパヒヌイは、2002年にハワイアンミュージックの殿堂入りを果たしている。
+Gabby Pahinui was inducted into the Hawaiian Music Hall of Fame in 2002.
 
 #### Tracklist
 ```md

@@ -26,7 +26,7 @@ For example, in Japan, many people live in relatively compact urban structures, 
 
 This difference has a direct impact on siren design.
 
-> A siren is not just a warning sound, but a ""sound that reaches people'' that is optimized for the human living environment.
+> A siren is not just a warning sound, but a sound that reaches people and is designed to be optimized for the human living environment.
 
 ---
 
@@ -48,7 +48,7 @@ color: #fff;
 
 When talking about siren performance, we tend to focus on the "volume (decibel)", but in reality, that alone is not enough. What matters is "in what environment" and "how it sounds."
 
-Generally speaking, emergency vehicle sirens have a sound pressure of approximately 100 to 120 decibels. However, this figure is only an outdoor standard. In actual living spaces, the following factors greatly affect the arrival of sound.
+Generally speaking, emergency vehicle sirens have a sound pressure of approximately 100 to 120 decibels. However, this value is only an outdoor standard. In actual living spaces, the following factors greatly affect the arrival of sound.
 
 ・Sound insulation performance inside the car
 ・Car audio volume
@@ -60,13 +60,13 @@ Particularly in recent years, cars are highly sound insulated, and in regions wh
 
 For this reason, sirens are not just a loud sound, but are designed to be a sound that penetrates the environment.
 
-> The essence of a siren is not its volume, but its design to be perceived above environmental noise.
+> The essence of a siren is not its volume, but its design, which allows it to be perceived above environmental noise.
 
 ---
 
 ## Long-distance migration and music culture in America
 
-In the United States, the distances between cities are extremely long, and transportation by automobile is the center of life. It is not uncommon for people to drive for more than an hour to commute or travel. As a result, the interior of a car has developed not just as a space for transportation, but also as a space for enjoying music.
+In the United States, the distances between cities are extremely long, and transportation by automobile is central to life. It is not uncommon for people to drive for more than an hour to commute or travel. As a result, the interior of a car has developed not just as a space for transportation, but also as a space for enjoying music.
 
 Car audio culture is very strong, and it is common to play music at high volumes. This is also due to the prevalence of music genres that emphasize bass and treble, such as hip-hop and rock.
 
@@ -77,7 +77,7 @@ In such an environment, it is difficult to notice with a normal, monotonous warn
 ・Rhythmically modulating
 ・Designed to give a sense of direction
 
-This ensures that it doesn't get lost in the music and is immediately recognized by the driver.
+This allows it to be instantly recognized by drivers without getting lost in the music.
 
 > A culture of long driving hours and loud music has led to the evolution of sirens with more aggressive and varied sounds.
 
@@ -94,7 +94,7 @@ Additionally, because Japanese homes are densely packed, excessive volume has a 
 ・Use of audio announcements
 ・Night volume control
 
-Furthermore, sounds such as "An ambulance is passing by" can help people understand the situation even in environments where visual information is difficult to obtain.
+Furthermore, sounds such as "An ambulance is passing by" have the role of helping people understand the situation even in environments where visual information is difficult to obtain.
 
 > Japanese sirens are ""sounds that make people understand'' that are optimized with consideration to urban density and the living environment.
 
@@ -146,7 +146,7 @@ As for the characteristics.
 
 In a high-density city like Paris, there is always a lot of noise, so moving sounds are more likely to attract attention than two simple tones. Therefore, there is a strong tendency for French sirens to be recognized by rhythm.
 
-> The French siren is a sound that is perceived as ""motion'' amidst urban noise.
+> The French siren is a sound that is perceived as ""motion'' amidst the noise of the city.
 
 ---
 
@@ -236,7 +236,7 @@ G --> H
 
 In environments where music is played at high volume, the siren needs to have a higher pitch and more modulation. On the other hand, in a quiet environment, excessive volume can have the opposite effect.
 
-In other words, sirens are designed to fit into the ""interstice of everyday sounds''.
+In other words, sirens are designed to fit into the ""interstice of everyday sounds.''
 
 > Siren is designed not to compete with musical culture, but to fill a gap in it.
 
@@ -246,7 +246,7 @@ In other words, sirens are designed to fit into the ""interstice of everyday sou
 
 In recent years, the soundproofing performance of automobiles has further improved, and the spread of electric vehicles has reduced external noise. This change brings new challenges to siren design.
 
-Traditional loud sirens are no longer enough, and the following technologies are starting to be introduced.
+Traditional loud sirens alone are becoming insufficient, and the following technologies are beginning to be introduced.
 
 ・Direct notification to in-car speaker
 ・GPS-linked warning system
