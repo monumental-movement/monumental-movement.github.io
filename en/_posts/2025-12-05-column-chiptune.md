@@ -158,7 +158,7 @@ example:
 - Process the noise channel and apply it to Trap's snare
 - Sidechain square wave bass to make it look like EDM
 
-These "expanded chips" have become mainstream recently.
+These "expanded Chiptunes" have recently become mainstream.
 
 ---
 

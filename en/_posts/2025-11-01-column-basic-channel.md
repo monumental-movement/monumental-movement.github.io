@@ -14,7 +14,7 @@ title: '[Column] Basic Channel──The origin of Berlin dub techno'
 ---
 
 
-## Prologue: From anonymous noise to a silent revolution
+## Prologue: From anonymous noise to a revolution of silence
 
 
 Text: mmr｜Theme: "Abyss of sound" born from the underground of Berlin in the 1990s - History of the creation of Basic Channel and Dub Techno
@@ -72,7 +72,7 @@ It was also the first attempt to brand ""anonymity.''
 His early work, *Phylyps Trak* (1993), baffled DJs around the world.
 The sound, which combined the hard rhythms of Detroit techno with the spatial processing of dub, completely changed the depth of club sound.
 
-- The kick is not cloudy, but it oozes like air.
+- The kick is not muddy, but it oozes like air.
 - The snare is about to disappear, and the reverberation of the delay becomes the main melody.
 - "Decay", not melody, builds music.
 
@@ -86,7 +86,7 @@ It was just **sonic climate change**.
 ## Chapter 3: Reinventing Dub - From Jamaica to Berlin
 
 What Basic Channel was quoting was the idea of ​​**Jamaican dub** from the 70s.
-The reverberation sculptures of King Tubby and Lee "Scratch" Perry were recreated as a digital process.
+The reverberation sculptures of King Tubby and Lee "Scratch" Perry have been recreated as a digital process.
 
 What mattered to them was the courage to mute the sound.
 The effect was not a decoration, but a ""structural operation'' that created the acoustic space itself.
@@ -105,11 +105,11 @@ Chain Reaction features:
 - A sense of unity as if all sound sources were sharing the "same space"
 - Not mass production, but a **ideological network based on a chain of sounds**
 
-As a result, Basic Channel became more of a **platform for sonic philosophy** than a ""label.''
+As a result, Basic Channel became more of a **platform for sonic philosophy** than a ""label''.
 
 ---
 
-## Chapter 5: Rhythm & Sound──The voice deep in the silence
+## Chapter 5: Rhythm & Sound─The voice deep in the silence
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ocg25EUKFM?si=1XqTFcOsJNoD2JIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

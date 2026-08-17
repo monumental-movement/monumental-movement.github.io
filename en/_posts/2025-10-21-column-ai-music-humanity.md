@@ -24,7 +24,7 @@ Music in 2025 will no longer be talked about in terms of "genre."
 The listening experience on Spotify and Apple Music is being reorganized to fit the mood, time, and occasion, going beyond the categories of "rock," "hip-hop," and "electronica."
 
 ""Listening on a rainy day," ""Track at 2 a.m." and ""A morning spent with coffee." These list titles indicate a new value: ""context over genre."
-Music is talked about not in terms of what it's made of, but in terms of how it resonates/fits situations.
+Music is not talked about ""what it's made of", but ""how it resonates/fits the situation".
 
 At the heart of this change are AI, nostalgia, and the listeners' own memories.
 
@@ -55,7 +55,7 @@ In the field of 2025, these will dissolve the boundaries between professionals a
 For example, electronica artist Arca uses AI sound as a material and combines it with his own real voice. What she does is ""contextual design that asks why we choose one out of the countless possibilities created by AI.''
 Similarly, James Blake from the UK created an album [Playing Robots Into Heaven (2024)] (https://amzn.to/3L1hE6D) with the theme of "human fragility" while treating AI as a "co-author."
 
-What these examples show is that AI is becoming less of a ""creator of sound" and more of a ""mirror that highlights what people choose."
+These examples show that AI is no longer a ""creator of sound," but rather a ""mirror that highlights what people choose."
 Precisely because the tools are open to everyone, what is being questioned is the individual's contextual power = the meaning of choice.
 
 ---
@@ -68,7 +68,7 @@ Songs from Avril Lavigne and The Killers are going viral again, while young arti
 #### Recycling and reinventing 2000s sounds
 
 In the United States, Chappell Roan broke through with "Midwest Princess" (2024), which combined 2000s pop sensibilities with queer expression.
-In Japan, Wednesday Campanella is reconstructing the lightness of '00s J-Pop with an AI-like beat feel.
+In Japan, Wednesday Campanella is reconstructing the lightness of '00s J-POP with an AI-like beat feel.
 
 These ""retro-futuristic" music function between ""nostalgia" and ""current irony.''
 In other words, we are re-enacting the ""future of those days"' using today"s technology and sensibilities.
@@ -78,7 +78,7 @@ In other words, we are re-enacting the ""future of those days"' using today"s te
 What is important here is the attitude of ""re-editing rather than imitation.''
 As exemplified by playlists such as ""Retro-Future Pop" and ""Y2K Wave" on Spotify, current nostalgia brings the ""sound texture" to the past, but the ""production context" is modern.
 For example, Charli XCX's ""BRAT'' (2024) samples 90s club culture while also exploring the theme of post-internet self-consciousness.
-Her "method of turning past sounds into material" can be said to be sampling the history of music itself.
+Her ""method of turning past sounds into materials'' can be said to be sampling the history of music itself.
 
 ---
 
@@ -110,7 +110,7 @@ The culture of live streaming, which has spread due to the coronavirus pandemic,
 
 Travis Scott's ""Utopia Experience" in 2024 combined a real venue and AR projection to create a ""live spatial experience" for the audience.
 In Japan, Perfume also incorporated AR production to show fans an "alternate reality stage" through their smartphones.
-The value of a live performance has shifted to how much you can design ""memories of the place" and ""shared moments."
+The value of a live performance has shifted to how much you can design the ""memories of the place" and ""shared moments."
 
 #### Community in the Fan Direct era
 
@@ -133,7 +133,7 @@ In Japan, food festivals a.k.a foodman and yahyel are exploring "quiet club musi
 
 #### On the contrary, there is also a movement to master "density"
 
-On the other hand, in the post-hyperpop trend, sounds have become increasingly saturated, fragmented, and noisy.
+On the other hand, in the post-hyperpop trend, sounds are becoming more saturated, fragmented, and noisy.
 The excessive editing feel of 100 gecs and Dorian Electra is also a play on ""to what extent can we destroy pop?''
 In a world created by AI, "destruction" has become a new form of creativity.
 
@@ -160,7 +160,7 @@ The act of "listening to albums" has paradoxically become a luxurious way to spe
 
 ---
 
-### Final chapter: Beyond where music has "lost its boundaries"
+### Final Chapter: Beyond where music has "lost its boundaries"
 
 Never before has music been so diverse, democratized, and diffused.
 AI helps compose music, nostalgia becomes the material for the future, and the global and local intersect.
@@ -178,7 +178,7 @@ What we need now is--
 
 The music of 2025 is asking us all that question.
 And the answer is not AI or algorithms.
-It quietly exists in ""listening''.
+It exists quietly in ""listening''.
 
 ---
 

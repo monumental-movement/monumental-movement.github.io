@@ -70,7 +70,7 @@ This structure is not accidental, but intentional. I don"t understand, I don"t f
 
 DNA was a band active in New York in the late 1970s, and was a core member of the so-called no wave movement. Their music is structured in such a way that it deconstructs all the basic elements of rock.
 
-Guitars do not form chords, but emit single notes or irregular noises. The bass and drums don't share a beat, and the performance is always on the verge of collapse. The vocals reject the melody and are released as fragmented words and screams.
+The guitar does not form chords, but emit single notes or irregular noises. The bass and drums don't share a beat, and the performance is always on the verge of collapse. The vocals reject the melody and are released as fragmented words and screams.
 
 Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established''.
 
@@ -143,7 +143,7 @@ This trend occurred intensively in a short period of time and left a deep influe
 
 ## Impact and Sustainability
 
-Although noise punk/avant punk was not a commercial success, its influence extends to subsequent experimental music, post-punk, industrial, and even contemporary noise.
+Noise punk/avan punk was not a commercial success, but its influence extends to subsequent experimental music, post-punk, industrial, and even contemporary noise.
 
 What is important is not a particular sound, but the fact that an attitude of continued doubt was inherited. Every time music is about to be reclaimed as pleasure, it has played the role of creating a crack.
 

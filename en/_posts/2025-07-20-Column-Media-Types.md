@@ -122,7 +122,7 @@ Hearing: Slightly muffled, with modest high frequencies. It's soft and warm, but
 
 Frequency characteristics: 20Hz to 20kHz (44.1kHz sampling)
 
-Features: Digital sound source with low noise, flat and clear sound quality.
+Features: Because it is a digital sound source, there is little noise, flat and clear sound quality.
 
 Spectrogram trend:
 
@@ -249,7 +249,7 @@ The focus of the next generation will be support for high quality sound distribu
 
 Users move from simply playing music to experiencing spatial sound
 
-A complex market where analog regression and digital advancement coexist
+A complex market where analog regression and digital advancement coexist.
 
 Dolby Atmos is highly anticipated as a new means of expression for live performances and festival experiences.
 

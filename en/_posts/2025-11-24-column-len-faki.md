@@ -50,7 +50,7 @@ Len Faki developed a deep relationship with the Ostgut Ton label. Ostgut Ton is 
 Through his residency at Berghain, Len Faki developed a unique sound style based on the interaction between the club space and the audience.
 He also founded a sub-label called Podium, which focuses on techno creativity and nurturing emerging artists.
 
-### 1.3 国際的な活動
+### 1.3 International activities
 
 Len Faki is known for his long-form DJ sets, and through his residency at Berghain, he has appeared as a headliner and key act at clubs and festivals around the world.
 In recent years, we have also been developing online distribution sets and new album projects (e.g. Fusion).
@@ -66,12 +66,12 @@ We take Len Faki's signature tracks and analyze them in detail, including their 
 
 #### basic information
 - BPM: 125
-- Key: G major
+- Key: G Major
 - Released: Berghain 03 mix CD included, 2009
 
 #### Song structure and rhythm
 From the intro, kicks and hi-hats are gradually added and the song progresses to a build-up.
-ドロップ後は低域のキックとベースがフロアを牽引しつつ、ホワイトノイズやサイレンが緊張感を形成します。  
+After the drop, the low-range kick and bass drive the floor, while white noise and sirens create a sense of tension.
 This is a typical club configuration where the ball becomes gentle at the break and then builds up a sense of excitement as it prepares to drop again.
 
 #### Acoustic characteristics (estimated)
@@ -88,7 +88,7 @@ It is often used from the middle to the peak of a set, and is the main track to 
 
 #### basic information
 - BPM: 129
-- Key: G major
+- Key: G Major
 - Length: Approximately 8 minutes 15 seconds
 
 #### Song structure and rhythm
@@ -110,12 +110,12 @@ As a mid-range track with a driving feel, it is suitable for increasing energy t
 
 #### basic information
 - BPM: 122
-- キー: Bマイナー  
+- Key: B minor
 - Length: Approximately 7 minutes 12 seconds
 
 #### Song structure and rhythm
-中低テンポで安定感のあるグルーヴを持つ。  
-While the kick is sharp, it also has a heavy feel, and the baseline is smoothly linked.
+It has a stable groove with a medium to low tempo.
+While the kick is sharp, it also has a solid feel, and the baseline is smoothly linked.
 Hi-hats and sub-percussion add complexity and give movement to the overall rhythm.
 
 #### Acoustic characteristics (estimated)
@@ -124,14 +124,14 @@ Hi-hats and sub-percussion add complexity and give movement to the overall rhyth
 - High frequencies: Create space with hats and synth effects
 
 #### Role in DJ set
-It is used to maintain the groove in the middle of a set or take a break in the middle of a set, and has the role of stabilizing the floor.
+It is used to maintain a groove in the middle of a set or take a break in the middle of a set, and has the role of stabilizing the floor.
 
 ---
 
 ### 2.4 My Black Sheep
 
-#### 基本情報
-- BPM: 125  
+#### basic information
+- BPM: 125
 - Key: G minor
 - Length: Approximately 8 minutes 44 seconds
 
@@ -140,7 +140,7 @@ It has a strong melodic element, with pads and synths gradually merging with the
 After the drop, the melody and beat develop in multiple layers, and the break calms down for a while, creating a bridge to the next build.
 
 #### Acoustic characteristics (estimated)
-- 低域: キックとベースでフロアを安定  
+- Low: Stabilize the floor with kicks and bass
 - Mid-high range: Melodic synths, pads, and reverb processing create a sense of space
 - Stereo: Produces a three-dimensional effect with a wide layer structure
 
@@ -152,9 +152,9 @@ This is an important track that creates emotional peaks and calm moments in the 
 ### 2.5 Robot Evolution
 
 #### basic information
-- BPM: 推定128前後  
-- Key: Estimated A Minor
-- 構造: 機械的なリズムとシンセで未来感を演出  
+- BPM: Estimated around 128
+- Key: Estimated A minor
+- Structure: Produces a futuristic feel with mechanical rhythms and synths
 
 #### Song structure and rhythm
 Hard kicks and bass are repeated, and mechanical synths and percussion occupy the midrange.
@@ -165,7 +165,7 @@ Clear build-break-drop structure, perfect for festivals and peak sets.
 - Midrange: Mechanical synth, rhythmic patterns
 - High frequency: Extend tension with effects and noise
 
-#### DJセットでの役割
+#### Role in DJ set
 It is placed at peak times to uplift the audience and provide a futuristic and powerful performance.
 
 ---
@@ -189,9 +189,9 @@ timeline
 
 ---
 
-## 第4章：制作・ミキシング技法とDJ戦略
+## Chapter 4: Production/mixing techniques and DJ strategies
 
-### 4.1 ミキシング・EQ・フィルター戦略
+### 4.1 Mixing/EQ/Filter Strategy
 - Control early, middle, and peak dynamics using EQ and filters
 - Create space with reverb delay
 - Increase build-up and tension with noise sirens

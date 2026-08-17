@@ -22,7 +22,7 @@ Text: mmr｜Theme: Positioning the modular drone as an intersection of the histo
 
 Progressive jazz/fusion is a developmental trend in jazz that was formed from the late 1960s to the 1970s, and was established as a result of the simultaneous integration of multiple musical idioms such as modal jazz, post-bop, rock, funk, contemporary music, and folk music. ""Progressive'' here does not simply mean technical sophistication, but refers to the attitude itself that continues to reorganize musical structure, rhythm design, timbre arrangement, and the relationship between improvisation and composition.
 
-Although the term fusion is often understood as a compromise between jazz and rock, the reality is more complex. External conditions such as the standardization of electric instruments, advances in PA and studio technology, changes in recording media, and the acceleration of international musical exchange directly influenced performance styles and structural design. In this article, we will examine the underlying logic of progressive jazz/fusion by analyzing the structure, instruments, and performance philosophy of Weather Report and Mahavishnu Orchestra, which form the core of this trend.
+Although the term fusion is often understood as a compromise between jazz and rock, the reality is more complex. External conditions such as the standardization of electric instruments, the evolution of PA and studio technology, changes in recording media, and the acceleration of international musical exchange directly influenced performance styles and structural design. In this article, we will examine the underlying logic of progressive jazz/fusion by analyzing the structure, instruments, and performance philosophy of Weather Report and Mahavishnu Orchestra, which form the core of this trend.
 
 ---
 
@@ -44,7 +44,7 @@ color: #fff;
 
 In the late 1960s, jazz expanded its vocabulary beyond hard bop and gained flexibility in its temporal structure through modal playing and free improvisation. On the other hand, rock music was changing into music that was based on loud volumes and repetitive beats, and was designed for large-scale listening environments. The maturation of electric instruments and amplification technology has expanded the connection between the two on a physical rather than an ideological level.
 
-During this period, many jazz musicians introduced electric pianos, electric basses, and amplified guitars, building ensembles that relied on volume, sustain, and timbre manipulation that was impossible with traditional acoustic formations. As a result, new forms of performance featuring long structures, circular riffs, complex meters, and repetitive structures took hold, and progressive jazz/fusion came to be recognized as a distinct current.
+During this period, many jazz musicians introduced electric pianos, electric basses, and amplified guitars, building ensembles based on volume, sustain, and timbre manipulation that were impossible with traditional acoustic formations. As a result, new forms of performance featuring long structures, circular riffs, complex meters, and repetitive structures took hold, and progressive jazz/fusion came to be recognized as a distinct current.
 
 ---
 
@@ -105,7 +105,7 @@ sequenceDiagram
 
 ### Instrument composition and performance techniques
 
-Electric guitars are accompanied by distortion and continuously develop high-speed scales and arpeggios. The violin was introduced as a melodic instrument in rock formations, and has the same volume and maneuverability as the guitar. The keyboard is responsible for supporting sustained notes and harmonies, and supports the overall thickness.
+The electric guitar is accompanied by distortion and continuously develops high-speed scales and arpeggios. The violin was introduced as a melodic instrument in rock formations, and has the same volume and maneuverability as the guitar. The keyboard is responsible for supporting sustained notes and harmonies, and supports the overall thickness.
 
 ---
 

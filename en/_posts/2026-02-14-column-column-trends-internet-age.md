@@ -20,7 +20,7 @@ title: '[Column] Tracking the history of music trends spreading in the internet 
 
 Text: mmr｜Theme: A long-form analysis that traces the history of music trends spreading in the internet age and the mechanism of global dissemination. Track cities, artists, and services based on facts and explore the background behind trend formation
 
-> With the spread of the Internet, music has become a new cultural phenomenon that transcends borders and spreads in real time.
+> With the spread of the internet, music has become a new cultural phenomenon that transcends borders and spreads in real time.
 
 From the end of the 20th century to the beginning of the 21st century, the Internet changed the core of musical culture. Traditionally, record companies, radio stations, and CD shops were the main sources of distribution, but the Internet has ushered in an era in which individuals can directly distribute songs. At clubs and festivals in cities, it has become commonplace for local songs to instantly spread to other cities via the internet.
 

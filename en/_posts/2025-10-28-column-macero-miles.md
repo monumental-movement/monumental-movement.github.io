@@ -14,7 +14,7 @@ title: '[Column] Teo Macero and Miles Davis —— The moment when editing surpa
 ---
 
 
-## 序章：録音室という“もうひとつの楽器”
+## Prologue: "Another instrument" called the recording room
 
 
 Text: mmr | Theme: ""Musical Revolution through Editing'' built by Miles Davis and Theo Macero—Tracing new horizons in recording art through the magic of tape splicing and composition.
@@ -46,7 +46,7 @@ Teo Macero was born in 1925 in Glens Falls, New York. He began his career as a j
 Like Stockhausen and Varèse, Macero developed an early awareness of treating sound as a material.
 
 In the late 1950s, he became a staff producer at Columbia Records, working with artists such as Miles Davis and Dave Brubeck.
-だが、他のプロデューサーと決定的に異なっていたのは、**編集そのものを創造の場として理解していた**点だった。
+However, what set him apart from other producers was that he understood editing itself as a place of creation.
 
 > "Even after the performance ends, the music doesn't end. It starts all over again in the editing room."
 > — Teo Macero
@@ -55,7 +55,7 @@ In the late 1950s, he became a staff producer at Columbia Records, working with 
 
 ## Chapter 2: "In a Silent Way"—— The magic of time editing
 
-1969年録音の『In a Silent Way』は、ジャズ史における“編集の起点”といえる。  
+""In a Silent Way," recorded in 1969, can be said to be the ""starting point of editing" in the history of jazz.
 Miles, John McLaughlin, Chick Corea, Wayne Shorter and others improvised the sessions, but Teo Macero boldly reconstructed the recordings.
 
 What is particularly impressive is the ""ring structure'' in which the same take is used at the beginning and end.
@@ -67,7 +67,7 @@ Macero cut off the ""linear time of music" and created ""circular time through e
 <div class="mermaid">
 
 flowchart LR
-    A["Session recording (multiple takes)"] --> B["テープ編集"]
+    A["Session recording (multiple takes)"] --> B["Tape editing"]
     B --> C["Configuration rearrangement (forward/backward reversal/looping)"]
     C --> D["In a Silent Way: Completed Form"]
     D --> E["→ Reconstruction of the sense of time"]
@@ -84,10 +84,10 @@ flowchart LR
 With 1970"s Bitches Brew, Macello"s editing techniques exploded further.
 More than six tape recorders were running at the same time, making the studio feel like a laboratory.
 
-Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
-マセロはそれらの断片を数メートル単位でスプライスし、リズムの流れや音響の“場”を編集によって設計していった。
+Each performer does not share a common theme, resulting in a **flood of fragmented improvisation**.
+Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "field" through editing.
 
-> "I chopped up sounds and reconstructed them. It was the same act as composing."
+> "I chopped up the sounds and reconstructed them. It was the same act as composing."
 > — Teo Macero
 
 His method was similar to musique concrète, but also connected to the free improvisation of jazz.
@@ -118,7 +118,7 @@ graph TD
 Teo Macero's greatest contribution was to elevate recording technology from an auxiliary tool to a creative medium.
 This was the forerunner of the paradigm of ""editing = composing.''
 
-- 物理的切断（テープスプライス）による構造変換
+- Structural transformation by physical cutting (tape splice)
 
 - Sound field design using spatial synthesis (reverb, pan, layer)
 
@@ -131,7 +131,7 @@ In other words, Macero has carved out a new profession: ""post-recording compose
 
 ## Chapter 5: Tension with Miles
 
-Miles Davis and Macero's relationship was always one of collaboration and conflict.
+The relationship between Miles Davis and Macero has always been one of collaboration and conflict.
 While Miles pursued the freedom of improvisation, Macero sought to shape the results through editing.
 The tension between the two is the very lifeblood of the work.
 
@@ -142,7 +142,7 @@ The relationship between the two was a dialectic of "construction and demolition
 
 ## Chapter 6: Toward the post-Masero era—Inheritance and influence
 
-In the late 1970s, Macero left Columbia, but his influence continued to spread throughout his music production.
+In the late 1970s, Macero left Columbia, but his influence continued to spread throughout his subsequent music production.
 In particular, Masero's editorial philosophy was clearly inherited in the following areas.
 
 | Field | Representative Artist | Inheritance |
@@ -197,7 +197,7 @@ The Mermaid diagram below is a step-by-step recreation of his typical editing wo
 <div class="mermaid">
 
 flowchart TD
-    A["1️⃣ Session recording: <br>Multi-track recording of several hours of improvised jams"] --> B["2️⃣ Tape listening and note taking: <br>Listen to all takes and record valid fragments in time axis memo"]
+    A["1️⃣ Session recording: <br>Multi-track recording of several hours of improvisational jam"] --> B["2️⃣ Tape listening/taking notes: <br>Listen to all takes and record valid fragments in time axis memo"]
     B --> C["3️⃣ Markup:<br>Insert markers at usable moments (groove/theme)"]
     C --> D["4️⃣ Fragment extraction:<br>Physically cut in 1-2m units and organize into reels"]
     D --> E["5️⃣ Editing blueprint: <br>Designing the fragment order as a composition diagram on paper (time composition composition)"]
@@ -236,7 +236,7 @@ For him, improvisation was the ""generation of materials," and editing was the "
 
 ## Chapter 10: Acoustic analysis —— "Auditory structure" created by editing
 
-Teo Macero's editing not only changed the composition of the music, but also transformed the acoustic space and the very structure of listening.
+Teo Macero's editing not only changed the song structure, but also transformed the acoustic space and the very structure of listening.
 Especially when comparing "In a Silent Way" and "Bitches Brew," you can see a clear sonic philosophy in the editing direction.
 
 | Elements | "In a Silent Way" (1969) | "Bitches Brew" (1970) |
@@ -248,7 +248,7 @@ Especially when comparing "In a Silent Way" and "Bitches Brew," you can see a cl
 | Building Rhythm | Emphasizing Groove with Editing | Designing Conflict with Editing |
 | Purpose | Creating "timeless" sound | Building "order of chaos" |
 
-これらの音響設計は、当時のアナログ技術の限界を逆手に取った結果でもある。
+These acoustic designs were also the result of taking advantage of the limitations of analog technology at the time.
 Even the ""cutting noise" and ""unnatural connection" of tape editing were consciously left in by Masero as **structural effects**.
 
 <div class="mermaid">
@@ -283,7 +283,7 @@ It can be said that Macero's edited sound was already putting into practice the 
 
 ---
 
-## Supplementary figure: Macero-style "composition by editing" model
+## Supplementary figure: Masero-style "composition by editing" model
 
 <div class="mermaid">
 
@@ -345,7 +345,7 @@ As a result, the album was constructed as a composite of multiple takes, rather 
 ## Editing structure: Title song "Bitches Brew"
 
 Below is the tape editing structure of the title song "Bitches Brew" (approximately 27 minutes).
-テイク／スプライス位置／再使用区間で表現したものです。
+It is expressed as take/splice position/reuse section.
 
 <div class="mermaid">
 
@@ -416,7 +416,7 @@ It can be said that it preceded the ""studio composition method'' advocated by B
 
 | Elements | Technique | Acoustic Intention |
 | ---------- | ------------------------ | ------------------------ |
-| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual spatial sense |
+| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual sense of space |
 | Tape repeat | Re-insert the same phrase (recursive structure) | Auditory hypnosis effect |
 | EQ/reverb operation | Unification of texture between multiple takes | Pseudo-generation of spatio-temporal continuity |
 | "Seams" of fragmented reverberation | Deliberately left behind | Turning editing traces into music (turning sound seams into "structure") |

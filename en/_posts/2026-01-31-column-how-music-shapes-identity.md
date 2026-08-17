@@ -19,9 +19,9 @@ title: '[Column] How does music shape us?'
 Text: mmr｜Theme: Why does music shape people's self-awareness?
 
 
-Why do people identify with music? This question is both old and new. Melodies, rhythms, voices, and noises are physically nothing more than vibrations in the air, but we have found meaning in them, projected our emotions onto them, and sometimes entrusted our lives to them. When I listen to one song, I remember who I am, and when I listen to another song, I imagine who I want to be in the future. Through its iterations, music has gone beyond mere entertainment and functioned as a framework for self-understanding.
+Why do people identify with music? This question is both old and new. Melodies, rhythms, voices, and noises are physically nothing more than vibrations in the air, but we have found meaning in them, projected our emotions onto them, and sometimes entrusted our lives to them. When I listen to one song, I remember who I am, and when I listen to another song, I imagine who I want to be in the future. Throughout this cycle, music has gone beyond mere entertainment and has functioned as a framework for self-understanding.
 
-If we look back at history, we can see that music has always existed at the boundary between the individual and society. Religious rituals imprint community values ​​on the body, modern nations foster national consciousness, and in modern times, playlists make the inner lives of individuals visible. Music is given to us from the outside and continues to update our self-awareness while changing its meaning on the inside.
+If we look back at history, we can see that music has always existed at the boundary between the individual and society. Religious rituals imprint community values ​​on the body, modern nations foster national consciousness, and in modern times, playlists make individuals' inner lives visible. Music is given to us from the outside and continues to update our self-awareness while changing its meaning on the inside.
 
 > Music is one of the oldest media we have used to understand ourselves.
 
@@ -135,7 +135,7 @@ Music was also an important means for socially oppressed people to express thems
 
 ---
 
-## Expanding media and identity
+## Expanding Media and Identity
 
 ### From Radio to the Internet
 
@@ -179,7 +179,7 @@ Globalization has shaken the idea of ​​identity rooted in a single culture. 
 
 ### Dancing and singing
 
-Music affects the self most directly through the body. Collective movements on the dance floor and shared breathing through chorus create a sense of unity on a pre-verbal level. Bodily sensations make abstract identities real.
+Music affects the self most directly through the body. Collective movement on the dance floor and shared breathing through chorus create a sense of unity on a level that pre-verbals. Bodily sensations make abstract identities real.
 
 > When the body moves, the self certainly exists.
 

@@ -18,7 +18,7 @@ title: '[Column] Prime Minister Sanae Takaichi and Metal: Iron Will and Politics
 ## Prologue: Political sensibilities born from the roar of metal
 
 
-文：mmr｜テーマ：ヘヴィメタルを愛する政治家——高市早苗。その音楽的感性は、どのように彼女の言葉・政策・思想に鋼鉄の響きを与えてきたのか
+Text: mmr｜Theme: A politician who loves heavy metal—Sanae Takaichi. How has her musical sensibility given a steely resonance to her words, policies, and ideas?
 
 
 Sanae Takaichi is often described as a ""conservative," ""strong-minded," and ""a fighting woman." However, at its root lies the impact of the heavy metal music he heard when he was young. Metal is the music of pathos and construction, the art of containing passion within order. Her school band played songs by Black Sabbath and Deep Purple, and she also likes to listen to bands like Judas Priest, and these sensibilities form the ""acoustic skeleton" of her political language and cultural outlook.
@@ -81,7 +81,7 @@ Like Judas Priest, music that confines explosive passion within an orderly rhyth
 
 ---
 
-## 第五章：文化政策とメタルの倫理
+## Chapter 5: Cultural Policy and Metal Ethics
 
 As Minister of Internal Affairs and Communications, Mr. Takaichi was in charge of broadcasting, communications, and copyright policy for a long time. Consistent among them was the awareness of ""protecting the rights of creators" and ""cultural sovereignty."
 
@@ -106,7 +106,7 @@ The structure of her speech resembles the structure of a metal song.
 flowchart TD
     A["Intro: Quiet presentation of logic"]
     B["Riff: Repetition of core theme"]
-    C["ソロ：情熱的な強調"]
+    C["Solo: Passionate Emphasis"]
     D["Break: A moment of silence/modulation"]
     E["Outro: Consequences to Order"]
 
@@ -120,7 +120,7 @@ Within this structure, Takaichi plays with ""intellect that controls passion.''
 
 ## Final Chapter: Towards politics that is not afraid of noise
 
-メタルがノイズを受け入れて進化してきたように、成熟した政治もまた「異音」を内包してこそ強くなる。高市早苗という存在は、日本政治における“ノイズの受容”を象徴している。そのノイズは混乱ではなく、創造的な歪みとして響く。
+Just as metal evolved by accepting noise, mature politics also becomes stronger when it embraces ""unusual sounds.'' The existence of Sanae Takaichi symbolizes the "acceptance of noise" in Japanese politics. The noise doesn't sound like chaos, but creative distortion.
 
 ""New sounds can only be born from silence.'' This phrase applies to both metal and politics. Through the person of Sanae Takaichi, we can reconsider "politics that lives like sound."
 
@@ -134,18 +134,18 @@ Within this structure, Takaichi plays with ""intellect that controls passion.''
 
 ---
 
-## 年表：高市早苗とメタルの共鳴史（1980–2025）
+## Chronology: Sanae Takaichi and the history of metal resonance (1980–2025)
 
 <div class="mermaid">
     
 graph TD
   A1980["1980: Touching on loudness and Judas Priest"] --> A1983["1983: Graduated from the Department of Business Administration, Faculty of Business Administration, Kobe University"]
-  A1983 --> A1984["1984 : 松下政経塾第5期生として入塾"]
+  A1983 --> A1984["1984: Joined Matsushita School of Government and Management as a fifth-year student"]
   A1984 --> A1992["1992 : First elected (independent)"]
   A1992 --> A1993["1993: Joined the Liberal Democratic Party after joining the Liberal Party and Shinshin Party"]
   A1993 --> A2002["2002: Appointed Minister of Internal Affairs and Communications, promoting broadcasting and copyright policy"]
   A2002 --> A2014["2014: Leading the debate on freedom of expression and broadcasting ethics"]
-  A2014 --> A2021["2021 : 自民党総裁選で『文化防衛・創造支援』を掲げる"]
+  A2014 --> A2021["2021: Liberal Democratic Party presidential election calls for 'defense of culture and support for creation'"]
   A2021 --> A2025["2025: Considering policy to integrate culture and technology"]
 
 </div>
@@ -180,12 +180,12 @@ flowchart LR
 | Band | Album | Year of release | Features and highlights |
 | ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
 | **Black Sabbath** | **Black Sabbath** | 1970 | A work that is said to be the birth of the world's first heavy metal. The darkening of the blues and the church bell SE are symbolic.            |
-|                   | **Paranoid（パラノイド）** | 1970 | メタルの原型を確立した名盤。スピード、社会性、重厚さが共存。    |
+| | **Paranoid** | 1970 | A masterpiece that established the prototype of metal. Speed, sociability, and seriousness coexist.    |
 | | **Master of Reality** | 1971 | Evolution of heavy bass with drop D tuning. The father of doom metal.      |
 | **Deep Purple** | **Deep Purple in Rock** | 1970 | A masterpiece that laid the foundation for hard rock. A fusion of classic compositional beauty and explosive power.                    |
-|                   | **Fireball**     | 1971 | より攻撃的で実験的。テンポ変化やブルース感が強い。                  |
+| | **Fireball** | 1971 | More aggressive and experimental. It has a strong tempo change and blues feel.                  |
 | | **Machine Head** | 1972 | A level of perfection that remains in rock history. The golden ratio of riff and groove.          |
-| **Judas Priest**  | **Sad Wings of Destiny（運命の翼）** | 1976 | 哀愁と叙情のメタル美学が確立。ツインリードの原型。                           |
+| **Judas Priest** | **Sad Wings of Destiny** | 1976 | A metal aesthetic of melancholy and lyricism is established. The prototype of twin leads.                           |
 | | **Sin After Sin** | 1977 | Major debut work. Produced by Roger Glover (Deep Purple). A dramatic development. |
 | | **Stained Class** | 1978 | The beginnings of speed metal. Precise and cold sound image.          |
 

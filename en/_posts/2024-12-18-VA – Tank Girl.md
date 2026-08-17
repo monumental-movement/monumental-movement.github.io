@@ -15,7 +15,7 @@ title: VA – Tank Girl
 ---
 
 
-1995年に劇場公開されたレイチェル・タラレイ監督による終末ものSF映画「Tank Girl」のサウンドトラック。タンクガールは、UKでカルト的人気を誇るコミックの実写映像化。サウンドトラックはCourtney Love(コートニー・ラブ)によって組み立てられ、SPKのGraeme Revell(グレーム・レヴェル)はオリジナル音楽を提供した。Devoは、コミックの大ファンだったため、映画のために「Girl U Want」の新しいバージョンを録音した。
+Soundtrack of the post-apocalyptic sci-fi movie ""Tank Girl"' directed by Rachel Talalay, which was released in theaters in 1995. Tank Girl is a live-action adaptation of the UK cult comic. The soundtrack was assembled by Courtney Love, and SPK"s Graeme Revell provided original music. Devo recorded a new version of "Girl U Want" for the movie because she was a big fan of the comic.
 
 #### Tracklist
 ```md

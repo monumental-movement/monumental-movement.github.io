@@ -14,13 +14,13 @@ title: Justin Timberlake – Like I Love You
 
 Justin Randall Timberlake is an American pop singer, R&B singer, and actor. He has won multiple Grammy Awards.
 
-かつては、ボーイズグループ「インシンク」のフロントマンとして人気を博しました。
+He once gained popularity as the frontman of the boy group Insync.
 
 In 2002, he released his debut solo album "Justified", which sold over 10 million copies worldwide.
 
-2006年、セカンドソロアルバム「Futuresex/Lovesounds」をリリース。
+In 2006, released his second solo album "Futuresex/Lovesounds".
 
-2013年、アルバム「The 20/20 Experience」で音楽活動を再開し、雑誌「タイム」の「世界で最も影響力のある100人」に2度目の選出を果たしました。
+In 2013, he resumed his music career with the album ""The 20/20 Experience," and was selected for the second time as one of Time magazine's ""100 Most Influential People in the World."
 
 #### Tracklist
 ```md

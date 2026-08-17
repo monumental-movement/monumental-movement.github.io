@@ -74,7 +74,7 @@ Educational methods that emphasize children's independence, such as the Orff, Ko
 Apart from school education, music education rooted in local communities has long existed.
 Folk songs, festival music, and religious music have been preserved through intergenerational transmission and supported community memory.
 
-European brass band culture is a typical example of musical education in the working class during the Industrial Revolution.
+European brass band culture is a typical example of music education in the working class during the Industrial Revolution.
 Factories and local organizations provided instruments, and through ensemble performances, discipline and solidarity were fostered.
 
 In Latin America and Africa, music education is often conducted outside of school, and a culture that emphasizes physical expression and improvisation has been maintained.
@@ -97,7 +97,7 @@ Classical music education has been particularly associated with elite education 
 On the other hand, music education for the working class centered on group formats such as chorus and wind bands.
 
 From the latter half of the 20th century onwards, the disparity in opportunities for music education was corrected to a certain extent through public subsidies and the expansion of school education.
-However, economic factors continue to influence musical instrument education and professional education.
+However, economic factors still influence musical instrument education and professional education.
 
 The rise of hip-hop and electronic music has relativized traditional music education models.
 A production environment that does not require expensive instruments or long-term training has created new learning paths.
@@ -166,7 +166,7 @@ timeline
 Although music education is a field whose results are difficult to quantify, it has had a long-term impact on society.
 Aspects such as the inheritance of culture, social participation, and the formation of a sense of community are difficult to replace in other fields of education.
 
-Although music education as a system is constantly changing, the experience of interacting with others through sound itself is universal.
+Although music education as a system has always changed, the experience of interacting with others through sound itself is universal.
 It is one of the areas of education that most clearly shows what kind of human being society is looking for.
 
 > Music education has quietly but surely shaped society's values.

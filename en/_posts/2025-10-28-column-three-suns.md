@@ -56,7 +56,7 @@ It can be said that this one song gave birth to the concept of "home music" in p
 
 The sound of the accordion is connected to the nostalgia of soldiers returning from the battlefield.
 The guitar and organ gently envelop it.
-そのサウンドは、家庭という小宇宙を温める“音の灯火”だった。
+That sound was a "light of sound" that warmed the microcosm of the home.
 
 ---
 
@@ -120,7 +120,7 @@ The ""ma'', where the density of sound is thin and exists like air, was the fore
 | Air | French duo | Analog feel and floating melody |
 | Cornelius | Japan | Home acoustic sound construction |
 | Stereolab | British and French | Retro-Future Sound |
-| Beirut | America | Standard-bearer of accordion restoration |
+| Beirut | America | Standard-bearer of accordion revival |
 
 ---
 
@@ -155,7 +155,7 @@ Somewhere in there, I can hear the breathing of an accordion.
 > That was the core of Three Suns' music.
 
 Accordions are not outdated;
-It is beginning to sound once again for the sake of an ""analog future.''
+It is once again starting to sound for the sake of an ""analog future.''
 
 ---
 
@@ -164,7 +164,7 @@ It is beginning to sound once again for the sake of an ""analog future.''
 | Year | Title | Label | Notes |
 | ---- | ------------------- | ---- | ------------------ |
 | 1944 | Twilight Time | RCA | Signature song, later covered by Platters |
-| 1953 | On a Magic Carpet | RCA | The germ of exotica sound |
+| 1953 | On a Magic Carpet | RCA | The germ of exotica sounds |
 | 1956 | Movin" "n' Groovin' | RCA | A masterpiece from the early days of stereo |
 | 1957 | Midnight for Two | RCA | Complete Hi-Fi recording |
 | 1960 | Fever & Smoke | RCA | Strengthening jazz elements |

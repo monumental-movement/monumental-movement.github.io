@@ -10,7 +10,7 @@ tags:
 - Turkey
 - Dance
 - Electronic
-title: '[Column] The circle of Turkish dance music: the history of music where tradition
+title: '[Column] The circle of Turkish dance music: A musical history where tradition
   and club culture intersect'
 ---
 
@@ -70,7 +70,7 @@ This premise of ""music for moving the body'' has remained consistent even after
 ### Intersection of court music and folk culture
 
 In the Ottoman Empire, court music and urban popular culture were not completely separated.
-At festivals and banquets, there existed a form of performance that integrated dance and music.
+At festivals and banquets, there existed forms of performance that integrated dance and music.
 
 ### Genealogy of 9 time signatures
 
@@ -103,7 +103,7 @@ Dance music organized for cities incorporated popular elements and became the fo
 
 ### Fusion of folk and rock
 
-In the late 1960s, a movement emerged to fuse Anatolian folk music and rock.
+In the late 1960s, a movement emerged to fuse Anatolian folk music with rock.
 Electric guitars and drums were used as devices to extend traditional dance rhythms.
 
 ### Maintaining dance quality
@@ -165,11 +165,11 @@ A cycle was born in which the electronic version of Turkish rhythm influenced yo
 
 | Years | Events |
 | --------- | ----------------- |
-| Ancient times – | Regional dance music was established in various parts of Anatolia |
+| Ancient times – | Regional dance music was established throughout Anatolia |
 | 16th–19th century | Dance music established in Ottoman urban culture |
 | 1920s | Popularization through recording and broadcasting |
 | 1960s–70s | The emergence of Anatolian rock |
-| 1980s | Re-editing in the Diaspora |
+| 1980s | Re-editing in the diaspora |
 | 1990s | Connection with club culture |
 | 2000s – | Acceleration of global circulation |
 

@@ -66,7 +66,7 @@ The song of the same name became an anthem representing the history of Seoul, an
 Earl Young's ""four-on-the-floor'' rhythm was what would later become the basic beat of disco and house.
 Furthermore, Vincent Montana Jr.'s vibes and string arrangements gave the rhythms of black music a classical elegance.
 
-MFSB was more than just a band, it was the embodiment of a new concept: a ""studio orchestra.''
+MFSB was not just a band, but the embodiment of a new concept: a ""studio orchestra''.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vYjkjpUor9M?si=6apW0wVkoEBW6BL-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -78,7 +78,7 @@ In 1975, **Vincent Montana Jr.** left MFSB and formed **Salsoul Orchestra** to p
 Backed by **Salsoul Records** (founders: Cayre brothers), they aimed for a disco sound with strong Latin elements.
 
 Montana uses the orchestration skills he cultivated at PIR to fuse Latin percussion and strings.
-As a result, a unique equation was created: **Disco+Orchestra+Salsa=Salsoul**.
+As a result, a unique equation is created: **Disco+Orchestra+Salsa=Salsoul**.
 
 The representative song "**Salsoul Hustle**" is a perfect symbol of this.
 Congas, timbales, strings, horns, and muted guitars intertwine exquisitely, creating a feel of Latin cheerfulness and Philly sophistication at the same time.
@@ -93,7 +93,7 @@ Montana's arranging philosophy was clear.
 > "The orchestra is your weapon to dominate the club. Make the vibes, harps, and strings dance in the groove."
 
 His ideal is "music that dances gracefully."
-They gave classical architectural beauty to the dance culture that originated on the street, and elevated the music to an "elegant festival."
+They gave classical architectural beauty to the dance culture that originated on the streets, and elevated the music to an "elegant festival."
 
 On the other hand, his extreme perfectionism made the studio musicians nervous, and it is said that each recording took dozens of takes.
 

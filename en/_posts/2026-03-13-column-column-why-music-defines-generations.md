@@ -19,7 +19,7 @@ title: '[Column] Why does music shape generations?'
 Text: mmr｜Theme: Why does music become a symbol of a generation? Deciphering the relationship between music and generational culture from the 20th century to the present, focusing on changes in technology, social movements, and media.
 
 
-When people talk about a certain generation, they often think of music.
+When people talk about a generation, they often think of music.
 
 Rock in the 1960s, disco in the 1970s, synth pop in the 1980s, and grunge and hip-hop in the 1990s.
 Music is not just entertainment; it has functioned as a cultural device that symbolizes the atmosphere, values, and emotions of young people at that time.
@@ -72,13 +72,13 @@ As a result, a structure of ""music for each generation'' was born.
 
 <div class="mermaid">
 graph TD
-A[Early 20th century music is a common culture of all generations] --> B[戦後経済成長]
+A[Early 20th century music is a common culture of all generations] --> B[Postwar economic growth]
 B --> C[Birth of teenager culture]
 C --> D[Youth music market]
 D --> E[Music culture for each generation]
 </div>
 
-This trend began in the 1950s with the explosive popularity of rock and roll.
+This trend became decisive from the 1950s onwards with the explosive popularity of rock and roll.
 
 Rock and roll wasn't just new music.
 It was a culture that symbolized that young people had different values ​​from their parents' generation.
@@ -98,7 +98,7 @@ New music media have always given rise to new generations of culture.
 
 | Period | Main Media | Cultural Influence |
 | ------ | ------- | --------- |
-| 1920s | Radio | Sharing music nationwide |
+| 1920s | Radio | Simultaneous sharing of music nationwide |
 | 1950s | Records | Expansion of youth market |
 | 1970s | Cassette | Personalized Music |
 | 1980s | MTV | Visual Culture and Music |
@@ -191,7 +191,7 @@ The recording industry and television created a culture of sharing the same musi
 For example, rock, disco, hip hop,
 Each influenced youth culture around the world.
 
-However, at the same time, integration with local culture progressed.
+At the same time, however, integration with local culture progressed.
 
 Hip-hop has developed uniquely in each country,
 Rock also produced different styles in each country.
@@ -215,7 +215,7 @@ It becomes a new culture by being reinterpreted in each region.
 
 In the 21st century, the way we listen to music has changed dramatically.
 
-Streaming services offer a huge selection of songs,
+Streaming services provide a huge selection of songs,
 Listeners can access past and present music at the same time.
 
 This has also influenced the structure of generational music.

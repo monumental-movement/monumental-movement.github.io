@@ -49,7 +49,7 @@ color: #fff;
 </style>
 
 
-# **第1章：日本における「環境音楽」という概念の形成**
+# **Chapter 1: Formation of the concept of "environmental music" in Japan**
 
 ## ● 1-1. 1970s: Experimental ground for electronic music and contemporary music
 
@@ -76,7 +76,7 @@ In the 1980s, Japan experienced rapid economic growth and urbanization, but in t
 
 - white wall
 - Minimal design using wood
-- 無印良品に象徴される「簡素の美」
+- "Beauty of simplicity" symbolized by MUJI
 - Zen space design
 
 These environmental philosophies were linked to music and formed the basis for Japan's unique "environmental music."
@@ -95,7 +95,7 @@ Hiroshi Yoshimura (1940–2003) is the most important composer when talking abou
 
 ## ● Representative works
 - **《Music For Nine Post Cards》(1982)**
-  美術館の展示空間を想定して制作された。透明なピアノ/シンセのフレーズ。
+It was created with the exhibition space of an art museum in mind. Transparent piano/synth phrase.
 - **《Green》(1986)**
 One of the most highly rated works. A fusion of natural sounds and soft electronic sounds.
 - **《Soundscape》 series (1986~)**
@@ -112,16 +112,16 @@ We pursued "sound that changes the nature of the space, not just for appreciatio
 
 ---
 
-# **2-2. 高田みどり ― 打楽器が描く時間と空間の音楽**
+# **2-2. Midori Takada - Music of time and space depicted by percussion instruments**
 
-高田みどり（1951–）は、日本の打楽器奏者／作曲家として世界的評価を得ている。
+Midori Takada (1951–) has gained worldwide acclaim as a Japanese percussionist and composer.
 
 ## ● Representative works
 - **《Through the Looking Glass》(1983)**
 A masterpiece that uses percussion instruments, marimba, voice, and ethnic instruments.
 - **《Lunar Cruise》(1989 / co-written with Ryo Kamomiya)**
 
-## ● 音楽的特徴
+## ● Musical features
 - Minimal structure
 - Spatial handling of percussion instrument reverberations
 - Applying the structure of gamelan African music
@@ -190,7 +190,7 @@ Hiroshi Yoshimura and Inoyama Land also participated in the acoustic design of a
 ## ● 4-1. MUJI, PARCO, department store BGM
 
 Commercial facilities in Tokyo in the 1980s focused on music design,
-“生活の質を上げる音響”  
+"Acoustics that improve the quality of life"
 was raised as a theme.
 
 In this context, environmental music went beyond mere background music and became an element that shaped the impression of the space.
@@ -239,7 +239,7 @@ This is because it is extremely modern.
 | 1975 | Hiroshi Yoshimura becomes involved in environmental music planning |
 | 1980 | MUJI begins preparations for environmental music series |
 | 1982 | Hiroshi Yoshimura《Music For Nine Post Cards》 |
-| 1983 | 高田みどり《Through the Looking Glass》、イノヤマランド《Danzindan-Pojidon》 |
+| 1983 | Midori Takada《Through the Looking Glass》, Inoyama Land《Danzindan-Pojidon》 |
 | 1986 | Hiroshi Yoshimura《Green》 |
 | 1987 | Takashi Kokubo《A Dream Sails Out To Sea》 |
 | 1990s | Distribution of some works stopped / On the eve of re-evaluation |
@@ -255,7 +255,7 @@ graph LR
     MUJI[MUJI<br>Environmental music project] --> YH[Hiroshi Yoshimura]
     YH --> JP[Establishment of 80s environmental music]
     MT[Midori Takada] --> JP
-    TK[小久保隆] --> JP
+    TK[Takashi Kokubo] --> JP
     INO[Inoyama Land] --> JP
     JP --> RE[2010s re-evaluation]
     RE --> WW[global ambient boom]
@@ -272,14 +272,14 @@ It is.
 
 - Intermediate area between art and music
 - Response to urbanization
-- 生活文化と家電テクノロジー  
-- シンセサイザーの革新  
+- Lifestyle culture and home appliance technology
+- Synthesizer innovation
 - Collaboration with spatial design
 
 All of these were present in Japan in the 1980s.
 
 The world has reevaluated the
-**Not only the beauty of the music itself, but also the unique Japanese philosophy that resides within it**
+**Not only the beauty of the music itself, but also the unique Japanese philosophy contained within it**
 It is.
 
 Ambient music continues to have new meanings around the world, and the works from the 1980s that gave rise to it will continue to remain an important foundation of music history.

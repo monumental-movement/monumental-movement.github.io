@@ -15,7 +15,7 @@ title: Donna Summer – Dim All The Lights
 ---
 
 
-「Dim All The Lights 」は、1979 年にレーベルCasablancaからリリースされたDiscoトラック。
+"Dim All The Lights" is a disco track released on the label Casablanca in 1979.
 
 Producers are Giorgio Moroder & Pete Bellotte. Arranged by Harold Faltermeyer.
 

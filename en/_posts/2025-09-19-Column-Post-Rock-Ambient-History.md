@@ -18,7 +18,7 @@ title: '[Column] History of post-rock/ambient and changes in equipment [Discussi
 Text: mmr｜Theme: Post-rock and ambient, from their origins in the 1970s to their future prospects
 
 Post-rock and ambient music have their origins in the experimental spirit of the 1970s, and have continued to evolve amid scenes and technological innovations.
-Here, we will provide a comprehensive list of masterpieces, equipment, and cultural backgrounds so that you can have a panoramic view of the period **from the 1970s to the 2020s**.
+Here, we will provide a comprehensive list of masterpieces, equipment, and cultural backgrounds so that you can get a panoramic view of the period **from the 1970s to the 2020s**.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 - **Background**: Rock's heyday. Synthesizers and tape editing technology evolved. Brian Eno advocated "ambient".
 - **Characteristics**: Anti-rock, non-popular approach. Arranging sound on an extension of space and time.
 
-| Work | Artist | Year | Features |
+| Works | Artist | Year | Features |
 |------|--------------|----|------|
 | *Ambient 1: Music for Airports* | Brian Eno | 1978 | Defining the concept of "ambient" |
 | *Another Green World* | Brian Eno | 1975 | Pioneer of post-rock sensibilities |
@@ -51,7 +51,7 @@ color: #fff;
 | *Discreet Music* | Brian Eno | 1975 | Tape Loop Experiment |
 
 **Main equipment**
-- Moog Modular
+-Moog Modular
 - EMS Synthi AKS
 - Revox A77 Tape
 
@@ -64,7 +64,7 @@ color: #fff;
 - **Features**: Drones, rhythmless structures, industrial influences.
 
 
-| Work | Artist | Year | Features |
+| Works | Artist | Year | Features |
 |------|--------------|----|------|
 | *The Pearl* | Harold Budd & Brian Eno | 1984 | Piano + Ambient Sounds |
 | *Treasure* | Cocteau Twins | 1984 | Dream pop ambient |
@@ -83,7 +83,7 @@ color: #fff;
 - **Background**: Diversification of alternative rock after grunge. On the eve of the Internet, an experimental indie scene exploded.
 - **Characteristics**: Non-rock development even though it uses guitar. Long length, dynamic/static contrast.
 
-| Work | Artist | Year | Features |
+| Works | Artist | Year | Features |
 |------|--------------|----|------|
 | *Millions Now Living Will Never Die* | Tortoise | 1996 | Post-rock definition album |
 | *F♯ A♯ ∞* | Godspeed You! Black Emperor | 1997 | Desolate urban music |
@@ -100,14 +100,14 @@ color: #fff;
 ### 2000s: Cinematic Expansion
 
 - **Background**: Post-rock pervades movie soundtracks and advertising. Generalization of digital production environments.
-- **特徴**：大規模なダイナミクス、ポストクラシカルとの交差。
+- **Characteristics**: Large-scale dynamics, intersection with post-classical.
 
-| Work | Artist | Year | Features |
+| Works | Artist | Year | Features |
 |------|--------------|----|------|
 | *Ágætis byrjun* | Sigur Rós | 1999/2000 | Nordic post-rock |
 | *The Earth Is Not a Cold Dead Place* | Explosions in the Sky | 2003 | Cinematic Post-Rock |
 | *The Blue Notebooks* | Max Richter | 2004 | Classical x Ambient |
-| *And Their Refinement of the Decline* | Stars of the Lid | 2007 | 静謐なドローン |
+| *And Their Refinement of the Decline* | Stars of the Lid | 2007 | Tranquil Drone |
 
 **Main equipment**
 - Boss RC-20 Loop Station
@@ -123,12 +123,12 @@ color: #fff;
 
 - **Features**: Immersive experience, field recording, fusion with club culture.
 
-| Work | Artist | Year | Features |
+| Works | Artist | Year | Features |
 |------|--------------|----|------|
 | *Virgins* | Tim Hecker | 2013 | Digital Collapse and Aesthetics |
 | *Replica* | Oneohtrix Point Never | 2011 | Sampling Deconstruction Aesthetics |
 | *Ravedeath, 1972* | Tim Hecker | 2011 | Church organ x noise |
-| *Tomorrow’s Harvest* | Boards of Canada | 2013 | ディストピア的アンビエント |
+| *Tomorrow"s Harvest* | Boards of Canada | 2013 | Dystopian Ambient |
 
 **Main equipment**
 - Eurorack Modular
@@ -139,29 +139,29 @@ color: #fff;
 
 ### 2020s: AI and immersive media
 
-- **背景**：パンデミックによる自宅制作の拡大。AIによる自動作曲、VR/ARと連携した音楽体験。
+- **Background**: Expansion of home production due to pandemic. Automatic composition by AI, music experience linked with VR/AR.
 - **Characteristics**: Growing demand for generative music, installations, and wellness (BGM for meditation).
 
-| Work | Artist | Year | Features |
+| Works | Artist | Year | Features |
 |------|--------------|----|------|
 | *Promises* | Floating Points, Pharoah Sanders & LSO | 2021 | Jazz x Classical x Ambient |
-| *Lamentations* | William Basinski | 2020 | デジタル時代の崩壊美学 |
-| AI Ambient Projects | Various | 2020s | 無限生成型音楽 |
+| *Lamentations* | William Basinski | 2020 | Collapsed Aesthetics in the Digital Age |
+| AI Ambient Projects | Various | 2020s | Infinitely generative music |
 | *Everything* | Slow Meadow | 2022 | Meditative Postclassical |
 
 **Main equipment**
-- AI作曲ツール（例：[AIVA](https://aiva.ai/), [Riffusion](https://www.riffusion.com/)）  
+- AI composition tools (e.g. [AIVA](https://aiva.ai/), [Riffusion](https://www.riffusion.com/))
 - 3D/Spatial Audio (Dolby Atmos compatible)
 - VR/AR compatible DAW (Endlesss, Soundstage VR)
 
 ---
 
-### 系譜図まとめ
+### Genealogy chart summary
 
 <div class="mermaid">
 flowchart TD
     A1970["1970s: Ambient music (Eno, Tangerine Dream)"]
-    A1980["1980s: 美術館文脈 (Cocteau Twins, Talk Talk)"]
+    A1980["1980s: Museum Context (Cocteau Twins, Talk Talk)"]
     A1990["1990s: Birth of post-rock (Tortoise, GY!BE, Aphex Twin)"]
     A2000["2000s: Cinematic (Sigur Rós, EitS, Richter, Stars of the Lid)"]
     A2010["2010s: Drone/Lo-Fi (Tim Hecker, OPN, BoC)"]
@@ -172,10 +172,10 @@ flowchart TD
 
 ---
 
-### 総括
+### Summary
 
 The history of post-rock/ambient music has been a series of challenges, such as ""how to go beyond the framework of rock and depict space and time with sound.'' From tape experiments in the 1970s to AI music in the 2020s, the evolution is shifting from the "materiality of sound" to the "environmental nature of sound."
-未来は、生成AIと身体感覚をつなぐ「没入型の音の建築」によってさらに更新されるだろう。
+The future will be further updated with ""immersive sound architecture'' that connects generative AI and physical sensations.
 
 ---
 
@@ -189,10 +189,10 @@ The history of post-rock/ambient music has been a series of challenges, such as 
 ---
 
 
-### 関連コラム
+### Related columns
 
 [[Column] Post-Rock/Ambient interaction with movies and architecture](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 
 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
 
- [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
+[[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)

@@ -78,7 +78,7 @@ graph TD
 A[era of expensive equipment] --> B[Popularization of samplers]
 B --> C[Generalization of PC production]
 C --> D[free sample culture]
-D --> E[Bedroom producers are on the rise]
+D --> E[Bedroom producers are rapidly increasing]
 E --> F[Democratizing music production]
 F --> G[Music spread in the SNS era]
 </div>
@@ -311,7 +311,7 @@ Notebook PC production.
 
 These are no longer special.
 
-YouTube and SoundCloud were particularly important.
+YouTube and SoundCloud were especially important.
 
 In the traditional music industry,
 
@@ -448,11 +448,11 @@ Anime sample.
 
 Everything starts to mix together.
 
-A large amount of ""unfinished experiments'' that were difficult to occur in the traditional label-driven format were released.
+A large number of ""unfinished experiments'' that were difficult to occur in the traditional label-driven format were released.
 
 This was extremely important.
 
-This is because much of contemporary music is born out of this "experimental space."
+This is because much of contemporary music is born from this "experimental space."
 
 ### Hyperpop and sample feeling
 
@@ -575,7 +575,7 @@ This brings us closer to ""editable materials.''
 flowchart TD
 A[sample culture] --> B[SNS spread]
 B --> C[short video]
-C --> D[meme-ization]
+C --> D[meme]
 D --> E[Re-edit]
 E --> F[Rediffusion]
 </div>

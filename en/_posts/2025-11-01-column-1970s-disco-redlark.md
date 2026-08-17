@@ -81,7 +81,7 @@ They danced with the smell of cigarettes and perfume in the air.
 
 The advertising strategy at the time was based on the image of ""Red Lark = an urbane, free man.''
 The poster features a man and a woman holding cigarettes in their mouths under the lights of a jazz club.
-In the background are Fender Rhodes keys and the sound of ice melting in a glass.
+In the background is a Fender Rhodes keyboard and the sound of ice melting in a glass.
 Everything was designed as a ""musical visual expression''.
 
 ---
@@ -145,7 +145,7 @@ Vinyl records and cigarettes were burning in the same rhythm.
 
 ## 8. Post-disco generation and the reverberations of Red Lark
 
-In the early 1980s, large discotheques such as ""Maharaja" and ""Kisanadu" were born.
+In the early 1980s, large discos such as ""Maharaja" and ""Kisanadu" were born,
 Over time, the music evolved from city pop to eurobeat.
 However, the ""smell of urban decadence and freedom'' at its origin was engraved in the red color of Red Lark.
 

@@ -58,7 +58,7 @@ In the field of music as well, there is a movement to distance itself from the p
 
 Cardboard suddenly appeared in this context. Their music directly expressed the subtle discomforts and indescribable sensations felt in urban life.
 
-> Social changes have led to a more internal expression of individual expression.
+> Changes in society have led to a more internal expression of individual expression.
 
 ---
 
@@ -144,7 +144,7 @@ Rather, there is an attitude of relativizing the framework of genre itself.
 
 ### Expansion of personal production
 
-Sudden Cardboard's activities later had an important meaning in the Japanese indie scene. In particular, it was significant in that it showed that recording at home can be an effective means of expression.
+Sudden Cardboard's activities had an important meaning in the later Japanese indie scene. In particular, it was significant in that it showed that recording at home can be an effective means of expression.
 
 Their practice spread the awareness that ""anyone can make music.'' This is not a technical issue, but an awareness issue.
 
@@ -186,7 +186,7 @@ flowchart TD
 
 ### Resonance with the digital age
 
-In modern times, cardboard works are suddenly being evaluated in a new context. Now that the spread of digital technology has made it easier for individuals to produce music, their DIY spirit has become more realistic.
+In modern times, cardboard works are suddenly being evaluated in a new context. Nowadays, with the spread of digital technology, it has become easier for individuals to produce music, and their DIY spirit has become more realistic.
 
 Additionally, lo-fi sound quality and an aesthetic that affirms imperfection are widely accepted in the contemporary music scene.
 

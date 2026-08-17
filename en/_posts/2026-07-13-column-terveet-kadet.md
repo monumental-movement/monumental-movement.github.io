@@ -15,7 +15,7 @@ title: '[Column] Terveet Kädet──The origins of Finnish hardcore and its imp
 ---
 
 
-## The world's northernmost impulse - the meaning behind the appearance of Terveet Kädet
+## The meaning behind the appearance of Terveet Kädet, the world's northernmost impulse
 
 Text: mmr | Theme: Finland"s Terveet Kädet played some of the world"s fastest hardcore music in the early 1980s. Deciphering its history from its birth to its spread around the world from both historical and cultural perspectives.
 
@@ -79,7 +79,7 @@ D --> E
 
 Around 1980, information flow in Finland was not as fast as it is now.
 
-Foreign records were only available at a limited number of stores, and it took a long time for new releases to arrive. Live tours were not as frequent as in England or West Germany, and there were very few opportunities to see foreign artists in regional cities.
+Foreign records were only available in a limited number of stores, and it took a long time for new releases to arrive. Live tours were not as frequent as in England or West Germany, and there were very few opportunities to see foreign artists in regional cities.
 
 As a result, young musicians had to look for information on their own, plan their own events, and produce their own records.
 
@@ -118,7 +118,7 @@ C --> D
 
 </div>
 
-> Finland's geography was an important factor in fostering an independent hardcore culture.
+> Finland's geography was an important factor in fostering a highly independent hardcore culture.
 
 ---
 
@@ -166,7 +166,7 @@ A["1980 Formed"]
 B["Local live start"]
 C["Independent production"]
 D["Domestic recognition"]
-E["Overseas Tape Exchange"]
+E["Overseas tape exchange"]
 
 A --> B
 B --> C
@@ -187,7 +187,7 @@ At that time, bands such as Discharge from England, Black Flag from the West Coa
 
 Terveet Kädet took a different direction.
 
-Their songs were short, extremely fast, and at times wild and seemingly uncontrollable.
+Their songs were short, extremely fast, and at times so wild that they seemed out of control.
 
 However, there is a consistent driving force to the performance, and even within the chaos, one can sense a clear will.
 
@@ -211,7 +211,7 @@ In the UK, the heavy, war-themed ""D-beat'' represented by Discharge had a great
 
 Among them, Terveet Kädet presented a musicality that does not belong completely to either.
 
-The rhythm is very fast, and the performance has a rough sense of tension. On the other hand, it doesn't just feel like a simple sense of speed, but it also sounds like they intentionally left a sense of instability and chaos.
+The rhythm is very fast, and the performance has a rough sense of tension. On the other hand, it doesn't just sound like a simple sense of speed, but it also sounds like they intentionally leave a feeling of instability and chaos.
 
 The guitars emphasized sharpness rather than depth, and the vocals were styled to release emotions all at once while suppressing melody.
 
@@ -335,7 +335,7 @@ A["1980 Formed"]
 B["Initial members"]
 C["1980s Member Change"]
 D["Continued activities after the 1990s"]
-E["Läjä Äijäläは一貫して在籍"]
+E["Läjä Äijälä has always been there"]
 
 A --> B
 B --> C
@@ -389,7 +389,7 @@ D --> E
 
 After the mid-1980s, hardcore punk around the world reached a major turning point.
 
-In the UK, anarcho punk and crust punk became more prominent, and in the US, fusion with crossover thrash and metal progressed. The scene expanded in Scandinavia as well, moving from its initial explosive momentum to a more diverse range of expressions.
+In the UK, anarcho punk and crust punk became more prominent, and in the US, fusion with crossover thrash and metal progressed. The scene expanded in Northern Europe as well, moving from its initial explosive momentum to a more diverse range of expressions.
 
 Terveet Kädet was not immune to this trend.
 
@@ -503,7 +503,7 @@ root((Terveet Kädet))
 
 ---
 
-## Influence spread to all parts of the world
+## Influence spread all over the world
 
 ### Spread to Northern Europe
 
@@ -523,7 +523,7 @@ In Japan, Terveet Kädet has become well-known among hardcore punk fans since th
 
 In particular, its presence gradually spread through record stores and fanzines that actively introduced foreign independent works.
 
-Although Japan's hardcore scene was developing on its own, Terveet Kädet is often cited as one of the inspirations it received from overseas bands.
+Although Japan's hardcore scene was developing independently, Terveet Kädet is often cited as one of the inspirations from overseas bands.
 
 ### Influence on subsequent genres
 
@@ -558,7 +558,7 @@ A --> G
 
 ## Why is it still talked about today?
 
-Among the hardcore bands that started in the early 1980s, many disbanded after a short period of time.
+Among the hardcore bands that started their activities in the early 1980s, many disbanded after a short period of time.
 
 Terveet Kädet has remained active for many years and continues to be discovered by new generations of listeners.
 
@@ -702,7 +702,7 @@ Although the band has been active for over 40 years, and although there have bee
 
 As a result, Terveet Kädet is not just a 1980s hardcore band, but a representative of Finland's underground culture.
 
-Even today, listeners around the world hear his early works, and new generations of musicians talk about their influence.
+Even today, listeners from all over the world hear his early works, and new generations of musicians talk about their influence.
 
 This is simply because this band embodies the ""attitude to believe in one's own expression,'' which is at the root of hardcore punk culture, rather than the trends of the times.
 

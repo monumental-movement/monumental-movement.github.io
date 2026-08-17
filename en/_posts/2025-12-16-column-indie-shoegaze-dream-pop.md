@@ -70,13 +70,13 @@ Lyrics were often abstract or improvised, and the meaning of language became sec
 
 ### 2-1. Guitar and spatial processing
 
-Dream pop guitars are arranged as sustained sounds rather than riffs or chord progressions.
+Dream pop guitars are arranged as sustained sounds, rather than riffs or chord progressions.
 Delay is used to create overlapping reverberations rather than being synchronized to the beat, and reverb plays the role of melting the contours of the sound.
 
 ### 2-2. Rhythm in the background
 
 The drums and bass don't act as the driving force behind the song, but function as a center of gravity to support the sound image.
-The tempo is relatively constant, and emphasis is placed on the persistence of a state rather than dramatic developments.
+The tempo is relatively constant, and emphasis is placed on the persistence of a state rather than dramatic development.
 
 ---
 
@@ -109,7 +109,7 @@ As a result, the clarity of single notes is lost, but a thicker sound mass is fo
 ### 4-2. Vocal placement
 
 The vocals don't come to the fore, but are embedded among the instruments.
-Lyrics are intentionally kept low in distinguishability, and the voice functions as part of the melodic instrument.
+The lyrics are intentionally kept low in discernibility, and the voice functions as part of the melodic instrument.
 
 ---
 
@@ -125,7 +125,7 @@ The vague outlines, low contrast, and almost monochromatic colors are strongly l
 The images do not tell a story, but are composed of fragments of light, slow motion, and superimposition.
 Camerawork and editing also avoid clear focus and emphasize a sense of visual floating.
 
-["Image exists not as an explanation, but as an extension of sensation"]
+["Image exists not as an explanation but as an extension of sensation"]
 
 ---
 
@@ -188,9 +188,9 @@ Traditional rock mixes typically place vocals and lead instruments in the foregr
 However, in shoegaze/dream pop, this principle is intentionally broken.
 
 Vocals are embedded in the midrange and treated in the same way as guitar and synthesizer reverberations.
-This arrangement creates the effect of giving the listener a bird's-eye view of the entire sound, rather than focusing their attention on one point.
+This arrangement produces the effect of giving the listener a bird's-eye view of the entire sound, rather than concentrating their attention on one point.
 
-["Obfuscating what is the main character is itself a musical intention"]
+["The act of obscuring what is the main character becomes a musical intention in itself."]
 
 ---
 

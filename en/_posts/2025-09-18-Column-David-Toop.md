@@ -73,10 +73,10 @@ He truly viewed music as a ""sound map of the world.''
 
 ---
 
-## 1990s - "Rap Attack" and critique of urban culture
+## 1990s – "Rap Attack" and critique of urban culture
 
 Rap Attack is an innovative book that not only chronicles the dawn of hip-hop, but also connects music, urban culture, and media phenomena.
-Around the same time, he discussed ambient and jungle, and was actively involved in cultural criticism of electronic music.
+At the same time, he discussed ambient and jungle, and was actively involved in cultural criticism of electronic music.
 It can be said that this was the era when Toop's style, which combines criticism and a sense of the field, was established.
 
 | Year | Featured sound sources/artists | Commentary |
@@ -103,7 +103,7 @@ His own ambient works also presented a world of soft and diffused sounds.
 
 ### Since the 2010s - Sound Art and the Archeology of Memory
 
-In works such as ""Sinister Resonance," he explores musings on ""things that cannot be heard" and ""reverberation.''
+In works such as ""Sinister Resonance," he explores musings on ""the inaudible" and ""reverberation.''
 He has expanded his activities to the field of fine art and sound art, expanding music criticism into spatial and philosophical practice.
 Through themes such as memory, silence, and blank space, he reconsiders the sense of the ear from its roots.
 

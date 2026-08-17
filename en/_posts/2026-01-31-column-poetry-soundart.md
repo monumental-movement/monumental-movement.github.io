@@ -170,7 +170,7 @@ P --> A
 
 ---
 
-## Expanded Chapter 1 Reorganization of Radio Art and Recitation
+## Expansion Chapter 1 Reorganization of Radio Art and Recitation
 
 ### Voice as a broadcast media
 

@@ -42,7 +42,7 @@ color: #fff;
 <div class="mermaid">
 flowchart TD
   A["1920s-1950s"] --> B["The Age of Folk Collecting (Lomax et al.)"]
-  B --> C["1960s-1970s: Evolution of portable equipment"]
+  B --> C["1960s-1970s: Evolution of portable devices"]
   C --> D["1980s-1990s: Increase in ambient/field adoption (Eno etc.)"]
   D --> E["2000s-Present: Digitization and the spread of 32-bit float machines"]
 </div>
@@ -105,7 +105,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - At the sound walk workshop, participants were instructed to ""Listen carefully to the sounds you are hearing right now.''
 
-- Spread the idea of ​​reconsidering urban noise as ""poetry of modern cities" rather than ""noisy garbage."
+- Spread the idea of ​​reconsidering urban noise as ""poetry of the modern city" rather than ""noisy garbage."
 
 #### Toshiya Tsunoda
 
@@ -113,11 +113,11 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - Example: A microphone is installed in a cavity under the asphalt of a road to record minute vibrations.
 
-- The method is similar to a scientific experiment, but the results are converted into an aesthetic experience.
+- The method is similar to a scientific experiment, but the results are transformed into an aesthetic experience.
 
 #### Francisco Lopez
 
-- Hand out "eye masks" to the audience and perform a performance where they can listen to the sound in total darkness.
+- Hand out "eye masks" to the audience and perform a performance in which they can listen to the sound in total darkness.
 
 - Aims to "erase the boundary between music and environmental sounds."
 
@@ -154,7 +154,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 #### Alan Lomax and Ampex
 
-- Ampex from the 1950s was very large and weighed several tens of kilograms.
+- The Ampex of the 1950s was very large and weighed several tens of kilograms.
 
 - Lomax used this as a mobile studio to record.
 

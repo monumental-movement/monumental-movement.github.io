@@ -70,7 +70,7 @@ At the time, the BBC had a near monopoly on British broadcasting. Pop music was 
 
 Then came the maritime broadcasting station.
 
-A ship is anchored on the high seas of the North Sea and radio is transmitted from there.
+A ship is anchored on the high seas of the North Sea and a radio signal is transmitted from there.
 
 This is how the earliest form of pirate radio was born.
 
@@ -199,7 +199,7 @@ Play on the radio and appear in clubs.
 
 This cycle created the music scene.
 
-Listeners listen to a DJ play on their radio at home and then go to a club that weekend.
+Listeners listen to a DJ play on the radio at home and then go to a club that weekend.
 
 Radio was directly connected to the city's nightlife.
 
@@ -207,7 +207,7 @@ Radio was directly connected to the city's nightlife.
 
 ---
 
-## Birth of Grime
+## Birth of grime
 
 In the early 2000s, a new genre was born in East London.
 
@@ -309,7 +309,7 @@ timeline
 
 ## Music history created by radio waves
 
-Pirate Radio is not just illegal broadcasting.
+Pirate radio is not just illegal broadcasting.
 
 It was a cultural infrastructure.
 

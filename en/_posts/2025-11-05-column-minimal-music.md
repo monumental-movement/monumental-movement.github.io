@@ -11,7 +11,7 @@ tags:
 - House
 - Rock
 title: '[Column] Expanding trajectory of Minimal Music: Aesthetics of repetition and
-  change from the perspective of Techno, House, and Rock'
+  change as seen from Techno, House, and Rock'
 ---
 
 
@@ -30,7 +30,7 @@ Abandoning the drama and emotional expression that traditional Western music has
 Instead, it has transformed into an art that allows us to listen to "time and structure" itself.
 Terry Riley"s "In C", Steve Reich"s "Piano Phase",
 And Philip Glass's "Einstein on the Beach"——
-They elevated the repetition of sound to a meditative experience rather than a boring experience.
+They elevated the repetition of sound to a meditative experience rather than a boring one.
 
 Eventually, this philosophy permeated the world of electronic music.
 In the constant rhythm of TR-808 and 909,
@@ -75,12 +75,12 @@ This ""free repetition'' is an idea that would later lead to electronic music an
 | Element | Content |
 |------|------|
 | Basic materials | 53 phrases (1-2 measure units) |
-| Tempo | Arbitrary (generally around ♩=120) |
+| Tempo | Any (generally around ♩=120) |
 | Repetition method | Each player moves to the next phrase at their own timing |
 | Effect | Polyrhythm effect due to phase shift |
 
 Steve Reich's next work, Piano Phase (1967), strictly controlled the "discrepancies" in repetition.
-By having two pianists playing the same phrase and one accelerating the tempo slightly,
+By having two pianists play the same phrase and one accelerating the tempo slightly,
 The sound pattern gradually shifts. This "Phase Shifting" is what
 It foresaw the aesthetics of loop structures in later techno.
 
@@ -96,7 +96,7 @@ Continuing to draw geometric sound patterns.
 
 **Characteristics of repetitive structure**
 - Addition/subtraction in module units (Additive Process)
-- Advantage of "pulse" over pitch
+- Advantage of "pulsation" over pitch
 - Fluctuations of emotion based on numerical regularity
 
 Glass's method also influenced **post-rock** and **electronica** from the 1980s onwards.
@@ -131,8 +131,8 @@ Low frequency repetition and reverberation created an acoustic experience that e
 
 ## Chapter 4: Rock and Post-Minimalism - From Brian Eno to Radiohead
 
-Brian Eno's "Music for Airports" (1978)
-Not only is it the father of ambient music, but it is also the origin of ""static minimalism.''
+Brian Eno's Music for Airports (1978)
+It is not only the father of ambient music, but also the origin of ""static minimalism.''
 The accidental overlapping of loop tapes expanded the auditory timeline.
 
 Later, in Radiohead's ""Everything in Its Right Place'' (2000),
@@ -152,7 +152,7 @@ Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
 ### Isao Tomita: Symphony in the electrons
 
 Isao Tomita used a synthesizer to reconstruct classical music in ""electronic repetition.''
-In "Moonlight" (1974), subtle modulation fluctuations shape the sonic space.
+In Moonlight (1974), subtle modulation fluctuations shape the sonic space.
 This sense of "electronic persistence" also applies to later techno-ambient music.
 
 ### Ryoji Ikeda: Minimal data and frequency

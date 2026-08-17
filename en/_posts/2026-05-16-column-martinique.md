@@ -24,7 +24,7 @@ Martinique is a French overseas department located in the Lesser Antilles in the
 
 From the 17th century onward, as France colonized the country, slaves brought from Africa were forced to work on sugarcane plantations. They brought with them not only language and religion, but also a sense of rhythm, singing, dance, and percussion culture.
 
-After that, dances, military music, and church music originating from Europe were mixed with polyrhythms originating from Africa, forming a unique Creole culture. This ""mixing'' is the most distinctive feature of Martinique music.
+After that, dances, military music, and church music originating from Europe were mixed with polyrhythms originating from Africa, forming a unique Creole culture. This "mixing" is the most distinctive feature of Martinique music.
 
 Island music is not simply traditional music. Multiple layers of history overlap, including colonial rule, slavery, immigration, urbanization, tourism, relations with mainland France, and diaspora culture.
 
@@ -107,7 +107,7 @@ D --> F[cultural inheritance]
 E --> F
 </div>
 
-> Bere was not just a folk performing art, but a memory device of a community that had survived a history of oppression.
+> Bere was not just a folk performing art, but a memory device of a community that survived a history of oppression.
 
 ---
 
@@ -129,7 +129,7 @@ Caribbean musicians were active in Paris, forming a cultural hub for the colonia
 
 Alexandre Stelio is known as an important figure in the development of Begin.
 
-He gained popularity as a clarinetist and played a role in spreading Beguine to mainland France. The sophisticated arrangements and dance-friendly rhythms captivated many audiences.
+He gained popularity as a clarinetist and played a role in spreading Beguine to mainland France. With its sophisticated arrangement and dance-friendly rhythm, it captivated many audiences.
 
 During this period, Martinique music changed from "local music" to "cross-border music."
 
@@ -154,7 +154,7 @@ timeline
 
 Carnival culture is extremely important in Martinique.
 
-During the annual carnival, the entire city transforms into a gigantic musical space. A mix of costumes, parades, percussion corps, dance, and political satire, the music reflects society itself.
+During the annual carnival, the entire city transforms into a gigantic music space. A mix of costumes, parades, percussion corps, dance, and political satire, the music reflects society itself.
 
 Carnival was established as a combination of European-originated celebratory culture and the physical culture of African communities.
 
@@ -188,7 +188,7 @@ D --> E[modern club culture]
 
 ### Impact of the 1980s
 
-In the 1980s, a genre emerged that propelled French Caribbean music to the global stage. That is "zouk".
+In the 1980s, a genre emerged that brought French Caribbean music to the global stage. That is "zouk".
 
 Zouk is a dance music that developed mainly in Guadeloupe and Martinique and featured electronic instruments, synthesizers, and powerful rhythm sections.
 
@@ -295,7 +295,7 @@ The revival of Bere, the reappraisal of the Creole language, and the growing int
 
 <div class="mermaid">
 flowchart TD
-A[colonial rule] --> B[cultural suppression]
+A[colonial rule] --> B[cultural oppression]
 B --> C[cultural revival movement]
 C --> D[Bere re-evaluation]
 C --> E[Restoration of the Creole language]
@@ -303,7 +303,7 @@ D --> F[modern music]
 E --> F
 </div>
 
->Behind the joy, Martinique music has always questioned cultural independence.
+> Martinique music has always questioned cultural independence behind the fun.
 
 ---
 
@@ -388,11 +388,11 @@ In Martinique today, traditional music preservation and modernization are progre
 
 While bere workshops and cultural education are held, young artists are also experimenting with fusion with electronic music.
 
-What is important is that it is not just ""preservation of the old style.''
+What is important is that it is not just ""preservation of the old ways.''
 
 Martinique music has historically been mixed. In other words, change itself was tradition.
 
-Therefore, the experiments by the new generation are also in keeping with the essence of Martinique music.
+Therefore, the experiments by the new generation are also in line with the essence of Martinique music.
 
 ### Creole culture in the global era
 
@@ -435,7 +435,7 @@ E --> F
 | 1930s | Caribbean music becomes popular in Paris |
 | 1960s | Cultural revival movement becomes active |
 | 1979 | Formation of Kassav |
-| 1980s | Zouk becomes a worldwide success |
+| 1980s | Zouk becomes a global success |
 | Since the 2000s | Progressive fusion with electronic music and hip-hop |
 
 > The history of Martinique music is a history in which colonial history and cultural creation have progressed simultaneously.

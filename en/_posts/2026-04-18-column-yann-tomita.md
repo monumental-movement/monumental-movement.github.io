@@ -16,7 +16,7 @@ title: '[Column] Yann Tomita: A sound explorer who expanded the horizons of soun
 
 
 
-## Prologue: An entity that redefined music as "material"
+## Prologue: An entity that redefined music as a "material"
 
 Text: mmr｜Theme: The trajectory of an explorer who updated the concept of sound by crossing sampling and modular synths
 
@@ -27,7 +27,7 @@ In the history of Japanese music, Yan Tomita is more than just a musician. His a
 
 A characteristic of Yan Tomita is that he does not rely on existing genres. His attitude of traversing different fields such as pop, dub, electronic music, ethnic music, and environmental sounds while reconstructing them as "materials" was unprecedented at the time. The idea of ​​viewing music not as a completed work but as a collection of editable fragments also overlaps with the foundation of later digital music production.
 
-His approach is to redefine music production as a process of ""recording" and ""relocation." Recorded sounds are no longer fixed records, but become materials that must be rearranged again. Although this idea resonates with the trends of hip-hop, dub, and musique concrète, it is important that it was developed uniquely in Japan.
+His approach is to redefine music production as a process of ""recording" and ""relocation." Recorded sounds are no longer fixed records, but become materials that must be rearranged. Although this idea resonates with the trends of hip-hop, dub, and musique concrète, it is important that it was developed uniquely in Japan.
 
 Furthermore, he has a strong interest in electronic audio equipment itself, and has made modular synthesizers the center of his acoustic experiments. In particular, the fact that he owned systems such as Serge and Buchla and used them as experimental sound generation devices is essential to understanding his musical outlook.
 
@@ -102,7 +102,7 @@ Moreover, this idea would appear more clearly in his later works. Music is not s
 
 In the 1990s, Doopees occupied a unique position among Yan Tomita's activities. Although this project was a pop unit centered around vocalists, its internal structure was extremely experimental.
 
-Doopees' works combine radio-drama-like narratives, fragmented sounds, and sampled audio sources, and are structured as sonic stories rather than songs. In particular, the structure seen in the album ""Doopee Time'' is a series of songs, talk, and sound effects, forming a kind of imaginary broadcast space.
+Doopees' works combine radio-drama-like narratives, fragmented sounds, and sampled sources, and are constructed more as sonic stories than songs. In particular, the structure seen in the album ""Doopee Time'' is a series of songs, talk, and sound effects, forming a kind of imaginary broadcast space.
 
 This method is directly connected to Yang Tomita's sampling philosophy. Sound is not simply arranged as a musical element, but is treated as an element that composes a story or situation. In other words, music and storytelling are integrated on the same level.
 
@@ -148,7 +148,7 @@ The Serge system is relatively compact and flexible, allowing complex signal pro
 
 Yan Tomita used these instruments to focus on ""generating" sounds rather than ""playing" them. Characteristics of his work, such as changes in sound through voltage control, random patching, and acoustic structures that continually change over time, are closely tied to these devices.
 
-Furthermore, this sonic approach functions as the foundation for his activities with Doopees and A.S.L. It is distinctive in that the different fields of pop, experimentation, and research are unified by the same sonic philosophy.
+Furthermore, this sonic approach also functions as the foundation for his activities with Doopees and A.S.L. It is distinctive in that the different fields of pop, experimentation, and research are unified by the same sonic philosophy.
 
 > Modular synths function as the foundation that supports all activities.
 

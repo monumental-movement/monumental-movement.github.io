@@ -20,7 +20,7 @@ title: Pick up High Energy (Hi-NRG) works
 ### E-Rotic – "Willy Use A Billy... Boy"
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-Sexy and catchy euro pop from Germany. As an interpretation of Hi-NRG from the 90"s onwards, it"s a highly addictive track that you'll want to hum.
+Sexy and catchy euro pop from Germany. As an interpretation of Hi-NRG from the 90's onwards, this is a highly addictive track that will make you want to hum it.
 
 #### Tracklist
 ```md
@@ -92,7 +92,7 @@ B2. Higher (Instrumental)
 ### Max Coo & Steve Coo – "Boogie Dancer"
 <a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93%20Boogie%20Dancer.webp"></a>
 
-Vocals by Ken Laszlo add spice. A good number that makes you feel Italo's orthodox and groovy charm.
+Vocals by Ken Laszlo add spice. A great number that makes you feel Italo's orthodox and groovy charm.
 
 #### Tracklist
 ```md
@@ -117,7 +117,7 @@ B3. Boogie Dancer (Verona Beat)
 ### Dave Hammond – "Africa"
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-European-style Italo disco with a Eurobeat style. When you want to warm up the space with danceables.
+Italo disco style developed in Europe, with a Eurobeat style. When you want to warm up the space with danceables.
 
 #### Tracklist
 ```md
@@ -142,7 +142,7 @@ B3. Africa (Dub Mix)
 ### Pseudonym – "You Have The Right To Remain Silent"
 <a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The%20Right%20To%20Remain%20Silent.webp"></a>
 
-An important work involving Hi-NRG's evangelist Ian Levine. A record that feels like a recording of the atmosphere of the club scene at the time.
+An important work involving Hi-NRG's evangelist Ian Levine. A record that feels like a recording of the very atmosphere of the club scene at the time.
 
 #### Tracklist
 ```md

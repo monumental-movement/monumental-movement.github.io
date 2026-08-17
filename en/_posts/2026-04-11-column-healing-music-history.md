@@ -19,7 +19,7 @@ title: '[Column] Science of Healing and Music: History and Present of Healing So
 
 Text: mmr｜Theme: Unraveling the influence of music on the mind and body from history and science, and approaching the essence of healing
 
-In our daily lives, we are unconsciously influenced by sounds. The chirping of birds in the morning, the buzz of a cafe, the quiet melody of a piano. They are not just a background, but exist as the ""environment itself'' that directly affects emotional and physical states.
+In our daily lives, we are unconsciously influenced by sounds. The chirping of birds in the morning, the buzz of a cafe, the quiet melody of a piano. They are not just a background, they exist as the ""environment itself'' that directly affects emotional and physical states.
 
 The connection between music and ""healing'' is not just a subjective feeling. Years of research have revealed that it is closely related to physiological indicators such as brain waves, heart rate, and autonomic nerves. In particular, certain rhythms and frequencies contribute to reducing stress and improving concentration.
 
@@ -64,7 +64,7 @@ In the 20th century, the field of music therapy was established and began to be 
 
 The reason why music brings healing can be explained from a neuroscience perspective.
 
-The human brain responds very sensitively to external sound stimuli. In particular, rhythm and frequency have the property of being synchronized with brain waves. This is called "entrainment".
+The human brain responds very sensitively to external sound stimuli. In particular, rhythm and frequency have the property of synchronizing with brain waves. This is called "entrainment".
 
 The main types of brain waves are:
 
@@ -104,7 +104,7 @@ After that, new age music, drone music, minimal music, etc. evolved, and healing
 
 ---
 
-## Modern Healing Music and Technology
+## Modern healing music and technology
 
 Healing music in modern times is closely tied to technology.
 
@@ -216,7 +216,7 @@ A larger period means a slower rhythm (lower BPM). In healing music, states with
 
 ## Binaural beat interference structure
 
-When you apply slightly different frequencies to the left and right ears, the brain perceives a different rhythm. This is binaural beat.
+When slightly different frequencies are applied to the left and right ears, the brain perceives a different rhythm. This is binaural beat.
 
 <div class="mermaid">
 graph TD
@@ -227,7 +227,7 @@ D --> E[theta wave region]
 E --> F[meditation/deep relaxation]
 </div>
 
-The sounds that actually exist at this time are 200Hz and 210Hz, but the brain perceives the difference between them, the fluctuation of 10Hz. These low-frequency fluctuations are said to be easily synchronized with brain waves.
+At this time, the sounds that actually exist are 200Hz and 210Hz, but the brain perceives the difference between them, the fluctuation of 10Hz. These low-frequency fluctuations are said to be easily synchronized with brain waves.
 
 ---
 

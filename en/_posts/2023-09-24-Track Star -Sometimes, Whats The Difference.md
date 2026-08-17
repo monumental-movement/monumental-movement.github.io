@@ -13,7 +13,7 @@ title: Track Star -Sometimes, What's The Difference
 ---
 
 
-1995年にサンディエゴのSilver Girl RecordsからリリースされたBrian Girgus、Matthew TroyとWyatt Cusickによるバンド「Track Star」による10インチレコードです。
+This is a 10-inch record by the band ""Track Star"' by Brian Girgus, Matthew Troy and Wyatt Cusick, released in 1995 by San Diego"s Silver Girl Records.
 
 #### Tracklist
 ```md

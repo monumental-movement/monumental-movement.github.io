@@ -48,7 +48,7 @@ Rei Kawakubo of [COMME des GARÇONS](https://amzn.to/42fzNDE) has been drawn to 
 
 [Yohji Yamamoto](https://amzn.to/42cl0JT) alternated between tranquil classical music and roaring noise in his show, acoustically visualizing the "white space" and "excess" of clothing.
 
-Noise becomes a device that emphasizes the dismantling of fashion's existing beauty through the ""denial of harmony.''
+Noise becomes a device that emphasizes the dismantling of fashion's existing beauty through the ""negation of harmony.''
 
 ---
 
@@ -127,7 +127,7 @@ Related artists: Throbbing Gristle, Whitehouse, Puce Mary.
 
 ✦ [Rick Owens](https://amzn.to/3KGkWMm)
 
-Produces "ritual immersion" with drone noise and low frequency.
+Creates a "ceremonial immersion" using drone noise and low frequencies.
 
 The sound directly shakes the audience's bodies.
 
@@ -139,7 +139,7 @@ A collision of classical music and noise, and a reverse irradiation of luxury.
 
 Especially noticeable during the Alessandro Michele period.
 
-Related artists: Alessandro Cortini, Fennesz.
+Associated artists: Alessandro Cortini, Fennesz.
 
 ✦ [Vivienne Westwood](https://amzn.to/46DRqyf)
 
@@ -203,7 +203,7 @@ Related artists: Swans, Shellac.
 | [**Vivienne Westwood**](https://amzn.to/46DRqyf) | Sex Pistols, early industrial group | Introduction of anti-establishment and anti-aesthetics |
 | [**Prada**](https://amzn.to/4nonZY9) | Ryoji Ikeda, Oval | Transforming city noise into elegance |
 | [**Alexander McQueen**](https://amzn.to/46wxWLO) | Aphex Twin, Chris Watson | A devastating production of beauty and death |
-| [**Louis Vuitton**](https://amzn.to/3KgB7jB)     | Oneohtrix Point Never、Ben Frost        | 未来的・都市的な実験音     |
+| [**Louis Vuitton**](https://amzn.to/3KgB7jB) | Oneohtrix Point Never, Ben Frost | Futuristic/urban experimental sound |
 | [**Dior**](https://amzn.to/4mBaLWU) | William Basinski, Tim Hecker | Fusion of drones and luxury |
 | [**Saint Laurent**](https://amzn.to/3KlN6we) | Swans, Shellac | Affinity of black leather and roar |
 
@@ -236,7 +236,7 @@ From the noise/experimental music side, contact with high-end brands was also im
 | --------------------- | -------------------------------------------------- | ---------------------------------- | ----------------------------------------------------- |
 | **COMME des GARÇONS** | COMME des GARÇONS FW25 "Small Is Stronger" | Suitable for deciphering the overall atmosphere of the show and the overlap between dark lighting and music | [YouTube](https://www.youtube.com/watch?v=YW0q4spnnj8) |
 | **COMME des GARÇONS** | Spring Summer 2024 | Pay attention to the sound selection and development that reveals the experimental nature of Ray Kawakubo's period | [YouTube](https://www.youtube.com/watch?v=QBmd_Z90GbY) |
-| **COMME des GARÇONS** | Men’s SS2026                                        | 最新コレクションでの演出・空間音響化の傾向を把握しやすい       | [YouTube](https://www.youtube.com/watch?v=14r7GrH1HPM) |
+| **COMME des GARÇONS** | Men"s SS2026 | Easy to understand trends in production and spatial sound in the latest collection | [YouTube](https://www.youtube.com/watch?v=14r7GrH1HPM) |
 | **COMME des GARÇONS** | FW2025/26 | Easy to understand trends in production and spatial sound in the latest collection | [YouTube](https://www.youtube.com/watch?v=2m9G1duJjxQ) |
 | **Prada** | Fall Winter 2025/26 | You can observe the synchronization of lighting and sound during Milan Fashion Week | [YouTube](https://www.youtube.com/watch?v=d3dTdbNBOWI) |
 | **Others (Brand Mix)** | Experience the Glamor – PRADA/GUCCI, etc. | Useful for comparing performances across multiple brands and viewing trends in music selection | [YouTube](https://www.youtube.com/watch?v=hrIOOlCo0ag) |
@@ -250,12 +250,12 @@ From the noise/experimental music side, contact with high-end brands was also im
 
 Material archive of "noise/experimental artists/acoustics that were actually used in shows/campaigns (or whose relationship was clearly reported)"
 
-COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取り込む伝統
+COMME des GARÇONS — A tradition of incorporating experimental sounds/noise into "show music"
 
 | Show / Materials | Featured Artists | Supplementary Points | References |
 | ------------------------------------ | -------------------------------------------------: | ------------------------------------------------------------------------------------ | ----------------- |
-| Comme des Garçons SS15（「赤」などのコレクション回） | **Sunn O)))、Earth（ドローン／ドローン・メタル）を含むドローン系音響** | Dazed の特集で「SS15のサウンドトラックにドローン系バンド（Sunn O))), Earth）が使われた」と報告。ショーの暗い美学と音が強く結びつく事例。 ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com))       | [Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)      |
-| Comme des Garçons (sound produced for fashion shows) | **Florian Hecker** (produces music for fashion/12" release available) | There are reports that Hecker has produced several songs for Comme des Garçons, and a limited edition is being released by Editions Mego. A "contemporary sound" piece exclusively for the show. ([The [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 (collection episode such as "Red") | **Drone-type sounds including Sunn O))), Earth (drone/drone metal)** | Dazed reported in a special feature that ""Drone-type bands (Sunn O))), Earth) were used in the SS15 soundtrack.'' A case in point where the show's dark aesthetic and sound are strongly connected. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons (sound produced for fashion shows) | **Florian Hecker** (produces music for fashion/12" releases available) | There are reports that Hecker has produced several songs for Comme des Garçons, and a limited edition has been released by Editions Mego. A "contemporary sound" piece exclusively for the show. ([The [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | SS14/Archive playlist, etc. | Show playlist (mixture of experimental sounds, environmental sounds, and noise) | Example of a sound collage for a show uploaded to Dazed's SoundCloud/playlist, etc. Convenient for "verifying" show sound sources. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
 ---
@@ -314,7 +314,7 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 | ------------------- | -------------------- |-------------------------- |
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); Shows playlist — [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Sound design: **BFRND** (Show exclusive score)/Industrial sound usage example |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 "TEMPLE" — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 etc. (many) | Drone/Low frequency production. Immersive noise production can be confirmed from the show footage |
-| **Alexander McQueen**    | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)  | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）   | 
+| **Alexander McQueen** | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery & Alessandro Cortini** appointed as campaign song (song "At First Sight") |
 | **Louis Vuitton** | Various show & afterparty records (example archives) — Daft Punk/Virgil Abloh's DJ relationships, etc. (multiple) | In the past, **Daft Punk** provided song editing to LV and also used **Dev Hynes (Blood Orange)** for the score (Virgil Abloh period) |
 | **Dior** | Dior (various campaigns/show videos) | There are many cases in which sound designers such as Frédéric Sanchez are involved, and there is a connection with ambient/drone-type production |
 
@@ -338,7 +338,7 @@ The roar that echoes on the runways of the 21st century is proof that brands are
 
 ---
 
-### 関連コラム
+### Related columns
 
 
 🔗 [[Column] History and masterpieces of Experimental Music: From its origins to the present](https://monumental-movement.jp/Column-Experimental-Music)

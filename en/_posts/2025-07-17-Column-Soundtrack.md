@@ -87,9 +87,9 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Everything from full scores to unreleased songs and alternate takes can be delivered in high resolution.
+Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
 
-■Subscription (Spotify / Apple Music, etc.)
+■Subscription (Spotify/Apple Music, etc.)
 
 **We are now in an era where we listen to soundtracks**.
 
@@ -103,11 +103,11 @@ The boundary between "functionality" and "artistic" in film music is once again 
 
 flowchart TD
   A["🎞 Sound on film (1930s-1960s) Optical recording → magnetic recording. Stereo conversion and improved sound quality"]
-  B["💿 Records (1950s-1980s) General distribution of film music. Mainly recording highlights."]
-  C["📼 Cassette / 8-track (1970s-1980s) Popularity in home and car playback devices. Portability of movie music."]
+  B["💿Records (1950s-1980s) General distribution of film music. Mainly recording highlights."]
+  C["📼 Cassette / 8-track (1970s-80s) Popularity in home and car playback devices. Portability of movie music."]
   D["💽 CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
   E["📀 DVD/Blu-ray (1990s and later) Re-experience the soundtrack with video + 3D sound"]
-  F["💻Digital sound source (2000s~) MP3/FLAC, etc. High-resolution distribution and communication by independent artists"]
+  F["💻Digital sound sources (2000s~) MP3/FLAC, etc. High-resolution distribution and communication by independent artists"]
   G["☁ Subscription (2010s~) The era of listening to movie music. Create a playlist and redefine it"]
 
   A --> B --> C --> D --> E --> F --> G
@@ -199,7 +199,7 @@ Scores that give you new discoveries when you listen to them on CD (e.g. music b
 
 A soundtrack that "evokes memories" by being separated from the images
 
-The emergence of next-generation media that is reintegrated with video, such as game music and VR
+The emergence of next-generation media that is reintegrated with images, such as game music and VR
 
 
 <hr>

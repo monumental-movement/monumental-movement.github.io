@@ -15,7 +15,7 @@ title: Ampersand – Fake Motherfuckerz
 
 Ampersand is a unit formed by Benjamin Westermann and Henrik Bueren.
 
-「Fake Motherfuckerz」は、ベルギーのDJ／プロデューサーStefaan Vandenberghe別名Dr. Lektroluv主宰のベルギー・エレクトロレーベルLektroluvから、2008年にリリースしたTechno／Electroトラック。
+"Fake Motherfuckerz" is a Techno/Electro track released in 2008 on Belgian electro label Lektroluv, headed by Belgian DJ/producer Stefaan Vandenberghe aka Dr. Lektroluv.
 
 #### Tracklist
 ```md

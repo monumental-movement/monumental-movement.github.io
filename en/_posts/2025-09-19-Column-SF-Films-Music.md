@@ -17,7 +17,7 @@ title: '[Column] Relationship between science fiction movies and music: History 
 
 Text: mmr｜Theme: About the inseparable relationship between science fiction movies and music
 
-Explains the relationship between science fiction movies and music from the historical background, musical methods, and representative works. From the fusion of synthesizers and orchestras to musical expression in the AI ​​era
+Explains the relationship between science fiction movies and music from historical background, musical methods, and representative works. From the fusion of synthesizers and orchestras to musical expression in the AI ​​era
 
 ---
 
@@ -122,7 +122,7 @@ The music used in science fiction movies has the following characteristic approa
 
 ## Modern impact
 
-* **Game music/VR experience**: Follows the method of movie music such as "Mass Effect" and "Cyberpunk 2077".
+* **Game music/VR experience**: Follows the method of film music such as "Mass Effect" and "Cyberpunk 2077".
 * **Spread into music genres**: There are many genres derived from science fiction film music, such as synthwave, dark ambient, and electronica.
 * **AI music generation**: The vision of the future depicted in science fiction movies is becoming a reality as automatic music composition by AI and immersive experiences in VR space.
 

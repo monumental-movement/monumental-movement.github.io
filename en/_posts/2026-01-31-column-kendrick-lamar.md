@@ -36,7 +36,7 @@ Furthermore, his story cannot be reduced to self-praise or success stories. Rath
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -46,25 +46,25 @@ color: #fff;
 
 
 
-## Comptonという叙事詩的舞台
+## The epic stage of Compton
 
 ### Geography and reality
 
 Kendrick Lamar Duckworth was born in 1987 in Compton, California. This city has been a symbol of West Coast gangsta rap since N.W.A. It was a space where violence, poverty, police power, and racial issues were embedded in everyday life. Kendrick's narrative never departs from this concrete sense of place.
 
-コンプトンは単なる背景ではなく、物語を規定する力を持つ。移動経路、交差点、住宅街、ファストフード店といった具体的なディテールが繰り返し登場し、抽象化を拒む。叙事詩における都市国家や戦場のように、この街自体が一つの登場人物として機能する。
+Compton is more than just a backdrop; it has the power to define the story. Concrete details such as travel routes, intersections, residential areas, and fast food restaurants appear repeatedly and resist abstraction. Like a city-state or a battlefield in an epic poem, the city itself functions as a character.
 
 ### Narrator's position
 
-彼は「外から俯瞰する解説者」ではなく、「内部に生きる当事者」として語る。その語り手は一貫して固定されているわけではなく、少年、観察者、加害者、被害者、預言者へと変化する。視点の揺れは、単純な善悪二元論を拒否し、現実の複雑さをそのまま保持する。
+He speaks not as a ""commentator looking in from the outside," but as a ""person living on the inside." The narrator is not fixed throughout, but changes from boy to observer to perpetrator to victim to prophet. The fluctuation of perspective rejects the simple dualism of good and evil and preserves the complexity of reality as it is.
 
-この多視点構造は、古典叙事詩で見られる神々と人間、英雄と語り部の往復に似ている。Kendrick は自分自身を主人公に置きながらも、完全に同一化しない距離を保つ。
+This multi-view structure is similar to the back and forth between gods and humans, heroes and storytellers seen in classical epic poetry. Kendrick places himself in the lead role, yet maintains a distance from which he does not identify completely.
 
 > Kendrick's story includes moments where Compton itself becomes the storyteller.
 
 ---
 
-## Section.80：章立てされた世代の物語
+## Section.80: The story of generations divided into chapters
 
 ### The theme of generations
 
@@ -82,7 +82,7 @@ Although each song seems to be an independent short story, they are connected by
 
 ### The entire album is a story of one night
 
-2012"s Good Kid, m.A.A.d City was the first time Kendrick Lamar"s epic structure was fully realized. The entire album is structured as one day spent in Compton.
+2012"s Good Kid, m.A.A.d City was the first time Kendrick Lamar"s epic structure came to full fruition. The entire album is structured as one day spent in Compton.
 
 ### Narrative device called skit
 
@@ -90,10 +90,10 @@ Skits such as voicemails from parents, gunshots, and conversations with friends 
 
 <div class="mermaid">
 flowchart LR
-A[morning outing] --> B[仲間との合流]
+A[morning outing] --> B[meeting up with friends]
 B --> C[conflict and violence]
 C --> D[death and regret]
-D --> E[内省と祈り]
+D --> E[reflection and prayer]
 </div>
 
 ### Transformation of the protagonist
@@ -122,7 +122,7 @@ The dialogue with Tupac in the final song evokes the mythical motif of a convers
 
 ---
 
-## DAMN.：時間を逆行する悲劇構造
+## DAMN.: Tragic structure that goes backwards in time
 
 ### A two-way story
 
@@ -142,7 +142,7 @@ Each song symbolically deals with human emotions and sins, and takes on a religi
 
 In this 2022 film, the story dives deep from society to the inner world of the individual. Themes of trauma, family, and healing come to the fore.
 
-### 二部構成の意味
+### Meaning of two-part structure
 
 The dichotomy of Big Steppers and Mr. Morale separates the outward role from the introspective self.
 
@@ -155,7 +155,7 @@ The dichotomy of Big Steppers and Mr. Morale separates the outward role from the
 * 1987: Born in Compton
 * 2011: Section.80 announced
 * 2012: good kid, m.A.A.d city announced
-* 2015年：To Pimp a Butterfly 発表
+* 2015: To Pimp a Butterfly announced
 * 2017: DAMN. Announcement
 * 2022: Mr. Morale & the Big Steppers announced
 

@@ -57,7 +57,7 @@ Stars such as Zhang Guorong, Liu Dehua, and Wang Fei were both actors and singer
 ### Representative artists and characteristics
 
 * Wang Fei
-  浮遊感のある声とオルタナティブ志向の楽曲で、都市的孤独を象徴
+Symbolizes urban loneliness with a floating voice and alternative-oriented songs
 
 * Zhang Guorong
 Wide range of emotional expressions, suitable for everything from love stories to dramas.
@@ -70,7 +70,7 @@ Providing many dramatic songs with powerful vocals
 
 ### Drama of the theme song
 
-The theme song was not just an ending, but also served to reinforce the emotional core of the story. Especially in romantic movies and noir films, the melody of the theme song remains strongly in the memory of the audience.
+The theme song was not just an ending, but also served to reinforce the emotional core of the story. Especially in romantic films and noir films, the melody of the theme song remains strongly in the memory of the audience.
 
 In Angel's Tears, music also functions as a device to visualize the psychological distance between the characters.
 
@@ -117,7 +117,7 @@ Main track examples:
 * Yumeji's Theme
 *Latin music insert
 
->Soundtracks have become established as standalone works, forming a culture where they are listened to outside of movies.
+>Soundtracks have become established as standalone works, forming a culture in which they are listened to outside of movies.
 
 ---
 
@@ -179,7 +179,7 @@ timeline
     1999 : 国際市場を意識した音楽制作が主流化
 </div>
 
-> In the late 1990s, music became increasingly international, and Hong Kong cinema entered a new phase.
+> In the late 1990s, music became more international, and Hong Kong cinema moved to a new stage.
 
 ---
 

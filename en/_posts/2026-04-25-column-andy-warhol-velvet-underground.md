@@ -17,7 +17,7 @@ title: '[Column] The acoustic space called Factory: Andy Warhol and the Velvet U
 
 ## Establishment of a place called Factory
 
-Text: mmr | Theme: Delving into the core of culture through the reality of the "Factory" space in New York in the 1960s, where art production and music intertwined in an undifferentiated manner, its acoustic and social meaning, and anecdotes from the people who gathered there.
+Text: mmr｜Theme: Delving into the core of culture through the reality of the "Factory" space in New York in the 1960s, where art production and music intersected in an undifferentiated manner, its acoustic and social meaning, and anecdotes of the people who gathered there.
 
 
 ### Why was the silver room filled with sound?
@@ -30,7 +30,7 @@ Among the testimonies from those days, there is one that says, ""The silence at 
 
 Therefore, The Velvet Underground's music was not just background music, but continued to play as proof that the space was alive.
 
-An often-told anecdote is that Warhol gave little direction to visitors, simply letting them exist. He even accepted ""a state in which nothing is happening'' as a work of art.
+An often-told anecdote is that Warhol gave little direction to visitors, simply letting them exist. He even accepted "the state where nothing is happening" as a work of art.
 
 > Factory was a testing ground for turning uncontrolled events into works of art.
 
@@ -85,7 +85,7 @@ Anecdotally, one audience member experiencing EPI for the first time is said to 
 
 <div class="mermaid">
 flowchart TD
-A[music] --> B[映像]
+A[music] --> B[picture]
 B --> C[light]
 C --> D[audience]
 D --> E[immersion state]
@@ -139,7 +139,7 @@ C --> D[new perception]
 
 ### People gathered at Factory
 
-Factory has countless anecdotes.
+There are countless anecdotes about Factory.
 
 For example, it was common for visitors to directly appear in movies. There was no script, just cameras rolling.
 

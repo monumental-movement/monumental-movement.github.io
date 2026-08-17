@@ -37,7 +37,7 @@ All of them line up on the same timeline.
 In this situation, music is not experienced as new, but as layers of time.
 And the emotion that crossed all these layers was nostalgia.
 
-インターネットは、世界最大の音楽ライブラリであると同時に、**世界最大の記憶装置**でもある。
+The Internet is not only the world"s largest music library, but also the world"s largest storage device.
 
 > When the Internet transformed music from a "culture of the present" to a "culture of time," nostalgia became its central emotion.
 
@@ -48,7 +48,7 @@ And the emotion that crossed all these layers was nostalgia.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -78,7 +78,7 @@ Romantic artists painted lost eras and landscapes.
 A similar trend can be seen in music.
 
 In classical music, a movement was born to reinterpret folk songs and folk music.
-In jazz, a culture of reperforming standard songs was formed after the 1920s.
+In jazz, a culture of re-performing standard songs was formed after the 1920s.
 Even in rock, there was a return to the blues in the 1960s.
 
 In other words, music has always looked back on the past.
@@ -116,7 +116,7 @@ As a result, people can consume past cultures as if they were real experiences.
 On YouTube
 
 * 1980s TV commercial
-* 1990s game music
+* 1990年代ゲーム音楽
 *VHS recorded anime
 * Late night radio
 
@@ -153,7 +153,7 @@ Vaporwave is
 
 * Capitalism
 * Consumer culture
-* デジタル社会
+* Digital society
 
 It began as an art that satirizes.
 
@@ -177,7 +177,7 @@ It was an emotional expression for the internet age.
 
 ---
 
-## Lo-fi hip-hop and everyday nostalgia
+## Lo-fi hip hop and everyday nostalgia
 
 ### Internet background music
 
@@ -212,7 +212,7 @@ A warm, slightly cloudy sound.
 
 It is in contrast to the perfection of digital music.
 
-Nostalgia functions here as a **sound of reassurance**.
+Nostalgia functions here as a sound of reassurance.
 
 > Lo-fi hip hop has become a symbol of "quiet nostalgia" in a digital society.
 

@@ -20,13 +20,13 @@ title: '[Column] Creation alone: ​​The era of the bedroom producer'
 
 Text: mmr｜Theme: From one computer to the world. The revolutionary history of music born in the bedroom and its social and cultural meanings
 
-It is no longer just yesterday that music production can now be completed in a ""room''.
+It is no longer just yesterday that music production can now be completed in a ""room.''
 However, this has become "normal" since the 21st century, when digitalization has reached its maximum.
 The magic of music production, once confined to the walls of a studio, has finally descended into everyone's rooms thanks to laptops and inexpensive audio interfaces, DAWs (Digital Audio Workstations).
 
 A bedroom producer is not just someone who creates sound alone.
 They are the embodiment of the ""democratization" of the music industry, and at the same time they are also a symbol of the ""creativity of solitude."
-With direct access to the world via Spotify and SoundCloud, the bedroom is no longer a private space. Through its network, it has become the base of a new music city = digital city.
+Nowadays, with direct access to the world via Spotify and SoundCloud, the bedroom is no longer a "private space." Through its network, it has become the base of a new music city = digital city.
 
 ---
 
@@ -84,7 +84,7 @@ SoundCloud in 2007, YouTube in 2005.
 These platforms have become ""windows'' for individuals to communicate directly to the world.
 The era has come when music can reach listeners around the world with just one piece of data, without having to go through traditional label contracts or distribution networks.
 
-### Individuals discovered
+### Individuals Discovered
 
 Clairo, Cuco, Joji, Porter Robinson, Madeon, Sasakure.UK….
 What they all have in common is that they all started in a room.

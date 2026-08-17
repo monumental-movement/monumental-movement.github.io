@@ -70,8 +70,8 @@ The band's first sound mixes the rapidity of late punk/hardcore with the amorpho
 
 ### **The Shah Sleeps in Lee Harvey's Grave**
 
-* Guitar mainly uses directly recorded feedback
-* The saxophone plays irregularly and destroys the melody.
+* Guitar mainly uses direct recorded feedback
+* The saxophone plays irregularly, destroying the melody.
 * Lyrics are fragmentary and have a strong performance feel.
 
 ### **Lady Sniff**
@@ -139,7 +139,7 @@ flowchart TD
 # **5. Hairway to Steven (1988): Longer and more structured**
 
 Long songs and short songs are arranged alternately, and the "outline of the song" becomes more pronounced than before.
-ライブ再現性を高めるため、スタジオ録音も明確な役割分担で進んだ。
+In order to improve live reproducibility, studio recording also progressed with a clear division of roles.
 
 <div class="mermaid">
 flowchart TD
@@ -172,7 +172,7 @@ Although the melody is brought to the fore, the noise and strangeness are mainta
 
 <div class="mermaid">
 flowchart TD
-    A["Melody focused recording"] --> B["ギター/サックス加工"]
+    A["Melody focused recording"] --> B["Guitar/Saxophone processing"]
     B --> C["Rhythm pattern optimization"]
     C --> D["Noise/psychedelic effect adjustment"]
     D --> E["Mix Mastering"]
@@ -182,7 +182,7 @@ flowchart TD
 
 # **7. Weird Revolution (2001): Electronic sound introduction period**
 
-In this album, sampler digital effects were introduced in earnest, and the band's sonic image changed significantly.
+With this album, sampler digital effects were introduced in earnest, and the band's sonic image changed significantly.
 
 ## 7. Detailed explanation of all album songs and recording method
 
@@ -194,7 +194,7 @@ In this album, sampler digital effects were introduced in earnest, and the band'
 
 * Directly recorded guitar riff, improvised performance with layered distortion
 * The saxophone forms a cacophony with short phrases
-* The drums use a lot of odd time signatures, and in the studio they basically record in one take.
+* The drums use a lot of odd time signatures, and in the studio they are basically recorded in one take.
 
 2. **Lady Sniff**
 
@@ -206,7 +206,7 @@ In this album, sampler digital effects were introduced in earnest, and the band'
 
 <div class="mermaid">
 flowchart TD
-    A["ギター直録り"] --> B["Distortion processing"]
+    A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
     D --> E["Whole mix (Lo-Fi)"]
@@ -228,7 +228,7 @@ flowchart TD
 flowchart TD
     A["Multi-track recording"] --> B["Guitar/Sax Effect"]
     B --> C["Drum odd time signature recording"]
-    C --> D["即興パート追加"]
+    C --> D["Add improvised part"]
     D --> E["Mixing/Mastering (Lo-Fi)"]
 </div>
 
@@ -253,7 +253,7 @@ flowchart TD
 ### 7.4 Hairway to Steven (1988)
 
 * Psychedelic and Gothic fusion
-* 曲ごとに録音スタイルを変更（長編曲・短編曲の対比）
+* Change the recording style for each song (comparison between long songs and short songs)
 * Experimental parts remain while emphasizing live reproducibility
 
 <div class="mermaid">
@@ -269,7 +269,7 @@ flowchart TD
 ### 7.5 Independent Worm Saloon (1993)
 
 * Improved recording quality in line with major debut
-* スタジオマルチトラック使用、曲構成を整備
+*Using studio multi-track, improving song structure
 * Separately record guitar, bass, drums, and saxophone to precisely control noise and effects
 
 <div class="mermaid">
@@ -302,7 +302,7 @@ flowchart TD
 
 * Introduced electronic sound and sampler
 * Fusion with traditional analog sound
-* Compliant with major label standards while remaining experimental
+* Comply with major label standards while remaining experimental
 
 <div class="mermaid">
 flowchart TD
@@ -327,7 +327,7 @@ The production can be systematized as follows based on the facts alone.
 * Abstract video using 16mm film
 * Guitar feedback is emphasized on the PA console
 * Twin drums positioned in the center of the stage
-* サックスは不協和音即興
+* Saxophone dissonant improvisation
 
 <div class="mermaid">
 flowchart LR
@@ -356,7 +356,7 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    A["電子音・サンプラー"] --> B["Live PA Sync"]
+    A["Electronic sound/sampler"] --> B["Live PA Sync"]
     B --> C["Video: Digital Projection"]
     C --> D["Sync with band performance"]
     D --> E["High resolution lighting system"]
@@ -392,7 +392,7 @@ flowchart TD
 
 The equipment used by Butthole Surfers varies greatly over the years, but the following remains in the literature.
 
-## 9.1 ギター / アンプ
+## 9.1 Guitar/Amplifier
 
 *Gibson SG
 *Fender Stratocaster
@@ -414,7 +414,7 @@ The equipment used by Butthole Surfers varies greatly over the years, but the fo
 * Alto saxophone (mainly improvisational)
 * Added delay/reverb processing in PA
 
-## 9.5 電子音（2000年代）
+## 9.5 Electronic sounds (2000s)
 
 * Sampler: AKAI model
 * Synth pad: Roland
@@ -431,7 +431,7 @@ flowchart TD
     C --> D["1987–1989: Expansion into Europe and psychedelic period"]
     D --> E["1993: Transition to major period"]
     E --> F["1996: Electriclarryland period"]
-    F --> G["2001: Introduction of electronic sounds"]
+    F --> G["2001: Introduction of electronic sound"]
     G --> H["Afterwards: Continuation of irregular activities"]
 </div>
 
@@ -439,10 +439,10 @@ flowchart TD
 
 # **11. Summary: The musical significance of Butthole Surfers**
 
-Butthole Surfers' music is often described as "bizarre" and "crazy."
+Butthole Surfers' music is often described as "bizarre" and "insane."
 However, at its core it is an **experiment with structure**.
 
-*Dissonance is not improvised, but "intended arrangement"
+* Dissonance is not improvised but "intended arrangement"
 * Noise is part of acoustic design
 * The chaos of a live performance is the precise coordination of lighting, video, and PA.
 * Psychedelia is structured like a story

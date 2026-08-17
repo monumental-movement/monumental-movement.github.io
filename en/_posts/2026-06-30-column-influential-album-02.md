@@ -99,7 +99,7 @@ This is more like "gathering materials" than "performance."
 
 Teo Macero's presence determined the essence of this work.
 
-He turned the music into "compilations" by cutting up and reconstructing the recorded tapes.
+He turned the music into a "compilation" by cutting up and reconstructing the recorded tapes.
 
 * Loop phrases
 * Rearrange sections
@@ -111,7 +111,7 @@ In other words, here, ""editing" rather than ""performance" is the act of compos
 <div class="mermaid">
 flowchart TD
 A[impromptu session]
-B[Mass recording]
+B[mass recording]
 C[tape editing]
 D[Rebuild]
 
@@ -131,15 +131,15 @@ The biggest feature of ""Bitches Brew" is its ""blurring of genres."
 * Not even funk
 * But everything is included
 
-この状態は後に「ジャズ・ロック」や「フュージョン」と呼ばれるが、本質的にはどのラベルにも収まらない。
+This state was later called ""jazz-rock" or ""fusion," but it essentially defies any label.
 
 ---
 
-## 音楽の主体が「個人」から「システム」へ
+## The subject of music has shifted from "individuals" to "systems"
 
 Traditionally, jazz focused on the individuality of the soloist.
 
-しかし本作では構造が逆転する。
+However, in this work, the structure is reversed.
 
 * Individual performance → system output
 * Improvisation → Materialization
@@ -149,15 +149,15 @@ Music will no longer be determined by who played it, but by how it was edited.
 
 ---
 
-## 後続音楽への影響
+## Influence on subsequent music
 
-この作品の影響はジャンル横断的である。
+The influence of this work cuts across genres.
 
 * Fusion (Weather Report)
-* プログレッシブ・ロック（King Crimson）
+* Progressive Rock (King Crimson)
 * Ambient/electronic music (Brian Eno)
 
-特に重要なのは、「編集＝作曲」という概念の一般化である。
+Of particular importance is the generalization of the concept of ""editing = composition.''
 
 ---
 
@@ -171,7 +171,7 @@ However, at this stage, music is still within the scope of ""genre reorganizatio
 
 In the top works, the genre itself loses its meaning.
 
-> 「『Bitches Brew』はジャズを破壊することで、新しい音楽の編集思想を生み出した作品である。その歴史的転換点として本ランキング第11位に位置付ける。」
+> "'Bitches Brew' is a work that created a new musical editorial philosophy by destroying jazz. We rank it 11th in this ranking as a historical turning point."
 
 
 ---
@@ -181,7 +181,7 @@ In the top works, the genre itself loses its meaning.
 
 ## The Rise and Fall of Ziggy Stardust and the Spiders from Mars
 
-### 「キャラクターがアーティストを乗っ取った瞬間」
+### "The moment the character took over the artist"
 
 The Rise and Fall of Ziggy Stardust and the Spiders from Mars, released in 1972, was the definitive album in rock history that disrupted the relationship between "self and work."
 
@@ -196,23 +196,23 @@ It was also the moment when rock moved from ""representation of reality" to ""a 
 Until the 1960s, rock music was basically an expression of the ""real self.''
 
 * Real experience
-* 社会批評
-* 感情の吐露
+* Social criticism
+* Expression of emotions
 
-しかし『Ziggy Stardust』では、この前提が意図的に破壊される。
+But in "Ziggy Stardust," this premise is deliberately subverted.
 
-主人公Ziggy Stardustは、地球に降り立つ架空のロックスターであり、メッセージと終末思想を背負った存在である。
+The main character, Ziggy Stardust, is a fictional rock star who descends on Earth, carrying a message and an apocalyptic ideology.
 
 In other words, this album
 
 **Not "a work in which an artist plays a character"
-「キャラクターがアーティストを支配する作品」**
+"A work in which the character controls the artist"**
 
 It is.
 
 ---
 
-## コンセプト・アルバムの新しい形
+## A new form of concept album
 
 Recording was done at Trident Studios, with producer Ken Scott constructing the sound.
 
@@ -221,14 +221,14 @@ Features are as follows:
 * Song order with story
 * Lyrics unified from character perspective
 * Theatrical vocal expression
-* ギター中心のグラムロック構造
+* Guitar-centered glam rock structure
 
 <div class="mermaid">
 flowchart TD
 A[David Bowie]
 B[Ziggy Stardust]
 C[fictional character]
-D[アルバム構造]
+D[album structure]
 
 A --> B --> C --> D
 D --> E[Narrative rock]
@@ -246,7 +246,7 @@ What is important is the ""fluidization of identity.''
 * Gender ambiguity
 * Collapse of the boundary between stage and reality
 * Confusion between performer and role
-* 観客との距離消失
+* Loss of distance from the audience
 
 Here, for the first time, rock moves from ""self-expression" to ""deconstruction of the self."
 
@@ -266,9 +266,9 @@ This later became the standard structure for concept albums.
 
 ## "Reality collapse" that occurred at a live performance
 
-ツアー終盤、Bowieは突如としてZiggyを“殺す”ことを宣言する。
+At the end of the tour, Bowie suddenly declares that he will "kill" Ziggy.
 
-これは単なる演出ではなく、キャラクターと現実の境界を意図的に断ち切る行為だった。
+This was not just a performance, but an act that intentionally severed the boundaries between character and reality.
 
 The audience loses ""who are they looking at?'' and the concept of subjectivity in rock is shaken.
 
@@ -293,7 +293,7 @@ It was further extended to Roxy Music and subsequent glam/art rock as a whole.
 
 However, the focus is still on the area of ​​""story and direction'' rather than the structure of the music itself.
 
-上位作品群では、音楽はさらに社会構造や技術構造そのものへと侵食していく。
+In the top works, music further invades the social and technological structures themselves.
 
 > "'Ziggy Stardust" transformed rock from a real record into a fictional stage, and introduced a "character' subject to music. Due to its innovation, it is ranked 12th in this ranking."
 
@@ -328,13 +328,13 @@ These are not unified, but rather remain in conflict.
 
 The recording conditions were also less than ideal, with sessions held in the basement of Villa Nellcôte, both acoustically and technically unstable.
 
-However, that instability is the essence of this work.
+However, this instability is the essence of this work.
 
 ---
 
 ## Editing is the "art of post-processing"
 
-Producer Jimmy Miller completed the album by reconstructing fragmented takes.
+Producer Jimmy Miller completed the album by reconstructing fragmentary takes.
 
 There is no ""completed performance'' here.
 
@@ -369,7 +369,7 @@ However, what exists in its place is the ""memory of the community known as the 
 * The boundaries between songs are vague
 * Lack of homogeneity in performance
 
-Even so, the band remains viable because the band itself functions as a "social unit."
+Even so, the reason why it is possible is that the band itself functions as a "social unit."
 
 ---
 
@@ -381,7 +381,7 @@ Although the Stones are a British band, they are completely obsessed with the co
 
 * Delta Blues
 * New Orleans R&B
-* サザン・ソウル
+* Southern Soul
 
 They appear not as reproductions but as ""accumulations of quotations''.
 
@@ -395,13 +395,13 @@ In this work, there is no longer a rock center.
 * Obfuscation of song structure
 * Melting genre boundaries
 
-ロックはここで「体系」ではなく「状態」になる。
+Lock here becomes a "state" rather than a "system."
 
 ---
 
 ## Why is it ranked 13th?
 
-""Exile on Main St." is not the final form of rock, but ""the last community that was established while collapsing."
+""Exile on Main St." is not a complete version of rock, but ""the last community that was established while collapsing."
 
 However, in his later works, music became even more personalized, electronic, and politicized.
 
@@ -412,7 +412,7 @@ In other words, this work is located at the ultimate end point of analog band cu
 ---
 
 
-# 第2回 Part4（14位）
+# 2nd Part 4 (14th place)
 
 ## London Calling
 
@@ -471,7 +471,7 @@ For the first time, music becomes a "substitute for news."
 
 Recording was done at Wessex Sound Studios and involved producer Guy Stevens.
 
-His characteristic feature is not his technical perfection but his ""introduction of chaos.''
+His characteristic is not his technical perfection, but his ""introduction of chaos.''
 
 * In-studio improvisation
 * Intentional noise tolerance
@@ -521,7 +521,7 @@ Music is not an individual expression,
 * Media
 * war
 
-It will transform into an "information compression media" that simultaneously includes these things.
+It will transform into an "information compression media" that includes these at the same time.
 
 ---
 
@@ -529,7 +529,7 @@ It will transform into an "information compression media" that simultaneously in
 
 ""London Calling'' is a work that decisively promoted the politicization and multiculturalization of rock.
 
-However, at this stage, the expansion is still within the container called "lock."
+However, at this stage, it is still an expansion within the container called "lock."
 
 In the top works, this "vessel itself" disappears.
 
@@ -584,7 +584,7 @@ These are presented as a chain of images rather than logic.
 
 ## Recording = Diary = Ritual
 
-Production was carried out under the conditions of Merge Records, and was completed with extremely limited budget and equipment.
+The production was carried out under the environment of Merge Records, and was completed with extremely limited budget and equipment.
 
 The structure of this album is more than a "studio work".
 
@@ -643,7 +643,7 @@ It is.
 
 This work is outside the institutional center of music.
 
-However, it was this "externality" that had a decisive influence on later indie culture, lo-fi aesthetics, and online music culture.
+However, it was this "externality" that had a decisive influence on later indie culture, lo-fi aesthetics, and internet music culture.
 
 > "'In the Airplane Over the Sea' is a work that gains value not from its musical perfection but from its unfinishedness and mythicity, and we rank it 15th in this ranking because of its cultural leap forward."
 
@@ -681,7 +681,7 @@ What we have instead is a "relocation of voices that already existed in the worl
 
 ## Sampling ethics and experimentation
 
-At the time of its creation, this method was highly experimental and controversial.
+At the time of its creation, this method was extremely experimental and controversial.
 
 * Anonymization of original sound source
 * Re-editing cultural context
@@ -696,9 +696,9 @@ For the first time, music is established not as a ""creation" but as an ""editin
 
 The recordings were made in multiple studio environments, using a production method that is independent of any particular space.
 
-これは従来の「演奏→録音→完成」という流れではなく、
+This is not the traditional flow of "performance → recording → completion",
 
-**素材収集→編集→構造生成**
+**Material collection → Edit → Structure generation**
 
 This is a reversal process.
 
@@ -723,7 +723,7 @@ The essence of this work lies in the dismantling of anthropocentrism.
 Traditional music:
 
 * Human sings
-* Performed by a human
+* Performed by humans
 * Humans have meaning
 
 "My Life in the Bush of Ghosts":
@@ -732,18 +732,18 @@ Traditional music:
 * Performance is construction
 * Meaning is an afterthought
 
-この時点で音楽は「人間の表現」ではなく、「情報編集システム」へと変化している。
+At this point, music has changed from being a ""human expression" to an ""information editing system."
 
 ---
 
-## 後の音楽への影響
+## Influence on later music
 
 The influence of this work is very wide-ranging.
 
 * Electronica
 * Hip hop sampling culture
 * Ambient collage
-* メディアアート
+* Media art
 
 In particular, Brian Eno's ideas became the basis for later environmental music and generative music.
 
@@ -763,7 +763,7 @@ In the top works, music further dissolves genre, system, and culture itself.
 
 
 
-# 第2回 Part7（17位）
+# 2nd Part7 (17th place)
 
 ## 3 Feet High and Rising
 
@@ -786,7 +786,7 @@ Hip-hop at the time had the following main characteristics:
 * Funk-derived loops
 * MC center structure
 
-しかしこの段階ではまだ「現場の音楽」に留まっていた。
+However, at this stage, it was still just "on-site music."
 
 ---
 
@@ -801,7 +801,7 @@ He sees sampling as more than just building beats.
 * Fragmented narrative
 * Radio-like structure
 
-として再定義した。
+redefined as.
 
 ---
 
@@ -851,8 +851,8 @@ D --> E
 
 This work is located in the prelude to the later institutionalization of hip-hop (gangsta rap).
 
-* N.W.A的暴力性ではない
-* 商業ポップ化でもない
+* Not N.W.A-style violence
+* It's not commercial pop.
 * Artistic experimentation
 
 It is an "open state" that exists in between.
@@ -861,7 +861,7 @@ It is an "open state" that exists in between.
 
 ## Why is it ranked 17th?
 
-3 Feet High and Rising expands hip-hop from "militant realism" to "cultural collage."
+""3 Feet High and Rising" expands hip-hop from ""militant realism" to ""cultural collage.''
 
 However, hip-hop subsequently evolved in a more structural, political, and industrial direction.
 
@@ -911,7 +911,7 @@ In particular, the beat produced by the drum machine directly captures the tensi
 
 ---
 
-## 音楽が“証言”になる瞬間
+## The moment when music becomes "testimony"
 
 The essence of this work is not its message.
 
@@ -1068,7 +1068,7 @@ This shift established electronic music as an ""introverted genre'' for the firs
 Although this album is an extension of hip-hop, it transforms its functionality.
 
 * Rap → Fragmented speech
-* ビート → 背景化
+* Beat → Background
 * Message → Obfuscation
 
 As a result, hip-hop changed from ""talking music" to ""drifting music."
@@ -1252,10 +1252,10 @@ What appears instead is:
 
 <div class="mermaid">
 flowchart TD
-A[ジャンル音楽]
+A[genre music]
 B[branch of electronic music]
 C[Maturation of club culture]
-D[ポストクラブ状態]
+D[post club condition]
 E[Institutionalized acoustic environment]
 
 A --> B --> C --> D --> E
@@ -1267,6 +1267,6 @@ A --> B --> C --> D --> E
 ## Next start
 
 From the 3rd Part 1 (21st place: Music Has the Right to Children)
-電子音楽が「環境」から「制度」へ変わる瞬間を解体していきます。
+We will deconstruct the moment when electronic music changes from an "environment" to an "institution."
 
 ---

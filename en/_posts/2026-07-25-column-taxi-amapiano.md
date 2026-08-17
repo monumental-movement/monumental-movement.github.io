@@ -36,13 +36,13 @@ But when Amapiano began to take shape in the early 2010s, that role was played b
 
 Music selected by the driver.
 
-The rhythm with which passengers respond.
+The rhythm with which passengers react.
 
 A dance that begins spontaneously at a stop.
 
 The accumulation of these daily routines fostered a new musical culture.
 
-Amapiano is not a genre born solely from the internet.
+Amapiano is not a genre born solely from the Internet.
 
 The city's daily life itself was a gigantic recording studio and a gigantic club.
 
@@ -108,11 +108,11 @@ Minibus taxis filled that void.
 
 In the 1980s, deregulation progressed, and many private operators and taxi associations began operating taxis.
 
-Competition has become fierce, but the result has been the creation of vast transportation networks that connect the entire city.
+Competition has become fierce, but the result has been the creation of vast transportation networks that connect entire cities.
 
 This network will become an entity that transports not only people but also culture.
 
-### Travel time was a time for cultivating culture.
+### Travel time was time for culture to grow
 
 Long commute.
 
@@ -270,7 +270,7 @@ These characteristics were inherited by the later Amapiano.
 
 From the late 1980s to the 1990s, foreign house music rapidly penetrated South Africa.
 
-In particular, Chicago house and deep house had a great influence on urban DJs.
+In particular, Chicago house and deep house had a big influence on urban DJs.
 
 However, it was never imitated.
 
@@ -290,7 +290,7 @@ Jazz and gospel music also have a long history in South Africa.
 
 Throughout the 20th century, jazz clubs developed in urban areas, and many musicians developed their own unique styles.
 
-Gospel music was regularly sung in churches, and people were familiar with the rich chorus work and chord progressions.
+Gospel music was regularly sung in church, and people were familiar with the rich chorus work and chord progressions.
 
 Amapiano's gentle chords and warm harmonies are not unrelated to this musical culture.
 
@@ -419,7 +419,7 @@ At taxi ranks and public spaces, young people perform new steps that others imit
 
 Even before SNS became popular, word-of-mouth reviews using the body existed.
 
-Steps such as "Pouncing Cat" and "Bacardi", which later became known worldwide, also spread as an extension of this local culture.
+Steps such as "Pouncing Cat" and "Bacardi", which later became known worldwide, also spread as an extension of this regional culture.
 
 ### Bridging to the smartphone era
 
@@ -443,13 +443,13 @@ The most well-known sound that characterizes Amapiano is the heavy bass called *
 
 The name comes from the wooden percussion instrument ""log drum,'' but the sounds used in Amapiano are not recorded from actual wooden instruments, but are electronic sounds created using synthesizers and software sound sources.
 
-This low tone plays a role somewhere between a bass line and a percussion instrument.
+This bass has a role somewhere between a bass line and a percussion instrument.
 
 It emphasizes the rhythm while giving a sense of pitch, creating a unique floating feeling throughout the song.
 
 Early producers experimented with multiple sound sources and effects to create their own unique bass sounds.
 
-As a result, Log Drum became known around the world as the genre's signature sound.
+As a result, Log Drum became known around the world as the signature sound of the genre.
 
 ### "White space" rather than "gayness"
 
@@ -511,9 +511,9 @@ If I had this kind of environment, I could make it at home.
 
 The fact that it didn't require a large studio encouraged the participation of young creators.
 
-Slightly different styles emerged in each region, and each merged into the larger flow known as Amapiano.
+Slightly different styles were born in each region, and each merged into the larger flow known as Amapiano.
 
-The genre was not the invention of one person, but was formed as a result of the gradual accumulation of efforts by many creators.
+Genres were not invented by one person, but were formed as a result of the gradual efforts of many creators.
 
 > Amapiano's sound developed with the premise of blending naturally into everyday urban life.
 
@@ -730,7 +730,7 @@ People commuting by taxi.
 
 Young people gather for local events.
 
-Because it grew up as a music that was closely associated with everyday life, it did not lose its uniqueness even after it spread all over the world.
+Because it grew up as a music that was closely associated with everyday life, it did not lose its uniqueness even when it later spread around the world.
 
 Being local has led to its global appeal.
 
@@ -852,7 +852,7 @@ bus.
 
 park.
 
-Music often spreads through these places where people gather.
+Music often spreads through places where people gather.
 
 Even with the widespread use of the Internet, local communities have not lost their ability to create new cultures.
 
@@ -954,9 +954,9 @@ Amapiano's history is one of the most representative examples in modern music hi
 | **Taxi (minibus taxi)** | A shared transportation system that seats around 16 people and is widely used in South Africa. A central presence in urban transportation.                     |
 | **Township** | A residential area formed by apartheid-era policies. Today, it remains a base for a variety of cultural activities.              |
 | **Kwaito** | South Africa's unique dance music that spread in the 1990s. It became an important musical foundation for Amapiano.         |
-| **Log Drum** | Amapiano's signature electronic bass sound. It does not refer to the wooden percussion instrument itself, but to the tone generated by a synthesizer or the like. |
+| **Log Drum** | Amapiano's signature electronic bass sound. It refers to the tones produced by synthesizers, etc., rather than the wooden percussion instruments themselves. |
 | **DIY production** | A style in which individuals produce music at home using a PC or DAW. This was a major factor in the spread of Amapiano.         |
 
-> Tracing the history of Amapiano is also about understanding how South Africa"s urban culture and people"s daily lives fostered world-famous music.
+> Tracing the history of Amapiano is also about understanding how South Africa"s urban culture and people"s daily lives fostered global music.
 
 ---

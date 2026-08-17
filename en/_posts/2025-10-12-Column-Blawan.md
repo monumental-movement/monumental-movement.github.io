@@ -9,20 +9,20 @@ tags:
 - Industrial
 - UK Techno
 - Techno
-title: '[Column] Blawan: Steel pleasure and the body deep in the night — the reverberations
-  of UK techno''s dreams'
+title: '[Column] Blawan: Pleasure of Steel and the Body Deep in the Night — Echoes
+  of the Dreams of UK Techno'
 ---
 
 
 ## Prologue Rhythm that grew in the shadow of factories—from the lingering scent of industry
 
 
-Text: mmr｜Theme: Blawan's cold yet somehow human beat that continues to take root in the UK underground
+Text: mmr｜Theme: About Blawan's cold yet somehow human beat that continues to have roots in the UK underground
 
 Once upon a time, the industrial areas of northern England were filled with the smell of steam and metal.
-Jamie Roberts, or Blawan, may have grown up unconsciously inhaling its reverberations.
-The bloodline of electronic music flowing from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
-It has echoed the rhythm of labor and the breathing of the city at the same time.
+Jamie Roberts - or Blawan - may have grown up unconsciously breathing in that reverberation.
+The bloodline of electronic music that flowed from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
+It has simultaneously echoed the rhythm of labor and the breathing of the city.
 
 Blawan's beat has the sound of hammering iron and the pressure of humid air.
 It"s not just techno, it"s also a rebirth of industrial memory.
@@ -75,7 +75,7 @@ The beat is heavy and repeats with a tenacity that borders on madness.
 However, there is a strange **"pleasure"** within it.
 It compressed the listener's body and at the same time released it - it was a moment of **fear and euphoria**.
 
-Many DJs drop this track during peak times,
+Many DJs drop this track at peak times,
 The club floor was reportedly engulfed in a moment of "violent euphoria."
 This song is not just a hit,
 It was a symbol of reviving ""feelings without emotions'' in techno.
@@ -134,14 +134,14 @@ This is the paradoxical sound of an era in which electronic devices imitate the 
 
 ## Chapter 6 People and city surrounding Blawan
 
-Blawan's sound does not belong to a single artist.
+Blawan's sound does not belong to any one artist.
 UK industrial genes built by Regis and Surgeon,
 The violent rhythms of Paula Temple and Giant Swan,
 And the delicate particles of Skee Mask.
 All of that is being rebuilt within him.
 
 Rather than the sterility of Berlin, I prefer the humidity of London.
-Use palm pressure rather than digital.
+Use the pressure of your palm rather than digital.
 Blawan continues to choose **land weight**.
 It is also a form of resistance for the club to continue to be a ""place'' once again.
 
@@ -189,7 +189,7 @@ flowchart TD
 ---
 
 | Year | Title | Label | Link |
-| ---- | ----------------------------------------------- | ----------- | --------------------- |
+| ---- | -------------------------------------------------- | ----------- | --------------------- |
 | 2011 | **Bohla EP** | R&S Records | [Amazon](https://www.amazon.co.jp/dp/B004Y3XL2Q) |
 | 2012 | **Why They Hide Their Bodies Under My Garage.** | Hinge Finger | [Amazon](https://www.amazon.co.jp/dp/B00A8F2R8S) |
 | 2013 | **Works The Long Nights** | Sheworks | [Amazon](https://www.amazon.co.jp/dp/B00FGZSW5A) |
@@ -224,8 +224,8 @@ flowchart TD
 ---
 
 > "When you go to his studio, the first thing you see is silence.
-> The silence before you turn on the switch is already laden with rhythm.
-> That space itself has become the "batting surface." "
+> The silence before turning on the switch is already laden with rhythm.
+> That space itself is the "batting surface." "
 > —— **Paula Temple**
 
 ---
@@ -238,9 +238,9 @@ flowchart TD
 
 ---
 
-> "I watched Karenn"s live performance from the sidelines,
+> "I was watching Karenn"s live performance from the sidelines,
 > It felt like being inside a steelworks.
->Sounds like sparks flying.
+> Sounds like sparks flying.
 >Still, the faces of the audience were somehow kind. "
 > —— **Surgeon (Anthony Child)**
 
@@ -352,7 +352,7 @@ flowchart TD
 
 | Classification | Equipment | Application | Features |
 | ---------- | ------------------------------------ | ---------- | -------------------- |
-| Sequencer | **Intellijel Metropolis** | Melody/rhythm generation | Emphasis on hard 16-step feel |
+| Sequencer | **Intellijel Metropolis** | Melody/Rhythm Generation | Emphasis on hard 16-step feel |
 | Oscillator | **Verbos Complex VCO / Plaits** | Main oscillation source | Combination of analog distortion and digital particles |
 | Drum Synth | **Moog DFAM** | Metallic percussion | The core of Blawan's "industrial noise" |
 | FX Chain | **Analog Heat / Mimeophon / BigSky** | Texture adjustment | Build space with drive and reverb |
@@ -361,7 +361,7 @@ flowchart TD
 
 ---
 
-The sounds produced by this setup are entirely hand-crafted electronic sounds.
+The sounds produced by this setup are completely hand-crafted electronic sounds.
 Blawan is not "typing" but "performing."
 Therefore, his techno retains a ""human instability.''
 

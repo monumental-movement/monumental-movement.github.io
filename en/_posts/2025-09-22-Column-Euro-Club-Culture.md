@@ -68,7 +68,7 @@ Euromusic originally inherited sounds that originated in gay clubs, such as ""It
 
 Germany: Many euro-taste tracks played on Love Parade and Mayday
 
-イギリス：Hardbag、Euro-House系が90年代中盤のガラージ・セットに出現
+UK: Hardbag, Euro-House style appeared in garage sets in the mid-90s
 
 Netherlands: The boundaries between Speed ​​Garage and Hard Trance are blurring
 
@@ -86,13 +86,13 @@ Artists such as Cosmic Gate and Scooter have broken through boundaries.
 | Elements | Euro Music | Club Culture |
 |--------|--------------------|--------------------|
 | Principal | Producer/Composer | DJ/Organizer |
-| 形式   | 楽曲単位（シングル志向） | ロングプレイ、ミックス志向 |
+| Format | Song unit (single-oriented) | Long play, mix-oriented |
 | Composition | Emphasis on melody, A melody, B melody structure | Emphasis on groove, minimal development |
 | Leading wire | Radio, TV, CD | Parties, festivals, vinyl |
 | Exchange point | Collaboration on 12-inch remixes, DJ edits, dub mixes, etc. |
 
 
-この2つの文化は相反するように見えても、**ミックスCDやヴァイナル文化、リミックス市場**を通じて緩やかに結びついていた。  
+Although these two cultures may seem contradictory, they were loosely connected through **mix CDs, vinyl culture, and the remix market**.
 
 
 ---
@@ -110,14 +110,14 @@ Although it is a commercial package, the song selection has a club flair.
 
 Eurotrance, a junction between Eurodance and trance, appears in the Late 90"s.
 
-ATB、Fragma、Darudeなどがポップとクラブの間を縫う音を提示
+ATB, Fragma, Darude and more present a sound that weaves between pop and club
 
 ---
 
 
 ### Why is it being reevaluated now?
 
-2020年代に入り、TikTokやYouTubeで再発見される90年代ユーロ。その背景には、次のような要因がある。
+In the 2020s, the 90s euro is being rediscovered on TikTok and YouTube. The following factors are behind this.
 
 Melodic and clear structure **matches the "instant viewing era"**
 

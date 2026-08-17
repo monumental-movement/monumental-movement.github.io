@@ -101,7 +101,7 @@ France is one of the most technologically innovative countries in the world.
 - Diversity of technology
 
 ## ◆ 2. United Kingdom
-UK は音楽性と構築力に優れる。
+UK has excellent musicality and construction ability.
 
 - Accuracy of Grooves & Timing
 - Drummer's composition ability
@@ -121,7 +121,7 @@ Rapid growth has been remarkable in recent years.
 - High quality of sound
 - Speed ​​of adaptation to genres
 
-In particular, Japan's strengths are ""accuracy of sound," ""compositional ability," and ""compatibility with images and production.''
+In particular, Japan's strengths include "accuracy of sound," "composition ability," and "compatibility with images and production."
 
 ---
 
@@ -172,7 +172,7 @@ He has helped raise the profile of Loopstation players in Japan, and has a great
 
 ### ● Precise technique
 RUSY is known for his highly accurate rhythms and smooth combination techniques, and has received high praise mainly at domestic tournaments in Japan.
-The characteristics are:
+Features include:
 
 - tight groove
 - Clear and dense pronunciation
@@ -213,11 +213,11 @@ Synchronization, harmony, and composition skills by multiple people are required
 
 ## ◆ Loopstation
 The category that has received the most attention in recent years,
-「一人で多層音楽を構築する」  
+"Building multi-layered music by yourself"
 There is a strong music production element.
 
 ## ◆ Showcases / Exhibition
-音楽性重視。大会文化が成熟したことで新たに増えた形式。
+Emphasis on musicality. New formats have been added as the tournament culture has matured.
 
 ---
 
@@ -251,7 +251,7 @@ We live in an era where SNS accelerates style.
 ## ◆ 3. Future of Japanese strengths
 Japan is
 
-- 技術精度  
+- Technical precision
 - Preciseness
 - Arrangement ability
 - Visual expression

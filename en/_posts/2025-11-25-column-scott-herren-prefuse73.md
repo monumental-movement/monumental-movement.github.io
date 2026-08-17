@@ -63,7 +63,7 @@ Around 2000, the project started under the alias **Savath & Savalas**.
 
 In 2004, he released *Apropa"t*. Reflecting Spanish/Catalan vocals, post-rock and Latin influences, they pursued a musical expression different from Prefuse 73.
 
-This project is positioned as another form of self-expression for him, and shows his multifaceted musical activities, including the relationship with Prefuse 73's experimental nature.
+This project is positioned as another form of self-expression for him, and shows his multifaceted musical activities, including its relationship with the experimental nature of Prefuse 73.
 
 ---
 

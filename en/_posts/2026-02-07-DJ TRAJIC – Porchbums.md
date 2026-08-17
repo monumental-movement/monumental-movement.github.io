@@ -14,7 +14,7 @@ title: DJ TRAJIC – Porchbums
 
 
 
-DJ TRAJICは、シカゴを拠点とする、1990年代ハードハウスのパイオニア
+DJ TRAJIC is a 1990s hard house pioneer based in Chicago.
 &Legend. He is best known for his hit song ""Show Me Your Face.''
 
 "Porchbums" is a Hard House track released in 1996 on the label Underground Construction.

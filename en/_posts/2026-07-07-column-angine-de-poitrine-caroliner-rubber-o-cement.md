@@ -15,7 +15,7 @@ title: '[Column] Angine de Poitrine VS Caroliner VS Rubber O Cement: Artist anon
 ---
 
 
-## Erasing a name does not mean erasing existence
+## Erasing a name does not mean erasing existence.
 
 Text: mmr | Theme: Why was the expression method of anonymity born, and why did it develop independently in different cities? Deciphering the influence of anonymity on music, art, and community through the activities of three groups representing Quebec and San Francisco
 
@@ -90,13 +90,13 @@ color: #fff;
 
 ---
 
-## 匿名文化はどこから生まれたのか
+## Where did the anonymous culture originate?
 
 Anonymous expression did not suddenly emerge in the 1980s.
 
 If we look back at art history, a culture that prioritizes the community over the artist's name has existed since ancient times.
 
-中世ヨーロッパでは、多くの宗教画に作者名は残されていない。
+In medieval Europe, many religious paintings did not bear the names of their creators.
 
 What was important was faith, not the individual, and the work was a service to the community.
 
@@ -106,7 +106,7 @@ From the 19th century to the 20th century, we moved into an era in which market 
 
 However, in the second half of the 20th century, a backlash against this idea emerged.
 
-前衛芸術では作品を商品化する制度そのものが批判対象となった。
+In avant-garde art, the very system of commercializing works became a subject of criticism.
 
 In performance art, the body becomes the work, and in conceptual art, the idea itself becomes the work.
 
@@ -122,7 +122,7 @@ Anonymousness also begins to take on new meaning in this flow.
 
 The goal is not to "become famous" but to "create things freely."
 
-すると個人名は、むしろ創作の妨げになる場合すらあった。
+In fact, personal names sometimes even hindered creativity.
 
 It's not just music.
 
@@ -132,20 +132,20 @@ It is no longer rare to find works in which we do not know who made them and to 
 
 This environment makes for particularly rich soil in San Francisco.
 
-一方、ケベックでは少し事情が異なる。
+In Quebec, however, things are a little different.
 
 Here, improvisational music and contemporary art are strongly linked, and a tendency has developed to place more emphasis on the ""collective sound" than on the ""individual performer."
 
 Anonymity is not self-denial.
 
-むしろ作品へ集中するために、自我を一歩引くという考え方だった。
+Rather, his idea was to take a step back from his ego in order to concentrate on his work.
 
 Even within the same anonymity, the backgrounds differed greatly depending on the city.
 
 <div class="mermaid">
 flowchart LR
 
-A["中世の共同制作文化"]
+A["Medieval Collaborative Culture"]
 B["avant-garde art"]
 C["DIY culture"]
 D["Anonymous"]
@@ -167,7 +167,7 @@ D --> F
 
 ## "Performance of anonymity" developed in San Francisco
 
-アメリカ西海岸の都市サンフランシスコは、1960年代以降、実験芸術の重要な拠点となった。
+San Francisco, a city on the west coast of the United States, has become an important center for experimental art since the 1960s.
 
 Beat Generation, hippie movement, psychedelic culture, improvisation, mail art, performance art, DIY publishing.
 
@@ -181,7 +181,7 @@ Anonymity was a very natural option in this culture.
 
 It's not about hiding your identity.
 
-The aim was to blur the boundaries between the work and the real world and draw the audience into the world of the work.
+It was also a production to blur the boundaries between the work and the real world and draw the audience into the world of the work.
 
 A live performance is not just a concert, but a ritual.
 
@@ -211,13 +211,13 @@ The first thing that surprises people who see the work for the first time is the
 
 Album title.
 
-ジャケット。
+jacket.
 
-ライブ衣装。
+Live costume.
 
-配布物。
+Handouts.
 
-ステージ装飾。
+stage decoration.
 
 All of them are consistently constructed with a worldview that resembles fictional history, folklore, or ethnography.
 
@@ -231,9 +231,9 @@ The premise was that the audience would collect the fragments themselves and ass
 
 At live performances, the members appear more like residents of an unknown community than humans, wearing giant masks, cloth, and handmade costumes.
 
-誰が演奏しているのかは重要ではない。
+It doesn't matter who is playing.
 
-重要なのは、その場に存在する「Caroliner」という共同幻想である。
+What is important is the collective illusion of ""Caroliner'' that exists in the scene.
 
 Anonymity here is not a technology that erases the individual.
 
@@ -273,11 +273,11 @@ E --> F
 
 ---
 
-## Rubber O Cement──作者よりも作品が歩き続ける
+## Rubber O Cement──The work continues to move on rather than the author
 
 Rubber O Cement embodies anonymity in a completely different way than Carolinar.
 
-作品には一定の美学がある一方で、制作者個人について語られる情報は非常に限られている。
+While the works have a certain aesthetic, there is very limited information about the individual creators.
 
 As a result, the listener naturally turns their attention to the work itself.
 
@@ -285,27 +285,27 @@ This has a slightly different meaning from the ""profile private'' often seen am
 
 In the case of Rubber O Cement, the goal is not to hide personal information, but rather to maintain the independent existence of the work.
 
-つまり、「誰が作ったか」という問い自体を作品の外へ追いやっているのである。
+In other words, the question of ""who made it?'' is pushed outside the work itself.
 
 The work has a strong sense of collage.
 
 Recorded material.
 
-ノイズ。
+noise.
 
-断片的な音。
+Fragmented sounds.
 
 environmental sounds.
 
 Reconstruction by editing.
 
-それらが一つの作品へ統合されながらも、制作者の人格はほとんど前景化しない。
+Although these are integrated into a single work, the creator's personality is hardly ever foregrounded.
 
-これはDIY文化との親和性が高い。
+This is highly compatible with DIY culture.
 
 When producing independently, we are responsible for distribution and advertising ourselves.
 
-しかし、その目的はスターになることではない。
+However, the goal is not to become a star.
 
 Continuing expression becomes a goal in itself.
 
@@ -319,15 +319,15 @@ For this reason, even though there are people who know about the work, very few 
 
 This structure itself embodies the idea of ​​anonymity.
 
-> Rather than mystifying the creator, Rubber O Cement chose a state where only the work continues to exist autonomously.
+> Rather than mystifying the creator, Rubber O Cement chose a state in which only the work continues to exist autonomously.
 
 ---
 
 ## Even in the same city, anonymity can vary so much
 
-CarolinerとRubber O Cementは、どちらもサンフランシスコ周辺のDIY文化を背景に持つ。
+Both Caroliner and Rubber O Cement come from the DIY culture of the San Francisco area.
 
-しかし、匿名という考え方には大きな違いがある。
+However, there is a big difference in the concept of anonymity.
 
 In Caroliner, anonymity is an active production to make the story come true.
 
@@ -335,19 +335,19 @@ The performer becomes a character and becomes part of the world of the work.
 
 By participating in the live performance, the audience becomes residents of that fictional world.
 
-一方のRubber O Cementでは、匿名は演出を最小限に抑える方向へ働く。
+At Rubber O Cement, on the other hand, anonymity works toward minimizing the production.
 
-作者は表へ出ず、作品だけが静かに残る。
+The author does not appear publicly, and only the work remains quietly.
 
 There is an emphasis on autonomy rather than theatricality.
 
 In other words, the two approaches the same question in diametrically opposed ways.
 
-「作品は誰のものなのか。」
+"Who does the work belong to?"
 
 Caroliner replies, "It's a communal fantasy thing."
 
-Rubber O Cementは「作品そのもののもの」と答える。
+Rubber O Cement answers, "It's the work itself."
 
 Although they both distance themselves from a view of art that centers on personal names, their methods of practice are surprisingly contrasting.
 
@@ -355,7 +355,7 @@ Although they both distance themselves from a view of art that centers on person
 flowchart LR
 
 A["Caroliner"]
-B["匿名＝演劇"]
+B["Anonymous = Theater"]
 C["Communal myth"]
 
 D["Rubber O Cement"]
@@ -376,35 +376,35 @@ E --> F
 
 ## "Quiet anonymity" fostered in Quebec
 
-サンフランシスコでは、匿名は作品世界を拡張するための積極的な装置として発展した。
+In San Francisco, anonymity developed as an active device for expanding the world of work.
 
-一方、ケベックではまったく異なる方向から匿名という発想が育まれていく。
+Meanwhile, in Quebec, the idea of ​​anonymity was developed from a completely different direction.
 
 Behind this is the region's unique cultural environment.
 
-ケベック州、とりわけモントリオールは、北米の中でも独自性の強い芸術都市として知られてきた。
+Quebec, and Montreal in particular, has long been known as one of North America's most unique artistic cities.
 
 Although it has a French-speaking cultural background, it also has contact with American experimental music and European contemporary music, and is a place where diverse values ​​intersect.
 
-1970年代以降、この地域では即興演奏、現代音楽、ノイズ、サウンドアート、映像、美術が密接に結び付いた。
+Since the 1970s, improvisation, contemporary music, noise, sound art, video, and fine art have been closely intertwined in this region.
 
-ジャンルを明確に区切る考え方は比較的弱く、一人の表現者が複数の分野を横断することも珍しくなかった。
+The idea of ​​clearly dividing genres was relatively weak, and it was not uncommon for a single artist to cross over multiple fields.
 
 As a result, the boundaries between roles such as ""performer" and ""artist" and ""composer" and ""recording engineer" are becoming blurred.
 
 Here, a work is often seen as a thought process rather than a finished product.
 
-そのため、作者個人を強く前面に押し出す必要性は必ずしも高くなかった。
+Therefore, there was not necessarily a strong need to strongly emphasize the individual author.
 
 Rather, the emphasis is on leaving space in the work itself to begin a dialogue with the viewer.
 
 The anonymity fostered in this cultural soil does not hide oneself behind flashy masks or stories.
 
-静かに姿を消し、作品だけを残すという考え方に近い。
+It is similar to the idea of ​​quietly disappearing and leaving only the works behind.
 
-匿名は演出ではなく、創作態度そのものなのである。
+Anonymity is not a performance, but a creative attitude itself.
 
-この特徴を象徴する存在がAngine de Poitrineである。
+Angine de Poitrine is a person who symbolizes this characteristic.
 
 > Québec's anonymous culture was developed not as a theatrical mask, but as an idea that quietly blended the author into the work.
 
@@ -416,29 +416,29 @@ Angine de Poitrine is a unique figure in the Quebec experimental music scene.
 
 His works have a consistent aesthetic.
 
-しかし、その一方で制作者自身について語られる情報は極めて少ない。
+However, on the other hand, there is very little information about the creator himself.
 
-プロフィールを積極的に発信するわけでもなく、活動そのものを神秘化する演出が前面へ出るわけでもない。
+They do not actively disseminate their profiles, nor do they bring to the fore any production that mystifies their activities.
 
-結果として、聴き手が最初に向き合うのは常に音である。
+As a result, the first thing the listener is faced with is always the sound.
 
-これは偶然ではない。
+This is no coincidence.
 
 As you listen to his work, you can feel his precise sense of editing and compositional ability.
 
-微細な音響。
+Subtle acoustics.
 
 Fragmented melody.
 
 environmental sounds.
 
-ノイズ。
+noise.
 
-電子音。
+Electronic sound.
 
 silence.
 
-こうした素材が慎重に配置され、一つの音響空間を形成している。
+These materials are carefully arranged to form a single acoustic space.
 
 Rather than recording an improvisational performance, it is a production approach that feels like sculpting time itself.
 
@@ -452,7 +452,7 @@ By removing as much unnecessary information as possible, Angine de Poitrine crea
 
 The important point here is that ""anonymity'' is not the goal.
 
-目的は、作品そのものが独立して存在できる環境を整えることにある。
+The purpose is to create an environment where the work itself can exist independently.
 
 As a result, the author naturally recedes into the background.
 
@@ -468,13 +468,13 @@ In art history, the concept of ""the death of the author'' is often talked about
 
 "Death" here does not refer to an actual person.
 
-作品の意味を作者だけが決定するのではなく、鑑賞者との関係の中で新たに生まれていくという考え方である。
+The idea is that the meaning of a work is not determined solely by the artist, but is born out of the relationship with the viewer.
 
 Angine de Poitrine's work has a high affinity with this way of thinking.
 
 His works rarely present a clear story.
 
-聴き手は音響の流れの中から、自分自身で意味を構築していく。
+Listeners construct their own meanings from the flow of sound.
 
 Therefore, each person has a different interpretation.
 
@@ -482,7 +482,7 @@ To some, it may sound like an echo of a city.
 
 To others, it may give the impression of an abstract painting.
 
-さらに別の人には、記憶の断片を呼び起こす音風景として響く可能性もある。
+For others, it may resonate as a soundscape that evokes fragments of memory.
 
 None of the interpretations can be unilaterally rejected.
 
@@ -505,10 +505,10 @@ flowchart TD
 
 A["Angine de Poitrine"]
 B["The author recedes into the background"]
-C["音響空間"]
+C["Acoustic space"]
 D["Viewer"]
 E["interpretation"]
-F["作品が更新される"]
+F["The work will be updated"]
 
 A --> B
 B --> C
@@ -522,11 +522,11 @@ E --> F
 
 ---
 
-## ケベックとサンフランシスコは何が決定的に違うのか
+## What is the decisive difference between Quebec and San Francisco?
 
 Comparing the three groups we have looked at so far, we can see that the meaning of the word anonymous varies greatly depending on the region.
 
-サンフランシスコでは、匿名はしばしば共同体を演出するための装置となる。
+In San Francisco, anonymity is often a device for creating a sense of community.
 
 Live performances, art, costumes, stories, publications, etc. come together, and the audience participates in the world.
 
@@ -542,9 +542,9 @@ This difference is not superior or inferior.
 
 Both have in common that they distance themselves from cults of personality.
 
-しかし、その実践方法は文化的背景によって大きく異なる。
+However, the way it is practiced varies widely depending on cultural background.
 
-サンフランシスコは匿名を「付け加える」。
+San Francisco "adds" anonymity.
 
 Quebec is "removed" by anonymous.
 
@@ -569,7 +569,7 @@ E --> F
 
 </div>
 
-> 同じ匿名という言葉でも、サンフランシスコは世界を増幅させ、ケベックは作品を純化させるという対照的な方向へ発展していった。
+> Even with the same word, anonymous, San Francisco amplified the world, while Quebec developed in contrasting directions, purifying the work.
 
 ---
 
@@ -577,23 +577,23 @@ E --> F
 
 From the 1980s to the early 2000s, in the world of experimental music, noise, and improvisational music, distribution networks that were not mediated by major record companies were formed around the world.
 
-At the center of this was the DIY culture.
+At the heart of this was the DIY culture.
 
 DIY here does not simply mean ""make it yourself.''
 
 The idea is to complete recording, duplication, jacket production, distribution, sales, and promotion either by yourself or within a small community.
 
-この仕組みは、パンク以降のインディペンデント文化とも深く結び付いていた。
+This system was deeply connected to independent culture after punk.
 
 Small quantity production rather than mass production.
 
-全国流通よりも手渡し。
+Hand delivery rather than nationwide distribution.
 
 Word of mouth rather than advertising.
 
-Continuation over profit.
+Continuation over profits.
 
-こうした価値観は、匿名という表現方法と非常に相性が良かった。
+These values ​​were very compatible with the anonymous method of expression.
 
 There is no need to compete for popularity.
 
@@ -603,9 +603,9 @@ In distribution without a star system, ""what was made" is naturally more import
 
 Caroliner, Rubber O Cement, and Angine de Poitrine have all published work within this cultural sphere.
 
-もちろん活動形態や制作方法には違いがある。
+Of course, there are differences in the form of activities and production methods.
 
-しかし、大量消費を目的としない創作姿勢という点では、共通した価値観を共有していた。
+However, they shared a common set of values ​​in terms of a creative approach that was not aimed at mass consumption.
 
 Anonymity does not mean isolation.
 
@@ -619,19 +619,19 @@ Rather, it was a culture that could easily be established within a small but clo
 
 For major labels, artist profiles and image strategies are important elements of sales promotion.
 
-However, things are different for small labels that deal in experimental music.
+However, things are different for small labels that deal with experimental music.
 
-作品そのものが流通の中心であり、制作者個人の情報は最小限にとどめられることも少なくなかった。
+The work itself was the center of distribution, and information about the individual creator was often kept to a minimum.
 
 The jacket design also clearly expresses this attitude.
 
 Abstract paintings, collages, typography, hand-drawn illustrations, or very simple designs are often used instead of flashy advertising slogans or artist photos.
 
-こうした表現は、購入者に「作品そのものと向き合ってほしい」という意思表示でもあった。
+These expressions were also an expression of the buyer's intention to ""face the work itself.''
 
 There was also active exchange between small labels.
 
-音源の交換、共同企画、コンピレーションへの参加などを通じて、国境を越えたネットワークが形成されていく。
+Through the exchange of sound sources, joint projects, and participation in compilations, a cross-border network is being formed.
 
 In this process, trust was more important than name recognition.
 
@@ -651,7 +651,7 @@ This is in contrast to the large-scale music industry.
 
 From the 1980s to the 1990s, cassette tapes became an important medium for experimental music.
 
-カセットは安価で複製しやすく、小ロット制作にも適していた。
+Cassettes were cheap, easy to reproduce, and suitable for small-lot production.
 
 It was common for artists to produce works ranging from dozens to hundreds and distribute them at live concerts and via mail order.
 
@@ -659,11 +659,11 @@ With this distribution method, there is no need for advertising based on the ass
 
 Works pass from hand to hand to people who are interested in them.
 
-そこでは、作品に添えられた短い解説やジャケットデザイン、あるいは口コミが重要な役割を果たした。
+In this case, short explanations accompanying the work, jacket design, and word of mouth played an important role.
 
 This system was extremely convenient for artists who worked anonymously.
 
-顔写真がなくても問題にならない。
+It doesn"t matter if you don"t have a photo of your face.
 
 Even if there is little exposure to the media, the work will be distributed.
 
@@ -675,7 +675,7 @@ Variations in recording quality and even rough editing were often perceived as c
 
 This tolerance was also strongly linked to anonymous expression.
 
-完璧な商品ではなく、一回限りの表現。
+Not a perfect product, but a one-time expression.
 
 This sense of value is similar to the works of Migumi.
 
@@ -683,10 +683,10 @@ This sense of value is similar to the works of Migumi.
 flowchart LR
 
 A["cassette"]
-B["少量制作"]
-C["DIY流通"]
-D["匿名活動"]
-E["世界各地のコミュニティ"]
+B["Small production"]
+C["DIY distribution"]
+D["Anonymous activity"]
+E["Communities around the world"]
 
 A --> B
 B --> C
@@ -695,7 +695,7 @@ D --> E
 
 </div>
 
-> カセット文化は匿名の表現者にとって、作品だけが自由に旅を続けられる最適なメディアだった。
+> Cassette culture was the perfect medium for anonymous artists to continue their journey freely through their works.
 
 ---
 
@@ -703,15 +703,15 @@ D --> E
 
 Before the Internet became popular, underground music was supported by the mail.
 
-レーベルへ現金書留や郵便為替を送り、数週間後に世界のどこかから作品が届く。
+Send registered mail or postal money order to the label, and a few weeks later the work will arrive from somewhere in the world.
 
-現在では想像しにくい方法だが、このやり取りが国際的なコミュニティを築いていた。
+Although it is difficult to imagine today, this exchange built an international community.
 
-作品とともに送られてくるカタログ。
+Catalog sent with the work.
 
 handwritten letter.
 
-ニュースレター。
+Newsletter.
 
 Flyer.
 
@@ -729,11 +729,11 @@ As a result, works became separated from the individual creators and were natura
 
 Angine de Poitrine, Carolinar, and Rubber O Cement each benefited from this international distribution network in different ways, delivering their works to many enthusiasts.
 
-> The postal network became an important foundation that supported an era in which works were valued across national borders, even if they were anonymous.
+> The postal network became an important foundation that supported an era in which works were appreciated across national borders, even if they were anonymous.
 
 ---
 
-## なぜ匿名は1980年代から2000年代に広がったのか
+## Why did anonymity spread from the 1980s to the 2000s?
 
 Artists working anonymously existed even before that.
 
@@ -751,7 +751,7 @@ As a result of these interactions, an environment has expanded where the ""work 
 
 Anonymity is not a byproduct of the environment.
 
-むしろ、その環境を象徴する表現の一つだった。
+Rather, it was one of the expressions that symbolized the environment.
 
 Caroliner created the story, Rubber O Cement let the work stand on its own, and Angine de Poitrine quietly receded the author into the background.
 
@@ -762,7 +762,7 @@ flowchart TD
 
 A["DIY culture"]
 B["Small label"]
-C["カセット流通"]
+C["Cassette distribution"]
 D["International network"]
 
 A --> E["Expansion of anonymous expression"]
@@ -784,7 +784,7 @@ As we have seen, while Angine de Poitrine, Carolinar, and Rubber O Cement all pl
 
 If you just look at the word "anonymous", it seems like they have something in common, but in reality, their goals and the effects they had on their works are not the same.
 
-Carolinerでは、匿名は架空世界を成立させるための舞台装置だった。
+In Caroliner, anonymity was a stage set for establishing a fictional world.
 
 The work is not about the individual members, but the community called "Caroliner" itself.
 
@@ -798,9 +798,9 @@ The composition is such that the sound and collages themselves are perceived as 
 
 In this case, the emphasis is on ""what kind of experience the work brings" rather than the question ""who made it?"
 
-Angine de Poitrineでは、さらに静かな匿名性が見られる。
+An even quieter anonymity is found in Angine de Poitrine.
 
-The author actively disappears, leaving only the work in front of the viewer.
+The artist actively disappears, leaving only the work in front of the viewer.
 
 As a result, the work continues to acquire different meanings depending on the listener.
 
@@ -813,7 +813,7 @@ flowchart LR
 
 A["Caroliner"]
 B["Anonymous = Mythical World"]
-C["共同体を創る"]
+C["Create a community"]
 
 D["Rubber O Cement"]
 E["Anonymous = autonomy of work"]
@@ -821,7 +821,7 @@ F["Do not foreground the author"]
 
 G["Angine de Poitrine"]
 H["Anonymous = space for interpretation"]
-I["鑑賞者との対話"]
+I["Dialogue with viewers"]
 
 A --> B --> C
 D --> E --> F
@@ -848,7 +848,7 @@ The chronology below organizes the flow covered in this paper in chronological o
 | 1980s | Small-scale labels and cassette culture become active | An environment is created to distribute works anonymously |
 | Late 1980s | Caroliner becomes active | Develops unique expression that combines anonymity and fictional world |
 | 1990s | Underground distribution network connecting North America, Europe, and Japan matures | Exchanges between anonymous artists become active |
-| 1990年代〜2000年代 | Rubber O Cementが作品を発表        | 作者より作品を前面に置く姿勢が浸透する    |
+| 1990s to 2000s | Rubber O Cement presents works | An attitude of putting the work more front than the artist spreads |
 | Since the 2000s | Angine de Poitrine continues to present works | Quiet anonymity and acoustic expression attract attention |
 | Currently | Digital distribution has become commonplace | The method of anonymity is being reevaluated in a new way |
 
@@ -862,7 +862,7 @@ Nowadays, publishing your work has never been easier.
 
 By using video distribution services, music distribution services, and SNS, even individuals can deliver their works to the world.
 
-一方で、制作者自身の存在も以前より強く可視化されるようになった。
+On the other hand, the existence of the creator himself has also become more visible than before.
 
 profile.
 
@@ -876,7 +876,7 @@ In this environment, the choice to remain anonymous begins to take on a differen
 
 I want you to evaluate only the work.
 
-先入観なく受け止めてほしい。
+I want you to accept it without any preconceptions.
 
 I want to separate the world of my work from reality.
 
@@ -884,7 +884,7 @@ Even today, there are many artists who choose to remain anonymous based on this 
 
 However, its purpose is not exactly the same as in the 1980s.
 
-当時は流通の仕組みそのものが匿名と相性の良い構造を持っていた。
+At that time, the distribution system itself had a structure that was compatible with anonymity.
 
 In today's world, in an environment where visibility has become the norm, choosing to remain anonymous has a paradoxical meaning.
 
@@ -892,13 +892,13 @@ That's why the anonymity demonstrated by Carolinar, Rubber O Cement, and Angine 
 
 Their works continue to quietly demonstrate that ""being known for one"s name" and ""having one"s work appreciated" are not necessarily the same thing.
 
-> デジタル時代の匿名は過去の名残ではなく、作品中心の創作を選び続けるための現代的な選択肢でもある。
+> Anonymity in the digital age is not a vestige of the past, but also a modern option for continuing to choose work-centered creation.
 
 ---
 
 ## Conclusion: Anonymous does not mean "no one"
 
-匿名という言葉から、多くの人は「正体を隠す」というイメージを思い浮かべる。
+The word anonymity brings to mind the image of ""hiding one's true identity'' for many people.
 
 However, the activities of the three groups discussed in this paper cannot be explained by this alone.
 
@@ -920,7 +920,7 @@ That's why the idea of ​​a work continuing to exist quietly seems so refresh
 
 Anonymity does not mean erasing existence.
 
-作者という情報を一歩後ろへ退かせることで、作品そのものをより豊かに響かせるための創作方法なのである。
+It is a creative method that allows the work itself to resonate more richly by taking a step back from knowing the author.
 
 The activities of the three artists, who were nurtured in the different cultural regions of Quebec and San Francisco, have each shown this in different ways.
 

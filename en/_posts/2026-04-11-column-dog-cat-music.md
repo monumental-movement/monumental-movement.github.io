@@ -20,7 +20,7 @@ title: '[Column] How do dogs and cats listen to music: The science of pets and s
 
 Text: mmr｜Theme: Scientifically interpreting the compatibility with music genres based on the auditory characteristics and frequency sensitivity of dogs and cats
 
-犬や猫に音楽を聴かせると落ち着く、あるいは逆に興奮する。こうした体験は珍しくない。しかし、その理由は単なる「雰囲気」ではなく、明確な聴覚特性と周波数の違いに基づいている。
+Listening to music to dogs and cats can calm them down or, conversely, make them excited. Such experiences are not uncommon. However, the reason for this is not just the ""atmosphere'', but rather the distinct differences in auditory characteristics and frequencies.
 
 The human hearing range is approximately 20Hz to 20kHz. Dogs and cats, on the other hand, have the ability to hear higher frequencies. In other words, even if they are listening to the same music, the ""sound world'' they receive is completely different.
 
@@ -46,7 +46,7 @@ color: #fff;
 </style>
 
 
-## 犬の聴覚特性と周波数の世界
+## The world of dog hearing characteristics and frequencies
 
 ### Audible range and sensitivity
 
@@ -56,7 +56,7 @@ Dogs also have excellent ability to detect the direction of sound, and are sensi
 
 ### Effect on behavior
 
-研究では以下のような傾向が確認されている：
+Research has identified the following trends:
 
 * Slow tempo (60-80 BPM) promotes relaxation
 * High-pitched music induces alertness and anxiety
@@ -112,7 +112,7 @@ Characteristics of sounds that cats like:
 * Soft continuous sound
 * Rhythm is simple or slow
 
-適したジャンル：
+Suitable genre:
 
 * Ambient
 * New Age
@@ -164,7 +164,7 @@ For dogs, the effect of classical music is particularly pronounced, and for cats
 
 ---
 
-## 年表：動物と音楽研究の発展
+## Chronology: Development of animal and music research
 
 <div class="mermaid">
 timeline
@@ -187,13 +187,13 @@ Based on scientific knowledge, there are simple things you can do in your daily 
 * Choose relaxing music
 * Avoid the same genre for a long time
 
-### 猫の場合
+### For cats
 
 * Select sounds that contain high frequencies
 * Music close to environmental sounds is effective
 * Does not prioritize human preferences
 
-What is even more important is "individual differences." Not all dogs and cats react the same way, and it varies depending on their personality and experience.
+What is even more important is "individual differences." Not all dogs and cats will react the same way, and it will vary depending on their personality and experience.
 
 ---
 
@@ -201,7 +201,7 @@ What is even more important is "individual differences." Not all dogs and cats r
 
 Music is not just entertainment; it is an element of the environment that influences a pet's behavior and emotions.
 
-犬にとっては安心をもたらすリズム、猫にとっては本能に訴える周波数。それぞれに適した音を選ぶことは、ストレス軽減や生活の質の向上に直結する。
+A rhythm that brings peace of mind for dogs, and a frequency that appeals to instinct for cats. Choosing the right sound for each type of sound is directly connected to reducing stress and improving the quality of life.
 
 Stepping away from a human-centered view of music and ""listening to the world with their ears.'' That's the surest way to understand the relationship between pets and music.
 
@@ -215,7 +215,7 @@ Stepping away from a human-centered view of music and ""listening to the world w
 <div class="mermaid">
 graph LR
 A[20Hz<br>Human lower limit] --> B[1kHz<br>Conversation band]
-B --> C[8kHz<br>犬が強く反応]
+B --> C[8kHz<br>Dog reacts strongly]
 C --> D[20kHz<br>Human upper limit]
 D --> E[45kHz<br>Dog upper limit]
 E --> F[85kHz<br>Cat upper limit]
@@ -225,7 +225,7 @@ An important point that can be gleaned from this diagram is the fact that the ra
 
 Furthermore, when it comes to low frequencies, cats are more sensitive to minute changes in the mid-to-high range than to vibrational low frequencies, and this is where the difference in music experience arises.
 
-> Even with the same sound source, the ""main frequency'' differs depending on the species.
+> Even with the same sound source, the ""main frequency'' is completely different depending on the species.
 
 ---
 
@@ -249,7 +249,7 @@ Designed as environmental music, this work is likely to contribute to alleviatin
 
 - Stars of the Lid – Requiem for Dying Mothers
 
-Characterized by extremely slow development and a sustained drone-like sound. For dogs, it acts as an environment with few changes in sound.
+Characterized by extremely slow development and a sustained drone-like sound. For dogs, it acts as an ""environment with few changes in sound.''
 
 - William Basinski – The Disintegration Loops
 
@@ -279,11 +279,11 @@ It intentionally contains high-frequency noise, which is too strong a stimulus f
 
 - Claude Debussy – Clair de Lune
 
-高域の繊細なタッチと柔らかいダイナミクスは、猫の感覚に比較的近い。
+The delicate touch and soft dynamics of the high range are relatively close to the sensation of a cat.
 
 - Erik Satie – Gymnopédies
 
-Simple, repetitive structures do not become information overload for cats.
+Simple, repetitive structures are not information overload for cats.
 
 - Harold Budd – The Pavilion of Dreams
 
@@ -299,7 +299,7 @@ A group of songs that reproduce the frequencies of cat purrs and meows. It has b
 
 - Alva Noto – Xerrox Series
 
-高周波ノイズと微細なクリック音が多く、猫の聴覚刺激として機能する可能性がある。
+There are many high-frequency noises and minute clicks, which can act as auditory stimuli for cats.
 
 - Ryoji Ikeda – +/−
 
@@ -311,7 +311,7 @@ It has an intermediate structure between noise and melody, and is characterized 
 
 ### Unsuitable example
 
-- 低音重視のヒップホップやEDM
+- Hip hop and EDM with emphasis on bass
 
 Cats tend to perceive sounds as "thin".
 
@@ -319,15 +319,15 @@ Cats tend to perceive sounds as "thin".
 
 ---
 
-## 補足：ジャンルと周波数分布の対応
+## Supplement: Correspondence between genre and frequency distribution
 
 <div class="mermaid">
 graph TD
-A[低周波中心] --> B[ambient]
+A[low frequency center] --> B[ambient]
 A --> C[classical string music]
-D[中周波] --> E[ポップ]
+D[medium frequency] --> E[pop]
 D --> F[jazz]
-G[高周波] --> H[experimental music]
+G[high frequency] --> H[experimental music]
 G --> I[electronic sound]
 </div>
 
@@ -337,11 +337,11 @@ Genre is not just a style, but can be seen as a collection of frequency distribu
 
 ## Supplementary conclusion
 
-ペットに音楽を選ぶという行為は、単なる好みではなく「聴覚設計」に近い。人間にとって心地よい音楽が、そのまま犬や猫にとっても快適であるとは限らない。
+Choosing music for your pet is not just a matter of preference, but akin to ""aural design''. Music that is comfortable for humans does not necessarily mean that it is also comfortable for dogs and cats.
 
 Rather, what is important is how much energy the sound has in which frequency band, and how it changes over time.
 
-> 音楽を選ぶのではなく、周波数環境を設計するという視点が鍵になる。
+> The key is to design the frequency environment rather than choosing the music.
 
 
 ---

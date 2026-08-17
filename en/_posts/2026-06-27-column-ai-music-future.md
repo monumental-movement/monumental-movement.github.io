@@ -14,7 +14,7 @@ title: '[Column] Will AI end music? Redefining creativity in the Suno/Udio era'
 ---
 
 
-## Will the music end? Or will the era in which humans monopolized music end?
+## Will the music end? Or will the era in which humans had a monopoly on music end?
 
 Text: mmr｜Theme: Will AI end music? Redefining creativity in the Suno/Udio era
 
@@ -73,7 +73,7 @@ D --> E["Distribution/Sharing"]
 
 In this structure, the existence of a conventional "performer" is not essential.
 
-> Composition is moving from a manual skill to a language skill.
+> Composition is moving from a hand skill to a language skill
 
 ---
 
@@ -97,7 +97,7 @@ But AI-generated models integrate this layer.
 
 This change is said to be a democratization of music production, but it also has the aspect of a ""dilution of specialization.''
 
-When anyone can create music, the question ""Who is a musician?'' arises.
+When it becomes possible for anyone to create music, the question ""Who is a musician?'' arises.
 
 > Creative freedom has expanded, but the contours of the profession are beginning to blur
 
@@ -157,7 +157,7 @@ This change shakes the "proof of existence" in music.
 
 ## Reorganization of the music industry: oversupply and algorithmic selection
 
-Thanks to AI generation, music has moved from an era of "scarcity" to an era of "excess."
+Thanks to AI generation, music has moved from an era of "scarcity" to an era of "excess".
 Every day, countless songs are created and released.
 
 In this situation, the problem becomes discovery rather than production.
@@ -250,7 +250,7 @@ It is not an "end" but a "relocation."
 Music doesn't go away.
 However, it is no longer the same music as before.
 
->The music never ends. However, it is no longer something that only belongs to humans.
+>The music never ends. However, it is no longer something that only humans have.
 
 
 ---

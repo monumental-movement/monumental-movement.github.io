@@ -13,9 +13,9 @@ title: Technasia – Force
 
 "Force" by Technasia can be called a techno anthem.
 
-"Force"は、ボーカルがこの典型的なTechnasiaのトラックを特別なものにし、素晴らしいクラシックとなっています。
+"Force" is a great classic, with the vocals making this typical Technasia track special.
 
-裏面のブレイクビートミックスも要チェックすで、聴く価値があります。
+Check out the breakbeat mix on the back, it's worth a listen.
 
 #### Tracklist
 ```md

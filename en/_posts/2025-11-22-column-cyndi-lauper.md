@@ -10,7 +10,7 @@ tags:
 - 80s
 - 90s
 title: '[Column] Cyndi Lauper: The story of a person who continued to change the times
-  with her voice and color'
+  with voice and color'
 ---
 
 
@@ -41,21 +41,21 @@ color: #fff;
 
 # **2. Childhood and family background: A girl with an "unusual voice" born in Queens**
 
-シンディ・ローパーは1953年、ニューヨーク州クイーンズで生まれました。母親はイタリア系アメリカ人で、芸術や演劇が大好きな女性。父親とは不和があり、家庭環境は穏やかとは言えませんでした。いわゆる“複雑な家庭”で育ったわけです。
+Cyndi Lauper was born in Queens, New York in 1953. Her mother is an Italian-American woman who loves art and theater. There was a rift with his father, and the family environment was not peaceful. I grew up in what is called a "complicated family."
 
-When Cindy was young, she was a child who would sing anything. He sang next to his mother in the kitchen and even in the backyard of the house, and may have been a little noisy to his siblings. However, the singing voice was different from normal. It"s tall, stretchy, looks like it"s going to make you cry, and yet it's strong. I was even told by a teacher at school, ""You should tone down that strange voice a little.''
+When Cindy was young, she was the kind of kid who would sing just about anything. He sang next to his mother in the kitchen and even in the backyard of the house, and may have been a little noisy to his siblings. However, the singing voice was different from normal. It"s tall, stretchy, looks like it"s going to make you cry, and yet it's strong. I was even told by a teacher at school, ""You should tone down that strange voice a little.''
 
 Nowadays, her voice is a worldwide trademark, but as a child, Cindy lacked confidence in her own voice, and there was a time when she worried that everyone thought my voice was strange.
 
-However, her mother loved the voice very much. This is because even in the midst of difficult family situations, Cindy's singing voice brought brightness into the home.
+However, her mother loved the voice very much. Because even in the midst of difficult family situations, Cindy's singing voice brought brightness into the home.
 
 ---
 
-# **3. Adolescence: Rebellious spirit and inclination towards art**
+# **3. Youth: Rebellious spirit and inclination towards art**
 
 In her adolescence, Cindy turned to the arts and tried anything creative, including painting and writing poetry. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
 
-Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
+Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around 20 years old, moving around the crowded streets of New York.
 
 During this time, she wore unique fashion combinations at thrift stores and flea markets. The ""unique and colorful fashion'' that came to be known later was born in part because people could not afford to buy new items when they were poor.
 
@@ -125,7 +125,7 @@ Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjo
 
 ### **Time After Time**
 
-Although it"s a ballad, Cindy"s high notes are powerful and at the same time delicate enough to make your heart clench.
+Although it is a ballad, Cindy's high notes are powerful and at the same time delicate enough to make your heart clench.
 It is said that the feelings of a time when a relationship with a lover is not going well are reflected in the song.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VdQY7BusJNU?si=Mo3fY3kDRNf-o-HC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -151,7 +151,7 @@ There are three reasons.
 
 She enjoys Japanese food every time she visits Japan and quickly becomes friends with the local staff. During the 1994 Japan tour, when he heard that there was a fan with a disability in the audience, he took time after the stage to meet him in person.
 
-In addition, the 2001 album ""Shine" was released only in Japan. This is said to have been a way of ""giving back to the Japanese fans."
+In addition, their 2001 album ""Shine" was released only in Japan. This is said to have been a way of ""returning the favor to Japanese fans."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61cwXn85sxk?si=NMR2yKfbhBEPlTIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -200,7 +200,7 @@ Cindy did not place any value on ""repeating successful forms" and valued ""bein
 
 # **12. Challenge to Broadway: Wins Tony Award for "Kinky Boots"**
 
-In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots" and won the Tony Award for Best Original Song.
+In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots," which won him the Tony Award for Best Original Song.
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 
@@ -259,11 +259,11 @@ flowchart TD
 **1993** "Hat Full of Stars"
 **2000s** Cross genres such as blues/dance
 **2013** Won Tony Award for "Kinky Boots"
-**2020s**　フェアウェルツアー発表
+**2020s** Farewell tour announcement
 
 ---
 
-# **17. まとめ：シンディ・ローパーの“自由という生き方”**
+# **17. Summary: Cyndi Lauper's "Freedom"**
 
 The reason why Cyndi Lauper has been loved for over 40 years is...
 Because she is the embodiment of freedom.

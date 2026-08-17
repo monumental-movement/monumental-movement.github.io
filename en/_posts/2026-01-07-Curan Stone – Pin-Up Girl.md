@@ -12,7 +12,7 @@ title: Curan Stone – Pin-Up Girl
 ---
 
 
-Curan Stone is American house DJ/producer Curtis Alan Jones, better known as Green Velvet. He also works under the names Cajmere, Geo Vogt, Half Pint, and Gino Vittori.
+Curan Stone is American house DJ/producer Curtis Alan Jones, known as Green Velvet. He also works under the names Cajmere, Geo Vogt, Half Pint, and Gino Vittori.
 
 "Pin-Up Girl" is a House track released on his own label, Relief Records, in 2003.
 

@@ -59,7 +59,7 @@ Rave is a musical culture that emphasizes the experience of the here and now, an
 | Illegality/Anonymity | No records are kept to avoid detection by the police or government |
 | Transient | Events on the floor disappear for a moment |
 
-In this way, the ""true image'' of many raves does not remain. The lack of sound sources, images, and records threatens to disrupt cultural inheritance.
+Thus, the ""true image'' of many raves does not remain. The lack of sound sources, images, and records threatens to disrupt cultural inheritance.
 
 ---
 
@@ -72,13 +72,13 @@ Zine is an abbreviation for "Magazine" and is an independent publication that an
 - Trinitarian structure of editor = reader = stakeholder
 - Free formats such as handwriting, cutting and pasting, collage, etc.
 - Any theme (music, politics, gender, personal experiences, essays, etc.)
-- A means for "recording and sharing" that has nothing to do with commercialism
+- A means of "recording and sharing" that has nothing to do with commercialism
 
 ---
 
 ### Zine and rave affinity
 
-Zines can be a ""means for reconstructing the experience'' of unrecorded raves.
+Zines can be a means of reconstructing the experience of unrecorded raves.
 
 #### Specific example
 
@@ -114,7 +114,7 @@ flowchart TD
 ### In the age of digital, why keep things on paper?
 
 | Features | Digital | Paper (Zine) |
-| ------------------------ | --------------------------------- | ---------------------------------------------- |
+| ----------------------- | --------------------------------- | ---------------------------------------- |
 | May disappear | May disappear due to broken link or deletion | Will remain in your possession semi-permanently |
 | Copy | Infinite copying possible | Limited physical copy = presence as "evidence" |
 | Share | Instantly share with a click | Hand delivery/mailing = physical ritual involved |

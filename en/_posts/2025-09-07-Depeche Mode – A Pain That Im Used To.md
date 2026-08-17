@@ -9,15 +9,15 @@ tags:
 - IDM
 - Electro
 - 00s
-title: Depeche Mode – A Pain That I'm Used To
+title: Depeche Mode – A Pain That I"m Used To
 ---
 
 
-Depeche Mode(デペッシュモード )の11枚目のアルバム「Playing the Angel (プレイング・ジ・エンジェル)」からのシングルカット。プロデューサーはBen Hillier。
+Single cut from Depeche Mode's 11th album "Playing the Angel". The producer is Ben Hillier.
 
-The remix was handled by Bitstream (Dave Conner & Steve Conner), a brother duo from the UK who have been releasing IDM/techno/electro sounds since the late 90's on labels such as Warp Records and Elektrix Records.
+The remix was handled by Bitstream (Dave Conner & Steve Conner), a brother duo from the UK who have been releasing IDM/techno/electro sounds since the late 90's on labels such as Warp Records and Electrix Records.
 
-2005年にUKレーベルMuteからリリースされたIDM／Electro。
+IDM/Electro was released by UK label Mute in 2005.
 
 
 #### Tracklist

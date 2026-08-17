@@ -33,7 +33,7 @@ When many listeners hear Voivod's music for the first time, they feel strangely 
 - The chord progression is unstable and has a floating feel.
 - The vocals are like a roar, but also somehow cold.
 
-However, beneath the chaos there is a strong sense of unity.
+However, deep within the chaos there is a strong sense of unity.
 
 Voivod was a band that was trying to create an "alternative future" rather than "destruction."
 
@@ -169,7 +169,7 @@ At this point, the seeds of the later progressive movement were present.
 
 Away"s jacket collection is extremely important to understanding Voivod"s music.
 
-His illustrations blended comic book, science fiction, metal art, and underground comics sensibilities.
+His illustrations were a mix of comic books, sci-fi movies, metal art, and underground comics sensibilities.
 
 Voivod's worldview was a comprehensive work that included not only sound but also visuals.
 
@@ -264,7 +264,7 @@ The future they envision is an unstable, mechanized dystopia.
 
 The late 1980s was also a time when computer technology began to rapidly penetrate general society.
 
-Voivod was a musical expression of that change.
+Voivod was a musical expression of this change.
 
 ### Progressive structure
 
@@ -387,7 +387,7 @@ It received particularly high praise from musicians.
 
 In later years, many experimental metal bands cited Voivod as an important source.
 
-> 『Dimension Hatröss』は、メタルを“宇宙建築”へ変化させた傑作だった。
+> ""Dimension Hatröss" was a masterpiece that transformed metal into ""space architecture."
 
 ---
 
@@ -401,7 +401,7 @@ This work combines their experimental nature and ease of listening with a miracu
 
 A cover of Pink Floyd"s song "Astronomy Domine" symbolizes Voivod"s musical roots.
 
-彼らは単なるスラッシュバンドではなく、サイケデリックと宇宙感覚を深く吸収していた。
+They weren't just a thrash band, they were deeply psychedelic and cosmic.
 
 ### Major distribution and reputation expansion
 
@@ -413,15 +413,15 @@ But at the same time, they never fully adapted to the mainstream market.
 
 ### Complexity and Groove
 
-この作品では、従来よりグルーヴ感が強化されている。
+This work has a stronger sense of groove than before.
 
 Although complex, the music progresses fluidly.
 
 This feeling also connected to later alternative metal.
 
-### Piggyのギター革命
+### Piggy's Guitar Revolution
 
-Piggyのコードワークは、この時点で完全に唯一無二だった。
+Piggy's codework was completely unique at this point.
 
 It deviates greatly from the idea of ​​a general metal guitar.
 
@@ -443,7 +443,7 @@ They were not just a band of the times, but an expression of civilizational anxi
 
 ## Changes and struggles in the 1990s
 
-In the 1990s, the metal scene changed dramatically.
+In the 1990s, the metal scene changed drastically.
 
 - Grunge.
 - Alternative.
@@ -463,7 +463,7 @@ Although some fans were confused, this work was reevaluated in later years.
 
 ### "The Outer Limits"
 
-1993年の『The Outer Limits』では、再びSF色が強化される。
+1993's ""The Outer Limits'' again strengthens the sci-fi tone.
 
 The long song "Jack Luminous" became an important song symbolizing Voivod's progressive nature.
 
@@ -479,7 +479,7 @@ His distorted bass sound was an important element supporting Voivod's mechanical
 
 In the 1990s, the metal market was undergoing major restructuring.
 
-その中でVoivodは、商業性より実験性を維持し続けた。
+Among them, Voivod remained more experimental than commercial.
 
 Although this was difficult, it also increased their value in the long term.
 
@@ -510,19 +510,19 @@ These naturally connect to later post-metal and alternative metal.
 
 ## An innovator named Piggy
 
-Voivodを語る上で、Piggyの存在は絶対に欠かせない。
+Piggy's presence is absolutely essential when talking about Voivod.
 
 He occupies a very special place in metal guitar history.
 
-### リフの概念を変えた男
+### The man who changed the concept of riffing
 
 Normal thrash guitar emphasizes aggression and speed.
 
 However, Piggy created an ""unstable space.''
 
-彼のコードは濁っている。
+His code is muddy.
 
-だが、その濁りこそがVoivodサウンドを成立させていた。
+However, that turbidity was what made the Voivod sound.
 
 ### Distance from jazz and progressive rock
 
@@ -530,7 +530,7 @@ Piggy was not a show-off guitarist.
 
 There was also distance from the fast-shooting competition.
 
-Rather, he was a space designer.
+Rather, he was a space architect.
 
 In that sense, he is often compared to Robert Fripp.
 
@@ -558,7 +558,7 @@ As a result, Voivod has a unique floating feeling that is difficult to explain.
 
 In 2005, Piggy died of colon cancer.
 
-これはVoivodにとって壊滅的打撃だった。
+This was a devastating blow to Voivod.
 
 However, the recordings and ideas he left behind were used in his later works.
 
@@ -570,9 +570,9 @@ However, the recordings and ideas he left behind were used in his later works.
 
 Voivod is not just a sound band.
 
-Awayによるアートワークは、Voivod世界を形成する巨大要素だった。
+Away's artwork was a huge part of shaping the Voivod world.
 
-### DIY精神
+### DIY spirit
 
 From the beginning, Away was in charge of jackets and logos.
 
@@ -580,9 +580,9 @@ This is similar to the punk DIY spirit.
 
 The Voivod were building their own world.
 
-### SF comic world view
+### SF comic worldview
 
-Awayの描く世界には、メビウス、地下コミックス、SFアニメーション的感覚も混在している。
+The world Away depicts is a mixture of Mobius, underground comics, and science fiction animation.
 
 As a result, Voivod became "readable metal."
 
@@ -592,11 +592,11 @@ With Voivod, artwork and sound are perfectly connected.
 
 This is very important.
 
-彼らは単なるアルバムジャケット制作ではなく、世界設定を作っていた。
+They weren't just creating album jackets, they were creating world settings.
 
 ### Expanding Metal Aesthetics
 
-1980年代メタルの多くは、筋肉的で誇張されたビジュアルを用いていた。
+Much of 1980s metal featured muscular, exaggerated visuals.
 
 But Voivod is different.
 
@@ -639,13 +639,13 @@ Since the 2000s, Voivod has continued its activities despite facing difficulties
 
 ### Joined by Jason Newsted
 
-There was also a time when Jason Newsted, formerly of Metallica, joined the band.
+There was also a time when Jason Newsted, formerly of Metallica, joined the group.
 
-彼はVoivodの熱心なファンとして知られていた。
+He was known as an avid Voivod fan.
 
 The addition of Newsted has also led to a renewed focus on Voivod.
 
-### Piggy没後の継続
+### Continuation after Piggy's death
 
 After Piggy's death, it seemed difficult for the band to continue.
 
@@ -655,7 +655,7 @@ This was not just an act of maintaining nostalgia, but an act of continuing the 
 
 ### Connecting with the new generation
 
-21世紀に入り、Voivodは若い世代から再評価されていく。
+In the 21st century, Voivod is being reevaluated by the younger generation.
 
 The reason is clear.
 
@@ -663,13 +663,13 @@ This is because modern metal contains a lot of Voivod elements.
 
 Dissonance.
 
-変拍子。
+Odd time signature.
 
-SF世界観。
+SF worldview.
 
 Acoustic spatiality.
 
-かつて異端だったものが、後にスタンダード化したのである。
+What was once heresy later became standard.
 
 ### After "Target Earth"
 
@@ -683,7 +683,7 @@ It is still evolving.
 
 Many long-lived metal bands end up being replays of their past.
 
-But Voivod was relatively spared.
+But Voivod was relatively free of that.
 
 They still maintain their experimental spirit.
 
@@ -691,7 +691,7 @@ They still maintain their experimental spirit.
 
 ---
 
-## Voivodが残したもの
+## What Voivod leaves behind
 
 Voivod wasn't a huge commercial band.
 
@@ -717,7 +717,7 @@ As a result, the path of avant metal and experimental metal expanded.
 
 Metal that dealt with science fiction images existed.
 
-だがVoivodは、それを音響構造へまで落とし込んだ。
+But Voivod has reduced this down to its sonic structure.
 
 This was a very important innovation.
 
@@ -766,7 +766,7 @@ That"s because they weren"t just a trend, they were turning ""anxiety about the 
 | ---- | ---------------------- |
 | 1982 | Formed in Quebec, Canada |
 | 1984 | "War and Pain" announced |
-| 1986 | 『Rrröööaaarrr』発表       |
+| 1986 | "Rrröööaaarrr" announced |
 | 1987 | "Killing Technology" announced |
 | 1988 | "Dimension Hatröss" announced |
 | 1989 | "Nothingface" announced |
@@ -829,7 +829,7 @@ And that sound still resonates today as if it is coming from the future.
 
 ### YouTube Podcast
 
-※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FsrBKe5auGg?si=fNq6sIF857tojDuP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

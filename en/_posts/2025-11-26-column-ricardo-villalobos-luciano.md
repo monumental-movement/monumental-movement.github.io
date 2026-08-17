@@ -71,7 +71,7 @@ One night there were about 300 people on the club floor. Villalobos plays long t
 
 ### Evolution of Alcachofa and Villalobos
 
-In 2003, Villalobos released the album Alcachofa. This work is hailed as a masterpiece that redefines the language of club culture. In the long track, which lasts over 10 minutes, the rhythm changes minutely and the beats intertwine constantly. The listeners' bodies were naturally immersed in the flow of time, and the floor became a kind of ""ceremonial space.''
+In 2003, Villalobos released the album Alcachofa. This work is hailed as a masterpiece that redefines the language of club culture. Throughout the long track, which lasts over 10 minutes, the rhythm changes minutely and the beats intertwine incessantly. The listeners' bodies were naturally immersed in the flow of time, and the floor became a kind of ""ceremonial space.''
 
 Examples of songs included in the album:
 
@@ -84,7 +84,7 @@ Examples of songs included in the album:
 Around the same time, Luciano founded the Swiss-based Cadenza label. The sound, which mixed the warmth of Latin and the coolness of minimalism, became a breath of fresh air in European clubs. His early releases include songs such as:
 
 - *Rise of Angel* — A fusion of deep bass lines and rhythmic percussion
-- *The Dialogue* — A set track with a dialogue between melody and rhythm.
+- *The Dialogue* — A set track that focuses on dialogue between melody and rhythm.
 - *No Friends* — A long track optimized for impromptu dance on the club floor
 
 ---
@@ -95,7 +95,7 @@ Their music is more than just beats. By combining Villalobos" German precision w
 
 ### Revolution of rhythm and body
 
-Villalobos" long tracks draw listeners/dancers into a whirlpool of time. The minute changes repeated over 10 or 15 minutes assimilate the body to the rhythm, turning the club into a ceremonial space rather than just a playground. The addition of Luciano"s Latin percussion fills the floor with warmth and dynamism.
+Villalobos" long tracks draw the listener/dancer into a whirlpool of time. The minute changes repeated over 10 or 15 minutes assimilate the body to the rhythm, turning the club into a ceremonial space rather than just a playground. The addition of Luciano"s Latin percussion fills the floor with warmth and dynamism.
 
 ---
 

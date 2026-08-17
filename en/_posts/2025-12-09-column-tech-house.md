@@ -168,14 +168,14 @@ At this time, Tech House was characterized by being ""softer than minimal", ""da
 
 In the 2010s, Tech House became one of the most frequently played 4/4 in clubs and festivals around the world. The increase in demand was particularly large in Ibiza.
 
-Examples of notable artists:
+Examples of featured artists:
 
 *Jamie Jones (Hot Creations)
 *Lee Foss
 * Hot Since 82
 * Green Velvet (bridge between Tech House and House)
 * Claude VonStroke (Dirtybird context)
-* Solardo
+*Solardo
 * Fisher (commercial success)
 
 In the late 2010s, ""festival-style tech house'' with more poppy and catchy hooks emerged and expanded as music used at large-scale events.
@@ -197,7 +197,7 @@ flowchart TD
 
 ## 8. Regional development
 
-Tech Houseは国ごとに解釈と育ち方が異なる。以下では代表的な地域をまとめる。
+Tech House is interpreted and cultivated differently in each country. Below is a summary of representative regions.
 
 ### ■ 1. United Kingdom
 
@@ -242,10 +242,10 @@ These labels defined Tech House's sound image by focusing on highly functional t
 
 ## 10. Equipment/production aspects
 
-Tech Houseには特定の機材縛りがあるわけではないが、一般的に以下のような制作傾向が見られる。
+Although Tech House is not bound by any specific equipment, the following production trends are generally observed.
 
 * Minimal arrangement of square wave and sine wave basses
-* 909、808、707などのドラムマシン音源
+* Drum machine sound sources such as 909, 808, 707, etc.
 * Predominantly sample-based processing rather than modular
 * Reverb is short
 * Tighten the midrange with EQ

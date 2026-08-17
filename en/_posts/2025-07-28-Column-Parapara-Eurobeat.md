@@ -89,13 +89,13 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 <hr>
 
 ### Gyaru culture and charisma: Consumed dance
-● To "ParaPara = symbol of gyaru culture"
+● To "ParaPara = symbol of gal culture"
 
 - Closely linked to Shibuya 109 fashion
 
 - Distribution of choreography videos (VHS, later DVD)
 
-- Series such as ""Parapara Paradise" and ""Parapara Kyōten" are also available.
+- Series such as ""Parapara Paradise" and ""Parapara Kyonen" are also available.
 
 ● Media production
 

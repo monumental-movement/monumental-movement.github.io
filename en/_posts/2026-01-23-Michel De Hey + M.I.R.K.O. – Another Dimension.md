@@ -14,7 +14,7 @@ title: Michel De Hey + M.I.R.K.O. – Another Dimension
 
 A Techno track by Dutch techno stalwart Michel De Hey and Dutch techno & progressive trance producer Mirko van Dommelen, aka M.I.R.K.O.
 
-Michel De Hey とJeroen VerheijによるレーベルEC Recordsから2005年にリリースされた。
+It was released in 2005 on EC Records, the label by Michel De Hey and Jeroen Verheij.
 
 #### Tracklist
 ```md

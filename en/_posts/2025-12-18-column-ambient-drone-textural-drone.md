@@ -62,7 +62,7 @@ Textural Drone is characterized by a structure in which multiple tonal layers ch
 
 ### 2-2. Layering techniques
 
-The overlaying of multiple tracks transforms the music from a linear structure to a planar structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
+The overlaying of multiple tracks transforms the music from a linear structure to a surface structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
 
 <div class="mermaid">
 flowchart LR
@@ -82,7 +82,7 @@ Stars of the Lid uses strings, brass, and electronic sounds, and is characterize
 
 ### 3-2. Recording and mixing
 
-By suppressing high frequencies, preserving reverberation components for long periods of time, and stabilizing low frequencies, the sound image dissolves into space without becoming foregrounded. This is an example of a technological realization of ""diluting the presence'' of Textural Drones.
+By suppressing high frequencies, preserving reverberation components for long periods of time, and stabilizing low frequencies, the sound image dissolves into space without becoming foregrounded. This is an example of technologically realizing ""diluting the sense of presence'' in Textural Drone.
 
 ### 3-3. Time structure
 
@@ -96,7 +96,7 @@ Based on his interest in sleep research and brain wave states, Robert Rich creat
 
 ### 4-2. Tone design
 
-The integration of synthesizers, sample processing, and natural sounds creates textures that blur the boundaries between man-made and natural. The slow modulation of overtones serves to visualize the passage of time.
+Synthesizers, sample processing, and the integration of natural sounds form textures that blur the boundaries between man-made and natural. The slow modulation of overtones serves to visualize the passage of time.
 
 ### 4-3. Live performance and installation
 
@@ -123,7 +123,7 @@ flowchart TB
 
 ### 5-2. Dynamics control
 
-Sudden volume changes are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
+Sudden changes in volume are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
 
 ### 5-3. Spatial processing
 
@@ -135,13 +135,13 @@ Changes in Textural Drone are designed at a level that is not immediately notice
 
 ### 5-5. Relationship between noise and overtones
 
-The noise component is not an impurity, but rather serves as a medium to make the harmonic structure perceivable. In Stars of the Lid, the scrapes and breaths of string instruments obscure the contours of the harmonies, while in Robert Rich, environmental samples dissolve the contours of artificial sounds.
+The noise component is not an impurity, but rather serves as a medium to make the overtone structure perceivable. In Stars of the Lid, the scrapes and breaths of string instruments obscure the contours of the harmonies, while in Robert Rich, environmental samples dissolve the contours of artificial sounds.
 
 Sound source localization is obscured by long reverb time and diffusion processing. As a result, sound is perceived as a texture of the entire space rather than a direction.
 
 ---
 
-## Chapter 6 Visualization of the acoustic world through images and illustrations
+## Chapter 6 Visualization of the acoustic world through videos and illustrations
 
 ### 6-1. Diagram of layer structure
 
@@ -167,7 +167,7 @@ flowchart LR
 
 ### 1960s
 
-* The emergence of minimalist works centered on sustained sounds
+* The emergence of minimal works centered on sustained sounds
 
 ### 1970s
 

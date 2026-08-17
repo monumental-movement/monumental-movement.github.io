@@ -61,7 +61,7 @@ There is an intersection of art that allows us to "feel the world through sound.
 ### 2.1 2013: Transplantation experiment of mice made to listen to opera
 
 In 2013, a research team led by **Niimi Masanori** at Teikyo University,
-He gained attention for an experiment in which he made mice with heart transplants listen to music.
+He attracted attention for an experiment in which he made mice with heart transplants listen to music.
 This result was awarded the Ig Nobel Medicine Prize.
 
 The study compared mice in the following groups:
@@ -98,7 +98,7 @@ It also attracted a lot of attention in society as an example of visualizing the
 
 In 2020, research by **Takeshi Nishimura** and colleagues at the Primate Research Institute, Kyoto University
 Received the **Acoustics Prize**.
-The research team placed crocodiles in a helium-oxygen mixed gas (Heliox) environment.
+The research team placed crocodiles in a mixed gas environment of helium and oxygen (Heliox).
 Analyzing the formants (resonant components) of the cry.
 As a result, we confirmed that the resonance structure also changes as the air density changes.
 
@@ -124,7 +124,7 @@ Music also exists at the intersection of reason and play.
 
 ### 3.2 Music as a "social experiment using sound"
 
-John Cage's 4 Minutes 33 Seconds (1952) is known as silent music.
+John Cage's ""4 Minutes 33 Seconds'' (1952) is known as music that does not make any sound.
 From an Ig Nobel perspective, it can also be interpreted as an ""auditory/psychological experiment in a silent environment.''
 "Generative music" proposed by Brian Eno,
 This is an example of transplanting the scientific concepts of chance, algorithms, and time structure into art.
@@ -135,7 +135,7 @@ Both share the same spirit of inquiry with different methodologies.
 
 ---
 
-### 3.3 Audience as "subject" – between emotion and data
+### 3.3 Audience as "subject" – between emotions and data
 
 In recent neuroscience research, fMRI has been used to measure brain activity while listening to music.
 Efforts are underway to analyze the mechanisms by which pleasure and empathy occur.

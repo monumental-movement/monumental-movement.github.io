@@ -12,7 +12,7 @@ title: Slusnik Luna – Sun
 ---
 
 
-Slusnik Lunaは、Niko Nyman と Nicklas Renqvistにより、1994年にヘルシンキで結成されたフィンランドのTrance / House ミュージックデュオ。
+Slusnik Luna is a Finnish Trance/House music duo formed in Helsinki in 1994 by Niko Nyman and Nicklas Renqvist.
 
 The debut single "Sun" was first released in 2000 on the record label Unity Records of the Helsinki club Club Unity. The anthem song was subsequently released on various labels around the world, including the UK independent label Incentive Music and the US label Ultra Records, and became a club hit.
 

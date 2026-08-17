@@ -14,7 +14,7 @@ title: Public Energy – Slumber Velocity
 
 "Slumber" features a strong groove and a near-disappearing bass bass, giving way to a minimalistic trance melody before returning to a more intense sound. Additional acid drops are also laced throughout the track.
 
-一方で、"Velocity" は、よりヨーロッパスタイルでドラムロールが特徴です。
+"Velocity", on the other hand, has a more European style and features drum rolls.
 
 #### Tracklist
 ```md

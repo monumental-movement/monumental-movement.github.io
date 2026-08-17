@@ -44,7 +44,7 @@ The most important characteristics of acid house are the following sound element
 
 - Unique "purpy" and "squish" sound
 
-- フィルターのレゾナンスとスライドによって発生する不思議な音響変化
+- Mysterious acoustic changes caused by filter resonance and slide
 
 - Analog randomness and manual operation organicity
 
@@ -79,7 +79,7 @@ Acid house rapidly spread to the UK from the end of 1987 to 1988. Club DJs broug
 
 <hr>
 
-####  「セカンド・サマー・オブ・ラヴ（Second Summer of Love）」：1988年
+#### "Second Summer of Love": 1988
 
 - The connection between acid house and ecstasy (MDMA)
 
@@ -109,7 +109,7 @@ Acid house influenced not only music, but also visual and youth culture.
 
 - Yellow color, neon, psychedelic visuals
 
-- Tシャツ、フライヤー、レコードジャケットに見られるDIYグラフィック
+- DIY graphics seen on T-shirts, flyers and record jackets
 
 - Highly compatible with the Zine culture and free newspapers of the time
 
@@ -124,14 +124,14 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 <div class="table-border">
 <table>
 <thead>
-    <tr>
+<tr>
 <th>Time</th>
 <th>Region/Style</th>
 <th>Features</th>
 </tr>
 </thead>
 <tbody>
-    <tr>
+<tr>
 <td>1990s</td>
 <td>German Hard Acid</td>
 <td>Faster and aggressive style. Development into Acid Techno and Hard Acid</td>
@@ -139,7 +139,7 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 <tr>
 <td>Late 1990s</td>
 <td>France/Belgium</td>
-      <td>Raveと接続　トランスとアシッドの融合</td>
+<td>Connect with Rave Fusion of trance and acid</td>
 </tr>
 <tr>
 <td>2000s-present</td>
@@ -151,7 +151,7 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 <td>Acid Jazz, Acid Trap, etc.</td>
 <td>Examples of derived genres named "Acid" also appear</td>
 </tr>
-  </tbody>
+</tbody>
 </table>
 </div>
 		
@@ -160,9 +160,9 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 
 <hr>
 
-### 現代における位置づけと再評価
+### Positioning and re-evaluation in modern times
 
-Today, acid house is being reevaluated amidst retro culture and the revival of analog gear. In particular, it stands out in the following ways:
+Today, acid house is being reevaluated amidst retro culture and the revival of analog equipment. In particular, it stands out in the following ways:
 
 - Classical return to festivals and raves
 

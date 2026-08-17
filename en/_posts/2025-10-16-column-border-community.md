@@ -22,7 +22,7 @@ Text: mmr｜Theme: Tracing the musical philosophy of "Border Community" establis
 The name Border Community is more than just a label.
 It was a statement of ""a community connected through music" and a desire to ""transcend existing genres and commercial structures."
 
-In the early 2000s, the club scene was in the midst of major changes. Trance was becoming formalized and progressive house was becoming rigid.
+In the early 2000s, the club scene was in the midst of major changes. Trance was formalizing and progressive house was becoming rigid.
 In it, James Holden was exploring sounds that go back and forth between melody and noise, analog and digital, intelligence and emotion.
 
 "Border Community" was born as his "border laboratory."
@@ -47,7 +47,7 @@ color: #fff;
 ## II. Landscape of 2001: Dawn of Post-Progressive
 
 In 2001, Holden gained attention with the song "A Break in the Clouds" released on Silver Planet.
-Their sound broke the mold of progressive house at the time. Melancholic yet architectural. The floating melody turned the club night into a poetic experience.
+Their sound broke the mold of progressive house at the time. Melancholic yet architectural. The floating melodies turned club nights into a poetic experience.
 
 Starting with this song, he carves out a sound that is neither trance nor house.
 This flow later crystallized in the form of Border Community.
@@ -92,7 +92,7 @@ Between ambient and trance, between club and introspection—music that doesn't 
 ## V. Major artists: a group of resonant sounds
 
 - **Nathan Fake** — Between nostalgia and chaos. His masterpiece "Drowning in a Sea of ​​Love" is a monumental work of analog electronica.
-- **Petar Dundov** — A fusion of architectural beauty and trance sensations. Coexistence of mathematical precision and emotion.
+- **Petar Dundov** — A fusion of architectural beauty and trance sensation. Coexistence of mathematical precision and emotion.
 - **Luke Abbott** — An idyllic future of modular synths. "Holkham Drones" depicts the symbiosis between nature and electrons.
 - **The MFA, Avus, Ricardo Tobar** — Leaders of the "Border aesthetic" that spread from local to global.
 
@@ -120,7 +120,7 @@ Border Community may have receded from the mainstream, but its influence has con
 ""Border'' is not a boundary between genres, but a boundary between ideas.
 For Holden, music was a response to society and a question to the world.
 
-As club culture became more commercialized, Border Community became a base for regaining ""emotions" and ""autonomy."
+As club culture became commercialized, Border Community became a base for regaining ""emotions" and ""autonomy."
 Sound is not nostalgia, but the reconstruction of memory.
 It has the power to make listeners reconsider their own boundaries.
 

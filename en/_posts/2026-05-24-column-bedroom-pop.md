@@ -38,13 +38,13 @@ Bedroom Pop didn't just appear out of nowhere.
 
 Its roots lie in 1970s DIY punk, 1980s cassette culture, and 1990s lo-fi indie.
 
-For example, in the American indie scene, home recording using 4-track MTR was widely practiced. The concept of lo-fi itself does not negate the roughness of recording quality, but rather is born out of a sense of affirming its ""rawness''.
+For example, in the American indie scene, home recording using 4-track MTR was widely practiced. The concept of lo-fi itself does not negate the roughness of recording quality, but rather is born out of a sense of affirming its ""rawness.''
 
 In the late 1980s, underground networks through cassette tapes also expanded. Artists exchanged works by mail, and a small community was formed.
 
 In the 1990s, the Internet gradually began to spread, giving rise to personal sites and an MP3 sharing culture. What is important here is that music distribution has gradually begun to move away from a centralized structure.
 
-Furthermore, in the 2000s, low-priced DAWs such as Apple's GarageBand became popular with general users. This has made it possible for young people without a professional studio to record, edit, and publish their work by themselves.
+Furthermore, in the 2000s, low-priced DAWs such as Apple's GarageBand became popular with general users. As a result, even young people who do not have a professional studio can record, edit, and publish their work by themselves.
 
 Bedroom Pop was established against this long history of DIY culture.
 
@@ -65,7 +65,7 @@ timeline
 
 In the past, home recording was often seen as a ""budget-strapped alternative.'' However, in the late 2010s, these values ​​began to reverse.
 
-Noise, environmental sounds, breathing, small recording mistakes.
+Noise, environmental sounds, breathing, small recording errors.
 
 These elements came to be seen as ""realism" rather than ""unfinished."
 
@@ -105,7 +105,7 @@ Such images created a far more intimate feeling than a huge studio space.
 
 The conventional star system was based on a "sense of distance."
 
-However, Bedroom Pop, on the contrary, placed value on ""proximity.''
+However, Bedroom Pop, on the contrary, placed value on ""proximity''.
 
 <div class="mermaid">
 flowchart TD
@@ -311,7 +311,7 @@ It has changed the very values ​​of young people.
 
 Once upon a time, musical success meant big studios, TV appearances, gigantic gigs, and a lavish lifestyle.
 
-However, in the Bedroom Pop era, the feeling of being able to start in your own room is valued.
+However, in the Bedroom Pop era, the feeling of being able to start from your own room is valued.
 
 Success came to be seen as an ""extended event'' rather than a distant dream.
 
@@ -355,7 +355,7 @@ D --> E[professionalization]
 
 ## Influence on fashion and visual aesthetics
 
-Bedroom Pop had a huge influence not only on music, but also on video and fashion.
+Bedroom Pop had a huge impact not only on music, but also on video and fashion.
 
 Of particular importance is the ""aesthetics that avoids excessive production.''
 
@@ -389,7 +389,7 @@ LED light.
 
 record shelf.
 
-Small synth.
+A small synth.
 
 Ornamental plants.
 
@@ -445,7 +445,7 @@ It has a strong sense of atmosphere.
 
 These worked to their advantage in an algorithmic environment.
 
-> Bedroom Pop was emotion-sharing music optimized for the algorithm era.
+> Bedroom Pop was emotion-sharing music optimized for the algorithm age.
 
 ---
 
@@ -479,7 +479,7 @@ In other words, DIY reality has become a commercial format.
 
 Because Bedroom Pop is so introspective, some say that prolonged contact with it can cause emotional exhaustion.
 
-Particularly in the age of social media, it has been pointed out that there is a danger that feelings of loneliness and anxiety are repeatedly amplified.
+Particularly in the age of social media, it has been pointed out that there is a danger that feelings of loneliness and anxiety may be repeatedly amplified.
 
 Still, the reason Bedroom Pop was widely supported is that it created a ""culture that doesn't hide its weaknesses.''
 
@@ -489,7 +489,7 @@ Still, the reason Bedroom Pop was widely supported is that it created a ""cultur
 
 ## How will Bedroom Pop change in the future?
 
-Since the mid-2020s, the term Bedroom Pop itself hasn't been used as often as it was at its peak.
+Since the mid-2020s, the term Bedroom Pop itself hasn't been used as often as it was during its peak.
 
 However, its influence has already permeated pop culture as a whole.
 

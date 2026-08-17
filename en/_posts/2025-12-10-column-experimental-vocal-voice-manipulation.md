@@ -151,7 +151,7 @@ Here, we will show you a basic workflow that can actually be used to produce exp
 
 ## Chapter 8: Educational and research perspectives
 
-Voice manipulation is an area closely connected to acoustics, psychology, and artificial intelligence research. Perception of voice quality, parameterization for voice synthesis, and physiological understanding of vocalization will contribute to the technical deepening of experimental vocals.
+Voice manipulation is an area closely connected to acoustics, psychology, and artificial intelligence research. Perception of voice quality, parameterization for voice synthesis, and physiological understanding of vocalization will contribute to the deepening of experimental vocal techniques.
 
 ---
 
@@ -180,7 +180,7 @@ flowchart TD
     B --> C["1970s Increased use of vocoder"]
     C --> D["1990s DAW popularization"]
     D --> E["Comprehensive use of 2000s voice materials"]
-    E --> F["Bjork の声中心の作品群"]
+    E --> F["A collection of works centered on Bjork's voice"]
     E --> G["Real-time operation of Imogen Heap"]
     H["2010s AI voice analysis progress"] --> I["2020s Popularization of voice generation model"]
 </div>

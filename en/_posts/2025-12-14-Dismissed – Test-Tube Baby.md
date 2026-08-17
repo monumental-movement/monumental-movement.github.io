@@ -12,7 +12,7 @@ title: Dismissed – Test-Tube Baby
 ---
 
 
-※Single Sided
+*Single Sided
 
 Torsten Knuth, also known as Dismissed, is a German DJ/producer who works under various names such as DJ Schlumpf and Raul Rincon.
 

@@ -49,7 +49,7 @@ color: #fff;
 
 ## Chapter 1 Social background and expression of the roots reggae generation
 
-Politics and culture were closely intertwined in Jamaica in the 1960s and 1970s, when the roots reggae generation grew up. Before music was entertainment, it was education and a device for sharing ideas. The reason why Bob Marley's songs were accepted across national borders was more than just the melody, but the universal themes of oppression and liberation.
+In Jamaica during the 1960s and 1970s, when the roots-reggae generation grew up, politics and culture were closely intertwined. Before music was entertainment, it was education and a device for sharing ideas. The reason why Bob Marley's songs were accepted across national borders was more than just the melody, but the universal themes of oppression and liberation.
 
 Artists like Burning Spear and Culture inscribed history and memory into songs, expanding personal history into collective history. The rhythm was slow, heavy, and repetitive, creating a structure that gave the listener time to think.
 
@@ -71,7 +71,7 @@ Dub's sense of subtracting sound and emphasizing space is directly connected to 
 
 ## Chapter 3: Sound system culture, a generation renewal device
 
-The sound system was a place for music to be played, and at the same time, it was a device for changing the protagonists between generations. This culture, which allowed even young people without a studio or musical instrument to participate as selectors or MCs, temporarily dismantled hierarchical structures.
+The sound system was a place for music to be played, and at the same time, it was a device for changing the protagonists between generations. This culture, in which even young people without a studio or musical instrument could participate as selectors or MCs, temporarily dismantled hierarchical structures.
 
 At the Sound Clash scene, the audience's reaction was everything. The improvisational nature and competitive spirit developed here will form the values ​​of the dancehall generation.
 
@@ -85,7 +85,7 @@ In the mid-1980s, the conditions for music production changed completely with th
 
 Dancehall artists such as Shabba Ranks value immediate reaction over long-term evaluation. Lyrics became everyday and direct, and music became completely connected to life.
 
-> Dancehall was a quick fix for survival in uncertain times.
+> Dancehall was a quick fix to survive uncertain times.
 
 ---
 

@@ -73,7 +73,7 @@ The long repetition weakens the sense of time, leading the audience into a tranc
 
 Even the moment when feedback and noise reach their control limits becomes the core of the performance.
 
-> Boredoms live shows are the process of reaching a critical point in their sound.
+> Boredoms live performances are the process of reaching a critical point in sound.
 
 ---
 
@@ -123,7 +123,7 @@ In the compass, we suppress the number of sounds and emphasize reverberation.
 
 ---
 
-## ROVOとトランス構造
+## ROVO and transformer structure
 
 ROVO focuses on long-term repetitive structures.
 
@@ -143,7 +143,7 @@ ROVO focuses on long-term repetitive structures.
 * TOKYO LOOP original soundtrack (2006)
 *PLAYGROUND (2010)
 * PLAYGROUND Acoustic+ (2011)
-* ラプソディア（2011）
+* Rhapsodia (2011)
 * Cover album 1st collection (2013)
 *LIGHTS (2013)
 * Falsetto (2014)
@@ -172,7 +172,7 @@ D --> E[lasting change]
 
 Sounds exist not as phrases, but as phenomena that continue to overlap.
 
-### 「Mantral」における起源と到達
+### Origin and arrival in "Mantral"
 
 The last song on the album, ""Mantral,'' is not only a complete studio work, but it can also be understood more three-dimensionally by tracing its origins.
 
@@ -198,7 +198,7 @@ In other words, ""Mantral'' is not just a song, but the very core of the sound t
 
 ""Mantral" from ""Crown of Fuzzy Groove" is presented as something close to its final form.
 
-ここでは、反復される旋律がディレイによって無数に増幅され、音の層は次第に肥大化していく。音は個別の存在を失い、巨大な音響の流れへと変化する。
+Here, the repeated melody is amplified countless times by delays, and the layers of sound gradually become larger. Sound loses its individual existence and transforms into a gigantic stream of sound.
 
 At its core is a simple, repeated melody. This melody is multiplexed with a delay, and the sound gradually becomes thicker. Individual sounds lose their contours and transform into a continuous acoustic body.
 
@@ -210,7 +210,7 @@ Rather than setting the rhythm, the drums function as the "axis that sustains th
 
 * A pattern that repeats at regular intervals
 * Minimalistic blowing without excessive decoration
-* A core that remains buried in the layers of sound but never disappears
+* A core that does not disappear even though it is buried in layers of sound
 
 This drum creates a gentle gravity rather than a chaotic proliferation of sounds.
 

@@ -19,7 +19,7 @@ Psycho Cowboys (also known as Hedfu_k) is a project by UK-based producer/compose
 
 This record is a Breaks/Big Beat track released in 1999 by London's independent record label Wall Of Sound.
 
-レーベルWall Of Soundは、ブライトンを拠点とするSkint Records(スキントレコード) と並んで、1990年代半ば〜後半にかけてのビッグビートムーブメントの中心的存だった。また、Propellerheads、The Wiseguys、Les Rythmes Digitalesなどの国際的に有名なビッグビートアーティストを紹介した事でも知られている。
+The Wall Of Sound label, along with Brighton-based Skint Records, were central to the big beat movement of the mid-to-late 1990s. He is also known for introducing internationally renowned big beat artists such as Propellerheads, The Wiseguys, and Les Rythmes Digitales.
 
 #### Tracklist
 ```md

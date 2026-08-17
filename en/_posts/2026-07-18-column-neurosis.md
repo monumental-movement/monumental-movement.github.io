@@ -71,7 +71,7 @@ color: #fff;
 
 Neurosis was formed in 1985 in Oakland, California.
 
-Oakland is located on the eastern shore of San Francisco Bay and is part of the so-called Bay Area cultural area.
+Oakland is located on the eastern shore of San Francisco Bay and is part of the so-called Bay Area cultural region.
 
 In the 1980s, very diverse musical cultures coexisted in this region.
 
@@ -106,7 +106,7 @@ Their attitude of producing only the works they considered ideal, rather than co
 
 Their values, which prioritize the quality of their work over commerciality, symbolize their entire career.
 
-### Departure from hardcore punk
+### Departing from hardcore punk
 
 Neurosis was very different from its current form when it first formed.
 
@@ -117,7 +117,7 @@ In the early works,
 - Rhythm derived from punk
 - Shout-based vocals
 
-was the focus.
+が中心だった。
 
 In particular, the influence of 1980s American hardcore is very strong.
 
@@ -177,7 +177,7 @@ Neurosis' deep bass is not a simple bass line, but functions as the sound design
 
 Neurosis doesn't have a structure dominated by one frontman.
 
-Multiple people sing,
+multiple people sing,
 
 Multiple people manipulate noise,
 
@@ -211,7 +211,7 @@ What is important here is that we have begun to emphasize "weight" rather than "
 
 At the height of thrash metal's heyday, Neurosis started moving in the opposite direction.
 
-Furthermore, the song structure gradually becomes longer, breaking away from the simple A-melody/B-melody structure.
+Furthermore, the song structure gradually becomes longer, moving away from the simple A-melody/B-melody structure.
 
 At this point, the term "post-metal" did not yet exist.
 
@@ -334,7 +334,7 @@ ethnic percussion,
 
 environmental sounds,
 
-Feedback noise etc. naturally mix together.
+Feedback noise etc. are mixed naturally.
 
 These are by no means "experiments".
 
@@ -352,7 +352,7 @@ Then a huge riff appears.
 
 This difference creates a psychological impact.
 
-Its distinctive feature was that it was not simply ""heavy," but had a ""structure that gave the impression of weight."
+Its distinctive feature was that it was not simply ""heavy," but was designed with a ""structure that gives the impression of weight."
 
 ### Role of the two vocalists
 
@@ -382,7 +382,7 @@ A huge climax.
 
 These are designed to maximize effectiveness at live venues.
 
-For this reason, even in studio recordings, the sound is created with an awareness of "space."
+Therefore, even in studio recordings, the sound is created with an awareness of "space."
 
 > With ""Enemy of the Sun,'' Neurosis established a musical world that only they could create.
 
@@ -420,7 +420,7 @@ In later years, visual artist Josh Graham became heavily involved in live video 
 
 His video work further expanded the Neurosis live experience.
 
-The abstract images projected on the huge screen played an important role in immersing the audience.
+The abstract images projected on the giant screen played an important role in immersing the audience.
 
 ### Lighting is also part of the performance
 
@@ -547,7 +547,7 @@ This approach had a major influence on later sludge metal, doom metal, and post-
 
 ### Structure that tells a story throughout the album
 
-Through Silver in Blood, each song has a clearly designed role.
+Through Silver in Blood, each song's role is clearly designed.
 
 Rather than just lining up intense songs, there are also quiet introductions and scenes that serve as interludes, and the overall flow is meticulously constructed.
 
@@ -561,7 +561,7 @@ Although it was not a huge commercial hit when it was first released, it receive
 
 As time passed, its influence further expanded, with many artists citing this work as an important work.
 
-Today, it is often talked about as one of the representative works of the 1990s in the history of heavy music.
+Currently, it is often talked about as one of the representative works of the 1990s in the history of heavy music.
 
 > ""Through Silver in Blood'' became a work that symbolized not only Neurosis but also the expression of post-metal itself.
 
@@ -644,7 +644,7 @@ From the late 1990s to the early 2000s, many underground artists started establi
 
 The Neurosis initiative is often talked about as one of the examples that symbolizes this trend.
 
-> The establishment of Neurot Recordings was an event that demonstrated Neurosis' attitude of designing not only their own expressions but also their activities themselves.
+> The establishment of Neurot Recordings was an event that demonstrated Neurosis' willingness to design not only their own expressions but also their activities themselves.
 
 ---
 
@@ -659,7 +659,7 @@ The characteristics can be summarized as follows.
 * Doom metal sense of time
 * Ambient space design
 * Fusion of video and live performance
-* The idea of ​​constructing the entire album as a single work
+* The idea of ​​constructing the entire album as one work
 * Production system that follows the DIY spirit
 
 Although some of these elements were not uncommon on their own, there were almost no examples at the time that integrated them to this extent.
@@ -715,7 +715,7 @@ It is precisely because of the silence that the next note has a strong meaning.
 
 ""A Sun That Never Sets,'' released in 2001, is a work that symbolizes this change.
 
-The traditional sense of weight is maintained, but the weight of the acoustic guitar and clean tones has increased, creating an overall spacious sound image.
+The traditional sense of weight is maintained, but the weight of the acoustic guitar and clean tone increases, creating an overall spacious sound image.
 
 In addition to the wild shouting, there are also more scenes of low singing.
 
@@ -729,7 +729,7 @@ As the album title suggests, the world view where light and darkness coexist run
 
 In this work, there are many songs that are more impressive during quiet moments than during intense scenes.
 
-The tempo progresses slowly, and each note resonates for a long time.
+The tempo is slow, and each note resonates for a long time.
 
 There are moments when it feels more like an epic soundscape piece than a metal piece.
 
@@ -743,7 +743,7 @@ At this time, Neurosis was entering a stage where they were refining the express
 
 Therefore, at first glance, it is difficult to notice any major changes.
 
-However, if you listen to the details, you will notice that the sound placement and spatial design are more precise than ever before.
+However, if you listen to the details, you will notice that the sound placement and spatial design have become more precise than ever before.
 
 Rather than showing off the weight, let it exist naturally.
 
@@ -931,7 +931,7 @@ F
 
 ## Influence on subsequent artists: "Before Neurosis" and "After Neurosis"
 
-When discussing Neurosis' achievements, the most important thing is not "how many copies they sold."
+When discussing Neurosis' achievements, the most important thing is not how many copies they sold.
 
 Their true value lies in the fact that they rewrote the very way heavy music was made after that.
 
@@ -963,7 +963,7 @@ However, Neurosis' name is indispensable as an entity that has consistently put 
 
 ## The generation that inherited post-metal
 
-There are many bands that have been praised for openly being influenced by Neurosis, or for having strongly inherited their musicality.
+There are many bands that have openly said they were influenced by Neurosis, or have been praised for having strongly inherited their musicality.
 
 Among these, the following generations are considered to be particularly important.
 
@@ -993,7 +993,7 @@ The visual song structure and grand sense of scale continue the flow of Neurosis
 
 Pelican is a post-metal band that focuses on instrumental music.
 
-Even though there are no vocals, the composition that depicts the scene with just the songs makes you feel the influence of Neurosis.
+Even though there are no vocals, the composition depicting a scene with just the songs gives a sense of the influence of Neurosis.
 
 ### Amenra
 
@@ -1085,13 +1085,13 @@ This immersive live performance can now be seen in a variety of genres.
 
 ### Meaning of volume
 
-Neurosis' live shows are also known for being extremely loud.
+Neurosis live shows are also known for being extremely loud.
 
 However, the purpose is not just to be impressive.
 
 By feeling the bass throughout your body, you create an experience that goes beyond just your hearing.
 
-Huge drones and bass sounds affect not only your ears but your entire body.
+Huge drones and bass sounds affect not only your ears, but your entire body.
 
 This physicality is also an important element that characterizes Neurosis' live performances.
 
@@ -1208,7 +1208,7 @@ Neurosis is a perfect example of this.
 
 They distanced themselves from the 1980s heavy music values ​​of ""faster" and ""more intense" and pushed elements that had previously played a supporting role, such as ""time," ""space," ""texture," and ""silence," to the center of their work.
 
-As a result, heavy music has expanded its possibilities to express emotions that accumulate over a long period of time, rather than simply competing for aggression.
+As a result, heavy music is no longer just a competition for aggressiveness, but has expanded its possibilities for expression that accumulates emotions over a long period of time.
 
 Nowadays, many artists use compositions that move from silence to explosion.
 
@@ -1270,7 +1270,7 @@ Neurosis has rarely consciously changed direction in these trends.
 
 Although changes continue with each work, these changes are always born from within.
 
-That's why, even when listening to his works spanning over 30 years, there is no sense of an unnatural disconnect.
+That's why, even when listening to his works spanning over 30 years, there is no sense of unnatural disconnection.
 
 Although each piece is different, they are all connected as one long story.
 
@@ -1296,11 +1296,11 @@ Solid drumming by Jason Roeder.
 
 Furthermore, the visual work of Josh Graham, who has supported live footage for many years.
 
-Each of them has functioned as a ""part of the work" rather than a ""main character."
+Each of them has functioned as a "part of the work" rather than a "main character."
 
 This collective nature is an essential feature when talking about the band Neurosis.
 
-> Neurosis has focused on building a work as a group, rather than on individual skills.
+> Neurosis has focused on building a piece of work as a group rather than on individual skills.
 
 ---
 
@@ -1320,7 +1320,7 @@ This collective nature is an essential feature when talking about the band Neuro
 | 2007 | "Given to the Rising" announced |
 | 2012 | "Honor Found in Decay" announced |
 | 2016 | "Fires Within Fires" announced |
-| 2022 | Scott Kelly's departure from the band is announced |
+| 2022 | It is announced that Scott Kelly will be leaving the band |
 | After 2022 | The band has been suspended, and there are no new releases or tours |
 
 > The progress that has been made since 1985 has become a trajectory that rewrites the history of heavy music itself.

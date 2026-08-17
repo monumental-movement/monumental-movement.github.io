@@ -54,7 +54,7 @@ color: #fff;
 
 ## 1. 1980s: The era of sequencers and the "four companies that started it"
 
-The origins of DAW history date back to sequencers in the early 1980s.
+The origins of DAW history date back to the sequencers of the early 1980s.
 This was the era of "pure MIDI editing software" before it could handle audio.
 
 ### ■ The golden age born of Atari ST
@@ -306,7 +306,7 @@ timeline
 
 ---
 
-## 10. Conclusion: The history of DAW is a huge story where "corporate strategy x technical standards x market needs" intersect
+## 10. Conclusion: The history of DAW is a huge story where "corporate strategy × technical standards × market needs" intersect
 
 Apple acquired emagic and Avid integrated Digidesign.
 The DAW market has changed significantly along the axis of **OS x video production x studio infrastructure**.

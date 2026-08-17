@@ -41,7 +41,7 @@ color: #fff;
 
 ## 1989-1992: Birth and "NY Local Experiment Station" period
 
-**Historical background**: House/techno, which had sprouted in Chicago and Detroit, entered New York clubs in the early 1990s. It was a time when club culture was about to become commercialized, and an underground spirit of experimentation remained.
+**Historical background**: House/techno, which had sprouted in Chicago and Detroit, entered New York clubs in the early 1990s. This was a time when club culture was about to become commercialized, and an underground spirit of experimentation remained.
 
 **What happened**: Founded in 1989 by Mark Finkelstein and Gladys Pizarro. Since its founding, the company has focused on DJ-oriented 12-inch music, producing sound that connects directly to the dance floor and is popular at local clubs.
 
@@ -58,7 +58,7 @@ Many productions utilized turntables and samplers (early SP series and Akai) to 
 | 1 | Underground Solution | Luv Dancin (1990) | Early house anthem for clubs. Characterized by a dynamic sense of rhythm. |
 | 2 | Barbara Tucker | I Get Lifted | House with powerful vocals and gospel elements. |
 | 3 | Harddrive | Deep Inside | A classic deep house song with a soulful melody. |
-| 4 | George Morel | Let"s Groove | Early NY house with minimalist yet outstanding groove. |
+| 4 | George Morel | Let"s Groove | Early NY house with a minimalist yet groove feel. |
 | 5 | Masters At Work | The Ha Dance | A work that emphasizes the percussive elements of house. |
 | 6 | Kenny Dope | The Bucketheads EP | Impressive use of innovative samples and rhythm. |
 | 7 | The Underground Network | It"s Alright | A club hit with a perfect balance of melody and beat. |
@@ -74,7 +74,7 @@ Many productions utilized turntables and samplers (early SP series and Akai) to 
 
 **Key moments/representative works**
 - Reel 2 Real feat. The Mad Stuntman — *I Like To Move It* (1993)
-- Armand Van Helden — *Witch Doktor*（1994）
+- Armand Van Helden — *Witch Doktor* (1994)
 - Josh Wink — *Higher State Of Consciousness* (1995)
 - Ultra Naté — *Free* (1997)
 
@@ -91,7 +91,7 @@ Many productions utilized turntables and samplers (early SP series and Akai) to 
 | 1 | Reel 2 Real ft. The Mad Stuntman | I Like To Move It (1993) | A worldwide hit dance anthem, featuring a Caribbean rhythm. |
 | 2 | Armand Van Helden | Witch Doktor | Unique sampling and heavy beats are impressive. |
 | 3 | Barbara Tucker | I Found A Place | Soulful and warm vocal house. |
-| 4 | George Morel | Morel’s Groove | シンプルなループながらフロア映えするトラック。 |
+| 4 | George Morel | Morel"s Groove | A simple loop that looks great on the floor. |
 | 5 | India | To Be In Love | A work that shines with melodious and smooth vocals. |
 | 6 | Josh Wink | Higher State Of Consciousness | A club anthem with psychedelic elements. |
 | 7 | Harddrive | Just Believe | A classic deep house song with an emotional chord progression. |
@@ -124,13 +124,13 @@ DAWs and software plug-ins have begun to enter the production workflow, and the 
 | 5 | Groove Armada | Superstylin" | Funky and energetic club tune. |
 | 6 | Armand Van Helden | You Don"t Know Me | Melodic house, a club staple. |
 | 7 | India | Love & Happiness | Deep house where the expressiveness of the vocals shines. |
-| 8 | Barbara Tucker | Everybody Dance (The Horn Song) | A dance floor song with an impressive horn effect. |
+| 8 | Barbara Tucker | Everybody Dance (The Horn Song) | A dance floor song with an impressive horn effect. | 8 | Barbara Tucker | Everybody Dance (The Horn Song) | |
 | 9 | Mousse T. | Horny (Strictly Edits) | A classic with humor and groove. |
 | 10 | Celeda | Music Is The Answer | A fusion of positive messages and dance beats. |
 
 ---
 
-## 2007〜2010：再始動と国際展開
+## 2007-2010: Restart and international expansion
 
 **Background**: Digital distribution and globalization of dance music.
 
@@ -144,7 +144,7 @@ DAW-centricity, plug-in sound sources, and software/analog modeling became mains
 
 ---
 
-| No | アーティスト | トラック | コメント |
+| No | Artist | Track | Comments |
 |---|---|---|---|
 | 1 | Quentin Harris | Let"s Be Young | Modern deep house, smooth groove. |
 | 2 | Dennis Ferrer | Hey Hey | House track for energetic floors. |
@@ -172,7 +172,7 @@ The brand/catalog is still active and is used as an "asset" for reissues, compil
 
 | No | Artist | Track | Comments |
 |---|---|---|---|
-| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered, smooth sound quality. |
+| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered with smooth sound quality. |
 | 2 | Dennis Ferrer | Maniac 3000 | Features a modern and sophisticated house beat. |
 | 3 | Quentin Harris | My Joy (Re-edit) | Deep house re-edited for clubs. |
 | 4 | Barbara Tucker | Think (About It) 2015 Mix | A reinterpretation of vocal house, full of emotion. |
@@ -181,7 +181,7 @@ The brand/catalog is still active and is used as an "asset" for reissues, compil
 | 7 | DJ Spen | The Spirit of House | A modern take on the essence of traditional house. |
 | 8 | David Penn | Con Son | A club tune featuring a smooth groove and melody. |
 | 9 | Riva Starr | House Nation 2020 | Energetic house, beats that shine on the floor. |
-| 10 | Barbara Tucker | I Get Lifted (Remix 2021) | A remix of a famous song with a modern arrangement, where the vocals shine. |
+| 10 | Barbara Tucker | I Get Lifted (Remix 2021) | A remix of a famous song with a modern arrangement, the vocals shine. |
 
 ---
 

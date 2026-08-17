@@ -63,7 +63,7 @@ However, since the late 2000s, the sound quality and operational feel of analog 
 
 The Prophet-6 was a polyphonic analog synthesizer that recreated the idea of ​​the 1978 Prophet-5 using modern technology.
 
-Equipped with thick oscillators, rich filters, and intuitive operability, it has been adapted to modern production environments.
+Featuring thick oscillators, rich filters, and intuitive operability, it has been adapted to modern production environments.
 
 The important thing is that it is not a reproduction of the past, but a redesign of the philosophy of vintage synths for modern musicians.
 
@@ -105,7 +105,7 @@ It was highly praised for producing bass sounds and lead sounds due to its rich 
 
 Furthermore, in an era where digital production environments have become commonplace, it reconfirmed the value of creating sounds through physical operations.
 
-It showed that analog synths are not an old technology and are still a means of creative expression.
+It showed that analog synths are not an old technology, but are still a means of creative expression.
 
 > Subsequent 37 connects over half a century of Moog philosophy to modern music production.
 
@@ -181,7 +181,7 @@ As a result, live performances have evolved from simply reproducing sound to com
 
 Additionally, by linking with smartphones, it has become a symbol of the modern mobile production environment.
 
-> OP-Z liberates music production from the location and transforms it into a portable expression device.
+> OP-Z frees music production from the location and transforms it into a portable expression device.
 
 ---
 
@@ -253,7 +253,7 @@ It is a history of humans continuing to search for new ways of expression.
 
 The great machines of the future probably won't arrive in a perfected form from the start.
 
-By being discovered in new ways, in new cultures, and by new musicians, it becomes an entity that changes history.
+When it is discovered by new uses, new cultures, and new musicians, it becomes an entity that changes history.
 
 > The equipment that changes the world is not a tool that creates sound, but a tool that allows us to imagine music that doesn't exist yet.
 

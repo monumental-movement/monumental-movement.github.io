@@ -39,7 +39,7 @@ color: #fff;
 
 1. [Foundation and Background](#beginning)
 2. [Introduction of album and project](#album)
-3. [シンゲリ（Singeli）](#singeli)
+3. [Singeli](#singeli)
 4. [Acolitronix](#acholitronix)
 5. [Electro Maloya](#electro-maloya)
 6. [Anecdotes and legends](#story)
@@ -124,11 +124,11 @@ flowchart TD
 
 #### Connection with dance
 
-- Singeli integrates not only music but also the dance experience.
+- Singeli is not only about music, but also integrated with the dance experience.
 
 - Complex footwork to match the high-speed beat
 
-- 観客との呼応による即興性
+- Improvisation through collaboration with the audience
 
 - Important community building at festivals and clubs
 
@@ -182,7 +182,7 @@ flowchart TD
     B --> C["Electronic music fusion in urban areas"]
     C --> D["Introduced in Nyege Nyege Tapes"]
     D --> E["Impromptu performance at clubs and festivals"]
-    E --> F["国際的注目とコラボレーション"]
+    E --> F["International attention and collaboration"]
 
 </div>
 
@@ -194,12 +194,12 @@ flowchart TD
 
 - Bridging urban and local culture
 
-- 国際舞台でのアフリカ音楽発信
+- Promoting African music on the international stage
 
 
 ---
 
-#### Performance and Dance
+#### Performance and dance
 
 - Integration with improvisational dance: In the Rarakaraka tradition, dance is integrated with music, and this improvisational nature is inherited in Acolitronics.
 
@@ -293,7 +293,7 @@ flowchart LR
 
 #### Electro Maloya (Summary)
 Electro Maloya is an experimental genre that reconstructs traditional Maloya music with electronic music.
-歴史の継承、文化的再解釈、都市クラブ文化との融合、国際発信を同時に担う音楽スタイルとして、世界的に注目されています。
+It is attracting worldwide attention as a musical style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
 
 ---
 
@@ -323,7 +323,7 @@ Nyege Nyege continues to lead the African music scene through his record label N
 
 ---
 
-### <a id="youtube"></a>おすすめYouTubeリンク
+### <a id="youtube"></a>Recommended YouTube links
 
 Below are some recommended YouTube links related to Nyege Nyege:
 

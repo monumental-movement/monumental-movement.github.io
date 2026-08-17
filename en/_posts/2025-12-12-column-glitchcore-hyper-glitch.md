@@ -77,7 +77,7 @@ Glitchcore's BPM is not fixed and often fluctuates over a wide range of 100-180 
 * Extreme tempo changes
 * Editing that suddenly transitions to a different song in the middle of a song
 * Short hooks and fragmented melodies
-* Focus on strong 15-30 second hooks for TikTok
+*Focus on strong 15-30 second hooks for TikTok
 
 ---
 
@@ -152,7 +152,7 @@ Dylan Brady"s solo work was even more trap-heavy, extending Hyper-Glitch"s more 
 
 ### 3-4 Laura Les (solo name)
 
-Laura Les' voice became the ""symbol of the high-pitched voice'' of Glitchcore, and also influenced sped-up music culture.
+Laura Les' voice became the ""symbol of high-pitched voices'' in Glitchcore, and also influenced sped-up music culture.
 
 ---
 
@@ -214,7 +214,7 @@ MV/artwork has the following characteristics.
 <div class="mermaid">
 flowchart TD
     A["Establishment of glitch aesthetics in the late 1990s (Oval, Alva Noto, etc.)"] --> B["Early 2000s: Development of electronica and IDM"]
-    B --> C["The rise of PC Music in the early 2010s (SOPHIE, A.G. Cook)"]
+    B --> C["The rise of PC Music in the early 2010s (SOPHIE, A. G. Cook)"]
     C --> D["2016-2018 Expansion of TikTok/SoundCloud/Discord culture"]
     D --> E["2019 100 gecs' 1000 Gecs' attracts attention"]
     E --> F["2020~2021 Glitchcore/Hyperpop established as an international genre"]
@@ -239,7 +239,7 @@ In the works of osquinn and glaive, delicacy and loneliness are presented as "br
 
 ---
 
-### 6-3 Subculture, anime, internet memes
+### 6-3　Subculture, anime, internet memes
 
 Another major feature is that anime-style expressions, Vocaloid culture, Internet memes, game sounds, etc. are actively cited.
 
@@ -261,7 +261,7 @@ Another major feature is that anime-style expressions, Vocaloid culture, Interne
 * Hard, elastic sound image
 * Fusion of metallic and electronic sounds
 * Electronic sounds with "materiality"
-* Three-dimensional effect that makes the sound feel physical
+* 3D effect that makes the sound feel physical
 
 ---
 
@@ -289,7 +289,7 @@ The sped-up version of songs popularized on TikTok has a high affinity with Glit
 
 ### 9-2 Approach between AI vocals and Glitchcore
 
-Singing voice synthesis and character voice generation using AI are an extension of Glitchcore's ""inhuman voice.''
+Singing voice synthesis and character voice generation using AI are an extension of Glitchcore's ""non-human voice.''
 The pitch fluctuation and unnaturalness of AI voices are aesthetically acceptable.
 
 ---

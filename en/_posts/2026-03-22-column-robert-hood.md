@@ -88,7 +88,7 @@ Robert Hood's innovation can be more clearly understood through several of his m
 
 The first thing I should mention is the album ""Minimal Nation.'' This work is the origin of minimal techno and is the crystallization of his ideas in their purest form. Each track is extremely simple, yet creates a powerful groove through careful rhythm design.
 
-Next up is Internal Empire. While maintaining a minimalist structure, this work develops a more introspective and deep acoustic space. The arrangement of sounds and spacing have become more sophisticated, suggesting that his aesthetic has matured further.
+Next up is Internal Empire. While maintaining a minimalist structure, this work develops a more introspective and deep acoustic space. The arrangement of sounds and spacing have become more sophisticated, suggesting that his aesthetic has further matured.
 
 Also, don't miss the EP "Moveable Parts" series. Here, the possibilities of minimalism are thoroughly explored in a short format. The control of dynamics through repetition and subtle changes had a great influence on subsequent artists.
 

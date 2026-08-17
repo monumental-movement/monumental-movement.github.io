@@ -10,8 +10,8 @@ tags:
 - Jungle
 - Drum N Bass
 - Electronic
-title: '[Column] Jungle / Drum & Bass Reconsidered: Reevaluating music created by
-  cities and technology'
+title: '[Column] Jungle / Drum & Bass Reconsidered: Reevaluating the music created
+  by cities and technology'
 ---
 
 
@@ -20,7 +20,7 @@ title: '[Column] Jungle / Drum & Bass Reconsidered: Reevaluating music created b
 
 Text: mmr | Theme: A multifaceted analysis of why jungle/drum and bass, which was born in the urban environment of London in the 1990s, is now being reevaluated, based solely on the facts of music technology, social background, and cultural influence.
 
-In Britain in the early 1990s, breakbeats derived from hip-hop, the bass culture of reggae/dub, and the faster dance music of rave were all evolving in parallel. In London in particular, immigrant communities and youth club culture intersected closely, and musical intermingling was commonplace.
+In Britain in the early 1990s, breakbeats derived from hip-hop, the bass culture of reggae/dub, and the fast-paced dance music of rave were all evolving at the same time. In London in particular, immigrant communities and youth club culture intersected closely, and musical intermingling was commonplace.
 
 Standard breaks such as the Amen break and Funky Drummer that had been used since the late 1980s began to be reconstructed in more detail with the spread of samplers and Akai MPCs. As a result, not just loops, but carved and rearranged rhythms became the main character.
 
@@ -49,7 +49,7 @@ The word "jungle" is said to come from slang used in reggae and dancehall, and w
 
 From 1992 to 1993, London's Pirates radio station played a key role in promoting this new sound. Music that was not broadcast on official media penetrated local communities through radio waves.
 
-> Jungle was both a musical genre and a culture fostered by unofficial media.
+> Jungle was both a music genre and a culture fostered by unofficial media.
 
 ---
 
@@ -67,7 +67,7 @@ The tempo was generally fixed at 160-175 BPM, and while the kick and snare place
 
 As drum"n"bass became more popular, multiple subgenres became clearer. Hard Step, Tech Step, Intelligent, Liquid Funk, etc. were developed with different listening environments in mind.
 
-It"s a testament to the genre"s flexibility that it was able to coexist with aggressive club-ready songs and introspective songs suitable for home listening. As a result, drum"n"bass moved beyond the realm of dance floor music.
+It"s a testament to the genre"s flexibility that it was able to coexist with aggressive club-ready songs and introspective songs suitable for home listening. As a result, drum and bass went beyond being music exclusively for dance floors.
 
 > The coexistence of various subgenres is one of the factors that has made drum"n"bass so long.
 
@@ -85,9 +85,9 @@ Even so, the sample culture centered around the Amen Blake continued to be inher
 
 ## Temporary decline and mainstreaming
 
-In the mid-2000s, drum"n"bass became incorporated into pop and advertising music, and some considered it over-consumed. At the same time, other genres emerged in the club scene, and the attention level relatively declined.
+In the mid-2000s, drum"n"bass became incorporated into pop music and advertising music, and some considered it over-consumed. At the same time, other genres emerged in the club scene, and the attention level relatively declined.
 
-However, the genre itself did not disappear during this period, and the underground scene continued to see releases and events. In fact, the lack of attention from the outside has led to some people becoming more introverted.
+However, the genre itself did not disappear during this period, and the underground scene continued to see releases and events. In fact, in some ways, the lack of outside attention has led to a deepening of introversion.
 
 > The basic strength of the genre was maintained during the period when it retired from the center stage.
 
@@ -97,7 +97,7 @@ However, the genre itself did not disappear during this period, and the undergro
 
 In the 2010s, jungle/drum and bass started to gain attention again. Past recordings have been reissued, giving younger generations more opportunities to experience this music in its historical context.
 
-Also, with the spread of the Internet and distribution platforms, it has become possible to reference scenes across scenes without being tied to regional characteristics. This led to a reinterpretation of his early works.
+Also, with the spread of the Internet and distribution platforms, it has become possible to refer to scenes across scenes without being tied to regional characteristics. This led to a reinterpretation of his early works.
 
 > The re-evaluation was not a result of nostalgia, but an inevitable outcome of the new listening environment.
 

@@ -13,7 +13,7 @@ title: Pick up Dubstep works
 ---
 
 
-""A remarkable collection of dubstep works with an explosive bass line that has become the main attraction at festivals.''
+""A remarkable collection of Dubstep works with an explosive bass line that has become the main attraction at festivals.''
 
 <hr>
 
@@ -23,7 +23,7 @@ title: Pick up Dubstep works
 Features: Three people with different approaches are in charge of each aspect, making this a piece with an attractive composition on both sides.
 
 
-Why: Benga"s deep bass, Walsh"s groove, and Darqwan's originality shine through on each track.
+Why: Benga"s bass depth, Walsh"s groove, and Darqwan's originality shine through on each track.
 
 #### Tracklist
 ```md

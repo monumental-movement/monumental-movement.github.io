@@ -18,7 +18,7 @@ title: '[Column] Post-rock/ambient interaction with film and architecture'
 Text: mmr｜Theme: Post Rock/Ambient and movies/architecture
 
 The evolution of post-rock/ambient is not limited to just a musical genre, but has an affinity with spatial art such as **film, architecture, and urban planning**.
-In addition to historical masterpieces, this section will organize interactions with movies and architecture, as well as ambient experiences in urban spaces.
+Here, in addition to historical masterpieces, we will organize interactions with movies and architecture and ambient experiences in urban spaces.
 
 ---
 
@@ -67,14 +67,14 @@ Ambient/post-rock shows a strong presence in dialogue with urban spaces and arch
 | Tate Modern Turbine Hall | Various sound installations | 2000s | Drone sound and audience experience expansion in a huge space |
 | Oculus, NYC | Sound installation by Steve Reich / La Monte Young influence | 2016 | Integrating architectural reverb and urban acoustic design |
 
-**ポイント**  
+**point**
 - The themes of the urban space are "extension of time" and "fusion with environmental sounds"
 - In architecture, it is possible to design by calculating the volume, reflection, and movement of sound.
 - Music functions as an experience of the whole space, rather than just listening to it alone.
 
 ---
 
-### Relationship matrix between movies/architecture and music
+### Relationship matrix between movies, architecture, and music
 
 <div class="mermaid">
 flowchart LR
@@ -110,7 +110,7 @@ Film ↔ Architecture: Interaction between visual art and spatial design
 
 - **Composer**: Hans Zimmer & Benjamin Wallfisch
 - **Features**: Ambient depiction of the coldness and expanse of a futuristic city
-- **サウンドサンプル**: [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
+- **Sound Sample**: [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
 
 #### The Revenant (2015)
 
@@ -127,7 +127,7 @@ Film ↔ Architecture: Interaction between visual art and spatial design
 #### There Will Be Blood (2007)
 
 - **Composer**: Jonny Greenwood
-- **特徴**: ポストクラシカル＋ノイズで緊張感と孤独を演出
+- **Characteristics**: Post-classical + noise creates a sense of tension and loneliness
 - **Sound Sample**: [Full OST](https://www.youtube.com/watch?v=-yXqEzUoFY4)
 
 ---

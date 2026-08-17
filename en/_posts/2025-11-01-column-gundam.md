@@ -47,7 +47,7 @@ color: #fff;
 
 # Column manuscript
 
-## はじめに
+## Introduction
 
 ![Image](https://img.sunrise-inc.co.jp/images/datacard/20_main.jpg)
 
@@ -69,11 +69,11 @@ I would like all readers to listen carefully to the world of the work while reme
 
 In April 1979, the television series ""Mobile Suit Gundam'' began airing. Unlike traditional "hero robot" anime, it advocates a "real robot" view, depicts war as a quagmire, and delves deeply into human drama as well as mecha action through the growth of the boy Amuro Ray and the setting of the Universal Century (U.C.) war with the Principality of Zeon.
 
-Looking back at the music environment at the time, it was also a time when TV anime theme songs and insert songs were beginning to shift from "play songs for children" to "hit songs for general circulation." As the base of music listeners expanded from light pop to synth orchestras, Gundam music was also undergoing a change.
+Looking back at the music environment at the time, it was also a time when TV anime theme songs and insert songs were beginning to shift from "play songs for children" to "hit songs for general distribution." As the base of music listeners expanded from light pop to synth orchestras, Gundam music was also undergoing a change.
 
 ### 1.2 Characteristics of theme songs, insert songs, and musical accompaniment
 
-The opening song for the original Mobile Suit Gundam, ""Fly! Gundam (sung by Kou Ikeda)" (lyrics by Tsutomu Isogaya/music by Yuji Matsuyama), was a simple yet catchy song that conveyed the image of a Gundam flying through outer space, embodying the scale of the work"s world and the boy"s sense of adventure through sound. In addition, Hiroyuki Osaka, Chuaaki Watanabe, and others provided the background music that supported the depiction of battle, space, and psychology, and used sound to convey themes such as the tense atmosphere of the ""battlefield" and the awakening of ""new types.''
+The opening song for the original Mobile Suit Gundam, ""Fly! Gundam (sung by Kou Ikeda)" (lyrics by Tsutomu Isoya/composed by Yuji Matsuyama), was a simple yet catchy song that conveyed the image of a Gundam flying through outer space, embodying the scale of the work"s world and the boy"s sense of adventure through sound. In addition, Hiroyuki Osaka, Chuaaki Watanabe, and others provided the background music that supported the depiction of battle, space, and psychology, and used sound to convey themes such as the tense atmosphere of the ""battlefield" and the awakening of ""new types.''
 
 At this stage, there are three main innovations that Gundam music has shown.
 
@@ -117,7 +117,7 @@ The appearance of this song was also an opportunity to change the conventional i
 
 Additionally, OVA and movie versions now have a richer variety of music products, including theme songs, insert songs, character songs, and remix discs. Music has expanded from being "exclusive for works" to "exclusive for brands."
 
-### 2.3 Dramatic accompaniment, theme songs, and insert songs: changing tastes over time
+### 2.3 Drama accompaniment, theme songs, and insert songs: changing tastes over time
 
 During this period, the range of music development expanded significantly. In addition to theme songs, insert songs, character songs (songs sung under character names), remix albums, best-of albums, live albums, etc. were released one after another, and the categorization of music products progressed.
 
@@ -137,8 +137,8 @@ We have entered an era in which "Gundam music" is not just "background music to 
 
 ### 3.2 Example: Soundtrack composition of the "Mobile Suit Gundam SEED" series
 
-For ""Mobile Suit Gundam SEED" ​​(2002-), Hiroyuki Kono and others were actually in charge of the musical accompaniment, rather than the composer Hiroyuki Sawano, and the theme song, insert song, character song, remix album, and ""Suit CD" were developed.
-This structure shows that Gundam music has become "a product/culture that cannot be separated from the work." Music has become a brand, and it has come to function in places other than productions (live shows, bonus CDs, collaborations).
+For "Mobile Suit Gundam SEED" (2002-), the music was not composed by Hiroyuki Sawano, but Hiroyuki Kono and others were in charge of the musical accompaniment, and the theme song, insert song, character song, remix disc, and "Suit CD" were developed.
+This structure shows that Gundam music has become "a product/culture that cannot be separated from the work." Music has become a brand, and it has come to function in places other than productions (live performances, bonus CDs, collaborations).
 
 ### 3.3 Recent work: Musical experiment in "Mobile Suit Gundam: Witch of Mercury"
 
@@ -236,7 +236,7 @@ Below is an excerpt list of major works and representative songs.
 | Mobile Suit Gundam | Fly! Gundam | Kou Ikeda | Yuji Matsuyama/Tsutomu Isotani | First OP |
 | Mobile Suit Zeta Gundam | With love to the water planet | Hiroko Moriguchi | Neil Sedaka/Kayoko Ebina | OP2 song |
 | Mobile Suit Gundam: Char's Counterattack | Beyond the Time ~Beyond the Moebius Universe~ | TM NETWORK | Tetsuya Komuro/Mitsuko Komuro | Movie theme song |
-| New Mobile Report Gundam W | Just Communication | TWO-MIX | Minami Takayama/Shiina Nagano | OP |
+| New Mobile Report Gundam Wing | Just Communication | TWO-MIX | Minami Takayama/Shiina Nagano | OP |
 | Mobile Suit Gundam SEED | We were together like that | See-Saw | (Composer: Hiroyuki Kono and others) | Series theme song } |
 
 

@@ -171,7 +171,7 @@ B2. Ultradyne–War Drum - Live
 
 Features: Dark, melodious, energetic and danceable rhythm.
 
-Recommended points: Modern and highly unique sound. This is a song that will dramatically liven up the floor if you play it in a late-night club or peak-time set.
+Recommended points: Modern and highly unique sound. This is a song that will dramatically liven up the floor if you play it in a late night club or peak time set.
 
 #### Tracklist
 ```md
@@ -226,7 +226,7 @@ B3. Untitled
 ### Jeff Mills – Lifelike E.P.
 <a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
 
-Features: ""Condor To Mallorca'' is iconic, with its calypso-like rhythm and keyboard resonance creating a unique floating feeling.
+Features: "Condor To Mallorca" is iconic, and the calypso-like rhythm and keyboard resonance create a unique floating feeling.
 
 Recommended points: With its trippy and spiritual atmosphere, this is a "magical piece" that instantly changes the atmosphere when inserted into a DJ set.
 
@@ -253,7 +253,7 @@ B2. Black Avenger
 ### Jeff Mills – Skin Deep EP
 <a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.webp"></a>
 
-Features: The song "Call Of The Wild" quotes percussion from Michael Jackson's "Off The Wall".
+Features: The track "Call Of The Wild" quotes percussion from Michael Jackson's "Off The Wall".
 
 Recommended points: The hard feel of Detroit techno is combined with the groove of black music, giving the floor a unique driving force.
 

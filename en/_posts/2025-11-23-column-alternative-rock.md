@@ -121,7 +121,7 @@ This movement connects to lyrical and experimental bands like Radiohead and The 
 The rise of Tortoise, Mogwai, Godspeed You! Black Emperor and others pushed the boundaries of rock.
 
 Alternative is no longer a single style;
-**"A general term for creativity that is not recovered by commercialism"**
+**"A general term for creativity that is not captured by commercialism"**
 It has come to be understood as.
 
 ---
@@ -189,7 +189,7 @@ What started as a small underground movement in the 1980s continues to infiltrat
 
 ---
 
-# **Conclusion: The "centerless center" of alternatives**
+# **Conclusion: "Centerless Center" of Alternatives**
 
 What is the history of alternative rock?
 **A history of the "rebellion of the periphery against the center" being repeatedly incorporated into the mainstream and changing its appearance each time**

@@ -77,7 +77,7 @@ timeline
 
 In the early 2000s, artists who made full use of modular synths began to attract attention in the club scene mainly in Berlin. Surgeon, Ø [Phase], SNTS, and others created unique textures with their live sets that combined analog modules, providing an experience different from traditional techno clubs. Performances at Berlin clubs such as Berghain and Sisyphos are recognized as emblematic events for Modular Techno.
 
-また、オンラインコミュニティやフォーラム、YouTubeでのパフォーマンス動画の公開も、世界的な拡散に大きく寄与した。これにより、モジュラーシンセの技術やセットアップの情報交換が活発化し、シーン全体の成熟が加速した。
+Additionally, the publication of performance videos on online communities, forums, and YouTube greatly contributed to the worldwide spread. This led to an active exchange of information on modular synth technology and setups, accelerating the maturation of the scene as a whole.
 
 <div class="mermaid">
 graph LR
@@ -104,7 +104,7 @@ British-born Surgeon is known as one of the first artists to introduce modular s
 
 ## Richie Hawtin
 
-デトロイトテクノとミニマルテクノの双方に深く関与してきたRichie Hawtinも、2010年代以降のライブにおいてモジュラーシンセを組み込んだパフォーマンスを展開した。彼のセットはミキサー、エフェクター、コンピュータ、そしてEurorackモジュールの複合構成となっており、音響のダイナミクスを細かく操作することで、従来のミニマルテクノよりも流動的な構造をつくり出した。
+Richie Hawtin, who has been deeply involved in both Detroit techno and minimal techno, has also incorporated modular synths into his performances since the 2010s. His set is a composite of mixers, effects, computers, and Eurorack modules, and by finely manipulating the sonic dynamics, he creates a more fluid structure than traditional minimal techno.
 
 ## SNTS
 
@@ -112,11 +112,11 @@ Known as a highly anonymous artist, SNTS has a strong presence in the areas of d
 
 ---
 
-## アーティストと機材のマッピング
+## Artist and equipment mapping
 
 <div class="mermaid">
 graph TD
-    Surgeon --> Eurorack[Eurorack中心のライブセット]
+    Surgeon --> Eurorack[Eurorack-centered live set]
     ØPhase --> PhaseMod[Complex phase modulation approach]
     RichieHawtin --> HybridSet[hybrid live system]
     SNTS --> NoiseStack[Noise/distortion configuration]
@@ -136,7 +136,7 @@ A major feature of the Eurorack standard is that modules from various manufactur
 
 ## Role of sequencer and CV/Gate
 
-テクノにおいてリズムとグルーヴは中心的役割を担う。モジュラーにおけるシーケンサーは、ステップごとにCV値を変化させることでピッチやフィルタリングの変化を制御し、リズムマシン的な役割も果たす。また、CV/Gateによって複数モジュールを同期させ、複雑なポリリズムやランダム性を内包したビートを生成することが可能である。
+Rhythm and groove play a central role in techno. A modular sequencer controls changes in pitch and filtering by changing the CV value for each step, and also plays the role of a rhythm machine. Furthermore, by synchronizing multiple modules using CV/Gate, it is possible to generate beats that include complex polyrhythms and randomness.
 
 In particular, Modular Techno makes heavy use of the sequencer's randomization function and stochastic sequence generation. This creates an organic rhythm that is constantly undergoing subtle changes, rather than a fixed loop.
 
@@ -310,7 +310,7 @@ At the root of this is the most fundamental joy in electronic music: ""manipulat
 
 # Detailed equipment list (often used modules in Modular Techno)
 
-The following is a compilation of equipment categories often used by actual Modular Techno artists, with a focus on Eurorack.
+Below is a list of equipment categories commonly used by actual Modular Techno artists, with a focus on Eurorack.
 
 ## VCO (Oscillator)
 - Make Noise – DPO

@@ -10,7 +10,7 @@ tags:
 - Berlin
 - Techno
 - Architecture
-title: '[Column] Why is there so many famous clubs in Berlin? - A nighttime cultural
+title: '[Column] Why are there so many famous clubs in Berlin? - A nighttime cultural
   device created by architecture'
 ---
 
@@ -202,7 +202,7 @@ For example, in a space close to 15 meters high, sound decays slowly.
 
 Thick concrete walls reduce sound leakage to the outside, while retaining low-frequency energy inside.
 
-The steel structure allows for large gaps between the pillars, making it possible to create a spacious dance floor.
+The steel structure allows for large spaces between the pillars, making it possible to create a spacious dance floor.
 
 In other words, the appeal of a club is not determined only by the DJ booth.
 
@@ -339,7 +339,7 @@ This state of affairs continued for nearly 30 years, forming the basis for the c
 
 ### Architectural thought in East and West Berlin
 
-In East Berlin, state-led urban development proceeded.
+In East Berlin, state-led urban development progressed.
 
 Public housing, administrative facilities, and large-scale housing complexes were built, and urban development focused on functionality.
 
@@ -375,13 +375,13 @@ Cities will be left with many unused buildings for years, not months.
 
 This period was extremely important.
 
-Looking back, it can be said that this hiatus was one of the biggest factors in fostering Berlin's club culture.
+Looking back, it can be said that this hiatus was one of the biggest factors that fostered Berlin's club culture.
 
 > In Berlin, with the fall of the Wall, the role of architecture also became blank.
 
 ---
 
-## ""Buildings that have lost their purpose'' are transformed into cultural facilities
+## "Buildings that have lost their purpose" are transformed into cultural facilities
 
 ### The resource of vacant buildings
 
@@ -462,7 +462,7 @@ F --> G
 
 ### The idea of ​​minimal modification
 
-When you visit clubs in Berlin, you'll often see old concrete still on the walls.
+When you visit clubs in Berlin, you'll often see old concrete walls still standing.
 
 You can see the piping.
 
@@ -478,9 +478,9 @@ In the field of architecture, the idea of ​​preserving and reusing existing 
 
 In Berlin, clubs have naturally adopted this idea.
 
-Rather than the new interior, the building's accumulated time itself was treated as valuable.
+Rather than brand new interiors, the building's accumulated time was treated as valuable.
 
-Therefore, even if the same DJ performs, in a Berlin club the space itself becomes part of the performance.
+Therefore, even if the same DJ performs, in a Berlin club the space itself becomes part of the production.
 
 ### Experience the space, not the music
 
@@ -496,7 +496,7 @@ In theater architecture and museum architecture, the building itself can become 
 
 The same phenomenon is happening at clubs in Berlin.
 
-Clubs have come to be recognized as not just business facilities, but architectural works that represent the city.
+Clubs have come to be recognized as not just business facilities, but architectural works that represent cities.
 
 > In Berlin, architecture takes center stage, and music plays within it.
 
@@ -810,7 +810,7 @@ These features were a good match for large-scale events.
 
 Factories are often designed with the assumption that production equipment will be changed.
 
-Because equipment updates are repeated, a certain degree of variability is required in the building itself.
+Since equipment updates are repeated, a certain degree of variability is required in the building itself.
 
 Therefore, walls can be added freely.
 
@@ -828,7 +828,7 @@ Movies can also be shown.
 
 One building will have multiple roles.
 
-In Berlin, this kind of overlapping use became a characteristic of cultural facilities.
+In Berlin, this overlapping of uses became a characteristic of cultural facilities.
 
 > Berlin's clubs have developed as vessels for accepting diverse cultures, without having a fixed architectural purpose.
 
@@ -839,9 +839,9 @@ In Berlin, this kind of overlapping use became a characteristic of cultural faci
 | Period | Architectural and urban movements | Influence on club culture |
 |------|------------------|--------------------|
 | Late 19th century | Industrialization progressed and power plants, factories, and warehouses were built | Buildings that later became cultural assets were formed |
-| 1920s-1930s | Large-scale industrial facilities increased | Buildings with high ceilings and large spaces increased |
+| 1920s to 1930s | Large-scale industrial facilities increased | Buildings with high ceilings and large spaces increased |
 | After the war | Some facilities change their purpose or are closed | The number of idle buildings begins to increase |
-| Since 1989 | The number of buildings whose purpose has not been determined has increased rapidly due to wall collapse | Conversion into clubs has begun in earnest |
+| Since 1989 | The number of buildings whose purpose has not been determined has increased rapidly due to the collapse of walls | Conversion into clubs has begun in earnest |
 | 1990s | Reuse of power plants, factories, and warehouses spreads | Berlin's unique club culture is formed |
 
 
@@ -853,7 +853,7 @@ In Berlin, this kind of overlapping use became a characteristic of cultural faci
 
 When talking about clubs, many people focus on the volume.
 
-However, in the world of architectural acoustics, what is important is not the volume itself.
+However, in the world of architectural acoustics, it is not the volume itself that is important.
 
 What is important is how the sound spreads into space.
 
@@ -959,7 +959,7 @@ Bar counter available.
 
 In other words, the design minimizes visual information while maintaining safety.
 
-When visual information decreases, people naturally tend to focus more on hearing.
+When visual information is reduced, people naturally tend to focus more on their auditory senses.
 
 Your concentration on the music increases, and your sense of distance from the people around you changes.
 
@@ -1020,7 +1020,7 @@ Although architecture has a fixed existence, it plays different roles depending 
 
 This change over time is also an element that characterizes Berlin's club culture.
 
-> In a Berlin club, lighting is not a decoration, but the final design element that completes the architecture.
+> In a Berlin club, lighting is not just decoration, but the final design element that completes the architecture.
 
 ---
 
@@ -1104,7 +1104,7 @@ Architectural preservation focuses on preserving as many buildings with historic
 
 In Berlin, club culture also has many parts that overlap with this trend.
 
-Leave the old walls.
+Leave the old wall.
 
 Leave the steel frame behind.
 
@@ -1136,7 +1136,7 @@ Reuse began for economic reasons, but later came to be valued for its value in u
 
 | Period | Event | Architectural meaning |
 |------|---------|-------------|
-| Early 1990s | Repurposing of industrial buildings for clubs spread | Reuse of space becomes established as a culture |
+| Early 1990s | Repurposing industrial buildings for clubs spread | Reuse of space becomes established as a culture |
 | Late 1990s | Sound design and lighting design become more sophisticated | The entire building becomes a production device |
 | 2000s | Berlin's club culture receives international recognition | Architecture itself becomes a tourism and cultural resource |
 | 2010s | Preservation and cultural use of industrial heritage progress | Balancing architectural preservation and cultural activities attracts attention |
@@ -1162,7 +1162,7 @@ Urban researchers conduct research.
 
 Berlin thus came to be talked about as a typical example of a ""club city.''
 
-As a result of this, clubs and event spaces have sprung up in many cities using former factories and warehouses.
+As a result of this, clubs and event spaces have sprung up in many cities using former factory sites and warehouses.
 
 However, they did not form the same culture as Berlin.
 
@@ -1172,7 +1172,7 @@ This is because you cannot recreate the city itself by copying just the building
 
 A club is a building.
 
-However, club culture cannot be established solely through architecture.
+However, club culture cannot be established through architecture alone.
 
 There is a building.
 
@@ -1218,7 +1218,7 @@ Simply having factory ruins does not create the same culture.
 
 ---
 
-## 世界の都市とベルリンの比較
+## Comparison of Berlin with cities around the world
 
 ### London
 
@@ -1228,7 +1228,7 @@ On the other hand, there are many areas where urban development has progressed r
 
 Noise countermeasures are also an important issue in areas that are close to residential areas.
 
-そのため営業形態や立地条件はベルリンとは異なる。
+Therefore, the business format and location conditions are different from those in Berlin.
 
 ### new york
 
@@ -1272,7 +1272,7 @@ flowchart TD
 A[city ​​history]
 B[industrial architecture]
 C[reuse]
-D[文化活動]
+D[cultural activities]
 E[city ​​brand]
 F[worldwide reputation]
 
@@ -1293,7 +1293,7 @@ E --> F
 
 A city is never completed.
 
-人口が増えれば住宅が必要になる。
+As the population increases, housing becomes necessary.
 
 The transportation network will also be updated.
 
@@ -1317,7 +1317,7 @@ However, this does not mean that the value of architecture itself has disappeare
 
 structure.
 
-空間。
+space.
 
 history.
 
@@ -1337,7 +1337,7 @@ In addition to roads and housing, parks and cultural facilities are considered i
 
 While clubs are entertainment facilities, they also have a public nature where people gather and interact.
 
-音楽。
+music.
 
 art.
 
@@ -1347,7 +1347,7 @@ dance.
 
 event.
 
-These will come together in one architecture and foster a new culture.
+These will come together in one building and foster a new culture.
 
 In Berlin, clubs have become an important component of urban culture and have contributed greatly to the city's international image.
 
@@ -1355,7 +1355,7 @@ In Berlin, clubs have become an important component of urban culture and have co
 
 ---
 
-## なぜベルリンには名クラブが多いのか
+## Why are there so many famous clubs in Berlin?
 
 ### The answer lies in the city itself
 
@@ -1365,7 +1365,7 @@ Audiences come from all over the world.
 
 Many music events are also held here.
 
-However, that alone is not enough to make it one of the world's leading club cities.
+However, that alone will not make it one of the world's leading club cities.
 
 There is architecture in the background.
 
@@ -1383,7 +1383,7 @@ Industrial architecture that has lost its purpose.
 
 Architectural reuse.
 
-音響設計。
+Acoustic design.
 
 lighting design.
 
@@ -1393,11 +1393,11 @@ Today's Berlin exists as a result of these accumulations.
 
 The reason there are so many famous clubs is not because one building is outstanding.
 
-This is because the entire city functions as a huge cultural infrastructure.
+This is because the entire city functions as a huge cultural base.
 
 ### Architecture preserves the memory of a city
 
-ベルリンのクラブを訪れると、古いコンクリートや鉄骨がそのまま残されていることが多い。
+When you visit clubs in Berlin, you'll often find old concrete and steel structures still in place.
 
 It's not a decoration.
 
@@ -1409,17 +1409,17 @@ Time when it was a factory.
 
 The time it was a warehouse.
 
-そしてクラブとして使われる現在。
+And now it is used as a club.
 
 One architecture encompasses multiple eras.
 
 That's why the space has a depth that cannot be reproduced in other cities.
 
-### 建築が文化を育てる
+### Architecture fosters culture
 
 Culture is created by people.
 
-しかし人だけでは文化は育たない。
+However, culture cannot be developed by people alone.
 
 We need a place where people can gather.
 
@@ -1433,14 +1433,14 @@ The reason lies in the fact that cities have continued to provide new roles with
 
 It is the story of architecture and the story of the city.
 
-> ベルリンの名クラブは偶然誕生したのではない。都市が残した建築と歴史が、音楽文化を受け止め続けた必然の結果なのである。
+> Berlin"s famous clubs did not emerge by chance. This is the inevitable result of the city"s architecture and history continuing to embrace musical culture.
 
 ---
 
 ## Architecture/City/Club Culture Chronology
 
-| 年代 | 都市・建築の出来事 | クラブ文化との関係 |
-|------|---------------------|--------------------|
+| Era | Urban and architectural events | Relationship with club culture |
+|------|--------------------|--------------------|
 | 13th century | Establishment of Berlin | Development as a commercial city begins |
 | Late 19th century | Industrialization led to the construction of factories, power plants, and warehouses | The industrial heritage that later became the club's architecture was formed |
 | 1945 | End of World War II | Reconstruction of urban areas and changes in urban structure begin |
@@ -1456,7 +1456,7 @@ It is the story of architecture and the story of the city.
 
 ---
 
-## 建築類型ごとの特徴比較
+## Comparison of characteristics by architectural type
 
 ### More than just one type of architecture supported Berlin's clubs.
 
@@ -1476,7 +1476,7 @@ Underground facility.
 
 Each building was constructed for a different purpose, but by being given new uses, it has supported club culture.
 
-建築が異なれば、空間も異なる。
+Different architectures create different spaces.
 
 Different spaces have different acoustics.
 
@@ -1493,11 +1493,11 @@ In other words, differences in architecture directly lead to differences in club
 | Warehousing | Storage/Logistics | Few pillars/large delivery entrance | Expensive |
 | Railway facilities | Vehicles/cargo | Long spaces/high load capacity | High |
 | Underground facilities | Safes/equipment | Soundproofing/closedness | Very high |
-| オフィス | 事務作業 | 小部屋が多い | 限定的 |
+| Office | Office work | Many small rooms | Limited |
 
 As you can see from this table, the buildings that were used a lot in Berlin have something in common.
 
-それは、人よりも機械や物流を優先して設計されていたことである。
+This was because the design prioritized machines and logistics over people.
 
 As a result, the structure could easily be converted into a place where people could gather and enjoy loud music.
 
@@ -1519,13 +1519,13 @@ different regions.
 
 different architecture.
 
-異なる音楽。
+different music.
 
 Different operating policies.
 
 Although each is independent, they constitute a single urban culture.
 
-この分散型の構造がベルリンの特徴である。
+This decentralized structure is a characteristic of Berlin.
 
 ### Architecture composes a city
 
@@ -1535,7 +1535,7 @@ What is important is the relationship between buildings.
 
 Walking distance from the station.
 
-河川との位置関係。
+Positional relationship with rivers.
 
 Connection with industrial areas.
 
@@ -1546,7 +1546,7 @@ By looking at the city as a whole, you can understand why clubs were created the
 <div class="mermaid">
 graph TD
 
-A[都市の歴史]
+A[city ​​history]
 B[industrialization]
 C[industrial architecture]
 D[war]
@@ -1580,17 +1580,17 @@ Decades of urban change have accumulated to form Berlin as it is today.
 
 Berlin's club culture is often described as the history of techno.
 
-もちろん電子音楽の発展は重要である。
+Of course, the development of electronic music is important.
 
 However, this alone cannot explain the current image of the city.
 
 If the only requirement is the same music, it wouldn't be surprising if other cities had similar club cultures.
 
-実際にはそうなっていない。
+In reality, this is not the case.
 
-その違いを生み出したのが建築であり、都市の歴史だった。
+What made this difference was the architecture and the history of the city.
 
-音楽は空間を選ぶ。
+Music chooses the space.
 
 Space also nurtures music.
 
@@ -1600,11 +1600,11 @@ The two cannot be considered separately.
 
 The new building is beautiful.
 
-しかし、歴史そのものを持っているわけではない。
+However, it does not have history itself.
 
 On the other hand, Berlin's industrial architecture has a long history.
 
-工場として稼働した時代。
+A time when it operated as a factory.
 
 A time when we experienced war.
 
@@ -1618,7 +1618,7 @@ Architecture records all of this.
 
 While enjoying the music in this space, people are also unconsciously confronting the history of the city.
 
-### 建築が文化を継承する
+### Architecture inherits culture
 
 Culture is invisible.
 
@@ -1626,11 +1626,11 @@ But architecture is visible.
 
 That is why architecture has the role of transmitting culture to the next generation.
 
-In Berlin, rather than tearing down old buildings, they have been given new uses and continued to be used.
+In Berlin, rather than demolishing old buildings, they have been given new uses and continued to be used.
 
 As a result, cities have changed without losing their history.
 
-クラブ文化もまた、その流れの中で育まれてきたのである。
+Club culture has also been nurtured within this trend.
 
 > Berlin"s clubs are not just places to preserve music, but also architecture that connects the city"s memories to the future.
 
@@ -1642,13 +1642,13 @@ When comparing clubs around the world, few cities are as closely tied to archite
 
 There is a history there that cannot be explained by chance.
 
-19世紀の工業化によって建設された発電所や工場。
+Power plants and factories built during industrialization in the 19th century.
 
 Destruction of the city during World War II.
 
 A special urban structure created by the division of East and West.
 
-ベルリンの壁崩壊後に残された大量の遊休建築。
+A large number of abandoned buildings were left behind after the fall of the Berlin Wall.
 
 They were reused and became vessels for receiving musical culture.
 
@@ -1662,7 +1662,7 @@ determine the flow of people.
 
 Decide how long you will stay.
 
-そして、その場所で生まれる文化までも左右する。
+It also influences the culture that is born in that place.
 
 Berlin"s famous clubs aren"t just known for their famous DJs and cutting-edge sound equipment.
 
@@ -1670,14 +1670,14 @@ The history and architecture that a city has accumulated underpins its value.
 
 That"s why, even though each of Berlin"s clubs has its own distinct personality, there is a strong sense of unity within the city as a whole.
 
-Its charm can be understood more deeply by learning about its architecture.
+Its charm can be understood more deeply by knowing its architecture.
 
 At night, the huge industrial buildings are filled with music, people gather, and a new culture is born.
 
 It's not just that the purpose of the building has changed.
 
-都市そのものが、自らの歴史を未来へ引き継ぐ方法を見つけた瞬間でもあった。
+It was also a moment when the city itself found a way to pass on its history to the future.
 
-> ベルリンに名クラブが多い理由は、優れた建物が存在したからではなく、その建物を歴史ごと受け継ぎ、新しい文化へと育て続けてきた都市そのものにある。
+> The reason Berlin has so many famous clubs is not because of the existence of outstanding buildings, but because of the city itself, which has inherited these buildings with their history and continued to develop them into a new culture.
 
 ---

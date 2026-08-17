@@ -108,7 +108,7 @@ Of course, singing was important, but instrumental performances were also widely
 
 It was not uncommon for dances and rituals to proceed as musicians played melodies.
 
-In other words, humans have distinguished between "singing" and "playing" since ancient times.
+In other words, humans have distinguished between ""singing" and ""performance" since ancient times.
 
 ### Instrumental music spread in medieval Europe
 
@@ -142,7 +142,7 @@ A collection of dances.
 
 Ensemble.
 
-These were published as works without lyrics, and were popularized by many performers.
+These were published as works without lyrics and were popularized by many performers.
 
 Printing technology also made great progress.
 
@@ -158,7 +158,7 @@ Around this time, music had begun to be established as not only an art that conv
 
 ### Turning point in the Baroque era
 
-The Baroque period, which spanned from the 17th to the 18th century, was a time of dramatic development in instrumental music.
+The Baroque era, which spanned from the 17th to the 18th century, was a time of dramatic development in instrumental music.
 
 Improvements in the violin family progressed, and keyboard instruments such as the harpsichord and organ also developed.
 
@@ -304,7 +304,7 @@ trumpet section.
 
 trombone section.
 
-Each has a different role and forms a layer of sound.
+Each has a different role and forms layers of sound.
 
 Many works were produced here that did not feature singers.
 
@@ -324,7 +324,7 @@ Bebop developed high-speed improvisation, and later expanded into diverse direct
 
 Particularly in modal jazz, the selection of scales is more important than the chord progression, and there are more performances that take a long time to depict the space.
 
-In free jazz, the traditional format was deliberately broken, and the improvisational reactions between performers became the works themselves.
+In free jazz, the traditional format is deliberately broken, and the improvisational reactions between the performers become the works themselves.
 
 Here, there may not even be a fixed structure, let alone lyrics.
 
@@ -406,7 +406,7 @@ The important thing to note here is that singers are not needed here either.
 
 If the lyrics were always flowing, the audience's attention would be more likely to be focused on the words.
 
-On the other hand, instrumental music doesn't interfere with the visuals and can naturally support the emotions.
+On the other hand, instrumental music can support emotions naturally without interfering with the visuals.
 
 That is why even today, most film music is composed mainly of instrumental music.
 
@@ -418,7 +418,7 @@ That is why even today, most film music is composed mainly of instrumental music
 
 ### Music can be not only the foreground but also the background
 
-In the latter half of the 20th century, the idea that music was something people listened to with concentration began to change.
+In the latter half of the 20th century, the idea that music is something you listen to with concentration began to change.
 
 In classical music and jazz, the performance itself is the main character, and the audience is expected to pay attention to the stage.
 
@@ -486,7 +486,7 @@ As a result, the listener becomes conscious of time itself.
 
 The theme of the work is not a story based on the lyrics, but the flow of time.
 
-### Dance music doesn't need singers either.
+### Dance music doesn't need singers either
 
 Electronic music also had a huge impact on club culture.
 
@@ -548,7 +548,7 @@ In movies, the images move at a constant speed.
 
 On the other hand, in games, the speed of progress changes depending on the player.
 
-For this reason, game music needs to have a structure that does not get boring even if it is repeated many times.
+Therefore, game music needs to have a structure that does not get boring even if it is repeated many times.
 
 It should be natural even if it loops.
 
@@ -594,7 +594,7 @@ Even so, the venue was filled with enthusiasm.
 
 People remember their experiences and share their emotions simply through melodies, tones, harmonies, and rhythms.
 
-This is one of the modern examples of how music is an art form that does not rely solely on lyrics.
+This is one of the modern examples of how music is an art that does not rely solely on lyrics.
 
 > Game music has shown players around the world that even a limited amount of sound can leave a deep impression on people's memories and emotions.
 
@@ -656,7 +656,7 @@ This is because the tone has a direct effect on emotions.
 
 Even without a singer, people can feel the warmth, tension, spaciousness, and solitude just by the tone.
 
-The reason why timbre is emphasized in film music, game music, and ambient music is also deeply related to this characteristic.
+The reason why timbre is emphasized in film music, game music, and ambient music is deeply related to this characteristic.
 
 ### The absence of lyrics allows for greater imagination
 
@@ -724,7 +724,7 @@ These have continued regardless of the presence or absence of lyrics.
 
 In other words, the essence of ""what is music?'' does not change much even if performance techniques and production environments change.
 
-### Music without a singer is by no means an exception.
+### Music without a singer is never an exception.
 
 Classic.
 
@@ -759,17 +759,17 @@ The absence of singers is not a lack, but one of the diversity that exists in th
 | Eras | Events | Meaning in music history |
 | ------------- | --------------- | -------------------- |
 | Approximately 40,000 years ago | Bone flutes are made | The oldest evidence of instrumental music culture |
-| 古代エジプト・メソポタミア | ハープや竪琴が普及       | 儀式や宮廷で器楽が発展          |
+| Ancient Egypt and Mesopotamia | Harp and lyre spread | Instrumental music developed in ceremonies and court |
 | Ancient Greece | Lyra and auros spread | Song and instrumental music developed independently |
 | Middle Ages | Instrumental music culture such as the lute spreads | Instrumental music becomes established in dance and court music |
 | 15th and 16th centuries | Publication of instrumental music increases | Instrumental music becomes an independent genre |
 | 17th to 18th centuries | Development of Baroque music | Instrumental forms such as sonatas and concertos established |
-| Late 18th century | Symphony develops | Large-scale instrumental works become common |
+| Late 18th century | Symphony develops | Large-scale instrumental works become popular |
 | Early 20th century | Birth of jazz | Expansion of instrumental expression through improvisation |
 | Mid-20th century | Film music develops | Instrumental music becomes the center of visual expression |
 | Late 20th century | Synthesizers and electronic music spread | Expression through new tones expands |
 | Since the 1980s | Game music has developed | Instrumental music has become established in popular culture |
-| 21st century | Streaming era | Demand for work/environmental music is growing |
+| 21st century | Streaming era | Growing demand for work/environmental music |
 
 <div class="mermaid">
 timeline
@@ -837,9 +837,9 @@ Dramatic music played in movie theaters.
 
 BGM that colors the game world.
 
-アンビエントやテクノが生み出す音響空間。
+An acoustic space created by ambient and techno.
 
-これらはすべて、歌手がいなくても成立し、多くの人々に受け継がれてきた音楽である。
+All of these are musics that could exist without singers and have been passed down to many people.
 
 Music is not an art that conveys emotions through words alone.
 
@@ -859,11 +859,11 @@ That"s why I am moved by songs written in foreign languages, even if I don"t und
 
 That's why you can remember scenes from movies just by listening to music.
 
-だからこそ、ゲームの旋律を数十年経っても口ずさめる。
+That's why I still hum the melody of the game decades later.
 
 And that's why instrumental-only works continue to be performed across generations and borders.
 
-音楽の歴史は、「歌が中心だった歴史」ではない。
+The history of music is not a history centered around songs.
 
 It is the history of ""what people have felt and shared through sound.''
 
@@ -875,7 +875,7 @@ Music without songs has a blank space that cannot be explained in words.
 
 There is room for the listener to find their own meaning, accumulate memories, and reflect their emotions.
 
-その自由さこそが、インストゥルメンタルが何世紀にもわたって生き続けてきた理由の一つなのだろう。
+That freedom is probably one of the reasons why instrumental music has survived for centuries.
 
 Classical symphonies, jazz improvisations, film music, game music, ambient music, and electronic music all have expanded the possibilities of ""music without singing'' in different ways.
 
@@ -887,7 +887,7 @@ Music is an art that is actually older than words.
 
 And even today, its essence has not changed.
 
-歌があっても、歌がなくても、人は音楽の中に意味を見つけ続けている。
+Whether there are songs or not, people continue to find meaning in music.
 
 > Music can exist even without a singer. This is not an exception, but a natural pattern that has been accumulated over thousands of years of human musical history.
 

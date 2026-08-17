@@ -194,7 +194,7 @@ Low frequencies are one of the frequency bands that humans are most likely to fe
 
 In particular, frequencies below around 100Hz are transmitted as vibrations not only to the ears but also to the entire body.
 
-Although the log drum contains this rich low range, it does not have a vague outline like a simple sub-bass.
+Although log drums contain a rich range of low frequencies, they do not have vague outlines like a simple sub-bass.
 
 The pitch is clear, the attack is quick, and it cuts short but leaves a lingering sound.
 
@@ -214,7 +214,7 @@ Log drums have a charm that cannot be explained by volume alone.
 
 ## The secret of log drums deciphered from the acoustics
 
-### Tones that cannot be explained by "bass" alone
+### Tones that cannot be explained by just "bass"
 
 It is not accurate to explain the appeal of log drums simply because of their deep bass.
 
@@ -224,7 +224,7 @@ However, what is truly distinctive is the balance between bass and mid-low range
 
 A typical sub-bass often supports a very low frequency band centered around 30-60Hz.
 
-While this frequency range is easy to feel, it is often not reproduced adequately by small speakers.
+While this frequency range is easily felt by the body, it is often not reproduced adequately by small speakers.
 
 Amapiano's log drums, on the other hand, also contain overtones in the higher frequencies.
 
@@ -242,7 +242,7 @@ This is no coincidence.
 
 Log drums were designed as electronic sounds, and emphasis has been placed on their ""audible bass''.
 
-It"s not only low-pitched, but it"s also made so that you can feel the pitch and outline, so it doesn't lose its characteristics even if the environment changes.
+It"s not only low-pitched, but also made so that you can feel the pitch and outline, so it doesn"t lose its characteristics even if the environment changes.
 
 As a result, Amapiano has become a genre that maintains its individuality not only in clubs, but also on the street, at home, and when played on smartphones.
 
@@ -358,7 +358,7 @@ Although this has aspects in common with the ""singing bass'' seen in jazz and f
 
 The producer finely changes the pitch of the log drum to make it sound like a melody rather than just a rhythm.
 
-Therefore, it can be a complete song even without vocals.
+Therefore, even without vocals, it can be a complete song.
 
 This structure is one of the reasons why Amapiano's instrumental works are highly acclaimed.
 
@@ -378,7 +378,7 @@ This subtle difference in timing gives a sense of life to a monotonous loop.
 
 This timing design is also the reason why, even though the music is computer-generated, it still has the natural feeling of being played by a person.
 
-Therefore, even if the tempo is the same, it doesn't sound very organic.
+Therefore, even if the tempo is the same, it is difficult to hear it as inorganic.
 
 The rhythm moves forward a little, then pulls back a little.
 
@@ -409,7 +409,7 @@ This structure is a common feature of many of Amapiano's masterpieces, and shows
 
 ---
 
-## How did the log drum become a symbol of Amapiano?
+## How the log drum became a symbol of Amapiano
 
 ### From local sounds to universal sounds
 
@@ -457,7 +457,7 @@ The reason is very easy to understand.
 
 This is because log drums give an impression of the genre within the first few seconds.
 
-Typical dance music often uses an intro to create an atmosphere and gradually build up the atmosphere.
+In general dance music, there are many structures where an intro creates an atmosphere and gradually builds up the atmosphere.
 
 On the other hand, many of Amapiano's works feature log drums from a relatively early stage.
 
@@ -553,7 +553,7 @@ In typical house music, the kick drum comes out strongly and forward.
 
 The base often has the role of supporting the kick.
 
-On the other hand, in Amapiano, the log drums keep moving as if talking.
+On the other hand, in Amapiano, the log drums keep moving as if having a conversation.
 
 The bass itself becomes the performer.
 
@@ -636,7 +636,7 @@ In the 2020s, Amapiano is no longer just South African music.
 
 Producers from various regions including Europe, North America, South America, and Asia began to adopt Amapiano's style.
 
-The element that was most influenced by this was the log drum.
+Among them, the element that had the most influence was the log drum.
 
 Many works began to be produced that added log drums to traditional house and tech house, as well as works that incorporated Amapiano's bass into hip-hop and R&B.
 
@@ -673,7 +673,7 @@ E --> F[Further evolution]
 
 Amapiano was not born as a complete product, but developed step by step while being influenced by diverse musical cultures.
 
-Log drums have also continued to change along with their history.
+Log drums have also continued to change over time.
 
 > The log drum is not a finished product, but is at the center of an ever-evolving sound design.
 
@@ -884,7 +884,7 @@ When these elements overlap, people feel not just a low tone, but a sense of ""d
 
 A major feature of the log drum is that it achieves these multiple elements with a single tone.
 
-> The depth of Amapiano comes not from volume, but from the accumulation of acoustic design and rhythm design.
+> The depth of Amapiano comes not from the volume, but from the accumulation of acoustic design and rhythm design.
 
 ---
 
@@ -940,7 +940,7 @@ It sets the rhythm, speaks the melody, supports the space, and moves the body na
 
 By allowing one tone to play multiple roles, Amapiano is able to create rich grooves even with a small number of notes.
 
-Furthermore, the appeal of log drums cannot be explained solely by sound technology.
+Furthermore, the appeal of log drums cannot be explained by sound technology alone.
 
 South Africa's background in club culture, DJ culture, dance culture, and local community gives this sound a unique sense of life.
 

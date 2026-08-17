@@ -57,8 +57,8 @@ It was a ""private landscape painting"' depicting the richness and emptiness bro
 ## 3. Historical background: high economic growth and the cassette era
 
 From the late 1970s to the 1980s, Japanese society rapidly achieved affluence.
-家電や車、ファッション、そして音楽が“都市的ライフスタイル”を象徴した。  
-Sonyのウォークマン（1979）は「音楽を持ち歩く」という革命をもたらし、シティポップはその理想的なサウンドトラックとなった。  
+Home appliances, cars, fashion, and music symbolized the "urban lifestyle."
+Sony's Walkman (1979) ushered in a revolution in ""carrying music with you,'' and City Pop became the ideal soundtrack.
 
 FM stations open one after another, and DJs play the latest hits in English. The chord progression, which evokes the winds of the American West Coast, is associated with images of cities such as Tokyo, Yokohama, and Kobe.
 It can be said that listeners at the time were expressing themselves ""living in the city'' through city pop.
@@ -72,8 +72,8 @@ The heart of city pop lies in harmonic sophistication and rhythmic flexibility.
 The chord progression uses Major 7 and 9th frequently, creating a floating feeling. The melancholy moment of the unexpected shift in Diminished invites the listener to the "night city."
 Although the rhythm is AOR-like, it absorbs the disco and soul trends that were popular at the time, and is characterized by a light groove of around 110 BPM.
 
-録音面では、当時のアナログ機材と熟練エンジニアによる“空間の美学”が光る。  
-The studio's reverb processing and precision EQ achieved both transparency and humidity.
+In terms of recording, the ""aesthetics of space'' created by the analog equipment and skilled engineers of the time shines.
+The studio's reverb processing and precision EQ achieved both "transparency" and "humidity."
 In particular, Tatsuro Yamashita's ""SPACY'' (1978) is handed down as a monumental work that elevated the artistry of studio recording to its ultimate limit.
 The perfection of this sound is one of the reasons why it was "discovered" overseas more than 40 years later.
 
@@ -85,9 +85,9 @@ In the 1990s, the collapse of the bubble economy fundamentally changed the value
 The city lost its luster, and city pop was considered "old-fashioned" and "frivolous."
 What emerged in its place was music of ""more individualistic self-expression'' such as J-Pop, visual kei, and hip-hop.
 
-However, a different trend was brewing underground. DJs were rediscovering 1980s Japanese music as a rare groove in club culture.
+However, a different current was brewing underground. DJs were rediscovering 1980s Japanese music as a rare groove in club culture.
 Compilations were created by DJ MURO, DJ Nori, Gilles Peterson, and others, and record buyers around the world sought out the Japanese version.
-In other words, city pop did not completely die, but continued to live quietly in the ""bottom of memory''.
+In other words, city pop did not completely die, but continued to live quietly at the "bottom of memory".
 
 ---
 
@@ -103,7 +103,7 @@ Secondly, its melancholic sound had an affinity with **Vaporwave and Lo-fi Hip H
 Third, the comment section functioned as an international "nostalgia community."
 
 In this way, "Plastic Love" became an icon of the digital age.
-Although they don't know anything about the 80s, they share the "memory texture" of this song through data.
+Although they don't know anything about the 1980s, they share the "memory texture" of this song through data.
 
 ---
 
@@ -122,14 +122,14 @@ It was a new experience of ""dancing the future with the past" rather than ""ree
 
 ---
 
-## 8. Vaporwave／Lo-fi HipHop文化との接続
+## 8. Connection with Vaporwave/Lo-fi HipHop culture
 
 Vaporwave culture, which originated on the Internet, is essential when discussing the reappraisal of city pop.
-このジャンルは、過去の広告音楽や日本語サンプルを切り貼りし、デジタルノイズとノスタルジーを融合した。  
+This genre combines digital noise and nostalgia by cutting and pasting past advertising music and Japanese samples.
 As a result, Japanese culture from the 1980s was repurposed as an "anonymous future."
 
 Similarly, Lo-fi Hip Hop is connected to YouTube's BGM culture and spread as "Japanese 80s vibes."
-A snippet of city pop played as background music for studying has been played hundreds of millions of times.
+A snippet of city pop played as study background music has been played hundreds of millions of times.
 In other words, the context of the music has been completely deconstructed, and Japanese pop music has become a material for global emotions.
 Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural translation.
 
@@ -137,25 +137,25 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 
 ## 9. Influence on contemporary artists
 
-2020年代の日本では、シティポップのDNAを受け継いだ新世代が登場している。  
+In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
 Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the "emotions of living in the city" in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."
-According to Spotify data, City Pop listening increased particularly in the United States, Brazil, South Korea, and France.
+According to Spotify data, CityPop listening increased particularly in the United States, Brazil, South Korea, and France.
 In other words, this genre has transformed from a "local Japanese culture" to a "post-global emotional sharing device."
 
 ---
 
-## 10. Conclusion: The era when nostalgia becomes an export product
+## 10. Conclusion: An era in which nostalgia becomes an export product
 
 The music that was once created by the Japanese as a "city dream" is now resonating with people on the other side of the world 40 years later.
 This is not just nostalgia, but a reversal in which ""the past becomes the future.''
 Images generated by AI, cities on the Metaverse, NFT art--all are extensions of City Pop.
 
-Music is both a mirror of the times and a device for empathy that transcends the times.
+Music is a mirror of the times, and at the same time, it is also a device for empathy that transcends the times.
 City pop is loved around the world because its sound does not ""recreate the past" but ""dreams of a lost future."
-The city night is beginning to light up again in the ears of the world.
+The city night is once again lighting up the world's ears.
 
 ---
 

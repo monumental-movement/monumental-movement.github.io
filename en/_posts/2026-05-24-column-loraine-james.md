@@ -93,7 +93,7 @@ The city of London is always noisy. But within that noise, there is also lonelin
 
 Loraine James's early work has a thoroughly DIY feel.
 
-Sounds created in a limited environment rather than using expensive studio equipment. Rather, its roughness served as an attractive feature.
+Sound produced in a limited environment, not with expensive studio equipment. Rather, its roughness functioned as an attractive feature.
 
 In the late 2010s, she began releasing her work mainly on Bandcamp and SoundCloud. This was a different trend from the traditional music industry. We live in an era where music reaches listeners directly, without going through major labels or specialized media.
 
@@ -108,7 +108,7 @@ Her early songs have the following characteristics:
 - Strong bass design
 - emotional ambience
 
-What drew particular attention was the uniqueness of the way it broke.
+What attracted particular attention was the uniqueness of the way it broke.
 
 Traditional IDM has tended to emphasize mathematical structure. But for Loraine James, the disruption of rhythm functioned as an emotional expression.
 
@@ -121,7 +121,7 @@ D --> E[online evaluation]
 E --> F[To label contract]
 </div>
 
-From this time on, she avoided being talked about in the category of ""female electronic musician.'' The emphasis was on having the work evaluated on its own.
+From around this time onwards, she avoided being talked about in the category of ""female electronic musician.'' The emphasis was on having the work evaluated on its own.
 
 > Loraine James's early works turned unfinishedness into a weapon.
 
@@ -208,15 +208,15 @@ Loraine James was a symbol of that change.
 
 Loraine James also performs under the alias Whatever The Weather.
 
-In this project, spatiality is more important than beats.
+This project emphasizes spatiality rather than beats.
 
 Environmental sounds, sustained sounds, and temperature sensations. Music becomes more abstract, and even the sense of time becomes vague.
 
 This isn't just a side project. Rather, it shows the core of her musical interests.
 
-Electronic music has long been required to be "futuristic." However, in Whatever The Weather, the very atmosphere of life is turned into music.
+Electronic music has long been required to be "futuristic." However, in Whatever The Weather, the "air of life" itself is turned into music.
 
-Rain sounds, indoor reverberations, minute noises. They are treated as extensions of emotions.
+Rain sounds, indoor reverberations, minute noises. They are treated as an extension of emotions.
 
 <div class="mermaid">
 graph TD
@@ -257,7 +257,7 @@ Noise remains.
 
 It still holds true.
 
-The feel was very contemporary for many listeners.
+The feel was very contemporary to many listeners.
 
 <div class="mermaid">
 flowchart LR
@@ -293,7 +293,7 @@ The following characteristics are prevalent in the current electronic music scen
 - Cross-genre
 - internal themes
 
-These are elements that existed before Loraine James. But she integrated them into modern sentiments.
+These are elements that existed before Loraine James. However, she integrated them into a modern sentiment.
 
 <div class="mermaid">
 graph TD

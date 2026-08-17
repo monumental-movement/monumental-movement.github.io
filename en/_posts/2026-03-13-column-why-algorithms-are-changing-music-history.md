@@ -20,10 +20,10 @@ title: '[Column] Music history rewritten by algorithms'
 Text: mmr｜Theme: Unraveling how algorithms have changed the structure of music hits and the history of genres
 
 
-Looking back at the history of music, the mechanics of hits have always changed due to technology.
+Looking back at the history of music, the mechanics of a hit have always changed due to technology.
 
-Radio was the first huge medium to bring music into homes in the early 20th century.
-After that, the recording industry distributed music around the world as a commodity.
+Radio was the first major medium to bring music into homes in the early 20th century.
+After that, the recording industry distributed music as a product around the world.
 With the advent of MTV in the 1980s, music transformed into a pop culture that was linked to images.
 
 However, in the 21st century, the distribution structure of music has changed even more.
@@ -76,14 +76,14 @@ The following three are typical.
 
 Radio DJs were the cultural gatekeepers to new music.
 For example, in the United States, rock and roll in the 1950s,
-イギリスではBBC Radio 1などが音楽の流行を決定づけた。
+In the UK, broadcasts such as BBC Radio 1 determined music trends.
 
 Record shops were also important places of discovery.
 Staff recommendations, listening equipment, jacket design, etc.
 It stimulated listeners' curiosity.
 
 CD sales reached their peak in the 1990s,
-音楽市場は巨大産業となる。
+The music market becomes a huge industry.
 
 However, there were major constraints on music discovery during this period.
 
@@ -103,14 +103,14 @@ The advent of the Internet suddenly broke down this restriction.
 
 ## A new DJ called Algorithm
 
-2000年代後半、音楽配信サービスは急速に普及した。
+In the late 2000s, music distribution services rapidly became popular.
 
 Of particular importance is the streaming recommendation system.
 
 The algorithm mainly uses the following data.
 
 - Play history
-- スキップ率
+- Skip rate
 - Number of saves
 - Add playlist
 - User similarity
@@ -128,7 +128,7 @@ It has gained a worldwide audience.
 
 YouTube's recommendation system is equally important.
 By presenting videos one after another based on the playback history,
-音楽の消費時間を大きく伸ばした。
+The amount of time spent consuming music has increased significantly.
 
 The algorithm is
 It's not just about helping people find music.
@@ -162,7 +162,7 @@ Hit songs in the streaming era have their own characteristics.
 
 This has to do with how streaming is measured.
 
-多くのサービスでは
+in many services
 If it is played for about 30 seconds or more
 Counted as 1 stream.
 
@@ -172,7 +172,7 @@ It is necessary to present the appeal of the music.
 
 Furthermore, the influence of playlist culture is also significant.
 
-リスナーはアルバムではなく
+The listener is not the album
 I started listening to music in playlists.
 
 As a result,
@@ -194,7 +194,7 @@ It's a playlist culture.
 On Spotify and Apple Music
 Official playlists have huge influence.
 
-代表的なものには次のようなプレイリストがある。
+Typical playlists include the following:
 
 - RapCaviar
 - Today's Top Hits
@@ -203,7 +203,7 @@ Official playlists have huge influence.
 These playlists are
 Has tens of millions of followers.
 
-つまり、
+In other words,
 Posting one playlist
 Sometimes it becomes a worldwide hit.
 
@@ -214,7 +214,7 @@ example
 
 - Chill
 -Focus
-- Workout
+-Workout
 - Sleep
 
 music is not a genre
@@ -223,13 +223,13 @@ It became the soundtrack for life scenes.
 This is a major change in music history.
 
 Genres once created cultural communities.
-パンク、ヒップホップ、テクノなどがその例だ。
+Examples include punk, hip-hop, and techno.
 
 But now,
-多くのリスナーはジャンルを意識せずに
+Many listeners are not conscious of genre
 listening to music.
 
-> プレイリストはジャンルではなく「生活」を中心に音楽を再編した。
+> The playlist has been rearranged with music centered around "life" rather than genre.
 
 ---
 
@@ -338,14 +338,14 @@ In other words, music history
 It is also a history of technology.
 
 Records, radio, MTV, the internet.
-Next came algorithms.
+Next came the algorithms.
 
 > The history of music has always been driven by technology, not sound.
 
 ---
 
 
-## Chronology: History of algorithms and music distribution
+## Timeline: History of algorithms and music distribution
 
 <div class="mermaid">
 timeline

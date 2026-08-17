@@ -21,7 +21,7 @@ title: '[Column] Bit crush and low-bit music: the aesthetics of sound created by
 Text: mmr｜Theme: Digital distortion has changed music--About the technical history and aesthetics of bit crush and low-bit music
 
 
-The history of digital music is often talked about as a history of high-quality sound. Sampling frequencies have increased, bit depth has been extended, and noise has been eliminated. However, on the other hand, expressions that intentionally lower the resolution have repeatedly appeared.
+The history of digital music is often talked about as a history of high-quality sound. Sampling frequencies have been increased, bit depth has been extended, and noise has been eliminated. However, on the other hand, expressions that intentionally lower the resolution have repeatedly appeared.
 Words like bit crush, low bit music, and 8bit/12bit sound technically mean ""limitation" or ""deficiency," but in music history they have formed a distinct aesthetic and culture.
 
 In this column, we will analyze the relationship between bit depth and sound, the limitations of early digital devices, and the flow that led to game consoles, samplers, and DAWs, and interpret the accumulation of facts as to why low-resolution sound was established as a form of musical expression.
@@ -89,7 +89,7 @@ Rather than sacrificing sound quality, this was a compromise to make it work.
 Family computers, arcade boards, and 8-bit and 16-bit generation game consoles had extremely limited sound source specifications.
 The composition of square waves, triangle waves, noise, and simple sample playback gave it a distinctly digital tone.
 
-This sound was considered ""children's" and ""simple," but at the same time it became deeply engraved in generational memory.
+This sound was considered ""for children" and ""simple," but at the same time it became deeply engraved in generational memory.
 
 > Game music was the biggest medium that allowed low-bit sounds to permeate everyday life.
 
@@ -184,10 +184,10 @@ This is not just a matter of nostalgia; it is because the music production envir
 
 ### Application to videos, games, and advertising
 
-Low-bit tones are used as symbols that instantly convey a sense of nostalgia, artificiality, and unreality.
+Low-bit sounds are used as symbols that instantly convey a sense of nostalgia, artificiality, and unreality.
 Even short sounds can evoke context, so they go well with images and UI sounds.
 
-> Low-pitched sounds have become sounds that carry meaning.
+> Low-bit tones have become sounds that carry meaning.
 
 ---
 

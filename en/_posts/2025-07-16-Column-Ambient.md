@@ -17,7 +17,7 @@ title: '[Column] What is ambient music? Philosophy of "sounds that exist" rather
 
 ## From "music to listen to" to "music to feel"
 
-文：mmr｜テーマ：Ambient・環境音楽・電子音楽文化論
+Text: mmr｜Theme: Ambient, environmental music, electronic music culture theory
 
 Ambient is a music genre that is not intended to be "actively listened to" by listeners, but rather to "exist in a space." He eliminates clear melodies and rhythms and instead uses sustained sounds (drones), environmental sounds (field recordings), and acoustic processing to construct auditory landscapes.
 
@@ -39,7 +39,7 @@ In other words, ambient music is not background music, but it functions like bac
 
 <hr>
 
-### アンビエントの系譜と起源
+### Genealogy and origins of ambient
 
 **● Prehistory: The germ of environmental music**
 
@@ -49,7 +49,7 @@ In other words, ambient music is not background music, but it functions like bac
 
 ---
 
-[**ジョン・ケージ（John Cage）**](https://amzn.to/3Vrlzf8)：無音の音楽《4'33"》で「環境そのものが音楽」とする前衛思想を提唱。
+[**John Cage**](https://amzn.to/3Vrlzf8): Proposes the avant-garde idea that "the environment itself is music" with silent music "4'33".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -61,9 +61,9 @@ In other words, ambient music is not background music, but it functions like bac
 
 Representative works:
 
-- [**Discreet Music（1975）**](https://amzn.to/4nafH64)
+- [**Discreet Music (1975)**](https://amzn.to/4nafH64)
 
-- [**Ambient 1: Music for Airports（1978）**](https://amzn.to/48shEpU)
+- [**Ambient 1: Music for Airports (1978)**](https://amzn.to/48shEpU)
 
 ---
 
@@ -71,7 +71,7 @@ Representative works:
 
 [Klaus Schulze](https://amzn.to/4pCnE5H), [Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief): Fusion with German electronics.
 
-[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps)：テクノ〜IDMの視点からアンビエントを再構築。
+[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps): Reconstructing ambient from a techno to IDM perspective.
 
 The rise of Ambient House/Ambient Techno.
 
@@ -101,13 +101,13 @@ Spotify's "chill" and "lo-fi" playlists are also affected.
 <td>Melody</td>
 <td>Minimal. Often has a drone-like, floating feel. </td>
 </tr>
-    <tr>
+<tr>
 <td>Rhythm</td>
 <td>Basically absent. Even if it is, it is minimal and hard to notice. </td>
 </tr>
-    <tr>
+<tr>
 <td>Acoustic processing</td>
-      <td>リバーブ、ディレイ、ループ、フィルターなど。音の空間化。</td>
+<td>Reverb, delay, loop, filter, etc. Spatialization of sound. </td>
 </tr>
 <tr>
 <td>Structure</td>
@@ -139,7 +139,7 @@ Artist: [Lustmord](https://amzn.to/3IAUS4H), [Raison d"être](https://amzn.to/4n
 
 **● Ambient Techno**
 
-テクノのリズムにアンビエントの空間処理を融合。
+Fusing techno rhythm with ambient spatial processing.
 
 **Artist**: [The Orb](https://amzn.to/48qQQ9x), [Global Communication](https://amzn.to/3K8GJMK), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
 
@@ -167,7 +167,7 @@ Ambient music for relaxation and meditation.
 
 ### Ambient is spatial art
 
-アンビエント音楽は単なるBGMではなく、次のような思想・芸術概念とも深く結びついている。
+Ambient music is not just background music, but is also deeply connected to the following ideas and artistic concepts.
 
 **● Minimalism and Time Art**
 
@@ -175,9 +175,9 @@ Ambient music emphasizes "stillness," "blank space," and "sustainability."
 
 Affinity with architecture and contemporary art ([Mark Rothko](https://amzn.to/48uPz1g), [Donald Judd](https://amzn.to/3W0xzEv)).
 
-**● サイバーパンクと未来都市**
+**● Cyberpunk and the city of the future**
 
-近未来都市、無機質な空間に馴染む音。
+A sound that blends into the inorganic space of a futuristic city.
 
 Soundscapes from movies such as "Blade Runner" (https://amzn.to/4gzcASG) and "Ghost in the Shell" (https://amzn.to/4gy1ZaG).
 
@@ -196,7 +196,7 @@ Strongly connected to modern mental health/meditation/slow tech.
 
 **ASMR/Meditation/Stress Relief**: Also used in the mental health and wellness industries.
 
-NFTアートやジェネレーティブ・ミュージックとの融合も進行中。
+Fusion with NFT art and generative music is also underway.
 
 
 <hr>
@@ -217,7 +217,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <tr>
 <th>Artist/Title</th>
 <th>era</th>
-      <th>フォーマット</th>
+<th>Format</th>
 <th>Genre/Features</th>
 </tr>
 </thead>
@@ -228,7 +228,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <td>Limited Vinyl</td>
 <td>Ambient Techno, dope soundscape</td>
 </tr>
-    <tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Spacetime Continuum <br />- <em>Emit Ecaps</em></a></td>
 <td>1996</td>
 <td>2LP Vinyl</td>
@@ -241,16 +241,16 @@ It is a sound that transcends the framework of music and enters the silence amid
 <td>Trance ambient</td>
 </tr>
 <tr>
-      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
+<td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
 <td>1997</td>
 <td>12"</td>
-<td>Experimental Trip Hop/Ambient</td>
+<td>Experimental trip hop/ambient</td>
 </tr>
 <tr>
 <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
 <td>2023</td>
 <td>Vinyl EP</td>
-      <td>チルアウト・バレアリック</td>
+<td>Chillout Balearic</td>
 </tr>
 <tr>
 <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>Nature Morte!</em></a></td>
@@ -262,7 +262,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Mr. Blank <br />- <em>On The Ground</em></a></td>
 <td>1994</td>
 <td>2LP Vinyl</td>
-      <td>アンビエント×ダブ×ジャズなど融合サウンド</td>
+<td>Fusion sound of ambient x dub x jazz etc.</td>
 </tr>
 <tr>
 <td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Deep Forest <br />- <em>Deep Forest</em></a></td>
@@ -284,7 +284,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 
 ---
 
-### 関連コラム
+### Related columns
 
 🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)
 

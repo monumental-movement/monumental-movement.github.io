@@ -9,7 +9,7 @@ layout: post
 tags:
 - Electronica
 - Ambient
-title: '[Column] Rei Harakami - Quiet electronic sound born in Kyoto'
+title: 【コラム】 Rei Harakami ― 京都が生んだ静寂の電子音
 ---
 
 
@@ -26,7 +26,7 @@ Text: mmr｜Theme: Rei Harakami's music and the atmosphere and aesthetics of the
 
 
 When I listen to Rei Harakami's music, the first thing I feel is ""tranquility.''
-It"s not just an ambient silence, it"s like a breath floating in the ""ma'' between sounds.
+それは単なるアンビエント的な静寂ではなく、音の「間（ま）」に漂う呼吸のようなものだ。  
 His sound certainly breathes the ""aesthetics of space'' that the city of Kyoto has.
 
 The lingering sound of a temple bell, the dampness of a summer shower, the clear flow of Shirakawa in winter.
@@ -49,14 +49,14 @@ color: #fff;
 
 
 
-## Chapter 1: The arrival of Rei Harakami - Turning the "silence of the city" into sound
+## 第1章：Rei Harakamiの登場 ― “都市の静けさ”を音にする
 
-Rei Harakami is a Kyoto-born track maker who suddenly appeared in the late 1990s amid the rise of Shibuya-kei and IDM.
+1990年代後半、渋谷系やIDMの隆盛の中で突如現れた京都出身のトラックメイカー、Rei Harakami。  
 He presented a ""private room" and ""introspective" electronic sound that was different from the glittering Tokyo atmosphere.
 
 His representative early work, ""Red Curb'' (1999), is a work that harmonizes the roundness of analog synth with minimal rhythm.
 **Electronic music for listening alone on the tatami floor** rather than the excitement of a club.
-Therein lies the ""understated humor" and ""gentle loneliness" typical of Kyoto people.
+そこに京都人らしい「控えめなユーモア」と「品のある寂しさ」が潜んでいる。  
 
 His songs are not flashy, but **the more you listen to them, the more your world expands**.
 The experience is similar to sitting in the garden of a temple and listening to the sound of the wind.
@@ -114,7 +114,7 @@ His sound was not esoteric experimental music, but the rhythm of life itself.
 
 ---
 
-## Chapter 5: From local to global - Genealogy of electronic sounds from Kyoto
+## 第5章：ローカルからグローバルへ ― 京都発電子音の系譜
 
 Rei Harakami's existence had a great influence on later Japanese local electronica.
 Following in his footsteps, artists such as **aus, agraph, Ametsub, and no.9** emerged from the Kyoto/Kansai area.
@@ -142,7 +142,7 @@ Rei Harakami's music embodied the harmony between landscape and humans, nature a
 There is a **quiet sense of happiness** that is neither ""convenient" nor ""exciting."
 
 The sound he left behind is as soft as the sunset in Kyoto, and will never fade.
-If you listen carefully, you can still hear that sound floating somewhere in town.
+If you listen closely, you can still hear that sound floating somewhere in town.
 
 > There is sound in the silence. Kyoto is in the sound.
 

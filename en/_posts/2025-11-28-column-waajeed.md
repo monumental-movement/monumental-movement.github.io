@@ -22,7 +22,7 @@ Text: mmr｜Theme: Waajeed's life and works, and his role in the genealogy of De
 When discussing Detroit"s music history, the focus is often on the giants of the early days of techno. However, there are many artists who have reintegrated the city"s own **black music bloodline**--hip-hop, gospel, soul, house, jazz, and techno--and sublimated it into new forms of expression since the 2000s.
 
 One person at the center of this is **Waajeed**.
-Starting his career around Slum Village, he has continued to use Detroit's musical aesthetic as a platform to connect to the future, with bands such as Platinum Pied Pipers (PPP), Tiny Hearts, and his own label **Dirt Tech Reck**.
+Starting his career around Slum Village, he has continued to make Detroit's musical aesthetic function as a "platform for connecting to the future" with Platinum Pied Pipers (PPP), Tiny Hearts, and his own label **Dirt Tech Reck**.
 
 Since the late 2010s, he has been building a body of work that more directly follows the flow of Detroit house/techno, while also bringing to the forefront the expression of black roots.
 In particular, **""Shango EP" (2017)** and one of their current masterpieces, **""Mother EP" (2018)** are positioned as works that strongly present the spirituality and community nature of club music while inheriting the traditions of Detroit.
@@ -59,7 +59,7 @@ In the late 1990s and early 2000s, Detroit was creating a new standard for neo-s
 * Directly influenced by the creativity of J Dilla
 
 What Waajeed absorbed here was more than just beat making.
-**The attitude is to carry out the inheritance of black music as ""reinvention'' in the modern era**.
+**The attitude is to ""carry out the inheritance of black music as ""reinvention'' in the modern era**.
 
 ---
 
@@ -218,7 +218,7 @@ His technique for naturally blending synths, pads, electric piano, live drums, p
 * **"The War LP" (2012)**
 * **"Shango EP"(2017)**
 * **"From The Dirt"(2017)**
-* **"Ten Toes Down EP"(2018)**
+* **"Ten Toes Down EP" (2018)**
 * **"Mother" (2022)**
 
 ---
@@ -259,7 +259,7 @@ graph TD
 Waajeed is a rare artist who treats Detroit's music culture not as a "genre" but as a continuum of history and communal memory.
 
 * Hip-hop → Soul → Gospel → House → Techno
-In the sense that he embodies this lineage all by himself, he embodies the image of a typical "Detroit creator."
+In the sense that he single-handedly embodies this lineage, he embodies the image of a typical "Detroit creator."
 
 Moreover, this creation is aimed at innovation, not nostalgia.
 The works from "Shango EP" to "Mother" are

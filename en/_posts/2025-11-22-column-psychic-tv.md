@@ -54,7 +54,7 @@ Through his work with COUM Transmissions, Genesis developed a strong interest in
 
 Formed in 1976, Throbbing Gristle shocked the music world in the late 1970s with their noise, industrial music, and guerilla-style live performances. However, in 1981, the group disbanded. Shortly thereafter, Genesis began a new musical and artistic project with Peter Christopherson and Alex Fergusson. That's Psychic TV.
 
-Psychic TV は単なる音楽バンドではなく、音楽、映像、パフォーマンス、オカルティズムを統合する「マルチメディア・コレクティブ」として設計され、当初から実験性と挑発性を前面に押し出す構造を持っていた。
+Psychic TV was not just a music band, but was designed as a ""multimedia collective'' that integrated music, video, performance, and occultism, and from the beginning had a structure that emphasized experimentation and provocation.
 
 ---
 
@@ -100,7 +100,7 @@ In 1992, Psychic TV was the subject of a scandal on the station's news program, 
 
 #### 5.2 Immigration to the United States and changes in activities
 
-After moving to the United States, Genesis changed his creative focus while maintaining PTV's spirituality and experimentalism. Collaborations with new collaborators and members increased, and the range of music and ritual performance expanded.
+After immigrating to the United States, Genesis changed his creative focus while maintaining PTV's spirituality and experimentalism. Collaborations with new collaborators and members increased, and the range of music and ritual performances expanded.
 
 #### 5.3 Dissolution and Side Projects
 

@@ -38,7 +38,7 @@ color: #fff;
 
 ### Life and musical evolution
 
-Fela Aníkúlápó Kútì was born in Abeokuta in 1938 and, after receiving his musical education in London, returned to Nigeria in the late 1960s and created his own musical language, combining blues/jazz/funk/highlife with traditional rhythms. It became more political during the Koola Lobitos period in the 1960s and Africa '70 in the 1970s, and later developed into formations such as Egypt 80.
+Fela Aníkúlápó Kútì was born in Abeokuta in 1938 and received his musical education in London before returning to Nigeria in the late 1960s and creating his own musical language, combining blues/jazz/funk/highlife with traditional rhythms. It became more political during the Koola Lobitos period in the 1960s and Africa '70 in the 1970s, and later developed into formations such as Egypt 80.
 
 Fela's music is characterized by long (10 to 30 minute) repetitive grooves, strong horn sections, polyrhythms, and direct messages in pidgin English. Drummer Tony Allen was an integral part of the formation of Afrobeats, and his drumming laid the foundation for the genre.
 
@@ -74,7 +74,7 @@ London period → recording in the US → establishment in Africa '70 → politi
 
 ### Bands/producers involved/people around them
 
-**Koola Lobitos (early)** → Africa "70 (most iconic configuration) → Egypt 80 (configuration after 1980). Although the members change each season, it is characterized by a large household composition of horn section, chorus, and rhythm section.
+**Koola Lobitos (early)** → Africa '70 (most iconic configuration) → Egypt 80 (configuration after 1980). Although the members change each season, it is characterized by a large household composition of horn section, chorus, and rhythm section.
 
 ---
 
@@ -99,7 +99,7 @@ London period → recording in the US → establishment in Africa '70 → politi
 
 ---
 
-### Fela Kuti album commentary by age group
+### Fela Kuti album commentary by generation
 
 #### 1960s: Koola Lobitos period
 - **"The '69 Los Angeles Sessions"**
@@ -207,7 +207,7 @@ He led the Egyptian 80s and directly inherited his father's style.
 ### summary
 
 Fela Kuti was not only the "father of Afrobeats" but also a symbol of political resistance through music. That legacy continues to be reflected through his sons Femi Kuti and Soon Kuti, and in the work of artists around the world.
-If you want to learn more about Afrobeat, we recommend starting with ""Gentleman," ""Expensive Shit," and ""Zombie.''
+If you want to know more about Afrobeat, we recommend starting with ""Gentleman," ""Expensive Shit," and ""Zombie.''
 
 The words and rhythms of Fela still echo in the winds of Lagos and on the stages of the world.
 

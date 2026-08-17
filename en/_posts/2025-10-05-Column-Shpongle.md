@@ -9,13 +9,13 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[Column] Shpongle: The cycle of sound and the journey of consciousness'
+title: '[Column] Shpongle: Reincarnation of sound and journey of consciousness'
 ---
 
 
 ## Raja Ram × Simon Posford: Encounter and chemical reaction
 
-文：mmr｜テーマ：Raja RamとSimon Posfordが描く音響宇宙の哲学
+Text: mmr｜Theme: Philosophy of the acoustic universe drawn by Raja Ram and Simon Posford
 
 
 Shpongle is a monumental psychedelic electronica/psychedelic project centered around Simon Posford and Raja Ram. Formed in 1996, inspired by the total solar eclipse in India, they have presented an "audio-journey" that fuses ethnic sampling, acoustic instrumentation, and masterful studio production. Their sound image is distinct from club-oriented trance, and invites listeners to a story that transcends time and space.
@@ -55,7 +55,7 @@ In the 1990s, British psychedelic culture was at a crossroads in its evolution.
 A time when the Goa Trance craze swept Europe and LSD culture merged with technology.
 At the center of this trend was Twisted Records (1996-).
 
-Twisted releases spiritual and intellectual trance music centered on Posford, including Hallucinogen, Young Brother, Prometheus, and Celtic Cross.
+Twisted releases spiritual and intellectual trance music centered around Posford, including Hallucinogen, Young Brother, Prometheus, and Celtic Cross.
 Shpongle was born with the theme of "journey into the inner universe" at its core.
 
 ---
@@ -301,7 +301,7 @@ He is especially famous for his collaborations with Android Jones (digital visio
 
 ## Chapter 10: Shpongle's Psychoacoustics - Interaction of the Brain and Consciousness
 
-Posford constructs sound as a neurological ritual.
+Posfordは音を神経学的儀式として構築する。
 The undulating bass resonates with heart rate variability, and the overtones of the flute stimulate the pineal gland in the brain.
 This structure causes a psychological phenomenon called an "acoustic trip."
 
@@ -312,7 +312,7 @@ This structure causes a psychological phenomenon called an "acoustic trip."
 | Low frequency base | Synchronization of breathing and heartbeat | Grounding feeling |
 | High-frequency overtones | Pineal gland activity | Visual hallucinations/time dilation |
 | Reverb reverberation | Expansion of spatial localization | Dissolution of ego |
-| Polyrhythm | Cognitive delay | Dreamy floating feeling |
+| ポリリズム  | 認知遅延     | 夢幻的浮遊感    |
 
 Scientifically, Shpongle is a project to ""restructure the brain with sound.''
 
@@ -322,9 +322,9 @@ Scientifically, Shpongle is a project to ""restructure the brain with sound.''
 
 says Raja Ram.
 
-> "I am a traveler of sound. Instead of searching for God, I wake up in sound."
+> "I am a sound traveler. Instead of searching for God, I wake up in sound."
 
-Shpongle is a 21st century scripture born at the intersection of technology and spirituality.
+Shpongleとは、テクノロジーと霊性の交差点で生まれた21世紀の経典。
 Electronic sounds become mantras, beats become meditation, and listening becomes prayer.
 
 Sound is born, changes, returns to silence, and is revived again.

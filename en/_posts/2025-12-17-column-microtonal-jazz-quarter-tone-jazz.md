@@ -57,7 +57,7 @@ Blues thirds, fifths, and sevenths are theoretically described as minor thirds, 
 
 ### 2-1 Definition of quarter tone system
 
-Quarter tone often refers to 24 equal temperament, which is the semitone of 12 equal temperament divided into two. By dividing one octave into 24 equal parts, new pitches are inserted between semitones. In theory, finer pitch divisions are possible, but for practical purposes in performance and education, the quarter tone has become a reference point.
+Quarter tone often refers to 24 equal temperament, which is the semitone of 12 equal temperament divided into two. By dividing one octave into 24 equal parts, new pitches are inserted between semitones. Theoretically, finer pitch divisions are possible, but for practical purposes in performance and education, the quarter tone has become a reference point.
 
 ### 2-2 Reason for adoption in jazz context
 
@@ -75,7 +75,7 @@ Particularly in improvisational performances, intervals that were treated as "ex
 
 ### 3-1 Background and positioning
 
-Joe Maneri is a person who developed his own microtonal theory while active as a saxophonist and clarinet player. Although he was based on 24-equal temperament, he also emphasized the sense of just intonation, and was an educator who closely linked theory and practice.
+Joe Maneri is a person who developed his own microtonal theory while active as a saxophonist and clarinetist. Although he was based on 24-equal temperament, he also emphasized the sense of just intonation, and was an educator who closely linked theory and practice.
 
 ### 3-2 Structure of microtonal theory
 
@@ -153,7 +153,7 @@ By subdividing the pitch, the role of rhythm also changes. A method of presentin
 
 ### 5-3 Deepening acoustic analysis
 
-For improvisational performances using microtonality, acoustic evaluation using Fourier analysis and spectrograms is possible. in particular:
+For improvisational performances using microtones, acoustic evaluation using Fourier analysis and spectrograms is possible. in particular:
 
 * Fine peak distribution on the frequency spectrum
 *Changes in overtone structure and continuity of timbre

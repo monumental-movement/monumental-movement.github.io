@@ -46,7 +46,7 @@ Those **10 seconds of the loop** completely rewrote my auditory world.
 
 At that time, I only listened to music as an expression of emotion with lyrics.
 But that rhythmic repetition taught me the pleasure of ""structure over meaning''.
-It was at that moment that I realized that sound could be a ""space" rather than a ""message".
+It was at that moment that I realized that sound can be a ""space" rather than a ""message".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yYNEKwgkKE4?si=o3SjQ8uD3GeOIaPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -56,7 +56,7 @@ It was at that moment that I realized that sound could be a ""space" rather than
 
 Why do "short fragments of sound" remain deeply memorable?
 From a neuroscientific perspective, sound reaches the amygdala (emotional center) faster than vision.
-The speed at which it triggers an emotional response in just 0.2 seconds creates the ""acuteness of sonic memory.''
+The speed at which it triggers an emotional response in just 0.2 seconds creates the ""acuteness of sound memory.''
 
 Additionally, a length of 10 seconds is consistent with the limits of human working memory.
 In other words, it is the smallest unit that can consciously retain ""the sound you are currently listening to.''
@@ -102,7 +102,7 @@ Phrase changes, bass omissions, snare repetitions——
 Each moment recalibrates the breathing and energy of the floor.
 
 To use the ""flow theory'' proposed by psychologist Mihaly Csikszentmihalyi,
-This 10-second sonic immersion is what modern ""meditation'' is all about.
+This 10-second sonic immersion is what modern-day meditation is all about.
 As people dance, they dissolve themselves in the waves of sound.
 
 ---

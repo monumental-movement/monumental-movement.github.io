@@ -54,7 +54,7 @@ In 1998, the unit name was changed to **Pan Sonic** because it conflicted with P
 
 ---
 
-# 2. Acoustic features: Making electronic roughness into music as it is
+# 2. Acoustic characteristics: Making electronic roughness into music as it is
 
 Pan Sonic's acoustics consistently have the following characteristics.
 
@@ -67,10 +67,10 @@ He rarely uses commercially available synthesizers, instead focusing on the foll
 - Voltage control circuit
 - Physical materials such as amplifiers, metal pieces, magnetic coils, etc.
 
-As a result, Pan Sonic's sound has a rawness that sounds like it was recorded ""the moment electronic components operate''. The sound is harsh, the particles are large, and it is overwhelmingly physical.
+As a result, Pan Sonic's sound has a rawness that sounds like it was recorded ""the moment electronic components operate''. The sound is harsh, particles are large, and overwhelmingly physical.
 
 ## 2-2. Minimal structure
-Although the sonic material is extremely simple, the songs have a detailed structure.
+Although the sonic material is extremely simple, the song has a detailed structure.
 
 - repeating pulses
 - Finely fluctuating frequency
@@ -137,14 +137,14 @@ Its **purity of repetition** marked a new path for club music.
 They have often collaborated with Japanese noise artists (especially Merzbow, etc.), and they have enhanced each other's experimentalism.
 
 ### 5-3. Contemporary acoustics/sound art
-The approach of treating electronic sound as a "phenomenon" was inherited by later electronic sound artists.
+This approach of treating electronic sound as a "phenomenon" was inherited by later electronic sound artists.
 
 ### 5-4. Mika Vainio's solo activities
 Mika Vainio has released numerous works under the solo name Ø (Zero). He shared the same attitude as Pan Sonic in exploring the smallest unit of electronic sound.
 
 ---
 
-# 6. Suspension and end of activities, what is left behind
+# 6. Suspension and end of activities, and what is left behind
 
 Around 2010, Pan Sonic went on hiatus, and Mika Vainio passed away in 2017.
 This ended Pan Sonic's activities, but the remaining works continue to influence electronic musicians around the world.

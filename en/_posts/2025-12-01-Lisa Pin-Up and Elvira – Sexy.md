@@ -17,7 +17,7 @@ Lisa Pin-Up (Lisa Chilcott) is a British hard house DJ/producer. She is also a m
 
 Porl Young, also known as Elvira, is a UK producer/DJ. In the mid-90s, he was a member of the UK gothic rock band Rosetta Stone.
 
-"Sexy" is a Hard House track released in 2000 by the label Rock Hard Recordings.
+"Sexy" is a Hard House track released by the Rock Hard Recordings label in 2000.
 
 B is a remix by Belgian electronic music producer Fred Baker's solo under the name Frenchtek/jumpstyle.
 

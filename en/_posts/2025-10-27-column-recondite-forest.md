@@ -62,7 +62,7 @@ Representative works:
 ## Chapter 2: Forest Soundscape
 
 Analyzing Recondite's music, it is characterized by "breathing in the low range" and "humidity in the midrange."
-Kick is always understated, instead letting the reverberations of the synths express the layers of air between the trees.
+Kick is always subdued, instead letting the reverberations of the synths express the layers of air between the trees.
 This structure corresponds to the mechanism by which forest bathing stimulates the parasympathetic nervous system in humans.
 
 > Forest bathing uses multiple stimuli such as natural sounds, light, smells, and humidity.
@@ -105,7 +105,7 @@ Recondite also produces his own visuals.
 Misty mountains, silhouetted trees, and frozen lakes.
 Together with sound, they construct an "**electronic landscape**".
 
-この視覚的手法は、テクノにおける**没入的エコロジー表現**の一形態と考えられる。  
+This visual method can be considered a form of **immersive ecological expression** in techno.
 In other words, his live performance is a sound forest bathing device.
 It is a **reproduction of a digital forest** that leads human senses to natural memory.
 
@@ -182,11 +182,11 @@ In other words, he is presenting a new physicality called **Music = Forest of Se
 ## Chapter 10: Conclusion - Techno returns to the forest
 
 Recondite's music is not mechanical nature, but
-**It maintains a balance that feels like a machine breathing in nature**.
+**It maintains a balance like a machine breathing in nature**.
 
 If forest bathing is an act of ""returning humans to nature,''
 Recondite's music is an act of "returning techno to nature."
-Artificial and organic, city and forest, beat and silence - all of them blend together in him.
+Artificial and organic, city and forest, beat and silence - all of them melt together in him.
 It resonates as a new ""**poetics of digital nature**.''
 
 > Listen to Recondite as if you were taking a forest bath.

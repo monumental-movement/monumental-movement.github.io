@@ -19,7 +19,7 @@ title: '[Column] Neo-Futurism / Avant-Garde Pop'
 
 Text: mmr｜Theme: Organized as an intersection of music history, art history, and technology history, and about actual artists' achievements and work trends
 
-ネオフューチャリズム／前衛ポップとは、実験的な音響構造や身体性、未来志向のビジュアル表現を、ポップ・ミュージックの流通構造の中で成立させた潮流である。20世紀初頭の未来派美術に端を発する「未来」への希求は、21世紀においてデジタル制作環境、ポスト・インターネット的視覚文化、ジェンダーや身体表象の再定義と結びつき、音楽と視覚表現を不可分なものとして再構築した。
+Neo-futurism/avant-garde pop is a trend that has established experimental sound structures, physicality, and future-oriented visual expression within the distribution structure of pop music. In the 21st century, the aspiration for the "future" that originated in Futurist art in the early 20th century has been linked to digital production environments, post-internet visual culture, and the redefinition of gender and body representation, reconfiguring music and visual expression as inseparable.
 
 FKA twigs and Arca are iconic in this context. Her/their work does not simply present innovative sounds, but functions as a comprehensive art that integrates the body, technology, emotion, and identity.
 
@@ -30,7 +30,7 @@ FKA twigs and Arca are iconic in this context. Her/their work does not simply pr
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -45,7 +45,7 @@ color: #fff;
 
 The Italian Futurists of the early 20th century focused on machines, speed, and noise as objects of beauty. Luigi Russolo's noise music theorized a departure from melodicism and had a strong influence on later experimental music. Although this idea was not directly inherited by pop music, it became an important prototype in terms of its ""attitude to affirm futuristic acoustics.''
 
-### 1-2. アヴァンギャルド・ポップの前史
+### 1-2. Prehistory of avant-garde pop
 
 In the 1960s and 1970s, electronic music and pop became closer together. With the spread of synthesizers, experimental tones were introduced into popular music, and science fiction images were frequently used in visual expression. These products formed a model that was ""avant-garde, yet distributable.''
 

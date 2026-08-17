@@ -40,7 +40,7 @@ Techno music is often referred to as ""urban music.''
 
 If you trace its origins, you will find it in Detroit, USA. However, in the 21st century, techno went beyond Europe and spread to the Middle East, Africa, South America, and Asia, absorbing the realities of each region and transforming into new forms.
 
-Amid this trend, there is one person who left a strong impression on dance music fans around the world.
+Amidst this trend, there is one person who left a strong impression on dance music fans around the world.
 
 Sama' Abdulhadi.
 
@@ -80,13 +80,13 @@ From the late 1990s to the early 2000s, the spread of satellite broadcasting and
 
 Sama' Abdulhadi also discovered electronic music during this wave.
 
-He was particularly influenced by European techno and electronic music.
+His particular influence was European techno and electronic music.
 
 repeating rhythm.
 minimalistic structure.
 Communication that does not require language.
 
-It was a feeling that could be shared across borders, religions, and ethnicities.
+It was a feeling that could be shared across borders, religions, and ethnic groups.
 
 ### Encounter with club culture
 
@@ -184,7 +184,7 @@ Also, rather than portraying her Middle Eastern origins as a ""speciality,'' she
 
 This attitude gained support from many clubbers and DJs.
 
-> Before she was a "Palestinian DJ" she was an extremely powerful techno DJ.
+> Before she was a "Palestinian DJ", she was an extremely powerful techno DJ.
 
 ---
 
@@ -210,7 +210,7 @@ Hard and stoic.
 Energetic and uncompromising.
 There is also a strong sense of unity with the audience.
 
-He was highly praised as a full-fledged techno DJ, not just a ""unusual local DJ.''
+He was highly praised as a full-fledged techno DJ, not just a ""unusual regional DJ.''
 
 <div class="mermaid">
 timeline
@@ -235,7 +235,7 @@ Palestine, in particular, is often consumed as political news, with limited oppo
 
 Sama" Abdulhadi"s existence has greatly shaken that fixed image.
 
-"Palestine also has a club culture."
+"There is a club culture in Palestine too."
 "Young people are playing techno"
 "There is an underground scene."
 
@@ -286,7 +286,7 @@ On the other hand, she is often treated as a political figure by the media.
 
 However, he was wary of being perceived as a simple political activist.
 
-What she repeatedly says is that ""music is the main focus.''
+What she repeatedly says is that ""music is the main thing.''
 
 Of course, being from Palestine, it is difficult to completely separate yourself from the political context.
 
@@ -345,7 +345,7 @@ graph TD
 A[Nabi MusaEvent] --> B[Backlash from conservatives]
 A --> C[Club culture support]
 B --> D[religious space debate]
-C --> E[freedom of expression discussion]
+C --> E[freedom of expression debate]
 D --> F[international coverage]
 E --> F
 </div>
@@ -365,7 +365,7 @@ The emergence of Sama' Abdulhadi was a huge inspiration to young DJs and produce
 The influence on female artists is particularly large.
 
 "You can go to the world even if you are from the Middle East"
-"It"s appreciated even in the underground."
+"It"s appreciated even underground."
 "Connecting from the local scene to the international stage"
 
 Such a possibility has been visualized.
@@ -532,6 +532,6 @@ Techno has often been called the "music of the future".
 
 Sama" Abdulhadi"s existence indicates that its future is already diverse, multiregional, and beginning to transcend boundaries.
 
-> Her bass sounds not only shake the club, but the world map itself.
+> The bass sounds she plays not only shake the club, but the world map itself.
 
 ---

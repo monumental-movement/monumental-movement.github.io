@@ -80,7 +80,7 @@ It was a space for uploading completed works, and the community aspect of the pr
 
 That's where Discord became important.
 
-Discord wasn't a place to display completed works, but a place to circulate unfinished ideas.
+Discord wasn't a place to display completed works, it was a place for unfinished ideas to circulate.
 Beat in progress.
 Loop for a few seconds.
 Temporary mix.
@@ -276,7 +276,7 @@ Collaborative coordination.
 Visual sharing.
 Promotion.
 
-These activities began to take place within the community.
+These things are now being done within the community.
 
 ### Tutorial Culture
 
@@ -364,7 +364,7 @@ However, in the Discord era, the community itself generates the name.
 
 Terms like Digicore and HexD often don't have strict definitions.
 
-However, there is still a sense of shared feeling within the community.
+However, even within the community, a sense of common sense is established.
 
 This is close to the early days of club culture.
 In the beginning, house and techno were more about sharing a sense than having a clear definition.
@@ -411,7 +411,7 @@ Highly stimulating sound image.
 
 These characteristics are closely tied to TikTok and the short video environment.
 
-Algorithm analysis itself was sometimes a topic of conversation in the Discord community.
+Algorithmic analysis itself was sometimes a topic of conversation in the Discord community.
 
 > Music in the Discord era is simultaneously formed by human communities and algorithmic environments.
 
@@ -473,7 +473,7 @@ Another characteristic was that trends changed too quickly.
 
 Genres change and trends disappear within a few weeks.
 
-As a result, there has been an increase in cases where producers are becoming exhausted.
+As a result, the number of cases in which producers are becoming exhausted has increased.
 
 ### Mental load
 
@@ -483,7 +483,7 @@ Late night call.
 notification.
 Immediate reaction.
 
-With the intrusion of online communities into our lives, the issue of burnout has become a frequent topic of conversation.
+With the intrusion of online communities into our lives, the issue of burnout has become a frequent topic of discussion.
 
 ### Collision with commercialization
 

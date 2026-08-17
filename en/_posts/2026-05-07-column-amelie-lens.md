@@ -17,7 +17,7 @@ title: '[Column] Amelie Lens: The core of modern techno carved out by rigid mini
 
 ## Prologue: Being at the axis of modern techno
 
-文：mmr｜テーマ：ベルギー発ミニマル・テクノの革新と現場主義の継承
+Text: mmr｜Theme: Minimal techno innovation from Belgium and inheritance of hands-on approach
 
 Belgian DJ/producer Amelie Lens has established herself as one of the most influential figures in the techno scene since the late 2010s. Her sound is hard, fast, and extremely stripped-down minimalism, maintaining a consistent intensity from gigantic festivals to underground clubs.
 
@@ -64,7 +64,7 @@ Started DJing in earnest around 2014. In the early days, he mainly played in sma
 
 One of the key factors that accelerated her career was her relationship with techno labels. In particular, releases from major European labels served as an opportunity to make her musicality widely known.
 
-After that, he established his own label ""Lenske'' and began to take on the role not only as an artist but also as a curator. This move marks a shift from being a mere DJ to a scene-shaper.
+After that, he established his own label ""Lenske'' and began to take on the role not only as an artist but also as a curator. This move marks a shift from mere DJ to scene-shaper.
 
 ### Festival presence
 
@@ -120,7 +120,7 @@ D --> E
 
 This structure creates an ecosystem that is more than just a release platform.
 
-### コミュニティ形成
+### Community building
 
 She emphasizes direct relationships with fans through SNS and events. This is also an important element required of modern artists.
 
@@ -128,11 +128,11 @@ She emphasizes direct relationships with fans through SNS and events. This is al
 
 ---
 
-## 年表
+## Chronology
 
 ### Major Career Events
 
-* 1990年：ベルギーに誕生
+* 1990: Born in Belgium
 * Around 2014: Full-scale start of DJ activities
 * 2016: International reputation increased
 * 2018: Established own label
@@ -147,7 +147,7 @@ She emphasizes direct relationships with fans through SNS and events. This is al
 
 ### Role in the scene
 
-Amelie Lens is more than just a popular DJ, she's an example of the direction of modern techno. Her success proved that minimal, hard sounds can go mainstream.
+Amelie Lens is more than just a popular DJ, she is an example of the direction of modern techno. Her success proved that minimal, hard sounds can go mainstream.
 
 Although she is often talked about in the context of her success as a female DJ, her own evaluation is based solely on her musical ability.
 

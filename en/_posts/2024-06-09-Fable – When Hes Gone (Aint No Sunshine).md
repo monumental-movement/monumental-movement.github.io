@@ -8,7 +8,7 @@ layout: post
 tags:
 - Trance
 - 00s
-title: Fable – When He's Gone (Ain't No Sunshine)
+title: Fable – When He"s Gone (Ain"t No Sunshine)
 ---
 
 

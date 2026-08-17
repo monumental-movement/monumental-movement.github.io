@@ -16,16 +16,16 @@ title: '[Column] Post-Rock Instrumental / Cinematic Rock ─ From silence to cin
 
 
 
-## 序章：言葉のない物語が鳴り始めた
+## Prologue: A wordless story begins to sound
 
 Text: mmr｜Theme: About the establishment and development of post-rock instrumental music
 
 
-Post-rock instrumental and cinematic rock are musics that have given listeners an extremely strong narrative sense, even though they do not have clear meaning devices such as lyrics. It starts with silence, then the slight fluctuations of sound accumulate, and eventually become a large swell that envelops the emotions. This process resonates deeply with the film's long camera movements and the building of tension through editing.
+Post-rock instrumental and cinematic rock are musics that have given listeners an extremely strong sense of narrative, even though they do not have clear meaning devices such as lyrics. It starts with silence, then the slight fluctuations of sound accumulate, and eventually become a large swell that envelops the emotions. This process resonates deeply with the film's long camera movements and the building of tension through editing.
 
 When this music emerged in the late 1990s, rock seemed to have exhausted its many forms. Alternative rock was becoming mainstream, and grunge impulses were becoming a thing of the past. Under such circumstances, post-rock instrumental music presented a completely different sense of time and structure while using rock formations.
 
-この文脈を語るうえで、Explosions in the SkyとGodspeed You! Black Emperorは象徴的な存在である。前者は旋律と感情の高揚を通じて個人的体験に寄り添い、後者は社会的・集団的時間を音として刻み込んだ。両者は同時代に活動しながら、ポストロックという枠組みの広さと深さを示してきた。
+Explosions in the Sky and Godspeed You! Black Emperor are iconic in this context. The former approaches personal experiences through melodies and heightened emotions, while the latter imprints social and collective time in the form of sound. While active at the same time, both artists demonstrated the breadth and depth of the post-rock framework.
 
 > Post-rock instrumentals provide a space for the listener to begin speaking, rather than for the music to speak.
 
@@ -36,7 +36,7 @@ When this music emerged in the late 1990s, rock seemed to have exhausted its man
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -47,9 +47,9 @@ color: #fff;
 
 ## Establishment of the concept of post-rock
 
-「ポストロック」という呼称が定着したのは1990年代半ばである。ロックの楽器編成を用いながらも、ブルース由来のリフやヴォーカル中心主義、定型的な楽曲構造から距離を取る音楽を説明するために使われ始めた。この概念は特定のサウンドを指すというより、姿勢や方法論を示す言葉であった。
+The term "post-rock" became established in the mid-1990s. It began to be used to describe music that uses rock instrumentation but distances itself from blues-derived riffs, vocal focus, and formulaic song structures. This concept did not refer to a specific sound, but rather to an attitude or methodology.
 
-背景には、1970年代以降に蓄積されてきた複数の音楽文化がある。ミニマル・ミュージックが示した反復と微細な変化、アンビエントが提示した環境音楽としての発想、ポストパンクがもたらした脱構築的態度、さらにはダブや電子音楽における空間処理の感覚。これらがロックの文脈と交差した結果として、ポストロックは形成された。
+The background lies in the multiple musical cultures that have accumulated since the 1970s. The repetition and subtle changes exhibited by minimal music, the idea of ​​environmental music presented by ambient, the deconstructive attitude brought about by post-punk, and even the sense of spatial processing in dub and electronic music. Post-rock was formed as a result of these intersecting with the rock context.
 
 What is important is that post-rock was not a ""negation of rock.'' While the guitar, bass, and drum lineup was maintained, their roles were redefined. The guitar became a device for creating sustained sounds and textures rather than carving out riffs, and the drums moved from being a beat-setting device to one that controlled the flow of time and tension.
 
@@ -59,7 +59,7 @@ What is important is that post-rock was not a ""negation of rock.'' While the gu
 
 ## Changes in the listening experience brought about by instrumentalization
 
-ポストロックにおける大きな転換点のひとつが、ヴォーカルの排除、あるいは極端な後景化である。歌詞が前面に出ないことで、音楽は具体的な意味や物語から解放され、より抽象的な体験へと変化した。
+One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the picture, the music was freed from concrete meanings and narratives, turning it into a more abstract experience.
 
 With instrumental music, the listener doesn't have to follow the words. Instead, attention is directed to the overlapping sounds, changes in strength and weakness, and the passage of time itself. This is a listening experience that requires active immersion rather than passive consumption.
 
@@ -73,7 +73,7 @@ The length of the song is also an important factor. It's not uncommon for post-r
 
 The term cinematic rock does not have a strict genre definition. However, it has been used intuitively to refer to music with a sense of visual scale and emotional curves.
 
-ポストロック・インストゥルメンタルがこの呼称と結びついたのは必然である。静かな導入部は映画の冒頭の風景描写に似ており、徐々に要素が加わる展開は物語の緊張を高める。そして訪れるクライマックスは、映像的なカタルシスを生む。
+It was inevitable that post-rock instrumental music would be associated with this designation. The quiet introduction is similar to the landscape description at the beginning of the movie, and the gradual addition of elements increases the tension of the story. And the climax that comes brings about a visual catharsis.
 
 In fact, many post-rock songs have found their way into movies and television series, but this is not a result of the subordination of music to visuals. Music itself originally contained a visual structure.
 
@@ -87,7 +87,7 @@ Explosions in the Sky is an instrumental rock band formed in Austin, Texas in 19
 
 What is symbolic about their early activities is a coincidental event that occurred immediately after their debut. The release of the work that brought their music so much attention coincided with a period of special significance to American society, unintentionally arousing strong emotional associations. This experience is said to have made them strongly aware that ""music takes on meaning depending on its context.''
 
-Explosions in the Skyの楽曲構造は明快である。シンプルなアルペジオや単音フレーズが提示され、それが反復される中で徐々に音数と音量が増していく。ドラムは感情の高まりを段階的に可視化し、最終的に大きなクライマックスを形成する。
+The song structure of Explosions in the Sky is clear. Simple arpeggios and single-note phrases are presented, and as they are repeated, the number and volume of notes gradually increase. The drums visualize the rise of emotion in stages, eventually forming a big climax.
 
 The reason their music has been used in so many video productions is because of the way they open up their emotions. Rather than imposing a specific narrative, the space is maintained to naturally evoke the listener's own memories and experiences.
 
@@ -129,7 +129,7 @@ It is this difference that shows the richness of post-rock expression. The simul
 
 ---
 
-## 録音技術と音響美学の進化
+## Evolution of recording technology and acoustic aesthetics
 
 Changes in recording technology are closely related to the establishment and development of post-rock instrumental music. Recording techniques that maintain a wide dynamic range, spatial miking that actively incorporates reverberation, and mixing that takes into account the layer structure have become essential elements of this music.
 

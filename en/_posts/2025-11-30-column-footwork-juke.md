@@ -62,8 +62,8 @@ The musical characteristics of Footwork/Juke are as follows.
 - **Tempo**: Very fast, around 160 BPM.
 - **Rhythm structure**: Complex syncopation, use of TR-808/909 drum machines.
 - **Sampling**: High-speed recording of fragmented vocals, hip-hop and R&B phrases.
-- **曲構成**：ループ中心で短いフレーズを繰り返す。変拍子や不規則なブレイクを用いることが多い。  
-- **Sound characteristics**: Low-range bass drum is emphasized, snare is finely dispersed. Skillfully utilizes stereo space.
+- **Song structure**: Repeats short phrases mainly in loops. It often uses odd time signatures and irregular breaks.
+- **Acoustic Features**: Low-range bass drum is emphasized, snare is finely dispersed. Skillfully utilizes stereo space.
 
 ---
 
@@ -85,13 +85,13 @@ flowchart LR
 
 ---
 
-## 4. 主要アーティスト・レーベル
+## 4. Major artists/labels
 
 The following important figures and labels exist in the Footwork/Juke scene.
 
-| アーティスト/プロデューサー | 貢献 |
+| Artist/Producer | Contribution |
 |--------------------------|------|
-| DJ Rashad | フットワークを国際的に広めた中心人物。複雑なリズムと革新的なサンプル技法を展開 |
+| DJ Rashad | A central figure in popularizing footwork internationally. Deploying complex rhythms and innovative sample techniques |
 | DJ Spinn | Builds the Footwork sound with DJ Rashad, has a great influence on young people |
 | RP Boo | One of the founders of early footwork, Ghetto House turned into footwork |
 | Traxman | Contributed to the development of the Juke scene in Chicago |
@@ -113,11 +113,11 @@ timeline
 
 ---
 
-## 6. 国際的な拡がり
+## 6. International expansion
 
 Footwork has been attracting attention outside of the United States since the 2010s. It particularly influenced the electronic dance music scenes in Europe, Japan, Brazil, and Australia.
 
-- **ヨーロッパ**：Planet MuやUKベースのプロデューサーがリリース、フットワーク・バトルイベント開催  
+- **Europe**: Planet Mu and UK-based producers release, footwork battle event held
 - **Japan**: Footwork event held in underground club, influencing DJs and young creators
 - **SNS/Distribution Culture**: International dissemination through YouTube and SoundCloud
 

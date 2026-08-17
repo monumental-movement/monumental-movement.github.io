@@ -78,7 +78,7 @@ Are "rebelling" and "destructing yourself" really the same thing?
 
 This question led to later straight edge thinking.
 
-### The emergence of hardcore punk
+### The advent of hardcore punk
 
 From the late 1970s to the early 1980s, punk evolved into more extreme forms.
 
@@ -170,7 +170,7 @@ They strongly advocated veganism, animal liberation, and environmental protectio
 
 ### Combining music and activism
 
-What made Earth Crisis unique was the perfect sync between music and action.
+What set Earth Crisis apart was the perfect sync between music and action.
 
 Lyrics were not just emotional expressions, but concrete action guidelines.
 
@@ -186,13 +186,13 @@ In addition to abstinence from alcohol and drugs, veganism became an important f
 
 ---
 
-## Musical historical background of vegetarianism
+## Historical background of vegetarian music
 
 Veganism and vegetarianism didn't start out as hardcore.
 
 Its origins lie in the counterculture of the 1960s.
 
-Oriental thought, the environmental movement, and the return to nature philosophy have influenced many musicians.
+Oriental thought, the environmental movement, and the idea of ​​returning to nature have influenced many musicians.
 
 The idea of ​​harmony between body and mind also permeated musical culture.
 
@@ -206,7 +206,7 @@ One of the most famous vegetarians in the world of pop music is Paul McCartney.
 
 He has been advocating for animal welfare for many years.
 
-Their activities had an impact not only on music fans but also on society in general.
+Their activities have had an impact not only on music fans but also on society in general.
 
 This is a prime example of the natural connection between music and an ethical message.
 
@@ -234,13 +234,13 @@ Billie Eilish is a symbol of this.
 
 In the age of social media, artists' lives themselves are becoming visible.
 
-Ethical choices became part of the expression rather than external to the work.
+倫理的選択は作品の外側ではなく表現の一部になった。
 
 ---
 
 ## Thoughts that cross genres
 
-Veganism and straight edge have spread beyond hardcore.
+ヴィーガニズムやストレートエッジはハードコアを超えて広がった。
 
 Metal, hip hop, pop, electronic music.
 
@@ -252,7 +252,7 @@ Ideas that were once a subculture have permeated general culture.
 
 ## Japanese noise music and physicality
 
-Let's now shift our perspective to Japan.
+ここで視点を日本へ移そう。
 
 In Japanese avant-garde music, there are performers who have continued to question the body and ethics in a way different from straight edge or veganism.
 
@@ -264,7 +264,7 @@ Masami Akita, also known as Merzbow, is a global symbol of noise music.
 
 He has long expressed support for animal rights and veganism.
 
-But his importance doesn't end there.
+しかし彼の重要性はそれだけではない。
 
 The music rejects hedonistic consumption.
 
@@ -346,7 +346,7 @@ H --> E
 | Since the 1990s | Merzbow leads the global noise scene |
 | 2000s | Strengthening the connection between animal welfare and music culture |
 | 2010s | Accelerating sharing of values ​​through SNS |
-| 2020s | Popularization of veganism |
+| 2020年代 | ヴィーガニズムの一般化 |
 
 ---
 

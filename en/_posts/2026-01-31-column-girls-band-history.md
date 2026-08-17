@@ -10,7 +10,7 @@ tags:
 - History
 - Rock
 - Punk
-title: '[Column] World history of the girl band scene'
+title: '[Column] World history of girl band scene'
 ---
 
 
@@ -81,7 +81,7 @@ A[punk ideology] --> B[DIY culture]
 B --> C[Increase in female bands]
 </div>
 
-> Punk turned girl bands from the exception to the option.
+> Punk transformed girl bands from the exception to the option.
 
 ---
 
@@ -124,7 +124,7 @@ B --> C[diverse girl band]
 ## Chronology: Girls band scene main topics
 
 1960s: The emergence of female performers becomes visible
-1970s: Commercial success for female rock bands
+1970s: Female rock bands achieve commercial success
 1980s: Punk and DIY expansion
 1990s: Riot Grrrl movement
 2000s: Indie and internationalization
@@ -140,7 +140,7 @@ The world history of girl bands is not a linear progression, but a series of int
 
 Future girl bands may build on the past and be called by different names. However, as long as women continue to make music in the form of bands, this history will continue to be updated.
 
-> The history of girl bands is a never-ending present tense.
+> The history of girl bands is in the never-ending present tense.
 
 ---
 
@@ -204,9 +204,9 @@ As the media changes from music magazines to television and the Internet, female
 
 ## Role of education/community
 
-Education and community presence were essential to the increase in girl bands. Promoting music education, workshops, and women-only events have created new participants.
+Education and community were essential for the increase in girl bands. Promoting music education, workshops, and women-only events have created new participants.
 
-Especially since the 1990s, networks among women have promoted the sharing of knowledge and experiences and supported the formation of a sustained scene.
+Especially since the 1990s, networks among women have facilitated the sharing of knowledge and experiences and supported the formation of a sustained scene.
 
 > Community is a device that allows history to continue.
 

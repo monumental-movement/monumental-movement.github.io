@@ -127,7 +127,7 @@ Representative song
 
 ## ■ "Action Battlefield" (1981)
 
-It's more aggressive and has a strong post-punk feel.
+It's more aggressive and has a strong post-punk vibe.
 Mark Stewart's participation strengthened the agitation.
 
 ## ■ "Foundation Steppers" (1983)
@@ -203,7 +203,7 @@ Even if NAS did not directly post political lyrics, ""making music as an experim
 After 1983's "Foundation Steppers," works under the NAS name ceased.
 But its influence spread far and wide.
 
-## ● 影響を受けた領域
+## ● Area affected
 
 *Bristol's Massive Attack, Tricky, Smith & Mighty
 * UK Dub, Digital Dub

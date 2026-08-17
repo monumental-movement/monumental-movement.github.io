@@ -19,7 +19,7 @@ title: '[Column] Microtonal Music'
 
 Text: mmr｜Theme: About the shift to a production philosophy that does not assume a fixed pitch
 
-Microtonal music has not only questioned the premise of modern music of equal temperament, but has also transformed the unit of thought in music production itself. In this paper, we do not separate the history, theory, acoustic structure, and production practice of musical temperament, but reconstruct them as interconnected movements.
+Microtonal music has not only questioned the premise of modern music of equal temperament, but has also transformed the unit of thought in music production itself. In this paper, we do not separate the history of musical temperament, theory, acoustic structure, and production practice, but reconstruct them as interconnected movements.
 
 ---
 
@@ -37,10 +37,10 @@ color: #fff;
 </style>
 
 
-## 1. Temperament is an ideology, not a rule.
+## 1. Temperament is not a rule but an idea.
 
 12 Equal Temperament is more of an established **industrial standard for production and distribution** than music theory.
-This is a response to the demands for greater freedom in modulation, mass production of keyboard instruments, and standardization of education, and is not an optimal acoustic solution.
+This is a response to demands for greater freedom in modulation, mass production of keyboard instruments, and standardization of education, and is not an optimal acoustic solution.
 
 The problem with microtonal music is not the numerical value of ""fineness than a semitone'';
 **This is the very idea of ​​treating pitch as a fixed unit**.
@@ -66,13 +66,13 @@ Modern Western music history did not eliminate these things, but rather did not 
 
 ## 3. Limitations of equal temperament that became apparent at the end of the 19th century
 
-In the latter half of the 19th century, the following problems emerged as harmonies became bloated and chromatic diction became commonplace.
+In the latter half of the 19th century, the following problems became apparent due to the expansion of harmony and chromatic usage.
 
 * Genuine 3rd and 6th degree acoustic turbidity
 * Homogenization of harmonic color
 * Dilution of tonality sense
 
-Many composers turned to atonal and twelve-tone techniques, but
+Many composers turned to atonal or twelve-tone techniques, but
 In another lineage, ""redivision of intervals'' itself was selected.
 
 ---
@@ -95,7 +95,7 @@ Just intonation uses interval ratios based on harmonic series.
 * Modulation structure is limited
 * Difficult to understand theory and implementation
 
-This choice transforms the music from a "transposable structure" to a "local acoustic structure".
+This choice transforms the music from a ""transposable structure" to a ""local acoustic structure."
 
 ---
 
@@ -243,7 +243,7 @@ This is established not through intellectual understanding, but through repeated
 Microtonal music does not form a single genre.
 
 * Experimental music
-* Electronic music
+* electronic music
 * Inside Jazz/Pop
 * Video/Installation
 
@@ -280,7 +280,7 @@ timeline
 
 ## 15. Conclusion
 
-Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the depths of music production.
+Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the deep layers of music production.
 
 
 ---

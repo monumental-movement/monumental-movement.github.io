@@ -28,7 +28,7 @@ title: '[Column] Dego & Kaidi and Sound Signature'
 Text: mmr｜Theme: EUK About the intersection of Broken Beat and global black music
 
 
-In the late 1990s, a new musical movement emerged in the club culture of west London. It is a genre called ""Broken Beat" (also known as ""Bruk"), which differs from traditional 4/4 house and drum and bass, and boldly incorporates complex, bouncing rhythms and elements of jazz, funk, and soul. More than just a style of music, Broken Beat developed from the black community of west London, club culture and underground creative networks.
+In the late 1990s, a new musical movement emerged in the club culture of west London. It is a genre called ""Broken Beat" (also known as ""Bruk"), which differs from traditional 4/4 house and drum and bass, and boldly incorporates complex, bouncy rhythms and elements of jazz, funk, and soul. More than just a style of music, Broken Beat developed from the black community of west London, club culture and underground creative networks.
 
 <div class="mermaid">
 flowchart TD
@@ -58,7 +58,7 @@ color: #fff;
 
 This movement is characterized by a unique groove that combines live instruments and electronic beats. Piano, keyboards, horns, percussion, and more are incorporated as live music, overlaid with complex drum patterns and house beats. The result is a unique sound that inherits the heritage of jazz, funk, and soul while also having the immediacy and danceability of club music.
 
-Broken Beat の成長には、Dego、Kaidi Tatham、IG Culture、Bugz in the Attic、Neon Phusion などのアーティストが大きく貢献した。特に Dego が主宰したレーベル 2000Black は、このジャンルの中心的拠点として機能し、多くの才能あるアーティストたちを輩出した。こうした背景のもと、Dego & Kaidi は協働関係を築き、UK のブラック・ミュージックの文脈を新たに拡張していく。
+Artists such as Dego, Kaidi Tatham, IG Culture, Bugz in the Attic, and Neon Phusion have contributed significantly to Broken Beat"s growth. In particular, Dego"s label 2000Black served as a central hub for the genre, producing many talented artists. Against this backdrop, Dego & Kaidi will form a collaborative relationship that will expand the context of UK black music.
 
 ---
 
@@ -70,7 +70,7 @@ Dego began his career as part of the pioneering UK Jungle/Drum & Bass outfit 4He
 
 ### Kaidi Tatham
 
-Kaidi Tatham は、マルチ奏者・プロデューサー・コンポーザーとして、鍵盤、フルート、打楽器などに精通している。若い頃からクラシックやゴスペル音楽に触れ、後にロンドンでパフォーミング・アーツを学んだ。1990年代後半には、IG Culture や Bugz in the Attic、Neon Phusion などの Broken Beat 系アーティストと共に活動を開始。ライヴとスタジオ双方で高い評価を受け、「UK の Herbie Hancock」と称されることもある。
+Kaidi Tatham is a multi-instrumentalist, producer, and composer who is well versed in keyboard, flute, and percussion instruments. He was exposed to classical and gospel music from a young age, and later studied performing arts in London. In the late 1990s, he began working with Broken Beat artists such as IG Culture, Bugz in the Attic, and Neon Phusion. He has received critical acclaim both live and in the studio, and is sometimes referred to as ""UK's Herbie Hancock.''
 
 ---
 
@@ -147,7 +147,7 @@ flowchart TD
 
 ---
 
-## “So We Gwarn” の文化的意義
+## Cultural significance of "So We Gwarn"
 
 ""A So We Gwarn" fused UK"s Broken Beat/jazz/soul culture with Detroit"s house culture. They re-presented to the world the ""acoustic instruments + beat + jazz/funk/soul groove" established by Broken Beat, and encouraged a re-evaluation of UK Black Music.
 
@@ -167,7 +167,7 @@ Broken Beat is not talked about as a phenomenon of the past, but is being reinte
 
 The collaboration between Dego & Kaidi and Sound Signature was more than just the production of an album, it was a redefinition of black music that transcended genres. This attempt to reconstruct the grammar of music by moving back and forth between the past, present, and future is literally an act of carving a ""signature of sound.''
 
-In this day and age, where the boundaries between genres are blurring, their music is like a lighthouse that carries the legacy of the past while pointing toward the future. This work asks listeners what it means to listen to black music and what it means to transcend genre boundaries.
+In this day and age, where the boundaries between genres are blurring, their music is like a lighthouse that carries the legacy of the past while pointing toward the future. This is a work that asks listeners what it means to listen to black music and what it means to transcend genre boundaries.
 
 ---
 

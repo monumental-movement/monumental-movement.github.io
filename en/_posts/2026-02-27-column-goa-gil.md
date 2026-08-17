@@ -64,7 +64,7 @@ The party was essentially "non-commercial" and the admission fee was vague. Ther
 
 ### 2. The concept of DJ set length
 
-彼のプレイの最大の特徴はセットの長さである。
+The biggest feature of his play is the length of his sets.
 
 His sets lasted eight, 10, and sometimes 24 hours, whereas the average club DJ's rotations lasted one to two hours. At certain parties, he would sometimes play alone from the night until the evening of the next day.
 
@@ -76,10 +76,10 @@ Arrange the space with mid-tempo
 Gradually increase the BPM and induce a trance state
 3. Dawn Peak
 A psychedelic and uplifting song
-4. 日中の深化
-   ダークで実験的なトラックへ移行
+4. Deepening of day and day
+Moving towards dark and experimental tracks
 
-He calls this ""psychedelic yoga'' and says he aims to transform consciousness through dance.
+He calls this "psychedelic yoga" and says he aims to transform consciousness through dance.
 
 > The set was designed around ritual curves, not time.
 
@@ -89,7 +89,7 @@ He calls this ""psychedelic yoga'' and says he aims to transform consciousness t
 
 ---
 
-### 3. 音源と選曲の特徴
+### 3. Characteristics of sound source and song selection
 
 During the 1980s and 1990s, he primarily used analog records. Acid tracks and techno produced in Europe, particularly Germany and England, were important sources.
 
@@ -108,7 +108,7 @@ Since the 1990s, he has performed at festivals around the world.
 * Outdoor festivals around Europe
 * Trance events in Israel
 * Big party in Brazil
-* アメリカ西海岸の砂漠フェス
+* Desert festival on the west coast of America
 
 Long sets were maintained at both venues. Playing for over 12 hours is not uncommon.
 
@@ -122,7 +122,7 @@ The audience dances through the night, sharing a sense of unity as the sun rises
 
 In the late 1990s, the sound shifted to the darker, faster Psytrance. He also evolved his set in line with this trend.
 
-The deep bass is emphasized more and the bass line is more complex. The number of sounds increases and the space becomes denser. However, the long set structure was maintained.
+The bass is more emphasized and the bass line is more complex. The number of sounds increases and the space becomes denser. However, the long set structure was maintained.
 
 What was important to him was the journey, not the name of the genre.
 
@@ -138,7 +138,7 @@ There is a record that he continued to perform even after being diagnosed with c
 
 Tribute parties were held around the world and recordings of his long sets were shared.
 
-> 最後まで、彼はダンスフロアの中心に立ち続けた。
+> Until the end, he remained at the center of the dance floor.
 
 ---
 
@@ -147,11 +147,11 @@ Tribute parties were held around the world and recordings of his long sets were 
 | Year | Events |
 | -------- | ----------------- |
 | 1951 | Born in San Francisco |
-| 1970年代初頭 | ゴアへ移住             |
+| Early 1970s | Move to Goa |
 | 1980s | DJ activity in full swing at beach parties |
 | 1990s | Goa Trans Internationalization, World Tour |
 | 2000s | Continuation of long sets at large-scale festivals |
-| 2023     | 死去                |
+| 2023 | Passed away |
 
 ---
 
@@ -193,12 +193,12 @@ D --> E[Daytime Psychedelic Phase]
 
 Goa party culture offered a different time design than commercial clubs.
 
-* DJは一晩を設計する存在
+* DJ is the person who designs the night
 * Dawn is an important production element
 * Community building through dance
 * Non-commercial/mobile culture
 
-今日の大型サイケデリック・フェスティバルに見られる24時間体制のタイムテーブルは、この文化の延長線上にある。
+The 24-hour timetables seen at today's large psychedelic festivals are an extension of this culture.
 
 >His greatest legacy is the very concept of never-ending sets.
 
@@ -206,19 +206,19 @@ Goa party culture offered a different time design than commercial clubs.
 
 ## FAQ
 
-### Q1. 本当に24時間プレイしたことはあるのか？
+### Q1. Have you ever really played for 24 hours?
 
-記録上、10〜24時間規模のセットを複数回行っている。
+On record, he has performed multiple sets lasting 10 to 24 hours.
 
-### Q2. パーティーは合法だったのか？
+### Q2. Was the party legal?
 
 The situation differs depending on the time and place. It was a semi-informal form in early Goa.
 
-### Q3. なぜそこまで長時間が必要だったのか？
+### Q3. Why did it take so long?
 
 He emphasized the transformation of consciousness through dance, and believed that the persistence of time was important.
 
-> Goa Gilのパーティーは、時間を拡張する実験場だった。
+> Goa Gil's party was a testing ground for time expansion.
 
 ---
 

@@ -13,10 +13,10 @@ title: '[Column] New Wave: The intersection of post-punk music innovation and 19
 ---
 
 
-## New Wave is not just a genre, but a ""sensibility of the times'' that inherits the experimental spirit of the post-punk era and fuses diverse music and culture.**
+## New Wave is not just a genre, but a ""sensibility of the times'' that inherits the experimental spirit of the post-punk era and fuses diverse music and cultures.**
 
 
-Text: mmr｜Theme: Post-punk era art movement
+Text: mmr｜Theme: Art movements in the post-punk era
 
 <hr>
 
@@ -98,7 +98,7 @@ New York"s Talking Heads is centered around art school graduate David Byrne, and
 
 The diversity of the new wave is deeply tied to the social context in which it was born.
 
-- **UK**: Economic crisis in the late 1970s, rising unemployment rate under the Thatcher government. Young people felt a ""feeling of stagnation with no tomorrow,'' and they projected this into music and fashion.
+- **UK**: Economic crisis in the late 1970s, rising unemployment rate under Thatcher administration. Young people felt a ""feeling of stagnation with no tomorrow,'' and they projected this into music and fashion.
 
 - **America**: Linked to the New York art scene (CBGB, Mudd Club), it spread as intellectual experimental music after punk.
 

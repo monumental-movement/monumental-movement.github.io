@@ -21,7 +21,7 @@ title: '[Column] Fast & Furious and the sound of illegal speed: The true nature 
 Text: mmr｜Theme: Unraveling how street racing culture and film sound were combined to create a "sense of speed"
 
 
-When we watch a movie, we don't just feel the speed on the screen. Rather, it is the sound that is decisive. The roar of the engine, the squeal of the tires, and the tempo of the music. When these things come together, "speed" goes beyond visual perception and becomes a physical sensation.
+When we watch a movie, we don't just feel the speed from the screen. Rather, it is the sound that is decisive. The roar of the engine, the squeal of the tires, and the tempo of the music. When these things come together, "speed" goes beyond visual perception and becomes a physical sensation.
 
 Fast and Furious, released in 2001, was a film that shared this feeling on a global scale. This movie, which depicts illegal street racing and youth culture in the Los Angeles night scene, is remembered as not just a car action movie, but also as a ""movie that runs with sound.''
 
@@ -75,7 +75,7 @@ In this way, the movie created a world that felt faster than it actually was.
 
 ## Chapter 3: Synchronizing hip-hop and machines
 
-In the early days of the series, music was more than just a backdrop. Hip-hop was treated as an entity that was integrated with cars.
+In the series" early years, music wasn"t just a backdrop. Hip-hop was treated as an entity that was integrated with cars.
 
 The deep bass kick overlaps with the heartbeat of the engine, and the snare synchronizes with the rhythm of gear changes. Hip-hop, especially from the American West Coast, was deeply connected to car culture, and was incorporated directly into movie soundtracks.
 
@@ -158,7 +158,7 @@ In this way, the ""sound of illegal speed'' was reconstituted as legal entertain
 
 Ultimately, this series posed the question, "What is speed?"
 
-It"s not just physical speed. It"s a total experience that combines sound, rhythm, editing, and culture.
+It"s not just physical speed. It"s a holistic experience that combines sound, rhythm, editing, and culture.
 
 That"s why even when we"re in front of a screen, we feel as if we're running.
 

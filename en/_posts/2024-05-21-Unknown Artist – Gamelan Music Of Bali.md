@@ -17,7 +17,7 @@ A Balinese gamelan music album released by the label Lyrichord.
 
 Founded in 1950 by Peter Fritsch, US record company Lyrichord is America's oldest collection and release of human musical traditions, including field recordings of ceremonial, tribal, and ethnic traditions. This album was recorded by Ruby Ornstein.
 
-The origin of gamelan is said to be around 404 AD, as it is inscribed on reliefs at the Borobudur and Prambanan ruins. Also. Gamelan was registered as a UNESCO World Intangible Cultural Heritage on December 15, 2021.
+The origin of gamelan is said to be around 404 AD, as it is engraved on reliefs at the Borobudur and Prambanan ruins. Also. Gamelan was registered as a UNESCO World Intangible Cultural Heritage on December 15, 2021.
 
 #### Tracklist
 ```md

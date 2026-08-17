@@ -14,7 +14,7 @@ title: Deadmau5 – The Reward Is Cheese Not Exactly
 ---
 
 
-Joel Thomas Zimmerman, also known as Deadmau5, is a Canadian DJ and producer. His works under the name Deadmau5 are characterized by a style that is a mix of Progressive House and Electro House. He has been nominated for six Grammy Awards so far.
+Joel Thomas Zimmerman, also known as Deadmau5, is a Canadian DJ and producer. His works under the name Deadmau5 are characterized by a style that is a mix of Progressive House and Electro House. He has been nominated for a Grammy Award six times.
 
 "The Reward Is Cheese / Not Exactly" is a tech house electro progressive house track released on French house label Royal Flush Records in 2008.
 

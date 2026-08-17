@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Historical Premise - Continuity from Psychedelic Folk
+## Chapter 1: Historical Assumptions - Continuity from Psychedelic Folk
 
 ### 1-1. Base layer in the 1960s and 1970s
 
@@ -49,7 +49,7 @@ In the late 1960s, folk connected with rock, acquiring altered consciousness, my
 
 Due to the limitations of recording technology, psychedelic folk music during this period relied on spatial expression and repetition through the performance itself. As a result, the acoustics are simple, but the group and ritual are emphasized.
 
-### 1-2. 1990年代以降の再評価
+### 1-2. Re-evaluation since the 1990s
 
 From the late 1990s to the early 2000s, acid folk and psychedelic folk were reevaluated as reissues and archives were dug up. This allows younger generations of musicians to begin absorbing these as historical reference points.
 
@@ -85,13 +85,13 @@ Treating the voice as the main instrument, layering multi-layered choruses and c
 
 ### 3-3. Connection with visual sense
 
-視覚表現は明確な物語性を避け、色彩、反復、抽象形態を中心に構成される。これは楽曲構造と同型であり、視覚も音の延長として機能する。
+Visual expressions avoid clear narratives and are structured around color, repetition, and abstract forms. This is the same structure as the song structure, and the visual sense also functions as an extension of the sound.
 
-> "視覚は楽曲の説明ではなく、並行する感覚層である"
+> "Visibility is not an explanation of a song, but a parallel sensory layer."
 
 ---
 
-## 第4章：Tame Impala 初期作品 ― 内省的サイケデリア
+## Chapter 4: Tame Impala's early works - introspective psychedelia
 
 ### 4-1. Folk attitude as an individual production
 
@@ -103,7 +103,7 @@ It is characterized by a simple chord progression, a melody-driven structure, an
 
 ### 4-3. Characteristics of initial sound image
 
-These include the rounded sound image of the drums, the phasing of the guitar, and the immersion of the vocals.
+These include the rounded sound image of the drums, the phasing of the guitar, and the buried vocals.
 
 > "Sound image design that presents one's inner self as a distant view"
 
@@ -153,7 +153,7 @@ flowchart TD
 
 Rhythm in Neo-Psychedelic Folk acts on the body in a way different from the physical drive of dance music. Emphasis on clear beats is avoided, and periodic yet amorphous repetitions are used. As a result, the listener's body is not "moved" but placed in a state of "drifting."
 
-> "Rhythm is not a motor command, but a framework for maintaining fluctuations in perception."
+> "Rhythm is not a motor command, but a framework for maintaining perceptual fluctuations"
 
 In Animal Collective"s early works, percussion and handclaps provide a sense of steady beat, but the jumble of voices obscures the center of gravity. In Tame Impala"s early works, the drums are placed in the background, maintaining periodicity but reducing physical tension.
 
@@ -189,9 +189,9 @@ In this environment, the boundaries between production and editing become blurre
 
 ## Chapter 13: Perspective as a methodology
 
-Neo-Psychedelic Folkはジャンルではなく方法論として位置づけられる。重要なのは特定の音像ではなく、音と映像、身体と知覚の関係を再編する姿勢である。
+Neo-Psychedelic Folk is positioned as a methodology rather than a genre. What is important is not a specific sound image, but an attitude that reorganizes the relationships between sound and image, the body and perception.
 
-Seen from this perspective, Animal Collective and Tame Impala's early works are reference points, not objects of imitation.
+From this perspective, Animal Collective and Tame Impala's early works are reference points, not objects of imitation.
 
 > "References are made for updating, not fixation"
 
@@ -201,17 +201,17 @@ Seen from this perspective, Animal Collective and Tame Impala's early works are 
 
 The images do not serve as a supplement to the music, but as an equivalent layer. In Neo-Psychedelic Folk-style videos, the editing points often do not match the beat of the music, and the synchronization between vision and hearing is intentionally shifted.
 
-このずれは没入を妨げるのではなく、知覚を持続させる効果を持つ。
+This discrepancy does not hinder immersion, but has the effect of sustaining perception.
 
 ---
 
-## 第15章：ジャンル横断と影響関係
+## Chapter 15: Genre crossing and influence relationships
 
 Neo-Psychedelic Folk has interacted with dream pop, experimental pop, ambient, and post-rock. However, the difference between them lies in folk-like simplicity and adherence to collectivity.
 
 ---
 
-## 終章
+## Final chapter
 
 Neo-Psychedelic Folk is not a genre that preserves the psychedelia of the past, but an editorial practice that renews perceptual experience. The collective sound of Animal Collective and the introspectiveness of Tame Impala's early works are the result of a folk simplicity combined with a contemporary production environment.
 

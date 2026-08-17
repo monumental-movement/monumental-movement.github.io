@@ -149,7 +149,7 @@ It is the aesthetics of lack and the idea of ​​reproduction.
 - Use technology as "improvisational expression".
 - Redefining "original" in the process of reproduction.
 
-This kind of dub-like thinking also applies to modern AI music generation and remix culture.
+This kind of dub-like thinking is also common to modern **AI music generation** and **remix culture**.
 The act of "editing" and "recomposing" the sound itself is
 It is the basis of creative acts in the 21st century.
 

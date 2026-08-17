@@ -53,7 +53,7 @@ This period also saw the rise of indie labels, appearances at international fest
 - **Merzbau**: While moving from analog equipment to laptop noise, it reflects animal rights and vegetarianism.
 - **Firefighter**: An existence that blurs the line between "noise band" and "performance art."
 - **Boredoms**: Fusing psychedelic and noise, influencing the American alternative scene.
-- **Melt-Banana**: "Nano Core" combines hardcore speed and noise texture.
+- **Melt-Banana**: "Nano Core" combines the speed of hardcore and the texture of noise.
 
 ---
 
@@ -62,7 +62,7 @@ This period also saw the rise of indie labels, appearances at international fest
 
 ### Keiji Haino
 - **Features**: A "sound ritual" that makes full use of guitar, vocals, and feedback. A sound world centered on improvisation that can be described as religious or magical.
-- **Change**: From solo works in the 1970s to active in bands such as Fushitsusha since the 1990s. Continuing to explore beyond the framework of improvisation.
+- **Change**: From his solo works in the 1970s, he has also been active in bands such as Fushitsusha since the 1990s. Continuing to explore beyond the framework of improvisation.
 - **Anecdote**: He is known as the "sound shaman" because he changes all the strings on his guitar before a concert and releases the sound as if in a ritual.
 
 | Album | Features | Links |
@@ -89,7 +89,7 @@ This period also saw the rise of indie labels, appearances at international fest
 ### Emergency stairs
 
 - **Features**: The world's first "noise band". In addition to noise performances, they became legendary for their extreme performances (food throwing, sparks, naked dancing).
-- **Changes**: Started their activities in the 80"s and recorded mainly live albums in the 90"s. Since the 2000s, he has developed experimental activities such as co-starring with idols.
+- **Changes**: Started their activities in the 80"s, and recorded mainly live albums in the 90"s. Since the 2000s, he has developed experimental activities such as co-starring with idols.
 - **Anecdote**: The act of ""butchering a chicken'' during a live performance sparked a huge discussion in overseas media and was treated as a social scandal.
 
 | Album | Features | Links |
@@ -108,7 +108,7 @@ This period also saw the rise of indie labels, appearances at international fest
 | Album | Features | Links |
 |----------|------|--------------|
 | *Pop Tatari* (1991) | An insane fusion of noise and hardcore | [Amazon](https://amzn.to/3VCBLKA) |
-| *Super æ* (1998) | A psychedelic polyrhythmic masterpiece | [Amazon](https://amzn.to/3KotaZw) |
+| *Super æ* (1998) | A psychedelic polyrhythmic mid-term masterpiece | [Amazon](https://amzn.to/3KotaZw) |
 | *Vision Creation Newsun* (1999) | Spiritual and psychedelic sound image | [Amazon](https://amzn.to/46GYn1u) |
 
 ---
@@ -167,7 +167,7 @@ A1: The 1990s was a time of an explosion of innovative experiments, and the 2000
 
 A2: Boredoms" Super æ and Merzbow"s Merzbeat are relatively easy to get into.
 
-**Q3: How did noise and rock come together? **
+**Q3: How are noise and rock connected? **
 
 A3: With the influence of psychedelics and punk, a new expression has been born that combines roaring sounds and improvisation.
 

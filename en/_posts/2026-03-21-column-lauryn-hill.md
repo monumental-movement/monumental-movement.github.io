@@ -73,7 +73,7 @@ Also, expressions that seem to be influenced by Roberta Flack have been noted du
 
 The Fugees" success was a turning point, but it was also a limitation. A gap begins to emerge between the group"s direction and individual expression.
 
-Hill gradually became interested in creating works that faced one's inner self. Behind this were changes in her romantic relationships, spiritual exploration, and even her experiences as a mother.
+Hill gradually began to aim for works that faced one's inner self. Behind this were changes in her romantic relationships, spiritual exploration, and even her experiences as a mother.
 
 For her, music is no longer a performance aimed at the outside world, but a means of dialogue with the self.
 
@@ -117,7 +117,7 @@ Everything Is Everything also brings social messages to the forefront.
 
 The album won five Grammy Awards and set a historic record for a female artist.
 
-However, what is important is that the success was measured not just in terms of sales, but also in terms of content.
+What is important, however, is that its success was measured not by mere sales, but by ""content.''
 
 > An individual's confession became a mirror that reflected the times themselves.
 

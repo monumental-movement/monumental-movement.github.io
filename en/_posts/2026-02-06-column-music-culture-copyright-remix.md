@@ -19,7 +19,7 @@ title: '[Column] Remix culture and the issue of rights: between copying and crea
 
 Text: mmr | Theme: Remix culture has rapidly expanded from the 20th to the 21st century, crossing over music, video, art, and internet expression. On the other hand, although the copyright system was developed to protect the rights of creators, it has always caused friction with cultural practices that are predicated on reuse, quotation, and modification. This paper takes the historical development of remix culture as a starting point, organizes the institutional characteristics of Japanese law, US law, and EU law, and examines the relationship between rights and creation from multiple angles, expanding the scope beyond music to include videos, memes, and derivative works.
 
-Even before the word remix became popular, human culture has always been based on reuse and modification. Works such as parodies of folk songs, variations on oral literature, and repurposed melodies of religious music were not fixed, finished products, but transformed during the process of transmission.
+Even before the word remix became popular, human culture has always been premised on reuse and modification. Works such as parodies of folk songs, variations on oral literature, and repurposed melodies of religious music were not fixed, finished products, but transformed during the process of transmission.
 
 Even after the modern era, when the concept of musical notation and composers was established, variations, arrangements, and quotations have been regarded as legitimate creative acts. The themes and variations in classical music and the interpretation of standards in jazz show that the reconstruction of existing materials is at the heart of expression.
 
@@ -85,7 +85,7 @@ At the same time, there are exceptions such as quotation, personal use, and educ
 
 A distinctive feature of US copyright law is the fair use provision. It has the flexibility to comprehensively judge factors such as the purpose of use, nature of the work, amount of use, and impact on the market, and permit use without permission.
 
-In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of transformability has become an important criterion in video remix and meme culture.
+In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of deformability has become an important criterion in video remix and meme culture.
 
 > US law has a structure in which freedom of expression and protection of rights are adjusted after the fact.
 

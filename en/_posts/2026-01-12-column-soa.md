@@ -111,7 +111,7 @@ The band disbanded around 1981. The reason for the group's disbandment is more l
 ## Flow derived from S.O.A
 
 
-Henry Rollins joins Black Flag after S.O.A disbands. There, he acquired a more sustained and structured expression. Meanwhile, members of the New York side and surrounding figures became involved in the formation of the scene that led to Agostic Front and Cro-Mags.
+Henry Rollins joins Black Flag after S.O.A disbands. There, he acquired a more sustained and structured expression. On the other hand, members of the New York side and surrounding figures became involved in the formation of the scene that led to Agostic Front and Cro-Mags.
 
 S.O.A itself is rarely talked about as a representative of New York hardcore. However, as a record of that ""nobody phase,'' it provides important clues for understanding what subsequent bands inherited and what they discarded.
 
@@ -137,7 +137,7 @@ Therefore, it is difficult to evaluate S.O.A independently. However, S.O.A is in
 1980 Live activities started
 1981 7inch No Policy E.P. released
 1981 Suspension of activities/de facto dissolution
-After 1981, members dispersed to hardcore bands around the country.
+After 1981, members dispersed to various hardcore bands.
 
 > Although S.O.A's activities are short, they closely overlap with the changes of the times.
 

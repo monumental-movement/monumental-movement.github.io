@@ -28,7 +28,7 @@ But during that same period, another revolution was quietly and decisively under
 
 That is the **black music revolution**.
 
-In the past, R&B and soul were often talked about under the category of "black music." However, from the late 1960s onwards, they began to change from being just one genre to one that determined the direction of popular music as a whole.
+In the past, R&B and soul were often talked about under the category of "black music." However, from the late 1960s onwards, they began to change from being just one genre to being a presence that determined the direction of popular music as a whole.
 
 Much of today's music, including pop, hip-hop, R&B, house, techno, neo-soul, and even K-pop, is based on the ideas of black music.
 
@@ -165,7 +165,7 @@ color: #fff;
 
 ## Songs in the Key of Life
 
-### **""One of the greatest masterpieces of the 20th century that elevated soul music to 'art'''**
+### **"One of the greatest masterpieces of the 20th century that elevated soul music to 'art'"**
 
 Songs in the Key of Life, released on September 28, 1976, transcends the boundaries of the soul music genre and is one of the most representative albums of 20th century popular music as a whole.
 
@@ -342,7 +342,7 @@ As a typical example,
 *D'Angelo
 *Erykah Badu
 * Alicia Keys
-* John Legend
+*John Legend
 *Kanye West
 
 Others have openly said that they were influenced by this work, or it is strongly reflected in their works.
@@ -397,7 +397,7 @@ Of course, there were works that dealt with social issues, but they were limited
 
 However, ""Innervisions'' depicts social realities such as poverty, drug addiction, racism, injustice, faith, and hope throughout one album.
 
-This is not just a "social album".
+This is not just a "social album."
 
 This was the decisive moment when black music evolved into an art form that reflected society itself.
 
@@ -539,7 +539,7 @@ As a representative artist influenced by this,
 *Erykah Badu
 * Maxwell
 * Alicia Keys
-* John Legend
+*John Legend
 *Kendrick Lamar
 
 Examples include.
@@ -605,7 +605,7 @@ Up until then, jazz had developed into bebop, hard bop, and mode jazz, but it st
 
 However, this work greatly shakes up that structure.
 
-He transformed jazz from an "art of listening" to groove music that can be felt with the body.
+He transformed jazz from an ""art of listening" to ""groove music" that you can feel with your body.
 
 ---
 
@@ -688,7 +688,7 @@ It was the moment when jazz was repositioned from elite music to popular music.
 
 ---
 
-## Effect on subsequent
+## Impact on subsequent
 
 The influence of Head Hunters is far-reaching.
 
@@ -763,7 +763,7 @@ He has been deeply involved in the civil rights movement since the 1960s, and ha
 
 What is depicted here is the reality of drugs, poverty, urban decay, and the human struggle to escape from it.
 
-However, the important thing is not to depict it as just a ""tragedy''.
+However, the important thing is not to portray it as just a ""tragedy''.
 
 He doesn't stop with criticism, but visualizes the structure itself as music.
 
@@ -771,7 +771,7 @@ He doesn't stop with criticism, but visualizes the structure itself as music.
 
 ## Reinventing funk and soul
 
-The sound of ""Super Fly'' is distinctly different from traditional soul.
+The sound of ""Super Fly'' is distinctly different from traditional soul music.
 
 The characteristic is that
 
@@ -819,7 +819,7 @@ This had a great influence on later street depictions of hip-hop and the express
 
 Curtis Mayfield's innovation lies in the fact that he turned music into an observation rather than an escape.
 
-Up until then, popular music had valued detachment from reality.
+Until then, in popular music, one of the values ​​was to distance yourself from reality.
 
 However, ""Super Fly'' puts reality itself at the center of the music.
 
@@ -827,7 +827,7 @@ As a result, soul music transcends entertainment and takes on the character of s
 
 ---
 
-## Effect on subsequent
+## Impact on subsequent
 
 ""Super Fly'' had a direct influence on later black music and hip-hop.
 
@@ -934,7 +934,7 @@ There is no cheering, no call and response.
 
 All there is is an atmosphere of near silence and an indifferent rhythm.
 
-This song depicts not a celebration of community, but the quiet division of family and human relationships.
+This song depicts not a celebration of community, but the quiet division of families and relationships.
 
 This depiction of "quiet decay" became the prototype for later introspective expression in R&B and neo-soul.
 
@@ -981,7 +981,7 @@ These two directions formed the two major genealogies of black music that follow
 
 ---
 
-## Effect on subsequent
+## Impact on subsequent
 
 The influence of this work is very wide-ranging.
 
@@ -989,7 +989,7 @@ The influence of this work is very wide-ranging.
 * D'Angelo (Voodoo groove)
 * J Dilla (broken beat feeling)
 * Portishead (decadent sound)
-*Massive Attack (trip hop)
+* Massive Attack (trip hop)
 
 It had a strong influence on.
 
@@ -1013,7 +1013,7 @@ In other words, this work did not end the genre.
 
 ""There's a Riot Goin' On'' is an extremely important work that turned funk inward and transformed the collapse of the groove into musical expression.
 
-However, this ranking places works that more directly institutionalize new genres at the top, so it was ranked 55th.
+However, this ranking ranks works that more directly institutionalize new genres at the top, so it was ranked 55th.
 
 Nevertheless, this work continues to have an extremely large influence as a ""quietly disintegrating revolution'' in the history of black music.
 
@@ -1119,7 +1119,7 @@ In America in the 1970s, black culture remained socially repressed.
 
 In doing so, P-Funk did not depict the constraints of reality as they were, but instead expressed liberation by creating an "another universe" outside of them.
 
-This is a different method from directly conveying a political message, and is a more fundamental ""liberation through the imagination.''
+This is a different method than directly conveying a political message, and is a more fundamental way of ""liberation through the imagination.''
 
 ---
 
@@ -1165,7 +1165,7 @@ Nevertheless, this work continues to have a strong influence today as a definiti
 
 ## Maggot Brain
 
-### **"The moment when funk fell from the universe to the inner world"**
+### **"The moment when funk fell from the universe to the inside"**
 
 Released on July 12, 1971, Maggot Brain stands at the extreme of the funk genre of the period.
 
@@ -1215,7 +1215,7 @@ In fact, it's the opposite: extremely stretched out sounds, shaky vibrato, and b
 
 This "pause" is important.
 
-The boundary between silence and sound becomes blurred, and the listener is guided into a state where they "feel" rather than "listen" to the performance.
+The boundary between silence and sound becomes blurred, and the listener is guided into a state where they are not "listening" to the performance, but "feeling" it.
 
 This method was later
 
@@ -1232,7 +1232,7 @@ It also affects expressions such as
 
 If ""Mothership Connection" is a cosmic utopia in P-Funk's worldview, ""Maggot Brain" is the opposite.
 
-There are no spaceships or festivals here.
+There are no spaceships or celebrations here.
 
 All that exists is a collapsed spiritual world and the inner lives of isolated individuals.
 
@@ -1253,13 +1253,13 @@ In particular, it is positioned as an extension of electric guitar expression si
 
 But it's not just an imitation.
 
-It is unique in that it does not use heavy distortion, but rather expresses emotions through delicacy and emptiness.
+It is unique in that it expresses emotions not through heavy distortion, but through delicacy and emptiness.
 
 This "quiet extreme" also parallels the later post-rock and shoegaze sensibilities.
 
 ---
 
-## Effect on subsequent
+## Impact on subsequent
 
 Although Maggot Brain is not an immediate hit, its musical influence is huge.
 
@@ -1428,7 +1428,7 @@ It becomes the basis for etc.
 
 ---
 
-## Effect on subsequent
+## Impact on subsequent
 
 Beyond its commercial success, ""Voodoo'' has been extremely influential musically.
 
@@ -1488,7 +1488,7 @@ The focus here is not on the outside world.
 
 ## Inheritance from Voodoo's "silence"
 
-""Voodoo", which was featured in the previous work, presented a new groove concept of ""slowness", ""silence", and ""spatiality".
+""Voodoo", which was featured in the previous work, presented a new groove concept of ""slowness," ""silence," and ""spatiality."
 
 "Mama"s Gun" is an extension of that, but goes in a different direction.
 
@@ -1586,11 +1586,11 @@ It is passed down directly to artists such as:
 
 ## Position in music history
 
-""Mama's Gun" is a neo-soul work that particularly focuses on ""introspection" and ""relationships.''
+"Mama"s Gun" is a neo-soul work that focuses on "introspection" and "relationships."
 
-It"s not just an R&B album, it"s also a musical document that dissects the fabric of emotion.
+It"s not just an R&B album, it"s also a musical document dissecting the fabric of emotion.
 
-With this work, Soul once again returned to individual music, but also acquired a more complex psychological space.
+With this work, Soul has returned to individual music, but has also acquired a more complex psychological space.
 
 ---
 

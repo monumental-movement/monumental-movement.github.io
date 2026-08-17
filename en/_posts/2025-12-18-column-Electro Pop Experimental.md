@@ -74,7 +74,7 @@ These will later serve as a basis for enhanced experimentation.
 * Sound image design that does not hide artificiality
 * Simultaneous visual expression and music production
 
-This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only'' activity.
+This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only activity.''
 
 ---
 
@@ -102,7 +102,7 @@ Grimes is a representative of experimental electropop, an artist who has present
 
 ### Characteristics of production process
 
-Grimes' production is characterized by the fact that he intentionally leaves traces of the limitations of the recording environment and personal production in his works. Noise, unbalanced volume, and excessive effects processing are not signs of a lack of perfection, but serve as proof of the existence of the creator.
+Grimes' production is characterized by intentionally leaving traces of the limitations of the recording environment and personal production in his works. Noise, volume imbalance, and excessive effects processing are not signs of a lack of perfection, but serve as proof of the existence of the creator.
 
 ### Visual integration
 
@@ -114,7 +114,7 @@ The visuals presented along with the music do not serve to explain the worldview
 
 Carpenter Brut represents a different direction in electropop experimentation.
 
-### Acoustic characteristics
+### Acoustic features
 
 * Synthwave tone design
 * Extremely emphasized rhythm and distortion
@@ -135,7 +135,7 @@ In electropop experimental music, the following elements work together, rather t
 * Live video
 * Fragmentary release of the production process
 
-These are designed to be part of the musical experience, rather than supplementary explanations of the songs.
+These are designed to be part of the musical experience, rather than supplementary information about the song.
 
 ---
 

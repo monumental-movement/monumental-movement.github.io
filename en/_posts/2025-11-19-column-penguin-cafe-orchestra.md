@@ -15,7 +15,7 @@ title: '[Column] Penguin Cafe Orchestra - An imaginary paradise that resonates b
 ---
 
 
-## Prologue: Reverberations of a "fictional cafe" found nowhere else in the world
+## Prologue: The reverberations of an "imaginary cafe" found nowhere else in the world
 
 
 Text: mmr｜Theme: **From the establishment of PCO to the trajectory of its activities, acoustic structure, analysis of major works, Simon Jeffes' thoughts**
@@ -100,7 +100,7 @@ An iconic anecdote is that he played and composed music on a broken harmonium he
 **Structural features**
 
 * The main melody is a simple scale movement
-* 中間部で微分音的なズレを含む
+* Contains microtonal shift in the middle part
 * Dispersed chords on the guitar are repeated around the sustained notes of the harmonium.
 * A fusion of folk music dynamics and classical precision.
 
@@ -117,14 +117,14 @@ It has a repeating structure similar to minimal music, but it is not as strict a
 
 * Repeating keyboard arpeggio
 * Create space with long notes of stringed instruments
-* Percussion is added from the middle to gain driving force
+* Percussion is added from the middle to gain propulsion
 * "Reciprocating structure" that returns to tranquility at the end
 
-It's a quiet yet dramatic song that feels like the expansion and contraction of time has been turned into music.
+It's a quiet yet dramatic song that feels like music that expresses the expansion and contraction of time.
 
 ---
 
-### 3-3. **Telephone and Rubber Band（1981）**
+### 3-3. **Telephone and Rubber Band (1981)**
 
 A strange piece of music in which a two-tone telephone suddenly rings in a classical ensemble.
 
@@ -178,14 +178,14 @@ PCO's music was received in a variety of ways in many countries, despite being i
 
 ### ● Affinity with cafe/lounge culture
 
-It was reevaluated during the "cafe music" boom in the late 1990s.
+It was reevaluated during the "cafe music" boom of the late 1990s.
 The "ambient music with a statement" that was light and easy to listen to, yet did not become part of the background, attracted attention.
 
 ### ● Heavy media usage
 
 * TV program BGM
 * CM
-* 映画（特にヨーロッパ系監督作品）
+* Movies (especially works by European directors)
 * Ballet/dance company sound source
 
 PCO's music is emotional but not descriptive, so it is valued as ""sound that allows images to breathe''.
@@ -268,7 +268,7 @@ flowchart TD
   A --> A2[Viola: auxiliary harmony]
 
   B[Midrange: Main Repetition] --> B1[Piano: Arpeggio repeat]
-  B --> B2[Guitar：補助リズム]
+  B --> B2[Guitar: Auxiliary rhythm]
 
   C[Low range: Bass Layer] --> C1[Cello: bottom retention]
   C --> C2[Bass: Foundation]
@@ -290,12 +290,12 @@ What supports this longevity is――
 * has no nationality
 * Not dependent on era
 * Don't force emotions
-* しかし深い温度を持つ
+* but has a deep temperature
 
 It is a fusion without contradiction.
 
 PCO's sound can either ""melt into the background" or ""take center stage."
-リスナーの心の状態に寄り添い、その都度まったく違った曲に聴こえる。
+The song listens to the listener's state of mind and sounds completely different each time.
 
 It may be that the ""imaginary cafe'' that Simon Jeffes saw in his fever is still quietly operating somewhere around the world.
 
@@ -304,7 +304,7 @@ It may be that the ""imaginary cafe'' that Simon Jeffes saw in his fever is stil
 
 ### YouTube Podcast
 
-※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Em1aIz3ONZc?si=HkYqZuq-Uvy8qJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

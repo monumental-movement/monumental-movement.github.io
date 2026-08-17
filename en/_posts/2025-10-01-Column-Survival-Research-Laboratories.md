@@ -17,7 +17,7 @@ title: '【コラム】 Survival Research Laboratories（SRL）: 機械芸術の
 Text: mmr｜Theme: About an innovative group that questions the relationship between machines and humans, technology and art, and order and chaos.
 
 
-Survival Research Laboratories (SRL) is an American performance art collective founded in San Francisco in 1978 by Mark Pauline. SRL is known for large-scale performances using machines and robots, aiming to repurpose industrial, scientific, and military technology into artistic and sociopolitical satire. Their work is associated with the art of Dada and Jean Tinguely, and has been praised for questioning the state and direction of technological society.
+Survival Research Laboratories（SRL）は、1978年にMark Paulineによってサンフランシスコで設立されたアメリカのパフォーマンスアート集団です。SRLは、産業、科学、軍事技術を芸術的かつ社会政治的な風刺に転用することを目的とし、機械やロボットを用いた大規模なパフォーマンスで知られています。彼らの作品は、ダダやジャン・ティンゲリーの芸術に関連し、技術社会の状態と方向性に疑問を投げかけるものと評価されています。
 
 ---
 
@@ -44,7 +44,7 @@ SRL performances consist of ritualized interactions with machines, robots, and s
 
 - **Illusions of Shameless Abundance (1989)**: Set in San Francisco's SOMA district, a flaming piano, rotten food, fire-breathing robots and fake sculptures resembling explosives lead to beach closures and the dispatch of bomb squads.
 
-- **The Unexpected Destruction of Elaborately Engineered Artifacts（1997年）**：テキサス州オースティンで行われ、ロボット、火炎放射器、V-1ジェットエンジンが登場しました。
+- **The Unexpected Destruction of Elaborately Engineered Artifacts (1997)**: Takes place in Austin, Texas and features robots, flamethrowers, and V-1 jet engines.
 
 ---
 
@@ -53,7 +53,7 @@ SRL performances consist of ritualized interactions with machines, robots, and s
 
 #### Mark Pauline
 
-役割：創設者（1978年〜現在）／芸術監督
+Role: Founder (1978-present)/Artistic Director
 
 Background: Graduated from California Institute of the Arts (SFAI). When he was young, he lost his right hand in an explosives accident and was fitted with a prosthetic arm. From this experience, he deepened his expression on the theme of "danger and machinery."
 
@@ -67,7 +67,7 @@ Currently: Leads SRL from its base in Petaluma, California.
 
 Role: Sound design, mechanical music (mainly from 1980s to 1990s)
 
-Achievements: Converting robots into musical instruments, enabling machines to compose and perform music. Later, he became independent and formed "Mechanical Sound Orchestra (MSO)".
+Achievements: Converting robots into musical instruments, making it possible to compose and perform music by machines. Later, he became independent and formed "Mechanical Sound Orchestra (MSO)".
 
 Influence: Established SRL's sound that lies between "noise and music".
 
@@ -81,11 +81,11 @@ Achievements: Responsible for mechanical control system and electrical design. D
 
 ---
 
-#### Joe Grand
+#### Joe Grand（ジョー・グランド）
 
 Role: Engineer/Electronic Design
 
-Background: A person also known as a hardware hacker.
+背景：ハードウェアハッカーとしても知られる人物。
 
 Achievements: Participated in the development of SRL's machine control infrastructure and special interfaces.
 
@@ -98,7 +98,7 @@ Amy Critchett: Producer/management support.
 
 Karen Marcelo: Serves as a bridge between hacker culture and organizes "dorkbot SF."
 
-Alan Rath：初期メンバー。後に独自の電子彫刻で評価を得る。
+Alan Rath: Early member. He later gained acclaim for his unique electronic sculptures.
 
 Gilles Larrain: Collaboration on video and photo records.
 
@@ -109,8 +109,8 @@ Gilles Larrain: Collaboration on video and photo records.
 <div class="mermaid">
 flowchart TD
     A[Mark Pauline<br>Founder/Artistic Director] --> B[Matt Heckert<br>Sound/Mechanical Music]
-    A --> C[Eric Werner<br>ロボットエンジニア]
-    A --> D[Joe Grand<br>電子設計/制御]
+    A --> C[Eric Werner<br>Robotics Engineer]
+    A --> D[Joe Grand<br>Electronic Design/Control]
     A --> E[Amy Critchett<br>Produced]
     A --> F[Karen Marcelo<br>Hacker Culture Collaboration]
     A --> G[Alan Rath<br>Electronic Sculptor]
@@ -123,7 +123,7 @@ flowchart TD
 
 SRL also releases DVDs and albums containing acoustic experiences of performances. Below are some representative albums:
 
-| Title | Description | Link |
+| 作品名                          | Description        | リンク |
 | --------------------------- | ------------ | ----------- |
 | Survival Research Laboratories | DVD premium BOX iron case specifications | [Amazon](https://amzn.to/3KyG0o2) |
 | Survival Research Laboratories | Contains live recordings from 1992 to 1998.                   | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
@@ -144,9 +144,9 @@ SRL is a pioneering fusion of robotics, performance art, and sociopolitical sati
 
 Survival Research Laboratories (SRL) was founded in San Francisco in 1978 by Mark Pauline. SRL is known for its artistic reinterpretation of industrial, military, and science and technology, and its performances using machines and robots. Early performances included ""Machine Sex" (1979) and ""Illusions of Shameless Abundance" (1989), which made a strong impression on audiences.
 
-#### 移転と新たな拠点（2007年〜現在）
+#### Relocation and new base (2007-present)
 
-In 2007, SRL moved to Petaluma, about an hour north of San Francisco. The move was made with 180 tons of equipment being moved due to rising rents at the San Francisco warehouse. Today, SRL is located at 839 N. Petaluma Blvd in Petaluma, where they build machines and prepare for performances in a large garage.
+In 2007, SRL moved to Petaluma, about an hour north of San Francisco. This move was made with 180 tons of equipment being moved due to rising rents for the San Francisco warehouse. Today, SRL is located at 839 N. Petaluma Blvd in Petaluma, where they build machines and prepare for performances in a large garage.
 
 #### Current activities and prospects
 
@@ -159,15 +159,15 @@ SRL continues to perform using machines and robots, and in recent years has part
 
 - [Official website](https://www.srl.org/)
 - [Instagram](https://www.instagram.com/survivalresearchlabs/)
-- [YouTube Channel](https://www.youtube.com/user/survivalresearchlabs)
+- [YouTubeチャンネル](https://www.youtube.com/user/survivalresearchlabs)
 
 
 ---
 
 
-### 結論
+### Conclusion
 
-Survival Research Laboratories is an innovative group that questions the relationships between machines and humans, technology and art, and order and chaos. Their work offers a sharp critique of the role and influence of technology in modern society through visual and auditory shocks. SRL's activities will continue to provide inspiration to many artists and engineers.
+Survival Research Laboratories is an innovative group that questions the relationship between machines and humans, technology and art, and order and chaos. Their work offers a sharp critique of the role and influence of technology in modern society through visual and auditory shocks. SRL's activities will continue to provide inspiration to many artists and engineers.
 
 ---
 

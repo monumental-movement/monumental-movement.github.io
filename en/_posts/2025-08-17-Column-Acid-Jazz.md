@@ -132,7 +132,7 @@ In Japan, United Future Organization (UFO) in particular received worldwide accl
 
 #### Western Europe
 
-- **France/Germany**: In France, it was incorporated into "Nouvelle Scène Jazz" and club culture in Paris, and in Germany, it was incorporated into the experimental spirit of jazz/clubs centered in West Berlin around the time of reunification (1990).
+- **France/Germany**: In France, it was incorporated into Nouvelle Scène Jazz and club culture in Paris, and in Germany, it was incorporated into the experimental spirit of jazz/clubs centered around West Berlin around the time of reunification (1990).
 
 - **Italy/Spain**: Linked with tourism, Acid Jazz is established in resort culture and club scene. Particularly in Ibiza, it was mixed with house and Balearic.
 
@@ -143,7 +143,7 @@ In Japan, United Future Organization (UFO) in particular received worldwide accl
 
 ### Geopolitical expansion and post-Cold War culture
 
-The expansion of Acid Jazz mainly in Europe was also influenced by post-Cold War cultural liberalization.
+Acid Jazz's expansion mainly in Europe was also influenced by post-Cold War cultural liberalization.
 
 The end of the Cold War in the 1990s → Club culture was liberated in Eastern Europe and the former Soviet Union, and music that combined jazz, funk, and electronics was welcomed.
 
@@ -185,7 +185,7 @@ The music was born from the fusion of London's immigrant culture, club culture, 
 
 In Europe, it developed into tourism and post-reunification urban culture, in the United States, it was combined with hip-hop, and in Japan, it developed into Shibuya-kei and club jazz.
 
-The end of the Cold War and globalization encouraged its proliferation, and it functioned geopolitically as a symbol of freedom and exchange.
+The end of the Cold War and globalization encouraged its proliferation, and it served as a geopolitical symbol of freedom and exchange.
 
 Acid jazz is the crystallization of sounds that translate urban diversity and sophistication into grooves.
 

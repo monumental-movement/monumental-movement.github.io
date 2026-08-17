@@ -20,7 +20,7 @@ title: '[Column] Experimental Beats × Anime Soundtrack ─ Anime sound history 
 
 Text: mmr | Theme: How has experimental beat updated anime music and expanded visual expression itself?
 
-Electroacoustics, ethnic percussion, sampling, breakbeats, ambient processing.
+Electro-acoustic, ethnic percussion, sampling, breakbeats, ambient processing.
 These are not just decorations, but have been incorporated into anime works as structures that create a worldview.
 
 This article focuses on representative examples from the late 1980s onwards, and examines how experimental beats have penetrated anime music and changed its narrative structure and cultural reception, from the perspectives of works, composers, and sound techniques.
@@ -74,7 +74,7 @@ Unlike conventional symphonic accompaniment, it is important that the rhythm has
 
 ### 1990s: Cyberpunk and electroacoustics
 
-Kenji Kawai, who was in charge of the music for GHOST IN THE SHELL released in 1995, combined electronic sounds and religious melodies.
+Kenji Kawai, who was in charge of the music for GHOST IN THE SHELL, released in 1995, combined electronic sounds and religious melodies.
 
 A polyphonic chorus that references Bulgarian voices, an inorganic synth pad, and a low-frequency beat.
 This is an example of expressing the tension between physicality and mechanicality through sound.

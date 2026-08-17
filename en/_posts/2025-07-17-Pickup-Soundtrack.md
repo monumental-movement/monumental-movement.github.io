@@ -80,7 +80,7 @@ Work: Soundtrack of the 1995 science fiction film ""Tank Girl.'' Compiled by Cou
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -92,7 +92,7 @@ Work: Soundtrack of the 1995 science fiction film ""Tank Girl.'' Compiled by Cou
 
 Format: Cassette
 
-Work: Cassette released in 1996, containing the theme song of the movie "Mission: Impossible".
+Product: Released in 1996, a cassette containing the theme song of the movie "Mission: Impossible".
 
 #### Tracklist
 ```md

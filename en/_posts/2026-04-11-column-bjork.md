@@ -21,7 +21,7 @@ Text: mmr｜Theme: The process by which a voice born from an island of ice and f
 
 From the geographically and culturally isolated environment of Iceland, there is someone who has shaken the very structure of world pop music. That"s Björk. Her music can"t be categorized by genre. Electronica, pop, classical, and folk music are just materials; what emerges in the end is the fundamental phenomenon of "voice."
 
-Her voice doesn't just trace the melody. Trembling, tearing, whispering, jumping. It moves away from the meaning of words and resonates as the movement of the body itself. It exists as a sound synchronized with the movement of nature, like the creaking of a glacier or the heartbeat of a volcano.
+Her voice doesn't just follow the melody. Trembling, tearing, whispering, jumping. It moves away from the meaning of words and resonates as the movement of the body itself. It exists as a sound synchronized with the movement of nature, like the creaking of a glacier or the heartbeat of a volcano.
 
 This feeling has run through her entire career. Recognizing that music is not a structure, but a fluid phenomenon. Seen from this perspective, Björk's body of work is not just a discography, but acts like a continuous living organism.
 
@@ -65,7 +65,7 @@ His debut solo album, ""Debut,'' was created in conjunction with London's club c
 
 It is anecdotally known that in this work she prioritized ""establishing her own musical language" over ""becoming a pop star." The resulting album was a rare example of commercial success and experimentation at the same time.
 
-> While borrowing the pop format, a different language was being created inside it.
+> While borrowing the pop format, a different language was being generated inside it.
 
 ---
 
@@ -73,7 +73,7 @@ It is anecdotally known that in this work she prioritized ""establishing her own
 
 The following work, ""Post,'' is a work with an extreme range of fluctuations. The big band-like "It's Oh So Quiet" and the industrial-style "Army of Me" coexist on the same album.
 
-This diversity is not confusion, but a direct reflection of her inner plurality. It can be said that the miscellaneousness of the urban environment of London is directly transcribed into the sound.
+This diversity is not confusion, but a direct reflection of her inner plurality. It can be said that the clutter of the urban environment of London is directly transcribed into the sound.
 
 During production, she was stalked and her living environment was shaken up. This experience is thought to have influenced the sense of tension and disconnection in the work.
 
@@ -95,7 +95,7 @@ In production, electronic sound programming and analog performance are precisely
 
 ## "Vespertine" (2001): Micro-acoustics
 
-In "Vespertine," the scale suddenly shrinks. Clicking sounds, subtle electronic sounds, and breathing. These delicately overlap to form an extremely intimate space.
+In "Vespertine," the scale suddenly shrinks. Clicking sounds, minute electronic sounds, breathing. These delicately overlap to form an extremely intimate space.
 
 This work has a domestic and introverted theme, and was mainly created using a laptop. It was an innovative method at the time, and expanded the possibilities of "private music."
 

@@ -52,21 +52,21 @@ color: #fff;
 
 Until the 2000s, overseas expansion relied on television broadcasts and local contracts. However, YouTube, which launched in 2005, changed the situation completely.
 
-In 2012, PSY's "Gangnam Style" became a worldwide hit, becoming the first song at the time to surpass 1 billion views on YouTube. This event is a symbolic event that demonstrated that K-POP can overcome language barriers.
+In 2012, PSY's ""Gangnam Style'' became a worldwide hit, becoming the first song at the time to surpass 1 billion views on YouTube. This event is a symbolic event that demonstrated that K-POP can overcome language barriers.
 
-以降、K-POPのMVはデビューと同時にYouTubeへ公開されることが標準化された。再生回数はファンダムの指標となり、世界中のファンがリアルタイムで“成果”を共有できる構造が生まれた。
+Since then, it has become standard for K-POP music videos to be released on YouTube at the same time as their debut. The number of views has become an indicator of fandom, and a structure has been created in which fans around the world can share their "results" in real time.
 
-> YouTubeはK-POPにとって放送局ではなく、世界同時公開の拡声装置となった。
+> YouTube has become not just a broadcasting station for K-Pop, but a public address system for simultaneous release worldwide.
 
 ---
 
 ## The core of your SNS strategy – fandom visualization
 
-### Twitter・Instagram・TikTokの役割分担
+### Role sharing between Twitter, Instagram, and TikTok
 
-K-POPグループは公式アカウントを通じて日常的に発信を行う。主なプラットフォームは以下の通りである。
+K-POP groups communicate on a daily basis through their official accounts. The main platforms are as follows.
 
-* X（旧Twitter）：リアルタイム拡散
+*X (formerly Twitter): Real-time spread
 * Instagram: Visual appeal
 * TikTok: Short video spread
 * Weverse: Specialized in fan community
@@ -77,7 +77,7 @@ Particularly on TikTok, dance challenges function as a spreading device, and whe
 
 BTS made extensive use of SNS in the late 2010s and formed an international fandom even before they were exposed to English-speaking media. Appearances on American music award shows and talk shows are based on existing fandom.
 
-By actively communicating on Twitter, they were shaping trends overseas even before they entered the Billboard charts. This is a successful example of a ""reimport type," which is different from the conventional ""local acquisition type."
+By actively communicating on Twitter, they were shaping overseas trends even before they entered the Billboard charts. This is a successful example of a ""reimport type," which is different from the conventional ""local acquisition type."
 
 > SNS is not just an advertising medium for K-POP, but the center of fandom formation.
 
@@ -91,7 +91,7 @@ By actively communicating on Twitter, they were shaping trends overseas even bef
 * 2009: Girls' Generation enters Japan
 * 2012: "Gangnam Style" a global hit
 * 2018: BTS ranked first on the US Billboard 200
-* 2020年：BLACKPINKがYouTube登録者数世界上位へ
+* 2020: BLACKPINK ranks among the top in the world in terms of YouTube subscribers
 
 <div class="mermaid">
 timeline
@@ -107,7 +107,7 @@ timeline
 
 ---
 
-## K-POP戦略の構造図
+## Structure diagram of K-POP strategy
 
 ### Overall ecosystem picture
 
@@ -115,7 +115,7 @@ timeline
 flowchart TD
     A[Training system] --> B[high quality content]
     B --> C[YouTube release]
-    C --> D[SNS拡散]
+    C --> D[SNS spread]
     D --> E[fandom formation]
     E --> F[Album/live revenue]
     F --> A
@@ -123,25 +123,25 @@ flowchart TD
 
 Due to this circular structure, fandom becomes a "participant" rather than a "consumer." The number of views, hashtag movements, streaming votes, etc. are directly reflected in the results, so fan behavior is quantified.
 
-> K-POPはファン参加型モデルを制度として組み込んでいる。
+> K-POP has incorporated a fan participation model into its system.
 
 ---
 
-## マーケターが学ぶべき3つの要素
+## Three things marketers should learn
 
 ### 1. Multilayer content
 
 Multi-layered content design, including music videos, dance videos, making-of videos, and behind-the-scenes videos, creates continuous contact.
 
-### 2. グローバル前提設計
+### 2. Global premise design
 
 By supporting multilingual subtitles from the time of debut, we anticipate an influx of overseas viewers from the early stages.
 
 ### 3. Organizing your fandom
 
-Visualize the amount of enthusiasm through official fan clubs, apps, voting systems, etc. and form a sustainable economic zone.
+Through official fan clubs, apps, voting systems, etc., we will visualize the amount of enthusiasm and form a sustainable economic zone.
 
-> K-POP戦略は、熱量を設計し数値化するビジネスモデルである。
+> K-POP strategy is a business model that designs and quantifies energy.
 
 ---
 
@@ -149,18 +149,18 @@ Visualize the amount of enthusiasm through official fan clubs, apps, voting syst
 
 For the digital native generation, pushing activities is an act that can be completed on SNS. Self-expression, empathy, and community belonging come together.
 
-K-POPはその行動様式と一致する設計を持つ。ライブだけでなく、日常的発信が“物語”を形成し、ファンはその物語に参加する。
+K-POP has a design that matches its behavior. Not just live performances, but daily messages form a "story," and fans participate in that story.
 
-> K-POP人気の本質は、音楽とSNS体験の融合にある。
+> The essence of K-Pop's popularity lies in the fusion of music and SNS experiences.
 
 ---
 
-## 結論 ― K-POPはなぜ成功したのか
+## Conclusion - Why is K-POP so successful?
 
 K-Pop's success is not a coincidence or a single hit.
 
 * Enhancement of training system
-* YouTubeによる同時拡散
+* Simultaneous spread via YouTube
 * Visualization of fandom through SNS
 * Data-based participation model
 

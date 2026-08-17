@@ -9,8 +9,8 @@ tags:
 - Happy Hardcore
 - 90s
 - 00s
-title: '[Column] Happy hardcore and Japanese culture - the encounter between high-speed
-  beat and "kawaii"'
+title: '[Column] Happy Hardcore and Japanese Culture: The Encounter of High-Speed
+  ​​Beat and "Kawaii"'
 ---
 
 
@@ -42,7 +42,7 @@ Happy Hardcore emphasizes bright and catchy melodies, so it goes well with the t
 
 In particular, the use of voice material from bishoujo anime and Famicom/SNES-style chiptunes are popular with overseas producers.
 
-Example: In the Anime Rave/J-Core scene, lines and melodies from anime are sampled to make it happy hardcore.
+Example: In the Anime Rave/J-Core scene, anime lines and melodies are sampled to make it happy hardcore.
 
 #### Connection with J-Core
 
@@ -72,13 +72,13 @@ Unlike raves in the UK, the scene in Japan is centered around M3 (sound/media mi
 
 ### Cultural keywords
 
-- **Kawaii**: Japanese "kawaii culture" is reflected in the fast, pop melody.
+- **Kawaii**: Japanese ""cute culture'' is reflected in the fast, pop melody.
 
 - **Otaku culture**: Directly connected to anime, doujinshi, and Akihabara club culture.
 
 - **Game culture**: DDR and music games made happy hardcore more familiar.
 
-- **Reimport phenomenon**: A genre that originated in the UK develops independently in Japan, and once again influences the world.
+- **Reimportation phenomenon**: A genre that originated in the UK develops independently in Japan and once again influences the world.
 
 <hr>
 
@@ -96,7 +96,7 @@ Unlike raves in the UK, the scene in Japan is centered around M3 (sound/media mi
 
 ### The unique role of Japanese culture in global music history
 
-Happy Hardcore originally came from British rave, but it merged with Japanese culture (anime, games, doujins, music games) to form its own "J-Core" culture.
+Happy Hardcore originally came from British rave, but it merged with Japanese culture (anime, games, doujins, music games) to form a unique "J-Core" culture.
 Today, it is recognized as being associated with "Happy Hardcore = anime-like cuteness," and Japan has become an important base internationally.
 
 ---

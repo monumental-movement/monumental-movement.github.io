@@ -17,7 +17,7 @@ title: Daedelus – Make It So
 
 LA-based US music producer Alfred Weisberg-Roberts, known as Daedelus, is an artist who constructs a unique sound through experimental methods that mix various musical elements. "Make It So" is a single cut from the studio album "Love to Make Music To" released by the prestigious UK label Ninja Tune in 2008.
 
-The first song on Side A is a remix by XXXchange, a former member of Spank Rock.
+The first song on side A is a remix by XXXchange, a former member of Spank Rock.
 
 The first song on the B-side is electronic music veteran DJ Moonstarr.
 remix by

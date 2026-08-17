@@ -43,7 +43,7 @@ color: #fff;
 ## Chapter 1: Origin and Initial Impulse — From the Eve of Rephlex to <Warp>
 
 Sean Booth and Rob Brown were both born in the 1970s. As a boy, he began composing his own songs using tracker software (such as OctaMED) on an Amiga computer.
-Their musical roots lie in Public Enemy, Electro Funk, and B-Boy culture. The name Autechre was initially rumored to be an abbreviation for "Audio Architecture."
+Their musical roots lie in Public Enemy, Electro Funk, and B-Boy culture. The name Autechre was initially rumored to be short for "Audio Architecture."
 
 His early work, Incunabula (1993), has the scent of the early days of IDM, where melodies still remain.
 The follow-up, ""Amber'' (1994), captivated many listeners with its lyricism and spatiality. Combining an analog synthesizer (Roland SH-101, Oberheim Matrix-6) and a digital sampler, they created a realm between human and machine.
@@ -62,7 +62,7 @@ In 1995, Autechre reaches a turning point.
 The inorganic cover design by The Designers Republic also perfectly matched Autechre's sonic world.
 It was also a "minimalist fusion of sight and sound."
 
-The release of 'Tri Repetae" symbolizes a "re-education of the senses' in electronic music.
+The release of "Tri Repetae" symbolizes a "sensory re-education" in electronic music.
 The question ""What is rhythm and what is music?'' is revealed for the first time here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w7D5yAUsjB8?si=Iw4cZ7dCdgT5L5WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -103,8 +103,8 @@ Autechre's live performances completely exclude visual presentation.
 The lights go out and the stage is dark. The audience is enveloped in a **space of pure sound**.
 This complete inorganic nature is proof that they aim to "dominate the body with sound alone."
 
-In the 2010s, they released the **AE_LIVE series**. We recorded the sounds that the program improvised as they were, and presented a different structure for each city.
-In addition, "NTS Sessions 1–4" (2018) is a masterpiece that is over 8 hours long. This is a monumental achievement in which Autechre has built a "universe of acoustic algorithms."
+In the 2010s, they released the **AE_LIVE series**. The sounds that the program improvised were recorded as they were, and different structures were presented for each city.
+Furthermore, "NTS Sessions 1–4" (2018) is a masterpiece that is over 8 hours long. This is a monumental achievement in which Autechre has built a "universe of acoustic algorithms."
 
 > "Improvisation is also about borrowing the thinking of a program."
 
@@ -117,7 +117,7 @@ In 2020, Autechre presents a new chapter of the two-disc set.
 Amidst the algorithmic precision, there is a tranquil, organic fluctuation.
 
 Among listeners, it is often said that "Autechre redefined Ambient."
-The tracks on ""SIGN" sound like a machine learning ""silence."
+The tracks on ""SIGN" sound like a machine learning ""silence".
 Their sound is always walking the middle ground between the future and nostalgia.
 
 ---
@@ -126,7 +126,7 @@ Their sound is always walking the middle ground between the future and nostalgia
 
 Along with Aphex Twin and Squarepusher, Autechre's influence has been deeply etched in the design philosophy of electronic music since the 21st century.
 Artists influenced by them include **Alva Noto, Ryoji Ikeda, and Oneohtrix Point Never**.
-All of them explore the boundaries between "structure and emotion" and "algorithm and poetry."
+Both of them explore the boundaries between "structure and emotion" and "algorithm and poetry."
 
 Along with the evolution of technology, Autechre has functioned as a device that asks questions such as ""What is composition?" and ""What is human being?"
 Even after the term IDM has been exhausted, Autechre continues to leave its ""intellectual genes'' in modern music.

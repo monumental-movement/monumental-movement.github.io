@@ -123,7 +123,7 @@ Neo-Krautrock is based on the classic Krautrock Motorik beat, but uses a variety
 ### 4.1 Tropic of Cancer "Modern Rituals"
 
 - **Track example**:
-- "Ritual One": Ambient synth layered over a 4/4 Motorik beat. Place subtle noise changes within the repetition.
+- "Ritual One": Ambient synth overlays a 4/4 Motorik beat. Place subtle noise changes within the repetition.
 - "Transcendence": Reverb guitar and synth alternate, emphasizing the spaciousness.
 - **Live expression**: On stage, drums and synths are looped in real time to faithfully reproduce the structure of the album.
 
@@ -155,9 +155,9 @@ timeline
 
 ---
 
-## 6. The influence of Neo-Krautrock and its connection with contemporary music
+## 6. Neo-Krautrock influences and connections with contemporary music
 
-Neo-Krautrock is more than just a reissue, it's an influence on contemporary music:
+Neo-Krautrock is more than just a reissue, it's influencing contemporary music:
 
 - **Post-lock**: Introduction of repetitive structures and spatial expressions.
 - **Electronica**: A method of combining analog and digital sound sources.
@@ -186,7 +186,7 @@ flowchart TD
 
 ## 8. Conclusion
 
-Neo-Krautrock brings the spirit of Krautrock back to the 21st century, becoming a bridge between the past and the future. Artists like Tropic of Cancer and Panda Lux retain the original krautrock aesthetic while promoting new musical experimentation. With advances in music theory, recording technology, and live expression, Neo-Krautrock will continue to exist at the center of the experimental music scene.
+Neo-Krautrock brings the spirit of Krautrock back to the 21st century, becoming a bridge between the past and the future. Artists like Tropic of Cancer and Panda Lux retain the original krautrock aesthetic while promoting new musical experimentation. With advances in music theory, recording technology, and live expression, Neo-Krautrock will continue to be at the center of the experimental music scene.
 
 ---
 

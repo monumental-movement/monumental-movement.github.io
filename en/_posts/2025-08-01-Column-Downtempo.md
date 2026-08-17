@@ -27,7 +27,7 @@ Text: mmr｜Theme: Chill-out and the aesthetics of deep rhythm
 In between the throbbing heartbeat and the hustle and bustle, a sudden silence appears. If it"s music, downtempo is that moment of deep breathing. In the world of club culture and electronic music, this genre of music is at the opposite end of the spectrum from the fast beats of techno and house, but it is a music genre that is close to the listener"s emotions and blends into the city night. That's downtempo.
 
 Downtempo is created through the intersection of multiple genres, including the floating feel of ambient, the grooves of hip-hop, and the organic elements of jazz and soul.
-しばしばチルアウト（Chillout）、トリップホップ（Trip Hop）、ラウンジミュージックといったスタイルと重なり合いながらも、それらを包括する緩やかなグルーヴの総称としても使われる。
+Although it often overlaps with styles such as chillout, trip hop, and lounge music, it is also used as a general term for a gentle groove that encompasses these styles.
 
 
 <hr>
@@ -50,7 +50,7 @@ In particular, artists such as Massive Attack, Portishead, and Nightmares on Wax
 
 <hr>
 
-### 音の構造と美学
+### Sound structure and aesthetics
 The structure of downtempo songs varies, but the common denominator is a subdued beat and spatial production. The following characteristics can be seen:
 
 - Loopy beats (breakbeats and hip-hop-derived drums)
@@ -66,7 +66,7 @@ The structure of downtempo songs varies, but the common denominator is a subdued
 
 **Tempo**: BPM is around 60-110. A relaxing speed that is slightly slower than your heartbeat.
 
-**Rhythm**: There are many hip-hop style breakbeats or simple ambient beats.
+**Rhythm**: There are many hip-hop style breakbeats or simple beats similar to ambient.
 
 **Tone/Sound**: A fusion of electronics, acoustic instruments, environmental sounds, and samples of jazz and soul.
 
@@ -76,7 +76,7 @@ The structure of downtempo songs varies, but the common denominator is a subdued
 <hr>
 
 ### Derivation and diversification: Downtempo around the world
-Downtempo has evolved in various ways through its fusion with local culture and ethnic music.
+Downtempo has undergone various evolutions through its fusion with local culture and ethnic music.
 
 **Lounge music**: Evolved as music played in hotels and cafes (e.g. Thievery Corporation)
 
@@ -89,12 +89,12 @@ Downtempo has evolved in various ways through its fusion with local culture and 
 
 <hr>
 
-### 現代と再評価：Spotify時代の静かな支配者
+### Modernity and Reappraisal: The Silent Rulers of the Spotify Era
 In the streaming era of the 2020s, downtempo is being reevaluated as a "relaxing playlist" and "background music for work." In particular, the modern downtempo style known as post-trip hop has found its way into film music, game music, and even the fashion industry.
 
 **While it is gaining attention again in the context of ""chill", ""relaxation" and ""concentration"**, there are many playlists on Spotify and YouTube called ""Lo-Fi," ""Chillhop," and ""Study Beats," which are familiar to listeners as downtempo in a broad sense.
 
-また、環境音楽やアンビエントとの境界線もあいまいになり、より個人の心理状態や生活シーンに寄り添う音楽として進化を続けている。
+In addition, the boundaries between environmental music and ambient music have become blurred, and music continues to evolve as music that is more closely aligned with an individual's psychological state and life scene.
 
 Artists such as Bonobo, Tycho, Khruangbin, and Japan's Pictured Resort and Cuushe are important players in modern Downtempo.
 
@@ -103,7 +103,7 @@ Artists such as Bonobo, Tycho, Khruangbin, and Japan's Pictured Resort and Cuush
 ---
 
 ### The art of sound that soothes the emotions
-Although downtempo is the opposite of party frenzy, it has become an important musical style that supports modern people's emotions, concentration, and recovery. Its power, which is inconspicuous but definitely acts on the mind, is truly a ""quiet ruler.''
+Although downtempo is the complete opposite of party frenzy, it has become an important style of music that supports modern people's emotions, concentration, and recovery. Its power, which is inconspicuous but definitely acts on the mind, is truly a ""quiet ruler.''
 
 In this day and age where technology is evolving and everything is accelerating, choosing to slow down is a very radical and humane choice. Downtempo is music that allows you to dive deep into emotion and space without competing for speed.
 

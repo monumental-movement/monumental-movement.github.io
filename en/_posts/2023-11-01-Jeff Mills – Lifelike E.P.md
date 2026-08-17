@@ -17,7 +17,7 @@ title: Jeff Mills – Lifelike E.P
 
 The track then takes on a more ominous aspect when the string elements come in.
 
-このEPは、不穏な音楽的テーマを扱ったオープニングとして非常に強力で、「Time After Space」は宇宙的な感覚を感じます。
+This EP is a very strong opener with its disturbing musical themes, and "Time After Space" has a cosmic feel.
 
 "Detached" is probably one of his best works.
 

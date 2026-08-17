@@ -8,13 +8,13 @@ layout: post
 tags:
 - House
 - Tech House
-title: Fantasia – Tonight's The Night
+title: Fantasia – Tonight"s The Night
 ---
 
 
 Fantasia is a project by Helen Sheppard and Tim Gordine released in 1988.
 
-UK「Chrysalis」からのリリースで80'sのシンセポップです。
+This is an 80's synth pop song released by UK ""Chrysalis''.
 
 #### Tracklist
 ```md

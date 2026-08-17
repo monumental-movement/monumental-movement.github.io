@@ -16,7 +16,7 @@ title: Delays – You See Colors
 
 Delays are a British indie band formed in Southampton. Members: Greg Gilbert, Aaron Gilbert, Colin Fox, Rowly. Delays is a sound that combines guitar and synthesizer, and features Greg Gilbert's distinctive falsetto lead vocals.
 
-"You See Colours" is Delays' second studio album, released in 2006 on the Rough Trade label.
+"You See Colors" is Delays' second studio album, released in 2006 on the Rough Trade label.
 
 #### Tracklist
 ```md

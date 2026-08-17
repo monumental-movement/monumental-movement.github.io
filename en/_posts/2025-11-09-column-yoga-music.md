@@ -98,11 +98,11 @@ In the 21st century, yoga has become widely popular around the world. It is bein
 
 ### BGM usage in the studio
 
-現代のヨガスタジオでは、BGMの選択がクラスの雰囲気を左右します。穏やかなアンビエントや自然音は初心者でも呼吸に集中しやすく、心理的緊張を和らげます。ヴィンヤサヨガなど動的フローには、テンポのあるリズム音楽や低音の効いた曲が適します。
+In modern yoga studios, the choice of background music influences the atmosphere of the class. Gentle ambient and natural sounds help beginners focus on their breathing and relieve psychological tension. For dynamic flows such as vinyasa yoga, rhythmic music with a tempo and songs with a strong bass are suitable.
 
 ### Fusion with EDM, Lo-Fi, Ambient
 
-近年ではEDM、Lo-Fi、Ambient音楽とヨガを組み合わせる試みも増加。特にLo-Fiヒップホップは落ち着いたビートと環境音を組み合わせ、瞑想や静的ポーズに適した空間を作ります。
+In recent years, attempts to combine EDM, Lo-Fi, and Ambient music with yoga have also increased. Lo-Fi hip-hop in particular combines calming beats with ambient sounds to create a space suitable for meditation or static poses.
 
 ### Trinity of breathing, movement, and music
 
@@ -127,7 +127,7 @@ flowchart TD
     B1 --- BB["💡 Deep relaxation with low frequency and environmental sounds"]
     
     C --> C1[meditation/relaxation]
-    C1 --- CC["💡 チャンティングや瞑想音楽で心を落ち着かせる"]
+    C1 --- CC["💡 Calm your mind with chanting and meditation music"]
     
     D --> D1[light meditation/stability]
     D1 --- DD["💡 Improve concentration with ambient/natural sounds"]
@@ -136,7 +136,7 @@ flowchart TD
     E1 --- EE["💡 Support work efficiency with Lo-Fi and light EDM"]
     
     F --> F1[High concentration/creativity]
-    F1 --- FF["💡 集中系シンセサイザーで創造性を促進"]
+    F1 --- FF["💡 Accelerate creativity with a focused synthesizer"]
 
 </div>
 
@@ -145,7 +145,7 @@ flowchart TD
 
 ## Chapter 5: Cultural and social aspects {#chapter5}
 
-ヨガと音楽の結びつきは個人の健康や精神性だけでなく、文化的・社会的な広がりもあります。ヨガ音楽フェスティバルやイベントが世界各地で開催され、参加者同士のコミュニティ形成や文化交流に寄与しています。SNSや配信サービスを通じ、距離を超えたヨガ音楽の共有体験が広がっています。
+The connection between yoga and music is not only relevant to personal health and spirituality, but also has cultural and social implications. Yoga music festivals and events are held around the world, contributing to community building and cultural exchange among participants. Through SNS and distribution services, the experience of sharing yoga music is expanding beyond distance.
 
 
 ---
@@ -204,10 +204,10 @@ flowchart TD
 
 </div>
 
-注釈:
+Notes:
 
 * Ancient: Spirituality and Harmony of Sound
-* 近代：西洋文化への普及と音楽療法
+* Modern times: spread to Western culture and music therapy
 * Modern day: Studio/online/scientific research development
 
 ---

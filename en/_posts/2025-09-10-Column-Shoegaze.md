@@ -13,14 +13,14 @@ title: '[Column] From the origins of Shoegaze to the present — 10 masterpieces
 
 
 
-## Shoegaze - historical background, famous records, changes in equipment, and 10 recommended tracks -
+## Shoegaze - Historical background, famous records, changes in equipment, and 10 recommended tracks -
 
 
 Text: mmr｜Theme: From the origins of Shoegaze to the present
 
 Shoegaze is a music genre that developed in the late 1980s, mainly in the United Kingdom, and is characterized by thunderous guitars, deep reverb and delay effects, and an introspective vocal style. The name comes from the word ""gaze,'' which means to gaze at one's shoes, and is said to come from the way the player plays with his head down while concentrating on operating the effects.
 
-Below, we will look back at the history of Shoegaze by decade, and introduce the changes in representative masterpieces and equipment used.
+Below, we look back at the history of Shoegaze by decade, and introduce the changes in representative masterpieces and equipment used.
 
 ---
 
@@ -86,7 +86,7 @@ color: #fff;
 - **Effector**: Digitech Whammy, Yamaha SPX90, Boss CE-2 Chorus
 - **Recording technology**: Building a "wall of sound" through layered multi-recording
 
-### Recommended 10 songs (1990s)
+### 10 recommended songs (1990s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|
@@ -128,7 +128,7 @@ color: #fff;
 | Thursday | Asobi Seksu | Beautiful melody and explosive roar |
 | Nothing Ever Happened | Deerhunter | The Magic of Noise and Repetition |
 | Heatherwood | M83 | Profound Ambience |
-| Dreams Burn Down (Live) | Ride | Iconic performance from the revival period |
+| Dreams Burn Down (Live) | Ride | Symbolic performance from the revival period |
 | Goodbye | Ulrich Schnauss | Representative of electro shoegaze |
 | When I'm Small | Phantogram | Intersection of electro and dream |
 | Another Space Song | Failure | Fusion of US-style alternative and roar |
@@ -185,7 +185,7 @@ Sometimes | Always | JAMC & Hope Sandoval | The line between noise and pop |
 - Popularization of **home recording/distribution environment**
 - **Hybrid operation of vintage equipment and latest technology**
 
-### Recommended 10 songs (2020s)
+### 10 recommended songs (2020s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|
@@ -203,7 +203,7 @@ Sometimes | Always | JAMC & Hope Sandoval | The line between noise and pop |
 ---
 
 # Swaying between a roaring sound and a beautiful melody
-Shoegaze sprouted in the late 1980s, reached its golden age in the 1990s, and although it once declined, it has been revived since the 2000s. From the 2010s to the present, its musicality has continued to be loved all over the world, even as it has diversified and subdivided. This genre, which oscillates between roaring sounds and beautiful melodies, continues to have a strong influence on today's digital generation.
+Shoegaze sprouted in the late 1980s, reached its golden age in the 1990s, and although it once declined, it has been revived since the 2000s. From the 2010s to the present, its musicality has continued to be loved all over the world, while diversifying and subdividing. This genre, which oscillates between roaring sounds and beautiful melodies, continues to have a strong influence on today's digital generation.
 
 ---
 

@@ -15,7 +15,7 @@ title: Ken Laszlo – Tonight
 
 "Ken Laszlo - Tonight" is a song released in 1985 by Italian Italo disco artist Ken Laszlo.
 
-ケン・ラズロは、イタロディスコムーブメントの中で活躍したアーティストであり、「Tonight」は彼の代表作の一つとされています。
+Ken Laszlo was an artist active in the Italo Disco movement, and "Tonight" is considered one of his masterpieces.
 
 "Tonight" is a disco pop song featuring a danceable beat, catchy melody, and energetic vocals, and its sophisticated sound and catchy refrain made it popular in the disco scene at the time.
 

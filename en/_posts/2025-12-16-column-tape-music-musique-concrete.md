@@ -16,7 +16,7 @@ title: '[Column] Tape Music / Musique Concrète'
 
 ## 1. Before concrete music: Thoughts that treat sound as an "object"
 
-Text: mmr｜Theme: "Redefining tape music/concrete music in the context of the re-evaluation of 1970s avant-garde music"
+Text: mmr｜Theme: "Redefining tape music/concrete music in the context of re-evaluating 1970s avant-garde music"
 
 
 ### 1.1 Isolation of acoustic phenomena
@@ -84,7 +84,7 @@ The tape loop blurred the distinction between starting and ending points and cre
 
 ### 5.1 Speed ​​conversion
 
-Changing the playback speed is an operation that simultaneously changes the pitch and time. This irreversible transformation was emphasized in the avant-garde music of the 1970s.
+Changing the playback speed is an operation that simultaneously changes the pitch and time. The avant-garde music of the 1970s emphasized this irreversible transformation.
 
 ### 5.2 Reverse playback
 
@@ -94,7 +94,7 @@ Reverse playback dismantled the causal relationship between sounds and disrupted
 
 ## 6. 1970s: Intersection with improvised music
 
-### 6.1 固定媒体と即興
+### 6.1 Fixed media and improvisation
 
 Improvised music is inherently premised on one-time performance, but tape fixes the result. At the same time, a practice emerged that treated tape playback as part of improvisation, blurring the line between fixed and variable.
 
@@ -106,7 +106,7 @@ Tape manipulation became the prototype for later live electronics. The act of in
 
 ## 7. 1970s: Continuity with Noise Practice
 
-### 7.1 ノイズの肯定
+### 7.1 Noise Affirmation
 
 With tape music, distortion, hiss, and editing marks were not eliminated, but treated as part of the musical structure. This is directly connected to the aesthetics of noise practice in the 1970s.
 
@@ -148,7 +148,7 @@ Since the 1970s, tape music ideas have permeated a variety of genres.
 
 ### 10.2 Relationship between records and works
 
-The recognition that recordings themselves were works of art took hold during this period.
+The recognition that recordings themselves were works of art took root during this period.
 
 ---
 
@@ -156,7 +156,7 @@ The recognition that recordings themselves were works of art took hold during th
 
 * 1940s: The spread of magnetic tape recording
 * 1950s: Systematization of Gutai music
-* 1960年代：電子音楽スタジオの発展
+* 1960s: Development of electronic music studios
 * 1970s: Reappraisal through fusion of improvisation, noise, and electronic music
 
 ---

@@ -16,7 +16,7 @@ title: '[Column] Musical thinking in Jean-Michel Basquiat: Painting production a
 
 
 
-## 音楽の中で描く──バスキアの制作環境
+## Drawing in music: Basquiat's production environment
 
 Text: mmr | Theme: Jean-Michel Basquiat's production was shaped by a ""sampling mindset'' that stood at the intersection of jazz and hip-hop. This article interprets the production process as a DJ-like collage.
 
@@ -47,7 +47,7 @@ color: #fff;
 </style>
 
 
-## ジャズの構造と絵画のレイヤー
+## Layers of jazz structure and painting
 
 Charlie Parker's performance involves a process of theme presentation, decomposition, and reconstruction. This is a so-called "head → solo → head" format, but what is important are the deviations and regressions that occur in between.
 
@@ -71,9 +71,9 @@ This tension gives his paintings a unique rhythm and density.
 
 ---
 
-## ヒップホップとサンプリング的思考
+## Hip hop and sampling thinking
 
-In the early 1980s, hip-hop was an experimental culture that had yet to be institutionalized. Grandmaster Flash treated the turntable as an instrument, extracting breakbeats from existing records and constructing new music.
+In the early 1980s, hip-hop was an experimental culture that had not yet been institutionalized. Grandmaster Flash treated the turntable as an instrument, extracting breakbeats from existing records and constructing new music.
 
 This "sampling" is not just a quotation. It is an act of cutting and pasting different times and contexts to generate new meanings.
 
@@ -81,7 +81,7 @@ A similar process can be seen on Basquiat's screens. Medical books, history, str
 
 <div class="mermaid">
 flowchart LR
-A[既存イメージ] --> B[cutting]
+A[Existing image] --> B[cutting]
 B --> C[Relocation]
 C --> D[new meaning]
 </div>
@@ -90,7 +90,7 @@ This is exactly the same structure as a DJ mix. What is important is not ""creat
 
 For Basquiat, who was active at the same time as the birth of hip-hop, this thought was extremely natural.
 
-> 既存の断片を再配置することで、新しい意味が立ち上がる
+> New meaning emerges by rearranging existing fragments
 
 ---
 
@@ -121,9 +121,9 @@ Seeing sounds and listening to pictures. This traversal of sensations is at the 
 
 The key to understanding Basquiat's production lies not in ""drawing" but in ""editing." Rather than completing the screen in one go, he overwrites, deletes, and rearranges it many times.
 
-このプロセスは、DJがレコードをミックスする行為と極めて近い。重要なのは手元にある素材ではなく、それをどう組み合わせるかである。
+This process is very similar to how a DJ mixes a record. What matters is not the materials at hand, but how they are combined.
 
-彼の作品には、同じ単語が何度も現れ、消され、また書かれる。この反復は、音楽におけるループと同じ機能を持つ。
+In his works, the same words appear, are erased, and rewritten over and over again. This repetition has the same function as a loop in music.
 
 <div class="mermaid">
 flowchart LR
@@ -166,7 +166,7 @@ To understand Basquiat, you need to listen not only to his paintings but also to
 
 This production process is also the prototype for all modern creations: sampling, remixing, and collage.
 
-> Basquiat's paintings visualize the structure of music itself.
+> Basquiat's paintings visualize the very structure of music.
 
 
 ---

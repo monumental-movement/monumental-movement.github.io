@@ -19,7 +19,7 @@ title: '[Column] Chillstep / Liquid Dubstep'
 
 Text: mmr｜Theme: About the "emotional dubstep" born between silence and bass
 
-Chillstep and Liquid Dubstep are spin-off genres that began to take shape on the Internet around 2010, emphasizing the melodic and ambient aspects of dubstep. Unlike traditional dubstep's aggressive wobble bass, harsh filter modulation, and post-brostep metal leads, Chillstep brings to the fore ""quietness, transparency, and a soft-defined low range.''
+Chillstep and Liquid Dubstep are spin-off genres that began to take shape on the Internet around 2010, emphasizing the melodic and ambient aspects of dubstep. Unlike traditional dubstep's aggressive wobble bass, harsh filter modulation, and metallic leads of brostep and later, Chillstep brings to the fore ""quietness, transparency, and a soft-defined low range.''
 
 The background flow is as follows.
 
@@ -128,7 +128,7 @@ Blackmill's style became the template for Chillstep and created a large followin
 ### Blackmill style production process
 
 1. Create a chord progression on the piano (such as a simple I–V–vi–IV type)
-2. Layer the strings and set the attack to be slow
+2. Layer the strings and set the attack slowly
 3. Generate high frequency lead with analog style soft synth
 4. Create a sub-bass with a sine wave and lightly shake it with a 1/4 LFO
 5. Drums are modest, kicks are deep and short
@@ -163,13 +163,13 @@ Chillstep compilations on YouTube proliferated, combining visual beauty and soni
 
 ### Visual composition
 
-1. Still lake surface, distant light, slow-moving fog
+1. Still lake surface, distant light, slowly moving fog
 2. Pad sound that spreads gently above it
 3. Reflections on the water surface resonate with the overtones of the lead melody
 4. The base sinks with the afterglow of the night city
 5. A production in which the flow of stars synchronizes with the arpeggio
 
-The Chillstep viewing experience symbolizes the genre characteristics of the Internet era, where "music + visual expression" are integrated.
+The viewing experience of Chillstep symbolizes the genre characteristics of the Internet era, where "music + visual expression" are integrated.
 
 ---
 
@@ -231,9 +231,9 @@ Emphasis is placed on ""sustainability" and ""lingering resonance" rather than m
 
 ### 5-6 mix
 
-* Suppress and smooth 5-7kHz stimulation
+*Smoothly suppresses 5-7kHz stimulation
 * Minimize background noise (analog hiss, wind, rain, etc.)
-* Fog-like texture with high-cut reverb
+* Fog-like texture with high cut reverb
 * Sidechain is suppressive, only creates movement
 
 ---

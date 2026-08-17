@@ -13,7 +13,7 @@ title: Keiji Haino - Nanimokamo Keiji Haino – Everything
 ---
 
 
-灰野敬二 – 何もかも　
+Keiji Haino – Everything
 percussion solo
 Keiji Haino
 
@@ -32,4 +32,4 @@ The producer is Hideo Ikuetsu, owner of P.S.F. Records.
 1. 何もかも
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64426142389?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m64426142389?afid=6142608987){: .button1}

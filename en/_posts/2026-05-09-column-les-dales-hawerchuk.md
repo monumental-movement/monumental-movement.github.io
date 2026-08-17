@@ -19,9 +19,9 @@ title: '[Column] Les Dales Hawerchuk -- A rough and exciting history of Quebec r
 
 Text: mmr｜Theme: Deciphering the vitality of local rock through the more than 20-year history of Les Dales Hawerchuk, which was born at the intersection of Quebec local culture, hockey, and garage rock.
 
-2000年代以降のケベック・ロックを語るうえで、Les Dales Hawerchukは独特な位置を占めるバンドである。
+Les Dales Hawerchuk is a band that occupies a unique position when discussing Quebec rock since the 2000s.
 
-They weren't a band aimed at a huge market. Nor did it emerge as sophisticated urban rock. Rather, their appeal lay in the fact that they echoed the flavor of local cities.
+They weren't a band aiming for a huge market. Nor did it emerge as sophisticated urban rock. Rather, their appeal lay in the fact that they echoed the flavor of local cities.
 
 They started their activities in Roberval, Quebec. Located in the Saguenay-Lac-Saint-Jean region, this area is known for its strong local culture. Pride as a French-speaking country, harsh winters, hockey culture, bar culture, and bonding among friends. That atmosphere flowed directly into Les Dales Hawerchuk's music.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 One day, member Sylvain Séguin found a hockey card of NHL player Dale Hawerchuk in his car. After that, the name was adopted as a band name that suddenly became necessary when performing at a festival.
 
-What's more, he later obtained permission from the person himself to use it.
+Moreover, he later obtained permission from the person himself to use it.
 
 With the condition that he not go to jail.
 
@@ -95,7 +95,7 @@ In particular, their early works have strong elements of garage rock, rockabilly
 
 Their songs don't show off their technique.
 
-Instead, it relies on the momentum of the riff and the explosive power of the chorus.
+Instead, it is pushed through by the momentum of the riff and the explosive power of the chorus.
 
 It worked best live.
 
@@ -278,7 +278,7 @@ Whether in small clubs or at outdoor festivals, their performances had a kind of
 
 The audience is in a state of ""participating" rather than ""listening" to the music.
 
-This is both punk rock and sports support culture.
+This is part punk rock, part sports support culture.
 
 ### Connection with Quebec rock culture
 
@@ -376,7 +376,7 @@ And then there was a gap of about five years.
 
 However, it was not a complete disbandment.
 
-They continued their activities intermittently and were working on new works.
+They continued to work intermittently and were working on new works.
 
 In 2016, he returned with "Désavantage numérique".
 
@@ -448,7 +448,7 @@ This is not easy.
 
 Many garage rock bands are short-lived.
 
-This is because it is difficult to maintain the impulse.
+This is because it is difficult to maintain the urge.
 
 But they continued.
 
@@ -540,7 +540,7 @@ C --> E
 D --> E
 </div>
 
-> They didn't use hockey as their subject matter, but instead converted the hockey craze itself into rock music.
+>They didn't use hockey as their theme, but instead converted the hockey craze itself into rock music.
 
 ---
 
@@ -640,7 +640,7 @@ B->>A: "さらに加速"
 | Year | Works | Features |
 | ---- | --------------------- | --------------------------- |
 | 2005 | Les Dales Hawerchuk | Debut work. Includes representative song "Dale Hawerchuk" |
-| 2008 | Les Dales Hawerchuk 2 | Expanding the sound and accelerating the popularity of live shows |
+| 2008 | Les Dales Hawerchuk 2 | Expansion of sound and acceleration of live popularity |
 | 2011 | Le tour du chapeau | Maturity. Highly rated regarding GAMIQ |
 | 2016 | Désavantage numérique | Return after 5 years |
 | 2024 | Attaque à cinq | New chapter after nearly 20 years of activity |
@@ -664,7 +664,7 @@ B->>A: "さらに加速"
 | 2017 | "Désavantage numérique" is a nominee in the rock category |
 | 2025 | Re-evaluation related to "Attaque à cinq" |
 
-> Throughout their discography, it is clear that they have consistently maintained the ""Les Dales Hawerchuk-ness.''
+> What emerges throughout their discography is that they have consistently maintained the "Les Dales Hawerchuk-ness."
 
 ---
 
@@ -690,7 +690,7 @@ However, it was not completely converted to commercialism.
 
 There is also significance in starting from the provincial city of Roberval.
 
-Québec culture tends to be talked about mainly in Montreal, but in reality, local culture has a great deal of power.
+Québec culture tends to be talked about with a focus on Montreal, but in reality, local culture has a great deal of power.
 
 Les Dales Hawerchuk brings its local character to the forefront.
 

@@ -92,13 +92,13 @@ In other words, the story of a destructive artist is a device that creates a ""p
 
 ---
 
-## 第五章：SNS時代の「自己破壊と承認」
+## Chapter 5: "Self-destruction and approval" in the SNS era
 
 In today's world, anyone can become a small-scale ""disastrous artist.''
 The structure of transmitting emotions and gaining sympathy through SNS blurs the line between creation and self-revelation.
 
 When excessive self-expression eats away at the soul, the boundaries between artists and followers collapse.
-その意味で、カート・コバーンの“孤独な叫び”は、  
+In that sense, Kurt Cobain's "Lonely Cry"
 It can be said that he was anticipating the 21st century structure associated with posting on Instagram and TikTok.
 
 ---
@@ -123,7 +123,7 @@ Now that AI is in charge of creation and communities are expanding where people 
 There is no need to worship "ruin" as a myth.
 
 In fact, ""survival'' itself may be a new art form.
-Creation that moves toward recovery rather than destruction.
+Creation that moves towards recovery rather than destruction.
 Beyond that lies the image of a truly free artist.
 
 ---
@@ -147,16 +147,16 @@ timeline
 
 ---
 
-## 図版：破滅型アーティストの心理構造ダイアグラム
+## Illustration: Diagram of the psychological structure of a destructive artist
 
 
 <div class="mermaid">
 
     flowchart TD
-    A[creative urge] --> B[内的苦痛・葛藤]
+    A[creative urge] --> B[internal pain/conflict]
     B --> C[Sublimation through production]
     C --> D[Social evaluation/approval]
-    D --> E[期待とプレッシャー]
+    D --> E[expectations and pressure]
     E --> F[Dependency, isolation, mental anxiety]
     F --> G[Ruin (death, disappearance, deviation)]
     G -->|Reinterpretation/mythologization| H[Public sympathy and consumption]

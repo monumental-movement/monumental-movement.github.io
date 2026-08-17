@@ -113,14 +113,14 @@ It was a modern version of an ancient ritual.
 
 Immediately after the fall of the Wall, Berlin was a lawless zone and a testing ground for freedom.
 Clubs like Tresor and Berghain
-It created a new physical community in a city awaiting political and economic restructuring.
+A new physical community was created in a city awaiting political and economic restructuring.
 There, ""dancing'' itself is
 It was a political act of memory and rebirth.
 
 ### 2. Tokyo: Between regulation and creativity
 
 Japan's club culture matured under the legal constraints of the Entertainment Business Act.
-In this country where "dancing" was once considered "illegal",
+In this country, where dancing was once considered illegal,
 People searched for new ways to move their bodies in time with sound.
 Shibuya, Daikanyama, Shimokitazawa, and local small boxes――
 Secret dance venues formed the underworld of the city.
@@ -169,7 +169,7 @@ What sociologist Durkheim refers to as "collective effervescence" is
 It is a moment when the energy of the community is simultaneously energized.
 The club's dance floor is a modern recreation of exactly that.
 A place where lonely individuals can connect with others through rhythm.
-It's a more primitive and much more physical empathic device than SNS.
+It's a more primitive and much more physical empathic device than social media.
 
 ---
 
@@ -186,7 +186,7 @@ Rhythm will become the new language of communication.
 
 ---
 
-## 結語：ビートは身体の記憶である
+## Conclusion: Beat is the memory of the body
 
 Even if music is converted into data and rhythms are programmed,
 Humans never stop dancing.

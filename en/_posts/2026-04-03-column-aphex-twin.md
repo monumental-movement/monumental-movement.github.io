@@ -19,15 +19,15 @@ title: '[Column] Aphex Twin''s philosophical view of music: coexistence of order
 
 Text: mmr｜Theme: Aphex Twin's philosophical view of music that embodies the coexistence of order and disorder in electronic music
 
-音楽には通常、「理解の導線」がある。メロディ、リズム、展開——それらが聴き手を導く。しかしAphex Twinの音楽には、その導線が意図的に断ち切られている。
+Music usually has a ""conductor of understanding.'' Melody, rhythm, development—these guide the listener. However, in Aphex Twin's music, this line of conductor is intentionally severed.
 
 Beats disintegrate, melodies are fragmented, and the placement of notes is unpredictable. Even so, the listener can still feel the "beauty" in it. Where does this phenomenon come from?
 
-His works directly affect "perception" rather than understanding. The sound itself is structured so that it reaches the body and emotions before the brain can give it meaning. This is a more primitive and intuitive musical experience, different from the harmonic beauty of classical music or the hooks of pop music.
+His works directly affect "perception" rather than understanding. The sound itself is structured so that it reaches the body and emotions before the brain can assign meaning to it. This is a more primitive and intuitive musical experience, different from the harmonic beauty of classical music or the hooks of pop music.
 
 More importantly, the disorder is not completely random. There is always an internal structure to his sound. Behind what appears to be chaos, there is an extremely precise design. This "invisible order" gives the listener a unique sense of security and discomfort at the same time.
 
-In other words, his music is not ""incomprehensible," it's just that ""the way we understand it is different from conventional ways."
+In other words, his music is not ""incomprehensible," it's just ""a different way of understanding it."
 
 > People feel beauty not because they cannot understand something, but when their way of understanding is updated.
 
@@ -56,7 +56,7 @@ Richard D. James, also known as Aphex Twin, was born in 1971 in Cornwall, southw
 
 However, the important thing is not whether it is a lie or true. He is dismantling the ""actual image of an artist"' itself. In other words, it is a strategy that obscures the relationship between the work and the personality and sways the listener"s interpretation.
 
-Also, his face often appears distorted in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the face, the most identifying information, the question of "who you are" is invalidated.
+Also, his face often appears in distorted forms in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the most identifying information, the face, the very question of "who you are" is invalidated.
 
 This anonymity is also a device for focusing on the music itself.
 
@@ -72,7 +72,7 @@ First is Selected Ambient Works 85–92, which is an early masterpiece. This pie
 
 The subsequent Selected Ambient Works Volume II progresses to even more extreme abstraction. The rhythm almost disappears, and a drone-like sound spreads. This work greatly expanded the possibilities of electronic music as environmental music.
 
-In the late 1990s, he took a more aggressive and experimental direction. In particular, ""Windowlicker'' is widely known for its strange visuals, blurring the boundaries between pop and avant-garde.
+In the late 1990s, he moved in a more aggressive and experimental direction. In particular, ""Windowlicker'' is widely known for its strange visuals, blurring the boundaries between pop and avant-garde.
 
 and Drukqs in 2001. In this album, ultra-fast and complex drum programming coexists with tranquil piano music. It is here that his aesthetic - the coexistence of chaos and order - is most clearly manifested.
 
@@ -90,7 +90,7 @@ In club music, rhythm is a device for moving the body. But he destroys that prem
 
 Still, there's a groove to his music. Where does this contradiction come from?
 
-His rhythm reproduces ""human deviations'' to a high degree. Because it contains minute fluctuations, rather than complete mechanical precision, the listener unconsciously senses its physicality.
+His rhythm reproduces ""human deviations'' to a high degree. It is not completely mechanically accurate, but contains minute fluctuations, so the listener unconsciously senses its physicality.
 
 Furthermore, he treats rhythm not as a "division of time" but as a "sculpture of time." Time itself is transformed by the arrangement of sounds.
 
@@ -116,9 +116,9 @@ Belongs to the genre and deviates from it at the same time. This duality places 
 
 There are many stories about Aphex Twin.
 
-For example, there's a story about someone who left a hard disk full of unreleased songs on an airplane, which was later leaked. It is also said that he uses his own software to generate extremely complex rhythms.
+For example, there is a story where a hard drive full of unreleased songs was left behind on an airplane, and it was later leaked. It is also said that he uses his own software to generate extremely complex rhythms.
 
-Even more famous is his anecdote about live performance. In some cases, they only played back the sound source, betraying the ""performance'' that the audience expected, and sometimes intentionally caused confusion.
+Even more famous are his anecdotes about live performances. In some cases, they only played back the sound source, betraying the ""performance'' that the audience expected, and sometimes intentionally caused confusion.
 
 These actions may seem provocative, but for him they are also an attempt to redefine "the musical experience itself."
 
@@ -151,7 +151,7 @@ His influence extends beyond sonic style. It lies in renewing the question, "Wha
 * 1994: Selected Ambient Works Volume II announced
 * 1999: "Windowlicker" released
 * 2001: Drukqs announced
-* 2014年：Syro発表
+* 2014: Syro announced
 
 ---
 
@@ -162,7 +162,7 @@ graph TD
 A[Chaos] --> B[fragmented rhythm]
 A --> C[nonlinear structure]
 D[control order] --> E[precision design]
-D --> F[音響バランス]
+D --> F[acoustic balance]
 B --> G[unpredictable groove]
 E --> G
 C --> H[time distortion]
@@ -175,11 +175,11 @@ H --> I
 
 ## Conclusion: The idea of ​​controlling chaos
 
-Aphex Twin's music is more than just experimentation. It is a ""methodology'' for dealing with chaos and order at the same time.
+Aphex Twin's music is more than just an experiment. It is a ""methodology'' for dealing with chaos and order at the same time.
 
 He doesn't rely on chance. Rather, intentionally design what sounds like a coincidence. As a result, the listener is faced with an unknown experience.
 
-This structure also applies to modern creation in general. In an age of information overload, perfect order is boring and total chaos is incomprehensible. It is during this time that new value is created.
+This structure also applies to contemporary creation in general. In an age of information overload, perfect order is boring and total chaos is incomprehensible. It is during this time that new value is created.
 
 His music continues to explore that in-between area.
 

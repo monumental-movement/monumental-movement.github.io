@@ -53,10 +53,10 @@ Trip hop is more than just a music genre, it has spread to the world of **soundt
 
 <div class="mermaid">
 flowchart TD
-    A["1990s: ブリストル誕生 Massive Attack"] --> B["Portishead: Noir sound"]
+    A["1990s: Birth of Bristol Massive Attack"] --> B["Portishead: Noir sound"]
     B --> C["Tricky: Fusion with hip hop"]
     C --> D["2000s: Expanded to DJ Shadow and UNKLE soundtrack production"]
-    D --> E["2020s: AI音楽生成との接続"]
+    D --> E["2020s: Connection with AI music generation"]
 </div>
 
 ---
@@ -110,9 +110,9 @@ Derived from the Bristol sound system "Wild Bunch". 3D (Robert Del Naja) is also
 
 Rather than using a turntable, he "turns the studio into an instrument" and blends samples and live performance. Characterized by deep bass and dub-like spatial processing.
 
-#### 映像作品
+#### Video works
 
-Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが存在。ライブ映像は[公式YouTube](https://www.youtube.com/user/massiveattack)でも視聴可。
+There are short documentaries such as Unfinished: The Making of Massive Attack. Live footage can also be viewed on [Official YouTube] (https://www.youtube.com/user/massiveattack).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHJi5cUZzuk?si=lfHjydKz_R698u0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -147,13 +147,13 @@ There are documentaries about 90's tours such as "Welcome to Portishead".
 
 **2000s**: [The Private Press (2002)](https://amzn.to/4gEWFTa)
 
-**2010s〜**: [The Less You Know, The Better（2011）](https://amzn.to/4nggcM5)、[Our Pathetic Age（2019）](https://amzn.to/3KchrgC)
+**2010s〜**: [The Less You Know, The Better (2011)](https://amzn.to/4nggcM5), [Our Pathetic Age (2019)](https://amzn.to/3KchrgC)
 
 #### Anecdote
-Endtroducing.... is set in the Guinness Book of World Records as the ""first album constructed entirely from samples.'' Completed using MPC and turntable.
+Endtroducing.... is set in the Guinness Book of World Records as "the first album constructed entirely from samples." Completed using MPC and turntable.
 
 #### Production technology
-ブレイクビーツ再構築、ビートジャグリング、タイムストレッチを駆使。ターンテーブルを“コラージュツール”として扱う。
+Making full use of breakbeat reconstruction, beat juggling, and time stretching. Treat the turntable as a "collage tool".
 
 #### Video works
 Appeared in [DJ culture documentary "Scratch" (2001)](https://amzn.to/4pzrtso).
@@ -164,44 +164,44 @@ Appeared in [DJ culture documentary "Scratch" (2001)](https://amzn.to/4pzrtso).
 
 ### DJ Krush
 
-#### 代表作
+#### Masterpiece
 
 **1990s**: [Strictly Turntablized (1994)](https://amzn.to/46uh8oZ), [Meiso (1995)](https://amzn.to/4ndVUCN)
 
-**2000s〜**: [Jaku（2004）](https://amzn.to/4gv4hHs)、近年は和楽器や日本的サウンドとの融合
+**2000s～**: [Jaku (2004)](https://amzn.to/4gv4hHs), in recent years fusion with Japanese instruments and Japanese sounds
 
 #### Anecdote
 Presenting "Japanese tranquility" globally through world tours. He is respected by the Western hip-hop scene.
 
 #### Production technology
-A style that regards the turntable as an "instrument" and attempts to combine it with Japanese musical instruments and environmental sounds. Specializes not only in scratching but also in spatial production.
+A style that regards the turntable as an "instrument" and attempts to fuse it with Japanese musical instruments and environmental sounds. Specializes not only in scratching but also in spatial production.
 
-#### 映像作品
+#### Video works
 
-[DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
+Appeared in [DJ culture documentary "Scratch" (2001)](https://amzn.to/4pzrtso).
 There are archive DVDs such as ["History Of DJ Krush"](https://amzn.to/3KdMvwE).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVjgRlto8PI?si=lOvhctuUkOJwkPo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### サウンドトラック制作 × AI音楽生成
+### Soundtrack production × AI music generation
 
-トリップ・ホップの映画的な質感はサウンドトラック制作に最適。近年はAI音楽生成ツールが、トリップ・ホップ風の「ダークな浮遊感」を短時間で再現できるようになりました。映像制作者にとって、AIと人間の共同作業は新しいクリエイションの可能性を広げています。
+The cinematic feel of trip hop is perfect for creating soundtracks. In recent years, AI music generation tools have become capable of reproducing the "dark floating feeling" of trip-hop style in a short amount of time. For filmmakers, collaboration between AI and humans is opening up new creative possibilities.
 
 ---
 
 ### summary
 
-トリップ・ホップは、Massive Attackの重厚さ、Portisheadのアンニュイ、DJ Shadowのサンプル美学、DJ Krushの日本的静謐さを通じて発展しました。
-そして今日では、AI音楽生成やサウンドトラック制作と結びつき、新たな時代へと進化しています。
+Trip hop evolved through the heaviness of Massive Attack, the ennui of Portishead, the sample aesthetic of DJ Shadow, and the Japanese serenity of DJ Krush.
+Today, it is evolving into a new era by combining AI music generation and soundtrack production.
 
 ---
 
 
 ### YouTube Podcast
 
-※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ay0HS8iWrI?si=BlgLowTv8OAg-Xn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -214,7 +214,7 @@ There are archive DVDs such as ["History Of DJ Krush"](https://amzn.to/3KdMvwE).
 
 🔗 [[Column] History of US Hip Hop: Overall picture including regions, clubs, media, and equipment](https://monumental-movement.jp/Column-Hiphop-History)
 
-🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+🔗 [[Column] Overview of West Coast Hip Hop — From its origins to the underground](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
 
 🔗 [[Column] East Coast Hip Hop Overview — From the Bronx to Brooklyn and around the world](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)

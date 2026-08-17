@@ -10,7 +10,7 @@ tags:
 - Experimental
 - Art
 - 70s
-title: '[Column] Taj Mahal Travel Group and Takehisa Kosugi - A journey to unleash
+title: '[Column] Taj Mahal Tourist Group and Takehisa Kosugi - A journey to unleash
   sound'
 ---
 
@@ -63,12 +63,12 @@ This question became the theme of Kosugi's life.
 ## III. The Art of Resonance and Action with Fluxus (1965–1969)
 
 In the mid-1960s, Kosugi became close to the international avant-garde movement ""Fluxus'' and stepped into the realm of performance and happenings.
-The act of converting everyday objects into sound sources and dismantling the framework of time and space fundamentally shook the conventional view of music.
+The act of turning everyday objects into sound sources and dismantling the framework of time and space fundamentally shook the conventional view of music.
 
 As seen in his masterpieces "Music Expanded #2" and "Catch-Wave",
-Kosugi turned the ""body that performs'' itself into a piece of work, attempting to record the moment when the sound occurred.
+Kosugi turned the ""body that performs'' itself into a work of art, attempting to record the moment when the sound occurred.
 
-This trend had a direct influence on later ""sound art", ""environmental music", and ""acoustic improvisation''.
+This trend had a direct influence on later ""sound art," ""environmental music," and ""acoustic improvisation.''
 
 ---
 
@@ -128,7 +128,7 @@ We have created an ecosystem in which sound "occurs and disappears."
 The pinnacle of their activities was the album released in 1972.
 "Taj Mahal Travelers – July 15, 1972" (CBS/Sony).
 This is a live recording of an improvisational performance held around the Taj Mahal in Agra.
-It is highly praised as a ""soundscape'' that perfectly combines time, space, and sound.
+It is highly acclaimed as a ""soundscape'' that perfectly combines time, space, and sound.
 
 There is no rhythm or melody on the album.
 Instead, the sound of the wind, electronic sounds, voices, and string resonance gently intersect,
@@ -139,7 +139,7 @@ It presents an experience that invites the listener to go "inside the sound."
 ## VIII. Overseas activities and "Catch-Wave" (1975)
 
 After staying in Europe, Kosugi moved to the United States in the mid-1970s.
-Develops solo activities that combine electronic acoustics and improvisation.
+He develops solo activities that combine electronic acoustics and improvisation.
 His 1975 masterpiece "Catch-Wave" (EM Records reissue) is
 This is a soundscape piece that makes full use of violin, tape delay, and feedback.
 He also influenced Brian Eno and Robert Ashley.
@@ -154,10 +154,10 @@ Until his later years, based on his belief that "sound is a natural phenomenon,"
 
 ---
 
-## X. The legacy of Takehisa Kosugi and the Taj Mahal Tourists
+## X. The legacy of Takehisa Kosugi and the Taj Mahal Tourist Group
 
 Today, their activities include "sound art," "field recording," and "ambient music."
-It is being reevaluated as the source of diverse musical trends.
+It is being reevaluated as the source of diverse music trends.
 An attitude of listening to sound as a ""phenomenon" rather than ""material" or ""information.''
 This is the most important message that Kosugi left us.
 
@@ -198,7 +198,7 @@ This is the most important message that Kosugi left us.
 ## Conclusion - freedom of sound and prayer
 
 The Taj Mahal tour group"s trip was not just a ""band"s overseas performance.''
-It was a spiritual journey to transcend the institution of music and resonate with the world.
+It was a spiritual journey that transcended the institution of music and resonated with the world.
 
 > "We are travelers, not performers."
 > ― Takehisa Kosugi

@@ -18,7 +18,7 @@ Mike & Rich's "Expert Knob Twiddlers" (1996) is a collaborative album by Richard
 
 The song was created over a few days during the 1994 World Cup and is said to have been born out of a drunken jam session. This background creates a light and free-spirited atmosphere in the music.
 
-Described by Paradinas as "an updated version of easy listening and funk," it combines melodies reminiscent of 70s lounge music and elevator music with distorted beats and the whimsical tones of analogue synths.
+Described by Paradinas as "an updated version of easy listening and funk," it combines melodies reminiscent of 70s lounge music and elevator music with distorted beats and the whimsical tones of analog synths.
 
 These tracks are the result of a combination of Aphex Twin"s unpredictable experimentalism and µ-Ziq"s melodic structure, creating a sonic adventure that goes beyond mere "written music".
 
@@ -38,5 +38,5 @@ These tracks are the result of a combination of Aphex Twin"s unpredictable exper
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODppEhZGw1Y?si=FqMGJDoOL4-dS3Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

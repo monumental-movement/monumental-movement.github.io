@@ -63,7 +63,7 @@ C --> D[northern india music culture]
 
 The sitar, sarod, and bansuri, which are the main instruments of Hindustani music, all emphasize sustained and sliding sounds. On the other hand, since the santur is a percussion instrument, the duration of the sound is short, making it difficult to directly express meand (smooth sounds).
 
-For this reason, the santour has long been regarded as ""incomplete as a classical instrument.'' However, this restriction became the basis for later unique interpretations.
+For this reason, the santour has long been considered ""incomplete as a classical instrument.'' However, this restriction became the basis for later unique interpretations.
 
 > Restrictions were not a drawback, but a condition for creating new musical idioms.
 
@@ -85,13 +85,13 @@ Even in santoor performance, the time period, emotional character, and scale str
 
 Once in tala, the santoor begins to take on a percussive driving force, blurring the line between melody and rhythm. This duality creates a charm that is not found in other melodic instruments.
 
-> The santour is an instrument that exists between melody and rhythm.
+> The santour is an instrument that exists in the middle area between melody and rhythm.
 
 ---
 
 ## Recording technology and Santour expansion
 
-Since the late 20th century, advances in recording technology have had a significant impact on the reputation of santoor. The details of the santour, which has a short decaying sound, were emphasized by the microphone, giving it a three-dimensional sound.
+Since the late 20th century, advances in recording technology have had a significant impact on the reputation of santour. The details of the santour, which has a short decaying sound, were emphasized by the microphone, giving it a three-dimensional sound.
 
 This has led to its application not only to solo performances but also to ensembles and film music.
 
@@ -121,9 +121,9 @@ Performances often begin with a soft note. The moment the mallet touches the str
 
 ## Symbiotic relationship between Kashmiri folk songs and santoor
 
-In Kashmir, santoor was deeply associated with folk culture even before classical music. It was often played to the tune of a song at wedding ceremonies, seasonal festivals, religious gatherings, and other occasions.
+In Kashmir, santoor was deeply associated with folk culture even before classical music. It was often played to the tune of a song at wedding ceremonies, seasonal festivals, and religious gatherings.
 
-When playing the santour as an accompaniment to folk songs, the intonation of the melody and the speaking style are given priority over strict musical scales. The mallet is not swung down with a constant force, but rather changes its speed and angle subtly to match the singer's breathing.
+When playing the santour as an accompaniment to folk songs, the intonation of the melody and the speaking style are prioritized over strict musical scales. The mallet is not swung down with a constant force, but rather changes its speed and angle subtly to match the singer's breathing.
 
 > In Kashmiri folk songs, the santoor did not dominate the melody, but had the role of enveloping the narrative.
 
@@ -131,9 +131,9 @@ When playing the santour as an accompaniment to folk songs, the intonation of th
 
 ## Comparison with Santur in other regions: Focusing on Iran
 
-Iranian santurs have fewer strings than Indian ones, and have a more organized range. The melody is more clearly demarcated, and improvisations are developed through changes in ornamentation.
+Iranian santurs have fewer strings than Indian ones, and have a more organized range. The melodies are more clearly delineated, and improvisations are developed through changes in ornamentation.
 
-While Indian santoor emphasizes the continuous flow of sound, Iranian santoor has a strong note-by-note structure. When playing, the mallet is struck at a nearly perpendicular angle to the strings, bringing the attack sound clearly into the foreground.
+While Indian santoor emphasizes the continuous flow of sound, Iranian santoor has a strong note-by-note structure. When playing, the mallet is struck at an angle nearly perpendicular to the strings, bringing the attack sound into the foreground.
 
 > Although they have the same name, their musical philosophy differs greatly depending on the region.
 

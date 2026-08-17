@@ -44,7 +44,7 @@ color: #fff;
 
 ## 1. Rock flashpoint (1950s-60s)
 
-**Chuck Berry**は、リズムギターとフレーズの融合によりロックンロールの骨格を築いた。彼の右手によるカッティングはダンスビートの基盤を作り、左手のフレーズはブルース由来ながら独自の旋律を描く。Berryの音楽は、エレキギターが若者の反抗や自由を象徴する手段になることを示した。
+**Chuck Berry** built the backbone of rock"n"roll by fusing rhythm guitar and phrases. The cutting with his right hand forms the basis of a dance beat, while the phrases with his left hand draw a unique melody even though they are derived from blues. Berry's music showed that the electric guitar could become a symbol of youthful rebellion and freedom.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKCt8ssC7cs?si=Mt9LbNIUi7bufZ-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -99,7 +99,7 @@ color: #fff;
 
 **Mary Halvorson** fuses jazz improvisation and abstract expression, turning the impossible with the guitar into the possible. He is a bridge between modern jazz and avant-garde.
 
-**Ryley Walker**は現代フォークに精神的変奏を導入し、ブルース、ジャズ、ロックを融合。ギターは物語を語るための手段であり、感情の複雑さを映す鏡となる。
+**Ryley Walker** introduces spiritual variations to modern folk, fusing blues, jazz, and rock. The guitar is a vehicle for storytelling and a mirror for emotional complexity.
 
 **Yves Tumor** traverses noise, pop, and physical expression. The guitar is treated like a voice or sound effect, and becomes a medium of expression that transcends the framework of an instrument.
 
@@ -168,7 +168,7 @@ color: #fff;
 
 **envy** has established a unique emotional expression by fusing passionate hardcore with lyrical guitar work.
 
-**Boris** has earned international acclaim for their roaring sound and fusion of various genres.
+**Boris** has gained international acclaim for their roaring sound and fusion of various genres.
 
 **Zeni Geva** fuses metal and noise to create destructive improvisational expressions.
 
@@ -202,7 +202,7 @@ Keiji Haino treats the guitar as an extension of his body and mind, and is a pre
 
 # V. Conclusion: The lingering sound of the strings that never stops ringing
 
-The guitar has always been a symbol of free expression, from the underground to the world. The era has come when the **temperature and ideology of the performer** is more important than the technique.
+The guitar has always been a symbol of free expression, from the underground to the world. The era has come when the ""temperature and ideology of the performer'' is more important than the technique.
 
 > The trembling of guitar strings continues to resonate throughout the ages.
 

@@ -13,7 +13,7 @@ title: The Flavour – Get Your Hands On Me
 ---
 
 
-The Flavour (ザ・フレイバー )は、Development Corporation としても知られるNeil Claxton と Johnny Jayによるスタジオ・プロジェクト。
+The Flavour is a studio project by Neil Claxton and Johnny Jay, also known as Development Corporation.
 
 "Get Your Hands On Me", released on the Jive label in 1994, is a House/Euro House track featuring Chicago house singer Darryl Pandy.
 

@@ -99,7 +99,7 @@ In the sense that DEVO itself became a "brand" and presented the contradictions 
 
 On the surface, the 1980 smash hit "Whip It" sounds like just comical synth-pop.
 However, the lyrics are a parody of anti-heroism, saying, ""Fix the world yourself.''
-DEVO's humor was not just nonsense, but functioned as a critique of society that manipulates the media.
+DEVO's humor was not just nonsense, but functioned as a critique of a media-manipulated society.
 
 In their music videos, they concoct white laboratories, synthesized sounds, and mechanical movements—all in a pop-cynic format.
 This is similar to Warhol's repetitive aesthetic, and is why they are said to be the first musical group to aestheticize irony.
@@ -108,7 +108,7 @@ This is similar to Warhol's repetitive aesthetic, and is why they are said to be
 
 ## Chapter 6: Costume culture as social satire
 
-Energy Dome played a parody of submissiveness through futuristic uniforms, while their punk contemporaries expressed rebellion with safety pins and leather.
+Energy Dome played a parody of obedience through futuristic uniforms, while their punk contemporaries expressed rebellion with safety pins and leather.
 ""Performing obedience is the most radical form of resistance.'' That was DEVO's paradoxical message.
 
 The structure can be easily visualized in a diagram as follows:
@@ -133,7 +133,7 @@ This "performance of obedience" is the gene that later led to Daft Punk and Kraf
 
 ## Chapter 7: DEVO's visual culture and anime structure
 
-DEVO's music videos are composed of **post-anime edits** that reflect the information overload of the television generation.
+DEVO's music videos consist of **post-anime edits** that reflect the information overload of the television generation.
 Fast-forwarding, replaying in reverse, and emphasizing artificial movements make it seem as if humans themselves have become robot-like beings.
 This visual style later influenced the production aesthetics of Japan's ""Detroit Metal City'' and Perfume.
 
@@ -143,14 +143,14 @@ This visual style later influenced the production aesthetics of Japan's ""Detroi
 
 In the late 1980s, DEVO went into decline as MTV culture changed.
 In the 1990s, it was reevaluated as a pioneer of the Internet era.
-Their self-satirical brand strategy foreshadowed post-Web 2.0 self-commodification.
+Their self-satirical branding strategy foreshadowed post-Web 2.0 self-commodification.
 
 They reunited in the 2000s with "Something for Everybody" (2010), a satire on "democracy in the age of algorithms."
 In the 2020s, he continues to update his theory of degeneration to include NFTs and AI culture.
 
 ---
 
-## Chapter 9: DEVO's trajectory in chronology
+## Chapter 9: DEVO's trajectory as seen in the chronology
 
 <div class="mermaid">
 
@@ -172,7 +172,7 @@ timeline
 
 ---
 
-## 第10章：エナジードームの今日的意義
+## Chapter 10: Today's Significance of Energy Dome
 
 The Energy Dome is still loved by DEVO fans as a ""thinking helmet.''
 During the coronavirus pandemic, **Energy domes with face shields** are sold,
@@ -188,13 +188,13 @@ It shows us the heretical wisdom of ""affirming degeneration.''
 
 DEVO's message is not just irony, but a philosophy for self-transformation.
 Under pressure to evolve, they dared to degenerate.
-その選択が、むしろ人間的自由を回復する手段となる。
+Rather, that choice becomes a means of restoring human freedom.
 
-> “Freedom of Choice is what you got. Freedom from choice is what you want.”
+> "Freedom of Choice is what you got. Freedom from choice is what you want."
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy dome is not a helmet that closes off the future.
-**It may be an icon for us to once again have the freedom to choose.**
+**Perhaps it is an icon for us to once again have the freedom to choose.**
 ---
 
 ## Related materials/references

@@ -10,7 +10,7 @@ tags:
 - Experimental
 - Post Rock
 - History
-title: '[Column] Anticon — Genealogy of anti-icon and its surrounding music'
+title: '[Column] Anticon — Genealogy of anti-icons and their surrounding music'
 ---
 
 
@@ -133,7 +133,7 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 ### ■ Odd Nosdam (David Madson)
 
 | Year | Title | Notes | Link |
-| ---- | ----------------------------- | -------------------- | -------------------------------------------------------------------------- |
+| ---- | -------------------------- | -------------------- | -------------------------------------------------------------------------- |
 | 2001 | *Plan 9… Meat Your Hypnotis.* | Sample Heterogeneous Beauty | [Amazon](https://amzn.to/3VPgzBg) |
 | 2005 | *Burner* | Ambient texture | [Amazon](https://amzn.to/42nw4UB) |
 | 2007 | *Level Live Wires* | Boards of Canada's worldview | [Amazon](https://amzn.to/42kl7TS) |
@@ -264,7 +264,7 @@ There are reports that the official website and activities have shrunk since 201
 
 **Production Experimentality**: Tracks that utilize field recordings, noise, and subtle ambience need to be listened to with a different metric than traditional beat-oriented hip-hop.
 
-**Politics of Community**: The conflicts and resolutions of label management, ownership, and artistic policy are useful materials for thinking about the politics of indie music. Sole's departure in 2010 and Alias' disbandment following his death are important case studies.
+**Politics of community**: The conflicts and resolutions of label management, ownership, and artistic policy are useful materials for thinking about the politics of indie music. Sole's departure in 2010 and Alias' disbandment following his death are important case studies.
 
 ---
 

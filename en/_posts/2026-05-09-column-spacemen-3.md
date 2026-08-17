@@ -25,7 +25,7 @@ The new wave is sophisticated,
 Gothic deepens the shadows,
 Indie rock was looking for new expressions while expanding its DIY spirit.
 
-Spacemen 3 appeared in that era.
+Spacemen 3 appeared in such an era.
 
 Their music was the exact opposite of technique.
 
@@ -51,7 +51,7 @@ The sound image is shoegaze,
 drone,
 space rock,
 post lock,
-It has even influenced contemporary ambient music.
+It has even influenced modern ambient music.
 
 > Spacemen 3 was a rare rock band that created a huge space through "scarcity."
 
@@ -104,7 +104,7 @@ The two were particularly attracted to the following music.
 - The Velvet Underground
 -The Stooges
 -MC5
-- 13th Floor Elevators
+-13th Floor Elevators
 -Suicide
 -Can
 - The Modern Lovers
@@ -128,7 +128,7 @@ Although the initial members were in flux,
 Eventually, the following structure will be established.
 
 - Jason Pierce
-- Peter Kember
+-Peter Kember
 - Will Carruthers
 - Jonny Mattock
 
@@ -278,11 +278,11 @@ There's a famous phrase that symbolizes Spacemen 3.
 This wasn't just a provocation.
 
 For them, music is
-It was a device to change one's state of consciousness.
+It was a device to change the state of consciousness.
 
 The important thing is that
 Rather than praising drugs,
-The point was his obsession with "transformation of perception" itself.
+The point was that he was obsessed with "transformation of perception" itself.
 
 ### Sound Design
 
@@ -374,7 +374,7 @@ At the time of production,
 The relationship between Jason Pierce and Peter Kember was deteriorating.
 
 musical direction,
-Human relationships too
+Human relationships too,
 He was already approaching his limit.
 
 ### Difference in direction between the two
@@ -407,7 +407,7 @@ Loud volume.
 Trance feeling.
 And elation.
 
-### Increased Gospelness
+### Increased Gospel-ness
 
 Jason Pierce
 Around this time, he began to lean toward gospel-style elation.
@@ -493,7 +493,7 @@ In addition to the drone feel of Spacemen 3,
 
 were fused.
 
-""Ladies and Gentlemen We Are Floating in Space'' is
+"Ladies and Gentlemen We Are Floating in Space"
 It became an important work of UK rock in the 1990s.
 
 ### Peter Kember's Spectrum
@@ -643,7 +643,7 @@ timeline
 1991 : Fragmentation
 </div>
 
-> In each work, Spacemen 3 simultaneously ""simplified" and ""expanded."
+> For each work, Spacemen 3 simultaneously ""simplified" and ""expanded."
 
 ---
 

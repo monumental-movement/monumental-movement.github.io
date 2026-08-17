@@ -285,7 +285,7 @@ A --> F[performance art]
 
 She's not a trendsetter.
 
-Rather, he can be said to be the person who became the source of reference for subsequent generations.
+Rather, he can be said to be the person who became the source of reference for future generations.
 
 >Many artists did not imitate Meredith Monk, but discovered possibilities in her.
 
@@ -332,7 +332,7 @@ She transformed the very fact that humans are there into art.
 
 That's why it never gets old even if times change.
 
-This is because he continued to focus on the most primitive act of uttering a voice.
+This is because I continued to focus on the most primitive act of uttering a voice.
 
 In this day and age where music has become highly technological, her work sounds rather fresh.
 

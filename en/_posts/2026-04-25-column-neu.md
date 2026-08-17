@@ -48,7 +48,7 @@ color: #fff;
 </style>
 
 
-## Invention of Mortic Beat
+## The invention of motorik beat
 
 ### Innovation of linear rhythm
 
@@ -71,7 +71,7 @@ This beat influenced later techno, post-punk, and even modern electronic music.
 
 ---
 
-## デビュー作『NEU!』と音響的実験
+## Debut work "NEU!" and acoustic experiments
 
 ### Minimalism and space construction
 
@@ -91,7 +91,7 @@ D --> E
 
 Although the album was not a commercial success at the time, it was considered a highly innovative work by some critics and musicians. In later years, it was sometimes described in the liner notes of reissues as ""sounds from the future.''
 
-> ""NEU!'' is a work designed not to change the sound, but to create an auditory experience itself.
+> ""NEU!'' is a work that does not design changes in sound, but the auditory experience itself.
 
 ---
 
@@ -107,7 +107,7 @@ There are some interesting anecdotes surrounding this production process. Normal
 
 <div class="mermaid">
 graph TD
-A[既存音源] --> B[速度変更]
+A[Existing sound source] --> B[speed change]
 B --> C[pitch change]
 B --> D[Texture change]
 C --> E[new songs]
@@ -132,7 +132,7 @@ The songs in the second half in particular had a roughness similar to later punk
 
 <div class="mermaid">
 graph LR
-A[Rother side] --> B[静的・旋律的]
+A[Rother side] --> B[static/melodic]
 C[Dinger side] --> D[dynamic/destructive]
 B --> E[contrast structure]
 D --> E
@@ -176,7 +176,7 @@ timeline
 
 ---
 
-## 結論——NEU!が提示した未来
+## Conclusion——The future presented by NEU!
 
 ### Redefining musical time and structure
 

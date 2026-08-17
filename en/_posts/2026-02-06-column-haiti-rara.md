@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Historical origins of Lala
+## Chapter 1 Historical origin of Lala
 
 The origin of lala is closely tied to the deep layers of Haitian society that was formed between the 18th and 19th centuries. In Saint-Domingue during the French colonial period, people brought from various parts of Africa maintained their own religious rituals and musical culture. Although these traditions were suppressed under plantation control, they were inherited in fragments through nightly gatherings and festivals.
 
@@ -70,7 +70,7 @@ Religious aspects differ from region to region, and even within the same rara, t
 
 ## Chapter 3 Instrumentation and Acoustic Structure
 
-Lara's defining feature is the metal wind instrument vaksen. A polyrhythm is formed by blowing a long tube made of bamboo or metal, with multiple players playing single notes. Added to this are drums, maracas, and metal percussion instruments.
+Lara's defining feature is the metal wind instrument vaksen. A long tube made of bamboo or metal is blown, and multiple players play single notes to form a polyrhythm. Added to this are drums, maracas, and metal percussion instruments.
 
 The vaxin is not so much a melodic instrument as a device for building layers of sound. Each player plays a different pitch and rhythm, creating an overall undulating sound. Music is not written into musical scores, but is inherited through physical memory.
 
@@ -98,7 +98,7 @@ Under the dictatorship, Rara marches were sometimes subject to surveillance, but
 
 ## Chapter 5 Regional differences and diversity
 
-Even within Haiti, the style of rara varies greatly depending on the region. In urban areas, there is a tendency for the formations to become larger and the volume to be louder. On the other hand, in rural areas, there is a strong religious ritual, and the relationships between the participants are close.
+Even within Haiti, the style of rara varies greatly depending on the region. In urban areas, there is a tendency for the formations to become larger and louder. On the other hand, in rural areas, there is a strong religious ritual, and the relationships among the participants are close.
 
 Rara is also inherited in immigrant communities, and marches held abroad function as a place for identity confirmation. The form changes depending on the environment and legal system, but the core of the combination of walking and music remains the same.
 
@@ -121,7 +121,7 @@ Still, every year during Lent, Lara reappears on the streets. Even in situations
 | Years | Events |
 | ----- | --------------------- |
 | 18th century | African ritual music inherited in colonial society |
-| 1804 | Haitian Independence, Reorganization of Religious Culture |
+| 1804 | Haitian independence, religious and cultural restructuring |
 | 19th century | Rara as a Lenten procession |
 | 20th century | Role as political expression becomes obvious |
 | 21st century | Inheritance and reinterpretation in the diaspora |
@@ -132,7 +132,7 @@ Still, every year during Lent, Lara reappears on the streets. Even in situations
 
 ## Chapter 7 Spatial structure and physical sensation of marching
 
-The essence of Lala is "movement". The performers and participants do not remain on a fixed stage, but pass through roads, intersections, village boundaries, and the vicinity of cemeteries. Although these spaces have a functional meaning in everyday life, they take on a ceremonial meaning during Rara. The places through which the music passes are temporarily sanctified and become etched in the community's memory.
+The essence of Lala is "movement". The performers and participants do not remain on a fixed stage, but pass through roads, intersections, village boundaries, and the vicinity of cemeteries. These spaces have a functional meaning in everyday life, but during the Rara period they take on a ceremonial meaning. The places through which the music passes are temporarily sanctified and become etched in the community's memory.
 
 What is important in marching is acoustic continuity rather than visual order. Even if the ranks are disorganized, the march will continue as long as the sound does not break up. Participants rely on sound to determine their location and synchronize their bodies. For this reason, in Lara, hearing is more central to spatial recognition than line of sight.
 
@@ -184,7 +184,7 @@ Since the late 20th century, rara has been reinterpreted as a musical genre that
 
 However, the recorded Lala is only part of the original experience. Music, separated from walking, ambient sounds, and accidental events, cannot escape being a fragment of ritual.
 
-> Lala is music that, even though it has been categorized as a genre, has not completely established itself.
+> Even though Lala has been categorized as a genre, it is still music that has not completely established itself.
 
 ---
 

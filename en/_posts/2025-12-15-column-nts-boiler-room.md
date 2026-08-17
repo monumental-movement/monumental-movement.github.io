@@ -135,7 +135,7 @@ flowchart TD
 
 ## Final chapter: Changes in the music experience brought about by distribution
 
-NTS Radio and Boiler Room have expanded the framework of musical performance through live streaming. It was not just a relay, but a presentation of a new performance space that included the unknown, experimentation, and social context.
+NTS Radio and Boiler Room have expanded the framework of music performance through live streaming. It was not just a relay, but a presentation of a new performance space that included the unknown, experimentation, and social context.
 
 > "Live streaming culture has transformed music from a fixed work to a shared process."
 
@@ -158,9 +158,9 @@ This can be regarded as "recordable movement."
 
 Traditionally, there was a distinction between music production in the studio and performance on-site. However, in a live streaming environment, this distinction becomes blurred. Homes, temporary spaces, public facilities, studios with no audience, etc. become spaces for production and performance at the same time.
 
-On NTS, it has been confirmed that there are many cases in which material in the middle of production or unfinished sound sources is played as is in the program. Boiler Room also occasionally releases live sets that are close to rehearsals.
+On NTS, it has been confirmed that there are many cases in which material in the process of being produced or unfinished sound sources is played as is in the program. Boiler Room also occasionally releases live sets that are close to rehearsals.
 
-> "The disappearance of studios and locations freed music from 'preparation'."
+> "The disappearance of studios and locations freed music from 'preparation'"
 
 ---
 
@@ -176,7 +176,7 @@ This is more a result of changing listening conditions in the distribution envir
 
 DJs at NTS and Boiler Room are not just music selectors. He plays multiple roles as a sound source manager, editor, improviser, and storyteller.
 
-Particularly on NTS, DJs create musical archives by continuing their programs over long periods of time. This accumulation functions as an individual's musical history.
+Particularly on NTS, DJs create musical archives by continuing their programs over long periods of time. The accumulation functions as a personal musical history.
 
 > "DJ sets are fragmentary records of personal history"
 
@@ -184,7 +184,7 @@ Particularly on NTS, DJs create musical archives by continuing their programs ov
 
 ## Supplementary Chapter 5 Video Intervention and Refusal
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference directly affects the direction of performance.
+While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
 
 When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
 
@@ -196,7 +196,7 @@ Improvisation is not chaotic. Live streaming artists design improvisations based
 
 Unknownness appears as controlled uncertainty rather than pure chance.
 
-> "Improvisation is not about losing control, but about resetting the range of control."
+> "Improvisation is not the loss of control, but the resetting of the range of control."
 
 ---
 

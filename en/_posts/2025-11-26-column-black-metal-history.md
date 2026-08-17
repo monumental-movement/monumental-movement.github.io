@@ -112,9 +112,9 @@ The focus was on young Norwegian underground musicians.
 * Establishing lo-fi recording as "aesthetics"
 *Tremolo riff
 * Scream Vo
-* Expression of "ice wasteland" through repetition and speed
+* Expression of "Ice Wasteland" through repetition and speed
 * Corpse Paint
-* Nature view of winter, forest, and solitude
+* Natural view of winter, forest, and solitude
 
 ## ■ Representative band
 
@@ -210,7 +210,7 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 * Minimal structure of the riff
 * Faster rhythm (especially 1985-87)
 * The melody line is reminiscent of Sweden's unique "chill" and "humidity" and is directly connected to subsequent movements.
-* In the 1990s, they transitioned to the Viking metal period, going beyond the scope of black metal to recreate Norse mythology aesthetics.
+* In the 90's, they transitioned to the Viking metal period, and went beyond the scope of black metal to recreate Norse mythology aesthetics.
 
 ---
 
@@ -219,11 +219,11 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 **Major works: *Deathcrush* (1987), *De Mysteriis Dom Sathanas* (1994)**
 
 * The member composition, incidents, and ideology are all symbols of the second wave of black metal.
-* Dead (Per Ohlin)'s stage performance (corpse make-up, raw meat, etc.)
-**A decisive event that brought ritual elements of "death and inhumanity" into black metal**.
+*Dead (Per Ohlin)'s stage performance (corpse make-up, raw meat, etc.)
+**A decisive event that brought ritual elements of "death and inhumanity" into black metal.
 * Euronymous is based in Helvete (a record store in Oslo).
-**Formation of a black metal inner circle (close small community). **
-* Later gained worldwide attention for the Euronymous murder case (1993) and the church arson incident.
+** Forming a black metal inner circle (a small, close community). **
+* Later received worldwide attention for the Euronymous murder case (1993) and the church arson incident.
 
 ---
 
@@ -233,7 +233,7 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 Major works: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * The music aims for thorough minimalism,
-**A style that aims to create a trance-like nature and the collapse of the sense of time through repetition**.
+**A style that aims to create a trance-like nature and the collapse of one's sense of time through repetition**.
 *Continued to make a strong statement in the Norwegian cultural and religious debate in the early 1990s,
 Due to excessive media coverage, black metal's ""dangerous image'' was established.
 * After the incident (murder of Euronymous) and arrest, Burzum's sound source became more ambient-oriented.
@@ -251,7 +251,7 @@ Due to excessive media coverage, black metal's ""dangerous image'' was establish
 * Vertical guitar wall
 * Monotonic hi-hat and snare hits
 * Extremely light base
-becomes the definitive version of the "sound of Scandinavian black metal" = "cold sound."
+is the definitive version of the "sound of Scandinavian black metal" = "cold sound."
 
 ---
 
@@ -265,7 +265,7 @@ A pioneer who expanded black metal to orchestral sound**.
 
 ---
 
-### **Immortal (Norway): An original arctic mythology**
+### **Immortal (Norway): Unique arctic mythology**
 
 **Major works: *Battles in the North* (1995), *At the Heart of Winter* (1999)**
 
@@ -352,7 +352,7 @@ Each style has been subdivided and led its global expansion.
 
 — Major events + list of masterpieces by year —**
 
-Below is a **fact-based timeline**. Incidents and works are based on the year of official release/occurrence.
+Below is a **fact-based timeline**. Incidents and works are based on the year of official release and year of occurrence.
 
 ---
 

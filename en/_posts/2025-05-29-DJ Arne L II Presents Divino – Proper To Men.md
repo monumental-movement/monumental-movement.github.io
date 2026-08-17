@@ -18,7 +18,7 @@ Arne Leistikow, also known as DJ Arne L II, is a DJ and producer from Germany.
 "Proper To Men" is a hard house/hard trance track released by the German label Deep Mission Trance in 2000.
 
 The first track on Side A is a remix by disco project C.O.P. Project.
-The second track on side A is a remix by Jan Miesner & Lars Böge's duo Phantom Sheriffs.
+The second track on Side A is a remix by Jan Miesner & Lars Böge's duo Phantom Sheriffs.
 
 #### Tracklist
 ```md

@@ -18,7 +18,7 @@ title: '[Column] Avant-Garde Jazz—a movement that dismantled structure and red
 
 ## Prologue: The moment when jazz stepped into the "unknown"
 
-Text: mmr｜Theme: On the essence of Avant-Garde Jazz, which is often distanced from others as a music of solution.
+Text: mmr｜Theme: The essence of Avant-Garde Jazz, which is often shunned as difficult music
 
 
 In the mid-20th century, jazz seemed like a mature music. There were distinct styles: swing, bebop, and hard bop, and a shared language of chord progressions, time signatures, and solo structures. However, in the late 1950s, a movement began to doubt this very premise, quietly but surely. Does music really need to follow harmony and form? How free can improvisation be? The movement that would later be called ""Avant-Garde Jazz'' was born from these questions.
@@ -64,11 +64,11 @@ Ornette Coleman is the most emblematic of the starting point of avant-garde jazz
 
 ### Innovation of the early quartet
 
-Coleman's quartet, formed in the late 1950s, is characterized by its lack of a piano. This choice was made to weaken the harmonic control and allow each player to make melodic decisions directly. The composition of trumpet, alto saxophone, bass, and drums created a place where everyone could simultaneously become the subject of improvisation.
+Coleman's quartet, formed in the late 1950s, is characterized by its lack of a piano. This choice was made to weaken the harmonic dominance and allow each player to make melodic decisions directly. The composition of trumpet, alto saxophone, bass, and drums created a place where everyone could simultaneously become the subject of improvisation.
 
 ### Representative recording analysis: [The Shape of Jazz to Come (1959)](https://amzn.to/49KxOLD)
 
-In this work, the boundaries between theme and improvisation are extremely blurred. The opening melody is clearly presented, but immediately after that each player develops an independent melodic line. What is important is that despite the absence of chord progressions, the performance as a whole maintains a sense of unity.
+In this work, the boundaries between theme and improvisation are extremely blurred. The opening melody is clearly presented, but immediately after that each player develops an independent melodic line. What is important is that despite the absence of chord progressions, the performance as a whole does not lose its sense of unity.
 
 Coleman"s alto saxophone makes frequent use of pitch jumps that cross keys, and phrases expand and contract like songs. The bass doesn"t stick to walking, but incorporates melodic movement, and the drums function more as a reaction device than a time signature. Here, the very concept of a rhythm section is being redefined.
 
@@ -117,13 +117,13 @@ Sun Ra is a person who liberated avant-garde jazz from the framework of music an
 
 ### A community called Arkestra
 
-The Sun Ra Arkestra did not have a fixed composition, and the number of members and instrumentation changed depending on the period. This fluidity is directly connected to his musical philosophy, which centers on collective improvisation. Individual performances are free, but the overall performance maintains a sense of ritual unity.
+The Sun Ra Arkestra did not have a fixed composition, and the number of members and the composition of instruments changed depending on the period. This fluidity is directly connected to his musical philosophy, which centers on collective improvisation. Individual performances are free, but the overall performance maintains a sense of ritual unity.
 
 ### Representative recording analysis: [The Magic City (1966)](https://amzn.to/3LGlHWG)
 
 In this recording, tonality and meter have little meaning. Fragmented phrases, noise-like sounds, and sudden group performances appear alternately. What is important is that the music does not progress linearly.
 
-The repeated short motifs change the listener's sense of time and lead the music into a cyclical experience. Improvisation functions as a collective ritual rather than a display of individual skill.
+Repeated short motifs change the listener's sense of time and lead the music into a cyclical experience. Improvisation functions as a collective ritual rather than a display of individual skill.
 
 ### Cosmic thought and musical structure
 
@@ -145,7 +145,7 @@ The characteristics of European improvisation are its handling of tone and space
 
 ## Social background: 1960s era
 
-The development of avant-garde jazz cannot be separated from the social conditions of the 1960s. The civil rights movement, the anti-war movement, and the questioning of existing authority had a strong influence on the consciousness of musicians. This rejection of form and norms was as much a political gesture as it was a musical choice.
+The development of avant-garde jazz is inseparable from the social conditions of the 1960s. The civil rights movement, the anti-war movement, and the questioning of existing authority had a strong influence on the consciousness of musicians. This rejection of form and norms was as much a political gesture as it was a musical choice.
 
 Many avant-garde jazz performers distance themselves from commercialism and establish their own labels or cooperatives. This was a practice to protect the freedom of performance, and an action to question the very nature of music.
 
@@ -189,7 +189,7 @@ timeline
 
 Avant-garde jazz had a major influence on later free improvisation, noise, and experimental music. The idea of ​​freedom from form has been inherited in the fields of rock and electronic music as well.
 
-What is particularly important is that he positions improvisation as an expression that is not tied to a specific usage. This has implications that transcend musical genres.
+What is particularly important is that he positions improvisation as an expression that is not bound by a specific usage. This has implications that transcend musical genres.
 
 > Avant-garde jazz is an idea that continues to be updated even today.
 

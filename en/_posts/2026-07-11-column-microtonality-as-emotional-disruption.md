@@ -55,7 +55,7 @@ In this article, we will consider microtonality not just as a music theory, but 
 
 While broadening his horizons beyond music history to include psychoacoustics, neuroscience, and cultural anthropology, he approaches the question, "Why do we find this sound strange?"
 
-> Microtonal tone is not a special musical technique, but a mirror that reflects the assumptions of human hearing that we have assumed to be ""normal.''
+> Microtone is not a special musical technique, but a mirror that reflects the assumptions of human hearing that we have assumed to be ""normal.''
 
 
 
@@ -108,7 +108,7 @@ To solve this problem, Twelve Equal Temperament was designed to handle all keys 
 
 This was an engineering rather than an artistic invention.
 
-As a result of growing up surrounded by this convenience, we have come to think of it as ""natural.''
+As a result of growing up surrounded by convenience, we have come to think of it as ""natural.''
 
 ### Feelings created by music education
 
@@ -132,7 +132,7 @@ In other words, the feeling of discomfort is not an innate instinct, but a perce
 
 If you only look at Western music, it seems like the world is made up of twelve tones.
 
-However, if you broaden your horizons, that way of thinking becomes a minority.
+However, if you broaden your perspective, that way of thinking becomes a minority.
 
 Maqam developed in the Middle East, and raga developed its own melodic system in India.
 
@@ -176,7 +176,7 @@ That's why microtonality is both innovative and extremely traditional at the sam
 
 ### Hearing is not passive
 
-We tend to think that we just receive the sounds we hear.
+We tend to think that we just accept the sounds we hear.
 
 However, recent neuroscience has revealed that hearing is a highly active form of information processing.
 
@@ -190,7 +190,7 @@ This isn't just about memory.
 
 This is because the brain is preparing for the next sound in advance.
 
-Music is a temporal art, and each sound has meaning depending on its context.
+Music is a temporal art, and each sound has meaning depending on its surrounding context.
 
 In other words, we are not only listening to the present sounds, but are experiencing music while simultaneously processing past memories and future predictions.
 
@@ -294,7 +294,7 @@ These complex emotions may not be able to be expressed using only a stable tonal
 
 Microtonality has become an important vocabulary for delineating this ambiguous area.
 
-> "Strange sounds" do not exist universally, but are also the product of emotions shaped by each culture and experience.
+> "Strange sounds" do not exist universally, but are also products of emotions shaped by each culture and experience.
 
 ---
 
@@ -312,7 +312,7 @@ On the other hand, microtonality deals with minute differences in pitch itself.
 
 Even just one melody is enough.
 
-In other words, microtonality is a concept related to the position of a note, not the type of chord.
+In other words, microtonality is a concept related to the position of a note rather than the type of chord.
 
 ### There is a world inside a single sound
 
@@ -364,7 +364,7 @@ Twelve-tone technique, atonal music, electronic music, aleatory music.
 
 In the 20th century, attempts to redefine music itself occur all over the world.
 
-Amid this trend, attention was once again drawn to the vast world of pitches that extend beyond twelve equal temperament.
+Amid this trend, attention was once again drawn to the vast world of intervals that extend beyond twelve equal temperament.
 
 ### Microtones did not create "new sounds"
 
@@ -396,7 +396,7 @@ As electronic music became more popular, these constraints became even smaller.
 
 Computers are not limited by the number of keyboards.
 
-Because it was possible to freely generate any frequency, microtones became a more familiar expression than before.
+Because any frequency can be freely generated, microtones have become a more familiar expression than before.
 
 > What experimental music sought was not unusual sounds, but the question itself, ""What is sound?''
 
@@ -450,7 +450,7 @@ gentle detune.
 
 Slight misalignment of multiple oscillators.
 
-These are very common features in modern synthesizers.
+These are very common features on modern synthesizers.
 
 Every time we listen to electronic music, we naturally accept microtonal fluctuations.
 
@@ -466,7 +466,7 @@ In other words, microtonality is not a special experiment, but one of the basic 
 
 When many people hear Angine de Poitrine's work for the first time, they try to follow the songs.
 
-However, like traditional pop songs, trying to find the lyrics, chorus, and clear melody can be confusing.
+However, like traditional pop music, trying to find the lyrics, chorus, and clear melody can be confusing.
 
 In many of their works, changes in texture and space are more important than the melody.
 
@@ -502,7 +502,7 @@ On stage, the work as a whole comes to the fore rather than the individual perfo
 
 This attitude also applies to acoustics.
 
-Instead of making each sound the center of attention, it lets you experience the entire environment.
+Instead of making each sound the main character, it lets you experience the entire environment.
 
 It"s not about who"s playing, it"s about what"s happening inside the auditory sense.
 
@@ -548,7 +548,7 @@ A pitch that was initially unsettling may eventually be accepted as a natural so
 
 This is not limited to experimental music.
 
-The same phenomenon is occurring in many genres, including jazz, contemporary classical music, electronic music, and folk music.
+The same phenomenon occurs in many genres, including jazz, contemporary classical music, electronic music, and folk music.
 
 In other words, ""difficult music'' is largely influenced by the amount of experience rather than ability.
 
@@ -612,7 +612,7 @@ Similarly, neither beautiful sounds nor unpleasant sounds are absolute.
 
 The history of music is also a history in which the ""normal'' has been updated many times.
 
-That"s why it"s no surprise that when you encounter new music, you don't understand it from the beginning.
+That"s why it"s no wonder that when you encounter new music, you don't understand it from the beginning.
 
 In fact, that sense of discomfort can sometimes be the gateway to new perceptions.
 
@@ -622,13 +622,13 @@ We live in an era where information that can be easily understood is sought afte
 
 But art isn't always like that.
 
-理解するまで時間がかかる作品。
+A work that takes time to understand.
 
 No matter how many times I listen to this work, I can't find the answer.
 
 Such music gives us different discoveries every time we listen to it.
 
-Microtonality is also one of the important elements that supports such musical experiences.
+Microtones are also one of the important elements that support such musical experiences.
 
 The initial sense of discomfort may not be a flaw in the work, but rather the listener's first step into a new world.
 
@@ -640,7 +640,7 @@ The initial sense of discomfort may not be a flaw in the work, but rather the li
 
 | Era | Events | Relationship with microtonality |
 |------|---------|----------------|
-| Ancient times | Diverse musical temperaments developed in each region | A wide range of intervals other than the twelve tones |
+| Ancient times | Diverse musical temperaments developed in each region | A wide range of intervals other than the twelve tones exist |
 | Medieval times to early modern times | Development of tonal music in the West | Standardization of temperament progresses |
 | 17th to 18th centuries | Twelve equal temperament spread | Established as a temperament suitable for modulation |
 | Early 20th century | Diversification of modern music | Microtonal composition in full swing |
@@ -666,10 +666,10 @@ timeline
 flowchart TD
 
 A["Listen to the sound"] --> B["The brain predicts the next sound"]
-B --> C["As expected"]
+B --> C["As predicted"]
 B --> D["Predictions are wrong"]
 
-C --> E["安心感・安定感"]
+C --> E["Sense of security and stability"]
 
 D --> F["attention"]
 F --> G["Uncomfortable feeling"]

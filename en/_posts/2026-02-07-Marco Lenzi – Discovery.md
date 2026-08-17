@@ -14,7 +14,7 @@ title: Marco Lenzi – Discovery
 
 
 
-Marco Lenziは、イタリア・ローマ出身のD／プロデューサー／レーベルオーナー。1980年代後半はロンドンのレーベルSilverfish RecordsとEukatech Recordsで活動し、自身のレーベルMolecular Recordingsを設立。
+Marco Lenzi is a D/producer/label owner from Rome, Italy. In the late 1980s, he worked with the London labels Silverfish Records and Eukatech Records, and established his own label, Molecular Recordings.
 
 "Discovery" is a Techno/Tech House track released by London label Access 58.
 

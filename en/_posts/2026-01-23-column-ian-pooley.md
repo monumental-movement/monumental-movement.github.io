@@ -50,12 +50,12 @@ In the early 1990s, Ian Pooley began producing in his home environment. At the t
 
 Around 1994, his work gradually gained attention among club DJs. The design philosophy of blending into the flow of the mix, without using flashy breaks or excessive samples, had a value different from that of instant hits.
 
-Pooley's songs are regarded as a "reliable middle ground", particularly in UK club culture. They can be placed naturally around peak and peak hours and do not collide with other trucks. It is this functionality that has made him a long-term supporter.
+Pooley's songs are regarded as a "reliable middle ground", particularly in UK club culture. They can be placed naturally around peak and peak hours and do not collide with other trucks. It is this functionality that makes him a long-term supporter.
 
 <div class="mermaid">
 graph LR
 A[Early 1990s European club culture] --> B[uk house]
-B --> C[Ian Pooley 初期作品]
+B --> C[Ian Pooley early works]
 C --> D[Establishment within DJ sets]
 </div>
 
@@ -79,7 +79,7 @@ The treatment of repetition is also distinctive. Although it sounds like the sam
 
 Ian Pooley's production environment was based on a hardware-centric configuration common to European club music producers in the 1990s. At this time, the mainstay of production was not computers, but the combination of physical equipment such as synthesizers, drum machines, samplers, and mixers.
 
-Pooleyの特徴は、特定の名機やブランドを前面に押し出す姿勢を取らなかった点にある。同時代には、TR-909やTB-303といった機材名そのものがスタイルを規定するケースも多かったが、彼はあくまで「機材は構造を成立させるための道具」であるという立場を崩さなかった。
+Pooley's distinctive feature is that he did not take the stance of pushing a specific famous machine or brand to the forefront. During his time, the names of equipment such as the TR-909 and TB-303 often defined the style, but he never wavered from his position that ""equipment is a tool to establish a structure.''
 
 Production is performed using a method that emphasizes real-time performance. Even when recorded using a sequencer, loops are not fixed; they are constantly modified by fader operations, muting, and effect processing. This was an attempt to bring the same sense of time as a club while being a studio.
 
@@ -95,7 +95,7 @@ For example, while producers heavily influenced by US house focused on emotional
 
 In the UK house scene, Pooley was somewhere between the mainstream and the underground. His production environment is neither overly experimental nor commercial. This moderation is what allows him to create long-lived songs.
 
-> Pooley's individuality was not so much the choice of equipment, but the way he used it.
+> Pooley"s individuality wasn"t so much the choice of equipment, but the way he used it.
 
 ---
 
@@ -123,7 +123,7 @@ DJs don't "play" songs, they "arrange" them. Pooley understood the premise deepl
 
 In the late 1990s, many house tracks focused on immediate effects and had a structure that elicited a reaction from the floor in a short period of time. Although these were highly effective temporarily, their frequency of use tended to decrease over the long term.
 
-それに対しPooleyの楽曲は、反応のピークを意図的に抑制している。そのため、DJはセット全体のダイナミクスを自ら設計することができ、楽曲は何度でも再利用可能な素材となった。
+Pooley's songs, on the other hand, intentionally suppress the peak of reaction. This allowed DJs to design the dynamics of the entire set themselves, and the songs became reusable material over and over again.
 
 ### Role in UK house DJ culture
 
@@ -131,7 +131,7 @@ For UK house DJs, Pooley's songs served as a cross-genre hub. Its flexibility ma
 
 As a result, Pooley's trucks continue to circulate quietly on the outside of fashion. This is one of the most ideal songs in DJ culture.
 
-> Ian Pooleyの音楽は、消費されるのではなく、使われ続けるために作られていた。
+> Ian Pooley's music was made to be used, not consumed.
 
 ---
 
@@ -149,14 +149,14 @@ timeline
     2000s : 継続的な制作活動
 </div>
 
-> Ian Pooleyは、クラブ音楽を静かに更新し続けている設計者である。
+> Ian Pooley is a designer who is quietly updating club music.
 
 ---
 
 ## Chronology
 
 Born in Mainz, Germany in 1973
-1990年代初頭　音楽制作を本格化
+Early 1990s: Full-scale music production
 1994 Early works attract attention in the club scene
 1997 Album "Meridian" released
 Continuing stable production activities since the 2000s

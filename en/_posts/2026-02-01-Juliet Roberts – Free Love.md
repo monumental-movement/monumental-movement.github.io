@@ -16,7 +16,7 @@ title: Juliet Roberts – Free Love
 
 Juliet Roberts is a UK jazz/rock/soul/house music singer who has been active since the 1980s. From 1984 to 1988, he was the vocalist for the jazz group Working Week, and around 1990 he collaborated with the British house group L.A. Mix on two albums.
 
-"Free Love" is a Garage House track released on the dance label Slam Jam Records in 1992.
+"Free Love" is a Garage House track released in 1992 on the dance label Slam Jam Records.
 
 #### Tracklist
 ```md

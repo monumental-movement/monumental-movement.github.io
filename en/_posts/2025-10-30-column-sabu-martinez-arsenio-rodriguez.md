@@ -45,11 +45,11 @@ color: #fff;
 ## **Chapter 1: The birth of Afro-Cuban - From the black earth and the Caribbean Sea**
 
 At the end of the 19th century, Cuba was coming to the end of its history as a Spanish colony.
-だが、独立戦争の喧騒の裏で、もうひとつの革命が進行していた――それが**音楽**である。
+However, behind the hustle and bustle of the War of Independence, another revolution was underway - that of music.
 Yoruba and Congolese ritual rhythms intersect with Spanish melodies, creating songs such as "son," "rumba," and "abakua."
 This created a multi-layered rhythmic structure.
 
-* **Religious elements: ** Ritual rhythms such as Santería's ""bata drum" and Congolese ""makuta" have become urban music.
+* **Religious elements: ** Festival rhythms have become urban music, such as Santería's ""bata drum" and Congolese ""makuta."
 * **Social factors:** After the abolition of slavery, an Afro-American community was formed in Havana, and the professionalization of black musicians progressed.
 * **Technical elements:** The standardization of the tres (three-string guitar) and conga made the later montuno structure possible.
 
@@ -62,7 +62,7 @@ It is against this background that a blind revolutionary named **Arsenio Rodríg
 ### "El Ciego Maravilloso (The Miraculous Blind Player)"
 
 Born in Havana, Arsenio lost his eyesight in an accident as a child.
-In exchange for this sense, he gained the supernatural ability to hear the "inner structure of rhythm."
+In exchange for this sensation, he gained the supernatural ability to hear the "inner structure of rhythm."
 
 ### His innovations:
 
@@ -110,7 +110,7 @@ His sound is connected to later Afro-spiritual jazz (Pharoah Sanders, Alice Colt
 
 When Arsenio moved to the United States in 1950 and started working in Harlem,
 Sabu had been doing sessions in the same city.
-Although their point of contact is not direct co-starring,
+Although their contact point is not a direct co-star,
 They were deeply intersected within the **Bronx-Harlem Afro-diaspora culture**.
 
 | Era | Arsenio Rodríguez | Sabu Martinez |

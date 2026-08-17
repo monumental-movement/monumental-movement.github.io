@@ -108,14 +108,14 @@ Lo-Fi Folk is characterized by a style that actively accepts the limitations of 
 - 4 track cassette MTR
 - Minidisc recorder
 - Early digital MTR
-- Cheap microphone similar to voice recorder
+- Inexpensive microphone similar to voice recorder
 - Homemade sound absorption treatment (blankets, bookshelves, curtains)
 
 ### ● Characteristic sound
 - Roundness of high frequencies due to cassette saturation
 - Existence of room noise due to quiet environment
 - Vocal super close sound
-- Subtle noise (string noise, floor rumble, clothing rustling)
+- Minor noises (string noise, floor rumble, clothing rustling)
 - Recording layout with a strong one-take feel
 
 ### 3-2. Lyric theme

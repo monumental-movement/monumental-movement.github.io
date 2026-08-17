@@ -24,7 +24,7 @@ Funk, hip-hop, Afrobeat, world music, free jazz, noise... Laswell's projects in 
 
 Because of his diversity, it was not easy to get a bird's-eye view of his activities at the time. Because individual works were fragmented and scattered, listeners were unable to grasp the ""whole picture.''
 
-However, the situation changed completely with the compilation album ""Deconstruction of the 80s''. This album is a compilation of the multi-genre, multi-project sound sources that Laswell was involved in in the 1980s, remastered and reconstructed.
+However, with the compilation album Deconstruction of the 80s, things changed completely. This album is a compilation of the multi-genre, multi-project sound sources that Laswell was involved in in the 1980s, remastered and reconstructed.
 In other words, it can be said that this compilation itself appeared as a ""completed form of deconstruction and reconstruction.''
 
 This article focuses on the recordings from this album and projects from that time, and follows the facts of how Bill Laswell & Friends deconstructed and reorganized the acoustics of the 1980s.
@@ -116,7 +116,7 @@ It will proceed as an artist-led "recomposition of acoustic culture."
 - Collaboration with Indian musicians such as Shankar, L. Shankar, Tabla Beat Science
 - Gambian griot's Foday Musa Suso and activities (Mandingo)
 - Promoting the fusion of African percussion instruments, jazz, and electro
-- Formed the base of Axiom label (1989~)
+- Formed the base of the Axiom label (1989~)
 
 ---
 

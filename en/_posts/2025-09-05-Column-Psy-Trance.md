@@ -14,7 +14,7 @@ title: '[Column] Psy-Trance history, masterpieces, and 10 recommended tracks'
 
 
 
-## Psychedelic trance (Psy-Trance) — A historical chronicle of psychedelic trance from its origins to the present and changes in equipment
+## Psychedelic Trance — A chronicle of chronology and changes in equipment from its origins to the present
 
 Text: mmr｜Theme: History of Psy-Trance from its origins to the present
 

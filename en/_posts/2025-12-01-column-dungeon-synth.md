@@ -64,7 +64,7 @@ As a result, the music is often described as ""a soundtrack without a movie," ""
 
 ---
 
-## ■ 2. History – from the earliest times to the present day
+## ■ 2. History ─ From the earliest times to the present day
 
 Below, we will summarize the important trends from the birth of the genre to the present.
 
@@ -85,7 +85,7 @@ At this time, the genre name had not yet been established, but expressions such 
 
 ### ● 2-3. Blank ~ Re-evaluation (2001–2010)
 Falling outside the mainstream of the metal scene, the genre remained within a small community until the mid-2000s.
-However, in the late 2000s, as early black metal began to be reevaluated, **Mortiis Era I was reissued** and began to receive renewed attention worldwide.
+However, in the late 2000s, as early black metal was reevaluated, **Mortiis Era I was reissued** and began to receive renewed attention worldwide.
 
 ### ● 2-4. Second wave (2010–2015)
 Changes in the Internet environment and the spread of Bandcamp were the deciding factors.
@@ -199,7 +199,7 @@ Adding a roughness of about 8 to 12 bits enhances the 90's feel.
 - Wow & Flutter
 - Noise (tape hiss)
 
-Many artists actually record their songs onto cassettes.
+Many artists actually record their songs on cassette.
 
 ### ■ EQ processing
 - **Reduce low (below 100Hz)** → Towards monaural/old equipment feel
@@ -276,7 +276,7 @@ Visual influence is extremely large and plays a role in complementing the worldv
 - **Fief (USA)**
 
 ## ● Modern day (2024–)
-- Significant multinationalization and fragmentation.
+- Significant multinationalization and segmentation.
 Themes such as Forest / Winter / Heroic / Cosmic Synth have increased.
 
 ---

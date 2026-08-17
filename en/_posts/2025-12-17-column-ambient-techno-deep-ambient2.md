@@ -16,7 +16,7 @@ title: '[Column] Ambient Techno / Deep Ambient 2'
 
 ## 1. Sequel theme setting
 
-文：mmr｜テーマ：音楽を聴くという行為を再定義する「深海的音響」について
+Text: mmr｜Theme: About "deep sea acoustics" that redefines the act of listening to music
 
 We treat Ambient Techno/Deep Ambient not as an ""acoustic genre," but as a ""practice that redesigns the act of listening itself." Based on the history of its establishment, sound technology, and contrasting structure that were covered in the first part, here we shift our focus to the production environment, listening environment, playback media, and how time is used.
 
@@ -27,7 +27,7 @@ We treat Ambient Techno/Deep Ambient not as an ""acoustic genre," but as a ""pra
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -38,15 +38,15 @@ color: #fff;
 
 ## 2. Design concept of long-term music
 
-Deep Ambient および Ambient Techno の重要な特徴の一つは、楽曲単位よりも「再生時間」を優先する点にある。10分、20分、あるいはそれ以上の持続は、展開不足ではなく設計上の要請である。
+One of the important features of Deep Ambient and Ambient Techno is that they prioritize "playback time" over individual songs. Sustaining for 10, 20, or more minutes is a design imperative, not a lack of deployment.
 
 When played over a long period of time, short-term stimuli and symbolic developments lose their meaning. Instead, subtle changes, fluctuations in density, and shifts in localization become the center of perception. This shows that music functions as an environment rather than information.
 
 ---
 
-## 3. ループと非ループの境界
+## 3. Boundary between loop and non-loop
 
-The loops in Ambient Techno/Deep Ambient are not a device to make you hear repetition itself. Rather, it is a device for artificially creating a state in which it appears that no change exists.
+The loops in Ambient Techno/Deep Ambient are not a gimmick to make you hear repetition itself. Rather, it is a device for artificially creating a state in which it appears that no change exists.
 
 There is no perfect loop; there is always some fluctuation. Opening and closing of filters, increase/decrease of noise components, length of reverberation tail. These minute differences are the only clues that give the listener a sense of the passage of time.
 
@@ -62,7 +62,7 @@ In highly improvised productions, the sound is not too controlled, leaving a sli
 
 ## 5. Dealing with silence and silence
 
-In Deep Ambient, silence is more than just a pause. The moment the sound disappears, reverberation and environmental sounds come to the foreground, and the listener's attention shifts to the outside.
+In Deep Ambient, silence is more than just a pause. The moment the sound disappears, reverberation and environmental sounds come to the foreground, and the listener's attention shifts to the outside world.
 
 For this reason, in many works, complete silence is avoided, and very faint sounds are sustained. What appears to be silence is actually filled with acoustics.
 
@@ -72,7 +72,7 @@ For this reason, in many works, complete silence is avoided, and very faint soun
 
 Ambient Techno / Deep Ambient's character changes greatly depending on the playback media. Large speakers, headphones and small devices. Each creates a different depth.
 
-In headphones, the physical pressure of the low frequencies is reduced, but the density of the internal space is increased. On the other hand, in speaker playback, the space itself becomes a resonator.
+In headphones, the physical pressure in the low frequencies is reduced, but the density of the internal space increases. On the other hand, in speaker playback, the space itself becomes a resonator.
 
 ---
 
@@ -114,7 +114,7 @@ In a streaming environment, music is easily skipped. However, deep-sea ambient m
 
 ---
 
-## 12. 前編との補完関係
+## 12. Complementary relationship with the first part
 
 While the first part dealt with acoustic structure and history, this article focuses on practice and usage. Although both are independent, they share the same design philosophy.
 
@@ -135,7 +135,7 @@ While the first part dealt with acoustic structure and history, this article foc
 graph TD
 A[the work] --> B[playback environment]
 B --> C[listening condition]
-C --> D[意識の変化]
+C --> D[change in consciousness]
 </div>
 
 ---

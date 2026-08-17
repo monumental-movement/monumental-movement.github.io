@@ -20,7 +20,7 @@ title: '[Column] The illusion of EDM: Celebrating and rebuilding in the digital 
 
 Text: mmr｜Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
 
-A flash of laser light splits the night sky, the bass shakes deep within its body, and countless arms raise in unison.
+A flash of laser light splits the night sky, the bass vibrates deep within its body, and countless arms raise in unison.
 The phenomenon called "EDM" was more than just a music genre, it was a celebration of the digital age.
 In the 2010s, cities around the world were reshaped by the sound. The desert of Las Vegas, the forests of Belgium, the bay of Tokyo.
 In this column, we will take a look at EDM's birth, transformation, and "beyond" from the intersection of sound, light, the body, and technology.
@@ -52,7 +52,7 @@ EDM was the ""festival architecture'' of the 21st century.
 Originally, the word EDM was more of a marketing term than a genre name.
 However, that ambiguity was a symbol of the times.
 It didn't matter if it was house, techno, or trance—what was important was the experience.
-Everyone has at least once believed in the illusion that one sound can shake the world.
+Everyone has believed at least once in the illusion that one sound can shake the world.
 
 ---
 
@@ -92,7 +92,7 @@ Everyone now knows these three initials.
 
 The stage is not just a set, but an **architectural installation**.
 A screen envelops the forest and fireworks weave the sky.
-The audience becomes "particles of light" and the sound and images are synchronized.
+The audience becomes "grains of light" and the sound and images are synchronized.
 EDM festivals were a new communal ritual created by technology.
 
 A sociologist would say this.
@@ -105,7 +105,7 @@ We live in an era of pseudo-religious experiences where everyone shares a heartb
 
 ### Ⅴ. The era of global capital and SNS
 
-EDM was accompanied by a "revolution in distribution."
+EDM was accompanied by a "revolution in distribution".
 SoundCloud, YouTube, Beatport.
 DJs from all over the world exchanged sounds with a single click.
 
@@ -113,7 +113,7 @@ In the late 2010s, EDM became a meme.
 The drop is cut on TikTok and the rhythm goes viral like a GIF.
 The Chainsmokers' ""Closer'' is a symbol of this.
 A DJ is both a producer and a **brand**.
-Logos, perfumes, NFTs, headphones—all have become "sound-related industries."
+Logos, perfumes, NFTs, headphones—all have become "industries surrounding sound."
 
 ---
 
@@ -140,7 +140,7 @@ EDM took root in Japan in earnest around 2013.
 When ULTRA JAPAN landed and ZEDD and Hardwell came to Japan,
 The sky over the bay was filled with light.
 
-In Japan, it was first introduced as a "festival" rather than a club.
+In Japan, it was first introduced as a ""festival'' rather than a club.
 This may have been an expression of their ""desire for community.''
 
 Yasutaka Nakata, Perfume, Ado——
@@ -166,7 +166,7 @@ EDM is at the same time a celebration of technology.
 
 ---
 
-### Ⅸ. 終章：EDM以後の音楽体験へ
+### Ⅸ. Final chapter: Towards a post-EDM music experience
 
 The term "EDM" may now seem like a relic of the past.
 But its legacy already permeates all genres.
@@ -220,7 +220,7 @@ flowchart TD
 | Avicii | *True* | 2013 | [Amazon](https://amzn.to/4q4A3zp) |
 | Swedish House Mafia | *Until Now* | 2012 | [Amazon](https://amzn.to/3Wx92Hl) |
 | David Guetta | *Nothing But the Beat* | 2011 | [Amazon](https://amzn.to/4q56bmL) |
-| ZEDD | *Clarity* | 2012 | [Amazon](https://amzn.to/3IGcyMz) |
+| ZEDD                | *Clarity*                | 2012  | [Amazon](https://amzn.to/3IGcyMz) |
 | Porter Robinson | *Worlds* | 2014 | [Amazon](https://amzn.to/48lgE77) |
 | The Chainsmokers | *Memories...Do Not Open* | 2017 | [Amazon](https://amzn.to/439Jh3x) |
 | Madeon | *Adventure* | 2015 | [Amazon](https://amzn.to/3J7dF7Z) |

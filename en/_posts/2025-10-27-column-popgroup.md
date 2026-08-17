@@ -61,7 +61,7 @@ It also permeated the white rock youth.
 
 It was in this cultural mix that the young people of The Pop Group grew up.
 At school, he listened to punk and funk, and at night he would hang out at sound systems in immigrant neighborhoods.
-They absorbed the very magnetic field of the city, where ""anger," ""mixed race," ""politics," and ""beat" were swirling.
+They absorbed the very magnetic field of the city, where ""anger," ""mixed race," ""politics," and ""Beat" were swirling.
 
 ---
 
@@ -105,16 +105,16 @@ It also overlaps with the prototype of "political dub."
 
 ## Chapter 4: Deconstruction and Rebirth - Chain of Post-Pop Groups
 
-1980年、The Pop Groupは突然解散する。  
+In 1980, The Pop Group suddenly disbanded.
 After that, each member takes a different path.
 
 - Mark Stewart: Collaborated with Adrian Sherwood as a solo artist and established **Industrial Dub**.
 - Gareth Sager and Bruce Smith: Formed **Rip Rig + Panic**.
 A young **Neneh Cherry** was also there.
-- Dan Catsis: He later became involved with Massive Attack and remained a cornerstone of Bristol music.
+- Dan Catsis: He remained at the foundation of Bristol music, later becoming involved with Massive Attack.
 
 This divergence gave rise to the diversity of the Bristol sound.
-Trip hop, dub, experimental music, political hip hop...
+Trip hop, dub, experimental music, political hip hop.
 The influence of The Pop Group is etched into all of them.
 
 ---
@@ -122,7 +122,7 @@ The influence of The Pop Group is etched into all of them.
 ## Chapter 5: Reassessment and revival in the 21st century
 
 The Pop Group has long been a cult figure.
-Since the 2000s, it has been reevaluated amidst the post-punk revival.
+Since the 2000s, it has been reevaluated amidst the flow of post-punk revival.
 Especially since 2005, following the **Gang of Four and Wire reunions**,
 They also resumed their activities in 2010. In 2015, he released his new work ""Citizen Zombie.''
 
@@ -133,8 +133,8 @@ For them, ""reunion" was not about nostalgia, but ""continuation of resistance."
 > ― Mark Stewart (1958–2023)
 
 Mark Stewart's death marked the end of an era.
-However, his voice still resonates even in a modern society covered with AI and surveillance capitalism.
-「抵抗のエコー」として鳴り続けている。
+However, even in a modern society covered with AI and surveillance capitalism, his voice still resonates.
+It continues to resonate as an "echo of resistance."
 
 ---
 
@@ -144,11 +144,11 @@ The seeds planted by The Pop Group would soon be passed on to other artists in B
 
 - **Massive Attack** - "Soundscape" themed around politics and urban darkness.
 - **Portishead** - Sublimating repressed emotions into sonic experiments
-- **Tricky** ― 低音と詩的暴力性の融合  
+- **Tricky** - A fusion of bass and poetic violence
 
 Although these artists directly seem to belong to different genres,
 At the root of all of this is a common ""musical spirit that resists society.''
-すなわち、**“The Pop Group的な倫理”＝音の抵抗**である。
+In other words, **""The Pop Group's ethics'' = sonic resistance**.
 
 ---
 
@@ -156,7 +156,7 @@ At the root of all of this is a common ""musical spirit that resists society.''
 
 The Pop Group
 He posed the questions, ""What is music?" and ""What can art do about politics?"
-彼らのサウンドは、今もその問いへの答えを拒否し続けている。
+Their sound continues to refuse to answer that question.
 
 What they left behind was not an answer, but the question itself.
 That is Bristol's greatest legacy.
@@ -189,8 +189,8 @@ timeline
 
 ## Reference discography
 
-| 年    | タイトル                                                | 備考                     | リンク |
-| ---- | --------------------------------------------------- | ---------------------- |
+| Year | Title | Notes | Link |
+| ---- | ------------------------------------- | ------------------------------------- |
 | 1979 | **Y** | Debut work. A fusion of experimental sound and social criticism. | [Amazon](https://amzn.to/4nmSqgA)] |
 | 1980 | **For How Much Longer Do We Tolerate Mass Murder?** | Second, more politically charged.           | [Amazon](https://amzn.to/3LttGWA)] |
 | 1980 | **We Are All Prostitutes** | A symbol of social agitation.        | [Amazon](https://amzn.to/4oC0FX5)] |
@@ -221,7 +221,7 @@ flowchart TD
 ## summary
 
 The Pop Group is a band that redefined music as a language of resistance.
-その姿勢はブリストルだけでなく、全世界のアンダーグラウンド文化に影響を与え続けている。
+That attitude continues to influence underground culture not only in Bristol but around the world.
 
 > "This is not entertainment. This is resistance."
 

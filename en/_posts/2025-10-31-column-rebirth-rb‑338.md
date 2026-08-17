@@ -19,7 +19,7 @@ title: '[Column] Make your equipment softer—The impact of ReBirthRB‑338'
 
 Text: mmr｜Theme: Re-thinking ReBirth not only as "innovation as a tool" but also as an opportunity for "changes in culture/expression/industrial structure", from prehistory to development background, technical characteristics, spread to music culture, industrial meaning, turning point and end, and today's legacy.
 
-In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is the ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
+In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
 This software presented the possibility of ""making those legendary equipment (Roland TB‑303, Roland TR‑808, Roland TR‑909) usable on your personal computer.''
 ReBirth bypassed the hurdles of obtaining hardware, the cost of maintaining it, and the difficulty of transporting and operating it, and introduced a new wave of ""democratization through software," which is why it was an event that could be called a ""shock".
 
@@ -44,7 +44,7 @@ color: #fff;
 Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among these, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalyst that changed the tone, performance style, and culture.
 
 ### Birth of TB‑303 and "acid"
-The TB‑303 was a bass line synthesizer released around 1981. Although it was originally designed as a ""equipment to imitate bass playing,'' it failed to fulfill its purpose in the early years and was a failure in the market, and it began to be distributed second-hand at a low price.
+The TB‑303 was a bass line synthesizer released around 1981. Although it was originally designed as ""equipment to imitate bass playing,'' it failed to fulfill its purpose in the early years and became a failure in the market, and it began to be distributed second-hand at a low price.
 However, in the late 1980s, in the context of club house/acid house, the TB-303's "distorted filter" and "grilling bassline" tones were rediscovered, and became the signature sound of acid house, as exemplified by Acid Tracks (Phuture).
 
 However, handling the TB-303 required unique habits and skill in setting the number of notes, accents, slides, and operating the step sequencer. Furthermore, it was not a piece of equipment that anyone could easily use, as there were few in circulation and the price was soaring.
@@ -54,7 +54,7 @@ Around the same time, the TR‑808 (early 1980s) and TR‑909 (mid-1980s) were g
 However, these equipment also had problems, and there were practical constraints such as maintenance, repair, sound stability, and transportation, which posed hurdles to their use.
 
 ### Signs of changes in the production environment
-In the 1990s, the performance of personal computers (PC/Mac) gradually improved, and MIDI/sequencer software/samplers began to become popular. As a result, an environment in which ""creating music on a computer'' was gradually becoming established.
+In the 1990s, the performance of personal computers (PC/Mac) gradually improved, and MIDI/sequencer software/samplers began to become popular. As a result, the environment of ""creating music on a computer'' was gradually becoming established.
 However, the culture of "owning the equipment" and "operating the hardware" was still the focus, and a production environment that consisted solely of software was not yet common.
 In this context, the bottleneck of ""the cost and effort of owning hardware and equipment'' became a barrier to production for creators who did not own or could not afford the equipment.
 
@@ -77,7 +77,7 @@ Let's sort out some of the characteristics that ReBirth had.
 
 ### Main features
 - Featuring 2 x TB-303, 1 x TR-808 (first edition), and later 1 x TR-909.
-- A "pattern selector" is included with each emulated device. This allows you to quickly switch between different patterns and avoids the trouble of reprogramming to play a different pattern, which was a hassle with the original hardware equipment.
+- A "pattern selector" is included with each emulated device. This allows you to quickly switch between different patterns, avoiding the trouble of reprogramming to play a different pattern, which was a hassle with the original hardware.
 - Integrated mixer, effects (delay, distortion, compressor) and pattern sequencer functions. Users were able to experience the flow of "construction → performance → output" within one software.
 - Expandability with MIDI/sync function and cooperation with other software (later compatible with ReWire).
 - Because the price and operating environment were relatively low, it was easily accessible to creators who could not own hardware equipment.
@@ -92,7 +92,7 @@ It is also interesting that this kind of "mod (user modification) culture" was b
 
 ### Technological limitations and skillful avoidance
 Furthermore, ReBirth was not a panacea either. PC processing power, sound card performance, latency (delay), and sonic reality (physical characteristics of analog circuits) were inferior in some respects to hardware equipment. For example, there are criticisms that it does not completely reproduce the "noise/habits/distortion" of the real TB-303.
-However, ReBirth had achieved the best balance at that time in terms of providing a ""sufficiently usable" quality and a ""cheap, easy, and integrated software environment." In fact, reviews say it's "a considerable software success story of 1997."
+However, ReBirth had achieved the best balance at that time in terms of providing a "sufficiently usable" quality while also providing a "cheap, easy to use, integrated software environment." In fact, reviews say it's "a considerable software success story of 1997."
 
 In this way, it can be said that ReBirth was not only a "technological innovation" but also a tool that "changed the user experience."
 
@@ -129,7 +129,7 @@ From the late 1990s to the 2000s, plug-in formats such as VST (Virtual Studio Te
 These industrial changes were also a turning point where music production software was positioned as ""equal to, or even better than, equipment.'' As a result, the software instrument/effects market has expanded and many companies have entered the market.
 
 ### Restructuring of production process/workflow
-More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording," but after ReBirth, a ""completely performed within the computer" flow has become a reality: ""Start up the software, create a pattern, synchronize MIDI and audio, and then output.''
+More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording", but after ReBirth, a ""completely done within the computer" flow has become a reality, ""start up the software → create a pattern → synchronize MIDI and audio → output''.
 This change was especially significant in the context of the "home/personal studio." By creating an environment in which space, equipment, and effort can be saved to some extent, the range of creators has expanded.
 
 ---
@@ -162,7 +162,7 @@ Therefore, it is meaningful to view the ""end" of ReBirth not simply as the end 
 Although ReBirth is now a tool of the past, its influence and legacy remains strong in today's music production and technology environment. Here, we will "reexamine" this question from several perspectives.
 
 ### Redefining ease and access
-What ReBirth demonstrated was the concept that ""you can express yourself without any equipment" and ""you can create sound with your own computer." This truly means "democratization of production access," and it also applies to the current cloud/mobile/plugin environments. For example, apps that make it easy to use synths on smartphones and subscription-based software musical instruments are an extension of this context.
+What ReBirth demonstrated was the concept that ""you can express yourself without any equipment" and ""you can create sound with your own computer." This truly means "democratization of production access," and it also applies to the current cloud/mobile/plugin environment. For example, apps that make it easy to use synths on smartphones and subscription-based software musical instruments are an extension of this context.
 By looking back at ReBirth, we can once again recall the idea that "anyone can start/a path of expression for those who don't have".
 
 ### From "ownership" to "access", from hardware to software
@@ -181,7 +181,7 @@ Furthermore, there are reports of a project to turn ReBirth into a hard controll
 ---
 
 ## Chronology: Major Milestones
-Below is a summary of the major chronology of ReBirth and the technological/cultural trends surrounding it. When posting, you can insert the table as is in Markdown format.
+Below is a summary of the major timelines of ReBirth and the technological/cultural trends surrounding it. When posting, you can insert the table as is in Markdown format.
 
 | Year | Events |
 |----|--------|

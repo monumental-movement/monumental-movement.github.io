@@ -62,7 +62,7 @@ This film can be said to have defined the intimate relationship between hard roc
 
 Global hard rock bands **AC/DC** and **KISS** have captivated audiences by incorporating car culture not only in their music but also in their performances.
 
-- AC/DC, as exemplified by songs such as ""Highway to Hell" and ""Thunderstruck," overlaid images of ""road," ""thunder," and ""running'' on rock music, directly linking music to the sensation of driving.
+- As typified by songs such as ""Highway to Hell" and ""Thunderstruck," AC/DC overlaid images of ""road," ""thunder," and ""running'' on rock music, directly linking music to the sensation of driving.
 - At KISS' live performance, the sound of a Harley engine echoed against the backdrop of flames, giving the audience an experience as if the stage itself had been transformed into an American road movie.
 
 This echoed the 1970s American "culture of speed," and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
@@ -83,10 +83,10 @@ The roar of passing cars and motorcycles was itself a musical experience, a ""re
 
 ## ■ Acceptance in Japan - Connection with Bosozoku culture
 
-This composition of ""hard rock x car/motorcycle culture'' was uniquely developed in Japan as well.
+This composition of "hard rock x car/motorcycle culture" was uniquely developed in Japan as well.
 Bosozoku, which appeared in Japanese youth culture from the late 1970s to the 1980s, had a similar spirit to American outlaw culture in terms of ""self-expression'' through engine sounds and noise, although they centered around domestically produced motorcycles rather than Harleys.
 
-Many Japanese hard rock fans and heavy metal enthusiasts incorporated motorcycles and modified cars as part of their lifestyle, and the resonance between music and motor culture was certainly alive and well in Japanese society. This can be said to be the result of America"s longing for "freedom" being superimposed on Japan"s "delinquent culture."
+Many Japanese hard rock fans and heavy metal enthusiasts incorporated motorcycles and modified cars as part of their lifestyle, and the resonance between music and motor culture was certainly alive and well in Japanese society. This can be said to be the result of America"s yearning for "freedom" being superimposed on Japan"s "delinquent culture."
 
 ---
 
@@ -156,7 +156,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 | Artist | Album | Release year | Features |
 |-------------|----------|---------|------|
 | Guns N" Roses | Use Your Illusion I & II | 1991 | A masterpiece that combines hard rock and balladry |
-| Metallica | Black Album | 1991 | Breaking through the boundaries between metal and rock with "Enter Sandman" |
+| Metallica | Black Album | 1991 | "Enter Sandman" breaks the boundary between metal and rock |
 | Foo Fighters | The Color and the Shape | 1997 | New generation rock anthem after grunge |
 | Audioslave | Audioslave | 2002 | Rage x Soundgarden crossover |
 | Velvet Revolver | Contraband | 2004 | Former GNR members' return to classic rock after the 90s |
@@ -208,7 +208,7 @@ The culture of Harley-Davidson and American muscle cars has permeated the Japane
 | Type | Model | Features |
 |--------|-------|------|
 | Muscle car | Dodge Charger R/T | Equipped with 426 HEMI engine, overwhelming presence |
-| Muscle car | Ford Mustang Mach 1 | Symbol of American culture in the 60s and 70s |
+| Muscle car | Ford Mustang Mach 1 | Symbol of American culture from the 60s to 70s |
 | Harley | Harley-Davidson Shovelhead | The heart of the wild heartbeat and custom culture |
 | Harley | Harley-Davidson Fat Boy | Frequently used in hard rock video works from the 90's onwards |
 

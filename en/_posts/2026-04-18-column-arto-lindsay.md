@@ -49,13 +49,13 @@ color: #fff;
 
 ### Childhood and cultural background
 
-Born in the United States, Lindsay spent much of her childhood in Brazil. Because his parents were missionaries, he became deeply immersed in the local culture. This experience became an important factor in determining his later musicality.
+Born in the United States, Lindsay spent much of her childhood in Brazil. Because his parents were missionaries, he was deeply immersed in the local culture. This experience became an important factor in determining his later musicality.
 
 The rhythmic fluctuations of Brazilian music, especially bossa nova and samba, the sound of Portuguese as a language, and the close relationship between the body and music. These feelings accumulate within him as natural sensations.
 
 The reason why he often sang in Portuguese rather than English in later years was due to the influence of this period.
 
-### 身体性としての音楽
+### Music as physicality
 
 One of the characteristics of Brazilian music is that sound is directly connected to the body. Rhythm is not just a structure; it is integrated with the movement of the body. Lindsay would carry this sensibility into his later experimental music.
 
@@ -77,7 +77,7 @@ This style fundamentally denied traditional rock values.
 
 ### The phenomenon of no wave
 
-ノー・ウェイヴは単なる音楽ジャンルではなく、アート、映画、パフォーマンスを横断する文化運動だった。リンゼイはその中で、音楽と身体、視覚表現の関係を探求していく。
+No Wave was more than just a musical genre, it was a cultural movement that intersected art, film, and performance. In doing so, Lindsay explores the relationship between music, the body, and visual expression.
 
 DNA's songs on No New York are still handed down as symbolic records of this movement.
 
@@ -171,7 +171,7 @@ timeline
     2000s : プロデュース・コラボ活動
 </div>
 
-His career has no consistent style. However, within these changes, there is always an axis of ""exploring the boundaries of sound.''
+His career has no consistent style. However, within these changes there is always an axis of ""exploring the boundaries of sound.''
 
 ### Changes in musical characteristics
 
@@ -209,26 +209,26 @@ The noise of no wave and the softness of Brazilian music. It is not easy to achi
 
 ### Suggestions for the future of music
 
-彼の活動は、音楽が単なるジャンルの集合ではなく、文化や身体、空間の交差点であることを示している。
+His activities demonstrate that music is not just a collection of genres, but an intersection of culture, the body, and space.
 
 In modern times, music is becoming increasingly diverse. A person like him gives us a hint to connect different elements.
 
-> 越境すること自体が、彼の音楽の本質である。
+> Crossing borders itself is the essence of his music.
 
 ---
 
-## 年表
+## Chronology
 
 <div class="mermaid">
 flowchart TD
-A[1953 Birth] --> B[幼少期 ブラジル]
-B --> C[1970s NY移住]
-C --> D[DNA結成]
+A[1953 Birth] --> B[childhood brazil]
+B --> C[1970s Moved to NY]
+C --> D[DNA formation]
 D --> E[Participating in No New York]
-E --> F[1980s ブラジル音楽接近]
+E --> F[1980s Brazilian music approach]
 F --> G[1990s Solo activity]
-G --> H[日本ノイズとの共振]
-H --> I[2000s コラボ・プロデュース]
+G --> H[Resonance with Japanese noise]
+H --> I[2000s Collaboration/Production]
 </div>
 
 

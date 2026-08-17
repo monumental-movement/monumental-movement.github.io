@@ -21,13 +21,13 @@ Text: mmr｜Theme: We didn't change music. Tracing the history of anarcho-punk c
 
 ### What was punk?
 
-1970年代後半、多くの人はパンクを「速くて荒々しいロック」と理解した。しかし、その定義だけでは説明できない存在がイギリスに現れる。
+In the late 1970s, many people understood punk to mean "fast, rough rock." However, something appears in England that cannot be explained by that definition alone.
 
 Crass.
 
 Rather than relying on record companies, they produced and distributed their own music, planned live shows, and sent out political messages. There are no giant lighting equipment or stars on stage. All members worked in the same position, and the band functioned more like a community than a band.
 
-その思想的な中心人物が、Penny Rimbaudである。
+The ideologically central figure is Penny Rimbaud.
 
 A drummer, poet, and thinker, he consistently believed that ""punk is not music, but a way of life.''
 
@@ -78,7 +78,7 @@ Penny Rimbaud was born Jeremy John Ratter (later using the stage name Penny Rimb
 
 His family was relatively wealthy and he received a traditional education.
 
-However, he reflected in his later writings that from an early age he felt uncomfortable with authority and hierarchical relationships.
+However, he reflected in his later writings that he felt uncomfortable with authority and hierarchical relationships from an early age.
 
 School education emphasized obedience, and art education also imposed certain values.
 
@@ -291,7 +291,7 @@ Even in interviews, we speak as a group rather than as individuals,
 
 At live performances, they focused more on images and messages than on stage production.
 
-This means that the idea of ​​denying authority was also reflected in the management methods.
+This means that the idea of ​​denying authority was directly reflected in the management methods.
 
 > Crass was an extremely rare musical group that focused on ""what to share" rather than ""who is at the center."
 
@@ -530,13 +530,13 @@ F --> G
 
 ## Crass Records──Not a record company, but an "infrastructure of thought"
 
-### We did not aim to deliver only our own works.
+### We didn't just deliver our own work.
 
 In the 1980s, Crass began to function as more than just a band, but a cultural network.
 
 At the center of this was **Crass Records**.
 
-A typical record company aims to make a profit, selecting works that will sell, advertising them, and expanding their distribution network.
+A typical record company aims to make a profit, selects works that will sell, advertises them, and expands their distribution network.
 
 But Crass Records had a different purpose.
 
@@ -560,7 +560,7 @@ Delivered directly to independent shops.
 
 Conducts mail sales.
 
-Fans introduce works to each other through word of mouth.
+Fans introduce each other's works through word of mouth.
 
 By accumulating these methods, a unique distribution network was formed.
 
@@ -600,7 +600,7 @@ In the early 1980s, the world was in the grip of the Cold War.
 
 The United States and the Soviet Union continued to build up their nuclear arsenals, and intermediate-range nuclear missiles were deployed in Europe.
 
-In the UK, Margaret Thatcher's government was born and promoted defense policy and strengthening the military.
+In the UK, Margaret Thatcher's government was born and promoted defense policy and strengthening military power.
 
 In response to this situation, many citizens participate in anti-nuclear movements.
 
@@ -642,7 +642,7 @@ military industry,
 
 financial capital,
 
-国家権力、
+national power,
 
 It contained a critique of mass consumption society.
 
@@ -683,7 +683,7 @@ graph TD
 
 A["Cold War"]
 B["Nuclear arms expansion"]
-C["反戦運動"]
+C["Anti-war movement"]
 D["Penny Rimbaud"]
 E["Crass"]
 F["How Does It Feel?"]
@@ -706,13 +706,13 @@ H --> G
 
 ## "Never-ending project" called Dial House
 
-### バンド解散後も続いた共同体
+### Community that continued even after the band disbanded
 
 Crass ended its activities in 1984.
 
 But Dial House didn't end there.
 
-Penny Rimbaudはその後も同地で生活を続け、多くの芸術家や研究者、音楽家を迎え入れた。
+Penny Rimbaud continued to live there and welcomed many artists, researchers, and musicians.
 
 The younger generation came,
 
@@ -722,13 +722,13 @@ produce works,
 
 Stay for a few days to a few weeks.
 
-こうした交流は数十年にわたって続いた。
+These exchanges continued for several decades.
 
 Dial House continued to exist as an ongoing cultural hub rather than an "old base of Crass."
 
 ### Why I continued to write and talk about books
 
-バンド解散後、Penny Rimbaudは執筆活動を本格化させる。
+After the band disbanded, Penny Rimbaud began her writing career in earnest.
 
 autobiography,
 
@@ -736,11 +736,11 @@ poetry collection,
 
 essay,
 
-思想書、
+thought book,
 
 Reading works.
 
-表現方法は変わっても、一貫していたテーマは「自分自身で考えること」だった。
+Although the methods of expression changed, the theme remained consistent: ""Think for yourself.''
 
 In his lectures and interviews,
 
@@ -750,23 +750,23 @@ Rather than "giving answers"
 
 I didn't change my attitude.
 
-そのため、Penny Rimbaudは単なる元バンドマンではなく、思想家や教育者としても評価されるようになる。
+As a result, Penny Rimbaud came to be evaluated not only as a former band member but also as a thinker and educator.
 
 ### I haven't left music.
 
 Even after Crass disbanded, Penny Rimbaud continued to make music.
 
-スポークンワード作品や実験音楽、ジャズ・ミュージシャンとの共演など、多様な表現を発表している。
+He has released a variety of expressions, including spoken word works, experimental music, and collaborations with jazz musicians.
 
-ドラムという楽器も続けながら、詩と即興演奏を組み合わせた作品を数多く残した。
+While continuing to play the drum as an instrument, he created many works that combined poetry and improvisation.
 
-これは、彼にとって音楽が商品ではなく、対話の方法であり続けたことを示している。
+This shows that for him music remained a method of dialogue, rather than a commodity.
 
-### Dial Houseが残したもの
+### Dial House's legacy
 
-今日、「共同生活」という言葉からは特定の思想集団を連想する人も少なくない。
+Today, many people associate the word ""communal living'' with a specific ideological group.
 
-しかしDial Houseは、そのような閉じた共同体とは異なっていた。
+However, Dial House was different from such a closed community.
 
 people can visit freely,
 
@@ -774,7 +774,7 @@ I was free to leave.
 
 What was important was not ""having the same ideas," but ""living together while recognizing each other's differences."
 
-この姿勢は、Penny Rimbaudの思想全体を象徴している。
+This attitude is emblematic of Penny Rimbaud's entire philosophy.
 
 <div class="mermaid">
 graph LR
@@ -858,7 +858,7 @@ communal space.
 
 Benefit Live.
 
-これらはCrassだけが生み出したものではないが、彼らはそれらを一つの実践として結び付け、多くの人々へ提示した。
+Although Crass was not the only one to create these, they combined them into a single practice and presented them to many people.
 
 ### Commonalities with the Internet era
 
@@ -866,13 +866,13 @@ In the 21st century, the environment for music production and information dissem
 
 Recording equipment is now available to individuals, allowing them to directly share their work with the world.
 
-SNSや動画配信サービスを利用すれば、大手メディアを介さず活動することも可能になった。
+By using SNS and video distribution services, it is now possible to be active without going through major media.
 
 With this change, Crass's ideas take on new meaning.
 
 Even if the technology changes,
 
-「自分たちの表現を自分たちで届ける」
+"Delivering our own expressions"
 
 That idea has not changed.
 
@@ -890,7 +890,7 @@ Penny Rimbaud is often referred to as the "drummer of Crass."
 
 Of course, that's not a mistake.
 
-しかし、それだけでは彼の活動の全体像は見えてこない。
+However, that alone does not give us a complete picture of his activities.
 
 he is also a poet
 
@@ -922,7 +922,7 @@ Creating an opportunity to think through the work.
 
 Creating a place for dialogue between people from different positions.
 
-それこそが芸術の重要な役割だと捉えていた。
+He believed that this was the important role of art.
 
 This attitude is the reason why Crass's works have not become one-sided advertisements and have attracted much discussion.
 
@@ -936,7 +936,7 @@ It was a way to use short words to reflect the contradictions in society and giv
 
 For this reason, Crass's lyrics often feature poetic structures and recitative rhythms.
 
-It"s not just a slogan, but one of the reasons why it"s praised as punk with literary elements.
+It"s not just a slogan, but one of the reasons it"s praised as punk with literary elements.
 
 ### Thoughts that do not aim for "perfection"
 
@@ -991,7 +991,7 @@ F --> G
 
 ### Impact on independent culture
 
-Nowadays, many musicians and creators create and publish their own works.
+Nowadays, many musicians and creators create and disseminate their own works.
 
 Raise funds through crowdfunding.
 
@@ -999,7 +999,7 @@ Sell ​​your work online.
 
 Operates an independent label.
 
-こうした活動は珍しいものではなくなった。
+Such activities are no longer uncommon.
 
 Behind this is the history of DIY culture that has been accumulated over many years.
 
@@ -1025,7 +1025,7 @@ Although the methods of practice have changed in modern times due to digital tec
 
 ### The impact continues in invisible ways
 
-Even if you don"t know Penny Rimbaud"s name, many people are familiar with the culture that influenced her.
+Even if you don"t know Penny Rimbaud"s name, many people are familiar with the culture influenced by her.
 
 A small live house.
 
@@ -1086,9 +1086,9 @@ mindmap
 | 1982 | "How Does It Feel (To Be the Mother of a Thousand Dead?)" released in response to the Falklands War. |
 | 1983 | Involved in anti-war direct action such as the "Stop the City" movement. |
 | 1984 | Crass disbanded. |
-| Late 1980s | Active mainly in writing, lectures, and spoken word works. |
+| Late 1980s | Active mainly in writing, lecturing, and spoken word works. |
 | 1990s | Collaboration with improvisational musicians and jazz musicians. |
-| Since the 2000s | Continuing to create, lecture, and publish based at Dial House. |
+| Since the 2000s | Continued creative work, lectures, and publishing activities based at Dial House. |
 | 2020s | While continuing his writing, reading, and music activities, he continues to talk about the history of DIY culture and anarcho-punk. |
 
 <div class="mermaid">
@@ -1213,7 +1213,7 @@ At the heart of these activities has always been the attitude of ""thinking for 
 
 Rather than accepting answers prepared by someone else, we ask our own questions, discuss them with our colleagues, and if necessary, recreate the culture itself with our own hands.
 
-Crass's work, his life at Dial House, his management of Crass Records, his participation in the anti-war movement, and his continued writing and speaking even after his disbandment were all extensions of that philosophy.
+Crass's work, his life at Dial House, his management of Crass Records, his participation in the anti-war movement, and his continued writing and speaking even after his disbandment were all extensions of that ideology.
 
 Nowadays, the idea of ​​""creating it ourselves and delivering it ourselves'' is no longer something special, such as self-release, independent labels, crowdfunding, self-publishing, and community management.
 

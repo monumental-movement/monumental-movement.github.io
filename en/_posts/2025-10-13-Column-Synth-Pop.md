@@ -60,7 +60,7 @@ This was a time when the word "future" still contained both hope and fear; it wa
 ## Chapter 2 UK edition: Dawn of the New Romantic
 
 In the early 1980s, young people dressed in eccentric makeup and fashion gathered at London's Blitz club.
-They were dubbed the "Blitz Kids" and created new icons such as Visage, Spandau Ballet, and Duran Duran.
+They were dubbed the "Blitz Kids" and created new icons like Visage, Spandau Ballet, and Duran Duran.
 What was playing here was the sound of ""New Romantic'' wrapped in electronic sparkle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Im3JzxlatUs?si=9L5V4yfDnF78Y_MT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -79,7 +79,7 @@ Synthpop was truly the ""aesthetics of loneliness'' of the 1980s.
 In America, Donna Summer and producer Giorgio Moroder's 1977 hit ""I Feel Love'' was a decisive turning point.
 Introducing a full electronic beat to a disco rhythm, the song transported the dance floor into the future.
 Prince continued this trend and created a fusion of funk and synth called the Minneapolis sound.
-Although his music is sexual, he finds a deep-blooded groove in the electronic sounds.
+Although his music is sexual, he finds a real groove in the electronic sounds.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ZqqvrWCs3Q?si=y-zm367WFHsR2Pdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -106,7 +106,7 @@ Ryuichi Sakamoto later said:
 
 ---
 
-When Perfume and Yasutaka Nakata emerged in the 2000s, that philosophy was revived in a new form.
+When Perfume and Yasutaka Nakata arrived on the scene in the 2000s, that philosophy was revived in a new form.
 The voice was artificial due to auto-tune and sequencing, but it certainly had the ""emotions of the digital age'' in it.
 They symbolized an era when being mechanical became cute.
 
@@ -144,10 +144,10 @@ Behind this is a continuous technological aesthetic from YMO to Perfume.
 ## Chapter 6 Technology and Emotions: When Machines Depict Humans
 
 Sequencer, sampler, autotune.
-These were not tools for ""accuracy," but brushes used to highlight ""human ambiguity."
+These were not tools for ""accuracy," but brushes for highlighting ""human ambiguity."
 Something mechanical can be emotional—that's the paradoxical charm of synthpop.
 
-In the 21st century, ""the aesthetics of imperfection'' is being reevaluated.
+In the 21st century, "the aesthetics of imperfection" is being reevaluated.
 Grimes" voice wavering, Charli XCX"s AI vocal processing, and Yaeji's blend of native languages.
 All of these prove that ""imperfect sounds'' convey humanity.
 As AI composition evolves, the "human artificiality" of synthpop may be the last romanticism in music.
@@ -188,7 +188,7 @@ As AI composition evolves, the "human artificiality" of synthpop may be the last
 
 ## Chapter 8 Conclusion: "Nostalgia of the future" told by electronic sounds
 
-Synthpop is both a "sound of the future" and a "sound of nostalgia for the past."
+Synthpop is both the "sound of the future" and the "sound of nostalgia for the past."
 Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
 Even now, as digital technology advances and AI begins to compose music, humans continue to search for ""self'' within the sounds of machines.
 

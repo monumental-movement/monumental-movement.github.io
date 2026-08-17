@@ -47,7 +47,7 @@ color: #fff;
 
 ### Accelerator born from the local scene in the early 2010s
 
-King Gizzard and the Lizard Wizard were formed in Melbourne in 2010. The central figure was Stu Mackenzie, and around him Ambrose Kenny-Smith, Joey Walker, Cook Craig, Lucas Skinner, and Michael Cavanagh joined, and the band expanded with a fluid composition.
+King Gizzard and the Lizard Wizard were formed in Melbourne in 2010. The central figure was Stu Mackenzie, and around him Ambrose Kenny-Smith, Joey Walker, Cook Craig, Lucas Skinner, and Michael Cavanagh joined, and the band expanded with a fluid structure.
 
 At the time, Melbourne was a hybrid of indie rock and psychedelic reinterpretation, with a small live house culture forming an extremely dense creative environment. In this environment, King Gizzard absorbed improvisation, prolificity, and a DIY spirit, forming the basis for producing multiple albums in a short period of time.
 
@@ -133,7 +133,7 @@ King Gizzard's live performance is another experimental space different from his
 
 Of particular note is the structure in which songs are connected live, and medley-like developments that span albums routinely occur. This symbolizes their "non-fixed view of work."
 
-Also, multiple instruments are changed on stage, and the roles of the members are not fixed. This allows the band to function not just as a performance unit, but as a "fluid sound system."
+In addition, multiple instruments are changed on stage, and the roles of the members are not fixed. This allows the band to function not just as a performance unit, but as a "fluid sound system."
 
 > Live performances are not complete reproductions, but "musical experiments that are redesigned on the spot."
 
@@ -145,10 +145,10 @@ Also, multiple instruments are changed on stage, and the roles of the members ar
 
 King Gizzard and the Lizard Wizard transcended the boundaries of indie rock and became a symbol of genre fluidity in contemporary music. Their influence extends beyond just musical style to production methods, release strategies, and artwork.
 
-Their presence is also leading to a redefinition of the album concept itself in the streaming era. In a music environment of short-term consumption, King Gizzard achieves "paradoxical sustainability through overproduction."
+Their presence is also leading to a redefinition of the concept of albums in the streaming era. In a music environment of short-term consumption, King Gizzard achieves "paradoxical sustainability through overproduction."
 
 They are also important in that they present a creative model that is not dependent on industrial structure through independent label management and independent production.
 
-> King Gizzard is an entity that continues to update not the music itself, but the way music is produced.
+> King Gizzard is an entity that continues to update not the music itself, but the "method of producing music".
 
 ---

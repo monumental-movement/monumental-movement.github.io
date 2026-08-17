@@ -70,7 +70,7 @@ Burning Man has long been a magnet for celebrities — entrepreneurs, artists, a
 
 ### Anecdote/Legend
 
-When it was relocated in 1990, a police ban on burning on beaches was a turning point, and the decision was made to move to the desert.
+When it was relocated in 1990, a police ban on burning on the beach was a turning point, and the decision was made to move to the desert.
 Burning Man
 
 An interesting story that the roots of "Google Doodle" are related to the founder's vacation announcement at Burning Man (the intersection of corporate culture and festivals).
@@ -89,7 +89,7 @@ Since the 2000s, giant "mutant vehicles" and sculptures made of fire have attrac
 ### Related books
 
 
-| Year | Magazine/Media | Notes/Relationship | Link |
+| Age | Magazine/Media | Notes/Relationship | Link |
 | ----: | --------------------------- | ------------------------ | ----------------- |
 | Books | *Burning Man: Art on Fire* (photo book) | A classic book that covers festival art | [Amazon](https://amzn.to/3VFwNge) |
 | Books | *Once Upon a Time in the Dust* (Roxane Jessi) | A travelogue that approaches the global Burning culture | [Amazon](https://amzn.to/4nv3MQw) |
@@ -272,7 +272,7 @@ However, in that year, his burning art ""Crude Awakening,'' which imitated a gia
 
 #### 2008: American Dream
 
-American Dream/Question for consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
+American Dream/Questions about consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
 
 ---
 
@@ -308,7 +308,7 @@ A re-examination and update of 1997's "Fertility". The theme is creativity, rebi
 
 Using the cargo cult (the gap between material culture and faith) as a motif, we re-examine modern consumer society, cargo distribution, and ritualization.
 
-Many camps and structures express the gap between the ""material being worshiped" and the ""gift economy."
+Many camps and structures express the gap between ""the material being worshiped" and the ""gift economy."
 
 ---
 
@@ -342,7 +342,7 @@ With the theme of reconstructing ceremoniality and ceremoniality, emphasis is pl
 
 #### 2018: I, Robot
 
-The theme is robots, machines, artificial intelligence, and autonomy. Many works featuring cyberpunk style, mechanical structures, and interactive robotics appear.
+The themes are robots, machines, artificial intelligence, and autonomy. Many works featuring cyberpunk style, mechanical structures, and interactive robotics appear.
 
 ---
 
@@ -356,7 +356,7 @@ Focusing on metamorphosis, metamorphosis, and transformation, dynamic change, ma
 
 #### 2020: The Multiverse
 
-Originally, the theme was the multiverse concept. However, due to COVID-19, the local festival was canceled. Exploring development in virtual/online space.
+Originally, the theme was the multiverse concept. However, due to COVID-19, the local festival was canceled. Exploring development in virtual space/online space.
 
 ---
 
@@ -370,7 +370,7 @@ A hybrid/virtual/physical fusion approach with the theme of "reflection and refl
 
 #### 2022: Waking Dreams
 
-With the theme of awakening and awakening, the composition was created with an awareness of the fluctuations between dreams and reality and the awakening perspective.
+With the theme of awakening from dreams and awakening, the composition was created with an awareness of the fluctuations between dreams and reality and the awakening perspective.
 
 ---
 

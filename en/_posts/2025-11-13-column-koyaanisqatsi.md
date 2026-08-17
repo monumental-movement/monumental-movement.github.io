@@ -125,7 +125,7 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 | Close-up of the face | Chorus and deceleration | Questions about the recovery of humanity |
 | Collapsing Rocket | Silence and Decay | End of Civilization and Rebirth |
 
-As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the image.
+As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the video.
 
 ---
 
@@ -148,7 +148,7 @@ This work is not just a movie, but has become something that can be called an ""
 <div class="mermaid">
 
 graph TD
-A[nature] -->|破壊・消費| B[City]
+A[nature] -->|destruction/consumption| B[City]
 B -->|Excess/speed| C[machine society]
 C -->|collapse| D[silence]
 D -->|Rebirth/Meditation| A
@@ -160,7 +160,7 @@ D -->|Rebirth/Meditation| A
 
 ---
 
-## Chapter 7: Musical Analysis -- Change in Repetition
+## Chapter 7: Musical Analysis - Change in Repetition
 
 Glass' compositional technique, ""Additive Process,''
 It has a structure in which the number of notes gradually increases or decreases within a phrase.
@@ -169,7 +169,7 @@ example:
 "123 → 1234 → 12345 → 2345 → 345"
 
 These minute changes create the illusion of time, where the object is moving even though it is stationary.
-This perfectly corresponds to the sense of time in slow motion and time-lapse movies.
+It perfectly corresponds to the sense of time in slow motion and time-lapse movies.
 
 ---
 

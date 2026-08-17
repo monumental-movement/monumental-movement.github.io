@@ -29,7 +29,7 @@ In the late 2000s, when Napster and YouTube became popular, anime clippings and 
 
 ### From the mountain pass to simulation —— Riders in the digital space
 The mountain pass depicted in "Initial D" is a real mountain pass in Gunma, but since the 2000s, Eurobeat has been connected to a gaming culture that can be called a "digital mountain pass."
-Eurobeat naturally flowed into arcade games such as ""Initial D Arcade Stage" and ""Wangan Midnight," as well as the home game ""Gran Turismo'' and online racing communities. The high-speed beat is not just background music that moves the car, but a catalyst that enhances the "virtual sense of acceleration" in the digital world.
+Eurobeat naturally flowed into arcade games such as ""Initial D Arcade Stage" and ""Wangan Midnight," as well as the home game ""Gran Turismo" and online racing communities. The high-speed beat is not just background music that moves the car, but a catalyst that enhances the ""virtual acceleration feeling" of the digital world.
 
 ### Acceleration of internet culture and memes
 From the late 2000s to the 2010s, Eurobeat was absorbed into Internet meme culture with songs like "Deja Vu" and "Running in the 90s."
@@ -37,7 +37,7 @@ Amidst the trend of short-form videos, from YouTube Poop to MAD videos to TikTok
 This sense of speed and humor coexist functions as a ""rhythm of laughter that can be understood intuitively'' even for a generation that no longer knows Toge or anime.
 
 ### Inheritance of street culture and "running"
-On the other hand, Eurobeat continues to be "street music." Eurobeat, which is played on the Shuto Expressway late at night, at drift events, and at tuning car meetings, has seeped into the real racing culture through Initial D.
+On the other hand, Eurobeat continues to be "street music". Eurobeat, which is played on the Shuto Expressway late at night, at drift events, and at tuning car meetings, has seeped into the real racing culture through Initial D.
 Here, it functions not just as background music, but as a symbol to share the ""spirituality of driving." In other words, music survives not only as a recreation of the mountain pass, but also as a ""community password."
 
 ### To the generation that inherits the "memory of acceleration"
@@ -223,7 +223,7 @@ Drift : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (slip sound) </div>
 Even now, nearly 20 years after "Initial D" ended, Eurobeat continues unabated.
 It is music that travels through mountain passes, music that travels through the internet, and music that accelerates memory and the body.
 
-After all, Eurobeat is more than just a genre name.
+After all, Eurobeat is not just a genre name.
 **"A device for storing speed itself as music"**
 I think it is functioning as a.
 

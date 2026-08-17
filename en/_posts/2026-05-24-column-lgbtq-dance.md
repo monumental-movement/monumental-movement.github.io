@@ -82,7 +82,7 @@ In 1969, a confrontation with police at New York's Stonewall Inn was a turning p
 
 Patrons resisted frequent police raids. This event led to several days of protests, which led directly to the Pride movement that followed.
 
-What is important is that the stage for this rebellion was a "club."
+What is important is that the stage for this rebellion was a club.
 
 The music, dance, and nightlife space was already a hub for the LGBTQ+ community.
 
@@ -94,7 +94,7 @@ flowchart TD
     D --> E["Liberation Movement After Stonewall"]
 </div>
 
-> Before clubs were music spaces, they were places for isolated people to discover each other.
+>Before clubs were music spaces, they were places for isolated people to discover each other.
 
 ---
 
@@ -155,7 +155,7 @@ Rather, it goes underground and evolves in a more experimental direction.
 
 At Chicago's Warehouse club, DJ Frankie Knuckles began creating a new sound that fused disco, European electronic music, and drum machines.
 
-It is said that the name ""House'' took root from this club name.
+It is said that the name ""House'' became established from this club name.
 
 House music cannot be talked about separately from black gay culture.
 
@@ -299,7 +299,7 @@ Rather, music functioned as a device for sharing grief.
 
 There is a sense of loss and hope at the same time in house and garage music.
 
-In the repeated beats, people remembered their deceased friends and at the same time supported each other among the survivors.
+Amidst the repeated beats, people remembered their deceased friends and at the same time supported each other among the survivors.
 
 The dance floor was both a celebratory space and a memorial space.
 
@@ -330,7 +330,7 @@ At the same time, a sense of tension was created due to commercialization.
 
 ### How to maintain a "safe space"
 
-In recent years, the concept of "safe space" has become important in the club scene.
+In recent years, the concept of ""safe space'' has become important in the club scene.
 
 This is an attempt to eliminate discriminatory behavior and create an environment where everyone can dance with peace of mind.
 
@@ -342,7 +342,7 @@ It is also an understanding that club culture has historically been supported by
 flowchart TD
     A["Underground club"] --> B["Community formation"]
     B --> C["Music culture"]
-    C --> D["世界的拡散"]
+    C --> D["Global spread"]
     D --> E["Commercialization"]
     E --> F["Rethinking safe space"]
 </div>
@@ -351,17 +351,17 @@ flowchart TD
 
 In modern times, a diverse queer music scene has emerged, including not only house and techno, but also hyperpop, club deconstructed, and experimental clubs.
 
-What they all have in common is a sense of ""questioning the existing framework.''
+What they have in common is a sense of ""questioning the existing framework.''
 
 Genre, gender, body, identity. Blurring the boundaries remains at the core of club culture.
 
-> Modern club culture inherits the "blueprints of freedom" established by queer communities of the past.
+> Modern club culture inherits the ""blueprints of freedom'' established by queer communities of the past.
 
 ---
 
 ## Dance music reflects "society"
 
-Dance music has often been dismissed as ""music just for dancing.''
+Dance music has often been dismissed as ""music for just dancing.''
 
 But in reality, that history reflects the very structure of society.
 

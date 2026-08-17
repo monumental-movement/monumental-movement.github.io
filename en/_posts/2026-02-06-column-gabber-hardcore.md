@@ -19,7 +19,7 @@ title: '[Column] Gabba/Hardcore Techno - A history of rebellious dance music bor
 
 ## 1. Before hardcore - the birth of faster techno
 
-Text: mmr｜Theme: Using speed and distortion as weapons, we depict the history of Gabba Hardcore, the most radical and easily misunderstood dance music produced by European cities and youth culture in the 1990s, from its birth to its spread, divergence, re-evaluation, and spread to Japan, in a three-dimensional urban cultural history.
+Text: mmr｜Theme: Using speed and distortion as weapons, we depict the history of Gabba Hardcore, the most extreme and easily misunderstood dance music produced in European cities and youth culture in the 1990s, from its birth to its spread, divergence, re-evaluation, and spread to Japan, in a three-dimensional urban cultural history.
 
 In the late 1980s, Chicago house and Detroit techno traveled to Europe, receiving their own interpretations in each city. In Germany, there is an emphasis on minimal and mechanical repetition, while in England, breakbeats and rave culture are combined. Meanwhile, in the Netherlands, there was an unusual amount of interest in the ""hardness" and ""speed" of techno.
 
@@ -27,7 +27,7 @@ At the time, Dutch DJs didn't play imported American techno as it was, but inste
 
 This change was driven more by the field than by studio production. Parties in clubs and warehouses became testing grounds, and the audience's reaction directly determined the direction of the music. Immediate effectiveness began to be valued over refinement, and destructive power over architectural beauty.
 
->While techno tends towards futuristic sophistication, another vision of the future was chosen: ""runaway speed.''
+> While techno tends towards futuristic sophistication, another vision of the future was chosen: ""runaway speed.''
 
 ---
 
@@ -51,7 +51,7 @@ Rotterdam is a city that lost much of its center during World War II and was reb
 
 As a port city, Rotterdam had a high proportion of the working class, with many young people working night shifts and manual labor. Weekend parties were a place to release the tension of daily life, and music was sought for catharsis rather than healing.
 
-In the early 1990s, clubs around Rotterdam favored intentionally rough and aggressive tracks. Distorted kicks are treated as ""mass" rather than ""pitch," and a bass sound that hits the body directly is pursued. The feeling formed here would later become the core of the style known as Gaba.
+In the early 1990s, clubs around Rotterdam favored intentionally rough and aggressive tracks. Distorted kicks are treated as ""mass" rather than ""pitch," and the aim is to create a bass sound that feels like it hits the body directly. The feeling formed here would later become the core of the style known as Gaba.
 
 > Rotterdam"s Gabba was a direct translation of the city"s history of reconstruction and the rhythm of labor into sound.
 
@@ -63,15 +63,15 @@ From 1992 to 1994, gabba/hardcore techno rapidly became formalized. Behind this 
 
 Particular emphasis was placed on the production of the kick drum. By distorting, compressing, and layering existing samples, unique and destructive bass sounds are created. This process was very artisanal, and each producer had a subtle individuality.
 
-楽曲構造は極端に単純化される一方、音圧と反復によって強烈な没入感が作り出される。フロアでの体験が最優先され、家庭でのリスニングは二次的なものとされた。
+While the song structure is extremely simplified, the sound pressure and repetition create a strong sense of immersion. The on-floor experience was paramount, with home listening secondary.
 
 > Hardcore production was based more on actual experience than on music theory.
 
 ---
 
-## 4. ファッションと身体――ガバ・カルチャーの可視化
+## 4. Fashion and the body - Visualization of Gabba culture
 
-ガバ・ハードコアは、聴覚だけで完結する文化ではなかった。スキンヘッドや極端に短い髪型は、汗と熱のこもるフロアで実用的であり、同時に集団的アイデンティティを示す記号でもあった。
+Gabba Hardcore was not a culture that could only be defined by the sense of hearing. Skinheads and extremely short hairstyles were both practical on the sweaty, hot floor and symbols of collective identity.
 
 Sportswear and sneakers are the result of prioritizing functionality to allow people to continue dancing for long periods of time, and were formed without regard to trends in the fashion industry. Here, there was an aesthetic that was not ""for show" but ""for use."
 
@@ -81,57 +81,57 @@ The dance was jumping, and was characterized by movements in which the whole bod
 
 ---
 
-## 5. ロッテルダム vs アムステルダム――二つの価値観の衝突
+## 5. Rotterdam vs Amsterdam – a clash of two values
 
-オランダ国内でも、ロッテルダムとアムステルダムでは音楽的志向が大きく異なっていた。アムステルダムは国際都市としての側面が強く、ハウスやテクノも洗練された形で受容されていた。
+Even within the Netherlands, musical orientations were very different between Rotterdam and Amsterdam. Amsterdam was a strong international city, and house and techno were accepted in a sophisticated manner.
 
 Rotterdam's hardcore, on the other hand, functions as a reaction to such sophistication. Immediate effect and destructive power are prioritized over melody and atmosphere, and the standard is ""whether you can endure it" rather than ""whether you can dance it."
 
-この対立はメディアによって誇張され、両都市のシーンはしばしば対照的に語られた。しかし実際には、人の往来や影響は双方向であり、緊張関係そのものがシーンの活力となっていた。
+This conflict was exaggerated by the media, with scenes in both cities often portrayed in contrast. However, in reality, the flow of people and influence was bidirectional, and the tension itself was the vitality of the scene.
 
-> 二都市の差異は、ハードコアを孤立させるのではなく、逆にその存在感を際立たせた。
+> The differences between the two cities did not isolate hardcore, but rather accentuated its presence.
 
 ---
 
 ## 6. Criticism and misunderstanding--view from the outside
 
-ガバ・ハードコアは、その過激さゆえにしばしば誤解された。メディアは外見的特徴や一部の暴力的イメージを強調し、音楽的背景や内部の多様性を十分に伝えなかった。
+Gabba Hardcore was often misunderstood because of its extreme nature. The media emphasized external characteristics and some violent images, and did not sufficiently convey the musical background and internal diversity.
 
-As a result, entire genres came to be talked about with a single set of values, and were sometimes linked to social issues. However, internally, musical experimentation and detailed stylistic differentiation were progressing.
+As a result, entire genres came to be talked about with a single set of values, and were sometimes linked to social issues. However, internally musical experimentation and detailed stylistic differentiation were progressing.
 
 > The strength of the criticism shows the magnitude of the impact hardcore has had on society.
 
 ---
 
-## 7. 分岐と深化――1990年代後半から2000年代へ
+## 7. Branching and deepening--from the late 1990s to the 2000s
 
 After passing its commercial peak, hardcore quickly diverges. At the same time, there were styles that were moving in a bright and catchy direction, styles that were moving in a darker and more experimental direction, and styles that pursued speed itself to the limit.
 
 During this period, hardcore began to distance itself from the mainstream and reorganize itself as a more sustainable underground culture. Continuous activities by a core support base will become more important than large-scale events.
 
-> ハードコアは縮小ではなく、濃縮によって次の段階へ進んだ。
+>Hardcore has advanced to the next stage by enrichment, not reduction.
 
 ---
 
 ## 8. History of reception of GABA in Japan: import and reinterpretation
 
-日本にガバ／ハードコアが本格的に紹介されたのは1990年代半ばである。輸入盤レコードや雑誌記事を通じて、その存在は一部のテクノ愛好家に知られるようになる。
+Gabba/Hardcore was introduced in earnest to Japan in the mid-1990s. Its existence became known to some techno enthusiasts through imported records and magazine articles.
 
 At first, it received only limited support in the Japanese club scene due to its extreme nature, but the unique energy of hardcore gradually gave rise to unique interpretations. In the Japanese scene, there was a tendency to emphasize not only musicality but also artwork and performance.
 
-2000年代以降、日本独自のハードコア解釈が形成され、海外シーンからも注目される存在となる。ここでは単なる模倣ではなく、ローカルな感性との融合が行われた。
+Since the 2000s, a unique Japanese interpretation of hardcore has been formed, and it has attracted attention from overseas scenes as well. Here, it was not just imitation, but fusion with local sensibilities.
 
 > Its reception in Japan proved that Gaba is translatable as a culture.
 
 ---
 
-## 9. 再評価と現在――ハードコアの遺産
+## 9. Reappraisal and the Present: The Legacy of Hardcore
 
 Since the 2010s, 90s hardcore has been subject to re-evaluation. Elements that were once shunned because they were excessive have come to be seen as more of an element of sincerity.
 
 Gabba-like speed and distortion are taking on new meaning in the context of contemporary techno and experimental music. The former rebellion now serves as a reference point.
 
-> ガバ・ハードコアは、時代を超えて再解釈され続ける未完の文化である。
+> Gabba Hardcore is an unfinished culture that continues to be reinterpreted over time.
 
 ---
 

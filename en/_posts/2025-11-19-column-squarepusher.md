@@ -49,12 +49,12 @@ He received a classical jazz education and mastered complex rhythms and chords.
 ### 2.2 Influence of jazz fusion
 
 - Jaco Pastorius: polyphonic bass, improvisation
-- Weather Report: Complex Rhythm
+- Weather Report: Complex Rhythms
 - ELP: Electronic sound and live fusion
 
 ### 2.3 Encounter with electronic music
 
-After being exposed to Acid House and early techno, he started recording at home using Akai S1000 and TR-808/909.
+He was exposed to Acid House and early techno and started recording at home using Akai S1000 and TR-808/909.
 
 ---
 

@@ -50,7 +50,7 @@ color: #fff;
 
 From the end of the 1970s to the beginning of the 1980s, the post-punk music scene moved away from the conventional rock format and began to adopt more introspective and abstract forms of expression. The introduction of synthesizers and drum machines, minimalist structure, and emphasis on the bass range became the foundation for later dark wave sounds.
 
-Around the same time, interest in medieval music and religious music was revived, especially in Europe, and the groundwork was formed for attempts to connect contemporary music production with historical sound materials.
+Around the same time, interest in medieval and religious music was revived, especially in Europe, and the groundwork was formed for attempts to connect contemporary music production with historical sound materials.
 
 ### Late 1980s: Emergence of the prototype
 

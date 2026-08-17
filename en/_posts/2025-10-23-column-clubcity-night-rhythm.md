@@ -84,7 +84,7 @@ But at the same time, music became a means of social inclusion.
 
 The club"s architecture reconfigures the city"s soundscape.
 Bass sounds, laser beams, and smoke echo in the inorganic concrete space.
-They are both architectural devices and interfaces that connect the body and technology.
+They are both architectural devices and **interfaces that connect the body and technology**.
 
 The DJ booth is the ""conductor of the city," and the sound system is the ""nervous system of society."
 As technology advances, the form of clubs changes and so do the politics of sound.

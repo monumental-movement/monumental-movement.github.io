@@ -28,10 +28,10 @@ From the end of the 19th century to the beginning of the 20th century, Buenos Ai
 Centered around Spain and Italy, Eastern European, African, and indigenous cultures were mixed together, and work, poverty, and loneliness existed on a daily basis.
 
 Tango grew up on the "underside" of this city.
-It was danced not at the balls of high society, but in the courtyards of dockworkers' taverns, boarding houses, and brothels.
+It was performed not at the balls of high society, but in the courtyards of dockworkers' taverns, boarding houses, and brothels.
 Physical distance, line of sight, and improvisation were more important than musical sophistication.
 
-> Tango is a culture that has always started from the periphery, not the center of society.
+> タンゴは社会の中心ではなく、常に周縁から始まった文化である。
 
 ---
 
@@ -53,11 +53,11 @@ color: #fff;
 ## Social background of the birth of tango
 
 
-Argentina in the late 19th century experienced rapid economic growth and at the same time serious social divisions.
-The nation prospered through agricultural exports, but only a small portion of the landowning class benefited.
+Argentina in the late 19th century was experiencing rapid economic growth and at the same time serious social divisions.
+The country prospered through agricultural exports, but only a small portion of the landowning class benefited.
 
-As large numbers of immigrant men flocked to cities in search of jobs, the male-female ratio collapsed.
-As a result, a culture where men dance with each other and competitive dance styles naturally form.
+大量の移民男性が職を求めて都市に集まり、男女比は大きく崩れた。
+結果として、男性同士で踊る文化や、競争的なダンススタイルが自然に形成される。
 
 The lyrics of early tango were very different from today's romantic image.
 Crime, poverty, betrayal, unemployment, and the isolation of immigrants were told in direct terms.
@@ -74,7 +74,7 @@ The guitar, flute, and violin were the main instruments, and the bandoneon later
 At first, tango was strongly rejected by mainstream Argentine society.
 The reason for this was not the musical value, but the place where it was danced and the physical expression.
 
-Close postures, impromptu physical contact, and movements with sexual connotations were considered "vulgar."
+密着した姿勢、即興的な身体接触、性的含意を含む動きは「下品」と見なされた。
 Many newspapers and educational institutions denounced tango as a symbol of depravity.
 
 As a result, tango is excluded from formal settings and survives only in informal spaces.
@@ -100,7 +100,7 @@ Tango, which was once rejected, began to be reinterpreted as a ""national cultur
 
 ---
 
-## Golden Age and Popular Culture
+## 黄金時代と大衆文化化
 
 
 From the 1930s to the 1950s, tango entered its "golden age."
@@ -139,13 +139,13 @@ From the 1960s onwards, with the rise of rock and folk, tango fell out of the ce
 Urban dance halls declined and generational disconnection increased.
 
 Tango came to be seen as ""the music of the past" and ""the culture of our parents' generation."
-This evaluation temporarily broke the cultural continuity.
+この評価は一時的に、文化の連続性を断ち切った。
 
 > Decline is often incubation rather than extinction.
 
 ---
 
-## Conditions for revival
+## 再興の条件
 
 
 From the 1980s onwards, tango once again attracted attention.
@@ -180,7 +180,7 @@ Tango has once again become a ""mirror that reflects society.''
 
 <div class="mermaid">
 graph TD
-A[Established in the port area in the 1880s] --> B[early 1900s social exclusion]
+A[1880年代 港湾地区で成立] --> B[early 1900s social exclusion]
 B --> C[1910s European fashion]
 C --> D[1930s-50s Golden Age]
 D --> E[1960s Decline]
@@ -196,7 +196,7 @@ F --> G[21st century modern reinterpretation]
 
 
 Tango is not a completed culture.
-It is a living social phenomenon that changes shape every time the city and human relationships change.
+それは都市と人間関係が変わるたびに形を変える、生きた社会現象である。
 
 What its resurgence means is not a return to the past, but a response to the present.
 

@@ -25,7 +25,7 @@ Text: mmr｜Theme: Long-read column that connects subculture research and the te
 
 <hr>
 
-### 1950s：ビバップ〜ロカビリー――周縁の美学と「非同調」の作法
+### 1950s: Bebop ~ Rockabilly -- Aesthetics of the periphery and manners of "non-conformity"
 
 The late modernization of jazz (bebop to hard bop) was associated with late-night clubs, drugs, and the black bohemian lifestyle, forming an image of an intellectual outlaw that deviated from postwar norms centered on "work and discipline."
 
@@ -39,14 +39,14 @@ Rock and roll/rockabilly is a cross-border fusion of white working-class youth c
 
 ---
 
-**メカニズム**：人種・階級の境界をまたぐ音楽混淆＋夜間娯楽＝「道徳パニック」を誘発（Folk devils and moral panics:スタンレー・コーエン）。警察・学校・宗教団体の規制が、かえってシーンの結束を強める。
+**Mechanism**: Mixing of music that crosses racial and class boundaries + nighttime entertainment = inducing "moral panics" (Folk devils and moral panics: Stanley Cohen). Regulations by the police, schools, and religious groups actually strengthen the unity of the scene.
 
 
 <hr>
 
 ### 1960s: Mods vs. Rockers, Hippies, and Garage: Style Struggles and Counterculture
 
-英国モッズはテーラードのスーツ、スクーター、ソウル／R&B嗜好。ロッカーズは革ジャンとカフェレーサー。海辺のリゾートでの集団衝突は「若者不良化」の象徴に。
+British mods include tailored suits, scooters, and a taste for soul/R&B. Rockers are leather jackets and cafe racers. Group clashes at seaside resorts have become a symbol of the delinquency of young people.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OgtQj8O92eI?si=jxs01UU_-swQuxDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ Garage/protopunk is a DIY spirit and anti-commercialism. School gymnasiums and w
 
 ---
 
-**Mechanism**: A battle over the differentiation of fashion—what Hebdidge called "style appropriation." The media exaggerates violence and amplifies moral panic.
+**Mechanism**: A battle over fashion differentiation—what Hebdidge called "style appropriation." The media exaggerates violence and amplifies moral panic.
 
 
 <hr>
@@ -77,7 +77,7 @@ Punk (NY/UK) builds anti-establishment slogans and minimal capital infrastructur
 
 ---
 
-レゲエ／ダブはサウンドシステム文化と結びつき、移民コミュニティの自衛と誇りを担う。警察との緊張は頻発し、歌詞は制度的人種差別への抵抗を語る。
+Reggae/dub is associated with sound system culture and is responsible for the self-defense and pride of immigrant communities. Tensions with police are frequent, and the lyrics speak of resistance to systemic racism.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwY7eY5I-9I?si=KQNXax_3yLCDTEcN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -89,14 +89,14 @@ Disco is a haven for the LGBTQ+/Black/Latinx community, gaining the right to dan
 
 ---
 
-**メカニズム**：都市の空洞化と公共空間の管理強化→周縁の人びとは夜間・地下へ退避。音圧と身体接触が連帯を形成。
+**Mechanism**: Hollowing out of cities and strengthening of management of public spaces → People on the periphery evacuate underground at night. Sound pressure and physical contact form solidarity.
 
 
 <hr>
 
-### 1980s: Hardcore, skinhead reformation, and the birth of hip-hop -- speed, tribalization, and the weaponization of narrative
+### 1980s: Hardcore, skinhead reorganization, and the birth of hip-hop -- speed, tribalization, and the weaponization of narrative
 
-Hardcore punk is about speed, short lengths, and floor autonomy (circle pits, stage dives) born from instantaneous "agreement." On the other hand, there are conflicts with violence and xenophobia.
+Hardcore punk is about speed, short lengths, and floor autonomy (circle pits, stage dives) created by instantaneous "agreement." On the other hand, there are conflicts with violence and xenophobia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NAPYIMMbWQ?si=STcmncZQCWAsDeLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -114,7 +114,7 @@ Hip-hop has the "four pillars" of block parties, graffiti, breaking, and DJ/MC. 
 
 ---
 
-Metal has been given the image of being "demonized" and aroused controversy over self-regulation such as the PMRC. Depending on the subgenre, it can also create social conflicts over violent incidents and discriminatory statements.
+Metal has been given the image of being "demonized" and has aroused controversy over self-regulation such as the PMRC. Depending on the subgenre, it can also create social conflicts over violent incidents and discriminatory statements.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -139,7 +139,7 @@ Although grunge/alternative music advocated an anti-commercial stance, it quickl
 
 ---
 
-Gangsta rap's explicit portrayal of police violence, social inequality, and street norms made it a target for the media. The debate over the possibility of imitating real violence and expression has become a social issue.
+Gangsta rap's explicit portrayal of police violence, social inequality, and street norms made it a target for the media. The debate over the imitability of real violence and expression has become a social issue.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VMYAEHE2GrM?si=Xy2ZiHUL6lCAMwk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -183,7 +183,7 @@ Leftfield/Queer Clubs are rebuilding safe places to spend the night and establis
 
 ### 2020s: Irregular spaces after the pandemic: Micro-rave and local communities
 
-During the lockdown period, guerilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
+During the lockdown period, guerrilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
 
 The hybridization of social movements and music events (fundraising parties, mutual aid community kitchens, etc.) is progressing, and the focus is on care and consensus-building rather than the "illegal/legal" dichotomy.
 
@@ -192,11 +192,11 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 ### Correlation by region
 
-**United States**: The cultural capital of the black community (gospel, blues, hip-hop) is at the core of outlaw representation. Gun control, drug policy, and police practice directly hit the lyrics and the scene.
+**United States**: The cultural capital of the black community (gospel, blues, hip-hop) is at the core of outlaw representation. Gun control, drug policy, and police practices directly hit the lyrics and the scene.
 
 **Britain/Europe**: Collective nature intertwined with class, immigration, and football culture. Rave culture tends to clash with urban planning and private land systems.
 
-**Japan**: From the early acceptance of rockabilly/punk to the "underground box" of hardcore and the dawn of clubs, conflicts with administrative regulations (late-night business/entertainment-related) are commonplace. The importation and localization of sounds and the self-management of venues have developed.
+**Japan**: From the early acceptance of rockabilly/punk to the "underground box" of hardcore and the dawn of clubs, conflicts with administrative regulations (late-night business/entertainment-related) are common. The importation and localization of sounds and the self-management of venues have developed.
 
 
 <hr>

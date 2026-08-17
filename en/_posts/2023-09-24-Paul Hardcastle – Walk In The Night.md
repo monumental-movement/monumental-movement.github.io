@@ -16,7 +16,7 @@ title: Paul Hardcastle – Walk In The Night
 
 "Walk In The Night" is a song that combines electronic sounds and jazz elements, and has a distinctive rhythm and melody.
 
-Synthesizers and recorded beats stand out, creating a danceable and groovy atmosphere.
+The synthesizer and beat beats stand out, creating a danceable and groovy atmosphere.
 
 'Walk In The Night' is a song that fans of Paul Hardcastle and electronic music enthusiasts alike will enjoy, and his unique sound and creative approach continues to influence many.
 

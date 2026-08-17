@@ -41,7 +41,7 @@ color: #fff;
 
 ## Ⅰ. The pleasure of hands playing with sound
 
-We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. This immediacy is the same in the toys that children come into contact with during their childhood.
+We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. That immediacy is the same in the toys we come into contact with in childhood.
 In the 21st century, electronic sounds have been extended to children's toys and educational gadgets, and the act of ""sounding'' itself has been designed as part of play. The line between toys and musical instruments is becoming increasingly blurred.
 
 ---
@@ -49,7 +49,7 @@ In the 21st century, electronic sounds have been extended to children's toys and
 ## Ⅱ. Sound toy culture in Asia
 
 ### Radel Electronic Tanpura
-The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performances. It was popular among a wide range of people, from children to adults, because it was easy to reproduce complex stringed instruments at home.
+The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performances. It has become popular among a wide range of people, from children to adults, because it allows complex stringed instruments to be easily reproduced at home.
 Rather, the simplification of electronic sounds opened the door to new improvisations. The electronic tanpura placed on the desk at home has become a ""homely ritual'' that resonates at the boundary between learning and play.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -168,7 +168,7 @@ In Scandinavia, small, highly designed synths have appeared.
 - Teenage Engineering OP-1
 - Pocket Operator series
 
-Simple and intuitive operability and cartoon-like tones combine Scandinavian humor and sophistication. It is unique in that it retains its character as a toy, but is also used by professional artists.
+Its simple, intuitive operability and cartoon-like tone combine Scandinavian humor and sophistication. It is unique in that it retains its character as a toy, but is also used by professional artists.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBwU-d_WDmU?si=D_5-7a06v6wQYoNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -190,7 +190,7 @@ A complex texture that combines electronic toys and small synth-like sounds.
 
 ---
 
-## Ⅷ. Contemporary artists and toy sound
+## Ⅷ. Contemporary Artists and Toy Sound
 
 Many contemporary artists, including Björk, Cornelius, Bon Iver, and Laurie Anderson, have incorporated toy instruments into their live performances and recordings.
 Low-resolution sounds and accidental noises become tools for creating a sense of intimacy and improvisation, and are praised for daring to maintain a "handmade feel" in the age of digital.
@@ -229,7 +229,7 @@ flowchart TD
     E1990["1990: Establishment of Circuit Bending concept (USA)"]
     F2007["2007: Teenage Engineering OP-1 released (Sweden)"]
     G2010["2010: Pocket Operator Series (Sweden)"]
-    H2020["2020: AI toy music device introduced"]
+    H2020["2020: Introducing AI toy music device"]
     
     A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 

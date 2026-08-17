@@ -50,7 +50,7 @@ color: #fff;
 </style>
 
 
-## Berlin Institutional History: How the Club Became an Institution
+## History of the Berlin System: How the Club Became an Institution
 
 ### Post-unification Berlin and the creation of club spaces
 
@@ -90,15 +90,15 @@ His set structure can be organized into three layers.
 
 1. Rhythm stabilization
 2. Introducing harmony and chords
-3. テクスチャの密度調整
+3. Texture density adjustment
 
-これは瞬間的な盛り上がりよりも、時間の経過そのものを価値化する設計である。
+This is a design that values ​​the passage of time itself rather than momentary excitement.
 
 <div class="mermaid">
 graph TD
-A[low density groove] --> B[中域の充填]
+A[low density groove] --> B[Midrange filling]
 B --> C[harmony expansion]
-C --> D[再び削ぎ落とす]
+C --> D[scrape it off again]
 </div>
 
 > Floors are formed by persistence, not explosions.
@@ -119,11 +119,11 @@ The album ""Folk" released by Ostgut Ton in 2015 is a work that explores the bal
 
 The track is not a linear peak structure, but is designed to embed subtle changes within the repetition.
 
-> 音響思想とは、鳴らす音よりも鳴らさない音を決めることである。
+> Acoustic philosophy is to decide which sounds should not be produced rather than which ones should be produced.
 
 ---
 
-## キュレーション：文脈を編む仕事
+## Curation: The work of weaving context
 
 Ostgut Ton"s compilations and Berghain-related mixes are more than just DJ productions. This is an editing act that presents the club"s philosophy along a chronological axis.
 
@@ -133,7 +133,7 @@ Höppner was involved in this editing process, presenting Berghain's musical cro
 graph LR
 A[floor experience] --> B[Song selection]
 B --> C[compilation]
-C --> D[文化的記録]
+C --> D[cultural record]
 </div>
 
 > Curation is both a record of culture and a guide to the future.
@@ -158,18 +158,18 @@ timeline
     2010s : 国際展開
 </div>
 
->His path is a trajectory in which three layers of institutions, practices, and ideas progressed simultaneously.
+> His path is a trajectory in which three layers of institutions, practices, and ideas progressed simultaneously.
 
 ---
 
 ## Conclusion: Sounds from within the system
 
-Ostgut Tonは後に活動を終えるが、その時代に形成された美学は消えない。ベルリンのクラブ文化は制度化と再編を繰り返しながら更新される。
+Although Ostgut Ton later ceased to be active, the aesthetics formed during that period remain. Berlin's club culture is renewed through repeated institutionalization and reorganization.
 
 Nick Höppner was responsible for running the system, verifying it on the floor, and recording it as a sound source. His career is an example of how urban cultures self-organize and gain international influence.
 
-Not explosive stardom, but sustained practice and thought. It is this quiet driving force that has shaped one aspect of Berlin House.
+Not explosive star power, but sustained practice and thought. It is this quiet driving force that has shaped one aspect of Berlin House.
 
-> フロアで鳴る音は制度を超え、しかし制度によって支えられている。
+> The sounds made on the floor transcend the system, but are supported by the system.
 
 ---

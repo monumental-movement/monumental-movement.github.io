@@ -18,11 +18,11 @@ title: '[Column] Murahachibu and 1970s Japan: Deviating sounds, rejecting societ
 
 ## What was Murahachibu?
 
-文：mmr｜テーマ：高度経済成長の裏側で生まれた逸脱の音楽と、その社会的背景を徹底的に読み解く
+Text: mmr｜Theme: Thoroughly deciphering the deviant music that was born behind the scenes of high economic growth and its social background.
 
 ### Thought of rejection indicated by the name
 
-In the early 1970s, ostracism emerged as an extremely unique group in Japanese rock history. The name is taken from a word that means punishment in traditional Japanese communities, and it was an extremely provocative statement of intent, calling itself ""exclusion from the community.''
+In the early 1970s, ostracism emerged as an extremely unique entity in Japanese rock history. The name is taken from a word that means punishment in traditional Japanese communities, and it was an extremely provocative statement of intent, calling itself ""exclusion from the community.''
 
 At the center of this band was vocalist Kazushi Shibata, commonly known as Charbo. He was more than just a singer, he was a challenge to society at the time. Rather than well-rounded singing or technique, the singer's rough and unstable voice reflected the distortions of the times.
 
@@ -51,7 +51,7 @@ color: #fff;
 
 ### The end of high economic growth and the transformation of society
 
-In the 1970s, Japan was nearing the end of its period of high economic growth that had continued since the postwar period. Cities were developing rapidly, living standards were improving, and many people were beginning to feel affluence. However, on the other hand, society as a whole is becoming more homogenized, and individual values ​​and freedoms are gradually being suppressed.
+In the 1970s, Japan was nearing the end of its period of rapid economic growth that had continued since the war. Cities were developing rapidly, living standards were improving, and many people were beginning to feel a sense of "affluence." However, on the other hand, society as a whole is becoming more homogenized, and individual values ​​and freedoms are gradually being suppressed.
 
 The student movement, which reached its peak in the late 1960s, rapidly subsided in the 1970s. The political enthusiasm that had temporarily increased due to security struggles and university disputes stalled due to setbacks, leaving many young people with nowhere to go.
 
@@ -85,7 +85,7 @@ While Happy End, who were active at the same time, presented a sophisticated for
 
 Chabo's staging left a strong impression on the audience. Rather than "singing" the lyrics, he expressed them using his entire body. Their appearance completely deviated from the conventional framework of popular songs and folk music.
 
-The band's performance as a whole was also extremely unstable, creating a unique sense of tension. Tempo fluctuations, pitch instability, sudden stops—all were part of the live performance.
+The band's performance as a whole was also extremely unstable, creating a unique sense of tension. Tempo fluctuations, pitch instability, sudden stops—all were part of the live show.
 
 Although this type of expression was considered immature by the mainstream music of the time, it also had a strong sense of reality. It was not complete music, but a sound that only existed ""in this moment.''
 
@@ -117,7 +117,7 @@ However, their short lifespan was what kept them strong. It remained etched into
 
 Later, in the 1980s, as Japan's indie and punk scenes developed, ostracism began to be reevaluated. Their attitude became a reference point for new generations.
 
->The moment they disappeared, they became not the past, but a myth.
+>The moment they disappeared, they became not the past but a myth.
 
 ---
 
@@ -184,7 +184,7 @@ In the 1970s, ostracism had a strong presence from outside society. Although the
 
 The sense of alienation that arose on the backside of high economic growth, the opposition to homogenization, and the search for individual expression. All of these are condensed into the existence of ostracism.
 
-They were not at the center of history. However, the sound that was coming from somewhere off center spoke of another reality of the times.
+They were not at the center of history. However, the sound that was echoing in a place far from the center spoke of another reality of the times.
 
 > The sound of ostracism is a record of those who did not fit into society, and that non-conformity was what gave them value.
 

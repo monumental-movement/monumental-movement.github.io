@@ -10,7 +10,8 @@ tags:
 - Interactive
 - Technology
 - Streaming
-title: 【コラム】 インタラクティブ音楽体験の未来 ― テクノロジーが拡張する聴取と創造の現在地
+title: '[Column] The future of interactive music experiences - the current state of
+  technology-enhanced listening and creation'
 ---
 
 
@@ -31,7 +32,7 @@ The main elements are as follows.
 * Algorithm generation (AI/procedural composition)
 * Network synchronization (online co-creation)
 
-> Music is moving from being a work to be played to an environment in which to participate.
+> Music is moving from being a "work to be played" to an "environment in which to participate."
 
 ---
 
@@ -53,14 +54,14 @@ color: #fff;
 
 The beginnings of interactive music date back to the pre-digital era. Tape manipulation and live improvisation were already "changing music." However, it was with the development of computers and game culture that it became a clear structure.
 
-### 1970年代〜1980年代：電子楽器とMIDI
+### 1970s-1980s: Electronic instruments and MIDI
 
-1983年、MIDI規格が策定され、電子楽器間の通信が標準化された。演奏データが制御可能になり、音は「イベントの集合」として扱われるようになる。
+In 1983, the MIDI standard was established to standardize communication between electronic musical instruments. Performance data can now be controlled, and sounds can be treated as a "collection of events."
 This mechanism became the basis for later game music and real-time generation.
 
 ### 1990s: Evolution of game music
 
-With the spread of home game consoles, music has acquired a mechanism that changes according to the player's actions.
+With the spread of home game consoles, music has acquired a mechanism that changes according to the actions of the player.
 A system has been established in which layers change depending on battle, exploration, and events.
 
 As a prime example, the music of Nintendo's works is a precursor to interactive design.
@@ -71,12 +72,12 @@ As a prime example, the music of Nintendo's works is a precursor to interactive 
 ### 2000s: The fusion of online and music
 
 With the spread of broadband, music begins to be linked to network connections.
-MMORPGs and online games have created an experience where music is synchronized in a shared space.
+MMORPGs and online games have created experiences where music is synchronized in a shared space.
 
 ### 2010s: VR/AR/Streaming
 
 With the advancement of VR technology, music is becoming spatial.
-ヘッドマウントディスプレイと空間音響により、音楽は「位置」を持つ。
+With a head-mounted display and spatial sound, music has a "location."
 
 Typical examples include:
 
@@ -111,7 +112,7 @@ Presenting the concept of generative music. 1978's Music for Airports laid the f
 
 ### Koji Kondo
 
-Established situation-based music design for Nintendo works. Popularizing the interactivity of game music.
+Established situation-related music design for Nintendo works. Popularizing the interactivity of game music.
 
 ### Yuzo Koshiro
 
@@ -119,7 +120,7 @@ Designed a dynamic song structure within the constraints of the in-game sound so
 
 ### Imogen Heap
 
-Practice gesture control live using Mi.Mu gloves.
+Practicing gesture control live using Mi.Mu gloves.
 
 ### Holly Herndon
 
@@ -162,7 +163,7 @@ Live experiences that are not limited to physical spaces have become commonplace
 
 ### 4. Changes in industrial structure
 
-Musicians are becoming a presence that provides not only ""songs" but also ""experience design."
+Musicians are becoming a presence that provides not only ""music" but also ""experience design."
 Cross-disciplinary knowledge of UX, programming, and sound design is important.
 
 <div class="mermaid">

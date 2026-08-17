@@ -88,7 +88,7 @@ NEU!, La Düsseldorf, Cluster—'70s electro experiments laid the groundwork for
 ### 2-2. Kompakt and the genealogy of minimal pop
 
 In the 1990s, the **Kompakt label**, which emerged from Cologne, presented a ""soft techno'' that was different from the rigidity of Berlin.
-Wolfgang Voigt's Gas depicts low frequencies floating in a foggy forest. It was the moment when minimalism gained **emotion and poetry**.
+Wolfgang Voigt's Gas depicts low frequencies floating in a foggy forest. It was the moment when minimalism acquired **emotion and poetry**.
 
 > "For me, techno is a landscape painting."
 > — Wolfgang Voigt
@@ -130,7 +130,7 @@ The sound pressure in the basement of the Dorian Gray club was both a social rea
 ### 3-3. Where did Frankfurt's genes go?
 
 Cocoon, Ibiza, festival culture.
-The origin of all this is the Frankfurt rave of the 90s.
+The origin of all this lies in the Frankfurt rave of the 1990s.
 Europe before EDM started here.
 Techno was a prayer, another heartbeat beating behind the economy.
 
@@ -161,7 +161,7 @@ For them, music is both political and everyday.
 ### 4-3. Significance of "non-centered techno"
 
 It's easy to deify Berlin.
-But the real diversity of German techno lies in the **resistance of the periphery**.
+But the true diversity of German techno lies in the **resistance of the periphery**.
 The slowness of time and the analog feel of the countryside.
 This reflects the future sound of techno.
 
@@ -233,7 +233,7 @@ flowchart TD
 
 
 | Region | Artist | Masterpiece | Year | Link |
-| ------------ | ---------------- | ---------------------- | ---- | ------------------------------------------------ |
+| ------------ | ---------------- | ---------------------- | ---- | ------------------------------------- |
 | Berlin | Basic Channel | *Quadrant Dub* | 1994 | [Amazon](https://amzn.to/42HRXhy) |
 | Düsseldorf-Cologne | Kraftwerk | *Trans-Europe Express* | 1977 | [Amazon](https://amzn.to/46VatWj) |
 | Frankfurt | Sven Väth | *Accident in Paradise* | 1993 | [Amazon](https://amzn.to/3J2ouby) |

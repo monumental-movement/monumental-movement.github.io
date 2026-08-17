@@ -62,7 +62,7 @@ In this debut work, the combination of Sabrina's "transparent singing voice" and
 
 ### ● **"New Morning" (2011)**
 
-This album has a stronger tone of jazz-funk and urban soul, and strongly appealed to club listeners. It became particularly popular in the European club jazz community, and gained support from DJs in London.
+This album had a strong jazz-funk and urban soul tone, and strongly appealed to club listeners. It became particularly popular in the European club jazz community, and gained support from DJs in London.
 
 Since her debut, Sabrina has consistently aimed for a "coexistence of Brazilian tradition and modern beats," and in the late 2010s, she significantly deepened her direction.
 
@@ -141,7 +141,7 @@ It can be said to be the most "underground" finish with a strong black texture.
 It"s easy to see why Sabrina"s songs resonated so strongly with UK artists.
 
 * Azimuth ~ A "swaying" groove that leads to Brazilian music
-* Jazz language and soft chord work
+* Jazz usage and soft chord work
 * Affinity with Soul/Neo Soul
 * Light rhythm that fits the structure of club music
 

@@ -31,7 +31,7 @@ This trend is not just "intense club music." It was created as a result of adapt
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -70,7 +70,7 @@ On the surface, Industrial Techno's rhythm appears to be a simple 4/4 repetition
 
 K_{i+1} - K_i = T_K
 
-120 BPM の場合、T_K は約 0.5 秒となる。スネアやインパルス音は、この周期に対して位相 φ を持つ。
+At 120 BPM, T_K is approximately 0.5 seconds. Snare and impulse sounds have a phase φ with respect to this period.
 
 S_j = K_i + φ_S
 
@@ -92,7 +92,7 @@ The Roland TR series has played a central role in rhythm design in Industrial Te
 
 The TR-909's kick has a sharp attack and sustained low end, and pairs well with distortion processing. Industrial Techno amplifies the pressure by layering sub-bass and noise layers based on this kick.
 
-The TR-606 features a hard, short snare and hi-hat that serve to define the repetitive structure. Modern models such as the TR-8 have made it easier to construct polyrhythms using non-integer division steps.
+The TR-606 features a hard, short snare and hi-hat, which serve to define the repetitive structure. Modern models such as the TR-8 have made it easier to construct polyrhythms using non-integer division steps.
 
 ---
 
@@ -110,7 +110,7 @@ In a modular environment, noise serves not as a melody or decoration, but as a r
 
 Perc's track epitomizes the ""controlled violence'' of industrial techno. The kick has a clear center, and the distortion is concentrated in the midrange. The low range is not destroyed and physical stability is ensured when playing the club.
 
-展開はミニマルであり、音数の増減よりも、歪みの質感変化やノイズ密度の調整によって構造が形成される。リズムの位相ズレは最小限で、グリッドへの忠誠が保たれる。
+The development is minimal, and the structure is formed by changing the texture of distortion and adjusting noise density rather than increasing or decreasing the number of sounds. Rhythmic phasing is minimal and loyalty to the grid is maintained.
 
 ---
 
@@ -134,7 +134,7 @@ The low range is limited to kick and bass, the midrange is the main battlefield 
 
 ## 10. Floor function and physicality
 
-Industrial Techno は、過激な音響を持ちながら、クラブフロアでの機能性を失わない。これは、リズム構造が保守的であるためである。
+Industrial Techno has radical acoustics without sacrificing functionality on the club floor. This is because the rhythm structure is conservative.
 
 The body is given over to predictable beats, and the hearing is exposed to unpredictable sounds. This dual structure creates a sense of immersion and sustained tension.
 
@@ -142,10 +142,10 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 
 ## 11. Chronology
 
-| 年代     | 出来事                        |
+| Years | Events |
 | ------ | -------------------------- |
-| 1970年代 | 工業音楽が素材志向の構造を確立            |
-| 1980年代 | テクノが反復的時間構造を確立             |
+| 1970s | Industrial music establishes a material-oriented structure |
+| 1980s | Techno establishes a repetitive temporal structure |
 | 1990s | Fusion of hard techno and industrial |
 | 2010s | Redefining modern industrial techno |
 | 2020s | Integrating precision acoustic design and physicality |
@@ -156,7 +156,7 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 
 Industrial Techno / Hard Experimental Techno is not chaotic noise, but extremely controlled structure. There, violence, distortion, and even pressure become objects of design.
 
-Perc や Ancient Methods に代表される実践は、テクノという形式の限界を拡張し、音楽を身体と空間を再編成する装置へと変換している。このジャンルは、今後も構造と音響の両面から深化を続けていくだろう。
+Practices such as Perc and Ancient Methods push the boundaries of the techno form, transforming music into a device that reorganizes bodies and spaces. This genre will continue to deepen in terms of both structure and sonics.
 
 ---
 
