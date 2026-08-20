@@ -74,8 +74,3 @@ color: #fff;
 
 
 ---
-
-### 関連コラム
-
-🔗 [【コラム】 ボサノバの魅力と名盤ガイド：アーティスト別・年代別おすすめアルバム](monumental-movement.jp/Column-Bossa-Nova)
-
