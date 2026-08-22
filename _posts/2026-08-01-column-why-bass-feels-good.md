@@ -1090,3 +1090,12 @@ mindmap
 > 低音が心地よく感じられる理由は、耳だけではなく身体・脳・進化・文化が一体となって音を知覚しているからであり、それが音楽を「聞くもの」から「体験するもの」へと変えているのです。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B7jXaZ8NdOs?si=bQDnNFsgF7mzKxNy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

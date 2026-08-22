@@ -181,3 +181,12 @@ KNTXTは、現代の音楽シーンにおいて重要な問いを提示してい
 > KNTXTは現代音楽におけるレーベルの未来像を具体的に示した存在である。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyM-FkNyooY?si=tFtETuafKlnrkkGt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -463,3 +463,12 @@ Jim O'Rourkeは音楽家であり、編集者であり、録音家であり、�
 > Jim O'Rourkeを理解することは、1980年代以降の実験音楽地図そのものを読み解くことでもある。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HG9-5cGsWj8?si=pvgUmxiCNLxY2GfW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

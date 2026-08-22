@@ -356,6 +356,13 @@ D --> G[ケベック文化継承]
 
 > Sarah Dufourの音楽は、“ローカル文化は現代でも更新可能である”という事実を力強く証明している。
 
+---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X9-eZ7UH038?si=0H_uSmjoXY_WvY7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

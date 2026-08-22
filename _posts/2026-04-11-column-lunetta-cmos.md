@@ -287,3 +287,12 @@ CMOS Synthは電子工学の入門としても有効である。
 > 原始的な回路は、最も現代的な問いを投げかけている。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzbtCCI9sLs?si=SHroFf8N43k9bkDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

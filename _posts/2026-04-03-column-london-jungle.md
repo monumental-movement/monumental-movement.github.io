@@ -189,3 +189,12 @@ Goldieのアルバム『Timeless』はその象徴的作品であり、ジャン
 > ジャングルは音楽ではなく、都市が発する圧力の記録である。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXpfHengGeU?si=wTRpPKujZIHhJu2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

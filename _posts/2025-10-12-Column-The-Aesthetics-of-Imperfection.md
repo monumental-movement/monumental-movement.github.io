@@ -164,6 +164,16 @@ SNS上の人格構築に疲れ、再び“身体”へと回帰する人々。
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZiYSuhQoks?si=Ze7n5lG9Z699YOMj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ## 付録：The Aesthetics of Imperfection 2025 Playlist  
 ### ― 不完全の美学を鳴らす4人のアーティスト ―
 

@@ -9,12 +9,6 @@ date: 2025-11-28 00:00:12 +0900
 ---
 
 
-
-
-
-
-
-
 # **序章：Morton Subotnick とは何者か**
 
 文：mmr｜テーマ：電子音楽の革新者が切り拓いた“コントローラブルな未来”について
@@ -234,3 +228,11 @@ Morton Subotnick の功績は、電子音楽の枠組みそのものを刷新し
 ---
 
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRW2f_-eCIw?si=ym3fowvEvEJqju00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

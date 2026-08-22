@@ -444,3 +444,12 @@ Butthole Surfers は、音楽という形式の “外側” を提示し続け�
 その存在は、パンク、ノイズロック、サイケデリックの交差点に立ち、いまも独自の位置を占めている。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tP6hVEVEXxI?si=WEM8HvfCVI86K4o1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -227,3 +227,12 @@ AKIRAやGHOST IN THE SHELLは、サイバーパンク表現の参照点となっ
 > 実験的ビートとアニメ音楽の関係は歴史的事象ではなく、現在進行形の進化過程にある。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t5nlDcO7o7Q?si=Azl7d_rAft90HpQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

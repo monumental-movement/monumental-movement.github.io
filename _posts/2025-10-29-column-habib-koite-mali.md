@@ -200,3 +200,12 @@ Habib Koitéの音楽は、**“語り継がれる詩”であり、“更新さ
 その証明として、Koitéのギターは今日も砂漠を越えて鳴り続けている。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LSqpHGKIJj4?si=FJ6rlXr35lUAfAGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

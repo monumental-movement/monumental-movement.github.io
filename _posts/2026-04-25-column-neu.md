@@ -183,3 +183,12 @@ NEU!は、ロックというフォーマットの中で時間の扱い方その�
 > NEU!は音楽を「聴くもの」から「体験するもの」へと変換した存在である。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JdDmtwgL040?si=tZkyyt6JMLAE57G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

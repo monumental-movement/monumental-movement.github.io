@@ -468,3 +468,12 @@ Orloge Simard は、その実例となった。
 > Orloge Simard は、ケベック地方文化をロックの熱狂へ変換し続ける、現代カナダ音楽シーンでも稀有な存在となった。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e01od6XoDPM?si=G7Vp7Aln13IxmSaB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
