@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Noise Music, Avant Garde, Math Rock ]
 image: ../assets/images/column-why-angine-de-poitrine-does-not-sound-random-at-all.webp
-date: 2026-08-23 00:00:02 +0900
+date: 2026-08-23 00:00:03 +0900
 ---
 
 # Angine de Poitrineはなぜ「めちゃくちゃ」なのに踊れるのか
