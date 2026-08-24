@@ -14,9 +14,9 @@ title: White Town – Women In Technology
 
 
 
-White Town is the name of the solo project of British-Indian musician/producer Jyoti Prakash Mishra. She is best known for her 1997 hit song ""Your Woman,'' which is also included on this album.
+White Townは、 イギリス系インド人のミュージシャン／プロデューサー Jyoti Prakash Mishra（ジョティ・プラカシュ・ミシュラ）のソロプロジェクト名。このアルバムにも収録されている1997年のヒット曲『Your Woman』でよく知られている。
 
-'Women In Technology" is Jyoti Mishra"s second studio album, released in 1997, and was recorded entirely in Jyoti Mishra's home studio.
+「Women In Technology」は、1997年にリリースした2枚目のスタジオ・アルバムで、ジョティ・ミシュラの自宅スタジオですべてレコーディングされた。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ White Town is the name of the solo project of British-Indian musician/producer J
 13. Give Me Some Pain
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m22250393894?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22250393894?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lVL-zZnD3VU?si=yWTBgx6Dbi0iA0GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

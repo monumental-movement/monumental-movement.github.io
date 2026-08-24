@@ -9,14 +9,14 @@ tags:
 - House
 - Hiphop
 - 90s
-title: MC Miker G – Big House (We"ve Got The Juice)
+title: MC Miker G – Big House (We've Got The Juice)
 ---
 
 
-Dutch rapper Lucien Witteveen, known as MC Miker G, was one of the first generation of Dutch rappers, active since 1984. MC Miker G released "Holiday Rap" as MC Miker G. & DJ Sven in 1986, which became a worldwide hit.
+MC Miker G として知られるオランダのラッパー Lucien Witteveen は、1984年から活動するオランダのラッパーの第一世代の 1 人。MC Miker Gは、1986 年にはMC Miker G. & DJ Sven として「Holiday Rap」をリリースし世界的な大ヒットとなった。
 
-"Big House" is from the Italian label Mighty Quinn Records.
-A house track released in 1990. The producer is Rene van Verseveld, also known as Quincy Lizer, a Dutch hardcore techno producer who has worked with Candy Dulfer, 2 Unlimited, Gerard Joling, etc.
+「Big House」は、イタリアのレーベルMighty Quinn Records
+から1990年にリリースされたハウストラック。プロデューサーはCandy Dulfer, 2 Unlimited, Gerard Jolingなどを手がけたオランダのハードコア テクノプロデューサーQuincy LizerことRene van Verseveld。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. Big House (Radio Version)
 B2. Big House (Dub.)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m91872331522?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91872331522?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qSK1iwx4kAk?si=FUgmMuIFu6AaMQL2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

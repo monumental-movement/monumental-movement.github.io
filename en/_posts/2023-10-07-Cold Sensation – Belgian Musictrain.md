@@ -11,13 +11,13 @@ title: Cold Sensation – Belgian Musictrain
 ---
 
 
-"Belgian Musictrain" is a song by a Belgian music group called Cold Sensation. This song was released in 1991.
+「Belgian Musictrain」はCold Sensation（コールド・センセーション）というベルギーの音楽グループによる楽曲です。この曲は1991年にリリースされました。
 
-"Belgian Musictrain" is an upbeat song that incorporates elements of electronic dance music. As the title of the song suggests, the theme is a celebration of the Belgian music scene and party culture.
+「Belgian Musictrain」はエレクトロニックダンスミュージックの要素を取り入れたアップビートな楽曲です。曲のタイトルからもわかるように、ベルギーの音楽シーンやパーティーカルチャーを祝福するようなテーマが込められています。
 
-Cold Sensation is a briefly popular group on the Belgian dance music scene, and their songs are characterized by energetic, danceable beats and melodies.
+Cold Sensationはベルギーのダンスミュージックシーンで一時的に人気を博したグループであり、彼らの楽曲はエネルギッシュで踊りやすいビートとメロディが特徴です。
 
-""Belgian Musictrain'' is intended to liven up the dance floor with sounds that incorporate the dance music trends and technology of the time. This song is known as a work that has received a certain amount of praise in the Belgian dance music scene, and has a special meaning to some dance music fans because of its catchy melody and rhythm, and its homage to the Belgian music scene.
+「Belgian Musictrain」は当時のダンスミュージックのトレンドやテクノロジーを取り入れたサウンドでダンスフロアを盛り上げることを意図しています。この曲はベルギーのダンスミュージックシーンにおいて一定の評価を得た作品として知られており、キャッチーなメロディとリズム、そしてベルギーの音楽シーンへのオマージュとして一部のダンスミュージックファンにとって特別な意味を持つ曲です。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A. Belgian Musictrain (Brussels By Night Mix)
 B. Belgian Musictrain (New York Detroit Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m13228715845?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13228715845?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oe5Z801k4Js?si=dgkEf_IMK0vPtvqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

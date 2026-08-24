@@ -11,22 +11,22 @@ tags:
 - 70s
 - Rock
 - Culture
-title: '[Column] Murahachibu and 1970s Japan: Deviating sounds, rejecting society'
+title: 【コラム】 村八分（Murahachibu）と1970年代日本：逸脱する音、拒絶する社会
 ---
 
 
 
-## What was Murahachibu?
+## 村八分（Murahachibu）とは何だったのか
 
-Text: mmr｜Theme: Thoroughly deciphering the deviant music that was born behind the scenes of high economic growth and its social background.
+文：mmr｜テーマ：高度経済成長の裏側で生まれた逸脱の音楽と、その社会的背景を徹底的に読み解く
 
-### Thought of rejection indicated by the name
+### 名前が示す拒絶の思想
 
-In the early 1970s, ostracism emerged as an extremely unique entity in Japanese rock history. The name is taken from a word that means punishment in traditional Japanese communities, and it was an extremely provocative statement of intent, calling itself ""exclusion from the community.''
+1970年代初頭、日本のロック史において極めて特異な存在として現れたのが、村八分である。その名称は、日本の伝統的な共同体における制裁を意味する言葉から取られており、「共同体からの排除」を自ら名乗るという、極めて挑発的な意思表示だった。
 
-At the center of this band was vocalist Kazushi Shibata, commonly known as Charbo. He was more than just a singer, he was a challenge to society at the time. Rather than well-rounded singing or technique, the singer's rough and unstable voice reflected the distortions of the times.
+このバンドの中心にいたのが、ボーカリストの柴田和志、通称チャー坊である。彼は単なる歌い手ではなく、当時の社会に対する異議申し立てそのもののような存在だった。整った歌唱や技巧ではなく、むしろ荒削りで不安定な声が、時代の歪みをそのまま反映していた。
 
-Although Murahachibun"s music was influenced by blues and rock"n'roll, it was not a Japanese interpretation of them. Rather, the process of destroying and reconstructing that format itself became the sound. Rather than musical perfection, value was placed on the uncertainty of ""what will happen on the spot''.
+村八分の音楽は、ブルースやロックンロールの影響を受けながらも、それらを日本的に消化したものではなかった。むしろ、そのフォーマットを壊し、再構築する過程そのものが音になっていた。音楽としての完成度よりも、「その場で何が起こるか」という不確定性に価値が置かれていたのである。
 
 > Mura Hachibun was not a group of people playing music, but an embodiment of deviance from society.
 
@@ -49,13 +49,13 @@ color: #fff;
 
 ## Historical background of 1970s Japan
 
-### The end of high economic growth and the transformation of society
+### 高度経済成長の終盤と社会の変質
 
-In the 1970s, Japan was nearing the end of its period of rapid economic growth that had continued since the war. Cities were developing rapidly, living standards were improving, and many people were beginning to feel a sense of "affluence." However, on the other hand, society as a whole is becoming more homogenized, and individual values ​​and freedoms are gradually being suppressed.
+In the 1970s, Japan was nearing the end of its period of high economic growth that had continued since the postwar period. Cities were developing rapidly, living standards were improving, and many people were beginning to feel affluence. However, on the other hand, society as a whole is becoming more homogenized, and individual values ​​and freedoms are gradually being suppressed.
 
-The student movement, which reached its peak in the late 1960s, rapidly subsided in the 1970s. The political enthusiasm that had temporarily increased due to security struggles and university disputes stalled due to setbacks, leaving many young people with nowhere to go.
+1960年代末に頂点を迎えた学生運動は、1970年代に入ると急速に沈静化していく。安保闘争や大学紛争によって一時的に高まった政治的熱気は、挫折とともに失速し、多くの若者が行き場を失った。
 
-Furthermore, the 1970 Osaka World Expo was a symbolic event that established Japan as an economic power in the international community, but it also signaled the arrival of an era in which ""future" and ""progress" were talked about under the leadership of the state.
+さらに、1970年の大阪万博は、日本が国際社会において経済大国としての地位を確立した象徴的な出来事だったが、それは同時に「未来」や「進歩」が国家主導で語られる時代の到来でもあった。
 
 In such a society, young people who don't feel like they belong go underground. Music and the live space were the sources of that energy.
 
@@ -63,41 +63,41 @@ In such a society, young people who don't feel like they belong go underground. 
 
 ---
 
-## Formation of underground culture
+## アンダーグラウンド文化の形成
 
-### Live house and improvisation
+### ライブハウスと即興性
 
 In the early 1970s, Japan's music scene was not yet developed, and the live house culture was still in its infancy. Rather than large-scale concerts, the focus was on performances in small spaces, and the experience there determined the essence of the music.
 
-Murakami had an overwhelming presence in such places. Their performances rejected predetermined harmony and developed differently each time. Even the disruption of a song's structure was accepted as part of expression.
+村八分は、そうした場所で圧倒的な存在感を放った。彼らの演奏は予定調和を拒否し、毎回異なる展開を見せた。曲の構成が崩れることすら、表現の一部として受け入れられていた。
 
 The distance between them and the audience was extremely close, and sometimes collisions occurred. Music was not something to be listened to, but something to be involved in.
 
-While Happy End, who were active at the same time, presented a sophisticated form of Japanese rock, Murahachibun were at the opposite end of the spectrum. Rather than the beauty of the words or melodies, they focused on the impulse itself.
+同時期に活動していたはっぴいえんどが、日本語ロックの洗練された形を提示していたのに対し、村八分はその対極にあった。彼らは言葉やメロディの美しさではなく、衝動そのものを前面に押し出していた。
 
-> The underground was not a place, it was a matter of attitude.
-
----
-
-## Live performance and physicality of ostracism
-
-### Extreme performance
-
-Chabo's staging left a strong impression on the audience. Rather than "singing" the lyrics, he expressed them using his entire body. Their appearance completely deviated from the conventional framework of popular songs and folk music.
-
-The band's performance as a whole was also extremely unstable, creating a unique sense of tension. Tempo fluctuations, pitch instability, sudden stops—all were part of the live show.
-
-Although this type of expression was considered immature by the mainstream music of the time, it also had a strong sense of reality. It was not complete music, but a sound that only existed ""in this moment.''
-
-> The ostracized live performance was an experience that blurred the line between music and reality.
+> アンダーグラウンドとは場所ではなく、態度の問題だった。
 
 ---
 
-## Disconnect from the media
+## 村八分のライブと身体性
 
-### Unvisible existence
+### パフォーマンスの極限
 
-Ostracism rarely appeared in mass media such as television or radio. This was not simply due to a lack of opportunity, but because their expression did not fit within the media framework.
+チャー坊のステージングは、観客に強烈な印象を残した。彼は歌詞を「歌う」のではなく、身体全体を使って吐き出すように表現した。その姿は、従来の歌謡曲やフォークの枠組みを完全に逸脱していた。
+
+また、バンド全体の演奏も極めて不安定でありながら、独特の緊張感を生み出していた。テンポの揺らぎ、音程の不安定さ、突然の停止——それらすべてがライブの一部だった。
+
+このような表現は、当時の主流音楽から見れば未熟とされることもあったが、同時に強烈なリアリティを持っていた。完成された音楽ではなく、「今この瞬間」にしか存在しない音だったのである。
+
+> 村八分のライブは、音楽と現実の境界を曖昧にする体験だった。
+
+---
+
+## メディアとの断絶
+
+### 可視化されない存在
+
+村八分はテレビやラジオといったマスメディアにほとんど登場しなかった。これは単に機会がなかったのではなく、彼らの表現がメディアの枠組みに適合しなかったためである。
 
 The music industry at the time consisted mainly of folk and popular songs, with an emphasis on message quality and friendliness. The music of ostracism did not fit into either of these categories.
 
@@ -107,13 +107,13 @@ As a result, there are very few opportunities for their work to be recorded, and
 
 ---
 
-## Dissolution and afterward
+## 解散とその後
 
-### Meaning of short-lived
+### 短命の意味
 
 Mura Hachibun ceased its activities around 1973. It is said that there was not just one reason for this, but multiple factors intertwined, such as problems between members and changes in the environment.
 
-However, their short lifespan was what kept them strong. It remained etched into history in its most radical state, without undergoing any transformation or commercialization through long-term activities.
+しかし、その短命さこそが、彼らの強度を保つ要因となった。長期的な活動による変質や商業化を経験することなく、最も過激な状態のまま歴史に刻まれたのである。
 
 Later, in the 1980s, as Japan's indie and punk scenes developed, ostracism began to be reevaluated. Their attitude became a reference point for new generations.
 
@@ -140,53 +140,53 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[high economic growth] --> B[homogenization of society]
-    B --> C[Feeling of alienation among young people]
-    C --> D[Formation of underground culture]
+    A[high economic growth] --> B[社会の均質化]
+    B --> C[若者の疎外感]
+    C --> D[地下文化の形成]
     D --> E[The appearance of ostracism]
-    E --> F[Radicalization of live culture]
-    F --> G[Impact on subsequent generations]
+    E --> F[ライブ文化の過激化]
+    F --> G[後続世代への影響]
 </div>
 
 ---
 
-## Position in 1970s Japanese rock
+## 1970年代日本ロックの中での位置
 
 ### Distance from the mainstream
 
-Japanese rock in the 1970s was exploring a variety of directions. As folk, popular songs, and rock intersect, each has evolved in its own way.
+1970年代の日本ロックは、多様な方向性を模索していた。フォーク、歌謡曲、ロックが交錯する中で、それぞれが独自の進化を遂げていた。
 
 Among them, the ostracized people did not completely belong to either trend. They refused to fit within the existing context and positioned themselves ""outside.''
 
-This attitude would become important in later genres such as punk and noise.
+この姿勢は、後のパンクやノイズといったジャンルにおいて重要な意味を持つことになる。
 
-> Ostracism existed not within genres, but at the boundaries themselves.
+> 村八分はジャンルの中ではなく、境界そのものに存在していた。
 
 ---
 
-## Continuity to modern times
+## 現代への連続性
 
-### Invisible effects
+### 見えない影響
 
-In contemporary Japan's underground music and DIY culture, the influence of ostracism is rarely talked about directly. However, that spirit has definitely been passed down.
+現代の日本におけるアンダーグラウンド音楽やDIYカルチャーにおいて、村八分の影響は直接的に語られることは少ない。しかし、その精神は確実に受け継がれている。
 
-A production method that does not rely on existing frameworks, a focus on the live space, and a way of thinking that prioritizes freedom of expression - these are still shared by many artists today.
+A production method that does not rely on existing frameworks, an attitude that emphasizes the live space, and a way of thinking that prioritizes freedom of expression - these are still shared by many artists today.
 
-Their music continues to be re-evaluated in new contexts through the development of new sound sources and archives.
+再発音源やアーカイブの整備によって、彼らの音楽は新たな文脈で再評価され続けている。
 
-> Ostracism does not exist in the past, but has an ongoing influence.
+> 村八分は過去の存在ではなく、現在進行形の影響力を持っている。
 
 ---
 
 ## Conclusion: What the sound of rejection leaves behind
 
-In the 1970s, ostracism had a strong presence from outside society. Although their music was by no means popular, their attitude sharply reflected the distortions of the times.
+村八分は、1970年代という時代の中で、社会の外側から強烈な存在感を放った。彼らの音楽は決して大衆的ではなかったが、その姿勢は時代の歪みを鋭く映し出していた。
 
 The sense of alienation that arose on the backside of high economic growth, the opposition to homogenization, and the search for individual expression. All of these are condensed into the existence of ostracism.
 
 They were not at the center of history. However, the sound that was echoing in a place far from the center spoke of another reality of the times.
 
-> The sound of ostracism is a record of those who did not fit into society, and that non-conformity was what gave them value.
+> 村八分の音は、社会に適応しなかった者たちの記録であり、その不適合こそが価値だった。
 
 ---
 

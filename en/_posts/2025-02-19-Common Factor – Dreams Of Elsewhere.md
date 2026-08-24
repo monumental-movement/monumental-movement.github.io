@@ -14,11 +14,11 @@ title: Common Factor – Dreams Of Elsewhere
 ---
 
 
-Nick Calingaert, also known as Common Factor, is a DJ from Chicago. In the mid-90s, he was active as a drum and bass DJ under the name Saint Nick.
+Common Factor ことNick Calingaertは、シカゴ出身のDJ。90年代半ばには、Saint Nick名義でドラムンベースのDJとして活動していた。
 
-"Dreams Of Elsewhere" is an album released in 1999 by Carl Craig's classic techno label Planet E.
+「Dreams Of Elsewhere」は、Carl Craig(カール・クレイグ)のクラシックテクノレーベルPlanet E から1999年にリリースされたアルバム。
 
-A masterpiece album that includes many of Common Factor's signature songs such as "Get Down," "will," and "Horizons."
+「Get Down」「will」「Horizons」など、Common Factorの代表曲が多数収録された名盤。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ A masterpiece album that includes many of Common Factor's signature songs such a
 11. Dreams Of Elsewhere
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m77204166357?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77204166357?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VdN73t5E2ho?si=hfoNCGMGbxnSp5Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

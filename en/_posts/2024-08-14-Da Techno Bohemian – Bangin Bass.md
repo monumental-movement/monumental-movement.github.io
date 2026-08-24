@@ -14,9 +14,9 @@ title: Da Techno Bohemian – Bangin' Bass
 ---
 
 
-Da Techno Bohemian is a studio project between Rotterdam-born DJ and electronic music producer Koen Groeneveld and (hard) house DJ and producer Addy van der Zwan. The duo also perform under a number of other names, including The Ultimate Seduction and Klubbheads.
+Da Techno Bohemianは、ロッテルダム出身のDJ・エレクトロニック音楽プロデューサーKoen Groeneveldと(ハード) ハウス DJ ・プロデューサーAddy van der Zwan によるスタジオプロジェクト。２人は他にもThe Ultimate SeductionやKlubbheadsなど、多数の名義で活動している。
 
-The second track on side A is a remix by UK house music duo Rhythm Masters, who have remixed artists such as Todd Terry, Junior Vasquez, David Morales, and Roger Sanchez.
+A面２曲目は、Todd Terry（トッド・テリー）、Junior Vasquez（ジュニア・バスケス）、David Morales（デビッド・モラレス）、Roger Sanchez（ロジャー・サンチェス）などのリミックスを手がけるUKハウスミュージックデュオRhythm Masters（リズムマスターズ）によるremix。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. Bangin' Bass (Original Mix)
 B2. Bangin' Bass (Itty-Bitty-Boozy-Woozy Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m60734149480?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60734149480?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVt6FdQ4Mpc?si=DUG13k0qEF3tqQ_e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

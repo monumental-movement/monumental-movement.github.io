@@ -17,7 +17,7 @@ title: '[Column] Rotating Nostalgia: The Psychology of Vinyl Revival'
 Text: mmr | Theme: Adding a data perspective to the psychology of record regression. Graphing the global Vinyl Revival from 2000 to 2025
 
 
-In the 2020s, when music consumption has become completely digital, a ""return to analog"' has been quietly progressing behind the playlists played by Spotify"s algorithm.
+音楽の消費が完全にデジタル化した2020年代、Spotifyのアルゴリズムが流すプレイリストの裏で、静かに“アナログの回帰”が進行していた。  
 
 ---
 
@@ -26,7 +26,7 @@ In the 2020s, when music consumption has become completely digital, a ""return t
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -36,12 +36,12 @@ color: #fff;
 
 
 
-## Chapter 1: The intersection of data and psychology
+## 第1章：データと心理の交差点
 
-Behind the resurgence of records are **psychological desires and social reactions**.
-The movement to reclaim the physical musical experience is also an unconscious rebellion of the digital generation.
+レコード復活の背景には、**心理的な欲求と社会的反動**がある。  
+物質的な音楽体験を取り戻す動きは、デジタル世代の**無意識の反抗**でもある。  
 
-The graph below shows global record sales trends from 2000 to 2025.
+以下のグラフは、2000〜2025年にかけての**世界レコード売上の推移**を示している。  
 It can be seen that while CDs are in decline, vinyl is making a comeback and is on the rise.
 
 ---
@@ -70,10 +70,10 @@ timeline
 ---
 
 
-## Chapter 2: "Resurrection of rituals" told by numbers
+## 第2章：数字が語る「儀式の復活」
 
 Economic data may seem cold, but it is also a mirror reflecting the heat of culture.
-The increase in record sales is not just about nostalgia;
+レコードの売上増加は、単なる懐古ではなく、
 It is a symbol of the new consumer behavior of "buying experiences."
 
 In particular, many of the Gen Z buyers are the "digital generation" themselves.
@@ -86,7 +86,7 @@ For them, records function as ""unknown classics'' - a new narrative device.
 
 Behind the transparency of digital, the materiality of analog shines once again.
 Music recording media do more than just store information.
-It is a medium that visualizes human concepts such as "time," "deterioration," and "memory."
+「時間」「劣化」「記憶」といった人間的な概念を可視化するメディアだ。
 
 The ring of records symbolizes the cycle of time.
 It is a metaphor for "music" itself,
@@ -97,7 +97,7 @@ It is a metaphor for "music" itself,
 
 ## Chapter 4: Effects of records on the brain
 
-According to research in psychology and brain science,
+心理学と脳科学の研究によれば、
 The human brain feels pleasure in sounds that have "fluctuations".
 Fine noise and fluctuations contained in analog sound are
 Resonating with the natural phenomenon called 1/f fluctuation,
@@ -110,11 +110,11 @@ It has the effect of calming the rhythm of heartbeat and brain waves.
 
 ## Chapter 5: Future analog ─ Reaction in the AI ​​era
 
-In an era where AI can generate music infinitely,
+AIが音楽を無限に生成できる時代、
 "Sounds that cannot be reproduced" and "trace of matter" are
-Paradoxically, it is beginning to acquire scarcity value.
+逆説的に希少価値を帯び始めている。
 
-Records in the age of AI-generated music
+レコードは、AI生成音楽時代における
 **It will continue to be an "anti-algorithmic entity"**.
 
 ---
@@ -134,7 +134,7 @@ pie title 世界Vinyl市場シェア（2025推定）
 
 ### Conclusion: The future inside a rotating disk
 
-We live in an age where data is at its peak, and algorithms control everything.
+データ化が極まり、アルゴリズムがすべてを制御する時代。
 Under these circumstances, people are once again seeking "material sound."
 
 Records never die.

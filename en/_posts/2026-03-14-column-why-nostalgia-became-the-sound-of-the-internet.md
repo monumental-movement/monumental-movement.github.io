@@ -11,25 +11,25 @@ tags:
 - UK Rave
 - Jungle
 - Grime
-title: '[Column] Why has nostalgia become a major emotion in music?'
+title: 【コラム】 なぜノスタルジアが音楽の主要な感情となったのか
 ---
 
 
 
-## Why has the Internet amplified "nostalgia"?
+## インターネットはなぜ「懐かしさ」を増幅したのか
 
 Text: mmr｜Theme: Why does music in the digital age evoke nostalgia for the past?—Musical history of the Internet and nostalgia culture
 
-### Nostalgia as an emotion in the digital age
+### デジタル時代の感情としてのノスタルジア
 
-In the 21st century, one emotion has rapidly spread in the world of music. That is **nostalgia**.
+21世紀に入り、音楽の世界で一つの感情が急速に広がった。それが**ノスタルジア**である。
 
 Nostalgia used to be a feeling deeply tied to personal memories. Childhood memories, songs from your youth, time with your family. It was the feeling that arose when such a personal experience was connected to a specific piece of music.
 
 However, the advent of the Internet has fundamentally changed this emotional structure.
 
 YouTube, blogs, social media, and streaming.
-With music from all eras now accessible at the same time, music has come to be consumed as an ""archive of time" rather than the ""present."
+あらゆる時代の音楽が同時にアクセス可能になったことで、音楽は**「現在」ではなく「時間のアーカイブ」**として消費されるようになった。
 
 1970s disco, 1980s synth pop, 1990s R&B, 2000s indie rock.
 All of them line up on the same timeline.
@@ -62,15 +62,15 @@ color: #fff;
 
 ### A cultural concept that has existed since the 19th century
 
-The word nostalgia originated as a medical term in the 17th century.
+The word "nostalgia" originated as a medical term in the 17th century.
 A term coined by Swiss physician Johannes Hofer to describe the psychological state experienced by soldiers who leave their homeland.
 
 The etymology is
 
 * **nostos** (homecoming)
-* **algos** (pain)
+* **algos**（痛み）
 
-In other words, it is ""the pain of a place to which you cannot return.''
+つまり「帰れない場所への痛み」である。
 
 In the 19th century, this concept spread as a theme in literature and art.
 Romantic artists painted lost eras and landscapes.
@@ -93,9 +93,9 @@ It is not a personal memory, but a media memory.
 
 ## "Shared memories" created by digital culture
 
-### Pseudo-nostalgia created by the media
+### メディアが作る疑似ノスタルジア
 
-A strange phenomenon occurs in the Internet age.
+インターネット時代には奇妙な現象が起こる。
 
 It"s a feeling of nostalgia for a time you haven"t experienced yet.
 
@@ -103,21 +103,21 @@ For example, a generation that did not know about the 1990s
 
 *VHS picture quality
 * Windows 95 interface
-* Old commercial music
-* mall music
+* 古いCM音楽
+* モールミュージック
 
 Sometimes I feel nostalgic.
 
-This is a phenomenon called ""media nostalgia'' in sociology.
+これは社会学で**「メディアノスタルジア」**と呼ばれる現象である。
 
 The Internet provides a vast archive of video and audio.
-As a result, people can consume past cultures as if they were real experiences.
+その結果、人々は過去の文化を実体験のように消費できる。
 
 On YouTube
 
 * 1980s TV commercial
 * 1990年代ゲーム音楽
-*VHS recorded anime
+* VHS録画のアニメ
 * Late night radio
 
 etc. are being uploaded in large quantities.
@@ -126,11 +126,11 @@ These function as a shared cultural memory device.
 
 As a result, people come to have a common "pseudo memory."
 
-> The Internet has created nostalgia as a shared memory rather than an individual memory.
+> インターネットは個人の思い出ではなく、共有された記憶としてのノスタルジアを作り出した。
 
 ---
 
-## Nostalgia as a music genre
+## 音楽ジャンルとしてのノスタルジア
 
 ### The advent of vaporwave
 
@@ -140,12 +140,12 @@ In the early 2010s, a music genre was born from the Internet.
 
 This genre is from the 1980s and 1990s.
 
-* Corporate music
-* elevator music
-* Shopping mall BGM
+* 企業音楽
+* エレベーターミュージック
+* ショッピングモールBGM
 * CM music
 
-It was music that sampled, slowed down, and processed things like that.
+などをサンプリングし、スローダウンして加工する音楽だった。
 
 What makes it unique is its theme.
 
@@ -155,16 +155,16 @@ Vaporwave is
 * Consumer culture
 * Digital society
 
-It began as an art that satirizes.
+It began as an art satirizing the
 
 But at the same time, this genre has generated a strong sense of nostalgia.
 
 The visuals of vaporwave
 
-* 1990s CG
-* Old Windows screen
+* 1990年代CG
+* 古いWindows画面
 *VHS noise
-* Japanese font
+* 日本語フォント
 
 etc. were used.
 
@@ -173,11 +173,11 @@ They were **memory fragments of the internet generation**.
 Vaporwave is more than just a music genre.
 It was an emotional expression for the internet age.
 
-> Vaporwave was the first "nostalgia music" created by the Internet.
+> Vaporwaveは、インターネットが生んだ最初の「ノスタルジア音楽」だった。
 
 ---
 
-## Lo-fi hip hop and everyday nostalgia
+## Lo-fi hip-hop and everyday nostalgia
 
 ### Internet background music
 
@@ -188,31 +188,31 @@ In the late 2010s, another form of nostalgia music spread.
 This music is
 
 * record noise
-*Tape distortion
-* old jazz samples
+* テープの歪み
+* 古いジャズサンプル
 
 It is characterized by such things.
 
-Thanks to YouTube's **study music distribution**, this genre has spread worldwide.
+YouTubeの**study music配信**によって、このジャンルは世界的に広がった。
 
-What is distinctive is the role of music.
+特徴的なのは、その音楽の役割である。
 
 Lo-fi hip hop
 
 * study
 * work
-* reading
+* 読書
 
 It is used as background music.
 
-In other words, this is **music for everyday life**.
+つまりこれは**日常生活の音楽**である。
 
 The sound is just like an old cassette tape.
 A warm, slightly cloudy sound.
 
 It is in contrast to the perfection of digital music.
 
-Nostalgia functions here as a sound of reassurance.
+Nostalgia functions here as a **sound of reassurance**.
 
 > Lo-fi hip hop has become a symbol of "quiet nostalgia" in a digital society.
 
@@ -220,16 +220,16 @@ Nostalgia functions here as a sound of reassurance.
 
 ## Why the digital age seeks nostalgia
 
-### The opposite direction of technological evolution and emotions
+### 技術の進化と感情の逆方向
 
-The Internet has spawned the fastest technological innovation in the history of music.
+インターネットは、音楽の歴史の中で最も高速な技術革新を生んだ。
 
 * MP3
 *Streaming
 * AI music
-* Algorithm recommendation
+* アルゴリズム推薦
 
-But interestingly, the more technology advances, the more music tends to **move into the past**.
+しかし興味深いことに、技術が進化するほど音楽は**過去に向かう**傾向がある。
 
 This is also a phenomenon that cultural researchers have pointed out.
 
@@ -239,9 +239,9 @@ The first is **information overload**.
 The Internet provides a huge amount of music, but it also creates fatigue.
 
 The second is **stability of identity**.
-Nostalgic music provides a sense of security in a rapidly changing society.
+懐かしい音楽は、変化の速い社会で安心感を与える。
 
-The third is **admiration for analog**.
+3つ目は**アナログへの憧れ**である。
 Digital perfection can sometimes feel cold.
 
 Nostalgia music was born as a reaction to this.
@@ -282,7 +282,7 @@ There is another concept in modern music.
 
 It is **retro-future**.
 
-this is
+これは
 
 "The future seen from the past"
 
@@ -292,13 +292,13 @@ for example
 
 * 1980s futuristic city
 * Cyberspace in the 1990s
-* Early Internet CG
+* 初期インターネットのCG
 
 etc.
 
 This aesthetic also influences music.
 
-Synthwave, retro electro, vaporwave.
+シンセウェーブ、レトロエレクトロ、Vaporwave。
 All of this is music that reconstructs the past's view of the future.
 
 In other words, nostalgia music is not just a retrospective.
@@ -309,11 +309,11 @@ It is also a way to imagine the future.
 
 ---
 
-## Endless nostalgia
+## 終わらないノスタルジア
 
 ### Memories of the Internet never disappear
 
-Culture was once forgotten.
+かつて文化は忘れられていった。
 
 When records went out of print, music disappeared.
 Television programs also disappear from memory unless they are rebroadcast.
@@ -327,16 +327,16 @@ Culture remains somewhere unless it is deleted.
 
 In other words, future generations will experience all eras simultaneously.
 
-In this situation, nostalgia never ends.
+この状況では、ノスタルジアは終わらない。
 
-Every time new music is born, it quickly becomes the past.
+新しい音楽が生まれるたびに、それはすぐに過去になる。
 And the Internet preserves that past.
 
 Music always exists on the border between ""now" and ""old."
 
-And the Internet has blurred those boundaries to an infinite extent.
+そしてインターネットは、その境界を限りなく曖昧にした。
 
-> Nostalgia has become the sound of the Internet because the digital world has ""endless memories.''
+> ノスタルジアがインターネットの音になったのは、デジタル世界が「終わらない記憶」を持ったからである。
 
 ---
 

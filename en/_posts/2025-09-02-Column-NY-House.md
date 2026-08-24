@@ -10,170 +10,169 @@ tags:
 - Garage
 - Deep House
 - House
-title: '[Column] From the origins of NY House to the present ─ History, masterpieces,
-  and changes in equipment'
+title: 【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷
 ---
 
 
-## From the origins of NY House to the present ─ History, masterpieces, and changes in equipment
+## NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷
 
-Text: mmr｜Theme: The trajectory of NY house-soulful voices and urban grooves
-
-
-New York House was born out of the echoes of disco and the excitement of underground club culture, and eventually grew into a global dance music capital. In this article, we will trace the history of music from its origins to the present day by year, including historical background, representative masterpieces, and changes in equipment.
-
----
+文：mmr｜テーマ：NYハウスの軌跡-ソウルフルな声と都会のグルーヴ
 
 
-### Late 1970s: Wavering from disco
-- **Background**
-While large-scale discotheques such as Studio 54 were thriving, underground clubs that resisted commercialization were also born. This is where the momentum of the house began.
-- **Representative spots**
-- Paradise Garage (symbolized by Larry Levan's DJ play)
-- **Representative works**
-- First Choice – *Let No Man Put Asunder* (1977)
-- Loose Joints – *Is It All Over My Face* (1980)
-- **Main equipment**
-- Thorens and Technics turntables
-- UREI 1620 mixer
+ニューヨーク・ハウス（NY House）は、ディスコの余韻とアンダーグラウンド・クラブカルチャーの熱気の中から生まれ、やがて世界的なダンスミュージックの中心へと成長しました。本稿では、その発祥から現在までの流れを年代別に、時代背景・代表的な名盤・機材の変遷を交えてたどります。
 
 ---
 
-### Early 1980s: Garage and early house
-- **Background**
-After disco disbanded, a soulful garage sound rooted in black culture dominated clubs in New York. Interactions will also be made with Chicago houses.
-- **Representative artists/works**
-- Peech Boys – *Don"t Make Me Wait* (1982)
-- Visual – *The Music Got Me* (1983)
-- **Equipment**
-- Roland TR-808, LinnDrum
--Roland Juno-60
-- SP-1200 Sampler
+
+### 1970年代後半：ディスコからの揺らぎ
+- **時代背景**  
+  スタジオ54などの大型ディスコが隆盛を極める一方で、商業化に抗うアンダーグラウンド・クラブも誕生。ハウスの胎動はここに芽生えました。  
+- **代表的スポット**  
+  - Paradise Garage（Larry LevanのDJプレイが象徴）  
+- **代表的作品**  
+  - First Choice – *Let No Man Put Asunder* (1977)  
+  - Loose Joints – *Is It All Over My Face* (1980)  
+- **主な機材**  
+  - ThorensやTechnicsのターンテーブル  
+  - UREI 1620ミキサー  
 
 ---
 
-### Late 1980s: Establishment of NY House
-- **Background**
-Influenced by Chicago house, New York has developed a more soulful and sophisticated style. Club culture expands.
-- **Representative works**
-- Todd Terry – *Bango* (1988)
-- Blaze – *If You Should Need A Friend* (1988)
-- **Equipment**
--Roland TR-909
-- Akai S900, S950 sampler
-- Yamaha DX7
+### 1980年代前半：ガラージュと初期ハウス
+- **時代背景**  
+  ディスコ解体後、NYではソウルフルで黒人文化に根差したガラージュ・サウンドがクラブを支配。シカゴのハウスとも交流が生まれる。  
+- **代表的アーティスト／作品**  
+  - Peech Boys – *Don’t Make Me Wait* (1982)  
+  - Visual – *The Music Got Me* (1983)  
+- **機材**  
+  - Roland TR-808, LinnDrum  
+  - Roland Juno-60  
+  - SP-1200 サンプラー  
 
 ---
 
-### 1990s: golden age and diversification
-- **Background**
-House has taken over the world's club scene. NY house is subdivided into styles such as "deep" and "garage."
-- **Representative artists/works**
-- Masters at Work (MAW) – *The Ha Dance* (1991)
-- Barbara Tucker – *I Get Lifted* (1994)
-- Kerri Chandler – *Atmosphere* (1993)
-- **Equipment**
-- Akai MPC series (MPC60, MPC3000)
-- Ensoniq ASR-10
-- Early software sequencers (Cubase, Logic)
+### 1980年代後半：NYハウスの確立
+- **時代背景**  
+  シカゴ・ハウスの影響を受けつつ、NYはよりソウルフルで洗練されたスタイルを形成。クラブ・カルチャーが拡大。  
+- **代表的作品**  
+  - Todd Terry – *Bango* (1988)  
+  - Blaze – *If You Should Need A Friend* (1988)  
+- **機材**  
+  - Roland TR-909  
+  - Akai S900, S950 サンプラー  
+  - Yamaha DX7  
 
 ---
 
-### 2000s: Digitalization and global expansion
-- **Background**
-DJ style changed with the spread of CDJ and PCDJ. Producers in New York are also working with the European scene to create a more sophisticated sound.
-- **Representative works**
-- Dennis Ferrer – *Hey Hey* (2003)
-- Quentin Harris – *Let"s Be Young* (2004)
-- **Equipment**
-- Pioneer CDJ series (CDJ-1000 or later)
--Pro Tools, Ableton Live
+### 1990年代：黄金期と多様化
+- **時代背景**  
+  ハウスが世界のクラブシーンを席巻。NYハウスは「ディープ」「ガラージュ」などのスタイルに細分化。  
+- **代表的アーティスト／作品**  
+  - Masters at Work (MAW) – *The Ha Dance* (1991)  
+  - Barbara Tucker – *I Get Lifted* (1994)  
+  - Kerri Chandler – *Atmosphere* (1993)  
+- **機材**  
+  - Akai MPCシリーズ（MPC60, MPC3000）  
+  - Ensoniq ASR-10  
+  - 初期のソフトウェアシーケンサー（Cubase, Logic）  
 
 ---
 
-### 2010s: House Revival and Crossover
-- **Background**
-Behind the scenes of the EDM boom, authentic NY house is being reevaluated. Deep house and classic garage are back in the spotlight.
-- **Representative works**
-- Levon Vincent – ​​*NS-07* (2010)
-- DJ Qu – *Party People Clap* (2011)
-- **Equipment**
-- Ableton Live + Push
-- Native Instruments Maschine
-- The resurgence of modular synths
+### 2000年代：デジタル化と世界展開
+- **時代背景**  
+  CDJとPCDJの普及によりDJスタイルが変革。NYのプロデューサーは欧州シーンとも連動し、より洗練された音へ。  
+- **代表的作品**  
+  - Dennis Ferrer – *Hey Hey* (2003)  
+  - Quentin Harris – *Let’s Be Young* (2004)  
+- **機材**  
+  - Pioneer CDJシリーズ（CDJ-1000以降）  
+  - Pro Tools, Ableton Live  
 
 ---
 
-### 2020s: House diversity and sustainability
-- **Background**
-After the pandemic, online streaming and virtual clubs have become popular. NY house has evolved across genres from a global perspective.
-- **Representative works**
-- Honey Dijon – *Black Girl Magic* (2022)
-- Louie Vega – *Expansions in the NYC* (2021)
-- **Equipment**
-- Hardware/software hybrid environment
-- Refocusing on modular and analog synths
-- DJ equipment that supports streaming (Rekordbox, Serato)
+### 2010年代：ハウスのリバイバルとクロスオーバー
+- **時代背景**  
+  EDMブームの裏で、本格的なNYハウスの再評価が進む。ディープハウスやクラシック・ガラージュが再び脚光を浴びる。  
+- **代表的作品**  
+  - Levon Vincent – *NS-07* (2010)  
+  - DJ Qu – *Party People Clap* (2011)  
+- **機材**  
+  - Ableton Live + Push  
+  - Native Instruments Maschine  
+  - モジュラーシンセの再流行  
 
 ---
 
-### Representative DJ/Producer
-
--Larry Levan
-- Frankie Knuckles (Connecting Chicago and NY)
-- Masters at Work (Louie Vega & Kenny Dope)
--David Morales
-- Tony Humphries
-- Kerri Chandler
-- Barbara Tucker (important as a singer)
-- Joe Claussell
--Honey Dijon
-
----
-
-### Representative Club (NYC)
-
-- **Paradise Garage (1977–1987)**
-Larry Levan's legendary home. The starting point for NY House.
-
-- **The Loft**
-Hosted by David Mancuso. The origin of private party culture.
-
-- **Sound Factory (1989–1995)**
-Junior Vasquez is a resident. Symbolizing the golden age of vocal house in the 90s.
-
-- **Shelter**
-Timmy Regisford is known for his spiritual play.
-
-- **Cielo/Output (2000s~2010s)**
-Brooklyn new generation club. A place of deep and soulful heritage.
+### 2020年代：ハウスの多様性と持続
+- **時代背景**  
+  パンデミックを経てオンライン配信やバーチャル・クラブが普及。NYハウスはグローバルな視点でジャンル横断的に進化。  
+- **代表的作品**  
+  - Honey Dijon – *Black Girl Magic* (2022)  
+  - Louie Vega – *Expansions in the NYC* (2021)  
+- **機材**  
+  - ハード／ソフトのハイブリッド環境  
+  - モジュラー、アナログシンセの再注目  
+  - ストリーミング対応のDJ機材（Rekordbox, Serato）  
 
 ---
 
-### A "map" introduction to the scene: NY House base
+### 代表的DJ／プロデューサー
 
-- **Manhattan Downtown**
-- Paradise Garage, The Loft, Sound Factory
-- The intersection of underground culture and the LGBTQ community
-
-- **Brooklyn**
-- New generation clubs such as Output, Nowadays
-- Since the 2010s, the center of the NY scene has moved
-
-- **Queens/Bronx**
-- Communities with Latin-Afro elements provide an important sense of rhythm
+- Larry Levan  
+- Frankie Knuckles（シカゴとNYを繋ぐ存在）  
+- Masters at Work（Louie Vega & Kenny Dope）  
+- David Morales  
+- Tony Humphries  
+- Kerri Chandler  
+- Barbara Tucker（シンガーとして重要）  
+- Joe Claussell  
+- Honey Dijon  
 
 ---
 
-### Still on dance floors around the world
-While NY house was influenced by Chicago house, it inherited the genes of disco culture and established its own musical style of ""soulful, human groove.'' The city's culture, diverse communities, and innovations in DJing and club sound systems have created an ever-evolving musical heritage.
+### 代表的クラブ（NYC）
+
+- **Paradise Garage（1977–1987）**  
+  Larry Levanの伝説的拠点。NYハウスの出発点。  
+
+- **The Loft**  
+  David Mancusoが主催。プライベートパーティ文化の源流。  
+
+- **Sound Factory（1989–1995）**  
+  Junior Vasquezがレジデント。90年代ヴォーカルハウス黄金期を象徴。  
+
+- **Shelter**  
+  Timmy Regisfordのスピリチュアルなプレイで知られる。  
+
+- **Cielo / Output（2000s〜2010s）**  
+  ブルックリン新世代クラブ。ディープ＆ソウルフルの継承地。  
+
+---
+
+### シーンの「地図的」紹介：NYハウスの拠点
+
+- **マンハッタン・ダウンタウン**  
+  - Paradise Garage, The Loft, Sound Factory  
+  - アンダーグラウンド文化とLGBTQコミュニティの交差点  
+
+- **ブルックリン**  
+  - Output, Nowadays など新世代クラブ  
+  - 2010年代以降、NYシーンの中心が移動  
+
+- **クイーンズ／ブロンクス**  
+  - ラテン・アフロ要素を持つコミュニティが重要なリズム感覚を供給  
+
+---
+
+### 今も世界中のダンスフロアに
+NYハウスは、シカゴ・ハウスの影響を受けながらも、ディスコ文化の遺伝子を引き継ぎ、「ソウルフルで人間的なグルーヴ」という独自の音楽性を確立しました。都市の文化、多様なコミュニティ、そしてDJとクラブ・サウンドシステムの革新が生み出した音楽遺産は、今もなお進化し続けています。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GqU193jA5kg?si=z_X40NiLoIX6iX2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

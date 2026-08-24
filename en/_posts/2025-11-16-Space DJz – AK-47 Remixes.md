@@ -13,7 +13,7 @@ title: Space DJz – AK-47 Remixes
 ---
 
 
-A 2-disc collection of remixes of ""AK-47,'' released in 1998 by London-based British techno DJ/producer duo Space DJz, by Chris McCormack, Oliver Ho, The Advent, Inigo Kennedy, Umek, Gaetek, and others.
+ロンドンを拠点とするイギリスのテクノDJ／プロデューサーデュオSpace DJzが1998年にリリースした「AK-47」をChris McCormack 、Oliver Ho、The Advent、Inigo Kennedy、Umek、Gaetekらがremixしたリミックス集2枚組。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ D1. AK-47 (Gaetek Remix 2)
 D2. Shock Tactics Pt. 2
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m10446476972?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10446476972?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/po0_Cpk3Dig?si=5NPbjreeuyVFN5eL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

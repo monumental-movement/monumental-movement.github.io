@@ -8,25 +8,24 @@ layout: post
 tags:
 - History
 - Ambient
-title: '[Column] The miracle of listening: The future of "sound" envisioned by the
-  Hearing Health Foundation'
+title: 【コラム】 聴くという奇跡──Hearing Health Foundationが描く“音”の未来
 ---
 
 
-## Introduction: Poetics of the sense of hearing
+## 序章：耳という感覚の詩学
 
 
 Text: mmr｜Theme: The ear is a small universe. Explore the mysteries and future of the act of "listening" through HHF's activities that support hearing research, prevention, and regeneration.
 
 
-> "Silence is the most important part of music"
-> — Miles Davis
+> 「沈黙こそ、音楽の最も大切な一部である」  
+> — マイルス・デイヴィス
 
-The ear is not just an organ for picking up sound.
-It is a "poetic device" for carrying memories and connecting with the world.
+耳は、単に音を拾うための器官ではない。  
+それは記憶を運び、世界とつながるための“詩的装置”だ。  
 
 **Hearing Health Foundation (HHF)** works to protect and restore this "ability to listen."
-As the largest hearing and balance research fund in the United States, they support everything from investigating the causes of hearing loss and tinnitus to the forefront of regenerative medicine and gene therapy.
+米国最大の聴覚・平衡感覚研究基金として、彼らは聴覚障害や耳鳴りの原因究明から、再生医療・遺伝子治療の最前線までを支援している。
 
 ---
 
@@ -47,41 +46,41 @@ color: #fff;
 ## 1. The science of listening: the universe inside your ears
 
 > "Sound makes the air tremble and the heart tremble."
-> — Brian Eno
+> — ブライアン・イーノ
 
-Sound picked up by the outer ear vibrates the eardrum, passes through the auditory ossicles and reaches the cochlea.
-Hair cells in the inner ear convert these vibrations into electrical signals, which the brain recognizes as "sound."
-The HHF website provides an easy-to-understand explanation of the mechanisms of **sensorineural hearing loss**, **Meniere's disease**, and **hypersensitivity** caused by breakdowns in this delicate system.
+外耳で拾われた音は鼓膜を震わせ、耳小骨を通って蝸牛へ。  
+内耳の有毛細胞がその振動を電気信号に変え、脳が“音”として認識する。  
+HHFのサイトには、この精妙なシステムの破綻によって引き起こされる**感音性難聴**や**メニエール病**、**過敏聴覚**のメカニズムがわかりやすく解説されている。
 
-Sound collected in the outer ear is transmitted through the eardrum to the ossicles in the middle ear, and then to the cochlea in the inner ear.
-From there, it is converted into an electrical signal and sent to the brain stem and auditory cortex via the auditory nerve.
-Listening to sound is truly the ""music of life,'' connecting everything from physical phenomena to neurological and cognitive processes.
+外耳で集められた音は、鼓膜を経て中耳の耳小骨に伝わり、内耳の蝸牛へ。
+そこから電気信号へ変換され、聴覚神経を通じて脳幹・聴覚野に届く。
+Listening to sound is truly the "music of life," involving everything from physical phenomena to neurological and cognitive processes.
 
 ---
 
-## 2. Landscape of hearing impairment ─ Rhythm in silence
+## 2. 聴覚障害の風景──静寂の中のリズム
 
-Singer Grimes continues to create music despite suffering from tinnitus.
-"There's order even in the noise," she says.
+歌手グライムスは、耳鳴りに悩まされながらも楽曲制作を続けている。  
+「ノイズの中にも秩序がある」と彼女は語る。  
 Hearing loss may be a process of "reconstruction" rather than loss.
 
-HHF continues to support research into tinnitus and balance disorders.
-The scope of this research is not limited to simple medical research, but also extends to the field of neuroscience, which elucidates the interaction between hearing and the brain.
+HHFは、耳鳴り（**Tinnitus**）やバランス障害の研究支援を続けている。  
+その対象は、単なる医学研究にとどまらず、「聴覚と脳の相互作用」を解き明かすニューロサイエンス領域にも及ぶ。
 
 ---
 
-## 3. The science of regeneration -- the dream of bringing back sound
+## 3. 再生の科学──音を取り戻すという夢
 
-"The ear is a circuit, and music is an electric current."
-— Ryuichi Sakamoto
+「耳は回路であり、音楽は電流だ。」  
+— 坂本龍一
 
-The HHF-supported **Hearing Restoration Project (HRP)**
-Research on cell therapy and gene therapy to regenerate lost hair cells is progressing.
-This is an experiment in the future that will make the recovery of "listening" a reality.
+HHFが支援する**Hearing Restoration Project（HRP）**では、  
+失われた有毛細胞を再生するための細胞療法・遺伝子治療の研究が進む。  
+これは、“聴くこと”の回復を現実のものとする未来への実験だ。
 
-Technological innovations in cochlear implants and new hearing aids are also remarkable.
-From "amplifying sound" to "delivering it directly to the brain".
-In the field of sound design, research on "auditory UI" using brain waves is accelerating.
+人工内耳や新型補聴器の技術革新も目覚ましい。  
+“音を増幅する”から“脳に直接届ける”へ。  
+サウンドデザインの領域でも、脳波を利用した“聴覚的UI”研究が加速している。
 
 ### ▶︎ Diagram: Auditory signal pathway (from sound waves to auditory cortex)
 
@@ -119,11 +118,11 @@ sequenceDiagram
 <div class="mermaid">
 
 flowchart LR
-  音波 -->|sound collection| 耳
-  耳 -->|amplification| 蝸牛
+  音波 -->|集音| 耳
+  耳 -->|増幅| 蝸牛
   蝸牛 -->|conversion| 神経信号
   神経信号 -->|transmission| 脳
-  脳 -->|recognition| 聴覚体験
+  脳 -->|認識| 聴覚体験
 
 </div>
 
@@ -134,55 +133,55 @@ flowchart LR
 ---
 
 This route is an "auditory journey."
-The physical tremors in the air eventually sublimate into "music" connected to emotions and memories.
-Research on the complex hierarchical structure is also applied to the design of speech recognition models for artificial intelligence.
+物理的な空気の震えが、やがて感情や記憶と結びついた「音楽」へと昇華していく。
+その複雑な階層構造の研究は、人工知能の音声認識モデル設計にも応用されている。
 
 ---
 
-## 4. Between Noise and Silence: A Cultural Theory of Prevention
+## 4. 騒音と沈黙のあいだ──予防のカルチャー論
 
-The loud sounds of rock concerts, the excessive use of earphones, and the noise of the city.
-These can be called modern-day "aural pollution."
-HHF's campaign #KeepListening is a social movement that reconsiders the relationship between volume and distance.
+ロック・コンサートの爆音、イヤホンの過剰使用、都市の騒音。  
+これらは現代の“聴覚汚染”といえる。  
+HHFのキャンペーン「#KeepListening」は、音量と距離の関係を再考する社会的ムーブメントだ。
 
 In fact, David Bowie was very concerned about his ear health.
-During the tour, the stage monitor volume was set to half the normal volume.
+ツアー時にはステージのモニタ音量を通常の半分に設定していたという。  
 Protecting your hearing is also a form of "artistic self-care" that allows you to continue expressing yourself for a long time.
 
 ---
 
 ## 5. The fate of musicians and the ear: "Cultural history of hearing" interpreted through anecdotes
 
-- **Beethoven**: Completed the Ninth in the despair of hearing loss.
+- **ベートーヴェン**：難聴の絶望の中で《第九》を完成。  
 - **Pete Townshend (The Who)**: Lost his hearing due to the loud noise of a live performance and started campaigning to raise awareness of hearing protection.
-- **Phil Collins**: Toured despite having hearing loss in one ear.
-- **Radiohead**'s Thom Yorke: Despite suffering from tinnitus, he sublimated his "inner sounds" into songs.
+- **フィル・コリンズ**：片耳難聴を抱えながらもツアーを敢行。  
+- **レディオヘッド**のトム・ヨーク：耳鳴りを抱えつつ、“内なる音”を楽曲に昇華。
 
-These anecdotes show that music doesn't end when your ears are damaged.
+これらの逸話が示すのは、**耳が壊れても音楽は終わらない**ということだ。  
 HHF's philosophy also provides scientific support for its spirit.
 
 ---
 
-## 6. Society and support: a community that creates the future of the ear
+## 6. 社会と支援──耳の未来をつくるコミュニティ
 
-HHF fosters cultural literacy in hearing health through donations, research grants, and education.
-For example, the **Emerging Research Grants** winners selected each year are:
-From gene editing to artificial intelligence, he depicts the "future of listening" from a variety of angles.
+HHFは寄付・研究助成・教育を通じて、聴覚健康の“文化的リテラシー”を育てている。  
+例えば、毎年選出される**Emerging Research Grants**受賞者たちは、  
+遺伝子編集から人工知能まで、多様な角度から“聴く未来”を描いている。
 
-In addition, in the online magazine for the general public, **Hearing Health Magazine**,
+また、一般向けのオンライン誌「**Hearing Health Magazine**」では、  
 It features actual experiences and columns from experts, and proposes ear health as a lifestyle.
 
 ---
 
-## 7. Conclusion: The future of listening
+## 7. 結語：聴くという行為の未来
 
-"Music is the art of listening, and listening is living."
-— John Cage
+「音楽は“聴くこと”の芸術であり、聴くことは“生きる”ことだ。」  
+— ジョン・ケージ
 
-The science of hearing is also the science of our sensibilities.
+聴覚の科学は、私たちの感性の科学でもある。  
 The reproduction of sound may be the ""reproduction of human existence.''
-The Hearing Health Foundation's activities transcend the boundaries between medicine and art.
-It quietly illuminates the future of the culture surrounding "listening."
+Hearing Health Foundationの活動は、医学とアートの境界を超え、  
+“聴くこと”をめぐる文化の未来を静かに照らしている。
 
 ---
 
@@ -190,15 +189,15 @@ It quietly illuminates the future of the culture surrounding "listening."
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FIT6u4-HPaY?si=1erQ82Ti6X871M2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-## Reference links
+## 参考リンク
 
-- [Hearing Health Foundation Official Website](https://hearinghealthfoundation.org)
-- [Hearing Health Magazine](https://hearinghealthfoundation.org/magazine)
-- [#KeepListening Campaign](https://hearinghealthfoundation.org/keeplistening)
+- [Hearing Health Foundation 公式サイト](https://hearinghealthfoundation.org)  
+- [Hearing Health Magazine](https://hearinghealthfoundation.org/magazine)  
+- [#KeepListening Campaign](https://hearinghealthfoundation.org/keeplistening)  

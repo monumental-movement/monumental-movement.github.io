@@ -13,7 +13,7 @@ title: Silent Phase – (The Theory Of)
 ---
 
 
-Stacey Pullen, also known as Silent Phase, was a techno DJ and producer from Detroit who was active in the 1990s. Other names include Kosmic Messenger and Bango. This album is their only album under the name Silent Phase, and features a deep, mellow sound that is a mix of jazz, ambient, IDM, and techno. It has been praised as an artistic Detroit techno piece.
+Silent PhaseことStacey Pullenは、1990年代に活躍したデトロイト出身のテクノDJ・プロデューサー。別名義でKosmic Messenger、Bangoなどがある。このアルバムはSilent Phase名義での唯一のアルバムで、ジャズ、アンビエント、IDM、テクノが混ざったディープでメロウなサウンドが特徴。アーティスティックなデトロイトテクノ作品として評価されている。
 
 The album was released by Derrick May"s Transmat, one of the most important techno labels established in Detroit before 1990 (distributed by Carl Craig"s Planet E), and Belgian independent label R&S Records. This CD is a Belgian edition.
 

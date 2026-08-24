@@ -8,17 +8,16 @@ layout: post
 tags:
 - Percussion
 - Iran
-title: '[Column] Poetry of the heartbeat: The world of Iranian genius percussionist
-  Mohammad Reza Mortazavi'
+title: 【コラム】 鼓動の詩：イランの天才パーカッショニスト、Mohammad Reza Mortazaviの世界
 ---
 
 
-## 1. Introduction
+## 1. はじめに
 
 
-Text: mmr｜Theme: Carefully follow his path from his upbringing to the present, exploring the core of his innovation, philosophy, collaboration, and experience he brings to listeners.
+文：mmr｜テーマ：彼の生い立ちから現在に至るまでの歩みを丁寧に追い、彼の技術革新、哲学、コラボレーション、そしてリスナーにもたらす体験の核心を探る
 
-Mohammad Reza Mortazavi is a rare percussionist who fundamentally reinterprets traditional Persian percussion instruments into modern musical expression. His performances are not just a display of rhythmic technique, but sometimes involve a deep spirituality that induces a trance, inviting the audience on a physical and conscious journey. In this sense, his activities are important in creating new musical horizons that go beyond the binary oppositions of ""traditional music and experimental music," ""East and West," and ""past and future.''
+モハマド・レザ・モルタザヴィは、伝統的ペルシア打楽器を現代の音楽表現において根本から再解釈した稀有なパーカッショニストである。彼の演奏は、ただのリズミックな技巧の披露ではなく、時にトランスを誘発する深い精神性を伴い、聴衆を身体的・意識的な旅へと誘う。その意味で、彼の活動は「伝統音楽と実験音楽」「東洋と西洋」「過去と未来」といった二項対立を超える、新しい音楽地平の創出として重要である。
 
 ---
 
@@ -27,7 +26,7 @@ Mohammad Reza Mortazavi is a rare percussionist who fundamentally reinterprets t
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -36,238 +35,238 @@ color: #fff;
 </style>
 
 
-### 2. Early life and origins
+### 2. 幼少期と出自
 
-Mortazavi was born in 1978 (or 1979) in the ancient capital of Iran, **Isfahan**.
-His parents had a musical background and warmly watched over his interest in music at a young age.
+モルタザヴィは、1978年（あるいは1979年）にイランの古都 **イスファハン** に生まれた。
+両親は音楽的バックグラウンドを持ち、幼い彼の音楽への関心を温かく見守っていたという。
 
-At the age of six, he began learning tombak ("tombak" in English, tonbak or zarb in Persian). He took lessons with a traditional tambak player, but within just a few years his talent was recognized as surpassing that of his teacher, and there is an anecdote that at the age of nine, his teacher admitted that he could no longer teach.
+6歳のとき、タムバック（英語では “tombak”、ペルシア語で tonbak または zarb）を学び始める。伝統的なタムバック奏者の師匠の元でレッスンを受けたが、わずか数年でその才能は師をも上回ると評価され、9歳の時点で「もはや教えられることはない」と師が認めたという逸話がある。
 
-At the age of 10, he won his first victory in the annual Tambak competition held in Iran. Since then, he has won consecutively and become known throughout the country as a young talent.
-During this period, his relationship with musical instruments in his life went beyond a mere hobby and grew into the core of his identity.
+10歳にして、イラン国内で毎年開かれるタムバック競技で初優勝。以降も連続して勝利を重ね、若き才能として全国に名を知られるようになる。
+この時期、彼の人生における楽器との関係は単なる趣味の域を越え、アイデンティティの核へと成長していく。
 
 ---
 
-### 3. Traditional musical instruments called tambak and duff - their meaning and background
+### 3. タムバックおよびダフという伝統楽器――その意味と背景
 
-His main instrument, the tombak, is a traditional percussion instrument that forms the core of Persian music. It has a goblet-shaped body and is made by tapping the leather surface with the hands or fingers, giving it an extremely rich tone and expressive power.
-Through a variety of playing techniques, the tamback has a history of establishing itself not only as an accompaniment instrument but also as a solo instrument.
+彼が扱う主要な楽器である **タムバック**（tombak／トンバック／ザルブ）は、ペルシア音楽の核心をなす伝統打楽器である。ゴブレット（杯）型の胴をもち、皮を張った面を手や指で叩く構造は、非常に豊かな音色と表現力を持つ。
+多様な奏法を通じて、タムバックは伴奏だけではなくソロ楽器としての地位を確立してきた歴史がある。
 
-Additionally, the **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi has performed not only with tombak, but also with duff, and has developed solo and collaborative performances that take advantage of the characteristics of each.
+また、**ダフ (Daf)** は大きなフレームドラムで、メタルの輪や鈴が付いていることがあり、祝祭的・儀式的な用途もある伝統的楽器だ。モルタザヴィはタムバックだけでなく、ダフも演奏対象とし、それぞれの特性を活かしたソロおよび共演を展開してきた。
 
 The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of musical instruments and derive unknown expressions from there.
 
 ---
 
-### 4. Adolescent talent and training
+### 4. 青年期の才能と修業
 
-Despite his competitive success throughout his childhood, Mortazavi was more than just a winner. At the same time as he mastered traditional playing techniques, his inquisitive mind turned to questions such as, ""Why is the tamback played this way?" and ""Are there any sounds that have not yet been used?"
+少年期を通じて競技会での成功を重ねる一方で、モルタザヴィは単なる勝利者にはとどまらなかった。伝統奏法の技術を習得すると同時に、彼の探求心は「なぜタムバックはこう演奏されてきたのか」「まだ使われていない音はあるか」へと向かっていた。
 
-He began his own research without being bound by existing teachings or customs. We carefully observe and practice the physical interaction between the body and the instrument, such as the different parts of the skin, the resonance of the torso, the use of fingers, the position of the palm, and the application of nails and joints. This brings out new sounds that were not found in traditional music.
+彼は既存の教則や慣習に縛られることなく、自己流の研究を開始する。皮面の異なる場所、胴の共鳴、指の使い方、掌のポジション、爪と関節の応用など、身体と楽器の物理的な相互作用を丹念に観察・実践。これにより、伝統にはなかった新たな音響を引き出していく。
 
-He also became a teacher at a young age. There is also a record that he taught younger students from around the age of 12.
-Teaching gave him the opportunity to verbalize and organize his own skills, which became a virtuous cycle that led to further evolution.
-
----
-
-### 5. Innovation: 30+ new striking/finger techniques
-
-Mortazavi's most notable accomplishment is **more than 30 self-developed striking and finger techniques**. This was not just a new artistic style, but an innovation that fundamentally expanded the physical possibilities of the tamback instrument.
-
-Specifically, the approaches include:
-
-* **Use of different hitting points**: Attack areas that traditional players do not use, such as the center of the leather, the edge (rim), and the body (wooden part).
-* **Various parts of the hand**: The entire hand of the player is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and parts that would otherwise be considered taboo.
-* **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
-* **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
-* **Resonance operation**: Controls the resonance of the body and designs the aftertaste when hitting. In this way, the "reverberation" of the sound that remains after a single hit is used as an expressive element.
-
-These techniques have also received conservative criticism from some traditional masters. However, rather than denying tradition, Mortazavi remained determined to explore its depth and potential.
+また、若くして教える立場にもなった。12歳頃から後進を指導したとされる記録もある。
+教えることは、彼自身の技術を言語化し、整理する機会を与え、それがさらなる進化を呼ぶ好循環となった。
 
 ---
 
-### 6. Departure and turning point in Berlin, Germany
+### 5. 技術革新：30以上の新打撃／指テクニック
 
-In his early 20s, Mortazavi reached a turning point in his career. At the age of 22, he performed for the first time in Germany (Munich) and attracted strong interest from European audiences. His success paved the way for him to move his base of operations to Germany.
+モルタザヴィの最も注目すべき功績は、**30以上に及ぶ自己開発による打撃および指技術**である。これは単なる芸風としての目新しさではなく、タムバックという楽器の身体的・物理的可能性を根本から拡張する革新であった。
 
-Eventually, he established a base in Berlin and began his activities on the international stage in earnest. Berlin was Mortazavi's encounter with experimental music, electronic music, and performance art, and became the city where his artistic explorations accelerated.
+具体的には、以下のようなアプローチが含まれる：
 
-In 2003, he won the **RUTH Award, Newcomer Category** out of over 600 competitors. This award sealed his international recognition.
+* **異なる打点の活用**：皮の中心、縁（リム）、胴（木部分）など、従来奏者が使わない場所へのアタック。
+* **多様な手の部分**：指先、関節、爪、手の平、親指の根、本来タブー視される部位も含め、奏者の手全体を楽器とみなす。
+* **ポリリズム的アプローチ**：同一楽器内で複数の声部 (レイヤー) を同時に鳴らす技術。これは、たった一人の奏者によるアンサンブル的な演奏を可能にする。
+* **ダイナミクスの幅**：極めて静かなタッチから爆発的な打撃まで、音の強弱、テンポ、密度を自在に操る。
+* **共鳴操作**：胴の響きをコントロールし、打撃時の余韻を設計。これにより、一打のあとに残る音の「残響」を一つの表現要素として用いる。
 
-In 2010, his dream became a reality when his solo performance was held at the **Berlin Philharmonie**. In the same year, he released the album "Green Hands".
-For him, this year was a symbolic turning point, as his musical identity, standing between tradition and experimentation, became clear to the world.
+これらの技術は、一部の伝統的マスターから保守的な批判を受けることもあった。しかし、モルタザヴィは伝統を否定するのではなく、伝統の深みと可能性を探るという姿勢を崩さなかった。
 
 ---
 
-### 7. Analysis of major works and music world
+### 6. ドイツ、ベルリンへの旅立ちと転機
 
-Mortazavi's discography is a map of the evolution of his explorations. Below, we will delve deeper into each of his major works to decipher his musical vision and technique.
+20代前半、モルタザヴィは自身のキャリアの転機を迎える。22歳のときに初めてドイツ（ミュンヘン）で演奏し、ヨーロッパの聴衆から強い関心を引きつける。その成功は、彼に活動基盤をドイツに移す道を開いた。
+
+やがて彼はベルリンに拠点を定め、国際舞台での活動を本格化。ベルリンはモルタザヴィにとって、実験音楽、電子音楽、パフォーマンス・アートとの出会いの場であり、彼の芸術的探求が加速する都市となった。
+
+2003年には、600人を超える競合者の中から **RUTH（ルース）賞、新人部門** を受賞。この受賞は、彼の国際的認知を決定づけるものとなった。
+
+2010年には、彼のソロ公演が **ベルリン・フィルハーモニー** で行われるという夢が現実化。同年、アルバム『Green Hands』をリリース。
+彼にとって、この年は象徴的なターニングポイントであり、伝統と実験の狭間に立つ彼自身の音楽アイデンティティが世界に明確に示されることになった。
+
+---
+
+### 7. 主要作品の分析と音楽世界
+
+モルタザヴィのディスコグラフィは、彼の探求の進化を物語る地図のようなものだ。以下、それぞれの主要作品を深掘りしながら、彼の音楽的ビジョンと技術を読み解く。
 
 #### 7.1 "Green Hands"
 
-Released in 2010, this album is a symbolic departure for Mortazavi. Although it is a solo performance using only traditional instruments (tamback/duff), his technological innovation and sound design are already clearly imprinted. Each track features delicate, multi-layered rhythms that make full use of fingers, palms, and nails, giving the listener the illusion that a single instrument has multiple voices.
+2010年リリースのこのアルバムは、モルタザヴィの象徴的な出発点である。 伝統楽器（タムバック／ダフ）のみを使ったソロ演奏でありながら、彼の技術革新と音響設計がすでに鮮明に刻み込まれている。各トラックには、指や掌、爪などを駆使した繊細で多層のリズムが展開され、ひとつの楽器が複数の音声を持つかのような錯覚を聴き手に与える。
 
-What is noteworthy is that his style of hitting is not only fast, but also extremely dynamic. The resonance in a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. As his hands slide across the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
+特筆すべきは、彼の打ち方が単に速いだけではなく、非常にダイナミックである点だ。静かなタッチの中にある共鳴、強打による鋭い切れ味、そしてその中間を滑らかに行き交うグラデーション。彼の手が皮面を滑り、胴の木を叩き、指が爪を使って跳ねるたび、異なる音色が階層的に交差し、強い存在感を持つ。
 
-Also, the recording/mixing of this album cannot be ignored. When his percussion instruments are reconstructed in space through a microphone, their echoes and reverberations are vividly captured, creating a soundscape that feels like listening to a microcosm.
+また、このアルバムの録音／ミキシングの妙も無視できない。彼の打楽器がマイクを通じて空間に再構築される際、その余韻と反響が鮮やかに捉えられており、まるで小宇宙を聴いているかのようなサウンドスケープが生成されている。
 
-#### 7.2 "Codex"
+#### 7.2 『Codex』
 
-""Codex"' is one of Mortazavi"s attempts to further systematize and write down (encode) his own technical language. The fusion of traditional playing methods and his own innovative playing methods has progressed further, and the song structures have been highly elaborated. He does not simply improvise, but presents the listener with the time and rhythm designed as a piece of work.
+『Codex』はモルタザヴィがさらに自己の技術的言語を体系化し、書き記す（コード化する）挑戦のひとつである。伝統奏法と彼自身の革新的奏法の融合がさらに進み、楽曲構造が高度に練られている。彼はただ即興するのではなく、作品として設計された時間とリズムを聴き手に提示する。
 
-This album is very precisely structured in terms of the selection of hitting points, the periodicity of the rhythm, the balance between repetition and change, and it feels like the performer's own internal dialogue is being externalized as it is.
+このアルバムにおいては、打点の選択、リズムの周期性、反復と変化のバランスなどが非常に緻密に構成されており、演奏者自身の内的対話がそのまま外化されているように感じられる。
 
-#### 7.3 "Transformation"
+#### 7.3 『Transformation』
 
-""Transformation"' is an important work that shows the spiritual deepening of Mortazavi"s artistry. This album has been widely featured in his media coverage, and the process of his philosophical exploration and physicality opening up as sound can be clearly seen.
+『Transformation』は、モルタザヴィの芸術性におけるスピリチュアルな深化を示す重要な作品。彼のメディア掲載でもこのアルバムが大きく取り上げられており、彼の哲学的探求と身体性が音として開かれていく過程が明確に見える。
 
-This work includes performances using not only tombacks but also duffs and other acoustic objects. He presents music not as a mere sequence of rhythms, but as a process that transforms time itself, creating a trance-like experience for the listener.
+この作品では、タムバックのみならず、ダフや他のアコースティックな物体を使った演奏も含まれる。彼は音楽を、単なるリズムの連続ではなく、時間そのものを変容させるプロセスとして提示しており、聴く者にトランス的な体験をもたらす。
 
-#### 7.4 "Ritme Jaavdanegi"
+#### 7.4 『Ritme Jaavdanegi』
 
-The album, released on the Latency label, reflects a deep exploration of Mortazavi's core theme of jaavdanegi. The title comes from the Persian word for "rhythm of eternity," and the song has a structure of continuous repetition, circulation, and subtle changes.
+Latency レーベルからリリースされたこのアルバムは、モルタザヴィの中核的テーマである「永続性 (jaavdanegi)」への深い探求を反映している。 タイトルはペルシア語の “永遠のリズム (rhythm of eternity)” を表す言葉であり、楽曲には反復、循環、微妙な変化が持続的に重なってゆく構造がある。
 
-Critics have cited his view that ""unlike a metronome, the human pulse is flexible and not fixed.'' This theme is also evident in his live shows, where he places importance on creating a "common pulse" with the audience.
+批評家からは、「メトロノームとは異なり、人間の鼓動 (pulse) は柔軟で固定されていない」という彼の見解が取り上げられている。 彼のライブでもこのテーマは顕著であり、彼は観客との間に「共通の拍動 (common pulse)」を作り出すことを重要視してきた。
 
-#### 7.5 "Prisma"
+#### 7.5 『Prisma』
 
-Released in 2022, this album represents a further expansion of Mortazavi"s music. According to Flussbad"s performance information, in addition to tombacks and duffs, various acoustic objects have been introduced, including bird whistles, small marimbas, kalimbas, and small cymbals. This expands the range of tones and enables a more three-dimensional and spiritual spatial expression.
+2022年にリリースされたこのアルバムは、モルタザヴィの音楽のさらなる拡張を示す作品だ。Flussbad の公演情報などによれば、タムバックとダフに加えて、鳥の笛、小型マリンバ、カリンバ、小さなシンバルなど、さまざまな音響オブジェクトが導入されている。 これにより音色の幅が広がり、より立体的で精神的な空間表現が可能になっている。
 
-Through this work, he has elevated his performance style to a fusion of "minimalism + multi-layeredness," placing more emphasis on exploring the balance between the margins of sound and the balance between silence and resonance rather than the brilliance of technique.
+彼はこの作品を通じて、自らの演奏スタイルを “ミニマリズム + 多層性” の融合に昇華させており、技巧の華やかさよりも、音の余白、静寂と響きのバランスを探ることに重きを置いている。
 
-#### 7.6 Latest works and future prospects
+#### 7.6 最新作および今後への展望
 
-His latest album, Nexus (Latency), recorded in Berlin, is an important milestone in his new direction. In this work, in addition to the acoustic hand drums he has traditionally used, he introduces effects processing and sound treatments, pushing his rhythm and language even further into the future.
+彼の最新作 『Nexus』 （Latency） は、ベルリンで録音され、彼の新たな方向性を示す重要なマイルストーンである。この作品では、彼が従来用いてきたアコースティックな手打ち太鼓に加えてエフェクト処理やサウンド・トリートメントを導入し、彼のリズム・言語をさらに未来へと押し上げている。
 
-As the title "Nexus" suggests, it is conceived as a work that explores the intersection of past and future, tradition and innovation, and the body and electronic acoustics, and will likely play a central role in future live performances, collaborations, and further recording activities.
-
----
-
-### 8. Collaboration and cross-genre activities
-
-Mortazavi has expanded his rhythm and philosophy not only through solo performances but also through collaborations with various artists and genres.
-
-Particularly noteworthy is the collaboration with electronic/experimental music. His EPs with **Burnt Friedman** (e.g. *Yek*) explore repetitive and cyclical rhythms, fusing traditional percussion with electronic beats.
-This collaboration created a unique fusion of his polyphonic techniques and the structural rhythms of electronic music.
-
-It has also been reported that he interacts with people such as **Mark Fell**, which proves that he has been deeply accepted by the experimental music community.
-
-Collaboration with the performing arts is also one of his important activities. Through his collaborations with ballet, dance performances, and theater, his rhythm becomes the core of his physical expression. In fact, there are reports that he has created works with choreographers at places such as the Linz Regional Opera House (Landestheater Linz).
-
-Furthermore, he regularly appears at festivals and workshops around the world, bridging tradition and experimentation.
+As the title "Nexus" suggests, it is conceived as a work that explores the intersection of past and future, tradition and innovation, and the body and electronic acoustics, and will play a central role in future live performances, collaborations, and further recording activities.
 
 ---
 
-### 9. Live experience - physicality, spirituality, trance
+### 8. コラボレーションとジャンル横断的活動
 
-Playing Mortazavi live is a very physical and spiritual experience. Every time his hand hits the skin, the space trembles, and the audience's breathing and concentration are drawn into the rhythm. As he himself says, ""Rhythm is the spirit, melody is the body, and it is only when the body and spirit come together that it becomes music.''
+モルタザヴィはソロ演奏だけでなく、さまざまなアーティストやジャンルとの共演を通じて、自身のリズム・哲学を広げてきた。
 
-His playing mixes meditative, repetitive structures with fast, complex change patterns that often leave listeners forgetting their sense of time. The moment the tempo slows down, the sound continues with reverberation, and these durations gradually overlap, creating resonance within the body. Conversely, when the rhythm suddenly accelerates, the audience's concentration peaks, leading them into a kind of trance-like state.
+特に注目されるのは、エレクトロニック／実験音楽との共演だ。彼は **Burnt Friedman** との EP（例：*Yek*）で、伝統打楽器と電子ビートを融合させ、反復・循環リズムを探求。
+この共演は、彼の多声音テクニックと電子音楽の構造的リズムが調和する、ユニークな融合を生み出した。
 
-A live experience like this is not just something you hear with your ears, but an experience that you can "feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse'' at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
+また **Mark Fell** などとの交流も報じられており、これは彼が実験音楽コミュニティにも深く受け入れられてきた証である。
 
----
+舞台芸術との連携も彼の重要な活動の一つだ。バレエやダンス公演、劇場との協働により、彼のリズムは身体表現の中核となる。実際、彼はリンツ地方歌劇場 (Landestheater Linz) などで振付家とともに作品を作ってきたという報告もある。
 
-### 10. History of criticism, awards, and recognition
-
-Mortazavi has received international recognition for his skill, artistry, and innovation. In 2003, he won the **RUTH Newcomer Award**. He has also received a lot of interest from the media, and his style and philosophy have been featured in various outlets such as Germany's Deutschlandfunk, Pitchfork, Hardwax, and Boomkat.
-
-In particular, Pitchfork drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic sophistication and spiritual depth created by his more than 30 new techniques.
-
-Also, their physicality and spirituality are often emphasized in live reviews. Drummerszone and others have described in detail the striking points, hand parts, and resonance operations he uses, noting that his hands appear as if they were playing a "sound system."
-
-These evaluations demonstrate that he is not just a skilled performer, but also a highly regarded musical thinker and philosopher of rhythm.
+さらに、世界各地のフェスティバルやワークショップにも定期的に登場し、伝統と実験の橋渡しを担っている。
 
 ---
 
-### 11. Philosophy/Spirituality: Rhythm, Time, Consciousness
+### 9. ライブ体験 ― 身体性・精神性・トランス性
 
-When discussing Mortazavi's music, what is more important than his technique is his **philosophical perspective**. He sees rhythm not just as time divisions or grooves, but as something deeply connected to **spirit**.
+モルタザヴィのライブ演奏は、非常に身体的かつ精神的な体験である。彼の手が皮面を叩くたびに空間が震え、観客の呼吸や集中がそのリズムに引き込まれてゆく。彼自身が言うように、「リズムは精神 (spirit)、旋律は身体 (body)、身体と精神が合わさって初めて音楽になる」。
 
-His repetitive structures are reminiscent of meditation, and his treatment of sound sustain and resonance moves the listener through time. Cycles of tempo, subtle shifts, changes and simultaneous persistence - these are all ways for him to ""sculpt'' time, and are devices for transforming the space into a realm filled with spirituality.
+彼の演奏には、瞑想的な反復構造と、高速かつ複雑な変化パターンが混在し、聴き手はしばしば時間感覚を忘れる。テンポが緩やかになる瞬間、音が残響をともなって持続し、その持続が次第に重なって身体内に共鳴を生む。逆に、急激にリズムが加速すると、聴衆の集中はピークに達し、一種のトランス状態へ導かれる。
+
+このようなライブ体験は、単に耳で聴くものではなく、身体で「感じる」体験だ。モルタザヴィは、演奏と同時に観客との共鳴 (resonance) を創出し、瞬間ごとに「共通の拍動 (common pulse)」を共有させる。そのプロセスは、楽器と人間、演奏と聴衆を結ぶ儀式のような側面を持っている。
+
+---
+
+### 10. 批評、受賞、評価の軌跡
+
+モルタザヴィは、技術・芸術性・革新性において国際的な評価を受けてきた。2003年には **RUTH 新人賞** を受賞。また、メディアからも高い関心が寄せられており、ドイツの Deutschlandfunk や Pitchfork、Hardwax、Boomkat など、多様な媒体で彼のスタイルや哲学が取り上げられてきた。
+
+特に Pitchfork では、人間の拍動 (pulse) の柔軟性と彼の演奏するリズムの即興性が注目され、「人間らしさと時間の可塑性を体現する音楽」と評された。 Hardwax などは、彼の 30 以上の新テクニックが作り出す音の精緻さと精神的な深みに強い賛辞を送っている。
+
+また、ライブレビューでもその身体性と精神性がたびたび強調される。Drummerszone などは、彼が使用する打点、手の部分、共鳴操作などを詳細に記述し、まるで彼の手が “音響システム” を演奏しているかのようだと指摘している。
+
+これらの評価は、彼が単なる技巧派奏者ではなく、音楽的思想家、そしてリズムの哲学者としても高い地位を得ていることを示している。
+
+---
+
+### 11. 哲学・スピリチュアリティ：リズム、時間、意識
+
+モルタザヴィの音楽を語る上で、技術以上に重要なのはその **哲学的視座** である。彼はリズムを単なる時間の区切りやグルーヴとしてではなく、**精神 (spirit)** と深く結びついたものとして捉えている。
+
+彼の反復構造は瞑想を思わせ、音の持続 (sustain) や余韻 (resonance) の扱いは、聴き手を時間の中で揺らす。テンポの循環、微妙なずれ、変化と同時の持続 ― これらはすべて、彼にとって時間を「彫刻する」手段であり、その場の空間を精神性に満ちた領域へと転換する装置である。
 
 He also regards resonance with the audience (co-pulse) as an important element of performance. At his live performances, the audience is not just a listener, but a co-creator who participates in the rhythm generation of the scene. He builds a rhythmic dialogue between himself and the audience, creating a sense of "community" even when playing alone.
 
-In this approach, one can sense a deep will to overcome dualities such as tradition and modernity, body and consciousness, individuality and resonance, and stillness and dynamism. His rhythms are not just exhibitions of technique, but emerge as philosophical practices that question the meaning of self-inquiry, community, and time.
+このようなアプローチには、伝統と現代、身体と意識、個と共鳴、静寂と躍動といった二元性を克服しようとする深い意志が感じられる。そして、彼のリズムは単なる技術の展示ではなく、自己探求、共同体、時間の意味を問う哲学的実践として立ち現れてくる。
 
 ---
 
-### 12. Education and workshop activities
+### 12. 教育とワークショップ活動
 
-Mortazavi is also passionate about educating the younger generation. He has held many workshops in Europe (particularly in Germany) and has taught a wide variety of participants, from beginners to experienced players of tamback, duff, and hand drums.
+モルタザヴィは若い世代への教育にも熱心である。彼はヨーロッパ（特にドイツ）でワークショップを多数開いており、タムバックやダフ、手打ち太鼓の初心者から熟練奏者まで、多様な参加者を対象として指導を行ってきた。
 
-At one workshop (e.g. in the northern German village of Thandorf), he said, ""Music is love, and love should have no boundaries.'' In contrast to the conservatism and ruleism of the traditional music world, he has a strong belief that music should be a place for free dialogue and exploration, and he embodies this in his teaching.
+あるワークショップ (例：北ドイツの村 Thandorf) では、彼は「音楽は愛であり、愛には境界があってはならない」と語った。 伝統音楽界の保守主義や規則主義に対して、彼は音楽が自由な対話と探求の場であるべきだという強い信念を持っており、それを教える場でも体現している。
 
-He also conducts ""Finding the Common Pulse"' workshops at venues such as Oslo"s contemporary music festival Ultima, where he invites participants to explore the universality and inclusiveness of rhythm, from small hand-beaten instruments to rhythm generation using the body itself.
+また、オスロのコンテンポラリ音楽祭 Ultima などでも、彼は参加者に対して「共通の拍動 (common pulse) を見つける」ワークショップを行っており、小さな手打ち楽器から身体自体を使ったリズム生成までを通じて、リズムの普遍性と包括性を探求させる。
 
-These educational activities demonstrate that his art is not just about himself, but also a bridge to the wider community.
+こうした教育活動は、彼の芸術が自分自身だけのものではなく、広いコミュニティへの架け橋であることを示している。
 
 ---
 
 ### 13. Contemporary position and influence
 
-Mortazavi's activities occupy a very unique and important position in the current global music scene. He is not just a traditional musician, nor an electronic musician, nor a purely experimental musician. Rather, it traverses and connects these elements, opening up a new genre/horizon.
+モルタザヴィの活動は、現在のグローバル音楽シーンにおいて非常に特異かつ重要な位置を占めている。彼は単なる伝統音楽家でもなく、電子音楽家でもなく、純粋な実験音楽家でもない。むしろ、これらの要素を横断し、結節し、新たなジャンル／地平を切り開く存在である。
 
-His performances and works have the following influences:
+彼の演奏と作品は、以下のような影響を持っている：
 
-- **Redefining traditional musical instruments/culture**
+- **伝統楽器／文化への再定義**
 His technique breathes new life into the traditional instrument, the tambak, and points the way to not only preserving tradition but continuing to expand it.
 
-- **Bridge to experimental music/electronic music**
-His collaborations with electronic music producers and his exploration of rhythm and cyclical structures make the intersection between tradition and modernity clear.
+- **実験音楽・電子音楽への架け橋**
+   　電子音楽プロデューサーとのコラボレーションや、リズムと循環構造の探求は、伝統と現代の接点を鮮明にする。
 
-- **Fusion with performance art**
-His live performances involve physicality, ritual, and trance, and his performances go beyond mere musical performances to become physical and spatial art.
+- **パフォーマンス芸術との融合**
+   　彼のライブには身体性、儀式性、トランスが関与し、演奏は単なる音楽公演を超えた身体・空間芸術となる。
 
-- **Community and Education**
-Through workshops, he promotes the democratization of rhythm, the transmission and transformation of traditional techniques, and cross-cultural understanding.
+- **コミュニティと教育**
+   　ワークショップを通じてリズムの民主化、伝統技術の伝承・変容、異文化理解を促進している。
 
-- **Presentation of philosophical and spiritual questions**
-His music poses fundamental questions such as time, self, community, and consciousness through rhythm, leading listeners to deep introspection.
+- **哲学的・精神的問いの提示**
+   　彼の音楽は、時間、自己、共同体、意識など根源的な問いをリズムを通して提示し、リスナーを深い内省へと導く。
 
-All these elements interact to establish Mortazavi as a ""philosopher of rhythm'' in contemporary music.
+これらすべての要素が相互に作用し、モルタザヴィは現代音楽における「リズムの哲学者」としてのポジションを確立している。
 
 ---
 
-### 14. Conclusion: Implications for the future
+### 14. 結論：未来への響き
 
-Mohammad Reza Mortazavi's journey is a journey that redefines tradition, expands technique, and creates new dialogues between rhythm and consciousness. The polyphonic sounds, multi-layered rhythms, sustain, lingering sounds, and deep philosophy that underlie them go beyond mere performance and provide the listener with an experience that transcends time and space.
+モハマド・レザ・モルタザヴィの歩みは、伝統を再定義し、技術を拡張し、そしてリズムと意識の間の新しい対話を生み出す旅である。彼の手が紡ぐ多声音、多層リズム、持続、余韻、そしてその根底にある深い哲学は、単なるパフォーマンスを超えて、聴く者に時空間を超える体験を提供する。
 
-He doesn't just preserve the classic instrument, the tamback, but transforms it for the future. In the process of transformation, music, body, community, and consciousness intersect, and new horizons open up.
+彼は、タムバックという古典的な楽器をただ保存するのではなく、未来へ向けて変容させる。その変容の過程で、音楽、身体、コミュニティ、意識は交差し、新たな地平が開かれていく。
 
-The path he will take from now on is clear. Further technological exploration, new collaborations, and expansion into unknown sound spaces. However, what is more important than that is that he continues to be someone who constantly asks, ""What is rhythm?''
+これから彼が向かう道は明確だ。さらなる技術的探求、新しい共演、未知のサウンド空間への拡張。だが、それ以上に重要なのは、彼が常に「リズムとは何か」を問い続ける存在であり続けることだ。
 
-Listening to his music is not just surrendering to the rhythm, but a journey to find the resonance between your own inner heartbeat and the world's heartbeat. Mortazavi is the guide, the map, and the destination of that journey.
+彼の音楽を聴くとは、ただリズムに身を委ねることではなく、自分自身の内なる鼓動と、世界の鼓動との共鳴を探す旅である。モルタザヴィは、その旅の先導者であり、地図でもあり、そして目的地でもある。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V1llz3maiA4?si=yUZyBwR2-suWZxjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-### 15. Reference chronology
+### 15. 参考年譜
 
-* **1978/1979** — Born in Isfahan, Iran.
-* **1984–1985 (around 6 years old)** — Starts playing tamback.
-* **1987–1989 (around 9–10 years old)** — Recognized as having skills that surpassed his master's, and won his first domestic tournament.
-* **1990s** — Won several championships in Iranian domestic Tambak competitions.
-* **Around 2001 (around 20 years old)** — Already highly acclaimed both domestically and internationally.
-* **2003** — Received the **RUTH Newcomer Award (World Music Young Talent Award)** in Germany.
-* **2005** — In charge of solo performance and workshop at Total Music Meeting (Berlin).
-* **2010** — Solo concert at the Berlin Philharmonie.
-* **2010** — Released the album "Green Hands".
-* **2011** — Appeared at WOMEX (World Music Expo).
-* **2013** — Album "Codex" released, followed by tour.
-* **2016** — Album "Transformation" released (Flowfish).
-* **2017** — Released EP "Yek" with Burnt Friedman.
-* **2019** — Album "Ritme Jaavdanegi" released (Latency).
-* **2022** — Album "Prisma" released, introducing new sound objects.
-* **2025–2026** — Album "Nexus" released (Latency).
+* **1978／1979** — イラン・イスファハンに生まれる。
+* **1984–1985（6歳頃）** — タムバックを始める。
+* **1987–1989（9–10歳頃）** — 師匠を超える技術を持つと評価され、国内大会で初優勝。
+* **1990代** — 数回にわたりイラン国内タムバック競技で優勝。
+* **2001頃（20歳前後）** — 国内外で既に高く評価される。
+* **2003** — ドイツで **RUTH 新人賞 (World Music Young Talent Award)** を受賞。
+* **2005** — Total Music Meeting (Berlin) でソロ公演・ワークショップを担当。
+* **2010** — ベルリン・フィルハーモニーでソロ・コンサート。
+* **2010** — アルバム『Green Hands』をリリース。
+* **2011** — WOMEX (World Music Expo) 出演。
+* **2013** — アルバム『Codex』リリース、その後ツアー。
+* **2016** — アルバム『Transformation』リリース (Flowfish)。
+* **2017** — Burnt Friedman との共演 EP『Yek』リリース。
+* **2019** — アルバム『Ritme Jaavdanegi』リリース (Latency)。
+* **2022** — アルバム『Prisma』リリース、新しい音響オブジェクトを導入。
+* **2025–2026** — アルバム『Nexus』リリース (Latency)。
 
 ---

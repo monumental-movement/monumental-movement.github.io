@@ -8,49 +8,49 @@ layout: post
 tags:
 - Drum n Bass
 - Jungle
-title: '[Column] The impact of Drum & Bass: Urban poetics woven by speed and bass'
+title: 【コラム】 Drum & Bassの衝撃：速度と重低音が紡ぐ都市の詩学
 ---
 
 
-## Hybrid beat born in the city
+## 都市が産んだハイブリッド・ビート
 
 Text: mmr｜Theme: Thoughts on Drum & Bass/Jungle/UK sound
 
 
-Drum & Bass (hereinafter referred to as D&B) is a music genre that was born in London's underground club scene in the early 1990s, and at the same time is the very rhythm of multicultural city life. Combining fast breakbeats, roaring bass lines, and reggae/dub/hip-hop/techno, they revolutionized UK music history.
+Drum & Bass（以下D&B）は、1990年代初頭のロンドンの地下クラブシーンで生まれた音楽ジャンルであり、同時に多文化的都市生活のリズムそのものである。高速ブレイクビート、唸るようなベースライン、レゲエ／ダブ／ヒップホップ／テクノなどを融合し、UKの音楽史に革新をもたらした。
 
-Its evolution has been incredible, with many branches ranging from jungle, liquid funk, and techstep to neurofunk, jump-up, and drumstep.
+その進化は驚異的で、ジャングル、リキッドファンク、テックステップから、ニューロファンク、ジャンプアップ、ドラムステップまで、多くの枝分かれを見せている。
 
 
 <hr>
 
-### From Jungle to D&B
+### ジャングルからD&Bへ
 
-**● 1990-1993: Jungle movement**
+**● 1990〜1993：ジャングルの胎動**
 
-D&B's roots lie in the jungle genre. This was a chaotic beat music that was a mixture of acid house, rave, hip-hop, and reggae, and centered around a sampling of Amen Break.
+D&Bのルーツはジャングルというジャンルにある。これは、アシッド・ハウス、レイヴ、ヒップホップ、レゲエなどが混ざり合って生まれたカオス的ビート音楽であり、特にアーメン・ブレイク（Amen Break）のサンプリングが中核を成していた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Main characters:
+#### 主要人物：
 
-**Rebel MC / Congo Natty**: Remains strongly influenced by reggae roots.
+**Rebel MC / Congo Natty**：レゲエ的ルーツを色濃く残す。
 
 **Shut Up and Dance**: A bridge between jungle and hip-hop.
 
-**LTJ Bukem**: Leads to later Intelligent D&B.
+**LTJ Bukem**：後のインテリジェントD&Bへとつながる。
 
-#### 1994-1997:
+#### 1994〜1997：
 
-**Establishment period of Drum & Bass**
+**Drum & Bassの確立期**
 
 From this time on, the name "jungle" gradually changed to "D&B". This means a more refined sound, improved sub-bass and production techniques. Its functionality as club music increases and the scene matures.
 
 #### Representative artists:
 
-**Goldie (Metalheadz)**: Sublimated D&B to art with his masterpiece ["Timeless"](https://amzn.to/4nMAsF9).
+**Goldie（Metalheadz）**：名作[『Timeless』](https://amzn.to/4nMAsF9)でD&Bを芸術に昇華。
 
 **Roni Size / Reprazent**: Won the Mercury Prize for [""New Forms''](https://amzn.to/3J3I7zN), which was a fusion of live performance and jazz.
 
@@ -63,34 +63,34 @@ From this time on, the name "jungle" gradually changed to "D&B". This means a mo
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>element</th>
-<th>Contents</th>
+  <thead>
+    <tr>
+      <th>要素</th>
+      <th>内容</th>
 </tr>
 </thead>
-<tbody>
-<tr>
+  <tbody>
+    <tr>
 <td>Tempo (BPM)</td>
-<td>About 160-180. The fastest in club music. </td>
-</tr>
+      <td>約160〜180。クラブミュージックでは最速級。</td>
+    </tr>
+    <tr>
+      <td>ブレイクビート</td>
+      <td>Amen、Funky Drummer、Apacheなどのサンプリングを多用</td>
+    </tr>
 <tr>
-<td>Breakbeat</td>
-<td>Large sampling of Amen, Funky Drummer, Apache, etc.</td>
+      <td>サブベース</td>
+      <td>身体に響く超低音が音楽の芯</td>
 </tr>
-<tr>
-<td>Subbase</td>
-<td>Super bass that resonates with your body is the core of music</td>
+    <tr>
+      <td>リズム構造</td>
+      <td>シンコペーション、不規則性、断片化が特徴</td>
 </tr>
-<tr>
-<td>Rhythm structure</td>
-<td>Characterized by syncopation, irregularity, and fragmentation</td>
-</tr>
-<tr>
+    <tr>
 <td>Sound Design</td>
-<td>Effect processing such as filters, reverb, and distortion is very important</td>
-</tr>
-</tbody>
+      <td>フィルター、リバーブ、ディストーションなどエフェクト処理が非常に重要</td>
+    </tr>
+  </tbody>
 </table>
 </div>
 <br>
@@ -98,103 +98,103 @@ From this time on, the name "jungle" gradually changed to "D&B". This means a mo
 
 <hr>
 
-### Subgenre: The world of D&B with its many faces
+### サブジャンル：多彩な顔を持つD&Bの世界
 
-**● Jungle**
+**● ジャングル（Jungle）**
 
-The origin of D&B. Features ragga vocals, reggae bass, and rough breaks.
+D&Bの原点。ラガ・ボーカルやレゲエ・ベース、荒削りなブレイクが特徴。
 
-**● Techstep**
+**● テックステップ（Techstep）**
 
-Dark, industrial, inorganic sound. Representatives include Ed Rush & Optical and Dom & Roland.
+ダークでインダストリアル、無機質なサウンド。Ed Rush & Optical、Dom & Rolandなどが代表。
 
-**● Neurofunk**
+**● ニューロファンク（Neurofunk）**
 
-Evolution of Tech Step. Mainly a nervous and distorted bass line. Noisia, Phace, Mefjus, etc.
+テックステップの進化形。神経質で歪んだベースラインが中心。Noisia、Phace、Mefjusなど。
 
-**● Liquid Funk**
+**● リキッドファンク（Liquid Funk）**
 
-A mellow style that incorporates elements of jazz, soul, and R&B. Caliber, High Contrast, Netsky.
+ジャズ、ソウル、R&Bの要素を取り入れたメロウなスタイル。Calibre、High Contrast、Netsky。
 
-**● Jump-Up**
+**● ジャンプアップ（Jump-Up）**
 
-A catchy bass and simple structure that connects directly to the dance floor. DJ Hazard, Sub Zero, etc.
+キャッチーなベースとシンプルな構造でダンスフロア直結型。DJ Hazard、Sub Zeroなど。
 
-**● Drumstep**
+**● ドラムステップ（Drumstep）**
 
 A subgenre influenced by halftime and dubstep. Excision, Downlink etc.
 
 
 <hr>
 
-### The base that supported D&B
+### D&Bを支えた拠点
 
-**Metalheadz (Goldie)**: Combines depth and intelligence.
+**Metalheadz（Goldie）**：深みと知性を併せ持つ。
 
-**Hospital Records (Tony Colman aka London Elektricity)**: The home of liquid funk.
+**Hospital Records（Tony Colman aka London Elektricity）**：リキッドファンクの拠点。
 
-**Ram Records (Andy C)**: Leading the mainstream.
+**Ram Records（Andy C）**：メインストリームを牽引。
 
-**Shogun Audio (Friction)**: Supports a wide range of styles.
+**Shogun Audio（Friction）**：幅広いスタイルをサポート。
 
-**Exit Records (dBridge)**: Developing experimental and sophisticated sounds.
+**Exit Records（dBridge）**：実験的かつ洗練された音を展開。
 
-In addition, unofficial media such as Pirate Radio and Rinse FM played a large role in popularizing D&B.
-
-
-<hr>
-
-### Music from UK multicultural cities
-
-Born in multi-ethnic cities like London and Bristol, D&B grew up at the intersection of immigrant, street and rave culture.
-
-**Black British influence**: sound system culture, reggae/dub techniques.
-
-**The DIY spirit of the white working class**: Pirate radio, independent labels.
-
-**Intersection with techno/IDM**: Squarepusher, Autechre, etc. develop D&B rhythms.
+また、Pirate Radio（海賊ラジオ）やRinse FMといった非公式メディアがD&Bの普及に果たした役割も大きい。
 
 
 <hr>
 
-### Fashion/Lifestyle
+### UK多文化都市の音楽
 
-**Clubwear**: Sportswear, nylon, caps, jerseys.
+D&Bはロンドンやブリストルといった多民族都市で生まれ、移民文化、ストリートカルチャー、レイヴ文化が交錯する場所で育った。
 
-**Street Culture**: Graffiti, skating, and junglist ideology.
+**ブラック・ブリティッシュの影響**： サウンドシステム文化、レゲエ／ダブの手法。
 
-**Visual**: Futuristic and cyberpunk. Artwork is also important.
+**白人労働者階級のDIY精神**： 海賊ラジオ、インディペンデントレーベル。
 
-
-<hr>
-
-### Global expansion and branching
-
-Currently, D&B reigns as the foundation of bass music around the world. Scenes are particularly established in Europe (Austria, the Netherlands), North America, Japan, Australia, etc.
-
-**● Featured contemporary artists**
-
-**Noisia (disbanded)**: God-level production skills.
-
-**Alix Perez**: A sonic alchemist who can do everything from dub to half-step.
-
-**Sub Focus / Wilkinson**: A link between the mainstream and the underground.
+**テクノ／IDMとの交差**： Squarepusher、AutechreなどがD&B的リズムを展開。
 
 
 <hr>
 
-### Drum & Bass is the "heartbeat of the city"
+### ファッション・ライフスタイル
 
-Drum & Bass is more than just club music. It is the beat of anxiety, hope, speed, tension, and resistance of people living in the city.
+**クラブウェア**： スポーツウェア、ナイロン、キャップ、ジャージ。
 
-This music connects, moves, and makes people think in a divided society. Once you're captivated by the rhythm, D&B will begin to flow within you.
+**ストリート文化**： グラフィティ、スケート、ジャングリストの思想。
+
+**ヴィジュアル**： フューチャリスティックでサイバーパンク的。アートワークも重要。
+
+
+<hr>
+
+### 世界規模への拡張と分岐
+
+現在、D&Bは世界中のベース・ミュージックの基盤として君臨している。特にヨーロッパ（オーストリア、オランダ）、北米、日本、オーストラリアなどでシーンが確立。
+
+**● 注目の現代アーティスト**
+
+**Noisia（解散済）**：神レベルのプロダクション技術。
+
+**Alix Perez**：ダブ〜ハーフステップまでこなす音の錬金術師。
+
+**Sub Focus / Wilkinson**：メインストリームとアンダーグラウンドを繋ぐ存在。
+
+
+<hr>
+
+### Drum & Bassとは“都市の心拍”である
+
+Drum & Bassは、単なるクラブ・ミュージックではない。それは都市に生きる人間たちの不安、希望、スピード、緊張、そして抵抗のビートである。
+
+この音楽は、分断された社会の中で人々をつなげ、動かし、考えさせる。ひとたびそのリズムに魅せられたなら、あなたの中にもD&Bが流れ始めるだろう。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/noLmuh3Jqic?si=HcbwXEvhUgEr2fHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

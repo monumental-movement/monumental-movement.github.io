@@ -12,9 +12,9 @@ title: Squeeze – Babylon And On Vinyl
 ---
 
 
-"Babylon and On" is an album released in 1987 by the British band "Squeeze".
+「Babylon and On」は、イギリスのバンド「Squeeze（スクイーズ）」によって1987年にリリースされたアルバムです。
 
-Squeeze was a successful band in the 1980s, known for their songs that incorporated elements of pop rock and new wave. The "Babylon and On" album also attracted attention for its distinctive pop sound and sophisticated songs. In particular, songs such as "Hourglass" are known as Squeeze's signature songs.
+スクイーズは、ポップロックやニューウェイヴの要素を取り入れた楽曲で知られるバンドで、1980年代の音楽シーンで成功を収めました。「Babylon and On」アルバムも、その特徴的なポップサウンドと洗練された楽曲が注目されました。特に「Hourglass」などの楽曲は、スクイーズの代表曲として知られています。
 
 #### Tracklist
 ```md
@@ -43,7 +43,7 @@ B5. The Waiting Game
 B6. Some Americans
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m85609686798?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85609686798?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=wYy-Yf5sAJesvP1X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

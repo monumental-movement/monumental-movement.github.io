@@ -14,34 +14,34 @@ title: '[Column] Keiji Haino - Pilgrimage of sound that transcends boundaries'
 
 
 
-## Who is Keiji Haino?
+## 灰野敬二とは何者なのか
 
-Text: mmr｜Theme: Understanding the expansion of experimental music and acoustic exploration through Keiji Haino's works and activities
+文：mmr｜テーマ：灰野敬二の作品と活動を通して、実験音楽と音響探究の広がりを読み解く
 
-### Maverick of underground music
+### アンダーグラウンド音楽の異端者
 
-When talking about the history of Japanese experimental music, there is one person whose name always comes up. My name is Keiji Haino.
+日本の実験音楽史を語るとき、必ず名前が挙がる人物がいる。灰野敬二である。
 
-Guitar, voice, percussion, electronic instruments.
-He is a person who has continued to create music that does not fit into existing genres, using all kinds of sounds.
+ギター、声、パーカッション、電子楽器。
+あらゆる音を使いながら、既存のジャンルに収まらない音楽を作り続けてきた人物だ。
 
-It's not even rock.
-It's not even jazz.
-It's not even noise.
+ロックでもない。
+ジャズでもない。
+ノイズでもない。
 
-However, it has left its mark on all areas.
+しかし、そのすべての領域に足跡を残している。
 
-Since the 1970s, he has been active at the center of Japan's underground music, crossing over into improvisation, noise, psychedelic, drone, and folk singing.
+1970年代以降、日本のアンダーグラウンド音楽の中心で活動を続けながら、即興演奏、ノイズ、サイケデリック、ドローン、フォーク的歌唱まで横断してきた。
 
-He has often collaborated with experimental musicians and rock musicians from overseas, and has received high praise internationally.
+海外の実験音楽家やロックミュージシャンとの共演も多く、国際的な評価も高い。
 
-On the other hand, media exposure is extremely low.
+その一方で、メディア露出は極めて少ない。
 
 On stage, he is known for his iconic appearance in black clothing, long hair, and sunglasses, and is also known for his performance that does not ""imitate'' his own or others' performances.
 
-He is an artist who presents not only the music itself, but also the act of performing through true improvisation.
+He is also an artist who presents not only the music itself, but also the act of performing through true improvisation.
 
-> Keiji Haino is more than just a musician, he is something of a spiritual explorer in Japanese experimental music.
+> 灰野敬二は単なるミュージシャンではなく、日本の実験音楽における精神的探求者のような存在である。
 
 
 ---
@@ -51,7 +51,7 @@ He is an artist who presents not only the music itself, but also the act of perf
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -60,143 +60,143 @@ color: #fff;
 </style>
 
 
-## Boyhood and encounter with music
+## 少年時代と音楽との出会い
 
-### A generation shocked by rock and blues
+### ロックとブルースに衝撃を受けた世代
 
-Keiji Haino was born in Chiba Prefecture in 1952.
+灰野敬二は1952年、千葉県で生まれた。
 
-In the 1960s, rock music was rapidly spreading in Japan.
-Many young people began to be exposed to music culture through overseas rock and blues.
+1960年代、日本ではロックが急速に広まり始めていた時代である。
+海外のロックやブルースを通じて、多くの若者が音楽文化に触れ始めた。
 
-Haino was one of them.
+灰野もその一人だった。
 
 A particularly strong influence was the expressive power of blues and rock.
 
-At that time, Japanese music culture was still centered around popular songs.
-However, among young people, foreign rock was spreading as a new sense of values.
+当時の日本の音楽文化は、まだ歌謡曲中心の時代だった。
+しかし若者の間では、海外のロックが新しい価値観として広がりつつあった。
 
-Haino's musical experiences during this period changed his sensibilities greatly.
+この時代の音楽体験が、灰野の感覚を大きく変えることになる。
 
-Music is not just entertainment;
-I came to see music as something that can express human emotions to the utmost.
+単なる娯楽としての音楽ではなく、
+人間の感情を極限まで表現できるものとして音楽を捉えるようになった。
 
-He also started playing in a band in his late teens.
+10代後半にはバンド活動も始めている。
 
 However, he was never satisfied with existing rock forms.
 
-You should be able to play music more freely.
+音楽をもっと自由にできるはずだ。
 
-This idea later led to his interest in improvisation.
+その考えが、のちの即興演奏への関心につながっていく。
 
-> Keiji Haino's early rock experiences became the starting point for his approach to music as a form of spiritual expression.
+> 若い頃のロック体験は、灰野敬二が音楽を精神表現として捉える出発点になった。
 
 ---
 
-## Formation of the Japanese Underground in the 1970s
+## 1970年代 日本アンダーグラウンドの形成
 
-### The era of improvisation and noise
+### 即興とノイズの時代
 
-In the 1970s, major changes were occurring in the Japanese music scene.
+1970年代、日本の音楽シーンでは大きな変化が起きていた。
 
-Underground music was beginning to form in a place separate from commercial music.
+商業音楽とは別の場所で、アンダーグラウンド音楽が形成され始めていたのである。
 
-Improvisation, avant-garde, free jazz, noise.
-These elements mixed together to create a unique scene.
+即興演奏、前衛芸術、フリージャズ、ノイズ。
+これらの要素が混ざり合い、独自のシーンが生まれていた。
 
-Keiji Haino will be one of the central figures.
+灰野敬二はその中心人物の一人となる。
 
-### Activities at Lost Araf
+### ロストアラーフでの活動
 
-Early 1970s band experience
+1970年代初期のバンド経験
 
-Lost Araf was a band that Keiji Haino was a part of in the early 1970s, before he formed Fushitsusha.
-This group was one of the early Japanese underground rock bands, and their music was influenced by psychedelic rock and blues.
+灰野敬二が不失者を結成する以前、1970年代初頭に参加していたバンドがロストアラーフである。
+このグループは日本のアンダーグラウンドロック黎明期に存在したバンドの一つで、サイケデリックロックやブルースの影響を受けた演奏を行っていた。
 
-At the time, rock band culture was still in its infancy in Japan, and an underground scene of its own, distinct from commercial music, was gradually forming.
-Lost Araf was one of the groups active in this trend, and was an important early musical experience for Keiji Haino.
+当時の日本ではロックバンド文化がまだ発展途上であり、商業音楽とは異なる独自の地下シーンが徐々に形成されていた。
+ロストアラーフはその流れの中で活動していたグループの一つであり、灰野敬二にとって初期の重要な音楽経験となった。
 
-His experiences during this period led to his later improvisational performances and noise-oriented music.
+この時期の経験は、後の即興演奏やノイズ志向の音楽へとつながっていく。
 
-rock energy
-blues emotional expression
-psychedelic acoustics
+ロックのエネルギー
+ブルースの感情表現
+サイケデリックな音響
 
-It is believed that these mixed experiences formed the basis of Haino's later musical philosophy.
+それらが混ざり合った体験が、後の灰野の音楽思想の基礎になったと考えられている。
 
-Activities with Lost Alaf were one of the starting points for Keiji Haino's musical life.
+ロストアラーフでの活動は灰野敬二の音楽人生の出発点の一つであった。
 
-### Relationship with Toru Takemitsu
+### 武満徹との関わり
 
-Connection with contemporary Japanese music
+日本現代音楽との接点
 
-Keiji Haino's music is often talked about in the context of rock and noise, but it also has connections with contemporary Japanese music.
+灰野敬二の音楽はロックやノイズの文脈で語られることが多いが、日本の現代音楽とも接点を持っている。
 
-The relationship with the activities of composer Toru Takemitsu is a symbolic example of this.
+作曲家・武満徹の活動との関係は、その象徴的な例である。
 
-Toru Takemitsu is one of Japan's leading contemporary music composers, known for his works that emphasize the spatiality of sound and silence.
-His musical philosophy was unique, combining Western classical and Japanese sensibilities.
+武満徹は日本を代表する現代音楽作曲家であり、音の空間性や沈黙を重視した作品で知られている。
+その音楽思想は、西洋クラシックと日本的な感覚を融合させた独自のものであった。
 
-Keiji Haino is said to have had a strong interest in Toru Takemitsu's musical philosophy, and a common feeling can be seen in the way they handle the margins of sound and space.
+灰野敬二は武満徹の音楽思想に強い関心を持っていたとされ、音の余白や空間の扱い方において共通する感覚が見られる。
 
-Even in a roaring noise performance, there is always silence.
-The emphasis on the relationship between sound and silence is similar to contemporary Japanese music.
+轟音のノイズ演奏であっても、そこには必ず静寂が存在する。
+音と沈黙の関係を重視する点は、日本の現代音楽とも通じる部分である。
 
-Additionally, in Haino's quiet solo pieces and sustained drone pieces, his emphasis on acoustic space is evident.
+また、灰野の静かなソロ作品や持続音のドローン作品では、音響空間を重視する姿勢が顕著に現れる。
 
-This is not just an extension of rock, but is close to a modern musical idea that treats the sound itself as a material.
+それは単なるロックの延長ではなく、音そのものを素材として扱う現代音楽的な発想に近い。
 
-Keiji Haino's music lies at the intersection of rock, improvisational music, and contemporary Japanese music.
+灰野敬二の音楽はロック、即興音楽、そして日本現代音楽の感覚が交差する地点にある。
 
 ---
 
 ## Music group called Fushisha
 
-### Symbol of Japanese experimental rock
+### 日本実験ロックの象徴
 
-Fushitsusha is a musical group led by Keiji Haino.
+不失者は灰野敬二が中心となって活動した音楽集団である。
 
-There were no fixed members, and participants often changed from performance to performance.
+固定メンバーではなく、演奏ごとに参加者が変わることも多かった。
 
-Characteristics include overwhelming volume and long improvisational performances.
+特徴は、圧倒的な音量と長時間の即興演奏である。
 
-Guitar feedback, drum repetition,
-And Haino's singing voice.
+ギターのフィードバック、ドラムの反復、
+そして灰野の歌声。
 
-It sounded more like a prayer or a spell than a song.
+それは歌というより祈りや呪文のような響きを持っていた。
 
-It is sometimes referred to by overseas music critics as an extreme form of psychedelic rock.
+海外の音楽評論家からはサイケデリック・ロックの極端な形として語られることもある。
 
-However, the essence of Fushitsusha is not the form of rock.
+しかし不失者の本質はロックの形式ではない。
 
-It is the energy of the sound itself.
+音そのもののエネルギーである。
 
-Even the same song is played completely differently every time.
-This is because improvisation is the main focus.
+同じ曲でも毎回まったく違う演奏になる。
+それは即興が中心だからである。
 
-This style had a great influence on later experimental musicians.
+このスタイルは後の実験音楽家にも大きな影響を与えた。
 
-> Fushisha became a symbol of Japanese improvisational rock, and became known in the experimental music scene around the world.
+> 不失者は日本の即興ロックを象徴する存在となり、世界の実験音楽シーンにも知られるようになった。
 
 
-It is said that the live performance was more like an experience than music.
+ライブは音楽というより、体験に近いものだったと言われている。
 
-The audience was engulfed in sound, and the performances sometimes lasted for hours.
+観客は音に包まれるような状態になり、時には数時間に及ぶ演奏が行われた。
 
-From around this time, Haino's music began to become something that could not be explained by genre.
+この頃から、灰野の音楽はジャンルでは説明できないものになっていく。
 
-rock energy
-free jazz freedom
-Japanese spirituality
+ロックのエネルギー
+フリージャズの自由
+日本的な精神性
 
-The music was a mixture of those things.
+それらが混ざり合った音楽だった。
 
 <div class="mermaid">
 graph TD
-A[1960s rock experience]
-B[1970s improvisation]
-C[Japanese underground scene]
-D[Fushitsusha's activities]
+A[1960年代 ロック体験]
+B[1970年代 即興演奏]
+C[日本アンダーグラウンドシーン]
+D[不失者の活動]
 
 A --> B
 B --> C
@@ -204,7 +204,7 @@ C --> D
 
 </div>
 
-> The underground scene of the 1970s was a time when Keiji Haino's music really began to take shape.
+> 1970年代のアンダーグラウンドシーンは、灰野敬二の音楽が本格的に形を持ち始めた時代だった。
 
 ---
 
@@ -212,62 +212,62 @@ C --> D
 
 ---
 
-## Chronology of Fushitsusha's activities
+## 不失者の活動年表
 
-### History of Fushitsusha
+### 不失者の歴史
 
-Fushitsusha is Keiji Haino's representative band formed around 1978, and is a symbol of Japanese underground rock.
+不失者（Fushitsusha）は1978年頃に結成された灰野敬二の代表的バンドであり、日本のアンダーグラウンドロックの象徴的存在である。
 
-| Year | Events |
+| 年      | 出来事            |
 | ------ | -------------- |
-| 1979 | Fushisha Formation |
-| 1980s | Active in Tokyo Underground |
-| 1989 | European and American tour begins |
-| 1991 | Increased international reputation |
-| 2000s | European festival appearances |
-| 2010s | Irregular activities |
+| 1979   | 不失者結成          |
+| 1980年代 | 東京アンダーグラウンドで活動 |
+| 1989   | 欧米ツアー開始        |
+| 1991   | 国際的評価が高まる      |
+| 2000年代 | 欧州フェス出演        |
+| 2010年代 | 不定期活動          |
 
-The members are not fixed but fluid, and the organization changes from time to time.
+メンバーは固定ではなく流動的で、その時々で編成が変わる。
 
-Live performances often involve long improvisational performances, and are characterized by a unique acoustic experience that mixes the roar of the guitar with silence.
+ライブでは長時間の即興演奏が行われることが多く、ギターの轟音と静寂が交錯する独特の音響体験が特徴となっている。
 
->Fushitsusha is more of a place to embody Keiji Haino's musical philosophy than a band.
+> 不失者はバンドというより灰野敬二の音楽思想を実体化する場である。
 
 ---
 
 
-## A quiet acoustic world that appears in solo works
+## ソロ作品に現れる静かな音響世界
 
-### Ambient sound and gentle singing voice
+### アンビエント的音響と歌声の優しさ
 
-Keiji Haino's music is often told through roaring guitars and intense improvisation. However, there is another important aspect to his work. It is a quiet acoustic world.
+灰野敬二の音楽は轟音ギターや激しい即興で語られることが多い。しかし彼の作品にはもう一つの重要な側面がある。静かな音響世界である。
 
-His solo percussion piece ""Everything'' is a typical example.
+ソロ・パーカッション作品「何もかも」は、その代表的な例である。
 
-Although this piece uses drums and percussion, the emphasis is on the resonance and lingering sound rather than the rhythm.
+この作品ではドラムやパーカッションを使いながら、リズムよりも音の響きや余韻が重視されている。
 
-The reverberation that spreads after the impact sound.
-Sound vibrations swaying in space.
-A quiet passage of time.
+打撃音のあとに広がる残響。
+空間の中で揺れる音の振動。
+静かな時間の流れ。
 
-Although the performance is extremely minimal, the sound has a strong presence.
-The sound of percussion slowly fills the space.
+演奏は極めてミニマルでありながら、音の存在感は強い。
+パーカッションの響きがゆっくりと空間を満たしていく。
 
-In addition, the work ""Koko'', which is known as a not-for-sale CD, unfolds an even quieter acoustic world.
+また非売品CDとして知られる作品「ここ」では、さらに静かな音響世界が展開されている。
 
-Sustained sounds and environmental sounds overlap to create an ambient space.
+持続する音や環境的な響きが重なり合い、アンビエント的な空間が生まれる。
 
-However, there are elements that are different from just ambient music.
-It is Haino's singing voice.
+しかしそこには単なる環境音楽とは異なる要素がある。
+灰野の歌声である。
 
-His voice sometimes comes across as a strong scream, but in quieter pieces it's surprisingly soft.
+彼の声は時に強烈な叫びとして現れるが、静かな作品では驚くほど柔らかい。
 
-A singing voice tinged with kindness.
-The sound of a voice that touches the soul directly.
+優しさを帯びた歌声。
+魂に直接触れるような声の響き。
 
-The voice conveys more emotion than melody.
+その声は旋律よりも感情を伝える。
 
-It quietly penetrates inside the listener and evokes deep sensations.
+聴く者の内側に静かに入り込み、深い感覚を呼び起こす。
 
 ---
 
@@ -277,10 +277,10 @@ It quietly penetrates inside the listener and evokes deep sensations.
 
 <div class="mermaid">
 flowchart LR
-A[hitting sound]
-B[reverberation]
-C[space]
-D[singing voice]
+A[打撃音]
+B[残響]
+C[空間]
+D[歌声]
 
 A --> B
 B --> C
@@ -288,48 +288,48 @@ D --> C
 
 </div>
 
-> Keiji Haino's solo works show quiet acoustics behind the roaring sound and a singing voice with human kindness.
+> 灰野敬二のソロ作品は轟音の裏側にある静かな音響と、人間的な優しさを持つ歌声を示している。
 
 ---
 
-## Another activity called DJ Keiji Haino
+## DJ灰野敬二というもう一つの活動
 
-### Improvisation using CDJs and electronic equipment
+### CDJと電子機材による即興
 
-In the 2010s, Keiji Haino began to perform in new forms.
+2010年代に入ると、灰野敬二は新しい形のパフォーマンスも行うようになる。
 
-His activities are as DJ Keiji Haino.
+DJ灰野敬二としての活動である。
 
-In this style, they perform while playing music from around the world on a CDJ.
+このスタイルでは、世界各地の音楽をCDJで再生しながら演奏を行う。
 
-The music selected is not limited to genre.
+選ばれる音楽はジャンルに限定されない。
 
-folk music
-rock
-electronic music
-pops
+民族音楽
+ロック
+電子音楽
+ポップス
 
-A mix of various music.
+さまざまな音楽がミックスされる。
 
-Haino then added a drum machine and synthesizer.
+そして灰野はそこにドラムマシンやシンセサイザーを加える。
 
-Rhythms and sounds are layered in real time on top of the music being played.
+再生されている音楽に対して、リアルタイムでリズムや音を重ねていく。
 
-In other words, while it is a DJ set, it is also an improvisational performance.
+つまりDJセットでありながら、即興演奏でもある。
 
-It's a style that not only plays existing songs, but also creates new sounds on the spot.
+既存の楽曲を再生するだけではなく、その場で新しい音響を作り出していくスタイルだ。
 
-This performance is in a different position from traditional DJ culture and live performances.
+このパフォーマンスは、従来のDJ文化ともライブ演奏とも異なる位置にある。
 
-Rather than DJing using records, it is more like improvisational music that reconstructs the music itself as material.
+レコードを使ったDJではなく、音楽そのものを素材として再構築する即興音楽に近い。
 
 <div class="mermaid">
 flowchart LR
-A[world music]
-B[CDJ playback]
-C[drum machine]
-D[synthesizer]
-E[improvised acoustics]
+A[世界の音楽]
+B[CDJ再生]
+C[ドラムマシン]
+D[シンセサイザー]
+E[即興音響]
 
 A --> B
 B --> E
@@ -338,7 +338,7 @@ D --> E
 
 </div>
 
-> DJ Keiji Haino's performance is a new form of performance that improvises and reconstructs music using music as material.
+> DJ灰野敬二のパフォーマンスは、音楽を素材として即興的に再構築する新しい形の演奏である。
 
 ---
 
@@ -346,191 +346,191 @@ D --> E
 
 ---
 
-## An instrument of exploration: the hurdy-gurdy and the quest for unknown sounds
+## 探求の楽器：ハーディーガーディーと未知の音への探求心
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UFivBFA0xBI?si=KBklExEljuP26hPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Instruments with rotating strings and Keiji Haino's acoustic universe
+### 弦が回転する楽器と灰野敬二の音響宇宙
 
-Among Keiji Haino's musical instruments, the hurdy-gurdy is particularly noteworthy.
+灰野敬二の演奏楽器の中でも、特に特筆すべき存在がハーディーガーディーである。
 This musical instrument, which originated in medieval Europe, generates sound by turning a crank that rotates a wheel that touches the strings, rather than by scratching the strings with a bow. It is a drone instrument made by a ""rotating bow,'' so to speak, and is characterized by sustained notes and fluctuations in overtones.
 
-Haino does not treat this instrument simply as a folk instrument, but uses it as a device that places the sustained sound itself at the center of the music.
-A drone slowly spreads through the space, and voices, noise, guitar, and percussion are layered on top of it. Its structure creates a unique sound that cannot be definitively called rock, folk music, or ambient music.
+灰野はこの楽器を単なる民族楽器として扱うのではなく、持続音そのものを音楽の中心に据える装置として使う。
+ドローンがゆっくりと空間に広がり、その上に声やノイズ、ギター、パーカッションが重なっていく。その構造は、ロックとも民族音楽ともアンビエントとも断言できない独特の響きを作り出す。
 
-His hurdy-gurdy performances create the feeling that the space itself begins to tremble, rather than the sounds moving as a melody.
-The sustained sound transforms the sense of time and leads the listener into a state of quiet concentration.
+彼のハーディーガーディー演奏では、音が旋律として動くというよりも、空間そのものが震え始めるような感覚が生まれる。
+持続する音が時間の感覚を変質させ、聴く者を静かな集中状態へ導くのである。
 
-> Even though old instruments are used, the sounds that are played there are always in the present.
+> 古い楽器を用いながらも、そこで鳴っているのは常に現在進行形の音である。
 
 ---
 
 
 
-## Keiji Haino Instruments used
+## 灰野敬二 使用楽器
 
-### Instruments that play a central role in acoustics
+### 音響の中心となる楽器
 
-Keiji Haino uses many instruments, but the following are particularly important:
+灰野敬二は多くの楽器を使用するが、特に重要なのは以下の楽器群である。
 
-| Instrument | Features |
+| 楽器          | 特徴          |
 | ----------- | ----------- |
-| Electric guitar | Center of noise and drone |
-| Acoustic guitar | Performance with singing |
-| Hurdy-gurdy | Drone with sustained sound |
-| Percussion | Solo performance "Everything" |
-| Drum machine | 2010s DJ performance |
-| Synthesizer | Improvisational sound |
-| Vocal | A singing voice that touches the soul |
+| エレクトリックギター  | ノイズとドローンの中心 |
+| アコースティックギター | 歌を伴う演奏      |
+| ハーディーガーディー  | 持続音によるドローン  |
+| パーカッション     | ソロ演奏「何もかも」  |
+| ドラムマシン      | 2010年代DJ演奏  |
+| シンセサイザー     | 即興音響        |
+| ボーカル        | 魂に響く歌声      |
 
 The hurdy-gurdy, in particular, is an instrument from medieval Europe, and its ability to create a sustained drone adds depth to Haino's musical world.
 
-> Keiji Haino's music deals not with the type of instrument but with the very existence of sound.
+> 灰野敬二の音楽は楽器の種類ではなく音の存在そのものを扱う。
 
 ---
 
 
-## A journey in search of unknown sounds
+## 未知の音を求め続ける旅
 
 ### Overseas tour and CD hunting
 
-Keiji Haino's activities are not limited to Japan.
-He has been invited to many live performances mainly in Europe and America, and has continued to perform in the international music scene for many years.
+灰野敬二の活動は日本国内だけに留まらない。
+欧米を中心に数多くのライブへ招聘され、長年にわたり国際的な音楽シーンで演奏を続けている。
 
 And there is another habit in his overseas tours.
-That means buying up CDs and records in the cities you visit.
+それは訪れた都市でCDやレコードを買い集めることだ。
 
-Stop by a local CD store and search for unknown music.
-Regardless of genre or nationality, pick up something that catches your ear.
+現地のCD店に立ち寄り、未知の音楽を探す。
+ジャンルや国籍に関係なく、自分の耳に引っかかるものを手に取る。
 
-It's not just a collection.
-It"s the act of searching for sounds you"ve never heard before, sounds from cultures you don"t know, and music that doesn"t fit into existing classifications.
+それは単なるコレクションではない。
+まだ聴いたことのない音、知らない文化の音、既存の分類に収まらない音楽を探す行為である。
 
-Haino has always had a strong interest in "unknown sounds."
-That attitude hasn't changed since I was young.
+灰野は常に「まだ知らない音」に強い関心を持ち続けてきた。
+その姿勢は若い頃から変わらない。
 
-New instruments, new sound sources, new acoustics.
-By encountering unknown sounds, my music also changes.
+新しい楽器、新しい音源、新しい音響。
+未知の音に出会うことで、自分の音楽もまた変化していく。
 
-> Keiji Haino's activities are driven by exploration, not perfection.
+> 灰野敬二の活動を貫くのは、完成ではなく探求である。
 
 ---
 
 
-## Keiji Haino discography chronology (excerpt)
+## 灰野敬二ディスコグラフィー年表（抜粋）
 
-### Flow of solo and major works
+### ソロおよび主要作品の流れ
 
-Keiji Haino has released a vast amount of recorded works from the late 1970s to the present.
+灰野敬二は1970年代後半から現在まで膨大な録音作品を発表している。
 There are a wide variety of formats including studio works, live recordings, limited editions, collaborations, etc., and the total number is said to reach several hundred titles.
 
-The following is a flow of important works that are widely known among them.
+以下はその中でも広く知られる重要作品の流れである。
 
-The information below is compiled from multiple reliable sources (Discogs, Wikipedia, Red Bull Music Academy, Vinyl Factory, etc.).
+以下、複数の信頼できる情報源（Discogs、Wikipedia、Red Bull Music Academy、Vinyl Factory等）を元にまとめました。
 
 ---
 
-## Keiji Haino important works list
+## 灰野敬二 重要作品リスト
 
-### Solo name
+### ソロ名義
+
+| 年 | タイトル | レーベル | 備考 |
+|---|---|---|---|
+| 1981 | **わたしだけ？** | Pinakotheca | ソロ・デビュー作。2017年にBlack Editionsが高品質リイシュー |
+| 1990 | **滲有無（Nijiumu）** | PSF | ソロ声楽・音響作品の代表作 |
+| 1992 | **慈（Itsukushimi / Affection）** | PSF | 1992年リリースのライブ録音盤 |
+| 1993 | **A Challenge to Fate（運命への挑戦）** | PSF | 1994年リリース。ソロ名義の重要作 |
+| 1995 | **I Said, This Is the Son of Nihilism** | Table of the Elements | アメリカでの重要リリース |
+| 1995 | **Tenshi No Gijinka** | Tzadik | パーカッションのみによるソロ作。儀式的な響きを持つ |
+| 2003 | **C'est parfait, le parfum de l'amour...** | PSF | 2002年のライブ録音。声とリズムマシンによる90分の傑作 |
+
+### 不失者（Fushitsusha）名義
 
 | Year | Title | Label | Notes |
 |---|---|---|---|
-| 1981 | **Is it just me? ** | Pinakotheca | Solo debut work. High quality reissue by Black Editions in 2017 |
-| 1990 | **Nijiumu** | PSF | Masterpiece of solo vocal and acoustic works |
-| 1992 | **Itsukushimi / Affection** | PSF | Live recording released in 1992 |
-| 1993 | **A Challenge to Fate** | PSF | Released in 1994. Important solo works |
-| 1995 | **I Said, This Is the Son of Nihilism** | Table of the Elements | Important American Release |
-| 1995 | **Tenshi No Gijinka** | Tzadik | Solo piece with only percussion. Has ritualistic overtones |
-| 2003 | **C"est parfait, le parfum de l"amour...** | PSF | Live recording from 2002. A 90-minute masterpiece of voices and rhythm machines |
-
-### Fushitsusha name
-
-| Year | Title | Label | Notes |
-|---|---|---|---|
-| 1989 | **Fushitsusha Double Live (Live I)** | PSF | One of the earliest releases on the PSF label. 2-disc live LP |
-| 1990 | **Live in the First Year of Heisei, Vol.1 & 2** (with Hiroshi Mikami and Motoharu Yoshizawa) | PSF | An improvised masterpiece by the trio with Hiroshi Mikami and Motoharu Yoshizawa |
-| 1991 | **Fushitsusha (Double Live / Live II)** | PSF | One of the important documents of Japanese psychedelic rock in the 1990s |
-| 1993 | **Allegorical Misunderstanding** | Avant (led by John Zorn) | Released on John Zorn's Avant label |
-| 1994 | **Pathétique** | PSF | Oren Ambarchi describes it as "one of my favorite Fushitsusha works" |
+| 1989 | **不失者 Double Live（Live I）** | PSF | PSFレーベル最初期のリリースのひとつ。2枚組ライブLP |
+| 1990 | **Live in the First Year of Heisei, Vol.1 & 2**（三上寛・吉沢元治と共演） | PSF | 三上寛・吉沢元治とのトリオによる即興の傑作 |
+| 1991 | **不失者（Double Live / Live II）** | PSF | 1990年代日本サイケデリック・ロックの重要文書のひとつ |
+| 1993 | **寓意的な誤解（Allegorical Misunderstanding）** | Avant（John Zorn主宰） | John ZornのAvantレーベルからリリース |
+| 1994 | **悲愴（Pathétique）** | PSF | Oren Ambarchiが「最も好きなFushitsusha作品のひとつ」と評する |
 
 ### Collaboration/Other name
 
-| Year | Title | Co-stars | Notes |
+| 年 | タイトル | 共演者 | 備考 |
 |---|---|---|---|
-| Around 2000 | **Aihiyo** | Masami Kawaguchi and Ikuro Takahashi | A trio work that devastatingly reinterprets Japanese pop and Western music covers |
-| 2012〜 | **Nazoranai (not tracing)** | Stephen O"Malley, Oren Ambarchi | An improvisational trio with O"Malley and Ambarchi, apart from O'Rourke and Ambarchi. Released multiple works |
-| 2010〜 | **Haino / O"Rourke / Ambarchi** Series | Jim O"Rourke, Oren Ambarchi | A long-term ongoing project that releases an album almost every year |
+| 2000頃 | **Aihiyo** | 川口雅己・高橋いくろ | 日本のポップスや洋楽のカバーを壊滅的に再解釈したトリオ作 |
+| 2012〜 | **Nazoranai（なぞらない）** | Stephen O'Malley、Oren Ambarchi | O'Rourke・Ambarchiとは別に、O'Malley・Ambarchiとの即興トリオ。複数作をリリース |
+| 2010〜 | **Haino / O'Rourke / Ambarchi** シリーズ | Jim O'Rourke、Oren Ambarchi | 毎年のようにアルバムをリリースする長期継続プロジェクト |
 
 ---
 
 
-These works always show different expressions, crossing elements of rock, drone, improvisation, and folk music.
+これらの作品は、ロック、ドローン、即興、民族音楽の要素などを横断しながら、常に異なる表情を見せている。
 
-> Keiji Haino's discography is more a record of his exploration of sound itself than the history of a single musician.
+> 灰野敬二のディスコグラフィーは、一人の音楽家の歴史というより音そのものの探求の記録である。
 
 ---
 
-## Keiji Haino Music Thought Map
+## 灰野敬二 音楽思想マップ
 
 ### Three-layer structure of noise, drone, and song
 
-Keiji Haino's music consists of three main elements.
+灰野敬二の音楽は大きく三つの要素から構成される。
 
-* Noise
-* Drone
-* Song
+* ノイズ
+* ドローン
+* 歌
 
-These are not independent, but overlap each other to form music.
+これらは独立しているわけではなく、互いに重なりながら音楽を形成する。
 
 <div class="mermaid">
 
 graph TD
 
-Noise[noise]
-Drone[drone]
-Voice[song]
+Noise[ノイズ]
+Drone[ドローン]
+Voice[歌]
 
 Noise --> Drone
 Drone --> Voice
 Voice --> Noise
 
-Noise --> Guitar[guitar]
-Drone --> HurdyGurdy[hurdy gurdy]
-Voice --> Song[singing]
+Noise --> Guitar[ギター]
+Drone --> HurdyGurdy[ハーディーガーディー]
+Voice --> Song[歌唱]
 
-Guitar --> Live[live improvisation]
-HurdyGurdy --> Ambient[ambient space]
-Song --> Spiritual[mental expression]
+Guitar --> Live[ライブ即興]
+HurdyGurdy --> Ambient[アンビエント的空間]
+Song --> Spiritual[精神的表現]
 
 </div>
 
-In Haino's music, noise and silence, singing and improvisation always exist simultaneously.
+灰野の音楽では、ノイズと静寂、歌と即興が常に同時に存在する。
 
-> The collision and resonance of sounds is Keiji Haino's musical philosophy.
+> 音の衝突と共鳴こそが灰野敬二の音楽思想である。
 
 ---
 
-## Keiji Haino Acoustic Universe Map
+## 灰野敬二 音響宇宙マップ
 
-### Music area centered on Keiji Haino
+### 灰野敬二を中心とする音楽領域
 
-Keiji Haino's music connects with many genres.
+灰野敬二の音楽は多くのジャンルと接続している。
 
 <div class="mermaid">
 
 graph TD
 
-Haino[Keiji Haino]
+Haino[灰野敬二]
 
-Noise[noise music]
-Drone[drone]
-Free[free improvisation]
-Rock[psychedelic rock]
-Folk[folk music]
-Ambient[ambient]
+Noise[ノイズ音楽]
+Drone[ドローン]
+Free[フリーインプロヴィゼーション]
+Rock[サイケデリックロック]
+Folk[民族音楽]
+Ambient[アンビエント]
 
 Noise --> Haino
 Drone --> Haino
@@ -539,56 +539,56 @@ Rock --> Haino
 Folk --> Haino
 Ambient --> Haino
 
-Haino --> Fushitsusha[Fushitsusha]
-Haino --> Solo[solo work]
-Haino --> DJ[DJ Keiji Haino]
+Haino --> Fushitsusha[不失者]
+Haino --> Solo[ソロ作品]
+Haino --> DJ[DJ灰野敬二]
 
 </div>
 
-As this diagram shows, Keiji Haino's activities are not located at the center of a genre, but at the intersection of multiple fields.
+この図が示すように、灰野敬二の活動はジャンルの中心ではなく、複数の領域の交差点に位置している。
 
-> Keiji Haino's music is not a genre, but an intersection.
+> 灰野敬二の音楽はジャンルではなく交差点である。
 
 ---
 
 
-## Keiji Haino × Japanese underground music history chronology
+## 灰野敬二 × 日本アンダーグラウンド音楽史 年表
 
-### Intersection with Japanese experimental music
+### 日本の実験音楽との交差
 
-Since the 1970s, a unique underground music scene has formed in Japan that intersects rock, improvisational music, noise, and avant-garde music.
-Keiji Haino has been active as one of the central figures.
+1970年代以降、日本ではロック、即興音楽、ノイズ、前衛音楽などが交差する独自のアンダーグラウンド音楽シーンが形成された。
+灰野敬二はその中心的存在の一人として活動してきた。
 
-| Era | Japanese underground music history | Keiji Haino's movements |
+| 年代     | 日本アンダーグラウンド音楽史 | 灰野敬二の動き  |
 | ------ | -------------- | -------- |
-| 1970s | Expansion of free jazz and improvisational music | Start of musical activities |
-| 1978 | Tokyo underground scene expands | Fushisha formed |
-| 1980s | Noise music appears | Fushisha live activities |
-| 1990s | Rising overseas ratings | European and American tours |
-| 2000s | Expansion of improvisation and drones | Many collaborations |
-| 2010s | Noise and electronic music fusion | DJ Keiji Haino |
-| 2020s | Re-evaluation of experimental music | Ongoing activities |
+| 1970年代 | フリージャズ・即興音楽の拡大 | 音楽活動開始   |
+| 1978   | 東京地下シーン拡大      | 不失者結成    |
+| 1980年代 | ノイズ音楽登場        | 不失者ライブ活動 |
+| 1990年代 | 海外評価上昇         | 欧米ツアー    |
+| 2000年代 | 即興・ドローン拡大      | 多数コラボ    |
+| 2010年代 | ノイズと電子音楽融合     | DJ灰野敬二   |
+| 2020年代 | 実験音楽再評価        | 継続的活動    |
 
-Keiji Haino's activities are proceeding almost in parallel with the history of underground music in Japan.
+灰野敬二の活動は、日本の地下音楽史とほぼ並行して進んでいる。
 
-> When talking about the history of Japanese underground music, Keiji Haino is always at the center of it.
+> 日本アンダーグラウンド音楽史を語るとき、灰野敬二は常にその中心にいる。
 
 ---
 
-## Tokyo Noise Scene Relationship Diagram
+## 東京ノイズシーン関係図
 
-### Noise Music Network
+### ノイズ音楽ネットワーク
 
-Since the 1980s, Tokyo has become one of the world's hubs for noise music.
-Many musicians influenced each other and formed their own unique scene.
+1980年代以降、東京は世界的なノイズ音楽の拠点の一つとなった。
+多くの音楽家が互いに影響し合いながら独自のシーンを形成した。
 
 <div class="mermaid">
 
 graph TD
 
-Tokyo[tokyo noise scene]
+Tokyo[東京ノイズシーン]
 
-Haino[Keiji Haino]
+Haino[灰野敬二]
 Merzbow[Merzbow]
 Incapacitants[Incapacitants]
 Boredoms[Boredoms]
@@ -599,33 +599,33 @@ Tokyo --> Incapacitants
 Tokyo --> Boredoms
 
 Haino --> Improvisation[improvised music]
-Merzbow --> HarshNoise[harsh noise]
+Merzbow --> HarshNoise[ハーシュノイズ]
 Boredoms --> Psychedelic[psychedelic]
 
-Improvisation --> Global[overseas scene]
+Improvisation --> Global[海外シーン]
 HarshNoise --> Global
 Psychedelic --> Global
 
 </div>
 
-The Tokyo noise scene has influenced experimental musicians around the world since the 1980s.
+東京ノイズシーンは、1980年代以降世界中の実験音楽家に影響を与えてきた。
 
-> Tokyo's underground music is local and international at the same time.
+> 東京の地下音楽はローカルでありながら同時に国際的でもある。
 
 ---
 
-## Keiji Haino collaboration map
+## 灰野敬二コラボレーションマップ
 
-### International collaboration
+### 国際的な共演関係
 
-Keiji Haino has performed with many musicians.
-It is characterized by collaborations that transcend genres such as rock, jazz, improvisational music, and noise.
+灰野敬二は数多くの音楽家と共演してきた。
+ロック、ジャズ、即興音楽、ノイズなどジャンルを越えたコラボレーションが特徴である。
 
 <div class="mermaid">
 
 graph TD
 
-Haino[Keiji Haino]
+Haino[灰野敬二]
 
 Oren[Oren Ambarchi]
 Jim[Jim O'Rourke]
@@ -633,9 +633,9 @@ Merzbow[Merzbow]
 Peter[Peter Brötzmann]
 
 Oren --> Nazoranai[Nazoranai]
-Jim --> Improvisation[improvisation]
-Merzbow --> NoiseSession[noise co-star]
-Peter --> FreeJazz[free jazz performance]
+Jim --> Improvisation[即興演奏]
+Merzbow --> NoiseSession[ノイズ共演]
+Peter --> FreeJazz[フリージャズ共演]
 
 Nazoranai --> Haino
 Improvisation --> Haino
@@ -644,9 +644,9 @@ FreeJazz --> Haino
 
 </div>
 
-These collaborations demonstrate that Keiji Haino's music transcends genres.
+これらの共演は、灰野敬二の音楽がジャンルを横断する存在であることを示している。
 
-> Keiji Haino's music always expands through dialogue with others.
+> 灰野敬二の音楽は常に他者との対話の中で広がっていく。
 
 ---
 
@@ -654,21 +654,21 @@ These collaborations demonstrate that Keiji Haino's music transcends genres.
 
 ---
 
-## Keiji Haino live structure diagram
+## 灰野敬二ライブ構造図
 
-### Structure of improvisation
+### 即興演奏の構造
 
-Keiji Haino's live performances are not detailed pre-structured performances, but develop improvisationally depending on the space and acoustics of the venue.
+灰野敬二のライブは事前に細かく構成された演奏ではなく、その場の空間や音響に応じて即興的に展開する。
 
 <div class="mermaid">
 
 graph TD
 
 Silence[silence]
-Drone[sustained sound]
+Drone[持続音]
 Noise[noise]
-Voice[song]
-Climax[top of sound]
+Voice[歌]
+Climax[音の頂点]
 
 Silence --> Drone
 Drone --> Noise
@@ -678,55 +678,55 @@ Climax --> Silence
 
 </div>
 
-Live performances start with silence, then drones and noises gradually build up, and the sound reaches its peak with the addition of singing and shouting. It often has a structure that returns to silence again.
+ライブでは、静寂から始まり、ドローンやノイズが徐々に重なり、歌や叫びが加わりながら音のピークへ到達する。そして再び静寂へと戻る構造を持つことが多い。
 
-This cycle creates a feeling similar to a religious ritual or meditative experience.
+この循環は宗教儀式や瞑想的体験に近い感覚を生み出す。
 
-> Keiji Haino's live performance is more an experience of time and space than music.
+> 灰野敬二のライブは音楽というより時間と空間の体験である。
 
 ---
 
 
-## Overseas evaluation
+## 海外評価
 
-### International recognition
+### 国際的評価
 
-Keiji Haino has been highly praised by Western music media for many years.
+灰野敬二は欧米の音楽メディアからも長年にわたり評価されている。
 
-| Media | Rating |
+| メディア        | 評価              |
 | ----------- | --------------- |
-| The Wire | Important figures in Japanese avant-garde music |
-| Pitchfork | Icon of experimental music |
-| The Quietus | A musician who fuses noise and spirituality |
+| The Wire    | 日本の前衛音楽の重要人物    |
+| Pitchfork   | 実験音楽の象徴的存在      |
+| The Quietus | ノイズと精神性を融合した音楽家 |
 
-He has appeared at many festivals in Europe and North America, and is considered to be a strong influence in the free improvisation and noise scenes.
+欧州や北米のフェスティバルにも多数出演しており、フリーインプロヴィゼーションやノイズのシーンで強い影響力を持つ存在とされている。
 
-> Keiji Haino occupies a unique position not only in Japan but also in the world's experimental music history.
+> 灰野敬二は日本だけでなく世界の実験音楽史の中でも特異な位置を占めている。
 
 ---
 
-## Keiji Haino × World experimental music scene correlation chart
+## 灰野敬二 × 世界実験音楽シーン相関図
 
-### Connection with the world's avant-garde music
+### 世界の前衛音楽との接続
 
-Keiji Haino's activities are not limited to underground music in Japan, but are deeply connected to the experimental music scene around the world.
-They have built a unique position while intersecting with diverse musical fields such as free jazz, noise, drone, improvisational music, and psychedelic rock.
+灰野敬二の活動は、日本国内のアンダーグラウンド音楽だけにとどまらず、世界の実験音楽シーンとも深く接続している。
+フリージャズ、ノイズ、ドローン、即興音楽、サイケデリックロックなど、多様な音楽領域と交差しながら独自の位置を築いてきた。
 
-Since the 1960s, avant-garde music and improvisational music have spread in Europe and America, and there has been a continued movement to expand the very concept of music.
-Keiji Haino began his career in the late 1970s, and paralleling this trend, he has been presenting a unique form of musical expression from Japan.
+1960年代以降、欧米では前衛音楽や即興音楽が広がり、音楽の概念そのものを拡張する動きが続いた。
+灰野敬二は1970年代後半から活動を始め、その流れと並行する形で日本から独自の音楽表現を提示してきた。
 
 <div class="mermaid">
 
 graph TD
 
-AvantGarde[avant-garde music]
-FreeJazz[free jazz]
-Noise[noise music]
-Drone[drone music]
-Psychedelic[psychedelic rock]
-Improvisation[improvised music]
+AvantGarde[前衛音楽]
+FreeJazz[フリージャズ]
+Noise[ノイズ音楽]
+Drone[ドローン音楽]
+Psychedelic[サイケデリックロック]
+Improvisation[即興音楽]
 
-Haino[Keiji Haino]
+Haino[灰野敬二]
 
 AvantGarde --> Improvisation
 FreeJazz --> Improvisation
@@ -739,122 +739,122 @@ Noise --> Haino
 Drone --> Haino
 Psychedelic --> Haino
 
-Haino --> Fushitsusha[Fushitsusha]
-Haino --> SoloWorks[Solo activities]
-Haino --> DJStyle[DJ Keiji Haino]
+Haino --> Fushitsusha[不失者]
+Haino --> SoloWorks[ソロ活動]
+Haino --> DJStyle[DJ灰野敬二]
 
 </div>
 
-As this diagram shows, Keiji Haino's music does not belong to a single genre.
-Rather, it is located at the intersection of avant-garde music flows from around the world.
+この図が示すように、灰野敬二の音楽は単一のジャンルに属するものではない。
+むしろ世界各地の前衛音楽の流れが交差する地点に位置している。
 
-The intensity of the noise, the persistence of the drone, the freedom of musical improvisation, and the singing voice that resonates with the soul.
-Music that exists simultaneously has a unique presence even among the world's experimental music.
+ノイズの激しさ、ドローンの持続、即興音楽の自由、そして魂に響く歌声。
+それらが同時に存在する音楽は、世界の実験音楽の中でも独自の存在感を持つ。
 
-> Keiji Haino is a musician who stands not within a genre, but at the intersection of avant-garde music from around the world.
-
----
-
-## A presence that erases the boundaries of music
-
-### Keiji Haino, neither rock nor avant-garde
-
-Keiji Haino is often introduced as a ""Japanese noise musician" or ""avant-garde musician."
-However, none of these are completely true.
-
-rock energy
-freedom of musical improvisation
-drone persistence
-the sound of ethnic instruments
-And a singing voice emanating from the depths of the soul
-
-Haino's music is where all of these things exist at the same time.
-
-Between the roar of the guitar and the silence.
-playing and singing.
-There, the word genre loses its meaning.
-
-It is no exaggeration to say that the very existence of Keiji Haino has become a genre of music.
-
-> His music is not to be categorized, but to be experienced.
+> 灰野敬二はジャンルの内部ではなく、世界の前衛音楽が交差する地点に立つ音楽家である。
 
 ---
 
+## 音楽の境界線を消す存在
 
-## Keiji Haino Chronology
+### ロックでも前衛でもなく「灰野敬二」
 
-### Main flow of activities
+灰野敬二はしばしば「日本のノイズミュージシャン」あるいは「アヴァンギャルド音楽家」と紹介される。
+しかし、そのどれもが完全には当てはまらない。
 
-| Years | Events |
+ロックのエネルギー
+即興音楽の自由
+ドローンの持続
+民族楽器の響き
+そして魂の奥から発せられる歌声
+
+それらがすべて同時に存在するのが灰野の音楽である。
+
+ギターの轟音と静寂の間。
+演奏と歌。
+そこではジャンルという言葉が意味を失う。
+
+灰野敬二という存在そのものが、一つの音楽ジャンルになっていると言っても過言ではない。
+
+> 彼の音楽は分類されるものではなく、体験されるものである。
+
+---
+
+
+## 灰野敬二 年表
+
+### 活動の主な流れ
+
+| 年代     | 出来事             |
 | ------ | --------------- |
-| 1952 | Born in Chiba Prefecture |
-| 1960s | Influenced by rock and blues |
-| 1970s | Started improvisational music activities |
-| Around 1978 | Fushitsusha's activities are in full swing |
-| 1980s | Increased collaboration with overseas artists |
-| 1990s | Increased international reputation |
-| 2000s | Participated in numerous improvisational projects |
-| 2010s | Live activities as DJ Keiji Haino |
-| 2020s | Continuing live activities around the world |
-| 2026 | Biennale Music Festival 2026 Winner |
+| 1952   | 千葉県で生まれる        |
+| 1960年代 | ロックやブルースに影響を受ける |
+| 1970年代 | 即興音楽活動を開始       |
+| 1978頃  | 不失者の活動が本格化      |
+| 1980年代 | 海外アーティストとの共演増加  |
+| 1990年代 | 国際的評価が高まる       |
+| 2000年代 | 多数の即興プロジェクトに参加  |
+| 2010年代 | DJ灰野敬二としてのライブ活動 |
+| 2020年代 | 世界各地でライブ活動を継続   |
+| 2026年 | ビエンナーレ音楽祭2026受賞   |
 
-> For more than half a century, Keiji Haino has been active at the forefront of experimental music.
-
----
-
-## Biennale Music Festival 2026 Award Winner
-
-### Golden Lion Award (Lifetime Achievement Award)
-
-At the 2026 Venice Biennale Music Festival, Keiji Haino will receive the Golden Lion Award (Leone d"Oro alla carriera), which is a lifetime achievement award.
-
-This award is given to artists who have continued innovative activities in the music field for many years, and Keiji Haino was introduced as the ""poet of noise'' (poeta del rumore).
-
-During his more than 50 years of activities, he has created a unique musical world that defies existing genres, crossing over diverse fields such as improvisation, noise, drone, rock, blues, and free jazz.
-
-Its activities have expanded through collaboration with musicians and artists from all over the world, and it has become an important presence in the contemporary experimental music scene.
-
-> Keiji Haino will receive the Lifetime Achievement Award at the 2026 Venice Biennale Music Festival.
+> 半世紀以上にわたり灰野敬二は実験音楽の第一線で活動を続けている。
 
 ---
 
-## The miracle of Keiji Haino
+## ビエンナーレ音楽祭2026受賞
 
-### Expression beyond music
+### 金獅子賞（生涯功労賞）
 
-Keiji Haino's music transcends genre boundaries.
+2026年のヴェネツィア・ビエンナーレ音楽祭では、灰野敬二が生涯功労賞にあたる 金獅子賞（Leone d’Oro alla carriera） を受賞する。
 
-It"s rock, it"s noise, it's improvisation.
-But it doesn't quite belong to any of them.
+この賞は音楽分野において長年にわたり革新的な活動を続けてきた芸術家に授与されるものであり、灰野敬二は「ノイズの詩人（poeta del rumore）」として紹介された。
 
-What is important is that music is treated as a spiritual expression.
+五十年以上にわたる活動の中で、彼は即興演奏、ノイズ、ドローン、ロック、ブルース、フリージャズなど多様な領域を横断しながら、既存のジャンルに収まらない独自の音楽世界を築いてきた。
 
-A performance is not just a performance.
-It is also an act of exploring the relationship between sound and humans.
+その活動は世界各地の音楽家や芸術家との協働を通じて広がり、現代の実験音楽シーンにおいて重要な存在となっている。
 
-Roaring guitar improvisation.
-Quiet ambient sound.
-A singing voice that touches the soul.
-And the reconstruction of music through DJ sets.
+> 灰野敬二は2026年ヴェネツィア・ビエンナーレ音楽祭で生涯功労賞を受賞する。
 
-All of this is part of Keiji Haino's expression.
+---
 
-In the history of Japanese underground music, there are not many people who have continued to explore music in such a variety of ways.
+## 灰野敬二という奇跡
 
-In the history of music, there are people who create genres and people who destroy genres.
+### 音楽を超えた表現
 
-Keiji Haino belongs to the latter category.
+灰野敬二の音楽はジャンルの枠を超えている。
 
-By continuing to go beyond existing boundaries, they have shown the possibilities of new music.
+ロックでもあり、ノイズでもあり、即興でもある。
+しかしそのどれにも完全には属さない。
 
-> Keiji Haino is remembered as a musician who continues to transcend boundaries in the history of Japanese experimental music.
+重要なのは、音楽を精神的な表現として扱っている点である。
+
+演奏は単なるパフォーマンスではない。
+音と人間の関係を探る行為でもある。
+
+轟音ギターの即興。
+静かなアンビエント的音響。
+魂に響く歌声。
+そしてDJセットによる音楽の再構築。
+
+そのすべてが灰野敬二の表現の一部である。
+
+日本のアンダーグラウンド音楽の歴史の中で、これほど多様な形で音楽を探究し続けてきた人物は多くない。
+
+音楽の歴史にはジャンルを作る人物と、ジャンルを壊す人物がいる。
+
+灰野敬二は後者に属する。
+
+既存の枠を越え続けることで、新しい音楽の可能性を示してきた。
+
+> 灰野敬二は日本の実験音楽史において境界を越え続ける音楽家として記憶される存在である。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QqNCBj6OvsA?si=3ImcXtCiLh5B4Ff_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

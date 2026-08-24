@@ -15,27 +15,27 @@ title: '[Column] Changes in the Eurorack modular synthesizer and its influence o
 ---
 
 
-## "Lego blocks with infinite sound"
+## 「無限に広がる音のレゴブロック」
 
-Text: mmr｜Theme: Changes in the Eurorack modular synthesizer and its influence on the music scene
+文：mmr｜テーマ：ユーロラック・モジュラーシンセサイザーの変遷と音楽シーンへの影響
 
-The Eurorack modular synthesizer was invented by German engineer Dieter Doepfer in the early 1990s. Starting from his A-100 system, by standardizing module sizes and power supply standards, a system was born that allowed modules from different manufacturers to be freely combined.
+ユーロラック（Eurorack）モジュラーシンセサイザーは、1990年代初頭にドイツのエンジニア、ディーター・ドイプファー（Dieter Doepfer）が提唱しました。彼のA-100システムを起点に、モジュールのサイズや電源規格を統一したことで、異なるメーカーのモジュールを自由に組み合わせられる仕組みが誕生しました。
 
-Smaller and more affordable than the traditional Moog and Bucla, Eurorack has gained the support of many musicians and enthusiasts, and has now developed into a large ecosystem with over 300 participating manufacturers around the world.
+従来のモーグやブクラに比べて小型かつ手頃な価格で提供されたユーロラックは、多くのミュージシャンや愛好家に支持され、現在では世界中で300以上のメーカーが参加する大規模なエコシステムへと発展しています。
 
 <hr>
 
-### Main module and manufacturer characteristics
+### 主なモジュールとメーカーの特徴
 
-#### Make Noise
+#### Make Noise（メイクノイズ）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFvhsahHcpM?si=grWL0pmruhL5tqVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Representative modules**: MATHS, Erbe-Verb, Phonogene
+**代表モジュール**: MATHS、Erbe-Verb、Phonogene
 
-**Features**: Provides modules with intuitive operability and unique functions. As an analog computer, MATHS allows for complex modulation.
+**特徴**: 直感的な操作性と独創的な機能を持つモジュールを提供。MATHSはアナログコンピュータとして、複雑なモジュレーションを可能にします。
 
 ---
 
@@ -47,55 +47,55 @@ Smaller and more affordable than the traditional Moog and Bucla, Eurorack has ga
 
 **Representative modules**: Plonk, Metropolis, Tetrapad
 
-Features: We produce many high-quality digital modules, and are particularly strong in sequencers and performance interfaces.
+特徴: 高品質なデジタルモジュールを多く手掛け、特にシーケンサーやパフォーマンス用のインターフェースに強みがあります。
 
 #### Mutable Instruments
 
 **Representative modules**: Braids, Rings, Clouds
 
-**Features**: Developed as open source, provides modules that allow flexible sound creation. It has particularly excellent tonal diversity.
+**特徴**: オープンソースで開発され、柔軟な音作りが可能なモジュールを提供。特に音色の多様性に優れています。
 
 ---
 
-#### Doepfer
+#### Doepfer（ドイプファー）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Representative modules**: A-110 (VCO), A-120 (SVF), A-140 (EG)
+**代表モジュール**: A-110（VCO）、A-120（SVF）、A-140（EG）
 
 **Features**: As a proponent of the Eurorack standard, we offer a wide lineup of basic modules. It features a design that is easy to use even for beginners.
 
 ---
 
-#### Noise Engineering
+#### Noise Engineering（ノイズ・エンジニアリング）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Representative module**: Basimilus Iteritas, Loquelic Iteritas
+**代表モジュール**: Basimilus Iteritas、Loquelic Iteritas
 
-**Features**: Utilizes digital synthesis to provide modules with sharp tones and high sound pressure. Especially suitable for extreme sound creation.
+**特徴**: デジタルシンセシスを駆使し、鋭い音色と高い音圧を持つモジュールを提供。特にエクストリームな音作りに適しています。
 
 
 <hr>
 
-### Influence on music genre/scene
+### 音楽ジャンル・シーンへの影響
 
 Eurorack modular synthesizers have had a huge influence on certain musical genres and scenes.
 
-#### Experimental/Ambient
+#### エクスペリメンタル／アンビエント
 
-Artists like Alessandro Cortini and Keith Fullerton Whitman use Eurorack to create complex and profound sonic worlds.
+アレッサンドロ・コルティーニ（Alessandro Cortini）やケイト・フルターン・ウィットマン（Keith Fullerton Whitman）などのアーティストは、ユーロラックを用いて複雑で深遠な音世界を構築しています 。
 
 
-#### Techno/IDM
+#### テクノ／IDM
 
 Many artists use Eurorack for live performances and studio production, creating improvisational and dynamic sounds.
 
-#### Pop/Rock
+#### ポップ／ロック
 
 Bands like Coldplay and Nine Inch Nails have also embraced Eurorack, adding new tones to their songwriting and live performances.
 
@@ -108,38 +108,38 @@ Below are some of the notable artists and their signature modules that utilize E
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
+  <thead>
+    <tr>
 <th>Artist name</th>
 <th>Example of module used</th>
 </tr>
-</thead>
+  </thead>
 <tbody>
-<tr>
-<td>Alessandro Cortini</td>
-<td>Make Noise MATHS, Mutable Instruments Rings</td>
-</tr>
-<tr>
-<td>Keith Fullerton Whitman</td>
-<td>Intellijel Plonk, Mutable Instruments Clouds</td>
+    <tr>
+      <td>Alessandro Cortini</td>
+      <td>Make Noise MATHS、Mutable Instruments Rings</td>
+    </tr>
+    <tr>
+      <td>Keith Fullerton Whitman</td>
+      <td>Intellijel Plonk、Mutable Instruments Clouds</td>
 </tr>
 <tr>
 <td>Aphex Twin</td>
 <td>Make Noise Erbe-Verb, Mutable Instruments Braids</td>
-</tr>
-<tr>
+    </tr>
+    <tr>
 <td>Coldplay</td>
-<td>Make Noise Shared System, Intellijel Metropolis</td>
-</tr>
-<tr>
+      <td>Make Noise Shared System、Intellijel Metropolis</td>
+    </tr>
+    <tr>
 <td>Nine Inch Nails</td>
 <td>Make Noise MATHS, Mutable Instruments Clouds</td>
-</tr>
-<tr>
-<td>Surgeon</td>
+    </tr>
+    <tr>
+      <td>Surgeon</td>
 <td>Mutable Instruments Braids, Make Noise MATHS, Hexinverter Mutant Hi Hats, Tiptop Audio Trigger Riot</td>
-</tr>
-</tbody>
+    </tr>
+  </tbody>
 </table>
 </div>
  
@@ -148,7 +148,7 @@ Below are some of the notable artists and their signature modules that utilize E
 
 ### Features of Surgeon's Live Setup
 
-Surgeon's live setup is characterized by the pursuit of maximum expression with minimal equipment. He performs improvisationally using a limited number of modules rather than a complex combination of equipment. This creates a sense of unity with the audience and unpredictability, bringing a new dimension to live techno performances.
+Surgeonのライブセットアップは、最小限の機材で最大の表現を追求することを特徴としています。彼は、複雑な機材の組み合わせではなく、限られたモジュールを駆使して即興的なパフォーマンスを行います。これにより、観客との一体感や予測不可能な展開を生み出し、テクノのライブパフォーマンスに新たな次元をもたらしています。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -156,9 +156,9 @@ Surgeon's live setup is characterized by the pursuit of maximum expression with 
 <hr>
 
 
-### From a small box to infinite sound
+### 小さな箱から、無限のサウンドへ
 
-Eurorack modular synthesizers offer artists new creative freedom with their flexibility and expandability. As it continues to evolve, its role in the music scene will become even more important.
+ユーロラックモジュラーシンセサイザーは、その柔軟性と拡張性により、アーティストに新たな創造の自由を提供しています。今後もその進化と共に、音楽シーンにおける役割はますます重要になっていくことでしょう。
 
 ---
 

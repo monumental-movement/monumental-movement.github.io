@@ -12,9 +12,9 @@ title: The Architect – Pixelated Porn King
 ---
 
 
-The Architect is the alias of DJ/producer Jay Haze. There are also Fuckpony, Sub Version, etc. Jay Haze is responsible for collaborations with Ricardo Villalobos and Samim Winiger, as well as remixes for Hell, P. Diddy, Gui Boratto, and others. Among his remixes, Yann Tiersen's theme to the movie Amélie became a crossover hit.
+The Architectは、DJ/プロデューサーJay Haze（ジェイ・ヘイズ）の別名義。他にも Fuckpony、 Sub Versionなどがある。Jay Hazeは、 Ricardo Villalobos（リカルド・ヴィラロボス）や Samim Winiger（サミム・ウィニガー）などのコラボレーションや、Hell, P. Diddy、Gui Borattoなどremixを担当。彼のremixの中でも、『アメリ』のYann Tiersen（ヤン・ティアセン）の映画『アメリ』テーマはクロスオーバーヒットとなった。
 
-"Pixelated Porn King" was released in 2002 by Tuning Spork Records.
+「Pixelated Porn King」は、Tuning Spork Recordsより2002年にリリースされた。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. Yknewk
 B2. Oinan
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m82819897771?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82819897771?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wiw4kPKatAo?si=F8aqaoZCL-kQuebU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

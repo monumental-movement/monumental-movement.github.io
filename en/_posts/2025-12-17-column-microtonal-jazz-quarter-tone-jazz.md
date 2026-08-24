@@ -10,16 +10,16 @@ tags:
 - Jazz
 - Experimental
 - Microtonal
-title: '[Column] Microtonal Jazz / Quarter-Tone Jazz'
+title: 【コラム】 Microtonal Jazz / Quarter-Tone Jazz（マイクロトーナル・ジャズ）
 ---
 
 
 
-## Introduction: Jazz and the expansion of pitch concepts
+## 序論：ジャズと音程概念の拡張
 
-Text: mmr｜Theme: Analysis of the theory, performance, and education system of microtonal jazz/quartertone jazz centered on Joe Maneri and Jacob Collier
+文：mmr｜テーマ：マイクロトーナル・ジャズ／クォータートーン・ジャズの理論・演奏・教育体系をJoe ManeriとJacob Collierを軸に分析
 
-Since its inception, jazz has been a music that relativizes a fixed pitch system. Historically, there have been practices that do not fit within the framework of 12 equal temperament, such as the variability of thirds and sevenths represented by the Blue Note, embouchure operation on wind instruments, and portamento on string instruments. The trend known as microtonal jazz or quarter-tone jazz is characterized by extending these conventions theoretically and structurally, explicitly placing ""microtonal intervals'' at the core of the sound organization.
+ジャズは誕生当初から、固定された音程体系を相対化する音楽であった。ブルーノートに代表される三度・七度の可変性、管楽器におけるアンブシュア操作、弦楽器のポルタメントなど、12平均律の枠内に収まらない実践は歴史的に常在している。マイクロトーナル・ジャズ、あるいはクォータートーン・ジャズと呼ばれる潮流は、こうした慣習を理論的・構造的に拡張し、明示的に「微分音程」を音組織の中核へ据えた点に特徴がある。
 
 In this article, we will organize the theoretical background and performance practices of microtonal jazz, which was formed from the late 20th century to the 21st century, and analyze it from the perspectives of composition, improvisation, and ensemble operation, with a particular focus on the efforts of Joe Maneri and Jacob Collier. Furthermore, he explains the deepening of this genre through the educational system for the disciple generation, acoustic analysis, and modern approaches.
 
@@ -30,7 +30,7 @@ In this article, we will organize the theoretical background and performance pra
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -39,143 +39,143 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Microtones and the Prehistory of Jazz
+## 第1章：マイクロトーンとジャズの前史
 
-### 1-1 Historical position of microtonal interval
+### 1-1 微分音程の歴史的位置づけ
 
-Microtonal intervals have existed in Western music since before the 20th century. The comma difference in the Pythagorean temperament and just intonation of the Middle Ages and Renaissance period includes an interval difference of less than a semitone. However, with the establishment of 12-equal temperament for the purpose of simplifying music notation and teaching, they receded into a theoretical background.
+微分音程は西洋音楽において20世紀以前から存在していた。中世・ルネサンス期のピタゴラス音律、純正律におけるコンマ差は、結果として半音以下の音程差を内包している。しかし、記譜と教育の簡略化を目的として12平均律が定着したことで、それらは理論的背景へと後退した。
 
-In the early 20th century, composers began to intentionally use microtonal intervals, and systems using 24 equal temperament (quarter-tone) and higher divisions were developed. This trend is evident in modern music, but jazz has incorporated microtonality in a more practical manner through improvisation and physical manipulation.
+20世紀初頭には、作曲家たちが意図的に微分音程を扱い始め、24平均律（四分音）やそれ以上の分割を用いる体系が整備されていく。この流れは現代音楽において顕著だが、ジャズは即興性と身体的操作を通じ、より実践的な形で微分音程を取り込んできた。
 
-### 1-2 Blues and pitch ambiguity
+### 1-2 ブルースと音程の曖昧性
 
-Blues thirds, fifths, and sevenths are theoretically described as minor thirds, diminished fifths, and minor sevenths, but in actual performances, intermediate values ​​are often used. This ambiguity can be seen as a primitive form of microtonal sensation. Jazz players had a culture of treating pitch as a ""region'' rather than a fixed value, and allowing it to vary from phrase to phrase.
-
----
-
-## Chapter 2: The Concept of Quarter-Tone Jazz
-
-### 2-1 Definition of quarter tone system
-
-Quarter tone often refers to 24 equal temperament, which is the semitone of 12 equal temperament divided into two. By dividing one octave into 24 equal parts, new pitches are inserted between semitones. Theoretically, finer pitch divisions are possible, but for practical purposes in performance and education, the quarter tone has become a reference point.
-
-### 2-2 Reason for adoption in jazz context
-
-The reasons why the quartertone system has attracted attention in jazz can be summarized as follows.
-
-* Blue Note Refinement
-* Subdivision of tension in harmonic progression
-* Expansion of melodic freedom in improvisational expression
-
-Particularly in improvisational performances, intervals that were treated as "external tones" in the 12-equal temperament system are redefined as internal constituent tones in the quarter-tone system.
+ブルースの三度・五度・七度は、理論上は短三度・減五度・短七度として記述されるが、実際の演奏ではそれらの中間値が頻繁に用いられる。この曖昧性はマイクロトーナル的感覚の原初的形態と捉えられる。ジャズ奏者は音程を固定値ではなく「領域」として扱い、フレーズごとに可変させる文化を持っていた。
 
 ---
 
-## Chapter 3: Joe Maneri's Theory and Practice
+## 第2章：Quarter-Tone Jazzという概念
 
-### 3-1 Background and positioning
+### 2-1 四分音体系の定義
 
-Joe Maneri is a person who developed his own microtonal theory while active as a saxophonist and clarinetist. Although he was based on 24-equal temperament, he also emphasized the sense of just intonation, and was an educator who closely linked theory and practice.
+クォータートーンとは、12平均律の半音をさらに2分割した24平均律を指すことが多い。1オクターブを24等分することで、半音間に新たな音高が挿入される。理論的には、より細かな音程分割も可能だが、演奏と教育の実用性から四分音は一つの基準点となった。
 
-### 3-2 Structure of microtonal theory
+### 2-2 ジャズ文脈における採用理由
 
-Maneri's theory consists of the following elements:
+ジャズにおいて四分音体系が注目された理由は、以下の点に集約される。
 
-* Understanding all intervals of the 24-tone scale
-* A perspective that considers pitch as a distance rather than a function
-* Structure that emphasizes melodic movement rather than harmony
+* ブルーノートの精密化
+* 和声進行における緊張度の細分化
+* 即興表現における旋律的自由度の拡張
+
+特に即興演奏では、12平均律上の「外音」として扱われていた音程が、四分音体系では内部構成音として再定義される。
+
+---
+
+## 第3章：Joe Maneriの理論と実践
+
+### 3-1 経歴と位置づけ
+
+Joe Maneriは、サクソフォンおよびクラリネット奏者として活動しながら、独自の微分音理論を構築した人物である。彼は24平均律を基礎としつつ、純正律的な感覚も重視し、理論と実践を密接に結びつけた教育者でもあった。
+
+### 3-2 マイクロトーナル理論の構造
+
+Maneriの理論は、以下の要素から構成される。
+
+* 24音音階の全音程的把握
+* 音程を機能ではなく距離として捉える視点
+* 和声よりも旋律運動を重視する構造
 
 <div class="mermaid">
 flowchart TD
-    A["12 Equal Temperament"] --> B["24 Equal Temperament"]
-    B --> C["Melodic continuum"]
-    C --> D["Improvised structure"]
+    A["12平均律"] --> B["24 Equal Temperament"]
+    B --> C["旋律的連続体"]
+    C --> D["即興構造"]
 </div>
 
 
 ---
 
-### 3-3 Performance analysis: Microtonal manipulation in wind instruments
+### 3-3 演奏分析：管楽器における微分音操作
 
-Maneri's playing uses a combination of fingering and embouchure to achieve extremely precise pitch manipulation. The pitches are treated as smooth curves rather than steps, and the entire phrase is constructed as a set of continuous changes.
+Maneriの演奏では、指使いとアンブシュアを組み合わせることで、極めて精密な音程操作が行われる。音程は階段状ではなく滑らかな曲線として扱われ、フレーズ全体が連続的変化の集合として構成される。
 
-In improvisation, tension and release are created by increasing and decreasing pitch density while keeping a specific tonal center ambiguous. This method gives listeners a different sense of time than traditional tonal jazz.
+即興では、特定の調性中心を曖昧に保ちつつ、音程密度の増減によって緊張と解放を生み出す。この手法は、従来のトーナル・ジャズとは異なる時間感覚を聴き手に与える。
 
-### 3-4 Disciple generation and education system
+### 3-4 弟子世代と教育体系
 
-Maneri conducted educational activities mainly in Boston and trained many disciples. His educational system has the following characteristics.
+Maneriはボストンを中心に教育活動を行い、多くの弟子を育成した。彼の教育体系は以下の特徴を持つ。
 
-* Emphasis on auditory training of microtonal sense
-* Sequence continuum analysis for improvisational performance
-* Understanding relative pitch through resonance experiences among disciples
+* 微分音感覚の聴覚訓練に重点
+* 即興演奏のための音列連続体分析
+* 弟子間での共鳴体験を通じた相対音程理解
 
-His students are developing Maneri's methodology and applying it to larger ensembles and recording projects. As a result, the technical foundations of microtonal jazz continue to be inherited and expanded.
+弟子たちは、Maneriの方法論を発展させ、より大規模なアンサンブルや録音プロジェクトに応用している。これにより、マイクロトーナル・ジャズの技術的基盤は継承・拡張され続けている。
 
 ---
 
-## Chapter 4: Jacob Collier and the Modern Microtone Sense
+## 第4章：Jacob Collierと現代的マイクロトーン感覚
 
-### 4-1 Polyphonic/polytonal thinking
+### 4-1 多声・多調的思考
 
-Jacob Collier, known for his complex harmonic structures and polyphonic approach, deals with microtones as part of his theoretical explorations. In his case, microtonality is introduced as an extension of harmonic necessity rather than an avant-garde experiment.
+Jacob Collierは、複雑な和声構造と多声的アプローチで知られるが、その理論的探究の一環としてマイクロトーンを扱っている。彼の場合、微分音は前衛的実験というより、和声的必然性の延長として導入される。
 
-### 4-2 Microtonal Harmony
+### 4-2 マイクロトーナル・ハーモニー
 
-Collier emphasizes pitch relationships based on just intonation, and reflects minute pitch differences derived from harmonic series in the actual harmonic progression. As a result, the beat and dissonance that occur in 12-equal temperament are reconstructed with a different kind of stability.
+Collierは、純正律に基づく音程関係を重視し、倍音列から導かれる微細な音程差を実際の和声進行に反映させる。これにより、12平均律では生じるうなりや不協和が、別種の安定感を持って再構成される。
 
 <div class="mermaid">
 flowchart TB
-    A["Overtone series"]
-    A --> B["Genuine pitch"]
-    B --> C["Differential harmony"]
-    C --> D["Polyphonic arrangement"]
-    D --> E["Modern Jazz/Modern Music"]
+    A["倍音列"]
+    A --> B["純正音程"]
+    B --> C["微分音和声"]
+    C --> D["多声的配置"]
+    D --> E["現代ジャズ／現代音楽"]
 
 </div>
 
 ---
 
-### 4-3 Performance/Arrangement Analysis
+### 4-3 演奏・編曲分析
 
-In Collier's approach, individual voices may have different tonal assumptions. As a result, while the whole is microtonal, each part maintains logical consistency. This is more like a highly designed ensemble operation than improvisation.
-
----
-
-## Chapter 5: Microtone use in improvisation
-
-### 5-1 Phrase construction
-
-In microtonal jazz improvisation, the direction of pitch transition is more important than scale selection. The angle of rise and fall, and the expansion and contraction of pitch intervals determine the meaning of the phrase.
-
-### 5-2 Relationship with rhythm
-
-By subdividing the pitch, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by consecutively short note values ​​are used in combination.
-
-### 5-3 Deepening acoustic analysis
-
-For improvisational performances using microtones, acoustic evaluation using Fourier analysis and spectrograms is possible. in particular:
-
-* Fine peak distribution on the frequency spectrum
-*Changes in overtone structure and continuity of timbre
-* Evaluation of psychological tension according to pitch density
-
-This allows microtonal expression to be quantitatively analyzed as an auditory effect.
+Collierのアプローチでは、個々の声部が異なる音律的前提を持つ場合がある。結果として、全体はマイクロトーナルでありながら、各パートは論理的整合性を保つ。これは、即興というよりも高度に設計されたアンサンブル運用に近い。
 
 ---
 
-## Chapter 6: Ensemble and notation problems
+## 第5章：即興におけるマイクロトーン運用
 
-### 6-1 Notation
+### 5-1 フレーズ構築
 
-Extended quarter notes and accidentals are used, but complete notation is difficult, and much depends on the performer's auditory understanding. This point has an affinity with the oral nature of jazz.
+マイクロトーナル・ジャズの即興では、スケール選択よりも音程推移の方向性が重要となる。上昇・下降の角度、音程間隔の拡大・収縮が、フレーズの意味を決定する。
 
-### 6-2 Adjustment in ensemble
+### 5-2 リズムとの関係
 
-In microtonal ensembles, sharing relative pitches is more important than absolute pitches. A common method is to check the harmonic relationships during the rehearsal stage and adjust the pitch based on resonance.
+音程が細分化されることで、リズムの役割も変化する。長い音価で微細な音程差を提示する手法と、短い音価を連続させることで音程密度を高める手法が併用される。
+
+### 5-3 音響分析の深化
+
+微分音使用の即興演奏では、フーリエ解析やスペクトログラムによる音響評価が可能である。具体的には:
+
+* 周波数スペクトル上での微細なピーク分布
+* 倍音構造の変化と音色の連続性
+* 音程密度に応じた心理的緊張度の評価
+
+これにより、マイクロトーナル表現が聴覚的効果として定量的に分析可能となる。
 
 ---
 
-## Chapter 7: Chronology: Development of Microtonal Jazz
+## 第6章：アンサンブルと記譜の問題
+
+### 6-1 記譜法
+
+四分音記号や臨時記号の拡張が用いられるが、完全な記譜は困難であり、演奏者の聴覚的理解に依存する部分が大きい。この点は、ジャズの口承性と親和的である。
+
+### 6-2 合奏における調整
+
+マイクロトーナル・アンサンブルでは、絶対音高よりも相対音程の共有が重視される。リハーサル段階で倍音関係を確認し、共鳴を基準に音程を調整する方法が一般的である。
+
+---
+
+## 第7章：年表：マイクロトーナル・ジャズの展開
 
 <div class="mermaid">
 timeline
@@ -190,23 +190,23 @@ timeline
 ---
 
 
-## Chapter 8: Educational developments and modern impact
+## 第8章：教育的展開と現代への影響
 
-Joe Maneri's disciples provide microtonal education at jazz educational institutions in the United States and abroad, and develop their own research and performance projects. They have influence in the following areas:
+Joe Maneriの弟子たちは、米国内外のジャズ教育機関でマイクロトーナル教育を行い、独自の研究・演奏プロジェクトを展開している。彼らは以下の領域で影響力を持つ。
 
-* Pitch sense training in advanced improvisational education
-* Practical application in small and large ensembles
-* Microtonal jazz recording and publishing activities
+* 高度即興教育における音程感覚訓練
+* 小編成・大編成アンサンブルでの実践応用
+* マイクロトーナル・ジャズの録音・出版活動
 
-This educational network, often recognized as the Manneri school, forms the cutting edge of contemporary jazz improvisation and composition education.
+この教育的ネットワークは、マンエリ派として認識されることが多く、現代ジャズにおける即興・作曲教育の先端を形成している。
 
 ---
 
-## Final Chapter: The Significance of Microtonal Jazz
+## 終章：マイクロトーナル・ジャズの意義
 
-Microtonal jazz is not simply an expansion of pitch, but an attempt to reconceive music as a continuum. Joe Maneri built a theory from the physicality of improvisation and developed an educational system through generations of disciples, and Jacob Collier presented its possibilities in a modern way through the refinement of harmony and structure.
+マイクロトーナル・ジャズは、単なる音程拡張ではなく、音楽を連続体として再認識する試みである。Joe Maneriは即興の身体性から理論を構築し、弟子世代を通じて教育体系を発展させ、Jacob Collierは和声と構造の精密化によってその可能性を現代的に提示した。
 
-This trend has simultaneously deepened the improvisational spirit and theoretical exploration of jazz, and continues to have an impact on the fields of acoustic analysis, performance techniques, education, and composition. For Monumental Movement Records, I was conscious of the sentence structure and vocabulary that integrates practical musical interpretation and critical perspective, and presents the multi-layered appeal of microtonal jazz to the reader.
+この潮流は、ジャズの即興精神と理論探究を同時に深化させ、音響分析・演奏技術・教育・作曲の各領域で影響を与え続ける。
 
 ---
 

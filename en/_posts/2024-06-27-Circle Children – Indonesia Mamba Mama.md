@@ -13,9 +13,9 @@ title: Children Circle – Indonesia Mamba Mama
 ---
 
 
-Circle Children is one of the aliases of US DJ and producer Armand Van Helden.
+Circle Childrenは、USのDJ・プロデューサーArmand Van Helden（アーマンド・ヴァン・ヘルデン）の別名義の一つ。
 
-"Indonesia / Mamba Mama" is a house/tribal house track released in 1993 on the house label Strictly Rhythm. Executive producer is Strictly Rhythm co-founder Gladys Pizarro.
+「 Indonesia / Mamba Mama」は、ハウスレーベルStrictly Rhythmから1993年にリリースされたハウス・トライバルハウストラック。エグゼクティブプロデューサーは、Strictly Rhythmの共同創設者Gladys Pizarro。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ B1. Mamba Mama (Passion Mix)
 B2. Mamba Mama (Armand's New School Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m82658729111?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82658729111?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v2HtX6854ZQ?si=A8dmFg7_3rTo976K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

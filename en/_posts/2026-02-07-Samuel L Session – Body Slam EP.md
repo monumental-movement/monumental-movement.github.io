@@ -14,11 +14,11 @@ title: Samuel L Session – Body Slam EP
 
 
 
-Samuel L. Session is a DJ/producer representing the Swedish techno world. He is best known for hit songs such as ""Merengue" and ""Can You Relate."
+Samuel L Session（サミュエル・L・セッション）は、スウェーデン・テクノ界のを代表するDJ／プロデューサー。『Merengue』『Can You Relate』などのヒット曲でよく知られている。
 
-In 1996, he co-founded Solid Beat Records with Max Reich, and established his own labels Cycle (1997-2001), SLS (2001-2005, 2022~), and Klap Klap (2006-2014).
+1996 年にMax Reich（マック・ ライヒ）と共に Solid Beat Recordsを設立し、自身のレーベル Cycle (1997-2001)、SLS (2001-2005、2022〜)、Klap Klap (2006-2014) を設立した。
 
-"Body Slam EP" is a Tribal/Techno track released on his own label SLS in 2001.
+「Body Slam EP」は、2001年に自身のレーベルSLSからリリースしたTribal／Technoトラック。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Batucumba
 B2. Dolce Gabbana
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m85945217898?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85945217898?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zi2i2kkB8Ag?si=BEWJYX5YhjGVDH33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

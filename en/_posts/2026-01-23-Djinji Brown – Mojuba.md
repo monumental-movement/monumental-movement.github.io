@@ -14,9 +14,9 @@ title: Djinji Brown – Mojuba
 ---
 
 
-Djinji Brown is the son of jazz alto saxophonist Marion Brown, who was active in the New York avant-garde jazz scene in the 1960s and played with John Coltrane, Archie Shepp, John Tchicai, and others.
+Djinji Brown は、1960年代のNYアヴァンギャルド・ジャズシーンで活躍し、John Coltrane, Archie Shepp, John Tchicai 等と共演したジャズ・アルト・サックス奏者Marion Brown の息子。
 
-"Mojuba" is a Tribal/Deep House/African track released in 2002 by American independent hichop label Seven Heads.
+「Mojuba」は、2002年にアメリカのインディペンデント・ヒックホップレーベルSeven HeadsからリリースされたTribal／Deep House／Africanトラック。
 
 #### Tracklist
 ```md

@@ -8,13 +8,13 @@ layout: post
 tags:
 - Techno
 - Hardcore
-title: Araknophobia – Arachnophobia
+title: Araknofobia – Arachnophobia
 ---
 
 
-Araknophobia is an electronic music group formed by UK house music DJ/producers Jon Pearn, Michael Gray, Cino Berigliano, and Nick Ratcliffe.
+Araknofobiaは、UKのハウス ミュージックDJ/プロデューサーJon Pearn、Michael Gray、Cino Berigliano、Nick Ratcliffeによって結成されたエレクトロニックミュージックグループ。
 
-"Arachnophobia" is Araknophobia's debut single and their signature song. Also active as Friends Of Matthew (FOM).
+「Arachnophobia」はAraknofobiaのデビューシングルで彼らの代表曲。別名義でFriends Of Matthew(FOM)としても活動。
 
 #### Tracklist
 ```md
@@ -23,7 +23,7 @@ A. Arachnophobia (I Want You)
 AA. Arachnophobia (Black Widow)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m74790346352?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74790346352?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1oXFLSzteDk?si=dgo2LJLW5YKbru81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -32,4 +32,4 @@ B1. Get Up (Guy Robin & DJ Leo Underground Mix)
 B2. Get Up (Guy Robin & DJ Leo Dubstrumental Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m55918745313?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55918745313?afid=6142608987){: .button1}

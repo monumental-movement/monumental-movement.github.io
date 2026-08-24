@@ -11,39 +11,38 @@ tags:
 - UK Rave
 - Jungle
 - Grime
-title: '[Column] The Secret History of Pirate Radio — The musical revolution born
-  of illegal radio waves'
+title: 【コラム】 The Secret History of Pirate Radio — 違法電波が生んだ音楽革命
 ---
 
 
 
-## The underground world of radio waves
+## 電波の地下世界
 
-Text: mmr | Theme: Pirate radio, which played outside the control of national airwaves, became the breeding ground for the musical revolution of UK rave, jungle, and grime. Pursuing its unknown history
+文：mmr｜テーマ：国家の電波管理の外側で鳴った海賊ラジオは、UKレイヴ、ジャングル、グライムという音楽革命の温床となった。その知られざる歴史を追う
 
 
 
-From the 1970s to the early 2000s, there was another invisible network in the skies over London.
+1970年代から2000年代初頭にかけて、ロンドンの空には目に見えないもうひとつのネットワークが存在していた。
 
-It's not a regular broadcasting station.
+それは正規の放送局ではない。
 
-It has no government license, no sponsors, and no broadcast rights.
+政府の免許も、スポンサーも、放送権も持たない。
 
-But new music was playing there before anyone else.
+だがそこでは、誰よりも早く新しい音楽が流れていた。
 
-That is "Pirate Radio".
+それが「パイレート・ラジオ」である。
 
-The roofs of buildings, the roofs of housing complexes, and cars loaded with broadcasting equipment. Radio waves emitted from illegal transmitters spread across the city skyline, engulfing London at night.
+建物の屋上、団地の屋根、放送機材を積んだ車。違法送信機から発せられた電波は都市の空に広がり、夜のロンドンを包み込んだ。
 
-The music played there would eventually become the center of club culture.
+そこで流れた音楽は、やがてクラブカルチャーの中心になる。
 
-UK rave, jungle, drum and bass, garage and grime.
+UKレイヴ、ジャングル、ドラムンベース、ガラージ、そしてグライム。
 
-Many of these genres were popularized through pirate radio rather than formal media.
+これらのジャンルの多くは、正規メディアではなくパイレート・ラジオから広まった。
 
-Before the Internet, radio waves were the fastest network connecting urban subcultures.
+インターネット以前、都市のサブカルチャーをつなぐ最速のネットワークは電波だった。
 
-> Pirate radio was the "underground internet" before music became mainstream.
+> 海賊ラジオは、音楽が主流になる前の“地下インターネット”だった。
 
 ---
 
@@ -52,7 +51,7 @@ Before the Internet, radio waves were the fastest network connecting urban subcu
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -62,83 +61,83 @@ color: #fff;
 
 
 
-## Origin of Pirate Radio
+## パイレート・ラジオの起源
 
-The history of pirate radio dates back to Europe in the 1960s.
+パイレート・ラジオの歴史は1960年代のヨーロッパにさかのぼる。
 
-At the time, the BBC had a near monopoly on British broadcasting. Pop music was only played for a limited time, and youth culture was not the focus of broadcasts.
+当時、イギリスの放送はBBCがほぼ独占していた。ポップミュージックは限られた時間しか流されず、若者文化は放送の中心ではなかった。
 
-Then came the maritime broadcasting station.
+そこで登場したのが海上放送局だった。
 
-A ship is anchored on the high seas of the North Sea and a radio signal is transmitted from there.
+北海の公海上に船を停泊させ、そこからラジオを送信する。
 
-This is how the earliest form of pirate radio was born.
+こうして誕生したのが海賊ラジオの最初期の形である。
 
-Their style of playing rock and pop music all day long was hugely popular among young people.
+ロックやポップを一日中流すそのスタイルは若者に爆発的に支持された。
 
-However, in 1967 the government enacted a law prohibiting pirate broadcasting, and many stations were shut down.
+しかし政府は1967年に海賊放送を禁止する法律を制定し、多くの局が閉鎖された。
 
-But culture did not disappear.
+だが文化は消えなかった。
 
-From sea to land.
+海から陸へ。
 
-From the 1970s onward, pirate radio began broadcasting from the rooftops of city buildings.
+1970年代以降、パイレート・ラジオは都市のビル屋上から発信されるようになる。
 
-London was a multi-ethnic city.
+ロンドンは多民族都市だった。
 
-Local stations playing reggae and dub have sprung up in Caribbean immigrant communities.
+カリブ海移民のコミュニティでは、レゲエやダブを流すローカル局が生まれた。
 
-Eventually, that culture would become the soil for the next generation of club music.
+やがてその文化は、次世代のクラブミュージックの土壌になる。
 
-> From maritime broadcasting to city rooftops. Pirate radio survived as an underground culture.
-
----
-
-
-## Rave culture and radio waves
-
-In the late 1980s, a major musical revolution occurred in England.
-
-It's acid house.
-
-Club music from Chicago and Detroit was brought to Britain, and huge rave parties began to be held all over the country.
-
-However, this culture was also not accepted by the media.
-
-The club was shut down by police and the rave was treated as an illegal event.
-
-Pirate Radio played an important role in this.
-
-DJs played new records, shared party information, and formed a community here.
-
-Especially in London, the number of pirate stations specializing in dance music is rapidly increasing.
-
-The city's nights were filled with illegal radio waves.
-
-> Rave culture spread not through clubs but over the airwaves.
+> 海上放送から都市屋上へ。パイレート・ラジオは地下文化として生き残った。
 
 ---
 
 
-## Jungle Birth Media
+## レイヴ文化と電波
 
-In the early 1990s, a new sound emerged from UK rave.
+1980年代後半、イギリスで大きな音楽革命が起きる。
 
-It's a jungle.
+アシッド・ハウスである。
 
-This music, which sped up breakbeats and layered reggae and dub bass, was rarely played on the BBC at the time.
+シカゴやデトロイトのクラブミュージックが英国に持ち込まれ、巨大なレイヴ・パーティーが各地で開かれるようになった。
 
-But Pirate Radio was different.
+しかしこの文化もまた、メディアには受け入れられなかった。
 
-DJs will bring in the latest dubplates and broadcast unreleased tracks.
+クラブは警察に閉鎖され、レイヴは違法イベントとして扱われた。
 
-Radio was not just an advertising medium, it was a musical laboratory.
+そこで重要な役割を果たしたのがパイレート・ラジオだった。
 
-The MC grabs the microphone and improvises words to the DJ's play.
+DJたちはここで新しいレコードを流し、パーティー情報を伝え、コミュニティを形成した。
 
-This style also took hold in clubs and became an important element of jungle culture.
+特にロンドンでは、ダンスミュージックを専門に流す海賊局が急増する。
 
-> Jungle grew out of radio booths, not clubs.
+都市の夜は、違法電波で満たされた。
+
+> レイヴ文化はクラブではなく電波によって広がった。
+
+---
+
+
+## ジャングル誕生のメディア
+
+1990年代初頭、UKレイヴの中から新しいサウンドが生まれる。
+
+ジャングルである。
+
+ブレイクビーツを高速化し、レゲエやダブのベースを重ねたこの音楽は、当時のBBCではほとんど流されなかった。
+
+だがパイレート・ラジオでは違った。
+
+DJが最新のダブプレートを持ち込み、未発表トラックを放送する。
+
+ラジオは単なる宣伝媒体ではなく、音楽の実験室だった。
+
+MCがマイクを握り、DJのプレイに即興で言葉を乗せる。
+
+このスタイルはクラブでも定着し、ジャングル文化の重要な要素になった。
+
+> ジャングルはクラブではなくラジオのブースから育った。
 
 ---
 
@@ -158,74 +157,74 @@ C --> D
 ---
 
 
-## London Rooftop Network
+## ロンドンの屋上ネットワーク
 
-In the 1990s, there were said to be hundreds of pirate stations in London.
+1990年代、ロンドンには数百のパイレート局が存在したといわれている。
 
-The transmitter was installed on the roof of a high-rise apartment complex.
+送信機は高層団地の屋上に設置された。
 
-The reason is simple.
+理由は単純だ。
 
-This is because radio waves can reach long distances.
+電波が遠くまで届くからである。
 
-Some stations covered large areas of the city.
+局によっては街の広い範囲をカバーした。
 
-Equipment is often confiscated by police, but broadcasting is quickly restored.
+機材はしばしば警察に押収されたが、放送はすぐに復活する。
 
-Install a new transmitter and change the frequency.
+新しい送信機を設置し、周波数を変える。
 
-The Pirate Bureau was always on the move.
+パイレート局は常に移動し続ける存在だった。
 
-DJ, MC, technician, promoter.
+DJ、MC、技術者、プロモーター。
 
-Many young people were involved in this culture.
+多くの若者がこの文化に関わった。
 
-The station became the center of the club scene and formed a musical community.
+放送局はクラブシーンの中心となり、音楽コミュニティを形成した。
 
-> Rooftop antennas were infrastructure that connected the city's underground culture.
+> 屋上のアンテナは都市の地下文化をつなぐインフラだった。
 
-
----
-
-## Garage and urban sounds
-
-In the late 1990s, UK garage became popular.
-
-This house-based music quickly spread through London's clubs and pirate radio.
-
-Many of the garage DJs and MCs came from pirate stations.
-
-Play on the radio and appear in clubs.
-
-This cycle created the music scene.
-
-Listeners listen to a DJ play on the radio at home and then go to a club that weekend.
-
-Radio was directly connected to the city's nightlife.
-
-> Pirate Radio was an advertising device for club culture.
 
 ---
 
-## Birth of grime
+## ガラージと都市のサウンド
 
-In the early 2000s, a new genre was born in East London.
+1990年代後半、UKガラージが人気を集める。
 
-It's grime.
+ハウスをベースにしたこの音楽は、ロンドンのクラブとパイレート・ラジオで急速に広がった。
 
-It was a style that made the garage beat even more minimal and brought rap to the fore.
+ガラージのDJやMCの多くは海賊局出身だった。
 
-This music also spread from pirate radio.
+ラジオでプレイし、クラブに出演する。
 
-Young MCs gather in the studio and perform impromptu raps.
+このサイクルが音楽シーンを作った。
 
-The atmosphere of the broadcast was like a live battle.
+リスナーは自宅のラジオでDJのプレイを聴き、その週末にクラブへ行く。
 
-Listeners send their responses by phone or text.
+ラジオは都市のナイトライフと直結していた。
 
-Radio became the center of the community.
+> パイレート・ラジオはクラブカルチャーの宣伝装置だった。
 
-> Grime was born on the airwaves, not in clubs.
+---
+
+## グライムの誕生
+
+2000年代初頭、東ロンドンで新しいジャンルが誕生する。
+
+グライムである。
+
+ガラージのビートをさらにミニマルにし、ラップを前面に出したスタイルだった。
+
+この音楽もまた、パイレート・ラジオから広がった。
+
+若いMCたちはスタジオに集まり、即興でラップを披露する。
+
+放送はライブバトルのような雰囲気だった。
+
+リスナーは電話やメッセージで反応を送る。
+
+ラジオはコミュニティの中心になった。
+
+> グライムはクラブではなく電波の中で生まれた。
 
 ---
 
@@ -245,51 +244,51 @@ C --> D
 ---
 
 
-## Regulation and enforcement
+## 規制と取り締まり
 
-The government has been cracking down on pirate radio for years.
+政府は長年にわたりパイレート・ラジオを取り締まってきた。
 
 Confiscation of transmitters, fines, and interference with broadcasting.
 
-However, it could not be completely erased.
+しかし完全に消すことはできなかった。
 
-The reason is simple.
+理由は単純である。
 
-This is because this culture was deeply rooted in urban communities.
+この文化が都市コミュニティに深く根付いていたからだ。
 
-A place to play music that mainstream stations don't cover.
+メインストリームの放送局が扱わない音楽を流す場所。
 
-Where new artists first get noticed.
+新人アーティストが最初に注目を集める場所。
 
-That was Pirate Radio.
+それがパイレート・ラジオだった。
 
-> The stronger the regulations, the more active the underground culture became.
+> 規制が強まるほど地下文化は活発になった。
 
 ---
 
 
-## Internet era
+## インターネットの時代
 
-In the late 2000s, things changed.
+2000年代後半、状況が変わる。
 
 This is the advent of streaming and internet radio.
 
-Broadcasting will shift to online rather than radio waves.
+放送は電波ではなくオンラインへ移行していく。
 
-Many pirate stations were relaunched as web radios.
+多くの海賊局はウェブラジオとして再出発した。
 
-The battle over frequencies is over.
+周波数を巡る戦いは終わった。
 
-But the culture continues.
+だが文化は続いている。
 
-Online radio and streaming platforms continue the spirit of pirate culture.
+オンラインラジオやストリーミングプラットフォームは、パイレート文化の精神を受け継いでいる。
 
-> The Internet didn't end pirate radio, it evolved it.
+> インターネットは海賊ラジオを終わらせたのではなく進化させた。
 
 ---
 
 
-## Chronology: Pirate Radio and UK Music
+## 年表：パイレート・ラジオとUK音楽
 
 <div class="mermaid">
 timeline
@@ -307,23 +306,23 @@ timeline
 ---
 
 
-## Music history created by radio waves
+## 電波が作った音楽史
 
-Pirate radio is not just illegal broadcasting.
+パイレート・ラジオは単なる違法放送ではない。
 
-It was a cultural infrastructure.
+それは文化のインフラだった。
 
-A place where new music is born, spreads, and communities are formed.
+新しい音楽が誕生し、広まり、コミュニティが形成される場所。
 
-If this underground network didn't exist, UK rave, jungle and grime would all be different.
+もしこの地下ネットワークが存在しなければ、UKレイヴもジャングルもグライムも、今とは違う形になっていただろう。
 
-Music history is often told by record companies and star artists.
+音楽史はしばしばレコード会社やスターアーティストによって語られる。
 
 But small transmitters placed on city rooftops were just as important.
 
-The radio waves that flowed from there created a new future for music.
+そこから流れた電波が、新しい音楽の未来を作ったのである。
 
-> The musical revolution began not in a studio, but from a rooftop antenna.
+> 音楽革命はスタジオではなく屋上アンテナから始まった。
 
 ---
 

@@ -12,9 +12,9 @@ title: Leroy Hanghofer – Bathroomboogie
 ---
 
 
-This EP has a very funky and wonderfully creative and quirky feel to it, with a subtle sense of humour.
+このEPは、非常にファンキー＆素晴らしくクリエイティブで奇抜な雰囲気があり、微妙なユーモアも感じられます。
 
-But the thick bassline and crunchy synthesizer keep everything in a tight groove and keep things moving along happily.
+しかし、太いベースラインとグシャグシャとしたシンセサイザーが、すべてをしっかりとグルーブさせ、楽しく進行します。
 
 #### Tracklist
 ```md

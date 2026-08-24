@@ -9,25 +9,24 @@ layout: post
 tags:
 - Post-Punk
 - Avant-Garde
-title: '[Column] David Thomas and the horizon of post-punk: The moment when the voice
-  becomes a landscape'
+title: 【コラム】 David Thomasとポスト・パンクの地平：声が風景になる瞬間
 ---
 
 
 
-## Prologue: Another rock opened by a strange voice
+## 序章：異形の声が切り開いたもうひとつのロック
 
-Text: mmr｜Theme: Expansion of voices and the formation of urban imagination in post-punk
+文：mmr｜テーマ：ポスト・パンクにおける声の拡張と都市的想像力の形成
 
-### An existence that turns the premise of rock "singing" upside down
+### ロックの「歌う」という前提を裏返す存在
 
-In rock, the ""voice"' has often been treated as a medium to carry melody. However, the arrival of David Thomas quietly but decisively undermined that assumption. His voice isn"t beautiful or even. Rather, he is unstable, sometimes shouting, sometimes muttering, and sometimes speaking. That ambiguous line is the core of his music.
+ロックにおいて「声」はしばしばメロディを運ぶ媒体として扱われてきた。しかし、David Thomasの登場は、その前提を静かに、しかし決定的に崩した。彼の声は美しくもなければ、整ってもいない。むしろ、不安定で、時に叫び、時に呟き、そして語る。その曖昧な境界線こそが、彼の音楽の核心である。
 
-In the late 1970s, his music was formed in the desolate landscape of the industrial city of Cleveland, Ohio, USA. The sound was not just an extension of punk, but an ""environment itself'' that absorbed the noise of the city, the fatigue of work, and fragments of culture.
+1970年代後半、アメリカ・オハイオ州クリーブランドという工業都市の荒廃した風景の中で、彼の音楽は形成された。その音は単なるパンクの延長ではなく、都市のノイズ、労働の疲労、そして文化の断片を吸収した「環境そのもの」だった。
 
-Pere Ubu, which he led, was more than just a band, it functioned as a ideological device. There, music existed not as a story but as a landscape.
+彼が率いたPere Ubuは、単なるバンドではなく、ひとつの思想装置として機能した。そこでは音楽は物語ではなく、風景として存在していた。
 
-> By deviating from the common sense of rock, they were an existence that expanded the possibilities of rock.
+> ロックの常識を逸脱することで、逆にロックの可能性を拡張した存在だった。
 
 ---
 
@@ -36,7 +35,7 @@ Pere Ubu, which he led, was more than just a band, it functioned as a ideologica
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,84 +45,84 @@ color: #fff;
 
 
 
-## Childhood and Formation: The Sound Space of Cleveland
+## 幼少期と形成：クリーブランドという音響空間
 
-### Distorted sensibilities created by industrial cities
+### 工業都市が生んだ歪んだ感受性
 
-David Thomas was born in America in 1953. He grew up in Cleveland, a typical Rust Belt city centered on the steel industry, which was in economic decline in the 1970s. This environment had a decisive influence on his music.
+David Thomasは1953年、アメリカで生まれた。彼の育ったクリーブランドは、製鉄業を中心とした典型的なラストベルト都市であり、1970年代には経済的衰退が進行していた。この環境は、彼の音楽に決定的な影響を与えた。
 
-City noise, mechanical sounds, and inorganic landscapes. These later appear as "sound textures" in his works. It is due to this urban experience that his voice functions not just as a song, but as part of the environmental sounds.
+都市のノイズ、機械音、無機質な風景。それらは後に彼の作品における「音の質感」として現れる。彼の声が単なる歌唱ではなく、環境音の一部として機能するのは、この都市的体験に起因している。
 
-In addition to music, he also had a strong interest in literature and movies. Avant-garde literature and experimental film in particular have influenced his structural view of music.
+また、彼は音楽だけでなく文学や映画にも強い関心を持っていた。特に前衛文学や実験映画は、彼の構造的な音楽観に影響を与えている。
 
-> Urban decay and cultural fragments became the raw material for his music.
-
----
-
-## Rocket from the Tombs: Destructive Origin
-
-### Proto-punk underground core
-
-In the mid-1970s, David Thomas joined Rocket from the Tombs. Although this band was short-lived, it had a huge influence on later punk/post-punk.
-
-Although the songs of this period were rough and noisy, they already had a structural experimental nature within them. Many of his songs were later re-recorded on Pere Ubu, and there is no doubt that this was the starting point for his music.
-
-What is important is that this band was not just an ""initial form,'' but a fragment of a fully formed idea. His music was "different" from the beginning.
-
-> A language of its own was already sprouting within the initial destructive impulses.
+> 都市の崩壊と文化の断片が、彼の音楽の原材料となった。
 
 ---
 
-## Birth of Pere Ubu: The beginning of sonic experimentation
+## Rocket from the Tombs：破壊的原点
 
-### Fusion of noise and structure
+### プロト・パンクの地下核
 
-In 1975, David Thomas formed Pere Ubu. The band's name comes from King Ubu, which hints at their aesthetic at the time.
+1970年代半ば、David ThomasはRocket from the Tombsに参加する。このバンドは短命でありながら、後のパンク／ポスト・パンクに多大な影響を与えた。
 
-Their 1978 album, The Modern Dance, is considered a monumental work in post-punk. This album combines synthesizer noise, non-linear structures, and David Thomas's unconventional vocals to create a sonic space completely different from traditional rock.
+この時期の楽曲は粗暴でノイジーでありながら、すでに構造的な実験性を内包していた。後にPere Ubuで再録される楽曲も多く、ここが彼の音楽の出発点であることは間違いない。
 
-What is particularly distinctive is that the music does not move forward. The beat and melody propulsion of normal rock is intentionally dismantled, and instead a collection of fragmented sounds is presented.
+重要なのは、このバンドが単なる「初期形態」ではなく、すでに完成された思想の断片を持っていた点である。彼の音楽は最初から「異質」だった。
+
+> 破壊的な初期衝動の中に、すでに独自の言語が芽生えていた。
+
+---
+
+## Pere Ubuの誕生：音響的実験の開始
+
+### ノイズと構造の融合
+
+1975年、David ThomasはPere Ubuを結成する。このバンド名は、ユビュ王に由来しており、その時点で彼らの美学が示唆されている。
+
+1978年のアルバムThe Modern Danceは、ポスト・パンクの金字塔とされる作品である。このアルバムでは、シンセサイザーのノイズ、非線形な構造、そしてDavid Thomasの異形のボーカルが融合し、従来のロックとは全く異なる音響空間が構築された。
+
+特に特徴的なのは、音楽が「前進」しない点である。通常のロックが持つビートやメロディの推進力は意図的に解体され、代わりに断片的な音の集合体が提示される。
 
 <div class="mermaid">
 graph TD
-A[cleveland urban environment] --> B[noisy sound]
-B --> C[Pere Ubu's musical structure]
-C --> D[The establishment of post-punk]
+A[クリーブランドの都市環境] --> B[ノイズ的音響]
+B --> C[Pere Ubuの音楽構造]
+C --> D[ポスト・パンクの成立]
 </div>
 
-> The attempt to present music as ""existence'' rather than progression was completed here.
+> 音楽を進行ではなく「存在」として提示する試みがここで完成した。
 
 ---
 
-## Voice as an instrument: David Thomas's expression theory
+## 声という楽器：David Thomasの表現論
 
-### The boundary between singing and storytelling
+### 歌と語りの境界線
 
-David Thomas's greatest feature is his vocal style. His voice is very different from traditional singing, but rather falls somewhere between "talking" and "screaming".
+David Thomasの最大の特徴は、そのボーカルスタイルにある。彼の声は伝統的な歌唱とは大きく異なり、むしろ「語り」と「叫び」の中間に位置する。
 
-This style functions as a means of presenting a situation or landscape rather than a direct expression of emotion. He creates music by "talking" rather than "singing."
+このスタイルは、感情の直接的表現ではなく、状況や風景を提示するための手段として機能する。彼は「歌う」のではなく、「語る」ことで音楽を成立させている。
 
-This approach influenced many later artists. For example, you can see its influence on Mark E. Smith and David Byrne.
+このアプローチは後の多くのアーティストに影響を与えた。例えば、Mark E. Smithや、David Byrneなどにその影響を見ることができる。
 
-> Freeing the voice from the melody opened up a new realm of expression.
-
----
-
-## Solo career and expansion: Beyond musical horizons
-
-### Introducing theatricality and storytelling
-
-From the 1980s onwards, David Thomas began his solo career in earnest. His works have become more narrative-oriented and have prominent theatrical elements.
-
-Of particular note is the relationship between music and text. In his works, lyrics are not just an auxiliary element, but are treated as structural elements on a par with the music.
-
-He also took a unique approach to live performance. The stage is not just a place for performances, but a space in which the story unfolds.
-
-> Beyond music, it expanded into a comprehensive form of expression.
+> 声を旋律から解放することで、新しい表現領域が開かれた。
 
 ---
 
-## Chronology: David Thomas' journey
+## ソロ活動と拡張：音楽の地平を越えて
+
+### 演劇性と物語性の導入
+
+1980年代以降、David Thomasはソロ活動を本格化させる。彼の作品はより物語性を強め、演劇的要素が顕著になる。
+
+特に注目すべきは、音楽とテキストの関係である。彼の作品では歌詞が単なる補助要素ではなく、音楽と対等な構造要素として扱われる。
+
+また、彼はライブパフォーマンスにおいても独自のアプローチを取った。ステージは単なる演奏の場ではなく、物語が展開される空間となる。
+
+> 音楽を超えて、総合的な表現へと拡張していった。
+
+---
+
+## 年表：David Thomasの歩み
 
 <div class="mermaid">
 timeline
@@ -137,31 +136,31 @@ timeline
 
 ---
 
-## Influence and recognition: the core of post-punk
+## 影響と評価：ポスト・パンクの核心として
 
-### The future indicated by "difficulty"
+### 「難解さ」が示す未来
 
-David Thomas and Pere Ubu's music is often described as ""difficult''. However, this difficulty was not just a sign of experimentation, but also an indication of new musical possibilities.
+David ThomasとPere Ubuの音楽は、しばしば「難解」と評される。しかしその難解さは、単なる実験性ではなく、音楽の新しい可能性を示すものだった。
 
-Their influence extends beyond post-punk to industrial, noise, and even contemporary music.
+彼らの影響は、ポスト・パンクのみならず、インダストリアル、ノイズ、さらには現代音楽にまで及んでいる。
 
-Although his music has distanced itself from commercial success, it has certainly continued to have an underground influence.
+彼の音楽は商業的成功とは距離を置きながらも、確実に地下で影響力を持ち続けてきた。
 
-> Music that is difficult to understand will become the language of the next era.
+> 理解されにくい音楽こそが、次の時代の言語となる。
 
 ---
 
-## Conclusion: Music as landscape
+## 結語：風景としての音楽
 
-### What David Thomas leaves behind
+### David Thomasが残したもの
 
-David Thomas' music is more than just a collection of works. It is a ""landscape'' where cities, cultures, and individual experiences intersect.
+David Thomasの音楽は、単なる作品の集合ではない。それは都市、文化、そして個人の経験が交差する「風景」である。
 
-He dismantled the framework of rock and took music to a new dimension. His influence continues to this day, and his efforts are by no means a thing of the past.
+彼はロックの枠組みを解体し、音楽を新しい次元へと導いた。その影響は現在も続いており、彼の試みは決して過去のものではない。
 
-He continued to show that music is not just entertainment, but a medium that stimulates thought and the senses.
+音楽が単なる娯楽ではなく、思考や感覚を刺激するメディアであることを、彼は示し続けた。
 
-> He was the person who changed music from ""something to listen to" to ""a space to feel."
+> 音楽を「聴くもの」から「感じる空間」へと変えた存在だった。
 
 
 
@@ -169,7 +168,7 @@ He continued to show that music is not just entertainment, but a medium that sti
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RFzW5BP4wmI?si=gtmmNJNdUXOzCzvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

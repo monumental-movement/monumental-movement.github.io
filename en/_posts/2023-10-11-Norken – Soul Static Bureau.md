@@ -13,9 +13,9 @@ title: Norken – Soul Static Bureau
 ---
 
 
-Lee Anthony Norris, also known as Norken, is a British electronic producer based in Devon, England.
+NorkenことLee Anthony Norris（リー・アンソニー・ノリス）は、イギリスのデヴォンを拠点とするイギリスのエレクトロニックプロデューサー。
 
-The double LP "Soul Static Bureau" released in 2000 is a techno/minimal/deep house track that features calm and emotional elements, sophisticated rhythms, and Norken's unique sound design.
+2000年にリリースされた２枚組LP「Soul Static Bureau」は、穏やかでエモーショナルな要素を持ちながらも、洗練されたリズムとNorken独特のサウンドデザインが特徴のテクノ・ミニマル・ディープハウストラック。
 
 #### Tracklist
 ```md

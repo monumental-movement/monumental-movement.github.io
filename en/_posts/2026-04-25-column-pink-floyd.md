@@ -10,25 +10,24 @@ tags:
 - Rock
 - Psychedelic
 - Progressive
-title: '[Column] Pink Floyd——An expansion of rock that rebuilt the world with sound
-  and space'
+title: 【コラム】 Pink Floyd——音と空間で世界を再構築したロックの拡張
 ---
 
 
 
-## Prologue: The moment when rock turns into an "experience"
+## 序章：ロックが「体験」へ変わる瞬間
 
-Text: mmr｜Theme: The trajectory of Pink Floyd's innovation and thought that expanded music into spatial art
+文：mmr｜テーマ：音楽を空間芸術へと押し広げたPink Floydの革新と思想の軌跡
 
-### How far can music expand?
+### 音楽はどこまで拡張できるのか
 
-In the 1960s, rock was still "music to be played." However, Pink Floyd transforms this into a ""space to be experienced.'' Music as a whole, including sound, light, images, and even silence. Their appearance was an event that rewrote the very definition of rock.
+1960年代、ロックはまだ「演奏される音楽」だった。しかしPink Floydは、それを「体験される空間」へと変えてしまう。音、光、映像、そして沈黙までも含めた総体としての音楽。彼らの登場は、ロックの定義そのものを書き換えた出来事だった。
 
-At early live performances at venues such as London's UFO Club, a liquid light show was projected simultaneously with the music, making the audience not just listeners but ""insiders.'' At this point, their live performance was already an "environment" rather than a concert.
+ロンドンのUFOクラブなどで行われた初期のライブでは、音楽と同時に液体ライトショーが投影され、観客は単なるリスナーではなく“内部にいる存在”となる。この時点で既に、彼らのライブはコンサートではなく「環境」だった。
 
-There is a testimony from an audience member at the time that says, ""They were not watching the band, but melting into the space.'' This is not an exaggeration; it was exactly the experience they intended.
+当時の観客の証言には、「バンドを見ていたのではなく、空間の中に溶けていた」というものが残っている。これは誇張ではなく、彼らが意図した体験そのものだった。
 
-> Rock has changed from ""something to listen to" to ""something to immerse yourself in."
+> ロックは「聴くもの」から「没入するもの」へと変わった。
 
 ---
 
@@ -37,7 +36,7 @@ There is a testimony from an audience member at the time that says, ""They were 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -47,17 +46,17 @@ color: #fff;
 
 
 
-## Chapter 1: The origins and collapse of psychedelia
+## 第一章：サイケデリアの起点と崩壊
 
-### The nucleus of Syd Barrett
+### シド・バレットという核
 
-Early on, Syd Barrett was the creative center of the band. The songs he wrote were fairytale-like yet full of unease, and were strongly connected to the psychedelic culture of the time.
+初期のSyd Barrettは、バンドの創造性の中心だった。彼の書く楽曲は童話的でありながら不穏さを孕み、当時のサイケデリック文化と強く結びついていた。
 
-Their 1967 debut album, The Piper at the Gates of Dawn, epitomized this. The recording coincided with The Beatles making Sgt. Pepper's Lonely Hearts Club Band in the same studio. It is said that they sometimes passed each other in the hallway of the studio, but their musical direction was very different.
+1967年のデビューアルバム『The Piper at the Gates of Dawn』は、その象徴だ。録音は同じスタジオでThe Beatlesが『Sgt. Pepper's Lonely Hearts Club Band』を制作していた時期と重なっている。スタジオの廊下ですれ違うこともあったとされるが、両者の音楽的方向性は大きく異なっていた。
 
-Barrett has many anecdotes left behind. There is a well-known story about him never changing the chords on his guitar during a live performance, just playing one note over and over again. There is also an episode in which she applied brilliant cream to her hair and stood on stage, causing it to melt from the heat of the lights and cover her face.
+バレットには数多くの逸話が残されている。ライブ中にギターのコードを一切変えず、ただ一つの音を延々と鳴らし続けたという話は有名だ。また、髪にブリリアントクリームを塗り、そのままステージに立った結果、照明の熱で溶けて顔を覆ったというエピソードも語られている。
 
-In 1968, he left the band. But then again, during the production of 1975's Wish You Were Here, he suddenly showed up at the studio and no one recognized him. This visit had a deep impact on the band, as symbolized by the song "Shine On You Crazy Diamond."
+1968年、彼はバンドを離脱。だがその後も、1975年の『Wish You Were Here』制作中に突如スタジオに現れ、誰も彼だと気づかなかったという出来事がある。この訪問は、楽曲「Shine On You Crazy Diamond」に象徴されるように、バンドに深い影響を与えた。
 
 <div class="mermaid">
 timeline
@@ -67,94 +66,94 @@ timeline
     1968 : シド・バレット脱退
 </div>
 
-> The explosion of creation was also the beginning of collapse.
+> 創造の爆発は、同時に崩壊の始まりでもあった。
 
 ---
 
 
-## Chapter 2: Rock as acoustic construction
+## 第二章：音響構築としてのロック
 
-### Collective redefinition
+### 集団による再定義
 
-Following Barrett's departure, Roger Waters, Richard Wright, Nick Mason and David Gilmour will be looking for new directions.
+バレット離脱後、Roger Waters、Richard Wright、Nick Mason、そしてDavid Gilmourの4人は、新たな方向性を模索する。
 
-What they chose was ""constructed music.'' Recording studios began to play a role equal to, or even greater than, musical instruments. Reverse tape rotation, looping, and field recording. Everything became sound material.
+彼らが選んだのは「構築された音楽」だった。録音スタジオは楽器と同等、あるいはそれ以上の役割を持ち始める。テープの逆回転、ループ、フィールドレコーディング。すべてが音素材となった。
 
-""Echoes" from ""Meddle" features a mysterious, ping-like sound, which was originally discovered by chance when a microphone was placed close to a piano. This attitude of incorporating chance into structure also applies to later electronic music.
+『Meddle』収録の「Echoes」では、ピン音のような不思議なサウンドが特徴的だが、これはピアノにマイクを近づけて偶然発見された音を元にしている。偶然を構造に取り込むという姿勢は、後の電子音楽にも通じる。
 
-They also experimented with ""quadraphonic sound,'' which moves the sound by placing speakers on all sides at live performances. The experience of sound coming from behind the audience was extremely innovative at the time.
+また、彼らはライブで四方にスピーカーを配置し、音を移動させる「クアドラフォニック・サウンド」を実験的に導入した。観客の背後から音が回り込む体験は、当時としては極めて革新的だった。
 
 <div class="mermaid">
 graph TD
-    A[sound material] --> B[Recording/processing]
-    B --> C[edit]
-    C --> D[composition]
-    D --> E[The story of the whole album]
+    A[音素材] --> B[録音・加工]
+    B --> C[編集]
+    C --> D[構成]
+    D --> E[アルバム全体の物語]
 </div>
 
-> Sound has changed from being played to being designed.
+> 音は演奏されるものから設計されるものへと変わった。
 
 ---
 
 
-## Chapter 3: Complete concept album
+## 第三章：コンセプト・アルバムの完成形
 
-### "The Dark Side of the Moon"
+### 『The Dark Side of the Moon』
 
-In 1973, The Dark Side of the Moon became a turning point in rock history. This work unifies themes such as time, madness, death, and capitalism, and the entire album functions as a single ideology.
+1973年、『The Dark Side of the Moon』はロック史の転換点となる。この作品は時間、狂気、死、資本主義といったテーマを統一的に扱い、アルバム全体が一つの思想として機能する。
 
-In the recording, the drums were modified to reproduce the sound of a heartbeat, and everyday sounds such as the sound of a cash register and a clock were incorporated into the rhythm. The clock sound at the beginning is a simultaneous recording of many clocks in the studio.
+レコーディングでは心拍音を再現するためにドラムを加工し、レジの音や時計の音など日常の音がリズムとして組み込まれた。冒頭の時計の音は、スタジオにあった多数の時計を同時に録音したものだ。
 
-It is also unique in that it includes audio interviews with ordinary people. The answers to questions such as ""What is madness?" and ""What do you think about death?" become part of the song.
+また、一般人へのインタビュー音声が挿入されている点も特徴的である。「狂気とは何か」「死についてどう思うか」といった質問に対する答えが、そのまま楽曲の一部となっている。
 
-This album's jacket design was by Hipgnosis, and the image of a prism symbolizes the decomposition and reconstruction of sound.
+このアルバムのジャケットデザインはHipgnosisによるもので、プリズムのイメージは音の分解と再構築を象徴している。
 
 <div class="mermaid">
 graph LR
-    A[time] --> E[album]
-    B[madness] --> E
-    C[death] --> E
-    D[capitalism] --> E
+    A[時間] --> E[アルバム]
+    B[狂気] --> E
+    C[死] --> E
+    D[資本主義] --> E
 </div>
 
-> An album is not just a collection of songs, it has become an idea itself.
+> アルバムは単なる曲の集合ではなく、思想そのものとなった。
 
 ---
 
 
-## Chapter 4: Growing story and production
+## 第四章：巨大化する物語と演出
 
-### "The Wall" and the parable of division
+### 『The Wall』と分断の寓話
 
-1979's The Wall is based on Roger Waters' personal experiences and explores themes of isolation and oppression.
+1979年の『The Wall』は、Roger Watersの個人的体験を基にした作品であり、孤立や抑圧をテーマにしている。
 
-During the live performance, a huge wall is actually built on the stage and is completed as the performance progresses. And at the end, that wall collapses. This production left a strong impression on the audience.
+ライブでは実際にステージ上に巨大な壁が築かれ、演奏の進行とともに完成していく。そして終盤でその壁が崩壊する。この演出は観客に強烈な印象を残した。
 
-Even more symbolic is the incident during the "In the Flesh" tour. The incident in which Waters spat at an audience member was a shock even to him, and is said to have been the starting point for the idea for The Wall.
+さらに象徴的なのは「In the Flesh」ツアーでの事件である。ウォーターズが観客に唾を吐いた出来事は、彼自身にとっても衝撃であり、それが『The Wall』の構想の出発点となったとされている。
 
-The film version was directed by Alan Parker and featured a combination of animation and live action. At the time, there were almost no examples of musical works being visually expanded to this extent.
+映画版ではAlan Parkerが監督を務め、アニメーションと実写が融合した表現が採用された。音楽作品がここまで視覚的に拡張された例は当時ほとんど存在しなかった。
 
 <div class="mermaid">
 graph TD
-    A[music] --> D[comprehensive art]
-    B[picture] --> D
-    C[stage production] --> D
+    A[音楽] --> D[総合芸術]
+    B[映像] --> D
+    C[舞台演出] --> D
 </div>
 
-> Stories transcend sound and begin to dominate space itself.
+> 物語は音を越え、空間そのものを支配し始めた。
 
 ---
 
 
-## Chapter 5: Internal Conflict and Reorganization
+## 第五章：内部対立と再編
 
-### Waters' departure
+### ウォーターズの離脱
 
-As the 1980s progressed, tensions within the band increased, and Waters left the band in 1985. Although he declared the end of the band, David Gilmour and others decided to continue their activities.
+1980年代に入ると、バンド内の緊張は高まり、1985年にウォーターズが脱退する。彼はバンドの終焉を宣言したが、David Gilmourらは活動を継続する決断を下す。
 
-Legal disputes also arose during this period, and conflicts continued over the use of the band"s name. As a result, Gilmore"s side will keep the name "Pink Floyd".
+この時期には法的な争いも発生し、バンド名の使用を巡って対立が続いた。結果としてギルモア側が「Pink Floyd」の名称を維持することになる。
 
-1987's ""A Momentary Lapse of Reason'' is known for its heavy use of studio musicians, but the live performance once again brought back the spectacular production, using giant screens and laser beams.
+1987年の『A Momentary Lapse of Reason』は、スタジオミュージシャンを多用した作品として知られるが、ライブでは再び壮大な演出が復活し、巨大スクリーンやレーザー光線が使用された。
 
 <div class="mermaid">
 timeline
@@ -164,39 +163,39 @@ timeline
     1987 : 活動継続
 </div>
 
-> The band split from one ideology to multiple interpretations.
+> バンドは一つの思想から複数の解釈へと分裂した。
 
 ---
 
 
-## Chapter 6: Pink Floyd as a legacy
+## 第六章：遺産としてのPink Floyd
 
-### Modern impact
+### 現代への影響
 
-Pink Floyd's influence is immeasurable. In the ambient realm, he resonated with the ideas of Brian Eno and contributed to the development of spatial music.
+Pink Floydの影響は計り知れない。アンビエントの領域ではBrian Enoの思想と共鳴し、空間的音楽の発展に寄与した。
 
-Furthermore, many of today's live productions—giant LED screens, stereophonic sound, and immersive installations—are an extension of their efforts.
+また、現代のライブ演出——巨大LEDスクリーン、立体音響、没入型インスタレーション——の多くは、彼らの試みの延長線上にある。
 
-In 1990, Waters' re-enactment of ""The Wall'' at the site of the Berlin Wall became a symbolic cultural event marking the end of the Cold War.
+1990年、ベルリンの壁跡地でウォーターズが『The Wall』を再演したイベントは、冷戦終結の象徴的な文化的出来事となった。
 
-Furthermore, the moment when the main members reunited at Live 8 in 2005 is remembered as an event that will go down in music history.
+さらに2005年のLive 8で、主要メンバーが再集結した瞬間は、音楽史に残る出来事として記憶されている。
 
 <div class="mermaid">
 graph LR
-    A[Pink Floyd] --> B[Progressive rock]
-    A --> C[ambient]
-    A --> D[Live performance]
-    A --> E[concept album]
+    A[Pink Floyd] --> B[プログレ]
+    A --> C[アンビエント]
+    A --> D[ライブ演出]
+    A --> E[コンセプトアルバム]
 </div>
 
-> Their music never ends and continues to live on as a methodology.
+> 彼らの音楽は終わらず、方法論として生き続けている。
 
 ---
 
 
 ## Chronology
 
-### Key events of Pink Floyd
+### Pink Floydの主要出来事
 
 <div class="mermaid">
 timeline
@@ -212,7 +211,16 @@ timeline
     2014 : The Endless River
 </div>
 
-> It is a trajectory that continues to update the definition of music with each era.
+> 時代ごとに音楽の定義を更新し続けた軌跡である。
 
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/InJ9BUEcIAc?si=5hmw6qdcw-E01EgT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

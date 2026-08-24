@@ -10,27 +10,27 @@ tags:
 - Ambient
 - Environmental Music
 - 80s
-title: '[Column] Japanese Ambient / Environmental Music'
+title: 【コラム】 Japanese Ambient / Environmental Music
 ---
 
 
-## **Introduction: Until silence covers the world**
+## **イントロダクション：静けさが世界を覆うまで**
 
-Text: mmr｜Theme: The core of Japanese environmental music from the 1980s and its historical reappraisal
+文：mmr｜テーマ：80年代和モノ環境音楽の核心とその歴史的再評価について
 
 
-In the late 2010s, "Japanese Ambient" and "Japanese Environmental Music" began to attract a lot of attention among music listeners around the world. There are multiple reasons. These are reissues by Western labels, YouTube"s automatic recommendations, Spotify"s algorithm, and a reappraisal of electronic music/new age.
+2010年代後半、世界の音楽リスナーの間で「Japanese Ambient」「Japanese Environmental Music」が大きな注目を集め始めた。きっかけは複数ある。欧米レーベルによる再発、YouTubeの自動レコメンド、Spotifyのアルゴリズム、そしてエレクトロニック・ミュージック／ニューエイジ再評価の流れである。  
 However, there are important points that cannot be explained by these factors alone.
 
-This is the fact that Japan's ""environmental music'' in the 1980s was born from a different cultural soil than ambient music around the world.
-While Western ambient music (beginning with Brian Eno) aimed at ""sounds that melt into the background without stealing attention," Japanese environmental music was closely connected to ""urban planning, architecture, commercial spaces, product design, art, consumer electronics culture, and philosophy of life."
+それは**1980年代の日本の「環境音楽」は、世界のアンビエントとは異なる文化的土壌から生まれたという事実**である。  
+西洋的アンビエント（ブライアン・イーノ以降）が“注意を奪わず背景に溶ける音”を志向したのに対し、日本の環境音楽は **都市計画、建築、商業空間、プロダクトデザイン、美術、家電文化、生活哲学** などと密接に結びついていた。
 
-The following composers were at the center of this.
+その中心にいたのが以下の作曲家たちである。
 
-- **Hiroshi Yoshimura**
-- **Midori Takada**
+- **吉村弘（Hiroshi Yoshimura）**
+- **高田みどり（Midori Takada）**
 - **Takashi Kokubo**
-- **Inoyamaland**
+- **イノヤマランド（Inoyamaland）**
 
 
 ---
@@ -40,7 +40,7 @@ The following composers were at the center of this.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -49,172 +49,172 @@ color: #fff;
 </style>
 
 
-# **Chapter 1: Formation of the concept of "environmental music" in Japan**
+# **第1章：日本における「環境音楽」という概念の形成**
 
-## ● 1-1. 1970s: Experimental ground for electronic music and contemporary music
+## ● 1-1. 1970年代：電子音楽・現代音楽の実験土壌
 
-The emergence of Japanese ambient music paralleled the development of electronic music studios in the 1970s. Many universities and research institutes were researching electronic acoustics, tape music, and musique concrète, and at the same time, ""sound installations'' increased in the field of contemporary art.
+日本のアンビエント／環境音楽の萌芽は、1970年代の電子音楽スタジオの発展と並行している。多くの大学・研究所では、電子音響、テープ音楽、ミュージック・コンクレートが研究され、同時期に現代美術の領域でも「音のインスタレーション」が増加した。
 
-While studying spatial art at an art university, Hiroshi Yoshimura began producing works that linked the environment and sound from an early stage, and was also involved in acoustic planning for public spaces.
+吉村弘は、美術大学で空間芸術を学びながら、環境と音を結びつけた作品を早期から制作し、公共空間での音響企画にも携わった。
 
-Japanese ambient music is characterized by being formed at the intersection of these **arts, sound engineering, and urban planning**.
-
----
-
-## ● 1-2. "Environmental Music Series" by MUJI
-
-In the early 1980s, MUJI aimed at ""music for consumers" and planned a series of ""environmental music" for store spaces.
-Haruomi Hosono and others participated in this series, which triggered a major change in the role of sound in commercial spaces.
-
-The feature was that it not only functioned as store background music, but also sought to be of high quality as a work.
+日本のアンビエントは、こうした **美術・音響工学・都市計画** が交差する領域で形成されたことが特徴である。
 
 ---
 
-## ● 1-3. Urbanization and the aesthetics of "tranquility"
+## ● 1-2. 無印良品による「環境音楽シリーズ」
 
-In the 1980s, Japan experienced rapid economic growth and urbanization, but in the fields of architecture and design, ""quietness," ""white space," and ""simplicity'' were talked about as virtues.
+1980年代初頭、無印良品は「生活者のための音楽」を志向し、店舗空間向けの「環境音楽」シリーズを企画した。  
+このシリーズには細野晴臣らが参加し、商業空間における“音の役割”が大きく変化するきっかけとなった。
+
+単に店舗BGMとして機能するだけでなく、作品としての質の高さも追求された点が特徴であった。
+
+---
+
+## ● 1-3. 都市化と「静けさ」の美学
+
+1980年代の日本は高度経済成長を経て都市化が進む一方、建築やデザインの分野では“静けさ”“余白”“簡素”が美徳として語られた。
 
 - white wall
-- Minimal design using wood
-- "Beauty of simplicity" symbolized by MUJI
-- Zen space design
+- 木材を用いたミニマルデザイン
+- 無印良品に象徴される「簡素の美」
+- 禅的空間デザイン
 
-These environmental philosophies were linked to music and formed the basis for Japan's unique "environmental music."
-
----
-
-# **Chapter 2: Trajectories of major artists**
-
-From here, we will systematically organize each artist's career, representative works, musical characteristics, and production philosophy.
+これらの環境思想は音楽とも連動し、日本独自の「環境音楽」の土壌を形作った。
 
 ---
 
-# **2-1. Hiroshi Yoshimura - Composer who created the foundation of Japanese environmental music**
+# **第2章：主要アーティストの軌跡**
+
+ここからは、各アーティストの経歴、代表作、音楽的特徴、制作哲学を体系的に整理する。
+
+---
+
+# **2-1. 吉村弘 ― 日本環境音楽の基盤を作った作曲家**
 
 Hiroshi Yoshimura (1940–2003) is the most important composer when talking about Japanese environmental music.
 
-## ● Representative works
-- **《Music For Nine Post Cards》(1982)**
-It was created with the exhibition space of an art museum in mind. Transparent piano/synth phrase.
-- **《Green》(1986)**
-One of the most highly rated works. A fusion of natural sounds and soft electronic sounds.
-- **《Soundscape》 series (1986~)**
-"Music as landscape" using field recordings.
+## ● 代表作
+- **《Music For Nine Post Cards》（1982）**  
+  美術館の展示空間を想定して制作された。透明なピアノ/シンセのフレーズ。
+- **《Green》（1986）**  
+  最も高評価を受ける作品のひとつ。自然音と柔らかな電子音の融合。
+- **《Soundscape》シリーズ（1986〜）**  
+  フィールドレコーディングを用いた“風景としての音楽”。
 
-## ● Musical features
-- Low-key and non-repetitive
-- The "space" between sounds is established as an aesthetic
-- Emphasis on natural sounds and spatial resonance
+## ● 音楽的特徴
+- 控えめで繰り返しが少ない
+- 音と音の間の“空白”が美学として成立
+- 自然音・空間響きを重要視
 
 ## ● Production philosophy
-Yoshimura describes music as ""light that illuminates space''**,
-We pursued "sound that changes the nature of the space, not just for appreciation."
+吉村は音楽を **「空間を照らす光」** と表現し、  
+“鑑賞のためではなく空間の性質を変える音” を追求した。
 
 ---
 
-# **2-2. Midori Takada - Music of time and space depicted by percussion instruments**
+# **2-2. 高田みどり ― 打楽器が描く時間と空間の音楽**
 
-Midori Takada (1951–) has gained worldwide acclaim as a Japanese percussionist and composer.
+高田みどり（1951–）は、日本の打楽器奏者／作曲家として世界的評価を得ている。
 
-## ● Representative works
-- **《Through the Looking Glass》(1983)**
-A masterpiece that uses percussion instruments, marimba, voice, and ethnic instruments.
-- **《Lunar Cruise》(1989 / co-written with Ryo Kamomiya)**
+## ● 代表作
+- **《Through the Looking Glass》（1983）**  
+  打楽器・マリンバ・声・民族楽器を用いた代表作。
+- **《Lunar Cruise》（1989 / 鴨宮諒との共作）**
 
-## ● Musical features
-- Minimal structure
-- Spatial handling of percussion instrument reverberations
-- Applying the structure of gamelan African music
+## ● 音楽的特徴
+- ミニマル構造
+- 打楽器の反響音を空間的に扱う
+- ガムラン・アフリカ音楽の構造を応用
 
-## ● Production philosophy
-She treats percussion instruments not as symbols of "time" but as ""devices that make space sound"**, creating music that depicts a spiritual ""journey" through acoustic reverberations and overtones.
+## ● 制作理念
+彼女は打楽器を“時間”の象徴ではなく **“空間を鳴らす装置”** として扱い、音響の残響や倍音によって精神的な“旅”を描く音楽を構築した。
 
 ---
 
 # **2-3. Takashi Kokubo - Explorer of comfort and living acoustics**
 
-Takashi Kokubo (1956-), after a career in sound effects production and broadcast audio, has released numerous works with the theme of "comfortable acoustics" since the 1980s.
+小久保隆（1956–）は、効果音制作・放送音響のキャリアを経て、1980年代以降“快適音響”をテーマにした作品を多数発表した。
 
-## ● Representative works
-- **《Ion Series》(1980s~)**
-An environmental music series produced as a CD that comes with air purifiers.
-- **《A Dream Sails Out To Sea》(1987)**
-After recurrence, the patient was reevaluated overseas.
+## ● 代表作
+- **《Ion Series》（1980年代〜）**  
+  空気清浄機付属CDとして制作された環境音楽シリーズ。
+- **《A Dream Sails Out To Sea》（1987）**  
+  再発後、海外で再評価された。
 
-## ● Musical features
-- Fusion of natural and electronic sounds
+## ● 音楽的特徴
+- 自然音と電子音の融合
 - Empirical approach to relaxation acoustics
-- "Functional ambient" created by collaboration with household appliances
+- 生活家電との連携による“機能的アンビエント”
 
 ---
 
-# **2-4. Inoyama Land - Pastoral and landscape description of electronic sounds**
+# **2-4. イノヤマランド ― 電子音の牧歌性と風景描写**
 
-The duo ""Inoyamaland'' consisting of Yasushi Yamashita and Makoto Inoue has a unique style that straddles the line between techno pop and environmental music.
+山下康と井上誠によるデュオ「イノヤマランド」は、テクノポップと環境音楽の中間を行き来する独自の作風を持つ。
 
 ## ● Representative works
-- **《Danzindan-Pojidon》(1983)**
-An electronic yet idyllic masterpiece.
-- **《INOYAMA LAND》(1997)**
+- **《Danzindan-Pojidon》（1983）**  
+  電子的でありながら牧歌的な名盤。
+- **《INOYAMA LAND》（1997）**
 
-## ● Musical features
-- Soft electronic sounds
-- Sound themed around "children"s worldview"
-- Emphasis on the gentle texture of the synthesizer
+## ● 音楽的特徴
+- 柔らかい電子音
+- “子どもの世界観”をテーマにした音響
+- シンセサイザーの優しい質感を重視
 
 ---
 
-# **Chapter 3: The technological foundation that supported Japanese environmental music**
+# **第3章：日本の環境音楽を支えた技術基盤**
 
-## ● 3-1. Synthesizer culture
-In the 1980s, Japanese electronic musical instrument manufacturers dominated the world market and had a great influence on ambient music.
+## ● 3-1. シンセサイザー文化
+1980年代の日本の電子楽器メーカーは世界市場を席巻し、環境音楽にも多大な影響を与えた。
 
-Equipment that was often used (within the range that can be confirmed as fact)
-- Yamaha DX7
-- Roland Juno series
-- Roland RE-201 (tape echo)
-- Korg analog model
-- Field recorder (cassette/reel-to-reel)
+使用されることが多かった機材（事実として確認可能な範囲）  
+- Yamaha DX7  
+- Roland Junoシリーズ  
+- Roland RE-201（テープエコー）  
+- Korgのアナログ機種  
+- フィールドレコーダー（カセット/オープンリール）
 
 ## ● 3-2. Home recording and home studio culture
 Home recording equipment became widespread in Japan from an early stage, and many composers conducted experimental sound production at home.
 This was a major feature compared to Europe and America, and became the background for the deepening of environmental music on an individual level.
 
-## ● 3-3. Cooperation with acoustic design and architecture
-Hiroshi Yoshimura and Inoyama Land also participated in the acoustic design of architectural spaces, public facilities, corporate showrooms, etc., and emphasis was placed on the functionality of music and its influence on space.
+## ● 3-3. 音響設計・建築との連携
+吉村弘やイノヤマランドは建築空間、公共施設、企業ショールームなどの音響設計にも参加しており、音楽の機能性と空間への影響力が重要視された。
 
 ---
 
-# **Chapter 4: Connection between commercial space/urban culture and environmental music**
+# **第4章：商業空間・都市文化と環境音楽の接続**
 
-## ● 4-1. MUJI, PARCO, department store BGM
+## ● 4-1. 無印良品、PARCO、百貨店BGM
 
 Commercial facilities in Tokyo in the 1980s focused on music design,
-"Acoustics that improve the quality of life"
-was raised as a theme.
+“生活の質を上げる音響”  
+がテーマとして掲げられた。
 
-In this context, environmental music went beyond mere background music and became an element that shaped the impression of the space.
+環境音楽はその文脈で、単なるBGMを超え、空間の印象を形作る要素となった。
 
 ## ● 4-2. Connection with "comfort functions" of home appliances
 
-Takashi Kokubo's music that comes with air purifiers is a symbol of this.
-Home appliances x environmental acoustics
-He established a uniquely Japanese idea.
+小久保隆の空気清浄機付属音楽は、その象徴であり、  
+家電 × 環境音響  
+という日本独自の発想を確立した。
 
-This is an extremely unique cultural phenomenon worldwide.
+これは世界的に見ても極めてユニークな文化現象である。
 
 ---
 
 # **Chapter 5: Modern Reassessment and Implications**
 
-## ● 5-1. Relapse rush in the 2010s
+## ● 5-1. 2010年代の再発ラッシュ
 
-A series of reissues by European and American labels,
-- Hiroshi Yoshimura
-- Midori Takada
-- Takashi Kokubo
-- Inoyama Land
-His works are now available in record shops around the world.
+欧米レーベルによる再発が相次ぎ、  
+- 吉村弘  
+- 高田みどり  
+- 小久保隆  
+- イノヤマランド  
+の作品が世界中のレコードショップに並ぶようになった。
 
 ## ● 5-2. Dissemination on video sites
 
@@ -223,42 +223,42 @@ This created a global listener base.
 
 ## ● 5-3. Influence on modern ambient music
 
-Many ambient composers of the 2020s cite Japan's 1980s environmental music as an influence.
+2020年代のアンビエント作曲家の多くが、日本の1980年代環境音楽を影響源として挙げている。
 
-The reason is
-**Unique acoustic aesthetics that harmonizes melody and silence**
-This is because it is extremely modern.
+その理由は、  
+**旋律と静寂を調和させる独特の音響美学**  
+が極めて現代的だからである。
 
 ---
 
-# **Chapter 6: 1970–2020s Timeline**
+# **第6章：1970–2020 年代 年表**
 
-| Year | Events |
+| 年 | 出来事 |
 |----|--------|
-| 1970s | Development of electronic music and sound art |
-| 1975 | Hiroshi Yoshimura becomes involved in environmental music planning |
+| 1970s | 電子音楽・音響美術が発展 |
+| 1975 | 吉村弘が環境音楽企画に関わる |
 | 1980 | MUJI begins preparations for environmental music series |
-| 1982 | Hiroshi Yoshimura《Music For Nine Post Cards》 |
-| 1983 | Midori Takada《Through the Looking Glass》, Inoyama Land《Danzindan-Pojidon》 |
-| 1986 | Hiroshi Yoshimura《Green》 |
-| 1987 | Takashi Kokubo《A Dream Sails Out To Sea》 |
-| 1990s | Distribution of some works stopped / On the eve of re-evaluation |
-| 2010s | Recurrence in Europe and America, global reevaluation |
-| 2020s | Exhibitions and reprints continue and it becomes an international genre |
+| 1982 | 吉村弘《Music For Nine Post Cards》 |
+| 1983 | 高田みどり《Through the Looking Glass》、イノヤマランド《Danzindan-Pojidon》 |
+| 1986 | 吉村弘《Green》 |
+| 1987 | 小久保隆《A Dream Sails Out To Sea》 |
+| 1990s | 一部作品が流通停止 / 再評価前夜 |
+| 2010s | 欧米で再発、世界的再評価 |
+| 2020s | 展覧会・復刻が続き国際的ジャンル化 |
 
 ---
 
-# **Chapter 7: Relationship diagram between major artists and context**
+# **第7章：主要アーティストと文脈の関係図**
 
 <div class="mermaid">
 graph LR
-    MUJI[MUJI<br>Environmental music project] --> YH[Hiroshi Yoshimura]
-    YH --> JP[Establishment of 80s environmental music]
-    MT[Midori Takada] --> JP
-    TK[Takashi Kokubo] --> JP
-    INO[Inoyama Land] --> JP
-    JP --> RE[2010s re-evaluation]
-    RE --> WW[global ambient boom]
+    MUJI[MUJI<br>Environmental music project] --> YH[吉村弘]
+    YH --> JP[80年代環境音楽の確立]
+    MT[高田みどり] --> JP
+    TK[小久保隆] --> JP
+    INO[イノヤマランド] --> JP
+    JP --> RE[2010s再評価]
+    RE --> WW[世界的アンビエントブーム]
 </div>
 
 
@@ -266,29 +266,29 @@ graph LR
 
 # **Chapter 8: Summary - Why Japanese environmental music captivates the world**
 
-Japanese environmental music is not just "healing" or "background sound."
+日本の環境音楽は、単なる“癒やし”や“背景音”ではなく、  
 **Sound art created by urban culture, design, and philosophy of life**
-It is.
+である。
 
-- Intermediate area between art and music
-- Response to urbanization
-- Lifestyle culture and home appliance technology
-- Synthesizer innovation
-- Collaboration with spatial design
+- 美術と音楽の中間領域  
+- 都市化への応答  
+- 生活文化と家電テクノロジー  
+- シンセサイザーの革新  
+- 空間デザインとの連携  
 
-All of these were present in Japan in the 1980s.
+そのすべてが80年代の日本に揃っていた。
 
-The world has reevaluated the
-**Not only the beauty of the music itself, but also the unique Japanese philosophy contained within it**
-It is.
+世界が再評価したのは、  
+**音楽そのものの美しさだけでなく、そこに宿された日本独自の思想**  
+である。
 
-Ambient music continues to have new meanings around the world, and the works from the 1980s that gave rise to it will continue to remain an important foundation of music history.
+環境音楽は今も世界で新たな意味を持ち続けており、その源流となった1980年代の作品群は、今後も音楽史の重要な基盤として残り続けるだろう。
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8Z4XyLPQjg?si=igwmBBwGVcWQU-sb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

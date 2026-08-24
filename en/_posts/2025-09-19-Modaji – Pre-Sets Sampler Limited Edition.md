@@ -13,11 +13,11 @@ title: Modaji – Pre-Sets Sampler Limited Edition
 ---
 
 
-Dominic Hugo Jacobson, also known as Modaji, is a British electronic DJ/producer/remixer.
+ModajiことDominic Hugo Jacobsonは、イギリスのエレクトロニックDJ／プロデューサー／リミキサー。
 
-Under the name Modaji, he is active in the breakbeat scene as a member of Phil Asher's Restless Soul crew, and under the name Harvey Lindo, he has released the jazzy HOUSE.
+Modaji 名義ではPhil AsherのRestless Soulのクルーとしてブレイクビーツシーンで活躍し、Harvey Lindo名義ではジャジーなHOUSEをリリースしている。
 
-"Pre-Sets Sampler Limited Edition" is a Downtempo/Future Jazz release from Ben Wilcox's label Laws Of Motion in 2002.
+「Pre-Sets Sampler Limited Edition」は、2002年にBen Wilcox主宰のレーベルLaws Of MotionからリリースされたDowntempo／Future Jazz。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ B1. Midnight Plains
 B2. Latin Protocol (Version)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m61116264244?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61116264244?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZY_gyLxKss?si=GduY4VfXKIWVVRsd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

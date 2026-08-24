@@ -14,7 +14,7 @@ title: '[Column] New trends in K-Pop x Indie Electronica'
 ---
 
 
-## Why did K-Pop change from a "giant industry" to a "testing ground"?
+## K-Popはなぜ “巨大産業”から“実験場”へ変わったのか
 
 Text: mmr｜Theme: Exploring the current status of new Asian pop music born from the intersection of K-Pop and indie electronica
 
@@ -35,12 +35,12 @@ From the late 2010s to the 2020s, K-Pop has become more than just idol music.
 
 Of course, it is still sophisticated entertainment produced by huge capital. But inside, surprisingly free musical experimentation is underway.
 
-Of particular importance is the connection with Indie Electronica.
+特に重要なのが、Indie Electronicaとの接続だ。
 
 In the past, K-Pop was described as a ""latest pop factory'' that rapidly absorbed EDM, hip-hop, and R&B. But in the current scene, more subtle, introspective sounds are starting to break into the mainstream.
 
 Ambient.
-Lo-fi.
+Lo-fi。
 Hyperpop.
 Dream Pop.
 Glitch.
@@ -49,7 +49,7 @@ A minimalist atmosphere after New Jeans.
 
 This is music that used to belong to the "indie realm."
 
-But now they are moving into the heart of K-Pop.
+だが現在、それらはK-Popの中心へ入り込みつつある。
 
 <div class="mermaid">
 graph TD
@@ -63,10 +63,10 @@ F --> G["Minimal K-Pop"]
 
 This change is not just a fad.
 
-Music consumption in the streaming era.
+ストリーミング時代の音楽消費。
 Fragmentation by TikTok.
 Popularization of headphone listening.
-And a feeling of fatigue from "too perfect pop."
+そして“完璧すぎるポップ”への疲労感。
 
 All of that started pushing K-Pop in a more vague and soft direction.
 
@@ -82,7 +82,7 @@ Today's K-Pop is becoming ""music that permeates the air.''
 
 The term Indie Electronica is very ambiguous.
 
-Rather than a strict genre name, it is more like a general term for "electronic music with an indie feel."
+厳密なジャンル名というより、「インディー感覚を持った電子音楽」の総称に近い。
 
 In the 2000s, it was formed at the intersection of electroclash, IDM, Dream Pop, and Folktronica.
 
@@ -97,7 +97,7 @@ F["Ambient"] --> D
 
 What is important is that they prioritized ""atmosphere" over ""popularity".
 
-Create emotion with detailed textures, rather than pumping up the atmosphere with loud music.
+大音量で盛り上げるのではなく、細部のテクスチャーで感情を作る。
 
 for example,
 
@@ -105,14 +105,14 @@ for example,
 - Reverb lingering sound
 - Whispering vocals
 - incomplete beat
-- Lo-fi texture
+- ローファイな質感
 
-These aesthetics were the complete opposite of traditional K-Pop.
+これらは従来のK-Popとは真逆の美学だった。
 
 However, in the streaming era, things change.
 
 Smartphone.
-earphones.
+イヤホン。
 Late night viewing.
 Short video.
 
@@ -126,11 +126,11 @@ A["CD era"] --> B["Loud volume and flashiness"]
 B --> C["Club-oriented"]
 
 D["Streaming era"] --> E["Close distance feeling"]
-E --> F["Atmosphere"]
+E --> F["空気感"]
 F --> G["Indie Electronica feel"]
 </div>
 
-K-Pop absorbed this change extremely quickly.
+K-Popはこの変化を極めて素早く吸収した。
 
 This is also because the Korean music industry has prioritized ""update speed" over ""genre."
 
@@ -142,13 +142,13 @@ This is also because the Korean music industry has prioritized ""update speed" o
 
 The fusion of K-Pop and Indie Electronica didn't come out of nowhere.
 
-Behind this is the Korean indie scene that has developed since the 2000s.
+その背景には、2000年代以降に発展した韓国インディーシーンがある。
 
 Particularly important is the club culture around Hongdae.
 
 <div class="mermaid">
 graph TD
-A["Hongdae Club Culture"] --> B["Korean Indie"]
+A["弘大クラブ文化"] --> B["Korean Indie"]
 B --> C["Electronic music scene"]
 C --> D["DIY culture"]
 D --> E["Bedroom production"]
@@ -162,9 +162,9 @@ electronica,
 noise,
 ambient,
 art pop,
-Experimental music was intermingled at a very close distance.
+Experimental music was mixed in very close proximity.
 
-Even more important is the existence of the SoundCloud generation.
+さらに重要なのが、SoundCloud世代の存在だ。
 
 As DAW environments became cheaper, home production rapidly became popular.
 
@@ -172,9 +172,9 @@ As a result, young producers who were active outside of K-Pop began to flow into
 
 The traditional K-Pop production team is
 
-- large studio
-- Overseas composition team
-- Division of labor system
+- 大規模スタジオ
+- 海外作曲チーム
+- 分業型システム
 
 was centered on.
 
@@ -182,7 +182,7 @@ However, in the 2020s, creators with a Bedroom Producer-like sensibility will be
 
 <div class="mermaid">
 graph TD
-A["Traditional K-Pop"] --> B["Division of labor"]
+A["従来型K-Pop"] --> B["Division of labor"]
 B --> C["Large scale production"]
 
 D["New generation producer"] --> E["Home production"]
@@ -190,11 +190,11 @@ E --> F["SoundCloud Culture"]
 F --> G["Lo-fi texture"]
 </div>
 
-As a result, K-Pop has begun to rely not only on ""perfection" but also on ""a personal atmosphere."
+結果として、K-Popは“完成度”だけでなく、“個人的な空気感”を武器にし始めた。
 
-This is also in sync with changes in global pop music as a whole.
+これは世界のポップミュージック全体の変化とも同期している。
 
-> The accumulation of Korean indie scenes supports the delicate electronic sensibility of current K-Pop.
+> 韓国インディーシーンの蓄積が、現在のK-Popの繊細な電子感覚を支えている。
 
 ---
 
@@ -204,26 +204,26 @@ When talking about K-Pop x Indie Electronica, the appearance of New Jeans is ine
 
 They have greatly changed the structure of traditional K-Pop.
 
-Until then, K-Pop was
+それまでのK-Popは、
 
 - intense drop
 - Rapid development
 - complex configuration
 - Excessive amount of information
 
-It was characterized by
+を特徴としていた。
 
-But NewJeans went in the opposite direction.
+しかしNewJeansは逆方向へ進んだ。
 
 <div class="mermaid">
 graph TD
-A["Traditional K-Pop"] --> B["High density"]
+A["従来型K-Pop"] --> B["高密度"]
 B --> C["Focus on development"]
-C --> D["Strong impact"]
+C --> D["強いインパクト"]
 
-E["After New Jeans"] --> F["Minimal"]
+E["NewJeans以降"] --> F["Minimal"]
 F --> G["repetition"]
-G --> H["Atmosphere"]
+G --> H["空気感"]
 </div>
 
 In particular, it was important to incorporate the lightness of UK Garage and 1990s R&B.
@@ -274,13 +274,13 @@ A["PC Music"] --> B["Hyperpop"]
 B --> C["Pitch Shift Vocal"]
 B --> D["Overcompression"]
 B --> E["Glitch"]
-B --> F["High-speed information volume"]
+B --> F["高速情報量"]
 </div>
 
-The characteristics are
+特徴は、
 
 - Vocals that are too artificial
-- Extreme processing
+- 極端な加工
 - Noise editing
 - Genre collapse
 - Chaotic development
@@ -289,21 +289,21 @@ It was.
 
 At first glance, this seems to be at odds with sophisticated K-Pop.
 
-But in reality, they were a good match.
+しかし実際には相性が良かった。
 
-This is because K-Pop itself was originally a culture that affirmed "artificiality."
+なぜならK-Pop自体が、もともと“人工性”を肯定する文化だったからだ。
 
-Hyperpop doesn't hide its "unnaturalness".
+Hyperpopは「不自然」を隠さない。
 
 Rather exaggerate it.
 
 This feeling was strongly connected to the futuristic image of idol culture.
 
-Furthermore, in the TikTok era, the ""instantaneous feeling of something foreign'' has become a viral sensation.
+さらにTikTok時代では、“瞬間的な異物感”が拡散力を持った。
 
 <div class="mermaid">
 flowchart TD
-A["TikTok"] --> B["short stimulus"]
+A["TikTok"] --> B["短い刺激"]
 B --> C["Strong discomfort"]
 C --> D["Hyperpop spread"]
 D --> E["K-Pop absorption"]
@@ -313,13 +313,13 @@ However, K-Pop did not directly adopt Hyperpop.
 
 easier to listen to,
 smoother,
-It was converted to a more pop style.
+Converted to more pop.
 
 As a result, in current K-Pop,
 
 "A slightly broken electronic sensation"
 
-has become an important attraction.
+が重要な魅力になっている。
 
 > Hyperpop brought the "unnaturalness of the digital age" to K-Pop.
 
@@ -331,21 +331,21 @@ Lo-fi used to be a term that was born from poor recording environments.
 
 But now Lo-fi exists as an aesthetic.
 
-noise.
+ノイズ。
 Tape feel.
 Cloudy sound image.
-Imperfection.
+不完全さ。
 
 These became symbols of "realism."
 
 <div class="mermaid">
 graph TD
-A["Hi-Fi era"] --> B["Perfect sound"]
+A["Hi-Fi時代"] --> B["Perfect sound"]
 B --> C["Large studio"]
 
 D["Lo-fi aesthetic"] --> E["imperfection"]
 E --> F["Intimacy"]
-F --> G["Feeling of life"]
+F --> G["生活感"]
 </div>
 
 K-Pop has also begun to embrace this change.
@@ -356,7 +356,7 @@ This is a very big change.
 
 This is because K-Pop has long valued "perfection" itself.
 
-But in the streaming era, listeners are starting to tire of too-perfect music.
+しかしストリーミング時代になると、リスナーは完璧すぎる音楽に疲れ始める。
 
 the result,
 
@@ -364,11 +364,11 @@ the result,
 "A little vague"
 "It's a little close"
 
-Music was in high demand.
+Music was highly sought after.
 
 <div class="mermaid">
 flowchart LR
-A["Too perfect pop"] --> B["fatigue"]
+A["完璧すぎるポップ"] --> B["疲労"]
 B --> C["Lo-fi demand"]
 C --> D["Indie Electronica"]
 </div>
@@ -383,7 +383,7 @@ In other words, current K-Pop doesn't just aim for "high resolution."
 
 Rather, it has begun to create a sense of "incomplete memory."
 
-> Lo-fiization means that K-Pop has begun to choose "intimacy" over "perfection."
+> Lo-fi化とは、K-Popが“完璧さ”より“親密さ”を選び始めたことを意味する。
 
 ---
 
@@ -394,7 +394,7 @@ The thing that has changed the most in K-Pop x Indie Electronica may be the voca
 In the previous K-Pop,
 
 - powerful treble
-- Strong vocalization
+- 強い発声
 - dramatic singing
 
 was emphasized.
@@ -406,7 +406,7 @@ graph TD
 A["Conventional Vocal"] --> B["strong vocalization"]
 B --> C["dramatic expression"]
 
-D["Current trends"] --> E["whisper"]
+D["現在の傾向"] --> E["whisper"]
 E --> F["Close distance feeling"]
 F --> G["Fusion with air"]
 </div>
@@ -421,7 +421,7 @@ In particular, the closeness to ASMR culture is significant.
 
 In a headphone environment, a quiet voice feels closer.
 
-In other words, current K-Pop music is designed to be closer to earphones than to live venues.
+つまり現在のK-Popは、“ライブ会場”より“イヤホン距離”で設計されている部分がある。
 
 <div class="mermaid">
 flowchart TD
@@ -452,7 +452,7 @@ Rather, it is similar to "internetization".
 
 <div class="mermaid">
 graph TD
-A["Traditional overseas expansion"] --> B["Regional expansion"]
+A["Traditional overseas expansion"] --> B["地域展開"]
 
 C["the current"] --> D["Net culture"]
 D --> E["Meme"]
@@ -483,7 +483,7 @@ Hyperpop and Korean idols are consumed in the same context.
 
 <div class="mermaid">
 flowchart LR
-A["Algorithm recommendation"] --> B["Genre boundary collapse"]
+A["Algorithm recommendation"] --> B["ジャンル境界崩壊"]
 B --> C["K-Pop × Indie Electronica"]
 </div>
 
@@ -524,22 +524,22 @@ timeline
 
 ---
 
-## Where will K-Pop go from here?
+## K-Popはこれからどこへ向かうのか
 
 K-Pop is currently at a major crossroads.
 
 On the other hand, it continues to improve its status as a huge industry.
 
-However, on the other hand, there is an Indie Electronica-like ambiguity,
+しかしもう一方では、Indie Electronica的な曖昧さ、
 Silence,
-I continue to take in the blank spaces.
+余白を取り込み続けている。
 
 <div class="mermaid">
 graph TD
 A["Giant industrialization"] --> B["High precision pop"]
 
 C["Indie Electronica"] --> D["margin"]
-D --> E["Intimacy"]
+D --> E["親密感"]
 
 B --> F["Future K-Pop"]
 E --> F
@@ -548,7 +548,7 @@ E --> F
 This dual structure is the most distinctive feature of current K-Pop.
 
 It won't be completely indie.
-But it can't remain as a huge pop.
+However, it cannot remain as a huge pop.
 
 In the meantime, new music continues to be born.
 
@@ -565,6 +565,6 @@ It is smaller;
 more personal,
 But it's music that is connected to the world.
 
-> The trend of K-Pop x Indie Electronica symbolizes the "new intimacy" of the digital age.
+> K-Pop × Indie Electronicaの潮流は、デジタル時代の“新しい親密さ”を象徴している。
 
 ---

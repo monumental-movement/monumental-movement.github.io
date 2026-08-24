@@ -12,9 +12,9 @@ title: DJ Martyn Hare – Hare Of The Dog EP
 ---
 
 
-Martyn Hare is a techno DJ/producer who has been active since the early 2000s. He runs the UK-based techno label Emetic. In addition to his solo work, his projects include Hareball with Jamie Ball and The Risen with Ian Void.
+Martyn Hareは、2000年初頭から活動するテクノDJ／プロデューサー。UKを拠点とするTechnoレーベルEmeticを運営している。ソロ以外では、Jamie Ball とのプロジェクトHareball、Ian VoidとのプロジェクトThe Risenなどがある。
 
-"Hare Of The Dog EP" is a techno track released in 2003 by Potential, a UK techno label founded by Ben Long.
+「Hare Of The Dog EP」は、Ben Long が設立したUKのテクノレーベルPotentialから2003年にリリースされたTechnoトラック。
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ B1. Down
 B2. Vivisection
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m54998936686?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54998936686?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RoNCiXlAjlM?si=vCcIgNkkFXMsNiXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

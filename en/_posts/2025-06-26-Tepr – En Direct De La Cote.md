@@ -13,13 +13,13 @@ title: Tepr – En Direct De La Côte
 ---
 
 
-Tanguy Destable, also known as Tepr, is a French musician, composer, and artistic director.
+Tepr(テプル)ことTanguy Destable(タンギー・デスタブル)は、フランス出身のミュージシャン、作曲家、芸術監督。
 
-"En Direct De La Côte" is a House & Electro track released by the British label Wall Of Sound (WOS) in 2007.
+「En Direct De La Côte」は、2007年にイギリスのレーベルWall Of Sound(WOS)からリリースされたHouse & Electroトラック。
 
 A2 is a remix by Patrick Alavi, also known as Alavi, who heads the label Roxour and is a DJ and producer specializing in Funk & Electronics.
 
-The co-producer of B1 and B2 is Grand Marnier.
+B1、B2の共同プロデューサーはGrand Marnier。
 B2 is a remix by French producer datA, aka David Guillon.
 
 #### Tracklist
@@ -31,7 +31,7 @@ B1. Minuit Jacuzzi
 B2. Minuit Jacuzzi (DatA Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m17001697992?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17001697992?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh1XNjd_HN0?si=OPNrSM6gN0ZoTUNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

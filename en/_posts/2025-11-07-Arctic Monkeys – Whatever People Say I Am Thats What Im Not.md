@@ -10,13 +10,13 @@ tags:
 - Indie Rock
 - Rock
 - 00s
-title: Arctic Monkeys – Whatever People Say I Am, That"s What I"m Not
+title: Arctic Monkeys – Whatever People Say I Am, That's What I'm Not
 ---
 
 
-Arctic Monkeys is a rock band from Sheffield, England, formed in 2002. Arctic Monkeys are a representative of the "Blog Rock" era, which gained public attention through the Internet.
+Arctic Monkeys(アークティックモンキーズ)は、2002年に結成されたイングランド・シェフィールド出身のロックバンド。アークティック・モンキーズは、インターネットを通じて世間の注目を集めた「ブログ・ロック」時代の代表格。
 
-This album is the debut studio album released by the label Domino in 2006.
+このアルバムは2006年にレーベルDominoからリリースされたデビュースタジオアルバム。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ This album is the debut studio album released by the label Domino in 2006.
 13. A Certain Romance
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK7egZaT3hs?si=gqjos97Utn1Hjnin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

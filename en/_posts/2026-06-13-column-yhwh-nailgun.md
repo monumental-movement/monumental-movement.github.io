@@ -10,23 +10,22 @@ tags:
 - Experimental
 - NoiseRock
 - Alternative
-title: '[Column] YHWH Nailgun: The critical point of contemporary alternative, redefined
-  between noise and structure'
+title: 【コラム】 YHWH Nailgun：ノイズと構造のあいだで再定義される現代オルタナティヴの臨界点
 ---
 
 
-## Introduction: "Sounds that are difficult to name" outside of genres
+## はじめに：ジャンルの外側で鳴る“名づけにくい音”
 
-Text: mmr｜Theme: YHWH Nailgun's musical characteristics and background, scene context, and expression structure
+文：mmr｜テーマ：YHWH Nailgunの音楽的特徴と背景、シーン文脈、表現構造について
 
-YHWH Nailgun is often talked about as having a musicality that doesn't fit into conventional rock or noise classification systems.
-While maintaining the basic composition of guitar, drums, and vocals, the sound intentionally disrupts the stability of rhythm and tonality, presenting a fragmented structure.
+YHWH Nailgunは、従来のロックやノイズの分類体系に収まらない音楽性を持つ存在として語られることが多い。
+そのサウンドは、ギター・ドラム・ボーカルといった基本編成を保持しながらも、リズムや調性の安定性を意図的に崩し、断片化された構造を提示する。
 
-Their music is more like ""colliding moving bodies" than ""songs," and is characterized by a design that moves back and forth between repetition and collapse at high speed.
+彼らの音楽は「曲」というよりも「衝突する運動体」に近く、反復と崩壊の間を高速で往復するような設計が特徴的である。
 
-What's important to understanding this band is not their genre labels, but their approach to the sonic structure itself.
+このバンドを理解するうえで重要なのは、ジャンル的ラベルではなく、音響構造そのものへのアプローチである。
 
-> YHWH Nailgun is a musical practice that exists as a "state" rather than a classification.
+> YHWH Nailgunは、分類ではなく“状態”として存在する音楽実践である。
 
 
 <style type="text/css">
@@ -34,7 +33,7 @@ What's important to understanding this band is not their genre labels, but their
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,134 +45,134 @@ color: #fff;
 ---
 
 
-## Name and concept phase
+## 名称とコンセプトの位相
 
 ---
 
-The name "YHWH Nailgun" itself contains a strong contradiction.
-Words that evoke holiness and words that evoke violent mechanicality are connected in series, and this contrast directly overlaps with the core of musicality.
+「YHWH Nailgun」という名称は、その語感自体が強い矛盾性を孕んでいる。
+神聖性を想起させる語と、暴力的な機械性を想起させる語が直列に接続されており、この対比はそのまま音楽性の核とも重なる。
 
-This structure of the name is not just a novelty, but is consistent with the artist's attitude of recreating the tension created by the clash of meanings in the form of sound.
+このような名前の構造は、単なる奇抜さではなく、意味の衝突によって生まれる緊張感をそのまま音として再現する姿勢と一致している。
 
-The band's aesthetic has always been in the direction of ""rejecting the stabilization of meaning,'' and they tend to intentionally dismantle chord progressions and formulaic developments that reassure listeners.
+バンドの美学は一貫して「意味の安定化を拒否する」方向にあり、聴き手が安心できるコード進行や定型的な展開を意図的に解体する傾向がある。
 
 <div class="mermaid">
 flowchart TD
-A[stability of meaning] --> B[collapse]
-B --> C[fragmented structure]
-C --> D[Reconstructed noisy order]
+A[意味の安定] --> B[崩壊]
+B --> C[断片化された構造]
+C --> D[再構築されるノイズ的秩序]
 D --> B
 </div>
 
-This circular structure becomes an important frame in their understanding of music.
+この循環構造は、彼らの楽曲理解において重要なフレームとなる。
 
-> The name itself already functions as a metaphor for the acoustic structure.
-
----
-
-## Sound characteristics: noise as rewiring rather than destruction
+> 名称そのものがすでに音響構造のメタファーとして機能している。
 
 ---
 
-YHWH Nailgun"s sound isn"t just an extension of noise rock or hardcore, but a structurally controlled breakdown.
+## サウンドの特徴：破壊ではなく再配線としてのノイズ
 
-The guitars sometimes function as riffs, but they are often placed intermittently as rhythmic reference points and never reach full repetition.
-While the drums maintain a metrical stability, they refuse to have a fixed groove through intentional shifts and asymmetrical accents.
+---
 
-Vocals are often arranged as rhythmic fragments rather than melodies, and function more as sonic collisions than linguistic meanings.
+YHWH Nailgunのサウンドは、単なるノイズロックやハードコアの延長ではなく、構造的に制御された崩壊として捉えられる。
+
+ギターはリフとして機能することもあるが、その多くはリズムの参照点として断続的に配置され、完全な反復に至らない。
+ドラムはメトリックな安定性を維持しながらも、意図的なズレやアクセントの非対称性によって、グルーヴの固定化を拒否する。
+
+ボーカルはメロディよりもリズム的断片として配置されることが多く、言語的意味よりも音響的衝突として機能する。
 
 <div class="mermaid">
 flowchart TD
-G[guitar fragments] --> S[spatial distortion]
-D[drum pattern] --> S
-V[vocal fragment] --> S
-S --> R[Reconfigured rhythm space]
+G[ギター断片] --> S[空間の歪み]
+D[ドラムパターン] --> S
+V[ボーカル断片] --> S
+S --> R[再構成されたリズム空間]
 R --> G
 </div>
 
-This structure has a design concept that dismantles the conventional hierarchy of ""song = main melody + accompaniment'' and levelizes all elements.
+この構造は、従来の「楽曲＝主旋律＋伴奏」という階層を解体し、全要素を水平化する設計思想を持つ。
 
-> Sound functions as a rewired circuit rather than destruction.
-
----
-
-## Scene context: New York's experimental musical strata
+> サウンドは破壊ではなく、再配線された回路として機能している。
 
 ---
 
-To understand YHWH Nailgun, we cannot ignore the context of experimental music, noise, and post-hardcore music centered around New York.
-
-Historically, industrial, noise, art rock, and post-punk have intermingled in this region, and the boundaries between genres have remained vague for a long time.
-
-Although YHWH Nailgun is an extension of this, it is distinctive in that it swings in the direction of pushing the collapse of the structure to an even more extreme level.
-
-Furthermore, due to the intersection of DIY production environments and art space contexts, there is a strong tendency for live performances and recordings to be treated as ""phenomena'' rather than mere music reproduction.
-
-> This band can be understood as a musical version of the urban noise structure itself.
+## シーン文脈：ニューヨークの実験音楽的地層
 
 ---
 
-## Live expression: controlled chaos production
+YHWH Nailgunを理解するには、ニューヨークを中心とした実験音楽・ノイズ・ポストハードコア的な文脈を無視することはできない。
+
+この地域では、歴史的にインダストリアル、ノイズ、アートロック、ポストパンクが混交し、ジャンルの境界が曖昧な状態が長く続いている。
+
+YHWH Nailgunはその延長線上に位置しながらも、より極端に構造の崩壊を推し進める方向に振れている点が特徴的である。
+
+また、DIY的制作環境とアートスペース的文脈が交差することで、ライブや録音は単なる音楽再生ではなく「現象」として扱われる傾向が強い。
+
+> このバンドは都市のノイズ構造そのものを音楽化した存在として理解できる。
 
 ---
 
-YHWH Nailgun's live performance is not just a reproduction of a song, but a reconstruction of the temporal structure.
+## ライブ表現：制御されたカオスの演出
 
-The boundaries between songs are blurred, and fragments are connected to form an overall flow.
-Rather than following a fixed song order, the audience will experience a continuous change in energy state.
+---
 
-The volume dynamics are also extreme, and the design is designed to create physical tension by rapidly switching between silence and saturation.
+YHWH Nailgunのライブは、単なる楽曲再現ではなく、時間的構造の再構築として機能する。
+
+楽曲同士の境界は曖昧化され、断片が連結されながら全体としての流れを形成する。
+観客は固定された曲順ではなく、連続するエネルギー状態の変化を体験することになる。
+
+音量のダイナミクスも極端で、静寂と飽和状態が急激に切り替わることで、身体的な緊張を生み出す設計がなされている。
 
 <div class="mermaid">
 flowchart TD
-A[silence] --> B[fine noise]
-B --> C[high density sound]
-C --> D[collapse]
+A[静寂] --> B[微細ノイズ]
+B --> C[高密度サウンド]
+C --> D[崩壊]
 D --> A
 </div>
 
-This circulation is similar to the idea of ​​treating the entire live space as one gigantic vibrating body.
+この循環はライブ空間全体を一つの巨大な振動体として扱う思想に近い。
 
-> Live performance is not a performance, but a process of creating an acoustic state.
-
----
-
-## Discography overview and structural trends
+> ライブは演奏ではなく、音響状態の生成プロセスである。
 
 ---
 
-YHWH Nailgun's works tend to be a collection of fragmented motifs rather than a clear melody-centered album structure.
-
-Although each track is independent, it forms one continuous acoustic space as a whole.
-Therefore, it is important to understand each album, and it is difficult to grasp the overall picture by analyzing individual songs alone.
-
-Regarding the recording method, spatiality and distortion processing are important factors, and the texture of the mixture is prioritized over clean separation.
-
-> A work exists not as a collection of songs, but as a fragmentary record of a state.
+## ディスコグラフィ概観と構造的傾向
 
 ---
 
-## Influence and evaluation: a testing ground for postgenre thinking
+YHWH Nailgunの作品群は、明確なメロディ中心のアルバム構造よりも、断片的モチーフの集合体として成立する傾向がある。
+
+各トラックは独立性を持ちながらも、全体としては一つの連続した音響空間を形成する。
+そのためアルバム単位での理解が重要となり、個別楽曲の分析だけでは全体像を捉えにくい。
+
+録音手法についても、空間性や歪みの処理が重要な要素となっており、クリーンな分離よりも混ざり合いの質感が優先される。
+
+> 作品は曲の集合ではなく、状態の断片的記録として存在している。
 
 ---
 
-YHWH Nailgun is often evaluated from the perspective of sound art and experimental music, rather than the traditional framework of rock criticism.
-
-The focus is not on belonging to a specific genre, but on the very question of ""what can exist outside of a genre?''
-
-This approach resonates strongly with recent post-genre trends, reinforcing the perspective of music as a structure rather than a style.
-
-Furthermore, among younger listeners, it is often seen as a symbol of a listening experience that does not depend on existing genre classifications.
-
-> The object of evaluation is not the music itself, but the structure itself generated by the music.
+## 影響と評価：ポストジャンル的思考の実験場
 
 ---
 
-## Chronology and structural changes
+YHWH Nailgunの評価は、従来のロック批評の枠組みではなく、サウンドアートや実験音楽的視点から語られることが多い。
+
+特定のジャンルへの帰属ではなく、「ジャンルの外側で何が成立しうるか」という問いそのものが焦点となる。
+
+このアプローチは、近年のポストジャンル的潮流と強く共鳴しており、音楽をスタイルではなく構造として扱う視点を強化している。
+
+また、若いリスナー層においては、既存のジャンル区分に依存しない聴取体験の象徴として受け止められることも多い。
+
+> 評価の対象は音楽ではなく、音楽が生成する構造そのものである。
 
 ---
 
-YHWH Nailgun's activities can be seen as a continuous accumulation of sonic experiments rather than a specific breakthrough.
+## 年表と構造的変遷
+
+---
+
+YHWH Nailgunの活動は、特定のブレイクスルーというよりも、連続的な音響実験の蓄積として捉えられる。
 
 <div class="mermaid">
 timeline
@@ -184,24 +183,33 @@ title YHWH Nailgun 構造的変遷（概観）
 現在 : ポストジャンル的評価の定着
 </div>
 
-In this way, "changes in density" are more important indicators than clear turning points.
+このように、明確な転換点よりも「密度の変化」が重要な指標となる。
 
-> Chronology is not a record of events, but a trajectory of changes in density.
-
----
-
-## Summary: YHWH Nailgun as a "state" rather than music
+> 年表は出来事の記録ではなく、密度変化の軌跡である。
 
 ---
 
-YHWH Nailgun is an entity that presents the sonic state itself, rather than the completeness of each song or genre consistency.
+## まとめ：音楽ではなく“状態”としてのYHWH Nailgun
 
-The sound is always located between collapse and reconstruction, and continues to move without a stable center.
-Therefore, the listening experience stands up as a phenomenon of being involved, rather than understanding.
+---
 
-The essence of this band is not ""making music," but ""shaking the very conditions under which sound is created."
+YHWH Nailgunは、楽曲単位の完成度やジャンル的整合性ではなく、音響状態そのものを提示する存在である。
 
-> YHWH Nailgun continues to draw on the outside of music using the framework of music.
+そのサウンドは常に崩壊と再構築の間に位置し、安定した中心を持たないまま動き続ける。
+そのため聴取体験は理解ではなく、巻き込まれる現象として立ち上がる。
 
+このバンドの本質は「音楽を作ること」ではなく、「音が成立する条件そのものを揺さぶること」にある。
+
+> YHWH Nailgunは、音楽の枠組みを使って音楽の外側を描き続けている。
+
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0UPSqBMJxE?si=X8CFJ7cCkTfL8kuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

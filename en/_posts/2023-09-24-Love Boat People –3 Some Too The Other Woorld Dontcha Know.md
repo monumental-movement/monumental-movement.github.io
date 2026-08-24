@@ -12,11 +12,11 @@ title: Love Boat People –3 Some Too The Other World Dontcha Know
 ---
 
 
-Released in 1998 from the American label "Sosumi Recordings".
+1998年にアメリカのレーベル「Sosumi Recordings」からのリリース。
 
-Don"t miss the psychedelic track ""3 Some" or the disco-tinged ""Too The Other World" by Bryan Wright"s solo project Love Boat People.
+Bryan WrightのソロプロジェクトであるLove Boat Peopleによるサイケデリックなトラック「3 Some」やディスコな「Too The Other World」は必聴です。
 
-Furthermore, "Dontcha Know?", which includes two versions, is recommended for its dubby and dark house.
+さらに、2ヴァージョン収録の「Dontcha Know?」は、ダビーでダークななハウスでおすすめです。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ B2  Dontcha Know? (Sunday Night Mix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m66742679105?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66742679105?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f5NKiAbW1KQ?si=UWyNznhxzeG5JMiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

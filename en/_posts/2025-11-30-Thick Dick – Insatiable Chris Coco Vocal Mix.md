@@ -23,7 +23,7 @@ Eric Miller, also known as Thick Dick, is an American house DJ/producer who work
 
 A is a remix by Chill-Out/Balearic DJ and producer Chris Coco (Chris Mellor).
 
-Bは、スウェーデン出身のピアニスト&DJ Rasmus Faber(ラスマス・フェイバー)によるremix。
+B is a remix by Swedish pianist and DJ Rasmus Faber.
 
 #### Tracklist
 ```md

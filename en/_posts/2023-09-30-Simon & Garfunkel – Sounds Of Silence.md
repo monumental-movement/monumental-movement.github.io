@@ -12,11 +12,11 @@ title: Simon & Garfunkel – Sounds Of Silence
 ---
 
 
-"Sounds Of Silence" was released in 1966. This album was an important milestone in Simon & Garfunkel's career, demonstrating their musical maturity and talent.
+「Sounds Of Silence」は、1966年にリリースされました。このアルバムは、サイモン&ガーファンクルのキャリアにおいて重要な位置を占める作品であり、彼らの音楽的な成熟と才能を示すものとなりました。
 
-The album includes the hit singles "The Sound of Silence" and "I Am a Rock." These songs feature melodic folk sounds and beautiful harmonies from Paul Simon and Art Garfunkel.
+アルバムには、シングルヒット曲「The Sound of Silence」や「I Am a Rock」などが収録されています。これらの曲は、メロディアスなフォークサウンドとポール・サイモン（Paul Simon）とアート・ガーファンクル（Art Garfunkel）の美しいハーモニーが特徴です。
 
-This album is a timeless work for Simon & Garfunkel fans and folk music lovers alike. Their heart-touching lyrics and beautiful melodies have moved many people and have continued to be loved for a long time.
+このアルバムは、サイモン&ガーファンクルのファンやフォークミュージックの愛好家にとって、不朽の作品となっています。彼らの心に響く歌詞と美しいメロディは、多くの人々に感動を与え、長く愛され続けています。
 
 #### Tracklist
 ```md
@@ -43,7 +43,7 @@ B4. We've Got A Groovey Thing Goin'
 B5. I Am A Rock
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ukmjBSQY-c?si=0Qgxkn7kxHC7wt6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

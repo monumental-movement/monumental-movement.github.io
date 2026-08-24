@@ -10,28 +10,27 @@ tags:
 - Modular
 - Experimental
 - Sampling
-title: '[Column] Yann Tomita: A sound explorer who expanded the horizons of sound
-  collage and electronic music.'
+title: 【コラム】 ヤン富田（Yann Tomita）：サウンド・コラージュと電子音楽の地平を拡張した音の探検者
 ---
 
 
 
-## Prologue: An entity that redefined music as a "material"
+## 序章：音楽を「素材」として再定義した存在
 
-Text: mmr｜Theme: The trajectory of an explorer who updated the concept of sound by crossing sampling and modular synths
+文：mmr｜テーマ：サンプリングとモジュラーシンセを横断し音の概念を更新した探究者の軌跡
 
 
-### A perspective from outside music
+### 音楽の外側から現れた視点
 
-In the history of Japanese music, Yan Tomita is more than just a musician. His activities are not limited to performance and composition, but are full of attempts to update the way we perceive sound itself. He has played an extremely important role in the introduction and development of sampling culture in Japan, especially since the 1980s.
+日本の音楽史において、ヤン富田は単なるミュージシャンという枠に収まらない存在である。彼の活動は演奏や作曲にとどまらず、音そのものの捉え方を更新する試みに満ちている。特に1980年代以降、日本におけるサンプリング文化の導入と発展において、彼の果たした役割は極めて大きい。
 
-A characteristic of Yan Tomita is that he does not rely on existing genres. His attitude of traversing different fields such as pop, dub, electronic music, ethnic music, and environmental sounds while reconstructing them as "materials" was unprecedented at the time. The idea of ​​viewing music not as a completed work but as a collection of editable fragments also overlaps with the foundation of later digital music production.
+ヤン富田の特徴は、既存のジャンルに依存しない点にある。ポップ、ダブ、電子音楽、民族音楽、環境音といった異なる領域を横断しながら、それらを「素材」として再構築する姿勢は、当時としては異例だった。音楽を完成された作品としてではなく、編集可能な断片の集合として捉える考え方は、後のデジタル音楽制作の基盤とも重なる。
 
-His approach is to redefine music production as a process of ""recording" and ""relocation." Recorded sounds are no longer fixed records, but become materials that must be rearranged. Although this idea resonates with the trends of hip-hop, dub, and musique concrète, it is important that it was developed uniquely in Japan.
+彼のアプローチは、音楽制作を「録音」と「再配置」のプロセスとして再定義した点にある。録音された音は、もはや固定された記録ではなく、再び組み替えられるべき素材となる。この思想は、ヒップホップやダブ、ミュージック・コンクレートの流れとも共鳴しているが、日本においてこれを独自に展開した点が重要である。
 
-Furthermore, he has a strong interest in electronic audio equipment itself, and has made modular synthesizers the center of his acoustic experiments. In particular, the fact that he owned systems such as Serge and Buchla and used them as experimental sound generation devices is essential to understanding his musical outlook.
+さらに彼は、電子音響機器そのものにも強い関心を持ち、モジュラーシンセサイザーを自らの音響実験の中心に据えていく。特にSergeやBuchlaといったシステムを所有し、それらを実験的な音響生成装置として活用していたことは、彼の音楽観を理解するうえで欠かせない。
 
-> A unique sonic world was formed by combining the perspective of treating music as a material with an inquisitive mind towards electronic equipment.
+> 音楽を素材として扱う視点と電子機器への探究心が結びつき、独自の音響世界が形成された。
 
 
 ---
@@ -41,7 +40,7 @@ Furthermore, he has a strong interest in electronic audio equipment itself, and 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -50,113 +49,113 @@ color: #fff;
 </style>
 
 
-## Initial activities: Starting out as a percussionist
+## 初期活動：パーカッショニストからの出発
 
-### Interest in rhythm and physicality
+### リズムと身体性への関心
 
-Jan Tomita was born in 1952 and began his musical career as a percussionist. The choice of percussion instruments is important in understanding his later views on music. Rhythm is the most primitive element of music and is closely tied to physicality.
+ヤン富田は1952年に生まれ、音楽活動の初期にはパーカッショニストとして活動を開始した。打楽器という選択は、彼の後の音楽観を理解する上で重要である。リズムは音楽の最も原初的な要素であり、身体性と密接に結びついている。
 
-From the 1970s to the 1980s, while having contact with various music scenes in Japan and abroad, he came to treat rhythm not as mere accompaniment, but as the structure of music itself. It is thought that at this stage, the idea of ​​decomposing and reconstructing sound had already begun to emerge.
+1970年代から80年代にかけて、日本国内外のさまざまな音楽シーンと接点を持ちながら、彼はリズムを単なる伴奏ではなく、音楽の構造そのものとして扱うようになる。この段階ですでに、音を分解し再構築する思考が芽生えていたと考えられる。
 
-Also, since the field of percussion emphasizes timbre and texture rather than pitch, his interest naturally turns to the texture of sounds. This is an important foreshadowing that would lead to his later interest in field recording and sampling.
+また、パーカッションという領域は音程よりも音色や質感に重きを置くため、彼の関心は自然と音のテクスチャへと向かっていく。これは後のフィールド録音やサンプリングへの関心へとつながっていく重要な伏線である。
 
-> By starting with percussion instruments, I developed a perspective that sees sound as texture rather than structure.
-
----
-
-## Encounter with sampling: The invention of sound reconstruction
-
-### Transformation brought about by digital devices
-
-In the 1980s, the appearance of samplers brought about major changes in music production. Jan Tomita was one of the first to notice this new technology, and saw it not as a mere tool, but as a device that could change the concept of music.
-
-Sampling is the act of recording existing sound and reusing it in a different context. This technology shifts the focus of music from ""performance" to ""editing." Yan Tomita actively accepted this change and deepened his technique of sound collage.
-
-His method is unique in that it transforms the meaning of sounds, rather than simply quoting them. For example, by taking in environmental sounds and everyday sounds and placing them within a musical structure, he shakes up the listener's perception. This approach goes beyond mere music production and questions the very perception of sound.
-
-At the same time, by handling sampling and modular synthesizers in parallel, he established a unique methodology of manipulating "recorded sound" and "generated sound" in the same layer. Systems like Serge"s and Buchla"s did not have a fixed timbre, but were infinitely variable through patching, making them extremely compatible with his philosophy.
-
-> Sound generation and reconstruction are integrated through the combined use of sampling and modular synths.
+> 打楽器から出発したことで、音を構造ではなく質感として捉える視点が形成された。
 
 ---
 
-## Audio Science Laboratory (A.S.L.)
+## サンプリングとの出会い：音の再構築という発明
 
-### Theme "Expanding consciousness through music"
+### デジタル機器がもたらした転換
 
-In 1989, Jan Tomita heads up the Audio Science Laboratory (A.S.L.). This activity was not just a production project, but a venue for acoustic research developed under the theme of ""expanding consciousness through music.''
+1980年代に入り、サンプラーの登場は音楽制作に大きな変革をもたらした。ヤン富田はこの新しい技術にいち早く注目し、単なるツールとしてではなく、音楽の概念を変える装置として捉えた。
 
-In A.S.L., it becomes clear that sound is viewed not as mere entertainment, but as a phenomenon that affects perception and consciousness. It explores how elements such as acoustic placement, frequency, and spatiality affect human sensation.
+サンプリングとは、既存の音を録音し、それを別の文脈で再利用する行為である。この技術によって、音楽は「演奏」から「編集」へと重心を移すことになる。ヤン富田はこの変化を積極的に受け入れ、音のコラージュという手法を深化させていく。
 
-His activities during this period were closely linked to sonic experiments using sampling and modular synths. Sound is treated as both a ""thing that is composed" and a ""phenomenon that is experienced," and attempts are being made to approach it from both perspectives.
+彼の手法は単純な引用ではなく、音の意味そのものを変換する点に特徴がある。例えば環境音や日常の音を取り込み、それを音楽的な構造の中に配置することで、聴き手の知覚を揺さぶる。このアプローチは、単なる音楽制作を超えて、音の認識そのものに問いを投げかけるものである。
 
-Moreover, this idea would appear more clearly in his later works. Music is not simply an expression, but is positioned as a device for transforming perception.
+同時に彼は、サンプリングとモジュラーシンセサイザーを並行して扱うことで、「録音された音」と「生成される音」を同一のレイヤーで操作するという独自の方法論を確立していく。SergeやBuchlaのようなシステムは、固定された音色を持たず、パッチングによって無限に変化するため、彼の思想と極めて相性が良かった。
 
-> The perspective of treating music as a phenomenon that affects consciousness was clarified in A.S.L.
-
----
-
-## Doopees and the Reconstruction of Pop
-
-### Fusion of fictional story and sampling
-
-In the 1990s, Doopees occupied a unique position among Yan Tomita's activities. Although this project was a pop unit centered around vocalists, its internal structure was extremely experimental.
-
-Doopees' works combine radio-drama-like narratives, fragmented sounds, and sampled sources, and are constructed more as sonic stories than songs. In particular, the structure seen in the album ""Doopee Time'' is a series of songs, talk, and sound effects, forming a kind of imaginary broadcast space.
-
-This method is directly connected to Yang Tomita's sampling philosophy. Sound is not simply arranged as a musical element, but is treated as an element that composes a story or situation. In other words, music and storytelling are integrated on the same level.
-
-Moreover, the pop surface of Doopees does not cover up his experimentalism, but rather functions as a device to highlight it. The project's uniqueness lies in the precise placement of sound fragments behind familiar melodies and voices.
-
->Doopees was an attempt to reconstruct the sound and story while borrowing from pop formats.
+> サンプリングとモジュラーシンセの併用により、音の生成と再構築が一体化された。
 
 ---
 
-## Expansion of works: embodiment of acoustic philosophy
+## オーディオ・サイエンス・ラボラトリー（A.S.L.）
 
-### "Music for Astro Age" and cosmic sensations
+### 「音楽による意識の拡大」というテーマ
 
-""Music for Astro Age"' is one of the works in which Jan Tomita"s acoustic philosophy is further expanded. This work emphasizes the spatiality and expanse of sound, presenting a structure that seems to be freed from an earthly sense of time.
+1989年、ヤン富田はオーディオ・サイエンス・ラボラトリー（A.S.L.）を主宰する。この活動は単なる制作プロジェクトではなく、「音楽による意識の拡大」というテーマのもとに展開される音響研究の場であった。
 
-As the title suggests, this album evokes a sense of cosmic scale. Rather than proceeding in a straight line, the sounds are arranged to float in space, guiding the listener's perception in a direction that expands.
+A.S.L.においては、音を単なる娯楽としてではなく、知覚や意識に作用する現象として捉える姿勢が明確になる。音響の配置、周波数、空間性といった要素が、どのように人間の感覚に影響を与えるかが探求されていく。
 
-Sampling and sound production are once again closely intertwined, with sound functioning both as a record of reality and as an element for constructing an abstract space.
+この時期の活動は、サンプリングやモジュラーシンセによる音響実験と密接に結びついている。音は「構成されるもの」であると同時に、「体験される現象」として扱われ、その両面からのアプローチが試みられている。
 
-> By expanding the spatial nature of sound to the utmost limit, the auditory experience itself is transformed.
+また、この思想は後の作品群においてより明確に現れることになる。音楽は単なる表現ではなく、知覚を変容させるための装置として位置付けられる。
 
----
-
-### "Forever Yann Music Meme 2" and the structure of repetition and memory
-
-""Forever Yann Music Meme 2"' is a work that is strongly conscious of the themes of sound repetition and memory. In this work, fragmentary sounds and phrases are repeated, creating a unique sense of time in the listener"s mind.
-
-What is important here is the concept of ""meme.'' Sound is not just a physical phenomenon; it is replicated in memory and culture, and propagates while transforming. This perspective is also deeply connected to sampling culture.
-
-Repeated sounds are not just repetitions, but continue with subtle changes. As a result, listeners get different experiences even though they are supposed to be hearing the same sound. This feeling makes us reconsider the relationship between time and memory.
-
-> Memory and the sense of time are reconstructed through the repetition and change of sound.
+> 音楽を意識に作用する現象として扱う視点が、A.S.L.で明確化された。
 
 ---
 
-## Modular synths and acoustic experiments
+## Doopeesとポップの再構築
 
-### Ideological resonance between Serge and Buchla
+### 架空の物語とサンプリングの融合
 
-Jan Tomita's Serge and Buchla modular synthesizers are more than instruments, they serve as a platform for sonic experimentation.
+1990年代において、ヤン富田の活動の中でも特異な位置を占めるのがDoopeesである。このプロジェクトは、ボーカリストを中心としたポップユニットでありながら、その内部構造は極めて実験的だった。
 
-The Serge system is relatively compact and flexible, allowing complex signal processing. On the other hand, Buchla has a design philosophy that does not assume a keyboard, and has a direction that frees music from performance. Both of these systems are designed to deviate from the traditional Western musical framework.
+Doopeesの作品では、ラジオドラマのような語り、断片的なサウンド、サンプリングされた音源が組み合わされ、楽曲というよりも「音の物語」として構築されている。特にアルバム『Doopee Time』に見られる構成は、楽曲とトーク、効果音が連続することで、一種の架空の放送空間を形成している。
 
-Yan Tomita used these instruments to focus on ""generating" sounds rather than ""playing" them. Characteristics of his work, such as changes in sound through voltage control, random patching, and acoustic structures that continually change over time, are closely tied to these devices.
+この手法は、ヤン富田のサンプリング思想と直結している。音は単に音楽的要素として配置されるのではなく、物語や状況を構成する要素として扱われる。つまり、音楽とストーリーテリングが同一のレベルで統合されている。
 
-Furthermore, this sonic approach also functions as the foundation for his activities with Doopees and A.S.L. It is distinctive in that the different fields of pop, experimentation, and research are unified by the same sonic philosophy.
+また、Doopeesにおけるポップな表層は、彼の実験性を覆い隠すものではなく、むしろそれを際立たせる装置として機能している。親しみやすい旋律や声の背後で、音の断片が精密に配置されている点に、このプロジェクトの独自性がある。
 
-> Modular synths function as the foundation that supports all activities.
+> ポップの形式を借りながら、音と物語を再構築する試みがDoopeesで展開された。
 
 ---
 
-## Chronology: Trajectory of Yan Tomita's activities
+## 作品群の拡張：音響思想の具体化
 
-### Organizing major events
+### 『ミュージック・フォー・アストロ・エイジ』と宇宙的感覚
+
+『ミュージック・フォー・アストロ・エイジ』は、ヤン富田の音響思想がさらに拡張された作品の一つである。この作品では、音の空間性や広がりが強調され、地上的な時間感覚から解放されたような構造が提示される。
+
+タイトルが示す通り、このアルバムは宇宙的なスケール感を想起させる。音は直線的に進行するのではなく、空間の中に浮遊するように配置され、聴き手の知覚を拡張する方向へと導く。
+
+ここでもサンプリングと音響生成は密接に絡み合っており、音は現実の記録であると同時に、抽象的な空間を構築する要素として機能している。
+
+> 音の空間性を極限まで拡張することで、聴覚体験そのものが変容する。
+
+---
+
+### 『Forever Yann Music Meme 2』と反復・記憶の構造
+
+『Forever Yann Music Meme 2』は、音の反復と記憶というテーマが強く意識された作品である。この作品では、断片的な音やフレーズが繰り返されることで、聴き手の中に独特の時間感覚が生まれる。
+
+ここで重要なのは、「ミーム」という概念である。音は単なる物理的な現象ではなく、記憶や文化の中で複製され、変形しながら伝播していく。この視点は、サンプリング文化とも深く結びついている。
+
+反復される音は、単なる繰り返しではなく、微細な変化を伴いながら持続する。その結果、聴き手は同じ音を聴いているはずなのに、異なる体験を得ることになる。この感覚は、時間と記憶の関係を再考させるものである。
+
+> 音の反復と変化によって、記憶と時間の感覚が再構築される。
+
+---
+
+## モジュラーシンセと音響実験
+
+### SergeとBuchlaの思想的共鳴
+
+ヤン富田が所有していたSergeおよびBuchlaのモジュラーシンセサイザーは、単なる楽器ではなく、音響実験のためのプラットフォームとして機能している。
+
+Sergeシステムは比較的コンパクトで柔軟性が高く、複雑な信号処理を可能にする。一方、Buchlaはキーボードを前提としない設計思想を持ち、音楽を演奏から解放する方向性を持っている。この二つのシステムはいずれも、従来の西洋音楽的な枠組みから逸脱した設計がなされている。
+
+ヤン富田はこれらを用いて、音を「演奏する」のではなく「発生させる」ことに注力した。電圧制御による音の変化、偶然性を含むパッチング、時間的に変化し続ける音響構造など、彼の作品に見られる特徴はこれらの機材と密接に結びついている。
+
+さらにDoopeesやA.S.L.での活動においても、こうした音響的アプローチは基盤として機能している。ポップ、実験、研究という異なる領域が、同一の音響思想によって統合されている点が特徴である。
+
+> モジュラーシンセは全ての活動を支える基盤として機能している。
+
+---
+
+## 年表：ヤン富田の活動の軌跡
+
+### 主要な出来事の整理
 
 <div class="mermaid">
 timeline
@@ -173,55 +172,55 @@ timeline
     2000s : Forever Yann Music Meme 2 発表
 </div>
 
-> It is distinctive in that research, pop, and experimentation are developed in parallel.
+> 研究・ポップ・実験が並行して展開されている点が特徴的である。
 
 ---
 
-## Model diagram of music structure
+## 音楽構造のモデル図
 
-### Cycle of sampling and sound generation
+### サンプリングと音響生成の循環
 
 <div class="mermaid">
 graph TD
-    A[Environmental sounds/existing sound sources] --> B[sampling]
-    B --> C[Editing/Processing]
-    C --> D[Relocation]
-    D --> E[music structure]
-    F[modular synth] --> C
+    A[環境音・既存音源] --> B[サンプリング]
+    B --> C[編集・加工]
+    C --> D[再配置]
+    D --> E[音楽構造]
+    F[モジュラーシンセ] --> C
     E --> B
-    G[Doopees-like structure] --> D
-    H[A.S.L. research] --> C
+    G[Doopees的構造] --> D
+    H[A.S.L.的研究] --> C
 </div>
 
-> Music production, pop expression, and acoustic research are integrated into one circular structure.
+> 音楽制作・ポップ表現・音響研究が一つの循環構造に統合されている。
 
 ---
 
-## Impact and evaluation
+## 影響と評価
 
-### Spread into the Japanese music scene
+### 日本の音楽シーンへの波及
 
-Yan Tomita's activities have influenced many aspects of the Japanese music scene. His presence was a pioneer, especially in the spread of sampling culture. Later electronic, hip-hop, and experimental music artists learned much from his methods.
+ヤン富田の活動は、日本の音楽シーンにおいて多方面に影響を与えている。特にサンプリング文化の普及において、彼の存在は先駆的であった。後の電子音楽やヒップホップ、実験音楽のアーティストたちは、彼の手法から多くを学んでいる。
 
-His influence was also important in terms of the philosophical introduction of modular synths. The idea of ​​treating sound not as a fixed timbre but as a process of continuous generation resonates with the modern modular scene.
+また、モジュラーシンセの思想的な導入という点でも、彼の影響は重要である。音を固定された音色として扱うのではなく、生成し続けるプロセスとして扱う考え方は、現代のモジュラーシーンとも共鳴している。
 
-Furthermore, the perspective of ""expanding consciousness through music"' presented through A.S.L."s activities is evaluated as an attempt to expand music from mere entertainment and connect it to the realm of perception and experience.
+さらに、A.S.L.の活動を通じて提示された「音楽による意識の拡大」という視点は、音楽を単なる娯楽から拡張し、知覚や体験の領域へと接続する試みとして評価される。
 
-> The influence that spans the three layers of music, research, and pop continues to this day.
+> 音楽・研究・ポップの三層にまたがる影響が現在にも持続している。
 
 ---
 
-## Conclusion: Updated thoughts on sound
+## 結論：音をめぐる思考の更新
 
-### Music that continues to transcend boundaries
+### 境界を越え続ける音楽
 
-Looking back on Yan Tomita's activities, he has consistently pursued the question ""What is sound?'' Through the series of processes of performance, recording, generation, editing, and playback, sound is shown to be an ever-changing entity.
+ヤン富田の活動を振り返ると、彼が一貫して追求してきたのは「音とは何か」という問いである。演奏、録音、生成、編集、再生という一連のプロセスを通じて、音は常に変化し続ける存在であることが示されている。
 
-Although his different activities, such as A.S.L., Doopees, and his solo works, have different forms, they are all rooted in the same philosophy. Sound is a material, a phenomenon, a memory, and an experience.
+A.S.L.、Doopees、ソロ作品といった異なる活動は、それぞれ異なる形式を持ちながらも、同一の思想に貫かれている。音は素材であり、現象であり、記憶であり、そして体験である。
 
-The fusion of modular synths and sampling, and the perspective of their effects on consciousness, continues to be an important foundation for current music production and sound art.
+モジュラーシンセとサンプリングの融合、そして意識への作用という視点は、現在の音楽制作や音響芸術においても重要な基盤であり続けている。
 
-> The core of his activities is an attempt to renew perception itself through sound.
+> 音を通じて知覚そのものを更新する試みが、彼の活動の核心である。
 
 
 ---
@@ -229,7 +228,7 @@ The fusion of modular synths and sampling, and the perspective of their effects 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-28U9W8SNCA?si=DA4tRiSyxUunEIoG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

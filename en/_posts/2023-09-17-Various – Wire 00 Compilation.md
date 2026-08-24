@@ -12,9 +12,9 @@ title: Various – Wire 00 Compilation
 ---
 
 
-This is a compilation album by the performers of "WIRE 00", the largest indoor rave in history held in 2000.
+2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。
 
-The 2-LP set also includes tracks from Sven Väth, DJ Hell and WestBam.
+2枚組LPで、Sven VäthやDJ Hell、WestBamのトラックも収録。
 
 #### Tracklist
 ```md
@@ -48,7 +48,7 @@ D2  DJ Tasaka–Ganz Ganguro
 D3  Beroshima–WWW. (Robot Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

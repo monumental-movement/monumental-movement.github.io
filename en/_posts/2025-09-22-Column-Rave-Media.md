@@ -12,14 +12,14 @@ tags:
 - History
 - Zine
 - 90s
-title: '[Column] Rave and media: Archiving unrecorded music culture'
+title: 【コラム】 レイヴとメディア：記録されない音楽文化のアーカイブ化
 ---
 
 
 
-## Music that was supposed to disappear
+## 消えていくはずだった音楽
 
-Text: mmr | Genre: Cultural records/media considerations | Theme: Chasing the traces of disappearing music
+文：mmr｜ジャンル：文化記録・メディア考察｜テーマ：消えゆく音楽の痕跡を追う
 
 Rave was an ad-hoc festival of sound and light, and was basically a culture that did not assume that it would be recorded. Rave, whether in a club or outdoors, is a here-and-now experience, destined to be forgotten and never archived.
 
@@ -33,7 +33,7 @@ However, in the 21st century, with the advent of YouTube, SNS, and archive sites
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,82 +42,82 @@ color: #fff;
 </style>
 
 
-### Rave, a space without media
+### レイヴというメディア不在の空間
 
 **● The essence of rave is "anti-media"**
 
-Rave culture in the 1990s (particularly underground raves in the UK, Germany, the Netherlands, and Japan) avoided media exposure and documentation.
+1990年代のレイヴカルチャー（とくにUK、ドイツ、オランダ、日本の地下レイヴ）は、メディアによる露出や記録を避けていた。
 
-Legal risks (illegal parties and drug problems)
+法的リスク（違法パーティーやドラッグ問題）
 
-Rebellion against commercialism (not "music that sells")
+商業主義への反発（「売られる音楽」ではない）
 
-The "physical experience" at that moment is everything (realized from records)
+その瞬間の「身体体験」が全て（記録より実感）
 
 In other words, the rave was "live" in every sense of the word. It was aesthetics and politics to distance yourself from the media.
 
 ---
 
 
-### Unrecorded music culture
+### 記録されなかった音楽文化
 
 **● Examples of what was lost**:
 
 DJ set (recording was prohibited at the time)
 
-On-site VJ video and lighting production
+現場のVJ映像、照明演出
 
-Venue air, smoke, smell, temperature
+会場の空気、スモーク、匂い、温度
 
 Nonverbal interaction between spectators
 
-Rave was not a sound source or score, but a phenomenon itself. Therefore, such records have fundamentally different challenges than ordinary music archives.
+レイヴは音源や楽譜ではなく、現象そのものが作品だった。したがって、その記録は通常の音楽アーカイブとは根本的に異なる課題を持っている。
 
 ---
 
 
-### Who archives? Media deterioration
+### 誰がアーカイブするのか？メディアの変質
 
-**● Spontaneous archive from the underground**
+**● アンダーグラウンドからの自発的アーカイブ**
 
 Since the 2000s, the following attempts have begun around the world.
 
-**MixesDB, Discogs**: Information collection of setlists and minor sound sources
+**MixesDB、Discogs**：セットリストやマイナー音源の情報集積
 
 **YouTube/SoundCloud**: Upload old mixtapes and pirated recordings
 
-**Reddit, Forum, Blog**: Verbalization of experiences at that time
+**Reddit、Forum、ブログ**：当時の体験談の言語化
 
-**Zine/Podcast/Documentary**: Preservation movement with DIY spirit
+**Zine／Podcast／ドキュメンタリー**：DIY精神による保存運動
 
-These are grassroots archives that fill areas not covered by traditional music media (magazines, labels, broadcasters).
+これらは、従来の音楽メディア（雑誌、レーベル、放送局）ではカバーされなかった領域を埋める草の根的アーカイブである。
 
 ---
 
 
-### Disruption and restoration of club culture
+### クラブカルチャーの断絶と復元
 
-**● The reason why there are few records in Japan**
+**● 日本でも記録が少ない理由**
 
 According to the Entertainment Business Law, clubs were classified as "entertainment businesses."
 
 It was easy to avoid taking photos and videos (especially in Shibuya and Roppongi)
 
-Magazine media (such as ""LOUD" and ""ele-king") could only follow a limited scope.
+雑誌メディア（『LOUD』『ele-king』など）も限られた範囲しか追えなかった
 
-As a result, the Tokyo rave of the 1990s only exists "in memory."
+そのため、90年代の東京レイヴはほとんど“記憶の中”にしか存在していない。
 
-**● Recent developments**
+**● 近年の動き**
 
 Citizen movement to preserve club culture (review of entertainment business law)
 
 "Japan Rave Archive" and Zine projects are starting up
 
-Archive of past footage of Shibuya WOMB and ageHa
+渋谷WOMBやageHaの過去映像のアーカイブ化
 
 **Aggressive archiving is underway overseas**
 
-Established in 2007, "[**Rave Archive**](https://ravearchive.com)" is an archive that preserves and shares memories of rave culture in the 90s. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
+2007年設立の「[**Rave Archive**](https://ravearchive.com)」は、90年代レイヴ文化の記憶を保存・共有するアーカイブ。レイヴァーでありアーキビストの視点から、消えやすい文化を後世へ伝える。
 
 
 Don't miss the Archive of Old Rave Flyers from 1989-2000 from across the U.S. and Canada.
@@ -127,24 +127,24 @@ Don't miss the Archive of Old Rave Flyers from 1989-2000 from across the U.S. an
 ---
 
 
-### The value of "irregular archives" in the digital age
+### デジタル時代の“非正規アーカイブ”の価値
 
-Many of the archives we rely on today are "unauthorized."
+今、私たちが頼りにしているアーカイブの多くは、「非正規」である。
 
 ・Mixtape with no label
 
-- Low quality video imported from VHS
+・ VHSから取り込んだ低画質映像
 
-- Anonymous user memory-based setlists
+・ 匿名ユーザーの記憶ベースのセットリスト
 
-However, this is also the most vivid means of preserving the ""reality of the place'' at rave. Rather than institutionalized cultural heritage, a collection of "memory fragments" pulsating underground is now becoming a single "cultural heritage."
+だが、それこそがレイヴの「場のリアル」を保存する最も生々しい手段でもある。制度化された文化遺産ではなく、地下で脈打つ“記憶の断片”の寄せ集めが、いま、ひとつの“文化遺産”になりつつある。
 
 ---
 
 
 ### Conclusion: How to preserve unrecorded culture
 
-Rave was an "art of experience." It is impossible to record this and pass it on to future generations using normal music archiving methods alone.
+レイヴは「体験の芸術」だった。それを記録し、後世に伝えることは、通常の音楽アーカイブの手法だけでは不可能である。
 
 However, the accumulation of memories, fragments, reinterpretations, and "passion" is making this possible. The time has come for those of us who have grown up with media to go beyond media and reconsider how we archive culture.
 
@@ -154,25 +154,25 @@ However, the accumulation of memories, fragments, reinterpretations, and "passio
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0BHUKujR1M0?si=xtCh7Bb2eAuoAjDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-### Related columns
+### 関連コラム
 
 
 🔗 [[Column] Acid House: Chemical reactions of sound and cultural transformation](https://monumental-movement.jp/Column-Acid-House)
 
 🔗 [[Column] History of Psy-Trance (psychedelic trance), masterpieces, and 10 recommended tracks](https://monumental-movement.jp/Column-Psy-Trance)
 
-🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
 🔗 [[Column] The "sound of the euro" changes depending on the border ─ Italy, Germany, Sweden: differences in the euro music created by the three major producing countries](https://monumental-movement.jp/Column-Euro-Sound)
 
-🔗 [[Column] Eurobeat and Japan: Why are they linked together? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)
 
 🔗 [[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 

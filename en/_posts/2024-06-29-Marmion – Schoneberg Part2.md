@@ -13,11 +13,11 @@ title: Marmion – Schöneberg Part2
 ---
 
 
-Marmion is a trance techno project from Germany by Mijk Van Dijk and Marcos López.
+Marmionは、Mijk Van Dijk（マイク・ヴァン・ダイク）とMarcos Lópezによるドイツ発のトランス・テクノプロジェクト。
 
-"Schöneberg Part 2" is a trance techno track released in 2003 by the German label Superstition.
+「Schöneberg Part2」は、ドイツのレーベルSuperstitionから2003年にリリースされたトランス・テクノトラック。
 
-Side A is a remix by Technasia. The second track on the B-side is a remix by John Acquaviva, who founded Plus 8 Records Ltd. with Richie Hawtin in 1989.
+A面はTechnasia（テクネイジア）によるremix。B面２曲目は1989年にRichie Hawtin（リッチーホウティン）とPlus 8 Records Ltd.を設立したJohn Acquaviva（ジョン アクアヴィヴァ ）によるremix。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B01. Schöneberg (Original Mix)
 B02. Schöneberg (John Acquaviva Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m23026180825?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23026180825?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_x0Ym6mSLzk?si=s512xn6YLrTWjfhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

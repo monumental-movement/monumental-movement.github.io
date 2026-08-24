@@ -10,8 +10,7 @@ tags:
 - Synthesizer
 - Drum Machine
 - Sampler
-title: '[Column] 50 music equipment that changed the world Part 2 TR-808 SP-1200 MPC
-  Fairlight DX7 LinnDrum TB-303'
+title: 【コラム】 世界を変えた音楽機材50選 Part2 TR-808 SP-1200 MPC Fairlight DX7 LinnDrum TB-303
 ---
 
 
@@ -21,17 +20,17 @@ title: '[Column] 50 music equipment that changed the world Part 2 TR-808 SP-1200
 
 From the late 1980s into the 1990s, the evolution of music equipment advanced to a new stage.
 
-Until then, music production required large studios, expensive recording equipment, and specialized staff.
+それまでの音楽制作は、大型スタジオ、高価な録音機材、専門スタッフを必要とするものだった。
 
-However, with the development of samplers, sequencers, digital synthesizers, and hard disk recording technology, it became possible for individuals to produce complex music.
+しかし、サンプラー、シーケンサー、デジタルシンセサイザー、ハードディスク録音技術の発展によって、個人でも複雑な音楽制作が可能になっていった。
 
-The equipment that appeared in this era did not simply improve sound quality.
+この時代に登場した機材は、単に音質を向上させたのではない。
 
-It changed the very idea of ​​""who can make music.''
+「誰が音楽を作れるのか」という考え方そのものを変えた。
 
-We have moved into an era where new music can be created not only in professional studios, but also in small production environments such as bedrooms, clubs, and homes.
+プロフェッショナルなスタジオだけではなく、ベッドルーム、クラブ、自宅の小さな制作環境から、新しい音楽が生まれる時代へ移行していった。
 
-Since the 1990s, many genres such as hip-hop, techno, ambient, and electronica have developed as a result of this change in the production environment.
+1990年代以降のヒップホップ、テクノ、アンビエント、エレクトロニカなど、多くのジャンルは、この制作環境の変化によって発展した。
 
 <div class="mermaid">
 timeline
@@ -57,7 +56,7 @@ timeline
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -67,35 +66,35 @@ color: #fff;
 
 ---
 
-## 11. Korg M1 — The synthesizer that defined the workstation era
+## 11. Korg M1 — ワークステーション時代を決定づけたシンセサイザー
 
-The Korg M1, released in 1988, was a digital workstation that revolutionized the style of music production.
+1988年に発売されたKorg M1は、音楽制作のスタイルを大きく変えたデジタルワークステーションである。
 
-Before that, synthesizers were basically instruments for creating tones.
+それ以前のシンセサイザーは、基本的に音色を作るための楽器だった。
 
 However, the M1 combines a synthesizer, sampler-like sound source, sequencer, and effect functions into one unit.
 
-This has made it possible to complete everything from composition to arrangement with a single device.
+これによって、作曲からアレンジまでを一台で完結させることが可能になった。
 
 A feature of the M1 was the large number of built-in preset tones.
 
-It became popular among many musicians because it provided ready access to highly complete sounds such as piano, strings, brass, drums, and pads.
+ピアノ、ストリングス、ブラス、ドラム、パッドなど、完成度の高い音色をすぐに利用できるため、多くのミュージシャンに普及した。
 
-The M1 tone was used extensively in pop, dance music, and film music, especially in the 1990s.
+特に1990年代のポップス、ダンスミュージック、映画音楽では、M1の音色が大量に使用された。
 
-The representative tone was called the "M1 piano" and became a symbol of digital sound in the 1990s.
+代表的な音色は「M1ピアノ」と呼ばれ、1990年代のデジタルサウンドを象徴する存在となった。
 
 The reason M1 was important was that it provided an environment in which people could create entire music productions without having to have any specialized knowledge of sound production.
 
-This is also connected to the later ideas of software sound sources and DAWs.
+これは後のソフトウェア音源やDAWの考え方にもつながっている。
 
 > The Korg M1 turns the synthesizer from a tone-making machine into a music production studio.
 
 ---
 
-## 12. Akai S1000 — The equipment that expanded sampling into professional production
+## 12. Akai S1000 — サンプリングをプロフェッショナル制作へ広げた機材
 
-The Akai S1000, introduced in 1988, had a huge impact as a professional sampler.
+1988年に登場したAkai S1000は、プロフェッショナル向けサンプラーとして大きな影響を与えた。
 
 Previous samplers were expensive and had significant limitations in memory capacity and sound quality.
 
@@ -103,19 +102,19 @@ The S1000 supported 16-bit 44.1kHz stereo sampling and achieved high-quality aud
 
 This performance has made it a sampler that can be used seriously in recording studios.
 
-The S1000 was used not only for hip-hop sampling, but also for film music, pop, and electronic music.
+S1000は、ヒップホップのサンプリング制作だけでなく、映画音楽、ポップス、電子音楽でも利用された。
 
-It also had a great influence on the development of sound source libraries.
+また、音源ライブラリーの発展にも大きな影響を与えた。
 
-Producers can now create using professionally created sample materials instead of just recording their own sounds.
+プロデューサーは自分で録音した音だけではなく、専門的に作られたサンプル素材を利用して制作できるようになった。
 
-This trend has led to the current sample pack culture and software sound source market.
+この流れは現在のサンプルパック文化やソフトウェア音源市場へつながっている。
 
-> The Akai S1000 pushed sampling from an experimental technique to a standard technology for music production.
+> Akai S1000は、サンプリングを実験的技術から音楽制作の標準技術へ押し上げた。
 
 ---
 
-## 13. Roland JD-800 — A synthesizer that brings back the feel of analog operation in the digital age
+## 13. Roland JD-800 — デジタル時代にアナログ操作感を取り戻したシンセサイザー
 
 The Roland JD-800, released in 1991, was a synthesizer that combined digital technology and analog operability.
 
@@ -123,15 +122,15 @@ In the early 1990s, many digital synthesizers were moving toward smaller size an
 
 However, the JD-800 was equipped with a large number of sliders and knobs, with an emphasis on allowing the performer to change the tone in real time.
 
-This design provides an intuitive operating feel similar to that of an analog synth, even though it is a digital device.
+この設計は、デジタル機材でありながら、アナログシンセのような直感的な操作感を提供した。
 
 The JD-800 was highly praised for its complex and spacious pad sounds, fantastic textures, and cinematic sound.
 
 In particular, he played an important role in ambient music, techno, game music, and film music.
 
-The idea of ​​expressing sounds by changing them yourself, rather than just using them as presets, had an influence on subsequent software synths.
+音色を単なるプリセットとして利用するのではなく、自分自身で変化させて表現するという考え方は、その後のソフトウェアシンセにも影響を与えた。
 
-> The JD-800 has revived the idea of ​​""creating sound for performance'' in the digital age.
+> JD-800は、デジタル時代の中に「演奏する音作り」という思想を復活させた。
 
 ---
 
@@ -139,15 +138,15 @@ The idea of ​​expressing sounds by changing them yourself, rather than just 
 
 Released in 1992, the Ensoniq ASR-10 was a sampling workstation that had a major influence on music production in the 1990s.
 
-Samplers have been rapidly developing since the late 1980s, but most equipment was used as a standalone sampling device.
+1980年代後半からサンプラーは急速に発展していたが、多くの機材は単体のサンプリング装置として使用されていた。
 
 The ASR-10 integrates a sampler, sequencer, effect processing, and tone editing functions, making complex production possible with a single unit.
 
-What was distinctive about it was its flexibility, which allowed it to finely process the sampled sounds.
+特徴的だったのは、サンプリングした音を細かく加工できる柔軟性だった。
 
 It was possible to not only play the recorded sound as is, but also to change it into a different sound using filters, effects, and modulation functions.
 
-As a result, samplers evolved from ""equipment that plays recorded sounds" to ""instruments that create new sounds."
+これにより、サンプラーは「録音した音を鳴らす機材」から「新しい音を作る楽器」へ進化した。
 
 Hip-hop, R&B, and electronic music producers in particular used the ASR-10 to create their own unique sounds.
 
@@ -155,23 +154,23 @@ For producers at the time, the sampler was not just a piece of equipment, but a 
 
 The ASR-10 also influenced the way people thought about later computer-based music production environments.
 
-> The ASR-10 transformed the sampler from a recording device to a creative center.
+> ASR-10は、サンプラーを録音装置から創造の中心へ変えた。
 
 ---
 
-## 15. Nord Lead — The synthesizer that ushered in the virtual analog era
+## 15. Nord Lead — バーチャルアナログ時代を切り開いたシンセサイザー
 
-Introduced in 1995, the Nord Lead is a symbol of the "virtual analog" era, which uses digital technology to reproduce the sounds of analog synthesizers.
+1995年に登場したNord Leadは、デジタル技術によってアナログシンセサイザーの音を再現する「バーチャルアナログ」時代を象徴する機材である。
 
 In the early 1990s, many manufacturers were focusing on developing digital sound sources.
 
-However, there were also voices among musicians who wanted the operational feel and change in sound unique to analog synths.
+しかし、ミュージシャンの間ではアナログシンセ特有の操作感や音の変化を求める声も存在していた。
 
-Nord Lead uses digital processing to recreate the characteristics of analog synths, while achieving stability, lightness, and storable timbre management.
+Nord Leadは、デジタル処理によってアナログシンセの特徴を再現しながら、安定性、軽量性、保存可能な音色管理を実現した。
 
-The red casing and intuitive operability made a strong impression on many performers.
+赤い筐体と直感的な操作性は、多くの演奏者に強い印象を与えた。
 
-It was especially widely used in techno, trance, and electronic music.
+特にテクノ、トランス、エレクトロニック・ミュージックの分野で広く使用された。
 
 Nord Lead, which combined the sound production of analog synths with the convenience of digital technology, influenced the direction of subsequent software synths and hardware sound sources.
 
@@ -179,17 +178,17 @@ Nord Lead, which combined the sound production of analog synths with the conveni
 
 ---
 
-## 16. Access Virus — A synthesizer that symbolizes analog sound in the digital age
+## 16. Access Virus — デジタル時代のアナログサウンドを象徴したシンセサイザー
 
-Access Virus, released in 1997, was a synthesizer that represented the electronic music scene of the late 1990s.
+1997年に発売されたAccess Virusは、1990年代後半の電子音楽シーンを代表するシンセサイザーである。
 
-Virus uses virtual analog technology to reproduce the sonic characteristics of an analog synthesizer using digital technology.
+Virusは、バーチャルアナログ方式によってアナログシンセサイザーの音響特性をデジタル技術で再現した。
 
 At that time, computer performance was not as high as it is today, and real-time sound source processing using hardware had great value.
 
-Virus is equipped with numerous oscillators, filters, effects, and multitimbral functions, making it possible to produce complex electronic music with a single unit.
+Virusは、多数のオシレーター、フィルター、エフェクト、マルチティンバー機能を搭載し、一台で複雑な電子音楽制作を可能にした。
 
-It became particularly popular in club music such as trance, techno, and house.
+特にトランス、テクノ、ハウスなどのクラブミュージックで人気を集めた。
 
 Thick bass sounds, sharp lead sounds, and complex textures became the signature sounds of electronic music in the late 1990s and early 2000s.
 
@@ -203,13 +202,13 @@ The Virus was a piece of equipment that showed a direction in which analog and d
 
 Released in 1997, the Nord Modular is a piece of equipment that extends the idea of ​​a modular synthesizer into the digital age.
 
-Traditional modular synthesizers create sounds by combining electronic circuits with physical cable connections.
+従来のモジュラーシンセサイザーは、実際のケーブル接続によって電子回路を組み合わせて音を作っていた。
 
-Nord Modular allowed users to create their own synthesizer structures by connecting virtual modules on a computer screen.
+Nord Modularでは、コンピューター画面上で仮想的なモジュールを接続し、独自のシンセサイザー構造を作成できた。
 
-By freely combining oscillators, filters, envelopes, effects, etc., it became possible to create sound designs that were not possible with regular synthesizers.
+オシレーター、フィルター、エンベロープ、エフェクトなどを自由に組み合わせることで、一般的なシンセサイザーでは不可能だった音響設計が可能になった。
 
-This philosophy is directly connected to today's software synthesizers and modular environments.
+この思想は、現在のソフトウェアシンセサイザーやモジュラー環境へ直接つながっている。
 
 It was important in that it spread the idea of ​​designing the mechanism that generates the sound itself, rather than selecting a tone.
 
@@ -219,15 +218,15 @@ It was important in that it spread the idea of ​​designing the mechanism tha
 
 ## 18. Elektron Machinedrum — Reinventing the rhythm machine for the digital age
 
-The Elektron Machinedrum, released in 2001, is a drum machine that set the tone for 21st century rhythm production.
+2001年に発売されたElektron Machinedrumは、21世紀型リズム制作の方向性を示したドラムマシンである。
 
-Until the 1990s, drum machines focused on sample playback and reproduction of analog circuits.
+1990年代までのドラムマシンは、サンプル再生やアナログ回路の再現が中心だった。
 
-Machinedrum was designed with an emphasis on flexible sound creation using a digital sound source and real-time operation.
+Machinedrumは、デジタル音源による柔軟な音作りと、リアルタイム操作を重視した設計を採用した。
 
-Complex rhythm generation, parameter changes, and electronic sound processing make it possible to express things differently than traditional drum machines.
+複雑なリズム生成、パラメーター変化、電子的な音響加工によって、従来のドラムマシンとは異なる表現が可能になった。
 
-In particular, he played an important role in the production of IDM, electronica, and experimental electronic music.
+特にIDM、エレクトロニカ、実験的な電子音楽の制作で重要な役割を果たした。
 
 Rather than simply producing beats, he expanded his approach to treating rhythm itself as a changing sound system.
 
@@ -235,11 +234,11 @@ Rather than simply producing beats, he expanded his approach to treating rhythm 
 
 ---
 
-## 19. Roland MC-303 — The beginning of groovebox culture
+## 19. Roland MC-303 — グルーヴボックス文化の始まり
 
 The Roland MC-303, released in 1996, was a piece of equipment that popularized a new production style called the groove box.
 
-The MC-303 was a compact production system that integrated a synthesizer sound source, drum sound source, and sequencer.
+MC-303は、シンセサイザー音源、ドラム音源、シーケンサーを一体化したコンパクトな制作システムだった。
 
 At the time, creating dance music required a combination of multiple pieces of equipment.
 
@@ -247,7 +246,7 @@ However, the MC-303 made it possible to create rhythms, bass lines, and melodies
 
 It became a gateway to electronic music production, especially for beginners and live performers.
 
-It also influenced the way we thought about integrated music production equipment, such as the Roland MC series, Novation Circuit, and Ableton Push, which were later introduced.
+後に登場するRoland MCシリーズ、Novation Circuit、Ableton Pushなど、統合型音楽制作機材の考え方にも影響を与えた。
 
 > The MC-303 expanded electronic music production from an area reserved for experts to an expression accessible to everyone.
 
@@ -255,7 +254,7 @@ It also influenced the way we thought about integrated music production equipmen
 
 ## 20. Ableton Live — Software that changes the boundaries between songwriting and live performance
 
-Ableton Live, introduced in 2001, revolutionized the way music was produced on computers.
+2001年に登場したAbleton Liveは、コンピューターによる音楽制作の方法を大きく変えた。
 
 Traditional DAWs have centered around arranging sounds along the time axis, similar to a recording studio.
 
@@ -263,11 +262,11 @@ Ableton Live introduced Session View, which allows you to freely rearrange clips
 
 This makes it possible to compose, improvise, and perform live in one environment.
 
-The live expression of electronic music has changed dramatically, moving into an era where DJs, producers, and performers create music in real time.
+電子音楽のライブ表現は大きく変化し、DJ、プロデューサー、パフォーマーがリアルタイムで音楽を構築する時代へ進んだ。
 
-In addition, his loop-based production method became the basis of modern beatmaking and live electronics.
+また、ループを中心とした制作方法は、現在のビートメイキングやライブエレクトロニクスの基礎となった。
 
-Ableton Live wasn't just a recording software, it was a platform that changed the way we thought about music production itself.
+Ableton Liveは単なる録音ソフトではなく、音楽制作そのものの考え方を変えたプラットフォームだった。
 
 > Ableton Live changed music production from an era of playing completed songs to an era of continuing to create while playing.
 

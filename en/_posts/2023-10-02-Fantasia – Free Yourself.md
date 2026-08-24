@@ -12,7 +12,7 @@ title: Fantasia – Free Yourself
 ---
 
 
-House REMIX of Fantasia – Free Yourself by Charles Spencer & David Harness.
+Charles Spencer＆David HarnessによるFantasia – Free YourselfのハウスREMIX。
 
 #### Tracklist
 ```md

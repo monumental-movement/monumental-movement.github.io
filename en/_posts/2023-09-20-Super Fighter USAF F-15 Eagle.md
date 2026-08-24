@@ -32,4 +32,4 @@ B3  空中戦訓練中の無線交信 （コクピットにて）
 B4  夕暮れの着陸
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

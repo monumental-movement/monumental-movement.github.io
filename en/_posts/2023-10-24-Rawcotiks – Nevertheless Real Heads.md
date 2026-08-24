@@ -8,13 +8,13 @@ layout: post
 tags:
 - Hiphop
 - 90s
-title: Rawcotiks – nevertheless Real Heads
+title: Rawcotiks – Nevertheless Real Heads
 ---
 
 
-"Rawcotiks – Yet Real Heads" was released in 1997 on Opposition Records.
+「Rawcotiks – Nevertheless Real Heads」は、Opposition Recordsから1997年にリリースされました。
 
-Rawcotiks is a unit of Dominican hip-hop musicians Jeff Valentino and Bladmillo Castillo based in Washington Heights, New York.
+Rawcotiksは、NYワシントン ハイツを拠点に活動していたドミニカ共和国のヒップホップ ミュージシャン、 Jeff Valentino（ジェフ ヴァレンティノ）と Bladmillo Castillo （ブラドミロ カスティージョ）のユニット。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ B2. Real Heads (Street Version)
 B3. Real Heads (Instrumental Version)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m53262349767?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53262349767?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OOI-CkIg1ag?si=YwydBM4ogPLLLy6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

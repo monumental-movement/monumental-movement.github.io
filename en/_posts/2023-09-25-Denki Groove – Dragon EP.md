@@ -12,11 +12,11 @@ title: Denki Groove – Dragon EP
 ---
 
 
-The title song "Dragon" is a danceable song that combines elements of electronic music and techno. Denki Groove is characterized by its unique sound and rhythm, and its unique melody and beat captivate listeners.
+タイトル曲「Dragon」は、エレクトロニックミュージックとテクノの要素を組み合わせたダンサブルな楽曲です。電気グルーヴ独自のサウンドとリズムが特徴であり、ユニークなメロディとビートが聴く人を魅了します。
 
-"Dragon EP" experiments with different musical styles and approaches. The experimental elements and playfulness of Denki Groove are reflected in the songs, which stand out for their uniqueness and creativity.
+「Dragon EP」は、さまざまな音楽スタイルとアプローチが試されています。電気グルーヴの実験的な要素や遊び心が楽曲に反映されており、その独自性と創造性が際立っています。
 
-This EP is a valuable piece for fans of Denki Groove, and allows you to feel the evolution of their music and new attempts. It will also be a great opportunity for those hearing Denki Groove's music for the first time to experience its unique sound and energy.
+このEPは、電気グルーヴのファンにとっては貴重な一枚であり、彼らの音楽の進化や新たな試みを感じることができます。また、電気グルーヴの音楽を初めて聴く人にとっても、そのユニークなサウンドとエネルギーに触れる絶好の機会となるでしょう。
 
 
 #### Tracklist
@@ -30,7 +30,7 @@ B1. The Marble Men
 B2. Brazilian Cowboy
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m27644764690?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27644764690?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZdlQ2eQFi7k?si=UDcuioAGaBC4Z5-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

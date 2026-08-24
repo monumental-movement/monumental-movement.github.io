@@ -12,9 +12,9 @@ title: Various – King Britt Presents Black To The Future
 ---
 
 
-A compilation by King Britt, a key figure in the Philadelphia house scene.
+フィラデルフィアのハウスシーンのキーパーソンKing Britt（キング・ブリット）によるコンピレーション 。
 
-The first track on side A, The Society, is a project of composer/arranger/saxophonist Thomas Hass, a touring member of Senor Coconut.
+A面１曲目のThe Societyは、Senor Coconut （セニョール・ココナッツ）のツアー・メンバーであり、作曲家/編曲家/サックス奏者Thomas Hass（トーマス・ハス）のプロジェクト。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B2. Capitol A – Da'Bring Back
 B3. Yesterdays New Quintet – 18 And Untitled
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m69484096641?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69484096641?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1p8pzdBwvc?si=pveO8CQGK2LueCN6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

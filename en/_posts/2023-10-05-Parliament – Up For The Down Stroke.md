@@ -8,17 +8,17 @@ layout: post
 tags:
 - Funk
 - Soul
-title: Parliament – ​​Up For The Down Stroke
+title: Parliament – Up For The Down Stroke
 ---
 
 
-"Up for the Down Stroke" is Parliament's first studio album, and its sound is characterized by an energetic, danceable funk beat. The album is filled with groovy songs that incorporate elements of funk.
+「Up for the Down Stroke」は、パーラメントの初のスタジオアルバムであり、そのサウンドはエネルギッシュで踊りやすいファンクビートが特徴です。アルバムには、ファンクの要素を取り入れたグルーヴィーな楽曲が詰まっています。
 
-The title track "Up for the Down Stroke" is Parliament"s signature song, with its bright brass section, catchy bass line, and rhythmic drum beat. The song embodies the funky rhythms and positive energy that are hallmarks of Parliament"s sound.
+タイトル曲の「Up for the Down Stroke」は、パーラメントの代表曲であり、その鮮やかなブラスセクション、キャッチーなベースライン、リズミカルなドラムビートが印象的です。この曲は、パーラメントのサウンドの特徴であるファンキーなリズムとポジティブなエネルギーを体現しています。
 
-Other notable songs include "Testify" and "Presence of a Brain." These songs have some of the most vivid sounds and performances among Parliament's songs.
+他の注目曲には、「Testify」や「Presence of a Brain」などがあります。これらの曲はパーラメントの楽曲の中でも特に鮮やかなサウンドとパフォーマンスを展開しています。
 
-""Up for the Down Stroke'' gained widespread support from funk music enthusiasts due to its creativity and funk-infused sound.
+「Up for the Down Stroke」は、その創造性とファンクの要素を駆使したサウンドによって、ファンクミュージックの愛好家から広範な支持を得ました。
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ B3. Whatever Makes Baby Feel Good
 B4. Presence Of A Brain
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m93399645304?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93399645304?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/urhJ81E-Bog?si=_rOzNBT8epiTBMYF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

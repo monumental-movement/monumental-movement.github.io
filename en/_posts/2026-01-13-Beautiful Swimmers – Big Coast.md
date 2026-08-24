@@ -15,13 +15,13 @@ title: Beautiful Swimmers – Big Coast
 ---
 
 
-Beautiful Swimmers is a project by Andrew Field-Pickering and Ari Goldman.
+Beautiful Swimmers は、Andrew Field-PickeringとAri Goldmanによるプロジェクト。
 
-Andrew Field-Pickering is a producer/DJ from Washington, D.C., who also works under the names Dolo Percussion, Maxmillion Dunbar, and Vulture Voltaire. He is a co-founder of the independent label Future Times, and is involved in many releases as the label's central figure.
+Andrew Field-Pickeringは、Dolo Percussion, Maxmillion Dunbar, Vulture Voltaire名義でも活動する、アメリカ・ワシントンD.C.のプロデューサー／DJ。インディペンデントレーベル Future Times を共同設立者で、レーベルの中心人物として多数のリリースに関わっている。
 
-Ari Goldman is a Washington, D.C.-based DJ/producer and head of the label World Building.
+Ari Goldman はワシントンD.C. を拠点に活躍する DJ／プロデューサー、レーベルWorld Buildingの主宰。
 
-"Big Coast" is a Leftfield/House/Dub/New Beat/Disco track released by the label Future Times in 2010. (promo edition)
+「Big Coast」は、2010年にレーベルFuture Times からリリースされたLeftfield／House／Dub／New Beat／Discoトラック。(プロモ盤)
 
 #### Tracklist
 ```md

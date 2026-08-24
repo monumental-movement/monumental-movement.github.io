@@ -20,9 +20,9 @@ title: UNKLE – In A State
 
 
 
-"In a State" is a song by the British electronic music group UNKLE. This song is included in their album ""Psyence Fiction'' and is one of the tracks that received particular attention.
+「In a State」は、イギリスのエレクトロニック・ミュージック・グループであるUNKLE（アンクル）による楽曲です。この曲は、彼らのアルバム「Psyence Fiction」に収録されており、その中でも特に注目されたトラックの一つです。
 
-This remix by Sasha in particular is famous for its electronic music elements and unique rhythm.
+特にこのSashaによるリミックスは、エレクトロニック・ミュージックの要素と独特のリズムが特徴で有名なトラックです。
 
 UNKLE's songs are supported by a wide range of music fans, and they are one of the most popular bands, especially among electronic music lovers.
 
@@ -33,7 +33,7 @@ A. In A State (Sasha Remix)
 B. In A State (Album Version)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aZ7MLvaO2U?si=c90K8CISqlZW6PXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

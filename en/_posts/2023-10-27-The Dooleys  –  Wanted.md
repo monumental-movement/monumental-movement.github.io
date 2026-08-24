@@ -13,7 +13,7 @@ title: The Dooleys – Wanted
 ---
 
 
-The Dooleys were a mixed British pop group. At its peak, it had eight members, six of whom were members of the Dooley family.
+The Dooleys（ドゥーリーズ）は、イギリスの男女混合ポップグループでした。全盛期にはメンバーが8人で、そのうち6人はドゥーリー家の人々でした。
 
 From 1977 to 1981, they had several hits that topped the British charts, with "Wanted" reaching the top ten.
 

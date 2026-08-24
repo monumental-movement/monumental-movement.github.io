@@ -16,7 +16,7 @@ title: '[Column] From Joy Division to New Order: The evolution of Manchester sou
 
 ## Prologue: From Silence to a Sea of ​​Electronics — Manchester Dawn
 
-Text: mmr｜Theme: From Joy Division to New Order - A story of the transformation and rebirth of sound, from darkness to light, from solitude to the dance floor.
+Text: mmr | Theme: From Joy Division to New Order - A story of the transformation and rebirth of sound, from darkness to light, from solitude to the dance floor.
 
 
 In the late 1970s, the industrial city of Manchester was in the midst of devastation and stagnation. Rising unemployment, social unrest, and gray skies. Among them, Joy Division turned the despair of young people into sound with their inorganic beats and cold poetry. Ian Curtis's voice resonated as a symbol of the pain and loneliness of the times, opening the door to a new era of post-punk.
@@ -56,7 +56,7 @@ Kraftrock from Kraftwerk and Neu!, the cold, hard sounds of the Velvet Undergrou
 ### Chapter 2: Despair of Sound—The World of Joy Division
 
 **"Internal Sound"**
-Ian Curtis" lyrics depict self-alienation, social anxiety, and inner darkness. Songs such as ""Transmission" and ""She"s Lost Control" are masterpieces that overlap the solitude of the individual with the inorganic nature of the city.
+Ian Curtis" lyrics depict self-alienation, social anxiety, and inner darkness. Songs such as ""Transmission" and ""She"s Lost Control" are masterpieces that overlap the loneliness of the individual with the inorganic nature of the city.
 
 **"Production Innovation"**
 Producer Martin Hannett used recording techniques to pursue a spatial sound that was different from traditional rock music. The reverb on the drums and the three-dimensional placement of the bass were important elements that created the coldness and tension of Joy Division's sound.
@@ -68,7 +68,7 @@ Purchase on Amazon → [Unknown Pleasures](https://amzn.to/4h2l8BW)
 
 ---
 
-### Chapter 3: Individuality and Destiny—Ian Curtis's Conflict
+### Chapter 3: Individuality and Destiny—Ian Curtis' Conflict
 
 **"Darkness in the depths of the heart"**
 Curtis, who suffered from epilepsy and depression, spends his days torn between self-expression and his illness. While his symptoms affected his live performances, they also became a factor in deepening his musicality.
@@ -83,9 +83,9 @@ Purchase on Amazon → [Closer](https://amzn.to/48mYLF8)
 
 ---
 
-### Chapter 4: Rebuilding the Legacy—Transforming into a New Order
+### 第4章：遺産の再構築—New Orderへの変容
 
-**"Those left behind"**
+**"Those Who Left Behind"**
 After Curtis' death, the remaining members did not disband the band and instead sought a new direction. With Bernard Sumner on vocals, a more electronic and danceable musicality emerges.
 
 **"Fusion of synth and dance"**
@@ -119,18 +119,18 @@ Purchase on Amazon → [Movement](https://amzn.to/4mXprzN)
 With songs such as "Power, Corruption & Lies," "Low-Life," and "Technique," they further deepened their fusion of rock, synth, and dance. They experimented with different production techniques on each album, increasing their reception in clubs and on the radio.
 
 **"Fusion of video/design and sound"**
-Artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element that symbolically expressed the album"s content.
+The artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element to symbolically express the album"s content.
 
 **"Cooperation and friction between members"**
 The division of roles and clashing opinions between Sumner, Hook, Morris, and Gillian Gilbert create tension within the band as the music evolves. Friction also became a driving force for creativity.
 
-Purchase on Amazon → [Technique](https://amzn.to/4mREPgX)
+Amazonで購入 → [Technique](https://amzn.to/4mREPgX)
 
 ---
 
 ### Chapter 7: From Tragedy to Hope—Story of Music and Humanity
 
-**"Joy Division Influence"**
+**「Joy Divisionの影響」**  
 Joy Division's influence can be seen in many genres, including post-punk, gothic, and electronica. In particular, the method of expressing loneliness and urban coldness through music was inherited by many subsequent bands.
 
 **"The Universality of New Order"**
@@ -143,10 +143,10 @@ Purchase on Amazon → [Still](https://amzn.to/4mXpD1Z)
 
 ---
 
-### Chapter 8 (extra edition): Anecdotes, people, equipment, behind-the-scenes stories
+### Chapter 8 (extra edition): Anecdotes, people, equipment, inside stories
 
 **"Unreleased sound sources and rare tracks"**
-The BBC sessions and demo recordings include many famous songs that were not later made into albums. Excavation by fans continues even now.
+BBCセッションやデモ音源には、後にアルバム化されなかった名曲が多く含まれる。ファンによる発掘は今も続く。
 
 **"Live Improvisation and Accidents"**
 Equipment troubles and improvised arrangements during live performances also strengthen the band's expressive power. Their legendary live performance has become a topic of conversation among fans.
@@ -170,7 +170,7 @@ In other words, it was in the silence of Joy Division that the rhythm of New Ord
 
 The city of Manchester was a place for young people to find expression in the midst of economic devastation.
 Music recorded the emotions of the times more honestly than politics or religion.
-What supported that sound was a strange fusion of temperature, where technology envelopes human pain.
+And what supported that sound was a strange fusion of temperature, where technology envelopes human pain.
 Martin Hannett"s reverberation, Peter Saville"s design, Haçienda's lighting and architecture——
 All of these things came together to form a cultural area called the Manchester Sound.
 

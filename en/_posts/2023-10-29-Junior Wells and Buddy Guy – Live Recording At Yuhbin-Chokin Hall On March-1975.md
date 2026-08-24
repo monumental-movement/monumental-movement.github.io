@@ -13,11 +13,11 @@ title: Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On Marc
 ---
 
 
-This is a live recording by Junior Wells & Buddy Guy at the Postal Savings Hall.
+ジュニア・ウェルズ＆バディ・ガイによる郵便貯金ホールでのライブレコーディングです。
 
-Both Buddy and Junior demonstrate their skills as leaders and are fully active throughout the album.
+バディとジュニア2人ともリーダーとして腕を振るい、アルバム全体を通して存分に活躍。
 
-This 2-LP set is a must-see for blues fans.
+ブルース好きなら絶対に見逃せないLP2枚組です。
 
 
 #### Tracklist

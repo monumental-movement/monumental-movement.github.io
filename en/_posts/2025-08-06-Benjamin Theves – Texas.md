@@ -14,11 +14,11 @@ title: Benjamin Theves – Texas
 ---
 
 
-Benjamin Theves is an electronic artist/producer from France.
+Benjamin Thevesは、フランス出身のエレクトロニック・アーティスト／プロデューサー。
 
-"Texas" is a masterpiece from the mid-2000s that was played heavily at parties around the world, and is known as Benjamin Theves' debut and masterpiece.
+「Texas」は、世界中のパーティーでヘヴィプレイされた00年代中期の名作で、Benjamin Thevesのデビュー作&代表作として知られている。
 
-"Texas" was released in 2005 as the first release on Patrick Alavi"s Roxour label. The B-side is a Patrick Alavi remix version known as "ReroX". Patrick Alavi"s style is a mix of Funk/House/electronic.
+「Texas」は、2005年にPatrick Alavi 主宰のレーベルRoxourの第一弾としてリリースされた。B面は、『ReroX 』として知られるPatrick Alavi のremix版。Patrick Alavi は、Funk／House／electronicをmixしたスタイルが特徴。
 
 
 #### Tracklist
@@ -32,7 +32,7 @@ Other Side
 B. Texas (Patrick Alavi Rerox)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m37264590127?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37264590127?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ugvwjgl1FM?si=KnNa1x33ybDtd0Ej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

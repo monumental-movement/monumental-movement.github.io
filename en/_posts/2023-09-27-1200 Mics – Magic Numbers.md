@@ -8,13 +8,13 @@ layout: post
 tags:
 - Trance
 - Psychedelic
-title: 1200 Mic"s – Magic Numbers
+title: 1200 Mic's – Magic Numbers
 ---
 
 
-1200 Mic's – Magic Numbers is an album by the electronic music group 1200 Micrograms. This album was released in 2009.
+「1200 Mic's – Magic Numbers」は、エレクトロニックミュージックのグループである1200 Micrograms（1200マイクログラムス）のアルバムです。このアルバムは、2009年にリリースされました。
 
-"Magic Numbers" is 1200 Micrograms' third studio album and features their psychedelic trance and full-on sound. Their music has become popular in electronic music scenes such as dances and festivals.
+「Magic Numbers」は、1200 Microgramsの3枚目のスタジオアルバムであり、彼らのサイケデリックトランスやフルオンサウンドを特徴としています。彼らの音楽は、踊りやフェスティバルなどのエレクトロニックミュージックのシーンで人気を博しています。
 
 #### Tracklist
 ```md

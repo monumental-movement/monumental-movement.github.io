@@ -14,9 +14,9 @@ title: The Peacocks – Touch And Go
 ---
 
 
-The Peacocks are a rockabilly band formed in Switzerland in 1990. They have toured not only in Europe but also all over the world, including the United States, Canada, and Japan.
+The Peacocksは、1990年にスイスで結成されたロカビリーバンド。ヨーロッパだけでなく、アメリカ、カナダ、日本など世界中でツアーをおこなっている。
 
-"Touch And Go" is a psychobilly-punk-rockabilly album released in 2007 by the German label People Like You Records.
+「Touch And Go」は、 2007年にドイツのレーベルPeople Like You Recordsからリリースされたサイコビリー・パンク・ロカビリーアルバム。
 
 #### Tracklist
 ```md
@@ -38,7 +38,7 @@ The Peacocks are a rockabilly band formed in Switzerland in 1990. They have tour
 16. Next Room Sleeping
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0EMCdC7FDd0?si=9UtihdPQr5OA7g1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

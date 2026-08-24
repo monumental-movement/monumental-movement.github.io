@@ -12,11 +12,11 @@ title: Culture Beat – No Deeper Meaning
 ---
 
 
-"No Deeper Meaning" was recorded by Jay Supreme and Nosie Katzmann's German Eurodance band Culture Beat and released as the fourth and final single from their first studio album, Horizon (1991).
+「No Deeper Meaning」は、Jay SupremeとNosie KatzmannによるドイツのユーロダンスバンドCulture Beatによって録音され、彼らの最初のスタジオアルバムである「Horizon」（1991年）からの4番目で最後のシングルとしてリリース。
 
-The female vocals were provided by Lana Earl and reached number 4 in the Netherlands and number 9 in Portugal. Outside Europe, it ranked 3rd on Canada's RPM Dance/Urban chart.
+女性のボーカルはLana Earlが担当し、オランダで4位、ポルトガルで9位に達しました。ヨーロッパ外では、カナダのRPM Dance/Urbanチャートで3位にランクイン。
 
-The song is about a woman who doesn't want to go to a nightclub and start a relationship, she just wants to dance. The chorus samples the 1983 song "Change" by the British rock group Tears for Fears.
+この曲は、ナイトクラブに行って恋愛関係を始めたくない女性について歌っており、彼女は単に踊りたいだけです。サビ部分は、イギリスのロックグループTears for Fearsの1983年の曲「Change」をサンプリングしています。
 
 #### Tracklist
 ```md

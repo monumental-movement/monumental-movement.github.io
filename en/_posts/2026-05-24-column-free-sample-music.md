@@ -10,21 +10,20 @@ tags:
 - Hip Hop
 - Vaporwave
 - EDM
-title: '[Column] Free sample culture and the democratization of contemporary music
-  production'
+title: 【コラム】 フリーサンプル文化と現代音楽制作の民主化
 ---
 
 
 ## Introduction
 
-Text: mmr｜Theme: Music production, which once required expensive equipment and specialized knowledge, has changed into a creation that anyone can participate in thanks to free sample culture. Tracing the history of that revolution
+文：mmr｜テーマ：かつて高価な機材と専門知識が必要だった音楽制作は、フリーサンプル文化によって誰でも参加できる創作へと変化した。その革命の歴史を辿る
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -32,36 +31,36 @@ color: #fff;
 }
 </style>
 
-Music production has long been an "equipment industry."
+音楽制作は、長いあいだ「設備産業」だった。
 
 I needed money to rent a studio.
-I needed a recorder.
-I needed a mixer.
+レコーダーが必要だった。
+ミキサーが必要だった。
 I needed a synthesizer.
 
-The act of making records in the 1970s and 1980s was a much more closed world than it is today.
+1970年代や1980年代にレコードを作るという行為は、現在より遥かに閉じられた世界だったのである。
 
-However, the situation has changed dramatically since the beginning of the 21st century.
+However, the situation has changed significantly since the beginning of the 21st century.
 
-One laptop.
-Free DAW.
-Sample taken from the internet.
+ノートPC一台。
+無料DAW。
+ネットから拾ったサンプル。
 Tutorial I saw on YouTube.
 
-The time has come when you can send music all over the world with just this.
+これだけで世界中に音楽を発信できる時代がやってきた。
 
-At the center of this was the ""free sample culture.''
+その中心にあったのが「フリーサンプル文化」だった。
 
 Kick.
-Snare.
-808.
-Lo-fi Vinyl Noise.
+Snare。
+808。
+Lo-fi Vinyl Noise。
 Ambient Texture.
-Jungle Break.
+Jungle Break。
 Anime Voice.
-Field recording.
+Field Recording。
 
-"Sound materials" that originally required paid studios and expensive equipment began to be shared on the Internet, suddenly opening up the possibility of music production.
+本来は有料スタジオや高価な機材が必要だった“音の素材”が、インターネット上で共有され始めたことで、音楽制作は一気に開かれた。
 
 As a result, many modern music genres such as Hip Hop, EDM, Bedroom Pop, Lo-fi Hip Hop, Hyperpop, Vaporwave, etc. expanded rapidly.
 
@@ -69,42 +68,42 @@ More importantly, free sample culture did not end with simply "sharing materials
 
 It changed the way music was made.
 
-It changed the definition of a musician.
+ミュージシャンの定義を変えた。
 
-And he rewrote the very concept of ""who can make music.''
+そして「誰が音楽を作れるのか」という概念そのものを書き換えたのである。
 
 <div class="mermaid">
 graph TD
-A[era of expensive equipment] --> B[Popularization of samplers]
-B --> C[Generalization of PC production]
+A[高価な機材時代] --> B[サンプラー普及]
+B --> C[PC制作の一般化]
 C --> D[free sample culture]
-D --> E[Bedroom producers are rapidly increasing]
-E --> F[Democratizing music production]
-F --> G[Music spread in the SNS era]
+D --> E[Bedroom Producer急増]
+E --> F[音楽制作の民主化]
+F --> G[SNS時代の音楽拡散]
 </div>
 
-> The free sample culture was not just a matter of sharing materials, but a revolution that opened up the "entrance to music production itself."
+> フリーサンプル文化は、単なる素材共有ではなく「音楽制作の入口そのもの」を解放した革命だった。
 
 
 ---
 
-## Origin of sampling culture
+## サンプリング文化の起源
 
-### "Sound reuse" started with tape editing
+### テープ編集から始まった「音の再利用」
 
 The origins of sampling culture date back to before Hip Hop.
 
 In the 1940s and 1950s, electronic music and musique concrète composers cut and pasted tape to reconstruct sounds.
 
-At this point, the idea of ​​treating recorded sounds as ""performance materials'' already existed.
+録音された音を「演奏素材」として扱う考え方は、この時点ですでに存在していたのである。
 
-environmental sounds.
-train sounds.
+環境音。
+列車の音。
 city ​​noise.
-radio.
-conversation.
+ラジオ。
+会話。
 
-These became not just records, but ""components of music.''
+それらは単なる記録ではなく、「音楽の部品」へと変化していった。
 
 Eventually, in the 1960s and 1970s, a tape editing culture developed in dub and experimental music fields.
 
@@ -115,7 +114,7 @@ Add echo,
 Extract the rhythm,
 Rebuild.
 
-This was also the prototype of the later Remix culture.
+これは後のRemix文化の原型でもあった。
 
 <div class="mermaid">
 timeline
@@ -130,7 +129,7 @@ timeline
 
 ### Hip Hop popularized sampling
 
-Hip Hop was the biggest force in pushing sampling into mainstream culture.
+サンプリングを一般カルチャーへ押し上げた最大の存在はHip Hopだった。
 
 The DJs use two funk and soul records and start looping the breaks.
 
@@ -140,13 +139,13 @@ Particularly famous is "Amen Break."
 
 The drum performance, which was cut out for just a few seconds from the 1969 song, influenced subsequent Hip Hop, Jungle, Drum & Bass, Breakcore, and even game music.
 
-In other words, drums lasting just a few seconds continued to be reused all over the world.
+つまり、数秒のドラムが世界中で再利用され続けたのである。
 
 In the late 1980s, samplers such as the Akai MPC and E-mu SP-1200 appeared, and sampling culture expanded explosively.
 
-However, the equipment at that time was expensive.
+しかし当時の機材は高価だった。
 
-In other words, although the sampling culture of this era was the ""gateway to democratization,'' it had not yet been fully opened.
+つまりこの時代のサンプリング文化は、「民主化の入口」でありながら、まだ完全には開放されていなかった。
 
 > Sampling changed from a ""technique for reusing sounds" to a ""new creative method."
 
@@ -154,7 +153,7 @@ In other words, although the sampling culture of this era was the ""gateway to d
 
 ## The arrival of the DAW era
 
-### Your computer becomes a studio
+### パソコンがスタジオになる
 
 From the late 1990s to the 2000s, the structure of music production changed dramatically.
 
@@ -164,7 +163,7 @@ Cubase.
 FL Studio.
 Logic.
 Pro Tools.
-Ableton Live.
+Ableton Live。
 
 Work that previously required huge equipment can now be completed within a PC.
 
@@ -172,7 +171,7 @@ recording.
 edit.
 mix.
 Mastering.
-sampling.
+サンプリング。
 
 Everything was becoming software.
 
@@ -182,9 +181,9 @@ Cheap.
 lightweight.
 Intuitive.
 
-Furthermore, it has spread widely among young people.
+さらに若年層に広く浸透した。
 
-Many of the Hip Hop beatmakers and SoundCloud generation got their start with FL Studio.
+Many Hip Hop beatmakers and the SoundCloud generation got their start with FL Studio.
 
 <div class="mermaid">
 flowchart TD
@@ -192,58 +191,58 @@ A[tape recorder] --> B[MTR]
 B --> C[hardware sampler]
 C --> D[DAW]
 D --> E[laptop production]
-E --> F[cloud sharing]
+E --> F[クラウド共有]
 </div>
 
-### VST culture accelerated music production
+### VST文化が音楽制作を加速した
 
-VST culture expanded at the same time as DAWs became popular.
+DAW普及と同時に拡大したのがVST文化だった。
 
 VST is a system that allows you to add software sound sources and effects.
 
 This allows you to add an unlimited number of instruments inside your PC.
 
-Moreover, a large amount of free distribution will begin.
+しかも無料配布が大量に始まる。
 
 Free synth.
 free drum.
 Free reverb.
 Free compressor.
 
-Sound that once cost hundreds of thousands of yen is now available for free.
+かつて数十万円した音が、無料で入手可能になった。
 
-What is important here is that "free = low quality" no longer exists.
+ここで重要なのは、「無料＝低品質」ではなくなった点である。
 
 Especially since the 2010s, professional quality free VSTs have rapidly increased.
 
-As a result, the gap in equipment between beginners and professionals is rapidly shrinking.
+結果として、初心者とプロの機材格差が急速に縮小していく。
 
 > The spread of DAW and VST has suddenly collapsed the ""price difference in music production environments''.
 
 ---
 
-## Explosion of free sample culture
+## フリーサンプル文化の爆発
 
-### The Internet has liberated sound materials
+### インターネットが音素材を解放した
 
-Since the late 2000s, the music production community has rapidly moved online.
+2000年代後半から、音楽制作コミュニティは急激にオンライン化する。
 
-YouTube.
-Reddit.
-SoundCloud.
-Discord.
+YouTube。
+Reddit。
+SoundCloud。
+Discord。
 forum culture.
 
-A large number of samples began to be shared there.
+そこでは大量のサンプルが共有され始めた。
 
-808 Pack.
-Lo-fi Drum Kit.
+808 Pack。
+Lo-fi Drum Kit。
 Vinyl Texture.
 Foley Pack.
 Nature Sound.
 Trap Hi-hat Collection.
 
-Sample sharing has become commonplace, especially in the Hip Hop and EDM communities.
+特にHip HopとEDMコミュニティでは、サンプル共有が日常化する。
 
 "You can use this drum."
 "Please listen to this pad sound."
@@ -253,69 +252,69 @@ This type of culture was difficult to imagine in the traditional music industry.
 
 This is because in the past, "sound" itself was a product.
 
-But the Internet generation is different.
+しかしインターネット世代は違った。
 
 Sharing will increase your popularity.
 The community expands.
-A collaboration is born.
+コラボが生まれる。
 
-In other words, ""distribution'' has become a new value.
+つまり「配布」が新しい価値になったのである。
 
 <div class="mermaid">
 graph TD
-A[Sharing sound materials] --> B[Beginner entry]
+A[音素材共有] --> B[Beginner entry]
 B --> C[community building]
 C --> D[Increase in production population]
-D --> E[Genre subdivision]
-E --> F[Birth of a new culture]
+D --> E[ジャンル細分化]
+E --> F[新カルチャー誕生]
 </div>
 
-### Cloud-based production after Splice
+### Splice以降のクラウド型制作
 
 Sample sharing will become even bigger in the late 2010s.
 
 This is the emergence of a cloud-based sample service.
 
-Search for the sound you want,
+必要な音を検索し、
 Download it now and
 Insert into DAW.
 
-This trend dramatically changed the speed of production.
+この流れは制作速度を劇的に変えた。
 
-Even environmental sounds that once required recording techniques can now be used immediately.
+かつては録音技術が必要だった環境音ですら、すぐ使えるようになった。
 
-More importantly, we have entered an era in which the same materials are shared all over the world.
+さらに重要なのは、「同じ素材を世界中が共有する時代」が来たことだ。
 
-As a result, genre boundaries rapidly become blurred.
+その結果、ジャンルの境界が急速に曖昧になる。
 
 Brazilian funk rhythm.
-UK Garage drums.
+UK Garageのドラム。
 K-Pop synth.
-Jersey Club kick.
+Jersey Clubキック。
 
 Nowadays, these are mixed by one Bedroom Producer.
 
-> Free sample culture was also a device for rapidly mixing musical elements from around the world.
+> フリーサンプル文化は、世界中の音楽要素を高速で混ぜ合わせる装置でもあった。
 
 ---
 
-## Era of Bedroom Producer
+## Bedroom Producerの時代
 
-### From your room to the world
+### 自室から世界へ
 
-The biggest change in free sample culture was the proliferation of "Bedroom Producers."
+フリーサンプル文化最大の変化は、「Bedroom Producer」の急増だった。
 
 Made in my own room.
 Headphone production.
-Notebook PC production.
+ノートPC制作。
 
-These are no longer special.
+これらはもはや特殊ではなくなった。
 
 YouTube and SoundCloud were especially important.
 
 In the traditional music industry,
 
-Label contract.
+レーベル契約。
 Studio recording.
 Distribution company.
 CD production.
@@ -324,7 +323,7 @@ This process was necessary.
 
 However, in the internet era,
 
-make.
+作る。
 Up.
 It will be spread.
 
@@ -334,28 +333,28 @@ At the center of its production was a culture of free samples.
 
 ### Lo-fi Hip Hop Expansion
 
-Lo-fi Hip Hop was extremely compatible with free sample culture.
+Lo-fi Hip Hopは、フリーサンプル文化と極めて相性が良かった。
 
-noise.
+ノイズ。
 record crackle.
 old drum.
 jazz sample.
 
 For these, the ""atmosphere'' was more important than advanced recording equipment.
 
-Moreover, Lo-fi has turned "imperfection" into charm.
+さらにLo-fiは“不完全さ”を魅力に変えた。
 
-There is noise.
-It's distorted.
+ノイズがある。
+歪んでいる。
 The pitch is off.
 
 It still holds true.
 
-Rather, it becomes a taste.
+むしろそれが味になる。
 
 This shift in values ​​was huge.
 
-This was because the idea that ""the more expensive the equipment, the better the sound'' began to waver.
+「高価な機材ほど良い音」という価値観が揺らぎ始めたからである。
 
 <div class="mermaid">
 mindmap
@@ -369,20 +368,20 @@ mindmap
     Cloud Rap
 </div>
 
-> The Bedroom Producer culture has increasingly prioritized ""individuality" over ""professional quality."
+> Bedroom Producer文化は、“プロ品質”より“個性”を優先する流れを強めていった。
 
 ---
 
 ## YouTube and tutorial revolution
 
-### YouTube taught before school
+### 学校より先にYouTubeが教えた
 
-In the past, music production required vocational school and experience in the field.
+かつて音楽制作は、専門学校や現場経験が必要だった。
 
-However, since the 2010s, many young people have started learning about production on YouTube.
+しかし2010年代以降、多くの若者はYouTubeで制作を学ぶようになる。
 
 "How to make a trap"
-"How to mix vocals"
+「How to mix vocals」
 "Lo-fi tutorial"
 "Hyperpop beat tutorial"
 
@@ -390,65 +389,65 @@ If you search, you'll find endless results.
 
 And it's free.
 
-The changes that have taken place here are significant.
+ここで起きた変化は大きい。
 
 Production techniques are no longer "secret".
 
-Video has democratized knowledge that was previously known only to engineers and producers.
+以前はエンジニアやプロデューサーだけが知っていた知識が、動画によって一般化された。
 
 ### Template sharing culture
 
 Even more important was template sharing.
 
-Ableton Template.
+Ableton Template。
 FLP File.
-Project File.
+Project File。
 
 In other words, even the structure of the songs themselves began to be shared.
 
 Beginners can learn by looking at the finished product.
 
-This was extremely educational.
+これは極めて教育効果が高かった。
 
-In traditional music education,
+従来の音楽教育では、
 
-Learn theory.
+理論を学ぶ。
 practice an instrument.
 Learn to record.
 
-That was the order.
+という順番だった。
 
 However, the internet generation was the opposite.
 
 Make it first.
-imitate.
-Disassemble.
-Understand from there.
+真似する。
+分解する。
+そこから理解する。
 
-This ""practice-first'' type of learning led to an explosive increase in the number of people producing music.
+This ""practical-first'' type of learning led to an explosive increase in the number of people producing music.
 
-> Music education in the YouTube era has changed from "learning and then creating" to "learning while creating."
+> YouTube時代の音楽教育は、“学んでから作る”ではなく“作りながら学ぶ”へ変化した。
 
 ---
 
-## SoundCloud era and genre collapse
+## SoundCloud時代とジャンル崩壊
 
 ### DIY music explosion
 
-SoundCloud wasn't just a posting site.
+SoundCloudは単なる投稿サイトではなかった。
 
 It was a genre testing ground.
 
 wrap.
-noise.
+ノイズ。
 EDM.
 Emo.
-Ambient.
+アンビエント。
 Anime sample.
 
 Everything starts to mix together.
 
-A large number of ""unfinished experiments'' that were difficult to occur in the traditional label-driven format were released.
+従来のレーベル主導型では起こりにくかった「未完成な実験」が大量に公開された。
 
 This was extremely important.
 
@@ -456,19 +455,19 @@ This is because much of contemporary music is born from this "experimental space
 
 ### Hyperpop and sample feeling
 
-Hyperpop represented a post-sample culture sensibility.
+Hyperpopは、サンプル文化以後の感覚を象徴していた。
 
-Fast editing.
+高速編集。
 Extreme pitch changes.
-Fragmentary composition.
+断片的構成。
 Internet meme sensation.
 
-This is completely different from traditional band culture.
+これは従来のバンド文化とは全く異なる。
 
-From "Recorded Complete Performance"
-This is because "reconstruction through editing" is the main focus.
+「録音された完成演奏」より、
+「編集による再構築」が中心だからである。
 
-In other words, the sense of sampling permeated the entire genre.
+つまりサンプリング感覚が、ジャンル全体へ浸透したのである。
 
 <div class="mermaid">
 graph TD
@@ -492,7 +491,7 @@ The expansion of sample culture has also led to an expansion of copyright issues
 
 Particularly in the history of Hip Hop, there have been many lawsuits over unauthorized sampling.
 
-Since the 1990s, major labels have tightened sample clearance.
+1990年代以降、大手レーベルはサンプルクリアランスを厳格化した。
 
 As a result,
 
@@ -500,137 +499,137 @@ Sampling famous songs = more expensive
 
 This situation arises.
 
-This was a big hurdle for indie creators.
+This was a big barrier for indie creators.
 
-### Free samples were also "legal materials"
+### フリーサンプルは「合法素材」でもあった
 
-That's why royalty-free materials have become so important.
+だからこそ、ロイヤリティフリー素材の重要性が増した。
 
 In other words, free sample culture is
 
-cheap
-convenience
-For beginners
+安い
+便利
+初心者向け
 
-Not just that.
+だけではない。
 
 It played a major role in making it ""legal and easy to use.''
 
-This has made it possible for even small-scale creators to publish their works with peace of mind.
+これによって小規模制作者でも安心して作品公開が可能になった。
 
-However, the problem has not completely disappeared.
+ただし問題が完全に消えたわけではない。
 
-Redistribution of sample packs.
-AI generated sound source.
-Copyright boundaries.
+サンプルパックの再配布。
+AI生成音源。
+著作権境界。
 
 The debate continues even today.
 
-> While free sample culture has expanded creative freedom, it has also created new copyright issues.
+> フリーサンプル文化は、創作自由度を広げる一方で、新しい著作権問題も生み出した。
 
 ---
 
-## Music production in the SNS era
+## SNS時代の音楽制作
 
 ### Music structure after TikTok
 
 In the TikTok era, the structure of music production will change further.
 
-Short length.
-Immediate effect.
-Impressive intro.
+短尺。
+即効性。
+印象的イントロ。
 
 These structures will become more important.
 
-As a result, sample culture accelerates further.
+その結果、サンプル文化はさらに加速する。
 
-To make a strong impression in a short time,
+短時間で強い印象を作るには、
 This is because sounds that instantly evoke existing sensations are effective.
 
-for example,
+例えば、
 
-2000's style synth.
-Y2K drum.
-game sound.
-Anime voice.
+2000年代風シンセ。
+Y2Kドラム。
+ゲーム音。
+アニメボイス。
 
-These materials tend to be associated with internet memes.
+こうした素材はネットミームと結びつきやすい。
 
-### Music as a meme
+### ミームとしての音楽
 
-In modern times, songs are not only ""songs," but also ""sharable fragments."
+現代では、楽曲は「曲」である以前に「共有可能な断片」でもある。
 
-8 seconds.
+8秒。
 15 seconds.
 30 seconds.
 
-The fragments will be spread.
+その断片が拡散される。
 
-In other words, sample culture was extremely compatible with SNS culture.
+つまりサンプル文化は、SNS文化とも極めて相性が良かった。
 
-Music is not just "long pieces";
+音楽が「長い作品」だけではなく、
 This brings us closer to ""editable materials.''
 
 <div class="mermaid">
 flowchart TD
-A[sample culture] --> B[SNS spread]
+A[sample culture] --> B[SNS拡散]
 B --> C[short video]
-C --> D[meme]
-D --> E[Re-edit]
-E --> F[Rediffusion]
+C --> D[ミーム化]
+D --> E[再編集]
+E --> F[再拡散]
 </div>
 
-> In the age of social media, music is increasingly consumed as ""fragments that can be easily spread" rather than ""finished works."
+> SNS時代の音楽は、“完成作品”より“拡散されやすい断片”として消費される場面が増えた。
 
 ---
 
 ## The future of the AI ​​era and sample culture
 
-### Introducing AI-generated sound sources
+### AI生成音源の登場
 
 Currently, sample culture is beginning to advance to a new stage.
 
-It is an AI-generated sound source.
+AI生成音源である。
 
-drum.
-Synth.
-vocal.
+ドラム。
+シンセ。
+ボーカル。
 environmental sounds.
 
-AI is now able to generate these.
+これらをAIが生成可能になってきた。
 
-In other words, it's not just about "using pre-recorded material";
+つまり「録音済み素材を使う」だけではなく、
 The era of ""generating the necessary materials'' has begun.
 
-### The next stage of democratization
+### 民主化の次の段階
 
 The democratization of music production is likely to progress further in the future.
 
 But at the same time, there are problems.
 
-Anyone can make it.
-Can be made in large quantities.
+誰でも作れる。
+大量に作れる。
 AI can also be created.
 
 Then, this time,
 
-"What should I make?"
-"Why make it?"
+「何を作るか」
+「なぜ作るか」
 
-is becoming increasingly important.
+の重要性が増していく。
 
 This is an interesting change.
 
 As a result of the disappearance of technological barriers,
-This is because "individuality" and "ideology" become more important.
+“個性”や“思想”がより重要になるからだ。
 
 <div class="mermaid">
 graph TD
-A[expensive recording equipment] --> B[DAW popularization]
-B --> C[free sample]
-C --> D[SNS era]
-D --> E[AI generation]
-E --> F[Era of super mass production]
+A[高価な録音機材] --> B[DAW popularization]
+B --> C[フリーサンプル]
+C --> D[SNS時代]
+D --> E[AI生成]
+E --> F[超大量制作時代]
 F --> G[Importance of individuality]
 </div>
 
@@ -643,14 +642,14 @@ F --> G[Importance of individuality]
 | Years | Events |
 |---|---|
 | 1940s | Tape editing experiments begin |
-| 1950s | Development of musique concrète |
+| 1950年代 | ミュージック・コンクレート発展 |
 | 1970s | Dub culture expands |
-| 1980s | Popularization of Hip Hop sampling |
+| 1980年代 | Hip Hopサンプリング普及 |
 | 1988 | Akai MPC60 introduced |
 | 1990s | DAW spread begins |
 | 2000s | YouTube and SoundCloud expansion |
-| 2010s | Free sample culture explosion |
-| 2020s | AI-generated sound sources begin to spread |
+| 2010年代 | フリーサンプル文化爆発 |
+| 2020年代 | AI生成音源が普及開始 |
 
 ---
 
@@ -658,35 +657,35 @@ F --> G[Importance of individuality]
 
 Free sample culture is not simply a story of ""making sound free.''
 
-it is,
-Expanding the entrance to music production,
+それは、
+音楽制作の入口を広げ、
 change education,
-Change the distribution,
+流通を変え、
 change the genre,
 And he changed the very definition of a musician.
 
 Music production used to be the domain of only those with the equipment and capital.
 
-But now,
-students from local cities,
+しかし現在では、
+地方都市の学生、
 Creator at home,
 An anonymous internet user
 It is not uncommon for them to create worldwide hits.
 
 And in the background,
-shared culture,
+共有文化、
 DIY spirit,
-internet community,
-And there was a free sample culture.
+インターネットコミュニティ、
+そしてフリーサンプル文化が存在していた。
 
 Contemporary music has entered an era in which we don't know who will make it.
 
-That"s why it"s interesting.
+だからこそ面白い。
 
-What is the democratization of music production?
-It's not just that they can be made cheaply.
+音楽制作の民主化とは、
+単に安く作れるようになったことではない。
 
-This means that the protagonists of creation have been dispersed all over the world.
+創作の主役が、世界中へ分散したことなのである。
 
 > Free sample culture has changed music production from a ""world of special talent" to ""a creative space where anyone can participate."
 

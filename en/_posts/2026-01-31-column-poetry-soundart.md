@@ -11,19 +11,18 @@ tags:
 - Sound Art
 - Spoken Word
 - Experimental
-title: '[Column] Poetry reading and sound art: A history of expression where voice,
-  space, and time intersect'
+title: 【コラム】 ポエトリーリーディングとサウンドアート──声・空間・時間が交差する表現史
 ---
 
 
 
 ## Prologue: The moment when words become sounds
 
-Text: mmr｜Theme: Tracing the history of the evolution of poetry and sound expression since the 20th century, which was born from the combination of voice and words with sound.
+文：mmr｜テーマ：声と言葉が音響と結びつくことで生まれた、20世紀以降の詩とサウンド表現の進化史をたどる
 
-Poetry reading and sound art are both often talked about as ""expressions received by the ears.'' However, when one stands at the intersection of the two, what emerges is not just recitation or music, but a unique experience that involves time and space. The voice not only carries meaning, but also takes on texture, rhythm, and physicality, and sound is freed from melody and harmony and expanded into the environment itself. In this liminal area, poetry has been transformed into an auditory art.
+ポエトリーリーディングとサウンドアートは、どちらも「耳で受け取る表現」として語られることが多い。しかし両者の交差点に立つとき、そこに現れるのは単なる朗読でも音楽でもない、時間と空間を巻き込んだ独特の体験である。声は意味を運ぶだけでなく、質感やリズム、身体性を帯び、音は旋律や和声から解放されて環境そのものへと拡張される。その境界領域で、詩は聴覚芸術へと変貌してきた。
 
-> Knowing the relationship between poetry reading and sound art leads to understanding how the boundaries between words and sounds have been shaken.
+> ポエトリーリーディングとサウンドアートの関係を知ることは、言葉と音の境界がどのように揺らいできたかを理解することにつながる。
 
 
 ---
@@ -33,7 +32,7 @@ Poetry reading and sound art are both often talked about as ""expressions receiv
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -44,155 +43,155 @@ color: #fff;
 
 ## The history of voice begins with poetry reading
 
-### Poetry before letters
+### 文字以前の詩
 
-Poetry was originally something that was ""spoken'' before it was written. In ancient Greek epics, Japanese storytelling, and African oral poetry, poetry existed alongside voices, conveying communal memories with melodies and rhythms. Meaning and sound were inseparable, and the voice itself was the medium.
+詩は本来、書かれる前に「語られる」ものだった。古代ギリシャの叙事詩や、日本の語り物、アフリカの口承詩において、詩は声とともに存在し、旋律やリズムを伴って共同体の記憶を伝えていた。意味と音は不可分であり、声そのものがメディアだった。
 
-### Separation of modern poetry and recitation
+### 近代詩と朗読の分離
 
-With the spread of printing technology, poetry became fixed on paper, and the act of reading shifted to a visual center. From the 19th century to the early 20th century, the recitation of poetry became secondary, and works increasingly tended to be evaluated as texts. However, readings by the poets themselves continued, and the importance of the voice was never completely lost.
+印刷技術の普及によって詩は紙の上に固定され、読む行為は視覚中心へと移行する。19世紀から20世紀初頭にかけて、詩の朗読は副次的なものとなり、作品はテキストとして評価される傾向が強まった。それでも詩人自身による朗読会は続き、声の重要性は完全には失われなかった。
 
-> Even in the era when poetry was established on paper, the voice continued to be another place for poetry.
+> 詩が紙に定着した時代でも、声は詩のもう一つの居場所であり続けた。
 
 ---
 
-## 20th century avant-garde art and the liberation of voice
+## 20世紀前衛芸術と声の解放
 
-### Dada and audio poetry
+### ダダと音声詩
 
 The Dada movement, born during World War I, rejected meaning and logic and brought sound itself to the fore. Hugo Ball's audio poetry is known for his attempts to break down words into syllables and treat the voice like an instrument. Here, poetry no longer became a means of conveying meaning, but a sound phenomenon itself.
 
-### Futurism and noise
+### 未来派とノイズ
 
-Italian Futurism brought mechanical and urban noise into art. Their recitation performances emphasize shouts, onomatopoeia, and rhythm, blurring the boundaries between poetry, music, and noise.
+イタリア未来派は機械音や都市の騒音を芸術へと持ち込んだ。彼らの朗読パフォーマンスでは、叫びや擬音、リズムが重視され、詩と音楽、ノイズの境界が曖昧になっていく。
 
-> The avant-garde liberated the voice from meaning and rediscovered it as sound.
+> 前衛芸術は、声を意味から解放し、音として再発見した。
 
 ---
 
-## Revolution in magnetic tape and recording technology
+## 磁気テープと録音技術の革命
 
-### The idea of ​​cutting and pasting voices
+### 声を切り貼りするという発想
 
-In the mid-20th century, the advent of magnetic tape fundamentally changed the way voices were handled. The reading is not a one-time event, but material that can be edited. Techniques such as cut-ups, loops, and reverse rotations brought a new timeline to poetic expression.
+20世紀半ば、磁気テープの登場は声の扱い方を根本から変えた。朗読は一度きりの出来事ではなく、編集可能な素材となる。カットアップ、ループ、逆回転といった技法が、詩の表現に新たな時間軸をもたらした。
 
-### Connection with Musique Concrete
+### ミュジーク・コンクレートとの接点
 
 Musique concrète, which uses environmental and everyday sounds as its materials, also influenced poets and readers. Voices are placed as part of the environmental sounds and become elements that compose the space, regardless of their meaning.
 
-> Recording technology has transformed voices into material in time and space.
+> 録音技術は、声を時間と空間の素材へと変換した。
 
 ---
 
-## Beat poets and performances
+## ビート詩人とパフォーマンス
 
-### Jazz and reading
+### ジャズと朗読
 
 The Beat Generation of the 1950s brought poetry back to voice and body. A reading at a jazz club becomes a place where improvisation and poetry intersect, creating a living relationship between rhythm and words.
 
-### Poetry as a recording work
+### 録音作品としての詩
 
-Beat poets recorded their readings and released them on records. As a result, the recitation will have independent value as an acoustic work rather than a reproduction of a live performance.
+ビート詩人たちは朗読を録音し、レコードとして発表した。これにより、朗読はライブの再現ではなく、音響作品として独立した価値を持つようになる。
 
-> Poetry has once again become something to be heard and is on the same playing field as music.
-
----
-
-## Establishment of sound art
-
-### Deviation from music
-
-Since the 1960s, sound art has moved away from the framework of music and has become a form of expression that emphasizes space and the environment. In works developed in galleries and public spaces, the sound changes depending on the movement of the viewer and the passage of time.
-
-### Voice rearrangement
-
-In sound art, the voice separates from the subjectivity of the narrator and becomes a material placed in space. Through multi-channel playback and installations, the voice has become an acoustic object with a sense of direction and distance.
-
-> Sound art has expanded the voice into a spatial entity.
+> 詩は再び聴かれるものとなり、音楽と同じ土俵に立った。
 
 ---
 
-## The intersection of poetry reading and sound art
+## サウンドアートの成立
+
+### 音楽からの逸脱
+
+1960年代以降、サウンドアートは音楽の枠組みから距離を取り、空間や環境を重視する表現として成立した。ギャラリーや公共空間で展開される作品では、音は鑑賞者の移動や時間経過によって変化する。
+
+### 声の再配置
+
+サウンドアートにおいて声は、語り手の主体性を離れ、空間に配置される素材となる。多チャンネル再生やインスタレーションによって、声は方向性や距離感を持つ音響オブジェクトとなった。
+
+> サウンドアートは、声を空間的な存在へと拡張した。
+
+---
+
+## ポエトリーリーディングとサウンドアートの交差
 
 ### Expanding collaboration
 
-Collaboration between poets and sound artists began to be seen all over the world from the 1980s onwards. The recitation was incorporated as part of the acoustic environment, and both improvisation and structure were pursued at the same time.
+詩人とサウンドアーティストの協働は、1980年代以降、各地で見られるようになる。朗読は音響環境の一部として組み込まれ、即興性と構造性が同時に追求された。
 
-### Cross-media expression
+### メディア横断的表現
 
-Poetry and sound traverse multiple media through forms such as installation, radio art, and performance. The audience experiences the acts of ""reading," ""listening," and ""walking'' at the same time.
+インスタレーション、ラジオアート、パフォーマンスといった形式を通じて、詩と音は複数のメディアを横断する。聴衆は「読む」「聴く」「歩く」という行為を同時に経験する。
 
-> Works created at intersections create a holistic experience that includes the viewer's body.
-
----
-
-## Voices and algorithms in the digital age
-
-### Digital processing and voice
-
-Digital technology has made it possible to transform and generate voices in real time. Pitch shifting, granular processing, voice synthesis using AI, etc. expand the expressive realm of poetry.
-
-### Networks and distributed reading
-
-With online distribution and network-based works, readings are not tied to a specific location. There are also an increasing number of cases in which voices emanating from multiple locations compose a single work.
-
-> The digital environment has become a space for dispersing and reintegrating voices.
+> 交差点に生まれた作品は、鑑賞者の身体を含めた総体的な体験を生む。
 
 ---
 
-## Chronology Poetry Reading and Sound Art
+## デジタル時代の声とアルゴリズム
+
+### デジタル処理と声
+
+デジタル技術は、声をリアルタイムで変形・生成することを可能にした。ピッチシフト、グラニュラー処理、AIによる音声合成などが、詩の表現領域を拡張する。
+
+### ネットワークと分散的朗読
+
+オンライン配信やネットワーク型作品では、朗読は特定の場所に縛られない。複数の場所から発せられる声が一つの作品を構成する例も増えている。
+
+> デジタル環境は、声を分散しながら再統合する場となった。
+
+---
+
+## 年表　ポエトリーリーディングとサウンドアート
 
 <div class="mermaid">
 graph LR
-A[ancient oral poetry] --> B[Printing of modern poetry]
-B --> C[1910s Dada audio poetry]
+A[古代 口承詩] --> B[近代 詩の印刷化]
+B --> C[1910s ダダ音声詩]
 C --> D[1950s beat reading]
-D --> E[1960s Sound art established]
-E --> F[1980s Poetry x Sound Collaboration]
-F --> G[2000s digital reading]
+D --> E[1960s サウンドアート成立]
+E --> F[1980s 詩×音響コラボ]
+F --> G[2000s デジタル朗読]
 </div>
 
->Throughout history, voices and sounds have repeatedly been separated and reconnected.
+> 歴史を通じて、声と音は分離と再接続を繰り返してきた。
 
 ---
 
-## Structural diagram Relationship between voice, sound, and space
+## 構造図　声・音・空間の関係
 
 <div class="mermaid">
 graph TD
 V[Voice] -->|meaning| P[Poetry]
-V -->|texture| S[Sound]
+V -->|質感| S[Sound]
 S --> A[Art Space]
 P --> A
 </div>
 
-> Poetry reading and sound art share a structure centered around the voice.
+> ポエトリーリーディングとサウンドアートは、声を中心にした構造を共有している。
 
 ---
 
 ## Expansion Chapter 1 Reorganization of Radio Art and Recitation
 
-### Voice as a broadcast media
+### 放送メディアとしての声
 
-Radio is a medium that has greatly changed the relationship between poetry reading and sound art. In a radio space without visual information, voices and sounds are the only elements that make up the world. The recitation of poetry was combined with background sounds and sound effects, and transformed into an act of creating space through the listener's imagination.
+Radio is a medium that has greatly changed the relationship between poetry reading and sound art. In a radio space without visual information, voices and sounds are the only elements that make up the world. Poetry reading was combined with background sounds and sound effects, and transformed into an act of creating space through the listener's imagination.
 
-### Program structure and time art
+### 番組構造と時間芸術
 
 In radio works, the broadcast time itself becomes the structure. Poetry was redefined as a temporal art by stringing together several minute-long poetic fragments to form a single flow.
 
-> Radio has become a testing ground for launching the world with just voice and sound.
+> ラジオは、声と音だけで世界を立ち上げる実験場となった。
 
 ---
 
 ## Expanded Chapter 2 Physicality and Performance
 
-### The body that gives voice
+### 声を発する身体
 
 Poetry reading is an expression that makes one strongly aware of the existence of not only the voice but also the body. Breathing, posture, and movement influence the quality of the voice, and recitation is also linked to visual performance.
 
 ### The importance of improvisation
 
-When collaborating with sound art, improvisational vocalizations and reactions are often more important than fixed texts. Poetry becomes a process generated on the spot rather than a finished work.
+サウンドアートとの共演では、事前に固定されたテキストよりも、即興的な発声や反応が重視されることが多い。詩は完成された作品というより、その場で生成されるプロセスとなる。
 
 > Improvisation, including the body, creates a tension between poetry and sound.
 
@@ -200,25 +199,25 @@ When collaborating with sound art, improvisational vocalizations and reactions a
 
 ## Expanded Chapter 3 Language Barriers and Multilingual Reading
 
-### A voice that transcends meaning
+### 意味を超える声
 
 Reading aloud in different languages ​​foregrounds the rhythm and intonation of the voice, while the understanding of meaning becomes partial. This has a high affinity with audio poetry and sound art.
 
-### Multicultural space
+### 多文化的空間
 
-A sound installation using multilingual reading creates a space where multiple cultural backgrounds resonate simultaneously. The listener engages with the work as an acoustic experience, even without fully understanding its meaning.
+多言語朗読を用いたサウンドインスタレーションでは、複数の文化的背景が同時に響く空間が生まれる。聴取者は意味を完全に理解せずとも、音響体験として作品に関わる。
 
 > Multilingualism brings the voice closer to pure sound.
 
 ---
 
-## Expansion Chapter 4 Records and Archives
+## 拡張章4　記録とアーカイブ
 
-### One-time problem
+### 一回性の問題
 
-A reading performance is essentially a one-time event. Audio recordings and videos are records of that, not perfect reproductions.
+朗読パフォーマンスは本質的に一回性を持つ。録音や映像はその記録であり、完全な再現ではない。
 
-### Sound as an archive
+### アーカイブとしての音
 
 Still, audio archives are an important source of information about the history of poetry and sound art. By listening to and comparing voices from different eras, changes in expression become clear.
 
@@ -226,25 +225,25 @@ Still, audio archives are an important source of information about the history o
 
 ---
 
-## Expanded Chapter 5 Education and Workshops
+## 拡張章5　教育とワークショップ
 
-### Reading as a practice
+### 実践としての朗読
 
-Poetry reading and sound art have been used as creative education methods in educational settings and workshops. Improvisation and recording editing using the voice lower the barrier to expression.
+教育現場やワークショップでは、ポエトリーリーディングとサウンドアートが創作教育の手法として用いられてきた。声を使った即興や録音編集は、表現の敷居を下げる。
 
-### Possibilities of collective production
+### 集団制作の可能性
 
-Reading and sound production by multiple people creates a collaborative creation that is different from individual poetry production.
+複数人による朗読と音響制作は、個人の詩作とは異なる協働的創造を生む。
 
 > Educational spaces are hotbeds of experimental expression.
 
 ---
 
-## Final chapter: Current location of listening poems
+## 終章　聴く詩の現在地
 
-The fusion of poetry reading and sound art is not limited to a specific genre. It has been constantly updated and changed along with technology and the social environment. While the voice conveys meaning, it also shapes the space as sound. Through the act of listening, we witness the rich realm that extends between words and sounds.
+ポエトリーリーディングとサウンドアートの融合は、特定のジャンルに回収されるものではない。それは常に更新され、技術や社会環境とともに姿を変えてきた。声は意味を語りながら、同時に音として空間を形づくる。聴くという行為を通じて、私たちは言葉と音のあいだに広がる豊かな領域に立ち会っている。
 
-> The intersection of poetry and sound will continue to create new auditory experiences.
+> 詩と音の交差は、これからも新しい聴覚体験を生み続けるだろう。
 
 ---
 

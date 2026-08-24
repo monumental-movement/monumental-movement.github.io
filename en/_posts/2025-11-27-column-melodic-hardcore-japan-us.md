@@ -9,7 +9,7 @@ tags:
 - Melodic Hardcore
 - Hardcore
 - Punk
-title: '[Column] Detailed history of melodic hardcore in Japan and America'
+title: 【コラム】 日本とアメリカのメロディック・ハードコアの詳細史
 ---
 
 
@@ -24,8 +24,8 @@ It combines the fast and aggressive rhythms of hardcore with catchy melodies and
 
 Features:
 - Songs are short and complete in about 2 to 3 minutes
-- Guitar and bass with a melody line in mind
-- Lyrics with social, political and personal themes
+- メロディラインを意識したギター・ベース
+- 社会的・政治的・個人的テーマの歌詞
 - Emphasis on DIY spirit and live house culture
 
 This genre influenced not only America but also Japan and Europe, and began to develop in its own way.
@@ -50,14 +50,14 @@ color: #fff;
 
 ### 2.1 Early Pioneers
 
-#### Descendents (formed in 1978)
+#### Descendents (1978結成)
 - 1979 "Milo Goes to College" released
 - Build the foundation of pop and melodic hardcore
 - Features: short songs, catchy choruses, personal lyrics
 - Representative songs: "Myage", "Suburban Home"
 
 #### Bad Religion (formed in 1980)
-- Melocore was completed in 1988 with "Suffer"
+- 1988年『Suffer』でメロコア完成形
 - Features intelligent lyrics and three-part chorus
 - Became a symbol of American West Coast melocore in the 90s
 - Representative songs: "Do What You Want", "American Jesus"
@@ -86,10 +86,10 @@ flowchart TD
 ### 2.2 Major development in the 1990s
 
 - With the success of Green Day"s ""Dookie" (1994) and The Offspring"s ""Smash" (1994), Melocore gained commercial recognition.
-- International distribution of Fat Wreck Chords, an indie label by Epitaph Records
+- Fat Wreck Chords、Epitaph Recordsによるインディーレーベルの国際的流通
 - Album analysis:
 - Green Day "Dookie": Melody-driven, retains punk energy
-- NOFX "Punk in Drublic": Social satire, balance of melody and speed
+  - NOFX『Punk in Drublic』: 社会風刺、メロディとスピードのバランス
 
 ### 2.3 American Melocore Live Culture
 - Performance on Warped Tour (1995-)
@@ -98,39 +98,39 @@ flowchart TD
 
 ---
 
-## 3. History of Japanese Melocore
+## 3. 日本のメロコア史
 
-### 3.1 Early Japanese Melocore
+### 3.1 初期の日本メロコア
 
 #### Hi-Standard (formed in 1991)
 - Created a boom in Japan with ""Growing Up'' in 1995
-- Signed with Fat Wreck Chords in 1997, successfully toured America and gained international acclaim.
+- 1997年Fat Wreck Chordsと契約、アメリカツアーを成功させ国際的評価を獲得
 - Features: Short and fast songs, pop melodies, youthful lyrics
-- Representative songs: "Stay Gold", "Summer of Love"
+- 代表曲：”Stay Gold”, ”Summer of Love”
 
 #### ELLEGARDEN (formed in 1998)
 - Influenced by melocore America, skillfully uses Japanese and English in lyrics
 - Increased popularity with major debut album "Bring Your Board!!" (2001)
 - Representative songs: "Marry Me", "My Favorite Song"
 
-#### BRAHMAN (formed in 1995)
-- Intermediate existence between hardcore and merocore
-- Passion and philosophical lyrics unique to Japan
+#### BRAHMAN (1995結成)
+- Intermediate between hardcore and merocore
+- 日本特有の情念と哲学的歌詞
 - Representative songs: "The Silent Cry", "A Man of Spirit"
 
 ---
 
 ### 3.2 Japanese melocore scene and labels
-- Pizza of Death Records: Activities centered on Hi-Standard
-- Regular performances at small live houses
+- Pizza of Death Records: Hi-Standardを中心とした活動
+- 小規模ライブハウスでの定期公演
 - Young bands (TOTALFAT, SHANK) are active in Japan and abroad
 
 <div class="mermaid">
 flowchart TD
-    A[1991 Hi-Standard formed] --> B[1995 Hi-Standard: Growing Popularity]
+    A[1991 Hi-Standard結成] --> B[1995 Hi-Standard: Growing Popularity]
     B --> C[1997: Japanese Melodic HC Boom]
     C --> D[2000s ELLEGARDEN, BRAHMAN]
-    D --> E[Modern Melocore TOTALFAT, SHANK]
+    D --> E[現代メロコア TOTALFAT, SHANK]
 </div>
 
 ---
@@ -141,8 +141,8 @@ flowchart TD
 
 | Year | Event | Band/Album |
 |----|----------|----------------|
-| 1978 | Punk Explosion | Dead Kennedys, Black Flag |
-| 1981 | Descendents formed | — |
+| 1978 | Punk爆発 | Dead Kennedys, Black Flag |
+| 1981 | Descendents結成 | — |
 | 1988 | "Suffer" released | Bad Religion |
 | 1991 | "Ribbed" | NOFX |
 | 1994 | Punk Revival | Green Day, The Offspring |
@@ -159,7 +159,7 @@ flowchart TD
 | 1995 | "Growing Up" | Hi-Standard |
 | 1997 | Japanese melocore boom | ELLEGARDEN formed |
 | 1998 | Hi-Standard American Tour | Fat Wreck Chords Contract |
-| 2001 | Major debut | ELLEGARDEN "Bring Your Board!!" |
+| 2001 | メジャーデビュー | ELLEGARDEN 『Bring Your Board!!』 |
 
 ---
 
@@ -176,7 +176,7 @@ flowchart TD
 
 ## 6. International exchange and influence of Melocore
 
-- Hi-Standard overseas tour and Fat Wreck Chords contract
+- Hi-Standardの海外ツアーとFat Wreck Chords契約
 - Japanese bands participate in American festivals (Warped Tour, etc.)
 - International exchange through SNS and YouTube in the Internet era
 - Influence on young bands: TOTALFAT, SHANK, dustbox
@@ -186,13 +186,13 @@ flowchart TD
 ## 7. Melocore subgenres and evolution
 
 - Fusion with pop punk
-- Screamo melocore (A Day to Remember, etc.)
-- In Japan, emphasis is placed on melody while maintaining youthful/everyday lyrics.
+- スクリーモ・メロコア（A Day to Rememberなど）
+- 日本では青春・日常系の歌詞を保持しつつメロディ重視
 - In America, political messages and powerful live performances are the focus
 
 ---
 
-## 8. Social impact
+## 8. 社会的影響
 
 - Penetration into youth culture (fashion/lifestyle)
 - Inheriting the DIY spirit and live house culture
@@ -212,7 +212,7 @@ The scenes in both countries will continue to influence each other and be passed
 
 <div class="mermaid">
 graph LR
-    A[US Melodic Hardcore] --> B[Impact on Japanese Melocore]
+    A[US Melodic Hardcore] --> B[日本メロコアへの影響]
     B --> C[Hi-Standard, ELLEGARDEN]
     A --> D[Fat Wreck Chords, NOFX]
     D --> C

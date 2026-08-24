@@ -28,12 +28,12 @@ Text: mmr｜Theme: Cultural relationship between Initial D and Eurobeat
 
 From the late 1990s to the 2000s, a Japanese anime fundamentally changed the way Eurobeat music was viewed and listened to. That work is "Initial D." Why are street racing manga and anime set in mountain passes so strongly connected to high-speed dance music from Europe?
 
-In this column, we explore the cultural relationship between [Initial D](https://amzn.to/4mv0g7t) and Eurobeat from the perspectives of media history, music history, and subculture.
+このコラムでは、[『頭文字D』](https://amzn.to/4mv0g7t)とユーロビートの文化的関係を、メディア史、音楽史、そしてサブカルチャーの視点からひもとく。
 
 
 <hr>
 
-### The story of the mountain pass and the spirit
+### A story of mountain passes and spirits
 "Initial D" is a manga work by Shuichi Shigeno that has been serialized in "Weekly Young Magazine" since 1995. The story takes place on a mountain pass in Gunma Prefecture, and the main character, Takumi Fujiwara, learns drifting skills while delivering tofu in his father's AE86 (Toyota Sprinter Trueno), and gradually awakens as a runner.
 
 It was made into an anime in 1998 and became a hot topic for its CG-based 3D car action and high-tempo music.
@@ -92,7 +92,7 @@ Many young people were introduced to Eurobeat for the first time through ""Initi
 
 Eurobeat has been redefined by Initial D as ["music for running"](https://amzn.to/3IoqA5e). Race, drift, acceleration, competition, thrill - all keywords are now included in the sound.
 
-● 3. Memeization and spread to internet culture
+● 3. Meme化とインターネット文化への拡散
 
 Songs such as ["Deja Vu"](https://amzn.to/3KiOkYW) have spread as meme material and are connected to the Internet and pop culture.
 Eurobeat is being reinterpreted in new ways on TikTok and MAD videos.
@@ -110,10 +110,10 @@ While Eurobeat is music that speaks of speed, it has also become a medium that t
 
 <hr>
 
-### The memory of speed will never fade
+### The memory of speed will never disappear
 ""Initial D'' has ended, but the memories of Eurobeat are still running around on the internet. Even if the race is over, each time the music is played, the race begins again.
 
-It is also a reliving experience of our own "youth" and "impulses."
+それは、私たち自身の“若さ”や“衝動”の追体験でもある。
 Even now, whenever I hear that sound, my heart twists.
 
 ---

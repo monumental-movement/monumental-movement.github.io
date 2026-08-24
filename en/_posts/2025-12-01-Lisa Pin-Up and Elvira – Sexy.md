@@ -13,13 +13,13 @@ title: Lisa Pin-Up & Elvira – Sexy
 ---
 
 
-Lisa Pin-Up (Lisa Chilcott) is a British hard house DJ/producer. She is also a member of the Hard House/Nu NRG act Tidy Girls.
+Lisa Pin-Up (Lisa Chilcott)は、イギリスのハードハウス DJ／プロデューサー。Hard House/Nu NRGアクトTidy Girlsのメンバーとしても活動している。
 
-Porl Young, also known as Elvira, is a UK producer/DJ. In the mid-90s, he was a member of the UK gothic rock band Rosetta Stone.
+ElviraことPorl Youngは、UKのプロデューサー／DJ。90年代中頃は、UKのgothic rockバンドRosetta Stoneのメンバーとして活動していた。
 
-"Sexy" is a Hard House track released by the Rock Hard Recordings label in 2000.
+「Sexy」は2000年レーベルRock Hard RecordingsからリリースされたHard Houseトラック。
 
-B is a remix by Belgian electronic music producer Fred Baker's solo under the name Frenchtek/jumpstyle.
+Bは、ベルギーのエレクトロニックミュージックプロデューサーFred BakerのFrenchtek/jumpstyle 名義soloによるremix。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ A. Sexy
 B. Harmonica Track (Solo Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m30215321040?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30215321040?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VpCVGNZXLzU?si=wd_a94aeNW05iuBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

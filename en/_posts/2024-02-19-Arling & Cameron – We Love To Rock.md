@@ -13,11 +13,11 @@ title: Arling & Cameron – We Love To Rock
 ---
 
 
-Arling & Cameron is a Dutch electronic music duo consisting of Gerry Arling and Richard Cameron.
+Arling & Cameron（アーリン&キャメロン）は、Gerry ArlingとRichard Cameronによるオランダのエレクトロニックミュージックデュオ。
 
-Arling & Cameron have collaborated with Pizzicato Five and Cornelius, and have incorporated elements of French pop, lounge, '70s light rock, and Shibuya-kei, as well as rap, dance, and more modern electropop.
+Arling & Cameronは、ピチカート・ファイヴやコーネリアスとコラボレーションするなど、フレンチポップ、ラウンジ、70 年代のライトロック、渋谷系からラップやダンス、よりモダンなエレクトロポップの要素も取り入れている。
 
-The second song on side A of "We Love To Rock" is a remix by Cornelius.
+「We Love To Rock」のA面２曲目はCornelius（コーネリアス）によるremix。
 
 #### Tracklist
 ```md

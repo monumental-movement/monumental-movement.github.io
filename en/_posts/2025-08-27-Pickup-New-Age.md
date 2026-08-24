@@ -8,7 +8,7 @@ layout: post
 tags:
 - New Age
 - Relaxation
-title: Pick up New Age works
+title: New Age(ニューエイジ)作品をピックアップ
 ---
 
 
@@ -19,10 +19,10 @@ title: Pick up New Age works
 ### Schawkie Roth – Dance Of The Tao
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-Characteristics: Schawkie Roth is a composer specializing in healing, meditation, relaxation music and acoustic jazz, and is considered one of the pioneers of New Age spiritual music.
+特徴：Schawkie Rothは、ヒーリング・瞑想・リラクゼーション音楽やアコースティックジャズを専門とする作曲家で、ニューエイジ・スピリチュアル音楽の先駆者の一人とされています。
 
 
-Charm: A fusion of Eastern philosophy and Western music, this piece is perfect for meditation and relaxation.
+魅力：東洋的な哲学と西洋の音楽が融合した、瞑想やリラクゼーションに最適な作品です。 
 
 #### Tracklist
 ```md
@@ -36,7 +36,7 @@ B3. Dance of Bamboo
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -49,9 +49,9 @@ B3. Dance of Bamboo
 <a href="https://jp.mercari.com/item/m31252450219?afid=6142608987"><img src="../assets/images/Fumio%20Miyashita%20-%20Meisou.webp"></a>
 
 
-Features: A work by Tomio Miyashita, a musician, music therapist, and synthesizer player from Nagano Prefecture.
+特徴：長野県出身の音楽家・ミュージックセラピスト・シンセサイザー奏者である宮下富実夫による作品です。
 
-Appeal: Featuring synthesizer tones that promote deep meditative states, suitable for mind and body relaxation.
+魅力：深い瞑想状態を促進するシンセサイザーの音色が特徴で、心身のリラクゼーションに適しています。 
 
 #### Tracklist
 ```md
@@ -61,7 +61,7 @@ Appeal: Featuring synthesizer tones that promote deep meditative states, suitabl
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -73,10 +73,10 @@ Appeal: Featuring synthesizer tones that promote deep meditative states, suitabl
 <a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></a>
 
 
-Features: Kitaro played keyboards as a member of the Japanese progressive rock band "Far East Family Band" in the early 1970s, and later developed a solo career.
+特徴：喜多郎は、1970年代初頭日本のプログレッシブ・ロックバンド「ファー・イースト・ファミリー・バンド」のメンバーとしてキーボードを担当し、後にソロ活動を展開しました。
 
 
-Appeal: A fantastic sound world that uses synthesizers spreads out, providing comfortable relaxation.
+魅力：シンセサイザーを駆使した幻想的な音世界が広がり、心地よいリラクゼーションを提供します。 
 
 #### Tracklist
 ```md
@@ -94,7 +94,7 @@ B5. Astral Trip
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -106,9 +106,9 @@ B5. Astral Trip
 ### Patrick Bernhardt – Atlantis Angelis
 <a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.webp"></a>
 
-Features: This is an album by Patrick Bernhardt released by the Canadian label "Imagine Records". A fantastic sound world that fuses ambient and new age elements opens up.
+特徴：カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムです。アンビエントとニューエイジの要素を融合させた幻想的な音世界が広がります。
 
-Appeal: Featuring synthesizer tones that promote deep meditative states, suitable for mind and body relaxation.
+魅力：深い瞑想状態を促進するシンセサイザーの音色が特徴で、心身のリラクゼーションに適しています。
 
 #### Tracklist
 ```md
@@ -125,7 +125,7 @@ B3. Transcendastral Voyage
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -138,10 +138,10 @@ B3. Transcendastral Voyage
 <a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
 
-Features: A work by American jazz percussionist and producer Stephen Reed.
+特徴：アメリカのジャズパーカッショニスト＆プロデューサーであるスティーヴン・リードによる作品です。
 
 
-Charm: Spiritual music that incorporates elements of jazz, making you feel one with nature.
+魅力：ジャズの要素を取り入れたスピリチュアルな音楽で、自然との一体感を感じさせる作品です。 
 
 
 #### Tracklist
@@ -159,7 +159,7 @@ Charm: Spiritual music that incorporates elements of jazz, making you feel one w
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -168,12 +168,12 @@ Charm: Spiritual music that incorporates elements of jazz, making you feel one w
 <br>
 
 
-### Tony O"Connor – Hidden Forest
+### Tony O'Connor – Hidden Forest
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.webp"></a>
 
-Features: A 1996 double LP by Australian ambient/relaxation music creator Tony O'Connor.
+特徴：オーストラリアのアンビエント／リラクゼーションミュージッククリエーター、Tony O'Connorによる1996年リリースの2枚組LPです。
 
-Appeal: The harmonious combination of natural sounds and synthesizers provides a soothing space that feels like taking a forest bath.
+魅力：自然音とシンセサイザーの調和が心地よく、森林浴をしているかのような癒しの空間を提供します。
 
 #### Tracklist
 ```md
@@ -187,7 +187,7 @@ Appeal: The harmonious combination of natural sounds and synthesizers provides a
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -198,9 +198,9 @@ Appeal: The harmonious combination of natural sounds and synthesizers provides a
 ### Deep Forest – Deep Forest
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
-Features: An album released in 1992 by the French duo Deep Forest. It is characterized by a world music style that mixes ethnic, electronic, dance beats, and chillout beats.
+特徴：フランスのデュオDeep Forestによる1992年リリースのアルバムです。エスニック、エレクトロニック、ダンス・ビート、チルアウト・ビートをミックスしたワールド・ミュージックのスタイルが特徴です。
 
-Appeal: Sounds that incorporate a variety of ethnic music will take you on a journey through different cultures.
+魅力：多様な民族音楽を取り入れたサウンドが、異文化の旅へと誘います。
 
 #### Tracklist
 ```md
@@ -217,7 +217,7 @@ Appeal: Sounds that incorporate a variety of ethnic music will take you on a jou
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
 #### Youtube

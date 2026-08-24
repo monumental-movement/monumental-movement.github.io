@@ -13,13 +13,13 @@ title: Simone Fedi – Belzebu Tales
 ---
 
 
-Simone Fedi is an Italian musician and producer.
+Simone Fediは、イタリアのミュージシャン・プロデューサー。
 
-He is also a member of the Italian electro-disco funk project Out Of City.
+イタリアのエレクトロ・ディスコ・ファンクプロジェクトOut Of Cityのメンバーとしても活動している。
 
-"Belzebù Tales" is a disco track released in 2007 by the prestigious label Eskimo.
+「Belzebù Tales」は、名門レーベルEskimo（エスキモー）から2007年にリリースされたディスコトラック。
 
-This record is Simone Fedi's signature work, which was a worldwide hit and reviewed by Tiga, Lindstrom, Aeroplane, Jason Eldredge, Low Motion Disco, Munk (Gomma), Serge (Clone), Zak Frost, Piccadilly Records, Phonica Records, etc.
+このレコードは、Tiga、Lindstrom、Aeroplane、Jason Eldredge、Low Motion Disco、Munk (Gomma)、Serge (Clone)、Zak Frost、Piccadilly Records、Phonica Records などからレビューされ、世界的にヒットしたSimone Fediの代表作。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ B1. Judas!
 B2. 2m/6ft
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XngQEonoK-E?si=UoALFHyv3mxe3SFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

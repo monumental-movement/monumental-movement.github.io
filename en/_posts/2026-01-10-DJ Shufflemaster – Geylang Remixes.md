@@ -14,13 +14,13 @@ title: DJ Shufflemaster – Geylang Remixes
 ---
 
 
-Tatsuya Kanamori, also known as DJ Shufflemaster, is a DJ who has been leading Japanese techno since the mid-1990s. He co-founded Subvoice Records with Hideo Sakuma, and has since run his own labels HOUSEDUST and Shiki Kyokai.
+DJ Shufflemaster ことTatsuya Kanamori(金森達也)は、1990年代半ばからジャパニーズテクノを牽引してきたDJ。佐久間英夫と共にSubvoiceレコードを立ち上げ、その後自身のレーベルHOUSEDUSTや四季協会を運営している。
 
-"Geylang Remixes" is a Tribal/Dub Techno/Minimal track released in 2001 on the Japanese label Subvoice Electronic Music.
+「Geylang Remixes」は、日本のレーベルSubvoice Electronic Musicから2001年にリリースしたTribal ／Dub Techno ／ Minimalトラック。
 
-A1 is a remix by UK techno legend Ben Sims.
+A1は、UKのテクノレジェンドBen Simsによるリミックス。
 
-B2 is a remix by Sender Berlin, a DJ/producer group from the Tresor area.
+B2は、Tresor(トレゾア)界隈のDJ/プロデューサー集団Sender Berlinによるリミックス。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ B1. Geylang (Sender Berlin Mix)
 B2. Geylang (Shufflemaster Housedust Dub Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m66056717069?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66056717069?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZfGT3EtdFkM?si=kCG6opv-YFEyfiws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

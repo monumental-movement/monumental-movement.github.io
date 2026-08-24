@@ -9,24 +9,23 @@ layout: post
 tags:
 - Siren
 - Sound
-title: '[Column] Why do sirens differ from country to country?—Design philosophy for
-  warning sounds created by sound environment and social structure'
+title: 【コラム】 サイレンはなぜ国によって違うのか——音環境と社会構造がつくる警告音の設計思想
 ---
 
 
 
-## The sound of sirens is "culture"
+## サイレンの音は「文化」である
 
-Text: mmr｜Theme: The siren sounds of each country are not just differences in volume, but are the product of design ideas that are closely linked to living environments, travel distance, and music culture.
+文：mmr｜テーマ：各国のサイレン音は単なる音量差ではなく、生活環境・移動距離・音楽文化と密接に結びついた設計思想の産物である
 
 
-A siren sounds somewhere in the city. The sound is not just a warning of an emergency situation, but is actually a ""designed sound"' that reflects the country"s lifestyle and sound environment. It's no coincidence that the volume, frequency, and pattern of sirens vary from country to country. This is because the assumptions about where and how people listen to sound are different.
+都市のどこかで鳴り響くサイレン。その音は緊急事態を知らせる単なる警告ではなく、実はその国の生活スタイルや音環境を反映した「設計された音」である。国ごとにサイレンの音量や周波数、パターンが異なるのは偶然ではない。人々がどこで、どのように音を聞いているのかという前提が違うからだ。
 
-For example, in Japan, many people live in relatively compact urban structures, and it is common to walk or use public transportation to get around. On the other hand, in a vast country like the United States, long journeys by car are commonplace, and the closed space inside the car is one of the main sources of daily noise.
+例えば、日本では比較的コンパクトな都市構造の中で生活している人が多く、徒歩や公共交通機関での移動も一般的である。一方で、アメリカのように国土が広大な国では、自動車での長時間移動が日常的であり、車内という密閉空間が主要な生活音環境の一つになる。
 
-This difference has a direct impact on siren design.
+この違いが、サイレンの設計に直接影響している。
 
-> A siren is not just a warning sound, but a sound that reaches people and is designed to be optimized for the human living environment.
+> サイレンは単なる警告音ではなく、人間の生活環境に最適化された「届く音」の設計である。
 
 ---
 
@@ -35,7 +34,7 @@ This difference has a direct impact on siren design.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -44,214 +43,214 @@ color: #fff;
 </style>
 
 
-## "How you hear" cannot be explained with just digitized bells
+## デジベルだけでは語れない「聞こえ方」
 
-When talking about siren performance, we tend to focus on the "volume (decibel)", but in reality, that alone is not enough. What matters is "in what environment" and "how it sounds."
+サイレンの性能を語る際、「音量（デジベル）」に注目しがちだが、実際にはそれだけでは不十分だ。重要なのは「どの環境で」「どのように聞こえるか」である。
 
-Generally speaking, emergency vehicle sirens have a sound pressure of approximately 100 to 120 decibels. However, this value is only an outdoor standard. In actual living spaces, the following factors greatly affect the arrival of sound.
+一般的に緊急車両のサイレンは、おおよそ100〜120デシベル程度の音圧を持つとされる。しかし、この数値はあくまで屋外での基準に過ぎない。実際の生活空間では以下のような要因が音の到達を大きく左右する。
 
-・Sound insulation performance inside the car
-・Car audio volume
+・車内の遮音性能
+・カーオーディオの音量
 ・Housing insulation and soundproofing structure
-・City noise level
+・都市の騒音レベル
 ・Reflection of road shapes and buildings
 
-Particularly in recent years, cars are highly sound insulated, and in regions where there is a culture of playing music at high volume inside the car, the siren may be drowned out by a simple volume.
+特に近年の自動車は遮音性が高く、さらに車内で音楽を大音量で再生する文化がある地域では、単純な音量ではサイレンが埋もれてしまう可能性がある。
 
-For this reason, sirens are not just a loud sound, but are designed to be a sound that penetrates the environment.
+そのため、サイレンは単なる「大きな音」ではなく、「環境を突き抜ける音」として設計されている。
 
-> The essence of a siren is not its volume, but its design, which allows it to be perceived above environmental noise.
+> サイレンの本質は音量ではなく、環境ノイズを超えて知覚される設計にある。
 
 ---
 
 ## Long-distance migration and music culture in America
 
-In the United States, the distances between cities are extremely long, and transportation by automobile is central to life. It is not uncommon for people to drive for more than an hour to commute or travel. As a result, the interior of a car has developed not just as a space for transportation, but also as a space for enjoying music.
+In the United States, the distances between cities are extremely long, and transportation by automobile is the center of life. It is not uncommon for people to drive for more than an hour to commute or travel. As a result, the interior of a car has developed not just as a space for transportation, but also as a space for enjoying music.
 
-Car audio culture is very strong, and it is common to play music at high volumes. This is also due to the prevalence of music genres that emphasize bass and treble, such as hip-hop and rock.
+カーオーディオ文化は非常に強く、大音量で音楽を再生することも一般的である。ヒップホップやロックなど、低音や高音が強調された音楽ジャンルが広く浸透していることも影響している。
 
-In such an environment, it is difficult to notice with a normal, monotonous warning sound. Therefore, American sirens have the following characteristics:
+このような環境では、通常の単調な警告音では気づかれにくい。そのため、アメリカのサイレンは以下のような特徴を持つ。
 
--Very high volume
+・音量が非常に高い
 - Frequency changes (Vienna, Yoop, etc.)
 ・Rhythmically modulating
-・Designed to give a sense of direction
+・方向感を持たせる設計
 
-This allows it to be instantly recognized by drivers without getting lost in the music.
+これにより、音楽の中でも埋もれず、ドライバーに即座に認識される。
 
-> A culture of long driving hours and loud music has led to the evolution of sirens with more aggressive and varied sounds.
+> 長時間運転と大音量音楽の文化が、サイレンをより攻撃的で変化のある音へと進化させた。
 
 ---
 
 ## Japanese city structure and siren optimization
 
-On the other hand, Japan's cities are relatively dense, roads are narrow, and there are many pedestrians and bicycles. For this reason, the importance of sirens is placed on ""recognition at close range" and ""consideration of the surroundings" rather than reaching long distances.
+一方、日本では都市が比較的密集しており、道路幅も狭く、歩行者や自転車も多い。そのため、サイレンは遠距離への到達よりも「近距離での認識」と「周囲への配慮」が重視される。
 
-Additionally, because Japanese homes are densely packed, excessive volume has a large impact on the living environment. As a result, Japanese sirens have the following characteristics.
+また、日本の住宅は密集しているため、過度な音量は生活環境への影響が大きい。その結果、日本のサイレンは以下のような特徴を持つ。
 
-・Relatively quiet volume
-・Regular and easy-to-understand patterns
-・Use of audio announcements
-・Night volume control
+・比較的穏やかな音量
+・規則的で分かりやすいパターン
+・音声アナウンスの併用
+・夜間の音量制御
 
-Furthermore, sounds such as "An ambulance is passing by" have the role of helping people understand the situation even in environments where visual information is difficult to obtain.
+さらに「救急車が通ります」といった音声は、視覚情報が得にくい環境でも状況を理解させる役割を持つ。
 
-> Japanese sirens are ""sounds that make people understand'' that are optimized with consideration to urban density and the living environment.
+> 日本のサイレンは、都市密度と生活環境への配慮の中で最適化された「理解させる音」である。
 
 ---
 
-## History and sound design in Europe
+## ヨーロッパにおける歴史と音の設計
 
-In Europe, many buildings are made of stone due to the influence of urban structures that have continued since the Middle Ages, and the sound reverberation characteristics are unique. For this reason, sirens are designed to use reflected sound to reach a wide range.
+ヨーロッパでは、中世から続く都市構造の影響で石造建築が多く、音の反響特性が独特である。このため、サイレンは反射音を利用して広範囲に届くよう設計されている。
 
-Additionally, each country has a different sound pattern so that they can be identified when crossing borders. For example, Germany uses a relatively simple pattern, while France uses a different rhythm.
+また、国ごとに音のパターンが異なるのは、国境を越えた際に識別できるようにするためでもある。例えばドイツでは比較的単純なパターンが使われ、フランスでは異なるリズムが採用されている。
 
-Sounds are not just warnings, but also function as symbols to identify countries and regions.
+音は単なる警告ではなく、国家や地域を識別する記号としても機能している。
 
 > European sirens have evolved within historical urban structures and cultural distinctiveness.
 
 ---
 
-## Differences in siren sound patterns in European countries
+## ヨーロッパ各国におけるサイレン音パターンの違い
 
-In Europe, the sound of a siren is not only designed to increase the volume or alert people, but also to provide important information for instantly identifying what type of emergency vehicle it is. Behind this is the legal system of each country and the long history of cities.
+ヨーロッパでは、サイレンの音は単に音量や注意喚起のためだけでなく、「どの種類の緊急車両か」を瞬時に識別するための重要な情報として設計されている。その背景には各国の法制度と長い都市の歴史がある。
 
-### Germany: Standardized two-tone alternating pattern
+### ドイツ：規格化された二音交互パターン
 
-German emergency vehicles commonly use an alternating two-tone pattern known as ""high-low.'' This is clearly standardized, and switching frequencies creates a strong alert.
+German emergency vehicles commonly use an alternating two-note pattern called "high-low". This is clearly standardized, and switching frequencies creates a strong alert.
 
 The characteristics are as follows.
 
-・Alternately play two fixed frequencies
-・Modulation is relatively simple
--Easy to identify even at long distances
-- Difficult to mix with other sounds
+・2つの固定周波数を交互に鳴らす
+・変調は比較的シンプル
+・遠距離でも識別しやすい
+・他の音と混ざりにくい
 
-This simplicity is intentional, and has the advantage of allowing sound to travel unimpeded, even in highly reverberant urban environments. Additionally, in Germany, traffic regulations define the combination of a siren and a blue light as a clear signal to give priority to the road, so it is important that the sound pattern be clear enough to avoid misidentification.
+この単純さは意図的なもので、反響の強い都市環境でも音が崩れず伝わる利点がある。また、ドイツでは交通法規上、サイレンと青色灯の組み合わせが「進路優先」を意味する明確な信号として定義されているため、音のパターンは誤認のない明瞭さが重視されている。
 
-> The German siren is a sound that can be ""avoided without hesitation'' through standardization and clarity.
+> ドイツのサイレンは、規格化と明瞭性によって「迷いなく避ける」ための音である。
 
 ---
 
-### France: Distinguishability through rhythm modulation
+### フランス：リズム変調による識別性
 
-Unlike Germany, France uses sirens with more complex rhythmic changes. In particular, even the pattern called "2 tone" has variations in its cycle and tempo.
+フランスではドイツと異なり、より複雑なリズム変化を持つサイレンが使われている。特に「2トーン」と呼ばれるパターンでも、その周期やテンポにバリエーションがある。
 
-As for the characteristics.
+特徴としては。
 
-・Cyclic but fast-paced
+・周期的だがテンポが速い
 ・Sound rises sharply
-・Design that stands out amidst urban noise
-・Slightly different depending on vehicle type and usage
+・都市騒音の中で浮き上がる設計
+・車種や用途で微妙に異なる
 
-In a high-density city like Paris, there is always a lot of noise, so moving sounds are more likely to attract attention than two simple tones. Therefore, there is a strong tendency for French sirens to be recognized by rhythm.
+パリのような高密度都市では、常に多くの騒音が存在するため、単純な二音よりも「動きのある音」の方が注意を引きやすい。そのため、フランスのサイレンはリズムによって認識させる傾向が強い。
 
-> The French siren is a sound that is perceived as ""motion'' amidst the noise of the city.
+> フランスのサイレンは、都市のノイズの中で「動き」として認識される音である。
 
 ---
 
-### UK: Wild modulation and multiple modes
+### イギリス：ワイルドな変調と複数モード
 
-In the UK, a feature is that multiple siren modes can be used depending on the situation. Typical examples include ""wail," ""yelp," and ""hi-lo.''
+イギリスでは、複数のサイレンモードが状況に応じて使い分けられるのが特徴である。代表的なものに「wail」「yelp」「hi-lo」がある。
 
 The roles of each are clearly separated.
 
 ・wail: alerting at a long distance (slow modulation)
-・YELP: Short-range warning in urban areas (high-speed modulation)
-・Hi-lo: Used at intersections and specific situations
+・yelp：都市部での近距離警告（高速変調）
+・hi-lo：交差点や特定状況で使用
 
-This type of switching is based on the idea that the driver selects the optimal sound depending on the environment. Also, because the change in sound itself attracts attention, it is easier to recognize than a single pattern.
+このような切り替えは、ドライバーが環境に応じて最適な音を選択するという思想に基づいている。また、音の変化そのものが注意を引くため、単一パターンよりも認知されやすい。
 
-> British sirens are ""manipulated sounds'' that are optimized depending on the situation.
+> イギリスのサイレンは、状況に応じて最適化される「操作される音」である。
 
 ---
 
-### Italy: Strong argument for high frequencies
+### イタリア：高周波寄りの強い主張
 
 In Italy, relatively high-frequency sirens are characteristic, and emphasis is placed on clarity of sound. This is because there are many stone buildings in historic cities, and low frequencies are easily absorbed and diffused.
 
-The characteristics are below.
+特徴は以下。
 
-・Strong treble range
+・高音域が強い
 ・Sustained and extended sound
 ・Diffusion using echoes
-・Designed to reach even in narrow alleys
+・狭い路地でも届く設計
 
-Particularly in the old city, visibility is often obstructed, so the presence of sound is more important than the direction of the sound.
+特に旧市街では視界が遮られることが多いため、音の方向性よりも「存在感」が重視される。
 
-> Italy's siren is the "sound of existence" that penetrates the complex urban structure.
+> イタリアのサイレンは、複雑な都市構造を突き抜ける「存在の音」である。
 
 ---
 
-### Northern Europe (Sweden/Norway): Contrast with silence
+### 北欧（スウェーデン・ノルウェー）：静寂との対比
 
-In the Nordic countries, sirens do not need to be overly complex, as normal environmental noise is relatively low. Instead, many designs are recognized for their contrast with silence.
+北欧諸国では、普段の環境騒音が比較的低いため、サイレンは過度に複雑である必要がない。その代わり、静寂とのコントラストで認識される設計が多い。
 
-As for the characteristics.
+特徴としては。
 
-・Relatively smooth frequency change
-・Sounds that are not overly aggressive
-・Clearer presence than long-distance transmission
+・比較的滑らかな周波数変化
+・過度に攻撃的でない音
+・長距離伝達よりも明確な存在感
 ・Consideration of environmental impact
 
-In addition, thorough controls have been put in place to control the volume at night.
+また、夜間の音量制御なども徹底されている。
 
-> The Nordic siren is a ""sound of difference'' that stands out due to its contrast with silence.
+> 北欧のサイレンは、静けさとの対比によって際立つ「差の音」である。
 
 ---
 
-## Distinctiveness is a "result"
+## 識別性は「結果」である
 
-Taking these into account, the differences in sirens in each country are not simply designed to identify national boundaries, but rather are the result of optimization for each country's urban structure, traffic culture, legal system, and sound environment.
+これらを踏まえると、各国のサイレンの違いは単に国境識別のために設計されたというよりも、それぞれの都市構造・交通文化・法制度・音環境に最適化された結果として生まれている。
 
-As a result, when entering a neighboring country, people feel strange due to the difference in sounds, and it becomes possible to identify them.
+その結果として、隣国に入ったときに音の違いで違和感を覚え、識別が可能になる。
 
-In other words,
+つまり、
 
-・The purpose of the design is "to ensure delivery in the country"
+・設計の目的は「その国で確実に届くこと」
 ・As a side effect, "differences between countries become clearer"
 
-This is the relationship.
+という関係にある。
 
 > The differences in sirens between countries are not intentional identifications, but rather ""sound dialects'' that have arisen as a result of environmental adaptation.
 
 ---
 
-## Relationship between music environment and siren design
+## 音楽環境とサイレン設計の関係
 
-What is often overlooked in siren design is the ""everyday music environment.'' The type of sounds people are normally surrounded by has a major influence on the design of warning sounds.
+サイレン設計において見落とされがちなのが「日常的な音楽環境」である。人々が普段どのような音に囲まれているかは、警告音の設計に大きく影響する。
 
 <div class="mermaid">
 graph TD
-A[living environment] --> B[means of transportation]
-A --> C[urban structure]
-A --> D[music culture]
+A[生活環境] --> B[means of transportation]
+A --> C[都市構造]
+A --> D[音楽文化]
 B --> E[In-car sound environment]
 C --> F[noise level]
 D --> G[Volume/frequency characteristics]
-E --> H[siren design]
+E --> H[サイレン設計]
 F --> H
 G --> H
 </div>
 
-In environments where music is played at high volume, the siren needs to have a higher pitch and more modulation. On the other hand, in a quiet environment, excessive volume can have the opposite effect.
+音楽が大音量で再生される環境では、サイレンはより高音域や変調を強める必要がある。一方で静かな環境では、過度な音量は逆効果になる。
 
-In other words, sirens are designed to fit into the ""interstice of everyday sounds.''
+In other words, sirens are designed to fit into the ""interstice of everyday sounds''.
 
-> Siren is designed not to compete with musical culture, but to fill a gap in it.
+> サイレンは音楽文化と競合するのではなく、その隙間を突くように設計されている。
 
 ---
 
-## Technological evolution and the future of sirens
+## 技術進化とサイレンの未来
 
-In recent years, the soundproofing performance of automobiles has further improved, and the spread of electric vehicles has reduced external noise. This change brings new challenges to siren design.
+近年では、自動車の防音性能がさらに向上し、電気自動車の普及により外部騒音が減少している。この変化はサイレン設計に新たな課題をもたらしている。
 
-Traditional loud sirens alone are becoming insufficient, and the following technologies are beginning to be introduced.
+従来の大音量サイレンだけでは不十分になりつつあり、以下のような技術が導入され始めている。
 
-・Direct notification to in-car speaker
+・車内スピーカーへの直接通知
 ・GPS-linked warning system
-・Linkage with vision and vibration
-・Directional speaker
+・視覚・振動との連動
+・指向性スピーカー
 
 As a result, the siren has evolved from a mere sound to an "information transmission system."
 
@@ -259,7 +258,7 @@ As a result, the siren has evolved from a mere sound to an "information transmis
 
 ---
 
-## Chronology: Changes in siren and sound environment
+## 年表：サイレンと音環境の変遷
 
 <div class="mermaid">
 timeline
@@ -277,17 +276,17 @@ timeline
 
 ---
 
-## Conclusion: Sirens are designed for "places they need to reach"
+## 結論：サイレンは「届くべき場所」に向けて設計される
 
 The difference in sirens is not simply a difference in specifications between countries. This comes from differences in assumptions about where people hear sounds and how they live their lives.
 
-In a country with vast roads and a motorized society, there is a need for strong and changing sounds that can reach the enclosed interior of a car. In countries with densely populated cities, there is a need for sound that coexists with its surroundings and is reliably recognized.
+広大な道路と車社会を持つ国では、密閉された車内に届く強く変化する音が求められる。密集した都市を持つ国では、周囲と共存しながら確実に認識される音が求められる。
 
 Behind this, music culture and the everyday sound environment are closely related.
 
-Sirens are a microcosm of society and part of the sound infrastructure.
+サイレンは社会の縮図であり、音によるインフラの一部である。
 
-> The difference between sirens is not a difference in sound, but a difference in the way society hears them.
+> サイレンの違いは、音の違いではなく「社会の聞こえ方の違い」である。
 
 
 ---
@@ -295,7 +294,7 @@ Sirens are a microcosm of society and part of the sound infrastructure.
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/beRHnRidsJ0?si=I24Tjcpaw-bbl3Oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

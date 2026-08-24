@@ -12,7 +12,7 @@ title: Depeche Mode – Some Great Reward
 ---
 
 
-"Some Great Reward" is a 1984 album by Depeche Mode and their fourth studio album. This album is one of the seminal works in the band's career, showing the evolution and maturation of their sound.
+「Some Great Reward」は、デペッシュ・モードの1984年のアルバムであり、彼らの4枚目のスタジオアルバムです。このアルバムはバンドのキャリアにおいて重要な位置を占める作品の一つであり、彼らのサウンドの進化と成熟を示しています。
 
 The album includes Depeche Mode's most famous songs, including "People Are People" and "Master and Servant," which were released as singles.
 
@@ -39,7 +39,7 @@ B3. If You Want
 B4. Blasphemous Rumours
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m84995545224?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84995545224?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzGnX-MbYE4?si=FA0-MAQzh-OngtJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

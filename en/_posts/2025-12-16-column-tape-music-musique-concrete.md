@@ -9,23 +9,23 @@ layout: post
 tags:
 - Tape Music
 - Musique Concrète
-title: '[Column] Tape Music / Musique Concrète'
+title: 【コラム】 Tape Music / Musique Concrète（テープ音楽／具体音楽）
 ---
 
 
 
-## 1. Before concrete music: Thoughts that treat sound as an "object"
+## 1. 具体音楽以前：音を「対象」として扱う思想
 
-Text: mmr｜Theme: "Redefining tape music/concrete music in the context of re-evaluating 1970s avant-garde music"
+文：mmr｜テーマ："1970年代前衛音楽再評価の文脈におけるテープ音楽／具体音楽の再定義について
 
 
 ### 1.1 Isolation of acoustic phenomena
 
-Before concrete music, music was treated as a combination of abstracted elements such as pitch, rhythm, and harmony. However, with the development of recording technology, sound has been isolated as a temporal and spatial event, and has become an object that can be rearranged. This idea became the starting point for dismantling the distinction between instrumental sounds and environmental sounds.
+具体音楽以前、音楽は音高・リズム・和声といった抽象化された要素の組み合わせとして扱われてきた。しかし録音技術の発達により、音は時間的・空間的な出来事として切り出され、再配置可能な対象となった。この発想は、楽器音と環境音の区別を解体する起点となった。
 
-### 1.2 Broadcasting technology and experimental space
+### 1.2 放送技術と実験空間
 
-The research facility attached to the broadcasting station functioned as an experimental space different from the performance venue. The sounds played in a space exclusively for reproduction were separated from the performer's body, and the act of listening itself was restructured.
+放送局に併設された研究施設は、演奏会場とは異なる実験空間として機能した。再生専用の空間で鳴らされる音は、演奏者の身体から切り離され、聴取行為そのものが再構築された。
 
 
 ---
@@ -35,7 +35,7 @@ The research facility attached to the broadcasting station functioned as an expe
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -44,136 +44,136 @@ color: #fff;
 </style>
 
 
-## 2. The substance called tape
+## 2. テープという物質
 
-### 2.1 Structure of magnetic tape
+### 2.1 磁気テープの構造
 
-Magnetic tape is a flexible physical medium. All operations such as cutting, splicing, unwinding, and changing speed were performed as physical acts. This physicality became an important factor for reappraisal in the 1970s.
+磁気テープは、可塑性を持つ物理媒体である。切断、接合、巻き戻し、速度変更といった操作は、すべて物理的行為として行われた。この身体性は、1970年代において再評価の重要な要因となった。
 
-### 2.2 Composition as an act of editing
+### 2.2 編集行為としての作曲
 
-Tape editing was seen not as a recording of a performance, but as an act of composition itself. The decisions made in front of the editing table had the same, if not more, meaning than the decisions made on the score.
-
----
-
-## 3. Deepening recording techniques
-
-### 3.1 Proximity sound collection and material sensation
-
-By placing the microphone extremely close to the sound source, minute noises and vibrations that would not be perceived in a normal performance space were recorded. As a result, sound began to be perceived as an entity with mass, rather than an abstract pitch.
-
-### 3.2 Multi-point sound collection
-
-Picking up sound with multiple microphones was the act of capturing a single sound source from different perspectives, and became the basis for redesigning the spatial structure later in the editing process.
+テープ編集は、演奏の記録ではなく、作曲行為そのものと見なされた。編集台の前で行われる判断は、楽譜上の決定と同等、あるいはそれ以上の意味を持った。
 
 ---
 
-## 4. Editing techniques and time manipulation
+## 3. 録音技法の深化
 
-### 4.1 Cut editing accuracy
+### 3.1 近接収音と物質感
 
-The millimeter cuts physically formed the rhythmic structure. Rather than a uniform time signature, the concatenation of heterogeneous time fragments created a new sense of time.
+マイクを音源に極端に近づけることで、通常の演奏空間では知覚されない微細なノイズや振動が記録された。これにより、音は抽象的な高さではなく、質量を伴う存在として知覚されるようになった。
 
-### 4.2 Loops and iterations
+### 3.2 多点収音
 
-The tape loop blurred the distinction between starting and ending points and created a continuous sonic state. This technique had a direct influence on later drone, minimal, and noise practices.
-
----
-
-## 5. Transform operation
-
-### 5.1 Speed ​​conversion
-
-Changing the playback speed is an operation that simultaneously changes the pitch and time. The avant-garde music of the 1970s emphasized this irreversible transformation.
-
-### 5.2 Reverse playback
-
-Reverse playback dismantled the causal relationship between sounds and disrupted the listeners' perceptual habits.
+複数マイクによる収音は、単一音源を異なる視点から捉える行為であり、後の編集工程で空間構造を再設計する基盤となった。
 
 ---
 
-## 6. 1970s: Intersection with improvised music
+## 4. 編集技術と時間操作
 
-### 6.1 Fixed media and improvisation
+### 4.1 カット編集の精度
 
-Improvised music is inherently premised on one-time performance, but tape fixes the result. At the same time, a practice emerged that treated tape playback as part of improvisation, blurring the line between fixed and variable.
+ミリ単位のカットは、リズム構造を物理的に形成した。均等な拍子ではなく、不均質な時間断片の連結が、新たな時間感覚を生み出した。
 
-### 6.2 Connecting to live electronics
+### 4.2 ループと反復
 
-Tape manipulation became the prototype for later live electronics. The act of instantly controlling playback speed and mixing erased the distinction between performance and editing.
+テープループは、始点と終点の区別を曖昧にし、持続的な音響状態を構築した。この技法は、後のドローン、ミニマル、ノイズ実践に直接的な影響を与えた。
 
 ---
 
-## 7. 1970s: Continuity with Noise Practice
+## 5. 変形操作
 
-### 7.1 Noise Affirmation
+### 5.1 速度変換
 
-With tape music, distortion, hiss, and editing marks were not eliminated, but treated as part of the musical structure. This is directly connected to the aesthetics of noise practice in the 1970s.
+再生速度の変更は、音高と時間を同時に変形させる操作である。1970年代の前衛音楽では、この非可逆的変形が重要視された。
 
-### 7.2 Media-specific noise
+### 5.2 逆再生
+
+逆再生は、音の因果関係を解体し、聴取者の知覚習慣を攪乱した。
+
+---
+
+## 6. 1970年代：即興音楽との交差
+
+### 6.1 固定媒体と即興
+
+即興音楽は本来一回性を前提とするが、テープはその結果を固定化する。同時に、テープ再生を即興演奏の一部として扱う実践が生まれ、固定と可変の境界が曖昧になった。
+
+### 6.2 ライブ・エレクトロニクスへの接続
+
+テープ操作は、後のライブ・エレクトロニクスの原型となった。再生速度やミキシングを即時に操作する行為は、演奏と編集の区別を消去した。
+
+---
+
+## 7. 1970年代：ノイズ実践との連続性
+
+### 7.1 ノイズの肯定
+
+テープ音楽では、歪み、ヒスノイズ、編集痕が排除されず、音楽構造の一部として扱われた。これは1970年代ノイズ実践の美学と直結している。
+
+### 7.2 媒体固有ノイズ
 
 The saturation, dropouts, and wow and flutter characteristic of tape were reevaluated as expressive elements independent of the sound source.
 
 ---
 
-## 8. 1970s: Fusion with electronic music
+## 8. 1970年代：電子音楽との融合
 
-### 8.1 Electronic sound sources and tapes
+### 8.1 電子音源とテープ
 
-Sound source generation using a synthesizer and editing and fixing using tape were complementary. Electronic music was created instantly, while tape music was structured.
+シンセサイザーによる音源生成と、テープによる編集・固定は補完関係にあった。電子音楽は即時生成、テープ音楽は構造化を担った。
 
-### 8.2 Expansion of studio space
+### 8.2 スタジオ空間の拡張
 
 The studio has come to be seen as a sound design space rather than a performance space.
 
 ---
 
-## 9. Structural design and listening experience
+## 9. 構造設計と聴取体験
 
 ### 9.1 Nonlinear structure
 
-Tape music did not necessarily require a beginning, development, and end.
+テープ音楽は、開始・展開・終結という形式を必ずしも必要としなかった。
 
-### 9.2 Listening Retraining
+### 9.2 聴取の再教育
 
-The process by which real sounds were abstracted required listeners to direct their attention in a new way.
+現実音が抽象化される過程は、聴取者に新たな注意の向け方を要求した。
 
 ---
 
 ## 10. Diffusion of influence
 
-### 10.1 Experimental music and beyond
+### 10.1 実験音楽以降
 
 Since the 1970s, tape music ideas have permeated a variety of genres.
 
-### 10.2 Relationship between records and works
+### 10.2 記録と作品の関係
 
-The recognition that recordings themselves were works of art took root during this period.
+録音物そのものが作品であるという認識は、この時代に定着した。
 
 ---
 
-## 11. Chronology
+## 11. 年表
 
-* 1940s: The spread of magnetic tape recording
+* 1940年代：磁気テープ録音の普及
 * 1950s: Systematization of Gutai music
 * 1960s: Development of electronic music studios
-* 1970s: Reappraisal through fusion of improvisation, noise, and electronic music
+* 1970年代：即興・ノイズ・電子音楽との融合による再評価
 
 ---
 
-## 12. Technique relationship diagram
+## 12. 技法関係図
 
 <div class="mermaid">
 flowchart LR
-    A[Environmental sounds/electronic sounds] --> B[sound collection] --> C[tape editing] --> D[Speed/direction operation] --> E[Emphasis on noise and texture] --> F[structural design]
+    A[環境音・電子音] --> B[収音] --> C[テープ編集] --> D[速度・方向操作] --> E[ノイズ・質感の強調] --> F[構造設計]
 </div>
 
 
 ---
 
-## Conclusion: The heart of the 1970s reappraisal
+## 結論：1970年代再評価の核心
 
-Tape music/concrete music was rediscovered in avant-garde music in the 1970s as a foundation that crosses improvisation, noise, and electronic sound. The methodology of intervention in physical media redefined music as a temporal event, an influence that continues to this day.
+テープ音楽／具体音楽は、1970年代前衛音楽において、即興性、ノイズ性、電子音響を横断する基層として再発見された。物理的媒体への介入という方法論は、音楽を時間的出来事として再定義し、その影響は現在に至るまで持続している。
 
 ---
 

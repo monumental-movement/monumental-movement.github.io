@@ -14,11 +14,11 @@ title: Sugababes – Shape
 ---
 
 
-Sugababes is a British female pop group formed in 1998 by the manager of All Saints.
+Sugababes（シュガーベイブス）は、All Saints（オールセインツ）のマネージャーよって1998年に結成されたUKの女性ポップグループ。
 
-Released in 2003, ""Shape" was Sugababes" fourth single, sampling Sting"s ""Shape of My Heart," a hit that peaked at number 11 in the UK charts and reached the top 10 in the Netherlands and Ireland.
+2003年にリリースされた「Shape」は、Sting（スティング）の「Shape Of My Heart」をサンプリングしたSugababes4枚目のシングルで、UKチャートで最高11位、オランダとアイルランドではトップ10入りしたヒット曲。
 
-Side A is a remix by Salaam Remi, a US hip-hop producer famous for producing songs by Nas, Amy Winehouse, and Jazmine Sullivan.
+A面はNas（ナズ）, Amy Winehouse（エイミー・ワインハウス）, Sullivan（ジャズミン・サリバン）などの楽曲をプロデュースしたことで有名なUSのヒップホッププロデューサーSalaam Remi（サラーム・レミ）によるremix。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ A1. Shape (Salaam Remi Remix)
 B1. Shape (Double R Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m60974556106?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60974556106?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hVTgQ7qeSSg?si=CclsFk8A_GhR0ZTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

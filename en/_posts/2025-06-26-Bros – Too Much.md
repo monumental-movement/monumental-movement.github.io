@@ -13,10 +13,10 @@ title: Bros – Too Much
 ---
 
 
-Bros was a British pop band that was active from 1987 to 1992. At the time of formation, twin brothers Matt & Luke Goss (Matt Goss & Luke Goss)
-, was a trio consisting of Craig Logan, but in early 1989 Craig Logan left the group and the band became a duo. The manager is former Pet Shop Boys manager Tom Watkins.
+Brosは、1987年〜1992年まで活動したイギリスのポップバンド。結成時は、双子の兄弟 Matt &Luke Goss(マット・ゴス&ルーク・ゴス)
+、Craig Logan(クレイグ・ローガン)のトリオだったが、1989年初頭にCraig Loganが脱退し、デュオとして活動した。マネージャーは元Pet Shop Boys(ペットショップボーイズ)のマネージャーTom Watkins(トム・ワトキンス)。
 
-Released in 1989, "Too Much" is a single cut from the Bros" second album, The Time. Bros' masterpiece that was a hit not only in the UK but also in Japan. It was a hit and concert success in Japan, and he also appeared in a commercial for Yamaha"s scooter Yamaha Jog.
+1989年にリリースされた「Too Much」は、Brosのセカンドアルバム『The Time』からのシングルカット。UKだけでなく日本でもヒットしたBrosの代表作。日本でのヒット&コンサート成功もあり、YAMAHAのスクーター・ヤマハ・ジョグのCMにも出演した。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ B1. Too Much (Seven Inch Version)
 B2. Astrologically
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oq_-qj3JHt0?si=Bt9BVGT47kudJbca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,13 +15,13 @@ title: Cari Lekebusch – The Architect
 ---
 
 
-Cari Lekebusch is a DJ/producer representing Sweden.
+Cari Lekebusch (カリ レケブッシュ)は、スウェーデンを代表するDJ／プロデューサー。
 
-Aaron (Aaron Phiri), featured in A1 and 2, is a musician who was active as a member of Boogaloo, a group characterized by a jazzy HIPHOP sound.
+A1、2フィーチャーしているAaron(Aaron Phiri)は、ジャジーなHIPHOPサウンドが特徴のグループ、Boogalooの一員として活躍したミュージシャン。
 
-Krister (Krister Linder), who is featured on B2, is a Swedish electronic musician.
+B2でフィーチャーしているKrister(Krister Linder/クリスター・リンダー)は、スウェーデンのエレクトロニック・ミュージシャン。
 
-Techno/Deep House/Electro/Downtempo was released in 2004 by Truesoul, a record label founded by Adam Beyer and based in Stockholm, Sweden.
+アダム・ベイヤーによって設立され、スウェーデンのストックホルムを拠点とするレコードレーベルTruesoulから2004年にリリースされたTechno／Deep House／Electro／Downtempo。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ B1. Babylon
 B2. For Her Featuring – Krister
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m68178436589?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68178436589?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

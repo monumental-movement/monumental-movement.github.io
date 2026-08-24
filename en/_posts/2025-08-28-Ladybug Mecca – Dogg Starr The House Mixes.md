@@ -13,11 +13,11 @@ title: Ladybug Mecca – Dogg Starr (The House Mixes)
 ---
 
 
-HOUSE mix of "Dogg Starr", a signature song by Ladybug Mecca (Mary Ann Vieira), known as the MC of the jazz hip-hop unit Digable Planets. It was released in 2007 on San Francisco's prestigious label OM Records.
+ジャズヒップホップ・ユニット Digable Planets のMCとして知られているLadybug Mecca（Mary Ann Vieira）の代表曲「Dogg Starr」のHOUSE mix。2007年にサンフランシスコの名門レーベルOM Recordsからリリースされた。
 
-A1 is a remix by Canadian DJ/producer Fred Everything (Frédéric Blais), a heavyweight in the Deep House scene.
+A1は、Deep Houseシーンの重鎮、カナダ出身のDJ／プロデューサーFred Everything(Frédéric Blais)によるremix。
 
-B2 is a remix by Johnny Fiasco, a DJ/producer representing the second generation of Chicago house who gained attention with his releases on Cajual Records and Relief Records in the early 1990s.
+B2は、1990年代初頭にCajual RecordsやRelief Records からのリリースで注目されたシカゴハウス第2世代を代表する DJ／プロデューサーJohnny Fiascoによるremix。
 
 
 #### Tracklist
@@ -30,7 +30,7 @@ B2. Dogg Starr (Fiasco's Conduction Mash-Up)
 
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m70878565960?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70878565960?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/44uKHyJvCiQ?si=yWcRa_Y3ybemf7AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

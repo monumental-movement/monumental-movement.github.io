@@ -12,17 +12,17 @@ title: Spiros Kaloumenos – Rock It
 ---
 
 
-A techno track released on MB Elektronics in 2006 by Greek techno DJ Spiros Kaloumenos, who is a member of the Marco Bailey family active in the Spanish minimal techno scene and runs Omega Audio Recordings with techno DJ Axel Karakasis.
+スペインのミニマルテクノシーンで活躍するMarco Bailey（マルコ・ベイリー）ファミリーの一員でもあり、テクノDJ Axel Karakasisと共にOmega Audio Recordingsを運営するギリシャ出身のテクノDJ Spiros Kaloumenosが2006年にMB Elektronicsからリリースしたテクノトラック。
 
-Spiros Kaloumeno was born in Piraeus, Greece, and at the age of 13 he realized that music, especially electronic music, was his priority in life.
+Spiros Kaloumenoは、ギリシャのピレウスで生まれ、13歳の時に音楽、特にエレクトロニックミュージックが自分にとって人生の最優先事項であると気づきました。
 
-He started his career as a radio producer and his radio programs were broadcast on one of the largest dance music stations in Athens.
+ラジオプロデューサーとしてのキャリアをスタートさせて、ラジオ番組は、アテネ最大手のダンスミュージック専門局で放送されるまでになりました。
 
-Afterwards, he produced a television program introducing music and video clips from the techno scene, worked on a dance music magazine, and played as a techno DJ at clubs in Athens and dance festivals in Greece.
+その後、テクノシーンの音楽とビデオクリップを紹介するテレビ番組を制作し、ダンスミュージック雑誌にも携わると同時に、テクノDJとしてアテネのクラブやギリシャのダンスフェスティバルでプレイ。
 
-As a producer, he began releasing music on Hydrophonic Recordings in the UK, and his production skills were quickly recognized, and he became a member of the Marco Bailey family, releasing numerous works on other labels as well.
+プロデューサーとしても、イギリスのHydrophonic Recordingsから楽曲リリースを開始し、そのプロダクションスキルはすぐに評価され、Marco Bailey ファミリーの一員となり、他のレーベルからも数多くの作品をリリース。
 
-In 2005, he founded his own label, Omega Audio Recordings, with long-time partner Axel Karakasis.
+2005年には、長年のパートナーである Axel Karakasis と共に自身のレーベル「Omega Audio Recordings」を設立しました。
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ B2. Synths Of Fire
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0WLXs_tMIc?si=F3lGnJB9e08V4mqS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

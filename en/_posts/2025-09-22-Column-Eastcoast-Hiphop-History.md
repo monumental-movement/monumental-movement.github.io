@@ -13,7 +13,7 @@ title: '[Column] A brief history of East Coast hip-hop — from the Bronx to Bro
 ---
 
 
-## East Coast hip-hop was born from the block parties of New York in the 1970s.
+## 東海岸ヒップホップは、1970年代ニューヨークのブロックパーティーから誕生
 
 Text: mmr｜Theme: From the birth of East Coast hip-hop to the present, producers, labels, conflicts, masterpieces, visual expression, and fashion changes
 
@@ -42,7 +42,7 @@ color: #fff;
 * **Cultural background**: Born out of the party culture of the Black and Latino communities in the Bronx. Rap, DJing, breakdance, and graffiti all came together to form a hip-hop culture.
 * **Video/Fashion**: Low-budget MV, Adidas, Kangol, and gold chains are symbolic.
 
-**Recommended albums**
+**おすすめアルバム**
 
 | Album | Artist | Amazon link | Recommended points |
 |----------|-------------|-------------|----------------|
@@ -54,11 +54,11 @@ color: #fff;
 
 ## 1990s: Golden Age and Deepening of Realism
 
-* **Representative producers**: DJ Premier, Pete Rock, RZA, Large Professor
+* **代表的プロデューサー**：DJ Premier、Pete Rock、RZA、Large Professor  
 * **Major labels**: Def Jam, Bad Boy Records, Loud Records
 * **Cultural background**: Beats that make full use of sampling and lyrics that depict social criticism and street realism. Based in Brooklyn, Queens, and Harlem.
-* **East-West conflict**: East-West conflict intensifies, including the tragic deaths of 2Pac and The Notorious B.I.G.
-* **Video/Fashion**: MV set in a high-end boutique in Harlem and a street corner in New York. Timberland, Carhartt, AverX, and baggy jeans are the mainstream.
+* **東西抗争**：2PacとThe Notorious B.I.G.の悲劇的死を含む東西対立が激化。  
+* **映像・ファッション**：ハーレムの高級ブティックやNYの街角を背景にしたMV。Timberland、Carhartt、AverX、バギージーンズが主流。  
 
 **Recommended albums**
 
@@ -70,36 +70,36 @@ color: #fff;
 
 ---
 
-## 2000s: Independent and mixtape culture
+## 2000年代：インディペンデントとミックステープ文化
 
 * **Representative producers**: Just Blaze, The Alchemist, Swizz Beatz
 * **Major labels**: Roc-A-Fella, Rawkus Records, G-Unit Records
 * **Cultural background**: While Jay-Z, DMX, 50 Cent and others achieved commercial success, underground Mos Def, Talib Kweli and others developed "conscious rap". Mixtape culture flourished.
 * **Video/Fashion**: Large-scale music video production, brands such as Rocawear, Sean John, and Ecko are popular.
 
-**Recommended albums**
+**おすすめアルバム**
 
 | Album | Artist | Amazon link | Recommended points |
 |----------|-------------|-------------|----------------|
 | *The Blueprint* (2001) | Jay-Z | [Amazon](https://amzn.to/46ho0Hs) | Establishing the aesthetics of soul sampling |
-| *Get Rich or Die Tryin"* (2003) | 50 Cent | [Amazon](https://amzn.to/46gmSUj) | A decisive blow that connects the street and major leagues |
-| *Black on Both Sides* (1999) | Mos Def | [Amazon](https://amzn.to/4gA2mBJ) | Fusion of conscious perspective and jazz sensibility |
+| *Get Rich or Die Tryin’* (2003) | 50 Cent | [Amazon](https://amzn.to/46gmSUj) | ストリートとメジャーをつなぐ決定打 |
+| *Black on Both Sides* (1999) | Mos Def | [Amazon](https://amzn.to/4gA2mBJ) | コンシャスな視点とジャズ感覚の融合 |
 
 ---
 
 ## 2010s-present: Diversification and global influence
 
-* **Representative producers**: Metro Boomin (southern, but also influenced by NY), Hit-Boy, Statik Selektah
+* **Representative Producers**: Metro Boomin (Southern leaning, but also influenced by NY), Hit-Boy, Statik Selektah
 * **Major labels**: Top Dawg (also linked to NY), Griselda Records
 * **Cultural context**: Parallel to Kendrick Lamar"s influence, in New York, Griselda (Westside Gunn, Conway, Benny the Butcher) revived the "90s feel. The number of artists originating from the Internet is also increasing.
 * **Video/Fashion**: A fusion of high brands and streetwear (Supreme, Off-White, Balenciaga). Documentary music videos are on the rise.
 
 **Recommended albums**
 
-| Album | Artist | Amazon link | Recommended points |
-|----------|-------------|-------------|----------------|
-| *My Beautiful Dark Twisted Fantasy* (2010) | Kanye West | [Amazon](https://amzn.to/3IcnnFT) | The pinnacle of artistry and commerciality |
-| *Pray for Paris* (2020) | Westside Gunn | [Amazon](https://amzn.to/46OyiyL) | Aesthetic works that connect art and rap |
+| アルバム | アーティスト | Amazonリンク | おすすめポイント |
+|----------|-------------|--------------|----------------|
+| *My Beautiful Dark Twisted Fantasy* (2010) | Kanye West | [Amazon](https://amzn.to/3IcnnFT) | 芸術性と商業性の極致 |
+| *Pray for Paris* (2020) | Westside Gunn | [Amazon](https://amzn.to/46OyiyL) | アートとラップを結ぶ美学的作品 |
 | *King"s Disease* (2020) | Nas | [Amazon](https://amzn.to/3Icom93) | A masterpiece that shows the maturity of a veteran |
 
 ---
@@ -152,7 +152,7 @@ color: #fff;
 
 ## summary
 
-East Coast hip-hop originated from the block parties of the Bronx, achieved commercial success in the '80s, and reached its golden age in the '90s. It is characterized by lyrics that combine social criticism and street realism, as well as detailed sampling beats, and has influenced video, fashion, film, and even literary expression.
+East Coast hip-hop originated from the block parties of the Bronx, achieved commercial success in the '80s, and reached its golden age in the '90s. Characterized by lyrics that combine social criticism and street realism, as well as meticulously sampled beats, they influenced video, fashion, film, and even literary expression.
 Since the 2000s, there have been major successes such as Jay-Z and 50 Cent, and conscious artists such as Mos Def and Talib Kweli. Since the 2010s, New York has once again attracted attention due to the revival of Griselda and Nas, and the hard and lyrical hip hop typical of the East Coast has been inherited.
 
 ---

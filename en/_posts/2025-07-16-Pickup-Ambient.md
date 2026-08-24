@@ -10,24 +10,24 @@ tags:
 - 90s
 - 80s
 - 70s
-title: Pick up ambient works
+title: アンビエント作品をピックアップ
 ---
 
 
-"A remarkable group of ambient works that explore the boundaries between silence and sound and provide a profoundly immersive experience."
+「静寂と音の境界を探り、深遠な没入体験をもたらす注目すべきアンビエント作品群」
 
 <hr>
 
 ### Dreamlogicc – Podval EP
 <a href="https://jp.mercari.com/item/m64740020390?afid=6142608987"><img src="../assets/images/Dreamlogicc%20%E2%80%93%20Podval%20EP.webp"></a>
 
-Genre: Ambient Techno
+ジャンル：Ambient Techno
 
-Released: 2012 (US label Kimochi)
+リリース：2012年（USレーベル Kimochi）
 
-Format: Limited to 200 albums (Vinyl)
+フォーマット：限定200枚アルバム（Vinyl）
 
-Features: Works that combine deep grooves and spatial soundscapes
+特徴：ディープなグルーヴと空間的なサウンドスケープを融合した作品 
 
 #### Tracklist
 ```md
@@ -41,7 +41,7 @@ B2. Equalizer
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -56,13 +56,13 @@ B2. Equalizer
 ### Spacetime Continuum – Emit Ecaps
 <a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.webp"></a>
 
-Genre: Ambient / IDM / Techno
+ジャンル：Ambient / IDM / Techno
 
-Released: 1996 (Reflective Records)
+リリース：1996年（Reflective Records）
 
-Format: 2-LP set
+フォーマット：2枚組LP
 
-Feature: Jonah Sharp's 90s underground ambient masterpiece
+特徴：Jonah Sharpの90年代アンダーグラウンド・アンビエント傑作 
 
 #### Tracklist
 ```md
@@ -82,7 +82,7 @@ D3. String Of Pearls
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -93,13 +93,13 @@ D3. String Of Pearls
 ### Sanjiva – Secret Rooms Over Flowing Delight
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
-Genre: Ambient Electronic Techno
+ジャンル：Ambient Electronic Techno
 
-Released: 1996 (Ninetysix Sounds)
+リリース：1996年（Ninetysix Sounds）
 
-Format: 2-track 12″
+フォーマット：2-track 12″
 
-Features: Deep trance track by Charles Reix
+特徴：Charles Reixによる深みあるトランストラック 
 
 #### Tracklist
 ```md
@@ -109,7 +109,7 @@ B. Over Flowing Delight
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -120,13 +120,13 @@ B. Over Flowing Delight
 ### Dub Tractor – Scary H H Loop / 104 Dub
 <a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
 
-Genre: Ambient / Experimental / Trip Hop
+ジャンル：Ambient / Experimental / Trip Hop
 
-Release: 1997
+リリース：1997年
 
-Format: 12″
+フォーマット：12″
 
-Features: Experimental ambient trip-hop music from Denmark. Includes Luke Vibert (Wagon Christ) remix
+特徴：デンマーク産の実験的アンビエント・トリップホップ作品。Luke Vibert（Wagon Christ）リミックスも収録 
 
 #### Tracklist
 ```md
@@ -144,7 +144,7 @@ B2. A C Tractor
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -155,13 +155,13 @@ B2. A C Tractor
 ### Calm – People From The Sun And The Earth
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
-Genre: Ambient / Balearic House
+ジャンル：Ambient / Balearic House
 
-Release: October 2023
+リリース：2023年10月
 
-Format: Vinyl
+フォーマット：Vinyl
 
-Characteristics: A representative work of Japanese chill-out ambient music. 4 track EP including Dixon remix
+特徴：日本のチルアウト・アンビエント代表作。Dixonリミックスも含む4トラック EP 
 
 #### Tracklist
 ```md
@@ -173,7 +173,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -184,13 +184,13 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ### David Donohoe – Nature Morte!
 <a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
-Genre: Ambient/Minimal
+ジャンル：Ambient / Minimal
 
-Released: 2004 (Minimise label)
+リリース：2004年（Minimiseレーベル）
 
-Format: Vinyl
+フォーマット：Vinyl
 
-Characteristics: From Ireland, excellent work of minimal ambient music.
+特徴：アイルランド出身、ミニマルアンビエントの秀作 
 
 #### Tracklist
 ```md
@@ -201,7 +201,7 @@ B. Our Ghosts
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -212,13 +212,13 @@ B. Our Ghosts
 ### Mr. Blank – On The Ground
 <a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
 
-Genre: Ambient / Dub / Future Jazz / Hip‑House
+ジャンル：Ambient / Dub / Future Jazz / Hip‑House
 
-Release: 1994
+リリース：1994年
 
-Format: 2-disc Vinyl
+フォーマット：2枚組Vinyl
 
-Features: Steve Miller's work under another name. Deep chill-out sound that mixes various genres
+特徴：Steve Millerの別名義作品。多様なジャンルが混ざり合った深いチルアウトサウンド 
 
 #### Tracklist
 ```md
@@ -243,7 +243,7 @@ D4. The End Game
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -253,13 +253,13 @@ D4. The End Game
 
 ### Deep Forest – Deep Forest
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
-Genre: Ambient/Downtempo/New Age
+ジャンル：Ambient/Downtempo/New Age
 
-Release: 1992
+リリース：1992年
 
-Format: CD
+フォーマット：CD
 
-Features: Fusion of folk music and electronic sounds, Grammy nominee, signature song "Sweet Lullaby" included
+特徴：民族音楽と電子音の融合、グラミー候補、代表曲「Sweet Lullaby」収録 
 
 #### Tracklist
 ```md
@@ -276,7 +276,7 @@ Features: Fusion of folk music and electronic sounds, Grammy nominee, signature 
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -288,63 +288,63 @@ Features: Fusion of folk music and electronic sounds, Grammy nominee, signature 
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Artist/Title</th>
-<th>era</th>
-<th>Format</th>
-<th>Genre/Features</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc <br />– <em>Podval EP</em></a></td>
-<td>2012</td>
-<td>Limited Vinyl</td>
-<td>Ambient Techno, dope soundscape</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Spacetime Continuum <br />- <em>Emit Ecaps</em></a></td>
-<td>1996</td>
-<td>2LP Vinyl</td>
-<td>90s ambient masterpiece with IDM/techno leaning</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Secret Rooms…</em></a></td>
-<td>1996</td>
-<td>12″</td>
-<td>Trance ambient</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
-<td>1997</td>
-<td>12"</td>
-<td>Experimental trip hop/ambient</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
-<td>2023</td>
-<td>Vinyl EP</td>
-<td>Chillout Balearic</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>Nature Morte!</em></a></td>
-<td>2004</td>
-<td>Vinyl</td>
-<td>Minimal Ambient</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Mr. Blank <br />- <em>On The Ground</em></a></td>
-<td>1994</td>
-<td>2LP Vinyl</td>
-<td>Fusion sound of ambient x dub x jazz etc.</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Deep Forest <br />- <em>Deep Forest</em></a></td>
-<td>1992</td>
-<td>CD</td>
-<td>World Ambient/Downtempo</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>アーティスト/タイトル</th>
+      <th>年代</th>
+      <th>フォーマット</th>
+      <th>ジャンル／特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc  <br />– <em>Podval EP</em></a></td>
+      <td>2012</td>
+      <td>限定Vinyl</td>
+      <td>Ambient Techno、ドープなサウンドスケープ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Spacetime Continuum <br />- <em>Emit Ecaps</em></a></td>
+      <td>1996</td>
+      <td>2LP Vinyl</td>
+      <td>IDM/テクノ寄りの90年代アンビエント傑作</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Secret Rooms…</em></a></td>
+      <td>1996</td>
+      <td>12″</td>
+      <td>トランス系アンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
+      <td>1997</td>
+      <td>12”</td>
+      <td>実験トリップホップ／アンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
+      <td>2023</td>
+      <td>Vinyl EP</td>
+      <td>チルアウト・バレアリック</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>Nature Morte!</em></a></td>
+      <td>2004</td>
+      <td>Vinyl</td>
+      <td>ミニマルアンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Mr. Blank <br />- <em>On The Ground</em></a></td>
+      <td>1994</td>
+      <td>2LP Vinyl</td>
+      <td>アンビエント×ダブ×ジャズなど融合サウンド</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Deep Forest <br />- <em>Deep Forest</em></a></td>
+      <td>1992</td>
+      <td>CD</td>
+      <td>ワールド・アンビエント／ダウンテンポ</td>
+    </tr>
+  </tbody>
 </table>
 </div>

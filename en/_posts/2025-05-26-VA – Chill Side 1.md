@@ -12,9 +12,9 @@ title: VA – Chill Side 1
 ---
 
 
-DJ Taiji, Hard Rock Firm, Madara, Yakomushi, Word Swingaz, 802 Flava, DJ Flesh & Kohei Japan
+DJ Taiji, Hard Rock Firm, Madara, 夜光虫, Word Swingaz, 802 Flava, DJ Flesh & Kohei Japan 
 
-2-disc LP reissue
+2枚組LP再発盤
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ D2. 802 Flava - 犧牲 - Instrumental
 D3. DJ Flesh & Kohei Japan - Funky Flow - Instrumental
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GTH4pHF04ao?si=K7jXbuhVLROYeJfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

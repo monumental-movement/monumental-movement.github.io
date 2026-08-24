@@ -10,26 +10,25 @@ tags:
 - House
 - EDM
 - Pop
-title: '[Column] The birth and expansion of tropical house: The contours of EDM changed
-  by the sound image of the tropics'
+title: 【コラム】 トロピカル・ハウスの誕生と拡張──南国の音像が変えたEDMの輪郭
 ---
 
 
 
-## What is Tropical House?
+## トロピカル・ハウスとは何か
 
-Text: mmr | Theme: Tropical house emerged as a gentle counter to the overheated dropism of EDM, and traces the transition that changed the very vocabulary of pop music.
+文：mmr｜テーマ：トロピカル・ハウスは、EDMの過熱したドロップ主義に対する穏やかなカウンターとして登場し、ポップミュージックの語法そのものを変えていった変遷を辿る
 
 
-### Acoustic design with a sense of calm and openness
+### 穏やかさと開放感の音響設計
 
-Tropical house is a subgenre of house that was established in the early 2010s, and is a style characterized by a slightly slower tempo, soft synth sounds, and Caribbean/tropical instrument tones. A major feature of this music is that it emphasizes a sustained and smooth groove, rather than the strong build-up and drop contrast seen in traditional EDM.
+トロピカル・ハウスとは、2010年代前半に確立されたハウスのサブジャンルであり、テンポをやや落とし、柔らかいシンセサウンドとカリブ海・南国的な楽器音色を特徴とするスタイルである。従来のEDMに見られる強烈なビルドアップとドロップの対比ではなく、持続的で滑らかなグルーヴを重視する点に大きな特徴がある。
 
-At the core of this genre is an ""aural climate.'' The acoustic design uses marimba, steel pan, soft pluck sounds, and deep spatial processing of reverb to give the listener a sense of "warmth" and even "humidity."
+このジャンルの核にあるのは「聴覚的な気候」である。マリンバやスティールパン、柔らかなプラック音、そしてリバーブの深い空間処理によって、リスナーに“暖かさ”や“湿度”すら感じさせる音響設計がなされている。
 
-Also, while the vocals are often emotional, they are not overly dramatic, and are placed so that they blend into the flow of the sound. This is the result of a strong awareness of the playback environment not only in clubs but also on radio and streaming.
+また、ボーカルはしばしばエモーショナルでありながらも過剰にドラマティックではなく、あくまで音の流れの中に溶け込むように配置される。これはクラブだけでなく、ラジオやストリーミングにおける再生環境を強く意識した結果でもある。
 
-> Sustained comfort rather than excessive stimulation is the starting point for this genre.
+> 過剰な刺激ではなく持続する心地よさこそが、このジャンルの出発点である。
 
 
 ---
@@ -39,7 +38,7 @@ Also, while the vocals are often emotional, they are not overly dramatic, and ar
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -48,87 +47,87 @@ color: #fff;
 </style>
 
 
-## Background and context of birth
+## 誕生の背景と文脈
 
-### EDM saturation and its backlash
+### EDMの飽和とその反動
 
-In the early 2010s, EDM was at the height of its global boom. At festivals, sounds that emphasized loud volume, high speed, and exhilaration became mainstream, and the impact of the drop was increasingly determining the value of a song.
+2010年代初頭、EDMは世界的なブームの頂点にあった。フェスティバルでは大音量・高速・高揚感を前面に押し出したサウンドが主流となり、ドロップのインパクトが楽曲の価値を決定づける傾向が強まっていた。
 
-However, on the other hand, a feeling of fatigue from this excess energy also spreads. The discomfort that club music had begun to function as ""instantaneous experiences to be consumed" rather than ""music to listen to" became the fertile ground for the birth of a new trend.
+しかしその一方で、こうした過剰なエネルギーに対する疲労感も広がっていく。クラブミュージックが「聴く音楽」としてではなく、「消費される瞬間的体験」として機能し始めたことへの違和感が、新たな潮流を生む土壌となった。
 
-In this trend, styles such as deep house, chill out, and Balearic were reevaluated. By combining these elements with pop structures, tropical house opened up to a wider audience.
+この流れの中で、ディープ・ハウスやチル・アウト、バレアリックといったスタイルが再評価される。トロピカル・ハウスは、それらの要素をポップ的な構造と結びつけることで、より広いリスナー層へと開かれていった。
 
-### Impact of Internet and Streaming
+### インターネットとストリーミングの影響
 
-Platforms like SoundCloud and YouTube have been essential to the expansion of tropical house. These media made it possible to spread music without relying on traditional clubs or labels.
+トロピカル・ハウスの拡大には、SoundCloudやYouTubeといったプラットフォームの存在が不可欠であった。これらの媒体は、従来のクラブやレーベルに依存しない形で音楽を拡散させることを可能にした。
 
-Particularly within the remix culture, there have been many attempts to reinterpret existing pop songs in a tropical house style, which has resulted in rapidly increasing recognition of the genre.
+特にリミックス文化の中で、既存のポップソングをトロピカル・ハウス的に再解釈する試みが多く見られ、それがジャンルの認知を急速に高める結果となった。
 
-> Tropical house is also music that grew up in networks rather than clubs.
-
----
-
-## Main artists and their roles
-
-### Style with Kygo
-
-Norwegian Kygo is an icon of tropical house. His songs set the tone for the genre with their piano-driven melodies and transparent sound design.
-
-His representative remixes and original songs all have structures that attract listeners through the strength of their melodies, while avoiding excessive decoration. This was a clear departure from EDM"s "drop-centricity'.
-
-### Thomas Jack and the establishment of the genre name
-
-Thomas Jack from Australia is known as the person who popularized the name ""tropical house.'' His DJ sets and mixes brought a tropical image to the fore, forming the genre's visual and sensual identity.
-
-In this way, tropical house was not just a musical style, but also became associated with a ""lifestyle" and ""image."
-
-> For the establishment of a genre, not only sounds but also words and images were essential.
+> トロピカル・ハウスはクラブではなくネットワークの中で育った音楽でもある。
 
 ---
 
-## Detailed analysis of musical characteristics
+## 主要アーティストとその役割
 
-### Rhythm and tempo
+### Kygoによるスタイルの確立
 
-The tempo of tropical house is generally around 100 to 115 BPM, which is slightly slower than regular house. This tempo setting indicates a direction that emphasizes relaxed fluctuations rather than physical exhilaration.
+ノルウェー出身のKygoは、トロピカル・ハウスの象徴的存在である。彼の楽曲は、ピアノ主体の旋律と透明感のあるサウンドデザインによって、ジャンルの方向性を決定づけた。
 
-The kick is modest, and the side chain pumping is also moderately suppressed. Instead, percussion and offbeat rhythms support the overall groove.
+代表的なリミックス作品やオリジナル曲は、いずれも過度な装飾を排しながらも、メロディの強さによってリスナーを惹きつける構造を持っている。これはEDMにおける「ドロップ中心主義」からの明確な逸脱であった。
 
-### Sound Design
+### Thomas Jackとジャンル名の定着
 
-Its distinctive feature is a synthesized sound that imitates natural sounds and acoustic textures. Sounds like flute, guitar, and marimba are often used, and these are reconstructed through digital processing.
+オーストラリア出身のThomas Jackは、「トロピカル・ハウス」という名称を広めた人物として知られている。彼のDJセットやミックスは、南国的なイメージを前面に押し出し、ジャンルの視覚的・感覚的なアイデンティティを形成した。
 
-Furthermore, in spatial processing, emphasis is placed on spaciousness and transparency. Reverb and delay are not just effects, but function as part of the music, creating a space that envelops the listener.
+このように、トロピカル・ハウスは単なる音楽スタイルではなく、「ライフスタイル」や「イメージ」と結びついて広がっていった。
 
-### Structure and expansion
-
-Tropical house song structures are relatively simple, and there are few sudden developments. Rather than the contrast between build-up and drop, the focus is on the layered structure that gradually changes.
-
-In this respect, it can be said that tropical house has shifted from ""music for clubs" to ""music for everyday life."
-
-> The arrangement of sounds and the flow of time itself shapes the listening experience.
+> ジャンルの成立には音だけでなく言葉とイメージが不可欠だった。
 
 ---
 
-## Influence on pop music
+## 音楽的特徴の詳細分析
 
-### Crossover progression
+### リズムとテンポ
 
-Tropical house has a very high affinity with pop music. In fact, many pop artists have adopted this style and achieved chart success.
+トロピカル・ハウスのテンポはおおむね100〜115BPM程度であり、一般的なハウスよりもやや遅い。このテンポ設定は、身体的な高揚よりもリラックスした揺らぎを重視する方向性を示している。
 
-This is the result of the genre's ""easy listening" and ""emotional openness" being accepted by a wide range of listeners. What is important is that while it is rooted in club culture, it has adapted to everyday environments such as at home and on the move.
+キックは控えめで、サイドチェインによるポンピングも穏やかに抑えられる。代わりにパーカッションやオフビートのリズムが、全体のグルーヴを支える。
 
-### Fit with the streaming era
+### サウンドデザイン
 
-Tropical house has become strongly associated with playlist culture on streaming services like Spotify. It has been consumed by many listeners as a song that fits the theme of relaxation and chill.
+特徴的なのは、自然音やアコースティックな質感を模したシンセサウンドである。フルートやギター、マリンバのような音色が多用され、それらがデジタル処理によって再構築される。
 
-As a result, music functions not only as a standalone work but also as part of the environment.
+また、空間処理においては広がりと透明感が重視される。リバーブやディレイは単なる効果ではなく、音楽の一部として機能し、リスナーを包み込むような空間を作り出す。
 
-> Tropical house is also a genre that has changed the way music is used.
+### 構造と展開
+
+トロピカル・ハウスの楽曲構造は比較的シンプルであり、急激な展開は少ない。ビルドアップとドロップの対比よりも、徐々に変化していくレイヤー構造が中心となる。
+
+この点において、トロピカル・ハウスは「クラブのための音楽」から「日常のための音楽」へとシフトしたといえる。
+
+> 音の配置と時間の流れそのものが、リスニング体験を形成する。
 
 ---
 
-## Chronology
+## ポップミュージックへの影響
+
+### クロスオーバーの進行
+
+トロピカル・ハウスは、ポップミュージックとの親和性が非常に高い。実際、多くのポップアーティストがこのスタイルを取り入れ、チャート上で成功を収めた。
+
+これは、ジャンルの持つ「聴きやすさ」と「感情の開放性」が、幅広いリスナーに受け入れられた結果である。クラブカルチャーに根ざしながらも、家庭や移動中といった日常的な環境に適応した点が重要である。
+
+### ストリーミング時代との適合
+
+Spotifyなどのストリーミングサービスにおいて、トロピカル・ハウスはプレイリスト文化と強く結びついた。リラックスやチルといったテーマに適合する楽曲として、多くのリスナーに消費されていく。
+
+その結果、音楽は単体の作品としてだけでなく、環境の一部として機能するようになる。
+
+> トロピカル・ハウスは音楽の「使われ方」を変えたジャンルでもある。
+
+---
+
+## 年表
 
 <div class="mermaid">
 timeline
@@ -144,32 +143,32 @@ timeline
 
 ---
 
-## Structural model diagram
+## 構造モデル図
 
 <div class="mermaid">
 flowchart LR
-    A[Tempo drop] --> B[relaxing groove]
-    B --> C[soft synth]
-    C --> D[spatial extent]
-    D --> E[Emotional but gentle vocals]
-    E --> F[Adaptation to everyday listening]
+    A[テンポ低下] --> B[リラックスしたグルーヴ]
+    B --> C[柔らかいシンセ]
+    C --> D[空間的広がり]
+    D --> E[感情的だが穏やかなボーカル]
+    E --> F[日常的リスニングへの適応]
 </div>
 
 ---
 
-## Now and beyond
+## 現在とその先
 
-### Diffusion and blurring of genres
+### ジャンルの拡散と曖昧化
 
-Currently, tropical house is gradually losing its boundaries as a clear genre. Its elements have spread to pop, R&B, lo-fi, and even ambient, and function as a single ""style" and ""texture."
+現在、トロピカル・ハウスは明確なジャンルとしての境界を徐々に失いつつある。その要素はポップ、R&B、ローファイ、さらにはアンビエントにまで拡散し、ひとつの「スタイル」や「質感」として機能している。
 
-This phenomenon shows that genres exist not as fixed frameworks but as fluid networks.
+この現象は、ジャンルが固定された枠組みではなく、流動的なネットワークとして存在することを示している。
 
-### Possibility of re-evaluation
+### 再評価の可能性
 
-On the other hand, there are also signs that past tropical house works are being reevaluated. This is because it is being reconsidered not just as a trend, but as an important expression that symbolizes the music culture of the 2010s.
+一方で、過去のトロピカル・ハウス作品が再評価される動きも見られる。これは、単なる流行としてではなく、2010年代の音楽文化を象徴する重要な表現として捉え直されているためである。
 
-> Tropical house is not a dead genre, but continues to live on in different forms.
+> トロピカル・ハウスは終わったジャンルではなく、形を変えて生き続けている。
 
 
 ---

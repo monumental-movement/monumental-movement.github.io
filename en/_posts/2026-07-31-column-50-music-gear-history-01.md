@@ -10,28 +10,27 @@ tags:
 - Synthesizer
 - Drum Machine
 - Sampler
-title: '[Column] 50 music equipment that changed the world Part 1 TR-808 SP-1200 MPC
-  Fairlight DX7 LinnDrum TB-303'
+title: 【コラム】 世界を変えた音楽機材50選 Part1 TR-808 SP-1200 MPC Fairlight DX7 LinnDrum TB-303
 ---
 
 
-## Why "equipment" changes history
+## なぜ「機材」が歴史を変えるのか
 
-Text: mmr｜Theme: Understanding 50 pieces of equipment that greatly changed the history of world music, such as synthesizers, drum machines, samplers, and recording equipment, from their origins and cultural influences.
+文：mmr｜テーマ：シンセサイザー、ドラムマシン、サンプラー、レコーディング機材など、世界の音楽史を大きく変えた50の機材を、その誕生背景と文化的影響から読み解く
 
 In the history of music, composers and performers are often the focus.
 
-However, in reality, behind the birth of new expressions is the existence of new tools.
+しかし実際には、新しい表現が誕生する背景には、新しい道具の存在がある。
 
-Just as the piano developed classical music, the electric guitar gave birth to rock, the sampler changed hip-hop, and the drum machine rewrote the history of dance music.
+ピアノがクラシック音楽を発展させたように、エレキギターはロックを生み、サンプラーはヒップホップを変え、ドラムマシンはダンスミュージックの歴史を書き換えた。
 
-If the equipment changes, the way you perform will change.
+機材が変われば演奏方法が変わる。
 
-If you change the way you perform, the way you compose will change.
+演奏方法が変われば作曲方法が変わる。
 
 If the method of composing music changes, the experience of listening to music will also change.
 
-In other words, the history of music equipment is also the history of music culture itself.
+つまり、音楽機材の歴史は、音楽文化そのものの歴史でもある。
 
 Since the 1970s, with the development of electronic circuits and digital technology, sounds that were previously impossible to create by humans have appeared one after another.
 
@@ -78,39 +77,39 @@ Just by looking at this chronology, you can see that much of the electronic musi
 
 On the other hand, there are many devices that were not well received when they were first released.
 
-Many of the devices that are now considered masterpieces were not commercially successful when they were first released, but were later reevaluated in a new music culture.
+現在では名機と呼ばれる機材の多くが、発売当初は商業的には成功とは言えず、後になって新しい音楽文化の中で再評価された。
 
-> A famous machine is one that has been used for decades, not one that was praised on the day it was released.
+> 名機とは、発売日に評価された機材ではなく、何十年も使われ続けた機材である。
 
 ---
 
-## Selection criteria for 50 music equipment that changed the world
+## 世界を変えた音楽機材50選の選定基準
 
-The 50 models introduced in this article are not just a popularity ranking.
+本記事で紹介する50機種は、単なる人気ランキングではない。
 
-The selection was made comprehensively from the following points of view.
+以下の観点から総合的に選定している。
 
-|Evaluation items|Contents|
+|評価項目|内容|
 |---|---|
-|Technological innovation|Did you create a new performance or production method?|
+|技術革新|新しい演奏方法や制作方法を生み出したか|
 |Cultural influence|Did it form new genres and scenes?|
-|Popularity|Has it been used for a long time all over the world?|
-|Inheritance|Did it affect successor models or software?|
-|Currentness|Is it still used in production today?|
+|普及度|世界中で長期間使用されたか|
+|継承性|後継機やソフトウェアへ影響を与えたか|
+|現在性|現代でも制作現場で使われているか|
 
-There is a clear reason why a company cannot be evaluated based on the number of units sold alone.
+販売台数だけでは評価できない理由は明確である。
 
-Equipment that sold in large quantities did not necessarily change music history.
+大量に売れた機材が必ずしも音楽史を変えたとは限らない。
 
-On the other hand, there are some pieces of equipment that have an extremely large impact on future generations, even if their production numbers are small.
+反対に、生産台数が少なくても後世への影響が極めて大きい機材も存在する。
 
-Fairlight CMI and EMS VCS3 are representative examples.
+Fairlight CMIやEMS VCS3はその代表例である。
 
-There are also instruments like the TR-808 and TB-303 that were not commercially successful when first released, but continued to support new genres for decades.
+また、TR-808やTB-303のように発売当初は商業的に成功しなかったにもかかわらず、その後数十年にわたり新しいジャンルを支え続けた機材もある。
 
-This column focuses on such "equipment that has proven its worth over time."
+このコラムでは、そうした「時間を超えて価値が証明された機材」を中心に取り上げる。
 
-> A true masterpiece is talked about not by its sales at the time of release, but by its influence on future generations.
+> 真の名機は、発売時の売上ではなく、後世への影響によって語られる。
 
 ---
 
@@ -119,9 +118,9 @@ This column focuses on such "equipment that has proven its worth over time."
 <div class="mermaid">
 flowchart LR
 
-A["Development of electronic circuits"]
-B["synthesizer"]
-C["Drum machine"]
+A["電子回路の発達"]
+B["シンセサイザー"]
+C["ドラムマシン"]
 D["sampler"]
 E["MIDI"]
 F["DAW"]
@@ -138,36 +137,36 @@ F --> G
 
 The development of electronic music was not made possible by a single invention.
 
-The current music production environment has been formed as a result of the accumulation of multiple technological innovations: analog synthesizers, rhythm machines, digital sampling, equipment linkage via MIDI, and integrated production environments using DAWs.
+アナログシンセサイザー、リズムマシン、デジタルサンプリング、MIDIによる機器連携、そしてDAWによる統合制作環境という複数の技術革新が積み重なった結果として、現在の音楽制作環境が形づくられている。
 
-Therefore, in this article, we will not be looking at genres, but will be deciphering the role of each piece of equipment within the overall flow of music history.
+そのため、本記事ではジャンル別ではなく、音楽史全体の流れの中で各機材の役割を読み解いていく。
 
-> The history of music equipment is a history of evolution resulting from the accumulation of revolutions with each piece of equipment.
+> 音楽機材の歴史とは、一台ごとの革命が積み重なってできた進化の歴史である。
 
 
 ---
 
 ## 1. Fairlight CMI — A digital revolution that ushered in an era in which sound is treated as a "material"
 
-The Fairlight CMI (Computer Musical Instrument), introduced in 1979, was a piece of equipment that fundamentally changed the way we thought about music production.
+1979年に登場したFairlight CMI（Computer Musical Instrument）は、音楽制作の考え方を根本から変えた機材だった。
 
 Until then, synthesizers had mainly created artificial waveforms using electronic circuits.
 
-However, Fairlight CMI introduced a new concept of recording real sound and processing it as digital data.
+しかしFairlight CMIは、現実の音を録音し、それをデジタルデータとして加工するという新しい概念を持ち込んだ。
 
-In other words, sound has become not only ""something to be played" but also ""material to be edited."
+つまり、音は「演奏するもの」だけではなく、「編集する素材」になった。
 
-Fairlight CMI was an early music production system equipped with digital sampling, sequencer, and waveform editing functions, and had ideas that led to today's DAW (Digital Audio Workstation).
+Fairlight CMIは、デジタルサンプリング、シーケンサー、波形編集機能を備えた初期の音楽制作システムであり、現在のDAW（Digital Audio Workstation）へつながる思想を持っていた。
 
-What was particularly innovative was the ability to see the sound waveform on the screen.
+特に革新的だったのは、画面上で音の波形を見ることができた点である。
 
 音を耳だけで判断するのではなく、視覚的な情報として編集するという考え方は、その後のコンピューター音楽制作の基本となった。
 
-In the 1980s, innovative artists such as Peter Gabriel, Kate Bush, and Herbie Hancock introduced Fairlight CMI.
+1980年代には、Peter Gabriel、Kate Bush、Herbie Hancockなどの革新的なアーティストがFairlight CMIを導入した。
 
-They used sampling not just as a special effect, but as the core of their composition and expression itself.
+彼らはサンプリングを単なる特殊効果ではなく、作曲や表現そのものの中心として利用した。
 
-With Fairlight CMI, musicians have gained a new idea of ​​not only creating ""sounds that don't exist" but also ""converting the sounds of the existing world into music."
+Fairlight CMIによって、ミュージシャンは「存在しない音」を作るだけではなく、「存在する世界の音を音楽へ変換する」という新しい発想を得た。
 
 This idea has been passed down to later sampler culture, hip-hop production, electronic music, and today's DAW environment.
 
@@ -175,21 +174,21 @@ This idea has been passed down to later sampler culture, hip-hop production, ele
 
 ---
 
-## 2. Minimoog Model D — What transformed the synthesizer from a gigantic device into a playable instrument
+## 2. Minimoog Model D — シンセサイザーを巨大な装置から演奏可能な楽器へ変えた存在
 
-Released in 1970, the Minimoog Model D is one of the most important pieces of equipment in the history of electronic music.
+1970年に発売されたMinimoog Model Dは、電子音楽の歴史における最重要機材の一つである。
 
-Until the 1960s, synthesizers were mainly large, complex modular systems.
+1960年代までのシンセサイザーは、大型で複雑なモジュラーシステムが中心だった。
 
 They were intended for research facilities and professional studios, and were not intended for ordinary musicians to use on stage.
 
-The Minimoog has miniaturized the complex electronic circuitry and packaged it into a form that can be played as a keyboard instrument.
+Minimoogは、その複雑な電子回路を小型化し、鍵盤楽器として演奏できる形にまとめた。
 
 The thick, bold tone produced by three oscillators, a low-pass filter, and envelope control captivated many musicians.
 
-Of particular importance was the transition of the synthesizer from a ""futuristic sound effect-making machine" to a ""main performance instrument."
+特に重要だったのは、シンセサイザーが「未来的な効果音を作る機械」から「主要な演奏楽器」へ変化したことである。
 
-Progressive rock greatly expanded the possibilities of synthesizers, and influenced electronic music, funk, pop, and film music.
+プログレッシブ・ロックではシンセサイザーの可能性を大きく広げ、電子音楽、ファンク、ポップス、映画音楽にも影響を与えた。
 
 Many analog synthesizers that have appeared since then inherited the philosophy of operability and sound creation established by the Minimoog.
 
@@ -207,41 +206,41 @@ Before that, drum machines were mainly artificial percussion sounds produced by 
 
 However, the LM-1 used sample sounds recorded from actual drum performances.
 
-This technology has made it possible to create expressions that resemble human drumming rather than mechanical rhythms.
+この技術によって、機械的なリズムではなく、人間のドラム演奏に近い表現が可能になった。
 
 さらに、個別の音量調整、パターン編集、プログラム可能なリズム制作など、現代のビート制作につながる機能を備えていた。
 
 1980年代のポップ、ファンク、ニューウェーブでは、LM-1による新しいリズム感が広がった。
 
-Prince in particular utilized this equipment to create his own rhythm programming.
+特にPrinceは、この機材を活用して独自のリズムプログラミングを作り上げた。
 
-Until then, drum machines were often seen as a substitute for drummers.
+ドラムマシンは、それまでドラマーの代用品として見られることが多かった。
 
 しかしLM-1によって、リズムを「演奏する」だけではなく、「設計する」という考え方が広まった。
 
-> The Linn LM-1 transformed drums from recorded sounds into buildable instruments.
+> Linn LM-1は、ドラムを録音された音から構築可能な楽器へ変えた。
 
 ---
 
-## 4. Roland TR-808 — the legendary rhythm machine that birthed electronic beat culture
+## 4. Roland TR-808 — 電子ビート文化を生み出した伝説のリズムマシン
 
 Released in 1980, the Roland TR-808 Rhythm Composer is one of the most influential drum machines in music history.
 
 At its initial release, the TR-808 was not a huge success in the market.
 
-The reason was that the sound was artificial and electronic, different from the reproduction of live drums that was needed at the time.
+理由は、当時求められていた生ドラムの再現とは異なる、人工的で電子的な音だったためである。
 
 However, its distinctive sound would later become of great value.
 
 The deep resonating bass drum, sharp hi-hat, and unique snare sound made it possible to express new rhythms that had not existed before.
 
-1980年代のヒップホップ、エレクトロ、テクノ、マイアミベースでは、TR-808の音が重要な役割を果たした。
+The sound of the TR-808 played an important role in hip-hop, electro, techno, and Miami bass in the 1980s.
 
 Especially the strong kick sound in the low range became the basis of the huge bass feeling in club music.
 
-TR-808は単なるドラムマシンではない。
+The TR-808 is more than just a drum machine.
 
-It was a cultural tool that gave birth to a new genre.
+それは、新しいジャンルを生み出した文化的な道具だった。
 
 From hip-hop to modern trap, its influence continues more than 40 years later.
 
@@ -249,63 +248,63 @@ From hip-hop to modern trap, its influence continues more than 40 years later.
 
 ---
 
-## 5. Roland TB-303 — Acid revolution born from failure
+## 5. Roland TB-303 — 失敗から生まれたアシッド革命
 
-1981年に発売されたRoland TB-303 Bass Lineは、当初はベーシストの代替機材として開発された。
+Released in 1981, the Roland TB-303 Bass Line was originally developed as a replacement for bassists.
 
 However, it was not successful in reproducing actual bass performance, and it disappeared from the market for a short period of time.
 
 However, in the late 1980s, the TB-303's unique tone was rediscovered in the Chicago house music scene.
 
-The undulating sound created by manipulating the filter has become a new expression called ""acid sound.''
+フィルターを操作することで生まれるうねるようなサウンドは、「アシッドサウンド」と呼ばれる新しい表現になった。
 
-The music centered around TB-303 spread around the world as acid house, and had a great influence on the development of club culture and the rave scene.
+TB-303を中心とした音楽はアシッドハウスとして世界へ広がり、クラブ文化やレイブシーンの発展に大きな影響を与えた。
 
 The history of this equipment shows that its future is not solely determined by its creator's intended use.
 
-New discoveries made by musicians can change the value of equipment later on.
+ミュージシャンによる新しい発見が、機材の価値を後から変えることがある。
 
-> The TB-303 was not a failure, but a revolution that lay dormant until a future use was discovered.
+> TB-303は失敗作ではなく、未来の使い方を発見されるまで眠っていた革命だった。
 
 ---
 
 ## 6. Yamaha DX7 — The sound that defined the digital synthesizer era
 
-Released in 1983, the Yamaha DX7 is a digital synthesizer that symbolizes the music sound of the 1980s.
+1983年に発売されたYamaha DX7は、1980年代の音楽サウンドを象徴するデジタルシンセサイザーである。
 
-Unlike the analog synthesizers that had been mainstream until then, the DX7 adopted a method called FM sound source (Frequency Modulation synthesis).
+それまで主流だったアナログシンセサイザーとは異なり、DX7はFM音源（Frequency Modulation synthesis）という方式を採用した。
 
-By mathematically combining multiple waveforms, FM sound sources created tones that were difficult to create with previous analog methods, such as metallic bell sounds, transparent pads, and sharp electric pianos.
+FM音源は、複数の波形を数学的に組み合わせることで、金属的なベル音、透明感のあるパッド、鋭いエレクトリックピアノなど、それまでのアナログ方式では作りにくかった音色を生み出した。
 
-With the advent of the DX7, the sound creation of synthesizers changed dramatically.
+DX7の登場によって、シンセサイザーの音作りは大きく変化した。
 
-With analog synths, it was common to change the sound by directly operating knobs, but with the DX7, it is now possible to precisely preserve tones through digital control.
+アナログシンセではノブを直接操作して音を変化させることが一般的だったが、DX7ではデジタル制御による正確な音色保存が可能になった。
 
-Furthermore, it has 128 preset tones, allowing you to create complex sounds without any specialized knowledge.
+さらに、128種類のプリセット音色を内蔵し、複雑な音作りを専門知識がなくても利用できるようになった。
 
 1980年代のポップミュージックではDX7の音が大量に使用され、エレクトリックピアノ、ベース、ストリングス、ブラスなど、多くの象徴的な音色を作り出した。
 
-On the other hand, the spread of DX7 also served as an opportunity to accelerate the digitalization of music production.
+一方で、DX7の普及は音楽制作のデジタル化を加速させるきっかけにもなった。
 
-By combining it with the MIDI standard, a production environment in which multiple electronic musical instruments could be linked became widespread.
+MIDI規格と組み合わせることで、複数の電子楽器を連携させた制作環境が広がっていった。
 
-The DX7 was not just a hit product, it was a piece of equipment that shaped the sonic image of 1980s music itself.
+DX7は単なるヒット商品ではなく、1980年代の音楽そのものの音響イメージを形成した機材だった。
 
-> The DX7 transformed the synthesizer from analog experimental equipment to the standard instrument of the digital age.
+> DX7はシンセサイザーをアナログの実験機材から、デジタル時代の標準楽器へ変えた。
 
 ---
 
-## 7. Akai MPC60 — A beat production machine that perfected sampling culture
+## 7. Akai MPC60 — サンプリング文化を完成させたビート制作機
 
-Released in 1988, the Akai MPC60 is a piece of equipment that defined modern beatmaking culture.
+1988年に発売されたAkai MPC60は、現代のビートメイキング文化を決定づけた機材である。
 
 開発には、後に「MPCの父」と呼ばれるRoger Linnが関わった。
 
 MPC60は、サンプラー、シーケンサー、パッドコントローラーを一体化した音楽制作システムだった。
 
-Until then, sampling equipment was expensive and complicated to operate.
+それまでサンプリング機材は高価で操作も複雑だった。
 
-However, the MPC60 uses an intuitive operating method that allows you to create rhythms by hitting the pads with your fingers.
+しかしMPC60は、指でパッドを叩いてリズムを作るという直感的な操作方法を採用した。
 
 このインターフェースは、現在のフィンガードラムやビート制作の基本となっている。
 
@@ -313,77 +312,77 @@ Especially in hip-hop production, MPC became a revolutionary presence.
 
 Producers could now sample drum sounds and phrases from records and reconstruct them to create new beats.
 
-MPC has made it possible for individuals without a studio environment to produce advanced music.
+MPCによって、スタジオ環境を持たない個人でも高度な音楽制作が可能になった。
 
-Since the 1990s, many hip-hop producers have created works centered on MPC.
+1990年代以降、多くのヒップホッププロデューサーがMPCを中心に作品を制作した。
 
-It also influenced not only hip-hop but also a wide range of genres such as house, techno, and electronica.
+また、ヒップホップだけでなく、ハウス、テクノ、エレクトロニカなど幅広いジャンルにも影響を与えた。
 
 > MPC60はサンプラーを録音機材から、新しい音楽を作るための楽器へ変えた。
 
 ---
 
-## 8. Roland TR-909 — The machine that defined the rhythms of house and techno
+## 8. Roland TR-909 — ハウスとテクノのリズムを定義したマシン
 
-The Roland TR-909 Rhythm Composer, released in 1983, is a historic drum machine along with the TR-808.
+1983年に発売されたRoland TR-909 Rhythm Composerは、TR-808と並ぶ歴史的なドラムマシンである。
 
 The TR-909 had a hybrid structure that combined analog circuitry tones with digital sampling.
 
 Of particular importance were the powerful kick, sharp hi-hat, and strong clap sound.
 
-Although it was not a commercial success when released, it became widely used in the house and techno scenes of the late 1980s and early 1990s.
+発売当初は商業的成功を収めなかったが、1980年代後半から1990年代初頭のハウスやテクノシーンで広く使用されるようになった。
 
-The TR-909's 4/4 beat formed the basic rhythmic structure of club music.
+TR-909の4つ打ちビートは、クラブミュージックの基本的なリズム構造を形成した。
 
 シカゴ・ハウス、デトロイト・テクノ、ヨーロッパのダンスミュージックでは、909の音がジャンルの象徴となった。
 
-Another reason for its popularity was that it was compatible with MIDI, making it easy to link with other electronic musical instruments.
+また、MIDI対応によって他の電子楽器との連携が容易だったことも普及の理由だった。
 
-The TR-909 was extremely compatible with the huge sound systems played in clubs, and was deeply connected to the development of dance floor culture.
+TR-909は、クラブで鳴らされる巨大な音響システムとの相性が非常に高く、ダンスフロア文化の発展と深く結びついた。
 
-> The TR-909 wasn't a rhythm machine, it was a blueprint for time that moved dance floors around the world.
+> TR-909はリズムマシンではなく、世界中のダンスフロアを動かした時間の設計図だった。
 
 ---
 
-## 9. Sequential Circuits Prophet-5 — The masterpiece that created the future of polyphonic synths
+## 9. Sequential Circuits Prophet-5 — ポリフォニックシンセの未来を作った名機
 
 1978年に発売されたProphet-5は、世界初の完全プログラマブル・ポリフォニックシンセサイザーの一つである。
 
 それ以前の多くのシンセサイザーは、演奏前に手作業で音色を調整する必要があった。
 
-However, the Prophet-5 was able to save the created tones in its memory.
+しかしProphet-5は、作成した音色をメモリーへ保存できた。
 
 この機能は、シンセサイザーをライブ演奏でより実用的な楽器へ変えた。
 
-Another major feature was that it was capable of producing five notes at the same time, and had both the thick tones typical of analog synths and stable operability.
+5音同時発音が可能で、アナログシンセ特有の太い音色と安定した操作性を両立した点も大きな特徴だった。
 
 The Prophet-5 was used in a wide range of fields including pop, rock, film music, and electronic music.
 
-It also had a major influence on the idea of ​​"presets" in later digital synthesizers and software sound sources.
+また、後のデジタルシンセサイザーやソフトウェア音源における「プリセット」という考え方にも大きな影響を与えた。
 
-The idea of ​​preserving and reusing tones has become commonplace in today's music production environment.
+音色を保存し、再利用するという発想は、現在の音楽制作環境では当たり前になっている。
 
-One of the origins of this was the Prophet-5.
+その原点の一つがProphet-5だった。
 
 > The Prophet-5 evolved the synthesizer from an experimental device to an instrument that can memorize.
 
 ---
 
-## 10. Roland D-50 — A new acoustic world that combines analog and digital
+## 10. Roland D-50 — アナログとデジタルを融合した新しい音響世界
 
-The Roland D-50, released in 1987, is a digital synthesizer that symbolizes the music sound of the late 1980s.
+1987年に発売されたRoland D-50は、1980年代後半の音楽サウンドを象徴するデジタルシンセサイザーである。
 
-The D-50 uses a method called LA sound source (Linear Arithmetic synthesis).
+D-50は、LA音源（Linear Arithmetic synthesis）という方式を採用した。
 
-This technology combines short PCM sample sounds and digitally synthesized sounds to achieve both realistic textures and electronic expression.
+これは短いPCMサンプル音とデジタル合成音を組み合わせることで、リアルな質感と電子的な表現を両立する技術だった。
 
-At the time, it was thought that it would be difficult to achieve natural expression with a completely digital sound source.
+当時、完全なデジタル音源では自然な表現が難しいと考えられていた。
 
-The D-50 proposed a new solution to this problem by combining "recorded sound" and "synthesized sound."
+D-50は、その問題に対して「録音された音」と「合成音」を組み合わせるという新しい解決策を提示した。
 
 代表的な音色には、幻想的なパッド、ベル系サウンド、空間的なシンセ音などがあり、1980年代後半から1990年代初頭のポップスや映画音楽に大きな影響を与えた。
 
-The D-50 bridged the gap between the analog synthesizer era and the all-digital era.
+D-50は、アナログシンセサイザー時代と完全デジタル時代の橋渡しとなった存在である。
 
 現在のハイブリッド音源やソフトウェアシンセサイザーにも、その設計思想は受け継がれている。
 
@@ -391,21 +390,21 @@ The D-50 bridged the gap between the analog synthesizer era and the all-digital 
 
 ---
 
-## Music equipment revolution revealed in Part 1
+## Part1で見えてきた音楽機材革命
 
-The equipment that appeared in the 1970s and 1980s didn't just create new sounds.
+1970年代から1980年代にかけて登場した機材は、単に新しい音を作っただけではない。
 
-Fairlight CMI turns sound into editable data.
+Fairlight CMIは音を編集可能なデータへ変えた。
 
 Minimoogはシンセサイザーを演奏楽器へ変えた。
 
-The TR-808 and TR-909 transformed rhythm itself into culture.
+TR-808とTR-909はリズムそのものを文化へ変えた。
 
-TB-303 created a new genre by chance.
+TB-303は偶然から新しいジャンルを生み出した。
 
-The DX7 and D-50 ushered in the digital audio era.
+DX7やD-50はデジタル音響時代を開いた。
 
-And MPC created an era in which individuals could rebuild music.
+そしてMPCは、個人が音楽を再構築する時代を作った。
 
 What these pieces of equipment have in common is that they have been rediscovered by new musicians beyond the intended use of their creators.
 

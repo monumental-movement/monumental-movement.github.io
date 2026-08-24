@@ -11,7 +11,7 @@ title: Various – The Great Fighting II
 ---
 
 
-"V/A - Various - The Great Fighting II" was released by Overseas Records in 1978.
+「V/A - 必殺のプロレス・テーマ集 - Various – The Great Fighting II」は、1978年にOverseas Recordsからリリースされました。
 
 #### Tracklist
 ```md
@@ -37,5 +37,5 @@ B1. Jigsaw –覆面兄弟 「マスカラス・ブラース」のテーマ～�
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
 

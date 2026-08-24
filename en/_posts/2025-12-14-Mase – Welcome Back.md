@@ -12,11 +12,11 @@ title: Mase – Welcome Back
 ---
 
 
-Mase (Ma$e) is a Florida rapper known for his 1997 hit album Harlem World, which featured artists such as Jay-Z, DMX, and Lil' Kim.
+Mase(メイス／Ma$e)は、ジェイZ、DMX、リル・キムなどが参加した1997年のヒットアルバム『ハーレム・ワールド』などで知られるフロリダ出身のラッパー。
 
-After releasing their second album, ""Double Up," in 1999, they retired, but returned in 2004 with ""Welcome Back."
+1999年にセカンドアルバム『ダブル・アップ』をリリース後、引退するが、2004年に「Welcome Back」で復帰。
 
-"Welcome Back" was released by Bad Boy Entertainment, and B's "Breathe, Stretch, Shake" features P. Diddy.
+「Welcome Back」は、Bad Boy Entertainmentからリリースされ、Bの「Breathe, Stretch, Shake」はP. Diddyをフィーチャーしている。
 
 #### Tracklist
 ```md

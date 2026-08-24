@@ -13,13 +13,13 @@ title: DJ Emerson – Firefly EP
 ---
 
 
-Simon Emerson Kidder, also known as DJ Emerson, is a techno DJ/producer from Berlin. He is also the co-founder of the labels Kiddaz.fm and Micro.fon, and is also active in the techno project New Church Of Moneymakers, the tech house project Pawn Shop People, and Style Rockets.
+DJ EmersonことSimon Emerson Kidderは、ベルリン出身のTechno DJ／プロデューサー。レーベルKiddaz.fmやMicro.fonの共同設立者でもあり、テクノプロジェクトNew Church Of Moneymakers、テックハウスプロジェクトPawn Shop People、Style Rocketsなどでも活動している。
 
-"Firefly EP" is a Techno/Tech House track released on Kiddaz.fm's sub-label freakWaves in 2006.
+「Firefly EP」は、2006年にKiddaz.fmのサブレーベルfreakWavesからリリースしたTechno／Tech Houseトラック。
 
-A2 was remixed by American techno DJ/producer Tim Xavier.
+A2は、アメリカのテクノDJ／プロデューサーTim Xavierによりリミックス。
 
-B1 is a remix by American DJ/producer Butane (Andrew Rasse), who runs the labels alphahouse, Little Helpers, and Extrasketch.
+B1は、レーベルalphahouse、Little Helpers、Extrasketchを運営するアメリカのDJ／プロデューサーButane(Andrew Rasse)によるリミックス。
 
 
 #### Tracklist
@@ -31,5 +31,5 @@ B1. Dubadura (Butane Remix)
 B2. Dubadura
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m93072112246?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93072112246?afid=6142608987){: .button1}
 

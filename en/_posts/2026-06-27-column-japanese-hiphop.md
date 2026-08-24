@@ -21,7 +21,7 @@ Text: mmr｜Theme: From subculture to mainstream, the evolutionary history of Ja
 
 ### The impact of street culture and its arrival in Japan
 
-The reception of hip-hop in Japan in the 1980s was not just an import of a music genre, but an ""importation of physical expression and urban culture." Break dancing, DJing, and rap were introduced in sets, creating a ""complex culture" that did not exist in the Japanese music context at the time.
+1980年代の日本におけるヒップホップ受容は、単なる音楽ジャンルの輸入ではなく「身体表現と都市文化の輸入」だった。ブレイクダンス、DJ、ラップがセットで流入し、それは当時の日本の音楽文脈には存在しない“複合文化”だった。
 
 Particularly in Harajuku and Shibuya in Tokyo, dance teams gathered on the streets, and hip-hop as a visual culture took the lead in spreading.
 
@@ -42,7 +42,7 @@ color: #fff;
 ---
 
 
-### The appearance of DJ Krush and "sound abstraction"
+### The emergence of DJ Krush and "sound abstraction"
 
 One of the important turning points in the history of Japanese hip-hop was the emergence of DJ Krush. He transcended the boundaries of rap and treated the beat itself like "environmental music."
 
@@ -96,7 +96,7 @@ D --> G[Buddha Brand]
 
 ### Mainstreaming Zeebra and Expanding Hip-Hop
 
-Zeebra became a symbol of the mainstreaming of Japanese rap. Expanding his activities from clubs to television and from the streets to advertising, he instantly raised the social recognition of hip-hop.
+Zeebra became a symbol of the mainstreaming of Japanese rap. They expanded their activities from clubs to television, from the streets to advertising, and instantly boosted hip-hop's social recognition.
 
 On the other hand, this "success" also created a distance from the underground.
 
@@ -108,7 +108,7 @@ What was important here was that audiences began to appreciate not only the ""ac
 
 ### Rhymester and the establishment of intellectual rap
 
-Rhymester established themselves in the 2000s as a rare band that could both be pop and critical. They created humor and social criticism at the same time, expanding the ""intellectual realm'' of Japanese rap.
+Rhymesterは、ポップと批評性を両立させる稀有な存在として2000年代に確固たる地位を築いた。彼らはユーモアと社会批評を同時に成立させ、日本語ラップの“知性領域”を拡張した。
 
 <div class="mermaid">
 flowchart TD
@@ -116,7 +116,7 @@ A[2000s] --> B[Major expansion]
 A --> C[MC battle culture]
 A --> D[intellectual rap]
 B --> E[Zeebra]
-C --> F[impromptu competition]
+C --> F[即興競技化]
 D --> G[Rhymester]
 </div>
 
@@ -136,7 +136,7 @@ This was a shift from the traditional "expression of strength" to "expression of
 
 ANARCHY was a rapper who continued to depict the reality of the streets, and even after his success, he continued to develop works centered on depicting reality.
 
-His presence presented a perspective of ""coexistence with the streets" rather than ""escape from the streets."
+彼の存在は“ストリートからの脱出”ではなく“ストリートとの共存”という視点を提示した。
 
 ### The Rise of Trap and BAD HOP
 
@@ -164,7 +164,7 @@ D --> G[ANARCHY]
 
 After SoundCloud, rap completely shifted to individual production. By releasing works without going through a studio or label, hip-hop changed from ""professional music" to ""an extension of life."
 
-### Collapse of music genres
+### 音楽ジャンルの崩壊
 
 Hip-hop is merging with electro, rock, and pop, and clear genre boundaries are disappearing. This has led to an increase in the number of rappers who are also producers at the same time.
 

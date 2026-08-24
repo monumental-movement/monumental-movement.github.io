@@ -10,22 +10,21 @@ tags:
 - Synth Pop
 - New Wave
 - 80s
-title: '[Column] Two evolutionary lines of synth pop: The divergence and integration
-  of 1980s electronic music depicted by Depeche Mode and Human League'
+title: 【コラム】 シンセポップの二つの進化系統：Depeche ModeとHuman Leagueが描いた80年代電子音楽の分岐と統合
 ---
 
 
-## Introduction: How electronic music redefines "humanity"
+## 導入：電子音楽が「人間」をどう再定義したか
 
-Text: mmr｜Theme: Comparing two groups representing British synth pop in the 1980s and deciphering their differences and commonalities from multiple perspectives, including musicality, philosophy, social background, commerciality, and influence on contemporary music.
+文：mmr｜テーマ：1980年代英国シンセポップを代表する二組を比較し、音楽性、思想、社会背景、商業性、そして現代音楽への影響まで、多角的にその違いと共通点を読み解く
 
-In the early 1980s, synthesizers became more than just musical instruments. It's not an extension of rock or an embellishment of disco. It appears as a presence that changes the design philosophy of music itself.
+1980年代初頭、シンセサイザーは単なる楽器ではなくなった。ロックの延長でも、ディスコの装飾でもない。音楽そのものの設計思想を変える存在として登場する。
 
-Depeche Mode and the Human League played a key role in this. Although both belong to the same British synth pop trend, the direction of their evolution is vastly different. One side has progressed to ""electronic music that sinks into the dark side of emotion," and the other has progressed to ""the democratization and mechanization of pop."
+その中で重要な役割を担ったのがDepeche ModeとHuman Leagueだった。両者は同じ英国シンセポップの潮流に属しながらも、その進化の方向は大きく異なる。片方は“感情の暗部へ沈む電子音楽”、もう片方は“ポップの民主化と機械化”へと進んだ。
 
-This difference is not just a difference in musicality, but also a turning point in the era of the 1980s itself.
+この違いは単なる音楽性の差ではなく、80年代という時代そのものの分岐点でもある。
 
-> Synthpop was not music to replace humans, but an experiment in redesigning humans.
+> シンセポップは人間を置き換える音楽ではなく、人間を再設計する実験だった
 
 
 <style type="text/css">
@@ -33,7 +32,7 @@ This difference is not just a difference in musicality, but also a turning point
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -45,175 +44,175 @@ color: #fff;
 ---
 
 
-## Chapter 1: The starting point of the Human League: the industrial city of Sheffield and the pop-up of machines
+## 第一章：Human Leagueの出発点──工業都市シェフィールドと機械のポップ化
 
-The Human League was formed in Sheffield in 1977. At first, they were an experimental electronic music group, with a stance that differed greatly from that of a rock band.
+Human Leagueは1977年にシェフィールドで結成された。当初は実験的な電子音楽グループであり、ロックバンドの構成とは大きく異なるスタンスを取っていた。
 
-At the time, they prioritized structure over melody and system over emotion. In other words, it was close to the idea of ​​""electronic music as a substitute for humans.''
+当時の彼らは、メロディよりも構造、感情よりもシステムを優先していた。つまり「人間の代替としての電子音楽」という思想に近かった。
 
-However, the turning point came around 1980. Due to the reorganization of the members, a new lineup including female vocals was created, and the musicality immediately became more pop-oriented.
+しかし転機は1980年前後に訪れる。メンバー再編により、女性ボーカルを含む新体制となり、音楽性は一気にポップへと傾く。
 
-This change led to their 1981 album Dare.
+この変化が1981年のアルバム『Dare』につながる。
 
-The hit song "Don't You Want Me" became an iconic work, combining mechanical sequences with human drama.
+ヒット曲「Don't You Want Me」は、機械的なシーケンスと人間的なドラマを融合させた象徴的な作品となった。
 
 <div class="mermaid">
 graph TD
-A["1977 Experimental Electronic Music"] --> B["Member reorganization"]
-B --> C["Shift to pop-oriented"]
+A["1977 実験電子音楽"] --> B["メンバー再編"]
+B --> C["ポップ志向へ転換"]
 C --> D["1981 Dare"]
-D --> E["Worldwide hit"]
+D --> E["世界的ヒット"]
 </div>
 
-The essence of the Human League was to "humanize machines." Rather than making electronic sounds cold, they purposely connected them to the human emotional structure.
+Human Leagueの本質は「機械の人間化」にあった。電子音を冷たくするのではなく、あえて人間の感情構造へ接続したのである。
 
-> Human League reinvented pop by making machines more human-like
+> Human Leagueは機械を人間に近づけることでポップを再発明した
 
 ---
 
-## Chapter 2: The emergence of Depeche Mode - electronic physicality stripped of emotion
+## 第二章：Depeche Modeの登場──感情を削ぎ落とした電子の身体性
 
-Depeche Mode was formed in Basildon in 1980. In the early days, they belonged to the upbeat synth pop trend, but their essence gradually moved in a different direction.
+Depeche Modeは1980年にバジルドンで結成される。初期は明るいシンセポップの流れに属していたが、彼らの本質は徐々に別方向へ進む。
 
-Of particular importance are Martin Gore"s songwriting and Dave Garn"s vocals.
+特に重要なのはマーティン・ゴアのソングライティングと、デイヴ・ガーンのボーカルの存在だ。
 
-Their music gradually became less and less ""pop.'' What emerged instead were themes of desire, dependence, power, and religiosity.
+彼らの音楽は次第に「ポップ」ではなくなっていく。代わりに現れたのは、欲望、依存、権力、宗教性といったテーマだった。
 
-From 1986"s ""Black Celebration," 1987"s ""Music for the Masses," and 1990's ""Violator," Depeche Mode transcended synth pop and transformed into ""dark electronic rock."
+1986年『Black Celebration』、1987年『Music for the Masses』、そして1990年『Violator』へと続く流れの中で、Depeche Modeはシンセポップを超えて“ダーク・エレクトロニック・ロック”へと変貌する。
 
-"Enjoy the Silence" in particular was groundbreaking in that it presented silence itself as a musical concept.
+特に「Enjoy the Silence」は、沈黙そのものを音楽的概念として提示した点で画期的だった。
 
 <div class="mermaid">
 graph TD
-A["1980 結成"] --> B["Early synth pop"]
-B --> C["Darkening"]
-C --> D["Deepening the theme"]
+A["1980 結成"] --> B["初期シンセポップ"]
+B --> C["ダーク化"]
+C --> D["テーマの深化"]
 D --> E["Violator 1990"]
-E --> F["GLOBAL IMPACT"]
+E --> F["世界的影響"]
 </div>
 
-By stepping outside of pop, Depeche Mode paradoxically achieved huge popularity.
+Depeche Modeはポップの外側へ出ることで、逆説的に巨大な大衆性を獲得した。
 
-> Depeche Mode achieved deeper emotions by reducing emotion
+> Depeche Modeは感情を削ることで、より深い感情に到達した
 
 ---
 
-## Chapter 3: Differences in sound design philosophy - lightweight pop vs. heavy electronic
+## 第三章：音の設計思想の違い──軽量ポップ vs 重量感のある電子
 
-The difference between the two is most noticeable in the structure of the sound.
+両者の違いは音の構造に最も顕著に現れる。
 
-Human League's sound is light. The rhythm is orderly, and the synths bring the melody to the forefront. The space is bright and connected directly to the dance floor.
+Human Leagueのサウンドは軽い。リズムは整然としており、シンセはメロディを前面に出す。空間は明るく、ダンスフロアと直結している。
 
-On the other hand, Depeche Mode's sound is heavy. The bass line is compressed and the rhythm is mechanical, yet gives a strong sense of physicality. The space between sounds is designed as "silence."
+一方Depeche Modeの音は重い。ベースラインは圧縮され、リズムは機械的でありながらも身体性を強く感じさせる。音の余白は「沈黙」として設計されている。
 
-This difference is also a difference in ideology.
+この違いは思想の違いでもある。
 
-Human League is "extroverted pop";
-Depeche Mode is an "introvert drama."
+Human Leagueは「外向的ポップ」、
+Depeche Modeは「内向的ドラマ」。
 
 <div class="mermaid">
 graph TD
-A["Human League"] --> A1["Lightweight sound"]
-A --> A2["Pop structure"]
-A --> A3["extroversion"]
+A["Human League"] --> A1["軽量サウンド"]
+A --> A2["ポップ構造"]
+A --> A3["外向性"]
 
-B["Depeche Mode"] --> B1["Weight Sound"]
-B --> B2["Dark structure"]
-B --> B3["introversion"]
+B["Depeche Mode"] --> B1["重量サウンド"]
+B --> B2["ダーク構造"]
+B --> B3["内向性"]
 
 </div>
 
-Both were synth pop, but the music was heading in opposite directions.
+どちらもシンセポップだが、音楽が向かう方向は真逆だった。
 
-> Even if the same synthesizer has a different design concept, a completely different universe will be created.
-
----
-
-## Chapter 4: 1980s British context: between industrial and post-industrial
-
-To understand these two bands, the social background of 1980s Britain is important.
-
-Cities such as Sheffield and Basildon were in the process of transitioning from centers of industrialization to post-industrial societies.
-
-It was a time when machines were taking over jobs and at the same time machines were creating culture.
-
-In the early days of Human League, they directly translated the coldness of industrial cities into music. However, in his later years, he moved towards reusing it as pop music.
-
-Depeche Mode did the opposite, digging deeper into the emptiness of industrial society and connecting with spiritual themes.
-
-In other words, they both looked at the same society but interpreted it in different ways.
-
-> British synthpop in the 1980s was a device for translating social changes into sound
+> 同じシンセサイザーでも設計思想が違えば全く別の宇宙が生まれる
 
 ---
 
-## Chapter 5: The Role of Vocals: Humans as a Medium of Emotions
+## 第四章：1980年代英国という背景──工業とポスト工業のあいだ
 
-Human League's vocals often take on a duet structure, functioning as a dialogue between a man and a woman. This is a very easy-to-understand structure for pop music.
+この二つのバンドを理解するには、80年代英国の社会背景が重要になる。
 
-In particular, "Don't You Want Me" has a strong narrative, making it easy for listeners to empathize with it.
+シェフィールドやバジルドンといった都市は、工業化の中心からポスト工業社会へ移行する過程にあった。
 
-On the other hand, for Depeche Mode's Dave Gahan, his voice itself functions as an "emotional compression device." The focus is on the texture of the voice rather than the meaning of the lyrics.
+機械が仕事を奪い、同時に機械が文化を作り始める時代だった。
 
-In other words, Human League is a "song as a language".
-Depeche Mode is "voice as acoustics".
+Human Leagueの初期は工業都市の冷たさをそのまま音楽に変換していた。しかし後期では、それをポップとして再利用する方向へ進んだ。
+
+Depeche Modeはその逆で、工業社会の空虚さをさらに深く掘り下げ、精神的なテーマへと接続していった。
+
+つまり両者は同じ社会を見ながら、異なる方向に解釈した。
+
+> 80年代英国のシンセポップは社会の変化を音に翻訳する装置だった
+
+---
+
+## 第五章：ボーカルの役割──感情の媒体としての人間
+
+Human Leagueのボーカルはしばしばデュエット構造を取り、男女の対話として機能する。これはポップ音楽として非常に分かりやすい構造だ。
+
+特に「Don't You Want Me」は物語性が強く、リスナーが感情移入しやすい。
+
+一方Depeche Modeのデイヴ・ガーンは、声そのものが“感情の圧縮装置”として機能する。歌詞の意味よりも、声の質感が中心になる。
+
+つまりHuman Leagueは「言語としての歌」、
+Depeche Modeは「音響としての声」。
 
 <div class="mermaid">
 graph TD
-A["Human League"] --> A1["Interactive Vocal"]
-A --> A2["Storytelling"]
+A["Human League"] --> A1["対話型ボーカル"]
+A --> A2["ストーリーテリング"]
 
 B["Depeche Mode"] --> B1["single vocal"]
-B --> B2["Focus on texture"]
+B --> B2["質感重視"]
 
 </div>
 
-This difference fundamentally changes the listener experience.
+この違いはリスナー体験を根本的に変える。
 
-> Human League tells you a story, Depeche Mode soothes your senses
+> Human Leagueは物語を聴かせ、Depeche Modeは感覚を沈める
 
 ---
 
-## Chapter 6: Global Expansion - The Divergence of Pop and Alternative
+## 第六章：世界的拡張──ポップとオルタナティブの分岐
 
-From the late 1980s to the 1990s, the evaluation axes of the two diverged further.
+1980年代後半から1990年代にかけて、両者の評価軸はさらに分岐する。
 
-Human League were firmly attached to the pop charts and established themselves as 80's pop icons.
+Human Leagueはポップチャートに強く結びつき、80年代的ポップアイコンとしての地位を確立する。
 
-Meanwhile, Depeche Mode gained strong support from the American market and the alternative rock crowd, and grew into a stadium-class band.
+一方Depeche Modeは、アメリカ市場やオルタナティブロック層に強く支持され、スタジアム級バンドへと成長する。
 
-At this stage, the roles of both parties become clear.
+この段階で両者の役割は明確になる。
 
-Human League is the "completed form of synth pop"
-Depeche Mode is the "conquest of synth pop."
+Human Leagueは「シンセポップの完成形」、
+Depeche Modeは「シンセポップの超克」。
 
 <div class="mermaid">
 graph TD
-A["Human League"] --> A1["Pop market"]
-A --> A2["80s iconization"]
+A["Human League"] --> A1["ポップ市場"]
+A --> A2["80sアイコン化"]
 
-B["Depeche Mode"] --> B1["Alternative"]
-B --> B2["Stadiumization"]
+B["Depeche Mode"] --> B1["オルタナティブ化"]
+B --> B2["スタジアム化"]
 
 </div>
 
-What is important is that we have arrived at different destinations from the same starting point.
+同じ出発点から、異なる終着点へ到達したことが重要である。
 
-> Synthpop was not just one genre, but contained multiple futures.
+> シンセポップは一つのジャンルではなく複数の未来を内包していた
 
 ---
 
-## Chapter 7: Heritage: A dual influence on contemporary music
+## 第七章：遺産──現代音楽への二重の影響
 
-These two lineages are still alive in modern electronic music and indie pop.
+現代のエレクトロニック・ミュージックやインディーポップにおいて、この二つの系譜は今も生きている。
 
-Human League's influence remains in the clarity of dance music and electropop. The structure is simple, with an emphasis on immediate pleasure.
+Human Leagueの影響は、ダンスミュージックやエレクトロポップの明快さに残っている。構造はシンプルであり、即時的な快楽を重視する方向性だ。
 
-Depeche Mode's influence is strong in their reinterpretations of darkwave, industrial, and post-punk. Music functions as a device for dealing with deep emotions.
+Depeche Modeの影響は、ダークウェーブ、インダストリアル、ポストパンクの再解釈に強く現れる。音楽は感情の深層を扱う装置として機能する。
 
-In other words, contemporary music continues to oscillate between these two directions.
+つまり現代音楽は、この二つの方向性の間を揺れ続けている。
 
-> Modern electronic music oscillates between the brightness of the Human League and the depth of Depeche Mode.
+> 現代の電子音楽はHuman League的な明るさとDepeche Mode的な深さの間で揺れている
 
 
 ---

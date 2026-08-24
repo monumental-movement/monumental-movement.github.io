@@ -10,76 +10,75 @@ tags:
 - Noise
 - Microtonality
 - Industrial
-title: '[Column] Why Humans Love Broken Things — Why do humans find beauty in broken
-  and imperfect things?'
+title: 【コラム】 Why Humans Love Broken Things — なぜ人間は壊れたもの、不完全なものに美を感じるのか
 ---
 
 
 # Why Humans Love Broken Things
 
-Text: mmr｜Theme: Why are humans attracted to broken things? Crossing Noise, Distortion, Microtonality, Punk, Lo-Fi, Graffiti, and Brutalism, we explore the history of music and art that transformed imperfection from "flaw" to "aesthetics"
+文：mmr｜テーマ：なぜ人間は壊れたものに惹かれるのか。Noise、Distortion、Microtonality、Punk、Lo-Fi、Graffiti、Brutalismを横断し、不完全さを“欠点”から“美学”へ変えた音楽とアートの歴史を探る
 
 
 
-I like slightly distorted sounds rather than "perfect sounds."
+「完璧な音」より、少し歪んだ音が好き。
 
-I'm more drawn to exposed concrete than "pretty buildings."
+「きれいな建物」より、むき出しのコンクリートに惹かれる。
 
-I'm more interested in the spray marks left on the wall than the precisely drawn lines.
+正確に描かれた線より、壁に残されたスプレーの跡が気になる。
 
 Rather than a perfectly tuned chord, a note that is slightly out of tune catches your ear.
 
-I wonder why.
+なぜだろう。
 
-Humans have long thought of ""beautiful things'' as things that are well-organized, balanced, and accurate.
+人間は、長いあいだ「美しいもの」を整ったもの、均衡の取れたもの、正確なものとして考えてきた。
 
-However, if we look at modern culture, there are surprisingly many expressions that have gone in the opposite direction.
+しかし現代の文化を見渡すと、その逆方向に進んできた表現も驚くほど多い。
 
-Noise.
+Noise。
 
-Industrial.
+Industrial。
 
-Punk.
+Punk。
 
-Lo-Fi.
+Lo-Fi。
 
-Microtonality.
+Microtonality。
 
-Distortion.
+Distortion。
 
-Graffiti.
+Graffiti。
 
-Brutalism.
+Brutalism。
 
-And artists like Angine de Poitrine, Boris, and Spacemen 3 who have shaken up the very idea of ​​""correctness'' in music.
+そして、Angine de Poitrine、Boris、Spacemen 3のように、音楽の「正しさ」そのものを揺さぶってきたアーティストたち。
 
-There, noise is not a nuisance.
+そこでは、ノイズは邪魔ではない。
 
-Distortion is not failure.
+歪みは失敗ではない。
 
-Roughness is not a drawback.
+粗さは欠点ではない。
 
-Instability is not unfinished.
+不安定さは未完成ではない。
 
-They become part of the work itself.
+それらは、作品そのものの一部になっている。
 
-This problem cannot be explained simply by saying, ""Humans like imperfect things.''
+この問題を単純に「人間は不完全なものが好きだから」と説明することはできない。
 
-While psychological research has long studied the idea of ​​""processing fluency,'' which states that objects that are easier to process are preferred, it has also been confirmed that people feel intense interest and aesthetic satisfaction in works that are difficult to understand, difficult to predict, and deviate from normal aesthetic rules.
+心理学の研究では、処理しやすい対象ほど好まれるという「processing fluency」の考え方が長く研究されてきた一方で、理解しにくく、予測しにくく、通常の美的規則から外れた作品でも、人は強い興味や美的満足を感じることが確認されている。
 
-The same goes for music.
+音楽についても同じだ。
 
-Predictability alone does not produce pleasure.
+予測できることだけが快楽を生むわけではない。
 
-Contrary to expectations, and learning to understand that betrayal, becomes part of the musical experience.
+予想を裏切ること、そしてその裏切りを理解できるようになること自体が、音楽体験の一部になる。
 
-Research shows that uncertainty and surprise in music are intricately related to pleasure.
+研究では、音楽における不確実性と驚きが快感と複雑に関係することが示されている。
 
-In other words, the idea that broken things are beautiful is not just a matter of taste.
+つまり「壊れたものが美しい」という話は、単なる趣味の問題ではない。
 
-It has to do with the very way humans understand the world.
+それは、人間が世界を理解する方法そのものに関係している。
 
-> We are attracted not only to things that are beautiful because they are perfect, but also to things that leave us open to understanding.
+> 私たちは、完璧だから美しいものだけでなく、理解しようとする余地が残されているものにも惹かれている。
 
 
 <style type="text/css">
@@ -87,7 +86,7 @@ It has to do with the very way humans understand the world.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -97,891 +96,891 @@ color: #fff;
 
 ---
 
-## 1. Is "perfection" really beautiful?
+## 1. 「完璧」は本当に美しいのか
 
-When we think of beauty, the first thing that comes to mind is ""being in good shape.''
+美しさについて考えるとき、まず「整っていること」を思い浮かべる。
 
-Symmetrical.
+左右対称。
 
-Uniform.
+均一。
 
-Accurate.
+正確。
 
-Smooth.
+滑らか。
 
-It's in harmony.
+調和している。
 
-There's nothing superfluous.
+余計なものがない。
 
-This also applies to music.
+これは音楽にも当てはまる。
 
-Accurate pitch.
+正確な音程。
 
-constant tempo.
+一定のテンポ。
 
-Clear recording.
+明瞭な録音。
 
-beautiful mix.
+きれいなミックス。
 
-Low noise.
+低ノイズ。
 
 Appropriate sound pressure.
 
-However, a contradiction arises here.
+しかし、ここで一つの矛盾が生まれる。
 
-If humans really only like perfection, it would be impossible to explain why so many artists throughout history have deliberately embraced imperfection.
+もし人間が本当に「完璧さ」だけを好むなら、歴史上これほど多くの芸術家が意図的に不完全さを取り入れてきた理由を説明できない。
 
-As recording technology improved, noise was reduced.
+録音技術が進歩すると、ノイズは減らされた。
 
-But then music emerged that incorporated noise itself into its works.
+しかしその後、ノイズそのものを作品に取り込む音楽が現れた。
 
-As recording equipment became more sophisticated, it became possible to eliminate tape hiss and distortion.
+録音機材が高性能になると、テープヒスや歪みは除去できるようになった。
 
-However, with Lo-Fi, these remained as textures.
+しかしLo-Fiでは、それらが質感として残された。
 
-As construction technology developed, it became possible to cover up concrete surfaces.
+建築技術が発達すると、コンクリートの表面を覆い隠すこともできた。
 
-But in Brutalism, concrete itself became the expression of architecture.
+しかしBrutalismでは、コンクリートそのものが建築の表情になった。
 
-City walls were originally intended to be cleaned of advertisements and dirt.
+都市の壁は、本来なら広告や汚れを取り除く対象だった。
 
-However, Graffiti has turned that wall itself into a canvas.
+ところがGraffitiは、その壁そのものをキャンバスへ変えた。
 
-You can align the pitch accurately.
+音程を正確に揃えることができる。
 
-Still, in Microtonality, intervals outside of 12 equal temperament become important elements of the work.
+それでもMicrotonalityでは、12平均律の外側にある音程が作品の重要な要素になる。
 
 There is a common structure here.
 
-It's not about "making imperfections look beautiful."
+「欠点を美しく見せる」のではない。
 
-It ""changes the meaning of what was once called a defect.''
+「欠点と呼ばれていたものの意味を変える」のである。
 
-Lo-Fi recording noise transforms from technical flaws to musical information.
+Lo-Fiの録音ノイズは、技術的な欠陥から音楽的情報へ変わる。
 
 Distortion changes from a phenomenon that destroys sound to a means of creating tone.
 
-Graffiti transforms from graffiti in public spaces to a part of visual culture.
+Graffitiは、公共空間への落書きから視覚文化の一部へ変わる。
 
-Brutalism changes from rough concrete to architectural expression.
+Brutalismは、粗いコンクリートから建築表現へ変わる。
 
-In other words, imperfection itself is not important.
+つまり不完全さそのものが重要なのではない。
 
-What is important is that humans can change what they call a flaw.
+重要なのは、人間が「何を欠点と呼ぶのか」を変えられることだ。
 
-> Beauty is not something that is fixed in the object from the beginning, but changes depending on what we perceive as value.
-
----
-
-## 2. In music, "mistakes" become sounds
-
-Music is a particularly good place to think about imperfection.
-
-This is because there is a very clear "correctness" in music.
-
-pitch.
-
-Beat.
-
-rhythm.
-
-Harmony.
-
-Tone.
-
-recording level.
-
-These have physical standards.
-
-However, when we look back at the history of music, we find that much of the best music intentionally deviates from that standard.
-
-Distortion is a perfect example of this.
-
-If the signal input to the audio equipment exceeds a permissible range, the waveform will no longer maintain its original shape.
-
-The sound is distorted.
-
-Technically, it's a modification of the signal.
-
-However, in rock, that distortion became the guitar's tone itself.
-
-What"s important here is that distortion doesn"t exist ""outside the music.''
-
-Distortion is built into the music.
-
-Play guitar chords.
-
-Amplifier receives excessive input.
-
-The waveform is distorted.
-
-The overtone composition changes.
-
-The result is a tone that we perceive as ""rock-like.''
-
-In other words, what in a technical sense is the destruction of a signal becomes an expression in musical terms.
-
-This is a very important shift.
-
-"Correct sound" and "beautiful sound" are not the same.
-
-> Music is not just an art that reproduces sounds correctly, but also an art that changes what sounds mean.
+> 美しさは、対象の中に最初から固定されているものではなく、私たちが何を価値として認識するかによって変化する。
 
 ---
 
-## 3. Noise made "something that is not music" into music
+## 2. 音楽では「間違い」が音になる
 
-Noise makes this problem even more extreme.
+音楽は、不完全さを考えるのに特に適した場所だ。
 
-There is usually a distinction between music and noise.
+なぜなら音楽には、非常に明確な「正しさ」が存在するからだ。
 
-Music has structure, noise has no structure.
+音程。
+
+拍。
+
+リズム。
+
+和声。
+
+音色。
+
+録音レベル。
+
+これらには物理的な基準がある。
+
+ところが音楽史を振り返ると、優れた音楽の多くは、その基準から意図的に外れている。
+
+Distortionはその典型だ。
+
+音響機器に入力された信号が許容範囲を超えると、波形は元の形を保てなくなる。
+
+音は歪む。
+
+技術的には信号の変形だ。
+
+しかしロックでは、その歪みがギターの音色そのものになった。
+
+ここで重要なのは、歪みが「音楽の外側」に存在しているわけではないことだ。
+
+歪みは音楽の内部に組み込まれる。
+
+ギターのコードを弾く。
+
+アンプが過剰な入力を受ける。
+
+波形が変形する。
+
+倍音構成が変わる。
+
+結果として、私たちが「ロックらしい」と認識する音色が生まれる。
+
+つまり、技術的な意味では信号の破壊である現象が、音楽的には表現になる。
+
+これは非常に重要な転換だ。
+
+「正しい音」と「美しい音」は同じではない。
+
+> 音楽は、音を正しく再現する芸術ではなく、音が何を意味するのかを変える芸術でもある。
+
+---
+
+## 3. Noiseは「音楽ではないもの」を音楽にした
+
+Noiseは、この問題をさらに極端にする。
+
+通常、音楽とノイズは区別される。
+
+音楽には構造があり、ノイズには構造がない。
 
 Music has meaning, noise has no meaning.
 
-Music is organized and noise becomes a distraction.
+音楽は整理され、ノイズは邪魔になる。
 
-However, this boundary is not historically fixed.
+しかし、この境界は歴史的に固定されたものではない。
 
-In the avant-garde music of the 20th century, attempts were made to use not only conventional instrumental sounds but also noise, mechanical sounds, sounds from recording media, electronic sounds, etc. as musical materials.
+20世紀の前衛音楽では、従来の楽器音だけではなく、雑音、機械音、録音媒体の音、電子音などを音楽的素材として扱う試みが広がった。
 
-Industrial was an important area that combined this trend with Punk's provocativeness.
+Industrialはその流れとPunkの挑発性を結びつけた重要な領域だった。
 
-Early industrial works such as Throbbing Gristle and Cabaret Voltaire used tape editing, electronic sounds, white noise, synthesizers, and repetitive sounds to question the very boundaries between music and performance art.
+Throbbing GristleやCabaret Voltaireなどの初期Industrialでは、テープ編集、電子音、ホワイトノイズ、シンセサイザー、反復する音響などが使われ、音楽とパフォーマンス・アートの境界そのものが問題にされた。
 
-The name Industrial itself has a meaning.
+Industrialという名前自体にも意味がある。
 
-It's not a beautifully arranged sound like a factory.
+それは工場のように美しく整理された音ではない。
 
-machine.
+機械。
 
-metal.
+金属。
 
 Repetition.
 
-pressure.
+圧力。
 
-City.
+都市。
 
-management.
+管理。
 
-Anonymity.
+匿名性。
 
-A huge system created by humans.
+人間が作った巨大なシステム。
 
-We will translate these feelings of modern society into sound itself.
+そうした現代社会の感覚を、音そのものに置き換えていく。
 
-Therefore, ""clean sound'' is actually far from reality.
+そこで「きれいな音」は、むしろ現実から遠い。
 
 When metal collides, it makes a sound.
 
-When a machine moves, it vibrates.
+機械が動けば振動する。
 
 Cities have low frequencies.
 
-There are repetitive sounds in the factory.
+工場には反復音がある。
 
-Instead of relegating these sounds to the "outside of music," Industrial brought them into the music.
+Industrialは、そうした音を「音楽の外側」に追いやるのではなく、音楽の内部へ引き入れた。
 
-> Noise is important not because it's noisy. This is because it changed the boundaries of what can be treated as music.
+> Noiseが重要なのは、うるさいからではない。何を音楽として扱えるのかという境界を変えたからだ。
 
 ---
 
-## 4. Punk used "not being good" as a weapon
+## 4. Punkは「上手くないこと」を武器にした
 
-Punk can also be read as a history of imperfection.
+Punkもまた、不完全さの歴史として読むことができる。
 
-Punk's importance lies in more than just fast songs and ferocious guitars.
+Punkの重要性は、単に速い曲や激しいギターにあるのではない。
 
-His attitude is that ""it is not necessary to meet the requirements of the existing music industry in order to make music.''
+「音楽を作るために、既存の音楽産業が要求する条件を満たす必要はない」という姿勢にある。
 
-Advanced performance techniques.
+高度な演奏技術。
 
-expensive equipment.
+高価な機材。
 
-large studio.
+大規模なスタジオ。
 
-Professional education.
+専門的な教育。
 
-You can make music even if you don't have those things.
+それらを持っていなくても音楽を作れる。
 
-This idea is strongly associated with DIY culture.
+この考え方はDIY文化と強く結びついた。
 
-The democratization of recording technology has made it possible to create music at home and in smaller environments, leading to the Lo-Fi aesthetic.
+録音技術の民主化によって、自宅や小規模な環境で音楽を制作することが可能になり、Lo-Fiの美学にもつながっていく。
 
-Lo-Fi became recognized as a musical style in the 1980s and 1990s, associated with underground indie rock culture. Home recording equipment such as 4-tracks, tape hiss, distortion, and thin recording quality became some of its characteristics.
+Lo-Fiは1980年代から1990年代にかけて、地下のインディー・ロック文化と結びつきながら一つの音楽的スタイルとして認識されるようになった。4トラックなどの家庭用録音機材、テープのヒス、歪み、薄い録音音質などが、その特徴の一部になった。
 
 The important point here is not simply that ""it"s beautiful because it"s bad.''
 
-What Punk changed was the very value of technology.
+Punkが変えたのは、技術の価値そのものだった。
 
-Conventionally,
+従来は、
 
-highly skilled
+技術が高い
 ↓
-Accurate performance
+演奏が正確
 ↓
-The work has a high degree of completion
+作品の完成度が高い
 
-There was a strong sense of value.
+という価値観が強かった。
 
-In DIY culture,
+DIY文化では、
 
-make it yourself
+自分で作る
 ↓
-present in one's own way
+自分の方法で発表する
 ↓
-Not dependent on existing standards
+既存の基準に依存しない
 
-Another value was born.
+という別の価値が生まれた。
 
-This is different from affirming that someone is "bad at it."
+これは「下手」を肯定することとは違う。
 
-Rather, it's about using your limitations as conditions for your work.
+むしろ、自分の制約を作品の条件として利用することだ。
 
-> One of Punk"s greatest legacies was the idea of ​​starting from what can"t be done, rather than not starting because of what can't be done.
+> Punkが残した最大の遺産の一つは、「できないこと」を理由に始めないのではなく、「できないこと」から始める発想だった。
 
 ---
 
-## 5. Lo-Fi turns "recording scratches" into memories
+## 5. Lo-Fiは「録音の傷」を記憶に変える
 
-The fun of Lo-Fi isn't just the performance.
+Lo-Fiの面白さは、演奏だけではない。
 
-The recording itself becomes part of the work.
+録音そのものが作品の一部になる。
 
-tape hiss.
+テープヒス。
 
-electric hum.
+電気的なハム。
 
-environmental sounds.
+環境音。
 
-Tape saturation.
+テープの飽和。
 
-Muffled sound.
+音のこもり。
 
-Unstable volume.
+不安定な音量。
 
-Slight pitch variation.
+わずかなピッチ変動。
 
-It was thought that these elements should be removed using conventional recording techniques.
+こうした要素は、従来の録音技術では除去すべきものと考えられていた。
 
-However, with Lo-Fi, these become the "history" of the recording.
+しかしLo-Fiでは、それらが録音の「履歴」になる。
 
-When the sound is too clear, we only listen to the source of the sound.
+音がきれいすぎると、私たちは音源そのものだけを聴く。
 
-However, when there is noise, the feeling that ""this sound was recorded somewhere'' becomes stronger.
+しかしノイズがあると、「この音はどこかで録音された」という感覚が強くなる。
 
-You can see the space behind the sound.
+音の背後に空間が見える。
 
-I can see the equipment.
+機材が見える。
 
-I can see the time.
+時間が見える。
 
-Adam Harper's research in Oxford Academic also states that recording imperfections in Lo-Fi can include not only tape hiss, record crackle, electrical hum, and limited frequency response, but also "wrong sounds" and ambient sounds.
+Oxford Academicに収録されたAdam Harperの研究でも、Lo-Fiにおける録音上の不完全さには、テープヒス、レコードのクラックル、電気的ハム、周波数特性の制限だけでなく、「間違った音」や周囲の環境音まで含まれうると整理されている。
 
-In other words, Lo-Fi doesn't just mean "low quality."
+つまりLo-Fiは、「低品質」という意味だけではない。
 
-It is also a way to make the recording medium itself heard.
+それは、録音媒体そのものを聴かせる方法でもある。
 
-Transparent playback is considered ideal for digital recording.
+デジタル録音では、透明な再生が理想とされる。
 
-But with Lo-Fi, not being transparent makes sense.
+しかしLo-Fiでは、透明ではないことに意味がある。
 
-The recorded time remains on the other side of the sound.
+音の向こう側に、録音された時間が残る。
 
 > Lo-Fi noise doesn't pollute the music; it becomes a trace that lets you know where the sound is coming from.
 
 ---
 
-## 6. Spacemen 3 made "little" big
+## 6. Spacemen 3は「少なさ」を巨大にした
 
 Spacemen 3 makes us think about this problem from a tonal perspective.
 
-Spacemen 3, founded in 1982 by Jason Pierce and Pete Kember at England"s Rugby Art College, created a sound that combined fuzz, feedback, distortion, repetition and drone, including on 1986"s Sound Of Confusion.
+1982年、イギリスのRugby Art Collegeを背景にJason PierceとPete Kemberを中心として活動を始めたSpacemen 3は、1986年の『Sound Of Confusion』などを通じて、ファズ、フィードバック、ディストーション、反復、ドローンを組み合わせたサウンドを作り上げた。
 
-The music was characterized by a small amount of information.
+その音楽の特徴は、情報量が少ないことだった。
 
-Fewer codes.
+コードが少ない。
 
-The riff is simple.
+リフが単純。
 
-There are few changes.
+変化が少ない。
 
-Lasts a long time.
+長く続く。
 
-But less is not less.
+しかし、少ないことは小さいことではない。
 
-Rather, the ear begins to discover details when the same sound continues for a long time.
+むしろ、同じ音が長く続くことで、耳は細部を発見し始める。
 
-At first it sounds like one sound.
+最初は一つの音に聞こえる。
 
-But if you keep listening, you can hear overtones.
+しかし聴き続けると、倍音が聞こえる。
 
-I hear the feedback change.
+フィードバックの変化が聞こえる。
 
-I can hear the slight vibration of the guitar.
+ギターの微細な揺れが聞こえる。
 
-Another sound appears within the sound.
+音の中に別の音が現れる。
 
-In the Spacemen 3 materials, Kember also talks about the idea of ​​drones, where minimal changes emphasize emotion.
+Spacemen 3の資料でも、Kemberはドローンについて、最小限の変化が感情を強調するという考えを語っている。
 
-This is a little different from imperfection.
+これは不完全さとは少し違う。
 
-But the same principle is at work.
+しかし、同じ原理が働いている。
 
-It's about questioning the common sense that ""music needs to include more information.''
+「音楽はもっと情報を増やさなければならない」という常識を疑うことだ。
 
-> Cutting something out does not necessarily weaken the expression. As a result of cutting down, you may be able to hear things that were previously inaudible.
-
----
-
-## 7. Boris turns "weight" into a physical phenomenon of sound
-
-Japan's Boris is also an important figure when considering imperfection in music.
-
-Boris has been active since the early 1990s and has traversed multiple fields including Noise, Drone, Doom, and Experimental Rock.
-
-In this music, guitar distortion, bass, feedback, extreme volume, and repetition are not mere decorations but become the very structure of the music.
-
-Here, the ""distorted sound" and the ""song" are not separated.
-
-The distortion itself creates a riff.
-
-Sound pressure itself creates space.
-
-The feedback itself becomes a sustained sound.
-
-When the sound gets louder, music becomes not just something you listen to, but something you feel with your body.
-
-This change is important.
-
-Music is often thought of as information that is primarily processed by the ear.
-
-However, low and loud sounds are also related to physical sensations.
-
-In music like Boris, the harshness and physical pressure become inseparable from the content of the piece.
-
-In other words, making the sound cleaner does not necessarily make the music richer.
-
-The physical properties of sound can also be used as expressions.
-
-> Music is not just what the sound expresses, but also what the sound itself does to the body.
+> 何かを削ることは、表現を弱くするとは限らない。削った結果、聴こえなかったものが聴こえることがある。
 
 ---
 
-## 8. Angine de Poitrine and Microtonality
+## 7. Borisは「重さ」を音の物理現象に変える
 
-Microtonality reconsiders "correctness" in an even more fundamental way.
+日本のBorisも、音楽における不完全さを考えるうえで重要な存在だ。
 
-In modern Western popular music, 12-temperament plays a very important role.
+Borisは1990年代初頭から活動を続け、Noise、Drone、Doom、Experimental Rockなど複数の領域を横断してきた。
 
-Dividing the octave into 12 equal semitones makes it easier to move to different keys and increases compatibility between instruments.
+その音楽では、ギターの歪みや低音、フィードバック、極端な音量、反復などが単なる装飾ではなく、音楽の構造そのものになる。
 
-However, this does not mean "all pitches that humans can perceive."
+ここでは「歪んだ音」と「曲」が分離していない。
 
-12 Equal temperament is a temperament system.
+歪みそのものがリフを作る。
 
-Microtonality deals with that outside.
+音圧そのものが空間を作る。
 
-An interval finer than a semitone.
+フィードバックそのものが持続音になる。
 
-different temperaments.
+そして、音が大きくなると、音楽は「聴くもの」だけではなく「身体で感じるもの」になる。
 
-Subtle pitch difference.
+この変化は重要だ。
 
-Intentional pitch shift.
+音楽は本来、耳で処理する情報だと考えられがちだ。
 
-These sounds may sound "off" to the trained ear.
+しかし低音や大音量は身体感覚にも関係する。
 
-However, this sense of discomfort becomes a characteristic of the music.
+Borisのような音楽では、音の粗さや物理的な圧力が、作品の内容と切り離せなくなる。
 
-Modern bands like Angine de Poitrine bring these microtonal sounds into a rock context, shaking up the very idea of ​​normal pitch.
+つまり、音をきれいにすることが必ずしも音楽を豊かにするわけではない。
 
-In the 2026 report, Angine de Poitrine was introduced in the context of microtonal rock, drawing attention not only for its musical characteristics but also for its unique visual style and expressions that shift rock stereotypes.
+音が持っている物理的な性質を、そのまま表現として使うこともできる。
 
-What"s interesting here is that they"re not using the "wrong sound."
-
-I'm using a different system.
-
-In other words, what our ears judge as ""off'' is correct within the work.
-
-This points to a very important issue in aesthetics.
-
-"Dissonance" is not an absolute category that exists in nature.
-
-What sounds dissonant varies depending on musical culture, experience, and context.
-
-Research has also shown that while atonal music can be unpredictable and dissonant, there are listeners who prefer it, and that acceptance may be influenced by their experience, how they perceive the work, and even their openness to new music.
-
-> If you consider that your ears haven't learned the rules yet, rather than being ""deviated,'' the way you hear Microtonality will change dramatically.
+> 音が「何を表現するか」だけでなく、音そのものが身体に何をするかも音楽になる。
 
 ---
 
-## 9. The human brain "predicts"
+## 8. Angine de PoitrineとMicrotonality
 
-Here, an important point appears that connects aesthetics and music.
+Microtonalityは、さらに根本的なところで「正しさ」を問い直す。
 
-The human brain does not simply receive the world passively.
+西洋の現代的なポピュラー音楽では、12平均律が非常に大きな役割を果たしている。
 
-We perceive while predicting what will happen next.
+1オクターブを12の等しい半音に分けることで、異なる調へ移動しやすくなり、楽器間の互換性も高くなる。
 
-This is especially easy to understand with music.
+しかし、それは「人間が知覚できるすべての音程」を意味しない。
 
-The melody continues.
+12平均律は、一つの音律システムである。
 
-The rhythm is repetitive.
+Microtonalityは、その外側を扱う。
 
-The code progresses.
+半音より細かい音程。
 
-Then, you can predict to some extent what sound will come next.
+異なる音律。
 
-Then comes the expected sound.
+微妙なピッチの差。
 
-Or an unexpected sound comes.
+意図的な音程のずれ。
 
-This difference changes the musical experience.
+こうした音は、慣れた耳には「外れている」ように聞こえることがある。
 
-Research on musical pleasure has investigated prediction, prediction error, and uncertainty as important factors. Music has parts that are completely predictable and parts that are unpredictable, and the combination of these parts affects the listening experience.
+しかし、その違和感が音楽の特徴になる。
 
-A 2019 study showed that a combination of how unexpected a code was and how difficult it was to predict in the preceding stages was associated with hedonic ratings.
+Angine de Poitrineのような現代のバンドは、こうした微分音的な響きをロックの文脈に持ち込み、通常の音程感覚そのものを揺さぶっている。
 
-Simplifying this, we get
+2026年の報道でも、Angine de Poitrineはmicrotonal rockという文脈で紹介され、その音楽的特徴だけでなく、独特の視覚的スタイルやロックのステレオタイプをずらす表現も注目されている。
 
-predict
+ここで面白いのは、「間違った音」を使っているわけではないことだ。
+
+別のシステムを使っている。
+
+つまり、耳が「外れ」と判断するものが、作品の内部では正しい。
+
+これは美学における非常に重要な問題を示している。
+
+「不協和音」は自然界に存在する絶対的なカテゴリーではない。
+
+何が不協和に聞こえるかは、音楽文化、経験、文脈によって変化する。
+
+研究でも、無調音楽は予測しにくく不協和に感じられる場合がある一方、それを好む聴き手が存在し、経験や作品をどう捉えるか、さらには新しい音楽への開放性などがその受容に関係する可能性が示されている。
+
+> 「外れている」のではなく、「まだ耳がそのルールを学習していない」と考えると、Microtonalityの聴こえ方は大きく変わる。
+
+---
+
+## 9. 人間の脳は「予測する」
+
+ここで、美学と音楽をつなぐ重要なポイントが現れる。
+
+人間の脳は、世界をただ受動的に受け取っているわけではない。
+
+次に何が起きるかを予測しながら知覚している。
+
+音楽では特に分かりやすい。
+
+メロディが続く。
+
+リズムが反復する。
+
+コードが進行する。
+
+すると、次に来る音をある程度予測できる。
+
+そして予想通りの音が来る。
+
+あるいは予想外の音が来る。
+
+この差が音楽体験を変える。
+
+音楽の快楽についての研究では、予測、予測誤差、不確実性が重要な要素として研究されている。音楽には、完全に予測可能な部分と予測できない部分があり、その組み合わせが聴取体験に影響する。
+
+2019年の研究では、コードがどれだけ予想外だったかと、その前段階でどれだけ予測が難しかったかの組み合わせが、快楽評価と関係することが示された。
+
+これを単純化すると、
+
+予測する
 ↓
 slightly off
 ↓
-"Why?" I think
+「なぜ？」と思う
 ↓
-try to understand
+理解しようとする
 ↓
-discover patterns
+パターンを発見する
 ↓
-A feeling of pleasure is born
+快感が生まれる
 
-You can think of this flow.
+という流れを考えることができる。
 
-Of course, not all musical experiences occur in this order.
+もちろん、すべての音楽体験がこの順番で起きるわけではない。
 
-However, the important thing is that ""deviating from predictions'' is not necessarily unpleasant.
+しかし重要なのは、「予測から外れること」が必ずしも不快ではないということだ。
 
-Rather, the combination of predictability and surprise can be what makes music so appealing.
+むしろ、予測可能性と驚きの組み合わせが音楽の魅力になる場合がある。
 
-> We get bored with things we fully understand and things we don"t fully understand. What"s interesting is what's in between.
+> 私たちは、完全に理解できるものにも、完全に理解できないものにも飽きる。面白いのは、その中間にある。
 
 ---
 
-## 10. "Feeling uncomfortable" is not the enemy
+## 10. 「違和感」は敵ではない
 
-The word discomfort has a negative connotation.
+違和感という言葉には、否定的な意味がある。
 
-"That's weird."
+「変だ」。
 
 "It's unnatural."
 
-"feel ill".
+「気持ち悪い」。
 
-"Wrong."
+「間違っている」。
 
-However, in art, discomfort is also information.
+しかし芸術において、違和感は情報でもある。
 
-Why does it feel strange?
+なぜ違和感があるのか。
 
-Is the pitch different?
+音程が違うのか。
 
-Is the tone different?
+音色が違うのか。
 
-Is the rhythm different?
+リズムが違うのか。
 
-Is it a different shape?
+形が違うのか。
 
-Are the materials different?
+素材が違うのか。
 
-Is the context different?
+文脈が違うのか。
 
 The moment the audience asks this question, they begin to actively look at the work.
 
 Research on aesthetic experience has also examined the possibility that works that are difficult to process are not necessarily disliked, and that repeated cognitive processing for understanding may lead to interest and satisfaction.
 
-This also applies to Noise.
+これはNoiseにも当てはまる。
 
-At first it was just a noise.
+最初はただの騒音だった。
 
 But after listening to it a few times,
 
-There is a layer of bass.
+低音の層がある。
 
-There is a high-pitched noise.
+高音のノイズがある。
 
-There is repetition.
+反復がある。
 
-There is a cycle.
+周期がある。
 
-There is a change.
+変化がある。
 
 In other words, structure is discovered in what initially appeared to be "chaotic."
 
-This is where the fun of art lies.
+ここに芸術の面白さがある。
 
-It's not that the work has changed.
+作品が変わったのではない。
 
-The model of the listener has changed.
+聴き手のモデルが変わったのである。
 
-> A feeling of discomfort may not be a notification that the work is wrong, but rather a notification that your understanding is not up to the mark.
-
----
-
-## 11. Brutalism "doesn"t hide"
-
-This idea also appears in architecture.
-
-Brutalism is an architectural philosophy and style that developed in Europe after World War II, and is associated with expressions that do not obscure materials or structures, such as exposed concrete.
-
-The English word "Brutal" is sometimes thought to simply mean "cruel architecture."
-
-But its history is more complicated.
-
-Le Corbusier's expression ""béton brut", or ""rough concrete", and the architectural ideas of Alison Smithson and Peter Smithson were involved in the formation of Brutalism.
-
-In 1955, architectural historian Reyner Banham discussed the Smithsons' architecture and popularized the term in architectural theory.
-
-The important thing here is not to hide the material.
-
-Do not cover concrete with another material.
-
-Don't hide structure behind decoration.
-
-Show how buildings are constructed.
-
-This is similar to Distortion in music.
-
-Normally,
-
-Eliminate noise.
-
-Hide the structure.
-
-Cover the material.
-
-Adjust the sound.
-
-But in Brutalism,
-
-Show the material.
-
-Show the structure.
-
-leave the surface.
-
-Show functionality.
-
-Go in that direction.
-
-> The roughness of Brutalism does not remain because it is unfinished. It was an expression that did not hide what the material was made of.
+> 違和感は、作品が間違っているという通知ではなく、自分の理解が追いついていないという通知になることがある。
 
 ---
 
-## 12. Graffiti turned "dirt" into letters
+## 11. Brutalismは「隠さない」
 
-Graffiti adds an additional social meaning.
+この考え方は建築にもそのまま現れる。
 
-Modern Graffiti culture is deeply connected to the youth culture of New York and Philadelphia in the 1960s and 1970s, and evolved from tagging to throw-ups, pieces, and more.
+Brutalismは第二次世界大戦後のヨーロッパで発展した建築思想・様式の一つで、露出したコンクリートなど、素材や構造を覆い隠さない表現と結びついている。
 
-City walls are primarily managed by their owners.
+「Brutal」という英語から、単純に「残酷な建築」という意味だと思われることがある。
 
-Text and pictures are drawn there without permission.
+しかし、その歴史はもっと複雑だ。
 
-From the government's point of view, this may be seen as defacement or vandalism.
+Le Corbusierの「béton brut」という表現、つまり「粗いままのコンクリート」と、Alison SmithsonやPeter Smithsonらの建築思想などが、Brutalismの形成に関係した。
 
-However, from Graffiti's perspective, the city walls become a huge communication space.
+1955年には建築史家Reyner BanhamがSmithson夫妻の建築について論じ、この言葉を建築論の中で広く知られるものにした。
 
-who is here?
+ここで重要なのは、素材を隠さないことだ。
 
-Who exists in this town?
+コンクリートを別の素材で覆わない。
 
-Who wrote my name?
+構造を装飾の背後に隠さない。
 
-Who drew it higher than whom?
+建物がどう作られているのかを見せる。
 
-Which works will remain and which ones will be erased?
+これは音楽のDistortionと似ている。
 
-This is where the power relations of the city appear.
+普通なら、
 
-And importantly, Graffiti doesn't require a "clean canvas."
+ノイズを消す。
 
-rusty wall.
+構造を隠す。
 
-old train
+素材を覆う。
 
-cracked concrete.
+音を整える。
 
-Peeling paint.
+しかしBrutalismでは、
 
-All of these become the background of the work.
+素材を見せる。
 
-In other words, we will further rewrite the already broken surface of the city.
+構造を見せる。
 
-> Graffiti is a culture that does not erase the city's wounds, but overlays new symbols on top of them.
+表面を残す。
+
+機能を見せる。
+
+という方向に進む。
+
+> Brutalismの粗さは、未完成だから残っているのではない。素材が何でできているかを隠さないための表現だった。
 
 ---
 
-## 13. "Scars" become information
+## 12. Graffitiは「汚れ」を文字に変えた
 
-This is where music, architecture, and Graffiti come together.
+Graffitiでは、さらに社会的な意味が加わる。
 
-Wounds have information.
+現代的なGraffiti文化は1960年代から1970年代のニューヨークやフィラデルフィアの若者文化と深く結びつき、TaggingからThrow-up、Pieceなどへ発展していった。
 
-Tape hiss carries information about the recording medium.
+都市の壁は、本来は所有者によって管理される。
 
-Concrete formwork remains contain information on construction methods.
+そこに許可なく文字や絵が描かれる。
 
-Graffiti overlaps have time information about who drew what there.
+行政から見れば、汚損や破壊行為とされる場合がある。
 
-Distortion indicates how the audio equipment processed the signal.
+しかしGraffitiの側から見ると、都市の壁は巨大なコミュニケーション空間になる。
 
-Microtonal pitch deviations indicate which temperament system is used as the standard.
+誰がここにいるのか。
 
-In other words, imperfection doesn't just mean something is missing.
+誰がこの街に存在しているのか。
 
-Rather, it becomes evidence that something has happened.
+誰が自分の名前を書いたのか。
 
-Perfect surface hides history.
+誰が誰より高い場所に描いたのか。
 
-A scratched surface leaves a history.
+どの作品が残り、どの作品が消されるのか。
 
-So we feel time to the noise of old records.
+そこには都市の権力関係が現れる。
 
-You can feel the history in the cracks in the old building.
+そして重要なのは、Graffitiが「きれいなキャンバス」を必要としないことだ。
+
+錆びた壁。
+
+古い列車。
+
+ひび割れたコンクリート。
+
+塗装の剥がれ。
+
+それらすべてが作品の背景になる。
+
+つまり、既に壊れている都市の表面を、さらに書き換える。
+
+> Graffitiは、都市の傷を消すのではなく、その傷の上に新しい記号を重ねる文化でもある。
+
+---
+
+## 13. 「傷」が情報になる
+
+ここで、音楽と建築とGraffitiが一つにつながる。
+
+傷は、情報を持っている。
+
+テープのヒスは録音媒体の情報を持っている。
+
+コンクリートの型枠跡は建設方法の情報を持っている。
+
+Graffitiの重なりは、そこに誰が何を描いたかという時間の情報を持っている。
+
+Distortionは音響機器がどのように信号を処理したかを示す。
+
+Microtonalな音程のずれは、どの音律システムを基準にしているかを示す。
+
+つまり、不完全さは「何かが足りない」という意味だけではない。
+
+むしろ、「何かが起きた」という証拠になる。
+
+完全な表面は、履歴を隠す。
+
+傷のある表面は、履歴を残す。
+
+だから私たちは、古いレコードのノイズに時間を感じる。
+
+古い建物のひびに歴史を感じる。
 
 You can feel the human movement in the hand-drawn letters.
 
-I can feel the pressure of playing on the distorted guitar.
+歪んだギターに演奏の圧力を感じる。
 
-> Imperfection is not a failure left in the finished product, but also a state in which the process is still visible.
+> 不完全さは、完成品に残った失敗ではなく、過程がまだ見えている状態でもある。
 
 ---
 
-## 14. Is "humanity" really incomplete?
+## 14. 「人間らしさ」は本当に不完全なのか
 
-One caution is necessary here.
+ここで一つ注意が必要になる。
 
-The explanation that ""we are human because we are imperfect'' is convenient, but it is too simplistic.
+「不完全だから人間らしい」という説明は便利だが、単純すぎる。
 
-Humans don't always like things that are imperfect.
+人間は常に不完全なものを好むわけではない。
 
-accurate clock.
+正確な時計。
 
-Precision machinery.
+精密な機械。
 
-Perfect performance.
+完璧な演奏。
 
-High quality recording.
+高品質な録音。
 
-Symmetrical design.
+対称的なデザイン。
 
-Humans also find these things beautiful.
+こうしたものも人間は美しいと感じる。
 
 つまり、人間が好むのは「不完全さ」そのものではない。
 
-More precisely, the relationship between perfection and imperfection becomes important.
+より正確には、完全さと不完全さの間にある関係が重要になる。
 
-For example, completely random sounds are not necessarily interesting.
+例えば、完全にランダムな音は、必ずしも面白くない。
 
-Even completely predictable music can become boring if you listen to it for a long time.
+完全に予測可能な音楽も、長く聴けば退屈になる。
 
-While there are times when it feels good to have the same chords going on forever, it doesn't feel that way for everyone.
+同じコードが永遠に続くことが快感になる場合もあるが、すべての人にそう感じられるわけではない。
 
-Research has also shown that the relationship between musical complexity and predictability and taste is not a simple straight line, but is influenced by individual differences and experience.
+研究でも、音楽の複雑さや予測可能性と好みの関係は単純な直線ではなく、個人差や経験が関係することが示されている。
 
-Therefore, the statement ""Humans like broken things'' needs to be accurately rephrased as follows.
+だから「人間は壊れたものが好き」という言い方は、正確にはこう言い換える必要がある。
 
-Humans sometimes have a strong interest in objects where a known order and an unknown difference exist at the same time.
+人間は、既知の秩序と未知の差が同時に存在する対象に、強い興味を持つことがある。
 
-This "difference" becomes Distortion and Microtonality in music, Brutalism in architecture, and Graffiti in cities.
+その「差」が、音楽ではDistortionやMicrotonalityになり、建築ではBrutalismになり、都市ではGraffitiになる。
 
-> What we love may not be what is broken, but the unexpected differences that appear within order.
-
----
-
-## 15. Distortion controls "failure"
-
-What"s interesting about Distortion is that it"s not a complete coincidence.
-
-Distorts the guitar sound.
-
-However, you can choose how much to distort.
-
-Which frequencies to emphasize?
-
-Which amp should I use?
-
-Which pedal should I use?
-
-What volume should I use?
-
-Which performance should you input?
-
-In other words, ""breaking'' itself becomes a technique.
-
-This is important.
-
-If you really break it down, not everything becomes music.
-
-Distortion as an aesthetic involves controlled destruction.
-
-The same goes for Noise.
-
-The listening experience is different when you play completely random noise as is and when you configure the density, frequency, time, repetition, and volume of the noise.
-
-Punk has the same structure.
-
-Denying performance technique is not the same as making performance disorderly.
-
-The same thing applies to Lo-Fi.
-
-Lowering the recording quality doesn't automatically result in a Lo-Fi aesthetic.
-
-""Which defect to leave?'' is selected.
-
-> Aesthetic imperfection is not an accidental failure, but a ""controlled destruction'' that is often very consciously chosen.
+> 私たちが愛しているのは、壊れていることではなく、秩序の中に現れる予想外の差なのかもしれない。
 
 ---
 
-## 16. Microtonality breaks the "common sense of the ear"
+## 15. Distortionは「失敗」を制御する
 
-What's interesting about Microtonality is that it breaks invisible rules.
+Distortionが面白いのは、それが完全な偶然ではないことだ。
 
-In architecture, you can see the walls.
+ギターの音を歪ませる。
 
-With Graffiti, you can see the text.
+しかし、どれだけ歪ませるかは選べる。
 
-With Distortion, the sound will sound distorted.
+どの周波数を強調するか。
 
-But I can't see the temperament.
+どのアンプを使うか。
 
-We acquire the feeling that ""this pitch is correct'' through long listening experiences.
+どのペダルを使うか。
 
-Therefore, when you listen to a different temperament, you may feel that it is strange even though it is not physically wrong.
+どの音量にするか。
 
-It"s not the sound that"s broken here.
+どの演奏を入力するか。
 
-This is the listener's expectation.
+つまり「壊す」こと自体が技術になる。
 
-This is the strength of Microtonality.
+これは重要だ。
 
-I can show you the rules of music itself.
+本当に壊してしまえば、何でも音楽になるわけではない。
 
-The unit of ""semitone'', which I am not usually aware of, suddenly becomes conscious.
+美学としてのDistortionには、制御された破壊がある。
+
+Noiseにも同じことが言える。
+
+完全なランダムノイズをそのまま鳴らす場合と、ノイズの密度、周波数、時間、反復、音量を構成する場合では、聴取体験が違う。
+
+Punkにも同じ構造がある。
+
+演奏技術を否定することと、演奏を無秩序にすることは同じではない。
+
+Lo-Fiにも同じことがある。
+
+録音品質を下げれば自動的にLo-Fiの美学になるわけではない。
+
+「どの欠陥を残すか」が選ばれている。
+
+> 美学としての不完全さは、偶然の失敗ではなく、しばしば非常に意識的に選ばれた「制御された破壊」である。
+
+---
+
+## 16. Microtonalityは「耳の常識」を壊す
+
+Microtonalityが面白いのは、目に見えない規則を壊すことだ。
+
+建築なら壁が見える。
+
+Graffitiなら文字が見える。
+
+Distortionなら音が歪んで聞こえる。
+
+しかし音律は見えない。
+
+私たちは「この音程が正しい」という感覚を、長い聴取経験によって身につけている。
+
+そのため、別の音律を聴くと、物理的に間違っているわけではないのに「変だ」と感じることがある。
+
+ここで壊れているのは音ではない。
+
+聴き手の期待である。
+
+これがMicrotonalityの強さだ。
+
+音楽の規則そのものを見せることができる。
+
+普段は意識していない「半音」という単位が、急に意識される。
 
 "Why does this sound sound off?"
 
-I start thinking.
+と考え始める。
 
-At that moment, the listener discovers the rules of music.
+その瞬間、聴き手は音楽のルールを発見する。
 
-> What Microtonality destroys is not pitch. It is the standard of pitch that we unconsciously believe.
+> Microtonalityが壊すのは音程ではない。私たちが無意識に信じていた音程の基準である。
 
 ---
 
-## 17. Industrial brings "human sounds" closer to machine sounds
+## 17. Industrialは「人間の音」を機械の音に近づけた
 
-In Industrial, movements in the opposite direction also occur.
+Industrialでは、逆方向の動きも起きる。
 
-Humans approach machines.
+人間が機械に近づく。
 
-Repetition.
+反復。
 
-constant rhythm.
+一定のリズム。
 
 Metallic sound.
 
-processed voice.
+加工された声。
 
-loop.
+ループ。
 
-sequence.
+シーケンス。
 
-Excessive volume.
+過剰な音量。
 
-Early Industrial combined the provocative nature of punk with avant-garde electronic music, tape music, Musique Concrète, white noise, and synthesizers.
+初期Industrialは前衛電子音楽、テープ音楽、Musique Concrète、White Noise、シンセサイザーなどとPunkの挑発性を組み合わせた。
 
-The focus here is not on a ""beautiful singing voice.''
+そこでは「美しい歌声」が中心ではない。
 
-Human voices are also processed.
+人間の声も加工される。
 
-The body also becomes part of the performance.
+身体もパフォーマンスの一部になる。
 
-Musical instruments are also treated like machines.
+楽器も機械のように扱われる。
 
-As a result, music stands on the border between human expression and mechanical repetition.
+その結果、音楽は人間的な表現と機械的な反復の境界に立つ。
 
-This is also related to the social environment of the latter half of the 20th century.
+これは20世紀後半の社会環境とも関係する。
 
-factory.
+工場。
 
-Mass production.
+大量生産。
 
 Surveillance.
 
-media.
+メディア。
 
-Urbanization.
+都市化。
 
 computer.
 
-information.
+情報。
 
-machine.
+機械。
 
-Industrial didn't just sing these themes, but incorporated them into the very structure of their sound.
+Industrialは、それらを単にテーマとして歌うだけではなく、音の構造そのものに取り込んだ。
 
-> Industrial's ""discomfort'' was also a way to present the mechanical aspects of modern society without processing them for easy listening.
+> Industrialの「不快さ」は、現代社会が持っていた機械的な側面を、聴きやすく加工せずに提示する方法でもあった。
 
 ---
 
-## 18. "Ugly things" shorten the distance
+## 18. 「醜いもの」は、距離を縮める
 
-When we see something beautiful, we distance ourselves.
+美しいものを見るとき、私たちは距離を取る。
 
-Art museum painting.
+美術館の絵。
 
-sculpture.
+彫刻。
 
 architecture.
 
-High class recording.
+高級な録音。
 
-They are presented as "completed".
+それらは「完成されたもの」として提示される。
 
-However, those with scars are different.
+しかし、傷のあるものは違う。
 
-broken wall.
+壊れた壁。
 
-Recording with noise.
+ノイズの入った録音。
 
-distorted guitar.
+歪んだギター。
 
-handwritten letters.
+手書きの文字。
 
-Unstable pitch.
+不安定なピッチ。
 
-These images remind us of the production site.
+これらは制作の現場を想像させる。
 
-"Someone made it here."
+「誰かがここで作った」
 
-A feeling arises.
+という感覚が生まれる。
 
-There is a sense of closeness.
+そこには距離の近さがある。
 
-With Lo-Fi recording, the environmental sounds and characteristics of the recording medium can themselves become part of the work.
+Lo-Fiの録音では、環境音や録音媒体の特徴そのものが作品の一部になりうる。
 
-That's why some people feel that a slightly noisy recording is ""closer'' than a perfect digital sound source.
+だから、完璧なデジタル音源より、少しノイズのある録音を「近い」と感じる人がいる。
 
-It's not because the sound quality is bad.
+それは音質が悪いからではない。
 
-This is because it is easy to imagine human actions behind the sound.
+音の背後に、人間の行為を想像しやすいからだ。
 
-> Perfect work shows the finished product. For incomplete works, show the time when the work was created.
+> 完璧な作品は完成品を見せる。不完全な作品は、その作品が作られた時間まで見せる。
 
 ---
 
@@ -989,205 +988,205 @@ This is because it is easy to imagine human actions behind the sound.
 
 Let's compare architecture and music.
 
-Brutalism:
+Brutalism：
 
-Don't hide the concrete.
+コンクリートを隠さない。
 
-Lo-Fi:
+Lo-Fi：
 
-Do not hide traces of recording media.
+録音媒体の痕跡を隠さない。
 
 Industrial：
 
-Does not hide mechanical sounds.
+機械的な音を隠さない。
 
-Graffiti:
+Graffiti：
 
-Exposing the walls of the city as a canvas.
+都市の壁をキャンバスとして露出させる。
 
-Distortion:
+Distortion：
 
-Do not hide signal destruction.
+信号の破壊を隠さない。
 
-Microtonality:
+Microtonality：
 
-Don't hide deviations from the temperament standard.
+音律の基準からのずれを隠さない。
 
 Noise：
 
-It does not hide sounds that would normally be excluded.
+通常なら排除される音を隠さない。
 
 Punk：
 
-Don't hide your lack of playing technique.
+演奏技術の不足を隠さない。
 
-What they all have in common is a resistance to ""hiding.''
+すべてに共通するのは、「隠すこと」への抵抗である。
 
-Of course, not all works have the same idea.
+もちろん、すべての作品が同じ思想を持っているわけではない。
 
-Brutalism and punk have different histories and purposes.
+BrutalismとPunkは歴史的にも目的も違う。
 
-Graffiti and Noise are also not directly connected.
+GraffitiとNoiseも直接つながっているわけではない。
 
-However, there are some similarities in the aesthetic structure.
+しかし美学的な構造には似た部分がある。
 
-Instead of creating a "perfected surface", show what lies beneath that surface.
+「完成された表面」を作る代わりに、その表面の下にあるものを見せる。
 
-> When we are attracted to broken things, we may be looking not at the broken surface, but at the underlying structure.
-
----
-
-## 20. Aesthetics redefines "flaws"
-
-In the history of aesthetics, the standards of what is ""beautiful'' are not fixed.
-
-What was considered beautiful in one era appears old in another.
-
-Conversely, things that were once considered ugly may have new value.
-
-Brutalism is one example.
-
-Although many buildings were subject to criticism in the latter half of the 20th century, Brutalist architecture is now being reevaluated as having unique visual value. MoMA classifies Brutalism as a type of architecture that exposes materials, reduces decoration, and uses the texture of the materials themselves as an aesthetic element.
-
-The same goes for Lo-Fi.
-
-While high-fidelity recording is a technical ideal, music that actively preserves recorded noise and distortion has become an aesthetic.
-
-In other words, ""flaws'' are not a fixed category.
-
-A shortcoming is simply a shortcoming based on current evaluation standards.
-
-If the standards change, the same phenomenon becomes an advantage.
-
-> The history of aesthetics is the history of deciding what is beautiful, but also the history of changing what is called a flaw.
+> 壊れたものに惹かれるとき、私たちは壊れた表面ではなく、その奥にある構造を見ているのかもしれない。
 
 ---
 
-## 21. Why do we remember "slightly strange things"?
+## 20. 美学は「欠点」を再定義する
 
-Consider advertising.
+美学の歴史では、「美しいもの」の基準は固定されていない。
 
-A perfectly shaped face.
+ある時代に美しいとされたものが、別の時代には古く見える。
 
-Completely complete product.
+逆に、かつて醜いとされたものが、新しい価値を持つこともある。
 
-A perfectly arranged background.
+Brutalismはその一例だ。
 
-Everything is uniform.
+20世紀後半には批判の対象になった建築も多かったが、現在ではBrutalist architectureが独自の視覚的価値を持つものとして再評価されている。MoMAはBrutalismを、素材を露出させ、装飾を減らし、素材そのものの質感を美的要素とする建築の一つとして整理している。
 
-What would happen if there was just one strange thing among them?
+Lo-Fiも同じだ。
 
-My eyes turn there.
+高忠実度録音が技術的な理想である一方、録音上のノイズや歪みを積極的に残す音楽が一つの美学として成立した。
 
-The same thing happens with music.
+つまり「欠点」は固定されたカテゴリーではない。
 
-An unexpected chord appears in a normal chord progression.
+欠点とは、現在の評価基準から見た欠点でしかない。
 
-There are subtle deviations within the uniform rhythm.
+基準が変われば、同じ現象が長所になる。
 
-Noise suddenly enters the beautiful sound.
+> 美学の歴史とは、何が美しいかを決める歴史であると同時に、何を欠点と呼ぶかを変えてきた歴史でもある。
 
-Excessive distortion appears in quiet songs.
+---
 
-Differences are important information for human perception.
+## 21. なぜ私たちは「少し変なもの」を覚えているのか
 
-All things being equal, there is no need to be careful.
+広告を考えてみる。
+
+完全に整った顔。
+
+完全に整った商品。
+
+完全に整った背景。
+
+すべてが均一。
+
+その中に一つだけ変なものがあったらどうなるだろう。
+
+視線がそこへ向く。
+
+音楽でも同じことが起こる。
+
+普通のコード進行の中に、予想外のコードが入る。
+
+均一なリズムの中に、微妙なズレがある。
+
+きれいな音の中に突然ノイズが入る。
+
+静かな曲の中に過剰な歪みが出る。
+
+人間の知覚にとって、差異は重要な情報になる。
+
+すべてが同じなら、注意する必要がない。
 
 But if there is one thing that is different, the brain needs to process that.
 
-Music research has shown that anticipation and surprise are associated with pleasure and brain activity.
+音楽の研究では、予測と驚きが快楽や脳活動と関係することが示されている。
 
-Therefore, ""strange things'' are not necessarily unpleasant.
+だから「変なもの」は、必ずしも不快なものではない。
 
-Rather, it serves as an opportunity to search for meaning.
+むしろ、意味を探すきっかけになる。
 
-> We sometimes get deeper into a work by trying to understand something slightly different, rather than trying to understand something perfect.
+> 私たちは、完璧なものを理解するのではなく、少しだけ違うものを理解しようとすることで、作品に深く入り込むことがある。
 
 ---
 
 ## 22. However, "imperfection doesn"t mean it"s good"
 
-I would like to clear up one central misconception in this column.
+ここで、このコラムの中心的な誤解を一つ取り除いておきたい。
 
-Imperfection is not beautiful in itself.
+不完全さは、それだけで美しいわけではない。
 
-Not all recording mistakes become art.
+録音ミスが全部芸術になるわけではない。
 
-Adding noise doesn't necessarily make a song better.
+ノイズを入れれば良い曲になるわけではない。
 
-If you go out of tune, it doesn't become Microtonality.
+音程を外せばMicrotonalityになるわけでもない。
 
-Exposing the concrete doesn't necessarily mean Brutalism.
+コンクリートをむき出しにすればBrutalismになるわけでもない。
 
-Writing on the wall doesn't necessarily make you a better Graffiti.
+壁に文字を書けば優れたGraffitiになるわけでもない。
 
 Context is important.
 
-what is broken?
+何が壊れているのか。
 
-why is it broken?
+なぜ壊れているのか。
 
-How broken is it?
+どの程度壊れているのか。
 
-How does the way it breaks relate to the work as a whole?
+その壊れ方が作品全体とどう関係するのか。
 
-And what can listeners and viewers discover from it?
+そして、聴き手や見る人がそこから何を発見できるのか。
 
-Imperfection that becomes art often has a structure.
+芸術として成立する不完全さには、しばしば構造がある。
 
-There is a difference between an accidental wound and a meaningful wound.
+偶然の傷と、意味のある傷は違う。
 
-> Imperfection itself is not art. When imperfection is combined with the structure of a work, it becomes an expression.
+> 不完全さそのものが芸術なのではない。不完全さが作品の構造と結びついたとき、それは表現になる。
 
 ---
 
-## 23. "Destroying" has a history
+## 23. 「壊す」ことには歴史がある
 
-In avant-garde art since the 20th century, movements to ""break existing rules'' have repeatedly appeared.
+20世紀以降の前衛芸術には、「既存のルールを壊す」という動きが繰り返し現れる。
 
-In music, tonality.
+音楽では調性。
 
-performance technique.
+演奏技術。
 
-musical instrument.
+楽器。
 
-recording.
+録音。
 
-format.
+形式。
 
-Decoration in architecture.
+建築では装飾。
 
-material.
+素材。
 
-structure.
+構造。
 
-In cities, ownership.
+都市では所有権。
 
-public space.
+公共空間。
 
-character.
+文字。
 
 In art, the author.
 
-the work.
+作品。
 
-exhibition space.
+展示空間。
 
 By breaking down these boundaries, new areas of expression have been born.
 
-Noise shook the boundary between music and noise.
+Noiseは音楽と騒音の境界を揺らした。
 
-Industrial shook the boundaries between music and mechanical sounds.
+Industrialは音楽と機械音の境界を揺らした。
 
 Punk shook the line between professional and amateur.
 
-Lo-Fi shook the boundaries between accomplished recording and the production process.
+Lo-Fiは完成された録音と制作過程の境界を揺らした。
 
-Graffiti shook the boundaries between art space and urban space.
+Graffitiは芸術空間と都市空間の境界を揺らした。
 
-Brutalism shook the boundaries between structure and decoration.
+Brutalismは構造と装飾の境界を揺らした。
 
-Microtonality shook the boundaries of "correct pitch."
+Microtonalityは「正しい音程」の境界を揺らした。
 
 > A new aesthetic does not suddenly appear on the other side of the old aesthetic. In many cases, it comes from nudging old boundaries.
 
@@ -1195,111 +1194,111 @@ Microtonality shook the boundaries of "correct pitch."
 
 ## 24. Imperfection demands "participation"
 
-A perfectly illustrated piece leaves the recipient with less work to do.
+完璧に説明された作品は、受け手にあまり仕事を残さない。
 
-Of course, that's not a bad thing.
+もちろん、それが悪いわけではない。
 
-However, ambiguous works are different.
+しかし曖昧な作品は違う。
 
-"What is this?"
+「これは何だ？」
 
-I think so.
+と考える。
 
-Listen to Noise.
+Noiseを聴く。
 
-"Where's the rhythm?"
+「どこにリズムがある？」
 
-Search for.
+と探す。
 
-Listen to Microtonality.
+Microtonalityを聴く。
 
-"Why does this sound sound off?"
+「なぜこの音が外れて聞こえる？」
 
-I think so.
+と考える。
 
-See Brutalism.
+Brutalismを見る。
 
-"Why is it so huge?"
+「なぜこんなに巨大なのか？」
 
-I think so.
+と考える。
 
-See Graffiti.
+Graffitiを見る。
 
-"Whose name is this?"
+「これは誰の名前なのか？」
 
-I think so.
+と考える。
 
-In other words, even if the work is complete, the generation of meaning is not yet complete.
+つまり、作品が完成していても、意味の生成は完成していない。
 
-There is still room for the receiver to participate.
+受け手が参加する余地が残されている。
 
-Regarding the possibility that challenging art can lead to aesthetic satisfaction, some research suggests that the cognitive process of understanding meaning from it, rather than the difficulty of processing it, is important.
+挑戦的な芸術が美的満足につながる可能性については、処理の難しさそのものではなく、そこから意味を理解していく認知的な過程が重要になるという研究もある。
 
-> An incomplete work may be like saying to the recipient, ""Please complete the rest.''
+> 不完全な作品は、受け手に「続きを完成させてください」と言っているようなものなのかもしれない。
 
 ---
 
 ## 25. That's why you can listen to "weird sounds" over and over again.
 
-Music that can be understood all at once may be powerful but short-lived.
+一度で全部わかる音楽は、強いが短命な場合がある。
 
-But music that takes time to understand has a reason to come back to it again and again.
+しかし理解するまで時間がかかる音楽は、何度も戻ってくる理由を持つ。
 
-At first it was Noise.
+最初はNoiseだった。
 
-The second time I found the rhythm.
+二度目にはリズムが見えた。
 
-The third time I saw the tone.
+三度目には音色が見えた。
 
-The fourth time I saw the structure.
+四度目には構造が見えた。
 
-The fifth time, I could see the emotion.
+五度目には感情が見えた。
 
-This isn't just about music.
+これは音楽だけではない。
 
-contemporary art.
+現代美術。
 
-experimental film.
+実験映画。
 
-Brutalism.
+Brutalism。
 
-Graffiti.
+Graffiti。
 
-Abstract painting.
+抽象画。
 
-Microtonality.
+Microtonality。
 
-It is not necessary to be able to explain all of these things in just one look.
+これらは一回見ただけで全部説明できる必要がない。
 
-Rather, the fact that there are parts you don't understand gives you a reason to revisit it.
+むしろ、分からない部分が残ることで再訪する理由が生まれる。
 
-Prediction research on music also shows that internal models change with listening experience, and that learning through repetition influences musical experience.
+音楽の予測研究でも、聴取経験によって内部モデルが変化し、繰り返しによる学習が音楽体験に影響することが示されている。
 
-> What you don't understand is not a weakness of the work, but a reason to go back again.
+> 分からないことは、作品の弱点ではなく、もう一度戻るための理由になる。
 
 ---
 
-## 26. Timeline: How imperfection becomes aesthetics
+## 26. 年表：不完全さが美学になるまで
 
-| Age | Event | Relationship with "imperfection" |
+| 年代              | 出来事                                          | 「不完全さ」との関係                       |
 | --------------- | -------------------------------------------- | -------------------------------- |
-| Late 1940s | Le Corbusier develops architecture using rough concrete | Treats the material itself as architectural expression |
-| 1950s | The concept of New Brutalism is formed in England | Structure and materials are not hidden |
-| 1955 | Reyner Banham discusses New Brutalism | The materiality and form of architecture are theorized |
-| 1960s | Modern Graffiti culture develops in New York and other places | City walls become a medium of expression |
-| Late 1960s to 1970s | Punk culture is formed | DIY spirit to reduce dependence on technology and industry |
-| 1970s | Early forms of Industrial emerge | Noise, electronic sounds, and mechanical repetition become musical |
-| 1970s | Graffiti expands as urban culture in New York | "Defacement" of public space becomes visual culture |
-| 1982 | Spacemen 3 begins its activities with the backdrop of Rugby Art College | Minimalism through repetition, drones, and Fuzz |
-| 1986 | Announcement of "Sound Of Confusion" | Bringing Distortion, Feedback, and Drone to the fore |
-| 1980s | DIY recording culture expands | Restrictions such as cassettes and 4-tracks lead to musical expression |
-| 1990s | Lo-Fi takes hold as a musical aesthetic | Values ​​hiss, distortion, and roughness in recordings |
-| Since the 1990s | Boris' activities | Crossing Noise, Drone, Doom, etc. |
-| Since the 2000s | Digital recording environments have become commonplace | High-quality recording and Lo-Fi aesthetics coexist |
-| 2010s | Expanding modern interest in Microtonal music | Intervals other than 12-equal temperament into modern music |
-| 2010s | Progress in research on musical prediction, surprise, and pleasure | The relationship between prediction errors and musical pleasure becomes a research topic |
-| 2020s | Lo-Fi connects with online culture and expands | Recording "imperfections" become conscious musical textures |
-| 2026 | Angine de Poitrine attracts international attention in the context of microtonal rock | Microtones, unique performances, and visual expressions are recognized as modern rock expressions |
+| 1940年代後半        | Le Corbusierが粗いコンクリートを用いた建築を展開               | 素材そのものを建築表現として扱う                 |
+| 1950年代          | New Brutalismの概念が英国で形成される                    | 構造・素材を隠さない                       |
+| 1955            | Reyner BanhamがNew Brutalismを論じる              | 建築の素材性と形式が理論化される                 |
+| 1960年代          | ニューヨークなどで現代的Graffiti文化が発展                    | 都市の壁が表現媒体になる                     |
+| 1960年代後半〜1970年代 | Punk文化が形成される                                 | 技術・産業への依存を減らすDIY精神               |
+| 1970年代          | Industrialの初期形態が登場                           | Noise・電子音・機械的反復を音楽化              |
+| 1970年代          | Graffitiがニューヨークの都市文化として拡大                    | 公共空間の「汚損」が視覚文化になる                |
+| 1982            | Spacemen 3がRugby Art Collegeを背景に活動開始         | 反復・Drone・Fuzzによる最小主義             |
+| 1986            | 『Sound Of Confusion』発表                       | Distortion・Feedback・Droneを前面化    |
+| 1980年代          | DIY録音文化が拡大                                   | カセット・4トラックなどの制約が音楽表現へ            |
+| 1990年代          | Lo-Fiが一つの音楽的美学として定着                          | Hiss・Distortion・録音上の粗さを価値化       |
+| 1990年代以降        | Borisが活動を展開                                  | Noise・Drone・Doomなどを横断            |
+| 2000年代以降        | デジタル録音環境が一般化                                 | 高品質録音とLo-Fi美学が並存                 |
+| 2010年代          | Microtonal musicへの現代的関心が拡大                   | 12平均律以外の音程を現代音楽へ                 |
+| 2010年代          | 音楽予測・驚きと快楽の研究が進展                             | 予測誤差と音楽的快楽の関係が研究対象に              |
+| 2020年代          | Lo-Fiがオンライン文化と結びつき拡大                         | 録音上の「欠陥」が意識的な音楽的質感になる            |
+| 2026            | Angine de Poitrineがmicrotonal rockの文脈で国際的に注目 | 微分音・独特の演奏・視覚表現が現代的なロック表現として認識される |
 
 > Over the past several decades, sounds and surfaces that were once seen as ""things to be removed'' have been transformed into materials for expression one after another.
 
@@ -1309,44 +1308,44 @@ Prediction research on music also shows that internal models change with listeni
 
 <div class="mermaid">
 flowchart TD
-    A["Existing standards"] --> B["Accuracy, Uniformity, Transparency"]
-    B --> C["Recognized as a drawback"]
+    A["既存の基準"] --> B["正確さ・均一性・透明性"]
+    B --> C["欠点として認識"]
     C --> D["Noise / Distortion / Roughness / Deviation"]
-    D --> E["Intentionally incorporate"]
-    E --> F["New context"]
-    F --> G["Tone, structure, texture, meaning"]
-    G --> H["New aesthetic standard"]
-    H --> I["What was once a shortcoming becomes a value."]
+    D --> E["意図的に取り込む"]
+    E --> F["新しい文脈"]
+    F --> G["音色・構造・質感・意味"]
+    G --> H["新しい美的基準"]
+    H --> I["かつての欠点が価値になる"]
     I --> A
 </div>
 
-This cycle doesn't just exist in music.
+この循環は、音楽だけに存在するわけではない。
 
-The first is "noise".
+最初は「ノイズ」。
 
-Next is "expression".
+次に「表現」。
 
-In the end, it's a "genre".
+最終的には「ジャンル」。
 
-The first is ""doodle''.
+最初は「落書き」。
 
-Next is "street art".
+次に「ストリートアート」。
 
-Finally, "art history."
+最終的には「美術史」。
 
-The first is "rough concrete".
+最初は「粗いコンクリート」。
 
-Next is "architectural thought."
+次に「建築思想」。
 
 Ultimately, it is "architectural aesthetics."
 
 At first, it was an "out of place sound."
 
-Next is "microtone."
+次に「微分音」。
 
-Ultimately, it's a "musical system."
+最終的には「音楽的システム」。
 
->Aesthetic change is not about calling the same thing by a different name, but also about hearing and seeing the same phenomenon with a different value system.
+> 美学の変化とは、同じものを別の名前で呼ぶことではなく、同じ現象を別の価値体系で聴き、見ることでもある。
 
 ---
 
@@ -1354,7 +1353,7 @@ Ultimately, it's a "musical system."
 
 <div class="mermaid">
 flowchart TD
-    A["Noise"] --> X["Break boundaries"]
+    A["Noise"] --> X["境界を壊す"]
     B["Distortion"] --> X
     C["Microtonality"] --> X
     D["Punk"] --> X
@@ -1365,441 +1364,441 @@ flowchart TD
     I["Drone"] --> X
     J["Experimental Art"] --> X
     X --> Y["Doubt the existing 'correctness'"]
-    Y --> Z["New way of listening and seeing"]
+    Y --> Z["新しい聴き方・見方"]
 </div>
 
-These are not the same genre.
+これらは、同じジャンルではない。
 
-It's not even the same era.
+同じ時代でもない。
 
-Not even from the same social background.
+同じ社会的背景でもない。
 
-However, what they have in common is that they did not accept existing evaluation criteria as is.
+しかし共通しているのは、既存の評価基準をそのまま受け入れなかったことだ。
 
-"Is this music?"
+「これは音楽なのか？」
 
-"Is this art?"
+「これは芸術なのか？」
 
-"Is this architecture?"
+「これは建築なのか？」
 
-"Is this a performance?"
+「これは演奏なのか？」
 
-This question becomes the starting point for expression.
+という疑問が、そのまま表現の出発点になる。
 
-> The question ""Is this really wrong?'' becomes the gateway to a new aesthetic.
-
----
-
-## 29. Contemporary issues illustrated by Angine de Poitrine
-
-When we put Angine de Poitrine in this context, we no longer need to look only at Microtonality.
-
-The important thing is that he uses existing rock symbols, but transforms them little by little.
-
-guitar.
-
-Riff.
-
-Repetition.
-
-Live.
-
-In the form of a band.
-
-However, inside this, a different sense of pitch and a unique sense of performance are introduced.
-
-As a result, ""being rock" and ""not being rock-like" exist at the same time.
-
-This is one of the characteristics of modern Broken Aesthetics.
-
-It's not a complete departure from existing genres.
-
-In fact, it is precisely because I am familiar with the existing genre that I can hear slight discrepancies.
-
-This is an important point.
-
-If the listener doesn't know rock grammar, the discrepancy might just sound strange.
-
-However, for those who know rock, the difference can be clearly heard.
-
-In other words, imperfection requires standards.
-
-> If you don"t know the rules, you won"t hear about deviations from them.
+> 「これは本当に間違っているのか？」という疑問が、新しい美学の入口になる。
 
 ---
 
-## 30. "Broken things" are actually not broken.
+## 29. Angine de Poitrineが示す現代的な問題
 
-At this point, you have to question the title itself, "Broken Things."
+Angine de Poitrineをこの文脈に置くと、Microtonalityだけを見る必要はなくなる。
 
-Noise is not broken.
+重要なのは、既存のロックの記号を使いながら、それを少しずつ変形していることだ。
 
-Distortion isn't broken either.
+ギター。
 
-Microtonality is not broken either.
+リフ。
 
-Brutalism is not broken either.
+反復。
 
-Graffiti isn't broken either.
+ライブ。
 
-Lo-Fi isn't broken either.
+バンドという形式。
 
-It is our old standards that seem broken.
+しかし、その内部に通常とは異なる音程感覚や独特な演奏感覚が入り込む。
 
-This is a very big difference.
+その結果、「ロックであること」と「ロックらしくないこと」が同時に存在する。
 
-Noise is broken when viewed from the standards of "correct music."
+これが現代的なBroken Aestheticsの一つの特徴だ。
 
-Lo-Fi is broken when viewed from the standard of "high fidelity recording."
+完全に既存ジャンルから離れるのではない。
 
-Brutalism is broken when viewed from the standard of ""decorated architecture.''
+むしろ、既存ジャンルを知っているからこそ、わずかなズレが聞こえる。
 
-Graffiti is broken by the standards of "permitted urban expression."
+これは重要なポイントだ。
 
-Microtonality is broken when viewed from the standard of "12 equal temperament".
+もし聴き手がロックの文法を知らなければ、そのズレは単なる変な音に聞こえるかもしれない。
 
-However, if you change the standards themselves, there is no need for them to be broken.
+しかしロックを知っている人には、その違いが強く聞こえる。
 
-> The phrase ""broken things"' may refer to the viewer"s standards rather than the state of the object.
+つまり、不完全さは基準を必要とする。
+
+> ルールを知らなければ、ルールからの逸脱も聞こえない。
 
 ---
 
-## 31. Perfection and imperfection are not enemies
+## 30. 「壊れたもの」は、実は壊れていない
 
-There is no need to deny perfection here.
+ここまで来ると、「Broken Things」というタイトルそのものを疑う必要がある。
 
-There is value in a perfect performance.
+Noiseは壊れていない。
 
-Accurate recording is also valuable.
+Distortionも壊れていない。
 
-There is also value in precision architecture.
+Microtonalityも壊れていない。
 
-There is also value in a well-proportioned design.
+Brutalismも壊れていない。
 
-The problem is that perfection is not the only beauty.
+Graffitiも壊れていない。
 
-Aesthetics has multiple directions.
+Lo-Fiも壊れていない。
+
+壊れているように見えるのは、私たちの古い基準である。
+
+これは非常に大きな違いだ。
+
+「正しい音楽」という基準から見るとNoiseは壊れている。
+
+「高忠実度録音」という基準から見るとLo-Fiは壊れている。
+
+「装飾された建築」という基準から見るとBrutalismは壊れている。
+
+「許可された都市表現」という基準から見るとGraffitiは壊れている。
+
+「12平均律」という基準から見るとMicrotonalityは壊れている。
+
+しかし基準そのものを変えると、壊れている必要がなくなる。
+
+> 「壊れたもの」という言葉は、対象の状態よりも、見る側の基準を表しているのかもしれない。
+
+---
+
+## 31. 完璧さと不完全さは敵ではない
+
+ここで、完璧さを否定する必要もない。
+
+完璧な演奏には価値がある。
+
+正確な録音にも価値がある。
+
+精密な建築にも価値がある。
+
+均整の取れたデザインにも価値がある。
+
+問題は、完璧さだけが美しさではないということだ。
+
+美学には複数の方向がある。
 
 order.
 
-chaos.
+混沌。
 
-Symmetry.
+対称。
 
-Asymmetrical.
+非対称。
 
-Transparent.
+透明。
 
-rough.
+粗い。
 
-Predictable.
+予測可能。
 
-Unpredictable.
+予測不能。
 
-Stable.
+安定。
 
 Unstable.
 
-Silence.
+静寂。
 
-Noise.
+Noise。
 
-These are not simple superiority or inferiority.
+これらは単純な優劣ではない。
 
-Rather, the necessary balance differs depending on the work.
+むしろ作品によって必要なバランスが違う。
 
-In music research, the relationship between predictability and uncertainty cannot be explained simply by ""more is better" or ""less is better," but it involves complexity, learning, and individual differences.
+音楽研究でも、予測可能性と不確実性の関係は単純な「多ければ良い」「少なければ良い」では説明できず、複雑さや学習、個人差が関係している。
 
-> Beauty is not created by the binary choice of perfection or imperfection, but by the relationship between the two.
+> 美しさは、完全か不完全かという二択ではなく、二つがどのような関係に置かれているかによって生まれる。
 
 ---
 
-## 32. Why humans love Broken Things
+## 32. なぜ人間はBroken Thingsを愛するのか
 
-Let's return to the first question here.
+ここで最初の問いに戻ろう。
 
-Why do humans find beauty in broken and imperfect things?
+なぜ人間は壊れたもの、不完全なものに美を感じるのか。
 
-There is more than one answer.
+答えは一つではない。
 
-First, humans are predictive creatures.
+第一に、人間は予測する生物だからだ。
 
-The difference between predictions and reality attracts attention.
+予測と現実の差は、注意を引く。
 
 Second, humans learn.
 
-Even if you don't understand something at first, you can discover new structures by repeatedly touching on it.
+最初に理解できなかったものでも、繰り返し触れることで新しい構造を発見できる。
 
-Third, humans learn "correctness" through culture.
+第三に、人間は文化によって「正しさ」を学ぶ。
 
-Therefore, expressions that deviate from this correctness create a strong sense of discomfort.
+だから、その正しさから外れる表現は、強い違和感を生む。
 
-Fourth, humans search for meaning.
+第四に、人間は意味を探す。
 
-Search for structure within noise.
+Noiseの中に構造を探す。
 
-Find the author in Graffiti.
+Graffitiの中に作者を探す。
 
-Imagine a place recorded from Lo-Fi noise.
+Lo-Fiのノイズから録音された場所を想像する。
 
-Reading the philosophy of buildings from the structure of Brutalism.
+Brutalismの構造から建物の思想を読む。
 
-Fifth, humans use constraints as expressions.
+第五に、人間は制約を表現として利用する。
 
-Punk.
+Punk。
 
-Lo-Fi.
+Lo-Fi。
 
 DIY.
 
-These have transformed what cannot be done into production conditions.
+これらは、できないことを制作条件へ変換してきた。
 
-And finally, humans move boundaries.
+そして最後に、人間は境界を動かす。
 
-Music and Noise.
+音楽とNoise。
 
-art and graffiti.
+芸術と落書き。
 
-Completed and unfinished.
+完成と未完成。
 
-Accuracy and inaccuracy.
+正確と不正確。
 
-man and machine.
+人間と機械。
 
-By moving these boundaries little by little, a new culture is born.
+こうした境界を少しずつ動かすことで、新しい文化が生まれる。
 
-> What we love is not "broken things." It is a moment when we discover an as-yet-unnamed order on the other side of boundaries that appear to be broken.
+> 私たちが愛しているのは「壊れたもの」ではない。壊れているように見える境界の向こう側で、まだ名前のついていない秩序を発見する瞬間なのだ。
 
 ---
 
-## 33. Broken Things will become the "aesthetics of the future"
+## 33. Broken Thingsは「未来の美学」になる
 
-If we look at history, today"s common sense was yesterday"s heresy.
+歴史を見ると、今日の常識は昨日の異端だった。
 
-Noise.
+Noise。
 
 Punk.
 
-Industrial.
+Industrial。
 
-Lo-Fi.
+Lo-Fi。
 
 Brutalism.
 
-Graffiti.
+Graffiti。
 
-Microtonality.
+Microtonality。
 
-Expressions that once deviated from existing value standards have since been organized as new culture.
+かつては既存の価値基準から外れていた表現が、後から新しい文化として整理されてきた。
 
-Of course, not all heresies will become mainstream in the future.
+もちろん、すべての異端が未来の主流になるわけではない。
 
-In fact, many disappear.
+むしろ多くは消える。
 
-But those that remain have something in common.
+しかし、残ったものには共通点がある。
 
-It's not just "different from the norm."
+単に「普通と違う」だけではない。
 
-The difference itself had a structure to it as a work.
+違いそのものに、作品としての構造があった。
 
-So you can listen to it even if time passes.
+だから時間が経っても聴くことができる。
 
-You can see it.
+見ることができる。
 
-Can be reinterpreted.
+再解釈できる。
 
-And another generation can discover new meaning.
+そして、別の世代が新しい意味を発見できる。
 
-This is also the strength of art.
+これは芸術の強さでもある。
 
-> The aesthetics of the future may be hidden in the "flaws" of the present.
-
----
-
-## 34. The concept of Broken Aesthetics
-
-If we were to sum up the phenomena we have covered in this column in one word, we could call them ""Broken Aesthetics.''
-
-This is not a specific genre name.
-
-Not even noise.
-
-Not punk either.
-
-It's not Lo-Fi either.
-
-Nor is it Brutalism.
-
-Rather, it is an aesthetic way of thinking that cuts across them.
-
-Its characteristics are:
-
-Doubting what is "right".
-
-Doubt the "perfected surface".
-
-I doubt "remove noise".
-
-Doubt about "correcting the discrepancies".
-
-I doubt the idea that "the higher the technology, the better."
-
-I doubt the idea that ""beautiful things are in order.''
-
-Instead,
-
-Misalignment.
-
-scratch.
-
-noise.
-
-Roughness.
-
-Repetition.
-
-distortion.
-
-Uncertainty.
-
-Constraints.
-
-Coincidence.
-
-Physicality.
-
-traces of time.
-
-Incorporate into the structure of the work.
-
-> Broken Aesthetics is not a technique to make broken things look beautiful, but an aesthetic that reconsiders what is called "broken."
+> 未来の美学は、現在の「欠点」の中に隠れている可能性がある。
 
 ---
 
-## 35. What remains in the end is a feeling of discomfort
+## 34. Broken Aestheticsという考え方
 
-After listening to a great work over and over again, what remains in the end is not necessarily the melody.
+このコラムで扱ってきた現象を、一つの言葉にまとめるなら「Broken Aesthetics」と呼ぶことができる。
 
-The discomfort you felt at first may remain.
+これは特定のジャンル名ではない。
 
-"What was that sound?"
+Noiseでもない。
 
-"Why was that building shaped like that?"
+Punkでもない。
 
-"Why wasn't that noise turned off?"
+Lo-Fiでもない。
 
-"Why was that pitch a little different?"
+Brutalismでもない。
 
-"Who wrote the writing on that wall?"
+むしろ、それらを横断する美学的な考え方である。
 
-That question remains even after you leave the work.
+その特徴は、
 
-Then listen again.
+「正しいもの」を疑う。
 
-Look again.
+「完成された表面」を疑う。
 
-Check again.
+「ノイズを除去する」ことを疑う。
 
-At that time, the work looks a little different.
+「ズレを修正する」ことを疑う。
 
-At first it was broken.
+「技術が高いほど良い」という考えを疑う。
 
-Next thing was weird.
+「美しいものは整っている」という考えを疑う。
 
-Then it got interesting.
+その代わりに、
 
-And in the end, it turned out beautiful.
+ズレ。
 
-The work itself has not changed.
+傷。
 
-What has changed is my perspective.
+ノイズ。
 
-Therefore, the reason why humans love imperfect things cannot be explained simply by ""because imperfection is instinctively beautiful.''
+粗さ。
 
-Rather, we use imperfection as an opportunity to use our own predictions, memories, experiences, culture, and values ​​to discover new order in our works.
+反復。
 
-Noise is no longer just noise.
+歪み。
 
-Distortion is no longer a corrupted signal.
+不確実性。
 
-Lo-Fi is no longer low quality.
+制約。
 
-Microtonality no longer sounds out of place.
+偶然。
 
-Graffiti is more than just doodles.
+物理性。
 
-Brutalism is no longer just a rough building.
+時間の痕跡。
 
-Punk is no longer bad rock.
+を作品の構造へ取り込む。
 
-Industrial is no longer just an unpleasant sound.
-
-Spacemen 3's Drone will no longer be a simple iteration.
-
-Boris' huge sound pressure is not just loud.
-
-And the subtle pitch deviations of Angine de Poitrine are not ""wrong sounds,'' but rather sounds that challenge the listener's ears themselves.
-
-> Beauty is not about finding something perfect. Perhaps it's about discovering a different order within what we thought was ""imperfect.''
+> Broken Aestheticsとは、壊れたものを美しく見せる技術ではなく、何を「壊れている」と呼ぶのかを問い直す美学である。
 
 ---
 
-## 36. The heart of this column
+## 35. 最後に残るのは「違和感」
 
-Humans don't like broken things.
+優れた作品を何度も聴いたあと、最後に残るのは必ずしもメロディではない。
 
-Humans can find meaning in things that seem broken.
+最初に感じた違和感が残ることがある。
 
-That ability has changed art.
+「あの音は何だったのか？」
+
+「あの建物はなぜあんな形だったのか？」
+
+「あのノイズはなぜ消されなかったのか？」
+
+「あのピッチはなぜ少し違ったのか？」
+
+「あの壁の文字は誰が書いたのか？」
+
+その疑問は、作品から離れたあとも残る。
+
+そして、もう一度聴く。
+
+もう一度見る。
+
+もう一度調べる。
+
+その時、作品は少しだけ違って見える。
+
+最初は壊れていた。
+
+次には変だった。
+
+その後、面白くなった。
+
+そして最後には、美しくなった。
+
+作品そのものは変わっていない。
+
+変わったのは、こちらの見方だ。
+
+だから、人間が不完全なものを愛する理由は、「不完全さが本能的に美しいから」とだけ説明することはできない。
+
+むしろ私たちは、不完全さをきっかけにして、自分の予測、記憶、経験、文化、価値観を使いながら、作品の中に新しい秩序を発見している。
+
+Noiseは、ただの騒音ではなくなる。
+
+Distortionは、壊れた信号ではなくなる。
+
+Lo-Fiは、低品質ではなくなる。
+
+Microtonalityは、外れた音ではなくなる。
+
+Graffitiは、ただの落書きではなくなる。
+
+Brutalismは、ただの粗い建物ではなくなる。
+
+Punkは、下手なロックではなくなる。
+
+Industrialは、ただの不快な音ではなくなる。
+
+Spacemen 3のDroneは、単純な反復ではなくなる。
+
+Borisの巨大な音圧は、単なる大音量ではなくなる。
+
+そしてAngine de Poitrineの微妙な音程のズレは、「間違った音」ではなく、聴き手の耳そのものを問い直すための音になる。
+
+> 美しさとは、完璧なものを見つけることではない。自分が「不完全だ」と思っていたものの中に、別の秩序を発見することなのかもしれない。
+
+---
+
+## 36. このコラムの核心
+
+人間は壊れたものが好きなのではない。
+
+人間は、壊れているように見えるものの中に意味を見つけることができる。
+
+その能力が、芸術を変えてきた。
 
 And it is this ability that has changed music.
 
-When music incorporates noise.
+音楽がNoiseを取り込んだとき。
 
-When Rock took in Distortion.
+ロックがDistortionを取り込んだとき。
 
-When Punk chose DIY.
+PunkがDIYを選んだとき。
 
-When Lo-Fi left recording scars.
+Lo-Fiが録音の傷を残したとき。
 
-When Industrial captures mechanical sounds.
+Industrialが機械音を取り込んだとき。
 
-When Spacemen 3 made the drones huge.
+Spacemen 3がDroneを巨大化したとき。
 
-When Boris made sound pressure a structure.
+Borisが音圧を構造にしたとき。
 
-When Microtonality goes outside of 12 equal temperament.
+Microtonalityが12平均律の外へ出たとき。
 
-When Graffiti uses cities as its canvas.
+Graffitiが都市をキャンバスにしたとき。
 
-When Brutalism did not hide concrete.
+Brutalismがコンクリートを隠さなかったとき。
 
-Now, artists like Angine de Poitrine are taking existing rock grammar and incorporating pitch and performance shifts within it.
+そして現在、Angine de Poitrineのようなアーティストが既存のロックの文法を使いながら、その内部に音程や演奏のズレを組み込んでいる。
 
-There is one common question.
+そこには一つの共通した問いがある。
 
-"Is that really a mistake?"
+「本当に、それは間違いなのか？」
 
-Asking this question will change the way you listen to music.
+この問いを持つと、音楽の聴き方が変わる。
 
-I can see the structure in the noise.
+ノイズの中に構造が見える。
 
-You can see the tone in the distortion.
+歪みの中に音色が見える。
 
-You can see the rhythm in the gaps.
+ズレの中にリズムが見える。
 
-You can see time within the rough surface.
+粗い表面の中に時間が見える。
 
-Traces of human work can be seen in the broken things.
+壊れたものの中に、人間が作った痕跡が見える。
 
-And the history of art itself begins to look a little different.
+そして、芸術の歴史そのものが、少し違って見えてくる。
 
-> We don't think only a perfect world is beautiful. She has created new beauty by finding ""misalignments'' that remain somewhere in the world and giving meaning to those gaps.
+> 私たちは完璧な世界だけを美しいと思っているわけではない。世界のどこかに残った「ズレ」を見つけ、そのズレに意味を与えることで、新しい美しさを作ってきた。
 
 ---
 
 
-## 37. Organizing main concepts
+## 37. 主要概念の整理
 
 <div class="mermaid">
 mindmap
@@ -1834,103 +1833,103 @@ mindmap
       Boundary Breaking
 </div>
 
-> "Imperfection" is not a genre. It is a question that cuts across music, architecture, cities, psychology, and art itself.
+> 「不完全さ」は一つのジャンルではない。それは、音楽、建築、都市、心理、そして芸術そのものを横断する問いである。
 
 ---
 
-## 38. Conclusion
+## 38. 結論
 
-The perfect thing is complete.
+完璧なものは、完成している。
 
-So you can feel safe.
+だから安心できる。
 
-However, because it is complete, there is little room for intervention.
+しかし、完成しているからこそ、そこに介入する余地が少ない。
 
-On the other hand, incomplete things have margins.
+一方、不完全なものには余白がある。
 
-It's a little distorted.
+少し歪んでいる。
 
 It's a little off.
 
-A little rough.
+少し粗い。
 
-A little noisy.
+少しうるさい。
 
-I don't know a little.
+少し分からない。
 
-That "little" makes us stop.
+その「少し」が、私たちを立ち止まらせる。
 
-And make you think.
+そして考えさせる。
 
-why?
+なぜ？
 
-Why?
+どうして？
 
-What is this?
+これは何だ？
 
-Is it really wrong?
+本当に間違っているのか？
 
-At that moment, a new relationship is born between the work and the viewer.
+その瞬間、作品と鑑賞者の間に新しい関係が生まれる。
 
-Noise becomes music.
+Noiseは音楽になる。
 
-Distortion becomes expression.
+Distortionは表現になる。
 
-Microtonality creates new ears.
+Microtonalityは新しい耳を作る。
 
-Lo-Fi leaves time for recording.
+Lo-Fiは録音の時間を残す。
 
-Punk turns constraints into power.
+Punkは制約を力に変える。
 
-Industrial makes the world of machines sound.
+Industrialは機械の世界を音にする。
 
-Graffiti turns city walls into memories.
+Graffitiは都市の壁を記憶に変える。
 
-Brutalism does not hide the material.
+Brutalismは素材を隠さない。
 
-Spacemen 3 makes the little big.
+Spacemen 3は少なさを巨大化する。
 
-Boris converts sound pressure into the body.
+Borisは音圧を身体へ変換する。
 
-Angine de Poitrine shakes up the sense of the "right sound" within rock.
+Angine de Poitrineは、ロックの中にある「正しい音」の感覚を揺さぶる。
 
-They don't all have the same answer.
+それらはすべて、同じ答えを持っているわけではない。
 
 But they point in the same direction.
 
-"Beauty does not exist only in perfection."
+「美しさは、完全さの中だけに存在するのではない。」
 
-And perhaps here lies a very important feature of human art.
+そしておそらく、ここに人間の芸術の非常に重要な特徴がある。
 
-Humans don't just accept the world as it is.
+人間は世界をそのまま受け取るだけではない。
 
-Find rules in the world.
+世界にルールを見つける。
 
-Memorize that rule.
+そのルールを覚える。
 
-And sometimes we break the rules.
+そして、ときどきそのルールを壊す。
 
 After breaking it, create new rules from there.
 
-Through this repetition, the history of art has changed.
+その繰り返しによって、芸術の歴史は変わってきた。
 
-So the next time you hear a slightly distorted guitar.
+だから、次に少し歪んだギターを聴いたとき。
 
 When I heard the hiss of the recording.
 
-When you come across a strange pitch.
+奇妙な音程に出会ったとき。
 
-When I saw a huge concrete building.
+巨大なコンクリート建築を見たとき。
 
-When I found Graffiti on the old wall.
+古い壁のGraffitiを見つけたとき。
 
-Or when something feels "a little weird."
+あるいは、何かが「ちょっと変だ」と感じたとき。
 
 You don't have to get rid of that discomfort right away.
 
-There may be something there that I don't understand yet.
+そこには、まだ理解していない何かがあるかもしれない。
 
-> There is beauty yet to be discovered in what appears to be broken. The history of art is also the history of discovering its beauty.
+> 壊れているように見えるものの中には、まだ発見されていない美しさがある。そして芸術の歴史とは、その美しさを発見してきた歴史でもある。
 
 
 ---

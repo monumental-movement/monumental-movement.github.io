@@ -13,12 +13,12 @@ title: Alex Coke – New Visions
 ---
 
 
-Alexander Seton Coke, also known as Alex Coke, is an American jazz saxophonist and flutist from Dallas.
+Alex Coke (アレックス・コーク)ことAlexander Seton Cokeは、ダラス出身のアメリカのジャズサックス奏者&フルート奏者。
 
-Alex Coke has performed with many artists including Gerald Wilson, Charles Tolliver, James Polk, and Jay Rozen. From 1990 to 2000, he toured with Dutch jazz composer and saxophonist Willem Breuker.
+Alex Cokeは、Gerald Wilson, Charles Tolliver, James Polk, Jay Rozenなど多くアーティストと共演している。1990年〜2000年は、オランダのジャズ作曲家・サックス演奏家Willem Breuker(ウィレム・ブロイカー)とツアーをおこなった。
 
-"New Visions" is his first solo LP, recorded at Lone Star Studio in Texas in 1981 and released on the label Re Records in 1982.
-A4 and B3 are improvisations.
+「New Visions」は、1981年にテキサスのLone Star Studio で収録され、1982年にレーベルRe RecordsからリリースされたファーストソロLP。
+A4とB3はインプロビゼーション(即興)。
 
 
 #### Tracklist
@@ -35,4 +35,4 @@ B3. Casey Jones
 B4. Sayonara
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}

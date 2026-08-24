@@ -10,21 +10,21 @@ tags:
 - Rhythm
 - Programming
 - Electronic
-title: '[Column] Design theory of rhythm programming'
+title: 【コラム】 リズムプログラミングのデザイン理論
 ---
 
 
 
-## Prologue: Rhythm is designed, not played.
+## 序章：リズムは演奏ではなく設計である
 
-Text: mmr｜Theme: View rhythm programming as a design concept rather than a performance technique, and decipher the overall picture of modern beat aesthetics from the design of 16 steps, loops, and tone arrangement.
+文：mmr｜テーマ：リズムプログラミングを演奏技術ではなく設計思想として捉え、16ステップ・ループ・音色配置の設計から現代ビート美学の全体像を読み解く
 
 
-Rhythm programming is not a matter of lining up the dots accurately. It is an act of design: how to divide time, where to emphasize, and where to leave blank space. If performance is a series of instantaneous decisions, programming is similar to thinking from a bird's-eye view of time as a whole.
+リズムプログラミングとは、打点を正確に並べる作業ではない。時間をどのように分割し、どの位置を強調し、どこに余白を残すかという設計行為である。演奏が瞬間的判断の連続だとすれば、プログラミングは時間全体を俯瞰する思考に近い。
 
-With the advent of drum machines and sequencers, rhythm became separated from the body and became an object to be treated visually and numerically. This shift created a need to redefine the vague concept of groove at the expense of precision.
+ドラムマシンやシーケンサーの登場によって、リズムは身体から切り離され、視覚的・数値的に扱われる対象となった。この変化は、正確さと引き換えに、グルーヴという曖昧な概念を再定義する必要を生んだ。
 
-> Rhythm programming is the act of designing the very way we perceive time.
+> リズムプログラミングは、時間の感じ方そのものを設計する行為である。
 
 ---
 
@@ -33,7 +33,7 @@ With the advent of drum machines and sequencers, rhythm became separated from th
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,284 +42,284 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Mechanical time and 4/4/16 step design
+## 第1章：機械的時間と4/4・16ステップ設計
 
-The basic unit of electronic rhythm design is 16 steps, which are divided into 16 4/4 time signatures. This equal division functions not as an aid to performance, but as a coordinate system for design.
+電子的リズム設計の基本単位は、4/4拍子を16分割した16ステップにある。この均等分割は、演奏の補助ではなく、設計の座標系として機能する。
 
-### 4/4・16 steps basic layout example
+### 4/4・16ステップ基本配置例
 
-The most basic structure is to place the kick on the 1st and 3rd beats and the snare on the 2nd and 4th beats. This arrangement creates a sense of stability, but nothing more and nothing less.
+キックを1拍目と3拍目、スネアを2拍目と4拍目に置く配置は、最も基本的な骨格である。この配置は安定感を生むが、それ以上でも以下でもない。
 
-Accent design does not require all notes to be played at the same intensity. By simply making the first beat of the kick the strongest and the third beat a little weaker, you can create a sense of front and back in the flow of time.
+アクセント設計では、全音を同一強度で鳴らす必要はない。キックの1拍目を最強、3拍目をやや弱めにするだけで、時間の流れに前後感が生まれる。
 
-### Case: Fixed strong beat and shifted strong beat
+### ケース：強拍固定と強拍ずらし
 
-* Strong beat fixed: 1st and 3rd beats are always at maximum intensity
-*Strong beat shift: 1st beat maximum, 3rd beat suppressed
+* 強拍固定：1・3拍目を常に最大強度
+* 強拍ずらし：1拍目最大、3拍目を抑制
 
-In the latter case, the second half feels lighter, giving the impression that the loop rolls forward.
+後者では、後半が軽く感じられ、ループが前に転がる印象を持つ。
 
-> The 16 equal divisions are not a final design, but a draft for the design.
+> 均等な16分割は完成形ではなく、設計のための下書きである。
 
 ---
 
 ## Chapter 2: Grid and Human Feel Design
 
-Arrangements that follow the grid perfectly fix time, but do not move it. This is where intentional deviations are introduced.
+グリッドに完全に従った配置は、時間を固定するが、動かさない。そこで導入されるのが、意図的なズレである。
 
-### Case: Backbeat Snare Delay
+### ケース：裏拍スネアの遅延
 
-By delaying the snare on the fourth beat by a few milliseconds, the rhythm feels pulled back. This is a structured version of the movements that human drummers perform unconsciously.
+4拍目のスネアを数ミリ秒遅らせることで、リズムは後ろに引っ張られる感覚を持つ。これは人間のドラマーが無意識に行う動作を構造化したものだ。
 
-### Case: Hi-hat front groove design
+### ケース：ハイハットの前ノリ設計
 
-If you move the back of the 8-minute or 16-minute hi-hat slightly forward, the whole thing will feel progressive. The important thing is not to move all the tones by the same amount.
+8分または16分ハイハットの裏側をわずかに前に出すと、全体が前進的に感じられる。重要なのは、全音を同じ量だけ動かさないことである。
 
 > Humanity is a design that chooses places that break evenness.
 
 ---
 
-## Chapter 3: Density control with accents and thinning
+## 第3章：アクセントと間引きによる密度制御
 
-In rhythm design, more sounds are not always better. Density is the amount of information and also the auditory load.
+リズム設計において、音の数は多ければ良いわけではない。密度は情報量であり、聴覚の負荷でもある。
 
-### Case: 16 minutes full placement and thinning
+### ケース：16分フル配置と間引き
 
-If you place a hi-hat on all 16 steps, time will be chopped up, but space will be lost. Just by omitting one sound every four steps creates breathing.
+16ステップすべてにハイハットを置いた場合、時間は細かく刻まれるが、空間は失われる。4ステップごとに1音を省くだけで、呼吸が生まれる。
 
-### Case: Pseudo-polyrhythm by accent
+### ケース：アクセントによる疑似ポリリズム
 
-By shifting the accents at regular intervals, multiple periods are perceived even though they are actually a single period.
+一定の間隔でアクセントをずらすことで、実際には単一周期でも複数周期が知覚される。
 
-> The framework of the rhythm emerges from the sounds that are not played.
-
----
-
-## Chapter 4: Hierarchical design of iteration and change
-
-A loop is established through repetition, but complete repetition suspends the sense of time.
-
-### Case: Change within one measure
-
-The end of the loop is signaled by removing the hi-hat or adding a ghost note in the final 16 minutes.
-
-### Case: 4-bar fill design
-
-By adding a snare roll only in the fourth measure, a structural break is created.
-
-> A good change is one that moves time forward without being conscious of it.
+> リズムの骨格は、鳴らさない音によって浮かび上がる。
 
 ---
 
-## Chapter 5: Tone selection and rhythm perception
+## 第4章：反復と変化の階層設計
+
+ループは反復によって成立するが、完全な反復は時間感覚を停止させる。
+
+### ケース：1小節内変化
+
+最後の16分だけハイハットを抜く、またはゴーストノートを入れることで、ループ終端が示される。
+
+### ケース：4小節単位のフィル設計
+
+4小節目のみスネアロールを追加することで、構造的な区切りが生まれる。
+
+> 良い変化とは、意識されないまま時間を前進させる変化である。
+
+---
+
+## 第5章：音色選択とリズム知覚
 
 Even if the arrangement is the same, if the timbre changes, the perception of rhythm will change.
 
-### Case: Mix of short and long sounds
+### ケース：短音と長音の混在
 
-By combining a short kick and a long sub-bass, the beat and lingering sound are separated and depth is created.
+短いキックと長いサブベースを組み合わせることで、拍と余韻が分離され、奥行きが生まれる。
 
-### Case: Division of roles by frequency band
+### ケース：周波数帯による役割分担
 
-The low range fixes the beat, and the high range shows the flow. When this division of labor breaks down, the rhythm feels unstable.
+低域は拍を固定し、高域は流れを示す。この分業が崩れると、リズムは不安定に感じられる。
 
-> Tone is not an ornament, but the structure of time itself.
+> 音色は装飾ではなく、時間構造そのものである。
 
 ---
 
-## Chapter 6: Polyrhythm and phase design
+## 第6章：ポリリズムと位相設計
 
 The overlapping of multiple cycles makes the rhythm three-dimensional.
 
-### Case: 3 vs 4 step arrangement
+### ケース：3対4ステップ配置
 
-Placing a pattern with a 12-step cycle 16 steps above creates a structure that constantly shifts.
+12ステップ周期のパターンを16ステップ上に配置すると、常にズレ続ける構造が生まれる。
 
 ### Case: Phase-shifting loop
 
-By layering the same pattern one step later, a new rhythm is perceived due to interference.
+同一パターンを1ステップ遅らせて重ねることで、干渉による新しいリズムが知覚される。
 
 > Rhythmic depth is created by the simultaneous existence of multiple times.
 
 ---
 
-## Chapter 7: Tempo is a relative value
+## 第7章：テンポという相対値
 
 Tempo is a numerical value, but the experience is designed.
 
 ### Case: BPM constant/perception change
 
-Even with the same 120 BPM, if you emphasize the backbeat, it will feel faster, and if you widen the interval, it will feel slower.
+同じ120BPMでも、裏拍を強調すれば速く感じ、間を広げれば遅く感じる。
 
-> Tempo is not a numerical value, but a perceptual design result.
+> テンポは数値ではなく、知覚の設計結果である。
 
 ---
 
 ## Chapter 8: Sample-based and step-based design theory
 
-Sample-based design includes temporal information in the sound itself. Step-based design, on the other hand, defines time first.
+サンプルベース設計は、音そのものに時間情報を含む。一方ステップベース設計は、時間を先に定義する。
 
 ### Case: Breakbeat extraction
 
-By rearranging existing loops, you can redesign the structure while preserving the original groove.
+既存ループを再配置することで、元のグルーヴを保持したまま構造を再設計できる。
 
 ### Case: Complete step reconstruction
 
-By arranging it from scratch, the time structure purely reflects the design concept.
+ゼロから配置することで、時間構造は純粋に設計思想を反映する。
 
 > The idea of ​​rhythm design changes depending on whether it is material-driven or structure-driven.
 
 ---
 
-## Chapter 9: Loop perception and psychological time
+## 第9章：ループ知覚と心理時間
 
-Even short loops change in length perceptually.
+短いループでも、知覚上は長さが変化する。
 
-### Case: Termination obfuscation
+### ケース：終端曖昧化
 
 By weakening the last note of the loop, you can no longer feel the break.
 
-### Case: Extraperiodic accent
+### ケース：周期外アクセント
 
-By placing strong sounds outside the period, the sense of time is stretched.
+周期外に強音を置くことで、時間感覚が引き延ばされる。
 
-> Psychological time is designed separately from physical time.
+> 心理時間は、物理時間とは別に設計される。
 
 ---
 
-## Chapter 10: Cross-genre rhythm design comparison
+## 第10章：ジャンル横断リズム設計比較
 
-### Techno
+### テクノ
 
-Immersive design with repeatability and minute changes. While maintaining the homogeneity of the 16 steps, the time is varied with tones and accents.
+反復性と微細変化による没入設計。16ステップの均質性を保ったまま、音色やアクセントで時間を揺らす。
 
-### Hip Hop
+### ヒップホップ
 
-Emphasis on backbeats and fluctuations derived from samples. The texture of the loop takes priority over the grid.
+裏拍重視とサンプル由来の揺らぎ。グリッドよりもループの質感が優先される。
 
 ### IDM
 
-Structural complexity and asymmetric design. Discrepancies in the period and irregular time signatures disturb the sense of time.
+構造的複雑性と非対称設計。周期のズレや変拍子的配置が時間感覚を攪乱する。
 
-> A genre is a collection of rhythm design ideas.
-
----
-
-## Chapter 11: DAW Interface and Thinking Style
-
-The design philosophy of rhythm programming is largely influenced by the interface used. MPC, TR-type step sequencers, and piano rolls each assume a different view of time.
-
-### MPC Thinking: Reconnecting Pads and Body
-
-The MPC is designed to bring a physical sense of performance to programming through 16 pads. The strength and timing of keystrokes are input as physical sensations rather than numerical values.
-
-In this way of thinking, the grid is subject to post-processing, and the rhythm is played first and then organized.
-
-### TR thinking: Visualizing steps and structures
-
-TR sequencers explicitly divide time into equal steps. Since you can see at a glance where there is sound and where there is blank space, placement and omission are central to judgment.
-
-Here, structure takes precedence over playability, and rhythms are constructed logically.
-
-### Piano Roll Thinking: Abstracted Time Manipulation
-
-Piano Roll handles pitch and time on the same plane. Rhythms are visualized as lines, and their length and overlap can be directly manipulated.
-
-In this way of thinking, time is completely abstracted and the designer's intentions are immediately reflected.
-
-### Mini section: 16 steps thinking difference for the same task
-
-Assuming the same conditions, assume a basic beat of 4/4 16 step kick and snare only.
-
-With MPC thinking, you first strike naturally with the pad, and then adjust the deviation and strength later. The finished product will be a physical moment with slight fluctuations.
-
-In TR thinking, first place the kick on the 1st, 5th, 9th, and 13th steps, and the snare on the 5th and 13th steps, and consider omissions and accents as necessary. The finished product will have a clear structure and time arrangement.
-
-In piano roll thinking, you visually align the starting points and lengths of the notes, but intentionally move some of them forward or backward. The completed form will be a time structure that visualizes the design intent as it is.
-
-Even with the same 16 steps, if your starting point is different, the texture of the completed rhythm will vary greatly.
-
-> The interface is a type of thinking, not a method of rhythmic input.
+> ジャンルとは、リズム設計思想の集合体である。
 
 ---
 
-## Chronology: Changes in rhythm programming design philosophy
+## 第11章：DAWインターフェースと思考様式
 
-* 1960s: Introduction of mechanical time
-* 1970s: Establishment of repetitive structure
-* 1980s: Popularization of 16-step design
-* 1990s: Misalignment and human feel
-* 2000s: Software abstraction
-* 2010s and beyond: Design as aesthetics
+リズムプログラミングの設計思想は、使用するインターフェースによって大きく左右される。MPC、TR系ステップシーケンサー、ピアノロールは、それぞれ異なる時間観を前提としている。
+
+### MPC思考：パッドと身体の再接続
+
+MPCは16パッドを通じて、身体的演奏感覚をプログラミングに持ち込む設計である。打鍵の強弱やタイミングは、数値ではなく身体感覚として入力される。
+
+この思考では、グリッドは後処理の対象であり、リズムはまず演奏され、その後に整理される。
+
+### TR思考：ステップと構造の可視化
+
+TR系シーケンサーは、時間を均等なステップとして明示的に分割する。どこに音があり、どこが空白かが一目で分かるため、配置と省略が中心的な判断軸となる。
+
+ここでは演奏性よりも構造が優先され、リズムは論理的に組み立てられる。
+
+### ピアノロール思考：抽象化された時間操作
+
+ピアノロールは、音高と時間を同一平面上で扱う。リズムは線として視覚化され、長さや重なりを直接操作できる。
+
+この思考では、時間は完全に抽象化され、設計者の意図が即座に反映される。
+
+### ミニ節：16ステップ同一課題の思考差
+
+同一条件として、4/4・16ステップ・キックとスネアのみの基本ビートを想定する。
+
+MPC思考では、まずパッドで自然に叩き、後からズレや強弱を整える。完成形は、わずかな揺らぎを含んだ身体的時間となる。
+
+TR思考では、最初に1・5・9・13ステップへキック、5・13ステップへスネアを配置し、必要に応じて抜きやアクセントを検討する。完成形は、構造が明確な時間配置となる。
+
+ピアノロール思考では、ノートの開始点と長さを視覚的に揃えつつ、意図的に一部を前後させる。完成形は、設計意図がそのまま可視化された時間構造となる。
+
+同じ16ステップでも、思考の出発点が異なれば、完成するリズムの質感は大きく変わる。
+
+> インターフェースは、リズムの入力方法ではなく思考の型である。
 
 ---
 
-## Figure 1: 16 steps and accent design
+## 年表：リズムプログラミング設計思想の変遷
+
+* 1960年代：機械的時間の導入
+* 1970年代：反復構造の確立
+* 1980年代：16ステップ設計の一般化
+* 1990年代：ズレとヒューマンフィール
+* 2000年代：ソフトウェア抽象化
+* 2010年代以降：美学としての設計
+
+---
+
+## 図1：16ステップとアクセント設計
 
 <div class="mermaid">
 graph LR
-A[16 steps evenly distributed] --> B[accent strength]
-B --> C[Experience groove]
+A[16ステップ均等配置] --> B[アクセント強弱]
+B --> C[体感グルーヴ]
 </div>
 
 ---
 
-## Figure 2: Time layer structure
+## 図2：時間レイヤー構造
 
 <div class="mermaid">
 graph TD
-A[1 bar change] --> B[4 bar structure]
-B --> C[16 bar development]
+A[1小節変化] --> B[4小節構造]
+B --> C[16小節展開]
 </div>
 
 ---
 
-## Figure 3: Design difference between sample and step
+## 図3：サンプルとステップの設計差
 
 <div class="mermaid">
 flowchart LR
-A[sample base] --> C[time of sound origin]
-B[step base] --> D[Design derived time]
+A[サンプルベース] --> C[音由来の時間]
+B[ステップベース] --> D[設計由来の時間]
 </div>
 
 ---
 
-## Chapter 12: Rhythm thinking by designer type
+## 第12章：設計者タイプ別リズム思考
 
-Differences in rhythm programming arise from the designer's thinking type rather than technical differences.
+リズムプログラミングの違いは、技術差よりも設計者の思考タイプによって生まれる。
 
-### Performance pattern designer
+### 演奏型設計者
 
-He is the type who constructs rhythms based on his physical sensations, and the deviations and dynamics arise spontaneously. It goes well with MPC thinking.
+身体感覚を起点にリズムを組み立てるタイプで、ズレや強弱は自然発生的に生まれる。MPC的思考と相性が良い。
 
-### Structural Designer
+### 構造型設計者
 
-View time as blocks and construct rhythms through placement and omission. Highly compatible with TR-type step thinking.
+時間をブロックとして捉え、配置と省略でリズムを構築する。TR系ステップ思考に親和性が高い。
 
-### Abstract Designer
+### 抽象型設計者
 
-Treat time completely as a design object and determine the structure through visual manipulation. Based on piano roll thinking.
+時間を完全に設計対象として扱い、視覚的操作で構造を決定する。ピアノロール的思考を基盤とする。
 
-One type is not better than the other. The important thing is to be aware of your own thinking style and switch depending on your goals.
+どのタイプが優れているわけではない。重要なのは、自身の思考型を自覚し、目的に応じて切り替えることである。
 
-> Rhythm design is not a technical choice but a thinking choice.
+> リズム設計とは、技術選択ではなく思考選択である。
 
 ---
 
-## Final chapter: Thoughts on rhythm design
+## 終章：リズム設計という思考
 
-Rhythm programming is not a matter of arranging sounds. This is the act of designing an experience based on how the auditory sense of time is perceived.
+リズムプログラミングは、音を並べる作業ではない。聴覚がどのように時間を感じるかを前提に、その体験を設計する行為である。
 
-Even as technology evolves, this essence remains the same. Rhythm is not the sound that is being played, but the structure itself, including the time when it is not playing.
+技術が進化しても、この本質は変わらない。リズムとは鳴っている音ではなく、鳴っていない時間を含めた構造そのものなのだ。
 
-> Rhythm programming is the idea of ​​designing time when you can't hear.
+> リズムプログラミングとは、聴こえない時間を設計する思考である。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0o341EZcyqw?si=d8nFcbVGbe9-wkhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

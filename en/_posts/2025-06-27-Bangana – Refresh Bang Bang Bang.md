@@ -14,9 +14,9 @@ title: Bangana – Refresh Bang Bang Bang
 ---
 
 
-Bangana is a duo from Sweden consisting of Alf Tumble and Magnus Rydén. Also active under the names S.U.M.O. and Tumble & Combo.
+Bangana(バンガナ)は、スウェーデン出身のAlf TumbleとMagnus Rydén によるデュオ。S.U.M.O. 、Tumble & Combo名義でも活動している。
 
-"Refresh / Bang Bang Bang" is a Tribal, Deep House, Broken Beat track released by Swedish label HEYA HIFI in 2006.
+「Refresh / Bang Bang Bang」は、2006年にスウェーデンのレーベルHEYA HIFI からリリースされたTribal、Deep House、Broken Beatトラック。
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ A1. Refresh
 B1. Bang Bang Bang
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m26176316095?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26176316095?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fH7MiB8HjHY?si=9b8b0AtNGB4G4JdD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

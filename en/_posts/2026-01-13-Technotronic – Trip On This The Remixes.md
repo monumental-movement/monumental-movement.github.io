@@ -14,9 +14,9 @@ title: Technotronic – Trip On This (The Remixes)
 ---
 
 
-Technotronic is a Belgian electronic music project formed by Jo Bogaert, best known for their 1989 single "Pump Up the Jam."
+Technotronic(テクノトロニック)は、1989年のシングル「Pump Up the Jam」でよく知られている、Jo Bogaertによって結成されたベルギーのエレクトロニックミュージックプロジェクト。
 
-This CD is a remix album of Technotronic songs by Shep Pettibone, David Morales, The Dust Brothers, New Order's Bernard Sumner, Todd Terry, Junior Vasquez, and others.
+このCDは、Technotronicの楽曲をShep Pettibone、David Morales、The Dust Brothers、New OrderのBernard Sumner(バーナード・サムナー)、Todd Terry、Junior Vasquezなどがremixしたリミックスアルバム。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ This CD is a remix album of Technotronic songs by Shep Pettibone, David Morales,
 9. Techno Medley (Pettibone Mix Edit)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m97501269813?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97501269813?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BqB2vqkvAMA?si=73TbJTf6CN_vqubP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,13 +13,13 @@ title: Budai & Vic – Luv U
 ---
 
 
-Imre Bugyik & Viktor Kámán, also known as Budai & Vic, started production in 2000 and established their own label egoist records (egotraxx records). In 2005, he established a sub-label, I Love Deep Records.
+Budai & VicことImre Bugyik & Viktor Kámánは、2000年から制作を開始し自主レーベルegoist records (egotraxx records) を設立。2005年にはサブレーベルI Love Deep Recordsを設立した。
 
-"Luv U" was released by Deep House on I Love Deep Records in 2006.
+「Luv U」は、2006年にI Love Deep RecordsかたリリースされたDeep House。
 
-A is a remix by German DJ/producer Terry Lee Brown Jr. (Norman Feller).
+Aは、ドイツのDJ/プロデューサーTerry Lee Brown Jr.(Norman Feller)によるremix。
 
-B2 is a remix by Hungarian DJ/producer Andro (Gábor Baki).
+B2は、ハンガリー出身のDJ/プロデューサーAndro(Gábor Baki)によるremix。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Luv U (Original)
 B2. Luv U (Andro Rmx)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m35663869939?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35663869939?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hMBwhdyneXA?si=E0lS_pzORoTSSHDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

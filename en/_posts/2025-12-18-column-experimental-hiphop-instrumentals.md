@@ -17,11 +17,11 @@ title: '[Column] Experimental Hip Hop Instrumentals'
 
 ## Introduction: Structural changes caused by the absence of rap
 
-Text: mmr｜Theme: The history of the establishment of experimental hip-hop instrumental music, the production process, sampling techniques, sonic structure, and the production practices of Knxwledge and Madlib.
+文：mmr｜テーマ：実験的ヒップホップ・インストゥルメンタルの成立史、制作工程、サンプリング技法、音響構造をKnxwledgeとMadlibの制作慣行について
 
-Hip-hop is essentially a culture in which the MC's verbal expression and the repetitive structure of the beat complement each other. However, since the 1990s, as instrumental works without rap began to circulate independently, beats came to the foreground as a theme rather than an accompaniment. Especially in experimental instruments, there is no need for a homogeneous beat structure or development design for rapping, and time, texture, and fragmentation become the main design targets.
+ヒップホップは本来、MCの言語表現とビートの反復構造が相互補完的に成立する文化である。しかし1990年代以降、ラップを伴わないインストゥルメンタル作品が独立して流通し始めたことで、ビートは伴奏ではなく主題として前景化した。とりわけ実験的インストにおいては、ラップのための均質な拍構造や展開設計が不要となり、時間・質感・断片性が主な設計対象となる。
 
-> "The absence of wrap is not an omission, but an expansion of design freedom."
+> "ラップの不在は欠落ではなく、設計自由度の拡張である"
 
 ---
 
@@ -30,7 +30,7 @@ Hip-hop is essentially a culture in which the MC's verbal expression and the rep
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -39,31 +39,31 @@ color: #fff;
 </style>
 
 
-## Terminology: Experimental Hip Hop Instruments
+## 用語整理：Experimental Hip Hop Instrumentals
 
-In this article, Experimental Hip Hop Instrumentals refers to a group of instrumentals that share the following production characteristics.
+本稿におけるExperimental Hip Hop Instrumentalsとは、以下の制作的特徴を共有するインストゥルメンタル群を指す。
 
-* Although the beat structure is based on 4/4, the repetition period is undefined.
+* 拍構造は4/4を基盤としつつも、反復周期が不定
 * Samples are not used for the purpose of identifying the original song, but are treated as materials.
-* The production process is presented as the value of the work rather than the finished product.
+* 完成形よりも生成過程が作品価値として提示される
 
 > "Genre names are not styles, but sets of attitudes."
 
 ---
 
-## Technological prehistory: samplers and limitations
+## 技術的前史：サンプラーと制限
 
 Digital samplers, which have become popular since the late 1980s, were introduced as devices for recording and playing back short audio fragments. Early equipment had severe limitations on memory capacity, sampling rate, and polyphony. These limitations not only reduced efficiency, but also inevitably caused sound quality deterioration and distortion.
 
-> "Restrictions become established as musical individuality"
+> "制限が音楽的個性として定着する"
 
 ---
 
-## From loop culture to fragment culture
+## ループ文化から断片文化へ
 
-In traditional hip-hop production, loops of two to eight bars were the basic unit of a song. In experimental instruments, this unit is extremely shortened, repeating and interrupting fragments of less than a beat, sometimes tens of milliseconds. As a result, listeners are required to follow the density of changes in the acoustics rather than counting beats.
+従来のヒップホップ制作では、2〜8小節のループが楽曲の基礎単位であった。実験的インストでは、この単位が極端に短縮され、1拍未満、時には数十ミリ秒単位の断片が反復・遮断される。結果として、リスナーは拍子を数えるよりも、音響の変化密度を追う聴取態度を要求される。
 
-> "Repetition is not stable, but functions as a series of discomforts"
+> "反復は安定ではなく、違和の連続として機能する"
 
 ---
 
@@ -73,25 +73,25 @@ In traditional hip-hop production, loops of two to eight bars were the basic uni
 
 ---
 
-Madlib's production is characterized by an improvisational method centered on hardware samplers. When producing using the SP series, physical manipulation takes precedence over visual editing, leaving sample deviations and fluctuations intact in the music.
+Madlibの制作は、ハードウェアサンプラーを中心とした即興的手法に特徴がある。SPシリーズを用いた制作では、視覚的編集よりも身体的操作が優先され、サンプルのズレや揺れがそのまま音楽に残される。
 
-* Samples are selected with the premise of preserving the original sound.
-* No strict quantization
-* Generate a large amount of beats without assuming the final form
+* サンプルは原音保持を前提に選択される
+* 厳密な量子化を行わない
+* 完成形を想定せず大量のビートを生成する
 
 > "The accumulation of daily production rather than project units"
 
 <div class="mermaid">
 flowchart LR
-    A["Obtain sound source"] --> B["Minimal edit"]
-    B --> C["Improvised placement"]
-    C --> D["Short beat"]
+    A["音源取得"] --> B["Minimal edit"]
+    B --> C["即興配置"]
+    C --> D["短尺ビート"]
 </div>
 
 ---
 
 
-## Knxwledge production practices
+## Knxwledgeの制作慣行
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yK91vjg2Hsg?si=r18TMv3pzhtatHbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -103,74 +103,74 @@ Knxwledge is based on a DAW and features extremely short loops and isolated edit
 *Groove formation by manual placement
 * Output without sound pressure optimization
 
-> "A feeling of incompleteness is not a lack, but a completed form."
+> "未完成感は欠如ではなく完成形である"
 
 <div class="mermaid">
 flowchart LR
-    A["Digital sound source"] --> B["subdivision"]
-    B --> C["Non-quantum configuration"]
+    A["デジタル音源"] --> B["細分化"]
+    B --> C["非量子配置"]
     C --> D["Fragmentation"]
 </div>
 
 ---
 
 
-## Decomposition of sampling techniques
+## サンプリング技法の分解
 
 Sampling in experimental instruments is for the purpose of transformation rather than citation or reference. The following processes are commonly observed:
 
-* Extraction of single sounds, environmental sounds, and noise
-* Stripping of timbre information due to pitch change
+* 単音・環境音・ノイズの抽出
+* ピッチ変更による音色情報の剥離
 * Reverse playback and instantaneous fade processing
 
-> "Samples are acoustic substances, not symbols."
+> "サンプルは記号ではなく音響物質である"
 
 ---
 
-## Mix and sound design
+## ミックスと音像設計
 
-In the mixing process, density and distance are more important than clarity. The low end is not too tidy and retains distortion and saturation. This allows the rhythm to be perceived as a mass rather than a dot.
+ミックス工程では、明瞭さよりも密度と距離感が重視される。低域は整理されすぎず、歪みや飽和が保持される。これにより、リズムは打点ではなく質量として知覚される。
 
 ---
 
 ## Album editing theory
 
-The structure, in which many short pieces are arranged in succession, has the character of an archive rather than a collection of songs. Silence and noise between songs act as editorial glue.
+多数の短曲を連続配置する構成は、楽曲集ではなくアーカイブとしての性格を持つ。曲間の無音やノイズは編集上の接着剤として機能する。
 
-> "An album is not a finished product, but a bundle of production traces."
+> "アルバムは完成物ではなく、制作痕跡の束である"
 
 ---
 
-## Chronology: Experimental Hip Hop Instrumentals
+## 年表：Experimental Hip Hop Instrumentals
 
-* 1990s: Independent distribution of instrumental works
+* 1990年代：インストゥルメンタル作品の独立流通
 * 2000s: Increased number of sampler-based beat collections
-* 2010s: Shortening of digital distribution premise
-* 2020s: Visualization of the production process
+* 2010年代：デジタル配信前提の短尺化
+* 2020年代：制作過程の可視化
 
 ---
 
-## Intersection with other genres
+## 他ジャンルとの交差
 
-The experimental instrumental is identified as hip-hop by the presence of a beat, while connecting with ambient, noise, and jazz improvisation.
+実験的インストは、アンビエント、ノイズ、即興ジャズと接続しながらも、ビートの存在によってヒップホップとして識別される。
 
 ---
 
-## Listening environment
+## リスニング環境
 
 A structure adapted to intermittent playback rather than concentrated listening is consistent with modern production environments. The large amount of production assumes coexistence rather than consumption.
 
 ---
 
-## Conclusion: Unfinished as a form
+## 結語：形式としての未完成
 
-Experimental Hip Hop Instrumentals is a musical form that values ​​the act of production rather than perfection. Knxwledge and Madlib's production practices continue to present beats as units of thought rather than songs.
+Experimental Hip Hop Instrumentalsは、完成度よりも生成行為を価値化する音楽形式である。KnxwledgeとMadlibの制作慣行は、ビートを楽曲ではなく思考の単位として提示し続けている。
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dp25yxhOFf4?si=zqT3OPROYPeS4qrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

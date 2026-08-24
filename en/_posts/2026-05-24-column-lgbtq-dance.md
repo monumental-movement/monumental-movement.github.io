@@ -10,7 +10,7 @@ tags:
 - House
 - Techno
 - Disco
-title: '[Column] LGBTQ+ community and dance music'
+title: 【コラム】 LGBTQ+コミュニティとダンスミュージック
 ---
 
 
@@ -32,11 +32,11 @@ color: #fff;
 </style>
 
 
-If you trace the history of dance music, there have always been people looking for an escape.
+ダンスミュージックの歴史を辿ると、そこには常に「逃げ場」を求める人々の姿がある。
 
-People who have been pushed to the margins of society. People who have been forced into discrimination, prejudice, violence, and silence. Among them, the LGBTQ+ community played a decisive role in shaping club culture in the second half of the 20th century.
+社会の中で周縁へ追いやられてきた人々。差別、偏見、暴力、沈黙を強いられてきた人々。その中でもLGBTQ+コミュニティは、20世紀後半のクラブカルチャー形成に決定的な役割を果たした。
 
-Disco, house, techno, ballroom, rave. These are not just music genres. There was a strong will to ""create a safe place for ourselves.''
+ディスコ、ハウス、テクノ、ボールルーム、レイヴ。これらは単なる音楽ジャンルではない。そこには「安全な場所を自分たちで作る」という強い意思が存在していた。
 
 The kick drum playing on the dark club floor wasn"t just a beat. It was a place where people didn"t have to hide their names, a place where they didn't have to be afraid of their bodies, and a space where people who had been pushed to the outside of society felt for the first time that it was okay to exist.
 
@@ -62,21 +62,21 @@ timeline
 
 ---
 
-## Underground culture before disco
+## ディスコ以前の地下文化
 
 ### Hidden Community
 
 During the 1950s and 1960s, many states in the United States criminalized homosexual acts. Police raids on gay bars were commonplace, and LGBTQ+ people were forced to hide their identities.
 
-However, even under such oppression, an underground community continues to form.
+しかし、その抑圧の中でも地下コミュニティは形成されていく。
 
-Small gay bars and clubs began to pop up in cities such as New York, San Francisco, and Chicago. There, jazz, soul, and R&B played, and people were finally able to dance freely.
+ニューヨーク、サンフランシスコ、シカゴなどの都市では、小規模なゲイバーやクラブが誕生し始めた。そこではジャズ、ソウル、R&Bが流れ、人々はようやく自由に踊ることができた。
 
-Importantly, these places were not just entertainment venues.
+重要なのは、これらの場所が単なる娯楽施設ではなかった点だ。
 
 The club was a place to exchange information, form a community, and see that there were other people like me.
 
-### Stonewall Rebellion
+### ストーンウォールの反乱
 
 In 1969, a confrontation with police at New York's Stonewall Inn was a turning point in the LGBTQ+ liberation movement.
 
@@ -88,88 +88,88 @@ The music, dance, and nightlife space was already a hub for the LGBTQ+ community
 
 <div class="mermaid">
 flowchart TD
-    A["Underground gay club"] --> B["Community formation"]
-    B --> C["Information sharing"]
-    C --> D["Formation of political consciousness"]
-    D --> E["Liberation Movement After Stonewall"]
+    A["Underground gay club"] --> B["コミュニティ形成"]
+    B --> C["情報共有"]
+    C --> D["政治意識の形成"]
+    D --> E["ストーンウォール以降の解放運動"]
 </div>
 
->Before clubs were music spaces, they were places for isolated people to discover each other.
+> Before clubs were music spaces, they were places for isolated people to discover each other.
 
 ---
 
 ## The atmosphere of "liberation" created by disco
 
-### Whose music was disco?
+### ディスコは誰の音楽だったのか
 
 In the 1970s, disco music becomes a worldwide phenomenon.
 
-However, contrary to the current popular image, the origins of disco culture were deeply connected to the black, Latinx, and LGBTQ+ communities.
+しかし現在の一般的なイメージとは異なり、ディスコ文化の起源には黒人、ラテン系、LGBTQ+コミュニティの存在が深く関わっていた。
 
-In New York clubs like the Loft, Paradise Garage, and Sanctuary, marginalized people danced the night away.
+ニューヨークのロフト、パラダイス・ガラージ、サンクチュアリーなどのクラブでは、既存社会から疎外された人々が夜通し踊っていた。
 
-There, the boundaries of race, gender, and sexuality became blurred.
+そこでは人種、ジェンダー、セクシュアリティの境界が曖昧になった。
 
-Disco was not a ""dance for show," but a ""dance to liberate oneself."
+ディスコは「見せるダンス」ではなく、「自分自身を解放するダンス」だったのである。
 
 ### Birth of DJ culture
 
-One of the major changes during the disco era was the role of the DJ.
+ディスコ時代に大きく変化したものの一つが、DJの役割だった。
 
-Up until then, clubs had centered around live music, but a culture developed in which DJs controlled the entire space.
+それまでのクラブでは生演奏が中心だったが、DJが空間全体をコントロールする文化が発展していく。
 
-Particularly in New York club culture, DJs were not just people who played music, but people who read the emotions of the floor and guided people into a trance-like state.
+特にニューヨークのクラブ文化では、DJは単に曲を流す人ではなく、フロアの感情を読み取り、人々をトランス状態へ導く存在になった。
 
-Long mixes, beat connections, song extensions, and bass-oriented sound systems. The foundations of modern club culture were formed during this period.
+ロングミックス、ビートの接続、楽曲の延長、低音重視のサウンドシステム。現代クラブ文化の基礎はこの時代に形成された。
 
 <div class="mermaid">
 flowchart TD
-    A["Soul/Funk"] --> B["Disco"]
-    B --> C["DJ culture"]
-    C --> D["Club culture"]
+    A["ソウル / ファンク"] --> B["Disco"]
+    B --> C["DJ文化"]
+    C --> D["クラブカルチャー"]
     D --> E["House"]
-    D --> F["Techno"]
+    D --> F["テクノ"]
 </div>
 
-### Behind the scenes of "Disco Sucks"
+### 「Disco Sucks」の裏側
 
-In 1979, an anti-disco movement called ""Disco Demolition Night'' broke out in Chicago.
+1979年、「Disco Demolition Night」という反ディスコ運動がシカゴで発生した。
 
-It has also been pointed out that this event, in which tons of disco records were blown up, was not just a reaction against the music genre.
+大量のディスコレコードが爆破されるこのイベントは、単なる音楽ジャンルへの反発ではなかったとも指摘されている。
 
-There is still a lot of analysis that suggests that disco culture was a mixture of hatred towards black culture, gay culture, and Latin culture.
+ディスコ文化の背後にあった黒人文化、ゲイカルチャー、ラテン文化への嫌悪感が混ざっていたという分析は現在も多い。
 
-The ""free body expression'' promoted by disco created a conflict with conservative values.
+ディスコが広げた「自由な身体表現」は、保守的価値観との衝突を生み出していた。
 
-> Disco was not only popular music, but also a culture that shook the values ​​of existing society.
+> ディスコは流行音楽だっただけでなく、既存社会の価値観を揺さぶる文化でもあった。
 
 ---
 
-## Chicago House and Queer Black Culture
+## シカゴ・ハウスとクィア・ブラックカルチャー
 
-### Background of the birth of the house
+### ハウス誕生の背景
 
-Even after the commercial decline of disco in the early 1980s, club culture itself did not disappear.
+1980年代初頭、ディスコの商業的衰退後もクラブ文化そのものは消えなかった。
 
-Rather, it goes underground and evolves in a more experimental direction.
+むしろ地下へ潜り、より実験的な方向へ進化していく。
 
-At Chicago's Warehouse club, DJ Frankie Knuckles began creating a new sound that fused disco, European electronic music, and drum machines.
+シカゴのクラブ「Warehouse」では、DJフランキー・ナックルズがディスコ、ヨーロッパ電子音楽、ドラムマシンを融合させた新しいサウンドを作り始めた。
 
-It is said that the name ""House'' became established from this club name.
+このクラブ名から「ハウス」という名称が定着したと言われている。
 
 House music cannot be talked about separately from black gay culture.
 
 Mechanical beats, long grooves, repetitive structures. It was music meant to unite the people on the floor.
 
-### What "dancing" meant
+### 「踊ること」が意味したもの
 
-At the time, the LGBTQ+ community was facing a dire situation with the HIV/AIDS crisis.
+当時のLGBTQ+コミュニティは、HIV/AIDS危機という深刻な状況に直面していた。
 
-In the 1980s, clubs remained an important place to be, even as prejudice and fear drove many people out of society.
+1980年代、偏見と恐怖によって多くの人々が社会から排除されていた中、クラブは依然として重要な居場所だった。
 
-Dancing was not an escape from reality, but an act of sharing the feeling of being ""still alive.''
+踊ることは現実逃避ではなく、「まだ生きている」という感覚を共有する行為でもあった。
 
-House music can be both euphoric and urgent.
+ハウスミュージックには、多幸感と同時に切実さが含まれている。
 
 <div class="mermaid">
 mindmap
@@ -183,132 +183,132 @@ mindmap
     Emotional Release
 </div>
 
-### Gospel Connection
+### ゴスペルとの接続
 
-House music retains a strong gospel-like uplifting feel.
+ハウスミュージックにはゴスペル的高揚感が強く残っている。
 
-Early house classics like "Your Love" and "Can You Feel It" have the repetition and euphoria of religious music.
+「Your Love」「Can You Feel It」などの初期ハウスクラシックでは、宗教音楽のような反復と陶酔感が存在している。
 
-The club space was often likened to a ""church.''
+クラブ空間はしばしば「教会」に喩えられた。
 
-For people rejected by society, clubs were a spiritual community.
+社会から拒絶された人々にとって、クラブは精神的共同体だったのである。
 
-> The highs of house music were linked not only to pleasure but also to a sense of survival.
+> ハウスミュージックの高揚感は、快楽だけではなく生存の感覚と結びついていた。
 
 ---
 
-## Techno and the imagination of future cities
+## テクノと未来都市の想像力
 
-### Detroit Machine Music
+### デトロイトの機械音楽
 
-Detroit techno is often described as the music of the future in an industrial city.
+デトロイトテクノは、しばしば工業都市の未来音楽として語られる。
 
-However, behind this was also the existence of club culture and minority communities.
+しかしその背景にも、クラブカルチャーとマイノリティコミュニティの存在があった。
 
-In the 1980s, Detroit was experiencing an economic recession due to the decline of the automobile industry.
+1980年代のデトロイトでは、自動車産業衰退による経済不況が進行していた。
 
-Meanwhile, young black artists used electronic music to imagine an "alternative future."
+そんな中、若い黒人アーティストたちは電子音楽を使って「別の未来」を想像した。
 
 Techno was not music for escaping reality, but for rewriting reality.
 
-### Rave as a queer space
+### クィア空間としてのレイヴ
 
-In the 1990s, rave culture spread around the world.
+1990年代に入ると、レイヴカルチャーが世界へ広がる。
 
-Huge warehouses, illegal parties, all-night events. There, anonymity that transcended gender and social class was emphasized.
+巨大倉庫、違法パーティ、オールナイトイベント。そこでは性別や社会階層を超えた匿名性が重要視された。
 
-Rave spaces have become a safe haven for many LGBTQ+ participants.
+レイヴ空間は、多くのLGBTQ+参加者にとって安全地帯となった。
 
-Particularly in Berlin, a club culture developed rapidly in vacant facilities after the fall of the Wall, and queer culture and electronic music became strongly connected.
+特にベルリンでは、壁崩壊後の空き施設を利用したクラブ文化が急速に発展し、クィアカルチャーと電子音楽が強く結びついていく。
 
 <div class="mermaid">
 graph TD
-    A["Disco"] --> B["House"]
-    B --> C["Techno"]
-    C --> D["Rave"]
-    D --> E["Global club culture"]
+    A["ディスコ"] --> B["ハウス"]
+    B --> C["テクノ"]
+    C --> D["レイヴ"]
+    D --> E["グローバルクラブカルチャー"]
 </div>
 
-### Berlin and Reconstruction
+### ベルリンと再構築
 
-Berlin's club culture was closely connected to political changes.
+ベルリンのクラブ文化は、政治的変化と密接に関わっていた。
 
 After the wall collapses, a large amount of empty space will be created in the city. Young people brought sound systems into the space and created a new community.
 
-There, queerness was not treated as something special, but as something that naturally existed.
+そこではクィア性が特別視されるのではなく、自然に存在するものとして扱われた。
 
-This feeling has had a great influence on modern techno culture.
+この感覚は、現代テクノカルチャーへ大きな影響を与えている。
 
-> Techno was a futuristic sound, and at the same time, it was music for imagining a new society.
+> テクノは未来的サウンドであると同時に、新しい社会を想像するための音楽だった。
 
 ---
 
-## Ballroom Culture and Self-Expression
+## ボールルームカルチャーと自己表現
 
-### Culture of the "unchosen ones"
+### 「選ばれなかった人々」の文化
 
-From the 1980s to the 1990s, ballroom culture developed in New York.
+1980年代から1990年代にかけて、ニューヨークではボールルームカルチャーが発展する。
 
-In this culture, which was formed around the black and Latinx LGBTQ+ community, there existed pseudo-family-like communities called "houses."
+黒人・ラテン系LGBTQ+コミュニティを中心に形成されたこの文化では、「ハウス」と呼ばれる疑似家族的コミュニティが存在した。
 
-Young people rejected by their families supported each other and participated in the ball event.
+家族から拒絶された若者たちが互いを支え合い、ボールイベントへ参加した。
 
-fashion, dance and performance. All of that was self-expression.
+ファッション、ダンス、パフォーマンス。そのすべてが自己表現だった。
 
-### Vogue and club culture
+### Vogueとクラブカルチャー
 
-Voguing evolved as a dance style inspired by the poses of magazine models.
+ヴォーギングは、雑誌モデルのポーズから着想を得たダンススタイルとして発展した。
 
-Sharp arm movements, static poses, theatrical body expressions. Therein lies the strong will of people who have been deprived of the ""right to present themselves beautifully.''
+鋭い腕の動き、静止ポーズ、演劇的身体表現。そこには「自分を美しく見せる権利」を奪われてきた人々の強烈な意思がある。
 
-Later, this culture was incorporated into pop culture and gained worldwide recognition.
+後にこの文化はポップカルチャーへ取り込まれ、世界的認知を獲得していく。
 
 <div class="mermaid">
 flowchart TD
-    A["Rejection from family"] --> B["House Community"]
-    B --> C["Ball event"]
-    C --> D["Voging"]
-    D --> E["Global culturalization"]
+    A["家族からの拒絶"] --> B["ハウスコミュニティ"]
+    B --> C["ボールイベント"]
+    C --> D["ヴォーギング"]
+    D --> E["世界的カルチャー化"]
 </div>
 
-### Visualization through video works
+### 映像作品による可視化
 
-The 1990 documentary Paris Is Burning popularized ballroom culture.
+1990年公開のドキュメンタリー『Paris Is Burning』は、ボールルーム文化を広く知らしめた。
 
-What was reflected there was more than just a dance.
+そこに映っていたのは単なるダンスではない。
 
-Poverty, racism, gender, sexuality, dreams, acting, survival. It was a real urban culture where everything was mixed together.
+貧困、人種差別、ジェンダー、セクシュアリティ、夢、演技、サバイバル。すべてが混ざり合ったリアルな都市文化だった。
 
-> The ballroom was a community where people created a place where they could be themselves.
+> ボールルームは「自分になれる場所」を自力で作ったコミュニティだった。
 
 ---
 
-## HIV/AIDS crisis and club culture
+## HIV/AIDS危機とクラブカルチャー
 
-### The disappeared generation
+### 消えていった世代
 
-During the 1980s and 1990s, HIV/AIDS had a devastating impact on the LGBTQ+ community.
+1980年代から1990年代にかけて、HIV/AIDSはLGBTQ+コミュニティへ壊滅的影響を与えた。
 
-Many musicians, DJs, dancers, club owners, and artists lost their lives.
+多くのミュージシャン、DJ、ダンサー、クラブオーナー、アーティストが命を落とした。
 
 However, club culture did not disappear.
 
-Rather, music functioned as a device for sharing grief.
+むしろ音楽は悲しみを共有する装置として機能した。
 
-### Music and Memorial
+### 音楽と追悼
 
-There is a sense of loss and hope at the same time in house and garage music.
+ハウスやガラージミュージックには、喪失感と希望が同時に存在している。
 
-Amidst the repeated beats, people remembered their deceased friends and at the same time supported each other among the survivors.
+繰り返されるビートの中で、人々は亡くなった友人を思い出し、同時に生き残った者同士で支え合った。
 
-The dance floor was both a celebratory space and a memorial space.
+ダンスフロアは、祝祭空間であると同時に追悼空間でもあった。
 
 
-### ACT UP and culture
+### ACT UPとカルチャー
 
-The HIV/AIDS crisis has also strongly linked political movements and club culture.
+HIV/AIDS危機では、政治運動とクラブカルチャーも強く結びついた。
 
-Movement groups like ACT UP involved many artists and members of the club community.
+ACT UPのような運動団体には、アーティストやクラブコミュニティの参加者も多く関わっていた。
 
 Clubs were not just entertainment, but also places for political networking.
 
@@ -316,7 +316,7 @@ Clubs were not just entertainment, but also places for political networking.
 
 ---
 
-## Contemporary club culture and queer expression
+## 現代クラブカルチャーとクィア表現
 
 ### Changes after the Internet
 
@@ -326,13 +326,13 @@ What used to be a closed community in each city has now spread around the world 
 
 Queer DJs, non-binary artists, and trans producers will become more visible.
 
-At the same time, a sense of tension was created due to commercialization.
+At the same time, commercialization created a sense of tension.
 
-### How to maintain a "safe space"
+### 「安全な空間」をどう維持するか
 
 In recent years, the concept of ""safe space'' has become important in the club scene.
 
-This is an attempt to eliminate discriminatory behavior and create an environment where everyone can dance with peace of mind.
+差別的行為を排除し、誰もが安心して踊れる環境を作る試みだ。
 
 This is not just good manners.
 
@@ -344,36 +344,36 @@ flowchart TD
     B --> C["Music culture"]
     C --> D["Global spread"]
     D --> E["Commercialization"]
-    E --> F["Rethinking safe space"]
+    E --> F["セーファースペース再考"]
 </div>
 
 ### Dance Floor Inheritance
 
 In modern times, a diverse queer music scene has emerged, including not only house and techno, but also hyperpop, club deconstructed, and experimental clubs.
 
-What they have in common is a sense of ""questioning the existing framework.''
+共通しているのは、「既存の枠組みを疑う」という感覚だ。
 
-Genre, gender, body, identity. Blurring the boundaries remains at the core of club culture.
+ジャンル、ジェンダー、身体、アイデンティティ。その境界を曖昧にすることが、クラブカルチャーの核心には今も存在している。
 
-> Modern club culture inherits the ""blueprints of freedom'' established by queer communities of the past.
+> 現代クラブカルチャーは、過去のクィアコミュニティが築いた「自由の設計図」を受け継いでいる。
 
 ---
 
 ## Dance music reflects "society"
 
-Dance music has often been dismissed as ""music for just dancing.''
+ダンスミュージックは、しばしば「ただ踊るための音楽」と軽視されてきた。
 
-But in reality, that history reflects the very structure of society.
+しかし実際には、その歴史は社会構造そのものを映している。
 
 Who was excluded, who needed a place to live, and who created a new community? That record remains in club culture.
 
-The LGBTQ+ community has cultivated dance music not just as entertainment, but as a space for survival.
+LGBTQ+コミュニティは、ダンスミュージックを単なる娯楽としてではなく、「生き延びるための空間」として育ててきた。
 
 That's why the club has a unique sense of solidarity.
 
-Even when we meet for the first time, there are moments when we can understand each other just by sharing the same beat. It's a feeling born out of a long history.
+初対面同士でも、同じビートを共有するだけで分かり合える瞬間がある。それは長い歴史の積み重ねによって生まれた感覚なのだ。
 
-The dance floor is not a place created outside of society.
+ダンスフロアは、社会の外側に作られた場所ではない。
 
 Rather, it was a place where future society was first tested.
 

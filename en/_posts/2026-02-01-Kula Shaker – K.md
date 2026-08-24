@@ -14,7 +14,7 @@ title: Kula Shaker – K
 
 
 
-Kula Shaker is a British psychedelic/indie rock band led by frontman Crispian Mills that rose to prominence during the 1990s Britpop era.
+Kula Shaker（クーラ・シェイカー）は、1990年代のブリットポップ時代に頭角を現した、フロントマンの Crispian Mills率いるイギリスのサイケデリック／インディー・ロックバンド。
 
 Kula Shaker"s debut album ""K'', released in 1996, is Kula Shaker"s masterpiece, reaching number one on the UK album chart.
 #### Tracklist

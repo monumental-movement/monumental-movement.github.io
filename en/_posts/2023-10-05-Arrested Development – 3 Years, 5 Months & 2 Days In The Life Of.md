@@ -9,13 +9,13 @@ layout: post
 tags:
 - Hiphop
 - Classic
-title: Arrested Development – ​​3 Years, 5 Months & 2 Days In The Life Of
+title: Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of
 ---
 
 
-""3 Years, 5 Months & 2 Days in the Life Of...'' was Arrested Development's debut album and was a huge success. The album is based on true stories and personal stories experienced by the band members and reflects inspiration from their daily lives.
+「3 Years, 5 Months & 2 Days in the Life Of...」は、アレステッド・ディベロプメントのデビューアルバムであり、大きな成功を収めました。アルバムは、バンドのメンバーが経験した実話や個人的なストーリーに基づいており、彼らの日常生活からのインスピレーションを反映しています。
 
-The album includes hits such as the Grammy-winning songs "Tennessee," "People Everyday," and "Mr. Wendal." These songs featured Arrested Development's signature lyrics, melodies, and soulful vocals, and brought positive messages and awareness to social issues to listeners.
+アルバムには、グラミー賞受賞曲となった「Tennessee」や「People Everyday」、「Mr. Wendal」などのヒット曲が収録されています。これらの曲は、アレステッド・ディベロプメントの特徴的なリリックとメロディ、ソウルフルなヴォーカルが特徴でありリスナーにポジティブなメッセージや社会的な問題への関心を喚起しました。
 
 
 #### Tracklist
@@ -51,7 +51,7 @@ B6. Tennessee
 B7. Washed Away
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m19892920898?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19892920898?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfxvsHpTZWk?si=EU30-Pxm4w5iKTU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,11 +13,11 @@ title: K Hand – Salsafied
 ---
 
 
-K: Hand, also known as Kelli Hand, is a techno house musician and DJ from Detroit. In the 1990s, she was known as one of the leading black women in the male-dominated techno and electronic music scene, and was called the ""First Lady of Detroit Techno.'' He continued to create music until his death in 2021.
+K : HandことKelli Hand(ケリー・ハンド)は、デトロイト出身のテクノハウスミュージシャン・DJ。1990年代に、男性優位だったテクノ・エレクトロニックミュージックシーンで活躍した黒人女性の第一人者として知られ、「デトロイト・テクノのファーストレディ」と呼ばれていた。2021年に他界するまで音楽の制作を続けた。
 
-In 2016, he received the Spirit of Detroit Award along with other electronic musicians such as Jeff Mills, Juan Atkins, Derrick May, and Kevin Sanderson.
+2016年には、ジェフ・ミルズ、フアン・アトキンス、デリック・メイ、ケビン・サンダーソンなどの他のエレクトロニック・ミュージシャンとともに、スピリット・オブ・デトロイト賞を受賞した。
 
-"Salsafied" is a tech house album released in 2000 by the German label Ausfahrt.
+「Salsafied」は、2000年にドイツのレーベルAusfahrtからリリースされたテックハウス・ハウスアルバム。
 
 
 #### Tracklist
@@ -36,7 +36,7 @@ In 2016, he received the Spirit of Detroit Award along with other electronic mus
 12. You Don't Know Me
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ6TE0Mh_lc?si=4KaeY9bmIGR6u4r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

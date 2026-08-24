@@ -13,9 +13,9 @@ title: Yellow Magic Orchestra – Yellow Magic Orchestra
 ---
 
 
-This is the Japanese version of YMO (Yellow Magic Orchestra)'s first LP.
+YMO（イエローマジックオーケストラ）のファーストLPの日本盤になります。
 
-The US version is [here](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra-US/)
+US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra-US/)
 
 #### Tracklist
 ```md

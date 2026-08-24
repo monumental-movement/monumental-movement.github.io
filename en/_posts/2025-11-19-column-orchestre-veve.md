@@ -10,17 +10,16 @@ tags:
 - Soukous
 - Rumba
 - 60s
-title: '[Column] Orchestra Veve: A complete history of the prestigious band that played
-  a central role in the development of Congolese music'
+title: 【コラム】 Orchestre Veve：コンゴ音楽発展の中核を担った名門バンドの全史
 ---
 
 
-## Prologue: Historical Significance of Orchestra Veve
+## 序章：Orchestre Veve の歴史的意義
 
 
-Text: mmr｜Theme: Background to the formation of Orchestra Veve, musical characteristics of the golden era, technical aspects, analysis of representative songs, comparison with other bands
+文：mmr｜テーマ：Orchestre Veve の成立背景、黄金期の音楽的特徴、技術的側面、代表曲の解析、他バンドとの比較
 
-Orchestra Veve is a band that occupies an important place in the music history of Congo (formerly Zaire). They were active at the turning point of the transition from rumba congolaise to soukous, and led the scene mainly in the 1970s with their vigorous recordings and innovative ensembles.
+Orchestre Veve は、コンゴ（旧ザイール）音楽史において重要な位置を占めるバンドである。彼らは **ルンバ・コンゴレーズからソウクースへ移行する転換点**に活動し、1970年代を中心に旺盛な録音と革新的なアンサンブルでシーンを牽引した。
 
 ---
 
@@ -29,7 +28,7 @@ Orchestra Veve is a band that occupies an important place in the music history o
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -38,125 +37,125 @@ color: #fff;
 </style>
 
 
-# Chapter 1 Background of the formation and the situation of the Congolese music scene
+# 第1章　結成の背景とコンゴ音楽シーンの状況
 
-By the late 1960s, Congolese music had already formed a competitive live culture in the Grande Quartier. As powerhouse bands such as OK Jazz, African Fiesta, and Zaïko competed with each other, and the sophistication of guitar ensembles and vocal polyphony accelerated, the number of independent labels supporting the success of young musicians was increasing.
+1960年代後半、コンゴ音楽は既にグランド・カルティエ（大地区）における競争的なライブ文化を形成していた。OK Jazz、African Fiesta、Zaïko ら複数の強力なバンドがしのぎを削り、ギター・アンサンブルとヴォーカル多声部の洗練が加速する中、若手音楽家の活躍を支援する独立系レーベルが増加していた。
 
-Orchestra Veve was born amidst this musical fluidity brought about by urbanization and media expansion in the post-independence era. In particular, it was a time when several emerging bands emerged due to the combination of Congo's strong dance culture, the growing influence of broadcasters, and the demand for performances in street corners bars.
-
----
-
-# Chapter 2 Founder Veve Veran and organizational structure
-
-Founder **Veve Verckys** was a saxophonist and a visionary businessman. He had already accumulated know-how in recording management through his activities with OK Jazz, established his own label Veve, and discovered and hired many young performers.
-
-Orchestra Veve is more than just a band;
-**Performance team + recording team + production direction + promotion network**
-It was highly organized for its time.
-
-Veran's management policy can be summarized in the following three points.
-
-1. **Active recruitment of young guitarists**
-2. **Expansion of studio equipment and pursuit of recording efficiency**
-3. **Maximizing the danceability of Afro urban music**
-
-These gave birth to Veve's distinctive rhythms and ensembles, which came to fruition during the golden age of the 1970s.
+Orchestre Veve は、このような **ポスト独立期の都市化とメディア拡張がもたらした音楽的流動性**の中で誕生した。特に、コンゴの強いダンス文化と、放送局の影響力拡大、街角バーでの演奏需要が合わさり、複数の新興バンドが台頭した時期であった。
 
 ---
 
-# Chapter 3: Early recordings and the development of rumba congolaise
+# 第2章　創立者ヴェヴェ・ヴェランと組織構造
 
-At the end of the 1960s, Veve initially followed the traditional style of Rumba Congolaise, but made the following changes:
+創立者 **ヴェヴェ・ヴェラン（Veve Verckys）** は、サックス奏者であり、実業家としても先見性を持っていた。彼はすでにOK Jazzでの活動を通じて録音運営のノウハウを蓄積しており、独自レーベル Veve を設立し、多くの若手演奏者を発掘・起用した。
 
-- **Strengthening the guitar's three-layer structure (bass/accompaniment/lead)**
-- **Mix that brings the saxophone to the forefront**
-- **Use of three-tone harmony for male vocals**
+Orchestre Veve は単なるバンドではなく、  
+**演奏部隊 + 録音チーム + 制作ディレクション + プロモーション網**  
+という構造を持ち、当時としては高度に組織的であった。
 
-In particular, early recordings such as ""Nakomitunaka" and ""Mfumbwa" have been praised for their strong, linear melodies, which are more danceable than the traditional meandering lead guitar. In addition, the works from this period introduced the unique ""hanging'' rhythm pattern of the Veve sound, which became the forerunner of the rapid evolution of soukousu later.
+ヴェランの運営方針は次の3点に集約される。
 
----
+1. **若手ギタリストの積極的起用**  
+2. **スタジオ機材の拡張と録音効率の追求**  
+3. **アフロ都市音楽のダンス性の最大化**
 
-# Chapter 4 1970s: Maturity of Sound and Golden Age
-
-The early 1970s saw Veve's most creative period. With Veran himself in charge as a recording producer, he was able to achieve a compact recording system and mass releases at the same time.
-
-The reason why this "coexistence of quantity and quality" was possible is as follows.
-
-- **Systematization to maximize the operating rate of your own studio**
-- **Rotation system between performers**
-- **Reduced recording time per song (one song completed in several hours)**
-- **Improved reproducibility by creating ensemble templates**
-
-This article will focus on the following three songs as representative songs born during this golden age.
-
-- **"Zonga Andowe"**
-- **"Mfumbwa"**
-- **"Nitarudia"**
-
-These songs show the core of Veve's dance music, while also clearly showing the characteristics of the lyrical content, guitar structure, and mixing.
+これらが Veve 特有のリズムとアンサンブルを生み、70年代の黄金期に結実した。
 
 ---
 
-# Chapter 5 Changes in main members and musical characteristics
+# 第3章　初期の録音とルンバ・コンゴレーズの発展
 
-## Role of lead guitar
+60年代末、Veve は当初ルンバ・コンゴレーズの伝統的スタイルを踏襲しつつ、以下の点で変革を加えた。
 
-Veve's lead guitar was characterized by a sharper "notch" melody than other bands at the time. Especially noticeable in recordings from the 1970s.
+- **ギターの三層構造（ベース／伴奏／リード）の強化**
+- **サックスを前面に出すミックス**
+- **男性ヴォーカルの三声和声の活用**
 
-- Chromatic leading rise
-- fast tremolo
+特に「Nakomitunaka」「Mfumbwa」などの初期録音は、従来の蛇行するようなリードギターよりも、直線的で強い旋律を志向し、ダンス性を高めた点で評価されている。また、この時期の作品から Veve サウンドに固有の **「引っ掛かる」リズム・パターン**が登場し、後のソウクースの高速進化の先駆けとなった。
+
+---
+
+# 第4章　1970年代：サウンドの成熟と黄金期
+
+1970年代前半、Veve は最も創造的な時期を迎える。ヴェラン自身が録音プロデューサーとして采配を振るうことで、コンパクトな録音体制と大量リリースを同時に実現した。
+
+この「量と質の共存」が可能だった理由は次の通りである。
+
+- **自前スタジオの稼働率を最大化するシステム化**
+- **演奏者間のローテーション制**
+- **一曲あたりの録音時間の短縮（1曲数時間で完成）**
+- **アンサンブルのテンプレート化による再現性の向上**
+
+この黄金期に生まれた代表曲として、本稿では以下の3曲を取り上げる。
+
+- **「Zonga Andowe」**  
+- **「Mfumbwa」**  
+- **「Nitarudia」**  
+
+これらは Veve のダンス音楽としての核心を示しつつ、歌詞内容・ギター構造・ミキシングの特徴がはっきり現れている。
+
+---
+
+# 第5章　主要メンバーの変遷と音楽的特徴
+
+## リードギターの役割
+
+Veve のリードギターは、当時の他バンドと比べて **鋭い「切り込み」型の旋律**を特徴とした。特に1970年代の録音に顕著な、
+
+- 半音階的な導音上昇  
+- 速いトレモロ  
 - Short motif repeats of 2-4 bars
 
-was a symbol of the Veve sound. It also influenced the later rapa-lapa and kasekese high-speed guitars.
+は Veve サウンドの象徴であった。後のラパ・ラパやカセケセの高速ギターにも影響している。
 
-## Vocal ensemble structure
+## ボーカル・アンサンブルの構造
 
-Veve's vocals are based on **three- to four-part harmony**, with one person maintaining the main melody while the other two or three add counter-melody.
-ZAïko is mostly single line, and OK Jazz is mainly deep harmonies, whereas Veve is somewhere in between, with a lot of **light and bright harmonies**.
+Veve のヴォーカルは **三〜四声のハーモニー**を基盤とし、一人がメインの旋律を維持しながら、他の2〜3名が対旋律を差し込む形を取る。  
+ZAïko がシングルライン主体、OK Jazz が深い和声主体であるのに比べ、Veve はその中間で、**軽やかで明るいハーモニー**が多い。
 
-## Rhythm section innovation
+## リズム・セクションの革新
 
-Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carve the back of the 16th minute, but rather creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
+Veve のリズムセクションには、特有の「跳ね」がある。ハイハットは16分の裏を強く刻まず、**横揺れの広い8分系**でグルーヴを作るため、同時期のソウクースよりも滑らかで、ルンバに近い質感を保っている。
 
 ---
 
-# Chapter 6 Analysis of representative songs
+# 第6章　代表曲の分析
 
-## Song A: Zonga Andowe — rhythmic foundation and melodic structure
+## 曲 A：Zonga Andowe — リズム基盤と旋律構造
 
-"Zonga Andowe" is one of Veve's most popular hits, with its repetitive chorus and guitar melodic structure.
+「Zonga Andowe」は Veve の代表的ヒット曲の一つであり、サビの反復性とギターの旋律構築が顕著である。
 
-### Technical analysis
-- **Tempo: approximately 118–122 BPM**
-- **Guitar: 3-layer structure (accompaniment guitar emphasizes off-beat)**
-- **Bass: Repeat descending line → rising line every 4 bars**
-- **Mixing: vocals in the center, guitars separated to left and right**
+### 技術的分析
+- **テンポ：およそ118–122 BPM**
+- **ギター：3層構造（伴奏ギターはオフビート強調）**
+- **ベース：4小節周期で下降ライン → 上昇ラインを繰り返す**
+- **ミキシング：ヴォーカルが中央、ギター左右に分離**
 
-### Characteristics of rhythm
+### リズムの特徴
 
 <div class="mermaid">
 
 graph TD
-    A[Kick - Basic 4 minutes] --> B[Snare - placed on the weak beat]
-    A --> C[Hi-Hat - Mainly 8 minutes]
-    C --> D[Off-beat emphasis of guitar accompaniment]
-    D --> E[Rumba type groove with a large horizontal oscillation as a whole]
+    A[Kick - 基本4分] --> B[Snare - 弱拍に配置]
+    A --> C[Hi-Hat - 8分主体]
+    C --> D[ギター伴奏のオフビート強調]
+    D --> E[全体として横揺れの大きいルンバ系グルーヴ]
 
 </div>
 
 ---
 
-## Song B: Mfumbwa — melancholy melody and call and response
+## 曲 B：Mfumbwa — 哀愁旋律とコール＆レスポンス
 
-"Mfumbwa" is a song that symbolizes Veve's "narrative nature of songs" and has a beautiful call-and-response structure.
+「Mfumbwa」は Veve の「歌の物語性」を象徴する一曲で、コール＆レスポンスが美しく構成されている。
 
-### Technical analysis
+### 技術的分析
 
-* **Saxophone presents melody at the beginning → Guitar imitates**
+* **冒頭でサックスが旋律提示 → ギターが模倣**
 * **Vocal is the "question", chorus is the "response"**
-* **Linear, high-pitched guitar solo**
+* **直線的で高音域のギターソロ**
 
-### Call and response structure
+### コール＆レスポンス構造
 
 <div class="mermaid">
 
@@ -174,146 +173,146 @@ sequenceDiagram
 
 ---
 
-## Song C: Nitarudia — Dance-oriented soukous eve
+## 曲 C：Nitarudia — ダンス志向のソウクース前夜
 
-In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
+本曲はソウクース化の前兆として高速化・細分化されたギターが現れる。Veve 作品の中でもっとも未来志向のサウンドと言われる。
 
-### Technical analysis
+### 技術的分析
 
-* **Hi-hat: 16 minute increments now available**
-* **Guitar: When viewed on a pentagram (staff), the arpeggio rises in a staircase pattern**
-* **Bass: Phrase that "bounces" in 2-bar units**
+* **ハイハット：16分刻みが登場**
+* **ギター：ペンタグラム（五線上）で見るとアルペジオが階段状に上昇**
+* **ベース：2小節単位で「跳ね返る」フレーズ**
 
-### Structure of guitar approach
+### ギター・アプローチの構造
 
 <div class="mermaid">
 
 flowchart LR
-    A[Dispersed chord arpeggio] --> B[Transformation into triplet]
-    B --> C[repeat motif in 2 measures]
-    C --> D[treble tremolo]
-    D --> E[The prototype of Soukusu's high-speed lead]
+    A[分散和音アルペジオ] --> B[三連符への変形]
+    B --> C[モチーフを2小節で反復]
+    C --> D[高音域トレモロ]
+    D --> E[ソウクース的高速リードの原型]
 
 </div>
 
 ---
 
-# Chapter 7 Recording technology, studio environment, production system
+# 第7章　録音技術・スタジオ環境・制作体制
 
-Veve's recording environment was one of the most advanced in Africa at the time.
-It had its own studio, had multiple recording engineers on staff, and had the following technical characteristics.
+Veve の録音環境は、当時のアフリカ中でも先進的だった。
+自前スタジオを持ち、複数の録音エンジニアが常駐し、次のような技術的特徴があった。
 
-- **Quickly take advantage of the transition period from 2-4 track recording to 4-8 track recording**
-- **Stereo method of swinging the guitar left and right**
-- **Mixing that puts the saxophone in the foreground**
-- **A pioneering approach that records multiple takes of the chorus and combines them in editing**
+- **2〜4トラック録音から4〜8トラックへの移行期を素早く活用**
+- **ギターを左右に大きく振るステレオ手法**
+- **サックスを前景に置くミキシング**
+- **サビ部分を複数テイク録音し、編集で結合する先駆的アプローチ**
 
-One of the characteristics of this work is that it prioritizes the live excitement of the performers rather than spending time on editing, and many of the works are recorded in a structure that is almost like a live recording.
+編集作業に時間をかけるより、演奏者の生のテンションを優先し、**ほぼライブ録りに近い構造で録音された作品が多い**のも特徴である。
 
 ---
 
-# Chapter 8 Dance Culture and Reception History: Within Congo and the Diaspora
+# 第8章　ダンス文化と受容史：コンゴ国内とディアスポラ
 
-Veve"s music was very influential in Congo"s urban dance culture.
-It is especially popular at bars (dance halls), where certain steps become established every time the band's recording is played.
+Veve の音楽は、コンゴ国内の都市ダンス文化で非常に強い影響力を持った。
+特にバル（ダンスホール）での人気が高く、バンドの録音が流れるたびに特定のステップが定着し、
 
-* **Style that uses large hand gestures**
+* **手振りを大きく使うスタイル**
 * **Steps with strong sideways movement**
-* **Applications that incorporate spin**
+* **スピンを取り入れる応用**
 
-So much so that the dance was defined for each song.
+など、曲ごとに踊りが定義されるほどであった。
 
-It was also widespread in the Congolese diaspora (France, Belgium, and the United Kingdom), where recordings of Veve were often placed at the center of dance events in immigrant communities.
-
----
-
-# Chapter 9 Comparison of Orchestra Veve and other bands
-
-## Difference from Zaïko Langa Langa
-
-* **Zaïko: light, fast, percussion-heavy, long seben**
-* **Veve: smooth, rumba-like, saxophone center of gravity, chorus polyphony**
-
-Although both are from the same era, their directions are very different.
-
-## Musical distance with OK Jazz
-
-Veran himself is from OK Jazz, so they have the same sense of harmony and depth of melodic processing, but
-Veve is more modern and danceable compared to OK Jazz.
-
-## Commonalities with Afrisa International
-
-Afrisa"s Francophonic flourishes and Veve"s pop brightness have something in common.
-Both artists brought the saxophone to the fore around the same time, symbolizing the maturation of musicality due to urbanization.
+また、コンゴ系ディアスポラ（フランス・ベルギー・イギリス）にも広く浸透し、移民コミュニティでVeve の録音がしばしばダンスイベントの中心に置かれていた。
 
 ---
 
-# Chapter 10 Activities in the latter half and independence of members
+# 第9章　Orchestre Veve と他バンドとの比較
 
-In the 1980s, the influence of disco and highlife became stronger, and Veve gradually curtailed its activities. On the other hand, former members of the band became independent and took on major roles as solo artists or in other bands.
+## Zaïko Langa Langa との違い
 
-* Participation in new label
-* Overseas migration
-* Studio musician activities
+* **Zaïko：軽快で高速、パーカッション多用、長いセベン**
+* **Veve：滑らかでルンバ寄り、サックス重心、コーラス多声**
+
+両者は同時代であるが、方向性は大きく異なる。
+
+## OK Jazz との音楽的距離
+
+ヴェラン自身が OK Jazz 出身であるため、**和声感や旋律処理の深さは共通**しているが、
+Veve は OK Jazz と比べるとよりモダンで、ダンス性に優れている。
+
+## Afrisa International との共通点
+
+Afrisa のフランコフォニックな華やかさと、Veve のポップな明るさには共通点がある。
+両者は同時期にサックスを前面に出しており、都市化による音楽性の成熟を象徴している。
+
+---
+
+# 第10章　後期の活動とメンバーの独立
+
+80年代に入ると、ディスコやハイライフの影響が強まり、Veve は徐々に活動を縮小する。一方で、バンド出身者たちは独立し、ソロや別バンドで主要な役割を担った。
+
+* 新規レーベルへの参加
+* 海外移住
+* スタジオミュージシャン活動
 * Turned into producer
 
-Veve's genes spread in various ways.
+など、Veve の遺伝子は多様な形で拡散していった。
 
 ---
 
-# Chapter 11 Veve Sound Analysis: Rhythm/Guitar Line/Vocal Style
+# 第11章　Veve サウンドの分析：リズム／ギターライン／ヴォーカル流儀
 
-## Rhythm structure
+## リズム構造
 
-Veve's rhythm structure is characterized by both bounce and straightness.
+Veve のリズム構造は「跳ね」と「直進性」の両立が特徴である。
 
 <div class="mermaid">
 
 flowchart LR
-    A[8 minute big groove] --> B[16 minute fine decoration]
-    B --> C[Light accent on the back of the hi-hat]
-    C --> D[Descending base – rising motif]
-    D --> E[Smooth, propulsive rhythm]
+    A[8分の大きなグルーヴ] --> B[16分の微細装飾]
+    B --> C[ハイハットの軽い裏アクセント]
+    C --> D[ベースの下降–上昇モチーフ]
+    D --> E[滑らかで推進力のあるリズム]
 
 </div>
 
 ---
 
-## Features of guitar line
+## ギター・ラインの特徴
 
-Veve's guitar has a three-stage structure: **staircase motif → dispersed chords → high-range tremolo**.
+Veve のギターは、**階段型モチーフ → 分散和音 → 高音域トレモロ** の三段構造で形成される。
 
-## Call and response techniques
+## コール＆レスポンス技法
 
-The vocal dialogue has a unique ratio of shortening the questioning melody and lengthening the response. This emphasizes the narrative and serves as the hook of the song.
-
----
-
-# Chapter 12 Influence and inheritance of Orchestra Veve
-
-Veve's musical legacy is
-
-* **Increased speed of Soukusu**
-* **Saxophone-led urban music**
-* **Subdivision of guitar ensemble**
-It has had a deep influence on contemporary Congolese music.
-
-In addition, the system-based music production model, which created a recording infrastructure and dynamically nurtured young performers, served as a major guideline for later label management.
+ヴォーカルの掛け合いは、問いかける旋律を短くし、応答側を長くする独特の比率を持つ。これは物語性を強調し、曲のフックとして機能する。
 
 ---
 
-# Final Chapter: The Legacy of Orchestra Veve
+# 第12章　Orchestre Veve の影響と継承
 
-Orchestra Veve is more than just a band.
-**As a center for technological innovation, recording infrastructure, music education, and the formation of dance culture**,
-He was a supporter of the development of Congolese urban music.
+Veve の音楽的遺産は、
 
-Their music continues to resonate today, from Afro dance venues to clubs overseas.
-Its heritage is currently being reevaluated in particular in the history of African music, and has become an important reference point for musicians and researchers.
+* **ソウクースの高速化**
+* **サックス主導の都市音楽**
+* **ギターアンサンブルの細分化**
+  などの形で現代のコンゴ音楽に深く影響を与えている。
+
+また、録音インフラを作り上げ、若い演奏者を流動的に育成する **システム型の音楽制作モデル** は、後のレーベル運営の大きな指針となった。
 
 ---
 
-# Chronology: Orchestra Veve Chronology
+# 終章：Orchestre Veve が残した遺産
+
+Orchestre Veve は、単なる一バンドではなく、
+**技術革新・録音インフラ・音楽教育・ダンス文化の形成の中心**として、
+コンゴ都市音楽の発展を支えた存在である。
+
+彼らの音楽は今日も、アフロダンスの現場から海外のクラブまで幅広く響き続けている。
+その遺産は、アフリカ音楽史の中でも特に再評価が進んでおり、音楽家・研究者の重要な参照点となっている。
+
+---
+
+# 年表：Orchestre Veve Chronology
 
 <div class="mermaid">
 

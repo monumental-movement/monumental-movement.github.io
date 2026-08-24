@@ -14,7 +14,7 @@ title: Octave One – Blackwater (Alter Ego Remixes)
 
 This is a remix of Octave One's masterpiece Blackwater.
 
-The Alter Ego remix by German techno scene veterans Jorn Elling Wuttke and Roman Flugel is excellent.
+ジャーマンテクノシーンの大ベテラン、 Jorn Elling WuttkeとRoman FlugelによるAlter Egoリミックスは秀逸。
 
 #### Tracklist
 ```md

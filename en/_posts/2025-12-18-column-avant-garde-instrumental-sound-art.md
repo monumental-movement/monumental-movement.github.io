@@ -45,7 +45,7 @@ color: #fff;
 
 After the 1950s, with the development of electronic music studios, sound was separated from musical instrument performance and became an object that could be manipulated as a signal. Technologies such as magnetic tape, oscillators, and filters made it possible to record, process, and rearrange sound.
 
-With this change, musical works are no longer limited to performance venues, but are moving into museums, galleries, and public spaces. The concept of sound art has been used to refer to a group of works that use sound as their main material but do not necessarily follow musical systems or performance conventions.
+With this change, musical works are no longer limited to performance venues, but are moving into museums, galleries, and public spaces. The concept of sound art has been used to refer to a group of works that use sound as their main material, but do not necessarily follow musical systems or performance conventions.
 
 ### 1-2 From temporal art to spatial art
 
@@ -96,11 +96,11 @@ flowchart LR
 
 ### 4-1 Architectural acoustics
 
-Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if the installation location is different.
+Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if it is installed in a different location.
 
 ### 4-2 Spectator position
 
-The audience's standing position and movement are factors that change the acoustic experience. The work is not intended to be listened to from a fixed point.
+The position and movement of the audience is a factor that changes the acoustic experience. The work is not intended to be listened to from a fixed point.
 
 ---
 
@@ -112,7 +112,7 @@ The audience's standing position and movement are factors that change the acoust
 
 ### 5-1 Guitar and digital processing
 
-Christian Fennesz deconstructs and reconstructs electric guitar sounds through digital processing. The original sound is altered through effect processing and computer calculations, and the causal relationship between performance actions and auditory results becomes unclear.
+Christian Fennesz uses digital processing to deconstruct and reconstruct electric guitar sounds. The original sound is altered through effect processing and computer calculations, and the causal relationship between performance actions and auditory results becomes unclear.
 
 ### 5-2 Noise and resolution
 
@@ -137,7 +137,7 @@ flowchart LR
 
 ## Chapter 7: Analog and Digital Continuity
 
-The physical sound that Lucier deals with and the digital processing that Fennesz deals with are not disconnected, but rather a continuous flow. Both respect the autonomy of sound and limit human control.
+The physical sound that Lucier deals with and the digital processing that Fennesz deals with are not discontinuous, but a continuous flow. Both respect the autonomy of sound and limit human control.
 
 ---
 

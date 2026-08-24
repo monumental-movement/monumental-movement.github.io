@@ -16,7 +16,7 @@ Smurf & Perry is a unit of German DJ Big Smurf (Frank Koopmann) and Fred Perry.
 
 "Lovin' You" featured vocalist Concha Buika and was released by Flamingo Discos in 2001.
 
-"Smurf & Perry – Lovin" You" samples Donald Byrd"s "Loving You," released in 1978.
+「Smurf & Perry – Lovin' You」は、1978年リリースのDonald Byrd（ドナルド・バード）「 Loving You」をサンプリング。
 
 #### Tracklist
 ```md

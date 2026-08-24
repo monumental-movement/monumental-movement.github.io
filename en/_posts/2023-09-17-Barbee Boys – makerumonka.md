@@ -9,7 +9,7 @@ tags:
 - JPop
 - 80s
 - Rock
-title: Barbee Boys – I"m not going to lose.
+title: Barbee Boys – 負けるもんか
 ---
 
 

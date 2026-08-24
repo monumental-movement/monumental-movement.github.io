@@ -14,9 +14,9 @@ title: Luke Slater – All Exhale
 ---
 
 
-"All Exhale" is a single by UK techno DJ and producer Luke Slater, released in 2000 on the label NovaMute (Mute Group). The original version was included on the classic album "Wireless" released in 1999. The powerful driving techno track was a huge hit and an anthem that was frequently played in clubs.
+「All Exhale」は、2000年にレーベルNovaMute （Muteグループ）からリリースされた、UKのテクノDJ・プロデューサーLuke Slater(ルーク・スレーター)によるシングル。オリジナル版は、1999年リリースの名作アルバム「Wireless」に収録されている。パワフルなドライビング・テクノトラックは大ヒットとなり、クラブで頻繁にプレイされたアンセム。
 
-The fourth song is a remix by Futureshock, a British electronic duo that was active from 1998 to 2003.
+4曲目は、1998年から2003年まで活動したイギリスのエレクトロニックデュオFutureshockによるremix。
 
 #### Tracklist
 ```md

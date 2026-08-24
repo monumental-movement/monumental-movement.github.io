@@ -9,94 +9,93 @@ tags:
 - Techno
 - German Techno
 - 90s
-title: '[Column] Tresor - The techno mecca that changed the world from underground
-  in Berlin'
+title: 【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地
 ---
 
 
-## An indispensable presence when talking about Berlin's club culture and the European techno scene -- **Tresor**
+## ベルリンのクラブ文化、そしてヨーロッパのテクノ・シーンを語るうえで避けて通れない存在――**Tresor（トレゾア）**
 
 
-Text: mmr｜Theme: Berlin club culture and the European techno scene
+文：mmr｜テーマ：ベルリンのクラブ文化、そしてヨーロッパのテクノ・シーン
 
 <hr>
 
-### What is Tresor?
+### Tresorとは何か
 
-Tresor (meaning ""safe"' in German) is a club founded in Berlin, Germany in 1991, and is a center of techno culture that also hosts a label of the same name. Amidst the chaos that followed the end of the Cold War, it served as the most important center for connecting Detroit techno and Berlin"s underground culture, and continues to maintain its international influence to this day.
+Tresor（ドイツ語で「金庫」の意）は、1991年にドイツ・ベルリンで誕生したクラブであり、同名のレーベルをも擁するテクノ・カルチャーの中心地。冷戦終結後の混沌の中で、デトロイト・テクノとベルリンの地下文化を結びつけた最重要拠点として、今日まで国際的に影響力を保ち続けている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDuT0ximZp4?si=vCTf7etqZo_TVcpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Background of its birth: Berlin and the post-Cold War vacuum
+### 誕生の背景：ベルリンと冷戦後の空白
 
-In 1989, the Berlin Wall fell. Spaces that were once controlled by the state have turned into "lawless zones" and become testing grounds for underground youth culture.
+1989年、ベルリンの壁が崩壊。かつて国家に管理されていた空間は「無法地帯」と化し、アンダーグラウンドな若者文化の実験場となった。
 
-Abandoned buildings, disused factories, and underground spaces have been turned into clubs.
+廃墟ビル、使われなくなった工場、地下空間がクラブ化。
 
-Western and Eastern cultures fused, and dance music, a symbol of freedom, resonated.
-Among them, Tresor opened in a renovated vault of a former department store. The deep bass sound emanating from behind the closed iron door symbolized the beginning of a new era.
-
-<hr>
-
-### Musical Significance: The Bridge Between Detroit and Berlin
-
-Tresor in particular served as a springboard for Detroit techno's expansion into Europe.
-
-[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g) are the founders of Detroit, known as the "Belleville Three."
-
-[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP) and others are active in Berlin and play at Tresor.
-As a result, the futuristic and politically charged techno born in the United States was linked with European club culture, creating the foundation for a ""global techno network.''
+西と東のカルチャーが融合し、自由の象徴としてのダンス・ミュージックが鳴り響いた。
+その中でTresorは、旧百貨店の金庫室を改装してオープン。閉ざされた鉄の扉の中から放たれる重低音は、新しい時代の幕開けを象徴していた。
 
 <hr>
 
-### Label "Tresor Records"
+### 音楽的意義：デトロイトとベルリンの架け橋
 
-Established in 1991 as part of a club, Tresor Records functions as an important techno label.
+Tresorは特にデトロイト・テクノのヨーロッパ進出の足場として機能した。
 
-[Jeff Mills – Waveform Transmission Series](https://amzn.to/4mJeXE1)
+[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)ら「Belleville Three」と呼ばれるデトロイトの創始者たち。
+
+[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
+これにより、アメリカで生まれた未来的かつ政治性を帯びたテクノが、ヨーロッパのクラブ文化と結びつき、「グローバルなテクノ・ネットワーク」の基盤を築いた。
+
+<hr>
+
+### レーベル「Tresor Records」
+
+クラブに併設する形で1991年に設立されたTresor Recordsは、テクノの重要レーベルとして機能。
+
+[Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 
 [Robert Hood – Internal Empire](https://amzn.to/42hCSmK)
 
-[Drexciya – Neptune"s Lair](https://amzn.to/4nAnhqI)
+[Drexciya – Neptune’s Lair](https://amzn.to/4nAnhqI)
 
-He has released many works that symbolize the fusion of Detroit and Berlin.
-In particular, their minimal and hard sound formed the ""skeleton of European techno'' in the 1990s.
+など、デトロイト勢とベルリンの融合を象徴する作品を数多くリリース。
+特にミニマルかつ硬質なサウンドは、90年代の「ヨーロッパ・テクノの骨格」を形成した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Q09nP62VnU?si=omgAmTm-Qfz58UQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Tresor symbolism and cultural influence
+### Tresorの象徴性と文化的影響
 
-**Fusion of industrial ruins and music**
+**産業廃墟と音楽の融合**
 
-Tresor is a symbol of "urban ruin reuse culture." It became the origin of an aesthetic that has been inherited throughout the Berlin club scene.
+Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラブシーン全体に受け継がれる美学の原点となった。
 
-**24 hour club culture**
+**24時間クラブカルチャー**
 
-In Berlin, where regulations were lax, a space was created where people could continue dancing morning, noon, and night. His style is still the subject of worldwide envy.
+規制が緩かったベルリンでは、朝も昼も夜も踊り続けられる空間が誕生。そのスタイルは今も世界的に羨望の対象。
 
-**Techno = urban identity**
+**テクノ＝都市アイデンティティ**
 
-The influence of Tresor is behind the city of Berlin officially recognizing club culture as a city brand.
-
-<hr>
-
-### Relocation and current situation
-
-In 2005, the original location closed, but in 2007 it moved to a former power plant in East Berlin.
-
-The huge, inorganic industrial space is more in line with the techno worldview.
-
-Today, DJs from all over the world perform there, and it continues to serve as a pilgrimage site.
+ベルリン市が公式に「クラブカルチャーを都市ブランド」と認識する背景にはTresorの影響がある。
 
 <hr>
 
-### Comparison of Tresor with other clubs
+### 移転と現在
 
-**Berghain**: An icon from the 2000s that also inherited the ruin culture.
+2005年、オリジナルの場所が閉鎖されるも、2007年に東ベルリンの旧発電所に移転。
+
+巨大で無機質な産業空間は、むしろテクノの世界観にさらにマッチ。
+
+現在も世界中のDJが出演し、「巡礼地」としての役割を果たし続けている。
+
+<hr>
+
+### Tresorと他クラブとの比較
+
+**Berghain**：同じく廃墟文化を継承、2000年代以降のアイコン。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0buhM4bbAx4?si=GJQwz5IQiaf9wYeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -108,27 +107,27 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 
 ---
 
-→ Tresor is often spoken of as the "founder" and Berghain as the "successor."
+→ Tresorは「始祖」、Berghainは「後継者」として語られることが多い。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iiuJhq-z2LE?si=5b_nN9GcPSAo27SZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Tresor's legacy
+### Tresorが残したもの
 
-- International network connecting Detroit and Berlin
+- デトロイトとベルリンを結んだ国際的ネットワーク
 
-- The cultural value of "techno = future image of the city"
+- 「テクノ＝都市の未来像」という文化的価値観
 
-- Historical masterpieces through labels
+- レーベルを通じた歴史的名盤群
 
 - Aesthetics of "placeness" that reuses ruins
 
-- The basis for Berlin being called the "Techno Capital of the World"
+- ベルリンが「世界のテクノ首都」と呼ばれる基盤
 
 <hr>
 
-### Must-listen to experience Tresor (10 recommended selections)
+### Tresorを体感するための必聴盤（おすすめ10選）
 
 - [Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
 
@@ -140,7 +139,7 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 
 - [Juan Atkins – Skynet (1998, Tresor)](https://amzn.to/4mCc5bQ)
 
-- [Drexciya – Neptune"s Lair (1999, Tresor)](https://amzn.to/4mBKMyA)
+- [Drexciya – Neptune’s Lair (1999, Tresor)](https://amzn.to/4mBKMyA)
 
 - [Surgeon – Tresor.117: Force + Form (1999)](https://monumental-movement.jp/Surgeon-Force+Form-Tresor-117)
 
@@ -148,31 +147,31 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 
 - [Pacou – Symbolic Language (1998, Tresor)](https://amzn.to/3W9EeMD)
 
-- [Tresor Compilation series (especially Vol.1 to Vol.3)](https://amzn.to/4pIiQMf)
+- [Tresor Compilationシリーズ（特にVol.1～Vol.3)](https://amzn.to/4pIiQMf)
 
 <hr>
 
-### Elevating the music of techno from a "temporary fad" to a "universal culture"
+### テクノという音楽を「一過性の流行」から「普遍的な文化」へと昇華
 
-More than just a club or label, Tresor is a cultural crossroads that connects Berlin's history, post-Cold War urban space, and the future of black music in Detroit.
-The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""temporary fad" to ""universal culture."
+Tresorは単なるクラブやレーベルではなく、ベルリンの歴史・冷戦後の都市空間・デトロイトの黒人音楽の未来像を結びつけた「文化的交差点」である。
+その金庫室から解き放たれた音は、今なお世界中のクラブカルチャーに鳴り響き、テクノという音楽を「一過性の流行」から「普遍的な文化」へと昇華させたのだ。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwtxAjklWUs?si=7Y2a50t-7N_ZlgpX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Related columns
+### 関連コラム
 
-🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 

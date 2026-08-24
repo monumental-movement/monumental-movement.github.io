@@ -12,13 +12,13 @@ title: Faithless – Why Go
 ---
 
 
-"Why Go?" is a song by the British electronic music group Faithless. This song is included in their second album "Sunday 8PM" (1998). Faithless is known for their unique sound, which combines elements of trance, house, and dance music.
+「Why Go?」は、イギリスのエレクトロニックミュージックグループであるFaithlessの楽曲です。この曲は、彼らのセカンドアルバム「Sunday 8PM」（1998年）に収録されています。Faithlessは、トランス、ハウス、ダンスミュージックの要素を組み合わせた独自のサウンドで知られています。
 
-"Why Go?" is an energetic and danceable track that features vocals from Caroline Wheeler and Bo Ramsden. The song is composed of vibrant rhythms, unique sampling, and emotional lyrics, representing Faithless's signature style.
+「Why Go?」は、エネルギッシュでダンサブルなトラックであり、キャロリン・ウィーラー（Caroline Wheeler）とボー・ラムスデン（Bo Bruce）の共演によるヴォーカルが特徴です。曲は鮮やかなリズム、ユニークなサンプリング、感情的な歌詞で構成されており、Faithlessの特徴的なスタイルを表しています。
 
-"Why Go?" was also a successful single after its release, reaching the top of the UK singles chart. The song has become one of their signature songs for dance music fans and Faithless fans.
+「Why Go?」は、リリース後にシングルとしても成功し、イギリスのシングルチャートで上位にランクインしました。曲はダンスミュージックファンやFaithlessのファンにとって、彼らの代表曲の一つとなりました。
 
-Faithless produced many hit songs in the 1990s and 2000s, performing at clubs and festivals around the world. Their music was danceable, yet had a message that captivated people.
+Faithlessは、1990年代から2000年代にかけて多くのヒット曲を生み出し、世界中のクラブやフェスで活躍しました。彼らの音楽はダンサブルでありながらもメッセージ性を持ち、人々を魅了しました。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ A. Why Go? (Ferry Corsten Remix)
 B. Why Go? (Lange Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m84616274474?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84616274474?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdl5x0fX3vM?si=MGK2CNjKdJUPsXjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

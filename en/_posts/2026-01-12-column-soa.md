@@ -9,21 +9,20 @@ layout: post
 tags:
 - Hardcore Punk
 - Punk
-title: '[Column] S.O.A (State Of Alert) — The first warning bell in the early days
-  of hardcore'
+title: 【コラム】 S.O.A（State Of Alert）— ハードコア黎明期に刻まれた最初の警鐘
 ---
 
 
 
-## Prologue: What the name S.O.A meant
+## 序章：S.O.Aという名前が意味したもの
 
-Text: mmr｜Theme: About music presented as the structure of time itself
+文：mmr｜テーマ：時間構造そのものとして提示されている音楽について
 
-S.O.A is a hardcore punk band formed in New York in 1980. Their active period is extremely short, and their official discography is limited. However, its existence cannot be dismissed as mere prehistory or a preparatory stage. S.O.A appeared on the border between 70"s punk and 80"s hardcore, capturing the tension, violence, and suffocation of young people in the city of New York in a way that couldn't be erased any further.
+S.O.Aは1980年、ニューヨークで結成されたハードコア・パンク・バンドである。活動期間は極めて短く、正式なディスコグラフィーも限られている。しかし、その存在は単なる前史や準備段階として片付けられるものではない。S.O.Aは、70年代パンクと80年代ハードコアの境界線上に現れ、都市ニューヨークが抱えていた緊張、暴力性、若者の閉塞感を、これ以上削れない形で音に封じ込めた。
 
-The band's name, ""State of Alert,'' is a word that means constant vigilance. Rather than being a political slogan, this was a literal expression of the state of mind of young people living in New York at the time. Economic instability, deteriorating public order, urban ruin, and a rift within the punk scene. S.O.A presented them with sonic speed and shortness without explaining them.
+バンド名である「State Of Alert」は、常時警戒態勢を意味する言葉である。これは政治的スローガンというより、当時のニューヨークに生きる若者たちの精神状態をそのまま言語化したものであった。経済不安、治安悪化、都市の荒廃、そしてパンク・シーン内部の断絶。S.O.Aは、それらを説明することなく、音速と短さで提示した。
 
-> S.O.A (State Of Alert) was a short-lived but definitive band that existed just before New York hardcore was coming into its own.
+> S.O.A（State Of Alert）は、ニューヨーク・ハードコアが自らの輪郭を獲得する直前に存在した、短命でありながら決定的なバンドである。
 
 
 ---
@@ -33,7 +32,7 @@ The band's name, ""State of Alert,'' is a word that means constant vigilance. Ra
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,106 +41,106 @@ color: #fff;
 </style>
 
 
-## Turning point from New York punk to hardcore
+## ニューヨーク・パンクからハードコアへの転換点
 
-New York punk in the late 1970s had formed its own cultural sphere around CBGB. The style presented by bands like the Ramones, Television, and Patti Smith already had international influence. On the other hand, musical vocabulary and expressions were rapidly becoming standardized, and were already becoming ""done'' for the younger generation.
+1970年代後半のニューヨーク・パンクは、CBGBを中心に独自の文化圏を形成していた。Ramones、Television、Patti Smithといったバンドが提示したスタイルは、既に国際的な影響力を持っていた。一方で、その音楽的語彙や表現は急速に定型化し、若い世代にとっては既に「出来上がったもの」になりつつあった。
 
-Around the same time, a new expression of punk was emerging in Los Angeles and Washington, D.C.: faster, shorter, and more aggressive. This movement, which was later called hardcore, steadily spread to New York. The entity that most clearly embodied that initial impulse was S.O.A.
+同時期、ロサンゼルスやワシントンD.C.では、より速く、より短く、より攻撃的な新しいパンク表現が生まれていた。後にハードコアと呼ばれるこの動きは、ニューヨークにも確実に浸透していく。その初期衝動を最も端的に体現した存在がS.O.Aであった。
 
 
-> Around 1980, when S.O.A appeared in New York, punk was established as a style, and at the same time, its limits were beginning to be exposed.
+> S.O.Aが現れた1980年前後のニューヨークは、パンクが様式として固定され、同時に限界を露呈し始めていた時代であった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c5k0OpmN1g4?si=ZMNmS5pIqB33l_Wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Member composition and history of formation
+## メンバー構成と結成の経緯
 
-The central figure of S.O.A is Henry Rollins. Rollins, later known as the frontman of Black Flag, was at this point a young man from Washington, D.C., and joined S.O.A while in New York. Although his style as a vocalist was immature compared to his later expressions, it already possessed an extreme sense of urgency and directness.
+S.O.Aの中心人物はヘンリー・ロリンズである。後にBlack Flagのフロントマンとして知られるロリンズは、この時点ではワシントンD.C.出身の若者であり、ニューヨーク滞在中にS.O.Aへ参加した。ボーカルとしての彼のスタイルは、後年の表現に比べれば未成熟であるが、既に極端な切迫感と直接性を備えていた。
 
-The guitar, bass, and drum members were also closely connected to the New York underground punk scene, and later moved on to other important bands. This structure of being ""dismantled in a short period of time and rebuilt in a different form'' was itself a characteristic of the hardcore scene of the early 1980s.
+ギター、ベース、ドラムのメンバーも、ニューヨーク・アンダーグラウンドのパンク・シーンと密接に結びついており、のちに他の重要バンドへ流動していく。この「短期間で解体し、別の形で再構築される」という構造自体が、80年代初頭のハードコア・シーンの特徴であった。
 
-> S.O.A functions as a mother body that gives birth to multiple subsequent bands, and its network influence is out of proportion to its short period of activity.
-
----
-
-## Sound features: speed and reduction
-
-S.O.A's music is not oriented toward performance technique or complexity. Most of the songs last around one minute, and there are almost no introductions or development elements. The drums serve to push the beat forward rather than drive it, and the guitar is more on the border between noise and rhythm than a riff.
-
-This musicality is different from the "heaviness" and "groove" of later New York hardcore, and is rather closer to the early impulses of D.C. hardcore. However, S.O.A's sound has the dry tension typical of urban New York, and the immediate outpouring of emotion is more at the forefront than politics.
-
-> S.O.A's songs exist as a result of excision rather than construction.
+> S.O.Aは複数の後続バンドを生む母体として機能し、その人脈的影響力は活動期間の短さと比例しない。
 
 ---
 
-## Lyrics and expression stance
+## サウンドの特徴：速さと削減
 
-S.O.A's lyrics are short and direct, with little use of metaphor or narrative. What is depicted here is a fragmented sense of oppression, anger, and self-defense. It does not explicitly prescribe any particular political ideology or social movement, but rather focuses on reflexive reactions to the circumstances in which individuals find themselves.
+S.O.Aの音楽は、演奏技術や複雑さを志向しない。楽曲の多くは1分前後で終わり、イントロや展開といった要素はほとんど存在しない。ドラムはビートを刻むというより、前方に押し出す役割を担い、ギターはリフというよりノイズとリズムの境界に位置している。
 
-This attitude differs from later straight edge and political hardcore. S.O.A existed at a stage before it had developed its ideology, and was emitting unexpressed anxiety and violence as sound.
+この音楽性は、後のニューヨーク・ハードコアにおける「重さ」や「グルーヴ」とは異なり、むしろD.C.ハードコアの初期衝動に近い。しかし、S.O.Aの音には都市ニューヨーク特有の乾いた緊張感があり、政治性よりも即時的な感情の噴出が前面に出ている。
 
-> S.O.A's lyrics do not explain the message, leaving only the emotional pressure.
+> S.O.Aの楽曲は、構築というより切除の結果として存在している。
 
 ---
 
-## No Policy E.P.: The only official sound source
+## 歌詞と表現のスタンス
+
+S.O.Aの歌詞は短く、直接的であり、比喩や物語性はほとんど用いられない。そこに描かれるのは、抑圧、怒り、自己防衛といった断片的な感覚である。特定の政治思想や社会運動を明確に指示することはなく、むしろ個人が置かれた状況への反射的な反応が中心となっている。
+
+この姿勢は、後年のストレートエッジや政治的ハードコアとは異なる。S.O.Aは、思想を構築する前段階に存在し、まだ言葉にならない不安や暴力性を、そのまま音として放出していた。
+
+> S.O.Aの歌詞はメッセージを説明せず、感情の圧力だけを残す。
+
+---
+
+## No Policy E.P.：唯一の公式音源
 
 The only official sound source left by S.O.A is **No Policy E.P.**, which was released as a 7-inch disc. This work condenses S.O.A's musical characteristics. All the songs are extremely short, the recordings are rough, and there are no decorations.
 
-No Policy E.P. is not a work that is evaluated for its completeness or sound quality. Its value lies in the fact that it preserves the early state of hardcore in New York at the time in an unprocessed form. 7inch has become an important reference point when considering how structured and institutionalized hardcore became in later years.
+No Policy E.P.は、完成度や音質で評価される作品ではない。その価値は、当時のニューヨークにおけるハードコアの初期状態を、加工されていない形で保存している点にある。この7inchは、後年のハードコアがどれほど構造化され、制度化されていったかを考える上で、重要な基準点となっている。
 
-> No Policy E.P. is the only definitive record of the existence of S.O.A.
+> No Policy E.P.は、S.O.Aの存在を現在に伝える唯一の確定した記録である。
 
 ---
 
-## Live activities and dissolution
+## ライブ活動と解散
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-13jO7QKlU?si=R9wljIejBr65O4Lt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-S.O.A's live activities were short-lived and the venues were limited. They primarily performed in small clubs and DIY spaces, and were only known within the New York punk scene at the time. At live performances, the emphasis was on the energy of collision rather than musical perfection, and the distance from the audience was extremely close.
+S.O.Aのライブ活動は短期間で、会場も限られていた。主に小規模なクラブやDIY的なスペースで演奏し、当時のニューヨーク・パンク・シーン内部でのみ知られる存在であった。ライブでは、音楽的完成度よりも衝突のエネルギーが重視され、観客との距離は極端に近かった。
 
-The band disbanded around 1981. The reason for the group's disbandment is more like a spontaneous disappearance due to the movement of members and changes in their interests, rather than a specific incident. However, this dissolution does not end S.O.A. Instead, it spreads in a different way.
+バンドは1981年頃に解散する。解散理由は特定の事件というより、メンバーの移動と関心の変化による自然消滅に近い。だが、この解散によってS.O.Aは終わるのではなく、別の形で拡散していく。
 
-> S.O.A was a live band and was more present in the field than on record.
+> S.O.Aはライブ・バンドであり、記録よりも現場に存在した。
 
 
 ---
 
-## Flow derived from S.O.A
+## S.O.Aから派生した流れ
 
 
-Henry Rollins joins Black Flag after S.O.A disbands. There, he acquired a more sustained and structured expression. On the other hand, members of the New York side and surrounding figures became involved in the formation of the scene that led to Agostic Front and Cro-Mags.
+ヘンリー・ロリンズはS.O.A解散後、Black Flagへ加入する。そこで彼は、より持続的で構造化された表現を獲得していく。一方、ニューヨーク側のメンバーや周辺人物は、Agostic FrontやCro-Magsへと連なるシーン形成に関与していく。
 
-S.O.A itself is rarely talked about as a representative of New York hardcore. However, as a record of that ""nobody phase,'' it provides important clues for understanding what subsequent bands inherited and what they discarded.
+S.O.A自体はニューヨーク・ハードコアの代表格として語られることは少ない。しかし、その「何者でもない段階」の記録として、後続のバンドが何を引き継ぎ、何を捨てたのかを理解するための重要な手がかりを提供している。
 
-> S.O.A functioned as a turning point, not an end point.
+> S.O.Aは終点ではなく分岐点として機能した。
 
 ---
 
 ## Position in New York Hardcore History
 
 
-New York hardcore has had a distinct style and aesthetic since the mid-1980s. However, S.O.A existed at a previous stage, embodying music that had not even been given a name yet.
+ニューヨーク・ハードコアは、1980年代半ば以降、明確なスタイルと美学を持つようになる。しかしS.O.Aは、その前段階に存在し、まだ名称すら定着していない状態の音楽を体現していた。
 
-Therefore, it is difficult to evaluate S.O.A independently. However, S.O.A is indispensable for understanding what was going on before hardcore had a norm of ""this is how things should be''.
+そのため、S.O.Aを単独で評価することは難しい。しかし、ハードコアが「こうでなければならない」という規範を持つ以前に、何が起きていたのかを知る上で、S.O.Aは欠かせない存在である。
 
-> S.O.A captures the genre at its most volatile moment, before it was defined.
+> S.O.Aはジャンルの定義が固まる前の、最も不安定な瞬間を切り取っている。
 
 ---
 
-## Chronology
+## 年表
 
 
-1980 S.O.A formed in New York
-1980 Live activities started
-1981 7inch No Policy E.P. released
-1981 Suspension of activities/de facto dissolution
+1980年　ニューヨークにてS.O.A結成
+1980年　ライブ活動開始
+1981年　7inch盤 No Policy E.P. リリース
+1981年　活動停止・事実上の解散
 After 1981, members dispersed to various hardcore bands.
 
-> Although S.O.A's activities are short, they closely overlap with the changes of the times.
+> S.O.Aの活動は短いが、時代の変化と密接に重なっている。
 
-## Relationship diagram centered on S.O.A
+## S.O.Aを中心とした関係図
 
 <div class="mermaid">
 graph TD
@@ -156,11 +155,11 @@ E --> G[Cro-Mags]
 ---
 
 
-## Conclusion: Sounds left on alert
+## 結語：警戒態勢のまま残された音
 
-> S.O.A was not a completed work, but an alarm sound itself.
+> S.O.Aは完成された作品ではなく、警報音そのものであった。
 
-S.O.A does not aim for success or sustainability. However, its fleeting existence most directly shows the sense of urgency from which hardcore music was born. The few minutes of sound that make up No Policy E.P. retain the raw, raw impulse that predated the genre's institutionalization.
+S.O.Aは、成功も持続も目指していない。だが、その一瞬の存在は、ハードコアという音楽がどのような切迫感から生まれたのかを、最も直接的に示している。No Policy E.P.に刻まれた数分間の音は、ジャンルが制度化される以前の、生身の衝動を今も保ち続けている。
 
 
 ---
@@ -168,7 +167,7 @@ S.O.A does not aim for success or sustainability. However, its fleeting existenc
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRw2ca69HEE?si=DgdHJa6W9lfzkhsb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -14,17 +14,17 @@ title: DHS – Attention Earth People Select Tracks
 
 DHS (Dimensional Holofonic Sound) is a project by producer Benjamin Stokes, known for its unique sound and innovative approach to electronic music.
 
-Since 1988, DHS has been creating music, visuals, and live shows.
+1988年から、DHSは音楽、ビジュアル、ライブショーを作り続けています。
 
-This EP is a collection of a selection of DHS tracks, and is a wonderful EP that includes special versions of DHS's pioneering style, musical diversity, and evolution.
+このEPは、DHSのトラックを選りすぐった作品の集合体であり、その先駆的なスタイルと音楽の多様性、進化を感じれる一枚で特別バージョンを収録した素晴らしいEPです。
 
-The full-size LP was never pressed, so this is the only way these songs are available on vinyl.
+フルサイズのLPはプレスされなかったので、これらの曲をヴァイナルで入手できる唯一の方法です。
 
-A fusion of electro and breakbeat, with a very distinctive funky synchronicity that can be seen throughout the album and in other works by Ben Stokes.
+エレクトロとブレイクビーツが融合し、非常に特徴的なファンキーなシンクロペーションが全編を通して、そしてベン・ストークスの他の作品でも見られます。
 
-Due to demand and rising prices, this record is expensive, but compared to a record with just one good song, it's well worth it.
+需要と価格の高騰により、このレコードは高価ですが、1曲だけ良い曲が入っているだけのレコードと比べれば、その価値は十分にあります。
 
-This EP, or mini-album, is top-notch from start to finish, with no wasted songs and absolutely full of killer tunes.
+このEP、もしくはミニアルバムは最初から最後まで最高級の一枚で、無駄な曲がなく、完全にキラーチューンが満載です。
 
 #### Tracklist
 ```md

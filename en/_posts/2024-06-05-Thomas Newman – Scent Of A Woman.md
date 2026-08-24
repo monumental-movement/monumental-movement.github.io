@@ -14,13 +14,13 @@ title: Thomas Newman – Scent Of A Woman
 ---
 
 
-Tracks A1-A6, A8-A10, B1-B2, and B4-B7 were composed by American composer Thomas Newman. Thomas Newman has created scores for numerous films, including The Shawshank Redemption, American Beauty, The Green Mile, Finding Nemo, Wall-E, Skyfall, and Specter.
+トラックA1〜A6、A8〜A10、B1〜B2、B4〜B7は、アメリカ出身の作曲家Thomas Newman（トーマス・ニューマン）が手がけた。 トーマス・ニューマンは、『ショーシャンクの空に』、『アメリカン・ビューティー』、『グリーンマイル』、『ファインディングニモ』、『ウォーリー』、『007 スカイフォール』、『007 スペクター』、など、数々の映画音楽を製作している。
 
-Tracks A7 and B3 are also by the American band The Tango Project.
+トラックA7、B3は、アメリカのバンドThe Tango Projectもよるもの。
 
-Movie "Scent of Woman/Scent of Dreams"
+映画「セント・オブ・ウーマン/夢の香り」
 
-Original soundtrack cassette tape
+オリジナルサウンドトラック　カセットテープ
 
 #### Tracklist
 ```md
@@ -44,7 +44,7 @@ B6. Fleurs De Rocaille
 B7. End Title
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

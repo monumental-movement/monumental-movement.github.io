@@ -15,8 +15,8 @@ title: Rino Cerrone – Exact Moment EP
 
 Rino Cerrone is an Italian techno/tech house DJ and producer based in Naples since 1990. (Death in 2024)
 
-"Exact Moment EP" is a Techno/Tech House track released in 2002 on the Bernese label Phont Music.
-The end of A2 & B1 is a locked groove.
+「Exact Moment EP」は、2002年にスイス・ベルンのレーベルPhont MusicからリリースされたTechno ・ Tech Houseトラック。
+A2 & B1 の最後はlocked groove(ロックド・グルーヴ)になっている。
 
 #### Tracklist
 ```md

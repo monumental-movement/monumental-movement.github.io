@@ -12,7 +12,7 @@ title: Cássia Eller – Participaçāo Especial
 ---
 
 
-A collection of duets by Kasia Herrere and famous artists of MPB and Brazilian pop. It was released in 2002, after her death.
+カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
 
 #### Tracklist
 ```md

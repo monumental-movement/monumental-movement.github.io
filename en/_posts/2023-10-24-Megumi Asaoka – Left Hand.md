@@ -9,17 +9,17 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: Megumi Asaoka – My boyfriend is left-handed
+title: 麻丘めぐみ – わたしの彼は左きき
 ---
 
 
-"Megumi Asaoka – My Boyfriend is Left-handed" was released in 1973.
+「麻丘めぐみ – わたしの彼は左きき」は、1973年にリリースされました。
 
-Lyrics – Kazuya Senke
+歌詞– 千家和也
 
-Music & Arrangement – ​​Kyohei Tsutsumi
+ミュージック＆アレンジ – 筒美京平
 
-Recording member (guitar) – Masayoshi Takanaka
+レコーディングメンバー(ギター) – 高中正義
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ A. わたしの彼は左きき
 B. ひとりの私
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m39210707763?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39210707763?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jUC6W77bMtc?si=K0RVqI7KgFQtMRm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

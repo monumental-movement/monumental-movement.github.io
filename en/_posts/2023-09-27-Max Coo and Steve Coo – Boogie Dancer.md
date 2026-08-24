@@ -13,9 +13,9 @@ title: Max Coo & Steve Coo – Boogie Dancer
 ---
 
 
-This work, released by Asia Records in 1990, is by the unit "Max Coo & Steve Coo" by COO COO, famous for the hit "UPSIDE DOWN".
+1990年にAsia Recordsからリリースされた本作はUPSIDE DOWNのヒットで有名なCOO COOによるユニット「Max Coo & Steve Coo」のもの。
 
-The promised Eurobeat by MAURO FARINA.
+MAURO FARINAによるお約束のユーロビートです。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ B2. Boogie Dancer (Milan Mix)
 B3. Boogie Dancer (Verona Beat)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2aa9cdokyxY?si=bydcBm18OZ8MwCyr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

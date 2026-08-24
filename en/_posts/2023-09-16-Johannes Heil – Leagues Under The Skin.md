@@ -12,9 +12,9 @@ title: Johannes Heil – Leagues Under The Skin
 ---
 
 
-Johannes Heil's music is characterized by a dark, emotional atmosphere, powerful beats, and unique sound design.
+ヨハネス・ハイルの音楽は、ダークでエモーショナルな雰囲気&力強いビートと独特なサウンドデザインが特徴です。
 
-His tracks are highly acclaimed in the techno and underground music scene, and are known for their unique sound style and energy.
+彼のトラックはテクノミュージックシーンやアンダーグラウンドシーンで高い評価を受けており、その独自のサウンドスタイルとエネルギーが魅力とされています。
 
 
 #### Tracklist
@@ -38,7 +38,7 @@ D1  20.000 Leagues Under The Skin Pt.10
 D2  20.000 Leagues Under The Skin Pt.01
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m88455250151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88455250151?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b578n6nGPTw?si=FLBzLF9JjEySdQBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

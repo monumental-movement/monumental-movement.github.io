@@ -10,22 +10,21 @@ tags:
 - Anime
 - Cyberpunk
 - EDM
-title: '[Column] Cyberpunk: Edgerunners — The day the anime brought its song back
-  to number one in the world'
+title: '【コラム】 Cyberpunk: Edgerunners —— アニメが楽曲を世界1位へ戻した日'
 ---
 
 
 
-## Case studies where anime works re-emerged existing songs into global hits
+## アニメ作品が既存楽曲を世界的ヒットへ再浮上させた事例
 
-Text: mmr｜Theme: Structural analysis of how anime works resurfaced existing songs into global hits
+文：mmr｜テーマ：アニメ作品が既存楽曲を世界的ヒットへ再浮上させた構造分析
 
-""Cyberpunk: Edgerunners" is an anime series based on the world of the game ""Cyberpunk 2077."
-It will be distributed simultaneously worldwide on Netflix in September 2022, and the song "I Really Want to Stay at Your House" used in the movie became a worldwide hit again after its distribution.
+『Cyberpunk: Edgerunners』は、ゲーム『Cyberpunk 2077』の世界観を基盤に制作されたアニメシリーズである。
+2022年9月にNetflixで全世界同時配信され、劇中で使用された楽曲「I Really Want to Stay at Your House」が配信後に世界的再ヒットを記録した。
 
-This work is positioned as a representative example of how game IP, animation production, global distribution, and the streaming economy intersect to push an existing song back to the top of the charts.
+本作は、ゲームIP・アニメ演出・グローバル配信・ストリーミング経済が交差し、既存楽曲を再びチャート上位へ押し上げた代表的事例として位置づけられる。
 
-> This was not just an anime hit, but an event that signaled a change in the music distribution structure itself.
+> これは単なるアニメヒットではなく、音楽流通構造そのものの変化を示した出来事だった。
 
 
 ---
@@ -35,7 +34,7 @@ This work is positioned as a representative example of how game IP, animation pr
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,38 +45,38 @@ color: #fff;
 
 ## overview
 
-- Original game: Cyberpunk 2077 (released in 2020)
+- 原作ゲーム：Cyberpunk 2077（2020年発売）
 - Anime distribution start: September 2022
 - Production studio: TRIGGER
-- Distribution platform: Netflix
-- Re-hit song: I Really Want to Stay at Your House
-- Artist: Rosa Walton
+- 配信プラットフォーム：Netflix
+- 再ヒット楽曲：I Really Want to Stay at Your House
+- アーティスト：Rosa Walton
 
 ---
 
 ## History
 
-### Birth as an in-game song (2020)
+### ゲーム内楽曲としての誕生（2020年）
 
-In December 2020, "Cyberpunk 2077" developed by CD PROJEKT RED was released.
-The game is an open world RPG set in the fictional city of Night City, and there are multiple radio stations within the game.
+2020年12月、CD PROJEKT REDが開発した『Cyberpunk 2077』が発売された。
+同作は架空都市ナイトシティを舞台にしたオープンワールドRPGであり、ゲーム内には複数のラジオ局が存在する。
 
-"I Really Want to Stay at Your House" was a song recorded on one of those radio stations, "Body Heat Radio."
-The song was created by Rosa Walton and played in-game under a fictitious artist name.
+「I Really Want to Stay at Your House」は、そのラジオ局のひとつ「Body Heat Radio」に収録された楽曲だった。
+楽曲はRosa Waltonによって制作され、ゲーム内では架空アーティスト名義で流れていた。
 
-When it was first released, this song received some praise, but it did not reach the scale that it dominated the global charts.
+発売当初、この曲は一定の評価を受けたが、世界的チャートを席巻する規模には至らなかった。
 
-### Animation and narrative rearrangement (2022)
+### アニメ化と物語的再配置（2022年）
 
-"Cyberpunk: Edgerunners" will begin distribution on Netflix in September 2022.
-Produced by TRIGGER, directed by Hiroyuki Imaishi.
-Consisting of 10 episodes, the original story is set in the same Night City as the game.
+2022年9月、『Cyberpunk: Edgerunners』がNetflixで配信開始。
+制作はTRIGGER、監督は今石洋之。
+全10話構成で、ゲームと同じナイトシティを舞台にオリジナルストーリーが展開された。
 
-"I Really Want to Stay at Your House" is used in an important scene later in the story.
-It was inserted into a scene that symbolizes the relationship between the main characters David and Lucy, and it strongly connected with the emotions of viewers.
+物語後半で「I Really Want to Stay at Your House」は重要な場面に使用された。
+主人公デイビッドとルーシーの関係性を象徴するシーンに挿入され、視聴者の感情と強く結びついた。
 
-Immediately after its release, the number of streams for the song skyrocketed.
-It has resurfaced on Spotify's Viral chart and rankings in various countries.
+配信直後から、楽曲のストリーミング数は急上昇。
+SpotifyのViralチャートや各国ランキングで再浮上を記録した。
 
 <div class="mermaid">
 graph TD
@@ -88,29 +87,29 @@ D --> E[Streaming Surge]
 E --> F[Chart Re Entry]
 </div>
 
-### Expansion of re-hits
+### 再ヒットの拡大
 
-After the distribution began, it was reported that the number of plays increased by tens of millions on Spotify, and it entered the charts in multiple regions including the US and UK.
-It also appeared on Billboard's Global Ranking.
+配信開始後、Spotifyで数千万単位の再生増加が報告され、米国・英国を含む複数地域でチャート入り。
+BillboardのGlobalランキングにも登場した。
 
-This phenomenon differs from TV theme song type hits in that existing songs are redefined according to the narrative context.
+この現象は、テレビ主題歌型ヒットとは異なり、既存曲が物語的文脈によって再定義された点に特徴がある。
 
-> The song was rediscovered as part of the story, not as the anime's "theme song."
+> 楽曲はアニメの“主題歌”ではなく、物語の一部として再発見された。
 
 ---
 
-## Song structure and acoustic characteristics
+## 楽曲構造と音響的特性
 
-"I Really Want to Stay at Your House" has elements of synthwave and electropop.
+「I Really Want to Stay at Your House」はシンセウェーブとエレクトロポップの要素を持つ。
 
-The characteristics are as follows.
+特徴は以下の通り。
 
-・Stable mid-tempo beat
-・Spatial synth pad
-・A jumping melody with a chorus that emphasizes emotion
-・Repetitive and memorable phrases
+・ミッドテンポの安定したビート
+・空間的なシンセパッド
+・感情を強調するサビの跳躍旋律
+・反復的で記憶に残るフレーズ
 
-The sound is highly compatible with the cyberpunk urban feel, evoking a sense of the near future and nostalgia at the same time.
+サウンドはサイバーパンク的都市感覚と親和性が高く、近未来とノスタルジアを同時に喚起する。
 
 <div class="mermaid">
 flowchart TD
@@ -119,19 +118,19 @@ B --> C[Vocal Hook]
 C --> D[Emotional Climax]
 </div>
 
-The moment the song overlapped with the final footage of the anime, it changed from just an insert song to a symbolic motif.
+アニメ終盤の映像と重なった瞬間、この楽曲は単なる挿入歌から象徴的モチーフへと変化した。
 
-> The meaning was expanded not by the music alone, but by combining it with the story.
+> 音楽単体ではなく、物語との結合が意味を拡張させた。
 
 ---
 
-## Netflix effect and global simultaneous distribution
+## Netflix効果とグローバル同時配信
 
-Netflix simultaneously distributes in over 190 countries.
-There are no regional release time differences, so the viewing experience is shared almost simultaneously.
+Netflixは190カ国以上で同時配信を行う。
+地域ごとの公開時差が存在しないため、視聴体験がほぼ同時に共有される。
 
-As a result, SNS posts, clipping videos, and reaction videos were concentrated in a short period of time.
-The algorithm reacted and the song was automatically spread to the recommendation area.
+その結果、SNS投稿・切り抜き動画・リアクション動画が短期間で集中。
+アルゴリズムが反応し、楽曲は自動的にレコメンド領域へ拡散した。
 
 <div class="mermaid">
 graph TD
@@ -142,87 +141,87 @@ D --> E[Playlist Inclusion]
 E --> F[Chart Surge]
 </div>
 
-This chain is a diffusion model unique to the streaming era.
+この連鎖は、ストリーミング時代ならではの拡散モデルである。
 
-> Simultaneous worldwide experience accelerated the song's re-hit status.
+> 世界同時体験が、楽曲の再ヒットを加速させた。
 
 ---
 
-## Cultural spillover
+## 文化的波及
 
-### Anime x existing song re-evaluation model
+### アニメ×既存曲の再評価モデル
 
-In recent years, there have been an increasing number of cases in which video works resurface past songs.
-Running Up That Hill once again became a worldwide hit in the Netflix series Stranger Things.
+近年、映像作品が過去曲を再浮上させる事例は増えている。
+Netflixシリーズ『Stranger Things』では、Running Up That Hillが再び世界的ヒットとなった。
 
-However, Edgerunners is unique in that it has a three-stage structure in which the in-game songs are reevaluated by the anime.
+しかしEdgerunnersは、ゲーム内楽曲がアニメによって再評価されるという三段階構造を持つ点で特異である。
 
-Games → Anime → Streaming re-explosion
+ゲーム → アニメ → ストリーミング再爆発
 
-This trend is being analyzed as a successful example of a cross-IP strategy.
+この流れはIP横断型戦略の成功例として分析されている。
 
-### Refocusing on synthwave
+### シンセウェーブの再注目
 
-The acoustics of the song are based on 1980s synth sounds.
+楽曲の音響は1980年代的シンセサウンドを基盤に持つ。
 Due to its affinity with the cyberpunk worldview, interest in the genre itself has increased.
 
 After the anime was released, it was also confirmed that related playlists and similar artists were affected.
 
-> It also influenced the re-evaluation of the music genre itself.
+> 音楽ジャンルそのものの再評価にも影響を与えた。
 
 ---
 
-## Chronology
+## 年表
 
-* December 2020: Cyberpunk 2077 released
-* September 13, 2022: Cyberpunk: Edgerunners distribution begins
-* Mid-September 2022: Spotify Viral chart soars
-* Fall 2022: Re-emergence on the charts in multiple countries
-* 2023: Continuous long tail regeneration
+* 2020年12月：Cyberpunk 2077発売
+* 2022年9月13日：Cyberpunk: Edgerunners配信開始
+* 2022年9月中旬：Spotify Viralチャート急上昇
+* 2022年秋：複数国でチャート再浮上
+* 2023年：継続的ロングテール再生
 
-> A song that had been dormant for two years was restarted through the story.
+> 2年間眠っていた楽曲が、物語を通じて再起動した。
 
 ---
 
 ## Structural changes in the streaming era
 
 Traditionally, hits peaked immediately after release.
-However, currently, time-lag hits occur due to content linkage.
+しかし現在は、コンテンツ連動により時間差ヒットが発生する。
 
-The characteristics are below.
+特徴は以下。
 
-・Global simultaneous viewing
-・Algorithm-driven diffusion
-・SNS derivative works
-・Cross-IP deployment
+・グローバル同時視聴
+・アルゴリズム主導拡散
+・SNS二次創作
+・IP横断展開
 
-Edgerunners is a prime example.
+Edgerunnersはその代表的事例である。
 
-> A hit occurs not on the release date, but the moment the context is created.
+> ヒットは発売日ではなく、文脈が生まれた瞬間に発生する。
 
 ---
 
 ## FAQ
 
-### Why has it become a global hit again?
+### なぜ世界的に再ヒットしたのか
 
-The song has a strong connection to the emotional climax of the story.
-Furthermore, the simultaneous distribution of Netflix and the spread of streaming overlapped.
+物語の感情的クライマックスと楽曲が強く結びついたこと。
+さらにNetflixの同時配信とストリーミング拡散が重なったため。
 
-### Was it a new song?
+### 新曲だったのか
 
-The song was produced in 2020.
-This is an existing song that was reevaluated due to the anime.
+楽曲は2020年制作。
+アニメによって再評価された既存曲である。
 
-### What does being number 1 in the world mean?
+### 世界1位とは何を指すのか
 
-This refers to the song reaching number one in multiple regions, such as on the Spotify Viral chart.
+Spotify Viralチャートなどで複数地域1位を記録したことを指す。
 
-### Will similar phenomena occur in the future?
+### 今後も同様の現象は起きるか
 
-If cross-IP deployment increases, the possibility of reproduction is high.
+IP横断型展開が増えれば再現可能性は高い。
 
-> The day the anime brought the song back to number one in the world was an event that symbolized a new era in music distribution.
+> アニメが曲を世界1位に戻した日は、音楽流通の新時代を象徴する出来事だった。
 
 
 ---

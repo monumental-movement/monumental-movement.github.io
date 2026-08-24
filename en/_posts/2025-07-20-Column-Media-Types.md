@@ -10,63 +10,62 @@ tags:
 - CD
 - Cassette
 - History
-title: '[Column] "From the sound of a needle to streaming, sound continues to live
-  on through time." From the era of rewind to the era of infinite skip'
+title: 【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 巻き戻しの時代から無限スキップの時代へ
 ---
 
 
 ## Changes and comparisons of music media: Sales of records, cassettes, CDs, and MDs, frequency characteristics, future trends, and the emergence of Dolby Atmos
 
 
-Text: mmr｜Theme: Historical comparison of music media and prospects for the latest technology
+文：mmr｜テーマ：音楽メディアの歴史的比較と最新技術展望
 
 
 
 <hr>
 
-### Historical sales comparison of music media
-Over the past few decades, music media has undergone rapid technological innovation and diversification. Here we will provide an overview of global sales estimates for the major physical media: records (analog LPs), cassette tapes, CDs, and MDs.
+### 音楽メディアの歴史的売上比較
+過去数十年にわたり、音楽メディアは急速な技術革新を遂げ、多様化した。ここでは主要な物理メディアであるレコード（アナログLP）・カセットテープ・CD・MDの世界的な売上推定を概観する。
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Media</th>
-<th>Cumulative global sales (estimated)</th>
-<th>Peak period</th>
-<th>Comments</th>
-</tr>
+  <thead>
+    <tr>
+      <th>メディア</th>
+      <th>世界累計売上（推定）</th>
+      <th>ピーク時期</th>
+      <th>コメント</th>
+    </tr>
 </thead>
 <tbody>
-<tr>
-<td>Record (LP)</td>
-<td>About 3 billion copies (including reprints)</td>
-<td>Resurgence in the 1970s and 2010s Maximum market share in the 1970s. </td>
-<td>Recently, it is recovering due to vintage demand</td>
+    <tr>
+      <td>レコード（LP）</td>
+      <td>約30億枚（復刻含む）</td>
+      <td>1970年代、2010年代以降再燃 1970年代に最大シェア。</td>
+      <td>近年はヴィンテージ需要で回復中</td>
 </tr>
-<tr>
-<td>Cassette tape</td>
+    <tr>
+      <td>カセットテープ</td>
 <td>About 5 billion or more</td>
-<td>Mid to late 1980s It was at its peak in the 1980s and 1990s. </td>
-<td> Popularized due to the Walkman effect. Currently niche</td>
+      <td>1980年代中〜後半  1980〜90年代に全盛。</td>
+      <td>ウォークマン効果で普及。現在はニッチ</td>
 </tr>
 <tr>
-<td>CD</td>
+      <td>CD</td>
 <td>About 30 billion pieces or more</td>
-<td>1990s to early 2000s</td>
-<td>It became explosively popular in the 1990s and became the world's main music media</td>
-</tr>
-<tr>
-<td>MD (Mini Disc)</td>
-<td>tens of millions to hundreds of millions of copies (limited)</td>
-<td>Late 1990s to early 2000s</td>
-<td>It was particularly popular in Japan, but limited on a global scale. Currently in decline</td>
-</tr>
-</tbody>
+      <td>1990年代〜2000年代初頭</td>
+      <td>1990年代に爆発的に普及し、世界の主力音楽メディアに</td>
+    </tr>
+    <tr>
+      <td>MD（ミニディスク）</td>
+      <td>数千万枚〜数億枚（限定的）</td>
+      <td>1990年代後半〜2000年代前半</td>
+      <td>日本で特に支持されたが、世界規模では限定的。現在は衰退</td>
+    </tr>
+  </tbody>
 </table>
 </div>
 
-*Sales figures are estimates based on multiple sources, and there are regional and age differences.
+※売上数字は複数ソースを参考にした概算で、地域差や年代差が存在します。
 
 
 <hr>
@@ -78,41 +77,41 @@ Over the past few decades, music media has undergone rapid technological innovat
 
 #### Record (Analog LP)
 
-Frequency characteristics: Approximately 20Hz to 20kHz (theoretical value)
+周波数特性：約20Hz〜20kHz（理論値）
 
-Features: Feel the overtones, warmth, and natural distortion that are unique to analog. It is easily influenced by the condition of the needle and press quality, and there is a lot of noise.
+特徴：アナログ特有の倍音成分や暖かみ、自然な音の歪みを感じる。針の状態やプレス品質に左右されやすくノイズも多い。
 
-Spectrogram trend:
+スペクトログラム傾向：
 
-High frequencies (15kHz~) are gradually attenuated
+高域（15kHz〜）はなだらかに減衰
 
-The low range is rich, but fluctuations may occur due to uneven rotation and stylus pressure.
+低域は豊かだが、回転ムラや針圧による揺らぎが生じることあり
 
-Noise (crackling, siren) randomly distributed
+ノイズ（パチパチ、サー音）がランダムに分布
 
-Hearing style: Soft, smooth, and warm, with a tendency to accept noise and distortion as "taste."
+聴こえ方：柔らかく、滑らかで温かみがあり、ノイズや歪みが「味」として受け入れられる傾向。
 
 
 
 <hr>
 
-#### Cassette tape
+#### カセットテープ
 
 Frequency characteristics: Approximately 30Hz to 12kHz for normal tape, approximately 30Hz to 18kHz for metal tape
 
-Characteristics: Depends on the magnetic properties of the tape and the quality of the head. Sound quality is likely to deteriorate due to hiss and tape wear.
+特徴：テープの磁気特性やヘッドの品質に依存。ヒスノイズやテープ摩耗による音質劣化が起きやすい。
 
-Spectrogram trend:
+スペクトログラム傾向：
 
-High range suddenly rolls off (especially normal tape)
+高域は急激にロールオフ（特にノーマルテープ）
 
-Mid-low range is relatively stable
+中低域は比較的安定
 
-Hiss noise of around -50dB always spreads to high frequencies
+常に-50dB程度のヒスノイズが高域に広がる
 
-Using Dolby NR reduces some high-frequency noise, but the roundness of the sound remains.
+ドルビーNR使用で一部高域ノイズは軽減されるが、音の丸みは残る
 
-Hearing: Slightly muffled, with modest high frequencies. It's soft and warm, but the noise is noticeable.
+聴こえ方：ややこもり気味で高音域は控えめ。柔らかく温かいが、ノイズも目立つ。
 
 
 
@@ -120,37 +119,37 @@ Hearing: Slightly muffled, with modest high frequencies. It's soft and warm, but
 
 #### CD (compact disc)
 
-Frequency characteristics: 20Hz to 20kHz (44.1kHz sampling)
+周波数特性：20Hz〜20kHz（44.1kHzサンプリング）
 
 Features: Because it is a digital sound source, there is little noise, flat and clear sound quality.
 
-Spectrogram trend:
+スペクトログラム傾向：
 
-Frequency response is nearly flat up to 20kHz
+20kHzまでフラットに近い周波数特性
 
-Very low noise floor, almost no unnecessary sound components
+ノイズフロアが非常に低く、不要音成分がほぼなし
 
-Even sudden sounds are reproduced without distortion.
+突発的な音でも歪まず再現される
 
-Hearing: Clear and high resolution, but analog warmth is often lacking.
+聴こえ方：クリアで解像度が高いが、アナログ的な暖かみは薄い場合が多い。
 
 
 
 <hr>
 
-#### MD (Mini Disc)
+#### MD（ミニディスク）
 
-Frequency response: 20Hz to 20kHz (with ATRAC compression)
+周波数特性：20Hz〜20kHz（ATRAC圧縮あり）
 
-Features: Sound quality is close to that of a CD, but due to the compression method some detailed information may be lost.
+特徴：CDに近い音質だが圧縮方式のため一部の細部情報が失われる可能性がある。
 
-Spectrogram trend:
+スペクトログラム傾向：
 
-Low to mid range reproducibility close to CD
+低〜中域はCDに近い再現性
 
-High frequency attenuates early at around 17-18kHz (effect of data compression)
+高域は17〜18kHz程度で早めに減衰（データ圧縮の影響）
 
-Transient components often appear "blurred"
+しばしばトランジェント成分が「ぼやけて」再現される
 
 Hearing: Almost clear, but compared to a CD it may feel a little compressed.
 
@@ -159,32 +158,32 @@ Hearing: Almost clear, but compared to a CD it may feel a little compressed.
 
 <hr>
 
-### Current status and future trends of each media
+### 各メディアの現状と今後の動向
 
 
 <hr>
 
-#### Records
+#### レコード
 
 Current situation: Globally, sales of analog records are steadily recovering, centered on vintage demand and sound quality-oriented demographics. Analogue regression is particularly noticeable among young people.
 
-Future: A small but sustainable market is expected with the support of analog sound source enthusiasts. Hybrid products (analog + digital) are also available.
+今後：アナログ音源の愛好者層の支持で小規模ながら持続的な市場が期待される。ハイブリッド製品（アナログ＋デジタル）も登場。
 
 
 <hr>
 
-#### Cassette tape
+#### カセットテープ
 
-Current status: The once mainstream media has declined. Limited support in the mania and indie scene.
+現状：かつての主流メディアとしては衰退。マニアやインディーズシーンでは限定的に支持。
 
-Future: Niche popularity as retro culture. It survives as part of DIY music and collections.
+今後：レトロ文化としてのニッチな人気。DIY音楽やコレクションの一環として存続。
 
 
 <hr>
 
 #### CD
 
-Current situation: Sales have decreased significantly due to the spread of streaming. There is still demand among certain groups (collectors and those who prefer high-quality sound).
+現状：ストリーミングの普及で売上は大幅に減少。依然として特定層（コレクターや高音質志向者）には需要あり。
 
 Future: Although it is shrinking as a packaged media, the key is to differentiate it through physical ownership and added value (deluxe editions, etc.).
 
@@ -193,9 +192,9 @@ Future: Although it is shrinking as a packaged media, the key is to differentiat
 
 #### MD
 
-Current status: Almost disappeared from the market. A certain level of support in Japan is also a thing of the past.
+現状：ほぼ市場から消滅。日本での一定支持も過去の話。
 
-In the future: It will only remain for a limited time for preservation or as a hobby.
+今後：保存や趣味として限定的に残るのみ。
 
 
 <hr>
@@ -205,13 +204,13 @@ In the future: It will only remain for a limited time for preservation or as a h
 
 <hr>
 
-#### Overview of Dolby Atmos
+#### Dolby Atmosの概要
 
-Dolby Atmos is an object-based 3D sound technology that goes beyond traditional channel-based surround sound and allows "sound objects" to be freely placed throughout a space.
+ドルビー・アトモスはオブジェクトベースの3Dサウンド技術で、従来のチャンネルベースのサラウンドサウンドを超え、空間全体に「音のオブジェクト」を自由に配置できる。
 
 Sound image placement in the height direction is possible
 
-Dramatically improve the live feel and presence of movies, games, and music
+映画、ゲーム、音楽のライブ感や臨場感を格段に向上
 
 Can be played in home theaters, headphones, and smartphones
 
@@ -220,23 +219,23 @@ Can be played in home theaters, headphones, and smartphones
 
 #### Dolby Atmos in music production
 
-In recent years, streaming services (Apple Music, Tidal, etc.) have started distributing music compatible with Dolby Atmos, and the music industry is gaining attention.
+近年ではストリーミングサービス（Apple Music、Tidalなど）がDolby Atmos対応の楽曲配信を開始し、音楽業界でも注目が高まっている。
 
-Provides a three-dimensional sound experience different from traditional stereo
+従来のステレオとは異なる立体的な音響体験を提供
 
-Freely design the localization of vocals and instruments
+ボーカルや楽器の定位を自由に設計可能
 
-Combined with high-resolution sound sources for a more immersive listening experience
-
-
-<hr>
-
-### Future music media trends and the potential of Dolby Atmos
+高解像度音源と組み合わせて、より没入感のあるリスニング体験を実現
 
 
 <hr>
 
-#### Changes in media
+### 今後の音楽メディア動向とDolby Atmosの可能性
+
+
+<hr>
+
+#### メディアの変化
 
 The transition from physical media to streaming is almost complete
 
@@ -245,15 +244,15 @@ The focus of the next generation will be support for high quality sound distribu
 
 <hr>
 
-#### Evolution of the experience
+#### 体験の進化
 
-Users move from simply playing music to experiencing spatial sound
+ユーザーは単なる「音楽再生」から「空間音響体験」へと移行
 
-A complex market where analog regression and digital advancement coexist.
+アナログ回帰とデジタル先進の両立が起こる複雑な市場
 
-Dolby Atmos is highly anticipated as a new means of expression for live performances and festival experiences.
+Dolby Atmosは、ライブ演奏やフェス体験の再現、新たな表現手段として期待大
 
-Spatial audio technologies such as Dolby Atmos are rapidly becoming popular as the "next revolution in music experience." The future of listening will continue to evolve from simply "listening" to "feeling as if you are actually there."
+そして、Dolby Atmosなどの空間オーディオ技術は「音楽体験の次なる革命」として急速に普及中。未来のリスニングは、単なる「聴く」から「その場にいるかのように感じる」へと進化を続けるだろう。
 
 ---
 

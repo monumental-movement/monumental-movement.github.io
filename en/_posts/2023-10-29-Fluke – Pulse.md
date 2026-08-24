@@ -12,7 +12,7 @@ title: Fluke – Pulse
 ---
 
 
-Fluke was formed in the late 1980s by Londoners Mike Bryant, Jon Fugler, and Mike Tournier.
+Fluke（フルーク）はロンドン出身のMike Bryant, Jon Fugler, Mike Tournier により1980 年代後半に結成。
 
 Side A is a remix by British progressive house DJ Trisco (Harvey Dawson).
 

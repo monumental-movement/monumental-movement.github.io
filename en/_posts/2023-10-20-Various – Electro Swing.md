@@ -12,7 +12,7 @@ title: Various – Electro Swing
 ---
 
 
-"Various – Electro Swing" was released by Wagram Music in 2009.
+「Various – Electro Swing」は、2009年にWagram Musicからリリースされました。
 
 #### Tracklist
 ```md
@@ -35,5 +35,5 @@ title: Various – Electro Swing
 など、全20曲
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
 

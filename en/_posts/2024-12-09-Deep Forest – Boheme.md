@@ -14,9 +14,9 @@ title: Deep Forest – Boheme
 ---
 
 
-"Boheme" is the second album by French duo Deep Forest, released in 1995. This album, which samples bohemian (Eastern European gypsy songs), is Deep Forest's masterpiece, selling over 4 million copies, winning Diamond, Platinum, and Gold awards in 15 countries, and winning the Grammy Award for Best World Music Album.
+「Boheme」は、1995年にリリースされたフランスのデュオDeep Forestのセカンドアルバム。ボヘミアン(東ヨーロッパのジプシーの歌 )をサンプリングしたこのアルバムは、400万枚以上を売り上げ、15カ国でダイヤモンド、プラチナ、ゴールド賞を受賞し、グラミー賞の最優秀ワールドミュージックアルバムを受賞したDeep Forestの代表作。
 
-The third song features Hungarian folk musician Márta Sebestyén, and the 12th song features Peter Gabriel, the founding vocalist of the rock band Genesis.
+3曲目はハンガリーのフォークミュージシャンMárta Sebestyénを、12曲目はロックバンド「ジェネシス」の初代ボーカリストPeter Gabriel(ピーター・ガブリエル)をフィーチャーしている。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ The third song features Hungarian folk musician Márta Sebestyén, and the 12th 
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m63125151590?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63125151590?afid=6142608987){: .button1}
 
 
 #### Youtube

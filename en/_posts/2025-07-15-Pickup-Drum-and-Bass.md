@@ -12,13 +12,13 @@ title: Pick up drum and bass works
 ---
 
 
-""A remarkable group of drum and bass works that shake the floor with sharp beats and heavy bass lines.''
+「鋭利なビートと重厚なベースラインでフロアを揺さぶる、注目すべきドラムンベース作品群」
 
 <hr>
 
 ### Aquasky – Nylon Roadster / Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
-A 12″ breakbeat track featuring smooth and emotional piano from around 1996-97.
+1996–97年頃の滑らかでエモーショナルなピアノをフィーチャーしたブレイクビートトラックの12″。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ Y. Cosmic Glue
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -39,7 +39,7 @@ Y. Cosmic Glue
 ### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Emotional acid and breakbeat released by Moving Shadow in the UK in 1996.
+1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
 
 #### Tracklist
 ```md
@@ -49,7 +49,7 @@ Y. Cosmic Glue
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -61,7 +61,7 @@ Y. Cosmic Glue
 ### Dillinja – Fluid / Hard Noize
 <a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
 
-A 12″ classic underground drum and bass track with the powerful "Reese" bass.
+迫力の“Reese”ベースが響く、アングラ・ドラムンベース定番トラックの12″。
 
 #### Tracklist
 ```md
@@ -92,7 +92,7 @@ AA. Loop Progression
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -104,7 +104,7 @@ AA. Loop Progression
 
 <a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.webp"></a>
 
-12″ from the 2000s, featuring a beat that mixes Brazilian Latin and jazz elements.
+ブラジルのラテン＆ジャズ要素をミックスしたビートが特徴的な2000年代の12″。
 
 #### Tracklist
 ```md
@@ -122,7 +122,7 @@ B. Brasil
 
 <hr>
 
-### Aaron Specter – Amen, Punk
+### Aaron Spectre – Amen, Punk
 
 <a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
 
@@ -148,7 +148,7 @@ B2. You Don't Know
 ### DJ Gilb‑R – Pressure
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
 
-Released in France in 1997. Also includes Laurent Garnier remix.
+1997年フランスリリース。Laurent Garnierリミックスも収録。
 
 #### Tracklist
 ```md
@@ -160,7 +160,7 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -172,49 +172,49 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
+  <thead>
+    <tr>
 <th>Artist/Title</th>
-<th>Format</th>
+      <th>形式</th>
 <th>Features</th>
-</tr>
+    </tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://jp.mercari.com/item/m84434801659?afid=6142608987">Aquasky <br />– <em>Nylon Roadster / Cosmic Glue</em></a></td>
-<td>12"</td>
-<td>Smooth and emotional piano drum and bass (96–97)</td>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m84434801659?afid=6142608987">Aquasky  <br />– <em>Nylon Roadster / Cosmic Glue</em></a></td>
+      <td>12”</td>
+      <td>滑らかで感情的なピアノ系ドラムンベース（96–97）</td>
 </tr>
 <tr>
 <td><a href="https://jp.mercari.com/item/m94343829211?afid=6142608987">Aquasky <br />- <em>Tranquility / Kauna</em></a></td>
-<td>12"</td>
+      <td>12”</td>
 <td>Acid break and tactile drum and bass (96)</td>
 </tr>
 <tr>
 <td><a href="https://jp.mercari.com/item/m77354316625?afid=6142608987">Dillinja <br />- <em>Fluid / Hard Noize</em></a></td>
-<td>12"</td>
+      <td>12”</td>
 <td>Aggressive D\&B mainly based on Reese</td>
 </tr>
 <tr>
-<td><a href="https://jp.mercari.com/item/m37201781569?afid=6142608987">Motiv One <br />- <em>Cosmik / Loop Progression</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m37201781569?afid=6142608987">Motiv One <br />- <em>Cosmik / Loop Progression</em></a></td>
 <td>12"</td>
-<td>A jazzy, futuristic amen beat-centered track</td>
-</tr>
+      <td>ジャジーで未来的なアーメンビート中心のトラック</td>
+    </tr>
 <tr>
-<td><a href="https://jp.mercari.com/item/m42086405804?afid=6142608987">Drumagick <br />- <em>Cambraia / Brasil</em></a></td>
-<td>12"</td>
+      <td><a href="https://jp.mercari.com/item/m42086405804?afid=6142608987">Drumagick <br />- <em>Cambraia / Brasil</em></a></td>
+      <td>12”</td>
 <td>Brazilian D\&B with Latin/Jazz flavor (2000s)</td>
 </tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m37597646129?afid=6142608987">Aaron Specter <br />- <em>Amen, Punk</em></a></td>
-<td>12"</td>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m37597646129?afid=6142608987">Aaron Spectre <br />- <em>Amen, Punk</em></a></td>
+      <td>12”</td>
 <td>Jungle/drum and bass with a punk edge (2023)</td>
 </tr>
-<tr>
+    <tr>
 <td><a href="https://jp.mercari.com/item/m48438741904?afid=6142608987">DJ Gilb‑R <br />- <em>Pressure</em></a></td>
-<td>12"</td>
-<td>90s French blend D\&B + techno (97)</td>
-</tr>
-</tbody>
+      <td>12”</td>
+      <td>90年代フランス産ブレンドD\&B＋テクノ（97）</td>
+    </tr>
+  </tbody>
 </table>
 </div>

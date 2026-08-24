@@ -10,26 +10,25 @@ tags:
 - Lyric
 - Hiphop
 - Rap
-title: '[Column] Lyrics translation and cultural transfer issues: When words cross
-  the border of music'
+title: 【コラム】 歌詞翻訳と文化移入問題──言葉が音楽を越境するとき
 ---
 
 
 
 ## Prologue Lyrics don't just convey "meaning"
 
-Text: mmr｜Theme: Why does lyrics translation carry culture? About the history of misreading, transformation, and establishment
+文：mmr｜テーマ：歌詞翻訳はなぜ文化を運ぶのか──誤読・変容・定着の歴史について
 
 
-In popular music, lyrics are not just a means of conveying information.
+ポピュラー音楽において、歌詞は単なる情報伝達の手段ではない。
 It is a text with extremely high cultural density, encompassing pronunciation, prosody, metaphor, social assumptions, religious views, class sense, and even the atmosphere of the time.
 
-Translating lyrics is not a process of replacing languages, but rather an act of transplanting a culture to another environment.
+歌詞翻訳とは、言語を置き換える作業ではなく、文化を別の環境へ移植する行為に近い。
 This transplant is not always successful. Rather, they are often distorted, missing, and sometimes take on a meaning different from the original.
 
 In this article, we will view lyric translation from the perspective of ""cultural import,'' and will organize its historical development, theoretical framework, specific examples, and characteristics of its reception in Japan, based only on facts.
 
-> Lyric translation allows musical borders to be crossed, but it does not erase cultural borders.
+> 歌詞翻訳は、音楽の国境を越えさせるが、文化の国境を消すわけではない。
 
 ---
 
@@ -38,7 +37,7 @@ In this article, we will view lyric translation from the perspective of ""cultur
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -49,100 +48,100 @@ color: #fff;
 
 ## Chapter 1 "Cultural assumptions of lyrics" that exist before translation
 
-Lyrics are based on prerequisite knowledge shared by the speaker and listener.
-Place names, proper names, religious symbols, slang, and references to social institutions are self-explanatory to people in one culture, but lose meaning in another.
+歌詞は、話者と受け手が共有している前提知識の上に成立する。
+地名、固有名詞、宗教的象徴、スラング、社会制度への言及は、その文化圏に属する人間にとっては説明不要だが、別の文化圏では意味を失う。
 
-Biblical metaphors in blues and gospel, urban codes in hip-hop, and narratives of land and kinship in country music are elements that are easily lost in translation.
+ブルースやゴスペルにおける聖書的隠喩、ヒップホップにおける都市コード、カントリー音楽における土地と血縁の物語性などは、翻訳によって容易に剥落する要素である。
 
-What is important at this stage is that untranslatability is due to the ""degree of cultural commonality" rather than ""linguistic structure."
-Situations that are grammatically translatable but culturally incomprehensible are commonplace in lyrics translation.
+この段階で重要なのは、翻訳不能性が「言語構造」ではなく「文化共有度」に起因している点である。
+文法的には翻訳可能でも、文化的には理解不能という事態は、歌詞翻訳において常態化している。
 
-> It"s not that the lyrics are difficult, it"s that the world the lyrics assume is different.
+> 歌詞が難しいのではなく、歌詞が前提としている世界が違うのである。
 
 ---
 
-## Chapter 2: Translation ethics wavering between literal and literal translations
+## 第2章　直訳と意訳のあいだで揺れる翻訳倫理
 
-In the field of lyrics translation, the choice between literal translation and literal translation is always an issue.
-Literal translations are good at preserving meaning, but often lose rhythm and emotion.
-Parallel translations preserve the sense of hearing and emotion, but tend to deviate from the meaning of the original text.
+歌詞翻訳の現場では、直訳と意訳の選択が常に問題となる。
+直訳は意味の保存に優れるが、リズムや感情を損なうことが多い。
+意訳は聴感や情緒を保つが、原文の意味から逸脱しやすい。
 
-In particular, popular music has strong restrictions on melody and number of words, and the logic of prose translation does not apply.
+特にポピュラー音楽では、旋律と語数の制約が強く、散文翻訳の論理は通用しない。
 The addition or subtraction of a single syllable disrupts the entire melody, forcing translators to constantly reduce and reconstruct meaning.
 
 In this process, the translator's own cultural understanding and value judgments inevitably intervene.
-The resulting translated lyrics are a compromise between the original song and the translation culture.
+結果として生まれる翻訳歌詞は、原曲と翻訳文化の折衷物となる。
 
-> Lyrics translation is not about correctness, but a series of choices.
+> 歌詞翻訳は、正しさではなく選択の連続でできている。
 
 ---
 
-## Chapter 3 Translations that can be sung and "translations that cannot be sung"
+## 第3章　歌われる翻訳と「歌えない翻訳」
 
-Lyric translations are divided into translations for reading and translations for singing.
-In the latter case, ease of pronunciation, vowel continuity, and accent position are important.
+歌詞翻訳は、読むための翻訳と歌うための翻訳に分かれる。
+In the latter case, ease of pronunciation, vowel sequence, and accent position are important.
 
-Japanese has a simple syllable structure and many vowels, making it difficult to reproduce the consonant sequence and stress structure of English.
+日本語は音節構造が単純で母音が多く、英語の子音連続や強勢構造を再現しにくい。
 Therefore, when singing English lyrics in Japanese, the meaning of the words is often simplified or the grammar is rearranged.
 
-These technical constraints, even more than the quality of the translation, determine whether or not it will work as a song.
+この技術的制約は、翻訳の質以前に「歌として成立するかどうか」を左右する。
 As a result, Japanese lyrics tend to prioritize sound over meaning.
 
 > Even if the meaning is correct, the translation of the lyrics will not work unless the song can be sung.
 
 ---
 
-## Chapter 4 1950s to 1960s: Period of mass influx of popular music translations
+## 第4章　1950〜60年代：ポピュラー音楽翻訳の大量流入期
 
-After the war, with the spread of radio and records, a large amount of Western popular music flowed into Japan.
+戦後、ラジオとレコードの普及により、欧米のポピュラー音楽が大量に日本へ流入した。
 During this period, many songs were introduced in their original language or with simple translations.
 
-On the other hand, in many cases it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
+一方で、歌謡曲として翻案されるケースも多く、原曲の旋律に日本語の新たな歌詞が与えられた。
 These are not strictly translations, but cultural re-creations.
 
-The custom of ""Japanese lyrics that are separate from the original songs'' that was formed during this period had a long-lasting influence.
+この時期に形成された「原曲とは別物としての日本語歌詞」という慣習は、その後も長く影響を及ぼす。
 
-> Lyrics that were not translated also shaped Japan's musical culture.
+> 翻訳されなかった歌詞もまた、日本の音楽文化を形づくっていった。
 
 ---
 
-## Chapter 5: Shift to acceptance of "reading meaning" after Locke
+## 第5章　ロック以降の「意味を読む」受容への転換
 
 From the late 1960s onwards, with the rise of rock music, emphasis began to be placed on the meaning of the lyrics themselves.
-Themes such as anti-war, anti-establishment, and the inner self of the individual needed to be understood through translation.
+反戦、反体制、個人の内面といった主題は、翻訳を通じて理解される必要があった。
 
 During this period, detailed translations were published in magazines and liner notes, and lyrics began to be consumed as something to read.
 For the first time, lyric translation became institutionalized as part of the act of appreciation.
 
 However, this bilingual translation was only an aid to understanding, and translations that did not assume singing were the mainstream.
 
-> Lyrics have partially changed from something to be heard to something to be read.
+> 歌詞は、聴くものから読むものへと一部で変質した。
 
 ---
 
 ## Chapter 6 Misreading and reinterpretation as cultural transfer
 
 Misreadings are inevitable in cultural transfer through translation.
-However, this misreading does not necessarily have negative consequences.
+しかし、この誤読は必ずしも否定的な結果だけを生むわけではない。
 
-There are many examples of lyrics that are misunderstood in one culture, acquiring new meaning in another context and forming unique reception histories.
-The reception of rock and hip-hop in Japan has also been established through this chain of reinterpretations.
+ある文化圏で誤って理解された歌詞が、別の文脈で新たな意味を獲得し、独自の受容史を形成する例は多い。
+日本におけるロックやヒップホップの受容も、この再解釈の連鎖によって成立してきた。
 
-What is important is that translation does not completely reproduce the original culture, but that it enables new cultural practices.
+重要なのは、翻訳が原文化を完全に再現することではなく、新たな文化実践を可能にする点である。
 
-> Misreading is not a failure of cultural transfer, but the starting point of change.
+> 誤読は、文化移入の失敗ではなく、変化の始点である。
 
 ---
 
-## Chapter 7 Hip-hop and the manifestation of untranslatability
+## 第7章　ヒップホップと翻訳不可能性の顕在化
 
 Hip-hop is a genre in which untranslatability is particularly pronounced due to its strong dependence on slang, rhymes, and social context.
 Wordplay and phonological meaning are largely lost in translation.
 
 As a result, many listeners give up on fully understanding the lyrics and only accept the musical attitude and form of expression.
-This has made hip-hop a special case of cultural import without any translation.
+これにより、ヒップホップは翻訳を介さずに文化移入される特殊なケースとなった。
 
-> There are certainly cultures that are passed down without being translated.
+> 翻訳されないまま伝わる文化も、確かに存在する。
 
 ---
 
@@ -151,7 +150,7 @@ This has made hip-hop a special case of cultural import without any translation.
 The establishment of Japanese rap progressed not through translation of English lyrics, but through the transplantation of form and attitude.
 Here, the focus is on imitation and reconstruction rather than translation.
 
-In the process of adapting English prosody to Japanese, the unique Japanese sense of rhythm was emphasized and a new system of expression was born.
+英語の韻律を日本語に適応させる過程で、日本語独自のリズム感が強調され、新たな表現体系が生まれた。
 This is not a translation, but a localization of cultural transfer.
 
 > Cultural transfer does not necessarily go through language.
@@ -161,7 +160,7 @@ This is not a translation, but a localization of cultural transfer.
 ## Chapter 9 Lyric translation environment in the digital age
 
 With the spread of the Internet, anyone can instantly reference lyrics and translations.
-There is a mix of official and unofficial translations, and interpretations are diversified.
+公式翻訳と非公式翻訳が混在し、解釈は多元化している。
 
 In this situation, there is no single correct answer, and it is assumed that multiple translations coexist.
 Translation has ceased to be a fixed artifact and has become a collection of interpretations that are continually updated.
@@ -173,9 +172,9 @@ Translation has ceased to be a fixed artifact and has become a collection of int
 ## Chapter 10: What lyrics translation leaves behind
 
 Lyrics translation cannot completely preserve the meaning of the original song.
-However, it has provided a scaffold for different cultures to connect through music.
+しかし、異なる文化が音楽を通じて接続されるための足場を提供してきた。
 
-Along with things lost through translation, there are also understandings and expressions created through translation.
+翻訳によって失われたものと同時に、翻訳によって生まれた理解や表現も存在する。
 This ambiguity is the essence of the issue of lyrics translation and cultural import.
 
 > Lyrics translation is both a bridge and a boundary between cultures.
@@ -196,16 +195,16 @@ timeline
 
 ---
 
-## Figure: Culture transfer structure in lyrics translation
+## 図　歌詞翻訳における文化移入構造
 
 <div class="mermaid">
 graph TD
-    A[original culture lyrics] --> B[translation]
+    A[原文化の歌詞] --> B[翻訳]
     B --> C[reduction of meaning]
-    B --> D[Reconstruction of meaning]
-    C --> E[misreading]
+    B --> D[意味の再構成]
+    C --> E[誤読]
     D --> F[reinterpretation]
-    E --> G[A new culture of acceptance]
+    E --> G[新たな受容文化]
     F --> G
 </div>
 

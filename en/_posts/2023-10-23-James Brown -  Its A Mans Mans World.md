@@ -9,15 +9,15 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: James Brown - It"s A Man"s Man's World
+title: James Brown -  It's A Man's Man's World
 ---
 
 
-This song was written by James Brown and is known as one of his masterpieces. This song was released in 1966 and is considered a masterpiece of soul music with its powerful and emotional performance.
+ジェームス・ブラウンによる楽曲で、彼の代表作の一つとして知られています。この曲は1966年にリリースされ、その力強く感情豊かなパフォーマンスと共に、ソウルミュージックの傑作とされています。
 
-The lyrics of this song are about a world dominated by men, but at the same time they also express gratitude towards women. Brown's powerful vocals and emotional singing leave deep impressions on listeners, making her presence stand out.
+この曲の歌詞は男性が支配する世界を歌っており、同時に女性に対する感謝の気持ちも歌い上げられています。ブラウンの力強いヴォーカルと感情の籠った歌唱は、聴く者に深い感動を与え、その存在感を際立たせています。
 
-The song occupies an important place in Brown's musical career and is widely praised as a soul and R&B classic. Due to her deep singing and heart-touching messages, she continues to be loved by many listeners today.
+この曲は、ブラウンの音楽キャリアで重要な位置を占め、ソウルとR&Bのクラシックとして広く賞賛されています。その深みのある歌唱と心に響くメッセージにより、今日でも多くのリスナーに愛され続けています。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A. It's A Man's Man's World
 B. Papa's Got A Brand New Bag
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m26166401596?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26166401596?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H77fRz1rybs?si=wYDOE_p_OCxvdEdm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

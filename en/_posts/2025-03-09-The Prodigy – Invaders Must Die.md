@@ -13,9 +13,9 @@ title: The Prodigy – Invaders Must Die
 ---
 
 
-This album is the fifth studio album by UK electronic dance music group The Prodigy. The album, released in 2009, was the first to include all band members in the production process and was a commercial success.
+このアルバムは、UKのエレクトロニックダンスミュージックグループ、The Prodigy(プロディジー)の5枚目のスタジオ・アルバム。2009年にリリースされたこのアルバムは、すべてのバンドメンバーが制作プロセスに参加した初めてのアルバムで、商業的にも成功を収めた。
 
-Contains hits such as "Invaders Must Die," "Omen," "Warrior's Dance," and "Take Me to the Hospital."
+「Invaders Must Die」、「Omen」、「Warrior's Dance」、「Take Me to the Hospital」等のヒット曲が収録されている。
 
 
 #### Tracklist
@@ -43,7 +43,7 @@ DVD-3. World's On Fire (Live)
 DVD-4. Warrior's Dance (Live)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

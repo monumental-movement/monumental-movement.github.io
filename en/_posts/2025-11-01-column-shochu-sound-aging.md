@@ -9,24 +9,23 @@ tags:
 - Culture
 - Spirits
 - Alchohol
-title: '[Column] Shochu grown by sound: The harmony of fermentation that resonates
-  in Amami Oshima'
+title: 【コラム】 音が育てる焼酎：奄美大島に響く発酵のハーモニー
 ---
 
 
-## Prologue: On the island of the sound of waves and shochu
+## 序章：波の音と焼酎の島で
 
 
-Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Exploring its scientific basis and cultural background
+文：mmr｜テーマ：奄美大島で実践される、焼酎に音楽を聴かせて熟成を促す実験。その科学的根拠と文化的背景を探る
 
 
-Amami Oshima, the farthest point of the Nansei Islands.
-On this island, brown sugar shochu is surrounded by the sun and sea breeze, and people are quietly ""listening'' to music.
-At night, classical music, jazz, and island songs play faintly from the depths of the storage room, and alcohol molecules tremble inside the stainless steel tank.
-They say that the sound makes the shochu softer.
+南西諸島の最果て、奄美大島。  
+この島では、太陽と潮風に包まれた黒糖焼酎が、静かに音楽を“聴いて”いる。  
+夜になると、貯蔵庫の奥からクラシック、ジャズ、島唄が微かに流れ、ステンレスタンクの内側でアルコール分子が震える。  
+彼らは言う——「音が焼酎をやわらかくする」。
 
-This is not just a romantic metaphor. The phenomenon of physical vibrations caused by sound waves aiding ripening and enhancing the flavor is currently attracting attention.
-In this article, we will take a look at the whole picture of the ""acoustically aged shochu'' that brewers in Amami Oshima are trying to create, from both scientific and cultural perspectives.
+これは単なるロマンチックな比喩ではない。音波による物理的振動が熟成を助け、味の角を取るという現象が、いま注目されている。  
+本稿では、奄美大島の蔵元たちが挑む「音響熟成焼酎」の全貌を、科学と文化の両側面からひもといていく。
 
 ---
 
@@ -35,7 +34,7 @@ In this article, we will take a look at the whole picture of the ""acoustically 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -44,114 +43,114 @@ color: #fff;
 </style>
 
 
-## Chapter 1: The origin of Amami brown sugar shochu
+## 第1章：奄美黒糖焼酎の原点
 
-Amami Oshima's shochu culture dates back to the late Edo period.
-On this island, where sugar cane cultivation was popular, a unique distilled spirit made from molasses from pomace was born - **brown sugar shochu**.
+奄美大島の焼酎文化は、江戸時代後期に遡る。  
+砂糖黍の栽培が盛んだったこの島では、搾りかすの糖蜜を原料とする独特の蒸留酒——**黒糖焼酎**が生まれた。
 
-In 1949 (Showa 24), when the Amami Islands were returned to Japan, a special exemption was granted for ""brown sugar shochu'' as defined by the National Tax Agency.
-This is the only shochu standard that allows the combination of brown sugar and rice malt, and has become a cultural heritage exclusive to the Amami Islands.
+1949年（昭和24年）、奄美群島が日本へ復帰する際、国税庁が定義した「黒糖焼酎」の特例が認められた。  
+これは、黒糖と米麹の併用を許可する唯一の焼酎規格であり、奄美諸島限定の文化遺産となった。
 
-> "Brown sugar shochu is made from Amami's soil, water, and wind."
-> —— Interview with the brewer of Amami Oshima Kaiun Sake Brewery
+> 「黒糖焼酎は奄美の土と水と風でできている」  
+> —— 奄美大島開運酒造・杜氏インタビューより
 
-A soft texture created by the minerality of brown sugar and the soft water of the island.
-It wasn't until the beginning of the 21st century that the idea of ​​enhancing this natural blessing with sound emerged.
-
----
-
-## Chapter 2: Birth of alcohol that listens to sound
-
-### ● Origin of idea
-The impetus was the ""acoustic aging'' of wine that a wine brewer saw in Tokyo.
-I learned about an attempt to speed up maturation by playing classical music,
-He returned to Amami thinking, ""Maybe it could be done with shochu.''
-
-In 2005, an acoustic speaker was installed in a warehouse on Amami Oshima for the first time.
-The subjects tested were classical music (Bach, Mozart) and island songs (such as Satokuni Taka's ""Asahabushi'').
-Six months later, the people involved who tasted it were surprised.
-"Even though it's the same raw sake, it was more mellow when I listened to it."
-
-### ● Mechanism of acoustic maturation
-Sound waves cause minute vibrations inside the liquid.
-Changing the frequency increases molecular collisions and accelerates the esterification reaction.
-This is said to increase the aroma components and reduce the irritation of alcohol.
-
-> ""Bass waves move the liquid as deep bass waves, and high frequencies cause the surface layer to vibrate minutely.
-> It's like receiving a sonic massage. "
-> —— Researcher, Faculty of Agriculture, Department of Food Science, Kagoshima University
+黒糖のミネラル感と島の軟水が生み出す、やわらかな口当たり。  
+その自然の恵みを、さらに“音”で磨こうという発想が登場するのは、21世紀に入ってからだ。
 
 ---
 
-## Chapter 3: Sounds played by Amami's storehouses
+## 第2章：音を聴く酒の誕生
 
-Each brewery in Amami Oshima has a different "style of sound."
+### ● 発想の原点
+きっかけは、ある杜氏が東京で見たワインの“音響熟成”だった。  
+クラシック音楽を流すことで熟成を早めるという試みを知り、  
+「焼酎でもできるのではないか」と奄美へ戻った。
 
-| Brewery name | Music used | Effects/features | Sound equipment |
+2005年、奄美大島のとある蔵で初めて音響スピーカーが貯蔵庫に設置される。  
+試されたのはクラシック（バッハ、モーツァルト）と島唄（里国隆「朝花節」など）。  
+半年後、試飲した関係者が驚いたという。  
+「同じ原酒なのに、音を聴かせた方がまろやかだった」。
+
+### ● 音響熟成のメカニズム
+音波は液体内部に微細な振動を与える。  
+周波数が変化することで、分子の衝突が増え、エステル化反応が促進される。  
+これにより香気成分が増し、アルコールの刺激が減るとされる。
+
+> 「低音は重低音の波として液体を動かし、高音は表層を微細に振動させる。  
+> まるで音のマッサージを受けているようなものです。」  
+> —— 鹿児島大学 農学部 食品科学科 研究員談
+
+---
+
+## 第3章：奄美の蔵が奏でる音たち
+
+奄美大島の蔵では、それぞれに異なる“音の流儀”がある。
+
+| 蔵名 | 使用音楽 | 効果・特徴 | 音響装置 |
 |------|------------|--------------|------------|
-| Amami Oshima Kaiun Sake Brewery | Island songs, drums, sanshin | Increased sweetness and richness | Underwater transducer |
-| Amami Brown Sugar Sake Brewery | Jazz (Miles Davis) | Alleviates bitterness | Wooden barrel speaker |
-| Amami Oshima Sake Brewery | Classic (Mozart, Bach) | Gorgeous aroma | Ultrasonic vibration plate |
-| Sato no Akebono (Machida Sake Brewery) | Natural sounds (waves, wind, birds) | Soft texture | Constant temperature storage + built-in speaker |
+| 奄美大島開運酒造 | 島唄、太鼓、三線 | 甘みとコクが増す | 水中トランスデューサ |
+| 奄美黒糖酒造 | ジャズ（Miles Davis） | 苦味が和らぐ | 木樽スピーカー |
+| 奄美大島酒造 | クラシック（Mozart, Bach） | 香りが華やかに | 超音波振動プレート |
+| 里の曙（町田酒造） | 自然音（波・風・鳥） | 口当たりが柔らかい | 定温貯蔵＋スピーカー内蔵 |
 
-Each brewery has its own unique ""listening time.''
-Most breweries play the sound at night, but some breweries play the sound throughout the fermentation process.
-In particular, ""taiko and sanshin'' are rich in low frequencies and have high transmission efficiency to liquids.
-
----
-
-## Chapter 4: "Taste of sound" seen through scientific eyes
-
-Experimental data is also being accumulated.
-According to a joint study by Kagoshima University,
-Shochu that has undergone classical acoustic aging has a higher
-**Average 8% reduction in aldehyde content**,
-**Ester ratio increased by 12%**.
-
-In addition, in sensory tests, the products were highly rated as ""rich in aroma" and ""not irritating."
-The increase in molecular movement caused by sound wave stimulation is exactly what creates "taste tuning."
-
-> "Shochu is alive. When you give it sound, it reacts as if it were breathing."
-> —— Chief brewer/Kikaijima Sake Brewery Factory Manager
+各蔵は“聴かせる時間”にも個性がある。  
+多くは夜間に音を流すが、なかには発酵中から通しで鳴らす蔵もある。  
+特に「太鼓や三線」は低周波が豊富で、液体への伝達効率が高い。
 
 ---
 
-## Chapter 5: Fusion of acoustic maturity and Shimauta culture
+## 第4章：科学の眼でみた“音の味”
 
-For Amami, "sound" is not just background music.
-Shimauta is the prayer of ancestors, a dialogue with nature, and the memory of a community.
+実験データも蓄積されつつある。  
+鹿児島大学の共同研究によると、  
+クラシック音響熟成を行った焼酎は、非音響処理のものに比べて  
+**アルデヒド含有量が平均8％減少**、  
+**エステル比が12％上昇**していた。
 
-The song that plays in the storage room is
-It is also a labor song for sugarcane farmers who once crossed the ocean.
-Although acoustic maturation is a scientific endeavor,
-**It is also a ritual to engrave the memory of Amami into shochu**.
+また官能検査では、「香りが豊か」「刺激が少ない」との評価が優勢。  
+音波刺激による分子運動の増加が、まさに“味の調律”を生むのだ。
+
+> 「焼酎は生きている。音を与えると、呼吸するように反応する。」  
+> —— 杜氏・喜界島酒造工場長
 
 ---
 
-## Chapter 6: The taste of the future created by sound
+## 第5章：音響熟成と島唄文化の融合
 
-Nowadays, sonic maturity is spreading beyond Amami.
-Experiments are progressing with Iki shochu in Nagasaki and barley shochu in Fukuoka.
-It has also spread to the world of wine, sake, and whisky.
+奄美にとって“音”は、単なるBGMではない。  
+島唄は祖先の祈り、自然との対話、そして共同体の記憶そのものだ。
 
-In the future, there may come a time when aging will be controlled by "sound design" generated by AI.
-AI composes a shochu aging song,
+貯蔵庫で流れる唄は、  
+かつて海を渡ったサトウキビ農民の労働歌でもある。  
+音響熟成は、科学的試みでありながら、  
+**奄美の記憶を焼酎に刻む儀式**でもあるのだ。
+
+---
+
+## 第6章：音が造る未来の味
+
+いま、音響熟成は奄美を越えて広がっている。  
+長崎の壱岐焼酎、福岡の麦焼酎でも試みが進み、  
+さらにはワイン、日本酒、ウイスキーの世界にも波及している。
+
+未来にはAIが生成した“音の設計”で熟成を制御する時代も来るかもしれない。  
+焼酎の熟成曲をAIが作曲し、  
 Alcohol molecules dance to the rhythm——
-That day is approaching.
+そんな日が近づいている。
 
 ---
 
-## Chronology: History of Amami shochu and acoustic maturation
+## 年表：奄美焼酎と音響熟成の歩み
 
-| Years | Events |
-|------|---------|
-| 1600s | Sugarcane cultivation begins in Amami |
-| 1800s | Production of local shochu using brown sugar as raw material begins |
-| 1949 | Return of the Amami Islands to Japan, special approval for "brown sugar shochu" |
-| 2005 | Amami Oshima's first acoustically aged shochu test begins |
-| 2008 | Kagoshima University begins scientific research on acoustic maturation |
-| 2015 | Each brewery develops its own music aging brand |
-| 2020s | Acoustic aging becomes popular in sake breweries in Japan and abroad, AI control technology is introduced |
+| 年代 | 出来事 |
+|------|--------|
+| 1600年代 | 奄美でサトウキビ栽培が始まる |
+| 1800年代 | 黒糖を原料とした地焼酎の製造開始 |
+| 1949年 | 奄美群島の日本復帰、「黒糖焼酎」特例認可 |
+| 2005年 | 奄美大島で初の音響熟成焼酎試験開始 |
+| 2008年 | 鹿児島大学が音響熟成の科学的研究を開始 |
+| 2015年 | 各蔵が独自の音楽熟成ブランドを展開 |
+| 2020年代 | 国内外の酒蔵で音響熟成が普及、AI制御技術導入 |
 | 2025 | Amami brown sugar shochu in preparation for application as UNESCO intangible cultural heritage |
 
 ---
@@ -161,52 +160,52 @@ That day is approaching.
 <div class="mermaid">
 
 graph TD
-A[Sound waves generated from speakers] --> B[Microvibration in liquid]
-B --> C[Molecular activation]
-C --> D[Acceleration of esterification reaction]
-D --> E[Increase in aroma components]
-E --> F[The taste becomes mellower]
+A[スピーカーから音波発生] --> B[液体中の微振動]
+B --> C[分子の運動活性化]
+C --> D[エステル化反応促進]
+D --> E[香り成分の増加]
+E --> F[味がまろやかに変化]
 
 
 </div>
 
 ---
 
-## Chapter 7: Listening tongue, resonating heart
+## 第7章：聴く舌、響く心
 
-People can "hear" sounds through their sense of taste.
-For example, it is known that bitterness is perceived to be weaker in a space where soft sounds are played.
+人は味覚で音を“聴く”ことができる。
+たとえば、柔らかな音が流れる空間では、苦味が弱く感じられることが知られている。
 In other words, sound and taste are connected in the brain.
 
-The act of listening to the sound of Amami shochu is
-It"s not just science, it"s also the reunification of humans and nature.
-The sound of the wind, the sound of waves, the sound of singing, and the sound of fermentation.
-They become one harmony,
-A small universe is playing inside the glass.
+奄美の焼酎が音を聴くという行為は、
+単なる科学ではなく、人間と自然の再統合でもある。
+風の音、波の音、唄の音、そして発酵の音。
+それらが一つのハーモニーとなり、
+グラスの中で小さな宇宙を奏でている。
 
 ---
 
 
-## Chapter 8: Comparison of acoustic experimental data
+## 第8章：音響実験データの比較
 
-Acoustic maturation makes a difference not only in sensory impressions but also in scientific data.
+Acoustic maturation makes a difference not only in sensory impressions, but also in scientific data.
 The graph below is visualized based on Kagoshima University joint research (2023) and experimental data from four Amami Oshima breweries.
 
-### Comparison of acoustic maturation of each brewery (average value)
+### 各蔵の音響熟成比較（平均値）
 
 <div class="mermaid">
 
 graph LR
-A[Amami Oshima Kaiun Sake Brewery<br>Shimauta/Taiko drum sound] -->|Ester ratio +15%<br>Aldehyde -10%| B[(Rich aroma and enhanced sweetness)]
-C[Amami Brown Sugar Sake Brewery<br>Jazz Acoustics] -->|Ester ratio +12%<br>Bitterness -8%| D[(Mellow and rich)]
-E[Machida Sake Brewery (Sato no Akebono)<br>Natural sound aging] -->|Acidity -5%<br>Fragrance duration +10%| F[(Soft scent/light)]
-G[Amami Oshima Sake Brewery<br>Classical Acoustics] -->|Acidity -7%<br>Alcohol stimulation -12%| H[(Mellow and rounded taste)]
+A[奄美大島開運酒造<br>島唄・太鼓音響] -->|エステル比 +15%<br>アルデヒド -10%| B[(芳香豊か・甘み強化)]
+C[奄美黒糖酒造<br>ジャズ音響] -->|エステル比 +12%<br>苦味 -8%| D[(Mellow and rich)]
+E[町田酒造（里の曙）<br>自然音熟成] -->|酸度 -5%<br>香気持続 +10%| F[(柔らかい香り・軽快)]
+G[奄美大島酒造<br>クラシック音響] -->|酸度 -7%<br>アルコール刺激 -12%| H[(芳醇で丸みのある味)]
 
 </div>
 
 ---
 
-### Impact of sound effects by frequency band (average)
+###  音響効果の周波数帯別影響（平均）
 
 <div class="mermaid">
 
@@ -220,16 +219,16 @@ pie
 
 ---
 
-### Average rating by music genre
+### 音楽ジャンル別の平均評価
 
 <div class="mermaid">
 
 graph TD
-    A["Shimauta/Taiko 🎵 92 points"] ---|"Taste, aroma, smoothness"| B["■■■■■■■■■■■■■■■■■■■■■■■■■"]
-    C["Classic 🎻 89 points"] --- B1["■■■■■■■■■■■■■■■■■■■■■■■"]
+    A["島唄・太鼓 🎵 92点"] ---|"味わい・香り・滑らかさ"| B["■■■■■■■■■■■■■■■■■■■■■■■■■"]
+    C["クラシック 🎻 89点"] --- B1["■■■■■■■■■■■■■■■■■■■■■■■"]
     D["Jazz 🎷 87 points"] --- B2["■■■■■■■■■■■■■■■■■■■■■"]
-    E["Nature sounds 🌿 85 points"] --- B3["■■■■■■■■■■■■■■■■■■■"]
-    F["Silent contrast 🔇 74 points"] --- B4["■■■■■■■■■■■■■■■"]
+    E["自然音 🌿 85点"] --- B3["■■■■■■■■■■■■■■■■■■■"]
+    F["無音対照 🔇 74点"] --- B4["■■■■■■■■■■■■■■■"]
 
     style A fill:#f9f,stroke:#333,stroke-width:1px
     style C fill:#9cf,stroke:#333,stroke-width:1px
@@ -239,92 +238,92 @@ graph TD
     
 </div>
 
-> *Scores are test results based on the average value of multiple breweries (as of 2023)
+> ※スコアは複数蔵の平均値を元にした試験結果（2023年時点）
 
 ---
 
-## Chapter 9: Amami brown sugar shochu map (location of warehouses and acoustic aging)
+## 第9章：奄美黒糖焼酎マップ（蔵の位置と音響熟成）
 
-In the Amami Islands, there are **10 breweries** of brown sugar shochu, both large and small.
-Among them, **4 breweries have introduced acoustic aging technology**, and all of them have their own unique "sound" as part of their brand.
+奄美群島には、大小合わせて **10蔵** の黒糖焼酎蔵が存在する。
+そのうち、**4蔵が音響熟成技術**を導入しており、いずれも独自の“音”をブランドの一部としている。
 
 ### Amami Islands brown sugar shochu map
 
 <div class="mermaid">
 
 graph TD
-A[Amami Oshima] --> A1[Amami Oshima Kaiun Sake Brewery<br>🎶 Shimauta/Taiko drum aging]
-A --> A2[Amami Brown Sugar Sake Brewery<br>🎷 Jazz Acoustics]
-A --> A3[Machida Sake Brewery (Sato no Akebono)<br>🌿 Natural sound aging]
-A --> A4[Amami Oshima Sake Brewery<br>🎻 Classical Acoustics]
+A[奄美大島] --> A1[奄美大島開運酒造<br>🎶 島唄・太鼓熟成]
+A --> A2[奄美黒糖酒造<br>🎷 ジャズ音響]
+A --> A3[町田酒造（里の曙）<br>🌿 自然音熟成]
+A --> A4[奄美大島酒造<br>🎻 クラシック音響]
 
-B[Kikaijima] --> B1[Kikaijima Sake Brewery<br>⚙️ Under ultrasonic aging test]
+B[喜界島] --> B1[喜界島酒造<br>⚙️ 超音波熟成試験中]
 
-C[Tokunoshima] --> C1[Amami Liquor<br>🥁 Taiko drum sound wave experiment in progress]
-C --> C2[Mashira Sake Brewery<br>🌾 Traditional fermentation/silence]
+C[徳之島] --> C1[奄美酒類<br>🥁 太鼓音波実験中]
+C --> C2[ましら酒造<br>🌾 伝統発酵・無音]
 
-D[Okinoerabu Island] --> D1[Okinoerabu Sake Brewery<br>🌊 Ocean current aging]
+D[沖永良部島] --> D1[沖永良部酒造<br>🌊 海流熟成]
 
-E[Yoron Island] --> E1[Arimura Sake Brewery<br>🌺 Traditional storage only]
-E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024]
+E[与論島] --> E1[有村酒造<br>🌺 伝統貯蔵のみ]
+E --> E2[南之風酒造<br>🎧 AI音響テスト導入 2024年～]
 
 </div>
 
 ---
 
-### Geographic features
+### 地理的特徴
 
-* **Amami Oshima**: Largest concentration of warehouses. The birthplace of acoustic maturity.
-* **Kikaijima**: Features a unique mineral feel made using hard water.
-* **Tokunoshima/Okinerabujima**: Research into sea breeze aging and low-temperature fermentation is progressing.
+* **奄美大島**：最大規模の蔵集中地。音響熟成の発祥地。
+* **喜界島**：硬水を利用した独特のミネラル感が特徴。
+* **徳之島・沖永良部島**：海風熟成や低温発酵の研究が進む。
 * **Yoronjima**: Culturally, it exists somewhere between Okinawa's awamori.
 
 ---
 
-## Chapter 10: Diversity of flavors created by sounds and terrain
+## 第10章：音と地形が生む風味の多様性
 
-Amami's topography stretches 160km from north to south, and the humidity, wind direction, and acoustic characteristics of the coastline vary by region.
-For example, a storehouse facing Tatsugo Bay takes advantage of the sound of waves.
-Warehouses located in mountainous areas create a maturing environment that takes advantage of natural reverberations.
+奄美の地形は南北160kmにおよび、海岸線の湿度、風向、音響特性も地域ごとに異なる。
+たとえば、龍郷湾に面した蔵は波の音を利用し、
+山間部の蔵は自然残響を活かして熟成環境を作る。
 
-Acoustic maturation is not just a "device";
-**This is the "resonance of the island" where the topography itself becomes an instrument**.
+音響熟成とは単なる「装置」ではなく、
+**地形そのものが楽器となる“島の共鳴”** なのだ。
 
-> "Amami is an island like one giant speaker.
->The wind plays a low pitch, the waves play a medium pitch, and the voices of insects play a high pitch. "
-> —— Machida Sake Brewery・Torji talk
-
----
-
-
-## Conclusion: Poetry of sound and fermentation
-
-When I passed in front of the Amami storehouse at night,
-A faint sound of sanshin flows from the speakers.
-Inside, brown sugar shochu is sleeping quietly.
-I'm listening to that melody.
-
-Time and sound slowly refine the taste.
-"Maturity of sound" created by Amami"s climate and human wisdom——
-It is another kind of music played by the island.
+> 「奄美は、ひとつの巨大なスピーカーのような島。
+> 風が低音、波が中音、虫の声が高音を奏でている。」
+> —— 町田酒造・杜氏談
 
 ---
 
-### Recommended brown sugar shochu
 
-| Brewery name | Product name | Capacity/Frequency | Link |
-| -------- | ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Amami Oshima Kaiun Sake Brewery | Brown sugar shochu "Rent" | 1800ml/25 degrees | [Amazon](https://amzn.to/3JaQ5aI) |
-| Amami Oshima Kaiun Sake Brewery | Brown sugar shochu "Beni Sango" | 720ml/40 degrees | [Amazon](https://amzn.to/4qwVYj3) |
-| Machida Sake Brewery | Brown sugar shochu "Sato no Akebono (3 years long storage)" | 1800ml/25 degrees | [Amazon](https://amzn.to/4nzD0pp) |
-| Amami Oshima Sake Brewery | Brown sugar shochu "Funnel" | 1800ml/25 degrees | [Amazon](https://amzn.to/49vtOik) |
+## 結語：音と発酵の詩
+
+夜、奄美の蔵の前を通ると、
+スピーカーから微かに三線の音が流れる。
+中では、黒糖焼酎が静かに眠りながら、
+その旋律に耳を傾けている。
+
+時間と音が、ゆっくりと味を磨く。
+奄美の風土と人の知恵が生み出した“響きの熟成”——
+それは、島が奏でるもうひとつの音楽なのだ。
+
+---
+
+### おすすめの黒糖焼酎
+
+| 蔵元名      | 商品名                           | 容量・度数      | リンク     |
+| -------- | ----------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 奄美大島開運酒造 | 黒糖焼酎 「れんと」     | 1800ml／25度 | [Amazon](https://amzn.to/3JaQ5aI) |
+| 奄美大島開運酒造 | 黒糖焼酎 「紅さんご」     | 720ml／40度  | [Amazon](https://amzn.to/4qwVYj3)  |
+| 町田酒造     | 黒糖焼酎 「里の曙（3年長期貯蔵）」 | 1800ml／25度 | [Amazon](https://amzn.to/4nzD0pp)   |
+| 奄美大島酒造   | 黒糖焼酎 「じょうご」   | 1800ml／25度 | [Amazon](https://amzn.to/49vtOik)  |
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RiP27YZY-j0?si=9UvxEfaJI2Yyptzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

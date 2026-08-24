@@ -14,16 +14,16 @@ title: '[Column] Black Flag - The turning point of Southern California hardcore'
 
 
 
-## Prologue: The incident called Black Flag
+## 序章：ブラック・フラッグという事件
 
-Text: mmr｜Theme: About a band that left a legacy of method and attitude rather than commercial success
+文：mmr｜テーマ：商業的成功よりも、方法と態度を残したバンドについて
 
 
-Black Flag was more than just a band name, it was a kind of structural change that permeated the American West Coast underground from the late 1970s to the early 1980s. While they were known for their fast, harsh, and simple playing, they also had practices that would have a decisive influence on generations to come: DIY, self-sufficient touring, and record-making independence. Musically, they continued to reject the linear image of punk, changing from their early three-chord hardcore to the heavier, slower, experimental sound of their later years.
+Black Flagは、単なるバンド名ではなく、1970年代後半から80年代初頭にかけてのアメリカ西海岸アンダーグラウンドを貫いた一種の構造変化そのものだった。彼らは速く、荒く、単純な演奏で知られる一方、その背後にはDIY精神、ツアーの自力運営、レコード制作の独立性といった、後続世代に決定的な影響を与える実践が積み重なっている。音楽的にも、初期の3コード・ハードコアから、後期の重く遅い実験的サウンドへと変貌を遂げ、単線的な「パンク像」を拒否し続けた存在だった。
 
 The local characteristics of Southern California, suburban culture, repressive daily life, and a tense relationship with the police. Black Flag's music is inseparable from these concrete environments. Anger and emptiness were not abstract things, but an extension of life. Each of their songs, tours, and records exists as a practical response to their environment.
 
-> Black Flag was a band that functioned as a methodology, not a style.
+> Black Flagはスタイルではなく、方法論として機能したバンドだった。
 
 
 ---
@@ -33,7 +33,7 @@ The local characteristics of Southern California, suburban culture, repressive d
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -43,47 +43,47 @@ color: #fff;
 
 
 
-## Pre-formation and early formation (1976–1978)
+## 結成以前と初期形成（1976–1978）
 
-Black Flag"s origins lie in guitarist Greg Ginn. The band"s name was Panic when it first started in 1976 in the Hermosa Beach, California area. It was a time when punk rock was beginning to spread from England and New York, and the influence of the Ramones and Sex Pistols was clear, but the scene in Southern California was still in its infancy.
+Black Flagの起点は、ギタリストのグレッグ・ギンにある。1976年、カリフォルニア州ハーモサ・ビーチ周辺で活動を開始した当初、バンド名はPanicだった。パンク・ロックがイギリスとニューヨークから波及し始めた時期であり、ラモーンズやセックス・ピストルズの影響は明確だったが、南カリフォルニアではまだシーン自体が未成熟だった。
 
 Panic briefly changed its name to Black Flag. The name referred to the anarchist symbol of the black flag, and rather than a clear political statement, it contained a sense of denial of order and stability. The four-line design used as a logo was a simple and instantly recognizable visual symbol that would become one of the most famous icons in punk history.
 
-The initial members changed drastically, with vocals, bass, and drums frequently being replaced. This instability was a weakness, but also a factor that prevented the band"s musical direction from becoming fixed. From the beginning, Greg Ginn"s guitar playing was characterized by excessive distortion and repetitive riffs, and we can already see the beginnings of his later development.
+初期メンバーの変動は激しく、ヴォーカル、ベース、ドラムは頻繁に入れ替わった。この不安定さは弱点であると同時に、バンドの音楽的方向性を固定化させない要因にもなった。グレッグ・ギンのギターは、当初から過剰な歪みと反復的なリフを特徴とし、後の展開の萌芽がすでに見られる。
 
-> Early Black Flag was an impulse itself before it took shape.
+> 初期Black Flagは、形を定める前の衝動そのものだった。
 
 ---
 
-## "Nervous Breakdown" and the impact of the 7-inch single
+## 「Nervous Breakdown」と7インチ・シングルの衝撃
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tjrCpe3I4Tc?si=TUY1PV5gYop30Ep3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-The 7-inch EP Nervous Breakdown, released in 1979, was the first record that defined Black Flag. This work was released by SST Records, which was later established, and was distributed as a completely independent production. The songs were short, fast, and direct, and had an aggressiveness that was outstanding on the West Coast at the time.
+1979年に発表された7インチEP『Nervous Breakdown』は、Black Flagの存在を決定づけた最初の記録である。この作品は、後に設立されるSST Recordsからリリースされ、完全な自主制作として流通した。収録曲は短く、速く、直接的で、当時の西海岸において突出した攻撃性を持っていた。
 
 The title track, "Nervous Breakdown," has a theme of mental breakdown, but it's full of urgent energy rather than introspection. The lyrics are concise, presenting emotions as raw rather than descriptive. This approach became the basis for later hardcore punk.
 
 Vocals on this EP are provided by Keith Morris. His singing was more like a yell, preferring immediacy over technique. The overall performance is rough, but the structure is clear and it"s not just chaos. The 7-inch format also required sprint-like concentration, which suited Black Flag"s early aesthetic.
 
-> Nervous Breakdown served as the launching pad for West Coast hardcore.
+> 『Nervous Breakdown』は、西海岸ハードコアの出発点として機能した。
 
 ---
 
-## Keith Morris' departure and transition period
+## キース・モリスの脱退と過渡期
 
-After the release of ""Nervous Breakdown,'' Keith Morris left the band. The reason is said to have been due to musical direction and internal tensions. Morris later formed Circle Jerks and developed a more immediate and fast-paced style of hardcore.
+『Nervous Breakdown』発表後、キース・モリスはバンドを脱退する。理由は音楽的方向性や内部の緊張関係にあったとされる。モリスは後にCircle Jerksを結成し、より即物的でスピード感のあるハードコアを展開することになる。
 
 Black Flag continued their activities while searching for a new vocalist. During this period, multiple singers participated for a short period of time, and fragments of their sound sources remain. The band lacked stability, but that meant continued musical trial and error.
 
-Importantly during this period of transition, Greg Ginn took full control and sought to maintain the band as a long-term project. Despite frequent personnel changes, the Black Flag name and philosophy remained intact.
+この過渡期において重要なのは、グレッグ・ギンが主導権を完全に握り、バンドを長期的なプロジェクトとして維持しようとした点である。頻繁な人事変動にもかかわらず、Black Flagという名前と理念は失われなかった。
 
-> Instability was a precondition for change, not dissolution.
+> 不安定さは解体ではなく、変化の前提条件だった。
 
 ---
 
-## Ron Reis and "Jealous Again"
+## ロン・レイスと『Jealous Again』
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qgrbQIVnwFY?si=kEJ2yzmOB6Usrc-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -95,7 +95,7 @@ The next important moment was the addition of Ron Reis (later known as Chavo Ped
 
 This 7-inch showed that Black Flag was not just a collection of impulses, but was becoming more complete song by song. At the same time, tensions continued among the members, and Ron Reis also did not stick around long term.
 
-> ""Jealous Again'' chronicles the progression of initial impulse toward refinement.
+> 『Jealous Again』は、初期衝動が洗練へ向かう過程を記録している。
 
 ---
 
@@ -107,19 +107,19 @@ Unlike previous singers, Rollins" vocals conveyed not only anger but also obsess
 
 After his addition, the band began touring the United States in earnest. Performing in clubs, DIY spaces, and sometimes informal venues led to frequent clashes with the police and trouble, and these experiences were directly reflected in the texture of the songs.
 
-> The addition of Henry Rollins propelled Black Flag to the next level.
+> ヘンリー・ロリンズの加入は、Black Flagを次の段階へ押し上げた。
 
 ---
 
-## SST Records and DIY distribution network
+## SST RecordsとDIY流通網
 
 SST Records is indispensable when talking about Black Flag's activities. It was originally the name of an electronics company run by Greg Ginn, which operated completely independently as a record label.
 
-In addition to releasing Black Flag material, SST also actively released works by other underground bands. As a result, a unique distribution network centered on the West Coast was formed, creating a punk economic zone that was not dependent on major labels.
+In addition to releasing Black Flag material, SST also actively released works by other underground bands. As a result, a unique distribution network was formed centered on the West Coast, creating a punk economic zone that was not dependent on major labels.
 
 This DIY model set a realistic precedent for later indie rock and hardcore scenes. His attitude of producing records, printing jackets, distributing them, and arranging tours himself was inseparable from the content of the music itself.
 
-> SST was the infrastructure that supported Black Flag's music.
+> SSTはBlack Flagの音楽を支えるインフラだった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SNIof77YZCA?si=ISvAoLRuO5hECfVG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -127,11 +127,11 @@ This DIY model set a realistic precedent for later indie rock and hardcore scene
 
 ## Change in musicality: From speed to weight
 
-In the early days of Black Flag, speed and shortness were its weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated, and the noisy texture was emphasized.
+初期Black Flagは、速さと短さを武器にしていた。しかし、ロリンズ期に入ると、楽曲は徐々に遅く、重くなっていく。リフは反復され、ノイズ的な質感が強調されるようになった。
 
 This change was not just an experiment, but also a reflection of touring life, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
 
-During this period, Black Flag expanded the boundaries of hardcore and laid the foundation for later influences on sludge, grunge, and alternative rock.
+この時期のBlack Flagは、ハードコアの枠を拡張し、後のスラッジ、グランジ、オルタナティヴ・ロックに影響を与える基盤を築いた。
 
 > The shift toward weight was an evolution, not a stagnation.
 
@@ -145,23 +145,23 @@ flowchart TD
     B --> C[1978 Nervous Breakdown EP]
     C --> D[Keith Morris leaves]
     D --> E[Jealous Again 7inch]
-    E --> F[1981 Henry Rollins joins]
-    F --> G[SST Records expansion]
+    E --> F[1981 ヘンリー・ロリンズ加入]
+    F --> G[SST Records拡大]
 </div>
 
-> The history of Black Flag can be understood as a series of continuous changes.
+> Black Flagの歴史は、連続した変化の連なりとして理解できる。
 
 ---
 
-## Impact and legacy
+## 影響と遺産
 
-Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to make musical compromises became a reference point for countless bands.
+Black Flagは、商業的成功よりも、方法と態度を残したバンドだった。彼らのDIY精神、過酷なツアー、音楽的妥協の拒否は、無数のバンドにとって参照点となった。
 
-The 7-inch songs ""Nervous Breakdown" and ""Jealous Again" are still talked about as the basic form of hardcore. On the other hand, the heavier, slower songs of the band's latter half dissolved genre boundaries and influenced audiences beyond punk.
+7インチ『Nervous Breakdown』や『Jealous Again』は、今もなおハードコアの基本形として語られる。一方で、後期の重く遅い楽曲群は、ジャンルの境界を溶かし、パンク以外の聴衆にも影響を与えた。
 
 Even though Black Flag is a defunct band, their methodology continues to be updated.
 
-> Black Flag remains a never-ending question.
+> Black Flagは、終わらない問いとして残り続けている。
 
 ---
 

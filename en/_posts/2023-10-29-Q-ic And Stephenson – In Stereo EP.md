@@ -12,9 +12,9 @@ title: Q-ic And Stephenson – In Stereo EP
 ---
 
 
-Q-ic (Luc Byltiauw) is a Belgian DJ and music producer who is also known as the driving force behind Creation Tecnologiq, which created the Antwerp techno movement.
+Q-ic (Luc Byltiauw) は、ベルギーのDJ兼音楽プロデューサーで、アントワープのテクノムーブメントを作ったCreation Tecnologiqの立役者としても知られています。
 
-"In Stereo EP" is Q-ic And Stephenson's first EP.
+「In Stereo EP」は、Q-ic And StephensonのファーストEP。
 
 #### Tracklist
 ```md
@@ -27,5 +27,5 @@ B1. Japanese Tours
 B2. Anything Else
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m29101875086?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29101875086?afid=6142608987){: .button1}
 

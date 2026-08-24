@@ -40,4 +40,4 @@ The jacket is a parody of Kraftwerk's ""Computer World'' released in 1981.
 17. テクノポリス
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}

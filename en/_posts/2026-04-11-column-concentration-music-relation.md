@@ -15,17 +15,17 @@ title: '[Column] The science of frequency and music that improves concentration'
 
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: The structure of music that maximizes concentration, deciphered from the relationship between sound frequencies and brain waves
+文：mmr｜テーマ：音の周波数と脳波の関係から読み解く、集中力を最大化する音楽の構造
 
-Music is not just entertainment. Certain sounds accelerate thoughts, certain rhythms erase the sense of time. In particular, what is called ""sounds that improve concentration'' can be explained not by sensory preferences but by the relationship between physical vibrations and neural activity.
+音楽は単なる娯楽ではない。ある種の音は思考を加速させ、ある種のリズムは時間の感覚を消し去る。特に「集中力を高める音」と呼ばれるものは、感覚的な好みではなく、物理的な振動と神経活動の関係によって説明できる領域にある。
 
-Although the word frequency is often treated mysteriously, it is actually a very concrete phenomenon. Air vibrations are converted into electrical signals through the ears, which stimulate specific areas of the brain. This chain forms a kind of ""brain mode'' called a state of concentration.
+周波数という言葉はしばしば神秘的に扱われるが、実際には極めて具体的な現象である。空気の振動が耳を通じて電気信号へと変換され、脳の特定領域を刺激する。その連鎖が、集中状態という一種の「脳のモード」を形成する。
 
-In this column, we will organize the relationship between frequency, brain waves, and musical structure along with historical trends, and clarify the conditions for sound that actually improve concentration.
+このコラムでは、周波数・脳波・音楽構造の関係を歴史的な流れとともに整理し、実際に集中力を高める音の条件を明確にしていく。
 
-> Concentration is not an accident, but a state that can be designed.
+> 集中とは偶然ではなく、設計可能な状態である。
 ---
 
 <style type="text/css">
@@ -33,7 +33,7 @@ In this column, we will organize the relationship between frequency, brain waves
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,42 +42,42 @@ color: #fff;
 </style>
 
 
-## What is frequency?
+## 周波数とは何か
 
-### The true nature of sound is vibration
+### 音の正体は振動である
 
-Sound is the vibration of air, and its frequency is called "frequency (Hz)." For example, 440Hz means a sound that vibrates 440 times per second. The higher the value, the higher the sound, and the lower the value, the lower the sound.
+音とは空気の振動であり、その振動数を「周波数（Hz）」と呼ぶ。例えば440Hzは、1秒間に440回振動する音を意味する。この数値が高いほど音は高く、低いほど低く聞こえる。
 
-The audible range for humans is said to be approximately 20Hz to 20,000Hz, but it is not the simple audible range that is related to concentration, but a specific frequency range that is associated with brain responses.
+人間が可聴できる範囲はおおよそ20Hz〜20,000Hzとされるが、集中力に関係するのは単純な可聴域ではなく、脳の反応と結びついた特定の帯域である。
 
-In addition to the top image, we will prepare a diagram that visually conveys the "relationship between frequency and concentration" in a form that can be used as is for Jekyll. It can be embedded as is in mermaid format.
+トップイメージに加えて、「周波数と集中の関係」が視覚的に伝わる図をJekyll用にそのまま使える形で用意します。mermaid形式でそのまま埋め込み可能です。
 
 ---
 
 
 
-### Relationship with brain waves
+### 脳波との関係
 
-The brain constantly emits electrical rhythms called brain waves. Representative ones are as follows.
+脳は常に電気的なリズムを発しており、それを脳波と呼ぶ。代表的なものは以下の通りである。
 
 *Delta waves (0.5-4Hz): deep sleep
 * Theta waves (4-8Hz): meditation/light sleep
-* Alpha waves (8~13Hz): Relaxed state
-* Beta waves (13-30Hz): Concentration and alertness
-* Gamma waves (30Hz or higher): Advanced cognitive activity
+* アルファ波（8〜13Hz）：リラックス状態
+* ベータ波（13〜30Hz）：集中・覚醒
+* ガンマ波（30Hz以上）：高度な認知活動
 
 ---
 
 
-## Correspondence diagram between frequency bands and brain waves
+## 周波数帯と脳波の対応図
 
 <div class="mermaid">
 graph LR
-    A[Delta wave 0.5-4Hz] -->|deep sleep| B[low arousal]
-    C[Theta waves 4-8Hz] -->|meditation/semi-awakening| B
-    D[Alpha waves 8-13Hz] -->|relax focus| E[optimal concentration]
-    F[Beta wave 13-30Hz] -->|activities/thoughts| E
-    G[Gamma wave 30Hz or more] -->|advanced cognition| H[Overconcentration/fatigue]
+    A[デルタ波 0.5-4Hz] -->|深い睡眠| B[低覚醒]
+    C[シータ波 4-8Hz] -->|瞑想・半覚醒| B
+    D[アルファ波 8-13Hz] -->|リラックス集中| E[最適な集中状態]
+    F[ベータ波 13-30Hz] -->|活動・思考| E
+    G[ガンマ波 30Hz以上] -->|高度認知| H[過集中・疲労]
 </div>
 
 ---
@@ -85,24 +85,24 @@ graph LR
 
 Importantly, external sound stimulation can affect these brain waves. This is called "brainwave entrainment."
 
-> Sound is not something that is heard with the ears, but is a phenomenon that is synchronized in the brain.
+> 音は耳で聞くものではなく、脳で同期される現象である。
 
 ---
 
-## Brain entrainment with binaural beats
+## バイノーラルビートと脳の同調
 
-### Illusion created by two frequencies
+### 二つの周波数が生む錯覚
 
 Binaural beats are a phenomenon that generates differential rhythms in the brain by applying sounds of slightly different frequencies to the left and right ears.
 
 for example:
 
-*Left ear: 200Hz
-*Right ear: 210Hz
+* 左耳：200Hz
+* 右耳：210Hz
 
-At this time, the brain senses the rhythm of 10Hz. This does not actually exist, but is generated in the brain.
+このとき脳は「10Hz」のリズムを感じ取る。これは実際には存在しないが、脳内で生成される。
 
-This 10Hz corresponds to alpha waves and is said to induce a relaxed state.
+この10Hzはアルファ波に相当し、リラックス状態を誘導するとされる。
 
 ---
 
@@ -111,81 +111,81 @@ This 10Hz corresponds to alpha waves and is said to induce a relaxed state.
 
 <div class="mermaid">
 graph TD
-    L[Left ear 200Hz] --> BRAIN[brain processing]
-    R[Right ear 210Hz] --> BRAIN
-    BRAIN --> RESULT[Perceiving a difference of 10Hz]
-    RESULT --> EFFECT[alpha wave induction]
+    L[左耳 200Hz] --> BRAIN[脳内処理]
+    R[右耳 210Hz] --> BRAIN
+    BRAIN --> RESULT[差分10Hzを知覚]
+    RESULT --> EFFECT[アルファ波誘導]
 </div>
 
 ---
 
-### Experiments and Applications
+### 実験と応用
 
 Research on binaural beats has progressed since the 1970s, and it has been suggested that certain frequency bands may affect attention and memory.
 
 However, it is important to note that this is not a one-size-fits-all "magic frequency." The effects vary from person to person and depend on the environment, volume, and duration.
 
-> What creates concentration is not the frequency itself, but its relationship with the brain.
+> 集中を生むのは周波数そのものではなく、脳との関係性である。
 
 ---
 
-## Music structure and concentration
+## 音楽構造と集中力
 
 ### Rhythm stability
 
-One of the characteristics of music that maintains concentration is rhythmic stability. Music that has a constant tempo and few changes saves cognitive resources because the brain doesn't have to do extra predictive processing.
+集中力を維持する音楽の特徴の一つは、リズムの安定性である。テンポが一定で変化が少ない音楽は、脳に余計な予測処理をさせないため、認知リソースを節約できる。
 
 In particular, the following tempo bands are considered valid:
 
-* 60-80 BPM: Relax and concentrate
-*90~120 BPM: Concentration to increase work efficiency
+* 60〜80 BPM：リラックスしながらの集中
+* 90〜120 BPM：作業効率を高める集中
 
 ---
 
-## Relationship between tempo and concentration state
+## テンポと集中状態の関係
 
 <div class="mermaid">
 graph LR
-    A[60-80 BPM] -->|relax focus| B[reading/thinking]
-    C[80-100 BPM] -->|stable work| D[desk work]
-    E[100-120 BPM] -->|Awakening concentration| F[Light work/repetition]
-    G[120 BPM or more] -->|overstimulation| H[centralized decentralization]
+    A[60-80 BPM] -->|リラックス集中| B[読書・思考]
+    C[80-100 BPM] -->|安定作業| D[desk work]
+    E[100-120 BPM] -->|覚醒集中| F[Light work/repetition]
+    G[120 BPM以上] -->|overstimulation| H[集中分散]
 </div>
 
 ---
 
-### Harmony and tone
+### 和声と音色
 
-Overly complex harmonies and strong melodies steal the brain"s attention. On the other hand, simple chord progressions and sustained sounds (drones) don"t get in the way of thinking.
+複雑すぎる和声や強いメロディは、脳の注意を奪う。逆に、単純なコード進行や持続音（ドローン）は、思考の邪魔をしない。
 
 This is why ambient and minimal music is suitable for working.
 
 ### Repetition and prediction
 
-The human brain is excellent at pattern recognition. Music with a consistent loop structure increases predictability and creates a sense of security. In this state, it is easy to enter a "flow state".
+The human brain is excellent at pattern recognition. Music with a consistent loop structure increases predictability and creates a sense of security. In this state, it is easy to enter a "flow state."
 
 > Good work music is music that makes you feel invisible.
 
 ---
 
-## Frequency Myths and Scientific Facts
+## 周波数神話と科学的事実
 
-### 432Hz and 440Hz controversy
+### 432Hzと440Hz論争
 
-The theory that ""432Hz is natural and has a healing effect'' is widely known, but there is limited scientific support. The difference from the standard pitch of 440Hz is minute, and no clear physiological differences have been confirmed.
+「432Hzは自然で癒し効果がある」という説が広く知られているが、科学的な裏付けは限定的である。標準ピッチである440Hzとの違いは微細であり、明確な生理的差異は確認されていない。
 
-### Solfeggio Frequency
+### ソルフェジオ周波数
 
-There are also claims that "special frequencies" such as 528Hz are effective for DNA repair, but there is insufficient scientific evidence for this as well.
+528Hzなどの「特別な周波数」がDNA修復に効果があるという主張も存在するが、これも科学的証拠は不十分である。
 
-### What really matters
+### 実際に重要な要素
 
-Research has shown that the following factors are more important:
+研究から明らかになっているのは、以下の要素の方が重要だという点である：
 
-* Volume (not too loud)
-* Repeating structure
+* 音量（大きすぎない）
+* 繰り返し構造
 * External noise isolation
-*Personal preferences
+* 個人の嗜好
 
 > Environment and habits influence concentration more than the mystery of frequency.
 
@@ -195,15 +195,15 @@ Research has shown that the following factors are more important:
 
 <div class="mermaid">
 graph LR
-    LOW[Low range 20-200Hz] -->|Excessive fatigue| NG[decreased concentration]
-    MID[Midrange 200-2000Hz] -->|stable| OK[stay focused]
-    HIGH[High range 2000Hz or more] -->|overstimulation| NG
+    LOW[低域 20-200Hz] -->|Excessive fatigue| NG[集中低下]
+    MID[Midrange 200-2000Hz] -->|安定| OK[集中維持]
+    HIGH[高域 2000Hz以上] -->|overstimulation| NG
 </div>
 
 ---
 
 
-## Chronology: History of research on concentration and sound
+## 年表：集中と音の研究史
 
 <div class="mermaid">
 timeline
@@ -217,77 +217,77 @@ timeline
     2020 : AI生成音楽とパーソナライズ
 </div>
 
-> Concentration music has changed with the evolution of science and technology.
+> 集中音楽は科学とテクノロジーの進化とともに変化してきた。
 
 ---
 
 ## Sound blueprint: Structure that creates concentration
 
-### Ideal sound conditions
+### 理想的な音の条件
 
-Sound conditions for maximizing concentration can be summarized as follows:
+集中力を最大化するための音の条件は、以下のように整理できる：
 
-* Frequency band: Centered on mid-low range (200Hz to 2000Hz)
-* Tempo: Constant (60-100 BPM)
-* Dynamics: little change
-* Melody: Subdued or None
-* Noise: Use of white noise and natural sounds
+* 周波数帯：中低域中心（200Hz〜2000Hz）
+* テンポ：一定（60〜100 BPM）
+* ダイナミクス：変化が少ない
+* メロディ：控えめまたはなし
+* ノイズ：ホワイトノイズや自然音の活用
 
-### Practical approach
+### 実践的なアプローチ
 
 * Use noise music in noisy environments
 * Ambient music and drones for deep concentration
-* Add a light beat to simple tasks
+* 単純作業には軽いビートを加える
 
 The important thing is to ""change the sound depending on the purpose.''
 
-> Music is not something you choose, but something you use properly.
+> 音楽は選ぶものではなく、使い分けるものである。
 
 ---
 
-## Sound and flow state
+## 音とフロー状態
 
 ### What is flow?
 
-Flow state, coined by psychologist Mihaly Csikszentmihalyi, is a state of complete immersion. The sense of time disappears and work efficiency is maximized.
+心理学者ミハイ・チクセントミハイによって提唱されたフロー状態とは、完全に没入した状態を指す。時間感覚が消え、作業効率が最大化される。
 
-Music acts as a gateway to this state.
+音楽はこの状態への入り口として機能する。
 
 --
 
-## Relationship between flow state and sound
+## フロー状態と音の関係
 
 <div class="mermaid">
 graph TD
-    SOUND[constant music] --> BLOCK[External noise isolation]
-    SOUND --> RHYTHM[internal rhythm stability]
-    BLOCK --> FLOW[flow state]
+    SOUND[一定の音楽] --> BLOCK[外部ノイズ遮断]
+    SOUND --> RHYTHM[内的リズム安定]
+    BLOCK --> FLOW[フロー状態]
     RHYTHM --> FLOW
-    FLOW --> OUTPUT[high concentration]
+    FLOW --> OUTPUT[高い集中力]
 </div>
 
 ---
 
-### Why sound helps flow
+### 音がフローを助ける理由
 
-* Block out outside noise
-* Adjust your internal rhythm
-* Limit your attention
+* 外界のノイズを遮断する
+* 内的リズムを整える
+* 注意の対象を限定する
 
-As a result, it becomes easier for the brain to focus on one task.
+結果として、脳は一つのタスクに集中しやすくなる。
 
-> Flow is guided by environment, not talent.
+> フローは才能ではなく、環境によって誘導される。
 
 ---
 
-## Conclusion
+## 結論
 
-There is no "universal frequency" for music that improves concentration. However, it is possible to design an environment that facilitates concentration by combining frequency, rhythm, and structure.
+集中力を高める音楽に「万能の周波数」は存在しない。しかし、周波数・リズム・構造の組み合わせによって、集中しやすい環境を設計することは可能である。
 
-Scientifically important are synchrony with brain waves, predictable structure, and control of noise. If you understand these things, you can create the optimal sound environment for yourself.
+科学的に重要なのは、脳波との同調、予測可能な構造、そしてノイズの制御である。これらを理解すれば、自分にとって最適な音環境を作ることができる。
 
-Music doesn't just flow. It is a tool for guiding thought and a device for creating a state of concentration.
+音楽はただ流れるものではない。思考を導くツールであり、集中という状態を作り出す装置でもある。
 
-> Concentration is a technique that allows you to tune in through sound.
+> 集中とは、音によってチューニングできる技術である。
 
 ---

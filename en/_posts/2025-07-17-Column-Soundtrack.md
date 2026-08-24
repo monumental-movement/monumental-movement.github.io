@@ -31,7 +31,7 @@ While film music is part of the film itself, it is also an independent work of a
 
 ### History of film music and the origins of recording
 
-**● Silent film period (~1920s)**
+**● 無声映画期（〜1920年代）**
 
 A pianist and an orchestra provided live music at the movie theater. Therefore, ""recorded film music media'' did not exist in this era. Film music scores have been in circulation, but there are no records of them being used as media.
 
@@ -45,7 +45,7 @@ Around this time, the meaning of ""soundtrack = audio material of a movie'' beca
 
 ■Recording on the film itself (sound on film)
 
-- Optical recording method (Optical Soundtrack)
+- Optical Soundtrack
 
 Popularized between the 1930s and 1950s.
 
@@ -59,7 +59,7 @@ Appeared in the 1950s and 1960s. Enables stereo recording and improved dynamic r
 
 It flourished from the 1950s to the 1980s as a medium for general distribution of film music.
 
-Contains only movie highlights and representative songs. Due to physical constraints, there are many excerpts.
+映画のハイライトや代表曲のみ収録。物理的制約により抜粋盤が多い。
 
 ■Cassette tape / 8 track
 
@@ -69,9 +69,9 @@ A new way to carry movie music with your car audio or portable device.
 
 ■CD (compact disc)
 
-Since the 1980s, it has become popular as a format with high sound quality, long duration, and high flexibility in song order.
+Since the 1980s, it has become popular as a format with high sound quality, long duration, and a high degree of freedom in song order.
 
-It became possible to record full scores, creating a golden age for movie music appreciation.
+フルスコアの収録も可能となり、映画音楽鑑賞の黄金時代を形成。
 
 Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) also appear.
 
@@ -79,13 +79,13 @@ Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Saraband
 
 A medium for ""re-experiencing'' soundtracks in video works.
 
-The spatial expression of music has greatly evolved with stereophonic technology such as 5.1ch/DTS.
+5.1ch / DTSなど、立体音響技術により音楽の空間表現が大きく進化。
 
-■Digital sound source (MP3/WAV/FLAC/AAC)
+■デジタル音源（MP3 / WAV / FLAC / AAC）
 
 Music source sales on iTunes and Amazon MP3.
 
-Independent film composers are also featured on platforms such as Bandcamp.
+Bandcampなどのプラットフォームでの独立系映画音楽家の発信も。
 
 Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
 
@@ -95,7 +95,7 @@ Full scores, unreleased songs, and alternate takes can be delivered in high reso
 
 Create playlists for ""movie mood" and ""BGM" instead of albums.
 
-The boundary between "functionality" and "artistic" in film music is once again being questioned.
+映画音楽の“機能性”と“芸術性”の境界が再び問われている。
 
 ---
 
@@ -103,11 +103,11 @@ The boundary between "functionality" and "artistic" in film music is once again 
 
 flowchart TD
   A["🎞 Sound on film (1930s-1960s) Optical recording → magnetic recording. Stereo conversion and improved sound quality"]
-  B["💿Records (1950s-1980s) General distribution of film music. Mainly recording highlights."]
-  C["📼 Cassette / 8-track (1970s-80s) Popularity in home and car playback devices. Portability of movie music."]
+  B["💿 レコード（1950〜80年代） 映画音楽の一般流通。ハイライト収録中心"]
+  C["📼 Cassette / 8-track (1970s-1980s) Popularity in home and car playback devices. Portability of movie music."]
   D["💽 CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
-  E["📀 DVD/Blu-ray (1990s and later) Re-experience the soundtrack with video + 3D sound"]
-  F["💻Digital sound sources (2000s~) MP3/FLAC, etc. High-resolution distribution and communication by independent artists"]
+  E["📀 DVD / Blu-ray（1990年代以降） 映像＋立体音響でサウンドトラックを再体験"]
+  F["💻 デジタル音源（2000年代〜） MP3 / FLACなど。高解像度配信と独立作家の発信"]
   G["☁ Subscription (2010s~) The era of listening to movie music. Create a playlist and redefine it"]
 
   A --> B --> C --> D --> E --> F --> G
@@ -120,14 +120,14 @@ flowchart TD
 
 <div class="table-border">
 <table>
-<thead>
+  <thead>
 <tr>
-<th>Item</th>
+      <th>項目</th>
 <th>Soundtrack (OST)</th>
-<th>Score (Original Score)</th>
+      <th>スコア（Original Score）</th>
 </tr>
 </thead>
-<tbody>
+  <tbody>
 <tr>
 <td>Included sound sources</td>
 <td>All songs used in the movie (including pre-made songs)</td>
@@ -136,10 +136,10 @@ flowchart TD
 <tr>
 <td>Format</td>
 <td>Compilation-like</td>
-<td>Recorded by orchestra or synth</td>
+<td>Orchestra or synth recording</td>
 </tr>
 <tr>
-<td>Example</td>
+      <td>例</td>
 <td>Trainspotting OST (a lot of 90's UK music)</td>
 <td>The Dark Knight Score (Hans Zimmer)</td>
 </tr>
@@ -151,7 +151,7 @@ flowchart TD
 
 <hr>
 
-### Collectors culture and limited edition market
+### コレクターズ文化と限定盤市場
 
 Film music is also a popular collector's item, with the following media being particularly prized:
 
@@ -163,18 +163,18 @@ Example: Aliens - Complete Motion Picture Score (Intrada)
 
 Death Waltz and Waxwork Records release horror movie music like works of art.
 
-- Film score publishing
+- フィルム・スコアの楽譜出版
 
 Scores are published for the purpose of film music performance and research.
 
 
 <hr>
 
-### Changes in the medium from a composer's perspective
+### 作曲家視点から見た媒体の変遷
 
 **● John Williams generation (analog to CD)**
 
-Analog master for orchestral recording → digitization
+オーケストラ収録を前提としたアナログマスター → デジタル化
 
 **● Hans Zimmer generation (digital native)**
 
@@ -195,11 +195,11 @@ Mixes based on Dolby Atmos and spatial audio are also on the rise.
 
 The medium of film music is not simply a means of delivering sound; it is a device that can be separated from the image and appreciated on its own, or reconnected with the image to allow for a re-experience.
 
-Scores that give you new discoveries when you listen to them on CD (e.g. music by Thomas Newman)
+Scores that give you new discoveries when you listen to them on CD (e.g. Thomas Newman's music)
 
-A soundtrack that "evokes memories" by being separated from the images
+映像と切り離されることで“記憶を喚起”するサウンドトラック
 
-The emergence of next-generation media that is reintegrated with images, such as game music and VR
+The emergence of next-generation media that is reintegrated with video, such as game music and VR
 
 
 <hr>
@@ -208,7 +208,7 @@ The emergence of next-generation media that is reintegrated with images, such as
 
 Movie music remains in our hearts as "time" in a way that is different from stories and images. And those memories are preserved through the ""media'' of LPs, CDs, MP3s, and streaming, and are sometimes played back and sometimes forgotten.
 
-The sound that flows on the screen returns to our insides through the speakers. The medium is a vessel for memory and another device for reproducing the story.
+スクリーンに流れた音は、スピーカーを通してまた私たちの内側に帰ってくる。媒体とは、記憶の器であり、物語のもうひとつの再生装置なのだ。
 
 
 <hr>
@@ -222,9 +222,9 @@ The sound that flows on the screen returns to our insides through the speakers. 
 <th>Artist/Arranger</th>
 <th>Title</th>
 <th>Age/Works</th>
-<th>Format</th>
+      <th>フォーマット</th>
 </tr>
-</thead>
+  </thead>
 <tbody>
 <tr>
 <td>Jerry Goldsmith</td>
@@ -235,22 +235,22 @@ The sound that flows on the screen returns to our insides through the speakers. 
 <tr>
 <td>VA</td>
 <td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Tank Girl</a></td>
-<td>1995 movie soundtrack</td>
+      <td>1995年 映画サントラ</td>
 <td>CD</td>
 </tr>
 <tr>
 <td>Adam Clayton & Larry Mullen</td>
 <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
-<td>1996 movie theme</td>
+      <td>1996年 映画テーマ</td>
 <td>Cassette</td>
-</tr>
-<tr>
+    </tr>
+    <tr>
 <td>Ennio Morricone</td>
 <td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
 <td>1989 movie soundtrack</td>
 <td>CD</td>
-</tr>
-</tbody>
+    </tr>
+  </tbody>
 </table>
 </div>
 

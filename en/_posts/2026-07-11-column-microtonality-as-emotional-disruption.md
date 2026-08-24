@@ -10,52 +10,51 @@ tags:
 - Microtonality
 - Experimental
 - Psychoacoustics
-title: '[Column] Microtonality as Emotional Disruption: Why do microtonality affect
-  our emotions?'
+title: 【コラム】 Microtonality as Emotional Disruption：なぜ微分音は私たちの感情を揺さぶるのか
 ---
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: How does the human brain understand sound and how does our emotions change when we move away from the twelve-equal temperament that Western music has taken for granted? Interpreting microtones from psychology, neuroscience, and music history
+文：mmr｜テーマ：西洋音楽が当然としてきた十二平均律を離れたとき、人間の脳は音をどのように理解し、感情はどのように変化するのか。微分音を心理学・神経科学・音楽史から読み解く
 
 
 
-There are "right sounds" and "wrong sounds" in music.
+音楽には「正しい音」と「間違った音」がある。
 
-There are many people who think so.
+そう考えている人は少なくない。
 
-However, is this really a universal value?
+しかし、それは本当に世界共通の価値観なのだろうか。
 
-The piano keyboard has twelve notes that make up one octave.
+ピアノの鍵盤は十二個の音で一つのオクターブを構成している。
 
-Whether it's through school education, pop music, or classical music, many people grow up recognizing only that world as music.
+学校教育でも、ポップスでも、クラシックでも、多くの人はその世界だけを音楽だと認識して育つ。
 
-That's why when I encounter a sound that slightly deviates from that framework, I feel anxious, nervous, or uncomfortable.
+だからこそ、その枠組みからほんの少し外れた音に出会うと、不安や緊張、あるいは居心地の悪さを覚える。
 
-Interestingly, the discomfort is not necessarily caused by the "sound itself."
+面白いことに、その違和感は「音そのもの」が原因とは限らない。
 
-In reality, the discrepancy between the predictions our own brains have learned over many years and reality may be manifesting in our emotions.
+実際には、私たち自身の脳が長年学習してきた予測と現実とのズレが、感情として現れている可能性がある。
 
-In other words, microtonality is not music with increased pitches.
+つまり微分音とは、音程を増やした音楽ではない。
 
-This is music that questions human perception itself.
+人間の知覚そのものを問い直す音楽なのである。
 
-In experimental and contemporary music, there are many works that actively utilize this ""moment when predictions are betrayed''.
+実験音楽や現代音楽では、この「予測が裏切られる瞬間」を積極的に利用する作品が数多く存在する。
 
-One of the most representative artists is the Quebec-based experimental rock duo **Angine de Poitrine**.
+そして、その代表的なアーティストの一つとして語られることが多いのが、ケベックを拠点とする2人組実験的ロック・デュオ **Angine de Poitrine** である。
 
-Many people who hear their work for the first time feel like they don"t know what they"re listening to.
+彼らの作品を初めて聴いた人の多くは、「何を聴かされているのかわからない」と感じる。
 
-However, that feeling is not a failure.
+しかし、その感覚は失敗ではない。
 
-Rather, it is closer to the experience intended by the work itself.
+むしろ作品そのものが意図している体験に近い。
 
-In this article, we will consider microtonality not just as a music theory, but as a mechanism that can stir human emotions.
+本稿では、微分音を単なる音楽理論としてではなく、人間の感情を揺さぶる仕組みとして考えていく。
 
-While broadening his horizons beyond music history to include psychoacoustics, neuroscience, and cultural anthropology, he approaches the question, "Why do we find this sound strange?"
+音楽史だけではなく、心理音響学、神経科学、文化人類学まで視野を広げながら、「なぜ私たちはこの音を奇妙だと感じるのか」という問いに迫っていく。
 
-> Microtone is not a special musical technique, but a mirror that reflects the assumptions of human hearing that we have assumed to be ""normal.''
+> 微分音は特殊な音楽技法ではなく、人間が「普通」と思い込んできた聴覚の前提を映し出す鏡でもある。
 
 
 
@@ -66,7 +65,7 @@ While broadening his horizons beyond music history to include psychoacoustics, n
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -78,383 +77,383 @@ color: #fff;
 ---
 
 
-## Twelve-equal temperament is not "natural"
+## 十二平均律は「自然」ではない
 
-### Scales that we take for granted
+### 私たちが当たり前だと思っている音階
 
-Currently, the most widely used temperament around the world is twelve equal temperament.
+現在、世界中で最も広く利用されている音律は十二平均律である。
 
-Many musical instruments, such as pianos, guitars, and synthesizers, are designed with this system in mind.
+ピアノやギター、シンセサイザーなど、多くの楽器はこの仕組みを前提として設計されている。
 
-This method of dividing an octave into twelve equal intervals has the practical advantage of making modulation easier and accommodating many tonalities.
+一オクターブを十二個の等しい間隔へ分割するこの方式は、転調を容易にし、多くの調性へ対応できるという実用的な利点を持っている。
 
-However, the important point is that this temperament was not discovered in nature, but is a system developed by humans for convenience.
+しかし重要なのは、この音律が自然界から発見されたものではなく、人間が利便性のために整備したシステムだという点である。
 
-If twelve equal temperament were the only absolute music, then cultures all over the world would share the same scale.
+もし十二平均律が唯一絶対の音楽であるならば、世界中の文化は同じ音階を共有していたはずである。
 
-The reality is that this is not the case.
+現実はそうではない。
 
-Different musical temperaments have developed in each region, and each region has cultivated its own unique beauty.
+地域ごとに異なる音律が発達し、それぞれ独自の美しさを育んできた。
 
-In other words, the "correct pitch" differs depending on the culture.
+つまり、「正しい音程」は文化によって異なるのである。
 
-### Convenient pitch rather than perfect pitch
+### 完全な音程より便利な音程
 
-Just intonation produces a very beautiful sound based on whole number ratios.
+純正律では整数比に基づいた非常に美しい響きが得られる。
 
-However, repeated modulations tend to disrupt the consistency of pitches, limiting the keys that can be played.
+しかし転調を繰り返すと音程の整合性が崩れやすく、演奏可能な調が制限される。
 
-To solve this problem, Twelve Equal Temperament was designed to handle all keys equally while gradually compromising the perfect integer ratio.
+十二平均律はその問題を解決するため、完全な整数比を少しずつ妥協しながら全ての調を均等に扱えるよう設計された。
 
-This was an engineering rather than an artistic invention.
+これは芸術的というより、工学的な発明だった。
 
-As a result of growing up surrounded by convenience, we have come to think of it as ""natural.''
+私たちはその便利さの中で育った結果、それを「自然」だと思うようになったのである。
 
-### Feelings created by music education
+### 音楽教育が作る感覚
 
-Nursery rhymes, school education, TV commercials, movie music, and pop songs that we hear from a young age.
+幼い頃から耳にする童謡、学校教育、テレビCM、映画音楽、ポップソング。
 
-Most of them are composed of twelve equal temperament.
+そのほとんどは十二平均律で構成されている。
 
-Through repeated listening, the human brain learns that certain pitches are reassuring sounds.
+繰り返し聴き続けることで、人間の脳は特定の音程を「安心できる音」として学習する。
 
-Conversely, sounds that deviate from this framework are more likely to be perceived as ""abnormal.''
+逆に、その枠組みから外れる音は「異常」として知覚されやすくなる。
 
-In other words, the feeling of discomfort is not an innate instinct, but a perception formed through experience.
+つまり違和感は、生まれつき備わった本能ではなく、経験によって形成された知覚なのである。
 
-> The Twelve Equal Temperature is not a law of nature, but merely a convention that humans have continued to choose throughout history.
-
----
-
-## There is music in the world that cannot be expressed with twelve tones.
-
-### Microtonal culture is by no means an exception.
-
-If you only look at Western music, it seems like the world is made up of twelve tones.
-
-However, if you broaden your perspective, that way of thinking becomes a minority.
-
-Maqam developed in the Middle East, and raga developed its own melodic system in India.
-
-In Türkiye and Iran, even finer pitches are used on a daily basis, and even in traditional Japanese music, the pitch fluctuates slightly depending on the performer.
-
-None of these are "inaccurate pitches."
-
-It is an aesthetic sense that each culture has developed over many years.
-
-### Voices are originally continuous.
-
-The human voice does not originally have a level difference like a piano keyboard.
-
-Singers can move smoothly from note to note.
-
-The same goes for stringed instruments.
-
-Violins and cellos have no frets, so in theory they can play an infinite number of notes.
-
-In other words, the concept of only twelve sounds does not exist in nature.
-
-Humans simply select 12 frequencies out of a series of frequencies for convenience.
-
-### Microtone is not the future but also the past
-
-Microtonality is not an experiment created by modern music.
-
-In fact, it has existed for centuries in many parts of the world.
-
-It would be more accurate to say that contemporary experimental music is rediscovering its rich possibilities in new ways.
-
-That's why microtonality is both innovative and extremely traditional at the same time.
-
-> The fact that music is not just twelve tones quietly shakes our sense of "normality."
-
+> 十二平均律は自然法則ではなく、人間が歴史の中で選び続けてきた一つの約束事に過ぎない。
 
 ---
 
+## 世界には十二音では表せない音楽が存在する
 
-## The brain is not listening to "sound" but predicting "the future"
+### 微分音文化は決して例外ではない
 
-### Hearing is not passive
+西洋音楽だけを見ると、十二音で世界が構成されているように思える。
 
-We tend to think that we just accept the sounds we hear.
+しかし視野を広げれば、その考え方は少数派になる。
 
-However, recent neuroscience has revealed that hearing is a highly active form of information processing.
+中東ではマカームが発展し、インドではラーガが独自の旋律体系を築いてきた。
 
-The brain does not analyze the sound after it is heard.
+トルコやイランではさらに細かな音程が日常的に用いられ、日本の伝統音楽でも音高は演奏者によって微妙に揺れ動く。
 
-Even before the sound arrives, we are constantly making predictions about what will happen next.
+これらはいずれも「音程が不正確」なのではない。
 
-For example, if a nursery rhyme that everyone knows is sung halfway through, many people can naturally sing the rest in their heads.
+それぞれの文化が長い年月をかけて育ててきた、美的感覚なのである。
 
-This isn't just about memory.
+### 声はもともと連続している
 
-This is because the brain is preparing for the next sound in advance.
+人間の声は、本来ピアノの鍵盤のように段差を持っていない。
 
-Music is a temporal art, and each sound has meaning depending on its surrounding context.
+歌手は音から音へ滑らかに移動できる。
 
-In other words, we are not only listening to the present sounds, but are experiencing music while simultaneously processing past memories and future predictions.
+弦楽器も同じである。
 
-### Attention turns when predictions are wrong.
+ヴァイオリンやチェロにはフレットが存在しないため、理論上は無数の音程を演奏できる。
 
-When you listen to music, your brain is constantly updating its expectations.
+つまり自然界には、十二個だけの音という概念は存在しない。
 
-If the regular rhythm continues, you can predict the next beat, and if the melody continues, you can imagine the next pitch.
+連続した周波数の中から、人間が便宜的に十二個を選び出しているだけなのである。
 
-When these predictions match, a sense of security arises and the music flows smoothly.
+### 微分音は未来ではなく過去でもある
 
-On the other hand, when predictions are wrong, the brain focuses attention on that change.
+微分音は現代音楽が生み出した実験ではない。
 
-This phenomenon is studied in cognitive science as "prediction error."
+むしろ世界の多くの地域では何世紀も前から存在してきた。
 
-Of course, being wrong in predictions is not itself a bad thing.
+現代の実験音楽は、その豊かな可能性を新しい方法で再発見していると言った方が正確である。
 
-Rather, the music's charm is born from this balance of prediction and betrayal.
+だからこそ微分音は、革新的でありながら同時に極めて伝統的な存在でもある。
 
-It would be boring if it was completely predictable.
+> 十二音だけが音楽ではないという事実は、私たちの「普通」という感覚を静かに揺さぶってくる。
 
-On the other hand, if you can"t predict it, you"ll be confused.
-
-Great composers have mastered the in-between.
-
-The harmonic progression of classical music, the tension of jazz, and the chorus of pop music are all built on this principle.
-
-### Microtones obscure predictions themselves
-
-What makes microtones special is not that they defy predictions.
-
-The problem lies in the fact that it blurs the very boundary between what can be predicted and what cannot be predicted.
-
-For example, just when you think the sound should go up a semitone, a sound appears that stops midway.
-
-The brain keeps thinking, ""It should go up a little more.''
-
-But the sound stopped there.
-
-The prediction is then not revised and remains unstable.
-
-This is the unique tension that arises when listening to microtonals.
-
-It is different from simple dissonance.
-
-The feeling that ""it's not over yet'' persists.
-
-> Rather than confuse the ear, microtonals quietly shake up the very mechanism by which the brain predicts the future.
 
 ---
 
-## The reason you feel "disgusting" is not the sound but the learning.
 
-### Discomfort varies by culture
+## 脳は「音」を聴いているのではなく「未来」を予測している
 
-When you hear certain music for the first time, you may feel ""mysterious" or ""uneasy."
+### 聴覚は受動的ではない
 
-That feeling cannot be explained solely by the nature of the sound itself.
+私たちは耳に入った音を、そのまま受け取っていると思いがちである。
 
-Cultural psychology believes that a person's aesthetic sense is greatly influenced by the environment.
+しかし近年の神経科学では、聴覚は非常に能動的な情報処理であることが明らかになっている。
 
-Perfect fifths and major thirds sound natural to people raised on Western music.
+脳は音が鳴ったあとに分析するのではない。
 
-However, in cultures that have grown up with different musical temperaments, different pitches are recognized as having a ""beautiful sound.''
+音が来る前から「次はこうなるだろう」という予測を絶えず作り続けている。
 
-In other words, both pleasant and unpleasant sounds are shaped to a large extent by experience.
+例えば、誰もが知る童謡を途中まで歌われると、多くの人は自然に続きを頭の中で歌うことができる。
 
-### The brain uses sounds it has heard many times as a source of comfort.
+これは記憶だけではない。
 
-Humans tend to prefer the known over the unknown.
+脳が次の音を先回りして準備しているからである。
 
-In psychology, this is a phenomenon known as the mere exposure effect.
+音楽は時間芸術であり、一つひとつの音は前後の文脈によって意味を持つ。
 
-When you listen to the same music over and over again, you may find that you gradually become more comfortable with the piece, even if you don't understand it at first.
+つまり私たちは、現在の音だけを聴いているのではなく、過去の記憶と未来の予測を同時に処理しながら音楽を体験しているのである。
 
-This is not because the work has changed.
+### 予測が外れた瞬間に注意が向く
 
-What has changed is the listener's brain.
+音楽を聴いているとき、脳は常に期待を更新している。
 
-Repeated experience updates predictive models, allowing previously unpredictable pitches to be accepted as natural.
+規則的なリズムが続けば次の拍を予測し、メロディが進めば次の音程を想像する。
 
-In other words, discomfort is not a fixed property, but rather a temporary state that appears during the learning process.
+この予測が一致すると安心感が生まれ、音楽は滑らかに流れていく。
 
-### Discomfort is not necessarily negative
+一方で予測が外れると、脳はその変化へ注意を集中させる。
 
-Art is not only about comfort.
+この現象は認知科学で「予測誤差（Prediction Error）」として研究されている。
 
-Tension plays an important role in movies.
+もちろん、予測が外れること自体が悪いわけではない。
 
-It"s interesting because you can"t read the ending in a novel.
+むしろ音楽の魅力は、この予測と裏切りのバランスによって生まれる。
 
-In painting, a sense of discomfort creates a new perspective.
+完全に予測通りなら退屈になる。
 
-The same goes for music.
+逆に予測できなければ混乱する。
 
-The discomfort caused by microtones is sometimes used as a means of expression to stir emotions.
+優れた作曲家は、その中間を巧みに操ってきた。
 
-Anxiety, anticipation, confusion, curiosity.
+クラシックの和声進行も、ジャズのテンションも、ポップスのサビも、この原理の上に成り立っている。
 
-These complex emotions may not be able to be expressed using only a stable tonality.
+### 微分音は予測そのものを曖昧にする
 
-Microtonality has become an important vocabulary for delineating this ambiguous area.
+微分音が特殊なのは、予測を裏切ることではない。
 
-> "Strange sounds" do not exist universally, but are also products of emotions shaped by each culture and experience.
+「予測できるのか、できないのか」という境界そのものを曖昧にしてしまう点にある。
 
----
+例えば半音上がるはずだと思った瞬間、その途中で止まるような音が現れる。
 
-## Microtone is different from "dissonance"
+脳は「もう少し上がるはずだ」と考え続ける。
 
-### Difference from dissonance
+しかし音はそこで止まったままである。
 
-Microtones are often confused with dissonances.
+すると予測は修正されず、不安定な状態が維持される。
 
-However, the two are not the same concept.
+これが微分音を聴いたときに生じる独特の緊張感である。
 
-Dissonance often refers to a harmonic relationship that creates tension when two or more notes are played simultaneously.
+それは単純な不協和音とは異なる。
 
-On the other hand, microtonality deals with minute differences in pitch itself.
+「まだ終わっていない」という感覚が持続するのである。
 
-Even just one melody is enough.
-
-In other words, microtonality is a concept related to the position of a note rather than the type of chord.
-
-### There is a world inside a single sound
-
-Since the 20th century, many composers have begun to focus not only on the space between sounds, but also on the sound itself.
-
-A slight fluctuation in pitch.
-
-Overtone changes.
-
-Subtle fluctuations that occur at the moment of pronunciation.
-
-These were areas that were not adequately expressed in traditional music notation.
-
-With the development of electronic music and recording technology, people have begun to pay attention to the rich information that exists within sound.
-
-This way of thinking would have a major influence on later sound art, drone music, and experimental music.
-
-### Listen for texture, not pitch
-
-In works that make extensive use of microtones, ""how the sounds are sounded" may be more important than ""which tones are sounded."
-
-Tone, overtones, space, reverberation.
-
-The musical experience, which used to be centered around pitch, is changing to one where you can enjoy the texture.
-
-As a result, it is necessary to have an attitude of listening to the sound itself rather than the melody.
-
-This is not just experimental music.
-
-This idea is widely seen in ambient music, drone, noise, and even some film music.
-
-> Microtones do not increase the number of new sounds, but rather give us an opportunity to open our ears to the richness of sound that has been overlooked until now.
+> 微分音は耳を混乱させるというより、脳が未来を予測する仕組みそのものへ静かに揺さぶりをかけている。
 
 ---
 
-## Why did experimental music move toward microtonality?
+## 「気持ち悪い」と感じる理由は音ではなく学習にある
 
-### The 20th century was a time when "sound itself" was reconsidered.
+### 違和感は文化によって変わる
 
-Western music has long developed around melody and harmony.
+ある音楽を初めて聴いたとき、「不思議だ」「落ち着かない」と感じることがある。
 
-In the Baroque era, counterpoint was refined, in the Classical era, formal beauty was perfected, and in the Romantic era, tonality was expanded to its limits.
+その感覚は、音そのものの性質だけでは説明できない。
 
-However, towards the end of the nineteenth century, it began to become difficult to create new expressions using only traditional tonality.
+文化心理学では、人間の美的感覚は環境から大きな影響を受けると考えられている。
 
-Composers began to reconsider the very rules that had supported music up until now.
+西洋音楽で育った人にとっては、完全五度や長三度は自然に聞こえる。
 
-Twelve-tone technique, atonal music, electronic music, aleatory music.
+しかし異なる音律で育った文化圏では、それとは異なる音程が「美しい響き」として認識されている。
 
-In the 20th century, attempts to redefine music itself occur all over the world.
+つまり快い音も、不快な音も、経験によって形成される割合が非常に大きい。
 
-Amid this trend, attention was once again drawn to the vast world of intervals that extend beyond twelve equal temperament.
+### 脳は何度も聴いた音を安心材料にする
 
-### Microtones did not create "new sounds"
+人間は未知のものより既知のものを好む傾向を持つ。
 
-Music that deals with microtonality sometimes gives a futuristic impression.
+心理学では単純接触効果として知られる現象である。
 
-But in reality, he didn"t invent a sound that didn"t exist.
+同じ音楽を何度も聴くと、最初は理解できなかった作品でも次第に心地よく感じられることがある。
 
-The frequencies of the human voice, stringed instruments, and the sounds of nature change continuously.
+これは作品が変化したのではない。
 
-Twelve equal temperament is a convenient division of this nearly infinite world of tones.
+変わったのは聴き手の脳である。
 
-In other words, microtonality can be said to be an attempt to once again regain the continuity that originally existed, rather than creating a new world.
+繰り返し経験することで予測モデルが更新され、以前は予測不能だった音程が自然なものとして受け入れられる。
 
-This idea has had a great influence not only on contemporary music, but also on electronic music and sound art.
+つまり違和感とは固定された性質ではなく、学習の途中で現れる一時的な状態とも言える。
 
-### Instruments themselves also changed.
+### 不快さは必ずしも否定的ではない
 
-To play microtones, many composers and performers were not satisfied with existing instruments.
+芸術には心地よさだけが求められているわけではない。
 
-A piano with more keys.
+映画では緊張感が重要な役割を果たす。
 
-A guitar with special frets.
+小説では結末が読めないから面白い。
 
-A newly designed wind instrument.
+絵画では違和感が新しい視点を生み出す。
 
-There are even completely uniquely designed musical instruments.
+音楽も同じである。
 
-As electronic music became more popular, these constraints became even smaller.
+微分音が与える居心地の悪さは、感情を揺さぶるための表現手段として利用されることがある。
 
-Computers are not limited by the number of keyboards.
+不安、期待、戸惑い、好奇心。
 
-Because any frequency can be freely generated, microtones have become a more familiar expression than before.
+こうした複雑な感情は、安定した調性だけでは表現しきれない場合がある。
 
-> What experimental music sought was not unusual sounds, but the question itself, ""What is sound?''
+微分音は、その曖昧な領域を描くための重要な語彙となっている。
+
+> 「奇妙な音」は普遍的に存在するのではなく、それぞれの文化と経験が形づくる感情の産物でもある。
 
 ---
 
-## Microtones are also integrated into movies and games.
+## 微分音は「不協和音」とは違う
 
-### We hear microtones without realizing it
+### 不協和音との違い
 
-"I've never heard of microtonal tones."
+微分音はしばしば不協和音と混同される。
 
-Many people think so.
+しかし両者は同じ概念ではない。
 
-However, in modern society, there is hardly a day when we are not exposed to that sound.
+不協和音は、複数の音が同時に鳴ったときに緊張感を生み出す和声的な関係を指すことが多い。
 
-An unsettling scene in a horror movie.
+一方、微分音は音程そのものの細かな違いを扱う。
 
-A scene that increases the tension in a suspense movie.
+一つの旋律だけでも成立する。
 
-A scene in a science fiction movie that depicts an unknown space.
+つまり微分音は、和音の種類ではなく音の位置に関する概念なのである。
 
-These productions often use sound design that slightly oscillates in pitch.
+### 一つの音の内部にも世界がある
 
-It is rarely thought of as a melody.
+二十世紀以降、多くの作曲家は「音と音の間」だけではなく、「一つの音そのもの」に注目するようになった。
 
-But it definitely affects emotions.
+音程のわずかな揺れ。
 
-### Techniques for creating "unexplainable anxiety"
+倍音の変化。
 
-In film music, extreme volume isn't the only way to create anxiety.
+発音の瞬間に生じる微細な変動。
 
-In fact, subtle changes in pitch can create a sense of tension for an extended period of time for the audience.
+これらは従来の五線譜では十分に表現されない領域だった。
 
-It's not a completely off sound, but a "slightly off sound."
+電子音楽や録音技術の発展によって、人々は音の内部に存在する豊かな情報へ目を向けるようになる。
 
-The brain keeps trying to correct the discomfort.
+こうした考え方は、後のサウンドアートやドローン・ミュージック、実験音楽にも大きな影響を与えていく。
 
-As a result, sound can create more psychological pressure than images.
+### 音高ではなく質感を聴く
 
-This isn't just horror.
+微分音を多用する作品では、「どの音が鳴っているか」よりも、「どのように鳴っているか」が重要になる場合がある。
 
-Similar techniques are widely used in psychological dramas, suspense, and science fiction works.
+音色、倍音、空間、残響。
 
-### Electronic music brings microtonality closer to everyday life
+音高中心だった音楽体験は、質感を味わう体験へ変化していく。
 
-With the spread of analog synthesizers and digital sound sources, fine pitch control is no longer a special technique.
+その結果、メロディではなく音そのものを聴く姿勢が求められる。
 
-Pitch modulation by LFO.
+これは実験音楽だけではない。
 
-gentle detune.
+アンビエントやドローン、ノイズ、さらには映画音楽の一部でも広く見られる発想である。
 
-Slight misalignment of multiple oscillators.
+> 微分音は新しい音を増やしたのではなく、これまで見過ごされていた音の豊かさへ耳を向けるきっかけを与えている。
 
-These are very common features on modern synthesizers.
+---
 
-Every time we listen to electronic music, we naturally accept microtonal fluctuations.
+## 実験音楽はなぜ微分音へ向かったのか
 
-In other words, microtonality is not a special experiment, but one of the basic technologies that support modern sound design.
+### 二十世紀は「音そのもの」を見直した時代だった
+
+西洋音楽は長い間、旋律と和声を中心に発展してきた。
+
+バロックでは対位法が磨かれ、古典派では形式美が完成し、ロマン派では調性が極限まで拡張された。
+
+しかし十九世紀の終わり頃になると、従来の調性だけでは新しい表現を生み出すことが難しくなり始める。
+
+作曲家たちは、これまで音楽を支えてきたルールそのものを見直し始めた。
+
+十二音技法、無調音楽、電子音楽、偶然性音楽。
+
+二十世紀には、音楽そのものを再定義しようとする試みが世界各地で起こる。
+
+その流れの中で改めて注目されたのが、十二平均律の外側に広がる膨大な音程の世界だった。
+
+### 微分音は「新しい音」を作ったのではない
+
+微分音を扱う音楽は、ときに未来的な印象を与える。
+
+しかし実際には、存在しなかった音を発明したわけではない。
+
+人間の声も、弦楽器も、自然界の音も、周波数は連続して変化している。
+
+十二平均律は、その無限に近い音の世界を便宜的に区切ったものである。
+
+つまり微分音とは、新しい世界を創造したというより、本来そこに存在していた連続性をもう一度取り戻そうとする試みとも言える。
+
+この発想は現代音楽だけでなく、電子音楽やサウンドアートにも大きな影響を与えていく。
+
+### 楽器そのものも変化していった
+
+微分音を演奏するため、多くの作曲家や演奏家は既存の楽器だけでは満足しなかった。
+
+鍵盤を増やしたピアノ。
+
+特殊なフレットを持つギター。
+
+新たに設計された管楽器。
+
+さらには完全に独自設計された楽器まで登場する。
+
+電子音楽が普及すると、こうした制約はさらに小さくなった。
+
+コンピューターは鍵盤の数に縛られない。
+
+任意の周波数を自由に生成できるため、微分音は以前よりも身近な表現となっていった。
+
+> 実験音楽が追い求めたのは珍しい音ではなく、「音とは何か」という問いそのものだった。
+
+---
+
+## 映画やゲームにも微分音は溶け込んでいる
+
+### 私たちは気付かないまま微分音を聴いている
+
+「微分音なんて聴いたことがない。」
+
+そう思う人は多い。
+
+しかし現代社会では、その音に触れない日はほとんど存在しない。
+
+ホラー映画で不安を煽る場面。
+
+サスペンス映画で緊張感を高める場面。
+
+SF映画で未知の空間を表現する場面。
+
+こうした演出では、音程がわずかに揺れ動くサウンドデザインが数多く用いられている。
+
+それは旋律として意識されることは少ない。
+
+しかし感情には確実に作用している。
+
+### 「説明できない不安」を作る技法
+
+映画音楽では、不安を演出する方法として極端な音量だけが使われるわけではない。
+
+むしろ微細な音程変化の方が、観客へ長時間にわたる緊張感を与える場合がある。
+
+完全に外れた音ではなく、「少しだけズレた音」。
+
+脳はその違和感を修正しようと試み続ける。
+
+その結果、映像以上に音が心理的な圧力を生み出すことがある。
+
+これはホラーだけではない。
+
+心理劇やサスペンス、SF作品でも同様の手法が広く利用されている。
+
+### 電子音楽は微分音を日常へ近付けた
+
+アナログシンセサイザーやデジタル音源の普及によって、細かな音程制御は特別な技術ではなくなった。
+
+LFOによるピッチ変調。
+
+緩やかなデチューン。
+
+複数オシレーターのわずかなズレ。
+
+これらは現代のシンセサイザーではごく一般的な機能である。
+
+私たちは電子音楽を聴くたびに、微分音的な揺らぎを自然に受け入れている。
+
+つまり微分音は特殊な実験ではなく、現代のサウンドデザインを支える基本技術の一つになっているのである。
 
 > Microtonality is not just a feature of contemporary music, but has quietly permeated our everyday auditory experience through movies, games, and electronic music.
 
@@ -464,188 +463,188 @@ In other words, microtonality is not a special experiment, but one of the basic 
 
 ### Listen to the space, not the melody
 
-When many people hear Angine de Poitrine's work for the first time, they try to follow the songs.
+Angine de Poitrineの作品を初めて聴くと、多くの人は曲を追い掛けようとする。
 
-However, like traditional pop music, trying to find the lyrics, chorus, and clear melody can be confusing.
+しかし従来のポップスのように、歌詞やサビ、明確なメロディを探そうとすると戸惑うことになる。
 
-In many of their works, changes in texture and space are more important than the melody.
+彼らの作品では、旋律以上に質感や空間の変化が重要な意味を持つ場面が多い。
 
-It feels like the sound is spreading throughout the room.
+音が部屋全体へ広がるような感覚。
 
-A slight vibration of sound that suddenly appears.
+突然現れる細かな音の揺れ。
 
-It's time for the sound that I thought was constant to change little by little.
+一定だと思っていた響きが少しずつ変化していく時間。
 
-They are designed as a single "landscape".
+それらは一つの「風景」として設計されている。
 
-### Shake perception more than pitch
+### 音程よりも知覚を揺さぶる
 
-What is often talked about as a defining element of Angine de Poitrine is not simple dissonance.
+Angine de Poitrineを特徴付ける要素として語られることが多いのは、単純な不協和音ではない。
 
-Rather, it"s a floating feeling of not knowing where I"m going.
+むしろ「どこへ向かうのか分からない」という浮遊感である。
 
-It's not because the pitch is unstable.
+音程が不安定だからではない。
 
-This is because the structure is such that it is difficult for listeners to make predictions.
+聴き手の予測そのものが成立しにくい構造になっているからである。
 
-Just when you think a certain pattern appears, it gradually transforms and melts into a different texture.
+一定のパターンが現れたかと思えば、少しずつ変形し、別の質感へ溶け込んでいく。
 
-These changes are not dramatic.
+こうした変化は劇的ではない。
 
-That's why the brain needs to keep updating its predictions, and this state creates a unique sense of immersion.
+だからこそ脳は予測を更新し続ける必要があり、その状態が独特の没入感を生み出している。
 
-### What anonymity and acoustics have in common
+### 匿名性と音響の共通点
 
-Anonymity is an unavoidable element when talking about Angine de Poitrine.
+Angine de Poitrineについて語る際、匿名性は避けて通れない要素である。
 
-On stage, the work as a whole comes to the fore rather than the individual performers.
+ステージ上では演奏者個人よりも作品全体が前面に現れる。
 
-This attitude also applies to acoustics.
+この姿勢は音響にも通じている。
 
-Instead of making each sound the main character, it lets you experience the entire environment.
+一つひとつの音を主役にするのではなく、全体の環境を体験させる。
 
-It"s not about who"s playing, it"s about what"s happening inside the auditory sense.
+誰が演奏しているかではなく、何が聴覚の中で起きているか。
 
-This shift in perspective characterizes their music.
+その視点の転換が、彼らの音楽を特徴付けている。
 
-Microtones are one of the important elements that support this purpose, and they function not as ""increasing pitch," but as a means to ""blur the contours of perception."
+微分音はその目的を支える重要な要素の一つであり、「音程を増やすため」ではなく、「知覚の輪郭を曖昧にするため」の手段として機能している。
 
-> Angine de Poitrine"s works approach the experience of observing how one"s own perception changes, rather than the experience of listening to music.
-
----
-
-## Our ears keep changing
-
-### "Unintelligible music" is not forever
-
-Looking back at history, many of the works that are now considered masterpieces were considered ""incomprehensible music'' at the time of their release.
-
-new harmony.
-
-complex rhythm.
-
-An instrument that never existed before.
-
-Each time, the audience was confused and sometimes rejected.
-
-But decades later, they are at the center of music history.
-
-This is not because the work has changed.
-
-The ""listening ability'' of society as a whole has changed.
-
-Microtones also exist as an extension of the same history.
-
-### The brain is rewritten by experience
-
-In neuroscience, the phenomenon in which neural circuits change due to experience is called neuroplasticity.
-
-Music is no exception.
-
-By repeatedly exposing yourself to music you've never heard before, your brain gradually builds new predictive models.
-
-A pitch that was initially unsettling may eventually be accepted as a natural sound.
-
-This is not limited to experimental music.
-
-The same phenomenon occurs in many genres, including jazz, contemporary classical music, electronic music, and folk music.
-
-In other words, ""difficult music'' is largely influenced by the amount of experience rather than ability.
-
-### Microtones foster new emotions
-
-Major keys are bright.
-
-The minor key is sad.
-
-These emotional relationships have been formed over a long period of musical culture.
-
-So, what do pitches that do not belong to either of them express?
-
-There is an ambiguity in microtones that cannot be explained using existing emotion words alone.
-
-It's not safe either.
-
-It's not even fear.
-
-Not even sadness.
-
-Not even an expectation.
-
-The ability to depict the complex emotions that exist in between is one of the reasons why microtonality is so important in contemporary music.
-
-> Music that we feel we cannot understand has the potential to become ""commonplace music'' for future generations.
+> Angine de Poitrineの作品は音楽を聴く体験というより、自分自身の知覚がどのように変化していくかを観察する体験へ近づいていく。
 
 ---
 
-## What microtones can teach us
+## 私たちの耳は変わり続けている
 
-### Music is both culture and science
+### 「理解できない音楽」は永遠ではない
 
-When you learn about microtonality, you begin to see that music is more than just art.
+歴史を振り返ると、現在では名作とされる作品の多くが、発表当時は「理解できない音楽」と評価されていた。
 
-There's physics there.
+新しい和声。
 
-There is an objective phenomenon called frequency.
+複雑なリズム。
 
-There's also psychology.
+これまで存在しなかった楽器。
 
-Learning influences human perception.
+そのたびに聴衆は戸惑い、時には拒絶した。
 
-There's also neuroscience.
+しかし数十年後には、それらは音楽史の中心に位置付けられている。
 
-The brain understands sounds by making predictions.
+これは作品が変化したからではない。
 
-There is also cultural anthropology.
+社会全体の「聴く力」が変化したのである。
 
-Beautiful pitches differ from society to society.
+微分音もまた、同じ歴史の延長線上に存在している。
 
-In other words, music is a complex culture that cannot be explained by just one discipline.
+### 脳は経験によって書き換えられる
 
-### "Normal" is not as normal as you think
+神経科学では、経験によって神経回路が変化する現象を神経可塑性（Neuroplasticity）と呼ぶ。
 
-We think of twelve equal temperament as normal.
+音楽も例外ではない。
 
-However, from a global perspective, it is just one of many musical cultures.
+これまで聴いたことのない音楽へ繰り返し触れることで、脳は新しい予測モデルを少しずつ構築していく。
 
-Similarly, neither beautiful sounds nor unpleasant sounds are absolute.
+最初は不安だった音程も、やがて自然な響きとして受け入れられることがある。
 
-The history of music is also a history in which the ""normal'' has been updated many times.
+これは実験音楽だけに限らない。
 
-That"s why it"s no wonder that when you encounter new music, you don't understand it from the beginning.
+ジャズ、現代クラシック、電子音楽、民族音楽など、多くのジャンルで同じ現象が起きている。
 
-In fact, that sense of discomfort can sometimes be the gateway to new perceptions.
+つまり「難しい音楽」とは、能力ではなく経験量によって大きく左右される側面を持っている。
 
-### "I don"t know" doesn"t mean it's worthless
+### 微分音は新しい感情を育てる
 
-We live in an era where information that can be easily understood is sought after.
+長調は明るい。
 
-But art isn't always like that.
+短調は悲しい。
 
-A work that takes time to understand.
+こうした感情の対応関係は、長い音楽文化の中で形成されてきた。
 
-No matter how many times I listen to this work, I can't find the answer.
+では、そのどちらにも属さない音程は何を表現するのだろうか。
 
-Such music gives us different discoveries every time we listen to it.
+微分音には、既存の感情語だけでは説明できない曖昧さが存在する。
 
-Microtones are also one of the important elements that support such musical experiences.
+安心でもない。
 
-The initial sense of discomfort may not be a flaw in the work, but rather the listener's first step into a new world.
+恐怖でもない。
 
-> Microtones do not teach us about ""strange sounds,'' but rather how humans understand sounds and learn about their beauty.
+悲しみでもない。
+
+期待でもない。
+
+その中間に存在する複雑な感情を描き出せることが、微分音が現代音楽で重要視される理由の一つになっている。
+
+> 私たちが理解できないと感じる音楽は、未来の世代にとって「当たり前の音楽」になる可能性を秘めている。
 
 ---
 
-## Chronology
+## 微分音が教えてくれること
 
-| Era | Events | Relationship with microtonality |
-|------|---------|----------------|
-| Ancient times | Diverse musical temperaments developed in each region | A wide range of intervals other than the twelve tones exist |
-| Medieval times to early modern times | Development of tonal music in the West | Standardization of temperament progresses |
-| 17th to 18th centuries | Twelve equal temperament spread | Established as a temperament suitable for modulation |
-| Early 20th century | Diversification of modern music | Microtonal composition in full swing |
-| Late 20th century | Development of electronic music | Arbitrary pitch generation becomes easier |
-| 21st century | DAW/software spread | Microtonal production begins to become popular |
+### 音楽は文化でもあり科学でもある
+
+微分音を知ると、音楽は単なる芸術ではないことが見えてくる。
+
+そこには物理学がある。
+
+周波数という客観的な現象がある。
+
+さらに心理学がある。
+
+人間の知覚には学習が影響する。
+
+神経科学もある。
+
+脳は予測しながら音を理解している。
+
+文化人類学もある。
+
+社会ごとに美しい音程は異なる。
+
+つまり音楽は、一つの学問だけでは説明できない複合的な文化なのである。
+
+### 「普通」は思っているほど普通ではない
+
+私たちは十二平均律を普通だと思っている。
+
+しかしそれは、世界全体から見れば数ある音楽文化の一つでしかない。
+
+同じように、美しい響きも、不快な響きも、絶対的なものではない。
+
+音楽史は、その「普通」が何度も更新されてきた歴史でもある。
+
+だからこそ、新しい音楽に出会ったときに最初から理解できなくても不思議ではない。
+
+むしろ、その違和感こそが新しい知覚の入り口になることもある。
+
+### 「分からない」は価値のないことではない
+
+現代は、すぐに理解できる情報が求められる時代である。
+
+しかし芸術は必ずしもそうではない。
+
+理解するまで時間がかかる作品。
+
+何度聴いても答えが見つからない作品。
+
+そうした音楽は、聴くたびに異なる発見を与えてくれる。
+
+微分音も、そのような音楽体験を支える重要な要素の一つである。
+
+最初に感じる違和感は、作品の欠点ではなく、聴き手が新しい世界へ踏み出す最初の一歩なのかもしれない。
+
+> 微分音は「奇妙な音」を教えてくれるのではなく、人間がどのように音を理解し、美しさを学習していく存在なのかを教えてくれる。
+
+---
+
+## 年表
+
+| 年代 | 出来事 | 微分音との関係 |
+|------|--------|----------------|
+| 古代 | 地域ごとに多様な音律が発達 | 十二音以外の音程が広く存在 |
+| 中世〜近世 | 西洋で調性音楽が発展 | 音律の標準化が進む |
+| 17〜18世紀 | 十二平均律が普及 | 転調に適した音律として定着 |
+| 20世紀初頭 | 現代音楽の多様化 | 微分音作曲が本格化 |
+| 20世紀後半 | 電子音楽の発展 | 任意の音程生成が容易になる |
+| 21世紀 | DAW・ソフトウェアの普及 | 微分音制作が一般化し始める |
 
 <div class="mermaid">
 timeline
@@ -660,74 +659,74 @@ timeline
 
 ---
 
-## Perspective to understand microtones
+## 微分音を知るための視点
 
 <div class="mermaid">
 flowchart TD
 
-A["Listen to the sound"] --> B["The brain predicts the next sound"]
-B --> C["As predicted"]
-B --> D["Predictions are wrong"]
+A["音を聴く"] --> B["脳が次の音を予測する"]
+B --> C["予測どおり"]
+B --> D["予測が外れる"]
 
-C --> E["Sense of security and stability"]
+C --> E["安心感・安定感"]
 
-D --> F["attention"]
-F --> G["Uncomfortable feeling"]
-G --> H["Repeated experience"]
-H --> I["The brain learns"]
-I --> J["Accept it as a new beauty"]
+D --> F["注意が向く"]
+F --> G["違和感"]
+G --> H["繰り返し経験する"]
+H --> I["脳が学習する"]
+I --> J["新しい美しさとして受け入れる"]
 </div>
 
 ---
 
-## Concept of twelve equal temperament and microtones
+## 十二平均律と微分音の考え方
 
 <div class="mermaid">
 flowchart TD
 
-A["continuous frequency"] --> B["Divided by twelve equal temperament"]
-A --> C["Treat it as a microtone"]
+A["連続した周波数"] --> B["十二平均律で区切る"]
+A --> C["微分音として扱う"]
 
-B --> D["Stable tonality"]
-B --> E["Pops, Classics, etc."]
+B --> D["安定した調性"]
+B --> E["ポップス・クラシックなど"]
 
-C --> F["Flexible pitch"]
-C --> G["Folk music"]
-C --> H["Experimental music"]
-C --> I["Sound Art"]
+C --> F["柔軟な音程"]
+C --> G["民族音楽"]
+C --> H["実験音楽"]
+C --> I["サウンドアート"]
 </div>
 
 ---
 
-## Conclusion
+## おわりに
 
-Music is not a sequence of sounds.
+音楽は音の並びではない。
 
-Music is also a process of how humans understand sound.
+音楽とは、人間が音をどのように理解するかという営みでもある。
 
-Microtonality can be said to be the entity that most clearly reflects this mechanism.
+微分音は、その仕組みを最も分かりやすく映し出してくれる存在と言える。
 
-The pitches we believed to be "normal" were created by culture, reinforced by experience, and learned by the brain.
+私たちが「普通」と信じてきた音程は、文化によって作られ、経験によって強化され、脳によって学習された結果だった。
 
-That's why sounds that slightly deviate from this framework evoke complex emotions such as anxiety, tension, and curiosity.
+だからこそ、その枠組みを少しだけ外れた音は、不安や緊張、好奇心といった複雑な感情を呼び起こす。
 
-The aim of experimental music like Angine de Poitrine's is not simply to produce unusual sounds.
+Angine de Poitrineのような実験音楽が目指しているものも、単に珍しい音を鳴らすことではない。
 
-The idea is to shake up the listener's unconscious assumption that ""music is like this'' and direct their attention not to the sound itself, but to the perception itself.
+聴き手が無意識に持っている「音楽とはこういうものだ」という前提を揺さぶり、音そのものではなく、知覚そのものへ意識を向けさせることである。
 
-Microtonality is by no means a technique only for limited enthusiasts.
+微分音は決して限られた愛好家だけのための技法ではない。
 
-This idea is still alive and well in film music, games, electronic music, and even in our daily lives.
+映画音楽、ゲーム、電子音楽、さらには私たちの日常生活の中にも、その発想は静かに息づいている。
 
-The next time you come across a sound that feels a little ""disgusting,'' before blaming the music for the reason, try remembering what your own ears have been through.
+もし次に、少しだけ「気持ち悪い」と感じる音に出会ったなら、その理由を音楽のせいにする前に、自分自身の耳がどのような経験を積み重ねてきたのかを思い出してみてほしい。
 
-There, you may not only encounter new music, but also a new encounter with yourself.
+そこには、新しい音楽との出会いだけではなく、新しい自分自身との出会いが待っているかもしれない。
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JjxyEghBPbo?si=6X5lRnLjBono4Hi-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -9,11 +9,11 @@ tags:
 - Hiphop
 - Gangsta
 - 00s
-title: Trick Daddy – I"m A Thug
+title: Trick Daddy – I'm A Thug
 ---
 
 
-A Gangsta Hip Hop track released in 2001 by Trick Daddy, a rapper from Miami, Florida, known for "Let's Go (featuring Twista and Lil Jon)."
+『Let's Go (featuring Twista and Lil Jon)』で知られるフロリダ・マイアミ出身のラッパーTrick Daddy(トリックダディ)が2001年にリリースしたGangsta HipHopトラック。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ B2. Can't F**k Wit Me (Album)
 B3. Can't F**k Wit Me (Instrumental)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m87081658220?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87081658220?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ILCNAln_7Z4?si=jZLP_rKImiZRBBGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

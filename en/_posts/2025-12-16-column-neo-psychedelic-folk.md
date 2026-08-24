@@ -10,20 +10,20 @@ tags:
 - Neo-Psychedelic
 - Folk
 - Psychedelic
-title: '[Column] Neo-Psychedelic Folk'
+title: 【コラム】 Neo-Psychedelic Folk（ネオサイケデリックフォーク）
 ---
 
 
 
-## Prologue: Recursive psychedelia and folk updates
+## 序章：再帰するサイケデリアとフォークの更新
 
-Text: mmr｜Theme: Not a genre that preserves the psychedelia of the past, but an editorial practice that renews perceptual experiences.
+文：mmr｜テーマ：過去のサイケデリアを保存するジャンルではなく、知覚体験を更新するための編集的実践について
 
-Neo-Psychedelic Folk is a musical trend that has been reconstructed using recording technology, visual sensibilities, and rhythmic concepts since the 2000s, while referring to the aesthetics of psychedelic folk and acid folk from the 1960s and 1970s. It is characterized by its active use of studio processing, editing, and electronic effects, while building on folk-derived acoustic textures, ethnic melodies, and repetitive chord progressions.
+Neo-Psychedelic Folkは、1960〜70年代のサイケデリック・フォークおよびアシッド・フォークの美学を参照しながら、2000年代以降の録音技術、映像感覚、リズム観によって再構成された音楽潮流である。フォーク由来のアコースティックな質感、民族音楽的旋律、反復的コード進行を土台にしつつ、スタジオ処理、編集、電子的エフェクトを積極的に導入する点に特徴がある。
 
-This trend was not limited to a specific geography or a single scene, but was formed intermittently across North America, Oceania, and Europe. The prevalence of DIY culture, indie labels, and digital recording environments has influenced all stages of production, distribution, and reception, making it a crucial difference from traditional folk renewal movements.
+この潮流は特定の地理や単一のシーンに閉じず、北米・オセアニア・欧州を横断して断続的に形成された。DIY文化、インディーレーベル、デジタル録音環境の普及が、制作・流通・受容の全段階に影響を与えたことが、従来のフォーク更新運動との決定的な差異となっている。
 
-> "Forks were treated as material to be re-edited, not as something to be saved."
+> "フォークは保存される対象ではなく、再編集される素材として扱われた"
 
 ---
 
@@ -32,7 +32,7 @@ This trend was not limited to a specific geography or a single scene, but was fo
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -41,89 +41,89 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Historical Assumptions - Continuity from Psychedelic Folk
+## 第1章：歴史的前提 ― サイケデリック・フォークからの連続性
 
-### 1-1. Base layer in the 1960s and 1970s
+### 1-1. 1960〜70年代の基層
 
-In the late 1960s, folk connected with rock, acquiring altered consciousness, mythological themes, and expanded song structures. The focus was on acoustic guitar, drone, handclaps, and chorus, and the performance was not necessarily aimed at technique.
+In the late 1960s, folk connected with rock, gaining altered consciousness, mythological themes, and expanded song structures. The focus was on acoustic guitar, drone, handclaps, and chorus, and the performance was not necessarily aimed at technique.
 
-Due to the limitations of recording technology, psychedelic folk music during this period relied on spatial expression and repetition through the performance itself. As a result, the acoustics are simple, but the group and ritual are emphasized.
+この時期のサイケデリック・フォークは、録音技術の制約ゆえに、空間表現や反復を演奏自体で担っていた。そのため音響は素朴だが、集団性と儀礼性が強調されている。
 
-### 1-2. Re-evaluation since the 1990s
+### 1-2. 1990年代以降の再評価
 
-From the late 1990s to the early 2000s, acid folk and psychedelic folk were reevaluated as reissues and archives were dug up. This allows younger generations of musicians to begin absorbing these as historical reference points.
+1990年代後半から2000年代初頭にかけて、再発盤やアーカイブ掘り起こしが進み、アシッド・フォークやサイケデリック・フォークが再評価された。これにより、若い世代のミュージシャンが歴史的参照点としてこれらを吸収し始める。
 
-What is important is that it is not just a restoration, but a reinterpretation in an environment with increased freedom in recording and editing.
+重要なのは、単なる復古ではなく、録音と編集の自由度が増した環境で再解釈された点である。
 
-> "Historical sources are cited, but acoustic reproduction is not the goal."
+> "歴史的音源は引用されるが、音響的再現は目的ではない"
 
 ---
 
-## Chapter 2: Defining Characteristics of Neo-Psychedelic Folk
+## 第2章：Neo-Psychedelic Folkの定義的特徴
 
-### 2-1. Musical structure
+### 2-1. 音楽構造
 
-Neo-Psychedelic Folk's songs have structural tendencies such as repeating short motifs, diluting the clear A-melody/B-melody structure, blurring the melody with collective choruses, and fluctuations in tonality. These are not the simplification of traditional folk, but are created through multilayering through editing.
+Neo-Psychedelic Folkの楽曲は、短いモチーフの反復、明確なAメロ・Bメロ構造の希薄化、集団コーラスによる旋律の曖昧化、調性感の揺らぎといった構造的傾向を持つ。これらは伝統的フォークの単純化ではなく、編集による複層化によって成立している。
 
 ### 2-2. Acoustic processing
 
-Spatial expansion using reverb and delay, pitch fluctuations that mimic tape-like fluctuations, and a mixture of lo-fi and hi-fi are used. Recordings were made at home or in a makeshift studio, and the unevenness of the sound quality was treated as an aesthetic in itself.
+リバーブとディレイによる空間拡張、テープ的揺らぎを模したピッチ変動、ローファイとハイファイの混在が併用される。録音は自宅や簡易スタジオで行われ、音質の不均一さ自体が美学として扱われた。
 
-> "Fragmentation of experience is valued over homogeneity"
-
----
-
-## Chapter 3: Animal Collective - Reorganization of collectiveness and perception
-
-### 3-1. Organization and production attitude
-
-Animal Collective was characterized by the fluidity of the members' roles rather than a fixed band composition. Percussion instruments, samplers, acoustic instruments, and voices are placed equally, and there is no central lead instrument.
-
-### 3-2. Acoustic characteristics
-
-Treating the voice as the main instrument, layering multi-layered choruses and circulating rhythms obscure the sense of time. Folk melodies are deconstructed and reconstructed as acoustic collages.
-
-### 3-3. Connection with visual sense
-
-Visual expressions avoid clear narratives and are structured around color, repetition, and abstract forms. This is the same structure as the song structure, and the visual sense also functions as an extension of the sound.
-
-> "Visibility is not an explanation of a song, but a parallel sensory layer."
+> "均質さよりも体験の断片性が重視される"
 
 ---
 
-## Chapter 4: Tame Impala's early works - introspective psychedelia
+## 第3章：Animal Collective ― 集団性と知覚の再編
 
-### 4-1. Folk attitude as an individual production
+### 3-1. 編成と制作態度
 
-Tame Impala's early works were almost entirely personal productions. Overdub recording, self-production, and limited equipment resulted in an introspective feel.
+Animal Collectiveは固定的なバンド編成よりも、メンバーの役割流動性を特徴とした。打楽器、サンプラー、アコースティック楽器、声が対等に配置され、中心となるリード楽器は存在しない。
 
-### 4-2. Fork element conversion
+### 3-2. 音響的特徴
 
-It is characterized by a simple chord progression, a melody-driven structure, and an arrangement that avoids over-emphasizing rhythm. While retaining the simplicity of folk music, acoustic processing gives it a psychedelic depth.
+声を主楽器として扱い、多層的なコーラスを重ね、リズムを循環させることで時間感覚を曖昧化する。フォーク的旋律は解体され、音響的コラージュとして再構成されている。
 
-### 4-3. Characteristics of initial sound image
+### 3-3. 映像的感覚との接続
 
-These include the rounded sound image of the drums, the phasing of the guitar, and the buried vocals.
+視覚表現は明確な物語性を避け、色彩、反復、抽象形態を中心に構成される。これは楽曲構造と同型であり、視覚も音の延長として機能する。
 
-> "Sound image design that presents one's inner self as a distant view"
-
----
-
-## Chapter 5: Visual commentary - Visual language of Neo-Psychedelic Folk
-
-Abstraction and natural motifs, loops, slow motion, and asynchronous cuts are often used. The video editing synchronizes with the repetitive structure of the song and serves to expand the sense of time.
+> "視覚は楽曲の説明ではなく、並行する感覚層である"
 
 ---
 
-## Chapter 6: Acoustic Explanation - Thoughts on Recording and Mixing
+## 第4章：Tame Impala 初期作品 ― 内省的サイケデリア
 
-Emphasis is placed on a sense of envelopment rather than clarity of localization, and the sound image is not concentrated in the center but spreads out like a mist. Ambient sounds, distortion, and bleed are not removed and remain as part of the song.
+### 4-1. 個人制作としてのフォーク的態度
 
-> "A recording is an event, not a record."
+Tame Impala初期作品は、ほぼ個人制作に近い形で成立している。多重録音、セルフ・プロデュース、限定的な機材環境が、結果として内省的な質感を生んだ。
+
+### 4-2. フォーク要素の変換
+
+シンプルなコード進行、メロディ主導の構造、リズムの過度な強調を避けた配置が特徴である。フォークの簡潔さを保持しつつ、音響処理によってサイケデリックな奥行きを付与している。
+
+### 4-3. 初期音像の特徴
+
+ドラムの丸みを帯びた音像、ギターのフェイズ処理、ヴォーカルの埋没が挙げられる。
+
+> "自己の内面を遠景として提示する音像設計"
 
 ---
 
-## Chapter 7: Chronology
+## 第5章：映像解説 ― Neo-Psychedelic Folkの視覚言語
+
+抽象性と自然モチーフ、ループ、スローモーション、非同期的カットが多用される。映像編集は楽曲の反復構造と同期し、時間感覚を拡張する役割を果たす。
+
+---
+
+## 第6章：音響解説 ― 録音とミックスの思想
+
+定位の明確さよりも包囲感が重視され、音像は中央に集約されず霧状に広がる。環境音、歪み、ブリードは除去されず、楽曲の一部として残される。
+
+> "録音は記録ではなく出来事である"
+
+---
+
+## 第7章：年表
 
 <div class="mermaid">
 timeline
@@ -138,92 +138,92 @@ timeline
 
 ---
 
-## Chapter 8: Structure diagram
+## 第8章：構造図
 
 <div class="mermaid">
 flowchart TD
-    A[folk melody] --> B[Iteration and editing] --> C[acoustic treatment] --> D[expansion of perception] --> E[Visual expression]
+    A[フォーク的旋律] --> B[反復と編集] --> C[音響処理] --> D[知覚の拡張] --> E[映像表現]
     E --> B
 </div>
 
 
 ---
 
-## Chapter 9: Redefining rhythm and physicality
+## 第9章：リズムと身体性の再定義
 
-Rhythm in Neo-Psychedelic Folk acts on the body in a way different from the physical drive of dance music. Emphasis on clear beats is avoided, and periodic yet amorphous repetitions are used. As a result, the listener's body is not "moved" but placed in a state of "drifting."
+Neo-Psychedelic Folkにおけるリズムは、ダンスミュージック的な身体駆動とは異なる形で身体に作用する。明確な拍の強調は避けられ、周期的でありながら不定形な反復が用いられる。これにより聴取者の身体は「動かされる」のではなく、「漂わされる」状態に置かれる。
 
-> "Rhythm is not a motor command, but a framework for maintaining perceptual fluctuations"
+> "リズムは運動命令ではなく、知覚の揺らぎを維持するための枠組みとなる"
 
-In Animal Collective"s early works, percussion and handclaps provide a sense of steady beat, but the jumble of voices obscures the center of gravity. In Tame Impala"s early works, the drums are placed in the background, maintaining periodicity but reducing physical tension.
-
----
-
-## Chapter 10: Treatment of voices and folk collectiveness
-
-Voice is one of the most important elements in Neo-Psychedelic Folk. The division of roles between lead vocalist and accompaniment is weakened, and multiple voices are placed in the same line. Vocal quality, overlap, and reverberation are prioritized over the clarity of lyrics.
-
-This is the result of transferring the group singing nature of folk to the studio space.
-
-> "Songs are not a device to tell a story, but a material that fills a space."
+Animal Collectiveの初期作品では、パーカッションや手拍子が一定の拍感を提示する一方で、声部の入り乱れによって重心が曖昧化される。Tame Impala初期作では、ドラムが後景に配置され、周期性は維持されつつも身体的緊張は緩和される。
 
 ---
 
-## Chapter 11: Chord progression and tonality manipulation
+## 第10章：声の扱いとフォーク的集団性
 
-Neo-Psychedelic Folk often uses the simple chord progressions found in traditional folk, but they do not aim for linear solutions. By staying on the same chord for a long time, or by making ambiguous key changes, the tonality is not fixed.
+声はNeo-Psychedelic Folkにおいて最も重要な要素の一つである。リード・ヴォーカルと伴奏という役割分担は弱体化し、複数の声が同列に配置される。歌詞の明瞭さよりも、声質、重なり、残響が優先される。
 
-In Tame Impala's early works, the boundaries between major and minor are blurred, and emotions do not converge into a specific emotion.
+これはフォークが本来持っていた集団歌唱の性質を、スタジオ空間へと移植した結果である。
 
-> "Emotions are presented, but interpretations are not fixed."
-
----
-
-## Chapter 12: Production environment and technology
-
-A change in the production environment was essential for the establishment of Neo-Psychedelic Folk. The proliferation of inexpensive recording equipment, DAWs, and plug-ins has made it possible for individuals and small groups to experiment over long periods of time.
-
-In this environment, the boundaries between production and editing become blurred. The songs are presented with a history of editing, rather than a finished product. ["Completion is just the moment you stop editing"]
+> "歌は物語を伝える装置ではなく、空間を満たす素材となる"
 
 ---
 
-## Chapter 13: Perspective as a methodology
+## 第11章：コード進行と調性感の操作
 
-Neo-Psychedelic Folk is positioned as a methodology rather than a genre. What is important is not a specific sound image, but an attitude that reorganizes the relationships between sound and image, the body and perception.
+Neo-Psychedelic Folkでは、伝統的なフォークに見られる単純なコード進行が多用されるが、それらは直線的な解決を目的としない。長時間同一コードに留まる、あるいは曖昧な転調を挟むことで、調性感は固定されない。
 
-From this perspective, Animal Collective and Tame Impala's early works are reference points, not objects of imitation.
+Tame Impala初期作品では、メジャーとマイナーの境界がぼかされ、情緒は特定の感情に収束しない。
 
-> "References are made for updating, not fixation"
-
----
-
-## Chapter 14: Interpenetration of video and sound
-
-The images do not serve as a supplement to the music, but as an equivalent layer. In Neo-Psychedelic Folk-style videos, the editing points often do not match the beat of the music, and the synchronization between vision and hearing is intentionally shifted.
-
-This discrepancy does not hinder immersion, but has the effect of sustaining perception.
+> "感情は提示されるが、解釈は固定されない"
 
 ---
 
-## Chapter 15: Genre crossing and influence relationships
+## 第12章：制作環境とテクノロジー
 
-Neo-Psychedelic Folk has interacted with dream pop, experimental pop, ambient, and post-rock. However, the difference between them lies in folk-like simplicity and adherence to collectivity.
+Neo-Psychedelic Folkの成立には、制作環境の変化が不可欠であった。安価な録音機材、DAW、プラグインの普及により、個人や小規模集団が長期間にわたって実験を重ねることが可能になった。
+
+この環境では、制作と編集の境界が曖昧化する。楽曲は完成品というよりも、編集の履歴を内包した状態で提示される。["完成とは編集を止めた瞬間に過ぎない"]
 
 ---
 
-## Final chapter
+## 第13章：方法論としての視点
 
-Neo-Psychedelic Folk is not a genre that preserves the psychedelia of the past, but an editorial practice that renews perceptual experience. The collective sound of Animal Collective and the introspectiveness of Tame Impala's early works are the result of a folk simplicity combined with a contemporary production environment.
+Neo-Psychedelic Folkはジャンルではなく方法論として位置づけられる。重要なのは特定の音像ではなく、音と映像、身体と知覚の関係を再編する姿勢である。
 
-This trend is not understood as a completed style, but as a body in motion that is constantly being reconfigured.
+この視点から見れば、Animal CollectiveやTame Impala初期作品は参照点であり、模倣対象ではない。
 
-> "This music ends its role the moment it is fixed."
+> "参照は固定化ではなく、更新のために行われる"
+
+---
+
+## 第14章：映像と音響の相互浸透
+
+映像は音楽の補足ではなく、同等のレイヤーとして機能する。Neo-Psychedelic Folk的映像では、編集点が音楽の拍と一致しない場合が多く、視覚と聴覚の同期が意図的にずらされる。
+
+このずれは没入を妨げるのではなく、知覚を持続させる効果を持つ。
+
+---
+
+## 第15章：ジャンル横断と影響関係
+
+Neo-Psychedelic Folkは、ドリームポップ、実験ポップ、アンビエント、ポストロックなどと相互に影響し合ってきた。ただし、それらとの違いはフォーク的簡潔さと集団性への固執にある。
+
+---
+
+## 終章
+
+Neo-Psychedelic Folkは、過去のサイケデリアを保存するジャンルではなく、知覚体験を更新するための編集的実践である。Animal Collectiveの集団的音響、Tame Impala初期作品の内省性は、フォークの簡潔さを起点にしながら、現代的制作環境と結びついた結果である。
+
+本潮流は完成された様式ではなく、常に再構成され続ける運動体として理解される。
+
+> "この音楽は固定される瞬間にその役割を終える"
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zRJsr8EwbSw?si=y0W0-jl_FXzOI_kB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

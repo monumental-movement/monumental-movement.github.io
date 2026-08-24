@@ -21,13 +21,13 @@ Text: mmr｜Theme: Aphex Twin's philosophical view of music that embodies the co
 
 Music usually has a ""conductor of understanding.'' Melody, rhythm, development—these guide the listener. However, in Aphex Twin's music, this line of conductor is intentionally severed.
 
-Beats disintegrate, melodies are fragmented, and the placement of notes is unpredictable. Even so, the listener can still feel the "beauty" in it. Where does this phenomenon come from?
+ビートは崩壊し、旋律は断片化され、音の配置は予測不能。それでもなお、聴き手はそこに“美しさ”を感じてしまう。この現象はどこから来るのか。
 
 His works directly affect "perception" rather than understanding. The sound itself is structured so that it reaches the body and emotions before the brain can assign meaning to it. This is a more primitive and intuitive musical experience, different from the harmonic beauty of classical music or the hooks of pop music.
 
 More importantly, the disorder is not completely random. There is always an internal structure to his sound. Behind what appears to be chaos, there is an extremely precise design. This "invisible order" gives the listener a unique sense of security and discomfort at the same time.
 
-In other words, his music is not ""incomprehensible," it's just ""a different way of understanding it."
+つまり、彼の音楽は「理解不能」ではなく、「理解の方法が従来と異なる」だけなのだ。
 
 > People feel beauty not because they cannot understand something, but when their way of understanding is updated.
 
@@ -39,7 +39,7 @@ In other words, his music is not ""incomprehensible," it's just ""a different wa
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -52,15 +52,15 @@ color: #fff;
 
 Richard D. James, also known as Aphex Twin, was born in 1971 in Cornwall, southwest England. It is said that he had a strong interest in electronic devices from an early age, and used to generate sounds using self-made and modified equipment.
 
-""Information disruption'' is essential when talking about his career. In interviews, he intentionally mixes truth and fiction. For example, statements such as robbing a bank as a child, owning a military tank, or composing music in a dream cannot be determined to be true.
+彼のキャリアを語る上で欠かせないのが「情報の撹乱」だ。インタビューでは意図的に虚実を混ぜる。例えば、幼少期に銀行強盗を行った、軍用戦車を所有している、夢の中で作曲している——こうした発言は、事実と断定できるものではない。
 
 However, the important thing is not whether it is a lie or true. He is dismantling the ""actual image of an artist"' itself. In other words, it is a strategy that obscures the relationship between the work and the personality and sways the listener"s interpretation.
 
-Also, his face often appears in distorted forms in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the most identifying information, the face, the very question of "who you are" is invalidated.
+Also, his face often appears distorted in his works. This is not only a self-expression, but also a "symbolization of the individual." By transforming the face, the most identifying information, the question of "who you are" is invalidated.
 
 This anonymity is also a device for focusing on the music itself.
 
-> By making the individual vague, only the work remains pure.
+> 個人を曖昧にすることで、作品だけが純粋に残る。
 
 ---
 
@@ -72,13 +72,13 @@ First is Selected Ambient Works 85–92, which is an early masterpiece. This pie
 
 The subsequent Selected Ambient Works Volume II progresses to even more extreme abstraction. The rhythm almost disappears, and a drone-like sound spreads. This work greatly expanded the possibilities of electronic music as environmental music.
 
-In the late 1990s, he moved in a more aggressive and experimental direction. In particular, ""Windowlicker'' is widely known for its strange visuals, blurring the boundaries between pop and avant-garde.
+In the late 1990s, he took a more aggressive and experimental direction. ""Windowlicker'' in particular is a work that is widely known for its strange visuals, blurring the boundaries between pop and avant-garde.
 
 and Drukqs in 2001. In this album, ultra-fast and complex drum programming coexists with tranquil piano music. It is here that his aesthetic - the coexistence of chaos and order - is most clearly manifested.
 
 2014's Syro integrates elements from the past and elevates them to a more sophisticated sound.
 
-> His work is not an evolution, but a series of movements to different dimensions.
+> 彼の作品は進化ではなく、異なる次元への移動の連続である。
 
 ---
 
@@ -118,9 +118,9 @@ There are many stories about Aphex Twin.
 
 For example, there is a story where a hard drive full of unreleased songs was left behind on an airplane, and it was later leaked. It is also said that he uses his own software to generate extremely complex rhythms.
 
-Even more famous are his anecdotes about live performances. In some cases, they only played back the sound source, betraying the ""performance'' that the audience expected, and sometimes intentionally caused confusion.
+Even more famous is his anecdote about live performance. In some cases, they only played back the sound source, betraying the ""performance'' that the audience expected, and sometimes intentionally caused confusion.
 
-These actions may seem provocative, but for him they are also an attempt to redefine "the musical experience itself."
+These actions may seem provocative, but for him they are also an attempt to redefine ""the musical experience itself.''
 
 Creepy images with composite faces and unpredictable promotions are also part of his work world.
 
@@ -132,21 +132,21 @@ Creepy images with composite faces and unpredictable promotions are also part of
 
 Aphex Twin's influence is immeasurable.
 
-The IDM scene that formed around Warp Records was largely shaped by his presence.
+The IDM scene that was formed around Warp Records was greatly shaped by his presence.
 
-Also, Radiohead's Thom Yorke has openly stated his influence, and his influence is strongly reflected in his works after Kid A.
+Additionally, Radiohead's Thom Yorke has openly stated his influence, and his influence is strongly reflected in his works since Kid A.
 
 Furthermore, contemporary artists such as Flying Lotus and Arca have inherited his ideas while also evolving in their own ways.
 
 His influence extends beyond sonic style. It lies in renewing the question, "What is music?"
 
-> He changed the idea of ​​music, not the form of music.
+> 彼は音楽の形ではなく、音楽の考え方を変えた。
 
 ---
 
-## Chronology
+## 年表
 
-* 1971: Richard D. James is born
+* 1971年：Richard D. James誕生
 * 1992: Selected Ambient Works 85–92 announced
 * 1994: Selected Ambient Works Volume II announced
 * 1999: "Windowlicker" released
@@ -159,9 +159,9 @@ His influence extends beyond sonic style. It lies in renewing the question, "Wha
 
 <div class="mermaid">
 graph TD
-A[Chaos] --> B[fragmented rhythm]
+A[Chaos 無秩序] --> B[fragmented rhythm]
 A --> C[nonlinear structure]
-D[control order] --> E[precision design]
+D[Control 秩序] --> E[precision design]
 D --> F[acoustic balance]
 B --> G[unpredictable groove]
 E --> G
@@ -175,7 +175,7 @@ H --> I
 
 ## Conclusion: The idea of ​​controlling chaos
 
-Aphex Twin's music is more than just an experiment. It is a ""methodology'' for dealing with chaos and order at the same time.
+Aphex Twin's music is more than just experimentation. It is a ""methodology'' for dealing with chaos and order at the same time.
 
 He doesn't rely on chance. Rather, intentionally design what sounds like a coincidence. As a result, the listener is faced with an unknown experience.
 

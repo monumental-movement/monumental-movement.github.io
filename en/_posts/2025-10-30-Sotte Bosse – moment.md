@@ -40,4 +40,4 @@ Sotte Bosse is a special unit consisting of club jazz unit i-dep's Hiroshi Nakam
 11. ひとひら
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}

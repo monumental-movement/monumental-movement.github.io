@@ -14,9 +14,9 @@ title: '[Column] Chiptune / 8-bit Music''s current location and future'
 ---
 
 
-## Introduction: Why does 8-bit music resonate today?
+## 序章：8-bit音楽はなぜ現代に響くのか
 
-Text: mmr｜Theme: Comprehensive research on reinterpreting Famicom/Game Boy sound sources into modern times
+文：mmr｜テーマ：ファミコン・ゲームボーイ音源を現代に再解釈する総合研究について
 
 The sound known as Chiptune, or 8-bit music, has transcended the boundaries of simply being a nostalgic genre that evokes the sounds of retro games, and continues to have a unique power in modern music culture. There are many reasons for this, but the most fundamental one is **""universal musicality born from constraints''**.
 
@@ -31,7 +31,7 @@ Furthermore, in modern times, the ""digital purity'' that these tones provide is
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,24 +40,24 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Origin of 8-bit - Famicom and Game Boy sound source chip
+## 第1章：8-bitの起源 ― ファミコンとゲームボーイの音源チップ
 
-### 1-1. "Ricoh 2A03" that determined the sound of Famicom/NES
+### 1-1. ファミコン（Famicom/NES）の音を決めた「Ricoh 2A03」
 
-What determined the sound of the Famicom was a sound source chip integrated into the CPU called **Ricoh 2A03 (Japan)/2A07 (overseas NES)**. This chip belongs to the so-called "PSG (Programmable Sound Generator)".
+ファミコンのサウンドを決定したのは、CPUに統合された **Ricoh 2A03（日本）／2A07（海外NES）** という音源チップである。このチップは、いわゆる「PSG（Programmable Sound Generator）」に属する。
 
-#### 5-channel configuration of Famicom sound source
+#### ファミコン音源の5チャンネル構成
 
-- **Square wave (Pulse) x 2 channels**
-Duty ratio can be selected from 12.5% ​​/ 25% / 50% / 75%, suitable for main melody.
+- **矩形波（Pulse） ×2チャンネル**  
+  デューティ比は 12.5% / 25% / 50% / 75% を選択でき、主旋律に向く。
 
-- **Triangle wave (Triangle) x 1 channel**
+- **三角波（Triangle） ×1チャンネル**  
 It is often used for bass lines, but it was also used to simulate drums.
 
 - **Noise ×1 channel**
-Responsible for most of the game production sounds, such as snares, hi-hats, and explosion sounds.
+  スネア・ハイハット・爆発音など、ゲーム演出的な音の大半を担当。
 
-- **DPCM (sample playback) x 1 channel**
+- **DPCM（サンプル再生） ×1チャンネル**  
 Although the sound quality is low, close to 1 bit, it is possible to play drum samples and voice materials.
 
 This structure later became the basic format of Chiptune, and modern musicians often keep this tone in mind when producing.
@@ -66,12 +66,12 @@ This structure later became the basic format of Chiptune, and modern musicians o
 
 ### 1-2. "LR35902" which created the tone of Game Boy (DMG-01)
 
-The Game Boy is equipped with a CPU + PSG sound source called **Sharp LR35902** and has 4 channels.
+ゲームボーイには **Sharp LR35902** というCPU＋PSG音源が搭載され、4チャンネルを持つ。
 
-#### 4-channel configuration of Game Boy sound source
+#### Game Boy音源の4チャンネル構成
 
-- **Square wave (Pulse 1)**
-- **Square wave (Pulse 2)**
+- **矩形波（Pulse 1）**
+- **矩形波（Pulse 2）**
 - **Waveform memory (Wave channel)**
 - Channel that allows you to freely draw 4-bit waveforms of 32 samples
 - **Noise Channel**
@@ -82,18 +82,18 @@ Waveform memory is at the heart of creativity, and even in the modern Game Boy C
 
 ## Chapter 2: Musical individuality created by waveforms - Square waves, triangle waves, noise, and the structure of waveform memory
 
-### 2-1. The appeal of square waves (Square/Pulse)
+### 2-1. 矩形波（Square/Pulse）の魅力
 
-Square waves have a clearer overtone structure than other waveforms, creating clear melodies typical of game music. Changing the duty ratio greatly changes the character of the sound, and also affects emotional expression.
+矩形波は他の波形よりも倍音構造が明確で、ゲーム音楽らしい明瞭なメロディを作る。デューティ比を変えると音のキャラクターが大きく変化し、感情表現にも影響する。
 
-- **12.5%**: Thin and sharp
-- **25%**: Bright
-- **50%**: Standard
+- **12.5%**：細くて鋭い  
+- **25%**：明るい  
+- **50%**：標準的  
 - **75%**: Thick and soft
 
-Most of Chiptune's "song spirit" resides here.
+Chiptuneの“歌心”は大部分がここに宿る。
 
-### 2-2. Role of triangle wave (Triangle)
+### 2-2. 三角波（Triangle）の役割
 
 The triangle wave is a waveform with few overtones, making it ideal for bass lines. Because the volume of the Famicom's triangular wave could not be changed, a technique was developed to create differences in volume by devising the expression of each note.
 
@@ -101,9 +101,9 @@ The triangle wave is a waveform with few overtones, making it ideal for bass lin
 
 Because noise contains random frequency components, it can generate many sound effects such as snares, hi-hats, wind, and explosions. This is why game music is called "percussion made of bits."
 
-### 2-4. Revolutionary nature of waveform memory (WAVE)
+### 2-4. 波形メモリ（WAVE）の革命性
 
-The Game Boy's WAVE channel allows you to create arbitrary waveforms rather than fixed waveforms, allowing you to create a wide variety of tones such as bass, lead, pad, kick, and FX.
+ゲームボーイのWAVEチャンネルは、固定波形ではなく任意の波形を作れるため、ベース、リード、パッド、キック、FXなど多彩な音色を生み出せる。
 
 ---
 
@@ -112,7 +112,7 @@ The Game Boy's WAVE channel allows you to create arbitrary waveforms rather than
 ### 3-1. What is Tracker?
 
 Tracker is a sequencer that scrolls vertically.
-**Enter the scale, volume, and effects in hexadecimal numbers** Use the method.
+**音階・音量・エフェクトを16進数で入力する** 手法を使う。
 
 #### Modern typical Tracker
 
@@ -125,7 +125,7 @@ They are a core part of Chiptune culture and are used by artists around the worl
 
 ### 3-2. LSDj - King of Game Boy music
 
-LSDj is highly complete as a portable Tracker, and directly controls the sound source of the actual Game Boy. Bass sounds that skillfully use WAVE channels, rhythms created with noise, and unique fluctuations caused by clock fluctuations are popular.
+LSDjはポータブルTrackerとして完成度が高く、Game Boy実機の音源を直接制御する。WAVEチャンネルを巧みに使ったベースサウンド、ノイズで作るリズム、クロックの揺れによる独自の揺らぎなどが人気。
 
 ### 3-3. Famitracker - Faithfully reproduces NES sound sources
 
@@ -133,7 +133,7 @@ Famitracker accurately reproduces the NES APU sound source and is used by compos
 
 ### 3-4. Nanoloop - minimal aesthetics
 
-Nanoloop produces minimal electronic music with a beautiful interface that has been stripped down to its bare minimum.
+Nanoloopは機能を極限まで削ぎ落とした美しいインターフェースで、ミニマルな電子音楽を生む。
 
 ---
 
@@ -155,8 +155,8 @@ DAW allows you to freely process effects, making it perfect for fusing Chiptune 
 
 example:
 - Add delay/reverb to 8-bit lead to create a synth lead
-- Process the noise channel and apply it to Trap's snare
-- Sidechain square wave bass to make it look like EDM
+- ノイズチャンネルを加工しTrapのスネアへ応用  
+- 矩形波ベースをサイドチェインでEDM風に  
 
 These "expanded Chiptunes" have recently become mainstream.
 
@@ -165,37 +165,37 @@ These "expanded Chiptunes" have recently become mainstream.
 ## Chapter 5: The intersection of game music remix culture and Chiptune
 
 There are a huge number of game music arrangements on YouTube and social media.
-Chiptune has a special role in that.
+Chiptune has a special role in this.
 
 reason:
 
-- Reconfiguring old game sound sources to sound like a different hardware
+- 昔のゲーム音源を“別ハード風”に再構成  
 - Fusion with EDM/Lo-Fi/Trap
-- 8-bit texture with strong iconic character
+- 8-bitの質感が強いアイコン性を持つ  
 - Easy to arrange as it can be achieved with a small number of notes
 
-Chiptune is by no means limited to a "reproduction of game music", but is actively interpreted within modern music culture.
+Chiptuneは決して“ゲーム音楽の復刻”に留まらず、現代の音楽文化の中で積極的に解釈されている。
 
 ---
 
-## Chapter 6: Chiptune technical analysis and composition method
+## 第6章：Chiptuneの技術分析と作曲方法
 
-### 6-1. Build a lead melody
+### 6-1. リードメロディを構築する
 
-- Uses a square wave with a duty ratio of 25% / 50%
+- デューティ比25% / 50%の矩形波を使用  
 - Slide and vibrato retain the characteristics of the sound source chip
 - Make an impression by repeating short phrases
 
-### 6-2. How to create a baseline
+### 6-2. ベースラインの作り方
 
-- Famicom: Triangle wave
+- ファミコン：三角波  
 - Game Boy: WAVE Channel
 
 ### 6-3. How to create rhythm
 
-- Adjust noise channel length and frequency
-- Kick is reproduced by Pitch falling
-- Snare combines short noise and square wave
+- ノイズチャンネルの長さと周波数を調整  
+- キックはPitch落下で再現  
+- スネアは短いノイズと矩形波を合わせる
 
 ---
 
@@ -217,12 +217,12 @@ flowchart TD
 ## Chapter 8: Global Chiptune Scene and Artist Culture
 
 Chiptune has communities all over the world.
-The features are as follows.
+特徴は次の点にある。
 
 - Live performance using actual Game Boy or NES
 - Composition using Tracker is the world standard
 - Highly compatible with illustrations, videos, and pixel art
-- DIY spirit and open culture
+- DIY精神とオープン文化  
 
 It is considered not just a musical genre, but a comprehensive form of expression.
 
@@ -233,50 +233,50 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 ### 9-1. Production using actual equipment
 
 - Game Boy DMG-01 modification
-- EverDrive/Flash Cart
-- Replacement of fragile parts
+- EverDrive・Flash Cart
+- 壊れやすいパーツの交換  
 - Method of recording in stereo one channel at a time
 
-### 9-2. DAW-based production
+### 9-2. DAWベースの制作
 
 - Completely reproduce the original sound with Plogue chipsynth
-- Sidechain/EQ correction
-- Separate sound sources like a multi-mic
-- Adjust the sound image with 32bit float recording
+- サイドチェイン・EQ補正  
+- マルチマイクのように音源を分離  
+- 32bit float録音で音像を調整
 
 ---
 
-## Chapter 10: The future of Chiptune and the future of 8-bit aesthetics
+## 第10章：Chiptuneの将来と8-bit美学の行方
 
-8-bit music is no longer a symbol of retro;
-**A presence that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
+8-bit音楽はもはやレトロの象徴ではなく、  
+**An entity that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
 It has become.
 
-- Use in Hyperpop and EDM
+- HyperpopやEDMでの使用  
 - Lo-fi hiphop 8-bit textures
 - Strengthening the worldview of video works
-- Comprehensive performance combined with pixel art
+- ピクセルアートと組み合わせた総合演出  
 
-8-bit sound will continue to have an impact on both cultural and technological aspects.
+8-bitの音はこれからも、文化・技術の両側面で影響を与え続ける。
 
 ---
 
-## Conclusion: Chiptune is the musical language of the future
+## 結語：Chiptuneは未来の音楽言語である
 
-**Chiptune is not "music of the past" but "a musical language that will continue to be used by creators of the future." **
+**Chiptuneは“過去の音楽”ではなく、“未来のクリエイターが使い続ける音楽言語”である。**
 
-The square wave doesn't disappear.
-The snare on the noise channel is still new.
-The freedom of the Wave channel is the origin of digital music.
+矩形波は消えない。  
+ノイズチャンネルのスネアは今も新しい。  
+Waveチャンネルの自由度はデジタル音楽の原点。  
 
-> 8-bit music will continue to resonate all over the world.
+> 8-bit音楽は、これからも世界中で鳴り続ける。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aO1nwUlb9NY?si=UIFZl3C_-Ys-NfHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

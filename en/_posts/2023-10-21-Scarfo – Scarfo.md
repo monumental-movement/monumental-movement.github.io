@@ -12,7 +12,7 @@ title: Scarfo – Scarfo
 ---
 
 
-Scarfo is a British rock band formed in 1994 by Jamie Hince, Nick Prior, and Al Saunders.
+Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
 
 #### Tracklist
 ```md
@@ -31,5 +31,5 @@ B6. Throw It All
 B7. Wailing Words
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
 

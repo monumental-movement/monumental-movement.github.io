@@ -10,42 +10,41 @@ tags:
 - Krautrock
 - Experimental
 - Ambient
-title: '[Column] Holger Czukay: The musician who invented the musical instrument called
-  recording'
+title: 【コラム】 Holger Czukay：録音という楽器を発明した音楽家
 ---
 
 
-## The man who turned recording equipment into "instruments"
+## 録音機材を“楽器”に変えた男
 
-Text: mmr | Theme: Holger Czukay, who transformed "recording" into "performance" rather than just recording. Trace how that innovative idea connected from krautrock to sampling culture, ambient, and contemporary electronic music.
+文：mmr｜テーマ：「録音」を単なる記録ではなく“演奏”へ変えたホルガー・シューカイ。その革新的な発想が、クラウトロックからサンプリング文化、アンビエント、現代電子音楽へどう接続されたのかを辿る
 
-Looking back at the history of music since the 1970s, there are not many people who turned the act of ""recording'' into a form of creation.
+1970年代以降の音楽史を振り返ると、「録音」という行為そのものを創作へ変えた人物は決して多くない。
 
-Holger Czukay was one of those few.
+ホルガー・シューカイは、その数少ない一人だった。
 
-He's not a "bassist" in the general sense of the word. Of course, his performances at CAN were important, but he was essentially a "sound editor," a "space builder," and an "accidental discoverer."
+彼は一般的な意味での“ベーシスト”ではない。もちろんCANにおける演奏は重要だったが、本質的には「音の編集者」であり、「空間の構築者」であり、「偶然の発見者」だった。
 
 Noise from the radio.
-Shortwave broadcast fragment.
-conversation.
-environmental sounds.
-Reverse rotation of the tape.
+短波放送の断片。
+会話。
+環境音。
+テープの逆回転。
 Editing mistake.
-A sound recorded by chance.
+偶然録音された音。
 
-He did not discard them as "unnecessary noise".
+彼はそれらを「不要なノイズ」として捨てなかった。
 
-Rather, he saw the possibility of new music there.
+むしろ、そこに新しい音楽の可能性を見出した。
 
-This connects with later sampling culture, hip-hop, ambient, IDM, experimental electronic music, and even the post-Internet sense of fragmented information.
+これは後年のサンプリング文化、ヒップホップ、アンビエント、IDM、実験電子音楽、さらにはインターネット以降の情報断片的感覚にまで接続していく。
 
-However, what is interesting is that rather than being a future-oriented technologist, he was a musician who trusted his ears to the utmost.
+だが興味深いのは、彼自身が未来志向のテクノロジストというより、「耳」を極限まで信じた音楽家だったことだ。
 
-Theory and intuition coexist in his works.
+彼の作品には理論性と直感が共存している。
 
-That's why it never gets old even after more than half a century.
+だからこそ、半世紀以上経った現在でも古びない。
 
->Holger Czukay was a person who transformed "the recorded world itself" into music.
+> ホルガー・シューカイは、“録音された世界そのもの”を音楽へ変えた人物だった。
 
 ---
 
@@ -65,117 +64,117 @@ color: #fff;
 
 ---
 
-## Memories of war and a sense of sound
+## 戦争の記憶と音への感覚
 
-### Childhood and war experience
+### 幼少期と戦争体験
 
-Holger Schukai was born on March 24, 1938 in the Free City of Danzig, then part of Germany.
+ホルガー・シューカイは1938年3月24日、当時ドイツ領だったダンツィヒ自由市で生まれた。
 
-This area corresponds to present-day Gdańsk, Poland.
+現在のポーランド・グダニスクにあたる地域である。
 
-His childhood was deeply connected to the turmoil of World War II.
+彼の幼少期は、第二次世界大戦の混乱と深く結びついていた。
 
 At the end of the war, like many German residents, he was evacuated.
 
-It is believed that this sense of ""movement," ""loss," and ""fragmentation'' strongly influenced his acoustic sensibilities in later years.
+この「移動」「喪失」「断片化」の感覚は、後年の彼の音響感覚に強く影響したと考えられている。
 
-Shukai's music lacks a sense of "settlement."
+シューカイの音楽には、“定住感”が希薄だ。
 
-It has a somewhat drifting feel to it, crossing borders and frequencies like shortwave radio.
+どこか漂流的で、短波ラジオのように国境を越え、周波数を横断していく。
 
-This was also a feeling unique to the post-war European generation.
+それは戦後ヨーロッパ世代特有の感覚でもあった。
 
-### Music education and approach to classical music
+### 音楽教育とクラシックへの接近
 
-As a young man, he had a strong interest in jazz.
+若い頃の彼はジャズに強い関心を持っていた。
 
-He was particularly attracted to musicians who updated their forms, such as Miles Davis and Charles Mingus.
+特にマイルス・デイヴィスやチャールズ・ミンガスなど、形式を更新していく音楽家たちに惹かれていたという。
 
-Eventually he entered the Cologne Academy of Music.
+やがて彼はケルン音楽大学へ進学する。
 
-Here he meets a person who will define the rest of his life.
+ここで彼は、後の人生を決定づける人物と出会う。
 
-This is Karlheinz Stockhausen.
+カールハインツ・シュトックハウゼンである。
 
 ---
 
-## Stockhausen Classroom
+## シュトックハウゼンの教室
 
-### Encounter with avant-garde music
+### 前衛音楽との遭遇
 
-In the early 1960s, the West German avant-garde music scene was highly experimental.
+1960年代初頭、西ドイツの前衛音楽シーンは極めて実験的だった。
 
 electronic music.
-Randomness.
-Spatial acoustics.
-Tape editing.
-minimalism.
-noise.
+偶然性。
+空間音響。
+テープ編集。
+ミニマリズム。
+ノイズ。
 
-Postwar Germany was disconnected from its "past culture" and was searching for new forms of expression.
+戦後ドイツは「過去の文化」から断絶し、新しい表現を模索していた。
 
-One person at the center of this was Stockhausen.
+その中心にいた一人がシュトックハウゼンだった。
 
-Shukai learns music theory and experimental spirit from him.
+シューカイは彼の元で音楽理論と実験精神を学ぶ。
 
 <div class="mermaid">
 graph TD
-A[postwar germany] --> B[avant-garde art]
-B --> C[electronic music]
-B --> D[coincidence]
-B --> E[tape editing]
-C --> F[stockhausen]
+A[戦後ドイツ] --> B[前衛芸術]
+B --> C[電子音楽]
+B --> D[偶然性]
+B --> E[テープ編集]
+C --> F[シュトックハウゼン]
 F --> G[Holger Czukay]
 </div>
 
-### An idea that was more important than "playing an instrument"
+### “楽器演奏”より重要だった発想
 
-In Stockhausen's classroom, ""how to think about sound" was more important than ""playing correctly."
+シュトックハウゼンの教室では、「正しく演奏する」こと以上に、「音をどう考えるか」が重視された。
 
-This had a decisive influence on Shukai.
+これはシューカイに決定的な影響を与えた。
 
-In later years, he incorporated ""listening to the radio'' itself into his compositions.
+彼は後年、「ラジオを聴くこと」そのものを作曲に取り入れていく。
 
-It's not about destroying existing music.
+既存音楽を壊すのではない。
 
-He turned the world itself into material.
+世界そのものを素材に変えたのだ。
 
-### Networks that will lead to later CAN
+### 後のCANへ繋がる人脈
 
-There were many people under Stockhausen who would later lead to Krautrock.
+シュトックハウゼン門下には、後のクラウトロックへ繋がる人材が数多く存在した。
 
-Irmin Schmidt is one of them.
+イルミン・シュミットもその一人である。
 
-Eventually, they began to envision a fusion of rock, improvisation, contemporary music, and folk music.
+やがて彼らはロック、即興演奏、現代音楽、民族音楽を融合する構想を抱き始める。
 
-CAN was born as a testing ground.
+その実験場として誕生したのがCANだった。
 
-> While receiving a classical education, Shukai opened his ears to the "noises of the world."
+> シューカイはクラシック教育を受けながら、“世界の雑音”へ耳を開いていった。
 
 ---
 
-## CAN Formation and Krautrock Revolution
+## CAN結成とクラウトロック革命
 
-### The era of 1968
+### 1968年という時代
 
-1968 was a year of intense social change around the world.
+1968年は世界的に社会変動が激化した年だった。
 
-student movement.
-Counterculture.
-Vietnam War.
-counterculture.
+学生運動。
+反体制文化。
+ベトナム戦争。
+カウンターカルチャー。
 
-Music was also changing significantly.
+音楽もまた大きく変化していた。
 
-However, young German musicians felt strongly uncomfortable with the imitation of British and American rock music.
+だがドイツの若い音楽家たちは、英米ロックの模倣に強い違和感を抱いていた。
 
-They called for "new music uniquely German."
+彼らは「ドイツ独自の新しい音楽」を求めた。
 
-### Birth of CAN
+### CANの誕生
 
-In 1968, CAN was formed near Cologne.
+1968年、ケルン近郊でCANが結成される。
 
-The members are as follows.
+メンバーは以下の通りである。
 
 <div class="mermaid">
 graph TD
@@ -185,284 +184,284 @@ A --> D[Michael Karoli]
 A --> E[Jaki Liebezeit]
 </div>
 
-Jaki Liebezeit's mechanical groove.
-Michael Caroli's floating guitar.
-Irmin Schmidt's avant-garde sense.
+ジャキ・リーベツァイトの機械的グルーヴ。
+ミヒャエル・カローリの浮遊するギター。
+イルミン・シュミットの前衛感覚。
 
-Shukai's editorial ideas were added to this.
+そこへシューカイの編集的発想が加わった。
 
-### Base as Edit
+### 編集としてのベース
 
-Shukai's bass is different from a typical rock bass.
+シューカイのベースは、一般的なロックベースとは異なる。
 
-It's not a fancy technique.
+派手な技巧ではない。
 
-Rather, repetition and a sense of space were important.
+むしろ反復と空間感覚が重要だった。
 
-In particular, CAN's masterpieces ""Tago Mago," ""Ege Bamyasi," and ""Future Days'' highlight their unique sense of circulation.
+特にCANの代表作『Tago Mago』『Ege Bamyasi』『Future Days』では、その独特の循環感覚が際立つ。
 
-His play feels more like ""drifting through space" than ""moving forward."
+彼のプレイは「前へ進む」というより、「空間を漂わせる」感覚に近い。
 
-### Introduction to tape editing
+### テープ編集の導入
 
-What was important in CAN's recordings was the method of editing the enormous amount of improvisation afterwards.
+CANの録音で重要だったのが、膨大な即興演奏を後から編集する手法である。
 
-This was quite innovative at the time.
+これは当時としてはかなり革新的だった。
 
-He records several hours of jams, then cuts and pastes the tapes to create songs.
+数時間のジャムを録音し、その後テープを切り貼りして楽曲化する。
 
-A feeling similar to the later sampling culture and DAW editing already existed.
+後のサンプリング文化やDAW編集に近い感覚が、すでに存在していた。
 
 <div class="mermaid">
 flowchart TD
-A[improvisation] --> B[long time recording]
-B --> C[tape editing]
-C --> D[Musicalization]
-D --> E[CAN's unique structure]
+A[即興演奏] --> B[長時間録音]
+B --> C[テープ編集]
+C --> D[楽曲化]
+D --> E[CAN独自の構造]
 </div>
 
-### Approaching world music
+### 世界音楽への接近
 
-CAN showed interest in non-Western music from an early stage.
+CANは早い段階から非西洋音楽へ関心を示していた。
 
-African music.
-Middle Eastern music.
-ethnic rhythm.
+アフリカ音楽。
+中東音楽。
+民族的リズム。
 
-However, they took a method closer to "absorption" than "quotation."
+だが彼らは“引用”より、“吸収”に近い方法を取った。
 
-Rather than copying a specific genre, they reconstructed the structure itself.
+特定ジャンルのコピーではなく、構造そのものを再構築したのである。
 
->While CAN was a rock band, they also existed as an "editing art group."
+> CANはロックバンドでありながら、“編集芸術集団”のような存在でもあった。
 
 ---
 
-## "Future Days" and the pioneering nature of environmental music
+## 『Future Days』と環境音楽の先駆性
 
-### Acoustic space like water surface
+### 水面のような音響空間
 
-1973's ""Future Days'' is a unique work by CAN.
+1973年の『Future Days』は、CANの中でも特異な作品である。
 
-Rather than intense experimentation, the focus is on a fluid acoustic space.
+激しい実験性よりも、流動的な音響空間が中心にある。
 
-It is extremely close to the feeling that would later be called "ambient."
+後年「アンビエント」と呼ばれる感覚へ極めて近い。
 
-It can be said that this work established music as an environment before Brian Eno.
+ブライアン・イーノ以前に、環境としての音楽を成立させていた作品とも言える。
 
-### The boundary between music and environment disappears
+### 音楽と環境の境界消失
 
-Shukai blurred the distinction between environmental sound and performance.
+シューカイは環境音と演奏の区別を曖昧にした。
 
-Wave-like noise.
-floating base.
-Vocals in the distance.
+波のようなノイズ。
+浮遊するベース。
+遠景化されたボーカル。
 
-Rather than ""listening to a song'', the listener feels as if they are entering a space.
+聴き手は「曲を聴く」というより、空間へ入っていく感覚になる。
 
 <div class="mermaid">
 graph TD
-A[Future Days] --> B[repetition]
-A --> C[environmental sounds]
-A --> D[floating feeling]
-A --> E[long time structure]
-B --> F[Ambient impact]
+A[Future Days] --> B[反復]
+A --> C[環境音]
+A --> D[浮遊感]
+A --> E[長時間構造]
+B --> F[アンビエントへの影響]
 C --> F
 D --> F
 E --> F
 </div>
 
-### Huge impact on subsequent generations
+### 後続世代への巨大な影響
 
-This work influenced many musicians in later years.
+この作品は後年、多くの音楽家に影響を与えた。
 
-post rock.
-dub.
-Ambient.
-electronic music.
+ポストロック。
+ダブ。
+アンビエント。
+電子音楽。
 
-Particularly in the experimental music scene since the 1990s, there has been a re-evaluation of music.
+特に1990年代以降の実験音楽シーンでは再評価が進む。
 
-> ""Future Days" was a forerunner of ""music that exists like the air."
+> 『Future Days』は、“空気のように存在する音楽”を先取りしていた。
 
 ---
 
-## Solo activity and radio collage
+## ソロ活動とラジオ・コラージュ
 
-### Direction after leaving CAN
+### CAN脱退後の方向性
 
-From around 1977, Shukai gradually began to distance himself from CAN.
+1977年頃から、シューカイは徐々にCANから距離を置き始める。
 
-After that, he shifted his focus to solo works.
+以後はソロ作品へ重点を移した。
 
-Here he becomes even more free.
+ここで彼はさらに自由になる。
 
-### Impact of "Movies"
+### 『Movies』の衝撃
 
-1979's ""Movies'' is known as his signature solo work.
+1979年の『Movies』は、彼の代表的ソロ作品として知られる。
 
-"Persian Love" is especially symbolic.
+特に「Persian Love」は象徴的だ。
 
-Audio fragments picked up from shortwave radio.
-Middle Eastern melody.
-Repeating beats.
+短波ラジオから拾った音声断片。
+中東系メロディ。
+反復するビート。
 
-It had a structure that made it difficult to classify it into existing genres.
+既存ジャンルへ分類しづらい構造だった。
 
-### Sampling before sampling
+### サンプリング以前のサンプリング
 
-What is important is that this is a pre-digital work.
+重要なのは、これがデジタル以前の作品だという点である。
 
-He was editing by hand.
+彼は手作業で編集していた。
 
-Cut the tape,
-Paste,
-rotates backwards,
-I waited for a coincidence.
+テープを切り、
+貼り、
+逆回転し、
+偶然を待った。
 
 <div class="mermaid">
 flowchart TD
-A[shortwave radio] --> B[recording]
-B --> C[tape editing]
-C --> D[repetition]
-D --> E[collage]
-E --> F[Holger Czukay's unique acoustics]
+A[短波ラジオ] --> B[録音]
+B --> C[テープ編集]
+C --> D[反復]
+D --> E[コラージュ]
+E --> F[Holger Czukay独自音響]
 </div>
 
-Considering the sampling techniques of later years, his method was surprisingly advanced.
+後年のサンプリング技術を考えると、彼の手法は驚くほど先進的だった。
 
-### Feeling of "eavesdropping on the world"
+### “世界を盗聴する”感覚
 
-There's something eavesdropping about his music.
+彼の音楽には、どこか盗聴的感覚がある。
 
-Distant broadcasting.
-Unclear conversation.
-noise.
-Radio waves.
+遠くの放送。
+不明瞭な会話。
+ノイズ。
+電波。
 
-This is similar to the sense of fragmented information in the Internet era.
+それはインターネット時代の情報断片感覚にも通じる。
 
-It is not the complete information, but the charm of the broken signal.
+完成された情報ではなく、途切れた信号の魅力である。
 
-> Shukai has converted "sound fragments floating around the world" into music.
+> シューカイは、“世界に漂う音の断片”を音楽へ変換した。
 
 ---
 
-## Interaction with David Sylvian
+## デヴィッド・シルヴィアンとの交流
 
-### 1980s Connection
+### 1980年代の接続
 
-In the 1980s, Shukai deepened his interactions with a new generation of musicians.
+1980年代、シューカイは新世代ミュージシャンとの交流を深める。
 
-Particularly important was the collaboration with David Sylvian.
+特に重要だったのがデヴィッド・シルヴィアンとの協働である。
 
-Sylvian, formerly of Japan, was interested in spatial acoustics that went beyond pop music.
+元Japanのシルヴィアンは、ポップミュージックを越えた空間音響へ関心を持っていた。
 
-The feelings between the two were extremely close.
+両者の感覚は極めて近かった。
 
-### "Plight & Premonition"
+### 『Plight & Premonition』
 
-The joint work "Plight & Premonition" released in 1988 is one of the important works in the history of environmental music.
+1988年発表の共作『Plight & Premonition』は、環境音楽史において重要作の一つである。
 
-Silence.
-Sustained sound.
-piece.
-A feeling of air.
+静寂。
+持続音。
+断片。
+空気感。
 
-Traditional locking structures are almost non-existent.
+従来のロック構造はほぼ存在しない。
 
 <div class="mermaid">
 graph TD
-A[Holger Czukay] --> C[environmental sounds]
-B[David Sylvian] --> D[sense of silence]
+A[Holger Czukay] --> C[環境音]
+B[David Sylvian] --> D[静寂感覚]
 C --> E[Plight and Premonition]
 D --> E
 </div>
 
-### The world after ambient
+### アンビエント以後の世界
 
-Shukai's works during this period are closer to "space design" than "music."
+この時期のシューカイ作品は、“音楽”というより“空間設計”に近い。
 
-He moved away from melody-centeredness and constructed the auditory experience itself.
+彼はメロディ中心主義から離れ、聴覚体験そのものを組み立てていた。
 
-This also applies to his later drone, acoustic, and electro-acoustic works.
+これは後のドローン、音響派、エレクトロアコースティック作品にも通じる。
 
-> Shukai moved in the direction of making sounds "exist" rather than "performing" them.
+> シューカイは、音を「演奏」するより、「存在」させる方向へ進んでいった。
 
 ---
 
-## Distance from technology
+## テクノロジーとの距離感
 
-### Digital adaptation
+### デジタルへの適応
 
-Since the late 1980s, music production has rapidly become digital.
+1980年代後半以降、音楽制作は急速にデジタル化していく。
 
-sampler.
-MIDI.
-DAW.
+サンプラー。
+MIDI。
+DAW。
 
-However, Shukai was not completely digital-oriented.
+だがシューカイは、完全なデジタル志向ではなかった。
 
-He emphasized analog chance.
+彼はアナログ的偶然性を重視していた。
 
-### Edit to leave coincidences behind
+### 偶然を残す編集
 
-His editing is the opposite of perfectionism.
+彼の編集は完璧主義とは逆方向にある。
 
-noise.
-distortion.
-Poor communication.
-Recording mistake.
+ノイズ。
+歪み。
+通信不良。
+録音ミス。
 
-He did not eliminate such "imperfections".
+そうした“不完全さ”を排除しなかった。
 
 <div class="mermaid">
 graph TD
-A[Holger Czukay's production philosophy] --> B[coincidence]
-A --> C[noise]
-A --> D[environmental sounds]
-A --> E[edit]
-B --> F[organic acoustics]
+A[Holger Czukayの制作思想] --> B[偶然性]
+A --> C[ノイズ]
+A --> D[環境音]
+A --> E[編集]
+B --> F[有機的音響]
 C --> F
 D --> F
 E --> F
 </div>
 
-This is a feeling that is connected to current lo-fi culture.
+これは現在のローファイ文化にも繋がる感覚である。
 
-### Connection with modern electronic music
+### 現代電子音楽との接続
 
-Many electronic musicians today refer to him.
+今日、多くの電子音楽家が彼を参照している。
 
-In particular, the following elements are modern.
+特に以下の要素は現代的だ。
 
-- Repeating structure
-- Information fragmentation
-- Sampling sensation
-- Acoustic space design
-- Non-linear editing
-- Use of environmental sounds
+- 反復構造
+- 情報断片性
+- サンプリング感覚
+- 音響空間設計
+- 非線形編集
+- 環境音利用
 
-In other words, he was ""a person who reached a digital sensibility before digital.''
+つまり彼は、“デジタル以前にデジタル的感覚へ到達した人物”だった。
 
-> Shukai was not looking for a perfect sound, but a "living sound."
+> シューカイは、完璧な音ではなく、“生きている音”を求めていた。
 
 ---
 
-## Late life and reevaluation
+## 晩年と再評価
 
-### CAN re-evaluation process
+### CAN再評価の流れ
 
-Since the 1990s, CAN has been rapidly reevaluated.
+1990年代以降、CANは急速に再評価される。
 
-Post-rock generation.
-electronic music generation.
-club culture.
+ポストロック世代。
+電子音楽世代。
+クラブカルチャー。
 
-Many musicians started referring to CAN.
+多くの音楽家がCANを参照し始めた。
 
-### Impact on the younger generation
+### 若い世代への影響
 
-The following areas were particularly affected:
+特に影響が大きかったのは以下の領域である。
 
 <div class="mermaid">
 mindmap
@@ -477,93 +476,102 @@ mindmap
     Electronic Music
 </div>
 
-His ideas have been inherited across genres.
+彼の発想は、ジャンルを超えて継承された。
 
-### Deaths in 2017
+### 2017年の死去
 
-Holger Czukay passed away on September 5, 2017.
+ホルガー・シューカイは2017年9月5日に死去した。
 
-He was 79 years old.
+79歳だった。
 
-Even after his death, his works continue to be excavated and reevaluated.
+死後も彼の作品は発掘・再評価が続いている。
 
-The reason is clear.
+その理由は明確だ。
 
-This is because his music is not just an "experiment from the past."
+彼の音楽が、単なる“過去の実験”ではないからである。
 
-Rather, it is strangely connected to the current information society.
+むしろ現在の情報社会と異様なほど接続している。
 
-> Shukai's music was made with "future ears."
+> シューカイの音楽は、“未来の耳”で作られていた。
 
 ---
 
-## Holger Czukay Chronology
+## Holger Czukay 年表
 
-| Year | Events |
+| 年 | 出来事 |
 |---|---|
-| 1938 | Born in the Free City of Danzig |
-| Early 1960s | Studied at the Cologne Academy of Music |
-| 1960s | Studied under Stockhausen |
-| 1968 | CAN formed |
-| 1969 | "Monster Movie" announced |
-| 1971 | "Tago Mago" announced |
-| 1972 | "Ege Bamyasi" announced |
-| 1973 | "Future Days" announced |
-| 1979 | Solo work "Movies" released |
-| 1988 | Co-written with David Sylvian |
-| 1990s | CAN re-evaluation in progress |
-| 2017 | Passed away |
+| 1938 | ダンツィヒ自由市で誕生 |
+| 1960年代初頭 | ケルン音楽大学で学ぶ |
+| 1960年代 | シュトックハウゼンに師事 |
+| 1968 | CAN結成 |
+| 1969 | 『Monster Movie』発表 |
+| 1971 | 『Tago Mago』発表 |
+| 1972 | 『Ege Bamyasi』発表 |
+| 1973 | 『Future Days』発表 |
+| 1979 | ソロ作『Movies』発表 |
+| 1988 | デヴィッド・シルヴィアンと共作 |
+| 1990年代 | CAN再評価が進行 |
+| 2017 | 死去 |
 
 ---
 
-## CAN major works and features
+## CAN主要作品と特徴
 
-| Works | Publication year | Features |
+| 作品 | 発表年 | 特徴 |
 |---|---|---|
-| Monster Movie | 1969 | Improvisation and experimental rock |
-| Tago Mago | 1971 | Editing Structure and Chaos |
-| Ege Bamyasi | 1972 | Groove reinforcement |
-| Future Days | 1973 | Floating sensation and environmental sound |
+| Monster Movie | 1969 | 即興性と実験ロック |
+| Tago Mago | 1971 | 編集構造と混沌 |
+| Ege Bamyasi | 1972 | グルーヴ強化 |
+| Future Days | 1973 | 浮遊感と環境音響 |
 
 ---
 
-## Importance of solo work
+## ソロ作品の重要性
 
-| Works | Publication year | Features |
+| 作品 | 発表年 | 特徴 |
 |---|---|---|
-| Movies | 1979 | Radio Collage |
-| On the Way to the Peak of Normal | 1981 | Experimental electronic acoustics |
-| Plight & Premonition | 1988 | Spatial music/Ambient |
+| Movies | 1979 | ラジオコラージュ |
+| On the Way to the Peak of Normal | 1981 | 実験電子音響 |
+| Plight & Premonition | 1988 | 空間音楽・アンビエント |
 
 ---
 
-## Why Holger Czukay still matters
+## なぜHolger Czukayは今も重要なのか
 
-Holger Czukay cannot be described simply as a "genre pioneer".
+ホルガー・シューカイは、“ジャンルの開拓者”という言葉だけでは説明できない。
 
-He turned "recorded reality" into music.
+彼は「録音された現実」を音楽へ変えた。
 
-And modern society has become exactly the world he was dealing with.
+そして現代社会は、まさに彼が扱っていた世界そのものになっている。
 
-Fragmented information.
-noise.
-communication.
-sampling.
-edit.
-Relocation.
+断片化された情報。
+ノイズ。
+通信。
+サンプリング。
+編集。
+再配置。
 
-The feel of the internet age is surprisingly close to his music.
+インターネット時代の感覚は、彼の音楽に驚くほど近い。
 
-That's why it never gets old even if you listen to it now.
+だから現在聴いても古くならない。
 
-In fact, there are some parts that are easier to understand now.
+むしろ今の方が理解しやすい部分すらある。
 
-He didn't predict the future.
+彼は未来を予言したわけではない。
 
-However, it fundamentally changed how humans listen to sound.
+ただ、人間が“音をどう聴くか”を根本から変えた。
 
-That is the essence of Holger Czukay.
+それがホルガー・シューカイという存在の本質である。
 
-> Holger Czukay was a musician who continued to renew the question ""What is music?'' throughout his life.
+> ホルガー・シューカイは、「音楽とは何か」という問いを、生涯を通して更新し続けた音楽家だった。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuZbnn6PZrE?si=9e2OA2Vti_Eg3yIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

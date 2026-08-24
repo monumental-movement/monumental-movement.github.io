@@ -14,9 +14,9 @@ title: Battles – Gloss Drop
 ---
 
 
-Battles is an American experimental rock band formed in 2002.
+Battles(バトルス)は2002年に結成したアメリカのエクスペリメンタルロックバンド。
 
-"Gloss Drop" is Battles' second album released in 2011, featuring guests Gary Numan, Matias Aguayo, Kaz Makino of Blonde Redhead, and Ai Yamazuka of Boredoms.
+「Gloss Drop(グロス・ドロップ)」は、ゲストにゲイリー・ニューマン 、マティアス・アグアーヨ 、ブロンド・レッドヘッドのカズ・マキノ 、boredoms(ボアダムス)の山塚アイ(EYヨ)を迎えた、2011年にリリースされたバトルスのセカンドアルバム。
 
 #### Tracklist
 ```md
@@ -38,7 +38,7 @@ Battles is an American experimental rock band formed in 2002.
 13. Sundome (Instrumental)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m71359863771?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71359863771?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vuKBipc69_o?si=sgCfoU--8llwj-oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

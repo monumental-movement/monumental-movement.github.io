@@ -27,7 +27,7 @@ B1. So I Love You Baby (Fluid Mix)
 B2. So I Love You Baby (Fluid Radio)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m99311765932?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99311765932?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yrTgrgm95vw?si=Vj5wTdjIutqpxs9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ title: Various – Volume 1, Program 6
 
 
 "Various – Volume 1, Program 6" is
-This is an EP from the label "Disco Tracks Program Service" released in 1986.
+1986年にレーベル「Disco Tracks Program Service」からのEPです。
 
 #### Tracklist
 ```md

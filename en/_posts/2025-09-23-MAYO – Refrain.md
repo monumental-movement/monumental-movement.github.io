@@ -10,11 +10,11 @@ tags:
 - Disco
 - City Pop
 - 70s
-title: Mayo Shono – Refrain M・A・Y・O – Refrain
+title: 庄野真代 – ルフラン M・A・Y・O – Refrain
 ---
 
 
-"Refran" is Mayo Shono"s fourth original album, which includes her signature song "Flying to Istanbul" (composed by Kyohei Tsutsumi). City Pop was released in 1978 by Nippon Columbia"s sub-label Nippon Columbia.
+「ルフラン」は、代表曲『飛んでイスタンブール』(作曲：筒美京平)が収録された、庄野真代の4枚目のオリジナルアルバム。日本コロムビアのサブレーベル日本コロムビアから1978年にリリースされたCity Pop。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ B4. 街に疲れて
 B5. ルフラン
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GDTniYWJk1U?si=akjdin9ocwSk9GeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

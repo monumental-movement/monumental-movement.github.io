@@ -10,22 +10,21 @@ tags:
 - Myspace
 - History
 - Social Media
-title: '[Column] Myspace music culture in the 2000s is being reevaluated: The map
-  of music changed by personal communication'
+title: 【コラム】 再評価される2000年代Myspace音楽文化：個人発信が変えた音楽の地図
 ---
 
 
 
-## Introduction: Myspace and the 2000s music scene
+## はじめに：Myspaceと2000年代の音楽シーン
 
-Text: mmr｜Theme: The rise and re-evaluation of Myspace music culture in the 2000s, and the trajectory of personal communication that changed the music scene
+文：mmr｜テーマ：2000年代Myspace音楽文化の台頭と再評価、個人発信が音楽シーンを変えた軌跡
 
 
-> In the early 2000s, with the emergence of Myspace as a place where the Internet and music intersect, the traditional record-based music distribution changed dramatically.
+> 2000年代初頭、インターネットと音楽が交差する場としてMyspaceが登場したことで、従来のレコード中心の音楽流通が劇的に変化した
 
-Myspace was born in America in 2003. It was originally designed as a social networking site for students and creators to interact, but when music functionality was added in 2004, it quickly began to influence the shaping of music culture. Until then, music distribution had relied on limited distribution through record companies. For indie bands and new artists, there were very limited means of disseminating their demo material, and they had to rely on local live performances and friend networks.
+2003年、アメリカでMyspaceは誕生した。当初は学生やクリエイターが交流するためのSNSとして設計されていたが、2004年に音楽機能が追加されると、音楽文化の形成に急速に影響を及ぼすようになった。それまでの音楽流通は、レコード会社を介した限定的な流通に依存していた。インディーズバンドや新人アーティストにとって、デモ音源を広める手段は非常に限られており、地域的なライブ活動や友人ネットワークに頼るしかなかった。
 
-Myspace's music feature revolutionized this situation. The system that allows anyone to upload their own music, publish it on their profile page, and share it with friends and visitors presents a new way of disseminating music that does not require traditional distribution channels. Users can spread music through their "friends" and follow their favorite artists to listen to their latest songs. Furthermore, since the design of the profile page could be freely customized, it became possible to express not only music but also visual expression and individuality.
+Myspaceの音楽機能は、この状況に革命をもたらした。誰でも自分の音楽をアップロードでき、プロフィールページで楽曲を公開し、友達や訪問者と共有できる仕組みは、従来の流通経路を必要としない新しい発信方法を提示した。ユーザーは「友達」を通じて音楽を拡散し、気になるアーティストをフォローして最新の曲を聴くことができる。さらに、プロフィールページのデザインを自由にカスタマイズできたため、音楽だけでなく、視覚的な表現や個性の提示も可能となった。
 
 ---
 
@@ -34,7 +33,7 @@ Myspace's music feature revolutionized this situation. The system that allows an
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -56,11 +55,11 @@ timeline
 
 ---
 
-## Formation and characteristics of Myspace music culture
+## Myspace音楽文化の形成と特徴
 
-> Anyone can post and share music on Myspace, creating a community that transcends regions and genres.
+> Myspaceでは誰もが音楽を投稿・共有でき、地域やジャンルを超えたコミュニティが形成された
 
-Myspace's music culture was not just a place to distribute music, but a platform where artists and listeners could connect directly and form a community. Artists were able to post their songs on their profile pages and deliver them to listeners through the Myspace Player, which allowed previews of each song. Additionally, since the design of the page could be freely customized, it was also possible to express a unique worldview that matched the genre of music and individuality.
+Myspaceの音楽文化は、単なる音楽配信の場ではなく、アーティストとリスナーが直接つながり、コミュニティを形成するプラットフォームだった。アーティストはプロフィールページ上で自分の楽曲を掲載し、曲ごとに試聴可能な「Myspace Player」を通じてリスナーに届けることができた。また、ページのデザインを自由にカスタマイズできるため、音楽のジャンルや個性に合わせた独自の世界観を表現することも可能だった。
 
 One of the features of this platform is "Top Friends". It also functioned as a music recommendation function, allowing you to display your closest friends and favorite artists at the top of the list. Since the song was spread through a network of friends, word-of-mouth promotion was extremely effective. In particular, genres that were popular among young people at the time, such as emo, indie rock, electronica, and hip-hop, rapidly formed communities on Myspace.
 
@@ -68,71 +67,71 @@ The comment section between users was not just a place to exchange impressions, 
 
 ---
 
-## A new way to discover artists
+## アーティスト発掘の新しい方法
 
-> Myspace has become a place where not only scouts and record companies but also general listeners can discover new music.
+> Myspaceはスカウトマンやレコード会社だけでなく、一般リスナーも新しい音楽に出会える場となった
 
-With the advent of Myspace, the traditional framework of the music industry has changed significantly. Previously, record companies and radio stations were the primary means of discovering new artists, but Myspace now allows users to discover new music through their own networks and spread the word. For example, in 2005, British band Arctic Monkeys posted self-produced demos on Myspace, gaining international attention beyond local venues and leading to a deal with a record label. Similarly, artists like Lily Allen and Soulja Boy became widely known through Myspace.
+Myspaceの登場により、従来の音楽業界の枠組みが大きく変化した。以前はレコード会社やラジオ局が新しいアーティストを発掘する主な手段だったが、Myspaceではユーザーが自らのネットワークで新しい音楽を発見し、口コミで広めることが可能になった。例えば、イギリスのArctic Monkeysは2005年、自主制作のデモをMyspaceに投稿したことで、ローカルのライブ会場を超えて国際的な注目を集め、レコード会社との契約に結びついた。同様にLily AllenやSoulja Boyなども、Myspace経由で広く認知されるようになった。
 
 <div class="mermaid">
 flowchart LR
-    A[Artist page creation] --> B[Submit music]
-    B --> C[Diffusion of friends and fans]
+    A[アーティストページ作成] --> B[楽曲投稿]
+    B --> C[友達・ファンの拡散]
     C --> D[Online word of mouth/review]
-    D --> E[Major debut/hit]
+    D --> E[メジャーデビュー / ヒット]
 </div>
 
-The user-generated word-of-mouth and comment culture went beyond simply exchanging impressions, and also functioned as a forum for feedback to improve artists' songs. This system provides live data that cannot be obtained through traditional industry-driven promotions, and allows artists to grow their work together with their fans. In addition, because it was possible to post announcements of live events and sales links for self-produced CDs on the profile page, there were an increasing number of cases where online popularity was directly linked to offline success.
+ユーザー生成の口コミやコメント文化は、単なる感想交換に留まらず、アーティストの楽曲を改良するフィードバックの場としても機能した。この仕組みは、従来の業界主導のプロモーションでは得られなかった生きたデータを提供し、アーティストがファンと共に作品を育てることを可能にした。また、ライブイベントの告知や自主制作CDの販売リンクもプロフィールページに掲載できたため、オンラインでの人気がオフラインでの成功に直結するケースも増えた。
 
 ---
 
-## Expanding community and culture
+## コミュニティとカルチャーの拡張
 
-> Myspace was not only a platform for music, but also a platform that supported users' self-expression and culture formation.
+> Myspaceは音楽だけでなく、ユーザーの自己表現やカルチャー形成を支えるプラットフォームでもあった
 
-Myspace was more than just a place to share music; it also served as a canvas for individuals to express their culture and hobbies. The customizability of profile pages was an important element that reflected users' aesthetic sense and tastes. It was possible to select background images, colors, fonts, and even decorate using HTML and CSS, allowing artists to present a visual worldview along with music.
+Myspaceは単なる音楽共有の場ではなく、個人が自分の文化や趣味を表現するキャンバスとしても機能した。プロフィールページのカスタマイズ性は、ユーザーの美意識や趣向を反映する重要な要素だった。背景画像、色彩、フォントの選択、HTMLやCSSを使った装飾まで可能で、アーティストは音楽とともに視覚的な世界観を提示することができた。
 
-Communities rooted in specific genres and regions have also been actively formed. Users who shared the same hobbies and values, such as emo, punk, indie rock, and hip-hop, connected with each other through friend requests and comments, and an online scene was built. Unlike traditional regional music scenes, this was a global network that transcended geographical constraints. Live events and self-produced CDs were also actively announced, and a culture was formed in which online communities were directly connected to offline activities.
+特定のジャンルや地域に根ざしたコミュニティも活発に形成された。エモ、パンク、インディーロック、ヒップホップなど、同じ趣味や価値観を共有するユーザーが互いに友達申請やコメントを通じて結びつき、オンライン上のシーンが構築されていった。これは従来の地域限定の音楽シーンとは異なり、地理的制約を超えたグローバルなネットワークであった。また、ライブイベントや自主制作CDの告知も盛んに行われ、オンラインコミュニティがオフライン活動に直結する文化も形成された。
 
-The expansion of this community represented the prototype of SNS culture as a place for self-expression centered on music. Rather than just passively consuming music, users were able to interact with artists and become part of the culture themselves. With its interactivity and high degree of freedom of expression, Myspace has built a unique cultural sphere that is different from other SNS.
-
----
-
-## The decline of Myspace and its background
-
-> Myspace gradually lost its position as a central platform due to increased competition among social networks and the emergence of streaming services.
-
-After 2008, Myspace faced a decline in the number of users. A major factor was the rapid rise of Facebook, and the outflow of users to the convenience of being able to centrally manage a network of friends and information. Additionally, the delay in smartphone support was an important factor in the company's failure to capture the mobile generation.
-
-Myspace also faces the rise of competitors when it comes to music features. With the emergence of services specializing in streaming distribution and sales, such as Spotify and Bandcamp, artists are now able to distribute their music more efficiently and widely. Additionally, with the spread of YouTube, there are now more ways to experience visuals and music at the same time through music videos, which has also lowered the relative value of Myspace.
-
-Although Myspace attempted to rebrand itself during this period, it was unable to regain its former position as the dominant platform due to the abandonment of existing users and failure to attract new users. In the early 2010s, the number of users decreased to less than half of its peak, and the company focused more on maintaining general SNS functions than on music distribution.
+こうしたコミュニティの拡張は、音楽を中心とした自己表現の場としてのSNS文化の原型を示していた。ユーザーは単に受け身で音楽を消費するのではなく、アーティストと双方向で交流し、自分自身も文化の一部として参加することが可能だった。Myspaceは、この双方向性と表現の自由度の高さで、他のSNSとは異なる独自の文化圏を築き上げた。
 
 ---
 
-## Re-evaluation of 2000s Myspace music culture
+## Myspaceの衰退とその背景
 
-> Modern indie music and internet culture cannot be considered without the efforts of Myspace, and its significance is being reevaluated.
+> ソーシャルネットワークの競争激化とストリーミングサービスの登場で、Myspaceは徐々に中心的プラットフォームの座を失った
 
-Currently, the Myspace music culture of the 2000s is not just a nostalgic topic, but is being reevaluated in importance as an intersection of Internet culture and music culture. Myspace was a pioneer in DIY culture and personal communication, and created a system for artists to independently spread their music. This model is the prototype for modern music distribution platforms such as SoundCloud, Bandcamp, and even TikTok.
+2008年以降、Myspaceはユーザー数の減少に直面する。大きな要因はFacebookの急速な台頭であり、友達や情報のネットワークを一元管理できる利便性にユーザーが流出したことが挙げられる。さらにスマートフォン対応の遅れも、モバイル世代の取り込みに失敗した重要な要因であった。
+
+音楽機能においても、Myspaceは競合他社の台頭に直面する。SpotifyやBandcampなど、ストリーミング配信や販売に特化したサービスが登場し、アーティストはより効率的かつ広範囲に楽曲を届けられるようになった。また、YouTubeの普及により、音楽動画を通じて視覚と音楽を同時に体験できる手段が増えたことも、Myspaceの相対的価値を下げる結果となった。
+
+この時期、Myspaceは再ブランド化を試みるものの、既存ユーザーの離脱や新規ユーザー獲得の失敗により、かつての中心的なプラットフォームの座は回復できなかった。2010年代初頭にはユーザー数がピーク時の半分以下にまで減少し、音楽配信よりも一般的なSNS機能の維持に注力する形となった。
+
+---
+
+## 2000年代Myspace音楽文化の再評価
+
+> 現代のインディー音楽やネット文化はMyspaceの試みなしには語れず、その意義が再評価されつつある
+
+現在、2000年代のMyspace音楽文化は、単なる懐古的な話題ではなく、インターネット文化と音楽文化の交差点として重要性が再評価されている。Myspaceは、DIY文化や個人発信の先駆けであり、アーティスト自身が主体的に音楽を広める仕組みを生み出した。このモデルは、SoundCloudやBandcamp、さらにTikTokなど現代の音楽拡散プラットフォームの原型となっている。
 
 <div class="mermaid">
 flowchart TB
     A[Myspace] --> B[SoundCloud]
     B --> C[TikTok]
-    C --> D[Contemporary indie/net music]
+    C --> D[現代インディー/ネットミュージック]
 </div>
 
-In particular, the culture of individuals freely expressing themselves online and forming communities has had a major influence on contemporary indie musicians and YouTube artists. Myspace's attempt to demonstrate the power of user-generated content and social media word-of-mouth in a music scene traditionally dominated by record companies was a valuable precedent for platforms to follow.
+特に、個人がネット上で自由に表現し、コミュニティを形成する文化は、現代のインディーミュージシャンやYouTubeアーティストに大きな影響を与えている。従来はレコード会社主導だった音楽シーンに、ユーザー生成コンテンツとSNSの口コミがどれほど力を持つかを示したMyspaceの試みは、後続のプラットフォームにとって貴重な先行例となった。
 
-Myspace's music culture is also connected to contemporary music culture in terms of cross-genre community formation, diversity of self-expression, and the interconnectedness of the internet and the real world. The history of Myspace is extremely important in learning the possibilities of using SNS to disseminate music based on past successes and failures.
+また、Myspaceの音楽文化は、ジャンル横断的なコミュニティ形成や自己表現の多様性、ネットとリアルの連動性という側面でも現代音楽文化に繋がっている。過去の成功例や失敗例を踏まえ、SNSを用いた音楽発信の可能性を学ぶ上で、Myspaceの歴史は非常に重要である。
 
 ---
 
-## Conclusion
+## おわりに
 
-> The history of Myspace music culture is important evidence of the potential for connections between the Internet and music, and provides an essential perspective for understanding the contemporary music scene.
+> Myspace音楽文化の歴史は、インターネットと音楽が結びつく可能性を示す重要な証左であり、現代音楽シーンを理解する上で欠かせない視点を提供する
 
-Myspace in the 2000s was more than just a social media platform; it was an innovative platform that connected music and culture. The experience of individuals expressing themselves, forming communities, and directly connecting artists and listeners has laid the foundation for music dissemination in the modern SNS era. Myspace's efforts are essential to understanding current internet music culture, and their significance remains.
+2000年代のMyspaceは、単なるSNSとしてではなく、音楽と文化を結びつける革新的なプラットフォームであった。個人が自己表現し、コミュニティを形成し、アーティストとリスナーが直接結びつく経験は、現代SNS時代の音楽発信の基礎を築いた。Myspaceの試みは、現在のネットミュージック文化を理解する上で不可欠であり、その意義は今も色あせていない。
 
 ---

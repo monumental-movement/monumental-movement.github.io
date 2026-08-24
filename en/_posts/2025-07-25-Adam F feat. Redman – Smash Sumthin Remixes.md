@@ -12,11 +12,11 @@ title: Adam F feat. Redman – Smash Sumthin (Remixes)
 ---
 
 
-A remix of drum"n"bass/hip-hop producer Adam F's single "Smash Sumthin" (2001), released in 2002 on the label Kaos Recordings.
+2002年にレーベルKaos Recordings からリリースされたドラムンベース／ヒップホップのプロデューサー Adam F のシングル「Smash Sumthin」(2001年)のリミックス盤。
 
-A is a remix by UK DJ and producer Roni Size, who became famous as the founder and frontman of the drum and bass group Roni Size & Reprazent in 1997.
+Aは、1997年にドラムンベースグループRoni Size & Reprazentの創設者&フロントマンとして有名になった、UKのDJ＆プロデューサーRoni Size によりremix。
 
-B is a remix by Bad Company (Bad Company UK / BC), a UK drum and bass group that has been active since 1998.
+Bは、1998年から活動するUKのドラムンベースグループBad Company(Bad Company UK  / BC)によるremix。
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ A. Smash Sumthin (Roni Size Remix)
 AA. Smash Sumthin (Bad Company Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m15980508638?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15980508638?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ffeRaK6WA4s?si=T92JqwE6a6Zf7crJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,11 +12,11 @@ title: Trax-X – Phunky
 ---
 
 
-Danny Casseau, also known as Trax-X, is a Belgian techno/acid producer/DJ. He has released many works representative of the Belgian techno/acid scene of the 1990s and early 2000s. Danny Casseau not only goes by the name Trax-X, but also goes by various other names, including Atom-X, Molecule 66, and DJ Argonic.
+Trax-X ことDanny Casseauは、ベルギー出身のテクノ／アシッド・プロデューサー／DJ。1990年代〜2000年代初期のベルギー・テクノ／アシッドシーンを代表する作品を多数リリースしている。Danny CasseauはTrax-X名義だけでなく、Atom-X、Molecule 66、DJ Argonic など様々な名義を使用している。
 
-"Phunky", released by Reload Records in 1998, was an Acid Techno hit in the Belgian club scene at the time. It is known as Trax-X's masterpiece.
+1998年にReload Records からリリースされた「Phunky」は、当時のベルギークラブシーンで大ヒットしたAcid Techno。Trax-Xの代表作として知られている。
 
-A is a remix by Detroit techno DJ/producer Claude Young from Detroit.
+Aは、デトロイト出身のデトロイトテクノDJ／プロデューサー Claude Youngによるremix。
 
 
 #### Tracklist
@@ -27,7 +27,7 @@ B1. Phunky (Zzino vs. Accelerator Remix)
 B2. Phunky (Original Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m50052291128?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50052291128?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eomm3M0HKGU?si=qMMS489kjhRpHYpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

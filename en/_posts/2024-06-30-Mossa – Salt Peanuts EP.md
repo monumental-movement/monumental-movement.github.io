@@ -13,7 +13,7 @@ title: Mossa – Salt Peanuts EP
 ---
 
 
-Jeremy Petrus, also known as Mossa, is a musician, DJ, and electronic music producer based in Montreal, Canada. He runs the label Complot Records, which releases music in a wide range of styles from techno to chill-out.
+MossaことJeremy Petrusは、カナダのモントリオールを拠点とするミュージシャン・DJ・エレクトロニックミュージックプロデューサー。テクノからチルアウトまで幅広いスタイルの音楽をリリースするレーベルComplot Recordsを運営している。
 
 "Salt Peanuts EP" is a tech house minimal track released on French label Frankie Rec in 2007.
 
@@ -28,4 +28,4 @@ B1. Colorado Bitch
 B2. Colorado Bitch (Pheek Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m82142847858?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82142847858?afid=6142608987){: .button1}

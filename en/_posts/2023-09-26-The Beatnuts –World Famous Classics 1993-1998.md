@@ -12,11 +12,11 @@ title: The Beatnuts –World Famous Classics 1993-1998
 ---
 
 
-"The Beatnuts – World Famous Classics 1993-1998" (World Famous Classics 1993-1998){: .button1} is a compilation album and best-of album by the hip-hop group Beatnuts.
+「The Beatnuts – World Famous Classics 1993-1998」(ワールド・フェイマス・クラシックス1993-1998){: .button1}は、ヒップホップグループであるビートナッツのコンピレーションアルバム＆ベスト盤です。
 
-The Beatnuts, made up of producer and rappers Psycho Les and JuJu, gained attention in the 1990s with their unique production style and witty lyrics.
+The Beatnutsは、プロデューサー兼ラッパーのPsycho LesとJuJuで構成され、その独特なプロダクションスタイルとウィットに富んだ歌詞で1990年代に注目を集めました。
 
-This album features popular songs and influential tracks from The Beatnuts' early years.
+このアルバムには、The Beatnutsの初期の年にリリースされた人気曲や影響力のあるトラックが収録されています。
 
 
 #### Tracklist
@@ -50,7 +50,7 @@ This album features popular songs and influential tracks from The Beatnuts' earl
 14.Give Me Tha Ass
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CD-aPRFuHZQ?si=vpVqZ9N_nT3EQjP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

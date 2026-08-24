@@ -7,20 +7,20 @@ lang: en
 layout: post
 tags:
 - Soundtrack
-title: Pick up soundtrack works
+title: サウンドトラック作品をピックアップ
 ---
 
 
-""A remarkable group of soundtrack works that weave the emotion of the story through sound and elevate the visual experience to a new dimension.''
+「物語の情感を音で紡ぎ、映像体験を新たな次元へと引き上げる注目すべきサウンドトラック作品群」
 
 <hr>
 
-### Jerry Goldsmith – A Patch Of Blue
+### Jerry　Goldsmith – A　Patch　Of　Blue
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
-Format: vinyl
+形式：vinyl
 
-Work: Soundtrack of the 1965 film ""A Patch of Blue.'' 1978 reissue.
+作品：1965年公開映画『いつか見た青い空』（A Patch of Blue）のサウンドトラック。1978年再発盤。
 
 #### Tracklist
 ```md
@@ -47,7 +47,7 @@ B9. Goodbye Selina
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -59,9 +59,9 @@ B9. Goodbye Selina
 ### VA – Tank　Girl
 <a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
-Format: CD
+形式：CD
 
-Work: Soundtrack of the 1995 science fiction film ""Tank Girl.'' Compiled by Courtney Love, original music by Graeme Revell of SPK.
+作品：1995年公開のSF映画『Tank Girl』のサウンドトラック。Courtney Love 編纂、オリジナル音楽は SPK の Graeme Revell。
 
 #### Tracklist
 ```md
@@ -80,7 +80,7 @@ Work: Soundtrack of the 1995 science fiction film ""Tank Girl.'' Compiled by Cou
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -90,9 +90,9 @@ Work: Soundtrack of the 1995 science fiction film ""Tank Girl.'' Compiled by Cou
 ### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-Format: Cassette
+形式：Cassette
 
-Product: Released in 1996, a cassette containing the theme song of the movie "Mission: Impossible".
+作品：1996年リリース、映画『ミッション：インポッシブル』のテーマ曲を収録したカセット。
 
 #### Tracklist
 ```md
@@ -103,7 +103,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -113,9 +113,9 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ### Ennio Morricone – Nuovo Cinema Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
-Format: CD
+形式：CD
 
-Work: Soundtrack of the 1989 classic film ""New Cinema Paradise.''
+作品：1989年の名作映画『ニュー・シネマ・パラダイス』のサウンドトラック。
 
 #### Tracklist
 ```md
@@ -138,7 +138,7 @@ Work: Soundtrack of the 1989 classic film ""New Cinema Paradise.''
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -149,39 +149,39 @@ Work: Soundtrack of the 1989 classic film ""New Cinema Paradise.''
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Artist/Arranger</th>
-<th>Title</th>
-<th>Age/Works</th>
-<th>Format</th>
+  <thead>
+    <tr>
+      <th>アーティスト / 編曲者</th>
+      <th>タイトル</th>
+      <th>年代／作品</th>
+      <th>フォーマット</th>
 </tr>
-</thead>
-<tbody>
-<tr>
+  </thead>
+  <tbody>
+    <tr>
 <td>Jerry Goldsmith</td>
-<td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">A Patch Of Blue</a></td>
-<td>1965 movie score (reissued in 1978)</td>
-<td>Cassette</td>
+      <td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">A Patch Of Blue</a></td>
+      <td>1965年 映画スコア（78年再発）</td>
+      <td>Cassette</td>
 </tr>
 <tr>
-<td>VA</td>
-<td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Tank Girl</a></td>
-<td>1995 movie soundtrack</td>
-<td>CD</td>
+      <td>VA</td>
+      <td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Tank Girl</a></td>
+      <td>1995年 映画サントラ</td>
+      <td>CD</td>
 </tr>
-<tr>
+    <tr>
 <td>Adam Clayton & Larry Mullen</td>
-<td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
+      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
 <td>1996 movie theme</td>
-<td>Cassette</td>
+      <td>Cassette</td>
 </tr>
-<tr>
-<td>Ennio Morricone</td>
-<td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
-<td>1989 movie soundtrack</td>
-<td>CD</td>
-</tr>
-</tbody>
+    <tr>
+      <td>Ennio Morricone</td>
+      <td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
+      <td>1989年 映画サウンドトラック</td>
+      <td>CD</td>
+    </tr>
+  </tbody>
 </table>
 </div>

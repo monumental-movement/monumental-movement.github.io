@@ -12,9 +12,9 @@ title: Mijk Van Dijk – Glow
 ---
 
 
-Mijk Van Dijk is a German techno producer and DJ who has been active since the 1990s.
+Mijk Van Dijk(マイク・ヴァン・ダイク)は1990年代から活躍するドイツ出身テクノ プロデューサー・DJ。
 
-Released in 1997 by the German label Superstition, ""Glow" contains songs inspired by Masamune Shirow's characters from ""Ghost in the Shell."
+1997年にドイツのレーベルSuperstition(スーパースティション)からリリースされた「Glow」は士郎正宗の『攻殻機動隊』の登場人物からインスピレーションを受けて制作した曲が収録されている。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ Released in 1997 by the German label Superstition, ""Glow" contains songs inspir
 12. Shelter
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m32091016905?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32091016905?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8qbIM37r938?si=D0GX3ZPSVvW5Sp7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

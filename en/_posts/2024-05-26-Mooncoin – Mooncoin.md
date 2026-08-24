@@ -15,9 +15,9 @@ title: Mooncoin – Mooncoin
 ---
 
 
-Mooncoin is a duo formed by Mickie Zekley and Michael Hubbert, whose style is a combination of Irish, Celtic, and British music.
+Mooncoinは、Mickie Zekley（ミッキー・ゼクリー）とMichael Hubbert（マイケル・ハバート）によるデュオで、アイルランド音楽、ケルト音楽＆イギリス音楽を組み合わせたスタイルが特徴。
 
-"Mooncoin" is a rare sound source released in 1982 by the US label Kicking Mule Records.
+「Mooncoin」は、USのレーベルKicking Mule Recordsから1982年にリリースされたレア音源。
 
 
 #### Tracklist
@@ -35,4 +35,4 @@ B4. The Claudy Banks And Eleanor Plunkett
 B5. Breton Tune And La Mair E La Hilha
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m23254495215?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23254495215?afid=6142608987){: .button1}

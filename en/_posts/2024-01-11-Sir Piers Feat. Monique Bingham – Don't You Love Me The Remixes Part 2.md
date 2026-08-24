@@ -14,11 +14,11 @@ title: Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2
 ---
 
 
-A house/garage house remix of Monique Bingham"s "Don"t You Love Me" released by Sir Piers (Piers Penfold) on his own label Curious in 2003.
+Sir Piers（Piers Penfold）が自身が運営するレーベルCuriousから2003年にリリースしたMonique Binghamの「Don't You Love Me」ハウス・ガレージハウスリミックス。
 
-The A-side is a remix by Louis Benedetti, who runs SoulShine Recordings and Thompson Studios.
+A面は、 SoulShine Recordingsや Thompson Studiosを運営するLouis Benedettiによるremix。
 
-The B-side is a remix by DJ Jorj (Jorj Patsalides), a DJ/producer based in Melbourne, Australia.
+B面は、オーストラリアのメルボルンを拠点に活動するDJ / プロデューサーDJ Jorj（Jorj Patsalides）によるremix。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Don't You Love Me (DJ Jorj Samba Dub)
 B2. Don't You Love Me (DJ Jorj Raw Samba Dub)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m56984083624?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56984083624?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N801xpEjcVs?si=DMlmd2ZhAYem0JAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

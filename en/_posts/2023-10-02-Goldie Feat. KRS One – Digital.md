@@ -14,7 +14,7 @@ title: Goldie Feat. KRS One – Digital
 
 "Digital" is a song by British musician Goldie featuring American rapper KRS-One and was released as the first single from Goldie's 1998 album Saturnz Return.
 
-The song reached number 13 on the UK Singles Chart on November 1, 1997, making it his highest charting record, along with Goldie's "Temper Temper" (along with a song featuring Noel Gallagher). The single was influenced by the then-emerging speed garage and was one of the first attempts to fuse drum and bass and rap.
+この曲は、1997年11月1日にイギリスのシングルチャートで13位に達し、ゴールディの「Temper Temper」（Noel Gallagherをフィーチャーした楽曲と並ぶ）とともに、彼の最高のチャート記録となりました。このシングルは、当時新たに現れつつあったスピードガラージの影響を受けており、ドラムンベースとラップを融合させようとする最初の試みの1つでした。
 
 
 #### Tracklist

@@ -13,7 +13,7 @@ title: '[Column] Hyperpop / Digicore'
 
 
 
-## Hyperpop/Digicore: The complete picture of the next generation of Internet music
+## Hyperpop/Digicore: The complete picture of the next generation of internet music
 
 Text: mmr｜Theme: Comprehensive analysis of sound, production, and culture originating from the next generation of the Internet
 
@@ -163,7 +163,7 @@ flowchart LR
 
 ---
 
-## 5-3. Minimal Trap / DnB impact
+## 5-3. Minimal Trap / DnB Impact
 
 * 808 base is modest
 * Kick is short
@@ -233,7 +233,7 @@ flowchart LR
 
 ---
 
-# 9. Visual and cultural characteristics
+# 9. 視覚・文化的特徴
 
 * Collaborative culture based on Discord servers
 * Viral structure originating from TikTok

@@ -13,13 +13,13 @@ title: Sterac Electronics – Keep On Running
 ---
 
 
-Steve Rachmad, also known as Sterac Electronics, is an internationally active techno producer/DJ from Amsterdam. He is widely credited with popularizing Detroit techno in the Netherlands.
+Sterac Electronics こと Steve Rachmad は世界的に活躍するアムステルダム出身のテクノプロデューサー／DJ。オランダにデトロイトテクノを広めた存在として広く称されている。
 
-He uses various names depending on his musical style, including Sterac, Parallel 9, Ignacio, Scorp, Black Scorpion, Tons of Tones, Dreg, and Adverse Match.
+Sterac、Parallel 9、Ignacio、Scorp、Black Scorpion、Tons of Tones、Dreg、Adverse Matchなど様々な名義を音楽スタイルに合わせて使い分けている。
 
-Sterac Electronics releases styles focused on electro, funk, and 80s disco, all of which are highly acclaimed.
+Sterac Electronics は、エレクトロ、ファンク、80sディスコにフォーカスしたスタイルをリリースする際に使用しており、どの音源も高く評価されている。
 
-"Keep On Running" is a Techno/Electro/Indie Dance song released by Belgian label Music Man Records in 2003.
+「Keep On Running」は、2003年にベルギーのレーベルMusic Man RecordsからリリースされたTechno／Electro／Indie Dance。
 
 
 #### Tracklist
@@ -30,7 +30,7 @@ B1. Destination Reached
 B2. Next Destination (Dub)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m61999603312?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61999603312?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7RHqlCwz2jU?si=ZoK0KYr7wdQ5Dq_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,18 +10,18 @@ tags:
 - Progressive House
 - House
 - 00s
-title: Futureshock – Pride"s Paranoia
+title: Futureshock – Pride's Paranoia
 ---
 
 
-Futureshock are UK DJ/producers Alex Tepper and Phil Dockerty.
-electronic duo by. Mainly active from 1998 to 2003.
+Futureshock(フューチャーショック)は、UKのDJ・プロデューサーAlex TepperとPhil Dockerty
+によるエレクトロニックデュオ。主に1998年〜2003年まで活動した。
 
-"Pride's Paranoia" is a progressive house track released by the label Parlophone in 2003.
+「Pride's Paranoia」は、2003年にレーベルParlophoneからリリースされたプログレッシブハウストラック。
 
-The second track on side A is a remix by Ewan Pearson, who has remixed various artists such as Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp, and The Chemical Brothers.
+A面2曲目は、Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp, The Chemical Brothers等さまざまなアーティストのリミックスを手がけるEwan Pearsonによるremix。
 
-The B-side is a remix by Eric Prydz, a DJ and producer from Stockholm who also works as Cirez D and Pryda.
+B面は、Cirez D、Pryda名義でも活動するストックホルム出身のDJ・プロデューサーEric Prydz(エリック・プライズ)によるremix。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ A2. Pride's Paranoia (Ewan's Sticking Plaster Mix)
 B. Pride's Paranoia (Eric Prydz Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m20677280102?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20677280102?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Jq8AvFnL4g?si=L28NA8Ik2M2kFkEh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

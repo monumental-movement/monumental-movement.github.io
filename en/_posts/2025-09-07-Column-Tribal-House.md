@@ -8,7 +8,7 @@ layout: post
 tags:
 - Tribal House
 - 90s
-title: '[Column] Tribal House — From the "primitive" beat to modern fusion'
+title: 【コラム】 Tribal House — ビートの“原始”から現代の融合まで
 ---
 
 
@@ -27,13 +27,13 @@ Tribal House is a subgenre that combines the four-on-the-floor of house with mul
 ## Origin (1988-1994)
 
 **Background of the times**
-In the late 1980s and early 1990s, Chicago/New York club culture began to diverge and diversify from its disco-based house roots. One of its origins was when DJs dug up ethnic and Latin records from around the world and layered a "live percussion feel" on house music through record editing and sampling (this was the era when the long mix culture of clubs grew).
+1980年代後半から90年代初頭、シカゴ／ニューヨークのクラブ文化はディスコ土着のハウスから分岐し、多様化を始めました。DJたちが世界各地の民族音源やラテン系のレコードを掘り、レコード編集やサンプリングで“生の打楽器感”をハウスに重ねたことが起点のひとつです（クラブ現場のロングミックス文化が育った時代）。
 
-**Points of interest/site**
-- In clubs in New York and Chicago in the early 1990s, DJ sets themselves were central to genre expression.
+**注目点／現場**
+- 1990年代初頭のニューヨークやシカゴのクラブで、DJセット自体がジャンル表現の中心でした。
 - In the early days, live editing using records and turntables was the mainstream.
 
-**Representative tools (at the time)**
+**代表的ツール（当時）**
 - Turntable: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a> series (standard in the field).
 - Drum machines/samplers: Early samplers such as Roland's TR series (TR-909/TR-808, etc.) and Akai became the source of material for kicks and percussion (the history of the TR-909 can be found here <a href="https://en.wikipedia.org/wiki/Roland_TR-909">here</a>).
 
@@ -41,15 +41,15 @@ In the late 1980s and early 1990s, Chicago/New York club culture began to diverg
 
 ## Maturity and boom (1994-2000)
 
-**Background of the times**
-In the mid-90s, labels and compilations that pushed the boundaries of the genre appeared. In particular, <strong>TRIBAL America</strong> from the United States greatly contributed to the formation of the scene (Label information: <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>).
+**時代背景**
+90年代半ばにはジャンルの輪郭を押し出すレーベルやコンピが登場します。特に米国発の<strong>TRIBAL America</strong>などがシーン形成に大きく寄与しました（レーベル情報：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>）。
 
 **Representative works/people**
 - Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>: An important album of club-oriented tribal expression.
-- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>: Although it leans towards prog rock, it is referred to as a work connected to the club feeling of the 90s.
+- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>：プログレ寄りだが90年代のクラブ感と接続する作品として参照される。
 
 **Musical features**
-- Enhance the floor experience with layered congas and percussion, combinations of sub-bass and powerful kicks, and long repeating compositions.
+- コンガやパーカッションの重ね、サブベースと強力なキックの組合せ、長尺の反復構成によるフロア体験の強化。
 
 **Equipment/Production**
 - The focus was on sampling with hardware (such as the Akai MPC) and layering of analog/digital drum machines (see <a href="https://en.wikipedia.org/wiki/Akai_MPC">Akai MPC — Wikipedia</a> for the history of the Akai MPC family).
@@ -58,12 +58,12 @@ In the mid-90s, labels and compilations that pushed the boundaries of the genre 
 
 ## Transformation and commercialization (2000s)
 
-**Background of the times**
-In the 2000s, tribal elements were fused with progressive/electro, etc., and the number of derivative genres increased. The production environment has shifted from being primarily based on hardware to being based on a DAW, making it possible to create more sophisticated sound designs.
+**時代背景**
+2000年代にはトライバル要素がプログレッシブ／エレクトロ等と融合し、派生ジャンルが増加。制作環境はハード主体からDAW中心へとシフトし、より洗練されたサウンドデザインが可能になりました。
 
 **Change in production method**
-- Processing of percussion instruments with extensive use of effect processing (filter/reverb/delay).
-- Popularization of "tribal feel that can be easily reproduced" using soft sample packs and plug-ins.
+- エフェクト処理（フィルター／リバーブ／ディレイ）を多用した打楽器の加工。
+- ソフトサンプルパックやプラグインを使った“手軽に再現できるトライバル感”の普及。
 
 ---
 
@@ -73,13 +73,13 @@ In the 2000s, tribal elements were fused with progressive/electro, etc., and the
 Globalization and the rise of streaming have accelerated the fusion with Afro house and Latin rhythms. "Hybrid" production, which captures live percussion instruments in high resolution and processes them electronically, has become mainstream.
 
 **Standard equipment on site (currently)**
-- Software: Ableton Live, Logic Pro, Native Instruments (Maschine/Kontakt), etc.
-- Hardware: MPC series, Elektron equipment, Pioneer CDJ + DVS environment.
+- ソフトウェア：Ableton Live、Logic Pro、Native Instruments（Maschine／Kontakt）等。
+- ハードウェア：MPCシリーズやElektron機器、PioneerのCDJ＋DVS環境。
 - Sample: Utilize a library of high-quality ethnic percussion instruments.
 
 ---
 
-## Masterpiece pick
+## 名盤ピック
 - Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>
 - Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>
 - TRIBAL America related compilations/releases (one example): <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
@@ -88,13 +88,13 @@ Globalization and the rise of streaming have accelerated the fusion with Afro ho
 
 ## Equipment chronology (simplified)
 - **1980s~early 90s**: Technics SL-1200 (turntable), Roland TR-909/TR-808 (drum machine), early Akai/E-mu samplers. References: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
-- **mid 90s-2000s**: Heavy use of Akai MPC series and hardware samplers (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>).
+- **mid 90s〜2000s**：Akai MPC シリーズやハードウェア・サンプラーの多用（<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>）。
 - **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), soft samples such as Kontakt and Maschine, and MPC.
 
 ---
 
 ## Ethical considerations
-Tribal elements may intersect with discussions of cultural appropriation. When creating/playing, we encourage you to clearly state your origins and show respect for your roots.
+トライバル要素は民族音楽の借用（cultural appropriation）に関わる議論と接することがあります。制作／プレイ時には出自の明示やルーツへの敬意を示すことが推奨されます。
 
 ---
 
@@ -105,7 +105,7 @@ Tribal elements may intersect with discussions of cultural appropriation. When c
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -115,22 +115,22 @@ color: #fff;
 
 
 
-| Year | Artist | Track name | Features |
+| 年代 | アーティスト | トラック名 | 特徴 |
 |------|--------------|-------------|------|
 | 1997 | Junior Vasquez | If Madonna Calls | Bold samples that symbolize the gay club scene |
-| 1998 | Danny Tenaglia | Elements | Tribal percussion and minimal development |
+| 1998 | Danny Tenaglia | Elements | 部族的なパーカッションとミニマルな展開 |
 | 1998 | Deep Dish | Stranded | Melodious and deep sound |
 | 2001 | Peter Rauhofer | I Got the Music | A floor track with vocals at the forefront |
-| 2002 | Chus & Ceballos | Baila | A masterpiece with impressive Spanish percussion |
-| 2002 | Steve Lawler | Rise In | Features a dark and heavy groove |
-| 2010 | Kollektiv Turmstrasse | Last Day | A production that shines with delicate and lyrical development |
-| 2014 | Ten Walls | Walking with Elephants | A big hit with memorable brass riffs |
+| 2002 | Chus & Ceballos | Baila | スパニッシュパーカッションが印象的な名曲 |
+| 2002 | Steve Lawler | Rise In | ダークで重厚なグルーヴが特徴 |
+| 2010 | Kollektiv Turmstrasse | Last Day | 繊細で叙情的な展開が光るプロダクション |
+| 2014 | Ten Walls | Walking with Elephants | ブラス系リフが耳に残るビッグヒット |
 | 2020 | Pablo Fierro | Yababa | Fusion of Afro rhythm and modern house |
-| 2021 | Black Coffee | You Need Me | Deep and soulful texture |
+| 2021 | Black Coffee | You Need Me | ディープでソウルフルな質感 |
 
 ---
 
-## Journey of Rhythm
+## リズムの旅
 Tribal House is not just club music, but a ""rhythmic journey'' that has spread globally, changing with each era. It will continue to attract attention as a genre that continues to evolve through the fusion of technology while inheriting its African roots.
 
 ---
@@ -138,7 +138,7 @@ Tribal House is not just club music, but a ""rhythmic journey'' that has spread 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d4rG0TcH6BQ?si=8dzssjr8TelfWf8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

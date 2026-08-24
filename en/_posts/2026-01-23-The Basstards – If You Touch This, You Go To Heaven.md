@@ -10,13 +10,13 @@ tags:
 - Minimal
 - Acid
 - 00s
-title: The Bastards – If You Touch This, You Go To Heaven
+title: The Basstards – If You Touch This, You Go To Heaven
 ---
 
 
-The Basstards is a project by DJ Argenis Brito, also a member of Señor Coconut And His Orchestra, Cem Oral aka Jammin' Unit, and Jay Haze, head of the label Tuning Spork Records.
+The Basstardsは、Señor Coconut And His Orchestra のメンバーとしても活動するDJ Argenis Brito, Cem OralことJammin' Unit, レーベルTuning Spork Records の主宰Jay Hazeによるプロジェクト。
 
-"If You Touch This, You Go To Heaven" is a Techno/Minimal/Acid track released in 2005 on Tuning Spork Records' sublabel Tuning Spork Family Affair.
+「If You Touch This, You Go To Heaven」は、Tuning Spork Records のサブレーベルTuning Spork Family Affairから2005年にリリースされたTechno／Minimal／Acid トラック。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. Dark Acid Trip
 B2. The Juice In My Head
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m66704176322?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66704176322?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGa1UQaozzI?si=2Mty4iYAjawJS0DY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

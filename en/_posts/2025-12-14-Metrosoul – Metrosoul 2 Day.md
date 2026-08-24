@@ -15,7 +15,7 @@ title: Metrosoul – Metrosoul 2 Day
 
 Metrosoul is a project by German DJ/producers Carsten Sasiak, Daniel Kasprowicz, Frank Herbrechter (Herb LF), Matthias Kunert (Matthew Boone), Meikel Klein, and Tim Bernhardt. Carsten Sasiak & Meikel Klein (M. Petit & Cassique) are also active as Natural Funk.
 
-"Metrosoul 2 Day" is a Deep House track released on the label Metromusic in 2004.
+「Metrosoul 2 Day」は、2004年にレーベルMetromusicからリリースされたDeep Houseトラック。
 
 #### Tracklist
 ```md

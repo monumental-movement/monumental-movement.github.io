@@ -18,7 +18,7 @@ Ancient Future is a world fusion music group formed in 1978 by Matthew Montfort,
 
 A global multinational music ensemble that is characterized by a fusion style that combines traditional music such as rhythms from India, Africa, Bali, the Middle East, and South America, harmonies from Europe, and melodies from Asia with contemporary music such as jazz, rock, reggae, and ambient, and collaborates with musicians from various countries.
 
-*) All compositions except A3,5&B5 are by Matthew Montfort
+※）A3,5&B5以外は全てMatthew Montfortによる作曲
 
 #### Tracklist
 ```md

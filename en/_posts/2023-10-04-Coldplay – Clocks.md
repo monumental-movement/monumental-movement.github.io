@@ -12,14 +12,14 @@ title: Coldplay – Clocks
 ---
 
 
-This track originally appeared on the album A Rush of Blood to the Head, released in 2002. "Clocks" was also released as the lead single from the album and was a worldwide success.
+このトラックの原曲は、2002年にリリースされたアルバム『A Rush of Blood to the Head』に収録されています。"Clocks"は、アルバムからのリードシングルとしてもリリースされ、世界的な成功を収めました。
 
-"Clocks" is a song characterized by a piano riff and unique rhythm, with a meditative atmosphere and magnificent sound.
+"Clocks"は、ピアノのリフと独特なリズムが特徴的な曲であり、瞑想的な雰囲気や壮大なサウンドが魅力です。
 
 #### Tracklist
 ```md
 A. Clocks (Jakob Carrison Electro Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m45212537179?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45212537179?afid=6142608987){: .button1}
 

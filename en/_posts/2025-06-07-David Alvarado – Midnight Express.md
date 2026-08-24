@@ -13,7 +13,7 @@ title: David Alvarado – Midnight Express
 ---
 
 
-A house/deep house compilation mix CD selected by US DJ/producer David Alvarado, who has produced works for labels such as Ovum, Peacefrog, NRK, Plastic City, and Ultra.
+Ovum、Peacefrog、NRK、Plastic City、Ultraなどのレーベルで作品を制作しているUSのDJ・プロデューサーDavid Alvaradoがセレクトしたハウス・ディープハウスコンピレーションミックスCD。
 
 
 #### Tracklist
@@ -33,7 +33,7 @@ A house/deep house compilation mix CD selected by US DJ/producer David Alvarado,
 13. Dubtribe Sound System – What You Feel In Your Heart
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eZv34AvPQXw?si=-GPQekG00ToJgt96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

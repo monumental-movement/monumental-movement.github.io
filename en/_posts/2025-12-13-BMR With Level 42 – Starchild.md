@@ -13,11 +13,11 @@ title: BMR With Level 42 – Starchild
 ---
 
 
-BMR is a project by Michi Lange and DJ and producer Boris Dlugosch, who is also known as a pioneer of German house.
+BMRは、ジャーマンハウスのパイオニアとしても知られるDJ&プロデューサー Boris DlugoschとMichi Langeによるプロジェクト。
 
-Level 42 is a British fusion pop band known for their songs ""Something about you" and ""Lessons in love."
+Level 42(レベル42)は、『Something about you』『Lessons in love』で知られるイギリスのフュージョン・ポップ・バンド。
 
-"Starchild" is a House/Disco track released in 2001 on Peppermint Jam, a label founded by German DJ and producer Mousse T.
+「Starchild」は、ドイツのDJ・プロデューサーMousse Tが設立したレーベルPeppermint Jamから2001年にリリースされたHouse／Discoトラック。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. Starchild (Dub Mix)
 B2. Starchild (Ping A Pella)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m19143445358?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19143445358?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52DLZAmJIt8?si=9QMrHpyC_mz-Wc7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ title: Track Star -Sometimes, What's The Difference
 ---
 
 
-This is a 10-inch record by the band ""Track Star"' by Brian Girgus, Matthew Troy and Wyatt Cusick, released in 1995 by San Diego"s Silver Girl Records.
+1995年にサンディエゴのSilver Girl RecordsからリリースされたBrian Girgus、Matthew TroyとWyatt Cusickによるバンド「Track Star」による10インチレコードです。
 
 #### Tracklist
 ```md
@@ -36,7 +36,7 @@ B4  True Crime
 B5  Sucked Down
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

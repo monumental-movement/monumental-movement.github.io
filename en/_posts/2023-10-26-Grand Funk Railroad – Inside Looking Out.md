@@ -13,9 +13,9 @@ title: Grand Funk Railroad – Inside Looking Out
 ---
 
 
-Grand Funk Railroad (Grand Funk Railroad/Grand Funk/GFR) is an American hard rock band active in the 1970s.
+Grand Funk Railroad（グランド ファンク レイルロード/グランドファンク/GFR) は、1970 年代に活躍したアメリカのハードロックバンドです。
 
-"Inside Looking Out" is a 7-inch released by them.
+「Inside Looking Out（孤独の叫び）」は、は彼らからリリースされた7インチです。
 
 #### Tracklist
 ```md
@@ -24,7 +24,7 @@ A. Inside Looking Out = 孤独の叫び
 B. Paranoid = パラノイド
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m85674055607?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85674055607?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lk4H8kdmirc?si=ql7PSjFjxSCYCP7j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

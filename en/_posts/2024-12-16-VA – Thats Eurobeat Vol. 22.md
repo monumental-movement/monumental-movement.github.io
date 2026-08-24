@@ -13,7 +13,7 @@ title: VA – That's Eurobeat Vol. 22
 ---
 
 
-The 22nd installment of the Italo-Disco/Hi-NRG/Eurobeat compilation series, released in 1990 on the Alfa label. Illustration by Shigenari Onishi.
+1990年にレーベルAlfaリリースされた、Italo-Disco/Hi-NRG/Eurobeatコンピレーションシリーズ第22弾。イラストは大西重成。
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ The 22nd installment of the Italo-Disco/Hi-NRG/Eurobeat compilation series, rele
 9.6.. F.C.F. –Black Mother
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ee7ZqR6cFU4?si=Rd0FX1Mkb2l1fLcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,9 +14,9 @@ title: Mr Monday – Future
 ---
 
 
-""Future"' was released in 1990 on Judge Jules and Roy The Roache"s fledgling label Elevation Inc Recordings.
+「Future」 は、1990年にJudge JulesとRoy The Roacheが立ち上げたばかりのレーベル、Elevation Inc Recordings からリリースされた。
 
-Although this song attracted attention as a mega-rave anthem, only a small number of copies were sold in stores due to troubles associated with starting the label and the bankruptcy of the distribution company. As a result, it became a rare record among DJs, and DJs like Tony Humphries continued to play it at the end of their sets for many years, cementing its status as a classic.
+この曲は メガ・レイヴ・アンセムとして注目されたものの、レーベルの立ち上げに伴うトラブルや流通会社の倒産が重なり、店頭に並んだ枚数はごくわずか。そのためDJの間で入手困難なレア盤となり、Tony Humphries(トニー・ハンフリーズ)のようなDJが長年にわたってセットの最後にかけ続けたことで、クラシックとして不動の地位を築くことになった。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A2. Pushing (Edit)
 B. Future
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m81034490261?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81034490261?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Dg-5iNqqSQ?si=BC06mbGi0kjW0GN-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

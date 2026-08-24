@@ -10,29 +10,28 @@ tags:
 - Techno
 - House
 - Berlin
-title: '[Column] Nick Höppner: Acoustic thought across Berlin institutional history
-  and floor practice'
+title: 【コラム】 Nick Höppner：ベルリン制度史とフロア実践を横断した音響思想
 ---
 
 
 
-## Introduction: DJ who connects the system and the field
+## 序論：制度と現場を接続するDJ
 
-Text: mmr｜Theme: Tracing the history of the Berlin House centering on Nick Höppner
+文：mmr｜テーマ：Nick Höppnerを軸に、ベルリン・ハウスの現場史を辿る
 
-Berlin's club culture is often mythologized. However, in reality, it has come about through a close intertwining of multiple layers, including systems, management, labels, sound design, and international distribution. One of the people who continued to stand at the crossroads was **Nick Höppner**.
+ベルリンのクラブ文化はしばしば神話化される。しかし実際には、制度、運営、レーベル、音響設計、国際流通といった複数の層が緻密に絡み合って成り立ってきた。その結節点に立ち続けた人物の一人が **Nick Höppner** である。
 
-He's not just a DJ. A&R, label management, compilation editor, and long-time set practitioner. He is a practical person who is responsible for the reciprocating movement between the club and the sound source, and is the type of player who verifies his ideas on the floor.
+彼は単なるDJではない。A&R、レーベル・マネジメント、コンピレーションの編集、そして長時間セットの実践者。クラブと音源の往復運動を担った実務家であり、思想をフロアで検証するタイプのプレイヤーだ。
 
-To understand his activities, it is necessary to look at three layers simultaneously.
+彼の活動を理解するには、三つの層を同時に見る必要がある。
 
-1. Institutional history of the city of Berlin
-2. Specific practice on the floor
-3. Thoughts and design sense regarding acoustics
+1. ベルリンという都市の制度史
+2. フロアでの具体的実践
+3. 音響に対する思想と設計感覚
 
-This paper organizes his progress through this three-layered structure.
+本稿はこの三層構造で彼の歩みを整理する。
 
-> Nick Höppner is the embodiment of the 'athletic body' of Berlin club culture.
+> Nick Höppnerは、ベルリン・クラブ文化の「運動体」を体現した存在である。
 
 ---
 
@@ -41,7 +40,7 @@ This paper organizes his progress through this three-layered structure.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -50,103 +49,103 @@ color: #fff;
 </style>
 
 
-## History of the Berlin System: How the Club Became an Institution
+## ベルリン制度史：クラブが制度になるまで
 
-### Post-unification Berlin and the creation of club spaces
+### 統一後ベルリンとクラブ空間の生成
 
-Berlin in the 1990s had many blank areas after reunification. Factory site, power plant, warehouse. These spaces were converted into clubs and became testing grounds for techno culture.
+1990年代のベルリンは、再統一後の空白地帯を多く抱えていた。工場跡地、発電所、倉庫。これらの空間がクラブへ転用され、テクノ文化の実験場となった。
 
-**Berghain**, which opened in 2004, is an extension of this trend. A huge space renovated from an old power plant, with high ceilings and hard concrete walls. Acoustics have expanded physically, and music has acquired a tactile scale.
+この流れの延長線上に2004年開業の **Berghain** がある。旧発電所を改装した巨大空間、高い天井、硬質なコンクリート壁。音響は物理的に拡張され、音楽は体感的スケールを獲得した。
 
-### An institutional device called a label
+### レーベルという制度装置
 
-**Ostgut Ton** was responsible for conveying Berghain"s musical philosophy to the outside world. It was more than just a club label, it was a device that solidified Berghain"s philosophy as a sound source.
+Berghainの音楽的理念を外部へ伝える役割を担ったのが **Ostgut Ton** である。単なるクラブ・レーベルではなく、Berghainの思想を音源として固定化する装置だった。
 
-Nick Höppner was involved in A&R and management of Ostgut Ton, and was in a position to shape the direction of the label. Choose the sounds that play in the club, choose the artists, and build the compilation. They took on the role of editing music within the system.
+Nick HöppnerはこのOstgut TonのA&Rおよび運営に関与し、レーベルの方向性を具体化する立場にあった。クラブで鳴る音を選び、アーティストを選定し、コンピレーションを構築する。制度の内部で音楽を編集する役割を担ったのである。
 
 <div class="mermaid">
 graph LR
-A[urban reorganization] --> B[club space]
+A[都市再編] --> B[クラブ空間]
 B --> C[Berghain]
 C --> D[Ostgut Ton]
-D --> E[international distribution]
+D --> E[国際流通]
 </div>
 
-> In Berlin, clubs became cultural institutions and labels became devices for preserving ideas.
+> ベルリンではクラブが文化施設となり、レーベルが思想を保存する装置となった。
 
 ---
 
-## Floor practice: long set methodology
+## フロア実践：長時間セットという方法論
 
-### Resident position
+### レジデントとしての位置
 
-Berghain's resident DJs are more than just guests. They are assigned to set for long periods of time, and it is necessary to read their psychological state at each time of day.
+BerghainのレジデントDJは、単なるゲストではない。長時間のセットを任され、時間帯ごとの心理状態を読み取る必要がある。
 
-Höppner's playing tends to emphasize sustained grooves rather than sudden peaks. The BPM range ranges from house to techno, with smooth transitions.
+Höppnerのプレイは、急激なピークを作るのではなく、持続的なグルーヴを重視する傾向がある。BPMレンジはハウス寄りからテクノまでを横断し、滑らかな移行を行う。
 
-### Structure for assembling the floor
+### フロアを組み立てる構造
 
-His set structure can be organized into three layers.
+彼のセット構造は三層的に整理できる。
 
 1. Rhythm stabilization
-2. Introducing harmony and chords
-3. Texture density adjustment
+2. ハーモニーやコードの導入
+3. テクスチャの密度調整
 
-This is a design that values ​​the passage of time itself rather than momentary excitement.
+これは瞬間的な盛り上がりよりも、時間の経過そのものを価値化する設計である。
 
 <div class="mermaid">
 graph TD
-A[low density groove] --> B[Midrange filling]
-B --> C[harmony expansion]
-C --> D[scrape it off again]
+A[低密度グルーヴ] --> B[中域の充填]
+B --> C[ハーモニー拡張]
+C --> D[再び削ぎ落とす]
 </div>
 
-> Floors are formed by persistence, not explosions.
+> フロアは爆発ではなく、持続によって形成される。
 
 ---
 
-## Acoustic philosophy: Production based on the premise of sound
+## 音響思想：鳴りを前提とした制作
 
-### Designed for club acoustics
+### クラブ音響を前提にした設計
 
-Berghain has a sound system known for its high output. The bass is deep, the reverberation is long, and the space is huge. Under these conditions, excessive decoration creates turbidity.
+Berghainは高出力で知られる音響システムを備える。低域は深く、残響は長く、空間は巨大である。この条件下では、過度な装飾は濁りを生む。
 
-Höppner's production tends towards reducing the number of sounds and organizing the range. Avoid interference between kick and bass and create space in the midrange.
+Höppnerの制作は、音数を抑え、帯域を整理する方向に向かう。キックとベースの干渉を避け、ミッドレンジに余白を作る。
 
-### Album "Folk"
+### アルバム『Folk』
 
-The album ""Folk" released by Ostgut Ton in 2015 is a work that explores the balance between club functionality and lyricism. As the title suggests, it is not a direct reference to folk music, but rather a sense of structural ""narrative".
+2015年、Ostgut Tonから発表されたアルバム『Folk』は、クラブ機能性と叙情性の均衡を模索した作品である。タイトルが示す通り、直接的な民族音楽引用ではなく、構造的な「語り」の感覚を意識している。
 
-The track is not a linear peak structure, but is designed to embed subtle changes within the repetition.
+トラックは直線的なピーク構造ではなく、反復の中に微細な変化を埋め込む設計だ。
 
-> Acoustic philosophy is to decide which sounds should not be produced rather than which ones should be produced.
+> 音響思想とは、鳴らす音よりも鳴らさない音を決めることである。
 
 ---
 
-## Curation: The work of weaving context
+## キュレーション：文脈を編む仕事
 
-Ostgut Ton"s compilations and Berghain-related mixes are more than just DJ productions. This is an editing act that presents the club"s philosophy along a chronological axis.
+Ostgut TonのコンピレーションやBerghain関連ミックスは、単なるDJ作品ではない。クラブの思想を時間軸に沿って提示する編集行為である。
 
-Höppner was involved in this editing process, presenting Berghain's musical cross-section to the outside world. What is important here is that the act of selecting a sound source is also an act of defining a context.
+Höppnerはこの編集作業に関わり、Berghainの音楽的断面を外部へ提示した。ここで重要なのは、音源を選ぶ行為が同時に文脈を定義する行為である点だ。
 
 <div class="mermaid">
 graph LR
-A[floor experience] --> B[Song selection]
-B --> C[compilation]
+A[フロア体験] --> B[Song selection]
+B --> C[コンピレーション]
 C --> D[cultural record]
 </div>
 
-> Curation is both a record of culture and a guide to the future.
+> キュレーションは文化の記録であり、同時に未来への指針である。
 
 ---
 
 ## Chronology: Intersection of institutions, practices, and ideas
 
-* Late 1990s to early 2000s: Started DJing in Berlin
-* 2004: Berghain opens
-* 2000s: Involved in A&R of Ostgut Ton
-* 2015: Album "Folk" released
-* Late 2010s: Expansion of international DJ activities
+* 1990年代後半〜2000年代初頭：ベルリンでDJ活動開始
+* 2004年：Berghain開業
+* 2000年代：Ostgut TonのA&Rに関与
+* 2015年：アルバム『Folk』リリース
+* 2010年代後半：国際的DJ活動拡大
 
 <div class="mermaid">
 timeline
@@ -158,18 +157,18 @@ timeline
     2010s : 国際展開
 </div>
 
-> His path is a trajectory in which three layers of institutions, practices, and ideas progressed simultaneously.
+> 彼の歩みは制度・実践・思想の三層が同時進行した軌跡である。
 
 ---
 
-## Conclusion: Sounds from within the system
+## 結論：制度の内部から鳴らす音
 
-Although Ostgut Ton later ceased to be active, the aesthetics formed during that period remain. Berlin's club culture is renewed through repeated institutionalization and reorganization.
+Ostgut Tonは後に活動を終えるが、その時代に形成された美学は消えない。ベルリンのクラブ文化は制度化と再編を繰り返しながら更新される。
 
-Nick Höppner was responsible for running the system, verifying it on the floor, and recording it as a sound source. His career is an example of how urban cultures self-organize and gain international influence.
+Nick Höppnerはその内部で、制度を運営し、フロアで検証し、音源として記録する役割を担った。彼のキャリアは、都市文化がどのように自己組織化し、国際的影響力を獲得するかを示す実例である。
 
-Not explosive star power, but sustained practice and thought. It is this quiet driving force that has shaped one aspect of Berlin House.
+爆発的スター性ではなく、持続的な実務と思想。その静かな推進力こそが、ベルリン・ハウスの一側面を形づくってきた。
 
-> The sounds made on the floor transcend the system, but are supported by the system.
+> フロアで鳴る音は制度を超え、しかし制度によって支えられている。
 
 ---

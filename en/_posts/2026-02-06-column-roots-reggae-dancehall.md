@@ -12,23 +12,22 @@ tags:
 - Dub
 - Soundsystem
 - Jamaica
-title: '[Column] Roots Reggae vs Dancehall ─ Two souls of reggae born of a generational
-  change'
+title: 【コラム】 Roots Reggae vs Dancehall ─ 世代交代が生んだレゲエの二つの魂
 ---
 
 
 
-## Prologue Completely different voices born from the same island
+## 序章　同じ島から生まれた、まったく違う声
 
-Text: mmr｜Theme: Organizing roots reggae and dancehall from the perspective of generational change, and depicting the continuity of reggae culture that continues to the present day.
+文：mmr｜テーマ：ルーツ・レゲエとダンスホールを世代交代の視点で整理し、現代まで続くレゲエ文化の連続性を描く
 
-The history of Jamaican music becomes clearer when read as a change of generations rather than an evolution of genres. Roots reggae and dancehall were not competing values, but musical languages ​​chosen by young people who lived in different eras to respond to their own realities.
+ジャマイカ音楽の歴史は、ジャンルの進化ではなく世代の交代として読むと輪郭がはっきりする。ルーツ・レゲエとダンスホールは、価値観の優劣を競う存在ではなく、異なる時代を生きた若者たちが、それぞれの現実に対して選び取った音楽的言語だった。
 
-Roots reggae, which came of age in the 1970s when post-independence ideals were still communal, placed social messages and spirituality at the heart of its music. As exemplified by Bob Marley and Burning Spear, songs transcended the individual and functioned as a collective voice.
+1970年代、独立後の理想がまだ共有可能だった時代に成熟したルーツ・レゲエは、社会的メッセージと精神性を音楽の中心に据えた。ボブ・マーリーやバーニング・スピアに象徴されるように、楽曲は個人を超え、共同体の声として機能していた。
 
-Since the 1980s, the dancehall generation, who grew up in an urban environment where economic instability and violence have become commonplace, values ​​immediate results over ideals and instantaneousness over permanence. Figures like Shabba Ranks exemplified the shift in music to a place where it was directly linked to survival.
+1980年代以降、経済不安と暴力が日常化した都市環境の中で育ったダンスホール世代は、理念より即効性を、永続性より瞬間性を重視する。シャバ・ランクスのような存在は、音楽が生存と直結する場へ移行したことを体現していた。
 
-> The two genres are mirrors of how different generations lived in the same society.
+> 二つのジャンルは、同じ社会を異なる世代がどう生きたかを映す鏡である。
 
 
 ---
@@ -38,7 +37,7 @@ Since the 1980s, the dancehall generation, who grew up in an urban environment w
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -47,77 +46,77 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Social background and expression of the roots reggae generation
+## 第1章　ルーツ・レゲエ世代の社会的背景と表現
 
-In Jamaica during the 1960s and 1970s, when the roots-reggae generation grew up, politics and culture were closely intertwined. Before music was entertainment, it was education and a device for sharing ideas. The reason why Bob Marley's songs were accepted across national borders was more than just the melody, but the universal themes of oppression and liberation.
+ルーツ・レゲエ世代が育った1960〜70年代のジャマイカでは、政治と文化が密接に結びついていた。音楽は娯楽である以前に、教育であり、思想の共有装置だった。ボブ・マーリーの楽曲が国境を越えて受け入れられた背景には、メロディ以上に、抑圧と解放という普遍的主題があった。
 
-Artists like Burning Spear and Culture inscribed history and memory into songs, expanding personal history into collective history. The rhythm was slow, heavy, and repetitive, creating a structure that gave the listener time to think.
+バーニング・スピアやカルチャーといったアーティストは、歴史や記憶を歌に刻み込み、個人史を集団史へと拡張した。リズムは遅く、重く、反復されることで、聴く者に思考の時間を与える構造になっていた。
 
-What is important about roots reggae is that before the artists are stars, they are storytellers. Music was not a means of self-expression, but a medium to preserve the beliefs of a generation.
+ルーツ・レゲエにおいて重要なのは、アーティストがスターである前に、語り部であった点である。音楽は自己表現ではなく、世代の信念を保存する媒体だった。
 
 > Roots reggae is the record of the last generation that shared its ideals.
 
 ---
 
-## Chapter 2 The invention of dub and changes in the view of music
+## 第2章　ダブという発明と音楽観の変化
 
-Dub was born from within the roots reggae generation, but its thinking became a bridge to the next generation. The mixing methods of King Tubby and Lee Perry presented a perspective that viewed music as a variable structure rather than a finished product.
+ダブは、ルーツ・レゲエ世代の内部から生まれたが、その思考は次世代への橋渡しとなった。キング・タビーやリー・ペリーによるミキシング手法は、音楽を完成品ではなく、可変的な構造物として捉える視点を提示した。
 
-Dub's sense of subtracting sound and emphasizing space is directly connected to later dancehall and digital production. What is important here is that the process has begun to be valued more than the authorship.
+音を引き算し、空間を強調するダブの感覚は、後のダンスホールやデジタル制作に直結する。ここで重要なのは、作者性よりもプロセスが重視され始めた点である。
 
-> Dub transformed reggae from an ideology-based music to a structure-based music.
+> ダブは、レゲエを思想中心の音楽から構造中心の音楽へと変質させた。
 
 ---
 
 ## Chapter 3: Sound system culture, a generation renewal device
 
-The sound system was a place for music to be played, and at the same time, it was a device for changing the protagonists between generations. This culture, in which even young people without a studio or musical instrument could participate as selectors or MCs, temporarily dismantled hierarchical structures.
+サウンドシステムは、音楽を演奏する場であると同時に、世代が主役を入れ替える装置だった。スタジオや楽器を持たない若者でも、セレクターやMCとして参加できるこの文化は、階層構造を一時的に解体した。
 
 At the Sound Clash scene, the audience's reaction was everything. The improvisational nature and competitive spirit developed here will form the values ​​of the dancehall generation.
 
-> The sound system was a place where generations could reclaim music.
+> サウンドシステムは、世代が音楽を奪い返すための現場だった。
 
 ---
 
-## Chapter 4 Digitalization and the rise of the dancehall generation
+## 第4章　デジタル化とダンスホール世代の台頭
 
-In the mid-1980s, the conditions for music production changed completely with the spread of digital riddim. The environment in which music could be produced by a small number of people, in a short period of time, and at low cost gave the younger generation a decisive freedom.
+1980年代半ば、デジタル・リディムの普及によって音楽制作の条件は一変する。少人数、短時間、低コストで楽曲を生み出せる環境は、若い世代に決定的な自由を与えた。
 
-Dancehall artists such as Shabba Ranks value immediate reaction over long-term evaluation. Lyrics became everyday and direct, and music became completely connected to life.
+シャバ・ランクスに代表されるダンスホール・アーティストは、長期的評価よりも即時的な反応を重視する。リリックは日常的で直接的になり、音楽は生活と完全に結びついた。
 
-> Dancehall was a quick fix to survive uncertain times.
-
----
-
-## Chapter 5 Misunderstanding of the narrative of intergenerational conflict
-
-Roots reggae and dancehall are often talked about in opposition, but many dancehall artists grew up listening to roots music. There was no denial, just a transformation.
-
-Spirituality has not disappeared, but transformed into self-affirmation, survival strategy, and physical expression.
-
-> Conflict is an illusion; the reality is the history of successive generations.
+> ダンスホールは、不安定な時代を生き抜くための即効薬だった。
 
 ---
 
-## Supplementary chapter Expansion of the history of reggae reception in Japan (from the 1990s)
+## 第5章　世代間対立という語りの誤解
 
-In the 1990s, when reggae spread widely in Japan, a distinctive feature was that roots and dancehall were introduced at the same time. Imported record stores, clubs, and magazines editorially juxtaposed the two, making the generational conflict relative.
+ルーツ・レゲエとダンスホールはしばしば対立構造で語られるが、多くのダンスホール・アーティストはルーツを聴いて育っている。否定ではなく、変換が起きただけだった。
 
-In the context of club culture, dancehall was consumed on the same level as hip-hop and techno, and was accepted as a music of physicality. On the other hand, outdoor festivals and record culture tended to emphasize the spirituality of roots reggae.
+精神性は消えたのではなく、自己肯定、生存戦略、身体表現へと形を変えた。
 
-Record stores were not just sales centers, but knowledge centers. As the selector culture developed, a uniquely Japanese interpretation was formed.
-
-> Japan's acceptance of reggae has matured as an editorial culture rather than a generational theory.
+> 対立は幻想であり、実態は連続した世代史である。
 
 ---
 
-## Chapter 6 Connection to modern times (2000s and later)
+## 補章　日本におけるレゲエ受容史の拡張（1990年代以降）
 
-Since the 2000s, dancehall has become global and roots reggae has been reevaluated. The evolution of the digital environment has blurred the boundaries between generations.
+日本でレゲエが広く浸透した1990年代、特徴的だったのはルーツとダンスホールが同時並行で紹介された点である。輸入盤レコード店、クラブ、雑誌が編集的に両者を並べたことで、世代対立は相対化された。
 
-Contemporary artists simultaneously reference the spirituality of roots and the immediacy of dancehall. This does not mean the end of the conflict, but rather the advancement of generational theory to the next stage.
+クラブカルチャーの文脈では、ダンスホールはヒップホップやテクノと同列に消費され、身体性の音楽として受容された。一方、野外フェスやレコード文化では、ルーツ・レゲエの精神性が強調される傾向があった。
 
-> Modern reggae is a multilayered culture that encompasses all generations.
+レコード店は単なる販売拠点ではなく、知識の集積地だった。セレクター文化が発展し、日本独自の解釈が形成されていく。
+
+> 日本のレゲエ受容は、世代論より編集文化として成熟した。
+
+---
+
+## 第6章　現代（2000s以降）への接続
+
+2000年代以降、ダンスホールはグローバル化し、ルーツ・レゲエも再評価される。デジタル環境の進化により、世代の境界は曖昧になった。
+
+現代のアーティストは、ルーツの精神性とダンスホールの即時性を同時に参照する。これは対立の終焉ではなく、世代論が次の段階へ進んだことを意味する。
+
+> 現代のレゲエは、すべての世代を内包した重層的な文化である。
 
 ---
 
@@ -137,11 +136,11 @@ Contemporary artists simultaneously reference the spirituality of roots and the 
 
 ---
 
-## Final Chapter Even if generations change, reggae never ends
+## 終章　世代が変わっても、レゲエは終わらない
 
-Roots reggae and dancehall are different answers given by different generations to the same reality. Renewal, not confrontation. This continuity has allowed the culture of reggae to survive to this day.
+ルーツ・レゲエとダンスホールは、異なる世代が同じ現実に与えた異なる回答である。対立ではなく更新。その連続が、レゲエという文化を現在まで生き延びさせてきた。
 
-> Reggae has always been transformed for the next generation.
+> レゲエは常に、次の世代のために形を変えてきた。
 
 ---
 

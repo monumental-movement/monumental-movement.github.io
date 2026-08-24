@@ -16,7 +16,7 @@ title: Talking Heads – Little Creatures
 
 The album features many songs, including the hits "And She Was" and "Road to Nowhere." These songs combined Talking Heads' signature rhythms, humorous lyrics, and catchy melodies, and were loved by many.
 
-"Little Creatures" was the most commercially successful album of Talking Heads' career and received critical acclaim.
+「Little Creatures」は、トーキング・ヘッズのキャリアの中でも商業的にも成功したアルバムであり、批評家からも高い評価を受けました。
 
 #### Tracklist
 ```md

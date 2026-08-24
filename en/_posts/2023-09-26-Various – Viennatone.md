@@ -12,8 +12,8 @@ title: Various – Viennatone
 ---
 
 
-"Various – Viennatone" is
-This is a work released by Germany's !k7 records in 1999.
+「Various – Viennatone」は、
+1999年にドイツの!k7 recordsからリリースされた作品です。
 
 #### Tracklist
 ```md
@@ -40,7 +40,7 @@ This is a work released by Germany's !k7 records in 1999.
 11. Puck Dannin–Family Affair
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UgOdCoAjEWE?si=fl1__B3nErk6T2jb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

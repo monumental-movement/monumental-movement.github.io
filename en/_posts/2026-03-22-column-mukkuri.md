@@ -10,23 +10,22 @@ tags:
 - Ainu
 - Instrument
 - Tribe
-title: '[Column] Memories of the vibrations of Mukkuri: A cultural history of the
-  sounds and bodies spun by the Ainu mouth harp'
+title: 【コラム】 ムックリという振動の記憶：アイヌの口琴が紡ぐ音と身体の文化史
 ---
 
 
 
-## What is Mukkuri: The smallest musical device
+## ムックリとは何か：最小単位の音楽装置
 
-Text: mmr｜Theme: Deciphering the sonic philosophy of Ainu culture and its historical changes through the smallest musical instrument "mukkuri" that resonates with the body and nature.
+文：mmr｜テーマ：身体と自然が共鳴する最小の楽器「ムックリ」を通して、アイヌ文化の音の思想とその歴史的変遷を読み解く
 
-The mukkuri, a traditional Ainu musical instrument, is a type of musical instrument classified as a so-called ""mouth harp.'' A tongue-shaped part (reed) is cut out from the center of a long, thin bamboo board, and a string is attached to the end. When the string is pulled, the reed vibrates, producing sound using the oral cavity as a resonator.
+アイヌの伝統楽器であるムックリは、いわゆる「口琴」に分類される楽器の一種である。竹製の細長い板に中央の舌状の部分（リード）が切り出され、その端に紐が取り付けられている。この紐を引くことでリードが振動し、口腔内を共鳴器として音が発生する。
 
-Although the mukkuri has a simple structure, it produces extremely delicate changes in sound. Although the pitch itself cannot be changed significantly, the timbre changes depending on how the mouth opens, the position of the tongue, and the way one breathes, resulting in a wide variety of acoustic expressions.
+ムックリは単純な構造を持ちながら、極めて繊細な音の変化を生み出す。音程そのものを大きく変えることはできないが、口の開き方、舌の位置、呼吸の仕方によって音色が変化し、結果として多彩な音響表現が可能になる。
 
-A feature of this instrument is that ""the performer's body itself becomes a part of the instrument.'' Sound is not manipulated from the outside, but is generated in conjunction with the space inside the body. Therefore, the mukkuri is not just a musical instrument, but also a device for directly experiencing the relationship between the body and sound.
+この楽器の特徴は「演奏者の身体そのものが楽器の一部になる」点にある。音は外部から操作されるものではなく、身体内部の空間と連動して生成される。そのためムックリは単なる楽器ではなく、身体と音の関係を直接的に体験する装置とも言える。
 
-> Mukkuri is an instrument that "resonates" rather than "plays"
+> ムックリは「演奏する」のではなく「共鳴する」楽器である
 
 ---
 
@@ -35,7 +34,7 @@ A feature of this instrument is that ""the performer's body itself becomes a par
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -45,94 +44,94 @@ color: #fff;
 
 
 
-## Position in Ainu culture
+## アイヌ文化における位置づけ
 
-It is said that the mukkuri was often played mainly by women. In daily life, it has been used for play, communication, and personal expression.
+ムックリは主に女性によって演奏されることが多かったとされている。日常生活の中で、遊びやコミュニケーション、あるいは個人的な表現として用いられてきた。
 
-In Ainu culture, music existed naturally not only in ceremonial scenes but also in everyday life. Mukkuri is a symbol of this, and it is music that takes place within the individual's body and time, without the need for a special stage or ritual.
+アイヌ文化において音楽は、儀式的な場面だけでなく、日常の中にも自然に存在していた。ムックリはその象徴的な存在であり、特別な舞台や儀礼を必要とせず、個人の身体と時間の中で成立する音楽である。
 
-It has also been thought that the sounds of the mukkuri are closely connected to the sounds of nature. It had the property of resonating with environmental sounds such as wind, rivers, and animal voices, and played a role in blurring the boundaries between music and nature.
+また、ムックリの音は自然界の音と密接に結びついていると考えられてきた。風、川、動物の声といった環境音と共鳴するような性質を持ち、音楽と自然の境界を曖昧にする役割を果たしていた。
 
-From this background, it is thought that mukkuri was not just a form of entertainment, but also a medium through which people could feel their relationship with nature.
+このような背景から、ムックリは単なる娯楽ではなく、自然との関係性を感じ取るための媒介でもあったと考えられる。
 
-> Mukkuri was a sound device that bridged the boundary between nature and humans.
+> ムックリは自然と人間の境界をつなぐ音の装置であった
 
 ---
 
-## Structure and acoustic principles
+## 構造と音響原理
 
-The basic structure of the Mukkuri is very simple, but its acoustic principle is interesting. The central reed vibrates to create a basic sound, which is amplified and transformed within the oral cavity.
+ムックリの基本構造は非常にシンプルであるが、その音響原理は興味深い。中央のリードが振動することで基本的な音が生まれ、その音が口腔内で増幅・変形される。
 
-Its structure is shown below.
+以下にその構造を示す。
 
 <div class="mermaid">
 graph LR
-A[bamboo body] --> B[Lead (vibrating part)]
-B --> C[Driven by string]
-C --> D[intraoral resonance]
-D --> E[change in sound]
+A[竹の本体] --> B[リード（振動部）]
+B --> C[紐による駆動]
+C --> D[口腔内共鳴]
+D --> E[音の変化]
 </div>
 
-Since the reed's vibration frequency is constant, changes in pitch are mainly created by manipulating overtones. Performers control the tone by emphasizing specific overtones by changing the shape of their mouth and the position of their tongue.
+リードの振動周波数は一定であるため、音程の変化は主に倍音の操作によって生まれる。演奏者は口の形や舌の位置を変えることで、特定の倍音を強調し、音色をコントロールする。
 
-This mechanism is common with mouth harps from other regions (such as those in Mongolia and Europe), but the mukkuri is characterized by a particularly soft and delicate sound.
+この仕組みは、他地域の口琴（例えばモンゴルやヨーロッパのもの）とも共通しているが、ムックリは特に柔らかく繊細な音を特徴とする。
 
 > Mukkuri's sound is a delicate acoustic phenomenon created by overtone manipulation
 
 ---
 
-## Production techniques and materials
+## 制作技術と素材
 
-Mukkuri is mainly made from bamboo. Bamboo is lightweight and has a suitable amount of elasticity, making it suitable for reed vibration.
+ムックリは主に竹を素材として作られる。竹は軽量でありながら適度な弾性を持つため、リードの振動に適している。
 
-Production includes the following steps:
+制作には以下の工程が含まれる。
 
 <div class="mermaid">
 graph TD
-A[Bamboo selection] --> B[Cut out]
-B --> C[Lead processing]
-C --> D[Attaching the string]
-D --> E[finishing]
+A[竹の選定] --> B[Cut out]
+B --> C[リードの加工]
+C --> D[紐の取り付け]
+D --> E[仕上げ]
 </div>
 
-Machining the reed part is particularly important, as slight differences in thickness and shape can greatly affect the sound. Therefore, the skill and experience of the producer determines the sound quality.
+特にリード部分の加工は重要であり、わずかな厚みや形状の違いが音に大きく影響する。そのため、制作者の技術と経験が音質を左右する。
 
-It is also sometimes decorated with carvings, and has value not only as a musical instrument but also as a craft.
+また、装飾として彫刻が施されることもあり、楽器としてだけでなく工芸品としての価値も持つ。
 
-> Mukkuri is a product of precision handiwork that combines crafts and acoustic technology.
+> ムックリは工芸と音響技術が融合した精密な手仕事の産物である
 
 ---
 
 ## Comparison with mouth harps from other regions
 
-The mouth harp is a musical instrument that exists all over the world, and is distributed widely in Asia, Europe, and Oceania. Mukkuri is also placed in this lineage.
+口琴は世界各地に存在する楽器であり、アジア、ヨーロッパ、オセアニアなど広範囲に分布している。ムックリもその一系統に位置づけられる。
 
-However, there are some distinctive differences.
+しかし、いくつかの点で特徴的な違いがある。
 
-・Material is bamboo instead of metal
-・The sound is soft and the duration is short
+・素材が金属ではなく竹である
+・音が柔らかく、持続音が短い
 ・Cultural background where mainly women perform
-・Focused on personal and internal uses
+・個人的・内面的な用途が中心
 
-On the other hand, common points include the use of body resonance and timbre changes through overtone manipulation.
+一方で、共通点としては身体共鳴を利用する点や、倍音操作による音色変化が挙げられる。
 
-From this comparison, it can be seen that even among the universal musical instruments known as the mouth harp, the mukkuri has a form that is particularly closely connected to daily life.
+この比較から、ムックリは口琴という普遍的な楽器の中でも、特に生活と密接に結びついた形態を持つことが分かる。
 
-> Mukkuri is a musical instrument closely connected to daily life in the global mouth harp culture.
+> ムックリは世界的な口琴文化の中でも生活密着型の楽器である
 
 ---
 
-## Changes since modern times
+## 近代以降の変遷
 
-With the progress of modernization, Ainu culture underwent major changes. Mukkuri is no exception, and at one point its tradition was on the verge of extinction.
+近代化の進展とともに、アイヌ文化は大きな変化を受けた。ムックリも例外ではなく、一時期はその伝承が途絶えかけた。
 
-However, from the latter half of the 20th century onwards, mukkuri began to be reevaluated amidst the movement for cultural revival. Opportunities for it to be performed in education, tourism, and performing arts have increased, and it is once again attracting attention.
+しかし20世紀後半以降、文化復興の動きの中でムックリも再評価されるようになった。教育や観光、舞台芸術の中で演奏される機会が増え、再び注目を集めている。
 
-Furthermore, with the development of recording technology, the sound of Mukkuri has spread both domestically and internationally, and its value as folk music has come to be recognized.
+また、録音技術の発展により、ムックリの音は国内外に広まり、民族音楽としての価値も認識されるようになった。
 
-Nowadays, while preserving the traditional performance style, attempts are being made to combine it with new music.
+現在では、伝統的な演奏スタイルを守りながらも、新しい音楽との融合も試みられている。
 
-> Mukkuri is played as a sound that connects tradition and modernity.
+> ムックリは伝統と現代をつなぐ音として再生されている
 
 ---
 
@@ -149,37 +148,37 @@ timeline
     2000年代以降 : 教育・観光・芸術分野での活用拡大
 </div>
 
-> The history of Mukkuri overlaps with the changes in Ainu culture itself.
+> ムックリの歴史はアイヌ文化の変遷そのものと重なっている
 
 ---
 
 ## Philosophy of sound: body, nature, time
 
-Mukkuri's greatest feature is that its sounds are closely connected to the body, nature, and time.
+ムックリの最大の特徴は、その音が「身体」「自然」「時間」と密接に結びついている点にある。
 
-Body: The oral cavity becomes a resonator and sound is generated from within.
-Nature: Tones harmonize with environmental sounds and blur the boundaries
-Time: Emphasis on duration and change rather than rhythm.
+身体：口腔内が共鳴器となり、音が内部から生成される
+自然：音色が環境音と調和し、境界を曖昧にする
+時間：リズムよりも持続と変化に重きが置かれる
 
-These three elements represent a musical perspective that differs from Western musical structures. Mukkuri focuses on the texture and changes in the sound itself, rather than the melody or harmony.
+この三要素は、西洋音楽的な構造とは異なる音楽観を示している。ムックリは旋律や和声よりも、音そのものの質感や変化に焦点を当てる。
 
-As a result, it is more of a music that you can "feel" rather than listen to.
+そのため、聴くというよりも「感じる」音楽としての側面が強い。
 
-> Mukkuri exists as a sensory experience beyond music
+> ムックリは音楽を超えて感覚的体験として存在する
 
 ---
 
-## Significance in modern times
+## 現代における意義
 
-In modern society, the mukkuri has come to mean more than just a traditional musical instrument.
+現代社会において、ムックリは単なる伝統楽器以上の意味を持つようになっている。
 
-As digital music and electronic sounds become mainstream, body-based sounds like Mukkuri present contrasting values. There is immediacy, chance, and individuality.
+デジタル音楽や電子音響が主流となる中で、ムックリのような身体依存型の音は、対照的な価値を提示する。そこには即時性、偶然性、個別性が存在する。
 
-Furthermore, the fact that it produces rich acoustics from a minimalist structure has many implications for contemporary music production.
+また、ミニマルな構造から豊かな音響を生み出す点は、現代の音楽制作においても示唆に富む。
 
-The idea of ​​""drawing out" sound rather than ""creating" it is an opportunity to reconsider the fundamental nature of music.
+音を「作る」のではなく「引き出す」という発想は、音楽の根源的な在り方を問い直す契機となる。
 
-> Mukkuri is a presence that makes us reconsider the origins of music in modern times.
+> ムックリは現代において音楽の原点を再考させる存在である
 
 ---
 

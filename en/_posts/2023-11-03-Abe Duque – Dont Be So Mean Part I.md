@@ -13,19 +13,19 @@ title: Abe Duque – Don't Be So Mean Part I
 ---
 
 
-Abe Duque is active in the New York underground acid scene.
+NYアンダーグラウンドアシッド・シーンで活躍するAbe Duque（アベ・デューク）。
 
 In the early 1990s, he participated in PROGRAM2, which was attracting attention in the NY club scene at the time.
 
-Afterwards, after working under the name KILRIAN, he established Abe Duque Records with DJ Matuss in 2002.
+その後、KILRIAN名義で活動したのち、02年にはDJ Matussと共にAbe Duque Recordsを設立。
 
-Abe Duque Records deliberately takes the underground route, with release information and credits engraved on the discs.
+Abe Duque Recordsは敢えてアングラ路線をとり、リリース情報などクレジットは盤面に刻印するスタイルをとっている。
 
-He has worked on remixes for bands such as the Chemical Brothers and Pet Shop Boys, and has performed live at WIRE in 2005 and Asagiri JAM in 2007.
+Chemical Brothers（ケミカルブラザーズ）やPet Shop Boys（ペットショップボーイズ）などのリミックスを手がけたり、05年のWIREや07年の朝霧JAMでライヴパフォーマンスをおこなっている。
 
-Released in 2008, "Don't be So Mean" is a techno track that became popular on dance floors around the world.
+2008年にリリースした「Don't be So Mean」は、世界中のダンスフロアで人気を博したテクノトラック。
 
-The B-side features vocals from Serbian DJ Tijana T, who plays at famous clubs around the world such as Boiler room and Panorama Bar.
+B面は、Boiler roomやPanorama Barなど世界の有名クラブでプレイするセルビア出身のDJ Tijana Tがヴォーカルで参加。
 
 #### Tracklist
 ```md
@@ -36,5 +36,5 @@ A2. Vinyl Is Dead
 B. Salute The Dawn Featuring – Tijana T
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
 

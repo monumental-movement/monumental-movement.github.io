@@ -10,13 +10,13 @@ tags:
 - Anthropology
 - Language
 - Evolution
-title: '[Column] Why Humans Invented Music Before Writing - Part3'
+title: 【コラム】 Why Humans Invented Music Before Writing - Part3
 ---
 
 
-## 26. Why does the human brain wait for the "next sound"?
+## 26. なぜ人間の脳は「次の音」を待つのか
 
-Text: mmr｜Theme: "Did music exist before writing?" We will delve into the question from the timeline of humanity itself.
+文：mmr｜テーマ：「音楽は文字より前に存在したのか？」という問いを、人類の時間軸そのものから掘り下げます
 
 
 
@@ -25,30 +25,30 @@ Text: mmr｜Theme: "Did music exist before writing?" We will delve into the ques
 
 When listening to music, the human brain does not simply receive the sound.
 
-Predicting what's coming next.
+次に何が来るのかを予測している。
 
-If the rhythm repeats, predict the next beat.
+リズムが繰り返されれば、次の拍を予想する。
 
-If the melody continues, predict the pitch of the next note.
+メロディーが続けば、次の音の高さを予想する。
 
-If the same phrase is repeated over and over again, we expect it to continue.
+同じフレーズが何度も繰り返されれば、その続きを期待する。
 
-And when that prediction comes true, it feels natural.
+そして、その予測が当たると「自然だ」と感じる。
 
 On the other hand, when a sound comes in that you weren't expecting, your attention shifts.
 
-This property is extremely important in understanding music.
+この性質は、音楽を理解するうえで極めて重要だ。
 
-Music is not an experience of listening to individual sounds.
+音楽は、音を一つずつ聴く体験ではない。
 
-It is also an experience of remembering sounds heard in the past and predicting the next sound based on that.
+過去に聴いた音を記憶し、それをもとに次の音を予測する体験でもある。
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -59,67 +59,67 @@ color: #fff;
 ---
 
 
-### Betrayal makes sense because it's predictable.
+### 予測できるから、裏切りが意味を持つ
 
-Music that is completely unpredictable is difficult to understand.
+完全に予測できない音楽は、理解することが難しい。
 
-But even perfectly predictable music can quickly become boring.
+しかし、完全に予測できる音楽も、すぐに退屈になる。
 
-Music has some regularity.
+音楽には、ある程度の規則性がある。
 
-Change occurs within that regularity.
+その規則性の中に変化が入る。
 
-The rhythm repeats.
+リズムが繰り返される。
 
-After that, there's a beat.
+その後で、一拍抜ける。
 
-The melody progresses.
+メロディーが進む。
 
 A different sound comes than I expected.
 
-The same code continues.
+同じコードが続く。
 
-Suddenly, it shifts to a different sound.
+突然、別の響きに移る。
 
 This combination of ""prediction and change'' becomes an important characteristic of music.
 
-Of course, not all music uses this mechanism in the same way.
+もちろん、すべての音楽が同じ方法でこの仕組みを使うわけではない。
 
-However, the fact that humans predict the future based on past sounds when listening to music has become an important theme in cognitive research.
+しかし、音楽を聴くときに人間が過去の音から未来を予測していることは、認知研究において重要なテーマになっている。
 
-> The fun of music comes not only from the sounds themselves, but also from people's predictions of what will come next.
+> 音楽の面白さは、音そのものだけではなく、「次に何が来るのか」という人間の予測から生まれる。
 
 ---
 
-## 27. Rhythm enters the body before the brain.
+## 27. リズムは、脳より先に身体に入ってくる
 
-### Humans don't just listen to sounds, they move
+### 人間は音を聴くだけでなく、動く
 
-Rhythmic features are not processed only by the ear.
+リズムの特徴は、耳だけで処理されるわけではない。
 
-When you listen to music, your body reacts.
+音楽を聴くと、身体が反応する。
 
 Move your head.
 
-Step on your foot.
+足を踏む。
 
-Tap your finger on the desk.
+指で机を叩く。
 
-Walking speed changes.
+歩く速度が変わる。
 
-dance.
+踊る。
 
-These reactions demonstrate the deep relationship between sound and movement.
+こうした反応は、音と運動の深い関係を示している。
 
 Rhythm, in particular, has a temporal structure.
 
-There's a sound.
+音が鳴る。
 
-There is a pause.
+間がある。
 
 The next sound is heard.
 
-Another sound comes.
+さらに次の音が来る。
 
 By anticipating this interval, the body prepares to move.
 
@@ -129,13 +129,13 @@ What is interesting is that the musical beat itself does not exist as an object.
 
 For example, a drum sounds at regular intervals.
 
-We feel the "beat" from there.
+私たちはそこから「拍」を感じる。
 
 However, the beat is not something floating in space.
 
 The human brain constructs sounds based on their temporal relationships.
 
-In other words, listening to music is not just about receiving the sounds coming from outside.
+In other words, listening to music is not just about receiving the sounds that come from outside.
 
 The brain creates a temporal structure.
 
@@ -145,37 +145,37 @@ It is precisely because of this ability that rhythm can be created from a simple
 
 What's even more interesting is that even the moments without sound become part of the music.
 
-sound.
+音。
 
 No sound.
 
 sound.
 
-No sound.
+無音。
 
-When this interval is repeated, it becomes a rhythm.
+この間隔が繰り返されると、リズムになる。
 
-In other words, music is not just made of sound.
+つまり、音楽は音だけでできているわけではない。
 
-The time between sounds is also important.
+音と音の間にある時間も重要だ。
 
-This means that human hearing can handle not only ""existing things" but also ""non-existent time" as structures.
+これは人間の聴覚が「存在するもの」だけでなく、「存在しない時間」も構造として扱えることを意味する。
 
-> Rhythm does not exist within the sounds, but is created by humans organizing the time between sounds.
+> リズムは音の中にあるのではなく、音と音の間にある時間を人間が組織することで生まれる。
 
 ---
 
-## 28. Why does listening to the same rhythm over and over feel good?
+## 28. なぜ同じリズムを何度も聴くと気持ちよくなるのか
 
-### Repetition is widespread in human culture
+### 反復は人間の文化に広く存在する
 
-Music has a lot of repetition.
+音楽には反復が多い。
 
 Rust.
 
-Riff.
+リフ。
 
-beat.
+ビート。
 
 phrase.
 
@@ -183,31 +183,31 @@ baseline.
 
 melody.
 
-The same pattern appears over and over again.
+同じパターンが何度も現れる。
 
 But repetition is not just a feature of music.
 
 It's also in language.
 
-It's also in the story.
+物語にもある。
 
-It's also a ritual.
+儀礼にもある。
 
-It's also found in dance.
+踊りにもある。
 
 It is also found in architecture.
 
-It's also in the pattern.
+模様にもある。
 
-There is a great deal of repetition in human culture.
+人間の文化には、反復が非常に多い。
 
-### Repetition makes learning possible
+### 反復は学習を可能にする
 
 If the same thing is repeated, the brain can learn the pattern.
 
 I didn't understand the rhythm at first, but after listening to it a few times, I started to understand it.
 
-Gradually, you will be able to predict melodies that you couldn't memorize at first.
+最初は覚えられなかったメロディーを、次第に予測できるようになる。
 
 When listeners become able to predict, they also notice small changes.
 
@@ -215,31 +215,31 @@ In other words, repetition not only creates monotony.
 
 Change has meaning because of repetition.
 
-### Children like repetition
+### 子どもは繰り返しを好む
 
 Children's songs have a lot of repetition.
 
-Same word.
+同じ言葉。
 
 Same melody.
 
-Same rhythm.
+同じリズム。
 
 This is also important for learning.
 
-Children learn sound patterns through repetition.
+子どもは繰り返しを通じて、音のパターンを学ぶ。
 
-And you"ll be able to predict what you"ve heard many times.
+そして、何度も聞いたものを予測できるようになる。
 
-At this point, music is not just entertainment.
+このとき、音楽は単なる娯楽ではない。
 
 Create an environment that supports memory and learning.
 
-However, this does not prove that ""music evolved for children's learning''.
+ただし、これは「音楽は子どもの学習のために進化した」という証明ではない。
 
 Rather, it means that the human learning ability and the repetitive nature of music are highly compatible.
 
-> Repetition does not make music simple. Repetition allows humans to detect small differences.
+> 繰り返しは音楽を単純にするのではない。繰り返しがあるから、人間は小さな違いを発見できる。
 
 ---
 
@@ -253,11 +253,11 @@ Sometimes I remember a song I heard decades ago the moment I hear it for the fir
 
 Sometimes I even remember the lyrics.
 
-Sometimes you can tell the name of a song just from the intro.
+イントロだけで曲名が分かることもある。
 
-This is thought to be because music organizes multiple pieces of information simultaneously.
+これは、音楽が複数の情報を同時に組織するからだと考えられる。
 
-The pitch of the sound.
+音の高さ。
 
 rhythm.
 
@@ -277,13 +277,13 @@ personal experience.
 
 These may be linked into one memory network.
 
-### Music compresses time
+### 音楽は時間を圧縮する
 
-When you look at a photo, visual information from that moment comes back to you.
+写真を見ると、その瞬間の視覚情報が戻ってくる。
 
-However, music contains time itself.
+しかし音楽は、時間そのものを含んでいる。
 
-the beginning of the song.
+曲の最初。
 
 Expand.
 
@@ -293,15 +293,15 @@ end.
 
 Therefore, listening to a song can bring back memories from a certain period of time all at once.
 
-The music I listened to in high school.
+高校時代に聴いていた音楽。
 
 The first record I bought.
 
 A song that was playing in a certain place.
 
-Music you listened to with someone.
+誰かと一緒に聴いた音楽。
 
-These memories are not just memories of sounds.
+こうした記憶は、単なる音の記憶ではない。
 
 Music is connected to time in an individual's life.
 
@@ -309,37 +309,37 @@ Music is connected to time in an individual's life.
 
 This is not limited to individuals.
 
-Music also preserves social memory.
+音楽は社会の記憶も保存する。
 
 A song from a certain era.
 
 A folk song from a certain region.
 
-religious song.
+宗教的な歌。
 
 political movement song.
 
 Labor song.
 
-funeral music.
+葬儀の音楽。
 
 festive music.
 
-These are not just sound works.
+これらは、単なる音響作品ではない。
 
 It is tied to events and values ​​experienced by society.
 
-Even in cultures where no written language remains, music and songs can support memories between generations.
+文字が残っていない文化でも、音楽や歌が世代間の記憶を支えることがある。
 
 However, its specific form differs from culture to culture.
 
-> Music can be a way not only to explain the past, but also to replay it in the body.
+> Music can be a way not only to explain the past, but also to replay the past in the body.
 
 ---
 
-## 30. Why does the body move according to the rhythm?
+## 30. なぜリズムに合わせて身体が動くのか
 
-### The border between sound and movement is thin
+### 音と運動の境界は薄い
 
 When humans listen to sound, they do not remain completely still.
 
@@ -347,27 +347,27 @@ Minor physical movements may occur.
 
 Move your head.
 
-Move your fingers.
+指を動かす。
 
-Move your legs.
+足を動かす。
 
 Shake your body.
 
-This shows that there is a close relationship between music and exercise.
+これは音楽と運動の間に密接な関係があることを示している。
 
-The brain contains networks that link auditory information and motor control.
+脳には、聴覚情報と運動制御を結びつけるネットワークが存在する。
 
-Move while listening to the sound.
+音を聴きながら動く。
 
 Make sounds while moving.
 
-These two are a natural combination for humans.
+この二つは人間にとって自然な組み合わせになっている。
 
 ### When you make the sound yourself, it becomes even stronger
 
-When your own body produces sound, the relationship becomes even more direct.
+自分の身体が音を生み出す場合、その関係はさらに直接的になる。
 
-Clap your hands.
+手を叩く。
 
 Step on your foot.
 
@@ -385,10 +385,10 @@ This is a kind of feedback.
 
 <div class="mermaid">
 flowchart LR
-    A["Body movement"] --> B["There's a sound"]
+    A["身体の動き"] --> B["There's a sound"]
     B --> C["Hearing"]
     C --> D["The brain recognizes temporal patterns"]
-    D --> E["Predict the next move"]
+    D --> E["次の動きを予測"]
     E --> A
 </div>
 
@@ -396,17 +396,17 @@ This loop is also one of the basic structures of musical performance.
 
 ### It gets even more complicated in groups.
 
-When you create a rhythm by yourself, you only need to adjust your own movements.
+一人でリズムを作る場合、自分の動きだけを調整すればいい。
 
-When there are two people, it is necessary to match the timing with the other person.
+二人になると、相手とのタイミングを合わせる必要がある。
 
-If there are ten people, things get even more complicated.
+十人なら、さらに複雑になる。
 
-When hundreds of people listen to the same music, they share the same temporal structure, even if they don't actually move in the same way.
+数百人が同じ音楽を聴いている場合、実際に同じ動きをするわけではなくても、同じ時間構造を共有することになる。
 
 This is where the social power of music lies.
 
-> Music connects hearing and movement, and also connects one's body with the bodies of others.
+> 音楽は、聴覚と運動をつなぎ、さらに一人の身体と他者の身体をつなぐ。
 
 ---
 
@@ -418,13 +418,13 @@ When multiple people move to the same rhythm, it is called "synchronization."
 
 This is extremely important in human musical behavior.
 
-applause.
+拍手。
 
 Chorus.
 
-dance.
+ダンス。
 
-march.
+行進。
 
 Group performance.
 
@@ -432,107 +432,107 @@ All of these require some degree of synchronization.
 
 Humans can adjust the timing of their movements while listening to sounds.
 
-This is not a simple reflex.
+これは単純な反射ではない。
 
-It requires recognizing sound patterns, predicting the next timing, and moving the body.
+音のパターンを認識し、次のタイミングを予測し、身体を動かす必要がある。
 
-### Sound makes it easier to sync
+### 音があると、同期しやすい
 
 Multiple people can move simultaneously using just vision.
 
 However, sound has strong characteristics that support synchronization.
 
-The sound is clear in time.
+音は時間的に明確だ。
 
-One beat of the drum.
+ドラムの一打。
 
 applause.
 
 footsteps.
 
-shout.
+掛け声。
 
-These clarify the timing of "now."
+これらは「今」というタイミングを明確にする。
 
 Therefore, sound can be used as a means to organize collective action.
 
-### Collaborative synchronization has social meaning
+### 共同同期には社会的意味がある
 
 When we move at the same time, individual actions become collective actions.
 
-One person's applause is just a sound.
+一人の拍手は単なる音だ。
 
-The applause of a thousand people becomes a collective phenomenon.
+千人の拍手は集団の現象になる。
 
 One person's singing voice is a voice.
 
 A chorus of 1,000 people has a different sound.
 
-Here, a phenomenon arises that is not simply the sum of individual abilities.
+ここでは、個人の能力を足し合わせただけではない現象が生まれる。
 
-The group itself has a rhythm.
+集団そのものが一つのリズムを持つ。
 
-This may have been an important feature in the creation of large human communities.
+これは、人間が巨大な共同体を作るうえでも重要な特徴になった可能性がある。
 
-> Synchronization temporarily transforms individuals into a group by placing multiple people within the same temporal structure.
+> 同期は、複数の人間を同じ時間構造の中に置くことで、個人を一時的に集団へ変える。
 
 ---
 
-## 32. Music and reward system
+## 32. 音楽と報酬系
 
-### Why do you want to listen to it again?
+### なぜ「もう一度聴きたい」と思うのか
 
 Music can be accompanied by strong pleasure.
 
 Listen to your favorite songs.
 
-Your favorite phrase will come.
+お気に入りのフレーズが来る。
 
-The chorus begins.
+サビが始まる。
 
-The development I had been looking forward to has arrived.
+期待していた展開が訪れる。
 
-Strong emotions arise at that moment.
+その瞬間に強い感情が生まれる。
 
-In neuroscience, the nervous system involved in the pleasure and reward caused by music is being studied.
+脳科学では、音楽による快感と報酬に関係する神経系が研究されている。
 
-In particular, the relationship between neurotransmitters such as dopamine and the pleasure caused by music is being studied.
+特に、ドーパミンなどの神経伝達物質と音楽による快感との関係が研究されている。
 
-The important thing is not to simply think of ""dopamine = pleasure.''
+重要なのは、単純に「ドーパミン＝快楽」と考えないことだ。
 
-Dopamine is involved in multiple functions, including reward prediction and motivation.
+ドーパミンは報酬予測や動機づけなど、複数の機能に関係している。
 
 ### Linking predictions and rewards
 
-In music, expectations are important.
+音楽では、期待が重要だ。
 
-If you know the song, you can predict what will happen next.
+知っている曲なら、次の展開が予想できる。
 
-But it's not exactly the same.
+しかし完全には同じではない。
 
-It changes just a little.
+少しだけ変化する。
 
-When the change matches or moderately violates expectations, strong reactions can occur.
+その変化が期待と一致したり、適度に裏切ったりすると、強い反応が生まれることがある。
 
 This is being studied as one of the reasons why music's ""prediction and surprise'' are related to pleasure.
 
-### That's why unknown music is also interesting
+### だから未知の音楽も面白い
 
-If humans only liked sounds that were completely predictable, it would be difficult to create new music.
+もし人間が完全に予測できる音だけを好むなら、新しい音楽は生まれにくい。
 
 But in reality, humans search for new music.
 
 A new genre.
 
-new artist.
+新しいアーティスト。
 
 new rhythm.
 
-A new tone.
+新しい音色。
 
 new structure.
 
-There is a possibility that ""newness within the scope of understanding'' is relevant here.
+ここには、「理解できる範囲の新しさ」が関係する可能性がある。
 
 It's not complete chaos, but some pattern exists.
 
@@ -544,63 +544,63 @@ This combination makes it possible to learn unknown music.
 
 ---
 
-## 33. Why music has "tension" and "release"
+## 33. 音楽に「緊張」と「解放」がある理由
 
-### The human brain is sensitive to changes in sound
+### 人間の脳は音の変化に敏感である
 
-Music has tension and release.
+音楽には緊張と解放がある。
 
 The sound gets louder.
 
 The dissonant sound continues.
 
-The rhythm becomes stronger.
+リズムが強くなる。
 
-The volume increases.
+音量が上がる。
 
-And suddenly, it calms down.
+そして突然、落ち着く。
 
 This is sometimes expressed as "tension and release."
 
-Of course, not all music uses this structure.
+もちろん、すべての音楽がこの構造を使うわけではない。
 
-However, mechanisms for creating and changing expectations can be found in many musical cultures.
+しかし、多くの音楽文化で、期待を作り、それを変化させる仕組みが見られる。
 
-### Music uses "time"
+### 音楽は「時間」を利用する
 
-In visual art, a picture can be seen as a whole.
+視覚芸術では、一枚の絵を全体として見ることができる。
 
-Music can only exist within time.
+音楽は時間の中でしか存在できない。
 
-When you hear the first note, the end of the song doesn't exist yet.
+最初の音を聴いたとき、曲の最後はまだ存在しない。
 
 However, the brain predicts the future while remembering past sounds.
 
-That's why music has a sense of "waiting."
+だから、音楽には「待つ」という感覚がある。
 
 Wait for the next sound.
 
-Wait for the next beat.
+次の拍を待つ。
 
 Wait for the chorus.
 
-Wait for the end.
+終止を待つ。
 
-This structure of "waiting" is what makes music special.
+この「待つ」という構造が、音楽を特別なものにしている。
 
-### When predictions are wrong, attention is turned.
+### 予測が外れると、注意が向く
 
 Sudden changes attract attention.
 
 A loud sound plays in the middle of quiet music.
 
-The constant beat suddenly stops.
+一定のビートが突然止まる。
 
 The melody goes in an unexpected direction.
 
-These change the listener's expectations.
+これらは聴き手の予測を変更させる。
 
-Musicians learn this system culturally and use it consciously.
+音楽家は、この仕組みを文化的に学習し、意識的に利用する。
 
 However, underlying this is the human brain's ability to predict temporal patterns.
 
@@ -608,29 +608,29 @@ However, underlying this is the human brain's ability to predict temporal patter
 
 ---
 
-## 34. Is music "universal"?
+## 34. 音楽は「普遍的」なのか
 
 ### Does every human society have music?
 
-When talking about music, it is sometimes said that ""music is something that all humankind has in common.''
+音楽について語るとき、「音楽は人類共通のものだ」と言われることがある。
 
-In a broader sense, singing, dancing, musical instruments, rhythm, or similar acoustic behavior exists in almost all human societies.
+大きな意味では、人間社会のほぼすべてに、歌、踊り、楽器、リズム、あるいはそれに近い音響的行動が存在する。
 
 However, it is not appropriate to think that ""there is a category of music in all cultures around the world that has the same meaning as Western music.''
 
-In some cultures, music, dance, rituals, stories, religion, etc. are not separated.
+音楽、踊り、儀礼、物語、宗教などが分離されていない文化もある。
 
-In other words, it is more accurate to think that what is universal is not the specific concept of ""music'' but the tendency of humans to organize sounds and use them for social and cultural activities.
+つまり、普遍的なのは特定の「音楽」という概念ではなく、人間が音を組織して社会的・文化的活動に利用する傾向だと考えるほうが正確だ。
 
 ### Music varies greatly depending on culture
 
 The scale is different.
 
-The rhythm is also different.
+リズムも違う。
 
 The instruments are also different.
 
-The way they play is also different.
+演奏方法も違う。
 
 What we consider "good music" also differs.
 
@@ -640,248 +640,248 @@ Some cultures have complex political rhythms.
 
 There is also music that emphasizes timbre rather than pitch.
 
-There is also a tradition that emphasizes improvisation.
+即興を重視する伝統もある。
 
-This diversity shows that music is not a simple biological program.
+この多様性は、音楽が単純な生物学的プログラムではないことを示している。
 
 ### Biology and culture are not in conflict
 
 The important thing here is to avoid binary choices between ""biological" and ""cultural."
 
-Humans have the ability to hear sounds, perceive time, move their bodies, and learn patterns.
+人間には音を聴き、時間を認識し、身体を動かし、パターンを学習する能力がある。
 
 How this ability is used varies by culture.
 
-In other words,
+つまり、
 
 <div class="mermaid">
 flowchart TD
-    A["Human body/brain"] --> B["Ability to recognize sounds"]
-    B --> C["Time, Pattern, Prediction"]
-    C --> D["Cultural learning"]
+    A["Human body/brain"] --> B["音を認識する能力"]
+    B --> C["時間・パターン・予測"]
+    C --> D["文化的学習"]
     D --> E["musical tradition"]
-    E --> F["New music"]
+    E --> F["新しい音楽"]
     F --> D
 </div>
 
 It can be thought of as a cycle.
 
-Biology creates possibilities, and culture expands them in countless directions.
+生物学が可能性を作り、文化がその可能性を無数の方向へ広げる。
 
-Music is born from the combination of both.
+音楽は、その両方が重なって生まれる。
 
-> The human brain makes music possible, and culture infinitely changes that music.
+> 人間の脳が音楽を可能にし、文化がその音楽を無限に変える。
 
 ---
 
-## 35. Do animals have music too?
+## 35. 動物にも音楽はあるのか
 
-### Thinking from bird songs
+### 鳥の歌から考える
 
 Animals other than humans also have complex vocal behaviors.
 
-Bird songs are a prime example.
+鳥の歌は代表的な例だ。
 
-Birds learn, repeat, and change specific patterns.
+鳥は特定のパターンを学習し、繰り返し、変化させる。
 
-In some bird species, the process by which young birds learn adult songs has been studied.
+一部の鳥類では、幼鳥が成鳥の歌を学習する過程が研究されている。
 
-This is not exactly the same as human musical culture.
+これは人間の音楽文化と完全に同じではない。
 
-However, it is interesting in that complex speech patterns can be transmitted through learning.
+しかし、「複雑な音声パターンが学習によって伝わる」という点では興味深い。
 
-### Whale vocalizations
+### クジラの発声
 
-Cetaceans also have complex vocalizations.
+クジラ類にも複雑な発声がある。
 
-The songs of humpback whales in particular have been studied for a long time.
+特にザトウクジラの歌は長く研究されてきた。
 
-Songs have a repeating structure and are known to change within a population.
+歌には繰り返される構造があり、個体群の中で変化することも知られている。
 
-These studies show that complex vocal cultures are not just a human phenomenon.
+こうした研究は、複雑な音声文化が人間だけの現象ではないことを示す。
 
-However, you need to be careful here as well.
+しかし、ここでも注意が必要だ。
 
-The complex vocalizations of animals cannot be treated as the same thing as human "music."
+動物の複雑な発声を、そのまま人間の「音楽」と同じものとして扱うことはできない。
 
-### The uniqueness of humans lies in the "accumulation of culture"
+### 人間の特殊性は「文化の累積」にある
 
-A particularly important characteristic of humans is that culture accumulates over generations.
+人間の特徴として特に重要なのは、文化が世代を超えて累積することだ。
 
-One person creates new technology.
+一人の人間が新しい技術を作る。
 
-Others learn.
+他の人が学ぶ。
 
-improve it.
+それを改良する。
 
-Another generation will improve it.
+さらに別の世代が改良する。
 
-The result is a culture of greater complexity than existed in the original individual.
+その結果、元の個体には存在しなかったほど複雑な文化が形成される。
 
-The same goes for music.
+音楽も同じだ。
 
-One rhythm.
+一つのリズム。
 
-One instrument.
+一つの楽器。
 
-one song.
+一つの歌。
 
-It changes over generations.
+それが世代を越えて変化する。
 
-The end result is a huge musical system.
+最終的には、巨大な音楽体系になる。
 
-This is related to an important human characteristic called ""cultural accumulation.''
+これは「文化的累積」と呼ばれる人間の重要な特徴と関係している。
 
-> What makes human music special is not just the ability to produce sound, but the ability to accumulate a sonic culture across generations.
+> 人間の音楽を特別なものにしているのは、音を出す能力だけではなく、音の文化を世代を超えて累積できる能力である。
 
 ---
 
-## 36. If music wasn"t necessary for survival, why didn"t it disappear?
+## 36. もし音楽が生存に必要なかったなら、なぜ消えなかったのか
 
-### The question of "adaptation or by-product"
+### 「適応か副産物か」という問題
 
-Broadly speaking, there are multiple ways of thinking about the evolution of music.
+音楽の進化については、大きく分けて複数の考え方がある。
 
-The idea that music itself has an adaptive function.
+音楽そのものが適応的な機能を持ったという考え。
 
-The idea that music arose as a byproduct of other abilities, such as language, movement, hearing, and social cognition.
+言語、運動、聴覚、社会認知など、別の能力の副産物として音楽が生まれたという考え。
 
-The idea that it developed as a result of a combination of multiple abilities.
+複数の能力が組み合わさった結果として発展したという考え。
 
-Research debates regarding these issues continue.
+これらについて研究上の議論は続いている。
 
-There is no one definitive answer.
+決定的な一つの答えはない。
 
-### However, the "indelibility" of music is important.
+### しかし、音楽の「消えなさ」は重要だ
 
-If music was a completely meaningless activity, why did it persist for so long in human society?
+もし音楽が完全に無意味な行動だったなら、なぜ人間社会でこれほど長く維持されたのか。
 
-Of course, ""existing for a long time'' alone cannot prove biological adaptability.
+もちろん、「長く存在している」ことだけで生物学的な適応性を証明することはできない。
 
-Some cultures persist even when they have no direct survival advantage.
+文化には、直接的な生存上の利点がなくても残るものがある。
 
-But the music
+しかし音楽が、
 
-* Parent-child relationship
-* Collective synchronization
-* Social cohesion
-* memory
-* Ceremony
+* 親子関係
+* 集団同期
+* 社会的結束
+* 記憶
+* 儀礼
 * Emotional expression
-* Entertainment
-* Identity
+* 娯楽
+* アイデンティティ
 
-It is important that the company is involved in many areas such as this.
+など、多くの領域に入り込んでいることは重要だ。
 
-In other words, music is not a culture that depends on one function.
+つまり、音楽は一つの機能に依存している文化ではない。
 
-### Possibility of survival due to multi-functionality
+### 多機能だから生き残った可能性
 
-If music can be used in a variety of situations, even if one use is lost, another remains.
+音楽がさまざまな場面で利用できるなら、一つの用途が失われても別の用途が残る。
 
-Even if the form of hunting changes, the songs remain.
+狩猟の形式が変わっても歌は残る。
 
-Even if agriculture changes, festivals will remain.
+農業が変わっても祭りは残る。
 
-Even if religion changes, music will remain.
+宗教が変わっても音楽は残る。
 
-Even if the media changes, the song will remain.
+メディアが変わっても歌は残る。
 
-Even with the advent of recording technology, live performance remains.
+録音技術が登場してもライブ演奏は残る。
 
-Even with the advent of streaming, humans still perform.
+ストリーミングが登場しても人間は演奏する。
 
-This flexibility may be the strength of music.
+この柔軟性こそが、音楽の強さなのかもしれない。
 
->Music was not a tool for one task, but a cultural ability that could be used to enter into various tasks in human society.
+> 音楽は一つの仕事をする道具ではなく、人間社会のさまざまな仕事に入り込める文化的な能力だった。
 
 ---
 
-## 37. Music goes well with "human prediction machines"
+## 37. 音楽は「人間の予測機械」と相性がいい
 
-### The brain does not view the world completely passively.
+### 脳は世界を完全に受け身で見ていない
 
-The human brain does not just receive information from the outside world.
+人間の脳は、外界から入ってくる情報をただ受け取るだけではない。
 
-Use past experience to predict what will happen next.
+過去の経験を利用して、次に起こることを予測する。
 
-This also happens visually.
+これは視覚でも起こる。
 
-It also happens with language.
+言語でも起こる。
 
 It also happens with exercise.
 
-It happens with music too.
+音楽でも起こる。
 
-Music takes this predictive power to an extreme.
+音楽は、この予測能力を極端に利用する。
 
-Guess the tempo from the first few beats.
+最初の数拍でテンポを推測する。
 
 Guess the key or tonality.
 
-Predict the direction of the melody.
+メロディーの方向を予測する。
 
 Predict the period of the rhythm.
 
-Memorize the structure of a song.
+曲の構造を覚える。
 
-Then compare the predicted and actual sounds.
+そして、予測と実際の音を比較する。
 
-### Between "I understand" and "I"m surprised"
+### 「分かる」と「驚く」の間
 
-What makes music interesting is neither complete prediction nor complete surprise.
+音楽の面白さは、完全な予測でも完全な驚きでもない。
 
-I"m thinking, "This is what"s next."
+「次にこれが来る」と思っている。
 
-But it's a little different.
+でも、少し違う。
 
-This difference becomes important.
+この差が重要になる。
 
-For example, in a pop song, you can predict the chorus.
+例えば、ポップソングではサビが来ることを予測できる。
 
 However, if the sound stops for a moment just before the chorus, the actual chorus may feel even stronger.
 
-Jazz involves improvisational changes on top of predictable rhythms.
+ジャズでは、予測できるリズムの上に即興的な変化を加える。
 
-In electronic music, subtle changes are made within repeating beats.
+電子音楽では、反復するビートの中に微細な変化を入れる。
 
-Experimental music can sometimes destroy predictions themselves.
+実験音楽では、予測そのものを壊すこともある。
 
 Still, the listener tries to understand the broken rules.
 
-### The history of music is also the history of "manipulating predictions"
+### 音楽史は「予測の操作」の歴史でもある
 
-Looking at music history from this perspective is very interesting.
+この視点から音楽史を見ると、非常に面白い。
 
-classical music.
+クラシック音楽。
 
 jazz.
 
-rock.
+ロック。
 
-hip hop.
+ヒップホップ。
 
-Techno.
+テクノ。
 
-Ambient.
+アンビエント。
 
-noise.
+ノイズ。
 
-Amapiano.
+アマピアノ。
 
-Each manipulates the listener's expectations in a different way.
+それぞれが、異なる方法で聴き手の期待を操作する。
 
-The creation of a genre also means that listeners learn certain rules.
+ジャンルが生まれるということは、聴き手が一定の規則を学習することでもある。
 
-Follow that rule.
+その規則を守る。
 
-Change it a little.
+少し変える。
 
-Change it to the extreme.
+極端に変える。
 
-and create new rules.
+そして新しい規則を作る。
 
-The history of music can also be read as a history of such "expectations and changes."
+音楽の歴史は、こうした「期待と変化」の歴史としても読むことができる。
 
 > New music doesn't come out of thin air, but rather by changing existing expectations.
 
@@ -891,139 +891,139 @@ The history of music can also be read as a history of such "expectations and cha
 
 ### What does the brain do when there is no sound?
 
-When we think about music, we tend to focus on the sound itself.
+音楽について考えるとき、音そのものに注目しがちだ。
 
-But silence is also important.
+しかし、無音も重要だ。
 
 When the sound stops in the middle of music, the listener may feel that ""something is happening.''
 
-A loud sound comes after a quiet part.
+静かな部分の後に大きな音が来る。
 
-The rhythm stops.
+リズムが止まる。
 
-The voice disappears.
+声が消える。
 
-At that moment, attention is heightened.
+その瞬間、注意が高まる。
 
-This is not because the sound has disappeared.
+これは、音がなくなったからではない。
 
-This is because the brain recognizes that the sound that is supposed to be there is not there.
+「本来あるはずの音がない」と脳が認識するからだ。
 
-### "Sounds that don"t exist" created by predictions
+### 予測が作る「存在しない音」
 
-If you keep listening to a certain beat, you can predict the next beat.
+一定のビートを聴き続けていると、次の拍を予測する。
 
-That's where the beat goes.
+そこでビートが抜ける。
 
-There's actually no sound.
+実際には音が鳴っていない。
 
-However, the listener may feel the position.
+しかし、聴き手はその位置を感じることがある。
 
-This is a very important phenomenon in music.
+これは音楽の非常に重要な現象だ。
 
-Musicians create rhythm not only by making sounds, but also by not making sounds.
+音楽家は、音を鳴らすだけでなく、鳴らさないことによってリズムを作る。
 
-### There is also a connection with prehistory here.
+### ここにも先史時代との接点がある
 
-Humans' ability to understand rhythm did not originate solely from modern music theory.
+人間がリズムを理解する能力は、現代の音楽理論だけで生まれたものではない。
 
-walk.
+歩く。
 
-run.
+走る。
 
-Breathe.
+呼吸する。
 
-Move with others.
+他者と動く。
 
-Listen to the sound.
+音を聴く。
 
-Through these experiences, humans have learned the patterns of time.
+こうした経験の中で、人間は時間のパターンを学んできた。
 
-This ability was later used for complex musical structures.
+その能力が、後に複雑な音楽構造に利用された。
 
-In other words, behind today's complex rhythms lies a very ancient ""body that predicts time.''
+つまり、現代の複雑なリズムの背後には、非常に古い「時間を予測する身体」が存在する。
 
-> Music is not an art of arranging sounds. It is also an art that allows us to predict both where the sound will come and where it will not come.
+> 音楽は音を並べる芸術ではない。音が来る場所と、来ない場所の両方を予測させる芸術でもある。
 
 ---
 
-## 39. Music changes people's sense of time
+## 39. 音楽は人間の時間感覚を変える
 
 ### A few minutes of music becomes an "event"
 
-When listening to music, several minutes can sometimes feel like a single whole.
+音楽を聴いていると、数分間が一つのまとまりとして感じられることがある。
 
-Intro.
+イントロ。
 
-Expand.
+展開。
 
 repetition.
 
-climax.
+クライマックス。
 
-end.
+終わり。
 
-This is because humans structure their time.
+これは、人間が時間を構造化しているからだ。
 
-Clock time flows evenly.
+時計の時間は均一に流れる。
 
-However, the time experienced is not uniform.
+しかし、経験される時間は均一ではない。
 
 Bored time feels like a long time.
 
 My concentration time feels short.
 
-In music, time itself becomes structured.
+音楽の中では、時間そのものが構造化される。
 
-### Tempo changes the body's time
+### テンポが身体の時間を変える
 
-Listening to fast music can make your body move faster.
+速い音楽を聴けば、身体の動きも速くなることがある。
 
-Slow music can also slow down your movements.
+遅い音楽では、動きも落ち着くことがある。
 
 Of course, not everyone will react the same way.
 
-There are also cultural and individual differences.
+文化や個人差もある。
 
-Still, it has been widely studied that musical tempo influences people's sense of time and movement.
+それでも、音楽のテンポが人間の時間感覚や運動に影響することは広く研究されている。
 
 ### Unite group time
 
-It"s not just the individual"s sense of time.
+個人の時間感覚だけではない。
 
-When listening to music in a group, multiple people share the same temporal structure.
+集団で音楽を聴けば、複数の人間が同じ時間構造を共有する。
 
-"It"s exciting here."
+「ここで盛り上がる」
 
-"Stop here."
+「ここで止まる」
 
-"Here comes the chorus."
+「ここでサビに入る」
 
 People who know the same song can predict the same moment.
 
 This creates a strong communal experience at live performances, festivals, clubs, concerts, ceremonies, etc.
 
-> Music gives humans the feeling of ""sharing the same time.''
+> 音楽は、人間に「同じ時間を共有している」という感覚を与える。
 
 ---
 
 ## 40. Why music did not disappear from human society
 
-### Music is not limited to one function
+### 音楽は一つの機能に閉じていない
 
 To summarize the discussion so far, music has multiple layers.
 
-First, there is the body.
+まず身体がある。
 
-Listen to the sound.
+音を聴く。
 
-Recognize time.
+時間を認識する。
 
 Move.
 
-Next is the brain.
+次に脳がある。
 
-Learn patterns.
+パターンを学習する。
 
 Predict.
 
@@ -1031,13 +1031,13 @@ Remember.
 
 Process emotions.
 
-And then there is society.
+そして社会がある。
 
-Synchronize with others.
+他者と同期する。
 
-Share the song.
+歌を共有する。
 
-perform a ritual.
+儀礼を行う。
 
 Convey memories.
 
@@ -1068,27 +1068,27 @@ flowchart TD
     I --> C
 ```
 
-This cycle shows why it is difficult to explain music in terms of just one evolutionary purpose.
+この循環を見ると、音楽を一つの進化的目的だけで説明することが難しい理由が分かる。
 
 Music utilizes multiple human abilities simultaneously.
 
-### And culture continues to create new music
+### そして、文化が新しい音楽を作り続ける
 
-Once a musical culture is established, it itself creates the next music.
+一度音楽的文化が成立すると、それ自体が次の音楽を生み出す。
 
-New generations learn the music of the past.
+新しい世代は、過去の音楽を学ぶ。
 
-But don't copy it completely.
+しかし完全にはコピーしない。
 
-Change it a little.
+少し変える。
 
 Combine with another culture.
 
-Use a new instrument.
+新しい楽器を使う。
 
-Adapt to new social environment.
+新しい社会環境に適応する。
 
-Take advantage of new technology.
+新しい技術を利用する。
 
 In this way, music changes so that it reproduces itself.
 
@@ -1100,13 +1100,13 @@ However, we can see a process of ""mutation, inheritance, and selection'' that i
 
 A song becomes popular.
 
-Other songs are forgettable.
+別の曲は忘れられる。
 
 A certain rhythm becomes popular.
 
 Alternative rhythms remain in some areas.
 
-A certain instrument spreads out.
+ある楽器が広がる。
 
 Another instrument disappears.
 
@@ -1114,7 +1114,7 @@ This choice depends on many factors, including cultural, economic, technological
 
 Therefore, music history is not just the history of musicians.
 
-It is also the history of the listener.
+聴き手の歴史でもある。
 
 > Music has evolved not only by being created, but also by being listened to, memorized, selected, and changed.
 
@@ -1124,29 +1124,29 @@ It is also the history of the listener.
 
 ### Humans are not the only ones with the ability to hear sounds.
 
-Animals also hear sounds.
+動物も音を聴く。
 
-Animals also make sounds.
+動物も声を出す。
 
-Animals also behave in rhythm.
+動物もリズムを持つ行動をする。
 
-Therefore, music cannot be simply defined as an ability unique to humans.
+だから、音楽を人間だけの能力として単純に定義することはできない。
 
 The uniqueness of humans lies in their ability to culturally accumulate sounds.
 
 Other people memorize patterns created by one person.
 
-The pattern is transmitted to another person.
+そのパターンが別の人間へ伝わる。
 
 Changes across generations.
 
-It will remain even if society changes.
+社会が変わっても残る。
 
 And I consciously quote music from the past.
 
 This ability to ""create new music using the past as material'' is a major characteristic of human culture.
 
-### Music has become a cultural memory device for humans.
+### 音楽は人間の文化的記憶装置になった
 
 In pre-literate societies, there were limited ways to preserve culture.
 
@@ -1154,7 +1154,7 @@ Therefore, a format that is easy to remember is important.
 
 Repetition.
 
-rhythm.
+リズム。
 
 melody.
 
@@ -1166,7 +1166,7 @@ These are easily associated with memories.
 
 Music itself does not store information perfectly.
 
-However, musical structures can support human memory.
+しかし、音楽的構造は人間の記憶を支えることができる。
 
 Therefore, songs have been used as a medium to convey stories, history, religion, and community memory.
 
@@ -1176,7 +1176,7 @@ Writing gave another form to this cultural memory.
 
 talk.
 
-sing.
+歌う。
 
 learn by heart.
 
@@ -1186,7 +1186,7 @@ In the world of
 
 write.
 
-read.
+読む。
 
 Save.
 
@@ -1194,9 +1194,9 @@ A new method has been added.
 
 However, even with the advent of writing, music did not disappear.
 
-That"s because music didn"t just store information.
+なぜなら、音楽が提供していたものは情報保存だけではなかったからだ。
 
-Music has a body.
+音楽には身体がある。
 
 I have feelings.
 
@@ -1212,7 +1212,7 @@ And there's time.
 
 ## 42. Conclusion of Part 3: Music is born between the "brain that predicts" and the "body that synchronizes"
 
-The origin of music cannot be explained solely from human history.
+音楽の起源を人類史だけから説明することはできない。
 
 It cannot be explained using language alone.
 
@@ -1232,9 +1232,9 @@ The prediction comes true.
 
 Sometimes we are betrayed.
 
-Then, move your body according to the sound.
+そして、その音に合わせて身体を動かす。
 
-Coordinate movements with others.
+他者と動きを合わせる。
 
 share the same sound.
 
@@ -1242,9 +1242,9 @@ Remember that experience.
 
 Pass it on to the next generation.
 
-Through this repetition, sound becomes not just environmental information, but culture.
+この繰り返しによって、音は単なる環境情報ではなく、文化になる。
 
-Here, the question that has been going on since Part 1 appears in a slightly different form.
+ここで、Part 1から続いてきた問いが少し違った形で見えてくる。
 
 "Why did humans invent music?"
 
@@ -1252,13 +1252,13 @@ For this question, it is impossible to find a single inventor or a single moment
 
 but,
 
-**Humans have the ability to recognize sounds as patterns, predict time, synchronize their bodies, share them with others, and inherit these patterns as culture. **
+**人間には音をパターンとして認識する能力があり、時間を予測し、身体を同期させ、他者と共有し、そのパターンを文化として継承する能力がある。**
 
 This combination made music possible.
 
 And once that ability becomes a culture, music can enter almost every corner of human society.
 
-Parent-child relationship.
+親子関係。
 
 love affair.
 
@@ -1266,11 +1266,11 @@ Ceremony.
 
 religion.
 
-war.
+戦争。
 
 work.
 
-festival.
+祭り。
 
 Funeral.
 
@@ -1290,7 +1290,7 @@ Some songs become sacred.
 
 A certain rhythm becomes a symbol of a nation.
 
-Some songs are associated with political movements.
+ある曲は政治運動と結びつく。
 
 Certain melodies remind me of home.
 
@@ -1304,9 +1304,18 @@ And at that moment, the original question becomes even bigger.
 
 **How ​​did music, which may have existed before writing, become part of religion, mythology, ritual, community, and ultimately civilization? **
 
-To find the answer, we must move from the ""sounds" of prehistoric times to the ""sounds" that create society.
+その答えを探すには、先史時代の「音」から、社会を作る「音」へ進まなければならない。
 
 > Music began with a predictive brain and a moving body, and became a culture through synchronization with others. Music, which became a culture, eventually became one of the ways humans understand the world itself.
 
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BGOaLZ2obMs?si=6u-yL07zhJFloC6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

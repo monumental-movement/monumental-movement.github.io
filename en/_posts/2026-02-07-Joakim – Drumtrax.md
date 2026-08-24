@@ -15,11 +15,11 @@ title: Joakim – Drumtrax
 
 
 
-Joakim is a French DJ/producer and head of the label Tigersushi. He is also active under the names Cray76, Jimi Bazzouka, Joakim Lone Octet, and T.B.S.
+Joakim（ジョアキム）は、フランスのDJ／プロデューサー、レーベルTigersushiの主宰。Cray76、Jimi Bazzouka、Joakim Lone Octet、T.B.S.名義でも活動している。
 
-"Drumtrax" is an Acid House/Electro/Deep House track released in 2006 on DJ Gilb"R"s label Versatile Records.
+「Drumtrax」は、DJ Gilb'RのレーベルVersatile Recordsから2006年にリリースされたAcid House／Electro／Deep Houseトラック。
 
-B1 is a remix by Berlin-based producer/DJ Radio Slave (Matt Edwards).
+B1は、ベルリンを拠点に活動するプロデューサー／DJ、Radio Slave（レディオ・スレイヴ／Matt Edwards）によるリミックス。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ A2. Drumtrax Beats
 B1. Drumtrax (Radioslave Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m96046197354?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96046197354?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QA3j8hm_BMM?si=ZTq8aGOeFf2XggEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

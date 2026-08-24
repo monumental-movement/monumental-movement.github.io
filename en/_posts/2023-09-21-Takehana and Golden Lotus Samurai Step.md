@@ -12,11 +12,11 @@ title: Takehana and Golden Lotus - Samurai Step
 ---
 
 
-"Samurai Step" is a track co-produced by Japanese producer Takehana and American producer/DJ Golden Lotus.
+「Samurai Step」は、日本のプロデューサー であるTakehana （タケハナ）とアメリカのプロデューサー/DJのGolden Lotus（ゴールデン・ロータス）が共同制作したトラックです。
 
-Based on bass music, a genre of electronic music, the track combines energetic and dynamic elements such as heavy bass lines, rhythmic drum patterns, effects, and sampling. The melody and sounds reminiscent of traditional Japanese music and samurai culture give the song a distinctive atmosphere.
+エレクトロニックミュージックのジャンルであるベースミュージックを基盤にしたトラックは、重いベースライン、リズミカルなドラムパターン、エフェクト、サンプリングなど、エネルギッシュでダイナミックな要素が組み合わさっています。日本の伝統的な音楽やサムライ文化を彷彿とさせるメロディやサウンドが、曲に特徴的な雰囲気を与えています。
 
-"Samurai Step" is a favorite among electronic music fans and artists. Their music offers new perspectives and musical experiences through a fusion of Japanese culture and the contemporary music scene.
+「Samurai Step」は、エレクトロニックミュージックファンやアーティストにとって人気の作品です。彼らの音楽は、日本の文化や現代の音楽シーンの融合を通じて、新たな視点や音楽体験を提供しています。
 
 #### Tracklist
 ```md
@@ -27,5 +27,5 @@ B1  Cut Up
 B2  Cut Up (Sampling Collage Art)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
 

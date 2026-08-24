@@ -13,9 +13,9 @@ title: Inner Circle – Black Roses
 ---
 
 
-Inner Circle, also known as The Inner Circle Band or The Bad Boys of Reggae, is a Jamaican reggae band formed in Kingston in 1968.
+Inner Circle(インナー・サークル)は、The Inner Circle Bandまたは The Bad Boys of Reggae(バッド・ボーイズ・オブ・レゲエ)としても知られ、1968年にキングストンで結成されたジャマイカのレゲエバンド。
 
-The song "Bad Boys" included in this CD became a worldwide hit and is also famous as the theme song for the American TV program COPS.
+このCDに収録されている「Bad Boys(バッド・ボーイズ)」は世界的なヒットとなり、アメリカのテレビ番組COPS(全米警察24時 コップス)の主題歌としても有名。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ The song "Bad Boys" included in this CD became a worldwide hit and is also famou
 9. Picture On The Wall
 10. Bad Boys
 ```
-[Purchase on Mercari](https://jp.mercari.com/item/m27200283979?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27200283979?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tJzF7VO9oI4?si=UyEPv-UPdBpbUyX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,8 +14,8 @@ title: Unknown Artist – Jim Tonic
 
 A House mix released by a pseudo-label that releases unofficial and bootleg records, involving French DJ/producer/remixer Bob Sinclar.
 
-A is "Gym Tonic" released by Bob Sinclar in 1998.
-B is another version of "Gym and Tonic" released in 1998 by British production duo Spacedust.
+Aは、Bob Sinclarが1998年にリリースした「Gym Tonic」。
+Bは、イギリスのプロダクションデュオSpacedustが1998年にリリースした「Gym and Tonic」の別バージョン。
 
 #### Tracklist
 ```md

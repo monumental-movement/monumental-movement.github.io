@@ -9,120 +9,119 @@ tags:
 - Dubstep
 - 90s
 - 00s
-title: '[Column] The trajectory of Dubstep - an urban soundscape created by heavy
-  bass'
+title: 【コラム】 ダブステップ（Dubstep）の軌跡 ― 重低音が紡ぐ都市のサウンドスケープ
 ---
 
 
-## Go beyond the sense of hearing to shake the body and space and connect listeners with each other
+## 聴覚を超えて身体と空間を揺さぶり、リスナー同士を結びつける
 
 
-Text: mmr｜Theme: The birth and cultural influence of dubstep
-
-<hr>
-
-### The birth of dubstep - from the basements of South London
-
-Dubstep was born in the underground scene of south London in the late 1990s and early 2000s. It is characterized by an aesthetic that can be described as ""bass supremacy"' while drawing on the trends of UK garage, 2-step, jungle, and drum"n'bass.
-
-London at the time was a melting pot of immigrant cultures, with deep roots in reggae, dub, and Jamaican sound system culture.
-
-Dubstep, which was born from this soil, has undergone a unique evolution centered on heavy sub-bass, dark and tight spatiality, and subdivided rhythms.
+文：mmr｜テーマ：ダブステップの誕生と文化的影響
 
 <hr>
 
-### Sound characteristics
+### ダブステップの誕生 ― サウス・ロンドンの地下から
 
-Dubstep is supported by the physical pressure of bass sounds, so much so that it is said to be ""music that you listen to with your body.''
+ダブステップは、1990年代末から2000年代初頭にかけて、ロンドン南部のアンダーグラウンド・シーンで誕生した。UKガラージや2ステップ、ジャングル、ドラムンベースの流れを汲みながら、**「低音至上主義」**とも言える美学を打ち出した点が特徴である。
 
-- **Tempo**: BPM approximately 138-142.
+当時のロンドンは移民文化の坩堝であり、レゲエやダブ、ジャマイカのサウンドシステム文化が深く根付いていた。
 
-- **Rhythm**: Broken beat structure derived from 2-step. The kick is not a four-beat beat, but the snare is emphasized on the third beat.
-
-- **Bass**: Characterized by deep sub-bass, distorted bass line, and so-called "Wobble Bass".
-
-- **Mood**: Dark, minimal or experimental sound design.
-
-Representative early artists include Skream, Benga, Digital Mystikz (Mala & Coki), and Loefah. Their activities revolved around the legendary London club Plastic People.
+この土壌から生まれたダブステップは、重厚なサブベース、暗く引き締まった空間性、細分化されたリズムを核に独自の進化を遂げた。
 
 <hr>
 
-### Media and events that supported the scene
+### サウンドの特徴
 
-- **DMZ**: A club event hosted by Digital Mystikz, a symbol of dubstep.
+ダブステップは**「体で聴く音楽」**と言われるほど、物理的な低音の圧力に支えられている。
 
-- **Rinse FM**: A pirate radio station that promoted the experimental sounds of unknown artists.
+- **テンポ**：BPMはおおよそ138～142。
 
-- **Hatcha's DJ Set**: An important element that defined early dubstep.
+- **リズム**：2ステップ由来のブロークンなビート構造。キックは4つ打ちではなく、スネアが3拍目に強調される。
+
+- **ベース**：深いサブベース、歪んだベースライン、いわゆる「ワブル・ベース（Wobble Bass）」が特徴的。
+
+- **ムード**：ダークでミニマル、あるいは実験的なサウンドデザイン。
+
+代表的な初期アーティストには Skream, Benga, Digital Mystikz (Mala & Coki), Loefah らが挙げられる。彼らの活動は、伝説的なロンドンのクラブ 「Plastic People」 を中心に展開された。
 
 <hr>
 
-### International expansion and transformation
+### シーンを支えたメディアとイベント
 
-From around 2008, dubstep spread beyond the UK underground and spread around the world.
+- **DMZ**：Digital Mystikzが主宰したクラブ・イベントであり、ダブステップの象徴的存在。
+
+- **Rinse FM**：パイレート・ラジオ局として、まだ無名だったアーティストの実験的サウンドを広める場となった。
+
+- **HatchaのDJセット**：初期のダブステップを定義づけた重要な要素。
+
+<hr>
+
+### 国際的な拡大と変容
+
+2008年頃から、ダブステップはUKの地下を超えて世界に広がった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/An45y6fzq6g?si=1BPJGduO5Ohi6MYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- **Break in America**: A more aggressive and flashy ""Brostep'' has appeared, led by Skrillex.
+- **アメリカでのブレイク**：Skrillexを筆頭に、より攻撃的で派手な「ブロステップ（Brostep）」が登場。
 
 
-- **Remix culture**: Dubstep elements were brought into pop, rock, and hip-hop, gaining a wide range of listeners.
+- **リミックス文化**：ポップスやロック、ヒップホップにダブステップの要素が持ち込まれ、幅広いリスナーを獲得した。
 
-- **Diversification**: Evolved from a dark and heavy sound to a melodious and dramatic sound.
-
-<hr>
-
-### Dubstep in Japan
-
-It gradually became popular in Japan in the late 2000s, and Goth-Trad attracted worldwide attention. His sound has undergone a unique evolution, incorporating the context of noise/experimental music while also linking to the London scene.
-Japan's unique dubstep culture was formed through events held at clubs in Shibuya and releases from domestic labels.
+- **多様化**：ダークで重厚な路線から、メロディアスでドラマティックな展開を持つサウンドへと進化。
 
 <hr>
 
-### Cultural influence of dubstep
+### 日本におけるダブステップ
 
-- **Penetration into the EDM scene**: Connected with festival culture and becoming a presence that resonates on the main stage.
-
-- **Re-evaluation of bass music**: Significantly influenced the development of subsequent genres such as trap and future bass.
-
-- **Innovation in sound design**: Production methods that make full use of soft synths and samplers became standardized, and spread throughout modern electronic music.
+日本でも2000年代後半から徐々に浸透し、Goth-Trad が世界的に注目を浴びた。彼のサウンドはロンドンのシーンともリンクしつつ、ノイズ／実験音楽の文脈を取り入れたユニークな進化を遂げている。
+渋谷のクラブを拠点に展開されたイベントや、国内レーベルからのリリースによって、日本独自のダブステップ文化が形成された。
 
 <hr>
 
-### Representative works (published by Monumental Movement)
+### ダブステップの文化的影響
+
+- **EDMシーンへの浸透**：フェス文化と結びつき、メインステージで鳴り響く存在へ。
+
+- **ベース・ミュージックの再評価**：トラップやフューチャーベースなど、後続ジャンルの発展にも大きく影響。
+
+- **サウンドデザインの革新**：ソフトシンセやサンプラーを駆使した制作手法が標準化され、現代エレクトロニック・ミュージック全般に波及。
+
+<hr>
+
+### 代表的な作品（Monumental Movement掲載）
 
 - [**Skrillex – Scary Monsters And Nice Sprites**](https://monumental-movement.jp/Skrillex-Scary-Monsters-And-Nice-Sprites)
 
-→ A monumental work that spread dubstep worldwide.
+→ 世界的にダブステップを拡散させた金字塔的作品。
 
 - [**Zed Bias – Ambush Riddim / Cosmic Minefield**](https://monumental-movement.jp/Zed-Bias-Ambush-Riddim-Cosmic-Minefield)
 
-→ A piece that bridged the gap from garage to dubstep.
+→ ガラージからダブステップへの橋渡しとなった一枚。
 
 - [**Benga & Walsh vs Darqwan – Addicts / Megatection**](https://monumental-movement.jp/Benga-and-Walsh-Vs-Darqwan-Addicts-Megatection)
 
-→ A classic featuring the stalwarts of the UK scene.
+→ UKシーンの重鎮が揃ったクラシック。
 
 - [**Distance – Night Vision Traffic (Remixes)**](https://monumental-movement.jp/Distance-Night-Vision-Traffic-(Remixes))
 
-→ A rich remix album featuring Skream, Goth-Trad and others.
+→ Skream、Goth-Tradらが参加した濃厚リミックス盤。
 
 <hr>
 
-### Soundscapes symbolizing 21st century urban culture
+### 21世紀の都市文化を象徴するサウンドスケープ
 
-More than just a genre, dubstep has become a soundscape emblematic of 21st century urban culture.
+ダブステップは単なる「ジャンル」を超えて、21世紀の都市文化を象徴するサウンドスケープとなった。
 
-The bass vibrations experienced through a club's sound system go beyond the senses of hearing, shaking the body and space, and connecting listeners with each other. Dubstep continues to evolve and will continue to be an exciting musical exploration ground for new generations.
+クラブのサウンドシステムで体感する低音の震動は、聴覚を超えて身体と空間を揺さぶり、リスナー同士を結びつける。現在も進化を続けるダブステップは、今後も新しい世代にとって刺激的な音楽的探求の場であり続けるだろう。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ZdHzysA-g0?si=KNHLYPiuF8HQgKBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -12,11 +12,11 @@ title: DJ Krush FeatACO, Twigy –Tragicomic
 ---
 
 
-DJ Krush is a highly regarded track maker in Japanese hip-hop, trip-hop, and downtempo music genres, known for his unique sound and beat-making skills.
+DJ Krushは、日本のヒップホップ、トリップホップ、ダウンテンポなどの音楽ジャンルで高く評価されるトラックメーカーで、その独自のサウンドとビートメイキングのスキルで知られています。
 
-ACO is one of the singers who has received high praise in Japan and abroad for his soulful and emotional vocal style, and Twigy has gained attention for his rapping skills and career.
+ACOは、ソウルフルで感情的なヴォーカルスタイルで、日本国内外で高い評価を得ているシンガーの一人で、Twigyはラップのスキルとキャリアで注目を浴びています。
 
-"Tragicomic" was released as part of DJ Krush's albums and singles and is enjoyed by trip-hop and electronica enthusiasts.
+「Tragicomic（悲喜）」は、DJ Krushのアルバムやシングルの一部としてリリースされ、トリップホップやエレクトロニカの愛好家によって楽しまれています。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Tragicomic (Beyond Real Mix)
 B2. Tragicomic (Beyond Real Mix Instrumental)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m20863215408?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20863215408?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kr3VgFLPN18?si=RFniddTgjdd7mg4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,23 +10,22 @@ tags:
 - Avant-Garde
 - Experimental
 - Art
-title: '[Column] Anonymity and atypical pop—The anti-music horizon opened up by The
-  Residents'
+title: 【コラム】 匿名性と異形のポップ—The Residentsが切り拓いた反音楽の地平
 ---
 
 
 
 ## Prologue: The concept of unknown identity
 
-Text: mmr｜Theme: The trajectory of an avant-garde group that redefined the very framework of music using anonymity and multimedia as its weapons
+文：mmr｜テーマ：匿名性とマルチメディアを武器に、音楽の枠組みそのものを再定義した前衛集団の軌跡
 
-### Strategy as a Nameless Being
+### 名前なき存在としての戦略
 
-Since their debut in the early 1970s, The Residents have consistently centered their activities on anonymity. The identities of the members are not made public, with only the visual symbols of giant eyeball masks and top hats serving as their "faces." This complete depersonalization was a clear counter to rock's star system, a device that focused attention on the work itself.
+The Residentsは、1970年代初頭に登場して以来、一貫して「匿名性」を核に据えて活動してきた。メンバーの素性は公表されず、巨大な眼球マスクとシルクハットという視覚的記号だけが彼らの“顔”として機能する。この徹底した非人格化は、ロックにおけるスターシステムへの明確なカウンターであり、作品そのものへと注意を集中させる装置だった。
 
-From the beginning of their career, they have treated music, video, performance, and design as inseparable elements, and have transcended the boundaries of being just a band. Their origins are said to be ambiguous, coming from the southern United States, and they are said to have eventually established a base of operations in San Francisco, but even this is just part of the information that has become a myth.
+活動初期から、彼らは音楽と映像、パフォーマンス、デザインを不可分のものとして扱い、単なるバンドという枠を逸脱する存在となる。彼らの拠点とされるのはアメリカ南部出身という曖昧な出自であり、やがてサンフランシスコに活動基盤を築いたとされるが、これすらも神話化された情報の一部に過ぎない。
 
-> Anonymity was not a cover-up, but the most radical way to ensure a thorough focus on the work.
+> 匿名性は隠蔽ではなく、作品中心主義を徹底するための最もラディカルな方法だった。
 
 ---
 
@@ -44,69 +43,69 @@ color: #fff;
 </style>
 
 
-## Initial impulse: DIY and outsider aesthetics
+## 初期衝動：DIYとアウトサイダー美学
 
-### Ralph Records and independent production culture
+### Ralph Recordsと自主制作文化
 
-In the 1970s, they established their own label, Ralph Records, in order to operate outside the major system. What is important here is that they autonomously controlled not only music production but also distribution and packaging.
+1970年代、メジャーシステムの外側で活動するために、彼らは独自レーベル「Ralph Records」を設立した。ここで重要なのは、音楽制作だけでなく流通やパッケージングまで自律的にコントロールした点にある。
 
 One of his masterpieces, Meet the Residents (1974), was a collection of intentionally distorted pop songs that functioned as an attempt to dismantle existing musical grammar. Despite its Beatles-like familiarity, its interior is filled with dissonance and fragmented structure.
 
-Rather than showing off their musical instrument playing skills, they created new sounds through recording techniques, editing, and the handling of noise. This can be said to be a pioneering attitude that will lead to later DIY culture and lo-fi aesthetics.
+彼らは楽器の演奏技術を誇示するのではなく、録音技術や編集、ノイズの扱いによって新しい音響を生み出した。これは後のDIY文化やローファイ美学にも通じる先駆的姿勢といえる。
 
-> Their sound was shaped not by a lack of technology, but by a distrust of existing technology.
+> 技術の不足ではなく、既存技術への不信が彼らの音を形成していた。
 
 ---
 
 ## Work world: concept and deconstruction
 
-### Pop Reconstruction
+### ポップの再構築
 
-From the late 1970s to the 1980s, The Residents progressed towards more conceptual works. In particular, ""Eskimo'' (1979) is an album that combines narrative and sound sculpture, and is located at the intersection of environmental sounds and narrative rather than music.
+1970年代後半から1980年代にかけて、The Residentsはよりコンセプチュアルな作品へと進む。特に『Eskimo』（1979年）は、物語性と音響彫刻を融合させたアルバムであり、音楽というより環境音とナラティブの交差点に位置する。
 
-In ""The Commercial Album'' (1980), he experimented with keeping all 40 songs to about one minute, which included a critique of advertising culture. This was a structure that took advantage of the format of TV commercials at the time, and was also an attempt to expose the consumer nature of pop music.
+また『The Commercial Album』（1980年）では、40曲すべてを約1分に収めるという実験を行い、広告文化への批評を内包した。これは当時のテレビCMのフォーマットを逆手に取った構造であり、ポップミュージックの消費性を露呈させる試みでもあった。
 
-Their works constantly question "form itself." The album unit, song length, and genre boundaries are all subject to manipulation.
+彼らの作品は常に「形式そのもの」を問い直す。アルバムという単位、楽曲の長さ、ジャンルの境界、それらすべてが操作対象となる。
 
-> For them, music was nothing more than a material for dismantling structures.
+> 彼らにとって音楽とは、構造を解体するための素材に過ぎなかった。
 
 ---
 
 ## Visual and physicality
 
-### Meaning of eyeball mask
+### 眼球マスクの意味
 
-The giant eyeball mask that is a symbol of The Residents is not just a novelty, but a device that indicates a reversal of the relationship between "seeing and being seen." The audience watches the performance, but at the same time, they are also stared back at by giant eyes.
+The Residentsの象徴である巨大な眼球マスクは、単なる奇抜さではなく「見る／見られる」関係性の逆転を示す装置である。観客はパフォーマンスを観るが、同時に巨大な目に見返される。
 
-In a live performance, images, lighting, and costumes are closely linked to create a comprehensive piece of art. This is similar to later multimedia art and installation-like ideas.
+ライブパフォーマンスでは、映像、照明、衣装が密接に連動し、総合芸術として構築される。これは後のマルチメディアアートやインスタレーション的発想に近い。
 
 <div class="mermaid">
 flowchart TD
-A[music] --> B[picture]
-B --> C[performance]
-C --> D[physicality]
-D --> E[Audience cognitive transformation]
+A[音楽] --> B[映像]
+B --> C[パフォーマンス]
+C --> D[身体性]
+D --> E[観客の認知変容]
 </div>
 
-> Vision did not reinforce sound, but existed as a layer equivalent to sound.
+> 視覚は音を補強するのではなく、音と同等のレイヤーとして存在していた。
 
 ---
 
-## Relationship with technology
+## テクノロジーとの関係
 
-### Video media and CD-ROM
+### 映像メディアとCD-ROM
 
-From the late 1980s to the 1990s, they actively adopted computer technology. In particular, his CD-ROM work ""Freak Show'' is a pioneering work that provides an interactive experience, and has been praised as media art that goes beyond the boundaries of music.
+1980年代後半から1990年代にかけて、彼らはコンピュータ技術を積極的に取り入れた。特にCD-ROM作品『Freak Show』は、インタラクティブな体験を提供する先駆的作品であり、音楽の枠を超えたメディアアートとして評価される。
 
-During this period, music becomes part of an interface rather than a standalone work. The structure in which the experience changes depending on the user's operations is similar to modern digital art and game-like ideas.
+この時期、音楽は単体の作品ではなく、インターフェースの一部となる。ユーザーの操作によって体験が変化する構造は、現代のデジタルアートやゲーム的発想に通じる。
 
-> Technology is not only a means of expression, but also an element that changes the structure of the work itself.
+> テクノロジーは表現手段であると同時に、作品構造そのものを変える要素となった。
 
 ---
 
-## Chronology: Main movements of The Residents
+## 年表：The Residentsの主な動き
 
-### Flow of activities
+### 活動の流れ
 
 <div class="mermaid">
 timeline
@@ -120,33 +119,33 @@ timeline
     2010 : 長期プロジェクト展開
 </div>
 
-> Consistent change was their only style.
+> 一貫して変化し続けること自体が、彼らの唯一のスタイルだった。
 
 ---
 
-## Impact and positioning
+## 影響と位置づけ
 
-### The intersection of avant-garde and pop
+### 前衛とポップの交差点
 
-The Residents influenced many artists, even though they were not mainstream successes. His influence is far-reaching, especially in experimental music, industrial, noise, and even contemporary electronic music.
+The Residentsは、いわゆるメインストリームの成功とは無縁でありながら、多くのアーティストに影響を与えた。特に実験音楽、インダストリアル、ノイズ、さらには現代の電子音楽において、その影響は広範囲に及ぶ。
 
-Their importance lies in the fact that they do not belong to any particular genre. Rather, it has been praised for its ""attitude to question the very concept of genre.''
+彼らの重要性は、特定のジャンルに属さない点にある。むしろ「ジャンルという概念自体を疑う姿勢」が評価されている。
 
-The strategy of anonymity also influenced later artists, who continue to present the theme of separation between personality and work.
+また、匿名性という戦略は後のアーティストにも影響を与え、人格と作品の分離というテーマを提示し続けている。
 
 > Although they were located on the outside of music history, they definitely changed the internal structure.
 
 ---
 
-## Conclusion: A project that never ends
+## 結語：終わらないプロジェクト
 
-### Anonymous body that keeps changing
+### 変化し続ける匿名体
 
-The Residents have been around for more than half a century, but their essence remains static. We are constantly exploring new forms while incorporating changes in members and technology.
+The Residentsは半世紀以上にわたり活動を続けているが、その本質は固定されていない。メンバーの入れ替わりや技術の変化を取り込みながら、常に新しい形態を模索している。
 
-Their works are not "completed", but exist as a process of constant renewal. This leads to a perspective that sees music not as an object, but as something temporal and relational.
+彼らの作品は「完成されたもの」ではなく、常に更新されるプロセスとして存在する。これは音楽をオブジェクトではなく、時間的・関係的なものとして捉える視点につながる。
 
-> The Residents continues to present not a work of art, but a way of thinking itself.
+> The Residentsは作品ではなく、思考の方法そのものを提示し続けている。
 
 
 ---
@@ -154,7 +153,7 @@ Their works are not "completed", but exist as a process of constant renewal. Thi
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l4TZX1DL1kc?si=rDF1Fpb6FHszSjPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

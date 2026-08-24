@@ -15,34 +15,34 @@ title: '[Column] Meredith Monk──An artist who continued to search for a plac
 ---
 
 
-## Why does voice become music?
+## 声はなぜ音楽になるのか
 
-Text: mmr｜Theme: 60 years of avant-garde artists who continued to search for a "voice" before it became a word
+文：mmr｜テーマ：言葉になる前の「声」を探し続けた前衛芸術家の60年
 
 Looking back at the history of music since the latter half of the 20th century, there are several people who fundamentally reconsidered the very act of singing.
 
 Meredith Monk is unique among them.
 
-She is also sometimes referred to as a singer.
+彼女はシンガーとして語られることもある。
 He is sometimes introduced as a composer.
 Alternatively, he may be described as a choreographer, film director, or performance artist.
 
-But no title is perfect.
+しかし、どの肩書きも完全ではない。
 
-Because what Meredith Monk has been working on is an attempt to expand the framework of music itself.
+Because what Meredith Monk has been working on has been an attempt to expand the framework of music itself.
 
-For many years, she has treated the ""voice'' not as a mere singing technique, but as the most primitive musical instrument possessed by humans.
+For many years, she has treated the ""voice'' as not just a singing technique, but as the most primitive instrument possessed by humans.
 
-laughter.
+笑い声。
 Moaning.
 Whisper.
 Breathing.
 Scream.
-Humming.
+ハミング。
 
-This pushed these elements to the center of the music.
+こうした要素を音楽の中心へと押し上げたのである。
 
-The ideas that are now widely recognized as vocal experiments and extended vocal techniques were extremely heretical when she began her career in the 1960s.
+現在ではボーカル・エクスペリメントや拡張発声法として広く認知されている考え方も、彼女が活動を始めた1960年代には極めて異端だった。
 
 However, it was this unconventional nature that would later have a major influence on contemporary music and performance art.
 
@@ -54,7 +54,7 @@ However, it was this unconventional nature that would later have a major influen
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -65,65 +65,65 @@ color: #fff;
 
 ---
 
-## In the New York avant-garde art scene
+## ニューヨーク前衛芸術シーンの中で
 
 Meredith Monk was born in New York in 1942. As a child, he received Dalcroze rhythmic education as part of treatment for strabismus. He himself says that this educational method, which combines music and physical exercise, became the basis of his later creations.
 
-Graduated from Sarah Lawrence College in 1964.
+1964年に Sarah Lawrence College を卒業。
 
 At the time, art, dance, music, and theater were rapidly beginning to intersect in New York.
 
-John Cage introduced chance,
-Merce Cunningham redefines dance,
-Minimalism was emerging.
+ジョン・ケージが偶然性を導入し、
+マース・カニングハムがダンスを再定義し、
+ミニマリズムが誕生しつつあった。
 
-It was a time when the very boundaries of art were collapsing.
+芸術の境界線そのものが崩れていく時代だった。
 
-In this atmosphere, Monk seeks a unique form of expression that does not belong to existing classical music or Broadway.
+Monk はその空気の中で、既存のクラシック音楽にもブロードウェイにも属さない独自の表現を模索していく。
 
 In 1968, he founded the interdisciplinary performance group ""The House.'' Here, music, physical expression, video, and spatial direction were treated as one work.
 
 <div class="mermaid">
 graph TD
-A[music] --> E[Meredith Monk]
-B[dance] --> E
-C[theater] --> E
+A[音楽] --> E[Meredith Monk]
+B[ダンス] --> E
+C[演劇] --> E
 D[picture] --> E
 E --> F[interdisciplinary performance]
 </div>
 
 At that time, the term ""multimedia art'' had not yet become commonplace.
 
-Monk was practicing it even before the concept was established.
+Monk はその概念が成立する前から実践していたのである。
 
 > She didn"t cross genres, but she didn"t have a genre in mind from the beginning.
 
 ---
 
-## Turn your voice into an instrument
+## 声を楽器に変える
 
-The biggest reason why Meredith Monk remains in music history is because of her vocal technique.
+Meredith Monk が音楽史に残る最大の理由は発声法にある。
 
-People who hear her work for the first time are surprised.
+彼女の作品を初めて聴く人は驚く。
 
 There are almost no lyrics in the general sense of the word.
 
-Rather than words with meaning,
+意味を持つ言葉ではなく、
 
 "ah"
 "Uh"
 "Ha!"
-"Hmm"
+「んー」
 
 The focus is on vocalizations such as:
 
-However, strangely, the listener senses the emotion and story in it.
+しかし不思議なことに、聴き手はそこに感情や物語を感じ取る。
 
-Monk focused on the inherent physicality of the human voice.
+Monk は人間の声が本来持つ身体性に注目していた。
 
 Voice before language.
 
-Voices before culture.
+文化以前の声。
 
 A voice from before civilization.
 
@@ -131,17 +131,17 @@ I wanted to dig them out.
 
 <div class="mermaid">
 flowchart TD
-A[language] --> B[meaning]
+A[language] --> B[意味]
 C[voice] --> D[emotions]
-C --> E[body]
-C --> F[memory]
+C --> E[身体]
+C --> F[記憶]
 </div>
 
-She treated the voice not as a means of transmitting information, but as a sensation itself.
+彼女は声を情報伝達の手段ではなく、感覚そのものとして扱った。
 
 This idea had a huge influence on later vocal experimental music.
 
-> Monk's music was a rare example of using voice to transcend words.
+> Monk の音楽は言葉を超えるために声を使った稀有な例だった。
 
 ---
 
@@ -149,86 +149,86 @@ This idea had a huge influence on later vocal experimental music.
 
 In 1978, Meredith Monk formed Meredith Monk & Vocal Ensemble.
 
-Here her ideas were further expanded.
+ここで彼女のアイデアはさらに拡張された。
 
 By layering multiple voices,
 
-A sound like a flock of birds,
-sounds like scenery,
-ceremonial sound,
+鳥の群れのような音、
+風景のような音、
+儀式のような音、
 
-He created this.
+を作り出したのである。
 
 Although similarities with minimal music have been pointed out, her work cannot be explained by simple repetition.
 
-There is the breathing of the body.
+そこには身体の呼吸がある。
 
-There are random fluctuations.
+偶然の揺らぎがある。
 
-There is a sense of human presence itself.
+人間の存在感そのものがある。
 
-Therefore, it functions as an organic cycle rather than a mechanical repetition.
+そのため機械的な反復ではなく、有機的な循環として機能する。
 
 <div class="mermaid">
 graph TD
-A[personal voice] --> D[Multilayering]
+A[personal voice] --> D[重層化]
 B[breathing] --> D
 C[physical exercise] --> D
-D --> E[landscape of voices]
+D --> E[声の風景]
 </div>
 
-> Vocal Ensemble's activities have proven that it is possible to construct a huge acoustic space using just the voice.
+> Vocal Ensemble の活動によって、声だけで巨大な音響空間を構築できることが証明された。
 
 ---
 
-## ECM and global reputation
+## ECMと世界的評価
 
-In the 1980s, he began releasing works on ECM Records.
+1980年代に入ると ECM Records から作品を発表し始める。
 
-ECM is known as a label with a unique aesthetic in jazz and contemporary music.
+ECM はジャズや現代音楽において独自の美学を持つレーベルとして知られている。
 
 Monk's work was very compatible with his transparent recording philosophy.
 
 ""Dolmen Music'' is known as his masterpiece and influenced many musicians. ([All About Jazz][2])
 
-What is particularly interesting is that she influenced not only the classical world but also the realm of popular music.
+特に興味深いのは、彼女がクラシック界だけでなくポピュラー音楽の領域にも影響を与えたことだ。
 
-In later years, many experimental artists professed their respect for her.
+後年には多くの実験的アーティストが彼女への敬意を公言している。
 
-Her expressions were shared across genres.
+彼女の表現はジャンルを超えて共有されていったのである。
 
-> The ECM era was an important turning point in the spread of Meredith Monk's art to the world.
+> ECM時代は Meredith Monk の芸術が世界へ拡散していく重要な転換点だった。
 
 ---
 
-## Crossing film and stage
+## 映画と舞台を横断する
 
-Monk's activities are not limited to music.
+Monk の活動は音楽だけではない。
 
 His films ""Ellis Island" and ""Book of Days" have been highly acclaimed. ([All About Jazz][2])
 
 Even in her video works, she acts not as a musician but as a general artist.
 
 Screen configuration.
-physical exercise.
-space.
-silence.
+身体運動。
+空間。
+沈黙。
 
-All of them are placed with equal importance.
+それらすべてが同じ重要度で配置される。
 
-The same holds true for stage productions.
+舞台作品においても同様である。
 
-Rather than listening to music, the audience experiences the sensation of entering an environment.
+観客は音楽を聴くというより、ひとつの環境に入っていく感覚を体験する。
 
 <div class="mermaid">
 graph TD
-A[sound] --> E[Comprehensive experience]
-B[body] --> E
+A[sound] --> E[総合体験]
+B[身体] --> E
 C[picture] --> E
-D[space] --> E
+D[空間] --> E
 </div>
 
-> In Monk's work, the music is not the main character, but the entire experience.
+> Monk の作品では音楽が主役なのではなく、体験全体がひとつの作品として成立している。
 
 ---
 
@@ -238,107 +238,107 @@ In 1991, he released the opera ""ATLAS''.
 
 This is very different from regular opera.
 
-It's not story-centered.
+物語中心ではない。
 
 There are no heroes or villains.
 
-The theme is the journey itself.
+旅そのものが主題となる。
 
-human migration.
+人類の移動。
 expedition.
-A yearning for the unknown.
+未知への憧れ。
 
 These themes are depicted through abstract images and music.
 
 Monk deconstructed the opera format and presented new possibilities.
 
-In that sense, ATLAS occupies an important position in the history of experimental opera in the second half of the 20th century.
+その意味で《ATLAS》は20世紀後半の実験的オペラ史において重要な位置を占めている。
 
-> ""ATLAS'' was not an opera that told a story, but a work that depicted human imagination itself.
+> 《ATLAS》は物語を語るオペラではなく、人間の想像力そのものを描いた作品だった。
 
 ---
 
 ## Influences on many artists
 
-Meredith Monk's influence is wider than you might imagine.
+Meredith Monk の影響は想像以上に広い。
 
-Not just contemporary musicians.
+現代音楽家だけではない。
 
-Experimental electronic music.
+実験電子音楽。
 Ambient.
 Postclassical.
-movie music.
-performance art.
+映画音楽。
+パフォーマンスアート。
 
-It is spreading to various areas.
+さまざまな領域に波及している。
 
-In the recent documentary Monk in Pieces, David Byrne, Björk and others talk about its influence. ([Wikipedia][3])
+近年のドキュメンタリー『Monk in Pieces』では、David Byrne や Björk らがその影響について語っている。([ウィキペディア][3])
 
 <div class="mermaid">
 graph TD
 A[Meredith Monk] --> B[modern music]
-A --> C[experimental electronic music]
+A --> C[実験電子音楽]
 A --> D[performing arts]
-A --> E[Video work]
+A --> E[映像作品]
 A --> F[performance art]
 </div>
 
-She's not a trendsetter.
+彼女は流行を作った人物ではない。
 
-Rather, he can be said to be the person who became the source of reference for future generations.
+Rather, he can be said to be the person who became the source of reference for subsequent generations.
 
 >Many artists did not imitate Meredith Monk, but discovered possibilities in her.
 
 ---
 
-## Chronology
+## 年表
 
-| Year | Events |
+| 年    | 出来事                              |
 | ---- | -------------------------------- |
-| 1942 | Born in New York |
-| 1964 | Graduated from Sarah Lawrence College |
-| 1968 | The House established |
-| 1969 | "Juice" announced |
+| 1942 | ニューヨーク生まれ                        |
+| 1964 | Sarah Lawrence College卒業         |
+| 1968 | The House設立                      |
+| 1969 | 「Juice」発表                        |
 | 1978 | Meredith Monk & Vocal Ensemble formed |
-| 1981 | "Ellis Island" released |
-| 1981 | "Dolmen Music" announced |
+| 1981 | 『Ellis Island』公開                 |
+| 1981 | 『Dolmen Music』発表                 |
 | 1988 | "Book of Days" released |
-| 1991 | Opera "ATLAS" announced |
-| 1995 | MacArthur Fellow Award |
+| 1991 | オペラ《ATLAS》発表                     |
+| 1995 | マッカーサー・フェロー受賞                    |
 | 2003 | Orchestral work "Possible Sky" premiered |
 | 2004 | "Stringsongs" premiere |
 | 2014 | National Medal of Arts |
-| 2025 | Documentary "Monk in Pieces" released |
+| 2025 | ドキュメンタリー『Monk in Pieces』公開       |
 
 ---
 
-## Why Meredith Monk still matters
+## なぜ今もMeredith Monkが重要なのか
 
-Nowadays, music generation and digital production using AI have become commonplace.
+現在はAIによる音楽生成やデジタル制作が当たり前の時代になった。
 
 Much of music production is completed on screen.
 
-But Meredith Monk's pursuit was quite the opposite.
+しかし Meredith Monk が追求してきたものはまったく逆だった。
 
-body.
+身体。
 
-Breathing.
+呼吸。
 
 space.
 
 Existence.
 
-She transformed the very fact that humans are there into art.
+彼女は人間がそこにいるという事実そのものを芸術へ変換した。
 
-That's why it never gets old even if times change.
+だからこそ時代が変わっても古くならない。
 
-This is because I continued to focus on the most primitive act of uttering a voice.
+声を発するという最も原始的な行為を見つめ続けたからだ。
 
-In this day and age where music has become highly technological, her work sounds rather fresh.
+音楽が高度にテクノロジー化した現在だからこそ、彼女の作品はむしろ新鮮に響く。
 
 There are still physical fluctuations that cannot be replaced by machines.
 
-> Meredith Monk's art is not a prediction of the future of music, but a record of her continued rediscovery of the fundamental power of the human voice.
+> Meredith Monk の芸術は、未来の音楽を予言したのではなく、人間の声が持つ根源的な力を再発見し続けた記録なのである。
 
 
 ---

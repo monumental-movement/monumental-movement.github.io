@@ -10,19 +10,19 @@ tags:
 - 00s
 - 10s
 - 20s
-title: '[Column] Charlotte de Witte: Queen of the techno world'
+title: 【コラム】 Charlotte de Witte：テクノワールドの女王
 ---
 
 
 ## Prologue ─ Rise of the Queen of Techno
 
 
-Text: mmr | Theme: Explore how Charlotte de Witte built her "techno world" through her discography, festival appearance history, song commentary, chronology, and illustrations.
+文：mmr｜テーマ：Charlotte de Witte がどのようにして自身の「テクノワールド」を築き上げたのかを、ディスコグラフィやフェス出演歴、曲解説、年表、図解を交えて探る
 
-Belgian DJ/producer **Charlotte de Witte** is currently known as one of the most important figures in the techno world.
-Her deep, minimalist sound, energetic live sets, and historic appearances at major festivals have earned her the nickname "Techno Queen."
+ベルギー出身のDJ／プロデューサー **Charlotte de Witte（シャーロット・デ・ウィッテ）** は、現在テクノ界における最重要人物の一人として知られています。  
+彼女の重厚でミニマルなサウンド、エネルギッシュなライブセット、そして主要フェスでの歴史的出演は、彼女を「テクノ女王（Techno Queen）」と称される理由です。
 
-Her career is an epic story, from humble beginnings in underground clubs in her hometown of Ghent to the main stages of international festivals such as Tomorrowland and Movement Festival.
+彼女のキャリアは、地元ゲントのアンダーグラウンドクラブでの静かなスタートから、TomorrowlandやMovement Festivalといった世界的フェスのメインステージを駆け上がる壮大な物語です。  
 
 ---
 
@@ -31,7 +31,7 @@ Her career is an epic story, from humble beginnings in underground clubs in her 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,52 +40,52 @@ color: #fff;
 </style>
 
 
-## Childhood and origins (~2010)
+## 幼少期と原点（〜2010）
 
-Charlotte Aloïs de Witte was born **July 21, 1992** in Ghent, Belgium.
+Charlotte Aloïs de Witte は **1992年7月21日**、ベルギー・ゲントで生まれました。  
 As a teenager, he frequented local clubs and underground parties and developed a strong fascination with electronic music and underground club culture.
-The ""love of nightclubs" and ""respect for the underground" cultivated during this period became the foundation for the formation of a strong techno world later on.
+この時期に培われた「ナイトクラブ愛」や「アンダーグラウンドへの敬意」が、後の強靭なテクノ・ワールド形成の基盤となりました。
 
 ---
 
-## Start as a DJ and "Raving George" era (2010–2014)
+## DJとしてのスタートと「Raving George」時代（2010–2014）
 
-Around **2010**, Charlotte started her career as a DJ. It is reported that initially they played a style that leans towards electro and EDM.
+約 **2010年**、Charlotte はDJとしての活動を開始しました。当初はエレクトロやEDM寄りのスタイルをプレイしていたと報告されています。  
 During his early career, he also used the alias "Raving George", and in 2011 won a DJ contest sponsored by Belgian radio station Studio Brussel. This earned him a main stage appearance at Tomorrowland.
 
-He also released an EP and released early works on labels such as Bad Life and Crux Records. Gradually increasing his reputation as a DJ, he began exploring ways to switch to techno.
+EPリリースも行い、Bad Life や Crux Records などから初期作品を発表。徐々にDJとしての名声を高めつつ、テクノへの転向を模索していきました。
 
 ---
 
-## Working under his real name and turning to techno (2015–2018)
+## 本名での活動とテクノへの転向（2015–2018）
 
 In **2015**, Charlotte dropped the name ""Raving George'' and began performing under her real name **Charlotte de Witte**.
-During this period, her sound took on a darker, more minimalist style, including acid techno and industrial elements.
+この時期、彼女のサウンドはよりダークでミニマル、アシッド・テクノやインダストリアル要素を含むスタイルに変化します。
 
-Representative works include:
+代表作としては以下が挙げられます：
 
 - **Weltschmerz EP (2015, Turbo)**
 - Representative song: "Weltschmerz"
-- Features a dark, heavy beat and acid line.
+  - ダークで重厚なビート、アシッドラインを特徴とする。  
 
 - **Closer EP (2017, KNTXT)**
 - Representative song: "Closer"
-- Induce the floor into a trance-like state with its minimalist structure and repetitive rhythm.
+  - ミニマルな構造と反復的リズムにより、フロアをトランス状態に誘導。  
 
 - **Wisdom EP (2017, KNTXT)**
-- Representative song: "Wisdom"
-- Composed with floor control in mind for live sets.
+  - 代表曲：「Wisdom」  
+  - ライブセットでのフロア統制を意識した構成。  
 
-He also gained international attention, appearing on BBC Radio 1's Essential Mix (2018).
+また、BBC Radio 1 の Essential Mix（2018年）に出演するなど、国際的な注目を集めるようになりました。
 
 ---
 
 ## KNTXT: Creation of label and brand (2019 onwards)
 
-**2019** Charlotte de Witte founded her own label **KNTXT**.
-KNTXT is a brand that reflects her minimal and powerful techno philosophy, with the principles of purity, strength and evolution.
+**2019年**、Charlotte de Witte は自身のレーベル **KNTXT** を設立。  
+KNTXT は、純粋性、強さ、進化を理念として掲げ、彼女のミニマルで強力なテクノ哲学が反映されたブランドとなっています。  
 
-Through the label, we discover and develop emerging artists, and also develop event series and radio shows. As a result, KNTXT is more than just a label, it has become a community that represents Charlotte's techno world.
+レーベルを通じて新興アーティストを発掘・育成し、イベントシリーズやラジオショーも展開。これにより、KNTXT は単なるレーベルに留まらず、Charlotte のテクノワールドを象徴するコミュニティとなっています。
 
 ---
 
@@ -95,94 +95,94 @@ Charlotte's career began in Europe. He has performed at clubs in Berlin and Barc
 
 Examples of major appearances:
 
-- **Tomorrowland (Belgium)**
-- 2011: First appearance on main stage
-- 2022: Main stage closing (first female & techno artist)
-- 2025: Opening and closing scheduled to appear on the same day
+- **Tomorrowland (ベルギー)**
+  - 2011年：メインステージ初出演  
+  - 2022年：メインステージクロージング（初の女性＆テクノアーティスト）  
+  - 2025年：オープニング＆クロージング同日出演予定  
 
-- **Movement Festival (Detroit)**
+- **Movement Festival (デトロイト)**
 - 2023: Main stage closing (first woman)
 
 - **BBC Radio 1 Essential Mix (2018)**
 - Featured appearances on global radio.
 
-In this way, he has successfully expanded from a club DJ to a global festival artist.
+このように、クラブDJからグローバルフェスティバルアーティストへと順調に拡大しました。
 
 ---
 
-## Sound characteristics and musicality
+## サウンドの特徴と音楽性
 
-Charlotte de Witte's music is "dark and slim", based on acid and minimal techno, with some industrial elements.
+Charlotte de Witte の音楽は「ダークでスリム」、アシッド・テクノやミニマル・テクノを基調とし、インダストリアルな要素も含まれます。  
 
-- **Beat structure**: Heavy kick, repetitive rhythm, simple yet dense arrangement
-- **Tone design**: Utilize analog synths and acid lines
-- **Live Set Philosophy**: Prioritize floor energy maintenance and control
+- **ビート構造**：重厚なキック、反復的リズム、シンプルながら高密度なアレンジ  
+- **音色設計**：アナログシンセやアシッドラインを活用  
+- **ライブセット哲学**：フロアのエネルギー維持と統制を最優先  
 
-Sound explanation of representative songs:
+代表曲のサウンド解説：
 
 - **"The Healer" (2017, KNTXT)**
-Dark and tense minimal techno. Used during peak times in live sets.
+  ダークで緊張感のあるミニマルテクノ。ライブセットでのピーク時に使用。  
 
 - **"Selected" (2018, KNTXT)**
 Characterized by heavy kicks and repetitive acid lines.
 
-- **"Pressure" (2019, KNTXT)**
-A work that strongly emphasizes industrial techno elements.
+- **“Pressure” (2019, KNTXT)**  
+  インダストリアルテクノ要素を強く打ち出した作品。  
 
 ---
 
-## Social and cultural significance
+## 社会的・文化的意義
 
-- **Pioneering as a female DJ**
+- **女性DJとしての先駆性**  
 In the male-dominated techno scene, Charlotte achieved historic feats including closing appearances on Tomorrowland and Movement.
 
 - **Support for young artists**
-Through KNTXT, we provide a platform for the next generation of artists.
+  KNTXTを通じて、次世代のアーティストにプラットフォームを提供。  
 
-- **Cultural symbol**
-It has become an important icon in techno culture, connecting the underground and the main stage, clubs and festivals.
+- **文化的象徴**  
+  アンダーグラウンドとメインステージ、クラブとフェスを繋ぐ存在として、テクノ文化における重要なアイコンとなっています。
 
 ---
 
-## Latest developments: Debut album and future prospects (2024–2025)
+## 最新展開：デビュー・アルバムと将来展望（2024–2025）
 
 - **Époque label established (2024)**
-KNTXT store opened in Brussels and new label launched.
+  KNTXT店舗をブリュッセルに開設し、新レーベルをローンチ。  
 
-- **Preceding single "The Realm" (April 2025)**
+- **先行シングル “The Realm” (2025年4月)**  
 Advance release from debut album. It was also performed during a live set, and fans' expectations are high.
 
-- **Self-titled debut album "Charlotte de Witte" (November 2025)**
+- **セルフタイトル・デビューアルバム『Charlotte de Witte』 (2025年11月)**  
 A work that summarizes his own musical philosophy and techno world.
 
-- **Collaboration**
+- **コラボレーション**  
 He has also released experimental works such as "The Heads That Know (feat. Comma Dee)".
 
 ---
 
-## Chronology (Timeline)
+## 年表（タイムライン）
 
-| Year | Events |
+| 年 | 出来事 |
 |---|---|
 | 1992 | Born in Ghent, Belgium |
 | Around 2009 | Experience local club culture |
-| 2010 | Started DJ activities (electro to EDM style) |
+| 2010 | DJ活動開始（エレクトロ〜EDMスタイル） |
 | 2011 | Studio Brussel DJ Contest Winner → Tomorrowland Appearance |
-| 2013 | EP released under the name "Raving George" |
-| 2015 | Started activities under real name, announced Weltschmerz EP |
-| 2017 | Closer, Wisdom EP released, attracting attention in Europe and America |
-| 2018 | BBC Radio 1 Essential Mix appearance |
-| 2019 | KNTXT established |
-| 2022 | Tomorrowland Main Stage Closing |
+| 2013 | “Raving George”名義でEPリリース |
+| 2015 | 本名で活動開始、Weltschmerz EP発表 |
+| 2017 | Closer, Wisdom EPリリース、欧米で注目 |
+| 2018 | BBC Radio 1 Essential Mix出演 |
+| 2019 | KNTXT設立 |
+| 2022 | Tomorrowlandメインステージクロージング |
 | 2023 | Movement Festival Closing |
 | 2024 | KNTXT store opened, Époque label started |
-| 2025.4 | Single "The Realm" announced |
-| 2025.7 | Tomorrowland opening and closing appearance schedule |
-| 2025.11 | Debut album "Charlotte de Witte" released |
+| 2025.4 | シングル “The Realm” 発表 |
+| 2025.7 | Tomorrowlandオープン＆クロージング出演予定 |
+| 2025.11 | デビューアルバム『Charlotte de Witte』リリース |
 
 ---
 
-## Sound Evolution Chart (2010–2025)
+## サウンド進化チャート（2010–2025）
 
 <div class="mermaid">
 
@@ -201,15 +201,15 @@ timeline
 
 ---
 
-## Network map (centered on Charlotte)
+## ネットワークマップ（Charlotte中心）
 
 <div class="mermaid">
 
 graph TD
-    A[Charlotte de Witte] --> B[KNTXT Label]
-    A --> C[Époque label]
-    A --> D[Major collaboration]
-    A --> E[Festival appearance]
+    A[Charlotte de Witte] --> B[KNTXT レーベル]
+    A --> C[Époque レーベル]
+    A --> D[主要コラボ]
+    A --> E[フェス出演]
     B --> F[Nurturing young artists]
     C --> G[experimental release]
     D --> H[Coma, ANNA, Enrico Sangiuliano]
@@ -221,17 +221,17 @@ graph TD
 
 ---
 
-## Festival appearance map (Europe/North America)
+## フェス出演マップ（ヨーロッパ・北米）
 
 <div class="mermaid">
 
 graph TD
-    A[Charlotte de Witte] --> B[KNTXT Label]
-    A --> C[Époque label]
-    A --> D[Major collaboration]
-    A --> E[Festival appearance]
-    B --> F[Nurturing young artists]
-    C --> G[experimental release]
+    A[Charlotte de Witte] --> B[KNTXT レーベル]
+    A --> C[Époque レーベル]
+    A --> D[主要コラボ]
+    A --> E[フェス出演]
+    B --> F[若手アーティスト育成]
+    C --> G[実験的リリース]
     D --> H[Coma, ANNA, Enrico Sangiuliano]
     E --> I[Tomorrowland]
     E --> J[Movement Festival]
@@ -242,12 +242,12 @@ graph TD
 ---
 
 
-## Conclusion – Legacy in the techno world
+## 結論 ─ テクノワールドにおける遺産
 
 Charlotte de Witte's career is more than just a success story.
 He has built a world that embodies his philosophy and musical sensibility, and shares it through his label, live shows, and records.
 
-Her debut album in 2025 is an introspective expression of her techno world.
+2025年のデビューアルバムは、彼女のテクノワールドを内省的に表現する作品です。  
 Charlotte de Witte's techno world will continue to expand through her festival appearances and label activities.
 
 ---

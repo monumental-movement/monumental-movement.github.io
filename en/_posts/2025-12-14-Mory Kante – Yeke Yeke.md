@@ -14,7 +14,7 @@ title: Mory Kante – Yeke Yeke
 ---
 
 
-A remix of Mory Kante's "Yeke Yeke", which was released in 1987 and became a worldwide hit, by German Acid/Techno & Tech House duo Hardfloor.
+1987年にリリースされ世界的ヒットとなったMory Kante 「Yeke Yeke」を、ドイツのAcid/Techno & Tech House デュオHardfloor(ハードフロア)がremixした一枚。
 
 #### Tracklist
 ```md
@@ -24,7 +24,7 @@ B1. Yeke Yeke (Hardfloor Dub)
 B2. Yeke Yeke (Afroacid Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m53839995654?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53839995654?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ek7Pww6JyVQ?si=C1Y9dWj8citIoeZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

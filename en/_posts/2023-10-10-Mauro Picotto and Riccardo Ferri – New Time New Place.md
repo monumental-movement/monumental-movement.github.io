@@ -11,7 +11,7 @@ title: Mauro Picotto & Riccardo Ferri – New Time New Place
 ---
 
 
-"New Time New Place" is
+「New Time New Place」は、
 This is an EP by Mauro Picotto & Riccardo Ferri released in 2004 on the German label "T:Classixx".
 
 #### Tracklist

@@ -14,10 +14,10 @@ title: Hardfloor – TB Resuscitation
 ---
 
 
-Hardfloor was formed in 1991.
-German acid techno/tech house duo.
+Hardfloorは、1991年に結成した
+ドイツのアシッドテクノ／テックハウス デュオ。
 
-Hardfloor"s first album was released in 1993 on the UK independent label Moonshine Music. Hardfloor"s masterpiece, which is considered a masterpiece of techno/acid techno.
+1993年にUKのインディペンデントレーベルMoonshine Musicからリリースされた、Hardfloor(ハードフロア)のファーストアルバム。テクノ・アシッドテクノの名盤されるHardfloorの代表作。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ Hardfloor"s first album was released in 1993 on the UK independent label Moonshi
 9. Happy 20th (Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lcg-31Ig2Uo?si=UkBWcWoluBqWhlgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

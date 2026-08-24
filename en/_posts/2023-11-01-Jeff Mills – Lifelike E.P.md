@@ -15,7 +15,7 @@ title: Jeff Mills – Lifelike E.P
 
 "Condor To Mallorca" by Jeff Mills, as the title suggests, is a track with a mystical trip feel, starting with inspired keyboard sounds backed by a calypso-like rhythm program that converges with a kick drum.
 
-The track then takes on a more ominous aspect when the string elements come in.
+The track then takes on a more ominous aspect when string elements come in.
 
 This EP is a very strong opener with its disturbing musical themes, and "Time After Space" has a cosmic feel.
 
@@ -23,7 +23,7 @@ This EP is a very strong opener with its disturbing musical themes, and "Time Af
 
 "Black Avenger" draws listeners in with its percussive frenzy and hard keys.
 
-A must-have for any Jeff Mills fan, this is a special record that covers many of the wide-ranging themes of Jeff Mills' work, while still expressing the unique and powerful results of each song.
+A must-have for any Jeff Mills fan, this is a special record that covers many of the wide-ranging themes of Jeff Mills' work, while still expressing the unique and powerful results of each individual song.
 
 #### Tracklist
 ```md

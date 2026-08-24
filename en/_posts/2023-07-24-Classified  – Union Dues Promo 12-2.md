@@ -19,7 +19,7 @@ title: Classified – Union Dues Promo 12-2
 
 
 
-Classified Classified (real name: Luke Donald Boyd)'s Union Dues Promo 12-2 was released in 2002 on the label HalfLife Records.
+Classified Classified（本名：Luke Donald Boyd）のUnion Dues Promo 12-2は、2002年に	レーベルHalfLife Recordsからリリースされました。
 
 #### Tracklist
 ```md

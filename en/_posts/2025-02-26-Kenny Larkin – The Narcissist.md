@@ -14,9 +14,9 @@ title: Kenny Larkin – The Narcissist
 ---
 
 
-Kenny Larkin is a techno house producer and DJ from Detroit. He began his career under the influence of Juan Atkins and Derrick May, and has released on numerous labels including Richie Hawtin and John Acquaviva's labels Plus 8, Buzz, and Warp.
+Kenny Larkin(ケニー・ラーキン)は、デトロイト出身のテクノ・ハウスプロデューサー・DJ。Juan Atkins(フアン・アトキンス)とDerrick May(デリック・メイ)の影響を受けて活動を始め、Richie Hawtin(リッチー・ホウティン)とJohn AcquavivaのレーベルPlus 8やBuzz、Warpなど数多くのレーベルからリリースしている。
 
-"The Narcissist" is a house techno downtempo album released in 2004 by the British independent label Peacefrog Records.
+「The Narcissist」は、イギリスのインディペンデントレーベルPeacefrog Recordsから2004年にリリースされたハウス・テクノ・ダウンテンポアルバム。
 
 #### Tracklist
 ```md
@@ -33,7 +33,7 @@ Kenny Larkin is a techno house producer and DJ from Detroit. He began his career
 11. In The Meantime
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

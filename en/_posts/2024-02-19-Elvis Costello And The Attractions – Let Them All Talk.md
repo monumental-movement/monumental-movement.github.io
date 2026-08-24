@@ -13,17 +13,17 @@ title: Elvis Costello And The Attractions – Let Them All Talk
 ---
 
 
-Elvis Costello was included in Rolling Stone's list of the 100 Greatest Artists of All Time, and was inducted into the Rock and Roll Hall of Fame in 2003 as a member of Elvis Costello and the Attractions.
+エルヴィス・コステロは、ローリング・ストーンの選ぶ歴史上最も偉大な100組のアーティストにも選ばれ、2003年にはエルヴィス・コステロ&ジ・アトラクションズとしてロックの殿堂入りを果たしている。
 
-"Let Them All Talk" is Elvis Costello's 24th single, released in 1984.
+「Let Them All Talk」は、1984年にリリースされたエルヴィス・コステロの24枚目のシングル。
 
-Elvis Costello & the Attractions is a British new wave/rock band formed in London in late 1977.
+エルビス・コステロ & ザ・アトラクションズは、1977年後半にロンドンで結成されたイギリスのニューウェイヴ/ロックバンドです。
 
-Formed by Elvis Costello, they were initially credited only on the B-side of the single "Watching The Detectives". After being active until 1986, they were reunited from 1994 to 1996.
+エルビス・コステロによって結成され、当初はシングル「Watching The Detectives」のB面にのみクレジットされました。1986年までの活動を経て、1994年から1996年まで再結成されました。
 
-In 2002, the band reformed as Elvis Costello & the Imposters, excluding Bruce Thomas.
+2002年には、ブルース・トーマスを除くメンバーで、エルビス・コステロ & ザ・インポスターズとして再結成されました。
 
-In 2003, Elvis Costello & the Attractions were inducted into the Rock and Roll Hall of Fame.
+そして、2003年には、エルビス・コステロ & ザ・アトラクションズは、ロックの殿堂「ロックンロール・ホール・オブ・フェーム」に殿堂入りを果たしました。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ A. Let Them All Talk
 
 B. The Flirting Kind
 ```
-[Purchase on Mercari](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,7 +12,7 @@ title: Picking up works by Detroit Techno
 ---
 
 
-"Detroit Techno works born from the gap between decadence and hope"
+「退廃と希望の狭間から生まれた、デトロイト・テクノ(Detroit Techno)作品群」
 
 <hr>
 
@@ -34,7 +34,7 @@ B2. Fade
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -81,9 +81,9 @@ Recommended points: A masterpiece that condenses the future-oriented and cool so
 ### Model 500 – Flow
 <a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.webp"></a>
 
-Features: Minimal track structure with simple synth lines and rhythm. It is characterized by its spatial and floating synth work and cool, mechanical rhythm.
+Features: Minimal track structure with simple synth lines and rhythm. It is characterized by its spatial, floating synth work and cool, mechanical rhythm.
 
-Recommended point: A song that lets you experience the origins of Detroit techno. By adding it early in a DJ set, you can create a ""Detroit-like cosmic feeling'' on the floor. Easy to listen to even for beginners, perfect for understanding the worldview of the Model 500.
+Recommended point: A song that lets you experience the origins of Detroit techno. If you put it in early in a DJ set, you can create a ""Detroit-like cosmic feeling'' on the floor. Easy to listen to even for beginners, perfect for understanding the worldview of the Model 500.
 
 #### Tracklist
 ```md
@@ -94,7 +94,7 @@ T2. The Flow M38 (Alex Reece Mix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -111,7 +111,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 Features: Dramatic sound image that combines ambient, breakbeat, future jazz, etc. based on minimalism.
 
-Recommended point: An album with depth and sophistication that takes the listener on an emotional journey. This is a work that both DJs and listeners will want to listen to carefully.
+おすすめポイント：深みと洗練を兼ね備えたアルバムで、聴き手を感情的な旅に誘う。DJやリスナー問わず、じっくり聴きたい作品。
 
 #### Tracklist
 ```md
@@ -141,7 +141,7 @@ Recommended point: An album with depth and sophistication that takes the listene
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
-Characteristics: Balances danceable grooves and abstract experimentation. Track examples: "Tangible–Theory Proliferation (Ultradyne Remix)" and "Fantasy Era."
+特徴：ダンサブルなグルーヴと抽象的な実験性を両立。トラック例：「Tangible–Theory Proliferation (Ultradyne Remix)」「Fantasy Era」。
 
 Recommended points: Perfect for listeners looking for an exploratory techno experience. Whether it"s on the floor or in headphones, you"ll be drawn to its experimental sound.
 
@@ -198,7 +198,7 @@ AA2. Soundtrack
 ### Jeff Mills – Very EP
 <a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.webp"></a>
 
-Features: A minimalist and tense work that is perfect for club warm-ups.
+Features: A minimalist and tense piece that is perfect for club warm-ups.
 
 Recommended points: Although simple, the sound image that gradually builds up tightens the floor, allowing you to create a unique world view from the beginning of the set.
 
@@ -226,7 +226,7 @@ B3. Untitled
 ### Jeff Mills – Lifelike E.P.
 <a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
 
-Features: "Condor To Mallorca" is iconic, and the calypso-like rhythm and keyboard resonance create a unique floating feeling.
+特徴：「Condor To Mallorca」が象徴的で、カリプソ的なリズムと鍵盤の響きが独特の浮遊感を演出。
 
 Recommended points: With its trippy and spiritual atmosphere, this is a "magical piece" that instantly changes the atmosphere when inserted into a DJ set.
 
@@ -302,7 +302,7 @@ B. Circus (The Big Finale Mix)
 
 
 
-### "M" – More Drama (under Axis name)
+###  “M” – More Drama（Axis 名義）
 <a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webp"></a>
 
 Features: Track released under the name "M" by Axis in 1992. A song that represents early Detroit minimal.
@@ -320,7 +320,7 @@ B2. Getaway
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
 
 
 #### Youtube

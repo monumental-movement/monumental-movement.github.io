@@ -26,7 +26,7 @@ Ned's Atomic Dustbin are a British rock band formed in Stourbridge, West Midland
 4. Kill Your Remix
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA2371iADS0?si=L_cqikedn1L5Ea8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

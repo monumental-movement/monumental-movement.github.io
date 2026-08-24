@@ -13,7 +13,7 @@ title: Messengers – That's The Way A Woman Is
 ---
 
 
-Messengers was an American pop rock band that was active from 1962 to 1972. That's The Way A Woman Is is a representative song by Messengers released in 1971.
+Messengers (メッセンジャーズ)は1962年から1972年にかけて活動したUSポップロックバンド。気になる女の子（That's The Way A Woman Is）は1971年にリリースされたMessengersの代表曲。
 
 
 #### Tracklist
@@ -23,7 +23,7 @@ A. That's The Way A Woman Is (気になる女の子)
 B. The Letter (あの娘のレター)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m10066256629?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10066256629?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2midSRBfkWM?si=1H76xP5LVzXbcZgT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

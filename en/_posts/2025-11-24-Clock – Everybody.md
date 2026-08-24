@@ -14,9 +14,9 @@ title: Clock – Everybody
 ---
 
 
-A Europop/dance music project formed in Manchester, England in 1993 by Stu Allan and Pete Pritchard. The band was active until 2000.
+1993年にイギリス・マンチェスターでStu AllanとPete Pritchardによって結成されたユーロポップ/ダンスミュージックプロジェクト。バンドは2000年まで活動した。
 
-"Everybody" is a House/Euro House/Hardcore/Eurodance/Bouncy Techno track released in 1995.
+「Everybody」は、1995年にリリースされたHouse／Euro House／Hardcore／Eurodance／Bouncy Technoトラック。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ B2. Everybody (Short Stab)
 B3. Everybody (The Visa Treatment)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m40086560685?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40086560685?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQCpA44v2vQ?si=x9UgcKBKnQopbNbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

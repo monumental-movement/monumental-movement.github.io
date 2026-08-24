@@ -19,7 +19,7 @@ title: The Dub Club – Outbreak
 
 
 
-"Outbreak" is
+「Outbreak」は、
 This is an EP by The Dub Club, a project by Nathanael Heres, whose real name is Nathanael Heres, released in 1994 on the Dutch label Urban Sound Of Amsterdam.
 
 

@@ -21,13 +21,13 @@ title: STS9 – Artifact
 
 
 
-"Artifact" is the third studio album by Sound Tribe Sector 9 (STS9), released in 2005. This work showcases STS9's sound and creativity to the fullest, and has earned high acclaim in the electronic music and jam band scene for its unique sound and innovative approach.
+「Artifact」は、2005年にリリースされたサウンド・トライブ・セクター9（Sound Tribe Sector 9 [STS9]）の3枚目のスタジオアルバムです。STS9のサウンドとクリエイティビティを最大限に発揮した作品であり、その独特なサウンドと革新的なアプローチによって、エレクトロニックミュージックやジャムバンドシーンで高い評価を得ています。
 
-Their sound combines elements from a variety of genres, including ambient, electronica, jazz, funk, and dubstep.
+アンビエント、エレクトロニカ、ジャズ、ファンク、ダブステップなど、さまざまなジャンルの要素を組み合わせたサウンドが特徴です。
 
-A2"s "Tokyo" is known as STS9"s signature song and is often played in live performances.
+A2の「Tokyo」は、STS9の代表的な楽曲として知られており、ライブパフォーマンスでも頻繁に演奏されます。
 
-"Artifact" is an important album in STS9's career, and is a must-have for fans of the band.
+「Artifact」は、STS9のキャリアの中でも重要な位置を占めるアルバムであり、バンドのファンにとっては欠かせない作品となっています。
 
 
 #### Tracklist
@@ -50,7 +50,7 @@ B2. Somesing
 B3. Better Day
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-dPyfCe_vQ?si=GHXuKOfR8ZEVKid0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

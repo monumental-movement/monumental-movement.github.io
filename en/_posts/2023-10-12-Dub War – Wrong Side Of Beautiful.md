@@ -12,9 +12,9 @@ title: Dub War – Wrong Side Of Beautiful
 ---
 
 
-Dub War is a mixture band active in the 1990s that mixes various music styles such as heavy metal, reggae, punk, and dub. The band"s unique style, which combines a powerful rock sound and catchy melody with reggae rhythms and punk elements, and vocalist Benji Webbe"s distinctive singing voice and expressiveness made a strong impression on the band's music.
+Dub War (ダブ・ウォー)は、1990年代に活動していたヘヴィメタル、レゲエ、パンク、ダブなど様々な音楽スタイルをミックスさせたミクスチャーバンド。パワフルなロックサウンドとキャッチーなメロディに、レゲエのリズムとパンクの要素を融合させた独自のスタイルとヴォーカルのBenji Webbeの特徴的な歌声と表現力が、バンドの音楽に強い印象を与えていた。
 
-Wrong Side Of Beautiful is Dub War"s second album and is considered one of the band"s most widely recognized works.
+「Wrong Side Of Beautiful」は、ダブ・ウォーの2枚目のアルバムで、バンドの最も広く認知された作品の一つとして知られている。
 
 #### Tracklist
 ```md
@@ -47,7 +47,7 @@ B6. Mission
 B7. Universal Jam
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m79906775059?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79906775059?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfGd-nXFfVY?si=AsdcXdWTQQSdK_Ud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

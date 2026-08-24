@@ -16,9 +16,9 @@ title: Tignino & Leo Feat. Mark Kerr – How Can You Feel
 
 An electro house track by Italian DJ/producer Daniele Tignino and Sicilian musician Ottavio Leo, featuring Mark Kerr, brother of Scottish rock band Simple Minds frontman Jim Kerr.
 
-The first track on Side A is a remix by German DJ and producer duo D-Nox & Beckers.
+A面１曲目は、ドイツのDJ＆プロデューサーデュオD-Nox & Beckersによるremix。
 
-The second track on side B is a remix by Daniele Tignino, Emiliano Patrik Legato, and Ottavio Leo under the name Psycho Radio, an Italian electro house project.
+B面２曲目は、Daniele Tignino, Emiliano Patrik Legato, Ottavio LeoによるイタリアンエレクトロハウスプロジェクトPsycho Radio名義でのremix。
 
 #### Tracklist
 ```md

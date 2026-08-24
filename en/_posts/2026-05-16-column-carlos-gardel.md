@@ -10,22 +10,21 @@ tags:
 - Tango
 - Argentina
 - Latin
-title: '[Column] Carlos Gardel -- The birth of the "voice" that brought tango to the
-  world'
+title: 【コラム】 カルロス・ガルデル――タンゴを世界へ運んだ“声”の誕生
 ---
 
 
-## Before Tango: The heat of the immigrant city of Buenos Aires
+## タンゴ以前――移民都市ブエノスアイレスの熱気
 
-Text: mmr | Theme: How did tango, which was born in the port city of Buenos Aires in the early 20th century, become a world music? At the center of this was the "voice" of Carlos Gardel.
+文：mmr｜テーマ：20世紀初頭、港町ブエノスアイレスから生まれたタンゴは、なぜ世界音楽になったのか。その中心には、カルロス・ガルデルという“声”があった
 
-From the end of the 19th century to the beginning of the 20th century, Argentina was one of the world's leading immigrant nations. A large number of immigrants poured in from Spain, Italy, France, and Eastern Europe, and the capital, Buenos Aires, rapidly transformed into a gigantic city.
+19世紀末から20世紀初頭にかけてのアルゼンチンは、世界でも有数の移民国家だった。スペイン、イタリア、フランス、東欧などから大量の移民が流れ込み、首都ブエノスアイレスは急速に巨大都市へ変貌していく。
 
-Longshoremen, sailors, taverns, brothels, cafes, dance halls. The mixed emotions of people on the periphery of the city gave birth to new music. That was tango.
+港湾労働者、船乗り、酒場、売春宿、カフェ、ダンスホール。都市の周縁で混ざり合った人々の感情が、新しい音楽を生んだ。それがタンゴだった。
 
-Initially, tango was a music that was looked down upon by the upper classes. Crude, dangerous, downtown. However, its melancholy and sensuality strongly stimulated the emotions of people who were burdened by the loneliness of urbanization.
+当初のタンゴは上流階級から軽蔑される音楽だった。粗野で、危険で、下町的。だがその哀愁と官能は、都市化の孤独を抱えた人々の感情を強く刺激した。
 
-Out of this chaotic urban space, a man later known as the "King of Tango" emerges.
+この混沌とした都市空間のなかから、後に「タンゴの王」と呼ばれる人物が現れる。
 
 
 ---
@@ -35,7 +34,7 @@ Out of this chaotic urban space, a man later known as the "King of Tango" emerge
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -45,49 +44,49 @@ color: #fff;
 
 
 
-### The mystery of Carlos Gardel's birth
+### カルロス・ガルデル誕生の謎
 
-Carlos Gardel's birth has been debated for many years.
+カルロス・ガルデルの出生には長年議論がある。
 
-It is generally believed that he was born in Toulouse, France, on December 11, 1890. His birth name was Charles Romual Gardes. However, there is a strong theory that he was born in Uruguay.
+一般的には1890年12月11日、フランス・トゥールーズ生まれとされる。出生名はシャルル・ロムアル・ガルデス。しかしウルグアイ生まれ説も根強く存在する。
 
-His mother, Berta Gardés, moved to Buenos Aires with young Gardel in 1893. He grew up there, speaking Spanish, and spending his youth in Argentine culture.
+母ベルタ・ガルデスは1893年に幼いガルデルを連れてブエノスアイレスへ移住した。彼はそこで成長し、スペイン語を話し、アルゼンチン文化の中で青年期を送る。
 
-In other words, Gardel was an Argentine, not so much because of his birth as because of the place where he was formed.
+つまりガルデルは、生まれよりも「形成された場所」によってアルゼンチン人になった人物だった。
 
 <div class="mermaid">
 graph TD
-A[France] --> B[immigrated as a child]
-B --> C[buenos aires]
-C --> D[immigrant culture]
-D --> E[Growing up as a tango singer]
+A[フランス] --> B[幼少期に移住]
+B --> C[ブエノスアイレス]
+C --> D[移民文化]
+D --> E[タンゴ歌手として成長]
 </div>
 
-### Cities and Songs
+### 都市と歌
 
-The young Gardel is said to have sang in bars, markets, and around theaters. There was always music in the city.
+若きガルデルは、酒場や市場、劇場周辺で歌っていたという。街には常に音楽があった。
 
-Buenos Aires at the time was a mix of Creole music, milongas, habaneras, and European dances. Tango was also not yet a perfect form.
+当時のブエノスアイレスでは、クレオール音楽、ミロンガ、ハバネラ、欧州舞曲などが混ざり合っていた。タンゴもまだ完成された形式ではなかった。
 
-While absorbing this miscellaneous musical environment, Gardel eventually acquired a unique singing style.
+ガルデルはその雑多な音楽環境を吸収しながら、やがて独特の歌唱法を身につけていく。
 
-> Before Gardel became a ""tango singer,'' he was someone who breathed the atmosphere of an immigrant city itself.
+> ガルデルは「タンゴ歌手」になる前に、移民都市そのものの空気を吸い込んだ存在だった。
 
 ---
 
-## Duo Era - From folk singer to popular figure
+## デュオ時代――民衆歌手から人気者へ
 
 In the late 1900s, Gardel began his career as a singer of regional and Creole music.
 
-His first big break came when he formed a duo with Jose Lasano.
+His first big break came when he formed a duo with Jose Lazano.
 
-### Gardel-Lazano
+### ガルデル＝ラサーノ
 
-Around 1911, Carlos Gardel and José Lasano started working as a duo.
+1911年頃、カルロス・ガルデルとホセ・ラサーノはデュオとして活動を開始する。
 
-They became popular in theaters, cafes, and on local tours. At this time, tango was still mainly instrumental, and ""singing tango'' was not as common as it is today.
+彼らは劇場、カフェ、地方巡業などで人気を獲得した。まだこの時代、タンゴはインストゥルメンタル中心であり、「歌うタンゴ」は現在ほど一般的ではなかった。
 
-However, Gardel's deep, smooth voice begins to give the tango a "story."
+しかしガルデルの低く滑らかな声は、タンゴに“物語”を与え始める。
 
 <div class="mermaid">
 timeline
@@ -98,158 +97,158 @@ timeline
     1917 : 「Mi Noche Triste」録音
 </div>
 
-### The impact of "Mi Noche Triste"
+### 「Mi Noche Triste」の衝撃
 
-In 1917, Gardel records "Mi Noche Triste".
+1917年、ガルデルは「Mi Noche Triste」を録音する。
 
-This work is considered to be a huge turning point in the history of tango.
+この作品は、タンゴ史における巨大な転換点とされている。
 
-Until then, tango had been popular as music for dancing. However, this song's lyrics depict heartbreak, loneliness, and the sadness of city life.
+それまでのタンゴは踊るための音楽として広まっていた。しかしこの楽曲は、失恋、孤独、都市生活の哀しみを歌詞で描いた。
 
-In other words, tango changed into ""music to listen to.''
+つまりタンゴが“聴く音楽”へ変化したのである。
 
-Gardel does not over-explode his emotions. Rather, his restrained singing style highlighted his inner melancholy.
+ガルデルは感情を過剰に爆発させない。むしろ抑制された歌い方によって、内面的な哀愁を際立たせた。
 
-This style became the basis for later tango singing.
+このスタイルは後のタンゴ歌唱の基礎になる。
 
-### Lyrics paint a city
+### 歌詞が都市を描く
 
 Bars, breakups, unemployment, night walks, betrayal, and nostalgia frequently appear in Gardel's songs.
 
-This was exactly the feeling of the immigrant city at the time.
+これは当時の移民都市の感情そのものだった。
 
-Those who came with dreams of success often faced loneliness and poverty. Tango expressed this reality romantically and poetically.
+成功の夢を抱いてやって来た人々は、しばしば孤独と貧困に直面した。タンゴは、その現実をロマンティックに、そして詩的に表現した。
 
 Gardel was not just a singer, but a ""translator of urban emotions.''
 
-> ""Mi Noche Triste" transformed tango from dance music to ""urban lyricism".
+> 「Mi Noche Triste」は、タンゴをダンス音楽から“都市の叙情詩”へ変えた。
 
 ---
 
-## King of Tango: Absolutely popular in the 1920s
+## タンゴの王――1920年代の絶対的人気
 
-In the 1920s, Carlos Gardel became one of Argentina's biggest stars.
+1920年代に入ると、カルロス・ガルデルはアルゼンチン最大級のスターへ成長する。
 
-Records, radio, stage, touring. With the expansion of new media, his popularity spread throughout South America.
+レコード、ラジオ、舞台、巡業。新しいメディアの拡大とともに、彼の人気は南米全域へ広がっていった。
 
-### Record industry and Gardel
+### レコード産業とガルデル
 
-The early 20th century was a time of rapid development in recording technology.
+20世紀初頭は、録音技術が急速に発展した時代だった。
 
-Gardel was an artist who took advantage of this change very well.
+ガルデルはこの変化を非常にうまく利用したアーティストだった。
 
-His recordings are widely distributed, and have spread not only to Buenos Aires but also to Uruguay, Chile, Brazil, Spain, and other countries.
+彼の録音作品は大量に流通し、ブエノスアイレスだけでなく、ウルグアイ、チリ、ブラジル、スペインなどにも広まっていく。
 
-With records, tango was no longer an ""ad hoc'' music.
+レコードによって、タンゴは“その場限り”の音楽ではなくなった。
 
 <div class="mermaid">
 flowchart TD
-A[Birth of tango] --> B[bar culture]
-B --> C[recording technology]
-C --> D[Gardel's popularity increases]
-D --> E[radio]
-E --> F[international popularity]
+A[タンゴ誕生] --> B[酒場文化]
+B --> C[録音技術]
+C --> D[ガルデル人気拡大]
+D --> E[ラジオ]
+E --> F[国際的人気]
 </div>
 
-### Fashion and stardom
+### ファッションとスター性
 
-Gardel wasn't just a good singer.
+ガルデルは単に歌が上手いだけではなかった。
 
-Sophisticated suits, smiles, politeness, and an urban atmosphere. He gained popularity as the very image of a modern man.
+洗練されたスーツ、微笑み、礼儀正しさ、都会的な雰囲気。彼は“モダンな男性像”そのものとして人気を得た。
 
-Gardel was a major factor in the penetration of tango from downtown culture to the middle class.
+タンゴが下町文化から中産階級へ浸透した背景には、ガルデルの存在が大きい。
 
-He transformed tango from dangerous port music into an elegant art form.
+彼は危険な港町音楽だったタンゴを、エレガントな芸術へ変換した。
 
-### "Volver" and nostalgia
+### 「Volver」と郷愁
 
-One of Gardel's signature songs, ""Volver,'' is known for its theme of returning home and the passage of time.
+ガルデルの代表曲のひとつ「Volver」は、帰郷と時間の流れをテーマにした作品として知られる。
 
-This song deeply expresses the emotions unique to immigrant communities.
+この曲には、移民社会特有の感情が濃厚に表れている。
 
-For those who have left their homeland, the concept of ""returning'' has always been associated with fantasy.
+故郷を離れた者たちにとって、“戻る”という概念は常に幻想と結びついていた。
 
-Gardel expressed these emotions in a very natural way.
+ガルデルは、その感情を極めて自然な歌唱で表現した。
 
-His voice isn"t too dramatic. That"s why it feels real.
+彼の声は劇的すぎない。だからこそ現実味がある。
 
-### Expansion throughout Latin America
+### ラテンアメリカ全域への拡大
 
-By the late 1920s, Gardel was gaining immense popularity throughout South America.
+1920年代後半には、ガルデルは南米全域で絶大な人気を獲得していた。
 
-Theaters around the country are filled to capacity, and newspapers treat him as a star.
+各地の劇場は満席となり、新聞は彼をスターとして扱う。
 
-Around this time, tango began to be recognized overseas as a ""symbol of Argentine culture.''
+タンゴはこの頃から「アルゼンチン文化の象徴」として海外認識され始める。
 
-And the person who became that face was Carlos Gardel.
+そしてその顔となったのが、カルロス・ガルデルだった。
 
-> Gardel didn't just sing tango, he created the image of tango itself.
+> ガルデルはタンゴを歌っただけではなく、タンゴそのもののイメージを作り上げた。
 
 ---
 
-## Transformation into a movie star
+## 映画スターへの変貌
 
-In the 1930s, talkie films rapidly became popular around the world.
+1930年代に入ると、世界ではトーキー映画が急速に普及する。
 
-Gardel also branched out into this new medium.
+ガルデルはこの新しいメディアにも進出した。
 
-### Contract with Paramount
+### パラマウントとの契約
 
-Gardel signed a contract with the American film company Paramount and began filming in France and the United States.
+ガルデルはアメリカの映画会社パラマウントと契約し、フランスやアメリカで映画撮影を行うようになる。
 
-His films were in the musical format, combining music and story.
+彼の映画は、音楽と物語を組み合わせたミュージカル形式だった。
 
-Gardel gained overwhelming popularity, especially in Spanish-speaking countries, and became one of Latin America's earliest international film stars.
+特にスペイン語圏で圧倒的な人気を獲得し、ガルデルは「ラテンアメリカ最初期の国際映画スター」の一人となる。
 
 <div class="mermaid">
 graph TD
-A[stage singer] --> B[record star]
-B --> C[radio]
-C --> D[movie]
-D --> E[international star]
+A[舞台歌手] --> B[レコードスター]
+B --> C[ラジオ]
+C --> D[映画]
+D --> E[国際的スター]
 </div>
 
-### Voice acting
+### 声の演技
 
 The transition from the silent film era to talkies was difficult for many actors.
 
-However, Gardel was originally popular for his "voice."
+しかしガルデルは元々“声”で人気を得た存在だった。
 
-His singing voice and speaking style were directly connected to his movie star status.
+彼の歌声と話し方は、そのまま映画スター性へ直結した。
 
-In particular, his soft pronunciation and friendly smile attracted many viewers.
+特に柔らかい発音と親しみやすい笑顔は、多くの観客を惹きつけた。
 
-### New York and Latin Market
+### ニューヨークとラテン市場
 
-In the 1930s in the United States, the Spanish-speaking film market was growing.
+In the United States in the 1930s, the Spanish-speaking film market was growing.
 
-Gardel's films were an important group of films aimed at that huge market.
+ガルデル映画は、その巨大市場を狙った重要作品群だった。
 
 He also worked in New York and came to be treated as a symbolic figure in the Latin cultural area.
 
 This was also the moment when tango changed from a ""regional music" to an ""international product."
 
-> Gardel was a rare star who adapted not only to the recording era but also to the film era.
+> ガルデルは、録音時代だけでなく映画時代にも適応した稀有なスターだった。
 
 ---
 
-## 1935--Sudden Death
+## 1935年――突然の死
 
-On June 24, 1935, a plane crash occurred in Medellin, Colombia.
+1935年6月24日、コロンビア・メデジンで飛行機事故が発生する。
 
-Gardel was on tour.
+ガルデルはツアー中だった。
 
-The planes collided with each other during takeoff and burst into flames. Many passengers, including Gardel, died.
+離陸時に航空機同士が衝突し、炎上。ガルデルを含む多数の乗客が死亡した。
 
-He was 44 years old.
+彼は44歳だった。
 
 ### Impact
 
 This news sent shockwaves throughout Latin America.
 
-Newspapers ran special features every day, and memorial gatherings were held in various locations.
+新聞は連日特集を組み、各地で追悼集会が開かれた。
 
-Gardel died at the height of his popularity, so his image was forever fixed as a "young star."
+ガルデルは人気絶頂で亡くなったため、彼のイメージは永遠に“若いスター”として固定された。
 
 <div class="mermaid">
 sequenceDiagram
@@ -265,25 +264,25 @@ M->>A: 離陸事故
 A->>L: 神話化
 </div>
 
-### "Sing a little better every day"
+### 「毎日少しずつ良く歌う」
 
 Argentina has a famous saying.
 
-"Gardel sings a little better every day."
+「ガルデルは毎日少しずつ良く歌う」
 
-This is an expression that means that his presence continues to increase even after his death.
+これは死後もなお、彼の存在感が増し続けることを意味する表現である。
 
 Gardel became more than just a singer, he became a cultural myth.
 
-### Eternalization through death
+### 死による永遠化
 
-In 20th century popular culture, there are many examples of ""early death'' leading to deification.
+20世紀のポピュラー文化では、“早すぎる死”が神格化につながる例が多い。
 
-Gardel was a typical example.
+ガルデルもその典型だった。
 
-If he had lived a long life, I don't know if he would have become so mythical.
+もし彼が長寿だったなら、ここまで神話化されたかは分からない。
 
-His life came to a halt in 1935, and he will forever be remembered as a symbol of the golden age of tango.
+1935年というタイミングで人生が止まったことで、彼は永遠に「タンゴ黄金時代の象徴」として記憶されることになる。
 
 > Gardel"s death changed tango"s biggest star from "history" to "myth".
 
@@ -291,23 +290,23 @@ His life came to a halt in 1935, and he will forever be remembered as a symbol o
 
 ## After Gardel: Influence on tango culture
 
-Carlos Gardel's influence goes beyond just being a popular singer.
+カルロス・ガルデルの影響は、単なる人気歌手という範囲を超えている。
 
-He determined the direction of tango itself.
+彼はタンゴそのものの方向性を決定づけた。
 
 ### Completion of "Singing Tango"
 
-Before Gardel, tango was primarily dance music.
+ガルデル以前のタンゴは、主にダンス音楽だった。
 
-However, his success led to the establishment of a tango culture centered around lyrics.
+しかし彼の成功によって、歌詞中心のタンゴ文化が確立される。
 
-Subsequent tango singers came more or less under Gardel's influence.
+その後のタンゴ歌手たちは、多かれ少なかれガルデルの影響下に入った。
 
-### Internationalization of tango
+### タンゴの国際化
 
-Paris, New York, Madrid. Tango is expanding into cities around the world.
+パリ、ニューヨーク、マドリード。タンゴは世界都市へ進出していく。
 
-Gardel was the most important figure in that internationalization.
+ガルデルは、その国際化の最重要人物だった。
 
 Without him, it is highly likely that tango would not have become such a worldwide genre.
 
@@ -330,60 +329,60 @@ mindmap
       国民的象徴
 </div>
 
-### Succession to modern times
+### 現代への継承
 
-To this day, Gardel's recordings are still heard all over the world.
+現在でもガルデルの録音は世界中で聴かれている。
 
-He has been referenced by many Latin musicians as well as tango singers.
+タンゴ歌手だけでなく、多くのラテン音楽家が彼を参照してきた。
 
-It is also frequently featured in movies, literature, plays, documentaries, etc.
+さらに映画、文学、舞台、ドキュメンタリーなどでも頻繁に取り上げられる。
 
-He remains an "eternal voice" in Argentine culture.
+彼はアルゼンチン文化における“永遠の声”として存在し続けている。
 
-> Gardel became more than just a singer, he became a symbol of the culture of tango itself.
+> ガルデルは一人の歌手ではなく、タンゴという文化そのものを象徴する存在になった。
 
 ---
 
-## Chronology
+## 年表
 
-| Year | Events |
+| 年 | 出来事 |
 |---|---|
-| 1890 | Born in Toulouse, France (common theory) |
-| 1893 | Moves to Buenos Aires with mother |
-| Around 1911 | Formed a duo with Jose Lasano |
-| 1917 | "Mi Noche Triste" recording |
-| 1920s | Became one of the biggest stars in South America |
-| 1930s | Start of movie appearances |
-| 1935 | Died in Medellin plane crash |
+| 1890 | フランス・トゥールーズで誕生（通説） |
+| 1893 | 母とともにブエノスアイレスへ移住 |
+| 1911頃 | ホセ・ラサーノとデュオ結成 |
+| 1917 | 「Mi Noche Triste」録音 |
+| 1920年代 | 南米最大級のスターへ成長 |
+| 1930年代 | 映画出演開始 |
+| 1935 | メデジン飛行機事故で死去 |
 
 ---
 
-## Why Carlos Gardel remains special
+## なぜカルロス・ガルデルは今も特別なのか
 
-Gardel's appeal is not just because he is a ""famous singer from the past.''
+ガルデルの魅力は、単に「昔の有名歌手」だからではない。
 
-His songs encapsulate 20th century emotions: urbanization, immigration, loneliness, dreams of success, and nostalgia.
+彼の歌には、都市化、移民、孤独、成功への夢、郷愁といった20世紀的感情が凝縮されている。
 
-And he doesn't overly dramatize it.
+しかも彼は、それを過度に dramatize しない。
 
-Sing quietly.
+静かに歌う。
 
-That's why it has remained timeless.
+だからこそ、時代を超えて残った。
 
-Tango is often called "music of sadness." However, Gardel's songs are not just about tragedy; they also have an elegance about how humans can survive in the city.
+タンゴはしばしば「哀しみの音楽」と呼ばれる。しかしガルデルの歌には、単なる悲劇だけではなく、人間が都市で生き抜くための気品がある。
 
-He was one of the biggest stars born in the immigrant city of Buenos Aires, and one of the earliest global icons in the history of 20th century popular music.
+彼は移民都市ブエノスアイレスが生んだ最大のスターであり、同時に20世紀ポピュラー音楽史における最初期のグローバル・アイコンの一人だった。
 
-And even now, his voice continues to resonate, not as a memory of the past, but as an ongoing memory.
+そして今もなお、彼の声は“過去”ではなく、“現在進行形の記憶”として響き続けている。
 
-> Carlos Gardel was the moment when tango became a world language.
+> カルロス・ガルデルとは、タンゴが世界語になる瞬間そのものだった。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PfrCyVI522g?si=dzD6OKYs9mLtA6RX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

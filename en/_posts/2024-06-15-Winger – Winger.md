@@ -14,9 +14,9 @@ title: Winger – Winger
 ---
 
 
-Winger is an American rock band formed in New York in 1987. Winger released two platinum albums in the late 1980s and early 1990s, ""Winger" and ""In the Heart of the Young." In 1990, they were nominated for "Best New Heavy Metal Band" at the American Music Awards.
+Winger（ウィンガー）は、1987年にNYで結成されたアメリカのロックバンド。ウィンガーは、1980年代後半から1990年代前半にかけて、2枚のプラチナアルバム「Winger（ウィンガー）」と「イン・ザ・ハート・オブ・ザ・ヤング」をリリース。1990年には、アメリカンミュージックアワードの「Best New Heavy Metal Band」にノミネートされた。
 
-Released in 1988, "Winger" was Winger's debut studio album and was produced by Beau Hill.
+1988年にリリースした「Winger」は、Wingerのデビュースタジオアルバムで、Beau Hillがプロデュースした。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ Released in 1988, "Winger" was Winger's debut studio album and was produced by B
 11. Higher And Higher
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIpRdbi9pYw?si=jt0s2nB6c5NgTA2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

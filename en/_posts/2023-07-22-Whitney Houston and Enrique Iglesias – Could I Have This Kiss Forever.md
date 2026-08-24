@@ -20,11 +20,11 @@ title: Whitney Houston & Enrique Iglesias – Could I Have This Kiss Forever
 
 
 
-"Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever" is a collaboration song between American singer Whitney Houston and Spanish singer Enrique Iglesias. This song appears on Whitney Houston's album ""Whitney: The Greatest Hits" (2000) and Enrique Iglesias' album ""Enrique" (1999).
+「Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever」は、アメリカの歌手Whitney Houstonとスペインの歌手Enrique Iglesiasによるコラボレーション曲です。この曲は、Whitney Houstonのアルバム「Whitney: The Greatest Hits」（2000年）およびEnrique Iglesiasのアルバム「Enrique」（1999年）に収録されています。
 
-"Could I Have This Kiss Forever" is a pop ballad and is known as a love song. Whitney Houston and Enrique Iglesias' powerful vocals work together beautifully to deliver an emotionally charged performance. This song is about the love and bond between lovers, and contains a passionate message of wishing for an eternal kiss.
+「Could I Have This Kiss Forever」は、ポップ・バラードであり、愛の歌として知られています。Whitney HoustonとEnrique Iglesiasの力強いボーカルが美しく調和し、感情を込めたパフォーマンスを披露しています。この曲は、恋人同士の愛と絆をテーマにしており、永遠にキスを交わすことを願う情熱的なメッセージが込められています。
 
-"Could I Have This Kiss Forever" achieved international success after its release. In particular, it received high praise on the charts in Europe and Latin America. The song was noted as an attractive collaboration that combined the popularity and talent of both artists.
+「Could I Have This Kiss Forever」は、リリース後に国際的な成功を収めました。特に、ヨーロッパやラテンアメリカのチャートで高評価を得ました。この曲は、両アーティストの人気と才能を組み合わせた魅力的なコラボレーションとして注目されました。
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ B1. Could I Have This Kiss Forever (Tin Tin Out Mix)
 B2. If I Told You That (Johnny Douglas Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m47028864248?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47028864248?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CyZkrMNF3-k?si=rs2QnxRD8zbweJXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

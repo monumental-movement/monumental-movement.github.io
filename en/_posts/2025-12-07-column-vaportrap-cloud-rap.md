@@ -10,18 +10,18 @@ tags:
 - Hiphop
 - Vaportrap
 - Cloudrap
-title: '[Column] History and development of Vaportrap/Cloud Rap'
+title: 【コラム】 Vaportrap / Cloud Rap の歴史と深化
 ---
 
 
 
-## Prologue: What is <Cloud Rap>?
+## 序章：〈雲系ラップ〉とは何か
 
-Text: mmr｜Theme: About the genealogy of cloud rap that intersects with Lo-Fi Hip Hop
+文：mmr｜テーマ：Lo-Fi HipHopと交差する〈雲系ラップ〉の系譜について
 
-Cloud Rap arose around 2010, centered around the Bay Area and U.S. Internet Underground, and developed while connecting with post-vaporwave subculture aesthetics, Chopped & Screwed, Lo-Fi Hip-Hop, and modern emo rap. In particular, the activities of **Lil B**, **Clams Casino**, and **Main Attrakionz** symbolized the early days of the band, forming the basis of a lineage that would later lead to **Lil Peep**, **XXXTENTACION**, **Bones**, and **Yung Lean**.
+Cloud Rap は2010年前後、Bay Area と U.S. Internet Underground を中心に立ち上がり、Vaporwave 以降のサブカルチャー美学、Chopped & Screwed、Lo-Fi HipHop、モダン・エモラップに接続しながら発展した。特に**Lil B**、**Clams Casino**、**Main Attrakionz**の活動は黎明期を象徴し、後年の**Lil Peep**、**XXXTENTACION**、**Bones**、**Yung Lean**らへと連なる系譜の基礎を形成した。
 
-Cloud Rap was characterized by far more ambient sounds than traditional Hip Hop, vocal processing with strong reverb, and dreamy textures with spatial FX, and as it evolved into Vaportrap, it absorbed electronic music and Vaporwave meme culture.
+Cloud Rap は従来のHipHopよりもはるかに**アンビエント志向のサウンド、リバーブの強いボーカル処理、空間系FXを伴うドリーミーな質感**を特徴とし、その後の Vaportrap へと発展する際に、電子音楽やVaporwave 的なミーム文化を吸収していった。
 
 
 ---
@@ -31,7 +31,7 @@ Cloud Rap was characterized by far more ambient sounds than traditional Hip Hop,
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,123 +40,123 @@ color: #fff;
 </style>
 
 
-## I. Preparatory steps before Cloud Rap (2000–2008)
+## I. クラウドラップ以前の布石（2000–2008）
 
-### ● Hip-hop and mixtape culture from the internet
+### ● ネット発ヒップホップとミックステープ文化
 
-In the late 2000s, MySpace and DatPiff expanded the mixtape culture of Internet distribution, allowing collaboration without geographical constraints. This became the soil that gave rise to Cloud Rap's ""liberation from geography.''
+2000年代後半、MySpace や DatPiff によってインターネット流通のミックステープ文化が拡大し、地理的制約のないコラボレーションが可能になった。これが Cloud Rap の「地理性からの解放」を生んだ土壌となる。
 
-### ● Influence of Chopped & Screwed
+### ● Chopped & Screwed の影響
 
-**Screw processing (slowing speed, changing pitch, emphasizing reverberation)**, derived from DJ Screw's method, greatly contributed to the ""ethereal tempo'' of later Cloud Rap.
+DJ Screw の手法に由来する**スクリュー加工（低速化、ピッチ変更、残響強調）**は、後の Cloud Rap の「幽玄的テンポ感」に大きく寄与した。
 
 ---
 
-## II. Formation of Cloud Rap (2009–2012)
+## II. Cloud Rap の成立（2009–2012）
 
-### ● Cultural area of ​​Lil B and Based World
+### ● Lil B と Based World の文化圏
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nYfceJhgvRM?si=Ok7zKwZ_Q9mI5Vp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Around 2009, Lil B developed a rap style that was highly compatible with internet culture, and the group of producers who supported his music formed the prototype of Cloud Rap.
+Lil B は2009年前後からインターネット文化と親和性の高いラップスタイルを展開し、その音楽を支えたプロデューサー群が Cloud Rap の原型を形成した。
 
 ---
 
-### ● Introducing Clams Casino
+### ● Clams Casino の登場
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ddN49QWlKcY?si=bjyWCAnOueMD65jH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Clams Casino"s instrumental collections released around 2011 and the music they provided to A$AP Rocky determined Cloud Rap"s sonic image, with its ""foggy pads," ""ambient melodies," and ""deep spatial processing.''
+Clams Casino が2011年前後に発表したインスト集や A$AP Rocky への楽曲提供は、**「霧状のパッド」「アンビエントなメロディ」「深い空間処理」**を持つ Cloud Rap の音像を決定づけた。
 
 ---
 
-### ● Main Attrakionz and Scene Expansion
+### ● Main Attrakionz とシーンの拡張
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/twVAlvBTnZ8?si=n8mCVXs2dkxNl9G5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Main Attrakionz established the word "cloud" as their own style, expanding the non-commercial, DIY cultural sphere of artists of the Bandcamp generation.
+Main Attrakionz は「雲（Cloud）」という言葉を自らのスタイルとして確立し、Bandcamp 世代のアーティストたちによる非商業的かつ DIY 的な文化圏を広げた。
 
 ---
 
-## III. Emergence of Vaportrap (2013–2016)
+## III. Vaportrap の出現（2013–2016）
 
-Vaportrap is a style that combines the methodology of vaporwave (sampling, reconstruction of 80s-90s consumer culture, ambient textures) with the beat structure of trap.
+Vaportrap は Vaporwave の方法論（サンプリング、80–90年代消費文化の再構成、アンビエント的質感）と Trap のビート構造が結びついたスタイルである。
 
-### ● Aesthetic features
+### ● 美学的特徴
 
-* Textures of 90s consumer culture (CMs, late-night shows, virtual spaces, etc.)
-* Spatial processing using extreme reverb and delay
-* BPM is almost the same as Trap (120–150), but the texture is similar to Vaporwave
+* 90s コンシューマー文化（CM、深夜番組、バーチャル空間など）のテクスチャ
+* リバーブとディレイを極端に使った空間系処理
+* BPM は Trap とほぼ同等（120–150）だが、質感は Vaporwave に近い
 
-### ● Deepening producer culture
+### ● プロデューサー文化の深化
 
-Centered on SoundCloud, high-speed production and high-speed consumption occurred at the level of personal home recording, and the flow from Cloud Rap to Vaportrap was formed.
+SoundCloud を中心に、個人宅録レベルでの高速制作・高速消費が発生し、Cloud Rap から Vaportrap への流れが形成された。
 
 ---
 
-## IV. Connection between Lo-Fi HipHop and "Cloud Rap"
+## IV. Lo-Fi HipHop と〈雲系ラップ〉の接続
 
-### ● Lo-Fi HipHop methodology
+### ● Lo-Fi HipHop の方法論
 
 * Sampler culture such as MPC
-* Noise, analog texture, cassette tape distortion
-* Expansion of streaming culture as Chillhop / Study Beats
+* ノイズ、アナログ質感、カセットテープ的歪み
+* Chillhop / Study Beats としてのストリーミング文化拡大
 
-Cloud Rap's vocal processing easily mixes with Lo-Fi Hip Hop, and the works of Lil Peep and XXXTENTACION combine **guitar sound x Lo-Fi processing x Cloud Rap-like floating feeling**.
+Cloud Rap のボーカル処理は Lo-Fi HipHop と混ざりやすく、Lil Peep や XXXTENTACION の作品では**ギターサウンド × Lo-Fi 処理 × Cloud Rap 的な浮遊感**が融合した。
 
 ---
 
-## V. The Rise of Emo Rap/Sad Rap (2016–2018)
+## V. エモラップ／サッドラップの隆盛（2016–2018）
 
-### ● Lil Peep influence
+### ● Lil Peep の影響
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WvV5TbJc9tQ?si=1IkB5nYL0dsO2sdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Lil Peep developed a style that mixed elements of emo, punk, and cloud rap, forming the core of the post-SoundCloud Rap aesthetic. In particular, the combination of **guitar sample x reverb x sad melody** had a strong influence on subsequent songs.
+Lil Peep はエモ、パンク、クラウドラップの要素を混合したスタイルを確立し、SoundCloud Rap 以降の美学の中心を形成した。特に**ギターサンプル × Reverb × 悲哀的メロディ**の組み合わせは後続へ強く影響。
 
 ---
 
-### ● Diversity of XXXTENTACION
+### ● XXXTENTACION の多様性
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DW3tI9HCslo?si=EBkDtIT7ikyQcmHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-XXXTENTACION has practiced a wide range of styles, from cloud rap to hardcore, R&B, and alternative. The minimal sound structure, emphasis on low frequencies, and ambient elements were all in line with Vaportrap's direction.
+XXXTENTACION はクラウドラップ的質感から、ハードコア、R&B、オルタナティブまで幅広く実践した。ミニマルなサウンド構造、低域の強調、アンビエント要素などは Vaportrap 的な方向性とも連動していた。
 
 ---
 
-## VI. Modern Vaportrap / Cloud Rap (2019–2025)
+## VI. 現代の Vaportrap / Cloud Rap（2019–2025）
 
-### ● Internationalization and eliminating regional differences
+### ● 国際化と地域差の解消
 
-With the rise of YouTube, SoundCloud, and TikTok, Cloud Rap techniques are spreading to all parts of the world. Similar production methods have become common in Asia and Europe.
+YouTube、SoundCloud、TikTok の台頭により、Cloud Rap 的手法は世界各地へと拡散している。アジア圏やヨーロッパでも類似の制作手法が一般化した。
 
-### ● Changes in beat culture due to generative AI (fact-based)
+### ● 生成AIによるビート文化の変化（事実ベース）
 
 In the late 2020s, cloud-like pads and ambient texture generation using diffusion and generative models have become commonplace, making production faster in the home environment.
 
 ---
 
-## Sound structure analysis
+## サウンド構造分析
 
-### ● Typical beat elements of Vaportrap / Cloud Rap
+### ● Vaportrap / Cloud Rap の典型的ビート要素
 
-* **Pad**: Deep reverb synth, ambient chords
-* **Drums**: Trap target (808, hi-hat roll, deep kick)
-* **BPM**: 120–150
-* **Vocal processing**: Deeper reverb, Auto-Tune, dub processing
-* **Texture**: 90s/Y2K Culture Quotes
+* **パッド**：深いリバーブのシンセ、アンビエント的コード
+* **ドラム**：Trap 的（808、ハイハットロール、ディープキック）
+* **BPM**：120–150
+* **ボーカル処理**：リバーブ深め、Auto-Tune、ダブ処理
+* **テクスチャ**：90s / Y2K 文化の引用
 
-Below is a relationship diagram illustrating the sound structure:
+以下はサウンド構造を図示した関係図：
 
 <div class="mermaid">
 flowchart TD
@@ -169,7 +169,7 @@ flowchart TD
 
 ---
 
-## Chronology: Vaportrap / Cloud Rap Timeline
+## 年表：Vaportrap / Cloud Rap Timeline
 
 <div class="mermaid">
 timeline
@@ -183,10 +183,10 @@ timeline
 
 ---
 
-## Conclusion: Where is "cloud rap" headed?
+## 結語：〈雲系ラップ〉はどこへ向かうのか
 
-Cloud Rap is not just a genre, it has become a symbol of post-internet hip-hop production methods, aesthetics, and distribution culture. The fusion with Vaportrap continues to indicate a direction in which music revolves around the online aesthetic sphere rather than the physical context.
+Cloud Rap は単なるジャンルではなく、ネット以降のヒップホップの**制作方法・美学・配信文化**の象徴となった。Vaportrap との融合は、音楽が物理的文脈よりも**オンラインの美学圏**を中心に展開する方向性を示し続けている。
 
-In the future, by linking with generation AI, it is expected that the Cloud Rap-like texture will become even more abstract, expanding into a more ambient and "inhuman" sound image.
+今後、生成AI との連動により、Cloud Rap 的質感はさらに抽象化され、よりアンビエントで“非人間的”な音像へ広がることが予想される。
 
 ---

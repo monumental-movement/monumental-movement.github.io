@@ -10,40 +10,40 @@ tags:
 - Bloghouse
 - Electro
 - House
-title: '[Column] Dance music revolution brought about by the internet'
+title: 【コラム】 インターネットが生んだダンスミュージック革命
 ---
 
 
 
-## What was Bloghouse?
+## Bloghouseとは何だったのか
 
-Text: mmr | Theme: The history of the birth and disappearance of "Bloghouse" in the late 2000s, when blogs and MySpace changed club culture around the world.
+文：mmr｜テーマ：2000年代後半、ブログとMySpaceが世界のクラブカルチャーを変えた“Bloghouse”の誕生と消滅の歴史。
 
 
 
-### A new club culture created by the internet
+### インターネットが作った新しいクラブカルチャー
 
-In the mid-2000s, the distribution structure of club music was undergoing major changes. In addition to traditional dissemination channels centered on record shops and the DJ community, the Internet, especially music blogs, began to become a new base for dissemination.
+2000年代半ば、クラブミュージックの流通構造は大きく変化していた。レコードショップやDJコミュニティを中心とした従来の拡散経路に加え、インターネット、とりわけ音楽ブログが新しい発信拠点となり始めたのである。
 
-The music style that emerged during this era was the culture that later became known as ""Bloghouse.''
-Bloghouse is not a strict musical genre, but rather a movement closely tied to Internet culture.
+この時代に登場した音楽スタイルが、後に「Bloghouse」と呼ばれる文化である。
+Bloghouseは厳密な音楽ジャンルというより、インターネット文化と密接に結びついたムーブメントを指す言葉である。
 
-Features include the following elements:
+特徴として挙げられるのは以下のような要素である。
 
-- Aggressive sound based on electro house
-- Fusion with indie rock elements
-- Distribution of unofficial remixes and bootlegs
-- Spread by MP3 Blog
-- Artist communication centered on MySpace
+- エレクトロハウスを基盤にした攻撃的なサウンド
+- インディーロックの要素との融合
+- 非公式リミックスやブートレグの流通
+- MP3ブログによる拡散
+- MySpaceを中心としたアーティスト発信
 
-In other words, Bloghouse was not so much a music genre as a club culture born as a byproduct of the distribution revolution.
+つまりBloghouseは、音楽ジャンルというより**流通革命の副産物として生まれたクラブ文化**だった。
 
-At the time, music blogs played the role of introducing new music sources. Many sites listed the MP3s as direct downloads, allowing readers to get the latest tracks for free.
-This system created a unique distribution network that was not mediated by record company promotions.
+当時の音楽ブログは、新しい音源を紹介する役割を担っていた。多くのサイトがMP3を直接ダウンロード可能な形で掲載しており、読者は無料で最新トラックを入手できた。
+この仕組みが、レコード会社のプロモーションを介さない独自の流通ネットワークを形成したのである。
 
-Looking back at the history of club culture, the way music is spread varies greatly depending on the media. Radio popularized rock music, record stores created house music, and blogs created Bloghouse.
+クラブカルチャーの歴史を振り返ると、音楽の広がり方はメディアによって大きく変わる。ラジオがロックを広げ、レコードショップがハウスを育て、そしてブログがBloghouseを生んだ。
 
-> Bloghouse was a testing ground for club culture created by music distribution in the Internet era.
+> Bloghouseとは、インターネット時代の音楽流通が生み出したクラブ文化の実験場だった。
 
 ---
 
@@ -52,7 +52,7 @@ Looking back at the history of club culture, the way music is spread varies grea
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -61,161 +61,161 @@ color: #fff;
 </style>
 
 
-## Background of the birth of Bloghouse
+## Bloghouse誕生の背景
 
-### Evolution from Electroclash
+### エレクトロクラッシュからの進化
 
-One of Bloghouse's direct roots is the electroclash of the early 2000s.
+Bloghouseの直接的なルーツの一つが、2000年代初頭のエレクトロクラッシュである。
 
-Electroclash is a type of club music that references synth pop and electro in the 1980s, and spread mainly in the art scene of New York and Europe.
-In this vein, a sound characterized by synth bass and distorted drum machines was established.
+エレクトロクラッシュは、1980年代のシンセポップやエレクトロを参照したクラブミュージックで、ニューヨークやヨーロッパのアートシーンを中心に広がった。
+この流れの中で、シンセベースと歪んだドラムマシンを特徴とするサウンドが確立されていく。
 
-In the mid-2000s, the electroclash style evolved in a harder direction.
-A new club sound was formed by mixing French house, indie dance, and techno.
+2000年代半ばになると、エレクトロクラッシュのスタイルはよりハードな方向へ進化する。
+フレンチハウス、インディーダンス、テクノなどが混ざり合い、新しいクラブサウンドが形成された。
 
-This change is also linked to the club scene of the same period.
-Electro house quickly gained popularity in Europe, where more aggressive bass lines and distorted synth sounds began to become mainstream.
+この変化は同時期のクラブシーンとも連動している。
+ヨーロッパではエレクトロハウスが急速に人気を獲得し、より攻撃的なベースラインと歪んだシンセサウンドが主流になり始めた。
 
-The sound had an energy closer to rock than traditional house music.
-Therefore, it naturally overlaps with the indie rock fan base.
+そのサウンドは、従来のハウスミュージックよりもロックに近いエネルギーを持っていた。
+そのため、インディーロックのファン層とも自然に重なり合うことになる。
 
-Bloghouse was born at the intersection of these two cultures.
+Bloghouseはこの二つの文化の交差点で誕生した。
 
-The distance between club music and indie rock is shrinking, and the line between DJ and band is becoming blurred.
-The Internet supported this fusion.
+クラブミュージックとインディーロックの距離が縮まり、DJとバンドの境界が曖昧になっていく。
+そしてその融合を支えたのが、インターネットだった。
 
-> Bloghouse was born as a result of the fusion of electroclash genes and indie rock enthusiasm.
+> Bloghouseはエレクトロクラッシュの遺伝子とインディーロックの熱量が融合した結果として生まれた。
 
 ---
 
-## MP3 Blog Revolution
+## MP3ブログ革命
 
-### The blog that was the center of music discovery
+### 音楽発見の中心だったブログ
 
-In the mid-2000s, streaming services like Spotify and Apple Music didn't yet exist.
-The main ways to discover music were:
+2000年代中盤、SpotifyやApple Musicのようなストリーミングサービスはまだ存在していなかった。
+音楽を発見する主な方法は、以下のようなものだった。
 
-- music magazine
-- Radio
-- record shop
--MySpace
-- Music blog
+- 音楽雑誌
+- ラジオ
+- レコードショップ
+- MySpace
+- 音楽ブログ
 
-Of particular importance was the MP3 blog.
+この中で特に重要だったのが、MP3ブログである。
 
-The music blog was a site where the administrator introduced his favorite music.
-The article was accompanied by an MP3 file that readers could download directly.
+音楽ブログは、管理人が好きな音楽を紹介するサイトだった。
+記事にはMP3ファイルが添付されており、読者は直接ダウンロードできた。
 
-These sites existed in the thousands and were linked together to form a network.
+こうしたサイトは数千単位で存在し、互いにリンクしながらネットワークを形成していた。
 
 <div class="mermaid">
 graph TD
-A[artist] --> B[MySpace public]
-B --> C[music blog]
-C --> D[MP3 download]
-D --> E[DJ play]
-E --> F[club hit]
+A[アーティスト] --> B[MySpace公開]
+B --> C[音楽ブログ]
+C --> D[MP3ダウンロード]
+D --> E[DJプレイ]
+E --> F[クラブヒット]
 </div>
 
-The feature of this system was the speed of promotion.
+この仕組みの特徴は、**プロモーションのスピード**だった。
 
-It was not uncommon for the sound source to be posted on blogs before the record was released, and spread to DJs around the world within a few days.
+レコードが発売される前に音源がブログに掲載され、数日で世界中のDJに広まることも珍しくなかった。
 
-Even more important was the explosion of remix culture.
+さらに重要だったのは、**リミックス文化の爆発**である。
 
-Many of Bloghouse's releases were bootlegs and unofficial remixes rather than official releases.
-A track by a famous indie band that has been adapted into an electro-house song spreads through blogs and becomes a club hit.
+Bloghouseの多くは公式リリースではなく、ブートレグや非公式リミックスだった。
+有名インディーバンドの曲をエレクトロハウスに改造したトラックが、ブログ経由で広まりクラブヒットになる。
 
-Thus, the cycle of music production and dissemination rapidly accelerated.
+こうして音楽の制作と拡散のサイクルが急激に加速した。
 
-> MP3 blogs functioned as a faster music distribution system than record companies.
+> MP3ブログは、レコード会社より速い音楽流通システムとして機能していた。
 
 ---
 
-## MySpace and the Rise of the Artist
+## MySpaceとアーティストの台頭
 
-### DIY star created by SNS
+### SNSが生んだDIYスター
 
-MySpace played a pivotal role in Bloghouse's expansion.
+Bloghouseの拡大において、MySpaceは極めて重要な役割を果たした。
 
-MySpace was a social networking service launched in 2003 that included the ability to embed a music player into your profile.
-This allowed artists to release their songs directly without going through a record company.
+MySpaceは2003年に開始されたソーシャルネットワークサービスで、音楽プレイヤーをプロフィールに埋め込める機能を持っていた。
+これにより、アーティストはレコード会社を通さず直接楽曲を公開できた。
 
 <div class="mermaid">
 flowchart TD
-A[Artist production] --> B[MySpace public]
-B --> C[Blog publication]
-C --> D[DJ play]
-D --> E[club popularity]
-E --> F[label contract]
+A[アーティスト制作] --> B[MySpace公開]
+B --> C[ブログ掲載]
+C --> D[DJプレイ]
+D --> E[クラブ人気]
+E --> F[レーベル契約]
 </div>
 
-This trend has led many artists to move from online to the club scene.
+この流れによって、多くのアーティストがオンラインからクラブシーンへ進出した。
 
-What makes them unique is their backgrounds, which are different from traditional club DJs.
+彼らの特徴は、従来のクラブDJとは異なるバックグラウンドである。
 
-- From indie rock
-- Graphic designer
-- student
-- DIY producer
+- インディーロック出身
+- グラフィックデザイナー
+- 学生
+- DIYプロデューサー
 
-In other words, Bloghouse was a movement that symbolized the democratization of club culture.
+つまりBloghouseは、**クラブカルチャーの民主化**を象徴するムーブメントでもあった。
 
-The spread of music production software also supported this trend.
-DAWs such as Ableton Live became popular, and it became possible to create club tracks at home.
+音楽制作ソフトの普及もこの流れを後押しした。
+Ableton LiveなどのDAWが一般化し、自宅でクラブトラックを制作することが可能になったのである。
 
-With the influx of new artists from outside the club, the sound became freer and more experimental.
+クラブの外側から新しいアーティストが流入したことで、サウンドはより自由で実験的になった。
 
-> MySpace has brought a lot of DIY artists to the club scene.
+> MySpaceはクラブシーンにDIY世代のアーティストを大量に送り込んだ。
 
 ---
 
-## Features of Bloghouse sound
+## Bloghouseサウンドの特徴
 
-### Distorted bass and rock energy
+### 歪んだベースとロック的エネルギー
 
-Bloghouse's sound was distinctly different from traditional house music.
+Bloghouseのサウンドは、従来のハウスミュージックとは明確に異なっていた。
 
-The main features are as follows.
+主な特徴として以下が挙げられる。
 
-- distorted synth bass
-- Electro house kick
-- rock energy
-- bold sampling
-- Short song structure
+- 歪んだシンセベース
+- エレクトロハウスのキック
+- ロック的なエネルギー
+- 大胆なサンプリング
+- 短い曲構成
 
-Particularly symbolic was the **extensive use of distortion**.
+特に象徴的だったのが、**ディストーションの多用**である。
 
-The sound of heavily distorted synth bass gave club music a punk-like aggressiveness.
-This style would also influence later EDM sounds.
+シンセベースを激しく歪ませたサウンドは、クラブミュージックにパンク的な攻撃性を与えた。
+このスタイルは、後のEDMサウンドにも影響を与えることになる。
 
 <div class="mermaid">
 graph TD
-A[Bloghouse sound]
+A[Bloghouseサウンド]
 A --> B[Electro House]
 A --> C[Indie Rock]
 A --> D[French House]
 A --> E[Techno]
 </div>
 
-Another feature of Bloghouse is its remix culture.
+またBloghouseの特徴として、リミックス文化が挙げられる。
 
-Many DJs reworked existing songs to create new dancefloor versions.
-These were not official releases and were often distributed for free on blogs.
+多くのDJが既存の曲を再構築し、新しいダンスフロア向けバージョンを制作した。
+これらは公式リリースではなく、ブログで無料配布されることが多かった。
 
-This culture brought a new sense of speed to club music.
+この文化は、クラブミュージックに新しいスピード感をもたらした。
 
-> Bloghouse was a sound that combined rock impulses with electro-house beats.
+> Bloghouseはロックの衝動とエレクトロハウスのビートを結びつけたサウンドだった。
 
 ---
 
-## Golden Age of Bloghouse
+## Bloghouseの黄金期
 
-### 2006-2009 Explosion
+### 2006〜2009年の爆発
 
-Bloghouse's popularity peaked between 2006 and 2009.
+Bloghouseの人気がピークに達したのは2006年から2009年頃である。
 
-During this period, indie dance parties proliferated in the club scene, and Bloghouse became the mainstay.
+この時期、クラブシーンではインディーダンスパーティーが急増し、Bloghouseはその中心的な音楽となった。
 
 <div class="mermaid">
 timeline
@@ -227,72 +227,72 @@ timeline
 2009 : ピーク
 </div>
 
-Club events of this era had a different atmosphere than traditional house parties.
+この時代のクラブイベントは、従来のハウスパーティーとは異なる雰囲気を持っていた。
 
-- Band T-shirt
-- neon colors
-- Internet culture
-- DIY art
+- バンドTシャツ
+- ネオンカラー
+- インターネット文化
+- DIYアート
 
-In other words, Bloghouse was both a music genre and a culture that included fashion and aesthetics.
+つまりBloghouseは、**音楽ジャンルであると同時にファッションや美学を含むカルチャー**だった。
 
 インディーロックのファンがクラブに流入し、クラブカルチャーの客層も変化する。
-The line between a DJ and a band became blurred, and more and more events began to include live performances and DJ sets.
+DJとバンドの境界が曖昧になり、ライブとDJセットが混在するイベントが増えていった。
 
 この新しいクラブ文化は、世界各地で急速に広がっていった。
 
-> 2006 to 2009 was a time when Bloghouse was at the center of club culture.
+> 2006年から2009年はBloghouseがクラブカルチャーの中心にあった時代だった。
 
 ---
 
-## Why did Bloghouse disappear?
+## なぜBloghouseは消えたのか
 
-### The advent of streaming era
+### ストリーミング時代の到来
 
-Bloghouse quickly became a huge movement, but it didn't have a long lifespan.
+Bloghouseは短期間で巨大なムーブメントになったが、その寿命は長くなかった。
 
-There are several reasons for the decline.
+衰退の理由はいくつか存在する。
 
-First, there is a decline in MP3 blogs.
+第一に、MP3ブログの減少である。
 2010年前後になると著作権問題が強化され、多くのブログがMP3配布を停止した。
 
-Second, there are changes in music distribution.
+第二に、音楽流通の変化である。
 
-In the 2010s, streaming services such as Spotify and SoundCloud emerged, shifting the focus of music discovery from blogs to platforms.
+2010年代になると、SpotifyやSoundCloudなどのストリーミングサービスが登場し、音楽発見の中心がブログからプラットフォームへ移行した。
 
-Thirdly, there is the rise of EDM.
+第三に、EDMの台頭である。
 
-The sound of the club scene was changing as big festival electronic music gained popularity.
+フェスティバル向けの大型エレクトロニックミュージックが人気を獲得し、クラブシーンのサウンドも変化していった。
 
-Bloghouse's DIY culture is gradually being overshadowed by the huge festival culture.
+BloghouseのDIY文化は、巨大フェス文化の中で徐々に影を潜めていく。
 
-> Bloghouse's demise was closely tied to changes in Internet music distribution.
+> Bloghouseの終焉は、インターネット音楽流通の変化と密接に結びついていた。
 
 ---
 
-## Legacy of Bloghouse
+## Bloghouseが残した遺産
 
-### Influence on contemporary club music
+### 現代クラブミュージックへの影響
 
-Bloghouse was short-lived, but its influence is still felt today.
+Bloghouseは短命だったが、その影響は現在も残っている。
 
 主な遺産として挙げられるのは以下である。
 
 - インディーダンスの定着
-- Expansion of remix culture
-- Increase in DIY producers
-- Internet-driven music discovery
+- リミックス文化の拡大
+- DIYプロデューサーの増加
+- インターネット主導の音楽発見
 
-Additionally, the current TikTok and SoundCloud cultures have a structure similar to the Internet diffusion model of the Bloghouse era.
+また、現在のTikTokやSoundCloud文化も、Bloghouse時代のインターネット拡散モデルに近い構造を持っている。
 
-The system of spreading music through the community was already established during the Bloghouse era.
+音楽がコミュニティによって広がるという仕組みは、Bloghouse時代にすでに確立されていた。
 
-If you look at the history of club culture, movements like these come and go in short cycles.
-However, its influence is passed on to the next generation of music.
+クラブカルチャーの歴史を見ると、こうしたムーブメントは短い周期で生まれては消えていく。
+しかしその影響は次の世代の音楽に受け継がれる。
 
-Bloghouse is also one of the important footprints left behind by the internet culture of the 2000s.
+Bloghouseもまた、2000年代のインターネット文化が残した重要な足跡の一つである。
 
-> Bloghouse is not a genre that has disappeared, but rather a legacy that has blended into modern music culture.
+> Bloghouseは消えたジャンルではなく、現代の音楽文化に溶け込んだ遺産と言える。
 
 ---
 

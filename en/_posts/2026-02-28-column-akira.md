@@ -11,25 +11,24 @@ tags:
 - FilmMusic
 - Cyberpunk
 - 80s
-title: '[Column] Why does AKIRA still sound like the sound of the future? — Avant-garde
-  ethnic sounds and the resurgence of cyberpunk'
+title: 【コラム】 AKIRAはなぜいまも未来の音で鳴るのか —— 前衛民族サウンドとサイバーパンク再燃
 ---
 
 
 
-## Prologue: Why "AKIRA still sounds like the future"
+## 序章：なぜ「AKIRAはいまも未来に聞こえる」のか
 
-Text: mmr｜Theme: Why AKIRA still sounds like the "sound of the future"—Prophecies about the city and the body drawn by avant-garde folk sounds
+文：mmr｜テーマ：AKIRAがいまも“未来の音”に聞こえる理由——前衛民族サウンドが描いた都市と身体の予言
 
-In 1988, an animated film was released from Japan, which was in the midst of a bubble economy. The original work is by Katsuhiro Otomo. The music is by Shoji Yamashiro, who leads the entertainment Yamashiro group. The name of the work is AKIRA.
+1988年、バブル経済の熱気が渦巻く日本から一本のアニメ映画が放たれた。原作は大友克洋。音楽は芸能山城組を率いる山城祥二。作品名はAKIRA。
 
-Even though it's been nearly 40 years since its release, the sound of this movie never gets old. In fact, in recent years, with the resurgence of cyberpunk, the context of ""Why AKIRA Still Sounds Future'' has become stronger.
+公開から四十年近くが経とうとしているにもかかわらず、この映画の音は古びない。むしろ近年、サイバーパンクが再燃するなかで、「Why AKIRA Still Sounds Future」という文脈が強まっている。
 
-The reason is not just nostalgia. Runaway cities, tensions between the state and technology, youth"s outbursts, and the transformation of the body. The soundtrack, which plays at the intersection of folk music and electronic sounds, eerily resonates with today"s world.
+その理由は単なるノスタルジーではない。都市の暴走、国家とテクノロジーの緊張、若者の暴発、そして身体の変容。そのすべてを、民族音楽と電子音響の交差点で鳴らしたサウンドトラックが、いまの世界と不気味なほど呼応しているからだ。
 
-In this article, based on facts, we will decipher how AKIRA's music became the "sound of the future" through its production background, acoustic structure, cultural influences, and the process of re-evaluation.
+本稿では、事実に基づきながら、AKIRAの音楽がいかにして“未来の音”となったのかを、制作背景、音響構造、文化的影響、そして再評価の流れまでを通して読み解いていく。
 
-> AKIRA's sound anticipated our present, not the future of 1988.
+> AKIRAの音は、1988年の未来ではなく、私たちの現在を先取りしていた。
 
 
 ---
@@ -39,7 +38,7 @@ In this article, based on facts, we will decipher how AKIRA's music became the "
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -48,89 +47,89 @@ color: #fff;
 </style>
 
 
-## Urban Prophecy: The acoustic space called Neo Tokyo
+## 都市の予言：ネオ東京という音響空間
 
-### Original work and film adaptation process
+### 原作と映画化のプロセス
 
-The original manga ""AKIRA'' began serialization in 1982, and the story unfolds in Neo-Tokyo after a nuclear war. The movie version was released in 1988. The total production cost was unprecedented at the time, making it an outstanding project in the history of Japanese animation.
+原作漫画『AKIRA』は1982年から連載が始まり、核戦争後のネオ東京を舞台に物語が展開する。映画版は1988年公開。総制作費は当時としては異例の規模で、日本アニメ史上でも突出したプロジェクトだった。
 
-The story is set in Neo Tokyo in 2019. Military experiments, anti-government demonstrations, motorcycle gangs, and the development of supernatural powers. It depicts the collapse and rebirth of a city, strongly reflecting the atmosphere at the end of the Cold War.
+物語の舞台は2019年のネオ東京。軍事実験、反政府デモ、バイク暴走族、超能力開発。冷戦末期の空気を色濃く反映しながら、都市の崩壊と再生を描いた。
 
-The music was conceived in parallel with the film's production. Director Otomo sought a more fundamental and religious sound than the existing anime-like accompaniment. As a result, the group that was singled out was the entertainment Yamashiro group.
+音楽は映画制作と並行して構想された。監督の大友は、既存のアニメ的劇伴ではなく、より根源的で宗教的な響きを求めた。その結果、白羽の矢が立ったのが芸能山城組だった。
 
-### Positional relationship with Cyberpunk
+### サイバーパンクとの位置関係
 
-Akira is often ranked as a masterpiece of cyberpunk. Blade Runner came out in 1982, six years before the movie was released. This one depicts urban decadence using Vangelis's synth sounds.
+AKIRAはしばしばサイバーパンクの代表作と並べられる。映画公開6年前の1982年にはBlade Runnerが登場している。こちらはヴァンゲリスによるシンセサウンドで都市の退廃を描いた。
 
-On the other hand, AKIRA did not express the future only with electronic sounds. Rather, it brought to the fore ethnic, ritual, and physical sounds, sounding technology and magic at the same time.
+一方、AKIRAは電子音だけで未来を表現しなかった。むしろ民族的、儀式的、身体的な音を前面に押し出し、テクノロジーと呪術を同時に鳴らした。
 
-This choice would later update the image of cyberpunk.
+この選択こそが、のちのサイバーパンク像を更新することになる。
 
 <div class="mermaid">
 flowchart LR
-A[1982 Original serialization begins] --> B[1988 Movie released]
-B --> C[Adopts avant-garde ethnic sound]
-C --> D[City x Ritual Sound]
-D --> E[Reassessment and rekindling]
+A[1982 原作連載開始] --> B[1988 映画公開]
+B --> C[前衛民族サウンド採用]
+C --> D[都市×儀式的音響]
+D --> E[再評価と再燃]
 </div>
 
-> Neo-Tokyo was built not only by sight but also by sound.
+> ネオ東京は視覚だけでなく、音によっても構築されていた。
 
 ---
 
-## The structure of avant-garde ethnic sound: The challenge of the entertainment Yamashiro group
+## 前衛民族サウンドの構造：芸能山城組の挑戦
 
-### What is Geino Yamashiro Gumi?
+### 芸能山城組とは何か
 
-The Geino Yamashiro-gumi was a musical group formed around Shoji Yamashiro that researched and practiced folk music. His research subjects included Indonesian gamelan, Balinese ritual music, and African polyrhythms, and he attempted to reconstruct them in his own way.
+芸能山城組は、山城祥二を中心に結成された音楽集団で、民族音楽の研究と実践を行っていた。インドネシアのガムラン、バリ島の儀式音楽、アフリカのポリリズムなどを研究対象とし、独自の再構築を試みていた。
 
-In producing AKIRA's music, they applied actual vocal techniques and percussion instrument structures, rather than simply creating a "folk music style."
+AKIRAの音楽制作において、彼らは単なる「民族音楽風」ではなく、実際の発声法や打楽器構造を応用した。
 
-The opening song ""Kaneda'' is symbolic. Drums, choruses, and communicative vocalizations. The beats are not simple four-beat beats, but are layered with complex rhythms.
+象徴的なのがオープニングの「金田」。太鼓、合唱、声明のような発声。拍節は単純な4拍子ではなく、複雑なリズムが重層する。
 
-### Fusion of electronic and folk sounds
+### 電子音と民族音の融合
 
-AKIRA's soundtrack combines ethnic elements and synthesizers. However, electronic sounds are not the main character. It only functions as a space expansion device.
+AKIRAのサウンドトラックは、民族的要素とシンセサイザーを併用している。だが電子音は主役ではない。あくまで空間の拡張装置として機能する。
 
-The reason why this structure created a sense of the future is clear.
+この構造が未来感を生んだ理由は明確だ。
 
 Much of the ""future sound'' of the 1980s was centered around synths. However, AKIRA brought to the forefront voices and percussion instruments that could be described as primitive. The result was a sound whose time axis could not be determined.
 
-It was a sound that belonged neither to the past nor to the future.
+それは過去にも未来にも属さない音だった。
 
 <div class="mermaid">
 flowchart TD
-A[ethnic percussion instruments] --> D[acoustic layered structure]
-B[Chorus/Statement] --> D
-C[synthesizer] --> D
-D --> E[A sense of the future that transcends time axis]
+A[民族的打楽器] --> D[音響的重層構造]
+B[合唱・声明] --> D
+C[シンセサイザー] --> D
+D --> E[時間軸を超えた未来感]
 </div>
 
-> AKIRA's future was built not only on technology, but also on the sounds of ritual.
+> AKIRAの未来はテクノロジーだけではなく、儀式の響きで構築されていた。
 
 ---
 
-## Body and Sound: Sound Design of Runaway and Transformation
+## 身体と音：暴走と変容のサウンドデザイン
 
-### Rhythm of the bike scene
+### バイクシーンのリズム
 
-The motorcycle chase at the beginning of the movie is more than just an action scene. The emphasis on rhythm, synchronization with the sound of the engine, and the beat of the drums create physical excitement.
+映画冒頭のバイクチェイスは、単なるアクションではない。リズムの強調、エンジン音との同期、太鼓の拍動が身体的な興奮を生む。
 
-Sound does not follow vision, but instead represents the heartbeat of the body. The audience unconsciously synchronizes with the rhythm.
+音は視覚を追随するのではなく、身体の鼓動を代弁する。観客は無意識にそのリズムに同期する。
 
-### Tetsuo's transformation and sound
+### 鉄雄の変容と音響
 
-In the second half of the story, Tetsuo's rampant abilities and physical transformation are powerfully depicted in terms of sound. The combination of high-frequency electronic sounds, undulating bass, and the tension of the chorus creates an audible sense of unease.
+物語後半、鉄雄の能力暴走と肉体変容は、音響面でも強烈に描かれる。高周波的な電子音と低音のうねり、合唱の緊張感が重なり、聴覚的な不安を生む。
 
-What is important here is that the sound is not just a performance, but is ""part of the story.''
+ここで重要なのは、音が単なる演出ではなく「物語の一部」である点だ。
 
-Music is not the background. It exists as a voice that symbolizes the will of the city, the pressure of the state, and the collapse of the individual.
+音楽は背景ではない。都市の意思、国家の圧力、個人の崩壊を象徴する声として存在している。
 
-> AKIRA"s sound was not the character"s emotions, but the heartbeat of the city itself.
+> AKIRAの音はキャラクターの感情ではなく、都市そのものの鼓動を鳴らしていた。
 
 ---
 
-## Chronology: Intersection of AKIRA and Cyberpunk
+## 年表：AKIRAとサイバーパンクの交差
 
 <div class="mermaid">
 timeline
@@ -141,62 +140,62 @@ timeline
     2020 : サイバーパンク再評価の波
 </div>
 
-When it was released in 1988, it was screened not only in Japan but also overseas, gaining cult popularity in North America and Europe.
+1988年公開当時、日本国内だけでなく海外でも上映され、北米や欧州でカルト的人気を獲得した。
 
-In the 21st century, it is being reevaluated with Blu-ray and 4K remastering.
+21世紀に入り、Blu-rayや4Kリマスターによって再評価が進む。
 
-Furthermore, in recent years, the resurgence of games and anime has strengthened the context of cyberpunk. One of the symbols of this is Cyberpunk: Edgerunners.
+さらに近年、ゲームやアニメの再ブームによって、サイバーパンクの文脈が強まった。その象徴の一つがCyberpunk: Edgerunnersである。
 
-Amid this resurgence, AKIRA is once again referred to as the "completed form" rather than the "original."
+この再燃の中で、AKIRAは「元祖」ではなく、「完成形」として再び参照されている。
 
-> AKIRA was not at the forefront of its time, but rather a work that repeatedly challenged its times.
-
----
-
-## Influence and succession: Spread to global music and visual culture
-
-AKIRA's visuals and music have influenced many creators. Neon cities, motorcycles, military research, and runaway youth.
-
-In terms of music, the idea of ​​fusion of ethnic elements and electronic sounds was later connected to experimental sounds and club music.
-
-In particular, it is significant in that it breaks down the stereotype that ""the future = cold electronic sounds''. Rather, it showed that the future could be depicted with a physical and indigenous resonance.
-
-> AKIRA's influence remained on the world not as a quote, but as an update of ideas.
+> AKIRAは時代の先端だったのではなく、時代を何度も迎え撃つ作品だった。
 
 ---
 
-## Why is it happening again now?
+## 影響と継承：世界的な音楽・映像文化への波及
 
-### Real cities have caught up
+AKIRAのビジュアルと音楽は、数多くのクリエイターに影響を与えた。ネオン都市、バイク、軍事研究、暴走する若者。
 
-Coincidentally, 2019 was the stage year for AKIRA. Pandemics, social unrest, national and personal tensions. It seemed as if the real city had caught up with fiction.
+音楽面では、民族的要素と電子音の融合という発想が、のちの実験的サウンドやクラブミュージックにも接続される。
 
-### Return of Cyberpunk
+特に「未来＝冷たい電子音」という固定観念を崩した点は大きい。未来はむしろ、身体的で土着的な響きと共に描かれる可能性があると示した。
 
-Cyberpunk aesthetics are being reevaluated in games, anime, and fashion. Neon lights, prosthetic bodies, and a surveillance society. AKIRA is at the origin of that visual code.
-
-But even more important than sight is sound.
-
-In the age of digital, the multilayered physical voice and percussion sounds paradoxically fresh.
-
-AKIRA's sound was created not by AI or algorithms, but by humans' collective vocalizations and breathing.
-
-> Because we live in a digital age, AKIRA's physical sounds sound like the future.
+> AKIRAの影響は引用ではなく、発想の更新として世界に残った。
 
 ---
 
-## Conclusion: A work that continues to resonate the future
+## なぜいま再燃するのか
 
-AKIRA's music is not fixed to a specific era. The experimental spirit of 1988, the results of ethnic music research, and the turning point in anime history. They have crystallized and still resonate in a new way.
+### 現実の都市が追いついた
 
-The answer to the question "Why AKIRA Still Sounds Future" is simple.
+2019年は、偶然にもAKIRAの舞台年だった。パンデミック、社会不安、国家と個人の緊張。現実の都市が、フィクションに追いついたかのように見えた。
 
-That"s because they didn"t depict the future with electronic sounds.
+### サイバーパンクの復権
 
-Ritual, chorus, percussion, and urban noise. By mixing these, he created a sound that was free from the time axis.
+ゲーム、アニメ、ファッションでサイバーパンク的美学が再評価されている。ネオン、義体、監視社会。その視覚的コードの源流にAKIRAがある。
 
-AKIRA did not predict the future. It presented the future sound.
+だが視覚以上に重要なのは音だ。
 
-> AKIRA is not a finished work, but a future that continues to resonate even now.
+デジタル全盛の時代に、身体的な声と打楽器の重層は逆説的に新鮮に響く。
+
+AKIRAの音は、AIやアルゴリズムではなく、人間の集団的発声と呼吸で構築された。
+
+> デジタル時代だからこそ、AKIRAの身体的サウンドは未来に聞こえる。
+
+---
+
+## 結論：未来を鳴らし続ける作品
+
+AKIRAの音楽は、特定の年代に固定されない。1988年の実験精神、民族音楽研究の成果、アニメ史の転換点。それらが結晶し、いまも新しく響く。
+
+「Why AKIRA Still Sounds Future」という問いへの答えは単純だ。
+
+未来を電子音で描かなかったからだ。
+
+儀式、合唱、打楽器、そして都市のノイズ。それらを混在させることで、時間軸から自由なサウンドを作り上げた。
+
+AKIRAは未来を予言したのではない。未来の鳴り方を提示した。
+
+> AKIRAは終わった作品ではなく、いまも鳴り続ける未来そのものだ。
 
 ---

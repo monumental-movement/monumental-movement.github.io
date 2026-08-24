@@ -12,11 +12,11 @@ title: The Gang – Barricada Rumble Beat
 ---
 
 
-The Gang is an Italian punk band from Filottrano.
+The Gangは、フィロットラーノ出身のイタリアンパンクバンド。
 
-The first and sixth songs on Side A feature UK singer-songwriter Billy Bragg on guitar and vocals.
+A面１曲目と６曲目は、UKのシンガーソングライターBilly Bragg（ビリー・ブラッグ）がギター＆ヴォーカルとして参加。
 
-The third song on side A and the sixth song on side B are performed by American harmonica player Andy J. Forest.
+A面３曲目とB面６曲目は、アメリカのハーモニカ奏者Andy J. Forest（アンディ・J・フォレスト）が参加。
 
 #### Tracklist
 ```md
@@ -45,7 +45,7 @@ B5. Bad News From Swing Street
 B6. Not For Sale
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIEjRm21s9c?si=ceUBMS0Z-r1CHGG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

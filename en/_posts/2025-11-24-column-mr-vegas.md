@@ -38,10 +38,10 @@ color: #fff;
 ## Chapter 1: Early career and early career
 
 ### 1.1 Childhood and origin of nickname
-- **Real name/birth**
+- **Real name/Birth**
 Mr.Vegas' real name is **Clifford Smith**. Born September 29, 1974 in Kingston, Jamaica.
 - **Nickname "Mr. Vegas"**
-As a child, she played soccer in pink shorts at school, and her classmates compared her to a "Vegas showgirl." The nickname "Mr.Vegas" was adopted as his stage name.
+As a child, she wore pink shorts to play soccer at school, and her classmates compared her to a "Vegas girl." The nickname "Mr.Vegas" was adopted as his stage name.
 - **Encounter with music**
 From an early age, he was influenced by the local sound system culture and grew up familiar with music, performing at local parties.
 
@@ -57,7 +57,7 @@ Due to his jaw injury and treatment, he has developed a unique intonation and sh
 
 ## Chapter 2: Breakthrough and International Success (1997–2004)
 
-### 2.1 "Nike Air" and cultural impact
+### 2.1 "Nike Air" and cultural shock
 - It became a big hit in Jamaica from the time it was released, making Mr.Vegas an artist to watch.
 - Nike sneakers become a symbol of self-expression and status, and are associated with turning points in Vegas' life.
 
@@ -95,7 +95,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 - However, he did not completely retire and continued to collaborate with artists such as Major Lazer.
 
 ### 3.3 Establishment of independent label and "Sweet Jamaica"
-- Founded his own label **MV Music**.
+- Established his own label **MV Music**.
 - Released the album "Sweet Jamaica" (2012) as a two-disc set. Contains classic reggae covers and dancehall songs.
 
 ---
@@ -120,7 +120,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 ### 5.1 "Nike Air"
 - Uses Playground riddim. A song that uses sneakers as a symbol of self-expression.
-- Recordings made after a jaw injury created a unique intonation and formed a personality.
+- Recordings made after a jaw injury created a unique intonation and a personality.
 
 ### 5.2 "Heads High"
 - Danny Browne's Filthy riddim.
@@ -173,7 +173,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 Mr.Vegas is a musician whose work is a complex mix of Kingston's sound system culture, the struggles of youth, faith, social responsibility, and a vision for the future.
 
-His signature songs "Nike Air" and "Heads High" symbolize the starting point of his career, while "Kokane" presents a warning of temptation and danger. His latest album, ""Ghetto Reggae,'' combines homage to the time and place he grew up in with a contemporary message.
+His signature songs "Nike Air" and "Heads High" symbolize the starting point of his career, while "Kokane" presents a warning of temptation and danger. His latest album, ""Ghetto Reggae,'' combines a modern message with respect for the time and place in which he grew up.
 
 With a passion for education, social commentary, and cultural preservation, he serves not only as a musician but also as a cultural bearer, messenger, and leader.
 

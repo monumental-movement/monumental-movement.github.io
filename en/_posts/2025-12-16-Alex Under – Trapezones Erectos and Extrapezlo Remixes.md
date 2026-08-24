@@ -13,9 +13,9 @@ title: Alex Under – Trapezones Erectos & Extrapezlo Remixes
 ---
 
 
-Alex Under (Alejandro Moreno Morales) is a Spanish DJ/producer and founder of the label Cmyk Musik.
+Alex Under(Alejandro Moreno Morales)は、スペイン出身のDJ／プロデューサーであり、レーベルCmyk Musikの設立者。
 
-"Trapezones Erectos & Extrapezlo Remixes" is a Techno/Minimal track released in 2008.
+「Trapezones Erectos & Extrapezlo Remixes」は、2008年にリリースされたTechno／Minimalトラック。
 
 A is a remix by Alexi Delano & Xpansul, the Minimal Techno/Tech House producer duo consisting of Alexi Delano and Santiago Ferrer.
 

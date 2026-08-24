@@ -14,21 +14,21 @@ title: Psy-Trance（サイケデリックトランス）作品をピックアッ
 
 
 
-"Sound shamanism where the future and mythology intertwine, Psy-Trance works"
+「未来と神話が交錯する音のシャーマニズム、Psy-Trance（サイケデリックトランス）作品群」
 
 ---
 
-## Featured works of Psy-Trance
+## Psy-Trance（サイケデリックトランス）の注目作品
 
-Introducing the recommended **Psy-Trance** albums listed on Monumental-Movement.jp with explanations.
-The collection ranges from 90's gore trance masterpieces to works incorporating modern sound design.
+Monumental-Movement.jp で掲載されている **Psy-Trance（サイケデリックトランス）** のおすすめ盤を解説付きで紹介します。  
+90年代のゴア・トランスの名作から、現代的なサウンドデザインを取り入れた作品まで幅広く揃っています。
 
 ---
 
 ### Shpongle / GMS & 1300 Mics – *The Crystal Skulls EP*
 <a href="https://monumental-movement.jp/Shpongle-GMS-and-1300-Mics-The-Crystal-Skulls-EP/"><img src="../assets/images/Shpongle%20GMS%20&%201300%20Mics%20%E2%80%93%20The%20Crystal%20Skulls%20EP.webp"></a>
 
-- **Commentary**: A fusion of the fantastical elements of Shpongle and the full-on energy of GMS. A representative piece of Psy-Trance released by TIP.World in 2001.
+- **解説**：Shpongleの幻想的な要素とGMSによるフルオン的エネルギーが融合。TIP.Worldから2001年に発表された、Psy-Tranceを代表する一枚。
 
 #### Tracklist
 ```md
@@ -38,7 +38,7 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -53,9 +53,9 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 ### S.U.N. Project – *Zwork*
 <a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.webp"></a>
 
-- **Release publication date**: 2025-09-05
+- **リリース掲載日**：2025-09-05  
 
-- **Explanation**: Gore/Psy-Trance project formed in Germany. A work that returns to its roots with a sound reminiscent of the golden age of the 90s.
+- **解説**：ドイツ結成のゴア／Psy-Tranceプロジェクト。90年代黄金期を彷彿とさせるサウンドで、原点回帰的な一作。
 
 #### Tracklist
 ```md
@@ -79,7 +79,7 @@ F2. Deeper And Deeper
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m32084411022?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32084411022?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -106,7 +106,7 @@ B2  Teen Sluts–Foust On Doust
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -122,7 +122,7 @@ B2  Teen Sluts–Foust On Doust
 <a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
  
 
-- **Commentary**: A fusion of gore trance and techno approaches. An experimental track that includes ambient elements and provides a deep immersive feeling.
+- **解説**：ゴアトランスとテクノ的アプローチが融合。アンビエント的な要素を含み、深い没入感を与える実験的トラック。
 
 #### Tracklist
 ```md
@@ -183,7 +183,7 @@ B2. Whales 'n' Wave (Edit)
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
-- **Description**: Artist from Germany. An ambitious work that shows modern Psy-Trance with a crafty sound design.
+- **解説**：ドイツ出身のアーティスト。クラフト感あるサウンドデザインで、現代的なPsy-Tranceを示す意欲作。
 
 #### Tracklist
 ```md
@@ -193,7 +193,7 @@ AA. Inner Child
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -208,7 +208,7 @@ AA. Inner Child
 ### Various – *Resonance Mood*
 <a href="https://monumental-movement.jp/Various-Resonance-Mood/"><img src="../assets/images/Various%20%E2%80%93%20Resonance%20Mood.webp"></a>
 
-- **Release publication date**: 2024-05-13
+- **リリース掲載日**：2024-05-13  
 
 - **解説**：DJ Tsuyoshiが手掛けるMATSURIレーベルのコンピレーション。90年代からのトランス遺産と現代性を繋ぐ良作。
 
@@ -226,7 +226,7 @@ F. Sandman – Target Eye
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -242,7 +242,7 @@ F. Sandman – Target Eye
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 
-- **Commentary**: Released in 1995 by Flying Rhino Records. A classic piece representing the golden age of Goa Trance.
+- **解説**：Flying Rhino Recordsから1995年にリリース。ゴアトランス黄金期を代表するクラシックな一枚。
 
 #### Tracklist
 ```md
@@ -252,7 +252,7 @@ AA. Umbellikilisis
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -260,5 +260,5 @@ AA. Umbellikilisis
 <hr>
 <br>
 
-### **Charm of Psy-Trance**
+###  **Psy-Tranceの魅力**  
 Fantastic, spiritual, and sometimes experimental. Please come and experience the world of psychedelic trance that has continued uninterrupted from the 90's to the present day.

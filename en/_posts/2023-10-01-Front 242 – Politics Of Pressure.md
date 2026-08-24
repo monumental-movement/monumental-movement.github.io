@@ -14,7 +14,7 @@ title: Front 242 – Politics Of Pressure
 
 Front242 is an electronic music group formed in Belgium.
 
-Front242 pioneered a style of electronic music called electronic body music (EBM), which combines elements of industrial music, synth punk, and dance music, and has had a major influence on various genres such as electronic music and industrial.
+Front242はインダストリアルミュージック、シンセパンク、ダンスミュージックの要素を組み合わせたエレクトロニックミュージック、エレクトロニックボディミュージック(EBM)と呼ばれるスタイルを開拓し、エレクトロニックミュージックやインダストリアルなどさまざまなジャンルに大きな影響を与えました。
 
 #### Tracklist
 ```md

@@ -12,9 +12,9 @@ title: Anthony Flanagan – Never Enough
 ---
 
 
-Anthony Flanagan is a New York-based singer who worked with Dennis Ferrer from the late '90s to the early 2000s.
+Anthony Flanagan(アンソニー・フラナガン )はNYを拠点にしたシンガーで、90年代後半から2000年代初頭にかけてDennis Ferrer(デニス・フェレル )と共に活動していました。
 
-The lyrics, producer, and arrangement for "Never Enough" were written by Kerri Chandler, who rocked the New York house scene with "The Shelter" (1992).
+「Never Enough」の作詞、プロデューサー、編曲は、「The Shelter」(92年) でNYのハウスシーンを賑わしたKerri Chandler(ケリー・チャンドラー)。
 
 #### Tracklist
 ```md

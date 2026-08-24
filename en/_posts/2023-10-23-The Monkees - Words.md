@@ -13,7 +13,7 @@ title: The Monkees - Words
 ---
 
 
-The Monkees is an American rock band formed by Davy Jones, Micky Dolenz, Mike Nesmith, and Peter Tork. They had a media mix strategy that linked record sales with ""The Monkees Show,'' a one-episode slapstick comedy TV show in which The Monkees themselves appeared.
+The Monkees(ザ・モンキーズ)は、Davy Jones（デイビー・ジョーンズ) 、Micky Dolenz（ミッキー・ドレンツ) 、Mike Nesmith （マイク・ネスミス) Peter Tork（ピーター・トーク) の４人で結成されたUSロックバンド。The Monkeesが自ら出演する一話完結型のドタバタコメディTV番組『ザ・モンキーズ・ショー』とレコード販売を連動するメディアミックス戦略をとっていた。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ B1. A Little Bit Me, A Little Bit You
 B2. The Girl I Knew Somewhere
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m80412153029?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80412153029?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4MhTAFljXKI?si=tPXBkHgcvv5FOUrl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

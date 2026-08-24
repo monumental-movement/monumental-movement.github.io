@@ -8,15 +8,15 @@ layout: post
 tags:
 - Disk Guide
 - Studio Voice
-title: StudioVoice Separate Volume All Genre Disc Guide Studio Voice
+title: StudioVoice別冊 オールジャンルディスクガイド スタジオボイス
 ---
 
 
-#### StudioVoice Separate Volume All Genre Disc Guide Studio Voice
+#### StudioVoice別冊 オールジャンルディスクガイド スタジオボイス
 
-ULTIMATE CUT UP MUSIC - 2000-2005 compilation
+ULTIMATE CUT UP MUSIC ― 2000‐2005総集編
 
-An all-genre complete disc guide with over 500 discs. Columns by more than 20 people are published.
+500枚以上掲載のオールジャンル・コンプリート・ディスクガイド。20人以上のコラムが掲載されています。
 
 Total 195 pages, approximately 700 photos
 
@@ -36,4 +36,4 @@ World
 Contemporary
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}

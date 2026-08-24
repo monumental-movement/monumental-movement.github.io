@@ -12,9 +12,9 @@ title: Black Traxx – Volume II
 ---
 
 
-Black Traxx is a house series co-produced by DJ/producer Rick Lenoir, who pioneered early Chicago house music with works such as LNR"s ""Work It To The Bone" and Thompson and Lenoir"s ""Can't Stop The House," as a member of 4 on the Floor production.
+Black Traxxは、LNR「Work It To The Bone」やThompson and Lenoir (トンプソン&レノア)「Can't Stop The House」など初期のシカゴ・ハウス・ミュージックの先駆的として活躍したDJ/プロデューサーRick Lenoir（リック・レノア）が、4 on the Floor production（フォー オン ザ フロア プロダクション）のメンバーとして共同プロデュースしたハウスシリーズ。
 
-It was released in 1991 on the Chicago deep house label Night Club Records.
+シカゴのディープハウスレーベルNight Club Recordsより1991年にリリースされた。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ B2. Lights Out
 B3. Pump It
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m90896178440?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90896178440?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NAZ7ADtHPlA?si=bghYYrRJynIf1Rs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

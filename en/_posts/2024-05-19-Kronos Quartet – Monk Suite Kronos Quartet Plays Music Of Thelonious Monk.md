@@ -14,11 +14,11 @@ title: Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious Mo
 ---
 
 
-Kronos Quartet is a string quartet formed in Seattle in 1973 by violinist David Harrington, and has been based in San Francisco since 1978.
+クロノスカルテットは、1973年にバイオリニストのDavid Harrington（デイビッド・ハリントン）によりシアトルで結成され、1978 年以来サンフランシスコを拠点に活動する弦楽四重奏団。 
 
-The band has been active for 50 years with a rotation of musicians, with the longest-running combination of performers (1978-1999) being Harrington and John Schaba on violin, Hank Dutt on viola, and Joan Jeanrenot on cello.
+50年間にわたりミュージシャンが交代しながら活動しており、 最も長く続いた演奏家の組み合わせ（1978年〜1999年）は、ヴァイオリンのハリントンとジョン・シャーバ、ヴィオラのハンク・ダット、チェロのジョアン・ジャンルノー。
 
-The quartet covers a very wide range of musical genres, including contemporary classical music.
+カルテットは現代クラシック音楽を含む非常に幅広い音楽ジャンルをカバーしている。
 
 #### Tracklist
 ```md
@@ -36,7 +36,7 @@ Monk Plays Ellington：
 9. Brilliant Corners
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w8cLmRx31Ec?si=XgSC2lj8gR06s-Px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

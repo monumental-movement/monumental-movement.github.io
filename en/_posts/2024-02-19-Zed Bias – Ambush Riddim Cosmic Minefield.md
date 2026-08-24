@@ -13,9 +13,9 @@ title: Zed Bias – Ambush Riddim Cosmic Minefield
 ---
 
 
-Zed Bias, also known as Dave Jones, is a Manchester-based UK electronic musician, UK garage, 2-step, broken beat, and UK funky producer and DJ.
+Zed Bias (ゼッドバイアス) ことDave Jones(デイヴ・ジョーンズ ) は、マンチェスターを拠点とするUKエレクトロニックミュージシャンであり、UKガラージ、2ステップ、ブロークンビーツ、UKファンキーのプロデューサー・DJ。
 
-He also works under the alias Maddslinky and is a member of Phuturistix.
+別名義でMaddslinky (マッドスリンキー) としても活動しており、Phuturistix (フューチャリスティックス) のメンバー。
 
 #### Tracklist
 ```md
@@ -24,7 +24,7 @@ A. Ambush Riddim
 B. Cosmic Minefield
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

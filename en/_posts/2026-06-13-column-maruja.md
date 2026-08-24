@@ -10,17 +10,15 @@ tags:
 - UK
 - PostPunk
 - NoiseRock
-title: '[Column] Maruja depicts the "critical point of contemporary UK noise jazz"
-  – the current location of a new generation of bands oscillating between violence
-  and poetry'
+title: 【コラム】 Marujaが描く“現代UKノイズ・ジャズの臨界点”──暴力性と詩性のあいだで揺れる新世代バンドの現在地
 ---
 
 
-## What is Maruja?
+## Marujaとは？
 
-Text: mmr｜Theme: About Maruja, who is beginning to be talked about as "a presence that shakes the boundaries of genres" in the contemporary British underground music scene.
+文：mmr｜テーマ：現代イギリスのアンダーグラウンド音楽シーンにおいて、“ジャンルの境界線そのものを揺らす存在”として語られ始めているMarujaについて
 
-Maruja's sound, which intersects post-punk, noise rock, jazz improvisation, and spiritual tension, is not just a fusion of genres, but rather a redefinition of music itself.
+Marujaは、ポストパンク、ノイズロック、ジャズ的即興性、そしてスピリチュアルな緊張感が交差するそのサウンドは、単なるジャンル融合ではなく、むしろ「音楽そのものの再定義」に近い
 
 
 <style type="text/css">
@@ -28,7 +26,7 @@ Maruja's sound, which intersects post-punk, noise rock, jazz improvisation, and 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,13 +38,13 @@ color: #fff;
 ---
 
 
-## New impulses rising from Manchester underground scene
+## マンチェスター地下シーンから立ち上がる新しい衝動
 
 Historically, Manchester, England is a city with a multi-layered musical history, including the development of post-punk and house after Joy Division, and the surrounding culture of Britpop. Among them, Maruja appears in a form that cannot simply be recovered into the existing genealogy.
 
-Their characteristic is that, although they have a rock band-like composition, their song structure does not rely on the traditional ""A melody, B melody, chorus''. Instead, the emphasis is on repetitions, accumulations, explosions, and arrangements of silence, which are more similar to the grammar of contemporary jazz and improvisational music.
+彼らの特徴は、ロックバンド的編成を持ちながらも、楽曲構造が従来の「Aメロ・Bメロ・サビ」に依存しない点にある。代わりに重視されるのは、反復、蓄積、爆発、そして沈黙の配置であり、それはむしろ現代ジャズや即興音楽の文法に近い。
 
-Therefore, their music appears in its most complete form in the live space.
+そのため彼らの音楽は、ライブ空間において最も完全な形で現れる。
 
 <div class="mermaid">
 timeline
@@ -57,88 +55,88 @@ timeline
     2026 : ポストジャンル世代の象徴として再評価
 </div>
 
-> The starting point of Maruja is not the history of the city, but the "fluctuations" of the city itself.
+> Marujaの起点は都市の歴史ではなく、都市の“揺らぎ”そのものにある
 
 ---
 
 ## Structure of sound: between collapse and order
 
-Maruja's music is characterized by a structure that could be called "controlled chaos." The saxophone often comes to the fore, an unusual choice for a rock band, but a natural component for them.
+Marujaの音楽を特徴づけるのは、「制御されたカオス」とでも呼ぶべき構造である。サックスが前面に出ることも多く、これはロックバンドとしては異質な選択だが、彼らにとっては自然な構成要素である。
 
-The guitar forms a texture rather than a riff, the bass fixes the sense of time through repetition, and the drums simultaneously carry the freedom of jazz and the structure of post-rock. The saxophone then enters like a "cleft" and temporarily collapses the entire music.
+ギターはリフというよりもテクスチャを形成し、ベースは反復することで時間感覚を固定し、ドラムはジャズ的な自由度とポストロック的な構築性を同時に担う。そこにサックスが“裂け目”のように入り込み、音楽全体を一時的に崩壊させる。
 
 This collapse is not destruction, but rather functions as a device for reconstruction.
 
 <div class="mermaid">
 flowchart TD
-A[Iterating baseline] --> B[accumulation of structures]
-B --> C[guitar texturing]
-C --> D[saxophone intervention]
-D --> E[temporary collapse]
-E --> F[rebuilt groove]
+A[反復するベースライン] --> B[構造の蓄積]
+B --> C[ギターのテクスチャ化]
+C --> D[サックスの介入]
+D --> E[一時的崩壊]
+E --> F[再構築されたグルーヴ]
 </div>
 
-> Maruja's sound is always presented as a "state of creation" rather than a finished product.
+> Marujaのサウンドは完成形ではなく、常に“生成途中の状態”として提示される
 
 ---
 
-## Initial impulse and direction seen in the EP "Knocknarea"
+## EP『Knocknarea』に見る初期衝動と方向性
 
-The EP Knocknarea, released in 2023, is an important record in understanding Maruja's early impulses. Although this work is composed of a compact group of songs, their essential direction is already clearly visible within it.
+2023年にリリースされたEP『Knocknarea』は、Marujaの初期衝動を理解するうえで重要な記録である。この作品はコンパクトな楽曲群で構成されているが、その内部にはすでに彼らの本質的な方向性が明確に表れている。
 
-The political and social tensions, the pressures of urban life, and the instability accumulated within the individual are contained in this work as a "density of sound" rather than a direct message.
+そこには、政治的・社会的な緊張感、都市生活の圧力、そして個人の内面に蓄積された不安定性が、直接的なメッセージというよりも“音の密度”として封じ込められている。
 
-What is particularly impressive is that the development of the sounds does not aim for a "solution." While most rock music tends toward catharsis, Maruja instead chooses to "remain unresolved."
+特に印象的なのは、音の展開が「解決」を目指さない点である。多くのロック音楽がカタルシスに向かうのに対し、Marujaはむしろ“未解決の状態を維持すること”を選択する。
 
-> ""Knocknarea'' is not an end, but rather a record that fixes the instability of the beginning.
-
----
-
-## The device of a live show -- the moment when music becomes an "incident"
-
-The biggest factor that determines Maruja's reputation is not her studio work, but her live performances. Their performance is not a reproduction, but an event generated on the spot.
-
-During live performances, the tempo and structure change flexibly, and the songs enter a unique state in which they "collapse while maintaining their shape." Therefore, rather than listening to the music, the audience witnesses the process of the music changing.
-
-In particular, the interplay between the saxophone and drums is highly improvisational, at times jazz-like, but at the same time tinged with noise-like violence.
-
-> Maruja's live performance is not a performance, but an observation of the process by which sound self-destructs.
+> 『Knocknarea』は終わりではなく、むしろ始まりの不安定さをそのまま固定した記録である
 
 ---
 
-## Position in the UK postgenre context
+## ライブという装置──音楽が“事件”になる瞬間
 
-The contemporary UK scene is a complex one, with post-punk revival, grime, jazz revival, and experimental rock all happening at the same time. Among them, Maruja is located in a ""gap'' that does not completely belong to any genre.
+Marujaの評価を決定づけている最大の要素は、スタジオ作品ではなくライブパフォーマンスにある。彼らの演奏は再現ではなく、その場で生成される出来事として成立する。
 
-Although they have the freedom of jazz, they are not jazz, and although they have the structure of post-rock, they are not post-rock. Rather, he musicalizes those boundaries themselves.
+ライブではテンポや構造が柔軟に変化し、楽曲は“形を保ったまま崩れる”という独特の状態に入る。そのため観客は音楽を聴くというよりも、音楽が変質していく過程を目撃することになる。
 
-This kind of positioning is not a mere fusion, but rather a ""rewiring of genres.''
+特にサックスとドラムのインタープレイは即興性が高く、時にジャズ的でありながら、同時にノイズ的な暴力性を帯びる。
 
->Rather than crossing genres, Maruja challenges the very assumptions of genres.
-
----
-
-## Musical physicality and political nuance
-
-Maruja's music does not feature politics in the form of clear slogans. However, in its place, there is a strong physical tension.
-
-Repetitive rhythms, intermittent phrases, and sudden sonic collapses function to symbolize the stress and instability of modern society. It is not a verbal assertion, but is conveyed as a sensory pressure.
-
-This approach focuses on eliciting a response at a physical level, rather than leaving interpretation up to the listener.
-
-> Maruja's music is in the realm of being understood not as a meaning, but as a bodily response.
+> Marujaのライブは演奏ではなく、音が自己崩壊するプロセスの観察である
 
 ---
 
-## The future shown by Maruja ─ Aesthetics of unfinishedness
+## UKポストジャンル文脈における位置
 
-If I had to describe Maruja's current position in one word, it would be the "aesthetics of unfinishedness." Rather than being presented as a completed work, the fact that it is always in a state of being in the process of creation becomes an expression in itself.
+現代UKシーンは、ポストパンクリバイバル、グライム、ジャズリバイバル、エクスペリメンタルロックが同時進行する複雑な状況にある。その中でMarujaは、どのジャンルにも完全には属さない“間隙”に位置している。
 
-This attitude contrasts with the immediacy of music consumption in the digital age, and rather suggests the value of not being finished.
+彼らはジャズの自由度を持ちながらもジャズではなく、ポストロック的構築性を持ちながらもポストロックでもない。むしろそれらの境界線そのものを音楽化している。
 
-Their music exists not to end, but to continue.
+このような位置取りは、単なる融合ではなく「ジャンルの再配線」と言うべきものである。
 
-> Maruja releases music into time by refusing to complete it.
+> Marujaはジャンルを横断するのではなく、ジャンルの前提条件そのものを揺るがしている
+
+---
+
+## 音楽的身体性と政治的ニュアンス
+
+Marujaの音楽には、明確なスローガンとしての政治性は前面化していない。しかしその代わりに、身体性としての緊張が強く存在する。
+
+反復するリズム、断続するフレーズ、突発的な音の崩壊は、現代社会におけるストレスや不安定性を象徴するように機能する。それは言語的な主張ではなく、感覚的な圧力として伝わる。
+
+このようなアプローチは、リスナーに解釈を委ねるというよりも、身体レベルでの反応を引き出すことに重点を置いている。
+
+> Marujaの音楽は意味ではなく、身体の反応として理解されるべき領域にある
+
+---
+
+## Marujaが示す未来──未完成性の美学
+
+Marujaの現在地を一言で表すなら、それは“未完成性の美学”である。完成された作品として提示されるのではなく、常に生成途中の状態を保つこと自体が表現となっている。
+
+この姿勢は、デジタル時代における音楽消費の即時性と対照的であり、むしろ「完結しないことの価値」を提示している。
+
+彼らの音楽は、終わるためではなく、続いていくために存在している。
+
+> Marujaは完成を拒否することで、音楽を時間の中に解放している
 
 
 ---

@@ -14,13 +14,13 @@ title: Nightmares On Wax – Smokers Delight
 ---
 
 
-Nightmares On Wax"s Smokers Delight (1995), the second album from British producer George Evelyn"s project, was released on Warp Records and cemented its place in downtempo and trip-hop history. This album remains a timeless masterpiece, transporting listeners to a soothing chill-out realm, a step removed from the hustle and bustle of club culture.
+Nightmares On Waxの『Smokers Delight』（1995年）は、英国のプロデューサーGeorge Evelynによるプロジェクトの2作目として、Warp Recordsからリリースされたアルバムで、ダウンテンポとトリップホップの歴史において確固たる地位を築いた作品です。このアルバムは、クラブカルチャーの喧騒から一歩引いた場所で、リスナーを心地よいチルアウトの領域へと誘う、時代を超えた傑作として今も語り継がれています。
 
-First of all, the core of "Smokers Delight" lies in its "relaxed groove." The album opens with "Nights Introlude," featuring soft strings and a gentle beat that samples Quincy Jones' "Summer In The City," instantly drawing the listener into a relaxing space.
+まず、『Smokers Delight』の核心は、その「ゆったりとしたグルーヴ」にあります。アルバムは冒頭の「Nights Introlude」から、Quincy Jonesの「Summer In The City」をサンプリングした柔らかなストリングスと穏やかなビートで幕を開け、リスナーを即座にリラックスした空間へと引き込みます。
 
-Musically, the hip-hop framework is woven with the essence of reggae, soul, and funk, giving it a unique eclecticism. For example, in "Groove St.," a deep piano bass intertwines with a smooth bass line, and the addition of light drums creates a simple yet addictive loop. Meanwhile, longer tracks like ""Pipes Honor,'' which clock in at over nine minutes, gradually develop layers of guitar and keyboard, taking the listener on a meditative journey.
+音楽的には、ヒップホップの骨格にレゲエ、ソウル、ファンクのエッセンスが織り込まれ、独自の折衷主義が際立っています。例えば、「Groove St.」では重厚なピアノの低音と滑らかなベースラインが絡み合い、そこに軽快なドラムが加わることで、シンプルながらも病みつきになるループが生まれています。一方、「Pipes Honour」のような9分を超える長尺トラックでは、ギターとキーボードが織りなすレイヤーが徐々に展開し、聴く者を瞑想的な旅へと導きます。
 
-The production background is also interesting. After the departure of her partner Kevin Harper, Evelyn redefined Nightmares On Wax as a solo project and found a new direction with Smokers Delight. Utilizing analog gear and sampling techniques, this record embodies the DIY spirit of the '90s and resonates with the innovative attitude of the Warp label at the time. Robin Taylor-Firth's keyboard participation and the loops of hand-played instruments scattered throughout create an exquisite fusion of digital and analog, creating a human sound that transcends artificial coldness.
+制作背景も興味深い点です。EvelynはパートナーのKevin Harperが去った後、ソロプロジェクトとしてNightmares On Waxを再定義し、『Smokers Delight』で新たな方向性を見出しました。アナログ機材とサンプリング技術を駆使したこの作品は、90年代のDIY精神を体現しており、当時のWarpレーベルの革新的な姿勢とも共鳴しています。Robin Taylor-Firthのキーボード参加や、随所にちりばめられた手弾きの楽器によるループが、デジタルとアナログの融合を絶妙に実現し、人工的な冷たさを超えた人間味のあるサウンドを生み出しています。
 
 
 
@@ -45,7 +45,7 @@ The production background is also interesting. After the departure of her partne
 16. Gambia Via Vagator Beach
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C6ixa3G_tL4?si=oqR77d3pR6_Eziw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

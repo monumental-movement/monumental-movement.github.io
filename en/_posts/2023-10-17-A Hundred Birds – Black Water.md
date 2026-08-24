@@ -11,25 +11,25 @@ title: A Hundred Birds – Black Water
 ---
 
 
-A Hundred Birds is a Japanese orchestral band that was formed in 1996 with DJ YOKU as its core member, and plays house music with an orchestral band.
+A Hundred Birds （ア・ハンドレッド・バーズ）は、1996年DJ YOKUを中心として結成された、ハウスミュージックをオーケストラバンド編成で演奏する日本のオーケストラバンド。
 
-"Black Water" was released in 2006 from the label "WAVE MUSIC" run by François Kevorkian (Francois K.).
+ 「Black Water」は、François Kevorkian （フランソワ・K）が主宰するレーベル「WAVE MUSIC」より2006年にリリース。
 
-Participating members
-・Omae Chizuru
-・Shigeki Tamura
-・Noriaki Yoshida
-・Kazunori Sato
+参加メンバー
+・大前チズル
+・田村成紀/Shigeki Tamura
+・吉田哲章/Noriaki Yoshida
+・佐藤一紀/Kazunori Sato
 ・Shinobu Kinugawa
 ・Terry Forsythe
 ・Katsuki Nakajima
-・Tadashi Sato
+・佐藤 禎Tadashi Sato
 ・Katsuhiro Idomoto
-・Kazutake Takeuchi
-・Ogimi Gen
+・武内 一武/Kazutake Takeuchi
+・大儀見元Ogimi Gen
 ・Kazuhiro Takagi
 ・Kazumi Totaka
-・Makoto Dochi etc.
+・Makoto Dochiなど
 
 #### Tracklist
 ```md
@@ -40,7 +40,7 @@ B1. Black Water (Dub)
 B2. Come Together
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m79986597916?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79986597916?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_baLl71o57Q?si=6xeAaSz1mcpX3Oe1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

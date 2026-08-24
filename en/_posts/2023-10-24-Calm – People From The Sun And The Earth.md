@@ -13,7 +13,7 @@ title: Calm – People From The Sun And The Earth
 ---
 
 
-Calm (Kiyotaka Fukagawa) is considered one of the pioneers of chill-out Balearic music. Calm's activities under other names include FARR, Organ Language, K.F, and the unit JAPANESE SYNCHRO SYSTEM with ILL-BOSSTINO of THA BLUE HERB.
+Calm（カーム/Kiyotaka Fukagawa）はチルアウトバレアリックミュージックの先駆者の一人とされている。 Calmの別名義での活動は、FARR、Organ Language、K.F、THA BLUE HERB（ザ・ブルー・ハーブ）のILL-BOSSTINOとのユニットJAPANESE SYNCHRO SYSTEMなどがある。
 
 A1&B2 is a remix by MKL vs. Soy Sos of 3 Generations Walking.
 B2 is a remix by Dixon, a German DJ and producer based in Berlin.

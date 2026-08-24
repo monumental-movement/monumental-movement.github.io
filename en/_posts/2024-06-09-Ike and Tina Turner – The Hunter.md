@@ -15,9 +15,9 @@ title: Ike & Tina Turner – The Hunter
 ---
 
 
-Ike & Tina Turner were an American R&B/soul duo active in the 1960s and 1970s. He has worked on a wide range of musical styles including rock, soul, blues, funk, and funk rock.
+Ike & Tina Turner（アイク&ティナ・ターナー）は、1960年代から1970年代にかけて活躍したUSのR&B・ソウルデュオ。ロック、ソウル、ブルース、ファンク、ファンクロックなど幅広い音楽スタイルを手がけた。
 
-The album ""The Hunter'' released in 1969 is one of the most blues-oriented albums featuring electric blues guitarist Albert Collins. The title song "The Hunter" is a cover of Albert King. This song earned Tina Turner her first solo nomination in the Best R&B Female Vocal Performance category at the 12th Annual Grammy Awards.
+1969年にリリースしたアルバム「The Hunter」は、エレクトリックブルースギタリストのAlbert Collins（アルバートコリンズ）をフィーチャーした最もブルース志向の強いアルバムの1つ。タイトル曲「The Hunter」はAlbert King（アルバート・キング）のカバー。この曲でTina Turnerは第12回グラミー賞で最優秀R&B女性ボーカルパフォーマンス部門にソロとして初めてノミネートされた。
 
 #### Tracklist
 ```md
@@ -33,7 +33,7 @@ B4. You're Still My Baby
 B5. I Know
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m74775936119?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74775936119?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0F5ypDEbuc?si=VThOXDu2r5MxR2zB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

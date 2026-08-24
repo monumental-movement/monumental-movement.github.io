@@ -17,10 +17,10 @@ title: Thom Yorke – The Eraser
 
 "The Eraser" is the debut solo album by UK musician Thom Yorke, released in 2006 by XL Recordings. The producer is Nigel Godrich, the longtime producer of Thom Yorke's band Radiohead.
 
-The album was named one of the best albums of 2006 by NME and Rolling Stone magazines, and was nominated for Best Alternative Music Album at the 2006 Mercury Music Awards and the 2007 Grammy Awards.
+このアルバムは、NME誌、ローリングストーン誌によって2006年のベストアルバムの1つに選ばれ、2006年のマーキュリーミュージック賞と2007年のグラミー賞の最優秀オルタナティブミュージックアルバムにノミネートされた。
 
-The included songs "Analyse" and "Black Swan" are respectively
-It is used in the ending credits of the movies ""Prestige" and ""A Scanner Darkly."
+収録曲「Analyse」と「Black Swan」はそれぞれ
+映画「プレステージ」「スキャナー・ダークリー」のエンディングロールに使われている。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ It is used in the ending credits of the movies ""Prestige" and ""A Scanner Darkl
 9. Cymbal Rush
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m78539934962?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78539934962?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4lSiyXKu05Q?si=yO4-Exd3jk0-bfRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

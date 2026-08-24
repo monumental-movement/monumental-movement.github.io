@@ -13,13 +13,13 @@ title: Takkyu Ishino – Karaokejack
 ---
 
 
-Takkyu Ishino's solo album released in 2001. First limited paper jacket CD.
-The ninth song "Creatures Of The Night" was co-written with Beroshima.
+2001年にリリースされた石野卓球(Takkyu Ishino)のソロアルバム。初回限定紙ジャケCD。
+9曲目「Creatures Of The Night 」は、Beroshimaとの共作。
 
 
-Takkyu Ishino - Karaoke Jack
+石野卓球 - カラオケジャック
 
-First limited edition paper jacket specification
+初回限定盤　紙ジャケ仕様
 
 
 
@@ -40,7 +40,7 @@ First limited edition paper jacket specification
 13. Frankenstein's Haus
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

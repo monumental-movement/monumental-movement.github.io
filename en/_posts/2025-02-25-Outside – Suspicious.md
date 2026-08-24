@@ -14,13 +14,13 @@ title: Outside – Sus?icious
 ---
 
 
-Outside is a UK jazz-funk group formed by Matt Cooper, Andreas Allen, and Patrice Blanchard.
+Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
 
-Tracks 2 and 8 feature British singer Cleveland Watkiss.
+2,8曲目は、イギリスのシンガーCleveland Watkiss(クリーヴランド・ワトキス)をフィーチャー。
 
-Tracks 4 and 7 feature Constantine Weir of the UK acid jazz group Galliano.
+4,7曲目は、UKアシッドジャズグループGalliano(ガリアーノ)のConstantine Weir(コンスタンティン・ウィアー)をフィーチャー。
 
-This CD is a Japanese version released by Avex in 1998.
+このCDは1998年にAvexからリリースされた日本盤。
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ Bonus Tracks
 11. Revelation (Instrumental)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

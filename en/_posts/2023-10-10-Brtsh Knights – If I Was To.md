@@ -12,9 +12,9 @@ title: Brtsh Knights – If I Was To
 ---
 
 
-Sweyn Jupiter (David Barseghian), also known as Brtsh Knights, is a composer/keyboardist based in London.
+Brtsh KnightsことSweyn Jupiter（David Barseghian）は、ロンドンを拠点に活動するコンポーザー／キーボード奏者。
 
-"If I Was To" was released in 2013 on Ninja Tune's singles label Technicolor.
+「If I Was To」は、Ninja TuneのシングルレーベルTechnicolorより2013年にリリースされた。
 
 #### Tracklist
 ```md

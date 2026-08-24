@@ -12,11 +12,11 @@ title: Toco – Guarapiranga
 ---
 
 
-"Toco – Guarapiranga" is a song/EP work by Toco (Tomaz di Cunto), a singer-songwriter based in Florence, Italy.
+「Toco – Guarapiranga」は、イタリア・フィレンツェ拠点のシンガー・ソングライター Toco（Tomaz di Cunto） による楽曲／EP作品。
 
-The ""Dub'' version of the EP (Gerardo Frisina Dub) is a club/dancefloor mix with an emphasis on rhythm and spatial effects, with a tempo of around 120 bpm.
+EPの「Dub」バージョン (Gerardo Frisina Dub) はクラブ／ダンスフロア向けに強調されたリズム感と空間的エフェクトを活かすミックスになっており、テンポは約 120 bpm 前後。
 
-"Remix" is an arrangement that maintains a more Brazilian rhythm while still retaining a jazz structure, and is a reinterpretation of the characteristics of the original.The original mix has a relatively restrained arrangement, and a sound composition that brings Brazilian musical elements such as singing and guitar/percussion instruments to the fore.
+「Remix」はよりブラジルらしいリズム性を保ちつつもジャズ構造を残すアレンジがなされており、オリジナルの特徴を再解釈したもので、オリジナル・ミックスは、比較的抑えた編成で、歌とギター／打楽器などブラジル音楽的な要素を前面に出したサウンド構成です。
 
 
 

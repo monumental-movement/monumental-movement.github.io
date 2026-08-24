@@ -10,26 +10,25 @@ tags:
 - Minimal
 - 70s
 - 80s
-title: '[Column] Penguin Cafe Orchestra - An imaginary paradise that resonates between
-  ambient and folklore'
+title: 【コラム】 Penguin Cafe Orchestra ― アンビエントとフォークロアのあいだで響く架空の楽園
 ---
 
 
-## Prologue: The reverberations of an "imaginary cafe" found nowhere else in the world
+## 序章：世界のどこにもない“架空のカフェ”の残響
 
 
-Text: mmr｜Theme: **From the establishment of PCO to the trajectory of its activities, acoustic structure, analysis of major works, Simon Jeffes' thoughts**
+文：mmr｜テーマ：**PCO の成立から活動の軌跡、音響構造、主要作品の分析、Simon Jeffes の思想** 
 
-Penguin Cafe Orchestra (PCO) is a music unit that suddenly appeared in England in the late 1970s.
-Rather than a band, they can be called a ""musical body of thought", and their unique sound that transcends the boundaries of ensemble form, instrumentation, and genre is still hailed as ""one-of-a-kind" to this day.
+Penguin Cafe Orchestra（以下 PCO）は、1970年代後半のイギリスに突如として現れた音楽ユニットである。
+バンドというより “音楽的思想体” と呼ぶべき存在で、アンサンブルの形態・楽器編成・ジャンルの枠を越えた独自の音響は、今日もなお「唯一無二」と称される。
 
-It's not folk, classical, ambient, or world music.
-Although it includes all elements, it does not belong completely to any category.
-This is PCO's greatest appeal, difficulty, and reason for its enduring support.
+フォークでもクラシックでもアンビエントでもワールドミュージックでもない。
+すべての要素を含みながら、どのカテゴリーにも完全には属さない。
+それが PCO の最大の魅力であり、難解さであり、そして永続的な支持を得る理由である。
 
-The central figure, Simon Jeffes, started a ""quiet revolution'' that had nothing to do with trends in Britain, where punk new wave was sweeping the scene.
-Systematic minimalism, a cross-ethnic approach to instruments, and a musical outlook filled with humor and poetry.
-The ""imaginary cafe'' he built continues to invite music fans from all over the world.
+中心人物 Simon Jeffes は、パンク・ニューウェーブが席巻していたイギリスにおいて、流行とは無縁の“静かな革命”を起こした。
+システマティックなミニマリズム、楽器を民族横断的に扱う姿勢、そしてユーモアと詩情に満ちた音楽観。
+彼が構築した“架空のカフェ”は、いまなお世界中の音楽ファンを招き入れ続けている。
 
 ---
 
@@ -38,7 +37,7 @@ The ""imaginary cafe'' he built continues to invite music fans from all over the
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -47,173 +46,173 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Birth: A project that started from a feverish "vision"
+## 第1章　誕生：熱に浮かされた「幻視」から始まったプロジェクト
 
-PCO's origins lie in a strange event in 1972, when founder Simon Jeffes "succumbed to a high fever due to food poisoning."
-That's when he had a daydream-like inspiration that later became known as the "Penguin Cafe vision."
-There existed a "utopia" where people could gather freely and continue to make music without discipline or form.
+PCO の出発点は、1972年、創始者 Simon Jeffes が“食中毒で高熱に倒れた”という奇妙な出来事にある。
+彼はそのとき、後に「Penguin Cafe のヴィジョン」と呼ばれる**白昼夢的なインスピレーション**を見た。
+そこには、人々が自由に集まり、規律も形式もなく音楽を作り続ける“理想郷”が存在した。
 
-To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structure of minimal music.
-The music was neither traditional nor avant-garde, but crystallized as a sound that could only be found here.
-
----
-
-## Chapter 2 Organization and Thought: An unfixed "orchestra"
-
-PCO's composition changes with each album and live performance, and is different from a "band" with fixed members.
-Led by Simon Jeffes, former classical musicians, folk musicians, and experimental musicians participate, and they act as a ""chamber music group that gathers on a project basis''.
-
-### ● Main participants
-
-* **Simon Jeffes** (guitar, cavaquinho, ukulele, keyboard, composition)
-* **Helen Liebmann** (cello)
-* Geoffrey Richardson (viola, other instruments)
-* Steve Nye (keyboard)
-* Gavyn Wright (violin)
-* Julio Segovia (percussion)
-
-### ● Characteristics of organization
-
-* Ethnic instruments: cuatro, charango, African drum
-* Chamber instruments: cello, viola, violin
-* Small stringed instruments: ukulele, cuatro
-* Ancient and modern instruments coexist
-* Layered structure of repeated phrases
-
-### ● The core of their ideology
-
-Jeffes described his music as "spontaneous structures."
-It is not the rules of Western music or the traditions of folk music, but an organic process in which a collection of sounds takes shape by chance.
-This "spontaneousness" is the reason why PCO's sound, while sometimes magical, has a warm, everyday feel to it.
+Jeffes は、この幻視を具現化するために、クラシックの室内楽編成、フォークの素朴な駆動力、アフリカや南米のリズムの生命力、そしてミニマルミュージックの反復構造を混ぜ合わせた独自の音楽を構築する。
+その音楽は、伝統でも前衛でもなく、ただ「ここにしかない音」として結晶した。
 
 ---
 
-## Chapter 3 Deep structure of representative songs - Acoustic analysis
+## 第2章　編成と思想：固定化されない“オーケストラ”
 
-This chapter analyzes the internal structure of PCO's iconic songs.
+PCO の編成はアルバムやライブごとに変化し、固定メンバーの「バンド」とは異なる。
+Simon Jeffes を中心に、元クラシック奏者、フォーク・ミュージシャン、実験音楽家が参加し、彼らは **「プロジェクト単位で集まる室内楽集団」**として振る舞う。
 
-### 3-1. **Music For a Found Harmonium (1984)**
+### ● 主な参加メンバー
 
-PCO's signature song.
-An iconic anecdote is that he played and composed music on a broken harmonium he found on the streets of Kyoto.
+* **Simon Jeffes**（ギター、カヴァキーニョ、ウクレレ、鍵盤、作曲）
+* **Helen Liebmann**（チェロ）
+* Geoffrey Richardson（ヴィオラ、その他多楽器）
+* Steve Nye（キーボード）
+* Gavyn Wright（ヴァイオリン）
+* Julio Segovia（パーカッション）
 
-**Structural features**
+### ● 編成の特徴
 
-* The main melody is a simple scale movement
-* Contains microtonal shift in the middle part
-* Dispersed chords on the guitar are repeated around the sustained notes of the harmonium.
-* A fusion of folk music dynamics and classical precision.
+* 民族楽器： cuatro、charango、African drum
+* 室内楽器： cello, viola, violin
+* 小型弦楽器： ukulele, cuatro
+* 古楽器とモダン楽器が同居
+* 反復フレーズの重層構造
 
-Even today, this song is frequently used in movies, commercials, and dance works, and has the "light, celebratory feel" that symbolizes PCO.
+### ● 彼らの思想の核
 
----
-
-### 3-2. **Perpetuum Mobile (1987)**
-
-One of PCO's most famous songs, used in many TV programs in Japan.
-It has a repeating structure similar to minimal music, but it is not as strict as Steve Reich's, but rather has a warm repetition.
-
-**structure**
-
-* Repeating keyboard arpeggio
-* Create space with long notes of stringed instruments
-* Percussion is added from the middle to gain propulsion
-* "Reciprocating structure" that returns to tranquility at the end
-
-It's a quiet yet dramatic song that feels like music that expresses the expansion and contraction of time.
+Jeffes は自身の音楽を「自然発生する構造」と表現した。
+西洋音楽の規則ではなく、民族音楽の伝統でもなく、音の集積が偶然に形を成すような**有機的なプロセス**。
+この“自然発生性”こそ、PCO の音が時に呪術的でありながら、どこか日常的な温かさを持っている理由である。
 
 ---
 
-### 3-3. **Telephone and Rubber Band (1981)**
+## 第3章　代表曲の深層構造 ― 音響分析
 
-A strange piece of music in which a two-tone telephone suddenly rings in a classical ensemble.
+本章では、PCO の象徴的な楽曲の内部構造を分析する。
 
-**Features**
+### 3-1. **Music For a Found Harmonium（1984）**
 
-* Looping telephone audio by tape manipulation
-* Electronic sound that exists as a "foreign object" above the ensemble
-* Humorous but postmodern at the same time
+PCO の代表曲。
+京都の路上で拾った壊れかけのハーモニウムで演奏し作曲したという逸話が象徴的だ。
 
-In terms of minimal + found sound, this work intersects with Brian Eno's lineage.
+**構造的特徴**
 
----
+* 主旋律は単純なスケール運動
+* 中間部で微分音的なズレを含む
+* ハーモニウムの持続音を軸に、ギターの分散和音が反復
+* 民族音楽的な躍動とクラシックの精密さの融合
 
-## Chapter 4 World view by album
-
-**PCO constructs an ""imaginary space" for each work." **
-The main albums are explained below.
-
-### ● *Music from the Penguin Cafe* (1976)
-
-Debut album released on Virgin Records' sub-label Obscure.
-Among the Obscure works produced by Brian Eno, this is the most "different" and "bright".
-A fusion of folklore and repetitive structure almost completes the later style.
-
-### ● *Penguin Cafe Orchestra* (1981)
-
-Contains the famous song "Telephone and Rubber Band".
-He has a strong folk music approach and has acquired a unique "dance quality".
-
-### ● *Broadcasting from Home* (1984)
-
-Contains the famous song "Music For a Found Harmonium".
-This is an album where PCO's bright sound quality reaches its peak.
-
-### ● *Signs of Life* (1987)
-
-The atmosphere has become more chamber music, evolving into a more cinematic world.
-Includes "Perpetuum Mobile".
-
-### ● *Union Cafe* (1993)
-
-Simon Jeffes' last studio work before his death.
-The overall structure is more meditative, the acoustics more transparent.
-It is a work that strongly expresses Jeffes' spirituality in his later years, and received a rapid rise in acclaim in later years.
+この曲は現代でも映画、CM、ダンス作品で頻繁に使用され、PCO を象徴する“軽やかな祝祭性”がある。
 
 ---
 
-## Chapter 5 Cultural Influence - Why "stateless kindness" has permeated the world
+### 3-2. **Perpetuum Mobile（1987）**
 
-PCO's music was received in a variety of ways in many countries, despite being independent of trends in the commercial music world.
+日本でも多くのテレビ番組で使われるPCO屈指の名曲。
+ミニマルミュージック的な反復構造を持つが、スティーヴ・ライヒほど厳格ではなく、むしろ温度のある反復だ。
 
-### ● Affinity with cafe/lounge culture
+**構造**
 
-It was reevaluated during the "cafe music" boom of the late 1990s.
-The "ambient music with a statement" that was light and easy to listen to, yet did not become part of the background, attracted attention.
+* 鍵盤の反復するアルペジオ
+* 弦楽器の長音で空間を形成
+* 中盤からパーカッションが加わり推進力を獲得
+* 最後に再び静謐へ戻る“往復式構造”
 
-### ● Heavy media usage
+時間の伸縮をそのまま音楽にしたような、静かでありながらドラマティックな曲だ。
 
-* TV program BGM
+---
+
+### 3-3. **Telephone and Rubber Band（1981）**
+
+クラシカルなアンサンブルに突如として電話のツー・トーンが鳴り響くという奇妙な楽曲。
+
+**特徴**
+
+* テープ操作による電話音声のループ
+* アンサンブルの上に“異物”として存在する電子音
+* ユーモラスだが同時にポストモダン
+
+Minimal + Found sound（偶発音）という点で、Brian Eno の系譜とも交差する作品である。
+
+---
+
+## 第4章　アルバムごとの世界観
+
+**PCO は作品ごとに「架空の空間」を構築する」。**
+以下では主要アルバムを解説する。
+
+### ● *Music from the Penguin Cafe*（1976）
+
+Virgin Records のサブレーベル Obscure からリリースされたデビュー作。
+Brian Eno がプロデュースした Obscure 作品群の中でも、もっとも「異質」で“明るい”。
+フォークロアと反復構造が融合し、後のスタイルがほぼ完成している。
+
+### ● *Penguin Cafe Orchestra*（1981）
+
+著名曲「Telephone and Rubber Band」収録。
+民族音楽的アプローチが強く、独自の“舞曲性”を獲得する。
+
+### ● *Broadcasting from Home*（1984）
+
+名曲「Music For a Found Harmonium」収録。
+PCO ならではの明度の高い音響がピークに達するアルバム。
+
+### ● *Signs of Life*（1987）
+
+室内楽色が強まり、よりシネマティックな世界へ進化。
+「Perpetuum Mobile」収録。
+
+### ● *Union Cafe*（1993）
+
+Simon Jeffes 生前最後のスタジオ作。
+全体の構造はより瞑想的で、音響は透明度が増している。
+晩年の Jeffes の精神性が濃く表れた作品で、後年評価が急上昇した。
+
+---
+
+## 第5章　文化的影響 ―“無国籍の優しさ”が世界中に浸透した理由
+
+PCO の音楽は、商業音楽界のトレンドとは無縁ながら、多くの国でさまざまな形で受容された。
+
+### ● カフェ・ラウンジ文化との親和性
+
+1990年代後半の「カフェミュージック」ブームで再評価。
+軽やかで耳馴染み良く、それでいて背景化しない“主張のあるアンビエント”が注目された。
+
+### ● メディア利用の多さ
+
+* TV番組のBGM
 * CM
-* Movies (especially works by European directors)
-* Ballet/dance company sound source
+* 映画（特にヨーロッパ系監督作品）
+* バレエ／ダンスカンパニーの音源
 
-PCO's music is emotional but not descriptive, so it is valued as ""sound that allows images to breathe''.
+PCO の音楽は、情緒的でありながら説明的ではないため“映像が呼吸できる音”として重宝される。
 
-### ● Impact on subsequent generations
+### ● 後続世代への影響
 
 * Max Richter
-*Olafur Arnalds
-* Penguin Cafe (successor project by son Arthur Jeffes)
-* Folk/Minimal artists
+* Olafur Arnalds
+* Penguin Cafe（息子 Arthur Jeffes による後継プロジェクト）
+* Folk／Minimal 系アーティスト
 
-PCO's approach of ""absence of genre" and ""a fusion of chamber music and folk instruments" was a forerunner of the modern postclassical trend.
-
----
-
-## Chapter 6: The Death and Aftermath of Simon Jeffes
-
-In 1997, Simon Jeffes passed away at the age of 48 from a brain tumor.
-Although it was a great loss for the music world, the remaining recordings, unreleased notes, and performance scores are still being reevaluated.
-
-Later, his son **Arthur Jeffes** started a new project under the name "Penguin Cafe".
-While inheriting the spirit of PCO, they tour the world as a more modern ensemble.
+PCO の「ジャンル不在」「室内楽と民俗楽器の融合」というアプローチは、現代のポストクラシカルの潮流の先駆けであった。
 
 ---
 
-# Appendix: Chronology/Illustrations
+## 第6章　Simon Jeffes の死と、その後
 
-## Chronology: Penguin Cafe Orchestra Chronology
+1997年、Simon Jeffes は脳腫瘍のため48歳の若さで他界した。
+音楽界にとっては大きな損失であったが、残された録音・未発表ノート・演奏スコアは現在も再評価が続いている。
+
+のちに息子の **Arthur Jeffes** が “Penguin Cafe” 名義で新プロジェクトを開始。
+PCO の精神を引き継ぎつつ、より現代的なアンサンブルとして世界を巡っている。
+
+---
+
+# 付録：年表・図解
+
+## 年表：Penguin Cafe Orchestra Chronology
 
 <div class="mermaid">
 
@@ -234,12 +233,12 @@ timeline
 </div>
 ---
 
-## Illustration: PCO acoustic structure map
+## 図解：PCO 音響構造マップ
 
 <div class="mermaid">
 
 mindmap
-  root((PCO acoustics))
+  root((PCO 音響))
     室内楽
       クラシック
       ミニマルの反復
@@ -259,21 +258,21 @@ mindmap
 
 ---
 
-## Illustration: Instrument layer structure (Perpetuum Mobile)
+## 図解：楽器レイヤー構造（Perpetuum Mobile）
 
 <div class="mermaid">
 
 flowchart TD
-  A[High range: Strings Layer] --> A1[Violin: Sustained sound]
-  A --> A2[Viola: auxiliary harmony]
+  A[高域：Strings Layer] --> A1[Violin：持続音]
+  A --> A2[Viola：補助ハーモニー]
 
-  B[Midrange: Main Repetition] --> B1[Piano: Arpeggio repeat]
-  B --> B2[Guitar: Auxiliary rhythm]
+  B[中域：Main Repetition] --> B1[Piano：アルペジオ反復]
+  B --> B2[Guitar：補助リズム]
 
-  C[Low range: Bass Layer] --> C1[Cello: bottom retention]
-  C --> C2[Bass: Foundation]
+  C[低域：Bass Layer] --> C1[Cello：ボトム保持]
+  C --> C2[Bass：基盤]
 
-  D[irregular layer] --> D1[Percussion: propulsion force]
+  D[変則レイヤー] --> D1[Percussion：推進力]
 
   A --- B --- C --- D
 
@@ -282,29 +281,29 @@ flowchart TD
 
 ---
 
-# Conclusion: Why PCO resonates "timelessly"
+# 結語：なぜ PCO は“時代を超えて”響くのか
 
-Penguin Cafe Orchestra's music remains fresh nearly 50 years later.
-What supports this longevity is――
+Penguin Cafe Orchestra の音楽は、50年近く経ったいまも新鮮さを保っている。
+この長寿性を支えているのは――
 
-* has no nationality
-* Not dependent on era
-* Don't force emotions
-* but has a deep temperature
+* 国籍を持たない
+* 時代性に依存しない
+* 感情を強制しない
+* しかし深い温度を持つ
 
-It is a fusion without contradiction.
+という矛盾のない融合である。
 
-PCO's sound can either ""melt into the background" or ""take center stage."
-The song listens to the listener's state of mind and sounds completely different each time.
+PCO の音は「背景に溶ける」ことも「主役になる」こともできる。
+リスナーの心の状態に寄り添い、その都度まったく違った曲に聴こえる。
 
-It may be that the ""imaginary cafe'' that Simon Jeffes saw in his fever is still quietly operating somewhere around the world.
+それは、Simon Jeffes が熱の中で見た“架空のカフェ”が、今も世界中のどこかで静かに営業し続けているということなのかもしれない。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Em1aIz3ONZc?si=HkYqZuq-Uvy8qJMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

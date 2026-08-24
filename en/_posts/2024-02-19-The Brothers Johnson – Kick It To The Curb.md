@@ -12,13 +12,13 @@ title: The Brothers Johnson – Kick It To The Curb
 ---
 
 
-The Brothers Johnson is an American soul/funk/jazz/disco band. Formed in Los Angeles, California in 1975, the group is led by brothers George and Louis Johnson. Early members included his cousin Alex Ware.
+The Brothers Johnsonは、アメリカのソウル/ファンク/ジャズ/ディスコバンドです。1975年、カリフォルニア州ロサンゼルスで結成され、リーダーは兄弟のジョージ・ジョンソンとルイ・ジョンソンです。初期メンバーには、いとこのアレックス・ウェアも含まれていました。
 
-The two began their careers as backing musicians for the likes of Bobby Womack and Billy Preston, before being discovered by producer Quincy Jones.
+二人は、後にプロデューサーのクインシー・ジョーンズに見出されるまで、ボビー・ウォmackやビリー・プレストンなどのバックミュージシャンとしてキャリアをスタートさせました。
 
-Quincy Jones used them on his 1975 album Mellow Madness, which brought them attention.
+クインシー・ジョーンズは、彼らを自身の1975年のアルバム「メロウ・マッドネス」で使用し、注目を集めました。
 
-He recorded eight albums between 1976 and 1988, and is best known for the disco hit "Stomp!" (1980) and the Shuggy Otis classic "Strawberry Letter #23" (1977 cover).
+1976年から1988年までの間に8枚のアルバムをレコーディングし、ディスコヒットとなった「ストンプ!」(1980年)や、シューギー・オーティスの名曲「ストロベリー・レター #23」(1977年のカバー)で最も有名です。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Kick It To The Curb
 B2. P.O. Box 2000 (Instrumental)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m23857969355?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23857969355?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJE3sGnjzOY?si=KiswVie_eyEuw39l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

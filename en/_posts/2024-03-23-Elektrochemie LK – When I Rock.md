@@ -13,9 +13,9 @@ title: Elektrochemie LK – When I Rock
 ---
 
 
-A techno track released in 2001 by German techno heavyweight Thomas Schumacher under the name Elektrochemie LK.
+ジャーマンテクノの重鎮Thomas Schumacher（トーマスシューマッハ）がElektrochemie LK名義で、2001年にリリースしたテクノトラック。
 
-"When I Rock" is one of Thomas Schumacher's masterpieces, along with "Schall!"
+「When I Rock」は「Schall!」と並ぶThomas Schumacherの代表作。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A2. When I Rock (DJ Rush's Rock Da Beat Remix)
 B1. When I Rock (Santos Remix) 
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2tYr7taCzTE?si=wX4h6NziLGd7He8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

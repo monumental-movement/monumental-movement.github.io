@@ -13,9 +13,9 @@ title: Paul Hardcastle – Just For Money (Extended Version)
 ---
 
 
-Paul Hardcastle is a British musician, producer, radio presenter, and multi-instrumentalist, best known for 19 (1985).
+Paul Hardcastle(ポール・ハードキャッスル)は、イギリスのミュージシャン／プロデューサー／ラジオ・プレゼンター／マルチプレイヤーで、『19』(1985)でよく知られている。
 
-"Just For Money" is an Electro/Synth-pop track from the 1985 album "Paul Hardcastle."
+「Just For Money」は、1985年のアルバム『Paul Hardcastle』に収録されているElectro／Synth-popトラック。
 
 
 #### Tracklist

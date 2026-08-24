@@ -12,7 +12,7 @@ title: Mondo Grosso – MG4
 ---
 
 
-Japanese club music based on Shinichi Osawa's roots in jazz, soul, and Brazilian music, with delicate arrangements using live instruments and 2Step dance beats.
+大沢伸一のルーツであるジャズ、ソウル、ブラジリアン・ミュージックを土台に、生楽器を用いた繊細なアレンジと2Stepのダンスビートでまとめたジャパニーズ・クラブ・ミュージック。
 
 It also includes songs such as "Life" and "Butterfly", which were hits at the time and featured Bird.
 
@@ -43,7 +43,7 @@ F1  Star Suite IIII. North Star
 F2  1974-Way Home
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTlbFVhh7Fw?si=otIP4cO1gTdZ2LcR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

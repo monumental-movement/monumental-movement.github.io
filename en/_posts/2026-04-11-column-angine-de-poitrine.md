@@ -58,7 +58,7 @@ Quebec's music scene tends to emphasize artistry and experimentation over commer
 flowchart TD
 A[quebec culture] --> B[french speaking]
 A --> C[north american rock]
-B --> D[artistically oriented]
+B --> D[芸術志向]
 C --> E[structure oriented]
 D --> F[fusion]
 E --> F
@@ -91,7 +91,7 @@ timeline
 
 This ""time lag between formation and establishment'' shows that their music was formed through improvisational trial and error.
 
-> Bands are not born instantaneously, but have contours over time.
+> Bands are not born instantaneously, but have an outline over time.
 
 ---
 
@@ -133,7 +133,7 @@ C --> D[concentration on sound]
 D --> E[Change in experience]
 </div>
 
-This anonymity functions as a device that increases the purity of music.
+この匿名性は、音楽の純度を高める装置として機能している。
 
 > Visual blockage conversely creates sensory concentration
 
@@ -145,7 +145,7 @@ This anonymity functions as a device that increases the purity of music.
 
 In 2024, they will release their debut album "Vol. 1". Through this work, his previously fragmented activities were presented as a single form.
 
-Furthermore, in 2026, a live recording on radio station KEXP will be widely shared online, attracting international attention. This exposure led to tours in Europe and North America, and the scale of their activities rapidly expanded.
+Furthermore, in 2026, a live recording on radio station KEXP will be widely shared online, attracting international attention. This exposure led to tours in Europe and North America, and the scale of their activities quickly expanded.
 
 <div class="mermaid">
 flowchart TD
@@ -158,7 +158,7 @@ E --> F[tour]
 
 This flow indicates a contemporary structure in which evaluations in the underground scene are globally connected.
 
-> We are entering an era where local activities are instantly connected to the world.
+> We have entered an era where local activities are instantly connected to the world.
 
 ---
 
@@ -206,11 +206,11 @@ Their presence shows that the possibilities of music are still expanding.
 
 ---
 
-## Conclusion
+## 結論
 
 ### Reinterpretation of the angina metaphor
 
-Angine pectoris, as implied by the name Angine de Poitrine, has been reinterpreted as a metaphor for the feeling of pressure and tension, rather than just a physical symptom.
+Angine pectoris, as implied by the name Angine de Poitrine, is not just a physical symptom, but has been reinterpreted as a metaphor for the feeling of pressure and tension.
 
 Their music appeals to the listener not through stability and pleasure, but through instability and tension. The experience is by no means easy, but at the same time it leaves a strong impression.
 

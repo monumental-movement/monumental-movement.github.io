@@ -11,12 +11,12 @@ title: Jaimy – Lost Inside
 ---
 
 
-In 1990, Jaimy was one of the first Dutch producers to successfully make a living from house music. At the age of 19, he signed his first record contract and was picked up by Outland Records in Amsterdam, where he contributed to much of the music released by Outland Studios.
+1990年、Jaimyはオランダのプロデューサーの中で、ハウスミュージックで生計を立てることに成功した最初の人の1人でした。19歳で初めてのレコード契約を締結し、アムステルダムのOutland Recordsに迎えられ、Outland Studiosからリリースされた音楽の多くに貢献しました。
 
-Around 1998, I met my musical partner, Kenny D.
-Production-wise, Jaimy & Kenny D primarily released music on Black Hole Recordings, but also contributed tracks and projects to United Recordings, Combined Forces, and Perfecto.
+1998年ごろ、音楽のパートナーであるKenny Dと出会いました。
+制作面では、Jaimy & Kenny Dは主にBlack Hole Recordingsから楽曲をリリースしましたが、United Recordings、Combined Forces、Perfectoにもトラックやプロジェクトを提供しました。
 
-In 2004, Jaimy took the independent route and founded his own label, Fatal Music. A year later, he also founded Drum Mode.
+2004年、Jaimyは独立路線を選び、自身のレーベルFatal Musicを設立しました。1年後にはDrum Modeも設立しました。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. No Way Out
 B2. Blow Your Mind
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m47948860617?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47948860617?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-yx9hBc8REo?si=1VPt2edrqlcOYzrZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

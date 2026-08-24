@@ -10,7 +10,7 @@ tags:
 - Dub
 - Techno
 title: '[Column] The 100 most influential albums in music history: A new music history
-  reconstructed solely by the degree of influence on modern music (Part 8, 71-80:
+  reconstructed solely based on the degree of influence on modern music (Part 8, 71-80:
   The Golden Age of Breakbeats and Ambient)'
 ---
 
@@ -24,11 +24,11 @@ title: '[Column] The 100 most influential albums in music history: A new music h
 
 ""Super Ape'', released in 1976, is a historic work that elevated dub from a mere derivative of reggae to an independent musical expression that uses the recording studio itself as a place of creation.
 
-Producer Lee "Scratch" Perry treated the studio, which had previously been thought of as a place to record performances, as an "instrument."
+Producer Lee "Scratch" Perry treated the studio, which had previously been considered a place to record performances, as an "instrument."
 
 By moving faders, layering echoes, and transforming the space with reverb, the post-recording editing process itself becomes an act of composition.
 
-This idea became an important starting point for modern music production, which later led to hip-hop, ambient, techno, trip-hop, and dubstep.
+この発想は、後のヒップホップ、アンビエント、テクノ、トリップホップ、ダブステップにまで連なる、現代音楽制作の重要な起点となった。
 
 <style type="text/css">
 
@@ -50,9 +50,9 @@ color: #fff;
 
 In Jamaica in the 1970s, in order to make the most of expensive studio equipment, there was a culture of editing a single recorded material multiple times to create a new work.
 
-The central figure is Lee "Scratch" Perry.
+その中心人物がLee "Scratch" Perryである。
 
-At **Black Ark Studio**, which he set up on the outskirts of Kingston, he creatively used limited equipment to create a sonic space that was completely different from traditional reggae.
+At **Black Ark Studio**, which he set up on the outskirts of Kingston, he creatively used limited equipment to create a sound space that was completely different from traditional reggae.
 
 Vary the speed of the tape machine.
 
@@ -62,17 +62,17 @@ Operate tape delay like a musical instrument.
 
 Perform fader operations as an improvisational performance.
 
-These were unprecedented production methods at the time, anticipating the current production culture of reconstructing recorded performances as raw materials.
+これらは当時としては異例の制作手法であり、「録音された演奏」を素材として再構築する現在のプロダクション文化を先取りしていた。
 
 ---
 
-## Mixing becomes composition
+## ミキシングが作曲になる
 
 The biggest innovation in ""Super Ape'' is that it transforms mixing into a creative act that produces the work itself, rather than just a finishing process.
 
-The bass line sinks deep and the drums float in the reverberation.
+ベースラインは深く沈み込み、ドラムは残響の中で浮遊する。
 
-Guitars and horns appear for a moment, then disappear beyond the echo.
+ギターやホーンは一瞬だけ姿を現し、エコーの彼方へ消えていく。
 
 Sound acquires its presence through subtraction, not addition.
 
@@ -107,7 +107,7 @@ E --> I
 
 ## The idea of ​​playing "space"
 
-When listening to ""Super Ape," the ""space" leaves a stronger impression than the performance itself.
+『Super Ape』を聴くと、演奏そのものよりも「空間」が強く印象に残る。
 
 Snare extended by echo.
 
@@ -123,15 +123,15 @@ This idea would later be inherited by Brian Eno"s ambient work, Massive Attack"s
 
 ---
 
-## Influence on music production around the world
+## 世界中の音楽制作へ与えた影響
 
-Super Ape's influence goes far beyond reggae.
+『Super Ape』の影響は、レゲエという枠を大きく超えている。
 
-In hip-hop in the 1980s, the spatial processing of dub was linked to sampling culture, and in the 1990s trip-hop and dub techno inherited this idea.
+1980年代のヒップホップでは、ダブの空間処理がサンプリング文化と結び付き、1990年代にはトリップホップやダブ・テクノがその思想を継承した。
 
-Furthermore, since the 2000s, methods of designing spaces centered on bass sounds have become an important expression in dubstep and experimental electronica.
+さらに2000年代以降、ダブステップや実験的エレクトロニカでは、低音を中心に空間を設計する手法が重要な表現となる。
 
-Today's mixes, which make full use of automation and spatial effects, are carried out on DAWs, and this philosophy still remains strong.
+今日、DAW上で行われるオートメーションや空間系エフェクトを駆使したミックスにも、その思想は色濃く残されている。
 
 ---
 
@@ -141,9 +141,9 @@ Today's mixes, which make full use of automation and spatial effects, are carrie
 
 Its innovations have had a long-lasting impact on fields as diverse as recording technology, production, club culture, electronic music, and hip-hop.
 
-This ranking ranks 71st because works that fundamentally changed the recording technology itself are placed higher, but the idea of ​​""composing space'' that this work shows continues to be one of the foundations of contemporary music production.
+This ranking ranks 71st because works that fundamentally changed recording technology are ranked higher, but the idea of ​​""composing space'' that this work shows continues to be one of the foundations of contemporary music production.
 
-> **"'Super Ape' transformed a recording studio into a performance venue and established dub as a spatial art. Due to its innovation, it is ranked 71st in this ranking."**
+> **「『Super Ape』は録音スタジオを演奏の場へ変え、ダブを空間芸術として確立した。その革新性により本ランキング第71位に位置付ける。」**
 
 
 ---
@@ -157,15 +157,15 @@ This ranking ranks 71st because works that fundamentally changed the recording t
 
 ""Black Secret Technology'', released in 1995, is a work that symbolizes the evolution from jungle to drum and bass, and is a historic album in which electronic music transforms the complexity of urban society into sound.
 
-It was produced by A Guy Called Gerald, a pioneer of UK electronic music. Having been active since the early days of acid house, this album unites rave and sound system culture, black music traditions, and the rapidly changing rhythms of the city into a single musical language.
+制作したのは、UKエレクトロニック・ミュージックの先駆者であるA Guy Called Gerald。アシッド・ハウス黎明期から活動してきた彼は、本作でレイブ・カルチャーとサウンドシステム文化、ブラック・ミュージックの伝統、そして急速に変化する都市のリズムを一つの音楽言語へと統合した。
 
 Jungle here is more than just fast dance music.
 
-This became the ""acoustic city theory'' that reflected the sense of time in the multi-ethnic city of London.
+それは、多民族都市ロンドンの時間感覚を映し出す「音響都市論」となったのである。
 
 ---
 
-## New rhythm after rave
+## レイブ以後の新しいリズム
 
 In the early 1990s, the acid house and rave movements were exploding in Britain.
 
@@ -186,15 +186,15 @@ are highly integrated.
 
 ## Invention of "chopped time"
 
-The biggest feature of this work is its handling of breakbeats.
+本作の最大の特徴は、ブレイクビートの扱いにある。
 
 In traditional dance music, rhythm was a device for synchronizing the bodies.
 
-But by breaking down the beat and rearranging it, Gerald turned time itself into an object of editing.
+しかしGeraldは、そのビートを細かく分解し、再配置することで、時間そのものを編集対象へと変えた。
 
 The drum sways even as it accelerates,
 
-The base supports the space like gravity,
+ベースは重力のように空間を支え、
 
 Synthesizers drift like urban fog.
 
@@ -227,13 +227,13 @@ F --> G
 
 The album title "Black Secret Technology" is symbolic.
 
-"Technology" here is not just equipment.
+ここでいう「Technology」は単なる機材ではない。
 
 It refers to the idea of ​​renewing the rhythmic culture that black music has accumulated in a new digital production environment.
 
 Jazz, funk, reggae, hip hop.
 
-These genes are transformed into new forms through samplers and sequencers.
+それらの遺伝子は、サンプラーやシーケンサーを通じて新しい姿へ変換される。
 
 This perspective was carried over into later drum"n"bass, UK garage, and grime.
 
@@ -243,21 +243,21 @@ This perspective was carried over into later drum"n"bass, UK garage, and grime.
 
 ""Black Secret Technology'' had a profound influence on subsequent UK electronic music as a whole.
 
-Roni Size developed drum and bass in a more sophisticated direction,
+Roni Sizeはドラムンベースをより洗練された方向へ発展させ、
 
-Burial depicts urban solitude as sound,
+Burialは都市の孤独を音響として描き、
 
-Kode9 and Digital Mystikz inherited the bass-heavy culture into dubstep.
+Kode9やDigital Mystikzは重低音文化をダブステップへと継承した。
 
-It is no exaggeration to say that current UK bass music is an extension of the sense of time and bass design that this work pioneered.
+現在のUKベース・ミュージックは、本作が切り開いた時間感覚と低音設計の延長線上にあると言っても過言ではない。
 
 ---
 
-## Why is it ranked 72nd?
+## なぜ72位なのか
 
 ""Black Secret Technology'' is an important work that matured jungle from the fragmented sounds of urban culture to artistic electronic music.
 
-His accomplishments in developing breakbeat into a time-editing technique were significant, and became an important starting point for the lineage that would later extend to drum and bass, UK garage, grime, and dubstep.
+ブレイクビートを時間編集の技法へ発展させた功績は大きく、その後のドラムンベース、UKガラージ、グライム、ダブステップに至る系譜の重要な起点となった。
 
 In this ranking, works that place emphasis on subsequent cultural repercussions are placed higher than works that institutionalize the jungle itself, so we placed it at 72nd place, but the idea of ​​""depicting the multilayered nature of the city through sound'' that this work shows is the basis of contemporary UK electronic music.
 
@@ -271,7 +271,7 @@ In this ranking, works that place emphasis on subsequent cultural repercussions 
 
 ## New Forms
 
-### **"The moment when drum and bass matured from a "club" to an "art""**
+### **「ドラムンベースが“クラブ”から“芸術”へ成熟した瞬間」**
 
 ""New Forms'', released in 1997, is a historical work that shows that drum and bass has made a leap from underground club culture and has been established as a comprehensive musical expression.
 
@@ -283,7 +283,7 @@ It was here that drum"n"bass matured from being a one-night-stand dance music to
 
 ---
 
-## New urban music born in Bristol
+## ブリストルが生んだ新しい都市音楽
 
 Bristol, where Roni Size was active, is known as one of the most multicultural cities in England.
 
@@ -301,19 +301,19 @@ breakbeats.
 
 Bristol was an important testing ground for British music in the 1990s, with the likes of Massive Attack, Portishead and Tricky emerging from the same city.
 
-However, rather than the introspective nature of trip-hop, Roni Size forged a path of his own, combining jazz-like playability and composition while maintaining the vibrancy of club culture.
+However, rather than the introspectiveness of trip-hop, Roni Size carved out a path of his own, combining jazz-like playability and composition while maintaining the vibrancy of club culture.
 
 ---
 
-## Fusion of programming and live music
+## プログラミングと生演奏の融合
 
-The innovation of ""New Forms'' lies in the fact that it was designed so that typing and live performance were not opposed to each other, but complemented each other.
+The innovation of ""New Forms'' lies in the fact that it was designed so that typing and live performance complement each other, rather than being opposed to each other.
 
-A breakbeat played at high speed.
+高速で刻まれるブレイクビート。
 
 A deep bass line.
 
-Improvisation on saxophone and keyboard.
+サックスやキーボードの即興。
 
 A rich melody with female vocals.
 
@@ -356,7 +356,7 @@ Until the mid-1990s, many drum"n"bass works were created with DJ use in mind.
 
 However, New Forms is structured so that a single story flows throughout the album.
 
-It's not just the intense beats.
+激しいビートだけではない。
 
 There are also quiet songs.
 
@@ -372,15 +372,15 @@ This trend has had a major influence on later LTJ Bukem and High Contrast, as we
 
 ## A work that changed the social evaluation of drum & bass
 
-The success of New Forms changed the social reputation of the drum and bass genre itself.
+The success of New Forms changed the social evaluation of the drum and bass genre itself.
 
-Fast breakbeats are not violent music, but highly structured art.
+高速なブレイクビートは暴力的な音楽ではなく、高度な構築性を持つ芸術である。
 
 Club culture is not a passing fad, but an important expression of contemporary urban culture.
 
 The historical significance of this work is that it spread this awareness widely.
 
-Its influence was also significant in that it supported the trend of electronic music being seriously evaluated as the subject of music awards and criticism.
+電子音楽が音楽賞や批評の対象として本格的に評価される流れを後押しした点でも、その影響は大きい。
 
 ---
 
@@ -392,7 +392,7 @@ While retaining the energy of jungle, they incorporated jazz and soul, greatly e
 
 In this ranking, works that pioneered the genres of jungle and drum"n"bass were ranked 73rd, as they were ranked somewhat higher, but the idea that ""club music can also be realized as a full-length work'' that this work showed had an immeasurable influence on subsequent electronic music production.
 
-> **"'New Forms' matured drum and bass from club culture to comprehensive album art. Due to its historical significance, it is ranked 73rd in this ranking."**
+> **「『New Forms』はドラムンベースをクラブ・カルチャーから総合的なアルバム芸術へと成熟させた。その歴史的意義により本ランキング第73位に位置付ける。」**
 
 ---
 
@@ -405,11 +405,11 @@ In this ranking, works that pioneered the genres of jungle and drum"n"bass were 
 
 ### **"The moment when rock and rave became "the same culture"**
 
-**Screamadelica**, released in 1991, is a historical work that completely erased the boundaries that existed between rock and club music, and determined the musical culture of the 1990s and beyond.
+1991年に発表された**『Screamadelica』**は、ロックとクラブ・ミュージックの間に存在していた境界線を完全に取り払い、1990年代以降の音楽文化を決定づけた歴史的作品である。
 
 Until then, there was a clear distinction between rock and dance music, which was ""music played by a band," and dance music, which was ""music played by a DJ."
 
-But Primal Scream overturns that assumption with this album.
+しかしPrimal Screamは、このアルバムによってその前提を覆す。
 
 They boldly incorporated acid house, dub, psychedelia, gospel, sampling, and club mixes into the rock lineup of guitar, bass, and drums, and presented a new sense of values ​​called ""dancing to rock.''
 
@@ -421,7 +421,7 @@ This work records the moment when rock culture and club culture intersected as a
 
 ## Beyond the Manchester Movement
 
-In Britain at the end of the 1980s, a rave culture called the **Second Summer of Love** was rapidly spreading along with the acid house craze.
+1980年代末のイギリスでは、アシッド・ハウスの流行とともに、**セカンド・サマー・オブ・ラブ**と呼ばれるレイブ・カルチャーが急速に広がっていた。
 
 Around the same time, rock bands and club culture began to come together, centering around Manchester's **The Haçienda**.
 
@@ -431,7 +431,7 @@ The Stone Roses
 
 808 State
 
-These artists had been experimenting with the fusion of band performance and dance music, and Screamadelica took that trend a step further.
+これらのアーティストは、バンド演奏とダンス・ミュージックの融合を試みていたが、『Screamadelica』はその流れをさらに一歩進めた。
 
 Rather than ""quoting'' club culture, Primal Scream dived fully into it.
 
@@ -488,7 +488,7 @@ E --> H
 
 The entire album is structured as if you were reliving a night at the club.
 
-Exalted.
+高揚。
 
 Euphoria.
 
@@ -508,25 +508,25 @@ This was an important idea that would later be inherited by the Chemical Brother
 
 British music in the 1990s is often talked about in terms of Britpop, represented by Oasis and Blur.
 
-But it was Screamadelica that laid the cultural foundation.
+しかし、その文化的土台を築いたのは『Screamadelica』だった。
 
 Rock fans who go to clubs.
 
-A raver listening to a guitar band.
+ギター・バンドを聴くレイバー。
 
 A culture where DJs and bands perform at the same festival.
 
 After this work, these techniques rapidly became commonplace.
 
-It has rewritten not only the genre of music, but also the lifestyle of enjoying music itself.
+音楽ジャンルだけではなく、**音楽を楽しむライフスタイルそのもの**を書き換えたのである。
 
 ---
 
-## Why is it ranked 74th?
+## なぜ74位なのか
 
 Screamadelica is a historic work that perfectly fused rock and club culture and determined the direction of British music in the 1990s.
 
-Its influence extends to big beat, electronic rock, Britpop and even contemporary festival culture.
+その影響はビッグ・ビート、エレクトロニック・ロック、ブリットポップ、さらには現代フェスティバル文化にも及んでいる。
 
 In this ranking, works that created club music itself and works that fundamentally changed the structure of electronic music were ranked 74th, so the idea that ""rock and dance music are not in conflict'', which this work showed, became an important premise for popular music for over 30 years afterward.
 
@@ -534,7 +534,7 @@ In this ranking, works that created club music itself and works that fundamental
 
 ---
 
-## 8th Part 5 (75th place)
+## 第8回 Part5（75位）
 
 ---
 
@@ -542,11 +542,11 @@ In this ranking, works that created club music itself and works that fundamental
 
 ### **"The moment when sampling became a technique for composing 'memory itself'"**
 
-**Since I Left You**, released in 2000, is a historical work that liberated the technique of sampling from mere quotation and beat-making and sublimated it into a musical language for constructing ""memories" and ""stories."
+2000年に発表された**『Since I Left You』**は、サンプリングという技法を単なる引用やビートメイキングから解放し、「記憶」や「物語」を構築するための音楽言語へと昇華した歴史的作品である。
 
 Hailing from Melbourne, Australia, The Avalanches collaged together thousands of fragments of existing sound sources, creating an entire album into a dream-like world.
 
-What's important here is not "which song was sampled."
+ここで重要なのは、「どの曲をサンプリングしたか」ではない。
 
 The important thing is that they are creating new times and emotions.
 
@@ -560,7 +560,7 @@ During the 1980s and 1990s, sampling developed as a central technique in hip-hop
 
 Public Enemy is used as a political collage,
 
-De La Soul expands into playful quotations,
+De La Soulは遊び心ある引用へ展開し、
 
 With ""Endtroducing....'', DJ Shadow completed the production of an album using only sampling.
 
@@ -572,7 +572,7 @@ Rather than creating hip-hop beats, he arranged samples to create a cinematic al
 
 ## Thousands of fragments become one world
 
-It took several years to make and used a huge number of records as material.
+制作には数年が費やされ、膨大な数のレコードが素材として用いられた。
 
 jazz.
 
@@ -584,7 +584,7 @@ Easy listening.
 
 movie music.
 
-CM sound source.
+CM音源。
 
 children's records.
 
@@ -627,17 +627,17 @@ F --> I
 
 ## "The whole album" becomes a journey
 
-""Since I Left You" has almost no ""between songs" in the general sense of the word.
+『Since I Left You』には、一般的な意味での「曲間」がほとんど存在しない。
 
 Music connects with nature,
 
-The motif reappears in different forms,
+モチーフは姿を変えながら再登場し、
 
 Fragments of sound acquire new meanings in different situations.
 
 Its structure is like a novel or a movie.
 
-This idea of ​​""designing an album as a continuous experience'' had a considerable influence on later highly conceptual electronic music works, mixed culture, and even playlist design in the streaming era.
+この「アルバムを連続した体験として設計する」という思想は、後のコンセプト性の高い電子音楽作品や、ミックスカルチャー、さらにはストリーミング時代のプレイリスト設計にも少なからぬ影響を与えた。
 
 ---
 
@@ -649,15 +649,15 @@ copy.
 
 edit.
 
-Paste together.
+貼り合わせ。
 
-Rebuild.
+再構築。
 
 These tasks have become commonplace in digital production.
 
 However, ""Since I Left You'' presents this idea not as mere efficiency, but as a form of artistic expression.
 
-This aesthetic foreshadowed the sensibilities that would come later in plunderphonics, mashup culture, YouTube-era remixes, and even Internet culture as a whole.
+この美学は、後のプランダーフォニクス、マッシュアップ文化、YouTube世代のリミックス、さらにはインターネット・カルチャー全体にも通じる感覚を先取りしていた。
 
 The idea that ""by combining existing materials, you can create completely new works'' becomes even more important after this work.
 
@@ -669,7 +669,7 @@ The idea that ""by combining existing materials, you can create completely new w
 
 Its influence extends to electronica, hip-hop, indie pop, and even the remix culture of the internet age.
 
-In this ranking, works that have historically established the sampling technique itself are ranked 75th, so the idea of ​​""creating future music by re-editing past recording culture'' that this work shows is an important turning point that symbolizes music production in the 21st century.
+本ランキングでは、サンプリングという技法そのものを歴史的に確立した作品をより上位に置いているため第75位としたが、本作が示した「過去の録音文化を再編集して未来の音楽を作る」という発想は、21世紀の音楽制作を象徴する重要な転換点となった。
 
 > **""'Since I Left You' evolved sampling into a ""technique for composing memories" rather than quoting it.Due to its innovation, it ranks 75th in this ranking."**
 
@@ -681,31 +681,31 @@ In this ranking, works that have historically established the sampling technique
 
 ## 69: The Sound of Music
 
-### **"The moment when Detroit techno reached "abstract art""**
+### **「デトロイト・テクノが“抽象芸術”へ到達した瞬間」**
 
-Released in 1993, ""69: The Sound of Music'' is a historic work by Carl Craig, a representative of the second generation of Detroit techno, who expanded techno from functional club music to pure acoustic art.
+1993年に発表された**『69: The Sound of Music』**は、デトロイト・テクノ第二世代を代表するCarl Craigが、テクノを機能的なクラブ・ミュージックから、純粋な音響芸術へと押し広げた歴史的作品である。
 
-If Juan Atkins envisioned cities of the future, Derrick May gave machines emotion, and Kevin Saunderson connected them to club culture, Carl Craig took things even further.
+Juan Atkinsが未来都市を描き、Derrick Mayが機械へ感情を与え、Kevin Saundersonがクラブ・カルチャーへ接続したとすれば、Carl Craigが行ったのはそのさらに先にある試みだった。
 
-The aim is to expand techno into ""music for listening and thinking" rather than ""music for dancing".
+それは、**テクノを「踊るための音楽」ではなく、「聴き、思考するための音楽」へ拡張すること**である。
 
 ""The Sound of Music'' signaled the coming of age of Detroit techno, and was a major turning point for the subsequent minimal techno, IDM, and electronica.
 
 ---
 
-## The future as seen by the second generation
+## 第二世代が見た未来
 
-In the early 1990s, Detroit techno was already enthusiastically received in Europe.
+1990年代初頭、デトロイト・テクノはすでにヨーロッパで熱狂的に受け入れられていた。
 
-However, at the same time, the genre was rapidly becoming standardized.
+しかしその一方で、ジャンルは急速に定型化しつつあった。
 
-Four hits.
+Strike four.
 
 mechanical beat.
 
 club function.
 
-Carl Craig wasn't satisfied with that framework.
+Carl Craigは、その枠組みに満足しなかった。
 
 Influenced by jazz, classical music, film music, and contemporary music, he wanted to redesign techno as ""music that explores structure itself.''
 
@@ -713,21 +713,21 @@ Influenced by jazz, classical music, film music, and contemporary music, he want
 
 ---
 
-## "Acoustic architecture" rather than minimalism
+## ミニマリズムではなく「音響建築」
 
 What characterizes this work is the method of constructing vast spaces from minimal materials.
 
-short phrase.
+短いフレーズ。
 
 Repeating synthesizer.
 
-Code that changes silently.
+静かに変化するコード。
 
 Subdued beat.
 
 At first glance, there are not many changes.
 
-However, if you listen carefully, you will notice that the timbre, localization, reverberation, and rhythmic fluctuations are constantly changing.
+しかし耳を澄ませると、音色、定位、残響、リズムの揺らぎが絶えず変化している。
 
 Carl Craig was designing "space" rather than piling up notes.
 
@@ -768,9 +768,9 @@ Repetition of German minimalism.
 
 Ambient space design.
 
-Free thinking in jazz.
+ジャズの自由な発想。
 
-Rather than being collected into a single genre, they coexist in tension with each other.
+それらは一つのジャンルへ回収されるのではなく、互いに緊張関係を保ちながら共存している。
 
 This aesthetic would be inherited by later Basic Channel, Ricardo Villalobos, Plastikman, and even modern electronica.
 
@@ -800,19 +800,19 @@ It was here that techno transcended the category of dance music and began to be 
 
 Its influence extends to minimal techno, IDM, electronica, and even sound installations in contemporary art.
 
-In this ranking, we ranked 76th because the works that created the techno genre were ranked higher, but the idea that ""electronic music can be a thinking art'' expressed by this work set the direction for the development of electronic music over the next 30 years.
+本ランキングでは、テクノというジャンルそのものを創出した作品群をより上位に置いているため第76位としたが、本作が示した「電子音楽は思考する芸術になり得る」という理念は、その後の30年間にわたる電子音楽の発展を方向づけた。
 
-> **"'69: The Sound of Music' liberated techno from the club and elevated it to abstract sound art. Due to its historical significance, it is ranked 76th in this ranking."**
+> **「『69: The Sound of Music』はテクノをクラブから解放し、抽象的な音響芸術へと昇華した。その歴史的意義により本ランキング第76位に位置付ける。」**
 
 ---
 
-## 8th Part7 (77th place)
+## 第8回 Part7（77位）
 
 ---
 
 ## The KLF – Chill Out
 
-### **"The moment when ambient music became an art of composing the journey itself"**
+### **「アンビエントが“旅そのもの”を作曲する芸術になった瞬間」**
 
 ""Chill Out", released in 1990, is an epoch-making work in the history of ambient music that takes the concept of environmental music one step further and transforms ""moving landscape" itself into music.
 
@@ -822,25 +822,25 @@ Here, even the unit of music becomes ambiguous.
 
 The sound of a train running.
 
-sheep bleating.
+羊の鳴き声。
 
-Radio broadcast.
+ラジオ放送。
 
 A bell echoes in the distance.
 
-The silence of dawn.
+夜明けの静寂。
 
-These are not just sound effects, but are arranged as elements that make up a "journey."
+それらは単なる効果音ではなく、一つの「旅」を構成する要素として配置されている。
 
 ""Chill Out'' expanded music from an art of time to an art of space and movement.
 
 ---
 
-## Music born at the dawn of the club
+## クラブの「夜明け」に生まれた音楽
 
-From 1989 to 1990, acid house culture was at its peak in Britain.
+Between 1989 and 1990, acid house culture was at its peak in Britain.
 
-However, at the same time, music that colors the end of the club, the dawn, and the silence is also sought after.
+しかし、その一方でクラブの終わり、夜明け、静寂を彩る音楽も求められるようになる。
 
 A culture called ""chill out'' was born out of this trend.
 
@@ -866,7 +866,7 @@ environmental sounds.
 
 animal sounds.
 
-By seamlessly connecting these elements, the listener feels as if they are experiencing a single road movie.
+これらがシームレスにつながることで、リスナーは一つのロードムービーを体験するような感覚を味わう。
 
 This was also an attempt to develop the idea of ​​collage presented in ""My Life in the Bush of Ghosts'' into a more cinematic composition.
 
@@ -897,17 +897,17 @@ E --> H
 
 ---
 
-## "The whole album" becomes one landscape
+## 「アルバム全体」が一つの風景になる
 
 Chill Out has very few singles in the typical sense.
 
 What's important is not just one song, but the overall flow.
 
-From the city to the suburbs.
+都市から郊外へ。
 
 From night to morning.
 
-From artificial to natural.
+人工から自然へ。
 
 This transition is depicted throughout the nearly hour-long piece.
 
@@ -915,23 +915,23 @@ This idea would later be inherited by many artists such as ambient house, film-l
 
 ---
 
-## Music as a spatial installation
+## 空間インスタレーションとしての音楽
 
-Chill Out's influence extends beyond the clubs.
+『Chill Out』の影響はクラブだけに留まらない。
 
 Art museum.
 
 Gallery.
 
-sound installation.
+サウンド・インスタレーション。
 
 environmental design.
 
 game music.
 
-The idea that ""music can design spatial experiences'' had a great influence on subsequent sound art as a whole.
+「音楽は空間体験を設計できる」という考え方は、その後のサウンド・アート全体にも大きな影響を与えた。
 
-The KLF developed Brian Eno's idea of ​​""music as an environment" into ""music as a journey."
+ブライアン・イーノが提示した「環境としての音楽」を、The KLFは「旅としての音楽」へ発展させたのである。
 
 ---
 
@@ -947,17 +947,17 @@ In this ranking, works that created the very concept of ambient and works that f
 
 ---
 
-## 8th Part9 (78th place)
+## 第8回 Part9（78位）
 
 ## Lifeforms
 
-### **"The moment when electronic music became an art for designing an ecosystem"**
+### **"The moment electronic music became an art for designing an ecosystem"**
 
 ""Lifeforms", released by **The Future Sound of London** in 1994, is a historical work that showed that electronic music had completely become independent from the framework of club and pop music, and had reached ""the art of creating a living environment through sound."
 
-Up until then, ambient music had often been talked about as music meant to decorate a space.
+それまでのアンビエントは、空間を彩るための音楽として語られることが多かった。
 
-However, ""Lifeforms'' pushes that concept even further.
+しかし『Lifeforms』は、その概念をさらに押し広げる。
 
 Music is not the background here.
 
@@ -981,7 +981,7 @@ climax.
 
 Such structures almost never exist.
 
-Instead, it is placed
+代わりに配置されるのは、
 
 A synthesizer that grows like a plant.
 
@@ -991,7 +991,7 @@ Fragmented folk music.
 
 field recording.
 
-Subtle electronic noise.
+微細な電子ノイズ。
 
 They coexist as one huge environment without competing with each other.
 
@@ -1007,9 +1007,9 @@ The studio is not a place to record performances.
 
 It will become a laboratory for designing life.
 
-One tone is a cell,
+一つの音色は細胞であり、
 
-Rhythm is breathing;
+リズムは呼吸であり、
 
 Reverberation is climate.
 
@@ -1044,11 +1044,11 @@ E --> I
 
 ---
 
-## The idea of ​​"living acoustics"
+## 「生きている音響」という思想
 
 In Lifeforms, sound is not a fixed object.
 
-Changes its appearance over time,
+時間とともに姿を変え、
 
 interact with the surroundings,
 
@@ -1064,21 +1064,21 @@ game music.
 
 Video music.
 
-Sound design for VR space.
+VR空間のサウンドデザイン。
 
-Today, much of the ""music used to design environments'' inherits the ideas of this work.
+現代では「環境を設計する音楽」の多くが、この作品の思想を受け継いでいる。
 
 ---
 
-## Impact on the post-rave generation
+## ポスト・レイブ世代への影響
 
 Since the late 1990s, electronic music has expanded beyond clubs to museums, films, and installations.
 
 The background to this is the idea that ""Music can design the environment itself" as shown by ""Lifeforms".
 
-Boards of Canada.
+Boards of Canada。
 
-Biosphere.
+Biosphere。
 
 Autechre.
 
@@ -1090,17 +1090,17 @@ It was here that electronic music evolved from ""music for dancing" to ""a space
 
 ## Why is it ranked 78th?
 
-""Lifeforms" is a monumental work that develops ambient music from just quiet music to ""the art of designing living environments."
+『Lifeforms』は、アンビエントを単なる静かな音楽ではなく、「生命環境を設計する芸術」へと発展させた記念碑的作品である。
 
 Its influence has spread to the entire sonic culture since the 1990s, including IDM, electronica, game music, and sound installations.
 
 In this ranking, works that established the concept of ambient itself and works that created the basic structure of electronic music are placed higher, so we placed it at 78th place. However, the idea of ​​""designing music as an ecosystem'' presented by this work is an important turning point that forms the basis of modern sound design.
 
-> **""'Lifeforms" evolved electronic music from a song to an "ecosystem' and expanded it into an art that creates the acoustic space itself. Due to its historical significance, it is ranked 78th in this ranking.''**
+> **「『Lifeforms』は電子音楽を楽曲から『生態系』へと進化させ、音響空間そのものを創造する芸術へと拡張した。その歴史的意義により本ランキング第78位に位置付ける。」**
 
 ---
 
-## 8th Part 10 (79th place)
+## 第8回 Part10（79位）
 
 ---
 
@@ -1110,13 +1110,13 @@ In this ranking, works that established the concept of ambient itself and works 
 
 In 1995, **Basic Channel** (Moritz von Oswald / Mark Ernestus) released **BCD**, proving that ""reducing the sound'' could be the greatest innovation in the history of techno.
 
-Detroit techno in the 1980s envisioned a futuristic city, and raves in the early 1990s created a huge amount of energy.
+1980年代のデトロイト・テクノは未来都市を描き、1990年代初頭のレイブは巨大なエネルギーを生み出した。
 
-But Basic Channel went in a different direction.
+しかしBasic Channelは、そのどちらとも異なる方向へ進んだ。
 
 What they aimed for was
 
-**It"s not about adding sound, it"s about creating space. **
+**音を足すことではなく、空間を作ること。**
 
 ""BCD'' is a monumental work that led club music to a mindset close to architecture and minimal art.
 
@@ -1134,7 +1134,7 @@ It's not a flashy melody.
 
 A sound that will not make you tired even if you keep playing it for a long time.
 
-Bass that permeates the entire building.
+建物全体に染み込む低音。
 
 Reverberations that dominate the space.
 
@@ -1142,7 +1142,7 @@ Basic Channel has transformed this urban space itself into music.
 
 ---
 
-## Fusion of dub and techno
+## ダブとテクノの融合
 
 The biggest innovation of this work is the complete fusion of **Jamaican dub** into techno.
 
@@ -1152,13 +1152,13 @@ echo.
 
 Reverb.
 
-reverberation.
+残響。
 
 Blank.
 
 They become as important as the performance.
 
-Basic Channel transferred this philosophy to techno.
+Basic Channelは、この思想をテクノへ移植した。
 
 Beats are minimal.
 
@@ -1166,7 +1166,7 @@ The chord is only a few notes.
 
 However, the reverberations spread infinitely.
 
-Here, the ""sound that disappears" is more important than the ""sound that is played."
+ここでは「演奏された音」よりも、「消えていく音」のほうが重要になる。
 
 ---
 
@@ -1198,23 +1198,23 @@ G --> H
 
 ## Music that makes you listen to "time"
 
-In "BCD", almost no major developments occur.
+『BCD』では、大きな展開はほとんど起こらない。
 
-Same phrase.
+同じフレーズ。
 
 Same beat.
 
-Same code.
+同じコード。
 
 However, within a few minutes, over ten minutes,
 
-Subtle filter changes.
+微細なフィルター変化。
 
 Expansion and contraction of reverberation.
 
 Changes in localization.
 
-A slight fluctuation in tone.
+音色のわずかな揺らぎ。
 
 As these elements accumulate, the listener perceives "time itself" rather than "change."
 
@@ -1224,11 +1224,11 @@ This feeling became the basic idea of ​​later minimal techno and ambient tec
 
 ## Design philosophy of Berlin Techno
 
-Basic Channel's influence goes beyond just a musical genre.
+Basic Channelの影響は、単なる音楽ジャンルを超えている。
 
-Later Chain Reaction label.
+後のChain Reactionレーベル。
 
-Rhythm & Sound.
+Rhythm & Sound。
 
 Monolake.
 
@@ -1248,7 +1248,7 @@ It was here that techno evolved from "music" to "architecture."
 
 ---
 
-## Influence on contemporary electronic music
+## 現代電子音楽への影響
 
 Current minimal techno.
 
@@ -1256,7 +1256,7 @@ dub techno.
 
 installation.
 
-Sound works at the Museum of Contemporary Art.
+現代美術館のサウンド作品。
 
 Ambient sound for movies.
 
@@ -1272,17 +1272,17 @@ This idea has become an extremely important foundation for electronic music prod
 
 ## Why is it ranked 79th?
 
-""BCD"' is a historical work that established Berlin"s unique spatial aesthetic while inheriting Detroit techno.
+『BCD』は、デトロイト・テクノを継承しながら、ベルリン独自の空間美学を確立した歴史的作品である。
 
 His influence extends to dub techno, minimal techno, sound art, and even the acoustic design of architectural spaces.
 
 In this ranking, works that created the techno genre itself and works that changed the fundamental structure of electronic music are placed higher, so we placed it at 79th place. However, the idea that ""sound can become architecture'' that this work showed was an important turning point that determined electronic music after Berlin.
 
-> **"'BCD" sublimated techno into an architectural space and established a new aesthetic of "music that listens to time and reverberation.' Due to its historical significance, it is ranked 79th in this ranking."**
+> **""'BCD' elevated techno to an architectural space and established a new aesthetic of ""music that listens to time and reverberation." Due to its historical significance, it is ranked 79th in this ranking."**
 
 ---
 
-## 8th Part11 (80th place)
+## 第8回 Part11（80位）
 
 ---
 
@@ -1302,11 +1302,11 @@ Each track is referred to only by its playing time.
 
 "9:25"
 
-Here, the music is freed from titles and narrative.
+音楽はここで、タイトルや物語性から解放される。
 
 What matters is not what is being played, but how time passes.
 
-""76:14'' was a monumental work that matured ambient music from background music to time art.
+76:14 was a monumental work that matured ambient music from background music to time art.
 
 ---
 
@@ -1316,7 +1316,7 @@ In 1994, rave culture was coming of age in the UK.
 
 The club has become huge,
 
-Techno is fragmented,
+テクノは細分化し、
 
 Jungle and drum and bass were also rapidly developing.
 
@@ -1352,7 +1352,7 @@ However, in "76:14", there is no such clear break.
 
 One cord breathes slowly,
 
-A minute synthesizer drifts through space,
+微細なシンセサイザーが空間を漂い、
 
 The reverberations change shape little by little.
 
@@ -1360,9 +1360,9 @@ Sounds that didn't exist a few minutes ago suddenly changed the scenery.
 
 There are no "incidents" happening here.
 
-However, by the time you finish listening, time has definitely changed.
+しかし、聴き終えた時には確実に時間が変化している。
 
-Global Communication puts change itself at the center of its work.
+Global Communicationは、変化そのものを作品の中心へ据えたのである。
 
 ---
 
@@ -1393,19 +1393,19 @@ F --> I
 
 ---
 
-## Beyond minimalism
+## ミニマリズムのその先へ
 
 ""76:14'' is often described as minimalist.
 
 However, the essence of this is not "less sound."
 
-sounds interfere with each other,
+音同士が互いに干渉し、
 
-change the density of the air,
+空気の密度を変え、
 
 Shift the auditory focus.
 
-In other words, this work **designs perception itself, not musical notes**.
+つまり、この作品は**音符ではなく、知覚そのものを設計している**。
 
 This was an attempt to further develop the ambient philosophy advocated by Brian Eno and complete it as music that transforms the listener's own sense of time.
 
@@ -1417,7 +1417,7 @@ The influence of ""76:14'' has continued from the late 1990s to the present.
 
 Stars of the Lid was able to build an extremely quiet drone.
 
-Loscil was able to depict the urban landscape as sound.
+Loscilが都市の風景を音響として描けたこと。
 
 Taylor Deupree and the 12k label have made "minor changes" an aesthetic.
 
@@ -1429,11 +1429,11 @@ This work established a new sense of value: not ""music that makes you listen to
 
 ## Why is it ranked 80th?
 
-""76:14'' is a definitive work that developed ambient music from spatial art to **temporal art**.
+『76:14』は、アンビエント・ミュージックを空間芸術から**時間芸術**へと発展させた決定的作品である。
 
 The idea of ​​transforming perception through an accumulation of minute changes, rather than dramatic developments or techniques, had a deep influence on subsequent contemporary ambient music, sound installations, and environmental sound design.
 
-In this ranking, ""Ambient 1: Music for Airports" (26th place), which created the concept of ambient music, and ""Lifeforms" (78th place), which expanded electronic music as an ecosystem, are ranked higher, so it was ranked 80th. However, ""76:14" acts as an important bridge between the two, and is a work that determined the direction of 21st century ambient music as ""music that designs time."
+本ランキングでは、アンビエントという概念を創出した『Ambient 1: Music for Airports』（26位）や、電子音楽を生態系として拡張した『Lifeforms』（78位）をより上位に位置付けているため第80位とした。しかし、『76:14』はその二つを結ぶ重要な架け橋として、「時間をデザインする音楽」という21世紀的なアンビエントの方向性を決定づけた作品である。
 
 > **"'76:14" evolved ambient music from "music of space" to "music of time'. It is ranked 80th in this ranking as a historical work that shows that electronic music can design perception itself."**
 

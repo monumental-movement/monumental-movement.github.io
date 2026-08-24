@@ -12,7 +12,7 @@ title: Of Montreal – The Gay Parade
 ---
 
 
-of Montreal is an American rock band formed in Georgia in 1996, led by Kevin Burns.
+of Montrealは、1996年ジョージア州でケヴィン・バーンズを中心に結成されたUSロックバンド。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ of Montreal is an American rock band formed in Georgia in 1996, led by Kevin Bur
 14. A Man's Life Flashing Before His Eyes While He And His Wife Drive Off A Cliff Into The Oceanなど
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T4aLrkrnLNc?si=8w34sKNKY0yy2kN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

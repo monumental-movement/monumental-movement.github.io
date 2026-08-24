@@ -7,18 +7,18 @@ lang: en
 layout: post
 tags:
 - Cassette
-title: Pick up cassette tape works
+title: カセットテープ作品をピックアップ
 ---
 
 
-"A remarkable group of cassette tape works that vividly capture the breath of the underground and emit a unique aesthetic."
+「アンダーグラウンドの息吹を生々しく刻み込み、独自の美学を放つ注目すべきカセットテープ作品群」
 
 <hr>
 
-### No Artist – Environments (Cassette Two)
+### No Artist – Environments (Cassette Two) 
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>
 
-1970s Field Recording/Healing A healing soundscape that captures the natural environment.
+1970年代  フィールド録音／ヒーリング 自然環境を捉えた癒し系サウンドスケープ。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -38,7 +38,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 ### The Art of Noise – In No Sense Nonsense
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
-1987 Leftfield Synth Pop Art pop x experimental, unique synth work.
+1987年 Leftfieldシンセポップ アートポップ×実験寄り、ユニークなシンセ作。
 
 #### Tracklist
 ```md
@@ -78,7 +78,7 @@ B16. One Earth
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -89,7 +89,7 @@ B16. One Earth
 ### Kiss – Rock And Roll Over
 <a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
 
-1976 70s Hard Rock Japan first edition cassette, cool vintage.
+1976年 70s ハードロック  日本初版カセット、クールなヴィンテージ。
 
 #### Tracklist
 ```md
@@ -107,7 +107,7 @@ B5. Makin' Love
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -118,7 +118,7 @@ B5. Makin' Love
 ### Amany & The Badawist – Come on, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
 
-2024 Tribal/World Music Tribal sound from the Middle East and Africa.
+2024年 トライバル／世界音楽  中東・アフリカ系のトライバル音響。
 
 #### Tracklist
 ```md
@@ -148,7 +148,7 @@ Come on, Bassem
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
 
 
 <hr>
@@ -157,7 +157,7 @@ Come on, Bassem
 ### Thomas Newman – Scent Of A Woman
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
 
-1992 Movie Soundtrack Original score tape for a classic movie.
+1992年 映画サウンドトラック  名作映画のオリジナルスコア・テープ。
 
 #### Tracklist
 ```md
@@ -182,7 +182,7 @@ B7. End Title
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -192,7 +192,7 @@ B7. End Title
 ### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-1996 movie theme song Official tape of the movie "Mission Impossible".
+1996年 映画テーマ曲  映画『ミッション・インポッシブル』の公式テープ。
 
 #### Tracklist
 ```md
@@ -203,7 +203,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -211,10 +211,10 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <hr>
 
 
-### Dieselboy – The Director"s Cut
+### Dieselboy – The Director’s Cut
 <a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
 
-2023 Drum n Bass Intense mix by American drum and bass DJ
+2023年 Drum n Bass 米ドラムンベースDJによる強烈ミックス 
 
 #### Tracklist
 ```md
@@ -253,7 +253,7 @@ B. Side B
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -263,7 +263,7 @@ B. Side B
 ### Various – The Enjoy! Story
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
-1990s? Classic hip-hop Zulu Nation era early compilation
+1990年台？ クラシックヒップホップ Zulu Nation時代の黎明期コンピ 
 
 #### Tracklist
 ```md
@@ -304,7 +304,7 @@ D9. Higher Ground – Shake 'Em Up
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -314,7 +314,7 @@ D9. Higher Ground – Shake 'Em Up
 ### Run‑D.M.C. – King Of Rock
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
 
-1985?  Hip-hop/rock fusion, a pioneering and popular work of rock and rap
+1985年？  ヒップホップ／ロック融合  ロックとラップの先駆的人気作 
 
 #### Tracklist
 ```md
@@ -331,7 +331,7 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -341,7 +341,7 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 ### Dr. Dre – Let Me Ride
 <a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
 
-1992 Classic hip-hop/G-funk representative song of the West Coast sound
+ 1992年 クラシックヒップホップ／Gファンク 西海岸サウンドの代表曲 
 
 #### Tracklist
 ```md
@@ -361,7 +361,7 @@ Guest– George Clinton
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -372,86 +372,86 @@ Guest– George Clinton
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Artist</th>
-<th>Title</th>
-<th>era</th>
-<th>Genre</th>
-<th>Comments</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>No Artist</td>
-<td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Environments</a></td>
-<td>1970s</td>
-<td>Field recording/healing</td>
-<td>Healing soundscape that captures the natural environment</td>
-</tr>
-<tr>
-<td>The Art of Noise</td>
-<td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">In No Sense Nonsense </a></td>
-<td>1987</td>
-<td>Leftfield synth pop</td>
-<td>Art pop x experimental, unique synth creation</td>
-</tr>
-<tr>
-<td>Kiss</td>
-<td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Rock And Roll Over</a></td>
-<td>1976</td>
-<td>70s hard rock</td>
-<td>Japan's first edition cassette, cool vintage</td>
-</tr>
-<tr>
-<td>Amany & The Badawist</td>
-<td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Come on, Bassem</a></td>
-<td>1996</td>
-<td>Tribal/World Music</td>
-<td>Middle Eastern/African tribal sounds</td>
-</tr>
-<tr>
-<td>Thomas Newman</td>
-<td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Scent Of A Woman</a></td>
-<td>1992</td>
-<td>Movie soundtrack</td>
-<td>Original score tape for classic movies</td>
-</tr>
-<tr>
-<td>Adam Clayton & Larry Mullen</td>
-<td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
-<td>1996</td>
-<td>Movie theme song</td>
-<td>Official tape of the movie "Mission Impossible"</td>
-</tr>
-<tr>
-<td>Dieselboy</td>
-<td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director"s Cut</a></td>
-<td>1998</td>
-<td>Drum n Bass</td>
-<td>Intense mix by American drum and bass DJ</td>
-</tr>
-<tr>
-<td>Various</td>
-<td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">The Enjoy! Story</a></td>
-<td>1988</td>
-<td>Classic hip hop</td>
-<td>Compilation from the early days of the Zulu Nation era</td>
-</tr>
-<tr>
-<td>Run‑D.M.C.</td>
-<td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">King Of Rock</a></td>
-<td>1985</td>
-<td>Hip-hop/rock fusion</td>
-<td>Pioneering popular rock and rap work</td>
-</tr>
-<tr>
-<td>Dr. Dre</td>
-<td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Let Me Ride</a></td>
-<td>1992</td>
-<td>Classic hip-hop/G-funk</td>
-<td>Representative songs of the West Coast sound</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>アーティスト</th>
+      <th>タイトル</th>
+      <th>年代</th>
+      <th>ジャンル</th>
+      <th>コメント</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>No Artist</td>
+      <td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Environments</a></td>
+      <td>1970年代</td>
+      <td>フィールド録音／ヒーリング</td>
+      <td>自然環境を捉えた癒し系サウンドスケープ</td>
+    </tr>
+    <tr>
+      <td>The Art of Noise</td>
+      <td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">In No Sense Nonsense </a></td>
+      <td>1987年</td>
+      <td>Leftfieldシンセポップ</td>
+      <td>アートポップ×実験寄り、ユニークなシンセ作</td>
+    </tr>
+    <tr>
+      <td>Kiss</td>
+      <td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Rock And Roll Over</a></td>
+      <td>1976年</td>
+      <td>70s ハードロック</td>
+      <td>日本初版カセット、クールなヴィンテージ</td>
+    </tr>
+    <tr>
+      <td>Amany & The Badawist</td>
+      <td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Come on, Bassem</a></td>
+      <td>1996年</td>
+      <td>トライバル／世界音楽</td>
+      <td>中東・アフリカ系のトライバル音響</td>
+    </tr>
+    <tr>
+      <td>Thomas Newman</td>
+      <td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Scent Of A Woman</a></td>
+      <td>1992年</td>
+      <td>映画サウンドトラック</td>
+      <td>名作映画のオリジナルスコア・テープ</td>
+    </tr>
+    <tr>
+      <td>Adam Clayton & Larry Mullen</td>
+      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
+      <td>1996年</td>
+      <td>映画テーマ曲</td>
+      <td>映画『ミッション・インポッシブル』の公式テープ</td>
+    </tr>
+    <tr>
+      <td>Dieselboy</td>
+      <td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director’s Cut</a></td>
+      <td>1998年</td>
+      <td>Drum n Bass</td>
+      <td>米ドラムンベースDJによる強烈ミックス</td>
+    </tr>
+    <tr>
+      <td>Various</td>
+      <td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">The Enjoy! Story</a></td>
+      <td>1988年</td>
+      <td>クラシックヒップホップ</td>
+      <td>Zulu Nation時代の黎明期コンピ</td>
+    </tr>
+    <tr>
+      <td>Run‑D.M.C.</td>
+      <td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">King Of Rock</a></td>
+      <td>1985年</td>
+      <td>ヒップホップ／ロック融合</td>
+      <td>ロックとラップの先駆的人気作</td>
+    </tr>
+    <tr>
+      <td>Dr. Dre</td>
+      <td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Let Me Ride</a></td>
+      <td>1992年</td>
+      <td>クラシックヒップホップ／Gファンク</td>
+      <td>西海岸サウンドの代表曲</td>
+    </tr>
+  </tbody>
 </table>
 </div>

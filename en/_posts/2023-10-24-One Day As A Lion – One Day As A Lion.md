@@ -15,7 +15,7 @@ title: One Day As A Lion – One Day As A Lion
 
 One Day As A Lion is a collaboration between Rage Against the Machine vocalist Zack de la Rocha and former drummer for The Mars Volta and current Queens of the Stone Age drummer Jon. A power duo supergroup formed in 2008 by Theodore (John Theodore).
 
-One Day As A Lion is characterized by a style that mixes alternative rock and rap.
+One Day As A Lionはオルタナティブロックとラップをmixさせたスタイルが特徴。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ One Day As A Lion is characterized by a style that mixes alternative rock and ra
 5.  One Day As A Lion
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2EOcpSDh52I?si=CGROsJY92Gfo67U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

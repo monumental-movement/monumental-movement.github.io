@@ -13,9 +13,9 @@ title: Stoned Baby & Join Clap – AK-47 EP
 ---
 
 
-Raúl López Martín (DJ Peque), also known as Stoned Baby, is a DJ from Spain. He is also known as the founder of the labels House D'arret and Rxxistance.
+Stoned Baby ことRaúl López Martín (DJ Peque)はスペイン出身のDJ。レーベルHouse D'arret やRxxistanceの設立者としても知られている。
 
-"AK-47 EP" is a Tribal/Techno track released on the Primate Endangered Species label in 2002. Red color vinyl edition limited to the first press.
+「AK-47 EP」は、2002年にレーベルPrimate Endangered Species からリリースされたTribal／Technoトラック。初回プレス限定のレッドカラーバイナル盤。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ B1. Rxxistance Club
 B2. Virus
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m13932883481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13932883481?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLQyFOmjyQA?si=8V02js6NJwczaYoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

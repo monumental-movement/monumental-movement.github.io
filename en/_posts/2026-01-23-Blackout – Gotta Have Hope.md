@@ -15,7 +15,7 @@ title: Blackout – Gotta Have Hope
 
 Australian progressive house/UK garage act.
 
-"Gotta Have Hope" is a Progressive House/Speed ​​Garage track released in 1997 on British DJ/producer duo Dillon & Dickins' label 99 North.
+「Gotta Have Hope」は、1997年にイギリスのDJ／プロデューサーデュオDillon & Dickins主宰のレーベル 99 NorthからリリースされたProgressive House／Speed Garageトラック。
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ B1. Gotta Have Hope (Bubbleman VS JC Remix)
 B2. Gotta Have Hope (Spacebase Millennium Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m27830083818?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27830083818?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/krJ_KfFzojc?si=btXzON-4QrhCMwGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

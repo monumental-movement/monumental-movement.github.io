@@ -16,7 +16,7 @@ title: Grooveyard Feat. Michel de Hey – Take Me To The Bridge! (Official Theme
 
 Jeroen Verheij, also known as Grooveyard, is a Dutch house/techno DJ/producer known as Secret Cinema and the founder of the Amsterdam label Gem Records.
 
-"Take Me To The Bridge!" is a House/Tech House track featuring Dutch heavyweight Michel de Hey. It was released in 1999 on Michel De Hey and Jeroen Verheij's label EC Records.
+「Take Me To The Bridge! 」は、オランダの重鎮Michel de Hey(ミシェル・デ・ヘイ)をフーチャーしたHouse／Tech Houseトラック。Michel De Hey とJeroen VerheijのレーベルEC Recordsから1999年にリリースされた。
 
 #### Tracklist
 ```md

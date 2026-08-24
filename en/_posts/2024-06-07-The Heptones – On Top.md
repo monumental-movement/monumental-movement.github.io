@@ -13,11 +13,11 @@ title: The Heptones – On Top
 ---
 
 
-The Heptones were a Jamaican rocksteady and reggae vocal trio that was most active in the 1960s and early 1970s.
+The Heptones（ヘプトーンズ）は、1960年代から1970年代初頭にかけて最も活躍したジャマイカのロックステディとレゲエのボーカルトリオ。
 
-The Heptones were contemporaries of the Wailers and the Maytals, and were known as their equals in the mid-1960s.
+The Heptonesは、the Wailers（ウェイラーズ）やthe Maytals（メイタルズ）と同時代人で、1960年代半ばに彼らに匹敵する存在として知られていた。
 
-"On Top" is an album released by Studio One, a Jamaican recording studio and label that laid the foundations for Jamaican popular music styles including ska, rocksteady, and reggae. This album is also known as Best Of The Heptones.
+「On Top」は、スカ、ロックステディ、レゲエをはじめジャマイカのポピュラー音楽スタイルの基礎を築いたジャマイカのレコーディングスタジオ＆レーベルStudio One(スタジオ・ワン)からリリースされたアルバム。このアルバムは、別名Best Of The Heptones（ベスト・オブ・ザ・ヘプトーンズ）とも言われている。
 
 #### Tracklist
 ```md
@@ -38,7 +38,7 @@ The Heptones were contemporaries of the Wailers and the Maytals, and were known 
 15. Oil In My Lamp
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1wHb-SH2skE?si=P7-S0cBx-4IpARNV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

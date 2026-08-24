@@ -9,21 +9,20 @@ layout: post
 tags:
 - Folk-Tronica
 - Indietronica
-title: '[Column] Folk-Tronica / Indietronica: A history of fusion of acoustic and
-  electronic music'
+title: 【コラム】 Folk-Tronica / Indietronica：アコースティック×電子音楽の融合史
 ---
 
 
 
-## A new form of song for the 21st century created by acoustic and electronic music
+## アコースティック×電子音楽が生んだ21世紀の新しい歌のかたち
 
 Text: mmr｜Theme: About the history, techniques, influences, equipment, and musical characteristics of Folk-Tronica/Indietronica, with a focus on Four Tet, Caribou, and Bonobo.
 
-Folk-Tronica/Indietronica is a hybrid musical trend of the 21st century and beyond, where the simple sounds of acoustic instruments intersect with the textures of electronic sounds.
-It was born out of the combination of folk melodies, guitar arpeggios, field recordings of natural sounds, and laptop electronica sampling culture.
+Folk-Tronica（フォークトロニカ）／Indietronica（インディトロニカ）は、**アコースティック楽器の素朴な響き** と **電子音響のテクスチャ** が交差する21世紀以降のハイブリッドな音楽潮流である。  
+フォークのメロディやギターのアルペジオ、自然音のフィールドレコーディングと、ラップトップ・エレクトロニカ・サンプリング文化が結びついたことで生まれた。
 
-**Four Tet (Kieran Hebden)**, **Caribou (Daniel Snaith)**, **Bonobo (Simon Green)** are among those who clearly presented this genre to the world.
-Although they all have a background in electronic music, they have sampled and reconstructed a variety of music such as jazz, folk, ethnic music, and post-rock, expanding the context of electronica since the 2000s.
+このジャンルを明確に世界へ提示した存在として、**Four Tet（フォー・テット／Kieran Hebden）**、**Caribou（カリブー／Daniel Snaith）**、**Bonobo（ボノボ／Simon Green）** が挙げられる。  
+彼らはいずれも電子音楽出身だが、ジャズ、フォーク、民族音楽、ポストロックなど多様な音楽をサンプリング／再構築し、2000年代以降のエレクトロニカの文脈を拡張した。
 
 ---
 
@@ -32,7 +31,7 @@ Although they all have a background in electronic music, they have sampled and r
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -41,92 +40,92 @@ color: #fff;
 </style>
 
 
-## 1. Genre definition and background
+## 1. ジャンルの定義と背景
 
-### ■ What is Folk-Tronica?
-A term that began to be used by Western media from the late 1990s to the early 2000s.
-**Refers to music that integrates folk (acoustic-based melodies and songs) and electronica (beats/samples/digital editing)**.
+### ■ Folk-Tronica とは？
+1990年代後半から2000年代初頭にかけて欧米メディアが用い始めた言葉で、  
+**フォーク（アコースティック主体の旋律・歌）とエレクトロニカ（ビート／サンプル／デジタル編集）を統合した音楽** を指す。
 
-Main features:
-- Extensive use of live recordings of acoustic guitars, string instruments, and percussion instruments
-- Digital editing (cut-up, granular processing)
-- Field recording texture
-- Simple but emotional melody
-- Coexistence of "touch" and "artificial objects"
+主な特徴：
+- アコースティックギター・弦楽器・打楽器の生録音を多用
+- デジタル編集（カットアップ、グラニュラー処理）
+- フィールドレコーディングの質感
+- シンプルだが情緒豊かなメロディ
+- “手触り”と“人工物”の同居
 
-### ■ What is Indietronica?
-The flow of introducing electronic music into the context of indie rock.
-While Folk-Tronica was based on folk elements, Indietronica has a strong focus on **band sound + electronics**.
+### ■ Indietronica とは？
+インディロックの文脈に電子音楽を導入した流れ。  
+Folk-Tronica がフォーク要素を基軸にしたのに対し、Indietronica は **バンドサウンド＋エレクトロニクス** という方向性が強い。
 
-Examples: The Postal Service, Hot Chip, Múm, etc.
-
----
-
-## 2. Main artists and works
-
-### ■ Four Tet (Kieran Hebden)
-- Started activities in the late 1990s.
-- Reconstruct samples of jazz and folk music and re-present them as electronica.
-- His masterpiece "Rounds" (2003) received high acclaim as a symbolic work of acoustic samples and laptop editing.
-
-Four Tet points:
-- Editing method that cuts piano, guitar, and percussion samples into small pieces
-- Live performance using MPC and Ableton Live
-- Minimal structure that mixes the transparency of digital sound with the simplicity of live instruments
+例：The Postal Service、Hot Chip、Múm など。
 
 ---
 
-### ■ Caribou (Daniel Snaith)
-- Released electronica works under the initial name Manitoba (2000–2004).
-- Later changed the name to Caribou, fusing folk melodies and electronic beats.
-- Known for his fusion of psychedelic and pop, including ""The Milk of Human Kindness" (2005) and ""Andorra" (2007).
+## 2. 主要アーティストと作品
 
-Caribou's points:
-- Organic rhythm combining synth and acoustic percussion
-- Psychedelia/folk/electronica eclectic
-- A major influence on contemporary electropop
+### ■ Four Tet（Kieran Hebden）
+- 1990年代後半に活動開始。  
+- ジャズや民族音楽のサンプルを再構成し、エレクトロニカとして再提示。  
+- 代表作『Rounds』（2003）は、アコースティック・サンプルとラップトップ編集の象徴的作品として高い評価を受けた。
 
----
-
-### ■ Bonobo (Simon Green)
-- Producer affiliated with Ninja Tune.
-- Incorporates downtempo, jazz, and folk music, and also organizes large bands for live performances.
-- "Black Sands" (2010) is a masterpiece with sophisticated beats, strings, and bass lines.
-
-Bonobo's points:
-- Rich layers of acoustic sound sources
-- Fusion of electronica + downtempo
-- Acoustic design that combines clubbing and listening
+Four Tetのポイント：
+- ピアノ・ギター・パーカッションのサンプルを細かく切り刻む編集手法  
+- MPCやAbleton Liveを駆使したライブ  
+- デジタル音の透明感と生楽器の素朴さが混ざり合うミニマル構造
 
 ---
 
-## 3. Technical features: Method of merging acoustic and electronic sounds
+### ■ Caribou（Daniel Snaith）
+- 初期名義 Manitoba（2000–2004）でエレクトロニカ作品を発表。  
+- その後 Caribou に改名し、フォーク的メロディと電子ビートを融合。  
+- 『The Milk of Human Kindness』（2005）や『Andorra』（2007）など、サイケデリックとポップの融合で知られる。
 
-At Folk-Tronica/Indietronica, "hybridization" is carried out at all stages of **recording, editing, and composition**.
+Caribouのポイント：
+- シンセとアコースティックパーカッションを組み合わせた有機的リズム  
+- サイケデリア／フォーク／エレクトロニカの折衷  
+- 現代的エレクトロポップに大きな影響
 
-### (1) Use of field recording
+---
+
+### ■ Bonobo（Simon Green）
+- Ninja Tune 所属のプロデューサー。  
+- ダウンテンポ、ジャズ、民族音楽を取り入れ、ライブでは大型バンド編成も行う。  
+- 『Black Sands』（2010）は、ビートとストリングス、ベースラインが洗練された代表作。
+
+Bonoboのポイント：
+- アコースティック音源の豊かなレイヤー  
+- エレクトロニカ＋ダウンテンポの融合  
+- クラブとリスニングを両立した音響デザイン
+
+---
+
+## 3. 技術的特徴：アコースティックと電子音の融合方法
+
+Folk-Tronica / Indietronica では、**録音・編集・構成** の全段階で“ハイブリッド化”が行われる。
+
+### （1）フィールドレコーディングの利用
 - Natural environmental sounds (rain, city, forest, metal sounds)
-- Turning manual sounds into rhythmic materials
-Example: Four Tet is known for their editing of everyday sounds.
+- 手作業の物音をリズム素材化  
+例：Four Tetは日常音を切り刻む編集で知られる。
 
-### (2) Sampling and cut-up of live instruments
-- Chop and loop guitar chords
-- Edit piano sounds in very small units
-- Granular processing of stringed instruments to create pads
+### （2）生楽器のサンプリングとカットアップ
+- ギターのコードを切り刻み、ループ化  
+- ピアノ音を極小単位で編集  
+- 弦楽器をグラニュラー処理してパッド化
 
-### (3) Electronic beat and acoustic rhythm blend
-- minimal beats on laptop
-- Layer live percussion
-- Add a sense of unity with compression and side chaining
+### （3）電子ビートとアコースティックのリズムブレンド
+- ラップトップ上でのミニマルビート  
+- 生パーカッションを重ねる  
+- コンプレッションやサイドチェインで統一感を付与
 
-### (4) Mix characteristics
-- Focus on warmth in the midrange
-- Acoustic texture comes to the fore rather than synth
-- Low range tends to be modest and soft
+### （4）ミックスの特徴
+- 中域の温かさを重視  
+- シンセよりもアコースティックの質感が前面に出る  
+- 低域は控えめで柔らかい傾向
 
 ---
 
-## 4. History of the genre
+## 4. ジャンルの歴史
 
 <div class="mermaid">
 timeline
@@ -141,7 +140,7 @@ timeline
 
 ---
 
-## 5. Typical sound structure (illustration)
+## 5. 代表的サウンド構造（図解）
 
 <div class="mermaid">
 flowchart LR
@@ -154,61 +153,61 @@ flowchart LR
 
 ---
 
-## 6. Production methods for each artist
+## 6. アーティストごとの制作手法
 
-### ■ Four Tet production features
+### ■ Four Tetの制作特徴
 
-* Laptop-centered (MPC also used initially)
-* Micro-edit raw sound samples
-* Influence of sampling on jazz records
-* Minimal construction while maintaining improvisational nature
+* ラップトップ中心（初期はMPCも使用）
+* 生音サンプルをミクロ編集
+* ジャズレコードのサンプリングの影響
+* 即興性を保ちながらミニマル構築
 
-### ■ Caribou production features
+### ■ Caribouの制作特徴
 
-* Strong presence of drum pattern
-* Psychedelic multi-layered vocals
-* Mixed guitar/keyboard/synth
-* Arrangement that incorporates pop structure
+* ドラムパターンの強い存在感
+* サイケデリックな多層ボーカル
+* ギター／鍵盤／シンセの混在
+* ポップ構造へ落とし込むアレンジ
 
-### ■ Bonobo production features
+### ■ Bonoboの制作特徴
 
-* Rich layers of strings, bass, keyboards, and percussion
-* Jazz harmony
-* Integration of club music tension and listenability
+* ストリングス、ベース、鍵盤、打楽器の豊富なレイヤー
+* ジャズ的和声感
+* クラブミュージックのテンションとリスニング性の統合
 
 ---
 
-## 7. Surrounding genres and influences
+## 7. 周辺ジャンルと影響
 
-Folk-Tronica/Indietronica influenced the following genres:
+Folk-Tronica / Indietronica は、次のジャンルへ影響を及ぼした：
 
 * **Bedroom Pop**
-* **Lo-Fi Hip Hop** (field recording texture)
-* **Chillwave** (warm analog feel)
-* **Modern Indie Pop** (electronic introduction)
+* **Lo-Fi Hip Hop**（フィールドレコーディング質感）
+* **Chillwave**（温かいアナログ感）
+* **Modern Indie Pop**（エレクトロニック導入）
 * **Ambient Pop**
 
-Additionally, a new style of live management was formed, with the use of electronic sets and acoustic instruments becoming commonplace at live performances.
+また、ライブでは電子セット＋アコースティック楽器の編成が一般化するなど、ライブ運営面でも新たなスタイルを形成した。
 
 ---
 
-## 8. Summary: Where acoustic "memory" meets digital "reconstruction"
+## 8. まとめ：アコースティックの“記憶”とデジタルの“再構築”が出会う場所
 
-Folk-Tronica/Indietronica is a method of reconstructing the simplicity and narrative nature of folk music using electronic music editing technology.
-It is a genre that brings ""warmth," ""texture," and ""aesthetics of gaps'' into the digital age.
+Folk-Tronica / Indietronicaは、フォークの持つ素朴さや物語性を、電子音楽の編集技術によって**再構築する手法**であり、
+「温かさ」「手触り」「隙間の美学」をデジタル時代へ持ち込んだジャンルである。
 
-The works of Four Tet, Caribou, and Bonobo are
-It clearly demonstrated that **sample editing, field recording, and acoustic instrument recording techniques** can expand the realm of electronic music.
+Four Tet、Caribou、Bonobo という三者の作品は、
+**サンプル編集・フィールドレコーディング・アコースティック楽器の録音技法** が電子音楽の領域を拡張し得ることを明確に示した。
 
-In the future, with the evolution of laptop production and AI audio technology,
-It is thought that Folk-Tronica/Indietronica will continue to spread in various forms.
+今後も、ラップトップ制作やAI音響技術の進化により、
+Folk-Tronica / Indietronica はさらに多様なかたちで広がっていくと考えられる。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RxPnuErtGQE?si=jh8hXtBDs5E_D86f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

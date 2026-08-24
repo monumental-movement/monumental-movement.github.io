@@ -13,9 +13,9 @@ title: Olav Basoski – Water Fire Rhythm Love EP1
 ---
 
 
-Olav Basoski is a stalwart of Holland House, active since the late 1990s.
+Olav Basoskiは、1990年代後半から活動するオランダ・ハウスの重鎮。
 
-"Water Fire Rhythm Love EP1", released in 2004 on his own label Rootz Records, allows you to enjoy Olav Basoski's sophisticated House/Electro sound.
+2004年に自身のレーベルRootz Recordsからリリースした「Water Fire Rhythm Love EP1」は、Olav Basoskiの洗練されたHouse／Electroサウンドを堪能できる仕上がりになっている。
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ B1. Da Whole Town
 B2. No-1 Rocks
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m50607428218?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50607428218?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Q4eFfBaZwk?si=SWnq_Ga-KR_3LVOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

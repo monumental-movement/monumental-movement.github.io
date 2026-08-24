@@ -14,18 +14,18 @@ title: Giorgio Moroder – Evolution Get On Down
 
 This is a record of the Giorgio Moroder tribute project.
 
-Jerome Isma-Ae is a trance/techno/progressive house DJ from Munich, Germany.
+Jerome Isma-Ae（ジェローム・イスマ・エー）は、ドイツのミュンヘン出身でトランス/テクノ/プログレッシブハウスのDJです。
 
 Currently residing in Houston, Texas, USA.
 
 
 Florian Holzinger, also known as Woodbay, is a music producer and sound designer specializing in electronic, house, and funk.
 
-Giorgio Moroder (real name: Giovanni Giorgio Moroder) was born on April 26, 1940 in Ortisei, Bolzano, Italy.
+Giorgio Moroder（本名: ジョヴァンニ・ジョルジオ・モロダー [Giovanni Giorgio Moroder]）は、1940年4月26日にイタリアのボルツァーノ自治県オルティセイに生まれました。
 
-A musician from Italy who is a composer, arranger, producer, performer, and DJ. He has been hailed as one of the most innovative and influential figures in electronic and disco music.
+イタリア出身のミュージシャンとして作曲家、編曲家、プロデューサー、パフォーマー、DJ。エレクトロニックミュージックとディスコミュージックにおける最も革新的で影響力のある人物の一人として称えられています。
 
-Founding the Oasis label and Musicland Studios, he created the Munich sound (often confused with later Italo disco) in the 1970s, creating iconic work with Donna Summer and Roberta Kelly.
+オアシス・レーベルとミュージックランド・スタジオを設立し、1970年代には、ミュンヘンサウンド (しばしば、後に登場するイタロ・ディスコと混同されます)を生み出し、ドナ・サマーやロベルタ・ケリーとの象徴的な作品を世に送り出しました。
 
 
 #### Tracklist

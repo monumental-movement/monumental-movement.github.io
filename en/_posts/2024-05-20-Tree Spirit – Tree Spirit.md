@@ -16,7 +16,7 @@ title: Tree Spirit – Tree Spirit
 
 Tree Spirit is a group from California. The high-energy, earth-loving band has a unique style they call "earth rock," which is a fusion of rock, folk, and psychedelic.
 
-""Tree Spirit"', which was titled after the group"s name, was a private release released in 1985 on their own label Tree Spirit Records. Quite a rare sound source and rare cassette tape.
+グループ名をタイトルとした「Tree Spirit」は、自主レーベルTree Spirit Recordsから1985年にリリースしたプライベートリリース。かなりのレア音源＆希少カセットテープ。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ B3. Time To Know
 B4. Hena Hondohlay Ahn (The Wind, The Sun, The Waters That Run)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m44768758537?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44768758537?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTE3YbLIWsU?si=JfP0QW0IGyLoo74s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

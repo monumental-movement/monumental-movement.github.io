@@ -11,27 +11,26 @@ tags:
 - Hiphop
 - Samba
 - Blues
-title: '[Column] History of world street music — Genealogy of sounds born from the
-  streets'
+title: 【コラム】 世界ストリート音楽史 —— 路上から生まれたサウンドの系譜
 ---
 
 
 
-## What is street music?
+## ストリート音楽とは
 
-Text: mmr | Theme: Tracing how music born on the streets of cities shaped world culture
+文：mmr｜テーマ：都市の路上から生まれた音楽が、いかにして世界文化を形作ったのかを辿る
 
-Street music refers to a musical culture that was born and developed not in commercial facilities or theaters, but in public spaces such as streets, plazas, markets, and subway stations.
+ストリート音楽とは、商業施設や劇場ではなく、公共空間——路上、広場、市場、地下鉄駅など——で生まれ、発展してきた音楽文化を指す。
 
-Here, community is valued over institutions, improvisation is valued over musical scores, and the physicality of the field is valued over authority.
+そこでは制度よりも共同体が、楽譜よりも即興が、権威よりも現場の身体性が重視される。
 
-* Performance/expression in public spaces
-* A communal and autonomous production environment
-* Improvisation and physicality
-* Strong connection to political and social conditions
+* 公共空間での演奏・表現
+* 共同体的・自律的な制作環境
+* 即興性と身体性
+* 政治・社会状況との強い接続
 * Originating role in influencing commercial music
 
-> Street music is a vein of music that flows from outside the system to the center of the world.
+> ストリート音楽とは、制度の外側から世界の中心へ流れ込む音楽の水脈である。
 
 ---
 
@@ -40,7 +39,7 @@ Here, community is valued over institutions, improvisation is valued over musica
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -54,80 +53,80 @@ color: #fff;
 ### 1. Late 19th century: urbanization and street entertainment
 
 Rapid urbanization progressed in the late 19th century
-In New Orleans, brass bands, funeral music, and the original blues mingled in the streets. The black community's celebrations and parades had a decisive influence on the later formation of jazz.
+New Orleansでは、ブラスバンド、葬列音楽、ブルースの原型が街路で混交した。黒人コミュニティの祝祭やパレードは、のちのジャズ形成に決定的な影響を与えた。
 
-of the same period
-In Rio de Janeiro, freed slave and immigrant cultures intersect, and the prototype of samba begins to take shape in the alleys around the favelas.
+同時期の
+Rio de Janeiroでは、解放奴隷と移民文化が交差し、サンバの原型がファヴェーラ周辺の路地で形を取り始める。
 
 City markets, ports, and train stations were musical testing grounds where race, class, and immigration intersected.
 
 ### 2. First half of the 20th century: blues, samba, calypso
 
 In the Delta region of the southern United States, blues evolved from work songs and began to be played on street corners and juke joints.
-Robert Johnson's recordings (1936–37) were a symbolic moment in the transition of street-based blues to commercial recording.
+Robert Johnsonの録音（1936–37年）は、路上由来のブルースが商業録音へ移行する象徴的瞬間だった。
 
-In Brazil, samba was institutionalized as a symbol of national identity in the 1930s. But its roots were in the alleys and carnivals.
+ブラジルでは1930年代、サンバが国家アイデンティティの象徴として制度化される。だがその根は路地とカーニヴァルにあった。
 
 In the Caribbean, Trinidad's calypso spread as street songs containing political satire, forming a discourse space under colonial rule.
 
-### 3. 1950–60s: Reggae and urban immigrant culture
+### 3. 1950–60年代：レゲエと都市移民文化
 
-Sound system culture is born in Kingston, Jamaica.
-Coxsone Dodd
-The mobile speaker culture led by Duke Reid directly connected outdoor dance and the recording industry.
+ジャマイカ・キングストンではサウンドシステム文化が誕生する。
+Coxsone Doddや
+Duke Reidが主導した移動式スピーカー文化は、屋外ダンスと録音産業を直結させた。
 
-Eventually, ska passed through rock steady and reggae was established.
-Bob Marley rose from the streets to international icon.
+やがてスカからロックステディを経てレゲエが成立。
+Bob Marleyは路上から国際的象徴へと上昇した。
 
-Around the same time, soul and funk music was linked to street demonstrations in American cities along with the civil rights movement.
+同時期、アメリカ都市部では公民権運動とともにソウル、ファンクが街頭デモと連動する。
 
-### 4. 1970s: Birth of Hip Hop
+### 4. 1970年代：ヒップホップの誕生
 
-August 11, 1973
-Held in the Bronx, New York City
+1973年8月11日、
+New York Cityブロンクスで行われた
 DJ Kool Herc's parties are considered the starting point of hip-hop.
 
-Block parties, turntables, MC, breakdance, graffiti. All of this was a comprehensive culture born out of public space.
+Block parties, turntables, MC, breakdance, graffiti. All of these were integrated cultures born out of public space.
 
-Eventually
+やがて
 As Grandmaster Flash and others advanced the technology, rap became a language of social criticism.
 
-### 5. 1980–90s: Global Diffusion
+### 5. 1980–90年代：グローバル拡散
 
-hip hop is
+ヒップホップは
 Paris,
 Tokyo,
-Spread to Johannesburg.
+Johannesburgへと拡散。
 
-In France, second-generation immigrants talked about suburban issues through rap, and in Japan, a unique culture combining clubbing and street fashion was formed.
+フランスでは移民二世がラップを通じて郊外問題を語り、日本ではクラブとストリートファッションを結びつけた独自文化が形成された。
 
 In Brazil, funk carioca was born from the favelas, and in South Africa, kwaito symbolized post-apartheid youth culture.
 
-### 6. Post-2000s: Reconnecting the digital with the streets
+### 6. 2000年代以降：デジタルと路上の再接続
 
-With the spread of YouTube and SNS, street performances are instantly shared to the world.
+YouTube、SNSの普及により、路上パフォーマンスは即座に世界へ共有される。
 
-Busking in places like Hongdae in South Korea, Shibuya in Japan, and the London Underground traverses physical and digital spaces.
+韓国の弘大、日本の渋谷、ロンドン地下鉄などでのバスキングは、物理的空間とデジタル空間を横断する。
 
-Streets did not disappear; they expanded.
+ストリートは消えたのではなく、拡張されたのである。
 
 <div class="mermaid">
 graph TD
-A[19th century urbanization] --> B[blues / samba]
-B --> C[reggae / sound system]
-C --> D[birth of hip hop]
+A[19世紀 都市化] --> B[blues / samba]
+B --> C[レゲエ / サウンドシステム]
+C --> D[ヒップホップ誕生]
 D --> E[global spread]
-E --> F[Streets in the digital age]
+E --> F[デジタル時代の路上]
 </div>
 
-> The streets have always been the front line where the contradictions of the times and creativity intersect.
+> 路上は常に、時代の矛盾と創造性が交差する最前線だった。
 
 ---
 
 ## Key Artists
 
 * Robert Johnson
-*Bob Marley
+* Bob Marley
 * DJ Kool Herc
 * Grandmaster Flash
 * Mano Brown
@@ -139,9 +138,9 @@ E --> F[Streets in the digital age]
 ## Essential Tracks
 
 * "Cross Road Blues" – Robert Johnson (1936)
-* "Get Up, Stand Up" – Bob Marley & The Wailers (1973)
+* 「Get Up, Stand Up」 – Bob Marley & The Wailers (1973)
 * "The Message" – Grandmaster Flash and the Furious Five (1982)
-* "Diário de um Detento" – Racionais MC's (1997)
+* 「Diário de um Detento」 – Racionais MC's (1997)
 
 > These songs etched themselves into history in the form of recordings of voices on the street.
 
@@ -149,18 +148,18 @@ E --> F[Streets in the digital age]
 
 ## Cultural Impact
 
-Street music is more than just entertainment.
+ストリート音楽は単なる娯楽ではない。
 
-* Medium of political resistance
-* Formation of urban identity
-* Fusion of fashion, dance, and art
-* Formation of a global cultural network
+* 政治的抵抗の媒体
+* 都市アイデンティティの形成
+* ファッション・ダンス・アートとの融合
+* グローバル文化ネットワークの形成
 
 Hip-hop has been discussed at the United Nations, and reggae has been registered as a UNESCO Intangible Cultural Heritage. However, its starting point is always in public space.
 
 The streets were not the ""periphery'' of culture, but the center of innovation.
 
-> The renewal of world culture always begins on the pavement.
+> 世界文化の更新は、いつも舗道の上から始まる。
 
 ---
 
@@ -168,28 +167,28 @@ The streets were not the ""periphery'' of culture, but the center of innovation.
 
 | Years | Events |
 | ------ | ------------------- |
-| 1890s | Brass and blues fusion in New Orleans |
+| 1890s  | ニューオーリンズでブラスとブルース融合 |
 | 1930s | Samba National Symbolization |
 | 1950s | Sound system culture established in Jamaica |
-| 1973 | Birth of hip-hop in the Bronx |
-| 1980s | Hip-hop spread in Europe |
-| Since 2005 | Sharing the world of street performances on YouTube |
+| 1973   | ブロンクスでヒップホップ誕生      |
+| 1980s  | ヒップホップ欧州拡散          |
+| 2005以降 | YouTubeで路上演奏世界共有    |
 
 ---
 
 ## FAQ
 
-### Why is street music political?
+### ストリート音楽はなぜ政治的なのか？
 
 This is because public space is a place where power and citizens intersect. There, inequality and oppression are made visible, and music becomes a means of expression.
 
-### Will it lose its street feel if it becomes commercialized?
+### 商業化するとストリート性は失われる？
 
-Not necessarily. Many genres maintain ties to their communities even after commercialization.
+必ずしもそうではない。多くのジャンルは商業化後もコミュニティとの結びつきを維持している。
 
-### Does street music still exist today?
+### 現代でもストリート音楽は存在する？
 
-exist. From subway performers to online-streamed buskers, this continues in various forms.
+存在する。地下鉄の演奏者からオンライン配信型のバスカーまで、形を変えながら続いている。
 
 > Street music is not a legacy of the past, but an ongoing culture.
 

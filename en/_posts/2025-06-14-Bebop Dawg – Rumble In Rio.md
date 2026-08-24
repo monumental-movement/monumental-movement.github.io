@@ -14,11 +14,11 @@ title: Bebop Dawg – Rumble In Rio
 ---
 
 
-Lasse Mosegard / Illinton, also known as Bebop Dawg, is a musician and producer based in Barcelona.
+Bebop Dawg(ビーボップダグ)ことLasse Mosegard / Illinton(イリントン)は、バルセロナを拠点に活動するミュージシャン・プロデューサー。
 
-He is also a member of Franke And Illinton, a unit with Frank Madsen, a leading figure in the Danish progressive psychedelic goa-trance world known as Frank E, and Raoul Express, a unit with Danish EDM producer Mads Arp.
+Frank E名義で知られるデンマーク出身のプログレッシブサイケデリックゴアトランス界の重鎮Frank MadsenとのユニットFranke And Illinton、デンマークのEDMプロデューサーMads ArpとのユニットRaoul Expressのメンバーとしても活動している。
 
-This record is a future jazz/Latin track released in 2002 from the underground Deep-House label Missive (1999-2010) in Paris, France.
+このレコードは、フランス・パリのアンダーグラウンドDeep-HouseレーベルMissive(1999年〜2010年)から、2002年にリリースされたフューチャージャズ・ラテントラック。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ A1. Rumble In Rio
 B1. Um Dia Sobre La Praia
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBBPb65exo4?si=ZVW61qNZpcouv00R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

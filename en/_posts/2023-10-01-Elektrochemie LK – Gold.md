@@ -12,7 +12,7 @@ title: Elektrochemie LK – Gold!
 ---
 
 
-"Gold!" by Elektrochemie LK was released by German label Confused Recordings in 2001.
+Elektrochemie LKによる「Gold!」は、2001年にドイツのレーベルConfused Recordingsからりりースされました。
 
 Elektrochemie LK is one of Thomas Schumacher's solo projects.
 
@@ -39,7 +39,7 @@ F1. En Route To Narita
 F2. Ein Nenner
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtUW27MbrPo?si=5r5viji9JCycXs76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

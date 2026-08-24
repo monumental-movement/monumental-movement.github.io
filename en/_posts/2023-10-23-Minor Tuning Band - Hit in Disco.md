@@ -14,7 +14,7 @@ title: Minor Tuning Band - Hit in Disco
 ---
 
 
-The minor tuning band"s popular hit in disco "76 was released in 1976.
+マイナー・チューニング・バンドによる歌謡ヒット・イン・ディスコ '76は、1976年にリリースされました。
 
 #### Tracklist
 ```md

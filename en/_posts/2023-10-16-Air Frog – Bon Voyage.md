@@ -13,7 +13,7 @@ title: Air Frog – Bon Voyage
 
 Air Frog is a techno project by Swedish techno DJ/producer Jesper Dahlbäck (JESPER DAHLBACK) and Stephan Grieder.
 
-The B-side is a remix by Swedish techno DJ/producer Adam Beyer.
+B面は、スウェーデンのテクノDJ/プロデューサーのAdam Beyer（アダム・ベイヤー ）によるremix。
 
 #### Tracklist
 ```md

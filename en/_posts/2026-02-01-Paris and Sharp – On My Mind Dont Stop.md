@@ -14,9 +14,9 @@ title: Paris & Sharp – On My Mind Don"t Stop
 
 
 
-Paris & Sharp (Luis Paris & Martin Sharp) is a unit formed by Luis Paris, who runs the labels Stone Cold Records, Viper Records, and Orient Recordings, and UK DJ/electro house producer Martin Sharp.
+Paris & Sharp（Luis Paris & Martin Sharp）は、レーベルStone Cold Records、Viper Records、Orient Recordings を運営しているLuis Paris と、UKのDJ／エレクトロハウス・プロデューサーのMartin Sharpによるユニット。
 
-"On My Mind / Don't Stop" is a Trance/House track released in 2000 on the Hammered Trax label.
+「On My Mind / Don't Stop」は、レーベルHammered Traxから2000年にリリースされたTrance／Houseトラック。
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ A. On My Mind
 B. Don't Stop
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m95132416512?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95132416512?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ea9GOTM3QGs?si=yIw_Yl_E3cEeI8rX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

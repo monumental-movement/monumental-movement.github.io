@@ -15,7 +15,7 @@ title: Spacetime Continuum – Emit Ecaps
 ---
 
 
-A double LP set released in 1996 by Jonah Sharp, also known as Spacetime Continuum, a stalwart of the underground techno/ambient/electronica scene of the 90s, on his own label Reflective Records.
+90年代のアンダーグラウンド テクノ・アンビエント・エレクトロニカシーンの重鎮、Spacetime Continuum（スペースタイムコンティニウム）ことJonah Sharp（ジョナ・シャープ）が、自身のレーベルReflective Recordsから1996年にリリースした２枚組LP。
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ D2. Pod
 D3. String Of Pearls
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

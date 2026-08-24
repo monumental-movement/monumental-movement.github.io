@@ -9,21 +9,21 @@ layout: post
 tags:
 - Culture
 - History
-title: '[Column] How does music shape us?'
+title: 【コラム】 音楽はいかにして私たちを形づくるのか
 ---
 
 
 
-## Prologue: The intersection of music and self-awareness
+## 序章　音楽と自己認識の交差点
 
-Text: mmr｜Theme: Why does music shape people's self-awareness?
+文：mmr｜テーマ：音楽はなぜ人の自己認識を形づくるのか
 
 
-Why do people identify with music? This question is both old and new. Melodies, rhythms, voices, and noises are physically nothing more than vibrations in the air, but we have found meaning in them, projected our emotions onto them, and sometimes entrusted our lives to them. When I listen to one song, I remember who I am, and when I listen to another song, I imagine who I want to be in the future. Throughout this cycle, music has gone beyond mere entertainment and has functioned as a framework for self-understanding.
+人はなぜ音楽に自分を重ねるのか。この問いは古くて新しい。旋律やリズム、声やノイズは、物理的には空気の振動にすぎないが、私たちはそこに意味を見出し、感情を投影し、時には人生そのものを託してきた。ある曲を聴くと自分が何者だったかを思い出し、別の曲を聴くとこれからどうありたいかを想像する。その反復のなかで、音楽は単なる娯楽を超え、自己理解のための枠組みとして機能してきた。
 
-If we look back at history, we can see that music has always existed at the boundary between the individual and society. Religious rituals imprint community values ​​on the body, modern nations foster national consciousness, and in modern times, playlists make individuals' inner lives visible. Music is given to us from the outside and continues to update our self-awareness while changing its meaning on the inside.
+歴史を振り返ると、音楽は常に個人と社会の境界に存在してきたことがわかる。宗教儀礼では共同体の価値観を身体に刻み、近代国家では国民意識を育て、現代ではプレイリストという形で個人の内面を可視化する。音楽は外から与えられ、内側で意味を変えながら、自己認識を更新し続ける。
 
-> Music is one of the oldest media we have used to understand ourselves.
+> 音楽は、私たちが自分を理解するために用いてきた最も古いメディアの一つである。
 
 
 ---
@@ -33,7 +33,7 @@ If we look back at history, we can see that music has always existed at the boun
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,75 +42,75 @@ color: #fff;
 </style>
 
 
-## Birth of music and community
+## 音楽と共同体の誕生
 
-### Ritual and the role of sound
+### 儀礼と音の役割
 
-Throughout human history, music has been inseparable from the establishment of communities. In an era when writing did not exist, knowledge and values ​​were passed down orally, and songs and rhythms were at the center of this. The drums beat before a hunt, the dance songs celebrating the harvest, and the melodies used to mourn the dead connect individuals to a being that transcends the temporal.
+人類史において、音楽は共同体の成立と切り離せない関係にあった。文字が存在しなかった時代、知識や価値観は口承によって伝えられ、その中心にあったのが歌とリズムだった。狩猟の前に打ち鳴らされる太鼓、収穫を祝う踊りの歌、死者を弔うための旋律は、個々人を一時的に超えた存在へと結びつける。
 
-These musical experiences not only conveyed information, but also created a feeling of ""belonging to the same group'' through physical sensations. Stomping your feet to the same rhythm and vocalizing the same melody creates synchronicity that is more powerful than words. Music played a role in making the boundaries of the community visible and separating the inside from the outside.
+こうした音楽体験は、単に情報を伝えるだけでなく、身体感覚を通じて「同じ集団に属している」という感覚を生み出した。同じリズムで足を踏み鳴らし、同じ旋律を声に出すことは、言語以上に強力な同調をもたらす。音楽は共同体の境界線を可視化し、内と外を分ける役割を果たした。
 
 <div class="mermaid">
 flowchart LR
-A["ritual"] --> B["music"]
-B --> C["physical sharing"]
+A["儀礼"] --> B["音楽"]
+B --> C["身体的共有"]
 C --> D["Sense of community"]
 </div>
 
-> From the beginning, music was not entertainment, but a device that supported the way of life itself.
+> 音楽は最初から娯楽ではなく、生き方そのものを支える装置だった。
 
 ---
 
-## Religious music and inner formation
+## 宗教音楽と内面の形成
 
-### Internalization of faith and sound
+### 信仰と音の内在化
 
-At a time when religion was the central norm of society, music was an important means of internalizing faith. The single melody of Gregorian chant is designed to suppress the individual"s emotions and encourage immersion in God. Buddhist chants align breathing and vocalizations, changing the practitioner"s physical sensations themselves. In Islamic Qur'an recitation, the melody and meaning are inseparably linked, and the act of listening itself becomes a practice of faith.
+宗教が社会の中心的な規範であった時代、音楽は信仰を内面化するための重要な手段だった。グレゴリオ聖歌の単旋律は、個人の感情を抑制し、神への没入を促すよう設計されている。仏教の声明は呼吸と発声を一致させ、修行者の身体感覚そのものを変化させる。イスラームにおけるクルアーン朗誦は、旋律と意味が分かちがたく結びつき、聴く行為そのものが信仰実践となる。
 
-These musics function beyond personal taste. By listening to it repeatedly, singing it, and letting it seep into your body, faith becomes rooted inside as a prerequisite, rather than something to be doubted. Music was a translation device that transformed external doctrine into an internal voice.
+これらの音楽は、個人の好みを超えたところで機能する。繰り返し聴き、歌い、身体に染み込ませることで、信仰は疑う対象ではなく、前提条件として内側に根づく。音楽は外部の教義を内面の声へと変換する翻訳装置だった。
 
-> The sound of faith created a quiet discipline within the individual.
+> 信仰の音は、個人の内側に静かな規律を作り上げた。
 
 ---
 
-## Modernity and national identity
+## 近代と国民的アイデンティティ
 
-### National anthems and popular songs
+### 国歌と大衆歌曲
 
-The establishment of the modern nation significantly changed the role of music. Music began to be used to connect abstract entities such as "people" rather than kings and religions. The national anthem is its symbol, providing an emotional understanding of the nation's story through its melody and lyrics.
+近代国家の成立は、音楽の役割を大きく変えた。王や宗教ではなく、「国民」という抽象的な存在を結びつけるために、音楽が用いられるようになった。国歌はその象徴であり、旋律と歌詞を通じて国家の物語を感情的に理解させる。
 
-Singing in unison at school and public events was also a way to temporarily erase individual differences and practice acting as one subject. Popular songs and marches also reinforced national identity by simultaneously sharing the same emotions.
+学校教育や公共行事での斉唱は、個人差を一時的に消し去り、同一の主体として振る舞う訓練でもあった。大衆歌曲や行進曲もまた、同じ感情を同時に共有させることで、国民的アイデンティティを補強した。
 
 <div class="mermaid">
 flowchart TD
-A[nation] --> B[education]
-B --> C[singing]
-C --> D[national consciousness]
+A[国家] --> B[教育]
+B --> C[歌唱]
+C --> D[国民意識]
 </div>
 
->Music played the role of drawing national borders in our hearts.
+> 音楽は国境線を心の中に引く役割を担った。
 
 ---
 
-## The beginning of records and personalization
+## レコードと個人化の始まり
 
-### Self-image changed by regeneration technology
+### 再生技術が変えた自己像
 
-At the beginning of the 20th century, the spread of the phonograph and records fundamentally changed the musical experience. Until then, music was something where performers and audiences shared the same place and time, but playback technology has disrupted that premise. People will be able to listen to music alone and re-experience the same performance over and over again.
+20世紀初頭、蓄音機とレコードの普及は、音楽体験を根本から変えた。それまで音楽は、演奏者と聴衆が同じ場所と時間を共有するものだったが、再生技術はその前提を崩した。人は一人で音楽を聴き、何度でも同じ演奏を再体験できるようになる。
 
-This change transformed the relationship between music and the self into a personal one. Even the same song can have different meanings depending on the listener's life experiences and circumstances. Music became both a collective symbol and a container for personal memory.
+この変化は、音楽と自己の関係を私的なものへと変質させた。同じ楽曲でも、聴く人の人生経験や状況によって意味が異なる。音楽は集団の記号であると同時に、個人的な記憶の容れ物になった。
 
-> Reproduction technology has moved music from the community to the individual.
+> 再生技術は、音楽を共同体から個人へと移動させた。
 
 ---
 
-## Youth culture and music genres
+## 若者文化と音楽ジャンル
 
-### Formation of generational identity
+### 世代アイデンティティの形成
 
-In the second half of the 20th century, musical genres became central indicators of generational identity. Jazz symbolized urbanization and modernity, and rock embodied rebellion and freedom. Punk expressed a rejection of the established order in short, sharp sounds, and hip-hop became a way to speak to marginalized experiences.
+20世紀後半、音楽ジャンルは世代アイデンティティの中心的な指標となった。ジャズは都市化とモダニティを象徴し、ロックは反抗と自由を体現した。パンクは既存秩序への拒否を短く鋭い音で示し、ヒップホップは周縁化された経験を語る手段となった。
 
-For young people, the music they chose was an act of showing which values ​​they resonated with. Like clothing and language, musical tastes are at the core of self-expression.
+若者にとって、どの音楽を選ぶかは、どの価値観に共鳴するかを示す行為だった。服装や言葉遣いと同じように、音楽の好みは自己表現の核となる。
 
 <div class="mermaid">
 timeline
@@ -121,90 +121,90 @@ timeline
 1990 : テクノ
 </div>
 
-> Favorite music has become a business card that tells you which era you belong to.
+> 好きな音楽は、どの時代に属するかを語る名刺になった。
 
 ---
 
-## Minorities and music
+## マイノリティと音楽
 
-### Representation of those without a voice
+### 声を持たない人々の表現
 
-Music was also an important means for socially oppressed people to express themselves. The blues told personal stories of experiences of hard work and discrimination, and reggae spread political messages in rhythm. These musics provided a platform for sharing emotions that could not be expressed in mainstream language.
+音楽は、社会的に抑圧された人々が自己を表現するための重要な手段でもあった。ブルースは過酷な労働と差別の経験を個人的な物語として語り、レゲエは政治的メッセージをリズムに乗せて広めた。これらの音楽は、主流の言語では表現しきれない感情を共有する場を提供した。
 
-> Music was another language for those forced into silence.
-
----
-
-## Expanding Media and Identity
-
-### From Radio to the Internet
-
-Radio and television created a sense of contemporaneous shared musical experience. When people in far-flung locations listen to the same song at the same moment, an imaginary community is formed. The Internet has further accelerated this trend, making possible a sense of belonging that transcends geography and culture.
-
-> The media has infinitely multiplied the sources of attribution.
+> 音楽は沈黙を強いられた人々のもう一つの言語だった。
 
 ---
 
-## Self-editing in the playlist era
+## メディアとアイデンティティの拡張
 
-### Listener as selection subject
+### ラジオからインターネットへ
 
-In the streaming era, music has become an endless choice. Rather than passively listening to songs, people choose, rearrange, and share songs according to their moods and values. A playlist is a narrative device that ties together fragmented self-images.
+ラジオとテレビは、音楽体験を同時代的に共有する感覚を生み出した。離れた場所にいる人々が同じ曲を同じ瞬間に聴くことで、想像上の共同体が形成される。インターネットはその流れをさらに加速させ、地理や文化を越えた帰属意識を可能にした。
 
-> Song selection has become a form of self-introduction.
-
----
-
-## Music and memory
-
-### The sound that marks the turning point of life
-
-The connection between music and memory is strong. The place where I heard it for the first time, the smells and emotions of that time come back to me along with the melody. Music transcends time and connects the past and present.
-
-> Music becomes an anchor that holds oneself together in memory.
+> メディアは、帰属先を無限に増殖させた。
 
 ---
 
-## Globalization and the hybrid self
+## プレイリスト時代の自己編集
 
-### Mixed styles
+### 選択する主体としてのリスナー
 
-Globalization has shaken the idea of ​​identity rooted in a single culture. By mixing different musical elements, a self-image with multiple attributions became common. A new self-awareness is born at the intersection of tradition and innovation.
+ストリーミング時代、音楽は無限に存在する選択肢となった。人は曲を受動的に聴くのではなく、気分や価値観に応じて選び、並べ替え、共有する。プレイリストは、断片的な自己像を束ねる物語装置である。
 
-> The mixed sounds affirm the multilayered self.
-
----
-
-## Music and body
-
-### Dancing and singing
-
-Music affects the self most directly through the body. Collective movement on the dance floor and shared breathing through chorus create a sense of unity on a level that pre-verbals. Bodily sensations make abstract identities real.
-
-> When the body moves, the self certainly exists.
+> 選曲は自己紹介の一形式になった。
 
 ---
 
-## Chronology Main changes in music and identity
+## 音楽と記憶
+
+### 人生の節目を刻む音
+
+音楽と記憶の結びつきは強固だ。初めて聴いた場所、当時の匂いや感情が、旋律とともによみがえる。音楽は時間を超えて自己を連続させ、過去と現在を結びつける。
+
+> 音楽は記憶の中で、自己をつなぎ止める錨となる。
+
+---
+
+## グローバル化とハイブリッドな自己
+
+### 混交するスタイル
+
+グローバル化は、単一の文化に根ざしたアイデンティティ観を揺さぶった。異なる音楽要素が混ざり合うことで、複数の帰属を同時に持つ自己像が一般化した。伝統と革新の交差点に、新しい自己認識が生まれる。
+
+> 混ざり合う音は、複層的な自己を肯定する。
+
+---
+
+## 音楽と身体
+
+### 踊ること、歌うこと
+
+音楽は身体を通じて最も直接的に自己に作用する。ダンスフロアでの集団的な動きや、合唱による呼吸の共有は、言語以前のレベルでの一体感を生む。身体感覚は、抽象的なアイデンティティを現実のものにする。
+
+> 身体が動くとき、自己は確かに存在する。
+
+---
+
+## 年表　音楽とアイデンティティの主な変遷
 
 <div class="mermaid">
 flowchart LR
 
-A["BC<br>Ritual Music and Community"]
---> B["Medieval<br>Inner formation through religious music"]
---> C["19th Century<br>Nation-states and national anthems"]
---> D["Early 20th century<br>Personalization through records"]
---> E["Late 20th Century<br>Youth Culture and Genre"]
---> F["21st Century<br>Streaming and Self-editing"]
+A["紀元前<br>儀礼音楽と共同体"]
+--> B["中世<br>宗教音楽による内面形成"]
+--> C["19世紀<br>国民国家と国歌"]
+--> D["20世紀初頭<br>レコードによる個人化"]
+--> E["20世紀後半<br>若者文化とジャンル"]
+--> F["21世紀<br>ストリーミングと自己編集"]
 </div>
 
 ---
 
-## Final chapter: Who does the music belong to?
+## 終章　音楽は誰のものか
 
-Music has always been given to us by society and reinterpreted within individuals. Even if technology and systems change, music remains a mirror that reflects one's self. What kind of sound should you choose and how should you listen to it? The accumulation of these things forms who we are.
+音楽は常に社会から与えられ、個人の内側で再解釈されてきた。技術や制度が変わっても、音楽が自己を映す鏡であることは変わらない。どんな音を選び、どう聴くか。その積み重ねが、私たち自身を形づくっている。
 
-> Listening to music is also listening to yourself.
+> 音楽を聴くことは、自分を聴くことでもある。
 
 ---
 
@@ -212,7 +212,7 @@ Music has always been given to us by society and reinterpreted within individual
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-nrPrOjDNY8?si=gN8h286vchr_Bkhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

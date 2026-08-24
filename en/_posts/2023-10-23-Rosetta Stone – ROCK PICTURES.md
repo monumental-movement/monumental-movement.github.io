@@ -12,7 +12,7 @@ title: Rosetta Stone – ROCK PICTURES
 ---
 
 
-Rosetta Stone is a Northern Irish rock band formed by former Bay City Rollers guitarist Ian Mitchell.
+Rosetta Stone(ロゼッタストーン)は、Bay City Rollers(ベイシティローラーズ)の元ギタリストIan Mitchell(イアン・ミッチェル)が中心となって結成した北アイルランドのロックバンド。
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ B5. Free As A Bird
 B6. You Really Got Me
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/366a3V7VHsY?si=fTeFG8musSDx6f9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

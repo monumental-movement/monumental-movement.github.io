@@ -12,9 +12,9 @@ title: Lou Reed – New York
 ---
 
 
-"New York" is an important album in Lou Reed"s career and focuses on his hometown of New York. The album"s lyrics reflect the reality of New York City and social issues. Featuring Lou Reed's sharp poetry and his own unique vocal style, it depicts the darkness and light of the city from his perspective.
+「New York」は、ルー・リードのキャリアの中でも重要な作品であり彼の故郷であるニューヨークに焦点を当てたアルバムです。アルバムは、ニューヨークの街のリアルな姿や社会的な問題を歌詞に反映させています。ルー・リードの鋭い詩情と彼自身のユニークなヴォーカルスタイルが特徴であり、彼の視点から見た都市の闇と光を描いています。
 
-"New York" covers a variety of themes, including politics, drugs, crime, love, and relationships. Some of the album's most well-known songs include "Dirty Blvd.," "Halloween Parade," and "Romeo Had Juliette."
+""New York"' covers a variety of themes, including politics, drugs, crime, love, and relationships. Some of the album"s most well-known songs include "Dirty Blvd.," "Halloween Parade," and "Romeo Had Juliette."
 
 #### Tracklist
 ```md
@@ -47,7 +47,7 @@ title: Lou Reed – New York
 14. Dime Store Mystery
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X9Jw27EMBFo?si=4TeuVtyPAiW3EUlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

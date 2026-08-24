@@ -20,7 +20,7 @@ title: The Labrat – Eh
 
 
 
-HipHop/Ragga HipHop track by The Labrat released on Muy Caliente Records. With the same category number, there is a black text version and a red text version of the label text, and this record is the red text version.
+Muy Caliente RecordsからリリースされたThe LabratによるHipHop／Ragga HipHopトラック。同じカテゴリーナンバーで、ラベルのテキストが黒文字ver.と赤文字ver.が存在し、このレコードは赤文字ver.。
 
 #### Tracklist
 ```md
@@ -31,4 +31,4 @@ B1. Dame Chocha
 B2. Da Heazy
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m19481515616?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19481515616?afid=6142608987){: .button1}

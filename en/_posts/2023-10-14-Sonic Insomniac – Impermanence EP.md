@@ -12,9 +12,9 @@ title: Sonic Insomniac – Impermanence EP
 ---
 
 
-David Ball (D Ball), also known as Sonic Insomniac, is an electronic musician from Manchester, England.
+Sonic InsomniacことDavid Ball（D Ball）は、イギリス・マンチェスター出身のエレクトロニック・ミュージシャン。
 
-The cover illustration is by Alan Oldham, an American DJ/producer/illustrator from Detroit who is currently based in Berlin.
+カバーイラストは、デトロイト出身のアメリカ人 DJ/プロデューサー/イラストレーターで、現在はベルリンに拠点活動するAlan Oldham（アラン・オールダム）。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. Emotivate
 B2. Untitled
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m10467596131?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10467596131?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kVsUhnDdLt8?si=zDneHFkszTBKIp1D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

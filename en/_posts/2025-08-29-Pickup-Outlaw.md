@@ -12,25 +12,25 @@ tags:
 - 80s
 - 90s
 - 00s
-title: Pick up works by Outlaw
+title: アウトロー（Outlaw）作品をピックアップ
 ---
 
 
-"Deviation is a product of interaction, Outlaw works"
+「逸脱は相互作用の産物、アウトロー（Outlaw）作品群」
 
 <hr>
 
 ### Merzbow – Merzbird
 <a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-Format: CD
+形式：CD
 
-Genre: Experimental Noise
+ジャンル：Experimental Noise
 
-Summary: A masterpiece of destructive expression by noise artist Merzbow, released in 2004 by Important Records.
+概要：2004年にImportant Recordsからリリースされた、ノイズ・アーティスト・Merzbowによる破壊的表現の極致作品。
 
 
-Outlaw feeling: The defiance that elevates sonic destruction to the level of art is ""legal violence'' that causes music itself to deviate from the norm. A symbol of unfettered destruction on the periphery.
+アウトロー感：音の破壊を芸術にまで押し上げた挑戦性は、音楽そのものを規範から逸脱させる「合法的暴力」。周縁における自由な破壊の象徴。
 
 #### Tracklist
 ```md
@@ -42,7 +42,7 @@ Outlaw feeling: The defiance that elevates sonic destruction to the level of art
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -54,14 +54,14 @@ Outlaw feeling: The defiance that elevates sonic destruction to the level of art
 ### Joey Beltram – The Rising Sun (CD, Mix Techno)
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-Format: CD
+形式：CD
 
-Genre: Mix Techno
+ジャンル：Mix Techno
 
-Summary: Released in 2004, a collaboration work with Tresor. A deep introduction by a leading techno producer.
+概要：2004年リリース、Tresorとのコラボ作品。代表的なテクノプロデューサーによる深層への導入。
 
 
-Outlaw feeling: the spirit of techno as the heartbeat of Berlin's underground. A combative sound that does not get submerged in the system.
+アウトロー感：ベルリン地下の鼓動としてのテクノ精神。制度に埋没しない音の闘争性。
 
 #### Tracklist
 ```md
@@ -78,7 +78,7 @@ Outlaw feeling: the spirit of techno as the heartbeat of Berlin's underground. A
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -90,14 +90,14 @@ Outlaw feeling: the spirit of techno as the heartbeat of Berlin's underground. A
 ### Various – Tresor Compilation Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-Format: CD
+形式：CD
 
-Genre: German Techno / Compilation
+ジャンル：German Techno / Compilation
 
-Summary: Released in 1998, a gorgeous compilation that overlooks the techno scene of the 80s and 90s.
+概要：1998年リリース、80〜90年代テクノ・シーンを俯瞰した豪華コンピ。
 
 
-Outlaw feeling: an anti-mainstream cultural accumulation where you can experience the historical juncture of early Berlin techno.
+アウトロー感：ベルリン初期テクノの歴史的結節点を体験できる、反主流の文化蓄積。
 
 #### Tracklist
 ```md
@@ -117,7 +117,7 @@ Outlaw feeling: an anti-mainstream cultural accumulation where you can experienc
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -128,13 +128,13 @@ Outlaw feeling: an anti-mainstream cultural accumulation where you can experienc
 ### Tresor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-Format: CD
+形式：CD
 
-Genre: German Techno / Compilation
+ジャンル：German Techno / Compilation
 
-Summary: 1999 edition. A classic collection that provides a bird's-eye view of "deep techno."
+概要：1999年版。「深いテクノ」を俯瞰する定番コレクション。
 
-Outlaw feeling: A pilgrimage to the dark side of the sound city, combining multiple outlaw sounds in the form of a compilation.
+アウトロー感：コンピという形式で複数のアウトロー音を束ねた、サウンド都市の暗部巡礼。
 
 #### Tracklist
 ```md
@@ -153,7 +153,7 @@ Outlaw feeling: A pilgrimage to the dark side of the sound city, combining multi
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -162,17 +162,17 @@ Outlaw feeling: A pilgrimage to the dark side of the sound city, combining multi
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Family
+### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-Format: Vinyl
+形式：Vinyl
 
-Genre: Acid / Techno / Trance
+ジャンル：Acid / Techno / Trance
 
-Summary: Released in 1992, a great compilation from the early days of Tresor. A historic piece that captures the sound of family.
+概要：1992年リリース、Tresor初期の名コンピ。「家族の響き」を音にした歴史的一枚。
 
 
-Outlaw feeling: Memories of urban community improvisation and dark struggles that encompass the scene's birth.
+アウトロー感：シーンの誕生を包み込む、都市的共同体の即興と暗闘の記憶。
 
 #### Tracklist
 ```md
@@ -190,7 +190,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -202,14 +202,14 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ### Benga & Walsh vs Darqwan – Addicts / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-Format: Vinyl/CD
+形式：Vinyl / CD
 
-Genre: Dubstep
+ジャンル：Dubstep
 
-Overview: Experience the outlaw nature of a bass trigger with a composition that highlights the individuality of each artist.
+概要：各アーティストの個性が際立つ構成で、低音トリガーとしてのアウトロー性を体感。
 
 
-Outlaw feeling: Direct invasion of the body by the base. Contains violence and solidarity that go beyond hearing.
+アウトロー感：ベースによる身体への直接侵入。聴覚を越える暴力性と連帯を内包。
 
 #### Tracklist
 ```md
@@ -219,7 +219,7 @@ B. Darqwan–Megatection
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -231,14 +231,14 @@ B. Darqwan–Megatection
 ### Zed Bias – Ambush Riddim / Cosmic Minefield
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
-Format: Vinyl
+形式：Vinyl
 
-Genre: Dubstep/Electronic
+ジャンル：Dubstep / Electronic
 
-Summary: A record that captures the cutting edge of UK electronic music in the early 2000s.
+概要：00年代初期のUK電子音楽の先端を捉えた1枚。
 
 
-Outlaw feel: The aggressiveness of the rhythm shakes the urban space and transports the listener to an extraordinary world.
+アウトロー感：リズムの攻撃性が都市空間を揺らし、非日常へとリスナーを連れ出す。
 
 #### Tracklist
 ```md
@@ -248,7 +248,7 @@ B. Cosmic Minefield
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -260,14 +260,14 @@ B. Cosmic Minefield
 ### Skrillex – Scary Monsters And Nice Sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
-Format: CD
+形式：CD
 
-Genre: Dubstep / Electro / Prog House
+ジャンル：Dubstep / Electro / Prog House
 
-Summary: Japanese version released in 2012. A monumental work that shook the boundaries of the mainstream.
+概要：2012年リリースの日本盤。メインストリームの境界線を揺らした金字塔。
 
 
-Outlaw feel: The pop-oriented yet violent sound shows the gap between institutional inclusion and resistance.
+アウトロー感：ポップ化しつつも暴力性を帯びたサウンドは、制度的包摂と抵抗の狭間を示す。
 
 #### Tracklist
 ```md
@@ -283,7 +283,7 @@ Outlaw feel: The pop-oriented yet violent sound shows the gap between institutio
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -294,14 +294,14 @@ Outlaw feel: The pop-oriented yet violent sound shows the gap between institutio
 ### T.Raumschmiere – Rabaukendisko
 <a href="https://jp.mercari.com/item/m93928773468?afid=6142608987"><img src="../assets/images/T.Raumschmiere%20%E2%80%93%20Rabaukendisko.webp"></a>
 
-Format: Vinyl
+形式：Vinyl
 
-Genre: Breaks / Electro (with Industrial Hip Hop / Dubstep remix)
+ジャンル：Breaks / Electro (with Industrial Hip Hop / Dubstep remix)
 
-Overview: Released in 2003. A destructive piece by a DJ who straddles the gap between punk and electronic sounds.
+概要：2003年リリース。パンクと電子音の狭間を走るDJによる破壊性を帯びた一枚。
 
 
-Outlaw feeling: The violent pleasure of genre collision and mixing. An urge to break down established divisions.
+アウトロー感：ジャンルの衝突と混交による暴力的快楽。既成の区分を突き崩す衝動。
 
 #### Tracklist
 ```md
@@ -313,7 +313,7 @@ B2. Rabaukendisko (The Bug's Dancehell Remix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
 
 
 #### Youtube

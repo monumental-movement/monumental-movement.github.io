@@ -8,16 +8,16 @@ layout: post
 tags:
 - JPop
 - Techno
-title: Snakeman Show – Snakeman Show
+title: Snakeman Show  – Snakeman Show
 ---
 
 
-As a trivia about the A5 track included in the Snakeman Show "Hurry up and suck it with your mouth!"
-There"s a hypothetical police interrogation after Paul McCartney"s arrest.
+スネークマン・ショー「急いで口で吸え!」に収録されているA5のトラックに関するトリビアとして、
+ポール・マッカートニー逮捕後の架空の警察尋問があります。
 
-The film is based on a fictional police interrogation of Paul McCartney after his arrest in Japan, where he is repeatedly asked for his autograph.
+ポール・マッカートニーが日本で逮捕された後の架空の警察尋問を題材にしており、彼は何度もサインを求められます。
 
-In January 1980, Paul McCartney visited Japan for a performance there. However, when he arrived at Narita Airport, he was arrested for possessing an excessive amount of marijuana. After being detained for several days, McCartney was sentenced to a fine and forced to leave the country.
+1980年1月、ポール・マッカートニーは来日公演のために日本を訪れました。しかし、成田空港に到着した際に、所持していた大麻の量が多すぎるとして逮捕されました。マッカートニーは数日間拘留された後、罰金刑を言い渡されて国外退去を余儀なくされました。
 
 #### Tracklist
 ```md
@@ -59,7 +59,7 @@ B9. ユー・アンドーミー・オルガスムス・オーケストラ–ご�
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

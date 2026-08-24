@@ -10,23 +10,22 @@ tags:
 - Experimental
 - Avant-Garde
 - Noise
-title: '[Column] Rubber O Cement and the underground structure of San Francisco experimental
-  music'
+title: 【コラム】 Rubber O Cementとサンフランシスコ実験音楽の地下構造
 ---
 
 
 
-## What is Rubber O Cement?
+## Rubber O Cementとは何か
 
-Text: mmr｜Theme: The intersection of collective improvisation and DIY spirit in San Francisco underground music
+文：mmr｜テーマ：サンフランシスコ地下音楽における集団即興とDIY精神の交差点
 
-In San Francisco's underground music scene, Rubber O Cement is known as a band that cannot be categorized into a clear genre. Without a fixed organization or style, he has worked through approaches that incorporate improvisation, noise, performance, video, and even the space itself into works.
+サンフランシスコの地下音楽シーンにおいて、「Rubber O Cement」は明確なジャンルに回収されない存在として知られている。固定された編成やスタイルを持たず、即興、ノイズ、パフォーマンス、映像、さらには空間そのものを作品化するアプローチによって活動してきた。
 
-Their characteristic is that they are more of a "variable project" than a band. The participating members are fluid, with different artists and performers being involved each time, although the event centers around a specific central figure. This structure is closely related to the art collective culture in San Francisco since the 1970s.
+彼らの特徴は、バンドというよりも「可変的なプロジェクト」である点にある。参加メンバーは流動的であり、特定の中心人物を軸にしながらも、その都度異なるアーティストやパフォーマーが関与する。この構造は、1970年代以降のサンフランシスコにおけるアート・コレクティブ文化と密接に関係している。
 
-Musically, his work eschews clear melodies and rhythms and moves toward reconstructing the auditory experience itself by combining feedback, fragmented samples, field recordings, and electronic noise.
+音楽的には、明確なメロディやリズムを避け、フィードバック、断片的なサンプル、フィールドレコーディング、電子ノイズなどを組み合わせることで、聴覚体験そのものを再構築する方向に向かっている。
 
-> Rubber O Cement functions not as a "work" but as a framework for creating a "situation".
+> Rubber O Cementは「作品」ではなく「状況」を生成するための枠組みとして機能している。
 
 ---
 
@@ -35,7 +34,7 @@ Musically, his work eschews clear melodies and rhythms and moves toward reconstr
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -43,91 +42,91 @@ color: #fff;
 }
 </style>
 
-## Connection to the San Francisco underground scene
+## サンフランシスコ地下シーンとの関係
 
-To understand Rubber O Cement, we cannot ignore the cultural background of the city of San Francisco. Since the counterculture of the 1960s, this city has always had a fertile ground for accepting expressions that deviate from the mainstream.
+Rubber O Cementを理解するためには、サンフランシスコという都市の文化的背景を無視できない。1960年代のカウンターカルチャー以降、この都市は常に主流から逸脱した表現を受け入れる土壌を持っていた。
 
-Especially from the 1980s to the 1990s, a unique scene was formed at the intersection of noise, industrial, improvisational music, and performance art. During this period, events in warehouse spaces, galleries, and informal venues increased, and environments that differed from traditional live music venues played an important role.
+特に1980年代から1990年代にかけては、ノイズ、インダストリアル、即興音楽、パフォーマンスアートが交差する独自のシーンが形成される。この時期、倉庫スペースやギャラリー、非公式な会場でのイベントが増加し、従来のライブハウスとは異なる環境が重要な役割を果たした。
 
-Rubber O Cement focuses on activities in these "non-institutional spaces" and develops events that integrate music, visuals, and physical expression. The structure is such that the audience is not just a receiver, but is involved as part of the space.
+Rubber O Cementは、こうした「非制度的空間」での活動を主軸とし、音楽と視覚、身体表現を統合するイベントを展開していく。観客は単なる受け手ではなく、空間の一部として巻き込まれる構造になっている。
 
-> Their activities were established in the "gaps" of the city.
-
----
-
-
-## Members and roles
-
-### Core in a variable structure
-
-Rubber O Cement is a fluid collective, and the concept of fixed members is vague, but Grux and Mick Goldwater are known as the core of their activities.
-
-Grux is known for his visually and physically impactful performances, collapsing the boundaries between music, objects, costumes, and bodies. During the actual performance, he wears strangely shaped masks and structures, and treats the instrument itself as an extended part of his body. As a result, the act of performing is not just the production of sound, but also a visual event.
-
-Meanwhile, Mick Goldwater is heavily involved in the acoustics, responsible for designing the flow of sound throughout the space using electronics, feedback, and processed signals. His approach is distinctive in that it emphasizes the state of the sound rather than the musical structure.
-
-The relationship between the two is not the traditional division of roles between performer and accompanist, but functions as ""two forces that control the space from different aspects.''
-
-> At the core of Rubber O Cement is the intersection of physicality and acoustic design.
+> 彼らの活動は都市の「隙間」を舞台に成立していた。
 
 ---
 
-## Musical approach and structure
 
-Rubber O Cement"s sound may seem chaotic at first glance, but it"s actually based on a few clear principles.
+## メンバーと役割
 
-First, improvisation is central. The predetermined structure is kept to a minimum, and the development changes depending on the acoustics of the venue and the reactions of the participants. This is different from jazz improvisation, and is more radical in that it does not assume a shared tonality or rhythm.
+### 可変的構造の中の中核
 
-Next, the selection of sound materials is important. All sound sources are treated equally, including electronic devices, tapes, metal objects, and environmental sounds. This blurs the line between music and noise.
+Rubber O Cementは流動的なコレクティブであり、固定メンバーという概念自体が曖昧だが、その中でも活動の軸として知られているのがGruxとMick Goldwaterである。
 
-Furthermore, there is a strong awareness of spatiality. Sounds are not simply arranged in time, but arranged. The position, reverberation, and movement of the speakers become part of the work.
+Gruxは、視覚的・身体的なインパクトを伴うパフォーマンスで知られる存在であり、音楽とオブジェクト、衣装、身体の境界を崩す役割を担っている。実際のパフォーマンスでは、異形のマスクや構造物を装着し、楽器そのものを拡張された身体の一部として扱う。これにより、演奏行為は単なる音の生成ではなく、視覚的な出来事としても成立する。
+
+一方、Mick Goldwaterは音響面の構築に深く関与しており、電子機器、フィードバック、加工された信号を用いて空間全体の音の流れを設計する役割を担う。彼のアプローチは、楽曲的構造よりも「音の状態」を重視する点に特徴がある。
+
+この二者の関係は、演奏者と伴奏者といった従来の役割分担ではなく、「空間を異なる側面から制御する二つの力」として機能している。
+
+> Rubber O Cementの中核は、身体性と音響設計の交差によって成立している。
+
+---
+
+## 音楽的アプローチと構造
+
+Rubber O Cementのサウンドは、一見すると無秩序に聞こえるが、実際にはいくつかの明確な原則に基づいている。
+
+まず、即興性が中心にある。事前に決められた構成は最小限に抑えられ、その場の音響や参加者の反応によって展開が変化する。これはジャズの即興とは異なり、調性やリズムの共有を前提としない点でよりラディカルである。
+
+次に、音素材の選択が重要である。電子機器、テープ、金属オブジェクト、環境音など、あらゆる音源が同列に扱われる。これにより、音楽とノイズの境界が曖昧になる。
+
+さらに、空間性が強く意識されている。音は単に時間的に並ぶのではなく、配置される。スピーカーの位置、反響、移動などが作品の一部となる。
 
 <div class="mermaid">
 graph TD
-A[improvisational nature] --> D[performance]
-B[Diverse sound materials] --> D
-C[spatial configuration] --> D
-D --> E[music as an experience]
+A[即興性] --> D[パフォーマンス]
+B[多様な音素材] --> D
+C[空間構成] --> D
+D --> E[体験としての音楽]
 </div>
 
-> Rubber O Cement's music is a series of "arrangements" rather than "performances."
+> Rubber O Cementの音楽は「演奏」ではなく「配置」の連続である。
 
 ---
 
-## DIY spirit and production environment
+## DIY精神と制作環境
 
-Another important aspect of Rubber O Cement is its DIY spirit. Rather than relying on commercial studios or large-scale equipment, they have modified their own equipment and built their own unique production environment.
+Rubber O Cementのもう一つの重要な側面は、DIY精神である。彼らは商業スタジオや大規模な設備に依存せず、自ら機材を改造し、独自の制作環境を構築してきた。
 
-This attitude resonates with post-punk DIY culture, but it's not just anti-commercialism. Rather, it appears as a technological quest to control sound itself.
+この姿勢は、パンク以降のDIY文化と共鳴しているが、単なる反商業主義ではない。むしろ、音そのものを制御するための技術的探究として現れている。
 
-The recording method is also different from traditional album production, focusing on live recording and on-site recording. There is a strong tendency to keep editing to a minimum and leave the sounds of the events as they are.
+録音方法も従来のアルバム制作とは異なり、ライブ録音や現場での記録が中心となる。編集も最小限にとどめ、出来事としての音をそのまま残す傾向が強い。
 
 <div class="mermaid">
 flowchart LR
-A[Homemade equipment] --> B[live recording]
-B --> C[minimal edit]
-C --> D[Works as documents]
+A[自作機材] --> B[ライブ録音]
+B --> C[最小編集]
+C --> D[ドキュメントとしての作品]
 </div>
 
-> The production process itself functions as part of the work.
+> 制作プロセスそのものが作品の一部として機能している。
 
 ---
 
-## Performance and physicality
+## パフォーマンスと身体性
 
-Rubber O Cement's activities are not limited to music, but have strong aspects as performance art. The movement of the performer, the distance from the audience, and the use of space are all important factors.
+Rubber O Cementの活動は、音楽にとどまらずパフォーマンスアートとしての側面を強く持つ。演奏者の動き、観客との距離、空間の使い方などがすべて重要な要素となる。
 
-Visual elements are often introduced, with video projection, lighting, and object placement linked to sound. This allows the audience to experience the entire environment rather than just hearing the sound.
+しばしば視覚的要素が導入され、映像投影や照明、オブジェクトの配置が音と連動する。これにより、観客は単に音を聴くのではなく、環境全体を体験することになる。
 
-It also assumes that performance is not reproducible. Even with the same setup, the results will not be the same. This irreversibility is at the core of their expression.
+また、パフォーマンスは再現不可能であることが前提となっている。同じセットアップであっても、同じ結果にはならない。この不可逆性が、彼らの表現の核心にある。
 
-> Uniqueness is what defines the value of their work.
+> 一回性こそが彼らの作品の価値を規定している。
 
 ---
 
-## Chronology
+## 年表
 
-### Main trends of Rubber O Cement
+### Rubber O Cementの主な動向
 
 <div class="mermaid">
 timeline
@@ -140,72 +139,72 @@ timeline
     2020 : アーカイブ的再評価
 </div>
 
-> Their activities are synchronized with changes in the overall scene.
+> 彼らの活動はシーン全体の変化と同期している。
 
 
 ---
 
-### Fusion of sight and sound
+### 視覚と音の融合
 
-As evidenced by the actual performance images, Rubber O Cement places great importance on visual constructs. Labyrinth-like sets, hand-drawn graphics, and oddly shaped attachments are not mere decorations, but elements that function on the same layer as the sound.
+実際のパフォーマンスイメージからも明らかなように、Rubber O Cementは視覚的な構築物を極めて重視している。迷路状のセット、手描きのグラフィック、異形の装着物などは、単なる装飾ではなく、音響と同じレイヤーで機能する要素である。
 
-Grux"s wearable objects are not only sources of sound, but also interfere with space as visual noise. Mick Goldwater"s electronic sounds, on the other hand, function as ""invisible structures'' that fill the space.
+Gruxによる装着型のオブジェクトは、音の発生源であると同時に視覚的ノイズとして空間に干渉する。これに対してMick Goldwaterの電子音は、空間を満たす「見えない構造」として働く。
 
 <div class="mermaid">
 graph TD
-A[Grux] --> C[body/object]
-B[Mick Goldwater] --> D[Electronic sound/spatial sound]
-C --> E[visual noise]
-D --> F[acoustic structure]
-E --> G[holistic experience]
+A[Grux] --> C[身体・オブジェクト]
+B[Mick Goldwater] --> D[電子音・空間音響]
+C --> E[視覚ノイズ]
+D --> F[音響構造]
+E --> G[総合的体験]
 F --> G
 </div>
 
-> Vision and sound are not independent and are perceived as the same phenomenon.
+> 視覚と音響は独立せず、同一の現象として知覚される。
 
 ---
 
-### Expandability as a collective
+### コレクティブとしての拡張性
 
-An important feature of Rubber O Cement is its ability to expand by always incorporating external participants, even though it is centered around these core members. Different players and performers are added to each event, and a different structure is generated each time.
+Rubber O Cementの重要な特徴は、このコアメンバーを中心にしながらも、常に外部の参加者を取り込む拡張性にある。イベントごとに異なる演奏者やパフォーマーが加わり、その都度異なる構造が生成される。
 
-Due to this structure, Rubber O Cement does not have a fixed style, but rather functions as a project premised on change itself. Grux and Mick Goldwater exist as the "axis" that controls that change.
+この構造により、Rubber O Cementは固定されたスタイルを持たず、むしろ変化そのものを前提としたプロジェクトとして機能する。GruxとMick Goldwaterは、その変化を制御する「軸」として存在している。
 
-> Rubber O Cement is defined by relationships, not members.
-
----
-
-## Comparison with contemporaries
-
-While Rubber O Cement shares similarities with the noise and improvisational music of its era, it differs in several ways.
-
-While many noise artists work under individual names, they place emphasis on a collective nature. It is also distinctive in that it focuses on the situation and structure rather than the intensity of the sound itself.
-
-Furthermore, it has strong relationships with galleries and art spaces, and has become an entity that straddles the boundaries between the music scene and the art scene.
-
-> Rubber O Cement functions more as a connection point than a genre.
+> Rubber O Cementはメンバーではなく関係性によって定義される。
 
 ---
 
-## Contemporary significance
+## 同時代との比較
 
-Today, improvised music and noise are being reinvented in a digital environment, but Rubber O Cement's approach remains relevant. In particular, expressions that include space and the body have a value that is difficult to replace online.
+Rubber O Cementは、同時代のノイズや即興音楽と共通点を持ちながらも、いくつかの点で異なる。
 
-Furthermore, the variable composition of members and non-fixed work formats are highly compatible with contemporary collaborative culture. Their models serve as a reference point for artists who work on a project basis.
+多くのノイズアーティストが個人名義で活動するのに対し、彼らは集団性を重視する。また、音そのものの強度よりも、状況や構造に焦点を当てる点が特徴的である。
 
-> Rubber O Cement presents a structure that can be updated even in the current representation environment.
+さらに、ギャラリーやアートスペースとの関係が強く、音楽シーンと美術シーンの境界を横断する存在となっている。
+
+> Rubber O Cementはジャンルではなく接続点として機能している。
 
 ---
 
-## Conclusion
+## 現代的意義
 
-Rubber O Cement is not just an experimental music band, but a "methodology" born out of San Francisco's underground culture. At its core are improvisation, spatiality, groupness, and a DIY spirit.
+現在、即興音楽やノイズはデジタル環境の中で再構築されつつあるが、Rubber O Cementのアプローチは依然として有効である。特に、空間と身体を含めた表現は、オンラインでは代替しにくい価値を持つ。
 
-Their activities question the very definition of music, blurring the boundaries between work and experience, performance and environment. The result is an event that is unrepeatable yet deeply memorable.
+また、可変的なメンバー構成や非固定的な作品形態は、現代のコラボレーション文化とも親和性が高い。プロジェクトベースで動くアーティストにとって、彼らのモデルは一つの参照点となる。
 
-Such practices continue to present values ​​that differ from commercial success. And that is the source of the underground scene's staying power.
+> Rubber O Cementは現在の表現環境においても更新可能な構造を提示している。
 
-> Rubber O Cement is a concrete example of the possibilities that extend outside of music.
+---
+
+## 結論
+
+Rubber O Cementは、単なる実験音楽バンドではなく、サンフランシスコの地下文化が生み出した「方法論」である。その核心には、即興性、空間性、集団性、そしてDIY精神がある。
+
+彼らの活動は、音楽の定義そのものを問い直すものであり、作品と体験、演奏と環境の境界を曖昧にする。結果として生まれるのは、再現不可能でありながら強く記憶に残る出来事である。
+
+このような実践は、商業的な成功とは異なる価値基準を提示し続けている。そしてそれこそが、地下シーンが持つ持続力の源でもある。
+
+> Rubber O Cementは音楽の外側に広がる可能性を具体的に示した存在である。
 
 
 ---
@@ -213,7 +212,7 @@ Such practices continue to present values ​​that differ from commercial succ
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WQtjDV3HPvA?si=OT8V1IfJ-AFLvCF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

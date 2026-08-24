@@ -12,9 +12,9 @@ title: Cactus World News – Live
 ---
 
 
-This album is a live recording of a concert held at The Whiskey in Los Angeles on August 20, 1986.
+このアルバムは、1986年8月20日ロサンゼルスのThe Whiskyでおこなわれたコンサートのライブ録音。 
 
-The third song on the B-side, "America," is a cover of a Simon & Garfunkel song.
+B面3曲目の「America」は、サイモン＆ガーファンクルの曲のカバー。
 
 #### Tracklist
 ```md
@@ -37,7 +37,7 @@ B3. America
 B4. Jigsaw Street
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1b0OiptaQZA?si=osnpIxw7p8ShnR4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

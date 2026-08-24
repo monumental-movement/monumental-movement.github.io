@@ -10,22 +10,21 @@ tags:
 - New-Wave
 - Synth-Pop
 - Techno
-title: '[Column] DEVO and Energy Dome ─ Utopia and degeneration theory in the technological
-  age'
+title: 【コラム】 DEVOとエナジードーム ─ テクノロジー時代のユートピアと退化論
 ---
 
 
-## Prologue: What does the red dome mean?
+## 序章：赤いドームの意味とは
 
 
-Text: mmr｜Theme: Using DEVO's symbol "Energy Dome" as a clue, deciphering the theory of degeneration, technology, DIY thinking, and the transformation of pop culture.
+文：mmr｜テーマ：DEVOの象徴「エナジードーム」を手がかりに、退化論、テクノロジー、DIY思想、そしてポップカルチャーの変容を読み解く
 
-In the late 1970s, American new wave band **DEVO** embodied a new era of pop art, not only with their music but also with their visual iconography.
-The symbol of this is the red plastic hat they wore on stage and in their music videos -- **Energy Dome**.
+1970年代後半、アメリカのニューウェーヴ・バンド **DEVO** は、音楽だけでなく視覚的アイコンをもって新時代のポップアートを体現した。  
+その象徴が、彼らがステージやPVで着用した赤いプラスチック製の帽子──**エナジードーム（Energy Dome）**である。
 
 This strange, futuristic design was more than just a costume.
-According to DEVO, it is "a device for reusing energy that humans wastefully emit."
-It was also a device that embodied their philosophy of De-Evolution through humor and irony.
+DEVOによればそれは「人間が無駄に放出するエネルギーを再利用するためのデバイス」であり、  
+退化（De-Evolution）という彼らの哲学を、ユーモアと皮肉で具現化した装置でもあった。
 
 ---
 
@@ -34,7 +33,7 @@ It was also a device that embodied their philosophy of De-Evolution through humo
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -43,83 +42,83 @@ color: #fff;
 </style>
 
 
-## Chapter 1: The idea of ​​De-Evolution
+## 第1章：退化論（De-Evolution）という思想
 
-The band name DEVO comes from "De-Evolution" -- the paradoxical concept that "humanity is not evolving, but rather degenerating."
+DEVOというバンド名は “De-Evolution”──「人類は進化していない、むしろ退化している」という逆説的な概念に由来する。  
 This idea was born in response to the turmoil in America from the late 1960s to the 1970s: the Vietnam War, environmental pollution, and the runaway consumer society.
 
 **Mark Mothersbaugh** and **Gerald Casale** from Akron, Ohio, developed ""doubts about the myth of evolution'' while studying art and politics.
-They realized that religious progressivism and belief in technology were ultimately variations on the same fantasy, and conceived of ""degenerate pop'' to satirize this.
+彼らは、宗教的進歩主義もテクノロジー信仰も、結局は同じ幻想の変種だと気づき、それを皮肉るために「退化するポップ」を構想した。
 
-> "We're all DEVO."
+> “We're all DEVO.”（僕らはみんな退化しているんだ）  
 > — Mark Mothersbaugh
 
-This phrase was both an anti-establishment slogan and a social satire.
+このフレーズは、彼らにとっての反体制スローガンであり、同時に社会風刺の呪文だった。
 
 ---
 
 ## Chapter 2: Departing from art school
 
 DEVO has been a "music unit" and a "multimedia project" from the beginning.
-They will project live slide footage, create handmade videos, and perform performance art.
-His first film, 1976's The Truth About De-Evolution, is known as an experimental film documenting American decadence.
+彼らはライブでスライド映像を投影し、手作りのビデオやパフォーマンス・アートを展開する。  
+His early film ""The Truth About De-Evolution'' from 1976 is known as an experimental film documenting American decadence.
 
 The film won an award at the Ann Arbor Film Festival in 1977 and caught the attention of **David Bowie** and **Iggy Pop**.
 After that, DEVO signed a contract with Warner Brothers and released their debut album ""Q: Are We Not Men? A: We Are DEVO!'' (1978) with Brian Eno as producer.
 
 ---
 
-## Chapter 3: The emergence and semantic structure of the energy dome
+## 第3章：エナジードームの登場と意味構造
 
-Energy Dome first appeared on the band's 1980 album Freedom of Choice.
-Its shape is reminiscent of ancient architecture and the stepped pyramids of the Incas.
-Mark Mothersbaugh later said:
+エナジードームが初めて登場したのは、1980年のアルバム『Freedom of Choice』期である。  
+その形状は、古代建築やインカの段状ピラミッドを思わせる。  
+Mark Mothersbaughは後年こう語っている：
 
 > "It was designed according to ancient energy principles — it recycles the energy that escapes from the top of your head."
-> (It was designed based on ancient energy principles, recycling the energy that escapes from the top of the head)
+> （それは古代のエネルギー原理に基づいて設計された。頭頂から逃げるエネルギーをリサイクルするんだ）
 
-This word "recycle" is important.
-For DEVO, technology is not a symbol of domination, but a means of reuse and redefinition.
-In other words, the Energy Dome is a humor device for "laughing at the system within the system."
+この「リサイクル」という言葉が重要だ。  
+DEVOにとって、テクノロジーは支配の象徴ではなく、再利用・再定義の手段である。  
+つまり、**「システムの中でシステムを笑う」ためのユーモアの装置**がエナジードームなのだ。
 
 ---
 
-## Chapter 4: DIY culture and techno-anarchism
+## 第4章：DIY文化とテクノ・アナーキズム
 
 DEVO used home-made electronics and synthesizers to create their sound, albeit with a bit of irony towards commercial rock.
 Using Roland and ARP synths, they modified their own and reproduced proto-techno loop structures live.
-This practice can be said to be the prototype of the later **Independent/Lo-Fi movement**.
+その実践は、のちの**インディペンデント／Lo-Fiムーブメント**の原型ともいえる。
 
-They satirized the corporate world while taking advantage of corporate methods (logos, slogans, commercialization).
+彼らは、企業社会を風刺しながら企業的手法（ロゴ・スローガン・製品化）を逆手に取った。  
 In the sense that DEVO itself became a "brand" and presented the contradictions of an anti-capitalist brand, they were also the forerunners of post-modern art groups.
 
 ---
 
 ## Chapter 5: Function as pop ─ "Whip It" and its misconceptions
 
-On the surface, the 1980 smash hit "Whip It" sounds like just comical synth-pop.
-However, the lyrics are a parody of anti-heroism, saying, ""Fix the world yourself.''
-DEVO's humor was not just nonsense, but functioned as a critique of a media-manipulated society.
+1980年の大ヒット曲 “Whip It” は、表面的には単なるコミカルなシンセ・ポップに聞こえる。  
+しかしその歌詞は、「自分で世界を修正せよ」という**反・英雄主義のパロディ**だ。  
+DEVOのユーモアは、単なるナンセンスではなく、**メディア操作社会への批評**として機能していた。
 
-In their music videos, they concoct white laboratories, synthesized sounds, and mechanical movements—all in a pop-cynic format.
-This is similar to Warhol's repetitive aesthetic, and is why they are said to be the first musical group to aestheticize irony.
+音楽ビデオで彼らは、白い実験室、合成音、マシン的動作──すべてを**ポップな冷笑**のフォーマットに収める。  
+これはWarhol的な反復美学とも通じ、**アイロニーを美学化した最初の音楽グループ**と評される所以である。
 
 ---
 
 ## Chapter 6: Costume culture as social satire
 
-Energy Dome played a parody of obedience through futuristic uniforms, while their punk contemporaries expressed rebellion with safety pins and leather.
+エナジードームは、同時代のパンクが安全ピンやレザーで反抗を示したのに対し、**未来的制服による従順のパロディ**を演じた。  
 ""Performing obedience is the most radical form of resistance.'' That was DEVO's paradoxical message.
 
-The structure can be easily visualized in a diagram as follows:
+図でその構造を簡略に可視化すると、次のようになる：
 
 <div class="mermaid">
 
 graph TD
-  A["Social system (capital, technology, mass)"]
+  A["社会のシステム（資本・テクノロジー・マス）"]
   B["Personal obedience"]
-  C["DEVO's Obedience as Performance (Energy Dome)"]
-  D["Satire, Criticism, Deconstruction"]
+  C["DEVOの演技としての服従（エナジードーム）"]
+  D["風刺・批評・脱構築"]
   A --> B
   B --> C
   C --> D
@@ -133,24 +132,24 @@ This "performance of obedience" is the gene that later led to Daft Punk and Kraf
 
 ## Chapter 7: DEVO's visual culture and anime structure
 
-DEVO's music videos consist of **post-anime edits** that reflect the information overload of the television generation.
+DEVOのMV群は、テレビ世代の情報過多を反映した**ポスト・アニメ的編集**で構成されている。
 Fast-forwarding, replaying in reverse, and emphasizing artificial movements make it seem as if humans themselves have become robot-like beings.
-This visual style later influenced the production aesthetics of Japan's ""Detroit Metal City'' and Perfume.
+この映像スタイルは、のちに日本の『デトロイト・メタル・シティ』やPerfumeの演出美学にも影響を与えている。
 
 ---
 
 ## Chapter 8: Reassessment and Reboot since the 90s
 
 In the late 1980s, DEVO went into decline as MTV culture changed.
-In the 1990s, it was reevaluated as a pioneer of the Internet era.
-Their self-satirical branding strategy foreshadowed post-Web 2.0 self-commodification.
+1990年代に入ると**インターネット時代の先駆者**として再評価される。
+彼らの自己風刺的ブランド戦略は、**ポストWeb 2.0の自己商品化**を予見していたのだ。
 
-They reunited in the 2000s with "Something for Everybody" (2010), a satire on "democracy in the age of algorithms."
-In the 2020s, he continues to update his theory of degeneration to include NFTs and AI culture.
+2000年代には再結成し、“Something for Everybody” (2010) で「**アルゴリズム時代の民主主義**」を風刺。
+2020年代にはNFTやAI文化をも対象に、退化論をアップデートし続けている。
 
 ---
 
-## Chapter 9: DEVO's trajectory as seen in the chronology
+## 第9章：年表で見るDEVOの軌跡
 
 <div class="mermaid">
 
@@ -174,27 +173,27 @@ timeline
 
 ## Chapter 10: Today's Significance of Energy Dome
 
-The Energy Dome is still loved by DEVO fans as a ""thinking helmet.''
-During the coronavirus pandemic, **Energy domes with face shields** are sold,
+エナジードームは、今なおDEVOファンの間で「思考のヘルメット」として愛されている。
+コロナ禍では、**フェイスシールド付きエナジードーム**が販売され、
 It has once again attracted attention as a warning about environmental issues.
 
-In other words, the **Energy Dome is a social device that ""transforms'' with each era**.
-Each time, while making fun of our illusions of "evolution,"
-It shows us the heretical wisdom of ""affirming degeneration.''
+つまり、**エナジードームは時代ごとに「変身」する社会装置**なのだ。
+そのたびに、私たちの「進化」幻想をからかいながら、
+「退化の肯定」という異端の知恵を示してくれる。
 
 ---
 
 ## Conclusion: Freedom to degenerate
 
 DEVO's message is not just irony, but a philosophy for self-transformation.
-Under pressure to evolve, they dared to degenerate.
-Rather, that choice becomes a means of restoring human freedom.
+「進化しなければならない」という圧力の中で、彼らはあえて退化を選んだ。
+その選択が、むしろ人間的自由を回復する手段となる。
 
 > "Freedom of Choice is what you got. Freedom from choice is what you want."
 > ─ DEVO, Freedom of Choice (1980)
 
-Energy dome is not a helmet that closes off the future.
-**Perhaps it is an icon for us to once again have the freedom to choose.**
+エナジードームとは、未来を閉ざすヘルメットではなく、
+**私たちが再び「選ばない自由」を手にするためのアイコン**なのかもしれない。
 ---
 
 ## Related materials/references
@@ -205,9 +204,9 @@ Energy dome is not a helmet that closes off the future.
 
 #### Devo – New Traditionalists
 
-"New Traditionalists" is the fourth album by US new wave band Devo, released in 1981, and the band's first completely self-produced album.
+「New Traditionalists」は1981年にリリースされたUSのニューウェイヴバンド、Devo（ディーヴォ）の4作目のアルバムであり、バンド初の完全セルフプロデュース・アルバム。
 
-Following the success of their previous album Freedom Of Choice (Desire Psychology), which included "Whip It," this album has a minimalist atmosphere with an emphasis on synthesizer riffs, rhythm, and electronic percussion, with the concept of "deevolution."
+「Whip It」が収録された前作のアルバムFreedom Of Choice（欲望心理学）のヒットを受けて、このアルバムでは「脱進化」をコンセプトにシンセサイザーのリフとリズム＆電子パーカッションに重点を置いたミニマルな雰囲気になっている。
 
 #### Tracklist
 ```md
@@ -225,7 +224,7 @@ B5. Enough Said
 B6. Working In The Coal Mine
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -237,7 +236,7 @@ B6. Working In The Coal Mine
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y9oot4gs-WY?si=FGYHR250nyDde4qN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

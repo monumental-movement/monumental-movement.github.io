@@ -15,41 +15,41 @@ title: '[Column] Hania Rani - A new landscape of modern piano created by silence
 ---
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: Hania Rani transcends the boundaries between classical and electronic acoustics, turning even silence into music. Interpret the history of its creation and its influence on contemporary music from multiple perspectives.
+文：mmr｜テーマ：クラシックと電子音響の境界を越え、静寂までも音楽へ変えたHania Rani。その創作の歩みと現代音楽への影響を多角的に読み解く
 
 
-In recent years, the contemporary music scene has seen the emergence of artists from all over the world who naturally traverse classical, ambient, and electronic music. Among them, Hania Rani, a pianist and composer from Poland, has a particularly unique presence.
+近年の現代音楽シーンでは、クラシック、アンビエント、エレクトロニクスを自然に横断するアーティストが世界各地から登場している。その中でも、とりわけ独自の存在感を放っているのがポーランド出身のピアニスト・作曲家、Hania Raniである。
 
-Many people who hear her work for the first time may have the first impression that it is ""quiet music.'' However, the tranquility is not just soothing or ambient music.
+彼女の作品を初めて耳にした人の多くは、「静かな音楽」という第一印象を抱くかもしれない。しかし、その静けさは単なる癒やしや環境音楽ではない。
 
-The structure, in which each note is carefully placed and even silence is treated as part of the music, is the result of a high-level fusion of classical music tradition and contemporary sound design.
+一音一音が慎重に配置され、沈黙すら音楽の一部として扱われる構造は、クラシック音楽の伝統と現代的なサウンドデザインが高い次元で融合した結果である。
 
 Rather than putting flashy technique to the forefront, he uses a limited number of sounds to depict deep emotions and space.
 
-His approach has been highly praised not only by listeners around the world, but also by many film directors, videographers, and contemporary artists.
+そのアプローチは世界中のリスナーだけでなく、多くの映画監督、映像作家、現代美術家からも高く評価されている。
 
-Currently, he has expanded his field of activity to include not only solo piano works, but also vocal works, film music, installations, and orchestral works, and has become known as one of the leading composers of contemporary European music.
+現在ではソロピアノ作品だけではなく、ボーカル作品、映画音楽、インスタレーション、オーケストラ作品まで活動領域を広げ、現代ヨーロッパ音楽を代表する作曲家の一人として知られる存在になった。
 
 However, this style did not suddenly become perfect.
 
-The current world of music has been formed as a result of the gradual accumulation of classical education from childhood, Polish cultural background, contact with contemporary art, encounters with electronic music, and numerous live performances.
+幼少期からのクラシック教育、ポーランドの文化的背景、現代芸術との接点、電子音楽との出会い、そして数多くのライブ経験が少しずつ積み重なった結果として現在の音楽世界が形成されている。
 
-Understanding Hania Rani is more than just knowing one pianist.
+Hania Raniを理解することは、一人のピアニストを知るだけではない。
 
-It also helps us understand how classical music has changed since the 21st century, fused with technology, and evolved into a new art form.
+21世紀以降、クラシック音楽がどのように変化し、テクノロジーと融合し、新しい芸術へ進化していったのかを知ることにもつながっている。
 
-In this article, we will systematically organize everything from her early life to her representative works, creative techniques, performance style, and position in music history, and look at her appeal from multiple angles.
+本稿では、彼女の生い立ちから代表作品、創作技法、演奏スタイル、音楽史における位置づけまでを体系的に整理し、その魅力を多角的に見ていく。
 
-> If we understand Hania Rani's music not as ""quiet piano pieces,'' but as an attempt to compose space itself, we can begin to see its true nature.
+> Hania Raniの音楽は「静かなピアノ作品」ではなく、空間そのものを作曲する試みとして理解すると、その本質が見えてくる。
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -59,94 +59,94 @@ color: #fff;
 
 ---
 
-## Sensitivity cultivated by Polish music culture
+## ポーランドという音楽文化が育てた感性
 
 ### Europe's leading music powerhouse
 
-When talking about Hania Rani, it is essential to talk about the music culture of her native Poland.
+Hania Raniを語る上で欠かせないのが、彼女の出身国であるポーランドの音楽文化である。
 
-Poland has long been known as one of Europe's leading countries for music education, and has produced many world-class composers.
+ポーランドは古くからヨーロッパ有数の音楽教育国として知られ、多くの世界的作曲家を輩出してきた。
 
-The most famous is Frédéric Chopin.
+最も有名なのはフレデリック・ショパンである。
 
-Chopin, known as a composer representing the 19th century Romantic movement, remains a symbol of Polish culture today.
+19世紀ロマン派を代表する作曲家として知られるショパンは、現在でもポーランド文化の象徴的存在となっている。
 
-In the 20th century, composers representing contemporary music emerged one after another, such as Witold Lutosławski, Henryk Mikołaj Głecki, and Krzysztof Penderecki.
+また20世紀にはヴィトルト・ルトスワフスキ、ヘンリク・ミコワイ・グレツキ、クシシュトフ・ペンデレツキなど、現代音楽を代表する作曲家が次々と登場した。
 
-A common feature of these composers is that, while inheriting traditional classical music, they actively tried new acoustics and compositional techniques.
+これらの作曲家に共通する特徴は、伝統的なクラシックを継承しながらも、新しい音響や作曲技法へ積極的に挑戦したことである。
 
-That soil has been passed down to this day.
+その土壌は現在でも受け継がれている。
 
-Hania Rani also grew up in this rich musical culture.
+Hania Raniもまた、この豊かな音楽文化の中で育った。
 
-It was natural for him to receive a classical education from an early age, and music was not something special, but a part of his life.
+幼少期からクラシック教育を受けることが自然な環境であり、音楽は特別な存在ではなく生活の一部だったのである。
 
 ### Characteristics of Polish contemporary music
 
 In Poland in the latter half of the 20th century, many composers began to consider ""timbre'' itself as a subject of composition.
 
-Not just the melody,
+メロディだけではなく、
 
-- Reverberation of sound
+- 音の余韻
 - Sound
-- space
-- silence
-- Dynamics
+- 空間
+- 沈黙
+- ダイナミクス
 
-A culture of designing all of these as a single work developed.
+そのすべてを一つの作品として設計する文化が発達していく。
 
-This would later become a prominent feature in Hania Rani's work.
+これは後にHania Raniの作品でも顕著に現れる特徴となる。
 
 In her songs, rather than the chord progression itself,
 
-"Time when there is no sound"
+「音が鳴っていない時間」
 
-plays a very important role.
+が非常に重要な役割を果たしている。
 
-His attitude of not being afraid of silence, but rather treating it as an important component of his work, is often pointed out as a common feature with contemporary Polish music.
+静寂を恐れず、むしろ作品の重要な構成要素として扱う姿勢は、ポーランド現代音楽との共通点としてしばしば指摘される。
 
 ### Education that emphasizes the arts as a whole
 
-In Poland, there are strong ties not only to music education, but also to art, literature, and theater.
+ポーランドでは音楽教育だけではなく、美術、文学、演劇との結び付きも強い。
 
-Therefore, even if you are a performer,
+そのため演奏家であっても、
 
-- movie
-- photograph
-- Architecture
-- performing arts
+- 映画
+- 写真
+- 建築
+- 舞台芸術
 - contemporary art
 
-There are environments where people are interested in nature.
+などへ自然に関心を持つ環境がある。
 
-Hania Rani is also known for placing emphasis on images and spatial direction when creating her works.
+Hania Raniも作品制作において映像や空間演出を重視することで知られている。
 
-At live performances, lighting and stage design are often designed as a piece of work.
+ライブでは照明やステージデザインまで含めて作品として設計されることが多い。
 
-The idea that music alone is not enough is deeply connected to this cultural background.
+音楽だけでは完成しないという考え方は、こうした文化背景とも深く結び付いている。
 
 <div class="mermaid">
 graph TD
 
-A["Polish music culture"] --> B["Classical Education"]
-A --> C["Modern music"]
-A --> D["Art education"]
-A --> E["Movie and theater culture"]
+A["ポーランド音楽文化"] --> B["クラシック教育"]
+A --> C["現代音楽"]
+A --> D["芸術教育"]
+A --> E["映画・演劇文化"]
 
-B --> F["Piano performance"]
-C --> G["Interest in acoustics"]
-D --> H["Space design"]
-E --> I["Fusion with video works"]
+B --> F["ピアノ演奏"]
+C --> G["音響への関心"]
+D --> H["空間デザイン"]
+E --> I["映像作品との融合"]
 
-F --> J["Style of Hania Rani"]
+F --> J["Hania Raniの作風"]
 G --> J
 H --> J
 I --> J
 </div>
 
-### A generation that doesn't stop at classical music
+### クラシックだけでは終わらない世代
 
-When Hania Rani started her career in the 2010s, a growing number of young musicians across Europe were pursuing a career in electronic music while receiving a classical education.
+Hania Raniが活動を始めた2010年代には、ヨーロッパ各地でクラシック教育を受けながら電子音楽へ進む若い音楽家が増えていた。
 
 Thanks to the development of the digital recording environment, we are now in an era where even one person can create orchestra-like acoustics.
 
@@ -154,136 +154,136 @@ The characteristics of this generation are
 
 Classical or electronic music?
 
-Rather than the binary opposition of
+という二項対立ではなく、
 
-He has an idea that naturally fuses the two.
+両者を自然に融合する発想を持っていることである。
 
 Hania Rani is truly representative of that generation.
 
-While focusing on the piano,
+ピアノを中心に据えながら、
 
 synthesizer
 
 electronic processing
 
-field recording
+フィールドレコーディング
 
-loop
+ループ
 
-analog equipment
+アナログ機材
 
-He seamlessly incorporates such music and presents a new form of contemporary music.
+などを違和感なく取り込み、新しい現代音楽の形を提示している。
 
-> The environment where Polish tradition and contemporary art intersect became an important foundation for shaping Hania Rani's musical world.
+> ポーランドの伝統と現代芸術が交差する環境は、Hania Raniの音楽世界を形づくる重要な土台となった。
 
 ---
 
-## Early childhood and classical education
+## 幼少期とクラシック教育
 
-### My early encounter with the piano
+### 早くから始まったピアノとの出会い
 
 Hania Rani was born in 1990 in Gdańsk, Poland.
 
-This city facing the Baltic Sea is known as a historical city dating back to the Middle Ages, but in modern times it has developed into a region with thriving cultural and artistic activities.
+バルト海に面したこの都市は、中世から続く歴史都市として知られる一方、現代では文化・芸術活動も盛んな地域として発展している。
 
-She became familiar with the piano from an early age and began formal musical education.
+彼女は幼い頃からピアノに親しみ、本格的な音楽教育を受け始めた。
 
 Poland has an extensive music school system, and many children receive specialized music education in parallel with their general education.
 
-Hania Rani also acquired basic skills in this educational environment.
+Hania Raniもその教育環境の中で基礎技術を身につけていった。
 
 From an early age, emphasis was placed on
 
-It's not just a technique to play fast,
+単に速く弾く技術ではなく、
 
-- tone
-- phrasing
-- breathing
+- 音色
+- フレージング
+- 呼吸
 - Sound
-- expressiveness
+- 表現力
 
-It was.
+であった。
 
-This educational policy was strongly reflected in her later performances.
+この教育方針は、後年の彼女の演奏にも色濃く反映されている。
 
-### Learning about more than just Chopin
+### ショパンだけではない学び
 
-When many people overseas think of Polish pianists, they think of Chopin's performances.
+海外ではポーランドのピアニストというとショパン演奏を思い浮かべる人も多い。
 
-However, in educational settings, a wide range of works are performed, from baroque to contemporary music.
+しかし、教育現場ではバロックから現代音楽まで幅広い作品が演奏される。
 
-Therefore, from a young age,
+そのため若い頃から、
 
-bach
+バッハ
 
-beethoven
+ベートーヴェン
 
-debussy
+ドビュッシー
 
-Ravel
+ラヴェル
 
-20th century music
+20世紀音楽
 
-contemporary works
+現代作品
 
-I had the opportunity to experience a variety of works such as:
+など、多様な作品に触れる機会があった。
 
-This wide range of experience later led to a flexible compositional approach that transcended genres.
+この幅広い経験が後にジャンルを横断する柔軟な作曲姿勢につながっていく。
 
-> The classical education cultivated in her childhood has become the solid foundation that supports Hania Rani's free creativity.
+> 幼少期に培われたクラシック教育は、Hania Raniの自由な創作を支える確かな基礎となっている。
 
-## Higher music education and the formation of creative consciousness
+## 高等音楽教育と創作意識の形成
 
-### Professional education deepened in Warsaw
+### ワルシャワで深めた専門教育
 
-Hania Rani has been trained in music since childhood, and then went on to attend a music college in Warsaw, the capital of Poland, to further her professional studies.
+幼少期から音楽教育を受けてきたHania Raniは、その後さらに専門的な学びを深めるため、ポーランドの首都ワルシャワにある音楽大学へ進学した。
 
-Warsaw is Poland's largest cultural city, and is home to a diverse range of artistic culture, including not only classical music, but also jazz, experimental music, film, theater, and fine art.
+ワルシャワはポーランド最大の文化都市であり、クラシック音楽だけでなく、ジャズ、実験音楽、映画、演劇、美術など、多様な芸術文化が集積している。
 
-Her experience in this city greatly expanded her musical outlook.
+この都市での経験は、彼女の音楽観を大きく広げることになった。
 
-While studying mainly classical piano at university, he also received a multifaceted musical education, including work analysis, chamber music, ensemble, and composition methods.
+大学ではクラシックピアノを中心に学びながらも、作品分析、室内楽、アンサンブル、作曲法など、多面的な音楽教育を受けている。
 
-While acquiring the necessary skills as a classical musician, he also came to understand that ""playing" and ""creating a work" are two different creative acts.
+クラシック演奏家として必要な技術を身につける一方で、「演奏すること」と「作品を生み出すこと」は別の創造行為であるという認識も深めていった。
 
 As a performer, his interest in not only faithfully reproducing musical scores, but also in creating new music on his own, gradually grew stronger.
 
-### Encounter with the creative city of Berlin
+### ベルリンという創造都市との出会い
 
-Hania Rani then continued her studies in Berlin, Germany.
+その後、Hania Raniはドイツ・ベルリンでも学びを続けた。
 
-From the late 20th century to the present day, Berlin has developed as one of Europe's leading artistic cities.
+ベルリンは20世紀後半から現代に至るまで、ヨーロッパを代表する芸術都市として発展してきた。
 
-Not only classical music,
+クラシック音楽だけではなく、
 
-* Techno
-* Ambient
-* Contemporary art
+* テクノ
+* アンビエント
+* 現代美術
 * Installation
-* Experimental film
-* Performance art
+* 実験映画
+* パフォーマンスアート
 
 Various art fields coexist.
 
-In Berlin, the concept of genre itself is weak, and it is not uncommon for classical musicians to collaborate with electronic musicians.
+ベルリンではジャンルという概念そのものが希薄であり、クラシック音楽家が電子音楽家と共同制作を行うことも珍しくない。
 
-This free creative environment is thought to have had a considerable influence on Hania Rani's later style.
+この自由な創作環境は、後のHania Raniの作風にも少なからず影響を与えたと考えられている。
 
 <div class="mermaid">
 graph LR
 
-A["Gdańsk"] --> B["Classical Education"]
+A["グダニスク"] --> B["クラシック教育"]
 B --> C["Warsaw"]
 C --> D["Professional education"]
 
-D --> E["Berlin"]
+D --> E["ベルリン"]
 
-E --> F["Electronic music"]
-E --> G["Modern art"]
-E --> H["Performing Arts"]
-E --> I["Experimental music"]
+E --> F["電子音楽"]
+E --> G["現代美術"]
+E --> H["舞台芸術"]
+E --> I["実験音楽"]
 
-F --> J["Unique style"]
+F --> J["独自の作風"]
 G --> J
 H --> J
 I --> J
@@ -292,153 +292,153 @@ I --> J
 
 ### The aesthetics of "reducing sound"
 
-Classical education often emphasizes rich expressiveness and advanced technique.
+クラシック教育では、豊かな表現力や高度な技巧が重視されることが多い。
 
-However, Hania Rani's work takes a different direction.
+しかしHania Raniの作品には、それとは異なる方向性が見られる。
 
-Rather than increasing the sound, she
+彼女は音を増やすのではなく、
 
-By reducing it to the bare minimum,
+必要最小限まで削ることで、
 
-Highlighting the presence of each sound.
+一つひとつの音の存在感を際立たせる。
 
-Even if it"s a simple repetition of chords,
+単純な和音の繰り返しであっても、
 
-strength of performance
+演奏の強弱
 
-pedal
+ペダル
 
 reverberation
 
-fluctuations in tempo
+テンポの揺らぎ
 
 slight difference in touch
 
-The whole music changes.
+によって音楽全体が変化していく。
 
-Although this way of thinking has something in common with minimal music, it is not completely the same.
+この考え方はミニマル・ミュージックとも共通点を持ちながら、完全に同じではない。
 
-In her work, rather than repetition itself,
+彼女の作品では反復そのものよりも、
 
-The emphasis is on the minute changes that occur through repetition.
+反復の中で生まれる微細な変化が重要視されている。
 
-### Attitude to consider performer and composer at the same time
+### 演奏者と作曲家を同時に考える姿勢
 
-Many classical pianists build their careers around performing.
+多くのクラシックピアニストは演奏活動を中心にキャリアを築く。
 
-On the other hand, composers often do not specialize in performance.
+一方で作曲家は演奏を専門としない場合も少なくない。
 
-Hania Rani is responsible for both.
+Hania Raniはその両方を担う存在である。
 
-A physical sensation that only a performer can understand.
+演奏者だからこそ分かる身体感覚。
 
-A musical structure that only a composer can design.
+作曲家だからこそ設計できる音楽構造。
 
 By going back and forth between both on your own,
 
-It's not about the ease of playing,
+演奏しやすさではなく、
 
-He pursues the most natural form of music.
+音楽として最も自然に響く形を追求している。
 
-Therefore, her works include
+そのため彼女の作品には、
 
-There are very few passages that are solely for displaying advanced technique.
+高度な技巧を見せるためだけのパッセージはほとんど存在しない。
 
-instead,
+代わりに、
 
-How to make one sound
+一つの音をどう鳴らすか、
 
-The focus is on how that single sound spreads through the space.
+その一音が空間にどう広がるかが重視されている。
 
-> The knowledge cultivated through higher education in music became the driving force towards creating music itself, rather than focusing on performance techniques.
+> 高等音楽教育を通じて培われた知識は、演奏技術ではなく創作そのものへ向かう原動力となっていった。
 
 ---
 
-## Professional activity started in Tęskno
+## Tęsknoで始まったプロフェッショナルとしての活動
 
-### Expression form called duo
+### デュオという表現形態
 
-An important part of knowing Hania Rani before her solo career is the Polish duo project "Tęskno."
+ソロ活動以前のHania Raniを知るうえで重要なのが、ポーランドのデュオプロジェクト「Tęskno」である。
 
-Tęskno began as a collaborative project with singer-songwriter Joanna Longić.
+TęsknoはシンガーソングライターのJoanna Longićとの共同プロジェクトとして始動した。
 
-Hania Rani's piano, which is based on classical music,
+クラシックを基盤に持つHania Raniのピアノと、
 
-By combining vocals centered on delicate singing voices,
+繊細な歌声を中心としたボーカルが組み合わさることで、
 
-The result is a work with a sense of transparency that resembles chamber music.
+室内楽のような透明感を持つ作品が生まれた。
 
-Not a flashy band sound,
+派手なバンドサウンドではなく、
 
-The arrangement is characterized by making use of the blank space.
+余白を活かした編曲が特徴である。
 
-### The word "Tęskno"
+### 「Tęskno」という言葉
 
-The Polish word "Tęskno" is
+ポーランド語の「Tęskno」は、
 
-nostalgia
+郷愁
 
-Sadness
+切なさ
 
-longing
+憧れ
 
-Thoughts on what was lost
+失われたものへの思い
 
-It is known as a word that expresses complex emotions such as.
+などを含む複雑な感情を表現する言葉として知られている。
 
-It is a word with nuances that cannot be completely translated in one word,
+一語では完全に翻訳できないニュアンスを持つ言葉であり、
 
-The duo's name also reflects this feeling.
+デュオ名にもその感覚が反映されている。
 
-Music is also
+音楽もまた、
 
-Rather than directly explaining your feelings,
+感情を直接説明するのではなく、
 
-It leaves space for the listener to find their own meaning.
+聴き手自身が意味を見つけられる余白を残している。
 
-### Experience gained from vocal work
+### ボーカル作品で得た経験
 
-Because in Tęskno there are songs,
+Tęsknoでは歌が存在するため、
 
-It requires a different composition method than solo piano.
+ソロピアノとは異なる作曲法が必要となる。
 
 To enhance the vocals,
 
-The piano is not too far to the front,
+ピアノは前面に出すぎず、
 
-Show your presence only in necessary situations.
+必要な場面だけ存在感を示す。
 
 This experience was utilized in his later solo works.
 
 In Hania Rani's solo works,
 
-Even though the song doesn't exist
+歌が存在しないにもかかわらず、
 
-It feels as if the melody is breathing and flows naturally.
+まるで旋律が呼吸しているような自然な流れを感じさせる。
 
-This was cultivated through vocal works,
+これはボーカル作品で培われた、
 
-It is also thought that the reason for this is the ""feeling of being made to sing''.
+「歌わせる感覚」が背景にあるとも考えられる。
 
-### Evaluation in Poland
+### ポーランド国内での評価
 
-Tęskno has received high praise in Poland,
+Tęsknoはポーランド国内で高い評価を受け、
 
-Live activities were also actively held.
+ライブ活動も積極的に行われた。
 
-Through this experience,
+この経験によって、
 
-Hania Rani is not just a studio producer.
+Hania Raniはスタジオ制作だけではなく、
 
-I also learned a lot about sharing space with the audience.
+観客との空間共有についても多くを学んだ。
 
-The quieter the music,
+静かな音楽ほど、
 
-At live performances, the concentration of both the performer and the audience is important.
+ライブでは演奏者と観客の集中力が重要になる。
 
 Even a single sound can change the atmosphere.
 
-That sense of tension was carried over to his later solo concerts.
+その緊張感は後のソロコンサートにも引き継がれている。
 
 <div class="mermaid">
 graph TD
@@ -447,11 +447,11 @@ A["Classical Education"]
 
 A --> B["Tęskno"]
 
-B --> C["Vocal work"]
-B --> D["Live experience"]
+B --> C["ボーカル作品"]
+B --> D["ライブ経験"]
 B --> E["Arranging power"]
 
-C --> F["Solo activities"]
+C --> F["ソロ活動"]
 D --> F
 E --> F
 
@@ -459,57 +459,57 @@ E --> F
 
 ### Preparation period for solo activities
 
-Tęskno is for Hania Rani
+TęsknoはHania Raniにとって、
 
 It's not just a previous history.
 
-learned here
+ここで学んだ
 
 co-production
 
-relationship with song
+歌との関係
 
-live space
+ライブ空間
 
-recording technology
+録音技術
 
 Arrangement with reduced number of sounds
 
-All of these
+これらすべてが、
 
 This became the basis for his solo works that later received worldwide acclaim.
 
-Even before my solo debut,
+ソロデビュー以前から、
 
-The elements that would lead to the current musicality had already begun to form.
+現在の音楽性につながる要素はすでに形成され始めていたのである。
 
 > The experience in Tęskno became an important foundation for Hania Rani to build her own musical world as a solo artist.
 
 ---
 
-## Birth of solo debut album "Esja"
+## ソロデビューアルバム『Esja』の誕生
 
 ### Music world presented to the world for the first time
 
-In 2019, Hania Rani released her solo album "Esja".
+2019年、Hania Raniはソロアルバム『Esja』を発表した。
 
-This work was her full-fledged solo debut and helped her gain international attention.
+この作品は彼女にとって本格的なソロデビュー作であり、国際的な注目を集めるきっかけとなった。
 
-""Esja'' does not fit within the framework of a classical piano piece.
+『Esja』はクラシックピアノ作品という枠組みに収まらない。
 
-The sensibilities of improvisation, ambient, minimal music, and contemporary music naturally blend together to create a unified world.
+即興性、アンビエント、ミニマル・ミュージック、現代音楽の感覚が自然に溶け合い、一つの統一された世界を築いている。
 
-Rather than having strong ups and downs throughout the album, the composition is such that the scenery changes little by little in a quiet flow.
+アルバム全体を通して強い起伏を持たせるのではなく、静かな流れの中で少しずつ景色が変化していく構成が採られている。
 
-Therefore, it is a work that leaves a deeper impression when you listen to the album as a whole, rather than just one song at a time.
+そのため、一曲単位だけでなくアルバム全体を通して聴くことで、より深い印象を与える作品となっている。
 
-### Meaning behind the title
+### タイトルに込められた意味
 
-The word ""Esja'' does not have a clear meaning established in the general vocabulary.
+『Esja』という言葉には、一般的な語彙として明確な意味が定着しているわけではない。
 
-The title itself does not explain a specific story, but suggests an attitude of wanting people to freely receive scenes and emotions from the music itself.
+タイトルそのものが特定の物語を説明するのではなく、音楽そのものから自由に情景や感情を受け取ってほしいという姿勢がうかがえる。
 
-Each song that makes up the album leaves room for the listener to connect with their experiences and memories, rather than imposing a specific story on them.
+アルバムを構成する各曲も、具体的なストーリーを押し付けるのではなく、聴き手の経験や記憶と結びつく余地を残している。
 
 This is also a common feature throughout Hania Rani's work.
 
@@ -517,82 +517,82 @@ This is also a common feature throughout Hania Rani's work.
 
 Although the piano is the center of attention in "Esja," the sound is very three-dimensional.
 
-Careful consideration was given not only to the performance but also to the recording and reverberation design, and even the process of the sound disappearing functions as a part of the work.
+演奏だけでなく録音や残響の設計にも細かな配慮がなされており、音が消えていく過程まで作品の一部として機能している。
 
-Although the number of notes is not large, the presence of each note stands out because of the blank space.
+音数は決して多くないが、その余白があるからこそ、一音ごとの存在感が際立つ。
 
 This work, a natural fusion of classical music tradition and modern sound design, was the first step in Hania Rani's direction.
 
-> ""Esja'' is an important starting point for Hania Rani to present her musical philosophy to the world.
+> 『Esja』は、Hania Raniが自身の音楽的理念を世界へ提示した重要な出発点となる作品である。
 
 ---
 
 
 ## Composition techniques and performance aesthetics that support "Esja"
 
-### Commonalities and differences with minimal music
+### ミニマル・ミュージックとの共通点と違い
 
-"Esja" is often introduced as minimal music.
+『Esja』はしばしばミニマル・ミュージックとして紹介されることがある。
 
-Indeed, the repetition of short phrases and the structure with a small number of notes have something in common with the minimal music that developed from the 1960s onwards.
+確かに、短いフレーズの反復や少ない音数による構成には、1960年代以降に発展したミニマル・ミュージックとの共通点が見られる。
 
-However, the ideas are not completely consistent.
+しかし、その発想は完全には一致しない。
 
-In early minimal music, regular repetitions, phase changes, and the rhythmic structure itself were often central to the work.
+初期のミニマル・ミュージックでは、規則的な反復や位相の変化、リズム構造そのものが作品の中心となることが多かった。
 
-On the other hand, in Hania Rani's works, the subject matter is not repetition itself, but the changes in emotion and space that occur during that repetition.
+一方、Hania Raniの作品では、反復そのものではなく、その反復の中で生まれる感情や空間の変化が主題となっている。
 
-Even if the same chord is repeated,
+同じ和音が繰り返されていても、
 
 演奏の重心、
 
-pedal length,
+ペダルの長さ、
 
 slight changes in volume,
 
-During breathing,
+呼吸の間、
 
-Due to the reverberation of the recording space,
+録音空間の残響によって、
 
 The impression that listeners receive changes little by little.
 
-As a result, the music is not mechanically repetitive, but gives a strong sense of human physicality.
+そのため、機械的な反復ではなく、人間の身体性を強く感じさせる音楽となっている。
 
-### Silence is also part of music
+### 沈黙も音楽の一部
 
 When listening to Hania Rani's work,
 
-"Time when nothing is ringing"
+「何も鳴っていない時間」
 
-I notice that there are a lot of
+が非常に多いことに気付く。
 
 But that silence is not empty.
 
-The echo of the sound that rang just before,
+直前に鳴った音の余韻、
 
-The reverberations that remain in the hall and studio,
+ホールやスタジオに残る残響、
 
-Expectations for the next sound,
+次の音への期待、
 
-performer's breathing.
+the performer's breathing.
 
 これらすべてが音楽として設計されている。
 
 In classical music, rests are symbols on the score.
 
-But in Hania Rani's work,
+しかしHania Raniの作品では、
 
 It also feels like the rest itself is treated as a single tone.
 
 This idea is also common to contemporary music and sound art from the latter half of the 20th century onwards.
 
-### Creation of recording
+### 録音という創作
 
-In classical music,
+クラシック音楽では、
 
-The performance is completed,
+演奏が完成し、
 
-The general idea was that a recording was a record of that.
+録音はその記録であるという考え方が一般的だった。
 
 But in modern times,
 
@@ -600,35 +600,35 @@ The recording itself becomes part of the creation.
 
 Hania Rani also
 
-recording environment,
+録音環境、
 
-microphone distance,
+マイクの距離、
 
-reverberation,
+残響、
 
-The feeling of air,
+空気感、
 
-sound field design
+音場設計
 
-The work has been completed including.
+まで含めて作品を完成させている。
 
-Therefore, live and in the studio,
+そのためライブとスタジオでは、
 
-Even though it's the same song, the impression is slightly different.
+同じ曲でも印象が少し異なる。
 
-This is more important than reproducibility.
+これは再現性よりも、
 
-This is also because we place emphasis on the sound that can only be created on the spot.
+その場でしか生まれない音響を重視しているためでもある。
 
 <div class="mermaid">
 graph TD
 
-A["Performance"] --> B["recording"]
+A["演奏"] --> B["recording"]
 B --> C["残響"]
-B --> D["space"]
+B --> D["空間"]
 B --> E["Volume design"]
 
-C --> F["The whole work"]
+C --> F["作品全体"]
 D --> F
 E --> F
 
@@ -636,23 +636,23 @@ F --> G["Hania Raniの音楽世界"]
 
 </div>
 
-### Balance between improvisation and design
+### 即興と設計のバランス
 
 Hania Rani also has a keen interest in improvisation.
 
-however,
+ただし、
 
-Rather than completely free improvisation,
+完全な自由即興ではなく、
 
-Within the framework designed as a work,
+作品として設計された枠組みの中で、
 
-Creating subtle changes with each performance.
+演奏ごとに細かな変化を生み出していく。
 
-Even the same song
+同じ楽曲でも、
 
-tempo,
+テンポ、
 
-strength, weakness
+強弱、
 
 Between,
 
@@ -660,117 +660,117 @@ sound
 
 etc. may differ depending on the live performance.
 
-This flexibility
+この柔軟性が、
 
-This is one of the reasons why no matter how many times I listen to a piece of music, I find new discoveries.
+作品を何度聴いても新しい発見につながる理由の一つとなっている。
 
-> Hania Rani's works are comprehensive musical expressions that are completed only when composition, performance, recording, and spatial design all come together.
+> Hania Raniの作品は、作曲・演奏・録音・空間設計のすべてが一体となって初めて完成する総合的な音楽表現である。
 
 ---
 
-## "Home"──Incorporating the concept of space into music
+## 『Home』──空間という概念を音楽へ取り込む
 
-### Birth of second album
+### セカンドアルバムの誕生
 
-"Home", released in 2020, is a work that further develops the musical world built with "Esja".
+2020年に発表された『Home』は、『Esja』で築いた音楽世界をさらに発展させた作品である。
 
-"Home" as the album title indicates,
+アルバムタイトルが示す「Home」は、
 
-It does not simply mean a house or residence.
+単純に家や住居だけを意味しているわけではない。
 
-A place where people feel safe,
+人が安心できる場所、
 
-memory,
+記憶、
 
-sense of belonging,
+帰属意識、
 
-time,
+時間、
 
-landscape,
+風景、
 
-心理的な居場所。
+psychological place.
 
-The title evokes such multilayered meanings.
+そうした多層的な意味を想起させるタイトルとなっている。
 
 Because it was produced and released at a time when the global social environment was undergoing major changes, many listeners received the work while emphasizing their own "Home."
 
-### Expansion to vocal expression
+### ボーカル表現への広がり
 
-In "Esja", the piano was the main focus, but
+『Esja』ではピアノが中心だったが、
 
-""Home'' actively incorporates singing voices.
+『Home』では歌声も積極的に取り入れられている。
 
-however,
+ただし、
 
-一般的なポップソングのように、
+Like a typical pop song,
 
-The songs don't come to the forefront.
+歌が前面へ出るわけではない。
 
-The voice is also treated as an instrument,
+声もまた一つの楽器として扱われ、
 
-piano,
+ピアノ、
 
-synthesizer,
+シンセサイザー、
 
 environmental sounds,
 
-electronic sound
+電子音響
 
-are placed at the same level.
+と同じレベルで配置されている。
 
-Rather than conveying the lyrics,
+歌詞を伝えることよりも、
 
-It is characterized by its emphasis on the texture and sound of the voice itself.
+声そのものの質感や響きが重視されている点が特徴である。
 
-### Sound layers
+### 音のレイヤー
 
 In "Home",
 
-There are many three-dimensional sounds that cannot be created with just one piano.
+一台のピアノだけでは作れない立体的なサウンドが数多く登場する。
 
-Synthesizers overlap thinly,
+シンセサイザーが薄く重なり、
 
 環境音が背景を支え、
 
-The vocals are placed like a distant view.
+ボーカルが遠景のように配置される。
 
 but,
 
-Nothing is overstated.
+どれも過剰には主張しない。
 
-Although each one is modest,
+一つひとつは控えめでありながら、
 
-By overlapping, they form a deep space.
+重なり合うことで深い空間を形成している。
 
 This is a feature that is also shared with contemporary ambient works.
 
-### An experience that goes beyond hearing
+### 聴覚だけではない体験
 
-When listening to "Home",
+『Home』を聴いていると、
 
-Rather than listening to music,
+音楽を聴いているというより、
 
-It feels like you are entering a single space.
+一つの空間の中へ入っていくような感覚になる。
 
-This is due to the very careful frequency balance and reverberation design.
+これは周波数バランスや残響設計が非常に丁寧であるためである。
 
-Not only does the sound spread to the left and right,
+音が左右へ広がるだけではなく、
 
-The recording allows you to feel the front, back, and depth.
+前後や奥行きまで感じられる録音となっている。
 
-Therefore, headphones and speakers
+そのためヘッドホンとスピーカーでは、
 
-The impression of the work also changes slightly.
+作品の印象も少し変化する。
 
-### Story told throughout the album
+### アルバム全体で描かれる物語
 
-"Home" is
+『Home』は、
 
-Not only the perfection of each song,
+一曲ごとの完成度だけではなく、
 
-It is a work whose original structure can be seen by listening to the album as a whole.
+アルバム全体を通して聴くことで本来の構造が見えてくる作品である。
 
-From quiet beginnings,
+静かな始まりから、
 
 The scenery changes little by little,
 
@@ -778,7 +778,7 @@ The silence returns again.
 
 この流れは、
 
-It can be said that the composition is similar to that of a movie or stage production.
+映画や舞台作品にも近い構成と言える。
 
 <div class="mermaid">
 graph LR
@@ -787,288 +787,288 @@ A["Home"]
 
 A --> B["piano"]
 A --> C["vocal"]
-A --> D["Electronic sound"]
+A --> D["electronic sound"]
 A --> E["Environmental sounds"]
 
-B --> F["Spatial expression"]
+B --> F["空間表現"]
 C --> F
 D --> F
 E --> F
 
-F --> G["The story of the whole album"]
+F --> G["アルバム全体の物語"]
 
 </div>
 
-> In ""Home'', the entire album is designed as a spatial work, rather than a single song.
+> 『Home』では、楽曲単体ではなくアルバム全体が一つの空間作品として設計されている。
 
 ---
 
 ## 『Ghosts』──表現領域のさらなる拡張
 
-### New direction shown in the third work
+### 三作目で見せた新たな方向性
 
 With Ghosts, released in 2023, Hania Rani's musical expression expanded into even broader areas.
 
-Although his focus on the piano remains the same,
+ピアノを核とする姿勢は変わらないものの、
 
-ボーカル、
+vocal,
 
 synthesizer,
 
-electronic processing,
+電子処理、
 
 オーケストレーション、
 
 Multiple recording environments
 
-Various elements such as these are being used more actively.
+など、多様な要素がより積極的に用いられている。
 
-The work as a whole is
+作品全体としては、
 
-Its character as an ""acoustic work'' has become stronger than ever.
+これまで以上に「音響作品」としての性格が強まった。
 
-### 「Ghosts」が示すもの
+### What "Ghosts" represents
 
-The title "Ghosts" is
+タイトルの「Ghosts」は、
 
 It does not explain any particular story.
 
-Rather,
+むしろ、
 
-memory,
+記憶、
 
 afterimage,
 
-time,
+時間、
 
-traces of existence,
+存在の痕跡、
 
-An invisible sign
+見えない気配
 
 といった曖昧な概念を連想させる。
 
-The whole album,
+アルバム全体でも、
 
-Rather than providing a clear answer,
+はっきりと答えを提示するのではなく、
 
 聴き手自身が自由に意味を見いだせる余白が残されている。
 
 ### A wider world of tones
 
-In Ghosts,
+『Ghosts』では、
 
-Not only acoustic piano,
+アコースティック・ピアノだけでなく、
 
 Electronics and vocals play a more important role than ever before.
 
 Still, at the heart of
 
-It is silence and blank space.
+静けさと余白である。
 
-The purpose is not to increase the sound,
+音を増やすことが目的ではなく、
 
-By adding tones only at the moment of need,
+必要な瞬間だけ音色を加えることで、
 
 This expands the depth of the entire work.
 
-This sense of balance is
+こうしたバランス感覚は、
 
-This can be said to be Hania Rani's creative attitude that has continued since her early works.
+初期作品から一貫して続くHania Raniの創作姿勢と言える。
 
-> ""Ghosts"' is a work that further expands on the musical idiom that she has built up to that point and marks a new stage in Hania Rani"s creative world.
+> 『Ghosts』は、それまで築いてきた音楽語法をさらに拡張し、Hania Raniの創作世界が新たな段階へ進んだことを示す作品となった。
 
 ---
 
-## Development into film music and video works
+## 映画音楽・映像作品への展開
 
-### Affinity between video and music
+### 映像と音楽の親和性
 
-Hania Rani's music has a deep affinity not only with albums but also with movies and video works.
+Hania Raniの音楽は、アルバム作品だけではなく映画や映像作品とも深い親和性を持っている。
 
-The reason for this is that her songs do not directly explain the story, but rather leave "space for emotions to move."
+その理由は、彼女の楽曲が物語を直接説明するのではなく、「感情が動く余白」を残しているためである。
 
-In film music, if the music stands out more than the visuals, the overall balance of the work may be lost.
+映画音楽では、映像よりも音楽が目立ってしまうと作品全体のバランスが崩れることがある。
 
-On the other hand, if the music is too subdued, it won't be able to adequately support the atmosphere of the scene.
+一方で音楽が控えめすぎれば、場面の空気を十分に支えられない。
 
-Hania Rani's style lies somewhere in between.
+Hania Raniの作風は、その中間に位置している。
 
 旋律は必要以上に主張せず、それでいて場面全体の空気を静かに支える。
 
-Therefore, it is highly compatible with video works.
+そのため映像作品との相性が非常に高い。
 
-### Participation in film music
+### 映画音楽への参加
 
-Hania Rani has also been involved in producing music for films and video projects.
+Hania Raniは映画作品や映像プロジェクトのための音楽制作にも携わってきた。
 
-Film music requires a different way of thinking than album production.
+映画音楽では、アルバム制作とは異なる発想が求められる。
 
-The music itself takes center stage on the album.
+アルバムでは音楽そのものが主役となる。
 
-However, in movies, music plays a role that supports the story along with images.
+しかし映画では、音楽は映像とともに物語を支える役割を担う。
 
-Therefore,
+そのため、
 
-the emotions of the characters,
+登場人物の感情、
 
-video tempo,
+映像のテンポ、
 
-editing rhythm,
+編集のリズム、
 
-scene change,
+場面転換、
 
-length of silence
+沈黙の長さ
 
 など、多くの要素を考慮しながら作曲が進められる。
 
-These experiences also influence Hania Rani's overall work.
+こうした経験は、Hania Raniの作品全体にも影響を与えている。
 
 近年のアルバムでは、一曲ごとというよりも「一本の映画」を思わせるような構成がより明確になっている。
 
-### Compatibility with documentaries
+### ドキュメンタリーとの相性
 
 Hania Raniの音楽は、自然や建築、都市、文化を扱うドキュメンタリーとも相性が良い。
 
-Rather than flashy emotional expressions,
+派手な感情表現ではなく、
 
-observation,
+観察、
 
-sense of distance,
+距離感、
 
-quiet time,
+静かな時間、
 
-air flow
+空気の流れ
 
-This is because he is good at drawing.
+を描くことに長けているためである。
 
-For this reason, it has received high praise from filmmakers.
+そのため映像作家からも高い評価を受けている。
 
-### Connection with performing arts
+### 舞台芸術との接点
 
-Not only images,
+映像だけではなく、
 
-Collaborative production with performing arts and installations is also active in contemporary Europe.
+舞台芸術やインスタレーションとの共同制作も現代ヨーロッパでは活発に行われている。
 
-Lighting on stage,
+舞台では照明、
 
 space,
 
 distance from the audience,
 
-body expression
+身体表現
 
-etc. are closely related to music.
+などが音楽と密接に関わる。
 
-Hania Rani's music is highly compatible with these art forms, as it emphasizes spatiality over tempo.
+Hania Raniの音楽は、テンポよりも空間性を重視するため、こうした芸術形式との相性も非常に高い。
 
 <div class="mermaid">
 graph TD
 
 A["Hania Rani"]
 
-A --> B["album"]
-A --> C["Film music"]
-A --> D["Performing Arts"]
-A --> E["Video work"]
+A --> B["アルバム"]
+A --> C["映画音楽"]
+A --> D["舞台芸術"]
+A --> E["映像作品"]
 
-B --> F["Narrative"]
+B --> F["物語性"]
 C --> F
 D --> F
 E --> F
 
-F --> G["Music that creates space"]
+F --> G["空間を作る音楽"]
 
 </div>
 
-### From "listening" to "experiencing" music
+### 「聴く」から「体験する」音楽へ
 
-In traditional classical music,
+従来のクラシック音楽では、
 
-The focus was on appreciating the performance itself.
+演奏そのものを鑑賞することが中心だった。
 
-But in modern times,
+しかし現代では、
 
-illumination,
+照明、
 
-picture,
+映像、
 
 acoustic,
 
 architecture,
 
-Direction
+演出
 
-There are more and more opportunities to think of this as a single piece of work.
+まで含めて一つの作品と考える機会が増えている。
 
-Even at Hania Rani's live performance,
+Hania Raniのライブでも、
 
-Stage design and lighting play as important a role as the performance.
+ステージデザインや照明は演奏と同じくらい重要な役割を担っている。
 
-Not just the sound,
+音だけではなく、
 
-The entire space is designed as a work of art.
+空間全体が作品として設計されているのである。
 
-> Hania Rani has expanded her range of expression from "music to listen to" to "music to experience" through collaboration with movies and theater.
+> Hania Raniは映画や舞台との協働を通して、「聴く音楽」から「体験する音楽」へと表現の幅を広げていった。
 
 ---
 
-## A unique space created by live performance
+## ライブパフォーマンスが生み出す唯一無二の空間
 
-### Different charm from studio works
+### スタジオ作品とは異なる魅力
 
-The recordings are meticulously designed down to the last detail.
+録音作品は細部まで緻密に設計されている。
 
 On the other hand, live
 
-the atmosphere of that day,
+その日の空気、
 
 ホールの響き、
 
-audience concentration,
+観客の集中力、
 
-the performer's own condition
+演奏者自身の状態
 
-The work changes little by little.
+によって作品が少しずつ変化していく。
 
-Hania Rani performs live.
+Hania Raniはライブにおいて、
 
-Rather than simply reproducing the work,
+作品を単純に再現するのではなく、
 
 It grows into a new form on the spot.
 
-Even when playing the same song, they often show different expressions each time.
+同じ楽曲でも毎回異なる表情を見せることが多い。
 
-### Performance using multiple keyboard instruments
+### 複数の鍵盤楽器を用いた演奏
 
-At the live,
+ライブでは、
 
 Not only acoustic piano,
 
-synthesizer,
+シンセサイザー、
 
-electric piano,
+エレクトリックピアノ、
 
 sampler,
 
-effects equipment
+エフェクト機器
 
-etc. may be combined.
+などを組み合わせることがある。
 
-however,
+ただし、
 
-It is rare to layer a large amount of electronic sound.
+電子音響を大量に重ねることは少ない。
 
-With the minimum necessary tone,
+必要最小限の音色によって、
 
-It creates a natural expanse.
+自然な広がりを作り出している。
 
-Silence like a classical concert,
+クラシック演奏会のような静けさと、
 
-It is characterized by the simultaneous presence of the freedom of contemporary electronic music.
+現代電子音楽の自由さが同時に存在する点が特徴である。
 
-### Space construction using loops
+### ループを用いた空間構築
 
-Looping technology is also used during live performances.
+ライブではループ技術も活用される。
 
 演奏したフレーズをその場で重ねることで、
 
@@ -1076,39 +1076,39 @@ Even one person can create multi-layered sounds.
 
 しかし、
 
-The loop itself is rarely noticeable.
+ループそのものを目立たせることは少ない。
 
 It is used solely as a method to support the overall flow of music.
 
-### Quiet dialogue with the audience
+### 観客との静かな対話
 
-At Hania Rani's live performance,
+Hania Raniのライブでは、
 
 Rather than cheers and big performances,
 
-Quiet concentration often dominates the entire space.
+静かな集中が空間全体を支配することが多い。
 
-The sound of the small piano spreads throughout the venue,
+小さなピアノの音が会場全体へ広がるため、
 
 Each audience member feels as if they are participating in the creation of the work.
 
 This tension is
 
-A classical concert,
+クラシックコンサートとも、
 
-It"s a unique experience that"s different from pop live shows.
+ポップスのライブとも異なる独特の体験となっている。
 
 <div class="mermaid">
 graph LR
 
-A["Live"]
+A["ライブ"]
 
-A --> B["piano"]
-A --> C["synthesizer"]
+A --> B["ピアノ"]
+A --> C["シンセサイザー"]
 A --> D["loop"]
 A --> E["Improvisation"]
 
-B --> F["space"]
+B --> F["空間"]
 C --> F
 D --> F
 E --> F
@@ -1121,222 +1121,222 @@ F --> G["A different performance every time"]
 
 Since the start of solo activities,
 
-Hania Rani continues to perform in various countries, mainly in Europe.
+Hania Raniはヨーロッパを中心に各国で演奏活動を続けている。
 
-theater,
+劇場、
 
-concert hall,
+コンサートホール、
 
 music festival,
 
-cultural facilities
+文化施設
 
-Performances were held at various venues such as
+など、多様な会場で公演を行い、
 
-Not just for classical music fans,
+クラシックファンだけではなく、
 
-ambient,
+アンビエント、
 
-jazz,
+ジャズ、
 
-contemporary music,
+現代音楽、
 
-It is also gaining support from electronic music listeners.
+電子音楽のリスナーからも支持を集めている。
 
-Our activity style is not limited to any genre,
+ジャンルを限定しない活動スタイルは、
 
-It can be said to be one of the characteristics that symbolize modern European music.
+現代ヨーロッパ音楽を象徴する特徴の一つとも言える。
 
-> Each live performance creates a different space, and the unique musical experience of that moment further enhances the value of the work.
+> ライブでは毎回異なる空間が生まれ、その瞬間だけの音楽体験が作品の価値をさらに高めている。
 
 ---
 
-## Hania Rani's musical structure from the perspective of composition techniques
+## 作曲技法から見るHania Raniの音楽構造
 
-### Music that spreads from simple materials
+### シンプルな素材から広がる音楽
 
-If you look at Hania Rani's works only in terms of sheet music,
+Hania Raniの作品を楽譜だけで見ると、
 
-They are often composed of surprisingly simple motifs.
+驚くほどシンプルなモチーフで構成されていることが多い。
 
-short melody,
+短い旋律、
 
-limited chord progressions,
+限られたコード進行、
 
-repeated rhythm.
+繰り返されるリズム。
 
 しかし、
 
-When playing, a rich three-dimensional effect appears.
+演奏になると豊かな立体感が現れる。
 
-this is,
+これは、
 
-Rather than the complexity of the configuration,
+構成の複雑さではなく、
 
-This is because he develops his work depending on how he uses his time.
+時間の使い方によって作品を発展させているためである。
 
 ### 音色が旋律以上の役割を持つ
 
-In general classical works,
+一般的なクラシック作品では、
 
-The focus is on melody and harmony.
+旋律や和声が中心となる。
 
-On the other hand, Hania Rani
+一方でHania Raniは、
 
-Treat the tone itself like a melody.
+音色そのものを一つの旋律のように扱う。
 
-Even if the pitch is the same,
+同じ音高であっても、
 
-Different touches and pedals create completely different impressions.
+タッチやペダルの違いによって全く異なる印象を生み出す。
 
-Therefore,
+そのため、
 
-"What should I play?"
+「何を弾くか」
 
-More than that,
+以上に、
 
-"How do you sound?"
+「どう鳴らすか」
 
-becomes important.
+が重要となる。
 
-### Composition that designs the flow of time
+### 時間の流れを設計する作曲
 
 作品全体を通して見ると、
 
-There are few rapid developments.
+急激な展開は少ない。
 
-instead,
+代わりに、
 
-The scenery changes little by little.
+少しずつ景色が変化していく。
 
-This structure is similar to movies and natural scenes.
+これは映画や自然風景にも似た構造である。
 
-Like the sky changing from morning to evening,
+朝から夕方へ移り変わる空のように、
 
-Although changes are gradual,
+変化は緩やかでありながら、
 
-In the end, we arrive at a completely different landscape.
+最終的にはまったく違う景色へ到達している。
 
-### The idea of ​​composing a space
+### 空間を作曲するという発想
 
-In recent years,
+近年では、
 
-"Spatial music"
+「空間音楽」
 
 という言葉が使われることもある。
 
-Hania Rani's works are also
+Hania Raniの作品も、
 
-Not just a melody,
+単なるメロディではなく、
 
-We are designing the very space in which sound exists.
+音が存在する空間そのものを設計している。
 
-reverberation,
+残響、
 
-distance,
+距離、
 
-Silence,
+静寂、
 
-margin.
+余白。
 
-All of them are subject to composition.
+それらすべてが作曲の対象となっているのである。
 
-> Hania Rani's compositional method can be said to be a modern musical philosophy that focuses more on ""designing time and space'' than writing melodies.
+> Hania Raniの作曲法は、旋律を書くこと以上に「時間と空間を設計すること」を中心に据えた現代的な音楽思想といえる。
 
 ---
 
-## Hania Rani and trends in contemporary music
+## Hania Raniと現代音楽の潮流
 
-### How has classical music changed in the 21st century?
+### 21世紀のクラシックはどのように変化したのか
 
 20世紀までのクラシック音楽では、演奏会場で作品を演奏することが活動の中心であった。
 
-On the other hand, in the 21st century, the way works are delivered has changed significantly due to advances in recording technology and the distribution environment.
+一方、21世紀に入ると、録音技術や配信環境の発達によって、作品の届け方そのものが大きく変化した。
 
-Composers and performers can perform not only in concert halls, but also in concert halls.
+作曲家や演奏家は、コンサートホールだけでなく、
 
-* Distribution platform
-* movie
+* 配信プラットフォーム
+* 映画
 * ドキュメンタリー
-* Performing arts
-* Installation
-* Museum of Contemporary Art
+* 舞台芸術
+* インスタレーション
+* 現代美術館
 
-He began presenting his works in a variety of places, including
+など、多様な場所で作品を発表するようになった。
 
-Hania Rani is also one of the musicians who symbolize this new era.
+Hania Raniも、この新しい時代を象徴する音楽家の一人である。
 
-Although she received a classical education, she did not limit her expression to traditional concerts.
+彼女はクラシックの教育を受けながらも、その表現を伝統的な演奏会だけに限定しなかった。
 
-He is building a consistent musical world while crossing over recording works, live performances, video works, and collaborative productions.
+録音作品、ライブ、映像作品、共同制作を横断しながら、一貫した音楽世界を築いている。
 
-### An era that transcends genre boundaries
+### ジャンルという境界を越える時代
 
-In the 20th century,
+20世紀には、
 
 classic,
 
-jazz,
+ジャズ、
 
-rock,
+ロック、
 
-electronic music,
+電子音楽、
 
 現代音楽
 
-Genres were often clearly divided.
+といったジャンルが明確に区分されることが多かった。
 
 しかし現在では、その境界は以前ほど明確ではない。
 
-Hania Rani's works are also
+Hania Raniの作品も、
 
-Based on classical performance techniques,
+クラシックの演奏技法を土台としながら、
 
-ambient spatiality,
+アンビエントの空間性、
 
-acoustic design of electronic music,
+電子音楽の音響設計、
 
-the narrative nature of film music,
+映画音楽の物語性、
 
-Experimentality in contemporary music
+現代音楽の実験性
 
-is incorporated naturally.
+を自然に取り込んでいる。
 
-Therefore, it cannot be explained by just one genre.
+そのため、一つのジャンルだけでは説明しきれない。
 
-In fact, it can be said that the expression ""contemporary musician'' is closer to the reality.
+むしろ、「現代の音楽家」という表現の方が実態に近いと言える。
 
 ### Distribution era and quiet music
 
-The proliferation of streaming services has made it easier to access music from all over the world.
+The spread of streaming services has made it easier to access music from all over the world.
 
-On the other hand,
+その一方で、
 
 volume competition,
 
 A flashy development,
 
-Composition that leaves an impression in a short time
+短時間で印象を残す構成
 
-etc. also increased.
+なども増えていった。
 
-Hania Rani's work stands in contrast to this trend.
+Hania Raniの作品は、そうした流れとは対照的である。
 
-Rather than a sudden upsurge,
+急激な盛り上がりよりも、
 
 Develop slowly over time,
 
-The premise is to listen with concentration.
+集中して聴くことを前提としている。
 
 Despite this, it is gaining support around the world.
 
-It shows that modern listeners find value in quieter works as well.
+現代のリスナーが静かな作品にも価値を見いだしていることを示している。
 
 <div class="mermaid">
 graph TD
 
 A["Classic"] --> E["Hania Rani"]
-B["Ambient"] --> E
+B["アンビエント"] --> E
 C["電子音楽"] --> E
 D["Film music"] --> E
 F["現代芸術"] --> E
@@ -1345,29 +1345,29 @@ E --> G["21st Century Musical Expression"]
 
 </div>
 
-> Hania Rani is positioned as a symbol of 21st century music culture that crosses genres.
+> Hania Raniは、ジャンルを横断する21世紀の音楽文化を象徴する存在として位置付けられる。
 
 ---
 
-## Uniqueness seen in comparison with contemporary musicians
+## 同時代の音楽家との比較から見える独自性
 
-### Expansion of contemporary piano works
+### 現代ピアノ作品の広がり
 
-Contemporary piano works in the 21st century continue to explore new sonic expressions while respecting classical tradition.
+21世紀の現代ピアノ作品では、クラシックの伝統を尊重しながら、新しい音響表現を模索する動きが続いている。
 
-Hania Rani falls within this trend, but her music has a distinct personality.
+Hania Raniもその流れの中に位置付けられるが、その音楽には明確な個性がある。
 
-it is,
+それは、
 
-It's not a competition of skill,
+技巧を競うことではなく、
 
-The emphasis is on deepening the presence of the sound itself.
+音そのものの存在感を深めることに重点を置いている点である。
 
-The attitude of portraying a rich world with a small number of sounds permeates all of her works.
+少ない音数で豊かな世界を描き出す姿勢は、彼女の作品全体を貫いている。
 
-### Boundary between composer and performer
+### 作曲家と演奏家の境界
 
-In classical music,
+クラシック音楽では、
 
 A composer writes a work,
 
@@ -1375,39 +1375,39 @@ For a long time, the roles of musicians playing the music have been divided.
 
 However, in recent years,
 
-Composed by himself,
+自ら作曲し、
 
-played by himself,
+自ら演奏し、
 
-An increasing number of musicians are also involved in recording.
+録音にも関わる音楽家が増えている。
 
-Hania Rani is one of them.
+Hania Raniもその一人である。
 
-By being involved throughout the process from the creation of the work to its completion,
+作品が生まれる段階から完成するまで、一貫して自身が関与することで、
 
-He creates music with both performance and recording in mind.
+演奏と録音の双方を視野に入れた音楽づくりを実現している。
 
-### Density, not number of notes
+### 音数ではなく密度
 
 一見するとシンプルな作品ほど、
 
-It's difficult to actually play.
+実際に演奏することは難しい。
 
-A slight fluctuation in tempo,
+わずかなテンポの揺れ、
 
-touch,
+タッチ、
 
-pedal,
+ペダル、
 
-This is because the difference in volume affects the entire work.
+音量の違いが作品全体を左右するためである。
 
-Hania Rani's performance is
+Hania Raniの演奏は、
 
 多くの音を並べることで感情を表現するのではなく、
 
-The work is made up of the density of each note.
+一音ごとの密度によって作品を成立させている。
 
-### Interpretation left to the listener
+### 聴き手へ委ねられる解釈
 
 彼女の作品には、
 
@@ -1415,36 +1415,36 @@ The work is made up of the density of each note.
 
 代わりに、
 
-The listener himself
+聴き手自身が、
 
 landscape,
 
-memory,
+記憶、
 
-time,
+時間、
 
-emotions
+感情
 
-can be freely superimposed.
+を自由に重ね合わせることができる。
 
-This open structure is one of the reasons why it is accepted across countries and cultures.
+この開かれた構造が、国や文化を越えて受け入れられている理由の一つとなっている。
 
-> Hania Rani"s works value a space where the listener can freely find meaning, rather than the performer"s self-expression.
+> Hania Raniの作品は、演奏者の自己表現よりも、聴き手が自由に意味を見いだせる空間を大切にしている。
 
 ---
 
-## Chronology
+## 年表
 
-| Year | Events |
+| 年      | 出来事                               |
 | ------ | --------------------------------- |
-| 1990 | Born in Gdańsk, Poland.                 |
-| Childhood | Started playing the piano and received classical education at a music school.          |
-| Student days | Studied music in Warsaw, then furthered his studies in Berlin.       |
-| 2010s | Started activities as a member of the duo "Tęskno".         |
+| 1990   | ポーランド・グダニスクで生まれる。                 |
+| 幼少期    | ピアノを始め、音楽学校でクラシック教育を受ける。          |
+| 学生時代   | ワルシャワで音楽を学び、その後ベルリンでも研鑽を積む。       |
+| 2010年代 | デュオ「Tęskno」のメンバーとして活動を開始。         |
 | 2019   | ソロアルバム『Esja』を発表。                  |
-| 2020 | Album "Home" released.                    |
+| 2020   | アルバム『Home』を発表。                    |
 | 2023 | Album "Ghosts" released.                  |
-| 2020s | Developing activities in a wide range of fields including film music, video works, and international live activities. |
+| 2020年代 | 映画音楽、映像作品、国際的なライブ活動など幅広い分野で活動を展開。 |
 
 > Hania Rani's journey has been a process of expanding her expression to contemporary music while building on her classical education.
 
@@ -1455,23 +1455,23 @@ This open structure is one of the reasons why it is accepted across countries an
 <div class="mermaid">
 graph LR
 
-A["Classical Education"]
+A["クラシック教育"]
 
 A --> B["Piano performance"]
-A --> C["Composition"]
+A --> C["作曲"]
 
-B --> D["Live"]
+B --> D["ライブ"]
 C --> E["録音制作"]
 
-D --> F["Improvisation"]
-E --> G["Acoustic Design"]
+D --> F["即興"]
+E --> G["音響設計"]
 
-F --> H["the work"]
+F --> H["作品"]
 G --> H
 
-H --> I["movie"]
-H --> J["stage"]
-H --> K["album"]
+H --> I["映画"]
+H --> J["舞台"]
+H --> K["アルバム"]
 H --> L["Modern art"]
 
 </div>
@@ -1480,155 +1480,155 @@ H --> L["Modern art"]
 
 ---
 
-## Organizing musical characteristics
+## 音楽的特徴の整理
 
 <div class="mermaid">
 graph TD
 
 A["Hania Rani"]
 
-A --> B["piano"]
-A --> C["Ambient"]
-A --> D["Electronic sound"]
-A --> E["vocal"]
-A --> F["Film music"]
+A --> B["ピアノ"]
+A --> C["アンビエント"]
+A --> D["electronic sound"]
+A --> E["ボーカル"]
+A --> F["映画音楽"]
 
-B --> G["Silence"]
+B --> G["静寂"]
 C --> G
 D --> G
 E --> G
 F --> G
 
-G --> H["Music that composes space"]
+G --> H["空間を作曲する音楽"]
 
 </div>
 
-> By integrating the elements of timbre, white space, time and space, Hania Rani creates a unique musical world.
+> 音色、余白、時間、空間という要素を統合することで、Hania Raniは独自の音楽世界を築き上げている。
 
 ---
 
 ## Hania Raniが現代音楽にもたらしたもの
 
-### An existence that re-presented the value of "quiet music"
+### 「静かな音楽」の価値を再提示した存在
 
-The reason Hania Rani received worldwide acclaim was not simply because she wrote beautiful piano pieces.
+Hania Raniが世界的な評価を受けた理由は、単に美しいピアノ作品を書いたからではない。
 
-What she presented was the value that ""quiet music is not small music.''
+彼女が提示したのは、「静かな音楽は小さな音楽ではない」という価値観である。
 
-In popular music since the latter half of the 20th century, the volume, speed, and amount of information often influenced the impression of the work.
+20世紀後半以降のポピュラー音楽では、音量、速度、情報量の多さが作品の印象を左右する場面も少なくなかった。
 
-On the other hand, Hania Rani emphasized the presence of the sound itself by stripping it down to the bare essentials rather than increasing the amount of sound.
+一方でHania Raniは、音を増やすのではなく、必要最小限まで削ぎ落とすことで、音そのものの存在感を際立たせた。
 
-When a single note sounds, it leaves a lingering sound, and even the time to listen to that lingering sound is designed as part of the work.
+一音が鳴り、余韻が残り、その余韻を聴く時間までも作品の一部として設計する。
 
-This attitude has given many listeners an opportunity to reconsider the act of ""listening'' itself.
+その姿勢は、多くのリスナーに「聴く」という行為そのものを見直すきっかけを与えた。
 
 ### ジャンルを横断する新しい音楽家像
 
-Hania Rani's activities are not limited to one genre.
+Hania Raniの活動は、一つのジャンルに限定されない。
 
-Based on classical education,
+クラシック教育を基盤としながら、
 
 * Solo piano works
 * ボーカル作品
 * アンビエント
-*Electronic sound
-* Movie music
-*Stage work
-* Installation
+* 電子音響
+* 映画音楽
+* 舞台作品
+* インスタレーション
 
 など、多様な分野を横断している。
 
-However, they are not separate activities.
+しかし、それらは別々の活動ではない。
 
-What all of his works have in common is the idea of ​​""designing space with sound.''
+どの作品にも共通しているのは、「空間を音で設計する」という発想である。
 
 媒体が変わっても創作の核が変わらない点が、Hania Raniの大きな特徴である。
 
-### Natural coexistence with technology
+### テクノロジーとの自然な共存
 
-Digital technology has become indispensable in modern music production.
+現代の音楽制作では、デジタル技術は欠かせない存在となっている。
 
-But Hania Rani doesn't let technology take center stage.
+しかしHania Raniは、テクノロジーを主役にはしない。
 
-Recording technology and electronic acoustics are used only as a means to enrich the acoustic sound.
+録音技術や電子音響は、あくまでもアコースティックな響きを豊かにするための手段として用いられている。
 
-As a result, the entire work retains the natural breathing and fluctuations caused by the human performance.
+そのため作品全体には、人間の演奏による呼吸や揺らぎが自然に残されている。
 
-Rather than being in conflict with each other, digital and analog have been established as a complementary relationship.
+デジタルとアナログが対立するのではなく、互いを補完し合う関係として成立しているのである。
 
 <div class="mermaid">
 graph TD
 
-A["Classic"] --> E["Hania Rani"]
+A["クラシック"] --> E["Hania Rani"]
 B["電子音響"] --> E
-C["Film music"] --> E
-D["Modern art"] --> E
+C["映画音楽"] --> E
+D["現代芸術"] --> E
 
-E --> F["space"]
-E --> G["time"]
-E --> H["Silence"]
+E --> F["空間"]
+E --> G["時間"]
+E --> H["静寂"]
 
-F --> I["New musical expression"]
+F --> I["新しい音楽表現"]
 G --> I
 H --> I
 
 </div>
 
-> Hania Rani is a contemporary musician who has updated not just the genre, but the way music itself should be.
+> Hania Raniは、ジャンルではなく「音楽そのものの在り方」を更新した現代の音楽家である。
 
 ---
 
-## Impact on subsequent generations
+## 後続世代への影響
 
-### Expansion of contemporary piano works
+### 現代ピアノ作品の広がり
 
-Since the 2010s, many contemporary works centering on the piano have been released around the world.
+2010年代以降、世界各地でピアノを中心とした現代作品が数多く発表されている。
 
-Among them, Hania Rani's activities have had a considerable influence on young composers and performers.
+その中でもHania Raniの活動は、若い作曲家や演奏家に少なからず影響を与えている。
 
-Particularly noteworthy are the
+特に注目されているのは、
 
-A structure with a reduced number of sounds,
+音数を抑えた構成、
 
-Recording with an emphasis on space,
+空間を重視した録音、
 
-A fusion of live and improvisation,
+ライブと即興の融合、
 
 電子音響との自然な共存
 
-This is the idea.
+といった考え方である。
 
-This is spreading not only to classical music, but also to the fields of ambient and visual music.
+これはクラシック音楽だけではなく、アンビエントや映像音楽の分野にも広がっている。
 
-### A career that doesn't end with being a "performer"
+### 「演奏家」で終わらないキャリア
 
-Hania Rani is a composer as well as a performer, and is deeply involved in recording production.
+Hania Raniは、演奏家であると同時に作曲家であり、録音制作にも深く関わる。
 
-This comprehensive creative style symbolizes the image of a modern musician.
+このような総合的な創作スタイルは、現代の音楽家像を象徴している。
 
-His attitude of considering composition, performance, recording, and live production as a single process has become a new model for many young people.
+作曲、演奏、録音、ライブ演出を一つの流れとして考える姿勢は、多くの若い世代にとって新しいモデルとなっている。
 
-### Works that cross borders
+### 国境を越える作品
 
-There are few elements in her work that rely solely on a particular culture or language.
+彼女の作品には特定の文化や言語だけに依存する要素が少ない。
 
-This allows listeners around the world to listen to the work while combining their own experiences and memories.
+そのため世界中のリスナーが、それぞれの経験や記憶を重ね合わせながら作品を受け止めることができる。
 
-Silence and reverberation do not require language.
+静寂や余韻は言語を必要としない。
 
-This universality also leads to international support.
+こうした普遍性も、国際的な支持につながっている。
 
-> Hania Rani presents a new model for how contemporary musicians create and present their work to the world.
+> Hania Raniは、現代の音楽家がどのように創作し、世界へ作品を届けるかという新しいモデルを提示している。
 
 ---
 
-## History of Hania Rani's works
+## Hania Rani作品の変遷
 
 <div class="mermaid">
 graph LR
 
-A["Classical Education"]
+A["クラシック教育"]
 
 A --> B["Tęskno"]
 
@@ -1638,83 +1638,83 @@ C --> D["Home<br/>2020"]
 
 D --> E["Ghosts<br/>2023"]
 
-E --> F["Film music/stage works"]
+E --> F["映画音楽・舞台作品"]
 
-F --> G["Representative of contemporary music"]
+F --> G["現代音楽を代表する存在"]
 
 </div>
 
 ---
 
-## Development of musicality
+## 音楽性の発展
 
 <div class="mermaid">
 graph TD
 
-A["initial"]
+A["初期"]
 
-A --> B["Classical Piano"]
+A --> B["クラシックピアノ"]
 
-B --> C["Ambient"]
+B --> C["アンビエント"]
 
-C --> D["Electronic sound"]
+C --> D["電子音響"]
 
-D --> E["vocal"]
+D --> E["ボーカル"]
 
-E --> F["Film music"]
+E --> F["映画音楽"]
 
-F --> G["Comprehensive art"]
+F --> G["総合芸術"]
 
 </div>
 
-> Although he expands his range of expression with each successive activity, his creative philosophy of ""composing space'' remains unchanged.
+> 活動を重ねるごとに表現領域を広げながらも、「空間を作曲する」という創作理念は一貫して受け継がれている。
 
 ---
 
-## Discography
+## ディスコグラフィー
 
 ### Solo album
 
-| Release year | Title | Features |
+| 発表年  | タイトル     | 特徴                          |
 | ---- | -------- | --------------------------- |
-| 2019 | "Esja" | Solo debut work. Presenting a tranquil world view centered around the piano. |
-| 2020 | "Home" | Incorporates vocals and electronic sound to further develop spatial expression.  |
-| 2023 | "Ghosts" | A large-scale work that integrates sound, singing, and electronic processing.   |
+| 2019 | 『Esja』   | ソロデビュー作。ピアノを中心とした静謐な世界観を提示。 |
+| 2020 | 『Home』   | ボーカルや電子音響を取り入れ、空間表現をさらに発展。  |
+| 2023 | 『Ghosts』 | 音響・歌・電子処理を統合したスケールの大きな作品。   |
 
-### Main areas of activity
+### 主な活動分野
 
-| Field | Contents |
+| 分野    | 内容                 |
 | ----- | ------------------ |
-| Piano performance | Solo concerts and music festival appearances |
-| Composition | Solo works, collaborative productions |
-| Film music | Providing and composing music for movies and video works |
-| Performing Arts | Collaboration with stage works and installations |
-| Recording production | Deeply involved in the production of own works |
+| ピアノ演奏 | ソロコンサート、音楽祭への出演    |
+| 作曲    | ソロ作品、共同制作          |
+| 映画音楽  | 映画・映像作品への楽曲提供・作曲   |
+| 舞台芸術  | 舞台作品・インスタレーションとの協働 |
+| 録音制作  | 自身の作品制作に深く関与       |
 
-> Looking back on his discography, his range of expression has expanded with each work, but his emphasis on silence and space has remained the same.
+> ディスコグラフィーを振り返ると、作品ごとに表現領域は拡大しているが、静寂と空間を重視する姿勢は変わっていない。
 
 ---
 
-## summary
+## まとめ
 
-Hania Rani is a musician who actively incorporates modern methods of expression while inheriting the tradition of classical music.
+Hania Raniは、クラシック音楽の伝統を受け継ぎながら、現代ならではの表現方法を積極的に取り入れた音楽家である。
 
-Although her works center around the piano, she naturally fuses electronic acoustics, vocals, environmental sounds, and visual compositions to create new musical experiences.
+彼女の作品は、ピアノを中心に据えながらも、電子音響、ボーカル、環境音、映像的な構成を自然に融合させ、新しい音楽体験を生み出している。
 
 Its charm lies not in flashy technique or dramatic developments.
 
-His approach is to design the reverberation of a single note, its lingering sound, silence, space, all as music.
+一音の響き、余韻、沈黙、空間、そのすべてを音楽として設計する姿勢にある。
 
-That"s why the work takes on a different expression each time you listen to it, quietly connecting with each listener"s memories and emotions.
+だからこそ、作品は聴くたびに異なる表情を見せ、リスナーそれぞれの記憶や感情と静かに結び付いていく。
 
-Hania Rani's journey is a perfect example of how music in the 21st century transcends genres and forms and is expanding into a comprehensive art form.
+Hania Raniの歩みは、21世紀の音楽がジャンルや形式を越え、総合的な芸術へと広がっていることを示す好例でもある。
 
-His ability to maintain a consistent aesthetic while naturally crossing the boundaries between classical, ambient, electronic music, and film music can be said to be one of the important achievements in contemporary music.
+クラシック、アンビエント、電子音楽、映画音楽という境界を自然に横断しながら、一貫した美学を保ち続ける姿勢は、現代音楽における重要な到達点の一つといえる。
 
 The world of expression will continue to expand through new works and collaborative productions.
 
-Hania Rani's music, which finds infinite depth in silence, will continue to bring new listening experiences to many people.
+静けさの中に無限の奥行きを見いだすHania Raniの音楽は、これからも多くの人々に新しい「聴く体験」をもたらし続けるはずである。
 
-> Hania Rani's music has shown new possibilities in contemporary music by making time, space, and silence itself the subject of creation, rather than just melodies and techniques.
+> Hania Raniの音楽は、旋律や技巧だけではなく、時間・空間・静寂そのものを創作の対象とすることで、現代音楽に新たな可能性を示した。
 
 ---

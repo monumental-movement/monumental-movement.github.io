@@ -10,25 +10,24 @@ tags:
 - Music
 - Opera
 - History
-title: '[Column] Francis Bacon and music: an auditory experience to depict extreme
-  emotions'
+title: 【コラム】 フランシス・ベーコンと音楽──極限の感情を描くための聴覚体験
 ---
 
 
 
-## An abnormal space called a studio surrounded by music
+## 音楽に包まれたスタジオという異常空間
 
-Text: mmr｜Theme: The deep structure of creation built through music and anecdotes by a painter who pursues the limits of emotion
+文：mmr｜テーマ：感情の極限を追う画家が、音楽と逸話を通して構築した創作の深層構造
 
-Francis Bacon's studio was more than just a production location. It was a space almost like a ""laboratory'' where visual and auditory senses intermingled.
+Francis Bacon のスタジオは、単なる制作場所ではなかった。それは視覚と聴覚が混線する「実験室」に近い空間だった。
 
-His studio in Leith Mews, London, was filled with photographs, newspaper clippings, torn books, paint cans and records. Materials are scattered on the floor, and images pasted by chance overlap on the walls. During his productions, he often played music at high volume.
+ロンドンのリース・ミューズにあった彼のスタジオは、写真、新聞の切り抜き、破れた本、塗料の缶、そしてレコードに埋もれていた。床には資料が散乱し、壁には偶然貼られたイメージが重なり合う。その中で彼は、しばしば大音量で音楽を流しながら制作を行った。
 
-According to testimonies from visitors, the moment they entered the studio, they were overwhelmed by the chaos of sounds, smells, and sights. A friend said, ""It was no longer an art studio, but like the inside of a device where emotions were amplified.''
+訪問者の証言によれば、スタジオに入った瞬間、音と匂いと視覚の混乱に圧倒されたという。ある友人は「そこはもはや画室ではなく、感情が増幅される装置の内部のようだった」と語っている。
 
-Bacon himself disliked ordered environments and intended to preserve chance and chaos. This chaos is further accelerated by music.
+ベーコン自身も秩序だった環境を嫌い、偶然性と混乱を維持することを意図していた。この混沌は、音楽によってさらに加速される。
 
-> Bacon's studio was not a place where works were created, but a place where emotions ran wild.
+> ベーコンのスタジオは、作品が生まれる場所ではなく、感情が暴走する場だった。
 
 ---
 
@@ -37,7 +36,7 @@ Bacon himself disliked ordered environments and intended to preserve chance and 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,124 +45,124 @@ color: #fff;
 </style>
 
 
-## Wagner and London at Night: Painting in Excess
+## ワーグナーと夜のロンドン：過剰の中で描く
 
-Richard Wagner"s music is also deeply connected to Bacon"s nightlife.
+Richard Wagner の音楽は、ベーコンの夜の生活とも深く結びついている。
 
-He was more active at night than during the day, often spending long hours at casinos or bars before returning to the studio to begin production. At that time, Wagner's operas were sometimes played.
+彼は日中よりも夜に活動することが多く、カジノやバーで長時間過ごした後、そのままスタジオに戻って制作に入ることも珍しくなかった。その際、ワーグナーの楽劇が流されることがあった。
 
-One anecdote is that he wrote Tristan and Isolde while listening to it over and over again, almost without sleep, and was able to decide on the composition of his important work within a few hours.
+伝えられる逸話の一つに、彼がほとんど眠らずに《トリスタンとイゾルデ》を繰り返し聴きながら制作し、数時間で重要な作品の構図を決定したというものがある。
 
-He is also quoted as saying of Wagner's music, ""It pushes the emotions too far.'' This was not a criticism, but rather an evaluation that reflected his own approach to production.
+また、彼はワーグナーの音楽について「感情を押し広げすぎるほどに押し広げる」と語ったとされる。これは批判ではなく、むしろ彼自身の制作態度に近い評価だった。
 
-The more excessive the music, the more extreme the painting is pushed.
+音楽が過剰であればあるほど、絵画もまた極端な方向へと押し出される。
 
-> Wagner"s music was a device that separated Bacon"s production from reason.
+> ワーグナーの音楽は、ベーコンの制作を理性から切り離す装置だった。
 
 ---
 
-## Maria Callas Recording and Repetition Ritual
+## マリア・カラスの録音と繰り返しの儀式
 
-Maria Callas" recordings were famously played repeatedly in Bacon"s studio.
+Maria Callas の録音は、ベーコンのスタジオで繰り返し再生されていたことで知られる。
 
 Particularly famous is his habit of rewinding and listening to the same aria over and over again. He was keenly interested in specific phrases - moments when the voice was about to break down, or notes that were extremely stretched out.
 
-According to one account, he would play the same passage more than a dozen times in a row, stopping his pen and listening intently. When he eventually started drawing again, a clear change appeared on the screen.
+ある証言では、彼が同じ箇所を十数回連続で再生し、その間に筆を止めてじっと聴き続けていたという。やがて再び描き始めると、画面には明らかな変化が現れたとされる。
 
 This repetition is not just an appreciation. Rather, it was an act that imprinted "emotional waveforms" on the body.
 
-> For Bacon, the crow's voice was not something he heard, but something that invaded his body.
+> カラスの声は、ベーコンにとって聴くものではなく、身体に侵入するものだった。
 
 ---
 
-## Anecdotes: Images created by chance and accidents
+## 逸話：偶然と事故が生むイメージ
 
-Chance plays an important role in Bacon's creation. There is also music in the background.
+ベーコンの制作において、偶然は重要な役割を果たす。その背景にも音楽がある。
 
-He often welcomed "accidents". For example, there were times when I would take the marks left by a brush stroke or the unintentional spread of paint and place them directly at the center of my work.
+彼はしばしば「事故」を歓迎した。例えば、筆を滑らせてしまった跡や、塗料が意図せず広がった形を、そのまま作品の中心に据えることがあった。
 
-In one famous anecdote, he was working on a painting after drinking and accidentally left a large stain on the canvas. However, he did not erase it, but rather found a new form from it.
+ある有名な逸話では、彼が飲酒後に制作していた際、キャンバスに意図しない大きな汚れがついた。しかし彼はそれを消さず、むしろそこから新たな形を見出したという。
 
-This ""acceptance of accidents"' resonates with the improvisational nature of music. Wagner"s long compositions and Callas' wavering voice contain moments when they deviate from complete control.
+この「事故の受容」は、音楽の即興性と共鳴している。ワーグナーの長大な楽曲や、カラスの揺らぐ声は、完全なコントロールを逸脱する瞬間を含んでいる。
 
 <div class="mermaid">
 graph TD
-A[fluctuation of music] --> B[psychological change]
-B --> C[hand instability]
+A[fluctuation of music] --> B[心理の変化]
+B --> C[手の不安定性]
 C --> D[accidental occurrence]
 D --> E[Discovery of new shapes]
 </div>
 
-Coincidence is not a failure, but a gateway to creation.
+偶然は失敗ではなく、創造の入口となる。
 
-> For Bacon, the accident was a moment closer to truth than intention.
+> ベーコンにとって事故とは、意図よりも真実に近い瞬間だった。
 
 ---
 
-## Intersection between masterpieces and anecdotes
+## 代表作と逸話の接点
 
-There are especially many anecdotes about Study after Velázquez's Portrait of Pope Innocent X.
+《Study after Velázquez's Portrait of Pope Innocent X》に関しては、特に多くの逸話が残っている。
 
-Bacon did not actually see Velázquez's original painting, which was the basis for this work, but only consulted photographs and reproductions. He is said to have said that this is because ""I get overwhelmed when I see the real thing.''
+ベーコンはこの作品の元となるベラスケスの原画を実際には直接見ず、写真や複製のみを参照していた。それは「本物を見ると圧倒されてしまうから」だと語ったとされる。
 
-This method of distancing is similar to our relationship with music. He preferred recording to live performance, working with music in a form that could be played over and over again.
+この距離の取り方は、音楽との関係にも似ている。彼はライブ演奏よりも録音を好み、繰り返し再生可能な形で音楽を扱った。
 
-In other words, what was important to him was not ""direct reality," but ""reconstructed sensation."
+つまり、彼にとって重要なのは「直接的な現実」ではなく、「再構成された感覚」だった。
 
 > Bacon did not depict reality as it is, but re-edited it as emotion.
 
 ---
 
-## Night, booze and production: a legendary life
+## 夜と酒と制作：伝説化された生活
 
-Bacon's life is often told in legend.
+ベーコンの生活はしばしば伝説的に語られる。
 
-He spent much of his time in bars and clubs in Soho, gambling and drinking regularly. Afterwards, he would return to the studio and begin production even though he was tired or inebriated.
+彼は多くの時間をソーホーのバーやクラブで過ごし、ギャンブルや飲酒を日常的に行っていた。その後スタジオに戻り、疲労や酩酊状態のまま制作に入ることもあった。
 
 Although this lifestyle may seem destructive, it was also a way for him to keep his emotions in an extreme state.
 
-A friend said, ""He was always able to draw at very close to his limits.''
+ある友人は「彼は常に限界に近い状態でしか描けなかった」と述べている。
 
-Music pushes this state even further. Wagner's long pieces and Callas' intense voice lead the spirit to extreme amplitude.
+音楽はその状態をさらに押し広げる。ワーグナーの長大な楽曲やカラスの激しい声は、精神を極端な振幅へと導く。
 
-> Bacon's production could only take place in a state of deviation from everyday life.
+> ベーコンの制作は、日常から逸脱した状態でのみ成立するものだった。
 
 ---
 
-## Painting as emotional amplitude
+## 感情の振幅としての絵画
 
-The key to understanding Bacon's work lies in the concept of ""amplitude.''
+ベーコンの作品を理解する鍵は、「振幅」という概念にある。
 
-Amplitude in music appears as volume or intensity, but he translated it into visual form.
+音楽における振幅は音量や強度として現れるが、彼はそれを視覚に変換した。
 
-* Strong amplitude → shape distortion
+* 強い振幅 → 形の歪み
 * Extreme amplitude → scream
-* Loss of amplitude → blank space
+* 振幅の消失 → 空白
 
 <div class="mermaid">
 graph LR
-A[sound amplitude] --> B[emotional intensity]
+A[音の振幅] --> B[感情の強度]
 B --> C[body deformation]
-C --> D[painting expression]
+C --> D[絵画表現]
 </div>
 
 Through this transformation, his works function as "visible sound."
 
-> Bacon's paintings are traces of fixed emotional amplitude.
+> ベーコンの絵画は、感情の振幅を固定した痕跡である。
 
 ---
 
-## Conclusion: Anecdote reveals the essence of creativity
+## 結論：逸話が示す創作の核心
 
-Anecdotes and legends surrounding bacon are not just peripheral information. They show the core of his production.
+ベーコンにまつわる逸話や伝説は、単なる周辺情報ではない。それらは彼の制作の核心を示している。
 
-The chaos of the studio, the repetition of music, the acceptance of chance, the extremes of life - all these things came together to create his work.
+混乱したスタジオ、繰り返される音楽、偶然の受容、極端な生活──これらすべてが一体となって、彼の作品を生み出した。
 
-At its core, the music of Wagner and Callas functioned as a device that continued to amplify emotions.
+ワーグナーとカラスの音楽は、その中心で感情を増幅し続ける装置として機能していた。
 
-His paintings are both visual art and musical experiences.
+彼の絵画は、視覚芸術でありながら、同時に音楽的体験でもある。
 
-> Bacon's works are ""living emotional structures'' that can only be understood when they include anecdotes.
+> ベーコンの作品は、逸話を含めて初めて理解される「生きた感情の構造体」である。
 
 
 ---

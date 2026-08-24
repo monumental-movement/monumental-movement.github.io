@@ -13,11 +13,11 @@ title: Christian Smith Vs. Jean Phillipe Aviance – Goldrush
 ---
 
 
-Christian Smith is a Tech-House/Funky Techno producer and DJ from Sweden. Jean-Phillippe Aviance is a DJ and producer from Washington DC, USA.
+Christian Smithは、スウェーデン出身のTech-House ／Funky Techno プロデューサー&DJ。Jean-Phillippe Avianceは、アメリカ・ワシントンDC出身のDJ＆プロデューサー。
 
-"Goldrush" is a Techno/Tech House track released on Christian Smith's own label Tronic in 1998.
+「Goldrush」は、1998年にChristian Smith自身のレーベルTronicからリリースしたTechno／Tech Houseトラック。
 
-B1 is a remix by American Techno/House/Tech House DJ and producer Bryan Zentz, also known as Barada.
+B1は、アメリカのTechno/House/Tech House DJ＆プロデューサーBarada ことBryan Zentzによるremix。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. Goldrush (Barada's 757 Mix)
 B2. Torque
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m31778938370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31778938370?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RH_lZQOnl_M?si=8CXEFe6ib6Edp7lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

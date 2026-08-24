@@ -12,9 +12,9 @@ title: Diego Ray – Superhero
 ---
 
 
-Diego Ray is an Italian-American DJ and producer.
+Diego Rayは、イタリア系アメリカ人のDJ・プロデューサー。
 
-"Superhero" is a house track released in 2005 by the Italian-based house/tribal house label Dee-P-erfect.
+「Superhero」は、イタリアを拠点とするハウス / トライバルハウスのレーベルDee-P-erfectから2005年にリリースされたハウストラック。
 
 #### Tracklist
 ```md
@@ -24,7 +24,7 @@ B1. Superhero (Elektro Hero Version)
 B2. Superhero (Nickhero Versus Diego Ray Version)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m11451730379?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11451730379?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/153GWQyxMdY?si=Hq1W_oaFhC6UVe88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

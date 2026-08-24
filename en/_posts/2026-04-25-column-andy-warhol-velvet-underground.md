@@ -10,29 +10,29 @@ tags:
 - AndyWarhol
 - VelvetUnderground
 - 60s
-title: '[Column] The acoustic space called Factory: Andy Warhol and the Velvet Underground'
+title: 【コラム】 Factoryという音響空間——アンディ・ウォーホルとヴェルヴェット・アンダーグラウンド
 ---
 
 
 
-## Establishment of a place called Factory
+## Factoryという場の成立
 
-Text: mmr｜Theme: Delving into the core of culture through the reality of the "Factory" space in New York in the 1960s, where art production and music intersected in an undifferentiated manner, its acoustic and social meaning, and anecdotes of the people who gathered there.
+文：mmr｜テーマ：1960年代ニューヨークにおいて、美術制作と音楽が未分化に交錯した“Factory”という空間の実態と、その音響的・社会的意味、そしてそこに集った人々の逸話を通して文化の核心に迫る
 
 
-### Why was the silver room filled with sound?
+### 銀色の部屋はなぜ音に満ちていたのか
 
-Factory, the production base built by Andy Warhol in the mid-1960s, was not just an atelier, but an open space where something was always happening.
+1960年代半ば、Andy Warholが構築した制作拠点「Factory」は、単なるアトリエではなく、常に何かが起き続ける“開かれた場”だった。
 
-The silver paper pasted on the wall reflects light diffusely, obscuring the sense of time. The boundaries between day and night were vague, and who was supposed to come and go when. The production, the dialogue, the filming, the drugs, the music—it was all there at the same time.
+壁一面に貼られた銀紙は光を乱反射し、時間感覚を曖昧にする。昼と夜の境界は曖昧で、誰がいつ来ていつ帰るのかも曖昧だった。制作、会話、撮影、ドラッグ、音楽——それらすべてが同時に存在していた。
 
-Among the testimonies from those days, there is one that says, ""The silence at the Factory causes anxiety.'' Because when the sound stopped, it meant that the event stopped.
+当時を知る証言の中には、「Factoryでは静寂が不安を呼ぶ」というものがある。音が止まることは、出来事が止まることを意味したからだ。
 
-Therefore, The Velvet Underground's music was not just background music, but continued to play as proof that the space was alive.
+そのため、The Velvet Undergroundの音楽は単なるBGMではなく、「空間が生きている証明」として鳴り続けていた。
 
-An often-told anecdote is that Warhol gave little direction to visitors, simply letting them exist. He even accepted "the state where nothing is happening" as a work of art.
+逸話としてよく語られるのは、ウォーホルが来訪者に対してほとんど指示を出さず、ただ場に存在させたという点だ。彼は「何も起きていない状態」すら作品として受け入れていた。
 
-> Factory was a testing ground for turning uncontrolled events into works of art.
+> Factoryとは、制御されない出来事そのものを作品化する実験場だった。
 
 
 ---
@@ -42,7 +42,7 @@ An often-told anecdote is that Warhol gave little direction to visitors, simply 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -51,68 +51,68 @@ color: #fff;
 </style>
 
 
-## Connection with The Velvet Underground
+## The Velvet Undergroundとの接続
 
-### The idea of ​​"exhibiting" music
+### 音楽を“展示”するという発想
 
-Andy Warhol became involved with The Velvet Underground around 1965.
+Andy WarholがThe Velvet Undergroundに関わるようになったのは1965年頃である。
 
-This relationship was not a coincidence, but a natural intersection of underground culture in New York at the time.
+この関係は偶然ではなく、当時のニューヨークにおけるアンダーグラウンド文化の交差点として自然に生まれたものだった。
 
-Lou Reed in particular had a literary background and treated music not as mere entertainment but as a ""record of the city.'' John Cale, on the other hand, was influenced by the avant-garde, introducing sustained tones and dissonance.
+特にLou Reedは文学的バックグラウンドを持ち、音楽を単なる娯楽ではなく「都市の記録」として扱っていた。一方、John Caleは前衛音楽の影響を受け、持続音や不協和音を持ち込んでいた。
 
-The tension between the two created the band's unique sound.
+この二人の緊張関係が、バンドの独特なサウンドを生み出した。
 
-A famous anecdote is that Warhol offered little technical guidance to his band, instead telling them to "just keep going." This is completely consistent with minimal art and the idea of ​​repetition.
+有名な逸話として、ウォーホルはバンドに対して技術的な指導はほとんど行わず、代わりに「ただ続けろ」と言い続けたと言われている。これはミニマルアートや反復の思想と完全に一致する。
 
-Additionally, he suggested adding Nico to the band. This was more about visual and existential balance than a musical decision.
+さらに、彼はNicoをバンドに加えることを提案した。これは音楽的判断というより、視覚的・存在的バランスを重視したものだった。
 
->Music was treated as an element to maintain the tension of the venue, rather than as a measure of perfection.
+> 音楽は完成度ではなく、場の緊張を維持するための要素として扱われていた。
 
 ---
 
 ## Exploding Plastic Inevitable
 
-### Expansion of Factory as a club space
+### クラブ空間としてのFactoryの拡張
 
-Exploding Plastic Inevitable (EPI), which began in 1966, was a project that brought what was being done inside the Factory to the outside world.
+1966年に始まった「Exploding Plastic Inevitable（EPI）」は、Factoryの内部で行われていたことを外部に持ち出したプロジェクトだった。
 
-The event featured a performance by The Velvet Underground and a video of Warhol.
+このイベントでは、The Velvet Undergroundの演奏とウォーホルの映像が同時に展開された。
 
 Records show that spectators were often confused and even angry. The reason was simple: "I didn't know where to look."
 
-Anecdotally, one audience member experiencing EPI for the first time is said to have said, ""This feels like an accident scene, not a concert.''
+逸話として、初めてEPIを体験した観客の一人が「これはコンサートではなく、事故現場のようだ」と語ったとされる。
 
 <div class="mermaid">
 flowchart TD
 A[music] --> B[picture]
 B --> C[light]
 C --> D[audience]
-D --> E[immersion state]
+D --> E[没入状態]
 </div>
 
-This "accident-like experience" was exactly what Warhol was aiming for.
+この“事故のような体験”こそが、ウォーホルの狙いだった。
 
-The prototype of the ""immersion'' in later club culture and rave culture can be seen here.
+後のクラブカルチャーやレイヴ文化における「没入」は、ここに原型を見ることができる。
 
 > EPI was a device that destroyed appreciation and transformed it into experience.
 
 ---
 
-## Story of masterpieces and spaces
+## 代表作と空間の物語
 
-### Anecdote behind the work
+### 作品の背後にある逸話
 
-Andy Warhol's masterpieces are often described as cool and inorganic, but there is a powerful story behind them.
+Andy Warholの代表作は、しばしばクールで無機質なものとして語られるが、その背後には強烈なエピソードが存在する。
 
 **Campbell's Soup Cans**
-The motif is the soup that Warhol himself ate on a daily basis. He found comfort in ""eating the same thing over and over again.''
+ウォーホル自身が日常的に食べていたスープをモチーフにしている。彼は「同じものを繰り返し食べること」に安心を見出していた。
 
 **Marilyn Diptych**
-Created after Marilyn Monroe's death, it has a structure in which images multiply and disappear simultaneously.
+マリリン・モンローの死後に制作され、イメージの増殖と消失が同時に起きる構造を持つ。
 
 **Empire**
-This film, which continuously filmed the same building for eight hours, is famous for having audiences leave one after another during the screening.
+8時間にわたり同じ建物を撮影し続けるこの作品は、上映中に観客が次々と退出したことで有名である。
 
 There are similarly legendary episodes on the music side.
 
@@ -126,36 +126,36 @@ These works existed on a different level from success and recognition.
 
 <div class="mermaid">
 flowchart LR
-A[everyday life] --> B[repetition]
-B --> C[discomfort]
-C --> D[new perception]
+A[日常] --> B[反復]
+B --> C[違和感]
+C --> D[新しい知覚]
 </div>
 
-> His masterpiece was not a finished product, but a device that caused a change in perception.
+> 代表作とは完成品ではなく、知覚の変化を引き起こす装置だった。
 
 ---
 
-## Society and anecdotes
+## 社会と逸話
 
-### People gathered at Factory
+### Factoryに集った人々
 
-There are countless anecdotes about Factory.
+Factoryには無数の逸話が残されている。
 
-For example, it was common for visitors to directly appear in movies. There was no script, just cameras rolling.
+例えば、来訪者がそのまま映画に出演することは日常的だった。台本は存在せず、ただカメラが回っているだけだった。
 
-One person said, ""I didn't find out about the movie I was in until later.''
+ある人物は「自分が出演している映画を後になって初めて知った」と語っている。
 
-Edie Sedgwick has also become a Factory icon, whose glamorous and destructive life is the stuff of legend.
+また、Edie SedgwickはFactoryの象徴的存在となり、その華やかさと破滅的な人生が伝説化している。
 
-Regarding music, Lou Reed is said to often perform with his back to the audience. This was an attitude that rejected the relationship with the audience and questioned the very concept of performance.
+音楽に関しても、Lou Reedはしばしば観客に背を向けて演奏したと言われる。これは観客との関係性を拒否する態度であり、パフォーマンスの概念そのものを問い直すものだった。
 
-> Factory was a place that produced stars, but at the same time it was also a device that consumed stars.
+> Factoryはスターを生む場所であると同時に、スターを消費する装置でもあった。
 
 ---
 
-## Chronology: Warhol and Music Space
+## 年表：ウォーホルと音楽空間
 
-### 1960s Crossroads
+### 1960年代の交差点
 
 <div class="mermaid">
 timeline
@@ -167,32 +167,32 @@ timeline
     1968 : 銃撃事件と転換
 </div>
 
-Warhol was shot in 1968, and the nature of Factory changed significantly after that.
+ウォーホルは1968年に銃撃され、その後Factoryの性質は大きく変化した。
 
-It is said that this event marked the end of the Factory as a chaotic open space.
+この出来事は、無秩序な開放空間としてのFactoryの終焉を意味していたとも言われる。
 
-> One incident changed the very nature of space.
+> 一つの事件が、空間の性質そのものを変えてしまった。
 
 ---
 
-## Conclusion
+## 結論
 
-### The myth of Factory
+### Factoryという神話
 
-Created by Andy Warhol and The Velvet Underground, Factory has become more than just a place, it's a mythical space.
+Andy WarholとThe Velvet Undergroundが作り出したFactoryは、単なる場所ではなく神話的空間となった。
 
-there
+そこでは
 
-* music
-* picture
-* Human relations
-* Coincidence
+* 音楽
+* 映像
+* 人間関係
+* 偶然
 
-Everything kept intersecting.
+すべてが交差し続けた。
 
-And while many of them are recorded, they also remain as "legends" that are passed down from generation to generation.
+そしてその多くは記録されながらも、同時に語り継がれる“伝説”として残っている。
 
-> Factory is a cultural device that continues to expand, mixing facts and anecdotes.
+> Factoryとは、事実と逸話が混ざり合いながら今も拡張し続ける文化装置である。
 
 
 ---

@@ -13,7 +13,7 @@ title: Sam (The Man) Taylor – Hit Songs
 ---
 
 
-"Sam (The Man) Taylor - Sam Taylor at 25" is a collection of cable hits, released in 1970.
+「Sam (The Man) Taylor – 25時のサム・テイラー」は、有線のヒット曲集で、1970年にリリースされました。
 
 #### Tracklist
 ```md
@@ -46,7 +46,7 @@ B6. 花と蝶 – 森進一
 B7. 港町ブルース – 森進一
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
 
 
 

@@ -13,13 +13,13 @@ title: Rodrigo Y Gabriela – 1111
 ---
 
 
-Rodrigo y Gabriela is a guitar duo from Mexico.
+ロドリーゴ・イ・ガブリエーラは、メキシコ出身のギターデュオです。
 
 "11:11" is an album released by Rodrigo y Gabriela in 2009, expressing rhythm, melody, and harmony using only their signature acoustic guitar.
 
-Their original songs and covers of other artists are included, with elements of Latin American rhythms and flamenco present, as well as influences from rock and jazz. Their unique performance style and passionate expressiveness made a strong impression on the audience.
+彼らのオリジナル曲や他のアーティストのカバー曲が含まれ、ラテンアメリカのリズムやフラメンコの要素が見られる一方でロックやジャズの影響も感じられます。彼らの独自の演奏スタイルと情熱的な表現力は聴衆に強い印象を与えました。
 
-Rodrigo y Gabriela has developed a wide range of musical activities and has gained international acclaim.
+ロドリーゴ・イ・ガブリエーラは幅広い音楽活動を展開し、国際的な評価を得ています。
 
 #### Tracklist
 ```md

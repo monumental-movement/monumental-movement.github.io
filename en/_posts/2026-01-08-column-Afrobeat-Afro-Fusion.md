@@ -9,20 +9,19 @@ layout: post
 tags:
 - Afrobeat
 - Afro-Fusion
-title: '[Column] Afrobeat / Afro-Fusion - Structural changes and global expansion
-  of West African music'
+title: 【コラム】 Afrobeat / Afro-Fusion ― 西アフリカ音楽の構造変化とグローバル展開
 ---
 
 
 
 ## Introduction
 
-Text: mmr｜Theme: The fact that Afrobeat developed around Nigeria's live culture, how Afro-Fusion came to be used in a cross-border production and distribution environment, the history of the music industry, and diaspora movements.
+文：mmr｜テーマ：Afrobeatがナイジェリア国内のライブ文化を中心に発展した事実と、Afro-Fusionが国境を越えた制作・流通環境の中で用いられるようになった経緯を、音楽産業史とディアスポラの動きについて
 
 
-Afrobeat and Afro-Fusion are musical cultures that originated in West Africa, particularly Nigeria and Ghana. Although the two are often confused, they have different historical backgrounds, musical structures, and social roles. This article organizes the history from the establishment of Afrobeat to the development of Afro-Fusion based only on verifiable facts, and comprehensively describes changes in musical characteristics, production techniques, social context, and international reception.
+AfrobeatおよびAfro-Fusionは、西アフリカ、とりわけナイジェリアとガーナを起点として形成された音楽文化である。両者はしばしば混同されるが、歴史的背景、音楽構造、社会的役割において異なる位置づけを持つ。本稿では、Afrobeatの成立からAfro-Fusionの展開に至るまでを、確認可能な事実のみをもとに整理し、音楽的特徴、制作技法、社会的文脈、国際的受容の変遷を包括的に記述する。
 
-> "This article avoids evaluation and subjective interpretation and consists only of information based on historical materials, testimonies, and recorded historical facts."
+> "本稿は評価や主観的解釈を避け、史料・証言・録音史実に基づく情報のみで構成されている"
 
 
 ---
@@ -42,15 +41,15 @@ color: #fff;
 
 
 
-## The foundation of West African music
+## 西アフリカ音楽の基層
 
-### Structure of traditional music
+### 伝統音楽の構造
 
 Many West African folk musics are characterized by polyrhythms, call-and-response, and repetitive structures. In Yoruba, Ewe, and Ashanti musical cultures, structures in which multiple percussion instruments play different frequencies simultaneously are common, and this had a direct influence on later Afrobeat.
 
 Melody emphasizes rhythm and the circulation of phrases rather than scale, and singing is often based on group participation. These characteristics were reorganized into urban music from the mid-20th century onwards, due to urbanization and the spread of recording technology.
 
-### Colonial period and urban music
+### 植民地期と都市音楽
 
 Colonial rule from the end of the 19th century to the 20th century brought European-derived instruments and harmonic concepts to West Africa. Brass bands, church music, and military bands played throughout the country, blending them with traditional rhythms. The highlife that developed in Ghana is a representative example of this hybridization, and serves as an important prehistory for the later formation of Afrobeat.
 
@@ -60,9 +59,9 @@ Colonial rule from the end of the 19th century to the 20th century brought Europ
 
 ### Fela Kuti's activities
 
-The term Afrobeat was coined by Nigerian musician Fela Anikulapo Kuti in the late 1960s. Fela received his musical education in London, absorbing jazz, highlife and soul before returning to Nigeria. While in the United States in 1969, he was influenced by the Black Power movement and funk, and decided on a direction that would link music and political discourse.
+Afrobeatという語は、1960年代後半にナイジェリアの音楽家フェラ・アニクラポ・クティによって用いられた。フェラはロンドンで音楽教育を受け、ジャズ、ハイライフ、ソウルを吸収した後、ナイジェリアに帰国した。1969年のアメリカ滞在中、ブラック・パワー運動やファンクの影響を受け、音楽と政治的言説を結びつける方向性を明確にした。
 
-His bands, Africa 70 and later Egypt 80, established a form distinct from existing dance music, featuring long performances, repetitive grooves, and horn sections.
+彼が率いたバンド、アフリカ70および後のエジプト80は、長時間演奏、反復的グルーヴ、ホーンセクションを特徴とし、既存のダンス音楽とは異なる形式を確立した。
 
 ### Musical features
 
@@ -76,23 +75,23 @@ Songs often run over 10 minutes and consist of an intro, a groove development, a
 
 ---
 
-## Expansion in the 1970s
+## 1970年代の拡大
 
 ### Acceptance within Nigeria
 
 In the 1970s, Nigeria's urban culture expanded due to increased oil revenues, and Lagos became the center of the music industry. Afrobeat spread through nightclubs, live music venues, and radio, with many musicians adopting similar formations and styles.
 
-### Impact on other regions
+### 他地域への影響
 
 Afrobeat also influenced neighboring countries such as Ghana, Benin, and Togo. Artists from Benin in particular created unique expressions that combined highlife, local rhythms, and Afrobeat. This led to Afrobeat being recognized as a regional style rather than the music of a single country.
 
 ---
 
-## Changes since the 1980s
+## 1980年代以降の変化
 
-### Fela Kuti's later years and succession
+### フェラ・クティ晩年と継承
 
-In the late 1980s, while Fela"s international reputation increased, the political situation within Nigeria remained unstable. After Fela"s death in 1997, his music was continued by his sons Femi Kuti and Sheun Kuti. They maintained the basic Afrobeat structure while incorporating modern recording techniques and an international production environment.
+1980年代後半、フェラの国際的評価は高まった一方、ナイジェリア国内での政治状況は不安定であった。1997年のフェラの死後、その音楽は息子フェミ・クティ、シェウン・クティらによって継承された。彼らは基本的なAfrobeat構造を維持しつつ、現代的な録音技術と国際的制作環境を取り入れた。
 
 ## Re-evaluation and internationalization
 
@@ -102,44 +101,44 @@ From the late 1990s to the 2000s, Afrobeat was reevaluated in Europe and North A
 
 ## Introducing Afro-Fusion
 
-### Terminology background
+### 用語の背景
 
-The term Afro-Fusion has been used since the 2000s to refer to the trend of African artists using a variety of genres. It is not a direct successor to Afrobeat, but is characterized by its fusion with hip-hop, R&B, reggae, dancehall, electronic music, etc.
+Afro-Fusionという語は、2000年代以降、アフリカ系アーティストが多様なジャンルを横断的に用いる動向を指すために使用されるようになった。Afrobeatの直接的継承ではなく、ヒップホップ、R&B、レゲエ、ダンスホール、エレクトロニック音楽などとの融合が特徴である。
 
 ### Nigerian Popular Music
 
-In Nigeria since the 2000s, the spread of digital production environments has made music production in private studios commonplace. A pop music trend collectively known as Afrobeats was formed, and Afro-Fusion was positioned as an expression that crosses genres.
+2000年代以降のナイジェリアでは、デジタル制作環境の普及により、個人スタジオでの楽曲制作が一般化した。Afrobeatsと総称されるポップ音楽潮流が形成され、その中でAfro-Fusionはジャンル横断的表現として位置づけられた。
 
 > "Afro-Fusion does not have a specific rhythmic type or composition, but is used as a concept to refer to a combination of production methods and cultural origins."
 
 ---
 
-## Comparison of musical structures
+## 音楽構造の比較
 
 <div class="mermaid">
 flowchart TD
-A["Traditional rhythm"] --> B["High Life"]
+A["伝統リズム"] --> B["ハイライフ"]
 B --> C["Afrobeat"]
 C --> D["Afro-Fusion"]
-E["Jazz Funk"] --> C
-F["Hip-hop/R&B"] --> D
+E["ジャズ・ファンク"] --> C
+F["ヒップホップ・R&B"] --> D
 </div>
 
 ---
 
-## Social and cultural context
+## 社会的・文化的文脈
 
 ### Relationship with politics
 
 From its inception, Afrobeat has been inseparable from political discourse. Live performances had a gathering quality, and lyrics often referred to specific events or policies. On the other hand, Afro-Fusion tends to deal with personal experiences and international identity without making political statements an essential element.
 
-### Diaspora and globalization
+### ディアスポラとグローバル化
 
-The presence of the African diaspora played an important role in the formation of Afro-Fusion. In cities such as London, New York, and Toronto, African immigrants came into contact with local music cultures and created new forms of fusion.
+アフリカ系ディアスポラの存在は、Afro-Fusionの形成に重要な役割を果たした。ロンドン、ニューヨーク、トロントなどの都市では、アフリカ系移民が現地音楽文化と接触し、新たな融合形態を生み出した。
 
 ---
 
-## Chronology
+## 年表
 
 <div class="mermaid">
 timeline
@@ -154,24 +153,24 @@ timeline
 
 ---
 
-## Changes in production technology
+## 制作技術の変遷
 
-Afrobeat in the 1970s, when analog recording was the mainstream, was produced in a format similar to a live one-shot recording. The simultaneous performance of multiple people created the driving force for the music. In contrast, Afro-Fusion is centered around division of labor and production using digital DAWs, making it possible to exchange data across borders.
+アナログ録音が主流であった1970年代のAfrobeatは、ライブ一発録りに近い形で制作された。複数人の同時演奏が音楽の推進力を生んだ。対照的にAfro-Fusionは、デジタルDAWを用いた分業的制作が中心であり、国境を越えたデータ交換が可能となった。
 
 ---
 
 ## Conclusion
 
-Afrobeat and Afro-Fusion are musics that were formed in different historical backgrounds and production environments, even though they share the same cultural sphere. The former is a collective expression rooted in a specific historical situation, and the latter is an individual and fluid expression after globalization. Through the facts presented in this paper, we can confirm continuity and discontinuity between the two.
+AfrobeatとAfro-Fusionは、同じ文化圏を共有しながらも、異なる時代背景と制作環境の中で形成された音楽である。前者は特定の歴史的状況に根差した集団的表現であり、後者はグローバル化以降の個別的かつ流動的表現である。本稿で示した事実関係を通じて、両者の連続性と断絶を確認することができる。
 
-> "The two are not opposed concepts, but are understood as different stages placed on a historical timeline."
+> "両者は対立概念ではなく、歴史的時間軸上に配置された異なる段階として理解される"
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FkyF3NbhnwE?si=sLGBbMj4FqcGAtBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

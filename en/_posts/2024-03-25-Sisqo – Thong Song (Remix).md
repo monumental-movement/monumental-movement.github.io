@@ -13,11 +13,11 @@ title: Sisqo – Thong Song (Remix)
 ---
 
 
-Sisqo (Mark Andrews Profile) is an R&B singer from East Baltimore, Maryland.
+Sisqo（シスコ）[ マーク・アンドリュース プロフィール ]は、東ボルチモアのメリーランド州出身R&B シンガー。
 
-She began singing in church at an early age and developed a passion for music. After graduating from high school, she attended the University of Maryland, College Park, majoring in music and psychology.
+幼少期から教会で歌い始め、音楽への情熱を育み、高校卒業後、メリーランド大学カレッジパーク校に進学し、音楽と心理学を専攻。
 
-While attending university, he began performing at local clubs and events, gradually gaining recognition, and in the early 2000s, signed with a major label and released his debut album.
+大学在学中に、地元のクラブやイベントで演奏を始め、徐々に知名度を高め、2000年代初頭に、メジャーレーベルと契約し、デビューアルバムをリリース。
 
 その後、数枚のアルバムをリリースし、R&B シーンで確固たる地位を築き、いまもなおソロ活動に加え、他のアーティストとのコラボレーションや楽曲制作にも積極的に取り組んでいる。
 
@@ -36,5 +36,5 @@ B2. Thong Song (Super Jupiter Mao Tse Thong Club Mix)
 B3. Thong Song (Johnathan Peters Bust Down Mix) (Instrumental)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m95904253553?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95904253553?afid=6142608987){: .button1}
 

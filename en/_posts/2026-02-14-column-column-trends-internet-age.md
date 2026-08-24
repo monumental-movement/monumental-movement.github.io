@@ -10,21 +10,20 @@ tags:
 - Histoy
 - Global
 - Internet
-title: '[Column] Tracking the history of music trends spreading in the internet era
-  and the mechanism of global diffusion'
+title: 【コラム】 ネット時代に広がる音楽潮流の歴史と世界的拡散の仕組みを追う
 ---
 
 
 
-## Introduction: What are online music trends?
+## 序章：ネット音楽トレンドとは
 
-Text: mmr｜Theme: A long-form analysis that traces the history of music trends spreading in the internet age and the mechanism of global dissemination. Track cities, artists, and services based on facts and explore the background behind trend formation
+文：mmr｜テーマ：ネット時代に広がる音楽潮流の歴史と世界的拡散の仕組みを追う長編分析。都市・アーティスト・サービスを事実ベースで追跡し、トレンド形成の背景を探る
 
-> With the spread of the internet, music has become a new cultural phenomenon that transcends borders and spreads in real time.
+> ネットの普及により、音楽は国境を超えリアルタイムで拡散する新たな文化現象となった
 
-From the end of the 20th century to the beginning of the 21st century, the Internet changed the core of musical culture. Traditionally, record companies, radio stations, and CD shops were the main sources of distribution, but the Internet has ushered in an era in which individuals can directly distribute songs. At clubs and festivals in cities, it has become commonplace for local songs to instantly spread to other cities via the internet.
+20世紀末から21世紀初頭にかけて、インターネットは音楽文化の核心を変えた。従来はレコード会社やラジオ、CDショップが流通の中心だったが、ネットにより個人が直接楽曲を発信できる時代が訪れた。都市のクラブやフェスでは、地域限定の楽曲がネットを通じて瞬時に他都市へ拡散する現象が常態化した。
 
-In Berlin"s techno clubs and Tokyo"s club scene, DJs and artists informally shared their sets and songs on Mixcloud and SoundCloud, making them accessible to fans and DJs around the world. In this way, a structure was created in which the local music of cities directly influenced global trends.
+ベルリンのテクノクラブや東京のクラブシーンでは、DJやアーティストがMixcloudやSoundCloudでセットや楽曲を非公式に共有し、世界中のファンやDJがアクセス可能だった。このように、都市のローカルな音楽がグローバルな潮流に直接影響を与える構造が生まれた。
 
 
 ---
@@ -34,7 +33,7 @@ In Berlin"s techno clubs and Tokyo"s club scene, DJs and artists informally shar
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -44,63 +43,63 @@ color: #fff;
 
 
 
-## Late 1990s-early 2000s: MP3 revolution and file sharing
+## 1990年代後半〜2000年代初頭：MP3革命とファイル共有
 
-> The spread of the MP3 format and the emergence of P2P services such as Napster that occurred in the early days of the Internet overturned common sense in music distribution.
+> ネット黎明期に起こったMP3フォーマットの普及とNapsterなどP2Pサービスの登場は、音楽流通の常識を覆した
 
-In 1995, the introduction of the MP3 format made it easier to compress and share music files, creating an environment in which people could enjoy music without having to rely on purchasing CDs. Los Angeles indie band The Postal Service and Berlin's underground techno tracks reached DJs and listeners around the world via MP3.
+1995年、MP3フォーマットが登場すると、音楽ファイルの圧縮・共有が容易になり、CD購入に頼らずとも音楽を楽しむ環境が整った。ロサンゼルスのインディーズバンドThe Postal Serviceやベルリンのアンダーグラウンドテクノトラックは、MP3経由で世界中のDJやリスナーに届いた。
 
-In 1999, Napster was introduced, and P2P music exchange exploded. New York college students swapped Jay-Z and Eminem albums, which became a hot topic at clubs in London and Tokyo. These movements have led to the formation of new hits that cannot be measured using traditional charts.
+1999年、Napsterが登場し、P2Pでの音楽交換が爆発的に広がった。ニューヨークの大学生がJay-ZやEminemのアルバムを交換し、ロンドンや東京のクラブで話題になることもあった。こうした動きにより、従来のチャートでは計測できない新しいヒット形成が始まった。
 
-In Tokyo, the movement to reevaluate Shibuya-kei and city pop reached overseas fans via the internet, and there were even cases where it was featured in DJ sets in New York and Paris.
-
----
-
-## Mid-2000s: The era of blogs, bulletin boards, and music SNS
-
-> Individuals' ability to communicate increases, and trends that cross genres begin to emerge
-
-In 2004, MySpace's music features allowed artists to upload their own songs and share them with the world. Los Angeles indie rockers Arcade Fire and Bristol trip-hop Massive Attack have found international listeners through MySpace.
-
-In Tokyo, Shugo Tokumaru and Cornelius published their songs on their blogs and personal sites, and they became a hot topic among music enthusiasts in New York and London. In bulletin board culture, 2channel and Reddit became information hubs, and local trends in each city were visualized online, leading to an international movement.
-
-In 2006, Last.fm introduced a recommendation function. The system, which analyzes user listening data and suggests similar artists and tracks, has contributed to the formation of trends that take advantage of the characteristics of each city, such as indie rock in New York, techno in Berlin, and dubstep in London.
+東京では渋谷系やシティポップの再評価ムーブメントがネット経由で海外ファンに届き、ニューヨークやパリのDJセットで取り上げられる事例もあった。
 
 ---
 
-## 2010s: Streaming and Globalization
+## 2000年代中盤：ブログ・掲示板・音楽SNSの時代
 
-> With the advent of Spotify and SoundCloud, music from all over the world is instantly available, and listener preference data is directly linked to trend formation.
+> 個人の発信力が増し、ジャンル横断のトレンドが生まれ始める
 
-In the early 2010s, Spotify (originated in Stockholm, Sweden) and SoundCloud (originated in San Francisco, USA) became popular, and streaming music consumption became mainstream. Music from cities such as Berlin"s techno DJs Ben Klock and Marcel Dettmann, Tokyo"s electronica tofubeats, and New York's hip-hop A$AP Rocky is now available to listeners around the world in real time.
+2004年、MySpaceの音楽機能により、アーティストは自ら楽曲をアップロードし、世界中に発信できるようになった。ロサンゼルスのインディーズロックArcade FireやブリストルのトリップホップMassive Attackは、MySpaceを通じて海外リスナーを獲得した。
 
-There has also been an increase in the number of independent artists entering the charts, such as SoundCloud rapper Lil Uzi Vert and London grime artist Skepta. We have entered an era where the club culture and festival culture of a city spreads to other cities via streaming, and DJ sets and playlists are directly linked to trend formation.
+東京ではShugo TokumaruやCorneliusがブログや個人サイトで楽曲を公開し、ニューヨークやロンドンの音楽マニアの間で話題になった。掲示板文化では2ちゃんねるやRedditが情報ハブとなり、都市ごとのローカルトレンドがネット上で可視化され、国際的なムーブメントに連鎖した。
 
----
-
-## Late 2010s-2020s: Short videos and algorithm-driven
-
-> The viral power of short videos such as TikTok and YouTube Shorts has become the starting point for new hits, and the traditional chart structure has changed.
-
-Since 2016, TikTok and YouTube Shorts have become the main means of spreading music. "Old Town Road" by American rapper Lil Nas Even in Berlin's club scene, techno tracks that gained attention on TikTok were shared across the city by fans and DJs.
-
-Kawaii electropop from Tokyo and K-pop songs from Seoul have also gained popularity overseas through remix videos on TikTok. Short videos accelerated musical exchange between cities and presented a new form of hit formation that went beyond the traditional chart structure.
+2006年にはLast.fmがレコメンド機能を導入。ユーザーの聴取データを解析し、類似アーティストやトラックを提示する仕組みは、ニューヨークのインディーズロック、ベルリンのテクノ、ロンドンのダブステップなど都市ごとの特徴を生かしたトレンド形成に寄与した。
 
 ---
 
-## Current: AI recommendations and generative music
+## 2010年代：ストリーミングとグローバル化
 
-> Improved recommendation accuracy through machine learning and the spread of AI composition tools are making music trends even more personalized and faster.
+> SpotifyやSoundCloudの登場で、世界中の音楽が瞬時に届き、リスナーの嗜好データがトレンド形成に直結
 
-In the early 2020s, AI recommendation technology began to analyze individual listener preferences and incorporate them into playlist generation on Spotify and Apple Music. DJs in Berlin, London, and Tokyo optimize their setlists based on AI data. The global hit formation rate has increased significantly.
+2010年代初頭、Spotify（スウェーデン・ストックホルム発）やSoundCloud（米サンフランシスコ発）が普及し、ストリーミング型の音楽消費が主流となった。ベルリンのテクノDJBen KlockやMarcel Dettmann、東京のエレクトロニカtofubeats、ニューヨークのヒップホップA$AP Rockyなど、都市ごとの音楽が世界中のリスナーにリアルタイムで届くようになった。
 
-In addition, generative AI such as OpenAI Jukebox and Google MusicLM has made it possible for artists to create unique music that transcends the boundaries of cities and countries. Indie music from New York, electronic music from London, and city pop from Tokyo are intermingling to create new genres and subcultures.
+SoundCloudラッパーLil Uzi VertやロンドンのグライムアーティストSkeptaなど、個人発信型アーティストがチャート入りする事例も増加。都市のクラブ文化やフェス文化がストリーミング経由で他都市に伝播し、DJセットやプレイリストがトレンド形成に直結する時代になった。
 
 ---
 
-## Chronology: Internet music trends milestones
+## 2010年代後半〜2020年代：ショート動画とアルゴリズム主導
 
-> Organize major events in online music culture in chronological order
+> TikTokやYouTube Shortsなど短尺動画の拡散力が新たなヒットの起点となり、従来のチャート構造も変容した
+
+2016年以降、TikTokやYouTube Shortsが音楽拡散の主要手段となった。米国ラッパーLil Nas Xの「Old Town Road」はTikTok発で全米ヒットし、世界中のクラブやフェスで話題になった。ベルリンのクラブシーンでも、TikTokで注目されたテクノトラックがファンやDJを通じて都市間で共有された。
+
+東京のKawaiiエレクトロポップやソウルのK-pop楽曲も、TikTokのリミックス動画を通じて海外で人気を獲得。短尺動画は都市間の音楽交流を加速させ、従来のチャート構造を超えた新たなヒット形成の形を提示した。
+
+---
+
+## 現在：AIリコメンドとジェネラティブ音楽
+
+> 機械学習によるリコメンド精度の向上とAI作曲ツールの普及が、音楽トレンドをさらに個人化・高速化させている
+
+2020年代初頭、AIリコメンド技術は個々のリスナー嗜好を解析し、SpotifyやApple Musicのプレイリスト生成に反映されるようになった。ベルリン・ロンドン・東京のDJは、AIデータを基にセットリストを最適化。グローバルなヒット形成速度は格段に上昇した。
+
+また、OpenAI JukeboxやGoogle MusicLMなどジェネラティブAIにより、アーティストは都市・国の枠を超え独自の楽曲制作が可能になった。ニューヨークのインディーズ、ロンドンの電子音楽、東京のシティポップが混ざり合い、新ジャンルやサブカルチャーが誕生している。
+
+---
+
+## 年表：ネット音楽の潮流マイルストーン
+
+> ネット音楽文化の主要な出来事を年代順に整理
 
 <div class="mermaid">
 timeline
@@ -120,27 +119,27 @@ timeline
 
 ---
 
-## Diagram: Diffusion model of online music trends
+## 図表：ネット音楽トレンドの拡散モデル
 
-> Illustrating global music propagation and diffusion paths
+> グローバルな音楽の伝播と拡散経路を図示
 
 <div class="mermaid">
 flowchart LR
-    A[Local club/DJ] --> B[MP3 / SoundCloud]
-    B --> C[Intercity SNS spread: MySpace, Blogs, Reddit]
+    A[ローカルクラブ・DJ] --> B[MP3 / SoundCloud]
+    B --> C[都市間SNS拡散: MySpace, Blogs, Reddit]
     C --> D[TikTok / Shorts]
-    D --> E[Global listeners: NY, London, Tokyo, Berlin, Seoul]
-    E --> F[AI recommendations: Spotify, Apple Music]
-    F --> G[Personalization trend formation]
+    D --> E[グローバルリスナー: NY, London, Tokyo, Berlin, Seoul]
+    E --> F[AIリコメンド: Spotify, Apple Music]
+    F --> G[個人化トレンド形成]
 </div>
 
 ---
 
-## Final Chapter: Looking towards the next 10 years
+## 終章：次の10年に向けて
 
-> Music trends continue to evolve in ways that are difficult to predict as technology and personal communication become more intertwined
+> テクノロジーと個人発信がさらに交錯し、音楽トレンドは予測困難な進化を続ける
 
-As we have seen so far, the evolution of online music has been shaped by the intersection of cities, artists, and technology. From the MP3 revolution to AI recommendations, music trends are changing rapidly due to the interaction of personal communication and globalization. Over the next 10 years, with the further evolution of generative AI and the emergence of new SNS, difficult-to-predict trends that fuse urban culture and personal communication will continue to form.
+ここまで見てきた通り、ネット音楽の進化は都市・アーティスト・技術の交錯によって形成されてきた。MP3革命からAIリコメンドまで、音楽トレンドは個人発信とグローバル化が相互作用することで急速に変化する。今後10年、ジェネラティブAIのさらなる進化や新SNSの登場により、都市文化と個人発信が融合した予測困難なトレンド形成が続くだろう。
 
 ---
 

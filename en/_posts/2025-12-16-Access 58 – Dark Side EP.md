@@ -12,13 +12,13 @@ title: Access 58 – Dark Side EP
 ---
 
 
-Access 58 is a unit composed of Paulo Nascimento (Urban Ritual) from Portugal and Philippe Quenum from France. He also releases under the name The Funk Element.
+Access 58は、ポルトガル出身のPaulo Nascimento(Urban Ritual)と、フランス出身のPhilippe Quenumによるユニット。The Funk Element名義でもリリースしている。
 
-"Dark Side EP" is a Techno track released in 1999 on the Access58 label.
+「Dark Side EP」は、Access58のレーベルから1999年にリリースしたTechnoトラック。
 
-AA1 is a remix by American techno/ambient producer & DJ Steve Stoll.
+AA1は、アメリカのtechno／ ambient プロデューサー&DJ Steve Stollによるremix。
 
-AA2 is a remix by Pacou, a German techno producer who has released on prestigious labels such as his own label LL Records, Tresor, Djax-Up-Beats, Konsequent, and Music Man Records.
+AA2は、自身のレーベルであるLL Records、Tresor、Djax-Up-Beats、Konsequent、Music Man Recordsなど名門レーベルからリリースしている、ドイツのTechnoプロデューサーPacouによるremix。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ AA1. Orient Express (Steve Stoll Proper Dub Remix)
 AA2. Quiet Mind (Pacou Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m70119749536?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70119749536?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xWrxlyOGCPY?si=kIcKrS0_wgTzUX9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

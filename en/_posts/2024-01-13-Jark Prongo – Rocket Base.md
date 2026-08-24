@@ -12,15 +12,15 @@ title: Jark Prongo – Rocket Base
 ---
 
 
-A producer duo working on Dutch house and techno. Jark Prongo is made up of Gaston Steenquist (Amsterdam) and Rene ter Horst (Haarlem).
+オランダのハウスとテクノに取り組むプロデューサーデュオ。Jark Prongo（ジャーク・プロンゴ）は、ガストン・スティーンキスト（アムステルダム）とレネ・テル・ホルスト（ハールレム）の2人からなります。
 
-Also known as DJ Zki & Dobre and René Et Gaston, they started working together in 1991.
+また、DJ Zki & DobreおよびRené Et Gastonとしても知られており、1991年に共同作業を始めました。
 
-In the same year, they founded the record label Fresh Fruit. Most of the tracks they released on Fresh Fruit were from before they left the label in 1995.
+同じ年に、彼らはレコードレーベルFresh Fruitを設立しました。彼らがFresh Fruitでリリースしたほとんどのトラックは、1995年にレーベルを離れるまでのものでした。
 
 After their departure, Jark Prongo founded Pssst Music, releasing productions under various aliases as before, and in 1998, the real success story of Jark Prongo began.
 
-Sasha played "Movin' Thru Your System" which received great reviews and was included on the Global Underground CD.
+Sashaが "Movin' Thru Your System" をプレイし、高く評価されてGlobal Underground CDに収録されました。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ A2. Rocket Base (Westbam's Electric Kingdom Mix) Remix – WestBam
 Vocals – Afrika Islam
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SVHP1DUjwcc?si=jZiVKD9L-0h86aa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

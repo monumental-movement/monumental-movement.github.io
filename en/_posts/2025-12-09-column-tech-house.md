@@ -10,16 +10,16 @@ tags:
 - Tech House
 - House
 - Minimal
-title: '[Column] Tech House: Minimal precision and reinventing the groove'
+title: 【コラム】 Tech House：ミニマルの精度とグルーヴの再発明
 ---
 
 
 
-## From UK hard house to post-90s club culture
+## UKハードハウスから90年代以降のクラブカルチャーまで
 
-Text: mmr｜Theme: Background of birth, characteristics of sound, main artists, development in each region, expansion since the 2000s, and current situation
+文：mmr｜テーマ：誕生の背景、サウンドの特徴、主要アーティスト、各地域での発展、2000年代以降の拡張、そして現在の状況について
 
-Tech House is a genre that fuses the minimal structure of techno with the groove of house, establishing a unique presence in club scenes around the world from the mid-1990s to the 2000s. To put it bluntly, it is ""softer than techno and harder than house,'' but in reality it is a complex music culture that closely reflects the process of scene formation, regional characteristics, and the evolution of DJ culture.
+Tech House（テックハウス）は、テクノのミニマルな構造とハウスのグルーヴを融合させ、1990年代半ばから2000年代にかけて世界中のクラブシーンで独自の存在感を確立したジャンルである。乱暴に言えば「テクノより柔らかく、ハウスより硬質」だが、その実態はシーン形成の過程と地域性、DJカルチャーの進化を密接に反映した複雑な音楽文化だ。
 
 
 ---
@@ -29,7 +29,7 @@ Tech House is a genre that fuses the minimal structure of techno with the groove
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -38,64 +38,64 @@ color: #fff;
 </style>
 
 
-## 1. What is Tech House?
+## 1. Tech Houseとは何か
 
-Tech House is generally understood as ""dance music that incorporates the structure and sonic processing of techno while maintaining the warmth of house.'' It combines the minimalism, metallic textures, and repetitive structures found in techno while retaining the funkiness and fatness of house.
+Tech Houseの一般的な理解は「ハウスの温度感を保ちながら、テクノの構造と音響処理を取り入れたダンスミュージック」である。ハウスのファンキーさやボトムの太さを残しつつ、テクノに見られるミニマルリズム、金属的な質感、繰り返しの構造が組み合わさる。
 
-The characteristics can be summarized as follows.
+特徴をまとめると次のようになる。
 
-* 4-hit narrow range kick
-* Tight bass line in the mid-low range instead of sub-bass
-* Detailed placement of synth/percussion
-* Minimal loop structure
-* Vocals are fragmentary or absent
-* Sustainable Groove for Clubs
+* 4つ打ちナローレンジのキック
+* サブベースではなく中低域のタイトなベースライン
+* シンセ・パーカッションの細かな配置
+* ミニマルなループ構造
+* ボーカルは断片的、もしくは無い
+* クラブ向けの持続可能なグルーヴ
 
-Tech House is often confused with ""a subgenre of techno" or ""a subgenre of house," but it is actually a hybrid that bridges the two, and can be said to be music that naturally formed in the context of club DJ mixes.
+Tech Houseはしばしば「テクノの一部」「ハウスのサブジャンル」と混同されるが、実際にはその両者を架け橋するハイブリッドであり、クラブDJのミックスの文脈で自然に成立した音楽だと言える。
 
 ---
 
-## 2. 1980s to 1990s: Background of establishment
+## 2. 1980〜90年代：成立の背景
 
-Tech House's origins are said to be the club culture of the early 1990s in Britain, particularly around London.
-At the time, Acid House and Rave were popular in Britain, and a variety of styles such as Hard House, Progressive House, Techno, and Tribal House were mixed together.
+Tech Houseの出発点は1990年代初期の英国、特にロンドン周辺のクラブ文化だとされている。
+当時の英国では Acid House や Rave が広がり、Hard House、Progressive House、Techno、Tribal House など多様なスタイルが混在した。
 
-In particular, the following trends were the premise for the creation of Tech House.
+特に以下の動向がTech House誕生の前提となった。
 
-* Minimalism of UK Techno (Surgeon, Regis, Dave Clarke, etc.)
-* A British take on the groove of US House (Chicago/NY)
-* Mix of Tribal House, Garage, and Progressive House
-* Cross-genre DJ styles from Pirate Radio and the London club scene (The End, etc.)
+* UK Techno（Surgeon、Regis、Dave Clarke など）のミニマル志向
+* US House（Chicago/NY）のグルーヴの英国的咀嚼
+* Tribal House、Garage、Progressive House の混在
+* Pirate Radio やロンドンのクラブシーン（The Endなど）におけるジャンル横断的DJスタイル
 
-The people who gathered at the club weren't just looking for either techno or house music, they were enjoying long-form DJ plays that mixed elements of both. Through this process, he developed a sense of mixing that naturally combines the "hardness of techno" and the "warmth of house."
+クラブに集まる人々は単にテクノやハウスのどちらかを求めるのではなく、両者の要素を往来する長尺DJプレイを楽しんでいた。その中で、「テクノの硬さ」と「ハウスの暖かさ」を自然に組み合わせるミックス感覚が育まれていく。
 
 ---
 
 ## 3. Mid-1990s: Formation of early Tech House
 
-In the mid-1990s, several labels and DJs established Tech House as a musical direction.
+1990年代中盤、いくつかのレーベルとDJが Tech House を「ひとつの音楽的方向性」として確立する。
 
-The following are of particular importance:
+特に重要視されるのが次の存在だ。
 
-* Mr. C (co-founder of The End, member of The Shamen)
+* Mr. C（The Endの共同創設者、The Shamenのメンバー）
 *Terry Francis (Fabric resident)
-*Eddie Richards
-*Nathan Coles
-* Wiggle (Party and Label)
+* Eddie Richards
+* Nathan Coles
+* Wiggle（パーティおよびレーベル）
 * Swag Records
 
-While having house roots, they actively experimented with techno-like sound processing, minimalizing the groove, and tightening the bass.
-One of the reasons why the name Tech House became so popular was because of their DJ mixes and long-time performances at clubs The End and Fabric.
+彼らはハウスのルーツを持ちながらテクノ的な音処理、グルーヴのミニマル化、ベースのタイト化を積極的に実験していった。
+Tech Houseという名称が広まった理由の一つとして、彼らのDJミックスやクラブ「The End」「Fabric」での長時間プレイが挙げられる。
 
-The following is a concise diagram of the genealogy of early Tech House.
+以下は初期Tech Houseの系譜を簡潔に図示したもの。
 
 ---
 
-### ■ Structure of the birth of Tech House
+### ■ Tech House誕生の構造
 
 <div class="mermaid">
 flowchart TD
-    A["Early Techno (UK)"] --> D["Tech House Formation"]
+    A["Early Techno (UK)"] --> D["Tech House 形成"]
     B["US House / Garage"] --> D
     C["Progressive House"] --> D
     E["The End / Wiggle Crew"] --> D
@@ -104,41 +104,41 @@ flowchart TD
 
 ---
 
-## 4. Role of the UK club scene
+## 4. UKクラブシーンの役割
 
-Tech House's first real reception was in London. The following clubs are particularly important.
+Tech Houseが最も最初に確固たる形で受容されたのはロンドンだった。特に以下のクラブは重要である。
 
-* **The End** (London)
-* **Fabric** (London)
+* **The End**（ロンドン）
+* **Fabric**（ロンドン）
 
-The End was run by Mr. C and promoted club culture with a musicality that crossed house and techno.
-Since opening in 1999, Fabric has shown the world the intersection of Tech House, Minimal, Techno, Breaks, etc. through its mix CD series "Fabric" and "Fabriclive."
+The EndはMr. Cが運営し、ハウスとテクノを横断する音楽性を軸にクラブカルチャーを発信した。
+Fabricは1999年の開業以降、そのミックスCDシリーズ「Fabric」「Fabriclive」を通してTech House、Minimal、Techno、Breaks などの交差点を世界に示した。
 
 ---
 
-## 5. Early 2000s: Connecting with Minimal
+## 5. 2000年代初期：Minimalとの接続
 
-In the 2000s, Minimal Techno from Berlin, Germany attracted worldwide attention.
-As a result, the intersection with Tech House will rapidly progress, and the following ecosystem will become stronger.
+2000年代に入り、ドイツ・ベルリンの Minimal Techno が世界的に注目される。
+その流れで Tech House との交差が急速に進み、以下の生態系が強固になる。
 
-* Minimalization of Berlin Techno
-* Influence of labels such as Minus and Cocoon
-* Interaction with Ibiza's club culture
-* Development of UK Tech House and fusion of German forces
+* ベルリン Techno のミニマル化
+* Minus や Cocoonなどのレーベルの影響
+* Ibiza のクラブ文化との相互作用
+* UK Tech Houseの発展とドイツ勢の融合
 
-In particular, the following artists are important as they bridge the gap between Tech House and Minimal.
+特に以下のアーティストはTech HouseとMinimalの橋渡しをした存在として重要である。
 
-* Steve Bug (Poker Flat)
+* Steve Bug（Poker Flat）
 * Booka Shade
-*M.A.N.D.Y.
-* Ricardo Villalobos (minimal but also intersects with Tech House)
+* M.A.N.D.Y.
+* Ricardo Villalobos（ミニマルだがTech Houseとも交差）
 * Loco Dice
-*Luciano
-*John Tejada
+* Luciano
+* John Tejada
 
 ---
 
-### ■ Tech House × Minimal connection
+### ■ Tech House × Minimalの接続
 
 <div class="mermaid">
 flowchart TD
@@ -150,35 +150,35 @@ flowchart TD
 
 ---
 
-## 6. Changes in sound
+## 6. サウンド面の変化
 
-Towards the late 2000s, Tech House underwent the following changes.
+2000年代後半にかけて Tech House は次の変化を経験する。
 
-* **More detailed arrangement of rhythm**
-* **Increase in sub-base** (increased influence of Germany and South America)
+* **リズムのより細密な配置**
+* **サブベースの増加**（ドイツ・南米影響の拡大）
 * **Dry percussion**
-* **Minimalization of effect processing**
-* **Long composition optimized for DJ mixes**
+* **エフェクト処理のミニマル化**
+* **DJミックスに最適化した長尺構成**
 
-At this time, Tech House was characterized by being ""softer than minimal", ""darker than house", and ""lighter than techno'', and became one of the standard formats in the club scene.
+この頃のTech Houseは「ミニマルより柔らかい」「ハウスより暗め」「テクノより軽い」が特徴となり、クラブシーンの標準フォーマットの一つとなる。
 
 ---
 
 ## 7. 2010s: Mainstreaming
 
-In the 2010s, Tech House became one of the most frequently played 4/4 in clubs and festivals around the world. The increase in demand was particularly large in Ibiza.
+2010年代に入ると、Tech Houseは各国のクラブやフェスで最も頻繁にプレイされる4つ打ちの一つとなる。特にIbizaでの需要増加は大きかった。
 
-Examples of featured artists:
+注目されるアーティストの例：
 
-*Jamie Jones (Hot Creations)
-*Lee Foss
+* Jamie Jones（Hot Creations）
+* Lee Foss
 * Hot Since 82
-* Green Velvet (bridge between Tech House and House)
-* Claude VonStroke (Dirtybird context)
-*Solardo
-* Fisher (commercial success)
+* Green Velvet（Tech HouseとHouseの架橋）
+* Claude VonStroke（Dirtybirdの文脈）
+* Solardo
+* Fisher（商業的成功）
 
-In the late 2010s, ""festival-style tech house'' with more poppy and catchy hooks emerged and expanded as music used at large-scale events.
+2010年代後半には、よりポップでキャッチーなフックを持つ「フェス型Tech House」が登場し、大規模イベントで使われる音楽として拡大した。
 
 ---
 
@@ -195,122 +195,122 @@ flowchart TD
 
 ---
 
-## 8. Regional development
+## 8. 地域別の発展
 
 Tech House is interpreted and cultivated differently in each country. Below is a summary of representative regions.
 
-### ■ 1. United Kingdom
+### ■ 1. 英国
 
-*Original place of origin
-* A natural mix of house and techno
-* Fabric and The End are the center of the scene
+* オリジナルの発生地
+* ハウスとテクノの混在が自然に行われた
+* FabricやThe Endがシーンの中心
 
-### ■ 2. Germany (Berlin)
+### ■ 2. ドイツ（ベルリン）
 
-* The rise and connection of Minimal Techno
-*Influenced by Perlon, Kompakt, Poker Flat, etc.
-* More minimal and dry sound image
+* Minimal Technoの隆盛と接続
+* Perlon、Kompakt、Poker Flatなどが影響
+* よりミニマルで乾いた音像
 
-### ■ 3. America
+### ■ 3. アメリカ
 
-* Funky and humorous Tech House on the West Coast (represented by Dirtybird)
-* East coast has strong connections with NY/Chicago House
+* 西海岸（Dirtybirdに代表）ではファンキーでユーモラスなTech House
+* 東海岸はNY/Chicago Houseとの接続が強い
 
-### ■ 4. South America
+### ■ 4. 南米
 
-* Characterized by strong sub-bass and crisp rhythm
-* Demand for Tech House increases due to Festa events
+* サブベースの強さ、リズムのキレが特徴
+* Festa系イベントでTech House需要が拡大
 
 ---
 
-## 9. Role of the label
+## 9. レーベルの役割
 
-The following are the labels that defined Tech House.
+Tech Houseを決定づけたレーベルとして以下が挙げられる。
 
 * Wiggle
 * Swag Records
-*The End Recordings
+* The End Recordings
 * Poker Flat
-*Mobilee
-* Bedrock (more Progressive, but intersects with Tech House)
-*Hot Creations
+* Mobilee
+* Bedrock（Progressive寄りだがTech Houseと交差）
+* Hot Creations
 * Dirtybird
 
-These labels defined Tech House's sound image by focusing on highly functional tracks that met the needs of the club scene, minimalism, and precision in sound processing.
+これらレーベルは、クラブ現場のニーズに応える機能性の高いトラック、ミニマル志向、そして音響処理の精度にこだわり、Tech Houseの音像を定義した。
 
 ---
 
-## 10. Equipment/production aspects
+## 10. 器材・制作面
 
-Although Tech House is not bound by any specific equipment, the following production trends are generally observed.
+Tech Houseには特定の機材縛りがあるわけではないが、一般的に以下のような制作傾向が見られる。
 
-* Minimal arrangement of square wave and sine wave basses
-* Drum machine sound sources such as 909, 808, 707, etc.
-* Predominantly sample-based processing rather than modular
-* Reverb is short
-* Tighten the midrange with EQ
-* Gradual development in 16-24 bar units
+* 方形波やサイン波ベースをミニマルに配置
+* 909、808、707などのドラムマシン音源
+* モジュラーよりもサンプルベースの処理が主流
+* リバーブは短め
+* EQで中域をタイトに
+* 16〜24小節単位での緩やかな展開
 
-The production philosophy emphasizes ""aesthetics of subtraction" and ""designing blank space that functions in a club space."
-
----
-
-## 11. Tech House and DJ Culture
-
-Tech House is inseparable from DJ culture. It is often understood in the context of a DJ set rather than a genre.
-
-* Suitable for long mixes of 2 hours or more
-* Adapted to floor temperature management (warm-up → peak → after hours)
-* A long story can be built with minimal development
-
-In particular, the Fabric mix series greatly contributed to Tech House's global recognition.
+制作思想としては、「引き算の美学」「クラブ空間で機能する余白の設計」が重要視される。
 
 ---
 
-## 12. Trends in the 2020s
+## 11. Tech HouseとDJカルチャー
 
-In recent years, Tech House has seen the following trends.
+Tech HouseはDJ文化と不可分である。ジャンルというより「DJセットの文脈」で理解されることが多い。
 
-* Return to simple floor-oriented configuration
-* Commercial success of pop tech house
-* Re-evaluation of Minimal Tech House
-* Population growth in South America and Eastern Europe
-* Continued popularity as a DJ tool
+* 2時間以上の長尺ミックスに向く
+* フロアの温度管理（ウォームアップ→ピーク→アフターアワーズ）に適応
+* ミニマルな展開により長いストーリーを構築可能
 
-Furthermore, on digital distribution platforms, Tech House has a stable popularity as a genre between house and techno, and demand at clubs has been maintained for a long time.
+特にFabricのミックスシリーズはTech Houseの世界的認知に大きく貢献した。
 
 ---
 
-## 13. Tech House Chronology
+## 12. 2020年代の動向
+
+近年、Tech Houseには次のような動向が見られる。
+
+* フロア志向のシンプルな構成へ回帰
+* ポップ的Tech Houseの商業的成功
+* ミニマルTech Houseの再評価
+* 南米・東欧での人口増加
+* DJツールとしての人気継続
+
+またデジタル配信プラットフォームではTech Houseがハウスとテクノの中間ジャンルとして安定した人気を持ち、クラブ現場での需要も長期的に維持されている。
+
+---
+
+## 13. Tech House 年表
 
 <div class="mermaid">
 flowchart TD
-    A["Late 1980s"] --> B["Techno/House mix in UK"]
-    C["1990s early"] --> D["Expansion of Rave culture"]
-    E["Mid 1990s"] --> F["Wiggle / The End was a formative period"]
-    G["1999"] --> H["Opening of Fabric"]
-    I["First half of 2000s"] --> J["Connecting with Minimal"]
-    K["2010s"] --> L["Global Tech House boom"]
-    M["2020s"] --> N["Achieving both diversification and commercialization"]
+    A["1980s 後半"] --> B["UKでTechno/House混交"]
+    C["1990s 初期"] --> D["Rave文化の拡大"]
+    E["1990s 中期"] --> F["Wiggle / The Endが形成期"]
+    G["1999"] --> H["Fabric開業"]
+    I["2000s 前半"] --> J["Minimalとの接続"]
+    K["2010s"] --> L["世界的Tech Houseブーム"]
+    M["2020s"] --> N["多様化と商業化の両立"]
 </div>
 
 
 ---
 
-## 14. Summary
+## 14. まとめ
 
-Tech House is a type of club music that combines the warmth of house with the minimal structure of techno.It grew mainly in the British club scene in the 1990s, and since the 2000s, it has spread all over the world, closely intersecting with Germany and the United States.
+Tech Houseは、ハウスの温かさとテクノのミニマル構造を融合させたクラブミュージックであり、1990年代英国のクラブシーンを中心に成長し、2000年代以降はドイツやアメリカとも密接に交差して世界中に広がった。
 
-Today, Tech House has evolved into music that is played in a wide range of contexts, from underground to main stage, and has become an essential part of DJ culture.
+今日のTech Houseは、アンダーグラウンドからメインステージまで幅広い文脈でプレイされる音楽へと進化し、DJカルチャーにおいて欠かせない存在となっている。
 
-In this article, we have systematically organized how the Tech House genre was formed and how it has developed into its current form, covering its history, sound, regional culture, production theory, and representative artists. Tech House will continue to be an important part of club culture in the future.
+本稿では、その歴史・サウンド・地域文化・制作論・代表的アーティストを網羅し、Tech Houseというジャンルがどのように形成され、どのように現在の姿へと発展したかを体系的に整理した。今後のクラブカルチャーの中でも、Tech Houseは引き続き重要な軸となるだろう。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8MyVwGRDawQ?si=dJehTw3TB74dE6Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

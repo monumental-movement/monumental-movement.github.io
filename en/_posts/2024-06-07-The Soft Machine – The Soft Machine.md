@@ -15,9 +15,9 @@ title: The Soft Machine – The Soft Machine
 ---
 
 
-The Soft Machine is a British progressive jazz-rock band from Canterbury formed in mid-1966 by Mike Rutledge, Robert Wyatt, Kevin Ayers, David Allen, and Larry Nowlin. The band was named after William S. Burroughs' novel ""The Soft Machine''.
+The Soft Machine（ソフト・マシーン）は、1966年半ばにマイク・ラトレッジ、ロバート・ワイアット、ケビン・エアーズ、デイヴィッド・アレン、ラリー・ナウリンによって結成されたカンタベリー出身のUKプログレッシヴジャズロックバンド。バンド名は、ウィリアム S. バロウズの小説「ソフトマシーン」にちなんで名付けられた。
 
-Soft Machine became one of Britain's first psychedelic bands, later moving into progressive rock and jazz rock, and becoming an instrumental band in 1971.
+ソフトマシーンは、イギリス初のサイケデリックバンドの1つとなり後にプログレッシブロックやジャズロックに移行し、1971年にはインストゥルメンタルバンドになった。
 
 #### Tracklist
 ```md
@@ -36,7 +36,7 @@ Soft Machine became one of Britain's first psychedelic bands, later moving into 
 13. Box 25/4 Lid
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdQ3Uc9Rc8g?si=wKnvhQ7S8BBwF9io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

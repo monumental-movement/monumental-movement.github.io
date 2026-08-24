@@ -9,18 +9,18 @@ layout: post
 tags:
 - Ambient
 - Techno
-title: '[Column] Ambient Techno / Deep Ambient'
+title: 【コラム】 Ambient Techno / Deep Ambient（深海系アンビエント）
 ---
 
 
 
-## 1. Concepts and terminology
+## 1. 概念と用語整理
 
-Text: mmr｜Theme: Rather than separating the two as genre names, the two are about the common design philosophy of ""sinking time," ""space that makes you feel pressure," and ""a state in which sound continues to exist.''
+文：mmr｜テーマ：両者をジャンル名として切り分けることではなく、「沈降する時間」「圧力を感じさせる空間」「音が存在し続ける状態」という共通の設計思想について
 
-Ambient Techno is a field of electronic music that was established in the early 1990s, and is a musical style that combines the repetitive rhythm structure of techno with the spatiality and sustainability of ambient music. Its distinctive feature is that it retains the sense of time of club music while also functioning as music for appreciation.
+Ambient Techno（アンビエント・テクノ）は、1990年代初頭に成立した電子音楽の一領域であり、テクノが持つ反復的リズム構造と、アンビエントが持つ空間性・持続性を同時に成立させた音楽様式である。クラブ・ミュージックの時間感覚を保持しつつ、鑑賞音楽としても機能する点に特徴がある。
 
-Deep Ambient (so-called deep-sea ambient) has a higher level of abstraction and does not require the presence of beats. The main focus is on extremely deep sound images, sustained sounds centered on low frequency bands, and compositions that obscure the contours of time.
+Deep Ambient（ディープ・アンビエント、いわゆる深海系アンビエント）は、より抽象度が高く、拍の存在を必須としない。極端に奥行きのある音像、低周波数帯を中心とした持続音、時間の輪郭を曖昧にする構成が主軸となる。
 
 ---
 
@@ -29,7 +29,7 @@ Deep Ambient (so-called deep-sea ambient) has a higher level of abstraction and 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -38,127 +38,127 @@ color: #fff;
 </style>
 
 
-## 2. Prehistory: Divergence and approach of ambient and techno
+## 2. 前史：アンビエントとテクノの分岐と接近
 
-Ambient music, which was formed in the 1970s, embraced the idea of ​​music functioning as part of the environment. What is important is that the acoustics were designed to dominate space and time, minimizing melodies and dramatic developments.
+1970年代に形成されたアンビエント音楽は、環境の一部として機能する音楽という思想を内包していた。旋律や劇的展開を最小化し、空間と時間を支配する音響として設計されていた点が重要である。
 
-On the other hand, techno, which was established in the late 1980s, has developed as a music that induces physical movement, with repetitive beats and mechanical precision at its core. Although these two trends seem to be polar opposites, they share common elements of ""persistence," ""repetition," and ""non-narrative.''
+一方、1980年代後半に確立したテクノは、反復するビートと機械的精度を核とし、身体的な運動を誘発する音楽として発展した。この二つの流れは、一見対極にあるようでいて、「持続」「反復」「非物語性」という共通要素を持っていた。
 
-From the late 1980s to the early 1990s, as club culture matured, there was a need for music that could function outside of the dance floor, or music that could support non-peak times, and the two became closer in practical terms.
-
----
-
-
-## 3. The Orb and the establishment of ambient techno
-
-The Orb integrates the spatial processing of ambient, techno, and dub, presenting an acoustic structure that can withstand long-term playback. In their works, there is little clear beginning, development, development, and conclusion, and the sounds float, circulate, and slowly transform.
-
-What is noteworthy is that even in scenes where rhythm is in the foreground, he never shows off his driving force. The beat is not a device that directs movement, but rather serves as a reference point for measuring depth.
-
-This design concept became the basis of Ambient Techno, and had a decisive influence on the subsequent Deep Ambient and deep-sea techno expressions.
-
+1980年代末から1990年代初頭にかけて、クラブ文化の成熟とともに、フロアの外側で機能する音楽、あるいはピークタイム以外の時間帯を支える音楽が求められ、両者は実践的に接近していく。
 
 ---
 
-## 4. Metaphor of deep sea sensation
 
-The word "deep sea" is not a musical genre, but an aural metaphor. The core of deep-sea ambient is an attempt to recreate, through sound, an environment where light does not reach, the sense of distance is lost, and the sense of direction is ambiguous.
+## 3. The Orbとアンビエント・テクノの成立
 
-This metaphor is no coincidence. In deep water, high frequencies are attenuated and low frequencies propagate over long distances. The location of the sound source becomes unclear, and the sound is perceived as layers rather than points. Deep sea ambient uses this physical condition in its acoustic design.
+The Orbは、アンビエントとテクノ、さらにダブの空間処理を統合し、長時間再生に耐える音響構造を提示した存在である。彼らの作品では、明確な起承転結は希薄であり、音は浮遊し、循環し、ゆっくりと変質する。
+
+特筆すべきは、リズムが前景に出る場面であっても、決して推進力を誇示しない点である。ビートは運動を指示する装置ではなく、深度を測るための基準点として機能する。
+
+この設計思想は、Ambient Technoの基礎となり、後続のDeep Ambientや深海的テクノ表現に決定的な影響を与えた。
 
 
 ---
 
-## 5. Technical chapter: Low frequency design and frequency distribution
+## 4. 深海感覚という比喩
 
-In deep-sea acoustics, the low range exists not just for its power. The band around 20Hz to 80Hz does not play a melodic role, but is used to represent the pressure and mass of space.
+「深海」という言葉は音楽的ジャンルではなく、聴覚的比喩である。光が届かず、距離感が失われ、方向感覚が曖昧になる環境を音で再現する試みが、深海系アンビエントの核となる。
 
-Sub-bass often doesn't have a clear attack, rising slowly and decaying slowly. As a result, the listener is placed in a state where the listener does not "hear" the sound, but "feels" it as sound pressure.
-
-From the low-mid range to the mid-range, sustained sounds with suppressed overtones are placed, which serves to equalize the density of the sound.
+この比喩は偶然ではない。深い水中では高周波が減衰し、低周波が長距離を伝播する。音源の位置は不明瞭になり、音は点ではなく層として知覚される。深海的アンビエントは、この物理的条件を音響設計に転用している。
 
 
 ---
 
-## 6. Technical chapter: Reverberation and spatial processing
+## 5. 技術章：低域設計と周波数分布
 
-In deep-sea ambient music, reverb is treated not as decoration but as structure itself. Short reverberations are not used, and long reverberations with vague early reflection contours are selected.
+深海音響において、低域は単なる迫力のために存在するのではない。20Hzから80Hz付近の帯域は、旋律的役割を担わず、空間の圧力と質量を提示するために用いられる。
 
-What is important is that reverberation functions as an indicator of the passage of time. As the sound continues to disappear, the listener's sense of time is stretched, and the beginning and ending points of the song lose meaning.
+多くの場合、サブベースは明確なアタックを持たず、ゆっくりと立ち上がり、ゆっくりと減衰する。これにより、リスナーは音を「聴く」のではなく、音圧として「感じる」状態に置かれる。
 
-
----
-
-## 7. Technical chapter: Psychological effects and listening conditions
-
-Sustaining low frequencies, slow changes, and long reverberations work to psychologically lower alertness. This means that music does not arouse emotions, but functions as a device to regulate states of consciousness.
-
-Deep-sea ambient music has a high affinity with concentration, introspection, and a semi-awake state, making it a natural fit for work background music and meditation.
+中低域から中域にかけては、倍音構成を抑制した持続音が配置され、音響の密度を均一化する役割を果たす。
 
 
 ---
 
-## 8. Redefining rhythm
+## 6. 技術章：残響と空間処理
 
-Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth gauge.
+深海系アンビエントでは、リバーブは装飾ではなく、構造そのものとして扱われる。短い残響は使用されず、初期反射の輪郭が曖昧な長残響が選択される。
 
-In Deep Ambient, even this standard may be removed, but rather than being completely timeless, internal time is maintained through minute fluctuations.
-
-
----
-
-## 9. Comparison with Dub Techno
-
-Dub Techno is music that incorporates the spatial processing of dub into the structure of techno, emphasizing the back-and-forth movement of rhythm and reverberation. The repetition of chord stabs, the periodicity of delays, and the presence of beats are relatively clear.
-
-The decisive difference from deep-sea ambient music lies in the master-slave relationship of rhythm. In Dub Techno, the rhythm drives the space, but in Deep Ambient, the space embraces the rhythm.
+重要なのは、残響が時間の経過を示す指標として機能している点である。音が消え切らない状態が持続することで、リスナーの時間感覚は引き延ばされ、楽曲の開始点や終了点が意味を失う。
 
 
 ---
 
-## 10. Comparison with Deep Techno
+## 7. 技術章：心理効果と聴取状態
 
-Deep Techno is characterized by minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
+低域の持続、緩慢な変化、長い残響は、心理的に覚醒度を下げる方向に作用する。これは音楽が感情を喚起するのではなく、意識状態を調整する装置として機能していることを意味する。
 
-While Ambient Techno/Deep Ambient distances itself from the club-like nature, Deep Techno introduces deep-sea sound while retaining the floor function. This difference creates a clear difference in usage and listening posture.
+深海的アンビエントは、集中、内省、半覚醒状態と親和性が高く、作業用BGMや瞑想用途に自然に適合する。
 
 
 ---
 
-## 11. Deepening of modern techno
+## 8. リズムの再定義
+
+Ambient Technoにおけるリズムは、身体を動かす命令ではない。一定周期で現れるパルスは、深度計のように時間を測定するための基準である。
+
+Deep Ambientでは、この基準すら取り払われる場合があるが、完全な無時間状態ではなく、微細な揺らぎによって内部時間が保たれている。
+
+
+---
+
+## 9. Dub Technoとの対比
+
+Dub Technoは、テクノの構造にダブの空間処理を組み込み、リズムと残響の往復運動を強調する音楽である。コードスタブの反復、ディレイの周期性、ビートの存在感は比較的明確である。
+
+深海系アンビエントとの決定的差異は、リズムの主従関係にある。Dub Technoではリズムが空間を駆動するが、Deep Ambientでは空間がリズムを包み込む。
+
+
+---
+
+## 10. Deep Technoとの対比
+
+Deep Technoは、ミニマルな構造と低速テンポ、抑制された展開を特徴とし、クラブ文脈を保持したまま深度を追求する音楽である。
+
+Ambient Techno／Deep Ambientがクラブ性から距離を取るのに対し、Deep Technoはフロア機能を残しつつ、深海的音響を導入する。この違いは用途と聴取姿勢に明確な差を生む。
+
+
+---
+
+## 11. 現代テクノにおける深海化
 
 In modern techno production, slow-speed, low-stimulation expressions that differ from peak-time oriented styles are widespread. This is not a decline of the genre, but an expansion of its uses.
 
-Deep-sea acoustics became a common language across clubs, galleries, and private workspaces.
+深海的音響は、クラブ、ギャラリー、個人の作業空間を横断する共通言語となった。
 
 
 ---
 
-## 12. Design philosophy as work BGM
+## 12. 作業用BGMとしての設計思想
 
-What is important when using BGM for work is not to draw attention, but to stabilize attention. Deep-sea ambient music maintains a constant cognitive load by making the acoustic changes extremely gradual.
-
----
-
-
-## 13. Relationship with meditation/introspection usage
-
-In meditative applications, music is not the object but the background. Deep-sea ambient music structurally satisfies this condition.
-
-
-## 14. Chronology
-
-* 1970s: Formation of the concept of ambient music
-* Late 1980s: Establishment of techno
-* Early 1990s: The emergence of Ambient Techno
-* Mid-1990s: Expansion of expression with The Orb
-* Since the 2000s: Deep Ambient sound has become established.
-* After 2010s: Popularization of deep-sea techno
+作業用BGMにおいて重要なのは、注意を引かないことではなく、注意を安定させることである。深海系アンビエントは、音響の変化を極端に緩やかにすることで、認知負荷を一定に保つ。
 
 ---
 
 
-## 15. Structure diagram
+## 13. 瞑想・内省用途との関係
+
+瞑想的用途では、音楽は対象ではなく背景である。深海系アンビエントは、この条件を構造的に満たしている。
+
+
+## 14. 年表
+
+* 1970年代：アンビエント音楽の概念形成
+* 1980年代後半：テクノの確立
+* 1990年代初頭：Ambient Technoの登場
+* 1990年代中盤：The Orbによる表現拡張
+* 2000年代以降：Deep Ambient的音響の定着
+* 2010年代以降：深海的テクノの一般化
+
+---
+
+
+## 15. 構造図
 
 <div class="mermaid">
 graph TD
@@ -172,15 +172,15 @@ C --> F[Deep Ambient]
 
 ---
 
-## 16. Summary
+## 16. 総括
 
-Ambient Techno/Deep Ambient redefined music from an event to an environment. Deep sea sounds are a symbol of this, and are the foundation of a sustained listening culture in modern times.
+Ambient Techno / Deep Ambientは、音楽をイベントから環境へと再定義した。深海的音響はその象徴であり、現代における持続的リスニング文化の基盤となっている。
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5AiIsQPIBls?si=6FwvQdNICozmW8pi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

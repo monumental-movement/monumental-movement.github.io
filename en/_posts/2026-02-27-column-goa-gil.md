@@ -56,7 +56,7 @@ In the early days, rock, psychedelic rock, progressive rock, funk, and disco wer
 
 Over time, synthesizer-based electronic music from Europe increased, and in the 1980s, elements of acid and EBM began to mix in.
 
-The party was essentially "non-commercial" and the admission fee was vague. There are no flyers, and it spreads by word of mouth. The dates often coincided with full moons or specific holidays.
+The party was essentially "non-commercial" and the admission fee was vague. There are no flyers, and the food spreads by word of mouth. The dates were often aligned with full moons or specific holidays.
 
 > Goa parties were not an event, but a season.
 
@@ -66,7 +66,7 @@ The party was essentially "non-commercial" and the admission fee was vague. Ther
 
 The biggest feature of his play is the length of his sets.
 
-His sets lasted eight, 10, and sometimes 24 hours, whereas the average club DJ's rotations lasted one to two hours. At certain parties, he would sometimes play alone from the night until the evening of the next day.
+His sets lasted eight, 10, and even 24 hours, whereas the average club DJ's rotations lasted one to two hours. At certain parties, he would sometimes play alone from the night until the evening of the next day.
 
 The composition has clear phases.
 
@@ -79,7 +79,7 @@ A psychedelic and uplifting song
 4. Deepening of day and day
 Moving towards dark and experimental tracks
 
-He calls this "psychedelic yoga" and says he aims to transform consciousness through dance.
+He calls this ""psychedelic yoga'' and says he aims to transform consciousness through dance.
 
 > The set was designed around ritual curves, not time.
 

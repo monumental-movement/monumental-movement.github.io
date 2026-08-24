@@ -12,11 +12,11 @@ title: Tomita – The Planets
 ---
 
 
-Isao Tomita is a Japanese composer and electronic music pioneer.
+冨田勲（Isao Tomita）は、日本の作曲家および電子音楽のパイオニア。
 
-"The Planets" is one of Isao Tomita"s masterpieces, and is a reinterpretation of British composer Gustav Holst"s classical music suite of the same name using synthesizers and electronic music, and is an original arrangement and performance. Isao Tomita's "Planet" was highly acclaimed as an innovative piece of electronic music and attracted attention as a fusion of classical music and electronic music.
+「惑星」（"The Planets"）は、冨田勲の代表作の一つで、イギリスの作曲家グスターヴ・ホルストによる同名のクラシック音楽組曲をシンセサイザーと電子音楽によって再解釈し、独自に編曲・演奏したものです。冨田勲の「惑星」は、電子音楽の革新的な作品として高く評価され、クラシック音楽と電子音楽の融合として注目を浴びました。
 
-The jacket design is by Stanislaw Fernandes.
+ジャケットデザインはStanislaw Fernandes（スタニスワフ・フェルナンデス）。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ B3. VI Uranus
 B4. VII Neptune
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uv707GLbFGw?si=zwE73SpUQ8yobHf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

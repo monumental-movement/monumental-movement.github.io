@@ -9,17 +9,17 @@ tags:
 - Theme
 - JPop
 - 7inch
-title: Isao Sasaki – Farewell Space Battleship Yamato Warriors of Love – Good Enemy
+title: ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵
 ---
 
 
-"Isao Sasaki - Farewell Space Battleship Yamato: Warriors of Love - Good Enemy" is an insert song and image song for the 1978 movie "Farewell Space Battleship Yamato: Warriors of Love."
+「ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵」は、1978年の映画『さらば宇宙戦艦ヤマト 愛の戦士たち』の挿入歌・イメージソング。
 
-Lyrics - Yu Aku
+作詞 - 阿久悠 
 
-Composition/Arrangement - Yasushi Miyagawa
+作曲・編曲 - 宮川泰 
 
-Song - Isao Sasaki
+ 歌 - ささきいさお
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ A. 好敵手
 B. テレサよ永遠に
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m54170309035?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54170309035?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEpoq39ezN8?si=8jBS81DdYfFoXR7V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

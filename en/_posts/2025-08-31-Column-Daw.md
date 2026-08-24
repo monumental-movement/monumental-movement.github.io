@@ -9,65 +9,64 @@ tags:
 - Daw
 - 90s
 - 00s
-title: '[Column] History and evolution of DTM (DAW) — How the sound production environment
-  has changed from home to professional'
+title: 【コラム】 DTM（DAW）の歴史と変遷 — 家庭からプロへ、音の制作環境がどう変わったか
 ---
 
 
 ## "An environment where everyone can deliver sound to the world"
 
-Text: mmr｜Theme: A cultural device symbolizing the "democratization of music production"
+文：mmr｜テーマ：「音楽制作の民主化」を象徴する文化的装置
 
-DTM (DeskTop Music) - The workflow, called "DTM" in Japanese and DAW (Digital Audio Workstation) in English-speaking countries, refers to a culture in which recording, editing, mixing, and production are completed using computers and software. In this article, we will organize the flow from its emergence to the present, along with a chronology, with a focus on "technological turning points" and "cultural impact."
+DTM（DeskTop Music／デスクトップミュージック）──日本語では「DTM」と呼ばれ、英語圏では主にDAW（Digital Audio Workstation）と呼ばれるワークフローは、録音・編集・ミックス・制作をコンピュータとソフトウェア中心に完結させる文化を指します。本稿では「技術的な転換点」と「文化的なインパクト」を軸に、発生から現在に至るまでの流れを年表と合わせて整理します。
 
 <hr>
 
 ### Trend by era
 
-**1940–1960s**: Era of tape and multitrack recording
-Techniques for "cutting and pasting" sound developed, such as tape editing, tape looping, and musique concrète. Overdub recording in studios became popular.
+**1940–1960年代**：テープとマルチトラック録音の時代
+テープ編集、テープループ、ミュージック・コンクレートなど、音を「切って貼る」技術が発展。スタジオでの多重録音が普及。
 
-**1970s**: Synthesizers and early computer music
-Instruments such as analog synths and the Minimoog spread, and electronic music production methods diversify.
+**1970年代**：シンセサイザーと初期コンピュータ音楽
+アナログシンセ、ミニムーグなどの楽器が広がり、電子音楽の制作手法が多様化。
 
-**Around 1983**: The appearance of the MIDI standard (standardized data communication between musical instruments) → revolutionized the production workflow.
+**1983頃**：MIDI規格の登場（楽器間データ通信が標準化）→ 制作ワークフローに革命。
 
-**Late 1980s – Early 1990s**: Early digital editing/sequencer + hardware era
-Introducing samplers, hardware sequencers, and early computer-based music software. The advent of professional digital recording systems.
+**1980s後半–1990s前半**：初期のデジタル編集/シーケンサー＋ハードウェアの時代
+サンプラー、ハードウェアシーケンサー、初期のコンピュータベース音楽ソフトが登場。プロ用デジタル録音システムの出現。
 
-**Mid-Late 1990s**: Professionalization of Pro Tools and digital recording
-High-performance recording systems that rely on hardware have become widespread, and post-production and recording are rapidly becoming digital. Plug-in standards such as VST have also been established.
+**1990s中盤–後半**：Pro Toolsとデジタル録音のプロフェッショナル化
+ハードウェア依存の高性能録音システムが普及し、ポストプロダクションやレコーディングでデジタル化が急速に進む。VSTなどのプラグイン規格も確立。
 
 **2000s**: Computer-based DAWs became mainstream and home studios exploded.
 Lower prices and improved plug-in quality have made it possible for individuals to create professional-quality products. Loop culture, combined with the expansion of online distribution.
 
 **2010s**: DAW diversification and live/improvisational orientation (Ableton, etc.)
-Introducing non-linear editing, clip-based live music integration, cloud and collaboration tools.
+ノンリニア編集やクリップベースの生演奏統合、クラウドやコラボレーションツールが登場。
 
 **2020s**: AI-assisted production, cloud collaboration, further democratization
 Automatic mixing/mastering, generation AI, cloud project sharing, etc. affect the production flow.
 
 <hr>
 
-### Origin and early days (tape to analog era)
+### 起源と初期（テープ〜アナログの時代）
 
 The origin of DTM is the act of ""recording and editing sound to create a work.'' Experiments with physical media, such as tape editing (cutting and pasting), tape looping (creating repetitive sounds), tape reversing, and speed manipulation, shaped electronic music in the mid-20th century. This was an era where large studio equipment and skilled engineers were the focus.
 
 <hr>
 
-### Revolution brought about by the advent of MIDI (around 1983)
+### MIDIの登場がもたらした革命（1983年頃）
 
 MIDI (Musical Instrument Digital Interface) is a standard for exchanging note information and control information between keyboards, sequencers, and computers. This made production by integrating synthesizers and external modules much easier, and made software sequence control (later the core of DAWs) a reality. MIDI standardizes "performance information" and dramatically increases the flexibility of music production.
 
 <hr>
 
-### The Rise of Computers and Software (1990s)
+### コンピュータとソフトウェアの台頭（1990年代）
 
-Improvements in computer performance and the practical use of hard disk recording have made it possible to edit audio waveforms digitally. Avid"s Pro Tools (then Digidesign) digitally enabled professional recording and editing workflows and became the industry standard for film, broadcast, and music production. At the same time, software sequencers/comprehensive DAWs such as Steinberg"s Cubase and Emagic's Logic (later acquired by Apple) became popular. Furthermore, the VST (Virtual Studio Technology) plug-in proposed by Steinberg expanded the ecosystem by providing a mechanism for third parties to develop software sound sources and effects.
+コンピュータの性能向上とハードディスク録音の実用化により、音声波形の編集がデジタルで可能となりました。AvidのPro Tools（当時はDigidesign）はプロの録音・編集ワークフローをデジタルで実現し、映画・放送・音楽制作で業界標準へ。並行してSteinbergのCubaseやEmagicのLogic（後にAppleが買収）など、ソフトシーケンサー／総合DAWが普及。さらに、Steinbergが提唱したVST（Virtual Studio Technology）プラグインは、ソフト音源やエフェクトを第三者が開発できる仕組みを提供し、エコシステムを拡大しました。
 
 <hr>
 
-### Birth of home studios and "individual production" (2000s)
+### ホームスタジオと「個人プロダクション」の誕生（2000年代）
 
 With improvements in the performance of personal PCs, the spread of audio interfaces, and improvements in the quality of plug-ins, recording is no longer just for the studio. Production environments centered on loops and patterns, such as FL Studio and Ableton Live, have changed the production style of electronic music and hip-hop, and it has become common for individuals to complete albums and soundtracks at home. With the combination of Internet distribution and sales platforms (Bandcamp, SoundCloud, etc.), the threshold from production to release has dropped dramatically.
 
@@ -79,19 +78,19 @@ DAWs have evolved from tools for simply "recording, arranging, and mixing" to mu
 
 <hr>
 
-### Technical key elements (what supports the DAW)
+### 技術的なキー要素（何がDAWを支えているか）
 
 **Audio interface**: The quality of AD/DA conversion and low latency (delay) determine the comfort of production.
 
 **MIDI**: Recording/editing performance information. We will also keep an eye on the evolution of standards such as MIDI CC and MIDI 2.0 (which is gradually becoming popular).
 
-**Plug-ins (VST/AU/AAX, etc.)**: Expand functionality by adding soft sound sources and effects.
+**プラグイン（VST/AU/AAX等）**：ソフト音源やエフェクトを追加することで機能を拡張。
 
-**Sampling and Samplers**: An important tool in sound design. Sampler culture is the foundation of hip-hop and electronica.
+**サンプリングとサンプラー**：サウンドデザインの重要手段。サンプラー文化はヒップホップやエレクトロニカの基盤。
 
-**Time stretch/pitch correction**: Freely manipulate the length and pitch of sounds (e.g. audio quantization, pitch correction tools).
+**タイムストレッチ／ピッチ補正**：音の長さ・高さを自在に操作（例：オーディオのクオンタイズ、ピッチ補正ツール）。
 
-**Automation and Modulation**: Achieve dynamism by changing parameters over time.
+**自動化とモジュレーション**：時間軸でパラメータを変化させることでダイナミズムを実現。
 
 **Non-destructive editing**: Can be edited without changing the original data. Basic functions of DAW.
 
@@ -101,11 +100,11 @@ DAWs have evolved from tools for simply "recording, arranging, and mixing" to mu
 
 [**Pro Tools (Avid)**](https://amzn.to/4n48V0L): Industry standard for professional recording and post-production. Its strength is its robust editing and mixing. AAX plugin.
 
-[**Cubase (Steinberg)**](https://amzn.to/3J9udfx): Strengths in MIDI sequences and composition workflow. The creator of the VST standard.
+[**Cubase（Steinberg）**](https://amzn.to/3J9udfx)：MIDIシーケンスや作曲ワークフローに強み。VST規格の生みの親。
 
 [**Logic Pro (Apple)**](https://amzn.to/3W5tqzp): Comprehensive and good cost performance. Popular with Mac users. Abundant built-in sound sources.
 
-[**Ableton Live**](https://amzn.to/3IN6QbN): Specialized in clip-based improvisation and live use. Widely used in electronic systems.
+[**Ableton Live**](https://amzn.to/3IN6QbN)：クリップベースの即興性とライブ用途に特化。エレクトロニック系に広く採用。
 
 [**FL Studio**](https://amzn.to/43ocpnQ): Ideal for creating loops/patterns, popular for beat making. Easy to use piano roll.
 
@@ -117,66 +116,66 @@ DAWs have evolved from tools for simply "recording, arranging, and mixing" to mu
 
 **Democratization**: Lower production costs have made it possible for a variety of artists to participate. Indie/home production has become the norm.
 
-**Collaboration**: International collaboration and file exchange via the Internet is expanding. Boundaries are solved.
+**コラボレーション**：ネットを介した国際的な共同制作やファイル交換が拡大。バウンダリーが解ける。
 
-**Changes in commercial models**: Direct sales through self-produced products, software usage through subscriptions, and expansion of the plug-in market.
+**商業モデルの変化**：セルフプロデュースによる直販、サブスクリプションによるソフト利用、プラグイン市場の拡大。
 
-**Learning and Community**: The democratization of learning is progressing through know-how sharing on YouTube and forums.
-
-<hr>
-
-### Current trends and near future
-
-**Introduction of AI**: AI tools are beginning to take over some of the work, such as songwriting assistance, mix correction, and mastering automation. There is a possibility that the role of tools will shift from "assistance" to "co-creator."
-
-**Cloud/Collaboration**: Online synchronization and real-time collaborative editing of DAW projects is increasing.
-
-**Modular integration/hybrid workflow: **Fusion of software and hardware (outboard, modular). While hardware equipment is being reproduced with software, there is also a strong movement to seek the presence of hardware.
-
-**Live and Interactive**: The application of DAWs is expanding not only to music but also to multimedia and interactive experience creation.
+**Learning and community**: The democratization of learning is progressing through know-how sharing on YouTube and forums.
 
 <hr>
 
-### Practical advice (for those starting DTM)
+### 現在のトレンドと近未来
 
-Clarify your purpose (track production, band recording, live performance, sound design, etc.). The choice of DAW is determined by the purpose.
+**AIの導入**：作曲補助、ミックス補正、マスタリング自動化など、AIツールが作業の一部を肩代わりしつつある。ツールの役割が「補助」から「共同クリエイター」へ近づく可能性。
+
+**クラウド／コラボレーション**：DAWプロジェクトのオンライン同期、リアルタイム共同編集が増加。
+
+**モジュラー統合／ハイブリッドワークフロー：**ソフトとハード（アウトボード、モジュラー）の融合。ハード機材をソフトで再現する一方、ハードのプレゼンスを求める動きも根強い。
+
+**ライブとインタラクティブ**：音楽だけでなくマルチメディア、インタラクティブな体験制作へDAWの応用が拡大。
+
+<hr>
+
+### 実践的アドバイス（これからDTMを始める人へ）
+
+目的をはっきりさせる（トラック制作、バンド録音、ライブパフォーマンス、サウンドデザイン等）。目的でDAWの選択が決まる。
 
 The basics are a sense of sound creation and arrangement. Musical trial and error and ear training are more important than expensive equipment.
 
 Plugins are tools. After understanding the basics of EQ, compression, and reverb, move on to special effects.
 
-Solidify your workflow. Get into the habit of using templates and shortcuts to save time.
+ワークフローを固める。テンプレートやショートカットを使って作業時間を短縮する習慣をつける。
 
-Backup and version control. Save projects frequently and use cloud synchronization.
-
-<hr>
-
-### Mini dictionary of terms
-
-**DAW**: Digital Audio Workstation. Software for recording, editing, mixing, and producing audio.
-
-**MIDI**: Digital standard for representing performance information (notes, velocity, controls).
-
-**VST/AU/AAX**: Plug-in standards (third-party sound sources/effects).
-
-**Audio interface**: A device that connects a PC to a microphone/instrument (performs AD/DA conversion).
-
-**Sampling**: A technique that uses existing sound sources as materials.
+バックアップとバージョン管理。プロジェクトはこまめに保存、クラウド同期を併用する。
 
 <hr>
 
-### What is DTM? — Co-evolution of technology and culture
+### 用語ミニ辞典
 
-DTM/DAW is not just a collection of tools, but a cultural device that symbolizes the ""democratization of music production.'' From the days of tape editing and hardware synths, to MIDI and digital recording, to VST and plug-in ecosystems, to AI and the cloud, technology has lowered the barriers to expression and created an environment where anyone can deliver sound to the world.
+**DAW**：Digital Audio Workstation。音声録音・編集・ミックス・制作を行うソフトウェア。
 
-Technology will continue to evolve, but at the core is the creator's intention: ""What kind of sound should we make and why?'' By fully utilizing technology as a tool, new musical expressions will continue to be born.
+**MIDI**：演奏情報（ノート、ベロシティ、コントロール）を表すデジタル規格。
+
+**VST/AU/AAX**：プラグインの規格（サードパーティー音源／エフェクト）。
+
+**オーディオ・インターフェース**：PCとマイク／楽器を接続する機器（AD/DA変換を行う）。
+
+**サンプリング**：既存音源を素材として用いる技術。
+
+<hr>
+
+### DTMとは何か — 技術と文化の共進化
+
+DTM/DAWは単なるツールの集まりではなく、「音楽制作の民主化」を象徴する文化的装置です。テープ編集やハードウェア・シンセの時代から、MIDI・デジタル録音、VSTやプラグインエコシステム、そしてAIやクラウドへと至る流れは、技術が表現の障壁を下げ、誰もが世界に音を届けられる環境を作ってきました。
+
+今後もテクノロジーは進化し続けますが、核となるのは「どんな音を、なぜ作るか」というクリエイターの意図です。技術を道具として使い倒すことで、これからも新たな音楽表現が生まれていくでしょう。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zGr8QOz9Gds?si=7q5fGAYmYO1lLNN2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

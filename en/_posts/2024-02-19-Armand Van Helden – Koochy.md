@@ -15,17 +15,17 @@ title: Armand Van Helden – Koochy
 
 "Koochy" was released in 2000 as the lead single from Armand Van Helden's fourth studio album, Killing Puritans (2000).
 
-Extensive sampling of Gary Numan's 1979 single "Cars".
+ Gary Numan（ゲイリーニューマン）の1979年のシングル「Cars カーズ」を多量にサンプリング。
 
-Armand Van Helden is a DJ, record producer, remixer, and songwriter from Boston, Massachusetts, USA.
+アーマンド・ヴァン・ヘルデンは、アメリカ合衆国マサチューセッツ州ボストン出身のDJ、レコードプロデューサー、リミキサー、ソングライターです。
 
-He was born on February 16, 1970 to a father of Dutch and Indonesian descent and a mother of French and Lebanese descent.
+1970年2月16日に、オランダ人とインドネシア人の血を引く父親と、フランス人とレバノン人の血を引く母親のもとに生まれました。
 
-Because his father was in the U.S. Air Force, he spent his childhood moving around the world, including the Netherlands, Latvia, Turkey, and Italy.
+父親がアメリカ空軍に所属していたため、幼少期はオランダ、ラトビア、トルコ、イタリアなど世界各地を転々としていました。
 
-He bought a drum machine at the age of 13 and started DJing two years later.
+13歳でドラムマシンを買い、2年後にはDJ活動をスタートさせています。
 
-With a career spanning over 30 years, he is known as a stalwart in the house music world.
+彼は、30年以上にわたるキャリアを持ち、ハウスミュージック界の重鎮として知られています。
 
 Van Helden"s best known singles are "You Don"t Know Me," "I Want Your Soul," "My My My" (featuring Tara McDonald), and "Bonkers" (featuring Dizzee Rascal). Both songs reached number one on the UK dance charts and peaked at number two on the Billboard dance charts.
 
@@ -36,7 +36,7 @@ A. Koochy
 B. Phreeknik
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m99322217555?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99322217555?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lT80CycPIRo?si=Te_ve8K0T83EBZPZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

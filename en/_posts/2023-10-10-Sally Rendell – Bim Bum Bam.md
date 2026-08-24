@@ -12,8 +12,8 @@ title: Sally Rendell – Bim Bum Bam
 ---
 
 
-"Bim Bum Bam" is
-This is Sally Rendell's EP released in 1995 by the Italian label "Time Records".
+「Bim Bum Bam」は、
+This is Sally Rendell's EP released by the Italian label "Time Records" in 1995.
 
 #### Tracklist
 ```md

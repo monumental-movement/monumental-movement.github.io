@@ -10,18 +10,17 @@ tags:
 - Dub
 - 70s
 - 80s
-title: '[Column] New Age Steppers: The revolution of an action label that reconnected
-  the strata of post-punk and dub'
+title: 【コラム】 New Age Steppers：ポストパンクとダブの地層を繋ぎ直したアクション・レーベルの革命
 ---
 
 
 # Prologue: Destruction and Reconstruction of London in 1979–80
 
 
-Text: mmr｜Theme: About the history of the "mixed team" that symbolized On-U Sound and the innovations it left behind
+文：mmr｜テーマ：On-U Sound を象徴した“混成チーム”の全史と遺した革新について
 
-In London at the end of the 1970s, even though the punk explosion had subsided, society was still plagued by many rifts such as unemployment, division, strikes, and discrimination against immigrants. The scene seemed like a wasteland, but the crevices became a hotbed of music.
-Post-punk artists quickly moved beyond the rock format into dub, reggae, African percussion, noise, electronic sounds, and DIY recording techniques.
+In London at the end of the 1970s, even though the punk explosion had subsided, society was still plagued by many rifts such as unemployment, division, strikes, and discrimination against immigrants. The scene seemed like a wasteland, but its crevices became a hotbed of music.
+パンク後のアーティストたちは、ロックの形式から飛び出し、ダブ、レゲエ、アフリカン・パーカッション、ノイズ、電子音、DIY録音技術へと急速に飛び込んでいった。
 
 It was precisely during these complex times that a young producer named **Adrian Sherwood** rose up and began forming the vast network that would become known as **On-U Sound**.
 And the earliest ""symbols" and ""thoughts themselves" were none other than **New Age Steppers**.
@@ -33,7 +32,7 @@ And the earliest ""symbols" and ""thoughts themselves" were none other than **Ne
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -47,7 +46,7 @@ color: #fff;
 New Age Steppers (hereinafter referred to as NAS) is not a normal "band".
 The members changed with each album, and the style, which was a mix of post-punk and reggae musicians, was almost unheard of at the time.
 
-**The core person**
+**核となった人物**
 
 * **Adrian Sherwood**: Producer/Director of On-U Sound
 * **Ari Up** (The Slits): Vocals
@@ -60,7 +59,7 @@ The members changed with each album, and the style, which was a mix of post-punk
 This structure was born from the confluence of ""reggae session culture" and ""post-punk experimentalism."
 In other words, what are New Age Steppers?
 
-> **"Musical body as an intersection of genres = hybrid project"**
+> **“ジャンルの交差点としての音楽体＝混成プロジェクト”**
 
 It was an existence that valued ""variability and contact'' rather than a fixed identity.
 
@@ -69,20 +68,20 @@ It was an existence that valued ""variability and contact'' rather than a fixed 
 # Chapter 2 Adrian Sherwood and the formation of On-U Sound
 
 Sherwood had been involved in reggae labels and distribution since the 1970s, and had deep connections with Jamaican musicians.
-At the same time, he interacted with post-punk acts such as The Slits, The Pop Group, The Fall, and Alternative TV, and intuitively understood the ""distrust of the existing music system'' that they felt.
+同時に、The SlitsやThe Pop Group、The Fall、Alternative TVといったポストパンク勢とも交流を持ち、両者が抱える「既存の音楽体制への不信感」を直感的に理解していた。
 
 In 1979, he started **On-U Sound** to maximize his experiments.
 NAS was the earliest symbol of this, establishing the impression that "On-U Sound = a cross-border, DIY sound laboratory."
 
 ---
 
-# Chapter 3 Innovation in Sound: Fusion of Post-Punk x Dub
+# Chapter 3: Innovation in Sound: Fusion of Post-Punk x Dub
 
-## ● Post-punk aggression
+## ● ポストパンクの攻撃性
 
 * Rough and minimalistic
 * Destroy the structure of the lock
-* Noise, improvisation, politics
+* ノイズ、即興性、政治性
 
 ## ● Jamaican Dub Method
 
@@ -90,7 +89,7 @@ NAS was the earliest symbol of this, establishing the impression that "On-U Soun
 * Spatial processing (echo/delay)
 * Track "deconstruction and re-editing"
 
-The core of NAS recordings was Sherwood's **desktop dub mix**, and rather than using the played sounds as is, they were rearranged and spatially processed after recording to give them **new life**.
+NASの録音は、シャーウッドによる**卓上ダブミックス**が核心であり、演奏した音をそのまま使わず、録音後に再配置し空間処理することで**新たな生命**を与えていた。
 In particular, the tight grooves of the Roots Radics group and the rough and wild energy of the post-punk side create a ""sway and tension''.
 
 This fusion was shocking even for Britain at the time.
@@ -106,15 +105,15 @@ The face of NAS is **Ari Up**, a member of The Slits.
 Her vocals were a unique blend of Jamaican toast, post-punk screams, and girlish abandon.
 
 Ari has been deeply into reggae since his teens, so joining NAS was a natural progression.
-Her voice is often primal, shaking, breaking, tearing, and dancing. This flows throughout the work as an "energy of resistance against society."
+彼女の声はしばしば原初的で、揺れ、破れ、裂け、踊る。それは“社会に対する抵抗のエネルギー”として作品全体に流れ込む。
 
-Their version of the cover song **"Fade Away"** is known as one of the strongest reinterpretations in post-punk history.
+カバー曲 **“Fade Away”** のヴァージョンは、ポストパンク史の中でも強烈な再解釈として知られている。
 
 ---
 
 # Chapter 5 Changes by album (1981–2012)
 
-## ■ "New Age Steppers" (1981)
+## ■ 『New Age Steppers』（1981）
 
 A debut work that most symbolizes the spirit of NAS.
 Ari Up"s presence, Roots Radics' performance, and Sherwood"s tabletop dubs all came together to set the standard for hybrid music.
@@ -125,20 +124,20 @@ Representative song
 * *My Love*
 * *Love Forever*
 
-## ■ "Action Battlefield" (1981)
+## ■ 『Action Battlefield』（1981）
 
 It's more aggressive and has a strong post-punk vibe.
 Mark Stewart's participation strengthened the agitation.
 
 ## ■ "Foundation Steppers" (1983)
 
-It's the most "reggae-like" song on NAS, with a more stable sense of groove.
+It's the most "reggae-like" song of NAS, with a more stable sense of groove.
 This work also has strong socio-political themes.
 
-## ■ "Love Forever" (2012)
+## ■ 『Love Forever』（2012）
 
-A memorial work that Sherwood released after Ari Up's death, including unreleased recordings.
-A very important document that contains Ari's final energy.
+Ari Upの死後、シャーウッドが未発表録音などをまとめて発表した追悼作。
+Ariの最後期のエネルギーを閉じ込めた非常に重要なドキュメント。
 
 ---
 
@@ -146,7 +145,7 @@ A very important document that contains Ari's final energy.
 
 ### 1. **Pioneering project that transcends genre boundaries**
 
-NAS led the way in creating a structure that put post-punk and dub on the same table and centered on "experiment."
+ポストパンクとダブを同じテーブルに置き、「実験」を中心に据える構造はNASが先頭を切った。
 
 ### 2. **The core of On-U Sound**
 
@@ -158,22 +157,22 @@ The ""collective philosophy,'' which does not limit music to fixed band members 
 
 ### 4. **Symbol of cross-border culture**
 
-It is also emblematic in British cultural history for its practical collaboration between immigrant communities and white post-punk figures.
+移民コミュニティと白人ポストパンク勢の実際的なコラボレーションという点でも、英国文化史において象徴的である。
 
 ---
 
 # Chapter 7 Recording technology and studio aesthetics
 
 Sherwood's studio method is
-**"About half of the work is created after recording"**
-It was so dub-like that the engineering itself was an act of composition.
+**“録音後に作品の約半分が作られる”**
+というほどダブ的で、エンジニアリングそのものが作曲行為だった。
 
 ### Key technologies
 
 *Roland Space Echo
 * Spring Reverb
 * 4-track to 8-track analog processing
-* Emphasis on drum/bass separation
+* ドラム／ベースの分離強調
 * Cut and paste live recording material
 * Dub method that turns fader operations into performances
 
@@ -187,13 +186,13 @@ NAS was more than just a musical project; it became serious in the UK in the 197
 
 * Youth unemployment
 * Immigration discrimination
-* Skinhead violence
-* Brixton Riots
+* スキンヘッドの暴力
+* Brixton暴動
 * Cuts in public services
 
 It has a background of social issues such as.
 
-Ari Up had a long history with the Jamaican immigrant community, and Mark Stewart had an anti-capitalist stance.
+Ari Upはジャマイカ移民コミュニティと長く交流し、Mark Stewartは反資本主義的な姿勢を取っていた。
 Even if NAS did not directly post political lyrics, ""making music as an experiment'' in a multicultural society was itself a political practice.
 
 ---
@@ -203,22 +202,22 @@ Even if NAS did not directly post political lyrics, ""making music as an experim
 After 1983's "Foundation Steppers," works under the NAS name ceased.
 But its influence spread far and wide.
 
-## ● Area affected
+## ● 影響を受けた領域
 
-*Bristol's Massive Attack, Tricky, Smith & Mighty
+* Bristol's Massive Attack, Tricky, Smith & Mighty
 * UK Dub, Digital Dub
 * Experimental / Post-Industrial
-*Alternative Dance
-* DIY label culture
+* Alternative Dance
+* DIYレーベル文化
 
-NAS can be said to be an extremely modern model in that it has made "crossing genres" the norm.
+“ジャンル横断”を当たり前にした点で、NASは極めて現代的なモデルと言える。
 
 ---
 
 # Chapter 10 Re-evaluation and the death of Ari Up (2010)
 
-Ari Up passed away in 2010.
-Deeply affected, Sherwood compiled unreleased takes and past recordings and released them as **2012's ""Love Forever''**.
+Ari Upは2010年に死去する。
+シャーウッドは深い衝撃を受け、未発表テイクや過去録音を整理し、**2012年『Love Forever』**として世に送り出した。
 
 This work not only concluded the history of NAS, but also reaffirmed the importance of Ari.
 
@@ -226,11 +225,11 @@ This work not only concluded the history of NAS, but also reaffirmed the importa
 
 # Chapter 11 "Thoughts" left behind by New Age Steppers
 
-NAS is based on
-**"Do not divide music along the lines of nationality or genre"**
+NASが根底に置いたのは、
+**“音楽を国籍・ジャンルの線で分けない”**
 This is the idea.
 
-And this thought
+そしてこの思想は
 
 * Multicultural coexistence
 * Anti-authoritarianism
@@ -247,12 +246,12 @@ The prototype of ""genre-crossing creation'' that 21st century musicians routine
 
 1979 Adrian Sherwood begins preparations to launch On-U Sound
 1980 Recording of New Age Steppers begins (Ari Up, Mark Stewart, Roots Radics participate)
-1981 "New Age Steppers" released
+1981 『New Age Steppers』リリース  
 1981 "Action Battlefield" released
-1983 "Foundation Steppers" released
+1983 『Foundation Steppers』リリース  
 1984-2000 NAS activities virtually ceased
 2010　Ari Up passed away
-2012 "Love Forever" released (Memorial work including unreleased material)
+2012 『Love Forever』リリース（未発表音源を含む追悼作）  
 
 ---
 
@@ -288,14 +287,14 @@ Although the work was made over 40 years ago, the sound of New Age Steppers stil
 This is the premise of music production after the Internet.
 
 * Collaboration across borders
-* Genre hybridization
-* Fusion of production and engineering
-*DIY studio culture
+* ジャンルのハイブリッド化
+* 制作とエンジニアリングの融合
+* DIYスタジオ文化
 
 NAS, which pioneered these trends in the early 1980s, can be said to be the prototype of modern music.
 
 The sound they left behind was intense, rough, swinging, bouncing, and sometimes destructive, but at its core, it was about being free.
-That freedom continues to be felt in On-U Sound's work and underground scenes around the world.
+その自由は今も、On-U Soundの作品や、世界中のアンダーグラウンドシーンに脈々と受け継がれている。
 
 ---
 

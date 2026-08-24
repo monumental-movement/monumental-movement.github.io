@@ -10,26 +10,25 @@ tags:
 - Post-Punk
 - Experimental
 - Underground
-title: '[Column] Suddenly cardboard — a strange form of the Japanese underground born
-  of fluctuations in everyday life and language'
+title: 【コラム】 突然段ボール — 日常と言葉の揺らぎが生んだ日本アンダーグラウンドの異形
 ---
 
 
 
-## What was cardboard all of a sudden?
+## 突然段ボールとは何だったのか
 
 Text: mmr｜Theme: The singularity of the Japanese underground, which deconstructs the very form of music based on everyday words and physical sensations
 
 
-### Music that starts with a strange name
+### 名前の違和感から始まる音楽
 
 In the history of Japanese independent music, the name ""Sudden Danboard'' has an extremely foreign ring to it. This unit was formed by older brother Eiichi Tsutaki and younger brother Shunji Tsutaki, and began their own activities in the late 1970s.
 
-Whereas many rock bands of the time relied on clear genres and styles, suddenly Cardboard's music was deliberately deviating from those frameworks. Although the songs have unstable rhythms and simple structures, there is a unique logic within them.
+当時のロックバンドの多くが、明確なジャンルや様式に依拠していたのに対し、突然段ボールの音楽はそれらの枠組みから意図的に逸脱していた。楽曲は不安定なリズムと単純な構造を持ちながらも、その内部には独特の論理が存在している。
 
-The sound is not at all technical. However, it also includes a critique of existing music. By rejecting structured performances and clear chord progressions, he posed the question, ""What is music?''
+その音は決して技巧的ではない。しかし、そこには既存の音楽に対する批評性が含まれている。整えられた演奏や明確なコード進行を拒むことで、「音楽とは何か」という問いを提示していた。
 
-> The discomfort of the name itself symbolized the discomfort with the existing view of music.
+> 名称の違和感そのものが、既存の音楽観への違和を象徴していた。
 
 
 ---
@@ -39,7 +38,7 @@ The sound is not at all technical. However, it also includes a critique of exist
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -48,107 +47,107 @@ color: #fff;
 </style>
 
 
-## Historical background of the late 1970s
+## 1970年代末という時代背景
 
 ### Distance between cities and individuals
 
-In the late 1970s, Japan was at the end of its period of high economic growth, and society's values ​​were beginning to waver. The city continued to expand, but within it individuals felt increasingly isolated and uncomfortable.
+1970年代後半の日本は、高度経済成長の終焉を迎え、社会の価値観が揺らぎ始めていた時期である。都市は拡大し続けていたが、その内部では個人の孤立や違和感が増幅していた。
 
-In the field of music as well, there is a movement to distance itself from the popular popular songs and rock. In contrast to the industrial structure centered around large studios and record companies, small-scale, autonomous production began to be explored.
+音楽の領域においても、大衆化した歌謡曲やロックに対して距離を取る動きが現れる。大規模なスタジオやレコード会社を中心とした産業構造に対し、小規模で自律的な制作が模索され始めた。
 
-Cardboard suddenly appeared in this context. Their music directly expressed the subtle discomforts and indescribable sensations felt in urban life.
+突然段ボールは、まさにその文脈の中で登場した存在である。彼らの音楽は、都市生活の中で感じる微細な違和や、言葉にならない感覚を直接的に表現していた。
 
-> Changes in society have led to a more internal expression of individual expression.
+> 社会の変化が、個人の表現をより内面的なものへと導いた。
 
 ---
 
-## DIY culture and independent production sites
+## DIY文化と自主制作の現場
 
-### Media called cassette
+### カセットというメディア
 
-Suddenly, the media called cassette tapes is indispensable when talking about cardboard activities. From the late 1970s to the 1980s, cassettes became popular as a low-cost, reproducible medium, making it possible for individuals to produce and distribute music.
+突然段ボールの活動を語る上で欠かせないのが、カセットテープというメディアである。1970年代後半から1980年代にかけて、カセットは低コストで複製可能な媒体として広まり、個人による音楽制作と流通を可能にした。
 
-They actively utilized this medium and produced works recorded at home. The recording environment was never set up, and the sound quality was rough and there was a lot of noise. However, this restriction actually became a factor that accentuated the individuality of the sound.
+彼らはこのメディアを積極的に活用し、自宅録音による作品を制作した。録音環境は決して整っておらず、音質は粗く、ノイズも多い。しかしその制約が、逆に音の個性を際立たせる要因となった。
 
-Additionally, by handling everything from production to distribution themselves, they brought about changes in the music distribution structure itself. The works are not mass-produced products, but expressions that are handed over.
+また、制作から配布までを自ら行うことで、音楽の流通構造そのものにも変化をもたらした。作品は大量生産される商品ではなく、手渡しされる表現となる。
 
 > Cassettes were not just a medium, but a device that changed the very nature of expression.
 
 ---
 
-## Deconstruction of musical structure
+## 音楽構造の解体
 
-### Rhythm fluctuation
+### リズムの揺らぎ
 
-The most characteristic feature of Sudden Cardboard's music is the instability of its rhythm. Rather than maintaining a constant tempo, the beat that moves back and forth subtly dominates the entire song.
+突然段ボールの音楽において最も特徴的なのは、リズムの不安定さである。一定のテンポを維持するのではなく、微妙に前後するビートが楽曲全体を支配している。
 
-This fluctuation is not a coincidence; it is intentionally created. Because the rhythm is not fixed, the listener must constantly pay attention to changes in the sound.
+この揺らぎは偶然ではなく、意図的に作り出されたものだ。リズムが固定されないことで、聴き手は常に音の変化に注意を向ける必要がある。
 
-As a result, the music has a strong presence, refusing to be consumed as a "background".
+結果として、音楽は「背景」として消費されることを拒み、強い存在感を持つ。
 
-> The instability of the rhythm is a device that allows us to actively listen to music.
-
----
-
-### Repetition and variation
-
-Their songs often repeat short phrases. However, the repetition is not an exact copy, but involves subtle changes.
-
-This approach is similar to minimal music, but it appears in a more intuitive and raw form. The slightest deviation in repetition distorts the flow of time.
-
-Even though the listener is supposed to be hearing the same phrase, they always get different impressions.
-
-> Repetition is not stability, but rather functions as a means of emphasizing instability.
+> リズムの不安定さが、音楽を能動的に聴かせる装置となっている。
 
 ---
 
-## Language deconstruction and rearrangement
+### 反復と変化
 
-### Departure from meaning
+彼らの楽曲では、短いフレーズが繰り返されることが多い。しかしその反復は完全なコピーではなく、微細な変化を伴っている。
 
-Suddenly Cardboard lyrics often don't have a clear story of meaning. Everyday words and fragmented phrases are arranged and arranged as sounds.
+この手法はミニマルミュージックにも通じるが、より直感的で粗削りな形で現れている。反復の中に生じるわずかなズレが、時間の流れを歪める。
 
-Words are essentially a means of conveying meaning. However, they intentionally weaken this function and emphasize the sound aspect.
+聴き手は同じフレーズを聴いているはずなのに、常に違う印象を受けることになる。
 
-As a result, lyrics are presented as something to be felt rather than something to be understood.
-
-> By deconstructing the meaning of language, the purity of sound is increased.
+> 反復は安定ではなく、むしろ不安定さを強調する手段として機能している。
 
 ---
 
-### Japanese rhythm
+## 言語の解体と再配置
 
-Unlike English-based rock, Japanese has a different syllable structure and accent. By incorporating these characteristics into music, a unique rhythm is created.
+### 意味からの離脱
 
-Suddenly, Cardboard Singing prioritizes the rhythm of the words themselves, rather than adding words to the melody. Therefore, although the melody is often monotonous, it has movement due to the flow of words.
+突然段ボールの歌詞は、意味の明確なストーリーを持たないことが多い。日常の言葉や断片的なフレーズが並べられ、それらが音として配置される。
 
-> The Japanese language itself functions as a rhythm generating device.
+言葉は本来、意味を伝えるための手段である。しかし彼らはその機能を意図的に弱め、音としての側面を強調する。
+
+その結果、歌詞は「理解するもの」ではなく「感じるもの」として提示される。
+
+> 言語の意味を解体することで、音としての純度が高められている。
 
 ---
 
-## Distance from contemporary music
+### 日本語のリズム
 
-### Attitude that does not belong to any genre
+英語中心のロックとは異なり、日本語は音節構造やアクセントが異なる。その特性をそのまま音楽に取り込むことで、独自のリズムが生まれる。
+
+突然段ボールの歌唱は、メロディに言葉を乗せるのではなく、言葉そのもののリズムを優先する。そのため、旋律はしばしば単調でありながら、言葉の流れによって動きを持つ。
+
+> 日本語そのものがリズム生成装置として機能している。
+
+---
+
+## 同時代の音楽との距離
+
+### ジャンルに属さない姿勢
 
 From the late 1970s to the early 1980s, the influence of punk and new wave was widespread in Japan. But suddenly cardboard doesn't quite belong to those styles.
 
-Their music is difficult to categorize into a specific genre. Although they had post-punk elements, they were not interested in recreating them.
+彼らの音楽は、特定のジャンルに分類することが難しい。ポストパンク的な要素を持ちながらも、それを再現することには興味を示さなかった。
 
-Rather, there is an attitude of relativizing the framework of genre itself.
+むしろ、ジャンルという枠組み自体を相対化するような姿勢が見られる。
 
-> Freedom of expression was ensured by not relying on existing genres.
+> 既存のジャンルに依存しないことで、表現の自由度が確保されていた。
 
 ---
 
-## Impact on home recording culture
+## 宅録文化への影響
 
-### Expansion of personal production
+### 個人制作の拡張
 
-Sudden Cardboard's activities had an important meaning in the later Japanese indie scene. In particular, it was significant in that it showed that recording at home can be an effective means of expression.
+突然段ボールの活動は、後の日本インディーシーンにおいて重要な意味を持つ。特に、自宅での録音が有効な表現手段となり得ることを示した点は大きい。
 
 Their practice spread the awareness that ""anyone can make music.'' This is not a technical issue, but an awareness issue.
 
-Music production does not require a special environment. Rather, unique expressions are born within constraints.
+音楽制作は特別な環境を必要としない。むしろ、制約の中でこそ独自の表現が生まれる。
 
 > Creation within constraints opens up new possibilities.
 
@@ -169,28 +168,28 @@ timeline
 
 ---
 
-## Conceptual diagram of musical structure
+## 音楽構造の概念図
 
 <div class="mermaid">
 flowchart TD
-    A[everyday language] --> B[fragmentation]
-    B --> C[repetition]
+    A[日常言語] --> B[fragmentation]
+    B --> C[反復]
     C --> D[Misalignment]
-    D --> E[fluctuation]
-    E --> F[nonlinear structure]
+    D --> E[揺らぎ]
+    E --> F[非線形構造]
 </div>
 
 ---
 
-## Background of reevaluation
+## 再評価の背景
 
-### Resonance with the digital age
+### デジタル時代との共鳴
 
-In modern times, cardboard works are suddenly being evaluated in a new context. Nowadays, with the spread of digital technology, it has become easier for individuals to produce music, and their DIY spirit has become more realistic.
+現代において、突然段ボールの作品は新たな文脈で評価されている。デジタル技術の普及により、個人が容易に音楽制作を行えるようになった現在、彼らのDIY精神はより現実的なものとなった。
 
-Additionally, lo-fi sound quality and an aesthetic that affirms imperfection are widely accepted in the contemporary music scene.
+また、ローファイな音質や不完全さを肯定する美学も、現代の音楽シーンにおいて広く受け入れられている。
 
-> Past experiments are being reinterpreted as modern standards.
+> 過去の実験が、現代のスタンダードとして再解釈されている。
 
 ---
 
@@ -200,16 +199,16 @@ Suddenly Cardboard"s music doesn"t fit into a finished form or clear genre. Rath
 
 Discrepancies in rhythm, fragments of words, and rough sound quality. All of these elements were intentionally selected and function as a critique of existing values.
 
-Their work was not a huge commercial success. However, its influence continues to spread quietly.
+彼らの活動は決して大きな商業的成功を収めたわけではない。しかし、その影響は静かに広がり続けている。
 
-> Their greatest legacy is their attitude of continually questioning the definition of music.
+> 音楽の定義を問い続ける姿勢こそが、彼らの最大の遺産である。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xsUBt1dTp9U?si=yoYiBgK-_xb2KKE2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

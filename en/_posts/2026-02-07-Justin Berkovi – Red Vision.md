@@ -14,9 +14,9 @@ title: Justin Berkovi – Red Vision
 
 
 
-Justin Berkovi is a veteran DJ/producer in the British techno world who has been active since the 1990s. He also works under the name BTrax and runs the label Predicaments.
+Justin Berkovi は、90年代から活躍するイギリス・テクノ界のベテランDJ／プロデューサー。BTrax名義でも活動しており、レーベルPredicamentsを運営している。
 
-"Red Vision" is a Techno/Electro track released on Justin Berkovi's own label Predicaments in 2000.
+「Red Vision」は、2000年にJustin Berkovi 自身のレーベルPredicamentsからリリースされたTechno／Electroトラック。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ B1. G&G Nights
 B2. Red Vision
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m25543899746?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25543899746?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4wi5yWrvkg?si=x3RFeuQF0oCRQT8j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,21 +10,20 @@ tags:
 - Indian Classical
 - Santoor
 - World Music
-title: '[Column] Santoor: Sonic innovation and modern reinterpretation in Indian classical
-  music'
+title: '【コラム】 Santoor: インド古典音楽における響きの革新と現代的再解釈'
 ---
 
 
 
-## Prologue: The sense of time in Indian music told by countless strings
+## 序章：無数の弦が語るインド音楽の時間感覚
 
 Text: mmr｜Theme: The history of the Indian classical musical instrument santoor and the overall picture of modern interpretations that continue to update the tradition
 
-Although the santoor is a relatively new mainstream instrument in Indian classical music, it is associated with an extremely ancient musical perspective. The structure, in which countless metal strings strung over a wooden resonance box are struck with thin mallets, does not separate melody and rhythm, but treats the particles of sound themselves as a flow of time.
+サントゥールは、インド古典音楽の中でも比較的新しく主流化した楽器でありながら、極めて古層の音楽観と結びついている。木製の共鳴箱の上に張られた無数の金属弦を、細いマレットで打ち鳴らすという構造は、旋律とリズムを分離せず、音の粒子そのものを時間の流れとして扱う。
 
-In Indian classical music, what is important is not ""where the melody goes" but ""how the notes rise and fall". The santour can be said to be the instrument that most directly visualizes this idea.
+インド古典音楽において重要なのは「旋律がどこへ向かうか」よりも、「音がどのように立ち上がり、どのように消えていくか」である。サントゥールはその思想を最も直接的に可視化する楽器だと言える。
 
-> Santour is not an instrument that arranges sounds, but rather presents time as vibration.
+> サントゥールは、音を並べる楽器ではなく、時間を振動として提示する存在である。
 
 ---
 
@@ -33,7 +32,7 @@ In Indian classical music, what is important is not ""where the melody goes" but
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,50 +41,50 @@ color: #fff;
 </style>
 
 
-## Origin and geographical background of Santoor
+## サントゥールの起源と地理的背景
 
 The original form of the santur is thought to date back to percussion instruments distributed in ancient Persia and Central Asia. Similar instruments called santoor, santoor, and santoor have existed widely in Iran, Iraq, Turkey, and Kashmir.
 
-In the Indian subcontinent, Kashmir Santoor, which developed in the northern Kashmir region, is particularly important. In this region, the santur was used in secular music associated with Sufism and court culture, and functioned as an accompaniment instrument for singing.
+インド亜大陸においては、特に北部カシミール地方で発展したカシミール・サントゥールが重要である。この地域では、スーフィズムや宮廷文化と結びついた世俗音楽の中でサントゥールが用いられ、歌唱の伴奏楽器として機能していた。
 
 <div class="mermaid">
 flowchart LR
-A[Persian percussion instrument] --> B[Central Asia]
-B --> C[kashmir region]
-C --> D[northern india music culture]
+A[ペルシア系打弦楽器] --> B[中央アジア]
+B --> C[カシミール地方]
+C --> D[インド北部音楽文化]
 </div>
 
-> The santour was not an isolated instrument, but was formed through trade routes and cultural exchanges.
+> サントゥールは単独で生まれた楽器ではなく、交易路と文化交流の中で形作られた。
 
 ---
 
 ## A heretical presence in Indian classical music
 
-The sitar, sarod, and bansuri, which are the main instruments of Hindustani music, all emphasize sustained and sliding sounds. On the other hand, since the santur is a percussion instrument, the duration of the sound is short, making it difficult to directly express meand (smooth sounds).
+ヒンドゥスターニー音楽の主流楽器であるシタール、サロード、バンスリは、いずれも持続音と滑音を重視する。これに対し、サントゥールは打弦楽器であるがゆえに、音の持続が短く、ミーンド（滑音）を直接表現することが難しい。
 
-For this reason, the santour has long been considered ""incomplete as a classical instrument.'' However, this restriction became the basis for later unique interpretations.
+For this reason, the santour has long been regarded as ""incomplete as a classical instrument.'' However, this restriction became the basis for later unique interpretations.
 
-> Restrictions were not a drawback, but a condition for creating new musical idioms.
+> 制約は欠点ではなく、新しい音楽語法を生むための条件となった。
 
 ---
 
 ## Innovation by Pandit Shivkumar Sharma
 
-Pandit Shivkumar Sharma was the man who promoted the santoor as an official solo instrument in Indian classical music in the late 20th century. He improved the string structure of the santoor and realized the scale system necessary for raga performance.
+20世紀後半、サントゥールをインド古典音楽の正式な独奏楽器へと押し上げた人物が、パンディット・シヴクマール・シャルマである。彼はサントゥールの弦構成を改良し、ラーガ演奏に必要な音階体系を実現した。
 
-In addition, by making use of the granularity of the sound produced by the strings and establishing a playing method that simulates gamaka and meando, the santur gained its status as a melodic instrument.
+また、打弦による音の粒立ちを活かし、ガマカやミーンドを擬似的に再構築する奏法を確立したことで、サントゥールは旋律楽器としての地位を獲得した。
 
-> Sharma's achievement lies not in changing the instrument, but in changing the way the instrument is heard.
+> シャルマの功績は、楽器を変えたのではなく、楽器の聴かれ方を変えた点にある。
 
 ---
 
-## Santoor in Raga and Tara
+## ラーガとターラの中のサントゥール
 
-Even in santoor performance, the time period, emotional character, and scale structure of the raga are strictly observed. The clear attack from the strings adds a new sense of tension to the static development of Aarap.
+サントゥール演奏においても、ラーガの時間帯、感情的性格、音階構造は厳密に守られる。打弦による明瞭なアタックは、アーラープの静的な展開に新たな緊張感を与える。
 
-Once in tala, the santoor begins to take on a percussive driving force, blurring the line between melody and rhythm. This duality creates a charm that is not found in other melodic instruments.
+ターラに入ると、サントゥールは旋律とリズムの境界を曖昧にし、打楽器的な推進力を持ち始める。この二重性が、他の旋律楽器にはない魅力を生む。
 
-> The santour is an instrument that exists in the middle area between melody and rhythm.
+> The santour is an instrument that exists between melody and rhythm.
 
 ---
 
@@ -93,73 +92,73 @@ Once in tala, the santoor begins to take on a percussive driving force, blurring
 
 Since the late 20th century, advances in recording technology have had a significant impact on the reputation of santour. The details of the santour, which has a short decaying sound, were emphasized by the microphone, giving it a three-dimensional sound.
 
-This has led to its application not only to solo performances but also to ensembles and film music.
+これにより、ソロ演奏だけでなく、アンサンブルや映画音楽への応用が進んだ。
 
-> Technology has expanded Santour's presence, not its volume.
+> テクノロジーはサントゥールの音量ではなく、存在感を拡張した。
 
 ---
 
-## Connection to contemporary music/fusion
+## 現代音楽・フュージョンへの接続
 
-Since the 1970s, Santoor has been associated with jazz, ambient, and minimal music. The regular string striking pattern goes well with the repetitive structure, and it has also been integrated with drones and electronic sounds.
+サントゥールは1970年代以降、ジャズ、アンビエント、ミニマル音楽と接続していく。規則的な打弦パターンは反復構造と相性が良く、ドローンや電子音響との融合も進んだ。
 
 Even in performances outside of the Indian classical framework, raga thinking continues to influence the selection of sounds.
 
-> Even in places far removed from tradition, Santoor's way of thinking has not been lost.
+> 伝統から離れた場所でも、サントゥールの思考様式は失われていない。
 
 ---
 
-## Performance aesthetics in modern interpretation
+## 現代解釈における演奏美学
 
-Modern santour players go back and forth between pure classical performance and experimental expression. With an emphasis on complete improvisation, sonic texture, and the treatment of silence, the santour is being redefined as a musical object.
+現代のサントゥール奏者は、純粋な古典演奏と実験的表現を往復する。完全な即興性、音響的テクスチャ、沈黙の扱いが重視され、サントゥールは音楽的オブジェとして再定義されつつある。
 
-Performances often begin with a soft note. The moment the mallet touches the string, before there is a distinct sound of impact, you can feel the metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
+演奏はしばしば弱音から始まる。マレットが弦に触れた瞬間、明確な打撃音よりも先に、金属弦が空気を押し分ける気配が立ち上がる。その直後に現れる倍音は、個々の音程を曖昧に溶かしながら、持続する響きの雲を形成する。
 
-> The santour is changing from an instrument to be played to one that shapes the listening space.
+> サントゥールは演奏される楽器から、聴取空間を形成する存在へと変化している。
 
 ---
 
-## Symbiotic relationship between Kashmiri folk songs and santoor
+## カシミール民謡とサントゥールの共生関係
 
 In Kashmir, santoor was deeply associated with folk culture even before classical music. It was often played to the tune of a song at wedding ceremonies, seasonal festivals, and religious gatherings.
 
-When playing the santour as an accompaniment to folk songs, the intonation of the melody and the speaking style are prioritized over strict musical scales. The mallet is not swung down with a constant force, but rather changes its speed and angle subtly to match the singer's breathing.
+民謡伴奏としてのサントゥール演奏では、厳密な音階よりも、旋律の抑揚と語り口が優先される。マレットは一定の強さで振り下ろされるのではなく、歌い手の息遣いに合わせて速度と角度を微妙に変える。
 
-> In Kashmiri folk songs, the santoor did not dominate the melody, but had the role of enveloping the narrative.
-
----
-
-## Comparison with Santur in other regions: Focusing on Iran
-
-Iranian santurs have fewer strings than Indian ones, and have a more organized range. The melodies are more clearly delineated, and improvisations are developed through changes in ornamentation.
-
-While Indian santoor emphasizes the continuous flow of sound, Iranian santoor has a strong note-by-note structure. When playing, the mallet is struck at an angle nearly perpendicular to the strings, bringing the attack sound into the foreground.
-
-> Although they have the same name, their musical philosophy differs greatly depending on the region.
+> カシミール民謡におけるサントゥールは、旋律を支配するのではなく、語りを包み込む役割を担っていた。
 
 ---
 
-## Details of string structure and tuning philosophy
+## 他地域サントゥールとの比較：イランを中心に
 
-The Indian classical santoor has around 100 strings, which are divided into courses of multiple strings. Each course is tuned to the same pitch to ensure stability in volume and overtones.
+イランのサントゥールは、インドのものと比べて弦数が少なく、音域も整理されている。旋律はより明確に区切られ、即興は装飾音の変化によって展開される。
 
-The tuning changes for each raga, and the arrangement is such that the tonic and subordinate notes are particularly emphasized. This creates a natural drone due to resonance while avoiding unnecessary sounds during performance.
+インド・サントゥールが連続的な音響の流れを重視するのに対し、イラン・サントゥールは音符単位の構築性が強い。演奏時、マレットは弦に対して垂直に近い角度で打ち下ろされ、アタック音がはっきりと前景化する。
 
-> Tuning is not a preparatory work, but an idea that functions as a part of the performance.
-
----
-
-## Structural affinity with ambient/minimal music
-
-In modern interpretation, santour shows a high affinity with ambient and minimal music. Repeated short phrases expand the sense of time and lead the listener into a non-linear state.
-
-In performance, the same note pattern is repeated with slight changes in intensity. What initially sounds like a simple hitting sound gradually becomes perceived as a continuous wave, and the boundaries between sounds begin to dissolve.
-
-> Santoor does not make us hear the structure, but rather shows us the process by which the structure is perceived.
+> 同じ名称を持つ楽器でありながら、その音楽思想は地域ごとに大きく異なる。
 
 ---
 
-## Chronology: Historical development of Santoor
+## 弦構造と調弦思想の詳細
+
+インド古典サントゥールは、100本前後の弦を持ち、それらは複数本ずつのコースに分けられている。各コースは同一音高に調弦され、音量と倍音の安定を確保する。
+
+調弦はラーガごとに変化し、主音と属音が特に強調される配置が取られる。これにより、演奏中に不要な音を避けつつ、共鳴による自然なドローンが生まれる。
+
+> 調弦は準備作業ではなく、演奏の一部として機能する思想である。
+
+---
+
+## アンビエント／ミニマル音楽との構造的親和性
+
+現代解釈において、サントゥールはアンビエントやミニマル音楽と高い親和性を示す。反復される短いフレーズは、時間感覚を拡張し、聴取者を非線形な状態へ導く。
+
+演奏では、同一音型がわずかに強弱を変えながら反復される。最初は単なる打音に聞こえたものが、次第に連続する波として知覚され、音と音の境界が溶けていく。
+
+> サントゥールは、構造を聴かせるのではなく、構造が知覚される過程を提示する。
+
+---
+
+## 年表：サントゥールの歴史的展開
 
 <div class="mermaid">
 timeline
@@ -176,17 +175,25 @@ timeline
     2000年代 : アンビエント・現代音楽での再評価
 </div>
 
-> The history of the santour can be understood not as a change in musical style, but as a change in the way it is listened to.
+> サントゥールの歴史は、音楽様式の変化ではなく、聴かれ方の変遷として理解できる。
 
 ---
 
-## Final Chapter: Cultural Memory as Vibration
+## 終章：振動としての文化記憶
 
-The santur is not just a folk instrument. This is one answer to the question of how sound remembers time. When countless strings strike at the same time, the individual notes disappear and only the overall resonance remains.
+サントゥールは単なる民族楽器ではない。それは、音が時間をどう記憶するかという問いに対する、一つの答えである。無数の弦が同時に鳴るとき、個々の音は消え、全体としての響きだけが残る。
 
-This characteristic is the reason why santours continue to be updated even in modern times.
+この特性こそが、サントゥールが現代においても更新され続ける理由である。
 
-> The santour is not an instrument that preserves the past, but a device that transforms the past into the present.
+> サントゥールは、過去を保存する楽器ではなく、過去を現在に変換する装置である。
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XduW5w-xl2E?si=BCXW58bYXJtBUg2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

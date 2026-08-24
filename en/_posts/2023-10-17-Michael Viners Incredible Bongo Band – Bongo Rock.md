@@ -8,11 +8,11 @@ layout: post
 tags:
 - Break Beat
 - Funk
-title: Michael Viner"s Incredible Bongo Band – Bongo Rock
+title: Michael Viner's Incredible Bongo Band – Bongo Rock
 ---
 
 
-Released in 1973, the album Bongo Rock by the instrumental funk band Michael Viner's Incredible Bongo Band incorporated elements of funk, soul, and breakbeat, and was later sampled by numerous artists in the hip-hop and breakbeat scenes.
+1973年にリリースされた、インストゥルメンタルファンクバンド「Michael Viner's Incredible Bongo Band」によるアルバム「Bongo Rock（ボンゴ・ロック）」は、ファンク、ソウル、ブレイクビーツの要素を取り入れた楽曲で、後にヒップホップ、ブレイクビーツシーンで数多くのアーティストがサンプリングした。
 
 #### Tracklist
 ```md

@@ -12,7 +12,7 @@ title: Nando – Music Go Wild Love Killer
 ---
 
 
-Fernando Bonini, also known as Nando, is an Italian guitarist, singer-songwriter, and vocalist.
+Nando (ナンド・ボニーニ)こと、Fernando Bonini（フェルナンド・ボニーニ）はイタリアのギタリスト、シンガーソングライター、ボーカリストです。
 
 He has been a touring member of Vasco Rossi since 1993 and collaborates with various Italian musicians and singers.
 

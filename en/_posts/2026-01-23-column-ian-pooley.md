@@ -17,14 +17,14 @@ title: '[Column] Ian Pooley ── The outline of 1990s club music carved by the
 
 ## Early life and musical background
 
-Text: mmr｜Theme: The important presence that structurally supports house music since the 1990s
+文：mmr｜テーマ：90年代以降のハウス・ミュージックを構造面から支えている重要な存在について
 
 
-Ian Pooley was born in Mainz, Germany in 1973. His parents were from England, and there was a natural mix of English and German languages ​​in the family. This duality can be said to be the prototype for the ""sense of distance" and ""sense of balance" found in his music.
+Ian Pooleyは1973年、ドイツ・マインツに生まれている。両親はイギリス出身であり、家庭内では英語とドイツ語、双方の文化が自然に交錯していた。この二重性は、彼の音楽に見られる「距離感」と「均衡感覚」の原型とも言える。
 
 From an early age, black music such as jazz, soul, and funk was played at home rather than rock. Early on, he developed an ear for paying attention not only to rhythmic dynamics, but also to chord progressions and performance intervals. In particular, the electric bass lines and the spatial expansion created by the chords became important foundations for later productions.
 
-As he entered his teens, he became strongly attracted to dance music that was expanding at the time, such as hip-hop, electro, and acid house. What fascinated him here was not the star quality or the lyrics, but the ""structure'' of the track itself. For Pooley, the subtle changes that occur through repetition and the plasticity of music as it is rearranged by DJs presents a new way of looking at music.
+10代に入ると、ヒップホップやエレクトロ、アシッド・ハウスといった当時拡大しつつあったダンスミュージックに強く惹かれるようになる。ここで彼が魅了されているのは、スター性や歌詞ではなく、トラックが持つ「構造」そのものだった。反復の中で生まれる微細な変化、DJによって再配置される音楽の可塑性は、Pooleyにとって新しい音楽観を提示するものである。
 
 > The multilayered musical roots consistently lend intellectual depth to Ian Pooley's work.
 
@@ -44,11 +44,11 @@ color: #fff;
 </style>
 
 
-## Early Career and 1990s UK House Scene
+## キャリア初期と1990年代UKハウス・シーン
 
 In the early 1990s, Ian Pooley began producing in his home environment. At the time, a new trend was forming in Europe, with the minimal sound influenced by Detroit techno intersecting with the unique groove of UK house. While in Germany, Pooley was keenly aware of trends.
 
-Around 1994, his work gradually gained attention among club DJs. The design philosophy of blending into the flow of the mix, without using flashy breaks or excessive samples, had a value different from that of instant hits.
+Around 1994, his work gradually gained attention among club DJs. The design philosophy of blending into the flow of the mix without using flashy breaks or excessive samples had a value different from that of instant hits.
 
 Pooley's songs are regarded as a "reliable middle ground", particularly in UK club culture. They can be placed naturally around peak and peak hours and do not collide with other trucks. It is this functionality that makes him a long-term supporter.
 
@@ -59,7 +59,7 @@ B --> C[Ian Pooley early works]
 C --> D[Establishment within DJ sets]
 </div>
 
-> Early in his career, Pooley chose structure over fashion.
+> 初期キャリアにおいて、Pooleyは流行ではなく構造を選び取っていた。
 
 ---
 
@@ -71,11 +71,11 @@ What is noteworthy is the code work. Although he uses harmonies that give a sens
 
 The treatment of repetition is also distinctive. Although it sounds like the same phrase continues, there are actually subtle changes in fill position, velocity, and effect processing. As a result, there is no sense of stagnation on the floor, and time moves forward smoothly.
 
-> Pooley's songs use repetition as a driving force rather than a stagnation.
+> Pooleyの楽曲は、反復を停滞ではなく推進力として機能させている。
 
 ---
 
-## Equipment used and production environment (90s hardware-centric)
+## 使用機材と制作環境（90年代ハードウェア中心主義）
 
 Ian Pooley's production environment was based on a hardware-centric configuration common to European club music producers in the 1990s. At this time, the mainstay of production was not computers, but the combination of physical equipment such as synthesizers, drum machines, samplers, and mixers.
 
@@ -83,11 +83,11 @@ Pooley's distinctive feature is that he did not take the stance of pushing a spe
 
 Production is performed using a method that emphasizes real-time performance. Even when recorded using a sequencer, loops are not fixed; they are constantly modified by fader operations, muting, and effect processing. This was an attempt to bring the same sense of time as a club while being a studio.
 
-The mixer was not just a volume control device, but functioned as part of the song structure. The localization and band of each sound are designed with the assumption that it will ultimately pass through a DJ mixer, minimizing the discrepancy between the studio mix and the on-site mix.
+ミキサーは単なる音量調整装置ではなく、楽曲構造の一部として機能していた。各音の定位や帯域は、最終的にDJミキサーを通過することを前提に設計され、スタジオミックスと現場ミックスの乖離を最小限に抑えている。
 
 ### Comparison of production environment with contemporary artists
 
-Many artists working in the same '90s UK house context gravitated toward more sample-driven or vocal-centered production. Pooley, on the other hand, continued to pursue the structural beauty of instrumental music.
+同じ90年代UKハウス文脈で活動していたアーティストの多くは、よりサンプル主導、あるいはボーカル中心の制作へと傾いていった。これに対しPooleyは、あくまでインストゥルメンタルの構造美を追求し続けた。
 
 For example, while producers heavily influenced by US house focused on emotional peaks, Pooley emphasizes the change in grooves over time. This approach is possible because of the production environment where minute differences are accumulated through the operation of equipment.
 
@@ -99,13 +99,13 @@ In the UK house scene, Pooley was somewhere between the mainstream and the under
 
 ---
 
-## Significance of masterpiece and album "Meridian"
+## 代表作とアルバム『Meridian』の意義
 
 The album Meridian, released in 1997, was an important milestone in Ian Pooley's career. In this work, the aesthetics that had been presented in singles and 12-inch releases were organized and integrated in the album format.
 
-The songs on ""Meridian'' emphasize sustainability over immediate impact. When listened to on its own, it sounds unassuming, but as you listen to it over time, the sophistication of its structure gradually emerges.
+『Meridian』に収録された楽曲群は、即効性よりも持続性を重視している。単体で聴くと控えめだが、時間をかけて聴くことで、構造の精緻さが徐々に浮かび上がってくる。
 
-The album was both a listening piece and a deep understanding of DJ culture. Although it was an album, each song was created with the premise of club use, which was unique even at the time.
+このアルバムは、リスニング作品であると同時に、DJ文化への深い理解を示すものでもあった。アルバムでありながら、各曲がクラブユースを前提に成立している点は、当時としても特異である。
 
 > ""Meridian'' was a work that blurred the line between album and club.
 
@@ -119,9 +119,9 @@ Pooley's songs rarely have excessive breakdowns or dramatic shifts. Instead, it 
 
 DJs don't "play" songs, they "arrange" them. Pooley understood the premise deeply and made it a priority to make his tracks work as part of the set. As a result, his work continues to be used in a variety of contexts, without being tied to a specific peak time or genre.
 
-### Comparison with tracks for contemporary DJs
+### 同時代DJ向けトラックとの比較
 
-In the late 1990s, many house tracks focused on immediate effects and had a structure that elicited a reaction from the floor in a short period of time. Although these were highly effective temporarily, their frequency of use tended to decrease over the long term.
+90年代後半、多くのハウストラックは即効性を重視し、短時間でフロアの反応を引き出す構造を持っていた。これらは一時的な効果は高いものの、長期的には使用頻度が下がる傾向にあった。
 
 Pooley's songs, on the other hand, intentionally suppress the peak of reaction. This allowed DJs to design the dynamics of the entire set themselves, and the songs became reusable material over and over again.
 
@@ -137,7 +137,7 @@ As a result, Pooley's trucks continue to circulate quietly on the outside of fas
 
 ## Position in club music history
 
-Ian Pooley is not the type of artist to become a symbol of a movement. However, it is an important presence that structurally supports house music since the 1990s.
+Ian Pooleyは、ムーブメントの象徴となるタイプのアーティストではない。しかし、90年代以降のハウス・ミュージックを構造面から支えている重要な存在である。
 
 His work always works within a context and never stands alone. This attitude presents a perspective that views club music as both a cultural expression and a practical design object.
 
@@ -155,11 +155,11 @@ timeline
 
 ## Chronology
 
-Born in Mainz, Germany in 1973
+1973年　ドイツ・マインツにて出生
 Early 1990s: Full-scale music production
 1994 Early works attract attention in the club scene
 1997 Album "Meridian" released
-Continuing stable production activities since the 2000s
+2000年代以降　安定した制作活動を継続
 
 > What can be seen throughout the chronology is a consistent and unwavering production attitude.
 

@@ -21,11 +21,11 @@ title: '[Column] Company Flow: The horizon of alternative hip-hop opened up by t
 
 Text: mmr｜Theme: From the formation to dissolution of Company Flow, analysis of the work, sound structure, history of the members, historical significance
 
-In New York in the late 1990s, while hip-hop was growing into a huge commercial industry, there was also an underground reactionary energy swirling around it.
-Major music groups led by Bad Boy Records were expanding their glittering sounds, but on the street side, an increasing number of artists were seeking a more rigid and politically charged style of expression.
+1990年代後半のニューヨークは、ヒップホップが商業的巨大産業へと成長する中、同時にアンダーグラウンドの反動的なエネルギーが渦巻いていた。
+Bad Boy Records を筆頭とするメジャー勢は煌びやかなサウンドを拡大していたが、それに対しストリート側では、硬質で政治性の高い表現を求めるアーティストが増加していた。
 
-At the center of this was **Company Flow**.
-Their 1997 album **Funcrusher Plus** is a landmark in indie hip-hop history.
+その中心に立っていたのが **Company Flow（コンパニー・フロー）** であり、
+彼らの1997年作 **『Funcrusher Plus』** はインディ・ヒップホップ史の象徴となっている。
 
 ---
 
@@ -34,7 +34,7 @@ Their 1997 album **Funcrusher Plus** is a landmark in indie hip-hop history.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -43,34 +43,34 @@ color: #fff;
 </style>
 
 
-# Chapter 1: Young MC from Brooklyn—The starting point of El-P (1990–1993)
+# 第1章：ブルックリンの若きMC——El-P の出発点（1990–1993）
 
 The main character of Company Flow, **El-P (El Producto)**, is from Brooklyn, New York.
-He spent his childhood at a time when the hip-hop movement was expanding explosively in New York, and was already working on rapping and making independent cassettes as a teenager.
+ヒップホップのムーブメントがNYで爆発的に拡大していた時代に少年期を過ごし、10代の頃から既にラップ作成・自主カセット制作に取り組んでいた。
 
 The following venues were important in the New York underground in the early 1990s.
 
 * **Lyricist Lounge**
-* **Stretch & Bobbito Show** (Legendary Radio Program)
-* **NY local showcase**
-* **Indie distribution network (record stores, 12-inch culture)**
+* **Stretch & Bobbito Show** (legendary radio program)
+* **NYローカルのショーケース**
+* **インディ流通ネットワーク（レコード店、12インチ文化）**
 
 El-P also honed his skills in this environment, gradually increasing his underground presence.
 
-Around 1993, he met **Bigg Jus**, who would later become a key partner in Company Flow, and they began working together.
+1993年頃、彼は後に Company Flow の重要パートナーとなる **Bigg Jus** と出会い、互いに協働するようになる。
 
 Next, **Mr. Len** joined as a DJ, completing the three-piece structure we know today.
 
 ---
 
-# Chapter 2: Company Flow's early activities and indie spirit (1993–1995)
+# 第2章：Company Flow の初期活動とインディ精神（1993–1995）
 
-After forming the unit, they had no major aspirations,
-**They released music at their own pace and maintained an attitude of fiercely protecting the autonomy of artists**.
+ユニット結成後、彼らはメジャー志向を持たず、
+**自分たちのペースで音楽を発表し、アーティストの自主性を死守する姿勢** を貫いた。
 
-A symbol of this is the launch of their own indie label **Official Recordings**.
+その象徴となるのが、彼ら自身のインディ・レーベル **Official Recordings** の立ち上げである。
 
-In 1995, Company Flow was the label's first 12-inch single.
+1995年、Company Flow は同レーベルから初の12インチシングル
 **"Juvenile Techniques"** released.
 
 This single became a hot topic among NY underground listeners at the time.
@@ -80,53 +80,53 @@ This was an opportunity for their name to spread rapidly.
 
 # Chapter 3: "Funcrusher" EP and its impact on the NY underground scene (1996)
 
-In 1996, Company Flow self-released the EP **Funcrusher**.
+1996年、Company Flow は EP **『Funcrusher』** を自主リリースする。
 
-This work goes beyond the typical boom-bap framework.
-It was distinctive in terms of sound, politics, and experimentation.
+この作品は、一般的なブームバップの枠から外れ、
+サウンド面・政治性・実験性の全てで異彩を放った。
 
 ---
 
-## Features of "Funcrusher" EP
+## 『Funcrusher』EP の特徴
 
 ### ● 1. Industrial × Boom-Bap
 
-The beats constructed by El-P have the following texture.
+El-P が構築したビートは、以下のような質感を持つ。
 
-* Mainly SP-1200, but also uses a lot of "dirt"
-* industrial noise
+* SP-1200 を中心にしながらも“汚し”を多用
+* 工業的なノイズ
 * Minimal but disturbing, tense rhythm
-* Frequent use of "Chop" to chop samples into small pieces
+* サンプルを細かく刻む“Chop”の多用
 
 ### ● 2. The uniqueness of the lyrics
 
-Bigg Jus and El-P's rap was more ideological and political than street music.
+Bigg Jus と El-P のラップは、ストリート性よりも思想性、政治性が強かった。
 
 The following are particularly noticeable.
 
 * Criticism of the corporatized music industry
-* Doubts about information manipulation and surveillance society
-* Defending artist autonomy
-* Rhythm-oriented flow full of abstract metaphors
+* 情報操作・監視社会への疑念
+* アーティスト自治の擁護
+* 抽象的比喩に満ちたリズム重視のフロー
 
-### ● 3. Symbol of indie success
+### ● 3. インディ成功の象徴
 
-""Funcrusher'' became an underground word-of-mouth hit,
-It will reach the ears of those involved with the emerging label **Rawkus Records**.
+『Funcrusher』は地下で口コミ的にヒットし、
+It will reach the ears of the people involved with the emerging label **Rawkus Records**.
 
 ---
 
-# Chapter 4: Contract with Rawkus Records (1997)
+# 第4章：Rawkus Records との契約（1997）
 
 With underground excitement behind them, Company Flow signed with Rawkus Records in 1997.
 
-At the time, Rawkus was
+当時の Rawkus は、
 
-* Mos Def
+* モス・デフ
 * Talib Kweli
 * High & Mighty
-*Shabaam Sahdeeq
-*Reflection Eternal
+* Shabaam Sahdeeq
+* Reflection Eternal
 
 It was rapidly growing as the center of the New York underground.
 
@@ -137,28 +137,28 @@ They will release an album **Funcrusher Plus**, which is a major expansion of th
 
 # Chapter 5: Thorough analysis of "Funcrusher Plus" in underground history (1997)
 
-""Funcrusher Plus'' received widespread acclaim despite being an indie work.
-It became a reference point for underground hip-hop.
+『Funcrusher Plus』は、インディ作品ながら広範な評価を獲得し、
+アンダーグラウンド・ヒップホップの基準点となった。
 
-In this chapter, as the main text of the 20,000 character class,
-**Detailed analysis of sounds/lyrics/cultural background/social influences**.
+本章では20,000字級本文の中心として、
+**サウンド／リリック／文化的背景／社会的影響** を詳細に分析する。
 
 ---
 
-## 1. Musical characteristics
+## 1. 音楽的特徴
 
 ### ● Industrial noise and sample decomposition
 
 El-P's beat is notable in the following ways compared to traditional boom-bap.
 
-* "Deconstruct" and reassemble the sample
-* Actively incorporate distortion
-* Snare/kick is sharp and dry
+* サンプルを“解体”し再構成
+* 歪みを積極的に取り入れる
+* スネア／キックが鋭く乾いている
 * Minimal use of synths but futuristic textures
 
-### ● Aesthetics of dissonance
+### ● 不協和の美学
 
-What underpins the entirety of ""Funcrusher Plus" is an aesthetic that emphasizes ""tension" over ""pleasure.''
+『Funcrusher Plus』全体を支えるのは、“快”より“緊張”を重視した美学である。
 
 ### ● DJ Mr. Len's scratch
 
@@ -171,8 +171,8 @@ Sharp scratches are placed throughout the mix, reinforcing the hard feel of the 
 El-P and Bigg Jus frequently address the following topics:
 
 * Criticism of the corporatized music industry
-* Defending autonomy and creativity
-* Political and social metaphors
+* 自主性とクリエイティビティの擁護
+* 政治的・社会的メタファー
 * Suspicion of technology and power structures
 * Experimental/abstract narrative style
 
@@ -182,24 +182,24 @@ The song that had a particularly big influence here was ""The Fire in Which You 
 
 # Chapter 6: Thorough analysis of "The Fire in Which You Burn"
 
-**Recorded: "Funcrusher Plus" (1997)**
-This song is known as a song that symbolizes the message of Company Flow.
+**収録：『Funcrusher Plus』(1997)**
+この曲は Company Flow のメッセージを象徴する楽曲として知られる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rrUn2Qf3UXI?si=ez3YLxIa9fEDVal4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## ● Song theme
+## ● 曲のテーマ
 
-**Hacker culture/surveillance society/information manipulation/individual freedom and resistance**
+**ハッカー文化／監視社会／情報操作／個人の自由と抵抗**
 These are presented in complex metaphors.
 
-The content of the lyric includes the following directions (*Only the main points within the scope of the facts):
+リリックの内容は以下の方向性を含む（※事実の範囲内で要点のみ）：
 
-* Criticize the structure of the surveillance society
+* 監視社会の構造を批判
 * Be wary of the individual's position in the age of information warfare
-* The dangers of combining technology and power
-* The perspective that artists themselves can be subject to surveillance
+* テクノロジーと権力が結びつく危険性
+* アーティスト自身も監視対象になりうるという視点
 * Rejection and warning against the political-industrial complex
 
 Word choice is not direct propaganda;
@@ -209,108 +209,108 @@ It is composed of elaborate metaphors and abstract expressions.
 
 ## ● Sound composition
 
-* Low, growling bass
-* Ominous sample loop
+* 低く唸るようなベース
+* 不穏なサンプル・ループ
 * Intermittent synth noise
 * Detailed percussion with MPC chop
 * A mix of cool textures throughout
 
 ---
 
-## ● Importance
+## ● 重要性
 
-""The Fire in Which You Burn'' is highly acclaimed for the following reasons:
+「The Fire in Which You Burn」は、以下の理由で高く評価されている。
 
-* Representative songs that clearly demonstrate the politics of Company Flow
-* El-P's sound design ability is remarkable.
-* Contents that symbolize underground hip-hop in the late 90s
-* Many prototype elements of later Def Jux works (Cannibal Ox, etc.) can be seen.
+* Company Flow の政治性を明確に示した代表曲
+* El-P のサウンドデザイン能力の高さが顕著
+* 90年代後半のアンダーグラウンド・ヒップホップを象徴する内容
+* 後の Def Jux 作品（Cannibal Ox など）の原型要素が多数みられる
 
-It is said that ""Funcrusher Plus" established an ""underground ideology" around this song.
+この曲を中心に、『Funcrusher Plus』が“思想としてのアンダーグラウンド”を確立したと言われる。
 
 ---
 
 # Chapter 7: Divergence with Rawkus and return to independence (1998–1999)
 
-""Funcrusher Plus'' was a success, but as Rawkus continued to expand its scale and form capital alliances,
-Company Flow has prioritized **maintaining artist autonomy**.
+『Funcrusher Plus』は成功したが、Rawkus が規模拡大・資本提携を進める中で、
+Company Flow は**アーティスト自治の維持**を最優先とした。
 
-Differences of opinion with the label gradually grew,
-In 1999, they left Rawkus Records.
+レーベルとの意見の相違は次第に大きくなり、
+1999年、彼らは Rawkus Records を離脱する。
 
-Keeping distance from "major systems",
-Turning to indie again was an event that defined Company Flow's aesthetic.
+「メジャー的な体制」と距離を置き、
+再びインディへと舵を切ったことは、Company Flow の美学を明確にする出来事だった。
 
 ---
 
-# Chapter 8: "Little Johnny from the Hospital"——Instrumental experiment (2000)
+# 第8章：『Little Johnny from the Hospitul』——インストによる実験（2000）
 
 In 2000, Company Flow was an instrumental album.
-**"Little Johnny from the Hospital: Breaks & Instrumentals Vol.1"** is released.
+**『Little Johnny from the Hospitul: Breaks & Instrumentals Vol.1』** を発表する。
 
-This work has the following characteristics.
+この作品には以下の特徴がある。
 
-### ● Complete installation
+### ● 完全インスト
 
-Eliminating rap, El-P's beat aesthetic comes to the fore.
+ラップを排除し、El-P のビート美学が前面化。
 
-### ● Expansion of experimentation
+### ● 実験性の拡大
 
-* Eliminates DJ shout
-* BPM, structure, and number of layers are more complex than before
-* Increased electronic elements
+* DJシャウトを排除
+* BPM、構造、レイヤー数が従来より複雑
+* エレクトロニックな要素が増加
 * Mixing Lo-Fi and Hi-Fi textures
 
-### ● Prototype of later El-P solo works
+### ● 後の El-P ソロ作品の原型
 
-The sound is clearly future-oriented, and has a direct connection to the sound image of later Def Jux works.
+音響的な未来志向が顕著で、後の Def Jux 作品の音像に直結する。
 
 ---
 
-# Chapter 9: Suspension of activities and progress of members (2001–)
+# 第9章：活動停止とメンバーの歩み（2001–）
 
-Around 2001, Company Flow became inactive.
-Although this is not a clear "declaration of dissolution," it is considered the de facto end of their activities.
+2001年頃、Company Flow は活動停止状態になる。
+これは明確な「解散宣言」ではないが、事実上の活動終了と見なされる。
 
-The progress of the members since then is as follows.
+その後のメンバーの歩みは以下の通り。
 
 ---
 
 ## ● El-P
 
-Established the label **Definitive Jux (Def Jux)** in 2000.
-Produced the following important works.
+2000年にレーベル **Definitive Jux（Def Jux）** を設立。
+以下の重要作品をプロデュース。
 
-* Cannibal Ox "The Cold Vein" (2001)
-* Many works by Mr. Lif, Aesop Rock, Cage, etc.
+* Cannibal Ox『The Cold Vein』（2001）
+* Mr. Lif、Aesop Rock、Cage などの作品多数
 
-In 2013, he teamed up with Killer Mike to form **Run The Jewels**.
-It achieved worldwide success and led to a re-evaluation of the Company Flow period.
+さらに2013年には Killer Mike と組み **Run The Jewels** を結成。
+世界的な成功を収め、Company Flow 期の再評価にもつながった。
 
 ---
 
 ## ● Bigg Jus
 
-Continues to produce solo works with high political and artistic characteristics.
+政治性・芸術性の高いソロ作品を継続。
 He is also involved in visual art and community projects.
 
 ---
 
 ## ● Mr. Len
 
-Active as a DJ/producer.
-Many mix works and collaborations.
+DJ／プロデューサーとして活動。
+ミックス作品やコラボレーション多数。
 
 ---
 
-# Chapter 10: Company Flow discography
+# 第10章：Company Flow のディスコグラフィ
 
-| Year | Title | Type | Label |
-| ---- | ------------------------------- | ---------- | --------------------- |
-| 1995 | Juvenile Techniques | 12-inch single | Official Recordings |
-| 1996 | Funcrusher | EP | Official Recordings |
-| 1997 | Funcrusher Plus | Album | Rawkus Records |
-| 2000 | Little Johnny from the Hospital | Instrumental album | Rawkus Records |
+| 年    | 作品名                             | 種別         | レーベル                |
+| ---- | ------------------------------- | ---------- | ------------------- |
+| 1995 | Juvenile Techniques             | 12インチ・シングル | Official Recordings |
+| 1996 | Funcrusher                      | EP         | Official Recordings |
+| 1997 | Funcrusher Plus                 | アルバム       | Rawkus Records      |
+| 2000 | Little Johnny from the Hospitul | インスト・アルバム  | Rawkus Records      |
 
 ---
 
@@ -318,15 +318,15 @@ Many mix works and collaborations.
 
 <div class="mermaid">
 flowchart TD
-    A[Industrial / Noise texture<br>(El-P's beat)] --> D[Company Flow Sound]
-    B[Highly political and abstract lyrics<br>(El-P & Bigg Jus)] --> D
+    A[Industrial / Noise 的質感<br>（El-P のビート）] --> D[Company Flow サウンド]
+    B[政治性・抽象性の高いリリック<br>（El-P & Bigg Jus）] --> D
     C[DIY/Indie Philosophy<br>Official → Rawkus → Independent] --> D
-    D --> E[Redefining underground hip hop]
+    D --> E[アンダーグラウンド・ヒップホップの再定義]
 </div>
 
 ---
 
-# Chronology (timeline)
+# 年表（タイムライン）
 
 <div class="mermaid">
 timeline
@@ -343,37 +343,37 @@ timeline
 
 ---
 
-# Chapter 12: Historical significance of Company Flow
+# 第12章：Company Flow の歴史的意義
 
-The influence that Company Flow's presence had on the scene is immeasurable.
+Company Flow の存在がシーンに与えた影響は計り知れない。
 
 ---
 
 ## ● 1. Proving the potential of indie hip-hop
 
-""Funcrusher Plus'' is an era centered on commercialism,
-It showed that even indie works can create cultural standards.
+『Funcrusher Plus』は商業主義中心の時代において、
+インディ作品でも文化的基準を作り得ることを示した。
 
 ---
 
-## ● 2. Establishment of "underground as an idea"
+## ● 2. “思想としてのアンダーグラウンド”の確立
 
 It's not just a low-budget production,
 It embodied the underground as an ""thought independent of commercialism.''
 
 ---
 
-## ● 3. Building the foundation of experimental hip-hop
+## ● 3. エクスペリメンタル・ヒップホップの基礎構築
 
-El-P's acoustic philosophy
+El-P の音響哲学は、後の
 
-*Cannibal Ox
+* Cannibal Ox
 * Aesop Rock
 * Dalek
 * Clipping
-* Death Grips (The influence is not stated explicitly, but it is said to be a genealogical connection)
+* Death Grips（影響関係は明言されていないが、系譜上つながりとして語られる）
 
-This led to experimental artists such as
+などの実験派アーティストへと連なる。
 
 ---
 
@@ -385,25 +385,25 @@ He presented a perspective that is still relevant even after more than 20 years.
 
 ---
 
-# The final chapter—a short-lived but decisive existence
+# 終章——短命でも決定的な存在
 
-The legacy of Company Flow is
-It goes beyond the value of mere musical works.
+Company Flow が残したものは、
+単なる音楽作品の価値に留まらない。
 
 * Possibility of indie
-* Artist autonomy
-* Significance of politics
-* Underground as aesthetics
-* The value of experimental sounds
-* The need for a "major counter-axis"
+* アーティスト自治
+* 政治性の持つ意義
+* 美学としてのアンダーグラウンド
+* 実験的サウンドの価値
+* “メジャーの対抗軸”の必要性
 
 All of this became clear through their activities.
 
-Especially as symbolized by **The Fire in Which You Burn**.
-They were ahead of the changing times and left behind insights that are relevant today.
+特に **「The Fire in Which You Burn」** が象徴するように、
+彼らは時代の変化を先取りし、現代に通じる洞察を残している。
 
-Company Flow has only been active for a short period of time.
-However, the horizons they opened,
+Company Flow は短い期間しか活動していない。
+しかし、彼らが切り開いた地平は、
 It continues to be a defining and essential value in the history of hip-hop.
 
 ---
@@ -411,7 +411,7 @@ It continues to be a defining and essential value in the history of hip-hop.
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g8thlyfVW-s?si=qZtLW7LfwASeERMe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

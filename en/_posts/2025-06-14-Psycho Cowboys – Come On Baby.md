@@ -14,12 +14,12 @@ title: Psycho Cowboys – Come On Baby
 ---
 
 
-Psycho Cowboys (also known as Hedfu_k) is a project by UK-based producer/composer Aaron Gilbert and London-born electronic DJ/producer Stretch Silvester, aka Stuart Collins.
+Psycho Cowboys (別名Hedfu_k)は、UKを拠点に活動するプロデューサー・コンポーザーAaron Gilbert(アーロン・ギルバート)とロンドン出身のエレクトロニックDJ・プロデューサーStretch SilvesterことStuart Collinsによるプロジェクト。
 
 
-This record is a Breaks/Big Beat track released in 1999 by London's independent record label Wall Of Sound.
+このレコードは、ロンドンのインディペンデントレコードレーベルWall Of Sound (ウォール・オブ・サウンド)から1999年にリリースされたBreaks・Big Beatトラック。
 
-The Wall Of Sound label, along with Brighton-based Skint Records, were central to the big beat movement of the mid-to-late 1990s. He is also known for introducing internationally renowned big beat artists such as Propellerheads, The Wiseguys, and Les Rythmes Digitales.
+レーベルWall Of Soundは、ブライトンを拠点とするSkint Records(スキントレコード) と並んで、1990年代半ば〜後半にかけてのビッグビートムーブメントの中心的存だった。また、Propellerheads、The Wiseguys、Les Rythmes Digitalesなどの国際的に有名なビッグビートアーティストを紹介した事でも知られている。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Heart Attack
 B2. Come On Baby (Demo Version)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m23010832110?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23010832110?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/veUq6vz7smo?si=G4xuKAL_vvudQDVK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

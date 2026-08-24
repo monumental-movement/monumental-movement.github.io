@@ -10,14 +10,12 @@ tags:
 - Dub
 - Techno
 - Ambient
-title: '[Column] The 100 most influential records in music history: A new history
-  of music reconstructed solely based on the degree of influence on contemporary music
-  (Part 10, 91-100: Social establishment of electronic music and the post-club era)'
+title: 【コラム】 音楽史上最も影響力のあった100枚：現代音楽への影響度だけで再構築する新しい音楽史（第10回・91〜100：電子音楽の社会的定着とポストクラブ時代）
 ---
 
 
 
-## 10th (91st place)
+## 第10回（91位）
 
 ---
 
@@ -27,28 +25,28 @@ title: '[Column] The 100 most influential records in music history: A new histor
 
 Released in 1999, **Rhythm & Stealth** is a historical work in which **Leftfield** advancedly fused breakbeat, dub, house, and techno, and matured electronic music into a sophisticated sound that coexists with ""physicality" and ""intellect."
 
-1995's **Leftism** (#70) was a monument to the rise of club music to album art.
+1995年の**『Leftism』**（70位）は、クラブ・ミュージックをアルバム芸術へ押し上げた記念碑だった。
 
-Four years later, Rhythm & Stealth further refined this idea.
+そして4年後の『Rhythm & Stealth』では、その思想がさらに洗練される。
 
-There's none of the roughness of his debut work here.
+ここにはデビュー作の荒々しさはない。
 
-Instead, there is
+代わりにあるのは、
 
-Precisely constructed rhythm.
+精密に構築されたリズム。
 
-huge bass.
+巨大な低音。
 
-A sound field organized to the utmost.
+極限まで整理された音場。
 
-Electronic music has now reached a stage where it can simultaneously achieve ""power" and ""beauty."
+電子音楽はここで、「力強さ」と「美しさ」を同時に成立させる段階へ到達した。
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -60,49 +58,49 @@ color: #fff;
 
 ---
 
-## Breakbeat maturity
+## ブレイクビートの成熟
 
-In the late 1990s, breakbeat was gaining explosive popularity in the UK.
+1990年代後半、英国ではブレイクビートは爆発的な人気を獲得していた。
 
-However, most of them were moving toward competition for flashiness and momentum.
+しかし、その多くは派手さや勢いを競う方向へ進んでいた。
 
-Leftfield was different.
+Leftfieldは違った。
 
-Rather than increasing the number of notes, they
+彼らは音数を増やすのではなく、
 
-Refine each sound one by one.
+一つひとつの音を磨き上げる。
 
 kick.
 
-base.
+ベース。
 
 percussion.
 
 reverberation.
 
-Everything is precisely arranged to form one three-dimensional space.
+すべてが精密に配置され、一つの立体空間を形成する。
 
-Here, breakbeat not only became a club sensation, but also achieved perfection as a listening piece.
+ブレイクビートはここで、クラブの熱狂だけでなく、リスニング作品としての完成度も獲得した。
 
 ---
 
-## Deepening the idea of ​​dub
+## ダブという思想の深化
 
-Leftfield has consistently learned a lot from dub music.
+Leftfieldは一貫してダブ・ミュージックから多くを学んできた。
 
-Rhythm & Stealth further refines that influence.
+『Rhythm & Stealth』では、その影響がさらに洗練される。
 
-A heavily sinking base.
+重く沈むベース。
 
 Reverberation with depth.
 
-A quiet space.
+静かな余白。
 
-Impressiveness is not created by increasing the volume of sound.
+音を増やすことで迫力を作るのではない。
 
-Creating an overwhelming presence by designing the space.
+空間を設計することで圧倒的な存在感を生み出す。
 
-This idea had a major influence on later minimal house, techno, and UK bass music.
+この発想は後のミニマル・ハウスやテクノ、UKベース・ミュージックにも大きな影響を与えた。
 
 ---
 
@@ -133,77 +131,77 @@ G --> H
 
 ## Bridge to 2000s club sound
 
-Rhythm & Stealth is also a direct link to British club music of the 2000s.
+『Rhythm & Stealth』は、2000年代の英国クラブ・ミュージックへ直接つながる作品でもある。
 
-Sophisticated bass design.
+洗練された低音設計。
 
-Clear mix.
+明瞭なミックス。
 
-A complex yet danceable rhythm.
+複雑でありながら踊れるリズム。
 
-This sense of balance is
+このバランス感覚は、
 
-James Holden
+James Holden、
 
-Around Sasha & Digweed,
+Sasha & Digweed周辺、
 
-Progressive Breaks,
+Progressive Breaks、
 
-Furthermore, it was inherited by the UK bass scene.
+さらにはUK Bassシーンにも継承されていく。
 
-Perfection, not flashiness.
+派手さではなく完成度。
 
-That was the film's greatest achievement.
+それが本作の最大の功績だった。
 
 ---
 
-## Completed form called Leftfield
+## Leftfieldという完成形
 
-If "Leftism" is a work that presents possibilities,
+『Leftism』が可能性を提示した作品なら、
 
-""Rhythm & Stealth'' is the completed version.
+『Rhythm & Stealth』はその完成形である。
 
 Electronic music doesn't necessarily have to be avant-garde.
 
-club and home.
+クラブと家庭。
 
-dancing and appreciating.
+ダンスと鑑賞。
 
-body and intellect.
+肉体と知性。
 
-Even now, there are not many albums that integrate all of these elements at a high level.
+そのすべてを高い次元で統合したアルバムは、現在でも決して多くない。
 
-""Rhythm & Stealth'' is one of the few successful examples.
+『Rhythm & Stealth』は、その数少ない成功例の一つである。
 
 ---
 
-## Why is it ranked 91st?
+## なぜ91位なのか
 
-""Rhythm & Stealth'' is an important work that symbolizes the maturation of British club music in the 1990s, sublimating breakbeat and dub into extremely sophisticated production.
+『Rhythm & Stealth』は、ブレイクビートとダブを極めて洗練されたプロダクションへ昇華し、1990年代英国クラブ・ミュージックの成熟を象徴する重要作品である。
 
-Its influence extended to progressive breaks, UK bass, and modern club production, and established the value of ""club music as acoustics.''
+その影響はプログレッシブ・ブレイクス、UKベース、現代クラブ・プロダクションにまで及び、「音響としてのクラブ・ミュージック」という価値観を定着させた。
 
 In this ranking, ""Leftism'' (70th place) is ranked 91st because it ranks high in terms of historical innovation. However, this work should be highly praised as a work that further refines that idea and shows the level of perfection that electronic music production can reach.
 
-> **"'Rhythm & Stealth' matured breakbeat into a sophisticated sonic art and presented the complete form of 1990s British club music. Due to its historical significance, it is ranked 91st in this ranking."**
+> **「『Rhythm & Stealth』はブレイクビートを洗練された音響芸術へ成熟させ、1990年代英国クラブ・ミュージックの完成形を提示した。その歴史的意義により本ランキング第91位に位置付ける。」**
 
 ---
 
-## 10th (92nd place)
+## 第10回（92位）
 
 ---
 
 ## The Campfire Headphase
 
-### **"The moment when electronica became music that coexisted with "nature""**
+### **「エレクトロニカが“自然”と共存する音楽になった瞬間」**
 
-**The Campfire Headphase**, released in 2005, is a historical work in which **Boards of Canada** fused electronic music and acoustic sound, presenting a new aesthetic that ""nature and machine are not at odds.''
+2005年に発表された**『The Campfire Headphase』**は、**Boards of Canada**が電子音楽とアコースティック・サウンドを融合し、「自然と機械は対立しない」という新しい美学を提示した歴史的作品である。
 
-1998's **Music Has the Right to Children** (#21) was a historical masterpiece that brought memory and nostalgia to electronic music.
+1998年の**『Music Has the Right to Children』**（21位）は、記憶や郷愁を電子音楽へ持ち込んだ歴史的傑作だった。
 
-However, in ""The Campfire Headphase,'' that worldview expands even further.
+しかし『The Campfire Headphase』では、その世界観はさらに広がる。
 
-forest.
+森。
 
 wind.
 
@@ -211,39 +209,39 @@ trees.
 
 acoustic guitar.
 
-Soft synthesizer.
+柔らかなシンセサイザー。
 
 Electronic music moves away from cities and begins to depict natural landscapes.
 
-Here, the machine came to resonate as a part of nature, rather than an artificial object.
+ここで機械は人工物ではなく、自然の一部として響くようになった。
 
 ---
 
-## Maturity of electronica
+## エレクトロニカの成熟
 
-By the early 2000s, electronic music was no longer just a club culture.
+2000年代初頭になると、電子音楽はクラブだけの文化ではなくなる。
 
-home.
+家庭。
 
-movie.
+映画。
 
-Art museum.
+美術館。
 
-Cafe.
+カフェ。
 
-internet.
+インターネット。
 
-The places where music is played are becoming more diverse.
+音楽が流れる場所そのものが多様化していく。
 
-Boards of Canada symbolized that change.
+Boards of Canadaは、その変化を象徴する存在だった。
 
-The beat is modest.
+ビートは控えめ。
 
-The melody is calm.
+旋律は穏やか。
 
-The atmosphere becomes more important than anything else.
+空気感が何より重要になる。
 
-Here, electronic music acquired a new role as ""music for living spaces.''
+電子音楽はここで、「生活空間の音楽」という新しい役割を獲得したのである。
 
 ---
 
@@ -251,11 +249,11 @@ Here, electronic music acquired a new role as ""music for living spaces.''
 
 The guitar plays a very important role in this work.
 
-But it's not a return to rock.
+しかし、それはロックへの回帰ではない。
 
 guitars and synthesizers,
 
-treated as the same acoustic material.
+同じ音響素材として扱われる。
 
 Live instruments and electronic sounds.
 
@@ -292,31 +290,31 @@ F --> H
 
 ---
 
-## "Nostalgia" update
+## 「郷愁」のアップデート
 
 Boards of Canada has always been about nostalgia.
 
-But in The Campfire Headphase, it's not just a longing for the past.
+しかし『The Campfire Headphase』では、それは単なる過去への憧れではない。
 
-distance from nature.
+自然との距離。
 
-A landscape that is disappearing.
+失われつつある風景。
 
-The feeling of being forgotten in a digital society.
+デジタル社会の中で忘れられていく感覚。
 
-The mental landscape of modern people is depicted as a quiet sound.
+そうした現代人の心象風景が、静かなサウンドとして描かれる。
 
-This "quiet nostalgia" had a major influence on 21st century ambient and indie electronica.
+この「静かな郷愁」は、21世紀のアンビエントやインディー・エレクトロニカに大きな影響を与えた。
 
 ---
 
-## Organic sound in the digital age
+## デジタル時代のオーガニック・サウンド
 
-Since the 2000s, many electronic musicians have been seeking "warmth".
+2000年代以降、多くの電子音楽家が「温かさ」を求めるようになる。
 
-Tycho.
+Tycho。
 
-Bibio.
+Bibio。
 
 Helios.
 
@@ -324,13 +322,13 @@ Ulrich Schnauss.
 
 Bonobo.
 
-Their work strongly inherits the idea of ​​""a fusion of nature and electronic sound" that was expressed in ""The Campfire Headphase."
+彼らの作品には、『The Campfire Headphase』が示した「自然と電子音の融合」という思想が色濃く受け継がれている。
 
-Electronic music isn't just about the future.
+電子音楽は未来だけを描くものではない。
 
-It can also depict nature, memory, and humanity.
+自然や記憶、人間らしさを描くこともできる。
 
-This work quietly proved that.
+本作は、そのことを静かに証明した。
 
 ---
 
@@ -338,11 +336,11 @@ This work quietly proved that.
 
 ""The Campfire Headphase'' is an important work that naturally fuses electronic music and acoustic sounds, showing the direction of folktronica and contemporary ambient.
 
-Its influence extended to indie electronica, film music, and environmental music, spreading the new value of "organic electronic music" widely.
+その影響はインディー・エレクトロニカ、映画音楽、環境音楽にまで及び、「オーガニックな電子音楽」という新しい価値観を広く浸透させた。
 
-In this ranking, ""Music Has the Right to Children" (21st place) is ranked higher as Boards of Canada's definitive innovation, so we placed it at 92nd place. However, ""The Campfire Headphase" further matures that world view, and is a work that should be highly praised as a complete form of ""electronic music that depicts nature'' in the digital age.
+本ランキングでは、『Music Has the Right to Children』（21位）がBoards of Canadaの決定的な革新としてより上位に位置付けられているため、第92位とした。しかし、『The Campfire Headphase』はその世界観をさらに成熟させ、デジタル時代における「自然を描く電子音楽」の完成形として高く評価されるべき作品である。
 
-> **"'The Campfire Headphase" harmonizes electronic music and nature and matures a new aesthetic called "organic electronica'. Due to its historical significance, it is ranked 92nd in this ranking."**
+> **「『The Campfire Headphase』は電子音楽と自然を調和させ、『オーガニック・エレクトロニカ』という新たな美学を成熟させた。その歴史的意義により本ランキング第92位に位置付ける。」**
 
 ---
 
@@ -352,31 +350,31 @@ In this ranking, ""Music Has the Right to Children" (21st place) is ranked highe
 
 ## Geogaddi
 
-### **"The moment when electronic music turned the feeling of anxiety into sound"**
+### **「電子音楽が“不安”という感情を音響化した瞬間」**
 
-**Geogaddi**, released in 2002, is a historic work by **Boards of Canada**, which brought psychological themes such as the subconscious, memory distortion, and anxiety into electronic music, opening up the possibility of ""ambient music that is not only beautiful.''
+2002年に発表された**『Geogaddi』**は、**Boards of Canada**が電子音楽に潜在意識や記憶の歪み、不安という心理的テーマを持ち込み、「美しいだけではないアンビエント」の可能性を切り開いた歴史的作品である。
 
 If ""Music Has the Right to Children" (No. 21) was about childhood memories and nostalgia, ""Geogaddi" delves into the ambiguity and fear behind it.
 
-It's not just beautiful scenery here.
+ここにあるのは、美しい風景ではない。
 
-Fragments of memory.
+記憶の断片。
 
-Old educational video.
+古びた教育映像。
 
 distorted tape.
 
-meaningful numbers.
+意味深な数字。
 
-Reverse playback.
+逆再生。
 
-Music not only soothes the mind, but also serves as a mirror that reflects the unconscious itself.
+音楽は心を癒やすだけでなく、**無意識そのものを映し出す鏡**となったのである。
 
 ---
 
-## Behind the Nostalgia
+## ノスタルジアの裏側
 
-Boards of Canada has always actively used old analog equipment and tape.
+Boards of Canadaは、これまでも古いアナログ機材やテープを積極的に使用してきた。
 
 But with Geogaddi, the approach becomes even more extreme.
 
@@ -386,31 +384,31 @@ The tape deteriorates
 
 The synthesizer is cloudy,
 
-Ambient sounds quietly creep in.
+環境音が静かに忍び込む。
 
-They are not just vintage-oriented.
+それらは単なるヴィンテージ志向ではない。
 
 It was an acoustic expression of the idea that ""memory is always vague and cannot be completely reproduced.''
 
 ---
 
-## Production that builds "anxiety"
+## 「不安」を構築するプロダクション
 
-There are no dramatic scares in Geogaddi.
+『Geogaddi』には劇的な恐怖演出は存在しない。
 
 There is also less flashy noise.
 
 Still, there's an inexplicable tension throughout the album.
 
-Slightly unstable code.
+微妙に不安定なコード。
 
-A regular but restless rhythm.
+規則的なのに落ち着かないリズム。
 
 A voice that seemed audible but not.
 
 As these things pile up, the listener feels a sense of discomfort for no apparent reason.
 
-Here, electronic music has evolved into an expression that does not ""produce fear," but ""designs the psychological state itself."
+電子音楽はここで、「恐怖を演出する」のではなく、「心理状態そのものを設計する」表現へと進化した。
 
 ---
 
@@ -441,63 +439,63 @@ F --> H
 
 ## Aesthetics called Huntology
 
-Since the mid-2000s, the concept of ""Hauntology'' has gained attention in music criticism.
+2000年代半ば以降、音楽評論では**「Hauntology（ハントロジー）」**という概念が注目されるようになる。
 
-A lost future.
+失われた未来。
 
-vague memory.
+曖昧な記憶。
 
-The reverberations of a vanished culture.
+消えた文化の残響。
 
 ""Geogaddi'' has become one of the representative works of this aesthetic.
 
 The Caretaker.
 
-Burial.
+Burial。
 
-Broadcast.
+Broadcast。
 
 The Focus Group.
 
-The ""music haunted by memory'' they depict is positioned in the lineage of this work.
+彼らが描いた「記憶に取り憑かれた音楽」は、本作の系譜に位置付けられる。
 
 ---
 
 ## Psychoacoustics in the 21st century
 
-movie.
+映画。
 
-Horror game.
+ホラーゲーム。
 
 documentary.
 
-modern art.
+現代アート。
 
-After ""Geogaddi", the idea of ​​""shaking the psychology through sound" spread to many media.
+『Geogaddi』以降、「音響によって心理を揺さぶる」という考え方は、多くのメディアへ広がっていく。
 
-It's not a flashy sound effect.
+派手な効果音ではない。
 
 Slight discomfort.
 
-small noise.
+小さなノイズ。
 
 Silent repetition.
 
-That alone can make a huge difference in human emotions.
+それだけで、人間の感情は大きく変化する。
 
-This idea is deeply rooted in today's sound design.
+この発想は、今日のサウンドデザインにも深く根付いている。
 
 ---
 
 ## Why is it ranked 93rd?
 
-""Geogaddi" is an important work that has developed electronic music into an art that depicts not only nostalgia and healing, but also ""distorted memory" and ""psychological anxiety.''
+『Geogaddi』は、電子音楽を郷愁や癒やしだけでなく、「記憶の歪み」や「心理的不安」を描く芸術へと発展させた重要作品である。
 
-His influence extends widely to huntology, dark ambient, film and game sound design, and contemporary electronica.
+その影響はハントロジー、ダーク・アンビエント、映画・ゲームのサウンドデザイン、現代エレクトロニカへと広く及んでいる。
 
-In this ranking, ""Music Has the Right to Children" (21st place) is positioned as a historical turning point for Boards of Canada, and ""The Campfire Headphase" (92nd place) is positioned as a work that shows the fusion of nature and electronic sound, so this work is ranked 93rd. However, the perspective that ""Geogaddi" pioneered, ""electronic music that designs psychology itself," has left an extremely large influence on experimental music in the 21st century.
+本ランキングでは、『Music Has the Right to Children』（21位）がBoards of Canadaの歴史的転換点、『The Campfire Headphase』（92位）が自然と電子音の融合を示した作品として位置付けられているため、本作は第93位とした。しかし、『Geogaddi』が切り開いた「心理そのものを設計する電子音楽」という視点は、21世紀の実験音楽に極めて大きな影響を残している。
 
-> **"'Geogaddi" evolved electronic music into a "psychological space of memory and anxiety' and had a decisive influence on sonic expression after Huntology. Due to its historical significance, it is ranked 93rd in this ranking."**
+> **「『Geogaddi』は電子音楽を『記憶と不安の心理空間』へと進化させ、ハントロジー以降の音響表現に決定的な影響を与えた。その歴史的意義により本ランキング第93位に位置付ける。」**
 
 ---
 
@@ -505,17 +503,17 @@ In this ranking, ""Music Has the Right to Children" (21st place) is positioned a
 
 ---
 
-##Untrue
+## Untrue
 
-### **"The moment when electronic music became literature that records "urban loneliness""**
+### **「電子音楽が“都市の孤独”を記録する文学になった瞬間」**
 
-**Untrue**, released in 2007, is a historical work in which **Burial** sublimated electronic music into art that depicts the loneliness and memories of city dwellers, using the idioms of UK garage, 2-step, and dubstep.
+2007年に発表された**『Untrue』**は、**Burial**がUKガラージ、2ステップ、ダブステップの語法を用いながら、電子音楽を都市生活者の孤独や記憶を描く芸術へと昇華した歴史的作品である。
 
-In the 1990s, UK bass music developed within club culture.
+1990年代、UKベース・ミュージックはクラブカルチャーの中で発展してきた。
 
-The purpose was to dance.
+その目的は踊ることだった。
 
-But "Untrue" is different.
+しかし『Untrue』は違う。
 
 There is no enthusiasm here.
 
@@ -523,13 +521,13 @@ The station after the last train.
 
 A rain-soaked sidewalk.
 
-A residential area lit only by streetlights.
+街灯だけが照らす住宅街。
 
-London at night with no one around.
+誰もいない夜のロンドン。
 
 Burial transformed the city's "quiet time" into music.
 
-Here, electronic music became a medium that depicted not the city itself, but the emotions of the people living in the city.
+電子音楽はここで、都市そのものではなく、**都市に生きる人間の感情**を描くメディアとなったのである。
 
 ---
 
@@ -541,43 +539,43 @@ Heavy bass.
 
 aggressive rhythm.
 
-sound system.
+サウンドシステム。
 
-But Burial didn't go in that direction.
+しかしBurialは、その方向へは進まなかった。
 
-The beat is broken;
+ビートは崩れ、
 
-The rhythm sways,
+リズムは揺れ、
 
-The base sinks quietly.
+ベースは静かに沈み込む。
 
-The music was meant to be listened to through headphones, not on the dance floor.
+ダンスフロアではなく、ヘッドフォンで聴かれることを前提とした音楽だった。
 
-This work expanded dubstep into listening music.
+この作品は、ダブステップを**リスニング・ミュージック**へと拡張したのである。
 
 ---
 
-## Sound design that leaves a "scar"
+## 「傷」を残すサウンドデザイン
 
 The biggest feature of "Untrue" is its acoustic design.
 
-record noise.
+レコードノイズ。
 
 The sound of rain.
 
 distant voices.
 
-Echoes of the subway.
+地下鉄の反響。
 
-Vocals with fluctuating pitch.
+ピッチの揺れるボーカル。
 
 None of them have high quality sound.
 
-Rather, it sounds like a broken recording.
+むしろ、壊れかけた録音のように聞こえる。
 
-However, it is precisely because of these ""flaws'' that music approaches real memories.
+しかし、その「欠陥」があるからこそ、音楽は現実の記憶に近づいていく。
 
-Burial chose ""daringly imperfect sounds'' in the digital age.
+Burialは、デジタル時代において「あえて不完全な音」を選んだ。
 
 ---
 
@@ -608,21 +606,21 @@ F --> H
 
 ## Night city theme
 
-""Untrue'' is also an album about night.
+『Untrue』は、夜を描いたアルバムでもある。
 
-It's not a daytime city.
+昼間の都市ではない。
 
 Late night.
 
-A deserted road.
+人気のない道路。
 
 A fading neon sign.
 
-An ambulance running in the distance.
+遠くを走る救急車。
 
-Although cities are huge, the individuals who live there are overwhelmingly lonely.
+都市は巨大でありながら、そこに生きる個人は圧倒的に孤独である。
 
-This theme has had a major influence on electronic music, film music, and game music since the 21st century.
+このテーマは、21世紀以降の電子音楽や映画音楽、ゲーム音楽にも大きな影響を与えた。
 
 The city is not the background.
 
@@ -640,17 +638,17 @@ Post-Dubstep.
 
 Lo-fi electronica.
 
-James Blake.
+James Blake。
 
-Mount Kimbie.
+Mount Kimbie。
 
-Jamie xx.
+Jamie xx。
 
 They developed club music in a more introspective direction.
 
-The existence of "Untrue" is indispensable as the source of this.
+As the source of this, "Untrue" is indispensable.
 
-Electronic music has now reached the stage where it can be called ""literature that records urban life.''
+電子音楽はここで、「都市生活を記録する文学」と呼べる段階へ到達したのである。
 
 ---
 
@@ -660,19 +658,19 @@ Electronic music has now reached the stage where it can be called ""literature t
 
 His influence extends to Future Garage, Post-Dubstep, Lo-fi Electronica, and even sound design for movies and games.
 
-In this ranking, ""Blue Lines" (19th place), ""Mezzanine" (81st place), and ""Maxinquaye" (82nd place) are ranked 94th because they have a greater influence as historical turning points for Bristol sound and trip-hop. However, ""Untrue" has enormous cultural significance as a work that gave 21st century electronic music a new theme of ""urban loneliness.''
+本ランキングでは、『Blue Lines』（19位）、『Mezzanine』（81位）、『Maxinquaye』（82位）がブリストル・サウンドやトリップホップの歴史的転換点としてより大きな影響を持つため第94位とした。しかし、『Untrue』は21世紀の電子音楽に「都市の孤独」という新たなテーマを与えた作品として、その文化的意義は極めて大きい。
 
 > **"'Untrue" evolved electronic music into "literature that records urban solitude' and determined the direction of UK bass music in the 21st century. Due to its historical significance, it is ranked 94th in this ranking."**
 
 ---
 
-## 10th (95th place)
+## 第10回（95位）
 
 ---
 
 ## The Downward Spiral
 
-### **"The moment when industrial rock captured the spirit of the digital age"**
+### **「インダストリアル・ロックが“デジタル時代の精神”を描いた瞬間」**
 
 Released in 1994, **The Downward Spiral** is a historical work by Trent Reznor of **Nine Inch Nails** that depicts ""human psychology in the digital age'' by fusing rock, industrial, electronics, and noise.
 
@@ -694,41 +692,41 @@ Loneliness.
 
 Collapse.
 
-They are expressed not only by roaring guitars, but also by noise, samples, electronic sounds, and silence.
+それらは轟音のギターだけでなく、ノイズ、サンプル、電子音、静寂によって表現される。
 
-Here, electronic music perfectly merged with rock, which depicts the inner world of humans.
+電子音楽はここで、人間の内面を描くロックと完全に融合した。
 
 ---
 
 ## Rock as sound design
 
-In The Downward Spiral, instruments transcend their traditional roles.
+『The Downward Spiral』では、楽器は従来の役割を超えている。
 
 The guitar creates texture rather than melody.
 
-The drums are programmed shocks rather than performances.
+ドラムは演奏というよりプログラムされた衝撃となる。
 
 Noise becomes an emotion itself, not a decoration.
 
-Trent Reznor treats his studio as a giant acoustic laboratory, sculpting each sound individually.
+Trent Reznor treats his studio as a gigantic sound laboratory, sculpting each sound individually.
 
 This production had a great influence not only on later rock music, but also on film music and game music.
 
 ---
 
-## Expressive power of "broken sounds"
+## 「壊れた音」が持つ表現力
 
 This work features a lot of intentional distortion, clipping, and noise.
 
-This is a sound that would be considered a "failure" in a typical recording.
+一般的な録音なら「失敗」とされる音である。
 
-But Reznor embraced it.
+しかしReznorは、それを積極的に取り入れた。
 
-A broken sound reflects a broken spirit.
+壊れた音は、壊れた精神を映す。
 
 Recording technology has become not just a means of reproduction, but an expression technique for psychological depiction.
 
-This idea was passed on to later alternative rock, electronica, and even digital production as a whole.
+その思想は後のオルタナティブ・ロック、エレクトロニカ、さらにはデジタル・プロダクション全体へ受け継がれていく。
 
 ---
 
@@ -757,17 +755,17 @@ E --> H
 
 ---
 
-## Erase the boundaries between rock and electronic music
+## ロックと電子音楽の境界を消す
 
 Before The Downward Spiral, rock and electronic music were often talked about as separate cultures.
 
 However, in this work, those boundaries completely blend together.
 
-programmed beat.
+プログラミングされたビート。
 
 sampling.
 
-synthesizer.
+シンセサイザー。
 
 noise.
 
@@ -779,9 +777,9 @@ This idea had a strong influence not only on industrial rock acts such as Marily
 
 ---
 
-## A legacy to modern sound design
+## 現代サウンドデザインへの遺産
 
-Trent Reznor later became highly regarded as a film composer.
+Trent Reznorは後年、映画音楽作曲家としても高く評価されるようになる。
 
 Its origin is already in ""The Downward Spiral.''
 
@@ -797,39 +795,39 @@ This is also a philosophy that has been passed down to modern sound design as a 
 
 ## Why is it ranked 95th?
 
-""The Downward Spiral" is a historical work that fuses industrial rock and electronic music and depicts the ""psychology of the digital age" in acoustic form.
+『The Downward Spiral』は、インダストリアル・ロックと電子音楽を融合し、「デジタル時代の心理」を音響として描いた歴史的作品である。
 
-His influence extends to industrial rock, electro rock, film music, game music, and contemporary sound design.
+その影響はインダストリアル・ロック、エレクトロ・ロック、映画音楽、ゲーム音楽、現代サウンドデザインにまで及んでいる。
 
-In this ranking, works that directly changed the history of electronic music itself are ranked higher, so we placed it at 95th place. However, this is an important work that broke down the boundaries between rock and electronic music and defined the modern production idea that ""the sound itself speaks the emotion''.
+本ランキングでは、電子音楽そのものの歴史を直接変えた作品群をより上位に位置付けているため第95位とした。しかし、本作はロックと電子音楽の境界を取り払い、「音響そのものが感情を語る」という現代的なプロダクション思想を決定づけた重要作である。
 
-> **"'The Downward Spiral' fuses rock and electronic music and depicts the spirit of the digital age in acoustics. As a work that has had a great influence on modern sound design, it is ranked 95th in this ranking."**
+> **「『The Downward Spiral』はロックと電子音楽を融合し、デジタル時代の精神を音響で描いた。現代サウンドデザインにも大きな影響を与えた作品として、本ランキング第95位に位置付ける。」**
 
 ---
 
-## 10th (96th place)
+## 第10回（96位）
 
 ---
 
 ## The Pavilion of Dreams
 
-### **"The moment when New Age was established as "art music""**
+### **「ニューエイジが“芸術音楽”として成立した瞬間」**
 
-**The Pavilion of Dreams**, released in 1978, is a historical work in which **Harold Budd** fused ambient, contemporary music, and minimalism to present a new aesthetic of ""music that listens to silence itself.''
+1978年に発表された**『The Pavilion of Dreams』**は、**Harold Budd**がアンビエント、現代音楽、ミニマリズムを融合し、「静けさそのものを聴く音楽」という新しい美学を提示した歴史的作品である。
 
 In the late 1970s, electronic music was moving in two directions.
 
 One is the mechanical future represented by Kraftwerk.
 
-The other is ambient music pioneered by Brian Eno.
+もう一つはBrian Enoが切り開いたアンビエント。
 
-Harold Budd took a third path, different from both.
+Harold Buddは、そのどちらとも異なる第三の道を歩いた。
 
 What he was aiming for was neither the future nor technology.
 
 **It was about turning silence itself into melody**.
 
-""The Pavilion of Dreams'' is one of the origins of the trends known as New Age and Ambient Classical.
+『The Pavilion of Dreams』は、ニューエイジやアンビエント・クラシカルと呼ばれる流れの原点の一つとなる作品である。
 
 ---
 
@@ -837,23 +835,23 @@ What he was aiming for was neither the future nor technology.
 
 Harold Budd's piano playing is extremely unique.
 
-Don't show off your skills.
+技巧を誇示しない。
 
-There are no dramatic developments.
+劇的な展開もない。
 
 A sound rang out,
 
 The aftertaste melts into space.
 
-After listening to that sound, the next sound appears.
+その響きを聴き終えてから、次の音が現れる。
 
-Here, the resonance is more important than the melody.
+ここでは旋律よりも余韻が重要になる。
 
-Music is not just a series of sounds, but a series of sounds.
+音楽は「音の連続」ではなく、「響きの連続」なのである。
 
 ---
 
-## Resonance with Brian Eno
+## Brian Enoとの共鳴
 
 This work was created in collaboration with Brian Eno.
 
@@ -861,21 +859,21 @@ However, its musicality is different from Eno's works.
 
 While Eno designed the space,
 
-Budd gently changes the flow of time itself.
+Buddは時間の流れそのものを柔らかく変えていく。
 
-piano.
+ピアノ。
 
-harp.
+ハープ。
 
 voice.
 
 saxophone.
 
-Electronic sound.
+電子音。
 
 These do not compete with each other and exist as one breath.
 
-Many of the later ambient classical works inherited this aesthetic.
+後のアンビエント・クラシカル作品の多くは、この美学を受け継いでいる。
 
 ---
 
@@ -904,35 +902,35 @@ E --> H
 
 ---
 
-## The origin of ambient classical
+## アンビエント・クラシカルの源流
 
 Since the 1990s, many works have been created that fuse classical and ambient music.
 
 Stars of the Lid.
 
-Jóhann Jóhannsson.
+Jóhann Jóhannsson。
 
 Max Richter.
 
 Nils Frahm.
 
-Ólafur Arnalds.
+Ólafur Arnalds。
 
-What they all have in common is an attitude that emphasizes ""atmosphere over technique" and ""lingering sound over melody."
+彼らに共通するのは、「技巧より空気感」「旋律より余韻」を重視する姿勢である。
 
-That idea was already perfected in ""The Pavilion of Dreams''.
+その思想は、『The Pavilion of Dreams』ですでに完成されていた。
 
 ---
 
-## "Quiet music" is not weak
+## 「静かな音楽」は弱くない
 
 Harold Budd expressed emotion through density rather than volume.
 
-A quiet sound is not a weak sound.
+静かな音は弱い音ではない。
 
-Rather, it requires the listener's concentration.
+むしろ、聴く人の集中力を必要とする。
 
-That is why this work is still regarded as new music even after nearly half a century.
+That's why this work is still regarded as new music even now, nearly half a century later.
 
 It was the moment when electronic music and contemporary music met, and ""silence'' became art.
 
@@ -942,7 +940,7 @@ It was the moment when electronic music and contemporary music met, and ""silenc
 
 ""The Pavilion of Dreams'' is a historical work that fuses ambient and contemporary music, anticipating later ambient classical and post-classical aesthetics.
 
-Its influence spread widely to 21st century composers, including Stars of the Lid, Max Richter, Nils Frahm, and Ólafur Arnalds, and established the value of ""music that listens to the afterglow.''
+その影響はStars of the Lid、Max Richter、Nils Frahm、Ólafur Arnaldsをはじめとする21世紀の作曲家たちに広く及び、「余韻を聴く音楽」という価値観を定着させた。
 
 In this ranking, ""Ambient 1: Music for Airports" (26th place) and ""Another Green World" (27th place) are ranked higher as works that were responsible for the establishment of ambient music itself, so we placed it at 96th place. However, this is an important work that connects ambient music with contemporary music and opens up a new artistic realm of ""listening to silence as melody.''
 
@@ -950,7 +948,7 @@ In this ranking, ""Ambient 1: Music for Airports" (26th place) and ""Another Gre
 
 ---
 
-## 10th Part7 (97th place)
+## 第10回 Part7（97位）
 
 ---
 
@@ -960,7 +958,7 @@ In this ranking, ""Ambient 1: Music for Airports" (26th place) and ""Another Gre
 
 ""Dead Cities", released in 1996, is a historical work in which ""The Future Sound of London (FSOL)" fused ambient, breakbeat, industrial, and sound collage to complete a new electronic music expression that ""depicts the city itself with sound.''
 
-If 1994's **Lifeforms** (#78) was organic electronic music with themes of life and nature, ""Dead Cities'' is the opposite.
+1994年の**『Lifeforms』**（78位）が生命や自然をテーマにした有機的な電子音楽だったとすれば、『Dead Cities』はその対極に位置する。
 
 What we have here is
 
@@ -988,9 +986,9 @@ The entire album flows like a movie.
 
 The scenes change one after another.
 
-noise.
+ノイズ。
 
-environmental sounds.
+環境音。
 
 Heavy bass.
 
@@ -1000,19 +998,19 @@ Fragmented melody.
 
 Each depicts a different landscape of the city.
 
-Here, electronic music became a medium for creating "worlds" rather than "songs."
+電子音楽はここで、「曲」ではなく「世界」を作るメディアとなった。
 
 ---
 
-## Deepening sound collage
+## サウンド・コラージュの深化
 
 FSOL does not use sampling simply as a citation.
 
 environmental sounds.
 
-radio.
+ラジオ。
 
-noise.
+ノイズ。
 
 Folk music.
 
@@ -1020,7 +1018,7 @@ Movie fragment.
 
 By overlapping them, we will construct one huge urban space.
 
-This was a method that should be called ""acoustic architecture'' rather than music.
+これは音楽というより、「音響建築」と呼ぶべき手法だった。
 
 This idea has had a great influence on subsequent film music, game sounds, and installation works.
 
@@ -1051,15 +1049,15 @@ F --> H
 
 ---
 
-## Record the city with "sound"
+## 都市を「音」で記録する
 
-In Dead Cities, the city is not the backdrop.
+『Dead Cities』では、都市は背景ではない。
 
 The city itself is the protagonist.
 
 A road where people can't see.
 
-A collapsed building.
+崩れた建物。
 
 Factory ruins.
 
@@ -1067,7 +1065,7 @@ Underground space.
 
 Electronic music can depict society without depicting humans.
 
-This idea had a great influence on later dark ambient and cinematic electronica.
+この思想は後のダーク・アンビエントやシネマティック・エレクトロニカに大きな影響を与えた。
 
 ---
 
@@ -1087,11 +1085,11 @@ At this point, electronic music evolved from ""music that supports images" to ""
 
 ## Why is it ranked 97th?
 
-""Dead Cities'' is a historical work that developed electronic music into a cinematic art depicting urban civilization itself.
+『Dead Cities』は、電子音楽を都市文明そのものを描くシネマティックな芸術へと発展させた歴史的作品である。
 
 His influence extends widely to film music, game sound, dark ambient, sound collage, and contemporary electronica.
 
-In this ranking, ""Lifeforms" (78th place) is ranked higher as the work that most symbolizes FSOL's innovation, so it was ranked 97th. However, ""Dead Cities" is an important work that further deepens that worldview and perfects a unique musical language that ""records cities with sound.''
+本ランキングでは、『Lifeforms』（78位）がFSOLの革新性を最も象徴する作品としてより上位に位置付けられているため、第97位とした。しかし、『Dead Cities』はその世界観をさらに深化させ、「都市を音で記録する」という独自の音楽言語を完成させた重要作である。
 
 > **"'Dead Cities' transforms the city itself into an acoustic space, elevating electronic music to the art of cinematic world-building. Due to its historical significance, it is ranked 97th in this ranking."**
 
@@ -1117,47 +1115,47 @@ There is no "performance" here.
 
 There is no "development" either.
 
-There are only slight changes, like ripples on the surface of water.
+あるのは、水面に広がる波紋のような、ごくわずかな変化だけである。
 
-Here, music begins to exist as a natural phenomenon, rather than a human-made structure.
+音楽はここで、**人間が作った構造物ではなく、一つの自然現象**として存在し始める。
 
 ---
 
-## Beyond minimal techno
+## ミニマル・テクノのその先へ
 
 Donato Dozzy has been a key figure in minimal techno since the 1990s.
 
 However, the aim of this work is not the club.
 
-Nor is it about making the beat the main character.
+ビートを主役にすることでもない。
 
-The sound itself breathes,
+音そのものが呼吸し、
 
 It was a space where time itself passed slowly.
 
-Even the kick drum becomes part of the scenery,
+キックドラムですら風景の一部となり、
 
-The synthesizer becomes a stream of air, not a melody.
+シンセサイザーは旋律ではなく気流となる。
 
 Electronic music was liberated from ""rhythm" and transformed into ""environment."
 
 ---
 
-## Music to listen to minute changes
+## 微細な変化を聴く音楽
 
-There are almost no major developments in Voices from the Lake.
+『Voices from the Lake』では、大きな展開はほとんど存在しない。
 
-At first glance, it sounds like nothing is happening.
+一見すると何も起きていないようにも聴こえる。
 
-But if you listen carefully,
+しかし耳を澄ませると、
 
-The bass moves slightly,
+低音がわずかに動き、
 
-The reverberation changes slowly,
+残響がゆっくり変化し、
 
-The high range sways as if breathing.
+高音域が呼吸するように揺れている。
 
-The changes occur in minutes, not seconds.
+その変化は数秒ではなく、数分という単位で進行する。
 
 This extreme sense of time has had a great influence on contemporary ambient music and sound installations.
 
@@ -1188,47 +1186,47 @@ G --> H
 
 ---
 
-## The new value of "immersion"
+## 「没入」という新しい価値
 
-This album is not a work that makes a statement.
+このアルバムは、何かを主張する作品ではない。
 
-The purpose is not to make people dance.
+踊らせることも目的ではない。
 
-The listener is slowly immersed in the sound.
+聴き手を、ゆっくりと音の中へ沈めていく。
 
-Even before the word ""immersive'' became popular, this work achieved that feeling with just sound.
+近年よく使われる「イマーシブ（没入型）」という言葉が一般化する以前から、本作はその感覚を音だけで実現していた。
 
-Music becomes the space itself, not the foreground.
+音楽は前景ではなく、空間そのものになる。
 
-This idea also led to 3D sound, installation works, and immersive exhibitions.
+その発想は、立体音響やインスタレーション作品、没入型展示にもつながっていく。
 
 ---
 
 ## The "environment" of techno
 
-""Voices from the Lake'' is not a work that turns techno into ambient music.
+『Voices from the Lake』は、テクノを環境音楽へ変えた作品ではない。
 
-It was a work that redefined techno itself as an "ecosystem."
+テクノそのものを「生態系」として再定義した作品だった。
 
-Sounds do not compete with each other.
+音は互いに競わない。
 
-It doesn't control either.
+支配もしない。
 
-Everything exists as a cycle.
+すべてが一つの循環として存在する。
 
 This idea has deeply permeated deep techno and experimental ambient music since the 21st century.
 
 ---
 
-## Why is it ranked 98th?
+## なぜ98位なのか
 
 ""Voices from the Lake'' is a historical work that purifies minimal techno and dub techno to the utmost, developing electronic music into an immersive experience that resembles a natural phenomenon.
 
-Its influence spread widely to deep techno, contemporary ambient, sound installation, and immersive audio, presenting a new sense of value: ""music that listens to change.''
+その影響はディープ・テクノ、現代アンビエント、サウンド・インスタレーション、イマーシブ・オーディオへ広く及び、「変化を聴く音楽」という新たな価値観を提示した。
 
-In this ranking, ""Consumed" (83rd) has greater historical significance as an ideological turning point in minimal techno, so we placed it at 98th. However, ""Voices from the Lake" is a work that deepens that aesthetic into a 21st century perspective and opens up a new horizon in which electronic music can be experienced as ""space itself.''
+本ランキングでは、『Consumed』（83位）がミニマル・テクノの思想的転換点としてより大きな歴史的意義を持つため、第98位とした。しかし、『Voices from the Lake』はその美学を21世紀的に深化させ、電子音楽を「空間そのもの」として体験する新たな地平を切り開いた作品である。
 
-> **"'Voices from the Lake' evolved techno into an immersive sound that sounds like a natural phenomenon, presenting a new aesthetic of ""music that listens to change itself." Due to its historical significance, it is ranked 98th in this ranking."**
+> **「『Voices from the Lake』はテクノを自然現象のような没入型音響へと進化させ、『変化そのものを聴く音楽』という新たな美学を提示した。その歴史的意義により本ランキング第98位に位置付ける。」**
 
 ---
 
@@ -1240,61 +1238,61 @@ In this ranking, ""Consumed" (83rd) has greater historical significance as an id
 
 ### **"The moment when "real-time music" was realized for the first time in the Internet era"**
 
-**ISDN**, released in 1996, is a historical work in which **The Future Sound of London (FSOL)** combined network technology and live electronics, overturning the common sense that ""music is something that is completed in a studio.''
+1996年に発表された**『ISDN』**は、**The Future Sound of London（FSOL）**が、ネットワーク技術とライブ・エレクトロニクスを融合し、「音楽はスタジオで完成するもの」という常識を覆した歴史的作品である。
 
-The album name "ISDN" comes from the high-speed digital communication standard that was becoming popular at the time.
+アルバム名の「ISDN」は、当時普及し始めた高速デジタル通信規格に由来する。
 
-Online streaming and remote live performances are commonplace these days, but in the mid-1990s they were still a pipe dream.
+現在では当たり前となったネット配信やリモート・ライブだが、1990年代半ばにはまだ夢物語だった。
 
-FSOL was the first to incorporate that future into music.
-
----
-
-## Deconstructing the concept of studio
-
-Until then, the album
-
-record,
-
-Edit,
-
-It was to be released as a finished product.
-
-However, much of ISDN is based on live sessions transmitted in real time to radio programs around the world.
-
-In other words, the work is
-
-It's also live,
-
-It is also a broadcast,
-
-It's also an album.
-
-Three boundaries have completely disappeared.
-
-Here, music changed from a ""fixed work" to an ""event that flows over a network."
+FSOLは、その未来を誰よりも早く音楽へ取り込んだ。
 
 ---
 
-## Improvisation and electronic music
+## スタジオという概念の解体
 
-FSOL has long emphasized improvisation.
+それまでアルバムは、
 
-However, with ""ISDN,'' that way of thinking evolves even further.
+録音し、
 
-sequencer.
+編集し、
 
-sampler.
+完成品として発売されるものだった。
 
-synthesizer.
+しかし『ISDN』の多くは、世界各地のラジオ番組へリアルタイム送信されたライブ・セッションを基に構成されている。
 
-effect.
+つまり作品は、
 
-Send sound all over the world while operating them in real time.
+ライブでもあり、
 
-Electronic music is no longer ""music that is edited later," but ""music that is generated in the moment."
+放送でもあり、
 
-This is also the basic idea of ​​today's live electronics.
+アルバムでもある。
+
+三つの境界が完全に消えている。
+
+音楽はここで、「固定された作品」から「ネットワーク上を流れる出来事」へと変化した。
+
+---
+
+## 即興と電子音楽
+
+FSOLは以前から即興性を重視していた。
+
+しかし『ISDN』では、その考え方がさらに進化する。
+
+シーケンサー。
+
+サンプラー。
+
+シンセサイザー。
+
+エフェクト。
+
+それらをリアルタイムで操作しながら、世界中へ音を送る。
+
+電子音楽は「後から編集する音楽」ではなく、「その瞬間に生成される音楽」になった。
+
+これは今日のライブ・エレクトロニクスの基本思想でもある。
 
 ---
 
@@ -1323,126 +1321,126 @@ G --> H
 
 ---
 
-## A work 20 years ahead of the distribution era
+## 配信時代を20年先取りした作品
 
-At present,
+現在では、
 
 Live streaming.
 
-Online festival.
+オンライン・フェス。
 
-remote session.
+遠隔セッション。
 
-Cloud co-production.
+クラウド共同制作。
 
-These have become commonplace.
+これらは日常になっている。
 
-However, back in 1996, ISDN was already putting them into practice.
+しかし1996年当時、『ISDN』はそれらをすでに実践していた。
 
-It's not about showing off the technology itself.
+技術そのものを誇示するのではない。
 
-This showed that communication technology changes musical expression itself.
+通信技術が音楽表現そのものを変えることを示したのである。
 
-In that sense, this work can be said to be the earliest achievement of "Internet music."
-
----
-
-## Influence on contemporary live culture
-
-Since the 2020s, remote performances and live streaming have spread all over the world.
-
-Looking back on that culture, we can see that the ISDN experiment was surprisingly advanced.
-
-Music is not bound by location.
-
-Performers and audience do not need to be in the same space.
-
-His ideas anticipated the music culture of today's network era.
+その意味で、本作は「インターネット音楽」の最初期の到達点と言える。
 
 ---
 
-## Why is it ranked 99th?
+## 現代ライブ文化への影響
 
-""ISDN" is a historical work that fused communication technology and electronic music and presented the world with the concept of ""music generated on a network."
+2020年代以降、リモート演奏やライブストリーミングは世界中へ広がった。
 
-Its influence has led to 21st century music culture, including live streaming, remote collaboration, and network performance.
+その文化を振り返ると、『ISDN』の試みは驚くほど先進的だったことが分かる。
 
-In this ranking, ""Lifeforms" (78th place) and ""Dead Cities" (97th place) are ranked higher as works that are more representative of FSOL's musical innovation, so they are ranked 99th. However, ""ISDN" has extremely important meaning as an experiment that was ahead of its time by ""incorporating communication itself into musical expression."
+音楽は場所に縛られない。
 
-> **"ISDN ushered in live electronics in the network era and turned music into a ""communicated event." Due to its historical significance, it is ranked 99th in this ranking."**
+演奏者も観客も同じ空間にいる必要はない。
+
+その思想は、今日のネットワーク時代の音楽文化を先取りしていた。
+
+---
+
+## なぜ99位なのか
+
+『ISDN』は、通信技術と電子音楽を融合し、「ネットワーク上で生成される音楽」という概念を世界に提示した歴史的作品である。
+
+その影響はライブ・ストリーミング、リモート・コラボレーション、ネットワーク・パフォーマンスなど、21世紀の音楽文化へとつながっている。
+
+本ランキングでは、『Lifeforms』（78位）と『Dead Cities』（97位）がFSOLの音楽的革新をより代表する作品として上位に位置付けられているため、第99位とした。しかし、『ISDN』は「通信そのものを音楽表現へ取り込む」という、時代を先取りした実験として極めて重要な意味を持っている。
+
+> **「『ISDN』はネットワーク時代のライブ・エレクトロニクスを先取りし、音楽を『通信される出来事』へと変えた。その歴史的意義により本ランキング第99位に位置付ける。」**
 
 ---
 
 
-## 10th Part10 (100th place)
+## 第10回 Part10（100位）
 
 ---
 
 ## Immunity
 
-### **"The moment when techno became an art depicting 'everyday time'"**
+### **「テクノが“日常の時間”を描く芸術になった瞬間」**
 
-Released in 2013, **Immunity** is a historic work in which **Jon Hopkins** fuses minimal techno, ambient, contemporary classical music, and field recordings to bring new lyricism to 21st century electronic music.
+2013年に発表された**『Immunity』**は、**Jon Hopkins**がミニマル・テクノ、アンビエント、現代クラシック、フィールド・レコーディングを融合し、21世紀の電子音楽に新しい叙情性をもたらした歴史的作品である。
 
-Techno in the 1990s depicted the future.
+1990年代のテクノは未来を描いた。
 
 Electronica in the 2000s depicted space.
 
-However, ""Immunity'' depicts the daily lives of people.
+しかし『Immunity』が描いたのは、人間の日常だった。
 
-morning.
+朝。
 
-Time to walk around town.
+街を歩く時間。
 
-train.
+列車。
 
-night.
+夜。
 
-sleep.
+眠り。
 
 It was here that electronic music matured into an art that depicts ""the feeling of living in the present day" rather than ""the sounds of the future."
 
 ---
 
-## Perfect fusion of classic and techno
+## クラシックとテクノの完全な融合
 
-Jon Hopkins studied classical piano and later worked with the likes of Brian Eno and Coldplay.
+Jon Hopkinsはクラシック・ピアノを学び、後にBrian EnoやColdplayなどとも仕事を重ねてきた。
 
-That experience culminated in "Immunity."
+その経験は『Immunity』に結実している。
 
-acoustic piano.
+アコースティック・ピアノ。
 
-delicate ambient.
+繊細なアンビエント。
 
 Repetition of minimal techno.
 
-Heavy base.
+重厚なベース。
 
-Everything is integrated as one flow without conflict.
+すべてが対立することなく、一つの流れとして統合されている。
 
-There is no distinction here between classical and electronic music.
+ここではクラシックも電子音楽も区別されない。
 
-All are materials for depicting "time."
+すべてが「時間」を描くための素材である。
 
 ---
 
-## Coexistence of dance and meditation
+## ダンスと瞑想の共存
 
-Immunity also works in clubs.
+『Immunity』はクラブでも機能する。
 
 But that's not all.
 
 It works even if you listen to it quietly by yourself.
 
-It's okay to concentrate.
+集中してもいい。
 
-You can do it while walking.
+歩きながらでもいい。
 
-Electronic music is no longer just for dancing.
+電子音楽は、踊るためだけのものではなくなった。
 
-Physicality and spirituality coexist naturally in the same work.
+身体性と精神性が同じ作品の中で自然に共存する。
 
-This feeling has become a defining characteristic of electronic music since the 2010s.
+この感覚は、2010年代以降の電子音楽を象徴する特徴となっていく。
 
 ---
 
@@ -1473,77 +1471,77 @@ F --> H
 
 ## The idea of ​​"experiencing music"
 
-"Immunity" doesn't explain the story.
+『Immunity』はストーリーを説明しない。
 
 Don't force a message.
 
 However, when you listen to the entire album, you are left with the feeling of experiencing the flow of time in a single day.
 
-This immersion is not a movie or a novel.
+この没入感は、映画でも小説でもない。
 
-It is a time art that could only be realized through electronic music.
+電子音楽だからこそ実現できた時間芸術である。
 
-Since the 21st century, the idea of ​​""designing the entire album as a single experience'' has been inherited by many artists.
+21世紀以降、「アルバム全体を一つの体験として設計する」という考え方は、多くのアーティストへ受け継がれていく。
 
 ---
 
-## The culmination of modern electronic music
+## 現代電子音楽の集大成
 
-""Immunity'' brings together many of the genealogies covered in this ranking.
+『Immunity』には、このランキングで扱ってきた多くの系譜が集約されている。
 
-Ambient music created by Brian Eno.
+Brian Enoが築いたアンビエント。
 
-An iteration designed by Kraftwerk.
+Kraftwerkが設計した反復。
 
-Aphex Twin's sonic aesthetics.
+Aphex Twinの音響美学。
 
-Underworld album-oriented.
+Underworldのアルバム志向。
 
-The lyricism of Boards of Canada.
+Boards of Canadaの叙情性。
 
-Minimal techno's sense of time.
+ミニマル・テクノの時間感覚。
 
-They are not quotes.
+それらは引用ではない。
 
 It has been reconstructed into a new work in line with the 21st century.
 
-""Immunity" can be described as ""a work that builds a bridge to a new generation while inheriting the history of electronic music."
+『Immunity』は、「電子音楽の歴史を受け継ぎながら、新しい世代へ橋を架けた作品」と言えるだろう。
 
 ---
 
-## Why is it ranked 100th?
+## なぜ100位なのか
 
-""Immunity" is a historical work that sophisticatedly fuses minimal techno, ambient, and contemporary classical music, and matures 21st century electronic music into ""an art that depicts everyday time."
+『Immunity』は、ミニマル・テクノ、アンビエント、現代クラシックを高度に融合し、21世紀の電子音楽を「日常の時間を描く芸術」へと成熟させた歴史的作品である。
 
-Its influence extends to modern electronica, neo-classical, ambient techno, and film music, and it has become one of the representative works of electronic music since the 2010s.
+その影響は現代エレクトロニカ、ネオ・クラシカル、アンビエント・テクノ、映画音楽にまで及び、2010年代以降の電子音楽を代表する作品の一つとなった。
 
-In this ranking, works that changed the history of music itself are ranked high, so it was ranked 100th. However, ""Immunity" integrates the legacy of electronic music built in the 20th century and connects it to a new era, making it a worthy work to conclude this ranking as one of the ""reaching points of contemporary electronic music."
+本ランキングでは、音楽史そのものを転換させた作品群を上位に位置付けているため第100位とした。しかし、『Immunity』は20世紀に築かれた電子音楽の遺産を統合し、新しい時代へと接続した「現代電子音楽の到達点」の一つとして、本ランキングを締めくくるにふさわしい作品である。
 
-> **"'Immunity" integrates the history of electronic music and completed electronica in the 21st century as an "art of experiencing everyday time'. Due to its historical significance, it is ranked 100th in this ranking."**
+> **「『Immunity』は電子音楽の歴史を統合し、『日常の時間を体験する芸術』として21世紀のエレクトロニカを完成させた。その歴史的意義により本ランキング第100位に位置付ける。」**
 
 ---
 
-## Conclusion
+## おわりに
 
-There are some things I can understand when looking back at 100 photos.
+100枚を振り返って分かることがある。
 
 Music history is not simply a history of outstanding works.
 
-A single album creates a new recording technique, creates a genre, spreads new values ​​to society, and the next generation influenced by this creates new music.
+一枚のアルバムが新しい録音技術を生み、一つのジャンルを生み、新しい価値観を社会へ広げ、その影響を受けた次の世代がさらに新しい音楽を作る。
 
-That chain was music history itself.
+その連鎖こそが、音楽史そのものだった。
 
-In this ranking, we have ranked the 100 works based on one thing only: ""How much did they change contemporary music?" rather than ""best-selling" or ""favorite works.''
+今回のランキングでは、「売れた作品」でも「好きな作品」でもなく、「現代音楽をどれだけ変えたのか」という一点だけを基準に100枚を並べた。
 
-As a result, it becomes clear that rock, jazz, soul, hip-hop, and electronic music are not independent cultures, but have built a huge lineage by influencing each other.
+その結果、ロック、ジャズ、ソウル、ヒップホップ、電子音楽は、それぞれ独立した文化ではなく、互いに影響を与えながら一つの巨大な系譜を築いてきたことが見えてくる。
 
-And these 100 pieces are by no means a legacy of the past.
+そして、この100枚は決して過去の遺産ではない。
 
-All traces of that are still alive in the music we listen to today.
+私たちが今日聴いている音楽の中には、そのすべての痕跡が息づいている。
 
-Also on Spotify playlist.
+Spotifyのプレイリストにも。
 
-It's also a 15-second song that plays on TikTok.
+TikTokで流れる15秒の楽曲にも。
 
 Also for movie and game soundtracks.
 
@@ -1553,10 +1551,10 @@ If we trace its origins, we will arrive at these 100 pieces.
 
 The history of music is not over yet.
 
-If a new album appears, this ranking will probably be rewritten someday.
+新しい一枚が現れれば、このランキングもいつか書き換えられるだろう。
 
-That's why music history is so interesting.
+だからこそ、音楽史は面白い。
 
-The piece that will change the next 100 years is still waiting to be born somewhere.
+次の100年を変える一枚は、まだどこかで生まれようとしている。
 
 ---

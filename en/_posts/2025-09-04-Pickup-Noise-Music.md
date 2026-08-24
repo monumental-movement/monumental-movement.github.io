@@ -7,19 +7,19 @@ lang: en
 layout: post
 tags:
 - Noise
-title: Pick up Noise Music works
+title: ノイズミュージック(Noise Music)作品をピックアップ
 ---
 
 
-"A pure acoustic experience that transcends the boundaries of music, Noise Music works"
+「音楽の境界を超える、純粋な音響体験、ノイズミュージック(Noise Music)作品群」
 
 <hr>
 
 ### Merzbow – Merzbird
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-- **Background**: Merzbow, the most important figure in Japanese noise. Released in 2004 on Important Records, this is one of the albums from the period when songs with bird titles were lined up.
-- **Highlights**: "Flood of sound" where high-density bands change. A decisive hit that allows you to experience the "sculptural nature" of noise.
+- **背景**：日本ノイズの最重要人物Merzbow。2004年、Important Recordsからの作品で、鳥類タイトルの曲群が並ぶ時期の一枚。  
+- **聴きどころ**：高密度の帯域が入れ替わる“音の洪水”。ノイズの「彫刻性」を体感できる決定打。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ title: Pick up Noise Music works
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -45,7 +45,7 @@ title: Pick up Noise Music works
 ### Zeni Geva – Desire For Agony
 <a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
-- **Background**: Formed in Tokyo in 1987. Featuring KK.Null and Tatsuya Yoshida, they cross over progressive rock/HC/metal/noise rock. Recorded in Chicago in 1993.
+- **背景**：1987年東京結成。KK.Nullと吉田達也を要に、プログレ／HC／メタル／ノイズロックを横断。1993年にシカゴで録音。  
 - **Highlights**: Aggressive sound image range from bold riffs to impromptu explosions. A representative of the intersection of noise and rock.
 
 #### Tracklist
@@ -63,7 +63,7 @@ B4. The Body = ザ ボディー
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -74,11 +74,11 @@ B4. The Body = ザ ボディー
 
 
 
-### Les Rallizes Dénudés – Live 1972
+### 裸のラリーズ（Les Rallizes Dénudés）– Live 1972
 <a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.webp"></a>
 
-- **Background**: Formed in Kyoto in 1967. A legendary band that was active from the 1960s to the 1990s and had a great influence on noise rock both in Japan and abroad. Maintains cult popularity.
-- **Highlights**: Desolate sustained sounds, roaring drones, minimal repeating grooves. The original experience of Japanese noise psyche hits you directly.
+- **背景**：1967年、京都で結成。1960–90年代に活動し国内外のノイズロックに多大な影響を与えた伝説的バンド。カルト的人気を維持。  
+- **聴きどころ**：荒涼とした持続音と轟音のドローン、ミニマルに反復するグルーヴ。日本ノイズ・サイケの原体験的質感が直撃。
 
 #### Tracklist
 ```md
@@ -91,7 +91,7 @@ B4. The Body = ザ ボディー
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -106,7 +106,7 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
 
 
-- **Background**: Masaya Nakahara under the name Hair Stylistics. Released in 1999, the 7-inch model continues to lead the experimental and noise context to this day.
+- **背景**：中原昌也によるHair Stylistics名義。1999年リリースの7インチで、実験～ノイズ文脈を現在まで牽引。  
 - ** Highlights **: The feeling of cutting and editing and the instantaneous maximum wind speed of excessive noise are included in the short version. Great for beginners and collections.
 
 #### Tracklist
@@ -117,7 +117,7 @@ B. Best Of Hair-Style In My Life
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
 
 <br>
 
@@ -127,8 +127,8 @@ B. Best Of Hair-Style In My Life
 ### SebastiAn – Smoking Kills
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
-- **Background**: French electro standard-bearer around Ed Banger. A single that injects "screaming noise" into futuristic electro.
-- **Highlights**: The sharp breaks and saturation of "Dolami." A great example of enjoying the texture of noise in club format.
+- **背景**：Ed Banger周辺のフレンチ・エレクトロ旗手。未来派エレクトロに“叫ぶようなノイズ”を注入したシングル。  
+- **聴きどころ**：「Dolami」の鋭角ブレイクスと飽和。クラブ・フォーマットでノイズの質感を楽しむ好例。
 
 #### Tracklist
 ```md
@@ -140,7 +140,7 @@ B2  Shoot
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -153,8 +153,8 @@ B2  Shoot
 ### Tipsy – Nude On The Moon / Space Golf
 <a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20Space%20Golf.webp"></a>
 
-- **Background**: San Francisco lounge collage duo. A mix of abstract/trip hop/experimental/noise elements.
-- **Highlights**: Lo-fi texture x Mondo cut-up. It's also a pleasant introduction to "ear-friendly noise."
+- **背景**：サンフランシスコのラウンジ・コラージュ・デュオ。アブストラクト／トリップホップ／実験／ノイズ要素が混交。  
+- **聴きどころ**：ローファイ質感×モンドなカットアップ。“耳に優しいノイズ”の入り口としても心地よい。
 
 #### Tracklist
 ```md
@@ -166,7 +166,7 @@ B2. Space Golf (Venusian Swing Mix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m39453173414?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39453173414?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -180,8 +180,8 @@ B2. Space Golf (Venusian Swing Mix)
 ### Buffalo Daughter – WXBD
 <a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.webp"></a>
 
-- **Background**: Japanese experimental rock trio. A planned album with the electronica/noise aspects enhanced by the participation of various remixers.
-- **Highlights**: Acoustic collage in the context of big beats and breakbeats. Enjoy the pleasure of editing, including the hands of Cornelius and others.
+- **背景**：日本の実験ロック・トリオ。多彩なリミキサー参加でエレクトロニカ～ノイズの側面が強化された企画盤。  
+- **聴きどころ**：ビッグ・ビート～ブレイクビーツ文脈での音響コラージュ。Corneliusらの手つきも含めて編集の快楽を堪能。
 
 #### Tracklist
 ```md
@@ -197,7 +197,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -207,13 +207,13 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 
 
-## summary
+## まとめ
 
-- **If you enter from the royal roar** *Merzbird*/Naked Rally's.
-- *Smoking Kills* if you want to experience the texture of noise in a club context.
-- For a **collage approach**, try Hair Stylistics/Tipsy/WXBD.
-- For those who prefer to make their own equipment, check out the Eurorack column to find out about the best equipment before listening.
+- **王道の轟音から**入るなら *Merzbird*／裸のラリーズ。  
+- **クラブ文脈で**ノイズの質感を味わうなら *Smoking Kills*。  
+- **コラージュ的アプローチ**なら Hair Stylistics／Tipsy／WXBD。  
+- **自作派**は Eurorackコラムで機材の当たりをつけてから試聴へ。  
 
 ---
 
-Noise is music that can be experienced, not just listened to. Please use the links to dig deeper.
+ノイズは「聴くだけ」ではなく「体験する」音楽。ぜひリンク先からさらに深掘りしてください。

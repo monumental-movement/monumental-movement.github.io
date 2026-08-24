@@ -8,27 +8,26 @@ layout: post
 tags:
 - Experimental
 - Dub
-title: '[Column] Bill Laswell & Friends: Deconstruction of the 80s - The core of the
-  "hybrid 80s" reorganized by acoustic demolitionists'
+title: '【コラム】 Bill Laswell & Friends: Deconstruction of the 80s - 音響解体者が再編した“混成する80年代”の核心'
 ---
 
 
 
-## Why did you choose the title "Deconstruction of the 80s"?
+## なぜ「Deconstruction of the 80s」というタイトルを選んだのか
 
-A long column that uses only facts to analyze the "acoustic deconstruction and reconstruction" that Bill Laswell practiced in the 1980s. About Material, Herbie Hancock's "Future Shock," Last Exit, connecting to world music, and more.
+Bill Laswell が80年代に実践した「音響の解体と再構築」を、事実のみで分析する長編コラム。Material、Herbie Hancock『Future Shock』、Last Exit、ワールドミュージックへの接続などについて 
 
 
-Bill Laswell's musical activities in the 1980s were a series of ""deconstructions and reconstructions,'' freely crossing genres, cultures, performance forms, and national borders.
-Funk, hip-hop, Afrobeat, world music, free jazz, noise... Laswell's projects in the 1980s are so diverse that each one is a sound generated within a different network.
+Bill Laswell が1980年代に行った音楽活動は、ジャンル、文化、演奏形態、国境を自在に横断する「解体と再構築」の連続であった。  
+ファンク、ヒップホップ、アフロビート、ワールド・ミュージック、フリージャズ、ノイズ……80年代 Laswell の関わったプロジェクトはあまりにも多岐にわたり、それぞれが異なるネットワークの中で生成された音響である。
 
 Because of his diversity, it was not easy to get a bird's-eye view of his activities at the time. Because individual works were fragmented and scattered, listeners were unable to grasp the ""whole picture.''
 
-However, with the compilation album Deconstruction of the 80s, things changed completely. This album is a compilation of the multi-genre, multi-project sound sources that Laswell was involved in in the 1980s, remastered and reconstructed.
-In other words, it can be said that this compilation itself appeared as a ""completed form of deconstruction and reconstruction.''
+しかし、コンピレーション盤『Deconstruction of the 80s』によって、状況は一変する。このアルバムは、Laswell が80年代に関与した多ジャンル・多プロジェクトの音源を集約し、リマスタリングして再構成したものだ。
+つまり、このコンピレーション自体が **「解体と再構築の完成形」** として現れたといえる。
 
-This article focuses on the recordings from this album and projects from that time, and follows the facts of how Bill Laswell & Friends deconstructed and reorganized the acoustics of the 1980s.
-By looking at the whole picture, we can for the first time understand the meaning of the phrase "Deconstruction of the 80s" from both a sonic and cultural perspective.
+本稿では、このアルバムの収録音源や当時のプロジェクトを軸に、Bill Laswell & Friends がどのように80年代という時代の音響を分解し、再編成したのかを事実に基づいて追う。  
+その全貌を俯瞰することで、私たちは初めて「Deconstruction of the 80s」という言葉の意味を、音響的・文化的両面から理解できるのである。
 
 
 ---
@@ -38,7 +37,7 @@ By looking at the whole picture, we can for the first time understand the meanin
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -47,91 +46,91 @@ color: #fff;
 </style>
 
 
-## Introduction: Why "deconstructing the 80s"
+## 序章：なぜ「80sを解体する」のか  
 When talking about the music history of the 1980s, Bill Laswell is always on the other side.
 Behind the flashy sounds of major pop, he was a "sound editor" who reorganized black music, noise, traditional African music, dub, avant-garde, and studio technology, and traversed a variety of fields as a producer, bassist, and conductor.
 
-The reason why Laswell deserves to be called ""Deconstruction of the 1980s'' lies in the following facts.
+Laswell が「80年代を解体する（Deconstruction）」と呼ぶにふさわしい理由は以下の事実にある。
 
-- His activities were a "crossroads" bridging pop and underground
-- The produced works are parallelized across the boundaries of world music, jazz, and noise.
-- Breaking the '80s sound formula and turning the studio into a testing ground
-- The released works have blurred the genre definition.
+- 彼の活動はポップとアンダーグラウンドを橋渡しする「交差点」だった  
+- プロデュース作品は、世界音楽・ジャズ・ノイズの境界を越えて並列化  
+- 80年代のサウンドの“定型”を壊し、スタジオを実験場にした  
+- 公開された作品群がジャンル定義を曖昧化させた
 
-In this article, we introduce Bill Laswell and the musicians around him.
-**How ​​the acoustics of the 1980s were "deconstructed and reorganized"** will be tracked based on facts.
+本稿では、Bill Laswell と彼を中心に集ったミュージシャンが、  
+**1980年代という時代の音響をどのように「分解し、再編成」したのか** を、事実に基づき追っていく。
 
 ---
 
-# 1. Eve of the 80s: Material and New York Downtown
-## 1-1. Downtown scene context
-In New York in the late 1970s and early 1980s, the punk/no wave wave had passed.
-It was a time when experimental music and club culture began to mix, centered around SoHo and Lower Manhattan.
-Included were John Zorn, Arto Lindsay, Fred Frith, Sonny Sharrock, and Ronald Shannon Jackson.
-A "cross-border" network has been formed, and Laswell is at the center of it.
+# 1. 80年代前夜：Material と New York Downtown  
+## 1-1. Downtown シーンの文脈  
+1970年代末〜80年代初頭のニューヨークは、パンク／ノーウェーブの波が去り、  
+SoHo〜Lower Manhattan を中心に実験音楽とクラブカルチャーが混ざり合い始める時期だった。  
+John Zorn、Arto Lindsay、Fred Frith、Sonny Sharrock、Ronald Shannon Jackson などが参加した  
+“越境系”のネットワークが形成され、Laswell はその中心にいる。
 
-## 1-2. Material formation
-Material (formed in 1955, active since 1979) is a project centered around Laswell, Michael Beinhorn, and Fred Maher.
-In the early years, the band focused on no-wave, minimal, and funk, and later expanded to include dance, hip-hop, and ethnic elements.
+## 1-2. Material の形成  
+Material（1955年結成・活動開始：1979-）は、Laswell、Michael Beinhorn、Fred Maher を中心としたプロジェクト。  
+初期はノーウェーブ〜ミニマル〜ファンクを軸とし、のちにダンス、ヒップホップ、エスニック要素へ拡張。
 
-**Key facts:**
-- ""Memory Serves'' (1981) with Sonny Sharrock and Henry Threadgill
-- Established a "funk x avant-garde" composition
-- From the mid-1980s, became a connection point with major artists such as Herbie Hancock
+**主な事実：**  
+- 『Memory Serves』（1981）は Sonny Sharrock、Henry Threadgill が参加  
+- “ファンク×アヴァンギャルド”の構図を確立  
+- 1980年代半ばからは Herbie Hancock などメジャーアーティストとの接続点となる  
 
 ---
 
 # 2. Herbie Hancock, "Future Shock" (1983) — Redefining "80s pop
-Laswell's biggest turning point in the 1980s was his contact with Herbie Hancock.
+Laswell の80年代最大の転換点は Herbie Hancock との接触である。
 
-**fact:**
-- Produced "Future Shock" (1983)
+**事実：**  
+- 『Future Shock』（1983）をプロデュース  
 - Created "Rockit," an early global hit that introduced DJ scratch.
-- Establishing a fusion of Turntablism and electro/jazz
-- Supporting the global spread of electro-hip hop culture
+- Turntablism とエレクトロ／ジャズの融合を確立  
+- エレクトロ〜ヒップホップ文化の世界的普及を後押し  
 
-This work is said to be "a symbol of breaking down the boundaries between 80s pop and underground."
-
----
-
-# 3. Dub's Successor: Material "One Down" (1982)
-Laswell's sound has a strong affinity for Jamaican dub.
-
-**fact:**
-- Appointed Martin Bisi as engineer
-- Album known for Whitney Houston's first recording ("Memories")
-- Guest appearances by Bernard Fowler, Nona Hendryx, Archie Shepp and others
-- Introducing dub techniques (reverberation, repetition, subtraction) to rock/funk/pop
-
-Laswell has established himself as a ""producer, performer, and editor.''
+この作品は「80sのポップとアンダーグラウンドの境界を崩した象徴」とされる。
 
 ---
 
-# 4. Reorganization of world music: Connecting Africa to Asia
-Laswell's "World Music Compilation" is different from commercial world music;
-It will proceed as an artist-led "recomposition of acoustic culture."
+# 3. Dub の継承者：Material『One Down』（1982）  
+Laswell のサウンドは、ジャマイカのダブとの親和性が非常に高い。
 
-**Key facts:**
-- Recording and editing work of Fela Kuti
-- Collaboration with Indian musicians such as Shankar, L. Shankar, Tabla Beat Science
-- Gambian griot's Foday Musa Suso and activities (Mandingo)
-- Promoting the fusion of African percussion instruments, jazz, and electro
-- Formed the base of the Axiom label (1989~)
+**事実：**  
+- エンジニアに Martin Bisi を起用  
+- Whitney Houston が初録音を行ったことで知られるアルバム（「Memories」）  
+- Bernard Fowler、Nona Hendryx、Archie Shepp らが客演  
+- ダブ手法（残響・反復・減算）をロック／ファンク／ポップへ導入  
 
----
-
-# 5. Integration of noise and jazz: Last Exit (1986–1988)
-In the late 1980s, Laswell participated in Last Exit, a project that could be considered a symbol of "subversive jazz."
-
-**fact:**
-- Members: Sonny Sharrock, Peter Brötzmann, Ronald Shannon Jackson, Bill Laswell
-- A band that represents the pinnacle of free jazz and noise
-- Mainly live recording
-- Laswell functions as a "structural control" rather than a base
+Laswell は“プロデューサー＝演奏者＝編集者”としての立場を確立した。
 
 ---
 
-# 6. 80's Bill Laswell Network Map
+# 4. 世界音楽の再編：アフリカ〜アジアへの接続  
+Laswell による「世界音楽の編集」は、商業ワールドミュージックとは異なり、  
+アーティスト主導の“音響文化の再組成”として進む。
+
+**主な事実：**  
+- Fela Kuti の録音・編集作業  
+- Shankar、L. Shankar、Tabla Beat Science などインド系音楽家との協働  
+- Gambian griot の Foday Musa Suso と活動（Mandingo）  
+- アフリカ打楽器〜ジャズ〜エレクトロの融合を推進  
+- Axiom レーベル（1989〜）の母体を形成  
+
+---
+
+# 5. ノイズとジャズの統合：Last Exit（1986–1988）  
+80年代後半、Laswell は“破壊的ジャズ”の象徴とも言うべきプロジェクト Last Exit に参加。
+
+**事実：**  
+- メンバー：Sonny Sharrock、Peter Brötzmann、Ronald Shannon Jackson、Bill Laswell  
+- フリージャズとノイズの極点を示すバンド  
+- ライブ録音中心  
+- Laswell はベースというより“構造制御”として機能  
+
+---
+
+# 6. 80年代 Bill Laswell 人脈マップ 
 
 <div class="mermaid">
 flowchart TD
@@ -148,43 +147,43 @@ flowchart TD
 
 ---
 
-# 7. 1980s Bill Laswell Major Works List
+# 7. 1980年代 Bill Laswell 主要作品リスト
 
 ## ■ 1980–1984
-- 1980: Material early EP
-- 1981: "Memory Serves"
-- 1982: "One Down"
-- 1983: Herbie Hancock "Future Shock"
-- 1984: "Sound-System"
+- 1980：Material 初期 EP  
+- 1981：『Memory Serves』  
+- 1982：『One Down』  
+- 1983：Herbie Hancock『Future Shock』  
+- 1984：『Sound-System』  
 
 ## ■ 1985–1989
-- 1985: Produced "Album" by Public Image Ltd.
-- 1986: Last Exit started
-- 1987: Sly & Robbie "Rhythm Killers"
-- 1988: Herbie Hancock "Perfect Machine"
-- 1989: Axiom label preparation period
+- 1985：Public Image Ltd『Album』プロデュース  
+- 1986：Last Exit 始動  
+- 1987：Sly & Robbie『Rhythm Killers』  
+- 1988：Herbie Hancock『Perfect Machine』  
+- 1989：Axiom レーベル準備期  
 
 ---
 
-# 8. Laswell's acoustic techniques in the 1980s: The substance of Deconstruction
+# 8. 80年代 Laswell の音響技法：Deconstruction の実体  
 
-## 8-1. **Editing = Composition**
-- Extensive use of tape editing, sampling, and reduction
-- Build new songs by combining different session materials
-- Built around Dub's method (reverberation/fader operation)
+## 8-1. **Editing（編集）＝作曲**  
+- テープ編集・サンプリング・リダクションを多用  
+- 異セッション素材を組み合わせて新曲構築  
+- Dub の手法（残響・フェーダー操作）を中心に構築  
 
-## 8-2. **Cross-cultural assimilation**
-- Treat jazz, African music, electro, and rock as "equivalent materials"
-- Parallelize major/underground
+## 8-2. **文化横断の同列化**  
+- ジャズ、アフリカ音楽、エレクトロ、ロックを“等価素材”として扱う  
+- メジャー／アンダーグラウンドを並列化  
 
-## 8-3. **Base = Structure framework**
-- Drone-like persistence
-- Connection with percussion instruments and noise
-- Guide the overall direction to minimalism
+## 8-3. **ベース＝構造の骨組み**  
+- ドローン的持続  
+- 打楽器・ノイズとの結びつき  
+- 全体の方向性をミニマルに導く  
 
 ---
 
-# 9. 80s Bill Laswell Timeline
+# 9. 80年代 Bill Laswell 年表
 
 <div class="mermaid">
 timeline
@@ -203,26 +202,26 @@ timeline
 
 ---
 
-# 10. Conclusion: Bill Laswell "dismantled the 80s"
-"Deconstruction of the 80s" by Bill Laswell & Friends
-On the other side of the gorgeous production typical of the 80s,
-**It is a multicultural, editorial and experimental sonic rearrangement**.
+# 10. 結論：Bill Laswell が“80sを解体した”ということ  
+Bill Laswell & Friends が行った「Deconstruction of the 80s」は、  
+80年代特有の華美なプロダクションの反対側にある、  
+**多文化的・編集的・実験的な音響再編成**である。
 
-- World Music Editor
-- Successor of the Dub
-- Free Jazz Updater
-- The connection point between pop and underground
-- The engineer who turned the studio into an "instrument"
+- 世界音楽の編集者  
+- ダブの継承者  
+- フリージャズの更新者  
+- ポップとアンダーグラウンドの接続点  
+- スタジオを“楽器”に変えた技術者  
 
-The "deconstruction and reconstruction" that Laswell and others attempted in the 1980s was
-They formed the foundation of current club music, ambient, experimental, and world fusion.
+Laswell たちが1980年代に試みた“解体と再構築”は、  
+現在のクラブミュージック、アンビエント、エクスペリメンタル、ワールド・フュージョンの基盤を形づくった。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yuqQEgomQZk?si=_HVUZbtq4KyZwT32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

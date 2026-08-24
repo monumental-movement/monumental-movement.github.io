@@ -15,9 +15,9 @@ title: Paprika Soul – He Loves You
 
 Paprika Soul is a project started in 1991 by Alan Barnes (Jazzdubossa) and Andy Spiller.
 
-"He Loves You" was Paprika Soul's first release, and the EDM producer involved in this release, Andrew Hughes, was a member of Paprika Soul at the time.
+「He Loves You」は、Paprika Soul のファーストリリースで、このリリースに関わったEDMプロデューサーAndrew Hughesは当時Paprika Soulのメンバーだった。
 
-It was released by Baseline Records, a UK label that specialized in re-releasing rare funk and soul records in the late '80s and early '90s.
+80年代後半から90年代初頭にかけて、希少なファンクやソウルのレコードの再発売を専門としていたUKのレーベルBaseline Recordsからリリースされた。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ AA1. He Loves You (Fusion Mix)
 AA2. He Loves You (Dance Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m82069537099?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82069537099?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ecsG_JLjbqY?si=6xMRVSBAomradh1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

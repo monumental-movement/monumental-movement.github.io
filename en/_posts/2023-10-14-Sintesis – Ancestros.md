@@ -13,7 +13,7 @@ title: Sintesis – Ancestros
 ---
 
 
-Sintesis is Cuba's first progressive rock/symphonic rock band, formed in 1976. Known for their experimental sound that incorporates ethnic musical styles, they are influenced by a variety of genres, including traditional Cuban music, African elements, jazz, rock, and electronic.
+Sintesis（シンテシス）は、1976 年に結成されたキューバ初のプログレッシブロック/シンフォニックロック・バンド。エスニックな音楽スタイルを取り入れた実験的なサウンドで知られ、伝統的なキューバ音楽やアフリカの要素、ジャズ、ロック、エレクトロニックなど、様々なジャンルの影響を受けています。
 
 #### Tracklist
 ```md
@@ -27,7 +27,7 @@ Sintesis is Cuba's first progressive rock/symphonic rock band, formed in 1976. K
 8. Titi-Laye
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m40509767449?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40509767449?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXNj85zVbBs?si=aFiox_b6HhPYb28C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

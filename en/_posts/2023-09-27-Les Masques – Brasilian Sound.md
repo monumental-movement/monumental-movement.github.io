@@ -8,13 +8,13 @@ layout: post
 tags:
 - Bossa Nova
 - Jazz
-title: Les Masques – Brazilian Sound
+title: Les Masques – Brasilian Sound
 ---
 
 
-Les Masques was a French jazz-funk band active in the 1960s. "Brasilian Sound" is one of their representative works.
+Les Masques(レ・マスク)は、フランスのジャズ・ファンク・バンドであり、1960年代に活動していました。「Brasilian Sound」は、彼らの代表作品の一つです。
 
-This album is a reissue of Les Masque's 1969 collaboration with the Brazilian jazz trio LE TRIO CAMARA. It is known as a masterpiece of bossa nova, featuring a unique rhythmic feel and cheerful atmosphere that incorporates the rhythms, melodies, and percussion of Brazilian music.
+このアルバムは、レ・マスクが1969年にブラジルのジャズトリオLE TRIO CAMARAとコラボしたアルバムの再発盤です。ブラジル音楽のリズムやメロディ、パーカッションを取り入た独特のリズム感と陽気な雰囲気が特徴で、ボサノバ名盤として知られています。
 
 #### Tracklist
 ```md
@@ -41,7 +41,7 @@ This album is a reissue of Les Masque's 1969 collaboration with the Brazilian ja
 11. Les Filles Et Les Garçons
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m63568072787?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63568072787?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5gSe_2ckWLY?si=Db2soNruZ-pwthHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

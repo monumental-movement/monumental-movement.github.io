@@ -13,11 +13,11 @@ title: Stevie Wonder – Part-Time Lover
 ---
 
 
-"Part-Time Lover" was released as the first single from R&B singer-songwriter Stevie Wonder's 20th studio album, In Square Circle (1985).
+「Part-Time Lover」は、R&BシンガーソングライターのStevie Wonder の20枚目のスタジオアルバム「In Square Circle(イン・スクエア・サークル)」（1985年）のシングル第1弾としてリリースされた。
 
-The song reached number one on the Billboard Hot 100, R&B, Dance, and Adult Contemporary charts, making it Stevie Wonder's last number one hit.
+この曲は、ビルボード・ホット100、R&B、ダンス、アダルト・コンテンポラリー・チャートで1位を獲得し、Stevie Wonder最後のナンバーワン・ヒット曲となった。
 
-The song features improvisations and backing vocals by R&B singer Luther Vandross, and features Earth, Wind and Fire's Syreeta Wright and Philip Bailey.
+この曲は、R&BシンガーLuther Vandross(ルーサー・ヴァンドロス)がアドリブとバックボーカルを担当し、Earth, Wind and FireのSyreeta Wright(シリータ・ライト)とPhilip Bailey (フィリップ・ベイリー)をフィーチャーしている。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A. Part-Time Lover
 B. Part-Time Lover (Instrumental)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m18724148534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18724148534?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JrfC5MMWzOE?si=Bu-zq5Xy_HeuuH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

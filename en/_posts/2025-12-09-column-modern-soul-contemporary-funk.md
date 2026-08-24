@@ -15,13 +15,13 @@ title: '[Column] Modern Soul / Contemporary Funk'
 
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: Rhythm, performance, and production aesthetics that redefine soul and funk in the 21st century
+文：mmr｜テーマ：21世紀のソウルとファンクを再定義するリズム、演奏、制作美学について
 
-Modern Soul and Contemporary Funk refer to styles that evolved into a modern sound image from the late 1990s to the 2010s, incorporating elements of jazz, hip-hop, R&B, neo-soul, and beat music while inheriting the soul/funk tradition.
+Modern Soul（モダンソウル）および Contemporary Funk（コンテンポラリーファンク）は、1990年代後半から2010年代以降にかけて、ソウル／ファンクの伝統を継承しながら、ジャズ、ヒップホップ、R&B、ネオソウル、ビートミュージックの要素を取り込み、現代的な音像へと進化したスタイルを指す。
 
-Representative artists include **Hiatus Kaiyote**, **Anderson .Paak**, as well as D"Angelo, Robert Glasper, Thundercat, Vulfpeck, Cory Henry, The Internet, and more.
+代表的なアーティストには **Hiatus Kaiyote（ハイエイタス・カイヨーテ）**、**Anderson .Paak（アンダーソン・パーク）** をはじめ、D’Angelo、Robert Glasper、Thundercat、Vulfpeck、Cory Henry、The Internet などが含まれます。
 
 
 ---
@@ -31,7 +31,7 @@ Representative artists include **Hiatus Kaiyote**, **Anderson .Paak**, as well a
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -41,84 +41,84 @@ color: #fff;
 
 
 
-## 1. Definition and background
+## 1. 定義と背景
 
-### 1-1. What is Modern Soul?
+### 1-1. Modern Soul とは
 
-Modern Soul is a musical style based on the soul/R&B tradition that incorporates contemporary sound design, non-cyclic chord progressions, and strong influences from beat music culture.
-It is positioned as an evolution of neo-soul since the 2000s.
+Modern Soul は、ソウル／R&B の伝統を基盤に、現代的なサウンドデザインや非循環的なコード進行、ビートミュージック文化の影響を強く取り込んだ音楽スタイル。
+2000年代以降のネオソウルの進化形として位置づけられる。
 
-Features
+特徴
 
 * Smooth texture, coexistence of electronic and acoustic
-* Complicated chord work (tension, quarter tone, etc.)
-* Drumming that can be assembled in 16-32 minute increments
-* Jazz interplay
-* Non-root bass line, melodic bass
+* 複雑化したコードワーク（テンション、クォータルトーン等）
+* 16分〜32分単位で組み立てられるドラミング
+* ジャズ的インタープレイ
+* 非ルートベースのベースライン、メロディックなベース
 * There are many works that have a higher emphasis on "band performance" than R&B.
 
 ### 1-2. What is Contemporary Funk?
 
-Contemporary Funk inherits the elements of 1970s funk (groove, repetition, downbeat emphasis, slap bass, horn section),
+Contemporary Funk は、1970年代のファンクの要素（グルーヴ、反復、ダウンビートの強調、スラップベース、ホーンセクション）を継承しつつ、
 
-* Minimal/tight rhythm
-* Clear recording, precise control of compression/saturation
-*Hip-hop loop feel
+* ミニマル／タイトなリズム
+* クリアな録音、コンプレッション／サチュレーションの精密制御
+* ヒップホップ的ループ感
 * Hybrid of live performance and DAW editing
-21st century funk with
+  を備えた21世紀型のファンク。
 
-In particular, ""minimal funk with a reduced number of sounds" typified by Vulfpeck, and ""funk integrated with soul/hip-hop" such as Anderson .Paak and Thundercat are notable.
+特に Vulfpeck に代表される「音数を抑えたミニマルファンク」や、Anderson .Paak や Thundercat のような「ソウル／ヒップホップと統合されたファンク」が顕著。
 
 ---
 
-## 2. Genealogy and historical development
+## 2. 系譜と歴史的展開
 
 ### 2-1. Late 1990s: Rise of neo-soul
 
-The neo-soul music pioneered by D'Angelo, Erykah Badu, Lauryn Hill, and Maxwell blurred the boundaries between jazz, funk, and R&B, and opened up new horizons with production that emphasized an analog feel.
+D’Angelo、Erykah Badu、Lauryn Hill、Maxwell らが担ったネオソウルは、ジャズ／ファンク／R&B の境界を曖昧にし、アナログ感を強調したプロダクションで新しい地平を切り開いた。
 
-established here
+ここで確立された
 
-* Hip hop beat feel
-* Jazz chords
-* Analog texture
-* Loose groove
-became the basis of Modern Soul.
+* ヒップホップのビート感
+* ジャズ的コード
+* アナログ質感
+* ルーズなグルーヴ
+  は Modern Soul の基礎となった。
 
-### 2-2. 2010s: New trends and band sounds from Australia
+### 2-2. 2010年代：オーストラリア発の新潮流とバンドサウンド
 
-Melbourne's musical community (Hiatus Kaiyote, The Bamboos, etc.), with their jazz-honed performance skills, multicultural background, and electronic music influences, formed the core of Modern Soul, which has been described as ""complex but pop.''
+メルボルンの音楽コミュニティ（Hiatus Kaiyote、The Bamboos など）は、ジャズ教育機関で磨かれた演奏技術、多文化的背景、エレクトロニック音楽の影響が融合し、「複雑だがポップ」と評される Modern Soul の中核を形成した。
 
-Especially the appearance of **Hiatus Kaiyote**.
+特に **Hiatus Kaiyote** の登場は、
 
-* Polyrhythm
-* Very complex code
-* Detailed arrangement
-It has had a great impact internationally, linking the city with Seoul.
+* Polyrhythm（ポリリズム）
+* 非常に複雑なコード
+* 細密なアレンジ
+  をソウルと結びつけ、国際的に大きな影響を与えた。
 
-### 2-3. Anderson .Paak and the West Coast Community
+### 2-3. Anderson .Paak と West Coast コミュニティ
 
-Anderson Paak is
+アンダーソン・パークは
 
-* Soul Funk
-* west coast hip hop
-* Jazz/Gospel
-He integrated the elements of the band and expanded Contemporary Funk into the pop field with his unique style as both a drummer and a singer.
+* ソウル・ファンク
+* ウェストコーストヒップホップ
+* ジャズ／ゴスペル
+  の要素を統合し、ドラマーでありシンガーであるという特異なスタイルで Contemporary Funk をポップフィールドへ押し広げた。
 
 ---
 
-## 3. Musical characteristics (rhythm, harmony, structure)
+## 3. 音楽的特徴（リズム・ハーモニー・構造）
 
-### 3-1. Rhythm
+### 3-1. リズム
 
-#### Features
+#### 特徴
 
-* **Dilla beat (snare with a bit of delay)**
-* **Compound meter, polyrhythm**
-* **Large use of ghost notes**
-* **32 minute swings**
+* **Dilla 系ビート（遅れ気味のスネア）**
+* **複合拍子、ポリリズム**
+* **ゴーストノートの多用**
+* **32分単位のスウィング**
 
-#### Modern Soul Rhythm Structure
+#### Modern Soul リズム構造
 
 <div class="mermaid">
 flowchart TD
@@ -130,79 +130,79 @@ flowchart TD
 
 ---
 
-### 3-2. Harmony
+### 3-2. ハーモニー
 
-* Frequent tension chords such as 7th, 9th, 11th, 13th
-* Chords derived from melodic minor
+* 7th, 9th, 11th, 13th などテンションコードの頻出
+* メロディック・マイナー由来のコード
 * Jazz quarter harmony
 * Rootless Voicing
 * Chromatic inversion and modal approach
 
-### 3-3. Baseline
+### 3-3. ベースライン
 
 * Emphasis on "interlock with drum"
-* Heavy use of slide, hammering/pulling
-* Mainly Fender electric bass tones
-* Melodic approach (e.g. Thundercat)
+* スライド、ハンマリング／プリング多用
+* フェンダー系エレキベースの音色が中心
+* メロディックなアプローチ（Thundercat など）
 
 ### 3-4. Vocal
 
-* Multiple chorus
-* Melody leap (characteristic of Hiatus Kaiyote)
-* Frequent use of scat/vibrato/falsetto
-* Subdivision of syllables
+* 多重コーラス
+* メロディの跳躍（Hiatus Kaiyote の特徴）
+* スキャット／ビブラート／ファルセットの多用
+* シラブルの細分化
 
 ---
 
-## 4. Production features
+## 4. 制作（Production）の特徴
 
-The production of Modern Soul/Contemporary Funk is a perfect fusion of DAW and live music.
+Modern Soul／Contemporary Funk の制作は、DAW と生演奏が完全に融合している。
 
-### 4-1. Drum recording/editing
+### 4-1. ドラム録音・編集
 
-* Multi-mic recording
-* Transient Shaper
-* Snare delay placement
+* マルチマイク収録
+* トランジェント処理（Transient Shaper）
+* スネアの遅延配置
 * Analog saturation processing
 
-### 4-2. Guitar/Keyboard
+### 4-2. ギター／キーボード
 
 * Electric piano (Rhodes), analog synth, wah guitar
-* Minimal structure mainly based on riffs
+* リフ主体のミニマル構造
 * Precise placement of stereo space
 
 ### 4-3. Base
 
-* "Thickness" management by compression
-*Set sidechain processing to be weaker
-* Sound image that emphasizes the midrange
+* コンプレッションによる「太さ」管理
+* サイドチェイン処理を弱めに設定
+* ミッドレンジを強調した音像
 
 ### 4-4. Vocal processing
 
 * Multiple stages of compression (Serial Compression)
-* Use tape plug-in for analog feel
-* Natural processing of pitch correction
+* アナログ感のためのテープ系プラグインを使用
+* ピッチ補正の自然な処理
 
 ---
 
-## 5. Major artist analysis
+## 5. 主要アーティスト分析
 
 ### 5-1. Hiatus Kaiyote
 
-#### Features
+#### 特徴
 
 * Future soul band from Melbourne
-* Polyrhythm and advanced harmony
-* Vocalist Nai Palm's distinctive melody line
+* Polyrhythm と高度なハーモニー
+* ボーカル Nai Palm の特徴的メロディライン
 
-#### Musicality
+#### 音楽性
 
-* The song structure is a suite-like structure in which multiple sections are connected.
-* Complex accents on drums
-* Atypical synth/guitar voicings
-* Heavy use of offbeat
+* 曲構造は複数セクションが接続される組曲的構成
+* ドラムの複雑なアクセント
+* シンセ／ギターの非定型的なボイシング
+* オフビートの多用
 
-#### Structure of Hiatus Kaiyote
+#### Hiatus Kaiyote の構造
 
 <div class="mermaid">
 flowchart TD
@@ -219,18 +219,18 @@ flowchart TD
 
 #### Features
 
-* Drummer and singer
-* Soul/Funk/Hip-Hop integration
+* ドラマー兼シンガー
+* ソウル／ファンク／ヒップホップの統合
 * Arrangement with emphasis on groove
 
-#### Musicality
+#### 音楽性
 
-* Hard snare, hi-hat in 16 minute increments
-* Funk minimal structure
-* Gospel chorus
-* Brass emphasis
+* 硬質なスネア、16分刻みのハイハット
+* ファンクのミニマルな構造
+* ゴスペル的コーラス
+* ブラスの強調
 
-#### Anderson .Paak Music Elements
+#### Anderson .Paak の音楽要素
 
 <div class="mermaid">
 flowchart TD
@@ -243,30 +243,30 @@ flowchart TD
 
 ---
 
-## 6. Geographical background
+## 6. 地理的背景
 
-### 6-1. Melbourne
+### 6-1. メルボルン
 
-* Rich jazz education
-* Hybrid music from multinational cultures
-* Band-based community
+* ジャズ教育が充実
+* 多国籍文化によるハイブリッド音楽
+* バンド主体のコミュニティ
 
-### 6-2. Los Angeles
+### 6-2. ロサンゼルス
 
-* A hub of hip-hop, soul, and jazz
+* ヒップホップ、ソウル、ジャズの密集地
 * Studio culture (multiple prominent studios)
-*Thundercat, communities around Kamasi Washington
+* Thundercat、Kamasi Washington 周辺のコミュニティ
 
-### 6-3. International sharing through the Internet
+### 6-3. インターネットを通じた国際的共有
 
-* Band culture spreads through YouTube, Bandcamp, etc.
-* The spread of DAW and home recording has made it possible to share production across borders.
+* YouTube、Bandcamp などでバンド文化が拡散
+* DAW と自宅録音の普及により国境を越えた制作共有が可能に
 
 ---
 
-## 7. Representative discography (excerpts/facts only)
+## 7. 代表ディスコグラフィ（抜粋・事実のみ）
 
-*No link
+※リンクなし
 
 #### Hiatus Kaiyote
 
@@ -276,49 +276,49 @@ flowchart TD
 
 #### Anderson .Paak
 
-* *Venice* (2014)
-* *Malibu* (2016)
+* *Venice*（2014）
+* *Malibu*（2016）
 * *Oxnard* (2018)
-* *Ventura* (2019)
+* *Ventura*（2019）
 
-#### Surrounding artists
+#### 周辺アーティスト
 
-*Robert Glasper Experiment – ​​*Black Radio* (2012)
-*Thundercat – *Drunk* (2017)
-*Vulfpeck – *Hill Climber* (2018)
+* Robert Glasper Experiment – *Black Radio*（2012）
+* Thundercat – *Drunk*（2017）
+* Vulfpeck – *Hill Climber*（2018）
 *The Internet – *Ego Death* (2015)
 
 ---
 
-## 8. Chronology (Modern Soul / Contemporary Funk development history)
+## 8. 年表（Modern Soul / Contemporary Funk 発展史）
 
 | Year | Events (facts) |
 | --------- | --------------------------------------- |
 | 1995–1999 | Establishment of Neo-Soul by D"Angelo, Erykah Badu and others |
-| 2000–2009 | The fusion of hip-hop and jazz progresses, and the sound image of soul becomes more diverse |
-| 2011 | Hiatus Kaiyote begins operations in Melbourne |
-| 2012 | Robert Glasper Experiment "Black Radio" released |
-| 2014 | Anderson .Paak "Venice" announced |
-| 2015 | Hiatus Kaiyote "Choose Your Weapon" announced |
+| 2000–2009 | ヒップホップとジャズの融合が進み、ソウルの音像が多様化                |
+| 2011      | Hiatus Kaiyote がメルボルンで活動開始                 |
+| 2012      | Robert Glasper Experiment『Black Radio』リリース |
+| 2014      | Anderson .Paak『Venice』発表                   |
+| 2015      | Hiatus Kaiyote『Choose Your Weapon』発表       |
 | 2016 | Anderson .Paak "Malibu" announced |
 | 2017 | Thundercat "Drunk" announced |
-| 2021 | Hiatus Kaiyote "Mood Valiant" announced |
-| 2020s | Band culture and DAW editing become more integrated and spread worldwide |
+| 2021      | Hiatus Kaiyote『Mood Valiant』発表             |
+| 2020年代    | バンド文化とDAW編集がより一体化し世界的に普及                   |
 
 ---
 
-## 9. Summary
+## 9. まとめ
 
-Modern Soul / Contemporary Funk is
+Modern Soul / Contemporary Funk は、
 
-* Neo Soul Spirit
+* ネオソウルの精神
 * jazz harmony
-* Funk groove
-* Hip hop beat feel
-* Latest production technology
-It is a hybrid style that integrates.
+* ファンクのグルーヴ
+* ヒップホップのビート感
+* 最新の制作技術
+  を統合したハイブリッドスタイルである。
 
-Hiatus Kaiyote"s complex, avant-garde future soul, Anderson .Paak"s soulful and funky band approach. They represent an iconic style of 21st century soul/funk that continues to influence musicians around the world.
+Hiatus Kaiyote の複雑で前衛的なフューチャーソウル、Anderson .Paak のソウルフルでファンキーなバンドアプローチ。これらは21世紀のソウル／ファンクの象徴的スタイルを示し、今も世界中のミュージシャンに影響を与え続けている。
 
 ---
 

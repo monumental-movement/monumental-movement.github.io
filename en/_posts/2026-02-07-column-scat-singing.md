@@ -11,23 +11,22 @@ tags:
 - Vocal
 - Improvisation
 - History
-title: '[Column] Cultural history of scat singing: The moment when the voice becomes
-  an instrument'
+title: 【コラム】 スキャット唱法の文化史——声が楽器になる瞬間
 ---
 
 
 
 ## Prologue Freedom born at the moment of abandoning meaning
 
-Text: mmr｜Theme: The cultural history of the birth, spread, and renewal of scat singing, where the voice becomes rhythm and melody beyond words.
+文：mmr｜テーマ：言葉を超えて声がリズムと旋律になる、スキャット唱法が生まれ、広がり、更新され続けてきた文化史
 
-Scat singing is a vocal expression that temporarily distances itself from meaningful language and sings improvisationally using syllables and onomatopoeia. This method of treating the voice itself as an instrument through melody, rhythm, timbre, and phrasing has been much more than just a singing technique in the history of jazz. It was an act that updated the very questions ""What is a singer?" and ""What role does the voice play?"
+スキャット唱法とは、意味を持つ言語からいったん距離を取り、音節や擬音を用いて即興的に歌うヴォーカル表現である。旋律、リズム、音色、フレージングを通して、声そのものを楽器と同列に扱うこの方法は、ジャズ史において単なる歌唱技術以上の意味を持ってきた。それは「歌手とは何か」「声は何を担うのか」という問いそのものを更新する行為だった。
 
-In early 20th century America, jazz was a music that was supported by the body and memory rather than sheet music. Improvisation was not an ornament, but a practice at the heart of music. Scat is a natural outcome of this improvisational nature that extends to the voice. By temporarily abandoning words that convey meaning, singers were able to stand on the same level as performers.
+20世紀初頭のアメリカにおいて、ジャズは楽譜よりも身体と記憶に支えられた音楽だった。即興とは装飾ではなく、音楽の中心にある実践だった。スキャットは、その即興性を声にまで徹底させるための必然的な帰結である。意味を伝える言葉を一時的に捨てることで、歌手は演奏家と同じ地平に立つことができた。
 
 Developments in recording technology were also important. In the process of moving from wax cylinders to shellac discs, improvisation changed from a one-time event to something that is repeatedly listened to, analyzed, and imitated. Scat was also an extremely modern form of expression, where momentary flashes of inspiration became fixed as history.
 
-> When the voice was stripped of meaning, the freedom of improvisation rose fully for the first time.
+> 声が意味を脱ぎ捨てたとき、即興という自由がはじめて完全な形で立ち上がった。
 
 ---
 
@@ -36,7 +35,7 @@ Developments in recording technology were also important. In the process of movi
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -45,25 +44,25 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Vocal improvisation as prehistory
+## 第1章　前史としてのヴォーカル即興
 
-Although it is difficult to pinpoint the direct origins of scat singing, its prehistory clearly exists. In musical cultures originating from Africa, the voice was not only a tool for communicating words, but also a physical act responsible for rhythm and pitch. The sense that meaningful language and meaningless vocalizations coexist in the same space was deeply rooted in call-and-response and ritual music.
+スキャット唱法の直接的な起源を特定することは難しいが、その前史は明確に存在する。アフリカ由来の音楽文化において、声は言葉を伝える道具である以前に、リズムと音高を担う身体的行為だった。意味のある言語と、意味を持たない発声が同じ空間で共存する感覚は、コール・アンド・レスポンスや儀礼音楽の中に深く根付いていた。
 
-In the work songs and field horrors sung on plantations in the American South, elongated vowels and improvised screams formed the rhythm of labor. These vocalizations were more like movement than melodies, and the voice functioned as an extension of the body.
+アメリカ南部のプランテーションで歌われたワークソングやフィールド・ホラーでは、長く引き伸ばされた母音や、即興的に挿入される叫び声が労働のリズムを形成していた。これらの発声は、旋律というより運動に近く、声は身体の延長として機能していた。
 
-In early 20th century vaudeville and music halls, it was common to sing with many meaningless syllables to attract the attention of the audience. Even in the early jazz vocal recordings that remain, the habit of breaking the endings of words and elongating syllables can be seen. These were the germs of the sensibility that would later become formalized as scat.
+In early 20th century vaudeville and music halls, it was common to sing with many meaningless syllables to attract the attention of the audience. Even in early jazz vocal recordings that remain, the habit of breaking the endings of words and elongating syllables can be seen. These were the germs of the sensibility that would later become formalized as scat.
 
-> Scat was not a sudden invention, but the accumulation of a long practice of treating the voice as sound.
+> スキャットは突発的な発明ではなく、声を音として扱う長い実践の集積だった。
 
 ---
 
 ## Chapter 2 Louis Armstrong and the moment of formalization
 
-In the mid-1920s, one-shot recording was the norm in recording studios in Chicago and New York. The performers had to complete several minutes perfectly at the same time as the signal to start recording. The tension of Louis Armstrong's scat is inseparable from this recording environment.
+1920年代半ば、シカゴやニューヨークの録音スタジオでは、一発録りが常識だった。演奏者は録音開始の合図と同時に、数分間を完璧に走り切る必要があった。ルイ・アームストロングのスキャットが持つ緊張感は、この録音環境と不可分である。
 
-In his scat, the syllables have no meaning, but the rhythmic arrangement is very clear. The beginning of the phrase is the attack of the trumpet, and the ending naturally converges with the breath. Here the voice acts as a melodic instrument, and the absence of lyrics becomes a prerequisite rather than an omission.
+彼のスキャットでは、音節は意味を持たないが、リズムの配置は極めて明確だ。フレーズの立ち上がりはトランペットのアタックそのものであり、語尾はブレスとともに自然に収束する。ここで声は旋律楽器として振る舞い、歌詞の不在は欠落ではなく前提条件となる。
 
-If you listen carefully to records from that time, you"ll realize that the sense of distance between you and the band was also important. The scat doesn"t get lost in the accompaniment, but it doesn't stand out too much either. The sense of improvising within the ensemble had already been perfected.
+当時のレコードを注意深く聴くと、バンドとの距離感も重要であることが分かる。スキャットは伴奏に埋もれることなく、しかし突出しすぎることもない。アンサンブルの内部で即興を行うという感覚が、すでに完成されていた。
 
 <div class="mermaid">
 timeline
@@ -77,105 +76,105 @@ timeline
 
 ---
 
-## Chapter 3 Swing Era and Refinement of Techniques
+## 第3章　スウィング時代と技巧の洗練
 
-Big band recordings in the 1930s required singers to make a strong impression in a short time. Scat is an effective means of achieving this. When you listen to Ella Fitzgerald's recordings, you can hear that each syllable is precisely meshed with the rhythm section.
+1930年代のビッグバンド録音では、歌手は短い持ち時間の中で強い印象を残す必要があった。スキャットは、そのための効果的な手段となる。エラ・フィッツジェラルドの録音を聴くと、音節の一つひとつがリズムセクションと精密に噛み合っていることが分かる。
 
-Although her scat has a clear melodic line, it always contains subtle fluctuations. It's as if the sense of time that swings back and forth, which is unique to swing, is visualized through the voice. In the recording, she seamlessly takes over the flow even when she enters immediately after an instrumental solo.
+彼女のスキャットは、旋律線が明確でありながら、常に微細な揺れを含んでいる。スウィング特有の前後に揺れるタイム感が、声によって可視化されているかのようだ。録音の中で彼女は、楽器ソロの直後に入っても違和感なく流れを引き継ぐ。
 
-If we pseudo-transcribe one chorus of typical scat improvisation, we can see its structure. It begins with a light bouncing "ba-doo-la", followed by a short breath. The next bar breaks into syllables, "bop-ba-dee-ah," perfectly in sync with the drum's ride pattern. At the end of the phrase, lower the pitch and lengthen the vowels, landing naturally on the walking bass.
+If we pseudo-transcribe one chorus of typical scat improvisation, we can see its structure. The song begins with a light bouncing "ba-doo-la", followed immediately by a short breath. The next bar breaks into syllables, "bop-ba-dee-ah," perfectly in sync with the drum's ride pattern. At the end of the phrase, lower the pitch and lengthen the vowels, landing naturally on the walking bass.
 
 What is important is the placement rather than the syllables themselves. Breaths are always placed at rhythmic breaks, not at semantic breaks in phrases. The voice does not sing a melody, but plays time.
 
-Cab Calloway's scat, on the other hand, was more of a stage extension than a studio. Exaggerated syllables, crowd-inducing pauses, and repeated phrases create a participatory musical experience. Immediacy is more important here than accuracy.
+一方、キャブ・キャロウェイのスキャットは、スタジオというよりステージの延長にあった。誇張された音節、観客を煽る間合い、反復されるフレーズは、参加型の音楽体験を生み出す。ここでは正確さよりも即時性が重視されている。
 
-> Scat has grown into an expression that embraces both sophisticated technique and popular joy.
+> スキャットは洗練された技巧と大衆的な歓喜、その両方を引き受ける表現へと成長した。
 
 ---
 
-## Chapter 4 Bebop and vocal instrumentalization
+## 第4章　ビバップと声の器楽化
 
-Bebop recordings in the late 1940s had a tension similar to that of a live performance, even in the studio. The tempo is fast, the harmonies are complex, and there are always multiple improvisational options. Scat requires complete instrumental judgment here.
+1940年代後半のビバップ録音は、スタジオであってもライヴに近い緊張感を持っていた。テンポは速く、和声は複雑で、即興の選択肢は常に複数存在する。スキャットはここで、完全に器楽的な判断力を要求される。
 
 In Sarah Vaughan's recordings, the scat progresses as if threading inside the chords. The syllables are short and clear, as if your voice is following the voicings of the piano. Her jumps from low to high registers reveal no physical limitations to her voice.
 
-Using bebop idioms vocally was an act that presupposed an understanding of improvisational theory. Here, scat moves one step from sensory expression to theoretical practice.
+ビバップ語法を声で扱うことは、即興理論の理解を前提とする行為だった。ここでスキャットは、感覚的表現から理論的実践へと一段階進む。
 
 <div class="mermaid">
 flowchart LR
-    A[Bebop usage] --> B[fast tempo]
-    A --> C[complex harmony]
-    B --> D[instrumental scat]
+    A[ビバップの語法] --> B[高速テンポ]
+    A --> C[複雑な和声]
+    B --> D[器楽的スキャット]
     C --> D
 </div>
 
-> During the bebop period, scat became a musical performance rather than a song.
+> ビバップ期において、スキャットは歌ではなく演奏そのものになった。
 
 ---
 
-## Chapter 5 Modern Jazz and Introspection of Expression
+## 第5章　モダン・ジャズと表現の内省化
 
-After the 1950s, the recording environment gradually became more stable, and it became possible to record minute differences in expression. Scat has come to be about quality over quantity and density over speed.
+From the 1950s onwards, the recording environment gradually became more stable, making it possible to record minute differences in expression. Scat has come to be about quality over quantity and density over speed.
 
-On Chet Baker's recordings, the scatting is almost a whisper. There are few syllables, and the breath placed at the end of the phrase plays an important role. Even silence functions as part of the improvisation.
+チェット・ベイカーの録音では、スキャットはほとんど囁きに近い。音節は少なく、フレーズの終わりに置かれるブレスが重要な役割を果たす。沈黙すらも即興の一部として機能している。
 
-> Scat shifted its focus from extroverted technique to inner expression.
-
----
-
-## Chapter 6 Free Jazz and the Deconstruction of Voices
-
-In the 1960s, studios served as laboratories for free jazz recording. Singers are freed from melodies and chord progressions and explore the possibilities of their voices themselves.
-
-One improvised take does not have a traditional chorus structure. The beginning begins with almost silent breaths, and gradually fricative sounds such as "ha" and "uh" are mixed in. There is no set tempo, and the voices appear intermittently in response to the flutter of the saxophone or the pounding of the drums.
-
-Scat here is not a series of syllables, but a series of vocal acts themselves. The pitch is undefined, the vowels are distorted, and the breath invades the inside of the phrase. Through the recording, the voice stands up as a third entity, neither a melodic instrument nor a percussion instrument.
-
-> By being deconstructed, Scat rediscovered the primal power of the voice.
+> スキャットは外向的な技巧から、内面的な表現へと重心を移していった。
 
 ---
 
-## Chapter 7 Scat as a syllabic vocabulary
+## 第6章　フリー・ジャズと声の解体
 
-Although the syllables used in scat may seem arbitrary, they actually have a certain functional tendency. Singers unconsciously select syllables that correspond to the way the instrument is played.
+1960年代のフリー・ジャズ録音では、スタジオは実験室のような役割を果たした。歌手は旋律やコード進行から解放され、声の可能性そのものを探る。
+
+One improvised take does not have a traditional chorus structure. The beginning begins with almost silent breaths, and gradually fricative sounds such as "ha" and "uh" are mixed in. There is no fixed tempo, and the voices appear intermittently in response to the flutter of the saxophone or the pounding of the drums.
+
+ここでのスキャットは、音節の連なりではなく、発声行為そのものの連続である。音程は定まらず、母音は歪み、ブレスはフレーズの内部に侵入する。録音を通して、声は旋律楽器でも打楽器でもない第三の存在として立ち上がる。
+
+> スキャットは解体されることで、声の原初的な力を再発見した。
+
+---
+
+## 第7章　音節語彙としてのスキャット
+
+スキャットで用いられる音節は恣意的に見えるが、実際には一定の機能的傾向を持っている。歌手は無意識のうちに、音節を楽器の奏法に対応させて選択している。
 
 "ba", "bop", and "da", which contain plosive sounds, are often used in situations where you want to make the attack clear. These produce an effect similar to the tonguing of a trumpet or saxophone. On the other hand, syllables such as ""doo", ""loo", and ""la'' that are centered around flowing sounds and vowels are suitable for legato phrases and sustaining intervals.
 
-Fricatives such as ""ske," ""sha," and ""tss"' often function as gaps or accents in the rhythm, and are highly compatible with drum hi-hats and brush playing. Scat"s vocabulary is chosen for its acoustic properties rather than its meaning.
+摩擦音を含む「ske」「sha」「tss」は、リズムの隙間やアクセントとして機能することが多く、ドラムのハイハットやブラシ奏法との親和性が高い。スキャットの語彙は、意味ではなく音響特性によって選ばれている。
 
-> The scat syllables function not as words but as a performance technique.
+> スキャットの音節は言葉ではなく、演奏技法として機能している。
 
 ---
 
-## Chapter 8 Influences that extend beyond jazz
+## 第8章　ジャズを越えて広がる影響
 
-With further developments in recording technology, scat fragments have become subject to sampling and quotation. The voice is both a performance and a material, crossing genres.
+録音技術のさらなる発展により、スキャットの断片はサンプリングや引用の対象となる。声は演奏であると同時に素材となり、ジャンルを横断する。
 
-Scat ideas have become widespread, from the light vocal improvisations of bossa nova to the fake singing of soul and funk, and even the chorus work of pop.
+ボサノヴァの軽やかなヴォーカル・アドリブ、ソウルやファンクにおけるフェイク唱法、さらにはポップスのコーラス・ワークに至るまで、スキャット的発想は広く浸透した。
 
 > Scat has transcended genres and continued to expand the freedom of voice.
 
 ---
 
-## Supplementary chapter: Scat for Japanese speakers
+## 補章　日本語話者にとってのスキャット
 
-The reason Japanese speakers find scat difficult is not so much the technique but the structure of the language. Japanese language is centered on vowels, has few consecutive consonants, and has clear breaks between syllables. As a result, detailed rhythmic expressions using plosives and fricatives are difficult to embody.
+The reason Japanese speakers find scat difficult is not so much the technique but the structure of the language. Japanese language is centered around vowels, with few consecutive consonants and clear breaks between syllables. As a result, detailed rhythmic expressions using plosives and fricatives are difficult to embody.
 
-Furthermore, in Japanese vocalizations, meaning and sound are strongly linked, and it is easy to feel psychological resistance to uttering meaningless syllables. What scat requires is the courage not to say the syllable, and this feeling may be easier for non-native speakers to acquire.
+また、日本語の発声は意味と音が強く結びついており、無意味音節を発することに心理的な抵抗が生じやすい。スキャットに必要なのは、音節を「言わない」勇気であり、この感覚は非母語話者の方が習得しやすい場合もある。
 
-Looking back at the history of Japanese jazz vocals, singing with lyrics was accepted from an early stage, while instrumental scatting was treated with caution. Behind this is the difference in language and culture.
+日本のジャズ・ヴォーカル史を振り返ると、歌詞を持つ歌唱は早くから受容された一方、器楽的スキャットは慎重に扱われてきた。その背景には、言語文化の差異がある。
 
-> Learning scat begins not with vocal technique, but with updating one's view of language.
+> スキャットの習得は発声技術ではなく、言語観の更新から始まる。
 
 ---
 
-## Final Chapter A voice that continues to ring outside of meaning
+## 終章　意味の外側で鳴り続ける声
 
 The cultural history of scat singing is also a history of the possibilities of the voice. From language that carries meaning to pure materials that make up music. This shift shook the very values ​​of 20th century music.
 
-As long as the act of improvisation exists, the voice once again steps outside of meaning. Scat is not a technique from the past, but is always an ongoing question.
+As long as the act of improvisation exists, the voice once again steps outside of meaning. Scat is not a technique of the past, but is always an ongoing question.
 
-> As long as the voice is released as sound, the history of scat will never end.
+> 声が音として解き放たれるかぎり、スキャットの歴史は終わらない。
 
 ---
 

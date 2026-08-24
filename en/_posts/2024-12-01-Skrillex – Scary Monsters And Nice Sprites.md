@@ -14,9 +14,9 @@ title: Skrillex – Scary Monsters And Nice Sprites
 ---
 
 
-Japanese version released in 2012. Tracks 1 to 6 are Skrillex original songs. The seventh song is a remix by Dutch drum and bass trio Noisia. The 8th song is a remix by DJ and producer Zedd, famous for ""Clarity" and Ariana Grande's hit song ""Break Free."
+2012年にリリースされた日本盤。1〜6曲目まではSkrillexオリジナル曲。7曲目はオランダのドラムンベーストリオNoisia(ノイジア)のremix。8曲目は「Clarity」や、アリアナ・グランデのヒット曲「Break Free」で有名なDJ&プロデューサーZedd(ゼッド)によるremix。
 
-The 9th track is a remix by Bare Noize, the production duo of Daniel Brown and Oliver Pile.
+9曲目はDaniel Brown とOliver PileによるプロダクションデュオBare Noizeによるremix。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ The 9th track is a remix by Bare Noize, the production duo of Daniel Brown and O
 
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

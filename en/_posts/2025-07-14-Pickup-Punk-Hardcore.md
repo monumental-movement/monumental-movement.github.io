@@ -8,18 +8,18 @@ layout: post
 tags:
 - Punk
 - Hardcore
-title: Pick up punk/hardcore works
+title: パンク／ハードコア作品をピックアップ
 ---
 
 
-"A remarkable group of punk/hardcore works that embody chaos and passion and sharply cut through the atmosphere of the times."
+「混沌と激情を体現し、時代の空気を鋭く切り裂いた注目すべきパンク／ハードコア作品群」
 
 <hr>
 
 ### Snuff – Flibbiddydibbiddydob
 <a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.webp"></a>
 
-A cover EP by a British punk band. Originally released in 1990, re-released in 1996
+イギリスのパンクバンドによるカバーEP。もとは1990年、再リリースは1996年
 
 #### Tracklist
 ```md
@@ -38,7 +38,7 @@ B6. In Sickness & In Health
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -50,7 +50,7 @@ B6. In Sickness & In Health
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-A work by an Italian punk band. A rare piece in which Billy Bragg from the UK participated in part.
+イタリア出身パンクバンドの作品。UKのBilly Braggが一部参加した珍しい一枚
 
 #### Tracklist
 ```md
@@ -69,16 +69,16 @@ B5. Bad News From Swing Street
 B6. Not For Sale
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIEjRm21s9c?si=CZzwJ3KN13rGYC09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Rytmihairiov/Amen – The End Of Evolution... Is Round The Corner
+### Rytmihairiov/Amen – The End Of Evolution... Is Round The Corner　
 <a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 
-Finnish hardcore/thrash band
+フィンランドのハードコア／スラッシュ系バンド作品
 
 #### Tracklist
 ```md
@@ -107,16 +107,16 @@ B11. Spice-Song
 
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=BhCSsU2LP2Tnrs6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Friction – friction
+### Friction – 軋轢
 <a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.webp"></a>
 
-1980 CD by Japan's pioneering punk band Friction
+日本の先駆的パンクバンドFrictionの1980年作（CD）
 
 #### Tracklist
 ```md
@@ -132,7 +132,7 @@ B11. Spice-Song
 10. Out
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -143,39 +143,39 @@ B11. Spice-Song
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
+  <thead>
+    <tr>
 <th>Artist/Title</th>
-<th>era</th>
-<th>Format</th>
+      <th>年代</th>
+      <th>形式</th>
 <th>Features</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Snuff <br />– <em>Flibbiddydibbiddydob</em></a></td>
-<td>1996</td>
-<td>12"</td>
-<td>British punk</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64968588416?afid=6142608987">The Gang <br />- <em>Barricada Rumble Beat</em></a></td>
-<td>1987</td>
-<td>LP</td>
-<td>Italian hardcore punk</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Rytmihairiov/Amen <br />- <em>The End Of Evolution... Is Round The Corner</em></a></td>
-<td>1997</td>
-<td>LP</td>
-<td>Finnish hardcore/thrash</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Friction <br />- <em>Friction</em></a></td>
-<td>1980</td>
-<td>CD</td>
-<td>Japanese punk</td>
-</tr>
-</tbody>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Snuff  <br />– <em>Flibbiddydibbiddydob</em></a></td>
+      <td>1996</td>
+      <td>12”</td>
+      <td>英パンク</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64968588416?afid=6142608987">The Gang <br />- <em>Barricada Rumble Beat</em></a></td>
+      <td>1987</td>
+      <td>LP</td>
+      <td>イタリアハードコアパンク</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Rytmihairiov/Amen <br />- <em>The End Of Evolution... Is Round The Corner</em></a></td>
+      <td>1997</td>
+      <td>LP</td>
+      <td>フィンランドハードコア／スラッシュ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Friction <br />- <em>軋轢</em></a></td>
+      <td>1980</td>
+      <td>CD</td>
+      <td>日本パンク</td>
+    </tr>
+  </tbody>
 </table>
 </div>
