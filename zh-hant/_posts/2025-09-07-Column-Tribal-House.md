@@ -9,97 +9,97 @@ permalink: /zh-hant/column-tribal-house/
 tags:
 - Tribal House
 - 90s
-title: 【專欄】部落之家－從「原始」節奏到現代融合
+title: 【コラム】 Tribal House — ビートの“原始”から現代の融合まで
 ---
 
 
 
-## 什麼是部落之家？
+## Tribal Houseとは何か？
 
 
-文字：mmr｜主題：部落房屋，融合了非洲/拉丁音樂（康加鼓、手鼓等）等多層打擊樂器，可容納四人。
+文：mmr｜テーマ：ハウスの四つ打ちにアフリカ／ラテンなどの多層的な打楽器（コンガやボンゴ等）を取り入れたトライバルハウス
 
 
-部落浩室音乐是一个子流派，将四层浩室音乐与多层打击乐器（如非洲/拉丁音乐（康加鼓、邦戈鼓等））结合在一起。它的特點是強調打擊樂的體驗結構，其發展與俱樂部場地形式和 DJ 文化有著深厚的聯繫。
+Tribal House（トライバル・ハウス）は、ハウスの四つ打ちにアフリカ／ラテンなどの多層的な打楽器（コンガやボンゴ等）を重ねたサブジャンルです。体感的な“パーカッション重視”の構成が特徴で、クラブのフロア形態やDJ文化と深く結びついて発展しました。
 
 
 ---
 
-## 起源（1988-1994）
+## 起源（1988〜1994）
 
 **時代背景**
-在 20 世紀 80 年代末和 90 年代初，芝加哥/紐約的俱樂部文化開始與其以迪斯科為基礎的 house 根源分化和多樣化。它的起源之一是 DJ 們從世界各地挖掘民族和拉丁唱片，並通過唱片編輯和採樣在 house 音樂中添加“現場打擊樂感覺”（這是俱樂部長期混合文化發展的時代）。
+1980年代後半から90年代初頭、シカゴ／ニューヨークのクラブ文化はディスコ土着のハウスから分岐し、多様化を始めました。DJたちが世界各地の民族音源やラテン系のレコードを掘り、レコード編集やサンプリングで“生の打楽器感”をハウスに重ねたことが起点のひとつです（クラブ現場のロングミックス文化が育った時代）。
 
-**興趣點/地點**
-- 在 20 世紀 90 年代初紐約和芝加哥的俱樂部中，DJ 本身就是流派表達的核心。
-- 早期，使用唱片和轉盤進行現場編輯是主流。
+**注目点／現場**
+- 1990年代初頭のニューヨークやシカゴのクラブで、DJセット自体がジャンル表現の中心でした。
+- 初期はレコードとターンテーブルを主体にしたライブ編集が主流。
 
-**代表性工具（當時）**
-- 唱盤：<a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a> 系列（現場標準）。
-- 鼓機/採樣器：早期的採樣器，例如 Roland 的 TR 系列（TR-909/TR-808 等）和 Akai，成為底鼓和打擊樂的素材來源（請參閱<a href="https://en.wikipedia.org/wiki/Roland_TR-909">此處</a>了解 TR-909 的歷史）。
+**代表的ツール（当時）**
+- ターンテーブル：<a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a> 系（現場の標準）。
+- ドラム・マシン／サンプラー：RolandのTRシリーズ（TR-909／TR-808 等）やAkai等の初期サンプラーが、キックやパーカッションの素材源になりました（TR-909の歴史は <a href="https://en.wikipedia.org/wiki/Roland_TR-909">こちら</a>）。
 
 ---
 
-## 成熟與繁榮（1994-2000）
+## 成熟とブーム（1994〜2000）
 
 **時代背景**
-90 年代中期，突破流派界限的廠牌和合輯出現了。特別是來自美國的<strong>TRIBAL America</strong>為現場的形成做出了巨大的貢獻（標籤資訊：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>）。
+90年代半ばにはジャンルの輪郭を押し出すレーベルやコンピが登場します。特に米国発の<strong>TRIBAL America</strong>などがシーン形成に大きく寄与しました（レーベル情報：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>）。
 
-**代表作品/人物**
-- Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>：一張以俱樂部為導向的部落表達的重要專輯。
-- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>：雖然偏向前衛搖滾，但被認為是一部與 90 年代俱樂部感覺有關的作品。
+**代表作・人物**
+- Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>：クラブ寄りのトライバル表現をアルバム化した重要作。
+- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>：プログレ寄りだが90年代のクラブ感と接続する作品として参照される。
 
-**音樂特色**
-- 分層的康加鼓和打擊樂、低音提琴和強大的底鼓組合以及長重複的作品增強了地板體驗。
+**音楽的特徴**
+- コンガやパーカッションの重ね、サブベースと強力なキックの組合せ、長尺の反復構成によるフロア体験の強化。
 
-**設備/生產**
-- 重點是硬體取樣（例如 Akai MPC）和類比/數位鼓機分層（有關 Akai MPC 系列的歷史，請參閱 <a href="https://en.wikipedia.org/wiki/Akai_MPC">Akai MPC — 維基百科</a>）。
+**機材／制作**
+- ハードウェア（Akai MPCなど）によるサンプリングと、アナログ/デジタルドラムマシンのレイヤーが中心でした（Akai MPC 系の歴史は <a href="https://en.wikipedia.org/wiki/Akai_MPC">Akai MPC — Wikipedia</a> を参照）。
 
 ---
 
-## 轉型與商業化（2000 年代）
+## 変容と商業化（2000年代）
 
 **時代背景**
-2000年代，部落元素與前衛/電子等融合，衍生曲風數量增加。製作環境已從基於硬體轉變為基於 DAW，從而可以創建更複雜的聲音設計。
+2000年代にはトライバル要素がプログレッシブ／エレクトロ等と融合し、派生ジャンルが増加。制作環境はハード主体からDAW中心へとシフトし、より洗練されたサウンドデザインが可能になりました。
 
-**生產方法的改變**
-- 廣泛使用效果處理（濾波器/殘響/延遲）的打擊樂器處理。
-- 使用軟樣本包和插件來普及「可以輕鬆再現的部落感覺」。
+**制作手法の変化**
+- エフェクト処理（フィルター／リバーブ／ディレイ）を多用した打楽器の加工。
+- ソフトサンプルパックやプラグインを使った“手軽に再現できるトライバル感”の普及。
 
 ---
 
-## 復興與融合（2010年代至今）
+## リバイバルと融合（2010s〜現在）
 
 **時代背景**
-全球化和串流媒體的興起加速了非洲浩室音樂和拉丁節奏的融合。以高解析度捕捉現場打擊樂器並進行電子處理的「混合」製作已成為主流。
+グローバル化とストリーミングの台頭により、アフロハウスやラテン系リズムとの融合が加速。生打楽器を高解像度で取り込み、電子処理する“ハイブリッド”な制作が主流になっています。
 
-**現場標準配備（目前）**
-- 軟體：Ableton Live、Logic Pro、Native Instruments（Maschine/Kontakt）等。
-- 硬體：MPC系列、Elektron設備、Pioneer CDJ + DVS環境。
-- 例：利用高品質民族打擊樂器庫。
-
----
-
-## 傑作精選
-- 丹尼‧泰納利亞 — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">旅遊 (1998)</a>
-- 深盤 — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">垃圾科學 (1998)</a>
-- TRIBAL America 相關合輯/發行版（範例）：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
+**現場の標準機材（現在）**
+- ソフトウェア：Ableton Live、Logic Pro、Native Instruments（Maschine／Kontakt）等。
+- ハードウェア：MPCシリーズやElektron機器、PioneerのCDJ＋DVS環境。
+- サンプル：高品質な民族打楽器ライブラリの活用。
 
 ---
 
-## 設備年表（簡體）
-- **1980 年代~90 年代初**：Technics SL-1200（转盘）、Roland TR-909/TR-808（鼓机）、早期 Akai/E-mu 采样器。參考文獻：<a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>、<a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>、<a href="https://en.A.org/wiki/kai​​a</wiki>。
-- **90 年代中期至 2000 年代**：大量使用 Akai MPC 系列和硬體取樣器（<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — Akai MPC 簡史</a>）。
-- **2010 年代~現在**：DAW (Ableton/Logic)、Kontakt 和 Maschine 等軟樣本以及 MPC 的混合操作。
+## 名盤ピック
+- Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>
+- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>
+- TRIBAL America 関連コンピ／リリース群（一例）：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
 
 ---
 
-## 道德考慮
-部落元素可能與文化侵占的討論交叉。在創作/玩耍時，我們鼓勵您明確說明您的起源並尊重您的根源。
+## 機材年表（簡易）
+- **1980s〜early 90s**：Technics SL-1200（ターンテーブル）、Roland TR-909 / TR-808（ドラム・マシン）、初期Akai／E-mu系サンプラー。参照：<a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>、<a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>、<a href="https://en.wikipedia.org/wiki/Akai">Akai</a>。
+- **mid 90s〜2000s**：Akai MPC シリーズやハードウェア・サンプラーの多用（<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>）。
+- **2010s〜現在**：DAW（Ableton／Logic）、KontaktやMaschine等のソフトサンプル、MPCのハイブリッド運用。
 
 ---
 
-# 10 首代表性曲目 — 播放列表
+## 倫理的配慮
+トライバル要素は民族音楽の借用（cultural appropriation）に関わる議論と接することがあります。制作／プレイ時には出自の明示やルーツへの敬意を示すことが推奨されます。
+
+---
+
+# 代表トラック10選 — プレイリスト
 
 <style type="text/css">
 
@@ -116,44 +116,44 @@ color: #fff;
 
 
 
-|年份|藝人 |曲目名稱 |特色|
-|------|--------------|----------|------|
-| 1997 |朱尼爾·瓦斯奎茲 |如果麥當娜打電話來 |象徵同性戀俱樂部場景的大膽樣本|
-| 1998 |丹尼‧泰納利亞 |元素|部落打擊樂與最低限度的發展|
-| 1998 |深盤|擱淺|悠揚深沉的聲音|
-| 2001 |彼得·勞霍夫 |我得到了音樂|一首以人聲為主的地板曲目 |
-| 2002 |楚斯與塞瓦略斯 |拜拉|令人印象深刻的西班牙打擊樂傑作 |
-| 2002 |史蒂夫·勞勒 |崛起|具有深色和厚重的凹槽 |
-| 2010 |科勒克提夫大街 |最後一天 |一部以細膩而抒情的發展而閃耀的作品|
-| 2014 |十堵牆 |與大象同行|令人難忘的銅管即興演奏大受歡迎 |
-| 2020 |巴勃羅·菲耶羅 |亞巴巴|非洲節奏與現代House的融合 |
-| 2021 |黑咖啡|你需要我|深邃深情的質感|
+| 年代 | アーティスト | トラック名 | 特徴 |
+|------|--------------|-------------|------|
+| 1997 | Junior Vasquez | If Madonna Calls | ゲイクラブシーンを象徴する大胆なサンプル使い |
+| 1998 | Danny Tenaglia | Elements | 部族的なパーカッションとミニマルな展開 |
+| 1998 | Deep Dish | Stranded | メロディアスで深みのあるサウンド |
+| 2001 | Peter Rauhofer | I Got the Music | ヴォーカルを前面に出したフロア向けトラック |
+| 2002 | Chus & Ceballos | Baila | スパニッシュパーカッションが印象的な名曲 |
+| 2002 | Steve Lawler | Rise In | ダークで重厚なグルーヴが特徴 |
+| 2010 | Kollektiv Turmstrasse | Last Day | 繊細で叙情的な展開が光るプロダクション |
+| 2014 | Ten Walls | Walking with Elephants | ブラス系リフが耳に残るビッグヒット |
+| 2020 | Pablo Fierro | Yababa | アフロリズムとモダンハウスの融合 |
+| 2021 | Black Coffee | You Need Me | ディープでソウルフルな質感 |
 
 ---
 
-## 節奏之旅
-Tribal House 不僅是俱樂部音樂，更是一場在全球傳播、隨著每個時代而變化的「節奏之旅」。作為一種在繼承非洲根源的同時透過科技融合不斷發展的流派，它將繼續受到關注。
+## リズムの旅
+Tribal Houseは単なるクラブミュージックではなく、時代ごとに変容を遂げながらグローバルに広がった「リズムの旅」である。今後もアフリカンルーツを受け継ぎつつ、テクノロジーとの融合で進化していくジャンルとして注目され続けるだろう。
 
 ---
 
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d4rG0TcH6BQ?si=8dzssjr8TelfWf8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 參考連結（主要來源）
-- <a href="https://en.wikipedia.org/wiki/Tribal_house">維基百科 — 部落房屋</a>
+## 参考リンク（主な出典）
+- <a href="https://en.wikipedia.org/wiki/Tribal_house">Wikipedia — Tribal house</a>
 - <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
-- <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Discogs — Danny Tenaglia：旅遊 (1998)</a>
-- <a href="https://www.discogs.com/release/682084-Deep-Dish-Junk-Science">Discogs — 深盤：垃圾科學 (1998)</a>
-- <a href="https://en.wikipedia.org/wiki/Roland_TR-909">維基百科 — Roland TR-909</a>
-- <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">維基百科 — Technics SL-1200</a>
-- <a href="https://en.wikipedia.org/wiki/Akai_MPC">維基百科 — Akai MPC</a>
-- <a href="https://www.allmusic.com/album/tourism-mw0000598528">AllMusic — 旅遊 (Danny Tenaglia)</a>
+- <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Discogs — Danny Tenaglia: Tourism (1998)</a>
+- <a href="https://www.discogs.com/release/682084-Deep-Dish-Junk-Science">Discogs — Deep Dish: Junk Science (1998)</a>
+- <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Wikipedia — Roland TR-909</a>
+- <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Wikipedia — Technics SL-1200</a>
+- <a href="https://en.wikipedia.org/wiki/Akai_MPC">Wikipedia — Akai MPC</a>
+- <a href="https://www.allmusic.com/album/tourism-mw0000598528">AllMusic — Tourism (Danny Tenaglia)</a>
 
 
 

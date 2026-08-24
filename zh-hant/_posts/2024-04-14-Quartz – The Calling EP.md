@@ -9,13 +9,13 @@ permalink: /zh-hant/quartz-the-calling-ep/
 tags:
 - Techno
 - Tech Trance
-title: Quartz – 呼喚 EP
+title: Quartz – The Calling EP
 ---
 
 
-Quartz（阿德里亞諾·菲利普奇）是一位義大利 DJ 和製作人。 The Callingは2002年にモントオールに拠點を置くテックトランsureーベルチトチトめぁぁえげぁ。
+Quartz [ クオーツ ] (Adriano Filippucci)はイタリアのDJ・プロデューサー。The Callingは2002年にモントリオールに拠点を置くテックトランスレーベルAscend Recordingsからリリースされたテクノトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Calling
 
@@ -24,7 +24,7 @@ B1. Origin
 B2. Felix
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m34400004897?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34400004897?afid=6142608987){: .button1}
 
 
 

@@ -8,20 +8,20 @@ layout: post
 permalink: /zh-hant/deepswing-in-the-music/
 tags:
 - House
-title: Deepswing – 在音樂中
+title: Deepswing – In The Music
 ---
 
 
-Deep Swing 是由來自洛杉磯的製作人 Eric Wikman 和 James Donaldson 組成的二人組。
+Deep Swingは、ロサンゼルス出身のハウスプロデューサー、 Eric Wikman (エリック ウィクマン)と James Donaldson(ジェームス ドナルドソン)のデュオ。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. In The Music (Original Mix)
 
 B. In The Music (Superchumbo's High Octane Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m69960418997?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69960418997?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dld_Xn-l5nE?si=OPtayWHkS7nxoewe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

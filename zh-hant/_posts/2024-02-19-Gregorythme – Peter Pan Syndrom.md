@@ -10,21 +10,21 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Gregorythme – 彼得潘氏症
+title: Gregorythme – Peter Pan Syndrom
 ---
 
 
-格雷戈里斯梅（
-Gregory Poncet（也稱為 Gregorism）也與 Laps 一起作為深度 Techno 二人組 Digitaline 活躍。自 2006 年以來，他以 Gregorythme 為名，在 Bruchstuecke、Minibar、Sushitech、Minimood、Rebirth、no19 和 Cityfox 等唱片公司發行了作品。
+Gregorythme（
+グレゴリズム）ことGregory Poncetは、LapsとのディープテクノデュオDigitalineとしても活動中。Gregorythme名義では、2006年よりBruchstuecke、Minibar、Sushitech、Minimood、Rebirth、no19、Cityfoxなどのレーベルから作品をリリースしている。
 
-《Peter Pan Syndrom》是 Sushitech Purple 於 2008 年發行的一首簡約 techno 曲目，Sushitech Purple 是 Sushitech 的一個子廠牌，專注於深浩室低音。
+「Peter Pan Syndrom」は2008年にSushitechのサブレーベルでディープなハウスベースのサウンドに特化したSushitech Purpleからリリースされたミニマルテクノトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Synchtrouble
 
 B. Mindthedrop
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m19636023289?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19636023289?afid=6142608987){: .button1}
 

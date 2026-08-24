@@ -10,15 +10,15 @@ tags:
 - Techno
 - Electro
 - 00s
-title: 男孩吵鬧——殺死孩子
+title: Boys Noize – Kill The Kid
 ---
 
 
-Boys Noize (Alexander Ridha) 是一位居住在柏林的德國 DJ/製作人。他也曾以 Elax、Einzeller、Morgentau 和 909d1sco 等名字發布作品。
+Boys Noize (Alexander Ridha)は、ベルリンを拠点に活動するドイツのDJ／プロデューサー。Elax、Einzeller、Morgentau、909d1scoなどの名義でもリリースしている。
 
-《Kill The Kid》是一首 Techno/Electro 曲目，於 2006 年在自己的廠牌 Boysnoize Records 上發行。
+「Kill The Kid」は、自身のレーベルBoysnoize Recordsから2006年にリリースしたTechno／Electroトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Kill The Kid
 
@@ -26,7 +26,7 @@ B1. War
 B2. E Bong
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m88078521440?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88078521440?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwTdvbEDCvA?si=OtV7tdAHy994hM0G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

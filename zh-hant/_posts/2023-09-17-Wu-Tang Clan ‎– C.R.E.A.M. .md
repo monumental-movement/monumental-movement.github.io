@@ -9,15 +9,15 @@ permalink: /zh-hant/wu-tang-clan-c-r-e-a-m/
 tags:
 - Hiphop
 - Wu-Tang
-title: 武當派 – C.R.E.A.M.
+title: Wu-Tang Clan – C.R.E.A.M.
 ---
 
 
-這首歌出現在 Wu-Tang Clan 於 1993 年發行的首張錄音室專輯 Enter the Wu-Tang (36 Chambers) 中。是武當派最具標誌性和影響力的歌曲之一。
+この曲は、ウータン・クラン（Wu-Tang Clan）のデビュースタジオアルバム「Enter the Wu-Tang (36 Chambers)」に収録されており1993年にリリースされました。「C.R.E.A.M.」はウータン・クランの最も象徴的で影響力のある曲の一つです。
 
-他們以其令人上癮的製作和內省的歌詞而聞名，其中採樣了查梅爾斯樂隊的“只要我有你”，他們反映了貧困社區生活的艱辛和對經濟成功的渴望。
+The Charmelsの「As Long As I've Got You」をサンプリングした中毒性のあるプロダクションと内省的な歌詞で知られており、貧困地域での生活の苦境や経済的成功への願望を反映しています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. C.R.E.A.M. (Radio Edit)
 
@@ -36,7 +36,7 @@ B3. Da Mystery Of Chessboxin' (A Cappella)
 B4. Da Mystery Of Chessboxin' (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m66730641557?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66730641557?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBwAxmrE194?si=Od0iR6rZ_jvGDWiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

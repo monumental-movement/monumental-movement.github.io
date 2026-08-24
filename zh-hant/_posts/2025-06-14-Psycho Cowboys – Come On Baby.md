@@ -11,18 +11,18 @@ tags:
 - Breaks
 - Big Beat
 - 90s
-title: 瘋狂牛仔 – 來吧寶貝
+title: Psycho Cowboys – Come On Baby
 ---
 
 
-Psycho Cowboys（也稱為 Hedfu_k）是英國製作人/作曲家 Aaron Gilbert 和倫敦出生的電子 DJ/製作人 Stretch Silvester（又名 Stuart Collins）的一個項目。
+Psycho Cowboys (別名Hedfu_k)は、UKを拠点に活動するプロデューサー・コンポーザーAaron Gilbert(アーロン・ギルバート)とロンドン出身のエレクトロニックDJ・プロデューサーStretch SilvesterことStuart Collinsによるプロジェクト。
 
 
-這張唱片是倫敦獨立唱片公司 Wall Of Sound 於 1999 年發行的 Breaks/Big Beat 曲目。
+このレコードは、ロンドンのインディペンデントレコードレーベルWall Of Sound (ウォール・オブ・サウンド)から1999年にリリースされたBreaks・Big Beatトラック。
 
-Wall Of Sound 廠牌與布萊頓的 Skint Records 一起，是 20 世紀 90 年代中後期大節拍運動的核心。他也因引進國際知名的大節奏藝術家而聞名，例如 Propellerheads、The Wiseguys 和 Les Rythmes Digitales。
+レーベルWall Of Soundは、ブライトンを拠点とするSkint Records(スキントレコード) と並んで、1990年代半ば〜後半にかけてのビッグビートムーブメントの中心的存だった。また、Propellerheads、The Wiseguys、Les Rythmes Digitalesなどの国際的に有名なビッグビートアーティストを紹介した事でも知られている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Come On Baby
 
@@ -30,7 +30,7 @@ B1. Heart Attack
 B2. Come On Baby (Demo Version)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m23010832110?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23010832110?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/veUq6vz7smo?si=G4xuKAL_vvudQDVK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

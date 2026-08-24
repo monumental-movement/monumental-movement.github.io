@@ -11,82 +11,82 @@ tags:
 - 90s
 - 80s
 - 70s
-title: '[專欄]什麼是氛圍音樂？ 「存在的聲音」而不是聽到的聲音的哲學'
+title: 【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学
 ---
 
 
-## 從“聽音樂”到“感受音樂”
+## 「聴く音楽」から「感じる音楽」へ
 
-文：mmr｜主題：Ambient、環境音樂、電子音樂文化理論
+文：mmr｜テーマ：Ambient・環境音楽・電子音楽文化論
 
-氛圍音樂是一種音樂流派，其目的不是讓聽眾“主動聆聽”，而是“存在於一個空間中”。他消除了清晰的旋律和節奏，而是使用持續的聲音（無人機）、環境聲音（現場錄音）和聲學處理來建立聽覺景觀。
+Ambient（アンビエント）とは、リスナーに“積極的に聴かれる”ことを目的とせず、“空間に存在する”ことを意図した音楽ジャンルである。明確なメロディやリズムを排除し、代わりに持続音（ドローン）・環境音（フィールドレコーディング）・音響処理などを用いて、聴覚的な風景を構築する。
 
-這種流派是一種極其哲學的音樂，處於音樂與藝術、聲音與空間、感知與意識之間的邊界。
+このジャンルは音楽とアート、音響と空間、知覚と意識の境界に立つ、極めて哲学的な音楽である。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v9Z6puq_xzo?si=Eah6RjgXH3y4SGEb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 布萊恩·伊諾的話
+### ブライアン・イーノの言葉から
 
-英國音樂家布萊恩·伊諾將環境一詞定義為一種音樂流派。 1978年，他在他的傑作【Ambient 1：機場音樂】（https://amzn.to/48shEpU）中寫道：
+アンビエントという言葉を音楽ジャンルとして定義づけたのは、イギリスの音楽家Brian Enoである。1978年、彼は代表作[『Ambient 1: Music for Airports』](https://amzn.to/48shEpU)において、以下のように述べている：
 
-“環境音樂必須能夠適應多種層次的聆聽注意力，而不必強迫某一特定層次；它必須既有趣又可以被忽視。”
+“Ambient music must be able to accommodate many levels of listening attention without enforcing one in particular; it must be as ignorable as it is interesting.”
 「アンビエント音楽は、聴かれることを強制せず、同時に無視されることも許容するものでなければならない。」
 
 つまりアンビエントは、BGMではないがBGMのようにも機能する音楽。**意識の背景で流れる“空間芸術”**である。
 
 
-<小時>
+<hr>
 
-### 環境的系譜和起源
+### アンビエントの系譜と起源
 
-**● 史前史：環境音樂的萌芽**
+**● 先史時代：環境音楽の萌芽**
 
-[**Eric Satie**](https://amzn.to/3Iqa4li)：19 世紀末作曲家。提出「Musique d'ameublement」（家具音樂）的概念，即像家具一樣發揮作用的音樂。
+[**エリック・サティ（Eric Satie）**](https://amzn.to/3Iqa4li)：19世紀末の作曲家。家具のように機能する音楽“Musique d’ameublement（家具の音楽）”という概念を提示。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-[**John Cage**](https://amzn.to/3Vrlzf8)：以無聲音樂《4'33》提出「環境本身就是音樂」的前衛概念。
+[**ジョン・ケージ（John Cage）**](https://amzn.to/3Vrlzf8)：無音の音楽《4'33"》で「環境そのものが音楽」とする前衛思想を提唱。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**● 1970 年代：環境的建立**
+**● 1970年代：アンビエントの確立**
 
-[**Brian Eno**](https://amzn.to/4h5oST4)：首次明確使用「環境」一詞。
+[**ブライアン・イーノ（Brian Eno）**](https://amzn.to/4h5oST4)：アンビエントという言葉を初めて明示的に使用。
 
-代表作品：
+代表作：
 
-- [**謹慎音樂 (1975)**](https://amzn.to/4nafH64)
+- [**Discreet Music（1975）**](https://amzn.to/4nafH64)
 
-- [**環境 1：機場音樂 (1978)**](https://amzn.to/48shEpU)
-
----
-
-**● 1980 年代-1990 年代：與電子音樂融合**
-
-[Klaus Schulze](https://amzn.to/4pCnE5H)、[Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：與德國電子產品的融合。
-
-[The Orb](https://amzn.to/4pA2F3v)、[Aphex Twin](https://amzn.to/46GS9Ps)：從技術到 IDM 角度重建環境。
-
-Ambient House/Ambient Techno 的興起。
+- [**Ambient 1: Music for Airports（1978）**](https://amzn.to/48shEpU)
 
 ---
 
-**● 自 2000 年以來：超越類型的滲透**
+**● 1980〜1990年代：電子音楽との融合**
 
-擴展到錄像作品、當代藝術、瑜伽、冥想、遊戲音樂和 VR 空間。
+[Klaus Schulze](https://amzn.to/4pCnE5H), [Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：ジャーマン・エレクトロニクスとの融合。
 
-Spotify 的「chill」和「lo-fi」播放清單也受到影響。
+[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps)：テクノ〜IDMの視点からアンビエントを再構築。
+
+Ambient House / Ambient Technoの隆盛。
+
+---
+
+**● 2000年以降：ジャンルを越えた浸透**
+
+映像作品、現代美術、ヨガ、瞑想、ゲーム音楽、VR空間へと進出。
+
+Spotifyの「チル」や「Lo-fi」系プレイリストにも影響。
 
 
-<小時>
+<hr>
 
-### 沒有輪廓的聲音結構
+### 輪郭を持たない音の建築
 
 <div class="table-border">
 <table>
@@ -127,89 +127,89 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 <br>
 
 
-<小時>
+<hr>
 
-### 主要亞類型及其特徵
+### 主なサブジャンルとその特徴
 
-**● 黑暗環境**
+**● ダーク・アンビエント（Dark Ambient）**
 
-令人不安的無人機，工業質感。
+不穏なドローン、インダストリアルな質感。
 
-藝術家：[Lustmord](https://amzn.to/3IAUS4H)、[存在理由](https://amzn.to/4nJFtOu)
+アーティスト：[Lustmord](https://amzn.to/3IAUS4H), [Raison d’être](https://amzn.to/4nJFtOu)
 
-**● 環境科技**
+**● アンビエント・テクノ（Ambient Techno）**
 
-將技術節奏與環境空間處理融合在一起。
+テクノのリズムにアンビエントの空間処理を融合。
 
-**藝術家**：[The Orb](https://amzn.to/48qQQ9x)、[全球通訊](https://amzn.to/3K8GJMK)、[Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
+**アーティスト**：[The Orb](https://amzn.to/48qQQ9x), [Global Communication](https://amzn.to/3K8GJMK), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
 
-**●環境無人機**
+**● アンビエント・ドローン**
 
-透過聲音波動和微小變化深度沉浸。
+音の揺らぎ、微細な変化による深い没入。
 
-藝術家：[Stars of the Lid](https://amzn.to/3Kztvsh)、[William Basinski](https://amzn.to/3VrnPmC)、[Eliane Radigue](https://amzn.to/4mrOevu)
+アーティスト：[Stars of the Lid](https://amzn.to/3Kztvsh), [William Basinski](https://amzn.to/3VrnPmC), [Eliane Radigue](https://amzn.to/4mrOevu)
 
-**●環境工業**
+**● アンビエント・インダストリアル**
 
-將工廠聲音和機器噪音音樂化。
+工場音、機械ノイズを音楽化。
 
-**藝術家**：[有傷口的護士](https://amzn.to/46QgJyk)、[線圈](https://amzn.to/48sI7nd)
+**アーティスト**：[Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
 
-**●新時代/放鬆**
+**● ニューエイジ／チルアウト系**
 
-用於放鬆和冥想的環境音樂。
+リラクゼーションや瞑想を目的にしたアンビエント。
 
-[恩雅](https://amzn.to/46vL0Bg)、[史蒂夫羅奇](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB)等
-
-
-
-<小時>
-
-### 氛圍是空間藝術
-
-氛圍音樂不僅僅是背景音樂，它還與以下思想和藝術理念有著深刻的聯繫。
-
-**● 極簡主義與時間藝術**
-
-氛圍音樂強調「靜止」、「空白」和「永續性」。
-
-對建築和當代藝術有濃厚的興趣（[馬克·羅斯科](https://amzn.to/48uPz1g)、[唐納德·賈德](https://amzn.to/3W0xzEv))。
-
-**● 賽博龐克與未來城市**
-
-一種融入未來城市無機空間的聲音。
-
-來自《銀翼殺手》(https://amzn.to/4gzcASG) 和《攻殼機動隊》(https://amzn.to/4gy1ZaG) 等電影的音景。
-
-**●回歸自然與冥想文化**
-
-他利用現場錄音和自然聲音，旨在融合人造和自然。
-
-與現代心理健康/冥想/慢科技密切相關。
+[Enya](https://amzn.to/46vL0Bg)、[Steve Roach](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB) など。
 
 
-<小時>
 
-### 環境在現代的作用
+<hr>
 
-**遊戲音樂**：用於《寂靜嶺》(https://amzn.to/3IzI2nf)、《征途》(https://amzn.to/4nrbICj)、《無人深空》(https://amzn.to/3W14b0P)等。
+### アンビエントは空間芸術である
 
-**ASMR/冥想/壓力緩解**：也用於心理健康和保健行業。
+アンビエント音楽は単なるBGMではなく、次のような思想・芸術概念とも深く結びついている。
 
-與 NFT 藝術和生成音樂的融合也在進行中。
+**● ミニマリズムと時間芸術**
+
+アンビエントは「静けさ」「余白」「持続」を重視する。
+
+建築、現代美術（[マーク・ロスコ](https://amzn.to/48uPz1g)、[ドナルド・ジャッド](https://amzn.to/3W0xzEv)）との親和性。
+
+**● サイバーパンクと未来都市**
+
+近未来都市、無機質な空間に馴染む音。
+
+映画[『ブレードランナー』](https://amzn.to/4gzcASG)[『攻殻機動隊』](https://amzn.to/4gy1ZaG)などのサウンドスケープ。
+
+**● 自然回帰と瞑想文化**
+
+フィールドレコーディングや自然音を用いて人工と自然の融合を図る。
+
+現代のメンタルヘルス／瞑想／スローテックと結びつきが強い。
 
 
-<小時>
+<hr>
 
-### Ambient是「音樂」和「空間」的交集
+### 現代におけるアンビエントの役割
 
-氛圍音樂是指不在音樂中心，而是在外圍的音樂。它是一門不涉及旋律或節奏的藝術，而是涉及氣氛、時間、感覺和意識的轉變。
+**ゲーム音楽**： [Silent Hill](https://amzn.to/3IzI2nf), [Journey](https://amzn.to/4nrbICj), [No Man's Sky](https://amzn.to/3W14b0P) などで使用。
 
-這是一種超越音樂框架的聲音，進入城市喧囂和記憶縫隙中的寂靜。這是一種你可以在空間中感受到的聲音，而不是用耳朵聽到的聲音。
+**ASMR / 瞑想 / ストレス緩和**： 精神医療やウェルネス業界でも活用。
 
-<小時>
+NFTアートやジェネレーティブ・ミュージックとの融合も進行中。
 
-### 清單
+
+<hr>
+
+### アンビエントとは「音楽」と「空間」の交差点
+
+アンビエントとは、音楽の“中心”ではなく、“周辺”にあるもの。旋律やリズムではなく、空気、時間、感覚、意識の変容を扱う芸術である。
+
+それは、音楽という枠組みを越え、都市のノイズの中の静寂や、記憶と記憶の隙間に入り込むような音。耳で聴くというより、空間ごと感じる音なのだ。
+
+<hr>
+
+### List
 
 <div class="table-border">
 <table>
@@ -276,17 +276,17 @@ Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 ---
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3aay4XuKsoQ?si=DAZIUgSUApmhtjlJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 相關專欄
+### 関連コラム
 
-🔗 [[專欄]氛圍：從「聽音樂」到「感受音樂」II](https://monumental-movement.jp/Column-Ambient2)
+🔗  [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
 
 
 ---

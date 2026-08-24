@@ -9,13 +9,13 @@ permalink: /zh-hant/m-flo-theme-from-the-black-house/
 tags:
 - JPop
 - Soundtrack
-title: m-flo – 黑屋主題曲
+title: m-flo – Theme From The Black House (黒い家)
 ---
 
 
-這是 1999 年發行的電影《黑井家》主題曲的單曲，其中包含 m-flo 的曲目。
+1999年にリリースされたm-floのトラックが収録された映画「黒い家」の主題歌のシングルカットです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. M-Flo–Chronopsychology
 
@@ -32,7 +32,7 @@ B3. Tetsuo Yamazaki–The Black House
 B4. Tetsuo Yamazaki–Five Quarter
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m16599032902?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16599032902?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2H9LIAOP18?si=GPoG2uiJFmFsoYXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

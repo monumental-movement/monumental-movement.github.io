@@ -11,18 +11,18 @@ tags:
 - Funk
 - Soul
 - 90s
-title: 塞西爾帕克 – 跳舞吧
+title: Cecil Parker – Dance Everybody
 ---
 
 
-塞西爾·帕克是一位來自費城的四、八度歌手和詞曲作者。
+Cecil Parker(セシル・パーカー)は、フィラデルフィア出身の4オクターブを自在に操るボーカリスト&ソングライター。
 
-最著名的是 1980 年發行的深情民謠《真的，真的愛你》和《愛是》。
+1980年にリリースしたソウルフルなバラード「Really, Really Love You」と「Love Is」でよく知られている。
 
-《DanceEverybody》是 1992 年在 Echo Dance 上發行的一首 house 曲目，Echo Dance 是美國早期 house 廠牌 Echo USA 的子廠牌。由傑弗裡·柯林斯製作，詹姆斯·布拉頓和馬龍·格蘭特混音。
+「Dance Everybody」は、1992年に初期のUSハウスレーベルEcho USAのサブレーベルEcho DanceからリリースされたHouseトラック。プロデューサーはJeffrey Collins、リミックスはJames BrattonとMarlon Grant。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Dance Everybody (Club Remix)
 A2. Dance Everybody (Club Dub)
@@ -31,7 +31,7 @@ B1. Dance Everybody (Original Vocal)
 B2. Dance Everybody (Backburner Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BKvKt6pFzp0?si=UBe9tm-kfeqVyTOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,15 +9,15 @@ permalink: /zh-hant/bit-max-dig-it/
 tags:
 - Techno
 - 90s
-title: Bit-Max – 挖掘它
+title: Bit-Max – Dig-It
 ---
 
 
 Bit-MaxことMaurizio Pavesiは、イタリアのプロデューサー／DJ。イタロ・ダンスプロジェクトAlphabet、DJ Zanza、Pavesi Soundなど様々な名義で活動した。
 
-《Dig-It》是一首 Techno 曲目，於 1999 年在義大利米蘭的 House 廠牌 Beat Club Records 上發行。
+「Dig-It」は、1999年にイタリア・ミラノのHouseレーベルBeat Club RecordsからリリースされたTechnoトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Dig-It (Club Mix)
 
@@ -25,7 +25,7 @@ B1. Dig-It (Techno Mix)
 B2. Dig-It (Alternative Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m83352641710?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83352641710?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kfr3Uib6iSs?si=NtXw4UzmrPd1E0pR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

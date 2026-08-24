@@ -9,22 +9,22 @@ permalink: /zh-hant/underworld-cowgirl-rez/
 tags:
 - Techno
 - Progressive
-title: 黑夜傳說－女牛仔雷茲
+title: Underworld – Cowgirl Rez
 ---
 
 
-1994年發行的《Cowgirl》和1993年發行的《Rez》是Underworld在90年代的標誌性歌曲。
+1994年にリリースされた「Cowgirl」と1993年にリリースされた「Rez」は、Underworldの90年代の代表曲。
 
-《Cowgirl》是一首獨特的歌曲，將情感旋律與電子聲音結合。 《Rez》融合了高能量的 techno 節拍和 house 音樂，兩者都被認為是那個時代的經典。
+「Cowgirl」は、エモーショナルなメロディとエレクトロニックサウンドが融合した特徴的なトラック。「Rez」は、ハイエナジーなテクノビートとハウスミュージックが融合したサウンドで、どちらもこの時代のクラシックとされているトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Cowgirl
 
 B. Rez
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m12368134512?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12368134512?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/feWNvGpWHLM?si=F4qXcSX8HtWErjar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

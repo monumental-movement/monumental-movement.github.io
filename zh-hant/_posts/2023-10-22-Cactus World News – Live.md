@@ -9,15 +9,15 @@ permalink: /zh-hant/cactus-world-news-live/
 tags:
 - Rock
 - Alternative Rock
-title: 仙人掌世界新聞 - 直播
+title: Cactus World News – Live
 ---
 
 
-這張專輯是1986年8月20日在洛杉磯The Whiskey舉行的一場音樂會的現場錄音。
+このアルバムは、1986年8月20日ロサンゼルスのThe Whiskyでおこなわれたコンサートのライブ録音。 
 
-B面的第三首「America」是西蒙與加芬克爾歌曲的翻唱。
+B面3曲目の「America」は、サイモン＆ガーファンクルの曲のカバー。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Church Of The Cold
 
@@ -38,7 +38,7 @@ B3. America
 B4. Jigsaw Street
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1b0OiptaQZA?si=osnpIxw7p8ShnR4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

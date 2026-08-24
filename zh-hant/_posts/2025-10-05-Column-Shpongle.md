@@ -10,16 +10,16 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: 【專欄】Shpongle：聲音的輪迴與意識之旅
+title: 【コラム】 Shpongle：音の輪廻と意識の旅
 ---
 
 
-## Raja Ram x Simon Posford：相遇與化學反應
+## Raja Ram × Simon Posford：出会いと化学反応
 
-文：mmr｜主題：Raja Ram 和 Simon Posford 繪製的聲學宇宙哲學
+文：mmr｜テーマ：Raja RamとSimon Posfordが描く音響宇宙の哲学
 
 
-Shpongle 是一個以 Simon Posford 和 Raja Ram 為中心的紀念性迷幻電子/迷幻計畫。他們成立於 1996 年，受到印度日全食的啟發，呈現了一場融合民族採樣、聲學樂器和精湛工作室製作的「音頻之旅」。他們的聲音像與俱樂部導向的恍惚音樂截然不同，並邀請聽眾聆聽一個超越時空的故事。
+Shpongle（シュポングル）は、Simon Posford（サイモン・ポスフォード）とRaja Ram（ラージャ・ラム）を中心としたサイケデリック・エレクトロニカ／プシービエントの金字塔的プロジェクトです。1996年にインドでの皆既日食に触発されて結成され、民族音楽的サンプリング、アコースティック楽器、そして卓越したスタジオ・プロダクションを融合させた「聴覚の旅（audio-journey）」を提示してきました。彼らの音像はクラブ志向のトランスとは一線を画し、リスナーを時間と空間を超える物語へと誘います。
 
 ---
 
@@ -36,28 +36,28 @@ color: #fff;
 </style>
 
 
-## 序言：聲音是啟蒙之門
+## 序章：サウンドは悟りへの扉である
 
-Shpongle 不只是一個電子音樂單位。
-它是現代電子音樂的精神巔峰，體現了**聲音啟蒙**。
+Shpongle（シュポングル）は、単なるエレクトロニック・ミュージックのユニットではない。
+それは**音による悟り（Sound Enlightenment）**を体現した、現代電子音楽の霊的頂点である。
 
-成員包括迷幻聖人 Raja Ram（前 Quintessence 樂隊）和聲音魔術師 Simon Posford（致幻劑）。
-樂團於 1996 年在倫敦郊外的 Twisted Records 工作室一次偶然的機會下誕生。
-他們的聲音是一種獨特的“聲音曼陀羅”，結合了意識、冥想、視覺、哲學和技術。
+メンバーは、サイケデリック界の賢者 Raja Ram（元Quintessence）と、音響魔術師 Simon Posford（Hallucinogen）。
+1996年、ロンドン郊外のTwisted Recordsスタジオでの偶然のセッションから誕生した。
+彼らの音は、意識・瞑想・幻視・哲学・テクノロジーが一体となった、唯一無二の“音の曼荼羅”である。
 
-> “Shpongle 是透過聽覺獲得啟發的體驗。”
-> — 西蒙·波斯福德
+> 「Shpongleとは、聴覚を通じて悟りを体験すること。」
+> — Simon Posford
 
 ---
 
-## 第一章：Shpongle的誕生與Twisted Records的歷史背景
+## 第一章：Shpongleの誕生とTwisted Recordsの時代背景
 
-20 世紀 90 年代，英國迷幻文化正處於發展的十字路口。
-果阿 Trance 熱潮席捲歐洲，LSD 文化與科技融合的時期。
-這一趨勢的中心是 Twisted Records（1996 年至今）。
+1990年代、英国のサイケデリック・カルチャーは進化の分岐点にあった。
+Goa Tranceの熱狂がヨーロッパを席巻し、LSD文化がテクノロジーと融合する時代。
+この流れの中心にあったのが Twisted Records（1996〜） だ。
 
-Twisted發行了以Posford為中心的精神和智力恍惚音樂，包括《迷幻劑》、《弟弟》、《普羅米修斯》和《凱爾特十字》。
-Shpongle 的誕生以「內在宇宙之旅」為核心主題。
+TwistedはPosfordを中心に、Hallucinogen、Younger Brother、Prometheus、Celtic Crossなど、精神的かつ知的なトランス音楽を発信。
+Shpongleはその中核として、“内的宇宙への旅”をテーマに誕生した。
 
 ---
 
@@ -72,41 +72,41 @@ flowchart TD
 
 </div>
 
-Twisted 是英國迷幻文化的「知識聖地」。
-這不是毒品幻想，而是對聲音和意識的科學探索。
-Shpongle 是它的哲學象徵。
+Twistedは、**UKサイケデリック文化の「知性の聖地」**として機能した。
+薬物幻想ではなく、音と意識の科学的探求。
+Shpongleはその哲学的象徴だった。
 
 ---
 
-## 第 2 章：Shpongle 透過專輯進行的聲音演變
+## 第二章：アルバムで辿るShpongleの音響進化
 
-|年份|專輯名稱|概念|連結 |
+| 年    | アルバム名          | コンセプト       | リンク                  |
 | ---- | ----------- | ----------- | -------------- |
-| 1998 | *你是Spongled嗎？ * |您的聲音之旅的起點 | [亞馬遜](https://amzn.to/4pQRXpz) |
-| 2001 | *無法表達的故事* |民族融合心智拓展| [亞馬遜](https://amzn.to/46U26sT) |
-| 2005 | *沒有什麼會長久…但沒有什麼會失去* |聲音的無常與再生| [亞馬遜](https://amzn.to/3Wk98SG) |
-| 2009 | *來自 Shpongleland 的不可言喻的秘密* |神秘體驗的聲音| [亞馬遜](https://amzn.to/4mKX73D) |
-| 2013 | *意識博物館* |意識博物館| [亞馬遜](https://amzn.to/3VPumaU) |
-| 2017 | 2017 *食典六* |識書=輪迴完成| [亞馬遜](https://amzn.to/46DNy1D) |
+| 1998 | *Are You Shpongled?*          | 音の旅の出発点     | [Amazon](https://amzn.to/4pQRXpz) |
+| 2001 | *Tales of the Inexpressible*            | 精神拡張の民族融合   | [Amazon](https://amzn.to/46U26sT) |
+| 2005 | *Nothing Lasts... But Nothing Is Lost*  | 音の無常と再生     | [Amazon](https://amzn.to/3Wk98SG) |
+| 2009 | *Ineffable Mysteries from Shpongleland* | 神秘体験の音響化    | [Amazon](https://amzn.to/4mKX73D) |
+| 2013 | *Museum of Consciousness*               | 意識の博物館      | [Amazon](https://amzn.to/3VPumaU) |
+| 2017 | *Codex VI*                              | 意識の書物＝輪廻の完成 | [Amazon](https://amzn.to/46DNy1D) |
 
 
 ---
 
-每張專輯都是生命循環的一部分——幻覺——啟蒙——重生。
-音樂的進化直接對應於精神的進化。
+各アルバムは「生 → 幻 → 悟り → 再生」という輪廻の一部。
+音楽的進化がそのまま精神的進化に対応している。
 
 ---
 
 
-### 第三章：每首歌的結構分析－聲音的輪迴
+### 第三章：曲ごとの構造分析 - 音の輪廻
 
-|舞台|歌曲名稱|亮點|哲學意義|
-| --| ---------------------------------- | -------------- | ----------- |
-|一代| “神聖的真理時刻” | DMT 樣品，螺旋節奏 |婆羅門（創造）|
-|擴充| “一種說萬歲的新方式！” |多層打擊樂|莉拉（眾神遊戲）|
-|錯覺| 「沒有什麼是值得做的」|節律崩潰的再生 |瑪雅（幻覺）|
-|解放| “不可言喻的奧秘” |聲音的消失|解脫（解放）|
-|重播| “馬貢巴州”|長笛回歸 |輪迴|
+| 段階 | 曲名                                 | 聴きどころ          | 哲学的意味       |
+| -- | ---------------------------------- | -------------- | ----------- |
+| 生成 | “Divine Moments of Truth”          | DMTサンプル、螺旋的リズム | Brahman（創造） |
+| 拡張 | “A New Way to Say Hooray!”         | 多層パーカッション      | Lila（神の遊戯）  |
+| 幻化 | “Nothing Is Something Worth Doing” | リズム崩壊から再生      | Maya（幻影）    |
+| 解脱 | “Ineffable Mysteries”              | 音の消失           | Moksha（解放）  |
+| 再生 | “The Magumba State”                | フルートの帰還        | Saṃsāra（輪廻） |
 
 ---
 
@@ -122,12 +122,12 @@ flowchart TD
 
 ---
 
-Shpongle 的歌曲在一首歌中創造、毀滅和再生宇宙。
-傾聽本身就是一種哲學行為。
+Shpongleの曲は、一曲の中で宇宙を生成し、破壊し、再生する。
+聴くこと自体が哲学行為である。
 
 ---
 
-## 第 4 章：現場與節慶年表
+## 第四章：ライブとフェス年表
 
 <div class="mermaid">
 
@@ -142,23 +142,23 @@ flowchart TD
 
 ---
 
-#### Shpongletron：聲光曼陀羅
+#### Shpongletron：音と光のマンダラ
 
-現場表演時使用了一個名為 Shpongletron 的巨大視訊設備。
-Android Jones 的視覺效果與聲音同步。
-Raja Ram 將作為“儀式大師”登台，而 Posford 將作為“聲音煉金術士”。
-現場表演本身就成為冥想體驗的延伸。
+ライブではShpongletronと呼ばれる巨大映像装置が使用され、
+Android Jonesのヴィジュアルが音と同期。
+Raja Ramは「儀式の導師」、Posfordは「音の錬金術師」として舞台に立つ。
+ライブそのものが瞑想体験の延長となっている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30IjJDKnloc?si=MovZTwgFHIJDjhzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第五章：拉惹拉姆思想史與印度教哲學
+## 第五章：Raja Ramの思想史とヒンドゥー哲学
 
-#### 從嬉皮文化到聲音瑜伽
+#### ヒッピー文化から音のヨーガへ
 
-20 世紀 60 年代末，Raja Ram 領導了 Quintessence，將印度教哲學引入搖滾樂。
-他在音樂上實踐了「聲音=啟蒙」和「聲音=神（Nāda Brahma）」的想法。
+1960年代末、Raja RamはQuintessenceを率い、ヒンドゥー哲学をロックに導入。
+「音＝悟り」「音＝神（Nāda Brahma）」という思想を音楽的に実践した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QDleD84Q-pQ?si=H_Iq3nRQ1-L7ML2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -180,181 +180,181 @@ flowchart TD
 
 ---
 
-|印度教哲學|音樂通訊|
+| ヒンドゥー哲学        | 音楽的対応        |
 | -------------- | ------------ |
-| **婆羅門** |聲音的創意能量|
-| **瑪雅（幻影）** |聲音變化與多層|
-| **阿特曼（一）** |聽者的內在意識 |
-| **莉拉（飾演）** |歌曲中的幽默與轉變|
-| **Nāda（聲音）** |宇宙的振動=聲音本身|
+| **Brahman（梵）** | 音の創造エネルギー    |
+| **Maya（幻）**    | サウンドの変化と多層化  |
+| **Atman（我）**   | リスナーの内的意識    |
+| **Lila（戯れ）**   | 曲中のユーモアと変容   |
+| **Nāda（音）**    | 宇宙の振動＝音響そのもの |
 
 
-對 Raja Ram 來說，聲音就是祈禱，Shpongle 就是他的口頭禪。
+Raja Ramにとって音は祈りであり、Shpongleはそのマントラである。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxVwB-R12mw?si=zimBm8ivqEbvqFLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第 6 章：西蒙波斯福德 - 聲音魔術師的製作概念
+## 第六章：Simon Posford - 音響魔術師の制作哲学
 
-Posford 將經典合成器（Virus、Nord Lead、Roland SH-101）與現代 DAW（Logic Pro、Ableton）結合。
-數十層聲音分層，有意設計「與腦電波共鳴」。
-他的作品具有一貫的三層結構：低音=身體，泛音=意識，殘響=靈性。
+Posfordは、古典的シンセ（Virus, Nord Lead, Roland SH-101）と現代DAW（Logic Pro, Ableton）を融合。
+音の層を何十にも重ね、「脳波との共鳴」を意図的に設計する。
+彼の作品では、低音域＝身体、倍音＝意識、残響＝霊性という三層構造が一貫している。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Yl-hUHbeGA?si=7A0asG2o9izwVN6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 生產流程範例
+#### 制作ワークフロー例
 
-- 自然聲音和民族聲音取樣
+- 自然音・民族音声のサンプリング
 
-- 合成器上的微音處理（失諧）
+- シンセで微分音的処理（Detuning）
 
-- 相位反轉和反向混響
+- 位相反転とリバースリバーブ
 
-- 與腦波節律同步（Theta/Alpha）
+- 脳波リズム（Theta / Alpha）に同期
 
-- 3D 空間重建（Ambisonics）
+- 立体空間で再構築（Ambisonics）
 
-> “我不想創造聲音，而是想引導出現的聲音。”
-> — 西蒙·波斯福德
+> 「音を作るというより、“現れる音”を導く感覚なんだ。」
+> — Simon Posford
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第7章：與小弟/致幻劑的比較分析
+## 第七章：Younger Brother / Hallucinogenとの比較分析
 
-|項目|方向 |靈性|聲音特徵|
-| -------------------- | -------- | -------- | -------- |
-| **致幻劑** |外部幻覺|化學恍惚| BPM 快/銳 |
-| **弟弟** |內在精神探索 |情感/歌詞|有機/流行導向 |
-| **Shpongle** |意識與空間融合|哲學/靈性|超建設性/多層聲學|
+| プロジェクト              | 方向性      | 精神性     | 音の特徴      |
+| ------------------- | -------- | ------- | --------- |
+| **Hallucinogen**    | 外的幻覚     | 化学的トランス | BPM速・鋭い   |
+| **Younger Brother** | 内的精神探求   | 感情・叙情性  | 有機的／ポップ寄り |
+| **Shpongle**        | 意識と宇宙の融合 | 哲学・霊性   | 超構築的・多層音響 |
 
 ---
 
-#### 迷幻藥（西蒙波斯福德）@Ozora Festival 2015
+#### Hallucinogen (Simon Posford) @ Ozora Festival 2015
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 弟弟“旋轉到位”
+#### Younger Brother "Spinning Into Place"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第 8 章：Nāda Brahma 與聲音冥想的練習
+## 第八章：Nāda Brahmaと音響瞑想の実践
 
-#### 納達梵天是什麼？
+#### Nāda Brahmaとは？
 
-> 「宇宙是聲音，聲音就是上帝。」
+> 「宇宙は音であり、音は神である。」
 
-這種古老的印度哲學是 Shpongle 的基礎。
-聲音產生、改變、消失，然後再再生。
-這就是輪迴本身。
+この古代インドの思想は、Shpongleの根幹。
+音は生まれ、変化し、消え、また再生する。
+それが輪廻そのものだ。
 
-#### Shpongle 風格聲學冥想法
+#### Shpongle式 音響瞑想法
 
-- 在黑暗的房間裡呼吸
+- 暗室で呼吸を整える
 
-- 播放神聖的真理時刻
+- 『Divine Moments of Truth』を再生
 
-- 專注於聲音「誕生」的那一刻
+- 音が“生まれる”瞬間に意識を集中
 
-- 聲音的層次擴大，界線消失。
+- 音の層が拡がり、境界が消える
 
-- 當你陷入沉默時，傾聽內心的聲音
+- 無音に至ったとき、内なる音を聴く
 
-從科學角度來說，α波和θ波占主導地位，導致深度冥想狀態。
-Shpongle的聲音就像大腦中的寺廟鐘聲。
+科学的には、α波・θ波が優位化し、深い瞑想状態に導かれる。
+Shpongleの音は脳内寺院の鐘のようなものだ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l1cFqTQtqlg?si=sRVoaPx2fgoyyRva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第9章：與迷幻視覺效果的共鳴
+## 第九章：サイケデリック・ヴィジュアルとの共振
 
-Shpongle 不僅透過聲音完成，還透過與視覺藝術的共鳴來完成。
-他因與 Android Jones（數位視覺畫家）和 Alex Gray（精神畫家）的合作而聞名。
+Shpongleは音だけでなく、視覚芸術との共鳴によって完成する。
+特に Android Jones（デジタル幻視画家）や Alex Grey（スピリチュアル画家）とのコラボは有名。
 
 ---
 
-|藝術家 |作品/關係 |特色|
+| アーティスト            | 作品／関係             | 特徴         |
 | ----------------- | ----------------- | ---------- |
-| **安卓瓊斯** | Shpongletron 視覺 |視覺曼陀羅生成|
-| **亞歷克斯·格雷** |分享「聲音=光=意識」主題|人體與宇宙的融合表達 |
+| **Android Jones** | Shpongletronビジュアル | 視覚的マンダラ生成  |
+| **Alex Grey**     | 「音＝光＝意識」テーマ共有     | 人体と宇宙の融合表現 |
 
 ---
 
-#### 海綿狀機器人
+#### SHPONGLEDROID
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6psEGx965pE?si=qlLFuLea9axB5RyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 亞歷克斯·格雷 & Shpongle
+#### Alex Grey & Shpongle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYoUm2j-cdE?si=SUb9vIQUlQOF9pdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第10章：Shpongle的心理聲學－大腦與意識的互動
+## 第十章：Shpongleの音響心理学 - 脳と意識の相互作用
 
-波斯福德將聲音建構為一種神經儀式。
-起伏的低音與心率變化產生共鳴，長笛的泛音刺激大腦中的松果體。
-這種結構會引起一種稱為「聲學旅行」的心理現象。
-
----
-
-|聲學元件|生理影響|心理經驗|
-| ------ | -------- | -------- |
-|低頻底座|呼吸與心跳同步|接地氣|
-|高頻泛音|松果體活動|幻視/時間膨脹|
-|殘響殘響|空間定位的擴展|自我消解|
-|多重節奏 |認知延遲 |夢幻漂浮感|
-
-從科學角度來說，Shpongle 是一個「用聲音重組大腦」的計畫。
+Posfordは音を神経学的儀式として構築する。
+低音のうねりは心拍変動と共鳴し、フルートの倍音は脳の松果体を刺激する。
+この構造は「音響トリップ」と呼ばれる心理現象を引き起こす。
 
 ---
 
-## 最後一章：聲音啟蒙 - Shpongle 存在的理由
+| 音響要素   | 生理的影響    | 心理的体験     |
+| ------ | -------- | --------- |
+| 低周波ベース | 呼吸・心拍の同期 | グラウンディング感 |
+| 高周波倍音  | 松果体活性    | 幻視・時間伸張   |
+| リバーブ残響 | 空間定位の拡張  | 自我の溶解     |
+| ポリリズム  | 認知遅延     | 夢幻的浮遊感    |
 
-拉賈·拉姆說。
+科学的にも、Shpongleは「音で脳を再構築する」プロジェクトである。
 
-> “我是一個聲音旅行者。我不是在尋找上帝，而是在聲音中醒來。”
+---
 
-Shpongle 是一部 21 世紀的經典，誕生於科技與靈性的交會處。
-電子聲音變成了咒語，節拍變成了冥想，聆聽變成了祈禱。
+## 終章：音としての悟り - Shpongleの存在意義
 
-聲音誕生、改變、歸於寂靜、又再次復活。
-這個無盡的循環就是“聲音的輪迴”，這正是 Shpongle 所描繪的世界。
+Raja Ramは言う。
 
->  “沒有什麼會持久……但也沒有什麼會失去。”
-> - 一切都消失了，但什麼也沒有失去。
+> 「私は音の旅人だ。神を探す代わりに、音の中で目覚める。」
+
+Shpongleとは、テクノロジーと霊性の交差点で生まれた21世紀の経典。
+電子音がマントラとなり、ビートが瞑想となり、聴くことが祈りになる。
+
+音は生まれ、変化し、沈黙へと帰り、再び甦る。
+その無限の循環こそが「音の輪廻（Saṃsāra of Sound）」であり、Shpongleが描く世界そのものだ。
+
+>  “Nothing Lasts... But Nothing Is Lost.”
+> ― すべては消え、しかし何も失われない。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Irz9PNHqt-Y?si=uVuPKwcOluvrnRII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 結論
+## 結語
 
-Shpongle 是 21 世紀「聲音啟蒙」的體現。
-聲音超越了科學、哲學、宗教和技術。
-他正在將人類意識本身重建為聲音。
+Shpongleは「音による悟り」を21世紀の形で体現した存在である。
+その音は、科学・哲学・宗教・テクノロジーを超えて、
+人間の意識そのものを音として再構築している。
 
-這不僅僅是音樂。
-這是「傾聽」行為本身的演變，
-它是 Raja Ram 和 Simon Posford 留給人類的意識壇城。
+それは単なる音楽ではない。
+それは「聴く」という行為そのものの進化であり、
+Raja RamとSimon Posfordが人類に残した、意識の曼荼羅なのだ。
 
-> “聲音產生，消失，然後再次返回。這就是 Shpongle。”
+> 「音は生まれ、消え、また還る。 それが、Shpongleするということ。」
 
 ---
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HPwvkufD9TM?si=_varYnlN27xJ2OY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

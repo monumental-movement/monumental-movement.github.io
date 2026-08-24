@@ -10,17 +10,17 @@ tags:
 - Jazz
 - African
 - 70s
-title: 美元品牌－古代非洲
+title: Dollar Brand – Ancient Africa
 ---
 
 
-南非鋼琴家兼作曲家阿卜杜拉·易卜拉欣（又名 Dollar Brand）於 1974 年在 Trio Records 發行的後波普專輯。
+南アフリカ人のピアニスト、作曲家Dollar BrandことAbdullah Ibrahim（アブドゥーラ・イブラヒム）が1974年にTrio Recordsからリリースしたポスト・バップアルバム。
 
-專輯《Dollar Brand - 古代非洲》於1972年6月在哥本哈根蒙馬特爵士樂店現場錄製。
+このアルバム 「ダラー・ブランド – 古代アフリカ」は、1972年6月にコペンハーゲンのJazz-Hus Montmartreでのライブ録音。
 
-阿布杜拉·易卜拉欣因透過音樂為日本和南非共和國之間的友誼做出了貢獻而於 2020 年被授予旭日勳章。
+Abdullah Ibrahim（アブドゥーラ・イブラヒム）は、2020年に音楽を通じた日本・南アフリカ共和国間の友好親善に寄与したとして旭日双光章を受章。
 
-#### 曲目表
+#### Tracklist
 ```md
 Aa. Bra Joe From Kilimanjaro
 
@@ -45,7 +45,7 @@ Bd. Peace - Salaam
 Be. Air
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
 
 
 

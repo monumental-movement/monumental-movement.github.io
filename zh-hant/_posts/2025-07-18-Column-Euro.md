@@ -9,29 +9,29 @@ permalink: /zh-hant/column-euro/
 tags:
 - Euro
 - 90s
-title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛宴'
+title: 【コラム】 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴
 ---
 
 
-## 90 年代的歐洲音樂是什麼？ ──舞池與旋律的盛宴
+## 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴
 
-文：mmr｜主題：90年代歐洲音樂文化全貌
-
-
-
-<小時>
-
-### 歐洲音樂的真實身分是什麼？
-
-1990年代的「歐洲音樂」並不是特定的流派，而是主要在歐洲大陸發展的流行舞曲流行音樂的總稱。
-其中最具代表性的是“Eurobeat”和“Eurodance”，但其他流派如 Eurotrance、高能量和合成流行樂也同時運作。
-
-換句話說，20世紀90年代的歐元是“現代歐洲的流行形象”，融合了派對文化、舞曲、朗朗上口的旋律和技術。
+文：mmr｜テーマ：90年代のユーロ・ミュージック文化の全貌
 
 
-<小時>
 
-### 主要流派分類及特點
+<hr>
+
+### Euroと呼ばれる音楽の正体とは？
+
+90年代の「ユーロ・ミュージック（Euro Music）」とは、特定のジャンルというより、ヨーロッパ大陸を中心に発展した大衆的ダンス・ポップ音楽の総称である。
+中でももっとも象徴的なのは「ユーロビート」や「ユーロダンス（Eurodance）」だが、それに留まらず、ユーロトランス、ハイエナジー、シンセポップなども同時期に併走していた。
+
+つまり90年代のユーロは、**パーティ・カルチャー、ダンス・ミュージック、キャッチーなメロディとテクノロジーが融合した“現代ヨーロッパのポップ像”**だったのだ。
+
+
+<hr>
+
+### 主なジャンル分類と特徴
 
 <div class="table-border">
 <table>
@@ -78,143 +78,143 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 </div>
 
 
-<小時>
+<hr>
 
-### 冷戰後的歐洲與流行音樂的共同語言
+### 冷戦後ヨーロッパとポップの共通言語
 
-1989年柏林圍牆倒塌後，歐洲迅速轉變為跨國娛樂市場。 「用英語演唱的歐洲流行音樂」甚至開始從非英語國家（如德國、荷蘭、義大利和瑞典）進入國際市場。
+1989年のベルリンの壁崩壊以降、ヨーロッパは急速に国境を越えたエンタメ市場へと変化した。英語圏ではない国々（ドイツ、オランダ、イタリア、スウェーデンなど）からも、“英語で歌うユーロ・ポップ”が国際市場に進出するようになる。
 
-這意味著歐洲音樂是一種優先考慮感官愉悅而非政治界限的音樂文化。節奏、合成器和簡單、可重複的合唱。這些已經成為超越語言、超越國界的「共同語言」。
+これは、ユーロミュージックが政治的境界よりも感覚的快楽を優先する音楽文化であることを意味している。リズム、シンセ、そしてシンプルで繰り返しやすいサビ。これらは言語や国境を越える“共通言語”となった。
 
 
-<小時>
+<hr>
 
-### 主流成功案例（1990-1999）
+### メインストリームにおける成功例（1990〜1999）
 
-● [2 Unlimited – 「為此做好準備」 (1991)](https://amzn.to/4mXEgCl)
+● [2 Unlimited – “Get Ready For This” (1991)](https://amzn.to/4mXEgCl)
 
-來自荷蘭。 「歐洲舞曲」經常在體育場館和廣告中使用。
+オランダ発。スポーツ会場やCMにも多用される“Eurodanceアンセム”。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-● [基地王牌 – 「標誌」 (1993)](https://amzn.to/4mXEhGp)
+● [Ace of Base – “The Sign” (1993)](https://amzn.to/4mXEhGp)
 
-瑞典流行樂團。連續 100 年在 Billboard Hot 100 排行榜上排名第一。
+スウェーデンのポップグループ。Billboard Hot 100年間1位に輝く。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-● [Corona – “夜之節奏” (1994)](https://amzn.to/3KFlcLU)
+● [Corona – “Rhythm of the Night” (1994)](https://amzn.to/3KFlcLU)
 
-義大利製造。它在拉丁美洲市場也很受歡迎，展示了 Eurodance 的多功能性。
+イタリア産。中南米市場でもヒットし、Eurodanceの汎用性を示す。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwPkWV9ObwY?si=cg8-QZly--T47h0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-● [艾菲爾 65 – “藍色 (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
+● [Eiffel 65 – “Blue (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
 
-伊塔洛舞蹈的傑作。數位語音和旋律的融合。
+Italo Danceの代表作。デジタルボイスとメロディの融合。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 90年代聲音分佈
+### 90年代的な音の流通
 
-**● CD Maxi 單一培養**
+**● CDマキシシングル文化**
 
-一首歌包含多種混音和 B 面，使其適合俱樂部和家庭。
+1曲に複数のリミックスやB面を収録し、クラブ〜家庭まで対応。
 
-**●MTV歐洲**
+**● MTV Europe**
 
-銷售影片和音樂的「視覺舞蹈文化」基地。
+映像と音楽をセットで売る“ビジュアル・ダンスカルチャー”の拠点に。
 
-**● Super Eurobeat（日本）**
+**● スーパーユーロビート（日本）**
 
-日本Avex獨立開發的系列。也與頭文字 D 文化有關。
+エイベックスが日本で独自展開したシリーズ。頭文字D文化ともリンク。
 
-**●歐洲生產、日本分銷的重新進口光碟**
+**● ヨーロッパ製作、日本流通の逆輸入盤**
 
-由義大利和德國製作，日本策劃，國產CD（如MAHARAJA NIGHT）
-
-
-<小時>
-
-### 1990年代歐元在日本的接受度
-
-**Eurobeat**：avex 原創開發
-
-- 對TRF、globe、小室家族的影響。
-
-- 頭文字 D 和 Parapara 文化的核心。
-
-**Eurodance**：迪斯可與日本流行音樂的混合體
-
-- MAX、V6等日本團體已經發行許多翻唱作品了。
-
-**與視覺文化的融合**：非西歐文化
-
-- 它也被融入到動漫OP和遊戲BGM中，創造了一種「非西歐文化」。
+イタリア・ドイツ制作、日本企画、国内盤CD（例：MAHARAJA NIGHT）
 
 
-<小時>
+<hr>
 
-### 為什麼批評者忽視了它？ ──“輕盈”與“反藝術”
+### 日本における90'sユーロの受容
 
-歐洲音樂長期以來並未受到評論家的好評。原因如下：
+**ユーロビート**：avexによる独自展開
 
-- 結構簡單，歌詞淺薄（通常毫無意義）
+- TRF、globe、小室ファミリーへの影響。
 
-- 大量生產/匿名（特定藝術家的存在感較弱）
+- 頭文字Dやパラパラ文化の中核に。
 
-- 商業上的成功=對藝術性的不尊重
+**ユーロダンス**：ディスコ～J-Popのハイブリッド
 
-然而，從另一方面來說，這也證明了音樂可以觸及任何人。
+- MAXやV6など、日本のグループがカバーを多数リリース。
 
+**ヴィジュアル文化との融合**：非洋楽的ユーロ文化
 
-<小時>
-
-### 重新評估與復興：2020年代及以後的局勢
-
-近年來，歐洲音樂透過以下方式進行了重新評估：
-
-- Eurodance 是 Hyperpop 和 Y2K 音樂的起源
-
-- 90 年代回歸俱樂部場景（後歐洲舞曲）
-
-- 與 City Pop 一樣，來自日本的 Eurobeat 也被網路世代重新發現。
-
-此外，隨著 Spotify 和 YouTube 上播放量的增加，90 年代的歐元也吸引了新的受眾。
+- アニメOPやゲームBGMにも取り込まれ、“非洋楽的ユーロ文化”が成立。
 
 
+<hr>
 
-<小時>
+### なぜ批評家は無視したのか？──「軽さ」と「反芸術」
 
-### 歐洲音樂是“無國界的快樂”
+ユーロミュージックは批評家からは長らく評価されなかった。理由は以下の通り：
 
-1990 年代的歐洲音樂是一種將舞蹈、快樂和旋律變成一種國際語言的現象，而不是歌詞或政治。
-這種輕盈成為一種武器，使他能夠超越流派界限和價值觀。
+- シンプルな構造、歌詞の浅さ（しばしば無意味）
 
-現在，歐元的「天真熱度」可能再次向我們提出了一個超越類型和世代的問題。
+- 大量生産／匿名性（特定作家の存在感が薄い）
 
-對你來說是懷舊還是新鮮感？
+- 商業的成功＝芸術性の軽視
 
-<小時>
+だが、逆に言えばそれは誰にでも届く音楽であったという証拠でもある。
 
 
-### YouTube 播客
+<hr>
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+### 再評価とリバイバル：2020年代以降の状況
+
+近年、ユーロミュージックは次のような形で再評価されている：
+
+- HyperpopやY2Kサウンドの源流としてのユーロダンス
+
+- クラブシーンにおける90s回帰（Post-Eurodance）
+
+- City Pop同様、ネット世代が再発見した日本経由のユーロビート
+
+また、SpotifyやYouTubeでの再生数増加により、90年代ユーロは新たなリスナー層にも届いている。
+
+
+
+<hr>
+
+### ユーロミュージックは「国境なき快楽」だった
+
+90年代のユーロミュージックは、歌詞でもなく政治でもなく、踊りと快感とメロディを国際語に変えた現象だった。
+その軽やかさこそが、ジャンルの境界や価値観の壁を越えていく武器となった。
+
+いま再び、ユーロの“ナイーヴな熱さ”が、ジャンルや世代を超えて私たちに問いかけているのかもしれない。
+
+それはあなたにとって懐かしさか、それとも新しさか？
+
+<hr>
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Iev_0jeS2gE?si=-_VlFxZvm5_-0X6t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 清單
+### List
 
 <div class="table-border">
 <table>

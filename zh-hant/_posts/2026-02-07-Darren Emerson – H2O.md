@@ -10,23 +10,23 @@ tags:
 - Progressive House
 - House
 - 00s
-title: 達倫艾默生 – H2O
+title: Darren Emerson – H2O
 ---
 
 
-彩色乙烯基
-單面
+カラーヴァイナル／Color Vinyl
+片面／Single Sided
 
-達倫艾默生 (Darren Emerson) 是一位英國 DJ/製作人/音樂家。 1991年至2000年，他是英國電子音樂團體Underworld的成員。離開樂團後，他在世界各地進行現場表演，並經營英國 House/Tech-House 廠牌 Underwater Records。
+Darren Emerson（ダレン・エマーソン）は、イギリスのDJ／プロデューサー／ミュージシャン。1991年〜2000年までイギリスのエレクトロニックミュージックグループUnderworld のメンバーとして活動していた。脱退後、世界各地でのライブ活動とUK House / Tech-House レーベルUnderwater Recordsを運営していた。
 
-「H2O」是來自專輯 Underwater Episode 1 (2002) 的單曲，由 Darren Emerson 和 Tim Deluxe 混音。一首 Progressive House/House 曲目在 Darren Emerson 自己的廠牌 Underwater Records 上發行。
+「H2O」は、Darren Emerson と Tim Deluxe （ティム・デラックス）がミックスしたアルバム Underwater Episode 1 （2002年）からのシングルカット。ダレン・エマーソン自身のレーベルUnderwater RecordsからリリースしたProgressive House／Houseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. H2O
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m74821953185?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74821953185?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E-w2QPshjz8?si=YLMxCVsG4YMJzUnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

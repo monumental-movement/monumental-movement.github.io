@@ -10,15 +10,15 @@ tags:
 - Disco
 - Nu-disco
 - 00s
-title: 【專欄】挪威迪斯可：Prins Thomas、Mungolian Jet Set、Lindstrøm的譜系及建議紀錄
+title: 【コラム】 ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜とおすすめ盤
 ---
 
 
-## 挪威迪斯可：Prins Thomas、Mungolian Jet Set 和 Lindstrøm 的血統
+## ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜
 
-文：mmr｜主題：誕生於挪威的現代迪斯可/太空迪斯可史、獨奏作品、合作作品、製作作品
+文：mmr｜テーマ：ノルウェーが生んだモダン・ディスコ／スペースディスコの歴史、ソロ作品・コラボ・プロデュースワーク
 
-儘管氣候寒冷，斯堪的納維亞的寧靜，挪威卻興起了一股溫暖迪斯科/太空迪斯科的重要潮流。 Prins Thomas、Lindstrøm 和 Mungolian Jet Set 以挪威視角重新詮釋了 70 年代和 80 年代的迪斯可、Italo 和法國風情，賦予 21 世紀舞曲自己獨特的風味。在這篇文章中，我們將全面介紹每位藝術家的個人作品、合作和製作活動，並按年齡列出推薦的專輯。
+ノルウェーは、寒冷な気候や北欧特有の静謐さを背景にしながらも、温度感あるディスコ／スペースディスコの重要な潮流を生み出してきた。Prins Thomas（プリンス・トーマス）、Lindstrøm（リンドストローム）、そしてMungolian Jet Set（ムングリアン・ジェット・セット）らは、70〜80年代のディスコ、イタロ、フレンチタッチをノルウェー的な視点で再解釈し、21世紀のダンスミュージックに独自の色を与えた。この記事では各アーティストのソロワーク、コラボレーション、プロデュース活動を網羅的に紹介し、年代別の推薦アルバム表を掲載する。
 
 ---
 
@@ -35,9 +35,9 @@ color: #fff;
 </style>
 
 
-## 概述：斯堪的納維亞空氣和“溫度”迪斯科
+## 概要：北欧の空気と“温度”のディスコ
 
-挪威製作人創作的迪斯可不僅僅是復古回放。寒冷氣候所產生的憂鬱與溫暖的合成器/打擊樂的融合－這種對比就是「北歐迪斯可」的味道。 Prins Thomas 和 Lindstrøm 相互影響，透過共同創作和混音擴大了「太空迪斯可」的詞彙量。另一方面，Mungolian Jet Set 在其 DJ 混音和非凡的音樂策劃中也融入了挪威以外的元素（包括引入亞洲和中東的音樂樣本）。
+ノルウェーのプロデューサーたちが作るディスコは、ただのレトロ再生ではない。冷たい風土が生むメランコリーと、暖かいシンセ／パーカッションの融合——このコントラストが“北欧ディスコ”の味付けである。Prins ThomasとLindstrømは互いに影響を与え合い、共作やリミックスを通じて“space disco”の語彙を拡張した。一方、Mungolian Jet SetはDJミックスや非凡な音楽キュレーションで、ノルウェー外のエッセンス（アジアや中東の音楽サンプルの導入など）も取り入れている。
 
 ---
 
@@ -58,125 +58,125 @@ flowchart TD
 
 ---
 
-## 藝術家評論
+## アーティスト別解説
 
-### 湯瑪斯王子
+### Prins Thomas（プリンス・トーマス）
 
-他的真名是托馬斯·莫恩·赫爾曼森。他們繼承了底特律-義大利和 70 年代迪斯可的精神，專注於長迷幻音樂。他以個人專輯“Prins Thomas”和“II”而聞名。此外，與 Lindstrøm 等人發布的合作和混音作品也為場景的形成做出了貢獻。
+本名はThomas Moen Hermansen。デトロイト〜イタロや70sディスコの精神を受け継ぎつつ、長尺のサイケデリックなビルドアップを得意とする。ソロアルバム『Prins Thomas』や『II』などで知られる。また、Lindstrømらと共にリリースしたコラボレーションやリミックスワークはシーン形成に寄与した。
 
-**產生/參與的主要活動**：
+**プロデュース／関与した主な活動**：
 
-* 與 Lindstrøm 共同製作（分割/混音）
-* 充分利用模組化/模擬設備的長軌道
+* Lindstrømとの共作（スプリット／リミックス）
+* モジュラー／アナログ機材を駆使した長尺トラック
 * 小規模フェスやクラブでのライブセットでのキュレーション
 
 ---
 
-### 林斯特羅姆
+### Lindstrøm（リンドストローム）
 
-他的本名是漢斯-彼得·林德斯特羅姆。 His sound is called the standard-bearer of "cosmic disco," and combines synth layers, heavy drum work, and the essence of ambient. His masterpieces, such as ``Where You Go I Gooo'' and ``ItIts Fidelal fairalcee accereal ’, accim ``It's Fidelal """", 假" "Ft " ``It's danceable long-length compositions.
+本名はHans-Peter Lindstrøm。彼のサウンドは“cosmic disco”の旗手と称され、シンセレイヤーと重厚なドラムワーク、そしてアンビエントのエッセンスを併せ持つ。代表作『Where You Go I Go Too』や『It's A Feedelity Affair』などは、エレガントかつダンサブルな長編構成で高評価を受けている。
 
-**產生/參與的主要活動**：
+**プロデュース／関与した主な活動**：
 
-* 其他藝術家的混音（女歌手和獨立樂團）
-* 錄像作品和時尚活動的音樂製作
+* 他アーティスト（女性シンガーやインディーバンド）のリミックス
+* 映像作品やモード系イベントの音楽制作
 
 ---
 
 ### Mungolian Jet Set（ムングリアン・ジェット・セット）
 
-主要以 DJ 單位/製作人活躍。他以其豐富的唱片知識和融入部落節奏感的混音而聞名。他們的 Jet Set Trax 式混音系列為挪威俱樂部場景帶來了新的編輯視角。
+主にDJユニット／プロデューサーとして活動。膨大なレコード知識とトライバルなリズム感を織り交ぜたミックスで知られる。彼らの『Jet Set Trax』的なミックスシリーズは、ノルウェーのクラブシーンに新しいエディトリアルな視点を持ち込んだ。
 
-#### 會員組成
+#### メンバー構成
 
-**保羅「奇異果」尼胡斯**
+**Paul “Strangefruit” Nyhus（ポール・“ストレンジフルーツ”・ニーハス）**
 
-角色：DJ/轉盤清單/選擇器
+役割：DJ／ターンテーブリスト／セレクター
 
-特徵：
+特徴：
 
-在挪威地下 DJ 文化中佔有重要地位。
+ノルウェーのアンダーグラウンドDJカルチャーにおいて重要な存在。
 
-他根據自己豐富的唱片收藏進行了獨特的音樂選擇，將迪斯可、爵士樂、非洲音樂、浩室音樂和實驗音樂自由地結合在一起。
+豊富なレコードコレクションを基にしたユニークな選曲眼で、ディスコ、ジャズ、アフロ、ハウス、実験音楽まで縦横無尽に繋ぐ。
 
-他被譽為打破流派壁壘的 DJ，為 Mungolian Jet Set 的作品帶來了電子元素。
-
----
-
-**克努特·薩維克**
-
-角色：製作人/音樂家
-
-特徵：
-
-支援工作室工作的工程師。
-
-他負責豐富的聲音設計，充分利用合成器、取樣器、程式設計等。
-
-爵士樂和
-他帶來了他的古典背景並增加了他的安排的深度。
+「ジャンルの壁を壊すDJ」として知られ、Mungolian Jet Setの作品にエキレクティックな要素を持ち込む。
 
 ---
 
-**客座合作者**
+**Knut Sævik（クヌート・セーヴィク）**
 
-Randy Barracuda（活躍於芬蘭 Skweee 場景）和來自挪威和國外的歌手/音樂家有時也會參加。
+役割：プロデューサー／ミュージシャン
 
-Mungolian Jet Set 的專輯和混音也邀請了客座歌手和樂器演奏家。
+特徴：
 
+スタジオワークを支えるエンジニア的存在。
 
-#### 聲音特點
+シンセサイザー、サンプラー、プログラミングなどを駆使し、厚みのあるサウンドデザインを担当。
 
-跨流派：迪斯可、宇宙、浩室、爵士、非洲，甚至搖滾和前衛元素的混合。
-
-混音感：他以「太空旅行」混音而聞名，大膽改變了原曲的結構，並將其延長至10分鐘以​​上。
-
-策展：他們的 DJ 組合和合輯是涉及故事講述的體驗，而不僅僅是歌曲選擇。
-
-總而言之，Mungolian Jet Set 融合了 Strangefruit (Paul Nyhus) 的 DJ 敏感性和 Knut Sævik 的工作室製作能力，是一個反流派的“斯堪的納維亞宇宙迪斯科”特立獨行者。
+ジャズや
+クラシックの素養を持ち込み、アレンジに奥行きを加える。
 
 ---
 
-### 按年齡推薦專輯
+**ゲストコラボレーター**
 
-|年份|專輯 |藝人 |連結 |
+Randy Barracuda（フィンランドのSkweeeシーンで活躍）や、ノルウェー国内外のシンガー／ミュージシャンが参加することもある。
+
+Mungolian Jet Setのアルバムやミックスは、ゲストヴォーカルやインストゥルメンタリストを大胆にフィーチャーするのも特徴。
+
+
+#### サウンドの特徴
+
+ジャンル横断性：ディスコ、コズミック、ハウス、ジャズ、アフロ、さらにはロックやプログレ的要素までを混在。
+
+リミックスセンス：原曲の構造を大胆に変え、10分以上に拡張する“宇宙旅行”のようなリミックスで知られる。
+
+キュレーション性：彼らのDJセットやコンピレーションは、単なる選曲ではなくストーリーテリングを伴う体験。
+
+まとめると、Mungolian Jet SetはStrangefruit（Paul Nyhus）のDJ的感性と、Knut Sævikのスタジオ・プロダクション能力の融合によって成立しており、ジャンルを超越した“北欧コズミック・ディスコ”の異端児的存在です。
+
+---
+
+### 年代別おすすめアルバム
+
+|   年代 | アルバム                             | アーティスト            | リンク                          |
 | ---: | -------------------------------- | ----------------- | ---------------------------------- |
-| 2006 |這是一個養育事件|林斯特羅姆 | [亞馬遜](https://amzn.to/4mApIIz) |
-| 2006 |施隆斯 |蒙古噴射機 | [亞馬遜](https://amzn.to/4nq9YJB) |
-| 2008 |你去哪裡我也去哪裡 |林斯特羅姆 | [樂天](https://a.r10.to/h5LRGZ) |
-| 2009 |我們放棄了一切…現在我們要收回它 |蒙古噴射機 | [亞馬遜](https://amzn.to/4pKpxND) |
-| 2010 |湯瑪斯王子 |湯瑪斯王子 | [亞馬遜](https://amzn.to/4gKEeMJ) |
-| 2012 |二 |湯瑪斯王子 | [亞馬遜](https://amzn.to/42i2zDH) |
-| 2017 | 2017我們之間就這樣就好了 |林斯特羅姆 | [亞馬遜](https://amzn.to/42e521T) |
+| 2006 | It's A Feedelity Affair          | Lindstrøm         | [Amazon](https://amzn.to/4mApIIz)  |
+| 2006 | Schlungs                | Mungolian Jet Set | [Amazon](https://amzn.to/4nq9YJB)    | 
+| 2008 | Where You Go I Go Too            | Lindstrøm         | [Rakuten](https://a.r10.to/h5LRGZ)          |
+| 2009 | We Gave It All Away... And Now We Are Taking It Back | Mungolian Jet Set | [Amazon](https://amzn.to/4pKpxND) |
+| 2010 | PRINS THOMAS                         | Prins Thomas      | [Amazon](https://amzn.to/4gKEeMJ) |
+| 2012 | II                               | Prins Thomas      | [Amazon](https://amzn.to/42i2zDH) |
+| 2017 | It's Alright Between Us As It Is | Lindstrøm         | [Amazon](https://amzn.to/42e521T) |
 
 ---
 
-### 紀錄片（預覽）
+### ドキュメンタリー映画（予告）
 
-一部描述挪威舞曲音樂界歷史和發展的紀錄片。它以北部城市特羅姆瑟為中心，追蹤托馬斯王子、林德斯特羅姆和托德泰利爾等宇宙/新迪斯科藝術家的活動，並介紹俱樂部和唱片公司、年輕 DJ 的興起以及派對文化的擴張。它透過影片和訪談深入探討了該場景的形成過程、音樂背景和國際聲譽。
+ノルウェーのダンス・ミュージックシーンの歴史と発展を描いたドキュメンタリー映画。北部の都市トロムソを中心に、プリンス・トーマス、リンドストローム、トッド・テリエらコズミック／ニュー・ディスコ系アーティストの活動を追い、クラブやレーベルの台頭、若手DJやパーティ文化の拡大を紹介。シーンの形成過程や音楽的背景、国際的評価までを映像とインタビューで深く掘り下げる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pxY9SMN9Yl4?si=Xrq7OF5z6NY_fmmx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 分析：挪威迪斯科為何如此享譽國際？
+### 分析：なぜノルウェーのディスコは国際的に評価されるのか
 
-1. **質感美學**：斯堪的納維亞風格的“空間”創作（混響和寬敞）與溫暖的模擬感覺共存。
-2. **長軌文化**：一種強調透過專輯而不是俱樂部進行「旅程」的風格。
-3. **跨文化引述**：自由引用Italo、法國迪斯科，甚至民間音樂元素。
+1. **テクスチャの美学**：北欧らしい“空間”の作り方（リバーブや広がり）と、暖かいアナログ感の併存。
+2. **長尺トラック文化**：クラブではなく、アルバムを通しての“旅”を重視する作風。
+3. **クロスカルチャルな引用**：イタロ、フレンチディスコ、さらに民族音楽的要素の引用が自由に行われる点。
 
-
----
-
-### 最後
-
-Prins Thomas、Lindstrøm 和 Mungolian Jet Set 繼續從挪威向世界送出「溫度迪斯可」。鑑於他們的音樂背景和製作工作，他們的曲目不僅僅是舞曲，還提供帶有斯堪的納維亞時間/風景感的聆聽體驗。
 
 ---
 
-### YouTube 播客
+### 最後に
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+Prins Thomas、Lindstrøm、Mungolian Jet Set はノルウェーの地から世界に向けて“温度のあるディスコ”を発信し続けている。音楽的背景やプロデュースワークを押さえれば、彼らのトラックは単なるダンス音楽を超え、北欧的な時間感／風景を帯びたリスニング体験を与えてくれるはずだ。
+
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-GVxJf7NAi8?si=WRd45yvZacaq0jYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -10,15 +10,15 @@ tags:
 - Reggae
 - Dub
 - 90s
-title: 兒玉和文 A.K.A.來自 Dub Station 的“Echo”——Requiem Dub
+title: Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub
 ---
 
 
-Kazufumi Kodama 是小號手，活躍於 MUTE BEAT 和 KODAMA AND THE DUB STATION BAND 等配音樂團。他也製作了Fishmans的第一張專輯和CHIEKO BEAUTY等許多藝人。
+こだま和文は、ダブバンドMUTE BEATやKODAMA AND THE DUB STATION BANDなどで活躍するトランペット奏者。フィッシュマンズの1stアルバムやCHIEKO BEAUTYなど多数のアーティストのプロデュースも手掛けている。
 
-《Requiem Dub》是兒玉一文的第二張個人專輯，錄製於紐約著名雷鬼工作室 Wackies。 Speedstar International 於 1999 年發布。兒玉一文親自負責了這張專輯的所有表演和製作。
+「Requiem Dub」は、NYレゲエの名スタジオとして知られるWackies(ワッキーズ)で録音した、こだま和文の2ndソロアルバム。1999年にSpeedstar International からリリースされた。このアルバムではこだま和文自身が全ての演奏＆プロデュースを手掛けている。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Requiem
 2. Dub Requiem
@@ -33,7 +33,7 @@ Kazufumi Kodama 是小號手，活躍於 MUTE BEAT 和 KODAMA AND THE DUB STATIO
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m11893047733?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11893047733?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BrI4i5TdHcY?si=Bxecb81tXGJFgpxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,18 +12,18 @@ tags:
 - Rock
 - Synth-pop
 - 80s
-title: 麗貝卡——時間
+title: Rebecca – Time
 ---
 
 
-《Time》是 Rebecca 的第五張專輯，於 1986 年由 FITZBEAT 廠牌發行。這張專輯的口號是“這與邏輯無關……”和“無聊和抽筋都被扔進垃圾桶。”
+「Time」は、レーベルFITZBEAT（フィッツビート）から 1986年にリリースされたRebecca(レベッカ)5枚目のアルバム。このアルバムのキャッチコピーは、『理屈じゃなくて…』『退屈も、窮屈も、みんなまとめてゴミ箱行きだ』。
 
-包含熱門歌曲“LONELY BUTTERFLY”和“CHEAP HIPPIES”。
+ヒット曲、「LONELY BUTTERFLY(ロンリー・バタフライ)」、　「CHEAP HIPPIES(チープ・ヒッピーズ)」が収録されている。
 
-歌曲《從未告訴過你但我愛你》是
-電影《美越少年》主題曲《MONOTONE BOY》的聯曲。
+収録曲「Never Told You But I Love You」は、
+映画『微熱少年』の主題歌「MONOTONE BOY」のカップリング。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. When A Woman Loves A Man
 A2. Lonely Butterfly
@@ -37,7 +37,7 @@ B3. White Sunday
 B4. Never Told You But I Love You
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHuMjO9g0Bw?si=xg7jMwRxFEGpTRiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

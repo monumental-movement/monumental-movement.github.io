@@ -11,15 +11,15 @@ tags:
 - Abstract
 - IDM
 - 00s
-title: Autechre – 果皮會議 2
+title: Autechre – Peel Session 2
 ---
 
 
-Peel Session 2 是 Autechre 的第二張 John Peel 專輯，於 1999 年 9 月 8 日播出，該 CD 於 2000 年在 Warp Records 發行。
+Peel Session 2は、Autechre2番目のジョンピールセッションで、1999年9月8日に放送され、CDは2000年にWarp Recordsからリリースされた。
 
-當約翰·皮爾第一次收到這張唱片時，據說他自己給這些曲目命名，因為除了第四首“19 Headaches”之外，其他曲目都沒有任何名稱。
+John Peel(ジョン・ピール)に初めてこの録音が渡された時、4曲目「19 Headaches」以外のトラックには名前が付いていなかったため、彼自身がトラックに名前を付けたと言われている。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Gelk
 2. Blifil
@@ -27,7 +27,7 @@ Peel Session 2 是 Autechre 的第二張 John Peel 專輯，於 1999 年 9 月 8
 4. 19 Headaches
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31277795768?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31277795768?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vwDIn7uJtp8?si=ljbvCL6PYDL9fN8O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

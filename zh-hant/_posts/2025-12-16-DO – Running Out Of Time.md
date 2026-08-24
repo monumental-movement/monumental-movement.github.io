@@ -11,17 +11,17 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: DO——沒時間了
+title: DO – Running Out Of Time
 ---
 
 
-DO（Digital Orgasm）是由 M.N.O. 組成的比利時科技表演。製作三人組 Maurice Engelen（Somora/Praga Khan）、Nikkie van Lierop（Jade 4 U、Miss Lie）和 Oliver Adams。
+DO (Digital Orgasm /デジタルオーガズム )は、M.N.O. productionトリオ　Maurice Engelen (Somora/Praga Khan)、Nikkie van Lierop (Jade 4 U, Miss Lie) 、Oliver AdamsによるベルギーのTechnoアクト。
 
-Digital Orgasm 是他們運行時間最長的專案之一，其他專案還有 Lords Of Acid 和 Channel X。
+Digital Orgasmは、Lords Of AcidとChannel Xと並び、彼らの数多くのプロジェクトの中で最も長く続いたプロジェクトの1つだった。
 
-A 是 Todd Terry 的混音版。 B4 是 Josh Wink 的混音版。
+Aは、Todd Terryによるremix。B4は、Josh Winkによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Running Out Of Time (Todd's Freeze)
 A2. Running Out Of Time (Tee's Dub)
@@ -33,7 +33,7 @@ B3. Running Out Of Time (Warwick)
 B4. Running Out Of Time (Winking Groove)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m22130217044?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22130217044?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZsafZxIqiOA?si=jWjV2llT-DElcpwZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

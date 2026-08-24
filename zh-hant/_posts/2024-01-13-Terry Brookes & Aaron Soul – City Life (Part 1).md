@@ -9,15 +9,15 @@ permalink: /zh-hant/terry-brookes-aaron-soul-city-life-part-1/
 tags:
 - House
 - 00s
-title: Terry Brookes 和 Aaron Soul – 城市生活（第 1 部分）
+title: Terry Brookes & Aaron Soul – City Life (Part 1)
 ---
 
 
-City Life (Part 1) 是總部位於阿姆斯特丹的荷蘭唱片公司 Rush Hour 於 2005 年發行的一首 house 曲目，該唱片公司由 Christiaan Macdonald 和 Antal Heitlager 於 1999 年創立。
+Terry Brookes & Aaron Soul（テリー・ブルックス&アーロン・ソウル）によるこのEPは、City Life (Part 1)は1999年にChristiaan MacdonaldとAntal Heitlagerによって設立された、アムステルダムに拠点を置くオランダのレコードレーベルRush Hourから2005年にリリースされたハウストラック。
 
-Side A 是 Carl Craig 的混音版。
+A面は、Carl Craig（カール・クレイグ）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. City Life (Carl Craig's Max Mix) 
 
@@ -26,7 +26,7 @@ B1. City Life (Original Version)
 B2. City Life (Deepart Mix) 
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m68163433604?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68163433604?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UFFg2I_F0Sc?si=7We5wkfnvO519Bop" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

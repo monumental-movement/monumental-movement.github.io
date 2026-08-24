@@ -9,16 +9,16 @@ permalink: /zh-hant/sandy-warez-tribal-tricks-vol-1/
 tags:
 - Techno
 - 00s
-title: 桑迪·瓦雷茲 (Sandy Warez) – 部落技巧卷。 1
+title: Sandy Warez – Tribal Tricks Vol. 1
 ---
 
 
 
-Sandy Warez 是硬蕊 techno 領域的資深 DJ，擁有 20 多年的經驗。他主持的“Footworxx”是現代硬核界最具影響力的唱片公司之一，並培養了許多年輕藝術家。
+Sandy Warez は、20年以上のキャリアを持つハードコア・テクノ界のベテランDJ。現代のハードコアシーンにおいて最も影響力のあるレーベルの一つ『Footworxx』を主宰しており、多くの若手アーティストを輩出している。
 
-``部落技巧卷。 1'' 是 Sandy Warez 於 2002 年在比利時唱片公司 Subsounds 上發行的早期硬科技作品，之後他轉向了目前的 Frenchcore/hardcore 風格。
+『Tribal Tricks Vol. 1』は、Sandy Warezが現在のようなフレンチコア/ハードコアのスタイルにシフトする前、2002年にベルギーのレーベルSubsoundsからリリースされた初期のハード・テクノ作品。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Tribal Concesion
 A2. Tribal Concession (Mix Pure)
@@ -27,7 +27,7 @@ B1. Bangin' Press
 B2. Ultimate Groove
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m10491107037?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10491107037?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rjv5td0wIHw?si=kfiCdLsFk3lVeQJ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ title: Stevie Wonder – I Just Called To Say I Love You
 
 「Stevie Wonder（スティーヴィー・ワンダー） – I Just Called To Say I Love You」は、1984にモータウンからリリースされました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. I Just Called To Say I Love You
 

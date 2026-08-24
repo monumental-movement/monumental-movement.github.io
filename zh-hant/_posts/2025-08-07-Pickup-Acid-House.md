@@ -10,21 +10,21 @@ tags:
 - Acid
 - Acid House
 - 90s
-title: 拿起酸屋工作
+title: アシッドハウス作品をピックアップ
 ---
 
 
-“一組非凡的迷幻浩室作品，以 TB-303 的滾滾聲音和狂喜的節拍震撼了那個時代。”
+「TB-303のうねるサウンドと恍惚感あふれるビートで時代を揺さぶった、注目すべきアシッドハウス作品群」
 
-<小時>
+<hr>
 
-### 手寫筆麻煩——酸軌
-<a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%</0webTrackTrack.
+### Stylus Trouble – That Acid Track
+<a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
 
-俱樂部經典，經典酸線讓 TR-303 咆哮。皮特·海勒的隱藏傑作。
+TR-303が唸る、王道アシッドラインを持つクラブクラシック。Pete Hellerの隠れた名義作。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A.  That Acid Track (Main Mix)
 
@@ -32,20 +32,20 @@ B.  That Acid Track (Dub Version)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NzQ0_D-rlIQ?si=mb3xf729ThqSdmRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
-### 各種 – 城市酸
+### Various – Urban Acid
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
-1988 年正品。捕捉迷幻屋燃點的重要收藏。強大的芝加哥影響力。
+1988年の本物。アシッド・ハウスの発火点を捉えた重要コンピ。シカゴ影響強し。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Perfectly Ordinary People–Theme From P.O.P.
 A2. Charm–Housegirl (Club Mix)
@@ -59,20 +59,20 @@ B4. Charm–Walk On The Wild Side
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNGdn1V5vqs?si=mmSav-egFv9CGnaX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
 
-### Petter – 無題 Acid EP
-<a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp.
+### Petter – Untitled Acid EP
+<a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
-用現代聲音創作重建酸。漂浮在極簡搖滾和前衛搖滾之間。
+モダンな音作りでアシッドを再構築。ミニマル～プログレの間に漂う。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Freak 'N Love
 
@@ -81,20 +81,20 @@ B2. Everyday Balloon
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gHZDcIoj7RU?si=VBavyUOyjZCD42Ch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
 
-### 轟炸低音 – 說一點祈禱
-<a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20The%20Bass%20%E2%80%93%20Say%20A%
+### Bomb The Bass – Say A Little Prayer
+<a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
-酸 x 配音 x 流行。 1988 年的藝術作品超越了流派界限。
+アシッド×ダブ×ポップ。ジャンルを越境した'88年産アートピース。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Say A Little Prayer
 
@@ -102,19 +102,19 @@ B. 10 Seconds To Terminate
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
 
-### DMX 克魯 – Nu Romantix
-<a href="https://jp.mercari.com/item/m46188068104?afid=6142608987"><img src="../assets/images/DMX%20Krew%20%E2%80%93%20Nu%20tixman.webp.
+### DMX Krew – Nu Romantix
+<a href="https://jp.mercari.com/item/m46188068104?afid=6142608987"><img src="../assets/images/DMX%20Krew%20%E2%80%93%20Nu%20Romantix.webp"></a>
 
-迷幻音樂與 80 年代電子音樂的浪漫融合。 TB-303 發出柔和的聲音。
+アシッドと80'sエレクトロのロマンチックな融合。TB-303が柔らかく鳴る。
 
-#### 曲目表
+#### Tracklist
 ```md
 1.Come To Me
 
@@ -150,19 +150,19 @@ B. 10 Seconds To Terminate
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
-### 布倫南·格林——900磅男子
-<a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20.webp.
+### Brennan Green – 900lb Man
+<a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20Man.webp"></a>
 
-帶有迪斯可感覺的酸性曲目。溫暖的低凹槽。
+ディスコ感覚で繰り出されるアシッド・トラック。温かみあるロウ・グルーヴ。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. 900lb Man (Force Of Nature Remix)
 
@@ -171,16 +171,16 @@ B2. 900lb Man (Original Mix)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m948227888604?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
 
-<小時>
+<hr>
 
-#### Aquasky – 寧靜 / 考納
-<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.p"></a>
+#### Aquasky – Tranquility / Kauna
+<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-一首獨特的作品，將酸性元素注入鼓和貝斯中。速度感和旅行感都有。
+ドラムンベースにアシッドの要素を注入した異色作。疾走感とトリップ感が同居。
 
-#### 曲目表
+#### Tracklist
 ```md
 X. Tranquility
 
@@ -188,19 +188,19 @@ Y. Kauna
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=aqsSQ5YqjPX4Za2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
-#### 佩爾貢 – #2
+#### Pergon – #2
 <a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.webp"></a>
 
-90 年代初的德國迷幻科技音樂。堅硬而機械的聲音很有吸引力。
+90年代初頭のジャーマン・アシッド・テクノ。硬派で機械的な鳴りが魅力。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Zynatrah
 
@@ -208,7 +208,7 @@ B. Nonrepro
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m67998542214?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67998542214?afid=6142608987){: .button1}
 
 
 #### Youtube

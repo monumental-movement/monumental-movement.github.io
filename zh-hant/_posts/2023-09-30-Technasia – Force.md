@@ -8,17 +8,17 @@ layout: post
 permalink: /zh-hant/technasia-force/
 tags:
 - Techno
-title: 科技亞洲 – 力量
+title: Technasia – Force
 ---
 
 
-Technasia 的《Force》堪稱一首 techno 讚歌。
+このTechnasiaによる「Force」はテクノのアンセムといってもよいでしょう。
 
-《Force》是一首很棒的經典歌曲，其人聲使這首典型的 Technasia 歌曲變得特別。
+"Force"は、ボーカルがこの典型的なTechnasiaのトラックを特別なものにし、素晴らしいクラシックとなっています。
 
-看看後面的碎拍混音，值得一聽。
+裏面のブレイクビートミックスも要チェックすで、聴く価値があります。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Force
 
@@ -29,6 +29,6 @@ B1. Resilience
 B2. Force (Voxless)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
 
 https://jp.mercari.com/item/m82234983144?afid=6142608987

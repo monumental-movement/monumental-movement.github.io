@@ -9,15 +9,15 @@ permalink: /zh-hant/various-daybreak/
 tags:
 - Hiphop
 - Downtempo
-title: 各種 – 黎明
+title: Various – Daybreak
 ---
 
 
-《Daybreak》是 Break It Or Leave It（Wally's Groove World 的碎拍分支，由 DJ Koenie 於 1997 年創立）發行的歌曲。
+「Daybreak」は、Break It Or Leave It (1997年にDJ Koenieにより設立されたWally's Groove Worldのブレイクビート部門)からのリリース。
 
-A4 的 DVL（Davy Van Laere）也因其項目 After Hours with DJ AME 而聞名。 DVL是目前最受歡迎的滑板攝影師。
+A4のDVL(Davy Van Laere)はDJ AMEとのプロジェクトAfter Hoursとしても有名。現在DVLは最も人気のスケートボード写真家として活動中。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Lexadelic & Zenith–Timeless Hour
 
@@ -36,7 +36,7 @@ B3. DJ Serious & Zenith–Silent Lotus
 B4. Lexadelic & Zenith–Cruising
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m56150431111?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56150431111?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WKEazL28ISU?si=CXOrpxmsZLod7buB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,11 +13,11 @@ title: Leroy Hanghofer – Bathroomboogie
 ---
 
 
-這張 EP 給人一種非常時髦、極富創意和古怪的感覺，還帶有微妙的幽默感。
+このEPは、非常にファンキー＆素晴らしくクリエイティブで奇抜な雰囲気があり、微妙なユーモアも感じられます。
 
-但厚重的貝斯線和清脆的合成器使一切都保持在緊密的軌道上，並讓一切愉快地進行。
+しかし、太いベースラインとグシャグシャとしたシンセサイザーが、すべてをしっかりとグルーブさせ、楽しく進行します。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Overtüre
 
@@ -28,7 +28,7 @@ B1. Bathroomboogie (DJ Chloé Rmx)
 B2. Das Pi - Kurz!
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31669126197?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31669126197?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cwTqnWL15Pw?si=IiWztBIeDkNxL6pq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,22 +9,22 @@ permalink: /zh-hant/krysko-serenity/
 tags:
 - Drum n Bass
 - Rare
-title: Krysko – 寧靜
+title: Krysko – Serenity
 ---
 
 
-Krysko 是一位 DJ，曾在英國 The Redlight 和 The Warehouse Project 駐場，並受到許多舞曲迷的支持和尊重。
+UKのThe RedlightやThe Warehouse Projectでレジデントを務め、多くダンスミュージックファンに支持され尊敬されているDJ、Krysko（クリスコ）。
 
-《Serenity》是一首叢林歌曲，由倫敦 The Exchange 的傳奇混音工程師 Mike Marsh 製作，並於 1994 年在英國廠牌 Whatever 發行。
+「Serenity」は、ロンドンのThe Exchangeで伝説的なミキシングエンジニアとして知られているMike Marsh氏によってマスタリングされ、1994年にUKレーベルWhatever からリリースされたジャングルトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Serenity (Fruit Loop Mix)
 
 B. Serenity (Dexters Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m10738402892?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10738402892?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyzdClawVYE?si=H0znPMQbfXrO5Y6X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

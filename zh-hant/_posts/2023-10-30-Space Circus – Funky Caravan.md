@@ -10,13 +10,13 @@ tags:
 - Rock
 - Progressive
 - Fusion
-title: 太空馬戲團 – 時髦大篷車
+title: Space Circus – Funky Caravan
 ---
 
 
-《Funky Caravan》是活躍於 20 世紀 70 年代末的日本前衛搖滾與融合樂團 Space Circus 的首張專輯。貝斯手 Hajime Okano 是音樂製作人，曾參與 Starlin、POLYSICS 和 L'Arc~en~Ciel 等眾多樂團的演出。
+「Funky Caravan（ファンキー・キャラバン）」は、1970年代後半に活躍した日本のプログレ＆フュージョンバンドSpace Circus(スペース・サーカス)のデビューアルバム。ベースの岡野 ハジメは音楽プロデューサーとして、スターリン、POLYSICS、L'Arc〜en〜Ciel(ラルク アン シエル)など多数のバンドに関わっている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Alibaba (アリババ)
 
@@ -31,7 +31,7 @@ B2. The Way We Were (追憶)
 B3. Spring Wave (スプリング・ウェーブ)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m38259723732?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38259723732?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QW-e8SSAG_I?si=m2x_OJniWvlJ1M6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,13 +10,13 @@ tags:
 - Dancehall
 - Reggae
 - Reggaeton
-title: DJ Belal – 雷鬼派對混音 05
+title: DJ Belal – Reggaeton Party Mix 05
 ---
 
 
-Side A is a remix version of Amerie's "1 Thing". B面是50 Cent - “Candy Shop”的混音版。
+A面はAmerie 「1 Thing」のremixヴァージョン。B面は50 Cent -「Candy Shop」のremixヴァージョン。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Club
 
@@ -31,5 +31,5 @@ B2. Instrumental
 B3. Ordinary Mix
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
 

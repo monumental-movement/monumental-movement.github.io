@@ -10,22 +10,22 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: 戴夫·埃爾斯米爾——四個符號
+title: Dave Ellesmere – Four Symbols
 ---
 
 
-Dave Ellesmere 出生於英國，是一位搖滾音樂家，在 20 世紀 80 年代的 The Insane、Discharge、Flux of Pink Indians、Doctor and the Crippens 等英國龐克樂團中擔任鼓手，並在 Disgust 中擔任吉他手，目前擔任電子 DJ。他也曾以 Voco Derman、Solvent Electron Industries 和 Ronin 等名義發布作品。
+イギリス出身のDave Ellesmereは、1980年代にThe Insane、Discharge、Flux of Pink Indians、Doctor and the Crippensなどのイギリスのパンクバンドでドラムを演奏し、Disgustでギターを演奏していたロックミュージシャンで、現在はエレクトロニックDJとして活動している。Voco Derman、Solvent Electron Industries、Ronin名義でもリリースしている。
 
-「Four Symbols」是一首 Techno/Tech House 曲目，由荷蘭 house 廠牌 100% Pure 於 2005 年發行。
+「Four Symbols」は、2005年にダッチハウスレーベル100% PureからリリースされたTechno ／Tech Houseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Four Symbols
 
 B. Erosion Of Instinct
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m92186706272?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92186706272?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R9JR18XHrP0?si=_BH2J2bydwmUlGJB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

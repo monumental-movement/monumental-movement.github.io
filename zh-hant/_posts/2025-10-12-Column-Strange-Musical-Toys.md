@@ -11,18 +11,18 @@ tags:
 - History
 - 90s
 - 00s
-title: 【專欄】奇怪的音樂玩具－世界各地發出奇怪聲音的玩具
+title: 【コラム】 Strange Musical Toys — 世界の奇妙な音の玩具たち
 ---
 
 
-## 世界上的“聲音玩具”
+## 世界の“音の玩具”
 
 
-文字：mmr |主題：從兒童玩具到藝術家樂器－邁向AI玩具、觸覺樂器、社交玩具時代
+文：mmr｜テーマ：子どものおもちゃからアーティストの楽器～AI玩具・触覚楽器・ソーシャル・トイの時代へ
 
-在某些地方，音樂和遊戲之間的界線變得模糊。我們生活在這樣一個世界：兒童手中玩具的電子聲音最終被認為是專業舞台和藝術家的創意工具。 Radel、Omnichord、Stylophone 和 Circuit Bending 等奇怪的聲音來源修改了自製電路，不再是玩具，而是文化實驗設備。
+音楽と遊びの境界線が曖昧になる場所がある。子どもの手に握られたおもちゃの電子音が、やがてプロのステージやアーティストの創作道具として認められる世界だ。RadelやOmnichord、Stylophone、そして自作回路を改造するCircuit Bendingのような奇妙な音源たちは、単なる玩具の枠を超え、文化的な実験装置となった。  
 
-在本專欄中，我們追溯了世界各地不尋常的音樂玩具，揭示了它們的歷史、哲學和現代藝術家的重新詮釋。
+このコラムでは、世界中の変わった音楽玩具を辿り、その歴史、思想、そして現代のアーティストによる再解釈までを紐解く。
 
 ---
 
@@ -40,37 +40,37 @@ color: #fff;
 </style>
 
 
-## Ⅰ.雙手玩弄聲音的樂趣
+## Ⅰ. 音をいじる手の快楽
 
-我們絕不能忘記「觸覺」是音樂行為的起源。當您撥動琴弦、按下琴鍵或轉動旋鈕時，您的指尖就會收到反應。這種即時性在孩子童年時期接觸到的玩具中也是一樣的。
-進入21世紀，電子聲音已擴展到兒童玩具和教育設備，「發聲」行為本身也被設計為遊戲的一部分。玩具和樂器之間的界線變得越來越模糊。
+音楽という行為の原点に「触覚」があることを忘れてはいけない。弦を弾き、鍵盤を押し、つまみを回すと、指先に反応が返ってくる。その即時性は、幼少期に触れる玩具でも同様だ。  
+21世紀に入り、電子音は子どものおもちゃや教育用ガジェットにまで拡張され、「鳴らす」という行為自体が遊びの一部としてデザインされるようになった。玩具と楽器の境界線は、ますます曖昧になっている。
 
 ---
 
-## 二.亞洲有聲玩具文化
+## Ⅱ. アジアのサウンド・トイ文化
 
-### 拉德爾電子坦普拉
-電子塔布拉由印度公司 Radel 在 20 世紀 70 年代末開發，是一種可以攜帶傳統拉格演奏的持續聲音的設備。它已經受到從兒童到成人的廣泛人群的歡迎，因為它可以讓複雜的弦樂器在家中輕鬆再現。
-電子聲音的簡化實際上為新的即興創作打開了大門。放在家裡桌子上的電子坦普拉已經成為一種“家常儀式”，在學習和玩耍的邊界上產生共鳴。
+### Radel Electronic Tanpura
+インドのRadel社が1970年代末に開発した電子タブラは、伝統的なラーガ演奏における持続音をポータブル化した装置である。複雑な弦楽器を家庭で簡単に再現できることから、子どもから大人まで幅広く親しまれた。  
+電子音の単純化は、むしろ新しい即興の扉を開いた。家庭の机上に置かれた電子タンプーラは、学習と遊びの境界で鳴り響く“家庭的な儀式”となった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 電子樂器的便攜式演變
-傳統樂器的數位化不僅在印度取得了進展，而且在整個亞洲也取得了進展。甚至出現了小朋友也能操作的樂器，包括小型西塔琴、袖珍加美蘭和電子豎琴。電子技術創造的聲音的穩定性和輕鬆性激發了表演者的創造力。
+### 電子楽器のポータブル進化
+インドだけでなく、アジア各地では伝統楽器の電子化が進んだ。小型シタールやポケットサイズのガムラン、電子琴など、子どもでも操作可能な楽器が登場した。電子化による音の安定性と手軽さは、演奏者の創造性を刺激する。
 
 ---
 
-## 三． Omnicode 及其後代
+## Ⅲ. オムニコードとその末裔たち
 
-Omnichord 於 1978 年發布，作為獨特的「和弦豎琴」迅速受到全世界的喜愛。
+1978年に発売されたOmnichordは、独特の“コード・ハープ”として瞬く間に世界中で愛された。  
 
-- 結合鍵盤和筆劃板的獨特介面
-- 只需一根手指即可輕鬆彈奏簡單的和弦
-- 低保真和宇宙音調
+- キーボードとストローク板を組み合わせた独自インターフェース  
+- 単純な和音を指一本で奏でられる手軽さ  
+- ローファイかつ宇宙的な音色  
 
-全弦琴已不僅僅是科技流行音樂和獨立藝術家在現場表演和錄音時的道具。聲音體現了歡迎機會和即興創作的設計理念。
+Omnichordは、テクノポップやインディーズのアーティストにとって、ライブパフォーマンスやレコーディングにおける小道具以上の存在となった。そのサウンドは、偶然性と即興性を歓迎するデザイン哲学の体現である。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pAIar0O-yvg?si=gI40JwCWCleSOUQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -80,75 +80,75 @@ Omnichord 於 1978 年發布，作為獨特的「和弦豎琴」迅速受到全�
 
 ---
 
-#### 使用 Omnichord 製作專輯
+#### Omnichordを使用したアルバム
 
-**柯尼利厄斯 – 幻想 (1997)**
+**Cornelius – Fantasma (1997)**
 
-日本流行/電子音樂。 Omnichord 獨特的和弦為歌曲增添了溫暖。
+日本のポップ/エレクトロニカ。Omnichordの独特の和音が楽曲に温かみを添える。
 
-**比約克 – Vespertine (2001)**
+**Björk – Vespertine (2001)**
 
-微妙的電子聲音和模擬感覺的融合。 Omnichord 細膩的和弦感覺有助於產生內省的聲音。
+微細な電子音とアナログ感の融合。Omnichordの繊細なコード感が内省的なサウンドに寄与。
 
 ---
 
-## 四．歐洲奇怪的聲音裝置
+## Ⅳ. ヨーロッパの奇音装置
 
-### Stylophone 和 Optigan
-英國 Stylophone 是一款桌面合成器，常見於 20 世紀 70 年代的電視廣告中。當您用指尖觸摸金屬觸點時，會發出獨特的蜂鳴聲。它的輕鬆和喧鬧的感覺被融入到早期的科技流行音樂和前衛音樂。
-Optigan 是一種使用光碟播放聲音的風琴玩具，其特點是不可預測的模式和節奏。
+### StylophoneとOptigan
+イギリスのStylophoneは、1970年代のテレビ広告でおなじみの“机上のシンセ”である。指先で金属接点をなぞると、独特のビープ音が鳴る。その手軽さとノイズ感は、初期テクノポップやアヴァンギャルド音楽に取り込まれた。  
+Optiganは光学式ディスクで音を再生するオルガン玩具で、パターンやリズムが予測不能な形で再生されることが特徴だ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 使用 Stylophone 的專輯
+#### Stylophoneを使用したアルバム
 
-**大衛鮑伊 – Space Oddity（1969 年單曲）**
+**David Bowie – Space Oddity (1969 single)**
 
-早期單打所使用的柱琴。其特點是宇宙和簡約的基調。
+初期シングルでのStylophone使用。宇宙的でミニマルな音色が特徴。
 
-**Aphex Twin – 環境作品精選 85–92 (1992)**
+**Aphex Twin – Selected Ambient Works 85–92 (1992)**
 
-由迷你合成器和玩具般的電子聲音所創造的環境技術。
+ミニシンセと玩具的電子音が紡ぐアンビエント・テクノ。
 
-### 從益智玩具到俱樂部
-在歐洲，教育電子玩具也融入了俱樂部文化和前衛音樂。桌子上的一個簡單的合成器給表演者的創造力帶來了“意外的噪音”，擴大了音樂表達的範圍。
+### 教育玩具からクラブへ
+ヨーロッパでは、教育用電子玩具がクラブカルチャーや前衛音楽に流入することもあった。机の上の簡易シンセサイザーは、演奏者の創造性に“偶然のノイズ”をもたらし、音楽表現の幅を広げた。
 
 ---
 
-## Ⅴ.美國的 DIY 電子產品和奇怪的發明家
+## Ⅴ. アメリカのDIY電子と奇妙な発明家たち
 
-電路彎曲是一種透過修改現有電子玩具和合成器來創造新聲音的方法，由 Reed Ghazala 在 20 世紀 70 年代編纂而成。
+Circuit Bendingは、既存の電子玩具やシンセを改造して新しい音を作る手法で、1970年代にReed Ghazalaによって体系化された。  
 
-- 開啟卡西歐SA系列鍵盤，隨機連接電路
-- 意外的短路和噪音會產生新的聲音
-- 「破壞」與「創造」同時發生
+- Casio SAシリーズの鍵盤を開け、ランダムに回路を接続  
+- 偶然のショートやノイズが新たな音を生む  
+- “破壊”と“創造”が同時に起こる行為  
 
-DIY 電子樂器已在美國車庫文化和前衛音樂中根深蒂固，將體力勞動的樂趣與聲音冒險的感覺融為一體。
+DIY電子楽器は、手作業の喜びと音響的な冒険心を融合させ、アメリカのガレージカルチャーや前衛音楽に深く根付いた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6dbHxbN2oJw?si=P4PrpbvKkwmv8tOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 電路彎曲/改裝玩具的使用
+#### Circuit Bending / 改造玩具使用
 
-**梅爾茲弓 – 脈衝惡魔 (1996)**
+**Merzbow – Pulse Demon (1996)**
 
-充分利用改裝電子設備和噪音玩具的噪音實驗作品。
+改造電子機材やノイズ玩具を駆使したノイズ・エクスペリメンタル作品。
 
 
 ---
 
-## Ⅵ.日本電子玩具的黃金時代
+## Ⅵ. 日本の電子トイ黄金期
 
-1970 年代和 1980 年代，便攜式合成器和電子音樂玩具在日本家庭中開始流行。
+1970〜80年代、日本ではポータブルシンセや電子楽器玩具が家庭に浸透した。  
 
-- 雅馬哈Portasound系列
-- 卡西歐 VL-TONE
-- 教育合成器，例如 Gakken 的 SX-150
+- ヤマハPortasoundシリーズ  
+- CASIO VL-TONE  
+- 学研のSX-150などの教育用シンセ  
 
-電子聲音可以在家裡或學校的課桌上輕鬆體驗，孩子們已經熟悉了「玩聲音」的文化。在現代，像Otamatone這樣的數位玩具與YouTube文化相連，創造了一個「可愛聲音」的新世界。
+電子音は、家庭や学校の机上で手軽に体験できるものであり、子どもたちは“音を遊ぶ”文化に親しんだ。現代ではオタマトーンのようなデジタル玩具がYouTube文化と結びつき、新たな“かわいい音”の世界を作っている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -162,14 +162,14 @@ DIY 電子樂器已在美國車庫文化和前衛音樂中根深蒂固，將體�
 
 ---
 
-## 七．斯堪的納維亞不規則美學
+## Ⅶ. 北欧の変則美学
 
-在斯堪的納維亞半島，出現了小型、高度設計的合成器。
+北欧では、デザイン性の高い小型シンセが登場した。  
 
-- 青少年工程 OP-1
-- 袖珍操作員系列
+- Teenage Engineering OP-1  
+- Pocket Operatorシリーズ  
 
-其簡單、直觀的可操作性和卡通般的基調結合了斯堪的納維亞的幽默和精緻。它的獨特之處在於它保留了玩具的特性，但也被專業藝術家使用。
+シンプルで直感的な操作性と、カートゥーン的な音色は、北欧らしいユーモアと洗練を兼ね備える。“トイ”としての性格を残しつつ、プロのアーティストにも採用される点が特徴だ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBwU-d_WDmU?si=D_5-7a06v6wQYoNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -179,45 +179,45 @@ DIY 電子樂器已在美國車庫文化和前衛音樂中根深蒂固，將體�
 
 ---
 
-#### 袖珍操作員/青少年工程
+#### Pocket Operator / Teenage Engineering系
 
-**四輪春節 – 回合 (2003)**
+**Four Tet – Rounds (2003)**
 
-它預示著類似於 Pocket Operator 的小型電子聲源的氛圍。最小的節拍和旋律。
+Pocket Operator的な小型電子音源の雰囲気を先取り。ミニマルなビートと旋律。
 
-**飛蓮花 – Cosmogramma (2010)**
+**Flying Lotus – Cosmogramma (2010)**
 
-一種複雜的紋理，結合了電子玩具和類似合成器的小聲音。
-
----
-
-## Ⅷ.當代藝術家與玩具聲音
-
-許多當代藝術家，包括比約克、科尼利厄斯、邦·艾弗和勞裡·安德森，都將玩具樂器融入他們的現場表演和錄音中。
-低解析度的聲音和偶然的噪音成為創造親密感和即興創作的工具，並因敢於在數位時代保持「手工」的感覺而受到讚揚。
+電子玩具や小型シンセ的なサウンドを組み合わせた複雑なテクスチャ。
 
 ---
 
-## Ⅸ.未來玩具音樂
+## Ⅷ. 現代アーティストとトイサウンド
 
-人工智慧玩具、觸覺樂器和社交玩具等音樂玩具作為新介面的試驗場不斷發展。
-「玩」的概念再次回歸音樂創作的中心，並在電子聲音的未來中發揮重要的文化作用。
+Björk、Cornelius、Bon Iver、Laurie Andersonなど、多くの現代アーティストはライブや録音におもちゃ的楽器を導入している。  
+低解像度な音や偶然のノイズは、親密さや即興性を演出する道具となり、デジタル全盛時代にあえて“手作り感”を残すことが評価される。
+
+---
+
+## Ⅸ. 未来のトイ・ミュージック
+
+AI玩具や触覚楽器、ソーシャル・トイなど、音楽玩具は新しいインターフェースの実験場として進化を続ける。  
+“Play”の概念は、再び音楽創作の中心に戻りつつあり、電子音の未来における重要な文化的役割を担っている。
 
 ---
 
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oIjmDqNvO4M?si=Xphd495xrBMA6HSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-## 附錄
+## 付録
 
-### 世界各地奇怪音樂玩具的演化史（簡單年表）
+### 世界のStrange Musical Toys進化史（簡易年表）
 
 <div class="mermaid">
 
@@ -238,32 +238,32 @@ flowchart TD
 
 ---
 
-### 亞馬遜連結
+### Amazon リンク
 
-[全和弦](https://amzn.to/4q7QZFh)
+[Omnichord](https://amzn.to/4q7QZFh)
 
 [Radel Electronic Tanpura](https://amzn.to/4h7pWFZ)
 
-[Stylophone系列](https://amzn.to/4qdQLN9)
+[Stylophoneシリーズ](https://amzn.to/4qdQLN9)
 
-[袖珍操作員](https://amzn.to/46QcVgQ)
+[Pocket Operator](https://amzn.to/46QcVgQ)
 
 ---
 
 
 
-### 奇怪的音樂玩具推薦專輯/書籍
+### Strange Musical Toys おすすめアルバム・本
 
-|專輯名稱|藝人 |發佈年份 |使用的設備/功能 |連結 |
-|------------|--------------|---------|--------------------|------------------------|
-|幻想 |科尼利厄斯| 1997 |以全和弦和弦為中心的流行/電子樂 | [亞馬遜](https://amzn.to/4h7f2QM) |
-| 維斯珀汀 |比約克 | 2001 | Omnichord 提供細膩的和弦感覺和微小的電子聲音 | [亞馬遜](https://amzn.to/4ojW240) |
-|太空怪事 |大衛鮑伊 | 1969 |採用Stylophone，空間般的極簡音色| [亞馬遜](https://amzn.to/48r48mx) |
-|氛圍作品選 85–92 | Aphex 雙人床 | 1992 |附玩具電子聲音的環境/電子音樂，例如 Stylophone | [亞馬遜](https://amzn.to/4mYVoYg) |
-|回合 |春節四 | 2003 | Pocket Operator 風格迷你合成電子聲音 | [亞馬遜](https://amzn.to/4q451HY) |
-|宇宙語法 |飛蓮花| 2010 |結合小型合成器/電子玩具聲音的複雜紋理 | [亞馬遜](https://amzn.to/4q2iujP) |
-|電路彎曲探索|里德·加扎拉 | 2005 |電路彎曲書籍| [亞馬遜](https://amzn.to/4haxkAD) |
-|脈衝惡魔|梅爾茲鮑 | 1996 |以改良電子玩具和噪音為中心的實驗音樂| [亞馬遜](https://amzn.to/46TWAGo) |
-|太陽能賭博|奧馬爾羅德里格斯-洛佩斯 | 2010 |迷你合成器，前衛吉他，具有玩具般的電子聲音 | [亞馬遜](https://amzn.to/4ofMWoK) |
-|大科學|勞瑞安德森 | 1982 |使用 Stylophone 和簡單合成器進行音樂/表演實驗 | [亞馬遜](https://amzn.to/3WF0yhn) |
+| アルバム名 | アーティスト | 発売年 | 使用デバイス / 特徴 | リンク |
+|------------|--------------|--------|--------------------|--------------|
+| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon](https://amzn.to/4h7f2QM) |
+| Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [Amazon](https://amzn.to/4ojW240) |
+| Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [Amazon](https://amzn.to/48r48mx) |
+| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [Amazon](https://amzn.to/4mYVoYg) |
+| Rounds | Four Tet | 2003 | Pocket Operator風ミニシンセ的電子音 | [Amazon](https://amzn.to/4q451HY) |
+| Cosmogramma | Flying Lotus | 2010 | 小型シンセ/電子玩具音を組み合わせた複雑テクスチャ | [Amazon](https://amzn.to/4q2iujP) |
+| Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bendingの書籍 | [Amazon](https://amzn.to/4haxkAD) |
+| Pulse Demon | Merzbow | 1996 | 改造電子玩具・ノイズ中心の実験音楽 | [Amazon](https://amzn.to/46TWAGo) |
+| Solar Gambling | Omar Rodríguez-López | 2010 | ミニシンセ、玩具的電子音の前衛ギター | [Amazon](https://amzn.to/4ofMWoK) |
+| Big Science | Laurie Anderson | 1982 | Stylophoneや簡易シンセを用いた音楽/パフォーマンス実験 | [Amazon](https://amzn.to/3WF0yhn) |
 

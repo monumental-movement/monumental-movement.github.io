@@ -9,13 +9,13 @@ permalink: /zh-hant/va-thank-god-its-friday/
 tags:
 - Disco
 - 70s
-title: VA－感謝上帝，今天是星期五
+title: VA – Thank God It's Friday
 ---
 
 
-《VA - 感謝上帝，今天是星期五》由卡薩布蘭卡於 1978 年發行。
+「VA – Thank God It's Friday」は、1978年にCasablancaからリリースされました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Love And Kisses –Thank God It's Friday
 A2. Pattie Brooks–After Dark

@@ -9,16 +9,16 @@ permalink: /zh-hant/corduroy-high-havoc/
 tags:
 - Acid Jazz
 - 90s
-title: 燈芯絨 – 高破壞
+title: Corduroy – High Havoc
 ---
 
 
-Corduroy 是一支來自倫敦的四人酸性爵士樂隊。
+Corduroy(コーデュロイ)は、ロンドンを拠点に活動する4人組のアシッドジャズバンド。
 
-《High Havoc》是 Corduroy 的第二張概念專輯，於 1993 年由 Acid Jazz Records 發行。第二首歌曲《London England》據說是20世紀90年代的舞池經典，Corduroy的代表作包括許多其他進入英國獨立排行榜前10名的單曲。
+「High Havoc」は、1993年にAcid Jazz RecordsからリリースされたCorduroyの2枚目のコンセプトアルバム。2曲目London Englandは1990年代のダンスフロアクラシックと言われており、他にもUKインディーズチャートTOP10に入ったシングルが多数収録されたCorduroyの代表作。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. High Havoc
 2. London England
@@ -35,7 +35,7 @@ Corduroy 是一支來自倫敦的四人酸性爵士樂隊。
 13. Clearing Up Music
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

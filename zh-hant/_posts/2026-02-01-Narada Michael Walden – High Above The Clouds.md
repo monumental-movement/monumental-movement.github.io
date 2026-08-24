@@ -11,25 +11,25 @@ tags:
 - Funk
 - Soul
 - 80s
-title: 納拉達·邁克爾·沃爾登——高高在雲端
+title: Narada Michael Walden – High Above The Clouds
 ---
 
 
 
-納拉達·邁克爾·沃爾登 (Narada Michael Walden) 的職業生涯始於鼓手，活躍於爵士樂融合領域，與約翰·麥克勞克林 (John McLaughlin) 和 Mahavishnu Orchestra、Chick Corea、Jaco Pastorius、Jeff Beck、Wayne Shorter 和 Weather Report 一起表演。
+Narada Michael Walden は、ドラマーとしてキャリアをスタートさせ、ジャズ・フュージョン・シーンで活躍し、ジョン・マクラフリン＆マハヴィシュヌ・オーケストラ、チック・コリア、ジャコ・パストリアス、ジェフ・ベック、ウェイン・ショーター＆ウェザー・リポートなどと共演した。
 
-在昆西瓊斯的指導下，他轉向製作，並在 20 世紀 80 年代和 1990 年代與眾多 R&B 藝術家和各種流派的歌手合作，包括惠特尼休斯頓、艾瑞莎富蘭克林、斯泰西拉蒂索、安吉拉波菲爾、特文坎貝爾和瑪麗亞凱莉。
+クインシー・ジョーンズの指導を受けた後、プロデューサーに転向し、1980年代から1990年代にかけてホイットニー・ヒューストン、アレサ・フランクリン、ステイシー・ラティソウ、アンジェラ・ボフィル、テヴィン・キャンベル、マライア・キャリーなど数多くのR&Bアーティストや、様々なジャンルの歌手と仕事をした。
 
-《High Below The Clouds》是 1985 年發行的專輯《The Nature of Things》中的一首迪斯可歌曲。
+「High Above The Clouds」は、1985年にリリースされたアルバム『The Nature of Things』に収録されているDiscoトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. High Above The Clouds (Celestial Version)
 
 B. High Above The Clouds (Thundering Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m46841776172?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46841776172?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cB9d5MSNrdg?si=eu8UCc60d9jORqqn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

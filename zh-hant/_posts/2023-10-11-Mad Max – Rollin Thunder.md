@@ -9,15 +9,15 @@ permalink: /zh-hant/mad-max-rollin-thunder/
 tags:
 - Heavy Metal
 - Hard Rock
-title: 《瘋狂麥斯》——羅林雷霆
+title: Mad Max – Rollin Thunder
 ---
 
 
-Mad Max 是一支硬搖滾樂隊，由來自德國明斯特的 Michael Voss、Jürgen Brefors、Roland Bergman 和 Axel Kruse 於 1981 年組成。
+Mad Max（マッドマックス）は、ドイツのミュンスター出身のマイケル・ヴォス、ユルゲン・ブレフォース、ローランド・バーグマン、アクセル・クルーゼによって1981年に結成されたハードロックバンド。 
 
-1984年發行的專輯《Rollin' Thunder》是Mad Max的第二張專輯。
+1984年にリリースされたアルバム「Rollin' Thunder」は、Mad Max２枚目のアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Fly, Fly Away
 
@@ -38,7 +38,7 @@ B3. Riding Through The Night
 B4. Thoughts Of A Dying Man
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m90006098663?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90006098663?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bW3hkEJ4mww?si=fbn4Bw-C60jg4lil" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

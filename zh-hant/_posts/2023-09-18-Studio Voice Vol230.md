@@ -15,11 +15,11 @@ title: Studio Voice Vol230 (スタジオボイス) ボブディラン
 
 Studio Voice Vol230 (スタジオボイス)ボブディラン
 
-封面：鮑伯迪倫
+表紙：ボブ・ディラン
 
 ボブディラン　デイヴィッド・アムラム　佐野元春　ヴィム・ヴェンダース　大川ひとみ　メイヨ・トンプソン
 
-#### 內容
+#### Contents
 ```md
 □ 吠える Poetry Vibrations ビートニクからラッパーまで
 □ Beat Now

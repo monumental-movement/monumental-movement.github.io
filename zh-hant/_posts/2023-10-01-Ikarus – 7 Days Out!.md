@@ -9,15 +9,15 @@ permalink: /zh-hant/ikarus-7-days-out/
 tags:
 - House
 - Tribal
-title: 伊卡洛斯 – 7 天后！
+title: Ikarus – 7 Days Out!
 ---
 
 
-Ikarus 是 Toru Shimada 的一個項目，於 1998 年在他的廠牌 Philosomatik Records 上發行。
+IkarusはToru Shimadaのプロジェクトで、彼のレーベルPhilosomatik Records より1998年にリリースされました。
 
-「伊卡洛斯——七日擊！」唱片由許多 DJ 演奏，包括 Danny Tenaglia、Peter Rauhofer、Cevin Fisher 和 Junior Vasquez。
+「Ikarus – 7 Days Out!」は、Danny Tenaglia（ダニー テナグリア）, Peter Rauhofer（ピーター ラウホーファー）, Cevin Fisher（セビン フィッシャー） やJunior Vasquez（ジュニア バスケス）など多くのDJがplayしたレコードです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Awake From A Dream
 
@@ -28,7 +28,7 @@ C. Mo ! Wara Okamatique
 D. A Window To The Future
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m56727358548?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56727358548?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQAzluWVfC4?si=2Ne1xBweTO7yXEUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

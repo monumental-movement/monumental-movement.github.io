@@ -11,15 +11,15 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Beroshima – 機器舞
+title: Beroshima – Dance The Machine
 ---
 
 
-Beroshima 是一個由 Frank Muller 於 1994 年創立的德國技術/電子專案。後來烏爾里希·施瑙斯 (Ulrich Schnauss) 加入，但現在是弗蘭克·穆勒 (Frank Muller) 的個人專案。
+Beroshima (ベロシマ)は、1994年にFrank Muller(フランク・ミュラー)によって結成されたジャーマンテクノ/エレクトロプロジェクト。後にUlrich Schnauss(ウルリッヒ・シュナウス)が参加した時期もあったが、現在はFrank Mullerのソロプロジェクトとなっている。
 
 「Dance The Machine」は、2002年にFrank Muller自身が運営するドイツのレーベルBeroshima Musicリリースしたテクノ・エレクトロトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Dance The Machine (Extended Version)
 
@@ -27,7 +27,7 @@ B1. Dance The Machine (Minimal Mix)
 B2. Dance The Machine (Disco Club Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gNkVLqhXiXY?si=UtGNeTrvfERhGD9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

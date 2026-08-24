@@ -9,13 +9,13 @@ permalink: /zh-hant/miles-davis-miles-davis-live-festival-international-de-jazz-
 tags:
 - Jazz
 - 80s
-title: 邁爾斯戴維斯 – 邁爾斯戴維斯現場表演 - 蒙特利爾國際爵士樂節
+title: Miles Davis – Miles Davis Live - Festival International De Jazz De Montreal
 ---
 
 
-邁爾斯戴維斯 (Miles Davis) 1985 年加拿大蒙特利爾國際爵士音樂節現場視頻 (VHS)。 1986 年發布。
+1985年にカナダでおこなわれた、Montreal International Jazz Festival (モントリオール・インターナショナル・ジャズ・フェスティバル)でのマイルス・デイヴィスのライブ映像(VHS)。1986年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Overture
 2. One Phone Call
@@ -27,4 +27,4 @@ title: 邁爾斯戴維斯 – 邁爾斯戴維斯現場表演 - 蒙特利爾國�
 8. Jean Pierre
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m32981482918?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32981482918?afid=6142608987){: .button1}

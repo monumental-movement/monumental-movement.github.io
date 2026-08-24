@@ -11,18 +11,18 @@ tags:
 - Breakbeat
 - Hardcore
 - 90s
-title: T99 – 阿納斯塔西婭
+title: T99 – Anasthasia
 ---
 
 
-T99是活躍於80年代末90年代初的比利時二人組合。
-T99 最初是 Patrick De Meyer 的個人項目，但在 Patrick 聽到 Olivier Abbeloos 的歌曲“Anastasia”並建議 Abbeloos 將其發行為 T99 後，T99 成為 Patrick De Meyer 和 Olivier Abbeloos 的錄音。
+T99は、80年代後半から90年代前半に活動したベルギーのデュオ。
+T99は当初、Patrick De Meyerのソロプロジェクトだったが、Patrickが Olivier Abbeloosが製作していた曲「Anasthasia」を聞き、AbbeloosにT99 としてリリースするよう提案したことで、T99はPatrick De MeyerとOlivier Abbeloosのディオとなった。
 
-《Anastasia》是 XL Recordings 於 1991 年發行的一首 techno Breakbeat 硬蕊曲目，XL Recordings 是一家發行銳舞和舞曲音樂的英國獨立唱片公司。
+「Anasthasia（アナスタシア）」は、レイブミュージック＆ダンスミュージックをリリースするUKのインディペンデントレーベルXL Recordingsから1991年にリリースされたテクノ・ブレイクビーツ・ハードコアトラック。
 
 AA面は、 Nick HalkesとRichard Russellによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Anasthasia (Out Of History Mix)
 A2. Anasthasia (Dub Mix)
@@ -31,7 +31,7 @@ AA1. Anasthasia (Valentine Boys Rap Mix- Chapter One)
 AA2. Anasthasia (Valentine Boys Rap Mix- Chapter Two)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m38328257498?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38328257498?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6G2HTWfpUo?si=PZm-XStxipvFLgyd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

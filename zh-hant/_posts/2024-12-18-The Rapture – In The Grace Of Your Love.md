@@ -11,17 +11,17 @@ tags:
 - Indie Rock
 - New-Wave
 - Rock
-title: 狂喜－在你愛的恩典中
+title: The Rapture – In The Grace Of Your Love
 ---
 
 
-The Rapture是一支來自紐約的美國舞曲龐克搖滾樂隊，成立於1998年。他們於2014年解散，但於2019年恢復活動。
+The Raptureは、1998年に結成されたNY出身のUSのダンスパンク・ロックバンド。2014年に解散したが、2019年から活動を再開した。
 
-他們融合了舞曲龐克、後龐克、acid house、迪斯科和電子樂等多種音樂流派，被稱為2000年代初後龐克復興的先驅，尤其是他們將早期後龐克聲音與電子和舞曲相結合的獨特風格。
+ダンスパンク、ポストパンク、アシッドハウス、ディスコ、エレクトロニカなど、さまざまなジャンルの音楽をミックスし、特に初期のポストパンクサウンドとエレクトロニックとダンスをミックスした独特のスタイルで、2000年代初頭のポストパンクリバイバルの先駆者として知られている。
 
-《In The Grace Of Your Love》於 2011 年由 DFA Records 發行，是 The Rapture 的第三張也是最後一張錄音室專輯。
+2011年にDFAレコーズからリリースされた「In The Grace Of Your Love」は、The Raptureの3枚目のスタジオアルバムであり最後のアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Sail Away
 2. Miss You
@@ -36,7 +36,7 @@ The Rapture是一支來自紐約的美國舞曲龐克搖滾樂隊，成立於199
 11. It Takes Time To Be A Man
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

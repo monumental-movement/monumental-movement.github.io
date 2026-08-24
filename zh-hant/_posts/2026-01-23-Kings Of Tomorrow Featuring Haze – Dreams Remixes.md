@@ -10,15 +10,15 @@ tags:
 - House
 - Tribal House
 - 00s
-title: Kings Of Tomorrow 特色 Haze – Dreams（混音）
+title: Kings Of Tomorrow Featuring Haze – Dreams (Remixes)
 ---
 
 
-一首 House/Tribal House 曲目，由西班牙 DJ/製作人組合 Chus & Ceballos 的“Dreams”重新混音，其中 Haze 是 Kings Of Tomorrow、Sandy Rivera 和 Jay“Sinister”Sealée 的製作團隊。
+Sandy Rivera と Jay "Sinister" SealéeによるプロダクションチームKings Of TomorrowがHazeをフィーチャーした「Dreams」を、スペインのDJ／プロデューサーデュオChus & Ceballos(チュス＆せバロス)がリミックスしたHouse／Tribal Houseトラック。
 
-該歌曲於 2004 年由著名的英國舞曲廠牌 Defected 發行。
+2004年にイギリスの名門ダンスレーベルDefectedからリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Dreams (Chus & Ceballos Club Mix)
 
@@ -26,4 +26,4 @@ AA1. Dreams (Chus & Ceballos Dub)
 AA2. Dreams (Mucho Beats)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m60968105608?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60968105608?afid=6142608987){: .button1}

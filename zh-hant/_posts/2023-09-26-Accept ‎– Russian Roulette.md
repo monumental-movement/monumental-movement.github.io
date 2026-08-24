@@ -15,14 +15,14 @@ title: Accept – Russian Roulette
 
 「Accept – Russian Roulette」は、ドイツのヘヴィメタルバンドであるAccept（アクセプト）のアルバムです。このアルバムは、1986年にリリースされた7枚目のスタジオアルバムです。
 
-這張專輯以其沉重的吉他連複段、有力的歌聲和充滿活力的鼓聲而聞名。
+このアルバムは、ヘヴィなギターリフ、パワフルなボーカル、エネルギッシュなドラミングで知られています。
 
-「Aiming High」 - 一首快速而有力的歌曲，吉他獨奏和雙簧片脫穎而出。透過這首歌你可以充分享受Accept典型的重金屬聲音。
+「Aiming High」- スピーディで迫力のある曲で、ギターソロやツインリードの演奏が際立ちます。Acceptの典型的なヘヴィメタルサウンドがこの曲で存分に楽しめます。
 
-「俄羅斯輪盤賭」是 Accept 粉絲的經典之作，將讓您領略 80 年代重金屬的味道。
+「Russian Roulette」は、Acceptのファンにとってはクラシックな作品であり、80年代のヘヴィメタルの魅力を存分に味わえるでしょう。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. T.V. War
 
@@ -45,7 +45,7 @@ B4. Man Enough To Cry
 B5. Stand Tight
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m79383927346?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79383927346?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kSXuCXacOA?si=AAC4Lklo1oxIzG0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

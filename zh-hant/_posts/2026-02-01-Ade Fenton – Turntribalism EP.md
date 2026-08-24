@@ -9,15 +9,15 @@ permalink: /zh-hant/ade-fenton-turntribalism-ep/
 tags:
 - Techno
 - 00s
-title: 阿德芬頓 (Ade Fenton) – 旋轉部落主義 EP
+title: Ade Fenton – Turntribalism EP
 ---
 
 
-Ade Fenton 是一位英國 DJ/製作人，與 Paul Smith 共同經營硬科技唱片 Advanced。
+Ade Fenton は、UKを拠点に活動するDJ／プロデューサーであり、Hard technoレーベルAdvancedをPaul Smithと共に運営している。
 
-「Turntribalism EP」是一首 Techno 曲目，於 2000 年在他自己的唱片公司 Advanced 上發行。
+「Turntribalism EP」は、自身のレーベルAdvancedから2000年にリリースされた Technoトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Move
 A2. Untitled
@@ -28,7 +28,7 @@ B1. Evolving
 B2. Pure
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86459397678?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86459397678?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lx1z3V6p-p0?si=EVJwsHsRfdLgBCpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

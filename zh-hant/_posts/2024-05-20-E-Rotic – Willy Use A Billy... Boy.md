@@ -11,23 +11,23 @@ tags:
 - Euro House
 - Hi NRG
 - 90s
-title: E-Rotic – 威利使用比利......男孩
+title: E-Rotic – Willy Use A Billy... Boy
 ---
 
 
-E-Rotic 是一個德國科技流行舞蹈團體，自 1994 年以來一直活躍。創始成員是德國出生的歌手 Lyane Leigh 和美國饒舌歌手 Richard Michael Smith（綽號 Raz-Ma-Taz）。
+E-Rotic（エロティック）は、1994年から活動するドイツのテクノポップダンスユニット。結成時のメンバーはドイツ生まれのヴォーカリストLyane LeighとRaz-Ma-Tazとして知られるアメリカ人ラッパーRichard Michael Smith。
 
-製片人是大衛布蘭德斯（David Brandes），曾製作《Bad Boys Blue》、Chris Norman、Lemon Ice、Vanilla Ninja 等多位藝人。
+プロデューサーはBad Boys Blue、Chris Norman、Lemon Ice、Vanilla Ninjaなど、多くのアーティストをプロデュースするDavid Brandes。
 
-「Willy Use A Billy...Boy」是 E-Rotic 在德國的第四首單曲，但這是他們在日本的首支單曲。
+「Willy Use A Billy... Boy」は、ドイツではE-Roticの4枚目のシングルだが、日本ではデビューシングルとなった。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Willy Use A Billy... Boy (Extended Version)
 B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

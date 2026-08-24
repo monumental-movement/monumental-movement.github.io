@@ -11,15 +11,15 @@ tags:
 - Psychedelic Rock
 - Prog Rock
 - 00s
-title: Mars Volta – Amputechture
+title: The Mars Volta – Amputechture
 ---
 
 
-Mars Volta 是一支美國前衛搖滾樂隊，由前 ATDI 成員 Cedric Bixler 和 Omar Rodriguez 組成。活躍於 2001 年至 2013 年。他的風格融合了多種流派，包括情緒、庫裡莫、配音、鐵克諾、拉丁、薩爾薩和即興創作。
+The Mars Volta（マーズ・ヴォルタ）は、元ATDIのCedric Bixler(セドリック・ビクスラー)とOmar Rodriguez(オマー・ロドリゲス)によるUSプログレッシブロックバンド。2001年から2013年まで活動した。エモ、クルリーモ、ダブ、テクノからラテン、サルサ、インプビゼーションなど様々なジャンルをミックスさせたスタイルが特徴。
 
-他們的第三張專輯《Amputechture》於 2006 年發行，由 Red Hot Chili Peppers 樂團的 John Frusciante 主演。
+レッド・ホット・チリ・ペッパーズのジョン・フルシアンテが全曲参加した3枚目のアルバムAmputechture(アンピュテクチャー)は2006年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Vicarious Atonement
 2. Tetragrammaton
@@ -31,7 +31,7 @@ Mars Volta 是一支美國前衛搖滾樂隊，由前 ATDI 成員 Cedric Bixler 
 8. El Ciervo Vulnerado
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m77895978472?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77895978472?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hhzM3VhM2yA?si=ypMiKQu4DWz4uuhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

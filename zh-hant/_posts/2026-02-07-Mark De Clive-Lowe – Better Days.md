@@ -10,20 +10,20 @@ tags:
 - Future Jazz
 - Deep House
 - 00s
-title: 馬克‧德‧克萊夫-洛—《更好的日子》
+title: Mark De Clive-Lowe – Better Days
 ---
 
 
 
-Mark De Clive-Lowe 是一位日本裔紐西蘭音樂家/作曲家/DJ/製作人，目前居住在日本。他的風格融合了另類爵士樂、電子音樂和碎節奏。
+Mark De Clive-Lowe は、現在日本を拠点に活動する日系ニュージーランド人ミュージシャン／作曲家／DJ／プロデューサー。オルタナティブジャズ、エレクトロニカ、ブロークンビーツなどを融合させたスタイルが特徴。
 
-《Better Days》是一首由英國廠牌 People 於 2000 年發行的未來爵士樂/Deep House 曲目。
+「Better Days」は、2000年にUKのレーベルPeople からリリースされたFuture Jazz／Deep Houseトラック。
 
-A1 & A2：奇普·馬修斯（貝斯）、尼克·加法尼（鼓）、金·帕特森（小號）、托馬斯·斯托爾斯（主唱）
+A1＆A２：Chip Matthews（Bass ）、Nick Gaffaney（Drums）、Kim Paterson（Trumpet）、Thomas Stowers（Vocals）
 
-B：尼克·加法尼（鼓）、安德烈·厄普斯頓（混音）、金·帕特森（小號）
+B： Nick Gaffaney（Drums）、Andre Upston（Mixed）、Kim Paterson（Trumpet）
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Better Days (Unit 46 Re-edit)
 A2. Better Days (Unit 46 Jazz & Bonus Beats Edit)
@@ -31,7 +31,7 @@ A2. Better Days (Unit 46 Jazz & Bonus Beats Edit)
 B. Chocolate Sunday
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m20371140555?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20371140555?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cMWRuM3VuR4?si=gevv2_MNszhoHOvZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

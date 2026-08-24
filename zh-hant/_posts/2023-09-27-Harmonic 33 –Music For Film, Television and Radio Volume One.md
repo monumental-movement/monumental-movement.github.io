@@ -9,23 +9,23 @@ permalink: /zh-hant/harmonic-33-music-for-film-television-and-radio-volume-one/
 tags:
 - Leftfield
 - Downtempo
-title: Harmonic 33 – 電影、電視與廣播音樂第一卷
+title: Harmonic 33 –Music For Film, Television & Radio Volume One
 ---
 
 
-這張專輯於 2005 年發行，是 Warp 專輯中的經典。
+2005年にリリースされたこのアルバムは、Warpのリリースの中でもクラシックな内容です。
 
-從《Optigan》搖擺的外太空節奏到《Carousel》旋轉的遊樂園氛圍，Harmonic 33 在短時間內將盡可能多的情緒融入其中。
+"Optigan"のスイングするような外宇宙のグルーヴから、"Carousel"の回転する遊園地のような雰囲気まで、Harmonic 33は短い時間の中で最大限のムードを詰め込んでいます。
 
-輕鬆的聆聽流暢流暢，例如“Bossa Nova Supernova”和“Departure Lounge”。
+"Bossa Nova Supernova"や"Departure Lounge"のように、イージーリスニングはスムーズに流れます。
 
-另一方面，如果您正在尋找徹底的古怪，請聽聽“Funky Duck”。
+逆に徹底的な奇抜さを求めるなら、"Funky Duck"を聞いてみましょう。
 
-如果你喜歡諜報劇，我們有《偏執狂》和《長影》。
+スパイドラマがお好みなら、"Paranoia"と"Long Shadow"が用意されています。
 
-即使是像“Marionette”這樣的短歌，這張專輯仍然讓人感覺到它的存在，專輯以深思熟慮和憂鬱的“Planet 54”結束。
+"Marionette"のような短い楽曲でも、その存在感はしっかりと主張して、考え深くメランコリックな"Planet 54"で、このアルバムは締めくくられます。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Optigan
 
@@ -60,7 +60,7 @@ title: Harmonic 33 – 電影、電視與廣播音樂第一卷
 16. Pianet 54
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrAkBKCVDVI?si=vTEzL103-VXkWYY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,17 +9,17 @@ permalink: /zh-hant/london-dodgers-down-down-biznizz/
 tags:
 - UK Garage
 - 00s
-title: 倫敦道奇隊 – Down Down Biznizz
+title: London Dodgers – Down Down Biznizz
 ---
 
 
-倫敦道奇隊 (Ras Kwame) 是一位駐倫敦的 DJ 兼製作人。前 BBC Radio 1 和 1Xtra DJ，現任 Capital Xtra 的 Dancehall 和 Reggae DJ。
+London Dodgers(Ras Kwame)は、ロンドンを拠点とするDJ・プロデューサー。BBCラジオ1と1Xtraの元DJで、現在はCapital XtraでDancehall & Reggae DJをしている。
 
-UK Garage 與 Demolition Man 和 Vincent J. Alvis 合作的“Down Down Biznizz”。它於 2002 年在英國車庫和污垢廠牌 Locked On 上發行。
+「Down Down Biznizz」は、Demolition Man & Vincent J. AlvisをフィーチャーしたUK Garage 。2002年にUKガラージ&グライム レーベルLocked Onからリリースされた。
 
-A 是英國車庫製作人/混音團體 D'n'D 的混音作品。
+Aは、UKガラージのプロデューサー/リミキサー集団D'n'Dによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Down Down Biznizz (Darqwan Remix)
 
@@ -27,7 +27,7 @@ B1. Down Down Biznizz (Soul Blaque Remix)
 B2. Down Down Biznizz (Soul Blaque Dub)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m96943968147?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96943968147?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YlxwIwQtzw?si=m2lo6IWT-R0CC8YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

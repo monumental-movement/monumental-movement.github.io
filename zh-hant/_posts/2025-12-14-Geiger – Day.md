@@ -11,20 +11,20 @@ tags:
 - Tech House
 - House
 - 00s
-title: 蓋革 - 日
+title: Geiger – Day
 ---
 
 
-蓋格 (Alexander P.J. Geiger) 於 2006 年在德國科隆唱片公司發行的 Downtempo/Tech House 曲目。蓋格也以 Fahrland, Nass 的名義運作。
+Geiger(Alexander P.J. Geiger)が、ドイツ・ケルンのレーベルFirmから2006年にリリースしたDowntempo／Tech Houseトラック。Geigerは、Fahrland, Nass名義でも活動していた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Talk To Me
 
 B. Day
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m16800420587?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16800420587?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg276Kk-xUI?si=q0eyukuz1ETK0yOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

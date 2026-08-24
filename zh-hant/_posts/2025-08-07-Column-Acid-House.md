@@ -11,116 +11,116 @@ tags:
 - Acid House
 - 80s
 - 90s
-title: 【專欄】酸屋：聲音的化學反應與文化轉型
+title: 【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容
 ---
 
 
-## 硬體尖叫，身體響應
+## ハードウェアが叫び、肉体が応える
 
 
-文：mmr｜主題：聲音與文化轉化的化學反應
+文：mmr｜テーマ：サウンドの化学反応と文化の変容
 
 
 
-<小時>
+<hr>
 
-### 來源：來自芝加哥地下的輻射
-Acid house 是一種音樂流派，起源於 20 世紀 80 年代中期美國芝加哥的地下俱樂部場景，是 house 音樂的一個子流派。
+### 起源：シカゴの地下からの放射
+アシッド・ハウス（Acid House）は、1980年代中盤のアメリカ・シカゴのアンダーグラウンド・クラブ・シーンから誕生した音楽ジャンルであり、ハウス・ミュージックのサブジャンルのひとつです。
 
-這種流派的起源源於對一種名為 Roland TB-303 低音線合成器的電子樂器的「意外誤用」。 TB-303 最初是作為低音吉他的替代品而開發的，後來被 DJ 和製作人（特別是來自名為 Phuture 的單位）用來以意想不到的方式操縱它，產生起伏、流暢和迷幻的貝斯線。
+このジャンルの原点は、Roland TB-303 Bass Line Synthesizerという電子楽器の“偶然の誤用”により生まれました。もともとベースギターの代用として開発されたTB-303ですが、DJやプロデューサーたち（特に**Phuture（フィューチャー）**というユニット）がこのマシンを予期せぬ方法で操作することで、「うねるような」「液体的な」「サイケデリックな」ベースラインが生成されたのです。
 
-Phuture 1987 年的單曲“Acid Tracks”成為這種新風格的原型，無論是聲音特徵還是名稱。
+1987年にPhutureがリリースしたシングル「Acid Tracks」が、その音の特徴と名称の両方において、この新しいスタイルの原型となりました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eWpA_xwT1to?si=GLz0gzYpdlJr5a0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 聲音特徵：TB-303帶來的化學聲像
-Acid house最重要的特徵是以下聲音元素：
+### サウンドの特徴：TB-303がもたらすケミカルな音像
+アシッド・ハウスの最も重要な特徴は、以下のようなサウンド要素です：
 
 
-<小時>
+<hr>
 
-#### TB-303 基線
+#### TB-303によるベースライン
 
-- 獨特的“purpy”和“squish”聲音
+- 独特の「ピュルピュル」「グニャグニャ」した音
 
-- 濾波器共振和滑動引起的神秘聲學變化
+- フィルターのレゾナンスとスライドによって発生する不思議な音響変化
 
-- 模擬的隨機性和手動操作的有機性
+- アナログのランダム性と手動操作による有機性
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/omHUR3R0Qqw?si=boX8O6bMt_O796rS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-#### 四踢踢
+#### 4つ打ちキック
 
-- BPM 是 120-130 左右的穩定節奏
+- BPMは120〜130前後の安定したテンポ
 
-- TR-808 或 TR-909 與鼓模式的標準組合
-
-
-<小時>
-
-#### 簡約結構
-
-- 反覆循環帶來的旅行感
-
-- 透過漫長的累積和細節的變化營造出一種狂喜感。
-
-這種聲音作為一種「化學聲音」具有巨大的效果，可以在俱樂部的黑暗或閃光燈的照射下使舞者進入一種恍惚的狀態。
+- TR-808またはTR-909によるドラムパターンとの組み合わせが定番
 
 
-<小時>
+<hr>
 
-### 傳播到英國：愛情之夏與第二波浪潮
+#### ミニマルな構造
 
-從 1987 年底到 1988 年，Acid house 迅速傳播到英國。俱樂部 DJ 將芝加哥的白色標籤帶回英國，並迅速傳播到倫敦和曼徹斯特的俱樂部場景。
+- 繰り返しのループによるトリップ感
 
+- 長時間のビルドアップと細かい変化で恍惚感を生み出す
 
-<小時>
-
-####  《愛情的第二個夏天》：1988
-
-- 酸屋和搖頭丸（MDMA）之間的聯繫
-
-- 從市中心俱樂部擴展到戶外狂歡
-
-- 中心包括倫敦的 Shoom 和曼徹斯特的 Haçienda
+このサウンドは、クラブの暗がりやストロボの中で、ダンサーをトランス状態へ導く「ケミカル・サウンド」として絶大な効果を持ちました。
 
 
-<小時>
+<hr>
 
-#### 影響我的英國藝術家
+### イギリスへの伝播：サマー・オブ・ラヴとセカンドウェーブ
 
-- [一個叫傑拉德「巫毒雷」的人](https://amzn.to/4q8RJtT)
-
-- [808州「太平洋州」](https://amzn.to/3J8mz5a)
-
-- 帶有 The KLF 和 Orbital 等酸性元素的狂歡風格
+アシッド・ハウスは1987年末から1988年にかけて、イギリスへと急速に波及します。クラブDJたちがシカゴのホワイトラベルをUKに持ち帰り、ロンドンやマンチェスターのクラブシーンで急激に広まりました。
 
 
-<小時>
+<hr>
 
-### 時尚與符號：笑臉與DIY文化
+####  「セカンド・サマー・オブ・ラヴ（Second Summer of Love）」：1988年
 
-Acid house 不僅影響音樂，也影響視覺和青年文化。
+- アシッド・ハウスとエクスタシー（MDMA）の結びつき
 
-**笑臉(☻)**：作為酸屋的象徵傳播到世界各地
+- インナーシティ・クラブから野外レイヴへ拡大
 
-- 黃色、霓虹燈、迷幻的視覺效果
+- ロンドンのShoomやマンチェスターのHaçiendaが中心地
+
+
+<hr>
+
+#### 影響を受けたUKアーティスト
+
+- [A Guy Called Gerald 「Voodoo Ray」](https://amzn.to/4q8RJtT)
+
+- [808 State 「Pacific State」](https://amzn.to/3J8mz5a)
+
+- The KLF、Orbital など、アシッド的要素を取り込んだレイヴ系
+
+
+<hr>
+
+### ファッションとシンボル：スマイリーフェイスとDIY文化
+
+アシッド・ハウスは音楽だけでなく、視覚文化や若者文化にも影響を与えました。
+
+**スマイリーフェイス（☻）**：アシッド・ハウスの象徴として世界中に拡散
+
+- イエローカラー、ネオン、サイケデリックなヴィジュアル
 
 - Tシャツ、フライヤー、レコードジャケットに見られるDIYグラフィック
 
-- 與當時的 Zine 文化和免費報紙高度相容
+- 当時のZine文化やフリーペーパーとも親和性が高い
 
-從 1990 年代起，這種時尚一直延續到銳舞文化、trance、techno、breakbeat 和其他領域。
+このファッションは、レイヴ文化、トランス、テクノ、ブレイクビートなど90年代以降のシーンにも受け継がれていきました。
 
 
-<小時>
+<hr>
 
-### 酸屋的傳播與演變
-20 世紀 90 年代後，Acid house 在世界各地繼續以各種方式發展。
+### アシッド・ハウスの波及と進化
+アシッド・ハウスは90年代以降も世界中で多様に進化していきました。
 
 <div class="table-border">
 <table>
@@ -156,50 +156,50 @@ Acid house 不僅影響音樂，也影響視覺和青年文化。
 </table>
 </div>
 		
-<小時>
+<hr>
 
 
-<小時>
+<hr>
 
-### 近代的定位與重新評價
+### 現代における位置づけと再評価
 
-如今，在復古文化和模擬設備的復興中，acid house 正在被重新評估。具體來說，它在以下幾個方面表現突出：
+今日、アシッド・ハウスはレトロカルチャーやアナログ機材復権の流れの中で再評価されています。特に以下の点で存在感を放っています：
 
-- 節慶和狂歡節的經典回歸
+- フェスやレイヴにおけるクラシック回帰
 
-- 雜誌、檔案館與藝術展覽中的文化重新評價
+- Zine、アーカイブ、アート展示での文化的再評価
 
-- Acid set 在 YouTube 和 Bandcamp 上的受歡迎程度
+- YouTubeやBandcamp上でのアシッド系セット人気
 
-- TB-303克隆飛機爆炸式傳播（模擬設備再現）
+- TB-303クローン機の爆発的な普及（アナログ機材の再現）
 
-Acid House 不僅僅是一種音樂流派，它仍然是電子音樂和反主流文化的結合。
+アシッド・ハウスは、単なる音楽ジャンル以上の存在として、電子音楽とカウンターカルチャーの結節点にあり続けているのです。
 
 
-<小時>
+<hr>
 
-### 酸永遠不死
+### アシッドは死なず
 
-Acid house是一種罕見的音樂文化，誕生於偶然的科技創新與時代精神的交會。 30 多年後，TB-303 的聲音繼續在俱樂部樓層和數位空間中產生共鳴，並繼續激勵未來的音樂家。
+アシッド・ハウスは、偶発的な技術革新と時代の精神が交錯して生まれた、稀有な音楽文化です。30年以上が経過してもなお、TB-303のうねりはクラブフロアやデジタル空間に響き続け、未来の音楽家たちを刺激し続けています。
 
-Acid 不是過去的迴響，而是不斷進化的聲音突變體。
+アシッドは、過去の残響ではなく、今もなお進化し続ける音のミュータントなのです。
 
 ---
 
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eK5695jB6vc?si=HFqnh8aSeZRUmUPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-### 相關專欄
+### 関連コラム
 
-🔗 【【專欄】從芝加哥到世界：浩室音樂的誕生與演變】(https://monumental-movement.jp/Colum-Chicago-House)
+🔗 [【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化](https://monumental-movement.jp/Colum-Chicago-House)
 
-🔗 【【專欄】Roland TR-1000：重新定義節奏─模擬基因與AI時代的心跳】(https://monumental-movement.jp/Column-Roland-TR-1000)
+🔗 [【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動](https://monumental-movement.jp/Column-Roland-TR-1000)
 
 ---

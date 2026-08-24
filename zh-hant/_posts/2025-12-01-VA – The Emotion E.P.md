@@ -10,19 +10,19 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: VA – 情感 E.P.
+title: VA – The Emotion E.P
 ---
 
 
-Cristian Varela 的唱片公司 Donkey Head Recordings 於 2002 年發行了 Tribal/Techno 合輯。
+Cristian Varela(クリスチャン・ヴァレラ)主宰のレーベルDonkey Head Recordings から2002年のリリースされたTribal／Technoコンピレーション。
 
-Manuel Río Martin，也被稱為 Bando，是一位西班牙 DJ/製作人，也是 Patchwork 廠牌（N.E.W.S. 的子廠牌）的創始人。
+BandoことManuel Río Martinは、スペイン出身のDJ／プロデューサーであり、レーベルPatchwork (N.E.W.S.のサブレーベル)の設立者。
 
-Cristian Varela，又名 Carlos Duran，是一位西班牙 techno house DJ 和製作人，與 Marco Bailey 共同創立了 Pornographic Recordings 廠牌。
+Carlos DuranことCristian Varelaは、スペイン出身のテクノ・ハウス DJ／プロデューサーであり、Marco Bailey(マルコ・ベイリー)と共にレーベルPornographic Recordingsを立ち上げた。
 
-Tim Baker 是來自底特律的 DJ/製作人。一位傳奇的底特律 DJ，曾與 Jeff Mills 一起居住在 Nectarine Club，也與 Tresor 一起活躍在歐洲。 （2021 年逝世）
+Tim Bakerは、デトロイト出身のDJ／プロデューサー。Jeff Millsと共にNectarine Clubでレジテントを務め、Tresorなどヨーロッパでも活躍したデトロイトの伝説的DJ。(没2021)
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Bando–eeh.....trompeta?
 A2. Carlos Duran–Cuna's Clement
@@ -31,7 +31,7 @@ B1. Tim Baker–Murray Strings
 B2. Carlos Duran–DeeJay Spain Dance Awards 2001
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m96725821332?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96725821332?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKFaBuhEyIY?si=QCTIZyzr9EVq75mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

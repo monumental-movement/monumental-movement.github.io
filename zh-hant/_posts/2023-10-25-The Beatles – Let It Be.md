@@ -10,20 +10,20 @@ tags:
 - Rock
 - 70s
 - 7inch
-title: 披頭四 – 順其自然
+title: The Beatles – Let It Be
 ---
 
 
-披頭四的《Let It Be》於 1970 年 3 月發行，是披頭四在其活躍職業生涯中發行的最後一首單曲，並於次月解散。
+The Beatlesの「Let It Be（レット・イット・ビー）」は、1970年3月にリリースされ、翌月にビートルズが解散となったためビートルズが活動中に発売した最後のシングル。
 
-#### 曲目表
+#### Tracklist
 ```md
 A  Let It Be = レット・イット・ビー
 
 B  You Know My Name (Look Up The Number) = ユー・ノー・マイ・ネーム
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m22922935119?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22922935119?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzOstuzeC-g?si=zbYPXNuUQuxlUSSu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

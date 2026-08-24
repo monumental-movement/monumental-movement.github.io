@@ -9,15 +9,15 @@ permalink: /zh-hant/public-enemy-apocalypse-91-the-enemy-strikes-black/
 tags:
 - Hiphop
 - Classic
-title: 公眾之敵 – 天啟 91...敵人黑襲
+title: Public Enemy – Apocalypse 91... The Enemy Strikes Black
 ---
 
 
-《Apocalypse 91...The Enemy Strikes Black》延續了他們上一張專輯《Fear of a Black Planet》的成功。這張專輯的標題傳達了「繼續反對黑人權利和社會不平等」的訊息。
+「Apocalypse 91... The Enemy Strikes Black」は、先行アルバム「Fear of a Black Planet」の成功を受けて制作された作品です。アルバムのタイトルは、「黒人の権利や社会的な不平等についての闘いを続ける」というメッセージを込めています。
 
-這張專輯採用了 Public Enemy 的標誌性聲音：尖銳的節奏、有力的低音線和充滿政治色彩的歌詞。
+このアルバムには、パブリック・エナミーのシグネチャーサウンドである鋭いビート、強力なベースライン、政治的なメッセージが詰まった歌詞が特徴です。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Lost At Birth
 
@@ -48,7 +48,7 @@ B6. Get The F--- Outta Dodge
 B7. Bring Tha Noize
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m85106789861?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85106789861?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sc0UsEc04S0?si=iEMgU4__uj2DTWA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

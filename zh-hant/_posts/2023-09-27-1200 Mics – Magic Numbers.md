@@ -9,15 +9,15 @@ permalink: /zh-hant/1200-mics-magic-numbers/
 tags:
 - Trance
 - Psychedelic
-title: 1200 麥克風 – 神奇數字
+title: 1200 Mic's – Magic Numbers
 ---
 
 
-1200 Mic's – Magic Numbers 是電子音樂團體 1200 Micrograms 的一張專輯。這張專輯於2009年發行。
+「1200 Mic's – Magic Numbers」は、エレクトロニックミュージックのグループである1200 Micrograms（1200マイクログラムス）のアルバムです。このアルバムは、2009年にリリースされました。
 
-《Magic Numbers》是 1200 Micrograms 的第三張錄音室專輯，以他們迷幻的恍惚狀態和飽滿的聲音為特色。他們的音樂在舞蹈和節日等電子音樂場景中廣受歡迎。
+「Magic Numbers」は、1200 Microgramsの3枚目のスタジオアルバムであり、彼らのサイケデリックトランスやフルオンサウンドを特徴としています。彼らの音楽は、踊りやフェスティバルなどのエレクトロニックミュージックのシーンで人気を博しています。
 
-#### 曲目表
+#### Tracklist
 ```md
 1.The Magic Numbers Theme
 
@@ -34,7 +34,7 @@ title: 1200 麥克風 – 神奇數字
 7.Numbers Are Alive
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m59821579100?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59821579100?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_u0ip7-HNyU?si=s4wCylQ3ypEhAjDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

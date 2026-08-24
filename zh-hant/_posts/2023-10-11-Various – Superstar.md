@@ -9,14 +9,14 @@ permalink: /zh-hant/various-superstar/
 tags:
 - Reggae
 - Dancehall
-title: 各種 – 超級巨星
+title: Various – Superstar
 ---
 
 
-「各種-超級巨星」是
-這是牙買加廠牌「Rookie Production」發行的一張合輯。
+「Various – Superstar」は、
+ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Unknown Artist–The Enigma
 
@@ -43,5 +43,5 @@ B5. Spragga, Lady Saw–Backshot
 B6. Devonte–Sweet Symphony
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
 

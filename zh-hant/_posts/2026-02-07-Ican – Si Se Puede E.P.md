@@ -10,25 +10,25 @@ tags:
 - House
 - Deep House
 - 00s
-title: Ican – Si Se Puede E.P.
+title: Ican – Si Se Puede E.P
 ---
 
 
 
-Ican 是由 Esteban Adame 和 Santiago Salazar 組成的二人組。
+Icanは、Esteban AdameとSantiago Salazarによるデュオ。
 
-2004年，Esteban Adame受到底特律地下抵抗組織Mike Banks的邀請，以鍵盤手身份參與Banks的新項目（Galaxy 2 Galaxy / Los Hermanos），並開始與G2G樂隊成員Santiago Salazar（DJ S2）合作飾演Ican。
+Esteban Adameは、2004年にデトロイトのアンダーグラウンド・レジスタンスのマイク・バンクスに招かれ、バンクスが立ち上げていた新プロジェクト（Galaxy 2 Galaxy / Los Hermanos）にキーボード奏者として参加し、G2Gのバンド仲間でもあるSantiago Salazar（DJ S2）と Icanの活動を開始した。
 
-「Si Se Puede E.P.」是一首 Deep House 曲目，由 Santiago Salazar 和 Esteban Adame 的廠牌 Ican Productions 於 2006 年發行。
+「Si Se Puede E.P.」は、Santiago Salazar とEsteban Adameのレーベル Ican Productions から2006年にリリースされたDeep Houseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Si Se Puede
 
 B. Si Se Puede (Aaron-Carl Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m88278463965?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88278463965?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ohRNl8obLFk?si=f-fjPANpKR_pWc44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

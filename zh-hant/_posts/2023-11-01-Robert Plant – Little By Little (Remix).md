@@ -10,19 +10,19 @@ tags:
 - Rock
 - Remix
 - 7inch
-title: 羅伯特普蘭特 – 一點一點（混音）
+title: Robert Plant – Little By Little (Remix)
 ---
 
 
-Side A 是 Rob Dickins 的混音版。
+A面は、Rob Dickins（ロブ・ディキンス）によるリミックス。
 
-C面和D面在達拉斯現場錄製（1985年6月24日）。
+C面とD面は、ダラスでのライブ録音（1985年6月24日）。
 
-羅伯特·安東尼·普蘭特 (Robert Anthony Plant) 1948 年出生於英國斯塔福德郡西布羅姆維奇。
+ロバート・アンソニー・プラントは、1948年にイギリスのスタッフォードシャー州ウェスト・ブロムウィッチで生まれました。
 
-羅伯特普蘭特主要以搖滾樂團齊柏林飛船的主唱而聞名，被譽為搖滾史上最偉大的主唱之一。
+ロバート・プラントは主に、ロックバンド「 Led Zeppelin」のボーカリストとして知られ、ロック史上最高のボーカリストの一人として称賛されています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Robert Plant–Little By Little (Remix)
 
@@ -33,7 +33,7 @@ C. Robert Plant–Easily Lead
 D. Robert Plant And The Honeydrippers–Rockin' At Midnight
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m78201761711?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78201761711?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EaL_3bdbbeQ?si=A2EoymHdOoSVdDSP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

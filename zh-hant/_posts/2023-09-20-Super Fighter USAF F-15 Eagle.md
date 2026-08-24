@@ -8,13 +8,13 @@ layout: post
 permalink: /zh-hant/super-fighter-usaf-f-15-eagle/
 tags:
 - Ambient
-title: 美國空軍 F-15 鷹超級戰鬥機
+title: Super Fighter USAF F-15 Eagle
 ---
 
 
-美國空軍 F-15 鷹超級戰鬥機
+Super Fighter USAF F-15 Eagle
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  プロローグ
 
@@ -33,4 +33,4 @@ B3  空中戦訓練中の無線交信 （コクピットにて）
 B4  夕暮れの着陸
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

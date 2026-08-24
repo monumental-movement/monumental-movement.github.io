@@ -9,15 +9,15 @@ permalink: /zh-hant/mondo-grosso-butterfly/
 tags:
 - House
 - Deep House
-title: Mondo Grosso – 蝴蝶
+title: Mondo Grosso – Butterfly
 ---
 
 
-《Mondo Grosso – Butterfly》作為大澤伸一的EP也受到了許多聽眾的支持。
+「Mondo Grosso – Butterfly」は、大沢伸一のEPでも多くのリスナーに支持されています。
 
-《蝴蝶》是代表Mondo Grosso音樂風格的歌曲之一，以其獨特的聲音而聞名，融合了電子、浩室、爵士、R&B等多種音樂元素。
+「Butterfly」はMondo Grossoの音楽スタイルを代表する曲の一つで、エレクトロニック、ハウス、ジャズ、R&Bなど、さまざまな音楽要素を組み合わせた独自のサウンドで知られています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  Butterfly (Main)
 
@@ -28,7 +28,7 @@ B1  Butterfly (Francois K Jazzy Vibe Mix)
 B2  Butterfly (Main Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m70429035417?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70429035417?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lxSuz8WVb1c?si=8-w19ifOyku3R5cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

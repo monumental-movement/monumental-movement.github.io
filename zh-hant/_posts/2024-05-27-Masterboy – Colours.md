@@ -11,16 +11,16 @@ tags:
 - Euro House
 - Euro Beat
 - 90s
-title: Masterboy – 顏色
+title: Masterboy – Colours
 ---
 
 
-Masterboy 由 Tommy Schleh 和 Enrico Zabler 領導，是歐洲最著名的歐洲舞團，在 90 年代發行了一系列全球熱門歌曲。他們從 1990 年到 2004 年一直活躍，期間曾經中斷，並於 2013 年恢復活動。
+Tommy Schleh (トミー・シュレー)とEnrico Zabler(エンリコ・ザブラー)が中心となったMasterboyは、90年代に世界的なヒット曲を次々リリースし、ヨーロッパで最も知られたユーロダンスグループ。1990年〜2004年まで活動し、活動休止を経て、2013年から活動を再開している。
 
-《Colors》是 Masterboy 於 1996 年發行的第五張專輯，是一張歐洲 house CD，其中收錄了《Show Me Colours》等熱門歌曲。
-第 13 首歌是由美國 DJ 兼製作人 David Morales 重新混音的。
+「Colours」は、1996年にリリースされたMasterboy5枚目のアルバムで「Show Me Colours」などヒット曲が収録されているユーロハウスCD。
+13曲目はアメリカのDJ＆プロデューサーDavid Morales（デイヴィット・モラレス）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Intro
 2. Show Me Colours
@@ -37,7 +37,7 @@ Masterboy 由 Tommy Schleh 和 Enrico Zabler 領導，是歐洲最著名的歐�
 13. Land Of Dreaming (David Morales Radio Edit)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m91794133464?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91794133464?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HogCrhWzZ8M?si=jiaqEA-jtBTiVMym" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,19 +10,19 @@ tags:
 - House
 - Hard House
 - UK House
-title: 淡藍色 – 太大聲
+title: Baby Blue – Too Loud
 ---
 
 
-Baby Blue 是英國舞曲二人組，由 Darren Stokes 和 Lyndsey Edwards 組成。
+Baby Blueは、Darren Stokes（ダレン・ストークス）とLyndsey Edwards.（リンジー・エドワーズ）によるUKダンスミュージックデュオ。
 
-也以另一個名字“Tin Tin Out”活躍。
+別名義で、Tin Tin Outとしても活躍した。
 
-B 面的第一首歌是 Trevor Rockcliffe 的混音版，他活躍於 Love Parade、Dance Planet、Tribal Gathering 等音樂節以及世界著名的俱樂部。
+B面１曲目は、Love Parade, Dance Planet, Tribal Gatheringなどのフェスや世界的に有名なクラブで活躍するTrevor Rockcliffeによるremix。
 
-B面的第二首歌是戴夫·奧德（Dave Aude）的混音版，他曾混音過酷玩樂隊、凱蒂·佩里、蕾哈娜、Lady Gaga、Pet Shop Boys、碧昂絲等樂隊，並因與布魯諾·馬爾斯合作的馬克·朗森（Mark Ronson）的《Uptown Funk》混音版而獲得了2016年格萊美非古典獎。
+B面２曲目は、コールドプレイ、ケイティ・ペリー、リアーナ、レディー・ガガ、ペット・ショップ・ボーイズ、ビヨンセなどのremixを手がけ、2016年にブルーノ・マーズをフィーチャーしたマーク・ロンソンの「Uptown Funk」のリミックスでグラミー賞の非クラシック部門最優秀リミックス・レコーディング賞を受賞したDave Aude（デイヴ・オード）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Too Loud (Original Mix)
 
@@ -31,7 +31,7 @@ B1. Too Loud (Trevor Rockcliffe Remix)
 B2. Too Loud (Dave Audé Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m70012906820?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70012906820?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkAfFaI4vgE?si=9YYDVutIoEqG8_hy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

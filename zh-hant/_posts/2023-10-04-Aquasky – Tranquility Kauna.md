@@ -9,24 +9,24 @@ permalink: /zh-hant/aquasky-tranquility-kauna/
 tags:
 - Drum n Bass
 - Acid
-title: Aquasky – 寧靜考納
+title: Aquasky – Tranquility Kauna
 ---
 
 
-這是 Aquasky 於 1996 年在英國廠牌「Moving Shadow」上發行的一張 EP。
+1996年にUKのレーベル「Moving Shadow」からリリースされたAquaskyによるEPです。
 
-Aquasky 曾與 4/4 別名 Black Noise 合作過，例如 Southern Fried 和 Wearhouse Music，但這次他們回歸根源，推出了一首讓他們回到 Acid House 時代的歌曲。
+AquaskyはSouthern FriedやWearhouse Musicといった4/4エイリアスのBlack Noiseに取り組んできましたが、今度は彼らのルーツに戻り、Acid Houseの時代に戻ったトラックです。
 
-這是這個時代必聽的 EP，來自這個三重奏，他們的職業生涯跨越了迷幻音樂、叢林音樂、鼓貝斯、碎拍，現在涵蓋了所有形式的低音音樂。
+Acid、ジャングル、ドラムアンドベース、ブレイクビートを経て、現在ではあらゆるベースミュージックの形態を包括するキャリアを持つこのトリオによるこの時代のEPは必聴。
 
-#### 曲目表
+#### Tracklist
 ```md
 X. Tranquility
 
 Y. Kauna
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=aqsSQ5YqjPX4Za2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

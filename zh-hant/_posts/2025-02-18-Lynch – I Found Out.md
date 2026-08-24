@@ -10,16 +10,16 @@ tags:
 - Funk
 - Soul
 - 80s
-title: 林奇－我發現了
+title: Lynch – I Found Out
 ---
 
 
-羅傑·林奇（本名羅傑·特勞特曼二世），又名林奇，是美國傳奇放克音樂家羅傑·特勞特曼的兒子。
+Lynch(リンチ)ことRoger Lynch(本名Roger Troutman II)は、伝説的なUSのファンクミュージシャンRoger Troutman(ロジャー・トラウトマン)の息子。
 
-《I Found Out》於 1989 年在 Capitol Records 發行，由 Roger Troutman 製作，Zapp 成員包括 Lester Troutman 和 Larry Troutman。
+1989年にCapitol Recordsからリリースされた 「I Found Out」は、Roger Troutmanがプロデュースし、Lester Troutman、Larry Troutman等、Zapp(ザップ)のメンバーが参加している。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. I Found Out (Extended Version)
 A2. I Found Out (Instrumental)
@@ -28,7 +28,7 @@ B1. I Found Out (Street Mix)
 B2. I Found Out (Street Dub)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m72415374434?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72415374434?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Odqnfn_N2E?si=ERXfau9ZelQkekqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

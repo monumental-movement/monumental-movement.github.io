@@ -10,15 +10,15 @@ tags:
 - Techno
 - Minimal
 - Rare
-title: Norken – 靈魂靜電局
+title: Norken – Soul Static Bureau
 ---
 
 
-Lee Anthony Norris，也稱為 Norken，是一位來自英國德文郡的英國電子製作人。
+NorkenことLee Anthony Norris（リー・アンソニー・ノリス）は、イギリスのデヴォンを拠点とするイギリスのエレクトロニックプロデューサー。
 
-2000年發行的雙LP《Soul Static Bureau》是一首techno/minimal/deep house曲目，其特點是平靜和情感元素、複雜的節奏以及Norken獨特的聲音設計。
+2000年にリリースされた２枚組LP「Soul Static Bureau」は、穏やかでエモーショナルな要素を持ちながらも、洗練されたリズムとNorken独特のサウンドデザインが特徴のテクノ・ミニマル・ディープハウストラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Gone
 
@@ -43,7 +43,7 @@ D2. Motor Breeze
 D3. Melissa Blend
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m49930985507?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49930985507?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Se2tRkMcNL4?si=YNI7G5xkyeq0lHfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

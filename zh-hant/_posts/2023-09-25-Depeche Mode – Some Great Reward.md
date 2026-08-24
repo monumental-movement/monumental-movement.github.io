@@ -9,17 +9,17 @@ permalink: /zh-hant/depeche-mode-some-great-reward/
 tags:
 - New-Wave
 - Post Punk
-title: Depeche 模式 – 一些很棒的獎勵
+title: Depeche Mode – Some Great Reward
 ---
 
 
-《Some Great Reward》是 Depeche Mode 1984 年的專輯，也是他們的第四張錄音室專輯。這張專輯是樂團職業生涯中具有開創性的作品之一，展現了他們聲音的演變和成熟。
+「Some Great Reward」は、デペッシュ・モードの1984年のアルバムであり、彼らの4枚目のスタジオアルバムです。このアルバムはバンドのキャリアにおいて重要な位置を占める作品の一つであり、彼らのサウンドの進化と成熟を示しています。
 
-這張專輯收錄了 Depeche Mode 最著名的歌曲，包括作為單曲發行的《People Are People》和《Master and Servant》。
+アルバムには、シングルとしてリリースされた「People Are People」や「Master and Servant」などデペッシュ・モードの代表的な楽曲が収録されています。
 
-《Some Great Reward》是 Depeche Mode 職業生涯中的重要里程碑，標誌著他們音樂風格和主題的演變。它的聲音融合了後龐克、新浪潮和電子音樂的元素，以及在發行時解決社會問題的歌詞。
+「Some Great Reward」はデペッシュ・モードの音楽スタイルやテーマの進化を示すアルバムであり、彼らのキャリアの中でも重要な節目となりました。ポストパンク、ニューウェイブ、エレクトロニックミュージックの要素を取り入れたサウンドと、リリース当時の社会的な問題をテーマにした歌詞が特徴です。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Something To Do
 
@@ -40,7 +40,7 @@ B3. If You Want
 B4. Blasphemous Rumours
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m84995545224?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84995545224?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzGnX-MbYE4?si=FA0-MAQzh-OngtJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

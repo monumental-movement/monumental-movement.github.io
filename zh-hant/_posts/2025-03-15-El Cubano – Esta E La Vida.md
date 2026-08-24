@@ -16,7 +16,7 @@ title: El Cubano – Esta E' La Vida
 
 1997年にリリースされたEl Cubanoの大ヒットシングル「Esta E' La Vida」のラテンハウス・ブラジリアンハウス・トライバルハウス・ダブMixレコード。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Esta E La Vida (Summer In Rio Mix)
 A2. Esta E La Vida (Hard City Dub)

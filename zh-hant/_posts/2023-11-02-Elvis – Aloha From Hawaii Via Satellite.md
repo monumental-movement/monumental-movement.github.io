@@ -9,17 +9,17 @@ permalink: /zh-hant/elvis-aloha-from-hawaii-via-satellite/
 tags:
 - Rock
 - 70s
-title: 艾維斯 – 來自夏威夷的阿羅哈 (透過衛星)
+title: Elvis – Aloha From Hawaii Via Satellite
 ---
 
 
-艾維斯普萊斯利 1973 年夏威夷演出現場專輯 - 日本原創合輯。
+Elvis Presley（エルヴィス・プレスリー）の1973年ハワイ公演ライブアルバム - 日本独自編集盤です。
 
-1973 年 1 月 14 日星期日中午 12:30 在檀香山國際中心現場錄製。
+録音は、1973年1月14日 (日曜日) 午前12:30、ホノルル国際センターにてライヴ録音。
 
-這張專輯是電視特別節目播出後匆忙發行的日本特有合輯。
+このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Introduction: Also Sprach Zarathustra
 
@@ -70,7 +70,7 @@ D4. A Big Hunk O' Love
 D5. Can't Help Falling In Love
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

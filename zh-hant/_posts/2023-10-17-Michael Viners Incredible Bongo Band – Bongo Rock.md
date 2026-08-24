@@ -9,13 +9,13 @@ permalink: /zh-hant/michael-viners-incredible-bongo-band-bongo-rock/
 tags:
 - Break Beat
 - Funk
-title: 邁克爾維納 (Michael Viner) 令人難以置信的邦戈樂隊 – Bongo Rock
+title: Michael Viner's Incredible Bongo Band – Bongo Rock
 ---
 
 
-器樂放克樂團 Michael Viner 的 Incredible Bongo Band 於 1973 年發行的專輯《Bongo Rock》融合了放克、靈魂樂和碎拍元素，後來被許多嘻哈和碎拍領域的藝人所採用。
+1973年にリリースされた、インストゥルメンタルファンクバンド「Michael Viner's Incredible Bongo Band」によるアルバム「Bongo Rock（ボンゴ・ロック）」は、ファンク、ソウル、ブレイクビーツの要素を取り入れた楽曲で、後にヒップホップ、ブレイクビーツシーンで数多くのアーティストがサンプリングした。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Let There Be Drums
 
@@ -34,7 +34,7 @@ B3. Raunchy '73
 B4. Bongo Rock '73
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m78122334102?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78122334102?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVqjD_JyCKM?si=oFsISYT0tOz9RozH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,24 +9,24 @@ permalink: /zh-hant/darude-feel-the-beat/
 tags:
 - Trance
 - 00s
-title: Darude – 感受節拍
+title: Darude – Feel The Beat
 ---
 
 
-Toni-Ville Henrik Virtanen，又名 Darude，是芬蘭 EDM 製作人/DJ，因其 1999 年發行的專輯“Sandstorm”而聞名。他代表芬蘭參加2019年歐洲歌唱大賽。
+DarudeことToni-Ville Henrik Virtanenは、1999年にリリースした『Sandstorm』でよく知られるフィンランド出身のEDMプロデューサー／DJ。2019年のユーロビジョン・ソング・コンテストでフィンランド代表として参加していた。
 
-《Feel The Beat》是一首 Trance 歌曲，由英國獨立 Trance 廠牌 Neo 於 2000 年發行。
+「Feel The Beat」は、2000年にUKのインディペンデントトランスレーベNeoからリリースしたTrance。
 
-B 是 JS16 (Jaakko Sakari Salovaara) 的混音版，JS16 因製作芬蘭嘻哈樂團 Bomfunk MC 的「Freestyler」而聞名，並與 Darude 合作。
+Bは、フィンランドのヒップホップグループBomfunk MC's「Freestyler」のプロデュースやDarudeとの仕事で知られるJS16 (Jaakko Sakari Salovaara)によるremix 。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Feel The Beat
 
 B. Feel The Beat (JS16 Dark Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m34566795370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34566795370?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6zyx09CcHMk?si=F7nLjFdvTWIdNNqG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

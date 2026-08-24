@@ -9,15 +9,15 @@ permalink: /zh-hant/the-lassie-foundation-pacifico/
 tags:
 - Shoegaze
 - Rare
-title: 萊西基金會 - Pacifico
+title: The Lassie Foundation – Pacifico
 ---
 
 
-Lassie Foundation 是一支來自洛杉磯的噪音流行/夢想流行鞋注樂隊，活躍於 1996 年至 2006 年。
+The Lassie Foundation（ラッシー・ファンデーション）は、1996年から2006年まで活動したロサンゼルスのノイズポップ/ドリームポップ・シューゲイザーバンド。
 
-成員 Jeff Schroeder 於 2007 年取代 James Iha 成為 Smashing Pumpkins 的吉他手。
+メンバーのJeff Schroeder（ジェフ・シュローダー）は、James Iha（ジェームス・イハ）の後釜として2007年にSmashing Pumpkins（スマッシング パンプキンズ）のギタリストになった。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Scapa Flow
 
@@ -42,7 +42,7 @@ B5. Bombers Moon
 B6. You Are Infinity
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-gNhgmXrb8?si=EkUUhhXwaLasBgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

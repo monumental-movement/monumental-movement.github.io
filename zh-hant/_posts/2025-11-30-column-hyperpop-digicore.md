@@ -7,20 +7,18 @@ lang: zh-hant
 layout: post
 permalink: /zh-hant/column-hyperpop-digicore/
 tags:
-- Footwork
-- Juke
-- House
-- Chicago
-title: '[專欄] Hyperpop / Digicore'
+- Hyperpop
+- Digicore
+title: 【コラム】 Hyperpop / Digicore
 ---
 
 
 
-# Hyperpop/Digicore：下一代網路音樂的全貌
+## Hyperpop / Digicore：次世代インターネット音楽の全体像
 
-文：mmr｜主題：全面解析源自下一代網路的聲音、製作、文化
+文：mmr｜テーマ：次世代インターネット発 音響・制作・文化の総合分析
 
-Hyperpop 和 Digicore 是基於互聯網的音樂趨勢，融化了流行音樂和俱樂部音樂之間的界限，從 2010 年代末到 2020 年代圍繞 TikTok、SoundCloud 和 Discord 社區發展。在本文中，我們將圍繞延伸至**100 gecs / Charli XCX / glaive / ericdoa / underscores**的譜系，全面整理聲音的特徵、製作方法、使用的設備以及文化背景。
+Hyperpop と Digicore は 2010年代後半〜2020年代に TikTok、SoundCloud、Discord コミュニティを中心に成長した、ポップとクラブ・ミュージックの境界を溶かしたインターネット発の音楽潮流である。本稿では **100 gecs / Charli XCX / glaive / ericdoa / underscores** などに連なる系譜を軸に、音の特徴、制作手法、使用機材、文化背景を総合的に整理する。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtfkrGRK8wA?si=ckNcrMGikgYF5Luo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,27 +38,27 @@ color: #fff;
 </style>
 
 
-# 1. 概述：什麼是 Hyperpop/Digicore？
+# 1. 概要：Hyperpop / Digicore とは何か
 
-超級流行：
+Hyperpop：
 
-* 流行x夜店x噪音的極致融合
-* 過度的音調處理、塌陷的水滴和閃閃發光的高頻合成器
-* PC Music 的巨大影響力（A. G. Cook、SOPHIE）
+* ポップ×クラブ×ノイズの極端な融合
+* 過度なピッチ加工、崩壊するドロップ、きらびやかな高周波シンセ
+* PC Music（A. G. Cook, SOPHIE）の影響が大きい
 
-數碼核：
+Digicore：
 
-* 來自 SoundCloud/Discord 的年輕人 DIY 流行音樂
-* 低保真吉他、情緒演唱、簡單的節拍以及聲帶的手動處理。
-* 以glaive和ericdoa為代表的「網路核心」美學
+* SoundCloud/Discord 発の若年層による DIY ポップ
+* Lo-fi なギターやエモ的歌唱、簡素なビート、ボーカルチェーンの人工的処理
+* glaive や ericdoa に代表される "internet-core" の美学
 
-雖然兩者有重疊，但方向有所不同：**Hyperpop=過度，Digicore=簡單但類似互聯網**。
+両者は重なりつつも、**Hyperpop＝過剰化、Digicore＝素朴だがネット的** という方向性の違いがある。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=-LXGf4a86VqNcowG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# 2. 主要藝術家及角色
+# 2. 主要アーティストと役割
 
 <div class="mermaid">
 graph LR
@@ -82,7 +80,7 @@ graph LR
 
 ---
 
-# 3. 時間表：Hyperpop/Digicore 的發展
+# 3. 年表：Hyperpop / Digicore の発展
 
 <div class="mermaid">
 timeline
@@ -101,12 +99,12 @@ timeline
 
 ---
 
-# 4.聲學特性：Hyperpop側聲結構
+# 4. 音響特徴：Hyperpop 側のサウンド構造
 
-## 4-1.過度的音調處理和共振峰操縱
+## 4-1. 過度なピッチ加工とフォルマント操作
 
-* 強烈應用自動調諧（重新調諧速度最快）
-* 透過升高和降低共振峰來創造「動漫聲音」和「合成聲音」效果。
+* Auto-Tune を強めに適用（Retune Speed 最速）
+* フォルマントを上下させて“アニメ声”“合成音声”的効果
 
 <div class="mermaid">
 flowchart LR
@@ -119,11 +117,11 @@ flowchart LR
 
 ---
 
-## 4-2.故障/崩潰類型掉落
+## 4-2. グリッチ・崩壊系ドロップ
 
-* 比特粉碎
-* 時間拉伸極限
-* 刺耳的噪音，FM 基地
+* bitcrush
+* time-stretch extreme
+* harsh noise、FMベース
 
 <div class="mermaid">
 flowchart TD
@@ -134,26 +132,26 @@ flowchart TD
 
 ---
 
-## 4-3. 100 gecs 結構（類型過度擁擠）
+## 4-3. 100 gecs 的構造（ジャンル過密混入）
 
-* 一首歌曲融合了斯卡、金屬、Trap 和 EDM
-* BPM變革，快速發展
+* スカ、メタル、トラップ、EDM を一曲に混在
+* BPM 変化、急展開
 
 ---
 
-# 5. 聲學特性：Digicore 側的聲音結構
+# 5. 音響特徴：Digicore 側のサウンド構造
 
-## 5-1.低保真吉他 x 情緒搖滾演唱
+## 5-1. Lo-fi ギター×エモ的歌唱
 
-* 稍微扭曲連接到 DI 的乾淨吉他
-* 飽和度+合唱的“扭曲低保真感覺”
+* DI 接続のクリーンギターを軽く歪ませる
+* Saturation + Chorus で“ねじれた lo-fi 感”
 
-## 5-2.網路時代聲鏈
+## 5-2. Internet-era Vocal Chain
 
-* 自動調諧
-* 提高共振峰（光）
-* 加倍器/後擋板
-* OTT（輕）
+* Auto-Tune
+* フォルマント上げ（軽め）
+* Doubler / Slapback
+* OTT（軽め）
 
 <div class="mermaid">
 flowchart LR
@@ -166,82 +164,82 @@ flowchart LR
 
 ---
 
-## 5-3. Minimal Trap / DnB influence
+## 5-3. Minimal Trap / DnB 影響
 
-* 808底座適中
-* 踢腿時間短
-* 踩鈸是 1/8 到 1/32 的細卷。
-
----
-
-# 6. 製作方法和DAW
-
-## 使用的數位音訊工作站
-
-* **FL Studio**（最常見，尤其是 Digicore）
-* **Ableton Live**（強大的 Hyperpop 音效設計）
-* 在某些情況下也會使用 GarageBand / Logic。
-
-## Hyperpop 側面製作範例
-
-
-- 1.利用Auto-Tune對頂線進行強力改造
-- 2. 使用 FM + Wavetable 建立合成器
-- 3.毛邊處理（Stutter/Granular）
-- 4. 過度失真和 OTT 導致斷線
-
-
-## Digicore 側面生產範例
-
-
-- 1. DI吉他→飽和度
-- 2. 輕鼓（Trap 基調）
-- 3.自動調諧+加倍器
-- 4.增加哭泣的頂線
+* 808 ベースは控えめ
+* キックは短い
+* ハイハットは 1/8〜1/32 の細かいロール
 
 ---
 
-# 7. 裝置/插件（尤其是 Digicore 常見）
+# 6. 制作手法と DAW
 
-## 軟體
+## 使用 DAW
 
-* 自動調諧/音調校正
-* Little AlterBoy（共振峰）
-* 奧特
-* Serum/Vital（輕盈且免費至低價）
-* FabFilter Pro-Q / Pro-L（基本處理）
+* **FL Studio**（最も多い。特に Digicore）
+* **Ableton Live**（Hyperpop のサウンドデザインに強い）
+* GarageBand / Logic も一部で使用
 
-## 硬體
+## Hyperpop 側の制作例
 
-* 低成本DI BOX（吉他錄音）
-* 音訊介面（Scarlett 2i2等）
-* 電容式麥克風（AT2020等熱門型號）
 
----
+- 1. トップラインを Auto-Tune で強変換
+- 2. シンセを FM + Wavetable で作成
+- 3. グリッチ加工（Stutter / Granular）
+- 4. Drop に過度な distortion と OTT
 
-# 8. 混合特性
 
-## 超流行音樂
+## Digicore 側の制作例
 
-* 強調高頻 (10-16kHz)
-* 奧特深度
-* 經常使用的飽和度
-* 強限制器
 
-## 數位芯
-
-* 輕微提升吉他頻段 2-4kHz
-* 將人聲放在中間（不要分散太多）
-* 808底座適中
+- 1. ギターを DI → Saturation
+- 2. 軽いドラム（Trap基調）
+- 3. Auto-Tune + Doubler
+- 4. 号泣系トップラインを重ねる
 
 ---
 
-# 9.視覺和文化特徵
+# 7. 機材・プラグイン（Digicore に特に多い）
 
-* 基於 Discord 伺服器的協作文化
-* TikTok 的病毒結構
-* 阿凡達/數位化身
-* 與動漫、遊戲文化的融合
+## ソフトウェア
+
+* Auto-Tune / Pitch Correction
+* Little AlterBoy（formant）
+* OTT
+* Serum / Vital（軽量で無料〜低価格）
+* FabFilter Pro-Q / Pro-L（基本処理）
+
+## ハードウェア
+
+* ローコスト DI BOX（ギター録音）
+* オーディオインターフェイス（Scarlett 2i2 など）
+* コンデンサマイク（AT2020 等の普及モデル）
+
+---
+
+# 8. ミックスの特徴
+
+## Hyperpop
+
+* 高域を強調（10〜16kHz）
+* OTT 深め
+* Saturation 多用
+* リミッター強め
+
+## Digicore
+
+* ギター帯域 2〜4kHz を軽くブースト
+* ボーカルは中心的に配置（広げすぎない）
+* 808 ベースは控えめ
+
+---
+
+# 9. 視覚・文化的特徴
+
+* Discord サーバーを基盤とする共同制作文化
+* TikTok 発のバイラル構造
+* アバター／デジタル身体性
+* アニメ・ゲーム文化との融合
 
 <div class="mermaid">
 graph TD
@@ -253,14 +251,21 @@ graph TD
 
 ---
 
-# 10. 總結
+# 10. まとめ
 
-Hyperpop 和 Digicore 是隨著音樂製作工具的民主化和網路文化的成熟而誕生的趨勢。製作的便利性、混音文化、社群媒體傳播以及年輕創作者的實驗精神結合在一起，瓦解了傳統的流派結構，呈現出一種新的流行形式。
+Hyperpop と Digicore は、音楽制作ツールの民主化とインターネット文化の成熟を背景に生まれた潮流である。制作の簡易さ、リミックス文化、SNS 拡散、若年クリエイターの実験精神が結びつき、従来のジャンル構造を解体しながら新たなポップの形を提示した。
 
-未來，由於AI人聲、生成聲源、即時協作等方面的進步，它很可能會進一步細分和擴展。
+今後は、AI ボーカル、生成音源、リアルタイムコラボなどの進展によって、さらに細分化・拡張していく可能性が高い。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNYqwpx7Cys?si=df8PJvts5E8hHOvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HkE69YtaAmU?si=hx0UDSvRFObW286Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

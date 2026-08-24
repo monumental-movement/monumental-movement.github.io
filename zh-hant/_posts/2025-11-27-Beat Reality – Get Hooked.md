@@ -11,7 +11,7 @@ tags:
 - Hard House
 - House
 - 00s
-title: 擊敗現實——著迷
+title: Beat Reality – Get Hooked
 ---
 
 
@@ -23,11 +23,11 @@ title: 擊敗現實——著迷
 
 Beat Realityは、Errol Lafleur, Mark Nieuwenhuijzen, Rene van Oosterwijk(DJ Rene)によるオランダのHard Houseプロジェクト。
 
-A 是荷蘭 tech-trance DJ/製作人 E-Craig (Dimitrie Siliakus) 的混音版。
+Aは、オランダのTech-trance DJ ／プロデューサーE-Craig(Dimitrie Siliakus)によるremix 。
 
-B 是英國硬屋樂團 Phlash! 的混音版，由 Mick Shiner 和 Steve Hill 組成。
+Bは、Mick Shiner, Steve HillからなるUK hard-houseアクトPhlash!によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Get Hooked (E Craig Remix)
 

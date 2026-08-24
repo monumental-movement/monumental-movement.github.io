@@ -9,15 +9,15 @@ permalink: /zh-hant/various-wire-00-compilation/
 tags:
 - Techno
 - Compilation
-title: 各種 – Wire 00 編譯
+title: Various – Wire 00 Compilation
 ---
 
 
-這是2000年舉辦的史上規模最大的室內銳舞會「WIRE 00」的表演者們的合輯。
+2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。
 
-2-LP 套裝還包括 Sven Väth、DJ Hell 和 WestBam 的曲目。
+2枚組LPで、Sven VäthやDJ Hell、WestBamのトラックも収録。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  Denki Groove–Wire, Wireless (Arena)
 
@@ -49,7 +49,7 @@ D2  DJ Tasaka–Ganz Ganguro
 D3  Beroshima–WWW. (Robot Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

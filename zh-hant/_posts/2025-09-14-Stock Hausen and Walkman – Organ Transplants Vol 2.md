@@ -9,17 +9,17 @@ permalink: /zh-hant/stock-hausen-and-walkman-organ-transplants-vol-2/
 tags:
 - Experimental
 - 00s
-title: Stock、Hausen 和 Walkman – 器官移植卷。 2
+title: Stock, Hausen & Walkman – Organ Transplants Vol. 2
 ---
 
 
-Stock、Hausen & Walkman（Andrew Sharpley 和 Matt Wand）是一支活躍於 1991 年至 2001 年的英國實驗電子樂團。他們的聲音混合了剪輯、取樣、具體音樂和垃圾流行元素。
+Stock, Hausen & Walkman(Andrew Sharpley & Matt Wand)は、1991年〜2001年に活動したイギリスのエクスペリメンタル・エレクトロニック・ユニット。カットアップ、サンプリング、ミュージック・コンクレート、ジャンク・ポップ的要素をミックスしたサウンドが特徴。
 
-《器官移植》第2卷是繼《器官移植》（1996）之後的第二次發行，《器官移植》被高度評價為20世紀90年代實驗電子音樂/後現代採樣文化的象徵。
+「Organ Transplants Vol. 2」は、90年代のエクスペリメンタル・エレクトロニカ／ポスト・モダン・サンプリング文化を象徴する存在と高く評価された「Organ Transplants」(96年)に続く第2弾。
 
-該歌曲於 2000 年由 Matt Wand 的 Hot Air 廠牌發行。
+Matt WandのレーベルHot Airから2000年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Hairy Globe
 A2. IKEA
@@ -38,7 +38,7 @@ B6. Jellywand
 B7. OOPS
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m22757560879?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22757560879?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jB2C8gmwuZc?si=wD08La3Z7g8UwSkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

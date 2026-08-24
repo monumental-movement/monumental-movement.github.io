@@ -10,21 +10,21 @@ tags:
 - Film
 - Soundtrack
 - 10s
-title: '[專欄] 2010年以來的西方恐怖電影及其配樂'
+title: 【コラム】 2010年以降のホラー洋画とそのサウンドトラック
 ---
 
 
-## 前言：無聲恐怖與低頻的時代
+## 序章：沈黙の恐怖と低周波の時代
 
 
-文：mmr｜主題：從A24到布魯姆豪斯再到AI恐怖－從文化歷史和聲學美學上揭開2010年代以來主導恐怖電影的「聲音恐怖」。
+文：mmr｜テーマ：A24からブラムハウス、そしてAIホラーまで──2010年代以降のホラー映画を支配した“音の恐怖”を、文化史と音響美学の両面から解き明かす。
 
-2010 年代，恐怖電影已經轉變為一種比以往任何時候都更加重視聲音的藝術形式。
-跳躍恐慌已成為過去，取而代之的是低頻、環境噪音和混響主導著恐慌。
-這也是心理聲學發現的應用，認為聽覺比視覺更直接影響更深層的心理。
+2010年代、ホラー映画はかつてないほど「音」を意識する芸術へと変貌した。  
+ジャンプスケア（突発的な音による驚かせ）は過去の手法となり、代わりに**低周波・環境ノイズ・残響**が恐怖の主役となる。  
+それは、視覚よりも聴覚が深層心理を直撃するという聴覚心理学的な発見の応用でもあった。  
 
-這個時代的恐怖電影不僅給人恐懼，也透過聲音「侵蝕」觀眾的內心世界。
-這項變革的核心是 A24 和 Blumhouse 等新一代製作工作室。
+この時代のホラー映画は、単に恐怖を与えるだけでなく、**音響を通じて観客の内面を“侵食”する**。  
+この変化の中心にいたのが、A24やブラムハウスといった新世代の制作スタジオである。
 
 ---
 
@@ -41,141 +41,141 @@ color: #fff;
 </style>
 
 
-### 第一章：A24製作的“恐怖新聲音”
+### 第一章：A24が鳴らした“恐怖の新音響”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iri0EM3hcBY?si=K6XXKGfUqPWdLpUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-A24 的到來將恐怖提升到藝術電影的背景中。
-[《女巫》(2015)](https://amzn.to/48UASVp)就是一個象徵。 [Mark Korven](https://amzn.to/3KHRdTr) 的配樂拒絕旋律，用木製樂器和微音組成的祈禱般的嗡嗡聲抓住了觀眾的神經。
-模糊安靜與噪音之間界線的聲學設計是 A24 美學的核心。
+A24の登場は、ホラーをアート映画の文脈に引き上げた。  
+[『The Witch』（2015）](https://amzn.to/48UASVp)はその象徴である。[Mark Korven](https://amzn.to/3KHRdTr)によるスコアは旋律を拒み、**木製楽器と微分音**で構成された祈祷的ドローンが観客の神経を締め上げる。  
+沈黙とノイズの境界が曖昧になる音響設計は、まさにA24美学の核心だった。
 
-在下面的[Hereditary/Hereditary (2018)](https://amzn.to/470xAxf)中，[Colin Stetson](https://amzn.to/438tcv3)的薩克斯嗡嗡聲營造出一種不尋常的緊張感。
-呼吸聲、扭曲簧片的共鳴、深沉低音的振動——這些讓你在身體上感受到「無形的存在」的存在。
+続く[『Hereditary／ヘレディタリー』（2018）](https://amzn.to/470xAxf)では、[Colin Stetson](https://amzn.to/438tcv3)のサクソフォニック・ドローンが異様な緊張を形成する。  
+ブレス音、歪んだリードの共鳴、重低音の波動──これらが“見えない存在”の気配を物理的に感じさせる。  
 
-在《仲夏夜驚魂》(2019) (https://amzn.to/3WzeBFe) 中，[The Haxan Cloak] (https://amzn.to/4mV3nFT) 和 [Bobby Krlic] (https://amzn.to/473kC1M) 將北歐民間音樂與電子噪音融合在一起。
-與陽光明媚的圖像相反，聲音模糊了慶祝和瘋狂之間的界限，開啟了恐怖的新領域。
+[『Midsommar』（2019）](https://amzn.to/3WzeBFe)では、[The Haxan Cloak](https://amzn.to/4mV3nFT)、[Bobby Krlic](https://amzn.to/473kC1M) が北欧の民族儀礼音楽と電子ノイズを融合。 
+陽光に満ちた映像とは裏腹に、音は**祝祭と狂気の境界**を曖昧にし、ホラーの新境地を切り開いた。  
 
-A24的恐怖音響系統用「低語」而不是「尖叫」來震撼觀眾。
+A24のホラー音響は、「叫び」ではなく「囁き」で観客を震わせる。
 
 ---
 
-### 第 2 章：布魯姆豪斯恐怖音效設計
+### 第二章：ブラムハウス・ホラーの音響設計
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-相比之下，Blumhouse Productions 透過低預算但詳細的聲音設計放大了恐懼。
-[Joseph Bishara](https://amzn.to/4okJ3ix) 負責 ['Insidious' (2010)](https://amzn.to/4nRnAOm) 和 ['The Conjuring' (2013)](https://amzn.to/48qVkx0) 的作曲。
-「音牆」將琴弦扭曲到極限並疊加白噪音，就像一場驅魔噩夢。
+対照的に、ブラムハウス・プロダクションは**低予算ながら緻密な音設計**で恐怖を増幅させた。  
+[『Insidious』（2010）](https://amzn.to/4nRnAOm)や[『The Conjuring - 死霊館』（2013）](https://amzn.to/48qVkx0)では[Joseph Bishara](https://amzn.to/4okJ3ix)が作曲を担当。  
+ストリングスを限界まで歪ませ、ホワイトノイズを重層させる“音の壁”は、まるでエクソシズムの悪夢だ。
 
-在 [Get Out (2017)](https://amzn.to/48TUfxW) 中，[Michael Abels](https://amzn.to/4720Bca) 建構了一首爵士樂樂譜，反轉了黑人聖歌的和弦進行。
-聲音將**社會恐懼=種族主義結構**轉化為聲音。
-這是音樂作為講故事的一部分發揮政治功能的罕見例子。
+[『Get Out』（2017）](https://amzn.to/48TUfxW)では、[Michael Abels](https://amzn.to/4720Bca)が黒人霊歌のコード進行を反転させたジャズスコアを構築。  
+その響きは、**社会的恐怖＝人種差別の構造**を音として翻訳する。  
+音楽がストーリーテリングの一部として政治的機能を果たした稀有な例である。
 
-在[``隱形人''（2020）]（https://amzn.to/48qvBVt）中，[Benjamin Wallfisch]（https://amzn.to/46ZWI7p）以電子聲音體現了「隱形存在」。
-**負聲學空間**的設計讓人眼前一亮，因為聽不到聲音的那一刻會產生最大的恐懼。
+[『The Invisible Man-透明人間』（2020）](https://amzn.to/48qvBVt)では、[Benjamin Wallfisch](https://amzn.to/46ZWI7p)が電子音で“見えない存在”を具現化。  
+音が聞こえない瞬間こそが最大の恐怖を生むという、**負の音響空間**のデザインが光る。
 
 ---
 
-### 第三章：復古恐怖與模擬聲音的復活
+### 第三章：レトロ・ホラーの復活とアナログ・サウンド
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OoXoz80d62M?si=UxxayLxQSg-18_Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-2010 年代中期，80 年代的恐怖聲音捲土重來。
-在 ['It Follows' (2014)] (https://amzn.to/4mSiAaF) 中，Disasterpeace 形象化了被基於冷合成器的琶音追逐的恐懼。
-這首歌在俱樂部文化中流行起來，並成為重新評估復古合成器的機會。
+2010年代半ば、80年代的ホラーサウンドが復活した。  
+[『It Follows』（2014）](https://amzn.to/4mSiAaF)では、Disasterpeaceがシンセベースの冷たいアルペジオで**追跡される恐怖**を音像化。  
+そのトラックはクラブカルチャーでも人気を博し、レトロシンセが再評価される契機となった。
 
-[``The Guest'' (2014)](https://amzn.to/3WxUjvS) 是對約翰·卡本特電子懸疑的現代重新詮釋。
-逆流浪潮正在蔓延，凱爾·迪克森和邁克爾·斯坦為《怪奇物語》的配樂奠定了基調。
+[『The Guest』（2014）](https://amzn.to/3WxUjvS)はJohn Carpenter的電子サスペンスを現代的に再解釈。  
+レトロウェーブの波が広がり、[『Stranger Things』](https://amzn.to/3KRGS7r)のKyle Dixon & Michael Steinによるスコアがその潮流を決定づけた。  
 
-透過電子聲音實現的「懷舊與恐懼的融合」主導了 2010 年代，這是一種直接源自卡彭特的聲音恐怖美學。
+電子音による“郷愁と恐怖の融合”は、**カーペンター直系のサウンド・ホラー美学**として2010年代を支配した。
 
 ---
 
-### 第四章：歐洲藝術恐怖的聲音與沉默
+### 第四章：ヨーロッパ・アートホラーの音と沈黙
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/85VPBoJb978?si=qZvyShWjlMUnz11Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-除了《A24》之外，歐洲也出現了追求「沉默美學」的恐怖片。
-由 Luca Guadagnino [Suspiria (2018)] (https://amzn.to/4hee5Gs) 執導，[Thom Yorke] (https://amzn.to/4nWkJmY) 創作了一種以鋼琴和合成器為中心的祈禱和絕望之聲。
-這是對妖精版本 [Suspiria (1977)](https://amzn.to/4nHfyqZ) 的致敬，同時也是一首關於失落和重生的聲音詩。
+A24以外にも、ヨーロッパでは「沈黙の美学」を追求したホラーが登場する。  
+ルカ・グァダニーノ監督[『Suspiria』（2018）](https://amzn.to/4hee5Gs)は、[Thom Yorke](https://amzn.to/4nWkJmY)がピアノとシンセを中心に、祈りと絶望の音を紡いだ。  
+これはGoblin版[『Suspiria』（1977）](https://amzn.to/4nHfyqZ)への敬意であり、同時に**喪失と再生の音響詩**でもある。  
 
-[Saint Maud (2019)](https://amzn.to/4q40qph) 是一個沉默和幻聽的場景，似乎吞噬了宗教瘋狂。
-在挪威的 ['Thelma' (2017)] (https://amzn.to/4q6uf8J) 和瑞典的 ['Border' (2018)] (https://amzn.to/48W9tCu)，冰冷的無人機聲音再現了 **斯堪的納維亞的寒冷**。
+[『Saint Maud』（2019）](https://amzn.to/4q40qph)では、宗教的狂気を包み込むような静寂と幻聴。  
+ノルウェーの[『Thelma』（2017）](https://amzn.to/4q6uf8J)やスウェーデンの[『Border』（2018）](https://amzn.to/48W9tCu)では、氷のようなドローン音が**北欧的冷気**を音で再現する。  
 
-寂靜、環境聲音、呼吸──這些創造了一種超越視覺的宗教恐懼。
-
----
-
-### 第五章 恐怖x電子音樂文化的融合
-
-[Oneohtrix Point Never](https://amzn.to/4nITXym)、[Ben Frost](https://amzn.to/3J5XasP)和[Mica Levi](https://amzn.to/3J7GQYD)等電子音樂家從恐怖聲音的「外部」進入場景，改變了電影音樂。
-Ben Frost 的[「黑暗」系列](https://amzn.to/42B4KCn) 和[「超級黑暗時代」(2017)](https://amzn.to/42DfU9Q) 透過嗡嗡聲和失真營造出一種不安的聽覺感。
-Mica Levi 的 [``Under the Skin'' (2013)](https://amzn.to/3J4PJC6) 將異物的感覺呈現為與音階的偏差。
-
-此外，恐怖配樂以模擬唱片的形式再循環，
-**死亡華爾滋**和**Waxwork Records**將恐怖音樂重新評估為“聆聽文化遺產”。
-俱樂部 DJ 將恐怖配樂融入他們的音樂中的現像已變得普遍。
-那是一個電影音樂和俱樂部文化以一種奇怪的方式交織在一起的時代。
+沈黙、環境音、呼吸──これらが、視覚を超えた宗教的恐怖を構築するのだ。
 
 ---
 
-### 第六章：亞洲恐怖國際化與合理本土化
+### 第五章：ホラー×電子音楽カルチャーの融合
+
+[Oneohtrix Point Never](https://amzn.to/4nITXym)、[Ben Frost](https://amzn.to/3J5XasP)、[Mica Levi](https://amzn.to/3J7GQYD)といった電子音楽家たちは、ホラー音響の“外部”から参入し、映画音楽を変えた。  
+Ben Frostの[『Dark』シリーズ](https://amzn.to/42B4KCn)や[『Super Dark Times』（2017）](https://amzn.to/42DfU9Q)は、ドローンと歪みで聴覚的な焦燥を生む。  
+Mica Leviの[『Under the Skin』（2013）](https://amzn.to/3J4PJC6)は、エイリアン的異物感を**音階の逸脱**として提示した。  
+
+さらに、ホラー・サウンドトラックはアナログレコードとして再流通し、  
+**Death Waltz**や**Waxwork Records**がホラー音楽を“聴く文化遺産”として再評価した。  
+クラブDJがホラーサントラをセットに組み込む現象も広がり、  
+映画音楽とクラブカルチャーが奇妙に交錯する時代となった。
+
+---
+
+### 第六章：アジア・ホラー国際化と音のローカリティ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEL_GJJ5Izk?si=iXiTtgJJmk0zyXZK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-獨特的恐怖音效在亞洲也引起了關注。
-在[哭泣（2016/韓國）](https://amzn.to/46NKuA5) 中，民間儀式音樂模糊了恐懼和祈禱之間的界線。
-日本恐怖聲音－【河合賢治（《魔戒》）】(https://amzn.to/4h9avxd)與高橋宏的方法—
-它作為**使用沉默和環境聲音的恐懼禮儀**流傳到了世界。
+アジア圏でも、独自のホラー音響が注目を集める。  
+[『The Wailing（哭声）』（2016／韓国）](https://amzn.to/46NKuA5)では、民俗儀礼音楽が恐怖と祈りの境界を曖昧にする。  
+日本のホラー音響──[川井憲次（『リング』）](https://amzn.to/4h9avxd)や高橋洋の手法──は、  
+**沈黙と環境音による恐怖の作法**として世界に継承された。  
 
-隨著 Netflix 作品鞏固全球市場，
-每個地區的「健全的民間傳說」正在全球恐怖中獲得新的地位。
-聲音超越語言。恐懼不需要翻譯。
+Netflix作品が世界市場を統合するなか、  
+各地域の“音の民俗性”がグローバルホラーの中で新たな位置を獲得している。  
+音は言語を超える。恐怖は翻訳を必要としない。
 
 ---
 
-### 第 7 章：人工智慧與恐怖音訊的未來
+### 第七章：AIとホラー音響の未来
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QEECiy3dgc?si=iKpYc6gYjDFiFlt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-[``Skinamarink'' (2022)](https://amzn.to/4o6XZ3m) 是一部由家用相機噪音和空間扭曲組成的新時代恐怖電影。
-聲音根本不是音樂，而只是「迴響」。
-但正是這種**缺失的聲音**引起了人類最的恐懼。
+[『Skinamarink』（2022）](https://amzn.to/4o6XZ3m)は、家庭用カメラのノイズと空間の歪みで構成された新時代のホラーだ。  
+音はほとんど音楽ではなく、“残響の残滓”にすぎない。  
+しかしその**欠落した音**こそが、最も人間的な恐怖を喚起する。
 
-人工智慧生成的音樂已經開始涉足恐怖聲音領域。
-利用深度學習來模仿人類的恐懼反應，
-現在可以產生**恐怖谷聲音**，讓你感覺有些不對勁。
+AI生成音楽はすでにホラー音響の領域に足を踏み入れている。  
+ディープラーニングによって人間の恐怖反応を模倣し、  
+「何かがおかしい」と感じる**不気味の谷音響**を生成することが可能になった。  
 
-從電影院的環繞聲到耳機的空間聲—
-恐懼不再局限於個人的耳朵。
-
----
-
-### 最後一章：恐懼是可聞的－現代恐怖音頻的文化意義
-
-自2010年以來，在恐怖電影中，聲音已經超越了單純的呈現，成為質疑電影存在本身的媒介。
-Colin Stetson 的低音氣息、Disasterpeace 的電子張力、Bobby Krlic 的儀式節奏。
-所有這些都是「什麼是恐懼？」這個問題的聲學翻譯。
-
-恐怖的聲音與社交焦慮和個人孤獨產生共鳴。
-它也是旨在重新獲得流行音樂失去的“深層情感”的音樂。
-下一代恐怖作曲家已經有能力將恐怖變成藝術。
+映画館のサラウンドからイヤホンの空間音響まで──  
+恐怖はもはや“個人の耳の中”に閉じこめられていく。
 
 ---
 
-#### 當代主要恐怖作品年表
+### 終章：恐怖は聴こえている — 現代ホラー音響の文化的意義
+
+2010年以降のホラー映画において、音は単なる演出を超え、**存在そのものを問うメディア**となった。  
+Colin Stetsonの低音ブレス、Disasterpeaceの電子的緊張、Bobby Krlicの儀式的リズム──  
+それらはすべて、「恐怖とは何か」という問いの音響的翻訳である。  
+
+ホラーの音は、社会の不安と個人の孤独を共鳴させる。  
+それはポップミュージックが失った“深層の感情”を取り戻すための音楽でもある。  
+次の世代のホラー作曲家たちは、すでに**恐怖を芸術に変える耳**を持っている。
+
+---
+
+#### 現代ホラー主要作品年表
 
 <div class="mermaid">
 
@@ -198,25 +198,37 @@ flowchart TD
 ---
 
 
-### 配樂唱片
+### サウンドトラック・ディスコグラフィー
 
-|年份|標題 |作曲家 |標籤|連結 |
-| ---- | ------------------- | -------------------------------------- | -------------- |---------------------------------------------------------------- |
-| 2014 | *它跟隨* |災難和平|米蘭紀錄| [亞馬遜](https://amzn.to/4nIdRcN) |
-| 2018 | *世襲* |科林·斯泰森 |米蘭紀錄| [亞馬遜](https://amzn.to/4mY7XDe) |
-| 2019 | 2019 *仲夏節* |鮑比·克里克（哈克森斗篷）|米蘭紀錄| [亞馬遜](https://amzn.to/4h66SrF) |
-| 2017 | 2017 *滾出去* |邁克爾·阿貝爾 |背景音樂 | [亞馬遜](https://amzn.to/48YphVo) |
-| 2020 | *隱形人* |本傑明·沃爾菲施 |背景音樂 | [亞馬遜](https://amzn.to/48qSwjs) |
-
----
-
-> “恐怖電影不再尖叫——它們嗡嗡作響、產生共鳴、呼吸。”
->——摘自A24製作人的話
-
+| 年    | 作品名                 | 作曲者                           | レーベル           | リンク                                            |
+| ---- | ------------------- | ----------------------------- | -------------- | ---------------------------------------------- |
+| 2014 | *It Follows*        | Disasterpeace                 | Milan Records  | [Amazon](https://amzn.to/4nIdRcN) |
+| 2018 | *Hereditary*        | Colin Stetson                 | Milan Records  | [Amazon](https://amzn.to/4mY7XDe) |
+| 2019 | *Midsommar*         | Bobby Krlic (The Haxan Cloak) | Milan Records  | [Amazon](https://amzn.to/4h66SrF) |
+| 2017 | *Get Out*           | Michael Abels                 | Back Lot Music | [Amazon](https://amzn.to/48YphVo) |
+| 2020 | *The Invisible Man* | Benjamin Wallfisch            | Back Lot Music | [Amazon](https://amzn.to/48qSwjs) |
 
 ---
 
+> “Horror films no longer scream — they hum, resonate, and breathe.”
+>― A24プロデューサーの言葉より
 
-### 相關專欄
 
-🔗【專欄】電影音樂的媒體史：聲音是如何從螢幕傳到揚聲器的？ ](https://monumental-movement.jp/Column-Soundtrack)
+---
+
+
+### 関連コラム
+
+🔗 [【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？](https://monumental-movement.jp/Column-Soundtrack)
+
+---
+
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oh2VO0DgVOk?si=z-EudwEKJXH6TlZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -11,13 +11,13 @@ tags:
 - Jpop
 - Neo-Classical
 - 00s
-title: 菅野洋子的壯舉。坂本真綾 – 晚上 11 點音樂
+title: Yoko Kanno feat. Maaya Sakamoto – 23時の音楽
 ---
 
 
-由瀨戶淺香和吉川浩二主演的 NHK 連續劇《午夜是另一張臉》的迷你原聲帶，由菅野洋子創作。坂本真綾.
+菅野よう子 feat. 坂本真綾による、瀬戸朝香&吉川晃司出演のNHK連続ドラマ「真夜中は別の顔」のミニサウンドトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Two Things
 2. Here
@@ -35,7 +35,7 @@ title: 菅野洋子的壯舉。坂本真綾 – 晚上 11 點音樂
 14. ノエルのピアノ
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/laxii4Q9c6k?si=fl99wAMnkL3s_ZAL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

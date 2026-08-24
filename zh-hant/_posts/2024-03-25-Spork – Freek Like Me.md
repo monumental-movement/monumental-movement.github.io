@@ -10,20 +10,20 @@ tags:
 - House
 - Progressive House
 - 00s
-title: Spork – 像我一樣自由
+title: Spork – Freek Like Me
 ---
 
 
-英國製作人 J.P. Davies（Deejay Punk-Roc）以 Spork 的名義發行了一首前衛 house 曲目，他對 Korn、Pitchshifter 和 Kurtis Mantronik 進行了混音。
+Korn、Pitchshifter、Kurtis Mantronikのリミックスを手がけるUKのプロデューサーJ.P. Davies（Deejay Punk-Roc）がSpork名義でリリースしたプログレッシブハウストラック。
 
-B 面是荷蘭 DJ Sander Kleinenberg 的混音版。
+B面はオランダのDJ Sander Kleinenberg（サンダー・クライネンバーグ）のremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Freek Like Me (Alma Matris Reconstruction Remix)
 
 B. Freek Like Me (Sander Kleinenberg Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
 

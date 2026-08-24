@@ -11,13 +11,13 @@ tags:
 - Triphop
 - Abstract
 - 90s
-title: 各種 – 建造與毀滅（莫蠟錄音中最好的）
+title: Various – Build & Destroy (The Best Of Mo Wax Recordings)
 ---
 
 
-代表90年代的傳奇廠牌MO WAX於1996年發行的兩張唱片合輯。
+90年代を代表する伝説のレーベルMO WAXから1996年リリースされた2枚組のコンピレーションアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Rob Dougan –Clubbed To Death (Spoon Mix By Carl Craig)
 2. Attica Blues – Lonesome Child
@@ -31,7 +31,7 @@ title: 各種 – 建造與毀滅（莫蠟錄音中最好的）
 など全19曲
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m44754932911?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44754932911?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_BeVBMw?si=xRs32hHfhXZ2-Plx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

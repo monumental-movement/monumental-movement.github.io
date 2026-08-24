@@ -10,15 +10,16 @@ tags:
 - House
 - Tech House
 - 90s
-title: Grooveyard 壯舉。米歇爾·德·海 – 帶我去橋！ （FFWD Heineken Dance Parade 1999 的官方主題曲）
+title: Grooveyard Feat. Michel de Hey – Take Me To The Bridge! (Official Theme From
+  FFWD Heineken Dance Parade 1999)
 ---
 
 
-Jeroen Verheij，也被稱為 Grooveyard，是一位荷蘭 house/techno DJ/製作人，被稱為 Secret Cinema，也是阿姆斯特丹唱片公司 Gem Records 的創始人。
+GrooveyardことJeroen Verheijは、Secret Cinema名義などで知られるオランダ出身のHouse ・TechnoDJ／プロデューサー&アムステルダムのレーベルGem Recordsの設立者。
 
-「帶我去橋！」是由荷蘭重量級選手 Michel de Hey 演唱的 House/Tech House 曲目。該專輯於 1999 年由 Michel De Hey 和 Jeroen Verheij 的唱片公司 EC Records 發行。
+「Take Me To The Bridge! 」は、オランダの重鎮Michel de Hey(ミシェル・デ・ヘイ)をフーチャーしたHouse／Tech Houseトラック。Michel De Hey とJeroen VerheijのレーベルEC Recordsから1999年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Take Me To The Bridge! (Club Mix)
 A2. Take Me To The Bridge! (Instrumental Mix)
@@ -27,4 +28,4 @@ B1. Take Me To The Bridge! (Party Mix)
 
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m28809022812?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28809022812?afid=6142608987){: .button1}

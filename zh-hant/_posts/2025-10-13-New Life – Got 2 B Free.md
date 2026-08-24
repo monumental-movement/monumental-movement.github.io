@@ -10,15 +10,15 @@ tags:
 - Euro House
 - House
 - 90s
-title: 新生活 – 免費獲得 2 B
+title: New Life – Got 2 B Free
 ---
 
 
-New Life 是由義大利 house/Eurodance act 49ers 的主唱 Ann-Marie Smith 參與的計畫。
+New Life は、Italian house / Eurodanceアクト49ersのヴォーカルとして知られているAnn-Marie Smithが参加するプロジェクト。
 
-A 是英國鼓貝斯製作人、車庫二人組 True Steppers 前成員 Jonny L 的混音版。
+Aは、イギリスのドラム&ベースのプロデューサーであり、garageデュオTrue Steppersとしても活躍したJonny Lによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Got 2 B Free (Paradise Mix)
 
@@ -26,7 +26,7 @@ AA1. Got 2 B Free (Digit Mix)
 AA2. Got 2 B Free (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m78152557447?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78152557447?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nhxAsZDESU8?si=4NjElZnRUX3qtyzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,17 +11,17 @@ tags:
 - Tech House
 - House
 - 90s
-title: 共同因素－別處的夢想
+title: Common Factor – Dreams Of Elsewhere
 ---
 
 
-Nick Calingaert，也被稱為 Common Factor，是一位來自芝加哥的 DJ。 90年代中期，他以Saint Nick的名義作為鼓和貝斯DJ活躍。
+Common Factor ことNick Calingaertは、シカゴ出身のDJ。90年代半ばには、Saint Nick名義でドラムンベースのDJとして活動していた。
 
-《Dreams Of Elsewhere》是 Carl Craig 的經典科技廠牌 Planet E 於 1999 年發行的一張專輯。
+「Dreams Of Elsewhere」は、Carl Craig(カール・クレイグ)のクラシックテクノレーベルPlanet E から1999年にリリースされたアルバム。
 
-一張傑作專輯，收錄了 Common Factor 的許多標誌性歌曲，如“Get Down”、“will”和“Horizo​​​​ns”。
+「Get Down」「will」「Horizons」など、Common Factorの代表曲が多数収録された名盤。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Reflections
 2. Positive Visual
@@ -36,7 +36,7 @@ Nick Calingaert，也被稱為 Common Factor，是一位來自芝加哥的 DJ。
 11. Dreams Of Elsewhere
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m77204166357?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77204166357?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VdN73t5E2ho?si=hfoNCGMGbxnSp5Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

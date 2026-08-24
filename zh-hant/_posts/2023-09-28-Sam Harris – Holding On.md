@@ -9,22 +9,22 @@ permalink: /zh-hant/sam-harris-holding-on/
 tags:
 - House
 - Remix
-title: 山姆哈里斯——堅持
+title: Sam Harris – Holding On
 ---
 
 
-《Sam Harris – Holding On》是 Junior Vasquez 於 1999 年發行的歌曲，由 Samuel Kent Harris 的主打歌重新混音而成。
+「Sam Harris – Holding On」は、本名Samuel Kent Harrisのタイトル曲をJunior Vasquezがリミックスした1999年のリリース作品です。
 
-混音 – Junior Vasquez
+Remix – Junior Vasquez(ジュニア・ヴァスケス)
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Holding On (Junior's Circuit Mix)
 
 B. Holding On (Junior's Ambient Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m89744041671?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89744041671?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b3BVYmEuu1E?si=VSDl7Gz13UsKI6SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

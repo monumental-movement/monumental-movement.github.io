@@ -10,20 +10,20 @@ tags:
 - Rock
 - 70s
 - 7inch
-title: 艾維斯普萊斯利 - 你不必說你愛我
+title: Elvis Presley - You Don't Have To Say You Love Me
 ---
 
 
-《You Don't Have To Say You Love Me》原本是一首義大利歌曲，原曲為《I can't live without you (Io che non vivo senza te)》。這首歌由達斯蒂·斯普林菲爾德演唱，後來由貓王·普雷斯利翻唱。
+「この胸のときめきを(You Don't Have To Say You Love Me)」は、もともとはイタリアの楽曲で、原題は『君なしに生きていられない僕(Io che non vivo senza te)』。Dusty Springfield(ダスティ・スプリングフィールド)が歌い、のちにElvis Presley(エルヴィス・プレスリー)がカバーした。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. You Don't Have To Say You Love Me = この胸のときめきを
 
 B. Patch It Up = パッチ・イット・アップ
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m43225191796?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43225191796?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U914MUX1uoc?si=pA_0vOi3bXpzqNPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,15 +11,15 @@ tags:
 - Jazz
 - Fusion
 - Post Rock
-title: 按鈕上的滑鼠－一個令人焦慮的物體
+title: Mouse On The Keys – An Anxious Object
 ---
 
 
-Mouse On The Keys 於 2006 年由後硬核/後搖滾樂隊 Nine Days Wonder 的前成員、Akira Kawasaki（鼓、鋼琴）和 Atsushi Kiyota（鋼琴、鍵盤）組成，並於 2007 年加入 Daisuke Shindome（鋼琴、鍵盤）成為三重奏。 Mouse On The Keys 的特點是融合了爵士樂、放克、後搖滾和電子音樂的獨特風格。
+2006年ポストハードコア/ポストロックバンドnine days wonderの元メンバー川﨑昭（ドラム、ピアノ）と清田敦（ピアノ、キーボード）により結成され、2007年に新留大介（ピアノ、キーボード）が加入してトリオ編成となったMouse On The Keysは、ジャズ、ファンク、ポストロック、エレクトロニックミュージックが融合した独自のスタイルが特徴。
 
-Machupicchu Industrias 廠牌於 2009 年發行的《An eager object》是 Mouse On The Keys 的第一張完整專輯。
+2009年にレーベルMachupicchu Industriasからリリースされた「an anxious object」は、Mouse On The Keysのファースト・フルアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Completed Nihilism
 2. Spectres De Mouse
@@ -32,7 +32,7 @@ Machupicchu Industrias 廠牌於 2009 年發行的《An eager object》是 Mouse
 9. Ouroboros
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m18654186487?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18654186487?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LdXJUUhce-o?si=L5TAiTUMviBkoYlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

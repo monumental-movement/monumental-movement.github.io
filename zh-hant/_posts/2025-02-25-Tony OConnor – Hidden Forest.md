@@ -10,15 +10,15 @@ tags:
 - New Age
 - Ambient
 - 90s
-title: 東尼歐康納－隱藏森林
+title: Tony O'Connor – Hidden Forest
 ---
 
 
-托尼·奧康納 (Tony O'Connor) 是一位來自澳洲昆士蘭的環境/放鬆音樂創作者。
+Tony O'Connorは、オーストラリア・クイーンズランド州を拠点に活動していた、アンビエント/リラックスミュージッククリエーター。
 
-這張專輯於 1993 年由澳洲攝影師 Steve Parish 的唱片公司發行。
+このアルバムはオーストラリアの写真家Steve Parishのレーベルから1993年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Hidden Forest
 2. I Wonder
@@ -29,7 +29,7 @@ title: 東尼歐康納－隱藏森林
 7. Remember
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwCSBiw2RDk?si=VTMjeu6so1oQYkS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

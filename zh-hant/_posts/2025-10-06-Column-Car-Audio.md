@@ -9,17 +9,17 @@ permalink: /zh-hant/column-car-audio/
 tags:
 - History
 - Car
-title: 【專欄】汽車與音響的世界之旅－汽車音響主要國家徹底攻略
+title: 【コラム】 世界の車とサウンドの旅 — カーオーディオ大国別徹底ガイド
 ---
 
 
-## 汽車與音響的密切關係
+## 車と音の密接な関係
 
-文：mmr｜主題：全球各大汽車廠商代表車型音頻規格及技術
+文：mmr｜テーマ：世界各国の主要な車メーカーごとの代表モデルのオーディオ仕様、技術について
 
 
-汽車音響不僅僅是一個可選功能；它對駕駛體驗和車內空間價值產生重大影響。汽車設計階段的選材、安靜度、空間設計等都與音質有直接關係。
-本文詳細介紹了全球主要製造商的代表性型號的音訊規格、合作品牌和技術。
+カーオーディオは単なるオプション装備ではなく、運転体験や車内空間の価値を大きく左右します。車の設計段階での素材選定や静音性、空間設計は音質に直結します。  
+本稿では世界各国の主要メーカーごとに、代表モデルのオーディオ仕様、提携ブランド、技術を詳述します。
 
 ---
 
@@ -36,24 +36,24 @@ color: #fff;
 </style>
 
 
-## 日本廠商的聲學哲學
+## 日本メーカーの音響哲学
 
-### 豐田/雷克薩斯
+### トヨタ／レクサス
 
-- **代表性型號的音頻規格**
-  - Lexus LS：Mark Levinson 3D 環繞聲，17 個揚聲器，1,200W
-  - 具備軟體室校正功能
+- **代表モデルのオーディオ仕様**  
+  - レクサスLS：Mark Levinson 3Dサラウンド、17スピーカー、1,200W  
+  - ソフトウェアによる部屋補正機能付き  
 
-- **製造商和品牌合作關係**
-  - 與 Mark Levinson 長期合作的豪華車聲音設計
+- **メーカーとブランドの提携**  
+  - Mark Levinsonとの長期協業による高級車向けサウンド設計  
 
-- **軼事和技巧**
-  - 車內的每種材料，包括天花板和座椅布料，在選擇時都考慮到了聲學校正。
+- **逸話や技術**  
+  - 車内の各素材・天井やシート生地も音響補正を考慮して選定されている  
 
-|產品名稱 |連結 |
+| 製品名 | リンク | 
 |--------|--------------|
-|馬克萊文森擴大機| [樂天](https://a.r10.to/h5pi79) |
-|馬克‧萊文森演講者| [亞馬遜](https://amzn.to/47fsjDj) |
+| Mark Levinsonアンプ | [Rakuten](https://a.r10.to/h5pi79) |
+| Mark Levinsonスピーカー | [Amazon](https://amzn.to/47fsjDj) |
 
 ---
 
@@ -61,218 +61,229 @@ color: #fff;
 
 ---
 
-### 日產/英菲尼迪
+### 日産／インフィニティ
 
-- **代表車型**：InfinitiQX80（Bose 16揚聲器系統）
-- **技術**：為了優化車內音響效果，與 BOSE 合作分析和調整了揚聲器放置和材料反射。
+- **代表モデル**：インフィニティQX80（Bose 16スピーカーシステム）  
+- **技術**：車内音響を最適化するため、スピーカー配置や素材反射を解析し、BOSEと共同でチューニング  
 
 ---
 
-### 本田
+### ホンダ
 
-- **代表型號**：Accord（ELS Studio 14 揚聲器）
-- **技術**：由音樂家監督的自然聲音再現
+- **代表モデル**：アコード（ELS Studio 14スピーカー）  
+- **技術**：音楽家監修によるナチュラルなサウンド再現  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_OMh104IWw?si=TI7U_7JShGuRlnFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 馬自達斯巴魯
+### マツダ・スバル
 
-- **代表型號**：CX-5（Bose 12揚聲器）
-- **技術**：測量並優化車輛內部空間的聲學特性
+- **代表モデル**：CX-5（Bose 12スピーカー）  
+- **技術**：車内空間の音響特性を測定し最適化  
 
 ---
 
 
-## 德國汽車精密音響
+## ドイツ車の精密音響
 
-### 梅賽德斯·奔馳
+### メルセデス・ベンツ
 
-- **代表型號**：S級（Burmester 3D環繞，最多23個揚聲器，1,500W）
-- **技術**：透過 DSP 進行最佳化，在車內每個位置再現均勻的聲學特性
+- **代表モデル**：Sクラス（Burmester 3Dサラウンド、最大23スピーカー、1,500W）  
+- **技術**：車内各位置で均一な音響特性を再現するため、DSPで最適化  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMQnxK2CLgQ?si=--nEKP_C-P9mTh_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 寶馬
+### BMW
 
-- **代表型號**：7 系列（Bang & Olufsen 16 個揚聲器，1,400W）
-- **技術**：以駕駛為中心的音場設計，依照車速修正音量
+- **代表モデル**：7シリーズ（Bang & Olufsen 16スピーカー、1,400W）  
+- **技術**：ドライバー中心の音場設計、車両速度に応じた音量補正  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUaHmJV97BM?si=S8_fw0fSIAqal-jG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 奧迪
+### アウディ
 
-- **代表型號**：A8（Bang & Olufsen 高級音響系統，19 個揚聲器，1,650W）
-- **技術**：利用多通道DSP實現三維聲音再現
+- **代表モデル**：A8（Bang & Olufsen Advanced Sound System、19スピーカー、1,650W）  
+- **技術**：マルチチャンネルDSPで立体音響再現  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 美國聲音的力量
+## アメリカン・サウンドの迫力
 
-### 福特/雪佛蘭
+### フォード／シボレー
 
-- **代表型號**：Camaro（Bose 12 揚聲器，1,000W）
-- **技術**：強調低音並在整個汽車內部再現強勁的聲音
+- **代表モデル**：カマロ（Bose 12スピーカー、1,000W）  
+- **技術**：低音を強調し、車内全体に迫力あるサウンドを再現  
 
 ---
 
-### 特斯拉
+### テスラ
 
-- **代表型號**：Model S（配備高性能 DSP 音訊、22 個揚聲器、960W）
-- **技術**：可透過軟體更新來提升音質
+- **代表モデル**：モデルS（高性能DSP搭載オーディオ、22スピーカー、960W）  
+- **技術**：ソフトウェアアップデートで音質改善が可能  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XFY4Fo3MmIk?si=QWj3Bl64AQVLQkPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 克萊斯勒/吉普車
+### クライスラー／ジープ
 
-- **代表型號**：Wrangler（Alpine 9揚聲器，480W）
-- **技術**：即使在室外噪音下也能保持音質的調整
+- **代表モデル**：ラングラー（Alpine 9スピーカー、480W）  
+- **技術**：屋外騒音下でも音質を保つ調整  
 
 ---
 
-## 義大利和法國汽車中獨特的音樂體驗
+## イタリア・フランス車の個性派音楽体験
 
-### 法拉利/蘭博基尼
+### フェラーリ／ランボルギーニ
 
-- **代表車型**：法拉利 812 Superfast（JBL 12 揚聲器，380W）
-- **技術**：與引擎聲音產生共鳴的調校
+- **代表モデル**：フェラーリ812スーパーファスト（JBL 12スピーカー、380W）  
+- **技術**：エンジンサウンドと共鳴するチューニング  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOsCPEuEcvE?si=N-o9TuGhXnz6dcNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 瑪莎拉蒂/阿爾法羅密歐
+### マセラティ／アルファロメオ
 
-- **代表型號**：Ghibli（Bowers & Wilkins 15 個揚聲器，1,170W）
-- **技術**：採用 Nautilus 高音揚聲器實現高清聲音再現
+- **代表モデル**：ギブリ（Bowers & Wilkins 15スピーカー、1,170W）  
+- **技術**：Nautilusツイーターで高精細音再現  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 標緻/雷諾
+### プジョー／ルノー
 
-- **代表車型**：標緻508（Focal 12揚聲器，400W）
-- **技術**：儘管是緊湊型汽車，但最大限度地提高了空間聲學效果
+- **代表モデル**：プジョー508（Focal 12スピーカー、400W）  
+- **技術**：コンパクト車ながら空間音響を最大化  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E4Ddd36WxGA?si=krJWBM8TgVWYZMSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 韓國和中國製造商的新興力量
+## 韓国・中国メーカーの新興勢力
 
-### 現代/起亞
+### 現代／起亜
 
-- **代表型號**：Sonata（Lexicon 12揚聲器，600W）
-- **技術**：優質品牌的調節、聲壓均衡
+- **代表モデル**：ソナタ（Lexicon 12スピーカー、600W）  
+- **技術**：プレミアムブランド向けの調整、音圧均一化  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiYAwDad-rY?si=TiCKKBPcPgMPQFfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 比亞迪/蔚來/吉利
+### BYD／NIO／Geely
 
-- **代表車型**：NIO ES6（自主開發18揚聲器，1,000W）
-- **技術**：利用EV特性的低頻調整
+- **代表モデル**：NIO ES6（独自開発18スピーカー、1,000W）  
+- **技術**：EV特性を活かした低周波調整  
 
 ---
 
-## 英國汽車豪華音響
+## イギリス車の高級音響
 
-### 捷豹
+### ジャガー
 
-- **代表型號**：F-Pace、XJ（Meridian 14-20揚聲器，825W）
-- **技術**：採用Trifield 3D聲音技術實現三維聲場再現
+- **代表モデル**：F-Pace、XJ（Meridian 14〜20スピーカー、825W）  
+- **技術**：Trifield 3D音響技術で立体音場再現  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xivG_93VM8?si=8yi2LhhvGz2sRA9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 路虎
+### ランドローバー
 
-- **代表車型**：路虎攬勝極光（Meridian 13-19揚聲器，825W）
-- **技術**：車輛設計階段的聲學優化
+- **代表モデル**：Range Rover Evoque（Meridian 13〜19スピーカー、825W）  
+- **技術**：車両設計段階で音響最適化  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9b2M4QzWKQ?si=AuLz_pyciWmkgTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 阿斯頓馬丁
+### アストンマーティン
 
-- **代表型號**：Vantage、DB12（Bowers & Wilkins 15 個揚聲器，1,170W）
-- **技術**：Nautilus 高音揚聲器帶來逼真的聲音
+- **代表モデル**：Vantage、DB12（Bowers & Wilkins 15スピーカー、1,170W）  
+- **技術**：Nautilusツイーター採用で臨場感ある音  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EUlBvw7PejY?si=WUD82ugLJO9g-9uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 賓利
+### ベントレー
 
-- **代表車型**：Bentayga、Continental GT（Naim for Bentley 20 揚聲器，1,960W）
-- **技術**：根據速度和環境自動校正音質
+- **代表モデル**：Bentayga、Continental GT（Naim for Bentley 20スピーカー、1,960W）  
+- **技術**：速度や環境に応じて音質を自動補正  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TK_AtrJVwIs?si=RXNnhkf3O6NhKWI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 勞斯萊斯
+### ロールス・ロイス
 
-- **代表型號**：Phantom、Ghost、Cullinan（Bespoke Audio 13-18 揚聲器，最大 1,300W）
-- **技術**：工作室品質再現，利用車輛的安靜性，使用鋁和鎂材料降噪
+- **代表モデル**：Phantom、Ghost、Cullinan（Bespoke Audio 13〜18スピーカー、最大1,300W）  
+- **技術**：車両の静粛性を活かすスタジオ品質再現、アルミやマグネシウム素材でノイズ低減  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CHd9ijz66Ek?si=VLPV_mLVy-L8t5zL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-|品牌/型號 |系統|揚聲器/輸出數量 |特性|
-|------------|----------|--------|-----|
-|捷豹/F-Pace |經絡| 14/825W|特里菲爾德 3D |
-|路虎/極光 |經絡| 19/825W| 3D環繞|
-|阿斯頓馬丁/Vantage |黑白 | 15/1,170W |鸚鵡螺高音揚聲器 |
-|賓利/添越|奈姆 | 20/1,960W |自動音質校正 |
-|勞斯萊斯/幻影 |定制| 18/1,300W |工作室品質 |
+| ブランド/モデル | システム | スピーカー数/出力 | 特徴 |
+|-----------|----------|-------|------|
+| Jaguar/F-Pace | Meridian | 14/825W | Trifield 3D |
+| Land Rover/Evoque | Meridian | 19/825W | 3Dサラウンド |
+| Aston Martin/Vantage | B&W | 15/1,170W | Nautilusツイーター |
+| Bentley/Bentayga | Naim | 20/1,960W | 自動音質補正 |
+| Rolls-Royce/Phantom | Bespoke | 18/1,300W | スタジオ品質 |
 
 ---
 
-## 科技趨勢和車載音樂體驗的未來
+## 技術トレンドと未来の車内音楽体験
 
-- 主動噪音消除和 DSP 優化
-- 利用人工智慧進行個人化音質調整
-- 充分利用電動車時代安靜的新聲音設計
+- アクティブノイズキャンセリングとDSP最適化  
+- AIによる個人向け音質調整  
+- EV時代の静粛性を活かした新しいサウンドデザイン  
 
 ---
 
-## 總結：從引擎聲音到聲音藝術－汽車與聲音的未來
+## まとめ：エンジン音から音響芸術へ — 車とサウンドの未来図
 
-汽車曾經是「運輸機器」。然而，現在它是一個“擁抱聲音的空間”，是文化的延伸。
-德國賦予聲音精密工程，英國賦予傳統和正式，美國賦予自由和權力，日本賦予微妙的和諧。
-各國的汽車音響也是該社會美學意識和產業概念的結晶。
+車は、かつて“移動のための機械”だった。しかし今や、それは“音を纏う空間”であり、文化の延長線上にある。
+ドイツは精密工学の延長として、イギリスは伝統と格式を、アメリカは自由とパワーを、日本は繊細な調和を音に込めてきた。
+それぞれの国のカーオーディオは、その社会の美意識と産業哲学の結晶でもある。
 
-勞斯萊斯的「寂靜舞台」是極致的寂靜。
-Tesla 的 DSP 控制連接電訊號和情緒。
-雷克薩斯 (Lexus) 的馬克·萊文森 (Mark Levinson) 將材料和空間作為「工具」。
-這些不僅僅是揚聲器系統，而且是人類與機器、工程和情感交叉的「聲音架構」。
+静寂を極めたロールス・ロイスの「無音の舞台」。
+電気信号とエモーションを結ぶテスラのDSP制御。
+そして、素材と空間を“楽器”として鳴らすレクサスのMark Levinson。
+これらは単なるスピーカーシステムではなく、**人と機械、工学と感性が交差する「音の建築」**といえる。
 
-現在，向電動車的轉變正在取得進展，引擎聲音的象徵性元素正在消失，
-汽車音響開始扮演新的角色。
-它是一個“移動的聽音室”和“個人聲學宇宙”。
-世界各地的製造商不再追求馬力或安靜；
-**「跑步時你能聽到什麼樣的聲音？」**這是一個新的經驗值。
+EV化が進む今、エンジン音という象徴的な要素が消えゆく一方で、
+車内音響は新たな役割を担いはじめている。
+それは“移動するリスニングルーム”であり、“個人の音響宇宙”だ。
+各国メーカーが追求するのは、もはや馬力でも静粛性でもなく、
+**「走ることで、どんな音を聴かせられるか」**という新しい体験価値なのだ。
 
-汽車音響從未停止發展。
-聲學設計經過AI修正，座椅變成共鳴板，根據駕駛者的心跳和心情改變聲場。
-我們最終將得到一個超越國家和品牌的聲音平等的境界。
-跑步時傾聽的行為再次增強了人類的敏感度。
+カーオーディオは進化を止めない。
+音響設計はAIが補正し、シートは共振板となり、ドライバーの心拍や気分に合わせて音場が変わる。
+その行き着く先にあるのは、国やブランドを超えた“音の平等圏”だろう。
+走りながら聴くという行為が、再び人間の感性を研ぎ澄ませていく。
 
-汽車告訴我們的不是道路，而是聲音的旅程。
-而這段旅程才剛開始。
+車が語るのは道のりではなく、音の旅である。
+そしてその旅は、まだ始まったばかりだ。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCHXf7CuLZg?si=CQoR_eBqiQFNdj-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

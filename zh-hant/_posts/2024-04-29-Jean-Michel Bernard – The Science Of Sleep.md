@@ -10,17 +10,17 @@ tags:
 - Techno
 - Minimal
 - German Techno
-title: Jean-Michel Bernard – 睡眠科學
+title: Jean-Michel Bernard – The Science Of Sleep
 ---
 
 
-電影《Sleep in Love》的原聲帶，由 Michel Gondry 創作和導演，他曾為 Björk、The Chemical Brothers、Daft Punk、Radiohead 等製作音樂錄影帶。
+ビョーク、ケミカルブラザーズ、ダフトパンク、レディオヘッドなどのMVを手掛けるミシェル・ゴンドリー監督・脚本の映画「恋愛睡眠のすすめ」のサウンドトラック。
 
-米歇爾·岡德里 (Michel Gondry) 也是法國搖滾樂團 Oui Oui 的鼓手。
+ミシェル・ゴンドリーは、フランスのロックバンドOui Ouiでドラマーとしても活動していた。
 
-第 15 和 16 首歌曲由 Lou Reed 創作。
+15&16曲目はLou Reed(ルー・リード)作曲
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Michel Bernard – Générique Stéphane
 2. Michel Bernard – Générique Début
@@ -35,7 +35,7 @@ title: Jean-Michel Bernard – 睡眠科學
 など全26曲
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m74238887194?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74238887194?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_FDeEmWask?si=tIhCa6qrd62pOJgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

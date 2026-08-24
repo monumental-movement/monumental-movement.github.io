@@ -9,21 +9,21 @@ permalink: /zh-hant/dj-scot-project-o/
 tags:
 - Trance
 - Anthem
-title: DJ Scot 專案 – O
+title: DJ Scot Project – O
 ---
 
 
-DJ Scot Project（Frank Zenker）是一位德國 DJ/製作人，自 90 年代以來在 Hard trance 領域取得了成功。
-《DJ Scot Project – O》是他的代表作之一，被譽為2000年代銳舞者的讚歌。
+DJ Scot Project（Frank Zenker）は、90年代からハードトランスシーンで成功を収めたドイツ人 DJ/プロデューサーです。
+「DJ Scot Project – O」は彼の代表作の一つで、00年代のレイヴァーにとってのアンセムとして知られています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. O
 
 B1. O (Arome Rmx)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m47285471992?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47285471992?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRAVoNoP-wo?si=BFWeXi3vWzA100pO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

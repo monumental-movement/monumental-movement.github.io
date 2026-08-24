@@ -9,22 +9,22 @@ permalink: /zh-hant/winx-dont-laugh-remix/
 tags:
 - Techno
 - Remix
-title: Winx – 別笑（混音）
+title: Winx – Don't Laugh (Remix)
 ---
 
 
-B 面是 Richie Hawtin 的混音版。
+B面はRichie Hawtin(リッチーホゥティン/リッチーホウティン)によるremix。
 
-Richie Hawtin Remix 是真正的經典，以其鼓編程、聲像和音量的使用而聞名。
+Richie Hawtin Remixは、真のクラシックとも言えるトラックでドラムプログラミング、パンニング、そして音量の使い方が特筆すべき点でしょう。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Don't Laugh (Winx Remix)
 
 B. Don't Laugh (Richie Hawtin Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m80747492060?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80747492060?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pfvxeqXFugw?si=SUfc8XMugL3IkelP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

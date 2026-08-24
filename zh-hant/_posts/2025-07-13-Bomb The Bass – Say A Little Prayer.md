@@ -11,25 +11,25 @@ tags:
 - Dub
 - Downtempo
 - 80s
-title: 轟炸低音 – 說一點祈禱
+title: Bomb The Bass – Say A Little Prayer
 ---
 
 
-蒂姆·西蒙農 (Tim Simenon)，又名 Bomb The Bass，是英國電子音樂界的重要人物，為 20 世紀 80 年代末的迷幻浩室音樂做出了貢獻。他最出名的是他的代表作《Beat Dis》。
+Bomb The Bass ことTimothy Simenon (Tim Simenon) は、1980年代後半のアシッドハウスシーンに貢献したUKエレクトロニックミュージックシーンの大御所。名作「Beat Dis」でよく知られている。
 
-《Say A Little Prayer》翻唱了 Burt Bacharach 和 Hal David 創作的經典歌曲，並由 Dionne Warwick 於 1967 年發行。
+「Say A Little Prayer」は、Burt Bacharach & Hal David 作、1967年に Dionne Warwick によってリリースされた名曲のカヴァー。
 
-Bomb The Bass 版本是由 Rhythm King（專門從事 house 和 Acid house 的唱片公司）於 1988 年發行的 Acid house 和 downtempo 混音版本。
+Bomb The Bass バージョンは、アシッドハウス&ダウンテンポremix で、1988年にハウス・アシッドハウスを専門とするレーベルRhythm Kingからリリースされた。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Say A Little Prayer
 
 B. 10 Seconds To Terminate
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

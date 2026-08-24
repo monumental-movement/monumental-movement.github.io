@@ -10,20 +10,20 @@ tags:
 - Pops
 - Rock
 - 7inch
-title: 比吉斯樂團－麻薩諸塞州
+title: The Bee Gees – Massachusetts
 ---
 
 
-《Massachusetts》是 Bee Gees 於 1967 年發行的一首風靡全球的歌曲。這首歌的主唱是羅賓·吉布。
+「Massachusetts」(マサチューセッツ) は、Bee Geesが1967年にリリースした楽曲で、世界的なヒットとなった。この曲のメインボーカルはRobin Gibb（ロビン・ギブ）。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Massachusetts（マサチューセッツ）
 
 B. Holiday（ホリディ）
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m78031442389?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78031442389?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJUkXhzMr0?si=vPT_PoLuLs6QTqSb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

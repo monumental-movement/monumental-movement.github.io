@@ -10,15 +10,15 @@ tags:
 - Euro Beat
 - Italo
 - Hi NRG
-title: Max Coo & Steve Coo – 布吉舞者
+title: Max Coo & Steve Coo – Boogie Dancer
 ---
 
 
-該作品由亞洲唱片公司於1990年發行，由以熱門歌曲《UPSIDE DOWN》而聞名的COO COO樂團「Max Coo & Steve Coo」創作。
+1990年にAsia Recordsからリリースされた本作はUPSIDE DOWNのヒットで有名なCOO COOによるユニット「Max Coo & Steve Coo」のもの。
 
-MAURO FARINA 承諾的 Eurobeat。
+MAURO FARINAによるお約束のユーロビートです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Boogie Dancer (Woogie Version)
 

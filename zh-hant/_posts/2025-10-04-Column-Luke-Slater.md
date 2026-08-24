@@ -10,16 +10,16 @@ tags:
 - Techno
 - Acid
 - UK Techno
-title: 【專欄】Luke Slater：英國techno先驅與他的音樂世界
+title: '【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界'
 ---
 
 
-## 全面了解英國技術創新者及其各種項目
+## UKテクノの革新者と多彩なプロジェクトの全貌
 
-文：mmr｜主題：Luke Slater = 檢視英國 techno 先驅者及其音樂世界
+文：mmr｜テーマ：Luke Slater＝英国テクノの先駆者とその音楽世界を考察
 
-Luke Slater 是一位來自英國伯克郡雷丁的電子音樂 DJ/製作人，從 20 世紀 80 年代末至今一直引領著全球舞台。
-他利用「行星攻擊系統」、「第七平原」和「LSD」等眾多別名，開展了從硬極簡到環境、電子和古典合作的廣泛活動。
+Luke Slater（ルーク・スレイター）は、イギリス・バークシャー州レディング出身のテクノDJ／プロデューサーであり、1980年代後半から現在に至るまで世界的なシーンを牽引し続けています。
+「Planetary Assault Systems」「The 7th Plain」「LSD」など数々の別名義を駆使し、ハードミニマルからアンビエント、エレクトロ、クラシカルなコラボレーションまで、多岐にわたる活動を展開してきました。
 
 ---
 
@@ -36,16 +36,16 @@ color: #fff;
 </style>
 
 
-### 早期背景與音樂形成
+### 初期の背景と音楽的形成
 
-Luke Slater 在父親的影響下接觸了音樂，並在 12 歲時成為鼓手。 20 世紀 80 年代末，他作為倫敦地下俱樂部的 DJ 聲名鵲起。他們於 1990 年以《Momentary Vision》首次亮相，從此成為 techno 發展中不可或缺的一部分。
+Luke Slaterは父親の影響で音楽と親しみ、12歳の頃にはドラマーとして活動。1980年代後半、ロンドンのアンダーグラウンドクラブでDJとして頭角を現しました。1990年には「Momentary Vision」でデビューし、その後、テクノの進化に欠かせない存在となります。
 
-90年代，他們與Warp和NovaMute一起發布了環境到極簡的作品，自2000年代以來，他們與柏林著名的Berghain俱樂部和廠牌Ostgut Ton有著密切的聯繫，並迅速成為歐洲techno場景的代表。
+90年代にはWarpやNovaMuteからアンビエント～ミニマル作品を発表し、2000年代以降はベルリンの名門クラブBerghainやレーベルOstgut Tonと強く結びつき、ヨーロッパのテクノシーンを代表する存在へと飛躍しました。
 
 ---
 
 
-### 活動圖
+### 活動マップ
 
 <div class="mermaid">
 
@@ -62,178 +62,178 @@ flowchart TD
 
 ---
 
-### 每個項目的特點
+### プロジェクトごとの特色
 
 ---
 
-#### 行星攻擊系統（PAS）
+#### Planetary Assault Systems（PAS）
 
-這是 Luke Slater 自 20 世紀 90 年代初以來的標誌性項目之一。
-它以硬朗而簡約的 techno 聲音為特色，被稱為世界各地俱樂部演奏的“巔峰時期 techno”的象徵。
+Luke Slaterが1990年代初頭から展開している代表的なプロジェクトのひとつです。
+ハードかつミニマルなテクノ・サウンドを特徴とし、世界中のクラブでプレイされる“ピークタイム・テクノ”の象徴的存在として知られています。
 
-**特徵**
+**特徴**
 
-- 重踢和重底線
+- 硬質なキックと重厚なベースライン
 
-- 宇宙與未來聲音處理
+- 宇宙的で未来的な音響処理
 
-- 導致恍惚狀態的長結構
+- 長尺でトランス状態に導く構成
 
-**與標籤的關係**
+**レーベルとの関係**
 
-- 90 年代：Tresor（柏林著名的俱樂部/廠牌）發布了許多作品
+- 90年代：Tresor（ベルリンの名門クラブ／レーベル）から多数リリース
 
-- 自 2000 年代起：遷至 Ostgut Ton（Berghain 直接廠牌）並持續發行作品至今。
+- 2000年代以降：Ostgut Ton（Berghain直系レーベル）に拠点を移し、現在も継続的に作品を発表
 
-PAS = Luke Slater 的「俱樂部硬科技前沿計畫」。
+PAS = Luke Slaterによる“クラブ向けハードテクノの最前線プロジェクト”。
 
-與第七平原的各種獨奏表演和環境性質相比，PAS 可以被描述為一種堅忍的技術表達，純粹是為了撼動地板。
-
----
-
-**唱片目錄**
-
-|年份|專輯名稱|特色|連結 |
-| ---- | ---------------------- | ----------------- | ------------------------------------------------ |
-| 1997 | *無人機產業* |工業色彩濃厚的早期傑作| [亞馬遜](https://amzn.to/477xvJn) |
-| 1999 | *原子放克斯特* |進化到硬極小值 | [亞馬遜](https://amzn.to/4o7j2TJ) |
-| 2009 | *暫時暫停* |由 Ostgut Ton 發佈 | [亞馬遜](https://amzn.to/4nzQeTV) |
-| 2011 | *信使* |極簡主義與面向未來的融合| [亞馬遜](https://amzn.to/3KA1vov) |
-| 2016 | 2016 *弧天使* |浩瀚宇宙與硬節奏| [亞馬遜](https://amzn.to/435hqS7) |
-| 2022 | 2022 *奉獻* | PAS最新作品，現代科技精髓 | [亞馬遜](https://amzn.to/4gWRD4j) |
+ソロ名義の多様性や7th Plainのアンビエント性に対して、PASは純粋にフロアを揺らすためのストイックなテクノ表現と言えます。
 
 ---
 
-**推薦影片**
+**ディスコグラフィー**
+
+| 年    | アルバム名                  | 特徴                | リンク                                     |
+| ---- | ---------------------- | ----------------- | --------------------------------------------- |
+| 1997 | *The Drone Sector*     | インダストリアル色の濃い初期傑作  | [Amazon](https://amzn.to/477xvJn) |
+| 1999 | *Atomic Funkster*      | ハードミニマルへの進化       | [Amazon](https://amzn.to/4o7j2TJ) |
+| 2009 | *Temporary Suspension* | Ostgut Tonからのリリース | [Amazon](https://amzn.to/4nzQeTV) |
+| 2011 | *The Messenger*        | ミニマルと未来志向の融合      | [Amazon](https://amzn.to/3KA1vov) |
+| 2016 | *Arc Angel*            | 宇宙的な広がりと硬質ビート     | [Amazon](https://amzn.to/435hqS7) |
+| 2022 | *Devotion*             | 最新のPAS作品、モダンテクノの粋 | [Amazon](https://amzn.to/4gWRD4j) |
+
+---
+
+**おすすめ動画**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uy6A3hX-2dQ?si=Vj3gs0SbhBtaAHd-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 第七平原
+#### The 7th Plain
 
-The 7th Plain 是 Luke Slater 在 1990 年代中期發起的環境/科技計畫。
-與以地板聲音為特色的 Planetary Assault Systems 不同，7th Plain 追求內省且漂浮的環境技術。
+The 7th Plain（セヴンス・プレイン）は、Luke Slaterが1990年代半ばに始動したアンビエント／テクノ・プロジェクトです。
+フロア向けの硬質なサウンドが特徴のPlanetary Assault Systemsに対し、7th Plainは 内省的で浮遊感のあるアンビエント・テクノ を追求しています。
 
-**特徵**
+**特徴**
 
-- 夢幻、冥想的音景
+- ドリーミーで瞑想的なサウンドスケープ
 
-- 底特律科技抒情與氛圍的融合
+- デトロイト・テクノの叙情性とアンビエントの融合
 
-- 強烈的聆聽導向，更像是「沉浸式體驗」而不是俱樂部
+- リスニング志向が強く、クラブよりも“没入体験”に近い
 
 
-**位置**
+**位置づけ**
 
-這個項目是 Luke Slater 的“另一面”，象徵著他在科技場景中實驗性和詩意的一面。
-第七平原 = Luke Slater 的「氛圍科技的深層世界」。
-
----
-
-**唱片目錄**
-
-|年份|專輯名稱|特色|連結 |
-| ---- | -------------------- | -------------------- | ------------------------------------------------------ |
-| 1994 | *四角房* |環境技術的傑作| [亞馬遜](https://amzn.to/4nttGUI) |
-| 1994 | *我的黃色明智地毯* |具有高度空間感的實驗作品| [亞馬遜](https://amzn.to/3VOULWo) |
-| 2016 | 2016 *編年史我*|檔案收藏（Warp Records時期）| [亞馬遜](https://amzn.to/4mK8uJ7) |
-| 2016 | 2016 *編年史II* |第二次檔案館藏| [亞馬遜](https://amzn.to/4gYSJN4) |
-| 2018 | *編年史III* |包含未發布的音源的集合 | [亞馬遜](https://amzn.to/4mPG9AW) |
+Luke Slaterの“もう一つの顔”であり、テクノシーンにおける彼の実験的かつ詩的な側面を象徴するプロジェクト。
+The 7th Plain = Luke Slaterによる“アンビエント・テクノの深淵世界” です。
 
 ---
 
-**推薦影片**
+**ディスコグラフィー**
+
+| 年    | アルバム名                 | 特徴                    | リンク                                     |
+| ---- | --------------------- | --------------------- | --------------------------------------------- |
+| 1994 | *The 4 Cornered Room* | アンビエント・テクノの傑作         | [Amazon](https://amzn.to/4nttGUI) |
+| 1994 | *My Yellow Wise Rug*  | 空間性の高い実験作             | [Amazon](https://amzn.to/3VOULWo) |
+| 2016 | *Chronicles I*        | アーカイブ集（Warp Records期） | [Amazon](https://amzn.to/4mK8uJ7) |
+| 2016 | *Chronicles II*       | アーカイブ集第二弾             | [Amazon](https://amzn.to/4gYSJN4) |
+| 2018 | *Chronicles III*      | 未発表音源含む集大成            | [Amazon](https://amzn.to/4mPG9AW) |
+
+---
+
+**おすすめ動画**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjFt9ZFo4Gc?si=ARNHLD0Qeu9-hCYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### LSD（盧克·斯萊特 + 史蒂夫·比克內爾 + 功能）
+#### LSD（Luke Slater + Steve Bicknell + Function）
 
-LSD 是由 Luke Slater、Steve Bicknell 和 Function（Dave Sumner）於 2017 年組成的技術計畫。
-他們都是90後活躍的老將，透過合作追求硬朗催眠的聲音。
+LSDは、Luke Slater / Steve Bicknell / Function（Dave Sumner） の3人によって2017年に結成されたテクノ・プロジェクトです。
+それぞれが90年代から活動してきたベテランであり、コラボレーションにより 硬質で催眠的なサウンド を追求しています。
 
-**特徵**
+**特徴**
 
-- 長期而堅忍的最低限度發展
+- 長尺でストイックなミニマル展開
 
-- 酸性紋理和宇宙音景
+- アシッド的な質感と宇宙的サウンドスケープ
 
-- 讓地板進入恍惚狀態的駕駛感
+- フロアをトランス状態に導くドライヴ感
 
-**位置**
+**位置づけ**
 
-LSD 是現代科技中的一個“超級團體”，是一個結合了每個成員的經驗和風格的項目。
-Berghain 和國際節日的現場表演受到了特別高的讚譽。
+LSDは、現代テクノにおける“スーパーグループ”的存在であり、各メンバーの経験とスタイルが融合したプロジェクト。
+Berghainや国際的フェスティバルでのライブは特に高い評価を受けています。
 
-LSD = 由三位大師匯集的“硬極簡主義的頂峰”，不僅融合了 techno，還融合了電子、放克和聲樂歌曲，發展了廣泛的表達方式。
-
-
----
-
-**唱片目錄**
-
-|年份|專輯名稱|特色|連結 |
-| ---- | ---------------- | ---------- | ------------------------------------------------------ |
-| 2017 | 2017 *流程* |首次合作作品 | [亞馬遜](https://amzn.to/3Wnv3IC) |
-| 2019 | 2019 *第二個過程* |最小而急劇的發展 | [亞馬遜](https://amzn.to/46PIaHj) |
-| 2020 | *第三個過程* |宇宙聲音處理 | [亞馬遜](https://amzn.to/42sbkuR) |
+LSD = 3人の巨匠が集結した“ハードミニマルの集大成” であり、テクノだけでなく、エレクトロ、ファンク、ヴォーカル曲も取り入れ、幅広い表現を展開。
 
 
 ---
 
-**推薦影片**
+**ディスコグラフィー**
+
+| 年    | アルバム名            | 特徴         | リンク                                     |
+| ---- | ---------------- | ---------- | --------------------------------------------- |
+| 2017 | *Process*        | コラボレーション初作 | [Amazon](https://amzn.to/3Wnv3IC) |
+| 2019 | *Second Process* | ミニマルで鋭利な展開 | [Amazon](https://amzn.to/46PIaHj) |
+| 2020 | *Third Process*  | 宇宙的な音響処理   | [Amazon](https://amzn.to/42sbkuR) |
+
+
+---
+
+**おすすめ動画**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C3TOuWGtD3k?si=7CpfXP9LFtQI37gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 個人名稱：盧克·斯萊特
+#### ソロ名義 Luke Slater
 
-以他的個人名字，他以涵蓋科技、電子和碎拍等廣泛的作品而聞名。
+自身のソロ名義では、テクノ、エレクトロ、ブレイクビートを横断する幅広い作品で知られています。
 
-**特徵**
+**特徴**
 
-- 從硬工業技術到旋律和實驗作品，多種多樣。
+- ハードでインダストリアルなテクノから、メロディックで実験的な作品まで多様
 
-- 除了 4/4 節拍之外，我們還提供碎拍和氛圍音樂。
+- 4つ打ちだけでなく、ブレイクビーツやアンビエントも展開
 
-- 始終平衡俱樂部場景和藝術性
+- 常にクラブシーンとアート性を両立
 
-**位置**
+**位置づけ**
 
-斯萊特被譽為一位靈活的創作者，他遊走於各個場景，平衡了高科技音樂的硬度與流行音樂的感性。
-它為後來的別名如行星攻擊系統和第七平原奠定了基礎。
-
----
-
-**唱片目錄**
-
-
-|年份|專輯名稱|特色|連結 |
-| ---- | ---------------- | -------------- | ------------------------------------------------------ |
-| 1997 | *弗里克·芬克* |放克與科技的融合，傑作| [亞馬遜](https://amzn.to/4pVNHoG) |
-| 1999 | *無線* |獨特的作品與強勁的聲音| [亞馬遜](https://amzn.to/4pRPAT8) |
-| 2002 | *好吧在上面* |流行/電子為主 | [亞馬遜](https://amzn.to/46B4ntV) |
+Slaterは、シーンを横断する柔軟なクリエイターとして評価され、テクノのハードさとポップな感覚を両立。
+後のPlanetary Assault SystemsやThe 7th Plainなどの別名義活動へとつながる基盤を築きました。
 
 ---
 
-**推薦影片**
+**ディスコグラフィー**
+
+
+| 年    | アルバム名            | 特徴             | リンク                                     |
+| ---- | ---------------- | -------------- | --------------------------------------------- |
+| 1997 | *Freek Funk*     | ファンクとテクノの融合、名盤 | [Amazon](https://amzn.to/4pVNHoG) |
+| 1999 | *Wireless*       | ボーカル色を強めた異色作   | [Amazon](https://amzn.to/4pRPAT8) |
+| 2002 | *Alright on Top* | ポップ／エレクトロ寄り    | [Amazon](https://amzn.to/46B4ntV) |
+
+---
+
+**おすすめ動画**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EhZm8MJcTc8?si=8o2TgcfOexJbn354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 目前活動
+### 現在の活動
 
-Luke Slater 仍然活躍，並將於 2025 年發行「行星攻擊系統重新組裝」。他也致力於與古典音樂的融合項目，並繼續超越技術界限進行藝術實驗。
+Luke Slaterは今なお精力的に活動しており、2025年には「Planetary Assault Systems Reassembled」を発表。さらにクラシック音楽との融合プロジェクトにも取り組み、テクノの枠を越えた芸術的実験を続けています。
 
 ---
 
-#### 概括
+#### まとめ
 
-Luke Slater 是英國 techno 的先驅，透過多個別名發展了多種音樂風格。他的作品超越了電子音樂的界限，並繼續接受新的音樂挑戰，例如與環境音樂和古典音樂的融合。以後我的目光將無法從他的音樂移開。
+Luke Slaterは、UKテクノの先駆者として、数多くのエイリアスを通じて多様な音楽スタイルを展開してきました。彼の作品は、テクノの枠を超えて、アンビエントやクラシックとの融合など、常に新しい音楽的挑戦を続けています。今後も彼の音楽から目が離せません。
 
 ---
 
@@ -242,13 +242,22 @@ Luke Slater 是英國 techno 的先驅，透過多個別名發展了多種音樂
 ---
 
 
-### 相關專欄
+### YouTube Podcast
 
-🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
-🔗 [[Column] Tresor - 柏林地下改變世界的科技聖地](https://monumental-movement.jp/Column-Tresor)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REiZrg6DNPs?si=lqyx74MNdq8LhMB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)
+---
 
-🔗 【德國Techno的譜系與現在－聲音美學從柏林傳播到世界】(https://monumental-movement.jp/Column-German-Techno)
+
+### 関連コラム
+
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
+
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 

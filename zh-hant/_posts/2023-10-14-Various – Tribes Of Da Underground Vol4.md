@@ -9,17 +9,17 @@ permalink: /zh-hant/various-tribes-of-da-underground-vol4/
 tags:
 - Break Beat
 - Downtempo
-title: 各種 – Da Underground Vol4 部落
+title: Various – Tribes Of Da Underground Vol4
 ---
 
 
-Fred Everything 是一位活躍於 Deep House 場景的法裔加拿大電子音樂家/DJ。
+Fred Everythingは、ディープハウス・シーンで活躍しているフランス系カナダ人のエレクトロニック・ミュージシャン/DJ。
 
-Pressure Drop 是英國電子音樂二人組，由 Justin Langlands 和 Dave Henley 組成。
+Pressure Dropは、Justin LanglandsとDave Henley からなるUKエレクトロニックミュージックデュオ。
 
-Sofa Surfers 是一支奧地利樂隊，演奏 Trip-hop、配音、迷幻爵士、搖滾和電子音樂的組合。
+Sofa Surfersは、トリップホップ、ダブ、アシッド ジャズ、ロックと電子音楽を組み合わせた音楽を演奏するオーストリアのバンド。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Switchblade Sisters –  The Switchblade Groove
 
@@ -36,7 +36,7 @@ C2. Max.Schneider – Inercia
 D. Pathless – Forecast
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m49529230918?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49529230918?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W_SMy69xcXo?si=w2Kme05uW2DwbWVB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

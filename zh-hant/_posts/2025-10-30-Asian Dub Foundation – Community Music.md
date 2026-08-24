@@ -11,7 +11,7 @@ tags:
 - Dub
 - Drum n Bass
 - 00s
-title: 亞洲配音基金會 – 社區音樂
+title: Asian Dub Foundation – Community Musick
 ---
 
 
@@ -21,11 +21,11 @@ title: 亞洲配音基金會 – 社區音樂
 
 
 
-Asian Dub Foundation 是一支來自英國的電子舞曲樂團。他們的風格融合了饒舌搖滾、配音、舞廳音樂、拉格音樂、雷鬼電子舞曲和南亞音樂。
+Asian Dub Foundationは、UK出身のエレクトロニカ・ダンス系バンド。ラップロック、ダブ、ダンスホール、ラガ、レゲエEDM、南アジア音楽などをmixするスタイルが特徴。
 
-《社群音樂》於2000年發行，距熱門專輯《拉菲的復仇》兩年後發行，是亞洲配音基金會的第三張專輯，受到各方好評。這是 Deeder Zaman 參與的最後一張專輯，主唱/MC Deeder Zaman 於當年年底離開了樂團。
+大ヒットしたアルバム「Rafi's Revenge 」から2年後の2000年にリリースされた「Community Music」は、各方面で高評価を得たAsian Dub Foundation3枚目のアルバム。この年の終わりにヴォーカル／MCのDeeder Zamanが脱退したため、Deeder Zamanが参加した最後のアルバムとなった。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Real Great Britain
 2. Memory War
@@ -43,7 +43,7 @@ Asian Dub Foundation 是一支來自英國的電子舞曲樂團。他們的風�
 14. Scaling New Heights
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m52736138135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52736138135?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_n52L389e0?si=UXfed_6JpX38og2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

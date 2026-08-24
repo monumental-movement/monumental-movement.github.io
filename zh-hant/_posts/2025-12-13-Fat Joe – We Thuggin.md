@@ -9,15 +9,15 @@ permalink: /zh-hant/fat-joe-we-thuggin/
 tags:
 - Hiphop
 - 00s
-title: 胖喬——我們暴徒
+title: Fat Joe – We Thuggin'
 ---
 
 
-A 的《We Thuggin'》是一首嘻哈歌曲，由 Atlantic 於 2001 年與 R. Kelly 合作發行。製片為羅恩G.
+Aの「We Thuggin' 」は、R. Kelly(Rケリー)をフィーチャーし、2001年にAtlanticからリリースしたHip Hopトラック。プロデューサーはRon G。
 
-B 的《My Lifestyle》是一首由 D.I.T.C. 製作的嘻哈歌曲。成員兼嘻哈製作人/DJ Buckwild（安東尼貝斯特）。
+Bの「My Lifestyle 」は、D.I.T.C.のメンバーでありHip Hop プロデューサー／ DJのBuckwild(Anthony Best)がプロデュースしたHip Hopトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. We Thuggin' (Clean)
 A2. We Thuggin' (Explicit)
@@ -28,7 +28,7 @@ B2. My Lifestyle (Explicit)
 B3. My Lifestyle (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m40207557202?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40207557202?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YW5MCnMNvEM?si=pajufjNSp5n0_Uwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

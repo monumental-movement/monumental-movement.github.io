@@ -9,16 +9,16 @@ permalink: /zh-hant/ken-ishii-innerelements/
 tags:
 - Techno
 - Ambient
-title: 石井健 – 《Innerelements》
+title: Ken Ishii – Innerelements
 ---
 
 
-Ken Ishii 是一位在國內外享有盛譽的日本 techno 音樂家。這張專輯由R&S Records發行，是他的代表作之一。
+ケンイシイ（Ken Ishii）は、日本のテクノミュージシャンで、国内外で高い評価を受けているアーティストです。R & S Recordsからリリースされたこのアルバムは、彼の代表作の一つです。
 
-《Innerelements》發行於1994年，被譽為一首融合了trip-hop和電子樂元素的電子音樂。以環境音景和慢節奏節奏為特色，其創新的方法給許多聽眾留下了深刻的印象。
+「Innerelements」は、1994年にリリースされ、テクノミュージックの中でも特にトリップホップやエレクトロニカの要素を取り入れた作品として知られています。アンビエントなサウンドスケープやダウンテンポのリズムが特徴であり、その革新的なアプローチは多くのリスナーに強い印象を与えました。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Encoding
 
@@ -45,7 +45,7 @@ Ken Ishii 是一位在國內外享有盛譽的日本 techno 音樂家。這張�
 12. Decoding
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m57457067000?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57457067000?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3X9fDv6q-fU?si=8iIOsEMWv3miwpO3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

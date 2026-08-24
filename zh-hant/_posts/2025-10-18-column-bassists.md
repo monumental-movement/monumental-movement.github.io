@@ -11,19 +11,19 @@ tags:
 - Rock
 - Citypop
 - Fusion
-title: 【專欄】貝斯星球：世界及日本貝斯手的文化史－地表下的聲音
+title: 【コラム】 低音の惑星：世界と日本のベーシスト文化史──地表の下で鳴る音
 ---
 
 
-## “音樂的靈魂在於低音。”
+## “音楽の魂は低音にある。”
 
 
-文：mmr｜主題：滲透世界的「貝斯哲學」與日本貝斯手文化
+文：mmr｜テーマ：世界と日本のベーシスト文化を貫く“低音の思想”
 
-我們常常被旋律吸引。
-然而，我們「感受到」音樂的時刻總是在我們身體深處產生共鳴的低音。
-當俱樂部裡的低音炮震動空氣時，或者當現場演奏室裡的敲擊聲擊中你的胸口時，
-其中心是一個看不見的重力，稱為“底座”。
+私たちはしばしばメロディに耳を奪われる。  
+だが、音楽を「感じる」瞬間は、いつも身体の奥で鳴っている低音にある。  
+クラブのサブウーファーが空気を揺らす時も、ライブハウスで胸を打つ一打も、  
+その中心にあるのは「ベース」という名の見えざる重力だ。
 
 ---
 
@@ -41,196 +41,196 @@ color: #fff;
 </style>
 
 
-## 一、用身體而不是耳朵聽音樂
+## I. 耳ではなく身体で聴く音楽
 
-低音是一種在您聽到之前您的身體就會做出反應的聲音。
-他站在節奏與和聲之間，決定了音樂的重心。
-它不僅僅是伴奏，也控制著音樂的氣息。
+ベースは、耳で聴くよりも先に“体が反応する音”だ。  
+リズムとハーモニーの狭間に立ち、音楽の重心を決定づける存在。  
+それは単なる伴奏ではなく、音楽の呼吸そのものを司っている。  
 
-自20世紀以來，音樂的變革一直伴隨著貝斯的創新。
-爵士樂給你即興創作的自由，搖滾樂散發著叛逆的能量，
-每當科技音樂或嘻哈音樂侵蝕城市氛圍時，貝斯就會呈現出一種「新的肉體」。
+20世紀以降、音楽の変化は常に低音の革新とともにあった。  
+ジャズが即興の自由を手に入れ、ロックが反逆のエネルギーを放ち、  
+テクノやヒップホップが都市の空気を刻むたび、ベースは“新しい身体性”を提示してきた。
 
 ---
 
-## 二.世界的地殼變化：貝斯驅動的 20 世紀音樂史
+## II. 世界の地殻変動：低音が動かした20世紀音楽史
 
-### 1.從爵士樂的反叛開始。
+### 1. ジャズの反骨から始まる
 
-聆聽 Charles Mingus 演奏
-這聽起來不僅僅是低音線，它聽起來像是對社會的聲明。
-憤怒與智慧、即興創作與建構。低音裡有詩意。
+チャールズ・ミンガスの演奏を聴くと、  
+それは単なるベース・ラインではなく、社会への声明に聞こえる。  
+怒りと知性、即興と構築。その低音には詩が宿る。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-像雷·布朗和羅恩·卡特這樣的球員
-他把哲學帶到了「行走的基線」。
-聲音之間的節奏——這就是將爵士樂提升為一種藝術形式的原因。
+レイ・ブラウンやロン・カーターのようなプレイヤーたちは、  
+「歩くベースライン」に哲学を持ち込んだ。  
+音の“間”で語るリズム──それがジャズを芸術に押し上げた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-支持日本戰後爵士咖啡館的鈴木義夫和稻葉國光，
-用自己國家的情感享受這種“自由的低音聲音”，
-不久之後，他們在東京的夜晚創造了自己獨特的節奏。
+日本でも戦後のジャズ喫茶を支えた鈴木良雄や稲葉国光が、  
+この「低音の自由」を自国の感性で咀嚼し、  
+やがて東京の夜に独自のグルーヴを生み出していった。
 
 ---
 
-### 2.搖滾革命：歌唱貝斯與尖叫貝斯
+### 2. ロック革命：歌うベースと叫ぶベース
 
-1960年代，貝斯出現在搖滾樂的中心。
-保羅麥卡尼以一位悠揚的貝斯手開啟了一場革命，
-約翰·恩特威斯爾（The Who）在喧囂中尋求建築之美。
+1960年代、ロックの中心にベースが現れる。  
+ポール・マッカートニーは旋律を奏でるベーシストとして革命を起こし、  
+ジョン・エントウィッスル（The Who）は轟音の中で構築美を追求した。  
 
-傑克·布魯斯（奶油）和約翰·保羅·瓊斯（齊柏林飛艇）
-儘管他有布魯斯根源，但他以建築風格構建了樂團。
-此後，搖滾樂不再缺乏貝斯的「歌唱精神」。
+ジャック・ブルース（Cream）やジョン・ポール・ジョーンズ（Led Zeppelin）は、  
+ブルースの血を引きながらも、アンサンブルを建築的に組み立てた。  
+その後のロックは、低音の“歌心”を欠かさなくなった。  
 
-朋克的出現釋放了低音的刺耳感。
-Sid Vicious（性手槍樂團）拒絕詭計，用他的存在發出叛逆的聲音。
-還有 Joy Division 的 Peter Hook 演奏的悲傷旋律，
-事實證明，低音可以成為「情感的主題」。
+パンクの登場は、ベースの荒々しさを解放した。  
+シド・ヴィシャス（Sex Pistols）は技巧を拒否し、存在そのもので反逆を鳴らした。  
+そしてJoy Divisionのピーター・フックが奏でた悲しみの旋律は、  
+ベースが“感情の主語”となり得ることを証明した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oGMPIynCni8?si=Ic56pmgVGAXXWbBJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 3. Funk與實驗：貝斯走在前面的時代
+### 3. ファンクと実験：低音が前に出る時代
 
-當拉里·格雷厄姆的巴掌演奏風格誕生的那一刻，
-貝斯本身就成了節奏。
-Bootsy Collins 的宇宙放克，
-雅科·帕斯托里斯的一首無憂無慮的詩。
+ラリー・グラハムのスラップ奏法が誕生した瞬間、  
+ベースはリズムそのものになった。  
+ブーツィー・コリンズが放つ宇宙的ファンク、  
+ジャコ・パストリアスが描いたフレットレスの詩。  
 
-低音不再是“伴奏”，而是演變成了“敘述者”。
-米克·卡恩和東尼·萊文將聲音本身視為一座雕塑，
-他將貝斯推向了抽象藝術的領域。
+ベースはもはや“伴奏”ではなく、“語り部”へと進化する。  
+ミック・カーンやトニー・レヴィンは、音そのものを彫刻するように扱い、  
+ベースを抽象芸術の域に押し上げた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OIzN51SLwwg?si=2idpsrhby4Kd4Mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 三．日本的貝斯地圖：在地上與地下之間移動的貝斯手
+## III. 日本の低音地図：地上と地下を行き来するベーシストたち
 
-### 1. 細野晴臣與日本節奏翻譯家
+### 1. 細野晴臣と日本語リズムの翻訳者たち
 
-在YMO之前，細野晴臣已經改變了日本流行音樂的「重心」。
-遵循單字節奏而非英語節奏的低音調。
-他所建立的是「日文中的律動」美學。
+YMO以前、細野晴臣はすでに日本語ポップスの「重心」を変えていた。  
+英語のノリではなく、言葉のリズムに寄り添う低音。  
+彼が打ち立てたのは“日本語でグルーヴする”という美学だった。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-山下達郎樂隊的伊藤博典、後藤繼俊、岡澤晃──
-他們創造了介於流行歌曲和 AOR 之間的世界級聲音。
-低音吉他不再扮演幕後角色，而是成為支撐音樂「尊嚴」的元素。
+山下達郎バンドの伊藤広規、職人の後藤次利、岡沢章──  
+彼らは歌謡曲とAORの狭間で、世界に通じるサウンドを築いた。  
+ベースは裏方ではなく、音楽の「品格」を支える要素となった。
 
 ---
 
-### 2. 地下運動：噪音、後搖滾、俱樂部文化
+### 2. アンダーグラウンドの胎動：ノイズ、ポストロック、クラブ文化
 
-1990年代後，日本地下音樂開始與貝斯音樂連結。
-NUMBER GIRL 的中尾健太郎陷入了扭曲和憤怒的狀態，
-ZAZEN BOYS 的 Ichiro Yoshida 將奇怪的拍號提升為「構建智慧」。
+90年代以降、日本のアンダーグラウンドは低音で繋がりはじめる。  
+NUMBER GIRLの中尾憲太郎は、歪みと怒りのグルーヴを叩きつけ、  
+ZAZEN BOYSの吉田一郎は、変拍子を“構築する知性”へと昇華させた。  
 
-ROVO和Shibusa Shirazu的貝斯手，
-自由遊走於爵士樂與搖滾、即興創作與建構之間，
-它模糊了俱樂部文化和現場音樂之間的界線。
+ROVOや渋さ知らズのベーシストたちは、  
+ジャズとロック、即興と構築を自在に往来し、  
+クラブカルチャーと生演奏の境界を曖昧にした。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k4jrFCIJYac?si=IAWwH54Pgzu4o3jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
-沒有尖叫聲，只有「呼吸靜止」。
+downyやtoeの繊細な低音は、都市の夜を描く詩のようだ。  
+そこには、叫びではなく“呼吸する静けさ”がある。
 
 ---
 
-### 3. 俱樂部文化之後的貝斯哲學
+### 3. クラブカルチャー以降の低音哲学
 
-2000年代，貝斯再次改變了面貌。
-大澤伸一將「人類貝斯」帶入俱樂部曲目，
-STUTS 和 yahyel 將打字和現場音樂結合在一起。
+2000年代、ベースは再び姿を変える。  
+大沢伸一がクラブ・トラックに“人間的低音”を持ち込み、  
+STUTSやyahyelが打ち込みと生演奏を融合させた。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-目前的樂團如 King Gnu 和 millennium parade，
-低音控制著歌曲的「敘事」。
-濱岡本是傳統與現代的結合體。
-它提供了超越可玩性的“音樂文明”。
+King Gnuやmillennium paradeのような現行バンドでは、  
+ベースが楽曲の「物語性」を制御している。  
+ハマ・オカモトは伝統と現代性の結節点として、  
+プレイヤビリティの先に“音楽的礼節”を提示している。
 
 ---
 
-## 四．黑夜傳說：由貝斯連結的反主流文化
+## IV. 世界の地下：低音で繋がるカウンターカルチャー
 
-Joy Division 的 Peter Hook、PIL 的 Jah Wobble、
-和《會說話的頭像》中的蒂娜·韋茅斯。
-他們所展示的是低音是「知識分子叛逆」的象徵。
+Joy Divisionのピーター・フック、PILのJah Wobble、  
+そしてTalking Headsのティナ・ウェイマス。  
+彼らが示したのは、ベースが「知的反逆」の象徴であるということだった。  
 
-在布里斯托爾，Massive Attack 和 Portishead 成立了 Trip-hop，
-在倫敦，Burial 和 Kode9 將低音重新定義為「無意識的城市聲音」。
-在柏林，莫里茲·馮·奧斯瓦爾德和 Electric Indigo，
-他將 techno 的低音提升到了“建築藝術”的水平。
+ブリストルではMassive AttackやPortisheadがトリップホップを築き、  
+ロンドンではBurialやKode9が“無意識の都市音”としてのベースを再定義した。  
+ベルリンではMoritz von OswaldやElectric Indigoが、  
+テクノの低音を「建築的芸術」にまで高めた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=-5M_UTVWqc3dB2OD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-貝斯不再是一種樂器，
+ベースはもはや楽器を超え、  
 “文化の共通言語”になっている。
 
 ---
 
-## 五、設備與美學：樂器敘述的另一段歷史
+## V. 機材と美学：楽器が語るもうひとつの歴史
 
-Fender Precision、爵士貝斯、Rickenbacker。
-每種形狀都顯示音樂思想本身的差異。
+フェンダー・プレシジョン、ジャズベース、リッケンバッカー。  
+それぞれの形は、音楽思想そのものの違いを示す。  
 
-合成貝斯的發展也使貝斯聲音大眾化。
-穆格、羅蘭、Novation——機器有感情，
-基線從“程序”變為“個性”。
+シンセベースの進化もまた、低音の民主化を進めた。  
+Moog、Roland、Novation──機械が感情を持つようになり、  
+ベースラインは「プログラム」から「人格」へと変わっていった。
 
-在哈科之後，無憂無慮變成了沉默的詩人。
-它被認為是讓空間本身產生共鳴的“聲音雕塑”。
-
----
-
-## 六．結論：低音是“社會的潛意識”
-
-低音不是音樂的中心。
-然而，它仍然是所有聲音所立足的「基礎」。
-
-低音詮釋著無法用語言表達的感情，
-慢慢地動搖社會的潛意識。
-
-在那條穿越世界和日本、地上和地下的線路上，
-今天我們仍然站著。
-
-用你的心去聽，而不是用耳朵。
-低音星球的鳴響尚未停止。
+ジャコ以降、フレットレスは沈黙の詩人のような存在になり、  
+空間そのものを鳴らす“音の彫刻”として受け継がれている。
 
 ---
 
-## 參考唱片：日本和低音世界
+## VI. 結章：低音は「社会の潜在意識」である
 
-|藝術家 |工作|年份|筆記|連結 |
+ベースは音楽の中心ではない。  
+だが、すべての音が立つための“地盤”であり続ける。  
+
+低音は言葉にできない感情を翻訳し、  
+社会の無意識をゆっくりと揺さぶる。  
+
+世界と日本、地上と地下を貫くその線の上に、  
+私たちは今日も立っている。  
+
+耳ではなく、心臓で聴け。  
+低音の惑星は、まだ鳴り止まない。
+
+---
+
+## 参考ディスコグラフィー：低音で巡る世界と日本
+
+| アーティスト | 作品 | 年 | 備考 | リンク |
 |:--|:--|:--:|:--|:--|
-|查爾斯·明格斯 | *明格斯啊嗯* | 1959 |爵士樂中的叛逆與抒情| [亞馬遜](https://amzn.to/4qmvgd2) |
-|雅科·帕斯托里斯 | *雅科·帕斯托里斯* | 1976 |無憂詩| [亞馬遜](https://amzn.to/3L1qTUl) |
-|細野晴臣 | *愛樂樂團* | 1982 |日文節奏翻譯| 日文節奏[亞馬遜](https://amzn.to/4qi4uT0) |
-|米克卡恩 | *理性的夢想產生怪物* | 1987 |貝斯講述的夢想| [亞馬遜](https://amzn.to/499CNWg) |
-|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 | 2000扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
-|雷貓 | *醉* | 2017 | 2017貝斯歌唱的現代 | [亞馬遜](https://amzn.to/47bvA5w) |
+| Charles Mingus | *Mingus Ah Um* | 1959 | ジャズの反骨と叙情 | [Amazon](https://amzn.to/4qmvgd2) |
+| Jaco Pastorius | *Jaco Pastorius* | 1976 | フレットレスの詩 | [Amazon](https://amzn.to/3L1qTUl) |
+| 細野晴臣 | *Philharmony* | 1982 | 日本語リズムの翻訳 | [Amazon](https://amzn.to/4qi4uT0) |
+| Mick Karn | *Dreams of Reason Produce Monsters* | 1987 | ベースが語る夢 | [Amazon](https://amzn.to/499CNWg) |
+| 中尾憲太郎（NUMBER GIRL） | *SAPPUKEI* | 2000 | 歪んだ都市の低音 | [Amazon](https://amzn.to/47115k4) |
+| Thundercat | *Drunk* | 2017 | ベースが歌う現代 | [Amazon](https://amzn.to/47bvA5w) |
 
 ---
 
-### 年表和插圖：低音的演變（1950–2025）
+### 年表と図解：低音の進化（1950–2025）
 
 <div class="mermaid">
 
@@ -250,7 +250,7 @@ timeline
 
 ---
 
-### 基礎結構/作用圖
+### ベース構造・役割図解
 
 <div class="mermaid">
 

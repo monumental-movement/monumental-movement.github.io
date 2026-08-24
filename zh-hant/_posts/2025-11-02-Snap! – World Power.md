@@ -12,7 +12,7 @@ tags:
 - Euro House
 - Hiphop
 - 90s
-title: 折斷！ – 世界力量
+title: Snap! – World Power
 ---
 
 
@@ -22,9 +22,9 @@ title: 折斷！ – 世界力量
 
 
 
-德國歐洲舞曲專案 Snap! 的首張專輯，由 Logic Records 於 1990 年發行。 Snap! 的傑作，其中包括熱門歌曲“The Power”、“Ooops Up”和“Mary Had A Little Boy”。
+1990年にLogic RecordsからリリースされたドイツのEurodance(ユーロダンス)プロジェクト Snap! (スナップ)のデビューアルバム。ヒット曲「The Power」「Ooops Up」「Mary Had A Little Boy」などが収録されたSnap! の代表作。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. The Power
 2. Ooops Up

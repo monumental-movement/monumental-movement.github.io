@@ -9,21 +9,21 @@ permalink: /zh-hant/joey-beltram-the-alien-chamber-beyonder-part-a/
 rating: 3.5
 tags:
 - Techno
-title: 喬伊貝爾特拉姆 (Joey Beltram) – 異形密室（A 部分之後）
+title: Joey Beltram – The Alien Chamber (Beyonder Part A)
 v-rating: 3G
 ---
 
 
-這是 Joey Beltram 於 2006 年在「STX Records」廠牌上發行的 EP。
+2006年にレーベル「STX Records」からリリースされたJoey BeltramによるEPです。
 
-這首歌是 Joy Beltrame 的典型風格，有沉重的低音線、漂亮的老派打擊樂和所有合適的節奏。
+このトラックは、ジョイ・ベルトラムらしい典型的な作品で、重いベースライン、ナイスなオールドスクール・パーカッション、グルーヴ感がすべて詰まっています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. The Alien Chamber (Beyonder Part A)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m50569703435?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50569703435?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gCJ7iDAnqDY?si=87bARO3LhcZqzKK1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

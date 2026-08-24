@@ -9,21 +9,21 @@ permalink: /zh-hant/spiritualized-ladies-and-gentlemen-we-are-floating-in-space/
 tags:
 - Rock
 - Post Rock
-title: 靈性化－女士先生們，我們漂浮在太空中
+title: Spiritualized – Ladies And Gentlemen We Are Floating In Space
 ---
 
 
-《Spiritualized – 女士們先生們，我們漂浮在太空》是英國搖滾樂團 Spiritualized 的一張專輯。
+「Spiritualized – Ladies And Gentlemen We Are Floating In Space」は、イギリスのロックバンド、スピリチュアライズド（Spiritualized）のアルバムです。
 
-這張專輯被譽為Spiritualized的代表作，其特點是實驗性的聲音和華麗的編曲。這張專輯以其獨特的音樂風格而聞名，融合了搖滾、鞋迷和迷幻搖滾的元素。
+このアルバムは、スピリチュアライズドの代表作として知られ、実験的なサウンドや壮大なアレンジが特徴です。アルバムは、ロック、シューゲイザー、サイケデリックロックなどの要素を組み合わせた独自の音楽スタイルで知られています。
 
-Spiritualized 於 1990 年在英國沃里克郡拉格比成立，除了核心成員 Jason Pearce 之外，樂團一直擁有穩定的支援陣容。
+スピリチュアライズドは、1990年にイギリスのウォーウィックシャー州ラグビーで結成され、中心メンバーのジェイソン・ピアース以外は、常に流動的なサポートメンバーで構成されています。
 
-他們也被認為是自 20 世紀 90 年代以來對另類搖滾和獨立搖滾產生重大影響的樂團之一。
+また、90年代以降のオルタナティブロックやインディーロックに大きな影響を与えたバンドの一つとして評価されています。
 
-樂團的名字來自電影《2001太空漫遊》中出現的虛構太空船“Spiritualized”，傑森·皮爾斯也被稱為《太空人3》的前主唱。
+バンド名は、映画『2001年宇宙の旅』に登場する架空の宇宙船「スピリチュアライズド号」に由来しており、ジェイソン・ピアースは、Spacemen 3（スペースメン3）の元ボーカルとしても知られています。
 
-#### 曲目表
+#### Tracklist
 ```md
 1.Ladies And Gentlemen We Are Floating In Space
 
@@ -54,7 +54,7 @@ Bonus Track For Japan
 13.Broken Heart (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m13540642583?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13540642583?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWOdSeDzyy4?si=rcVxEw6vHed4noNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,17 +11,17 @@ tags:
 - Euro House
 - House
 - 00s
-title: 格洛麗亞·蓋諾——昨晚
+title: Gloria Gaynor – Last Night
 ---
 
 
-Side A 上的第一首和第二首歌曲由義大利 HOUSE DJ/製作人 Andrea T. Mendoza 以及 Mauro Ferrucci 和 Frankie Tamburo 的製作二人組 T&F 混音。
+A面1、2曲目は、イタリアのHOUSE DJ・プロデューサーAndrea T. Mendoza とMauro Ferrucci & Frankie TamburoによるプロダクションデュオT&Fによるremix。
 
-Side A 上的第三首曲目是由美國流行合成器作家兼作曲家 Dave Sears 重新混音的。
+A面3曲目は、アメリカのシンセポップライター&コンポーザーDave Searsによるremix。
 
-B 面是由英國音樂家、詞曲作者、DJ、音樂總監和編曲家 Steve Anderson 製作的混音版。
+B面は、イギリスのミュージシャン、ソングライター、DJ、音楽監督、アレンジャーSteve Anderson(スティーヴ・アンダーソン)によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Last Night (T&F Crushed Mendoza Club Mix)
 A2. Last Night (T&F Radio Mix)
@@ -30,7 +30,7 @@ A3. Last Night (Dave Sears Club Mix)
 B1. Last Night (Steve Anderson Mardi Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YF1VG-hlDM8?si=qAmA23928WjjbunF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

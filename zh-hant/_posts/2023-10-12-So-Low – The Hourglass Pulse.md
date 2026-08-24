@@ -10,13 +10,13 @@ tags:
 - House
 - Progressive
 - Rare
-title: 如此低——沙漏脈搏
+title: So-Low – The Hourglass Pulse
 ---
 
 
-《So-Low – The Hourglass/Pulse》於 1992 年由埃塞克斯的前衛唱片公司 X-Gate Records 發行。
+「So-Low – The Hourglass / Pulse」は、エセックスを拠点とするプログレッシブハウスレーベルX-Gate Recordsから1992年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. The Hourglass (Time Mix)
 
@@ -25,7 +25,7 @@ AA1. Pulse
 AA2. The Hourglass (Original Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m80454443791?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80454443791?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/26hZAJyKIeA?si=vKElcAaTuPuYaPAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

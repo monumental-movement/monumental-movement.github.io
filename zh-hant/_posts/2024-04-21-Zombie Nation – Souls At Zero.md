@@ -9,26 +9,26 @@ permalink: /zh-hant/zombie-nation-souls-at-zero/
 tags:
 - Techno
 - 00s
-title: 殭屍國度－靈魂歸零
+title: Zombie Nation – Souls At Zero
 ---
 
 
-Zombie Nation 因 1999 年發行的《Kernkraft 400》而聲名大噪。
+99年リリースの「Kernkraft 400」で一躍有名になったZombie Nation。
 
-最初是由德國 DJ 和製作人 Splank 組成的 techno 二人組！ (Florian Senfter) 和 DJ Mooner (Emanuel Günther)，現在是 Splank！ （弗洛里安·森夫特）獨自活躍。
+元々はドイツ人DJ 兼プロデューサーの Splank! (Florian Senfter）とDJ Mooner（Emanuel Günther）のテクノデュオだったが、現在は Splank! (Florian Senfter）一人で活動。
 
-《Souls At Zero》是一首科技電子歌曲，由 Florian Senfter 和 Wolfram "Wolfen" Gottardt 創立的 Dekathlon Records 唱片公司於 2003 年發行。
+「Souls At Zero」は、2003年にFlorian SenfterとWolfram "Wolfen" Gottardt によって設立されたレーベルDekathlon Recordsよりリリースされたテクノ・エレクトロトラック。
 
-B 面是 Sven Väth 的混音版。
+B面はSven Väth（スヴェン・ヴァス）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Souls At Zero (Original Album Version)
 
 B. Souls At Zero (Sven Väth Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

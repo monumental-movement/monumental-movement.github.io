@@ -9,20 +9,20 @@ permalink: /zh-hant/cj-stone-city-lights-jean-elan-mix/
 tags:
 - House
 - Remix
-title: CJ Stone – 城市之光 (Jean Elan Mix)
+title: CJ Stone – City Lights (Jean Elan Mix)
 ---
 
 
-CJ Stone（Andreas Litterscheid）是一位活躍在舞曲音樂界的德國 DJ 和音樂製作人，也是 Bass Bumpers 的成員。
+CJ Stone（Andreas Litterscheid）はダンスミュージックシーンで活躍するドイツのDJ 兼音楽プロデューサーであり、Bass Bumpers（バス・バンパーズ）のメンバー。
 
-B 面是來自柏林的德國 DJ 和 house 音樂製作人 Jean Elan（Sven Koslik）的混音，他也是 Bass Bumpers 的成員。
+B面は、同じくBass Bumpersのメンバーである、ベルリン出身のドイツ人DJ兼ハウスミュージックプロデューサーJean Elan(Sven Koslik)によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. City Lights (Jean Elan Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31291560077?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31291560077?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUHuNSXxYNk?si=h3bHHP4qdNqbeYWx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,17 +10,17 @@ tags:
 - Electronic
 - Electro
 - Synth-pop
-title: Kraftwerk – 混合
+title: Kraftwerk – The Mix
 ---
 
 
-Kraftwerk 由 Ralf Hütter 和 Florian Schneider 於 1970 年創立。
-德國電子科技樂隊。他是krautrock的代表人物，也被稱為techno-hop的先驅。
+Kraftwerk(クラフトワーク)は、1970年にラルフ・ヒュッターとフロリアン・シュナイダーによって
+結成されたドイツのエレクトロ・テクノバンド。クラウトロックの代表格であり、テクノホップの先駆者としても知られている。
 
-這張專輯由EMI於1991年發行，是Kraftwerk的第10張錄音室專輯。這是對 Kraftwerk 專輯《Autobahn》（1974 年）和《Electric Café》（1986 年）中精選歌曲的完全重新編排和重新錄製的版本，其中《The Robots》和《Radioactivity》等歌曲採用了新的旋律和歌詞。
+1991年にEMIからリリースされたこのアルバムは、Kraftwerk(クラフトワーク )10枚目のスタジオアルバム。KraftwerkのアルバムAutobahn（1974年）〜Electric Café（1986年）に収録されていた曲からセレクトし、完全に再アレンジ&再録音したバージョンとなっており、「The Robots」「Radioactivity」等の曲は新しい追加のメロディーや歌詞を入れている。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. The Robots
 2. Computerlove
@@ -35,7 +35,7 @@ Kraftwerk 由 Ralf Hütter 和 Florian Schneider 於 1970 年創立。
 11. Music Non Stop
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbPc_Iu8JLA?si=OfpNSIXukiVUrSWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

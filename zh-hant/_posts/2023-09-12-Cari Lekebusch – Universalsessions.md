@@ -14,11 +14,11 @@ title: Cari Lekebusch – Universalsessions - Instrumentalicks
 ---
 
 
-Cari Lekebusch 於 1999 年發行。 B面的電子音樂尤其出色。
+Cari Lekebuschによる1999年のリリースです。Side Bは特に素晴らしいエレクトロです。
 
-這是一首帶有黑暗旋律的歌曲，給人一種寧靜的感覺。
+ダークなメロディが静けさを感じさせるトラックです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Conrad 4 (Instrumental)
 
@@ -26,7 +26,7 @@ A. Conrad 4 (Instrumental)
 B. Video Hi 8 (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_FL1xA0fprs?si=cODlm3AUCIhxinaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,15 +13,15 @@ tags:
 - Downtempo
 - IDM
 - 90s
-title: 麥克·英克（Mike Ink）——Paroles
+title: Mike Ink – Paroles
 ---
 
 
-Wolfgang Voigt，也稱為 Mike Ink，是來自德國科隆的電子音樂 DJ 和製作人。除了 Mike Ink 之外，他還有其他各種名字，包括 Gas、M:I:5: 和 Wassermann。自 1990 年代以來，他已與許多著名唱片公司簽約，包括 Warp、Harvest、Raster-Noton、Force Inc 和 Astral Industries，被認為是最具影響力的極簡科技藝術家之一。 1998 年，他與 Michael Mayer 和 Jürgen Paape 共同創立了 Kompakt 品牌。
+Mike InkことWolfgang Voigt (ウォルフガング・フォークト)は、ドイツ・ケルン出身のエレクトロニックミュージックDJ&プロデューサー。Mike Ink 以外にも、Gas、M:I:5:、Wassermannなどのさまざまな別名で知られている。1990年代からWarp、Harvest、Raster-Noton、Force Inc、Astral Industriesなど、数多くの有名レコードレーベルと契約し、最も影響力のあるミニマルテクノアーティストの1人と見なされている。1998年にはMichael Mayer &Jürgen Paapeと共にレーベルKompaktを設立した。
 
-《Paroles》是 Warp Records 於 1996 年發行的兩張唱片。 C 是 Auteka 的混音版。
+「Paroles」は、1996年にWarp Recordsからリリースされた2枚組。Cは、オウテカによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Paroles (Original)
 
@@ -32,7 +32,7 @@ C. Paroles (Autechre Repoles)
 D. Paroles (T-Power Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m88490100026?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88490100026?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJhRo5K4iKg?si=MDAzKT8aHl6yGIZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

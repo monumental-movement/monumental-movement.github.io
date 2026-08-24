@@ -9,15 +9,15 @@ permalink: /zh-hant/deodato-prelude/
 tags:
 - Jazz
 - Funk
-title: 德奧達托 – 前奏曲
+title: Deodato – Prelude
 ---
 
 
-專輯《查拉圖斯特拉如是說》的 1978 年再版，於 1973 年在 CTI 廠牌上以 Deodato 名義發行。
+デオダート名義として、1973年CTIレーベルからリリースしたアルバム『ツァラトゥストラはかく語りき』の1978年Reissue。
 
-這張專輯將古典樂曲改編成電子爵士樂，《查拉圖斯特拉如是說》被稱為最著名的早期跨界/融合歌曲之一。
+このアルバムは、クラシック作品をエレクトリック・ジャズにアレンジし、「ツァラトゥストラはかく語りき」は最も有名な初期クロスオーバー/フュージョンの一曲として知られている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Also Sprach Zarathustra
 
@@ -32,7 +32,7 @@ B2. Prelude To Afternoon Of A Faun
 B3. September 13
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHUd8Droisw?si=N73wznNnMsod_yPd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,17 +10,17 @@ tags:
 - Latin
 - House
 - 00s
-title: 鮑里斯·戈杜諾夫 – El Baile
+title: Boris Godunov – El Baile
 ---
 
 
-鮑里斯·戈杜諾夫 (Boris Godunov) 是由科尼利厄斯·德哈斯 (Cornelius De Haas) 和薩沙·莫克 (Sascha Mock) 組成的部隊。他也以 Corn & Mocca 和 Cornelius De Haas & Mokka 為名開展工作。
+Boris Godunov(ボリス・ゴドゥノフ)は、Cornelius De HaasとSascha Mockによりユニット。Corn & MoccaやCornelius De Haas & Mokka名義でも活動している。
 
-日本舞曲流行唱片公司 Escalator Records（現已解散）於 2002 年發行的拉丁/浩室曲目。
+日本のダンスポップレーベルEscalator Records(現在は廃止)から2002年にリリースされたLatin／House トラック。
 
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. El Baile (Corn&Mocca Club Mix With Von Spank)
 
@@ -28,4 +28,4 @@ B1. El Baile (Instrumental Club Mix)
 B2. El Baile (Original Version)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m62579503537?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62579503537?afid=6142608987){: .button1}

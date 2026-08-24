@@ -10,15 +10,15 @@ tags:
 - Alternative Rock
 - Rock
 - 90s
-title: 貝克——突變
+title: Beck – Mutations
 ---
 
 
-《Mutations》是貝克的第六張錄音室專輯，由 DGC Records 於 1998 年發行。它是由被譽為Radiohead製作人的Nigel Godrich製作，並榮獲葛萊美最佳另類音樂專輯獎。
+「Mutations」は、1998年にDGCレコードからリリースされたBeckの6枚目のスタジオアルバム。Radioheadのプロデューサーとして知られるNigel Godrich(ナイジェル・ゴッドリッチ)がプロデュースし、グラミー賞の最優秀オルタナティブ・ミュージック・アルバムを受賞した。
 
-第 12 首曲目是僅在日文版本中提供的附贈曲目。第14首曲目是國際獎勵曲目。
+12曲目は日本盤のみのボーナストラック。14曲目はインターナショナルボーナストラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Cold Brains
 2. Nobody's Fault But My Own
@@ -36,7 +36,7 @@ title: 貝克——突變
 14. Runners Dial Zero
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tWVUpRBA0s0?si=JOhmMff1NMR_lAIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

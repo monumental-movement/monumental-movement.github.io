@@ -9,13 +9,13 @@ permalink: /zh-hant/orange-9mm-orange-9mm/
 tags:
 - Hardcore
 - Post Hardcore
-title: 橙色 9mm – 橙色 9mm
+title: Orange 9mm – Orange 9mm
 ---
 
 
-Orange 9mm 是一支美國後硬核樂隊，由 Chaka Malik 和 Chris Traynor 在紐約硬核樂隊 BURN 解散後於 1994 年組建。
+Orange 9mmは、NYハードコアバンドBURNの解散後、1994年にChaka Malik（ チャカ・マリック）とChris Traynor （クリス・トレイナー）によって結成されたUSポストハードコアバンド。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Driver
 
@@ -26,7 +26,7 @@ B3. Dry
 B4. Can't Decide
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m11216499808?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11216499808?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JFAyoeCAZCc?si=A8mUpVIMcAp9Tw7W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

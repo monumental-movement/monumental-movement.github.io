@@ -9,17 +9,17 @@ permalink: /zh-hant/stevie-wonder-hotter-than-july/
 tags:
 - Funk
 - Soul
-title: 史蒂維旺德 – 比七月更熱
+title: Stevie Wonder – Hotter Than July
 ---
 
 
-《Hotter Than July》收錄了許多熱門歌曲，其中最著名的是《Master Blaster (Jammin')》和《Happybirthday》。特別是《生日快樂》作為慶祝馬丁路德金生日的歌曲而創作，成為美國民權運動的象徵。
+「Hotter Than July」には多くのヒット曲が含まれており、「Master Blaster (Jammin')」や「Happy Birthday」などが特に知られています。特に「Happy Birthday」は、マーティン・ルーサー・キング・ジュニアの誕生日を祝う曲として作られ、アメリカの公民権運動を象徴する曲となりました。
 
-其他著名歌曲包括“I Ain't Gonna Stand for It”和“Latly”。這些歌曲展示了史蒂夫旺德豐富的音樂性和情感表現。
+他の注目曲には、「I Ain't Gonna Stand for It」や「Lately」などがあります。これらの曲は、スティービー・ワンダーの豊かな音楽性と感情的な表現力を示しています。
 
-《Hotter Than July》是史蒂夫·旺德職業生涯中的一部開創性作品，體現了他的音樂才華和社會信息。這張專輯在商業上也取得了成功，並受到了廣大聽眾的一致好評。史蒂夫旺德的音樂繼續吸引著各個年齡層的人們。
+「Hotter Than July」は、スティービー・ワンダーのキャリアの中でも重要な作品であり、彼の音楽的な才能と社会的なメッセージ性を体現しています。アルバムは商業的にも成功し、広範な聴衆から高い評価を受けました。スティービー・ワンダーの音楽は、時代を超えて人々を魅了し続けています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Did I Hear You Say You Love Me
 
@@ -42,7 +42,7 @@ B4. Lately
 B5. Happy Birthday
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m70765074189?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70765074189?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ep54oygyLl4?si=Hvvb6LYFm_XPpapK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

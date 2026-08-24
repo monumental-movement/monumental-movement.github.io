@@ -9,17 +9,17 @@ permalink: /zh-hant/floppy-sounds-feat-sarah-jones-entertainment/
 tags:
 - House
 - Deep House
-title: 軟碟聲音壯舉。莎拉瓊斯 - 娛樂
+title: Floppy Sounds Feat. Sarah Jones – Entertainment
 ---
 
 
-Rob Rives，也被稱為 Floppy Sounds，是紐約布魯克林美國現代舞界的製作人和工程師。
+Floppy Soundsこと、Rob Rives(ロブ・リブス)はNYブルックリンを拠点とするUSモダンダンスシーンのプロデューサー兼エンジニア。
 
-1997 年，Francois Kevorkian 的廠牌 Wave Music 發行了由主唱 Sarah Jones 演唱的《Entertainment》。
+ヴォーカルにSarah Jones(サラ・ジョーンズ)を迎えた「Entertainment」は、Francois Kevorkian(フランソワ・ケヴォーキアン)のレーベルWave Musicより97年にリリース。
 
-A2 的聯合製片人是沃恩梅里克 (Vaughan Merrick)。
+A2の共同プロデューサーはVaughan Merrick。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Entertainment (Club Mix)
 
@@ -28,7 +28,7 @@ A2. Entertainment (Hard Mix)
 B1. Entertainment (Dub)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m43333910037?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43333910037?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/emtua_9mPo8?si=dCNqGZ6pnPrFKUaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

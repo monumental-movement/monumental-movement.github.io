@@ -10,27 +10,27 @@ tags:
 - Experimental
 - Rock
 - 00s
-title: 灰野敬二 - Nanimokamo 灰野敬二 – 一切
+title: Keiji Haino - Nanimokamo 灰野敬二 – 何もかも
 ---
 
 
-灰野敬二 – 一切
-打擊樂獨奏
-灰野敬二
+灰野敬二 – 何もかも　
+パーカッション・ソロ
+Keiji Haino
 
-VHS（錄影帶）
+VHS (ビデオテープ)
 
-PSF Records於2002年發行了VHS，該公司發行了許多日本地下音樂，如High Rise、Acid Mother's Temple、Mainliner、White Heaven、Ghost、Koshu Yo、Masayuki Takayanagi、Kaoru Abe、Hiroshi Mikami、Toshiaki Ishizuka、Keiji Haino和Fushisha。
+ハイ・ライズ、アシッド・マザーズ・テンプル、メインライナー、ホワイト・ヘヴン、ゴースト、光束夜、高柳昌行、阿部薫、三上寛、石塚俊明、灰野敬二、不失者など数多くの日本のアンダーグラウンドミュージックをリリースしていたPSFレコードから2002年に発売されたVHS。
 
-導演是曾負責三上浩的《從繩文到太空：繩文搖滾》（VHS）的錄像藝術家野木宗一郎。
+監督は、三上寛『縄文から宇宙へ　縄文の唄 (Johmon Rock)』(VHS)など担当したVideoArtistの信木総一郎。
 
-藝術指導由 Yasuyoshi Arai 擔任，他曾為 Keiji Haino、Fushisha、John Zorn、Motoharu Yoshizawa 等設計夾克。
+Art Directionは、灰野敬二、不失者、John Zorn、吉沢元治などのジャケを手がける新井康祝。
 
-製片人是 P.S.F. 的所有者、育越英夫。記錄。
+プロデューサーは、P.S.F. Recordsのオーナー生悦住英夫。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. 何もかも
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m64426142389?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64426142389?afid=6142608987){: .button1}

@@ -14,13 +14,13 @@ title: 8 Days Of Nothing - Die Kosmo Gesellschaft
 ---
 
 
-8 Days Of Nothing 是一支成立於 1997 年的傳奇瑞典龐克樂團。
+8 Days Of Nothing(8デイズオブナッシング) は、1997年に結成されたスウェーデンの伝説的なパンクバンド。
 
 Die Kosmo Gesselschaft は、1997年にドイツのベルリンで結成されたポスト・ハードコア/エモ・バンド。
 
-稀有唱片限量600張。
+600枚限定のレアレコード。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Your Move
 

@@ -9,13 +9,13 @@ permalink: /zh-hant/dandy-casanova/
 tags:
 - Euro Beat
 - Hi NRG
-title: 丹迪——卡薩諾瓦
+title: Dandy – Casanova
 ---
 
 
-Dandy 的《Casanova》於 1989 年由義大利唱片公司 Flea Records 發行。
+Dandy（ダンディ）の「Casanova（カサノバ）」は、イタリアのレーベルFlea Recordsから1989年にリリースされました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Casanova (Extended Version)
 

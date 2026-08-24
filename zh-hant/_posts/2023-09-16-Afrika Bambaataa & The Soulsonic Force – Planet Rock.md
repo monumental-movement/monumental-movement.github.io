@@ -10,19 +10,19 @@ tags:
 - Hiphop
 - Funk
 - 80s
-title: Afrika Bambaataa 和 Soulsonic Force – Planet Rock
+title: Afrika Bambaataa & The Soulsonic Force – Planet Rock
 ---
 
 
-美國嘻哈藝術家 Afrika Bambaataa 和他的樂團 The Soulsonic Force 於 1982 年發行的歌曲。
+アメリカのヒップホップアーティスト、Afrika Bambaataaと彼のバンドThe Soulsonic Forceによる楽曲で、1982年にリリースされました。
 
-它被稱為一首融合了電子音樂、放克和嘻哈元素的先鋒歌曲。這首歌具有獨特的合成器連複段和聲音樣本，其創新的聲音對嘻哈和舞曲音樂的演變產生了重大影響。
+エレクトロニックミュージック、ファンク、ヒップホップの要素を融合させた先駆的な楽曲として知られています。この曲は、独特のシンセサイザーのリフとボーカルサンプルを特徴としており、その革新的なサウンドはヒップホップやダンスミュージックの進化に大きな影響を与えました。
 
-隨著霹靂舞和街頭文化的興起，它獲得了巨大的流行，並被公認為嘻哈經典。這首歌也被許多藝術家和製作人採樣和重新詮釋，影響了各種流派的歌曲。
+ブレイクダンスやストリートカルチャーの隆盛とともに大きな人気を博しヒップホップのクラシックとして認識されています。また、この曲はサンプリングの対象となり、数々のアーティストやプロデューサーによって再解釈され、さまざまなジャンルの楽曲に影響を与えました。
 
-《Planet Rock》被廣泛讚譽為 Afrika Bambaataa 和 The Soulsonic Force 的標誌性作品，其創新的聲音和開創性的方法在嘻哈和舞曲音樂史上佔有重要地位。
+「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Planet Rock (Vocal)
 
@@ -31,7 +31,7 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

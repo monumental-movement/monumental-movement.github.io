@@ -9,21 +9,21 @@ permalink: /zh-hant/tomas-andersson-washing-up/
 tags:
 - Electro
 - 00s
-title: 湯瑪斯·安德森——洗碗
+title: Tomas Andersson – Washing Up
 ---
 
 
-Tomas Andersson 是一位來自瑞典的電子/科技/合成波製作人。他還與 Jacques C 一起作為電子/電子音樂二人組 Vaerelsen 活躍，並且還混音了 DJ Hell、Ellen Allien、Dexter、DJ Assault、Hakan Lidbo、F Communications 藝術家 Landsky 等。
+Tomas Anderssonは、スウェーデン出身のエレクトロ/ テクノ/ Synthwaveプロデューサー。Jacques C とのElectronica / Techno デュオ Vaerelsenとしても活動し、DJ Hell、Ellen Allien、Dexter、DJ Assault、Hakan Lidbo、F CommunicationsアーティストLandskyなどのリミックスも担当している。
 
-《Washing Up》是一首由英國大型節奏、音樂和浩室音樂廠牌 Skint 於 2008 年發行的電子歌曲。
+「Washing Up」は2008年にイギリスのビッグビート、ブレイク、ハウスミュージックレーベルSkintからリリースされたElectro。
 
-A1 是來自北愛爾蘭貝爾法斯特的 DJ/製作人 Tim Deluxe 的混音版。
+A1は、北アイルランドのベルファスト出身のDJ／プロデューサーTim Deluxeによるremix。
 
-B1 是由蒙特婁的加拿大製作人/DJ Tiga 製作的混音版。
+B1は、モントリオールを拠点とするカナダのプロデューサー/DJ Tigaによるremix。
 
-B2 是 David Parr 和 James Day 的混音版。
+B2は、David ParrとJames Dayによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Washing Up (Tim Deluxe Remix)
 A2. Washing Up (Original Remix)
@@ -32,7 +32,7 @@ B1. Washing Up (Tiga Remix)
 B2. Washing Up (David Parr & James Day Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m96640147090?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96640147090?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nFoUFwrCoPk?si=DCgKm_XhAHWCbrhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

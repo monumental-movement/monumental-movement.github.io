@@ -9,20 +9,20 @@ permalink: /zh-hant/pickup-downtempo/
 tags:
 - Downtempo
 - 90s
-title: 挑選慢節奏作品
+title: ダウンテンポ作品をピックアップ
 ---
 
 
-一系列非凡的慢速作品，用深沉的節奏和輕柔的節拍包裹著你的心。 」
+深いグルーヴと緩やかなビートが心を包み込む、注目すべきダウンテンポ作品群」
 
-<小時>
+<hr>
 
-### 適中的滑鼠 / 764‑HERO – 任何您認為合適的時候
-<a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20W7%770.Wweb
+### Modest Mouse / 764‑HERO – Whenever You See Fit
+<a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
 
-一首充滿安靜節奏的呆萌獨立 EP
+静かなリズムが染みるドゥープなインディEP
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Whenever You See Fit (Original Version)
 
@@ -32,20 +32,20 @@ B2. Whenever You See Fit (Sientific American Mix)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FhVkJkOjiU?si=-XOGs3zBc2_iqlCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
-### B.E.F.壯舉。 Green Gartside – 我不知道為什麼我愛你
+### B.E.F. Feat. Green Gartside – I Don’t Know Why I Love You
 <a href="https://jp.mercari.com/item/m50800315242?afid=6142608987"><img src="../assets/images/B.E.F.%20Featuring%20Green%20Gartside%20%E2%80%93%20I%20Don't%20Know%20Why%20I%20Love%20You.webp"></a>
 
-Foundation 精緻的英國聲音
+Foundation の洗練された英国サウンド
 
-#### 曲目表
+#### Tracklist
 ```md
 A. I Don't Know Why I Love You (But I Love You)
 
@@ -54,20 +54,20 @@ B2. Family Affair (Plati Party Mix)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m50800315242?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50800315242?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Alovg32ZbQ?si=oP2TuMPFpnStQw-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
 
-### 搖擺姐妹 - 形狀和圖案
-<a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shaterns.And
+### Swing Out Sister – Shapes And Patterns
+<a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.webp"></a>
 
-輕柔電子爵士樂與靈魂樂，風靡日本
+日本でも人気、柔らかな電子ジャズ＆ソウル 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Somewhere In The World
 2. Here And Now
@@ -85,20 +85,20 @@ B2. Family Affair (Plati Party Mix)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
 
-### 白光馬戲團 – 行軍令
-<a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marchweb%20Orders.
+### White Light Circus – Marching Orders
+<a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marching%20Orders.webp"></a>
 
-帶有英國電子風格的迪斯科冷酷曲目。
+UKエレクトロ感漂うディスコ調チルトラック
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Marching Orders (Special Mix)
 
@@ -106,20 +106,20 @@ B. The Shot! (Dub Copy)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7P0PxTEuSLY?si=md9VAShG3YBHgjyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
-<小時>
+<hr>
+<hr>
 
 
-### 湯米布朗 – 感情 (EP)
+### Tommy Brown – Feelings (EP)
 <a href="https://jp.mercari.com/item/m69743649538?afid=6142608987"><img src="../assets/images/Tommy%20Brown%20%E2%80%93%20Feelings.webp"></a>
 
-義大利風味的午後清涼節拍
+イタロ風味の昼下がり系チルビート 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Feelings (Mix Edit)
 
@@ -128,7 +128,7 @@ B2. Carillon
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -10,15 +10,15 @@ tags:
 - House
 - NY House
 - 90s
-title: Morel – Morel's Grooves Part 9 - 混音
+title: Morel – Morel's Grooves Part 9 - The Remixes
 ---
 
 
-George Morel，也被稱為 Morel，是一位紐約 DJ 和唱片製作人，據說是 20 世紀 90 年代初紐約車庫界的核心人物之一。
+Morel こと George Morel（ジョージ モレル）は、90年代初期のニューヨークのガレージ・ハウスシーンの中心人物の一人と言われるNYのDJ・レコードプロデューサー。
 
-「Morel's Grooves Part 9 - The Remixes」是 George Morel 的 12 吋發行系列中的第九張，是 1996 年在 house 廠牌 Strictly Rhythm 上發行的一首 house 曲目。
+「Morel's Grooves Part 9 - The Remixes」は、George Morelの12インチリリースシリーズの第９弾で、1996年にハウスレーベルStrictly Rhythmからリリースされたハウストラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 R.B.M Side
 A1. Todos Los Latinos (En La Casa) (The Barrio Breakdown Mix)
@@ -29,7 +29,7 @@ B1. Todos Los Latinos (En La Casa) (Morel's Jump Mix)
 B2. Todos Los Latinos (En La Casa) (Happy Drums)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m13213347541?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13213347541?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UhyCoFtN1YQ?si=ftarQB-GKUePsdEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,15 +9,15 @@ permalink: /zh-hant/va-trance-lovers-2/
 tags:
 - Trance
 - 00s
-title: VA – 恍惚情人 2
+title: VA – Trance Lovers 2
 ---
 
 
-恍惚彙編
+トランスコンピレーション
 
-由 DJ Tomo 混音
+Mixed By DJ Tomo
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Safri Duo – Baya-Baya (Future Breeze Radio Edit)
 2. Musiqu vs U2 – New Years Dub (Mauro Picotto Club Mix)
@@ -36,4 +36,4 @@ title: VA – 恍惚情人 2
 15. Andre Neumann – First Picture (Brittlestar's Exposure Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}

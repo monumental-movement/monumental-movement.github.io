@@ -9,16 +9,16 @@ permalink: /zh-hant/panjabi-mc-mundian-to-bach-ke/
 tags:
 - Bhangra
 - Hiphop
-title: 旁遮普語 MC – Mundian To Bach Ke
+title: Panjabi MC – Mundian To Bach Ke
 ---
 
 
-《Mundian To Bach Ke》是一首孟加拉音樂歌曲，由英國音樂家 Panjabi MC 製作，由旁遮普藝術家 Labh Janjua 演唱和作詞。這首歌是由英國伯明罕 Panjabi MC 為其 1998 年專輯 Legalized 創作的。
+「Mundian To Bach Ke」は、イギリスのミュージシャンPanjabi MCが制作し、パンジャブ地方のアーティストLabh Janjuaがボーカルと歌詞を提供したバングラ音楽の曲です。この曲は、Panjabi MCが1998年のアルバム「Legalised」のためにイギリスのバーミンガムで制作しました。
 
-2002年11月作為單曲發行後，《Mundian To Bach Ke》在義大利和瓦隆地區的單曲排行榜上名列前茅，並且在其他許多國家也取得了很高的排名。 2003年發行的與美國饒舌歌手Jay-Z合作的混音版本也在北美和澳洲取得了很高的排名。這首歌成為有史以來最暢銷的單曲之一，全球銷量超過 1000 萬張。
+2002年11月にシングルとしてリリースされた後、「Mundian To Bach Ke」はイタリアとウォロニアでシングルチャートのトップを獲得し、他の多くの国でも高い順位を獲得しました。2003年にリリースされた、アメリカのラッパーJay-Zをフィーチャーしたリミックスバージョンも北アメリカとオーストラリアで高い順位を記録しました。この曲は、世界中で約1000万枚以上売れるなど、史上最も売れたシングルの1つとなりました。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Mundian To Bach Ke (Main Mix)
 
@@ -27,7 +27,7 @@ B1. Mundian To Bach Ke (Switch Mix)
 B2. Mundian Breaks
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m23290513187?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23290513187?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x9WO2ieJMYk?si=skqHFx-8KKU74zZT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,13 +9,13 @@ permalink: /zh-hant/cassia-eller-participacao-especial/
 tags:
 - Pops
 - Rock
-title: Cássia Eller – 特別參與
+title: Cássia Eller – Participaçāo Especial
 ---
 
 
-Kasia Herrere 與 MPB 和巴西流行音樂界著名藝術家的二重唱合輯。該書於 2002 年她去世後發行。
+カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Cássia Eller Com Luiz Melodia–Juventude Transviada (Ao Vivo)
 2. Cássia Eller Com Djavan–Milagreiro
@@ -27,7 +27,7 @@ Kasia Herrere 與 MPB 和巴西流行音樂界著名藝術家的二重唱合輯�
 など
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y71D3g9OzZQ?si=Q1Jj03IIrf9JZ9aO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

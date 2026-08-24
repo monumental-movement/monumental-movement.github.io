@@ -9,13 +9,13 @@ permalink: /zh-hant/alek-stark-we-love-you/
 tags:
 - Electro
 - Synth-Pop
-title: 亞歷克史塔克——我們愛你
+title: Alek Stark – We Love You
 ---
 
 
-「Alek Stark – We Love You」是西班牙電子音樂製作人/藝術家 Alek Stark (Serafín Gallego) 創作的電子/合成流行歌曲，於 2002 年在慕尼黑電子音樂廠牌 Disko Bombs (Disko B) 發行。
+「Alek Stark – We Love You」は、ミュンヘンを拠点とする電子音楽レーベルDisko Bombs(Disko B)から2002年にリリースされたスペイン出身のエレクトロプロデューサー/アーティストAlek Stark(Serafín Gallego)によるエレクトロ/シンセポップトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. We Love You (Extended)
 
@@ -26,7 +26,7 @@ B1. Lights & Sex
 B2. Lights & Sex (Robert Calvin Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m44739620198?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44739620198?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fZA8e5RWvM?si=6mLqGFcCgUrQfgyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

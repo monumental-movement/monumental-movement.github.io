@@ -11,17 +11,17 @@ tags:
 - House
 - Garage House
 - UK House
-title: 皮爾斯爵士的壯舉。 Monique Bingham – 難道你不愛我混音第 2 部分
+title: Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2
 ---
 
 
-2003 年，皮爾斯爵士 (Piers Penfold) 在他自己的廠牌 Curious 上發行了 Monique Bingham 的“Don’t You Love Me”的房屋/車庫混音版。
+Sir Piers（Piers Penfold）が自身が運営するレーベルCuriousから2003年にリリースしたMonique Binghamの「Don't You Love Me」ハウス・ガレージハウスリミックス。
 
-A-side 是 Louis Benedetti 的混音作品，他經營 SoulShine Recordings 和 Thompson Studios。
+A面は、 SoulShine Recordingsや Thompson Studiosを運営するLouis Benedettiによるremix。
 
-B 面是 DJ Jorj (Jorj Patsalides) 的混音版，他是澳洲墨爾本的 DJ/製作人。
+B面は、オーストラリアのメルボルンを拠点に活動するDJ / プロデューサーDJ Jorj（Jorj Patsalides）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Don't You Love Me (Louis Benedetti's Main Mix)
 
@@ -30,7 +30,7 @@ B1. Don't You Love Me (DJ Jorj Samba Dub)
 B2. Don't You Love Me (DJ Jorj Raw Samba Dub)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m56984083624?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56984083624?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N801xpEjcVs?si=DMlmd2ZhAYem0JAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

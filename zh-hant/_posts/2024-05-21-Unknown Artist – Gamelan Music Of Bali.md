@@ -10,17 +10,17 @@ tags:
 - Tribal
 - Folk
 - Field Recording
-title: 未知藝術家 – 峇裡島加麥蘭音樂
+title: Unknown Artist – Gamelan Music Of Bali
 ---
 
 
-Lyrichord 唱片公司發行的峇裡島加美蘭音樂專輯。
+レーベルLyrichordからリリースされたバリ島のガムラン音楽アルバム。
 
-美國 Lyrichord 唱片公司由 Peter Fritsch 於 1950 年創立，是美國歷史最悠久的人類音樂傳統收藏和發行公司，包括儀式、部落和民族傳統的現場錄音。這張專輯由魯比·奧恩斯坦錄製。
+1950年にPeter Fritschにより設立されたUSレコード会社Lyrichordは、アメリカで最も古くから、儀式的、部族的、民族的伝統のフィールドレコーディングなど人類の音楽の伝統を集めリリースしている。このアルバムの録音者はRuby Ornstein。
 
-據說加麥蘭的起源大約在公元 404 年，因為它被刻在婆羅浮屠和普蘭巴南遺址的浮雕上。還。甘美蘭於2021年12月15日被聯合國教科文組織註冊為世界非物質文化遺產。
+ガムランの起源は、ボロブドゥール遺跡やプランバナン遺跡のレリーフに刻まれていることから西暦404年頃ではないかと言われている。また。ガムランは、2021年12月15日にユネスコ世界無形文化遺産として登録された。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Topeng Tua
 A2. Kebjar Teruna
@@ -32,7 +32,7 @@ B3. Gambang Suling
 B4. Kebjar Hudjan Mas
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m34426966313?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34426966313?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KypKEp5LwU?si=MVkLVEYwPNBN_iR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,15 +11,15 @@ tags:
 - Electro
 - Dubstep
 - Electro House
-title: Skrillex – 可怕的怪物和漂亮的精靈
+title: Skrillex – Scary Monsters And Nice Sprites
 ---
 
 
-日文版本於 2012 年發行。曲目 1 至 6 是 Skrillex 原創歌曲。第七首歌曲是荷蘭鼓貝斯三重奏 Noisia 的混音版。第 8 首是 DJ 兼製作人 Zedd 的混音作品，Zedd 以《Clarity》和 Ariana Grande 的熱門歌曲《Break Free》而聞名。
+2012年にリリースされた日本盤。1〜6曲目まではSkrillexオリジナル曲。7曲目はオランダのドラムンベーストリオNoisia(ノイジア)のremix。8曲目は「Clarity」や、アリアナ・グランデのヒット曲「Break Free」で有名なDJ&プロデューサーZedd(ゼッド)によるremix。
 
-第九首曲目是 Daniel Brown 和 Oliver Pile 的製作組合 Bare Noize 的混音版。
+9曲目はDaniel Brown とOliver PileによるプロダクションデュオBare Noizeによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -33,7 +33,7 @@ title: Skrillex – 可怕的怪物和漂亮的精靈
 
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Rock
 - Vocal
 - 80s
-title: 尼龍－無縫
+title: The Nylons – Seamless
 ---
 
 
-The Nylons 是一支加拿大無伴奏合唱團，活躍於 1978 年至 2017 年。他最出名的作品包括 The Turtles 的《Happy Together》、Steam 的《Na Na Hey Hey Kiss Him Goodbye》和 The Tokens 的《The Lion Sleeps Tonight》。
+The Nylonsは、1978年〜2017年まで活動したカナダのアカペラグループ。The Turtles「Happy Together」、Steam「Na Na Hey Hey Kiss Him Goodbye」、The Tokens「The Lion Sleeps Tonight」などのPopsのカヴァーでよく知られている。
 
-《Seamless》是Open Air Records於1986年發行的一張專輯。
+「Seamless」は、1986年にOpen Air Records からリリースされたアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. The Lion Sleeps Tonight
 A2. Take Me To Your Heart
@@ -33,7 +33,7 @@ B4. Remember (Walking In The Sand)
 B5. The Stars Are Ours
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oqUnVUzvQYA?si=L54otN6nNfXVjaQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

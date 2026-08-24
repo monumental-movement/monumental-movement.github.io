@@ -12,15 +12,15 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: Kelly-G 完美節奏 – 未來之旅
+title: Kelly-G Perfect Rhythm – Trip Into The Future
 ---
 
 
-製片人是 Aron Friedman，又名 Kelly-G，來自英國，現居美國。
+プロデューサーはUK出身でUSを拠点に活動するKelly-GことAron Friedman。
 
-Perception Records 是由 Unie Weimer 和 Aron Friedman 經營的早期英國硬核和科技唱片公司，於 1991 年發行了一首碎拍硬核科技歌曲。
+Unie WeimerとAron Friedmanが運営する初期のUKハードコア＆テクノレーベルPerception Recordsから1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Trip Into The Future
 
@@ -28,7 +28,7 @@ AA1. PM
 AA2. Soul Fusion
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m37219507926?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37219507926?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUIaPVwSTd8?si=h6aVdW3VgKYHqb9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

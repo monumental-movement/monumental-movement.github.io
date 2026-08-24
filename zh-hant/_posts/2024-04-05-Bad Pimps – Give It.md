@@ -10,15 +10,15 @@ tags:
 - Techno
 - Tech House
 - German Techno
-title: 壞皮條客 – 給它
+title: Bad Pimps – Give It
 ---
 
 
-Bad Pimps 是 Kanzleramt 廠牌創始人之一 Patrick Lindsey 和比利時 techno 界頂尖藝術家之一 Stanny Franssen（又名 G-Force）之間的一個計畫。
+Bad Pimps（バッドピンプス）は、レーベル Kanzleramtの創設者の１人Patrick Lindseyとベルギーのテクノシーンを代表するアーティストの１人Stanny Franssen（aka. G-Force）のプロジェクト。
 
-Monika Kruse 的廠牌 Terminal M 於 2002 年發行了一首 techno/tech house 曲目。
+Monika Kruse（モニカクルス）のレーベルTerminal Mから2002年にリリースされたテクノ・テックハウストラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Give.It.!
 
@@ -27,7 +27,7 @@ B1. Move It In A Dirty Way But Maybe That's To Long Monika?
 B2. Get On Up!
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

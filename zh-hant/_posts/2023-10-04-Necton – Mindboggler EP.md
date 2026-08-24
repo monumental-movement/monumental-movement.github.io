@@ -13,20 +13,20 @@ title: Necton – Mindboggler EP
 ---
 
 
-這是 Necton 於 2000 年由德國廠牌「Spirit Zone Recordings」發行的 EP。
+2000年にドイツのレーベル「Spirit Zone Recordings」からリリースされたNectonによるEPです。
 
-Necton 是一個來自丹麥哥本哈根的電子音樂計畫。該項目成立於1997年。
+Nectonはデンマーク、コペンハーゲン出身のエレクトロニックミュージックプロジェクトです。このプロジェクトは1997年に結成されました。
 
-2005 年，Martin Stääf 決定離開樂隊，專注於自己的專案 Liquid Stranger。從那時起，Necton 成為 Patrik Olsén 的個人項目，專注於前衛/迷幻科技恍惚。
+2005年に、Martin Stääfはグループを離れ、独自のプロジェクトであるLiquid Strangerに焦点を当てることを決定しました。それ以来、NectonはPatrik Olsénのソロプロジェクトとなり、プログレッシブ/サイケデリックテックトランスを専門としています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Mindboggler
 
 B. Rainbow Warrior
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m20234244715?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20234244715?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sSZocxb4wB4?si=ccsLgQ1aXz9lO3Yx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

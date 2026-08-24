@@ -10,17 +10,17 @@ tags:
 - Acid Jazz
 - Future Jazz
 - 00s
-title: 優音號 – 萊克伍德
+title: Euphone – The Lakewood
 ---
 
 
-Euphone 是一支總部位於芝加哥的後搖滾樂團。
+Euphone(ユーフォン)は、シカゴを拠点に活動するポストロックバンド。
 
-傑里米·雅各布森（Jeremy Jacobsen）是 Five Style 的前成員，也被稱為“孤獨的風琴師”，從這張專輯正式加入樂隊。
+Five Style (5スタイル)の元メンバーでありThe Lonesome Organist(ロンサムオルガニスト)名義でも活動するJeremy Jacobsenがこのアルバムから正式にメンバーとして参加している。
 
-這張專輯是音樂雜誌AFTERHOURS於2001年策劃發行的特別專輯。這是一幅雄心勃勃的作品，在傳統後搖滾風格的基礎上，融合了酸爵士、DUB、原聲、極簡主義等多種音樂品味。
+このアルバムは、2001年に音楽誌AFTERHOURSが企画・リリースしたスペシャルアルバム。従来のポストロックスタイルをベースとしながら、アシッドジャズ、DUB、音響、ミニマルなど様々な音楽テイストを取り入れた意欲作。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. The Lakewood Burning Bad Boy
 2. Tools Of Love
@@ -32,7 +32,7 @@ Euphone 是一支總部位於芝加哥的後搖滾樂團。
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
 
 
 #### Youtube

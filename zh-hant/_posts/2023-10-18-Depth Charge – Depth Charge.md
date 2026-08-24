@@ -8,13 +8,13 @@ layout: post
 permalink: /zh-hant/depth-charge-depth-charge/
 tags:
 - Break Beat
-title: 深水炸彈 – 深水炸彈
+title: Depth Charge – Depth Charge
 ---
 
 
-Depth Charge 是英國 DJ/音樂家 J.Saul Kane 的別名，他也以其他名字發行過專輯，包括 The Octagon Man、Alexander's Dark Ba​​nd、T.E.T 和 Grimm Death。 J Saul Kane 也是 DC Recordings 和 Electron Industries 的所有者。
+Depth Chargeは、イギリスのDJ/ミュージシャン J.Saul Kane（J・ソウル・ケイン）の別名義で、他にもThe Octagon Man、Alexander's Dark Band、T.E.T、Grimm Deathなど様々な名義でリリースしている。J Saul Kaneは、DC Recordings と Electron Industries のオーナーでもある。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Depth Charge (Han Do Jin Version)
 
@@ -23,7 +23,7 @@ B1. Depth Charge (Drum Death Version)
 B2. Depth Charge (Bass It)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61709862692?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61709862692?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Hlyx53KRxM?si=FT8X7jdrivMsCp2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,18 +11,18 @@ tags:
 - Experimental
 - Hiphop
 - Abstract
-title: 【專欄】實驗嘻哈/抽象嘻哈重構
+title: 【コラム】 Experimental Hip Hop / Abstract Hip Hopの再構築
 ---
 
 
 
-## 2000年代以來「節拍解構實驗」所創造的另一段嘻哈歷史
+## 2000年代以降の“ビート解体実験”が生んだもう一つのヒップホップ史
 
-文：mmr｜主題：節拍實驗的歷史、取樣文化、主要作品的變遷
+文：mmr｜テーマ：ビート実験史・サンプリング文化・主要作品の変遷について
 
-實驗嘻哈和抽象嘻哈已經發展成為「解構和重組形式」的嘻哈潮流。在90年代末期，Company Flow和Anti-Pop Consortium呈現出一種「結構性破壞」的精神，2000年代及以後，飛蓮花、Shabazz Palaces、Busdriver、Milo、Clipping等都呈現出一種「結構性破壞」的精神。和其他人開創了自己的美學。
+Experimental Hip Hop（実験的ヒップホップ）および Abstract Hip Hop（抽象的ヒップホップ）は、ヒップホップの中でも特に「形式を解体し、再組成する」潮流として発展してきた。90年代後半にはCompany FlowやAnti-Pop Consortiumが提示した“構造破壊”の精神が存在し、2000年代以降にはFlying Lotus、Shabazz Palaces、Busdriver、Milo、Clipping.などが独自の美学を開拓した。
 
-在這篇文章中，我們將根據事實總結節拍實驗的歷史、取樣技術以及洛杉磯節拍場景之後的發展。它還涉及 J Dilla 之後的“搖擺/滑動”文化及其與爵士樂/電子音樂/俱樂部音樂的聯繫，概述了直至 2020 年代的趨勢。
+本稿では、**ビート実験史**、**サンプリング技法**、**LAビートシーン以降の展開**を事実に基づいて整理する。またJ Dilla以降の「スイング／ズレ」文化、ジャズ／電子音楽／クラブミュージックとの接触面も扱い、2020年代までの流れを総覧する。
 
 ---
 
@@ -41,185 +41,185 @@ color: #fff;
 
 
 
-## 1. 實驗嘻哈/抽象嘻哈的定義
-這裡的定義是基於一般批評和音樂研究論文中使用的定義。
+## 1. Experimental Hip Hop / Abstract Hip Hop の定義
+ここでは一般的な批評・音楽研究論文で扱われる定義に基づく。
 
-### ●實驗嘻哈
-- 一種故意偏離嘻哈語法（節奏結構、取樣、說唱格式）並將其與**電子音樂、噪音、自由爵士樂和環境音樂**等周圍流派融合的趨勢。
-- 它從 2000 年代的洛杉磯節拍場景中得到了極大的擴展。
-- 重點關注 Flying Lotus、Teebs、Daedelus 和 Samiyam 等製作商。
+### ● Experimental Hip Hop  
+- ヒップホップの文法（リズム構造、サンプリング、ラップ形式）を意図的に逸脱し、**電子音楽・ノイズ・フリージャズ・アンビエント**など周辺ジャンルと融合する潮流。  
+- 2000年代 LA ビートシーンから大きく拡張。  
+- Flying Lotus、Teebs、Daedelus、Samiyam などのプロデューサーを中心に展開。
 
-### ●抽象嘻哈
-- 具有「抽像用法」的嘻哈音樂誕生於 20 世紀 90 年代末。
-- 其特點是抽象的雙關語、意識流般的歌詞以及偏離傳統“boom bap”結構的節拍。
-- 代表人物有Company Flow、Anti-Pop Consortium、Cannibal Ox、Aesop Rock等。
+### ● Abstract Hip Hop  
+- 1990年代後半に確立された、“抽象化された語法”を持つヒップホップ。  
+- アブストラクトな言葉遊び、ストリーム・オブ・コンシャスネス的なリリック、**従来の「ブームバップ」構造を外したビート**が特徴。  
+- Company Flow、Anti-Pop Consortium、Cannibal Ox、Aesop Rock などが代表。
 
 ---
 
-## 2. 1990年代：抽象嘻哈的起源
-實驗/抽象嘻哈的基礎形成於 20 世紀 90 年代末期。
+## 2. 1990年代：アブストラクト・ヒップホップの起点
+Experimental / Abstract Hip Hop の基盤は1990年代後半に形成された。
 
-### ●公司流程（1992-2001）
+### ● Company Flow（1992–2001）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m7E0Gk8gLI?si=esl_-u8TYT57iKXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- 主要由 El-P 在紐約成立。
-- 1997年的《Funcrusher Plus》是抽象嘻哈的代表作。
-- 平衡產業結構和實驗生產的重要性。
+- El-P を中心にニューヨークで結成。  
+- 1997年『Funcrusher Plus』はアブストラクト・ヒップホップの代表作。  
+- 産業構造に対する批判性と実験的プロダクションを両立。
 
-### ●反流行聯盟 (1997–)
+### ● Anti-Pop Consortium（1997–）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYeC-s8sZLc?si=HnjDLiLC91E61Clq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 - 1990年代末のNYアンダーグラウンドで重要な役割。  
-- 引入吵雜的聲音、分段說唱和電子音樂。
-- 與 Warp Records 簽約擴大了電子音樂和嘻哈音樂之間的聯繫。
+- ノイズ的なサウンド、分節化されたラップ、電子音楽の導入。  
+- Warp Records と契約したことで、電子音楽とヒップホップの接続点を拡大。
 
-### ● 食人牛 (2001)
+### ● Cannibal Ox（2001）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q33vfqNPtcg?si=aG8bh_oUWZboCK28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- El-P 的《冷血脈》製作受到高度讚揚。
-- 一部將工業/噪音紋理引入嘻哈音樂的歷史性作品。
+- 『The Cold Vein』における El-P のプロダクションが高く評価。  
+- インダストリアル／ノイズ質感をヒップホップに導入した歴史的作品。
 
-這些創造了直接導致後來的 Shabazz Palaces 和 Clipping 的音樂基礎。
+これらは後年の Shabazz Palaces や Clipping. に直結する音楽的土壌を作った。
 
 ---
 
-## 3. 2000年代：洛杉磯beat場景的興起與「實驗」的重新定義
+## 3. 2000年代：LAビートシーンの台頭と“実験”の再定義
 
-### ●低端理論（2006-2018）
-- 一項著名的活動始於洛杉磯林肯高地的「The Airliner」俱樂部。
-- 在 Daddy Kev、Gaslamp Killer 等人的帶領下，它成為了洛杉磯垮掉音樂界的始祖。
-- 飛蓮花的代表作《按摩情境》（2007）象徵著場景的拓展。
+### ● Low End Theory（2006–2018）
+- ロサンゼルス・リンカーンハイツのクラブ “The Airliner” で開始された名イベント。  
+- Daddy Kev、Gaslamp Killer らが中心となり、LAビート・シーンの母体に。  
+- Flying Lotusの代表曲『Massage Situation』（2007）などがシーン拡大を象徴。
 
-### ● 飛蓮花（2000年代末期~）
+### ● Flying Lotus（2000年代後半〜）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ScYz9sNaQk?si=zZ_87mQGAH6Fc8ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- 實驗嘻哈界最重要的人物之一。
-- 自 2006 年起屬於 Warp Records。
-- 《Los Angeles》（2008）和《Cosmogramma》（2010）橫跨爵士樂/電子音樂/嘻哈音樂。
-- 它的特點是“脈動的非線性節奏”和複雜的取樣結構。
+- 実験的ヒップホップの最重要人物の1人。  
+- 2006年からWarp Records所属。  
+- 『Los Angeles』(2008)『Cosmogramma』(2010)でジャズ／電子音楽／ヒップホップを縦断。  
+- “脈動するような非直線リズム”と複雑なサンプリング構築が特徴。
 
-### ● 餵腦者（2008～）
-- 飛蓮花創立的品牌。
-- Teebs、Samiyam、Tokimonsta、Thundercat 等將參加。
-- 他在全球傳播抽象節拍文化。
+### ● Brainfeeder (2008〜)
+- Flying Lotusが設立したレーベル。  
+- Teebs、Samiyam、Tokimonsta、Thundercatなどが参加。  
+- アブストラクト・ビート文化を世界規模に押し広げた。
 
 ---
 
-## 4. Shabazz Palaces：重新定義嘻哈抽象
+## 4. Shabazz Palaces：ヒップホップの抽象化を再定義した存在
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zNXxd3yYDaM?si=kdXTFpn5kj1KpTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Planets 成員）領導。
+Shabazz Palaces は Ishmael Butler（元Digable Planets）が中心となり2009年頃に始動。
 
-### 特徵
-- 西非打擊樂、迷幻音樂、環境聲音和實驗聲音的結合。
-- 饒舌通常具有旋律性和密碼性，並且不依賴傳統的 16 小節結構。
-- 《Black Up》（2011）是2010年代抽象嘻哈的代表作。
-
----
-
-## 5.節拍實驗：J Dilla之後的「錯位」與非線性凹槽
-
-自 2000 年代以來，實驗嘻哈的核心就是「節奏的重塑」。
+### 特徴
+- 西アフリカのパーカッション、サイケデリア、アンビエント、実験音響を組み合わせた構築。  
+- ラップはしばしばメロディックかつ暗号的で、従来の16小節構造に依らない。  
+- 『Black Up』（2011）は2010年代アブストラクト・ヒップホップの代表作。
 
 ---
 
-### ● J·迪拉的影響力
-- 2006年《甜甜圈》中發現的「人性化搖擺」和「醉節奏」對後世產生了決定性的影響。
-- 這種不完全遵循網格、故意留下偏差和乾擾的風格已經滲透到了洛杉磯的beat現場和飛蓮花的作品中。
+## 5. ビート実験：J Dilla以降の“ズレ”と非直線グルーヴ
 
-### ●《Drunk Beat》的架構
-- 大鼓和小鼓的順序有幾毫秒的偏差。
-- 低音線也落後節奏半步，隨著體溫產生波動。
-- Samiyam、Knxwledge、Mndsgn 等人繼承了這個思想。
-
-### ● 與電子音樂的交叉
-- Warp Records 引入了電子音樂的結構方法（Autechre、Boards of Canada 等）。
-- 隨著複雜的多節奏和非重複結構的引入，實驗嘻哈的節奏語言也得到了擴展。
+2000年代以降の実験的ヒップホップの中心には「リズムの再発明」がある。
 
 ---
 
-## 6. 採樣文化：從類比到數位
+### ● J Dillaの影響  
+- 2006年の『Donuts』に見られる “humanized swing” “drunk beat” が後世に決定的な影響。  
+- グリッドに完全に合わせず、意図的なズレや乱れを残すスタイルがLAビートシーンやFlying Lotusの作品に浸透。
 
-### ●1990-2000 年代：MPC 文化
-- MPC2000/2000XL是主流。
-- 重點是“切割文化”，其中涉及將模擬樣本切割成小塊並重建它們。
-- 代表性的例子包括 Madlib 和 J Dilla。
+### ● “Drunk Beat”の構造
+- キックとスネアがシーケンスから数ミリ秒ずれる。  
+- ベースラインもリズムから半歩遅れることで、体温を持った揺らぎを生む。  
+- Samiyam、Knxwledge、Mndsgn などがこの思想を受け継いだ。
 
-### ● 2000 年代末期：DAW 加速推出
-- 隨著 Ableton Live 和 Reason 的流行，**更複雜的層配置**成為可能。
-- Flying Lotus 使用數位和類比的組合來創建多層次的音景。
-
-### ● 2010年代：強調質感的時代
-- Teebs“針孔紋理”取樣（混合精細雜訊）
-- Clams Casino 的空靈聲音（伸展的人聲樣本）
-- 沙巴茲宮殿的神秘拼貼畫
-這引發了一種注重質感的趨勢。
+### ● 電子音楽との交差
+- Warp Recordsの電子音楽（Autechre、Boards of Canada など）の構造的アプローチが導入。  
+- 複雑なポリリズム、非反復構造が導入され、実験的ヒップホップのリズム言語は拡張した。
 
 ---
 
-## 7. 2010 年代以來的擴張：裁切。 / 米洛 / 打開邁克·伊格爾
+## 6. サンプリング文化：アナログからデジタルへ
 
-### ● 剪裁。 (2010~)
+### ● 1990–2000年代：MPC文化  
+- MPC2000 / 2000XL が主流。  
+- アナログサンプルを細かく刻み、再構成する“チョップ文化”が中心。  
+- Madlib、J Dilla が代表的。
+
+### ● 2000年代後半：DAW導入の加速  
+- Ableton Live や Reason が普及し、**飛躍的に複雑なレイヤー構成**が可能に。  
+- Flying Lotus はデジタルとアナログを併用し多層のサウンドスケープを構築。
+
+### ● 2010年代：テクスチャ重視の時代  
+- Teebsの“ピンホール質感”サンプリング（微細ノイズを混ぜる）  
+- Clams Casinoのエーテル的サウンド（ヴォーカルサンプルの引き伸ばし）  
+- Shabazz Palacesの神秘的コラージュ  
+など、テクスチャを主題とする流れが生まれた。
+
+---
+
+## 7. 2010年代以降の拡張：Clipping. / Milo / Open Mike Eagle
+
+### ● Clipping.（2010〜）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/20OY9Clvhw4?si=DQHDBvjaynVEOjbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- 在噪音音樂的影響下建立，並將實驗電子音樂技術與饒舌結合。
-- 他在他的節拍中引入了噪音、刺耳的聲音和小故障，而且他的表達在數學上是精確的。
+- ノイズミュージックの影響下で構築され、実験電子音楽の技法をラップに接続。  
+- ノイズ、ハーシュ、グリッチをビートに導入し、語り口は数学的に精密。
 
 ---
 
-### ●米洛（R.A.P.費雷拉）
+### ● Milo（R.A.P. Ferreira）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YVv5pDspfA?si=DfUljTJuFYLK0GAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- 詩歌/哲學用語。
-- 節奏跨越爵士/抽象/低保真。
-- 歌詞內容密集且高度抽象。
+- ポエトリー／哲学的語法。  
+- ビートはジャズ／アブストラクト／ローファイを横断。  
+- 詞の密度と抽象度が高い。
 
 ---
 
-### ● 打開邁克·伊格爾
+### ● Open Mike Eagle 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BD560SeXvKI?si=pskaVooKtftV57R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- 「藝術說唱」代表人物。
-- 主題是城市生活，融合了幽默和社會觀察。
+- “Art Rap”の代表格。  
+- 都市生活を題材とし、ユーモアと社会観察をミックス。
 
 
 ---
 
-## 8. 2020年代：實驗的推廣
-2020年代，串流文化將「實驗」從特定場景中解放出來，世界各地的年輕藝術家開始自由地重建結構。
+## 8. 2020年代：実験性の一般化
+2020年代にはストリーミング文化によって“実験性”が特定のシーンから解放され、世界中の若いアーティストが自由に構造を再構築し始めた。
 
-### ● 特點
-- 業務擴展到全球（日本、韓國、東歐、中美洲和南美洲）。
-- 節拍更加簡約和環境化。
-- 噪音成分和現場錄音的引入變得普遍。
+### ● 特徴  
+- グローバル（日本、韓国、東欧、中南米）へ拡張。  
+- ビートはよりミニマルかつアンビエント化。  
+- ノイズ成分やフィールドレコーディングの導入が一般化。
 
 ---
 
-## 9. 年表：實驗/抽象嘻哈史
+## 9. 年表：Experimental / Abstract Hip Hop 史
 
 <div class="mermaid">
 timeline
@@ -240,7 +240,7 @@ timeline
 
 ---
 
-## 10. 圖：實驗嘻哈的結構
+## 10. 図解：Experimental Hip Hop の構造
 
 <div class="mermaid">
 flowchart TD
@@ -253,25 +253,34 @@ flowchart TD
 
 ---
 
-## 十一、主要著作
+## 11. 主要作品
 
-* **公司流程 – “Funcrusher Plus”(1997)**
-* **反流行聯盟 – 「悲劇尾聲」(2000)**
-* **食人牛－「冷血靜脈」(2001)**
-* **J·迪拉 – 《甜甜圈》(2006)**
-* **飛蓮花 – 《洛杉磯》(2008)**
-* **飛蓮花 – “Cosmogramma” (2010)**
-* **沙巴茲宮殿 – “Black Up” (2011)**
-* **剪裁。 –「CLPPNG」（2014）**
-* **米洛 – “誰讓你思考的？！！？！？！？！” (2017)**
+* **Company Flow – 『Funcrusher Plus』(1997)**
+* **Anti-Pop Consortium – 『Tragic Epilogue』(2000)**
+* **Cannibal Ox – 『The Cold Vein』(2001)**
+* **J Dilla – 『Donuts』(2006)**
+* **Flying Lotus – 『Los Angeles』(2008)**
+* **Flying Lotus – 『Cosmogramma』(2010)**
+* **Shabazz Palaces – 『Black Up』(2011)**
+* **Clipping. – 『CLPPNG』(2014)**
+* **Milo – 『who told you to think??!!?!?!?!』(2017)**
 
 ---
 
-## 12. 結論：實驗/抽象 什麼是嘻哈？
+## 12. 結論：Experimental / Abstract Hip Hopとは何か
 
-實驗/抽象嘻哈不僅僅是嘻哈的衍生流派，而是一個解構節奏結構、敘事、樣本文化和電子音樂方法的智力項目，並延續至今。
+Experimental / Abstract Hip Hop は単にヒップホップの“派生ジャンル”ではなく、**リズム構造・語り・サンプル文化・電子音楽的アプローチを解体する知的プロジェクト**として始まり、現在も継続している。
 
-Flying Lotus 的多層次電子音樂、Shabazz Palaces 開創的抽象說唱詩、J Dilla 的非線性搖擺、Clipping 的噪音實驗。
-他們繼續充當“嘻哈音樂未來的實驗室”。
+Flying Lotus が示した多層的電子音楽、Shabazz Palaces が切り拓いた抽象詩のラップ、J Dilla による非直線スイング、Clipping. のノイズ実験…。
+それらは“ヒップホップの未来のための実験室”として現在も機能し続けている。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iJEozjrvTMs?si=rfY3Ewks4oie-Bwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

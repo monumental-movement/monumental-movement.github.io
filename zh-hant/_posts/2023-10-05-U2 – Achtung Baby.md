@@ -9,15 +9,15 @@ permalink: /zh-hant/u2-achtung-baby/
 tags:
 - Rock
 - Pops
-title: U2 – Achtung 寶貝
+title: U2 – Achtung Baby
 ---
 
 
-《Achtung Baby》是 U2 探索新音樂方向的專輯，試圖解構和重塑他們的傳統聲音。這張專輯探索了新的表達方式，同時融入了電子元素和舞曲音樂的影響，同時保留了 U2 的標誌性旋律和情感歌詞。
+「Achtung Baby」は、U2が新たな音楽的方向性を追求したアルバムであり、従来のサウンドに対する脱構築と再構築を試みています。アルバムは、エレクトロニックな要素やダンスミュージックの影響を取り入れながらも、U2独自のメロディと感情的な歌詞を保ちつつ、新たな表現を追求しています。
 
-《Achtung Baby》收錄了許多熱門歌曲。例子包括“One”、“Mysterious Ways”和“Even Better Than the Real Thing”。這些歌曲具有獨特的聲音和強烈的旋律，以及專輯的實驗方法。
+「Achtung Baby」には、多くのヒット曲が収録されています。例えば、「One」や「Mysterious Ways」、「Even Better Than the Real Thing」などがあります。これらの楽曲は、アルバムの実験的なアプローチと共に、独特なサウンドと強力なメロディが特徴です。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Zoo Station
 
@@ -44,7 +44,7 @@ B5. Acrobat
 B6. Love Is Blindness
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftjEcrrf7r0?si=NwEq0neJTCT0wwDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

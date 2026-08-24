@@ -11,18 +11,18 @@ tags:
 - Pop
 - Synth-pop
 - 80s
-title: Buggles – 塑膠時代
+title: Buggles – The Age Of Plastic
 ---
 
 
-Buggles 是一支英國新浪潮樂隊，由特雷弗·霍恩 (Trevor Horn) 和傑夫·唐斯 (Geoff Downes) 於 1977 年組建。他們 1979 年的首支單曲“Video Killed the Radio Star”風靡全球。
+Buggles(バグルス)は、1977年にTrevor Horn(トレヴァー・ホーン)とGeoff Downes(ジェフ・ダウンズ)によって結成されたUKのニューウェーブバンド。1979年のデビューシングル「Video Killed the Radio Star」は、世界的なヒットとなった。
 
-1980 年，Island Records 發行了《The Age Of Plastic》，這是 Buggles 的第一張專輯。這張專輯是重新發行的（美國版）。
+1980年にIsland Recordsリリースされた「The Age Of Plastic」は、バグルスのファーストアルバム。このアルバムは再発盤(US盤)。
 
-這張專輯發行後，特雷弗·霍恩和傑夫·唐斯加入了前衛搖滾樂團 Yes。
+Trevor HornとGeoff Downesはこのアルバムリリース後にプログレッシブロックバンドYesに加入した。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Living In The Plastic Age
 2. Video Killed The Radio Star
@@ -34,7 +34,7 @@ Buggles 是一支英國新浪潮樂隊，由特雷弗·霍恩 (Trevor Horn) 和�
 8. Johnny On The Monorail
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m561328888760?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

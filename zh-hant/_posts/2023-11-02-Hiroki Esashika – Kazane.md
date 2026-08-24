@@ -9,21 +9,21 @@ permalink: /zh-hant/hiroki-esashika-kazane/
 tags:
 - Techno
 - Tech House
-title: 江鹿弘樹 – Kazane
+title: Hiroki Esashika – Kazane
 ---
 
 
-Hiroki Esashika 是一位日本 techno 音樂家和 DJ，自 90 年代以來一直活躍。
+Hiroki Esashika(ヒロキ・エサシカ)は、90年代から活動する日本のテクノミュージシャン・DJ。
 
-2000年至2007年，他與DJ TANAKA在札幌俱樂部PLASTIC THEATER主持了TECHNO PARTY「ORANGE」。
+2000年から2007年までは、札幌のクラブPLASTIC THEATERでDJ TANAKAと共にTECHNO PARTY "ORANGE"を主催していた。
 
-《Kazane》於 2005 年在 Intec Records（由 Carl Cox 和 DJ C1 於 1998 年創立的科技唱片公司）發行，是 Hiroki Esashika 的傑作，並成為俱樂部熱門歌曲。
+1998年にカール・コックス&DJ C1が設立したテクノレーベルIntec Recordsから2005年にリリースされた「Kazane」は、クラブヒットとなったHiroki Esashikaの代表作。
 
-Side A 的第二首歌是法國電子音樂藝術家 Sebastien Leger 的混音版。
+A面２曲目は、フランス出身のエレクトロミュージックアーティストSebastien Leger（セバスチャン レジェ）によるremix。
 
-B 面是紐約 house DJ/製作人 Tom Stephan（又名 Superchumbo）的混音版。
+B面は、Superchumboことニューヨーク出身のハウスDJ/プロデューサーTom Stephanによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Kazane (Kazane Original Mix)
 
@@ -32,7 +32,7 @@ A2. Kazane (Sébastien Léger's Psyché Remix)
 B1. Kazane (Superchumbo Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m57660388383?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57660388383?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oyGI_ptZ1Dg?si=KarcXD70sSHPDugF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

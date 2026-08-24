@@ -12,13 +12,13 @@ tags:
 - IDM
 - 90s
 - Rare
-title: 時空連續體 – 發射 Ecaps
+title: Spacetime Continuum – Emit Ecaps
 ---
 
 
-喬納夏普 (Jonah Sharp) 於 1996 年發行了一張雙唱片集，喬納夏普 (Jonah Sharp) 也被稱為 Spacetime Continuum，他是 90 年代地下科技/環境/電子音樂界的中堅力量，在他自己的唱片公司 Reflective Records 上發行。
+90年代のアンダーグラウンド テクノ・アンビエント・エレクトロニカシーンの重鎮、Spacetime Continuum（スペースタイムコンティニウム）ことJonah Sharp（ジョナ・シャープ）が、自身のレーベルReflective Recordsから1996年にリリースした２枚組LP。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Iform
 A2. Kario
@@ -35,7 +35,7 @@ D2. Pod
 D3. String Of Pearls
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

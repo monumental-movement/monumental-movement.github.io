@@ -12,19 +12,19 @@ tags:
 - Dub
 - New Beat
 - Disco
-title: 美麗的游泳者 – 大海岸
+title: Beautiful Swimmers – Big Coast
 ---
 
 
-《美麗的游泳者》是安德魯·菲爾德-皮克林和阿里·戈德曼的一個項目。
+Beautiful Swimmers は、Andrew Field-PickeringとAri Goldmanによるプロジェクト。
 
-Andrew Field-Pickering 是來自華盛頓特區的製作人/DJ，他的藝名還包括 Dolo Percussion、Maxmillion Dunbar 和 Vulture Voltaire。他是獨立廠牌 Future Times 的聯合創始人，並作為該廠牌的核心人物參與了許多發行。
+Andrew Field-Pickeringは、Dolo Percussion, Maxmillion Dunbar, Vulture Voltaire名義でも活動する、アメリカ・ワシントンD.C.のプロデューサー／DJ。インディペンデントレーベル Future Times を共同設立者で、レーベルの中心人物として多数のリリースに関わっている。
 
-Ari Goldman 是華盛頓特區的 DJ/製作人，也是 World Building 廠牌的負責人。
+Ari Goldman はワシントンD.C. を拠点に活躍する DJ／プロデューサー、レーベルWorld Buildingの主宰。
 
-《Big Coast》是 Future Times 廠牌於 2010 年發行的 Leftfield/House/Dub/New Beat/Disco 曲目。 （促銷版）
+「Big Coast」は、2010年にレーベルFuture Times からリリースされたLeftfield／House／Dub／New Beat／Discoトラック。(プロモ盤)
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Touch Base
 A2. Give It All You Got
@@ -32,7 +32,7 @@ A2. Give It All You Got
 B. Big Coast
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m59073631150?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59073631150?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_gPHHqH2Sw?si=4FPtmf2sFrdxGt7r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

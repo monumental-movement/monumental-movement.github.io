@@ -10,22 +10,22 @@ tags:
 - Deep House
 - 80s
 - 90s
-title: 拾起深屋作品
+title: ディープハウス作品をピックアップ
 ---
 
 
-“這組非凡的作品象徵著深邃的浩室，雕刻著複雜的節奏和深沉的節奏，籠罩著城市的夜晚。”
+「都会の夜を包み込むような洗練されたビートと深いグルーヴを刻む、ディープハウスを象徴する注目すべき作品群」
 
-<小時>
+<hr>
 
-### 各種 – 研討會 04
+### Various – Workshop 04
 <a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.webp"></a>
 
-概述：《Workshop 04》是一款在Vinyl上發布的融合了極簡主義和deep house元素的作品。 A 側收錄了德國音樂家 Move D (David Moufang) 和 Fragment 的深浩室曲目，B1 收錄了 Even Tuell 的深浩室曲目，B2 收錄了 Sascha Dive 的慢速曲目。
+概要：「Workshop 04」は、Vinylでリリースされたミニマルさとディープハウスの要素が合わさった作品です。A面にはドイツのミュージシャン Move D（David Moufang）と Fragment によるディープハウストラック、B1には Even Tuell のディープ・ミニマル・ハウス、B2には Sascha Dive によるダウンテンポ・トラックが収録されています。
 
-推薦重點：具有魅力的俱樂部般的律動和深沉的聲像。這件作品非常適合想要享受精緻的歐式房屋/簡約場景的人。
+おすすめポイント：クラブ感あふれるグルーヴと深みのある音像が魅力。ヨーロッパの洗練されたハウス/ミニマルシーンを味わいたい方にぴったりの一枚です。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Move D Featuring Fragment –Untitled
 
@@ -35,22 +35,22 @@ B2. Sascha Dive –Untitled
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1PuDFDx3ak?si=I1qg36Dx918i_y1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
-### Peej – 成為宇宙
-<a href="https://jp.mercari.com/item/m76703865662?afid=6142608987"><img src="../assets/images/Peej%20%E2%80%93%20Becoming%20Cosmic.web"></a>
+### Peej – Becoming Cosmic
+<a href="https://jp.mercari.com/item/m76703865662?afid=6142608987"><img src="../assets/images/Peej%20%E2%80%93%20Becoming%20Cosmic.webp"></a>
 
-簡介： Paul Johnston (Peej) 於 2005 年在英國 house 音樂廠牌 Strictly 4 Groovers 的後繼者 DiY Discs 上發行了一首深浩室音樂。 A麵包括多種混音，例如「Cosmic Love (Interstellar Overdrive Mix)」。
+概要：UKハウスミュージックレーベル Strictly 4 Groovers の後継 DiY Discs から2005年にリリースされた、Paul Johnston（Peej）によるディープハウス作品です。A面には「Cosmic Love (Interstellar Overdrive Mix)」など複数のミックスを収録。
 
-推薦重點： 柔和地包裹住聽者的深邃音色，融合美妙的音響效果，帶給您深邃空間和低保真節拍的感覺。
+おすすめポイント：深宇宙を感じさせるような幻想的な音響と、ローファイなビートが融合した、リスナーを穏やかに包み込むようなディープ・ハウスです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Cosmic Love (Interstellar Overdrive Mix)
 A2. So Soft So Sweet
@@ -60,23 +60,23 @@ B2. Cosmic Love (FS Cosmic Regroove)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m76703865662?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76703865662?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jNICn-7P5X4?si=DhSN8Z4qbXKrOcUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
 
-### 丹尼克拉克 (Danny Clark) 和傑伊本納姆 (Jay Benham) 主演卡拉普拉瑟 (Carla Prather) – 《Into You》
+### Danny Clark & Jay Benham Featuring Carla Prather – Into You
 <a href="https://jp.mercari.com/item/m15102745172?afid=6142608987"><img src="../assets/images/Danny%20Clark%20&%20Jay%20Benham%20Featuring%20Carla%20Prather%20%E2%80%93%20Into%20You.webp"></a>
 
-劇情簡介：《Into You》是英國 house 音樂製作人 Danny Clark 和 Jay Benham 與 Carla Prather 合作的深浩室/車庫曲目。
+概要："Into You" は、UKハウスミュージックプロデューサー Danny Clark & Jay Benham による、Carla Prather フィーチャリングのディープハウス／ガラージハウスのトラックです。
 
-推薦重點：一首情感深沉的浩室曲目，低音線深沉，人聲流暢。它還具有車庫風味的精髓，可以在多種情況下享用。
+おすすめポイント：深みのあるベースラインと滑らかなボーカルが際立つ、感情を揺さぶるようなディープハウストラック。ガラージ風味のエッセンスもあり、幅広いシーンで楽しめます。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Into You (Original Mix)
 A2. Into You (MuthaFunkaz Mix)
@@ -86,10 +86,10 @@ B2. Into You (Animal House Mix)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m15102745172?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15102745172?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j83LVLU8_pA?si=eBqbfZRVKCuxpkC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>

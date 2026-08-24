@@ -11,13 +11,13 @@ tags:
 - Rhythm & Blues
 - Vocal
 - 90s
-title: VA – Spike & Co. 清唱
+title: VA – Spike & Co. Do It A Cappella
 ---
 
 
-這張專輯是 1990 年 PBS 紀錄片的原聲帶，該紀錄片講述了 Spike Lee 執導的無伴奏音樂。
+このアルバムは、1990年にSpike Leeが監督した、アカペラ音楽をテーマ にしたPBSドキュメンタリーのサウンドトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. True Image – I Need You
 2. Mint Juleps – Don't Let Your Heart
@@ -34,7 +34,7 @@ title: VA – Spike & Co. 清唱
 13. Ladysmith Black Mambazo With Mint Juleps – The Lion Sleeps Tonight
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMnxUgxphOg?si=LTGQplU_-L3Kr-yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

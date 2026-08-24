@@ -9,16 +9,16 @@ permalink: /zh-hant/rah-digga-dirty-harriet/
 tags:
 - Hip Hop
 - 00s
-title: Rah Digga－骯髒的哈麗特
+title: Rah Digga – Dirty Harriet
 ---
 
 
-Dirty Harriet (2000) 是 Rahim Fisher（又名 Rah Digga）的首張錄音室專輯，是嘻哈歷史上被低估但重要的作品。
+『Dirty Harriet』（2000年）は、ラヒム・フィッシャーことRah Diggaのデビュー・スタジオ・アルバムであり、ヒップホップ史において過小評価されつつも重要な一枚。
 
-作為 Flipmode Squad 的首位女性成員，在 Busta Rhymes 的支持下，Rah Digga 憑藉精湛的抒情和東海岸的嘻哈音樂牢牢確立了自己的女 MC 地位。
+Flipmode Squad初の女性メンバーとして、Busta Rhymesの後ろ盾のもと、Rah Diggaは本作で卓越したリリシズムと東海岸のブームバップ・サウンドを武器に、女性MCとしての確固たる地位を築きました。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Intro
 A2. Harriet Thugman
@@ -38,7 +38,7 @@ D2. F**k All Y'all N*gg*s
 D3. Lessons Of Today
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86266729628?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86266729628?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MQIxlsGwy6U?si=NIk_ZwsymxghsjgH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,15 +11,15 @@ tags:
 - Roots Reggae
 - Rocksteady
 - 90s
-title: 鮑伯馬利 - 全能靈魂 - 形成歲月卷。 1
+title: Bob Marley – Soul Almighty - The Formative Years Vol. 1
 ---
 
 
-這是一部重新錄製的作品，混合了鮑勃·馬利 (Bob Marley) 和哭聲樂隊 (The Wailers) 於 1967 年至 1968 年間在牙買加錄製的原始人聲，以及 1995 年至 1996 年左右的錄音室器樂曲目和製作。
+1967年〜1968年にかけて、ボブ・マーリー＆ザ・ウェイラーズがジャマイカで録音したオリジナルヴォーカルと1995年〜1996年頃のスタジオの楽器トラックとプロダクションをミックスしたリマスター作品。
 
-1996 年發行的盒式磁帶，其中包含未發行的歌曲。
+未発表曲も含んだ、1996年リリースのカセットテープ。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Rock Steady
 A2. Splish For My Splash
@@ -40,7 +40,7 @@ B6. You Think I Have No Feelings
 B7. What Goes Around Comes Around
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m20715261454?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20715261454?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3N2XQrF8bos?si=3xfYuNyRydq6MiQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

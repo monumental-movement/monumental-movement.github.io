@@ -10,18 +10,18 @@ tags:
 - Deep House
 - House
 - Techno
-title: Todh Teri – 2020 年 Indernet 直播 / 科隆
+title: Todh Teri – Live at Indernet 2020 / Cologne
 ---
 
 
-在 Masala Movement 主辦的活動「INDERNET 2020」中，巴利阿里群島的後起之秀和神秘製作人 Todh Teri 表演的 DJ 音源，他不斷發布寶萊塢迪斯科剪輯《Deep in India》等傑作。
+バレアリックの新星でありボリウッド・ディスコ・エディットの手練、Deep in India など名作をリリースし続けるミステリアスプロデューサーTodh TeriがMasala Movement主宰のイベント「INDERNET 2020」で披露したDJ音源。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Various(60分)
 ```
-DJ 混音 – Todh Teri
+DJ Mix – Todh Teri
 
-Jet Set Novelty CD 2020 夏季
+Jet Set Novelty CD 2020 Summer
 
-[在 Mercari 購買](https://jp.mercari.com/item/m46631373981?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46631373981?afid=6142608987){: .button1}

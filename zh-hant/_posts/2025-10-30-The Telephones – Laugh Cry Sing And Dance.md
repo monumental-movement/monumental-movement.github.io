@@ -12,7 +12,7 @@ tags:
 - Synth-pop
 - Pop Rock
 - 10s
-title: 電話——笑、哭、唱歌……還有跳舞！
+title: The Telephones – Laugh, Cry, Sing... And Dance!!!
 ---
 
 
@@ -22,11 +22,11 @@ title: 電話——笑、哭、唱歌……還有跳舞！
 
 
 
-一支日本樂團成立於 2005 年，並​​於 2009 年首次亮相，其舞曲搖滾風格受到後龐克/新浪潮復興的影響。
+2005年に結成し、ポストパンク／ニューウェイブリバイバルの影響を受けたダンスロックサウンドで2009年にメジャーデビューした日本のバンド。
 
-「笑、哭、唱歌…還有跳舞！！！」2013 年發行的是他們的第四張主要專輯。
+2013年にリリースされた「Laugh, Cry, Sing... And Dance!!!」は、4枚目のメジャーアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Congratulations!!!
 2. What's Your Name???
@@ -42,4 +42,4 @@ title: 電話——笑、哭、唱歌……還有跳舞！
 12. March For Peace
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m46737641697?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46737641697?afid=6142608987){: .button1}

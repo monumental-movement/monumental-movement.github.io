@@ -12,25 +12,25 @@ tags:
 - Relaxation
 - Healing
 - 80s
-title: 宮下雄 - Meisou
+title: Fumio Miyashita - Meisou
 ---
 
 
-Tomio Miyashita 是一位來自長野縣的音樂家、音樂治療師和合成器演奏家。
+宮下 富実夫は、長野県出身の音楽家・ミュージックセラピスト・シンセサイザー奏者。
 
-他們於1965年開始活動，組成前衛搖滾樂團「遠東家族樂團」。喜太郎也是遠東家庭樂團的成員。
+1965年から活動を開始し、プログレッシブ・ロック・グループ「ファー・イースト・ファミリー・バンド」を結成。ファーイーストファミリーバンドには喜多郎も在籍していた。
 
-在積極在日本國內外巡迴演唱會的同時，他還出演了1988年的動畫電影《風之又三郎：橡子與野貓》、1990年的電影《天與地》、1992年的電影《蓋亞第一交響曲》以及根據手塚治虫原作改編的動畫電影《鳳凰》。他也負責為《鳳凰版》、平田敏夫導演的《鳳凰版》、川尻義明導演的《鳳凰版》、《鳳凰版》等電影創作電影音樂和主題曲。他為1997年長野奧運創作了申辦主題曲「Kotobuki」。
+国内外で、ツアー＆ヒーリングコンサートを精力的に行う一方、1988年アニメ映画「風の又三郎・どんぐりと山猫」、1990年映画「天と地と」、1992年映画「ガイアシンフォニー 第一番」、手塚治虫原作のアニメ映画の「火の鳥 鳳凰編」、平田敏夫監督「火の鳥ヤマト編」、川尻善昭監督「火の鳥宇宙編」などの映画音楽や主題歌の作曲も担当した。1997年の長野オリンピックでは招致テーマ曲「寿」を制作している。
 
-《Mediation》是BIWA Records於1989年發行的新時代氛圍專輯。
+「瞑想」は、1989年にBIWA Recordsからリリースされたニューエイジ・アンビエントアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. 水織音 - Miorine, The Sound Of Water Weaving
 2. 静寂郷 - Seijyakukyo, A Region Of Stillness
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

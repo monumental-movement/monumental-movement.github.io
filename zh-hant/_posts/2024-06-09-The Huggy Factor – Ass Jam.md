@@ -11,22 +11,22 @@ tags:
 - Tech House
 - Electro
 - 00s
-title: 擁抱因素 – Ass Jam
+title: The Huggy Factor – Ass Jam
 ---
 
 
-The Huggy Factor 是 Carl Finlow 和 Paul Huggett 的一個部門，他們也以 Silicon Scally、Random Factor、Voice Stealer、Il.Ek.Tro 和 Scarletron 等名義工作，並且是 2020 Vision 的聯合創始人。
+The Huggy Factorは、Silicon Scally、Random Factor、Voice Stealer、Il.Ek.Tro、Scarletron名義でも活動し、2020 Visionの共同設立者でもあるCarl FinlowとPaul Huggettのユニット。
 
-《Ass Jam》是 2000 年由 20:20 Vision 廠牌發行的一首科技浩室歌曲。
+「Ass Jam」は、2000年にレーベル20:20 Visionからリリースされたテックハウストラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Ass Jam
 
 B. Tight Ass Jam
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m85454332161?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85454332161?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Ie3VndTzXM?si=p2I-jvsPT3rdV624" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

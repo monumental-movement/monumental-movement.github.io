@@ -9,20 +9,20 @@ permalink: /zh-hant/commander-tom-eye-bee-m/
 tags:
 - Techno
 - German Techno
-title: 湯姆指揮官 – Eye Bee M
+title: Commander Tom – Eye Bee M
 ---
 
 
-Commander Tom 是一位來自德國的 techno DJ 和製作人。 《Eye Bee M》是湯姆指揮官的標誌性歌曲之一。 B 面是一首以 Mars 為主題的歌曲，Mars 因舊金山 Cyber​​trance 先驅 Mars & Mystre 而聞名。
+Commander Tom（コマンダー・トム）は、ドイツ出身のテクノDJ・プロデューサー。「Eye Bee M」はCommander Tomの代表曲の一つ。B面は、サンフランシスコのサイバートランスのパイオニアMars & Mystreで知られるMarsが参加した一曲。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Eye Bee M
 
 B. Trip To Mars
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m76767302335?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76767302335?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqzLm_hWBfU?si=tnSSmsHbxvOVtRQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

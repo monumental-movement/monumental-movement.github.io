@@ -10,16 +10,16 @@ tags:
 - Latin
 - Deep House
 - 90s
-title: 埃爾馬諾先生 – 瓦斯科達伽馬
+title: Mr Hermano – Vasco Da Gama
 ---
 
 
 
-赫爾馬諾先生是一個以本·米切爾和克里斯·菲茨杰拉德為中心的團隊。他們的風格融合了倫敦舞曲和拉丁音樂。
+Mr Hermanoは、Ben Mitchell と Chris Fitzgerald を中心としたユニット。ロンドンのダンス・ミュージックとラテンを融合させたスタイルが特徴。
 
 「Vasco Da Gama」「Caxixi（Ka-SHE-she）」は、1999年にUKのHouseレーベルDisorientからリリースしたアルバム『O Globo』に収録されたLatin／Deep Houseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Vasco Da Gama (Original 12" Mix)
 A2. Caxixi [Ka-SHE-she] (Desnuda Version)
@@ -28,7 +28,7 @@ AA1. Vasco Da Gama (DiSisco Mix)
 AA2. Vasco Da Gama (DiSisco Dub)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m23949995359?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23949995359?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA2CrnF-vaI?si=29mgTww54WdXmGSZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

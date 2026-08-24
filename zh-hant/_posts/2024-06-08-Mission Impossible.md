@@ -11,15 +11,15 @@ tags:
 - Movie
 - Film
 - 90s
-title: 亞當克萊頓 (Adam Clayton) 與拉里馬倫 (Larry Mullen) – 《碟中諜》主題曲
+title: 'Adam Clayton & Larry Mullen – Theme From Mission: Impossible'
 ---
 
 
-U2 成員亞當克萊頓 (Adam Clayton) 和拉里馬倫 (Larry Mullen) 創作的電影《碟中諜》主題曲的盒式磁帶，於 1996 年發行。
+1996年にリリースされた、U2のメンバーAdam Clayton（アダム クレイトン）とLarry Mullen（ラリー マレン ）による映画「ミッション: インポッシブル」の テーマ曲カセットテープ。
 
-B 面是美國 house DJ Junior Vasquez 的混音版。
+B面はUSのハウスDJ Junior Vasquez（ジュニア・ヴァスケス）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -27,7 +27,7 @@ A2. Mission: Impossible Theme (Mission Accomplished)
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

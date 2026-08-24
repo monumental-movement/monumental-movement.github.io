@@ -10,22 +10,22 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: 麗莎·斯坦斯菲爾德（Lisa Stansfield）——世界各地，這是正確的時間
+title: Lisa Stansfield – All Around The World This Is The Right Time
 ---
 
 
-麗莎·斯坦斯菲爾德 (Lisa Stansfield) 的《All around The World》是一首風靡全球的英國 R&B 經典歌曲。
+Lisa Stansfield(リサ・スタンスフィールド)の「All Around The World」は、世界的にヒットしたUK R&Bクラシック。
 
-B面由英國DJ兼製作人Coldcut製作，他也是Ninja Tune的創辦人。
+B面のプロディーサーはNinja Tuneの創設者でもある、UKのDJ 兼プロダクション・アクトColdcut。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. All Around The World
 
 B. This Is The Right Time
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m36150169564?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36150169564?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JVuuatjHGnY?si=oUE6SGYER6C_vQLR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

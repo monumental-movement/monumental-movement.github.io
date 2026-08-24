@@ -10,20 +10,20 @@ tags:
 - Alternative Rock
 - Industrial
 - Rock
-title: 各種 – 柏林獨立日精選第二卷
+title: Various – Best Of Berlin Independence Days Volume II
 ---
 
 
-柏林廠牌 Stud!o K7 於 1990 年發布的 1988 年柏林獨立音樂博覽會現場表演影片 (VHS)。其中包括藝術家 Mudhoney、Young Gods、Buzzcocks F.O.C. （方便旗）。
+ベルリンのレーベルStud!o K7が1990年にリリースした、1988年Berlin Fair For Independent Musicでのライブ演奏ビデオ(VHS)。出演アーティストMudhoney 、Young Gods 、Buzzcocks F.O.C. (Flag Of Convenience)。
 
-Mudhoney 是一支來自美國西雅圖的樂隊，對 NIRVANA 等垃圾搖滾/另類搖滾音樂家產生了巨大影響。
+Mudhoney (マッドハニー)は、NIRVANAなどグランジ／オルタナティブロックミュージシャン達に多大なる影響を与えた、アメリカ・シアトル出身のバンド。
 
-Young Gods是一支成立於1985年的瑞士工業搖滾樂團。樂團的名字取自美國後龐克/實驗搖滾樂團Swans的“Young God”。
+Young Gods(ヤングゴッツ)は、1985年に結成されたスイスのインダストリアルロックバンド。バンド名は、アメリカのポストパンク／エクスペリメンタルロックバンドSwans(スワンズ)の『Young God』からとった。
 
-（全長42分鐘）
+(全編42分)
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Overture
 2. One Phone Call
@@ -35,10 +35,10 @@ Young Gods是一支成立於1985年的瑞士工業搖滾樂團。樂團的名字
 8. Jean Pierre
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31349607002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31349607002?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### YouTube
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S6GxTeZqdJA?si=S2Ec2Kb3O_rt4SIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

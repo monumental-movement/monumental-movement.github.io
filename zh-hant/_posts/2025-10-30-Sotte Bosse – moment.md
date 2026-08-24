@@ -12,7 +12,7 @@ tags:
 - Ballad
 - Bossa Nova
 - Jpop
-title: Sotte Bosse – 時刻
+title: Sotte Bosse – moment
 ---
 
 
@@ -22,11 +22,11 @@ title: Sotte Bosse – 時刻
 
 
 
-Sotte Bosse 是由俱樂部爵士樂隊 i-dep 的 Hiroshi Nakamura 和 Cana 組成的特殊樂隊。他們的風格特徵是以波薩諾瓦/爵士風格覆蓋 J-POP。
+Sotte Bosse（ソット ボッセ）は、クラブジャズユニットi-depのナカムラヒロシとCanaによるスペシャルユニット。J-POPをボサノヴァ・ジャズ風にカバーするスタイルが特徴。
 
-2007年發行的《Moment》是Sotte Bosse的第三張專輯。
+2007年にリリースした「moment」は、Sotte Bosse（ソット ボッセ）3枚目のアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. 瞳がほほえむから
 2. 君がいるだけで
@@ -41,4 +41,4 @@ Sotte Bosse 是由俱樂部爵士樂隊 i-dep 的 Hiroshi Nakamura 和 Cana 組�
 11. ひとひら
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}

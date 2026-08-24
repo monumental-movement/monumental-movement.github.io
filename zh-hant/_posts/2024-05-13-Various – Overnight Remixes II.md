@@ -10,15 +10,15 @@ tags:
 - Euro
 - Compilation
 - 90s
-title: 各種 – Overnight Remixes II
+title: Various – Overnight Remixes II
 ---
 
 
-80 年代末到 90 年代的 Euro house、techno、newbeat、garage house 合輯。
+80年代後半から90年代のユーロハウス・テクノ・ニュービート・ガラージハウス系コンピレーションアルバム。
 
-其中包括硬派科技巨頭 2 Unlimited、比利時 Eurodance 和新節拍樂團 Bizz Nizz，以及英國音樂團體 Soft Cell（領先的新浪潮樂團之一）。
+ハードコアテクノの立役者 2 Unlimited（2アンリミテッド）、ベルギーのユーロダンス＆ニュービートバンドBizz Nizz、ニュー・ウェイヴの代表的なグループの一つであるUKの音楽ユニットSoft Cell（ソフトセル）などが収録されている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Sophia – Running So Hard
 A2. The Creator – Jack
@@ -33,7 +33,7 @@ B4. Soft Cell –Tainted Love
 B5. LNR – Work It To The Bone
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

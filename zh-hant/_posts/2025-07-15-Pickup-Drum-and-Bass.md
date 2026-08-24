@@ -9,19 +9,19 @@ permalink: /zh-hant/pickup-drum-and-bass/
 tags:
 - Drum n Bass
 - Jungle
-title: 拾取鼓和貝斯作品
+title: ドラムンベース作品をピックアップ
 ---
 
 
-“一組非凡的鼓和貝斯作品，以尖銳的節拍和沈重的低音線震撼地板。”
+「鋭利なビートと重厚なベースラインでフロアを揺さぶる、注目すべきドラムンベース作品群」
 
-<小時>
+<hr>
 
-### Aquasky – 尼龍跑車 / 宇宙膠
-<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Gluswebmic">p.
-一首 12 吋碎拍曲目，以流暢而感性的鋼琴演奏為特色，創作於 1996-97 年左右。
+### Aquasky – Nylon Roadster / Cosmic Glue
+<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
+1996–97年頃の滑らかでエモーショナルなピアノをフィーチャーしたブレイクビートトラックの12″。
 
-#### 曲目表
+#### Tracklist
 ```md
 X. Nylon Roadster
 
@@ -29,20 +29,20 @@ Y. Cosmic Glue
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=eN1H0egbHyi3sWoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### Aquasky – 寧靜 / 考納
-<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.p"></a>
+### Aquasky – Tranquility / Kauna
+<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Moving Shadow 於 1996 年在英國發行了情感酸澀和碎拍音樂。
+1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
 
-#### 曲目表
+#### Tracklist
 ```md
 X. Nylon Roadster
 
@@ -50,21 +50,21 @@ Y. Cosmic Glue
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=EA649XFpLE7q3b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
 
-### Dillinja – 流體/硬噪音
-<a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%">20Noizeweb.
+### Dillinja – Fluid / Hard Noize
+<a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
 
-12 吋經典地下鼓和貝斯曲目，帶有強勁的“Reese”貝斯。
+迫力の“Reese”ベースが響く、アングラ・ドラムンベース定番トラックの12″。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Hard Noize
 
@@ -72,20 +72,20 @@ AA. Fluid
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### Motiv One – Cosmik / 循環進展
-<a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Lresscom
+### Motiv One – Cosmik / Loop Progression
+<a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-包含以阿門休息為中心的輕快、爵士、未來主義的聲音。
+軽快でジャジー、アーメンブレイク主体の未来的なサウンドを収録。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Cosmik
 
@@ -93,21 +93,21 @@ AA. Loop Progression
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### Drumagick – 坎布拉亞/巴西
+### Drumagick – Cambraia / Brasil
 
 <a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.webp"></a>
 
-2000 年代的 12 英寸，其節奏融合了巴西拉丁和爵士樂元素。
+ブラジルのラテン＆ジャズ要素をミックスしたビートが特徴的な2000年代の12″。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Cambraia
 
@@ -115,21 +115,21 @@ B. Brasil
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1PQ3tpTTtI?si=cyUR6jo8sAVgV3LC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 亞倫‧斯佩克特－阿門，龐克
+### Aaron Spectre – Amen, Punk
 
-<a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp">
+<a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
 
-一張獨特的基於阿門突破的專輯（2023），帶來了龐克/硬核的激烈邊緣。
+パンク／ハードコアの激しいエッジを持ち込んだ、アメンブレイク主体のユニークな一枚（2023年）。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. 1600 Penn, FTW
 
@@ -138,20 +138,20 @@ B2. You Don't Know
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### DJ Gilb‑R – 壓力
-<a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.web"></a>
+### DJ Gilb‑R – Pressure
+<a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
 
-1997 年在法國發行。還包括 Laurent Garnier 混音版。
+1997年フランスリリース。Laurent Garnierリミックスも収録。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Pressure (Original Mix)
 
@@ -161,15 +161,15 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_ExUMI86Yw?si=p7zunjsO-_yxtC68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 清單
+### List
 
 <div class="table-border">
 <table>

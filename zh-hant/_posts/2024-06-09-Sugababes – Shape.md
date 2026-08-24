@@ -11,17 +11,17 @@ tags:
 - Pops
 - UK Pop
 - Promo
-title: 甜心寶貝 – 形狀
+title: Sugababes – Shape
 ---
 
 
-Sugababes是一個英國女子流行團體，由All Saints的經理於1998年組成。
+Sugababes（シュガーベイブス）は、All Saints（オールセインツ）のマネージャーよって1998年に結成されたUKの女性ポップグループ。
 
-《Shape》於 2003 年發行，是 Sugababes 的第四張單曲，採樣了斯汀的《Shape of My Heart》，這首單曲在英國排行榜上最高排名第 11 位，在荷蘭和愛爾蘭也進入了前 10 名。
+2003年にリリースされた「Shape」は、Sting（スティング）の「Shape Of My Heart」をサンプリングしたSugababes4枚目のシングルで、UKチャートで最高11位、オランダとアイルランドではトップ10入りしたヒット曲。
 
-Side A 是美國嘻哈製作人 Salaam Remi 的混音版，他因製作 Nas、Amy Winehouse、Sullivan 等人的歌曲而聞名。
+A面はNas（ナズ）, Amy Winehouse（エイミー・ワインハウス）, Sullivan（ジャズミン・サリバン）などの楽曲をプロデュースしたことで有名なUSのヒップホッププロデューサーSalaam Remi（サラーム・レミ）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Shape (Salaam Remi Remix)
 
@@ -30,5 +30,5 @@ B1. Shape (Double R Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m60974556106?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hVTgQ7qeSSg?si=CclsFk8A_GhR0ZTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,17 +10,17 @@ tags:
 - Swing
 - Pops
 - 90s
-title: 小哈利康尼克——我們相愛
+title: Harry Connick, Jr. – We Are In Love
 ---
 
-小哈利康尼克 (Harry Connick, Jr.) 是來自新奧爾良的歌手兼鋼琴家。
-他為1989年的電影《戀人預感》創作了音樂，並自20世紀90年代起作為演員活躍，出演了《孟菲斯美女》和《獨立日》。
+Harry Connick, Jr.は、ニューオーリンズ出身の歌手・ピアニスト。
+1989年の映画『恋人たちの予感』の音楽を手がけたり、1990年代からは『メンフィスベル』『インデペンデンスデイ』などに出演し俳優としても活動。
 
-截至 2019 年，據說小哈利康尼克 (Harry Connick Jr.) 在全球銷售了超過 3000 萬張唱片，被美國唱片工業協會評為「美國最暢銷的 60 名男藝人」。
+2019年時点で、ハリー・コニックJr.のレコードは世界中で3,000 万枚以上売れたと言われており、米国レコード協会の『米国で最も売れた男性アーティストTop60』にランクインしている。
 
-1991年，《我們相愛》獲得葛萊美獎。
+「We Are In Love」は、1991年度グラミー賞を受賞した作品。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. We Are In Love
 A2. Only 'Cause I Don't Have You
@@ -37,7 +37,7 @@ B4. It's Alright With Me
 B5. Buried In Blue
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86785340149?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86785340149?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uij5s69iEjs?si=Sjvdi3CevIs8Ilbu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

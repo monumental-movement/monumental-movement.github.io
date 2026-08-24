@@ -11,15 +11,15 @@ tags:
 - Synth Pop
 - New-Wave
 - 80s
-title: Devo－新傳統主義者
+title: Devo – New Traditionalists
 ---
 
 
-《New Traditionists》是美國新浪潮樂團Devo於1981年發行的第四張專輯，也是樂團第一張完全自製的專輯。
+「New Traditionalists」は1981年にリリースされたUSのニューウェイヴバンド、Devo（ディーヴォ）の4作目のアルバムであり、バンド初の完全セルフプロデュース・アルバム。
 
-繼上一張專輯《Freedom Of Choice（慾望心理學）》（其中包括《Whip It》）取得成功之後，這張專輯具有極簡主義氛圍，強調合成器即興演奏、節奏和電子打擊樂，並以「去進化」為概念。
+「Whip It」が収録された前作のアルバムFreedom Of Choice（欲望心理学）のヒットを受けて、このアルバムでは「脱進化」をコンセプトにシンセサイザーのリフとリズム＆電子パーカッションに重点を置いたミニマルな雰囲気になっている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Through Being Cool
 A2. Jerkin' Back 'N' Forth
@@ -35,9 +35,9 @@ B5. Enough Said
 B6. Working In The Coal Mine
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xDS3lfsa8gE?si=y4ghHU7tKzkpglEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

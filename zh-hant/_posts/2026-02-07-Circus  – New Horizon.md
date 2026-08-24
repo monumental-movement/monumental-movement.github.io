@@ -12,16 +12,16 @@ tags:
 - City Pop
 - Vocal
 - 70s
-title: 馬戲團 – 新地平線
+title: Circus  – New Horizon
 ---
 
 
 
-Circus是一個四人合唱團，由兩男兩女組成，於1978年首次亮相。他以《Mr.》等熱門歌曲而聞名。 《夏日時光》（米歇爾富根翻唱）、《美國情懷》和《戀愛中的女人》。
+Circus (サーカス)は、1978年にデビューした男女2人ずつからなる4人組コーラス・グループ。『Mr.サマータイム -夏物語-』（ミシェル・フュガンのカヴァー曲）、『アメリカン・フィーリング』、『Woman in Love』などのヒット曲で知られている。
 
-《New Horizo​​n》是阿爾法廠牌於 1979 年發行的一首城市流行/迪斯科/靈魂/聲樂/流行歌曲。
+「New Horizon」は、1979年にレーベルAlfaからリリースされたCity Pop／Disco／Soul／Vocal／歌謡曲。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. ムーヴィング
 A2. サルバドール紀行 
@@ -36,7 +36,7 @@ B4. フライ・アウェイ
 B5. 夏の恋人
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m78106520970?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78106520970?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jltr-nIBK_M?si=SpPnhiJPTqnC17oZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

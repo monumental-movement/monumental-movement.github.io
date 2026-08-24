@@ -9,23 +9,23 @@ permalink: /zh-hant/hyena-featuring-ricky-trauma-ive-got-to-dance/
 tags:
 - Italo
 - House
-title: 鬣狗與 Ricky Trauma 合作——我必須跳舞
+title: Hyena Featuring Ricky Trauma –I've Got To Dance
 ---
 
 
-鬣狗演繹 Ricky Trauma 的“I’ve Got To Dance”
-推薦B面“Velvet Mix”。
+Hyena Featuring Ricky Traumaの「I've Got To Dance」は、
+B面の「Velvet Mix」がおすすめ。
 
-路易吉·斯坦加 (Luigi Stanga) 製作的一首不太出名的作品，但值得一聽。
+ルイジ・スタンガによるあまり知られていないプロダクションですが、要チェックなトラックです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. I've Got To Dance (Techno Mix)
 
 B. I've Got To Dance (Velvet Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m57514853897?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57514853897?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yz8EfS4s6DI?si=mISKOo4QOKmlMOQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

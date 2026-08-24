@@ -10,15 +10,15 @@ tags:
 - Hardcore
 - Rock
 - Thrash Metal
-title: 馬鈴薯怪物－沒有保證
+title: The Spudmonsters – No Guarantees
 ---
 
 
-Spudmonsters 是一支美國激流金屬、硬核、跨界樂隊，由來自俄亥俄州克利夫蘭的 Don Foose、Scott Roberts、Steve Swanson、Eric Matthews 和 Chris Andrews 於 1987 年組建。
+The Spudmonsters（スパッドモンスターズ）は、オハイオ州クリーブランド出身のDon Foose、Scott Roberts、Steve Swanson、Eric Matthews、Chris Andrewsによって1987年に結成されたUSスラッシュメタル、ハードコア、クロスオーバー バンド。
 
-1995 年，德國廠牌 Massacre Records 發行了《No Ensures》。
+「No Guarantees」は1995年にドイツのレーベルMassacre Recordsよりリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Upperhand
 A2. Bloodline
@@ -38,7 +38,7 @@ B5. Broken
 B6. Untitled
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m95943993364?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95943993364?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-1dacmhIfRY?si=FiplTakO49nhRlYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

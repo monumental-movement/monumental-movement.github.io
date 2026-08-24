@@ -10,21 +10,21 @@ tags:
 - Electronic
 - House
 - 90s
-title: Dee Jacobee – 我還活著托德特里混音
+title: Dee Jacobee – I'm Alive Todd Terry Mix
 ---
 
 
-英國 R&B 歌手 Dee Jacobee 由美國 DJ/house 音樂藝人演唱的《I'm Alive》
-由混音師 Todd Terry 和 D.A.R.C. 混音的 house 曲目。
+UKのR&BシンガーDee Jacobee の「I'm Alive」をアメリカのDJ・ハウスミュージックの
+リミキサーTodd TerryとD.A.R.C.がremixしたハウストラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. I'm Alive (Tee's Frozen Sun Mix)
 
 A2. I'm Alive (TNT Frozen Dub Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m16492109605?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16492109605?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H5636EYv1Bg?si=_TKF9owrrlyt5HYx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

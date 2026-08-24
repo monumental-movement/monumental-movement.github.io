@@ -14,9 +14,9 @@ title: Paintbox – The Door  Provided Railroad
 ---
 
 
-1999年にHG Factreーベルよりiririsesされた、Paintbox（ペインンボックス）の2nd 7インボックス）の2nd 7インチ。在錄音室Our House錄製。
+1999年にHG Factレーベルよりリリースされた、Paintbox（ペイントボックス）の2nd 7インチ。録音はスタジオOur House。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. The Door
 

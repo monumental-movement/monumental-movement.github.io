@@ -10,28 +10,28 @@ tags:
 - Psy-Trance
 - Goa
 - Trance
-title: 挑選 Psy-Trance 作品
+title: Psy-Trance（サイケデリックトランス）作品をピックアップ
 ---
 
 
 
-“未來與神話交織在一起的聲音薩滿教，Psy-Trance 發揮作用”
+「未来と神話が交錯する音のシャーマニズム、Psy-Trance（サイケデリックトランス）作品群」
 
 ---
 
-## Psy-Trance 精選作品
+## Psy-Trance（サイケデリックトランス）の注目作品
 
-介紹 Monumental-Movement.jp 上列出的推薦 **Psy-Trance** 專輯並附有說明。
-收藏從 90 年代的血腥迷幻傑作到融入現代聲音設計的作品。
+Monumental-Movement.jp で掲載されている **Psy-Trance（サイケデリックトランス）** のおすすめ盤を解説付きで紹介します。  
+90年代のゴア・トランスの名作から、現代的なサウンドデザインを取り入れた作品まで幅広く揃っています。
 
 ---
 
 ### Shpongle / GMS & 1300 Mics – *The Crystal Skulls EP*
 <a href="https://monumental-movement.jp/Shpongle-GMS-and-1300-Mics-The-Crystal-Skulls-EP/"><img src="../assets/images/Shpongle%20GMS%20&%201300%20Mics%20%E2%80%93%20The%20Crystal%20Skulls%20EP.webp"></a>
 
-- **評論**：Shpongle 的奇幻元素與 GMS 的全面能量的融合。 TIP.World於2001年發表的Psy-Trance的代表作。
+- **解説**：Shpongleの幻想的な要素とGMSによるフルオン的エネルギーが融合。TIP.Worldから2001年に発表された、Psy-Tranceを代表する一枚。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Shpongle – The Sixth Revelation
 
@@ -39,26 +39,26 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ENMP9DJI6Y?si=GPENtxHpDC_dxNQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
 
 
 ---
 
-### 太陽。項目 – *Zwork*
+### S.U.N. Project – *Zwork*
 <a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.webp"></a>
 
-- **發布發布日期**：2025-09-05
+- **リリース掲載日**：2025-09-05  
 
-- **評論**：Gore/Psy-Trance 計畫在德國成立。一部回歸根源的作品，聲音讓人想起 90 年代的黃金時代。
+- **解説**：ドイツ結成のゴア／Psy-Tranceプロジェクト。90年代黄金期を彷彿とさせるサウンドで、原点回帰的な一作。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Zwork
 A2. Subsonic Overdrive
@@ -80,25 +80,25 @@ F2. Deeper And Deeper
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m32084411022?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32084411022?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2fvkYyz7PY?si=u4HkkdoB5W8_UK8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
 
 
 ---
 
-### Psycomex – *墨西哥 Trance 合輯 EP4*
+### Psycomex – *Mexican Trance Compilation EP4*
 <a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.webp"></a>
 
 
-- **評論**：總結墨西哥恍惚場景的彙編。一部可以讓你享受地域特色和多元風格的作品。
+- **解説**：メキシコのトランス・シーンを集約したコンピレーション。地域性と多様なスタイルを味わえる作品。
 
-#### 曲目表
+#### Tracklist
 ```md
 A  Shove Vs. Barak–Super Marihuano Bross (Teen Sluts Remix)
 
@@ -107,25 +107,25 @@ B2  Teen Sluts–Foust On Doust
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2h3KDe5KUfU?si=TBBTC9AzZaC2oIBb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
 
 
 ---
 
-### 阿卡莎計畫 – *永遠*
+### Akasha Project – *Always*
 <a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
  
 
-- **評論**：血腥恍惚與科技風格的融合。這是一首包含環境元素並提供深度沉浸感的實驗曲目。
+- **解説**：ゴアトランスとテクノ的アプローチが融合。アンビエント的な要素を含み、深い没入感を与える実験的トラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. You Got To Love It
 A2. The Flying Field
@@ -135,25 +135,25 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7eU8M_yts0k?si=uhm_JWH8kt8uFl5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
 
 
 ---
 
-### Total Eclipse – *更新檔案*
+### Total Eclipse – *Update Files*
 <a href="https://monumental-movement.jp/Total-Eclipse-Update-Files/"><img src="../assets/images/Total%20Eclipse%20%E2%80%93%20Update%20Files.webp"></a>
 
 
-- **評論**：來自法國的傳奇單位。憑藉其厚重的層次和宏偉的構圖，這張專輯是 Goa Trance 一代的必備專輯。
+- **解説**：フランス発の伝説的ユニット。重厚なレイヤーと荘厳な構成で、ゴアトランス世代には必携のアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. None Of This
 2. Jadran Temple
@@ -168,25 +168,25 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
 
 
 ---
 
-### 提姆舒爾特 – *Animatronic EP*
+### Tim Schuldt – *Animatronic EP*
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
-- **評論**：來自德國的藝術家。這是一部雄心勃勃的作品，透過巧妙的聲音設計展示了現代 Psy-Trance。
+- **解説**：ドイツ出身のアーティスト。クラフト感あるサウンドデザインで、現代的なPsy-Tranceを示す意欲作。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Animatronic
 
@@ -194,26 +194,26 @@ AA. Inner Child
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SFn9Ax2qXZk?si=UXyWLsEEYwa100Fu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
 
 
 ---
 
-### 各種 – *共鳴情緒*
+### Various – *Resonance Mood*
 <a href="https://monumental-movement.jp/Various-Resonance-Mood/"><img src="../assets/images/Various%20%E2%80%93%20Resonance%20Mood.webp"></a>
 
-- **發布發布日期**：2024-05-13
+- **リリース掲載日**：2024-05-13  
 
-- **解說**：DJ Tsuyoshi 的 MATSURI 廠牌彙編。這是一部將 90 年代的 trance 傳統與現代聯繫起來的偉大作品。
+- **解説**：DJ Tsuyoshiが手掛けるMATSURIレーベルのコンピレーション。90年代からのトランス遺産と現代性を繋ぐ良作。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Deflo – Tio Mate
 A2. Anti Matter – Pulse II
@@ -227,25 +227,25 @@ F. Sandman – Target Eye
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2psugEZFSro?si=ii-myw2cgVqIr24_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
 
 
 ---
 
-### 賠率 – *賠率 E.P*
+### Odds – *Odds E.P*
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 
-- **評論**：1995 年由 Flying Rhino Records 發行。代表果阿恍惚黃金時代的經典作品。
+- **解説**：Flying Rhino Recordsから1995年にリリース。ゴアトランス黄金期を代表するクラシックな一枚。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Flying + To The Sky
 
@@ -253,13 +253,13 @@ AA. Umbellikilisis
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 <br>
 
-###  **Psy-Trance 的魅力**
-夢幻般的、精神上的、有時甚至是實驗性的。請來體驗從90年代至今不間斷的迷幻恍惚世界。
+###  **Psy-Tranceの魅力**  
+幻想的でスピリチュアル、時に実験的。90年代から現代まで脈々と続くサイケデリック・トランスの世界を、ぜひ体感してみてください。

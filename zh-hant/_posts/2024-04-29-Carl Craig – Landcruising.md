@@ -10,17 +10,17 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: 卡爾克雷格——陸上巡航
+title: Carl Craig – Landcruising
 ---
 
 
-卡爾克雷格 (Carl Craig) 是第二代底特律 techno 的成員，由德里克梅 (Derrick May) 發現，他與凱文桑德森 (Kevin Saunderson) 和胡安阿特金斯 (Juan Atkins) 一起被稱為底特律 techno 的創始人之一。
+Kevin Saunderson(ケビン・サンダーソン)、Juan Atkins(ホアン・アトキンス)と共にデトロイトテクノ創始者の一人として知られるDerrick May(デリック・メイ)に発掘された、デトロイトテクノ第二世代のCarl Craig。
 
-他創造的聲音融合了各種元素，如創新氛圍音樂、電子音樂、碎拍音樂和未來爵士樂。
+革新的なアンビエント、テクノ、ブレイクビート、フューチャージャズなど様々な要素を盛り込んだサウンドを作っている。
 
-《Landcruising》由WEA子公司Blanco Y Negro於2005年發行，是卡爾克雷格的第一張專輯，被認為是傑作。 2005年，這張專輯被重新製作、混音，並添加了新歌曲，並由RushHour廠牌以“專輯以前被稱為...”為標題發行，並進行了重新評估。
+WEAの子会社Blanco Y Negroから2005年にリリースされた 「Landcruising」は、カールクレイグの1stアルバムであり名作とされる一枚。2005年にはリマスター＆リミックス＋新曲追加で、タイトル「The Album Formerly Known As...」としてレーベルRushHourからリリースされ再評価されている。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Mind Of A Machine
 2. Science Fiction
@@ -33,7 +33,7 @@ title: 卡爾克雷格——陸上巡航
 9. Home Entertainment
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

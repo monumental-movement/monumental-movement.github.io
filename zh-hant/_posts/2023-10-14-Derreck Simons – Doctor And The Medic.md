@@ -8,14 +8,14 @@ layout: post
 permalink: /zh-hant/derreck-simons-doctor-and-the-medic/
 tags:
 - Euro Beat
-title: 德雷克·西蒙斯——《醫生與醫生》
+title: Derreck Simons – Doctor And The Medic
 ---
 
 
-“德雷克·西蒙斯——醫生與軍醫”
-製作人是戴夫羅傑斯 (Dave Rodgers)，他是一位義大利 Eurobeat 製作人，也是 Eurobeat 廠牌 A.Beat-C 的共同創辦人。
+「Derreck Simons – Doctor And The Medic」の
+プロデューサーは、イタリアのユーロビートプロデューサーでありユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Doctor And The Medic (Dance Power Mix)
 
@@ -26,7 +26,7 @@ B1. Doctor And The Medic (Radio Edit Version)
 B2. Doctor And The Medic (Playback)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m37328991093?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37328991093?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KSWqspFBG-g?si=EVcrBobQY4ygYT2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

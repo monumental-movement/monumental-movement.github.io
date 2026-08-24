@@ -11,16 +11,16 @@ tags:
 - Grunge
 - Alternative Rock
 - 90s
-title: 珍珠醬 – 產量
+title: Pearl Jam – Yield
 ---
 
 
-Pearl Jam是1990年在西雅圖成立的美國搖滾樂隊，他們與Soundgarden、Nirvana一起被稱為20世紀90年代初Grunge運動的主要樂隊，並被稱為“90年代最受歡迎的美國搖滾樂隊”。
+Pearl Jam(パール・ジャム)は、1990年にシアトルで結成されたアメリカのロックバンド。サウンドガーデンやニルヴァーナ等と共に90年代初頭のグランジ運動の主要なバンドとして知られており、「90年代で最も人気のあるアメリカのロックンロールバンド」と言われている。
 
-Pearl Jam 於 1998 年發行的第五張錄音室專輯《Yield》讓人感覺像是回到了樂團早期簡單的搖滾音樂。布倫丹·奧布萊恩 (Brendan O'Brien) 作為製片人參與其中。
+1998年にリリースしたPearl Jam 5枚目のスタジオアルバム「Yield(イールド)」は、バンド初期の率直なロックサウンドへの回帰を感じる仕上がりになっている。プロデューサーとしてBrendan O'Brien(ブレンダン・オブライエン)が参加している。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Brain Of J
 2. Faithful
@@ -37,7 +37,7 @@ Pearl Jam 於 1998 年發行的第五張錄音室專輯《Yield》讓人感覺�
 13. All Those Yesterdays
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vSJ6jYzDOvs?si=XGLtKZ4Zp7UqWTgP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Alternative Rock
 - Rock
 - 80s
-title: 暴力女性－盲人引導裸體
+title: Violent Femmes – The Blind Leading The Naked
 ---
 
 
-Violent Femmes 是一支來自威斯康辛州密爾瓦基的美國民謠龐克樂團。他們被認為是 20 世紀 80 年代地下民謠朋克和另類搖滾場景中不可或缺的一部分，對隨後的運動產生了重大影響，特別是 1980 年代末和 1990 年代的民謠搖滾、獨立搖滾、垃圾搖滾、流行朋克、情緒搖滾和另類搖滾場景。
+Violent Femmes(バイオレントファムズ)は、ウィスコンシン州ミルウォーキー出身のUSフォークパンクバンド。1980年代のアンダーグラウンドフォークパンクとオルタナティヴロックシーンの不可欠なバンドとされており、特にフォークロック、インディーロック、グランジ、ポップパンク、エモ、および1980年代後半から1990年代のオルタナティヴロックシーンにおいて、その後のムーブメントに大きな影響を与えた。
 
-這張專輯於 1986 年發行，是 Violent Femmes 的第三張專輯，由 Talking Heads 的 Jerry Harrison 製作。
+1986年にリリースされたこのアルバムは、Violent Femmes3枚目のアルバムで、Talking Heads(トーキングヘッズ)のJerry Harrison(ジェリー・ハリソン)がプロデュースした。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Old Mother Reagan
 2. No Killing
@@ -35,7 +35,7 @@ Violent Femmes 是一支來自威斯康辛州密爾瓦基的美國民謠龐克�
 13. Two People
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WeTRKMPLxXk?si=XQKkXIEmI4BLQNQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

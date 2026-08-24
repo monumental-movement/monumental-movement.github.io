@@ -10,15 +10,15 @@ tags:
 - Italo
 - Hi NRG
 - Rare
-title: 咕咕——快樂的日子
+title: Coo Coo – Happy Days
 ---
 
 
 Coo Coo（クー・クー）は、Mauro Farina（マウロファリーナ）、Giuliano Crivellente（ジュリアーノクリヴェレンテ）、Florian Fadinger（フロリアンファディンガー）＝F.C.Fがプロデュースした1980年代ユーロビート・ハイエナジーシーンを代表するイタロディスコ・ポップグループ。
 
-《Happy Days》是Coo Coo的標誌性歌曲，由Flea Records於1989年發行。
+「Happy Days（気まぐれハッピー・デイ）」は、1989年にFlea RecordsからリリースされたCoo Cooの代表曲。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Happy Days (Happy And Lovely Version)
 
@@ -29,7 +29,7 @@ B1. Happy Days (Fun Fun Version)
 B2. Happy Days (Playback Version)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m52217858429?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52217858429?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MnRoyp_Rx64?si=o29uiFv2aay1yA8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

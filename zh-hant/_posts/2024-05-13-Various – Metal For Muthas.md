@@ -11,16 +11,16 @@ tags:
 - Heavy Metal
 - Hard Rock
 - 80s
-title: 各種 – Muthas 的金屬
+title: Various – Metal For Muthas
 ---
 
 
-[錄音藝術家]
-Iron Maiden、Sledgehammer、E.F. Band、Toad the Wet Sprocket、Aether the Frog、Angel Witch、Samson、Nuds
+【収録アーティスト】
+アイアン・メイデン、スレッジハンマー、E.F.バンド、トード・ザ・ウェット・スプロケット、エーテル・ザ・フロッグ、エンジェル・ウィッチ、サムソン、ナッズ
 
-一部傑作金屬綜合專輯在日本發行，名為「重金屬邀請」。這張專輯是德國唱片公司 Back Bone 於 1986 年發行的德國重新發行版。
+日本では「ヘヴィメタルへの招待」として発売された名作メタルオムニバス。このアルバムは1986年にドイツのレーベルBack Boneからリリースされた再発ドイツ盤。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Iron Maiden – Sanctuary
 A2. Sledgehammer – Sledgehammer
@@ -34,7 +34,7 @@ B4. Samson – Tomorrow Or Yesterday
 B5. Nutz – Bootliggers
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m55966873928?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55966873928?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a848h5wZrdA?si=k6c6KeQG_F1iA40V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

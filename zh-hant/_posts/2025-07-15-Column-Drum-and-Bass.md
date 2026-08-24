@@ -9,27 +9,27 @@ permalink: /zh-hant/column-drum-and-bass/
 tags:
 - Drum n Bass
 - Jungle
-title: 【專欄】鼓與貝斯的影響：速度與貝斯編織的都市詩學
+title: 【コラム】 Drum & Bassの衝撃：速度と重低音が紡ぐ都市の詩学
 ---
 
 
-## 城市創造的混合節拍
+## 都市が産んだハイブリッド・ビート
 
-文：mmr｜主題：對鼓貝斯/叢林/英國聲音的思考
-
-
-鼓貝斯（D&B）是1990年代初誕生於倫敦地下俱樂部的音樂類型，同時也是多元文化城市生活的節奏。他們結合了快速的碎拍、咆哮的低音線和雷鬼/配音/嘻哈/電子音樂，徹底改變了英國音樂史。
-
-它的演變是令人難以置信的，有許多分支，從叢林、液體放克、科技步到神經放克、跳躍和鼓步。
+文：mmr｜テーマ：Drum & Bass・ジャングル・UKサウンドに関する考察
 
 
-<小時>
+Drum & Bass（以下D&B）は、1990年代初頭のロンドンの地下クラブシーンで生まれた音楽ジャンルであり、同時に多文化的都市生活のリズムそのものである。高速ブレイクビート、唸るようなベースライン、レゲエ／ダブ／ヒップホップ／テクノなどを融合し、UKの音楽史に革新をもたらした。
 
-### 從叢林到 D&B
+その進化は驚異的で、ジャングル、リキッドファンク、テックステップから、ニューロファンク、ジャンプアップ、ドラムステップまで、多くの枝分かれを見せている。
 
-**●1990-1993：叢林運動**
 
-D&B 的根源在於叢林類型。這是一種混亂的節拍音樂，混合了迷幻浩室、銳舞、嘻哈和雷鬼音樂，並以 Amen Break 的取樣為中心。
+<hr>
+
+### ジャングルからD&Bへ
+
+**● 1990〜1993：ジャングルの胎動**
+
+D&Bのルーツはジャングルというジャンルにある。これは、アシッド・ハウス、レイヴ、ヒップホップ、レゲエなどが混ざり合って生まれたカオス的ビート音楽であり、特にアーメン・ブレイク（Amen Break）のサンプリングが中核を成していた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -37,30 +37,30 @@ D&B 的根源在於叢林類型。這是一種混亂的節拍音樂，混合了�
 
 #### 主要人物：
 
-**Rebel MC / Congo Natty**：仍然受到雷鬼根源的強烈影響。
+**Rebel MC / Congo Natty**：レゲエ的ルーツを色濃く残す。
 
-**閉嘴跳舞**：叢林與嘻哈之間的橋樑。
+**Shut Up and Dance**：ジャングルとヒップホップの橋渡し。
 
-**LTJ Bukem**：導致後來的Intelligent D&B。
+**LTJ Bukem**：後のインテリジェントD&Bへとつながる。
 
-#### 1994-1997：
+#### 1994〜1997：
 
-**鼓貝斯成立時期**
+**Drum & Bassの確立期**
 
-從此，「jungle」這個名字逐漸改為「D&B」。這意味著更精緻的聲音、改進的低音和製作技術。它的功能隨著俱樂部音樂的增加和場景的成熟而增加。
+この時期からジャングルという呼称が次第にD&Bへと移行していく。これは、サウンドがより洗練され、サブベースやプロダクション技術が向上したことを意味する。クラブミュージックとしての機能性が高まり、シーンが成熟する。
 
-#### 代表藝術家：
+#### 代表的アーティスト：
 
-**Goldie (Metalheadz)**：透過傑作 [“Timeless”](https://amzn.to/4nMAsF9) 將 D&B 昇華為藝術。
+**Goldie（Metalheadz）**：名作[『Timeless』](https://amzn.to/4nMAsF9)でD&Bを芸術に昇華。
 
-**Roni Size / Reprazent**：憑藉 [``New Forms''](https://amzn.to/3J3I7zN) 獲得水星獎，這是現場表演和爵士樂的融合。
+**Roni Size / Reprazent**：ライブ演奏とジャズの融合を果たした[『New Forms』](https://amzn.to/3J3I7zN)でマーキュリー賞を受賞。
 
-**DJ Hype / Ganja Kru**：跳躍聲音的代表。
+**DJ Hype / Ganja Kru**：ジャンプアップ系サウンドの代表格。
 
 
-<小時>
+<hr>
 
-### 速度、深沉低音和分解的美學
+### 速度・重低音・分解の美学
 
 <div class="table-border">
 <table>
@@ -97,105 +97,105 @@ D&B 的根源在於叢林類型。這是一種混亂的節拍音樂，混合了�
 <br>
 
 
-<小時>
+<hr>
 
-### 子類型：多面的 D&B 世界
+### サブジャンル：多彩な顔を持つD&Bの世界
 
-**● 叢林**
+**● ジャングル（Jungle）**
 
-鄧白氏的起源。以拉格人聲、雷鬼低音和粗暴的休息為特色。
+D&Bの原点。ラガ・ボーカルやレゲエ・ベース、荒削りなブレイクが特徴。
 
-**● 泰步**
+**● テックステップ（Techstep）**
 
-黑暗、工業、無機的聲音。代表包括 Ed Rush & Optical 和 Dom & Roland。
+ダークでインダストリアル、無機質なサウンド。Ed Rush & Optical、Dom & Rolandなどが代表。
 
-**● 神經芬克**
+**● ニューロファンク（Neurofunk）**
 
-技術步驟的演進。主要是緊張和扭曲的低音線。 Noisia、Phace、Mefjus 等
+テックステップの進化形。神経質で歪んだベースラインが中心。Noisia、Phace、Mefjusなど。
 
-**● 液體放克**
+**● リキッドファンク（Liquid Funk）**
 
-融合了爵士樂、靈魂樂和 R&B 元素的柔和風格。口径、高对比度、Netsky。
+ジャズ、ソウル、R&Bの要素を取り入れたメロウなスタイル。Calibre、High Contrast、Netsky。
 
-**● 跳躍**
+**● ジャンプアップ（Jump-Up）**
 
-它具有朗朗上口的低音和簡單的結構，可直接連接到舞池。 DJ Hazard、Sub Zero 等
+キャッチーなベースとシンプルな構造でダンスフロア直結型。DJ Hazard、Sub Zeroなど。
 
-**● 鼓步**
+**● ドラムステップ（Drumstep）**
 
-受半場和迴響貝斯影響的子流派。切除、下行鏈路等
-
-
-<小時>
-
-### 支持鄧白氏的基地
-
-**Metalheadz (Goldie)**：結合了深度和智慧。
-
-**Hospital Records（托尼·科爾曼又名 London Elektricity）**：液體放克的發源地。
-
-**Ram Records (Andy C)**：引領主流。
-
-**Shogun Audio（摩擦）**：支援多種風格。
-
-**Exit Records (dBridge)**：發展實驗性和複雜的聲音。
-
-此外，Pirate Radio、Rinse FM等非官方媒體對D&B的普及也扮演了很大的角色。
+ハーフタイムとダブステップの影響を受けたサブジャンル。Excision、Downlinkなど。
 
 
-<小時>
+<hr>
 
-### 來自英國多元文化城市的音樂
+### D&Bを支えた拠点
 
-D&B 誕生於倫敦和布里斯託等多民族城市，在移民、街頭和銳舞文化的交匯處成長。
+**Metalheadz（Goldie）**：深みと知性を併せ持つ。
 
-**英國黑人影響力**：音響系統文化、雷鬼/配音技術。
+**Hospital Records（Tony Colman aka London Elektricity）**：リキッドファンクの拠点。
 
-**白人工人階級的DIY精神**：海盜電台、獨立廠牌。
+**Ram Records（Andy C）**：メインストリームを牽引。
 
-**與 techno/IDM 的交集**：Squarepusher、Autechre 等開發了 D&B 節奏。
+**Shogun Audio（Friction）**：幅広いスタイルをサポート。
 
+**Exit Records（dBridge）**：実験的かつ洗練された音を展開。
 
-<小時>
-
-### 時尚/生活風格
-
-**俱樂部服**：運動服、尼龍、帽子、運動衫。
-
-**街頭文化**：塗鴉、滑冰與叢林意識形態。
-
-**視覺**：未來主義與賽博龐克。藝術作品也很重要。
+また、Pirate Radio（海賊ラジオ）やRinse FMといった非公式メディアがD&Bの普及に果たした役割も大きい。
 
 
-<小時>
+<hr>
 
-### 全球擴張和分支
+### UK多文化都市の音楽
 
-目前，D&B 是全球貝斯音樂的基礎。場景特別建立在歐洲（奧地利、荷蘭）、北美、日本和澳洲。
+D&Bはロンドンやブリストルといった多民族都市で生まれ、移民文化、ストリートカルチャー、レイヴ文化が交錯する場所で育った。
 
-**● 特色當代藝術家**
+**ブラック・ブリティッシュの影響**： サウンドシステム文化、レゲエ／ダブの手法。
 
-**Noisia（已解散）**：神級製作技術。
+**白人労働者階級のDIY精神**： 海賊ラジオ、インディペンデントレーベル。
 
-**Alix Perez**：一位聲音煉金術士，可以做從配音到半音的所有事情。
-
-**Sub Focus / Wilkinson**：主流與地下之間的連結。
+**テクノ／IDMとの交差**： Squarepusher、AutechreなどがD&B的リズムを展開。
 
 
-<小時>
+<hr>
 
-### 鼓與貝斯是“城市的心跳”
+### ファッション・ライフスタイル
 
-Drum & Bass 不僅僅是俱樂部音樂。這是生活在城市裡的人們的焦慮、希望、速度、緊張和抵抗的節拍。
+**クラブウェア**： スポーツウェア、ナイロン、キャップ、ジャージ。
 
-這種音樂在一個分裂的社會中連結、感動並引發人們思考。一旦你愛上了節奏，D&B 就會開始在你內心流動。
+**ストリート文化**： グラフィティ、スケート、ジャングリストの思想。
+
+**ヴィジュアル**： フューチャリスティックでサイバーパンク的。アートワークも重要。
+
+
+<hr>
+
+### 世界規模への拡張と分岐
+
+現在、D&Bは世界中のベース・ミュージックの基盤として君臨している。特にヨーロッパ（オーストリア、オランダ）、北米、日本、オーストラリアなどでシーンが確立。
+
+**● 注目の現代アーティスト**
+
+**Noisia（解散済）**：神レベルのプロダクション技術。
+
+**Alix Perez**：ダブ〜ハーフステップまでこなす音の錬金術師。
+
+**Sub Focus / Wilkinson**：メインストリームとアンダーグラウンドを繋ぐ存在。
+
+
+<hr>
+
+### Drum & Bassとは“都市の心拍”である
+
+Drum & Bassは、単なるクラブ・ミュージックではない。それは都市に生きる人間たちの不安、希望、スピード、緊張、そして抵抗のビートである。
+
+この音楽は、分断された社会の中で人々をつなげ、動かし、考えさせる。ひとたびそのリズムに魅せられたなら、あなたの中にもD&Bが流れ始めるだろう。
 
 ---
 
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/noLmuh3Jqic?si=HcbwXEvhUgEr2fHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -9,15 +9,15 @@ permalink: /zh-hant/dario-g-carnaval-de-paris/
 tags:
 - House
 - Latin
-title: 達裡奧G – 巴黎嘉年華
+title: Dario G – Carnaval De Paris
 ---
 
 
-Dario G 是英國 DJ/製作人 Paul Spencer 的舞曲音樂計畫。
+Dario G（ダリオG）は、UKのDJ/プロデューサーPaul Spencer（ポール・スペンサー）によるダンスミュージックプロジェクト。
 
-A面的第二首曲目是由達倫·皮爾斯（Darren Pearce）和朱利安·納波利塔諾（Julian Napolitano）組成的JDS樂隊混音的。 B面是英國DJ/製作人/混音師Tall Paul（Paul Newman，也稱為Camisra）的混音。
+A面２曲目はDarren PearceとJulian Napolitanoによるユニット、JDSによるremix。B面は、UKのDJ/プロデューサー/リミキサーTall Paul（Paul Newman/ポール・ニューマン　別名義：Camisra/カミスラ）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Carnaval De Paris (SRS Mix)
 
@@ -26,7 +26,7 @@ A2. Carnaval De Paris (JDS 6" Mix)
 B. Carnaval De Paris (Tall Paul Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m16971968929?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16971968929?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYyoGwjIejU?si=k8Ds4fTwOXlRk5QO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

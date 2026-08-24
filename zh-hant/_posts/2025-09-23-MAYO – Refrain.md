@@ -11,13 +11,13 @@ tags:
 - Disco
 - City Pop
 - 70s
-title: Mayo Shono – 副歌 M·A·Y·O – 副歌
+title: 庄野真代 – ルフラン M・A・Y・O – Refrain
 ---
 
 
-《Reflan》是莊野真夜的第四張原創專輯，其中收錄了她的代表曲《Flying to Istanbul》（由堤恭平作曲）。 City Pop 由 Nippon Columbia 的子廠牌 Nippon Columbia 於 1978 年發行。
+「ルフラン」は、代表曲『飛んでイスタンブール』(作曲：筒美京平)が収録された、庄野真代の4枚目のオリジナルアルバム。日本コロムビアのサブレーベル日本コロムビアから1978年にリリースされたCity Pop。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. 風の街角
 A2. 昨日に乾杯
@@ -33,7 +33,7 @@ B4. 街に疲れて
 B5. ルフラン
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GDTniYWJk1U?si=akjdin9ocwSk9GeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

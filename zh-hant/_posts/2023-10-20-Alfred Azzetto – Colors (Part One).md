@@ -8,22 +8,22 @@ layout: post
 permalink: /zh-hant/alfred-azzetto-colors-part-one/
 tags:
 - House
-title: Alfred Azzetto – 顏色（第一部分）
+title: Alfred Azzetto – Colors (Part One)
 ---
 
 
-Alfred Azzetto 是一位 house 音樂製作人和 DJ。他也以《DB Boulevard》的製作人而聞名，其 2002 年發行的《Point of View》風靡全球。
+Alfred Azzettoは、ハウスミュージックプロデューサー・DJ。2002年リリースの「Point of View」が世界的ヒットとなったDB Boulevardのプロデューサーとしても有名。
 
-「Alfred Azzetto – Colors (Part One)」取樣了 Wilbert Longmire 於 1978 年發行的「Black Is the Color」。它於 2007 年由瑞士車庫廠牌 Purple Music 發行。
+「Alfred Azzetto – Colors (Part One)」は、1978年リリースのWilbert Longmire「Black Is the Color」をサンプリング。スイスのガレージレーベルPurple Musicより2007年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Colors (Walterino Main Mix)
 
 B. Colors (Alfred's Piano Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m72277484543?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72277484543?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QYU9t80FeKc?si=NWecrLJaZ3uUb3pB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

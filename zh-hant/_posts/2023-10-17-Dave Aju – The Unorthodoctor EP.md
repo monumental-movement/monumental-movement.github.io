@@ -9,16 +9,16 @@ permalink: /zh-hant/dave-aju-the-unorthodoctor-ep/
 tags:
 - House
 - Tech House
-title: Dave Aju – 非正統醫師 EP
+title: Dave Aju – The Unorthodoctor EP
 ---
 
 
-Marc Barrite，也稱為 Dave Aju，是一位居住在舊金山的美國 DJ/製作人。
+Dave AjuことMarc Barriteは、サンフランシスコに拠点活動するアメリカのDJ/プロデューサー。
 「The Unorthodoctor EP」はフランスのレーベルCircus Companyより2003年にリリースされたDave Ajuのデビュー作。
 
-Dave Aju 還與 Alland Byallo、Kenneth Scott 和 Marc Smith 一起扮演 Kamm。
+Dave Ajuは、Alland Byallo、Kenneth Scott、Marc Smithと共にKammとしても活動中。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Smog Check
 
@@ -29,7 +29,7 @@ B1. Sourmash
 B2. Talk Shows
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m44121616957?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44121616957?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o7wiOuOWol8?si=KXWPOW-DvCGUD9xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

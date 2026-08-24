@@ -11,15 +11,15 @@ tags:
 - Garage House
 - UK House
 - House
-title: 丹尼克拉克 (Danny Clark) 和傑伊本納姆 (Jay Benham) 主演卡拉普拉瑟 (Carla Prather) – 《Into You》
+title: Danny Clark & Jay Benham Featuring Carla Prather – Into You
 ---
 
 
-英國 house 音樂製作人 Danny Clark 和 Jay Benham 創作的一首 Deep house/garage house 歌曲，由聲樂製作人 Carla Prather 擔綱演出，Carla Prather 曾與 MR. 等許多藝術家合作過。阿里、昆汀哈里斯、維克拉文德、LOFTSOUL 和 DJ SPEN。
+MR. ALIやQUENTIN HARRIS、VICK LAVENDER、LOFTSOUL、DJ SPENなど数多くのアーティストとコラボしているヴォーカルプロデューサーCarla Pratherをフィーチャーした、UKハウスミュージックプロデューサーDanny Clark & Jay Benhamによるディープハウス・ガラージハウストラック。
 
-《Into You》於 2010 年在由 Danny Clark 和 Jay Benham 經營的 Solid Ground Recordings 發行。
+「Into You」は、Danny Clark & Jay Benhamが運営するSolid Ground Recordingsから2010年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Into You (Original Mix)
 A2. Into You (MuthaFunkaz Mix)
@@ -28,7 +28,7 @@ B1. Into You (Ray Jones Mix)
 B2. Into You (Animal House Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m15102745172?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15102745172?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j83LVLU8_pA?si=eBqbfZRVKCuxpkC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

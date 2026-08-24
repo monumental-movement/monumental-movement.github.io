@@ -9,17 +9,17 @@ permalink: /zh-hant/takehana-and-golden-lotus-samurai-step/
 tags:
 - Abstract
 - Jazz
-title: 竹花與金蓮花 - 武士步
+title: Takehana and Golden Lotus - Samurai Step
 ---
 
 
-《Samurai Step》是由日本製作人 Takehana 和美國製作人/DJ Golden Lotus 共同製作的曲目。
+「Samurai Step」は、日本のプロデューサー であるTakehana （タケハナ）とアメリカのプロデューサー/DJのGolden Lotus（ゴールデン・ロータス）が共同制作したトラックです。
 
-這首曲目以電子音樂流派貝斯音樂為基礎，結合了重低音線、有節奏的鼓模式、效果和取樣等充滿活力和動態的元素。旋律和聲音讓人想起日本傳統音樂和武士文化，賦予歌曲獨特的氛圍。
+エレクトロニックミュージックのジャンルであるベースミュージックを基盤にしたトラックは、重いベースライン、リズミカルなドラムパターン、エフェクト、サンプリングなど、エネルギッシュでダイナミックな要素が組み合わさっています。日本の伝統的な音楽やサムライ文化を彷彿とさせるメロディやサウンドが、曲に特徴的な雰囲気を与えています。
 
-《Samurai Step》是電子音樂迷和藝術家的最愛。他們的音樂透過日本文化與當代音樂場景的融合提供了新的視角和音樂體驗。
+「Samurai Step」は、エレクトロニックミュージックファンやアーティストにとって人気の作品です。彼らの音楽は、日本の文化や現代の音楽シーンの融合を通じて、新たな視点や音楽体験を提供しています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A  Steppen Step
 
@@ -28,5 +28,5 @@ B1  Cut Up
 B2  Cut Up (Sampling Collage Art)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
 

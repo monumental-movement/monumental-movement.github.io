@@ -9,13 +9,13 @@ permalink: /zh-hant/the-go-find-over-the-edge-vs-what-i-want/
 tags:
 - House
 - Electro
-title: Go Find – 越過邊緣與。我想要什麼
+title: The Go Find – Over The Edge Vs. What I Want
 ---
 
 
-The Go Find 是由 Dieter Sermeus 領導的比利時獨立流行樂團。他們的音樂融合了流行元素和浩室電子編曲，具有獨特的魅力。
+The Go Findは、Dieter Sermeus主宰のベルギーのインディーポップバンドです。彼らの音楽は、ポップな要素とハウス&エレクトロニックなアレンジの融合によって独自の魅力を持っています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  Over The Edge
 
@@ -26,7 +26,7 @@ B1  What I Want
 B2  What I Want (Styrofoam's Perfect Time Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m17995961723?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17995961723?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-meqMlaP-S4?si=tYzaNyPxf4rPlJ89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

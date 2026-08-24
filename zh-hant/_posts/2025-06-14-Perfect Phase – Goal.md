@@ -11,26 +11,26 @@ tags:
 - House
 - Hard House
 - 00s
-title: 完美階段——進球！ ！ ！
+title: Perfect Phase – Goal!!!
 ---
 
 
-Perfect Phase 是 Freek Fontein (The Freak) 和 Willem Faber (Mac Zimms) 的一個項目，他們是自 20 世紀 80 年代以來一直活躍的荷蘭 techno、trance 和 Hard house DJ 和製作人。
+Perfect Phase は、1980年代から活動するオランダのテクノ、トランス、ハードハウスのDJ、プロデューサー、Freek Fontein(The Freak)とWillem Faber(Mac Zimms)によるプロジェクト。
 
-這張唱片是荷蘭舞曲廠牌 2-Play 於 2000 年發行的 House/HardHouse 曲目。
+このレコードは、2000年にオランダのダンスレーベル2-PlayかリリースされたHouse ・HardHouseトラック。
 
-這件夾克的設計者是 Dennis Harinck（又名 Deaz D.），他是荷蘭 Locomotion 俱樂部的成員。
+ジャケットデザインは、オランダのクラブLocomotionのレジデントとして活躍したDeaz D.ことDennis Harinckが手がけた。
 
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Goal!!!
 
 B. Chicky Chicky
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m17344233907?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17344233907?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MUPvmCzzj54?si=wUBgAlZ5lNTllQrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

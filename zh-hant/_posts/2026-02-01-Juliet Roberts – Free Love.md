@@ -10,16 +10,16 @@ tags:
 - Garage House
 - House
 - 90s
-title: 茱麗葉羅伯茲－自由愛情
+title: Juliet Roberts – Free Love
 ---
 
 
 
-Juliet Roberts 是英國爵士/搖滾/靈魂樂/浩室音樂歌手，自 20 世紀 80 年代以來一直活躍。 1984年至1988年，他擔任爵士樂隊Working Week的主唱，1990年左右，他與英國浩室樂隊L.A. Mix合作了兩張專輯。
+Juliet Robertsは、1980年代から活動するUKのジャズ／ロック／ソウル／ハウスミュージック・シンガー。1984年〜1988年はジャズグループWorking Weekのヴォーカルとして活動し、1990年頃にはイギリスのハウスグループL.A.Mixの2枚のアルバムでコラボレーションしている。
 
-《Free Love》是一首 Garage House 歌曲，由舞蹈廠牌 Slam Jam Records 於 1992 年發行。
+「Free Love」は、1992年にダンスレーベルSlam Jam RecordsからリリースされたGarage Houseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Free Love (Monster Club)
 A2. Free Love (Dan's Dub)
@@ -31,7 +31,7 @@ B3. Free Love (Bonus Beats)
 B4. Free Love (Accapella)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m56538511188?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56538511188?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/97Sb6EsD8JM?si=DUg-KL_T74A5N5vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

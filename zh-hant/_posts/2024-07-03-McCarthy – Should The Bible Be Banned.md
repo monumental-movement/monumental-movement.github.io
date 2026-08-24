@@ -18,7 +18,7 @@ McCarthy(マッカーシー)は、1985年から1990年まで活動したイギ�
 
 「Should The Bible Be Banned?」はUKのレーベルSeptemberから1998年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Should The Bible Be Banned?
 

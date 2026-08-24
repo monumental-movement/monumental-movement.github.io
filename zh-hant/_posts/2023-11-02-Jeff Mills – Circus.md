@@ -11,27 +11,27 @@ tags:
 - Detroit Techno
 - Tribal
 - 90s
-title: 傑夫米爾斯 – 馬戲團
+title: Jeff Mills – Circus
 ---
 
 
 
-傑夫·米爾斯（Jeff Mills）（也被稱為“巫師”）是美國領先的電子音樂先驅之一。
+ジェフ・ミルズ (「ザ・ウィザード」としても知られる) は、アメリカを代表するテクノミュージックの先駆者の一人です。
 
-他追求硬朗、極簡的聲音，並以甚至帶有工業感的 DJ 表演而聞名。
+彼は、ハードでミニマルなサウンドを追求し、インダストリアルな雰囲気すら漂わせるDJプレイで知られています。
 
-他是底特律才華橫溢的藝術家群體中的一員，他們贏得了國際讚譽，在世界各地的俱樂部和藝術空間表演。
+デトロイトが生んだ才能あるアーティストの一員として、世界中のクラブやアートスペースで演奏を行い、国際的な評価を得ています。
 
-他也經營自己的廠牌「Axis」及其子廠牌。
+また、自身のレーベル「Axis」とそのサブレーベルを運営しています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Circus (The Greatest Show On Earth Mix)
 
 B. Circus (The Big Finale Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

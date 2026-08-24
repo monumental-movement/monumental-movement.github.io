@@ -11,15 +11,15 @@ tags:
 - Thai Rock
 - Folk
 - 80s
-title: Carabao – 泰國製造 Vol.5
+title: Carabao – Made In Thailand Vol.5
 ---
 
 
-Carabao於1982年由Yuanyong Opakul（又稱Aed）和Kirati Promsaka Na Sakon Nakhon在菲律賓組建，是一支在泰國和其他亞洲國家非常受歡迎的泰國搖滾樂團。
+Yuanyong Opakul(ユンヨン・オーパークン/ 別名エート・カラバオ(Aed)) と Kirati Promsaka Na Sakon Nakhon (キラティ・プロムサカ・ナ・サコン・ナコーン)  により1982年にフィリピンで結成されたCarabao (カラバオ) は、タイやアジア諸国で非常に人気のあるタイのロックバンド。
 
-《Made in Thai》是卡拉寶於1984年（泰曆2527）發行的第五張專輯，是卡拉寶的代表作，該專輯一炮而紅，共售出500萬張。
+「メイドインタイランド」は1984年（タイ暦2527年）にリリースされたカラバオの5枚目のアルバムで、通算500万枚を売り上げる大ヒットとなったカラバオの代表作。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1: Made In Thailand
 A2: Mahaalai
@@ -34,7 +34,7 @@ B4: Refugee
 B5: Bua Looi (Thyk Kwai tui 5)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m90196918121?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90196918121?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7o8wlyf8l0k?si=vLFVGwSGLKvEH-uj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

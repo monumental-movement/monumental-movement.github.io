@@ -9,23 +9,23 @@ permalink: /zh-hant/kalim-shabazz-peak-bomb/
 tags:
 - House
 - Minimal
-title: Kalim Shabazz – 巔峰炸彈
+title: Kalim Shabazz – Peak Bomb
 ---
 
 
-Kalim Shabazz 是一位駐紐約的 DJ 兼製作人。尼克瓊斯的靈魂樂章
-也以《靈魂時刻》的身份活躍。
+Kalim Shabazz（カリム・シャバズ）は、ニューヨークを拠点とするDJ兼プロデューサー。Nick Jones（ニック ジョーンズ）と共にSoul Movement
+（Moments Of Soul）としても活動。
 
-B 面是 Michael Vater（又名 Phonique）的混音版，他是一位出生於德國、現居柏林的 house DJ/製作人。
+B面は、ドイツ出身でベルリンを拠点に活動するハウスDJ/プロデューサー Phonique(フォニック）ことMichael Vaterによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Peak Bomb (Original Mix)
 
 B. Peak Bomb (Phonique Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m35106793909?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35106793909?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cZ8c216Rq7o?si=F8coC7yOKqYSh_8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,15 +9,15 @@ permalink: /zh-hant/mijk-van-dijk-glow/
 tags:
 - Trance
 - 90s
-title: Mijk Van Dijk – 發光
+title: Mijk Van Dijk – Glow
 ---
 
 
-Mijk Van Dijk 是德國 techno 製作人和 DJ，自 20 世紀 90 年代以來一直活躍。
+Mijk Van Dijk(マイク・ヴァン・ダイク)は1990年代から活躍するドイツ出身テクノ プロデューサー・DJ。
 
-1997 年，德國唱片公司 Superstition 發行了《Glow》，其中歌曲的靈感來自《攻殼機動隊》中士郎正宗的角色。
+1997年にドイツのレーベルSuperstition(スーパースティション)からリリースされた「Glow」は士郎正宗の『攻殻機動隊』の登場人物からインスピレーションを受けて制作した曲が収録されている。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Sound & Thought & Vision
 2. I Constantly Invent Myself
@@ -33,7 +33,7 @@ Mijk Van Dijk 是德國 techno 製作人和 DJ，自 20 世紀 90 年代以來�
 12. Shelter
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m32091016905?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32091016905?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8qbIM37r938?si=D0GX3ZPSVvW5Sp7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

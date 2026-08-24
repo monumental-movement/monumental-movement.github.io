@@ -10,15 +10,15 @@ tags:
 - Latin
 - Jazz
 - Techno
-title: 安德烈亞斯·薩格 – 爵士樂課
+title: Andreas Saag – Jazz Lesson
 ---
 
 
-它於 2002 年在瑞典唱片公司“SLS”上發行。
+2002年にスウェーデンのレーベル「SLS」からリリースされました。
 
-與 SLS 的標誌性聲音令人驚訝的是，它是爵士樂，由 Saag 提供優美的三角鋼琴驅動的曲目。
+SLSのトレードマークサウンドとは驚くほど異なり、Saagが美しく壮大なピアノを中心にした素晴らしいトラックを提供しているジャズです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Get It On
 
@@ -28,7 +28,7 @@ B2. Release The Groove
 Saxophone – Paul Lachenardière
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61195637285?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61195637285?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nW8bTY66AGk?si=osWlvw3Bq5W_Vzqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

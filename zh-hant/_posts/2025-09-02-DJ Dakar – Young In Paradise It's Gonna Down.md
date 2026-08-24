@@ -14,20 +14,20 @@ title: DJ Dakar – Young In Paradise / It's Gonna Down
 ---
 
 
-Christian Kreuz，也被稱為 DJ Dakar，自 20 世紀 90 年代末以來一直駐紮在德國慕尼黑，作為 Dakar & Grinser 部門的一部分，並且是“Ultraschall”俱樂部的常駐 DJ。 2001 年 Dakar & Grinser 暫時解散後，他開始單飛。
+DJ Dakar こと Christian Kreuz は、ユニットDakar & Grinserとして、1990年代後半からドイツ・ミュンヘンを拠点に活動し、クラブ「Ultraschall」のレジデントDJを務めた。2001年にDakar & Grinserが一時解散するとソロに転向。
 
-2003 年，他以個人專輯《Diktatur Des Kapitals》首次亮相，並於 2006 年創立了自己的廠牌 Shotgun Recordings。
+2003年にソロ・アルバム『Diktatur Des Kapitals』でメジャー・デビューし、2006年には自身のレーベルShotgun Recordings を設立した。
 
-2007 年發行的「Young In Paradise / It's Gonna Down」是一首廣受好評的 House/Deep House/Tech House 曲目。 《Young In Paradise》也收錄在 DJ Linus 的合輯中。
+2007年にリリースした「Young In Paradise / It's Gonna Down」は、高い評価を得たHouse／Deep House／Tech Houseトラック。「Young In Paradise」はDJ Linus によるコンピレーションにも収録されている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Young In Paradise
 
 B. It's Gonna Down
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m82290413116?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82290413116?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vto7YaCgvak?si=Gp_AENGprCuhG0P5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

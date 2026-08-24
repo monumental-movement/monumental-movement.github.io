@@ -11,14 +11,14 @@ tags:
 - House
 - Big Beat
 - 00s
-title: 化學兄弟 – 單打 93-03
+title: The Chemical Brothers – Singles 93-03
 ---
 
 
-《Singles 93–03》是紀念英國電子音樂雙人組The Chemical Brothers成立10週年的最佳單曲收藏專輯，於2003年發行。這張專輯收錄了1993年至2003年期間發行的單曲集。附有僅在初次製作時附帶的特別貼紙。
+「Singles 93–03」は、2003年にリリースされたUKエレクトロニックミュージックデュオThe Chemical Brothers結成10周年を記念して、1993年から2003年までにリリースしたシングルをピックアップしたシングルコレクション・ベストアルバム。初回生産分のみ同封される特製ステッカー付き。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Song To The Siren
 2. Chemical Beats
@@ -36,7 +36,7 @@ title: 化學兄弟 – 單打 93-03
 14. The Golden Path
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m84833515044?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84833515044?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-dnwFRs6OA?si=KLkB6BFj9DXx4ab_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

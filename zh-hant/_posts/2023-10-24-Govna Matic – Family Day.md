@@ -9,20 +9,20 @@ permalink: /zh-hant/govna-matic-family-day/
 tags:
 - Hiphop
 - Hardcore
-title: 戈夫納馬蒂奇——家庭日
+title: Govna Matic – Family Day
 ---
 
 
-Govna Matic 是 Diezzle Don & Tha Governer 中 Gov Matic（Tha Governer）的別稱。這張唱片的成員包括 Redman、Pacewon、Roz、Runt Dog、Tame One、Young Zee、Commander Jesse 等。
+Govna Maticは、Diezzle Don & Tha GovernerのGov Mattic（Tha Governer）の別名義。このレコードでは、Redman、Pacewon、Roz、Runt Dog、Tame One、Young Zee、Commander Jesseなどが参加。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Family Day (Dirty Version)
 
 B. Vision (Dirty Version)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m48545639837?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48545639837?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sju4NK2M-jM?si=-xwJA1ZwhUfsLxef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

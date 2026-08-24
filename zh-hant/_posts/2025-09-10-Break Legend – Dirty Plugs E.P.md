@@ -11,23 +11,23 @@ tags:
 - Breakbeat
 - Breaks
 - 00s
-title: Break Legend – 髒插頭 E.P.
+title: Break Legend – Dirty Plugs E.P.
 ---
 
 
-Break Legend 是義大利 DJ/製作人 Enrico Ferrari（也稱為 BSJ）的專案之一。
+Break Legendは、BSJの名でも知られるイタリアのDJ／プロデューサーEnrico Ferrari(エンリコ・フェラーリ)のプロジェクトの一つ。
 
-Progressive Breaks/Breakbeat/Breaks 於 2004 年在 Tech-Breaks 廠牌 Mantra Breaks 和義大利 House/Deep House 廠牌 Mantra Vibes 上發行。
+Tech-Breaks レーベルMantra Breaks とItalian House / Deep HouseレーベルMantra Vibes から2004年にリリースされたProgressive Breaks／Breakbeat／Breaks。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Lychees
 
 B. This Is The City
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m44728597538?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44728597538?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWUh6Ma1i5o?si=c9m8EFUJ8GtU_IqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

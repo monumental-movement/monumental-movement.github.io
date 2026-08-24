@@ -9,22 +9,22 @@ permalink: /zh-hant/curan-stone-pin-up-girl/
 tags:
 - House
 - 00s
-title: 庫蘭史東 – 海報女郎
+title: Curan Stone – Pin-Up Girl
 ---
 
 
-Curan Stone 是美國 house DJ/製作人 Curtis Alan Jones，更廣為人知的名字是 Green Velvet。他也以 Cajmere、Geo Vogt、Half Pint 和 Gino Vittori 等名義進行工作。
+Curan Stoneは、Green Velvet名義で知られるアメリカのHouse DJ／プロデューサー Curtis Alan Jones。Cajmere, Geo Vogt, Half Pint, Gino Vittori名義でも活動している。
 
-《Pin-Up Girl》是一首 House 歌曲，於 2003 年在他自己的唱片公司 Relief Records 上發行。
+「Pin-Up Girl」は、2003年自身のレーベルRelief RecordsかたリリースしたHouseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Pin-Up Girl
 
 B. Pin-Up Girl (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m10741545314?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10741545314?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SCaeZUIRJzA?si=7pmIlEN7Oyuoj4iC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

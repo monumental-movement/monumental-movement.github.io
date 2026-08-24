@@ -10,29 +10,29 @@ tags:
 - Experimental
 - Collage
 - 10inch
-title: Stock、Hausen 和 Walkman – 通風鹿
+title: Stock, Hausen & Walkman – Ventilating Deer
 ---
 
 
-Stock, Hausen & Walkman（Stock, Hausen & Walkman）是一支代表90年代的英國採樣拼貼音樂團體。
+Stock, Hausen & Walkman (ストック、ハウゼン & ウォークマン)は、90年代を代表するUKサンプリング・コラージュ・ミュージックユニット。
 
-樂團的名字「Stock, Hausen & Walkman」（1991-2001）是對電子音樂先驅 Karlheinz Stockhausen、80 年代大量生產的流行藝術家 Stock Aitken Waterman 和索尼 Walkman 的模仿。
+ストック、ハウゼン & ウォークマン (1991-2001)というバンド名は、電子音楽のパイオニアであるカールハインツ・シュトックハウゼン、80年代の量産型ポップスを手がけたストック・エイトキン・ウォーターマン、そしてソニーのウォークマンを掛け合わせたものだ。
 
-當他們在 20 世紀 80 年代末首次組建時，他們是由 Matt Wand（樂隊的教父兼創始人）和吉他手 Rex Caswell 組成的實驗性即興二人組。
+結成当初の1980年代後半は、マット・ワンド (バンド名付け親かつ創設者) とギタリストのレックス・カスウェルによる実験即興デュオでした。
 
-在活動期間，大提琴手丹·韋弗（Dan Weaver）以及鼓手理查德·哈里森（Richard Harrison）和安德魯·夏普利（Andrew Sharpley）參加了現場表演和錄音室表演。
+活動中には、チェロのダン・ウィーバー、ドラマーのリチャード・ハリスン、アンドリュー・シャープリーらがライブやスタジオで参加。 
 
-1990年，他也應德瑞克·貝利的要求出現在《公司週刊》上。
+1990年には、デレク・ベイリーの要請で「カンパニー・ウィーク」にも出演。
 
-即使卡斯韋爾搬到丹麥，韋弗因舞蹈和戲劇工作而暫停錄音，旺德仍然繼續工作並製作了也許是他們最成功的專輯《器官移植卷》。 1 & 2. 夏普利也在音樂上做出了貢獻。
+カスウェルがデンマークに移住し、ウィーバーがダンスや演劇の仕事でレコーディング休止になった後も、ワンドを中心として活動は続き、恐らく最も成功したアルバム「Organ Transplants vol.1 & 2」が制作された。 シャープリーも音楽面で貢献している。 
 
-Wand 創立並經營 Hot Air Records 以推廣 S、H&W 唱片，並發行了大量自己以及廠牌其他藝人的作品。
+ワンドは、S,H&W レコードを世に出すために Hot Air Recordsを設立・運営し、同レーベルで自分たちの作品だけでなく、他のアーティストの作品も幅広くリリースした。
 
-目前，他繼續經營該廠牌並策劃、設計和製作專輯。
+現在もレーベルを続け、アルバムの企画、デザイン、プロデュースを行っている。 
 
-儘管該計畫於 2001 年結束，Wand 仍繼續在 Hot Air 上發布「有趣的」S、H&W 檔案資料。
+2001年にプロジェクトは終了したが、ワンドは Hot Air から「興味深い」S,H&W のアーカイブ・マテリアルをリリースし続けている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Sleep
 
@@ -55,7 +55,7 @@ B4. Skipper
 B5. Flagging
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86169877187?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86169877187?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/maYl0-KHSl0?si=ujk3exYDzMOCpngl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

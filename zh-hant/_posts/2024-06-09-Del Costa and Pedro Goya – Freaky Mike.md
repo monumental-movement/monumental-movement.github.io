@@ -10,24 +10,24 @@ tags:
 - Electro
 - Tech House
 - 00s
-title: 德爾科斯塔 & 佩德羅·戈雅 – 《怪異麥克》
+title: Del Costa & Pedro Goya – Freaky Mike
 ---
 
 
-葡萄牙電子音樂界的兩位重量級人物佩德羅·戈雅 (Pedro Goya) 和德爾·科斯塔 (Del Costa) 偉大的二人組在 Yoyaku、Ubiyu、Different Heads 和 Classic Music Company 等著名唱片公司發行了大量作品，這是一首電子科技浩室曲目。
+Yoyaku、Ubiyu、Different Heads、Classic Music Company など有名レーベルから多数の作品をリリースしているポルトガルのエレクトロニックミュージック界の重鎮 Pedro GoyaとDel Costa の名コンビ によるエレクトロ・テックハウストラック。
 
-《Freaky Mike》於 2003 年在 DJ Linus 創立的德國品牌 Exun 發行。
+「Freaky Mike」は、DJ Linusによって設立されたドイツのハウスレーベルExun から2003年にリリースされた。
 
-B 面是 DJ All Star (Alexander Maier) 和 Don Disco 的混音版。
+B面は、DJ All Star（Alexander Maier）と Don Discoによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Freaky Mike (Original Cut)
 
 B. Freaky Mike (DJ All Star & Don Disco Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

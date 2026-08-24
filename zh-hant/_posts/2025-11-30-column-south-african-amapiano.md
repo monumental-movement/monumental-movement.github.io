@@ -10,18 +10,18 @@ permalink: /zh-hant/column-south-african-amapiano/
 tags:
 - African
 - History
-title: 【專欄】南非Amapiano－來自南非的新舞曲文化
+title: 【コラム】 South African Amapiano — 南アフリカ発の新たなダンスミュージック文化
 ---
 
 
 
-## 簡介 — 現在為什麼選擇 Amapiano？
+## はじめに — なぜ今 Amapiano か
 
-文：mmr｜主題：阿皮亞諾的起源、音樂特徵、發展歷史、主要藝術家、國際化進程
+文：mmr｜テーマ：Amapiano の起源、音楽的特徴、発展の歴史、主要アーティスト、国際化の過程について
 
-近年來，起源於南非的舞曲**Amapiano**不僅在日本，而且在非洲、歐洲、北美和亞洲的俱樂部場景中受到關注。
+近年、南アフリカ発のダンスミュージックジャンル **Amapiano（アマピアノ）** は、国内のみならずアフリカ全土やヨーロッパ、北米、アジアのクラブシーンでも注目を集めています。
 
-阿皮亞諾是一種草根音樂，誕生於鄉鎮（低收入城市地區）的青年文化，並在當地社區中培養。自 2020 年代以來，串流媒體和 SNS 的傳播將曾經的「地下音樂」轉變為全球運動。
+Amapiano は、タウンシップ（都市の低所得地区）を中心とした若者文化から生まれ、地域コミュニティの中で育まれてきた草の根的な音楽です。2020年代以降、ストリーミングやSNSの普及により、かつての「地下音楽」は世界規模のムーブメントへと変貌しています。
 
 ---
 
@@ -39,33 +39,33 @@ color: #fff;
 </style>
 
 
-## 第一章：起源與音樂根源
+## 第1章：起源と音楽的ルーツ
 
-### 作為一種音樂流派的背景
+### 音楽ジャンルとしての背景
 
-阿皮亞諾受到以下流派的影響：
+Amapiano は、以下のジャンルの影響を受けています：
 
-* **Kwaito**：20 世紀 90 年代在南非城市地區流行的舞曲/浩室音樂。
-* **Gqom**：源自德班的社團音樂
-* **深屋、爵士、酒廊、靈魂樂/R&B**
+* **Kwaito（クワイト）**：1990年代に南アフリカの都市部で流行したダンス／ハウス系音楽
+* **Gqom**：ダーバン発祥のクラブミュージック
+* **ディープハウス、ジャズ、ラウンジ、ソウル／R&B**
 
-特別是，透過鄉鎮俱樂部、街頭派對、出租車站等進行的社區外展在阿皮亞諾的誕生中發揮了重要作用。
+特に、タウンシップでのクラブ、ストリートパーティ、タクシーランクなどを通じたコミュニティ発信が、Amapiano の誕生に重要な役割を果たしました。
 
-### 聲學特性
+### 音響的特徴
 
-Amapiano 的聲音由以下元素組成：
+Amapiano のサウンドは、以下の要素から構成されます：
 
-* **原木鼓**：混合低音和木質打擊樂的獨特聲音。
-* **鋼琴/鍵盤**：流派名稱“Amapiano”在祖魯語中的意思是“鋼琴”
-* **不引人注目的鼓和振動器**：利用停頓和空白的節奏結構
-* **節奏**：慢節奏，約 110–120 BPM
-* **聲樂**：唱歌、饒舌、合唱等多種風格。
+* **ログドラム（Log Drum）**：低音ベースと木質パーカッションが混ざった特徴的なサウンド
+* **ピアノ／キーボード**：ジャンル名「Amapiano」はズールー語で「ピアノたち」を意味
+* **控えめなドラムやシェイカー**：間や余白を活かしたリズム構造
+* **テンポ**：110–120 BPM 程度のスローグルーヴ
+* **ボーカル**：歌、ラップ、合唱など多様なスタイル
 
-這些元素結合在一起發展出了表達鄉鎮俱樂部和街道青年文化的音樂。
+これらの要素が重なり合い、タウンシップのクラブやストリートでの若者文化を表現する音楽として発展しました。
 
 ---
 
-### 圖1：Amapiano聲音結構
+### 図1：Amapiano の音の構造
 
 <div class="mermaid">
 graph LR
@@ -79,25 +79,25 @@ graph LR
 
 ---
 
-## 第 2 章：出生與早期發展（2010 年代初至中期）
+## 第2章：誕生と初期の発展（2010年代前半〜中盤）
 
-### 地理和時間
+### 地理と時期
 
-阿皮亞諾的出生地是南非豪登省。尤其重要的是**約翰尼斯堡**和**比勒陀利亞**的城鎮。
+Amapiano の発祥地は南アフリカの **ガウテン州（Gauteng）**。特に **ヨハネスブルグ（Johannesburg）** や **プレトリア（Pretoria）** のタウンシップが重要な舞台です。
 
-據多方消息稱，Amapiano 的實驗於 2012 年左右開始，隨後確立了「Amapiano」這一流派的統一名稱。
+複数の資料によれば、2012年ごろから Amapiano の実験が始まっており、ジャンルとしての統一名称「Amapiano」は後から定着しました。
 
-### 先鋒和領域的形成
+### パイオニアと場の形成
 
-* **MFR Souls (Tumelo Nedondwe and Tumelo Mabe)** 為早期 Amapiano 的形成做出了貢獻
-* 聲音在朋友之間分享，並透過 WhatsApp、俱樂部、派對和計程車候客站傳播。
-* 這種 DIY/草根傳播成為該流派建立的基礎。
+* **MFR Souls（Tumelo Nedondwe & Tumelo Mabe）** が初期 Amapiano の形成に貢献
+* 音源は仲間内で共有され、WhatsApp やクラブ、パーティ、タクシーランクを介して広がる
+* この DIY／草の根的な広がりが、ジャンル確立の土壌となった
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dx62kohEnsg?si=9J2-_DUYJlzvfs5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 圖 2：出生地與最初傳播
+### 図2：発祥地と初期拡散
 
 <div class="mermaid">
 graph TD
@@ -111,38 +111,38 @@ graph TD
 
 ---
 
-我得到了它。現在，我將擴展第 3 章及以後的內容，並建立 **完整的日文草稿**，同時插入 Markdown 圖表。
+了解です。それでは第3章以降を順次展開し、Markdown 図も挿入しながら **日本語での完全ドラフト** を構築します。
 
 ---
 
-## 第三章：流派的建立與打破（2017-2019）
+## 第3章：ジャンルの確立とブレイク（2017〜2019）
 
-### 聲音的凝固、風格的統一
+### サウンドの固まり・スタイルの統一
 
-從2017年到2019年，Amapiano的聲音框架得到了鞏固，DJ和聽眾之間形成了共識。
-這一時期的特徵是：
+2017〜2019年にかけて、Amapiano の音の枠組みが固まり、DJやリスナーの間で共通認識が形成されました。
+この時期の特徴は以下です：
 
-* 原木鼓x鋼琴x打擊樂的標準化組合
-* 節奏約 110-120 BPM，節奏緩慢。
-* 將測試包括人聲和合唱在內的各種表達方式。
+* ログドラム × ピアノ × パーカッションの組み合わせが標準化
+* テンポは110–120 BPM前後、スローグルーヴが定着
+* ボーカルや合唱を加えた多様な表現が試される
 
-結果，阿皮亞諾已經從單純的地下音樂發展成為一種被認可的風格。
+これにより、Amapiano は単なる地下音楽から「スタイルとして認知されるジャンル」へと成長しました。
 
-### 主要藝術家和轉折點
+### 主要アーティストと転換点
 
-* **Kabza De Small 和 DJ Maphorisa**
+* **Kabza De Small & DJ Maphorisa**
 
-  * 2019年7月，發行專輯《**蝎子王**》。
-  * 推動該類型在全國範圍內的突破和商業化
-  * 續集 **蝎子王歸來（2019 年 11 月）** 也取得了成功
+  * 2019年7月、アルバム **Scorpion Kings** をリリース
+  * ジャンルの全国的ブレイクと商業化を促進
+  * 続編 **The Return of the Scorpion Kings（2019年11月）** も成功
 
-這段時期使阿皮亞諾音樂不再只是一種鄉鎮音樂，而是一種全國和商業認可的流派。
+この時期により、Amapiano は単なるタウンシップ発の音楽ではなく、全国的・商業的に認知されるジャンルとなりました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 圖3：流派確立時期的藝術家關係
+### 図3：ジャンル確立期のアーティスト関係
 
 <div class="mermaid">
 graph LR
@@ -156,35 +156,35 @@ graph LR
 
 ---
 
-## 第四章：流行期與加速傳播（2020-2022）
+## 第4章：パンデミック期と加速する普及（2020〜2022）
 
-### COVID-19 和線上傳播
+### COVID‑19 とオンライン拡散
 
-* 由於封鎖，俱樂部於 2020 年關閉
-* 藝術家在線上分發混音（例如 Balcony Mix）以提高全國範圍內的知名度。
-* 美國職業 DJz 等年輕 DJ 也加入了這一趨勢。
+* 2020年、ロックダウンによりクラブ閉鎖
+* アーティストはオンラインでミックス配信（例：Balcony Mix）を行い、全国規模で認知拡大
+* Major League DJz など若手DJもこの流れに参加
 
-### 代表專輯
+### 代表アルバム
 
-* **Kabza De Small「我是阿皮亞諾之王：甜蜜與塵埃」**（2020 年 6 月）
+* **Kabza De Small「I Am the King of Amapiano: Sweet & Dust」**（2020年6月）
 
-  * 這張專輯展現了這一流派的成熟。
-  * 不僅可以為俱樂部欣賞，也可以作為專輯作品欣賞的作曲
+  * ジャンルの成熟を示すアルバム
+  * クラブ向けだけでなく、アルバム作品として楽しめる構成
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnUpA0VsKRo?si=Q_xPDYh1HwCKRzFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 聲音多樣化
+### サウンドの多様化
 
-* 爵士樂、靈魂樂和 R&B 的跨界繼續
-* 隨著女歌手和新一代藝術家的出現，包容性得到改善
+* ジャズやソウル、R&Bとのクロスオーバーが進む
+* 女性シンガーや新世代アーティストの登場で包摂性が向上
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f_xp7FUmFKw?si=0D4cB57t3DwI35Gi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 圖4：疫情期間的擴散路線
+### 図4：パンデミック期における拡散ルート
 
 <div class="mermaid">
 graph LR
@@ -198,26 +198,26 @@ graph LR
 
 ---
 
-## 第 5 章：國際化與全球擴張（2021 年及以後）
+## 第5章：国際化とグローバル展開（2021年以降）
 
-### 跨境阿皮亞諾
+### 国境を越える Amapiano
 
-* 從 2021 年起在英國、歐洲、北美和亞洲的俱樂部/節慶演出
-* 與非洲節奏的國際合作和融合也在增加。
-* 全球串流媒體播放數據將達到數十億次（2023 年）
+* 2021年以降、英国、欧州、北米、アジアのクラブ／フェスでプレイ
+* 国際コラボレーションやアフロビーツとの融合も増加
+* ストリーミングデータでは、全世界で数十億回再生（2023年）
 
-### 大型現場/音樂節
+### 大規模ライブ／フェス
 
-* **2025 年 8 月：Scorpion Kings 與朋友們一起生活（比勒陀利亞）**
+* **2025年8月：Scorpion Kings Live with Friends（Pretoria）**
 
-  * 約5萬人動員起來
-  * 確立該流派作為「文化和社會符號」的地位
+  * 約50,000人動員
+  * ジャンルの「文化的・社会的象徴」としての地位確立
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T-2AMmBAHOw?si=NEejihEQW1mT5w3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 圖5：國際化網絡
+### 図5：国際化のネットワーク
 
 <div class="mermaid">
 graph TD
@@ -236,27 +236,27 @@ graph TD
 
 ---
 
-## 第六章：聲音的演變與現在──多元、批評、未來
+## 第6章：サウンドの進化と現在 — 多様化、批評、未来
 
-### 聲音多樣化
+### サウンドの多様化
 
-* 爵士樂、R&B、靈魂樂、休閒音樂、非洲節奏音樂與嘻哈音樂的融合
-* 聲音有祖魯語、英語和其他語言
-* 年輕藝術家探索新的表達方式
+* ジャズ、R&B、ソウル、ラウンジ、アフロビーツ、ヒップホップとの融合
+* ボーカルはズールー語、英語、他言語で表現
+* 若手アーティストが新しい表現方法を模索
 
-### 批評和擔憂
+### 批評と懸念
 
-* 商業化帶來的「同質化」與「爆款」擔憂
-* 然而，多元化和分支化也在同時進行，類型也在不斷演變。
+* 商業化に伴う「画一化」「ヒット狙い」への懸念
+* ただし多様化・分岐も同時進行しており、ジャンルは進化中
 
-### 未來的可能性
+### 未来への可能性
 
-* 發展不僅在南非境內，而且在整個非洲乃至全球範圍內。
-* 由於串流媒體、數位發行和 SNS 傳播，預計將進一步成長。
+* 南アフリカ国内だけでなくアフリカ全体、世界規模での発展
+* ストリーミング・デジタル配信・SNSでの拡散により、さらなる成長が見込まれる
 
 ---
 
-### 圖6：聲音演變的多維圖
+### 図6：サウンド進化の多次元マップ
 
 <div class="mermaid">
 graph TD
@@ -273,15 +273,15 @@ graph TD
 
 ---
 
-## 第 7 章：文化與社會影響
+## 第7章：文化的・社会的意味合い
 
-* Amapiano 是小鎮青年文化的展現
-* 語言、地理特色、日常生活、節慶文化都在音樂中體現。
-* 透過國際化，也成為向世界展示「非洲青年文化」的窗口。
+* Amapiano はタウンシップの若者文化の表現手段
+* 言語・地域性・日常生活・祝祭文化が音楽に反映
+* 国際化により「アフリカの若者文化」を世界に提示する窓口としての側面も持つ
 
 ---
 
-### 圖 7：Amapiano 作為一種文化表現形式
+### 図7：文化的表現としての Amapiano
 
 <div class="mermaid">
 graph TD
@@ -311,16 +311,16 @@ timeline
 
 ---
 
-## 結
+## 結び
 
-阿皮亞諾 (Amapiano) 是南非的標誌性音樂流派，已從鄉鎮地下文化擴展到世界各地的俱樂部音樂節。
-其核心是“原木鼓×鋼琴×打擊樂×青年文化表達”，始終保持著堅定不移的原點，但在多元化和國際化中不斷發展。
+Amapiano はタウンシップの地下文化から、世界のクラブ・フェスへと拡大した、南アフリカの象徴的な音楽ジャンルです。
+その核となる「ログドラム × ピアノ × パーカッション × 若者文化の表現」は揺るがない原点でありつつ、多様化・国際化の中で進化し続けています。
 
 ---
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aB5twZG-_V4?si=-50AUkCwEL67JsUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

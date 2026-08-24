@@ -10,13 +10,13 @@ tags:
 - Afro-Cuban
 - Jazz
 - Latin
-title: Sintesis – 祖先
+title: Sintesis – Ancestros
 ---
 
 
-Sintesis 是古巴第一支前衛搖滾/交響搖滾樂隊，成立於 1976 年。以其融合民族音樂風格的實驗聲音而聞名，他們受到多種流派的影響，包括傳統古巴音樂、非洲元素、爵士樂、搖滾和電子音樂。
+Sintesis（シンテシス）は、1976 年に結成されたキューバ初のプログレッシブロック/シンフォニックロック・バンド。エスニックな音楽スタイルを取り入れた実験的なサウンドで知られ、伝統的なキューバ音楽やアフリカの要素、ジャズ、ロック、エレクトロニックなど、様々なジャンルの影響を受けています。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Asoyin
 2. Eyeleo
@@ -28,7 +28,7 @@ Sintesis 是古巴第一支前衛搖滾/交響搖滾樂隊，成立於 1976 年�
 8. Titi-Laye
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m40509767449?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40509767449?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXNj85zVbBs?si=aFiox_b6HhPYb28C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

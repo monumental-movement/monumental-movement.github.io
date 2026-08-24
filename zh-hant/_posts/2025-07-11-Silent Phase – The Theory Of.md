@@ -10,15 +10,15 @@ tags:
 - House
 - Techno
 - 90s
-title: 沉默階段－（理論）
+title: Silent Phase – (The Theory Of)
 ---
 
 
-Stacey Pullen，也被稱為 Silent Phase，是一位來自底特律的 techno DJ 和製作人，活躍於 20 世紀 90 年代。其他名稱包括 Kosmic Messenger 和 Bango。這張專輯是他們唯一一張以 Silent Phase 為名的專輯，其聲音深沉而圓潤，融合了爵士樂、環境音樂、IDM 和電子音樂。它被譽為底特律電子藝術作品。
+Silent PhaseことStacey Pullenは、1990年代に活躍したデトロイト出身のテクノDJ・プロデューサー。別名義でKosmic Messenger、Bangoなどがある。このアルバムはSilent Phase名義での唯一のアルバムで、ジャズ、アンビエント、IDM、テクノが混ざったディープでメロウなサウンドが特徴。アーティスティックなデトロイトテクノ作品として評価されている。
 
-它由 Derrick May 的 Transmat 和比利時獨立唱片公司 R&S Records 發行，Transmat 是 1990 年前在底特律成立的最重要的科技唱片公司之一（由 Carl Craig 的 Planet E 發行）。這張 CD 是比利時版。
+リリースは、1990年以前にデトロイトで設立された最も重要なテクノレーベルの1つ、デリック・メイ主宰のTransmat(配給はCarl Craig主宰のPlanet E )とベルギーのインディペンデントレーベルR&S Records。このCDはベルギー盤。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Waterdance
 2. Body Rock
@@ -34,7 +34,7 @@ Stacey Pullen，也被稱為 Silent Phase，是一位來自底特律的 techno D
 12. Forbidden Dance
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6zY9Ae1qlI?si=307o2Nr5nDR0jv-a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

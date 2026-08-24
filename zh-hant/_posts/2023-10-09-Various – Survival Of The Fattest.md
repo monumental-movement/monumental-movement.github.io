@@ -16,7 +16,7 @@ title: Various – Survival Of The Fattest
 「Survival Of The Fattest」は、
 1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Hi-Standard–California Dreaming
 
