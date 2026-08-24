@@ -10,7 +10,7 @@ date: 2026-08-23 00:00:05 +0900
 
 # Armand Van Helden — ハウスを世界規模のポップ現象へ変えた男
 
-文：mmr｜テーマ：ーマンド・ヴァン・ヘルデンのキャリアを、ボストンのクラブ文化、Strictly Rhythm、Witch Doktor、Professional Widow、You Don't Know Me、Bonkers、Duck Sauceまで、ハウス史とリミックス文化の変化の中から読み解く
+文：mmr｜テーマ：アーマンド・ヴァン・ヘルデンのキャリアを、ボストンのクラブ文化、Strictly Rhythm、Witch Doktor、Professional Widow、You Don't Know Me、Bonkers、Duck Sauceまで、ハウス史とリミックス文化の変化の中から読み解く
 
 ## はじめに　「DJ」では説明しきれないArmand Van Helden
 
