@@ -10,32 +10,32 @@ tags:
 - Game Music
 - Culture
 - Streaming
-title: '[Column] The moment when game music becomes mainstream among young people'
+title: 【コラム】 ゲーム音楽が若年層のメインストリームになる瞬間
 ---
 
 
 
-## What is game music?
+## ゲーム音楽とは
 
-Text: mmr｜Theme: Where have the ears of the digital generation gone? - The structural shift in which game music has become the core culture of young people
+文：mmr｜テーマ：デジタル世代の耳はどこへ向かったのか――ゲーム音楽が若年層の中心文化へ移行した構造的転換
 
 
-Game music refers to a group of musical works created for video games.
-It is a broad genre that includes everything from chip sound sources under hardware constraints to full orchestral recordings, electronic music, pop music, and folk music.
+ゲーム音楽とは、ビデオゲームのために制作された音楽作品群を指す。
+ハードウェア制約下のチップ音源からフルオーケストラ録音、電子音楽、ポップス、民族音楽までを含む広義のジャンルである。
 
-Traditionally, it was positioned as background music that supplemented the game experience, but now it has formed an independent viewing target, distributed content, and live market.
+従来はゲーム体験を補助するBGMと位置づけられてきたが、現在では独立した鑑賞対象・配信コンテンツ・ライブ市場を形成している。
 
 ---
 
-## Points covered in this article
+## 本稿で扱うポイント
 
-* The strength of the melody created by technical constraints
-* Composer visibility and branding
-* Explosion of derivative works due to internet culture
-* Streaming and playlist generation
-* E-sports and large-scale production
-*Changes in music exposure time among young people
-* Decisive phase of mainstreaming
+* 技術制約が生んだ旋律の強度
+* 作曲家の可視化とブランド化
+* ネット文化による二次創作の爆発
+* ストリーミングとプレイリスト世代
+* eスポーツと大規模演出
+* 若年層の音楽接触時間の変化
+* メインストリーム化の決定的局面
 
 ---
 
@@ -44,7 +44,7 @@ Traditionally, it was positioned as background music that supplemented the game 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -54,107 +54,107 @@ color: #fff;
 
 ## History
 
-### 1. Establishment of 8bit and melodicism (1980s)
+### 1. 8bitと旋律中心主義の確立（1980年代）
 
-Home game consoles in the 1980s had a limited number of simultaneous polyphony, and restrictions on chords and sustained notes.
-Therefore, composers emphasized clear rhythms and melodies that were easy to remember.
+1980年代の家庭用ゲーム機は同時発音数が限られ、和音や持続音に制限があった。
+そのため、作曲家は明確なリズムと覚えやすい旋律を重視した。
 
-**Super Mario Bros**
-Music: Koji Kondo
+**スーパーマリオブラザーズ**
+音楽：近藤浩治
 
-The terrestrial BGM is designed with a loop structure of about 2 minutes, and has a light and jumping feel with a tempo of about 100 to 110 BPM.
-The simple triad progression and the driving force of the bass line were strongly connected to the playing experience.
+地上BGMは約2分のループ構造で設計され、テンポ約100〜110BPMの軽快な跳躍感を持つ。
+単純な三和音進行とベースラインの推進力が、プレイ体験と強く結びついた。
 
-At the same time,
-**Dragon Quest**
+同時期、
+**ドラゴンクエスト**
 Music: Koichi Sugiyama
 
-"Overture" has a classical fanfare structure, designed to create a ritualistic uplift as the game begins.
+「序曲」はクラシック形式のファンファーレ構造を持ち、ゲーム開始と同時に儀式的な高揚を生む設計になっている。
 
-These were not just background music, but music that symbolized the brand of the work itself.
+これらは単なるBGMではなく、作品ブランドそのものを象徴する音楽だった。
 
-> Restrictions have forged melodies and created themes that will remain in the memories of generations.
+> 制約は旋律を鍛え、世代の記憶に残る主題を生んだ。
 
 ---
 
-### 2. The CD-ROM era and the expansion of sound (1990s)
+### 2. CD-ROM時代と音響の拡張（1990年代）
 
-In the late 1990s, with the spread of CD-ROMs, the capacity of sound sources expanded dramatically.
-Strings, chorus, and rock band formations are introduced.
+1990年代後半、CD-ROMの普及により音源容量が飛躍的に拡大。
+ストリングス、コーラス、ロックバンド編成などが導入される。
 
-**Final Fantasy VII**
-Music: Nobuo Uematsu
+**ファイナルファンタジーVII**
+音楽：植松伸夫
 
-""**One-Winged Angel**'' introduced a Latin chorus and expanded the boss fight music into a religious and theatrical space.
-The song was later performed by orchestra around the world.
+「**One-Winged Angel**」はラテン語コーラスを導入し、ボス戦音楽を宗教的・劇場的空間へ拡張した。
+この曲は後にオーケストラ編成で世界各地で演奏される。
 
-Started in 2002
+2002年開始の
 **Distant Worlds: music from FINAL FANTASY**
-has performed repeatedly in North America, Europe, and Japan, and established game music in classical halls.
+は北米・欧州・日本で公演を重ね、ゲーム音楽をクラシックホールへ定着させた。
 
-At this stage, game music transitioned from a ""domestic experience" to a ""performance art in public spaces."
+この段階で、ゲーム音楽は「家庭内体験」から「公共空間の演奏芸術」へ移行した。
 
-> Game music has left the home and entered the concert hall.
-
----
-
-### 3. Explosion of derivative works and internet culture (2000s)
-
-With the spread of video sharing sites, the culture of performance videos and remixes is rapidly expanding.
-
-especially
-**Touhou Project**
-created a culture of arranging thousands of songs and formed a doujin music market.
-
-Young people not only listen to the original songs, but also
-
-* guitar cover
-* Piano performance
-*EDM remix
-* Chiptune reconstruction
-
-Through such reinterpretation, participants come to participate.
-
-During this era, game music transformed into "shared material."
-
-> Players have changed from listeners to co-writers.
+> ゲーム音楽は家庭を出て、コンサートホールへ歩み出した。
 
 ---
 
-### 4. Indie revolution and SNS spread (2010s)
+### 3. 二次創作とネット文化の爆発（2000年代）
 
-appeared in 2015
+動画共有サイトの普及により、演奏動画・リミックス文化が急拡大する。
+
+特に
+**東方Project**
+は数千曲規模のアレンジ文化を生み、同人音楽市場を形成した。
+
+若年層は原曲を聴くだけでなく、
+
+* ギターカバー
+* ピアノ演奏
+* EDMリミックス
+* チップチューン再構築
+
+といった再解釈を通じて参加するようになる。
+
+この時代、ゲーム音楽は「共有される素材」へ変化した。
+
+> プレイヤーは聴き手から共作者へと変わった。
+
+---
+
+### 4. インディー革命とSNS拡散（2010年代）
+
+2015年に登場した
 **Undertale**
 Music: Toby Fox
 
-"**Megalovania**" has been widely quoted on YouTube and TikTok, and has spread in multiple ways, including rhythm games, meme videos, and brass band performances.
+「**Megalovania**」はYouTubeやTikTokで大量に引用され、リズムゲーム、ミーム動画、吹奏楽演奏など多層的に拡散した。
 
-At the same time,
+同時期、
 **Minecraft**
-Music: C418
+音楽：C418
 
-The environmental music approach has become part of the daily lives of young people as background music for work.
+環境音楽的アプローチは、作業用BGMとして若年層の日常に溶け込んだ。
 
-Game music will be incorporated into playlists for "concentration," "study," and "sleep," redefining it as background music for daily life.
+ゲーム音楽は「集中用」「勉強用」「睡眠用」プレイリストに組み込まれ、日常生活の背景音楽として再定義される。
 
-> Game music has changed to a sound that encapsulates everyday life.
+> ゲーム音楽は日常の時間を包み込む音へと変化した。
 
 ---
 
-### 5. Global distribution and orchestration (2020s)
+### 5. グローバル配信とオーケストラ化（2020年代）
 
-Distribution starts in 2020
+2020年配信開始の
 **Genshin**
-was recorded with a full orchestra in London, Shanghai, and other locations.
-The official concert video was simultaneously distributed worldwide and viewed by millions of viewers.
+はロンドン・上海などでフルオーケストラ録音を実施。
+公式コンサート映像は世界同時配信され、数百万規模で視聴された。
 
-At e-sports tournaments, large-scale productions are included in the opening ceremonies.
+At e-sports tournaments, large-scale performances are included in the opening ceremonies.
 **League of Legends**
-is developing virtual artist productions and live performances.
+はバーチャルアーティスト演出やライブパフォーマンスを展開している。
 
-Game music is no longer just "in-game music" but has become a core element of global entertainment.
+ゲーム音楽はもはや「ゲーム内音楽」ではなく、グローバルエンターテインメントの中核要素となった。
 
-> For young people, it was the most natural mainstream.
+> 若年層にとって、それは最も自然なメインストリームだった。
 
 ---
 
@@ -174,33 +174,33 @@ timeline
 
 ---
 
-## Mainstreaming model
+## メインストリーム化モデル
 
 <div class="mermaid">
 flowchart TD
-    A[hard constraints] --> B[melody enhancement]
-    B --> C[CD high quality sound]
+    A[ハード制約] --> B[旋律強化]
+    B --> C[CD高音質]
     C --> D[Internet derivative work]
-    D --> E[Streaming spread]
-    E --> F[Youth mainstream culture]
+    D --> E[ストリーミング拡散]
+    E --> F[若年層主流文化]
 </div>
 
 ---
 
 ## Key Artists
 
-* Koji Kondo
-* Koichi Sugiyama
-* Nobuo Uematsu
+* 近藤浩治
+* すぎやまこういち
+* 植松伸夫
 * Toby Fox
-*C418
+* C418
 
 ---
 
 ## Essential Tracks
 
-* **Ground BGM (Super Mario Bros.)**
-* **Overture (Dragon Quest)**
+* **地上BGM（スーパーマリオブラザーズ）**
+* **序曲（ドラゴンクエスト）**
 * **One-Winged Angel**
 * **Megalovania**
 * **Minecraft – Sweden**
@@ -209,42 +209,42 @@ flowchart TD
 
 ## Cultural Impact
 
-Changes in music exposure among young people:
+若年層における音楽接触の変化：
 
-* Decrease in TV viewing time
-* Increased YouTube viewing time
-* Increased gameplay time
-* Establishment of streaming usage
+* テレビ視聴時間の減少
+* YouTube視聴時間の増加
+* ゲームプレイ時間の増加
+* ストリーミング利用の定着
 
-The game music is
-"operation"
-"Successful experience"
-"Story immersion"
-Because it is inseparably linked to emotional memory, it has a high retention rate in emotional memory.
+ゲーム音楽は、
+「操作」
+「成功体験」
+「ストーリー没入」
+と不可分に結びつくため、感情記憶への定着率が高い。
 
-Also, for Generation Z
-In many cases, people come into contact with game music more frequently than anime theme songs.
+また、Z世代にとっては
+アニメ主題歌よりもゲーム音楽の方が接触頻度が高いケースも多い。
 
-> For young people, game music is not a background sound, but a main melody that is assimilated into the experience.
+> 若年層にとってゲーム音楽は背景音ではなく、体験と同化した主旋律である。
 
 ---
 
 ## FAQ
 
-### Q1. Why did it become mainstream so quickly?
+### Q1. なぜ急速に主流化したのか？
 
-With the lifting of the streaming ban, the structure has become available to people who don't know about games.
+ストリーミング解禁により、ゲームを知らない層にも届く構造になったため。
 
 ### Q2. What is your relationship with classical music?
 
 With the expansion of orchestral performances, it is also valued as a performance art.
 
-### Q3. What are your future prospects?
+### Q3. 今後の展望は？
 
-It is predicted that real-time music experiences in VR spaces and Metaverse events will expand.
+VR空間やメタバースイベントでのリアルタイム音楽体験が拡張すると予測される。
 
 ---
 
-> The moment when game music becomes mainstream among young people is not a single incident, but the result of 40 years of technology and cultural accumulation.
+> ゲーム音楽が若年層のメインストリームになる瞬間は、単一の事件ではなく、40年にわたる技術と文化の積層の帰結である。
 
 ---

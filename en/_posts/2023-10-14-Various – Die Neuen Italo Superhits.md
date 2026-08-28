@@ -12,7 +12,7 @@ title: Various – Die Neuen Italo Superhits
 ---
 
 
-"Various – Die Neuen Italo Superhits" is a compilation album released by the German label "Ariola" in 1987.
+「Various – Die Neuen Italo Superhits」は、1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。
 
 #### Tracklist
 ```md
@@ -45,7 +45,7 @@ B4. Pupo - Fiordaliso–La Vita È Molto Di Più
 B5. Tony Esposito–Papa Chicoなど
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Esr-l_2UBAc?si=MPvUyHlvqRfT5Ixr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

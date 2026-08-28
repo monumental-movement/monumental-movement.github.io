@@ -10,41 +10,41 @@ tags:
 - Anthropology
 - Language
 - Evolution
-title: '[Column] Why Humans Invented Music Before Writing - Part4'
+title: 【コラム】 Why Humans Invented Music Before Writing - Part4
 ---
 
 
-## 43. When did music become "society"?
+## 43. 音楽はいつ「社会」になったのか
 
-Text: mmr｜Theme: "Did music exist before writing?" We will delve into the question from the timeline of humanity itself.
+文：mmr｜テーマ：「音楽は文字より前に存在したのか？」という問いを、人類の時間軸そのものから掘り下げます
 
 
 
-Making sounds alone is not the same as sharing sounds with a group.
+人間が一人で音を出すことと、集団で音を共有することは同じではない。
 
-One person speaks out.
+一人が声を出す。
 
-One person claps their hands.
+一人が手を叩く。
 
-One person strikes a stone.
+一人が石を打つ。
 
-If this is all there is to it, then sound is just an individual action.
+これだけなら、音は個人の行動にすぎない。
 
-However, when multiple people hear the same sounds, share the same rhythms, and learn the same songs, the sounds take on a different quality.
+しかし、複数の人間が同じ音を聴き、同じリズムを共有し、同じ歌を覚えるようになると、音には別の性質が生まれる。
 
-It is a property that can be shared.
+それは「共有できる」という性質だ。
 
-Sound reaches across space.
+音は空間を越えて届く。
 
-Your voice can be heard even from a distance.
+声は離れた相手にも聞こえる。
 
-The drums reverberate far away.
+太鼓は遠くまで響く。
 
-When a group sings, the sound becomes louder than an individual's voice.
+集団で歌えば、個人の声を超えた大きな音になる。
 
-What's more, the sound can be experienced at the same moment by everyone present.
+しかも音は、その場にいる人間が同じ瞬間に経験できる。
 
-This trait was very compatible with human social life.
+この性質は、人間の社会生活と非常に相性がよかった。
 
 
 <style type="text/css">
@@ -52,7 +52,7 @@ This trait was very compatible with human social life.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -62,2427 +62,2436 @@ color: #fff;
 
 ---
 
-### Individual sounds become collective sounds
+### 個人の音が集団の音になる
 
-In human society, there are moments when individual behavior changes to collective behavior.
+人間社会では、個人の行動が集団の行動へ変わる瞬間がある。
 
-One person claps.
+一人が拍手する。
 
-Another person claps.
+別の人が拍手する。
 
-Another person joins.
+さらに別の人が加わる。
 
-Eventually, everyone clap at the same time.
+やがて全員が同じタイミングで拍手する。
 
-This creates a ""group rhythm'' that did not exist at the beginning.
+そこには、最初には存在しなかった「集団としてのリズム」が生まれる。
 
-It's the same with songs.
+歌も同じだ。
 
-One person's voice.
+一人の声。
 
-Two voices.
+二人の声。
 
-multiple voices.
+複数の声。
 
-Chorus.
+合唱。
 
-Here, the voices of each person are not simply added up.
+ここでは、一人ひとりの声が単純に足し算されるだけではない。
 
-Humans adjust their own voices while listening to the sounds of others.
+人間は、他者の音を聴きながら自分の声を調整する。
 
-pitch.
+音程。
 
-timing.
+タイミング。
 
-volume.
+音量。
 
-Breathing.
+呼吸。
 
-vocalization.
+発声。
 
-In this way, multiple bodies enter into one temporal structure.
+こうして、複数の身体が一つの時間構造に入っていく。
 
-### Synchronization becomes a social behavior
+### 同期は社会的な行動になる
 
-Collective synchronization has more than just a musical meaning.
+集団同期には、単なる音楽的な意味だけではない。
 
-walk together.
+一緒に歩く。
 
-sing together.
+一緒に歌う。
 
-dance together.
+一緒に踊る。
 
-Clap your hands together.
+一緒に手を叩く。
 
-Speak out together.
+一緒に声を出す。
 
-These actions require constant awareness of the presence of others.
+こうした行動では、他者の存在を常に意識する必要がある。
 
-If you are the only one who moves fast, you will fall out of the group.
+自分だけが速く動けば、集団から外れる。
 
-If you"re the only one slow, you won"t be able to maintain the same rhythm.
+自分だけが遅ければ、同じリズムを維持できない。
 
-In other words, synchronization is also the act of adjusting relationships with others.
+つまり同期とは、他者との関係を調整する行為でもある。
 
-For this reason, musical synchronization has been studied in relation to social bonding.
+このため、音楽的な同期は社会的な結びつきと関連して研究されてきた。
 
-> The first moment when music becomes social is not in making sounds, but in sharing time with others.
+> 音楽が社会的になる最初の瞬間は、音を出すことではなく、他者と同じ時間を共有することにある。
 
 ---
 
-## 44. Music and ritual
+## 44. 音楽と儀礼
 
-When thinking about human history, the relationship between music and ritual cannot be avoided.
+人類の歴史を考えるとき、音楽と儀礼の関係は避けて通れない。
 
-In a ritual, the same actions are repeated in a set order.
+儀礼では、同じ行動が決められた順序で繰り返される。
 
-specific words are used.
+特定の言葉が使われる。
 
-A specific action is taken.
+特定の動作が行われる。
 
-gather in a specific place.
+特定の場所に集まる。
 
-Songs and musical instruments may also be used.
+そして、歌や楽器が使われることがある。
 
-Music organizes this repetition in time.
+音楽は、この繰り返しを時間の中で組織する。
 
-### Ritual requires "when"
+### 儀礼には「いつ」が必要になる
 
-A ritual is not just a collection of actions.
+儀礼は単なる行動の集合ではない。
 
-It's not just what you do, but when you do it that matters.
+何をするかだけではなく、いつするかが重要になる。
 
-The song begins.
+歌が始まる。
 
-Participants respond.
+参加者が応答する。
 
-The drums sound.
+太鼓が鳴る。
 
-The dance begins.
+踊りが始まる。
 
-Certain actions are repeated.
+一定の動作が繰り返される。
 
-Then move on to the next step.
+そして次の段階へ移る。
 
-Music allows all participants to share this temporal structure.
+音楽は、この時間構造を参加者全員に共有させる。
 
-Even people who can't read can understand the next movement by listening to the rhythm.
+文字を読めない人でも、リズムを聞けば次の動きを理解できる。
 
-Sounds indicate the timing of actions without the need for complex explanations.
+複雑な説明を必要としなくても、音が行動のタイミングを示す。
 
-### Repetition strengthens ritual
+### 反復が儀礼を強化する
 
-In rituals, the same actions are often repeated.
+儀礼では、同じ行動が繰り返されることが多い。
 
-Music also excels at repetition.
+音楽も反復を得意としている。
 
-Same phrase.
+同じフレーズ。
 
-Same rhythm.
+同じリズム。
 
-Same lyrics.
+同じ歌詞。
 
-Same melody.
+同じ旋律。
 
-Same movement.
+同じ動き。
 
-This makes it easier for participants to remember the actions.
+これによって、参加者は行動を覚えやすくなる。
 
-And the repetition itself creates a "special time."
+そして、繰り返しそのものが「特別な時間」を作る。
 
-It's different from everyday time.
+日常の時間とは違う。
 
-Wear clothes that are different from what you normally wear.
+普段とは違う服を着る。
 
-gather in a specific place.
+特定の場所に集まる。
 
-Listen to specific sounds.
+特定の音を聴く。
 
-do the same movement.
+同じ動きをする。
 
-The combination of these elements distinguishes ritual from ordinary daily life.
+こうした要素が重なることで、儀礼は通常の日常生活から区別される。
 
-### Sound memorizes rituals
+### 音は儀礼を記憶させる
 
-In societies without writing, physical memory becomes important for preserving ritual knowledge.
+文字がない社会では、儀礼に関する知識を保存するために、身体的な記憶が重要になる。
 
-Learn songs.
+歌を覚える。
 
-Learn the rhythm.
+リズムを覚える。
 
-Learn the movements.
+動きを覚える。
 
-Remember the order.
+順番を覚える。
 
-And teach it to the next generation.
+そして、それを次の世代に教える。
 
-Music can serve as such a memory aid.
+音楽は、こうした記憶の補助として機能できる。
 
-Of course, music alone cannot completely store complex information.
+もちろん、音楽だけで複雑な情報を完全に保存できるわけではない。
 
-But repeated sounds and songs provide a powerful framework for remembering words and actions.
+しかし、反復される音や歌は、言葉や行動を覚えるための強力な枠組みになる。
 
-> Music in rituals is no longer just background sound, but has become a structure that allows humans to ""repeat the same action at the same time.''
+> 儀礼における音楽は、単なる背景音ではなく、人間が「同じ行動を同じ時間に繰り返す」ための構造になった。
 
 ---
 
-## 45. Why can songs convey stories?
+## 45. 歌はなぜ物語を運べるのか
 
-Humans tell stories.
+人間は物語を語る。
 
-mythology.
+神話。
 
-Legend.
+伝説。
 
-history.
+歴史。
 
-family story.
+家族の物語。
 
-The story of the land.
+土地の物語。
 
-Ancestor stories.
+祖先の物語。
 
-Some of them have been passed down as songs.
+そして、その一部は歌として伝えられてきた。
 
-### Songs fix words
+### 歌は言葉を固定する
 
-Spoken words disappear immediately.
+話し言葉は、その場で消える。
 
-But songs have melody and rhythm.
+しかし歌には、旋律とリズムがある。
 
-It may be easier to remember the order of words and phrases when the words follow a melody.
+言葉が旋律に乗ると、単語の順序やフレーズが覚えやすくなる場合がある。
 
-If you repeat the same melody, you can predict the next words.
+同じ旋律を繰り返せば、次の言葉を予測できる。
 
-Rhythm makes it easier to separate groups of words.
+リズムがあれば、言葉のまとまりを区切りやすくなる。
 
-This was an important feature in oral culture.
+これは、口承文化において重要な特徴だった。
 
-### Oral culture was a "culture of memory"
+### 口承文化は「記憶の文化」だった
 
-Without writing, knowledge must be stored in the head.
+文字がなければ、知識は頭の中に保存しなければならない。
 
-Of course, it is not necessary for one person to memorize all the information.
+もちろん、すべての情報を一人の人間が記憶する必要はない。
 
-Able to share roles in society.
+社会の中で役割分担ができる。
 
-Certain people memorize songs.
+特定の人が歌を覚える。
 
-Certain people learn rituals.
+特定の人が儀礼を覚える。
 
-Certain people memorize genealogy.
+特定の人が系譜を覚える。
 
-Certain people memorize stories.
+特定の人が物語を覚える。
 
-In this way, cultural memory is dispersed throughout society.
+こうして文化的記憶が社会に分散する。
 
-Singing became one of the forms for this purpose.
+歌はそのための形式の一つになった。
 
-### If the melody changes, the meaning also changes.
+### 旋律が変われば、意味も変わる
 
-A song is not just a memory device for words.
+歌は単なる言葉の記憶装置ではない。
 
-Even if the word is the same, the meaning will change if you sing it differently.
+同じ言葉でも、歌い方が変われば意味の感じ方が変わる。
 
-Sing fast.
+速く歌う。
 
-Sing late.
+遅く歌う。
 
-Sing low.
+低く歌う。
 
-sing high.
+高く歌う。
 
-Sing with multiple people.
+複数人で歌う。
 
-sing alone.
+一人で歌う。
 
-Raise your voice.
+声を張る。
 
-Whisper.
+ささやく。
 
-Music adds emotional information to language.
+音楽は言語に感情的な情報を加える。
 
-Therefore, songs can convey information and emotions at the same time.
+そのため、歌は情報と感情を同時に運ぶことができる。
 
->Songs can not only help you remember words, but also convey how the words should feel.
+> 歌は、言葉を記憶させるだけでなく、言葉がどのように感じられるべきかまで伝えることができる。
 
 ---
 
-## 46. Music and the Sacred
+## 46. 音楽と神聖なもの
 
-In many human cultures, music has been associated with religious and ritual activities.
+人類の多くの文化で、音楽は宗教的・儀礼的な活動と結びついてきた。
 
-song.
+歌。
 
-chanting.
+詠唱。
 
-drum.
+太鼓。
 
-bell.
+鐘。
 
-whistle.
+笛。
 
-stringed instruments.
+弦楽器。
 
-voice.
+声。
 
-These have been used in religious situations.
+これらは、宗教的な場面で使われてきた。
 
-### Sound creates "a space other than everyday life"
+### 音は「日常ではない空間」を作る
 
-In religious spaces, unusual sounds may be used.
+宗教的な空間では、普段とは異なる音が使われることがある。
 
-a particular melody.
+特定の旋律。
 
-specific tone.
+特定の音色。
 
-specific rhythm.
+特定のリズム。
 
-A specific voice.
+特定の声。
 
-When participants hear these sounds, they realize that this is not a normal time.
+こうした音を聞くと、参加者は「今は通常の時間ではない」と認識する。
 
-Sound divides space.
+音が空間を区切る。
 
-Sound separates time.
+音が時間を区切る。
 
-Sound separates the participants.
+音が参加者を区切る。
 
-In this sense, music can create social boundaries.
+この意味で、音楽は社会的な境界を作ることができる。
 
-### Voice comes from the body itself
+### 声は身体そのものから出る
 
-Unlike musical instruments, the voice comes directly from the human body.
+楽器とは違い、声は人間の身体から直接出る。
 
-Breathing.
+呼吸。
 
-throat.
+喉。
 
-mouth.
+口。
 
-tongue.
+舌。
 
-chest.
+胸。
 
-The entire body becomes a source of sound.
+身体全体が音の発生源になる。
 
-Therefore, the song has a strong physicality.
+そのため、歌には強い身体性がある。
 
-In religious songs, singing may itself be a ritual act.
+宗教的な歌では、声を出すこと自体が儀礼行為になる場合がある。
 
-sing alone.
+一人で歌う。
 
-Sing in groups.
+集団で歌う。
 
-respond.
+応答する。
 
-repeat.
+繰り返す。
 
-These actions place the bodies of the participants in the same temporal structure.
+こうした行動は、参加者の身体を同じ時間構造に置く。
 
-### Music can express "the invisible"
+### 音楽は「見えないもの」を表現できる
 
-Religious experiences may include things that cannot be seen with the naked eye.
+宗教的な経験には、目で確認できないものが含まれることがある。
 
-God.
+神。
 
-ancestor.
+祖先。
 
-death.
+死。
 
-universe.
+宇宙。
 
-soul.
+魂。
 
-supernatural being.
+超自然的存在。
 
-Music cannot directly explain them.
+音楽は、それらを直接説明することはできない。
 
-However, voices and sounds can express emotions such as awe, sadness, joy, and prayer.
+しかし、声や音によって、畏怖、悲しみ、歓喜、祈りといった感情を表現できる。
 
-Therefore, music has entered into areas that are difficult to handle with words alone.
+だから音楽は、言葉だけでは扱いにくい領域にも入り込んだ。
 
-> Music is not a tool to explain the invisible, but it has become a tool to give form to human emotions towards the invisible.
+> 音楽は見えないものを説明する道具ではないが、見えないものに対する人間の感情を形にする道具になった。
 
 ---
 
-## 47. Dead people and music
+## 47. 死者と音楽
 
-One of the situations in which music is most strongly connected to human emotions is death.
+音楽が最も強く人間の感情と結びつく場面の一つが、死である。
 
-Funeral.
+葬送。
 
-Memorial.
+追悼。
 
-prayer.
+祈り。
 
-Lament.
+嘆き。
 
-memorial.
+記念。
 
-Many cultures have used sounds and songs in rituals surrounding the dead.
+多くの文化で、死者をめぐる儀礼に音や歌が使われてきた。
 
-### Death requires "shared time"
+### 死には「共有される時間」が必要になる
 
-Death is both an individual event and a communal event.
+死は個人の出来事であると同時に、共同体の出来事でもある。
 
-someone dies.
+誰かが亡くなる。
 
-The family gathers.
+家族が集まる。
 
-Friends gather.
+友人が集まる。
 
-The community gathers.
+共同体が集まる。
 
-And share that death.
+そして、その死を共有する。
 
-Music brings the moment together.
+音楽は、その場の時間を一つにする。
 
-Sing quietly.
+静かに歌う。
 
-pray.
+祈る。
 
-Repeat a certain rhythm.
+一定のリズムを繰り返す。
 
-Someone sings and others respond.
+誰かが歌い、他の人が応答する。
 
-Grief is not experienced alone, but as a group.
+悲しみを個人だけで抱えるのではなく、集団の中で経験する。
 
-### Music brings back memories
+### 音楽は記憶を呼び戻す
 
-Songs associated with the dead can become the very memory of that person.
+死者と結びついた歌は、その人の記憶そのものになることがある。
 
-When I listen to the song later, it reminds me of the person who died.
+後になってその歌を聴くと、亡くなった人を思い出す。
 
-Music connects individual and communal memories.
+音楽は、個人の記憶と共同体の記憶をつなぐ。
 
-This property is different from that of letters.
+この性質は、文字とは異なる。
 
-Text can record events.
+文章は出来事を記録できる。
 
-But music can sometimes rekindle emotions tied to recorded events.
+しかし音楽は、記録された出来事に結びついた感情を再び呼び起こすことがある。
 
-> Humans have used music to remember not only living people but also relationships with deceased people.
-
----
-
-## 48. Music becomes the "boundary" of the community
-
-Music brings people together.
-
-But at the same time, it can also divide people.
-
-This seemingly contradictory quality is important for understanding the social power of music.
-
-### The feeling of "our music"
-
-Every community has music that symbolizes that community.
-
-specific songs.
-
-specific instruments.
-
-specific rhythm.
-
-A particular method of vocalization.
-
-Sharing these things creates a feeling that ""we belong to the same culture.''
-
-Music becomes part of your identity.
-
-### People who don't know music become "outsiders"
-
-On the other hand, if you don't understand certain music, it may be difficult to get into that community.
-
-A song I don't know.
-
-A rhythm I don't know.
-
-A dance I don't know.
-
-Instruments I don't know.
-
-These become cultural boundaries.
-
-Therefore, music can be used to both include and exclude.
-
-### Genres also have the same structure
-
-This structure can also be seen in modern music genres.
-
-jazz.
-
-punk.
-
-hip hop.
-
-Techno.
-
-metal.
-
-reggae.
-
-House.
-
-Amapiano.
-
-Each genre is linked not only by its distinctive sonic characteristics, but also by history, dress, language, location, and community.
-
-Understanding a genre is more than just listening to the music.
-
-It is also important to know the cultural background.
-
-> Music expresses ""who we are," but at the same time it becomes a boundary line that shows ""who we are not."
+> 人間は音楽を使って、生きている人間だけでなく、亡くなった人間との関係も記憶してきた。
 
 ---
 
-## 49. War and Music
+## 48. 音楽は共同体の「境界線」になる
 
-Music has not only been used in peaceful scenes.
+音楽は人間を結びつける。
 
-Music has also been used in wars.
+しかし、同時に人間を分けることもある。
 
-march.
+この一見矛盾した性質は、音楽の社会的な力を理解するうえで重要だ。
 
-Military music.
+### 「私たちの音楽」という感覚
 
-Chorus.
+ある共同体には、その共同体を象徴する音楽がある。
 
-shout.
+特定の歌。
 
-drum.
+特定の楽器。
 
-Signal sound.
+特定のリズム。
 
-### Rhythm can organize collective action
+特定の発声方法。
 
-In military operations, it is necessary to coordinate the movements of a group.
+これらを共有することで、「自分たちは同じ文化に属している」という感覚が生まれる。
 
-walk.
+音楽はアイデンティティの一部になる。
 
-Stop.
+### 音楽を知らない人は「外部の人」になる
 
-move on.
+逆に、ある音楽を理解できない場合、その共同体の内部に入りにくいことがある。
 
-Change direction.
+知らない歌。
 
-Sound can be used to share the timing of these movements.
+知らないリズム。
 
-Sounds that reach far, such as drums and wind instruments, are particularly compatible with group activities.
+知らない踊り。
 
-### Music is also related to morale
+知らない楽器。
 
-Music in war is not just for conveying orders.
+これらは文化的な境界線になる。
 
-Create group emotions.
+そのため、音楽は包摂と排除の両方に使われる。
 
-courage.
+### ジャンルも同じ構造を持つ
 
-tension.
+現代の音楽ジャンルにも、この構造が見える。
 
-pride.
+ジャズ。
 
-sense of belonging.
+パンク。
 
-victory.
+ヒップホップ。
 
-Memorial.
+テクノ。
 
-express these.
+メタル。
 
-Nations and militaries may also use certain songs as symbols.
+レゲエ。
 
-### There's also a dangerous side to music here
+ハウス。
 
-Music strengthens communities.
+アマピアノ。
 
-However, this sense of community can sometimes intensify the conflict between ""us" and ""others."
+それぞれのジャンルには、特有の音響的特徴だけでなく、歴史、服装、言葉、場所、コミュニティが結びついている。
 
-People who sing the same song unite.
+ジャンルを理解することは、その音楽を聴くだけではない。
 
-On the other hand, the side that is not sung is recognized as external.
+その文化的背景を知ることでもある。
 
-Music is neither inherently good nor bad.
-
-That power is used in the social relationships that humans create.
-
-> Because music has the power to unite humans, it is important to decide who is included in that "one" and who is excluded.
+> 音楽は「私たちは誰か」を表現すると同時に、「私たちは誰ではないか」を示す境界線にもなる。
 
 ---
 
-## 50. Politics and Music
+## 49. 戦争と音楽
 
-Music has also been deeply connected to political movements.
+音楽は平和な場面だけで使われてきたわけではない。
 
-protest song.
+戦争でも音楽が使われてきた。
 
-Revolutionary song.
+行進。
 
-Labor song.
+軍楽。
 
-national anthem.
+合唱。
 
-Election campaign music.
+掛け声。
 
-A social movement song.
+太鼓。
 
-These are not just entertainment.
+信号音。
 
-### Songs become a device for multiple people to say the same words
+### リズムは集団行動を組織できる
 
-There is a difference between reading a political message in writing and singing it in a group.
+軍事行動では、集団の動きを揃える必要がある。
 
-In the text, each person reads separately.
+歩く。
 
-In a song, many people can say the same words at the same time.
+止まる。
 
-Therefore, songs become collective statements.
+進む。
 
-### Music is memorable
+方向を変える。
 
-Political slogans can be forgotten.
+音は、こうした動作のタイミングを共有するために利用できる。
 
-However, words associated with a melody can be memorable.
+特に太鼓や管楽器など、遠くまで届く音は集団行動と相性がよい。
 
-lyrics.
+### 音楽は士気にも関係する
 
-rhythm.
+戦争における音楽は、命令だけを伝えるものではない。
 
-melody.
+集団の感情を作る。
 
-Experience singing in a group.
+勇気。
 
-These become one.
+緊張。
 
-As a result, music can preserve the memory of social movements for long periods of time.
+誇り。
 
-### It became even more widespread in the record era.
+帰属意識。
 
-With the advent of recording technology, music was no longer just for the people in the room.
+勝利。
 
-You can listen to recorded songs in other places.
+追悼。
 
-You can listen to the same song over and over again.
+これらを表現する。
 
-It can be communicated to people far away.
+国家や軍隊が特定の歌を象徴として使うこともある。
 
-Here, music begins to be freed from spatial constraints.
+### ここには音楽の危険な側面もある
 
-> Recording technology is not only used to preserve music. It also gave them the power to transport collective memories and political messages over long distances.
+音楽は共同体を強くする。
+
+しかし、その共同体意識が「自分たち」と「他者」の対立を強めることもある。
+
+同じ歌を歌う人々が結束する。
+
+その一方で、歌われていない側を外部として認識する。
+
+音楽は本質的に善でも悪でもない。
+
+人間が作る社会的関係の中で、その力が使われる。
+
+> 音楽は人間を一つにする力を持つからこそ、その「一つ」が誰を含み、誰を外に置くのかが重要になる。
 
 ---
 
-## 51. The appearance of writing did not end music.
+## 50. 政治と音楽
 
-Which brings us back to the first question in the series.
+政治運動にも音楽は深く関係してきた。
 
-"Did music exist before writing?"
+抗議歌。
 
-If musical behavior existed before writing, what changed with the advent of writing?
+革命歌。
 
-The answer is not just that music can now be stored.
+労働歌。
 
-The way music is recorded has changed.
+国歌。
 
-### Letters do not perfectly preserve sounds
+選挙キャンペーンの音楽。
 
-Letters can store words.
+社会運動の歌。
 
-However, ordinary characters alone cannot completely preserve voice pitch, voice quality, detailed rhythm, volume, etc.
+これらは、単なる娯楽ではない。
 
-It is possible to record the fact that you ""sang'' in writing.
+### 歌は複数人が同じ言葉を発するための装置になる
 
-However, it is difficult to completely recreate how it was actually sung.
+政治的なメッセージを文章で読むことと、集団で歌うことは違う。
 
-To solve this problem, alternative notations for recording music were developed.
+文章では、一人ひとりが別々に読む。
 
-### The advent of sheet music
+歌では、多くの人が同じ言葉を同じ時間に発することができる。
 
-Music notation converts music into visual symbols.
+そのため、歌は集団的な発言になる。
 
-The pitch of the sound.
+### 音楽は記憶に残る
 
-length of sound.
+政治的なスローガンは忘れられることがある。
 
-rhythm.
+しかし、旋律と結びついた言葉は記憶に残る場合がある。
 
-rest.
+歌詞。
 
-How to play.
+リズム。
 
-This information can be recorded according to certain rules.
+メロディー。
 
-This was a big change.
+集団で歌った経験。
 
-Music no longer needs to rely solely on human memory.
+これらが一つになる。
 
-### Past music can be reconstructed through musical notation
+その結果、音楽は社会運動の記憶を長期間保存することがある。
 
-If the sheet music remains, future generations of performers can perform the works of the past.
+### レコード時代にはさらに広がった
 
-Of course, it is not possible to completely reproduce the performance from that time using sheet music alone.
+録音技術が登場すると、音楽はその場にいる人間だけのものではなくなった。
 
-tempo.
+録音された歌を別の場所で聴ける。
 
-Tone.
+同じ歌を何度も聴ける。
 
-decoration.
+遠く離れた人間にも伝えられる。
 
-Performance customs.
+ここで音楽は、空間的な制約から解放され始める。
 
-Some parts of these are not notated.
+> 録音技術は音楽を保存しただけではない。集団の記憶や政治的メッセージを遠くへ移動させる力も与えた。
 
-Still, it's great to be able to visually preserve parts of music.
+---
+
+## 51. 文字の登場は音楽を終わらせなかった
+
+ここで、シリーズの最初の問いに戻る。
+
+「文字より先に音楽があったのか？」
+
+もし文字以前から音楽的行動が存在していたなら、文字の登場によって何が変わったのだろうか。
+
+答えは、「音楽が保存できるようになった」だけではない。
+
+音楽を記録する方法そのものが変わった。
+
+### 文字は音を完全には保存しない
+
+文字は言葉を保存できる。
+
+しかし、通常の文字だけでは、声の高さ、声質、細かなリズム、音量などを完全には保存できない。
+
+「歌った」という事実を文字で記録することはできる。
+
+しかし、実際にどのように歌われたのかを完全に再現するのは難しい。
+
+この問題を解決するために、音楽を記録するための別の記法が発展した。
+
+### 楽譜の登場
+
+音楽記譜は、音楽を視覚的な記号へ変換する。
+
+音の高さ。
+
+音の長さ。
+
+リズム。
+
+休符。
+
+演奏方法。
+
+こうした情報を一定の規則で記録できる。
+
+これは大きな変化だった。
+
+音楽は、人間の記憶だけに依存する必要が少なくなった。
+
+### 記譜によって過去の音楽を再構成できる
+
+楽譜が残っていれば、後世の演奏者が過去の作品を演奏できる。
+
+もちろん、楽譜だけでは当時の演奏を完全に再現できない。
+
+テンポ。
+
+音色。
+
+装飾。
+
+演奏慣習。
+
+これらには記譜されない部分もある。
+
+それでも、音楽の一部を視覚的に保存できるようになったことは大きい。
 
 <div class="mermaid">
 flowchart TD
-    A["oral tradition"] --> B["memory"]
-    B --> C["Singing/Performance"]
-    C --> D["Notation"]
-    D --> E["Visual preservation"]
-    E --> F["Replay"]
+    A["口承"] --> B["記憶"]
+    B --> C["歌・演奏"]
+    C --> D["記譜"]
+    D --> E["視覚的保存"]
+    E --> F["再演奏"]
 </div>
 
-Music has found a new way to move from the body to paper.
+音楽は、身体から紙へ移動する新しい方法を手に入れた。
 
-> The advent of writing and musical notation did not replace music, but created the possibility of preserving music in other ways.
-
----
-
-## 52. Notation changed music
-
-When it became possible to record music, the composition itself changed.
-
-### You can imagine more than you can memorize.
-
-Music that can be memorized orally is limited by the human memory capacity.
-
-Notation allows you to visually review long pieces.
-
-Multiple parts can be designed at the same time.
-
-You can refer to previously created parts.
-
-You can modify the entire work later.
-
-This has the potential to significantly change the structure of music.
-
-### The roles of composer and performer are separated
-
-In oral music, creating and performing can be closely linked.
-
-But in notated works, the composer writes the score, which can be read by another performer.
-
-This separation turns music into a massive collaboration.
-
-### Music becomes a "work"
-
-Notation transforms music from a one-time event into a piece that can be performed over and over again.
-
-Play the same score in different locations.
-
-played by another performer.
-
-Replay in another era.
-
-This property becomes especially important in later classical music culture.
-
-> Notation transformed music from something you remember to something you can perform again.
+> 文字と記譜の登場は音楽を置き換えたのではなく、音楽を別の方法で保存する可能性を作った。
 
 ---
 
-## 53. Printing technology reproduces music in large quantities
+## 52. 記譜は音楽を変えた
 
-As printing technology developed, it became possible to reproduce musical scores.
+音楽を記録できるようになると、作曲そのものも変わる。
 
-There is no need to copy each work by hand.
+### 記憶できる量を超えて構想できる
 
-The same content can be delivered to many people.
+口頭で覚えられる音楽には、人間の記憶容量という制約がある。
 
-This changed the scale of musical culture.
+記譜を使えば、長い作品を視覚的に確認できる。
 
-### Music score moves
+複数のパートを同時に設計できる。
 
-Music created in one region is transmitted to another region.
+以前に作った部分を参照できる。
 
-Performers learn new pieces.
+作品全体を後から修正できる。
 
-Another composer is influenced.
+これは音楽の構造を大きく変える可能性がある。
 
-Create new works.
+### 作曲家と演奏者の役割が分離する
 
-In this way, the network of music culture expands.
+口承音楽では、作ることと演奏することが密接に結びつく場合がある。
 
-### Music standardization
+しかし記譜された作品では、作曲者が楽譜を書き、別の演奏者がそれを読むことができる。
 
-Using the same score, you can perform the same piece in multiple locations.
+この分離は、音楽を大規模な共同作業へ変えていく。
 
-It doesn't mean they play exactly the same.
+### 音楽は「作品」になる
 
-However, they can share a common structure.
+記譜は、音楽を一回限りの出来事から、繰り返し実行できる作品へ変える。
 
-This will advance the standardization of music.
+同じ楽譜を別の場所で演奏する。
 
-### And a new audience is born
+別の演奏者が演奏する。
 
-It's not just people who play music.
+別の時代に再演する。
 
-A person who reads music scores.
+この性質は、後のクラシック音楽文化において特に重要になる。
 
-People who buy sheet music.
-
-A person who goes to a concert.
-
-A person who teaches music.
-
-A person who criticizes music.
-
-This surrounding culture also grows.
-
-> Once it became possible to reproduce music, not only the music itself, but also the society surrounding music grew.
+> 記譜は音楽を「覚えているもの」から「再び実行できるもの」へ変えた。
 
 ---
 
-## 54. Recording technology has preserved the "sound itself"
+## 53. 印刷技術が音楽を大量に複製する
 
-Sheet music converts music into symbols.
+印刷技術が発達すると、楽譜も複製できるようになる。
 
-However, recording technology has made it possible to preserve the sound itself.
+一つの作品を手で写す必要がなくなる。
 
-This was a historically significant change.
+同じ内容を多数の人間へ届けられる。
 
-### The music up until then had disappeared
+これは音楽文化の規模を変えた。
 
-When the performance ends, the sound disappears.
+### 楽譜が移動する
 
-Different people can perform the same piece.
+ある地域で作られた音楽が、別の地域へ伝わる。
 
-However, it is not possible to listen to past performances later.
+演奏者が新しい作品を学ぶ。
 
-Recording technology has changed this situation.
+別の作曲家が影響を受ける。
 
-Even after the performance is over, the sound remains on the medium.
+新しい作品を作る。
 
-You can play it later.
+こうして音楽文化のネットワークが広がる。
 
-### The very existence of the performer is preserved
+### 音楽の標準化
 
-What sheet music primarily preserves is the structure of the piece.
+同じ楽譜を使えば、同じ作品を複数の場所で演奏できる。
 
-Recordings can preserve the performer's voice, timbre, timing, and nuance.
+完全に同じ演奏になるわけではない。
 
-Even if it"s the same song, it"s different depending on the performer.
+しかし、共通の構造を共有できる。
 
-You can record the difference.
+これは音楽の標準化を進める。
 
-This is also important for music history research.
+### そして新しい聴衆が生まれる
 
-### Recording made new music
+音楽を演奏する人だけではない。
 
-Recording is not just about storage.
+楽譜を読む人。
 
-edit.
+楽譜を買う人。
 
-cut.
+演奏会に行く人。
 
-connection.
+音楽を教える人。
 
-Overlapping recording.
+音楽を批評する人。
 
-effect.
+こうした周辺文化も成長する。
 
-Reverse playback.
-
-sampling.
-
-Through these, recording itself becomes a tool for music production.
-
-Here the music changes dramatically again.
-
-What used to be a technology for recording performances has become a technology for creating music.
-
-> Recording technology has changed from a ""machine that stores music" to an ""instrument that creates music itself."
+> 音楽が複製できるようになると、音楽そのものだけでなく、音楽を取り巻く社会も大きくなった。
 
 ---
 
-## 55. Records created a sense of "owning music"
+## 54. 録音技術が「音そのもの」を保存した
 
-Once recorded music was recorded on a physical medium, humans could carry music with them.
+楽譜は音楽を記号に変換する。
 
-record.
+しかし録音技術は、音そのものを保存できるようにした。
 
-Then tape.
+これは歴史的に極めて大きな変化だった。
 
-CD.
+### それまでの音楽は消えていた
 
-More digital files.
+演奏が終われば、その音は消える。
 
-Music becomes separated from place.
+別の人間が同じ作品を演奏することはできる。
 
-### Music leaves the "place"
+しかし、過去の演奏そのものを後から聴くことはできない。
 
-In the old days, music was basically an on-the-spot experience.
+録音技術は、この状況を変えた。
 
-festival.
+演奏が終わっても、音が媒体に残る。
 
-Ceremony.
+後から再生できる。
 
-Concert.
+### 演奏者の存在そのものが保存される
 
-home.
+楽譜が保存するのは主に作品の構造だ。
 
-community.
+録音は、演奏者の声や音色、タイミング、ニュアンスまで保存できる。
 
-But recorded music can be played elsewhere.
+同じ曲でも、演奏者によって違う。
 
-Listen to music recorded in New York in Tokyo.
+その違いを記録できる。
 
-Listening to music made in America in Africa.
+これは音楽史の研究にとっても重要だ。
 
-Listen to Japanese music in Europe.
+### 録音は新しい音楽を作った
 
-The speed of music movement changes dramatically.
+録音は保存だけではない。
 
-### Cultural mixing accelerates
+編集。
 
-Music from different regions meets.
+カット。
 
-New musical instruments are introduced.
+接続。
 
-New rhythms are combined.
+重ね録り。
 
-A fusion of different genres.
+エフェクト。
 
-In this way, the musical culture of the 20th century changed at an extremely rapid pace.
+逆再生。
 
-Recording became an important element in changing the history of music from ""local history" to ""global network."
+サンプリング。
 
-> Recording not only preserved music from time, but also freed it from geography.
+これらによって、録音そのものが音楽制作の道具になる。
 
----
+ここで音楽は再び大きく変わる。
 
-## 56. Radio created a culture of listening to music at the same time.
+演奏を記録するための技術だったものが、音楽を作るための技術になる。
 
-As recorded music spread, new media emerged.
-
-It's a radio.
-
-Radio delivers music to many people at the same time.
-
-### Listen to the same song at the same time
-
-This was very powerful.
-
-People in different locations listen to the same broadcast.
-
-listen to the same song.
-
-Listen to the same news.
-
-Hear the same voice.
-
-Music is both an individual experience and a huge simultaneous experience.
-
-### Stars spread across the country and around the world
-
-Previously, a performer's popularity was limited to his or her region.
-
-But on radio, your voice can travel far.
-
-A particular singer or band becomes known in a wide area.
-
-The music industry will also become huge.
-
-Broadcasting station.
-
-record company.
-
-Music publisher.
-
-manager.
-
-promoter.
-
-media.
-
-Music is being incorporated into a huge industrial system.
-
-### However, the essence remains the same
-
-Even if the medium changes, humans still listen to sound.
-
-Feel the rhythm.
-
-sing.
-
-dance.
-
-Remember.
-
-Share with someone.
-
-Music's social function continues to exist even in new technologies.
-
-> Even though the media changed, the act of humans sharing music did not disappear.
+> 録音技術は「音楽を保存する機械」から「音楽そのものを作る楽器」へ変わった。
 
 ---
 
-## 57. Sampling turns "cultural memory" into sound
+## 55. レコードは「音楽を所有する」という感覚を作った
 
-As recording technology develops, it becomes possible to incorporate sounds from the past into new music.
+録音された音楽が物理媒体に収録されると、人間は音楽を持ち運べるようになった。
 
-Sampling is a typical method.
+レコード。
 
-### Bringing the sounds of the past into the present
+後にはテープ。
 
-old drum.
+CD。
 
-old voice
+さらにデジタルファイル。
 
-old melody.
+音楽は場所から切り離されていく。
 
-old record.
+### 音楽が「場所」から離れる
 
-Cut out past recordings and place them in new works.
+古い時代の音楽は、基本的にその場で経験するものだった。
 
-Here, the history of music itself becomes the material.
+祭り。
 
-### Hip hop and sampling
+儀礼。
 
-In hip-hop, a sampling culture that utilized existing recordings played an important role.
+演奏会。
 
-drum break.
+家庭。
 
-baseline.
+共同体。
 
-voice.
+しかし録音された音楽は、別の場所で再生できる。
 
-Horn.
+ニューヨークで録音された音楽を東京で聴く。
 
-Different sounds are used in new contexts.
+アメリカで作られた音楽をアフリカで聴く。
 
-Even the same sound can have different meanings depending on where it is placed.
+日本の音楽をヨーロッパで聴く。
 
-### Music history becomes a "sound database"
+音楽の移動速度が劇的に変わる。
 
-A very important change occurs here.
+### 文化の混合が加速する
 
-The music of the past is no longer just the past.
+異なる地域の音楽が出会う。
 
-The sounds of the past themselves become the material for new works.
+新しい楽器が導入される。
 
-Musicians can quote the past.
+新しいリズムが組み合わされる。
 
-The past can be reconstructed.
+異なるジャンルが融合する。
 
-You can criticize the past.
+こうして、20世紀の音楽文化は非常に速い速度で変化する。
 
-We can introduce the past to new generations.
+録音は、音楽の歴史を「地域の歴史」から「世界規模のネットワーク」へ変えていく重要な要素になった。
 
-Music begins to use its own history as material.
-
-> The recorded past is both a memory and a material for creating future music.
+> 録音は音楽を時間から保存しただけではなく、音楽を地理から解放した。
 
 ---
 
-## 58. With digitalization, music is no longer a "thing"
+## 56. ラジオは音楽を「同時に聴く」文化を作った
 
-Digital technology has brought about even greater changes.
+録音された音楽が広がると、さらに新しいメディアが登場する。
 
-Music has moved from physical media to data.
+ラジオだ。
 
-have a record.
+ラジオは、音楽を多数の人間へ同時に届ける。
 
-Have a CD.
+### 同じ曲を同じ時間に聴く
 
-Have a cassette.
+これは非常に強力だった。
 
-We have moved from the era of storing music files to the era of storing music files.
+離れた場所にいる人間が、同じ放送を聴く。
 
-Streaming has made it common to access music without owning it.
+同じ曲を聴く。
 
-### Music location disappears
+同じニュースを聞く。
 
-Records have a place.
+同じ声を聞く。
 
-put it on the shelf.
+音楽は、個人の体験であると同時に、巨大な同時体験になる。
 
-CDs also have a place.
+### スターが全国へ、世界へ広がる
 
-The hard disk also has a place for data.
+以前なら、演奏者の知名度は地域に制限される。
 
-But with streaming, listeners can play the music without physically having it in their possession.
+しかしラジオでは、声が遠くまで届く。
 
-Music has increasingly changed from being a ""property" to ""accessible information."
+特定の歌手やバンドが広い地域で知られるようになる。
 
-### But physicality doesn't go away
+音楽産業も巨大化する。
 
-Digitalization has not completely dematerialized music.
+放送局。
 
-Humans still listen to sounds with their ears.
+レコード会社。
 
-A speaker vibrates the air.
+音楽出版社。
 
-Headphones deliver sound to your ears.
+マネージャー。
 
-The body reacts.
+プロモーター。
 
-In other words, what has been digitized is the way music is stored and distributed, not the human body itself that experiences music.
+メディア。
 
-> Music has become data, but the people who listen to music do not become data.
+音楽は巨大な産業システムへ組み込まれていく。
+
+### それでも本質は変わらない
+
+媒体が変わっても、人間は音を聴く。
+
+リズムを感じる。
+
+歌う。
+
+踊る。
+
+記憶する。
+
+誰かと共有する。
+
+音楽の社会的な機能は、新しい技術の中でも生き続ける。
+
+> メディアが変わっても、人間が音楽を共有するという行動そのものは消えなかった。
 
 ---
 
-## 59. The sounds that came before the letters remained after the letters.
+## 57. サンプリングは「文化の記憶」を音にする
 
-At this point, the first question becomes clear in a different form.
+録音技術が発展すると、過去の音を新しい音楽に組み込むことが可能になる。
 
-"Did music come before writing?"
+サンプリングはその代表的な方法だ。
 
-Perhaps things like musical acts and songs are much older than writing.
+### 過去の音を現在へ持ってくる
 
-However, what really matters is not just "which came first."
+古いドラム。
 
-The important thing is that even with the advent of writing, music continued to be needed.
+古い声。
 
-### Even after writing was created, humans sang.
+古いメロディー。
 
-If there is text, information can be stored in written form.
+古いレコード。
 
-However, there are some things that writing cannot do.
+過去の録音を切り出し、新しい作品の中に置く。
 
-sing together.
+ここでは、音楽の歴史そのものが素材になる。
 
-dance.
+### ヒップホップとサンプリング
 
-Synchronize.
+ヒップホップでは、既存の録音を利用するサンプリング文化が重要な役割を果たした。
 
-Share your feelings.
+ドラムブレイク。
 
-Make your voice heard.
+ベースライン。
 
-Move your body.
+声。
 
-These actions cannot be replaced by words alone.
+ホーン。
 
-So even when writing appeared, music remained.
+さまざまな音が、新しい文脈で使われる。
 
-### Even if the score was created, it was still necessary to perform it.
+同じ音でも、置かれる場所が変われば意味が変わる。
 
-If you have sheet music, you can record your work.
+### 音楽史が「音のデータベース」になる
 
-However, the musical score itself is not the sound.
+ここで非常に重要な変化が起こる。
 
-The performer reads.
+過去の音楽が単なる過去ではなくなる。
 
-Use your body.
+過去の音そのものが、新しい作品の材料になる。
 
-play an instrument.
+音楽家は過去を引用できる。
+
+過去を再構成できる。
+
+過去を批評できる。
+
+過去を新しい世代へ紹介できる。
+
+音楽は、自分自身の歴史を素材として利用し始める。
+
+> 録音された過去は、記憶であると同時に、未来の音楽を作るための素材になった。
+
+---
+
+## 58. デジタル化で音楽は「物」ではなくなった
+
+デジタル技術は、さらに大きな変化を起こした。
+
+音楽は物理媒体からデータへ移動した。
+
+レコードを持つ。
+
+CDを持つ。
+
+カセットを持つ。
+
+という時代から、音楽ファイルを保存する時代へ移った。
+
+そして、ストリーミングによって、音楽そのものを所有せずにアクセスすることが一般化した。
+
+### 音楽の場所が消える
+
+レコードには場所がある。
+
+棚に置く。
+
+CDにも場所がある。
+
+ハードディスクにもデータの場所がある。
+
+しかしストリーミングでは、聴き手は音楽そのものを物理的に持っていなくても再生できる。
+
+音楽は、ますます「所有物」から「アクセス可能な情報」へ変化した。
+
+### しかし身体性は消えない
+
+デジタル化によって、音楽が完全に非物質化したわけではない。
+
+人間は依然として音を耳で聴く。
+
+スピーカーが空気を振動させる。
+
+ヘッドホンが耳へ音を届ける。
+
+身体が反応する。
+
+つまり、デジタル化されたのは音楽の保存・配信方法であって、音楽を経験する人間の身体そのものではない。
+
+> 音楽はデータになったが、音楽を聴く人間はデータにはならない。
+
+---
+
+## 59. 文字より先にあった音は、文字の後にも残った
+
+ここまで来ると、最初の問いが別の形で見えてくる。
+
+「音楽は文字より先にあったのか？」
+
+おそらく、音楽的行動や歌のようなものは、文字よりはるかに古い。
+
+しかし、本当に重要なのは「どちらが先だったか」だけではない。
+
+重要なのは、文字が登場しても音楽が必要とされ続けたことだ。
+
+### 文字ができても、人間は歌った
+
+文字があれば、情報を文章で保存できる。
+
+しかし文章にはできないことがある。
+
+一緒に歌う。
+
+踊る。
+
+同期する。
+
+感情を共有する。
+
+声を響かせる。
+
+身体を動かす。
+
+こうした行動は、文字だけでは置き換えられない。
+
+だから、文字が登場しても音楽は残った。
+
+### 楽譜ができても、演奏は必要だった
+
+楽譜があれば作品を記録できる。
+
+しかし、楽譜そのものが音ではない。
+
+演奏者が読む。
+
+身体を使う。
+
+楽器を鳴らす。
 
 空気を振動させる。
 
-The listener listens.
+聴き手が聴く。
 
 そこで初めて音楽になる。
 
-### Even if the recording was possible, the live performance did not disappear.
+### 録音ができても、ライブは消えなかった
 
-Even if recording became possible, people would still go to concerts.
+録音ができるようになっても、人間は演奏会へ行く。
 
-Watch live.
+ライブを見る。
 
-sing together.
+一緒に歌う。
 
-dance.
+踊る。
 
-I applaud.
+拍手する。
 
-In other words, rather than replacing music, technology has augmented the ways we experience music.
+つまり、技術は音楽を置き換えるのではなく、音楽の経験方法を増やしてきた。
 
->Every time humans invent a new medium, we haven"t abandoned music; we"ve added more ways to experience music.
+> 人間は新しいメディアを発明するたびに音楽を捨てたのではなく、音楽を経験する方法を増やしてきた。
 
 ---
 
-## 60. Is music "information" or "experience"?
+## 60. 音楽は「情報」なのか「経験」なのか
 
-There is a difference here that is very important for understanding music.
+ここには、音楽を理解するうえで非常に重要な違いがある。
 
-Music can be stored as information.
+音楽は情報として保存できる。
 
 Sheet music.
 
-recording.
+録音。
 
-digital data.
+デジタルデータ。
 
-However, music is not just information.
+しかし、音楽は情報だけではない。
 
-### Music has a physical experience.
+### 音楽には身体的な経験がある
 
-Listen to the sound.
+音を聴く。
 
-My body moves.
+身体が動く。
 
-Speak out.
+声を出す。
 
-dance.
+踊る。
 
-Tears come out.
+涙が出る。
 
-get nervous.
+緊張する。
 
-Excited.
+興奮する。
 
-calm down.
+落ち着く。
 
-These are different from simple information transmission.
+これらは、単純な情報伝達とは違う。
 
-Music can also convey information.
+音楽は、情報を伝えることもできる。
 
 But at the same time, it makes your body experience something.
 
-### That's why music cannot be completely replaced by text.
+### だから音楽は文字に完全には置き換えられない
 
-I can write a sentence like ""This song is sad.''
+「この曲は悲しい」という文章は書ける。
 
-But reading the text doesn't give you the same experience as listening to the song.
+しかし、その文章を読んでも、その曲を聴いたときと同じ経験になるわけではない。
 
-You can explain it by saying, "This song is fast."
+「この曲は速い」と説明できる。
 
-However, when you actually listen to it, your body reacts in a different way.
+しかし、実際に聴けば身体は別の方法で反応する。
 
-In music, there is a difference between what is explained and what is experienced.
+音楽には、説明されるものと、経験されるものの違いがある。
 
-> Music not only conveys meaning, but also creates the physical experience itself before meaning is born.
+> 音楽は意味を伝えるだけではなく、意味が生まれる前の身体的な経験そのものを作る。
 
 ---
 
-## 61. Why do humans still sing?
+## 61. なぜ人間は今でも歌うのか
 
-Modern humans have writing.
+現代の人間は、文字を持っている。
 
-There is also a video.
+映像もある。
 
 There's also the internet.
 
-There's also a search engine.
+検索エンジンもある。
 
-There is also artificial intelligence.
+人工知能もある。
 
-There is also a huge database.
+巨大なデータベースもある。
 
-Still, humans sing.
+それでも、人間は歌う。
 
-Sing to children.
+子どもに歌う。
 
-sing to your lover
+恋人に歌う。
 
-Sing with friends.
+友人と歌う。
 
-Sing live.
+ライブで歌う。
 
-Sing at religious occasions.
+宗教的な場で歌う。
 
-Sing at sports venues.
+スポーツ会場で歌う。
 
-Singing at protests.
+抗議活動で歌う。
 
-sing alone.
+一人で歌う。
 
-I wonder why.
+なぜだろう。
 
-### Songs can be used to "be with someone at the same time"
+### 歌は「誰かと同じ時間にいる」ために使える
 
-When we sing, humans share the same moment.
+歌を歌うとき、人間は同じ時間を共有する。
 
-One person sings.
+一人が歌う。
 
-Another person listens.
+別の人が聴く。
 
-Multiple people sing.
+複数人が歌う。
 
-People who know the same song can predict the next words.
+同じ歌を知っている人間なら、次の言葉を予測できる。
 
-This is connected to a very old social ability.
+これは非常に古い社会的能力とつながっている。
 
-### Songs create relationships
+### 歌は人間関係を作る
 
-Parents sing to their children.
+親が子どもに歌う。
 
-Children hear voices.
+子どもは声を聞く。
 
-The same song is repeated.
+同じ歌が繰り返される。
 
-That song becomes a memory.
+その歌が記憶になる。
 
-I remember that song when I grew up.
+大人になってから、その歌を思い出す。
 
-Music, memory, the body, and social relationships all overlap here.
+ここには、音楽、記憶、身体、社会関係がすべて重なっている。
 
-### Even as technology advances, this relationship remains
+### 技術が進歩しても、この関係は残る
 
-Sing even if you have a smartphone.
+スマートフォンがあっても歌う。
 
-Sing even with streaming.
+ストリーミングがあっても歌う。
 
-I go to live shows even if I have high-performance speakers.
+高性能なスピーカーがあってもライブへ行く。
 
-Even if there are machines that can play music, humans still use their own voices.
+音楽を再生できる機械が存在しても、人間は自分の声を使う。
 
-This is because music is not only something that is played, but also an action between humans.
+なぜなら、音楽は再生されるものだけではなく、人間同士の行動でもあるからだ。
 
-> Humans don't just sing because they need music. We also sing to build relationships between people.
+> 人間は音楽を必要とするから歌うだけではない。人間同士の関係を作るためにも歌う。
 
 ---
 
-## 62. Was music "humanity"s oldest technology"?
+## 62. 音楽は「人類最古のテクノロジー」だったのか
 
-Looking at the history up to this point, it is possible to think of music as a type of technology.
+ここまでの歴史を見ると、音楽を一種の技術として考えることもできる。
 
-However, it is different from modern mechanical technology.
+ただし、現代の機械技術とは違う。
 
-### The first instrument was the body
+### 最初の楽器は身体だった
 
-Humans have hands.
+人間には手がある。
 
-It has legs.
+足がある。
 
-It has a mouth.
+口がある。
 
-It has vocal cords.
+声帯がある。
 
-The body itself can create sound.
+身体そのものが音を作れる。
 
-Clap your hands.
+手を叩く。
 
-Step on your foot.
+足を踏む。
 
-Speak out.
+声を出す。
 
-Move your body.
+身体を動かす。
 
-This alone creates rhythm and sound.
+これだけでリズムと音が生まれる。
 
-### Then use external objects
+### その後、外部の物体を使う
 
-stone.
+石。
 
-tree.
+木。
 
-bone.
+骨。
 
-leather.
+皮。
 
-plant.
+植物。
 
-Shellfish.
+貝。
 
-metal.
+金属。
 
-Various materials produce sound.
+さまざまな素材が音を生み出す。
 
-Humans come to utilize the acoustic properties of objects in nature.
+人間は、自然界にある物体の音響的性質を利用するようになる。
 
-This is where musical instruments are born.
+ここから楽器が生まれる。
 
-### Instruments expand physical capabilities
+### 楽器は身体能力を拡張する
 
-A sound that cannot be made with just the voice.
+声だけでは出せない音。
 
-Sounds that cannot be made with just your hands.
+手だけでは作れない音。
 
-A long sound.
+長く響く音。
 
-loud sound.
+大きな音。
 
-low sound.
+低い音。
 
-high pitched sound
+高い音。
 
-complex sound.
+複雑な音。
 
-Musical instruments extend the acoustic capabilities of the human body.
+楽器は、人間の身体の音響能力を拡張する。
 
-This is similar to modern technology.
+これは現代の技術にも似ている。
 
-This is because technology is something that expands human capabilities.
+技術とは、人間の能力を拡張するものだからだ。
 
-> The history of music can also be seen as a history of humans expanding their bodies acoustically.
+> 音楽の歴史は、人間が自分の身体を音響的に拡張していった歴史としても見ることができる。
 
 ---
 
-## 63. Music and the city
+## 63. 音楽と都市
 
-As civilization develops, humans create huge settlements.
+文明が発展すると、人間は巨大な集落を作る。
 
-village.
+村。
 
-town.
+町。
 
-City.
+都市。
 
-Many people gather in cities.
+都市には、多くの人間が集まる。
 
-Different cultures meet.
+異なる文化が出会う。
 
-Different languages ​​meet.
+異なる言語が出会う。
 
-Different music meets.
+異なる音楽が出会う。
 
-### Cities mix music
+### 都市は音楽を混ぜる
 
-There are many different types of people in the city.
+都市には、さまざまな人間がいる。
 
-immigration.
+移民。
 
-merchant.
+商人。
 
-laborer.
+労働者。
 
-Artist.
+芸術家。
 
-religious group.
+宗教集団。
 
-young people.
+若者。
 
-Traveler.
+旅行者。
 
-The music brought by these people meets each other.
+こうした人々が持ち込んだ音楽が出会う。
 
-New music is born.
+新しい音楽が生まれる。
 
-This is repeated in modern music history.
+これは現代の音楽史でも繰り返されている。
 
-### Music records urban change
+### 音楽は都市の変化を記録する
 
-When you listen to the music of a city, you can sometimes see the history of that city.
+都市の音楽を聴けば、その都市の歴史が見えることがある。
 
-Labor.
+労働。
 
-immigration.
+移民。
 
-Race.
+人種。
 
-class.
+階級。
 
-youth culture.
+若者文化。
 
-club culture.
+クラブ文化。
 
-street culture.
+ストリート文化。
 
-technology.
+技術。
 
-Politics.
+政治。
 
-Music is not unrelated to the social structure of cities.
+音楽は都市の社会構造と無関係ではない。
 
-### New music often comes from cities
+### 新しい音楽は都市から生まれることが多い
 
-jazz.
+ジャズ。
 
-rock.
+ロック。
 
-hip hop.
+ヒップホップ。
 
-House.
+ハウス。
 
-Techno.
+テクノ。
 
-Grime.
+グライム。
 
-Amapiano.
+アマピアノ。
 
-Each of these comes from a different history and location.
+これらは、それぞれ異なる歴史と場所から生まれた。
 
-Music changes when different cultures come into contact in places where humans live in close quarters.
+音楽は、人間が密集して暮らす場所で異なる文化が接触することによって変化する。
 
-> Cities attract people. And in places where people gather, music also mixes and transforms into new forms.
+> 都市は人間を集める。そして人間が集まる場所では、音楽も混ざり、新しい形へ変化する。
 
 ---
 
-## 64. Music history is also "technological history"
+## 64. 音楽史は「技術史」でもある
 
-If we look at the history of music, we can see that changes in technology have changed the form of music.
+音楽の歴史を見ると、技術の変化が音楽の形式を変えてきたことが分かる。
 
-voice.
+声。
 
-body.
+身体。
 
-primitive musical instrument.
+原始的な楽器。
 
-A complex instrument.
+複雑な楽器。
 
-Notation.
+記譜。
 
-printing.
+印刷。
 
-recording.
+録音。
 
-electricity.
+電気。
 
-electronic musical instrument.
+電子楽器。
 
-computer.
+コンピューター。
 
-Digital distribution.
+デジタル配信。
 
-Each created new possibilities.
+それぞれが新しい可能性を作った。
 
-### Technology increases what musicians can do
+### 技術は音楽家の「できること」を増やす
 
-Without electricity, there would be no electrically amplified guitar.
+電気がなければ、電気増幅されたギターは存在しない。
 
-Without recording, sampling culture cannot exist.
+録音がなければ、サンプリング文化は成立しない。
 
-Without electronic circuits, there would be no synthesizer.
+電子回路がなければ、シンセサイザーは存在しない。
 
-Without computers, modern DAW environments would not exist.
+コンピューターがなければ、現代のDAW環境は存在しない。
 
-Without streaming, the current music distribution model would not exist.
+ストリーミングがなければ、現在の音楽配信モデルは存在しない。
 
-However, technology alone does not create music.
+しかし、技術だけでは音楽は生まれない。
 
-Humans need to use this technology to create a new culture.
+人間がその技術を使い、新しい文化を作る必要がある。
 
-### New technology creates new aesthetics
+### 新しい技術は新しい美学を作る
 
-Synthesizers created sounds that were not available in traditional musical instruments.
+シンセサイザーは、従来の楽器にはなかった音を作った。
 
-Tapes made it possible to edit the recording itself.
+テープは、録音そのものを編集可能にした。
 
-Drum machines allowed repetitive rhythms to be generated mechanically.
+ドラムマシンは、反復するリズムを機械的に生成できるようにした。
 
-Computers have made it possible to manipulate sound as numbers.
+コンピューターは、音を数値として操作できるようにした。
 
-In this way, technology is not just a tool, but creates a new aesthetic.
+こうして技術は、単なる道具ではなく、新しい美学を生み出す。
 
-> In the history of music, new technologies have created new sounds, and new sounds have created new cultures.
+> 音楽の歴史では、新しい技術が新しい音を作り、新しい音が新しい文化を作ってきた。
 
 ---
 
-## 65. Text, musical scores, recordings, digital -- humans have "externalized" sound many times.
+## 65. 文字、楽譜、録音、デジタル――人間は音を何度も「外部化」してきた
 
-Here, we can see the entirety of human history as a single flow.
+ここで、人類史全体を一つの流れとして見ることができる。
 
-At first, humans memorized sounds internally.
+最初、人間は音を身体の中で覚えた。
 
-Then I shared it in words and songs.
+次に言葉や歌として共有した。
 
-And words were externalized through letters.
+そして文字によって言葉を外部化した。
 
-Musical structure was externalized through notation.
+記譜によって音楽の構造を外部化した。
 
-The sound itself was externalized through recording.
+録音によって音そのものを外部化した。
 
-Digitalization has externalized sound as data.
+デジタル化によって音をデータとして外部化した。
 
 <div class="mermaid">
 flowchart LR
-    A["body"] --> B["Voice/Rhythm"]
-    B --> C["oral tradition"]
-    C --> D["character"]
-    D --> E["Sheet music"]
-    E --> F["recording"]
-    F --> G["Digital data"]
-    G --> H["Streaming"]
+    A["身体"] --> B["声・リズム"]
+    B --> C["口承"]
+    C --> D["文字"]
+    D --> E["楽譜"]
+    E --> F["録音"]
+    F --> G["デジタルデータ"]
+    G --> H["ストリーミング"]
 </div>
 
-This is not just a technological advance.
+これは単なる技術の進歩ではない。
 
-It is also a history of humans transferring their memories outside of their bodies.
+人間が記憶を身体の外へ移していく歴史でもある。
 
-### However, complete externalization does not occur
+### しかし、完全な外部化は起こらない
 
-No matter how much music we can store, what we ultimately need is the human body.
+どれほど音楽を保存できても、最後に必要なのは人間の身体だ。
 
-Play.
+再生する。
 
-listen.
+聴く。
 
-Understand.
+理解する。
 
-feel.
+感じる。
 
-dance.
+踊る。
 
-sing.
+歌う。
 
-Music can now be stored outside humans.
+音楽は、人間の外部に保存できるようになった。
 
-However, human experience itself cannot be completely externalized.
+しかし、人間の経験そのものを完全に外部化することはできない。
 
->Humans have externalized sound many times, but the body that experiences music has not been able to externalize it.
+> 人間は音を何度も外部化してきたが、音楽を経験する身体だけは外部化できなかった。
 
 ---
 
-## 66. The true meaning of the question "Music came before writing"
+## 66. 「音楽は文字より先だった」という問いの本当の意味
 
-Let's go back to the first question.
+最初の問いに戻ろう。
 
 **Why Humans Invented Music Before Writing**
 
-Why did humans develop music before writing?
+なぜ人間は、文字より先に音楽を持ったのか。
 
-The fact that music is older than writing is not sufficient as an answer here.
+ここで、「音楽が文字より古い」という事実だけを答えにするのは十分ではない。
 
-This is because writing and music are not technologies that solve the same problem from the beginning.
+なぜなら、文字と音楽は最初から同じ問題を解決する技術ではないからだ。
 
-### characters are saved
+### 文字は保存する
 
-Text stores information visually.
+文字は情報を視覚的に保存する。
 
-Communicate far away.
+遠くへ伝える。
 
-Leave behind time.
+時間を越えて残す。
 
-Record complex information.
+複雑な情報を記録する。
 
-This is a very powerful ability.
+これは非常に強力な能力だ。
 
-### Music is shared
+### 音楽は共有する
 
-Music shares the same time.
+音楽は、同じ時間を共有する。
 
-Synchronize your body.
+身体を同期する。
 
-express emotions.
+感情を表現する。
 
-evoke memories.
+記憶を呼び起こす。
 
-Build a community.
+共同体を作る。
 
-Organize rituals.
+儀礼を組織する。
 
-This is different from text.
+これは文字とは異なる。
 
-### So it was natural that "it happened first"
+### だから「先にあった」のは自然だった
 
-In order for humans to create letters, they first needed complex social and cognitive abilities.
+人間が文字を作るためには、まず複雑な社会と認知能力が必要だった。
 
-On the other hand, you only need your body to make sounds.
+一方、音を出すためには身体だけでもよい。
 
-voice.
+声。
 
-Clap your hands.
+手拍子。
 
-Stepping.
+足踏み。
 
-Breathing.
+呼吸。
 
-sounds of nature.
+自然の音。
 
-No complicated symbology is required.
+複雑な記号体系は必要ない。
 
-In that sense, it is not surprising that musical behavior appeared before writing.
+その意味で、音楽的行動が文字より先に現れたとしても不思議ではない。
 
-> The reason why music came before writing may be because what humans first needed was not ""recording" but ""sharing."
-
----
-
-## 67. However, humans did not invent "music" from the beginning.
-
-There is an important caveat here.
-
-Prehistoric humans did not necessarily have the concept of ""music'' in the modern sense.
-
-Currently, we think of "music" and "language" separately.
-
-music.
-
-conversation.
-
-dance.
-
-theater.
-
-Ceremony.
-
-religion.
-
-However, the distinction was not the same in all cultures.
-
-### Were singing, words, and bodies separate from the beginning?
-
-Humans make voices.
-
-There's a rhythm to that voice.
-
-My body moves.
-
-The group responds.
-
-There is no need to clearly classify it as ""this is music" or ""this is language".
-
-Rather, it is possible that multiple elements were initially present within a single action.
-
-voice.
-
-rhythm.
-
-Works.
-
-Emotions.
-
-meaning.
-
-social relations.
-
-These were together.
-
-### Don't project modern classifications onto the past
-
-This is a very important issue in prehistoric music research.
-
-What modern people call "music" is not necessarily the same acoustic behavior experienced by ancient people.
-
-So we have to be careful when talking about prehistoric music.
-
-What we know for sure.
-
-What can be inferred archaeologically.
-
-What can be considered as a hypothesis from evolutionary theory.
-
-It is necessary to distinguish between these.
-
-> It is highly likely that what humans first created was not a complete category called ""music,'' but an action that was a mixture of sound, body, and society.
+> 音楽が文字より先だったのは、人間が最初に必要としたものが「記録」ではなく、「共有」だったからなのかもしれない。
 
 ---
 
-## 68. Don't look for the origin of music in a single moment
+## 67. しかし、人間は最初から「音楽」を発明したわけではない
 
-When we search for the origins of music, we tend to imagine the ""first music.''
+ここで重要な注意がある。
 
-first song.
+先史時代の人間が、現代の意味での「音楽」という概念を持っていたとは限らない。
 
-the first drum.
+私たちは現在、「音楽」と「言語」を分けて考える。
 
-first instrument.
+音楽。
 
-first melody.
+会話。
 
-However, it is difficult to imagine that such a clear boundary actually existed.
+踊り。
 
-### Evolution has no "first completed form"
+演劇。
 
-Human language has the same problem.
+儀礼。
 
-Humans did not suddenly invent "language" one day.
+宗教。
 
-audio.
+しかし、その区別がすべての文化で同じだったわけではない。
 
-gesture.
+### 歌、言葉、身体は最初から分かれていたのか
 
-Social learning.
+人間が声を出す。
 
-Cognitive ability.
+その声にリズムがある。
 
-memory.
+身体が動く。
 
-These things have changed over time.
+集団が応答する。
 
-We need to think about music in the same way.
+そこから「これは音楽」「これは言語」と明確に分類する必要はない。
 
-### Small abilities overlap
+むしろ、最初は一つの行動の中に複数の要素が存在していた可能性がある。
 
-Distinguish sounds.
+声。
 
-I feel the time.
+リズム。
 
-Learn repetition.
+動作。
 
-Move your body.
+感情。
 
-imitate others.
+意味。
 
-express emotions.
+社会関係。
 
-Remember.
+これらが一緒になっていた。
 
-Act in groups.
+### 現代の分類を過去に投影しない
 
-These abilities are combined.
+これは先史音楽研究で非常に重要な問題だ。
 
-As a result, musical behavior becomes possible.
+現代人が「音楽」と呼ぶものと、古代人が経験していた音響的行動が同じとは限らない。
 
-> Music does not have a "date of invention". Music became human culture as a result of the continuous overlap of multiple human abilities.
+だから、先史時代の音楽について語るときは慎重でなければならない。
 
----
+確実に分かっていること。
 
-## 69. Was music the "social glue" of humanity?
+考古学的に推測できること。
 
-There are many studies on how music creates community.
+進化理論から仮説として考えられること。
 
-However, we cannot simply conclude that ""music evolved as a social glue.''
+これらを区別する必要がある。
 
-Because music has multiple uses.
-
-### Still, synchronization makes sense
-
-Humans move to the same rhythm.
-
-sing the same song.
-
-do the same dance.
-
-This has the potential to enhance the communal experience.
-
-By acting together, we confirm each other's existence.
-
-Know that the other person is in the same rhythm as you.
-
-Then, work together.
-
-### Music makes us strongly aware of "the existence of others"
-
-Even when listening to music alone, the performer is always there.
-
-someone sang.
-
-someone played.
-
-Someone made it.
-
-Someone recorded it.
-
-Music is a culture that moves from person to person.
-
-So music always involves social relationships.
-
-> Music can be listened to alone, but it is not a completely isolated culture.
+> 人間が最初に作ったのは「音楽」という完成したカテゴリーではなく、音と身体と社会が混ざった行動だった可能性が高い。
 
 ---
 
-## 70. And music also creates a "self"
+## 68. 音楽の起源を一つの瞬間に求めてはいけない
 
-Music is not just for groups.
+音楽の起源を探すとき、私たちはつい「最初の音楽」を想像する。
 
-It is also closely related to personal identity.
+最初の歌。
 
-### "What do I listen to?"
+最初の太鼓。
 
-Nowadays, musical tastes become part of self-introduction.
+最初の楽器。
 
-I like rock.
+最初のメロディー。
 
-I like jazz.
+しかし、実際にはそんな明確な境界があったとは考えにくい。
 
-I like techno.
+### 進化には「最初の完成形」がない
 
-I like classical music.
+人間の言語にも同じ問題がある。
 
-I like hip hop.
+ある日突然、人間が「言語」を発明したわけではない。
 
-I like experimental music.
+音声。
 
-This is not just an entertainment choice.
+ジェスチャー。
 
-Sometimes it shows which culture you are close to.
+社会的学習。
 
-### Youth and Music
+認知能力。
 
-Research has shown that music is strongly linked to identity formation during adolescence.
+記憶。
 
-Favorite artist.
+これらが長い時間をかけて変化した。
 
-My favorite genre.
+音楽も同じように考える必要がある。
 
-Favorite lyrics.
+### 小さな能力が重なる
 
-My favorite live performance.
+音を区別する。
 
-My favorite community.
+時間を感じる。
 
-These become part of your self-image.
+反復を学ぶ。
 
-### Music creates the "time axis" of life
+身体を動かす。
 
-"Songs from high school"
+他者を模倣する。
 
-"The first album I bought"
+感情を表現する。
 
-"Music I listened to in college"
+記憶する。
 
-"First Live"
+集団で行動する。
 
-These words come into existence because music is connected to time in one's life.
+こうした能力が組み合わさる。
 
-> Humans don't just listen to music; they also use music to define and remember their lives.
+その結果、音楽的行動が可能になる。
 
----
-
-## 71. Why will music remain in the future?
-
-Writing preserves civilization.
-
-The architecture will also be preserved.
-
-Save the paintings too.
-
-However, music has a unique vitality.
-
-A single melody transcends generations.
-
-Old songs are sung to new people.
-
-Old rhythms turn into new genres.
-
-Old recordings are sampled.
-
-Past music is reinterpreted using new technology.
-
-### Music changes while being copied
-
-Music does not only survive as exact copies.
-
-someone sings
-
-Change it a little.
-
-The next person will remember.
-
-Change it again.
-
-transmitted to another region.
-
-It will change further.
-
-Through this process, music evolves culturally.
-
-### The past does not disappear, it transforms
-
-Looking at music history, past forms rarely disappear completely.
-
-Old rhythms enter new music.
-
-Old melodies are reinterpreted.
-
-Old instruments are used in new contexts.
-
-Old recordings are used in new productions.
-
-The past is the material for the future.
-
-> Music is not only a way to preserve the past, but also a way to transform the past into the future.
+> 音楽には「発明された日」がない。複数の人間能力が重なり続けた結果として、音楽が人類の文化になった。
 
 ---
 
-## 72. Before writing, before civilization, and now
+## 69. 音楽は人類の「社会的接着剤」だったのか
 
-Let's look back at the entire series from the beginning.
+音楽が共同体を作ることについては、多くの研究がある。
 
-Humans were making sounds even before they had letters.
+ただし、「音楽は社会的接着剤として進化した」と単純に結論づけることはできない。
 
-I used my body.
+音楽には複数の用途があるからだ。
 
-I used my voice.
+### それでも同期には意味がある
 
-I created a rhythm.
+人間が同じリズムに合わせて動く。
 
-Synchronized with others.
+同じ歌を歌う。
 
-Sang.
+同じ踊りをする。
 
-danced.
+これは、共同体の経験を強化する可能性がある。
 
-And they turned sound into social action.
+一緒に行動することで、互いの存在を確認する。
 
-Then civilization was born.
+相手が自分と同じリズムにいることを知る。
 
-A city was born.
+そして、共同作業を行う。
 
-A religion was born.
+### 音楽は「他者の存在」を強く意識させる
 
-A nation was born.
+一人で音楽を聴いていても、そこには演奏者の存在がある。
 
-Characters were born.
+誰かが歌った。
 
-A musical score was born.
+誰かが演奏した。
 
-Printing was born.
+誰かが作った。
 
-A recording was born.
+誰かが録音した。
 
-Radio was born.
+音楽は、人間から人間へ移動する文化だ。
 
-A record was born.
+だから音楽には、常に社会的な関係が含まれている。
 
-Electronic music was born.
-
-Digital technology was born.
-
-Streaming was born.
-
-Still, humans sing.
-
-There is a strange continuity in this history.
-
-Technology has changed.
-
-Society has also changed.
-
-Language has also changed.
-
-Instruments have also changed.
-
-The format of music has also changed.
-
-but,
-
-**Humans' behavior of using sound to share time with others has not disappeared. **
+> 音楽は一人で聴くことができるが、完全に孤立した文化ではない。
 
 ---
 
-## 73. Music was "memory" before writing.
+## 70. そして音楽は「自己」も作る
 
-Before writing, humans needed to memorize their culture in order not to lose it.
+音楽は集団だけのものではない。
 
-song.
+個人のアイデンティティにも深く関係する。
 
-story.
+### 「自分は何を聴く人間なのか」
 
-Ceremony.
+現代では、音楽の好みが自己紹介の一部になる。
 
-Genealogy.
+ロックが好き。
 
-tradition.
+ジャズが好き。
 
-These were stored in the human head and body.
+テクノが好き。
 
-Music played a part in that.
+クラシックが好き。
 
-However, even here, we should not simplify it to ""music = recording medium.''
+ヒップホップが好き。
 
-Music doesn't just store information.
+実験音楽が好き。
 
-### Music creates a "form" of memory
+これは単なる娯楽の選択ではない。
 
-Repeat the same rhythm.
+自分がどの文化に近いかを示すことがある。
 
-use the same melody.
+### 青年期と音楽
 
-sing the same words.
+青年期には、音楽がアイデンティティ形成と強く結びつくことが研究されてきた。
 
-Proceed in the same order.
+好きなアーティスト。
 
-This creates a structure for remembering complex cultural content.
+好きなジャンル。
 
-### And memories are stored in the body
+好きな歌詞。
 
-Songs aren't something you just memorize in your head.
+好きなライブ。
 
-Breathing.
+好きなコミュニティ。
 
-Mouth movements.
+これらが自己像の一部になる。
 
-vocal cords.
+### 音楽は人生の「時間軸」を作る
 
-muscle.
+「高校時代の曲」
 
-rhythm.
+「初めて買ったアルバム」
 
-The whole body is involved.
+「大学時代に聴いていた音楽」
 
-Therefore, songs become physical memories.
+「最初のライブ」
 
-You can follow the letters with your eyes.
+こうした言葉が成立するのは、音楽が人生の時間と結びついているからだ。
 
-Recordings can be played back by ear.
-
-However, singing can be reproduced with one's own body.
-
-> For humans before writing, music was not ""stored information" but ""memory that could be played back in the body."
+> 人間は音楽を聴くだけではなく、自分の人生を音楽によって区切り、記憶している。
 
 ---
 
-## 74. Has music made humans human?
+## 71. 音楽はなぜ未来へ残るのか
 
-At this point, an even bolder question arises.
+文字は文明を保存する。
 
-Has music made humans more human?
+建築も保存する。
 
-This is not an easy question to answer.
+絵画も保存する。
 
-It cannot be proven that music determined human evolution.
+しかし音楽には、独特の生命力がある。
 
-However, it is important to note that musical behavior is deeply related to human sociality.
+一つの旋律が世代を越える。
 
-### Music requires multiple human abilities
+古い歌が新しい人間に歌われる。
 
-Hearing.
+古いリズムが新しいジャンルに変わる。
 
-memory.
+古い録音がサンプリングされる。
 
-prediction.
+過去の音楽が新しい技術で再解釈される。
 
-motion.
+### 音楽はコピーされながら変わる
 
-Imitation.
+音楽は、完全なコピーとして残るだけではない。
 
-study.
+誰かが歌う。
 
-Emotions.
+少し変える。
 
-Social cognition.
+次の人が覚える。
 
-Cultural transmission.
+また変える。
 
-So many abilities overlap.
+別の地域へ伝わる。
 
-Therefore, understanding music leads to understanding humans themselves.
+さらに変わる。
 
-### Music is not "extra"
+この過程によって、音楽は文化的に進化する。
 
-It's not food.
+### 過去は消えるのではなく、変形する
 
-It's not even a residence.
+音楽史を見ると、過去の形式が完全に消えることは少ない。
 
-It's not even a language.
+古いリズムが新しい音楽に入る。
 
-However, it is almost inseparable from human society.
+古い旋律が再解釈される。
 
-It is difficult to imagine a society without music.
+古い楽器が新しい文脈で使われる。
 
-And in a society where music exists, it always has some meaning.
+古い録音が新しい作品に使われる。
 
->Music was not just a decoration for humans; it was a way for humans to connect with their bodies, time, emotions, memories, and other people.
+過去は、未来の素材になる。
 
----
-
-## 75. Final Chronology - From Sound to Civilization
-
-| Period | Events/Characteristics |
-| -------- | ----------------------------------------- |
-| Millions of years ago | The early Homo genus develops and complex social behavior evolves |
-| Hundreds of thousands of years ago | Human ancestors are thought to have developed complex vocal and social communication abilities |
-| About 300,000 years ago | Modern humans, Homo sapiens, appear in Africa |
-| Prehistory | Possibility of the existence of musical behaviors such as songs, rhythms, and physical movements |
-| Before about 40,000 years ago | Clear archaeological evidence of human musical instruments, including bone flutes, appears |
-| Around the 4th millennium BC | Early civilizations and writing systems developed in Mesopotamia and elsewhere |
-| Ancient times | Music was incorporated into diverse social areas such as religion, court, festivals, military, entertainment, etc. |
-| Ancient to Middle Ages | Music notation developed and visual preservation of works progressed |
-| Late Middle Ages to early modern times | Systematization and printing of musical scores led to widespread dissemination of musical works |
-| 19th century | Recording technology appears, making it possible to preserve the performance itself |
-| First half of the 20th century | Radio and the recording industry facilitate the mass dissemination of music |
-| Late 20th century | Electronic instruments, tape, studio technology, sampling, etc. revolutionized music production |
-| Late 20th century | Digital sound sources and the Internet brought major changes to the preservation and distribution of music |
-| 21st Century | Streaming provides instant access to vast music libraries |
-| Now | Humans continue to use their ancient abilities of song, rhythm, synchronization, and memory, even in a new digital environment |
-
-Looking at this chronology, the history of music is not a simple straight line from ""primitive sounds to advanced music''.
-
-Music began in the body, entered communities, entered rituals, entered civilization, was associated with writing and musical notation, was preserved through recording, and spread worldwide through digital technology.
-
-However, at the center of it all was always the human body.
+> 音楽は過去を保存するだけではなく、過去を未来へ変換する方法でもある。
 
 ---
 
-## 76. Final figure - Humans turned sound into culture
+## 72. 文字より前、文明より前、そして現在
+
+シリーズ全体を最初から振り返ってみよう。
+
+人間は文字を持つ前から音を出していた。
+
+身体を使った。
+
+声を使った。
+
+リズムを作った。
+
+他者と同期した。
+
+歌った。
+
+踊った。
+
+そして、音を社会的な行動に変えていった。
+
+その後、文明が生まれた。
+
+都市が生まれた。
+
+宗教が生まれた。
+
+国家が生まれた。
+
+文字が生まれた。
+
+楽譜が生まれた。
+
+印刷が生まれた。
+
+録音が生まれた。
+
+ラジオが生まれた。
+
+レコードが生まれた。
+
+電子音楽が生まれた。
+
+デジタル技術が生まれた。
+
+ストリーミングが生まれた。
+
+それでも、人間は歌っている。
+
+この歴史には一つの奇妙な連続性がある。
+
+技術は変わった。
+
+社会も変わった。
+
+言語も変わった。
+
+楽器も変わった。
+
+音楽の形式も変わった。
+
+しかし、
+
+**人間が音を使って他者と時間を共有するという行動は消えなかった。**
+
+---
+
+## 73. 音楽は文字以前の「記憶」だった
+
+文字以前の人間は、文化を失わないために記憶する必要があった。
+
+歌。
+
+物語。
+
+儀礼。
+
+系譜。
+
+伝統。
+
+これらは人間の頭と身体の中に保存された。
+
+音楽はその一部を支えた。
+
+しかし、ここでも「音楽＝記録媒体」と単純化するべきではない。
+
+音楽は情報だけを保存するものではない。
+
+### 音楽は記憶の「形式」を作る
+
+同じリズムを繰り返す。
+
+同じ旋律を使う。
+
+同じ言葉を歌う。
+
+同じ順序で進む。
+
+これによって、複雑な文化的内容を覚えるための構造が生まれる。
+
+### そして記憶は身体に保存される
+
+歌は頭だけで覚えるものではない。
+
+呼吸。
+
+口の動き。
+
+声帯。
+
+筋肉。
+
+リズム。
+
+身体全体が関係する。
+
+そのため、歌は身体的記憶になる。
+
+文字は目で追える。
+
+録音は耳で再生できる。
+
+しかし歌は、自分の身体で再現できる。
+
+> 文字以前の人間にとって、音楽は「保存された情報」ではなく、「身体の中で再生できる記憶」だった。
+
+---
+
+## 74. 音楽は人間を人間にしたのか
+
+ここまで来ると、さらに大胆な問いが生まれる。
+
+音楽は、人間を人間らしくしたのだろうか。
+
+これは簡単には答えられない。
+
+音楽が人間の進化を決定したと証明することはできない。
+
+しかし、音楽的行動が人間の社会性と深く関係していることは重要だ。
+
+### 音楽には複数の人間能力が必要になる
+
+聴覚。
+
+記憶。
+
+予測。
+
+運動。
+
+模倣。
+
+学習。
+
+感情。
+
+社会認知。
+
+文化的伝達。
+
+これだけ多くの能力が重なる。
+
+だから音楽を理解することは、人間そのものを理解することにつながる。
+
+### 音楽は「余分なもの」ではない
+
+食べ物ではない。
+
+住居でもない。
+
+言語でもない。
+
+しかし、人間社会からほとんど切り離せない。
+
+音楽が存在しない社会を想像することは難しい。
+
+そして、音楽が存在する社会では、それは必ず何らかの意味を持つ。
+
+> 音楽は人間にとって単なる装飾ではなく、人間が身体、時間、感情、記憶、他者を結びつける方法の一つだった。
+
+---
+
+## 75. 最終年表――音から文明へ
+
+| 時期       | 出来事・特徴                                       |
+| -------- | -------------------------------------------- |
+| 数百万年前    | 初期のヒト属が発展し、複雑な社会的行動が進化していく                   |
+| 数十万年前以前  | 人類の祖先において複雑な発声・社会的コミュニケーション能力が発達していたと考えられる   |
+| 約30万年前   | 現生人類 Homo sapiens がアフリカに登場                   |
+| 先史時代     | 歌、リズム、身体動作などの音楽的行動が存在した可能性                   |
+| 約4万年前以前  | 人類による骨製フルートなど、明確な楽器の考古学的証拠が現れる               |
+| 紀元前4千年紀頃 | メソポタミアなどで初期文明と文字体系が発展                        |
+| 古代       | 音楽が宗教、宮廷、祭礼、軍事、娯楽など多様な社会領域に組み込まれる            |
+| 古代〜中世    | 音楽の記譜法が発達し、作品の視覚的保存が進む                       |
+| 中世後期〜近世  | 楽譜の体系化と印刷によって音楽作品の広域的な伝播が進む                  |
+| 19世紀     | 録音技術が登場し、演奏そのものの保存が可能になる                     |
+| 20世紀前半   | ラジオとレコード産業が音楽の大規模な普及を促進                      |
+| 20世紀後半   | 電子楽器、テープ、スタジオ技術、サンプリングなどが音楽制作を変革             |
+| 20世紀末    | デジタル音源とインターネットによって音楽の保存・流通が大きく変化             |
+| 21世紀     | ストリーミングによって膨大な音楽ライブラリへの即時アクセスが可能になる          |
+| 現在       | 人間は古代から続く歌、リズム、同期、記憶の能力を新しいデジタル環境の中でも使い続けている |
+
+この年表を見ると、音楽の歴史は単純な「原始的な音から高度な音楽へ」という一直線ではない。
+
+音楽は、身体から始まり、共同体へ入り、儀礼へ入り、文明へ入り、文字や記譜と結びつき、録音によって保存され、デジタル技術によって世界規模へ広がった。
+
+しかし、その中心には常に人間の身体があった。
+
+---
+
+## 76. 最終図――人間は音を文化に変えた
 
 <div class="mermaid">
 flowchart TD
-    A["body"] --> B["Voice, Breathing, Movement"]
-    B --> C["Rhythm/Repetition"]
-    C --> D["prediction"]
-    D --> E["Movement/Synchronization"]
-    E --> F["Group"]
-    F --> G["Singing, dancing, and rituals"]
-    G --> H["Memory, Myth, Community"]
-    H --> I["Character/Notation"]
-    I --> J["printing"]
-    J --> K["recording"]
-    K --> L["Radio Record"]
-    L --> M["Electronic music"]
-    M --> N["Digital music"]
-    N --> O["Streaming"]
-    O --> P["New culture"]
+    A["身体"] --> B["声・呼吸・動作"]
+    B --> C["リズム・反復"]
+    C --> D["予測"]
+    D --> E["運動・同期"]
+    E --> F["集団"]
+    F --> G["歌・踊り・儀礼"]
+    G --> H["記憶・神話・共同体"]
+    H --> I["文字・記譜"]
+    I --> J["印刷"]
+    J --> K["録音"]
+    K --> L["ラジオ・レコード"]
+    L --> M["電子音楽"]
+    M --> N["デジタル音楽"]
+    N --> O["ストリーミング"]
+    O --> P["新しい文化"]
     P --> D
 </div>
 
-This diagram contains important points for viewing the history of human music as a cycle.
+この図には、人類の音楽史を一つの循環として見るための重要なポイントがある。
 
-Humans first created sound from their bodies.
+人間はまず身体から音を作った。
 
-I repeated the sound.
+その音を反復した。
 
-Rhythm was born from repetition.
+反復からリズムが生まれた。
 
-Prediction was born from rhythm.
+リズムから予測が生まれた。
 
-My body moved in anticipation.
+予測によって身体が動いた。
 
-Multiple bodies synchronized.
+複数の身体が同期した。
 
-Synchronization gave rise to collective musical behavior.
+同期によって集団的な音楽行動が生まれた。
 
-From there songs, dances, rituals, memories, myths, and communities were formed.
+そこから歌、踊り、儀礼、記憶、神話、共同体が形成されていった。
 
-Later, humans invented ways to record sound.
+その後、人間は音を記録する方法を発明した。
 
-Notation.
+記譜。
 
-printing.
+印刷。
 
-recording.
+録音。
 
-Digitization.
+デジタル化。
 
-However, in the end, it returns to its human body.
+しかし、最後には再び人間の身体へ戻ってくる。
 
-listen.
+聴く。
 
-sing.
+歌う。
 
-dance.
+踊る。
 
-play.
+演奏する。
 
-share.
+共有する。
 
-Then, create a new sound.
+そして、また新しい音を作る。
 
-> The history of human music is the history of ensuring that sound does not disappear, but it is also the history of passing the sound on to the next generation while changing it.
+> 人間の音楽史は、音が消えないようにするための歴史であると同時に、音を次の世代へ変化させながら渡していく歴史でもある。
 
 ---
 
-## 77. Conclusion: Humans needed sounds before letters.
+## 77. 結論――人間は文字より先に音を必要とした
 
-"Why Humans Invented Music Before Writing"
+「Why Humans Invented Music Before Writing」
 
-This title actually has a hidden premise.
+このタイトルには、実は一つの前提が隠れている。
 
-The premise is that humans "invented" music.
+人間が音楽を「発明した」という前提だ。
 
-However, from the perspective of human history seen through the four parts, this expression is a little inaccurate.
+しかし、4つのPartを通して見てきた人類史からすると、この表現は少し正確ではない。
 
-Humans did not suddenly invent ""music'' one day.
+人間は、ある日突然「音楽」というものを発明したわけではない。
 
-Humans heard sounds.
+人間は音を聴いた。
 
-I spoke out loud.
+声を出した。
 
-I moved my body.
+身体を動かした。
 
-imitated others.
+他者を模倣した。
 
-I created a rhythm.
+リズムを作った。
 
-The same pattern was repeated.
+同じパターンを繰り返した。
 
-Predicted the next sound.
+次の音を予測した。
 
-Synchronized with others.
+他者と同期した。
 
-Sang.
+歌った。
 
-danced.
+踊った。
 
-I remembered it.
+記憶した。
 
-And over time, these behaviors became a culture.
+そして、それらの行動が長い時間をかけて文化になった。
 
-There was no need for text.
+そこに文字は必要なかった。
 
-### Even without writing, humans could share meaning
+### 文字がなくても、人間は意味を共有できた
 
-What humans needed from the beginning was not writing.
+人間にとって最初から必要だったのは、文字ではなかった。
 
-To share one's intentions with others.
+他者と意思を共有すること。
 
-To warn of danger.
+危険を知らせること。
 
-Calm the child.
+子どもを落ち着かせること。
 
-move in a group.
+集団で動くこと。
 
-to perform a ritual.
+儀礼を行うこと。
 
-expressing sadness.
+悲しみを表現すること。
 
-To share joy.
+喜びを共有すること。
 
-To remember.
+記憶すること。
 
-And spending time with someone.
+そして、誰かと同じ時間を過ごすこと。
 
-Sound was available for many of these.
+音は、これらの多くに利用できた。
 
-Therefore, it is no wonder that music existed before writing.
+だから音楽は、文字より前に存在しても不思議ではない。
 
-### Text was not a substitute for music
+### 文字は音楽の代替ではなかった
 
-Characters were born.
+文字が生まれた。
 
-But the song didn't go away.
+しかし歌は消えなかった。
 
-A musical score was born.
+楽譜が生まれた。
 
-But the performance did not disappear.
+しかし演奏は消えなかった。
 
-A recording was born.
+録音が生まれた。
 
-But the live show didn't disappear.
+しかしライブは消えなかった。
 
-Streaming was born.
+ストリーミングが生まれた。
 
-But humans still sing.
+しかし人間は今も歌う。
 
-This continuity is important.
+この連続性は重要だ。
 
-Human beings have not discarded music as old every time they have invented a new recording technology.
+人間は新しい記録技術を発明するたびに、音楽を古いものとして捨ててきたわけではない。
 
-Rather, they have moved the music to new environments.
+むしろ、音楽を新しい環境へ移してきた。
 
-### Music may have been "human's first media"
+### 音楽は「人間の最初のメディア」だったのかもしれない
 
-If we consider music as a medium, it has an extremely long history.
+音楽をメディアとして考えるなら、その歴史は極端に古い。
 
-Body to body.
+身体から身体へ。
 
-From the voice to the ears.
+声から耳へ。
 
-From one person to a group.
+一人から集団へ。
 
-From generation to generation.
+世代から世代へ。
 
-Music moved information, emotion, memory, time, and social relationships through the human body.
+音楽は、人間の身体を通して情報、感情、記憶、時間、社会関係を移動させた。
 
-And then came the letters.
+そして、その後に文字が来た。
 
-The paper has arrived.
+紙が来た。
 
-The printing has arrived.
+印刷が来た。
 
-The recording has arrived.
+録音が来た。
 
-The radio came.
+ラジオが来た。
 
-TV has arrived.
+テレビが来た。
 
-The internet has arrived.
+インターネットが来た。
 
-Streaming is here.
+ストリーミングが来た。
 
-Still, the music remained.
+それでも音楽は残った。
 
-This is because what the music carried was more than just information.
+なぜなら、音楽が運んでいたものは、単なる情報ではなかったからだ。
 
-What the music carried was
+音楽が運んでいたのは、
 
-**It was time. **
+**時間だった。**
 
-**It was the body. **
+**身体だった。**
 
-**It was an emotion. **
+**感情だった。**
 
-**It was a memory. **
+**記憶だった。**
 
-**It was a relationship with another person. **
+**他者との関係だった。**
 
-and,
+そして、
 
-**It was a feeling that ""we are all in the same place now''. **
+**「私たちは今、同じ場所にいる」という感覚だった。**
 
 ---
 
-## 78. The final question
+## 78. 最後に残る問い
 
-We still don't know everything about the origins of music.
+音楽の起源について、私たちはまだすべてを知っているわけではない。
 
-I don't understand the first song.
+最初の歌は分からない。
 
-I don't even know the first rhythm.
+最初のリズムも分からない。
 
-We don't even know who made the instrument first.
+最初に誰が楽器を作ったのかも分からない。
 
-It is not possible to record pre-written music.
+文字以前の音楽を録音することはできない。
 
-Therefore, it is impossible to directly listen to the first music of humankind.
+そのため、人類最初の音楽を直接聴くことはできない。
 
-But we still have traces of it today.
+しかし、私たちは現在でもその痕跡を持っている。
 
-human voice.
+人間の声。
 
-applause.
+拍手。
 
-Walking.
+歩行。
 
-dance.
+踊り。
 
-song.
+歌。
 
-Ceremony.
+儀礼。
 
-musical instrument.
+楽器。
 
-community.
+共同体。
 
-memory.
+記憶。
 
-And the brain that predicts the next sound when it hears a sound.
+そして、音を聴いたときに次の音を予測する脳。
 
-These are connected to basic human abilities that may have existed even thousands of years ago.
+これらは、数千年前にも存在した可能性がある人間の基本的な能力とつながっている。
 
-Modern music is complex.
+現代の音楽は複雑だ。
 
-Classic.
+クラシック。
 
-jazz.
+ジャズ。
 
-rock.
+ロック。
 
-hip hop.
+ヒップホップ。
 
-Techno.
+テクノ。
 
-Ambient.
+アンビエント。
 
-noise.
+ノイズ。
 
-House.
+ハウス。
 
-Amapiano.
+アマピアノ。
 
-and a myriad of regional music.
+そして無数の地域音楽。
 
-They are not the same as the sounds made by prehistoric humans clapping their hands.
+それらは、先史時代の人間が手を叩いた音と同じではない。
 
-However, they all have one thing in common.
+しかし、その根底には一つの共通点がある。
 
-Humans do not treat sound as mere environmental information.
+人間は音をただの環境情報として扱わない。
 
-Find patterns in sounds.
+音にパターンを見つける。
 
-give meaning.
+意味を与える。
 
-Remember.
+記憶する。
 
-share.
+共有する。
 
-And then make it again.
+そして、もう一度作り直す。
 
-Therefore, it is necessary to change the first question slightly.
+だから、最初の問いを最後に少しだけ変えてみる必要がある。
 
-**"Why did humans invent music before writing?"**
+**「なぜ人間は文字より先に音楽を発明したのか？」**
 
-The answer is probably not as simple as "I needed music first."
+その答えは、おそらく「音楽が先に必要だったから」という単純なものではない。
 
-It's more fundamental.
+もっと根本的だ。
 
-**Long before humans invented writing, we were animals that shared time with others through sound. **
+**人間は、文字を発明するよりずっと前から、音を通して他者と時間を共有する動物だった。**
 
-Writing was invented later.
+文字は、その後に発明された。
 
-Music was already present in the human body even before that.
+音楽は、その前からすでに人間の身体の中にあった。
 
-Even after the creation of writing, recording, and digital technology, humans never gave up on music.
+そして文字が生まれた後も、録音が生まれた後も、デジタル技術が生まれた後も、人間は音楽を手放さなかった。
 
-Because it's not that humans need music;
+なぜなら、人間が音楽を必要としているのではなく、
 
-**Humans themselves are the ones who share, remember, predict, synchronize, and give meaning to sounds. **
+**人間そのものが、音を共有し、記憶し、予測し、同期し、意味を与える存在だからだ。**
 
->Humans did not invent music before writing. Long before writing was invented, humans understood the world and others through sound. And music has carried that old ability to this day without losing it.
+> 人間は文字より先に音楽を発明したのではない。文字が生まれるよりはるか前から、人間は音を通して世界と他者を理解していた。そして音楽は、その古い能力を今日まで失わずに運んできた。
 
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FnJDuF6MeeQ?si=zJplWFj5omuB3W1D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

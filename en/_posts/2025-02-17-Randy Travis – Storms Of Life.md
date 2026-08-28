@@ -14,11 +14,11 @@ title: Randy Travis – Storms Of Life
 ---
 
 
-Randy Travis is an American country singer and actor who has been active since 1979.
+Randy Travis(ランディ・トラヴィス)は、1979年から活動するアメリカのカントリー歌手、俳優。
 
-Her debut studio album, Storms of Life, released in 1986, was a huge commercial success and made her famous. It has been certified as a triple platinum disc.
+1986年にリリースされたデビュースタジオアルバム「Storms Of Life」は、商業的に大成功を収め、このアルバムで一躍有名になった。トリプルプラチナディスクに認定されている。
 
-Randy Travis is known as one of the people who contributed to the development of neo-traditional country, along with Reba McEntire, George Strait, and Toby Keith.
+Randy Travisは、リーバ・マッキンタイア, ジョージ・ストレイト, トビー・キース等と並びネオトラディショナルカントリーの発展に貢献した一人として知られている。
 
 
 #### Tracklist
@@ -36,7 +36,7 @@ B4. Reasons I Cheat
 B5. There'll Always Be A Honky Tonk Somewhere
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syhTjuxqpVA?si=Xcy3uenTrKoAJG3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,7 +14,7 @@ title: VA – From Tokyo To Brussels EP
 
 A project album released in 2004 by MB Elektronics, a label run by Marco Bailey.
 
-A is a track by Japan"s leading techno DJ Q"hey and Belgian legend DJ Marco Bailey.
+Aは、日本を代表するテクノDJ Q'heyとベルギーのレジェンドDJ Marco Baileyによるトラック。
 
 B is a track by DJ KANA, who was discovered by MARCO BAILEY and is active around the world, and Belgian Techno/tech house DJ Tom Hades.
 
@@ -25,7 +25,7 @@ A. Marco Bailey & Q'hey – Bass Sequence
 B. Tom Hades & Kana – Zero Zero 2
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m80961986842?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80961986842?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jQLf0RoCa_I?si=ceLcwylTZcYECEou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

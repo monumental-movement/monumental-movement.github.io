@@ -11,18 +11,18 @@ tags:
 - Broken Beat
 - Future Jazz
 - 90s
-title: 棉花糖 – 靈魂力量
+title: Marschmellows – Soulpower
 ---
 
 
 
-Marschmellows 是 1990 年代末至 2000 年代總部位於德國的電子音樂計畫。他們的聲音融合了Future Jazz、Broken Beat和downtempo，被稱為德國法蘭克福著名廠牌INFRACom!的代表藝術家之一。
+Marschmellowsは、1990年代後半から2000年代にかけてドイツを拠点に活動したエレクトロニック・ミュージック・プロジェクト。フューチャー・ジャズ（Future Jazz）、ブロークン・ビーツ（Broken Beat）、ダウンテンポを融合させたサウンドが特徴で、ドイツ・フランクフルトの名門レーベルINFRACom!を代表するアーティストの一組として知られている。
 
-《Soulpower》是一首 House/Broken Beat/Future Jazz 曲目，由 INFRACom 廠牌發行！ 1998年，並收錄在專輯《Rebound》。
+「Soulpower」は、アルバム『Rebound』にも収録されている1998年にレーベルINFRACom!からリリースされたHouse／Broken Beat／Future Jazzトラック。
 
-B 是 Jazzanova 的混音版，Jazzanova 是一家位於柏林的德國 DJ/製作人團體。
+Bは、ベルリンを拠点とするドイツのDJ/プロデューサー集団Jazzanova（ジャザノヴァ）によるリミックス。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Soulpower (Straight Up Mix)
 A2. Buggy
@@ -30,7 +30,7 @@ A2. Buggy
 B. Soulpower (Jazzanova Reworked Soul Power) (Extended Version)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m38935842024?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38935842024?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n34vA9xSalU?si=kWkQxtRWvbyVXa5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

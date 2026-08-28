@@ -11,8 +11,8 @@ title: Deep Side – What I Need
 ---
 
 
-"Deep Side – What I Need"
-The first song on the B-side features Juvenile, an MC/hip-hop artist/rapper from New Orleans.
+「Deep Side – What I Need」の
+B面１曲目は、ニューオーリンズ出身のMC/ヒップホップアーティスト/ラッパーJuvenile（ジュヴィナイル）をフィーチャリング。
 
 
 #### Tracklist

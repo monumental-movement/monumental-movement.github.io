@@ -20,9 +20,9 @@ A. Jack -Welcome To The Lost Child Club〜Jack-
 B1. Someone Like You (Visitor Part II)
 B2. Bad Boy
 
-Echoes is a Japanese rock band formed in 1981 by Hitoshi Tsuji. They released seven original albums and disbanded in 1991.
+Echoes（エコーズ）は、1981年に辻仁成を中心に結成された日本のロック・バンド。7枚のオリジナルアルバムをリリースし、1991年に解散した。
 
-This record is a maxi single released by CBS/Sony in 1985. The producer is Akira Inoue.
+このレコードは、1985年にCBS/Sonyからリリースされたマキシシングル。プロデューサーは、井上鑑。
 
 #### Tracklist
 ```md
@@ -38,7 +38,7 @@ B3. White Sunday
 B4. Never Told You But I Love You
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m75352266736?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75352266736?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sIqimx0ZqOI?si=T1MtmIKrPCEm0pDW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

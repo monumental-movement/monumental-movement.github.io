@@ -10,17 +10,17 @@ tags:
 - Acid Jazz
 - Jazzdance
 - Soul
-title: 辣椒靈魂 – 他愛你
+title: Paprika Soul – He Loves You
 ---
 
 
-Paprika Soul 是 Alan Barnes (Jazzdubossa) 和 Andy Spiller 於 1991 年發起的計畫。
+Paprika Soul (パプリカ・ソウル)は、Alan Barnes (Jazzdubossa) とAndy Spillerが1991年に立ち上げたプロジェクト。
 
-《He Loves You》是Paprika Soul的第一張專輯，參與這張專輯的EDM製作人Andrew Hughes是當時Paprika Soul的成員。
+「He Loves You」は、Paprika Soul のファーストリリースで、このリリースに関わったEDMプロデューサーAndrew Hughesは当時Paprika Soulのメンバーだった。
 
-它由英國唱片公司 Baseline Records 發行，該唱片公司專門重新發行 80 年代末和 90 年代初罕見的放克和靈魂樂唱片。
+80年代後半から90年代初頭にかけて、希少なファンクやソウルのレコードの再発売を専門としていたUKのレーベルBaseline Recordsからリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. He Loves You (Dodgy Bossa Mix)
 A2. He Loves You (Jazz Mix)
@@ -29,7 +29,7 @@ AA1. He Loves You (Fusion Mix)
 AA2. He Loves You (Dance Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m82069537099?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82069537099?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ecsG_JLjbqY?si=6xMRVSBAomradh1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

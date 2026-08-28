@@ -11,20 +11,20 @@ tags:
 - House
 - Deep House
 - 10s
-title: Crue-L Grand Orchestra – (You Are) More Than Paradise（西奧·帕里什翻譯）
+title: Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Translation)
 ---
 
 
-由瀧見賢治 (Kenji Takimi) 和神田智樹 (Tomoki Kanda) 創作的 Crue-L Grand Orchestra 的《(You Are) More Than Paradise》混音版。
+Kenji Takimi(瀧見憲司)とTomoki Kanda(神田朋樹)によるCrue-L Grand Orchestra「(You Are) More Than Paradise」のremix。
 
-2010 年發布 Crue-L Classics 12 吋系列。
+Crue-L Classics 12インチシリーズとして2010年にリリースされた。
 
-A1 & AA 是底特律 DJ/唱片製作人 Theo Parrish 的混音作品。
+A1 & AAは、デトロイトを拠点に活動するDJ／レコードプロデューサーTheo Parrish (テオ・パリッシュ)によるremix。
 
-A2 是來自倫敦的電子樂團 Freaks（Justin Harris 和 Luke Solomon）的混音版。
+A2は、ロンドン出身のエレクトロニックバンドFreaks (Justin Harris & Luke Solomon)によるremix。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. (You Are) More Than Paradise (Theo Parrish Translation)
 A2. (You Are) More Than Paradise (Freaks Switching Channels 12inch Mix)
@@ -32,7 +32,7 @@ A2. (You Are) More Than Paradise (Freaks Switching Channels 12inch Mix)
 AA. (You Are) More Than Paradise (Theo Parrish Translation Long Version 1)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m26337945792?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26337945792?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0sVlMvNkdsQ?si=fwNoTBPYhnqn4fcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

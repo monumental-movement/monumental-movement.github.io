@@ -10,50 +10,50 @@ tags:
 - Psychedelic
 - Shoegaze
 - Alternative
-title: '[Column] Spacemen 3 - Drones, minimalism, and the truth behind "Taking Drugs
-  to Make Music to Take Drugs To"'
+title: 【コラム】 Spacemen 3 ― ドローン、ミニマリズム、そして“Taking Drugs to Make Music to Take Drugs
+  To”の真実
 ---
 
 
 ## Prologue - The band that created the universe with the "minimum"
 
-Text: mmr｜Theme: About Spacemen 3, a band born in the British underground scene in the 1980s that redefined "psychedelic" with stripped-down repetition and noise.
+文：mmr｜テーマ：1980年代イギリスの地下シーンで生まれた、極限まで削ぎ落とした反復とノイズで“サイケデリック”を再定義したバンド「Spacemen 3」について
 
-The post-punk turmoil was still evident in the UK indie scene of the 1980s.
+1980年代のUKインディーシーンには、ポストパンク以後の混乱がまだ色濃く残っていた。
 
-The new wave is sophisticated,
-Gothic deepens the shadows,
-Indie rock was looking for new expressions while expanding its DIY spirit.
+ニューウェーブは洗練され、
+ゴシックは陰影を深め、
+インディー・ロックはDIY精神を拡張しながら新しい表現を探していた。
 
-Spacemen 3 appeared in such an era.
+そんな時代に現れたのが、Spacemen 3だった。
 
-Their music was the exact opposite of technique.
+彼らの音楽は、技巧とは正反対にあった。
 
-simple code.
-Relentless repetition.
-Lasting feedback.
-minimal rhythm.
-A dangerous connection to drug culture.
+単純なコード。
+執拗な反復。
+持続するフィードバック。
+ミニマルなリズム。
+ドラッグ文化との危険な接続。
 
-However, its simplicity was what made it strange.
+しかし、その単純さこそが異様だった。
 
 At a time when many rock bands created their individuality through "addition,"
-Spacemen 3 did a thorough "subtraction".
+Spacemen 3は徹底的な「引き算」を行った。
 
-The result was
-Even garage rock
-Even krautrock,
-It's not traditional psychedelic either.
-It was a unique "floating roar".
+結果として生まれたのは、
+ガレージロックでも、
+クラウトロックでも、
+従来型サイケでもない、
+独特の“浮遊する轟音”だった。
 
-And in later years,
-The sound image is shoegaze,
-drone,
-space rock,
-post lock,
-It has even influenced modern ambient music.
+そして後年、
+その音像はシューゲイズ、
+ドローン、
+スペースロック、
+ポストロック、
+さらには現代アンビエントへまで影響を及ぼしていく。
 
-> Spacemen 3 was a rare rock band that created a huge space through "scarcity."
+> Spacemen 3は、“少なさ”によって巨大な空間を作り出した稀有なロックバンドだった。
 
 
 ---
@@ -63,7 +63,7 @@ It has even influenced modern ambient music.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -73,346 +73,346 @@ color: #fff;
 
 
 
-## Before the formation - Rugby's sense of confinement and psychedelia
+## 結成以前 ― ラグビーの閉塞感とサイケデリア
 
-### Jason Pearce and Peter Kember
+### ジェイソン・ピアースとピーター・ケンバー
 
-The core of Spacemen 3 was
-Jason Pierce and
-It was Peter Kember.
+Spacemen 3の核となったのは、
+ジェイソン・ピアース（Jason Pierce）と、
+ピーター・ケンバー（Peter Kember）だった。
 
-Later, each
-J. Spaceman,
+のちにそれぞれ、
+J. Spaceman、
 Sonic Boom
-became known as.
+として知られるようになる。
 
-The two are from central England.
-We met in Rugby, Warwickshire.
+二人はイングランド中部、
+ウォリックシャー州ラグビーで出会った。
 
-Rugby at the time was
-It's not a huge music city like London.
+当時のラグビーは、
+ロンドンのような巨大音楽都市ではない。
 
-Closed,
-It's boring,
-It was a regional city with few options for youth culture.
+閉鎖的で、
+退屈で、
+若者文化の選択肢が少ない地方都市だった。
 
 However, that sense of confinement is
-It inspired them to explore deep music.
+彼らを深い音楽探索へ向かわせた。
 
-The two were particularly attracted to the following music.
+二人は特に以下の音楽へ強く惹かれていった。
 
 - The Velvet Underground
 -The Stooges
--MC5
--13th Floor Elevators
--Suicide
--Can
+- MC5
+- 13th Floor Elevators
+- Suicide
+- Can
 - The Modern Lovers
 
-Of particular importance was the
-The repeatability of The Velvet Underground,
+特に重要だったのは、
+The Velvet Undergroundの反復性と、
 It was the mechanical minimalism of Suicide.
 
-Rather than "playing well",
+“上手く演奏すること”ではなく、
 "Sustaining the same phrase and bringing it into a trance state."
 
 This feeling is
-It will be the core of Spacemen 3.
+Spacemen 3の中核になる。
 
 ### Band formation
 
-Around 1982,
-The two officially formed Spacemen 3.
+1982年頃、
+二人は正式にSpacemen 3を結成。
 
-Although the initial members were in flux,
-Eventually, the following structure will be established.
+初期メンバーは流動的だったが、
+やがて以下の構成が固まる。
 
 - Jason Pierce
 -Peter Kember
 - Will Carruthers
 - Jonny Mattock
 
-The band name is
-It was chosen because it evokes "space" and "drug sensations."
+バンド名は、
+「宇宙」と「ドラッグ感覚」を連想させるものとして選ばれた。
 
-From the beginning they
-It was outside the framework of the existing lock.
+当初から彼らは、
+既存ロックの枠外にいた。
 
-### Initial concept
+### 初期コンセプト
 
-The early characteristics of Spacemen 3 were clear.
+Spacemen 3初期の特徴は明確だった。
 
-- less code
-- Loud volume
-- Feedback
-- Drone
-- simple repetition
-- Consciousness-altering sounds
+- 少ないコード
+- 大音量
+- フィードバック
+- ドローン
+- 単純反復
+- 意識変容的サウンド
 
-At the live,
-It was not uncommon for them to play the same riff for long periods of time.
+ライブでは、
+長時間同じリフを続けることも珍しくなかった。
 
 <div class="mermaid">
 graph TD
-A["The Velvet Underground"] --> D["repetitive riff"]
-B["Suicide"] --> E["Minimalism"]
-C["Stooges"] --> F["Noise and violence"]
+A["The Velvet Underground"] --> D["反復リフ"]
+B["Suicide"] --> E["ミニマリズム"]
+C["Stooges"] --> F["ノイズと暴力性"]
 D --> G["Spacemen 3"]
 E --> G
 F --> G
 </div>
 
-> Spacemen 3 transformed the feeling of confinement in local cities into "repetitive sounds."
+> Spacemen 3は、地方都市の閉塞感を“反復するサウンド”へ変換していった。
 
 ---
 
-## "Sound of Confusion" – A new psyche emerging from confusion
+## 『Sound of Confusion』 ― 混乱の中から現れた新しいサイケ
 
-### Birth of debut album
+### デビューアルバムの誕生
 
-1986,
-Spacemen 3 is their debut album
-"Sound of Confusion"
-will be announced.
+1986年、
+Spacemen 3はデビューアルバム
+『Sound of Confusion』
+を発表する。
 
-As the title suggests,
-The content was "confusion" itself.
+タイトル通り、
+その内容は“混乱”そのものだった。
 
-garage rock.
-Psych.
-noise.
-Blues.
-Drone.
+ガレージロック。
+サイケ。
+ノイズ。
+ブルース。
+ドローン。
 
-They are colliding without being organized.
+それらが未整理のまま衝突している。
 
-but,
-On the contrary, its roughness was intense.
+しかし、
+その荒削りさが逆に強烈だった。
 
-### Musical features
+### 音楽的特徴
 
-What the whole album has in common is that
-The idea is to "change your state of consciousness by repeating the same thing over and over again."
+アルバム全体に共通しているのは、
+「同じものを繰り返すことで意識状態を変える」という発想である。
 
-The representative song "Ode to Street Hassle" is
-I feel a strong respect for The Velvet Underground.
+代表曲「Ode to Street Hassle」は、
+The Velvet Undergroundへの強い敬意を感じさせる。
 
-on the other hand,
-In "Little Doll" etc.
-Stooges-like violence is exposed.
+一方で、
+「Little Doll」などでは、
+ストゥージズ的暴力性が露出する。
 
-### Full-scale introduction of "Drone"
+### “Drone”の本格導入
 
-At this point, already
-Spacemen 3 is more than a rock band.
-It was close to a "drone device."
+この時点で既に、
+Spacemen 3はロックバンドというより、
+“ドローン装置”に近かった。
 
-Changes in chord progression are minimal.
+コード進行の変化は最小限。
 
-instead,
-Dominate the space with tonal changes and a sense of continuity.
+代わりに、
+音色変化と持続感で空間を支配する。
 
-This was a feeling that was directly connected to later shoegaze.
+これは後年のシューゲイズにも直結する感覚だった。
 
-### Weirdness on stage
+### ステージ上の異様さ
 
-At the live,
-The members hardly move.
+ライブでは、
+メンバーがほぼ動かない。
 
-The lighting is also dark.
+照明も暗い。
 
-The performance is long.
+演奏は長い。
 
-There is little communication with the audience.
+観客とのコミュニケーションも少ない。
 
-However, the sense of stillness was strange.
+だが、その静止感が逆に異様だった。
 
 <div class="mermaid">
 flowchart LR
-A["Simple code"] --> B["Long repetition"]
-B --> C["Trance feeling"]
-C --> D["Noise expansion"]
-D --> E["Immersive space"]
+A["単純コード"] --> B["長時間反復"]
+B --> C["トランス感覚"]
+C --> D["ノイズ拡張"]
+D --> E["没入空間"]
 </div>
 
-> ""Sound of Confusion'' was a 1980s reimagining of psychedelic rock.
+> 『Sound of Confusion』は、サイケデリック・ロックを1980年代的に再構築した作品だった。
 
 ---
 
-## "The Perfect Prescription" – Perfection of minimal aesthetics
+## 『The Perfect Prescription』 ― ミニマル美学の完成
 
-### 1987 Turning Point
+### 1987年の転換点
 
-Announced in 1987
-"The Perfect Prescription"
-teeth,
-This was the biggest turning point in Spacemen 3.
+1987年発表の
+『The Perfect Prescription』
+は、
+Spacemen 3最大の転換点だった。
 
-The roughness of the previous work has been sorted out,
-Instead, there was an increased sense of floating and unity.
+前作の荒々しさは整理され、
+代わりに浮遊感と統一感が増した。
 
-This isn't just a rock piece.
+これは単なるロック作品ではない。
 
-It was designed as an "acoustic experience."
+“音響体験”として設計されていた。
 
-### Extremely organized arrangement
+### 極限まで整理されたアレンジ
 
-In the album,
-The number of sounds has decreased further.
+アルバムでは、
+音数がさらに減っている。
 
-but,
-Space expanded in the opposite direction.
+しかし、
+空間は逆に広がった。
 
-The reason is
-The key lies in the thoroughness of the repetitive structure.
+その理由は、
+反復構造の徹底にある。
 
-Especially "Walking With Jesus"
-It became the template for later neo-psych and shoegaze.
+特に「Walking With Jesus」は、
+後年のネオサイケやシューゲイズの雛形となる。
 
-### "Taking Drugs to Make Music to Take Drugs To"
+### “Taking Drugs to Make Music to Take Drugs To”
 
-There's a famous phrase that symbolizes Spacemen 3.
+Spacemen 3を象徴する有名なフレーズがある。
 
-"Taking Drugs to Make Music to Take Drugs To"
+“Taking Drugs to Make Music to Take Drugs To”
 
-This wasn't just a provocation.
+これは単なる挑発ではなかった。
 
-For them, music is
-It was a device to change the state of consciousness.
+彼らにとって音楽とは、
+意識状態を変化させるための装置だった。
 
-The important thing is that
-Rather than praising drugs,
-The point was that he was obsessed with "transformation of perception" itself.
+重要なのは、
+ドラッグ礼賛ではなく、
+“知覚変容”そのものへの執着だった点である。
 
-### Sound Design
+### サウンド設計
 
-During this period,
-Spacemen 3 focused on:
+この時期、
+Spacemen 3は以下を重視していた。
 
-- simple repetition
-- Drone
-- Sustained sound
-- echo
-- Feedback
-- sound pressure
+- 単純反復
+- ドローン
+- 持続音
+- エコー
+- フィードバック
+- 音圧
 
 <div class="mermaid">
 graph LR
-A["repetition"] --> D["immersion"]
-B["sustained sound"] --> D
-C["feedback"] --> D
-D --> E["Perceptually transformative space"]
+A["反復"] --> D["没入"]
+B["持続音"] --> D
+C["フィードバック"] --> D
+D --> E["知覚変容的空間"]
 </div>
 
-> With The Perfect Prescription, Spacemen 3 perfected their own sonic philosophy.
+> 『The Perfect Prescription』によって、Spacemen 3は独自の音響哲学を完成させた。
 
 ---
 
-## Equipment and sound creation - The extraordinary persuasive power of "little equipment"
+## 機材と音作り ― “少ない機材”の異常な説得力
 
-### Sound pressure, not technique
+### 技巧ではなく音圧
 
-Spacemen 3 is
-It was not a technical performance group.
+Spacemen 3は、
+テクニカルな演奏集団ではなかった。
 
-but,
-His obsession with tone design was extreme.
+しかし、
+音色設計への執着は極端だった。
 
-### Equipment used
+### 使用機材
 
-Typical equipment includes:
+代表的な機材には以下がある。
 
 - Fender Jazzmaster
 - Fender Jaguar
--Gibson SG
-- Vox Amplifier
--Fender Twin Reverb
-- echo unit
-- Fuzz pedal
+- Gibson SG
+- Voxアンプ
+- Fender Twin Reverb
+- エコーユニット
+- ファズペダル
 
-Of particular importance was the
-It was a "sustained sound that wasn"t clean."
+特に重要だったのは、
+“クリーンではない持続音”だった。
 
-### Drones and Feedback
+### ドローンとフィードバック
 
-They are
-Rather than treating noise as an "accident,"
-It was treated as "music that lasts."
+彼らは、
+ノイズを“事故”としてではなく、
+“持続する音楽”として扱った。
 
-Feedback is controlled and
-It is maintained for a certain period of time.
+フィードバックは制御され、
+一定時間維持される。
 
-the result,
-The entire live space becomes a vibrating body.
+その結果、
+ライブ空間全体が振動体になる。
 
-### Persuasive power due to minimalism
+### ミニマルゆえの説得力
 
-Because it does not use complicated chord progressions,
-The texture of the sound itself becomes important.
+複雑なコード進行を使わないため、
+音そのものの質感が重要になる。
 
-Even slight distortion changes,
-It changes the entire song.
+わずかな歪み変化すら、
+楽曲全体を変えてしまう。
 
 <div class="mermaid">
 graph TD
-A["Simple code"] --> B["Focus on tone"]
-B --> C["feedback"]
-C --> D["Space control"]
+A["単純コード"] --> B["音色重視"]
+B --> C["フィードバック"]
+C --> D["空間支配"]
 </div>
 
-> Spacemen 3 was a band that prioritized "sustainable sound" over performance technique.
+> Spacemen 3は、演奏技術より“持続する音響”を優先したバンドだった。
 
 ---
 
-## "Playing with Fire" - Beauty on the verge of collapse
+## 『Playing with Fire』 ― 崩壊寸前の美しさ
 
-### The beginning of internal division
+### 内部分裂の始まり
 
-in 1989
-"Playing with Fire"
-At the time of production,
-The relationship between Jason Pierce and Peter Kember was deteriorating.
+1989年の
+『Playing with Fire』
+制作時点で、
+Jason PierceとPeter Kemberの関係は悪化していた。
 
-musical direction,
-Human relationships too,
-He was already approaching his limit.
+音楽的方向性も、
+人間関係も、
+すでに限界へ近づいていた。
 
-### Difference in direction between the two
+### 二人の方向性の違い
 
-Jason Pierce
-It goes in a more emotional and gospel direction.
+Jason Pierceは、
+より感情的でゴスペル的な方向へ向かう。
 
-on the other hand,
-Peter Kember is
-I moved towards more experimental minimalism.
+一方、
+Peter Kemberは、
+より実験的ミニマリズムへ向かった。
 
-This division is
-Directly connected to Spiritualized and Spectrum later.
+この分裂は、
+後のSpiritualizedとSpectrumへ直結する。
 
-### Famous songs
+### 名曲群
 
-"Playing with Fire" includes:
-Songs representing the latter half of Spacemen 3 are lined up.
+『Playing with Fire』には、
+Spacemen 3後期を代表する楽曲が並ぶ。
 
 - Revolution
--Honey
+- Honey
 - Lord Can You Hear Me
--Suicide
+- Suicide
 
-Especially "Revolution",
-Their aesthetic is condensed.
+特に「Revolution」は、
+彼らの美学が凝縮されている。
 
-simple repetition.
-Loud volume.
-Trance feeling.
-And elation.
+単純な反復。
+大音量。
+トランス感。
+そして高揚。
 
-### Increased Gospel-ness
+### ゴスペル性の増加
 
-Jason Pierce
-Around this time, he began to lean toward gospel-style elation.
+Jason Pierceは、
+この頃からゴスペル的高揚感へ傾倒していく。
 
-This will fully bloom later in Spiritualized.
+これは後のSpiritualizedで完全開花する。
 
 <div class="mermaid">
 graph LR
@@ -420,146 +420,146 @@ A["Jason Pierce"] --> C["Spiritualized"]
 B["Peter Kember"] --> D["Spectrum"]
 </div>
 
-> ""Playing with Fire'' was a masterpiece completed while Spacemen 3 was falling apart.
+> 『Playing with Fire』は、Spacemen 3が崩壊しながら完成させた傑作だった。
 
 ---
 
-## Collapse - Why did the two fall apart?
+## 崩壊 ― 二人はなぜ決裂したのか
 
-### Increasing conflict
+### 深刻化する対立
 
-Since 1989,
-The confrontation between Jason Pierce and Peter Kember becomes decisive.
+1989年以降、
+Jason PierceとPeter Kemberの対立は決定的になる。
 
-There is no single cause.
+原因は単一ではない。
 
-- Differences in musicality
-- Battle for supremacy
-- Human relations
-- drug problem
-- Recording policy
+- 音楽性の違い
+- 主導権争い
+- 人間関係
+- ドラッグ問題
+- レコーディング方針
 
-Everything was intricately intertwined.
+すべてが複雑に絡み合っていた。
 
-### Limitations of collaboration
+### 共同作業の限界
 
-In the later stages,
-The two began producing music separately.
+後期になると、
+二人は別々に楽曲制作を進めるようになる。
 
-within the same band
-Two different ideas coexisted.
+同じバンド内に、
+二つの異なる思想が共存していた。
 
-### "Recurring"
+### 『Recurring』
 
-Announced in 1991
-"Recurring"
-So,
-They are almost completely separate collections of works.
+1991年発表の
+『Recurring』
+では、
+ほぼ完全に別々の作品集になっている。
 
-Jason's music.
-Peter's side music.
+Jason側楽曲。
+Peter側楽曲。
 
-Each was recorded independently.
+それぞれ独立して収録された。
 
-This was also a de facto declaration of dissolution.
+これは実質的な解散宣言でもあった。
 
-### dissolution
+### 解散
 
-1991,
-Spacemen 3 is disbanded.
+1991年、
+Spacemen 3は解散。
 
-but,
-Its influence will expand from here.
+しかし、
+その影響はここから拡大していく。
 
-> The end of Spacemen 3 was the moment when the "community fantasy" reached its limit.
+> Spacemen 3の終焉は、“共同幻想”が限界に達した瞬間だった。
 
 ---
 
-## Spiritualized and Spectrum - Two universes after the split
+## SpiritualizedとSpectrum ― 分裂後の二つの宇宙
 
-### Spiritualized by Jason Pierce
+### Jason PierceのSpiritualized
 
-Jason Pierce
-Started Spiritualized.
+Jason Pierceは、
+Spiritualizedを始動。
 
-Here,
-In addition to the drone feel of Spacemen 3,
+こちらでは、
+Spacemen 3のドローン感覚に加え、
 
-- Gospel
-- orchestra
-- blues
-- Seoul
-- cosmic sounds
+- ゴスペル
+- オーケストラ
+- ブルース
+- ソウル
+- 宇宙的サウンド
 
-were fused.
+が融合された。
 
-"Ladies and Gentlemen We Are Floating in Space"
-It became an important work of UK rock in the 1990s.
+『Ladies and Gentlemen We Are Floating in Space』は、
+1990年代UKロックの重要作品となる。
 
-### Peter Kember's Spectrum
+### Peter KemberのSpectrum
 
-on the other hand,
-Peter Kember started Spectrum.
+一方、
+Peter KemberはSpectrumを開始。
 
-This is
-It was more minimalist and experimental.
+こちらは、
+よりミニマルで実験的だった。
 
-Deepen your research into electronic acoustics and drones,
-In later years, he also worked as a producer.
+電子音響やドローン研究を深め、
+後年はプロデューサーとしても活動する。
 
-### Difference between the two
+### 二人の違い
 
 <div class="mermaid">
 graph TD
 A["Spacemen 3"] --> B["Spiritualized"]
 A --> C["Spectrum"]
 
-B --> D["emotionality"]
-B --> E["gospel"]
+B --> D["感情性"]
+B --> E["ゴスペル"]
 
-C --> F["Minimal"]
-C --> G["Experimental Sound"]
+C --> F["ミニマル"]
+C --> G["実験音響"]
 </div>
 
-> After disbanding, the two expanded their "universe" in different directions.
+> 解散後、二人はそれぞれ別方向へ“宇宙”を拡張していった。
 
 ---
 
-## Influence on shoegaze
+## シューゲイズへの影響
 
-### Before and after My Bloody Valentine
+### My Bloody Valentine以前と以後
 
-Spacemen 3 is
-It is said to be one of the direct ancestors of shoegaze.
+Spacemen 3は、
+シューゲイズの直接的祖先の一つとして語られる。
 
-Especially important is
-The idea was to use the guitar as a wall.
+特に重要なのは、
+“ギターを壁として使う”発想だった。
 
-### Generations affected
+### 影響を受けた世代
 
-Their influence is far-reaching.
+彼らの影響は広範囲に及ぶ。
 
 - My Bloody Valentine
 - Slowdive
--Ride
--Loop
+- Ride
+- Loop
 - Spiritualized
--Flying Saucer Attack
+- Flying Saucer Attack
 
-### Rock that lets you hear "space"
+### “空間”を聴かせるロック
 
-Traditional locks are
-It was centered around riffs and melodies.
+従来ロックは、
+リフやメロディ中心だった。
 
-But Spacemen 3
-The "space itself" was the main character.
+しかしSpacemen 3は、
+“空間そのもの”を主役にした。
 
-This led to later ambient rock.
+これは後のアンビエント的ロックへ繋がる。
 
-### Impact on drone culture
+### ドローン文化への影響
 
-Even in modern drone music,
-Spacemen 3 is an important reference point.
+現代ドローン音楽においても、
+Spacemen 3は重要な参照点である。
 
 <div class="mermaid">
 flowchart TD
@@ -570,70 +570,70 @@ B --> E["90s Alternative"]
 C --> F["Ambient Drone"]
 </div>
 
-> Spacemen 3 left a legacy for subsequent generations about how to create space within a roar.
+> Spacemen 3は、“轟音の中に空間を作る方法”を後続世代へ残した。
 
 ---
 
-## Live culture and cultism
+## ライブ文化とカルト化
 
-### Separate from commercial success
+### 商業成功とは別軸
 
-Spacemen 3 is
-They weren't a huge commercial band.
+Spacemen 3は、
+巨大商業バンドではなかった。
 
-but,
-It had an enthusiastic support base.
+しかし、
+熱狂的支持層を持っていた。
 
-### Reason why it became a cult
+### カルト化した理由
 
-The reason was clear.
+理由は明確だった。
 
-Their musical experience
-This is because it wasn't "ordinary rock."
+彼らの音楽体験は、
+“普通のロック”ではなかったからである。
 
-The live is
-It was more like a ritual than a performance.
+ライブは、
+演奏というより儀式に近かった。
 
-### Music as a physical sensation
+### 身体感覚としての音楽
 
-Loud volume.
-low frequency.
-Repetition.
-Play for a long time.
+大音量。
+低周波。
+反復。
+長時間演奏。
 
-The audience is
-Rather than "listening" to a song,
-"Immerse" in the space.
+観客は、
+曲を“聴く”というより、
+空間へ“浸かる”。
 
-### Connection with modern festival culture
+### 現代フェス文化との接続
 
-The current drone festival,
-It has also been pointed out that it is a pioneer in immersive live experiences.
+現在のドローンフェスや、
+没入型ライブ体験の先駆性も指摘される。
 
-> Spacemen 3 presented a live experience that goes from ""watching a performance" to ""entering an acoustic space."
+> Spacemen 3は、“演奏を見る”から“音響空間へ入る”というライブ体験を提示した。
 
 ---
 
-## Discography overview
+## ディスコグラフィ概説
 
-### Major studio works
+### 主要スタジオ作品
 
-| Year | Works | Features |
+| 年 | 作品 | 特徴 |
 |---|---|---|
-| 1986 | Sound of Confusion | Garage + Noise + Early Drone |
-| 1987 | The Perfect Prescription | Minimal aesthetics completed |
-| 1989 | Playing with Fire | Gospel quality and sense of collapse |
-| 1991 | Recurring | Substantial divisive work |
+| 1986 | Sound of Confusion | ガレージ＋ノイズ＋初期ドローン |
+| 1987 | The Perfect Prescription | ミニマル美学完成 |
+| 1989 | Playing with Fire | ゴスペル性と崩壊感 |
+| 1991 | Recurring | 実質的分裂作品 |
 
-### Live album and excavated sound source
+### ライブ盤と発掘音源
 
-Spacemen 3 is
-There are also many live albums and excavated sound sources.
+Spacemen 3は、
+ライブ盤や発掘音源も多い。
 
-Especially with live sound sources,
-Repetition and roar are further emphasized.
+特にライブ音源では、
+反復性と轟音性がさらに強調される。
 
-### Changes for each sound source
+### 音源ごとの変化
 
 <div class="mermaid">
 timeline
@@ -643,78 +643,87 @@ timeline
 1991 : Fragmentation
 </div>
 
-> For each work, Spacemen 3 simultaneously ""simplified" and ""expanded."
+> 作品ごとに、Spacemen 3は“単純化”と“拡張”を同時進行させていた。
 
 ---
 
-## Reason for current re-evaluation
+## 現在再評価される理由
 
-### Compatibility with the streaming era
+### ストリーミング時代との相性
 
-recent years,
-Spacemen 3 is being reevaluated.
+近年、
+Spacemen 3は再評価が進んでいる。
 
-One of the reasons is
-It's compatible with modern listening culture.
+理由の一つは、
+現代リスニング文化との相性だ。
 
-### Strength as "immersive" music
+### “没入型”音楽としての強さ
 
-Their works are
-In terms of BGM,
-It also functions as a concentrated viewing experience.
+彼らの作品は、
+BGM的にも、
+集中鑑賞的にも機能する。
 
-For modern listeners who listen to drone and ambient music,
-Spacemen 3 is naturally connected.
+ドローンやアンビエントを聴く現代リスナーにとって、
+Spacemen 3は自然に接続される。
 
-### Minimal regression
+### ミニマル回帰
 
-In contemporary indie and ambient,
-The idea of ​​""creating a space with less sound'' is being reevaluated.
+現代インディーやアンビエントでは、
+“少ない音で空間を作る”発想が再評価されている。
 
-As its origin,
-Spacemen 3 has a huge presence.
+その源流として、
+Spacemen 3の存在感は大きい。
 
-### Not nostalgic
+### ノスタルジーではない
 
-They're not just an "80s band."
+彼らは単なる“80年代バンド”ではない。
 
-The very concept of acoustic design is
-This is because it is modern.
+音響設計の考え方そのものが、
+現代的だからである。
 
-> Spacemen 3 resonates strongly with today's immersive listening culture.
+> Spacemen 3は、現在の没入型リスニング文化と強く共鳴している。
 
 ---
 
-## Final Chapter - Why does "repetition" go to space?
+## 終章 ― “反復”はなぜ宇宙へ向かうのか
 
-Spacemen 3's music includes
-There are no fancy techniques.
+Spacemen 3の音楽には、
+派手な技巧はない。
 
-There is also less complicated code.
+複雑なコードも少ない。
 
-However,
-Through "repetition," they
-I tried to change the very sense of hearing.
+だが、
+彼らは“反復”によって、
+聴覚の感覚そのものを変えようとした。
 
-This is not just a lock;
-It was almost like a perception experiment.
+これは単なるロックではなく、
+知覚実験に近かった。
 
-They are
-Transform noise into space,
-Turn repetition into trance,
-He turned a minimal performance into a gigantic universe.
+彼らは、
+ノイズを空間へ変え、
+反復をトランスへ変え、
+最小限の演奏を巨大な宇宙へ変えた。
 
-That's why,
-Spacemen 3 is still special.
+だからこそ、
+Spacemen 3は今なお特別なのである。
 
-If you look at the huge history of music,
-The period of activity is short.
+巨大な音楽史の中で見れば、
+活動期間は短い。
 
-but,
-The impact they left in such a short period of time was
-Even now, it continues to live amid countless roars.
+しかし、
+その短期間で彼らが残した影響は、
+現在も無数の轟音の中に生き続けている。
 
-> Spacemen 3 was a band that created the largest immersive space with the "minimum of rock."
+> Spacemen 3は、“最小のロック”によって最大級の没入空間を作り上げたバンドだった。
 
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cf3nar8g-us?si=QyOca-kGCKYmv2pL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

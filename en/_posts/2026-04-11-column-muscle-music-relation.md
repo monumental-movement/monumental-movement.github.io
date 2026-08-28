@@ -10,25 +10,24 @@ tags:
 - Fitness
 - Sports
 - Music
-title: '[Column] Interaction between muscles and sound: The science of music that
-  increases training efficiency'
+title: 【コラム】 筋肉と音の相互作用：トレーニング効率を高める音楽の科学
 ---
 
 
 
-## Relationship between music and athletic performance
+## 音楽と運動パフォーマンスの関係
 
-Text: mmr | Theme: The act of training muscles is not just an accumulation of physical stress. Invisible elements such as rhythm, concentration, and motivation are intricately intertwined. And music influences all of this. In this article, we will summarize the effects of music during training based on scientific facts and clarify what kind of sounds maximize physical performance.
+文：mmr｜テーマ：筋肉を鍛える行為は、単なる肉体的な負荷の積み重ねではない。そこにはリズム、集中、モチベーションといった「見えない要素」が複雑に絡み合っている。そして、そのすべてに影響を与えるのが音楽である。本稿では、トレーニング時における音楽の効果を科学的事実に基づいて整理し、どのような音が身体のパフォーマンスを最大化するのかを解き明かしていく。
 
-### How rhythm moves the body
+### リズムが身体を動かす仕組み
 
-The human body has a tendency to synchronize with rhythm. This is called "entrainment," and is a phenomenon in which movement and physiological responses naturally match a certain external rhythm. This is why the tempo of walking and running changes to match the music.
+人間の身体はリズムに同調する性質を持っている。これは「エントレインメント（同期現象）」と呼ばれ、外部の一定のリズムに対して運動や生理反応が自然と一致する現象である。歩行やランニングのテンポが音楽に合わせて変化するのはこのためだ。
 
-Listening to music with a constant tempo stimulates the motor cortex in the brain and stabilizes the timing of movements. It has been confirmed that this improves the form and improves energy efficiency.
+テンポが一定の音楽を聴くと、脳内の運動野が刺激され、動作のタイミングが安定する。これによりフォームが整い、エネルギー効率が向上することが確認されている。
 
-Rhythm is not just a timing guide; it also influences the cycle of muscle contraction. Moving to a steady beat reduces unnecessary strain, which in turn improves your endurance.
+また、リズムは単なるタイミングのガイドではなく、筋収縮の周期にも影響を与える。一定のビートに合わせて動くことで、無駄な力みが減り、結果的に持久力の向上につながる。
 
-> The rhythm of music is not just a background; it plays a role in designing the movement of the body itself.
+> 音楽のリズムは単なる背景ではなく、身体の動作そのものを設計する役割を持っている。
 
 ---
 
@@ -37,7 +36,7 @@ Rhythm is not just a timing guide; it also influences the cycle of muscle contra
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -47,180 +46,180 @@ color: #fff;
 
 
 
-## Effect of music on fatigue
+## 音楽が疲労感に与える影響
 
-### Decreased subjective exercise intensity
+### 主観的運動強度の低下
 
-The ""tightness'' you feel when exercising depends not only on the actual load but also on how your brain perceives it. This metric is called "subjective intensity of exertion" (RPE).
+運動時に感じる「きつさ」は、実際の負荷だけでなく、脳の認知によっても左右される。この指標は「主観的運動強度（RPE）」と呼ばれる。
 
 Studies have shown that exercising while listening to music significantly lowers this RPE. In other words, the same load will "feel easier".
 
-This is because music divides attention and reduces awareness of fatigue and pain. Especially when it comes to monotonous exercise, music has the effect of alleviating mental boredom and extending the duration.
+これは音楽が注意を分散させ、疲労や痛みに対する意識を弱めるためである。特に単調な運動においては、音楽が精神的な退屈を軽減し、継続時間を延ばす効果がある。
 
-### Effects on the nervous system
+### 神経系への影響
 
-Music stimulates the release of dopamine. This is a neurotransmitter involved in the reward system, and is closely related to motivation and pleasure.
+音楽はドーパミンの分泌を促進する。これは報酬系に関わる神経伝達物質であり、モチベーションや快感と密接に関係している。
 
-Furthermore, up-tempo music that stimulates the sympathetic nervous system increases heart rate and blood pressure, creating an alert state suitable for exercise.
+さらに、交感神経を刺激するアップテンポの音楽は、心拍数や血圧を上昇させ、運動に適した覚醒状態を作り出す。
 
-> Music does not reduce fatigue itself, but improves performance by changing the way fatigue is felt.
-
----
-
-## Best music for different workouts
-
-### Strength training (anaerobic exercise)
-
-When training with heavy weights, you need to produce maximum output in a short period of time. In this case, music with the following characteristics is considered effective.
-
-- Fast tempo (120-140BPM or more)
-- Strong bass
-- Clear rhythm
-
-This activates the sympathetic nervous system and promotes the instantaneous exertion of force.
-
-### Aerobic exercise
-
-When running or cycling, a sustained rhythm is important. The tempo is adjusted according to the intensity of the exercise.
-
-- Light jogging: 100-120BPM
-- Medium intensity: 120-140BPM
-- High intensity: 140BPM or more
-
-Matching tempo and movement improves energy efficiency.
-
-### High Intensity Interval Training (HIIT)
-
-Since switching between strengths is important in HIIT, songs with dynamics are suitable.
-
-- Build-up structure
-- Deployment with drop
-- strong beat changes
-
-This allows for natural movement phase switching.
-
-> The optimal music differs depending on the type of training, and it is necessary to choose music according to the purpose.
+> 音楽は疲労そのものを減らすのではなく、「疲労の感じ方」を変えることでパフォーマンスを引き上げる。
 
 ---
 
-## Music genre and performance
+## トレーニング別に最適な音楽
 
-### Electronic music and training
+### 筋力トレーニング（無酸素運動）
 
-Electronic music such as techno and house is characterized by a steady beat and strong bass. These promote rhythm synchronization and are suitable for sustained exercise.
+高重量を扱うトレーニングでは、短時間で最大出力を発揮する必要がある。この場合、以下の特徴を持つ音楽が効果的とされる。
 
-In particular, songs with a strong repetitive structure go well with repetitive movements, making it easier to maintain a state of concentration.
+- テンポが速い（120〜140BPM以上）
+- 低音が強い
+- リズムが明確
 
-### Hip-hop and explosiveness
+これにより、交感神経が活性化し、瞬発的な力の発揮が促される。
 
-Hip-hop is characterized by its emphasis on beats and heavy rhythms, making it suitable for short-term, high-output exercise. In some studies, subjects who listened to hip-hop showed higher power output.
+### 有酸素運動
 
-### Rock and psychological awakening
+ランニングやサイクリングでは、持続的なリズムが重要になる。テンポは運動強度に合わせて調整される。
 
-Rock music promotes psychological awakening due to its high sound pressure and energy. In particular, the climax during the chorus supports the performance even when the song is close to its limit.
+- 軽いジョギング：100〜120BPM
+- 中強度：120〜140BPM
+- 高強度：140BPM以上
 
-> Differences in music genres are not just a matter of preference, but also affect the way we use our bodies.
+テンポと動作を一致させることで、エネルギー効率が向上する。
+
+### 高強度インターバルトレーニング（HIIT）
+
+HIITでは強弱の切り替えが重要であるため、ダイナミクスのある楽曲が適している。
+
+- ビルドアップ構造
+- ドロップのある展開
+- 強いビート変化
+
+これにより、運動のフェーズ切り替えが自然に行える。
+
+> トレーニングの種類によって最適な音楽は異なり、目的に応じた選択が必要になる。
 
 ---
 
-## Music and concentration (flow)
+## 音楽ジャンルとパフォーマンス
 
-Entering a state of high concentration during exercise is important for improving performance. This state is called "flow."
+### 電子音楽とトレーニング
 
-Music acts as a gateway to a flow state. A constant rhythm and moderate stimulation focus the mind on the current action and eliminate distracting thoughts.
+テクノやハウスなどの電子音楽は、一定のビートと強い低音を特徴とする。これらはリズム同期を促進し、持続的な運動に適している。
 
-In particular, music with few lyrics or instrumental music can reduce cognitive load and help you become more immersed in exercise.
+特に反復構造の強い楽曲は、運動の反復動作と相性が良く、集中状態を維持しやすい。
+
+### ヒップホップと瞬発力
+
+ヒップホップはビートの強調とリズムの重さが特徴であり、短時間の高出力運動に向いている。研究では、ヒップホップを聴いた被験者がより高いパワー出力を示した例もある。
+
+### ロックと心理的覚醒
+
+ロックは音圧とエネルギーの高さにより、心理的覚醒を促す。特にサビでの盛り上がりは、限界に近い局面でのパフォーマンスを支える。
+
+> 音楽ジャンルの違いは単なる好みではなく、身体の使い方そのものに影響を与える。
+
+---
+
+## 音楽と集中状態（フロー）
+
+運動中に高い集中状態に入ることは、パフォーマンス向上において重要である。この状態は「フロー」と呼ばれる。
+
+音楽はフロー状態への入り口として機能する。一定のリズムと適度な刺激は、意識を現在の動作に集中させ、雑念を排除する。
+
+特に歌詞の少ない音楽やインストゥルメンタルは、認知負荷を減らし、運動への没入を助ける。
 
 <div class="mermaid">
 flowchart TD
-A[music rhythm] --> B[brain synchronization]
-B --> C[Stable operation]
-C --> D[state of concentration]
-D --> E[flow]
+A[音楽のリズム] --> B[脳の同期]
+B --> C[動作の安定]
+C --> D[集中状態]
+D --> E[フロー]
 </div>
 
-> Music functions as an environmental device that creates concentration and improves the quality of exercise.
+> 音楽は集中を生み出す環境装置として機能し、運動の質を底上げする。
 
 ---
 
-## Practice: Training playlist design and specific examples
+## 実践：トレーニング用プレイリスト設計と具体例
 
-### Major vs Underground Contrast
+### メジャー vs アンダーグラウンドの対比
 
-Choosing music for training can also be divided into whether you want to ""lift your mood with familiar songs" or ""immerse yourself in unknown sounds." Here, we will present an example of an actual playlist configuration while comparing the two.
+トレーニングにおける音楽選びは、「知っている曲で気分を上げる」か「未知の音で没入する」かという軸でも分かれる。ここでは両者を対比させながら、実際のプレイリスト構成例を提示する。
 
 ---
 
-### Warm-up (100-115 BPM)
+### ウォームアップ（100〜115 BPM）
 
-#### Major
+#### メジャー
 
 - Kanye West – Stronger
 - Daft Punk – One More Time
 - Calvin Harris – I'm Not Alone
 
-#### Underground
+#### アンダーグラウンド
 
 - Floating Points – Silhouettes
 - Moodymann – Lyk U Use 2
 - DJ Sprinkles – Midtown 120 Blues
 
-> The purpose of the warm-up is to get your body used to the rhythm, and stability of the groove is more important than overstimulation.
+> ウォームアップではリズムを身体に馴染ませることが目的となり、過度な刺激よりもグルーヴの安定が重要になる。
 
 ---
 
-### Main (muscle training/high intensity 120-150 BPM)
+### メイン（筋トレ・高強度 120〜150 BPM）
 
-#### Major
+#### メジャー
 
 ・Eminem – Till I Collapse
 ・Kanye West – Black Skinhead
 ・The Prodigy – Breathe
 ・Skrillex – Bangarang
 
-#### Underground
+#### アンダーグラウンド
 
 - Surgeon – Bad Hands Break
 - Regis – Blood Witness
 - Ancient Methods – Knights & Bishops
 - Blawan – Why They Hide Their Bodies Under My Garage
 
-> In the high-intensity parts, the intensity and repetition of the sound become important, and the minimal repetition of underground will push your concentration to the maximum.
+> 高強度パートでは音の強度と反復性が重要になり、アンダーグラウンドのミニマルな反復が集中力を極限まで引き上げる。
 
 ---
 
-### Aerobic/Sustainability Zone (120-135 BPM)
+### 有酸素・持続ゾーン（120〜135 BPM）
 
-#### Major
+#### メジャー
 
 - Avicii – Levels
 - Swedish House Mafia – Greyhound
 - Disclosure – When a Fire Starts to Burn
 
-#### Underground
+#### アンダーグラウンド
 
 - Motor City Drum Ensemble – Raw Cuts #5
 - Theo Parrish – Falling Up
 - Kerri Chandler – Bar A Thym
 
-> For sustained exercise, a ""steady rhythm'' is more important than flashiness, and the steady beat of deep house is effective.
+> 持続的な運動では、派手さよりも「崩れないリズム」が重要であり、ディープハウスの安定したビートが効果を発揮する。
 
 ---
 
-### Cooldown (80-100 BPM)
+### クールダウン（80〜100 BPM）
 
 #### Major
 
-- Drake – Hold On, We"re Going Home
+- Drake – Hold On, We’re Going Home
 - Frank Ocean – Pink + White
 
-#### Underground
+#### アンダーグラウンド
 
 - Nujabes – Feather
 - J Dilla – Time: The Donut of the Heart
 - Boards of Canada – Dayvan Cowboy
 
-> During the cool-down, music plays a role in slowing the heart rate and returning the nervous system to a relaxed state.
+> クールダウンでは心拍数を落とすと同時に、神経系をリラックス状態へ戻す役割を音楽が担う。
 
 ---
 
@@ -228,16 +227,16 @@ Choosing music for training can also be divided into whether you want to ""lift 
 
 <div class="mermaid">
 flowchart TD
-A[warm up] --> B[high strength]
-B --> C[sustained exercise]
-C --> D[cool down]
+A[ウォームアップ] --> B[高強度]
+B --> C[持続運動]
+C --> D[クールダウン]
 </div>
 
-> A playlist is not just a collection of songs, but a device for designing the flow of training itself.
+> プレイリストは単なる曲の集合ではなく、トレーニングの流れそのものを設計する装置である。
 
 ---
 
-## Chronology: History of music and movement research
+## 年表：音楽と運動の研究史
 
 <div class="mermaid">
 timeline
@@ -251,19 +250,19 @@ timeline
     2020 : 個別最適化されたプレイリスト研究が進む
 </div>
 
-> The relationship between music and exercise has been studied for many years, and is still evolving.
+> 音楽と運動の関係は長年研究されてきた分野であり、現在も進化を続けている。
 
 ---
 
-## Conclusion: Music is an "invisible training gear"
+## 結論：音楽は「見えないトレーニングギア」である
 
-Music is not just entertainment; it is an important element that influences physical movement, sensation, concentration, and performance itself.
+音楽は単なる娯楽ではなく、身体の動き、感覚、集中、そしてパフォーマンスそのものに影響を与える重要な要素である。
 
-Properly selected music can reduce fatigue, improve concentration, and support muscle development. In other words, music functions as an invisible training gear.
+適切に選ばれた音楽は、疲労を軽減し、集中を高め、筋力発揮をサポートする。つまり、音楽は目に見えないトレーニングギアとして機能する。
 
-Incorporating music based on scientific knowledge will definitely improve the quality of your training.
+科学的知見をもとに音楽を取り入れることで、トレーニングの質は確実に向上するだろう。
 
-> Those who control the music control the quality of training itself.
+> 音楽を制する者は、トレーニングの質そのものを制する。
 
 
 ---

@@ -15,11 +15,11 @@ title: Emergency – Let Me Be
 ---
 
 
-Emergency is an Italo dance project by Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi, and Pieradis Rossini.
+Emergencyは、Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi, Pieradis Rossiniによるイタロダンスプロジェクト。
 
-The arranger and producer is Pieradis Rossini, an Italian musician and dance music producer and founder of the Italo dance label DJ Movement.
+アレンジ＆プロデューサーは、イタリアのミュージシャン＆ダンスミュージックプロデューサーであり、イタロダンスのレーベルDJ Movementの創設者Pieradis Rossini。
 
-Italo dance track released by the label DJ Movement in 1993.
+1993年にレーベルDJ Movementからリリースされたイタロダンストラック。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ A1. Let Me Be (Lets Do It Mix)
 B1. Let Me Be (Emergency)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m49444465036?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49444465036?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TJeciSG5sj0?si=sKGmoo5PY_2HIbJj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

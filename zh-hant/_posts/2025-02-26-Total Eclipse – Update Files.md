@@ -14,11 +14,11 @@ title: Total Eclipse – Update Files
 ---
 
 
-Total Eclipse 是由三位法國製作人於 1992 年啟動的計畫。他因 1995 年和 1996 年發行的 goa-trance 專輯而聞名。
+Total Eclipseは、1992年に3人のフランス人プロデューサーによって始まったプロジェクト。1995年＆1996年にリリースしたゴアトランスアルバムで有名になった。
 
-《Update Files》是日本血腥和迷幻唱片公司 Arcadia Music 於 2003 年發行的一張迷幻 trance 專輯。
+「Update Files 」は、2003年に日本のゴア＆サイトランスレーベルArcadia Musicからリリースされたサイケデリックトランスアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. None Of This
 2. Jadran Temple
@@ -32,7 +32,7 @@ Total Eclipse 是由三位法國製作人於 1992 年啟動的計畫。他因 19
 10. Aguas Blancas
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

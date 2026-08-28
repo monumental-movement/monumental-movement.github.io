@@ -10,15 +10,15 @@ tags:
 - Rock
 - Alternative Rock
 - 90s
-title: 歡樂製造者 – 安德魯的商店
+title: The Merrymakers – Andrew's Store
 ---
 
 
-The Merrymakers 是瑞典音樂二人組，由 Anders Hellgren 和 David Myhr 組成。他也為 Puffy AmiYumi、Dorian Gray、Yuko Yamaguchi 和 Fujifabric 提供/製作音樂。
+The Merrymakers(ザ・メリーメーカーズ)は、Anders HellgrenとDavid Myhrで構成されたスウェーデンの音楽デュオ。Puffy AmiYumi、Dorian Gray、Yuko Yamaguchi、Fujifabricへの楽曲提供／プロデュースなどの活動もしている。
 
-《Andrew's Store》於1997年由斯德哥爾摩唱片公司發行，是The Merrymakers的代表專輯。
+1997年にレーベルStockholm Records からリリースした「Andrew's Store」はThe Merrymakersの代表アルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Andrew's Store
 2. It's Alright
@@ -30,4 +30,4 @@ The Merrymakers 是瑞典音樂二人組，由 Anders Hellgren 和 David Myhr �
 8. I Won't Let Down
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m21065900366?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21065900366?afid=6142608987){: .button1}

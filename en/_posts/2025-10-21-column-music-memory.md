@@ -9,22 +9,22 @@ tags:
 - Vinyl
 - Cassette
 - CD
-title: '[Column] Music and memory: When melody transcends time'
+title: 【コラム】 音楽と記憶：メロディが時間を超えるとき
 ---
 
 
-## Prologue: Melody is the key to unlocking memories
+## 序章：メロディは記憶の引き出しを開く鍵
 
 
-Text: mmr｜Theme: Why does music evoke memories? An anthropological study of sound as an archive of melody, time, and emotion
+文：mmr｜テーマ：音楽が記憶を呼び覚ますのはなぜか。メロディと時間、感情のアーカイブとしての音をめぐる文化人類学的考察
 
-At one moment, a melody plays on the radio, instantly bringing back the scenery that he had forgotten for years.
-This is the power of sound memory, similar to smell.
-Neuroscience has also shown that music directly stimulates the hippocampus (memory) and amygdala (emotions).
-But more than that, music is an ""art of time" and a ""reenactment of the past."
+ある瞬間、ラジオから流れたメロディが、何年も忘れていた風景を一瞬で蘇らせる。  
+それは匂いにも似た、音の記憶の力である。  
+脳科学的にも、**音楽は海馬（記憶）と扁桃体（感情）を直接刺激する**ことが知られている。  
+だがそれ以上に、音楽とは「時間の芸術」であり、「過去の再演」である。  
 
-Listening to music is not just entertainment, but a physical act of replaying the past.
-It existed even before recording technology was invented; it was a way for humans to "share memories" through voice and rhythm.
+音楽を聴くとは、ただの娯楽ではなく、「過去を再生する身体的行為」である。  
+それは、録音技術が生まれる以前から存在してきた——人間が声とリズムで“記憶を共有する”ための方法だった。
 
 ---
 
@@ -33,7 +33,7 @@ It existed even before recording technology was invented; it was a way for human
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,119 +42,119 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Memory and Rhythm — Music as a "structure of time"
+## 第1章：記憶とリズム — 「時間の構造」としての音楽
 
-The most fundamental structure of music is **rhythm**.
-Rhythm is the order of time, and through repetition it brings the past back into the present.
-Festivals, prayers, and dances. All of these are acts of experiencing the circle of time.
+音楽の最も根源的な構造は**リズム**である。  
+リズムは時間の秩序であり、反復することによって「過去」を現在に呼び戻す。  
+祭り、祈り、踊り。どれも時間の円環を体感する行為だ。
 
-Carving out a rhythm is the very act of consolidating memory.
-In ancient oral culture, poems and myths were passed down in rhythm.
-This is because people feel that rhythm is easy to remember and resonates with the body.
+リズムを刻むことは、記憶の定着そのものだ。  
+古代の口承文化では、詩や神話はリズムにのせて語り継がれた。  
+なぜなら、人はリズムに「覚えやすさ」と「身体の共鳴」を感じるからだ。  
 
-**Music = Rhythmization of memory. **
-This structure has been inherited even in the era after recording media.
+**音楽＝記憶のリズム化。**  
+この構造は、録音メディア以後の時代にも受け継がれている。  
 Spotify playlists are also just a new format.
 
 ---
 
-## Chapter 2: Recording and Playback — Birth of "Recorded Time"
+## 第2章：録音と再生 — 「記録された時間」の誕生
 
-At the beginning of the 20th century, when **Edison's phonograph** appeared, humans were able to reproduce the sounds of the past for the first time.
+20世紀初頭、**エジソンの蓄音機**が登場したとき、人類は初めて「過去の音」を再生できるようになった。  
 It was a revolution in the history of music, and at the same time it was the birth of ""technology to preserve time.''
 
-Records, tapes, CDs, MP3s, and streaming.
-Recording technology advanced the ""archiving of sound'' and expanded human memory.
+レコード、テープ、CD、MP3、そしてストリーミングへ。  
+録音技術は「音のアーカイブ化」を進め、人間の記憶を拡張していった。  
 
 > Melodies go beyond personal memories and form social memories.
 
-For example, listening to popular songs that were played in post-war Japan brings back the atmosphere of that era.
-Music records the ""temperature of the time'' more directly than history books.
+例えば、戦後の日本で流れた歌謡曲を聴けば、その時代の空気が蘇る。  
+音楽は歴史書よりも直接的に、「その時代の温度」を記録しているのだ。
 
 ---
 
-## Chapter 3: The Science of Nostalgia and Emotional Memory
+## 第3章：ノスタルジアの科学と感情の記憶
 
-Music makes people cry, not so much because of the sound itself, but because they are reunited with their ""past selves.''
-Psychologically, melodies and harmonies function as memory "tags."
+音楽が人を泣かせるのは、音そのものよりも**「過去の自分」と再会するから**である。  
+心理学的に、メロディやハーモニーは、記憶の「タグ」として機能する。  
 
-When we listen to a certain song, we unconsciously replay the ""smell, light, and wind'' of that time at the same time.
-Sound is a time machine, and melody is the key to memory.
+ある曲を聴くとき、私たちは無意識に「そのときの匂い、光、風」を同時に再生している。  
+音はタイムマシンであり、メロディは記憶の鍵だ。  
 
-Music listened to in childhood, in particular, has a high level of brain plasticity, so it becomes a core emotional core throughout a person's life.
-The phenomenon of ""nostalgic melodies" being revived on Spotify and YouTube is evidence of their role as cultural ""memory reproduction devices."
-
----
-
-## Chapter 4: Transforming Media and Memory — Listening Experiences in the Age of Algorithms
-
-In the past, the moment a person selected a record and dropped the needle, there was a ""rebirth of memory.''
-However, in modern times, AI predicts our ""mood'' based on our past playback history.
-
-Spotify"s Discover Weekly and Apple Music"s Personal Mixes are attempts at algorithmic memory editing.
-But there is also danger lurking there.
-We may be listening to "memory as data" rather than "our own memory."
-
-> Human nostalgia is being externalized by algorithms.
-
-At this time, music becomes not an individual's internal memory, but a network memory (collective digital memory).
+特に幼少期に聴いた音楽は、脳の可塑性が高いため、終生にわたって感情の核となる。  
+SpotifyやYouTubeでリバイバルされる“懐メロ”の現象は、その文化的な「記憶再生装置」としての役割の証拠である。
 
 ---
 
-## Chapter 5: The body that remembers — synapses between music and the brain and emotions
+## 第4章：メディアと記憶の変容 — アルゴリズム時代の聴取体験
 
-Music is memorized not only in the brain but also in the body.
-Just as musicians say that their hands remember a phrase once they have memorized it.
-Bodily working memory (procedural memory) is closely linked to auditory memory.
+かつては人がレコードを選び、針を落とす瞬間に「記憶の再生」があった。  
+しかし現代では、AIが私たちの過去の再生履歴から“気分”を予測する。  
 
-dancing, singing, and playing.
-These are ""memory reproductions through the resonance of sound and the body.''
+Spotifyの「Discover Weekly」やApple Musicの「パーソナルミックス」は、**アルゴリズムによる記憶編集**の試みだ。  
+だがそこには危うさも潜む。  
+We may be listening to ""memory as data" rather than ""our own memory."
+
+> 人間のノスタルジアは、アルゴリズムによって外部化されている。
+
+このとき、音楽は個人の内的記憶ではなく、ネットワーク的記憶（collective digital memory）へと変質する。
+
+---
+
+## 第5章：記憶する身体 — 音楽と脳・感情のシナプス
+
+音楽は脳だけでなく、身体にも記憶される。  
+ミュージシャンが一度覚えたフレーズを「手が覚えている」というように、  
+身体の動作記憶（プロシージャルメモリ）は、聴覚的記憶と密接に結びついている。  
+
+踊ること、歌うこと、演奏すること。  
+それらは「音と身体の共鳴による記憶再現」である。  
 In other words, listening to music is **becoming yourself from that time again**.
 
 ---
 
-## Chapter 6: Music and Collective Memory — From National Anthems to Festivals
+## 第6章：音楽と集団記憶 — 国歌からフェスティバルへ
 
-What Benedict Anderson calls an ""imagined community'' is
-It has been supported by "shared music" such as the national anthem and school song.
+ベネディクト・アンダーソンが言う「想像の共同体」は、  
+国歌や校歌といった「共有された音楽」によって支えられてきた。  
 
-However, in modern times, ""collective memory'' is born on the floors of festivals and clubs, not in countries.
-The moment people listen to the same song in a crowd, they transcend the individual and connect to a ""sound community.''
+だが現代における「集団記憶」は、国ではなくフェスやクラブのフロアで生まれている。  
+群衆の中で同じ曲を聴く瞬間、人は個を超えて「音の共同体」に接続する。  
 
-It is a new "ritual" for the 21st century and a renewal of memory.
+それは21世紀の新しい“儀礼”であり、記憶の更新である。  
 
 ---
 
-## Chapter 7: Music of Silence — Between Oblivion and Rebirth
+## 第7章：沈黙の音楽 — 忘却と再生のあいだで
 
 Where there is memory, there is always forgetting.
-What John Cage's ""4 minutes 33 seconds" shows is the ""redefinition of hearing" hidden in silence.
+ジョン・ケージの《4分33秒》が示したのは、沈黙の中に潜む“聴覚の再定義”だ。  
 
-Music is not ""what you listen to," but ""what you can remember."
-This question is the philosophical core of the connection between memory and melody.
+音楽とは「何を聴くか」ではなく、「何を忘れずにいられるか」。  
+その問いこそが、記憶とメロディを結びつける哲学的核心である。
 
 ---
 
-## Final chapter: When the melody transcends time
+## 終章：メロディが時間を超えるとき
 
-Every time we listen to a song, we travel back and forth in time.
-It is both a "reenactment of the past" and a "reconstruction of the present."
+私たちは曲を聴くたびに、時間を往復している。  
+それは「過去の再演」であり、「現在の再構築」でもある。  
 
-And even after the music stops, the melody continues to ring somewhere in my heart.
-Music is an art form of memory itself.
+そして音楽が止んだ後も、メロディは心のどこかで鳴り続ける。  
+音楽とは、記憶そのものの形をした芸術なのだ。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xY8nuVm3xT8?si=1WavPB34Hp4ByuRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chronology of music and memory
+## 音楽と記憶の年表
 
 <div class="mermaid">
 
@@ -171,30 +171,30 @@ timeline
 
 ---
 
-### Illustration: Relationship between music and memory
+### 図解：音楽と記憶の関係
 
 <div class="mermaid">
 
 flowchart TD
-    A[sound stimulation] --> B[auditory cortex]
-    B --> C[Hippocampus (memory formation)]
-    B --> D[amygdala (emotion)]
-    C --> E[episodic memory]
-    D --> F[emotional reaction]
-    E --> G[Re-experiencing the past through music]
+    A[音刺激] --> B[聴覚皮質]
+    B --> C[海馬（記憶形成）]
+    B --> D[扁桃体（感情）]
+    C --> E[エピソード記憶]
+    D --> F[感情反応]
+    E --> G[音楽による過去の再体験]
     F --> G
-    G --> H[Generation of nostalgia]
+    G --> H[ノスタルジアの生成]
 
 </div>
 
 ---
 
-### References
+### 参考文献
 
-| Book title | Author | Publisher | Link |
-|------|--------|----------|---------------|
-| Musicophilia - When the brain and music meet | Oliver Sacks | Hayakawa Shobo | [Amazon](https://amzn.to/3IVGnc9) |
-| How your brain feels about music | Daniel J. Levitin | Hakuyosha | [Amazon](https://amzn.to/43k1Hig) |
-| Music and the Brain: Resonating Human Hearts | Masao Ito | Chuokoron-Shinsha | [Amazon](https://amzn.to/3Wd4DJI) |
+| 書名 | 著者 | 出版社 | リンク |
+|------|-------|----------|---------------|
+| 音楽嗜好症 ― 脳と音楽が出会うとき | オリヴァー・サックス | 早川書房 | [Amazon](https://amzn.to/3IVGnc9) |
+| あなたの脳は音楽をどう感じるか | ダニエル・J・レヴィティン | 白揚社 | [Amazon](https://amzn.to/43k1Hig) |
+| 音楽と脳：響きあう人間の心 | 伊藤正男 | 中央公論新社 | [Amazon](https://amzn.to/3Wd4DJI) |
 
 

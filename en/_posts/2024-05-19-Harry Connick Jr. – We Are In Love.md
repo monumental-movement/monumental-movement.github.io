@@ -15,9 +15,9 @@ title: Harry Connick, Jr. – We Are In Love
 Harry Connick, Jr. is a singer and pianist from New Orleans.
 He composed the music for the 1989 film ""Lovers' Premonition" and has also been active as an actor since the 1990s, appearing in ""Memphis Belle" and ""Independence Day.''
 
-As of 2019, Harry Connick Jr. is said to have sold more than 30 million records worldwide, ranking him in the Recording Industry Association of America's ""Top 60 Best Selling Male Artists in the United States.''
+2019年時点で、ハリー・コニックJr.のレコードは世界中で3,000 万枚以上売れたと言われており、米国レコード協会の『米国で最も売れた男性アーティストTop60』にランクインしている。
 
-"We Are In Love" won a Grammy Award in 1991.
+「We Are In Love」は、1991年度グラミー賞を受賞した作品。
 
 #### Tracklist
 ```md
@@ -36,7 +36,7 @@ B4. It's Alright With Me
 B5. Buried In Blue
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m86785340149?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86785340149?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uij5s69iEjs?si=Sjvdi3CevIs8Ilbu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

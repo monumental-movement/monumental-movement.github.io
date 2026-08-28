@@ -12,20 +12,20 @@ tags:
 - Breaks
 - Electro
 - 00s
-title: 代德羅斯——讓它如此
+title: Daedelus – Make It So
 ---
 
 
-居住在洛杉磯的美國音樂製作人阿爾弗雷德·韋斯伯格-羅伯茨（Alfred Weisberg-Roberts），又名 Daedelus，是一位通過混合各種音樂元素的實驗方法構建獨特聲音的藝術家。 《Make It So》是英國著名唱片公司 Ninja Tune 於 2008 年發行的錄音室專輯《Love to Make Music To》中的一首單曲。
+Daedelus名義で知られる、LAを拠点とするUS音楽プロデューサーAlfred Weisberg-Robertsは、様々な音楽要素を混ぜ合わせたエクスペリメント手法でユニークなサウンドを構築するアーティスト。「Make It So」は, 2008年にUKの名門レーベルNinja Tuneからリリースされスタジオアルバム「Love to Make Music To」からのシングルカット。
 
-Side A 上的第一首歌是 Spank Rock 前成員 XXXchange 的混音版。
+A面１曲目は、元Spank Rock（スパンク・ロック）のメンバーのXXXchangeによるremix。
 
-B面第一首歌是電子樂老牌DJ Moonstarr。
-混音者
+B面１曲目は、エレクトロニックミュージック界のベテランDJ Moonstarr
+によるremix。
 
-B 面的第二首歌是 Samiyam 的混音版，Samiyam 是一位居住在洛杉磯的美國嘻哈製作人，同時也是 Flying Lotus 的製作二人組 FLYamSAM。
+B面２曲目は、LAを拠点とするUSヒップホッププロデューサーであり、Flying Lotus（フライング・ロータス）とのプロダクションデュオFLYamSAMとしても活動するSamiyamによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Make It So (XXXchange Remix)
 A2. Make It So (Album Version)

@@ -10,24 +10,23 @@ tags:
 - Post-Rock
 - Instrumental
 - Cinematic Rock
-title: '[Column] Post-Rock Instrumental / Cinematic Rock ─ From silence to cinematic
-  explosion'
+title: 【コラム】 Post-Rock Instrumental / Cinematic Rock ─ 静寂から映画的爆発へ
 ---
 
 
 
-## Prologue: A wordless story begins to sound
+## 序章：言葉のない物語が鳴り始めた
 
-Text: mmr｜Theme: About the establishment and development of post-rock instrumental music
+文：mmr｜テーマ：ポストロック・インストゥルメンタルの成立と発展について
 
 
-Post-rock instrumental and cinematic rock are musics that have given listeners an extremely strong sense of narrative, even though they do not have clear meaning devices such as lyrics. It starts with silence, then the slight fluctuations of sound accumulate, and eventually become a large swell that envelops the emotions. This process resonates deeply with the film's long camera movements and the building of tension through editing.
+ポストロック・インストゥルメンタル、そしてシネマティック・ロックは、歌詞という明確な意味装置を持たないにもかかわらず、極めて強い物語性を聴き手に与えてきた音楽である。静寂から始まり、わずかな音の揺らぎが積み重なり、やがて大きなうねりとなって感情を包み込む。そのプロセスは、映画における長回しのカメラワークや、編集による緊張の構築と深く共鳴している。
 
-When this music emerged in the late 1990s, rock seemed to have exhausted its many forms. Alternative rock was becoming mainstream, and grunge impulses were becoming a thing of the past. Under such circumstances, post-rock instrumental music presented a completely different sense of time and structure while using rock formations.
+この音楽が登場した1990年代後半、ロックはすでに多くの形式を出し尽くしたかのように見えていた。オルタナティブ・ロックは主流化し、グランジの衝動も過去のものとなりつつあった。そうした状況下で、ロックという編成を使いながら、まったく異なる時間感覚と構造を提示したのがポストロック・インストゥルメンタルである。
 
-Explosions in the Sky and Godspeed You! Black Emperor are iconic in this context. The former approaches personal experiences through melodies and heightened emotions, while the latter imprints social and collective time in the form of sound. While active at the same time, both artists demonstrated the breadth and depth of the post-rock framework.
+この文脈を語るうえで、Explosions in the SkyとGodspeed You! Black Emperorは象徴的な存在である。前者は旋律と感情の高揚を通じて個人的体験に寄り添い、後者は社会的・集団的時間を音として刻み込んだ。両者は同時代に活動しながら、ポストロックという枠組みの広さと深さを示してきた。
 
-> Post-rock instrumentals provide a space for the listener to begin speaking, rather than for the music to speak.
+> ポストロック・インストゥルメンタルは、音楽が語るのではなく、聴き手が語り始めるための空間を用意した。
 
 ---
 
@@ -36,7 +35,7 @@ Explosions in the Sky and Godspeed You! Black Emperor are iconic in this context
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -45,101 +44,101 @@ color: #fff;
 </style>
 
 
-## Establishment of the concept of post-rock
+## ポストロックという概念の成立
 
-The term "post-rock" became established in the mid-1990s. It began to be used to describe music that uses rock instrumentation but distances itself from blues-derived riffs, vocal focus, and formulaic song structures. This concept did not refer to a specific sound, but rather to an attitude or methodology.
+「ポストロック」という呼称が定着したのは1990年代半ばである。ロックの楽器編成を用いながらも、ブルース由来のリフやヴォーカル中心主義、定型的な楽曲構造から距離を取る音楽を説明するために使われ始めた。この概念は特定のサウンドを指すというより、姿勢や方法論を示す言葉であった。
 
-The background lies in the multiple musical cultures that have accumulated since the 1970s. The repetition and subtle changes exhibited by minimal music, the idea of ​​environmental music presented by ambient, the deconstructive attitude brought about by post-punk, and even the sense of spatial processing in dub and electronic music. Post-rock was formed as a result of these intersecting with the rock context.
+背景には、1970年代以降に蓄積されてきた複数の音楽文化がある。ミニマル・ミュージックが示した反復と微細な変化、アンビエントが提示した環境音楽としての発想、ポストパンクがもたらした脱構築的態度、さらにはダブや電子音楽における空間処理の感覚。これらがロックの文脈と交差した結果として、ポストロックは形成された。
 
-What is important is that post-rock was not a ""negation of rock.'' While the guitar, bass, and drum lineup was maintained, their roles were redefined. The guitar became a device for creating sustained sounds and textures rather than carving out riffs, and the drums moved from being a beat-setting device to one that controlled the flow of time and tension.
+重要なのは、ポストロックが「ロックの否定」ではなかった点である。ギター、ベース、ドラムという編成は維持されながら、それらの役割が再定義された。ギターはリフを刻むためではなく、持続音やテクスチャを生み出すための装置となり、ドラムはビートを刻む存在から、時間の流れと緊張感を制御する役割へと移行した。
 
-> Post-rock was not an attempt to end rock, but rather an act of repositioning rock in a different timeline.
-
----
-
-## Changes in the listening experience brought about by instrumentalization
-
-One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the picture, the music was freed from concrete meanings and narratives, turning it into a more abstract experience.
-
-With instrumental music, the listener doesn't have to follow the words. Instead, attention is directed to the overlapping sounds, changes in strength and weakness, and the passage of time itself. This is a listening experience that requires active immersion rather than passive consumption.
-
-The length of the song is also an important factor. It's not uncommon for post-rock instrumental songs to be around 10 minutes long, and sometimes over 20 minutes long. Rather than presenting a conclusion in a short period of time, the emphasis is on building emotions through slow changes.
-
-> Instrumentalization has changed music from an ""object to be understood" to a ""space to stay in."
+> ポストロックとは、ロックを終わらせる試みではなく、ロックを別の時間軸に置き直す行為だった。
 
 ---
 
-## Natural connection to cinematic rock
+## インストゥルメンタル化がもたらした聴取体験の変化
 
-The term cinematic rock does not have a strict genre definition. However, it has been used intuitively to refer to music with a sense of visual scale and emotional curves.
+ポストロックにおける大きな転換点のひとつが、ヴォーカルの排除、あるいは極端な後景化である。歌詞が前面に出ないことで、音楽は具体的な意味や物語から解放され、より抽象的な体験へと変化した。
 
-It was inevitable that post-rock instrumental music would be associated with this designation. The quiet introduction is similar to the landscape description at the beginning of the movie, and the gradual addition of elements increases the tension of the story. And the climax that comes brings about a visual catharsis.
+インストゥルメンタル楽曲では、聴き手は言葉を追う必要がない。その代わりに、音の重なり、強弱の変化、時間の経過そのものに意識が向けられる。これは受動的な消費ではなく、能動的な没入を要求する聴取体験である。
 
-In fact, many post-rock songs have found their way into movies and television series, but this is not a result of the subordination of music to visuals. Music itself originally contained a visual structure.
+楽曲の長さも重要な要素である。ポストロック・インストゥルメンタルでは、10分前後、時には20分を超える楽曲も珍しくない。短時間で結論を提示するのではなく、ゆっくりとした変化の中で感情を醸成することが重視される。
 
-> Cinematicity was not an acquired reputation, but a quality that emerged from the structure itself.
+> インストゥルメンタル化は、音楽を「理解する対象」から「滞在する空間」へと変えた。
 
 ---
 
-## Explosions in the Sky: Lyrics that embrace personal memories
+## シネマティック・ロックへの自然な接続
 
-Explosions in the Sky is an instrumental rock band formed in Austin, Texas in 1999. From a relatively early stage, they established a style with melodiousness and a clear build-up structure.
+シネマティック・ロックという言葉は、厳密なジャンル定義を持つものではない。しかし、映像的スケール感や感情曲線を備えた音楽を指す際に、直感的に用いられてきた。
 
-What is symbolic about their early activities is a coincidental event that occurred immediately after their debut. The release of the work that brought their music so much attention coincided with a period of special significance to American society, unintentionally arousing strong emotional associations. This experience is said to have made them strongly aware that ""music takes on meaning depending on its context.''
+ポストロック・インストゥルメンタルがこの呼称と結びついたのは必然である。静かな導入部は映画の冒頭の風景描写に似ており、徐々に要素が加わる展開は物語の緊張を高める。そして訪れるクライマックスは、映像的なカタルシスを生む。
 
-The song structure of Explosions in the Sky is clear. Simple arpeggios and single-note phrases are presented, and as they are repeated, the number and volume of notes gradually increase. The drums visualize the rise of emotion in stages, eventually forming a big climax.
+実際、多くのポストロック楽曲が映画やテレビシリーズで使用されるようになったが、それは音楽が映像に従属した結果ではない。もともと音楽自体が、映像的構造を内包していたのである。
 
-The reason their music has been used in so many video productions is because of the way they open up their emotions. Rather than imposing a specific narrative, the space is maintained to naturally evoke the listener's own memories and experiences.
+> シネマティック性は後天的な評価ではなく、構造そのものから立ち上がった性質だった。
 
-> Explosions in the Sky presented post-rock as a vessel for introspective yet shareable emotions.
+---
+
+## Explosions in the Sky：個人的記憶に寄り添う叙情
+
+Explosions in the Skyは、1999年にテキサス州オースティンで結成されたインストゥルメンタル・ロック・バンドである。彼らは比較的早い段階から、旋律性と明確なビルドアップ構造を持つスタイルを確立した。
+
+初期の活動において象徴的なのは、デビュー直後に起きた偶然の出来事である。彼らの音楽が大きく注目を集めるきっかけとなった作品が、アメリカ社会にとって特別な意味を持つ時期と重なって発表されたことで、意図せず強い感情的連想を呼び起こした。この経験は、彼らが「音楽が文脈によって意味を帯びる」ことを強く意識する契機となったとされている。
+
+Explosions in the Skyの楽曲構造は明快である。シンプルなアルペジオや単音フレーズが提示され、それが反復される中で徐々に音数と音量が増していく。ドラムは感情の高まりを段階的に可視化し、最終的に大きなクライマックスを形成する。
+
+彼らの音楽が多くの映像作品で使用されてきた理由は、その感情の開かれ方にある。特定の物語を押し付けるのではなく、聴き手自身の記憶や経験を自然に呼び起こす余白が保たれている。
+
+> Explosions in the Skyは、ポストロックを内省的でありながら共有可能な感情の器として提示した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6obrtC66VyE?si=jrlAFmmRemCLxtqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Godspeed You! Black Emperor: A group that carves society and time
+## Godspeed You! Black Emperor：社会と時間を刻む集団
 
-Godspeed You! Black Emperor is a music collective that started in Montreal in the late 1990s. It has a strong character as a fluid collective rather than a fixed member composition, and is characterized by a large composition that uses multiple guitars, basses, drums, string instruments, and field recordings.
+Godspeed You! Black Emperorは、1990年代後半にモントリオールで活動を開始した音楽集団である。固定されたメンバー構成よりも、流動的な集合体としての性格が強く、複数のギター、ベース、ドラム、弦楽器、そしてフィールドレコーディングを用いる大編成が特徴である。
 
-Their work deviates greatly from the framework of a typical rock album. The piece is long and structured like multiple movements, alternating between silence and noise, melody and chaos. There are often no clear hooks or resolutions, requiring patience and concentration from the listener.
+彼らの作品は、一般的なロック・アルバムの枠組みから大きく逸脱している。楽曲は長大で、複数の楽章のように構成され、静寂とノイズ、旋律と混沌が交互に現れる。明確なサビや解決点を持たない場合も多く、聴き手には忍耐と集中が求められる。
 
-Godspeed You! Black Emperor presented an attempt to record social and historical time in sound rather than personal feelings. The sounds, announcements, and fragmented narratives of the city evoke a collective sense of anxiety and tension rather than articulate a specific message.
+Godspeed You! Black Emperorが提示したのは、個人の感情よりも、社会的・歴史的時間を音として記録する試みであった。都市の音、アナウンス、断片的な語りは、特定のメッセージを明示するのではなく、不安や緊張といった集合的感覚を喚起する。
 
-> Godspeed You! Black Emperor made post-rock function as an archive of social memory.
+> Godspeed You! Black Emperorは、ポストロックを社会的記憶のアーカイブとして機能させた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iSLgaQ25fVY?si=DvDFlcpP6hvJHL1l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## The breadth of post-rock shown by two lineages
+## 二つの系譜が示すポストロックの幅
 
 <div class="mermaid">
 flowchart LR
-A[post lock] --> B[Genealogy of melody and lyricism]
-A --> C[Genealogy of structures and concepts]
+A[ポストロック] --> B[旋律・叙情の系譜]
+A --> C[構造・概念の系譜]
 B --> D[Explosions in the Sky]
 C --> E[Godspeed You! Black Emperor]
 </div>
 
-Explosions in the Sky and Godspeed You! Black Emperor are often talked about in the same post-rock frame, but their approaches are very different. One emphasizes the sharing of melody and emotion, while the other emphasizes structure and time.
+Explosions in the SkyとGodspeed You! Black Emperorは、しばしば同じポストロックという枠で語られるが、そのアプローチは大きく異なる。一方は旋律と感情の共有を重視し、もう一方は構造と時間の重みを前面に押し出す。
 
-It is this difference that shows the richness of post-rock expression. The simultaneous presence of multiple directions, rather than a single aesthetic, has given this music long-term staying power.
+この差異こそが、ポストロックという表現の豊かさを示している。単一の美学ではなく、複数の方向性が同時に存在することで、この音楽は長期的な持続力を獲得した。
 
-> Postrock is not a single road, but exists as a continuous branching terrain.
-
----
-
-## Evolution of recording technology and acoustic aesthetics
-
-Changes in recording technology are closely related to the establishment and development of post-rock instrumental music. Recording techniques that maintain a wide dynamic range, spatial miking that actively incorporates reverberation, and mixing that takes into account the layer structure have become essential elements of this music.
-
-What is especially important is an attitude of not being afraid of differences in volume. The coexistence of parts that are close to silence and parts with overwhelming sound pressure creates an experience that contrasts with pop music, which is based on compression.
-
-> The technical choices were not simply a matter of sound quality, but were elements that determined the expression itself.
+> ポストロックは一つの道ではなく、分岐し続ける地形として存在している。
 
 ---
 
-## Chronology: Development of post-rock instrumental music
+## 録音技術と音響美学の進化
+
+ポストロック・インストゥルメンタルの成立と発展には、録音技術の変化が密接に関わっている。ダイナミックレンジを広く保つ録音手法、残響を積極的に取り込む空間的マイキング、レイヤー構造を意識したミキシングは、この音楽に不可欠な要素となった。
+
+特に重要なのは、音量差を恐れない姿勢である。静寂に近いパートと、圧倒的な音圧を持つパートの共存は、圧縮を前提としたポップミュージックとは対照的な体験を生む。
+
+> 技術的選択は、単なる音質の問題ではなく、表現そのものを規定する要素だった。
+
+---
+
+## 年表：ポストロック・インストゥルメンタルの展開
 
 <div class="mermaid">
 timeline
@@ -150,19 +149,19 @@ timeline
     2000s : 映像作品との結びつきが一般化
 </div>
 
-This trend is not a sharp break, but can be understood as a continuum in which multiple cultural elements overlap.
+この流れは急激な断絶ではなく、複数の文化的要素が重なり合いながら進行してきた連続体として理解できる。
 
-> The history of post-rock is like a wave that continues to quietly expand.
+> ポストロックの歴史は、静かに拡張し続ける波のようなものである。
 
 ---
 
-## Significance and sustainability in modern times
+## 現代における意義と持続性
 
-Currently, post-rock instrumental and cinematic rock have become established as expressive methods rather than specific genre names. Its structure continues to be referenced in different contexts such as videos, games, and installations.
+現在、ポストロック・インストゥルメンタルやシネマティック・ロックは、特定のジャンル名というよりも、表現手法として定着している。映像、ゲーム、インスタレーションなど、異なる文脈の中でその構造が参照され続けている。
 
-Two directions set forth by Explosions in the Sky and Godspeed You! Black Emperor still serve as creative reference points. Music, which has no words, continues to connect with the listener's own experiences, transcending eras and cultures.
+Explosions in the SkyとGodspeed You! Black Emperorが示した二つの方向性は、今なお創作の基準点として機能している。言葉を持たない音楽は、時代や文化を越えて、聴き手自身の経験と結びつき続ける。
 
-> Post-rock instrumental music will continue to create new stories through silence and time.
+> ポストロック・インストゥルメンタルは、沈黙と時間を通じて、これからも新しい物語を生み出し続ける。
 
 ---
 

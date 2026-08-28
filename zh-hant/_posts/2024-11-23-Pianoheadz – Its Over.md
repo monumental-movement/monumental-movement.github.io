@@ -10,25 +10,25 @@ tags:
 - House
 - Hard House
 - 90s
-title: Pianoheadz – 結束了（失真）
+title: Pianoheadz – It's Over (Distortion)
 ---
 
 
-Pianoheadz 是由美國室內製作人 Jose Nuñez 和 Erick Morillo 組成的樂團。
+PianoheadzはUSハウスのプロデューサーJose NuñezとErick Morilloによるユニット。
 
-《It's Over》是一首 house/hard house 歌曲，由英國唱片公司 INCredibled 於 1998 年發行。
+「 It's Over 」は、UKのレーベルINCredibledから1998年にリリースされたハウス・ハードハウストラック。
 
-A 面的第二首歌曲是 Knuckleheadz 的混音版，他以“House Rocca / Turn That Fucking Music Up”和“Raise Your Hands”而聞名。
+A面2曲目は、「House Rocca / Turn That Fucking Music Up」や「Raise Your Hands」で有名なKnuckleheadzによるremix。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. It's Over (Distortion) (It's Over Mix)
 A2. It's Over (Distortion) (Knuckleheadz Remix)
 B. It's Over (Distortion) (Raw Demo Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m95305362501?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95305362501?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l7rf3NTLSqQ?si=9rJKV1pD_resffgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

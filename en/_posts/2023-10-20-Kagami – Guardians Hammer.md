@@ -11,7 +11,7 @@ title: Kagami – Guardians Hammer
 ---
 
 
-"Kagami – Guardians Hammer" was released in 2008 on the techno/disco/house label Carizma.
+「Kagami – Guardians Hammer」は、テクノ/ディスコ/ハウスレーベルCarizmaより2008年にリリースされた。
 
 #### Tracklist
 ```md
@@ -20,5 +20,5 @@ A. Guardians Hammer
 B. Last Resorts Spartan
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m29138547443?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29138547443?afid=6142608987){: .button1}
 

@@ -9,15 +9,15 @@ permalink: /zh-hant/various-kitsune-x/
 tags:
 - House
 - Electro
-title: 各種 – Kitsuné X
+title: Various – Kitsuné X
 ---
 
 
-《Kitsuné X》是法國公司 Kitsune 於 2005 年發行的期待已久的第三張專輯。
+「Kitsuné X」は、フランスのKitsuneによる2005年にリリースされた待望の3作目です。
 
-這是一張基於電子、迪斯可和龐克風格的自由形式合輯。
+エレクトロ、ディスコ・パンクをベースに、フリーフォームで展開されるコンピレーションアルバムです。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Popular Computer–Darling
 
@@ -46,7 +46,7 @@ title: 各種 – Kitsuné X
 12b. Dieter Schmidt–Morse Code From The Cold War
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqEt09BxCz4?si=Mm9ZLs9St3xbp0NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

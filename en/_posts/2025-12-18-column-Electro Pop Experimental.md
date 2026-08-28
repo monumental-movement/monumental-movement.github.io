@@ -10,19 +10,19 @@ tags:
 - Electro
 - Pop
 - Experimental
-title: '[Column] Electro Pop Experimental'
+title: 【コラム】 Electro Pop Experimental
 ---
 
 
 
-## History of expansion of experimentation and integration of visual and production processes in electronic pop music
+## 電子ポップ音楽における実験性の拡張と視覚・制作工程の統合史
 
-Text: mmr｜Theme: Rather than dismantling pop music, it is an attempt to continue expanding its internal structure.
+文：mmr｜テーマ：ポップ音楽の解体ではなく、その内部構造を拡張し続ける試みについて
 
 
-Electro Pop Experimental is a general term for a musical trend that is based on the structure of pop music and actively integrates electroacoustic technology, visualization of the production process, visual expression, and self-calculating music production ideas. This field is not a single genre, but has been established as an intersection of multiple technological histories, production environments, visual cultures, and independent distribution networks.
+Electro Pop Experimental（エレクトロポップ実験系）とは、ポップミュージックの構造を基盤としながら、電子音響技術、制作工程の可視化、ビジュアル表現、自己演算的な音楽制作思想を積極的に統合してきた音楽的潮流の総称である。この領域は単一のジャンルではなく、複数の技術史、制作環境、視覚文化、インディペンデント流通網の交差点として成立してきた。
 
-While traditional electropop has focused on ""friendliness," ""repeatable melodies," and ""danceability,'' experimental electropop is characterized by the fact that while maintaining these, it incorporates timbre generation, structural destruction, personality expression, and a change in the creator into the music itself.
+従来のエレクトロポップが「親しみやすさ」「反復可能なメロディ」「ダンス可能性」を重視してきたのに対し、実験系エレクトロポップは、それらを維持しつつも、音色生成、構造破壊、人格表象、制作主体の変質を音楽そのものに内包する点に特徴がある。
 
 ---
 
@@ -31,7 +31,7 @@ While traditional electropop has focused on ""friendliness," ""repeatable melodi
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,221 +40,221 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Premise of electronic music before electropop
+## 第1章　エレクトロポップ以前の電子音楽的前提
 
-In order to understand the establishment of electronic pop experiments, it is necessary to look at the history of the combination of electronic music and popular music in the latter half of the 20th century.
+電子ポップ実験系の成立を理解するためには、20世紀後半における電子音楽とポピュラー音楽の接合史を俯瞰する必要がある。
 
-### Combining synthesizer and pop structures
+### シンセサイザーとポップ構造の接合
 
-Since the 1970s, with the miniaturization and commercial distribution of analog synthesizers, electronic sound has moved from the realm of studio experimentation to the popular music production environment. At this stage, electronic sounds primarily served to reinforce existing pop structures.
+1970年代以降、アナログシンセサイザーの小型化と商業流通により、電子音はスタジオ実験の領域からポピュラー音楽の制作環境へと移行した。この段階では、電子音は主に既存のポップ構造を補強する役割を担っていた。
 
-In the 1980s, with the spread of digital synthesizers, drum machines, and the MIDI standard, the production process itself began to influence the structure of songs. At this point, music became more and more a "designed process" rather than a "played result."
-
----
-
-## Chapter 2 Structural characteristics of electropop
-
-Even before electropop became experimental, it contained the following structural characteristics.
-
-* Rhythm design based on mechanical repetition
-* The idea that the tone itself is the identity of the song
-* Vocal processing, anonymization, and disembodiment
-* Inseparability of production environment and finished sound source
-
-These will later serve as a basis for enhanced experimentation.
+1980年代に入ると、デジタルシンセサイザー、ドラムマシン、MIDI規格の普及により、制作工程そのものが楽曲構造に影響を与えるようになる。この時点で、音楽は「演奏された結果」ではなく「設計されたプロセス」としての側面を強めていった。
 
 ---
 
-## Chapter 3 Definition and expansion of "experimentality"
+## 第2章　エレクトロポップの構造的特性
 
-""Experiment'' in the electropop experimental genre does not only refer to anarchy or avant-garde. Rather, it is achieved through a combination of the following elements:
+エレクトロポップは、実験系に移行する以前から、以下の構造的特徴を内包していた。
 
-* Deviation while maintaining pop structure
-* Exposure of the production process
-* Sound image design that does not hide artificiality
-* Simultaneous visual expression and music production
+* 機械的反復を前提としたリズム設計
+* 音色そのものを楽曲アイデンティティとする発想
+* ボーカルの加工、匿名化、非身体化
+* 制作環境と完成音源の不可分性
 
-This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only activity.''
-
----
-
-## Chapter 4 Digital production environment and transformation of individual production
-
-Since the late 1990s, the spread of DAWs (Digital Audio Workstations) has fundamentally changed the subject of electropop production.
-
-* Production outside the studio becomes the norm
-* Integration of composition, arrangement, recording, and mixing
-* Whole process management by personal production
-
-Under this environment, musical works come to take on the character of records of the production process itself.
+これらは後に実験性を強化する際の基盤として機能する。
 
 ---
 
-## Chapter 5 Production process and visual representation in Grimes
+## 第3章　「実験性」の定義と拡張
 
-Grimes is a representative of experimental electropop, an artist who has presented the production process and visual expression as inseparable.
+エレクトロポップ実験系における「実験」とは、無秩序や前衛性のみを指すものではない。むしろ以下の要素が組み合わさることで成立する。
 
-### Musical features
+* ポップ構造を維持したままの逸脱
+* 制作工程の露出
+* 人工性を隠蔽しない音像設計
+* 視覚表現と音楽制作の同時進行
 
-* Tone design centered on digital synthesizers
-* Coexistence of pop melody and unstable structure
-* Multi-layered vocal processing and unrealistic sound image
-
-### Characteristics of production process
-
-Grimes' production is characterized by intentionally leaving traces of the limitations of the recording environment and personal production in his works. Noise, volume imbalance, and excessive effects processing are not signs of a lack of perfection, but serve as proof of the existence of the creator.
-
-### Visual integration
-
-The visuals presented along with the music do not serve to explain the worldview of the song, but to visualize the production idea itself.
+この実験性は、リスナー体験を複数層に分解し、音楽鑑賞を「聴覚のみの行為」から拡張する。
 
 ---
 
-## Chapter 6 Carpenter Brut and the different genealogy of experimental electropop
+## 第4章　デジタル制作環境と個人制作主体の変容
 
-Carpenter Brut represents a different direction in electropop experimentation.
+1990年代後半以降、DAW（Digital Audio Workstation）の普及は、エレクトロポップの制作主体を根本的に変化させた。
 
-### Acoustic features
+* スタジオ外制作の常態化
+* 作曲、編曲、録音、ミックスの一体化
+* 個人制作による全工程管理
 
-* Synthwave tone design
-* Extremely emphasized rhythm and distortion
-* Coexistence of pop style and excessive production
-
-### The location of experimentation
-
-The experimental nature of Carpenter Brut manifests itself less in the music itself than in the rearrangement of genre symbols and the exaggeration of visual presentation. Although the production process is precise, the results are intentionally overdone.
+この環境下では、音楽作品は制作過程そのものの記録としての性格を帯びるようになる。
 
 ---
 
-## Chapter 7 Visual Culture and Electropop Experiments
+## 第5章　Grimesにおける制作工程と視覚表象
 
-In electropop experimental music, the following elements work together, rather than just music alone.
+Grimesは、実験系エレクトロポップの代表的存在として、制作工程と視覚表現を不可分のものとして提示してきたアーティストである。
 
-* Album artwork
-* Music video
-* Live video
-* Fragmentary release of the production process
+### 音楽的特徴
 
-These are designed to be part of the musical experience, rather than supplementary information about the song.
+* デジタルシンセサイザーを中心とした音色設計
+* ポップメロディと不安定な構造の共存
+* ボーカルの多層処理と非現実的音像
+
+### 制作工程の特性
+
+Grimesの制作は、録音環境の制約や個人制作の痕跡を意図的に作品へ残す点に特徴がある。ノイズ、音量バランスの不均衡、過剰なエフェクト処理は、完成度の不足ではなく、制作主体の存在証明として機能する。
+
+### ビジュアルとの統合
+
+音楽と同時に提示されるビジュアルは、楽曲の世界観を説明するのではなく、制作思想そのものを可視化する役割を果たす。
 
 ---
 
-## Chapter 8 Decomposition and reconstruction of the production process
+## 第6章　Carpenter Brutと実験的エレクトロポップの異系譜
 
-The production process for experimental electropop can be broken down into the following stages.
+Carpenter Brutは、エレクトロポップ実験系において異なる方向性を示す存在である。
 
-1. Tone generation
-2. Rhythm design
-3. Melody construction
-4. Vocal processing
-5. Spatial processing
-6. Visual design
+### 音響的特徴
 
-These are not linear and feed back to each other.
+* シンセウェーブ的音色設計
+* 極端に強調されたリズムと歪み
+* ポップ性と過剰演出の共存
+
+### 実験性の所在
+
+Carpenter Brutにおける実験性は、音楽そのものよりも、ジャンル記号の再配置と視覚演出の誇張に現れる。制作工程は精密でありながら、その結果は意図的に過剰化される。
+
+---
+
+## 第7章　視覚文化とエレクトロポップ実験系
+
+エレクトロポップ実験系では、音楽単体ではなく、以下の要素が複合的に作用する。
+
+* アルバムアートワーク
+* ミュージックビデオ
+* ライブ映像
+* 制作過程の断片的公開
+
+これらは楽曲の補足説明ではなく、音楽体験の一部として設計される。
+
+---
+
+## 第8章　制作工程の分解と再構築
+
+実験系エレクトロポップの制作工程は、以下の段階に分解できる。
+
+1. 音色生成
+2. リズム設計
+3. メロディ構築
+4. ボーカル処理
+5. 空間処理
+6. ビジュアル設計
+
+これらは直線的ではなく、相互にフィードバックを行う。
 
 <div class="mermaid">
 flowchart TD
-    A["Tone generation"] --> B["Rhythm design"]
-    B --> C["Melody construction"]
-    C --> D["Vocal processing"]
-    D --> E["Spatial processing"]
-    E --> F["Visual design"]
+    A["音色生成"] --> B["リズム設計"]
+    B --> C["メロディ構築"]
+    C --> D["ボーカル処理"]
+    D --> E["空間処理"]
+    E --> F["ビジュアル設計"]
     F --> A
 </div>
 
 
 ---
 
-## Chapter 9 Vocal processing and personality splitting
+## 第9章　ボーカル処理と人格の分裂
 
-In experimental electropop, vocals are treated as "materials" rather than "narrators."
+実験系エレクトロポップでは、ボーカルは「語り手」ではなく「素材」として扱われる。
 
-* Pitch processing
-* Formant manipulation
-* Multi-recording
-* Deliberately reduced intelligibility
+* ピッチ加工
+* フォルマント操作
+* 多重録音
+* 意図的な明瞭度低下
 
-As a result, the personality loses its unity and is placed within the song as multiple viewpoints.
-
----
-
-## Chapter 10 Dissolving Genre Boundaries
-
-Experimental electropop frequently intersects with the following genres:
-
-* Industrial
-* Synthwave
-* Noise
-* Experimental music
-* Art pop
-
-However, rather than simply merging these elements, it is distinctive in that it transforms from within while maintaining the pop structure.
+これにより、人格は単一性を失い、複数の視点として楽曲内に配置される。
 
 ---
 
-## Chapter 11 Changes in listener experience
+## 第10章　ジャンル境界の溶解
 
-By including the production process and visual information, listeners simultaneously experience the following:
+実験系エレクトロポップは、以下のジャンルと頻繁に交差する。
 
-* Listening to music
-*Imagination of the production process
-* Observation of creator personality
-* Visual narrative interpretation
+* インダストリアル
+* シンセウェーブ
+* ノイズ
+* 実験音楽
+* アートポップ
 
-This makes the piece a continuous process of interpretation, rather than a finished work.
-
----
-
-## Chapter 12 Chronology: Formation of Electro Pop Experimental
-
-### 1970s
-
-* Popularization of electronic music equipment
-* Introduction of electronic sounds to pop structure
-
-### 1980s
-
-* Establishment of synth pop
-* Emphasis on visual expression
-
-### 1990s
-
-* Popularization of digital production environment
-* Expansion of personal production
-
-### 2000s
-
-* Expansion of independent distribution
-* Emergence of experimentation
-
-### 2010s
-
-* Visualization of the production process by Grimes et al.
-* Deepening the integration of visual and music
-
-### 2020s
-
-*Further blurring of production environment and work boundaries
+しかし、これらを単純に融合するのではなく、ポップ構造を維持したまま内部から変質させる点に特徴がある。
 
 ---
 
-## Chapter 13 Current status of experimental electro pop
+## 第11章　リスナー体験の変化
 
-Current experimental electropop exists as a collection of production ideas and expression methods rather than a music genre.
+制作工程と視覚情報を含むことで、リスナーは以下の体験を同時に行う。
 
-* Emphasis on process rather than completion
-* Don't hide artificiality
-* Simultaneous visual and acoustic design
+* 音楽鑑賞
+* 制作過程の想像
+* 制作者人格の観測
+* 視覚的物語の解釈
 
-These will continue to be updated as the technological environment changes.
+これにより、楽曲は完結した作品ではなく、継続的に解釈されるプロセスとなる。
 
 ---
 
-## Conclusion
+## 第12章　年表：Electro Pop Experimentalの形成
 
-Electro Pop Experimental is an attempt to continue expanding pop music's internal structure rather than deconstructing it. Artists such as Grimes and Carpenter Brut have redefined the listening experience by presenting music production as a process rather than a result.
+### 1970年代
 
-This trend will continue to evolve as production techniques, visual culture, and personal expression change.
+* 電子音楽機材の普及
+* ポップ構造への電子音導入
+
+### 1980年代
+
+* シンセポップの確立
+* ビジュアル表現の重視
+
+### 1990年代
+
+* デジタル制作環境の一般化
+* 個人制作の拡大
+
+### 2000年代
+
+* インディペンデント流通の拡張
+* 実験性の顕在化
+
+### 2010年代
+
+* Grimesなどによる制作工程の可視化
+* 視覚と音楽の統合深化
+
+### 2020年代
+
+* 制作環境と作品境界のさらなる曖昧化
+
+---
+
+## 第13章　実験系エレクトロポップの現在地
+
+現在の実験系エレクトロポップは、音楽ジャンルというよりも、制作思想と表現方法の集合体として存在している。
+
+* 完成より過程を重視
+* 人工性を隠さない
+* 視覚と音響の同時設計
+
+これらは今後も技術環境の変化とともに更新され続ける。
+
+---
+
+## 結論
+
+Electro Pop Experimentalは、ポップ音楽の解体ではなく、その内部構造を拡張し続ける試みである。GrimesやCarpenter Brutに代表されるアーティストたちは、音楽制作を「結果」ではなく「プロセス」として提示することで、聴取体験そのものを再定義してきた。
+
+この潮流は今後も、制作技術、視覚文化、個人表現の変化とともに進化を続けるだろう。
 
 ---
 

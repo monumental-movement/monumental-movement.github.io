@@ -11,26 +11,26 @@ tags:
 - 90s
 - 80s
 - 70s
-title: 拾取環境作品
+title: アンビエント作品をピックアップ
 ---
 
 
-“一組出色的環境作品，探索了寂靜與聲音之間的界限，並提供了深刻的身臨其境的體驗。”
+「静寂と音の境界を探り、深遠な没入体験をもたらす注目すべきアンビエント作品群」
 
-<小時>
+<hr>
 
 ### Dreamlogicc – Podval EP
 <a href="https://jp.mercari.com/item/m64740020390?afid=6142608987"><img src="../assets/images/Dreamlogicc%20%E2%80%93%20Podval%20EP.webp"></a>
 
-類型： 環境科技音樂
+ジャンル：Ambient Techno
 
-發佈時間：2012 年（美國品牌 Kimochi）
+リリース：2012年（USレーベル Kimochi）
 
-形式：限量200張專輯（黑膠唱片）
+フォーマット：限定200枚アルバム（Vinyl）
 
-特色：深溝與空間音景結合的作品
+特徴：ディープなグルーヴと空間的なサウンドスケープを融合した作品 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Blanx
 A2. Elect Burns
@@ -42,30 +42,30 @@ B2. Equalizer
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
 
 
 
 
-### 時空連續體 – 發射 Ecaps
-<a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecapsweb.
+### Spacetime Continuum – Emit Ecaps
+<a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.webp"></a>
 
-類型： 環境音樂 / IDM / 電子音樂
+ジャンル：Ambient / IDM / Techno
 
-發行時間：1996 年（Reflective Records）
+リリース：1996年（Reflective Records）
 
-格式：2-LP 套裝
+フォーマット：2枚組LP
 
-特色：Jonah Sharp 的 90 年代地下環境傑作
+特徴：Jonah Sharpの90年代アンダーグラウンド・アンビエント傑作 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Iform
 A2. Kario
@@ -83,26 +83,26 @@ D3. String Of Pearls
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### Sanjiva – 流動喜悅的秘密房間
-<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%E2%80%93%20Secret%20Rooms%Flowaver%2009%(
+### Sanjiva – Secret Rooms Over Flowing Delight
+<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
-類型： 環境電子技術
+ジャンル：Ambient Electronic Techno
 
-發行時間：1996 年（九十六聲音）
+リリース：1996年（Ninetysix Sounds）
 
-格式：2軌12英寸
+フォーマット：2-track 12″
 
-特點： Charles Reix 的 Deep trance 曲目
+特徴：Charles Reixによる深みあるトランストラック 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Secret Rooms
 
@@ -110,26 +110,26 @@ B. Over Flowing Delight
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOHFGNvXAyY?si=khW6vSqPWYVZ3Chz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 配音拖拉機 – 可怕的 H H 循環 / 104 配音
-<a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20Trac
+### Dub Tractor – Scary H H Loop / 104 Dub
+<a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
 
-類型： 環境 / 實驗 / Trip Hop
+ジャンル：Ambient / Experimental / Trip Hop
 
-發佈時間：1997 年
+リリース：1997年
 
-格式：12英寸
+フォーマット：12″
 
-特色： 來自丹麥的實驗氛圍 Trip-hop 音樂。包括 Luke Vibert (Wagon Christ) 混音版
+特徴：デンマーク産の実験的アンビエント・トリップホップ作品。Luke Vibert（Wagon Christ）リミックスも収録 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Scary H H Loop
 A2. 104 Dub
@@ -145,26 +145,26 @@ B2. A C Tractor
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7gpvswGjE8c?si=DQvncQHrwKBLLlmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 冷靜－來自太陽和地球的人們
-<a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20FromSun%20The">ThewebromSun20Thearth%
+### Calm – People From The Sun And The Earth
+<a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
-類型： 環境音樂 / 巴利阿里群島音樂
+ジャンル：Ambient / Balearic House
 
-發佈時間：2023 年 10 月
+リリース：2023年10月
 
-格式：乙烯基
+フォーマット：Vinyl
 
-特色： 日本休閒氛圍音樂的傑作。 4 軌 EP，包括 Dixon 混音版
+特徴：日本のチルアウト・アンビエント代表作。Dixonリミックスも含む4トラック EP 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. People From The Sun And The Earth (MKL vs. Soy Sos Dark Sun Mix)
 A2. People From The Sun And The Earth (Original Mix)
@@ -174,26 +174,26 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8eYPbR5uboE?si=kQnmAhxcLgIqHse3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 大衛多諾霍 – Nature Morte！
-<a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webonohoe%20%E2%80%93%20Nature%20Morte.webp">
+### David Donohoe – Nature Morte!
+<a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
-類型：環境/最小
+ジャンル：Ambient / Minimal
 
-發佈時間：2004 年（最小化標籤）
+リリース：2004年（Minimiseレーベル）
 
-格式：乙烯基
+フォーマット：Vinyl
 
-特色：來自愛爾蘭，簡約氛圍音樂的優秀作品。
+特徴：アイルランド出身、ミニマルアンビエントの秀作 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Nature Morte!
 A2. Still Life Is Alive
@@ -202,26 +202,26 @@ B. Our Ghosts
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 布蘭克先生 – 在地面上
-<a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.
+### Mr. Blank – On The Ground
+<a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
 
-類型： 氛圍音樂 / 配音 / 未來爵士 / 嘻哈音樂
+ジャンル：Ambient / Dub / Future Jazz / Hip‑House
 
-發佈時間：1994 年
+リリース：1994年
 
-格式： 2 張黑膠唱片
+フォーマット：2枚組Vinyl
 
-特點：史蒂夫米勒以另一個名字創作的作品。融合多種流派的深沉放鬆聲音
+特徴：Steve Millerの別名義作品。多様なジャンルが混ざり合った深いチルアウトサウンド 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Out Of Order
 A2. No Sweat
@@ -244,25 +244,25 @@ D4. The End Game
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DGk3oGOQIY?si=Yul4GcrCszAt2vEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 森林深處 – 森林深處
-<a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp">
-類型： 環境音樂/慢節奏/新時代
+### Deep Forest – Deep Forest
+<a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
+ジャンル：Ambient/Downtempo/New Age
 
-發佈時間：1992
+リリース：1992年
 
-格式：CD
+フォーマット：CD
 
-特色：民謠與電子音樂的融合，葛萊美提名，收錄簽名曲《Sweet Lullaby》
+特徴：民族音楽と電子音の融合、グラミー候補、代表曲「Sweet Lullaby」収録 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -277,15 +277,15 @@ D4. The End Game
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 清單
+### List
 
 <div class="table-border">
 <table>

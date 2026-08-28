@@ -9,18 +9,18 @@ tags:
 - Acid
 - Acid House
 - 90s
-title: Pick up acid house works
+title: アシッドハウス作品をピックアップ
 ---
 
 
-"A remarkable group of acid house works that shook the era with the rolling sounds of the TB-303 and ecstatic beats."
+「TB-303のうねるサウンドと恍惚感あふれるビートで時代を揺さぶった、注目すべきアシッドハウス作品群」
 
 <hr>
 
 ### Stylus Trouble – That Acid Track
 <a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
 
-A club classic with a classic acid line that makes the TR-303 roar. Pete Heller's hidden masterpiece.
+TR-303が唸る、王道アシッドラインを持つクラブクラシック。Pete Hellerの隠れた名義作。
 
 
 #### Tracklist
@@ -42,7 +42,7 @@ B.  That Acid Track (Dub Version)
 ### Various – Urban Acid
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
-Authentic from 1988. An important compilation that captures the ignition point of acid house. Strong Chicago influence.
+1988年の本物。アシッド・ハウスの発火点を捉えた重要コンピ。シカゴ影響強し。
 
 #### Tracklist
 ```md
@@ -58,7 +58,7 @@ B4. Charm–Walk On The Wild Side
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -69,7 +69,7 @@ B4. Charm–Walk On The Wild Side
 ### Petter – Untitled Acid EP
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
-Reconstructing acid with modern sound creation. Floating between minimal and progressive rock.
+モダンな音作りでアシッドを再構築。ミニマル～プログレの間に漂う。
 
 #### Tracklist
 ```md
@@ -80,7 +80,7 @@ B2. Everyday Balloon
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -91,7 +91,7 @@ B2. Everyday Balloon
 ### Bomb The Bass – Say A Little Prayer
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
-Acid x dub x pop. An art piece from 1988 that transcends genres.
+アシッド×ダブ×ポップ。ジャンルを越境した'88年産アートピース。
 
 #### Tracklist
 ```md
@@ -101,7 +101,7 @@ B. 10 Seconds To Terminate
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -111,7 +111,7 @@ B. 10 Seconds To Terminate
 ### DMX Krew – Nu Romantix
 <a href="https://jp.mercari.com/item/m46188068104?afid=6142608987"><img src="../assets/images/DMX%20Krew%20%E2%80%93%20Nu%20Romantix.webp"></a>
 
-A romantic fusion of acid and 80's electro. TB-303 makes a soft sound.
+アシッドと80'sエレクトロのロマンチックな融合。TB-303が柔らかく鳴る。
 
 #### Tracklist
 ```md
@@ -149,7 +149,7 @@ A romantic fusion of acid and 80's electro. TB-303 makes a soft sound.
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -159,7 +159,7 @@ A romantic fusion of acid and 80's electro. TB-303 makes a soft sound.
 ### Brennan Green – 900lb Man
 <a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20Man.webp"></a>
 
-An acid track with a disco feel. A warm low groove.
+ディスコ感覚で繰り出されるアシッド・トラック。温かみあるロウ・グルーヴ。
 
 #### Tracklist
 ```md
@@ -170,14 +170,14 @@ B2. 900lb Man (Original Mix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
 
 <hr>
 
 #### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-A unique piece that injects acid elements into drum"n"bass. A sense of speed and a sense of trip are both present.
+ドラムンベースにアシッドの要素を注入した異色作。疾走感とトリップ感が同居。
 
 #### Tracklist
 ```md
@@ -187,7 +187,7 @@ Y. Kauna
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -197,7 +197,7 @@ Y. Kauna
 #### Pergon – #2
 <a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.webp"></a>
 
-German acid techno from the early 90's. The hard and mechanical sound is attractive.
+90年代初頭のジャーマン・アシッド・テクノ。硬派で機械的な鳴りが魅力。
 
 #### Tracklist
 ```md
@@ -207,7 +207,7 @@ B. Nonrepro
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m67998542214?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67998542214?afid=6142608987){: .button1}
 
 
 #### Youtube

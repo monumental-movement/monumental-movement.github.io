@@ -9,15 +9,15 @@ permalink: /zh-hant/various-we-are-reasonable-people/
 tags:
 - Techno
 - Downtempo
-title: 各種各樣——我們是講道理的人
+title: Various – We Are Reasonable People
 ---
 
 
-《音樂週刊》對這張專輯給予了積極的評價，稱“它肯定會吸引現有的粉絲，並且對於那些對地下音樂感興趣的人來說是一個很好的介紹。”
+『Music Week』はこのアルバムに肯定的なレビューとして「既存のファンには間違いなくアピールし、アンダーグラウンドのサウンドに興味を持つ人にとっても良い紹介となるだろう」と掲載しました。
 
-《Brainwashed》也在1998年合輯中排名第三。此外，2013 年，Fact 雜誌將「Freeman Hardy & Willis Acid」在其前 50 首 Aphex Twin 曲目列表中排名第 10。
+また、『Brainwashed』は1998年のコンピレーションアルバムの中で3番目にランク付け。さらに、2013年に『Fact』マガジンは「Freeman Hardy & Willis Acid」を、Aphex Twinのトラックのベスト50において10位に位置づけるほどの評価をしました。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. AFX / Squarepusher–Freeman, Hardy & Willis Acid
 
@@ -44,7 +44,7 @@ title: 各種各樣——我們是講道理的人
 12. Mark Bell–A Salute To Those People Who Say Fuck You
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cy-vZouMuww?si=1RNPr9kDQtBPTwUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

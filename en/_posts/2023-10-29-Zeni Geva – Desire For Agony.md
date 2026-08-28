@@ -13,22 +13,22 @@ title: Zeni Geva – Desire For Agony
 ---
 
 
-Zenigeva's album "Pain Oriented" was recorded and mixed at The Basement in Chicago, USA in September 1993.
+ゼニゲバのアルバム「苦痛志向」は、アメリカ シカゴのThe Basementで1993年9月に録音&ミックス。
 
-Zeni Geva is a Japanese band formed in Tokyo in 1987.
+Zeni Gevaは、1987年に東京で結成された日本のバンドです。
 
-Their musical style incorporates elements of prog rock, hardcore, heavy metal, noise rock, etc.
+プログレロック、ハードコア、ヘヴィメタル、ノイズロックなどの要素を取り入れた音楽性が特徴。
 
-The core members are KK.Null, known for his solo work, and Mitsuru Tabata, known for his work with Acid Mothers Temple, but the other members have changed over the years.
+中心メンバーは、ソロ活動でも知られるKK.Nullと、Acid Mothers Templeでの活動で知られる田畑満ですが、他のメンバーは長年に渡って入れ替わりがありました。
 
-After a long hiatus, they reunited in 2007 and resumed their activities in 2009.
+長い休止期間の後、2007年に再結成し、2009年から再び活動を再開。
 
-Tatsuya Yoshida, who was one of the original members, joined as a drummer. Mitsuru Tabata left the group in 2012, so they are currently active as a duo.
+初期メンバーの一人でもあった吉田達也がドラムで加入しました。田畑満は2012年に脱退したため、現在はデュオとして活動しています。
 
-current members
+現在のメンバー
 
-KK.Null – vocals, guitar
-Tatsuya Yoshida – drums, vocals
+KK.Null - ボーカル、ギター
+吉田達也 - ドラム、ボーカル
 
 #### Tracklist
 ```md
@@ -51,7 +51,7 @@ B3. Autopsy Love = オートプシィラブ
 B4. The Body = ザ ボディー
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

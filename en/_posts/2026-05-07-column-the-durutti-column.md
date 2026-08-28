@@ -9,27 +9,26 @@ layout: post
 tags:
 - Post Punk
 - Ambient
-title: '[Column] The Durutti Column: Another horizon of post-punk drawn by silence
-  and reverberation'
+title: 【コラム】 The Durutti Column：静寂と残響が描いたポストパンクのもう一つの地平
 ---
 
 
 
-## Post-punk begins with silence
+## 静寂から始まるポストパンク
 
-Text: mmr｜Theme: The trajectory of Durutti Column, who transcended the boundaries of post-punk and redefined the contours of music with silence and blank spaces.
+文：mmr｜テーマ：ポストパンクの枠を超え、静寂と余白で音楽の輪郭を再定義したデュルッティ・コラムの軌跡
 
-### Music that speaks through "pauses" rather than loud sounds
+### 爆音ではなく“間”で語る音楽
 
-In the late 1970s, music was being created in Manchester, England that inherited post-punk impulses but moved in a different direction. Among them, The Durutti Column was unique.
+1970年代後半、イギリス・マンチェスターでは、パンク以降の衝動を引き継ぎながらも異なる方向へと進む音楽が生まれていた。その中で異質な存在だったのが The Durutti Column である。
 
-While many post-punk bands focused on aggressive rhythms and politics, this project went in almost the opposite direction. The guitar is not distorted, but rather transparent and delicate. The rhythm is not assertive and blends into the space. What was there was the idea of ​​""creating music by reducing the amount of sound.''
+多くのポストパンク・バンドが攻撃的なリズムや政治性を前面に押し出したのに対し、このプロジェクトはほとんど逆の方向へ向かった。ギターは歪まず、むしろ透明で繊細。リズムは主張せず、空間の中に溶け込む。そこにあったのは“音を減らすことで音楽を成立させる”という発想だった。
 
-Although the guitar playing of the central figure, Vini Reilly, was influenced by classical music, jazz, flamenco, etc., he sublimated it into a unique grammar without directly quoting them. His sound is more like a trembling air than a melody.
+中心人物である Vini Reilly のギタープレイは、クラシック、ジャズ、フラメンコなどの影響を受けながらも、それらを直接的に引用することなく独自の文法へと昇華していた。彼の音は“旋律”というよりも“空気の揺れ”に近い。
 
-At this point, The Durutti Column was already outside the framework of post-punk.
+この時点で既に、The Durutti Columnはポストパンクという枠組みからはみ出していた。
 
-> Their music could be said to deal with ""space itself'' rather than genre.
+> 彼らの音楽は、ジャンルではなく「空間そのもの」を扱っていたと言える。
 
 ---
 
@@ -38,7 +37,7 @@ At this point, The Durutti Column was already outside the framework of post-punk
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -47,231 +46,231 @@ color: #fff;
 </style>
 
 
-## Factory Records and the City of Manchester
+## Factory Recordsと都市マンチェスター
 
-### The intersection of music and art
+### 音楽とアートの交差点
 
-The Durutti Column"s origins are inseparable from Manchester"s legendary label Factory Records. This label produced artists such as Joy Division and New Order, and released works of art that included not only music but also design and concept into the world.
+The Durutti Columnの誕生は、マンチェスターの伝説的レーベル Factory Records と不可分である。このレーベルは Joy Division や New Order を輩出し、音楽だけでなくデザインやコンセプトを含めた総合芸術としての作品を世に送り出した。
 
-The Durutti Column's debut film, The Return of the Durutti Column, is a symbol of this. The jacket was made of a sandpaper-like material, a provocative design that would damage other records. This was both an artistic irony and a critique of the music industry itself.
+The Durutti Columnのデビュー作『The Return of the Durutti Column』は、その象徴とも言える作品だ。紙やすりのような素材で作られたジャケットは、他のレコードを傷つけるという挑発的な仕様だった。これはアート的なアイロニーであると同時に、音楽産業そのものへの批評でもあった。
 
-However, the music on the inside, in contrast to its exterior, was extremely calm and rather introspective. This gap is at the heart of Factory Records' aesthetic.
+しかし中身の音楽は、その外観とは対照的に極めて穏やかで、むしろ内省的だった。このギャップこそが、Factory Records的な美学の核心である。
 
-> This label was characterized by its ability to simultaneously reflect both urban devastation and the inner world of individuals.
+> 都市の荒廃と個人の内面、その両方を同時に映し出すのがこのレーベルの特徴だった。
 
 ---
 
-## Redefining the guitar
+## ギターの再定義
 
-### Don't just make a sound, make it resonate
+### 音を鳴らすのではなく“響かせる”
 
-Vini Reilly's guitar almost nullifies the concept of "riff" or "solo" in the context of rock. His performances are composed of silences between sounds.
+Vini Reillyのギターは、ロックの文脈における“リフ”や“ソロ”の概念をほぼ無効化している。彼の演奏は、音と音の間にある沈黙を含めて構成されている。
 
-Although he makes extensive use of delay and reverb, they are not just effects, but function as a means of manipulating time itself. Once a sound is played, it repeats, overlaps, and forms a new layer in space.
+ディレイやリバーブを多用しながらも、それは単なるエフェクトではなく、時間そのものを操作する手段として機能している。音は一度鳴らされると、空間の中で反復し、重なり合い、新たなレイヤーを形成する。
 
-This method had a major influence on later ambient and post-rock. In particular, there are many parts that resonate with Brian Eno's ideas, and they share the perspective of viewing music as ""part of the environment.''
+この手法は後のアンビエントやポストロックに大きな影響を与えた。特に Brian Eno の思想と共鳴する部分が多く、音楽を“環境の一部”として捉える視点が共有されている。
 
-Below is a simplified diagram of its structure.
+以下は、その構造を簡略化した図である。
 
 <div class="mermaid">
 graph TD
-A[single note guitar] --> B[Repeat with delay]
-B --> C[Overlapping reverberations]
-C --> D[spatial texture]
-D --> E[Disappearance and reconstruction of melody]
+A[単音のギター] --> B[ディレイによる反復]
+B --> C[残響の重なり]
+C --> D[空間的テクスチャ]
+D --> E[旋律の消失と再構築]
 </div>
 
-> His guitar didn't play melodies, it sculpted time.
+> 彼のギターは旋律を演奏するのではなく、時間を彫刻していた。
 
 ---
 
-## Evolution by album
+## アルバムごとの進化
 
-### From introspection to the outside world
+### 内省から外界へ
 
-The Durutti Column's works are consistently tranquil, yet show clear changes from period to period.
+The Durutti Columnの作品は一貫して静謐でありながら、時期ごとに明確な変化を見せる。
 
-His early works strongly reflected solitude and introspection, but from the mid-1980s onwards he gradually incorporated elements of rhythm and electronic sounds.
+初期作品では、孤独や内省が強く反映されているが、1980年代中盤以降はリズムや電子音の要素が徐々に取り入れられていく。
 
-A typical flow is shown below.
+代表的な流れを以下に示す。
 
 <div class="mermaid">
 graph TD
-A[1980 early] --> B[ambient guitar]
-B --> C[1983 mid-term]
-C --> D[Rhythm introduction]
+A[1980 初期] --> B[アンビエント的ギター]
+B --> C[1983 中期]
+C --> D[リズム導入]
 D --> E[1986 onwards]
-E --> F[Fusion with electronic sounds]
+E --> F[電子音と融合]
 </div>
 
-For example, in ""LC," a clearer structure emerges, and in ""Another Setting," classical elements are emphasized.
+例えば『LC』では、より明確な構造が現れ、『Another Setting』ではクラシカルな要素が強調される。
 
-Even so, there is always a "margin" in the center, and even if the number of sounds is increased, the density will never become excessive.
+それでも中心にあるのは常に“余白”であり、音数を増やしても密度は決して過剰にならない。
 
-> What remained consistent, even as it changed, was the philosophy of ""subtraction'' in music.
-
----
-
-## Outside of post-punk
-
-### Music that rejects genres
-
-The Durutti Column is often classified as post-punk, but in reality it was more of a resistance to the genre itself.
-
-Their music is extremely abstract, even compared to their contemporaries The Smiths and Echo & the Bunnymen.
-
-The rhythmic emphasis is weak, and there are almost no songs. Therefore, it does not rely on common pop structures. Although this was commercially disadvantageous, it resulted in an extremely long career.
-
-Additionally, their music has had an impact across genres. Traces of this can be seen in post-rock, ambient, and even modern lo-fi and electronica.
-
-> Rather than belonging to a genre, they continued to create a space outside of the genre.
+> 変化してもなお一貫しているのは、音楽における「引き算」の哲学だった。
 
 ---
 
-## Deconstruct "Sketch for Summer"
+## ポストパンクの外側へ
 
-### Songs that create a world in just a few minutes
+### ジャンルを拒否する音楽
 
-Sketch for Summer is one of The Durutti Column's most iconic songs, from their 1980 album The Return of the Durutti Column.
+The Durutti Columnはしばしばポストパンクに分類されるが、その実態はむしろジャンルそのものへの抵抗だった。
 
-It's only about two and a half minutes long. However, their aesthetic is almost completely condensed in its short length. There are no flashy developments or a clear chorus. Even so, after listening to it, I am left with the feeling of seeing a single landscape.
+同時代の The Smiths や Echo & the Bunnymen と比較しても、その音楽は極端に抽象的である。
 
-> This song is based not on "structure" but on "feeling".
+リズムの主張が弱く、歌もほとんど存在しない。そのため、一般的なポップ構造に依存しない。これは商業的には不利でありながら、結果として極めて長寿なキャリアを可能にした。
+
+また、彼らの音楽はジャンル横断的に影響を与えている。ポストロック、アンビエント、さらには現代のローファイやエレクトロニカにもその痕跡は見られる。
+
+> 彼らはジャンルに属するのではなく、ジャンルの外側に空間を作り続けた。
 
 ---
 
-### Sound as "grain" of guitar
+## 「Sketch for Summer」を解体する
 
-The centerpiece is Vini Reilly's guitar, but the important thing here is not the "phrase" but the "grains of sound."
+### たった数分で世界を作る楽曲
 
-Normal rock guitar moves time forward through riffs and chord progressions, but with "Sketch for Summer," time expands in the opposite direction. Single notes are repeated with a delay, overlapping each other with slight shifts, creating a flow that feels like rhythm but is not.
+Sketch for Summer は、1980年のアルバム『The Return of the Durutti Column』に収録された、The Durutti Columnを象徴する楽曲のひとつである。
+
+長さはわずか約2分半。しかしその短さの中に、彼らの美学がほぼ完全な形で凝縮されている。派手な展開も、明確なサビもない。それでも聴き終えたあとには、ひとつの風景を見たような感覚が残る。
+
+> この曲は「構造」ではなく「感覚」で成立している。
+
+---
+
+### ギターの“粒”としての音
+
+中心にあるのは Vini Reilly のギターだが、ここで重要なのは“フレーズ”ではなく“音の粒”である。
+
+通常のロックギターはリフやコード進行によって時間を前に進めるが、「Sketch for Summer」では逆に時間が広がる。単音がディレイによって繰り返され、わずかにずれながら重なっていくことで、リズムのようでいてリズムではない流れが生まれる。
 
 Visualizing this structure looks like this:
 
 <div class="mermaid">
 graph TD
-A[single note] --> B[delay]
-B --> C[staggered repetition]
-C --> D[overlap]
-D --> E[pseudo rhythm]
+A[単音] --> B[ディレイ]
+B --> C[ズレた反復]
+C --> D[重なり]
+D --> E[擬似的リズム]
 </div>
 
-This "pseudo-rhythm" is the driving force of this song.
+この“擬似リズム”こそが、この曲の推進力である。
 
-> Sound does not move forward, but instead diffuses into space.
+> 音は前に進むのではなく、空間の中に拡散していく。
 
 ---
 
-### Melody ambiguity and memorability
+### メロディの曖昧さと記憶性
 
-This song seems to have a clear melody line, but it"s actually vague. It leaves an impression on you while you"re listening to it, but it's difficult to accurately reproduce it afterwards.
+この曲には明確なメロディラインがあるようでいて、実際には曖昧である。聴いている最中には印象に残るが、後から正確に再現するのは難しい。
 
 This is no coincidence. Reilly's performance is designed to leave the melody as a "feel" rather than a fixed "sign".
 
-Therefore, as you listen to this song repeatedly, you will gradually begin to see its outline. What was initially felt as a landscape gradually became understood as a structure.
+そのため、この曲は繰り返し聴くことで少しずつ輪郭が見えてくる。最初は風景として感じられたものが、徐々に構造として理解されていく。
 
-> What remains in the memory is not the melody, but the texture of the atmosphere itself.
+> 記憶に残るのはメロディではなく、空気の質感そのものだ。
 
 ---
 
 ### Meaning of the title Summer
 
-The title "Sketch for Summer" is very suggestive. The important word here is "Sketch" rather than "Summer."
+「Sketch for Summer」というタイトルは非常に示唆的である。ここで重要なのは“Summer”よりも“Sketch”という言葉だ。
 
-This piece is presented as a sketch/study rather than a completed work. However, in reality, its unfinished nature is the core of the work.
+この曲は完成された作品というよりも、スケッチ＝習作として提示されている。しかし実際には、その未完成性こそが作品の核心である。
 
-The sound leaves a lot of blank space and doesn't tell everything. Therefore, listeners have the space to project their own memories and emotions onto it.
+音は余白を多く残し、すべてを語らない。そのためリスナーは、自分自身の記憶や感情をそこに投影する余地を持つ。
 
-Similarly, the season of summer has a specific image but has different meanings depending on the person.
+夏という季節もまた同様に、具体的なイメージを持ちながらも人によって異なる意味を持つ。
 
-> This song does not "depict summer" but "reminds me of summer."
-
----
-
-### Distance from post-punk
-
-This song's uniqueness is even more striking when compared to post-punk works of the same era.
-
-For example, while Joy Division expressed inner tension and despair with strong beats, ""Sketch for Summer'' has almost no tension.
-
-Still, he's not completely emotionless. Rather, subtle fluctuations of emotion ooze out from the gaps in the sound.
-
-This "emotional sparsity" was strongly connected to the context of later ambient and chillout music.
-
-> New expressions are created by diluting emotions rather than emphasizing them.
+> この曲は「夏を描く」のではなく、「夏を思い出させる」。
 
 ---
 
-### Positioning as spatial music
+### ポストパンクとの距離
 
-This song is often described as ambient, but it's not exactly ambient music either.
+同時代のポストパンク作品と比較すると、この曲の特異性はさらに際立つ。
 
-While Brian Eno defines ambient as ""music you can listen to or ignore," ""Sketch for Summer" is a little more in the foreground.
+例えば Joy Division が内面の緊張や絶望を強いビートで表現したのに対し、「Sketch for Summer」は緊張をほとんど持たない。
 
-If you listen carefully, you can see the delicate structure, but it also works well when played as a background. This "in-between position" gives rise to the uniqueness of this song.
+それでも完全に無感情ではない。むしろ微細な感情の揺れが、音の隙間から滲み出ている。
 
-> Ambiguity, which can be both background and foreground, is the essence of this song.
+この“感情の希薄さ”は、のちのアンビエントやチルアウトの文脈に強く接続していく。
 
----
-
-### Impact on subsequent
-
-The influence of ""Sketch for Summer'' is far-reaching, although it is rarely cited directly.
-
-It is familiar to the texture-oriented approach of guitars in post-rock, the ambiguous sonic images in lo-fi, and even the use of white space in contemporary ambient pop.
-
-In particular, the idea of ​​""creating a rich space with less sound'' has become an important reference point for many artists.
-
-> This song has been passed down as a ""methodology'' rather than a style.
+> 感情を強調するのではなく、希釈することで新しい表現が生まれている。
 
 ---
 
-### Why does it still resonate today?
+### 空間音楽としての位置づけ
 
-It's easy to see why this song, created over 40 years ago, still sounds fresh.
+この楽曲はしばしばアンビエント的と評されるが、完全な環境音楽でもない。
 
-This is because it does not depend on the era. Elements such as drum machine tones or synth trends are almost absent, and the focus is on the structure of the sound itself.
+Brian Eno の定義するアンビエントが「聴いてもよいし、無視してもよい音楽」であるのに対し、「Sketch for Summer」はもう少し前景にある。
 
-As a result, the song always resonates in the present tense, without being anchored to a specific era.
+注意深く聴けば繊細な構造が見えるが、背景として流しても成立する。この“中間的な位置”が、この曲の独自性を生んでいる。
 
-> "Sketch for Summer" is not music from the past, but music separated from time.
+> 背景にも前景にもなりうる曖昧さが、この曲の本質だ。
 
 ---
 
-## Chronology
+### 後続への影響
 
-### Main steps of The Durutti Column
+「Sketch for Summer」の影響は、直接的に引用されることは少ないが、広範囲に及んでいる。
+
+ポストロックにおけるギターのテクスチャ重視のアプローチ、ローファイにおける曖昧な音像、さらには現代のアンビエント・ポップにおける余白の使い方にも通じている。
+
+特に“少ない音で豊かな空間を作る”という発想は、多くのアーティストにとって重要な参照点となっている。
+
+> この曲はスタイルではなく「方法論」として受け継がれている。
+
+---
+
+### なぜ今も響くのか
+
+40年以上前に作られたこの曲が、いまも新鮮に聴こえる理由は明確だ。
+
+それは時代性に依存していないからである。ドラムマシンの音色やシンセのトレンドといった要素がほとんど存在せず、音の構造そのものに焦点が当てられている。
+
+結果として、この曲は特定の年代に固定されることなく、常に現在形で響く。
+
+> 「Sketch for Summer」は過去の音楽ではなく、時間から切り離された音楽である。
+
+---
+
+## 年表
+
+### The Durutti Columnの主な歩み
 
 <div class="mermaid">
 graph TD
-A[1978 Formed] --> B[1980 debut album]
-B --> C[1981 LC announcement]
+A[1978 結成] --> B[1980 デビューアルバム]
+B --> C[1981 LC発表]
 C --> D[1983 Another Setting]
-D --> E[1986 Introduction of electronic sounds]
-E --> F[1990s Prolific period]
-F --> G[Continuous activities since 2000s]
+D --> E[1986 電子音導入]
+E --> F[1990年代 多作期]
+F --> G[2000年代以降 継続的活動]
 </div>
 
 ---
 
-## Meaning of quiet revolution
+## 静かな革命の意味
 
-### What is the "strength" of music?
+### 音楽の“強さ”とは何か
 
-At first glance, The Durutti Column's music seems weaker and less assertive. However, the reality is extremely radical.
+The Durutti Columnの音楽は、一見すると弱々しく、主張が少ない。しかし、その実態は極めてラディカルである。
 
-Music that is created by reducing the sound. A structure that emphasizes reverberation rather than melody. Sustainability independent of genre. All of this was a quiet rebuttal to rock's traditional values.
+音を減らすことで成立する音楽。旋律よりも残響を重視する構造。ジャンルに依存しない持続性。これらはすべて、ロックの伝統的価値観に対する静かな反論だった。
 
-What"s most important is the fact that the music still hasn"t gotten old. In fact, in the modern listening environment, that "margin" resonates more richly.
+そして何より重要なのは、その音楽が今もなお古びていないという事実である。むしろ現代のリスニング環境において、その“余白”はより豊かに響く。
 
-> The longest lasting music exists in silence.
+> 静けさの中にこそ、最も長く残る音楽が存在する。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jOZFIiYgofo?si=K_H7HIBE2VKsrCBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

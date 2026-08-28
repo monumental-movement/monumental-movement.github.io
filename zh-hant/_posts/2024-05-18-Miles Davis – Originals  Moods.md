@@ -10,17 +10,17 @@ tags:
 - Jazz
 - Jazz Funk
 - Rare
-title: 邁爾斯戴維斯 – 原創/心情
+title: Miles Davis – Originals / Moods
 ---
 
 
-Miles Davis 於 1988 年發行的四盒合輯之一。磁帶是鍍鉻磁帶。
+1988年にリリースされたマイルスデイヴィスの4本カセットコンピレーションの中の一つ。テープはクロームテープ。
 
-F-1 和 F-3 由霍華德·A·羅伯茨製作，他因與霍華德·羅伯茨合唱團和哈里·貝拉方特的合作而聞名。
+F-1とF-3は、 Howard Roberts ChoraleやHarry Belafonte （ハリー ベラフォンテ）との仕事で知られるHoward A. Roberts（ハワードロバーツ）がプロデュース。
 
-F-4 的“It’s About That Time”由 Dave Holland 演奏貝斯，Chick Corea 和 Joe Zawinul 演奏鋼琴。
+F-4の「It's About That Time」は、bassがDave Holland（デイヴ・ホランド）、pianoがChick Corea（チック・コリア）と Joe Zawinul（ジョー・ザヴィヌル）。
 
-#### 曲目表
+#### Tracklist
 ```md
 E-1. So What
 E-2. Water Babies
@@ -33,7 +33,7 @@ F-3. Fall
 F-4. It's About That Time
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m15443418452?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15443418452?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqNTltOGh5c?si=zK-dqJEoz3xqXOgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,32 +10,32 @@ tags:
 - 80s
 - 90s
 - 00s
-title: '[Column] Electro: The rhythm of the future city carved by machines'
+title: 【コラム】 エレクトロ（Electro）：マシンが刻む未来都市のリズム
 ---
 
 
 ## Cyber ​​funk that sounds decadent and sophisticated at the same time
 
 
-Text: mmr｜Theme: Electronic heartbeat born with breakdance
+文：mmr｜テーマ：ブレイクダンスと共に生まれた電子の鼓動
 
 <hr>
 
-### Introduction
+### イントロダクション
 
-Electro is a trend of electronic music that emerged in the early 1980s. Based on funk and hip-hop rhythms, they have achieved a unique evolution by using the beats of rhythm machines, especially the Roland TR-808, as their core. The futuristic sound of deep bass kicks, dry snares, and synthesizers left a strong influence on later techno, house, electroclash, and even modern bass music.
+エレクトロ（Electro）は、1980年代初頭に生まれた電子音楽の潮流である。ファンクやヒップホップのリズムを基盤に、リズムマシン、特にRoland TR-808のビートを核とすることで独自の進化を遂げた。重低音のキック、乾いたスネア、そしてシンセサイザーによる近未来的なサウンドは、のちのテクノ、ハウス、エレクトロクラッシュ、さらには現代のベースミュージックにも強烈な影響を残している。
 
 <hr>
 
 ### エレクトロの起源：ヒップホップとの共振
 
-The birth of electro is closely tied to the breakdance culture of the Bronx, New York.
+エレクトロの誕生は、ニューヨーク・ブロンクスのブレイクダンス・カルチャーと密接に結びついている。
 
 #### **Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)**
 
-A historical masterpiece that samples Kraftwerk's "Trans-Europe Express" and "Numbers" and fuses them with the rhythm of the TR-808. As a result, electro emerged as "futuristic hip-hop."
+クラフトワークの「Trans-Europe Express」と「Numbers」をサンプリングし、TR-808のリズムに融合した歴史的名曲。これにより、エレクトロは「未来的なヒップホップ」として登場した。
 
-'Planet Rock' is widely acclaimed as the signature work of Afrika Bambaataa and The Soulsonic Force, whose innovative sound and pioneering approach hold a significant place in the history of hip-hop and dance music.
+「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
 
 #### Tracklist
 ```md
@@ -57,7 +57,7 @@ B. Planet Rock (Instrumental)
 
 シンセを駆使しつつ、セクシャルで退廃的な世界観を提示。西海岸シーンを象徴する一曲。
 
-Electro was not just a music genre, but a culture inseparable from breakdance and street fashion. The silver costumes and cyber-style visuals embodied the sensibility of the era of ""the fusion of machines and humans.''
+エレクトロは単なる音楽ジャンルではなく、ブレイクダンスやストリート・ファッションと不可分のカルチャーであった。シルバーの衣装やサイバー風ビジュアルは「マシンと人間の融合」という時代感覚を体現していた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -65,7 +65,7 @@ Electro was not just a music genre, but a culture inseparable from breakdance an
 
 ### Intersection of techno and electro
 
-1980年代後半から1990年代にかけて、デトロイト・テクノとエレクトロは再び結びつく。
+In the late 1980s and 1990s, Detroit techno and electro were reunited.
 
 **Drexciya (a legendary duo from Detroit)** is a concept piece themed around an undersea civilization, giving a mythical quality to hard electro beats.
 
@@ -73,7 +73,7 @@ Electro was not just a music genre, but a culture inseparable from breakdance an
 
 ---
 
-**Juan Atkins (Model 500)** is a pioneer of techno, as well as a prolific producer of electro-inspired tracks, freely straddling the boundaries between the two.
+**Juan Atkins（Model 500）**は、テクノのパイオニアであると同時に、エレクトロ的なトラックを数多く制作し、両者の境界を自由に行き来した。
 
 この流れは、のちのIDMやグリッチ・エレクトロニカにもつながっていく。
 
@@ -81,19 +81,19 @@ Electro was not just a music genre, but a culture inseparable from breakdance an
 
 <hr>
 
-### 2000s revival and electroclash
+### 2000年代のリバイバルとエレクトロクラッシュ
 
-In the early 2000s, electro came back into the limelight.
+2000年代初頭、エレクトロは再び脚光を浴びる。
 
-**Electroclash**: Driven by Miss Kittin & The Hacker, Fischerspooner, Adult. and others. Their decadent, art-oriented sound was closely tied to the fashion industry.
+**Electroclash（エレクトロクラッシュ）**：Miss Kittin & The Hacker、Fischerspooner、Adult. などが牽引。退廃的でアート志向のサウンドは、ファッション業界とも密接に結びついた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkDFsFpwcFE?si=g93DAy6Rf931tE-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Electro House Connection**: French/German artists like Justice and Digitalism have taken the club scene by storm by fusing electro-synth riffs with house 4/4.
+**Electro Houseとの接続**：JusticeやDigitalismといったフランス／ドイツのアーティストが、エレクトロ的なシンセ・リフをハウスの4つ打ちに融合し、クラブシーンを席巻。
 
-The debut album by Justice, a French electronic dance band active since 2003, was released in 2007 on the French label Ed Banger Records and was a worldwide success, including a Grammy Award nomination for Best Electronic/Dance Album.
+2003年から活動するフランスのエレクトロニックダンスバンドJusticeのデビューアルバムは、フランスのレーベルEd Banger Records(エドバンガーレコード)から2007年にリリースされ、グラミー賞のベスト・エレクトロニック/ダンス・アルバム部門にノミネートされるなど世界的な成功を収めた。
 
 #### Tracklist
 ```md
@@ -111,26 +111,26 @@ The debut album by Justice, a French electronic dance band active since 2003, wa
 12. One Minute To Midnight
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Modern electro
+### 現代のエレクトロの姿
 
 今日のエレクトロは、純粋な形で継承される一方、様々なジャンルに分散している。
 
-As a subgenre of techno/IDM, hard tracks using analog synths and 808s continue to be released.
+テクノ／IDMのサブジャンルとして、アナログシンセと808を用いた硬質なトラックがリリースされ続けている。
 
 ベースミュージックやTrapにも、エレクトロ由来のリズム・アプローチが顕著に見られる。
 
-In the Japanese scene, Ken Ishii and Goth-Trad have incorporated electro elements and developed their own unique interpretations.
+日本のシーンでは、Ken IshiiやGoth-Tradがエレクトロ的要素を取り入れ、独自の解釈を展開してきた。
 
 <hr>
 
-### 注目すべき代表作
+### Notable masterpieces
 
 [Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)](https://monumental-movement.jp/Afrika-Bambaataa-&-The-Soulsonic-Force-Planet-Rock)
 
@@ -138,7 +138,7 @@ In the Japanese scene, Ken Ishii and Goth-Trad have incorporated electro element
 
 [Cybotron – Clear (1983)](https://amzn.to/3WRX6QB)
 
-[Drexciya – Neptune"s Lair (1999)](https://amzn.to/42Q2l70)
+[Drexciya – Neptune’s Lair (1999)](https://amzn.to/42Q2l70)
 
 [Miss Kittin & The Hacker – First Album (2001)](https://amzn.to/4or6aI1)
 
@@ -146,17 +146,17 @@ In the Japanese scene, Ken Ishii and Goth-Trad have incorporated electro element
 
 <hr>
 
-### An electric groove that shakes the boundary between machines and humans
+### マシンと人間の境界を揺さぶる電撃グルーヴ
 
-Electro is not just a temporary genre, but a cornerstone of the development of electronic music. Its DNA continues to live on in hip-hop, techno, house, electroclash, and even modern electronic dance music.
-The sound of machines and humans resonating is the core of electro, and the reason why it continues to predict the future of music.
+エレクトロは、単なる一過性のジャンルではなく、電子音楽の発展における基盤となる存在である。ヒップホップ、テクノ、ハウス、エレクトロクラッシュ、さらには現代のエレクトロニック・ダンスミュージックに至るまで、そのDNAは脈々と息づいている。
+マシンと人間が共振するサウンド――それこそがエレクトロの核心であり、未来の音楽を予言し続ける所以なのだ。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CerbZmbFQgs?si=XBpdPn7-Fiu7KKIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

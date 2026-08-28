@@ -11,14 +11,14 @@ tags:
 - House
 - Techno
 - 00s
-title: 克里斯·麥考馬克——還有更好的方法
+title: Chris McCormack – There Are Better Ways
 ---
 
 
-Chris McCormack 是一位英國電子音樂製作人。 《There Are Better Ways》是一套兩張唱片。
-記錄。
+Chris McCormackはUKのテクノプロデューサー。「There Are Better Ways」は2枚組ハウス
+レコード。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. There Are Better Ways
 A2. The Button
@@ -33,7 +33,7 @@ D1. Da Filth
 D2. Pot Noodlez
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m13283588453?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13283588453?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CtsQ-cZaR5E?si=n2wClRmU_AzlW29b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Pops
 - House
 - Soul
-title: 王子與新發電－下車
+title: Prince And The New Power Generation – Gett Off
 ---
 
 
-這首歌是專輯《鑽石與珍珠》中的單曲，被譽為Prince舞池表演和現場表演中的熱門歌曲，也是他音樂生涯中的熱門歌曲之一。
+この曲は、アルバム「Diamonds and Pearls 」からのシングルカットで、ダンスフロアでのプリンスのパフォーマンスやライブショーでの人気曲として知られており、彼の音楽キャリアにおけるヒット曲の一つです。
 
-《Gett Off》以時髦的節奏和絕妙的貝斯線為特色，輔以 Prince 充滿活力的聲樂表演，使其成為 Prince 音樂生涯的標誌性部分，也是一首對他的歌迷和音樂愛好者俱有特殊意義的歌曲。
+「Gett Off」は、ファンキーなビートとグルーヴィなベースラインが特徴であり、プリンスのエネルギッシュなボーカルパフォーマンスが引き立っており、プリンスの音楽キャリアの一部を象徴する曲で、彼のファンや音楽愛好家にとって特別な意味を持つ楽曲となっています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  Gett Off (Extended Remix)
 
@@ -33,7 +33,7 @@ B2  Gangster Glam
 B3  Clockin' The Jizz (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bi-xdXFsqk?si=Yovi5xirfaodEap3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

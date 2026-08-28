@@ -9,21 +9,21 @@ permalink: /zh-hant/pink-floyd-vs-underworld-brown-acid/
 tags:
 - Techno
 - Mashup
-title: 平克佛洛伊德 vs. 黑社會 – 棕酸
+title: Pink Floyd vs. Underworld – Brown Acid
 ---
 
 
-《Brown Acid》是 Underworld 的《Born Slippy》和 Pink Floyd 的《Is There Anybody Out There？ Is There Anybody Out There?》的黑暗混搭。由來自紐約的科威特/美國唱片製作人和混音師 Hani 和來自紐約的 DJ/製作人 Jonathan Peters 創作。
+「Brown Acid」は、NY出身のクウェート/アメリカ人のレコードプロデューサー兼リミキサーHani（ハニ）と、NY出身のDJ/プロデューサーJonathan Peters（ジョナサン・ピータース）による、Underworld の「Born Slippy ボーン・スリッピー」とPink Floydの「Is There Anybody Out There? イズ・ゼア・エニバディ・アウト・ゼア」のビッグ・ダーク・マッシュアップ。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Brown Acid
 
 B. Brown Acid
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m72837150072?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72837150072?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfiTem4tjYs?si=BYMqsili-yP73SaF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

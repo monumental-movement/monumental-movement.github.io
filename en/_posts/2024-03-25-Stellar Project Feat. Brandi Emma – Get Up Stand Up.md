@@ -17,9 +17,9 @@ Stellar Project is a house/dance project by Italian producer Stefano Sorrentino.
 
 Side A is a remix by Italian house/techno DJ duo Phunk Investigation.
 
-The first track on the B-side is a remix by Danish producer Lars Frederiksen and Søren Weile's trance project F&W.
+B面１曲目はデンマークのプロデューサーLars FrederiksenとSøren WeileのトランスプロジェクトF&Wによるremix。
 
-The second song on side B is a remix by UK DJ Paul Jackson.
+B面２曲目はUKのDJ Paul Jacksonによるremix。
 
 #### Tracklist
 ```md

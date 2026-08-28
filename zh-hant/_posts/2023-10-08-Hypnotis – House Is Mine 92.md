@@ -9,24 +9,24 @@ permalink: /zh-hant/hypnotis-house-is-mine-92/
 tags:
 - Techno
 - Hardcore
-title: 催眠師 – 房子是我的 92
+title: Hypnotist – House Is Mine 92
 ---
 
 
-Hypnotist 是一個活躍於早期 techno 場景的英國 techno 樂團。他們的音樂以其充滿活力、適合舞池的曲目而聞名。
+ヒプノティストは、イギリスのテクノユニットであり、初期のテクノシーンにおいて活躍しました。彼らの音楽は、エネルギッシュでダンスフロア向けのトラックとして知られています。
 
-《House Is Mine '92》是Hypnotist的代表作，被認為是電子音樂的經典。這首歌以強勁的節奏、沉重的低音線和取樣的人聲為特色，使其在俱樂部和銳舞舞池中大受歡迎。
+「House Is Mine '92」は、ヒプノティストの代表作であり、テクノミュージックのクラシックな一曲とされています。曲は、パワフルなビート、重厚なベースライン、サンプリングされたボーカルなどが特徴であり、クラブやレイブのダンスフロアで人気を博しました。
 
-這首歌集中體現了 90 年代初 techno 場景的聲音和能量。憑藉其可跳舞的節奏和獨特的取樣，聽眾將被帶入催眠師音樂中的獨特世界。
+この曲は、90年代初頭のテクノシーンにおけるサウンドとエネルギーを象徴しています。そのダンサブルなリズムとユニークなサンプリングによって、聴く人々はヒプノティストの音楽の中で独自の世界に引き込まれるでしょう。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. The House Is Mine '92 (Original)
 
 B. The House Is Mine '92 (Westbam Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=YnUVTmh71j27O9We" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

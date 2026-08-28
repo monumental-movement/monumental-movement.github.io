@@ -11,22 +11,21 @@ tags:
 - Akai
 - HipHop
 - Sampling
-title: '[Column] The birth of Akai MPC and beat culture: How sampling has changed
-  the sense of time in music'
+title: 【コラム】 Akai MPCの誕生とビートカルチャー：サンプリングが変えた音楽の時間感覚
 ---
 
 
 
 ## Introduction: Beats have become something to "beat"
 
-Text: mmr｜Theme: "Time" and "physicality" redefined by sampling and pad operation
+文：mmr｜テーマ：サンプリングとパッド操作が再定義した「時間」と「身体性」
 
 
-In the late 1980s, the rhythms that had previously been confined to the studio began to descend into the palm of your fingertips. It"s not a keyboard or a musical score, it"s the physical act of creating music by hitting it. At the center of this was Akai's MPC series.
+1980年代後半、それまでスタジオの中に閉じ込められていたリズムは、指先へと降りてきた。鍵盤でもなく、譜面でもなく、叩くことで音楽を構築するという身体的な行為。その中心にあったのがAkaiのMPCシリーズである。
 
-This machine is not just a drum machine, nor is it just a sampler. It was a device that chopped up sounds, rearranged them, and reconstructed time itself.
+このマシンは単なるドラムマシンでも、単なるサンプラーでもない。音を切り刻み、再配置し、時間そのものを再構築する装置だった。
 
-> The advent of MPC brought music production back to "performance."
+> MPCの登場は、音楽制作を「演奏」へと引き戻した。
 
 ---
 
@@ -35,7 +34,7 @@ This machine is not just a drum machine, nor is it just a sampler. It was a devi
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -44,72 +43,72 @@ color: #fff;
 </style>
 
 
-## The eve of the birth of MPC: the separation between samplers and drum machines
+## MPC誕生前夜：サンプラーとドラムマシンの分断
 
-In the 1980s, samplers already existed. But they were expensive and complicated to operate. On the other hand, drum machines allow you to input rhythms, but the sound material is fixed.
+1980年代、サンプラーはすでに存在していた。だがそれらは高価で、操作も複雑だった。一方でドラムマシンはリズムを打ち込めるが、音素材は固定されていた。
 
-There is someone who has integrated these two functions and made it into a form that can be used intuitively. Roger Linn. He had previously changed the history of drum machines with the LM-1 and LinnDrum.
+この二つの機能を統合し、なおかつ直感的に扱える形へと落とし込んだ人物がいる。Roger Linnだ。彼は以前にLM-1やLinnDrumを開発し、ドラムマシンの歴史をすでに変えていた。
 
-However, what he was aiming for was a more free rhythm generating device.
+しかし彼が目指したのは、より自由なリズム生成装置だった。
 
-> The fusion of sampler and drum machine gave rise to the idea of ​​MPC.
+> サンプラーとドラムマシンの融合が、MPCという思想を生んだ。
 
 ---
 
-## MPC60: The beginning of a revolution
+## MPC60：革命の始まり
 
-In 1988, Akai MPC60 was born. This equipment had the following characteristics:
+1988年、Akai MPC60が誕生する。この機材は、以下の特徴を持っていた。
 
-* Key input using pad
-* Sampling function
-* Sequencer integration
-* Swing (groove) adjustment function
+* パッドによる打鍵入力
+* サンプリング機能
+* シーケンサー統合
+* スイング（グルーヴ）調整機能
 
-Especially important is the "swing." Rather than a perfectly even rhythm, a slight deviation creates a human-like groove. With this function, the MPC has become not just a tool for driving, but a device that creates a ""glue.''
+特に重要なのは「スイング」だ。完全に均等なリズムではなく、わずかにズラすことで人間的なグルーヴを生み出す。この機能により、MPCは単なる打ち込み機材ではなく「ノリ」を生み出す装置になった。
 
 <div class="mermaid">
 graph LR
-A[sampling] --> B[pad playing]
-B --> C[Sequencing]
-C --> D[swing adjustment]
-D --> E[groove generation]
+A[サンプリング] --> B[pad playing]
+B --> C[シーケンス化]
+C --> D[スイング調整]
+D --> E[グルーヴ生成]
 </div>
 
-> MPC60 has brought back the "human fluctuation" to the beat.
+> MPC60は、ビートに「人間の揺らぎ」を取り戻した。
 
 ---
 
 
-## Fusion with hip-hop: Expansion of sampling culture
+## ヒップホップとの融合：サンプリング文化の拡張
 
-MPC became explosively popular, especially in the hip-hop scene. This was because it perfectly matched the culture of cutting out sounds from existing records and reconstructing them in a new context.
+MPCは特にヒップホップシーンで爆発的に普及した。既存のレコードから音を切り出し、新たな文脈で再構築する文化と完全に一致したからだ。
 
 For example, chopping up a funk or soul drum break and rearranging it creates a completely new beat. This act is not just a copy, but a "reconstruction."
 
-What is important here is the management of time. MPC treats sound as "material" and by rearranging it, the time axis itself can be edited.
+ここで重要なのは時間の扱いだ。MPCは音を「素材」として扱い、それを再配置することで時間軸そのものを編集可能にした。
 
 <div class="mermaid">
 flowchart TD
-A[record sound source] --> B[sampling]
-B --> C[slice]
+A[レコード音源] --> B[サンプリング]
+B --> C[スライス]
 C --> D[Relocation]
 D --> E[new beat]
 </div>
 
-> Sampling became an act of reinventing rather than citing the past.
+> サンプリングは過去を引用するのではなく、再発明する行為となった。
 
 ---
 
 
-## MPC2000 and later: Establishment of standards
+## MPC2000以降：スタンダードの確立
 
-In 1997, the Akai MPC2000 was introduced, and MPC became even more popular. Prices have come down and more artists have access to it.
+1997年、Akai MPC2000が登場し、MPCはさらに普及する。価格が下がり、より多くのアーティストがアクセスできるようになった。
 
-During this period, MPC became more than just a piece of equipment; it became a style.
+この時期、MPCは単なる機材ではなく「スタイル」になった。
 
 * Finger Drumming
-* Real-time performance
-* Sample-based composition
+* リアルタイム演奏
+* サンプルベースの作曲
 
 All of these are cultures born from the interface called MPC.
 
@@ -118,47 +117,47 @@ All of these are cultures born from the interface called MPC.
 ---
 
 
-## Physicality of beat making
+## ビートメイキングの身体性
 
-MPC's most important innovation lies in its ""physicality.'' Rhythms are created by hitting pads rather than keys.
+MPCの最も重要な革新は「身体性」にある。鍵盤ではなく、パッドを叩くことでリズムを生み出す。
 
-This changed music production.
+これは音楽制作を次のように変えた。
 
-*Visual → Tactile
-* Notation → Body memory
-* Precision → Groove
+* 視覚 → 触覚
+* 記譜 → 身体記憶
+* 精密さ → グルーヴ
 
-In other words, MPC encouraged a shift from "music that makes you think" to "music that makes you feel."
+つまり、MPCは「考える音楽」から「感じる音楽」へのシフトを促した。
 
 <div class="mermaid">
 graph TD
-A[theoretical composition] --> B[typing]
-B --> C[Introducing MPC]
-C --> D[physical performance]
-D --> E[Emphasis on groove]
+A[理論的作曲] --> B[typing]
+B --> C[MPC登場]
+C --> D[身体的演奏]
+D --> E[グルーヴ重視]
 </div>
 
-> Beats are no longer something you design, but something you carve with your body.
+> ビートは設計するものではなく、身体で刻むものになった。
 
 ---
 
 
 ## Redefining the digital era and MPC
 
-Since the 2000s, music production has become completely digital with the spread of DAWs. But MPC did not disappear. Rather, it has evolved.
+2000年代以降、DAWの普及により音楽制作は完全にデジタル化される。しかしMPCは消えなかった。むしろ進化した。
 
-*Software version MPC
-* DAW integration
-* Return of standalone machine
+* ソフトウェア版MPC
+* DAWとの統合
+* スタンドアロン機の復活
 
-MPC Software has adapted to modern production environments while maintaining traditional operability.
+MPC Softwareは、従来の操作性を維持しつつ、現代的な制作環境へと適応している。
 
-> MPC maintains its core experience while adapting to the times.
+> MPCは時代に適応しながら、核心の体験を維持している。
 
 ---
 
 
-## Chronology: Evolution of MPC and Beat Culture
+## 年表：MPCとビートカルチャーの進化
 
 <div class="mermaid">
 timeline
@@ -174,46 +173,46 @@ timeline
 
 ---
 
-## MPC Sample: Reinterpreting sampling in modern times
+## MPC Sample：現代におけるサンプリングの再解釈
 
 Modern MPC Samples make it possible to perform sampling in an environment free from previous hardware constraints.
 
 But the essence has not changed.
 
-*Turn off the sound
+* 音を切る
 * Relocate
-* Create new time
+* 新しい時間を作る
 
-This process is the core of MPC and has been maintained throughout the ages.
+このプロセスこそがMPCの核心であり、どの時代でも維持されている。
 
-> Even if technology changes, the essence of sampling remains the same.
+> テクノロジーが変わっても、サンプリングの本質は変わらない。
 
 ---
 
-## Why is MPC still used?
+## なぜMPCは今も使われるのか
 
-While many pieces of equipment have disappeared over time, MPC has survived. The reason is clear.
+多くの機材が時代とともに消えていく中で、MPCは生き残っている。その理由は明確だ。
 
 That's because there is "experience".
 
-* Feeling of tapping
-* Misaligned rhythm
-* Improvisation
+* 叩く感触
+* ズレるリズム
+* 即興性
 
-These are not just functions, but sensual values ​​in music production.
+これらは単なる機能ではなく、音楽制作における感覚的な価値である。
 
 > MPC is chosen as an experience, not a feature.
 
 ---
 
 
-## Conclusion: What MPC has changed
+## 結論：MPCが変えたもの
 
-MPC not only changed the way music was produced, but also changed the structure of music itself.
+MPCは音楽制作の方法だけでなく、音楽そのものの構造を変えた。
 
-* The idea of ​​cutting time
-* The act of making beats with your body
-* A culture that relocates the sounds of the past to the future
+* 時間を切り刻むという発想
+* 身体でビートを作るという行為
+* 過去の音を未来へ再配置する文化
 
 All of this started with MPC.
 

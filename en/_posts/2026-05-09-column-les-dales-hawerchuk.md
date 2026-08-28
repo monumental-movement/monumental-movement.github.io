@@ -21,7 +21,7 @@ Text: mmr｜Theme: Deciphering the vitality of local rock through the more than 
 
 Les Dales Hawerchuk is a band that occupies a unique position when discussing Quebec rock since the 2000s.
 
-They weren't a band aiming for a huge market. Nor did it emerge as sophisticated urban rock. Rather, their appeal lay in the fact that they echoed the flavor of local cities.
+They weren't a band aimed at a huge market. Nor did it emerge as sophisticated urban rock. Rather, their appeal lay in the fact that they echoed the flavor of local cities.
 
 They started their activities in Roberval, Quebec. Located in the Saguenay-Lac-Saint-Jean region, this area is known for its strong local culture. Pride as a French-speaking country, harsh winters, hockey culture, bar culture, and bonding among friends. That atmosphere flowed directly into Les Dales Hawerchuk's music.
 
@@ -53,7 +53,7 @@ With the condition that he not go to jail.
 
 This episode alone conveys their sense of humor and their sense of distance from Quebec culture.
 
-Les Dales Hawerchuk was a band that prioritized live house enthusiasm over so-called indie rock intelligence.
+Les Dales Hawerchukは、いわゆるインディー・ロックの知的さよりも、ライブハウスの熱狂を優先したバンドだった。
 
 thick guitar.
 
@@ -95,7 +95,7 @@ In particular, their early works have strong elements of garage rock, rockabilly
 
 Their songs don't show off their technique.
 
-Instead, it is pushed through by the momentum of the riff and the explosive power of the chorus.
+Instead, it relies on the momentum of the riff and the explosive power of the chorus.
 
 It worked best live.
 
@@ -169,7 +169,7 @@ C --> D["Debuted in 2005"]
 D --> E["Entering the Quebec rock scene"]
 </div>
 
-### The strength of not hiding locality
+### The strength of not hiding local characteristics
 
 Many local bands lose their regional flavor as they move into urban areas.
 
@@ -282,7 +282,7 @@ This is part punk rock, part sports support culture.
 
 ### Connection with Quebec rock culture
 
-In Quebec in the late 2000s, French rock was undergoing a unique evolution.
+In Quebec in the late 2000s, French rock was evolving on its own.
 
 Although they were influenced by American indie rock, they retained a strong sense of Quebec's unique language.
 
@@ -376,7 +376,7 @@ And then there was a gap of about five years.
 
 However, it was not a complete disbandment.
 
-They continued to work intermittently and were working on new works.
+They continued their activities intermittently and were working on new works.
 
 In 2016, he returned with "Désavantage numérique".
 
@@ -514,7 +514,7 @@ This is similar to how a hockey game unfolds.
 
 ### Collective enthusiasm
 
-Their chorus has something in common with the culture of sports support.
+Their chorus has something in common with sports cheering culture.
 
 The structure is such that the entire audience shouts.
 
@@ -535,12 +535,12 @@ graph TD
 A["Hockey culture"] --> B["speed"]
 A --> C["Collective enthusiasm"]
 A --> D["Local community"]
-B --> E["Performance of Les Dales Hawerchuk"]
+B --> E["Les Dales Hawerchuk's performance"]
 C --> E
 D --> E
 </div>
 
->They didn't use hockey as their theme, but instead converted the hockey craze itself into rock music.
+> They didn't use hockey as their subject matter, but instead converted the hockey craze itself into rock music.
 
 ---
 
@@ -645,7 +645,7 @@ B->>A: "さらに加速"
 | 2016 | Désavantage numérique | Return after 5 years |
 | 2024 | Attaque à cinq | New chapter after nearly 20 years of activity |
 
-### Membership changes
+### Member changes
 
 | Members | Person in charge |
 | ---------------- | -------- |
@@ -664,7 +664,7 @@ B->>A: "さらに加速"
 | 2017 | "Désavantage numérique" is a nominee in the rock category |
 | 2025 | Re-evaluation related to "Attaque à cinq" |
 
-> What emerges throughout their discography is that they have consistently maintained the "Les Dales Hawerchuk-ness."
+> Throughout their discography, it is clear that they have consistently maintained the ""Les Dales Hawerchuk-ness.''
 
 ---
 
@@ -684,7 +684,7 @@ But they were different.
 
 We moved towards involving the entire audience.
 
-However, it was not completely converted to commercialism.
+However, it was not completely converted into commercialism.
 
 ### Transmission from local cities
 

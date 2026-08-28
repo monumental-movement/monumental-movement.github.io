@@ -13,9 +13,9 @@ title: Lloyd Cole And The Commotions – Mainstream
 ---
 
 
-Lloyd Cole And The Commotions is a British pop band formed in Glasgow, Scotland in 1982. After disbanding in 1989, Lloyd Cole began a solo career.
+Lloyd Cole And The Commotions (ロイドコールアンドザコモーションズ)は、1982年にスコットランドのグラスゴーで結成されたイギリスのポップバンド。1989年に解散した後、Lloyd Coleはソロ活動をスタートした。
 
-"Mainstream", released in 1987, was Lloyd Cole And The Commotions" third studio album and the band"s last. The producer is Ian Stanley, who has worked with a-ha, the Pretenders, and the Human League.
+1987年にリリースされた「Mainstream(メインストリーム)」は、Lloyd Cole And The Commotions3枚目のスタジオアルバムでありバンド最後のアルバム。プロデューサーは、a-ha、プリテンダーズ、ヒューマン・リーグなど手がけたIan Stanley(イアン・スタンリー)。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ B4. Hey Rusty
 B5. These Days
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m91624971064?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91624971064?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hMdyuUk94Ao?si=Aa69nU8IYzZub5P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

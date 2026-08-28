@@ -17,9 +17,9 @@ A remix of "Golden Skans" by Klaxons, a rock band formed in New Cross, UK in 200
 
 The first track on side A is a remix by SebastiAn, an electronic musician and DJ affiliated with Ed Banger Records/Ed Rec.
 
-The second track on Side A is a remix by Surkin, a French producer who runs the label Marble with Para One and Bobmo.
+A面２曲目は、フランスのプロデューサーであり、Para OneとBobmoと共にレーベル Marbleを運営するSurkinによるremix。
 
-The B-side is a remix by British DJ and producer Erol Alkan.
+B面は、イギリスのDJ＆プロデューサーErol Alkanによるremix。
 
 #### Tracklist
 ```md

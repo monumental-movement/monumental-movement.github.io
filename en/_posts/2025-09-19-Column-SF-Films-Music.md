@@ -8,16 +8,15 @@ layout: post
 tags:
 - Soundtrack
 - Movie
-title: '[Column] Relationship between science fiction movies and music: History and
-  methods of sound that plays the future'
+title: 【コラム】 SF映画と音楽の関係性：未来を奏でるサウンドの歴史と手法
 ---
 
 
-## Relationship between science fiction movies and music: History and methods of sound that plays the future
+## SF映画と音楽の関係性：未来を奏でるサウンドの歴史と手法
 
-Text: mmr｜Theme: About the inseparable relationship between science fiction movies and music
+文：mmr｜テーマ：SF映画と音楽の不可分な関係について
 
-Explains the relationship between science fiction movies and music from historical background, musical methods, and representative works. From the fusion of synthesizers and orchestras to musical expression in the AI ​​era
+SF映画と音楽の関係性を歴史的背景・音楽的手法・代表作から解説。シンセサイザーやオーケストラの融合、AI時代の音楽表現まで
 
 ---
 
@@ -27,7 +26,7 @@ Explains the relationship between science fiction movies and music from historic
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -36,56 +35,56 @@ color: #fff;
 </style>
 
 
-# Relationship between science fiction movies and music
+# SF映画と音楽の関係性
 
-Music in science fiction movies is more than just a "background" that supports the story. It has become an essential element in expressing a sense of the future, a sense of another world, and the gap between technology and humanity. In this article, we will provide detailed explanations from four perspectives: historical background, musical methods, representative works and composers, and influence on modern times.
+SF映画における音楽は、物語を支える「背景」以上の存在です。未来感、異世界感、テクノロジーや人間性の狭間を表現するうえで欠かせない要素となってきました。本記事では、**歴史的背景／音楽的手法／代表的な作品と作曲家／現代への影響**という4つの視点から詳細に解説します。
 
 ---
 
-## Historical background
+## 歴史的背景
 
-### Silent era ~ 1950s
+### サイレント時代〜1950年代
 
-* **1927 Metropolis**: A silent film directed by Fritz Lang depicting a futuristic city. Orchestral accompaniment and contemporary musical techniques were used to embody the inorganic nature of the futuristic city through sound.
-* **1950s science fiction film boom**: ""War of the Worlds" and ""Forbidden Planet" introduced electronic musical instruments (such as the theremin) in earnest, giving audiences a sense of the unknown.
+* **1927年『メトロポリス』**：フリッツ・ラング監督の未来都市を描いたサイレント映画。オーケストラ伴奏と現代音楽的手法が用いられ、未来都市の無機質さを音で体現しました。
+* **1950年代SF映画ブーム**：『宇宙戦争』や『禁断の惑星』では、電子楽器（テルミンなど）が本格的に導入され、観客に未知の感覚を与えました。
 
-### 1970s-80s
+### 1970〜80年代
 
 * **1977 Star Wars**: John Williams' symphonic score gave the space opera an epic grandeur.
-* **Blade Runner, 1982**: Vangelis's synthesizer music symbolized the urban neon lights and rain-soaked dystopia.
+* **1982年『ブレードランナー』**：ヴァンゲリスのシンセサイザー音楽は、都市のネオンと雨に濡れるディストピアを象徴しました。
 
-### 1990s-2000s
+### 1990年代〜2000年代
 
-* **1995 Ghost in the Shell**: Kenji Kawai's fusion of folk music and electronic music embodies a ""post-human'' world.
-* **2001 ""A.I." and ""Minority Report" **: John Williams once again brought classical structure to life, giving human lyricism to the city of the future.
+* **1995年『攻殻機動隊』**：川井憲次の民族音楽と電子音楽の融合は「ポスト・ヒューマン」的世界を体現。
+* **2001年『A.I.』や『マイノリティ・リポート』**：ジョン・ウィリアムズが再びクラシカルな構造を持ち込み、未来都市に人間的叙情を与えました。
 
-### Since 2010s
+### 2010年代以降
 
-* **2014 Interstellar**: Hans Zimmer combines pipe organ and synth to simultaneously depict the grandeur of the universe and the inner lives of humans.
-* **2021 "DUNE/Dune"**: Expressing a desert planet with folk music elements + electronic sound, creating an alien-like foreignness.
+* **2014年『インターステラー』**：ハンス・ジマーがパイプオルガンとシンセを融合し、宇宙の壮大さと人間の内面を同時に描写。
+* **2021年『DUNE/デューン』**：砂漠の惑星を民族音楽的要素＋電子音響で表現し、エイリアン的異質さを構築。
 
 ---
 
-## Musical method
+## 音楽的手法
 
-The music used in science fiction movies has the following characteristic approaches.
+SF映画で用いられる音楽には、以下のような特徴的アプローチがあります。
 
 1. **Synthesizer/Electronic Sound**
 
-* Symbolizes technology and a sense of the future.
+   * テクノロジーや未来感を象徴。
 * Examples: "Blade Runner" and "TRON".
 
 2. **Minimalism and Repetition**
 
-* Expresses artificial and mechanical coldness.
+   * 人工的・機械的な冷徹さを表現。
 * Example: "Koyaanisqatsi" by Philip Glass.
 
-3. **Ambient/Noise**
+3. **アンビエント／ノイズ**
 
-* The silence of space and the presence of the unknown.
+   * 宇宙の静寂や未知の存在感。
 * Example: Silent space + classical music from ""2001: A Space Odyssey.''
 
-4. **Fusion of orchestra and electronic sounds**
+4. **Fusion of orchestra and electronic sound**
 
 * Both grandeur and futuristic feel.
 * Examples: ""Star Wars" and ""Interstellar."
@@ -94,29 +93,29 @@ The music used in science fiction movies has the following characteristic approa
 
 ## Changes in film music by age
 
-| Age | Characteristics |
+| 年代 | 特徴 |
 |------|------|
-| 1920s-50s | Silent films + electronic musical instrument experiments |
-| 1970s | Symphonic x Space Opera |
-| 1980s | Synthesizers and a dystopian feel |
+| 1920-50年代 | サイレント映画＋電子楽器実験 |
+| 1970年代 | シンフォニック × スペースオペラ |
+| 1980年代 | シンセサイザーとディストピア感覚 |
 | 1990s | Fusion of anime and folk music |
-| 2000s | Hollywood blockbusters and classic return |
+| 2000年代 | ハリウッド大作とクラシック回帰 |
 | 2010s | Ambient x philosophical cosmology |
-| 2020s | Music generation and hybrid in the AI ​​era |
+| 2020年代 | AI時代の音楽生成とハイブリッド |
 
 
 ---
 
-## List of representative works and composers
+## 代表作品と作曲家一覧
 
 | Movie | Composer | Features | Musical Method | Official Link |
-| --------- | -------------- | --------------- | -------------- | --------------------------------------------------------------------- |
-| 2001: A Space Odyssey | Richard Strauss and others | Expressing the majesty of space through classical music | Comparison of existing songs and silence | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
-| Star Wars | John Williams | Epic Space Opera | Symphonic Orchestra | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack) |
+| --------- | -------------- | --------------- | -------------- | ------------------------------------------------------------------------------------- |
+| 2001年宇宙の旅 | リヒャルト・シュトラウス 他 | クラシックで宇宙の荘厳さを表現 | 既存曲×無音の対比      | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
+| スター・ウォーズ  | ジョン・ウィリアムズ     | 壮大なスペースオペラ      | シンフォニック・オーケストラ | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack)                   |
 | Blade Runner | Vangelis | Neon City and Humanity | Synthesizer Ambient | [Amazon](https://amzn.to/4ndI1Vp) |
-| Ghost in the Shell | Kenji Kawai | Post-human worldview | Ethnic music + electronic sound | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
+| 攻殻機動隊     | 川井憲次           | ポスト・ヒューマン的世界観   | 民族音楽＋電子音響      | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
 | Interstellar | Hans Zimmer | Space and human drama | Pipe organ x electronic sound | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack) |
-| DUNE | Hans Zimmer | Religiousness on another world planet | Ethnic music x experimental sound | [Amazon](https://amzn.to/46cL4XJ) |
+| DUNE      | ハンス・ジマー        | 異世界惑星の宗教性       | 民族音楽×実験的音響     | [Amazon](https://amzn.to/46cL4XJ)                                |
 
 ---
 
@@ -124,11 +123,11 @@ The music used in science fiction movies has the following characteristic approa
 
 * **Game music/VR experience**: Follows the method of film music such as "Mass Effect" and "Cyberpunk 2077".
 * **Spread into music genres**: There are many genres derived from science fiction film music, such as synthwave, dark ambient, and electronica.
-* **AI music generation**: The vision of the future depicted in science fiction movies is becoming a reality as automatic music composition by AI and immersive experiences in VR space.
+* **AI音楽生成**: SF映画で描かれた未来像が、実際にAIによる自動作曲やVR空間の没入体験として現実化しつつある。
 
 ---
 
-## FAQ (Frequently Asked Questions)
+## FAQ（よくある質問）
 
 **Q1. Why are synthesizers often used in science fiction movies? **
 
@@ -140,24 +139,24 @@ A2. Representative examples include ""2001: A Space Odyssey," ""Star Wars," ""Bl
 
 **Q3. How is AI involved in science fiction film music? **
 
-A3. Currently, AI composition tools are being used to create sci-fi movie trailers and game sound production, which is a futuristic example of practice.
+A3. 現在、AI作曲ツールはSF映画の予告編やゲームサウンド制作に利用されており、未来的な実践例となっています。
 
 ---
 
 ## summary
 
-* Science fiction movies and music are inseparable because they create a sense of the future and another world.
-* It has been expressed in a variety of ways, including electronic sounds, synthesizers, orchestras, and ambient.
+* SF映画と音楽は「未来感・異世界感」を演出するために不可分な関係にある。
+* 電子音・シンセサイザー・オーケストラ・アンビエントなど多彩な手法で表現されてきた。
 * Throughout history, it can be said that the relationship between humans and technology has been visualized through sound.
 
-> Future science fiction film music will open up a new world through collaboration between AI and human composers.
+> 未来のSF映画音楽は、AIと人間作曲家のコラボレーションによって、さらに新しい世界を切り拓いていくでしょう。
 
 
 ---
 
 ### Related columns
 
-[[Column] Post-Rock/Ambient interaction with movies and architecture](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
+ [【コラム】 ポストロック／アンビエントの映画・建築との相互作用](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 
 
 [[Column] Media history of film music: How did sound get from the screen to the speakers? ](https://monumental-movement.jp/Column-Soundtrack)

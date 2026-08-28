@@ -11,19 +11,19 @@ tags:
 - Experimental
 - Lo-Fi
 - Rock
-title: 【專欄】Ween——郊區車庫誕生的奇異宇宙
+title: 【コラム】 Ween — 郊外のガレージから生まれた奇妙な宇宙
 ---
 
 
-## “溫是什麼？”
+## 「Weenとは？」
 
-文字：mmr |主題：布格尼什，一個出生在美國郊區車庫的奇怪神。 《The Mollusk》從低保真煉金術到深海神話，追溯了奇怪的 Ween 兄弟所描繪的音樂宇宙。
+文：mmr｜テーマ：アメリカ郊外のガレージで生まれた奇妙な神Boognish。その降臨からローファイの錬金術、そして深海の神話『The Mollusk』まで、Weenという異形の兄弟が描いた音楽宇宙を辿る
 
 
-> 隱藏在美國郊區的一個車庫。
-> 從那片黑暗中，誕生了一位神－布格尼許。
-> ——這就是一邊笑一邊跨越流派的音樂本身。
-> 布格尼什的笑容裡蘊藏著來自世界各地的音樂片段。
+> アメリカの郊外にひっそりと佇むガレージ。  
+> その暗がりから、ひとつの神が生まれた——Boognish。
+> ——それは、ジャンルを笑いながら飛び越える音楽そのもの。
+> Boognishの微笑みの中に、世界中の音楽の断片が詰まっている。
 
 ---
 
@@ -40,172 +40,172 @@ color: #fff;
 </style>
 
 
-## 韋恩的怪異兄弟神話——來自美國郊區的反擊
+## Weenという異形の兄弟神話 — アメリカ郊外からの逆襲
 
-### 聚丙烯之神 Boognish 的出現
+### ポリプロピレンの神・Boognishの降臨
 
-20 世紀 80 年代中期賓州一處安靜的住宅區。
-兩個男孩拿起一盤卡帶和一台四軌錄音機，開始了一個奇怪的儀式。
-**亞倫·弗里曼（吉恩·維恩飾）** 和 **米基·梅爾奇翁多（迪恩·維恩飾）**。
+1980年代半ば、ペンシルベニア州の静かな住宅街。  
+二人の少年がカセットテープと4トラックレコーダーを手に、奇妙な儀式を始めた。  
+**Aaron Freeman（Gene Ween）**と**Mickey Melchiondo（Dean Ween）**である。
 
-他們創造的「**Boognish**」的存在不僅僅是一個標誌或字元。
-他是一位虛構的歡笑與瘋狂之神，也是韋恩音樂本身的象徵。
-散佈在家庭錄音中的噪音、奇怪的聲音和不尋常的調性變化都受到了博格尼什的祝福。
+彼らが創り出した“**Boognish**”という存在は、単なるロゴやキャラクターではない。  
+笑いと狂気を司る架空の神であり、Weenの音楽そのものの象徴だった。  
+宅録作品に散りばめられたノイズ、奇声、異常な転調のすべてが、Boognishの加護を受けていた。
 
-> “布尼什不是一個笑話。他就是我們所做的一切。”
-> — *Dean Ween 訪談，2003 年*
+> “Boognish isn’t a joke. He’s everything we do.”  
+> — *Dean Ween Interview, 2003*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HV7wiRUzR0U?si=wnxJh3oh2N9NAl2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 吉恩和迪恩——想像中的兄弟還是精神上的另一個自我？
+### ジーンとディーン — 架空の兄弟か、精神の分身か
 
-吉恩和迪恩。
-雖然他們的名字聽起來像是“兄弟”，但他們並沒有血緣關係。
-但在音樂上，他們幾乎就像雙胞胎。
-基因是情感和混亂的化身，迪恩是建築和工藝的大師。
-兩者碰撞的那一刻，韋恩特有的混亂和魔法就誕生了。
+GeneとDean。  
+その名の響きは「兄弟」を想起させるが、血の繋がりはない。  
+しかし音楽的には、ほとんど双子のように結びついていた。  
+Geneは感情とカオスの化身、Deanは構築と技巧の職人。  
+ふたりがぶつかる瞬間、Ween特有の混沌と魔法が生まれる。
 
-[“The Pod”](https://amzn.to/46LSWjm) (1991) 使用廉價的麥克風和舊的四軌
-**「骯髒的美」**規則。扭曲的聲音，低沉的鼓聲，
-儘管如此，整件事還是很完美的韋恩。
-就好像博格尼什住在設備裡一樣。
+[『The Pod』](https://amzn.to/46LSWjm)（1991）では、安物マイクと古びた4トラックが生み出す  
+**“汚れた美”**が支配している。歪んだボーカル、くぐもったドラム、  
+それでも全体は完璧にWeenであった。  
+まるでBoognishが機材の中に宿っていたかのようだ。
 
 ---
 
-## Lo-Fi 時代的煉金術 — 20 世紀 80 年代至 90 年代初
+## ローファイ時代の錬金術 — 1980〜1990年代初期
 
-> “我想要一種聽起來像是凌晨 3 點在地下室播放的聲音。”
-> — *吉恩‧維恩，1992 年訪談*
+> 「深夜3時の地下室で鳴っているような音が欲しかった。」  
+> — *Gene Ween, 1992 Interview*
 
-### 卡式錄音機創造的宇宙
+### カセット・レコーダーが生んだ宇宙
 
-早期的 Ween 聲音是在 **4 軌盒式磁帶 MTR** 上家庭錄音的魔力。
-保持噪音和失真完好無損。這不是“污穢”，而是“真理”。
-他們的家庭錄音是一種低保真煉金術。
-豆莢是病態笑聲和迷幻結構的奇異組合。
-讓聽者感到不安的同時，又給他們一種令人上癮的愉悅感。
+初期Weenのサウンドは、**4トラック・カセットMTR**による宅録の魔法だった。  
+ノイズも歪みも消さずに残す。それは“汚さ”ではなく、“真実”だった。  
+彼らの自宅録音は、いわばローファイの錬金術。  
+『The Pod』では、病的な笑いとサイケデリックな構造が奇妙に混ざり合う。  
+聴く者を不安にさせながら、同時に中毒的な快感をもたらした。
 
-### 與地下場景的聯繫
+### アンダーグラウンド・シーンとの接点
 
-像 Homestead 和 Shimmy Disc 這樣的獨立唱片公司繼承了 Ween 的瘋狂風格。
-它們的聲源像地下循環一樣傳播，最終落入了怪人的手中。
-在此期間，維恩生活在「惡作劇和實驗音樂之間」。
+HomesteadやShimmy Discといったインディ・レーベルが、Weenの狂気を拾い上げた。  
+彼らの音源は地下流通のように広まり、奇人たちの手に渡っていった。  
+この時代、Weenは「悪ふざけと実験音楽の狭間」で生きていた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzYykIA1xVg?si=9q0uPXM92Hy3hH43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 《巧克力與起司》：低俗與高尚的轉折點
+## 『Chocolate and Cheese』：下品と高尚の臨界点
 
-> “流派並不重要。我只是把我喜歡的音樂都放進去。”
-> — *Dean Ween，1994 年訪談*
+> 「ジャンルなんて関係ない。好きな音楽を全部ぶち込むだけさ。」  
+> — *Dean Ween, 1994 Interview*
 
-1994 年的「巧克力和起司」(https://amzn.to/46LSWQo)
-這是 Ween 走出低保真洞穴並進入錄音室的第一部傑作。
-流行、放克、鄉村、前衛搖滾、靈魂樂…一切碰撞，
-粗俗與高貴奇蹟般地共存。
+1994年の[『Chocolate and Cheese』](https://amzn.to/46LSWQo)は、  
+Weenがローファイの洞窟からスタジオへ飛び出した最初の傑作だ。  
+ポップ、ファンク、カントリー、プログレ、ソウル……すべてが衝突し、  
+下品と高尚が奇跡的に共存する。
 
-「**Voodoo Lady**」的感性凹槽
-「**76年的自由**」的虛假懷舊。
-他們是從同一個心生出來的。
-「這讓我發笑，但也讓我哭泣。」這種矛盾是韋恩的核心。
+“**Voodoo Lady**”の官能的なグルーヴと、  
+“**Freedom of ’76**”の偽りの郷愁。  
+それらは同じ心臓から生まれている。  
+「笑えるのに泣ける」、この二律背反こそがWeenの核心だった。
 
-當 MTV 播放“**Push th’ Little Daisies**”時
-美國觀眾感到困惑。
-這是噱頭嗎？他是天才嗎？
-答案仍然很模糊。
-因為韋恩兩者兼而有之。
+MTVが“**Push th’ Little Daisies**”を取り上げたとき、  
+アメリカの視聴者は混乱した。  
+これはギャグなのか？天才なのか？  
+答えは今でも曖昧なままでいい。  
+Weenはその両方だったのだから。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B0Xo04QhDOk?si=fNmzlJoYOsegFJJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 鄉村懷舊與奇怪的正統——“12金鄉偉人”
+## 田舎の郷愁と奇妙な正統派 — 『12 Golden Country Greats』
 
-> “我不是在取笑國家。我真的太愛它了。”
-> — *Dean Ween，1996 年訪談*
+> 「カントリーをバカにしてるんじゃない。本気で好きすぎるんだ。」  
+> — *Dean Ween, 1996 Interview*
 
-[「12位金國偉人」](https://amzn.to/470mzMs) 是
-一張只有 12 首歌曲的「假鄉村」專輯。
-但演奏的人是真正的納許維爾會議音樂家。
-韋恩正與他們一起瓦解國家格局，
-他創作了一部在情感與諷刺之間翩翩起舞的傑作。
-聲音既有趣又溫暖，足以讓你熱淚盈眶。
-
----
-
-## 樂團模式與「軟體動物」的深海神話
-
-> “海洋是無邊無際的。我們希望我們的音樂也是如此。”
-> — *吉恩‧維恩，1997 年訪談*
-
-[「軟體動物」](https://amzn.to/48VBtpT) 是
-這是韋恩的音樂宇宙擴展到最豐富的時刻。
-一首以海洋神話為主題的不朽迷幻流行音樂，由「**海洋人**」領銜。
-布萊恩威爾森的浪漫和比夫哈特船長的瘋狂，
-這是一張感覺就像被封閉在一個外殼中的專輯。
-
-所有錄音均使用 **16 軌磁帶** 進行模擬。
-就連噪音的波動也被控製成音樂，營造了一種模擬海底的聲音。
-吉他迴聲、人聲泛音和大海的聲音等效果。
-聲音本身訴說著深海的神話。
+[『12 Golden Country Greats』](https://amzn.to/470mzMs)は、  
+わずか12曲で構成された“偽カントリー”アルバム。  
+しかし演奏しているのは本物のナッシュビル・セッション・ミュージシャンたちだった。  
+Weenは彼らと共に、カントリーの形式を崩壊させ、  
+愛情と皮肉のあいだで踊るような奇作を生んだ。  
+そのサウンドは、笑えるのに涙が出るほど温かい。
 
 ---
 
-## 作為巡迴樂團的成熟和崩潰
+## バンド・モードと『The Mollusk』の深海神話
 
-維恩現場一片混亂。
-「**Live in Toronto 1996**」忽略了歌曲的順序。
-笑聲與喧鬧碰撞，與觀眾的界線融化。
-這更像是一種儀式而不是樂團。
+> 「海は無限だ。私たちの音楽もそうでありたい。」  
+> — *Gene Ween, 1997 Interview*
 
-> “每場演出都是一場等待美麗的意外。”
-> — *迪恩‧維恩，1997年*
+[『The Mollusk』](https://amzn.to/48VBtpT)は、  
+Weenの音楽的宇宙が最も豊かに広がった瞬間だ。  
+“**Ocean Man**”を筆頭に、海洋神話を題材としたサイケデリック・ポップの金字塔。  
+Brian WilsonのロマンとCaptain Beefheartの狂気を、  
+一枚のシェル（貝殻）に閉じ込めたようなアルバムである。
 
-然而，在幕後，卻存在著酒精、毒品、疲勞、友誼之間的衝突。
-2008年，吉恩·溫因個人因素離開了樂團。
-他克服了酒精依賴，開始了一條安靜的康復之路。
-Dean 成立了**Dean Ween 集團**，並以另一種方式將 Ween 的精神聯繫在一起。
+録音はすべて**16トラック・テープ**によるアナログ方式。  
+ノイズの揺らぎまで音楽として制御し、擬似的な“海底音響”を創造した。  
+ギターの反響、ボーカルの倍音、潮騒のようなエフェクト。  
+音そのものが深海の神話を語っている。
 
 ---
 
-## “魁北克”~“La Cucaracha”：暮光實驗室
+## ツアー・バンドとしての成熟と崩壊
 
-[「魁北克」](https://amzn.to/4gZ8SlA) (2003) 是
-這項工作處於內省和迷幻的交叉點。
-映入眼簾的不是歡笑，而是孤獨和沈默。
-這是Ween第一次面對「成熟」這個詞的時刻。
+ライブにおけるWeenは、完全なるカオスだった。  
+『**Live in Toronto 1996**』では、曲順など無視。  
+笑いとノイズがぶつかり合い、観客との境界が溶けていく。  
+それはバンドというより、ひとつの儀式のようだった。  
 
-以及 2007 年的 [“La Cucaracha”](https://amzn.to/46STLa9)。
-標題是《蟑螂》。
-顧名思義，它像徵著無論受到多大的打擊都不會消亡的生命力。
-這件作品凝聚了Ween存在本身的諷刺與美麗。
+> “Every show is an accident waiting to be beautiful.”  
+> — *Dean Ween, 1997*
+
+だがその裏で、酒と薬、疲労と友情の葛藤があった。  
+2008年、Gene Weenは個人的理由でバンドを離脱。  
+アルコール依存を克服し、静かな再生の道を歩き始めた。  
+Deanは**The Dean Ween Group**を結成し、別の形でWeenの魂を繋いだ。
+
+---
+
+## 『Quebec』〜『La Cucaracha』：黄昏の実験室
+
+[『Quebec』](https://amzn.to/4gZ8SlA)（2003）は、  
+内省とサイケデリアの融合点にある作品だ。  
+笑いよりも、孤独と静けさが前面に出た。  
+Weenが初めて“成熟”という言葉と向き合った瞬間だった。
+
+そして2007年の[『La Cucaracha』](https://amzn.to/46STLa9)。  
+タイトルは“ゴキブリ”。  
+その名の通り、どんなに叩かれても死なない生命力を象徴する。  
+この作品には、Weenという存在そのものの皮肉と美が凝縮されている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I9q5kJE12M4?si=cWcFyISzGYTWbw5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 布格尼什永不消亡——重聚與邪教延續
+## Boognishは死なず — 再結成とカルトの継続
 
-2010年代，Ween悄悄重聚。
-吉恩和迪恩在舞台上的笑容和那時一樣。
-觀眾中有些是90年代聽Ween長大的，
-有很多年輕人在 YouTube 上了解了“Push th’ Little Daisies”。
+2010年代、Weenは静かに再結成を果たす。  
+ステージに立ったGeneとDeanの笑顔は、あの頃のままだった。  
+観客の中には、90年代にWeenを聴いて育った世代と、  
+YouTubeで“Push th’ Little Daisies”を知った若者が混在していた。  
 
-> “笑是我們的宗教。”
-> — *吉恩‧維恩，2012 年訪談*
+> 「笑うこと、それが私たちの宗教さ。」  
+> — *Gene Ween, 2012 Interview*
 
-布尼什永遠不會死。
-只要他笑，音樂就會保持自由。
-Ween 是超越類型障礙的「無盡的笑聲」。
+Boognishは死なない。  
+彼が笑う限り、音楽は自由であり続ける。  
+Weenは、ジャンルの壁を越えた“無限の笑い”そのものだ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nHJayd3zBH8?si=Uz85sFGkUCLuWRES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 溫活動年表
+## Ween活動年表
 
 
 <div class="mermaid">
@@ -226,58 +226,58 @@ flowchart TD
 
 ---
 
-## 唱片目錄
+## ディスコグラフィー
 
-|年份|專輯 |筆記|
-| ---- | -------------------------------------------------------------------------------- |------------------------ | |
-| 1990 | [GodWeenSatan：合一](https://amzn.to/48mbnMH) |早期家庭錄音收藏|
-| 1991 | [Pod](https://amzn.to/46LSWjm) |畸形的低保真美觀|
-| 1992 | [純番石榴](https://amzn.to/48ihoda) |包含「推小雛菊」|
-| 1994 | [巧克力與起司](https://amzn.to/46LSWQo) |工作室製作的轉捩點|
-| 1996 | [12位金國偉人](https://amzn.to/470mzMs) |假鄉村 x 真實納許維爾 |
-| 1997 | [軟體動物](https://amzn.to/48VBtpT) |迷幻流行音樂的里程碑 |
-| 2000 | 2000 [白胡椒](https://amzn.to/4o6RI7P) | 「披頭四般的溫」 |
-| 2003 | [魁北克](https://amzn.to/4gZ8SlA) |內省與實驗的融合|
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) |標誌著結束的最後一部作品|
+| 年    | アルバム                                                                | 備考                          |
+| ---- | ------------------------------------------------------------------- | --------------------------- |
+| 1990 | [GodWeenSatan: The Oneness](https://amzn.to/48mbnMH) | 初期宅録集大成                     |
+| 1991 | [The Pod](https://amzn.to/46LSWjm)                   | 奇形ローファイ美学                   |
+| 1992 | [Pure Guava](https://amzn.to/48ihoda)                | “Push th’ Little Daisies”収録 |
+| 1994 | [Chocolate and Cheese](https://amzn.to/46LSWQo)      | スタジオ制作への転換点                 |
+| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs)  | 偽カントリー×本物ナッシュビル             |
+| 1997 | [The Mollusk](https://amzn.to/48VBtpT)               | サイケ・ポップの金字塔                 |
+| 2000 | [White Pepper](https://amzn.to/4o6RI7P)              | “ビートルズ的Ween”                |
+| 2003 | [Quebec](https://amzn.to/4gZ8SlA)                    | 内省と実験の融合                    |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9)              | 一度の終焉を示すラスト作                |
 
 ---
 
-## 最終章：在海底笑的諸神－維恩永恆​​的笑話
+## 終章：海の底で笑う神々 — Weenという永遠のジョーク
 
-維恩的故事不能簡單地概括為「瘋狂的樂團」。
-這是兩個男人笑著暢遊音樂海洋的紀錄。
-迪恩和吉恩以兒時好友的身份相遇，他們帶著盒式磁帶和廉價設備。
-他繼續認真地玩弄聲音，這是任何大藝術家都做不到的。
+Weenの物語は、決して「狂気のバンド」という言葉だけで括れるものではない。  
+それは、音楽という広大な海を、笑いながら泳ぎきった二人の男たちの記録だ。  
+DeanとGene——彼らは幼なじみとして出会い、カセットテープと安物の機材を手に、  
+どんなメジャーアーティストにもできなかった“音の遊び”を本気で続けた。
 
-這條路既是對美國文化的戲仿，也是最純粹的愛。
-被當作垃圾的B級旋律，無人關注的田園風光，
-醉醺醺的笑聲——他們把這一切都撿起來，變成了一個「神話」。
+その道は、アメリカ文化のパロディであり、同時に最も純粋な愛でもあった。  
+ゴミのように扱われたB級の旋律、誰も気に留めない田舎の情景、  
+酔いどれの笑い声——それらすべてを拾い上げ、彼らは“神話”に変えてしまった。
 
-韋恩既沒有創造一種流派，也沒有創造一種運動。
-這是一種無限擴展的信念：“你可以喜歡任何類型的音樂。”
-有搖滾的頹廢，有爵士的智慧，有科技的未來，
-祖國的溫暖，都是平等的。
+Weenが生み出したのは、ジャンルでも、ムーブメントでもない。  
+それは「どんな音楽も愛せる」という、無限に拡張する信念だ。  
+そこにはロックの退廃も、ジャズの知性も、テクノの未来も、  
+カントリーの温もりも、すべて等価に並んでいる。
 
-布格尼許象徵的不是上帝，而是笑的衝動。
-世界各地的揚聲器後方仍可聽到這種笑聲。
-即使聲音扭曲，節奏扭曲，一切都破碎…
-韋恩的精神仍然存在。
+Boognishが象徴するのは“神”ではなく、“笑う衝動”そのものだ。  
+その笑いは、今も世界中のどこかでスピーカーの奥から聞こえてくる。  
+音が歪み、リズムが転げ、すべてが壊れても——  
+そこには、Weenの魂が、まだ確かに息づいている。
 
 > 「俺たちはただ、楽しいことをしたいだけなんだ。」  
-> — 迪安溫
+> — Dean Ween
 
-這就是Ween永恆的身份。
-歡笑、愛、破壞、然後重建。
-回歸音樂本源的無盡旅程。
+そしてそれこそが、Weenの永遠の正体なのだ。  
+笑い、愛し、壊し、また作る。  
+音楽の原点を取り戻すための、果てしない航海。  
 
-如今，維恩還在海底的某個地方開心地笑著。
+Weenは今日も、どこかの海の底で、愉快に笑っている。
 
 ---
 
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F53T6s06MUc?si=6dfE6Ds-w1YpqkYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

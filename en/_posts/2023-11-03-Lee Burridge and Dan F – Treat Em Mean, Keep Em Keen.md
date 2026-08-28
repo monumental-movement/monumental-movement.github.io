@@ -13,17 +13,17 @@ title: Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen
 ---
 
 
-Lee Burridge is a British DJ and producer. In the early 1990s, he helped launch Hong Kong's underground club scene.
+Lee Burridge（リー バリッジ）は、イギリス出身の DJ 兼プロデューサー。1990 年代初頭は、香港のアンダーグラウンドクラブシーンの立ち上げに貢献した。 
 
-He is also active as Tyrant Soundsystem with DJ Craig Richards and Sasha.
+また、 DJ Craig Richards（DJ クレイグ・リチャーズ）とSasha（サシャ）と共にTyrant Soundsystem としても活動している。
 
-Dan Findlay, also known as Dan F, is a DJ and bar owner based in Hong Kong.
+Dan FことDan Findlay は、香港を拠点とする DJ 兼バーのオーナー。
 
-Along with Technasia and others, Dan F is known as one of the first Hong Kong-based artists to release club music including breakbeat, tech house, and minimal techno.
+Dan Fはテクナシアなどと並んで、香港を拠点にブレイクビーツ、テックハウス、ミニマルテクノなどクラブミュージックをリリースした最初のアーティストの 1 人として知られている。 
 
-Dan F also works under other names: Red Buddha, Random Source, and Sinosine.
+Dan F は、別名義でRed Buddha、Random Source、Sinosineとしても活動している。
 
-"Treat 'Em Mean, Keep 'Em Keen" is an electro house minimal track released in 2006 by the label Almost Anonymous.
+「Treat 'Em Mean, Keep 'Em Keen」は、レーベルAlmost Anonymousから2006年にリリースされたエレクトロハウス・ミニマルトラック。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ A. Treat 'Em Mean, Keep 'Em Keen
 B. Skiiiirt
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m44311070291?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44311070291?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mbQ_xSiFWgM?si=-m-SyPJ7XcKTeQ14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

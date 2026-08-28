@@ -8,17 +8,17 @@ layout: post
 permalink: /zh-hant/wings-wings-over-america/
 tags:
 - Rock
-title: 翅膀——飛越美國
+title: Wings – Wings Over America
 ---
 
 
-《Wings - Wings Over America》是英國搖滾樂團Wings於1976年發行的現場專輯（3張LP套裝）。 Wings是由前披頭四成員保羅麥卡尼組成的樂隊，其活動在披頭四解散後開始。
+「Wings - Wings Over America」は、1976年にリリースされたイギリスのロックバンド、ウイングス（Wings）のライブアルバム(LP3枚組)です。ウイングスは、元ビートルズのポール・マッカートニーが結成したバンドであり、その活動はビートルズの解散後に始まりました。
 
-它收錄了 Wings 1976 年美國巡演的現場錄音，生動地捕捉了樂團的表演和能量。這張專輯收錄了廣泛的歌曲，包括 Wings 的熱門歌曲和 Paul McCartney 的獨奏作品。
+ウイングスのアメリカツアー（1976年）のライブ音源を収録しており、バンドのパフォーマンスとエネルギーを生き生きと捉えています。アルバムには、ウイングスのヒット曲やポール・マッカートニーのソロ作品など、幅広い楽曲が含まれています。
 
-這張專輯是像徵著Wings的人氣和成功的作品，作為一張充滿了只有透過現場表演才能實現的存在感和Wings歌曲的魅力的作品，受到了歌迷和音樂愛好者的高度評價。
+このアルバムは、ウイングスの人気と成功を象徴する作品で、ライブ演奏ならではの臨場感と、ウイングスの楽曲の魅力が詰まった作品として、ファンや音楽愛好家から高い評価を得ています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Venus And Mars / Rock Show / Jet
 
@@ -77,7 +77,7 @@ F3. Hi, Hi, Hi
 F4. Soily
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/16JhK3-oLvg?si=9MixVgvQlDiZnkgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

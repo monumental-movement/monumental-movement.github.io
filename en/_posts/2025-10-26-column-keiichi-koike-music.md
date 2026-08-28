@@ -10,19 +10,19 @@ tags:
 - Art
 - Culture
 - Anime
-title: '[Column] Music-like manga artist Keiichi Koike - Visual rhythm played by lines'
+title: 【コラム】 音楽のような漫画家・小池桂一 ― 線が奏でる視覚のリズム
 ---
 
 
-## Prologue: The Line Rings - Keiichi Koike, a "musical manga artist"
+## 序章：線が鳴る ― 小池桂一という“音楽的漫画家”
 
 
-Text: mmr｜Theme: Thoughts on the fact that Keiichi Koike's manga is "comics that are like music"
+文：mmr｜テーマ：小池桂一の漫画は「音楽のような漫画」であることへの考察
 
 
-Keiichi Koike's manga is more of a listening experience than a reading experience.
-The quivering lines, the contrast between black and white, and the gaps in the page structure convey both silence and noise at the same time.
-In that sense, his manga can be called ""comics that are like music.''
+小池桂一（こいけ けいいち）の漫画は、読むというより**聴く体験**に近い。  
+線の震え、白と黒の対比、ページ構成の間（ま）が、静寂とノイズを同時に伝える。  
+その意味で、彼の漫画は「音楽のような漫画」と呼ぶにふさわしい。
 
 ---
 
@@ -31,7 +31,7 @@ In that sense, his manga can be called ""comics that are like music.''
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -39,82 +39,82 @@ color: #fff;
 }
 </style>
 
-## Chapter 1: Debut and early activities (1976–1983)
+## 第1章：デビューと初期活動（1976–1983）
 
-- **1976**: Won the 12th Tezuka Prize for ""Urashima'' and debuted as a manga artist.
-He is attracting attention as the youngest person to be selected.
-- **1981**: Moved to the United States and participated in commercial production at Richard Williams Animation Inc.
-Learn the importance of movement and rhythm through animation techniques.
-- **1983**: ""LANDED" was published in Marvel's ""Epic Illustrated."
-Expand the range of visual expression by presenting your work internationally.
+- **1976年**：第12回手塚賞「ウラシマ」で入選、漫画家デビュー。  
+  最年少入選として注目を浴びる。
+- **1981年**：渡米し、Richard Williams Animation Inc.でCM制作に参加。  
+  アニメーション技法を通じ、動きとリズム感の重要性を体得。
+- **1983年**：Marvel社『Epic Illustrated』に『LANDED』掲載。  
+  国際的に作品を発表することで、視覚表現の幅を広げる。
 
-During this period, the foundations of **temporal and rhythmic expression** in line and screen composition were established.
+この時期、線や画面構成における**時間的・リズム的表現**の基礎が確立した。
 
 ---
 
-## Chapter 2: First book and SF expression (1986–1990)
+## 第2章：初単行本とSF的表現（1986–1990）
 
-- **1986**: First book "SPINOZA" published (Sakusha).
-Characterized by philosophical themes and abstract visuals.
-**Visual musicality** is revealed by adjusting the density of lines, screen composition, and temporal rhythm.
+- **1986年**：初単行本『SPINOZA（スピノザ）』刊行（作品社）。  
+  哲学的テーマと抽象的ビジュアルが特徴。  
+  線の密度、画面構成、時間的リズムの調整により、**視覚的音楽性**が顕在化。
   
-- **1988**: Published ""Katajikenai" (Hakusensha) and ""G (GATE 1)" (Schola).
-The tense lines in the sci-fi settings and human body expressions are like musical polyrhythms.
+- **1988年**：『かたじけない』（白泉社）および『G（GATE 1）』（スコラ）刊行。  
+  SF的設定や人体表現における緊張感のある線は、まるで音楽のポリリズムのよう。
 
 ---
 
-## Chapter 3: "ULTRA HEAVEN" – Music of hallucinations and consciousness (2002–)
+## 第3章：『ULTRA HEAVEN』 ― 幻覚と意識の音楽（2002–）
 
-- **2002**: "ULTRA HEAVEN" published (Enterbrain).
-The theme is hallucinatory experiences, splitting of consciousness, and altered sense of time.
-The page structure and panel layout function as a musical structure (repetition, variation, wave).
+- **2002年**：『ULTRA HEAVEN』刊行（エンターブレイン）。  
+  幻覚体験、意識の分裂、時間感覚の変容をテーマに展開。  
+  ページ構成やコマ割りが、**音楽的構造（反復、変奏、波動）**として機能する。
   
-- **2003**: Publication of short story collection ""HEAVEN'S DOOR", reprint of previously published ""G".
-Precise lines and visual rhythms give the reader a musical experience.
+- **2003年**：短編集『HEAVEN'S DOOR』刊行、既刊『G』復刻。  
+  精密な描線と視覚的リズムが、読者の意識に音楽的体験を与える。
   
-- **2005**: Volume 2 of "ULTRA HEAVEN" published.
-Long-term serialization deepens the spiritual world and refines the composition and lines.
+- **2005年**：『ULTRA HEAVEN』第2巻刊行。  
+  長期連載による精神世界の深化と、構図・線の洗練が進む。
 
-- **2009**: Volume 3 of "ULTRA HEAVEN" published.
-New books released every four years are a real drag to read.
-
----
-
-## Chapter 4: Characteristics of style and technique
-
-### Rhythm of lines
-- Subtle fluctuations in the lines act as visual noise
-- Dense lines act as a flood of sound, and blank spaces act as silence.
-
-### Musicality of frame division
-- Repetition/variation/phase shift arrangement
-- The rhythm changes page by page, and the reader's eye movements are similar to a "musical performance"
-
-### Motif
-- Life, consciousness, hallucinations, philosophical themes
-- Depicting psychological and physiological rhythms through science fiction devices and human body expressions
+- **2009年**：『ULTRA HEAVEN』第3巻刊行。  
+  4年に一度のペースで発売になった新刊ではまさに読むドラッグが進行。
 
 ---
 
-## Chapter 5: Cultural historical context
+## 第4章：作風と技法の特徴
 
-Keiichi Koike's style resonates with Japanese science fiction manga and foreign science fiction art from the 1990s onwards.
-- Katsuhiro Otomo's information density and structural beauty
-- Tsutomu Nihei's physiological discomfort
-- The otherworldly feeling of foreign science fiction writers (Moebius, Bilal)
+### 線のリズム
+- 線の微細な揺らぎが視覚的ノイズとして機能  
+- 密集する線は音の洪水、空白は静寂として作用
 
-While influenced by these influences, Koike is unique in that he translates consciousness and rhythm into a manga style.
+### コマ割りの音楽性
+- 繰り返し・変奏・フェイズシフト的配置  
+- ページ単位でリズムが変化し、読者の眼球運動が“演奏”に近い
+
+### モチーフ
+- 生命、意識、幻覚、哲学的テーマ  
+- SF的装置や人体表現を通じ、心理的・生理的リズムを描写
 
 ---
 
-## Chapter 6: Comparison of work motifs and techniques
+## 第5章：文化史的文脈
+
+小池桂一の作風は、90年代以降の日本SF漫画や海外SFアートとも呼応する。  
+- 大友克洋の情報密度と構造美  
+- 弐瓶勉の生理的違和感  
+- 海外SF作家（Moebius, Bilal）の異世界感
+
+小池はこれらの影響を受けつつ、**意識やリズムを漫画的に翻訳**した点で独自。
+
+---
+
+## 第6章：作品モチーフ・技法比較
 
 <div class="mermaid">
 
 graph LR
-    A["SPINOZA (1986)<br>Motif: Philosophy/Consciousness<br>Technique: Abstract composition, density of lines<br>Musical metaphor: Minimal"]:::a
-    B["G (1988)<br>Motif: Science fiction, life transformation<br>Technique: Tense dense lines<br>Music metaphor: Industrial"]:::b
-    C["ULTRA HEAVEN (2002–)<br>Motif: Hallucination/Expansion of consciousness<br>Technique: Wave structure of entire page<br>Music metaphor: Psychedelic ambient"]:::c
+    A["SPINOZA（1986）<br>モチーフ：哲学・意識<br>技法：抽象構図、線の密度<br>音楽比喩：ミニマル"]:::a
+    B["G（1988）<br>モチーフ：SF・生命変容<br>技法：緊張感ある密線<br>音楽比喩：インダストリアル"]:::b
+    C["ULTRA HEAVEN（2002–）<br>モチーフ：幻覚・意識拡張<br>技法：ページ全体の波動構造<br>音楽比喩：サイケデリック・アンビエント"]:::c
 
     A --> B --> C
 
@@ -128,7 +128,7 @@ graph LR
 ---
 
 
-## Chapter 7: Chronology - Keiichi Koike's trajectory
+## 第7章：年表 ― 小池桂一の軌跡
 
 <div class="mermaid">
 
@@ -149,24 +149,24 @@ timeline
 
 ---
 
-## Final chapter: Music played by vision
+## 終章：視覚が奏でる音楽
 
-Keiichi Koike's manga is a musical experience of lines and spaces.
-With each turn of the page, the reader's consciousness ripples and silence rings.
-It is not text or sound effects, but purely visual music.
+小池桂一の漫画は、**線と間による音楽体験**である。
+ページをめくるごとに、読者の意識が波打ち、沈黙が鳴る。
+それは、文字や効果音ではなく、純粋に**視覚から生まれる音楽**である。
 
-> "Lines are sound. White and black alternately play silence and noise." - Keiichi Koike
+> “線は音だ。白と黒が沈黙とノイズを交互に奏でる。” ― 小池桂一
 
 ---
 
-## References/Materials
+## 参考文献・資料
 
-- [Keiichi Koike "SPINOZA" (Sakusha, 1986)](https://amzn.to/4o3cRAl)
+- [小池桂一『SPINOZA』（作品社、1986）](https://amzn.to/4o3cRAl)
 
-- [Keiichi Koike "G" (Schola, 1988)](https://amzn.to/49lDEmS)
+- [小池桂一『G』（スコラ、1988）](https://amzn.to/49lDEmS)
 
-- [Keiichi Koike "ULTRA HEAVEN" (Enterbrain, 2002–)](https://amzn.to/4qrGr49)
+- [小池桂一『ULTRA HEAVEN』（エンターブレイン、2002–）](https://amzn.to/4qrGr49)
 
-- [Keiichi Koike "HEAVEN'S DOOR" (2003)](https://amzn.to/3L6u8dk)
+- [小池桂一『HEAVEN'S DOOR』（2003）](https://amzn.to/3L6u8dk)
 
 ---

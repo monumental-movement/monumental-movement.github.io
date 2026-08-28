@@ -13,20 +13,20 @@ title: Umek – Oranazol
 ---
 
 
-Umek 是斯洛維尼亞 techno 界的傳奇 DJ，每年在世界各地 100 多個場所演出，從柏林的地下俱樂部到拉斯維加斯的 EDC。
+Umek(ユーメック)は、ベルリンのアンダーグランドクラブからEDCラスベガスまで、年間100ヵ所以上世界中でプレイするスロベニア・テクノ界のレジェンド的DJ。
 
-作為製作人，他參與了廣泛的活動，包括參與斯洛維尼亞後工業、前衛和實驗樂隊Laibach於2003年發行的專輯《WAT》，該樂隊成立於1980年，當時斯洛維尼亞還是南斯拉夫社會主義聯邦共和國的一部分。自 2007 年以來，他一直經營自己的電子廠牌 1605 Music Therapy。
+プロデューサーとしては、かつてスロベニアがユーゴスラビア社会主義連邦共和国内の1つであった1980年に結成されたスロベニアのポストインダストリアルバンド・前衛音楽 ・実験音楽バンドLaibach(ライバッハ)が2003年にリリースしたアルバム『WAT』に参加するなど幅広い活動をしている。また、2007年からは自身のテクノレーベル1605 Music Therapyを運営している。
 
-《Oranazol》是 Jericho 廠牌於 2001 年發行的一首科技歌曲。
+「Oranazol」は、2001年にレーベルJerichoからリリースされたテクノトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Kenox
 
 AA. Katol
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m21241493715?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21241493715?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2CMbKSIltkw?si=AKqdI8vo--vU51kv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

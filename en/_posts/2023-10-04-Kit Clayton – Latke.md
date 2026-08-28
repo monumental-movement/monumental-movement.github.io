@@ -12,7 +12,7 @@ title: Kit Clayton – Latke
 ---
 
 
-"Latke" is an EP by Joshua Kit Clayton (born San Francisco) released on Orthlorng Musork in 2001.
+「Latke」は、2001年にOrthlorng Musorkからリリースされた本名Joshua Kit Clayton（サンフランシスコ在住）によるEPです。
 
 #### Tracklist
 ```md

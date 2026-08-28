@@ -21,8 +21,8 @@ Text: mmr｜Theme: About the musical revolution that formed the basis of "disco"
 In the early 1970s, a musical revolution that would become the prototype for ""disco'' occurred in Philadelphia, a city on the east coast of the United States.
 At the center of this were **MFSB (Mother Father Sister Brother)** and **Salsoul Orchestra**.
 
-They established a new sound called ""orchestra soul'' by fusing gorgeous arrangements that incorporate plenty of strings and horns, a detailed rhythm section, and a soulful spirit.
-This lineage later spread to disco culture around the world, and was inherited by house, Latin, and even hip-hop sampling cultures.
+彼らは、ストリングスとホーンをふんだんに取り入れたゴージャスなアレンジ、緻密なリズム・セクション、そしてソウルフルなスピリットを融合させ、「オーケストラ・ソウル」という新たなサウンドを確立した。  
+この系譜がのちに世界中のディスコ・カルチャーへと波及し、ハウス、ラテン、さらにはヒップホップのサンプリング文化へと受け継がれていく。
 
 ---
 
@@ -54,17 +54,17 @@ The members of MFSB included the following:
 - Bobby Eli (guitar)
 - Vincent Montana Jr. (vibraphone/arranger)
 
-The smooth grooves created by these players became a worldwide brand known as ""TSOP (The Sound of Philadelphia)''.
+これらのプレイヤーが織りなす滑らかなグルーヴは、**「TSOP（The Sound of Philadelphia）」**として世界的なブランドになった。
 
 ---
 
-## MFSB - The moment when strings dominate the groove
+## MFSB ― ストリングスがグルーヴを支配する瞬間
 
 In 1973, the album ""**Love Is The Message**'' was released under the name MFSB.
 The song of the same name became an anthem representing the history of Seoul, and was loved as a ""standard bridge song'' by DJs in the early days of disco.
 
-Earl Young's ""four-on-the-floor'' rhythm was what would later become the basic beat of disco and house.
-Furthermore, Vincent Montana Jr.'s vibes and string arrangements gave the rhythms of black music a classical elegance.
+Earl Youngが叩き出す“四つ打ち”のリズム――これこそ後にディスコ、そしてハウスの基本ビートとなるものだった。  
+さらにVincent Montana Jr.のヴァイブとストリングス・アレンジが、黒人音楽のリズムにクラシック的な優雅さを与えた。  
 
 MFSB was not just a band, but the embodiment of a new concept: a ""studio orchestra''.
 
@@ -77,8 +77,8 @@ MFSB was not just a band, but the embodiment of a new concept: a ""studio orches
 In 1975, **Vincent Montana Jr.** left MFSB and formed **Salsoul Orchestra** to pursue his ideals.
 Backed by **Salsoul Records** (founders: Cayre brothers), they aimed for a disco sound with strong Latin elements.
 
-Montana uses the orchestration skills he cultivated at PIR to fuse Latin percussion and strings.
-As a result, a unique equation is created: **Disco+Orchestra+Salsa=Salsoul**.
+モンタナはPIRで培ったオーケストレーション技術を武器に、ラテン・パーカッションとストリングスを融合。  
+As a result, a unique equation was created: **Disco+Orchestra+Salsa=Salsoul**.
 
 The representative song "**Salsoul Hustle**" is a perfect symbol of this.
 Congas, timbales, strings, horns, and muted guitars intertwine exquisitely, creating a feel of Latin cheerfulness and Philly sophistication at the same time.
@@ -106,7 +106,7 @@ On the other hand, his extreme perfectionism made the studio musicians nervous, 
 | **Love Break (Ooh I Love It)** | 1980 | A treasure trove of sampling. Percussion and horn breaks were overused in later hip-hop. | Cited by Public Enemy, Eric B. & Rakim, etc. |
 | **Salsoul Hustle** | 1975 | The origins of early disco. A fusion of 4/4 beat and Latin groove. | Symbolizes a leap forward from the Philly sound. |
 | **Nice "n Naasty** | 1976 | String-led dance track. | Features a sophisticated arrangement. |
-| **Runaway (feat. Loleatta Holloway)** | 1977 | A dramatic development featuring female vocals and strings. | Reevaluated in later years in the house world. |
+| **Runaway (feat. Loleatta Holloway)** | 1977 | 女性ヴォーカルと弦楽が織り成す劇的展開。 | 後年ハウス界で再評価。 |
 
 ---
 
@@ -115,8 +115,8 @@ On the other hand, his extreme perfectionism made the studio musicians nervous, 
 In the late 1980s, hip-hop unearthed Salsoul's legacy.
 The horn riff of "Love Break" and the percussion of "Ooh I Love It" were reimagined on Public Enemy"s "It Takes a Nation of Millions to Hold Us Back" and Eric B. & Rakim"s "Paid in Full."
 
-Also in the 1990s, Masters at Work (Louie Vega & Kenny Dope) reworked Salsoul's catalog and remixed it in a house context.
-Salsoul"s vinyl records have become a club DJ"s holy book.
+また1990年代には、Masters at Work（Louie Vega & Kenny Dope）がSalsoulのカタログを再編集し、ハウス文脈でリミックス。  
+Salsoulのアナログ盤は、クラブDJの“聖典”となった。
 
 ---
 
@@ -140,10 +140,10 @@ timeline
 
 ---
 
-### Discography (main works)
+### ディスコグラフィー（主要作品）
 
 | Year | Artist | Album | Link |
-| ---- | --------------------- | ------------------------ | ---- |
+| ---- | --------------------- | ------------------------- | ---- |
 | 1973 | MFSB | Love Is The Message | [Amazon](https://amzn.to/48XNk6X) |
 | 1975 | The Salsoul Orchestra | The Salsoul Orchestra | [Amazon](https://amzn.to/3X3V4Nt) |
 | 1976 | The Salsoul Orchestra | Nice "n Naasty | [Amazon](https://amzn.to/4omnu1p) |

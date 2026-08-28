@@ -13,9 +13,9 @@ title: The Nylons – Seamless
 ---
 
 
-The Nylons was a Canadian a cappella group that was active from 1978 to 2017. He is best known for his pop covers such as The Turtles" ""Happy Together," Steam"s ""Na Na Hey Hey Kiss Him Goodbye," and The Tokens' ""The Lion Sleeps Tonight.''
+The Nylonsは、1978年〜2017年まで活動したカナダのアカペラグループ。The Turtles「Happy Together」、Steam「Na Na Hey Hey Kiss Him Goodbye」、The Tokens「The Lion Sleeps Tonight」などのPopsのカヴァーでよく知られている。
 
-"Seamless" is an album released by Open Air Records in 1986.
+「Seamless」は、1986年にOpen Air Records からリリースされたアルバム。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ B4. Remember (Walking In The Sand)
 B5. The Stars Are Ours
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oqUnVUzvQYA?si=L54otN6nNfXVjaQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

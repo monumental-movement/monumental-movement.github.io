@@ -15,9 +15,9 @@ title: Oregano – Oregano
 
 Although the mix title is not listed, "Oregano by Oregano" is a deep house track by Todd Terry released on Freeze Records in 1994.
 
-Todd Terry is an American DJ, record producer, and house music remixer who evolved house music from the early Chicago house sound of 1984-86, later fused house sounds with hip-hop breaks to create a more energetic sound, and became commercially successful in addition to the underground house scene. Other names include Todd Terry Project, Royal House, Black Riot, Swan Lake, and Orange Lemon. "Can You Party" is famous under the name Royal House.
+Todd Terry（トッド・テリー）は、1984～86年の初期のシカゴハウスサウンドからハウスミュージックを進化させ、後にハウスのサウンドとヒップホップのブレイクを融合させよりエネルギッシュなサウンドを生み出し、アンダーグラウンドハウスシーンだけでなく商業的に成功したアメリカのDJ・レコードプロデューサー・ハウスミュージックのリミキサー。別名義でTodd Terry Project、Royal House、Black Riot、Swan Lake、Orange Lemonなどがある。Royal House名義では「Can You Party」が有名。
 
-In the late 1980s, he released crossover remixes and a style that fused house and rave music, and is said to be a driving force behind the UK acid house movement. He is also active as a remixer and producer, including remixing Michael Jackson's "Stranger in Moscow" in 1996.
+1980年代後半にはハウスとレイブミュージックを融合させたスタイルやクロスオーバーリミックスをリリースし、UKのアシッドハウスムーブメントの原動力だったと評されている。1996年にはマイケルジャクソンの「Stranger in Moscow」をリミックスするなど、リミキサー＆プロデューサーとしても精力的に活動している。
 
 #### Tracklist
 ```md
@@ -29,5 +29,5 @@ B. Oregano (Mix 3)
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46563453826?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s5SrYB0K118?si=GNvA6g4mZHDye2Rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

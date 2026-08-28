@@ -13,7 +13,7 @@ title: Resonance Meditation - Gong Geladag
 ---
 
 
-The first album in the Lost & Found series supervised by Haruomi Hosono. Locally recorded sound source on April 17, 2000 in Bali using a 24bit 192KHz sonic system.
+細野晴臣が監修したLost & Foundシリーズの第一弾アルバム。2000年4月17日バリ島で24bit 192KHz sonic system による現地録音音源。
 
 #### Tracklist
 ```md
@@ -24,10 +24,10 @@ The first album in the Lost & Found series supervised by Haruomi Hosono. Locally
 05. 古典儀礼曲「慈愛」/Traditional(トラディッショナル）
 ```
 
-"Lost & Found" supervised by Haruomi Hosono
+細野晴臣監修 "Lost & Found"
 
 Resonance Meditation - Gong Geladag
 
-Resonance Meditation Resonance Meditation- Gong Gradag
+レゾナンスメディテーション 共鳴瞑想- ゴング・グラダグ 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}

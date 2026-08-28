@@ -13,9 +13,9 @@ title: The Manhattan Transfer – Bodies And Souls
 ---
 
 
-Manhattan Transfer is an American vocal group formed in New York in 1969. He performed a variety of music genres including a cappella, Brazilian jazz, swing, vocalese, rhythm & blues, pop, and standards.
+マンハッタン・トランスファーは、1969年にニューヨークで結成されたアメリカのボーカルグループ。アカペラ、ブラジリアンジャズ、スウィング、ボーカレーズ、リズム&ブルース、ポップ、スタンダードなど様々な音楽ジャンルを演奏した。
 
-"Bodies and Souls" is the seventh studio album released by the label Atlantic Records in 1983.
+「Bodies and Souls」は、1983年にレーベル Atlantic Recordsからリリースされた7枚目のスタジオアルバム。
 
 #### Tracklist
 ```md
@@ -33,7 +33,7 @@ B5. Goodbye Love
 B6. The Night That Monk Returned To Heaven
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m64655294455?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64655294455?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNq2MLg0N4E?si=63qIJmBCFH7_xTY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

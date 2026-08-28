@@ -11,19 +11,19 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: 外面 – 可疑
+title: Outside – Sus?icious
 ---
 
 
-Outside 是由 Matt Cooper、安德烈亞斯艾倫 (Andreas Allen) 和 Patrice Blanchard 組成的英國爵士放克樂團。
+Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
 
-第 2 首和第 8 首由英國歌手 Cleveland Watkiss 演唱。
+2,8曲目は、イギリスのシンガーCleveland Watkiss(クリーヴランド・ワトキス)をフィーチャー。
 
-第 4 首和第 7 首由英國迷幻爵士樂團 Galliano 的 Constantine Weir 演唱。
+4,7曲目は、UKアシッドジャズグループGalliano(ガリアーノ)のConstantine Weir(コンスタンティン・ウィアー)をフィーチャー。
 
-這張CD是Avex於1998年發行的日文版。
+このCDは1998年にAvexからリリースされた日本盤。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. To Fly As Fast As Thought
 2. The Blackman And The Jew (Similarities)
@@ -40,7 +40,7 @@ Bonus Tracks
 11. Revelation (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

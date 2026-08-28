@@ -10,23 +10,23 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Lexy 和 K-Paul – 電視塔
+title: Lexy & K-Paul – Der Fernsehturm
 ---
 
 
-Lexy & K-Paul 是來自德國柏林的 DJ 二人組，自 1999 年以來一直活躍。成員是 Alexander Gerlach (Lexy) 和 Kai Michael Paul (K-Paul)。
+Lexy & K-Paul は、1999年から活動するドイツ・ベルリン出身のDJデュオ。メンバーは、Alexander Gerlach(Lexy)とKai Michael Paul(K-Paul） 。
 
-這張唱片是一張 Techno/Electro 唱片，由 WestBam 主持的 Low Spirit Recordings 唱片公司於 2002 年發行。 （促銷版）
+このレコードは、2002年当時WestBam主宰だったレーベル Low Spirit RecordingsからリリースされたTechno／Electro。(プロモ盤)
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Der Fernsehturm
 
 B. Icecream, Disco, TV, Show
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m24636629936?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24636629936?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m0EoJpAWBvc?si=G4iC8EOo0blAwkaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,22 +10,21 @@ tags:
 - Mythology
 - Folklore
 - Dark Folk
-title: '[Column] The dark mythical nature of Nordic folk: Northern memories shared
-  by songs and myths'
+title: 【コラム】 北欧フォークに宿る暗黒神話性──歌と神話が共有する北方の記憶
 ---
 
 
 
-## Outline of the musical culture of Nordic folk
+## 北欧フォークという音楽文化の輪郭
 
 Text: mmr｜Theme: A long study that deciphers the dark side of the myths and folk beliefs engraved in Scandinavian folk music from history and folklore.
 
 
-The musical culture called Nordic folk refers to the collective of folk songs, dances, and chants that have been handed down in regions such as Norway, Sweden, Finland, Denmark, and Iceland. Even before these genres were given modern names, they have existed as music closely connected to life, faith, work, and death.
+北欧フォークと呼ばれる音楽文化は、ノルウェー、スウェーデン、フィンランド、デンマーク、アイスランドといった地域に伝わる民謡、舞曲、吟唱の総体を指す。これらは近代的なジャンル名が与えられる以前から、生活・信仰・労働・死と密接に結びついた音楽として存在してきた。
 
-The melodies are often based on a minor key, are repetitive, and have a musical time that contains tension and silence rather than ""brightness'' in the modern sense. The lyrics often deal with themes such as the dead, ghosts, spirits, curses, and betrayal, as well as stories of heroism and love.
+旋律は短調を基調とするものが多く、反復的で、現代的な意味での「明るさ」よりも、緊張と沈黙を含んだ音楽的時間を持つ。歌詞は英雄譚や恋愛だけでなく、死者、亡霊、精霊、呪い、裏切りといった主題を頻繁に扱う。
 
-This characteristic is not a coincidence, but is deeply connected to the very structure of the mythological system and folk beliefs in the Nordic world.
+この特徴は偶然ではなく、北欧世界における神話体系と民間信仰の構造そのものと深く関係している。
 
 > Nordic folk was not entertainment music, but a device for preserving a mythical worldview as sound.
 
@@ -36,7 +35,7 @@ This characteristic is not a coincidence, but is deeply connected to the very st
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,91 +45,91 @@ color: #fff;
 
 
 
-## The worldview underlying Norse mythology
+## 北欧神話の基層にある世界観
 
 In order to understand the darkness of Norse folk, it is necessary to confirm the basic nature of Norse mythology. Norse mythology is one of the few myth systems that systematizes the story from creation to end, and the end is always the destruction of the world called Ragnarok.
 
-Gods are not immortal, but face old age, betrayal, and death. Odin sacrifices his eyes to gain knowledge, and while Loki is a god, he becomes a destroyer and brings about the end of the world.
+神々は不死ではなく、老い、裏切り、死に直面する。オーディンは知識を得るために自らの目を犠牲にし、ロキは神でありながら破壊者として世界の終焉を導く存在となる。
 
-What is important about this mythological system is that there is no assumption that order will last forever. A worldview that is predicated on perdition makes musical expressions more strongly reflect fate than hope.
+この神話体系において重要なのは、秩序が永遠に続くという前提が存在しない点である。滅びることが前提とされた世界観は、音楽表現においても希望より宿命を強く反映させる。
 
 > Norse mythology contains the idea of ​​accepting an inevitable end rather than salvation.
 
 ---
 
-## Folk beliefs and dark beings
+## 民間信仰と闇の存在たち
 
 
-In the Nordic region, folk beliefs survived for a long time even after Christianity. It was believed that spirits resided in forests, lakes, mountains, and swamps, and these spirits were both blessings and harm to humans.
+北欧地域では、キリスト教化以降も民間信仰が長く生き残った。森、湖、山、沼地にはそれぞれ精霊が宿ると信じられ、これらは人間に恩恵を与える存在であると同時に、害をもたらす存在でもあった。
 
 Female forest spirits such as Sweden"s Skogsloh, Norway"s Huldra, and Finland's Metsan Vaki are said to be beautiful and inviting, but are said to be destructive to those who get too close.
 
-Folk song lyrics repeatedly tell stories of encounters with these beings resulting in death or madness. These were not fables, but served as practical warnings for coexisting with nature.
+フォークソングの歌詞には、こうした存在と出会った結果として死や狂気に至る物語が繰り返し登場する。これらは寓話ではなく、自然と共存するための実践的な警告として機能していた。
 
 > The darkness of Scandinavian folk was not a horror production, but wisdom for survival.
 
 ---
 
-## Violence and death in ballads
+## バラッドに刻まれた暴力と死
 
 
-Many of the ballads that have been sung throughout Scandinavia since the Middle Ages are extremely violent in modern terms. Murders between siblings, betrayal by lovers, infanticide by mothers, and dead people returning as ghosts are all told in a matter-of-fact manner.
+中世以降、北欧各地で歌い継がれてきたバラッドには、現代の感覚では極めて暴力的な内容が多い。兄妹間の殺し、恋人の裏切り、母親による子殺し、幽霊となって帰還する死者などが淡々と語られる。
 
 These ballads often proceed like a list of facts, without emotional excitement. The melody is also restrained, with a structure that leaves interpretation to the listener.
 
-There is no intention to glorify violence, and death is depicted as an extension of everyday life rather than a special incident. There is a calmness and darkness characteristic of Scandinavian folk.
+暴力を美化する意図はなく、死は特別な事件ではなく、日常の延長として描かれる。ここに北欧フォーク特有の冷静さと暗さがある。
 
-> Talking about death was not unusual in Norse folk.
+> 死を語ることは、北欧フォークにおいて異常ではなかった。
 
 ---
 
-## Shadows created by instruments and acoustics
+## 楽器と音響が生む陰影
 
 
-The instruments used in Nordic folk also strongly support its mythical nature. Hardingfehre, Nickelharpa, and kantele use a lot of resonant strings and open strings, and have a structure that naturally produces sustained notes and dissonance.
+北欧フォークで使用される楽器も、その神話性を強く支えている。ハーディングフェーレ、ニッケルハルパ、カンテレなどは、共鳴弦や開放弦を多用し、持続音と不協和を自然に生み出す構造を持つ。
 
-Although these instruments have a single melody, they are accompanied by rich overtones, always leaving a shadow-like echo behind the melody. In particular, drone sounds have the effect of emphasizing the stagnation of time and ritualistic nature.
+これらの楽器は、単旋律でありながら豊かな倍音を伴い、旋律の背後に常に影のような響きを残す。特にドローン音は、時間の停滞や儀式性を強調する効果を持つ。
 
-The very structure of the instrument forms a sonic world that avoids clear resolution.
+楽器構造そのものが、明確な解決を避ける音響世界を形成している。
 
-> The darkness of Scandinavian folk is built into the sonic structure before the melody.
+> 北欧フォークの暗さは、旋律以前に音響構造に組み込まれている。
 
 ---
 
 ## Christianization and transformation of dark mythology
 
 
-Even after the Nordic world became Christian, old myths and animist beliefs did not completely disappear. These are reinterpreted as heresies, superstitions, and folk tales, and slip into folk songs.
+北欧世界がキリスト教化された後も、古い神話や精霊信仰は完全には消えなかった。それらは異端、迷信、民話として再解釈され、フォークソングの中に潜り込んでいく。
 
 Christian concepts such as the devil, hell, and sin were combined with existing dark entities to form new narratives. As a result, Nordic folk takes on a double darkness.
 
-On the other hand, mythical beings are rarely determined to be completely evil, and the fact that vague boundaries are maintained can be said to be a Scandinavian characteristic.
+一方で、神話的存在が完全に悪と断定されることは少なく、曖昧な境界が保たれた点は北欧的特徴と言える。
 
->Darkness was not eliminated, but preserved in a different form.
+> 闇は排除されず、形を変えて保存された。
 
 ---
 
-## Rediscovery and reinterpretation after modern times
+## 近代以降の再発見と再解釈
 
 
-After the 19th century, with the rise of nationalism, Nordic folk was reevaluated as a ""cultural heritage.'' As the collection and notation progressed, the dark content was categorized as symbolic and literary.
+19世紀以降、民族主義の高まりとともに北欧フォークは「文化遺産」として再評価される。収集・記譜が進む一方で、暗い内容は象徴的、文学的なものとして整理されていった。
 
-In the second half of the 20th century, reinterpretation progressed in the context of dark folk, neofolk, and ambient, and mythicity and the idea of ​​life and death came to the fore once again.
+20世紀後半には、ダークフォーク、ネオフォーク、アンビエントなどの文脈で再解釈が進み、神話性や死生観が再び前景化する。
 
-However, many modern reinterpretations do not reproduce past values, but instead refer to the worldview originally held by Scandinavian folk.
+ただし、現代的再解釈の多くは過去の価値観を再現するのではなく、北欧フォークが本来持っていた世界観を参照する行為である。
 
 > The dark mythical nature has not been lost, but has been reinterpreted.
 
 ---
 
-## Structure of Nordic folk dark mythology
+## Structure of Norse folk dark mythology
 
 <div class="mermaid">
 graph TD
-A["Norse mythology"] --> B["Folk beliefs"]
+A["北欧神話"] --> B["民間信仰"]
 B --> C["Ballad"]
 C --> D["Instruments and acoustics"]
-D --> E["Modern reinterpretation"]
+D --> E["近代再解釈"]
 A --> C
 B --> D
 </div>
@@ -139,28 +138,36 @@ B --> D
 
 ---
 
-## Chronology: The intersection of mythology and music
+## 年表：神話と音楽の交差点
 
 <div class="mermaid">
 timeline
-    800 --> ["Establishment of the Norse mythology system"]
-    1100 --> ["Progress of Christianization"]
-    1300 --> ["The Fixation of Ballads"]
-    1800 --> ["Ethnic music collection movement"]
+    800 --> ["北欧神話体系の成立"]
+    1100 --> ["キリスト教化の進行"]
+    1300 --> ["バラッドの定着"]
+    1800 --> ["民族音楽収集運動"]
     1970 --> ["Folk Revival"]
 </div>
 
-> Mythology and music have coexisted, changing their forms with each era.
+> 神話と音楽は時代ごとに形を変えながら共存してきた。
 
 ---
 
-## Conclusion: What is dark mythology?
+## 結論：暗黒神話性とは何か
 
 The dark mythical nature of Nordic folk is not just an ornament to emphasize fear or tragedy. It is a worldview that allows us to face nature and death, time and fate, and a system of knowledge that has been shared through music.
 
-The reason this music continues to be heard today is because its darkness resonates not with the past, but with the uncertainty of the present.
+この音楽が現代においても聴き継がれる理由は、その暗さが過去のものではなく、現在の不確実性とも共鳴するからだろう。
 
 > Nordic folk is music for living together with darkness without denying it.
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F4I-L5tZtcU?si=OOekypz5yhFL8WCG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

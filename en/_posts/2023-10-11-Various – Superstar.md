@@ -12,8 +12,8 @@ title: Various – Superstar
 ---
 
 
-"Various – Superstar" is
-This is a compilation album released by the Jamaican label "Rookie Production".
+「Various – Superstar」は、
+ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
 
 #### Tracklist
 ```md
@@ -42,5 +42,5 @@ B5. Spragga, Lady Saw–Backshot
 B6. Devonte–Sweet Symphony
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
 

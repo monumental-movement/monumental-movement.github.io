@@ -10,21 +10,21 @@ tags:
 - Techno
 - JPop
 - 00s
-title: 石野卓急 – 卡拉 OK 傑克
+title: Takkyu Ishino – Karaokejack
 ---
 
 
-石野卓急於2001年發行個人專輯。第一張限量紙封套CD。
-第九首歌曲《Creatures Of The Night》是與Beroshima共同創作的。
+2001年にリリースされた石野卓球(Takkyu Ishino)のソロアルバム。初回限定紙ジャケCD。
+9曲目「Creatures Of The Night 」は、Beroshimaとの共作。
 
 
-石野卓急 - 卡拉 OK 傑克
+石野卓球 - カラオケジャック
 
-第一批限量版紙護套規格
+初回限定盤　紙ジャケ仕様
 
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Elektronik Go Go Go
 2. Rock Da Beat
@@ -41,7 +41,7 @@ title: 石野卓急 – 卡拉 OK 傑克
 13. Frankenstein's Haus
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

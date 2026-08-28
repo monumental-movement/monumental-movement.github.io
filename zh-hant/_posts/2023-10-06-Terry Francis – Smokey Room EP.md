@@ -9,19 +9,19 @@ permalink: /zh-hant/terry-francis-smokey-room-ep/
 tags:
 - House
 - Tech House
-title: 崔法蘭西斯 – Smokey Room EP
+title: Terry Francis – Smokey Room EP
 ---
 
 
-Terry Francis 是一位英國 DJ 兼製作人，1966 年 7 月 28 日出生於埃普瑟姆。
+Terry Francisは1966年7月28日にEpsomで生まれたイギリスのDJ兼プロデューサーです。
 
-他的職業生涯始於 1988 年，在萊瑟黑德 (Leatherhead) 的漢密爾頓酒吧 (Hamilton's Wine Bar) 共同推廣迷幻屋之夜。同時，他也擔任屋頂工。
+彼のキャリアは、1988年にLeatherheadのHamilton'sワインバーでアシッドハウスのナイトを共同プロモートすることから始まりました。同時に、屋根職人として働いていました。
 
-1990 年，他成為沃辛 Sterns 的常駐 DJ。他也曾在 Swag 唱片公司工作。他也是兩家唱片公司的共同所有者：Eye 4 Sound 和 Wiggle。
+1990年にはWorthingのSternsでレジデントDJとなりました。また、Swag Recordsで働いていたこともあります。彼はEye 4 SoundとWiggleという2つのレコードレーベルの共同オーナーでもありました。
 
-1990 年代中期，他是 Groove Kitchen 和 Wiggle 的發起人和常駐 DJ。他也是 Freaky Disco 的常駐 DJ。此外，他還主持了 Energy 87.9 FM 的節目。
+1990年代中盤、Groove KitchenとWiggleのプロモーターおよびレジデントDJでした。また、Freaky DiscoのレジデントDJでもありました。さらに、Energy 87.9 FMで番組をホストしていた経験もあります。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Believe In Yourself
 
@@ -30,7 +30,7 @@ B1. Love In
 B2. Roll In Life
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m15247506715?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15247506715?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BvsTcXrN3uM?si=1YyEVW0mr14YoSXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

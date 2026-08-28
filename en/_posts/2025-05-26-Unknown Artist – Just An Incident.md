@@ -13,13 +13,13 @@ title: Unknown Artist – Just An Incident / Head, Booty & Beats
 ---
 
 
-Dutch label P Series is an unofficial mashup label that releases bootleg remixes of famous pop and dance tracks.
+オランダのレーベルP Seriesは、有名なポップス&ダンストラックのBootleg(海賊)版remixをリリースしている非公式マッシュアップレーベル。
 
-This record is a techno track released in 2008.
+このレコードは2008年にリリースされたテクノトラック。
 
-Side A is a hard techno mix of Incident (*Incident (Miyagi) released in 2012 is a remake) of Dutch DJ Joris Voorn's "Lost Memories Pt. 2" released in 2004.
+A面は、2004年にリリースされたオランダ出身のDJ Joris Voorn(ヨリス・ヴォーン) 「Lost Memories Pt. 2」のA面Incident(※2012年リリースのIncident (Miyagi)はremake)のハードテクノミックス。
 
-The B-side is a hard mix of 2 Live Crew's "HBC (Head, Booty & Cock)," released in 1988 by the Miami-based hip-hop group 2 Live Crew.
+B面は、マイアミを拠点に活動するヒップホップグループ2 Live Crewが1988年にリリースした2 Live Crewの「HBC(Head,Booty & Cock)」のハードミックス。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ A. Just An Incident
 B. Head, Booty & Beats
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m55864879870?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55864879870?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QQUjK9XSAo8?si=Cbg0Qf3OfEFxiiSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

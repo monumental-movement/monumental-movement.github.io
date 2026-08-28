@@ -12,7 +12,7 @@ title: U2 – Achtung Baby
 ---
 
 
-Achtung Baby is an album in which U2 explores a new musical direction, attempting to deconstruct and reinvent their traditional sound. The album explores new expressions while incorporating electronic elements and dance music influences while retaining U2's signature melodies and emotional lyrics.
+「Achtung Baby」は、U2が新たな音楽的方向性を追求したアルバムであり、従来のサウンドに対する脱構築と再構築を試みています。アルバムは、エレクトロニックな要素やダンスミュージックの影響を取り入れながらも、U2独自のメロディと感情的な歌詞を保ちつつ、新たな表現を追求しています。
 
 "Achtung Baby" includes many hit songs. Examples include "One," "Mysterious Ways," and "Even Better Than the Real Thing." These songs feature unique sounds and strong melodies, along with the album's experimental approach.
 
@@ -43,7 +43,7 @@ B5. Acrobat
 B6. Love Is Blindness
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftjEcrrf7r0?si=NwEq0neJTCT0wwDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

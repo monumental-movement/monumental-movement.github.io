@@ -10,22 +10,22 @@ tags:
 - Disco
 - Synth-Pop
 - 7inch
-title: 激情 - 卑彌呼
+title: Passionata –  Himiko
 ---
 
 
-Passionata的《Himiko》於1979年發行。 Passionata是來自菲律賓的女子三人組合，在日本和世界各地取得了巨大成功。
+Passionata（パッショナータ）の「卑弥呼」は1979年にリリースされました。パッショナータは、フィリピンの女性トリオで、日本をはじめ世界的に大成功を収めました。
 
-女孩們一開始是在菲律賓讀大學時的朋友，並在 1979 年至 1983 年間以三人組的形式表演。
+彼女たちはフィリピンの大学で友達同士として活動を始め、1979年から1983年までトリオとして活躍しました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. 卑弥呼 = Himiko
 
 B. 火星と金星の陰謀 = Venus And Mars
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m47826770015?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47826770015?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kgfze1X5tHk?si=Z7gFZZpi8HGkX1jC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

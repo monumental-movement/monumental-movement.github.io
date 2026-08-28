@@ -11,16 +11,16 @@ tags:
 - Psychedelic Rock
 - Rock
 - 00s
-title: 萌。 – 抖動
+title: Moe. – Dither
 ---
 
 
-Moe 是一支美國即興搖滾樂隊，於 1989 年在布法羅大學成立。
+Moe は、1989年にバッファロー大学で結成されたアメリカのジャムロックバンド。
 
-《Dither》是moe的第五張錄音室專輯。該專輯於 2001 年在樂團自己的廠牌 Fatboy Records 上發行，並由 DJ Logic、Kirk Juhas 和 Nykw-ILL 兄弟合作。
+「Dither」は、moeの5枚目のスタジオアルバム。2001年にバンド自身のレーベルFatboy Recordsからリリースされ、DJ Logic、Kirk Juhas、Nykw-ILL brosが参加している。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Captain America
 2. Faker
@@ -38,7 +38,7 @@ Moe 是一支美國即興搖滾樂隊，於 1989 年在布法羅大學成立。
 12.3. Captain America Remix
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

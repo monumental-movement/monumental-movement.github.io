@@ -47,5 +47,5 @@ D5. Eddie Kendricks – Shoeshine Boy
 D6. Stevie Wonder – Boogie On Reggae Woman
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
 

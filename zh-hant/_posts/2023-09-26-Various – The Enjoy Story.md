@@ -9,26 +9,26 @@ permalink: /zh-hant/various-the-enjoy-story/
 tags:
 - Hiphop
 - Classic
-title: 各種 - 享受！故事
+title: Various – The Enjoy! Story
 ---
 
 
-《Various – The Enjoy! Story》是一張收錄了祖魯民族誕生以來的熱門歌曲的專輯，這是說唱的傑作。
+「Various – The Enjoy! Story」は、ラップの最高傑作 Zulu Nation誕生期のヒッツとして、コンパイルされたアルバムです。
 
-曲目 A2 拼字錯誤：Artist 被錯誤地拼寫為“Grandmaster Flash”，而不是原來的“Grandmaster Flash & The Furious Five”。
+トラック A2 の表記誤り: アーティストが本来の「Grandmaster Flash & The Furious Five」ではなく「Grandmaster Flash」と誤記されています。
 
-曲目 B4 上的歌曲作者錯誤：片尾曲被錯誤地寫為“Treacherous Three”，而不是“Doug E. Fresh”。
+トラック B4 の作詞作曲者誤り: クレジットが本来の「Doug E. Fresh」ではなく「Treacherous Three」と誤記されています。
 
-曲目 B5 上的藝術家錯誤：藝術家被錯誤地寫為“Treacherous Three”，而不是原來的“Treacherous Three with Spoonie Gee”。
+トラック B5 のアーティスト表記誤り: アーティストが本来の「Treacherous Three featuring Spoonie Gee」ではなく「Treacherous Three」と誤記されています。
 
-曲目 B6 的藝術家描述不正確：該藝術家被標記為“Funky Four & One”，而不是原來的“Funky 4 + 1”。
+トラック B6 のアーティスト表記誤り: アーティストが本来の「Funky 4 + 1」ではなく「Funky Four & One」とレーベル表記されています。
 
-以下歌曲也作為附贈曲目包含在內，但未包含在 CD 中。
+また、ボーナス・トラックとして以下の曲が収録されていますが、CDには含まれていません。
 
-曲目 B5 至 B6
-曲目 D6 至 D9
+トラック B5 から B6　
+トラック D6 から D9
 
-#### 曲目表
+#### Tracklist
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -66,7 +66,7 @@ D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

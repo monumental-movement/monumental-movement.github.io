@@ -9,19 +9,19 @@ permalink: /zh-hant/craig-alexander-the-exhibit-a-ep/
 tags:
 - House
 - Deep House
-title: 克雷格亞歷山大 - EP 展覽
+title: Craig Alexander - The Exhibit A EP
 ---
 
 
-克雷格·亞歷山大 (Craig Alexander) 30 多年來一直是芝加哥 house 音樂界的常客。
+クレイグ・アレキサンダーは、シカゴハウスミュージック界で30年以上のキャリアを築いてきた重要な存在です。
 
-我對音樂的熱愛始於 80 年代初，當時我第一次聽到傳奇人物 Ron Hardy 演奏的「音樂盒」(The Music Box) 音樂。聽羅恩的演奏後，他形成了一種獨特的風格，震撼了世界各地的舞池。
+音楽への愛は80年代初頭に始まり、伝説的なロン・ハーディがプレイする「ザ・ミュージック・ボックス」で初めてその音楽を聴きました。ロンのプレイを聴くことで、彼は独自のスタイルを確立し、そのスタイルは世界中のダンスフロアを揺り動かしてきました。
 
-他一開始在傳奇俱樂部 AKA's 與 Ron Hardy 一起宣傳派對，但很快他自己就開始擔任唱片騎師，許多聽過他作品的人開始為他提供頭條演出。
+彼は当初、伝説的なクラブ「AKA's」でロン・ハーディと共にパーティをプロモートしていましたが、やがて自身がディスクジョッキーとして出演し始め、そのセットを聴いた多くの人々からヘッドライナーとしての出演オファーを受けるようになりました。
 
-他曾與許多藝術家合作，包括 Glenn Underground、Paul Johnson、DJ Rush、Lil Louis 和 Thomas Bangalter（Daft Punk）。他的音樂之旅帶他去了許多不同的國家，包括法國、瑞士和德國。此外，他於2012年重新推出了「Oblique Records Digital」。
+彼はこれまでに、Glenn Underground、Paul Johnson、DJ Rush、Lil Louis、Thomas Bangalter（Daft Punk）など、多くのアーティストと共演してきました。音楽の旅はフランス、スイス、ドイツなど、さまざまな国々に連れて行きました。また、彼は2012年に「Oblique Records Digital」を再び立ち上げました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Breath
 
@@ -30,7 +30,7 @@ B1. Do Your Thang
 B2. Elektro Ride
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6P3VBDl_zb8?si=WFgI1x9rGkzsocVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

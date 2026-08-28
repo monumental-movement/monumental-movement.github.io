@@ -10,59 +10,59 @@ tags:
 - Québec
 - Folk Rock
 - Alternative Rock
-title: '[Column] Les Colocs ─ Music as a community born from the streets of Quebec'
+title: 【コラム】 Les Colocs ─ ケベックの路上から生まれた、共同体としての音楽
 ---
 
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: Tracing the history, social background, musicality, member changes, and cultural influence of Les Colocs, a band that gained explosive popularity in Quebec in the 1990s.
+文：mmr｜テーマ：1990年代ケベックで爆発的支持を得たバンド Les Colocsの歴史、社会背景、音楽性、メンバー変遷、文化的影響をたどる
 
-Quebec, Canada in the 1990s.
-Youth culture in the French-speaking world was at a major turning point.
+1990年代のカナダ・ケベック州。
+フランス語圏の若者文化は、大きな転換期を迎えていた。
 
-Expansion of MTV culture.
-Grunge trend.
-Penetration of American pop culture.
-On the other hand, there was always the issue of how to protect Quebec's unique linguistic sense and regional culture.
+MTV文化の拡大。
+グランジの流行。
+アメリカ的ポップカルチャーの浸透。
+その一方で、ケベック独自の言語感覚や地域文化をどう守るかという問題も、常に存在していた。
 
-It was during this time that Les Colocs appeared.
+そんな時代に現れたのが Les Colocs だった。
 
-They're not just a rock band.
+彼らは単なるロックバンドではない。
 
-It has the smell of the street,
-With a folk narrative,
-Incorporating the rhythms of African music,
-absorbing immigrant culture,
-It sang about the pain of Quebec society.
+ストリートの匂いを持ち、
+フォークの物語性を持ち、
+アフリカ音楽のリズムを取り込み、
+移民文化を吸収し、
+ケベック社会の痛みを歌った。
 
-Moreover, it doesn't sound preachy,
-It rang out with humor, enthusiasm, and a sense of celebration.
+しかも、それを説教臭くなく、
+ユーモアと熱狂と祝祭感の中で鳴らした。
 
-Les Colocs' music has an air of ""communal life" rather than ""band."
+Les Colocs の音楽には、「バンド」というより「共同生活」の空気がある。
 
-In fact, the band's name "Colocs" is Quebecois-French slang for "roommate."
+実際、バンド名の “Colocs” は「ルームメイト」を意味するケベック・フランス語の俗語である。
 
-Their works include
-urban solitude,
-poverty,
-addiction,
-worker culture,
-multi-ethnic society,
-language identity,
-And the tenacity for survival itself is engraved.
+彼らの作品には、
+都市の孤独、
+貧困、
+依存症、
+労働者文化、
+多民族社会、
+言語アイデンティティ、
+そして生き延びること自体への執念が刻まれている。
 
-However, the music does not end darkly.
+それでも音楽は暗く終わらない。
 
-I can dance.
-It's funny.
-I can scream.
-We can sing together.
+踊れる。
+笑える。
+叫べる。
+一緒に歌える。
 
-Les Colocs was not ""music of people with social problems," but ""music that embraced society itself."
+Les Colocs は、「社会問題を抱えた人々の音楽」ではなく、「社会そのものを抱え込んだ音楽」だったのである。
 
-> Les Colocs was a microcosm of Quebec society in the form of a celebratory rock band.
+> Les Colocs はケベック社会の縮図を、祝祭的ロックバンドという形で鳴らした存在だった。
 
 
 
@@ -73,7 +73,7 @@ Les Colocs was not ""music of people with social problems," but ""music that emb
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -82,343 +82,343 @@ color: #fff;
 </style>
 
 
-## The special musical region of Quebec
+## ケベックという特殊な音楽圏
 
-### Quebec as a French-speaking region
+### フランス語文化圏としてのケベック
 
-To understand Les Colocs, you first need to know Quebec culture.
+Les Colocs を理解するには、まずケベック文化を知る必要がある。
 
-Within Canada,
-Quebec is an overwhelmingly unique region.
+カナダ国内において、
+ケベック州は圧倒的に独自性の強い地域である。
 
-Main language is French.
-The cultural area is also different from English-speaking Canada.
+主言語はフランス語。
+文化圏も英語圏カナダとは異なる。
 
-Since the "quiet revolution" (Révolution tranquille) of the 1960s,
-Secularization and the formation of a national identity progressed rapidly in Quebec.
+1960年代の「静かな革命（Révolution tranquille）」以降、
+ケベックでは世俗化とナショナル・アイデンティティ形成が急速に進んだ。
 
-Music was no exception.
+音楽も例外ではなかった。
 
-Quebec's singer-songwriter culture
-french chanson,
-north american fork,
-celtic music,
-labor songs,
-It was formed by a unique mixture of local folk songs.
+ケベックのシンガーソングライター文化は、
+フランスのシャンソン、
+北米フォーク、
+ケルト音楽、
+労働歌、
+地方民謡などが独自に混ざり合って形成されていく。
 
-In the 1970s, progressive folk bands such as Harmonium gained popularity,
-In the 1980s, rock and pop became mainstream.
+1970年代には Harmonium などのプログレッシブ・フォーク勢が人気を獲得し、
+1980年代にはロックとポップが主流化。
 
-In this trend, in the 1990s,
-A new generation of omnivorous bands is emerging from urban Montreal.
+その流れの中で1990年代、
+都市部モントリオールから新世代の雑食型バンド群が登場する。
 
-Les Colocs was a prime example of this.
+Les Colocs はその代表格だった。
 
-### The mixed city of Montreal
+### モントリオールという混交都市
 
-Montreal is
-It is known as one of the most culturally mixed cities in North America.
+モントリオールは、
+北米でも特に文化混交性の強い都市として知られる。
 
-French speaking area.
-English speaking area.
-Haitian immigrants.
-African community.
-Arab.
-Latin.
+フランス語圏。
+英語圏。
+ハイチ系移民。
+アフリカ系コミュニティ。
+アラブ系。
+ラテン系。
 
-Each culture is mixed.
+それぞれの文化が混在する。
 
-The natural presence of African rhythms, reggae, and blues in Les Colocs' music is largely influenced by this urban environment.
+Les Colocs の音楽にアフリカン・リズムやレゲエ、ブルースが自然に存在するのは、この都市環境の影響が大きい。
 
 <div class="mermaid">
 graph TD
-A["French culture"] --> E["Les Colocs"]
-B["North American Folk"] --> E
-C["African music"] --> E
-D["Urban street culture"] --> E
-F["Immigrant community"] --> E
-G["Blues/Rock"] --> E
+A["フランス語文化"] --> E["Les Colocs"]
+B["北米フォーク"] --> E
+C["アフリカ音楽"] --> E
+D["都市ストリート文化"] --> E
+F["移民コミュニティ"] --> E
+G["ブルース/ロック"] --> E
 </div>
 
-### Importance of Quebec French
+### ケベック・フランス語の重要性
 
-The lyrics of Les Colocs are:
-Not just standard French.
+Les Colocs の歌詞は、
+標準フランス語だけではない。
 
-Quebec's unique spoken language
-slang,
-Contains a lot of working class language.
+ケベック独自の話し言葉、
+スラング、
+労働者階級の言い回しが大量に含まれる。
 
-This is not just a language style.
+これは単なる言語スタイルではない。
 
-"In whose language will you sing?"
-It was a cultural choice.
+「誰の言葉で歌うか」
+という文化的選択だった。
 
-While surrounded by English-speaking pop culture,
-We dare to bring the sense of local language to the fore.
+英語圏ポップ文化に囲まれながら、
+あえてローカル言語感覚を前面化する。
 
-The popularity of Les Colocs is
-It was also a phenomenon in which Quebecers reaffirmed their ""voice.''
+Les Colocs の人気は、
+ケベック人が「自分たちの声」を再確認した現象でもあった。
 
-> Les Colocs" music reflected the complexity of Quebec"s local culture.
-
----
-
-## Before Formation ─ Background of André "Dédé" Fortin
-
-### Dédé Fortin's childhood
-
-The central figure of the band is André "Dédé" Fortin.
-
-Born in 1962 in Normandin, Quebec.
-
-Despite being from a local area,
-Later moved to Montreal.
-
-In his sense,
-A sense of solidarity among local communities,
-Both the loneliness of city life were present.
-
-This is directly connected to the worldview of Les Colocs later.
-
-### Street sense and theatricality
-
-Dédé Fortin is
-He wasn't just a singer.
-
-He had a strong sense of theater.
-
-At the live,
-comical movements,
-exaggeration,
-Makes extensive use of direct communication with the audience.
-
-On the other hand,
-There are deep social observations in the lyrics.
-
-In other words, he
-He was simultaneously a ""clown" and a ""social observer."
-
-### Activities in Montreal
-
-At the end of the 1980s,
-In the Montreal music scene,
-DIY band culture was expanding.
-
-Rather than being led by major industries,
-live house,
-bar,
-co-living community,
-A scene was forming out of street culture.
-
-Les Colocs is
-That's exactly where it came from.
-
-### Meaning of band name
-
-"Les Colocs" is "housemates."
-
-This name is symbolic.
-
-In their music,
-From perfect professionalism,
-There is a chaotic heat of communal living.
-
-The musicality is also not too unified.
-
-Rather, it is miscellaneous,
-The friction in human relationships itself is turned into energy.
-
-> At the heart of Les Colocs was a sense of musicalizing the chaos of communal life.
+> Les Colocs の音楽は、ケベックという地域文化の複雑さそのものを映していた。
 
 ---
 
-## Formation and initial activities of Les Colocs
+## 結成以前 ─ André “Dédé” Fortin の背景
 
-### Formed around 1990
+### Dédé Fortin の幼少期
 
-Les Colocs started in earnest around 1990.
+バンドの中心人物は André “Dédé” Fortin。
 
-Initial members include:
+1962年、ケベック州ノルマンダン生まれ。
 
--André "Dédé" Fortin
+地方出身でありながら、
+後にモントリオールへ移住する。
+
+彼の感覚には、
+地方コミュニティの連帯感と、
+都市生活の孤独感の両方が存在していた。
+
+これは後の Les Colocs の世界観に直結する。
+
+### ストリート感覚と演劇性
+
+Dédé Fortin は、
+単なるシンガーではなかった。
+
+彼には演劇的感覚が強くあった。
+
+ライブでは、
+コミカルな動き、
+誇張表現、
+観客との直接的コミュニケーションを多用する。
+
+その一方で、
+歌詞には深い社会観察がある。
+
+つまり彼は、
+「道化師」と「社会観察者」を同時に担っていた。
+
+### モントリオールでの活動
+
+1980年代末、
+モントリオールの音楽シーンでは、
+DIY的バンド文化が拡大していた。
+
+大手産業主導というより、
+ライブハウス、
+バー、
+共同生活コミュニティ、
+ストリート文化からシーンが形成されていた。
+
+Les Colocs は、
+まさにそこから生まれた。
+
+### バンド名の意味
+
+“Les Colocs” は「同居人たち」。
+
+この名前は象徴的である。
+
+彼らの音楽には、
+完璧なプロフェッショナル性より、
+共同生活の雑然とした熱量がある。
+
+音楽性も統一されすぎていない。
+
+むしろ雑多で、
+人間関係の摩擦そのものがエネルギー化されている。
+
+> Les Colocs の核心には、共同生活の混沌を音楽化する感覚があった。
+
+---
+
+## Les Colocs の結成と初期活動
+
+### 1990年前後の結成
+
+Les Colocs は1990年頃に本格始動する。
+
+初期メンバーには以下が含まれる。
+
+- André “Dédé” Fortin
 - Patrick Esposito Di Napoli
--Mike Sawatzky
+- Mike Sawatzky
 - Serge Robert
-- Jimmy Bourgoing et al.
+- Jimmy Bourgoing ほか
 
-The member composition is not fixed,
-It changes depending on the time.
+メンバー構成は固定的ではなく、
+時期によって変動していく。
 
-### Street sensation and live popularity
+### 路上感覚とライブ人気
 
-The early Les Colocs were
-Their support rapidly expanded through live shows.
+初期の Les Colocs は、
+ライブで急速に支持を拡大した。
 
-The reason was clear.
+理由は明快だった。
 
-The live performance was unusually strong.
+異常にライブが強かったのである。
 
-Audience participation type.
-Chorus.
-dance.
-chaos.
-Laughter.
-Improvisation.
+観客参加型。
+合唱。
+ダンス。
+混沌。
+笑い。
+即興。
 
-At their live,
-Punk DIY spirit and
-A celebratory folk culture coexisted.
+彼らのライブには、
+パンク的DIY精神と、
+祝祭型フォーク文化が共存していた。
 
-### Presence of Patrick Esposito Di Napoli
+### Patrick Esposito Di Napoli の存在
 
-Harmonica player Patrick Esposito Di Napoli
-He was an important figure in the early days of the band.
+ハーモニカ奏者 Patrick Esposito Di Napoli は、
+バンド初期の重要人物である。
 
-Has Haitian roots,
-He brought a multicultural sensibility to Les Colocs.
+ハイチ系ルーツを持ち、
+Les Colocs に多文化的感覚を持ち込んだ。
 
-his harmonica,
-It's also blues-like,
-It also sounds like immigrant music,
-It also had a street feel to it.
+彼のハーモニカは、
+ブルース的でもあり、
+移民音楽的でもあり、
+ストリート感覚そのものでもあった。
 
-His presence is
-This will determine the future direction of the band.
+彼の存在は、
+後のバンド方向性を決定づける。
 
 <div class="mermaid">
 flowchart TD
-A["fork"] --> D["Les Colocs early sounds"]
-B["Blues"] --> D
-C["Immigrant culture"] --> D
-E["Street theatricality"] --> D
-F["Punk DIY spirit"] --> D
+A["フォーク"] --> D["Les Colocs 初期サウンド"]
+B["ブルース"] --> D
+C["移民文化"] --> D
+E["ストリート演劇性"] --> D
+F["パンクDIY精神"] --> D
 </div>
 
-> Early Les Colocs prioritized a sense of live community over a unified genre.
+> 初期 Les Colocs は、ジャンル統一よりライブ共同体感覚を優先していた。
 
 ---
 
-## Debut album and mass popularity
+## デビューアルバムと大衆的人気
 
-### "Les Colocs" (1993)
+### 『Les Colocs』（1993）
 
-1993,
-Released self-titled work "Les Colocs".
+1993年、
+セルフタイトル作『Les Colocs』を発表。
 
-With this work,
-They quickly become known throughout Quebec.
+この作品によって、
+彼らはケベック全域で一気に知られる存在となる。
 
-Representative songs include:
+代表曲には以下が含まれる。
 
-- "La rue principale"
-- "Mauvais caractère"
--"Julie"
+- “La rue principale”
+- “Mauvais caractère”
+- “Julie”
 
-### The shock of "La rue principale"
+### 「La rue principale」の衝撃
 
-"La rue principale" is
-It is known as a song that deals with the decline of rural areas.
+“La rue principale” は、
+地方衰退を扱った楽曲として知られる。
 
-Outflow of young people.
-Stagnation of the local economy.
+若者流出。
+地域経済の停滞。
 Hollowing.
 
-This was the reality of rural Quebec society in the 1990s.
+これは1990年代ケベック地方社会の現実だった。
 
-However, the song does not end with mere pessimism.
+しかし楽曲は単なる悲観では終わらない。
 
-Nostalgia and anger
-And attachment exists at the same time.
+ノスタルジーと怒り、
+そして愛着が同時に存在する。
 
-### Connection with Quebec society
+### ケベック社会との接続
 
 One of the reasons why Les Colocs was widely supported was because
-Rather than abstracting social issues,
-The point was to portray him as a specific person.
+社会問題を抽象化せず、
+具体的人物として描いた点だった。
 
-city.
-Bar.
-Unemployed.
-friend.
+街。
+酒場。
+失業者。
+友人。
 addiction.
-laborer.
+労働者。
 
-Their lyrics have a "face".
+彼らの歌詞には「顔」がある。
 
-This created a strong connection with the audience.
+それが聴衆との強い接続を生んだ。
 
-### Commercial success and heterogeneity
+### 商業成功と異質性
 
-What is interesting is that
-While Les Colocs gained mass popularity,
-At the same time, it was extremely different.
+興味深いのは、
+Les Colocs が大衆的人気を獲得しながら、
+同時に極めて異質だった点である。
 
-It's not even radio friendly pop.
-It's not typical rock either.
-It's not even world music.
+ラジオ向けポップでもない。
+典型的ロックでもない。
+ワールドミュージックでもない。
 
 Still, it was widely loved.
 
-this is,
+これは、
 It was also because Quebec society wanted ""its own story.''
 
-> Les Colocs created mass enthusiasm while portraying local reality.
+> Les Colocs はローカルな現実を描きながら、大衆的熱狂を生み出した。
 
 ---
 
-## Death and turning point of Patrick Esposito Di Napoli
+## Patrick Esposito Di Napoli の死と転換期
 
-### Death due to AIDS
+### エイズによる死
 
-1994,
-Patrick Esposito Di Napoli dies from AIDS-related complications.
+1994年、
+Patrick Esposito Di Napoli がエイズ関連合併症で死去。
 
-This was a decisive event for the band.
+これはバンドにとって決定的出来事だった。
 
-at that time,
-AIDS was still the subject of strong prejudice and fear.
+当時、
+エイズはまだ強い偏見と恐怖の対象でもあった。
 
-Les Colocs is
-I didn't hide this problem.
+Les Colocs は、
+この問題を隠蔽しなかった。
 
-Rather,
-Death and illness were viewed as communal issues.
+むしろ、
+死や病を共同体の問題として受け止めた。
 
-### "Dehors Novembre"
+### 「Dehors Novembre」
 
-After Patrick's death,
-The band produces "Dehors Novembre".
+Patrick の死後、
+バンドは “Dehors Novembre” を制作する。
 
-This song is
-It has become one of the most special works in the history of Quebec music.
+この曲は、
+ケベック音楽史でも特別視される作品の一つとなった。
 
-While dealing with death,
-It's quiet,
-poetic,
-have deep feelings.
+死を扱いながら、
+静かで、
+詩的で、
+深い感情を持つ。
 
-Not sensational.
+センセーショナルではない。
 
-Rather,
-It sounds like a conversation with the dead.
+むしろ、
+死者との対話のように響く。
 
-### Deepening social themes
+### 社会的テーマの深化
 
-After this period,
-Les Colocs' lyrics take on a deeper social depth.
+この時期以降、
+Les Colocs の歌詞はより社会的深度を増していく。
 
-poverty.
-Loneliness.
-drag.
-suicide.
-Urban alienation.
+貧困。
+孤独。
+ドラッグ。
+自殺。
+都市疎外。
 
-but,
+しかし、
 完全な絶望には向かわない。
 
-The music itself is rather rhythmically expanded;
-African music and percussion elements become stronger.
+音楽自体はむしろリズム的に拡張され、
+アフリカ音楽やパーカッション要素が強まっていく。
 
 <div class="mermaid">
 timeline
@@ -429,247 +429,247 @@ timeline
     1995 : 社会的テーマが深化
 </div>
 
-> The death of Patrick Esposito Di Napoli has significantly changed the mentality of Les Colocs.
+> Patrick Esposito Di Napoli の死は、Les Colocs の精神性を大きく変化させた。
 
 ---
 
-## "Atrocetomique" and musical expansion
+## 『Atrocetomique』と音楽的拡張
 
-### Important works of 1995
+### 1995年の重要作
 
-1995,
-Announcement of ""Atrocetomique''.
+1995年、
+『Atrocetomique』を発表。
 
-This work is
-This is one of the albums where Les Colocs' musical expansion is most evident.
+この作品は、
+Les Colocs の音楽的拡張が最も顕著に現れたアルバムの一つである。
 
-### Fusion with African music
+### アフリカ音楽との融合
 
-Especially important is the rhythm aspect.
+特に重要なのはリズム面である。
 
-West African politics.
-percussion.
-collective chorus.
+西アフリカ的ポリリズム。
+パーカッション。
+集団コーラス。
 
-These were naturally fused into rock.
+これらがロックに自然に融合された。
 
-As North American rock at the time,
-It was quite unique.
+当時の北米ロックとしては、
+かなり独特だった。
 
-### Social criticism
+### 社会批評性
 
 歌詞面では、
-Attention to urban issues and social disparities will become even stronger.
+都市問題や社会格差への視線がさらに強まる。
 
-Dédé Fortin's lyrics are:
-It's not journalism.
+Dédé Fortin の歌詞は、
+ジャーナリズムではない。
 
-However, his powers of observation are very sharp.
+しかし観察力が非常に鋭い。
 
-"Who is abandoned?"
-was always watching.
+「誰が見捨てられているか」
+を常に見つめていた。
 
-### Humor and tragedy
+### ユーモアと悲劇性
 
-Les Colocs features:
-It was important not to limit it to just a tragedy.
+Les Colocs の特徴は、
+悲劇だけに閉じないことだった。
 
-There is always laughter and sarcasm mixed into the songs.
+曲中には必ず笑いや皮肉が混ざる。
 
-This feeling is
-It is also connected to the black humor unique to Quebec culture.
+この感覚は、
+ケベック文化特有のブラックユーモアとも結びついている。
 
-> Les Colocs had the power to transform social heaviness into danceable music.
+> Les Colocs は社会的重さを、踊れる音楽へ変換する力を持っていた。
 
 ---
 
-## "Dehors Novembre" and the world of internalization
+## 『Dehors Novembre』と内面化する世界
 
 ### Works from 1998
 
-1998,
+1998年、
 ""Dehors Novembre'' released.
 
-This work is
-darker,
-More introspective.
+この作品は、
+より暗く、
+より内省的である。
 
 ### Mental exhaustion
 
-During this period,
-It has also been pointed out that Dédé Fortin's own mental state has deteriorated.
+この時期、
+Dédé Fortin 自身の精神状態悪化も指摘されている。
 
-The work includes
-feeling of fatigue,
-loneliness,
-Fear of self-destruction pervades.
+作品には、
+疲労感、
+孤独、
+自己崩壊への恐れが滲む。
 
-But the music is still beautiful.
+しかし音楽は依然として美しい。
 
-### Relationship with Quebec society
+### ケベック社会との関係
 
-Late 1990s,
+1990年代後半、
 Quebec society was also changing.
 
-Stagnation of the independence movement.
-Economic anxiety.
-Urbanization.
+独立運動の停滞。
+経済的不安。
+都市化。
 
 The works of Les Colocs are
-It was in sync with this sense of the times.
+こうした時代感覚とも同期していた。
 
-### "Tassez-vous de d'là"
+### 「Tassez-vous de d'là」
 
-One of the representative songs of this period, "Tassez-vous de d'là",
-It is known as a song where chaos and energy coexist.
+この時期の代表曲の一つ “Tassez-vous de d'là” は、
+混沌とエネルギーが共存する楽曲として知られる。
 
-Street feel.
-congestion.
-city ​​life.
+ストリート感覚。
+混雑。
+都市生活。
 anger.
 
-They swirl at high speed.
+それらが高速で渦巻く。
 
-> In ""Dehors Novembre'', the exhaustion behind the celebratory atmosphere came to the fore.
+> 『Dehors Novembre』では、祝祭感の裏側にある疲弊が強く表面化した。
 
 ---
 
-## Death of Dédé Fortin
+## Dédé Fortin の死
 
-### Tragedy of 2000
+### 2000年の悲劇
 
-2000,
+2000年、
 André "Dédé" Fortin took his own life.
 
-He was 38 years old.
+38歳だった。
 
-This event is
-It shocked the entire Quebec cultural community.
+この出来事は、
+ケベック文化界全体に衝撃を与えた。
 
-### Dédé as a national figure
+### 国民的存在としての Dédé
 
-Dédé was more than just a rock star.
+Dédé は単なるロックスターではなかった。
 
-he,
-He was seen as representing "ordinary people in Quebec."
+彼は、
+「ケベックの普通の人々」を代弁する存在として受け止められていた。
 
-That's why,
-His death was of great significance.
+だからこそ、
+彼の死は極めて大きな意味を持った。
 
-### Post-mortem evaluation
+### 死後の評価
 
-After death,
-Les Colocs was mythologised.
+死後、
+Les Colocs は神話化された。
 
-But the important thing is
-It's not just tragic.
+しかし重要なのは、
+単なる悲劇性だけではない。
 
-Their music is still being listened to today.
+彼らの音楽は現在でも実際に聴かれ続けている。
 
-live culture.
-choral culture.
-Regional culture.
+ライブ文化。
+合唱文化。
+地域文化。
 
-Because it is connected to all of them.
+そのすべてに接続しているからである。
 
 <div class="mermaid">
 graph TD
-A["folk community"] --> D["The Legacy of Les Colocs"]
-B["Social Criticism"] --> D
-C["Multiculturalism"] --> D
+A["フォーク共同体"] --> D["Les Colocs の遺産"]
+B["社会批評"] --> D
+C["多文化性"] --> D
 E["Quebec Culture"] --> D
-F["Live community"] --> D
+F["ライブ共同体"] --> D
 </div>
 
-> Even after Dédé Fortin's death, the music of Les Colocs remained a collective memory.
+> Dédé Fortin の死後も、Les Colocs の音楽は共同体的記憶として残り続けた。
 
 ---
 
-## Musical characteristics of Les Colocs
+## Les Colocs の音楽的特徴
 
-### Cross-genre
+### ジャンル横断性
 
-Les Colocs is difficult to classify.
+Les Colocs は分類が難しい。
 
 - folk rock
-- alternative rock
-- world music
-- blues
-- Reggae
+- オルタナティブロック
+- ワールドミュージック
+- ブルース
+- レゲエ
 - chanson
-- percussion music
+- パーカッション音楽
 
 These exist simultaneously.
 
-### Chorus Culture
+### コーラス文化
 
-in their music,
-A collective chorus is very important.
+彼らの音楽では、
+集団コーラスが非常に重要である。
 
-This is not just a decoration.
+これは単なる装飾ではない。
 
 "I don't sing alone"
-This idea is close to that.
+という思想に近い。
 
-### Emphasis on rhythm
+### リズム重視
 
-A key element of Les Colocs is rhythm.
+Les Colocs の重要要素はリズムである。
 
-Not only the typical 4 beat of North American rock,
-Uses a lot of circular grooves.
+北米ロックの典型的4ビートだけではなく、
+循環型グルーヴを多用する。
 
 This led to a sense of elation during the live performance.
 
-### Storytelling
+### ストーリーテリング
 
-The lyrics often describe specific characters.
+歌詞は具体的人物描写が多い。
 
 From abstract thought,
-Draw portraits of people on street corners.
+街角の人物像を描く。
 
-This ties in with the folk tradition.
+これはフォーク的伝統とも結びつく。
 
 > Les Colocs has translated the musical mixture of the multicultural city of Montreal into sound.
 
 ---
 
-## Influence on Quebec culture
+## ケベック文化への影響
 
-### Impact on subsequent generations
+### 後続世代への影響
 
 Les Colocs is
-He had a great influence on later Quebec musicians.
+後のケベック音楽家たちに大きな影響を与えた。
 
-The following points were particularly important.
+特に以下の点で重要だった。
 
-- Local language expression
-- Multicultural fusion
+- ローカル言語表現
+- 多文化融合
 - Connection to social issues
-- Live community
+- ライブ共同体性
 
-### Redefining "Quebec-ness"
+### 「ケベックらしさ」の再定義
 
-Before them,
-Is "Quebec music" relatively folk-oriented?
+彼ら以前、
+「ケベック音楽」は比較的フォーク寄りか、
 Or, there was also an image that had a strong French chanson feel.
 
-Les Colocs is there.
-It brought with it an urban hybridity.
+Les Colocs はそこに、
+都市雑種性を持ち込んだ。
 
-### Continued popularity
+### 現在も続く人気
 
-Even now, Les Colocs' songs are
-It is widely popular in Quebec.
+現在でも Les Colocs の楽曲は、
+ケベックで広く親しまれている。
 
 Many songs are sung across generations.
 
 There is a strong choral culture, especially at live concerts and local events.
 
-> Les Colocs expanded Quebec music from a ""regional culture" to an ""urban mixed culture."
+> Les Colocs はケベック音楽を「地域文化」から「都市混交文化」へ拡張した。
 
 ---
 
-## Chronology
+## 年表
 
 <div class="mermaid">
 timeline
@@ -685,58 +685,58 @@ timeline
 
 ---
 
-## Discography overview
+## ディスコグラフィ概観
 
-| Year | Works | Features |
+| 年 | 作品 | 特徴 |
 |---|---|---|
-| 1993 | Les Colocs | Early masterpieces |
+| 1993 | Les Colocs | 初期代表作 |
 | 1995 | Atrocetomique | Expansion of African musical colors |
-| 1998 | Dehors Novembre | Introspective and profound work |
+| 1998 | Dehors Novembre | 内省的・重厚な作品 |
 
-> Over time, Les Colocs' works shifted from a celebratory style to a reflective style.
+> Les Colocs の作品群は、時代と共に祝祭性から内省性へ移行していった。
 
 ---
 
-## Why Les Colocs remains special
+## なぜ Les Colocs は今も特別なのか
 
-What makes Les Colocs so special is that
-Not "perfect music"
-The point is that it is ""living music.''
+Les Colocs の特別さは、
+「完璧な音楽」ではなく、
+「生きている音楽」である点にある。
 
-It's cluttered.
-Rough.
-Unstable at times.
+雑然としている。
+荒々しい。
+時に不安定。
 
-But there,
-There is a community reality.
+しかしそこに、
+共同体のリアルがある。
 
-They are
-They followed a path different from the success model of North American commercial rock.
+彼らは、
+北米商業ロックの成功モデルとは異なる道を歩いた。
 
-Without hiding the locality,
+地方性を隠さず、
 using dialect,
-Accepting immigrant culture
-He sang about social issues.
+移民文化を受け入れ、
+社会問題を歌った。
 
-And that,
-It was sounded as a celebration, not a sermon.
+しかもそれを、
+説教ではなく祝祭として鳴らした。
 
-That is the reason why it is still listened to today.
+それが今も聴き継がれる理由である。
 
-The music of Les Colocs includes
-There is a sense of ""we will survive together.''
+Les Colocs の音楽には、
+「一緒に生き延びる」という感覚がある。
 
-That's why,
-They didn"t end up just being a 90"s band.
+だからこそ、
+彼らは単なる90年代バンドとして終わらなかった。
 
-> Les Colocs was a rare band whose sound encompassed community, city, language, and pain.
+> Les Colocs は、共同体・都市・言語・痛みを丸ごと抱え込みながら鳴った稀有なバンドだった。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7wg5r1S2r8?si=Lvqe2v7JT0hQTqav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

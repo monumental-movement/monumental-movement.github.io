@@ -9,13 +9,13 @@ permalink: /zh-hant/dj-guy-incendiary-ep/
 tags:
 - Electro
 - Ghetto House
-title: DJ Guy – 燃燒 EP
+title: DJ Guy – Incendiary EP
 ---
 
 
-DJ Guy 是一位駐倫敦的 DJ，也是 Global Fire 廠牌的製作人和所有者，該廠牌專注於底特律的戰利品和芝加哥的 Ghetto House。
+DJ Guyは、ロンドンを拠点とする DJ 兼プロデューサーであり、Detroit booty（デトロイト・ブーティー）やChicago Ghetto House （シカゴゲットー ハウス）専門のGlobal Fireレーベルのオーナー。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Bucked Up
 
@@ -28,7 +28,7 @@ B1. The Runner
 B2. Big Pussy
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m63316031415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63316031415?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6whpy410kOw?si=Gu279jSiWY_dZ7bf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

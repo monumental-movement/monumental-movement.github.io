@@ -10,14 +10,14 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: VA – 柔和的節拍、精神和智慧
+title: VA – Mellow Beats, Spirits & Wisdom
 ---
 
 
-P-Vine 唱片公司於 2008 年發行
-由橋本徹挑選並監修的爵士樂和醇厚的HIPHOP合輯。
+2008年にP-Vine Recordsからリリースされた
+橋本徹選曲・監修のジャジー&メロウなHIPHOPコンピレーション・アルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Carlos Niño & Lil' Sci – Freedom
 2. SP – Movin' Along
@@ -40,7 +40,7 @@ P-Vine 唱片公司於 2008 年發行
 19. Noel Zancanella – Lovely
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

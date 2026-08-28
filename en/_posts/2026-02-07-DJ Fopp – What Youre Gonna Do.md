@@ -26,7 +26,7 @@ B1. What You're Gonna Do (Tom Club Version)
 B2. What You're Gonna Do (Lowering Version)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m76238024103?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76238024103?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Slrz_4pImRE?si=3k-gZt0SQFZzwRL2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,9 +12,9 @@ title: Southern All Stars - Stereo Taiyo-Zoku
 ---
 
 
-"Stereo Taiyozoku" is the fourth original album by Southern All Stars. Original version from 1981.
+「ステレオ太陽族」は、サザンオールスターズの4枚目のオリジナル・アルバム。 1981年のオリジナル盤。
 
-Participating musicians
+参加ミュージシャン
 Keisuke Kuwata, Takashi Omori, Yuko Hara, Kazuyuki Sekiguchi, Hiroshi Matsuda, Hideyuki Nozawa, Junichi Kanezaki, Ryuichiro Senoo, EVE, Linda, Jake Concepcion, etc.
 
 #### Tracklist

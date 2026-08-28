@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - 00s
-title: Chew-Fu Phat – Why Can"t We Change
+title: Chew-Fu Phat – Why Can't We Change
 ---
 
 
-Chew Fu, also known as Chew-Fu Phat, is a Dutch-born producer/remixer/DJ based in New York. He has also created official remixes for pop artists such as Lady Gaga, Rihanna, Timbaland, Far East Movement, and Robin.
+Chew-Fu Phat ことChew Fuは、オランダ出身、NYを拠点に活動するプロデューサー／リミキサー／DJ。レディー・ガガ、リアーナ、ティンバランド、ファー・イースト・ムーブメント、ロビンなどPopアーティストのオフィシャルremixも手掛けている。
 
-Chew Fu's original style is a mix of electro house and hip hop. His other names include DJ Mac Attack, Pay Tur P.K., and Phantom 309.
+Chew Fuは、エレクトロ・ハウスとヒップホップをミックスさせたオリジナルスタイルが特徴。別名義で、DJ Mac Attack, Pay Tur P.K., Phantom 309などがある。
 
-"Why Can't We Change" is a House track released on the Dutch label Bomboza in 2005.
+「Why Can't We Change」は、2005年にオランダのレーベルBombozaからリリースされたHouseトラック。
 
 
 #### Tracklist
@@ -26,4 +26,4 @@ A1. Why Can't We Change (Original)
 B1. Why Can't We Change (Pay Tur Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m66467003953?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66467003953?afid=6142608987){: .button1}

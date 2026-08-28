@@ -38,14 +38,14 @@ color: #fff;
 </style>
 
 
-## 1. Origin: France, late 1980s
+## 1. 起源：1980年代後半のフランス
 
 ### 1-1. The arrival of hip-hop culture
 
 In the early 1980s, hip-hop culture was introduced from the Bronx in America to France.
 - **DJ boom**: DJs playing breakbeats appear in Paris clubs
-- **Breakdance**: B-boy/B-girl activities in city parks and public facilities
-- **Graffiti**: Spreading in urban spaces as a form of self-expression for young people
+- **ブレイクダンス**：都市公園や公共施設でB-boy/B-girlが活動  
+- **グラフィティ**：都市空間に若者の自己表現として広がる  
 
 During this period, rap was still a minor subculture, existing mainly as a street culture among young people.
 
@@ -53,7 +53,7 @@ During this period, rap was still a minor subculture, existing mainly as a stree
 
 #### Suprême NTM
 
-- Year of formation: 1989
+- 結成年：1989年
 - Members: Joey Starr (frontman), Kool Shen (rapper)
 - Birthplace: Seine-Saint-Denis, a suburb of Paris
 - Features: Political and social critical lyrics, rough street feel
@@ -88,10 +88,10 @@ Main works and features:
 - Reinforced political message
 - Reflecting the youth culture of the Saint-Denis area
 
-### 2-2. IAM's philosophical and historical lyrics
+### 2-2. IAMの哲学的・歴史的リリック
 
 1. **L"École du Micro d"Argent (1997)**
-- Depicting the city and social issues of Marseille
+   - マルセイユの街や社会問題を描写
 - Lyrics about ancient Egypt and French colonial history
 
 <div class="mermaid">
@@ -103,11 +103,11 @@ flowchart TB
 
 ---
 
-## 3. 2000s: Commercialization and establishment of regional style
+## 3. 2000年代：商業化と地域スタイルの確立
 
-### 3-1. Wave of commercialization
+### 3-1. 商業化の波
 
-- Hip-hop makes full-scale entry into the French music market
+- ヒップホップがフランス音楽市場に本格参入
 - CD sales, increased exposure on radio and television
 - Establishment of regional styles by new generation rappers
 
@@ -125,7 +125,7 @@ flowchart TB
 ### 3-3. Representative artists and works
 
 - **Booba**
-- Debut: 1999
+  - デビュー：1999年
 - Work: "Temps Mort (2002)", highly acclaimed in France and abroad
 - Style: Dark street rap, focus on beats
 - **Rohff**
@@ -139,7 +139,7 @@ flowchart TB
 ## 4. 2010s and beyond: internationalization and genre fusion
 
 - Increasing fusion with Trap, Grime, and Afrobeat
-- Rise of a new generation of rappers through SNS and YouTube
+- SNSやYouTubeによる新世代ラッパーの台頭
 - Expansion into international markets, especially growing popularity in Francophone Africa
 
 ### 4-1. Examples of new generation wrappers
@@ -182,11 +182,11 @@ timeline
 
 ---
 
-## 7. Social and cultural achievements of NTM and IAM
+## 7. NTMとIAMの社会的・文化的功績
 
 | Group | Impact/Achievements |
 |-----------|------------|
-| NTM | Establishment of socially critical rap, symbol of Parisian suburban culture |
+| NTM | Establishment of socially critical rap, symbol of Paris suburban culture |
 | IAM | Introduction of philosophical and historical themes, establishment of Marseille's musical individuality |
 
 ---
@@ -202,7 +202,7 @@ Starting from NTM and IAM, regional styles were established, and through commerc
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ar4Dt-LxbDE?si=sWgunsGwtQVD_acM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

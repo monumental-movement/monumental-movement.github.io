@@ -10,15 +10,15 @@ tags:
 - House
 - Acid
 - Techno
-title: DK7 – 樂趣在哪裡
+title: DK7 – Where's The Fun
 ---
 
 
-馬克·奧沙利文 (Mark O'Sullivan) 和傑斯珀·達爾巴赫 (Jesper Dahlbach) 合作創作了一首受到新浪漫主義影響的精緻電子音樂曲目。
+マーク・オサリバンとイェスパー・ダールバックのコラボレーションは、ニュー・ロマンティックの影響を受けており、デリケートなエレクトロハウスのトラックです。
 
-它還具有電子和技術方面的特點，並且與 DK7 之前的 12 吋一樣，包含多種類型。
+また、エレクトロとテクノの両方の側面があり、DK7の以前の12インチ と同様に多くのバラエティが詰まっています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  Where's The Fun (Original)
 
@@ -27,7 +27,7 @@ A2  Where's The Fun (Sten Remix)
 B  Where's The Fun(Sweet Light - Patinoires Italiennes Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m78003001703?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78003001703?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x7ZuilW-zBg?si=iJ-Ox5M1PTsqEufF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

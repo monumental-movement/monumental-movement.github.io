@@ -9,13 +9,13 @@ permalink: /zh-hant/michael-saxell-red-and-blue/
 tags:
 - Rock
 - Pops
-title: 麥可薩克塞爾 – 紅與藍
+title: Michael Saxell – Red And Blue
 ---
 
 
-麥可‧薩克塞爾 (Michael Saxell) 是一位瑞典創作歌手/作曲家/作詞家/多樂器演奏家/製作人。
+Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Kelly
 

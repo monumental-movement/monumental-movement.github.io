@@ -9,15 +9,15 @@ permalink: /zh-hant/knights-of-the-occasional-table-knees-up-mother-earth/
 tags:
 - Downtempo
 - UK Band
-title: 偶爾表的騎士－跪下大地母親
+title: Knights Of The Occasional Table – Knees Up Mother Earth
 ---
 
 
-Knights Of The Occasional Table 是一支來自倫敦東南部的電子樂隊，由 Steve Radford、Nygel Packett、Andrew Cowen 和主唱 Aquamanda 組成。
+Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cowen、ボーカリストの Aquamanda からなるロンドン南東部のエレクトロニックバンド。
 
-當這張專輯於 1993 年發行時，它在 John Peel 的 Peel Sessions 中得到了專題報導。
+このアルバムがリリースされた1993年にはJohn Peelの「ピール・セッションズ」でも取り上げられた。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Choose
 2. Amoeba
@@ -33,7 +33,7 @@ Knights Of The Occasional Table 是一支來自倫敦東南部的電子樂隊，
 12. Untitled
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pThiipHyV4?si=vefBvJJxQ_coKU8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

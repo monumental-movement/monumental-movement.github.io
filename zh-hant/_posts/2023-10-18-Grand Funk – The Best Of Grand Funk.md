@@ -9,13 +9,13 @@ permalink: /zh-hant/grand-funk-the-best-of-grand-funk/
 tags:
 - Rock
 - Hard Rock
-title: Grand Funk – 最好的 Grand Funk
+title: Grand Funk – The Best Of Grand Funk
 ---
 
 
-Grand Funk Railroad（GFR）是一支美國硬搖滾樂團。核心成員包括馬克·弗納、梅爾·撒切爾和唐·布魯爾。
+グランドファンクレイルロード（Grand Funk Railroad, GFR）は、USハードロックバンド。中心メンバーは、マーク・ファーナー、メル・サッチャー、ドン・ブリューワー。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Sin's A Goodman's Brother
 
@@ -38,5 +38,5 @@ B5. Got This Thing On The Move
 B6. Inside Lookin' Out
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m80305253218?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80305253218?afid=6142608987){: .button1}
 

@@ -13,11 +13,11 @@ title: Strike – Inspiration (Remo-Con Vs. Toshio Ueki Remix)
 ---
 
 
-Trance/Euro House remix of "Inspiration" released in 1996 by British electronic dance music group Strike. A promo album released by the Japanese label Trance Paradise in 2004.
+イギリスのエレクトロニック・ダンス・ミュージックグループStrike が1996年にリリースした「Inspiration」の Trance／Euro Houseリミックス。2004年に日本のレーベルTrance Paradiseからリリースされたプロモ盤。
 
-Tetsuya Tamura, also known as DJ Remo-con, is one of the leading artists in the Japanese hard dance world, frequently performing live at hard dance and techno festivals around the world, as well as at ULTRA Japan.
+DJ Remo-conことTetsuya Tamuraは、世界中のハードダンスやテクノのフェスティバル、ULTRA Japanなどでもで頻繁にライブを行っている、日本のハードダンス界を代表するアーティストの一人。
 
-Toshio Ueki is a DJ and writer who has been active since the early 1990s. He is active in a wide variety of activities, including the Avex compilation series.
+Toshio Ueki（植木敏夫）は1990年代初頭から活動するDJ＆執筆家。エイベックスのコンピレーションシリーズなど、多種多様に活動している。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A. Inspiration (Remo-Con vs. Toshio Ueki Remix)
 B. Inspiration (Kaleidoscopic Backdrop)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m39769466339?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39769466339?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TH38YgEmyGs?si=zv08u6YRRWIHpoSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

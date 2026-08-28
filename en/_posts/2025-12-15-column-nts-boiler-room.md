@@ -11,18 +11,18 @@ tags:
 - 10s
 - 20s
 - Live
-title: '[Column] NTS/Boiler Room live streaming artists and unknown performance culture'
+title: 【コラム】 NTS / Boiler Room 系ライブ配信アーティストと未知のパフォーマンス文化
 ---
 
 
 
-## Prologue: A new performance space called live streaming
+## 序章　ライブ配信という新たな演奏空間
 
-Text: mmr｜Theme: How DJ sets, experimental music, and unknown live performances have been formed and expanded around live streaming platforms.
+文：mmr｜テーマ：ライブ配信プラットフォームを軸に、DJセット、実験音楽、未知のライブパフォーマンスがどのように形成・拡張されてきたかについて
 
-At the beginning of the 21st century, music performance spaces gradually expanded from physical locations such as clubs and concert halls to spaces where music is distributed via the Internet. Especially since the 2010s, live music distribution has become more than just a recording or broadcast, and has become an independent form of performance.
+21世紀初頭、音楽の演奏空間はクラブやコンサートホールといった物理的場所から、インターネットを介した配信空間へと徐々に拡張された。特に2010年代以降、音楽ライブ配信は単なる記録や中継ではなく、独立したパフォーマンス形態として確立していく。
 
-NTS Radio and Boiler Room have different origins and philosophies within this flow, but they are the ones that have made live streaming culture visible internationally. What both of them have in common is cross-genre, improvisation, and an attitude of distancing themselves from the existing framework of the music industry.
+NTS RadioとBoiler Roomは、その流れの中で異なる起点と思想を持ちながら、ライブ配信文化を国際的に可視化した存在である。両者に共通するのは、ジャンル横断性、即興性、そして既存の音楽産業的枠組みから距離を取る姿勢であった。
 
 ---
 
@@ -31,7 +31,7 @@ NTS Radio and Boiler Room have different origins and philosophies within this fl
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,71 +40,71 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Establishment of NTS Radio and broadcasting culture
+## 第1章　NTS Radioの成立と放送文化
 
-NTS Radio is an internet radio based in London that broadcasts DJ programs and live performances 24 hours a day. Broadcast content is wide-ranging, including club music, experimental music, folk music, and improvisational performances.
+NTS Radioはロンドンを拠点に設立されたインターネットラジオであり、24時間体制でDJ番組やライブパフォーマンスを配信する形式を取ってきた。放送内容は、クラブミュージック、実験音楽、民族音楽、即興演奏など多岐にわたる。
 
-A feature of NTS is that it does not give any particular genre an advantage in program programming. Artists have curation rights on a program-by-program basis, and are allowed to include not only DJ sets but also field recordings, unreleased sound sources, and live performances.
+NTSの特徴は、番組編成において特定ジャンルの優位性を設けない点にある。アーティストは番組単位でキュレーション権を持ち、DJセットだけでなく、フィールドレコーディング、未発表音源、ライブ演奏が混在する構成が許容されている。
 
-> "Live streaming on NTS has been positioned as an act of sharing the process of song selection and performance itself, rather than the presentation of completed works."
-
----
-
-## Chapter 2: The emergence of Boiler Room and the visualized DJ
-
-Boiler Room started out as a project to stream small indoor DJ events in London. The camera enters the same space as the DJ, and is characterized by a format that includes the presence of the audience.
-
-This format differed from traditional video recording in which a camera was installed behind the DJ booth, and had a structure in which the audience, space, and performers were all in the same frame. As a result, DJ performance has been visualized as an expression that includes "physical and social behavior" rather than an act of "only sound."
+> "NTSにおけるライブ配信は、完成作品の提示ではなく、選曲や演奏の過程そのものを共有する行為として位置づけられてきた"
 
 ---
 
-## Chapter 3 Transformation of DJ sets in live streaming
+## 第2章　Boiler Roomの出現と可視化されたDJ
 
-DJ sets at NTS and Boiler Room tend to be different from peak-time club setups. There are many scenes where the emphasis is on the connections and surprises of the song selections, rather than the consistency of tempo and energy.
+Boiler Roomは、当初はロンドンの小規模な室内で行われたDJイベントを配信するプロジェクトとして始まった。カメラはDJと同じ空間に入り込み、観客の存在を含めて映像化する形式が特徴となる。
 
-Particularly in NTS, long sets lasting over two hours are common, and a style that gently builds a narrative while crossing genres is often seen. On the other hand, Boiler Room has many relatively short sets, emphasizing the development in sync with the heat of the space.
-
-> "The conditions of live streaming changed the DJ set from a ""technique that makes the space function" to a ""structure that is listened to."
+この形式は、DJブースの背後にカメラを設置する従来の映像記録とは異なり、観客、空間、演奏者が同一フレームに収まる構造を持っていた。その結果、DJパフォーマンスは「音のみ」の行為から、「身体的・社会的振る舞い」を含む表現として可視化された。
 
 ---
 
-## Chapter 4: Compatibility of experimental music and live streaming
+## 第3章　ライブ配信におけるDJセットの変容
 
-Experimental music has traditionally been performed in small venues, museums, and university facilities. However, with the spread of live streaming, the presentation environment has expanded.
+NTSおよびBoiler Roomで行われるDJセットは、クラブでのピークタイム向けの構成とは異なる傾向を示している。テンポやエネルギーの一貫性よりも、選曲の連関や意外性が重視される場面が多い。
 
-NTS naturally incorporates noise, drones, improvisation, computer music, etc. into radio programming. The delivery format, which minimized visual information, served to encourage focus on the acoustic structure.
+特にNTSでは、2時間以上に及ぶロングセットが一般的であり、ジャンルを横断しながら緩やかな物語性を構築するスタイルが多く見られる。一方、Boiler Roomでは比較的短時間のセットが多く、空間の熱量と同期した展開が強調される。
 
-Boiler Room also featured experimental performances other than dance music, creating a space where experimental music could be reinterpreted within a visual context.
-
----
-
-## Chapter 5 The concept of unknown live performance
-
-In a live streaming environment, while the audience's reaction is physically limited, an unspecified number of listeners exist at the same time. This situation creates an environment in which the outcome is difficult for the performer to predict.
-
-For this reason, many of the artists appearing at NTS and Boiler Room choose unknown compositions that are predicated on improvisation. Rather than having a set list fixed, the act of selecting and processing sound sources on the spot is central to the performance.
-
-> "An unknown live performance is a state of public experimentation that includes the possibility of failure."
+> "ライブ配信という条件が、DJセットを『場を機能させる技術』から『聴取される構造物』へと変化させた"
 
 ---
 
-## Chapter 6 Interaction between distribution technology and musical expression
+## 第4章　実験音楽とライブ配信の親和性
 
-Live streaming comes with limitations such as delays, audio quality compression, and unstable communications. These conditions require new judgment from artists.
+実験音楽は、伝統的に小規模な会場や美術館、大学施設などで演奏されることが多かった。しかし、ライブ配信の普及により、その発表環境は拡張された。
 
-For example, extreme bass sounds and subtle dynamics are difficult to reproduce in a streaming environment, so performances have been performed by consciously adjusting the timbre and structure. These adaptations result in a distribution-specific sonic aesthetic.
+NTSでは、ノイズ、ドローン、即興演奏、コンピュータ音楽などがラジオ番組として自然に組み込まれている。視覚情報を最小限に抑えた配信形式は、音響構造への集中を促す役割を果たした。
 
----
-
-## Chapter 7 Community and Archives
-
-NTS and Boiler Room have archived their broadcasts and made them available for later viewing and listening. This archival nature transforms live performances from ephemeral events into referenceable materials.
-
-Listeners will be able to reinterpret the performance not only by participating in real time but also by watching it later.
+Boiler Roomにおいても、ダンスミュージック以外の実験的パフォーマンスが取り上げられることで、視覚的文脈の中で実験音楽が再解釈される場が生まれた。
 
 ---
 
-## Chapter 8 Chronology: Main trends in live streaming culture
+## 第5章　未知のライブパフォーマンスという概念
+
+ライブ配信環境では、観客の反応が物理的に限定される一方で、不特定多数の聴取者が同時に存在する。この状況は、演奏者にとって結果が予測しにくい場を形成する。
+
+そのため、NTSやBoiler Roomに登場するアーティストの中には、即興性を前提とした未知の構成を選択する例が多い。セットリストを固定せず、その場で音源を選択・加工する行為がパフォーマンスの中心となる。
+
+> "未知のライブパフォーマンスとは、失敗の可能性を含んだ公開実験の状態である"
+
+---
+
+## 第6章　配信技術と音楽表現の相互作用
+
+ライブ配信は、遅延、音質圧縮、通信不安定といった制約を伴う。これらの条件は、アーティストに対して新たな判断を要求する。
+
+例えば、極端な低音や微細なダイナミクスは配信環境で再現されにくいため、音色や構成を意識的に調整する演奏が行われてきた。こうした適応は、結果として配信特有のサウンド美学を形成する。
+
+---
+
+## 第7章　コミュニティとアーカイブ
+
+NTSおよびBoiler Roomは、配信内容をアーカイブとして保存し、後から聴取・視聴可能な状態を維持してきた。このアーカイブ性は、ライブパフォーマンスを一過性の出来事から、参照可能な資料へと変換する。
+
+聴取者は、リアルタイムでの参加だけでなく、後追いでの鑑賞を通じてパフォーマンスを再解釈することが可能となる。
+
+---
+
+## 第8章　年表：ライブ配信文化の主要な流れ
 
 <div class="mermaid">
 timeline
@@ -120,113 +120,113 @@ timeline
 
 ---
 
-## Chapter 9 Structure diagram: Elements of live streaming performance
+## 第9章　構造図：ライブ配信パフォーマンスの要素
 
 <div class="mermaid">
 flowchart TD
-    A[performer] --> B[Distribution equipment] --> C[distribution platform]
-    C --> D[simultaneous listener]
-    C --> E[archive]
-    D --> F[Asynchronous evaluation]
+    A[演奏者] --> B[配信機材] --> C[配信プラットフォーム]
+    C --> D[同時聴取者]
+    C --> E[アーカイブ]
+    D --> F[非同期的評価]
 </div>
 
 
 ---
 
-## Final chapter: Changes in the music experience brought about by distribution
+## 終章　配信がもたらした音楽体験の変質
 
-NTS Radio and Boiler Room have expanded the framework of music performance through live streaming. It was not just a relay, but a presentation of a new performance space that included the unknown, experimentation, and social context.
+NTS RadioとBoiler Roomは、ライブ配信を通じて音楽パフォーマンスの枠組みを拡張してきた。それは単なる中継ではなく、未知性、実験性、社会的文脈を含んだ新しい演奏空間の提示であった。
 
-> "Live streaming culture has transformed music from a fixed work to a shared process."
+> "ライブ配信文化は、音楽を固定された作品から、共有され続けるプロセスへと変化させた"
 
-The facts summarized in this paper will serve as a foundation for considering future musical expressions.
+本稿で整理した事実群は、今後の音楽表現を考察するための基盤として機能するだろう。
 
 ---
 
-## Supplementary Chapter 1 Perspectives that transcend genres
+## 補章1　ジャンルを超えた視点
 
-The practice of the live streaming artists appearing on NTS and Boiler Room is more about ""music as a body of movement'' than the name of a genre.
+NTSおよびBoiler Roomに登場するライブ配信アーティストの実践は、ジャンル名よりも「運動体としての音楽」である。
 
-DJ sets and experimental performances in live streams are presented as a state of continuous change over time, rather than as a finished piece of work.
-This can be regarded as "recordable movement."
+ライブ配信におけるDJセットや実験的パフォーマンスは、完成形の作品ではなく、時間の中で変化し続ける状態として提示される。
+これは「記録可能な運動」として捉えることができる。
 
-> "The moment music rejects fixed formats, its movement becomes most evident."
+> "音楽が固定されたフォーマットを拒否する瞬間、その運動性が最も明確になる"
 
 ---
 
 ## Supplementary Chapter 2 Disappearance of studio and site
 
-Traditionally, there was a distinction between music production in the studio and performance on-site. However, in a live streaming environment, this distinction becomes blurred. Homes, temporary spaces, public facilities, studios with no audience, etc. become spaces for production and performance at the same time.
+従来、音楽制作はスタジオ、演奏は現場という区分が存在していた。しかしライブ配信環境では、この区分が曖昧になる。自宅、仮設空間、公共施設、無観客スタジオなどが、同時に制作と演奏の場となる。
 
-On NTS, it has been confirmed that there are many cases in which material in the process of being produced or unfinished sound sources is played as is in the program. Boiler Room also occasionally releases live sets that are close to rehearsals.
+NTSでは、制作途中の素材や未完成音源が番組内でそのまま再生される事例が多く確認されてきた。Boiler Roomでも、リハーサルに近い状態のライブセットが公開されることがある。
 
-> "The disappearance of studios and locations freed music from 'preparation'"
-
----
-
-## Supplementary Chapter 3 Example density across genres
-
-Looking at the activities of live streaming artists, cross-genre is the norm rather than the exception. Fragments of dance music, noise, jazz, folk music, and pop are concatenated in the same set.
-
-This is more a result of changing listening conditions in the distribution environment than an intentional avant-garde. Listening for long periods of time in a private environment allows for rapid genre changes.
+> "スタジオと現場の消失は、音楽を『準備』から解放した"
 
 ---
 
-## Supplementary Chapter 4 Redefining the profession of DJ
+## 補章3　ジャンル横断の実例密度
 
-DJs at NTS and Boiler Room are not just music selectors. He plays multiple roles as a sound source manager, editor, improviser, and storyteller.
+ライブ配信アーティストの活動を通覧すると、ジャンル横断は例外ではなく常態である。ダンスミュージック、ノイズ、ジャズ、民族音楽、ポップスの断片が同一セット内で連結される。
 
-Particularly on NTS, DJs create musical archives by continuing their programs over long periods of time. The accumulation functions as a personal musical history.
-
-> "DJ sets are fragmentary records of personal history"
+これは意図的な前衛性というより、配信環境における聴取条件の変化による結果である。長時間・私的環境での聴取は、急激なジャンル転換を許容する。
 
 ---
 
-## Supplementary Chapter 5 Video Intervention and Refusal
+## 補章4　DJという職能の再定義
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
+NTSやBoiler RoomにおけるDJは、単なる選曲者ではない。音源管理者、編集者、即興演奏者、語り手として複数の役割を担う。
 
-When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
+特にNTSでは、DJが自らの番組を長期間継続することで、音楽的アーカイブを形成する。その蓄積は、個人単位の音楽史として機能する。
 
----
-
-## Supplementary Chapter 6 Managing improvisation
-
-Improvisation is not chaotic. Live streaming artists design improvisations based on conditions such as streaming time, number of listeners, and technical constraints.
-
-Unknownness appears as controlled uncertainty rather than pure chance.
-
-> "Improvisation is not the loss of control, but the resetting of the range of control."
+> "DJセットは個人史の断片的記録である"
 
 ---
 
-## Supplementary Chapter 7 Archive consumption and recontextualization
+## 補章5　映像の介入と拒否
 
-Archived live streams can be cut, re-edited, and consumed in other contexts. This generates a different meaning than the original live experience.
+Boiler Roomは映像を積極的に取り入れる一方、NTSは音声中心の設計を維持してきた。この差異は、パフォーマンスの方向性に直接影響を与える。
 
-This recontextualization extends the life of the work while rejecting a single interpretation.
-
----
-
-## Supplementary Chapter 8 Economic Structure and Independence
-
-NTS and Boiler Room have demonstrated a different model from the traditional record sales-centered economic structure. Distribution is not only advertising, but also an activity itself.
-
-> "Live streaming exists as evidence of activity, not as a product."
+映像が存在する場合、身体動作や空間構成が意味を持つ。映像が限定的な場合、音の配置や時間構造が前景化する。
 
 ---
 
-## Supplementary Chapter 9 Connection to music history
+## 補章6　即興性の管理
 
-These live streaming cultures are continuous with the history of improvisational music, experimental music, and DJ culture. New technologies reposition existing practices rather than making them invisible.
+即興演奏は無秩序ではない。ライブ配信アーティストは、配信時間、リスナー数、技術制約といった条件を前提に即興を設計する。
+
+未知性は完全な偶然ではなく、管理された不確定性として現れる。
+
+> "即興とは制御不能ではなく、制御範囲の再設定である"
 
 ---
 
-## Supplementary Chapter 10 Future Expansion Possibilities
+## 補章7　アーカイブ消費と再文脈化
 
-The live streaming format is not a complete system. It continues to transform in response to changes in technology, listening habits, and methods of expression.
+アーカイブ化されたライブ配信は、切り取られ、再編集され、別の文脈で消費される。これにより、元のライブ体験とは異なる意味が生成される。
 
-What is important is not the form itself, but music as an ever-changing body of movement.
+この再文脈化は、作品の寿命を延ばす一方、単一の解釈を拒否する。
+
+---
+
+## 補章8　経済構造と独立性
+
+NTSおよびBoiler Roomは、従来のレコード販売中心の経済構造とは異なるモデルを示してきた。配信は宣伝であると同時に、活動そのものでもある。
+
+> "ライブ配信は成果物ではなく、活動の証拠として存在する"
+
+---
+
+## 補章9　音楽史への接続
+
+これらのライブ配信文化は、即興音楽、実験音楽、DJ文化の歴史と連続している。新しい技術は、既存の実践を不可視化するのではなく、再配置する。
+
+---
+
+## 補章10　今後の拡張可能性
+
+ライブ配信という形式は、完成された制度ではない。技術、聴取習慣、表現方法の変化に応じて変容を続ける。
+
+重要なのは形式そのものではなく、変化し続ける運動体としての音楽である。
 
 > "Music is not an object to be stored, but a phenomenon that is continuously generated."
 

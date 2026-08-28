@@ -9,15 +9,15 @@ permalink: /zh-hant/q-ic-and-stephenson-in-stereo-ep/
 tags:
 - Techno
 - Abstract
-title: Q-ic 和 Stephenson – 立體聲 EP
+title: Q-ic And Stephenson – In Stereo EP
 ---
 
 
-Q-ic (Luc Byltiauw) 是一位比利時 DJ 和音樂製作人，也被稱為 Creation Tecnologiq 的推動者，該運動創建了安特衛普 techno 運動。
+Q-ic (Luc Byltiauw) は、ベルギーのDJ兼音楽プロデューサーで、アントワープのテクノムーブメントを作ったCreation Tecnologiqの立役者としても知られています。
 
-《In Stereo EP》是Q-ic和Stephenson的第一張EP。
+「In Stereo EP」は、Q-ic And StephensonのファーストEP。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. The Sound
 
@@ -28,5 +28,5 @@ B1. Japanese Tours
 B2. Anything Else
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m29101875086?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29101875086?afid=6142608987){: .button1}
 

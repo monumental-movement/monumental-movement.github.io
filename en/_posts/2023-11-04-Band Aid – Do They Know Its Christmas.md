@@ -8,57 +8,57 @@ layout: post
 tags:
 - Rock
 - Pops
-title: Band Aid – Do They Know It"s Christmas
+title: Band Aid – Do They Know It's Christmas
 ---
 
 
-Band Aid is a charity project group formed by Bob Geldof and Midge Ure in 1984 to raise funds for hunger eradication efforts in Ethiopia, bringing together British and Irish rock and pop superstars.
+Band Aid（バンドエイド）は、エチオピアの飢餓撲滅活動への資金を集めるためにボブ・ゲルドフとミッジ・ユーロによって1984年に設立された、イギリスとアイルランドのロック・ポップス界のスーパースターが集まったチャリティー・プロジェクトグループ。
 
-[Participating artists] are as follows.
+ 【参加アーティスト】は以下の通りです。
 
-・Phil Collins (Genesis)
+・フィル・コリンズ（ジェネシス）
 
 ・Boomtown Rats
 
-・Spandau Ballet
+・スパンダー・バレエ
 
-・Midge Ure, Chris Cross (Ultravox)
+・ミッジ・ユーロ、クリス・クロス（ウルトラヴォックス）
 
-・Duran Duran
+・デュラン・デュラン
 
-・Paul Young
+・ポール・ヤング
 
-・Heaven 17
+・ヘヴン17
 
-・Marilyn
+・マリリン
 
-・Bananarama
+・バナナラマ
 
-・Jody Watley (Shalamar)
+・ジョディ・ワトリー（シャラマー）
 
-・Bono, Adam Clayton (U2)
+・ボノ、アダム・クレイトン（U2）
 
-・Paul Weller (Style Council)
+・ポール・ウェラー（スタイル・カウンシル）
 
-・Kool & the Gang
+・クール&ザ・ギャング
 
-・George Michael (Wham!)
+・ジョージ・マイケル（ワム!）
 
-・Status Quo
+・ステイタス・クォー
 
-・Boy George, Jon Moss (Culture Club)
+・ボーイ・ジョージ、ジョン・モス（カルチャー・クラブ）
 
-・Sting (Police)
+・スティング（ポリス）
 
-・David Bowie
+・デヴィッド・ボウイ
 
-・Frankie Goes to Hollywood
+・フランキー・ゴーズ・トゥ・ハリウッド
 
-・Paul McCartney
+・ポール・マッカートニー 
 
-・Big Country
+・ビッグ・カントリー
 
-・Trevor Horn
+・トレヴァー・ホーン
 
 #### Tracklist
 ```md
@@ -68,7 +68,7 @@ B1. Do They Know It's Christmas? (Standard Mix)
 
 B2. Feed The World
 ```
-[Purchase on Mercari](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j3fSknbR7Y4?si=ystwOi1DXMpBHz0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

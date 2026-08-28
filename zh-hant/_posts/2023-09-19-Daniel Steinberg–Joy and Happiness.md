@@ -10,16 +10,16 @@ tags:
 - House
 - Deep House
 - Minimal
-title: 丹尼爾‧史坦伯格 – Joy & Happiness EP
+title: Daniel Steinberg – Joy & Happiness EP
 ---
 
 
-如歌名所示，《歡樂幸福》是一首以歡樂幸福為主題的歌曲，其特點是節奏感十足、適合跳舞，旋律朗朗上口，氣氛積極向上。丹尼爾·斯坦伯格獨特的聲音感和創造力貫穿整首歌。
+「Joy & Happiness」は、楽曲のタイトル通り、喜びと幸福感をテーマにした曲でグルーヴィで踊りやすいビート、キャッチーなメロディ、そしてポジティブな雰囲気が特徴です。Daniel Steinbergのユニークなサウンドセンスとクリエイティビティが曲全体に反映されています。
 
-《Joy & Happiness EP》是一張能夠吸引 Daniel Steinberg 音樂迷和 house 音樂愛好者的作品。
+「Joy & Happiness EP」は、Daniel Steinbergの音楽のファンやハウスミュージックの愛好家にとって魅力的な作品です。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Tell Me What
 
@@ -30,7 +30,7 @@ B1. Joy & Happiness
 B2. Multicar
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m70490989005?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70490989005?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-5PBfGcgok8?si=7Serq4rCnoFhH81N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

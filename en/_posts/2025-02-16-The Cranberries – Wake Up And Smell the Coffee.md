@@ -13,9 +13,9 @@ title: The Cranberries – Wake Up And Smell the Coffee
 ---
 
 
-The Cranberries are an Irish alternative rock band formed in 1989. Their style is characterized by incorporating elements of indie rock, jungle pop, dream pop, folk rock, post-punk, and pop rock.
+The Cranberries(クランベリーズ)は、1989年に結成されたアイルランドのオルタナティヴ・ロックバンド。インディー・ロック、ジャングル・ポップ、ドリーム・ポップ、フォーク・ロック、ポスト・パンク、ポップ・ロックの要素を取り入れたスタイルが特徴。
 
-"Wake Up and Smell the Coffee" is The Cranberries' fifth studio album, released in 2001, and their last album before a six-year hiatus. It became a huge hit all over the world.
+「Wake Up and Smell the Coffee」は、2001年にリリースされたThe Cranberriesの5枚目のスタジオアルバムであり、6年間の休止前の最後のアルバム。世界中で大ヒットとなった。
 
 #### Tracklist
 ```md
@@ -38,7 +38,7 @@ Bonus Tracks
 15. In The Ghetto
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGcHisWvmuo?si=xzjGZsuga3trnuNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,12 +13,12 @@ title: Dry & Heavy – From Creation
 ---
 
 
-Dry&Heavy is a Japanese reggae dub band formed in 1991 by drummer Shigeki Nanao (Dry) and bassist Takeshi Akimoto (Heavy).
+Dry&Heavyは、ドラマーの七尾茂基（Dry）とベーシストの秋元武志（Heavy）によって1991年に結成された日本のレゲエ・ダブバンド。
 Dry&Heavy's sound is influenced by 1970s Jamaican dub sounds such as King Tubby and Lee Perry, and they have been successful at reggae and dub festivals both domestically and internationally.
 
-In 1995, Rikuru Mai and Ao Inoue joined. During Fuji Rock in 2001, Takeshi Akimoto left the group and Audio Active's bassist Pata joined. In 2011, they started their activities again as an original rhythm team consisting of Nanao and Akimoto.
+1995年にリクル・マイや井上青らが加入。2001年のフジロック中に秋元武志が脱退し、Audio ActiveのベーシストPataが加入。2011年からは七尾と秋本によるオリジナルのリズムチームで再度活動を開始した。
 
-"From Creation" is the fifth album released by the Japanese electronic label Beat Records in 2002.
+「From Creation」は、2002年に日本のエレクトロニックレーベルBeat Recordsからリリースされた5枚目のアルバム。
 
 #### Tracklist
 ```md

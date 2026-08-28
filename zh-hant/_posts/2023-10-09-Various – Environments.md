@@ -9,14 +9,14 @@ permalink: /zh-hant/various-environments/
 tags:
 - Jazz
 - Abstract
-title: 各種 – 環境
+title: Various – Environments
 ---
 
 
-「環境」是
-這是由「OM Records」廠牌於2001年發行的一張合輯。
+「Environments」は、
+2001年にレーベル「OM Records 」からリリースされたコンピレーション・アルバムです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Landslide – Muted Voices
 
@@ -41,7 +41,7 @@ E2. Ming + FS – Dog Tag
 F.  Skylight – Primate Exhibit
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m51258354270?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51258354270?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bONSqdHTkzk?si=CndZrEEjmEi6dwEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

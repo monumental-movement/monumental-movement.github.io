@@ -10,22 +10,22 @@ tags:
 - House
 - Progressive House
 - 00s
-title: 科比和奧斯汀利茲 – 融合愛
+title: Kobbe & Austin Leeds – Fusing Love
 ---
 
 
-由美國 DJ/製作人 Pierre Cobbaert aka Kobbe 和 Austin Leeds 創作的前衛 house 曲目。
+アメリカ人DJ/プロデューサーKobbeことPierre CobbaertとAustin Leeds（オースティン・リーズ）によるプログレッシブハウストラック。
 
-B 面是 DJ/製作人 Markus Schulz 的混音版。
+B面は、DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Fusing Love (Original)
 
 B. Fusing Love (Leeds & Schulz Remix) Remix – Markus Schulz
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m59349003998?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59349003998?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qqn08DSjR9s?si=hA3dPVEBQtbgHsjR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

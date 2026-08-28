@@ -25,7 +25,7 @@ One person at the center of this is **Waajeed**.
 Starting his career around Slum Village, he has continued to make Detroit's musical aesthetic function as a "platform for connecting to the future" with Platinum Pied Pipers (PPP), Tiny Hearts, and his own label **Dirt Tech Reck**.
 
 Since the late 2010s, he has been building a body of work that more directly follows the flow of Detroit house/techno, while also bringing to the forefront the expression of black roots.
-In particular, **""Shango EP" (2017)** and one of their current masterpieces, **""Mother EP" (2018)** are positioned as works that strongly present the spirituality and community nature of club music while inheriting the traditions of Detroit.
+特に **『Shango EP』（2017）** と、現段階での代表作の一つである **『Mother EP』（2018）** は、デトロイトの伝統を受け継ぎながら、クラブ・ミュージックの精神性とコミュニティ性を強烈に提示した作品として位置づけられている。
 
 
 ---
@@ -44,36 +44,36 @@ color: #fff;
 </style>
 
 
-# **1. Early life and background: Detroit, the "city of beginnings"**
+# **1. 生い立ちと背景：デトロイトという “始まりの都市”**
 
 Waajeed (real name Robert O'Bryant) was born in Detroit in the late 1970s.
-The artist's name is of Arabic origin and is taken from a word meaning "to find" or "to discover."
+アーティスト名はアラビア語に由来し、「見つける」「発見する」という意味を持つ言葉から取られている。
 
 From an early age, he grew up in an environment influenced by **Detroit's soul/gospel culture**, and later came into contact with Slum Village.
 In the late 1990s and early 2000s, Detroit was creating a new standard for neo-soul/hip-hop, symbolized by J Dilla. At the forefront of this field, Waajeed turned to music production while also working as a photographer.
 
 ### **● Relationship with Slum Village**
 
-* Involved as peripheral staff of the group
+* グループの周辺スタッフとして関わる
 * Interact with members T3 and Baatin
 * Directly influenced by the creativity of J Dilla
 
-What Waajeed absorbed here was more than just beat making.
+ここで Waajeed が吸収したのは、単なるビートメイクにとどまらず――
 **The attitude is to ""carry out the inheritance of black music as ""reinvention'' in the modern era**.
 
 ---
 
-# **2. PPP (Platinum Pied Pipers) period: A new connection point between hip-hop and soul**
+# **2. PPP（Platinum Pied Pipers）期：ヒップホップとソウルの新しい接続点**
 
 In the early 2000s, Waajeed and Saadiq formed **Platinum Pied Pipers (PPP)**.
 This is a project that organically fuses hip-hop, R&B, soul, and beat music, and has gained worldwide acclaim while being based in Detroit.
 
 ### **2005 "Triple P"**
 
-* PPP's debut album
-* Featuring Georgia Anne Muldrow, Tiombe Lockhart, Saadiq and more
+* PPP のデビューアルバム
+* Georgia Anne Muldrow、Tiombe Lockhart、Saadiq などが参加
 * Regarded as one of the "most radical and warmest works" in the context of neo-soul and hip-hop at the time.
-* An important work that made Detroit's black music aesthetic known internationally.
+* デトロイトのブラック・ミュージック美学を国際的に知らしめた重要作
 
 During this period, Waajeed blurred the boundaries between sampling and live music, and was moving toward creating a "futuristic soul" style that was not club music. **
 
@@ -98,8 +98,8 @@ It functions as a platform for cultural autonomy for black artists.
 Many of the releases feature the following elements:
 
 * A sound rooted in Detroit
-* Black community narrative and social background
-* The connection between dance floor and spirituality
+* ブラック・コミュニティの語りと社会的背景
+* The connection between the dance floor and spirituality
 * Structure that crosses hip-hop, house, and techno
 
 From here, Waajeed will move into a different field from the PPP period.
@@ -119,29 +119,29 @@ The title **"Shango"** is a deity that appears in traditional West African relig
 
 On this EP, Waajeed:
 
-* Detroit house/techno beat structure
-* Afro percussion
+* デトロイト・ハウス／テクノのビート構造
+* アフロパーカッション
 * Black Spiritual Call
-* Ritual nature of raw sounds and rhythm
+* Ritualistic nature of raw sounds and rhythms
 
-The group clearly steered the band towards ""representing house/techno as a return to the spirit of black art'' by fusing them.
+He clearly steered the band towards ""representing house/techno as a return to the spirit of black art'' by fusing them.
 
 **Rather than being an extension of the PPP and hip-hop era, this work presented a new aspect of Detroit music** and received high praise worldwide.
 
 ---
 
-# **5. "Mother EP" (2018): Fusion of spirituality, clubbing, and blackness**
+# **5. 『Mother EP』（2018）：精神性・クラブ・ブラックネスの融合**
 
-**Mother EP (2018)** is widely recognized as Waajeed's masterpiece.
-The theme of this work is not just house/techno, but **club music as an archive of the memory and spirituality of the black community**.
+ **『Mother EP』（2018）** は、Waajeed の代表作として広く認識されている。
+この作品は単なるハウス／テクノではなく、**ブラック・コミュニティの記憶と精神性のアーカイブとしてのクラブミュージック** をテーマにしている。
 
 ### Features
 
 *Detroit Gospel Influence
-* Soulful vocals
+* ソウルフルなヴォーカル
 * Heavy and dynamic beat
 * Afro-futuristic sound image
-* Rethinking community culture that symbolizes "motherhood"
+* “母性” を象徴とするコミュニティ文化の再考
 
 It has a much more linear and dancefloor-oriented structure than the beatmaking of the PPP and hip-hop eras, but it also has a clear emotional expression of black roots.
 It is in a position that can be called **"the aesthetic destination of Dirt Tech Rec"**.
@@ -156,11 +156,11 @@ To sum up Waajeed's production approach, the following three points are central.
 
 ---
 
-## **① Inheriting and re-creating Detroit's heritage**
+## **① デトロイトの遺産の継承と再創造**
 
-* Influenced by J Dilla
+* J Dilla からの影響
 * Gospel/Soul Tradition
-* Hip hop aesthetics
+* ヒップホップの美学
 * The future of techno
 
 Rather than fragmenting these, they are integrated as ""the musical memory of the city of Detroit itself.''
@@ -178,13 +178,13 @@ After the Dirt Tech Reck period, Waajeed began to consider music not as "persona
 
 ---
 
-## **③ Reconnecting with Black Spirituality**
+## **③ ブラック・スピリチュアリティの再接続**
 
 Especially since the Shango EP, Afro-diaspora spirituality has become an important element.
 
 *Call & Response
 * Ritual percussion
-* Evangelical expression
+* 福音的表現
 * Trance rhythm
 
 These are acts that re-present ""where house/techno came from''.
@@ -200,12 +200,12 @@ They value the **groove of black dance music** more than the minimalism of techn
 
 ### **■ Vocals and chorus**
 
-Since the PPP period, there has been a lot of gospel-like vocal processing.
+PPP 期から一貫して、ゴスペル的なヴォーカル処理が多い。
 This is even more pronounced on Mother, giving the club track an emotional depth.
 
 ### **■ Hybrid of live sound and electronic sound**
 
-His technique for naturally blending synths, pads, electric piano, live drums, percussion, etc. is also a result of the ""ear training'' of the hip-hop era.
+シンセ、パッド、エレピ、生ドラム、パーカッションなどを自然に溶け合わせる技術は、ヒップホップ時代の“耳の訓練”の成果でもある。
 
 ---
 
@@ -215,15 +215,15 @@ His technique for naturally blending synths, pads, electric piano, live drums, p
 
 * **PPP"Triple P"(2005)**
 * **PPP"Abundance"(2009)**
-* **"The War LP" (2012)**
+* **"The War LP"(2012)**
 * **"Shango EP"(2017)**
 * **"From The Dirt"(2017)**
 * **"Ten Toes Down EP" (2018)**
-* **"Mother" (2022)**
+* **『Mother』(2022)**
 
 ---
 
-# **9. Chronology (Timeline)**
+# **9. 年表（タイムライン）**
 
 <div class="mermaid">
 timeline
@@ -261,7 +261,7 @@ Waajeed is a rare artist who treats Detroit's music culture not as a "genre" but
 * Hip-hop → Soul → Gospel → House → Techno
 In the sense that he single-handedly embodies this lineage, he embodies the image of a typical "Detroit creator."
 
-Moreover, this creation is aimed at innovation, not nostalgia.
+しかもその創造は **懐古ではなく革新** に向かうものであり、
 The works from "Shango EP" to "Mother" are
 It will continue to be referred to as **club music that looks at the roots and future of black music at the same time**.
 
@@ -271,7 +271,7 @@ It will continue to be referred to as **club music that looks at the roots and f
 
 Waajeed's career has been one of continuing to reinterpret the "layers of history" of the city of Detroit by intersecting them with contemporary club culture.
 Not only are the individual works attractive;
-It is also important as a methodology for translating urban memory and black spirituality into music, and its existence will continue to be a symbol that supports the evolution of Detroit music.
+**It is also important as a methodology for translating urban memory and black spirituality into music**, and its existence will continue to be a symbol that supports the evolution of Detroit music.
 
 ---
 

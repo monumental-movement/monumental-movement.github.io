@@ -11,15 +11,15 @@ tags:
 - Country Rock
 - Pub Rock
 - 90s
-title: 尼克洛——不可能的鳥
+title: Nick Lowe – The Impossible Bird
 ---
 
 
-尼克·洛（Nick Lowe）是一位英國創作歌手/音樂家/製作人。 Lowe 被稱為酒吧搖滾、強力流行音樂和新浪潮的關鍵人物，發行了許多廣受好評的個人專輯。
+Nick Lowe (ニック・ロウ)は、イギリスのシンガーソングライター/ミュージシャン/プロデューサー。パブロック、パワーポップ、ニューウェイヴの重要人物として知られるロウは、高い評価を受けたソロアルバムを多数リリースしている。
 
-《The Impossible Bird》是一張流行搖滾/鄉村搖滾/酒吧搖滾專輯，於 1994 年與聯合製作人 Neil Brockbank 發行。 （補發）
+「The Impossible Bird」は共同プロデューサーにNeil Brockbankを迎え1994年にリリースされたPop Rock／Country Rock／Pub Rockアルバム。(再発盤)
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Soulful Wind
 2. The Beast In Me
@@ -36,7 +36,7 @@ title: 尼克洛——不可能的鳥
 13. I'll Be There
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m38200351869?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38200351869?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_U8lR_JrDo?si=UMGoRySTUA1u-kES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

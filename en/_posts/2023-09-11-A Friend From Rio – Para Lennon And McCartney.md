@@ -15,9 +15,9 @@ title: A Friend From Rio – Para Lennon And McCartney
 
 This is the first EP by a band active in Rio de Janeiro, Brazil.
 
-As the title suggests, this song is dedicated to John Lennon and Paul McCartney of the Beatles.
+タイトルからも分かる通り、ビートルズのジョンレノンとポールマッカートニーにささげた楽曲。
 
-The remix, which has been turned into a jazzy dance track, is a must-listen.
+ジャジーなダンストラックに仕上げられたリミックスは必聴です。
 
 #### Tracklist
 ```md

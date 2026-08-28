@@ -12,9 +12,9 @@ title: Dismissed – Test-Tube Baby
 ---
 
 
-*Single Sided
+※ Single Sided
 
-Torsten Knuth, also known as Dismissed, is a German DJ/producer who works under various names such as DJ Schlumpf and Raul Rincon.
+Dismissed ことTorsten Knuthは、DJ SchlumpfやRaul Rinconなどさまざまな名義で活動するドイツのDJ／プロデューサー。
 
 "Test-Tube Baby" is Breaks, released in 2003 on the independent label Tenor Recordings, which he runs.
 
@@ -23,7 +23,7 @@ Torsten Knuth, also known as Dismissed, is a German DJ/producer who works under 
 A. Test-Tube Baby
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m87338944585?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87338944585?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hvWHSj_ohr4?si=RQ1wNL4ATaSVf2v6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

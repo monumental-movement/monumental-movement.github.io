@@ -11,18 +11,18 @@ tags:
 - Rock
 - Noise
 - Post Rock
-title: '[專欄] 直接傳達情感和思想的弦——來自世界各地和日本的吉他手'
+title: 【コラム】 感情や思想を直接伝える弦 — 世界と日本のギタリストたち
 ---
 
 
-## 序言：吉他，“身體錄音裝置”
+## 序章：ギターという“身体の記録装置”
 
 
-文：mmr｜主題：從時代、流派、技術、哲學的角度解釋世界和日本的頂尖吉他手
+文：mmr｜テーマ：世界と日本の代表的ギタリストを年代・ジャンル・技法・思想の観点から解説
 
-吉他不只是一種樂器；它也是一種樂器。在20世紀以來的音樂史上，它一直扮演著直接傳達情感和思想的身體的延伸。當你的手指接觸琴弦的那一刻，手指的振動就會產生聲音，並透過擴大器和效果器傳到世界各地。吉他發出的音色就像一面鏡子，可以反映出一個人的情緒、心理狀態，甚至是文化背景。
+ギターは単なる楽器ではなく、20世紀以降の音楽史において、感情や思想を直接伝える**身体の拡張装置**として機能してきた。弦に指を触れる瞬間、音は手指の振動から生まれ、アンプやエフェクターを通じて世界に届く。ギターが生み出す音色は、その人の感情、精神状態、さらには文化的背景までも写し取る鏡のような役割を持つ。
 
-日本和世界各地的吉他手形像有所不同。在美國和英國，藍調和搖滾已成為基礎，該流派已發展成為主流。然而，日本經歷了更複雜和自由的發展，從戰後的電子熱潮到地下噪音、即興創作和後搖滾。日本吉他的獨特性體現在主流技術與地下破壞性表達的交會處。
+世界と日本では、ギタリスト像は異なる。アメリカやイギリスでは、ブルースやロックが基盤となり、メインストリーム中心に進化してきた。しかし、日本では戦後のエレキブームからアンダーグラウンドのノイズ、即興、ポストロックに至るまで、より複雑で自由な発展を遂げている。メインストリームの技巧と、地下の破壊的表現が交差する地点に、日本ギターの独自性が現れる。
 
 ---
 
@@ -40,176 +40,186 @@ color: #fff;
 </style>
 
 
-# 二.世界版：吉他開始革命的那一刻
+# II. 世界篇：ギターが革命を鳴らした瞬間
 
-## 1. 搖滾的爆發點（1950年代-60年代）
+## 1. ロックの発火点（1950〜60年代）
 
-**查克·貝裡**透過節奏吉他和樂句的融合建立了搖滾樂的支柱。右手的切奏構成了舞曲的基礎，而左手的樂句雖然源自布魯斯，卻畫出了獨特的旋律。貝裡的音樂顯示電吉他可以成為青春叛逆和自由的象徵。
+**Chuck Berry**は、リズムギターとフレーズの融合によりロックンロールの骨格を築いた。彼の右手によるカッティングはダンスビートの基盤を作り、左手のフレーズはブルース由来ながら独自の旋律を描く。Berryの音楽は、エレキギターが若者の反抗や自由を象徴する手段になることを示した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKCt8ssC7cs?si=Mt9LbNIUi7bufZ-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**吉米·亨德里克斯**爆發了電吉他的潛力。他充分利用回饋、哇音踏板、移相器等效果器，讓吉他聽起來像「聲音」。在他的現場表演中，他將即興創作和顛覆性的表達結合起來，將吉他從單純的伴奏樂器轉變為主要的表達工具。
+**Jimi Hendrix**は、エレクトリックギターの可能性を爆発させた。フィードバック、ワウペダル、フェイザーなどのエフェクトを駆使し、ギターを「声」として鳴らした。ライブパフォーマンスでは即興と破壊的表現を組み合わせ、ギターを単なる伴奏楽器から**表現の中心装置**に変えた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-**Lou Reed（地下絲絨樂隊）**使用簡單的和弦進行和不和諧音為他的音樂帶來藝術顛覆性。它很流行，但又具有挑釁性，並且蘊含著一種地下精神。
+**Lou Reed（The Velvet Underground）**は、単純なコード進行や不協和音を用いて、音楽にアート的破壊性を持ち込んだ。ポップでありながら挑発的で、アンダーグラウンドの精神を内包していた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 2. 實驗性和叛逆的吉他風格（1970年代-80年代）
+## 2. 実験と反逆のギタリズム（1970〜80年代）
 
-**羅伯特·弗里普 (King Crimson)** 使用複雜的節奏和即興創作的層次，建立了前衛搖滾的創新方法。
+**Robert Fripp（King Crimson）**は、複雑なリズムと即興レイヤーを駆使し、プログレッシブロックにおける革新的アプローチを確立した。
 
-**Thurston Moore 和 Lee Ranaldo（音速青年）** 使用專門調音和準備的吉他，積極地將偶然性融入到他們的作品中。他利用噪音作為表達手段，顯示吉他不僅是描繪旋律和和弦的工具，也是描繪空間和情感的工具。
+**Thurston Moore & Lee Ranaldo（Sonic Youth）**は、特殊チューニングや準備されたギターを使用し、偶然性を作品に積極的に取り入れた。ノイズを表現手段の一部とし、ギターが旋律や和音だけでなく空間や感情を描く道具であることを示した。
 
-**格倫·布蘭卡**組了一支吉他管弦樂隊，可以表達城市聲學效果。由多名吉他手創造的和聲與噪音的分層結構對後來的鞋注和噪音搖滾產生了重大影響。
+**Glenn Branca**はギターオーケストラを編成し、都市的な音響の表現を可能にした。多人数ギターによるハーモニーとノイズの重層構造は、後のシューゲイザーやノイズロックに大きな影響を与えた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gDBsyra0FIA?si=CzvTcQbIrbnyQE46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Fred Frith** 強調即興創作中的偶然性，並最大限度地發揮吉他的物理可能性。透過以各種方式操縱撥片、琴弦和琴身，他創造了超越傳統技術的表現方式。
+**Fred Frith**は即興演奏で偶発性を重視し、ギターの物理的可能性を最大化。ピック、弦、ボディを多様に操作し、従来の技法を超えた表現を行った。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2WSeZZV6iQ?si=6HCr9hcptnQiKByT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 3. 沉默與咆哮之間（1990年代-2000年代）
+## 3. 静寂と轟音の狭間（1990〜2000年代）
 
-**凱文希爾茲（《我的血腥情人節》）**是使用咆哮牆的鞋子凝視的代表。他創造了一種新的風格，透過回饋和調製將聲音空間化，並透過聲音的「質感」來表達情感。
+**Kevin Shields（My Bloody Valentine）**は、轟音の壁を用いたシューゲイザーの代表。フィードバックとモジュレーションで音を空間化し、音の「質感」で感情を表現する新たなスタイルを生み出した。
 
-**David Pajo (Slint/Papa M)** 是構建沉默的後搖滾先鋒。細膩的琶音與節奏的結合，營造出靜與動的對比，創造出一個敘事性的聲音世界。
+**David Pajo（Slint / Papa M）**は、静寂を構造化するポストロックの先駆。繊細なアルペジオとリズムの組み合わせで、静と動のコントラストを生み出し、物語的な音世界を構築した。
 
-**吉姆·奧羅克**融合實驗聲音和旋律，發展出跨流派的吉他作品。這使得聲學和歌唱精神的雙重實現成為可能。
+**Jim O’Rourke**は、実験音響とメロディを融合させ、ジャンル横断的なギターワークを展開。音響と歌心の両立を可能にした。
 
-**祝你好運！黑皇帝**將吉他視為史詩的工具，用長歌描繪城市和社會風景。
+**Godspeed You! Black Emperor**は、ギターを叙事詩の道具として扱い、長大な楽曲で都市や社会の風景を描く。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZgkyX1-8ERo?si=OBAmir7F_da7KuMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 4. 現代跨國者（2010-2020年代）
+## 4. 現代の越境者たち（2010〜2020年代）
 
-**Mary Halvorson** 融合了爵士即興創作和抽象表達，用吉他將不可能變成可能。他是現代爵士樂和前衛音樂之間的橋樑。
+**Mary Halvorson**はジャズ即興と抽象表現を融合し、ギターの不可能性を可能に変える。モダンジャズとアヴァンギャルドを橋渡しする存在。
 
-**萊利沃克**將藍調、爵士樂和搖滾融合在一起，引入現代民謠的精神變體。吉他是講故事的工具，也是情感複雜性的鏡子。
+**Ryley Walker**は現代フォークに精神的変奏を導入し、ブルース、ジャズ、ロックを融合。ギターは物語を語るための手段であり、感情の複雑さを映す鏡となる。
 
-**伊夫腫瘤**穿越噪音、流行音樂和身體表達。吉他被視為聲音或音效，並成為超越樂器框架的表達媒介。
+**Yves Tumor**は、ノイズ、ポップ、身体表現を横断。ギターは声や効果音のように扱われ、楽器の枠組みを超えた表現媒体となる。
 
-**Ichika Nito / Yvette Young** 是 SNS 世代的技術專家。憑藉著複雜的多節奏、敲擊和和聲構建，他徹底改變了數位時代的吉他技術。
-
----
-
-# 三．日本：沉默而咆哮的吉他手的歷史
-
-## 1. 戰後與電氣技術的黎明（1950年代-1970年代）
-
-**寺內武**引領了戰後日本的電力熱潮。他用技術性和娛樂性的表演向年輕人傳達了吉他的魅力。
-
-**Char**將藍調翻譯成日語，並擴展了日本音樂文化中的吉他表達方式。他獨特的旋律和技巧為他贏得了國內外的讚譽。
-
-**高中正義**融合融合與熱帶醇厚，賦予日本吉他音樂獨特的色彩。它的特點是技術與情感的融合。
+**Ichika Nito / Yvette Young**はSNS世代の技巧派。複雑なポリリズム、タッピング、ハーモニー構築により、デジタル時代のギターテクニックを刷新した。
 
 ---
 
-## 2. 地下運動（1970年代-1980年代）
+# III. 日本篇：沈黙と轟音のギタリスト史
 
-**水穀隆（裸身集會）**以其頹廢的吉他噪音和迷幻的表演對日本噪音/地下音樂界產生了巨大影響。
+## 1. 戦後からエレキ黎明期（1950〜70年代）
+
+**寺内タケシ**は戦後日本のエレキブームを牽引。テクニカルかつエンターテイメント性のある演奏で、若者にギターの魅力を伝えた。
+
+**Char**はブルースを日本語化し、日本の音楽文化におけるギター表現を拡張。独自の旋律と技巧で国内外に評価を得た。
+
+**高中正義**はフュージョンや南国風メロウを融合させ、日本ギター音楽に独自の彩りを与えた。技巧と情緒の融合が特徴。
+
+---
+
+## 2. アンダーグラウンドの胎動（1970〜80年代）
+
+**水谷孝（Les Rallizes Dénudés）**は退廃的なギターノイズとサイケデリックな演奏で、日本のノイズ／アンダーグラウンドシーンに多大な影響を与えた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3XUkzRWei34?si=q2N0itqSX4Kgd3AZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 **山本精一（Boredoms / Omoide Hatoba）**：
-- **無聊期**：節奏與破壞的儀式表演。噪音、即興創作和迷幻的融合。
-- **獨奏~思出鳩羽時期**：內省的旋律和迷幻的表達。實現歌唱精神與噪音的共存。
-- 他體現了日本搖滾中隱藏的無意識表達，他對後來的吉他手的影響是不可估量的。
+- **Boredoms期**：リズムと破壊の儀式的演奏。ノイズ・即興・サイケを融合。
+- **ソロ〜Omoide Hatoba期**：内省的旋律とサイケデリック表現。歌心とノイズの共存を実現。
+- 日本語ロックに潜む無意識的表現を体現し、後続ギタリストへの影響は計り知れない。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/abitotmLo18?si=FQfZaRVCWwtFEldI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 **灰野敬二**：
-- **終極實體吉他手**：同時操控吉他、聲音和身體，透過即興創作創造終極聲音世界。
-- **技巧**：融合了撥、滑、拉弓、共鳴物操控、低聲喊叫、怪聲、吹口哨等所有身體表現。
-- **意識形態**：音樂是身體的延伸，吉他是情感和精神的一面鏡子。將破壞性的語氣昇華為情感表達。
-- **代表作品**：
-  - 「來自日本的即興音樂現場」系列：極限即興表演紀錄
-  - MERZBOW 現場表演：噪音與肢體表達的對話
-  - 與山本精一的合作：即興創作，內省與破壞交織在一起
-- **即時功能**：
-  - 持續數小時的長篇即興創作
-  - 全身演奏（琴弦、身體、聲音）
-  - 這是一種體驗式表演，不僅吸引聽覺，還吸引空間和身體感覺。
-- **影響力**：在整個日本地下樂壇留下了巨大的足跡，成為後來的吉他手和實驗音樂家的精神標竿。
+- **身体派ギタリストの極致**：ギター、声、身体を同時に操作し、即興演奏で極限の音世界を生む。
+- **技法**：ピッキング、スライド、ボウ演奏、共鳴物体操作、低音シャウト、奇声、口笛など、あらゆる身体表現を統合。
+- **思想**：音楽は身体の延長であり、ギターは感情と精神の鏡。破壊的音色を感情表現として昇華。
+- **代表作**：
+  - 『Live at Improvised Music from Japan』シリーズ：極限即興演奏の記録
+  - MERZBOWとの共演ライブ：ノイズと身体表現の対話
+  - 山本精一とのコラボレーション：内省と破壊が交錯する即興
+- **ライブの特徴**：
+  - 数時間に及ぶ長尺即興
+  - 身体全体を使った演奏（弦、ボディ、声）
+  - 聴覚だけでなく、空間感覚や身体感覚に訴える体験型パフォーマンス
+- **影響**：日本のアンダーグラウンドシーン全体に大きな足跡を残し、後続ギタリストや実験音楽家の精神的指標となる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**MERZBOW（秋田雅美）**追求噪音的純粹形式。他使用吉他和電子設備，發展出極端的表現力。
+**MERZBOW（秋田昌美）**はノイズの純粋形態を追求。ギターや電子機器を用い、極限表現を展開。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NP1UQ3hZXuA?si=CmyJyjfLF3ybGcQ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 3.後搖滾與抒情建築（1990年代-2000年代）
+## 3. ポストロックと叙情の建築（1990〜2000年代）
 
-**MONO** 是一支後搖樂隊，用吉他描繪光明和祈禱。它的特色是歌曲結構長、琶音抒情。
+**MONO**はギターで光や祈りを描くポストロックバンド。長大な曲構造とアルペジオの叙情性が特徴。
 
-**腳趾**探索吉他作為一種節奏結構。平衡數學精度和情感表達。
+**toe**はリズム構造としてのギターを探求。数学的精密さと感情表現を両立。
 
-**envy** 透過將熱情的硬核與抒情的吉他作品融合在一起，建立了獨特的情感表達。
+**envy**は激情ハードコアに叙情ギターワークを融合させ、独自の感情表現を確立。
 
-**鮑里斯**因其咆哮的聲音和各種流派的融合而贏得了國際讚譽。
+**Boris**は轟音と多彩なジャンル融合で国際的評価を獲得。
 
-**Zeni Geva** 融合金屬和噪音，創造出破壞性的即興表達。
-
----
-
-## 4.新一代孤（2010-2020s）
-
-**Ichika Nito** 是一位來自 SNS 一代的熟練藝術家，充分利用多節奏、敲擊和和聲構建。透過 YouTube 向全世界傳播。
-
-**青葉市子**用原聲吉他來表達夢幻般的民間故事。
-
-**旅人七尾**融合吉他和歌詞，發展現代詩意的音樂表達方式。
-
-**山本精一之後的影響**：一位年輕的吉他手出現，繼承了內向、即興、地下的表達方式。
+**Zeni Geva**はメタルとノイズを融合し、破壊的即興表現を行う。
 
 ---
 
-# 四．重新定義吉他：裝置、琴體、祈禱
+## 4. 新世代の孤高（2010〜2020年代）
 
-吉他不只是一種樂器，更是一種自我表達的工具。
+**Ichika Nito**はSNS世代の技巧派で、ポリリズム、タッピング、ハーモニー構築を駆使。YouTubeを通じて世界に発信。
 
-- **踏板哲學**：聲音創造=自我設計。每個踏板都成為演奏者個性的延伸。
-- **循環/故障/DAW**：擴展「手指記憶」。單一演奏者可以演奏管弦樂表演。
-- **山本精一 x Jim O’Rourke**：架起京都地下與世界的橋樑。影響了國內外的即興音樂和實驗音樂。
+**青葉市子**はアコースティックギターで夢幻的民話表現を行う。
 
-灰野敬二將吉他視為身體與心靈的延伸，是一種用極致的聲音震撼聽者感官的存在。即興、破壞、表達三位一體成為日本地下吉他史上的重要座標。
+**七尾旅人**はギターと歌詞を融合させ、現代詩的音楽表現を展開。
+
+**山本精一以降の影響**：内向・即興・アンダーグラウンド表現を継承する若手ギタリストが登場。
+
+---
+
+# IV. ギターの再定義：装置・身体・祈り
+
+ギターは単なる楽器ではなく、**自己表現の装置**である。
+
+- **ペダルボードの思想**：音作り＝自我デザイン。個々のペダルが奏者の人格の拡張となる。
+- **ループ・グリッチ・DAW**：拡張された“指の記憶”。単一の演奏者がオーケストラ的表現を可能に。
+- **山本精一×Jim O’Rourke**：京都アンダーグラウンドから世界へ橋渡し。国内外の即興・実験音楽に影響。
+
+灰野敬二は、ギターを身体と精神の延長として扱い、音の極限で聴き手の感覚を揺さぶる存在である。即興・破壊・表現の三位一体が、日本アンダーグラウンド・ギター史における重要な座標となる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QloLYsK5v9A?si=zTitzaLilQelcW_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# 五、結語：餘音繞梁，不絕於耳
+# V. 結章：鳴り止まない弦の余韻
 
-吉他一直是自由表達的象徵，從地下到世界。 「表演者的溫度和思想」比技術更重要的時代已經到來。
+ギターは地下から世界まで、常に自由な表現の象徴であり続けた。技術よりも、**奏者の温度と思想**が問われる時代が訪れている。
 
-> 吉他弦的顫動在各個世紀中持續產生共鳴。
+> ギターの弦の震えは、時代を超えて鳴り続ける。
 
 
 ---
 
-### 年表（1950-2020）
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fngCNthigD8?si=z3g2VmE0WlQ9ojnm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+### 年表（1950〜2020）
 
 <div class="mermaid">
 
@@ -237,22 +247,23 @@ flowchart TD
 
 ---
 
-### 唱片目錄
+### ディスコグラフィー
 
 
-|藝術家 |代表作品 |友情連結 |
-|--------------|---------|----------------|
-|山本精一 | 「咖啡館大腦」| [ 亞馬遜 ](https://amzn.to/46ZnvSH) |
-|灰野敬二 | 「渡志岳？」 | [亞馬遜](https://amzn.to/4heT6mI) |
-|鮑里斯 | “Gensho（與 Merzbow）”| [ 亞馬遜 ](https://amzn.to/47gIqzB) |
-|單聲道 | 《不朽之風讚歌》| [ 亞馬遜 ](https://amzn.to/47gIxv1) |
-|凱文希爾茲 / 我的血腥情人節 | 《無愛》| [ 亞馬遜 ](https://amzn.to/4n8w2HD) |
-|音速青年| 《白日夢國度》| [ 亞馬遜 ](https://amzn.to/4hhJV4Z) |
-|查克·貝裡 | “偉大的二十八人” | [ 亞馬遜 ](https://amzn.to/3Wdxmhy) |
-|夏爾（竹中直人）| 「煙」| [ 亞馬遜 ](https://www.amazon.co.jp/s?k=Char+Smoke) |
-|寺內武 | 「關於電吉他的一切」| [ 亞馬遜 ](https://amzn.to/499jFro) |
-|青葉市子 | “0（零）”| [ 亞馬遜 ](https://amzn.to/4os2Yfk) |
-|腳趾| 『關於我關於模糊焦慮的閒散情節的書』| [ 亞馬遜 ](https://amzn.to/4nVdaNt) |
-|伊薇特楊 / Covet | “特藝彩色”| [ 亞馬遜 ](https://amzn.to/3L2AbPX) |
-|弗雷德·弗里斯 | “吉他獨奏”| [ 亞馬遜 ](https://amzn.to/3Jc5o2K) |
+| アーティスト | 代表作 | リンク |
+|---------------|---------|---------------|
+| 山本精一（Seiichi Yamamoto） | 『カフェ・ブレイン』 | [ Amazon ](https://amzn.to/46ZnvSH) |
+| 灰野敬二（Keiji Haino） | 『Watashi Dake?（わたしだけ？）』 | [ Amazon ](https://amzn.to/4heT6mI) |
+| BORIS | 『Gensho（with Merzbow）』 | [ Amazon ](https://amzn.to/47gIqzB) |
+| MONO | 『Hymn to the Immortal Wind』 | [ Amazon ](https://amzn.to/47gIxv1) |
+| Kevin Shields / My Bloody Valentine | 『Loveless』 | [ Amazon ](https://amzn.to/4n8w2HD) |
+| Sonic Youth | 『Daydream Nation』 | [ Amazon ](https://amzn.to/4hhJV4Z) |
+| Chuck Berry | 『The Great Twenty-Eight』 | [ Amazon ](https://amzn.to/3Wdxmhy) |
+| Char（竹中尚人） | 『Smoke』 | [ Amazon ](https://www.amazon.co.jp/s?k=Char+Smoke) |
+| 寺内タケシ | 『エレキ・ギターのすべて』 | [ Amazon ](https://amzn.to/499jFro) |
+| 青葉市子 | 『0（ゼロ）』 | [ Amazon ](https://amzn.to/4os2Yfk) |
+| toe | 『the book about my idle plot on a vague anxiety』 | [ Amazon ](https://amzn.to/4nVdaNt) |
+| Yvette Young / Covet | 『technicolor』 | [ Amazon ](https://amzn.to/3L2AbPX) |
+| Fred Frith | 『Guitar Solos』 | [ Amazon ](https://amzn.to/3Jc5o2K) |
 
+---

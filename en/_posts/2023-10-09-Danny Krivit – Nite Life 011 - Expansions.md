@@ -12,9 +12,9 @@ title: Danny Krivit – Nite Life 011 - Expansions
 ---
 
 
-Slammin" and jammin' jazzy house from one of New York"s most experienced disc jockeys. Danny Krivit has been active in the New York disco scene from Paradise Garage to Danceteria to Save the Robots to Limelight to today. He plays his "Body & Soul" residency every Sunday.
+ニューヨークで最も経験豊富なディスクジョッキーの1人によるスラミンアンドジャミンのジャジーハウス。ダニー・クリビットは、パラダイス・ガラージからダンステリア、セーブ・ザ・ロボット、ライムライト、そして今日に至るまで、ニューヨークのディスコシーンで活躍してきました。毎週日曜日に彼の「ボディ＆ソウル」のレジデンシーでプレイ。
 
-CD1 has a slightly eclectic feel, and CD2 is full of high quality sounds. Especially when Klubfilter, Funk Against Jazz, Dennis Ferrer, and Nigel Hayes are all mixed together, it creates a live instrument-heavy concert atmosphere. Things like Celebrate and especially Octave One's "Blackwater" and Peckham Royalty with their amazing keyboards make this special.
+CD1は少しエクレクティックな雰囲気があり、CD2はクオリティの高いサウンドで満ちています。特に、Klubfilter、Funk Against Jazz、Dennis Ferrer、Nigel Hayesがすべて一緒にミックスされると、生楽器の多いコンサートの雰囲気が生まれます。Celebrateや特にOctave Oneの「Blackwater」、素晴らしいキーボードを備えたPeckham Royaltyなどがこれを特別なものにしています。
 
 #### Tracklist
 ```md
@@ -47,7 +47,7 @@ CD1 has a slightly eclectic feel, and CD2 is full of high quality sounds. Especi
 2-02. Pal Joey–Harmonyなど
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_kf4lcxRxM?si=YscxLdX00pWYjn6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

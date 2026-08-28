@@ -23,7 +23,7 @@ B1. Origin
 B2. Felix
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m34400004897?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34400004897?afid=6142608987){: .button1}
 
 
 

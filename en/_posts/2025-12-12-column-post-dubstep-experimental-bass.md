@@ -10,20 +10,20 @@ tags:
 - Post-Dubstep
 - Experimental-Bass
 - Electronic
-title: '[Column] Post-Dubstep / Experimental Bass'
+title: 【コラム】 Post-Dubstep / Experimental Bass
 ---
 
 
 
-## Introduction: The context of "post-dubstep" born in London in the late 2000s
+## 序章：2000年代後半のロンドンが生んだ「ポストダブステップ」の文脈
 
-Text: mmr｜Theme: About the new bass culture born from urban reverberations
+文：mmr｜テーマ：都市の残響から生まれた新しい低音文化について
 
-Post-Dubstep is a movement that expanded bass expression after dubstep, which was formed mainly in London in the late 2000s. Starting from the deep bass, dub-derived spatial processing, and garage rhythm structure of traditional dubstep, it is distinctive in that it has expanded into R&B, soul, experimental electronic music, ambient, and art-oriented beat music.
+ポストダブステップ（Post-Dubstep）は、2000年代後半のロンドンを中心に形成された、ダブステップ以降の低音表現を拡張するムーブメントである。従来のダブステップが持っていた重低音、ダブ由来の空間処理、ガラージのリズム構造を出発点としながら、R&B、ソウル、実験電子音楽、アンビエント、アート志向のビートミュージックへと領域を広げた点に特徴がある。
 
-In South London (Croydon, Brixton, etc.), which was the center of early dubstep, there existed a ""dark sub-bass sound'' that was established through the DMZ party culture, but from around 2006 to 2009, young producers began to introduce more diverse elements. Representatives include **Burial**, **Mount Kimbie**, and **James Blake**, who later gained worldwide acclaim.
+初期ダブステップの中心地であったサウス・ロンドン（Croydon、Brixton など）では、DMZ のパーティカルチャーを通して成立した「サブベース主体の暗いサウンド」が存在していたが、2006〜2009年頃にかけて若いプロデューサーたちがより多様な要素を導入し始めた。その代表が **Burial** や **Mount Kimbie**、そして後に世界的な評価を得る **James Blake** を含む世代である。
 
-By incorporating not only club culture but also ""urban reverberations'' such as urban noise, late-night traffic, cell phone recordings, and field recordings as sample materials, they created a new emotionality that was not present in conventional bass music.
+彼らはクラブカルチャーだけでなく、都市騒音、深夜の交通、携帯録音、フィールドレコーディングなどの「都市の残響」をサンプル素材として取り込むことで、従来のベースミュージックにはなかった新しい情緒性を生み出した。
 
 ---
 
@@ -41,105 +41,105 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Basic characteristics and acoustic approaches
+## 第1章：基礎的特徴と音響的アプローチ
 
-### 1-1 Bass structure: Sub-Bass reverberation and reconstruction
-Post-dubstep bass processing tends to have a "subdued attack" and "spatial breadth" compared to early dubstep.
-Typical characteristics include:
+### 1-1 低音構造：Sub-Bass の残響と再構築
+ポストダブステップの低音処理は、初期ダブステップに比べて「抑制されたアタック」と「空間的広がり」を持つ傾向がある。  
+典型的な特徴として以下が挙げられる。
 
-- Focus on deep sub-bass between 40 and 60Hz
-- Frequently used sine wave based
-- Emphasis on subtle fluctuations in the volume envelope rather than LFO modulation
-- Don't make the sub stereo, fix it in the center and spread the surroundings with field sound
+- 40〜60Hz の深いサブベースを中心とする  
+- サイン波ベースの使用頻度が高い  
+- LFO モジュレーションよりもボリュームエンベロープの微細な揺れを重視  
+- サブをステレオ化せず、中央に固定し、周囲をフィールド音で広げる
 
-### 1-2 Rhythm structure: 2-step transformation and polyrhythm
-The beat is based on the garage-derived **2-step**, but it also includes certain fluctuations and broken beats.
+### 1-2 リズム構造：2-step の変形とポリリズム
+ビートはガラージ由来の **2-step** を基調としながらも、一定の揺らぎやブロークンビートを含む。
 
-- Bass drum ranges from **110 to 130 BPM** instead of around 140
-- Snare has a weak attack tone without emphasizing the backbeat
-- Hats are often made from processed field recordings rather than metal.
-- Use short samples not only of drum machines, but also of small objects hitting sounds, paper scraping sounds, etc.
+- バスドラムは 140前後ではなく、**110〜130 BPM** まで幅広い  
+- スネアは裏拍を強調せず、弱いアタックの音色  
+- ハットは金属的でなく、フィールド録音を加工した素材を使用する例も多い  
+- ドラムマシンだけでなく、小物の打撃音、紙のこすれ音などを短いサンプルとして利用
 
-### 1-3 Acoustic space: reverberation, particleization, field recording
-Post-dubstep can be described as a ""genre that creates space.'' In particular, the following elements are distinctive.
+### 1-3 音響空間：残響、粒子化、フィールド録音
+ポストダブステップは「空間を作るジャンル」と言ってもよい。特に以下の要素が特徴的である。
 
-- Use London street noises (rain, car sounds, ticket gates touching, etc.) as samples
-- Reproducing reflected sound in real space using Convolution Reverb
-- Texturing of reverberations using Granular Synthesis
-- Pauses of silence and noise affect the structure of the song
-
----
-
-## Chapter 2: Analysis of major artists
-
-## 2-1 Burial (Hyperdub)
-
-Since his debut in 2006, Burial has been hailed as a central symbol of post-dubstep.
-His most important characteristic is his ability to extract the feeling of loneliness in the city.
-
-### Sound characteristics
-- The vocal sample is extremely pitch-processed and contains multiple formants, giving it a "gender-unknown" feel.
-- Bringing Vinyl Crackle (record noise) to the foreground
-- The kick is a low attack like distant thunder in the middle of the night
-- The snare has a dry sound quality, not metallic, but like "broken pieces of wood"
-- Overall, a "foggy midrange" dominates, and the melody remains a short motif.
-- Frequent use of short release pads that disappear quickly
-
-### Sampling method
-Burial's sampling is particularly distinctive, incorporating various noises as musical elements.
-
-- Process train announcement sound and use it as a pad
-- Convert nighttime rain recordings into particles to create rhythm material
-- Composite game audio segments to form human nuances
-- Cut the vocal fragment extremely short and give it a ghostly presence with reverse reverb processing
-
-Through these methods, Burial's songs reconstructed "memories of the city outside of club music."
+- ロンドンの街の雑音（雨音、車の音、改札のタッチなど）をサンプルとして使用  
+- Convolution Reverb を用いた実空間の反射音の再現  
+- 粒子化（Granular Synthesis）による残響のテクスチャ化  
+- 無音やノイズの「間」が曲の構造に影響を与える
 
 ---
 
-## 2-2 James Blake: Combining songwriting and experimental bass
+## 第2章：主要アーティストの分析
 
-James Blake is unique in taking post-dubstep out of the context of club culture and combining it with singer-songwriter expression.
+## 2-1 Burial（Hyperdub）
 
-### Acoustic features
-- Extreme minimalism centered around piano and vocals
-- The bass is minimal and smoothly arranged around 50 to 70Hz.
-- The chord progression has a classical harmonic feel.
-- Suppress formant manipulation and blur the boundary between natural sounds and electronic sounds
-- Depending on the depth of compression, "breathing" functions as the rhythm of the song
+Burial は2006年のデビュー作以降、ポストダブステップの中心的象徴として語られてきた。  
+彼の最も重要な特徴は「都市の孤独感の抽出」にある。
 
-### Sampling example
-- Cut your own voice short, pitch shift it, and convert it into a harmonic-rich pad
-- Foreground piano pedal noise with compression
-- Mix short pulse noise (click) in the low range and use it as a kick replacement
+### サウンドの特徴
+- ボーカルサンプルは極端にピッチ処理され、複数のフォルマントが混ざり「性別不明」の質感をもつ  
+- Vinyl Crackle（レコードのノイズ）をあえて前景化  
+- キックは深夜の遠雷のような低いアタック  
+- スネアは金属質ではなく「折れた木材の破片」のような乾いた音質  
+- 全体的に「霧のような中域」が支配し、メロディは短いモチーフに留まる  
+- サッと消えるショートリリースのパッドを多用
 
-James Blake's approach has been treated as an important turning point, connecting ""experimental bass music" and ""introspective songwriting."
+### サンプリング手法
+Burial のサンプリングは特に特徴的で、さまざまな雑音が音楽的要素として組み込まれている。
 
----
+- 電車のアナウンス音を加工してパッドに使用  
+- 夜間の雨の録音を粒子化してリズム素材へ  
+- ゲーム音声の切片を複合させ、人間的なニュアンスを形成  
+- ボーカル断片を極端に短く切り、リバース・リバーブ処理で幽霊的な存在感を付与
 
-## Chapter 3: Sound Design Techniques Details
-
-### 3-1 Processing field recordings
-- Record London's environmental sounds (stations, buses, rain sounds)
-- Emphasize 300-800Hz with EQ to create a "mid-range urban feel"
-- Shorten the reverb and blur the contours of the space
-- Set Grain Size from 10 to 70ms to form a misty texture
-
-### 3-2 Vocal processing
-- Extreme movement of Pitch-shift ±12 or more
-- Independent adjustment of Formant-shift to make gender and age ambiguous
-- By adding a short Reverse Reverb, it creates a texture like a "phantom image that approaches and disappears"
-- There are many examples of using harmonizers to form dissonant harmonies.
-
-### 3-3 Base generation
-- Mainly sine waves
-- Short envelope with Attack 5~20ms, Release 100~200ms
-- Other layers are organized with HPF to keep low end clear below 60Hz
-- The stereo spread is left to field recording, and the bass itself is monaural.
+こうした手法により、Burial の楽曲は「クラブミュージックの外側にある都市の記憶」を再構築するものとなった。
 
 ---
 
-## Chapter 4: Chronology (Main Trends)
+## 2-2 James Blake：ソングライティングと実験ベースの融合
+
+James Blake はポストダブステップをクラブカルチャーの文脈から引き上げ、シンガーソングライター的表現と結びつけた点で特異な存在である。
+
+### 音響的特徴
+- ピアノとボーカルを中心に据えた極端なミニマリズム  
+- ベースは必要最低限で、約50〜70Hz を中心に滑らかに配置  
+- コード進行はクラシカルな和声感を持つ  
+- フォルマント操作を抑制し、自然音と電子音の境界を曖昧化  
+- コンプレッションの深さによって「息づかい」が楽曲のリズムとして機能
+
+### サンプリング例
+- 自身の声を短く切り、ピッチシフトして倍音の豊かなパッドに変換  
+- ピアノのペダルノイズをコンプレッションで前景化  
+- 低域に短いパルスノイズ（クリック）を混ぜ、キックの代替として使用
+
+James Blake のアプローチは「実験ベースミュージック」と「内省的なソングライティング」を接続した重要な転換点として扱われている。
+
+---
+
+## 第3章：サウンドデザインの技法詳細
+
+### 3-1 フィールド録音の処理
+- ロンドンの環境音（駅、バス、雨音）を録音  
+- EQ で 300〜800Hz を強調し「中域の都市感」を作る  
+- リバーブを短くし、空間の輪郭を曖昧化  
+- Grain Size を 10〜70ms で設定し、霧状のテクスチャを形成
+
+### 3-2 ボーカル加工
+- Pitch-shift ±12 以上の極端な移動  
+- Formant-shift を独立調整し、性別・年齢の曖昧化  
+- Reverse Reverb を短く付加することで「近づいて消える幻像」のような質感に  
+- ハーモナイザーを使用して不協和な和声を形成する例も多い
+
+### 3-3 ベース生成
+- サイン波を中心とする  
+- Attack 5〜20ms、Release 100〜200ms の短いエンベロープ  
+- 60Hz 以下のローエンドをクリアに保つため、他のレイヤーは HPFで整理  
+- ステレオ広がりはフィールド録音に任せ、ベース自体はモノラル
+
+---
+
+## 第4章：年表（主要動向）
 
 <div class="mermaid">
 timeline
@@ -158,63 +158,63 @@ timeline
 
 ---
 
-## Chapter 5: Expanding from Post-Dubstep to Experimental Bass
+## 第5章：ポストダブステップから Experimental Bass への拡張
 
-Since the 2010s, post-dubstep has expanded beyond just a genre derived from dubstep to include the broader concept of "Experimental Bass."
+2010年代以降、ポストダブステップは単にダブステップ以降の派生ジャンルではなく、より広い「Experimental Bass（実験ベース）」の概念へと拡大した。
 
-### Features
-- The bass line is no longer the main character of the song, but an element of spatial structure.
-- Introduction of ASMR-like microsounds
-- Down tempo that loosely incorporates the structure of half tempo
-- Hybrid sound image: fusion of R&B, contemporary music, and ambient music
+### 特徴
+- ベースラインが曲の主役ではなく「空間構造の要素」へ  
+- ASMR 的微細音の導入  
+- ハーフテンポの構造を緩く取り入れたダウンテンポ化  
+- ハイブリッドな音像：R&B、現代音楽、アンビエントとの融合
 
-### Changes in representative elements
-- Early: London urban feel, fog texture
-- Middle period: Vocal-based introspective expression
-- Modern: Intersection with ASMR, environmental sounds, and minimal sound
+### 代表的要素の変遷
+- 初期：ロンドンの都市感、霧の質感  
+- 中期：ボーカル主体の内省的表現  
+- 現代：ASMR・環境音響・ミニマルサウンドとの交差
 
 ---
 
-## Chapter 6: Acoustic analysis examples (structure, frequency, materials)
+## 第6章：音響解析例（構造・周波数・素材）
 
-### 6-1 Typical frequency band distribution
-- 20~60Hz: Sine wave base
-- 200-800Hz: Field recording, noise, vocal fragments
-- 1~3kHz: Chirp sound, processed percussion
-- 8~12kHz: Air feel, atomization noise
+### 6-1 典型的な周波数帯分布
+- 20〜60Hz：サイン波ベース  
+- 200〜800Hz：フィールド録音・ノイズ・ボーカル断片  
+- 1〜3kHz：チャープ音、加工されたパーカッション  
+- 8〜12kHz：空気感、微粒子化ノイズ
 
-### 6-2 Song composition
-- Avoid clear drops
-- Structure that "disappears/appears" rather than repetition
-- The boundary between rhythm and melody is vague
+### 6-2 曲構成
+- 明確なドロップを避ける  
+- 反復よりも「消える／現れる」構造  
+- リズムとメロディの境界が曖昧
 
-### Diagram (structural model)
+### 図（構造モデル）
 
 <div class="mermaid">
 flowchart TD
-    A["Environmental sound materials"] --> B["Particle treatment"]
-    B["Particle treatment"] --> C["Rhythmic noise"]
-    A["Environmental sound materials"] --> D["Padding"]
-    D["Padding"] --> E["Space construction"]
-    C["Rhythmic noise"] --> F["Song body"]
-    E["Space construction"] --> F["Song body"]
+    A["環境音素材"] --> B["粒子化処理"]
+    B["粒子化処理"] --> C["リズム的ノイズ"]
+    A["環境音素材"] --> D["パッド化"]
+    D["パッド化"] --> E["空間構築"]
+    C["リズム的ノイズ"] --> F["Song body"]
+    E["空間構築"] --> F["楽曲本体"]
 </div>
 
 
 ---
 
-## Conclusion: Post-dubstep as the future of bass
+## 結語：低音の未来としてのポストダブステップ
 
-Post-dubstep is more than just an evolution of dubstep, it is a movement that uses urban reverberations, field recordings, introspective vocals, and experimental electronic music to ""renew emotional expression using bass.''
+Post-dubstep is not just an evolution of dubstep, but a movement that uses urban reverberations, field recordings, introspective vocals, and experimental electronic music to ""renew emotional expression using bass.''
 
-Post-dubstep/Experimental Bass will continue to be a fertile ground for new sonic experiments, just as Burial translated the solitude of the city into sound and James Blake integrated the personal voice and electronic sounds.
+Burial が街の孤独を音に変換し、James Blake が個人の声と電子音を統合したように、ポストダブステップ／Experimental Bass は今後も新たな音響実験の土壌となり続けるだろう。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zmBantr7ZY4?si=yPHT6Eev-qSqxil8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

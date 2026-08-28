@@ -9,15 +9,15 @@ permalink: /zh-hant/public-energy-slumber-velocity/
 tags:
 - Techno
 - Acid
-title: 公共能源 – 睡眠速度
+title: Public Energy – Slumber Velocity
 ---
 
 
-《Slumber》有著強烈的律動和近乎消失的低音，在回歸更強烈的聲音之前先讓位給簡約的恍惚旋律。賽道上還佈滿了額外的酸滴。
+"Slumber" は、強烈なグルーヴと、ほぼ消え去るかのような低音ベースが特徴で、ミニマリスティックなトランスのメロディに変わり、さらに激しいサウンドに戻ります。追加のアシッドドロップもトラック全体にわたって絡みつきます。
 
-另一方面，「Velocity」則更具歐洲風格，並以鼓聲為特色。
+一方で、"Velocity" は、よりヨーロッパスタイルでドラムロールが特徴です。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Slumber
 

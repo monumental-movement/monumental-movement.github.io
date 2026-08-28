@@ -16,7 +16,7 @@ title: Sponge – Rotting Piñata
 
 Sponge is an American rock band formed in Detroit, Michigan in 1992.
 
-"Rotting Piñata", released in 1995, is Sponge's first studio album and masterpiece. It includes the hit songs "Plowed" and "Molly".
+1995年にリリースした「Rotting Piñata(ロッティングピニャータ)」は、Spongeのファーストスタジオアルバムであり代表作。ヒット曲「Plowed」、「Molly 」が収録されている。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ Sponge is an American rock band formed in Detroit, Michigan in 1992.
 12. Untitled
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TVUX4uteV2I?si=CwW4kcl2TsmUy9uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,9 +12,9 @@ title: Hiroshima – Go
 ---
 
 
-"Go" is Hiroshima's sixth album, and a work that shows their musical maturity and evolution. The album is characterized by rich soundscapes and sophisticated playing.
+「Go」は、Hiroshimaのシックスアルバムであり、彼らの音楽的な成熟と進化を示す作品となりました。アルバムは、豊かなサウンドスケープと洗練された演奏によって特徴付けられています。
 
-The album includes the songs "One Wish," "Island World," and "Another Place." These songs are a fusion of Hiroshima's distinctive sound and melodic song structure, creating a pleasant atmosphere.
+アルバムには、楽曲「One Wish」や「Island World」、「Another Place」などが収録されています。これらの曲は、Hiroshimaの特徴的なサウンドとメロディックな楽曲構成が融合し、心地よい雰囲気を醸し出しています。
 
 
 #### Tracklist
@@ -36,7 +36,7 @@ B3. Hawaiian Electric
 B4. Why Can't I Love You
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m91171909677?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91171909677?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dlAURpQ3REs?si=DunaESu1_3J9xDUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

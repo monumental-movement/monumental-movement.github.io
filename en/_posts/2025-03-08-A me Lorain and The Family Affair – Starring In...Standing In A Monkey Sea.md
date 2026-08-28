@@ -16,9 +16,9 @@ title: A'me Lorain & The Family Affair – Starring In...Standing In A Monkey Se
 ---
 
 
-This album, released by RCA in 1990, is the debut album by American pop singer and frontman of the funk band The Family Affair, A'me Lorain. The Japanese title is "Tokimeki no Wonderland"
+1990年にRCAからリリースされたこのアルバムは、アメリカのポップシンガーであり、ファンクバンドThe Family Affair のフロント、A'me Lorain(エイミー・ロレイン)のデビューアルバム。邦題は「ときめきのワンダーランド」
 
-The song Whole Wide World, released in 1990, was a huge hit on the US dance charts and was featured on the soundtrack for the movie True Love.
+1990年にリリースした収録曲Whole Wide Worldは全米のダンスチャートで大ヒットとなり、映画True Loveのサウンドトラックにも使用された。
 
 
 #### Tracklist
@@ -37,7 +37,7 @@ The song Whole Wide World, released in 1990, was a huge hit on the US dance char
 12. Reprise
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gFzLWYVt14?si=eBYxdOGOwIvtMJ-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

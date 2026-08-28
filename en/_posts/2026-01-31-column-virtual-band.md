@@ -10,24 +10,23 @@ tags:
 - History
 - Avatar
 - Metaverse
-title: '[Column] Possibilities of virtual bands: How intangible music has expanded
-  the world'
+title: 【コラム】 バーチャルバンドの可能性――実体なき音楽が世界を拡張してきた軌跡
 ---
 
 
 
-## What is a virtual band?
+## バーチャルバンドとは何か
 
 Text: mmr | Theme: Deciphering from historical facts how virtual bands that combine digital technology and storytelling have changed the way music is made, heard, and believed.
 
 
-### The invention of a "music unit" that has no substance
+### 実体を持たない「音楽ユニット」という発明
 
 A virtual band is a music project that does not feature any real people, but rather uses fictional characters or avatars as the main actors. What is important here is not that there are no people. Actual composers, performers, and producers do exist. However, what the audience is faced with is not the characters themselves, but the characters and worldview of the setting.
 
 This format is not just a visual presentation. It is characterized by the consistent functioning of a ""fictional subject'' with a personality and story, including music production, live performances, media development, and the formation of fan communities. In other words, a virtual band is more like a structure for transporting music than a music genre.
 
-> Virtual bands have been established as entities that fundamentally reconsider the premise of ""who is singing?'' in music.
+> バーチャルバンドは、音楽における「誰が歌っているのか」という前提を根底から問い直す存在として成立してきた。
 
 ---
 
@@ -48,15 +47,15 @@ color: #fff;
 
 ## Animation and concept bands as origins
 
-### The premise of empathizing with fictional beings
+### 架空の存在に感情移入するという前提
 
-The origins of the virtual band can be found in the animation and concept album culture of the late 20th century. In animated movies and television series, non-existent characters have sung the songs, and audiences have naturally accepted them. Here, ""who is singing in the story" was given priority over the fact ""who is singing?"
+バーチャルバンドの原型は、20世紀後半のアニメーションやコンセプトアルバム文化に見いだせる。アニメ映画やテレビシリーズでは、実在しないキャラクターが歌い、観客はそれを自然に受け入れてきた。ここでは「歌っているのが誰か」という事実より、「物語の中で誰が歌っているか」が優先されていた。
 
-Also, from the late 1960s to the 1970s, works using fictional band settings and alter egos appeared in rock and pop music. This was also a way for the artist to distance himself from his true image and increase his freedom of expression.
+また1960年代後半から70年代にかけて、ロックやポップスでは架空のバンド設定や別人格を用いた作品が登場する。これはアーティスト自身が自分の実像から距離を取り、表現の自由度を高めるための方法でもあった。
 
-These cases already had two elements necessary for later virtual bands. Firstly, the audience's receptivity to empathize with fictional beings. Second is the recognition that story and setting extend the musical experience.
+これらの事例は、後のバーチャルバンドに必要な二つの要素をすでに備えていた。第一に、架空の存在に感情移入する観客の受容性。第二に、物語や設定が音楽体験を拡張するという認識である。
 
-> Virtual bands did not suddenly appear, but are an extension of a long history of intertwining stories and music.
+> バーチャルバンドは突然現れたのではなく、物語と音楽が結びついてきた長い歴史の延長線上にある。
 
 ---
 
@@ -68,124 +67,124 @@ From the late 1990s to the early 2000s, computer graphics, the Internet, and the
 
 In terms of music production, with the spread of DAWs and sampling technology, music production that is separated from the physicality of performance has become commonplace. Singing voices can also be edited and processed to make it unclear who they belong to. This was an important change that led to later speech synthesis culture.
 
-In terms of distribution, characters and songs can now be distributed online at the same time, without relying on television or CDs. For virtual bands, the Internet was not just a means of advertising, but the basis for their very existence.
+流通の面では、テレビやCDに依存せず、オンライン上でキャラクターと楽曲を同時に展開できるようになった。バーチャルバンドにとって、インターネットは単なる宣伝手段ではなく、存在そのものを成立させる基盤だった。
 
-> Advances in technology have elevated virtual bands from a novel idea to a sustainable form of music.
-
----
-
-## Appearance of representative virtual bands
-
-### The moment the character is recognized as a band
-
-In the 2000s, virtual bands with distinct characters and musicality achieved international success. Through animated music videos, a fictional lineup, and a continuous narrative setting, they became ""objects to cheer for'' in the same way as real bands.
-
-What is important is that these projects were not one-off, topical works, but involved album releases, tours, and media development over a long period of time. The audience gradually begins to pay more attention to the relationships and changes between the characters than to the creators behind them.
-
-Here, the virtual band did not hide behind anonymity, but rather acquired a strong personality. A paradoxical state of being anonymous yet with a clear individuality was created.
-
-> The virtual band achieved reality not through a lack of reality, but through narrative coherence.
+> 技術の進化は、バーチャルバンドを奇抜な企画から持続可能な音楽形態へと押し上げた。
 
 ---
 
-## Speech synthesis and vocal disembodiment
+## 代表的バーチャルバンドの登場
 
-### The phenomenon that voices have personalities
+### キャラクターがバンドとして認識された瞬間
 
-Advances in speech synthesis technology have further expanded the possibilities of virtual bands. Vocals that do not depend on a specific singer's body will be treated as an attribute of the character itself. Here, the voice is not something that is played, but something that is designed.
+2000年代に入ると、明確なキャラクター設定と音楽性を持つバーチャルバンドが国際的に成功を収める。彼らはアニメーションのミュージックビデオ、架空のメンバー構成、継続的な物語設定を通じて、実在のバンドと同じように「応援される対象」となった。
 
-This change also affected the relationship between creators and consumers. Music will no longer be a product that is provided unilaterally, but will begin to function as a shared resource that can be expanded through derivative works and remixes. Characters are no longer fixed idols, but have become entities that can be updated within the community.
+重要なのは、これらのプロジェクトが単発の話題作ではなく、アルバムリリース、ツアー、メディア展開を長期的に行った点である。観客は次第に、背後にいる制作者よりも、キャラクター同士の関係性や変化に注目するようになる。
 
-As a result, virtual bands become more like decentralized creative platforms than individual artists.
+ここでバーチャルバンドは、匿名性の裏に隠れるのではなく、むしろ強い人格を獲得した。匿名でありながら、個性が明確という逆説的な状態が成立したのである。
 
-> The disembodiment of the voice has transformed the virtual band into ""music that you can participate in.''
-
----
-
-## Live expression and redefining space
-
-### The stage does not necessarily have to be in real space
-
-Virtual band live performances do not necessarily require the performers and audience to gather in the same place. A variety of forms have been established, including through a screen, AR, VR, and distribution platforms. What is important here is simultaneity and shared experience rather than physical distance.
-
-Rather than seeing the person ""inside'' the character, the audience seeks an experience where they feel that the character itself is there. For this reason, the direction, visuals, and story setting are as important, if not more important, than the performance technique.
-
-This format relativized geographical constraints and limits on the number of people, and expanded the very concept of a musical event.
-
-> The virtual band's live performance is also an attempt to liberate the musical experience from space.
+> バーチャルバンドは、実在性の欠如ではなく、物語の一貫性によってリアリティを獲得した。
 
 ---
 
-## Reorganization of business structure and rights
+## 音声合成とボーカルの非身体化
 
-### Music IP that does not belong to individuals
+### 声が人格を持つという現象
 
-Virtual bands are also unique in terms of their rights structure. Characters, songs, and worldviews are often managed on a project-by-project basis, rather than on an individual basis. Therefore, even if members change or the production system changes, continuity as a brand is maintained.
+音声合成技術の進展は、バーチャルバンドの可能性をさらに拡張した。特定の歌手の身体に依存しないボーカルは、キャラクターそのものの属性として扱われるようになる。ここでは声は「演奏されるもの」ではなく、「設計されたもの」だ。
 
-This relativized the concept of an artist's lifespan and the limits of their activities in the music industry. On the other hand, new issues have arisen, such as the visibility of those involved in production and the way they are evaluated.
+この変化は、作り手と受け手の関係にも影響を与えた。楽曲は一方的に提供される商品ではなく、二次創作やリミックスを通じて拡張される共有資源として機能し始める。キャラクターは固定された偶像ではなく、コミュニティの中で更新される存在となった。
 
-Virtual bands have become an example of music shifting from ""individual expression" to ""operated IP."
+結果として、バーチャルバンドは単独のアーティストというより、分散型の創作プラットフォームに近づいていく。
 
-> Virtual bands have moved the unit of music business from people to structures.
-
----
-
-## Modern developments and metaverse ideas
-
-### The world view enters the sphere of life
-
-In recent years, there has been an increase in the number of virtual bands that are active on SNS and virtual spaces on a daily basis. In addition to releasing songs, the characters act as if they are "living" through short message postings and distribution.
-
-Here, music is part of the activity, and is just one way to prove the existence of the characters. Fans find value not only in the music, but also in the feeling of sharing time together.
-
-This situation differs from the traditional model in which music was consumed in albums or songs.
-
-> Virtual bands are at the forefront of music-centered worldview consumption.
+> 声の非身体化は、バーチャルバンドを「参加できる音楽」へと変質させた。
 
 ---
 
-## Chronology: Major milestones in the development of virtual bands
+## ライブ表現と空間の再定義
 
-### The intersection of technology, expression, and distribution
+### ステージは必ずしも現実空間でなくてよい
+
+バーチャルバンドのライブは、必ずしも同じ場所に演者と観客が集まる必要がない。スクリーン越し、AR、VR、配信プラットフォームなど、多様な形態が成立してきた。ここでは重要なのは、物理的な距離よりも、同時性と共有体験である。
+
+観客はキャラクターの「中の人」を見るのではなく、キャラクターそのものがそこに存在していると感じる体験を求める。そのため演出、映像、物語設定が、演奏技術と同じかそれ以上に重要になる。
+
+この形式は、地理的制約や人数制限を相対化し、音楽イベントの概念そのものを拡張した。
+
+> バーチャルバンドのライブは、音楽体験を空間から解放する試みでもある。
+
+---
+
+## ビジネス構造と権利の再編
+
+### 個人に帰属しない音楽IP
+
+バーチャルバンドは、権利構造の面でも特徴的だ。キャラクター、楽曲、世界観は個人ではなく、プロジェクト単位で管理されることが多い。そのためメンバー交代や制作体制の変更があっても、ブランドとしての継続性が保たれる。
+
+これは音楽産業において、アーティストの寿命や活動限界という概念を相対化した。一方で、制作に関わる人々の可視性や評価のあり方という新たな課題も生んでいる。
+
+バーチャルバンドは、音楽を「個人の表現」から「運用されるIP」へと移行させる一例となった。
+
+> バーチャルバンドは、音楽ビジネスの単位を人から構造へと移動させた。
+
+---
+
+## 現代的展開とメタバース的発想
+
+### 世界観が生活圏に入り込む
+
+近年では、SNSや仮想空間上で日常的に活動するバーチャルバンド的存在が増えている。楽曲発表だけでなく、短文投稿や配信を通じて、キャラクターが「生活している」ように振る舞う。
+
+ここでは音楽は活動の一部であり、キャラクターの存在証明の手段の一つに過ぎない。ファンは音楽作品だけでなく、時間を共有する感覚そのものに価値を見いだす。
+
+この状態は、音楽がアルバムや楽曲単位で消費されてきた従来のモデルとは異なる。
+
+> バーチャルバンドは、音楽を中心に据えた世界観消費の最前線に位置している。
+
+---
+
+## 年表：バーチャルバンド発展の主要な節目
+
+### 技術・表現・流通の交差点
 
 <div class="mermaid">
 flowchart TB
-A[1960s-70s concept bands and fictional settings] --> B[1990s Popularization of digital production environment]
-B --> C[2000s Character-driven music projects]
-C --> D[2010s Speech synthesis and participatory culture]
-D --> E[2020s Virtual space and always-on activities]
+A[1960-70年代 コンセプトバンドと架空設定] --> B[1990年代 デジタル制作環境の普及]
+B --> C[2000年代 キャラクター主導の音楽プロジェクト]
+C --> D[2010年代 音声合成と参加型文化]
+D --> E[2020年代 仮想空間と常時接続的活動]
 </div>
 
-> The history of virtual bands has continued to be updated at the intersection of technological innovation and the desire for expression.
+> バーチャルバンドの歴史は、技術革新と表現欲求が交差する点で更新され続けてきた。
 
 ---
 
-## Illustration: Structure that supports the virtual band
+## 図解：バーチャルバンドを支える構造
 
-### Relationship between people, technology, and stories
+### 人・技術・物語の関係性
 
 <div class="mermaid">
 flowchart LR
-Creator[production team] --> Character[character]
-Character --> Music[songs]
-Music --> Audience[audience]
-Audience --> Community[community]
+Creator[制作チーム] --> Character[キャラクター]
+Character --> Music[楽曲]
+Music --> Audience[観客]
+Audience --> Community[コミュニティ]
 Community --> Character
 </div>
 
-> The virtual band is a cultural device that lives on through a circulating structure.
+> バーチャルバンドは循環構造によって生き続ける文化装置である。
 
 ---
 
-## Future as a possibility
+## 可能性としての未来
 
-### Who does the music belong to?
+### 音楽は誰のものになるのか
 
-Virtual bands have shown that music can be created without depending on "whose voice it is" or "whose life it is." On the other hand, humanity has not been completely eliminated. Rather, the intentions and emotions of multiple people are brought together through the medium of characters.
+バーチャルバンドは、音楽が「誰の声か」「誰の人生か」に依存しなくても成立することを示してきた。その一方で、完全に人間性を排除したわけではない。むしろ複数の人間の意図や感情が、キャラクターという媒体を通して集約されている。
 
-New technologies will continue to emerge. But the core of virtual bands lies not in the technology itself, but in the human ability to share fiction.
+今後も新しい技術が登場するだろう。しかしバーチャルバンドの核心は、技術そのものではなく、虚構を共有するという人間の能力にある。
 
-> The potential of virtual bands is nothing but the question of how far music can be carried by the ability to believe in an incorporeal existence as real.
+> バーチャルバンドの可能性とは、実体なき存在を本物として信じる力が、音楽をどこまで運べるかという問いに他ならない。
 
 ---
 

@@ -10,16 +10,16 @@ tags:
 - Classical
 - Romantic
 - Opera
-title: 理查‧史特勞斯
+title: Richard Strauss
 ---
 
 
-・指揮：奧托·阿克曼
-・法國號【獨奏】：丹尼斯·布萊恩 Dennis Brain
-・樂團：愛樂樂團
-・女高音：伊莉莎白‧施瓦茨科普夫
+・指揮者 ：Otto Ackermann オットー・アッカーマン
+・ホルン[ソロ] ：Dennis Brain デニス・ブレイン
+・オーケストラ ：Philharmonia Orchestra フィルハーモニア管弦楽団
+・ソプラノボーカル ：Elisabeth Schwarzkopf エリーザベト・シュヴァルツコップ
 
-#### 曲目表
+#### Tracklist
 ```md
 Four Last Songs
 「4つの最後の歌」
@@ -33,4 +33,4 @@ Capriccio, Op. 85
 B1. Morgen Mittag Um Elf (Closing Scene)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}

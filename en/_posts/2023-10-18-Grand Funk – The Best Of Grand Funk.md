@@ -12,7 +12,7 @@ title: Grand Funk – The Best Of Grand Funk
 ---
 
 
-Grand Funk Railroad (GFR) is an American hard rock band. The core members are Mark Farner, Mel Thatcher, and Don Brewer.
+グランドファンクレイルロード（Grand Funk Railroad, GFR）は、USハードロックバンド。中心メンバーは、マーク・ファーナー、メル・サッチャー、ドン・ブリューワー。
 
 #### Tracklist
 ```md
@@ -37,5 +37,5 @@ B5. Got This Thing On The Move
 B6. Inside Lookin' Out
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m80305253218?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80305253218?afid=6142608987){: .button1}
 

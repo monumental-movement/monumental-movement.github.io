@@ -16,26 +16,26 @@ title: '[Column] 50 music equipment that changed the world Part 5 TR-808 SP-1200
 
 
 
-## 41. Teenage Engineering OP-1 — A new idea of ​​portable music production
+## 41. Teenage Engineering OP-1 — ポータブル音楽制作という新しい発想
 
 
-The Teenage Engineering OP-1, released in 2011, is a portable synthesizer that significantly changed the concept of music production equipment.
+2011年に発売されたTeenage Engineering OP-1は、音楽制作機材の概念を大きく変えたポータブルシンセサイザーである。
 
-Until then, serious music production required multiple equipment, including large synthesizers, computers, and audio interfaces.
+それまで本格的な音楽制作には、大型のシンセサイザー、コンピューター、オーディオインターフェースなど複数の機材が必要だった。
 
-The OP-1 integrates a synthesizer, sampler, sequencer, and 4-track recorder into a compact body.
+OP-1は、シンセサイザー、サンプラー、シーケンサー、4トラックレコーダーを小型ボディに統合した。
 
-What was distinctive was the design philosophy that turned limitations into creativity.
+特徴的だったのは、制限を創造性へ変える設計思想である。
 
 The small screen, limited number of tracks, and unique control system allowed users to focus on the idea rather than the number of features.
 
-In addition, the high level of design has redefined music equipment not just as specialized equipment, but as a creative tool that can be carried around on a daily basis.
+また、デザイン性の高さによって、音楽機材を単なる専門機器ではなく、日常的に持ち歩くクリエイティブツールとして再定義した。
 
-OP-1 has expanded new music production styles such as bedroom production, mobile production, and field recording.
+OP-1は、ベッドルーム制作、モバイル制作、フィールドレコーディングなど、新しい音楽制作スタイルを広げた。
 
-Nowadays, music production using smartphones and tablets has become commonplace, but this piece of equipment had pioneering ideas.
+現代では、スマートフォンやタブレットによる音楽制作が一般化しているが、その先駆的な思想を持った機材だった。
 
-> The OP-1 became a symbol of the era of portable music production studios.
+> OP-1は、音楽制作スタジオを持ち歩ける時代の象徴となった。
 
 ---
 
@@ -44,7 +44,7 @@ Nowadays, music production using smartphones and tablets has become commonplace,
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -53,207 +53,207 @@ color: #fff;
 </style>
 
 
-## 42. Dave Smith Prophet-6 — A modern masterpiece that symbolized the analog synth revival
+## 42. Dave Smith Prophet-6 — アナログシンセ復興を象徴した現代の名機
 
-The Prophet-6, released in 2015, is a piece of equipment that symbolizes the revival of analog synthesizers.
+2015年に発売されたProphet-6は、アナログシンセサイザー復興の流れを象徴する機材である。
 
-Since the 1980s, analog synths have temporarily moved away from the mainstream due to the development of digital synthesizers and software sound sources.
+1980年代以降、デジタルシンセサイザーやソフトウェア音源の発展によって、アナログシンセは一時的に主流から離れていた。
 
-However, since the late 2000s, the sound quality and operational feel of analog circuits has been reevaluated.
+しかし2000年代後半から、アナログ回路による音の質感や操作感が再評価されるようになった。
 
-The Prophet-6 was a polyphonic analog synthesizer that recreated the idea of ​​the 1978 Prophet-5 using modern technology.
+Prophet-6は、1978年のProphet-5の思想を現代技術で再構築したポリフォニックアナログシンセサイザーだった。
 
-Featuring thick oscillators, rich filters, and intuitive operability, it has been adapted to modern production environments.
+太いオシレーター、豊かなフィルター、直感的な操作性を備え、現代の制作環境にも適応した。
 
-The important thing is that it is not a reproduction of the past, but a redesign of the philosophy of vintage synths for modern musicians.
+重要なのは、過去の復刻ではなく、ヴィンテージシンセの哲学を現代のミュージシャン向けに再設計した点である。
 
-It showed that the analog synthesizer is not a historical heritage, but an ongoing instrument.
+アナログシンセサイザーが歴史的遺産ではなく、現在進行形の楽器であることを示した。
 
-> The Prophet-6 proved that analog sound is an expression that will last not just in the past, but in the future.
-
----
-
-## 43. Ableton Push — A controller that turns your DAW into a playable instrument
-
-Introduced in 2013, Ableton Push is a controller designed to combine computer music production with live performance.
-
-DAWs were powerful production environments, but in many cases operations were centered around mouse and keyboard.
-
-Push combines dedicated pads, knobs, and displays to bring music production on a computer closer to physical performance.
-
-Its distinctive feature was that melody, chords, rhythm, and sampling operations could be performed in one interface.
-
-As a result, the boundaries between composition and performance became even more blurred.
-
-Live musicians can now construct music on the fly, rather than playing finished songs.
-
-Push presented a new musical instrument form for the DAW era.
-
-> Ableton Push turned the computer from a production device to a performance instrument.
+> Prophet-6は、アナログサウンドが過去ではなく未来にも続く表現であることを証明した。
 
 ---
 
-## 44. Moog Subsequent 37 — Symbol of the era of reappraisal of analog synths
+## 43. Ableton Push — DAWを演奏可能な楽器へ変えたコントローラー
 
-The Moog Subsequent 37, released in 2014, is a device that brings the tradition of analog synthesizers into the modern era.
+2013年に登場したAbleton Pushは、コンピューター音楽制作とライブ演奏を結びつけるために設計されたコントローラーである。
 
-Moog has been shaping the history of electronic music since the 1960s.
+DAWは強力な制作環境だったが、多くの場合マウスやキーボードによる操作が中心だった。
 
-The Subsequent 37 inherited that traditional analog circuit design, but had modern operability and storage features.
+Pushは、専用パッド、ノブ、ディスプレイを組み合わせ、コンピューター上の音楽制作を身体的な演奏へ近づけた。
 
-It was highly praised for producing bass sounds and lead sounds due to its rich bass, powerful filter, and control system suitable for real-time changes.
+メロディー、コード、リズム、サンプリング操作を一つのインターフェースで行える点が特徴だった。
 
-Furthermore, in an era where digital production environments have become commonplace, it reconfirmed the value of creating sounds through physical operations.
+これによって、作曲と演奏の境界はさらに曖昧になった。
 
-It showed that analog synths are not an old technology, but are still a means of creative expression.
+ライブミュージシャンは、完成した楽曲を再生するのではなく、その場で音楽を構築することが可能になった。
 
-> Subsequent 37 connects over half a century of Moog philosophy to modern music production.
+Pushは、DAW時代における新しい楽器の形を提示した。
 
----
-
-## 45. Universal Audio Apollo — The audio interface that changed the recording environment in the home studio era
-
-Universal Audio Apollo, introduced in 2012, is an audio interface that has had a major impact on studio environments in the digital recording era.
-
-Since the 2000s, recording production using computers has become commonplace.
-
-However, professional sound quality and real-time processing required specialized high-performance equipment.
-
-Apollo provided high-quality converters, low-latency processing, and real-time effects with DSP.
-
-This makes it possible to create a professional recording workflow even in your home environment.
-
-In particular, when combined with plug-in processing that reproduces the texture of analog equipment, it has raised the standards of modern home studio production.
-
-> Apollo brings professional studio technology closer to the personal production environment.
+> Ableton Pushは、コンピューターを制作装置から演奏楽器へ変えた。
 
 ---
 
-## 46. Native Instruments Kontakt — A sampler representing the software sound generation era
+## 44. Moog Subsequent 37 — アナログシンセ再評価時代の象徴
 
-Native Instruments Kontakt, introduced in 2002, revolutionized the history of software samplers.
+2014年に発売されたMoog Subsequent 37は、アナログシンセサイザーの伝統を現代へ発展させた機材である。
 
-In the era of hardware samplers, there were limits to memory capacity and processing power.
+Moog社は1960年代から電子音楽の歴史を形成してきた。
 
-Kontakt took advantage of improvements in computer performance and provided an environment that could handle large sample libraries.
+Subsequent 37は、その伝統的なアナログ回路設計を継承しながら、現代的な操作性や保存機能を備えていた。
 
-With a library containing a large amount of actual musical instrument performances, it is now possible to reproduce a variety of sound sources on the software, including orchestras, pianos, ethnic instruments, and special acoustics.
+豊かな低音、強力なフィルター、リアルタイム変化に適した操作系によって、ベースサウンドやリード音制作で高く評価された。
 
-This has made it possible for individual producers to access large-scale sound production such as film music and game music.
+また、デジタル制作環境が一般化した時代において、物理的な操作による音作りの価値を再確認させた。
 
-Kontakt completely extends the concept of samplers from hardware to software.
+アナログシンセは古い技術ではなく、現在でも創造的な表現手段であることを示した。
 
-> Kontakt ushered in the era of storing huge music libraries on a single computer.
-
----
-
-## 47. RME Fireface — Audio interface for increased reliability in digital recording environments
-
-The RME Fireface series, which appeared in the early 2000s, is an audio interface that greatly contributed to the development of computer-based music production environments.
-
-In the 2000s, hard disk recording and DAW production rapidly became popular.
-
-However, in computer recording, not only sound quality has become important, but also stable driver performance, low latency processing, and reliability over long periods of use.
-
-The RME Fireface series was used in many studios and personal production environments due to its high clock accuracy, stable connection environment, and professional input/output design.
-
-It was particularly praised in situations where stability is required, such as live recording, electronic music production, broadcasting, and research applications.
-
-As the focus of music production has shifted from analog equipment to computers, audio interfaces have become not just a connected device, but a central part of the production environment.
-
-RME Fireface is one of the representative pieces of equipment that supported this change.
-
-> RME Fireface elevates computer music production to a professional recording environment.
+> Subsequent 37は、半世紀以上続くMoogの思想を現代の音楽制作へ接続した。
 
 ---
 
-## 48. Teenage Engineering OP-Z — Music equipment that combines mobile production and live expression
+## 45. Universal Audio Apollo — ホームスタジオ時代の録音環境を変えたオーディオインターフェース
 
-The Teenage Engineering OP-Z, released in 2018, further expands the possibilities of small music production equipment.
+2012年に登場したUniversal Audio Apolloは、デジタル録音時代のスタジオ環境に大きな影響を与えたオーディオインターフェースである。
 
-While the OP-1 presented the idea of ​​a portable studio, the OP-Z emphasized collaboration with real-time performance, sequence operations, and visual expression.
+2000年代以降、コンピューターによる録音制作は一般化した。
 
-Although it had a small body, it was equipped with a large number of tracks, pattern editing, and effect control, making it possible to create full-fledged electronic music on the go.
+しかし、プロフェッショナルな音質やリアルタイム処理には、高性能な専用機材が必要だった。
+
+Apolloは、高品質なコンバーター、低レイテンシー処理、DSPによるリアルタイムエフェクトを提供した。
+
+これによって、自宅環境でもプロフェッショナルな録音ワークフローを構築できるようになった。
+
+特にアナログ機材の質感を再現するプラグイン処理と組み合わせることで、現代的なホームスタジオ制作の基準を押し上げた。
+
+> Apolloは、プロスタジオの技術を個人制作環境へ近づけた。
+
+---
+
+## 46. Native Instruments Kontakt — ソフトウェア音源時代を代表するサンプラー
+
+2002年に登場したNative Instruments Kontaktは、ソフトウェアサンプラーの歴史を大きく変えた。
+
+ハードウェアサンプラー時代には、メモリー容量や処理能力に制限があった。
+
+Kontaktは、コンピューター性能の向上を活用し、大容量サンプルライブラリーを扱える環境を提供した。
+
+実際の楽器演奏を大量に収録したライブラリーによって、オーケストラ、ピアノ、民族楽器、特殊音響など、多様な音源をソフトウェア上で再現できるようになった。
+
+これにより、個人制作者でも映画音楽やゲーム音楽のような大規模な音響制作へアクセスできるようになった。
+
+Kontaktは、サンプラーという概念をハードウェアからソフトウェアへ完全に拡張した。
+
+> Kontaktは、巨大な音楽ライブラリーを一台のコンピューターへ収める時代を作った。
+
+---
+
+## 47. RME Fireface — デジタル録音環境の信頼性を高めたオーディオインターフェース
+
+2000年代初頭に登場したRME Firefaceシリーズは、コンピューターを中心とした音楽制作環境の発展に大きく貢献したオーディオインターフェースである。
+
+2000年代に入ると、ハードディスク録音とDAWによる制作が急速に普及した。
+
+しかし、コンピューター録音では、音質だけではなく安定したドライバー性能、低レイテンシー処理、長時間使用への信頼性が重要になった。
+
+RME Firefaceシリーズは、高いクロック精度、安定した接続環境、プロフェッショナル向けの入出力設計によって、多くのスタジオや個人制作環境で使用された。
+
+特にライブレコーディング、電子音楽制作、放送、研究用途など、安定性が求められる現場で評価された。
+
+音楽制作の中心がアナログ機材からコンピューターへ移行する中で、オーディオインターフェースは単なる接続機器ではなく、制作環境の中心的存在になった。
+
+RME Firefaceは、その変化を支えた代表的な機材の一つである。
+
+> RME Firefaceは、コンピューター音楽制作をプロフェッショナルな録音環境へ押し上げた。
+
+---
+
+## 48. Teenage Engineering OP-Z — モバイル制作とライブ表現を融合した音楽機材
+
+2018年に発売されたTeenage Engineering OP-Zは、小型音楽制作機材の可能性をさらに広げた存在である。
+
+OP-1がポータブルスタジオという発想を提示したのに対し、OP-Zはリアルタイム演奏、シーケンス操作、ビジュアル表現との連携を重視した。
+
+小型ボディながら、多数のトラック、パターン編集、エフェクト制御を備え、外出先でも本格的な電子音楽制作が可能だった。
 
 What makes it unique is that it can control not only music but also video and lighting.
 
-As a result, live performances have evolved from simply reproducing sound to combining multiple expressive elements.
+これによって、ライブパフォーマンスは単なる音の再生ではなく、複数の表現要素を組み合わせる方向へ進化した。
 
-Additionally, by linking with smartphones, it has become a symbol of the modern mobile production environment.
+また、スマートフォンとの連携によって、現代的なモバイル制作環境を象徴する機材となった。
 
-> OP-Z frees music production from the location and transforms it into a portable expression device.
+> OP-Zは、音楽制作を場所から解放し、持ち運べる表現装置へ変えた。
 
 ---
 
-## 49. Arturia MicroFreak — A synthesizer that symbolizes the hybrid sound generation era
+## 49. Arturia MicroFreak — ハイブリッド音源時代を象徴するシンセサイザー
 
-The Arturia MicroFreak, released in 2019, is a symbol of modern synthesizer design.
+2019年に発売されたArturia MicroFreakは、現代のシンセサイザー設計を象徴する機材である。
 
 Conventional synthesizers have evolved in different directions, including analog, digital, and sampler systems.
 
-MicroFreak combines multiple sound source methods into one compact synthesizer.
+MicroFreakは、複数の音源方式を一つの小型シンセサイザーに統合した。
 
-It was characterized by the ability to use a variety of sound source methods, including wavetables, digital oscillators, virtual analog, and granular sound processing.
+ウェーブテーブル、デジタルオシレーター、バーチャルアナログ、グラニュラー的な音響処理など、多様な音源方式を利用できる点が特徴だった。
 
 Furthermore, the unique flat keyboard and touch-type controller enable performance expressions that are different from those of conventional keyboard instruments.
 
-MicroFreak was not a reproduction of vintage equipment, but a new direction in sound creation.
+MicroFreakは、ヴィンテージ機材の復刻ではなく、新しい音作りの方向性を示した。
 
-In modern electronic music, the boundaries between genres have become blurred, and it has become common to combine multiple sound technologies.
+現代の電子音楽では、ジャンルの境界が曖昧になり、複数の音響技術を組み合わせることが一般化している。
 
-It was a piece of equipment that symbolized that trend.
+その流れを象徴する機材だった。
 
-> MicroFreak combines past synthesizer technologies to create a new gateway to sonic experimentation.
-
----
-
-## 50. Native Instruments Maschine+ — The present tense of hardware-contained production
-
-Maschine+, which debuted in 2020, represents an attempt to return computer-centric music production back to an independent hardware environment.
-
-Since the 2000s, DAWs have become central to music production.
-
-However, on the other hand, there was also a demand for people to step away from the computer screen and create using only specialized equipment.
-
-Maschine+ extends the Maschine series workflow to a standalone environment.
-
-Sample editing, beat production, synth sound generation, effect processing, etc. could be performed using just the main unit.
-
-This was a reconstruction of the idea of ​​""creating music with a single device'' that existed in the MPC and groove box of the 1980s using modern technology.
-
-Music production is moving not only toward complete dependence on computers, but also toward coexistence with dedicated hardware.
-
-Maschine+ represents this new trend.
-
-> Maschine+ has redefined the ""musical production environment'' in the digital age.
+> MicroFreakは、過去のシンセサイザー技術を融合し、新しい音響実験の入り口を作った。
 
 ---
 
-## The future seen through 50 music equipment that changed the world
+## 50. Native Instruments Maschine+ — ハードウェア完結型制作の現在形
 
-Looking back at 50 pieces of equipment, what changed the history of music was not simply a performance improvement.
+2020年に登場したMaschine+は、コンピューター中心だった音楽制作を再び独立したハードウェア環境へ戻す試みを示した。
 
-Minimoog turns electronic sounds into playable instruments.
+2000年代以降、DAWは音楽制作の中心となった。
+
+しかし一方で、コンピューター画面から離れ、専用機材だけで制作したいという需要も存在した。
+
+Maschine+は、Maschineシリーズのワークフローをスタンドアロン環境へ拡張した。
+
+サンプル編集、ビート制作、シンセサウンド生成、エフェクト処理などを本体だけで行うことができた。
+
+これは、1980年代のMPCやグルーヴボックスが持っていた「一台で音楽を作る」という思想を、現代技術で再構築したものだった。
+
+音楽制作は、コンピューターへ完全に依存する方向だけではなく、専用ハードウェアとの共存へ進んでいる。
+
+Maschine+は、その新しい流れを象徴している。
+
+> Maschine+は、デジタル時代における「楽器としての制作環境」を再定義した。
+
+---
+
+## 世界を変えた音楽機材50選から見える未来
+
+50の機材を振り返ると、音楽の歴史を変えたものは、単純な性能向上ではなかった。
+
+Minimoogは電子音を演奏可能な楽器へ変えた。
 
 The TR-808 turned an artificial sound into a cultural symbol.
 
-The TB-303 created a new genre from a failed design.
+TB-303は失敗した設計から新しいジャンルを生み出した。
 
 MPC turned sampling into a compositional method.
 
 Fairlight CMI turns sound into editable data.
 
-Ableton Live and Push turned computers into performance devices.
+Ableton LiveやPushは、コンピューターを演奏装置へ変えた。
 
-Modern equipment continues to create a more free creative environment by combining past techniques.
+そして現代の機材は、過去の技術を組み合わせながら、より自由な創作環境を作り続けている。
 
 The history of music equipment is not the history of technology.
 
-It is a history of humans continuing to search for new ways of expression.
+それは、人間が新しい表現方法を探し続けてきた歴史である。
 
-The great machines of the future probably won't arrive in a perfected form from the start.
+未来の名機も、おそらく最初から完成された形で登場するわけではない。
 
-When it is discovered by new uses, new cultures, and new musicians, it becomes an entity that changes history.
+新しい使い方、新しい文化、新しい音楽家によって発見されることで、歴史を変える存在になる。
 
 > The equipment that changes the world is not a tool that creates sound, but a tool that allows us to imagine music that doesn't exist yet.
 

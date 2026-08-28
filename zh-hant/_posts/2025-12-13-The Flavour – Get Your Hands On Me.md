@@ -10,15 +10,15 @@ tags:
 - House
 - Euro House
 - 90s
-title: 味道——把手放在我身上
+title: The Flavour – Get Your Hands On Me
 ---
 
 
-The Flavor 是 Neil Claxton 和 Johnny Jay 的工作室項目，也稱為 Development Corporation。
+The Flavour (ザ・フレイバー )は、Development Corporation としても知られるNeil Claxton と Johnny Jayによるスタジオ・プロジェクト。
 
-《Get Your Hands On Me》於 1994 年在 Jive 廠牌發行，是一首 House/Euro House 歌曲，由芝加哥 house 歌手 Darryl Pandy 演唱。
+1994年にレーベルJiveからリリースされた「Get Your Hands On Me」は、シカゴ出身のHouseシンガーDarryl PandyをフィーチャーしたHouse／Euro Houseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Get Your Hands On Me (Extended Vocal Mix)
 A2. Get Your Hands Off My Man (Hard Dub)
@@ -27,7 +27,7 @@ B1. Superfly (Hard Dub)
 B2. Get Your Hands On Me (Man City Dub)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m55407685974?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55407685974?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fr-M_N3oFok?si=KvfB8uWKSA25oAF-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

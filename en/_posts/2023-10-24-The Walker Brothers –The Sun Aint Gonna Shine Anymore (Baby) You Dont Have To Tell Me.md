@@ -10,7 +10,7 @@ tags:
 - Rock
 - Pops
 - 60s
-title: The Walker Brothers –The Sun Ain"t Gonna Shine Anymore (Baby) You Don"t Have
+title: The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have
   To Tell Me
 ---
 

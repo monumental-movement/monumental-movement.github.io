@@ -11,9 +11,9 @@ title: Motiv One – Cosmik Loop Progression
 ---
 
 
-"Cosmik" has a light rhythm with a nice key break and a slightly jazzy, futuristic sound. It"s not too heavy, and there"s no amen break used here, but it"s a solid track overall. It was also included on Bukem"s first Progression Sessions CD.
+「Cosmik」は軽快なリズムで、素敵なキーブレイクと少しジャジーで未来的なサウンドです。あまり重たくなく、ここではアーメンブレイクは使用されていませんが、全体としてしっかりとしたトラックです。ブケムによる最初のProgression Sessions CDにも収録されました。
 
-"Loop Progression" is another great track, starting with a tough, driving beat before gradually emerging as softer keys combine with the chords. A break follows, followed by a huge, truly huge amen kick and a cosmic style sound, with the bass kicking in for good measure as well. The great part goes through some bridges and chords, followed by an outro beat followed by a heavy amen beat.
+「Loop Progression」も素晴らしいトラックで、タフでドライブ感のあるビートで始まり、その後、ソフトなキーがコードと組み合わさるように徐々に現れます。その後にブレイクが続き、巨大で、本当に巨大なアーメンキックとコズミックスタイルのサウンドが登場し、重低音も効果的にキックインします。素晴らしい部分はいくつかのブリッジとコードを経て、アウトロビートに重いアーメンビートが続きます。
 
 #### Tracklist
 ```md
@@ -22,7 +22,7 @@ A. Cosmik
 AA. Loop Progression
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

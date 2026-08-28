@@ -10,19 +10,19 @@ tags:
 - Tech Jazz
 - Techno
 - Jazz
-title: 伊恩·奧布萊恩 – 沙漠分數
+title: Ian O'Brien – Desert Scores
 ---
 
 
-伊恩·奧布萊恩 (Ian O'Brien) 原本是一位英國音樂學家，深受底特律 techno 音樂尤其是地下抵抗音樂的影響。
+イアン・オブライエン（Ian O'Brien）はもともと英国の音楽学者で、デトロイトテクノサウンド、特にアンダーグラウンド・リジスタンスなどに強く影響を受けました。
 
-這種聲音激勵他開始創作自己的音樂。
+このサウンドが彼に自らの音楽制作を始めるきっかけとなりました。
 
-這種「瘋狂麥克病」的熱情促使他首先與 Asad Rizvi 以 Memory Tree 的名義製作曲目，後來又為各種英國 techno 唱片公司獨奏。
+この「マッド・マイク・ディジーズ」とでも呼ぶべき情熱により、彼は最初にアサド・リズヴィとMemory Treeの名前でトラックを制作し、その後、イギリスのさまざまなテクノレーベルでソロで制作することになりました。
 
-1997 年發行的「Ian O'Brien - Desert Scores」被認為是傑作，至今仍被認為是由 Galaxy 2 Galaxy EP 開創的科技爵士流派的一部分。
+1997年リリースの「Ian O'Brien - Desert Scores」は、代表作とされ、Galaxy 2 Galaxy EPで開拓されたようなテックジャズの一環として今でも見なされています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Dayride
 
@@ -45,5 +45,5 @@ D1. Desert Scores
 D2. Dark Eye Tango
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m70671741506?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70671741506?afid=6142608987){: .button1}
 

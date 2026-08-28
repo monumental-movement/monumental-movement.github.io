@@ -9,17 +9,17 @@ permalink: /zh-hant/janet-jackson-doesnt-really-matter/
 tags:
 - House
 - Pops
-title: 珍妮傑克森——其實並不重要
+title: Janet Jackson – Doesn't Really Matter
 ---
 
 
-《Doesn't Truth Matter》是一首為電影《瘋狂教授 2》配樂而創作的歌曲。這首歌節奏明快、流行，旋律朗朗上口，珍妮傑克森充滿活力的歌聲特別突出。
+「Doesn't Really Matter」は、映画『ナッティ・プロフェッサー2』のサウンドトラックとして制作された曲です。この曲は、アップテンポでポップなサウンドとキャッチーなメロディが特徴で、ジャネット・ジャクソンのダイナミックなヴォーカルが際立っています。
 
-珍妮傑克森強烈的歌聲與富有節奏感和充滿活力的聲音相結合，創作出一首給聽眾帶來信心和積極性的歌曲。
+ジャネット・ジャクソンの力強い歌声と、リズミカルでエネルギッシュなサウンドが相まって、リスナーに自信と前向きな気持ちを与える曲となっています。
 
-《Does't Very Matter》一推出就迅速受到歡迎，在 Billboard Hot 100 排行榜上名列第一。它獲得了格萊美獎提名，並成為珍妮傑克遜職業生涯中最重要的歌曲之一。
+「Doesn't Really Matter」はリリース後すぐに人気を博し、ビルボードHot 100チャートで1位を獲得。グラミー賞にもノミネートされジャネット・ジャクソンのキャリアにおいて重要な楽曲の一つとなりました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Doesn't Really Matter (Album Version)
 
@@ -30,7 +30,7 @@ B1. Doesn't Really Matter (Jonathan Peters Club Mix)
 B2. Doesn't Really Matter (Spensane Get Up Extended Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m40056303541?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40056303541?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGo4WebNIjM?si=H90sLQn5GMkY8gt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

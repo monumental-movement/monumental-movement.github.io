@@ -14,7 +14,7 @@ title: VA – Strictly The Best 8
 ---
 
 
-A compilation album released in 1992 by VP Records, the world's largest independent reggae label based in the United States.
+アメリカを拠点とした世界最大のインディペンデントレゲエレーベルVP Recordsから1992年にリリースされたコンピレーションアルバム。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ B6. Garnet Silk - Place In Your Heart
 B7. Igina & Junior Rodigan - Get Here (If You Can)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m15971765721?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15971765721?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6S9dJbPCp4k?si=LZWbphgYK0TsoHtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

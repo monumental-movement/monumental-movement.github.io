@@ -11,15 +11,15 @@ tags:
 - Downtempo
 - Ethereal
 - Ambient
-title: 森林深處—波希米亞
+title: Deep Forest – Boheme
 ---
 
 
-《Boheme》是法國雙人組合Deep Forest於1995年發行的第二張專輯。這張專輯以波西米亞風格（東歐吉普賽歌曲）為樣本，是Deep Forest的代表作，銷量超過400萬張，在15個國家獲得鑽石、白金和金獎，並獲得格萊美最佳世界音樂專輯獎。
+「Boheme」は、1995年にリリースされたフランスのデュオDeep Forestのセカンドアルバム。ボヘミアン(東ヨーロッパのジプシーの歌 )をサンプリングしたこのアルバムは、400万枚以上を売り上げ、15カ国でダイヤモンド、プラチナ、ゴールド賞を受賞し、グラミー賞の最優秀ワールドミュージックアルバムを受賞したDeep Forestの代表作。
 
-第三首由匈牙利民謠音樂家 Márta Sebestyén 演唱，第 12 首由搖滾樂團 Genesis 的創始歌手 Peter Gabriel 演唱。
+3曲目はハンガリーのフォークミュージシャンMárta Sebestyénを、12曲目はロックバンド「ジェネシス」の初代ボーカリストPeter Gabriel(ピーター・ガブリエル)をフィーチャーしている。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Anasthasia
 2. Bohemian Ballet
@@ -36,7 +36,7 @@ title: 森林深處—波希米亞
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m63125151590?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63125151590?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -12,7 +12,7 @@ title: Various – Sounds Of Om - Japan
 ---
 
 
-Best album from house label OM RECORDS. A special compilation CD for Japan only.
+ハウスレーベルOM RECORDSのベスト盤。日本のみの特別企画コンピレーションCD。
 
 #### Tracklist
 ```md
@@ -29,4 +29,4 @@ Best album from house label OM RECORDS. A special compilation CD for Japan only.
 11. Naked Music NYC - It's Love (Naked ond Lovely Extended Vocal)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}

@@ -10,27 +10,27 @@ tags:
 - Industrial
 - UK Techno
 - Techno
-title: 【專欄】Blawan：鋼鐵的快感與深夜的肉體－英國Techno夢想的迴響
+title: 【コラム】 Blawan：鋼鉄の快楽と、夜の奥の肉体 — UKテクノが見た夢の残響
 ---
 
 
-## 序言：工廠陰影下生長的節奏－來自工業的餘味
+## 序章　工場の影に育ったリズム——産業の残り香から
 
 
-文：mmr｜主題：關於 Blawan 冷酷但又不失人性的節拍，這種節拍在英國地下仍然紮根
+文：mmr｜テーマ：UKの地下に根を張り続けるBlawanの冷たく、そしてなぜか人間的ビートについて
 
-曾幾何時，英格蘭北部的工業區充滿了蒸氣和金屬的氣味。
-傑米·羅伯茨（Jamie Roberts）或布拉萬（Blawan）可能是在無意識地吸入其影響的情況下長大的。
-電子音樂的血統源自謝菲爾德（Cabaret Voltaire、Warp Records、The Black Dog）
-它同時呼應勞動的節奏和城市的呼吸。
+かつてイギリス北部の工業地帯は、蒸気と金属のにおいで満ちていた。  
+その残響を、Jamie Roberts――すなわちBlawan――は無意識に吸い込んで育ったのかもしれない。  
+Sheffieldから流れ出した電子音楽の血脈（Cabaret Voltaire、Warp Records、The Black Dog）は、  
+労働のリズムと都市の息づかいを同時に鳴らしてきた。
 
-布拉旺的節奏帶有錘打鐵的聲音和潮濕空氣的壓力。
-這不僅是技術，更是工業記憶體的重生。
-同樣具有像徵意義的是，他的總部並不在倫敦或柏林，而是繼續紮根於英國地下。
-——聲音不會離開地面的重力。
+Blawanのビートには、鉄を叩くような打音と、湿った空気の圧がある。  
+それは単なるテクノではなく、**産業の記憶の再生**でもある。  
+彼がロンドンやベルリンを拠点にせず、UKの地下に根を張り続けていることも象徴的だ。  
+――音は、土地の重力を離れない。
 
-> 節奏冰冷，卻又充滿人情味。
-> 布拉萬的音樂記錄了沉睡在鋼鐵中的「體溫」。
+> そのビートは冷たく、そしてなぜか人間的だった。  
+> Blawanの音楽は、鋼鉄の中に眠る「体温」の記録である。
 
 ---
 
@@ -48,125 +48,125 @@ color: #fff;
 </style>
 
 
-## 第一章：從Bohla開始的鋼鐵故事
+## 第1章　Bohlaから始まる鉄の物語
 
-《Bohla EP》由 R&S Records 於 2011 年發行。
-硬朗卻又異常柔和的節奏為球團帶來了「新的重量」。
-這是英國俱樂部的聲音，試圖擺脫後迴響貝斯的混亂。
-這是一種新發現的「觸摸」。
+2011年、R&S Recordsからリリースされた『Bohla EP』。  
+硬質でいて奇妙に柔らかいリズムが、クラブに“新しい重さ”をもたらした。  
+それは、ポスト・ダブステップの混沌から抜け出そうとするUKのクラブ・サウンドが  
+新たに見つけた「手触り」だった。
 
-此時，Blawan 喜愛上了 Roland 節奏機和類比濾波器。
-**用指尖和旋鈕抓住聲音**，而不是在 DAW 中。
-正是「演奏」電子音的肉體感覺，讓他的聲音變得滾燙如鐵。
+この頃のBlawanは、Rolandのリズムマシンやアナログ・フィルターをこよなく愛していた。  
+DAWの中ではなく、**指先とつまみで音を掴む**。  
+電子音を“演奏する”という身体的感覚こそが、彼の音を鉄のように熱くしていた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xS0_gQumqc?si=7J7SZEqG8bgMGb1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第二章「為什麼他們把身體藏在我的車庫下面」——恐懼與快樂的界限
+## 第2章　“Why They Hide Their Bodies Under My Garage.”——恐怖と快楽の境界
 
-2012年，世界俱樂部場面震動。
-“為什麼他們把屍體藏在我的車庫下面。”
-這首歌讓 Blawan 的名字變得明確。
+2012年、世界のクラブ・シーンが震えた。  
+“Why They Hide Their Bodies Under My Garage.”  
+この一曲が、Blawanの名を決定的なものにした。
 
-標題令人不安。
-扭曲的聲音樣本聽起來就像地下室裡的幽靈呻吟。
-節奏沉重，以近乎瘋狂的堅韌重複著。
+タイトルからして不穏。  
+歪んだヴォーカル・サンプルは、まるで地下室で呻く亡霊のよう。  
+ビートはひたすらに重く、狂気すれすれの執念で反復する。  
 だが、その中に奇妙な**“快楽”**がある。  
-它壓縮了聽者的身體，同時又釋放了它——這是一個**恐懼和欣快**的時刻。
+聴く者の身体を圧迫しながら、同時に解放していく――それは**恐怖と多幸が混ざり合う瞬間**だった。
 
-很多 DJ 在高峰時段都會放棄這首歌，
-據報道，俱樂部樓層陷入了“強烈的興奮”時刻。
-這首歌不僅火爆，
-它是科技音樂中復興「沒有情感的感覺」的象徵。
+多くのDJがこのトラックをピークタイムに投下し、  
+クラブのフロアが一瞬、「暴力的な陶酔」に包まれたという。  
+この曲は単なるヒットではなく、  
+テクノに“感情なき感情”を蘇らせた象徴だった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KL_Bbyi3ub8?si=vD2bUJQWTkle-n9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第3章 凱倫的身體－與Pariah的共鳴
+## 第3章　Karennという肉体——Pariahとの共鳴
 
-Blawan 的另一張臉是 **Karenn**。
-與他的盟友 Pariah（亞瑟·凱澤飾）的二人組更像是一個工作室，而不是一個工作室。
-他創立了 Sheworks 品牌，並以即興設備演出的形式在歐洲巡迴演出。
+Blawanのもう一つの顔、それが**Karenn**である。  
+盟友Pariah（Arthur Cayzer）とのデュオは、スタジオというよりも「作業場」だった。  
+Sheworksレーベルを設立し、即興の機材ライブでヨーロッパ中を巡った。
 
-一堆電纜。
-一台永不停息的節奏機器。
-機器的寒冷和人類的汗水並存在那裡。
-Karenn的現場表演更像是「鍛造」而不是「表演」。
-鋼鐵撞擊的聲音，熱氣騰騰的空氣，觀眾的體溫。
-當一切都融化在一起的那一刻，音樂變成了「物質」。
+ケーブルの山。  
+鳴り止まぬリズムマシン。  
+そこにはマシンの冷たさと、人間の汗が共存していた。  
+Karennのライブは「演奏」というより「鍛造」に近い。  
+鋼を叩く音、熱せられた空気、そして観客の体温。  
+すべてが溶け合う一瞬、音楽は“物質”になる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Q9pAoVKzgs?si=SA69Tuk-tjIlFj2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第四章 濕終會乾－無情的情感記錄
+## 第4章　Wet Will Always Dry——感情なき感情の記録
 
-2018年，Blawan終於發行了一張完整專輯《Wet Will Always Dry》。
-如標題所示，**濕，乾。 **
-我們看到的是人類情感的不完整循環。
+2018年、ついにBlawanはフルアルバム『Wet Will Always Dry』を発表した。  
+タイトルの示す通り、**濡れて、乾く。**  
+そこにあるのは、人間の感情の不完全な循環だ。
 
-《粗心》《諾斯》《史蒂爾》——
-每首歌的冰冷之下都隱藏著一絲溫暖。
-在毫無表情的金屬聲中，偶爾有一些看似呼吸的停頓。
-人類的情感透過這個微小的間隙滲透進來。
+“Careless”“North”“Stell”――  
+どの曲も、冷たさの奥にわずかな温度を隠している。  
+金属のように無表情な音の中で、時折ふっと呼吸のような間が現れる。  
+そのわずかな「隙間」に、人間の感情が滲む。
 
-去掉聲音，只留下結構。
-相反，他的堅忍讓布拉萬的「情感」脫穎而出。
+音を削ぎ落とし、構造だけを残す。  
+そのストイックさが逆に、Blawanの“情緒”を際立たせている。
 
 ---
 
-## 第五章 沒有身體的俱樂部－2020年代的布拉萬
+## 第5章　身体なきクラブ——2020年代のBlawan
 
-疫情期間，俱樂部陷入沉默。
-然而，布拉萬的聲音正在悄悄改變。
-像“Under Belly”和“Toast”這樣的歌曲比以前有一種更柔和、更內省的感覺。
-硬體噪音聽起來有點溫和。
+パンデミックの時代、クラブは沈黙した。  
+しかし、Blawanの音は静かに変化していく。  
+“Under Belly”“Toast”などのトラックでは、以前よりも柔らかく、内省的な質感が漂う。  
+ハードウェアのノイズが、どこか優しく聴こえる。
 
-即使俱樂部關門了，他體內的節奏也沒有消失。
-他在模組化合成器中發現了「人類的呼吸」。
-這是電子設備模仿心跳的時代的矛盾聲音。
+クラブが閉ざされても、身体のリズムは消えなかった。  
+彼は**モジュラー・シンセの中に“人間の呼吸”を見出した**。  
+電子機器が心臓の鼓動を模倣する――そんな逆説的な時代の音である。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKAYnyuUslo?si=jnnGGrcKtMNQTDoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第 6 章：布拉萬周圍的人與城市
+## 第6章　Blawanをめぐる人々と都市
 
-Blawan 的聲音不屬於任何藝術家。
-Regis和Surgeon打造的英國工業基因，
-保拉·坦普爾和大天鵝的猛烈節奏，
-還有 Skee Mask 的細膩顆粒。
-所有這一切都在他內心重建。
+Blawanの音は、ひとりの作家のものではない。  
+RegisやSurgeonが築いたUKインダストリアルの遺伝子、  
+Paula TempleやGiant Swanの暴力的なリズム、  
+そしてSkee Maskの繊細な粒子。  
+そのすべてが、彼の中で再構築されている。
 
-比起柏林的貧瘠，我更喜歡倫敦的潮濕。
-使用手掌的壓力而不是手指的壓力。
-Blawan 繼續選擇**土地重量**。
-這也是俱樂部再次成為「地方」的一種阻力。
+ベルリンの無機質さよりも、ロンドンの湿度を。  
+デジタルよりも、手のひらの圧を。  
+Blawanは**土地の重さ**を選び続けている。  
+それは、クラブが再び「場所」であり続けるための抵抗でもある。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rXdtjC3rdWo?si=QyrvRPgBzNP1Tc9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第7章 SickElixir－鋼鐵之城崩潰與重生的節奏
+## 第7章　SickElixir — 鋼鉄都市の崩壊と再生のリズム
 
-Blawan 的最新作品 ['SickElixir' (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) 是一部罕見的作品，它拆解了 techno 的結構，但仍然讓你感受到「人性」的存在。
-在漩渦般的噪音和扭曲中，節奏在崩潰的邊緣維持著平衡，聲音失去了意義，變成了樂器。
-《Rabbit Hole》中閃耀的光芒與《NOS》中深沉低音的洪流。
-每時每刻，布拉萬的聲音都跨越了冷酷和激情之間的界線。
+Blawanの最新作[『SickElixir』（2025）](https://www.amazon.co.jp/dp/B087B9MBK4)は、テクノの構造を解体しながらも、なお“人間”の存在を感じさせる稀有な作品だ。 
+ノイズと歪みが渦巻く中、リズムは崩壊寸前で均衡を保ち、声は意味を失って楽器へと変貌する。  
+“Rabbit Hole”で差し込む光、“NOS”での重低音の奔流。  
+その一瞬ごとに、Blawanの音は**冷たさと情熱の境界線**を行き来する。  
 
-背景是他自己的生活，包括失去朋友和與毒癮作鬥爭。
-冰冷的機械聲背後，是失落與重生的呼吸聲。
-憑藉《為什麼他們把屍體藏在我的車庫下》引起轟動後，他在十多年後終於得到了「一種存在於毀滅中的祈禱」。
+背景には、友人の喪失や依存との葛藤など、彼自身の“生”が横たわる。  
+冷たい機械音の奥で鳴るのは、喪失と再生の呼吸音だ。  
+『Why They Hide Their Bodies Under My Garage.』で衝撃を与えた彼が、十余年を経て到達したのは、“破壊の中に宿る祈り”である。  
 
-在科技變得更加抽象、俱樂部融入數位世界的時代，布拉萬敢於帶回「重力」。
-貫穿鋼鐵之城血管的節奏。
-在其中，他靜靜地問：聲音還能是人類嗎？ **
+テクノが抽象化し、クラブがデジタルに溶けていく今、Blawanはあえて“重力”を取り戻す。  
+鋼鉄都市の静脈を流れるビート。  
+その中で彼は静かに問う——**音は、まだ人間でいられるか？**
 
 ---
 
-## 第 8 章 年表 + 唱片目錄
+## 第8章　年表＋ディスコグラフィー
 
 <div class="mermaid">
 
@@ -188,118 +188,118 @@ flowchart TD
 
 ---
 
-|年份|標題 |標籤|連結 |
-| ---- | ----------------------------------------------------------- | ----------- | -------------------- |
-| 2011 | **Bohla EP** |羅德與施瓦茨 (R&S) 記錄 | [亞馬遜](https://www.amazon.co.jp/dp/B004Y3XL2Q) |
-| 2012 | **為什麼他們把屍體藏在我的車庫底下。 ** |鉸鏈手指| [亞馬遜](https://www.amazon.co.jp/dp/B00A8F2R8S) |
-| 2013 | **長夜工作** |工作坊 | [亞馬遜](https://www.amazon.co.jp/dp/B00FGZSW5A) |
-| 2018 | **濕總會乾** |特內斯克| [亞馬遜](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
-| 2020 | **Imulsion（完全混合到我這裡來）** |特內斯克| [亞馬遜](https://www.amazon.co.jp/dp/B087B9MBK4) |
-| 2025 | 2025 **SickElixir** | XL | [亞馬遜](https://amzn.to/3W2BEbr) |
+| 年    | 作品名                                             | レーベル         | リンク           |
+| ---- | ----------------------------------------------- | ------------ | ------------------- |
+| 2011 | **Bohla EP**                                    | R&S Records  | [Amazon](https://www.amazon.co.jp/dp/B004Y3XL2Q) |
+| 2012 | **Why They Hide Their Bodies Under My Garage.** | Hinge Finger | [Amazon](https://www.amazon.co.jp/dp/B00A8F2R8S) |
+| 2013 | **Works The Long Nights**                       | Sheworks     | [Amazon](https://www.amazon.co.jp/dp/B00FGZSW5A) |
+| 2018 | **Wet Will Always Dry**                         | Ternesc      | [Amazon](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
+| 2020 | **Immulsion (Come To Me In Full Mix)**          | Ternesc      | [Amazon](https://www.amazon.co.jp/dp/B087B9MBK4) |
+| 2025 | **SickElixir**          | XL      | [Amazon](https://amzn.to/3W2BEbr) |
 
 
 ---
 
-## 附錄：聲音片段－布拉萬及其周圍所說的“聲音”和“身體”
+## 付録：声の断片 — Blawanとその周辺が語る「音」と「身体」
 
-> 「當我製作 techno 時，我並不是製作歌曲。
-> 我只是在追逐節奏讓空氣顫抖的那一刻。 」
-> —— **布拉萬**
-
----
-
-> “當我第一次聽到那首歌“為什麼他們隱藏自己的身體......”
->  俱樂部一時間感覺「凍結」了。
->  恐懼和快樂同時出現。
->  這樣的卡車每十年才出現一次。 」
-> —— **Ben UFO (Hessle Audio)**
+> 「テクノを作るとき、僕は“曲”を作っていない。  
+> ただ、リズムが空気を震わせる瞬間を追っているだけ。」  
+> —— **Blawan**
 
 ---
 
-> 「Blawan 的『硬音』具有適當的溫度」。
->  這就是我與其他人的不同之處。
->  他看起來像是在工廠工作，但實際上是一位詩人。 」
-> —— **賤民（凱倫）**
+> 「あの“Why They Hide Their Bodies…”を初めて聴いたとき、  
+>  クラブが一瞬“凍る”感じがした。  
+>  恐怖と快楽が同時にくる。  
+>  そんなトラックは、10年に一度だよ。」  
+> —— **Ben UFO（Hessle Audio）**
 
 ---
 
-> 「當你走進他的工作室時，你首先看到的是寂靜。
->  開關打開前的寂靜已經包含了節奏。
->  該空間本身就成為「擊球面」。 」
-> —— **保拉坦普爾**
+> 「Blawanは“硬い音”の中にちゃんとした温度を持ってる。  
+>  それが他の誰とも違う。  
+>  工場で働いてるみたいに見えて、実は詩人なんだ。」  
+> —— **Pariah（Karenn）**
 
 ---
 
-> 「當我在 DJ 現場演奏 Blawan 時，
->  每個人都做好了片刻的準備。
->  但隨後你笑了。
->  身體會自行反應。這不符合邏輯。 」
-> - **目的**
+> 「彼のスタジオに行くと、まず“無音”がある。  
+>  スイッチを入れる前の静寂が、すでにリズムを孕んでいる。  
+>  あの空間自体が“打面”になってるんだ。」  
+> —— **Paula Temple**
+
+---
+
+> 「DJの現場でBlawanをかけると、  
+>  みんな一瞬“構え”る。  
+>  でも、そのあと笑うんだよ。  
+>  体が勝手に反応する。あれは理屈じゃない。」  
+> —— **Objekt**
 
 ---
 
 > 「Karennのライブを袖から見てたけど、  
->  就像在煉鐵廠一樣。
->  如同火花四濺的聲音。
->  儘管如此，觀眾們的臉上還是充滿了善意。 」
-> —— **外科醫生（安東尼·柴爾德）**
+>  まるで鉄工所の中にいるみたいだった。  
+>  火花が飛んでるような音。  
+>  それでも観客の顔は、どこか優しかった。」  
+> —— **Surgeon（Anthony Child）**
 
 ---
 
-> 「隨著俱樂部文化融入數位化，
->  布拉萬已經恢復了他的「重力」。
->  聲音落到地上。
->  我認為這是現在最人性化的事情。 」
-> —— **摘自常駐顧問作者評論**
+> 「クラブ・カルチャーがデジタルに溶けていく中で、  
+>  Blawanは“重力”を取り戻した。  
+>  音が地面に落ちる。  
+>  それが今、一番人間的なことだと思う。」  
+> —— **Resident Advisor ライター・コメントより**
 
 ---
 
-> 「聲音中有一隻手。
->  那是布拉萬的聲音。 」
-> —— **匿名DJ，《Boiler Room》之後的一句話**
+> 「音の中に“手”がある。  
+>  それがBlawanの音だ。」  
+> —— **匿名DJ、Boiler Roomセット後の一言**
 
 ---
 
 > 「彼の音楽は“無機質”じゃない。  
->  他只是**扮演**一個無機角色。
->  聽者感覺到有一定溫度的那一刻。
->  他就為了那一刻而降低了聲音。 」
-> —— **音樂作家/重構評論**
+>  無機質を**演じている**だけだ。  
+>  そこに温度があることを、聴く人が感じ取る瞬間。  
+>  その一瞬のために彼は音を削っている。」  
+> —— **音楽ライター・再構成コメント**
 
 
 ---
 
-### 最終章：鋼鐵般的祈禱：舞蹈就是生存
+### 終章　鋼鉄の祈り——踊ること、それは生き延びること
 
-Blawan的聲音時而冰冷，有時粗暴。
-然而，在內心深處，肯定存在著「人類的祈禱」。
-跳舞的行為是一種在城市喧囂中「生存」的儀式。
-「為什麼他們把屍體藏在我的車庫下面。」仍然吸引著人們，因為
-因為既有恐懼，也有解脫。
+Blawanの音は、時に冷たく、時に荒々しい。
+だがその奥には、確かに「人間の祈り」が宿っている。
+踊るという行為は、都市のノイズの中で“生き延びる”ための儀式だ。
+“Why They Hide Their Bodies Under My Garage.”がいまなお人々を惹きつけるのは、
+そこに恐怖と救済の両方があるからだ。
 
-聲音如鋼鐵般。
-但每聽一次，我的體溫就會升高。
-Blawan是一位血液流淌在冰冷世界的藝術家。
+鋼鉄のような音。
+だが、聴くたびに体温が上がる。
+Blawanは、冷たい世界に血を通わせるアーティストである。
 
-> “聲音是身體的影子”
->——布拉萬（訪談）
+> 「音は、身体の影だ」
+>——Blawan（インタビューより）
 
 
 ---
 
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H-yRUFugjp4?si=OMNled0lUg104Q_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 附錄：Blawan 模組化設定圖（2020-2025）
+### 付録：Blawanのモジュラー・セットアップ図解（2020–2025）
 
-> “所有的聲音都是從觸摸開始的。”
-> ——布拉萬
+> 「すべての音は、触れることから始まる。」  
+> ——Blawan
 
 <div class="mermaid">
 
@@ -348,52 +348,52 @@ flowchart TD
 
 ---
 
-### Blawan 工作室功能說明
+### Blawanスタジオの特徴メモ
 
-|分類|設備|應用 |特性|
-| ---------- | ------------------------------------------------ | ---------- | -------------------- |
-|音序器| **智慧大都會** |旋律/節奏生成 |強調硬16步手感|
-|振盪器| **Verbos 複合 VCO / 辮子** |主振盪源|類比失真與數位粒子的結合 |
-|鼓合成器 | **穆格 DFAM** |金屬打擊樂| Blawan「工業噪音」的核心 |
-| FX鏈| **模擬熱/麥克風/BigSky** |紋理調整|用驅動器和混響構建空間 |
+| 区分         | 機材                                   | 用途         | 特徴                   |
+| ---------- | ------------------------------------ | ---------- | -------------------- |
+| Sequencer  | **Intellijel Metropolis**            | メロディ・リズム生成 | ハードな16ステップ感を重視       |
+| Oscillator | **Verbos Complex VCO / Plaits**      | メイン発振源     | アナログの歪みとデジタル粒子を併用    |
+| Drum Synth | **Moog DFAM**                        | 金属的パーカッション | Blawanサウンドの“工業ノイズ”の核 |
+| FX Chain   | **Analog Heat / Mimeophon / BigSky** | 質感調整       | ドライブとリバーブで空間を構築      |
 | Mixer      | **WMD Performance Mixer**            | リアルタイム構築   | Karennライブにも使用        |
-|錄音機| **[RME Fireface](https://amzn.to/42yLG7Y) + [Ableton](https://amzn.to/4h6gGC9)** |最終錄音|無需配音的「一次性錄音」理念 |
+| Recorder   | **[RME Fireface](https://amzn.to/42yLG7Y) + [Ableton](https://amzn.to/4h6gGC9)**           | 最終レコーディング  | オーバーダブせず“一発録り”哲学     |
 
 ---
 
 このセットアップが生む音は、完全に手作業で作られた電子音だ。
-Blawan 不是“打字”，而是“表演”。
-因此，他的技術保留了「人類的不穩定性」。
+Blawanは「打ち込み」ではなく「演奏」をしている。
+それゆえに、彼のテクノは“人間的な不安定さ”を残しているのだ。
 
-> “這不像操作電子設備，而是一種同理心。”
-> ——布拉萬（RBMA 訪談）
+> 「電子機器を操作するのではなく、交感する感覚なんだ」
+> ——Blawan（RBMA Interview）
 
 
 ---
 
 ### 後記
 
-沉重的低音迴盪在夜色的城市。
-在每個人都透過智慧型手機消費聲音的時代，
-布拉萬正在努力恢復觸摸的聲音。
+夜の街に響く重低音。  
+誰もがスマートフォンで音を消費する時代に、  
+Blawanは、**“触れる音”**を取り戻そうとしている。  
 
-鋼鐵般的聲音帶著人性的溫暖。
-這種矛盾正是他存在的理由。
+スチールのような音の中に、人間のぬくもりがある。  
+その矛盾こそが、彼の存在理由だ。
 
-> “我相信科技。
->  只要有人還在跳舞。 」
-> —— **布拉萬**
+> 「僕はテクノを信じてる。  
+>  まだ、誰かが踊ってるかぎりは。」  
+> —— **Blawan**
 
 ---
 
-### 相關專欄
+### 関連コラム
 
-🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[專欄]從techno的起源到現在－透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 【德國Techno的譜系與現在－聲音美學從柏林傳播到世界】(https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Column] Tresor - 柏林地下改變世界的科技聖地](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)

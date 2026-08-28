@@ -11,17 +11,17 @@ tags:
 - Minimal
 - Experimental
 - 80s
-title: 克羅諾斯四重奏 – 蒙克組曲 克羅諾斯四重奏演奏塞隆尼斯蒙克的音樂
+title: Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious Monk
 ---
 
 
-克羅諾斯四重奏是一個弦樂四重奏，由小提琴家大衛哈靈頓於 1973 年在西雅圖組建，自 1978 年以來一直以舊金山為基地。
+クロノスカルテットは、1973年にバイオリニストのDavid Harrington（デイビッド・ハリントン）によりシアトルで結成され、1978 年以来サンフランシスコを拠点に活動する弦楽四重奏団。 
 
-樂團已經活躍了 50 年，音樂家陣容輪流，其中演奏時間最長的組合（1978-1999 年）是小提琴手哈林頓和約翰·沙巴、中提琴手漢克·杜特和大提琴手瓊·讓雷諾。
+50年間にわたりミュージシャンが交代しながら活動しており、 最も長く続いた演奏家の組み合わせ（1978年〜1999年）は、ヴァイオリンのハリントンとジョン・シャーバ、ヴィオラのハンク・ダット、チェロのジョアン・ジャンルノー。
 
-這首四重奏涵蓋了非常廣泛的音樂流派，包括當代古典音樂。
+カルテットは現代クラシック音楽を含む非常に幅広い音楽ジャンルをカバーしている。
 
-#### 曲目表
+#### Tracklist
 ```md
 Monk Suite：
 1. Well, You Needn't
@@ -37,7 +37,7 @@ Monk Plays Ellington：
 9. Brilliant Corners
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w8cLmRx31Ec?si=XgSC2lj8gR06s-Px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

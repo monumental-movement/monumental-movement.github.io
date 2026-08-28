@@ -18,7 +18,7 @@ Taco(タコ)は、「Puttin’ on the Ritz(踊るリッツの夜)」のヒット
 
 Irving Berlin(アーヴィング・バーリン)の名曲、Let's Face the Musicをエレクトロポップ&ディスコカヴァー。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Let's Face The Music (And Dance)
 

@@ -10,16 +10,16 @@ tags:
 - Rock
 - Hard Rock
 - 80s
-title: 吻——毀滅者
+title: Kiss – Destroyer
 ---
 
 
-Kiss's Army of Hell 是 Kiss 的第四張錄音室專輯，其中包括他們的標誌性歌曲“Detroit Rock City”、“Scream of Madness”、“Raijin”和“Beth”。
+キッスの地獄の軍団は、代表曲「デトロイト・ロック・シティ」、「狂気の叫び」、「雷神」、「ベス」などが収録されたのkiss4枚目のスタジオアルバム。
 
-製片人是鮑勃·埃茲林 (Bob Ezrin)，他曾與愛麗絲·庫珀 (Alice Cooper) 等人合作。
+プロデューサーは、アリス・クーパーなどを手がけたボブ・エズリン。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Detroit Rock City（デトロイト・ロック・シティ ）
 
@@ -40,7 +40,7 @@ B4. Beth（ベス）
 B5. Do You Love Me（ドゥ・ユー・ラヴ・ミー ）
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VkUL9a-ngI?si=EDGCfMKUKFLKNqtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

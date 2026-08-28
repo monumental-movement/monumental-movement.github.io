@@ -12,11 +12,11 @@ title: Earth, Wind & Fire – Heritage
 ---
 
 
-"Heritage" appears on Earth, Wind & Fire"s 1980 album Faces. The song has a sound that blends the band"s signature funk, soul, disco, and pop elements.
+「Heritage」は、アース・ウィンド・アンド・ファイアの1980年のアルバム『Faces』に収録されています。この曲は、バンドの特徴的なファンク、ソウル、ディスコ、およびポップの要素を融合させたサウンドを持っています。
 
-"Heritage" is one of Earth, Wind & Fire's songs that is easy to dance to and has a groove, and features a brass section and rhythmic drum beat. The lyrics focus on the importance of cultural heritage and identity, conveying a positive message.
+「Heritage」は、アース・ウィンド・アンド・ファイアの楽曲の中でも踊りやすくグルーヴ感のある曲であり、ブラスセクションやリズミカルなドラムビートが特徴的です。歌詞は、文化的な遺産やアイデンティティの重要性に焦点を当てており、ポジティブなメッセージを伝えています。
 
-Earth, Wind & Fire had a number of hit songs throughout the 70"s and 80"s and achieved great success in the funk and disco music scene. Their songs are known for their groove and energetic performances, and their music is widely loved.
+アース・ウィンド・アンド・ファイアは、70年代から80年代にかけて多くのヒット曲を生み出し、ファンクやディスコミュージックのシーンで大きな成功を収めました。彼らの楽曲は、グルーヴ感やエネルギッシュなパフォーマンスで知られており、その音楽は広く愛されています。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ B2. Heritage (LP Version)
 B3. Heritage (Per Cus Apella)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hHxlGEjItnk?si=5th_aMq1n9NBwVSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

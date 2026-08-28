@@ -9,17 +9,17 @@ permalink: /zh-hant/lab4-none-of-us-are-saints/
 tags:
 - Trance
 - Hard Trance
-title: Lab4 – 我們都不是聖人
+title: Lab4 – None Of Us Are Saints
 ---
 
 
-Lab4 是由 Adam Newman 和 Les Elston 組成的英國硬舞團體。
+Lab4は、Adam Newman(アダム・ニューマン)& Les Elston(レス・エルストン)によるUKのハードダンスアクト。
 
-Side A 是日本領先的硬舞製作人和 DJ Nish 的混音作品。
+A面は日本を代表するハードダンスプロデューサー兼DJ Nishによるremix。
 
-《None Of Us Are Saints》於 2006 年在 avex 的子廠牌 Superb Trax 發行。
+「None Of Us Are Saints」は、avexのサブレーベルSuperb Traxより2006年にリリース。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Perfect Drug (Nish Remix)
 
@@ -28,7 +28,7 @@ B1. Rapture (Hybrid 2006){: .button1}
 B2. Perfect Drug
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m75375827004?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75375827004?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3BdOyoCt9TE?si=n1bPSSIrM8-SK4xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

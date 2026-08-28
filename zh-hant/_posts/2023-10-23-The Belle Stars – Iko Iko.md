@@ -10,24 +10,24 @@ tags:
 - Pops
 - UK Pops
 - 7inch
-title: 美女明星－Iko Iko
+title: The Belle Stars– Iko Iko
 ---
 
 
-A 面歌曲「Iko Iko」是 The Belle Stars 的翻唱歌曲，The Belle Stars 是英國流行女子樂隊，由 The Bodysnatchers 前成員於 1980 年在倫敦組建。
+A面の「 Iko Iko 」は、 The Bodysnatchers(ボディスナッチャーズ)の元メンバーによって1980年にロンドンで結成されたUKポップ・ガールズバンドThe Belle Stars(ベル・スターズ)によるカバー曲。
 
-美女明星版的 Iko Iko 也出現在電影《雨人》（由達斯汀霍夫曼和湯姆克魯斯主演）、《敲響天堂之門》和《宿醉》中。
+The Belle Starsヴァージョンの Iko Iko は映画「レインマン」（主演：ダスティン・ホフマン、トム・クルーズ）や、映画『ノッキン・オン・ヘブンズ・ドア』、映画『ハングオーバー』にも収録された。
 
-B面歌曲《拉斯維加斯》由著名電影作曲家漢斯·季默創作，也收錄在電影《雨人》的原聲帶中。
+B面の「Las Vegas」は、著名な映画音楽の作曲家Hans Zimmer(ハンス・ジマー)によるもので、この曲も映画「レインマン」のサウンドトラックに収録されている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. The Belle Stars – Iko Iko
 
 B. Hans Zimmer -  Las Vegas
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m71875751743?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71875751743?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-Tfarx8koU?si=tOv2Rqp15tOS9ftk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

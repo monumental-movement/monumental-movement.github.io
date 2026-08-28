@@ -9,17 +9,17 @@ permalink: /zh-hant/out-of-tune-generation-cine-techno-directors-cut/
 tags:
 - Techno
 - House
-title: 走音的一代 – Cine Techno 導演剪輯版
+title: Out Of Tune Generation – Cine Techno Director's Cut
 ---
 
 
-走音一代是高波啟太郎（撥奏五人組）的一個項目。 A1 是 Mondo 電影《瑞典：天堂與地獄》中歌曲「Mana Mana」的翻唱歌曲。
+Out Of Tune Generationは高浪敬太郎（ピチカート・ファイブ）のプロジェクト。A1はモンド映画、「Sweden: Heaven and Hell」の挿入曲「マナ・マナ」のハウスカバー。
 
-A2 是希臘/英國電影《魚出來的那一天》的封面。
+A2は、ギリシャ・イギリス映画「魚が出てきた日」のカバー。
 
-B1 的《Linus & Lucy》翻唱自 Vince Guaraldi 1964 年的歌曲《Linus & Lucy》，這首歌經常在《花生漫畫》（尤其是《史努比的聖誕快樂》）中播放。 B2是英國電影《利刃出鞘》的封面。
+B1のLinus & Lucyは、ピーナッツ（特にスヌーピーのメリー・クリスマス）で頻繁に流れるビンス・ガラルディが1964年に発表した楽曲Linus & Lucy（ライナス・アンド・ルーシー）のカバー。B2はイギリス映画「唇からナイフ」のカバー。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Mah-Na Mah-Na (Heaven And Hell In B#)
 

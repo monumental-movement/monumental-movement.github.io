@@ -11,14 +11,14 @@ tags:
 - Acid Jazz
 - Latin
 - 00s
-title: DJ Rodriguez – Afterhours – Nonstop Mix Style 3
+title: DJ Rodriguez – Afterhours - Nonstop Mix Style Three
 ---
 
 
 
-DJ Rodriguez 的《AFTERHOURS》合輯系列的第三部分，DJ Rodriguez 是代表義大利歷史悠久的唱片公司 IRMA RECORDS 的藝術家。
+イタリアの老舗レーベルIRMA RECORDSを代表するアーティスト DJ Rodriguezによるコンピレーション『AFTERHOURS』シリーズの第3弾。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. DJ Rodriguez – Peter Pan Syndrome
 2. Riovolt – Sidewalk Samba
@@ -36,4 +36,4 @@ DJ Rodriguez 的《AFTERHOURS》合輯系列的第三部分，DJ Rodriguez 是�
 14. DJ Rodriguez – The Summer is Coming (Come Back Home Edit)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m27605587794?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27605587794?afid=6142608987){: .button1}

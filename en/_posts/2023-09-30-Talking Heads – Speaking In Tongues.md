@@ -12,13 +12,13 @@ title: Talking Heads – Speaking In Tongues
 ---
 
 
-Talking Heads' "Speaking In Tongues" was released in 1983. This album was one of Talking Heads' most commercially successful releases and marked their musical evolution and innovation.
+Talking Headsの「Speaking In Tongues」は、1983年にリリースされました。このアルバムは、トーキング・ヘッズの中でも特に商業的に成功した作品の一つであり、彼らの音楽的な進化と革新を示すものとなりました。
 
-The album is filled with Talking Heads" signature post-punk and new wave elements, combining David Byrne"s vocal style, quirky lyrics, and catchy rhythms and melodies to create a unique sound.
+アルバムには、トーキング・ヘッズの特徴的なポストパンクとニューウェイブの要素が詰まっており、デイヴィッド・バーン（David Byrne）のボーカルスタイル、奇抜な歌詞、キャッチーなリズムとメロディが組み合わさり、独自のサウンドを生み出しています。
 
-It includes many hit songs such as "Burning Down the House" and "This Must Be the Place (Naive Melody)."
+「Burning Down the House」や「This Must Be the Place (Naive Melody)」など多くのヒット曲が収録されています。
 
-This album is a must-hear for any Talking Heads fan, and the unique sound and intelligent lyrics of 'Speaking In Tongues' make it a milestone in the history of rock music.
+このアルバムは、トーキング・ヘッズのファンにとっては必聴の作品であり、独特なサウンドとインテリジェントな歌詞が融合した「Speaking In Tongues」は、ロックミュージックの歴史においても一つのマイルストーンとなっています。
 
 
 #### Tracklist
@@ -42,7 +42,7 @@ B3. Pull Up The Roots
 B4. This Must Be The Place (Naive Melody)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m36336920613?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36336920613?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4c_YkN-8WRM?si=ShsHgvGu001PzDQp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

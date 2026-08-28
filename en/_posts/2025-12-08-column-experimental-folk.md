@@ -20,13 +20,13 @@ title: '[Column] What is Experimental Folk / Psych Folk?: The intersection of ac
 
 Text: mmr｜Theme: Changes over time, techniques, and cultural background centered on Comus, Espers, and Current 93
 
-**Experimental Folk** and **Psych Folk** are based on acoustic instruments,
+**Experimental Folk（実験フォーク）**および**Psych Folk（サイケデリック・フォーク）**は、アコースティック楽器を基盤にしながら、  
 ・Dissonance
 ・Drone
 ・Storytelling/reading
-・Ethnic musical elements
+・民族音楽的要素  
 ・Electronic sounds and tape operations
-It is a genre that has expanded the framework of folk music by incorporating such things as folk music.
+などを取り込むことで、フォーク音楽の枠を拡張してきたジャンルである。
 
 They range from the psychedelic movement of the late 1960s, British folk revival, American acid folk, to the post-industrial/experimental music scene of the 1980s to 2000s.
 For this reason, the genre is defined not so much by a ""uniform sound" as by ""acoustic experiments" centered around acoustics.
@@ -59,7 +59,7 @@ It is said to be the group that created the prototype of Psych Folk.
 - **Comus** (1969–)
 His 1971 debut *"First Utterance"* was set in the context of British folk, but
 ・Creepy vocals
-・Dissonant acoustic guitar
+  ・不協和的なアコースティックギター  
 ・Frazy arrangement for flute and violin
 It has been praised as a work that had a decisive influence on later dark folk/acid folk.
 
@@ -67,12 +67,12 @@ Although Comus was not a commercial success, future members of Current 93 and ma
 
 ---
 
-# 2. 1970s: The emergence of American introspective folk and experimentation
+# 2. 1970年代：アメリカの内省的フォークと実験性の萌芽
 
-In America, psych-folk was not as defined as a collective movement as in Britain, but the following trends are important:
+アメリカでは、サイケ・フォークは英国ほど集団的ムーブメントとして定義されなかったが、以下の潮流が重要である。
 
-- **John Fahey and the Genealogy of American Primitives**
-Fingerpicking with improvisational, drone, and noise motives.
+- **John Fahey とアメリカン・プリミティブの系譜**  
+  即興・ドローン・ノイズ的動機を伴うフィンガーピッキング。  
 Fahey was a ""folk guitar experimenter'' and greatly influenced subsequent artists.
 
 - **Tim Buckley's later works**
@@ -85,7 +85,7 @@ During this period, American experimental folk was scattered as ""singer-songwri
 
 ---
 
-# 3. 1980s-90s: Influence of Industrial / Neofolk and role of Current 93
+# 3. 1980s-90s: Influence of Industrial/Neofolk and role of Current 93
 
 In the 1980s and 1990s, "neofolk" with acoustic elements emerged from the British post-industrial scene.
 One of the central players is **Current 93 (hosted by David Tibet)**.
@@ -97,19 +97,19 @@ One of the central players is **Current 93 (hosted by David Tibet)**.
 - Inheriting Comus and British folk approaches
 - Featuring Nick Cave, Michael Cashmore, Ben Chasny (Six Organs of Admittance) and many more
 
-He has defined the current characteristics of Experimental Folk: ""experimental music x acoustic x poetic recitation.''
+「実験音楽 × アコースティック × 詩的朗読」という現在の Experimental Folk の特徴を定義した存在である。
 
-## Intersection with Neofolk
-Neofolk (Death in June, Sol Invictus, etc.) is often politically controversial, but sonically
+## Neofolk との交差点
+Neofolk（Death in June、Sol Invictus など）は政治的議論を呼ぶことが多いが、音響的には  
 **Minimal arrangement x folk guitar x drone x solemn poetry**
 These elements are connected to Psych Folk's experimental orientation.
 
 ---
 
-# 4. 2000s: The convergence of new psychedelia and indie folk — the emergence of Espers
+# 4. 2000年代：ニュー・サイケデリアとインディ・フォークの収斂 —— Espers の登場
 
-In the 2000s, a new trend of Psych Folk/Freak Folk was born mainly on the East Coast of the United States.
-**Espers (Philadelphia, 2002–)** is a representative example.
+2000年代には、アメリカ東海岸を中心に Psych Folk / Freak Folk の新潮流が生まれる。  
+**Espers（フィラデルフィア、2002–）**はその代表格。
 
 ## Musical characteristics of Espers
 - Acoustic guitar, harp, drone-like synth
@@ -121,10 +121,10 @@ In the 2000s, a new trend of Psych Folk/Freak Folk was born mainly on the East C
 They bridged Psych Folk into the realm of indie rock/ambient/drone, and played a key role in the resurgence of Experimental Folk in the 2000s.
 
 Related acts from the same period include
-- **Devendra Banhart**
+- **Devendra Banhart**  
 - **Six Organs of Admittance**
 - **Animal Collective (initial)**
-- **Faun Fables**
+- **Faun Fables**  
 Examples include.
 
 ---
@@ -135,7 +135,7 @@ In the 2010s, Experimental Folk began blurring the lines between acoustic and co
 
 ## Points of note
 - Rise of **Drone Folk**
-→ Earth (from drone metal), Grouper, Julianna Barwick, etc.
+  → Earth（ドローンメタル出身）、Grouper、Julianna Barwick など  
 - **Tape processing × acoustic**
 - **Introduction of chamber music/minimal music**
 - Fusion with **environmental sound/field recording**
@@ -153,7 +153,7 @@ It develops in a branching and overlapping manner.
 Guitar, banjo, harp, fiddle, percussion, etc.
 2. **Introduction of non-Western musical instruments**
 sitar, darbuka, hurdy gurdy
-3. **Drone**
+3. **ドローン**  
 Sustained sounds from synths, organs, and string instruments
 4. **Dissonance/Irregular Tuning**
 Open tuning, microtone
@@ -165,20 +165,20 @@ modes, ritual rhythms, religious poetry, etc.
 
 ## Thematic features
 - Mysticism/Fables/Religious Symbols
-- Naturalism/pastoral scenes
-- Spiritual world/introspection
+- 自然主義・田園的情景  
+- 精神世界・内省  
 - Quotes from folk tales/legends
-- Unusual feeling, recollection of altered consciousness (derived from psychedelia)
+- 非日常感、変性意識の想起（サイケデリア由来）
 
 ---
 
 # 7. Positioning of Comus・Espers・Current 93
 
 | Artist | Region | Active period | Position |
-|--------------|------|------------|------------|
+|--------------|------|-----------|-----------|
 | **Comus** | UK | 1969– | The origin of acid folk. Darkfolk template. |
 | **Current 93** | UK | 1982– | A fusion of post-industrial and acoustic. The center of neofolk. |
-| **Espers** | USA | 2002– | A symbol of the resurgence of Freak Folk/Psych Folk in the 2000s. |
+| **Espers** | United States | 2002– | A symbol of the resurgence of Freak Folk/Psych Folk in the 2000s. |
 
 By juxtaposing these three elements, we can understand that Experimental Folk is ""not a continuous genre, but a phenomenon in which multiple cultural trends are connected experimentally with acoustics as its base.''
 
@@ -233,16 +233,16 @@ In other words, Experimental Folk has transformed into a "creative process that 
 
 ---
 
-# Conclusion: Experimental Folk is a "place for acoustic experiments"
+# 結論：Experimental Folk は“音響的実験の場”である
 
 Experimental Folk / Psych Folk, within the constraints of acoustic instruments,
 ・Sound adventure
 ・Poetic worldview
 ・Intersection with folk music and religious symbols
-It is a place where people can try their hand at experimentation, and its core lies in the experimental nature of the creative method itself.
+It is a place for experimenting with ideas, and its core lies in the experimental nature of the creative method itself.
 
 The bizarre acid folk of Comus, the religious recitations of Current 93, and the tranquil, multi-layered arrangements of Espers.
-What these artists have in common is that they treat folk as a "material" and deconstruct and reconstruct it acoustically and culturally.
+これらは共通して、フォークを“素材”として扱い、音響的／文化的に解体・再構築してきた。
 
 Experimental music and folk music are never far apart, and the simplicity of acoustic music allows for more room for experimentation.
 The resulting ""borderline music'' is Experimental Folk/Psych Folk.

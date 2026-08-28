@@ -12,7 +12,7 @@ title: Ian Lex – I Wanna Be Your Man
 ---
 
 
-This is a single release from the project "Ian Lex" by Rino Facchinetti, released in 1996.
+1996年にリリースされた本名Rino Facchinettiによるプロジェクト「Ian Lex」のシングルリリースです。
 
 #### Tracklist
 ```md

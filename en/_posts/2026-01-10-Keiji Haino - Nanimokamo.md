@@ -9,7 +9,7 @@ tags:
 - Experimental
 - Rock
 - 00s
-title: Keiji Haino - Nanimokamo Keiji Haino – Everything
+title: Keiji Haino - Nanimokamo 灰野敬二 – 何もかも
 ---
 
 
@@ -17,13 +17,13 @@ Keiji Haino – Everything
 percussion solo
 Keiji Haino
 
-VHS (videotape)
+VHS (ビデオテープ)
 
-VHS released in 2002 by PSF Records, which released many Japanese underground music such as High Rise, Acid Mother's Temple, Mainliner, White Heaven, Ghost, Koshu Yo, Masayuki Takayanagi, Kaoru Abe, Hiroshi Mikami, Toshiaki Ishizuka, Keiji Haino, and Fushisha.
+ハイ・ライズ、アシッド・マザーズ・テンプル、メインライナー、ホワイト・ヘヴン、ゴースト、光束夜、高柳昌行、阿部薫、三上寛、石塚俊明、灰野敬二、不失者など数多くの日本のアンダーグラウンドミュージックをリリースしていたPSFレコードから2002年に発売されたVHS。
 
-The director is Soichiro Nobuki, a Video Artist who was in charge of Hiroshi Mikami's ""From Jomon to Space: Jomon Rock'' (VHS).
+監督は、三上寛『縄文から宇宙へ　縄文の唄 (Johmon Rock)』(VHS)など担当したVideoArtistの信木総一郎。
 
-Art direction is by Yasuyuki Arai, who has created jackets for Keiji Haino, Fushisha, John Zorn, Motoharu Yoshizawa, and more.
+Art Directionは、灰野敬二、不失者、John Zorn、吉沢元治などのジャケを手がける新井康祝。
 
 The producer is Hideo Ikuetsu, owner of P.S.F. Records.
 
@@ -32,4 +32,4 @@ The producer is Hideo Ikuetsu, owner of P.S.F. Records.
 1. 何もかも
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m64426142389?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64426142389?afid=6142608987){: .button1}

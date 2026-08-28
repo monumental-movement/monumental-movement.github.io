@@ -11,13 +11,13 @@ tags:
 - Avant-garde
 - Rock
 - 70s
-title: 裸身集會 – 現場演出 1972
+title: 裸のラリーズ Les Rallizes Dénudés – Live 1972
 ---
 
 
-Les Rallizes Dénudés/Hadaka no rariizu 是一支實驗噪音搖滾/迷幻搖滾樂隊，於 1967 年在京都成立，由 Takashi Mizutani 領導。 Naked Larrys 活躍於 20 世紀 60 年代至 90 年代，對日本和國外的噪音搖滾界產生了巨大影響，並且仍然擁有狂熱的人氣。最初的成員是水穀隆、中村武、若林盛介。此外，成員也在不斷變化，山口富士夫（以前稱為 Hachibu，後來的 Teardrops）和 Makoto Kubota 曾一度加入該團體。該團體於1996年停止活動。
+裸のラリーズ (Les Rallizes Dénudés/Hadaka no rariizu）は、1967年に水谷孝を中心に京都で結成されたエクスペリメンタルノイズロック・サイケデリックロックバンド。1960年代から1990年代に活動した裸のラリーズは、国内外のノイズロックシーンに多大なる影響を与え、現在もカルト的人気を誇る。結成当時のメンバーは水谷孝、中村武志、若林盛亮。その他、山口冨士夫（元村八分、後にティアドロップス）、久保田麻琴などが一時在籍するなどメンバーは流動的。1996年を最後に活動を休止している。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. 造花の原野 (Field of Artificial Flowers)
 2. 夜より深く (More Deeply Than the Night)
@@ -27,7 +27,7 @@ Les Rallizes Dénudés/Hadaka no rariizu 是一支實驗噪音搖滾/迷幻搖�
 6. The Last One
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoaAUptZ0mw?si=io-6qEGs_v6UDWeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

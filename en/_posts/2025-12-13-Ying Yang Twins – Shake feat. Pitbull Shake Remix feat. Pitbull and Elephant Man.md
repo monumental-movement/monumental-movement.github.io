@@ -13,7 +13,7 @@ title: Ying Yang Twins – Shake feat. Pitbull / Shake Remix feat. Pitbull & Ele
 ---
 
 
-"Shake", released in 2005, is a single cut from Ying Yang Twins" album "U.S.A.". Featuring Pitbull and Elephant Man. The song includes a sample of George Kranz"s "Din Daa Daa".
+2005年にリリースされた「Shake」は、Ying Yang Twinsのアルバム「U.S.A.」からのシングルカット。Pitbull (ピットブル)とElephant Man (エレファントマン)をフィーチャーしている。この曲には、George Kranz(ジョージ・クランツ)の「Din Daa Daa」のサンプリングが含まれている。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ B2. Shake (Remix) (Street) Featuring – Elephant Man, Pitbull
 B3. Shake (Remix) (Instrumental)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m46218826555?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46218826555?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Su1I4_wCUxY?si=lGzQplc2AEQY1Oim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

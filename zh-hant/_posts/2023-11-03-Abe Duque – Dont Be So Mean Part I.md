@@ -10,25 +10,25 @@ tags:
 - Techno
 - Downtempo
 - Rare
-title: Abe Duque – 別那麼刻薄第一部分
+title: Abe Duque – Don't Be So Mean Part I
 ---
 
 
-阿貝杜克 (Abe Duque) 活躍於紐約地下酸液界。
+NYアンダーグラウンドアシッド・シーンで活躍するAbe Duque（アベ・デューク）。
 
-90年代初期，他參加了當時在紐約俱樂部界引起關注的PROGRAM2。
+90年代初頭は、当時のNYクラブ・シーンで注目されたPROGRAM2に参加。
 
-隨後，他以 KILRIAN 的名字工作，並於 2002 年與 DJ Matuss 共同創立了 Abe Duque Records。
+その後、KILRIAN名義で活動したのち、02年にはDJ Matussと共にAbe Duque Recordsを設立。
 
-Abe Duque Records 故意走地下路線，在光碟上印有發行資訊和製作人員名單。
+Abe Duque Recordsは敢えてアングラ路線をとり、リリース情報などクレジットは盤面に刻印するスタイルをとっている。
 
-他曾為 Chemical Brothers 和 Pet Shop Boys 製作混音作品，並於 2005 年在 WIRE 和 2007 年在 Asagiri JAM 現場表演。
+Chemical Brothers（ケミカルブラザーズ）やPet Shop Boys（ペットショップボーイズ）などのリミックスを手がけたり、05年のWIREや07年の朝霧JAMでライヴパフォーマンスをおこなっている。
 
-《Don't be So Mean》於 2008 年發行，是一首風靡全球舞池的電子歌曲。
+2008年にリリースした「Don't be So Mean」は、世界中のダンスフロアで人気を博したテクノトラック。
 
-B 面由塞爾維亞 DJ Tijana T 演唱，他曾在 Boiler room 和 Panorama Bar 等世界各地的著名俱樂部演出。
+B面は、Boiler roomやPanorama Barなど世界の有名クラブでプレイするセルビア出身のDJ Tijana Tがヴォーカルで参加。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Don't Be So Mean (Part I)
 
@@ -37,5 +37,5 @@ A2. Vinyl Is Dead
 B. Salute The Dawn Featuring – Tijana T
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
 

@@ -13,13 +13,13 @@ title: El General – Muevelo
 ---
 
 
-"Muévelo" is a song by Panamanian reggaeton artist El General. This song was released in 1991.
+「Muévelo」は、パナマ出身のレゲトンアーティスト、エル・ジェネラル（El General）による楽曲です。この曲は、1991年にリリースされました。
 
-"Muévelo" is known as one of the signature songs of reggaeton and is one of El General's most popular songs. The song title "Muévelo" means "to move" in Spanish, and as the name suggests, the song is full of rhythm and energy that excites the dance and party atmosphere.
+「Muévelo」は、レゲトンの代表的な曲の一つとして知られており、エル・ジェネラルの最も人気のある楽曲の一つです。曲名の「Muévelo」はスペイン語で「動かす」を意味し、その名の通り、楽曲は踊りやパーティーの雰囲気を盛り上げるリズムとエネルギーに溢れています。
 
-"Muévelo" incorporates the Latin rhythms and dancehall elements characteristic of reggaeton, combined with El General's unique rapping style. The song is characterized by a light beat and an addictive hook, making it a powerful song that will make listeners dance.
+「Muévelo」は、レゲトンの特徴であるラテン系のリズムやダンスホールの要素を取り入れており、エル・ジェネラルの独自のラップスタイルと組み合わさっています。曲は、軽快なビートや中毒性のあるフックが特徴であり、聴く人々を踊らせるパワフルな楽曲です。
 
-El General's "Muévelo" was widely embraced by Latin music fans and reggaeton enthusiasts for its infectious rhythm and fun party atmosphere. This song continues to be loved by people today as one of the representative works of his career.
+エル・ジェネラルの「Muévelo」は、その感染力のあるリズムと楽しいパーティーの雰囲気から、ラテン音楽のファンやレゲトン愛好家に広く受け入れられました。この曲は、彼のキャリアを代表する作品の一つとして、現在でも人々に愛され続けています。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ B1. Muevelo (Remix)
 B2. Te Ves Buena (Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m24319848302?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24319848302?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZduEgYG9Zxw?si=KlNJaRirZDTrykeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

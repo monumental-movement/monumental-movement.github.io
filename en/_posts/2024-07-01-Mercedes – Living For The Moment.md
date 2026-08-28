@@ -14,9 +14,9 @@ title: Mercedes – Living For The Moment
 ---
 
 
-A house/garage house track released in 1994 by Trinidadian-based UK-based singer Mercedes on Vinyl Solution, a UK label famous for producing Depth Charge, Eon, Bizarre Inc, and Andrew Meecham.
+トリニダード出身でイギリスを拠点に活動するシンガーMercedes(メルセデス)が、Depth Charge、 Eon、Bizarre Inc、Andrew Meechamを輩出したことで有名なUKのレーベルVinyl Solutionから1994年にリリースしたハウス・ガラージハウストラック。
 
-The first track on side A and side B are remixes by London-based DJ/producers Booker T and Mark Frank. The second track on Side A is a remix by UK multi-instrumentalist, producer, and mixing/mastering engineer Alan Scott (Al Scott).
+A面１曲目とB面は、ロンドンを拠点とする DJ・プロデューサーBooker TとMark Frankによるremix。A面２曲目はUKのマルチ楽器奏者、プロデューサー、ミキシング/マスタリング エンジニアAlan Scott（Al Scott）によるremix。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A2. Living For The Moment (Radio Mix)
 B. Living For The Moment (Booker's Dub Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m57130413631?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57130413631?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GmcLeh4q4_U?si=0jBnonylE14C7QkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

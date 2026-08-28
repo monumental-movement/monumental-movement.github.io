@@ -10,23 +10,22 @@ tags:
 - Flute
 - Tribal
 - History
-title: '[Column] The sound of the mountain wind - the deep layers of the nasal flute
-  and sound culture of the Igorot people of the Philippines'
+title: 【コラム】 山の風が奏でる音──フィリピン・イゴロット族の鼻笛と音文化の深層
 ---
 
 
 
-## Prologue: "Breathing melody" that is not a voice or an instrument
+## 序章：声でも楽器でもない「呼吸の旋律」
 
-Text: mmr｜Theme: The nasal flute of the Igorot people who live in the mountainous regions of the northern Philippines is not a vocal or musical instrument, but is ""music of breathing.'' This paper deciphers the relationship between mountain culture and sound, focusing on its origin, structure, and social role.
+文：mmr｜テーマ：フィリピン北部山岳地帯に暮らすイゴロット族の鼻笛は、声でも楽器でもない「呼吸の音楽」である。本稿は、その起源・構造・社会的役割を軸に、山岳文化と音の関係を読み解く
 
-The Cordillera region is located in the mountainous region of Luzon Island in the northern part of the Philippines. The Igorot people who live in this area have built their own culture along with the steep rice terraces. Among them, an instrument called the ""nose flute'' has a unique presence.
+フィリピン北部、ルソン島の山岳地帯に広がるコルディリェラ地方。この地域に暮らすイゴロット族は、急峻な棚田とともに独自の文化を築いてきた。その中で特異な存在感を放つのが「鼻笛」と呼ばれる楽器である。
 
-A nasal flute is a wind instrument that produces sound by blowing air through the nose, and has a fundamentally different principle of sound than a typical flute, which is played with the mouth. This musical instrument is not just a sound device, but has long functioned as a means of mediating emotions and social relationships.
+鼻笛は文字通り鼻から息を吹き込んで音を出す管楽器であり、口で吹く一般的な笛とは根本的に異なる発音原理を持つ。この楽器は単なる音響装置ではなく、感情や社会関係を媒介する手段として長く機能してきた。
 
-Sounds are more ambiguous than words, but they leave a strong impression on your mind. For the Igorots, the sound of the nasal flute is considered a part of nature, just like the wind in the mountains or the flow of water.
+音は言葉よりも曖昧で、しかし強く心に残る。イゴロット族にとって鼻笛の音色は、山の風や水の流れと同様に自然の一部として認識されている。
 
-> The nasal flute is not something to be played, but a sound made by breathing.
+> 鼻笛は「演奏するもの」ではなく「呼吸することで現れる音」である
 
 ---
 
@@ -35,7 +34,7 @@ Sounds are more ambiguous than words, but they leave a strong impression on your
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -45,61 +44,61 @@ color: #fff;
 
 
 
-## What are the Igorots: Mountain culture and community
+## イゴロット族とは何か：山岳文化と共同体
 
-Igorots are not a single ethnic group, but a collective term for multiple ethnic groups living in the Cordillera region. Representative groups include Ifugao, Bontoc, and Kalinga.
+イゴロット族とは単一の民族ではなく、コルディリェラ地方に暮らす複数の民族集団の総称である。代表的なグループにはイフガオ族、ボントック族、カリンガ族などが含まれる。
 
-Their society has long developed under geographical conditions that make them less susceptible to external influences. While the steep mountains and terraced fields prevented foreign invasion, they also served as the foundation for maintaining a unique cultural system.
+彼らの社会は長らく外部からの影響を受けにくい地理的条件のもとで発展してきた。急峻な山々と段々畑は外敵の侵入を防ぐ一方で、独自の文化体系を維持する基盤ともなった。
 
-Music has also adapted to this environment. In contrast to the strong percussion culture (gong), the nasal flute is a very personal and reflective music. This shows the dual structure of sounds that go outside the community and sounds that go inside.
+音楽もまたこの環境に適応している。強い打楽器文化（ゴング）と対照的に、鼻笛は非常に個人的で内省的な音楽である。これは共同体の外に向かう音と、内面に向かう音という二重構造を示している。
 
-> The nasal flute is not a sound for a group, but a sound that quietly conveys individual emotions.
-
----
-
-## Structure and acoustic principles of the nasal flute
-
-A nasal flute is a small wind instrument usually made of bamboo or wood. The structure is simple, with several finger holes that allow you to change the pitch.
-
-The performer breathes in through one nostril and closes the other with his fingers. At this time, the mouth is closed, and breathing control directly affects the tone.
-
-Compared to a whistle played with the mouth, the sound of a nasal whistle is softer and has a slightly hoarse texture. This unique tone produces a sustained and smooth melody without a strong attack.
-
-Also, since breathing through the nose requires less pressure than breathing through the mouth, the volume is naturally reduced. As a result, the nasal flute is an instrument better suited for communication over short distances than in large outdoor spaces.
-
-> The sound of a nasal flute is not a sound that reaches far away, but a sound that is felt nearby.
+> 鼻笛は集団のための音ではなく、個人の感情を静かに運ぶ音である
 
 ---
 
-## Use case: courtship and private communication
+## 鼻笛の構造と音響原理
 
-The most symbolic use of the nasal flute is during courtship. Cases have been recorded of young men performing to express their feelings to women.
+鼻笛は通常、竹や木で作られた小型の管楽器である。構造はシンプルで、指穴が数個開いており、音程を変化させることができる。
 
-By expressing his feelings through melodies rather than words, he conveys his feelings while avoiding direct confessions. It is this indirectness that enhances the cultural value of the nasal flute.
+演奏者は片方の鼻孔を使い、もう一方を指で塞ぎながら息を送り込む。このとき口は閉じられており、呼吸のコントロールが音色に直接影響する。
 
-The nasal flute is also used for personal time. It is often played during breaks while working in the mountains or during alone time, and functions as a means of self-expression.
+口で吹く笛と比較すると、鼻笛の音は柔らかく、わずかにかすれたような質感を持つ。この独特の音色は、強いアタックを持たず、持続的で滑らかな旋律を生み出す。
 
-Importantly, this instrument does not exist for public performance. In the sense that it is music that does not assume an audience, the nasal flute is an extremely introverted cultural device.
+また、鼻呼吸は口呼吸よりも圧力が弱いため、音量は自然と抑えられる。その結果、鼻笛は屋外の広い空間よりも、近距離での伝達に適した楽器となる。
 
-> The nasal flute is not meant to be heard by others, but is a sound used to ""gently express'' emotions.
-
----
-
-## Scale and melody: freedom within limited sounds
-
-The scale of the nasal flute is limited, and it does not have the complex harmonic structure of Western music. However, within these constraints, a unique melody has developed.
-
-It often uses short repetitions of phrases and subtle changes in pitch. This has a continuity close to that of natural sounds, and has acoustic characteristics that blend in with the mountain environment.
-
-The melodies are improvisational, and are more like "sounds born on the spot" than fixed pieces of music. This is a typical feature of music in oral culture.
-
-Music is not recorded; it exists in the moment and disappears. That fragility is part of the charm of the nasal flute.
-
-> The melody of the nasal flute is not something that is reproduced, but is a one-time sound that is created and then disappears on the spot.
+> 鼻笛の音は「遠くに届く音」ではなく「近くで感じる音」である
 
 ---
 
-## Chronology: Historical flow of the nose flute and Igorot culture
+## 使用場面：求愛と私的コミュニケーション
+
+鼻笛が最も象徴的に使われる場面は、求愛である。若い男性が女性に対して、自らの感情を伝えるために演奏するケースが記録されている。
+
+言葉ではなく旋律によって想いを表現することで、直接的な告白を避けつつ感情を伝える。この間接性こそが、鼻笛の文化的価値を高めている。
+
+また、鼻笛は個人的な時間にも用いられる。山中での作業の合間や、ひとりの時間に演奏されることが多く、自己表現の手段として機能している。
+
+重要なのは、この楽器が公共的なパフォーマンスのために存在するわけではない点である。観客を前提としない音楽という意味で、鼻笛は極めて内向的な文化装置である。
+
+> 鼻笛は他者に聴かせるためではなく、感情を「そっと差し出す」ための音である
+
+---
+
+## 音階と旋律：限定された音の中の自由
+
+鼻笛の音階は限られており、西洋音楽のような複雑な和声構造は持たない。しかし、その制約の中で独自の旋律が発展している。
+
+多くの場合、短いフレーズの反復や微細な音程変化が用いられる。これは自然音に近い連続性を持ち、山岳環境に溶け込むような音響特性を持つ。
+
+旋律は即興的であり、固定された楽曲というよりも「その場で生まれる音」に近い。これは口承文化における音楽の典型的な特徴である。
+
+音楽は記録されるものではなく、その瞬間に存在し、消えていく。その儚さが鼻笛の魅力の一部となっている。
+
+> 鼻笛の旋律は再現されるものではなく、その場で生まれて消える一回性の音である
+
+---
+
+## 年表：鼻笛とイゴロット文化の歴史的流れ
 
 <div class="mermaid">
 timeline
@@ -114,51 +113,51 @@ timeline
 
 ---
 
-## View from the outside: Research and records
+## 外部からの視線：研究と記録
 
-In the 20th century, with the development of ethnomusicology, Igorot music also became a subject of research. Through fieldwork, recordings and recordings progressed, and the existence of the nasal flute became widely known.
+20世紀に入ると、民族音楽学の発展とともにイゴロット族の音楽も研究対象となった。フィールドワークによって録音や記録が進み、鼻笛の存在も広く知られるようになる。
 
-However, these records are from an outside perspective, and it is difficult to completely recreate the local context. In particular, personal music such as nasal flutes may lose its original meaning when recorded.
+ただし、こうした記録は外部の視点によるものであり、現地の文脈を完全に再現することは難しい。特に鼻笛のような私的な音楽は、録音されることで本来の意味を失う可能性もある。
 
-Value as a research object and practice as a culture. There is always a tension between the two.
+研究対象としての価値と、文化としての実践。この二つの間には常に緊張関係が存在する。
 
-> The moment a nasal flute is recorded, its original nature as a "private sound" changes.
-
----
-
-## The modern nasal flute: preservation and change
-
-In modern times, the nose flute is sometimes played in the context of tourism and cultural preservation. While this has the aspect of passing on tradition, it is also a situation different from the original usage.
-
-Among younger generations, the frequency of traditional musical instrument use is decreasing due to urbanization and education. However, at the same time, there is also a movement to reevaluate it as a cultural heritage.
-
-The nasal flute is not a disappearing culture, but continues to exist, albeit in different forms. What is important is to view this change not as a simple loss, but as a cultural adaptation.
-
-> The nose flute is not a relic of the past, but lives in an ever-changing culture.
+> 鼻笛は記録された瞬間に、その本来の「私的な音」としての性質を変えてしまう
 
 ---
 
-## Illustration: Mechanism of nasal whistle pronunciation
+## 現代における鼻笛：保存と変化
+
+現代では、観光や文化保存の文脈で鼻笛が演奏されることもある。これは伝統の継承という側面を持つ一方で、本来の使用場面とは異なる状況でもある。
+
+若い世代の間では、都市化や教育の影響により伝統的な楽器の使用頻度は減少している。しかし同時に、文化遺産として再評価する動きも見られる。
+
+鼻笛は消えつつある文化ではなく、形を変えながら存続している。重要なのは、その変化を単なる喪失としてではなく、文化の適応として捉える視点である。
+
+> 鼻笛は過去の遺物ではなく、変化し続ける文化の中で生きている
+
+---
+
+## 図解：鼻笛の発音メカニズム
 
 <div class="mermaid">
 flowchart TD
-    A[breathe out through the nostrils] --> B[Air vibrates inside the tube]
-    B --> C[sound occurs]
-    C --> D[Adjust pitch with finger holes]
-    D --> E[melody formation]
+    A[鼻孔から息を送る] --> B[管内部で空気が振動]
+    B --> C[音が発生]
+    C --> D[指穴で音程調整]
+    D --> E[旋律形成]
 </div>
 
 ---
 
-## Conclusion: Making what cannot be made into sound into sound
+## 結語：音にならないものを音にする
 
-A nasal flute is a device that expresses feelings that cannot be put into words through sound. The sound is small and does not reach far. However, it is just that much more intimate and direct.
+鼻笛は、言葉にならない感情を音として表現する装置である。その音は小さく、遠くには届かない。しかし、その分だけ親密で、直接的である。
 
-The presence of the nasal flute stands in contrast to contemporary music, which often strives for loudness and complex structures. It is music that is created by ""reducing the sound" rather than ""increasing the sound."
+現代の音楽がしばしば大音量や複雑な構造を追求する中で、鼻笛の存在は対照的である。それは「音を増やす」のではなく、「音を削る」ことで成立する音楽である。
 
-A man breathes in the silence of the mountains. That action becomes music. Through its extreme simplicity, the nasal flute questions the essence of music.
+山の静寂の中で、ひとりの人間が呼吸する。その行為がそのまま音楽になる。鼻笛はその極限のシンプルさによって、音楽の本質を問いかけている。
 
-> The nasal flute is the most primitive device that converts breathing itself into music.
+> 鼻笛とは、呼吸そのものを音楽へと変換する最も原初的な装置である
 
 
 ---

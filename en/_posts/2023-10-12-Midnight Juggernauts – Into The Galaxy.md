@@ -16,7 +16,7 @@ Midnight Juggernauts was an Australian electronic music band that was active fro
 
 The second track on Side A is a remix by Chateau Marmont, founder of Chambre404, a French electronic music producer and live performer team based in Paris.
 
-The first song on the B-side is a remix by British electronic/alternative band Metronomy. The second song on side B is a remix by French electronic musician/producer Danger (Franck Rivoire).
+B面１曲目は、イギリスのエレクトロニック/オルタナティブバンドMetronomyによるremix。B面２曲目はフランスの電子ミュージシャン/プロデューサーDanger（Franck Rivoire）によるremix。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Into The Galaxy (Metronomy Remix)
 B2. Into The Galaxy (Danger Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m29871308706?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29871308706?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iaO4YNchqeA?si=8CQC6ALqkrEWpxgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

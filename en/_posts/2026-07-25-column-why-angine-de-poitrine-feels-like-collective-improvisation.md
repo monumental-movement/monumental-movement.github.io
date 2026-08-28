@@ -9,64 +9,64 @@ layout: post
 tags:
 - Improvisation
 - Experimental
-title: '[Column] Why does "Angine de Poitrine" feel like a group improvisation?'
+title: 【コラム】 なぜ「Angine de Poitrine（アンジーヌ・ド・ポワトリーヌ）」は集団即興のように感じられるのか
 ---
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: Shared bodily sensations, not improvisation, move the music. Understanding the mechanism from Angine de Poitrine's performance
+文：mmr｜テーマ：即興ではなく、共有された身体感覚が音楽を動かす。その仕組みをAngine de Poitrineの演奏から読み解く
 
 
-Many people who see Angine de Poitrine live for the first time have the same impression.
+Angine de Poitrineのライブを初めて目にした人の多くは、同じ印象を抱く。
 
-"They're both playing whatever they want."
+「2人とも好き勝手に演奏している。」
 
-After a few minutes, that impression begins to change little by little.
+そして数分後には、その印象が少しずつ揺らぎ始める。
 
-Neither appears to be in command.
+どちらも指揮をしているようには見えない。
 There was no one to check the sheet music.
-There is almost no sign of counting the beats.
+拍子を数える様子もほとんどない。
 
-Even so, the performance remains intact.
+それでも演奏は崩れない。
 
-One moment, the volume drops all at once, and the next moment, it comes rushing in in a huge mass.
+ある瞬間には一斉に音量を落とし、次の瞬間には巨大な塊となって押し寄せる。
 
-It's too much to be a coincidence.
+偶然にしては出来過ぎている。
 
-On the other hand, it is different from a strictly composed work.
+逆に、厳密な作曲作品とも違う。
 
-This sense of wonder is what characterizes the group Angine de Poitrine.
+この不思議な感覚こそが、Angine de Poitrineという集団を特徴付けている。
 
-Their performances are often described as "completely improvised."
+彼らの演奏は「完全な即興」と表現されることが少なくない。
 
-However, when observing actual performances, there are many elements that cannot be explained by this alone.
+しかし、実際の演奏を観察すると、それだけでは説明できない要素が数多く存在する。
 
-The sound changes freely.
+音は自由に変化している。
 
-On the other hand, the band's direction is surprisingly shared.
+一方でバンドとしての方向性は驚くほど共有されている。
 
-In other words, freedom and order exist at the same time.
+つまり自由と秩序が同時に存在しているのである。
 
-This structure is different from that of a typical rock band.
+この構造は、一般的なロックバンドとも異なる。
 
-It's different from a jazz combo.
+ジャズ・コンボとも違う。
 
-It also doesn't match the classical music ensemble.
+クラシック音楽のアンサンブルとも一致しない。
 
-There, a unique relationship is established in which ""two people move while feeling the whole," rather than ""one person controlling the whole."
+そこでは「どちらかが全体を支配している」のではなく、「二人が全体を感じながら動く」という独特の関係性が成立している。
 
-In this article, I will interpret Angine de Poitrine's performance from the perspective of "collective intelligence" rather than simply an improvisational performance.
+本稿では、Angine de Poitrineの演奏を単なる即興演奏としてではなく、「集団知性」という視点から読み解いていく。
 
-Repetition.
+反復。
 
-sign.
+合図。
 
 A shared rhythm.
 
-and communication through the body.
+そして身体によるコミュニケーション。
 
-We will look at how these shapes music by comparing them with actual performance styles and the history of experimental music.
+それらがどのように音楽を形作っているのかを、実際の演奏スタイルや実験音楽の歴史と照らし合わせながら見ていく。
 
 
 
@@ -88,611 +88,611 @@ color: #fff;
 
 ## Why it sounds "improvised"
 
-### What is improvisation?
+### 即興とは何か
 
-Generally speaking, when many people hear the term ""improvisation," they think of ""music performed freely based on what comes to mind on the spot."
+一般的に「即興演奏」と聞くと、多くの人は「その場で思いついたことを自由に演奏する音楽」を想像する。
 
-Of course, that's not a mistake.
+もちろん、それは間違いではない。
 
-In jazz, many solos are composed of improvisation.
+ジャズではソロの多くが即興によって構成される。
 
 In free jazz, it is not uncommon for the entire performance to be improvised.
 
-However, there are common rules among them.
+しかし、それらにも共通のルールが存在する。
 
-chord progression.
+コード進行。
 
-tempo.
+テンポ。
 
-start and end.
+開始と終了。
 
-The role you are responsible for.
+担当する役割。
 
-It is because of this foundation that free performance is possible.
+こうした土台があるからこそ自由な演奏が成立する。
 
-In other words, improvisation does not mean not deciding anything.
+つまり即興とは、「何も決めないこと」ではない。
 
-What is important is what is shared.
+「何を共有しているか」が重要なのである。
 
-The same goes for Angine de Poitrine.
+Angine de Poitrineも同様である。
 
-If you look closely at their performances, you will see that they are not completely chaotic, but that there are shared criteria for judgment.
+彼らの演奏を詳細に観察すると、完全な無秩序ではなく、共有された判断基準が存在していることが見えてくる。
 
-### Why does it look chaotic?
+### なぜ無秩序に見えるのか
 
-The performers are facing different directions.
+演奏者が異なる方向を向いている。
 
-playing different instruments.
+異なる楽器を演奏している。
 
-They are playing at different volumes.
+異なる音量で鳴らしている。
 
 The rhythm is also not constant.
 
 The pitch doesn't match either.
 
-This is a situation where a normal rock band would feel like they are not organized.
+通常のロックバンドであれば「まとまっていない」と感じられる状況である。
 
-However, in Angine de Poitrine, this chaos is perceived as a single flow.
+しかしAngine de Poitrineでは、その混沌が一つの流れとして知覚される。
 
-This is because the human ear is not looking for "the same sound," but rather "the same change."
+これは、人間の耳が「同じ音」を探しているのではなく、「同じ変化」を探しているからでもある。
 
-for example,
+例えば、
 
 - Everyone raises the volume little by little.
 
--Everyone becomes quiet at the same time
+・全員が同時に静かになる
 
-・Everyone increases density
+・全員が密度を増やす
 
-When these changes come together, people naturally feel ""organized.''
+こうした変化が一致すると、人は自然に「まとまっている」と感じる。
 
-In other words, what is consistent is not the sound itself.
+つまり一致しているのは音そのものではない。
 
-It is the direction of change.
+変化の方向なのである。
 
-### The whole performance is breathing.
+### 演奏全体が呼吸している
 
-If you look at the live footage, the members don't see each other often.
+ライブ映像を見ると、メンバーは頻繁に顔を合わせているわけではない。
 
-However, the whole body is always facing the surroundings.
+しかし、身体全体は常に周囲へ向いている。
 
-shoulder.
+肩。
 
-arm.
+腕。
 
-posture.
+姿勢。
 
-walking speed.
+歩く速度。
 
-It's time to pick up your instrument.
+楽器を持ち上げるタイミング。
 
-These movements are integrated with the performance itself.
+こうした動きが演奏そのものと一体化している。
 
-The audience unconsciously reads the changes in their bodies, even if they are not aware of it.
+観客は意識しなくても、その身体の変化を無意識に読み取っている。
 
-As a result,
+結果として、
 
-"Now we're both moving on to our next move."
+「今、二人とも次の展開へ向かっている。」
 
-A feeling arises.
+という感覚が生まれる。
 
-This is information sharing through physical means rather than words.
+これは言葉ではなく身体による情報共有である。
 
-It cannot be explained by sound alone.
+音だけでは説明できない。
 
-Visual perception is also part of the performance.
+視覚もまた演奏の一部なのである。
 
-### Movement begins before music
+### 音楽より先に動きが始まる
 
-What is interesting is that in many cases, the body changes before the sound changes.
+興味深いのは、多くの場合、音が変わるより先に身体が変化していることである。
 
-Someone changes their stance.
+どちらかが姿勢を変える。
 
-One of them readies their instrument.
+どちらかが楽器を構え直す。
 
-Someone steps forward.
+どちらかが前へ踏み出す。
 
-A few seconds later, the entire performance changes.
+その数秒後に演奏全体が変化する。
 
-In other words, the members don"t just hear and react to each other"s "sounds."
+つまりメンバー同士は「音」を聞いて反応しているだけではない。
 
 They also share physical signs.
 
-This is a very important feature in improvisation.
+これは即興演奏において非常に重要な特徴である。
 
-The performer predicts the future.
+演奏者は未来を予測する。
 
-When these predictions are agreed upon across the group, major developments naturally occur.
+その予測が集団全体で一致すると、大きな展開が自然に生まれる。
 
-### Group becomes one instrument
+### 集団が一つの楽器になる
 
-In a normal band,
+通常のバンドでは、
 
-guitar.
+ギター。
 
-base.
+ベース。
 
-drum.
+ドラム。
 
-vocal.
+ボーカル。
 
-Each has an independent role.
+それぞれが独立した役割を持っている。
 
-But with Angine de Poitrine, the boundaries become blurred.
+しかしAngine de Poitrineでは、その境界が曖昧になる。
 
-There are moments when it seems like the whole, rather than each person, is functioning as one gigantic instrument.
+一人ひとりではなく、「全体」が一つの巨大な楽器として機能しているように見える瞬間がある。
 
-It is not played by an individual.
+個人が演奏するのではない。
 
-They are playing as a whole.
+全体として演奏しているのである。
 
-That's why, even though the performance is improvised, it feels cohesive, like a single living thing.
+だからこそ、演奏が即興であるにもかかわらず、一つの生き物のようなまとまりを感じさせる。
 
-> The biggest reason why it sounds improvised is because the whole thing keeps changing in the same direction, not the individual sounds.
+> 即興に聞こえる最大の理由は、個々の音ではなく、全体が同じ方向へ変化し続けているからである。
 
 ---
 
-## Repetition creates freedom
+## 反復が自由を生み出す
 
-### Repetition is not a constraint
+### 反復は制約ではない
 
-When most people think of the word repetition, they think of monotony.
+反復という言葉から、多くの人は単調さを想像する。
 
-Same phrase.
+同じフレーズ。
 
-Same rhythm.
+同じリズム。
 
-Same development.
+同じ展開。
 
-But in actual music, repetition does not take away freedom.
+しかし実際の音楽では、反復は自由を奪うものではない。
 
-Rather, it becomes the foundation that supports freedom.
+むしろ自由を支える土台になる。
 
-In club music, the same beat continues for several minutes.
+クラブミュージックでは数分間同じビートが続く。
 
-Minimal music consists of short patterns repeated over long periods of time.
+ミニマル・ミュージックでは短いパターンが長時間繰り返される。
 
-In folk music, there are many examples where the same cyclical structure continues for several minutes.
+民族音楽でも同じ循環構造が数十分続く例は少なくない。
 
-Because of this repetition, the performer can freely make small changes.
+その繰り返しがあるからこそ、演奏者は小さな変化を自在に加えることができる。
 
-### Iteration of Angine de Poitrine
+### Angine de Poitrineの反復
 
-Even in Angine de Poitrine's performance, if you listen carefully, there are many repetitions.
+Angine de Poitrineの演奏でも、注意深く聴くと反復は数多く存在する。
 
-Constant noise.
+一定のノイズ。
 
-A blow that is repeated at the same speed.
+同じ速度で繰り返される打撃。
 
-A tone that returns at regular intervals.
+一定間隔で戻ってくる音色。
 
-Even if the audience is not consciously aware of it, they listen to it using these as standards.
+観客は意識していなくても、それらを基準として聴いている。
 
-That's why even a single change in sound feels like a big event.
+だからこそ、一つの音が変化しただけでも大きな出来事として感じられる。
 
-The freer the music sounds, the more important small repetitions play.
+自由に聞こえる音楽ほど、小さな反復が重要な役割を果たしているのである。
 
 ### Repetition creates a sense of security
 
-The human brain has the ability to quickly recognize repeated information.
+人間の脳は、繰り返される情報を素早く認識する性質を持っている。
 
 Once you find a consistent pattern, you can pay attention to subsequent changes.
 
-The same goes for music.
+音楽でも同じである。
 
-If the same rhythm continues, the small differences that appear will stand out.
+同じリズムが続けば、その上に現れる小さな違いが際立つ。
 
-In other words, repetition is not boring, but rather a preparation for finding change.
+つまり反復は退屈なのではなく、変化を見つけるための準備なのである。
 
 In Angine de Poitrine, this psychological effect seems to be exploited naturally.
 
-Even if the entire performance is fluid, the presence of repetition helps the audience not lose track of the music.
+演奏全体が流動的であっても、どこかに繰り返しが存在することで、観客は音楽を見失わずに済むのである。
 
-### Repetition becomes a common language
+### 反復は共通言語になる
 
-When playing for a long time, it is not necessary to always produce the same sound.
+長時間の演奏では、常に同じ音を出す必要はない。
 
 However, if they share the same repetition, that alone becomes the standard for the entire performance.
 
-One of them is slightly off.
+どちらかが少し外れる。
 
-Either one adds a new sound.
+どちらかが新しい音を加える。
 
 One of them lowers the volume.
 
-Even so, the performance remains intact because of the common language of repetition.
+それでも演奏が崩れないのは、反復という共通言語が存在しているからである。
 
-It is not the music score, but the repetition shared between the ears and the body that brings the whole piece together.
+楽譜ではなく、耳と身体で共有された繰り返しが、全体を一つにまとめている。
 
-> Freedom is not supported by disorder, but by the foundation of repetition that they both share.
+> 自由を支えているのは無秩序ではなく、二人ともが共有している反復という土台なのである。
 
 
 ---
 
 
-## Signals are shared physically, not verbally.
+## 合図は言葉ではなく身体で共有される
 
-### Reason for no conductor
+### 指揮者がいない理由
 
-In a typical ensemble, someone decides the flow of the performance.
+一般的なアンサンブルでは、誰かが演奏の流れを決定する。
 
-If it"s an orchestra, it"s the conductor.
+オーケストラであれば指揮者。
 
-If it"s a rock band, it"s the drummer and vocalist.
+ロックバンドであればドラマーやボーカル。
 
-In jazz, solos are often handed off using gaze or cues.
+ジャズではソロの受け渡しを視線やキューによって行うことが多い。
 
-However, in Angine de Poitrine's performance, there is no such clear central figure.
+しかしAngine de Poitrineの演奏では、そのような明確な中心人物は見当たらない。
 
-There are very few moments during a performance where only one person is in control.
+演奏中に一人だけが全体を支配しているような場面はほとんどない。
 
-Even so, the performance continues to move in one direction.
+それでも演奏は一つの方向へ進み続ける。
 
-This feature is also an important observation point when studying improvisational performances by many people.
+この特徴は、多人数による即興演奏を研究する際にも重要な観察点となる。
 
-The entire group appears to be evaluating the situation at the same time and choosing the course of action that each individual thinks is best.
+集団全体が同時に状況を判断し、それぞれが最適だと思う行動を選択しているように見えるのである。
 
 ### Body movements become information
 
-During a performance, people don't just listen to the sound.
+演奏中、人は音だけを聴いているわけではない。
 
-We also receive a large amount of information visually.
+視覚からも大量の情報を受け取っている。
 
-Ready your instrument.
+楽器を構え直す。
 
-The body's center of gravity moves forward.
+身体の重心が前へ移動する。
 
 Raise your arms wide.
 
-Tilt your head slightly.
+頭を少し傾ける。
 
 Posture changes.
 
-These small changes provide important clues for predicting the next performance.
+こうした小さな変化は、次に起こる演奏を予測する重要な手掛かりになる。
 
-In Angine de Poitrine's live footage, you can see the performers frequently changing the direction of their bodies as they perform.
+Angine de Poitrineのライブ映像では、演奏者同士が頻繁に身体の向きを変えながら演奏している様子が確認できる。
 
 It is highly likely that this is not just a performance, but a form of communication during the performance.
 
-### Posture becomes more important than gaze
+### 視線よりも姿勢が重要になる
 
-When you think of improvisation, you might imagine people looking at each other and giving signals.
+即興演奏というと、互いに見つめ合って合図を送る姿を想像するかもしれない。
 
 However, in reality, it is difficult to maintain eye contact for long periods of time.
 
-The performer is aware of the entire surroundings while operating the instrument.
+演奏者は楽器を操作しながら周囲全体を把握している。
 
 Therefore, what is important is not the change in perspective, but the change in the entire body.
 
-shoulder height.
+肩の高さ。
 
-arm speed.
+腕の速度。
 
-Stride length.
+歩幅。
 
-Center of gravity.
+重心。
 
-These things are transmitted to those around us without us even being conscious of it.
+これらは意識せずとも周囲へ伝わる。
 
-The body functions as a common language between performers.
+身体は演奏者同士の共通言語として機能しているのである。
 
-### "People who start" and "people who continue"
+### 「始める人」と「続ける人」
 
-There are also differences in roles.
+役割の違いも見られる。
 
 Either one presents a new sound.
 
-The other supports the sound.
+もう一方がその音を支える。
 
-Add more changes.
+さらに変化を加える。
 
-As a result, new flows will naturally form.
+その結果、新しい流れが自然に形成される。
 
-This fluid division of roles is not fixed.
+この流動的な役割分担は固定されていない。
 
-One or the other does not always initiate change.
+どちらか一方が常に変化を始めるわけではない。
 
-By switching roles with each performance, the music is no longer fixed in one direction, but instead develops in a variety of ways.
+演奏ごとに役割が入れ替わることで、音楽は一方向へ固定されず、多様な展開を生み出していく。
 
-### Signals come from shared experiences
+### 合図は共有された経験から生まれる
 
-The body alone is not enough.
+身体だけでは十分ではない。
 
-It is also important that they have accumulated the same experience.
+同じ経験を積み重ねていることも重要になる。
 
-In groups that have been playing together for a long period of time, it becomes possible to understand the intent of small movements.
+長期間一緒に演奏している集団では、小さな動きだけで意図を理解できるようになる。
 
-This is similar to everyday conversation.
+これは日常会話にも似ている。
 
-You can communicate with someone you have known for many years, even if you don't use many words.
+長年付き合いのある相手とは、言葉が少なくても意思疎通ができる。
 
-The same thing happens with music.
+音楽でも同じことが起こる。
 
-Accumulated performance experience transforms body movements into meaningful signals.
+積み重ねられた演奏経験が、身体の動きを意味のある合図へ変えていくのである。
 
-> What holds the performance together is not words or conducting, but a shared feeling cultivated through the body and experience.
+> 演奏をまとめているのは言葉でも指揮でもなく、身体と経験によって育まれた共有感覚である。
 
 ---
 
-## Sharing the rhythm
+## リズムを共有するということ
 
-### Same tempo is not the only rhythm
+### 同じテンポだけがリズムではない
 
-When most people hear the word rhythm, they think of a certain beat.
+リズムという言葉から、多くの人は一定の拍子を思い浮かべる。
 
-Four beats.
+四拍子。
 
-Three beats.
+三拍子。
 
-Constant speed beat.
+一定速度のビート。
 
-But in experimental music and improvisation, rhythm has a much broader meaning.
+しかし実験音楽や即興演奏では、リズムはもっと広い意味を持っている。
 
-The rate at which the sound increases.
+音が増える速度。
 
-Change in volume.
+音量の変化。
 
-length of silence.
+沈黙の長さ。
 
-The interval at which the tone changes.
+音色の切り替わる間隔。
 
-These are also rhythms that shape the flow of time.
+これらもまた時間の流れを形づくるリズムである。
 
-Angine de Poitrine's performances do not follow a fixed drum pattern.
+Angine de Poitrineの演奏では、一定のドラムパターンが続くわけではない。
 
 Even so, there is a sense of unity in time throughout the performance.
 
-### Density becomes rhythm
+### 密度がリズムになる
 
-A single sound sounds.
+一つの音が鳴る。
 
-It becomes two.
+二つになる。
 
-There will be five.
+五つになる。
 
 Ten sounds overlap.
 
 Then it decreases again.
 
-This increase and decrease is itself perceived as a rhythm.
+この増減そのものがリズムとして知覚される。
 
 In noise music, this change in density often becomes the driving force for the entire performance.
 
-Even if there is no fixed beat, the audience can sense the flow through changes in density.
+一定の拍子がなくても、密度の変化によって観客は流れを感じ取るのである。
 
-This density of sound plays a big role in Angine de Poitrine as well.
+Angine de Poitrineでも、この音の密度が大きな役割を果たしている。
 
-### Even the silence is shared
+### 静けさも共有される
 
-The moment when the performance becomes exciting is not the only important thing.
+演奏が盛り上がる瞬間だけが重要ではない。
 
-The moment when the sound diminishes is equally important.
+音が減少する瞬間も同じくらい重要である。
 
-Suddenly everything stops.
+突然すべてが止まる。
 
-Only one person leaves a sound.
+一人だけが音を残す。
 
-One of them lowers the volume extremely.
+どちらかが極端に音量を落とす。
 
-This kind of tranquility is hard to come by chance.
+こうした静けさは偶然では生まれにくい。
 
-This is possible because both people share the same sense of time.
+二人ともが同じ時間感覚を共有しているからこそ成立する。
 
-Silence is not a state in which the music is interrupted.
+静寂は音楽が途切れた状態ではない。
 
-It's part of the performance.
+演奏の一部なのである。
 
-### Each has a different time
+### それぞれが異なる時間を持つ
 
-What is interesting is that each performer has a different cycle.
+興味深いのは、演奏者ごとに異なる周期が存在することである。
 
-Either continues with short repetitions.
+どちらかは短い反復を続ける。
 
-The other changes in units of tens of seconds.
+もう一方は数十秒単位で変化する。
 
-Some performers create even longer flows.
+さらに長い流れを作る演奏者もいる。
 
-The overlapping of different periods creates a complex temporal structure in the overall performance.
+異なる周期が重なり合うことで、演奏全体には複雑な時間構造が生まれる。
 
-This is a characteristic that can also be seen in minimal music and polyrhythm.
+これはミニマル・ミュージックやポリリズムにも見られる特徴である。
 
-It is possible to form a single time space even if they do not share the exact same tempo.
+完全に同じテンポを共有しなくても、一つの時間空間を形成することは可能なのである。
 
 ### Not everyone has a watch
 
-Performers are not following a metronome.
+演奏者はメトロノームに従っているわけではない。
 
-Still, the performance as a whole continues to move forward.
+それでも演奏全体は前へ進み続ける。
 
-What's important is not the exact number of seconds.
+重要なのは、正確な秒数ではない。
 
 "Should we change now?"
 
-"Should I still keep it?"
+「まだ維持するべきか。」
 
-That decision is near.
+その判断が近いことなのである。
 
-It is precisely because of this shared sense of time that events can unfold naturally even with a large number of people.
+この共有された時間感覚があるからこそ、大人数でも自然な展開が生まれていく。
 
-> What Angine de Poitrine shares is not a fixed tempo, but the flow of time itself.
+> Angine de Poitrineが共有しているのは一定のテンポではなく、時間の流れそのものなのである。
 
 ---
 
-## Physicality guides the music
+## 身体性が音楽を導く
 
-### Performance is also a physical exercise
+### 演奏は身体の運動でもある
 
-Music is often thought of as something we listen to.
+音楽は耳で聴くものだと考えられがちである。
 
 However, for the performer, music primarily exists as physical exercise.
 
-wave your arms.
+腕を振る。
 
-hold the strings.
+弦を押さえる。
 
-Hit.
+叩く。
 
-rub.
+擦る。
 
-Change hands.
+持ち替える。
 
-walk.
+歩く。
 
-Breathe.
+呼吸する。
 
-The accumulation of these actions results in the creation of sound.
+こうした動作が積み重なり、結果として音が生まれる。
 
-At Angine de Poitrine's live performances, this body movement is inseparable from the performance itself.
+Angine de Poitrineのライブでは、この身体の動きが演奏そのものと切り離せない。
 
-It is not the movements that produce the sound, but the whole body that shapes the performance.
+音を鳴らすための動作ではなく、身体全体が演奏を形づくっているのである。
 
-### Big movements change the direction of the music
+### 大きな動きは音楽の方向を変える
 
-When observing live footage, large changes in the body may appear before small changes in sound.
+ライブ映像を観察すると、小さな音の変化よりも先に、大きな身体の変化が現れることがある。
 
-Someone steps forward.
+どちらかが前へ踏み出す。
 
-Pick up your instrument.
+楽器を持ち上げる。
 
-Make a big change in your posture.
+姿勢を大きく変える。
 
-Change the direction of your body.
+身体の向きを変える。
 
-These changes are also transmitted to the other performer.
+こうした変化は、もう一方の演奏者にも伝わる。
 
-As a result, the flow of the entire performance changes.
+結果として演奏全体の流れが変化していく。
 
-In other words, the body is not only a device that produces sound, but also a medium that conveys information to the whole body.
+つまり身体は音を生み出す装置であるだけではなく、全体へ情報を伝える媒体にもなっている。
 
-### Breathing aligns the performance
+### 呼吸が演奏を揃える
 
-When people have a conversation, they sometimes unconsciously match the timing of their breathing.
+人間は会話をするとき、無意識に呼吸のタイミングを合わせることがある。
 
-The same phenomenon occurs with music.
+音楽でも同じ現象が起こる。
 
-When a group plays for a long time, the speed of breathing and the rhythm of the body gradually come closer to each other.
+長時間演奏している集団では、呼吸の速度や身体のリズムが少しずつ近づいていく。
 
 This is not a strict tempo.
 
-It's a more vague, physiological synchronization.
+もっと曖昧で、生理的な同期である。
 
-In performances such as Angine de Poitrine's, this synchronization of breathing seems to support the cohesiveness of the sound.
+Angine de Poitrineのような演奏では、この呼吸の同期が音のまとまりを支えているように見える。
 
-They don't both hit the same beat.
+どちらもが同じビートを刻んでいるわけではない。
 
-However, the rhythms of their bodies overlap little by little.
+しかし身体のリズムは少しずつ重なっていく。
 
-### Movement is better remembered than sound
+### 音よりも動きが記憶される
 
-When people remember live performances, they don't remember all the sounds accurately.
+ライブを思い出すとき、人はすべての音を正確に記憶しているわけではない。
 
-Rather, what leaves a lasting impression is the movement of the body.
+むしろ印象に残るのは身体の動きである。
 
-The moment when the performers all come forward.
+演奏者が一斉に前へ出た瞬間。
 
 A moment when both were still.
 
-The moment one of them suddenly held up an instrument.
+どちらかが突然楽器を掲げた瞬間。
 
-Such visual events are strongly remembered by being associated with sounds.
+そうした視覚的な出来事は、音と結び付いて強く記憶される。
 
-This is one of the reasons why Angine de Poitrine's performance is referred to as an "experience."
+Angine de Poitrineの演奏が「体験」として語られる理由の一つもここにある。
 
-It is perceived as a comprehensive event that includes not only hearing but also visual and physical sensations.
+聴覚だけではなく、視覚と身体感覚を含めた総合的な出来事として受け止められているのである。
 
-### The body is the oldest means of communication
+### 身体は最も古いコミュニケーション手段
 
-Since before words existed, humans have been communicating their intentions through their bodies.
+言葉が存在する以前から、人間は身体によって意思を伝えてきた。
 
 How to walk.
 
-posture.
+姿勢。
 
 speed.
 
-distance.
+距離。
 
 direction.
 
-Even today, this information is read unconsciously.
+こうした情報は、現代でも無意識のうちに読み取られている。
 
-This primitive communication plays an important role in group improvisation.
+集団即興では、この原始的なコミュニケーションが重要な役割を果たす。
 
-The sense of unity that cannot be explained by music theory is born from information shared by the bodies themselves.
+音楽理論では説明できない一体感は、身体そのものが共有する情報から生まれている。
 
-> What supports Angine de Poitrine"s performance is not only her performance technique, but also her body"s ability to communicate.
+> Angine de Poitrineの演奏を支えているのは演奏技術だけではなく、身体そのものが持つコミュニケーション能力なのである。
 
 ---
 
-## Angine de Poitrine as collective intelligence
+## 集団知性としてのAngine de Poitrine
 
-### Music that cannot be created alone
+### 一人では生まれない音楽
 
-When analyzing Angine de Poitrine's performance, focusing on only one member will not give you the whole picture.
+Angine de Poitrineの演奏を分析するとき、どちらかのメンバーだけに注目しても全体像は見えてこない。
 
-Of course, each performs in its own way.
+もちろん、それぞれが独自の演奏を行っている。
 
-However, the essence of performance is not the expression of one person, but the interaction.
+しかし演奏の本質は、一人の表現ではなく相互作用にある。
 
-someone makes a sound.
+誰かが音を出す。
 
-someone reacts.
+誰かが反応する。
 
-Another performer adds some changes.
+さらに別の演奏者が変化を加える。
 
-This series of events leads to developments that no one could have predicted in advance.
+その連続によって、誰も事前には予測できなかった展開が生まれる。
 
-Music is generated from relationships, not individuals.
+音楽は個人ではなく、関係性から生成されているのである。
 
 ### What is collective intelligence?
 
-Collective intelligence refers to a phenomenon in which a large number of individuals interact to produce results that cannot be achieved alone.
+集団知性とは、多数の個体が相互作用することで、一人では到達できない結果を生み出す現象を指す。
 
-This concept is not just for music.
+これは音楽だけの概念ではない。
 
 flock of birds.
 
-A school of fish.
+魚の群泳。
 
-insect society.
+昆虫の社会。
 
-human collaboration.
+人間の共同作業。
 
 What they all have in common is that order is formed even without an absolute being directing the whole.
 
-Each individual responds to changes in its surroundings, and the accumulation of these responses creates the movement of the whole.
+各個体は周囲の変化に応答し、その積み重ねが全体の動きを生み出す。
 
-Angine de Poitrine's performance also has many parts that overlap with this characteristic.
+Angine de Poitrineの演奏も、この特徴と重なる部分が多い。
 
 ### Information is constantly circulating
 
-During a performance, information does not flow in one direction.
+演奏中、情報は一方向には流れない。
 
-someone changes.
+誰かが変化する。
 
 The surroundings react.
 
-Seeing that reaction, another performer changes.
+その反応を見て、さらに別の演奏者が変化する。
 
-This cycle continues continuously.
+この循環が絶えず続いている。
 
 The important point is that one person is not giving orders to the other.
 
-Both are senders and receivers at the same time.
+二人ともが発信者であり、同時に受信者でもある。
 
-This interactivity makes the entire performance flexible.
+この双方向性が演奏全体を柔軟にしている。
 
-### Order is not fixed
+### 秩序は固定されない
 
-In a typical band, roles are relatively fixed.
+一般的なバンドでは、役割は比較的固定されている。
 
-The drummer supports the tempo.
+ドラマーはテンポを支える。
 
-The bassist is in charge of the bass.
+ベーシストは低音を担当する。
 
-Guitarists play chords and melodies.
+ギタリストは和音や旋律を演奏する。
 
-But with Angine de Poitrine, those boundaries become fluid.
+しかしAngine de Poitrineでは、その境界が流動的になる。
 
 At any given moment, one person creates the flow.
 
@@ -700,77 +700,77 @@ In the next moment, the other becomes the center.
 
 Because the role is not fixed, the performance is always changing.
 
-Order itself continues to move.
+秩序そのものが動き続けているのである。
 
-### Listen to the process of creation, not the finished product
+### 完成形ではなく生成過程を聴く
 
-In normal music, the purpose is to listen to a completed piece of music.
+通常の音楽では、完成された楽曲を聴くことが目的になる。
 
-On the other hand, at Angine de Poitrine's live performances, the process by which the music is created becomes the work itself.
+一方、Angine de Poitrineのライブでは、音楽が生まれていく過程そのものが作品になる。
 
-The performers also do not know all the results.
+演奏者も結果をすべて知っているわけではない。
 
-The audience also doesn't know what will happen next.
+観客も次に何が起こるか分からない。
 
-Sharing that uncertainty is a major feature of this music.
+その不確定性を共有することが、この音楽の大きな特徴である。
 
-A work is not a finished product, but a phenomenon that continues to be generated during performance.
+作品は完成品ではなく、演奏中に生成され続ける現象なのである。
 
-### "The whole" becomes an instrument
+### 「全体」が楽器になる
 
-What you hear in the end is not each performance.
+最終的に聴こえてくるのは、それぞれの演奏ではない。
 
-The whole thing produces a huge flow of sound.
+全体が生み出す巨大な音の流れである。
 
-It cannot be explained by individual skill alone.
+個人の技巧だけでは説明できない。
 
 I can't explain it just by composing it.
 
-Improvisation alone cannot explain it.
+即興だけでも説明できない。
 
-Repetition.
+反復。
 
-body.
+身体。
 
-A shared sense of time.
+共有された時間感覚。
 
-interaction.
+相互作用。
 
-By overlapping these elements, the band itself functions as a gigantic instrument.
+それらが重なり合うことで、一つのバンドそのものが巨大な楽器として機能している。
 
-Angine de Poitrine "sounds improvised" not because it's free.
+Angine de Poitrineが「即興に聞こえる」のは、自由だからではない。
 
 This is because the whole system is constantly exchanging information and creating a new order.
 
-> Angine de Poitrine's performance can be understood not as individual improvisation, but as an exercise in collective intelligence generated through interaction.
+> Angine de Poitrineの演奏は個人の即興ではなく、相互作用によって生成される集団知性の実践として理解することができる。
 
 ---
 
 
-## Chronology
+## 年表
 
-| Year | Event | Meaning from the perspective of group performance |
+| 年 | 出来事 | 集団演奏という視点での意味 |
 |------|---------|---------------------------|
-| Early 1990s | Angine de Poitrine begins activities in Quebec, Canada | Develops an experimental performance style with a large group that is different from a fixed rock band. |
+| 1990年代前半 | カナダ・ケベック州でAngine de Poitrineが活動を開始 | 固定的なロックバンドとは異なる大人数編成による実験的な演奏スタイルを展開する。 |
 | 1990s | Continuing to perform live activities mainly in the local area | Through repeated live performances, a sense of commonality among performers is accumulated. |
-| Late 1990s | Released cassette works and self-produced sound sources | Not only studio works, but the act of performing itself is regarded as a work. |
-| 2000s | Continuing live expressions that include improvisation | A style that maintains cohesion as a group while creating a different development for each performance has become established. |
-| Since the 2010s | Re-evaluation of past works continues | Opportunities to be introduced as unique collective expressions that cross improvisation, noise, and performance will increase. |
+| 1990年代後半 | カセット作品や自主制作音源を発表 | スタジオ作品だけでなく演奏行為そのものが作品として位置付けられる。 |
+| 2000年代 | 即興性を含むライブ表現を継続 | 演奏ごとに異なる展開を生みながらも集団としてのまとまりを維持するスタイルが定着する。 |
+| 2010年代以降 | 過去作品の再評価が進む | 即興、ノイズ、パフォーマンスを横断する独自の集団表現として紹介される機会が増える。 |
 
 ---
 
-## Information shared during performance
+## 演奏中に共有される情報
 
 <div class="mermaid">
 flowchart TD
 
-A[someone changes]
-B[conveys body movements]
-C[People around you notice the change]
-D[Each performer decides]
-E[add new sounds]
-F[the whole group changes]
-G[New developments will emerge]
+A[誰かが変化する]
+B[身体の動きが伝わる]
+C[周囲が変化を認識する]
+D[各演奏者が判断する]
+E[新しい音を加える]
+F[集団全体が変化する]
+G[さらに新しい展開が生まれる]
 
 A --> B
 B --> C
@@ -783,7 +783,7 @@ G --> A
 
 ---
 
-## Four elements that support performance
+## 演奏を支える四つの要素
 
 <div class="mermaid">
 mindmap
@@ -815,31 +815,31 @@ mindmap
 <div class="mermaid">
 flowchart LR
 
-A[common rock band]
-A --> B[Song composition]
-B --> C[Division of roles]
-C --> D[performance]
+A[一般的なロックバンド]
+A --> B[曲構成]
+B --> C[役割分担]
+C --> D[演奏]
 
 E[Angine de Poitrine]
-E --> F[reaction]
-F --> G[shared sense]
+E --> F[反応]
+F --> G[共有感覚]
 G --> H[interaction]
-H --> I[Performances continue to be generated]
+H --> I[演奏が生成され続ける]
 </div>
 
 ---
 
-## Information flow during performance
+## 演奏中の情報の流れ
 
 <div class="mermaid">
 flowchart TB
 
-A[listen to sound]
-B[look at the body]
-C[feel the space]
-D[predict change]
+A[音を聴く]
+B[身体を見る]
+C[空間を感じる]
+D[変化を予測する]
 E[I react]
-F[group changes]
+F[集団が変化する]
 
 A --> D
 B --> D
@@ -858,122 +858,122 @@ graph TD
 
 A[repetition]
 B[shared time]
-C[physicality]
-D[interaction]
+C[身体性]
+D[相互作用]
 
-A --> E[sense of security]
+A --> E[安心感]
 B --> E
 C --> E
 D --> E
 
-E --> F[collective direction]
-F --> G[Performances that sound improvised]
+E --> F[集団としての方向性]
+F --> G[即興のように聞こえる演奏]
 </div>
 
 ---
 
-## Difference between jazz and rock
+## ジャズ、ロックとの違い
 
-The reason why Angine de Poitrine's performances feel unique is that the center of gravity is placed in a different place than the elements that are emphasized in the general genre.
+Angine de Poitrineの演奏が独特に感じられる理由は、一般的なジャンルで重視される要素とは異なる場所に重心が置かれているためである。
 
-In rock music, pre-composed songs are the main focus of the performance.
+ロックでは、あらかじめ作曲された楽曲が演奏の中心となる。
 
-The chord progression and song structure are shared, and each instrument plays a specific role.
+コード進行や曲構成が共有され、それぞれの楽器が決められた役割を担う。
 
-Although some changes may be made during live performances, the basic structure remains the same.
+ライブでは多少の変化が加えられることはあっても、基本構造は維持される。
 
-Improvisation plays an important role in jazz.
+ジャズでは即興演奏が重要な位置を占める。
 
-On the other hand, there is a common framework that supports the entire performance, such as chord progressions, themes, and the order of solos.
+一方で、コード進行やテーマ、ソロの順番など、演奏全体を支える共通の枠組みが存在する。
 
-Performers are free to express themselves within this framework.
+演奏者はその枠組みの中で自由に表現を広げていく。
 
-At Angine de Poitrine, rather than these fixed structures, the interaction itself during performance forms the music.
+Angine de Poitrineでは、こうした固定された構造よりも、演奏中の相互作用そのものが音楽を形成する。
 
-One change leads to another, and the accumulation of these changes creates an overall flow.
+どちらかの変化が別の変化を呼び、その積み重ねによって全体の流れが生まれる。
 
-Rather than reproducing a completed blueprint, the work itself is the relationship that is created on the spot.
+完成された設計図を再現するのではなく、その場で生成される関係性そのものが作品となる。
 
-Rather than reproducing the music, the performers continue to form a group by receiving each other's reactions.
+演奏者は楽曲を再現するというより、互いの反応を受け取りながら集団全体を形成し続けているのである。
 
-> What makes Angine de Poitrine unique is not the difference in genre, but the way they create music itself is different from other bands.
+> Angine de Poitrineの特徴はジャンルの違いではなく、音楽を生み出す方法そのものが一般的なバンドとは異なる点にある。
 
 ---
 
-## Why does it sound like "improvisation"?
+## なぜ「即興」に聞こえるのか
 
-As we have seen, there is repetition in Angine de Poitrine's performance.
+ここまで見てきたように、Angine de Poitrineの演奏には反復がある。
 
-There are cues from the body.
+身体による合図がある。
 
-There is a shared sense of time.
+共有された時間感覚がある。
 
 And there is a continuous interaction between performers.
 
-In other words, music is not created entirely by chance.
+つまり完全な偶然によって音楽が成立しているわけではない。
 
-At the same time, it does not faithfully reproduce a song with fixed details.
+同時に、細部まで固定された楽曲を忠実に再現しているわけでもない。
 
 It is this position between these two that makes their performance unique.
 
-The audience feels a sense of freedom.
+観客は自由さを感じる。
 
-But that freedom is supported by shared experience, repetition, bodily sensations, and mutual understanding.
+しかしその自由は、共有された経験や反復、身体感覚、相互理解によって支えられている。
 
-That"s why the performance doesn"t fall apart.
+だからこそ演奏は崩れない。
 
 That"s why it"s different every time.
 
-And that is why it is perceived as music that is like a living thing.
+そしてだからこそ、生き物のような音楽として知覚されるのである。
 
-Angine de Poitrine provides a practical example in response to the question ""What is improvisation?''
+Angine de Poitrineは、「即興とは何か」という問いに対して、一つの実践例を示している。
 
-Improvisation does not mean not deciding anything.
+即興とは何も決めないことではない。
 
-It is about continuing to generate music on the spot based on a shared feeling.
+共有された感覚をもとに、その場で音楽を生成し続けることである。
 
-The fact that the audience can also experience the creation process at the same time makes this group's live performances unique.
+その生成過程を観客も同じ時間の中で体験することが、この集団のライブを唯一無二のものにしている。
 
-> Angine de Poitrine's performance shows that freedom and order are not opposed to each other, but rather support each other.
+> Angine de Poitrineの演奏は、自由と秩序が対立するものではなく、互いを支え合う関係にあることを示している。
 
 ---
 
 
-## Conclusion
+## おわりに
 
-At first glance, Angine de Poitrine's performance appears to be complete chaos.
+Angine de Poitrineの演奏は、一見すると完全な混沌に映る。
 
 The pitch is not constant.
 
-The tempo is also not fixed.
+テンポも固定されない。
 
-There are few scenes where the melody is the main focus.
+メロディーが中心になる場面も少ない。
 
-For this reason, first-time listeners often get the impression that it is a group of people who improvise and play freely.
+そのため、初めて聴く人は「即興で自由に演奏している集団」という印象を持つことが多い。
 
-However, if you take the time to observe the performance, a different picture emerges.
+しかし、その演奏を時間をかけて観察すると、別の姿が見えてくる。
 
-Similar movements are repeated.
+同じような動きが繰り返される。
 
 Performers react to each other's changes.
 
-Volume and density vary throughout the population.
+音量や密度が集団全体で変化する。
 
-Silence is shared.
+静寂が共有される。
 
-The direction and posture of the body foretells what will happen next.
+身体の向きや姿勢が次の展開を予告する。
 
-By accumulating these small elements, a large flow is formed.
+こうした小さな要素が積み重なることで、一つの大きな流れが形成されている。
 
-In other words, what supports the performance is no coincidence.
+つまり、演奏を支えているのは偶然ではない。
 
-Nor is it a blueprint that has been predetermined in detail.
+また、あらかじめ細部まで決められた設計図でもない。
 
-At the heart of this music is the sharing of information that is constantly updated during the performance.
+演奏中に絶えず更新される情報の共有こそが、この音楽の中心にある。
 
-This feature cannot be explained solely by conventional genre classification.
+この特徴は、従来のジャンル分類だけでは説明しきれない。
 
-Rock shares songs.
+ロックは楽曲を共有する。
 
 Jazz shares chords and themes.
 
@@ -983,31 +983,31 @@ On the other hand, what Angine de Poitrine shares is the flow of time, the movem
 
 Therefore, even if the same piece is played over and over again, a different expression will be created each time.
 
-This is because change itself is part of the performance.
+変化すること自体が演奏の一部だからである。
 
-This idea is not limited to contemporary experimental music.
+この考え方は、現代の実験音楽だけに限らない。
 
 This perspective is common to minimal music, free improvisation, noise, folk music, and even dance and physical expression.
 
-Music can exist not only as a completed ""work" but also as a ""phenomenon" created by the relationships between people.
+音楽は、完成した「作品」だけではなく、人と人との関係性が生み出す「現象」としても存在し得る。
 
-Angine de Poitrine is one of the bands that has presented this phenomenon in a very clear way.
+Angine de Poitrineは、その現象を極めて明確な形で提示してきたバンドの一つである。
 
-The performers continue to listen to each other, see each other, and respond to each other.
+演奏者が互いを聴き、互いを見て、互いに反応し続ける。
 
-This chain creates different music each time.
+その連鎖によって、毎回異なる音楽が生まれる。
 
-The audience is not looking at the finished product.
+観客は完成品を鑑賞しているのではない。
 
-They share the process of continuous generation.
+生成され続ける過程を共有しているのである。
 
-That's why the impression that remains after a live performance is not about ""what kind of song it was," but rather about ""what was happening there."
+だからこそ、ライブが終わった後に残る印象は、「どんな曲だったか」ではなく、「あの場で何が起こっていたのか」という体験そのものになる。
 
 Angine de Poitrine's music exists beyond the binary opposition between improvisation and composition.
 
 There, freedom and order coexist, the individual and the group overlap, and performance and communication cannot be distinguished.
 
-This uniqueness is the reason why, while giving many listeners the strong impression that it sounds improvised, it continues to have a persuasive power that cannot be explained by mere coincidence.
+その独自性こそが、多くのリスナーに「即興に聞こえる」という強い印象を与えながらも、単なる偶然では説明できない説得力を持ち続けている理由なのである。
 
 > The essence of Angine de Poitrine's performance becomes clearer when we understand it as ""continuously generating music'' that is born from the physical sensations and interactions shared by the whole, rather than the improvisation of each individual.
 

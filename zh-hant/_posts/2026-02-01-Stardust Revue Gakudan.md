@@ -11,14 +11,14 @@ tags:
 - Jazz-Funk
 - City Pop
 - 90s
-title: 星塵歌舞團樂隊
+title: Stardust Revue 楽団
 ---
 
 
 
-《Gakudan》於1994年發行，是Stardust Revue的第11張原創專輯。收錄有主打單曲《Crazy Love》。這張專輯是原成員的最後一張專輯，因為三谷泰弘在 1994 年發行這張專輯的巡演後離開了樂團。
+1994年にリリースされた「楽団」は、スターダストレビュー11枚目のオリジナル・アルバム。先行シングル「クレイジー・ラブ」が収録されている。このアルバムがリリースされた1994年のツアーを最後に三谷泰弘が脱退したため、このアルバムがオリジナルメンバー最後のアルバムとなった。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. 夢の翼
 2. 素敵なたくらみ
@@ -32,4 +32,4 @@ title: 星塵歌舞團樂隊
 10. Candle On The Water
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m34893813565?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34893813565?afid=6142608987){: .button1}

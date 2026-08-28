@@ -9,23 +9,23 @@ permalink: /zh-hant/saturnalia-greenpeace-release/
 tags:
 - Happy Hardcore
 - Hardcore
-title: 農神節 – 綠色和平發布
+title: Saturnalia – Greenpeace Release
 ---
 
 
-Saturnalia 是英國製片人 Jim Sullivan 和 Steve McGarrigle 的專案。此次發布的所有利潤均捐給綠色和平組織。
+Saturnaliaは、UKプロデューサーJim SullivanとSteve McGarrigleのプロジェクト。このリリースによる利益は全てGreenpeace（グリーンピース）に寄付された。
 
-A面的鋼琴和人聲是Mo Lester的《Blue Sky Day》的樣本，人聲是African Business的《In Zaire》的樣本。
-B面台詞出自電影《星際爭霸戰IV：漫漫迴家路》。
+A面のPiano & vocalは、Mo Lester「Blue Sky Day」、vocalはAfrican Business 「In Zaire」からのサンプリング。 
+B面のセリフは、映画『スタートレックIV 故郷への長い道』から。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. We Need A Blue Sky
 
 AA. All Gone Soon
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m56917355639?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56917355639?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_6ldkOHjgM4?si=v3i6X-TELKexMSy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

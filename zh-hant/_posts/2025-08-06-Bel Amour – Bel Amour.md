@@ -9,17 +9,17 @@ permalink: /zh-hant/bel-amour-bel-amour/
 tags:
 - House
 - 00s
-title: 貝爾阿穆爾 – 貝爾阿穆爾
+title: Bel Amour – Bel Amour
 ---
 
 
-Bel Amour 是來自法國的電子/浩室二人組，由 Édouard de Tricasse 和 Jean-Claude Sindress 組成。
+Bel Amour(ベルアムール)は、Édouard de Tricasse &Jean‑Claude Sindress によるフランス発のエレクトロ／ハウス・デュオ。
 
-他們的首支單曲《Bel Amour》於 2001 年發行，是一首在全球範圍內風靡一時的 house 歌曲。這張唱片是由 Time Records 旗下 House 部門 Rise 發行的義大利文版本。
+2001年にリリースされたデビューシングル「Bel Amour」は世界的に大ヒットとなったHouseトラック。このレコードは、Time RecordsのHouse部門Riseからリリースされたイタリア盤。
 
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Bel Amour (Vocal Mix)
 A2. Bel Amour (Uk Radio Edit)
@@ -27,7 +27,7 @@ A2. Bel Amour (Uk Radio Edit)
 B. Bel Amour (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m55648652474?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55648652474?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ioh-yg5_zu8?si=nQexO9VSFZe7Vv73" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

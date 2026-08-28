@@ -8,20 +8,20 @@ layout: post
 permalink: /zh-hant/bookem-dano-screem/
 tags:
 - House
-title: 布克姆·達諾——尖叫
+title: Bookem Dano – Screem
 ---
 
 
-Bookem Dano (Book 'Em Dano) 又稱 Sal Dano
-是來自紐約的 DJ/製作人。
+Bookem Dano (Book 'Em Dano)ことSal Dano
+はNY出身のDJ／プロデューサー。
 
-《Screem》是 Unofficial 發行的 House 曲目。
+「Screem」は、UnofficialリリースのHouseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Screem (Vocal)
 
 B. Screem (Dub)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m48384616622?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48384616622?afid=6142608987){: .button1}

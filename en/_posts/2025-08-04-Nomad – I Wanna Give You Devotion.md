@@ -12,12 +12,12 @@ title: Nomad – (I Wanna Give You) Devotion
 ---
 
 
-Nomad is a UK house duo from the 90s.
+Nomadは、90年代を代表するUK House duo。
 
-"(I Wanna Give You) Devotion", released by Capitol Records in 1991, is Nomad's signature song that became a worldwide hit. It is considered one of the anthems of 90s dance music, and is also known as the first composition by famous UK producer Steve Mac.
+1991年にCapitol Records からリリースされた「 (I Wanna Give You) Devotion」は、世界的にヒットしたNomadの代表曲。90sダンスミュージックのアンセムの一つとされており、UKの有名プロデューサーSteve Macの初めての作曲作品としても知られている。
 
-B1 is a remix by famous UK DJ Dave Lee (Joey Negro).
-B2 is a remix by House DJ & Radio DJ Paul Anderson, who influenced early UK house.
+B1は、UKの大御所DJ Dave Lee(Joey Negro)によるremix。
+B2は、初期のUKハウスに影響を与えたHouse DJ&Radio DJ Paul Andersonによるremix。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ B1. (I Wanna Give You) Devotion (The Joey Negro Mix)
 B2. (I Wanna Give You) Devotion (Trouble's Underground Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m63587179316?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63587179316?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAZzZ4gbyug?si=j-SJbRonTPre_lqK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

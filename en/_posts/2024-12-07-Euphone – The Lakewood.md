@@ -13,11 +13,11 @@ title: Euphone – The Lakewood
 ---
 
 
-Euphone is a post-rock band based in Chicago.
+Euphone(ユーフォン)は、シカゴを拠点に活動するポストロックバンド。
 
-Jeremy Jacobsen, a former member of Five Style who also performs under the name The Lonesome Organist, officially joins the band from this album.
+Five Style (5スタイル)の元メンバーでありThe Lonesome Organist(ロンサムオルガニスト)名義でも活動するJeremy Jacobsenがこのアルバムから正式にメンバーとして参加している。
 
-This album is a special album planned and released by the music magazine AFTERHOURS in 2001. An ambitious work that incorporates various musical tastes such as acid jazz, DUB, acoustics, and minimalist music while being based on the traditional post-rock style.
+このアルバムは、2001年に音楽誌AFTERHOURSが企画・リリースしたスペシャルアルバム。従来のポストロックスタイルをベースとしながら、アシッドジャズ、DUB、音響、ミニマルなど様々な音楽テイストを取り入れた意欲作。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ This album is a special album planned and released by the music magazine AFTERHO
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
 
 
 #### Youtube

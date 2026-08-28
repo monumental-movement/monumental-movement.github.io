@@ -11,23 +11,22 @@ tags:
 - Culture
 - Psychedelia
 - History
-title: '[Column] At the periphery of the narrated experience - the distance between
-  ayahuasca and musical expression'
+title: 【コラム】 語られた体験の周縁で ― アヤワスカと音楽表現の距離
 ---
 
 
 
-## Introduction: How has Ayahuasca been talked about?
+## 序章：アヤワスカはどのように語られてきたのか
 
-Text: mmr｜Theme: Examining changes in musical expression from the narrated ayahuasca experience and the choice of silence
+文：mmr｜テーマ：語られたアヤワスカ体験と沈黙の選択から音楽表現の変化を検証する
 
 
-Ayahuasca is not a device that produces music. It is a ritual system that has been formed over a long period of time in the Amazon basin of South America, and it is not an experience that is completed only within an individual.
+アヤワスカは、音楽を生み出す装置ではない。それは南米アマゾン流域において、長い時間をかけて形成されてきた儀礼体系であり、個人の内面だけで完結する体験ではない。
 Nevertheless, in the contemporary musical context, ayahuasca has been talked about simply as a ""source of creativity" and ""an opportunity for awakening." But when we follow the words of the musicians who have spoken about their experiences, we find that their narratives are surprisingly cautious, fragmented, and distanced.
-They do not recount visions or revelations in detail. Do not conclude a causal relationship with the work. What is spoken instead are lingering effects that cannot be translated, such as changes in sensation, the expansion and contraction of time, and changes in the way we deal with sound.
+They do not recount visions and revelations. Do not conclude a causal relationship with the work. What is spoken instead are lingering effects that cannot be translated, such as changes in sensation, the expansion and contraction of time, and changes in the way we deal with sound.
 This article is not about experience itself. What we examine is the attitude of musicians in how they talk about their experiences and where they stop talking.
 
->More than experience, the distance of storytelling has left a mark on music history.
+> 体験よりも、語りの距離が音楽史に痕跡を残してきた。
 
 ---
 
@@ -45,79 +44,79 @@ color: #fff;
 </style>
 
 
-## Chapter 1: The first point of contact between musicians and ayahuasca
+## 第1章：音楽家とアヤワスカの最初の接点
 
-In the latter half of the 20th century, South American ritual culture was introduced to Western society through ethnology and literature. Initially, ayahuasca was understood not as a means of music production, but as an experience that challenged one's perception of the world.
-It wasn't until the 1990s that musicians began to publicly share their experiences. By creating a context in which electronic music and experimental music are connected to spirituality and physicality, a place for storytelling has been created.
+20世紀後半、南米の儀礼文化は民族学や文学を通じて欧米社会に紹介された。当初、アヤワスカは音楽制作の手段ではなく、世界認識を揺さぶる体験として理解されていた。
+ミュージシャンが体験を公言するようになるのは1990年代以降である。電子音楽や実験音楽が、精神性や身体性と接続される文脈が整ったことで、語りの場が生まれた。
 
-> Ayahuasca was connected to music as a matter of perception rather than technique.
+> アヤワスカは技法ではなく認識の問題として音楽に接続された。
 
 ---
 
-## Chapter 2: Luciano and the change in perception in the early 2000s
+## 第2章：Lucianoと2000年代前半の感覚変化
 
-Luciano's references to ayahuasca experiences are concentrated between 2003 and 2005. This period coincided with the time when he was traveling back and forth between Europe and South America and was solidifying his own aesthetic.
-What is consistent in his statements is his attitude of not linking his experiences to specific songs or success factors. What he talks about is the change from the feeling of manipulating sound to the feeling of continuously listening to sound, and the redefinition of the act of DJing itself.
+Lucianoがアヤワスカ体験について言及しているのは、**2003年から2005年頃**に集中している。この時期は、彼がヨーロッパと南米を往復しながら活動し、自身の美学を固めていった時期と重なる。
+本人の発言で一貫しているのは、体験を特定の楽曲や成功要因に結びつけない姿勢である。語られるのは、音を操作する感覚から、音を聴き続ける感覚への変化であり、DJという行為そのものの再定義である。
 
 > Luciano's narrative focuses on changing listening attitudes rather than production.
 
 ---
 
-## Chapter 3: Ai Yamazuka"s travels and ritual experiences in the late 1990s
+## 第3章：山塚アイと1990年代後半の旅と儀礼体験
 
 Ai Yamazuka first mentioned travel and ritual experiences in the late 1990s. In interviews and conversations, he has talked about his travel experiences and experiences related to the body and groupness.
-The repetitive rhythm and celebratory nature of late Boredoms and OOIOO cannot be reduced to a single experience. He describes them as a combination of travel, physical training, and communal performance.
+Boredoms後期やOOIOOに見られる反復リズムと祝祭性は、単一の体験に還元されるものではない。本人はそれらを、旅、身体訓練、共同体的演奏の総体として説明している。
 
 > Ai Yamazuka's narrative shows her experience not as an explanation of her work, but as a change in her view of the body.
 
 ---
 
-## Chapter 4: The Reflective Testimony of Maynard James Keenan
+## 第4章：Maynard James Keenanの内省的証言
 
-Tool's Maynard James Keenan mentions ritual experiences, including ayahuasca, but his narrative is consistently reflective. The experience is not described as a revelation but as a process of confronting fear and self-deception.
-Tool's themes of circular structure and transformation have been discussed not as a depiction of an experience, but as a post-experience perspective.
+Tool's Maynard James Keenan mentions ritual experiences, including ayahuasca, but his narrative is consistently reflective. The experience is described not as a revelation but as a process of confronting fear and self-deception.
+Toolの循環構造や変容の主題は、体験の描写ではなく、体験後の視点として語られてきた。
 
-> Maynard's account treats experience not as a symbol but as a technique of reflection.
+> Maynardの証言は、体験を象徴ではなく内省の技術として扱う。
 
 ---
 
-## Chapter 5: Shpongle and acoustic reconstruction
+## 第5章：Shpongleと音響による再構成
 
-Shpongle is a project started around **1997-1998**. Raja Ram has been talking about ayahuasca experiences for some time, but the music is not an imitation of the experience.
-The spatial processing and sense of time in this work is an attempt to reconstruct the perceptual changes in ritual space as sound.
+Shpongleは**1997〜1998年頃**に始動したプロジェクトである。Raja Ramはそれ以前からアヤワスカ体験について語ってきたが、音楽は体験の模倣ではない。
+作品における空間処理や時間感覚は、儀礼空間の知覚変化を音響として再構成する試みである。
 
-> Shpongle does not translate the experience, but indirectizes it as sound.
+> Shpongleは体験を翻訳せず、音響として間接化している。
 
 ---
 
 ## Chapter 6: Told Experiences and Choosing Silence
 
-While some musicians talk about their experiences, many others choose to remain silent. Silence is not a denial, but an attitude that is already expressed in the music.
-Whether you talk about it or not, it is a responsible choice for you as a musician.
+体験を語る音楽家がいる一方で、沈黙を選ぶアーティストも多い。沈黙は否定ではなく、音楽の中にすでに表れているという態度である。
+語ることも語らないことも、音楽家としての責任ある選択である。
 
-> Told experiences and silence are both attitudes to protect music.
+> 語られた体験と沈黙は、ともに音楽を守るための態度である。
 
 ---
 
 ## Chapter 7: Misuse, Mythologization, and Distortion in the SNS Era
 
-In the age of social media, careful testimony is often simplified. There is no assertion in his own statements that his experience gave birth to his work.
-Misuse and mythologizing occur as a matter of narrative rather than experience.
+SNS時代において、慎重な証言はしばしば単純化される。体験が作品を生んだという断定は、本人の発言には存在しない。
+誤用と神話化は、体験ではなく語りの問題として生じている。
 
-> Myths are born not from experience but from cut words.
+> 神話は体験からではなく切り取られた言葉から生まれる。
 
 ---
 
-## Chapter 8: Luciano and Shpongle Testimony Structure
+## 第8章：LucianoとShpongleの証言構造
 
-Luciano"s testimony can be summarized in the change in his listening attitude after the experience. Shpongle"s testimony can be summarized as an attitude of keeping one's distance from the experience as something that cannot be recreated.
+Lucianoの証言は、体験後の聴取態度の変化に集約される。Shpongleの証言は、体験を再現できないものとして距離を保つ姿勢に集約される。
 What they both have in common is an attitude of entrusting the experience to music, assuming that it cannot be fully explained.
 
-> Summarized testimonies reveal the contours of silence.
+> 要約された証言は、沈黙の輪郭を浮かび上がらせる。
 
 ---
 
-## Chronology
+## 年表
 
 <div class="mermaid">
 timeline
@@ -129,24 +128,24 @@ timeline
 
 ---
 
-## Diagram: Structure from experience to expression
+## 図：体験から表現への構造
 
 <div class="mermaid">
 graph TD
-    A[Ritual experience] --> B[Changes in sensory perception]
-    B --> C[Transformation of time sense]
-    B --> D[Body/spatial awareness]
+    A[儀礼体験] --> B[感覚認識の変化]
+    B --> C[時間感覚の変容]
+    B --> D[身体・空間意識]
     C --> E[repeating structure]
     D --> E
 </div>
 
 ---
 
-## Final chapter: What remains of the untold part
+## 終章：語られなかった部分が残したもの
 
 Ayahuasca did not create music. The experiences that were talked about, and the parts that were left unspoken, remained as the musician's attitude.
 
-> What remains in music history is not the experience itself, but the way we distance ourselves.
+> 音楽史に残るのは体験そのものではなく、距離の取り方である。
 
 ---
 

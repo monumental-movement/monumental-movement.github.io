@@ -32,5 +32,5 @@ B2. Zion, Hector –Mirandonos
 B3. Julio Voltio, Tego Calderón – Se Van
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
 

@@ -7,13 +7,13 @@ lang: en
 layout: post
 tags:
 - Experimental
-title: Björk – Medulla
+title: Björk – Medúlla
 ---
 
 
-"Björk – Medúlla" is an album by Icelandic singer-songwriter Björk. This album was released in 2004.
+「Björk – Medúlla」は、アイスランドのシンガーソングライターであるビョーク（Björk）のアルバムです。このアルバムは、2004年にリリースされました。
 
-"Medúlla" is a highly experimental and innovative work by Björk, and is known as a vocal album centered on the human voice. Björk uses the human voice and the sounds of the human body in most of her songs, building her sound without relying on traditional instruments.
+「Medúlla」は、ビョークによる極めて実験的で斬新な作品であり、人間の声を中心としたヴォーカルアルバムとして知られています。ビョークは、ほとんどの楽曲で人間の声や人間の体の音を使用し、従来の楽器に頼らずにサウンドを構築しました。
 
 #### Tracklist
 ```md

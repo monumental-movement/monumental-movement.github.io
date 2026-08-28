@@ -13,11 +13,11 @@ title: White Light Circus – Marching Orders
 ---
 
 
-Dean Meredith, also known as White Light Circus, is a UK DJ and producer who is also active as the unit Chicken Lips with Andy Meecham.
+White Light CircusことDean Meredith（ディーン・メレディス）は、Andy MeechamとのユニットChicken Lips（チキンリップス）としても活躍するUKのDJ・プロデューサー。
 
-He is also active under the names of The Rhythm Odyssey and Goat Dance.
+The Rhythm Odyssey、Goat Dance名義でも活動している。
 
-"Marching Orders" is an electro downtempo disco track released in 2005 by the UK label D.C. Recordings.
+「Marching Orders」は、2005年にUKのレーベルD.C. Recordingsからリリースされたエレクトロ・ダウンテンポ ・ディスコトラック。
 
 #### Tracklist
 ```md

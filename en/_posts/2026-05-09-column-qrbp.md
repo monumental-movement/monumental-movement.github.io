@@ -10,15 +10,14 @@ tags:
 - Bluegrass
 - Folk Punk
 - Québec
-title: '[Column] Québec Redneck Bluegrass Project - Rebellious bluegrass resounding
-  from the dust and bars of Quebec'
+title: 【コラム】 Québec Redneck Bluegrass Project――ケベックの土埃と酒場から鳴り響く反骨のブルーグラス
 ---
 
 
 
-## A band that plays the muddy sounds of Quebec
+## ケベックの泥臭さを鳴らすバンド
 
-Text: mmr｜Theme: The trajectory of the Québec Redneck Bluegrass Project, which uses bluegrass and punk spirit to express the discomfort between Quebec's indigenous culture and modern society.
+文：mmr｜テーマ：ケベック地方の土着文化と現代社会への違和感を、ブルーグラスとパンク精神で鳴らした Québec Redneck Bluegrass Project の軌跡
 
 <style type="text/css">
 
@@ -35,25 +34,25 @@ color: #fff;
 
 
 
-Québec Redneck Bluegrass Project, commonly known as QRBP, is a bluegrass/folk band formed in Quebec, Canada.
+Québec Redneck Bluegrass Project、通称QRBPは、カナダ・ケベック州で結成されたブルーグラス／フォーク系バンドである。
 
-However, simply describing them as a "bluegrass band" misses the reality.
+しかし彼らを単純に「ブルーグラス・バンド」と説明すると、実態から大きく外れてしまう。
 
-Their music blends bluegrass from the American South, Quebec folk music, punk, garage rock, country, folk, barroom music, and work song sensibilities. Overarching the whole thing was an ""aesthetics that moves in the opposite direction to sophistication.''
+彼らの音楽には、アメリカ南部由来のブルーグラス、ケベック民謡、パンク、ガレージロック、カントリー、フォーク、酒場音楽、労働歌の感覚が混在している。そしてその全体を覆っているのが、「洗練とは逆方向へ進む美学」だった。
 
-It's not urban smart.
+都市的なスマートさではない。
 
-The mud of rural villages, the cold of winter, cheap alcohol, long roads, fatigue of workers, and the feeling of freedom on the weekends. The temperature of this reality is directly converted into music.
+農村の泥、冬の寒さ、安酒、長距離道路、労働者の疲労、週末の解放感。そうした現実の温度をそのまま音楽へ変換していく。
 
-QRBP is characterized by its passion, not its skill.
+QRBPの特徴は、技巧ではなく熱量にある。
 
-The playing is sometimes rough, the singing is not overly organized, and the live performance is on the border between celebration and chaos. Even so, the reason they are supported is because they are engraved with ""life''.
+演奏は時に荒々しく、歌声は整い過ぎず、ライブは祝祭と混乱の境界線に近い。それでも彼らが支持されるのは、そこに「生活」が刻まれているからだ。
 
-Quebec music has long maintained its unique Francophone identity. QRBP was part of this trend, but it also brought locality and people's characteristics to the fore.
+ケベック音楽は長い間、フランス語文化圏独自のアイデンティティを守り続けてきた。QRBPはその流れの中にいながら、さらに地方性と庶民性を前面化した。
 
-Their songs lack the directness of political slogans. However, there is a consistent viewpoint that affirms labor and local culture and distances itself from urban-centric values.
+彼らの楽曲には、政治スローガンのような直接性は少ない。しかし、労働や地域文化を肯定し、都市中心的価値観を距離を置いて見る視点が一貫して存在している。
 
-As a result, it became a strong cultural message.
+それは結果として、強い文化的メッセージになっていった。
 
 <div class="mermaid">
 graph TD
@@ -65,34 +64,34 @@ F["Bar Music"] --> D
 G["Regional Identity"] --> D
 </div>
 
-> QRBP was not just a band that mixed genres, but a musical representation of Quebec's local culture itself.
+> QRBPは単なるジャンル混合バンドではなく、ケベック地方文化そのものを音楽化した存在だった。
 
 
 ---
 
-## Quebec "re-imported" bluegrass
+## ブルーグラスを“再輸入”したケベック
 
-To understand QRBP, we first need to look at how bluegrass music was received in Quebec.
+QRBPを理解するには、まずブルーグラスという音楽がケベックでどのように受容されたかを見る必要がある。
 
-Bluegrass originates from the Appalachian region of the southern United States. It is a high-speed acoustic music centered around banjo, fiddle, mandolin, and upright bass, and was systematized by Bill Monroe and others in the mid-20th century.
+ブルーグラスはアメリカ南部のアパラチア地域を起源とする。バンジョー、フィドル、マンドリン、アップライトベースなどを中心とした高速アコースティック音楽であり、20世紀半ばにビル・モンローらによって体系化された。
 
 However, in eastern Canada, especially in rural Quebec, fiddle culture and dance music culture have existed since ancient times.
 
-In other words, what QRBP did was not so much the introduction of a different culture, but the work of reconnecting closely related cultures.
+つまりQRBPがやったことは、「異文化導入」というより、近縁文化同士を再接続する作業だった。
 
-Preservation of French language culture has long been a priority in Quebec. As a result, there was a sense of wariness toward English-speaking American culture. On the other hand, at the level of rural culture and bar culture, there remained a deep-rooted sense of commonality with the music of the American South.
+ケベックでは長年、フランス語文化の維持が重要視されてきた。そのため英語圏アメリカ文化に対する警戒感も存在した。一方で農村文化や酒場文化のレベルでは、アメリカ南部音楽との共通感覚も根強く残っていた。
 
-QRBP dug into that.
+QRBPはそこを掘り起こした。
 
 Their music does not imitate American bluegrass. Rather, it sounded like it had been returned to Quebec soil and re-fermented.
 
-It's not sophisticated Nashville style.
+洗練されたナッシュビル風ではない。
 
-The performance has a garage feel, and the recording has a rough feel to it. But the roughness was what mattered.
+演奏にはガレージ感があり、録音にもラフさが残る。しかしその粗さこそが重要だった。
 
 While urban folk turned toward introspection, QRBP turned toward community.
 
-The audience shouts, drinks, dances and rubs shoulders together. The live performance was not a "viewing" event, but a participatory space.
+観客が一緒に叫び、飲み、踊り、肩を組む。ライブは「鑑賞」ではなく参加型空間だった。
 
 <div class="mermaid">
 flowchart TD
@@ -102,7 +101,7 @@ C --> D["Garage Energy"]
 D --> E["QRBP Sound"]
 </div>
 
-> QRBP did not import bluegrass, but recombined it with a Quebecois sense of life.
+> QRBPはブルーグラスを輸入したのではなく、ケベックの生活感覚へ組み替え直した。
 
 ---
 
@@ -110,27 +109,27 @@ D --> E["QRBP Sound"]
 
 The Québec Redneck Bluegrass Project began its activities in the 2000s.
 
-Formed in the Saguenay region of Quebec. It is a rural area far away from urban culture.
+結成地はケベック州サグネ地域。都市中心文化から距離のある地方圏である。
 
-This regionality was extremely important in understanding their music.
+この地域性は、彼らの音楽を理解する上で極めて重要だった。
 
-Unlike the art scene in Montreal, the area around Saguenay retained a strong worker culture, forestry culture, and sense of local community. QRBP's music is deeply engraved with this atmosphere.
+モントリオールのアートシーンとは異なり、サグネ周辺には労働者文化、林業文化、地方共同体感覚が強く残っていた。QRBPの音楽にはその空気が色濃く刻まれている。
 
-In the early days, they weren't as well-known as they are today.
+初期の彼らは、現在ほど大規模な知名度を持っていたわけではない。
 
-Rather, they were the type of band that gradually spread through word of mouth and live performances.
+むしろ口コミとライブによって徐々に広がっていったタイプのバンドだった。
 
-Bars, small festivals, local events, community spaces. There they began to be recognized as an enthusiastic live band.
+酒場、小規模フェス、地方イベント、コミュニティ空間。そこで彼らは熱狂的なライブバンドとして認知され始める。
 
-What was particularly important was that he prioritized ""the energy of the space over the skill of the performance.''
+特に重要だったのが、「演奏の巧拙より空間熱量」を優先した点である。
 
-QRBP"s live shows have an energy that"s on the verge of being uncontrollable.
+QRBPのライブには制御不能寸前のエネルギーがある。
 
-The line between the audience and the audience is thin, and the stage becomes a celebration. The feeling is similar to a punk concert.
+観客との境界は薄く、ステージは祝祭化する。その感覚はパンクライブに近い。
 
 However, the music is mainly acoustic rather than electric.
 
-In other words, while using bluegrass formations, they brought in the physicality of punk.
+つまり彼らはブルーグラス編成を用いながら、パンク的身体性を持ち込んだのである。
 
 <div class="mermaid">
 timeline
@@ -141,7 +140,7 @@ timeline
     フェス出演期 : ケベック各地へ拡大
 </div>
 
-> The foundation of QRBP was formed not by media strategy but by the enthusiasm of the people on the ground.
+> QRBPの基盤はメディア戦略ではなく、現場の熱狂によって形成されていった。
 
 ---
 
@@ -149,29 +148,29 @@ timeline
 
 The most powerful thing about their band name is probably the word "Redneck."
 
-Originally, this term had a history of being used in English-speaking America as a term used to make fun of rural workers and people from the countryside.
+本来これはアメリカ英語圏で、農村労働者や田舎者を揶揄する言葉として使われてきた歴史を持つ。
 
 QRBP took advantage of those words.
 
-This isn't just a joke.
+これは単なるジョークではない。
 
-A sense of distance from urban elite culture, pride in one's origins, and affirmation of local culture. They are included.
+都市エリート文化への距離感、自分たちの出自への誇り、地方文化への肯定。それらが含まれている。
 
-In other words, they treated "lack of sophistication" as a weapon rather than a denial.
+つまり彼らは、「洗練されていないこと」を否定ではなく武器として扱った。
 
-This feeling is also deeply connected to Quebec culture.
+この感覚はケベック文化とも深く関係している。
 
-Quebec has long had cultural tensions with English-speaking Canada. Therefore, there is a culture that turns ""being on the periphery'' into an identity.
+ケベックは長年、英語圏カナダとの文化的緊張を抱えてきた。そのため「周縁であること」を逆にアイデンティティへ変える文化が存在する。
 
-QRBP added a regional touch to this.
+QRBPはそこへさらに地方性を重ねた。
 
-Discomfort with city-centrism.
+都市中心主義への違和感。
 
-Rejection of cultural industrialization.
+文化産業化への拒否。
 
-Maintaining a sense of being a worker.
+労働者感覚の維持。
 
-This feeling has led to the redefinition of the word "Redneck."
+こうした感覚が、「Redneck」という言葉の再定義につながっている。
 
 <div class="mermaid">
 mindmap
@@ -184,39 +183,39 @@ mindmap
     Community
 </div>
 
-> "Redneck" was not a derogatory term; for QRBP, it was a banner of pride in local culture.
+> “Redneck”は侮蔑語ではなく、QRBPにとっては地方文化の誇りを示す旗印だった。
 
 ---
 
-## Album and musicality expansion
+## アルバムと音楽性の拡張
 
 As QRBP continues their activities, they develop from a mere live band to a group with a unique artistic quality.
 
-Their albums consistently have a raw recording feel.
+彼らのアルバムには一貫して、生々しい録音感覚が残されている。
 
-Excessive production is avoided, and the roughness and atmosphere of the performance is maintained. As a result, even though it is a studio work, it retains a strong live energy.
+過度なプロダクションは避けられ、演奏の荒さや空気感が維持される。その結果、スタジオ作品でありながらライブの熱量が強く残る。
 
-Their lyrics also have a lot of humor and irony.
+また彼らの歌詞には、ユーモアと皮肉が多い。
 
-It's not just a feeling of sadness.
+悲壮感だけではない。
 
-Alcohol, failure, work, travel, friends, and local life. There is a sense of not taking life too seriously.
+酒、失敗、労働、旅、仲間、地方生活。そこには「人生を深刻化し過ぎない感覚」がある。
 
-However, at the same time, there is a sense of discomfort with the social structure.
+しかし同時に、社会構造への違和感も滲む。
 
-economic disparity.
+経済格差。
 
-Urban bias.
+都市偏重。
 
-Cultural homogenization.
+文化均質化。
 
-These issues are portrayed without sounding preachy.
+こうした問題が、説教臭さを避けながら描かれていく。
 
-Musically, QRBP gradually expanded its range.
+音楽的にも、QRBPは徐々にレンジを広げていった。
 
-In addition to traditional bluegrass, they also display folk-punk tempo, rock-like propulsion, and sometimes country-ballad lyricism.
+伝統的ブルーグラスだけではなく、フォークパンク的テンポ感、ロック的推進力、時にはカントリーバラード的叙情性も見せる。
 
-As a result, they strengthened their presence as a ""local culture renewal band" rather than a ""tradition preservation band."
+その結果、彼らは「伝統保存型バンド」ではなく、「地方文化更新型バンド」として存在感を強めていった。
 
 <div class="mermaid">
 graph TD
@@ -227,37 +226,37 @@ D["Quebec Folk"] --> F
 E["Country Ballad"] --> F
 </div>
 
-> QRBP's music was not a recreation of tradition, but an attempt to update local culture into the present tense.
+> QRBPの音楽は伝統再現ではなく、地方文化を現在形へ更新する試みだった。
 
 ---
 
-## Live culture and sense of community
+## ライブ文化と共同体感覚
 
-If I were to pick one of QRBP's biggest attractions, I think many audience members would choose the live performances.
+QRBP最大の魅力を一つ挙げるなら、多くの観客はライブを選ぶだろう。
 
-At their live performances, there is almost no atmosphere in which the audience can watch in silence.
+彼らのライブでは、観客が静かに鑑賞する空気はほとんど存在しない。
 
-Shout, sing along, dance, drink, and rub shoulders.
+Scream, sing along, dance, drink, and rub shoulders.
 
 The entire venue becomes a community.
 
-This feeling is similar to punk and Irish pub culture. However, QRBP was unique in that it was tied to Quebec regional culture.
+この感覚は、パンクやアイリッシュパブ文化にも近い。しかしQRBPの場合、それがケベック地方文化と結びついている点が独特だった。
 
-The live performance space has an atmosphere that allows anyone to enter.
+ライブ空間には「誰でも入れる空気」がある。
 
-It doesn't matter whether you have musical knowledge or not.
+音楽知識の有無は重要ではない。
 
 The important thing is to participate.
 
-This sense of community has paradoxically taken on a powerful meaning in the digital age.
+この共同体感覚は、デジタル時代において逆説的に強い意味を持った。
 
-Since SNS, music experiences have become more individualized.
+SNS以降、音楽体験は個人化した。
 
-It is listened to through earphones, recommended by algorithms, and consumed through short videos.
+イヤホンで聴き、アルゴリズムで推薦され、短尺動画で消費される。
 
 On the other hand, QRBP's live performance emphasized the "heat of sharing the same space."
 
-This is not just nostalgia.
+これは単なるノスタルジーではない。
 
 The physical communal experience itself lies at the heart of their musical culture.
 
@@ -270,41 +269,41 @@ D <--> E["Shared Experience"]
 E <--> A
 </div>
 
-> QRBP's live performance was not a concert, but a celebratory space that created a temporary community.
+> QRBPのライブは演奏会ではなく、一時的共同体を生成する祝祭空間だった。
 
 ---
 
-## Connection with Quebec society
+## ケベック社会との接続
 
 QRBP is not a political band.
 
-However, their very existence is strongly connected to the context of Quebec society.
+しかし彼らの存在自体が、ケベック社会の文脈と強く接続している。
 
-Quebec has long had a theme of ""cultural defense.''
+ケベックは長年、「文化防衛」というテーマを抱えてきた。
 
-This was because it was necessary to maintain French culture within the huge cultural sphere of English-speaking North America.
+英語圏北米の巨大文化圏の中で、フランス語文化を維持する必要があったからだ。
 
 As a result, there is often a sense of ""preserving regionality'' in Quebec music.
 
-QRBP also brought regional language and culture to the fore.
+QRBPもまた、地方言語感覚や地域文化を前面化した。
 
-Furthermore, they distanced themselves from ""urban culture-centrism.''
+さらに彼らは、「都市文化中心主義」に対して距離を取った。
 
-This is not a simple anti-urban ideology.
+これは単純な反都市思想ではない。
 
-Rather, it is an argument that ""regions have cultures, too.''
+むしろ「地方にも文化がある」という主張である。
 
-Worker culture.
+労働者文化。
 
 rural culture.
 
-Bar culture.
+酒場文化。
 
 Peer culture.
 
 A sense that there is no need to be ashamed of such things runs through their work.
 
-This stance resonated with supporters of local culture not only in Quebec but around the world.
+この姿勢は、ケベックだけでなく世界各地の地方文化支持層から共感を集めることになった。
 
 <div class="mermaid">
 graph TD
@@ -314,23 +313,23 @@ C["Working Class Reality"] --> D
 D --> E["Collective Resonance"]
 </div>
 
-> QRBP presented local culture as a modern value rather than as ""outdated.''
+> QRBPは地方文化を「時代遅れ」とせず、現代的価値として提示した。
 
 ---
 
-## To the symbol of the festival era
+## フェスティバル時代の象徴へ
 
-As their activities expanded, QRBP began to perform at major Quebec festivals.
+活動拡大とともに、QRBPはケベック主要フェスにも出演する存在となっていく。
 
 What is important here is that even when they became gigantic, they did not lose their ""earthiness''.
 
-Many bands move toward sophistication as they expand in size.
+多くのバンドは規模拡大とともに洗練へ向かう。
 
-However, QRBP was the opposite.
+しかしQRBPは逆だった。
 
-Rather, he continued to grow closer to the audience.
+むしろ観客との距離を縮め続けた。
 
-The costumes are not overly staged, and the stage is not overly deified.
+衣装も過度に演出されず、ステージも過剰に神格化されない。
 
 What there is is a sense of ""standing on the same ground''.
 
@@ -350,35 +349,35 @@ D --> E["Community Identity Maintained"]
 
 ---
 
-## What QRBP leaves behind
+## QRBPが残したもの
 
-The importance of QRBP cannot be measured only by hit charts.
+The importance of QRBP cannot be measured by hit charts alone.
 
-They proved that "local culture can become modern music."
+彼らは「地方文化が現代音楽になり得る」ことを証明した。
 
-Moreover, this was achieved without forcing urbanization.
+しかもそれを、無理に都会化せず実現した。
 
-This is huge.
+これは非常に大きい。
 
 In contemporary popular music, ""sophistication'' often tends to be the standard of value. But QRBP went in the opposite direction.
 
-Roughness.
+粗さ。
 
-Noisy.
+騒々しさ。
 
 Bar feel.
 
-Muddy smell.
+泥臭さ。
 
-A sense of community.
+共同体感覚。
 
-Rather than eliminating such things, they instead converted them into attractive features.
+そうしたものを排除せず、むしろ魅力へ変換した。
 
-As a result, they have gained support not only within Quebec culture, but also among folk-punk, alt-country, and DIY cultures around the world.
+その結果、彼らはケベック文化内部だけでなく、世界各地のフォークパンク／オルタナ・カントリー／DIYカルチャー層からも支持を受ける存在になった。
 
 QRBP is not a traditional music preservation organization.
 
-However, as a result, they played a role in carrying local culture into the future.
+しかし彼らは結果として、地域文化を未来へ運ぶ役割を果たしたのである。
 
 <div class="mermaid">
 graph TD
@@ -393,58 +392,67 @@ B --> F["Global Alternative Scene"]
 
 ---
 
-## Chronology
+## 年表
 
-| Years | Events |
+| 年代 | 出来事 |
 |---|---|
-| Early 2000s | Started operations in Quebec |
+| 2000年代初頭 | ケベック州で活動開始 |
 | Initial activity period | Expanding support in local live music and bar culture areas |
-| Mid-term | Increase in festival appearances |
-| Expansion period | Improving awareness outside Quebec |
+| 中期 | フェスティバル出演増加 |
+| 活動拡大期 | ケベック外でも認知向上 |
 | Current | Continued support as a symbol of Quebec regional culture |
 
 ---
 
 ## Keywords to understand QRBP
 
-| Keywords | Contents |
+| キーワード | 内容 |
 |---|---|
-| Bluegrass | Fast acoustic music from the American South |
+| ブルーグラス | アメリカ南部由来の高速アコースティック音楽 |
 | Quebec culture | Unique French-speaking regional culture |
-| DIY spirit | Emphasis on on-site sense rather than commercialism |
+| DIY精神 | 商業主義より現場感覚を重視 |
 | Worker culture | Connection with local communities and manual labor culture |
 | Folk punk | Fusion of folk music and punk spirit |
-| Community | Participatory enthusiasm in live spaces |
+| 共同体性 | ライブ空間での参加型熱狂 |
 
 ---
 
-## At the end
+## 終わりに
 
-Québec Redneck Bluegrass Project is more than just a folk band.
+Québec Redneck Bluegrass Projectは、単なるフォークバンドではない。
 
-They have played music that does not shame local culture.
+彼らは、地方文化を恥じないための音楽を鳴らしてきた。
 
-In an era where urbanization and digitalization are progressing and all cultures are becoming homogenized, QRBP demonstrated the strength of being ""rooted in the local area.''
+都市化とデジタル化が進み、あらゆる文化が均質化していく時代において、QRBPは「地域に根差すこと」の強さを提示したのである。
 
-The music isn't too sophisticated.
+その音楽は洗練され過ぎていない。
 
 Rather rough.
 
-However, there is a human body temperature in that roughness.
+しかしその粗さには、人間の体温がある。
 
 A voice shouting in a bar.
 
-A car running on a winter road.
+冬道を走る車。
 
 Fatigue after work.
 
-Laughter with friends.
+仲間との笑い。
 
 QRBP's music does not erase this atmosphere of reality.
 
-That's why they sound "real" to many people.
+だからこそ彼らは、多くの人々にとって「本物」に聞こえるのである。
 
 > QRBP has not translated Quebec culture to the world, but continues to sound as it is.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PTv5KcFN3bs?si=Dllkhat1VxLHafM-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

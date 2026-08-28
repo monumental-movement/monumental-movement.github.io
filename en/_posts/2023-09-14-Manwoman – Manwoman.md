@@ -29,5 +29,5 @@ B1. Speedometer
 B2. Man And Woman
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
 

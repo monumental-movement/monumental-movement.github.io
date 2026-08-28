@@ -9,22 +9,22 @@ permalink: /zh-hant/polyester-culture-club/
 tags:
 - House
 - Electro
-title: 聚酯纖維 – 文化俱樂部
+title: Polyester – Culture Club
 ---
 
 
-聚酯纖維是 Bernard Garcia 與 Bruno Quartier 和 Etienne Vandeveer 的一個項目。
+Polyesterは、ベルナール・ガルシアが、ブルーノ・クアルティエとエティエンヌ・ヴァンデヴィールによるプロジェクトです。
 
-它產生了許多熱門歌曲，並經常在比利時廣播電台播出。
+数多くのヒットを生み出し、ベルギーのラジオ局でよく放送されてました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A  Culture Club
 
 B  Culture Club (Glimmmix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m58333186087?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58333186087?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HjsMnGBqhVo?si=EiOVJH04jlz4ysoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

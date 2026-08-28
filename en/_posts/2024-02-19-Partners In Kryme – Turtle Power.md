@@ -13,9 +13,9 @@ title: Partners In Kryme – Turtle Power
 ---
 
 
-Partners in Kryme (Partnerz in Kryme) is a hip-hop duo from New York consisting of James Alpern and Richard Usher.
+Partners in Kryme (Partnerz in Kryme) は、ニューヨーク出身のJames Alpern（ジェームス・アルパーン）とRichard Usher（リチャード・アッシャー）によるヒップホップデュオ。
 
-"Turtle Power!" was created for the 1990 movie Teenage Mutant Ninja Turtles and became a worldwide hit, reaching number 13 in the US and number one in the UK for four weeks, making it a record hit.
+「Turtle Power（タートルパワー!）」は、1990年の映画『ティーンエイジ・ミュータント・ニンジャタートルズ』のために作られ、世界的なヒットとなり、全米13位、イギリスでは4週間1位と記録的なヒットとなりました。
 
 
 

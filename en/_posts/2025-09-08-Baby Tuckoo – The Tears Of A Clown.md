@@ -13,13 +13,13 @@ title: Baby Tuckoo – The Tears Of A Clown
 ---
 
 
-Baby Tuckoo is a British hard rock band formed in 1982. A band considered to be part of the second generation of NWOBHM (New Wave of British Heavy Metal).
+Baby Tuckooは、1982年に結成されたイギリスのハードロックバンド。NWOBHM（ニュー・ウェイヴ・オブ・ブリティッシュ・ヘヴィメタル、New Wave Of British Heavy Metal）の第二世代のとみなされているバンド。
 
 This record is a Hard Rock/Heavy Metal record released by the British independent label Fun After All in 1986.
 
-A is a cover of Smokey Robinson & the Miracles' "The Tears of a Clown" (produced by Hank Cosby, Smokey Robinson & Stevie Wonder).
+Aは、Smokey Robinson & the Miraclesの「The Tears of a Clown」(制作Hank Cosby, Smokey Robinson & Stevie Wonder )のカヴァー。
 
-B is a single cut from Baby Tuckoo's album "Force Majeure".
+Bは、Baby Tuckoo のアルバム『Force Majeure』からのシングルカット。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B1. Over You
 B2. The Lights Go Down
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m77587395499?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77587395499?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ImwIvAIRgus?si=7-JIsZ1kc_73zvdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

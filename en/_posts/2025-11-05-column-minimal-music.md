@@ -15,32 +15,32 @@ title: '[Column] Expanding trajectory of Minimal Music: Aesthetics of repetition
 ---
 
 
-## Prologue: Between silence and repetition
+## 序章：沈黙と繰り返しのあいだに
 
 
 Text: mmr | Theme: "Aesthetics of Repetition and Change" - A cross-sectional interpretation of minimal music, the richest expression of music achieved through "scarcity," from classical to techno to contemporary Japan.
 
-A single sound rings out, then disappears silently.
+A single sound rings out and then disappears silently.
 The next sound appears again, at a slightly different angle.
 By the time that series takes shape, we are listening not to the music's "story" but to its "existence itself."
---That was the beginning of minimal music.
+——それが、ミニマル・ミュージックの始まりだった。
 
 Minimal music was born in America in the 1960s.
 Abandoning the drama and emotional expression that traditional Western music has pursued,
-Instead, it has transformed into an art that allows us to listen to "time and structure" itself.
+代わりに**「時間と構造」そのものを聴かせる芸術**へと変化した。
 Terry Riley"s "In C", Steve Reich"s "Piano Phase",
 And Philip Glass's "Einstein on the Beach"——
-They elevated the repetition of sound to a meditative experience rather than a boring one.
+彼らは音の反復を、退屈ではなく瞑想的な体験へと昇華させた。
 
-Eventually, this philosophy permeated the world of electronic music.
-In the constant rhythm of TR-808 and 909,
+やがて、その理念は電子音楽の世界へ浸透していく。
+TR-808や909が刻む一定のリズムの中に、
 A slight change in the filter or misalignment of the hi-hat gives it life.
-It"s the same idea as Reich"s "phase shift" on the piano.
+それはライヒがピアノで行った“位相シフト”と同じ思想——
 It is the minute differences within repetition that create the sense of musical time.
 
-In this paper, we will explore how this "aesthetics of repetition" can be extended and
+本稿では、この「反復の美学」がどのように拡張され、
 Classical, techno, house, rock, and even Japanese electronic music.
-We trace how it became a single sensual and philosophical trend that pervades a variety of genres.
+多様なジャンルを貫くひとつの感覚的・哲学的潮流となったのかを辿る。
 
 Minimalism is not just "striping down."
 It is an act of looking at the ""eternity'' that resides in the smallest unit of sound.
@@ -68,20 +68,20 @@ color: #fff;
 In 1964, Terry Riley's In C premiered.
 This piece had an unprecedented structure, with the performers freely repeating 53 short note patterns.
 Each phrase overlaps with a slight shift, creating a sound that seems to continue indefinitely.
-This ""free repetition'' is an idea that would later lead to electronic music and DJ culture.
+この「自由な反復」は、後の電子音楽やDJ文化に通じる発想である。
 
 **Structural analysis**
 
 | Element | Content |
 |------|------|
 | Basic materials | 53 phrases (1-2 measure units) |
-| Tempo | Any (generally around ♩=120) |
-| Repetition method | Each player moves to the next phrase at their own timing |
+| テンポ | 任意（一般的には♩=120前後） |
+| 反復方式 | 各奏者が自分のタイミングで次のフレーズに移る |
 | Effect | Polyrhythm effect due to phase shift |
 
 Steve Reich's next work, Piano Phase (1967), strictly controlled the "discrepancies" in repetition.
-By having two pianists play the same phrase and one accelerating the tempo slightly,
-The sound pattern gradually shifts. This "Phase Shifting" is what
+By having two pianists playing the same phrase and one accelerating the tempo slightly,
+音型が徐々にずれていく。この「位相シフト（Phase Shifting）」こそ、  
 It foresaw the aesthetics of loop structures in later techno.
 
 ---
@@ -90,17 +90,17 @@ It foresaw the aesthetics of loop structures in later techno.
 
 
 Philip Glass elevated repetition as ""structural order.''
-The opera Einstein on the Beach (1976) is a five-hour acoustic architecture.
+オペラ《Einstein on the Beach》(1976)は、5時間に及ぶ音響の建築物である。  
 While changing the same phrase step by step, the voice, organ, and violin are played.
-Continuing to draw geometric sound patterns.
+幾何学的な音のパターンを描き続ける。
 
 **Characteristics of repetitive structure**
 - Addition/subtraction in module units (Additive Process)
 - Advantage of "pulsation" over pitch
 - Fluctuations of emotion based on numerical regularity
 
-Glass's method also influenced **post-rock** and **electronica** from the 1980s onwards.
-For example, the influence of Grass's ""sustained rhythm'' can be seen in the compositions of Tortoise and Sigur Rós.
+グラスの手法は、80年代以降の**ポスト・ロック**や**エレクトロニカ**にも影響を与えた。  
+たとえばTortoiseやSigur Rósの楽曲構成にも、グラス的な「持続する律動」の影響が見られる。
 
 ---
 
@@ -109,31 +109,31 @@ For example, the influence of Grass's ""sustained rhythm'' can be seen in the co
 
 ### Detroit Geometric Minimalism
 **Minimal techno** was created by Derrick May, Jeff Mills, Robert Hood and others.
-It was a ""mental construct'' based on rhythmic abstraction.
+リズムの抽象化による“精神の構築物”だった。  
 Robert Hood's ""Minimal Nation'' (1994) is played by the TR-909 drum machine.
 Creating extreme tension from minimal patterns.
 
-**Track composition analysis (Robert Hood - "Rhythm of Vision")**
+**Track Composition Analysis (Robert Hood - "Rhythm of Vision")**
 
-| Element | Content |
+| 要素 | 内容 |
 |------|------|
-| Beat | 4/4 |
+| 拍子 | 4/4 |
 | BPM | 128 |
-| Sound composition | Kick, Hi-hat, Snare, Sub bass |
-| Changes | Psychological fluctuations due to minute changes in filters and loss of rhythm |
+| サウンド構成 | Kick, Hi-hat, Snare, Sub bass |
+| 変化 | フィルターの微細変化とリズムの脱落による心理的揺れ |
 
-### Reconstruction of Berlin's atmosphere and repetition
-In the late 1990s, Basic Channel and Maurizio (Moritz von Oswald, Mark Ernestus)
-Established ""Dub Techno'' with dub echo.
+### ベルリンの空気と反復の再構築
+1990年代後半、ベルリンではBasic ChannelやMaurizio（Moritz von Oswald, Mark Ernestus）が  
+ダブ・エコーを伴う**「Dub Techno」**を確立。  
 Low frequency repetition and reverberation created an acoustic experience that expanded the sense of time.
 
 ---
 
 ## Chapter 4: Rock and Post-Minimalism - From Brian Eno to Radiohead
 
-Brian Eno's Music for Airports (1978)
+ブライアン・イーノの《Music for Airports》(1978)は、  
 It is not only the father of ambient music, but also the origin of ""static minimalism.''
-The accidental overlapping of loop tapes expanded the auditory timeline.
+ループテープによる偶発的な重なりが、聴覚の時間軸を拡張した。
 
 Later, in Radiohead's ""Everything in Its Right Place'' (2000),
 Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
@@ -143,37 +143,37 @@ Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
 | Works | Technical features | Effects |
 |------|-------------|------|
 | Brian Eno - *Music for Airports* | Asynchronous playback of tape loops | Accidental overtone generation |
-| Radiohead - *Everything in Its Right Place* | Digital sampler phase shift | Emotional separation/dream feeling |
+| Radiohead - *Everything in Its Right Place* | デジタルサンプラーの位相ずれ | 感情の分離・夢幻感 |
 
 ---
 
-## Chapter 5: Japanese minimalism - the intersection of electronics and the environment
+## 第5章：日本のミニマル ― 電子と環境の交差点
 
-### Isao Tomita: Symphony in the electrons
+### 冨田勲：電子の中のシンフォニー
 
 Isao Tomita used a synthesizer to reconstruct classical music in ""electronic repetition.''
-In Moonlight (1974), subtle modulation fluctuations shape the sonic space.
-This sense of "electronic persistence" also applies to later techno-ambient music.
+《月の光》(1974)では、微細なモジュレーションの揺らぎが音の空間を形づくる。  
+この“電子的持続”の感覚は後のテクノ・アンビエントにも通じる。
 
 ### Ryoji Ikeda: Minimal data and frequency
 
-Ryoji Ikeda's works transform pure frequencies, numbers, and data into music.
-"dataplex" (2005) repeats and divides ultra-high frequency sounds that test the limits of human perception.
-The acoustic space was presented as "digital minimalism".
+池田亮司の作品は、純粋な周波数・数値・データを音楽化する。  
+《dataplex》(2005)では、人間の知覚限界を試す超高周波サウンドを反復・分割し、  
+音響空間を“デジタル的ミニマル”として提示した。
 
-### List of Japanese minimalist artists
+### 日本のミニマル系アーティスト一覧
 
 | Artist | Main works | Features |
-|------|------------|------|
-| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical/acoustic refinement |
-| Ryoji Ikeda | 《dataplex》《test pattern》 | Mathematical/frequency minimalism |
-| Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion of electro acoustics and piano |
-| Rei Harakami | 《Red Curb》《lust》 | Warm repetition of Lo-fi electronics |
+|---------------|-----------|------|
+| 冨田勲 | 《月の光》《惑星》 | 電子クラシック／音響の緻密化 |
+| 池田亮司 | 《dataplex》《test pattern》 | 数学的・周波数的ミニマル |
+| Alva Noto + 坂本龍一 | 《Vrioon》《Summvs》 | エレクトロ音響とピアノの融合 |
+| Rei Harakami | 《Red Curb》《lust》 | Lo-fi電子の温かい反復 |
 | Asa-Chang & Pilgrimage | 《Flowers》 | Intersection of minimalism and human voice |
 
 ---
 
-## Chapter 6: Chronology - Evolution and divergence of minimal music
+## 第6章：年表 ― ミニマル音楽の進化と分岐
 
 <div class="mermaid">
 
@@ -194,20 +194,20 @@ timeline
 
 ---
 
-## Conclusion: "Change" is born through repetition
+## 結語：反復の中に生まれる“変化”
 
-Minimalism is not just about "few."
-It is the art of discovering the greatest freedom within limitations.
-This lineage continues from Terry Riley"s "In C" to Ryoji Ikeda"s "dataplex".
-While changing form from analog to digital, from the body to data,
-Even now, he continues to "experiment with sound and time."
+Minimalism is not just about "less".
+それは、**制限の中で最大の自由を発見する芸術**である。
+Terry Rileyの《In C》から、Ryoji Ikedaの《dataplex》まで続くこの系譜は、
+アナログからデジタル、身体からデータへと形を変えながら、
+今もなお「音と時間の実験」を続けている。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CQAkF9_1-vg?si=zdouZOhFWeMB7Xev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

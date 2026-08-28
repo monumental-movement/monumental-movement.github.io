@@ -11,16 +11,16 @@ tags:
 - Rock
 - Alternative Rock
 - Garage Rock
-title: '[Column] Galaxie - The route of explosive rock and roll that ran through Quebec'
+title: 【コラム】 Galaxie ― ケベックを駆け抜けた爆音ロックンロールの航路
 ---
 
 
 
-## The moment when loud sounds and French intersect
+## 爆音とフランス語が交差した瞬間
 
-Text: mmr | Theme: Galaxie, who combined French rock and garage spirit, pushed forward into the Quebec music scene with their own unique energy. Tracing the history and cultural background of that roaring sound
+文：mmr｜テーマ：フランス語ロックとガレージ精神を融合させ、ケベックの音楽シーンを独自の熱量で突き進んだGalaxie。その轟音の歴史と文化的背景を辿る
 
-We will decipher the changes in French rock since the 2000s through the trajectory of Galaxie, who made their presence known through their explosive rock music in Quebec's unique cultural and linguistic environment.
+ケベック独自の文化と言語環境の中で、爆音ロックを武器に存在感を放ったGalaxieの軌跡を通して、2000年代以降のフランス語ロックの変化を読み解く。
 
 
 ---
@@ -40,47 +40,47 @@ color: #fff;
 
 
 
-### The presence that changed the atmosphere of Quebec rock
+### ケベック・ロックの空気を変えた存在
 
-In the early 2000s, the music scene in Quebec, Canada, was at a unique turning point.
+2000年代初頭、カナダ・ケベック州の音楽シーンは独特の転換点を迎えていた。
 
 While English-speaking indie rock was gaining momentum around the world, in Quebec the French language of rock expression was being passed down to a new generation. That's where the band that later became known as "Galaxie" appeared.
 
-Their sound is difficult to describe in one word.
+彼らのサウンドは一言で説明しづらい。
 
-- Garage Rock Roughness
-- Heaviness of alternative rock
-- stoner bass
-- And some punk-like straight-line ability
+- ガレージロックの粗さ
+- オルタナティブ・ロックの重量感
+- ストーナー的な低音
+- そして、どこかパンク的な直進力
 
-They were ringing them in French.
+それらをフランス語で鳴らしていた。
 
-While maintaining the dynamism of North American rock, they do not lose their Quebec cultural identity. That sense of balance was Galaxie's greatest feature.
+北米ロックのダイナミズムを保ちながら、ケベック文化圏のアイデンティティを失わない。そのバランス感覚こそがGalaxie最大の特徴だった。
 
-The central figure of the band is Olivier Langevin.
-While working as a guitarist, singer, and songwriter, he also became deeply involved in the Quebec music world as a producer.
+バンドの中心人物はOlivier Langevin。
+彼はギタリスト、シンガー、ソングライターとして活動しながら、プロデューサーとしてもケベック音楽界に深く関わっていくことになる。
 
-Galaxie originally started out under the name "Galaxie 500". However, to avoid name conflicts with the legendary American dream pop band, they later changed their name to simply "Galaxie".
+Galaxieはもともと「Galaxie 500」という名前で活動を開始した。しかしアメリカの伝説的ドリームポップ・バンドとの名称問題を避けるため、後に単純に「Galaxie」へ改名する。
 
 But even though the name changed, the sound remained the same.
 
-- roar
+- 轟音
 - Feeling of running
-- Sweat odor
+- 汗臭さ
 - and a sense of celebration
 
-They were not presenting ""sophisticated rock," but ""rock that lives by playing."
+彼らは“洗練されたロック”ではなく、“鳴らすことで生きるロック”を提示していたのである。
 
 <div class="mermaid">
 graph LR
-A[Quebec rock in the late 1990s] --> B[Influence of English-speaking indies]
-A --> C[french rock culture]
+A[1990年代末のケベック・ロック] --> B[Influence of English-speaking indies]
+A --> C[フランス語ロック文化]
 B --> D[Garage/alternative influence]
 C --> D
-D --> E[Birth of Galaxie]
+D --> E[Galaxie誕生]
 </div>
 
-> Galaxie was more than just a local rock band, it functioned as a device for amplifying Quebec's cultural energy.
+> Galaxieは単なるローカル・ロックバンドではなく、ケベックの文化的エネルギーを増幅する装置として機能していた。
 
 ---
 
@@ -88,121 +88,121 @@ D --> E[Birth of Galaxie]
 
 ### Background of the band formation
 
-Galaxie's story begins in the late 1990s.
+Galaxieの物語は1990年代末に始まる。
 
-In Quebec at the time, the local rock scene was beginning to emerge from underground. The number of indie bands increased mainly in Montreal, and the live house culture expanded.
+当時のケベックでは、ローカル・ロックシーンが地下から地上へ浮上し始めていた。モントリオールを中心にインディーバンドが増え、ライブハウス文化が拡大していく。
 
-Among them, Olivier Langevin was pursuing a noisy and heavy guitar sound.
+その中でOlivier Langevinは、ノイジーで重量感のあるギターサウンドを追求していた。
 
 He didn't just copy American rock.
 
-It was a mixture of the linguistic sensibilities unique to Quebec, the sense of confinement unique to provincial cities, and the enormous sound pressure of the North American cultural sphere.
+ケベック特有の言語感覚や、地方都市特有の閉塞感、そして北米文化圏の巨大な音圧を混ぜ合わせていた。
 
 The sound of the Galaxie 500 era is already showing the direction it will take in later years.
 
-・Heavy guitar riff
+・重いギターリフ  
 
-・Explosive drums
+・爆発的なドラム
 
-・French vocals
+・フランス語ボーカル 
 
-・Physicality on stage
+・ステージでの肉体性  
 
-They were aiming for ""physical rock" rather than ""intellectual rock".
+彼らは“知的なロック”より、“身体で浴びるロック”を志向していた。
 
-This personality was especially noticeable during live performances.
+ライブでは特にその性格が顕著だった。
 
-- Close to the audience
+- 観客との距離が近い
 - Loud volume
-- Mixed smell of sweat and alcohol
+- 汗とアルコールの匂いが混ざる
 
 This atmosphere became deeply connected to later Quebec festival culture.
 
-### Rename and restart
+### 名前変更と再出発
 
-However, the name "Galaxie 500" could not be used for a long time.
+しかし「Galaxie 500」という名称は長く使えなかった。
 
 Conflict with the American band Galaxie 500 occurred, resulting in the band changing its name to "Galaxie".
 
-However, this change ended up being a turning point.
+だが、この変更は結果的に転機となった。
 
 By stripping down the name, the impression of the band became more linear.
 
-"Galaxie".
+“Galaxie”。
 
 It's cosmic, road movie-like, and somehow reminds me of the sound of a huge engine.
 
 In fact, their music has always had a sense of movement.
 
-- Highway
-- night
-- Long distance travel
-- tour van
-- Local city
+- 高速道路
+- 夜
+- 長距離移動
+- ツアーバン
+- 地方都市
 
 The band's experience of touring the vast land of Quebec was reflected in the sound.
 
 <div class="mermaid">
 flowchart TD
-A[Galaxie 500 formed] --> B[local live activities]
-B --> C[Expanding recognition in Quebec]
-C --> D[name problem]
-D --> E[Renamed to Galaxie]
+A[Galaxie 500 formed] --> B[ローカルライブ活動]
+B --> C[ケベックで認知拡大]
+C --> D[名称問題]
+D --> E[Galaxieへ改名]
 E --> F[Establish your own route]
 </div>
 
-> The name change was not just a legal process, but an event that made the outline of the band even more pronounced.
+> 改名は単なる法的処理ではなく、バンドの輪郭をより強烈に際立たせる出来事だった。
 
 ---
 
 ## Quebec culture and Galaxie
 
-### Specialities of French rock
+### フランス語ロックの特殊性
 
-Quebec's cultural background is essential to understanding Galaxie.
+Galaxieを理解する上で欠かせないのが、ケベックの文化的背景である。
 
-Within the vast English-dominated region of Canada, Quebec has maintained its unique identity as a French-speaking region.
+カナダという英語優位の巨大圏の中で、ケベックはフランス語文化圏として独自性を保ってきた。
 
-As a result, there is a unique sense of tension in the music scene.
+そのため、音楽シーンにも特有の緊張感が存在する。
 
-If you sing in English, your market will expand.
-But singing in French has cultural meaning.
+英語で歌えば市場は広がる。
+しかしフランス語で歌うことには文化的意味がある。
 
-Galaxie chose the latter.
+Galaxieは後者を選んだ。
 
-Moreover, their French is neither chanson-like nor literary.
+しかも彼らのフランス語は、シャンソン的でも文学的でもない。
 
-It was rough, street-like, and the words to function as a rock band.
+荒々しく、ストリート的で、ロックバンドとして機能する言葉だった。
 
 This is a very important point.
 
-For many years, Quebec rock music has oscillated between ""culture" and ""popularity". Galaxie brought an answer called "bakusoku" to this situation.
+ケベックのロックは長年、「文化性」と「大衆性」の間で揺れてきた。Galaxieはそこへ“爆音”という回答を持ち込んだのである。
 
-That is, they
+つまり彼らは、
 
 "Even in French, you can rock this wildly."
 
-showed the fact that
+という事実を示した。
 
 ### Regional and North American characteristics
 
-Galaxie's music also has influences from southern American rock and garage rock.
+Galaxieの音楽には、アメリカ南部ロックやガレージロックの影響も感じられる。
 
-However, it is not completely Americanized.
+しかし完全にアメリカ化しているわけではない。
 
-The humidity that is typical of Quebec remains.
+そこにはケベック特有の湿度が残っている。
 
-- loneliness
-- snow
+- 孤独
+- 雪
 - Local city
-- winter
-- Long distance driving
+- 冬
+- 長距離運転
 
 A sense of local life is imbued within the North American sense of scale.
 
 That"s why their sound didn"t become "import rock."
 
-Quebec audiences found their own landscape there.
+ケベックの聴衆はそこに自分たちの風景を見出した。
 
 <div class="mermaid">
 mindmap
@@ -221,51 +221,51 @@ mindmap
       身体性
 </div>
 
-> Galaxie was a very Quebecois band, borrowing the form of North American rock, but in terms of content.
+> Galaxieは北米ロックの形式を借りながら、内容としては極めてケベック的なバンドだった。
 
 ---
 
-## Evolution by album
+## アルバムごとの進化
 
-### Impulse of early works
+### 初期作品の衝動
 
-The early Galaxie was all about momentum.
+初期のGalaxieは、とにかく“勢い”が前面に出ていた。
 
 The guitar distorts, the drums go wild, and the song moves forward.
 
-Therein lies the danger peculiar to young rock bands.
+そこには若いロックバンド特有の危うさがある。
 
-However, at the same time, it was clear that they had the ability to build something that was more than just a garage band.
+However, at the same time, I could see that they had the ability to build something that was more than just a garage band.
 
-As a songwriter, Olivier Langevin valued hooks as much as noise.
+Olivier Langevinはソングライターとして、ノイズだけでなくフックも重視していたのである。
 
-That's why their songs are loud but memorable.
+だから彼らの曲は騒々しいのに耳へ残る。
 
-Violent yet catchy.
+暴力的なのにキャッチー。
 
 That sense of balance has made Galaxie a special existence.
 
-### Deepening after mid-term
+### 中期以降の深化
 
 As the activity progresses, the sound becomes more profound.
 
 Guitar arrangements became thicker, rhythms became tighter, and song structures became more sophisticated.
 
-However, the important thing is that it was not too beautiful.
+However, the important thing is that it wasn't too pretty.
 
-Galaxie always maintained a live feel.
+Galaxieは常にライブ感を保っていた。
 
 Even when recorded in a studio, it feels like sweat is flying from the speakers.
 
 This was also unique in terms of production.
 
-Rather than excessive digital processing, the focus was on the sound of the amp and the atmosphere.
+過度なデジタル処理より、アンプの鳴りや空気感を重視していたのである。
 
-### Fusion with electronic elements
+### 電子的要素との融合
 
-In later years, electronic sound approaches were also partially incorporated.
+後年になると、電子音的アプローチも部分的に取り込まれていく。
 
-But that's not EDM.
+だが、それはEDM化ではない。
 
 Rather, it was introduced to enhance the noise and groove.
 
@@ -281,183 +281,183 @@ timeline
     2020s : ケベック・ロックの象徴的存在として定着
 </div>
 
-> Galaxie wasn't afraid of change, but they never lost their core of being an explosive rock band.
+> Galaxieは変化を恐れなかったが、根本にある“爆音ロックバンド”という核は最後まで失わなかった。
 
 ---
 
-## True value as a live band
+## ライブバンドとしての真価
 
-### The site was more important than the studio
+### スタジオ以上に重要だった現場
 
-When many fans talk about Galaxie, the first thing that comes to mind is live performances.
+Galaxieを語る時、多くのファンがまず思い浮かべるのはライブである。
 
-They were a typical "field type" band.
+彼らは典型的な“現場型”バンドだった。
 
-The moment you step on stage, the music changes.
+ステージに立った瞬間、音楽が変質する。
 
-The volume increases, the tempo accelerates, and the heat exchanges with the audience.
+音量は増し、テンポは加速し、観客との熱量が循環していく。
 
 It was a perfect fit with Quebec's festival culture.
 
-- Outdoor festival
-- Club
+- 野外フェス
+- クラブ
 - bar
-- University events
+- 大学イベント
 
-No matter where they are, they will "Galaxie-ify" the space.
+場所を問わず、彼らは空間を“Galaxie化”してしまう。
 
-### Rock of physicality
+### 身体性のロック
 
-There is no sense of intellectual distance in their live performances.
+彼らのライブには知的距離感がない。
 
-The audience reacts physically before analyzing it.
+観客は分析する前に身体で反応する。
 
-- Shoulders move before head
-- Alcohol goes on
-- shout
+- 頭より先に肩が動く
+- 酒が進む
+- 叫ぶ
 
-It was the most primitive feature of rock and roll.
+それはロックンロールの最も原始的な機能だった。
 
-Especially in Quebec, it was valuable to have such a direct, explosive rock sound in French.
+特にケベックでは、フランス語でここまでダイレクトな爆音ロックを鳴らす存在は貴重だったのである。
 
 <div class="mermaid">
 graph TD
-A[Galaxie live] --> B[loud volume]
-A --> C[audience participation]
-A --> D[fast groove]
+A[Galaxieのライブ] --> B[大音量]
+A --> C[観客参加]
+A --> D[高速グルーヴ]
 B --> E[physical reaction]
 C --> E
 D --> E
-E --> F[celebration space]
+E --> F[祝祭空間]
 </div>
 
-> The essence of Galaxie is not complete only in the recorded material, but became complete for the first time in the live space.
+> Galaxieの本質は録音物だけでは完結せず、ライブ空間で初めて完全体になった。
 
 ---
 
 ## A central character named Olivier Langevin
 
-### More than a player
+### プレイヤー以上の存在
 
-Olivier Langevin is more than just a frontman.
+Olivier Langevinは単なるフロントマンではない。
 
-He is an influential figure in the Quebec music scene as a whole.
+彼はケベック音楽シーン全体へ影響を与えた人物である。
 
 - Guitarist
-- Singer
+- シンガー
 - Composer
 - Producer
 
-While holding multiple roles, he has been involved with many artists.
+複数の役割を持ちながら、多くのアーティストと関わってきた。
 
 As a result, Galaxie's sound has a sense of connection to the entire scene.
 
-Rather than being an isolated band, they existed as part of the Quebec musical community.
+孤立したバンドではなく、ケベック音楽共同体の一部として存在していたのである。
 
-### Characteristics of sound creation
+### Features of sound creation
 
-Langevin's guitars are very distinctive.
+Langevinのギターは非常に特徴的だ。
 
-- heavy
-- Rough
-- But there is a core.
+- 重い
+- ざらついている
+- しかし芯がある
 
-It's different from simple heavy rock.
+単純なヘヴィロックとも違う。
 
 While retaining the roughness of garage rock, the groove design is extremely precise.
 
-He also placed great importance on the "ringing of the air."
+また、彼は“空気の鳴り”を重視していた。
 
 As a result, a Galaxie recording feels like an entire room vibrating, rather than just a collection of tracks.
 
 <div class="mermaid">
 graph LR
-A[Olivier Langevin] --> B[guitarist]
+A[Olivier Langevin] --> B[ギタリスト]
 A --> C[songwriter]
 A --> D[producer]
-A --> E[scene formation]
+A --> E[シーン形成]
 </div>
 
-> Without Olivier Langevin, the phenomenon of Galaxie would not have existed.
+> Olivier Langevinの存在なくして、Galaxieという現象は成立しなかった。
 
 ---
 
-## Galaxie in Quebec rock history
+## ケベック・ロック史の中のGalaxie
 
-### Establishing a unique position
+### 独自ポジションの確立
 
-There are many important artists in Quebec's musical history.
+ケベックの音楽史には多くの重要アーティストが存在する。
 
-- fork
-- chanson
-- Progressive rock
-- indie
+- フォーク
+- シャンソン
+- プログレ
+- インディー
 
 Among them, Galaxie carved out a position as the ""French version of explosive rock''.
 
-This was a surprisingly important role.
+これは意外なほど重要な役割だった。
 
-French rock sometimes tends to lean too much towards artistry.
+フランス語ロックは時に芸術性へ寄りすぎる傾向がある。
 
-However, Galaxie did not give up its sweaty smell.
+しかしGalaxieは汗臭さを捨てなかった。
 
-- Rings at the bar
+- 酒場で鳴る
 - Plays loudly in the car
 - Go crazy live
 
-They maintained this physical rock culture.
+そうした肉体的ロックの文化を維持したのである。
 
-### Impact on the next generation
+### 次世代への影響
 
-Galaxie's influence can be seen in subsequent Quebec rock bands.
+後続のケベック系ロックバンドにも、Galaxieの影響は見られる。
 
-especially,
+特に、
 
 ・Position to play intense rock music in French
 
-・Live-focused spirit
+・ライブ重視の精神 
 
-・North American sound pressure sensation
+・北米的音圧感覚  
 
-was passed down to many young people.
+は、多くの若手へ継承された。
 
-They're not huge mainstream stars.
+彼らは巨大なメインストリーム・スターではない。
 
-However, its influence within the scene is extremely large.
+だがシーン内部における影響力は極めて大きい。
 
 <div class="mermaid">
 flowchart LR
-A[quebec traditional music] --> B[1990s indie]
+A[ケベック伝統音楽] --> B[1990年代インディー]
 B --> C[Galaxie]
-C --> D[next generation french rock]
+C --> D[次世代フランス語ロック]
 </div>
 
 > Galaxie played an important role in terms of cultural inheritance beyond its commercial scale.
 
 ---
 
-## Chronology
+## 年表
 
-### Galaxie Main Chronology
+### Galaxie主要年表
 
-| Years | Events |
+| 年代 | 出来事 |
 |---|---|
-| Late 1990s | Started as Galaxie 500 |
-| Early 2000s | Attracting attention in the Quebec rock scene |
-| After name change | Name changed to "Galaxie" |
-| 2000s | Album release and expansion of tour activities |
-| 2010s | Established as Quebec's leading live band |
-| 2020s | Maintaining continued influence on the scene |
+| 1990年代末 | Galaxie 500として活動開始 |
+| 2000年代初頭 | ケベック・ロックシーンで注目を集める |
+| 改名前後 | 「Galaxie」へ名称変更 |
+| 2000年代 | アルバム発表とツアー活動を拡大 |
+| 2010年代 | ケベックを代表するライブバンドとして定着 |
+| 2020年代 | シーンへの継続的影響力を保持 |
 
-> Galaxie's history was also the process by which Quebec rock connected from local culture to contemporary North American rock.
+> Galaxieの歴史は、ケベック・ロックがローカル文化から現代的北米ロックへ接続していく過程そのものでもあった。
 
 ---
 
-## Why is Galaxie still talked about?
+## なぜGalaxieは今も語られるのか
 
-### The strength of staying local
+### ローカルであり続けた強さ
 
-Galaxie is not a huge global star.
+Galaxieは世界的巨大スターではない。
 
 However, it has been supported for a long time.
 
@@ -465,67 +465,67 @@ The reason is clear.
 
 This is because they did not lose their "place."
 
-- Quebec
+- ケベック
 - French
-- Live
-- Explosive sound
+- ライブ
+- 爆音
 
-It evolved while maintaining its core.
+その核を維持したまま進化していった。
 
-While many bands have become homogenized due to globalization, Galaxie has turned locality into a weapon.
+多くのバンドがグローバル化の中で均質化していく一方、Galaxieは地域性を武器へ変えたのである。
 
 ### The life force of rock and roll
 
-Their music has an energy that comes before logic.
+彼らの音楽には、理屈より先に伝わるエネルギーがある。
 
-- heavy bass
-- speed
+- 重低音
+- スピード
 - noise
-- scream
+- 叫び
 
-The original impulse of rock remains.
+ロックが本来持っていた衝動が残っている。
 
-That's why it never gets old even if times change.
+だから時代が変わっても古びない。
 
 Even in the streaming era, their sound continues to exist as ""music that shakes the air.''
 
 <div class="mermaid">
 graph TD
-A[Why Galaxie is supported] --> B[regional characteristics]
+A[Galaxieが支持される理由] --> B[地域性]
 A --> C[live power]
-A --> D[explosive aesthetics]
+A --> D[爆音美学]
 A --> E[french rock]
-B --> F[long term support]
+B --> F[長期的支持]
 C --> F
 D --> F
 E --> F
 </div>
 
-> Galaxie was a band that survived by maintaining their passion rather than adapting to trends.
+> Galaxieは流行に適応するのではなく、自分たちの熱量を維持し続けることで生き残ったバンドだった。
 
 ---
 
-## At the end
+## 終わりに
 
 ### The sound of running through the Quebec night
 
-When I listen to Galaxie's music, I can see the scenery.
+Galaxieの音楽を聴いていると、風景が見えてくる。
 
-- Snowy road
+- 雪道
 - Highway
 - neon
-- tour van
-- Tavern
-- Before dawn
+- ツアーバン
+- 酒場
+- 夜明け前
 
-It's not just a rock.
+それは単なるロックではない。
 
-It's the temperature of a place called Quebec.
+ケベックという場所の温度そのものだ。
 
 They didn't have big ideas.
-Nor does it bring to the fore difficult concepts.
+難解なコンセプトを前面に出したわけでもない。
 
-However, it continued to run with a bang.
+ただ、爆音で走り続けた。
 
 As a result, Galaxie has earned a special place in Quebec rock history.
 
@@ -538,7 +538,7 @@ And even today, their sound continues to resonate as "living rock."
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oxuOHQexsN8?si=OM_8LS0VHPK3aBK7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

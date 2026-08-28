@@ -17,7 +17,7 @@ title: '[Column] Martin Denny and Exotica: The tropical sound dreamed of by post
 
 ## Where was the southern land?
 
-Text: mmr | Theme: Martin Denny uses sound to depict the "tropical fantasy" that spread to postwar America. Tracing the influence of its innovative exotica sounds on lounge, ambient, and electronic music
+文：mmr｜テーマ：戦後アメリカに広がった“南国幻想”を音で描き出したMartin Denny。その革新的なエキゾチカ・サウンドが、ラウンジ、環境音楽、電子音楽へ与えた影響をたどる
 
 ### Postwar America and the fantasy of paradise
 
@@ -25,13 +25,13 @@ In the 1950s, the American middle class was rapidly expanding due to economic gr
 
 One of the symbols was Hawaii.
 
-Even before Hawaii became the 50th state in the United States in 1959, Hawaii was portrayed as a "utopia" in tourist advertisements, movies, and magazines. Furthermore, with the development of aviation technology after the war, the psychological distance of overseas travel became shorter, and ""tropical countries'' began to be consumed not only as a fantasy but as an accessible form of entertainment.
+1959年にハワイがアメリカ50番目の州となる以前から、ハワイは観光広告や映画、雑誌などを通じて「理想郷」として描かれていた。さらに戦後の航空技術発展によって海外旅行の心理的距離も縮まり、“南国”は夢想だけでなく、実際にアクセス可能な娯楽として消費され始める。
 
-It was in this atmosphere that a music genre called ""Exotica'' was born.
+この空気の中で生まれたのが「エキゾチカ（Exotica）」と呼ばれる音楽ジャンルだった。
 
 Exotica is not a faithful reproduction of actual folk music. Rather, it was an extremely cinematic piece of music that incorporated the ""images of foreign countries'' imagined by Americans into sound. Combining percussion instruments, bird calls, wave sounds, vibraphone, Latin rhythm, jazz harmony, etc., he creates an imaginary tropical world with sound.
 
-And the central figure was Martin Denny.
+そしてその中心人物こそ、Martin Dennyだった。
 
 ---
 
@@ -40,7 +40,7 @@ And the central figure was Martin Denny.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -53,232 +53,232 @@ color: #fff;
 
 Martin Denny was born in New York in 1911. He received classical piano training from an early age and later studied at the Los Angeles Conservatory of Music. When he was young, he was active as a jazz pianist and experienced dance bands and lounge performances.
 
-He served in the U.S. Army during World War II and served in the South Pacific region. This experience is said to have had a great influence on his later exotica works.
+He served in the U.S. Army during World War II, serving in the South Pacific region. This experience is said to have had a great influence on his later exotica works.
 
-After the war, he moved to Hawaii. He began performing at hotels and clubs in Honolulu. Here, he formed the ""spatial production type music'' that would later become his signature style.
+戦後、彼はハワイへ移住。ホノルルのホテルやクラブで演奏活動を行うようになる。ここで彼は、後の代表的スタイルとなる“空間演出型音楽”を形成していく。
 
-Martin Denny's music was more than just jazz piano playing. What he was trying to create was the landscape itself.
+Martin Dennyの音楽は、単なるジャズ・ピアノ演奏ではなかった。彼が作ろうとしていたのは、風景そのものだった。
 
 <div class="mermaid">
 graph TD
-A[postwar america] --> B[Expansion of tourism culture]
-B --> C[tropical fantasy]
+A[postwar america] --> B[観光文化の拡大]
+B --> C[南国幻想]
 C --> D[The birth of exotica]
 D --> E[Martin Denny]
-E --> F[lounge culture]
+E --> F[ラウンジ文化]
 E --> G[environmental music]
-E --> H[modern electronic music]
+E --> H[現代電子音楽]
 </div>
 
-> Martin Denny was not a person who ""recreated a foreign country," but a person who turned the ""joy of imagining a foreign country" itself into music.
+> Martin Dennyは“異国を再現した”のではなく、“異国を想像する楽しさ”そのものを音楽化した人物だった。
 
 ---
 
-## The moment when exotica was born
+## エキゾチカ誕生の瞬間
 
-### A coincidence at Shell Bar
+### Shell Barで起きた偶然
 
-Martin Denny's masterpiece ""Exotica'' was released in 1957. However, his unique style began by chance.
+Martin Dennyの代表作『Exotica』は1957年に発表された。しかし、その独特なスタイルは偶然から始まっている。
 
-While performing at Shell Bar in Honolulu, birds around the outdoor stage began chirping in response to the performance. In response, percussionist Augie Colon improvised an imitation of a bird's song, and the audience reacted strongly.
+ホノルルのShell Barで演奏していた際、屋外ステージ周辺にいた鳥たちが演奏へ反応し鳴き始めた。これに対して打楽器奏者Augie Colonが鳥の鳴き真似を即興で返したところ、観客が強く反応したという。
 
 Denny saw the potential in this incident and began incorporating bird calls and jungle-style sound effects into his performances.
 
 This was not just a comical performance.
 
-At the time, stereo recording technology was rapidly becoming popular in the American music market. Listeners were beginning to seek not just "high quality sound" but also "spatial experience."
+当時のアメリカ音楽市場では、ステレオ録音技術が急速に普及し始めていた。リスナーは“高音質”だけでなく、“空間体験”を求めるようになっていたのである。
 
 Martin Denny understood this new listening environment very early on.
 
-In his works, the vibraphone swings from side to side, percussion moves around the space, and ambient sounds create depth. This was a similar feeling to later ambient music and sound design.
+彼の作品では、ヴィブラフォンが左右に揺れ、パーカッションが空間を飛び回り、環境音が奥行きを作る。これは後のアンビエントやサウンドデザインにも通じる感覚だった。
 
 ### The impact of "Exotica"
 
-Their 1957 album Exotica was a huge success.
+1957年のアルバム『Exotica』は大きな成功を収める。
 
-"Quiet Village" in particular became a signature song, and the single version reached the top of the US charts in 1959. The sound, which was a mixture of the dreamy sounds of the vibraphone, Latin rhythms, bird calls, and strange choruses, was different from previous jazz or pop music.
+特に「Quiet Village」は代表曲となり、1959年にはシングル版が全米チャート上位へ到達した。ヴィブラフォンの幻想的な響き、ラテン系リズム、鳥の鳴き声、奇妙なコーラスが混ざり合ったサウンドは、それまでのジャズともポップスとも異なるものだった。
 
-With this work, the word "Exotica" itself became established as a genre name.
+この作品によって“Exotica”という言葉自体がジャンル名として定着していく。
 
-The album jacket at the time was also important. "Paradise" was packaged visually, with emphasis on tropical plants, tiki statues, Polynesian decor, and cocktail culture.
+当時のアルバム・ジャケットも重要だった。熱帯植物、ティキ像、ポリネシアン装飾、カクテル文化などが強調され、視覚的にも「楽園」がパッケージ化されていた。
 
 A huge lifestyle market was formed, encompassing not only music, but space design, interior design, bar culture, and the tourism industry.
 
 <div class="mermaid">
 flowchart TD
-A[Performance at Shell Bar] --> B[Introducing bird calls]
-B --> C[Ambient sound approach]
+A[Shell Barでの演奏] --> B[鳥の鳴き声を導入]
+B --> C[環境音的アプローチ]
 C --> D[Exotica production]
 D --> E[Quiet Village hit]
-E --> F[Exotica is popular in the US]
+E --> F[全米でエキゾチカ流行]
 </div>
 
-### What it means to not be "authentic"
+### “本物”ではないことの意味
 
-Exotica is often criticized as ""fake folk music.''
+エキゾチカはしばしば「偽の民族音楽」と批判されることもある。
 
 In fact, Martin Denny's music was not Hawaiian music itself, but a mixture of images from multiple regions such as Southeast Asia, Africa, Latin, and Polynesia.
 
-But the point is that he wasn't trying to make a documentary.
+しかし重要なのは、彼がドキュメンタリーを作ろうとしていたわけではない点にある。
 
 His music was the sound embodiment of American society's longing for a distant world.
 
-This was closely tied to 1950s consumer culture, Cold War psychology, the tourism industry, and the home audio market.
+これは1950年代の消費文化、冷戦期の心理、観光産業、家庭用オーディオ市場などと密接に結びついていた。
 
-Exotica was not just a musical genre, it was the very desire of postwar America.
+エキゾチカは単なる音楽ジャンルではなく、戦後アメリカの欲望そのものだったのである。
 
-> ""Exotica" not only coined the name of the genre, but also pioneered the modern idea of ​​""creating a space with music."
+> 『Exotica』はジャンル名を作っただけでなく、「音楽で空間を演出する」という現代的発想を先取りしていた。
 
 ---
 
-## Lounge Culture and Tiki Culture
+## ラウンジ文化とティキ文化
 
-### Tiki Bar Expansion
+### ティキ・バーの拡大
 
-From the late 1950s to the 1960s, ""Tiki bars'' became popular throughout the United States.
+1950年代後半から1960年代にかけて、アメリカ各地で“ティキ・バー”が流行した。
 
-Tiki culture is a restaurant and bar culture with Polynesian decor. Features included bamboo interiors, artificial waterfalls, fire displays, and tropical cocktails.
+ティキ文化は、ポリネシア風装飾を施したレストランやバー文化である。竹製インテリア、人工の滝、炎の演出、南国カクテルなどが特徴だった。
 
-Martin Denny's music was ideal as background music.
+そのBGMとしてMartin Dennyの音楽は理想的だった。
 
-His works were characterized by ""not interfering with conversation" but ""creating a strong atmosphere." This is an important quality that will be inherited by later lounge music as a whole.
+彼の作品は「会話を邪魔しない」が、「強烈な雰囲気を作る」という特徴を持っていた。これは後のラウンジ・ミュージック全体にも受け継がれる重要な性質である。
 
-Denny was creating not only ""music that was listened to as the main character," but also ""music that established a space."
+Dennyは“主役として聴かれる音楽”だけでなく、“空間を成立させる音楽”を作っていた。
 
 ### Music of the stereo era
 
-By the end of the 1950s, stereo audio had become a symbol of high-class home culture.
+1950年代末、ステレオ・オーディオは高級家庭文化の象徴になっていた。
 
 Record companies began to compete on ""quality of sound," and listeners began to enjoy ""tasting the feeling of traveling at home."
 
-Martin Denny's work was very compatible with this stereo culture.
+Martin Dennyの作品は、このステレオ文化と非常に相性が良かった。
 
-Percussion placed on the left and right.
+左右に配置されたパーカッション。
 Reverberation that gives a sense of depth.
-The sound of a bird suddenly flying in.
+突然飛び込んでくる鳥の声。
 
-His work was more than just a piece of music, it was a "sound production that changed the whole room."
+彼の作品は、単なる楽曲というより「部屋全体を変える音響演出」だった。
 
-It was natural for audio critics to treat his work as a stereo demo record in later years.
+後年、オーディオ評論家たちが彼の作品をステレオ・デモ用レコードとして扱ったのも自然な流れだった。
 
-### Relationship with Les Baxter
+### Les Baxterとの関係
 
-Les Baxter is essential when talking about exotica.
+エキゾチカを語る上で欠かせないのがLes Baxterである。
 
-Baxter was an arranger who had been doing "exotic orchestration" even before Martin Denny, and was the person who laid the foundations of exotica.
+BaxterはMartin Denny以前から“異国的オーケストレーション”を行っていた編曲家であり、エキゾチカの基礎を築いた存在だった。
 
 But instead of Baxter's grand orchestral approach, Martin Denny built a smaller, more intimate sound.
 
-The vibraphone and percussion-centered arrangement was suitable for hotel lounges and bar spaces.
+ヴィブラフォンとパーカッション中心の編成は、ホテル・ラウンジやバー空間に適していた。
 
-In other words, if Baxter was ""film music exotica," Denny could be said to be ""spatial acoustic exotica."
+つまりBaxterが「映画音楽的エキゾチカ」なら、Dennyは「空間音響的エキゾチカ」だったとも言える。
 
 <div class="mermaid">
 graph TD
-A[Les Baxter] --> B[cinematic exotica]
-A --> C[large orchestra]
-D[Martin Denny] --> E[lounge type exotica]
-D --> F[Space production]
+A[Les Baxter] --> B[映画的エキゾチカ]
+A --> C[大編成オーケストラ]
+D[Martin Denny] --> E[ラウンジ型エキゾチカ]
+D --> F[空間演出]
 F --> G[lounge culture]
-F --> H[environmental music]
+F --> H[環境音楽]
 </div>
 
 > Martin Denny's music was not just music to listen to, but music to make you feel like you were there.
 
 ---
 
-## Sound structure analysis
+## サウンドの構造分析
 
-### Central device called vibraphone
+### ヴィブラフォンという中心装置
 
-One of the most distinctive features of Martin Denny's work is the vibraphone.
+Martin Denny作品の最大の特徴のひとつがヴィブラフォンである。
 
-The vibraphone is metallic yet soft and has a long aftertaste. Furthermore, the addition of fluctuations from the motor creates a fantastic floating feeling.
+ヴィブラフォンは金属的でありながら柔らかく、余韻が長い。さらにモーターによる揺らぎが加わることで、幻想的な浮遊感を生み出す。
 
-This instrument was extremely important in expressing the "humidity" of exotica.
+この楽器はエキゾチカの“湿度”を表現する上で極めて重要だった。
 
-In jazz, the vibraphone was often used for rhythm and improvisation, but Denny used it as a landscape-describing device.
+ジャズではリズムや即興性に使われることが多かったヴィブラフォンを、Dennyは風景描写装置として利用した。
 
-The performances by Arthur Lyman are particularly important, and Lyman himself later released many exotica works.
+特にArthur Lymanによる演奏は重要で、後にLyman自身もエキゾチカ作品を多数発表している。
 
-### Role of percussion
+### パーカッションの役割
 
-In Martin Denny's work, percussion plays a role that is more than just rhythm.
+Martin Dennyの作品では、打楽器が単なるリズム以上の役割を持つ。
 
-Bongos, congas, shakers, mokku style percussion instruments, etc. function as ""environmental sounds'' within the song.
+ボンゴ、コンガ、シェイカー、木魚風打楽器などが、楽曲内で“環境音”として機能しているのである。
 
-This idea was also relevant to later dub, ambient, and tribal house.
+これは後のダブ、アンビエント、トライバル・ハウスにも通じる発想だった。
 
-Instead of pushing the rhythm forward, let it blend into the space.
+リズムを前へ押し出すのではなく、空間へ溶け込ませる。
 
-This feeling has become an extremely important concept in modern electronic music.
+この感覚は現代電子音楽でも極めて重要な考え方になっている。
 
-### Silence music
+### 静けさの音楽
 
-When I listen to Martin Denny's work again, I realize that it is very "quiet music".
+Martin Denny作品を改めて聴くと、非常に“静かな音楽”であることに気づく。
 
-The tempo does not increase rapidly, the dynamics are relatively calm, and the number of notes is not too large.
+テンポは急激に上がらず、ダイナミクスも比較的穏やかで、音数も多すぎない。
 
-This was quite unique for 1950s pop music.
+これは1950年代ポップスとしてはかなり特殊だった。
 
 His music wasn't created to set the dance floor on fire, but to transport the listener to another world.
 
-This ""immersive listening'' is a concept that also applies to later ambient music.
+この「没入型リスニング」は、後のアンビエント・ミュージックにも通じる概念である。
 
 It can be said that Martin Denny was making "music that functions as a space" even before Brian Eno proposed it in the 1970s.
 
 <div class="mermaid">
 flowchart TD
-A[vibraphone] --> D[floating feeling]
-B[percussion] --> E[environmental soundization]
-C[Reverberation processing] --> F[Space production]
-D --> G[immersive feeling]
+A[ヴィブラフォン] --> D[浮遊感]
+B[パーカッション] --> E[環境音化]
+C[残響処理] --> F[空間演出]
+D --> G[没入感]
 E --> G
 F --> G
-G --> H[exotica sound]
+G --> H[エキゾチカ・サウンド]
 </div>
 
-> Martin Denny's innovation lay more in the way he placed sounds than in his playing techniques.
+> Martin Dennyの革新性は、“演奏技術”以上に“音の置き方”にあった。
 
 ---
 
-## The 1960s and changes in exotica
+## 1960年代とエキゾチカの変化
 
-### The arrival of the rock era
+### ロック時代の到来
 
-In the mid-1960s, the American music market underwent major changes.
+1960年代中盤に入ると、アメリカ音楽市場は大きく変化する。
 
-After the Beatles, rock became the center of youth culture, and exotica and lounge music gradually began to be seen as outdated.
+ビートルズ以降、ロックが若者文化の中心となり、エキゾチカやラウンジ音楽は徐々に時代遅れと見なされ始める。
 
-Martin Denny continued to perform, but was no longer achieving the huge commercial success that he had in the late 1950s.
+Martin Dennyも活動を続けていたが、1950年代後半ほどの巨大な商業的成功は得られなくなっていった。
 
-But his music hasn't completely disappeared.
+しかし彼の音楽は完全に消えたわけではない。
 
-Rather, it became established as "mood music" in TV programs, hotels, bars, commercial spaces, etc.
+むしろテレビ番組、ホテル、バー、商業空間などで“ムード音楽”として定着していく。
 
-### Redefining lounge music
+### ラウンジ音楽としての再定義
 
-Since the 1970s, the term "lounge" has often been treated as a neglected genre.
+1970年代以降、“ラウンジ”という言葉はしばしば軽視されるジャンルとして扱われた。
 
-However, in the 1990s, the situation changed.
+しかし1990年代に入ると状況が変わる。
 
-With the development of club culture and sampling culture, lounge music began to be reevaluated in the 1950s and 1960s.
+クラブカルチャーやサンプリング文化の発展によって、1950〜60年代ラウンジ音楽が再評価され始めたのである。
 
-In particular, Martin Denny's works were discovered in the context of what was called ""Space Age Pop" and ""Bachelor Pad Music."
+特に“Space Age Pop”や“Bachelor Pad Music”と呼ばれる文脈で、Martin Dennyの作品群が掘り起こされていった。
 
-For the younger generation, it was more than just a nostalgic melody.
+若い世代にとって、それは単なる懐メロではなかった。
 
-It resonated freshly as sound design from an era when people were dreaming of the future.
+未来を夢見ていた時代のサウンドデザインとして、新鮮に響いたのである。
 
 ### Connection with the sampling era
 
-In hip-hop and electronic music, ambient sounds and strange spatial effects are becoming more important.
+ヒップホップや電子音楽では、環境音的サウンドや奇妙な空間演出が重要視されるようになっていく。
 
 Martin Denny's work was highly compatible with these ears.
 
-His music was spatial without having too much information, and had a unique appeal as sampling material.
+彼の音楽は情報量が多すぎず、空間的で、サンプリング素材としても独特の魅力を持っていた。
 
-Particularly during the lounge reappraisal boom, exotica began to be perceived as both ""kitsch" and ""sophisticated acoustics."
+特にラウンジ再評価ブームの中で、エキゾチカは「キッチュ」であると同時に「洗練された音響」として認識され始める。
 
 <div class="mermaid">
 timeline
@@ -289,68 +289,68 @@ timeline
 2000年代 : 電子音楽文脈で再発見
 </div>
 
-> Exotica has not disappeared, but has begun to be heard again as a "futuristic past."
+> エキゾチカは消滅したのではなく、“未来的な過去”として再び聴かれるようになった。
 
 ---
 
-## Influence on contemporary music
+## 現代音楽への影響
 
-### Common points with ambient
+### アンビエントとの共通点
 
-In ambient music after Brian Eno, the idea of ​​""music that exists as an environment'' became important.
+Brian Eno以降のアンビエント音楽では、「環境として存在する音楽」という考え方が重要になる。
 
 Martin Denny is not an ambient writer. However, there was definitely a sense of connection to his later environmental music in his works.
 
-In particular, the following points are common.
+特に以下の点は共通している。
 
-* Create the entire space
-* Emphasize atmosphere over rhythm
-* Emphasis on acoustic placement
-* Can also be used as "background"
+* 空間全体を演出する
+* リズムより雰囲気を重視する
+* 音響配置を重要視する
+* “背景”としても成立する
 
-This is a feeling that is similar to modern Lo-fi Hip Hop and Chillout.
+これは現代のLo-fi Hip HopやChilloutにも通じる感覚である。
 
-### Unexpected connection with vaporwave
+### Vaporwaveとの意外な接点
 
-Since the 2010s, vaporwave has critically recycled 1980s-90s consumer culture.
+2010年代以降、Vaporwaveは1980〜90年代消費文化を批評的に再利用した。
 
-At first glance, it seems like they are far apart from Martin Denny, but they actually have a lot in common.
+一見するとMartin Dennyとは遠い存在に思えるが、実は共通点も多い。
 
 Both create an "idealized space" with sound.
 
-While Vaporwave dealt with the fantasy of shopping malls and corporate background music, Exotica dealt with the fantasy of 1950s-style resorts.
+Vaporwaveがショッピングモールや企業BGMの幻想を扱ったのに対し、エキゾチカは1950年代型リゾート幻想を扱っていた。
 
 In other words, both of them were making sounds of a ""dream product space'' rather than reality.
 
-### Impact on Japan
+### 日本への影響
 
-In Japan, lounge music and mood music culture began to spread since the 1960s.
+Lounge music and mood music culture began to spread in Japan from the 1960s onwards.
 
 Exotic sounds were often used especially in hotels, bars, and the tourism industry during the period of high economic growth.
 
-From the 1990s onwards, Martin Denny's work also attracted renewed attention amidst the reappraisal boom of Shibuya-kei and lounge styles.
+1990年代以降には渋谷系やラウンジ再評価ブームの中で、Martin Denny作品も再注目される。
 
-It is often pointed out that there is an indirect connection with Haruomi Hosono and other Japanese musicians who deal with environmental music and exotic sensations.
+細野晴臣をはじめ、環境音楽や異国感覚を扱う日本の音楽家たちとも間接的な接続が指摘されることが多い。
 
 <div class="mermaid">
 graph TD
 A[Martin Denny] --> B[lounge]
-A --> C[ambient]
+A --> C[アンビエント]
 A --> D[Chillout]
 A --> E[Vaporwave]
 A --> F[Lo-fi Hip Hop]
 A --> G[environmental music]
 </div>
 
-> Martin Denny's music did not end up as "past entertainment", but was quietly inherited by contemporary spatial music.
+> Martin Denny's music did not end up as "past entertainment", but was quietly passed on to modern spatial music.
 
 ---
 
-## Martin Denny
+## The existence of Martin Denny
 
 ### More than just a musician
 
-Martin Denny was more than just a pianist.
+Martin Dennyは単なるピアニストではなかった。
 
 He was a person who created ""music that creates an entire lifestyle.''
 
@@ -364,19 +364,19 @@ This is because modern playlist culture is also "music that designs space and mo
 
 ### Cultural Reappraisal
 
-In the past, exotica was often considered "light entertainment music."
+かつてエキゾチカは「軽い娯楽音楽」と見なされることも多かった。
 
 However, since the 21st century, its acoustic experimentation and space design abilities have been evaluated anew.
 
 At the same time, the cultural problems associated with exotica are also being discussed.
 
-There are certainly aspects of foreign culture that have been simplified and transformed into consumable images.
+異国文化を単純化し、消費可能なイメージへ変換した側面は確かに存在する。
 
-However, for all its complexity, exotica has become an important source for understanding postwar American culture.
+ただ、その複雑さも含めて、エキゾチカは戦後アメリカ文化を理解する重要な資料になっている。
 
 Martin Denny's works are not only "dream music" but also "records of the desires of the times."
 
-### Late life and legacy
+### 晩年と遺産
 
 Martin Denny continued to perform until the end of his life.
 
@@ -388,12 +388,12 @@ And now, exotica is not just a retro hobby, but is being rediscovered as the ""p
 
 <div class="mermaid">
 flowchart TD
-A[Martin Denny] --> B[exotica]
+A[Martin Denny] --> B[エキゾチカ]
 B --> C[lounge culture]
-C --> D[spatial performance music]
+C --> D[空間演出型音楽]
 D --> E[ambient]
 D --> F[Chillout]
-D --> G[modern sound design]
+D --> G[現代サウンドデザイン]
 </div>
 
 > Martin Denny's greatest legacy was the very idea of ​​""creating landscapes with music.''
@@ -402,19 +402,19 @@ D --> G[modern sound design]
 
 ## Chronology
 
-| Year | Events |
+| 年        | 出来事                 |
 | -------- | --------------------- |
 | 1911 | Born in New York |
 | 1930s | Begins as a jazz pianist |
 | 1940s | Assigned to the South Pacific region during World War II |
-| After the war | Move to Hawaii |
-| Early 1950s | Lounge performances in Honolulu |
-| 1957 | "Exotica" announced |
+| 戦後       | ハワイへ移住              |
+| 1950年代前半 | ホノルルでラウンジ演奏を展開      |
+| 1957     | 『Exotica』発表         |
 | 1959 | "Quiet Village" is a hit |
-| 1960s | Exotica boom expands |
+| 1960年代   | エキゾチカ・ブーム拡大         |
 | 1970s | Established as lounge/mood music |
-| 1990s | Renewed attention due to lounge reappraisal boom |
-| 2005 | Passed away |
+| 1990年代   | ラウンジ再評価ブームで再注目      |
+| 2005     | 死去                  |
 
 ---
 
@@ -422,11 +422,11 @@ D --> G[modern sound design]
 
 ### "Exotica" (1957)
 
-A masterpiece that defined the name of the exotica genre. A historic album that combines bird calls, vibraphone, and spatial percussion.
+エキゾチカというジャンル名を決定づけた代表作。鳥の鳴き声、ヴィブラフォン、空間的パーカッションが融合した歴史的アルバム。
 
-### "Forbidden Island" (1958)
+### 『Forbidden Island』（1958）
 
-A work with more mystery. It emphasizes not only the fantasy of a tropical land, but also the sense of being in an "uncharted land."
+より神秘性を強めた作品。南国幻想だけでなく、“未知の土地”という感覚が強調されている。
 
 ### "Quiet Village"
 
@@ -436,19 +436,19 @@ Martin Denny's biggest signature song. It is still passed down as a song that sy
 
 ---
 
-## Why is it still listened to today?
+## なぜ今も聴かれるのか
 
-### Charm that"s not just about nostalgia
+### ノスタルジアだけではない魅力
 
-Martin Denny's work remains more than just a retro hobby.
+Martin Denny作品は、単なるレトロ趣味として残っているわけではない。
 
-One of the reasons why modern people are attracted to his music is because of the lack of information.
+現代人が彼の音楽に惹かれる理由のひとつは、「情報量の少なさ」にある。
 
-In today"s world where we are constantly bombarded with information, Denny"s music has a huge amount of space.
+常に大量の情報が流れ込む現代において、Dennyの音楽は極めて余白が大きい。
 
-The blank space gives the listener space for imagination.
+その余白が、聴き手に想像の空間を与える。
 
-In other words, his work feels more like ""experiencing the atmosphere" than ""listening to music."
+つまり彼の作品は、“音楽を聴く”というより、“空気を体験する”感覚に近いのである。
 
 ### Exotica in the digital age
 
@@ -458,20 +458,20 @@ However, Martin Denny's albums still function as "works that create a space on a
 
 This is a different kind of immersive experience than playlist culture.
 
-It also has a high affinity with contemporary listening culture such as ASMR, ambient music, Chillout, and Lo-fi.
+また、ASMR、環境音楽、Chillout、Lo-fiなど、現代リスニング文化との親和性も高い。
 
 As a result, exotica continues to be rediscovered not as a relic of the past, but as ""quiet music of the future.''
 
 <div class="mermaid">
 graph TD
-A[1950s exotica] --> B[lounge]
-B --> C[ambient]
+A[1950s exotica] --> B[ラウンジ]
+B --> C[アンビエント]
 C --> D[Chillout]
 D --> E[Lo-fi]
 E --> F[spatial listening culture]
 </div>
 
-> Martin Denny's music expressed not only a "longing for distant countries" but also a "longing for quiet time."
+> Martin Dennyの音楽は、“遠い国への憧れ”だけでなく、“静かな時間への憧れ”まで表現していた。
 
 
 

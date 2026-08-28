@@ -12,7 +12,7 @@ title: Lennie De Ice – We Are I.E. (Part 1 of 2)
 ---
 
 
-"We Are I.E." is a song by British breakbeat and hardcore producer Lennie De Ice (real name Lenworth Green).
+「We Are I.E.」は、イギリスのブレイクビート&ハードコアプロデューサー、Lennie De Ice(レニー・デ・アイス　本名レンワース・グリーン)の楽曲です。
 
 #### Tracklist
 ```md

@@ -9,34 +9,34 @@ layout: post
 tags:
 - Experimental
 - Post Rock
-title: '[Column] Jim O''Rourke - A musician who melted boundaries'
+title: 【コラム】 Jim O'Rourke ― 境界線を溶かした音楽家
 ---
 
 
-## A musician who continued to defy boundaries
+## 境界を拒み続けた音楽家
 
-Text: mmr｜Theme: Noise, folk, electronic acoustics, pop. Follow the path of Jim O'Rourke, who traversed all of them while charting his own musical map.
+文：mmr｜テーマ：ノイズ、フォーク、電子音響、ポップ。そのすべてを横断しながら独自の音楽地図を描いたJim O'Rourkeの軌跡を辿る
 
-Looking back at the history of experimental music since the 1980s, there have been many musicians who have transcended genres. However, among them, there are few who have made the concept of musical genre as ambiguous as Jim O'Rourke.
+1980年代以降の実験音楽史を振り返ると、ジャンルを飛び越える音楽家は数多く存在した。しかし、その中でもJim O'Rourkeほど「音楽ジャンルという概念そのもの」を曖昧にした人物は少ない。
 
-People who hear his work for the first time are confused.
+彼の作品を初めて聴いた人は混乱する。
 
-One album has beautiful acoustic pop music. In the next piece, metallic sounds and feedback continue for several minutes. In other works, a repetitive structure similar to minimal music appears, and in other works, improvised noise explodes.
+あるアルバムでは美しいアコースティック・ポップが鳴っている。次の作品では金属音とフィードバックが数十分続く。さらに別作品ではミニマル音楽のような反復構造が現れ、別名義では即興ノイズが爆発する。
 
-Yet, strangely, there is a Jim O'Rourke-like quality to each of his works.
+それでも不思議なことに、どの作品にもJim O'Rourkeらしさがある。
 
-His career has been built not on a sense of unity but on transversality. Rock, electroacoustic, improvisation, contemporary music, folk, jazz, minimal, noise. Musical cultures that would normally be divided existed simultaneously for him.
+彼のキャリアは「統一感」ではなく、「横断性」によって成立している。ロック、電子音響、即興、現代音楽、フォーク、ジャズ、ミニマル、ノイズ。普通なら分断されるはずの音楽文化が、彼の中では同時に存在していた。
 
-Born in Chicago, USA in 1969, Jim O'Rourke had a strong interest in experimental music from a young age. He was particularly interested in free improvisation and 20th century contemporary music, and had a different sensibility than just a rock boy.
+1969年、アメリカ・シカゴで生まれたJim O'Rourkeは、若い頃から実験音楽へ強い関心を持っていた。特にフリー・インプロヴィゼーションや20世紀現代音楽への傾倒は早く、単なるロック少年とは異なる感覚を持っていた。
 
-His areas of influence are extremely wide.
+彼が影響を受けた領域は極端に広い。
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -48,65 +48,65 @@ color: #fff;
 ---
 
 
-### Main sources of influence
+### 主な影響源
 
-- free jazz
-- musique concrète
-- contemporary music
-- 1970s singer-songwriter
-- noise
-- Krautrock
-- American Primitive Guitar
-- Chicago Acoustic School
-- movie music
-- electronic sound
+- フリージャズ
+- ミュージック・コンクレート
+- 現代音楽
+- 1970年代シンガーソングライター
+- ノイズ
+- クラウトロック
+- アメリカン・プリミティヴ・ギター
+- シカゴ音響派
+- 映画音楽
+- 電子音響
 
 <div class="mermaid">
 graph TD
-A[modern music] --> D[Jim O'Rourke]
-B[noise] --> D
-C[fork] --> D
-E[improvised music] --> D
-F[electronic sound] --> D
-G[pop] --> D
-H[minimal music] --> D
+A[現代音楽] --> D[Jim O'Rourke]
+B[ノイズ] --> D
+C[フォーク] --> D
+E[即興音楽] --> D
+F[電子音響] --> D
+G[ポップ] --> D
+H[ミニマル音楽] --> D
 </div>
 
-From the beginning, he showed no interest in "being faithful to the genre." Rather, he was fascinated by the sense of discomfort that arises the moment musical cultures come into contact with each other.
+彼は初期から「ジャンルに忠実であること」に興味を示さなかった。むしろ、音楽文化同士が接触した瞬間に生まれる違和感へ魅了されていた。
 
-From the late 1980s to the early 1990s, the American underground music scene was experiencing an expanding spirit of experimentation beyond hardcore. This was also the time when the term post-rock began to appear.
+1980年代末から1990年代初頭にかけ、アメリカ地下音楽シーンではハードコア以降の実験精神が拡張していた。ポストロックという言葉が登場し始めた時代でもある。
 
-In this atmosphere, Jim O'Rourke became more than just a guitarist or producer, he became something like an ""editor''.
+その空気の中でJim O'Rourkeは単なるギタリストやプロデューサーではなく、「編集者」のような存在になっていく。
 
-He doesn't just play music.
+彼は音を演奏するだけではない。
 
-Music history itself was being rearranged.
+音楽史そのものを再配置していた。
 
-> Jim O"Rourke"s greatest characteristic was his attitude of creating music based on connections rather than genres.
+> ジャンルではなく“接続”によって音楽を作る姿勢こそが、Jim O'Rourke最大の特徴だった。
 
 ---
 
-## Chicago underground music and early activities
+## シカゴ地下音楽と初期活動
 
-Chicago in the 1990s was a pivotal point in the history of American experimental music.
+1990年代のシカゴは、アメリカ実験音楽史の重要地点だった。
 
-A unique cultural zone was forming, different from New York's no-wave and West Coast noise. There, rock and contemporary music, improvisation, and electronic sound mixed naturally.
+ニューヨークのノーウェイヴとも、西海岸ノイズとも異なる独特の文化圏が形成されていた。そこではロックと現代音楽、即興演奏、電子音響が自然に混ざり合っていた。
 
-Jim O'Rourke was at the center of it all.
+Jim O'Rourkeはその中心にいた。
 
-Particularly important were the activities at Gastr del Sol.
+特に重要だったのが、Gastr del Solでの活動である。
 
-Gastr del Sol, known as the unit with David Grubbs, was extremely different from the alternative rock context of the time.
+David Grubbsとのユニットとして知られるGastr del Solは、当時のオルタナティヴ・ロック文脈の中でも極端に異質だった。
 
-The song suddenly stops.
+楽曲は突然停止する。
 
-The melody falls apart in the middle.
+メロディは途中で崩壊する。
 
-The silence continues for a long time.
+静寂が長く続く。
 
-Acoustic instruments and noise coexist.
+アコースティック楽器とノイズが同居する。
 
-They deliberately incorporated structures into their work that normal rock bands would avoid.
+通常のロックバンドなら避けるような構造を、彼らは意図的に作品へ組み込んでいた。
 
 <div class="mermaid">
 timeline
@@ -118,239 +118,239 @@ timeline
     1997 : Drag City作品群で注目
 </div>
 
-Back then, Jim O'Rourke was more than just an "avant-garde musician."
+当時のJim O'Rourkeは、単なる「前衛音楽家」ではなかった。
 
-He also had a very good pop sensibility.
+彼は同時に非常にポップ感覚に優れていた。
 
-While creating noise music, he also loved 1970s soft rock. He understood the arrangement sensibilities of Van Dyke Parks and Burt Bacharach, and treated them in the same light as experimental music.
+ノイズ作品を作りながら、1970年代のソフトロックも愛していた。Van Dyke ParksやBurt Bacharach的なアレンジ感覚を理解し、それを実験音楽と同じ目線で扱っていた。
 
-This feeling was directly connected to his later masterpieces.
+この感覚は後の代表作に直結していく。
 
-He was also a very good recording engineer.
+また、彼は非常に優れた録音エンジニアでもあった。
 
-In the 1990s, lo-fi recording became a popular aesthetic in indie music. However, Jim O'Rourke placed more emphasis on "sound placement" than mere roughness.
+1990年代インディー音楽では、ローファイ録音が美学として広がっていた。しかしJim O'Rourkeは単なる粗さではなく、「音の配置」を重視した。
 
-small noise.
+小さなノイズ。
 
-The room rang.
+部屋鳴り。
 
-Spatial reverberation.
+空間残響。
 
-microphone distance.
+マイク距離。
 
-silence.
+沈黙。
 
-He thought of music not as a "performance" but as a "space design."
+彼は音楽を“演奏”としてではなく、“空間設計”として考えていた。
 
-This feeling greatly influenced his later production work.
+この感覚が、後のプロデュース業にも大きく影響していく。
 
-> Jim O"Rourke wasn"t just composing music, he was composing the sonic space itself.
+> Jim O'Rourkeは楽曲だけでなく、音の空間そのものを作曲していた。
 
 ---
 
-## The image of "experimental music" changed by solo works
+## ソロ作品が変えた“実験音楽”のイメージ
 
-In the late 1990s, Jim O'Rourke achieved great acclaim for his solo work.
+1990年代後半、Jim O'Rourkeはソロ作品で大きな評価を得る。
 
-In particular, ""Bad Timing," ""Eureka," and ""Insignificance'' are often talked about as his masterpieces.
+特に『Bad Timing』『Eureka』『Insignificance』は、彼の代表作として語られることが多い。
 
-The reason these works were groundbreaking was that they were ""experimental music, but easy to listen to.''
+これらの作品が画期的だった理由は、「実験音楽なのに聴きやすい」ことだった。
 
-Traditionally, avant-garde music has tended to be associated with esotericism. However, Jim O'Rourke created beautiful melodies and complex structures at the same time.
+従来、前衛音楽は難解さと結びつけられやすかった。しかしJim O'Rourkeは、美しいメロディと複雑な構造を同時成立させた。
 
-### Representative solo works
+### 代表的ソロ作品
 
-| Year | Works | Features |
+| 年 | 作品 | 特徴 |
 |---|---|---|
-| 1997 | Bad Timing | Long guitar-based composition |
-| 1999 | Eureka | Chamber music pop |
-| 2001 | Insignificance | A masterpiece with a strong rock flavor |
-| 2009 | The Visitor | A traveling piece composed of one song |
+| 1997 | Bad Timing | ギター主体の長編構成 |
+| 1999 | Eureka | 室内楽的ポップ |
+| 2001 | Insignificance | ロック色の強い傑作 |
+| 2009 | The Visitor | 一曲構成による旅的作品 |
 
-""Bad Timing'' inherits the flow of American primitive guitar, but develops like film music.
+『Bad Timing』では、アメリカン・プリミティヴ・ギターの流れを継承しながら、映画音楽のような展開が現れる。
 
-In ""Eureka,'' he used strings and woodwind instruments to create an acoustic world that could be called the pinnacle of chamber music pop.
+『Eureka』ではストリングスや木管楽器を用い、室内楽ポップの極致ともいえる音響世界を作り出した。
 
-""Insignificance'' has a stronger rock tone and is highly popular as his song work.
+『Insignificance』ではよりロック色が強まり、彼の歌もの作品として高い人気を持つ。
 
 <div class="mermaid">
 graph TD
-A[Bad Timing] --> B[fork]
-A --> C[minimal]
-A --> D[movie music]
+A[Bad Timing] --> B[フォーク]
+A --> C[ミニマル]
+A --> D[映画音楽]
 
-E[Eureka] --> F[chamber music]
-E --> G[soft lock]
-E --> H[experimental acoustics]
+E[Eureka] --> F[室内楽]
+E --> G[ソフトロック]
+E --> H[実験音響]
 
-I[Insignificance] --> J[Alternative]
-I --> K[pop]
-I --> L[noise]
+I[Insignificance] --> J[オルタナ]
+I --> K[ポップ]
+I --> L[ノイズ]
 </div>
 
-His solo works have something in common.
+彼のソロ作品には共通点がある。
 
-It is "beauty on the verge of collapse."
+それは「崩壊寸前の美しさ」だ。
 
-It's not perfect pop music.
+完璧に整ったポップスではない。
 
-Noise gets in.
+ノイズが入り込む。
 
-The development suddenly changes.
+突然展開が変わる。
 
-There was a long silence.
+静寂が長い。
 
-However, this instability creates strong emotions.
+しかし、その不安定さが逆に強烈な感情を生む。
 
-Jim O'Rourke proves that "experimentation" and "emotion" are not at odds.
+Jim O'Rourkeは「実験性」と「感情」が対立しないことを証明した。
 
-This had a huge influence on later indie music.
+これは後のインディー音楽に極めて大きな影響を与える。
 
-Since the 2000s, many artists have begun to engage in "quiet experimentation," and Jim O'Rourke is certainly at the root of this.
+2000年代以降、多くのアーティストが“静かな実験性”を扱うようになるが、その源流の一部には確実にJim O'Rourkeが存在している。
 
->His music was not difficult to understand, but "complex yet emotional."
+> 彼の音楽は難解なのではなく、“複雑なのに感情的”だった。
 
 ---
 
-## Joining up with Sonic Youth
+## Sonic Youthとの合流
 
-In 1999, Jim O'Rourke officially joined Sonic Youth.
+1999年、Jim O'RourkeはSonic Youthに正式加入する。
 
-This surprised many music fans at the time.
+これは当時、多くの音楽ファンを驚かせた。
 
-Because Sonic Youth was already a complete and legendary band.
+なぜならSonic Youthはすでに完成された伝説的バンドだったからだ。
 
-But in reality, the feelings between the two were very close.
+しかし実際には、両者の感覚は非常に近かった。
 
-Sonic Youth brought noise and rock together, and Jim O'Rourke was another boundary-breaking musician.
+Sonic Youthはノイズとロックを結びつけた存在であり、Jim O'Rourkeもまた境界を崩す音楽家だった。
 
-He functioned more as a "structural coordinator" than a guitarist.
+彼はギタリストというより、“構造調整役”として機能した。
 
-After joining Sonic Youth, the sound arrangement and composition sense of the songs changed significantly.
+加入後のSonic Youth作品では、音響整理や構成感覚が大きく変化する。
 
-### Main works during the participation period
+### 参加期の主な作品
 
 - NYC Ghosts & Flowers
 - Murray Street
--Sonic Nurse
--Rather Ripped
+- Sonic Nurse
+- Rather Ripped
 
-""Murray Street'' in particular received high praise.
+特に『Murray Street』は高い評価を受けた。
 
-While retaining the violence of a noise band, the space had become more expansive and quiet.
+ノイズバンドとしての暴力性を残しながら、空間的広がりと静けさが増していた。
 
 <div class="mermaid">
 flowchart TD
-A[noise] --> D[Murray Street]
-B[improvisational nature] --> D
-C[space design] --> D
-E[melody] --> D
+A[ノイズ] --> D[Murray Street]
+B[即興性] --> D
+C[空間設計] --> D
+E[メロディ] --> D
 </div>
 
-It is said that Sonic Youth, when Jim O'Rourke joined, not only achieved "destruction" but also gained "white space".
+Jim O'Rourke加入期のSonic Youthは、「破壊」だけではなく「余白」を獲得したとも言われる。
 
-He was also the acoustic translator between members.
+また彼は、メンバー間の音響的翻訳者でもあった。
 
-He had an extremely high ability to create a recorded work without sacrificing the band's improvisational nature.
+バンドの即興性を損なわず、録音作品として成立させる能力が極めて高かった。
 
-Therefore, his presence was more than just an additional member.
+そのため、彼の存在は単なる追加メンバー以上の意味を持っていた。
 
-> Jim O'Rourke gave Sonic Youth "breathing" rather than "organizing" them.
+> Jim O'RourkeはSonic Youthに“整理”ではなく、“呼吸”を与えた。
 
 ---
 
-## Unusual flexibility as a producer
+## プロデューサーとしての異常な柔軟性
 
-When talking about Jim O'Rourke, the production industry cannot be avoided.
+Jim O'Rourkeを語るうえで、プロデュース業は避けて通れない。
 
-He is involved in a wide range of works.
+彼は非常に幅広い作品へ関与している。
 
-Moreover, none of them sound the same.
+しかも、そのどれもが同じ音にならない。
 
-Producers with strong individuality usually give their works their own unique color. But Jim O'Rourke was the opposite.
+普通、強い個性を持つプロデューサーは作品を“自分色”へ染める。しかしJim O'Rourkeは逆だった。
 
-He brings out the artist's unique texture.
+彼はアーティスト固有の質感を引き出す。
 
-### Main artists involved
+### 主な関与アーティスト
 
-| Artist | Main Features |
+| アーティスト | 主な特徴 |
 |---|---|
-| Sonic Youth | Noise Rock |
-| Wilco | Alternative Country |
-| Stereolab | Experimental Pop |
-| Smog | Lo-fi folk |
-| Joanna Newsom | Chamber Folk |
+| Sonic Youth | ノイズロック |
+| Wilco | オルタナティヴ・カントリー |
+| Stereolab | 実験ポップ |
+| Smog | ローファイ・フォーク |
+| Joanna Newsom | 室内楽的フォーク |
 
-In particular, Wilco's involvement around Yankee Hotel Foxtrot was important.
+特にWilco『Yankee Hotel Foxtrot』周辺での関与は重要だった。
 
-Indie rock since the 2000s has evolved in a more acoustic direction than before. One of the turning points was the Jim O'Rourke-like sensibility.
+2000年代以降のインディーロックは、従来より音響的な方向へ進化していく。その転換点のひとつに、Jim O'Rourke的な感覚が存在していた。
 
-He doesn't make "beautiful recordings" but rather "arranges sounds with meaning."
+彼は「綺麗な録音」ではなく、「意味のある音配置」を行う。
 
-Even noise has meaning.
+ノイズにも意味がある。
 
-Even the blank spaces have meaning.
+余白にも意味がある。
 
-Localization also has meaning.
+定位にも意味がある。
 
-Even silence has meaning.
+沈黙にも意味がある。
 
-This felt similar to film editing.
+これは映画編集に近い感覚だった。
 
 <div class="mermaid">
 graph TD
-A[recording] --> E[space]
-B[silence] --> E
-C[noise] --> E
-D[Localization] --> E
-E --> F[emotion design]
+A[録音] --> E[空間]
+B[沈黙] --> E
+C[ノイズ] --> E
+D[定位] --> E
+E --> F[感情設計]
 </div>
 
-As a result, his production work is not flashy.
+そのため、彼のプロデュース作品は派手ではない。
 
-However, if you listen to it repeatedly, it has an unusual depth to it.
+しかし繰り返し聴くと、異常な奥行きがある。
 
-> Jim O"Rourke didn"t just "add sounds," he placed the "meanings of the sounds."
+> Jim O'Rourkeは“音を足す”のではなく、“音の意味”を配置していた。
 
 ---
 
-## Immigration to Japan and quiet later activities
+## 日本移住と静かな後期活動
 
-Since the late 2000s, Jim O'Rourke has moved to Japan.
+2000年代後半以降、Jim O'Rourkeは日本へ拠点を移す。
 
-Since then, his activities have become quieter and more introspective.
+以降、彼の活動はより静かで内省的になっていく。
 
-Although large-scale media exposure has decreased, the amount of creation has actually increased.
+大規模メディア露出は減少したが、創作量はむしろ増えている。
 
-Improvisation.
+即興。
 
-electronic sound.
+電子音響。
 
-collaboration.
+コラボレーション。
 
-movie music.
+映画音楽。
 
-Archive work.
+アーカイブ作業。
 
-Supervision of recurrence.
+再発監修。
 
-He became more of an ""acoustic researcher'' than a star on the public stage.
+彼は表舞台のスターというより、“音響研究者”に近い存在になっていった。
 
-His works after moving to Japan have a unique tranquility to them.
+日本移住後の作品には、特有の静けさがある。
 
-urban noise.
+都市ノイズ。
 
-A feeling of air.
+空気感。
 
-Time has passed.
+時間経過。
 
-Microscopic repetition.
+微細な反復。
 
-These things are appearing more strongly than before.
+これらが以前より強く表れている。
 
 <div class="mermaid">
 mindmap
-  root((After moving to Japan))
+  root((日本移住後))
     即興
     電子音響
     静寂
@@ -359,112 +359,121 @@ mindmap
     コラボレーション
 </div>
 
-Also important was the connection with Japan's experimental music culture.
+また、日本の実験音楽文化との接続も重要だった。
 
-Japan has long had a unique culture of improvisation, noise, and electronic sound. Jim O'Rourke is deeply integrated into it.
+日本には以前から即興・ノイズ・電子音響の独自文化が存在していた。Jim O'Rourkeはそこへ深く溶け込んでいく。
 
-His activities were more like participating in a transnational acoustic community than ""American musicians coming to Japan.''
+彼の活動は「アメリカ人音楽家の来日」というより、国境を超えた音響共同体への参加に近かった。
 
-> After immigrating to Japan, Jim O'Rourke moved from "focusing on the work" to "centering on the sound itself."
+> 日本移住後のJim O'Rourkeは、“作品中心”から“音そのもの中心”へさらに接近していった。
 
 ---
 
-## Jim O"Rourke"s legacy
+## Jim O'Rourkeが残したもの
 
-It is difficult to simply summarize Jim O"Rourke"s accomplishments.
+Jim O'Rourkeの功績を単純にまとめることは難しい。
 
-He's not a hero of any particular genre.
+彼は特定ジャンルの英雄ではない。
 
-I'm not a rock person either.
+ロックの人でもない。
 
-I'm not a noise person either.
+ノイズの人でもない。
 
-I'm not even a pop writer.
+ポップ作家でもない。
 
-But at the same time, it's all of those things.
+しかし同時に、その全部でもある。
 
-His greatest achievement was that he did not end up ""crossing genres'' with mere omnivorousness.
+彼の最大の功績は、「ジャンル横断」を単なる雑食性で終わらせなかったことだ。
 
-Many musicians listen to multiple genres.
+多くの音楽家が複数ジャンルを聴く。
 
-But Jim O'Rourke treated them in the same light.
+しかしJim O'Rourkeは、それらを同じ視点で扱った。
 
-Noise and pop were equal.
+ノイズもポップも対等だった。
 
-Improvisation and melody were equal.
+即興もメロディも対等だった。
 
-Both electronic and acoustic sounds were equal.
+電子音もアコースティックも対等だった。
 
-That feeling is extremely compatible with the current music environment.
+その感覚は現在の音楽環境と極めて相性が良い。
 
-Nowadays, thanks to Spotify and YouTube, genre boundaries are becoming more blurred than before. In playlist culture, different types of music naturally line up.
+現代ではSpotifyやYouTubeによって、ジャンル境界は以前より曖昧になっている。プレイリスト文化の中では、異なる音楽が自然に並ぶ。
 
-But Jim O'Rourke has been practicing that sensibility since the 1990s.
+しかしJim O'Rourkeは、その感覚を1990年代から実践していた。
 
 <div class="mermaid">
 graph TD
-A[rock] --> E[Crossing genres]
-B[noise] --> E
-C[fork] --> E
-D[electronic sound] --> E
-E --> F[modern listening sense]
+A[ロック] --> E[ジャンル横断]
+B[ノイズ] --> E
+C[フォーク] --> E
+D[電子音響] --> E
+E --> F[現代的リスニング感覚]
 </div>
 
-That"s why his works still don"t get old.
+だからこそ、彼の作品は今でも古びにくい。
 
-This is because the book deals not with trends, but with the possibilities of hearing itself.
+流行ではなく、「聴覚そのものの可能性」を扱っているからだ。
 
-Jim O'Rourke was a musician, editor, recordist, and critic.
+Jim O'Rourkeは音楽家であり、編集者であり、録音家であり、批評家でもあった。
 
-Above all, he was a person who continued to doubt the walls of ""music genres''.
+そして何より、「音楽ジャンル」という壁を疑い続けた人物だった。
 
-> Jim O"Rourke"s body of work continues to prove that "music is about connection, not classification."
+> Jim O'Rourkeの作品群は、“音楽とは分類ではなく接続である”ことを証明し続けている。
 
 ---
 
-## Chronology
+## 年表
 
-| Year | Events |
+| 年 | 出来事 |
 |---|---|
-| 1969 | Born in Chicago, USA |
-| 1980s | Start of experimental music activities |
-| 1991 | Gastr del Sol participation |
-| 1995 | Full-scale production activities |
-| 1997 | "Bad Timing" announced |
-| 1999 | "Eureka" announced |
-| 1999 | Joined Sonic Youth |
-| 2001 | "Insignificance" announced |
-| Late 2000s | Moved to Japan |
-| 2009 | "The Visitor" announced |
-| After 2010s | Shift to improvisation and electronic acoustics |
+| 1969 | アメリカ・シカゴ生まれ |
+| 1980年代 | 実験音楽活動開始 |
+| 1991 | Gastr del Sol参加 |
+| 1995 | プロデュース活動本格化 |
+| 1997 | 『Bad Timing』発表 |
+| 1999 | 『Eureka』発表 |
+| 1999 | Sonic Youth加入 |
+| 2001 | 『Insignificance』発表 |
+| 2000年代後半 | 日本へ移住 |
+| 2009 | 『The Visitor』発表 |
+| 2010年代以降 | 即興・電子音響中心へ移行 |
 
 ---
 
-## Discography notable works
+## ディスコグラフィ注目作
 
-| Works | Publication year | Features |
+| 作品 | 発表年 | 特徴 |
 |---|---|---|
-| Disengage | 1992 | Early experimental acoustics |
-| Bad Timing | 1997 | Long guitar work |
-| Eureka | 1999 | Chamber Music Pop |
-| Insignificance | 2001 | A masterpiece with a strong rock flavor |
-| The Visitor | 2009 | A traveling piece composed of one song |
+| Disengage | 1992 | 初期実験音響 |
+| Bad Timing | 1997 | 長編ギター作品 |
+| Eureka | 1999 | 室内楽ポップ |
+| Insignificance | 2001 | ロック色の強い代表作 |
+| The Visitor | 2009 | 一曲構成による旅的作品 |
 
 ---
 
-## Related People/Related Culture
+## 関連人物・関連文化
 
--David Grubbs
--Sonic Youth
+- David Grubbs
+- Sonic Youth
 - Wilco
 - Chicago Underground
-- post lock
-- electronic sound
-- improvisational music
-- minimal music
-- No Wave
-- Krautrock
+- ポストロック
+- 電子音響
+- 即興音楽
+- ミニマル音楽
+- ノーウェイヴ
+- クラウトロック
 
-> To understand Jim O'Rourke is to decipher the entire map of experimental music since the 1980s.
+> Jim O'Rourkeを理解することは、1980年代以降の実験音楽地図そのものを読み解くことでもある。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HG9-5cGsWj8?si=pvgUmxiCNLxY2GfW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

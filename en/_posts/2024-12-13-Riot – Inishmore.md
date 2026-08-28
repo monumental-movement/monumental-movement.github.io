@@ -13,7 +13,7 @@ title: Riot – Inishmore
 ---
 
 
-"Inishmore" is the 10th studio album by the American hard rock/heavy metal band Riot, which was released in Japan in 1997. This album is based on the sagas of Celtic and Irish mythology. The 12th track is a bonus track only available on the Japanese version. The members at the time of release were Mike DiMeo, Mark Reale, Mike Flyntz, Pete Perez, and Bobby Jarzombek.
+「Inishmore」は、1997年に日本で先行発売されたアメリカのハードロック/ヘヴィメタルバンドRiot(ライオット)の10枚目のスタジオアルバム。このアルバムは、ケルト神話とアイルランド神話のサガをコンセプトとしている。12曲目は日本盤のみのボーナストラック。リリース当時のメンバーはMike DiMeo、Mark Reale、Mike Flyntz、Pete Perez、Bobby Jarzombek。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ title: Riot – Inishmore
 12. Danny Boy
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m31654204481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31654204481?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ytxAvA9ad48?si=dv6gN-nB9O3A00j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

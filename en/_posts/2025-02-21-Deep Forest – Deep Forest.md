@@ -14,9 +14,9 @@ title: Deep Forest – Deep Forest
 ---
 
 
-Deep Forest is a duo formed in 1992 by Michel Sanchez and Éric Mouquet. It is characterized by a world music style called ethnic electronica, which is a mix of ethnic, electronic, dance beats, and chillout beats.
+Deep Forestは、1992年にMichel Sanchez(ミシェル・サンチェーズ)とÉric Mouquet(エリック・ムーケ)によって結成されたデュオ。エスニック、エレクトロニック、ダンス・ビート、チルアウト・ビートをミックスした、エスニック・エレクトロニカと呼ばれるワールド・ミュージックのスタイルが特徴。
 
-Released in 1992, the album was nominated for a Grammy Award and "Sweet Lullaby" became a worldwide hit.
+1992年にリリースされたこのアルバムは、グラミー賞のノミネートされ、「Sweet Lullaby」は世界的な大ヒットとなった。
 
 
 #### Tracklist
@@ -33,7 +33,7 @@ Released in 1992, the album was nominated for a Grammy Award and "Sweet Lullaby"
 10. Sweet Lullaby (Ambient Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

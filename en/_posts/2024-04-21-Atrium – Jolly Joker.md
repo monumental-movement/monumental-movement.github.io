@@ -13,7 +13,7 @@ title: Atrium – Jolly Joker
 ---
 
 
-Atrium is an Italo disco/Eurobeat project.
+Atrium(アトリウム)は、イタロ・ディスコ/ユーロビート・プロジェクト。
 
 The vocals have changed over the years, and Jolly Joker is the only song sung by Giancarlo Pasquini as Atrium.
 

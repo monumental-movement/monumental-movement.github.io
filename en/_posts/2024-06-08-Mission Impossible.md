@@ -14,9 +14,9 @@ title: 'Adam Clayton & Larry Mullen – Theme From Mission: Impossible'
 ---
 
 
-Cassette tape of the theme song for the movie "Mission: Impossible" by U2 members Adam Clayton and Larry Mullen, released in 1996.
+1996年にリリースされた、U2のメンバーAdam Clayton（アダム クレイトン）とLarry Mullen（ラリー マレン ）による映画「ミッション: インポッシブル」の テーマ曲カセットテープ。
 
-The B-side is a remix by US house DJ Junior Vasquez.
+B面はUSのハウスDJ Junior Vasquez（ジュニア・ヴァスケス）によるremix。
 
 #### Tracklist
 ```md

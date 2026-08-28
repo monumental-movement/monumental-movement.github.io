@@ -9,13 +9,13 @@ permalink: /zh-hant/various-pride-99-sampler/
 tags:
 - Sample
 - Rare
-title: 各種 – Pride '99 採樣器
+title: Various – Pride '99 Sampler
 ---
 
 
-《Various – Pride '99 Sampler》是美國唱片公司Wherehouse Music於1999年發行的罕見宣傳錄音帶。
+「Various – Pride '99 Sampler」は、1999年にUSレーベルのWherehouse Musicからリリースされたレアなプロモ・テープです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Toni Basil–Mickey (Killa Klub Edit)
 
@@ -44,5 +44,5 @@ B6. Meg Hentges–This Kind Of Love
 B7. Fosse Soundtrack –Sing, Sing, Sing, Part 1
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}
 

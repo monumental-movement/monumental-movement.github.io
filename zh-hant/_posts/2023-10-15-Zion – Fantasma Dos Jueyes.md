@@ -9,17 +9,17 @@ permalink: /zh-hant/zion-fantasma-dos-jueyes/
 tags:
 - Speedcore
 - Hardcore
-title: 錫安 – 幻想猶太人
+title: Zion – Fantasma Dos Jueyes
 ---
 
 
-Zion 是一位活躍於拉丁美洲雷鬼音樂界的藝術家，也是波多黎各雷鬼二重奏 Zion & Lennox 的成員之一。
+Zionは、ラテンアメリカのレゲトン音楽シーンで活躍するアーティストであり、プエルトリコのレゲトン・デュオであるZion & Lennoxのメンバーの一人。
 
-Zion & Lennox 是與 Daddy Yankee 和 Don Omar 一起出現在雷鬼音樂黃金時代的樂隊，發行了許多熱門歌曲。
+Zion & Lennoxは、Daddy YankeeやDon Omarなどとともに、レゲトンの黄金時代に台頭したグループで、多くのヒット曲をリリースしました。
 
-B 面由波多黎各薩爾薩歌手多明哥‧奎尼奧內斯 (Domingo Quiñones) 主演。
+B面は、プエルトリコのサルサシンガーDomingo Quiñones（ドミンゴ・キニョーネス）をフィーチャリング。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Fantasma (Main)
 
@@ -30,5 +30,5 @@ A3. Fantasma (Acappella)
 B1. Dos Jueyes (Main)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
 

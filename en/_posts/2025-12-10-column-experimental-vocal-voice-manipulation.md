@@ -10,17 +10,16 @@ tags:
 - Experimental
 - Vocal
 - Voice Manipulation
-title: '[Column] Experimental Vocal / Voice Manipulation — History and techniques
-  of vocal experiments'
+title: 【コラム】 Experimental Vocal / Voice Manipulation — 声の実験史と技法
 ---
 
 
 
-## Prologue
+## 序章
 
-Text: mmr｜Theme: Experimental vocals that process, generate, and rearrange the voice as a material/History, techniques, representatives, and contemporary trends of voice manipulation
+文：mmr｜テーマ：声を素材とし、加工・生成・再配置する実験ボーカル／声操作の歴史、技法、代表者、および現代的動向について
 
-In the 21st century, the singing voice has gone from simply conveying a melody to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis, have greatly expanded the possibilities of the voice.
+21世紀に入り、歌声は旋律を伝えるだけの存在から、編集可能な“音響素材”へと変貌した。録音・編集技術、エフェクト、サンプリング、リアルタイム処理、そして生成技術といった道具立てが揃うことで、声は楽器、テクスチャ、空間描写、さらにはデータ資源へと多様な役割を獲得した。Bjork、Imogen Heap のように、自らの声を実験の主要素材として扱うアーティストや、グラニュラー合成、AIベース再合成など技術的飛躍によって生まれた表現は、声の可能性を大きく拡張した。
 
 ---
 
@@ -29,7 +28,7 @@ In the 21st century, the singing voice has gone from simply conveying a melody t
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -38,120 +37,120 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Historical context of voice manipulation
+## 第1章：声操作の歴史的文脈
 
-### 1-1. Recording technology and tape generation
+### 1-1. 録音技術とテープ世代
 
-By the mid-20th century, recording and tape manipulation provided the first major venues for vocal manipulation. Techniques such as changing the speed of the tape, cutting it up, and playing it backwards created a way to strategically alter the temporal and frequency properties of the voice and derive new musical meanings. In radio works and electronic music experiments, voices were sometimes separated from their existing linguistic meanings and transformed into sonic textures.
+20世紀半ばまでの録音とテープ操作は、声を加工する最初の大きな場となった。テープの速度変更、カットアップ、逆再生といった技法は、声の時間的・周波数的性質を戦略的に改変し、新しい音楽的意味を引き出す手法を生んだ。ラジオ作品や電子音楽の実験において、声は既存の言語的意味を離れ、音響的テクスチャへと変換されることがあった。
 
-### 1-2. The era of synthesis and analog equipment
+### 1-2. 合成とアナログ機器の時代
 
-Since the 1970s, vocoders and analog synthesizers have become popular, creating a crossover between voices and synthesized sounds. The vocoder applied the spectral envelope of the voice to another carrier sound, making it possible to fuse the human voice with electronic sounds. As a result, robotic/mechanical tones have become widely available.
-
----
-
-## Chapter 2: Digitalization and the reorganization of voices
-
-### 2-1. Popularization of DAW and samplers
-
-The spread of digital audio workstations (DAW) and hardware/software samplers since the 1990s has made it possible to freely cut and paste voices and independently manipulate the time axis, pitch, and tempo. Voices were fragmented and rearranged to take on new rhythmic, textural, and melodic functions.
-
-### 2-2. Formant correction and pitch processing
-
-Advances in techniques for changing pitch while maintaining formants (the elements that govern the resonance of vowels) have made it possible to change pitches without sacrificing the naturalness of the voice. This encouraged the spread of effects such as harmonization, chorus generation, and pitch shifting.
-
-### 2-3. Loops, live sampling, and performance techniques
-
-Performances using loop stations and real-time loopers have popularized the method in which a single singer creates multiple layers of voice on the spot. Here is a new vocal expression that combines improvisation and arrangement decisions live.
+1970年代以降、ボコーダーやアナログシンセサイザーが普及し、声と合成音のクロスオーバーが生まれた。ボコーダーは声のスペクトル包絡を別のキャリア音に適用することで、ヒューマンボイスと電子音の融合を可能にした。これにより、ロボティック／機械的な音色が広く実用化された。
 
 ---
 
-## Chapter 3: Representative artists and their work practices
+## 第2章：デジタル化と声の再編成
 
-### 3-1. Bjork — Expression that sculpts the voice
+### 2-1. DAWとサンプラーの普及
 
-Bjork has clearly shown a production approach that treats the voice as the main sound source of the song, not just the object of singing. His works, which combine layered voice samples, non-traditional vocalizations (breathing, whispers, fragmented phrases), and electronic processing, redefine the voice itself as "sound sculpture."
+1990年代以降のデジタルオーディオワークステーション（DAW）とハードウェア／ソフトウェア・サンプラーの普及は、声を自由に切り貼りし、時間軸やピッチ、テンポを独立して操作することを可能にした。声は断片化され、再配置されることで、リズム的、テクスチャ的、メロディ的な新しい機能を帯びた。
 
-### 3-2. Imogen Heap — Real-time control and physicality
+### 2-2. フォームント補正とピッチ処理
 
-Imogen Heap demonstrated that the voice can be played instrumentally through live expression using real-time effect control, gestures, and controllers. Using a harmonizer and self-made signal processing, he visualized the immediacy and transformability of the voice by manipulating the texture and harmonics of the voice during the performance.
+フォルマント（母音の共鳴を支配する要素）を維持しつつピッチを変える技術の進歩は、声を自然さを損なわずに高低を変更できるようにした。これはハーモナイズ、コーラス生成、ピッチシフトによるエフェクト表現の普及を後押しした。
+
+### 2-3. ループ、ライブサンプリング、パフォーマンス技術
+
+ループステーションやリアルタイムルーパーを用いたパフォーマンスは、1人の歌い手がその場で何重もの声の層を作り上げてゆく手法を一般化した。即興性と編曲的決定がライブで融合する新しいボーカル表現がここにある。
 
 ---
 
-## Chapter 4: Classification of techniques and acoustic effects
+## 第3章：代表的なアーティストと作品の実践
 
-Below, we will summarize the main techniques frequently used in experimental vocals and their acoustic and expressive effects.
+### 3-1. Bjork — 声を彫刻する表現
 
-### 4-1. Pitch processing
+Bjorkは声を単に歌う対象にとどめず、楽曲の主要な音源として扱う制作姿勢を明確に示した。多層化された声のサンプル、非伝統的な発声（呼吸や囁き、断片的なフレーズ）、電子的処理を組み合わせた作品群は、声そのものを“音響彫刻”として再定義した。
 
-* **Pitch Shift**: Changes only the pitch, creating a different tonality or composite harmony. Extreme changes create a mechanical tone.
-* **Pitch Tracking + Harmonizer**: Generates multiple harmonies for the input sound, creating a choral effect by one person.
+### 3-2. Imogen Heap — リアルタイム制御と身体性
 
-### 4-2. Formant manipulation
+Imogen Heapはリアルタイムのエフェクト制御、ジェスチャーやコントローラを併用したライブ表現を通じて、声が楽器的に演奏可能であることを示した。ハーモナイザーや自作の信号処理を用い、パフォーマンス中に声のテクスチャやハーモニクスを操作することで、声の即時性と変容性を可視化した。
 
-Formant manipulation is effective for manipulating voice quality indicators such as gender and age, and is used for voice changes and character generation.
+---
 
-### 4-3. Granular synthesis
+## 第4章：技法の分類と音響的効果
 
-By breaking it down into short sound pieces (grains) and rearranging them over time, or changing their density, sustained sounds are stretched, fragmented, and produce granular textures. Particularly useful for texturing voices.
+以下に、実験ボーカルで頻出する主要な技法とその音響的・表現的効果を整理する。
 
-### 4-4. Sample & Chop (Slicing)
+### 4-1. ピッチ系処理
 
-The technique of cutting out short phrases and consonants and rearranging them creates rhythmic accents and unexpected flows. Used in hip-hop, electronica, and many experimental works.
+* **ピッチシフト**：音高のみを変え、異なる調性や合成ハーモニーを作る。極端な変化は機械的音色を生む。
+* **ピッチトラッキング＋ハーモナイザー**：入力音に対して複数のハーモニーを生成し、1人で合唱的効果を作る。
 
-### 4-5. Spatial processing (reverb/delay/convolution)
+### 4-2. フォルマント操作
 
-Adding echo characteristics, panning, and manipulating perspective are important means of creating narrative and emotion, and effectively arranging subtle elements such as whispers and breathing.
+フォームント操作は性別や年齢感のような声質指標を操作するのに有効で、ボイスチェンジやキャラクター生成に使われる。
+
+### 4-3. グラニュラー合成
+
+By breaking down into short sound pieces (grains) and rearranging them over time, or changing their density, sustained sounds are stretched, fragmented, and produce grainy textures. Particularly useful for texturing voices.
+
+### 4-4. サンプル＆チョップ（スライシング）
+
+短いフレーズや子音を切り出して再配置する手法は、リズム的なアクセントや予期せぬフローを生む。ヒップホップ、エレクトロニカ、多くの実験的作品で活用される。
+
+### 4-5. 空間処理（リバーブ／ディレイ／コンボリューション）
+
+反響特性の付与やパンニング、遠近感の操作は、物語性や情緒をつくる重要な手段であり、囁きや息遣いなどの微細な要素を効果的に配置する。
 
 ### 4-6. Noise and nonlinear processing
 
-Distortion, waveform shaping, and feedback processing amplify the roughness and aggressiveness of the voice, giving it a sense of substance not found in traditional singing voices.
+ディストーション、波形整形、フィードバック処理は声の粗さや攻撃性を増幅し、従来の歌声にはない物質感を与える。
 
 ---
 
-## Chapter 5: Musical and social meaning
+## 第5章：音楽的・社会的意味
 
-The transformation of voice into a material is an expansion of expression, and at the same time presents new questions regarding physicality and identity. Manipulating voice tone has social meanings such as expressing gender, building character, and ensuring anonymity.
+声が素材化されることは、表現の拡張であると同時に、身体性やアイデンティティに関する新しい問いを提示する。声色の操作は性別表現、キャラクターの構築、匿名性の確保など、社会的な意味を伴う。
 
-### 5-1. Identity and voice
+### 5-1. アイデンティティと声
 
-Voice reflects an individual's physical characteristics, but it is easily altered by processing techniques. This allows artists to expand their range of self-expression, and listeners to update their awareness of voice.
+声は個人の身体的特徴を反映するが、加工技術によって声は容易に変質する。これにより、アーティストは自己表現の幅を広げるとともに、リスナー側も声に対する認識を更新する。
 
-### 5-2. Performance ethics and generation technology
+### 5-2. パフォーマンスの倫理と生成技術
 
-Reproducing voices and imitating the voices of others using AI raises ethical questions. Issues of consent and attribution, such as whose voice is used and how it is used, need to be discussed in parallel with the development of expressive technology.
+AIによる声の再現や他者の声の模倣は倫理的問いを生む。だれの声か、どのように使われるか、という同意と帰属の問題は表現技術の発展と並行して議論される必要がある。
 
 ---
 
-## Chapter 6: Technological trends in AI and voice generation
+## 第6章：AIと声生成の技術的潮流
 
-### 6-1. Audio feature extraction and conversion
+### 6-1. 音声特徴の抽出と変換
 
 Machine learning has made it possible to extract the pitch, spectral envelope, timing, and pronunciation characteristics of speech with high precision and transfer them to other voices or synthesized sounds. Style transfer applications are attracting attention as a method of incorporating features of existing singing into new contexts.
 
-### 6-2. Boundary between synthetic speech and creation
+### 6-2. 合成音声と創作の境界
 
 Text-to-speech synthesis (TTS) and singing voice synthesis are redefining the boundaries between composition and vocal performance. While the generated voice becomes a natural part of the song, it complicates the role of the creator, copyright, and attribution issues.
 
 ---
 
-## Chapter 7: Production Workflow
+## 第7章：制作ワークフロー
 
-Here, we will show you a basic workflow that can actually be used to produce experimental vocals. Although the equipment and software used vary widely, the principles are common.
+ここでは、実験ボーカルの制作で実際に使える基本的なワークフローを示す。使用する機材やソフトウェアは多岐にわたるが、原理は共通している。
 
-1. **Recording** — Record various vocalizations (full voice, whisper, breath, voice percussion) in multiple takes.
-2. **Pre-production** — Select important phrases and determine the direction of processing (harmonic, texture, rhythm).
+1. **収録** — 多様な発声（フルボイス、囁き、ブレス、ボイスパーカッション）を複数のテイクで収録する。
+2. **プリプロダクション** — 重要なフレーズを選定し、加工の方向性（ハーモニック、テクスチャ、リズム）を定める。
 3. **Edit** — Chop samples, adjust length, align timing, and prepare material.
-4. **Processing** — Apply pitch correction, formant manipulation, granular transformation, EQ, compression, etc.
-5. **Spatialization** — Create perspective with reverb and delay, and build the stereo field with panning.
-6. **Arrangement** — Distribute each layer of voice according to the overall context of the song.
+4. **処理** — ピッチ補正、フォームント操作、グラニュラー変換、EQ、コンプレッションなどを適用する。
+5. **空間化** — リバーブやディレイで遠近を作り、パンニングでステレオフィールドを構築する。
+6. **アレンジ** — 声の各レイヤーを楽曲全体の文脈に合わせて配分する。
 7. **Live implementation** — Adapt to real-time controls (looper, MIDI controller, gesture interface).
 
 ---
 
-## Chapter 8: Educational and research perspectives
+## 第8章：教育的・研究的視点
 
-Voice manipulation is an area closely connected to acoustics, psychology, and artificial intelligence research. Perception of voice quality, parameterization for voice synthesis, and physiological understanding of vocalization will contribute to the deepening of experimental vocal techniques.
+声操作は音響学、心理学、人工知能研究と密接に結びつく領域である。声質の知覚、声の合成のためのパラメータ化、発声の生理学的理解は、実験ボーカルの技術的深化に貢献する。
 
 ---
 
@@ -159,37 +158,37 @@ Voice manipulation is an area closely connected to acoustics, psychology, and ar
 
 <div class="mermaid">
 flowchart TD
-    A["Voice material"] --> B["Pitch operation"]
-    A --> C["Formund operation"]
-    A --> D["Granular processing"]
-    A --> E["Loop/Layer"]
+    A["声素材"] --> B["ピッチ操作"]
+    A --> C["フォームント操作"]
+    A --> D["グラニュラー処理"]
+    A --> E["ループ／レイヤー"]
 
-    B --> F["Harmony generation"]
-    C --> G["Voice change"]
-    D --> H["Texturing"]
+    B --> F["ハーモニー生成"]
+    C --> G["声色変化"]
+    D --> H["テクスチャ化"]
 </div>
 
 
 ---
 
-## Chronology (simple)
+## 年表（簡易）
 
 <div class="mermaid">
 flowchart TD
-    A["Starting 1930s Tape Operations"] --> B["1950s Expansion of speed change/editing technology"]
+    A["1930s テープ操作の開始"] --> B["1950s 速度変化・編集技術の拡大"]
     B --> C["1970s Increased use of vocoder"]
-    C --> D["1990s DAW popularization"]
-    D --> E["Comprehensive use of 2000s voice materials"]
+    C --> D["1990s DAW普及"]
+    D --> E["2000s 声素材の総合利用"]
     E --> F["A collection of works centered on Bjork's voice"]
-    E --> G["Real-time operation of Imogen Heap"]
-    H["2010s AI voice analysis progress"] --> I["2020s Popularization of voice generation model"]
+    E --> G["Imogen Heap のリアルタイム操作"]
+    H["2010s AI音声分析の進展"] --> I["2020s 声の生成モデルの普及"]
 </div>
 
 ---
 
-## Conclusion
+## 結語
 
-Voice manipulation continues to be an area where technological progress and artistic exploration intersect. While the voice is a symbol of physicality, it is also a material that can be freely transformed by digital technology. The issues of ethics, identity, and creativity that arise during this time will become increasingly important in the future.
+声の操作は、技術的進歩と芸術的探求が交差する領域であり続ける。声は身体性の象徴であると同時に、デジタル技術によって自在に変換される素材でもある。その間に生じる倫理、アイデンティティ、創造性の問題は、今後ますます重要になっていくだろう。
 
 ---
 

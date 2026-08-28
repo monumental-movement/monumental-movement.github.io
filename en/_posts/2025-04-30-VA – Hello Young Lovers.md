@@ -14,9 +14,9 @@ title: VA – Hello Young Lovers
 ---
 
 
-A compilation album released in 1993 by Kenji Takimi's indie label Crue-L Records.
+1993年にリリースされた瀧見憲司主宰のインディーレーベルCrue-L Recordsのコンピレーションアルバム。
 
-Participating artists: Kahimi Kali, Love Tambourines, Favorite Marine, Museum of Plate, Freedom Suite.
+参加アーティスト: カヒミ・カリィ、ラヴ・タンバリンズ、フェイバリットマリーン、ミュージアムオブプレート、フリーダムスイート。
 
 
 #### Tracklist
@@ -29,7 +29,7 @@ Participating artists: Kahimi Kali, Love Tambourines, Favorite Marine, Museum of
 6. Freedom Suite – hy Can't We Be Lovers
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m68606715160?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68606715160?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/heq664HH0JA?si=r1ilcRD-HcGm6t4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

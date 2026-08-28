@@ -15,9 +15,9 @@ title: Munk – Juno & Bezerk Part 2
 
 
 
-Munk is the name of the solo project of Mathias Modica, the head of the long-established German label Gomma. Until 2008, Munk was a duo with German DJ/producer Jonas Imbery.
+Munkは、ドイツの老舗レーベルGomma の主宰Mathias Modica(マティアス・モディカ)ソロプロジェクト名義。2008年まで、MunkはドイツのDJ／プロデューサーJonas Imberyとのデュオだった。
 
-"Juno & Bezerk Part 2" is an Abstract/Downtempo/Trip Hop track released by the label Gomma in 2000.
+「Juno & Bezerk Part 2」は、2000年にレーベルGommaからリリースされたAbstract／Downtempo／Trip Hopトラック。
 
 #### Tracklist
 ```md
@@ -28,4 +28,4 @@ B1. Josef
 B2. Wanki Elektronik
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m33008989452?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33008989452?afid=6142608987){: .button1}

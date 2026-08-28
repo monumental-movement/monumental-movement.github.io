@@ -10,16 +10,16 @@ tags:
 - Electronic
 - 80s
 - 90s
-title: '[Column] The golden age of 12-bit samplers: MPC60/SP-1200'
+title: 【コラム】 12bitサンプラーの黄金時代：MPC60／SP-1200
 ---
 
 
-## Chapter 1: Introduction — Why 12bit?
+## 第1章：イントロダクション — なぜ12bitなのか
 
 
-Text: mmr | Theme: About the "12-bit sampler" that played a central role in music production from the 1980s to the early 1990s.
+文：mmr｜テーマ：1980年代から1990年代初頭にかけて音楽制作の現場で中心的役割を果たした「12bitサンプラー」について
 
-The 12-bit sampler was not just a "technological halfway point," it created unintended sonic characteristics, resulting in a new production method and musical language. In the days before "high resolution" like 16-bit and 24-bit were idealized, 12-bit, combined with memory constraints, produced unique sonic contours, distortion, and quantization noise. This was not a drawback for many producers, but rather a raw material for tonal design.
+12bitサンプラーは単なる"技術の中間点"ではなく、**意図せざる音響特性**を生み出し、結果的に新しい制作手法と音楽言語を形成した。16bitや24bitのような"高解像度"が理想化される以前の時代、12bitはメモリ制約と組み合わさることで独特の音の輪郭、歪み、量子化ノイズを伴った。これは多くのプロデューサーにとって欠点ではなく、むしろ**音色設計のための原料**となった。
 
 ---
 
@@ -28,7 +28,7 @@ The 12-bit sampler was not just a "technological halfway point," it created unin
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -37,63 +37,63 @@ color: #fff;
 </style>
 
 
-## Chapter 2: Basic technical knowledge — sampling theory and 12bit characteristics
+## 第2章：技術的基礎知識 — サンプリングの理論と12bitの特性
 
-### 2.1 Basics of sampling
+### 2.1 サンプリングの基本
 
-The process of dividing analog signals into numerical values ​​(sampling) has two main parameters: **sampling frequency (Hz)** and **quantization bit depth (bit)**. Sampling frequency is described by Nyquist theory, and quantization bit depth is related to dynamic range and quantization noise.
+アナログ信号を一定時間で区切って数値化する過程（サンプリング）には、**サンプリング周波数（Hz）**と**量子化ビット深度（bit）**の2つの主要パラメータがある。サンプリング周波数はナイキスト理論により記述され、量子化ビット深度はダイナミックレンジと量子化ノイズに関わる。
 
-* **12bit**: Theoretically, the dynamic range is about 72dB (ideal conditions). In reality, the effective dynamic range varies depending on the equipment used, due to the effects of circuit noise and analog paths.
+* **12bit**: Theoretically, the dynamic range is approximately 72dB (ideal conditions). In reality, the effective dynamic range varies depending on the equipment used, due to the effects of circuit noise and analog paths.
 
-### 2.2 12bit acoustic characteristics
+### 2.2 12bitの音響的特徴
 
-* **Quantization noise** tends to become apparent, especially for small signals.
-* **Midrange presence** (midrange emphasis) is relatively noticeable.
-* Aliasing and coloring that occur during pitch shifting and sample rate conversion create a distinctive "grit".
+* **量子化ノイズ** が顕在化しやすく、特に小信号で顕著。
+* **中域の存在感**（ミッドレンジの強調）が相対的に目立ちやすい。
+* ピッチシフトやサンプルレート変換時に生じるエイリアスや色付けが独特の"グリット"を生む。
 
-### 2.3 Hardware factors
+### 2.3 ハードウェア的要因
 
-Not only the bit depth, but also the characteristics of the A/D/D/A circuit, the analog filter (hardware), and the number and access method of internal memory affect the sound. For example, the SP-1200 uses sampling at 26.04kHz, and the E-mu analog path is known to emphasize certain overtones.
-
----
-
-## Chapter 3: Market Background — Memory Price and Production Environment
-
-In the mid-to-late 1980s, semiconductor memory prices were orders of magnitude higher than they are today. At a time when adding 1MB of RAM was worth hundreds of dollars, equipment manufacturers chose designs that saved sampling time. This creates practical compromises in the specifications such as short sample times, low sampling frequencies, and 12 bits. On the other hand, creative methods have been developed that take advantage of constraints, such as the technique of "taking and dropping samples quickly (high-speed sampling → pitch down").
+単にビット深度だけでなく、**A/D・D/A回路の特性、アナログフィルタ（ハードウェア）**、および**内部メモリの数とアクセス方式**が音に影響を与える。例えばSP-1200は26.04kHzでのサンプリングを採用し、E-muのアナログパスが特定の倍音を強調することが知られている。
 
 ---
 
-## Chapter 4: Main model explanation
+## 第3章：市場背景 — メモリ価格と制作環境
 
-### 4.1 E-mu SP-1200 (1987) — Technical and practical details
+1980年代半ばから後半にかけて、半導体メモリの価格は今日とは桁違いに高価であった。1MBのRAM追加が数百ドル相当という時代背景により、機器メーカーは**サンプリング時間を節約する設計**を選択した。これが短いサンプル時間、低いサンプリング周波数、12bitといった仕様の実用的妥協点を生む。一方でサンプルを"速く取って落とす（高速度サンプリング→ピッチダウン）"テクニックなど、制約を逆手に取るクリエイティブな手法が発展した。
 
-* **Year of publication**: 1987
-* **Sampling frequency**: 26.04 kHz
-* **Bit depth**: 12bit
-* **Total sample length**: Approximately 10 seconds (mono total)
-* **Key features**: 8-track sequencer, filter (analog), individual outs
+---
 
-**Design philosophy and features**
-The SP-1200 was designed with the time constraints of a sampler in mind, and is optimized for the workflow of "cutting and arranging short samples." Combined with internal analog circuitry, the result is a thick low-frequency range with a "roughness" or "undulation." Based on the specifications and E-mu"s technical documentation from the time, we can confirm that the SP-1200"s A/D path and filter design contribute to its acoustic coloration.
+## 第4章：主要機種解説
 
-**Practical usage**
+### 4.1 E-mu SP-1200（1987） — 技術と実務面の詳細
 
-* Break sampling and chopping
-* Pitch down after fast sampling (inducing low-pass effect)
-* Create grooves using loop tweaks and timing swings
+* **発表年**: 1987
+* **サンプリング周波数**: 26.04 kHz
+* **ビット深度**: 12bit
+* **総サンプル長**: 約10秒（モノラル合計）
+* **主要機能**: 8トラックシーケンサー、フィルタ（アナログ）、個別アウト
+
+**設計思想と特徴**
+SP-1200は、サンプラーとしての時間制約を前提に設計され、"短いサンプルを切って並べる"というワークフローに最適化されている。内部アナログ回路と組み合わせた結果、"ザラつき"あるいは"うねり"を伴う低域の厚みが得られる。仕様書やE-muの当時の技術文書に基づけば、SP-1200のA/D経路とフィルタ設計が音響的色付けに寄与していることが確認できる。
+
+**実務的な使われ方**
+
+* ブレイクのサンプリングとチョップ
+* 高速サンプリング後のピッチダウン（ローパス的効果を誘発）
+* ループの微調整とタイミングスイングを用いたグルーヴ作成
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6-FLx_gIVCE?si=fHXFlga4-I9RphJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 4.2 Akai MPC60 (1988) — Achievement as a musical instrument
+### 4.2 Akai MPC60（1988） — 楽器としての到達点
 
-* **Year of publication**: 1988
-* **Sampling frequency**: 40 kHz
-* **Bit depth**: 12bit
-* **Key features**: 16 pads, built-in sequencer, MIDI compatible
+* **発表年**: 1988
+* **サンプリング周波数**: 40 kHz
+* **ビット深度**: 12bit
+* **主要機能**: 16パッド、内蔵シーケンサー、MIDI対応
 
-**Design philosophy and features**
+**設計思想と特徴**
 With design assistance from Roger Linn, the MPC60 aimed to be a "playable sampler." Large pads and a sequencer that emphasizes the sense of groove greatly improve usability for improvisational performances and live production. The spec sheet emphasizes the MPC60's sequencer accuracy and pad detection mechanism.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vnRc56hEMsw?si=65ZvsCS8iGBWfeZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -103,57 +103,57 @@ With design assistance from Roger Linn, the MPC60 aimed to be a "playable sample
 ### 4.3 Akai S900 / S950
 
 * S900 (1986): Early rack-type sampler. Sample accuracy is up to 12-bit bandwidth, and features editing functions and external synchronization.
-* S950 (1988): An advanced version of S900, providing a more flexible time stretch function (coarse conversion function). Sales records and articles from the time confirm that it was widely used in club music production.
+* S950（1988）: S900の発展型で、より柔軟なタイムストレッチ機能（粗いながらも変換機能）を提供。クラブミュージック制作の現場で広く使われたことは販売記録および当時の記事で確認される。
 
-### 4.4 Ensoniq Mirage (1984)
+### 4.4 Ensoniq Mirage（1984）
 
-* Release year: 1984
-* Bit depth: 8bit (non-linear sampling characteristics)
-* Price range: Accelerate the spread of samplers in the low price range
+* 発売年: 1984
+* ビット深度: 8bit（非線形なサンプリング特性）
+* 価格帯: 低価格レンジでサンプラー普及を加速
 
-Although Mirage is not 12bit, it is highly influential as a low resolution sampler of the same era. Favored by artists who aim for rough textures.
+Mirageは12bitではないが、同時代の低解像度サンプラーとして影響力が大きい。テクスチャの粗さを狙うアーティストに好まれた。
 
 ### 4.5 Sequential Circuits Prophet 2000 (1985)
 
-* Release year: 1985
-* Bit depth: 12bit
-* Features: By combining sample playback with an analog filter, it is possible to convert sample tones into synthesizers.
+* 発売年: 1985
+* ビット深度: 12bit
+* 特徴: サンプル再生にアナログフィルタを組み合わせることで"サンプル音色のシンセ化"を可能にした。
 
 ---
 
-## Chapter 5: Production workflow using 12bit sampler
+## 第5章：12bitサンプラーを使った制作ワークフロー
 
-Here, a typical production flow assuming SP-1200 and MPC60 is listed in detail based on facts. The description focuses on procedures that match actual producer testimonies and equipment manuals.
+ここでは、SP-1200とMPC60を想定した典型的な制作フローを事実ベースで詳細に列挙する。実際のプロデューサーの証言や機材マニュアルに一致する手順を中心に記述する。
 
-### 5.1 Sampling procedure (SP-1200 type)
+### 5.1 サンプリング手順（SP-1200型）
 
-1. Play the desired break from the record
+1. レコードから目的のブレイクを再生
 2. Sample briefly (1-2 seconds) the center of the break (keeping in mind the total sample limit)
-3. Lower the pitch of the sample and manually tweak the loop point if necessary
-4. Necessary contour adjustments with filters and envelopes
-5. Arrange them on an 8-track sequencer and fine-tune the timing to create a groove
+3. サンプルのピッチを下げ、必要に応じてループポイントを手動で微調整
+4. フィルタやエンベロープで必要な輪郭調整
+5. 8トラックのシーケンサーに並べ、タイミングを微調整してグルーヴを作る
 
-### 5.2 MPC60 type production workflow (performance emphasis)
+### 5.2 MPC60型の制作ワークフロー（演奏重視）
 
-1. Record samples for a relatively long time (MPC60 can record for a longer time than SP-1200)
-2. Load into the pad and improvise input and filter operations
+1. サンプルを比較的長めに録音（MPC60はSP-1200より長時間録音可能）
+2. パッドにロードし、即興的に打ち込みやフィルター操作を行う
 3. Build phrases using the built-in sequencer and add swing by changing the velocity and position of each note
 4. Build in conjunction with other equipment using MIDI synchronization
 
 ---
 
-## Chapter 6: Scientific analysis of sound quality (frequency characteristics/quantization noise)
+## 第6章：音質の科学的分析（周波数特性・量子化ノイズ）
 
 In the technical analysis section, the general frequency response of 12-bit equipment, the spectral trend of quantization noise, and the aliasing trend during pitch shifting are explained based on general principles. The explanations here follow the general trends that can be confirmed from the manuals and technical articles for each piece of equipment.
 
-### 6.1 Frequency characteristics
+### 6.1 周波数特性
 
-*SP-1200 uses 26.04kHz sampling, so the theoretical Nyquist frequency is 13.02kHz. The actual low-pass characteristics and analog circuitry lower the high frequencies, giving the sound a "rounder" feel.
-* MPC60 uses 40kHz samples, so higher frequencies remain, but high-frequency resolution is limited due to 12-bit quantization.
+* SP-1200は26.04kHzサンプリングのため、理論上のナイキスト周波数は13.02kHz。実際のローパス特性やアナログ回路で高域が落ちることにより、音に"丸み"が付く。
+* MPC60は40kHzサンプルを採用しているため、より高域が残るが12bitの量子化により高域の解像度は限定される。
 
 ### 6.2 Quantization noise
 
-* Quantization noise can be estimated as signal-to-noise ratio (SNR). Ideally, the SNR is about 72dB at 12bit, but it is usually lower than this in real equipment.
+* Quantization noise can be estimated as signal-to-noise ratio (SNR). The ideal 12-bit SNR is about 72dB, but in real equipment it is usually lower than this.
 
 ---
 
@@ -161,64 +161,64 @@ In the technical analysis section, the general frequency response of 12-bit equi
 
 ### 7.1 Role of SP-1200 in Hip Hop
 
-The SP-1200 has a tone optimized for reworking bootlegs and breaks, and it became the de facto standard tool in many golden-era hip-hop production settings. Multiple articles have confirmed that producers such as Pete Rock, DJ Premier, and The Bomb Squad have performed SP-type sample work.
+SP-1200はブートレグやブレイクの再加工に最適化された音色を持ち、多くの黄金期ヒップホップの制作現場で事実上の標準ツールとなった。Pete Rock、DJ Premier、The Bomb Squad等のプロデューサーがSP系統のサンプルワークを行った記録が複数の取材記事で確認されている。
 
-### 7.2 Relationship between R&B and MPC
+### 7.2 R&BとMPCの関係
 
-The MPC60's high playability and MIDI compatibility have made it popular in R&B and pop production. Multiple interviews have shown that producers such as Teddy Riley have used MPC in their productions.
+MPC60は演奏性の高さとMIDI互換性により、R&Bやポップスの制作現場にも浸透した。Teddy Riley等のプロデューサーがMPCを用いた制作を行ったことは、複数のインタビューで示されている。
 
-### 7.3 House/Techno and Low Resolution Samples
+### 7.3 ハウス／テクノと低解像度サンプル
 
-Low-resolution samples are effective for creating textures and were widely used in early house/techno scenes. Ensoniq and Akai rackmount equipment became studio staples.
+低解像度サンプルはテクスチャ作りに有効であり、初期ハウス／テクノの現場で広く使われた。EnsoniqやAkaiのラックマウント機器はスタジオでの定番となった。
 
 ---
 
-## Chapter 8: Key artists and usage examples
+## 第8章：主要アーティストと使用実例
 
-> The following is an excerpt of usage examples based on factual information such as public interviews, credits, technical articles, and official documents.
+> 以下は公開インタビュー、クレジット、技術記事、公式ドキュメント等の事実情報に基づく使用実例の抜粋である。
 
 <div class="mermaid">
 
 flowchart TD
-  A["SP-1200"] -->|use| B["Pete Rock"]
-  A -->|use| C["DJ Premier"]
+  A["SP-1200"] -->|使用| B["Pete Rock"]
+  A -->|使用| C["DJ Premier"]
   A -->|use| D["Marley Marl"]
   
   E["MPC60"] -->|use| F["DJ Shadow"]
-  E -->|use| G["Dr. Dre Early Years"]
-  E -->|use| H["Teddy Riley"]
+  E -->|使用| G["Dr. Dre Early Years"]
+  E -->|使用| H["Teddy Riley"]
 
 
 </div> 
 
-(Note: Dr. Dre mainly uses MPC3000)
+（注：Dr. Dreは実質MPC3000がメインに）
 
 ---
 
-## Chapter 9: UI/UX and instrumentation — Establishment of a performance approach using MPC
+## 第9章：UI/UXと楽器化 — MPCによる演奏的アプローチの成立
 
-The MPC series popularized the concept of a "sampler = an instrument to be played." In particular, the 16 pads, pad sensitivity, low latency for instant playback, and built-in sequencer make it possible to improvise, and its use in live performances and impromptu sessions has expanded. The fact that the fusion of Roger Linn"s design philosophy (emphasizing the human sense of performance) and Akai"s product design supported the success of the MPC60 is supported by multiple developer interviews.
-
----
-
-## Chapter 10: Inheritance and Reprint (Plugin/Hard Reprint)
-
-Since the 2010s, the number of plug-ins and hardware reproduction products that imitate the "sound" of the SP-1200 and MPC has increased, and it has become common for the "12-bit feel" of that time to be reproduced digitally. The main trends are official hardware reprints (such as modern versions of the MPC series by Akai Professional) and emulation through plug-ins (saturation, lo-fi engines).
+MPCシリーズは"サンプラー＝演奏する楽器"という概念を広めた。特に16パッドとパッドの感度、即時再生のレイテンシの低さ、内蔵シーケンサーは即興演奏を可能にし、ライブや即席セッションでの利用が拡大した。Roger Linnの設計哲学（人間の演奏感覚を重視する）とAkaiの製品設計の融合が、MPC60の成功を支えた事実は複数の開発者インタビューにより裏付けられる。
 
 ---
 
-## Chapter 11: Materials/References
+## Chapter 10: Inheritance and Reprint (Plug-in Hard Reprint)
 
-* E-mu SP-1200 Service Manual (Technical Specifications)
-* Akai MPC60 User Manual (product manual)
-* Music technology magazine at the time (1987–1995 issue)
-* Producer interviews (Pete Rock, DJ Premier, Dr. Dre, etc.)
+2010年代以降、SP-1200やMPCの"サウンド"を模したプラグインやハードウェア復刻製品が増え、当時の"12bit的質感"はデジタルで再現されることが一般的になった。公式のハード復刻（Akai ProfessionalによるMPCシリーズの現代版など）や、プラグイン（サチュレーション、ローファイエンジン）によるエミュレーションが主要なトレンドである。
 
 ---
 
-## Chapter 12: Summary and outlook
+## 第11章：資料・参考文献
 
-The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace the roots of this, you always come back to these devices.
+* E-mu SP-1200 Service Manual（技術仕様）
+* Akai MPC60 User Manual（製品マニュアル）
+* 当時の音楽技術雑誌（1987–1995年号）
+* プロデューサーのインタビュー（Pete Rock, DJ Premier, Dr. Dre ほか）
+
+---
+
+## 第12章：まとめと展望
+
+12bitサンプラーは、技術的な制約が創意工夫を生み出す好例である。SP-1200やMPC60は、単なるツールの枠を超え、特定時代の音楽表現そのものを形作るに至った。現代の制作環境では意図的に"ローファイ"や"グリット"を再現する手段が多様化しているが、そのルーツを辿ると必ずこれらの機材に行き着く。
 
 ---
 
@@ -231,25 +231,25 @@ The 12-bit sampler is a great example of how technical constraints can lead to i
 
 ---
 
-### Appendix: Functional relationship/workflow
+### 付録：機能相互関係・ワークフロー
 
-#### Workflow conceptual diagram
+#### ワークフロー概念図
 
 <div class="mermaid">
     
 flowchart TD
-  SR["Record Source"] --> SAMP["sampling"]
+  SR["Record Source（レコード等）"] --> SAMP["サンプリング"]
   SAMP --> EDIT["Edit (Chop/Pitch Adjustment)"]
-  EDIT --> PAD["Place on pad (MPC)/Go to sequence (SP)"]
-  PAD --> SEQ["sequencer"]
-  SEQ --> MIX["Mixdown"]
-  MIX --> MASTER["Mastering"]
+  EDIT --> PAD["パッドに配置（MPC）／シーケンスへ（SP）"]
+  PAD --> SEQ["シーケンサー"]
+  SEQ --> MIX["ミックスダウン"]
+  MIX --> MASTER["マスタリング"]
 
 </div> 
 
 ---
 
-#### Comparison diagram between equipment
+#### 機材間比較図
 
 <div class="mermaid">
     
@@ -259,95 +259,95 @@ flowchart LR
   S950["S950"]
   Mirage["Mirage"]
   
-  SP ---|low sample rate| Mirage
-  MPC ---|playability| SP
-  S950 ---|rack production| MPC
+  SP ---|低サンプルレート| Mirage
+  MPC ---|演奏性| SP
+  S950 ---|ラック型プロダクション| MPC
 
 </div> 
 
 ---
 
 
-### SP-1200 internal structure (conceptual diagram)
+### SP-1200 内部構造（概念図）
 
 <div class="mermaid">
     
 flowchart TD
-    A["Input stage: ADC 12bit/26kHz"] --> B["Sample RAM: 10 seconds"]
-    B --> C["DAC output: low-pass characteristics"]
-    C --> D["SSM2044 Analog Low Pass Filter"]
-    D --> E["Output amplifier"]
+    A["入力段: ADC 12bit/26kHz"] --> B["サンプルRAM: 10秒分"]
+    B --> C["DAC出力: ローパス特性"]
+    C --> D["SSM2044 アナログローパスフィルタ"]
+    D --> E["出力アンプ"]
 
 </div> 
 
 ---
 
-### MPC60 internal structure
+### MPC60 内部構造
 
 <div class="mermaid">
     
 flowchart TD
-    A["Input stage: 12bit ADC 40kHz"] --> B["Sample memory"]
-    B --> C["Pad scan circuit"]
-    C --> D["Sequencer CPU"]
-    D --> E["DAC/mixer section"]
+    A["入力段: 12bit ADC 40kHz"] --> B["サンプルメモリ"]
+    B --> C["パッドスキャン回路"]
+    C --> D["シーケンサーCPU"]
+    D --> E["DAC/ミキサー部"]
 
 </div> 
 
 ---
 
-## Waveform/frequency analysis of sample example
+## サンプル実例の波形/周波数分析
 
-### SP-1200 kick drum analysis
+### SP-1200 のキックドラム解析
 
 <div class="mermaid">
     
 graph LR
-    A["Original waveform"] --> B["Waveform after high-speed sampling"]
-    B --> C["Low frequency emphasis and distortion component addition"]
+    A["元波形"] --> B["高速サンプリング後の波形"]
+    B --> C["低域強調と歪み成分追加"]
 
 </div> 
 
 ---
 
-### MPC60 snare analysis
+### MPC60 のスネア解析
 
 <div class="mermaid">
     
 flowchart TD
-    A["Former snare"] -->|sampling| B["Band change"]
-    B --> C["Treble rolloff"]
-    C --> D["Clearness in the midrange"]
+    A["元スネア"] -->|サンプリング| B["帯域の変化"]
+    B --> C["高域のロールオフ"]
+    C --> D["中域のクリアさ"]
 
 </div> 
 
 ---
 
-## The technological legacy left behind by the 12bit sampler
+## 12bitサンプラーが残した技術的遺産
 
-### Inheritance of hardware features
+### ハードウェア的特徴の継承
 
 <div class="mermaid">
     
 flowchart TD
-    A["12bit texture"] --> B["Modern Emulation Plugin"]
-    A --> C["Hardware reissue"]
+    A["12bit質感"] --> B["現代のエミュレーションプラグイン"]
+    A --> C["ハードウェアリイシュー"]
     C --> D["SP1200 Reissue"]
 
 </div> 
 
-## Detailed internal circuit explanation of each model (CPU / ROM / DAC)
+## 各機種の詳細内部回路解説（CPU / ROM / DAC）
 
-### SP-1200 Internal Block
+### SP-1200 内部ブロック
 
 <div class="mermaid">
     
 flowchart TD
-    A["Input Preamp\nOperational amplifier: NE5532 series"] --> B["ADC: Philips TDA1543 series 12bit"]
-    B --> C["Sample RAM: 256KB SRAM\nTotal approximately 10 seconds"]
+    A["Input Preamp\nオペアンプ: NE5532系"] --> B["ADC: Philips TDA1543系 12bit"]
+    B --> C["Sample RAM: 256KB SRAM\n合計約10秒"]
     C --> D["CPU: Motorola 6809E 8-bit MCU"]
-    D --> E["System ROM: 32KB EPROM\nOS/Sample Management"]
-    E --> F["DAC: SSM2024 series 12bit"]
+    D --> E["System ROM: 32KB EPROM\nOS/サンプル管理"]
+    E --> F["DAC: SSM2024系 12bit"]
     F --> G["Analog LPF: SSM2044 (24dB/oct)"]
     G --> H["Output Amplifier: Discrete OpAmp"]
 
@@ -355,108 +355,108 @@ flowchart TD
 
 ---
 
-### MPC60 internal block
+### MPC60 内部ブロック
 
 <div class="mermaid">
     
 flowchart TD
-    A["Input Preamp\nHigh S/N circuit"] --> B["ADC: AKAI original 12bit/40kHz"]
-    B --> C["Sample DRAM: 768KB ~ 1.5MB with expansion"]
+    A["Input Preamp\n高S/N回路"] --> B["ADC: AKAI独自 12bit/40kHz"]
+    B --> C["Sample DRAM: 768KB 〜 拡張で1.5MB"]
     C --> D["CPU1: Hitachi HD63B03 8-bit"]
-    D --> E["CPU2: Intel 8086 derivative\nFor sequencer only"]
+    D --> E["CPU2: Intel 8086 派生\nシーケンサー専用"]
     E --> F["OS ROM: EPROM 256KB"]
-    F --> G["DAC: 12bit DAC\n+ Mixer IC"]
-    G --> H["Output Stage\nLow-pass characteristics"]
+    F --> G["DAC: 12bit DAC\n+ ミキサー IC"]
+    G --> H["Output Stage\nローパス特性"]
 
 </div> 
 
 ---
 
-## Track/Waveform/Frequency Analysis Section
+## トラック別・波形/周波数分析セクション
 
-### Layer analysis of Public Enemy (Bomb Squad) SP-1200
+### Public Enemy（Bomb Squad）SP-1200 のレイヤー解析
 
 <div class="mermaid">
     
 flowchart TD
-    A["Sample 1: James Brown Snare"] --> D["Frequency response: Midrange emphasis 1.5kHz"]
-    B["Sample 2: Noise + Hit Sound"] --> D
-    C["Sample 3: Turntable Scratch"] --> E["Attack Enhancement"]
-    D --> F["Synthesizing with SP-1200: Rounding the low range"]
-    F --> G["Final Mix: Bomb Squad's Unique Density"]
+    A["サンプル1: James Brown Snare"] --> D["周波数特性: 中域強調 1.5kHz"]
+    B["サンプル2: ノイズ+ヒット音"] --> D
+    C["サンプル3: ターンテーブルスクラッチ"] --> E["アタック強化"]
+    D --> F["SP-1200での合成: 低域が丸まる"]
+    F --> G["最終ミックス: Bomb Squad特有の密度"]
 
 </div> 
 
 ---
 
-### Pete Rock - MPC60-based analysis of "They Reminisce Over You"
+### Pete Rock - "They Reminisce Over You" のMPC60ベース分析
 
 <div class="mermaid">
     
 flowchart TD
-    A["Tom Scott's Saxophone Sample"] --> B["Rounding due to 12bit conversion"]
-    B --> C["Band: 200Hz to 2kHz comes first"]
-    C --> D["Velocity change via MPC60 internal pad"]
-    D --> E["Final Beat: Pete Rock's Soft Texture"]
+    A["Tom Scottのサックスサンプル"] --> B["12bit化による丸み"]
+    B --> C["帯域: 200Hz〜2kHzが前に出る"]
+    C --> D["MPC60内部パッド経由のベロシティ変化"]
+    D --> E["最終ビート: Pete Rockの柔らかい質感"]
 
 </div> 
 
 ---
 
-### DJ Premier's MPC60 chop method
+### DJ Premier の MPC60 チョップ手法
 
 <div class="mermaid">
     
 graph LR
-    A["Short Vinyl Hit"] --> B["Fast chop"]
-    B --> C["Roughness due to 12bit conversion"]
-    C --> D["Hi-hat separation emphasis"]
-    D --> E["Creating Premo"s unique "ma'"]
+    A["短いVinyl Hit"] --> B["高速チョップ"]
+    B --> C["12bit変換によるザラつき"]
+    C --> D["ハイハットの分離強調"]
+    D --> E["Premo特有の“間”を形成"]
 
 </div> 
 
 ---
 
-### DJ Shadow - Endtroducing (MPC60) deep analysis
+### DJ Shadow - Endtroducing（MPC60）深層解析
 
 <div class="mermaid">
     
 flowchart TD
-    A["Drum break"] --> B["High frequency roll-off with 40kHz → 12bit conversion"]
-    B --> C["Cloudy due to biting of reverberation components"]
-    C --> D["Shadow layer: Split into multiple pads"]
-    D --> E["Mix compresses space"]
+    A["ドラムブレイク"] --> B["40kHz→12bit変換で高域ロールオフ"]
+    B --> C["残響成分のビット化による曇り"]
+    C --> D["Shadowのレイヤー: 複数パッドに分解"]
+    D --> E["ミックスで空間が圧縮される"]
 
 </div> 
 
 ---
 
 
-### Addition 1: Comparison of 12bit and 16bit quantization
+### 追加 1: 12bitと16bitの量子化比較
 
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 steps"] --> C["coarse step"]
-    B["16bit 65536 stages"] --> D["Smooth step"]
+    A["12bit 4096段階"] --> C["粗いステップ"]
+    B["16bit 65536段階"] --> D["滑らかなステップ"]
 
 </div> 
 
 ---
 
-### Addition 2: SP-1200 filter curve concept
+### 追加 2: SP-1200フィルタのカーブ概念
 
 <div class="mermaid">
     
 flowchart TD
-    A["Input sound"] --> B["Rapid attenuation near LPF 12kHz"]
-    B --> C["Output: dark tone"]
+    A["入力音"] --> B["LPF 12kHz付近で急激減衰"]
+    B --> C["出力: 暗いトーン"]
 
 </div> 
 
 ---
 
-### Addition 3: MPC60 sequencer structure
+### 追加 3: MPC60シーケンサー構造
 
 <div class="mermaid">
     
@@ -467,7 +467,7 @@ graph LR
 
 ---
 
-### Addition 4: Sampler Signal Path (by generation)
+### 追加 4: Sampler Signal Path（世代別）
 
 <div class="mermaid">
     
@@ -478,18 +478,18 @@ flowchart TD
 
 ---
 
-### Addition 5: SP-1200 time extension method (pitch conversion)
+### 追加 5: SP-1200の時間伸ばし手法（ピッチ変換）
 
 <div class="mermaid">
     
 flowchart TD
-    A["Slow sample acquisition"] --> B["Pitch UP during playback"] --> C["Roughness + high frequency noise"]
+    A["低速サンプル取り込み"] --> B["再生時ピッチUP"] --> C["粗さ+高域ノイズ"]
 
 </div> 
 
 ---
 
-### Addition 6: MPC60 drum layer model
+### 追加 6: MPC60のドラムレイヤーモデル
 
 <div class="mermaid">
     
@@ -502,7 +502,7 @@ flowchart TD
 
 ---
 
-### Addition 7: Vinyl→Sampler→Mixer flow
+### 追加 7: Vinyl→Sampler→Mixerフロー
 
 <div class="mermaid">
     

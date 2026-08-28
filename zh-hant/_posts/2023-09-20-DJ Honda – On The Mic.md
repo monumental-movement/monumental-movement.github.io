@@ -9,15 +9,15 @@ permalink: /zh-hant/dj-honda-on-the-mic/
 tags:
 - Hiphop
 - Rap
-title: DJ Honda – 在麥克風上
+title: DJ Honda – On The Mic
 ---
 
 
-發行於1998年。這首歌充滿活力和活力，匯集了DJ Honda獨特的製作風格和特色藝術家的抒情才華。
+1998年リリース。ダイナミックでエネルギッシュな曲で、DJ Hondaの独自のプロダクションスタイルとフィーチャリングアーティストたちのリリカルな才能が結集しています。
 
-這首歌由 Mos Def（或 Yasiin Bey）、Beatnuts 和 Fat Joe 等著名藝術家演唱。每位藝術家都為這首歌帶來了自己獨特的風格和節奏，使其成為嘻哈讚歌。
+この曲には、Mos Def（またはYasiin Bey）、Beatnuts、Fat Joeなどの有名アーティストが参加しています。各アーティストが独自のスタイルとフローを曲にもたらし、ヒップホップのアンセムとなっています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  On The Mic (Clean Version) Featuring – A.L., Al' Tariq, Black Attack, Cuban Link, Juju, Problemz
 
@@ -32,7 +32,7 @@ B2  Trouble In The Water (Instrumental)
 B3  5 Seconds (Album Version) Featuring – Black Attack
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m19041732477?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19041732477?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kyejD5wwQEE?si=zfMMHESvi3W51L99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,9 +12,9 @@ title: Analog Fingerprints – Tribute
 ---
 
 
-The A-side of "Tribute" by Analog Fingerprints is a bumpy electro house track with a rave vibe. B1 and B2 are very minimalistic tracks.
+Analog Fingerprintsによる「Tribute」は、A-sideはエレクトロハウスのバンピンなトラックで、レイヴの雰囲気があります。B1とB2は非常にミニマルなトラックです。
 
-Analog Fingerprints' real name is Marco Passarani.
+Analog Fingerprintsの本名は、Marco Passarani。
 
 Italian DJ and producer.
 

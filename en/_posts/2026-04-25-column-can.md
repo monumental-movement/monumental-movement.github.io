@@ -10,29 +10,28 @@ tags:
 - Krautrock
 - Experimental
 - 70s
-title: '[Column] Sonic horizons opened up through repetition and improvisation - the
-  framework of pop redefined by CAN'
+title: 【コラム】 反復と即興が切り拓いた音の地平――CANが再定義したポップの骨格
 ---
 
 
 
-## Who was CAN?
+## CANとは何者だったのか
 
 Text: mmr｜Theme: The trajectory of a collective improvisational band born in post-war Germany that rewrote the very structure of rock.
 
 
 
-### A community for deconstructing existing lock grammars
+### 既存のロック文法を解体するための共同体
 
-CAN is a music group formed in West Germany in 1968. The core members, Irmin Schmidt and Holger Czukay, had studied under contemporary music composer Karlheinz Stockhausen, and had a perspective on music as a matter of ""structure" and ""time."
+CANは1968年、西ドイツで結成された音楽集団である。中心メンバーであるIrmin SchmidtとHolger Czukayは、現代音楽の作曲家Karlheinz Stockhausenのもとで学んでおり、音楽を「構造」や「時間」の問題として捉える視点を持っていた。
 
-This background became an important foundation for establishing CAN's music as a sonic experiment rather than a mere extension of rock music. Guitarist Michael Karoli brought a rock sensibility, while drummer Jaki Liebezeit introduced extremely homogeneous rhythms developed from jazz.
+この背景は、CANの音楽を単なるロックの延長ではなく、音響実験として成立させる重要な基盤となった。ギタリストのMichael Karoliはロック的な感覚を持ち込み、ドラマーのJaki Liebezeitはジャズから発展した極度に均質なリズムを導入した。
 
-From the beginning, they were more interested in ""creating the conditions that generate sound" than in ""writing songs." As a result, they were more like an experimental unit centered around the studio than a band.
+彼らは当初から「曲を書く」ことよりも「音を生成する状況を作る」ことに関心があった。そのため、バンドというよりはスタジオを中心とした実験ユニットに近い存在だった。
 
-Also, in the cultural vacuum of postwar Germany, there was a strong desire to break away from imitations of Anglo-American rock. This became the core of what would become known as Krautrock.
+また、戦後ドイツという文化的空白の中で、英米ロックの模倣から脱却しようとする意識が強く働いていた。これが後にKrautrockと呼ばれる潮流の核心となる。
 
-> CAN was not a ""rock group" but an ""experimental device for redesigning the way music is made."
+> CANは「ロックを演奏する集団」ではなく、「音楽の作り方を再設計するための実験装置」だった。
 
 ---
 
@@ -41,7 +40,7 @@ Also, in the cultural vacuum of postwar Germany, there was a strong desire to br
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -51,74 +50,74 @@ color: #fff;
 
 
 
-## Methodology of improvisation and editing
+## 即興と編集という方法論
 
-### Music completed on recorded tape
+### 録音テープの中で完成する音楽
 
-CAN's production method was thorough. They recorded hours of improvisation, from which they extracted and edited fragments to complete the piece. In this process, post-recording editing is as important, if not more so, than composing.
+CANの制作手法は徹底していた。彼らは数時間に及ぶ即興演奏を録音し、その中から断片を抽出し編集することで楽曲を完成させた。このプロセスでは、録音後の編集が作曲と同等、あるいはそれ以上の意味を持つ。
 
-Holger Czukay used shortwave radio and other external sound sources and collaged them onto tape. This is said to be the forerunner of later sampling and loop culture.
+Holger Czukayは短波ラジオや外部音源を取り込み、テープ上でコラージュする技術を用いた。これは後のサンプリングやループ文化の先駆けとされる。
 
-Jaki Liebezeit's drumming is especially important. He believed in "not hitting emotionally," and maintained the rhythm with almost machine-like precision. This style was called ""motorik,'' and by keeping the flow of time constant, it created a foundation on which other instruments could change freely.
+Jaki Liebezeitのドラミングは特に重要である。彼は「感情的に叩かない」ことを信条とし、ほぼ機械のような正確さでリズムを維持した。このスタイルは「モータリック」と呼ばれ、時間の流れを一定に保つことで、他の楽器が自由に変化できる土台を作った。
 
-Anecdotally, it has been said that Liebezeit "could keep hitting one beat for hours." Even in actual recordings, his rhythm was sustained for a long time with almost no fluctuation, and his precision was outstanding among rock drummers of the time.
+逸話として、Liebezeitは「一つのビートを何時間でも叩き続けることができた」と語られている。実際の録音でも、ほとんど揺れのないリズムが長時間持続しており、その精度は当時のロックドラマーの中でも際立っていた。
 
-In addition, their studio ""Inner Space'' was a renovated former movie theater, so the echoes and spatiality of the sound itself became part of the music. The recording at this location was not just a record, but a sound design that included the space.
+また、彼らのスタジオ「インナー・スペース」は元映画館を改装したもので、音の反響や空間性そのものが音楽の一部となっていた。この場所での録音は、単なる記録ではなく、空間を含めた音響設計だった。
 
-> For CAN, the studio was not a recording device, but an "instrument" for generating music.
-
----
-
-
-## Changes in vocalists and their acoustic roles
-
-### Voices that dismantle language
-
-Early vocalist Malcolm Mooney had a style of fragmented, repetitive phrases. His songs function more as devices for creating rhythm and tension than for meaning.
-
-Mooney left the band due to mental stress, but with Damo Suzuki who joined afterwards, CAN's music moved to a new level.
-
-Suzuki has almost no formal lyrics, instead adopting an improvisational vocal style. There is an anecdote that they met him by chance on the street and were taken straight to the stage. This event itself symbolizes the improvisation and serendipity of CAN.
-
-His vocals are multilingual, sometimes a string of meaningless syllables. This embodies CAN's philosophy of treating the voice as a pure acoustic element.
-
-Furthermore, Suzuki sometimes sang while walking around the audience during live performances, blurring the line between performance and music.
-
-> In CAN, the voice existed not as a ""means to convey lyrics," but as an ""element that changes the flow of sound."
+> CANにとってスタジオは記録装置ではなく、音楽を生成するための「楽器」だった。
 
 ---
 
 
-## Representative works and their background
+## ボーカリストの変遷と音響的役割
 
-### The trajectory of experiments carved into the album
+### 言語を解体する声
 
-1971's Tago Mago, released as a two-disc set, is a work that shows the limits of improvisation and editing. In particular, the latter half of the track is a mixture of noise and repetition, and deviates greatly from the framework of rock.
+初期ボーカリストのMalcolm Mooneyは、断片的で反復的なフレーズを繰り返すスタイルを持っていた。彼の歌は意味よりもリズムや緊張感を生み出す装置として機能する。
 
-At the time of production, a huge amount of recorded material existed, from which selected fragments were reconstructed. This process itself is the essence of the work.
+Mooneyは精神的な負担からバンドを離れるが、その後に加入したDamo Suzukiによって、CANの音楽は新たな段階へ進む。
 
-1972's Ege Bamyasi shows a more condensed song structure. "Spoon" was used in a German television drama and was a commercial success for the band.
+Suzukiは正式な歌詞をほとんど持たず、即興で声を発するスタイルを取った。彼は街中で偶然出会い、そのままステージに上げられたという逸話が残っている。この出来事自体が、CANの即興性と偶然性を象徴している。
 
-1973's ""Future Days'' is a work that incorporates environmental sounds and sustained sounds, and has elements that are similar to later ambient music.
+彼のボーカルは多言語的であり、時には意味を持たない音節の連なりとなる。これは声を純粋な音響要素として扱うCANの思想を体現している。
 
-As an anecdote, it is said that during the recording of ""Future Days'' there was extremely little communication between the members, and the performance proceeded almost solely through eye contact. This shows that music was shared on a level that transcended language.
+さらにSuzukiは、ライブ中に観客の間を歩き回りながら歌うこともあり、パフォーマンスと音楽の境界を曖昧にした。
 
-> CAN's album is not only a work of art, but also an experimental record that examines the possibilities of music.
+> CANにおいて声は「歌詞を伝える手段」ではなく、「音の流れを変化させる要素」として存在した。
 
 ---
 
 
-## Chronology
+## 代表作とその背景
 
-### From formation to demise
+### アルバムに刻まれた実験の軌跡
+
+1971年の『Tago Mago』は、二枚組という形式で発表され、即興と編集の極限を示した作品である。特に後半のトラックはノイズや反復が交錯し、ロックの枠組みを大きく逸脱している。
+
+制作時には膨大な録音素材が存在し、その中から選ばれた断片が再構成された。このプロセス自体が作品の本質となっている。
+
+1972年の『Ege Bamyasi』では、より凝縮された楽曲構造が見られる。「Spoon」はドイツのテレビドラマに使用され、バンドにとって商業的成功をもたらした。
+
+1973年の『Future Days』は、環境音や持続音を取り入れた作品であり、後のアンビエント音楽に通じる要素を持つ。
+
+逸話として、『Future Days』の録音時にはメンバー間のコミュニケーションが極端に少なく、ほとんどアイコンタクトだけで演奏が進行したとされる。これは音楽が言語を超えたレベルで共有されていたことを示している。
+
+> CANのアルバムは作品であると同時に、音楽の可能性を検証する実験記録でもあった。
+
+---
+
+
+## 年表
+
+### 形成から終焉まで
 
 * 1968: Formed
-* 1969: "Monster Movie" released
-* 1970: Damo Suzuki joins
-* 1971: "Tago Mago" released
-* 1972: "Ege Bamyasi" released
-* 1973: "Future Days" released
-* 1979: Suspension of activities
+* 1969年：『Monster Movie』発表
+* 1970年：Damo Suzuki加入
+* 1971年：『Tago Mago』発表
+* 1972年：『Ege Bamyasi』発表
+* 1973年：『Future Days』発表
+* 1979年：活動停止
 
 <div class="mermaid">
 timeline
@@ -131,45 +130,45 @@ timeline
     1979 : 活動停止
 </div>
 
-> In their short period of activity, CAN marked a decisive turning point in music history.
+> 短い活動期間の中で、CANは音楽史における決定的な転換点を刻んだ。
 
 ---
 
 
-## Schematic diagram of musical structure
+## 音楽構造の模式図
 
-### Simultaneous repetition and deviation
+### 反復と逸脱の同時進行
 
 <div class="mermaid">
 graph TD
-    A[motorik beat] --> B[fixed time]
-    B --> C[stable]
-    A --> D[improvised layers]
-    D --> E[change]
-    E --> F[tape editing]
-    F --> G[final structure]
+    A[モータリックビート] --> B[時間の固定]
+    B --> C[安定]
+    A --> D[即興レイヤー]
+    D --> E[変化]
+    E --> F[テープ編集]
+    F --> G[最終構造]
 </div>
 
-CAN's music is created by layering ever-changing sounds over a fixed rhythm.
+CANの音楽は、固定されたリズムの上に変化し続ける音の層が重なることで成立する。
 
-> The structure of change occurring within a stable time is the core of CAN's music.
+> 安定した時間の中で変化が生まれるという構造が、CANの音楽の核心である。
 
 ---
 
 
 ## Anecdotes and legends
 
-### A place where chance and necessity intersect
+### 偶然と必然が交差する現場
 
-There are many anecdotes about CAN. For example, Damo Suzuki was scouted by band members while singing on the streets of Munich, improvised on stage that night, and became an official member.
+CANには多くの逸話が残されている。例えば、Damo Suzukiがミュンヘンの路上で歌っていたところをバンドメンバーにスカウトされ、その夜に即興的にステージに上げられ、そのまま正式メンバーとなった。
 
-In addition, Holger Czukay sometimes incorporated shortwave radio noises he happened to pick up during recording into his works, believing that ""sounds that appear by chance are part of the music.''
+また、Holger Czukayは録音中に偶然拾った短波ラジオのノイズをそのまま作品に取り入れることがあり、「偶然に現れた音も音楽の一部」と考えていた。
 
-It is said that once Jaki Liebezeit decided on a rhythm, he rarely changed it, and the other members even got lost in it. This shows his philosophy of treating rhythm as a "fixed axis."
+Jaki Liebezeitは一度決めたリズムをほとんど変えず、他のメンバーがその上で迷子になることさえあったと語られている。これはリズムを「固定された軸」として扱う彼の哲学を示している。
 
 Furthermore, they had a unique style in which they performed and produced music simultaneously, making editorial decisions on the spot while recording their live performances.
 
-> At CAN, even chance was controlled and incorporated as part of the music.
+> At the CAN site, even chance was controlled and incorporated as part of the music.
 
 ---
 
@@ -180,25 +179,34 @@ Furthermore, they had a unique style in which they performed and produced music 
 
 CAN's influence extends to post-punk, new wave, electronic music, and even modern beat music. In particular, the ideas of repetitive structure and studio editing are fundamental to contemporary music production.
 
-Their method is genre-agnostic and continues to be reinterpreted in different contexts such as techno and hip-hop.
+彼らの手法はジャンルに依存しないため、テクノやヒップホップなど異なる文脈でも再解釈され続けている。
 
-In addition, the rediscovery of archived sound sources has further increased its reputation in recent years. Unreleased tapes and live recordings are considered important as evidence of their high level of improvisation.
+また、アーカイブ音源の再発見によって、近年さらに評価が高まっている。未発表テープやライブ音源は、彼らの即興性の高さを裏付ける資料として重要視されている。
 
 > CAN's influence extends not only to the style of sound, but also to the way music is made.
 
 ---
 
 
-## Conclusion
+## 結論
 
 ### A group that anticipates the future of music
 
-CAN occupies a unique place in rock history. They expanded the musical format and made recording and editing central to their composition.
+CANはロックの歴史の中で特異な位置を占める存在である。彼らは楽曲の形式を拡張し、録音と編集を作曲の中心に据えた。
 
-The resulting music has become a universal methodology that transcends mere genres, and is deeply rooted in today's music production.
+その結果として生まれた音楽は、単なるジャンルを超えた普遍的な方法論となり、現在の音楽制作にも深く根付いている。
 
-Their endeavor is a lasting answer to the question of how music is made and how it is experienced.
+彼らの試みは、音楽がどのように作られ、どのように経験されるかという問いに対する持続的な答えである。
 
-> CAN did not anticipate the future of music, but rewrote the definition of music itself.
+> CANは未来の音楽を先取りしたのではなく、音楽そのものの定義を書き換えた。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHcXeFe18YU?si=EsasN0Ywzl8q2fZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

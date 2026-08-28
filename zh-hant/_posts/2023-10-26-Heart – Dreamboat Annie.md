@@ -9,15 +9,15 @@ permalink: /zh-hant/heart-dreamboat-annie/
 tags:
 - Rock
 - Hard Rock
-title: 心 – 夢船安妮
+title: Heart – Dreamboat Annie
 ---
 
 
-《Dreamboat Annie》是美國搖滾樂團Heart的首張錄音室專輯。
+「ドリームボート・アニー（Dreamboat Annie）」は、アメリカのロックバンド、ハートのデビュー・スタジオ・アルバムです。
 
-當時，樂團的總部位於不列顛哥倫比亞省溫哥華，這張專輯在那裡錄製，並於 1975 年 9 月由當地唱片公司 Mushroom Records 在加拿大首次發行。這張專輯後來在 RPM 頂級專輯排行榜上排名第 20 名，並獲得雙白金認證。
+当時、バンドはブリティッシュコロンビア州バンクーバーに拠点を置いており、このアルバムはバンクーバーで録音され、最初にカナダで地元のレーベルであるマッシュルーム・レコードによって1975年9月にリリースされました。このアルバムは後にRPMのトップアルバムチャートで20位に達し、ダブルプラチナ認定を獲得しました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Magic Man
 
@@ -40,7 +40,7 @@ B4. How Deep It Goes
 B5. Dreamboat Annie (Reprise)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gQDJ45qJHBQ?si=viLowrphTK19Wcpp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

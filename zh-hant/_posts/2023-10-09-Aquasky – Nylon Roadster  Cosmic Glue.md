@@ -9,24 +9,24 @@ permalink: /zh-hant/aquasky-nylon-roadster-cosmic-glue/
 tags:
 - Drum n Bass
 - Dubstep
-title: Aquasky – 尼龍跑車宇宙膠
+title: Aquasky – Nylon Roadster  Cosmic Glue
 ---
 
 
-雖然 1996 年至 1997 年發行的許多 Moving Shadow 過於偏向爵士樂曲調，但 Aquasky 的這張專輯證明了柔和的鼓和貝斯不一定是無聊的。
+1996年から1997年にかけての多くのMoving Shadowのリリースは、ジャジーな曲調に過度に傾倒していましたが、Aquaskyのこのリリースは、穏やかなドラム＆ベースがつまらないものである必要はないことを証明しました。
 
-Nylon Roadster 是一條平滑的賽道，帶有柔和的碎拍，不會造成太多幹擾。這首歌的核心是中間溫柔而非常情感的鋼琴部分。
+『Nylon Roadster』は、滑らかな展開のトラックで、過度に干渉しない控えめなブレイクビートが特徴です。このトラックの真髄は、途中にある穏やかで非常に感情的なピアノのセクションです。
 
-我可以想像它被完美地用作搖籃曲。這真是一首很棒的歌。
+まるで子守唄として完璧に使われることを想像できます。本当に素晴らしい一曲です。
 
-#### 曲目表
+#### Tracklist
 ```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,15 +12,15 @@ tags:
 - Soul
 - Swingbeat
 - 90s
-title: Swoop – Woxo 原理
+title: Swoop – The Woxo Principle
 ---
 
 
-Swoop – Woxo 原理
+Swoop – The Woxo Principle
 
-Swoop - Waxo 王子帕爾
+スウープ - ワクソプリンスパル
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Woxo Prelude
 2. Living How I'm Living
@@ -42,7 +42,7 @@ Swoop - Waxo 王子帕爾
 18. Apple Eyes (Gt's Special Mix For Josh)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m45309243652?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45309243652?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GlvjA_4JBNw?si=lv2TLzwLk3GLZQin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

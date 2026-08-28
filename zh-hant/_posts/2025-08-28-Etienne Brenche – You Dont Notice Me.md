@@ -19,7 +19,7 @@ title: Etienne Brénche – You Don't Notice Me
 Etienne Brénche名義では、Touchdown Recordingsからリリースされたこのレコードと『The Fantasy』の12インチ2枚だけ残している。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. You Don't Notice Me
 

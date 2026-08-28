@@ -18,7 +18,7 @@ Mark De Clive-Lowe is a Japanese-New Zealand musician/composer/DJ/producer curre
 
 "Better Days" is a Future Jazz/Deep House track released by UK label People in 2000.
 
-A1 & A2: Chip Matthews (Bass), Nick Gaffaney (Drums), Kim Paterson (Trumpet), Thomas Stowers (Vocals)
+A1＆A２：Chip Matthews（Bass ）、Nick Gaffaney（Drums）、Kim Paterson（Trumpet）、Thomas Stowers（Vocals）
 
 B: Nick Gaffaney (Drums), Andre Upston (Mixed), Kim Paterson (Trumpet)
 

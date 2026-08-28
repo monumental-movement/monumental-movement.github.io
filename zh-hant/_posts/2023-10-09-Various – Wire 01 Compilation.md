@@ -9,14 +9,14 @@ permalink: /zh-hant/various-wire-01-compilation/
 tags:
 - Techno
 - Mix
-title: 各種 – Wire 01 編譯
+title: Various – Wire 01 Compilation
 ---
 
 
-「Wire 01 編譯」是
-這是 2001 年發行的 Wire 01 合輯 CD。
+「Wire 01 Compilation」は、
+2001年にリリースされたWire 01のコンピレーションCDです。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Takkyu Ishino–Hyperspeed (Short)
 2. Jeff Mills–UFO

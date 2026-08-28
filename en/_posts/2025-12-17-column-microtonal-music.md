@@ -10,16 +10,16 @@ tags:
 - Microtonal
 - Electronic
 - Pops
-title: '[Column] Microtonal Music'
+title: 【コラム】 Microtonal Music（マイクロトーナル音楽）
 ---
 
 
 
-## Microtonal music - compositional philosophy, acoustic structure, and production techniques after the dissolution of temperament
+## マイクロトーナル音楽 ― 音律解体以後の作曲思想・音響構造・制作技法
 
-Text: mmr｜Theme: About the shift to a production philosophy that does not assume a fixed pitch
+文：mmr｜テーマ：音程を固定前提としない制作思想への転換について
 
-Microtonal music has not only questioned the premise of modern music of equal temperament, but has also transformed the unit of thought in music production itself. In this paper, we do not separate the history of musical temperament, theory, acoustic structure, and production practice, but reconstruct them as interconnected movements.
+マイクロトーナル音楽は、平均律という近代音楽の前提を疑問視するだけでなく、音楽制作そのものの思考単位を変質させてきた。本稿では音律史・理論・音響構造・制作実践を分離せず、相互に連結した運動として再構成する。
 
 ---
 
@@ -28,7 +28,7 @@ Microtonal music has not only questioned the premise of modern music of equal te
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -37,234 +37,234 @@ color: #fff;
 </style>
 
 
-## 1. Temperament is not a rule but an idea.
+## 1. 音律は規則ではなく思想である
 
-12 Equal Temperament is more of an established **industrial standard for production and distribution** than music theory.
-This is a response to demands for greater freedom in modulation, mass production of keyboard instruments, and standardization of education, and is not an optimal acoustic solution.
+12平均律は音楽理論というより、**制作と流通のための工業規格**として確立した側面が強い。
+転調の自由度、鍵盤楽器の量産、教育の標準化という要請に応答した結果であり、音響的最適解ではない。
 
-The problem with microtonal music is not the numerical value of ""fineness than a semitone'';
-**This is the very idea of ​​treating pitch as a fixed unit**.
+マイクロトーナル音楽が問題化するのは「半音より細かい」という数値ではなく、
+**音程を固定単位として扱う思想そのもの**である。
 
-Pitch is originally a relative concept defined by frequency ratio, harmonic relationship, and physical perception.
-12 Equal Temperament is only a temporary frozen state.
+音程は本来、周波数比・倍音関係・身体的知覚によって定義される相対概念であり、
+12平均律はそれを一時的に凍結した状態に過ぎない。
 
 ---
 
-## 2. Non-temperamental intervals were not marginal.
+## 2. 非平均律的音程は周縁ではなかった
 
-Subdivision of intervals is no exception in pre-modern, non-Western music.
+前近代・非西洋音楽において、音程の細分化は例外ではない。
 
-* Pitch is functionally variable in maqam, an Arabic music
+* アラブ音楽のマカームでは音程は機能的に可変
 * In Indian classical music, shruti is inseparable from melodic decoration.
-* In the gamelan of Southeast Asia, there are subtle differences in pitch even within the same group of instruments.
+* 東南アジアのガムランでは同一楽器群でも微妙な音程差が前提
 
-Rather than "microtones," these are **musical cultures in which equal temperament fixation does not exist**.
+これらは「微分音」というより、**平均律的固定化が存在しない音楽文化**である。
 
 Modern Western music history did not eliminate these things, but rather did not theorize them.
 
 ---
 
-## 3. Limitations of equal temperament that became apparent at the end of the 19th century
+## 3. 19世紀末に顕在化した平均律の限界
 
-In the latter half of the 19th century, the following problems became apparent due to the expansion of harmony and chromatic usage.
+19世紀後半、和声の肥大化と半音階的語法の常態化により、以下の問題が顕在化した。
 
-* Genuine 3rd and 6th degree acoustic turbidity
-* Homogenization of harmonic color
-* Dilution of tonality sense
+* 純正三度・六度の音響的濁り
+* 和声色彩の均質化
+* 調性感覚の希薄化
 
-Many composers turned to atonal or twelve-tone techniques, but
+多くの作曲家は無調や十二音技法へ向かったが、
 In another lineage, ""redivision of intervals'' itself was selected.
 
 ---
 
 ## 4. Trends in microtonal theory in the early 20th century
 
-### 4.1 Extension of equal pitch scale
+### 4.1 等分音律の拡張
 
-24EDO, 31EDO, 19EDO, etc. are methods of increasing the number of divisions while maintaining the logic of equal temperament.
+24EDO、31EDO、19EDOなどは平均律の論理を保持したまま分割数を増やす方法である。
 
-* Relatively easy to transfer to notation and education
-* Expandable harmonic functions
-* Limited acoustic purity
+* 記譜・教育への転用が比較的容易
+* 和声機能の拡張が可能
+* 音響的純度は限定的
 
-### 4.2 Just intonation re-evaluation
+### 4.2 純正律再評価
 
 Just intonation uses interval ratios based on harmonic series.
 
-* High clarity of consonance interval
-* Modulation structure is limited
-* Difficult to understand theory and implementation
+* 協和音程の透明度が高い
+* 転調構造が制限される
+* 理論理解と実装が困難
 
-This choice transforms the music from a ""transposable structure" to a ""local acoustic structure."
+この選択は音楽を「移調可能な構造」から「局所的音響構造」へ変換する。
 
 ---
 
-## 5. Harry Partch - Reintegration of temperament, instrument, and body
+## 5. Harry Partch ― 音律・楽器・身体の再統合
 
-Harry Partch's importance lies in the fact that he constructed microtonal music as an ""ecosystem" rather than a ""composition technique."
+Harry Partchの重要性は、マイクロトーナル音楽を『作曲技法』ではなく『生態系』として構築した点にある。
 
-### 5.1 Structure of 43-tone just intonation
+### 5.1 43音純正律の構造
 
 Partch divided the octave into 43 pitches,
 This is not an equal division, but a **network structure of harmonic ratio**.
 
-* Prefer simple integer ratio
-* Tonal sense exists, but transposition is not possible
-* Interval relationships can be visualized geometrically
+* 単純整数比を優先
+* 調性感覚は存在するが移調不可
+* 音程関係が幾何学的に可視化可能
 
-### 5.2 Necessity of musical instrument design
+### 5.2 楽器設計の必然性
 
-Because existing musical instruments have a built-in temperament concept,
-New temperaments require new instruments.
+既存楽器は音律思想を内蔵しているため、
+新たな音律は新たな楽器を要求する。
 
-Partch's instruments had the following roles:
+Partchの楽器群は以下の役割を担った。
 
-* Visualization of interval structure
+* 音程構造の視覚化
 *Direct engraving on the performer's body
-* Inseparability of theory and practice
+* 理論と実践の不可分化
 
-### 5.3 Physicality, language, and pitch
+### 5.3 身体性・言語・音程
 
-Partch incorporates recitation and physical movements,
-He treated pitch as an ""extension of vocalization and physical movement'' rather than an abstract numerical value.
+Partchは朗唱や身体動作を組み込み、
+音程を抽象数値ではなく「発声と身体運動の延長」として扱った。
 
-This is an attempt to bring microtonal music back to the dimension of perceptual psychology.
-
----
-
-## 6. The ideological device of musical notation
-
-In microtonal music, notation is not just a means of communication.
-
-* Additional accidentals
-* Ratio notation
-* Numerical specification
-* Unique symbol system
-
-Which method to choose?
-This is directly connected to the ideological selection of **how you want the pitch to be understood**.
+これはマイクロトーナル音楽を知覚心理の次元へ引き戻す試みである。
 
 ---
 
-## 7. A decisive shift brought about by electronic music
+## 6. 記譜法という思想装置
 
-Electronic music transforms microtonality from "theoretical possibility" to
-Changed to **Production Choice**.
+マイクロトーナル音楽において、記譜は単なる伝達手段ではない。
 
-* Frequency can be specified directly
-* Immediate modification of tuning tables
+* 追加臨時記号
+* 比率表記
+* 数値指定
+* 独自記号体系
+
+どの方法を選ぶかは、
+**音程をどう理解させたいか**という思想選択に直結する。
+
+---
+
+## 7. 電子音楽がもたらした決定的転換
+
+電子音楽は、マイクロトーナリティを「理論的可能性」から
+**制作上の選択肢**へと変えた。
+
+* 周波数指定が直接可能
+* チューニングテーブルの即時変更
 * Free from keyboard layout
 
-As a result, temperament became a **variable parameter** rather than a fixed premise.
+これにより、音律は固定前提ではなく**可変パラメータ**となった。
 
 ---
 
-## 8. Acoustic analysis: phenomena produced by microtones
+## 8. 音響分析：微分音が生む現象
 
-### 8.1 Beating and phase interference
+### 8.1 うなりと位相干渉
 
-Small pitch differences cause the following:
+微小な音程差は以下を引き起こす。
 
-* Manifestation of beat frequency
-* Fluctuation of sound image
-* Spatial diffusion
+* ビート周波数の顕在化
+* 音像の揺らぎ
+* 空間的拡散感
 
-This is not noise, but can be used as an audible structural element.
+これはノイズではなく、**可聴な構造要素**として利用可能である。
 
-### 8.2 Rearrangement of overtone array
+### 8.2 倍音配列の再編
 
-In just intonation, the overtones are aligned, so
+純正律では倍音が整列するため、
 
 * Increased clarity of chords
-* Reduced frequency band interference
-* EQ load changes during mix
+* 周波数帯域の干渉が減少
+* ミックス時のEQ負荷が変化
 
-This requires a different mixing strategy than equal tempered harmony.
-
----
-
-## 9. Jacob Collier - Sensualization of temperament theory
-
-Jacob Collier presented microtonal theory in a way that makes you feel rather than make you understand.
-
-### 9.1 Practical application of overtone series
-
-* Use of genuine thirds and sevenths
-* Fixed pitch due to vocal multiplexing
-* Enhancement of emotional contour of harmony
-
-### 9.2 Coexistence with pop structure
-
-Collier features:
-The point is not to make microtonal elements the theme of the song structure.
-
-* The form is traditional
-* Temperament changes internally
-* Listeners accept the discomfort without theorizing it
+平均律和声とは異なるミキシング戦略が必要となる。
 
 ---
 
-## 10. Production techniques: practical approach
+## 9. Jacob Collier ― 音律理論の感覚化
 
-### 10.1 Composition Design
+Jacob Collierはマイクロトーナル理論を『理解させる』のではなく『感じさせる』形で提示した。
+
+### 9.1 倍音列の実践的応用
+
+* 純正三度・七度の使用
+* ボーカル多重による音程固定
+* 和声の感情的輪郭強化
+
+### 9.2 ポップ構造との共存
+
+Collierの特徴は、
+マイクロトーナル要素を楽曲構造の主題にしない点にある。
+
+* フォームは伝統的
+* 音律は内部で変形
+* 聴取者は違和感を理論化せず受容
+
+---
+
+## 10. 制作技法：実務的アプローチ
+
+### 10.1 作曲設計
 
 * Deciding which temperament to use
-* Understand the range of possible harmonies
+* 和声可能域の把握
 * Examination of whether modulation is possible or not
 
-### 10.2 DAW implementation
+### 10.2 DAW実装
 
-*Uses Scala file
-* Tuning by MIDI note
-* Pitch bend resolution setting
+* Scalaファイル使用
+* MIDIノート別チューニング
+* ピッチベンド分解能設定
 
-### 10.3 Mix Strategy
+### 10.3 ミックス戦略
 
-* Visualization of microtonal bands
-* Check monaural tolerance
-* Stricter phase management
+* 微分音帯域の可視化
+* モノラル耐性の確認
+* 位相管理の厳密化
 
 ---
 
-## 11. Psychoaudiology and perceptual reeducation
+## 11. 聴覚心理と知覚再教育
 
-Microtonal music retrains your hearing.
+マイクロトーナル音楽は、聴覚を再訓練する。
 
-* Redefinition of consonance and dissonance
-* Fluctuations in tonal sense
-* Calling attention to pitch
+* 協和・不協和の再定義
+* 調性感覚の揺らぎ
+* 音程への注意喚起
 
 This is established not through intellectual understanding, but through repeated listening.
 
 ---
 
-## 12. Distribution in modern scenes
+## 12. 現代シーンにおける分布
 
-Microtonal music does not form a single genre.
+マイクロトーナル音楽は単一ジャンルを形成しない。
 
-* Experimental music
-* electronic music
-* Inside Jazz/Pop
-* Video/Installation
+* 実験音楽
+* 電子音楽
+* ジャズ／ポップ内部
+* 映像・インスタレーション
 
-It exists not as a "genre" but as a production philosophy.
+それは「ジャンル」ではなく**制作思想**として存在する。
 
 ---
 
-## 13. Temperament structure relationship diagram
+## 13. 音律構造関係図
 
 <div class="mermaid">
 graph TD
-A[Temperament concept] --> B[equal temperament]
+A[音律概念] --> B[equal temperament]
 A --> C[Just intonation]
-A --> D[non-equal scale]
-C --> E[harmonic structure]
-D --> F[cultural pitch]
+A --> D[非等分音律]
+C --> E[倍音構造]
+D --> F[文化的音程]
 </div>
 
 ---
 
-## 14. Chronology: Development of microtonal music
+## 14. 年表：マイクロトーナル音楽の展開
 
 <div class="mermaid">
 timeline
@@ -278,9 +278,9 @@ timeline
 
 ---
 
-## 15. Conclusion
+## 15. 結語
 
-Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the deep layers of music production.
+マイクロトーナル音楽は音程を増やす運動ではない。音程を固定前提としない制作思想への転換である。Harry Partchは音楽を身体と空間へ引き戻し、Jacob Collierはその理論を現代的感覚へ翻訳した。この運動は今後も、音楽制作の深層で静かに作用し続ける。
 
 
 ---

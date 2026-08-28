@@ -10,15 +10,15 @@ tags:
 - Techno
 - Hardcore Techno
 - 90s
-title: Cubic 22 – 動感之夜
+title: Cubic 22 – Night In Motion
 ---
 
 
-Cubic 22 是由比利時製作人 Peter Ramson 和 Danny Van Wauwe 發起的舞曲音樂項目，他們於 20 世紀 90 年代初開始活動，當時正值英國 house 音樂界的蓬勃發展時期。 Peter Ramson 和 Danny Van Wauwe 以各種化名發布了他們的作品，其中包括 Set Up System。
+Cubic 22 は、UKで人気が出始めたハウスミュージックシーンの急成長期である1990年代初頭に活動を開始したベルギー人プロデューサーPeter Ramson と Danny Van Wauweによるダンス ミュージックプロジェクト。Peter Ramson と Danny Van Wauwe は、Set Up Systemなどさまざまな別名義で作品をリリースしている。
 
-1991 年發行的《Night In Motion》是 Cubic 22 的代表作之一，是一首經典的硬核 techno 曲目，在俱樂部、舞曲和銳舞場景中大受歡迎。
+1991年にリリースされた「Night In Motion」は、Cubic 22の代表作の一つで、クラブ・ダンス・レイヴシーンで大ヒットとなったクラシックハードコア・テクノトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Night In Motion (Original Mix)
 A2. Night In Motion (Nick's Relocated Remix)
@@ -27,7 +27,7 @@ AA1. Night In Motion (Battle Plan Remix)
 AA2. Night In Motion (Drum And Bass Dub)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m67423879835?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67423879835?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UgKXYU2GAeM?si=LrhNAE3oa6WnrKSj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

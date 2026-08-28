@@ -10,24 +10,24 @@ tags:
 - Electronic
 - Downtempo
 - 90s
-title: Le Tone – 朱利龍
+title: Le Tone – Joli Dragon
 ---
 
 
-Yann Larret-Menezo，又名 Le Tone，是一位來自法國的電子音樂藝術家、記者和插畫家。
+Le ToneことYann Larret-Menezoは、フランス出身のエレクトロニックミュージックアーティスト、ジャーナリス&イラストレーター。
 
-《Joli Dragon》是法國巴黎獨立唱片公司 Naïve 於 1999 年發行的一首慢節奏歌曲，該唱片公司活躍於 1998 年至 2016 年。它在英国大受欢迎，并在包括 Les Francos de Montréal 在内的多个音乐节上播放。
+「Joli Dragon」は、1998年〜2016年まで活動したフランスのパリを拠点とするインディペンデントレコードレーベルNaïve(ナイーヴ・レコード)から1999年にリリースされたdowntempoトラック。イギリスでヒットとなり、Les Francos de Montréalなど様々フェスティバルでプレイした。
 
-B 面是倫敦 James Hatt（又名 JADELL）的混音版。
+B面は、ロンドンを拠点とするJADELL ことJames Hatt によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Joli Dragon (Dragonfly Mix)
 
 B. Joli Dragon (Jadell Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m91057170688?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91057170688?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LVYtCk9viPY?si=Wc4viViE5Ci7XTiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

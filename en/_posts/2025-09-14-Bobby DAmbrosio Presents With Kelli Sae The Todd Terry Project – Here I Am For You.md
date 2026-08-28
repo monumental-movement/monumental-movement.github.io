@@ -14,9 +14,9 @@ title: Bobby D'Ambrosio Presents With Kelli Sae / The Todd Terry Project – Her
 ---
 
 
-A is a remix of "Here I Am" by DJ/producer Bobby D'Ambrosio, who was a member of Def Mix Productions from 1994 to 2006, and singer Kelli Sae, by DJ/producer David Morales, who has worked on remixes for notable artists such as Aretha Franklin, Pet Shop Boys, and Jamiroquai.
+Aは、1994年〜2006年までDef Mix Productionsのメンバーとして活動したDJ／プロデューサーBobby D'AmbrosioとシンガーKelli Saeの「Here I Am」を、Aretha Franklin、Pet Shop Boys、Jamiroquaiなど、そうそうたるアーティストのリミックス作品を手がけたDJ／プロデューサーDavid Morales（デヴィッド・モラレス）がremix。
 
-B is by Todd Terry, a major house music DJ/producer.
+Bは、ハウスミュージックの大御所DJ／プロデューサーTodd Terry (トッドテリー)によるもの。
 
 #### Tracklist
 ```md
@@ -25,4 +25,4 @@ A. Bobby D'ambrosio Presents with Kelli Sae – Here I Am (David Morales Club Mi
 B. Todd Terry – For You (Todd Terry Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m43721960921?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43721960921?afid=6142608987){: .button1}

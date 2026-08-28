@@ -14,7 +14,7 @@ title: Warlords Of Pez – Warlords Of Pez
 
 Warlords Of Pez is an Irish rock band that seems to have come from a galaxy far, far away. Members include Chris Judge, a former member of the Irish indie pop band The Chalets.
 
-A concept album released in 2006 by Irish rock/electronica label Trust Me I'm A Thief.
+アイルランドのロック/エレクトロニカレーベルTrust Me I'm A Thiefから2006年にリリースされたコンセプトアルバム。
 
 
 #### Tracklist

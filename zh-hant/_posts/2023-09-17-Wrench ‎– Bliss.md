@@ -10,15 +10,15 @@ tags:
 - Rock
 - Dub
 - Mixture
-title: 扳手 – 幸福
+title: Wrench – Bliss
 ---
 
 
-Wrench 於 1992 年 7 月由 Shige、Azusa Sakamoto、Tomohiro Matsuda 和 Fujimaru Nagoshi 組成，現已成為日本響亮搖滾樂壇的重要組成部分。
+Wrench（レンチ）は、1992年7月にシゲ、坂本梓、松田智宏、名越藤丸によって結成され、日本のラウドロックシーンにおいて重要な存在となってきました。
 
-這張專輯是2000年發行的雙LP唱片。
+このアルバムは、2000年にリリースされた2枚組LPです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  Sound Wave
 
@@ -59,7 +59,7 @@ D1  Passion
 D2  Blood Type Mysterious
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJ1D_vYYAug?si=Y5Ga3kjLFF9wfMxy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

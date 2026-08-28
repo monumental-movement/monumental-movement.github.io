@@ -10,45 +10,44 @@ tags:
 - Breakcore
 - Jungle
 - Culture
-title: '[Column] Why Breakcore Is Suddenly Back - The reason why chaotic beats are
-  running around the world again'
+title: 【コラム】 Why Breakcore Is Suddenly Back ― カオスのビートが再び世界を駆け巡る理由
 ---
 
 
 
-## What is Breakcore?
+## Breakcoreとは何か
 
-Text: mmr｜Theme: Understanding why breakcore, a music genre of high-speed breakbeats and digital chaos, is once again spreading explosively thanks to the modern Internet generation, from history and culture.
+文：mmr｜テーマ：高速ブレイクビートとデジタル混沌の音楽ジャンル、ブレイクコアがなぜ現代のインターネット世代によって再び爆発的に広がっているのかを、歴史と文化から読み解く
 
 
-In the history of electronic music, ""genres that disrupt common sense'' appear in each era.
+電子音楽の歴史には、時代ごとに「常識を破壊するジャンル」が現れる。
 
-- Noise music in the 1960s,
-- Industrial in the 1980s,
-- Jungle and drum and bass in the 1990s.
+- 1960年代にはノイズ音楽、
+- 1980年代にはインダストリアル、
+- 1990年代にはジャングルとドラムンベース。
 
-Then, in the late 1990s, music emerged that further destroyed all of that.
-That is Breakcore.
+そして1990年代後半、そのすべてをさらに破壊する音楽が登場した。
+それがBreakcore（ブレイクコア）である。
 
-Breakcore is music created by extremely decomposing the high-speed breakbeats of jungle and drum"n"bass, and colliding all kinds of materials with it, including noise, metal, classical music, anime sounds, game sounds, etc.
+Breakcoreは、ジャングルやドラムンベースの高速ブレイクビートを極端に分解し、そこにノイズ、メタル、クラシック、アニメ音声、ゲーム音など、あらゆる素材を衝突させて作られる音楽である。
 
-The features can be summarized into the following three main points.
+特徴は主に次の3つに集約される。
 
-- super fast breakbeat
-- Genre-shattering sampling
-- intentional chaos
+- 超高速ブレイクビート
+- ジャンル破壊的なサンプリング
+- 意図的なカオス
 
-The tempo often exceeds 160-220 BPM, and the beat is chopped into seconds.
+テンポは160〜220BPMを超えることも多く、ビートは数秒単位で切り刻まれる。
 
-In other words, Breakcore is not just a music genre;
+つまりBreakcoreとは、単なる音楽ジャンルではなく、
 
-"Extreme form of sampling culture"
+「サンプリング文化の極限形態」
 
-It was something you could say.
+とも言える存在だった。
 
-Breakcore became known as the most anarchic music in rave culture in the 1990s.
+1990年代のレイヴ文化の中でも、Breakcoreは最もアナーキーな音楽として知られることになる。
 
->Breakcore was a genre of electronic music that was born with the aim of ""destroying order itself.''
+> Breakcoreは電子音楽の中でも「秩序を破壊すること自体」を目的に生まれたジャンルだった。
 
 ---
 
@@ -57,7 +56,7 @@ Breakcore became known as the most anarchic music in rave culture in the 1990s.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -67,137 +66,137 @@ color: #fff;
 
 
 
-## Background of the birth of Breakcore
+## Breakcore誕生の背景
 
-To understand the roots of Breakcore, you need to know the European underground music scene of the 1990s.
+Breakcoreのルーツを理解するには、1990年代のヨーロッパの地下音楽シーンを知る必要がある。
 
-Jungle and drum and bass were rapidly developing in the club scene at the time.
+当時のクラブシーンでは、ジャングルとドラムンベースが急速に発展していた。
 
-These genres were created by deconstructing drum loops known as "Amen Breaks."
+これらのジャンルは、いわゆる「Amen Break」と呼ばれるドラムループを分解して作られていた。
 
-However, in the mid-1990s, some artists began to take the beat even further.
+しかし1990年代半ば、一部のアーティストはそのビートをさらに過激に切り刻み始める。
 
-The following culture influenced this.
+そこに影響を与えたのが次の文化だった。
 
-- Industrial
-- noise music
-- hardcore techno
-- Digital sampling culture
+- インダストリアル
+- ノイズミュージック
+- ハードコアテクノ
+- デジタルサンプリング文化
 
-In particular, European squat culture (rave in illegally occupied spaces) played a huge role in the birth of Breakcore.
+特にヨーロッパのスクワット文化（不法占拠スペースでのレイヴ）は、Breakcoreの誕生に大きな役割を果たした。
 
-In this scene,
+このシーンでは、
 
-"I didn"t have to follow the rules of the genre."
+「ジャンルのルールを守る必要がなかった」
 
-As a result, music rapidly becomes more radical.
+ため、音楽は急速に過激化していく。
 
-The result was a new music that was more violent than jungle and more rhythmic than noise.
+こうして誕生したのが、ジャングルよりもさらに暴力的で、ノイズよりもリズミカルな新しい音楽だった。
 
-> Breakcore was born out of the most free and anarchic space in rave culture.
-
----
-
-
-## 1990s: Birth in the underground scene
-
-Breakcore first spread primarily to Europe.
-
-It quickly spread through underground clubs and raves in Belgium, Germany, France, and the Netherlands.
-
-Breakcore during this era was even more extreme than it is now.
-
-Music often had the following characteristics:
-
-- super fast tempo
-- distorted drums
-- political sampling
-- Noisy acoustics
-
-In other words, Breakcore is not just dance music;
-
-"Cultural rebellion"
-
-But there was.
-
-Many of the songs included anti-capitalist and anti-establishment samples.
-
-Therefore, Breakcore was not played in commercial clubs, but mainly in the following places.
-
-- Underground Rave
-- DIY events
-- Art space
-
-In the late 1990s, Breakcore became established as underground music in Europe.
-
-> Breakcore was not a commercial music genre from the beginning, but was born as an underground culture.
+> Breakcoreはレイヴ文化の中でも最も自由で無秩序な空間から生まれた。
 
 ---
 
 
-## Internet and Breakcore
+## 1990年代：地下シーンでの誕生
 
-In the 2000s, Breakcore spread along with the Internet.
+Breakcoreが最初に広がったのは、主にヨーロッパだった。
 
-The following platforms played important roles in the electronic music scene at the time:
+ベルギー、ドイツ、フランス、オランダなどの地下クラブやレイヴで、急速に広がっていく。
 
-- MP3 sharing site
-- Music Forum
-- File sharing network
+この時代のBreakcoreは、現在よりもさらに過激だった。
 
-These networks allow Breakcore to spread around the world.
+音楽はしばしば次のような特徴を持っていた。
 
-Of particular importance was the
+- 超高速テンポ
+- 歪んだドラム
+- 政治的サンプリング
+- ノイズ的な音響
 
-"Digitalization of the production environment"
+つまりBreakcoreは単なるダンスミュージックではなく、
 
-It was.
+「文化的反抗」
 
-In the 1990s, hardware samplers were the mainstream, but in the 2000s software production became commonplace.
+でもあった。
 
-This results in
+多くの楽曲は反資本主義や反体制的なサンプリングを含んでいた。
 
-Anyone can now create Breakcore.
+そのため、Breakcoreは商業クラブではなく、主に次の場所で演奏されていた。
 
-In other words, Breakcore was also the DIY music of the internet age.
+- アンダーグラウンドレイヴ
+- DIYイベント
+- アートスペース
 
-> Breakcore has become music born from home studios all over the world thanks to the internet.
+1990年代後半、Breakcoreはヨーロッパの地下音楽として確立される。
+
+> Breakcoreは最初から商業音楽ではなく、地下文化として誕生したジャンルだった。
+
+---
+
+
+## インターネットとBreakcore
+
+2000年代に入り、Breakcoreはインターネットと共に拡散していく。
+
+当時の電子音楽シーンでは、次のプラットフォームが重要な役割を果たした。
+
+- MP3共有サイト
+- 音楽フォーラム
+- ファイル共有ネットワーク
+
+これらのネットワークによって、Breakcoreは世界中に広がる。
+
+特に重要だったのは、
+
+「制作環境のデジタル化」
+
+だった。
+
+1990年代はハードウェアサンプラーが主流だったが、2000年代にはソフトウェア制作が一般化する。
+
+これにより、
+
+誰でもBreakcoreを作れるようになった。
+
+つまりBreakcoreは、インターネット時代のDIY音楽でもあった。
+
+> Breakcoreはインターネットによって世界中の自宅スタジオから生まれる音楽になった。
 
 ---
 
 
 ## 2010s: Genre Stagnation
 
-In the 2010s, Breakcore temporarily stagnated.
+2010年代に入ると、Breakcoreは一時的に停滞する。
 
-There are several reasons.
+理由はいくつかある。
 
 First is the global EDM boom.
 
-Electronic music in the 2010s moved toward a larger festival sound.
+2010年代の電子音楽は、より大規模なフェスティバル向けのサウンドに移行した。
 
-Its characteristics were as follows.
+その特徴は次の通りだった。
 
-- simple drop
-- Mass structure
-- Focus on festivals rather than clubs
+- シンプルなドロップ
+- 大衆向け構造
+- クラブよりフェス重視
 
-Breakcore was the complete opposite of this trend.
+Breakcoreはこの流れと真逆だった。
 
-- Too complicated
-- too fast
-- Too chaotic
+- 複雑すぎる
+- 速すぎる
+- カオスすぎる
 
-In other words, it was not compatible with festival culture.
+つまりフェス文化とは相性が悪かったのである。
 
-As a result, Breakcore goes back underground.
+その結果、Breakcoreは再び地下へと戻っていく。
 
-> The mass EDM era of the 2010s was not the place for Breakcore.
+> 2010年代の大衆EDM時代はBreakcoreの居場所ではなかった。
 
 ---
 
 
-## Chronology: History of Breakcore
+## 年表：Breakcoreの歴史
 
 <div class="mermaid">
 timeline
@@ -211,204 +210,204 @@ timeline
     2020 : インターネット文化で再評価
 </div>
 
-> From its birth to the present, Breakcore has evolved by going back and forth between the underground and the internet.
+> Breakcoreは誕生から現在まで地下とネットを行き来しながら進化してきた。
 
 ---
 
 
-## 2020s: Sudden revival
+## 2020年代：突然の復活
 
-In the 2020s, Breakcore suddenly becomes popular again on the internet.
+2020年代に入り、Breakcoreは突然インターネットで再び人気を獲得する。
 
-The following factors had a particularly large impact:
+特に影響が大きかったのは次の要素だった。
 
-- Video platform
-- Short video culture
-- Game culture
-- Anime culture
+- 動画プラットフォーム
+- ショート動画文化
+- ゲーム文化
+- アニメ文化
 
-The fast and chaotic Breakcore sound is
+高速で混沌としたBreakcoreの音は、
 
-"Short video"
+「短い動画」
 
-It was a very good compatibility.
+と非常に相性が良かった。
 
-It is also connected to gaming culture.
+またゲーム文化とも結びつく。
 
-- fast beat
-- Intense editing
-- digital sound
+- 高速ビート
+- 激しい編集
+- デジタル的音響
 
-These match the game footage very well.
+これらはゲーム映像と非常にマッチする。
 
 In this way, Breakcore is not a rave culture.
 
-"Internet culture"
+「インターネット文化」
 
-was revived inside.
+の中で復活した。
 
-> Breakcore's resurgence began not in clubs, but on the internet.
+> Breakcoreの復活はクラブではなくインターネットから始まった。
 
 ---
 
 
-## Breakcore and the Internet generation
+## Breakcoreとインターネット世代
 
-Why are younger generations attracted to Breakcore?
+なぜ若い世代はBreakcoreに惹かれるのか。
 
-It is deeply connected to modern digital culture.
+それは現代のデジタル文化と深く関係している。
 
-The modern internet is
+現代のインターネットは、
 
-flood of information
+情報の洪水
 
-It is.
+である。
 
 - movie
-- Meme
-- Games
-- music
+- ミーム
+- ゲーム
+- 音楽
 
-Everything moves at high speed.
+すべてが高速で流れていく。
 
-Breakcore's musical structure is very close to this feeling.
+Breakcoreの音楽構造は、この感覚に非常に近い。
 
 The beat changes constantly, samples colliding one after another.
 
-In other words, Breakcore is
+つまりBreakcoreは、
 
-"The sound of the Internet itself"
+「インターネットそのものの音」
 
-You can say that.
+とも言える。
 
-> Breakcore has become the sound that symbolizes the era of information overload.
+> Breakcoreは情報過多の時代を象徴するサウンドになった。
 
 ---
 
 
-## Breakcore music structure
+## Breakcoreの音楽構造
 
-Breakcore's structure is very different from other electronic music.
+Breakcoreの構造は、他の電子音楽と大きく異なる。
 
 <div class="mermaid">
 graph TD
-A[Breakcore] --> B[fast breakbeat]
-A --> C[sampling collision]
-A --> D[noise element]
-A --> E[Mixed genres]
+A[Breakcore] --> B[高速ブレイクビート]
+A --> C[サンプリング衝突]
+A --> D[ノイズ要素]
+A --> E[ジャンル混合]
 
 B --> F[160〜220BPM]
-C --> G[Movies/Anime/Games]
-D --> H[industrial acoustics]
-E --> I[metal classic pop]
+C --> G[映画・アニメ・ゲーム]
+D --> H[インダストリアル音響]
+E --> I[メタル・クラシック・ポップ]
 
 </div>
 
-The characteristics of this genre are
+このジャンルの特徴は、
 
-"There is no unified style."
+「統一されたスタイルがない」
 
-There is also a thing.
+ことでもある。
 
-In other words, what is Breakcore?
+つまりBreakcoreとは、
 
-genre without rules
+ルールのないジャンル
 
-It is.
+である。
 
-> Breakcore is a style of breaking the rules of music.
+> Breakcoreは音楽のルールを破壊すること自体をスタイルにしている。
 
 ---
 
 
-## Breakcore and anime culture
+## Breakcoreとアニメ文化
 
-The recent revival of Breakcore is also related to Japanese anime culture.
+近年のBreakcore復活には、日本のアニメ文化も関係している。
 
-Many new generation Breakcores have the following characteristics:
+多くの新世代Breakcoreには次の特徴がある。
 
-- Anime sampling
-- Japanese vocals
-- Game music influence
+- アニメサンプリング
+- 日本語ボーカル
+- ゲーム音楽の影響
 
-These spread in overseas internet communities.
+これらは海外のインターネットコミュニティで広がった。
 
-Of particular importance was the
+特に重要だったのは、
 
-"Globalization of Otaku Culture"
+「オタク文化のグローバル化」
 
 It was.
 
 By combining anime and electronic music, a new Breakcore style is born.
 
-This trend is very different from the jungle culture of the past.
+この流れは、かつてのジャングル文化とは大きく異なる。
 
-> Modern Breakcore is evolving at the intersection of anime and internet culture.
+> 現代のBreakcoreはアニメとインターネット文化の交差点で進化している。
 
 ---
 
 
-## Why Breakcore is spreading again
+## なぜBreakcoreは再び広がったのか
 
-There is no single reason for the resurgence of Breakcore.
+Breakcore復活の理由は、単一ではない。
 
-There are five main ones:
+主に次の5つが挙げられる。
 
-1. Affinity with Internet culture
+1. インターネット文化との親和性
 
-2. Music structure in the era of short videos
+2. ショート動画時代の音楽構造
 
-3. Compatibility with gaming culture
+3. ゲーム文化との相性
 
-4. Ease of DIY production
+4. DIY制作の容易さ
 
 5. Mixed genre culture
 
-In other words, Breakcore is
+つまりBreakcoreは、
 
-Music most suited to modern digital culture
+現代のデジタル文化に最も適した音楽
 
-It was.
+だったのである。
 
-> The resurgence of Breakcore was not a coincidence but a necessity of digital culture.
+> Breakcoreの復活は偶然ではなくデジタル文化の必然だった。
 
 ---
 
 
 ## Future of Breakcore
 
-What will happen to Breakcore in the future?
+Breakcoreは今後どうなるのだろうか。
 
-If you look at history, this genre has always lived in the following places:
+歴史を見ると、このジャンルは常に次の場所で生きてきた。
 
-- Underground
-- internet
-- DIY culture
+- 地下
+- インターネット
+- DIY文化
 
-In other words, Breakcore is
+つまりBreakcoreは、
 
-It's not music from a big industry.
+巨大産業の音楽ではない。
 
-rather
+むしろ
 
-"Culture Gap"
+「文化の隙間」
 
 It is music born from.
 
-Breakcore will continue to evolve in a place different from mainstream music.
+今後もBreakcoreは、主流の音楽とは違う場所で進化していくだろう。
 
-And the place is not a club
+そしてその場所は、クラブではなく
 
-It might be the internet.
+インターネットかもしれない。
 
-> Breakcore is not mainstream music, but continues to be a genre that constantly evolves at the boundaries of culture.
+> Breakcoreは主流音楽ではなく、常に文化の境界で進化するジャンルであり続ける。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qZcWCu5n7UU?si=ogdO96MU-s3Jxrac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

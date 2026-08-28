@@ -10,19 +10,19 @@ tags:
 - Disco
 - House
 - 00s
-title: 西蒙娜費迪 – Belzebu Tales
+title: Simone Fedi – Belzebu Tales
 ---
 
 
-西蒙娜·費迪 (Simone Fedi) 是一位義大利音樂家和製作人。
+Simone Fediは、イタリアのミュージシャン・プロデューサー。
 
-他也是義大利電子迪斯科放克計畫 Out Of City 的成員。
+イタリアのエレクトロ・ディスコ・ファンクプロジェクトOut Of Cityのメンバーとしても活動している。
 
-《Belzebù Tales》是由著名唱片公司 Eskimo 於 2007 年發行的迪斯可曲目。
+「Belzebù Tales」は、名門レーベルEskimo（エスキモー）から2007年にリリースされたディスコトラック。
 
-這張唱片是西蒙費迪（Simone Fedi）的代表作，風靡全球，並得到了 Tiga、Lindstrom、Aeroplane、Jason Eldredge、Low Motion Disco、Munk (Gomma)、Serge (Clone)、Zak Frost、Piccadilly Records、Phon Records 等唱片公司的審閱。
+このレコードは、Tiga、Lindstrom、Aeroplane、Jason Eldredge、Low Motion Disco、Munk (Gomma)、Serge (Clone)、Zak Frost、Piccadilly Records、Phonica Records などからレビューされ、世界的にヒットしたSimone Fediの代表作。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Belzebù Tales
 
@@ -31,7 +31,7 @@ B1. Judas!
 B2. 2m/6ft
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XngQEonoK-E?si=UoALFHyv3mxe3SFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ title: DJ Rodriguez – Afterhours - Nonstop Mix Style Three
 
 
 
-The third installment of the ""AFTERHOURS'' compilation series by DJ Rodriguez, an artist representing the long-established Italian label IRMA RECORDS.
+イタリアの老舗レーベルIRMA RECORDSを代表するアーティスト DJ Rodriguezによるコンピレーション『AFTERHOURS』シリーズの第3弾。
 
 #### Tracklist
 ```md
@@ -35,4 +35,4 @@ The third installment of the ""AFTERHOURS'' compilation series by DJ Rodriguez, 
 14. DJ Rodriguez – The Summer is Coming (Come Back Home Edit)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m27605587794?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27605587794?afid=6142608987){: .button1}

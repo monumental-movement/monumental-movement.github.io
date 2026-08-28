@@ -23,7 +23,7 @@ Model 500は、Juan Atkins(ホアン・アトキンス)の別名義。
 
 Underworld MK. 2 Mixはシンプルでクラブ向けのトラックを追求し、暗くやや攻撃的な雰囲気を醸し出しています。しかし、Frank De Wulfはトライバルハウスの要素を取り入れたリミックスを提供しており、それでも「Original Mix」はその輝きを保っています。
 
-#### 曲目表
+#### Tracklist
 ```md
 S. The Flow M14 (G-Funk Mix)
 

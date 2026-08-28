@@ -9,13 +9,13 @@ permalink: /zh-hant/el-cubano-todos-a-la-fiesta-eo-eo-si-tu-quieres/
 tags:
 - Euro
 - House
-title: 古巴 - Todos A La Fiesta Eo Eo Si Tu Quieres
+title: El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres
 ---
 
 
-El Cubano 的 Todos A La Fiesta/Eo Eo Si Tu Quieres 是義大利廠牌 Muzic Without Control Records 發行的拉丁 Eurohouse 曲目。
+El CubanoによるTodos A La Fiesta/Eo Eo Si Tu Quieresは、イタリアのレーベル「Muzic Without Control Records」からリリースされたラテン・ユーロハウスのトラックです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Todos A La Fiesta
 
@@ -26,5 +26,5 @@ B1. Eo Eo Si Tu Quieres (Club Rumba Mix)
 B2. Eo Eo Si Tu Quieres (Original Album Vrs.)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m27731340475?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27731340475?afid=6142608987){: .button1}
 

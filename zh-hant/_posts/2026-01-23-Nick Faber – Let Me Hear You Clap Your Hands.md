@@ -11,15 +11,15 @@ tags:
 - Electro
 - Hiphop
 - 90s
-title: Nick Faber – 讓我聽到你拍手
+title: Nick Faber – Let Me Hear You Clap Your Hands
 ---
 
 
-Nick Faber 是一位駐倫敦的製作人/音樂家。
+Nick Faberは、ロンドンを拠点に活動するプロデューサー／ミュージシャン。
 
-《Let Me Hear You Clap Your Hands》是 Breakbeat/Hip Hop 廠牌 Marble Bar 於 1999 年發行的 Breaks/Electro 曲目。
+「Let Me Hear You Clap Your Hands」は、1999年にBreakbeat／Hip HopレーベルMarble BarからリリースされたBreaks／Electro トラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Let Me Hear You Clap Your Hands
 
@@ -27,7 +27,7 @@ B1. Let Me Hear You Clap Your Hands (Radio Edit)
 B2. The Beat That Love Had
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m15950623654?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15950623654?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tE4rwGs6PBw?si=LqaU2zRyWjr1lUg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

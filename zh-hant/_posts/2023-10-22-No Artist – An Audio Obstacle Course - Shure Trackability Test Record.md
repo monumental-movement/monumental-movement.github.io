@@ -14,9 +14,9 @@ title: No Artist – An Audio Obstacle Course - Shure Trackability Test Record
 ---
 
 
-舒爾於 1967 年發布了《No Artist – An Audio Obstacle Course – Shure Trackability Test Record》。
+「No Artist – An Audio Obstacle Course - Shure Trackability Test Record」は、1967年にShureからリリースされました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Introduction
 
@@ -50,5 +50,5 @@ B9. Right Ch. Harpsichord - 4 Levels
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
 

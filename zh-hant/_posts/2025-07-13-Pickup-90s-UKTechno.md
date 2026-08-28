@@ -9,22 +9,22 @@ permalink: /zh-hant/pickup-90s-uktechno/
 tags:
 - UK Techno
 - 90s
-title: 精選 90 年代的英國 techno 作品
+title: 90年代のUKテクノ作品をピックアップ
 ---
 
 
-“這是一組非凡的作品，以其嚴格的節奏和尖端的聲音設計，象徵著 90 年代的英國 techno 場景。”
+「硬質なリズムと先鋭的サウンドデザインで、90年代UKテクノシーンを象徴する注目すべき作品群」
 
-<小時>
+<hr>
 
-### Justin Berkovi – Fast-Wide E.P.
-<a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20</a>
+### Justin Berkovi – Fast - Wide E.P.
+<a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.webp"></a>
 
-發佈時間：1998
+Released：1998年
 
-Cloned - Vinyl 在英國發行了一張 4 首曲目 EP。 A 面為“Brutal – City”和“Risk – Rumblin’”，B 面為“Steadycam”和“Neon”。
+UK・Cloned - Vinylよりリリースされた4トラックのEP。A面に「Brutal - City」「Risk - Rumblin’」、B面に「Steadycam」「Neon」
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Brutal City
 
@@ -36,23 +36,23 @@ B2. Neon
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 
-<小時>
+<hr>
 
 ### Autechre – Envane
 <a href="https://jp.mercari.com/item/m70361302879?afid=6142608987"><img src="../assets/images/Autechre%20%E2%80%93%20Envane.webp"></a>
 
-發佈時間：1997 年
+Released：1997年
 
-Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏與音景的 CD
+ショーン・ブース＆ロブ・ブラウンによるUKエレクトロ／テクノ作品。実験的リズム＆サウンドスケープを搭載したCD
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Goz Quarter
 
@@ -63,21 +63,21 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏
 4. Draun Quarter
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
 
-### 盧克·斯萊特 – 弗里克 – 放克
-<a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp.
+### Luke Slater – Freek - Funk
+<a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
-發佈時間：1997 年
+Released：1997年
 
-英國科技與電子音樂。由 NovaMute 發佈。 Mixmag 90 年代排名前 5 名的專輯
+UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90年代ベスト5に選出する名盤
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Purely
 2. Score One
@@ -98,39 +98,39 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏
 
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=KWuZGhZCXyp8X_58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### D.O.M. – Acid War（解放者 DJ RMX）
-<a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20WRM20(Liberator
+### D.O.M. – Acid War (Liberator DJs RMX)
+<a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).webp"></a>
 
-發行時間：1995年（原版），2006年發行混音版
+Released：1995年（オリジナル），リミックス盤は2006年
 
-由英國二人組 Jon Nuccle/Mike Humphries 創作的 Acid techno remix
+UKのJon Nuccle／Mike Humphriesのデュオによるアシッド・テクノ・リミックス
 
-#### 曲目表
+#### Tracklist
 ```md
 A.  Acid War (Liberator DJs RMX)
 
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m93454980108?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93454980108?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgzmydKU9Go?si=pgZHEOnQqcXTMNRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 外科醫生 - 通訊
-<a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Sur​​geon%20%E2%80%93%20Communications.webp"></a>
+### Surgeon – Communications
+<a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.webp"></a>
 
-發佈時間：1996 年
+Released：1996年
 
-Surgeon 的首張專輯 Downwards（英國）。在 Regis/Female 的支持下發布
+Downwards（UK）からSurgeonの1stアルバム。レジス／Femaleのサポートでリリース
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Syllable
 
@@ -143,21 +143,21 @@ D1. Particle
 D2. Optic
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 外科醫師 – 幹
-<a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Sur​​geon%20%E2%80%93%20Dry.webges/Sur​​geon%20%E2%80%93%20Dry.webp"></a>
+### Surgeon – Dry
+<a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.webp"></a>
 
-發佈時間：1999
+Released：1999年
 
-以 Surgeon 為名的激烈 techno 曲目
+Surgeon名義の強烈なテクノ・トラック
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Untitled
 A2. Untitled
@@ -166,31 +166,31 @@ B1. Untitled
 B2. Untitled
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 催眠師 – 房子是我的’92
-<a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%20%E2%80%93%20House%20Is%20Mine%20Is%20Mine%20a>
+### Hypnotist – House Is Mine ’92
+<a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.webp"></a>
 
-發行：1992 年英國 techno 單位的 Hardcore techno
+Released：1992年 UKテクノユニットによるハードコア・テクノ
 
-#### 曲目表
+#### Tracklist
 ```md
 A. The House Is Mine '92 (Original)
 
 B. The House Is Mine '92 (Westbam Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 清單
+### List
 
 <div class="table-border">
 <table>

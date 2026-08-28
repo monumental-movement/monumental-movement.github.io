@@ -12,7 +12,7 @@ title: DMX Krew – Showroom Dummies
 ---
 
 
-DMX Krew (Ed Upton) EP released in 1998 on the German label International Deejay Gigolo Records.
+1998年にドイツのレーベルInternational Deejay Gigolo RecordsからリリースされたDMX Krew（Ed Upton / エド・アップトン）のEP。
 
 #### Tracklist
 ```md

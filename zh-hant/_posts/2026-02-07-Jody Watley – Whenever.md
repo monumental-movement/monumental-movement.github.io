@@ -10,16 +10,16 @@ tags:
 - House
 - Deep House
 - 00s
-title: 喬迪沃特利——每當
+title: Jody Watley – Whenever
 ---
 
 
 
-喬迪·沃特利是一位來自芝加哥的美國歌手。 1977年至1984年，他是靈魂樂/迪斯可樂團Shalamar的成員。他的熱門獨奏歌曲包括《尋找新的愛情》、《你不需要我》和《某種情人》。
+Jody Watley (ジョディ・ワトリー) は、アメリカ・シカゴ出身のシンガー。1977年から1984年まではソウル／ディスコグループShalamar（シャラマー）の一員として活躍した。ソロではヒット曲 『Looking for a New Love』『Don't You Want Me』『Some Kind of Lover』がよく知られている。
 
-《Whenever》是 Bill Coleman（又名 Peace Bisquit）和 Angelo Skordos 的唱片公司 Peace Bisquit 於 2003 年發行的 House/Deep House 曲目。
+「Whenever」は、Bill Coleman (aka Peace Bisquit) と Angelo Skordos主宰のレーベルPeace Bisquitから2003年にリリースされたHouse／Deep Houseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Whenever (Original Vocal Version)
 A2. Whenever (Original Instrumental)
@@ -28,7 +28,7 @@ B1. Photographs (Exclusive Dave Warrin U.S. Remix)
 B2. Whenever (Original A Capella)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m45630236066?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45630236066?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HzDF1CQlnW4?si=5QEHd1DWe9mRCgkH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

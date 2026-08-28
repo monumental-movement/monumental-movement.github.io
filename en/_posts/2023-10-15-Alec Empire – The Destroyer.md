@@ -12,7 +12,7 @@ title: Alec Empire – The Destroyer
 ---
 
 
-Alec Empire is a German experimental electronic musician and founding member of the band Atari Teenage Riot.
+Alec Empire（アレック・エンパイア）は、ドイツの実験的エレクトロニック・ミュージシャンであり、バンド Atari Teenage Riotの創設メンバー。
 
 #### Tracklist
 ```md
@@ -37,7 +37,7 @@ D3. Pleasure Is Our Business (Live!)
 D4. Untitled
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m94890989911?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94890989911?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pkVKrOFxTWk?si=kZuxmX7qD-gSKCRd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

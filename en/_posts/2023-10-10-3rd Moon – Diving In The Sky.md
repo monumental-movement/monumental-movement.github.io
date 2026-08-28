@@ -12,7 +12,7 @@ title: 3rd Moon – Diving In The Sky
 ---
 
 
-3rd Moon is a unit made up of two Polish producers, Kamil Bigai and Krzysztof Pletkawicz.
+3rd Moonは、ポーランドの2人のプロデューサー、カミル・ビガイとクシシュトフ・プレトゥカヴィッチによるユニットです。
 
 #### Tracklist
 ```md

@@ -11,15 +11,15 @@ tags:
 - Heavy Metal
 - Glam Metal
 - 80s
-title: 邊鋒——邊鋒
+title: Winger – Winger
 ---
 
 
-Winger是一支於1987年在紐約成立的美國搖滾樂團。 Winger在80年代末和90年代初發行了兩張白金專輯《Winger》和《In the Heart of the Young》。 1990年，他們被提名為全美音樂獎「最佳新重金屬樂團」。
+Winger（ウィンガー）は、1987年にNYで結成されたアメリカのロックバンド。ウィンガーは、1980年代後半から1990年代前半にかけて、2枚のプラチナアルバム「Winger（ウィンガー）」と「イン・ザ・ハート・オブ・ザ・ヤング」をリリース。1990年には、アメリカンミュージックアワードの「Best New Heavy Metal Band」にノミネートされた。
 
-《Winger》於 1988 年發行，是 Winger 的首張錄音室專輯，由 Beau Hill 製作。
+1988年にリリースした「Winger」は、Wingerのデビュースタジオアルバムで、Beau Hillがプロデュースした。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Madalaine
 2. Hungry
@@ -33,7 +33,7 @@ Winger是一支於1987年在紐約成立的美國搖滾樂團。 Winger在80年�
 11. Higher And Higher
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIpRdbi9pYw?si=jt0s2nB6c5NgTA2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

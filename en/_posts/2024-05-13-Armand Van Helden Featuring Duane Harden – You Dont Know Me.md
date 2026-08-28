@@ -14,11 +14,11 @@ title: Armand Van Helden Featuring Duane Harden – You Don't Know Me
 ---
 
 
-"You Don't Know Me" by Armand Van Helden and Duane Harden is a best-selling dance single and club hit house track that topped the UK Singles Chart in January 1999.
+Armand Van HeldenとDuane Harden による「You Don't Know Me」は1999年1月に全英シングル チャートでトップなったベストセラーダンスシングル＆クラブヒットハウストラック。
 
-"You Don"t Know Me" samples the strings from Carrie Lucas' "Dance With You" and the drums/beat from Jaydee"s "Plastic Dreams."
+「You Don't Know Me」は、Carrie Lucas（キャリー・ルーカス）「Dance With You」のストリングスとJaydee「Plastic Dreams」のドラム/ビートをサンプリングしている。
 
-The B-side "Rock Da Spot" features Mr. Len from Company Flow.
+B面「Rock Da Spot」は、Company Flow（カンパニーフロー）のMr. Lenをフィーチャリング。
 
 #### Tracklist
 ```md

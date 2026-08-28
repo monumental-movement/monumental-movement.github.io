@@ -11,17 +11,17 @@ tags:
 - Buchla
 - Experimental
 - Drone
-title: '[Column] Modular Drone / Experimental Drones'
+title: 【コラム】 Modular Drone / Experimental Drones（モジュラードローン）
 ---
 
 
 
-## Introduction: Experimental acoustic space constructed by sustained sounds
+## 序論：持続音が構築する実験的音響空間
 
-Text: mmr｜Theme: Positioning the modular drone as an intersection of the history of acoustic technology, history of musical instruments, and compositional thought, and systematically organizing its formation and development.
+文：mmr｜テーマ：モジュラードローンを音響技術史・楽器史・作曲思想の交差点として位置づけ、その成立と展開を体系的に整理
 
 
-Modular Drone / Experimental Drones (hereinafter referred to as "modular drones") is a trend of acoustic experiments centered on sustained sounds, and has developed in close connection with the structural characteristics of modular synthesizers. A continuum of sound that does not assume a melody or beat creates time by minutely changing elements such as pitch, timbre, intensity, phase, and spatial arrangement. This music emphasizes "existence" rather than "progression," and changes appear as state transitions rather than events.
+Modular Drone / Experimental Drones（以下、モジュラードローン）は、持続音を中心とした音響実験の潮流であり、モジュラーシンセサイザーの構造的特性と深く結びついて発展してきた。旋律や拍節を前提としない音の連続体は、音高・音色・強度・位相・空間配置といった要素を微細に変化させることで時間を形成する。この音楽は「進行」よりも「存在」を重視し、変化は出来事ではなく状態遷移として現れる。
 
 What is important in modular drones is that the object of listening is not the persistence of a single sound, but the process by which multiple signal paths interact with each other. Modular synthesizers allow you to freely connect elements such as oscillators, filters, amplifiers, envelopes, LFOs, and random voltages, making the boundaries between stability and instability, control and chance audible. By combining this characteristic with the drone format, an acoustic expression that expands the sense of time was created.
 
@@ -41,87 +41,87 @@ color: #fff;
 </style>
 
 
-## Historical premises of the drone concept
+## ドローン概念の歴史的前提
 
-The concept of a drone existed before electronic music. Its prototypes include sustained bass in traditional music, sustained harmony in religious music, and stationary sounds in mechanical and environmental sounds. In the history of Western music, the sustained sounds of medieval organums and bagpipes have played a role in spatially supporting music.
+ドローンという概念は、電子音楽以前から存在していた。伝統音楽における持続低音、宗教音楽における持続和声、さらには機械音や環境音における定常音が、その原型とされる。西洋音楽史においては、中世のオルガヌムやバグパイプの持続音が、音楽を空間的に支える役割を担ってきた。
 
-In the 20th century, industrialization and electrification progressed, and persistent mechanical sounds permeated our daily environment. This environmental change provided an opportunity for musicians to change the way they perceived sound. From a melody-centered view of music to a focus on the texture and temporal duration of the sound itself, drones were redefined as an important element of experimental music.
-
----
-
-## Combination of electroacoustic and sustained sounds
-
-In the early days of electronic music, sustained tones were the element that most directly indicated the characteristics of electronic sounds. Unlike physical instruments, the continuous waveform produced by an oscillator can theoretically be sustained indefinitely. This characteristic made it possible to break away from the traditional musical structure that divides time into beats.
-
-In tape music and electroacoustic music, attempts were made to sustain sounds over long periods of time or to create gradual changes, but there were limitations to real-time control. This is where the concept of voltage control comes into play. The system of controlling pitch and timbre using voltage became the basis for later modular synthesizers, and provided a means to dynamically change sustained sounds.
+20世紀に入ると、産業化と電化が進み、持続する機械音が日常環境に浸透する。この環境変化は、音楽家にとって音の捉え方を変える契機となった。旋律中心の音楽観から、音そのものの質感や時間的持続に注目する姿勢が現れ、ドローンは実験音楽の重要な要素として再定義されていく。
 
 ---
 
-## Establishment of modular synthesizer
+## 電子音響と持続音の結合
 
-### Moog system structure and philosophy
+電子音楽の黎明期において、持続音は電子音の特性を最も直接的に示す要素であった。発振器による連続波形は、物理的楽器とは異なり、理論上無限に持続可能である。この特性は、時間を拍節で区切る従来の音楽構造からの離脱を可能にした。
 
-The Moog synthesizer was designed around a voltage-controlled oscillator and filter, with a relatively clear signal flow. The structure, which was designed to be connected to a keyboard and focused on pitch stability and reproducibility, played a role in establishing electronic sound as a playable instrument.
+テープ音楽や電子音響音楽では、長時間にわたる音の持続や緩やかな変化が試みられたが、リアルタイムでの制御には制約があった。ここで登場するのが、電圧制御という概念である。電圧によって音高や音色を制御する仕組みは、後のモジュラーシンセサイザーの基盤となり、持続音を動的に変化させる手段を提供した。
+
+---
+
+## モジュラーシンセサイザーの成立
+
+### Moogシステムの構造と思想
+
+Moogシンセサイザーは、電圧制御オシレーターとフィルターを中心に、比較的明確な信号の流れを前提として設計された。キーボードとの接続を想定し、音高の安定性と再現性を重視する構造は、演奏楽器としての電子音を確立する役割を果たした。
 
 This structure is also important in drone production. A stable oscillator forms the basis of a sustained sound over a long period of time, and the internal structure of the sound changes over time through gradual modulation of the filter and amplifier. Moog-style modular equipment provided a suitable environment for producing controlled sustained sounds.
 
-### Non-keyboard thinking of Buchla system
+### Buchlaシステムの非鍵盤的発想
 
-The Buchla synthesizer had a design concept that did not assume a keyboard, and strongly set out a direction in which voltage itself could be used as a composition material. Complex modulations, random voltages, compound oscillators, etc. create unpredictable sonic behavior.
+Buchlaシンセサイザーは、キーボードを前提としない設計思想を持ち、電圧そのものを作曲素材として扱う方向性を強く打ち出した。複雑なモジュレーション、ランダム電圧、複合オシレーターなどは、予測不可能な音の挙動を生み出す。
 
 This property is particularly important in modular drones. Fluctuations in timbre and amplitude become more foregrounded than stability in pitch, and the drone is heard not as a fixed sound but as a constantly changing field. Buchla's approach allowed for a balance of control and chance to be built into the musical structure.
 
-> "Moog"s stable persistence and Buchla"s variable persistence indicate two basic directions for modular drones."
+> "Moogが安定した持続を、Buchlaが変動する持続を提示した点は、モジュラードローンの二つの基本的方向性を示している"
 
 ---
 
 ## Acoustic characteristics of modular drones
 
-### Persistence and differential change
+### 持続と微分変化
 
-The core of modular drones is the subtle changes that occur over a long period of time. The extremely slow settings of the LFO and envelope, and the slow modulation of random voltages make the sound feel almost stationary, yet constantly changing.
+モジュラードローンの核心は、長時間にわたる持続音の中で生じる微細な変化である。LFOやエンベロープの極端に遅い設定、ランダム電圧の低速変調によって、音はほとんど静止しているように感じられながらも、常に変化し続ける。
 
-This change appears not as a melodic development but as a continuous modification of acoustic parameters. The listener experiences the process of change rather than the moment of change.
+この変化は、旋律的展開ではなく、音響パラメータの連続的変形として現れる。聴取者は、変化の瞬間ではなく、変化の過程を体験することになる。
 
-### Feedback and self-generation
+### フィードバックと自己生成
 
-In a modular environment, it is easy to build feedback that returns outputs to inputs. Feedback leads sound to a self-generating state, producing behavior beyond the creator's intentions. Through this self-generation, drones do not simply hold sound, but present the behavior of a sound system itself.
-
----
-
-## Production techniques and patch ideas
-
-In the production of modular drones, the patch itself is equivalent to the composition. The number of oscillators, the combination of waveforms, and the complexity of the modulation path determine the density and sense of time of the music.
-
-The linear signal path of the Moog system often uses a structure in which multiple modulations are layered on a stable fundamental tone. On the other hand, in the Buchla system, compound oscillators and function generators are interconnected, creating a state in which the distinction between pitch and timbre is ambiguous.
-
-> "A patch is not a musical score, but functions as a device containing time."
+モジュラー環境では、出力を入力に戻すフィードバックが容易に構築できる。フィードバックは、音を自己生成的な状態に導き、制作者の意図を超えた挙動を生む。ドローンは、この自己生成性によって、単なる音の保持ではなく、音響システムの振る舞いそのものを提示する。
 
 ---
 
-## Listening experience and time perception
+## 制作技法とパッチ思想
 
-Modular drones directly affect the listener's sense of time. Because there are no beats or nodes, time is perceived internally rather than measured externally. By paying attention to changes in sound, the listener becomes immersed in the acoustic space and experiences duration itself.
+モジュラードローンの制作では、パッチそのものが作曲に相当する。オシレーターの数、波形の組み合わせ、モジュレーション経路の複雑さが、音楽の密度と時間感覚を決定する。
+
+Moog系の直線的信号経路では、安定した基音に対して複数の変調を重ねる構造が多用される。一方、Buchla系では、複合オシレーターや関数発生器を相互に接続し、音高と音色の区別が曖昧な状態を作り出す。
+
+> "パッチは楽譜ではなく、時間を内包した装置として機能する"
 
 ---
 
-## Relationship with other genres
+## リスニング体験と時間知覚
+
+モジュラードローンは、聴取者の時間感覚に直接作用する。拍や節が存在しないため、時間は外部から測定されるものではなく、内部的に感じ取られるものとなる。音の変化に注意を向けることで、聴取者は音響空間に没入し、持続そのものを経験する。
+
+---
+
+## 他ジャンルとの関係
 
 Modular drones share many elements with ambient, minimal music, and experimental electronic music, but are unique in that they foreground the device nature of modular synths. The system is more important than the music, and the process is more important than the result.
 
 ---
 
-## Chronology: Main stages of modular drone formation
+## 年表：モジュラードローン形成の主要段階
 
-* 1950s: Exploration of sustained sound in electronic acoustics
-* 1960s: Establishment of modular systems by Moog and Buchla
-* 1970s: Increase in long-duration drone works in experimental music
-* 1990s: Modular regression and reappraisal of drones
-* 2010s: Expansion of experimental drone production due to the spread of Eurorack
+* 1950年代：電子音響における持続音の探求
+* 1960年代：MoogおよびBuchlaによるモジュラーシステムの確立
+* 1970年代：実験音楽における長時間ドローン作品の増加
+* 1990年代：モジュラー回帰とドローンの再評価
+* 2010年代：ユーロラック普及による実験的ドローン制作の拡張
 
 ---
 
-## Structure diagram: basic modular drone signal path
+## 構造図：基本的モジュラードローン信号経路
 
 <div class="mermaid">
 flowchart TD
@@ -134,7 +134,7 @@ flowchart TD
 
 ---
 
-## Example of nonlinear structure
+## 非線形構造の例
 
 <div class="mermaid">
 flowchart TD
@@ -149,104 +149,104 @@ flowchart TD
 
 ---
 
-## Advanced acoustic analysis: internal structure of sustained sounds
+## 高度な音響分析：持続音内部の構造
 
-### Harmonic structure and spectral variation
+### 倍音構造とスペクトル変動
 
 The sustained sound in modular drones is not created by maintaining a single frequency, but by slow fluctuations in the overall overtone structure. The choice of oscillator waveform (sine, triangular, sawtooth, rectangular) determines the initial spectrum, but over time the harmonic distribution is constantly reorganized as the filter cutoff, resonance, and drive amount change.
 
-Especially in a modular environment, the filter itself is often used in a state close to oscillation, making the boundary between fundamental and harmonics blurred. As a result, the drone is perceived as a transition in spectral density rather than a collection of pitches.
+特にモジュラー環境では、フィルター自体が発振に近い状態で使用されることも多く、基音と倍音の境界が曖昧になる。結果として、ドローンは音高の集合体ではなく、スペクトル密度の推移として知覚される。
 
-> "In modular drones, the pitch is not a fixed point, but acts as the center of gravity of the spectrum."
+> "モジュラードローンにおいて音程は固定点ではなく、スペクトルの重心として機能する"
 
 ### Phase interference and beat phenomenon
 
-By subtly detuning and layering multiple oscillators, a low-frequency beat is generated due to phase interference. This beat is not so clear that it is recognized as a rhythm, but it creates a periodic expansion and contraction within the sound.
+複数のオシレーターを微妙にデチューンして重ねることで、位相干渉による低周波ビートが発生する。このビートは、リズムとして意識されるほど明確ではないが、音の内部で周期的な膨張と収縮を生み出す。
 
-In a stable Moog-style VCO, this beat has a relatively predictable period. On the other hand, in oscillations derived from the Buchla system or function generators, the period itself fluctuates, and the beat appears as irregular pulsations. This difference has a direct impact on the drone's sense of time.
-
----
-
-## Spatiality and extended listening
-
-### Stereo placement and pseudo spatial movement
-
-Modular drones often use extremely slow panning modulation. By shifting the left and right localization every few minutes, the sound is perceived not as a fixed entity in space, but as a drifting sound field.
-
-Furthermore, by applying different spectral changes to the left and right sides, the sound image does not have a clear position and is diffused throughout the space. This dismantles the traditional listening position of receiving music from the front, creating an experience closer to that of environmental sounds.
-
-### Fusion of reverberation and sustained sound
-
-Long reverberation times are not just an effect in drones, but function as part of the acoustic structure. When the original sound and the reverberant sound cannot be separated, the start and end of the sound become ambiguous, and the sustained sound takes on an infinity.
-
-> "Reverberation does not decorate sound, but works as a device that stretches time itself."
+Moog系の安定したVCOでは、このビートは比較的予測可能な周期を持つ。一方、Buchla系や関数発生器由来の発振では、周期そのものが揺らぎ、ビートは不規則な脈動として現れる。この差異は、ドローンの時間感覚に直接的な影響を与える。
 
 ---
 
-## Redefining control voltage and composition act
+## 空間性と拡張されたリスニング
 
-### From score to system
+### ステレオ配置と擬似的空間移動
 
-In modular drones, composing is not the act of writing musical notes, but the act of designing the relationship between control voltages. The decision as to which parameters to fix and which elements to allow to fluctuate determines the character of the music.
+モジュラードローンでは、パンニングの極端に遅い変調が多用される。左右の定位が数分単位で移動することで、音は空間に固定された存在としてではなく、漂流する音場として知覚される。
 
-In this sense, a modular synth is both a musical instrument and a self-contained sound system. Rather than directly manipulating the sound, the creator sets the conditions under which the sound continues to be generated.
+さらに、左右で異なるスペクトル変化を与えることで、音像は明確な位置を持たず、空間全体に拡散する。これは、音楽を前方から受け取るという従来の聴取姿勢を解体し、環境音に近い体験を生む。
 
-### Balance between autonomy and intervention
+### 残響と持続音の融合
 
-Fully autonomous patches exhibit unpredictable changes over time. On the other hand, by adding human intervention, the directionality of the sound can be adjusted. The balance between these two is an important decision point in the production of modular drones.
+長い残響時間は、ドローンにおいて単なる効果ではなく、音響構造の一部として機能する。原音と残響音が分離できない状態では、音の開始と終了が曖昧になり、持続音は無限性を帯びる。
 
-> "Intervention is done as a dialogue with the system, not as a control"
-
----
-
-## Performance and installation
-
-### Sustained sounds in a live environment
-
-In the live performance of modular drones, the temporal length itself becomes a component. There is no requirement for the development to take place in a short period of time, and the process by which the acoustic space gradually changes in quality is shared.
-
-The presence of visually exposed patches and cables emphasizes the instrumental aspects of how sound is produced.
-
-### Compatibility with exhibition space
-
-Sustained sound has a high affinity with galleries and installation spaces. Visitors do not need to enter and leave the acoustic space at any time to hear the entire thing. Modular drones have a structure that can withstand fragmented listening.
+> "残響は音を装飾するのではなく、時間そのものを引き延ばす装置として働く"
 
 ---
 
-## Monumental Movement Records perspective
+## 制御電圧と作曲行為の再定義
+
+### スコアからシステムへ
+
+モジュラードローンにおいて、作曲とは音符を書く行為ではなく、制御電圧の関係性を設計する行為である。どのパラメータを固定し、どの要素に揺らぎを許すかという判断が、音楽の性格を決定する。
+
+この意味で、モジュラーシンセは演奏楽器であると同時に、自己完結した音響システムである。制作者は音を直接操作するのではなく、音が生成され続ける条件を設定する。
+
+### 自律性と介入のバランス
+
+完全に自律したパッチは、時間とともに予測不能な変化を示す。一方、人為的な介入を加えることで、音響の方向性が調整される。この両者のバランスは、モジュラードローンの制作における重要な判断点である。
+
+> "介入は制御ではなく、システムとの対話として行われる"
+
+---
+
+## パフォーマンスとインスタレーション
+
+### ライブ環境における持続音
+
+モジュラードローンのライブパフォーマンスでは、時間的長さそのものが構成要素となる。短時間での展開は求められず、音響空間が徐々に変質していく過程が共有される。
+
+視覚的に露出したパッチやケーブルの存在は、音がどのように生成されているかを示す装置的側面を強調する。
+
+### 展示空間との親和性
+
+持続音は、ギャラリーやインスタレーション空間と高い親和性を持つ。来場者は任意の時間に音響空間へ出入りし、全体を聴取する必要はない。モジュラードローンは、断片的な聴取にも耐えうる構造を持つ。
+
+---
+
+## Monumental Movement Records的視座
 
 In the context of Monumental Movement Records, modular drone is not simply experimental music, but is positioned as a sonic practice that critically presents time, structure, and instrumentality. Here, long durations and differential changes are more valuable than flashy changes or immediate effects.
 
-Vocabulary is descriptive rather than decorative, and structural analysis is prioritized over emotional expression. Sound is both a sensory object and a medium for thought.
+語彙は装飾的であるよりも記述的であり、感情表現よりも構造分析が優先される。音は感覚的対象であると同時に、思考の媒体として扱われる。
 
-> "Sustained sounds exist not as a background, but as a foreground that occupies your thoughts."
-
----
-
-## Expanded chronology: Deepening of technology and thought
-
-* Late 1960s: Generalization of voltage control concept
-* Early 1970s: Increase in long-duration works and improvisational practices
-* 1980s: Intersection of digital control and analog sustained sound
-* 2000s: Proliferation of DIY modular and experimental drones
-* 2020s: Establishment of sustained sound culture based on instrumentality
+> "持続音は背景ではなく、思考を占拠する前景として存在する"
 
 ---
 
-## Conclusion: Music as a device, sound as time
+## 拡張年表：技術と思想の深化
 
-Modular drone is a practice that presents music not as a series of events, but as time itself. Moog-like stability and Buchla-like variability, and the countless possibilities that exist between them, are made audible through the form of sustained sounds.
+* 1960年代後半：電圧制御概念の一般化
+* 1970年代前半：長時間持続作品と即興実践の増加
+* 1980年代：デジタル制御とアナログ持続音の交差
+* 2000年代：DIYモジュラーと実験ドローンの拡散
+* 2020年代：装置性を前提とした持続音文化の定着
 
-What is important in this music is not what happens, but what state is maintained and how it changes. Modular drones are a form of contemporary musical practice that demonstrates the inseparability of device, time, and sound.
+---
 
-> "Sound does not progress and continues to exist"
+## 結論：装置としての音楽、時間としての音
+
+モジュラードローンは、音楽を出来事の連なりとしてではなく、時間そのものとして提示する実践である。Moog的安定性とBuchla的変動性、その間に存在する無数の可能性は、持続音という形式を通して可聴化される。
+
+この音楽において重要なのは、何が起こるかではなく、どのような状態が維持され、どのように変質していくかである。モジュラードローンは、装置・時間・音響が不可分であることを示す、現代的な音楽実践の一形態である。
+
+> "音は進行せず、存在し続ける"
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xS1fSYwL37E?si=NJ1GuO6wQbEfPQCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

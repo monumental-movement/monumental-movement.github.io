@@ -15,12 +15,12 @@ title: Oxia – Reflexion
 ---
 
 
-A techno track by Olivier Raymond, also known as Oxia, a French DJ and producer who is one of the founders of GoodLife.
+GoodLifeの創設者のひとり、フランス人DJ・プロデューサーOxia（オクシア）ことOlivier Raymond（オリヴィエ・レイモンド）によるテクノトラック。
 
-The first track on Side A is a remix by Samuel Geiser, also known as Deetron, who is a Swiss DJ and producer who runs the Techno/House label Character.
+A面１曲目は、スイスのDJ・プロデューサーであり、Techno/HouseレーベルCharacterを運営するDeetronことSamuel Geiserによるremix。
 
-The first track on side B is a remix by French Techno/Electro/Melodic Techno DJ/producer Kiko and Stephane Deschezeaux, who runs the French nu disco label Springbok Records.
-The second song on side B is a remix by French musician/DJ Michel Amato, aka The Hacker.
+B面１曲目は、フランスのTechno / Electro / Melodic Techno DJ ・プロデューサーKikoとフレンチnu discoレーベルSpringbok Recordsを運営するStephane Deschezeauxによるremix。
+B面２曲目は、フランスのミュージシャン・DJ、The HackerことMichel Amatoによるremix。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ B1. Reflexion (Kiko & S.Deschezeaux Remix)
 B2. TNN (The Hacker (Night Version))
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m31595514609?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31595514609?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G1XVcvBGj88?si=Rvmd7pX56uMJd_lG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

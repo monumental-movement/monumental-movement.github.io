@@ -14,9 +14,9 @@ title: Bad Religion – The New America
 ---
 
 
-Bad Religion is a punk rock band formed in Los Angeles, and is a major figure in modern punk rock, known as one of the groups that created the melodic hardcore style.
+Bad Religion（バッドレリジョン）は、ロサンゼルスで結成されたパンクロックバンドで、メロディック・ハードコアのスタイルを生み出したグループの一つとして知られる現代パンク・ロックの重鎮。
 
-"The New America", released in 2000, is their 11th studio album, with tracks 14 and 15 being bonus tracks on the Japanese version.
+2000年にリリースされた「The New America」は、11枚目のスタジオアルバムで、14、15曲目は日本盤ボーナストラック。
 
 #### Tracklist
 ```md
@@ -37,7 +37,7 @@ Bad Religion is a punk rock band formed in Los Angeles, and is a major figure in
 15. Queen Of The 21st Century
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

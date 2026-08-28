@@ -9,13 +9,13 @@ permalink: /zh-hant/arti-try-the-worker/
 tags:
 - House
 - 90s
-title: Arti$try – 工人
+title: Arti$try – The Worker
 ---
 
 
-Arti$try 是一個由 Marco Verkuylen 和 Benjamin Kuyten 組成的團隊。 《Arti$try – The Worker》於 1998 年由荷蘭唱片公司 Fresh Fruit Records 發行。
+Arti$tryは、Marco VerkuylenとBenjamin Kuytenによるユニット。「Arti$try – The Worker」は、オランダのハウスレーベルFresh Fruit Recordsより、1998年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. The Worker
 
@@ -24,7 +24,7 @@ B1. Through The Nite
 B2. Ha-Pi-Ness
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m88863230519?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88863230519?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7-Z13LYEUds?si=O-ez82dRgPc_BRCK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

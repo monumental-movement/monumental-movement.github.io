@@ -13,9 +13,9 @@ title: Kid Creole And The Coconuts – I Got My Handy On
 ---
 
 
-Kid Creole And The Coconuts is an American group started by August Darnell with Andy Hernandez & Adriana Kaegi. His style is a mix of disco, Latin, Caribbean, and Callaway style elements.
+Kid Creole And The Coconuts は、August DarnellがAndy Hernandez & Adriana Kaegiとともにはじめたアメリカのグループ。ディスコ、ラテン、カリブ海、キャロウェイスタイルの要素をミックスさせたスタイルが特徴。
 
-"I Got My Handy On" is a House, Euro House track released in 1997 by the German label SPV Recordings.
+「I Got My Handy On」は、ドイツのレーベルSPV Recordingsから1997年にリリースされたHouse, Euro Houseトラック。
 
 #### Tracklist
 ```md

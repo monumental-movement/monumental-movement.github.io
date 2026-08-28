@@ -10,22 +10,22 @@ tags:
 - House
 - Garage House
 - Soul
-title: Ann Nesby & Al Green – 把它寫在紙上
+title: Ann Nesby & Al Green – Put It On Paper
 ---
 
 
-DJ Spen 和 Karizma 混音 Ann Nesby 的專輯“Put It On Paper”。
+Ann Nesby （アン・ネスビー）のアルバム「Put It On Paper（プット・イット・オン・ペーパー）をDJ Spen & Karizmaがmix。
 
-Karizma 是來自巴爾的摩的 DJ/製作人，也是 The Basement Boys 的前成員。活躍於包括 Deep House、Deep Techno、Hip hop、Jazz 和 Break Beat 在內的廣泛領域。
+Karizma（カリズマ）は、ボルチモア出身のDJ/プロデューサーであり元The Basement Boysのメンバー。ディープハウス、ディープテクノ、ヒップホップ、ジャズ、ブロークンビートなどの幅広いシーンで活躍。
 
-DJ Spen 是來自巴爾的摩的 DJ/製作人，也是 The Basement Boys 的前成員。 2000 年代初期組成 DJ Spen & The MuthaFunkaz。
+DJ Spenは、ボルチモア出身のDJ/プロデューサーであり元The Basement Boysのメンバー。2000年代初頭にDJ Spen & The MuthaFunkazを結成。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Put It On Paper
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m41512724315?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41512724315?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t9xSNpxQb70?si=kpXxu3H9NvhptcDr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

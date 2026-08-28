@@ -27,7 +27,7 @@ The fifth EP by UK rock band Radiohead, released in North America in 1998. Conta
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
 
 
 #### Youtube

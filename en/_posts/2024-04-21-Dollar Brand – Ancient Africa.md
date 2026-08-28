@@ -13,11 +13,11 @@ title: Dollar Brand – Ancient Africa
 ---
 
 
-A post-bop album released by South African pianist and composer Abdullah Ibrahim, also known as Dollar Brand, on Trio Records in 1974.
+南アフリカ人のピアニスト、作曲家Dollar BrandことAbdullah Ibrahim（アブドゥーラ・イブラヒム）が1974年にTrio Recordsからリリースしたポスト・バップアルバム。
 
-The album "Dollar Brand - Ancient Africa" ​​was recorded live at the Jazz-Hus Montmartre in Copenhagen in June 1972.
+このアルバム 「ダラー・ブランド – 古代アフリカ」は、1972年6月にコペンハーゲンのJazz-Hus Montmartreでのライブ録音。
 
-Abdullah Ibrahim was awarded the Order of the Rising Sun in 2020 for contributing to the friendship between Japan and the Republic of South Africa through music.
+Abdullah Ibrahim（アブドゥーラ・イブラヒム）は、2020年に音楽を通じた日本・南アフリカ共和国間の友好親善に寄与したとして旭日双光章を受章。
 
 #### Tracklist
 ```md
@@ -44,7 +44,7 @@ Bd. Peace - Salaam
 Be. Air
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
 
 
 

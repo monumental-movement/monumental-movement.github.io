@@ -11,15 +11,15 @@ tags:
 - Psychobilly
 - Punk
 - Rockabilly
-title: 孔雀 - Touch And Go
+title: The Peacocks – Touch And Go
 ---
 
 
-Peacocks 是一支於 1990 年在瑞士成立的搖滾樂團。他們不僅在歐洲巡演，還在世界各地巡演，包括美國、加拿大和日本。
+The Peacocksは、1990年にスイスで結成されたロカビリーバンド。ヨーロッパだけでなく、アメリカ、カナダ、日本など世界中でツアーをおこなっている。
 
-《Touch And Go》是德國廠牌 People Like You Records 於 2007 年發行的心理比利龐克搖滾專輯。
+「Touch And Go」は、 2007年にドイツのレーベルPeople Like You Recordsからリリースされたサイコビリー・パンク・ロカビリーアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Sex And Drugs And Rocks Through Your Window
 2. Work With You
@@ -39,7 +39,7 @@ Peacocks 是一支於 1990 年在瑞士成立的搖滾樂團。他們不僅在�
 16. Next Room Sleeping
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0EMCdC7FDd0?si=9UtihdPQr5OA7g1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

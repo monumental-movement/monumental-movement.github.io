@@ -21,11 +21,11 @@ title: Buffalo Daughter – WXBD
 
 "Buffalo Daughter - WXBD" is an album by Japanese experimental rock band Buffalo Daughter.
 
-Their music is characterized by an experimental sound that incorporates elements from a variety of genres, including alternative rock, electronica, psychedelic, and post-rock. Their songs are constructed with innovative approaches, including unique rhythmic patterns, sampling, and the use of synthesizers.
+彼らの音楽は、オルタナティブロック、エレクトロニカ、サイケデリック、ポストロックなど、さまざまなジャンルの要素を取り入れた実験的なサウンドが特徴です。彼らの楽曲は、ユニークなリズムパターン、サンプリング、シンセサイザーの使用など、斬新なアプローチで構築されています。
 
-"WXBD" offers a music experience that makes full use of artistic and bold sounds and noise, with the participation of many remixers.
+「WXBD」は、多くのリミキサーが参加したアーティスティックで大胆なサウンドとノイズを駆使した音楽体験を提供しています。
 
-This is an interesting album for those who want to enjoy Buffalo Daughter's music. Their unique sound style and musical experimentation will create a fascinating experience for alternative music fans and musical seekers.
+バッファロー・ドーターの音楽を堪能したい人にとっても興味深いアルバムです。彼らの独自のサウンドスタイルと音楽の実験性は、オルタナティブ音楽のファンや音楽探求者にとって魅力的な体験をもたらすことでしょう。
 
 #### Tracklist
 ```md
@@ -46,7 +46,7 @@ B3. Jellyfish Blues (Scratch Pet Land Mix)
 B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

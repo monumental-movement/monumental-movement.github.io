@@ -11,18 +11,18 @@ tags:
 - Electro
 - Disco
 - 00s
-title: 班傑明·泰夫斯——德克薩斯州
+title: Benjamin Theves – Texas
 ---
 
 
-Benjamin Theves 是一位來自法國的電子藝術家/製作人。
+Benjamin Thevesは、フランス出身のエレクトロニック・アーティスト／プロデューサー。
 
-《德州》是2000年代中期的傑作，在世界各地的派對上被大量演奏，被譽為本傑明·泰維斯的處女作和代表作。
+「Texas」は、世界中のパーティーでヘヴィプレイされた00年代中期の名作で、Benjamin Thevesのデビュー作&代表作として知られている。
 
-《Texas》於 2005 年作為帕特里克·阿拉維 (Patrick Alavi) 的 Roxour 廠牌的第一張專輯發行。 B面是帕特里克·阿拉維（Patrick Alavi）的混音版本，稱為“ReroX”。 Patrick Alavi 的風格是 Funk/House/Electronic 的混合體。
+「Texas」は、2005年にPatrick Alavi 主宰のレーベルRoxourの第一弾としてリリースされた。B面は、『ReroX 』として知られるPatrick Alavi のremix版。Patrick Alavi は、Funk／House／electronicをmixしたスタイルが特徴。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 This Side
 
@@ -33,7 +33,7 @@ Other Side
 B. Texas (Patrick Alavi Rerox)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m37264590127?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37264590127?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ugvwjgl1FM?si=KnNa1x33ybDtd0Ej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

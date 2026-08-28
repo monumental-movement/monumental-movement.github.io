@@ -9,7 +9,7 @@ layout: post
 permalink: /zh-hant/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/
 tags:
 - Hiphop
-title: 老骯髒混蛋 – 重返三十六室骯髒版
+title: Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version
 ---
 
 
@@ -19,11 +19,11 @@ title: 老骯髒混蛋 – 重返三十六室骯髒版
 
 
 
-這張專輯《Return To The 36 Chambers The Dirty Version》是 Ol' Dirty Bastard 個人生涯中最成功的專輯之一。
+このアルバム「Return To The 36 Chambers The Dirty Version」はOl' Dirty Bastardがソロキャリアの中でも最も成功した作品の一つです。
 
-它還包括與武當派成員和其他客座藝術家的合作，這張專輯自始至終展示了他的個人音樂風格，贏得了評論界的好評和商業上的成功。
+ウータンのメンバーや他のゲストアーティストとのコラボレーションも含まれており、アルバム全体で彼の個性的な音楽スタイルが発揮され、批評家から高い評価を受け商業的にも成功しました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Intro
 
@@ -70,7 +70,7 @@ D14. Proteck Ya Neck II The Zoo
 D15. Cuttin' Headz
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h2zgB93KANE?si=KUPGwKXO9fXWBJfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,23 +11,22 @@ tags:
 - Film
 - Movie
 - 90s
-title: '[Column] The Golden Age of Hong Kong Movie Soundtracks: The Heartbeat and
-  Memories of the 90s City'
+title: 【コラム】 香港映画サウンドトラックの黄金時代──90年代都市の鼓動と記憶
 ---
 
 
 
-## Prologue: An era when sound recorded cities
+## 序章：音が都市を記録した時代
 
-Text: mmr｜Theme: Soundtrack innovation and urban culture resonance in 1990s Hong Kong films
+文：mmr｜テーマ：90年代香港映画におけるサウンドトラックの革新と都市文化の共鳴
 
-Hong Kong cinema in the 1990s was an era in which the contours of the city were engraved not only through images but also through sound. The reflections of neon lights, the humid night air, the speed and impatience all flow into the audience's bodies along with the music. In particular, the soundtrack was not just a background, but functioned as another narrator running alongside the story.
+1990年代の香港映画は、映像だけでなく「音」によって都市の輪郭を刻み込んだ時代だった。ネオンの反射、湿った夜気、スピードと焦燥、そのすべてが音楽とともに観客の身体へと流れ込む。とりわけサウンドトラックは単なる背景ではなく、物語と並走するもう一つの語り手として機能していた。
 
-At this time, Hong Kong's handover in 1997 was just around the corner, and there was a unique sense of tension and floating in the society as a whole. Film music directly reflected this atmosphere, sometimes expressing the heartbeat of the city with pop and lightness, and other times with urgent rhythms.
+この時代の香港は、1997年の返還を目前に控え、社会全体に独特の緊張感と浮遊感が漂っていた。映画音楽はその空気を直接的に反映し、ときにポップで軽やかに、ときに切迫したリズムで都市の心拍を表現した。
 
-In Koisuru Planet, for example, repeated pop songs emphasize the characters" loneliness and time dislocation, and the music itself is integrated into the story"s structure. Here, ""music selection'' began to have the same meaning as composition.
+例えば恋する惑星では、反復されるポップソングが登場人物の孤独と時間のズレを強調し、音楽そのものがストーリーの構造に組み込まれている。ここでは「選曲」もまた作曲と同等の意味を持ち始めていた。
 
-> The music of Hong Kong movies in the 1990s was a device for reproducing the city's time itself.
+> 90年代香港映画の音楽は、都市の時間そのものを再生する装置だった。
 
 
 ---
@@ -37,7 +36,7 @@ In Koisuru Planet, for example, repeated pop songs emphasize the characters" lon
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,128 +45,128 @@ color: #fff;
 </style>
 
 
-## Close relationship between Hong Kong pop music and film music
+## 香港ポップスと映画音楽の密接な関係
 
-### Cantopop Penetration
+### Cantopopの浸透
 
-Cantopop is essential when discussing Hong Kong movie soundtracks. In the 1980s and 1990s, Cantopop was strongly connected to the film industry, and a structure was established in which theme songs and star actors mutually increased popularity.
+香港映画のサウンドトラックを語るうえで欠かせないのがCantopop（広東ポップス）の存在だ。1980年代から90年代にかけて、Cantopopは映画産業と強く結びつき、主題歌とスター俳優が相互に人気を高める構造が確立された。
 
-Stars such as Zhang Guorong, Liu Dehua, and Wang Fei were both actors and singers, and often sang their own movie theme songs.
+張國榮や劉德華、王菲といったスターは、俳優であると同時に歌手としても活躍し、映画の主題歌を自ら歌うことが多かった。
 
-### Representative artists and characteristics
+### 代表的アーティストと特徴
 
-* Wang Fei
-Symbolizes urban loneliness with a floating voice and alternative-oriented songs
+* 王菲
+  浮遊感のある声とオルタナティブ志向の楽曲で、都市的孤独を象徴
 
-* Zhang Guorong
-Wide range of emotional expressions, suitable for everything from love stories to dramas.
+* 張國榮
+  感情表現の幅が広く、ラブストーリーからドラマまで幅広く対応
 
-* Liu Dehua
-The classic Cantopop that combines star quality and popularity
+* 劉德華
+  スター性と大衆性を兼ね備えた王道Cantopop
 
-* Hayashi Zixiang
-Providing many dramatic songs with powerful vocals
+* 林子祥
+  力強いボーカルでドラマティックな楽曲を多く提供
 
-### Drama of the theme song
+### 主題歌のドラマ性
 
-The theme song was not just an ending, but also served to reinforce the emotional core of the story. Especially in romantic films and noir films, the melody of the theme song remains strongly in the memory of the audience.
+主題歌は単なるエンディングではなく、物語の感情的な核を補強する役割を担った。特に恋愛映画やノワール作品では、主題歌の旋律が観客の記憶に強く残る。
 
-In Angel's Tears, music also functions as a device to visualize the psychological distance between the characters.
+天使の涙においても、音楽は登場人物の心理的距離を可視化する装置として機能している。
 
-> Cantopop extended outside of cinema and perpetuated the story in the lives of audiences.
+> Cantopopは映画の外側に広がり、観客の生活の中で物語を持続させた。
 
 ---
 
-## Representative soundtrack and track list
+## 代表的サウンドトラックとトラックリスト
 
-### Planet in Love (1994)
+### 恋する惑星（1994）
 
-It is characterized by a structure that connects fragments of the city through sound. The repetition of pop songs links to the temporal structure of the story.
+都市の断片を音でつなぐような構成が特徴。ポップソングの反復が物語の時間構造とリンクする。
 
-Main track examples:
+主なトラック例：
 
-* crazy person
-*California Dreamin'
-* Instrumental score (mainly electronic sound)
+* 夢中人
+* California Dreamin'
+* インストゥルメンタル・スコア（電子音響主体）
 
-### Angel's Tears (1995)
+### 天使の涙（1995）
 
-Sound with the theme of night city and loneliness. Jazz and electronic sounds intertwine.
+夜の都市と孤独をテーマにしたサウンド。ジャズと電子音が交錯する。
 
-Main track examples:
+主なトラック例：
 
 * Karmacoma
-* Instrumental theme (score by Shigeru Umebayashi)
+* インストゥルメンタル・テーマ（梅林茂によるスコア）
 
-### Men's Elegy Series
+### 男たちの挽歌シリーズ
 
-A sound that symbolizes the fusion of action and lyricism.
+アクションと叙情の融合を象徴するサウンド。
 
 Main track examples:
 
-* Ballad theme song (Cantopop style)
-* Synth-based action score
+* バラード系主題歌（Cantopopスタイル）
+* シンセ主体のアクションスコア
 
 ### Flowers (Reference: 2000)
 
-It is important as a musical aesthetic that is an extension of the 90's.
+90年代の延長線上にある音楽美学として重要。
 
-Main track examples:
+主なトラック例：
 
 * Yumeji's Theme
-*Latin music insert
+* ラテン音楽の挿入曲
 
->Soundtracks have become established as standalone works, forming a culture in which they are listened to outside of movies.
-
----
-
-## Experimentation and internationalism of composers
-
-### Multicultural musical language
-
-Hong Kong film music in the 1990s was extremely multicultural. There was a mix of jazz, electronica, classical, rock, and even traditional Chinese music.
-
-Shigeru Umebayashi, a representative composer, fuses Japanese melodies with Western arrangements.
-
-Gu Ka-hui also worked in both television and film, and laid the foundation for Hong Kong music.
-
-### Introduction to electronic music
-
-Around the same time, the influence of electronic music was also noticeable, with trip-hop music such as Massive Attack becoming the signature sound of the city night.
-
-> Crossing genres, the composers used sound to reconstruct the complexities of Hong Kong.
+> サウンドトラックは単体作品としても成立し、映画の外でも聴かれる文化を形成した。
 
 ---
 
-## Action movies and rhythm innovation
+## 作曲家たちの実験と国際性
 
-### Music of speed and tension
+### 多文化的音楽言語
 
-In John Woo's work, music was the very rhythmic element of the action.
+90年代の香港映画音楽は、極めて多文化的だった。ジャズ、エレクトロニカ、クラシック、ロック、さらには中華伝統音楽までが混在していた。
 
-### Contrast with slow motion
+代表的な作曲家である梅林茂は、日本的な旋律と西洋的なアレンジを融合させた。
 
-After Men's Elegy, the combination of slow motion and lyrical music became established.
+また、顧嘉輝はテレビと映画の両方で活躍し、香港音楽の基盤を築いた。
 
-> In action movies, music plays the role of directing time rather than movement.
+### 電子音楽の導入
+
+同時期には電子音楽の影響も顕著であり、Massive Attackのようなトリップホップが都市の夜を象徴する音として取り入れられた。
+
+> 作曲家たちはジャンルを横断し、香港という都市の複雑さを音で再構築した。
 
 ---
 
-## Wong Kar-wai and the poetics of sound
+## アクション映画とリズムの革新
 
-### Recontextualization of existing songs
+### スピードと緊張の音楽
 
-Wong Kar-wai restructured existing songs and gave them new meaning.
+ジョン・ウーの作品では、音楽はアクションのリズムそのものを構成する要素だった。
 
-### Relationship between sound and memory
+### スローモーションとの対比
 
-Music acts as a memory trigger, making the film stay with the audience for a long time.
+男たちの挽歌以降、スローモーションと叙情的音楽の組み合わせが定着した。
+
+> アクション映画において音楽は、動きではなく時間を演出する役割を担った。
+
+---
+
+## ウォン・カーウァイと音の詩学
+
+### 既存楽曲の再文脈化
+
+ウォン・カーウァイは既存楽曲を再構築し、新たな意味を与えた。
+
+### 音と記憶の関係
+
+音楽は記憶のトリガーとして機能し、観客の中に映画を長く留める。
 
 > Music existed not to explain the story, but to make it stick in memory.
 
 ---
 
-## Chronology: 90s Hong Kong movie soundtrack flow
+## 年表：90年代香港映画サウンドトラックの流れ
 
 <div class="mermaid">
 timeline
@@ -179,34 +178,34 @@ timeline
     1999 : 国際市場を意識した音楽制作が主流化
 </div>
 
-> In the late 1990s, music became more international, and Hong Kong cinema moved to a new stage.
+> 90年代後半には音楽の国際化が進み、香港映画は新たな段階へ移行した。
 
 ---
 
-## Diagram: Relationship structure between music and movie elements
+## 図：音楽と映画要素の関係構造
 
 <div class="mermaid">
 graph TD
-    A[urban environment] --> B[movie footage]
-    A --> C[soundtrack]
+    A[都市環境] --> B[映画映像]
+    A --> C[サウンドトラック]
     C --> D[emotional expression]
     B --> D
-    D --> E[audience experience]
+    D --> E[観客体験]
     C --> E
 </div>
 
-> Though independent, images and music intersected, creating a multi-layered audience experience.
+> 映像と音楽は独立しながらも交差し、観客体験を多層的に形成した。
 
 ---
 
-## Final Chapter: Memories of Hong Kong left behind by sound
+## 終章：音が残した香港という記憶
 
-Hong Kong movie soundtracks in the 1990s went beyond mere film music and functioned as memories of the city itself. It is imprinted with the atmosphere of a political transition, the waves of globalization, and the loneliness of the individual.
+90年代の香港映画サウンドトラックは、単なる映画音楽の枠を超え、都市の記憶そのものとして機能していた。そこには政治的な転換期の空気、グローバル化の波、そして個人の孤独が同時に刻み込まれている。
 
-When we listen back to that music today, we are not just remembering a movie, but reliving the texture of an era.
+今日、それらの音楽を聴き返すとき、私たちは単に映画を思い出すのではなく、一つの時代の質感を追体験している。
 
 The soundtracks of Hong Kong movies continue to beat as the heartbeat of the city even after the images have disappeared.
 
-> Music has surpassed movies and has become a medium that preserves the era itself.
+> 音楽は映画を超えて、時代そのものを保存するメディアとなった。
 
 ---

@@ -10,16 +10,16 @@ tags:
 - Broken Beat
 - 90s
 - 00s
-title: '[Column] UK Broken Beat re-evaluation trend — innovative trends in club music'
+title: 【コラム】 UK Broken Beat 再評価トレンド — クラブミュージックの革新的潮流
 ---
 
 
 
-## UK Broken Beat Re-evaluation Trend
+## UK Broken Beat 再評価トレンド
 
-Text: mmr｜Theme: Birth of Broken Beat, activities of major artists, song analysis, techniques, community, and background of re-evaluation
+文：mmr｜テーマ：Broken Beat の誕生、主要アーティストの活動、楽曲分析、技法、コミュニティ、そして再評価の背景について
 
-UK Broken Beat is a style of club music that developed in the UK from the late 1990s to the early 2000s, and is characterized by its unique and complex rhythmic structure, influenced by jazz, soul, funk, and drum and bass. In recent years, there has been a growing movement to reevaluate past masterpieces, with reissues and new generations of artists taking over the works.
+UK Broken Beat は1990年代末から2000年代初頭にかけて英国で発展したクラブミュージックのスタイルで、ジャズ、ソウル、ファンク、ドラムンベースの影響を受けつつ、独自の複雑なリズム構造を持つのが特徴です。近年、過去の名作が再評価される動きが強まっており、リイシューや新世代アーティストによる継承も進んでいます。
 
 ---
 
@@ -28,7 +28,7 @@ UK Broken Beat is a style of club music that developed in the UK from the late 1
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -39,93 +39,93 @@ color: #fff;
 
 ## 1. Origin and background
 
-In the mid-1990s, jazz-funk and drum and bass were rapidly developing in the UK club scene. In this context, music with freer and irregular rhythms emerged as an offshoot of traditional four-on-the-floor house and jazz-funk. This formed the basis of the genre that would later be called Broken Beat.
+1990年代半ば、UK のクラブシーンではジャズ・ファンクやドラムンベースが急速に発展していました。その中で、従来の4つ打ちハウスやジャズ・ファンクからの派生として、より自由で不規則なリズムを持つ音楽が登場しました。これが後に Broken Beat と呼ばれるジャンルの基盤となります。
 
-- **Jazz-funk swing feel**: Complex chord progressions and odd time signature rhythms
-- **Drum and bass and jungle rhythm complexity**: high-speed breakbeats and irregular snare placements
-- **Fusion with hip-hop sampling culture**: Simultaneous use of live music and sampling
+- **ジャズ・ファンクのスウィング感**: 複雑なコード進行と変拍子リズム  
+- **ドラムンベースやジャングルのリズムの複雑化**: 高速ブレイクビーツや変則的スネア配置  
+- **ヒップホップのサンプリング文化との融合**: 生演奏とサンプリングの同時利用  
 
-> "At that time, it wasn't just dancing or listening to music, it was more fun to feel the swing and groove that was born behind the rhythm."
-> — Testimony of a London club DJ at the time
+> 「当時は、ただ踊るだけでなく、音楽を聴くというよりも、リズムの裏側で生まれるスウィングやグルーヴを感じる楽しさがあった」  
+> — ある当時のロンドンのクラブDJの証言
 
-The fusion of this multi-layered sense of rhythm and jazz-like harmonies formed the core sound of Broken Beat.
+こうした多層的なリズム感とジャズ的ハーモニーの融合が、Broken Beat の核となるサウンドを形成しました。
 
 ---
 
-## 2. Early major artists and labels
+## 2. 初期の主要アーティストとレーベル
 
-Broken Beat's early days feature core artists and labels.
+Broken Beat の初期には中心的なアーティストとレーベルが登場します。  
 
-- **Dego (4hero)**: While active as a member of 4hero, he also pursues elements of Broken Beat in his solo works. In particular, "Live in Tokyo" is characterized by a method that directly translates the feeling of live performance into a club track.
-- **IG Culture**: A pioneer of the Broken Beat style, which combines jazz-funk and soul. We expanded the genre with complex phrases on keyboards and synths.
-- **Kaidi Tatham**: With her versatile keyboard performances and odd time signature rhythms, she played a role in expanding the range of genres.
-- **2000Black**: Label and artist collective, home to the Broken Beat community. In addition to releases, there was also lively interaction at regular events.
+- **Dego (4hero)**: 4hero の一員として活動しつつ、ソロ作品でも Broken Beat の要素を追求。特に「Live in Tokyo」ではライブ演奏の感覚をそのままクラブトラックに落とし込む手法が特徴です。
+- **IG Culture**: ジャズ・ファンクとソウルを融合した Broken Beat スタイルの先駆者。キーボードやシンセの複雑なフレーズでジャンルを拡張しました。
+- **Kaidi Tatham**: 多彩なキーボード演奏と変拍子リズムで、ジャンルの幅を広げる役割を果たしました。
+- **2000Black**: レーベル兼アーティスト集団で、Broken Beat コミュニティの拠点。リリースだけでなく定期イベントでの交流も活発でした。
 
-Representative labels:
+代表的レーベル:
 
-- **Rising High**: Origin of early electronica jazz funk
-- **Reinforced Records**: Bridging Drum & Bass and Broken Beat
-- **Talkin" Loud**: A release that brings soul and jazz elements to the forefront.
-- **2000Black**: Activities as an artist group and community formation
+- **Rising High**: 初期エレクトロニカ・ジャズ・ファンクの発信地  
+- **Reinforced Records**: ドラムンベースと Broken Beat の橋渡し  
+- **Talkin’ Loud**: ソウルやジャズ要素を前面に押し出したリリース  
+- **2000Black**: アーティスト集団としての活動とコミュニティ形成
 
 <div class="mermaid">
 graph TD
-    Dego -->|influence| BrokenBeat[UK Broken Beat]
-    IGCulture -->|influence| BrokenBeat
-    KaidiTatham -->|playing technique| BrokenBeat
-    Black2000 -->|community building| BrokenBeat
+    Dego -->|影響| BrokenBeat[UK Broken Beat]
+    IGCulture -->|影響| BrokenBeat
+    KaidiTatham -->|演奏技術| BrokenBeat
+    Black2000 -->|コミュニティ形成| BrokenBeat
 </div>
 
 ---
 
-## 3. Musical characteristics and song analysis
+## 3. 音楽的特徴と曲分析
 
-Broken Beat is more than just dance music, it is characterized by its combination of rhythmic complexity and soulful harmonies.
+Broken Beat は単なるダンスミュージックではなく、リズムの複雑さとソウルフルなハーモニーの両立が特徴です。
 
-### 3.1 Rhythm
+### 3.1 リズム
 
-- Based on a 4/4 house beat, slightly shifting the position of the snare and hi-hat
-- Irregular swings and odd time signatures are often used, and although it is suitable for dance, it also emphasizes the enjoyment of listening.
+- 4つ打ちのハウスビートを基盤にしながら、スネアやハイハットの位置を微妙にずらす  
+- 不規則なスウィングや変拍子が多用され、ダンス向けでありながら聴く楽しさも重視される  
 
-**Example: IG Culture "Give Me Time"**
-- ""Floating feeling'' created by the hi-hat not always being an eighth note, but slightly off-center.
-- The kick drum is asymmetrically placed, creating a complex groove in response to the snare.
+**例: IG Culture「Give Me Time」**  
+- ハイハットが常に8分音符ではなく微妙にずれることで生まれる「浮遊感」  
+- キックドラムの配置が非対称で、スネアとの呼応により複雑なグルーヴを形成
 
-### 3.2 Melody and Harmony
+### 3.2 メロディとハーモニー
 
-- Synths and keyboards that incorporate jazz chord progressions
-- Fusion with soulful vocal phrases and sampling
-- In Dego's "Live in Tokyo," piano and synth pads overlap to create a floating harmony.
+- ジャズのコード進行を導入したシンセやキーボード  
+- ソウルフルなボーカルフレーズやサンプリングとの融合  
+- Dego の「Live in Tokyo」ではピアノとシンセパッドが重なり、浮遊感のあるハーモニーを構築
 
-### 3.3 Sampling and live performance techniques
+### 3.3 サンプリングとライブ演奏技法
 
-- Use live recordings of drums and percussion as material
-- Sample soul and funk phrases
-- Programming techniques that reflect rhythmic changes in real time
+- ドラムやパーカッションのライブ録音を素材に使用  
+- ソウル、ファンクのフレーズをサンプリング  
+- リアルタイムでのリズム変化を反映するプログラミング技法  
 
 <div class="mermaid">
 graph LR
-    Rhythm[complex rhythm] --> Melody[Jazz-soul fusion harmony]
-    Melody --> Sampling[Live music + sampling]
-    Sampling --> Live[live performance techniques]
+    Rhythm[複雑リズム] --> Melody[ジャズ・ソウル融合ハーモニー]
+    Melody --> Sampling[生演奏＋サンプリング]
+    Sampling --> Live[ライブ演奏技法]
 </div>
 
 ---
 
-## 4. Timeline: The development of UK Broken Beat
+## 4. 年表: UK Broken Beat の発展
 
-| Year | Events/Release | Overview |
-|---|----|------|
-| 1994 | 4hero album "Parallel Universe" | Featuring Dego, pioneering early jazz electronica |
-| 1996 | Start of IG Culture activities | Soulful work that combines jazz and funk |
-| 1998 | Establishment of 2000Black label | Start of activities as a community base |
-| 1999 | Kaidi Tatham initial release | Presenting a variety of keyboard works |
-| 2000 | Dego solo work "Live in Tokyo" | Emphasizing the live feel of Broken Beat |
-| 2002 | IG Culture "Give Me Time" | Broken Beat's representative single |
-| 2004 | 2000Black Collaborative Works | Showing Community Activities and Diversity |
-| 2010 | Signs of reappraisal | Attention at record shops and clubs |
-| 2015 | Reissue release | Early works are being reprinted |
-| 2020 | Expanding popularity through streaming | Penetrating global listener base |
+| 年 | 出来事・リリース | 概要 |
+|---|-----------------|------|
+| 1994 | 4hero アルバム "Parallel Universe" | Dego が参加、初期ジャズ・エレクトロニカ先駆け |
+| 1996 | IG Culture 活動開始 | ジャズ・ファンク融合のソウルフル作品 |
+| 1998 | 2000Black レーベル設立 | コミュニティ拠点として活動開始 |
+| 1999 | Kaidi Tatham 初期リリース | 多彩なキーボードワークを提示 |
+| 2000 | Dego ソロ作品 "Live in Tokyo" | Broken Beat のライブ感を強調 |
+| 2002 | IG Culture "Give Me Time" | Broken Beat の代表的シングル |
+| 2004 | 2000Black コラボ作品多数 | コミュニティ活動と多様性を示す |
+| 2010 | 再評価の兆し | レコードショップ、クラブで注目 |
+| 2015 | 再発盤リリース | 初期作品の復刻が進む |
+| 2020 | ストリーミングで人気拡大 | 世界的リスナー層への浸透 |
 | 2023 | New generation artist activities | Inheritance and development by young producers |
 
 <div class="mermaid">
@@ -146,75 +146,75 @@ timeline
 
 ---
 
-## 5. Community and club scene
+## 5. コミュニティとクラブシーン
 
-Broken Beat was supported not only by individual artists, but also by community and club events.
+Broken Beat は個別アーティストの活動だけでなく、コミュニティやクラブイベントによって支えられました。
 
-- **2000Black**: Hold regular events and promote collaboration between artists
-- **Influence of The Herbaliser and Jazzanova**: Diversification of sounds through international exchange
-- **London clubs**: Broken Beat sets take hold at Plastic People, The End and more
+- **2000Black**: 定期イベント開催、アーティスト間コラボ促進  
+- **The Herbaliser や Jazzanova の影響**: 国際交流によるサウンド多様化  
+- **London のクラブ**: Plastic People、The End などで Broken Beat セットが定着  
 
-> "Broken Beat wasn't just music to listen to, it was a genre where you could experience the sway of the rhythm while dancing."
-> — Testimony of a club patron at the time
+> 「Broken Beat はただ聴く音楽ではなく、踊りながらも、リズムの揺れを体感するジャンルだった」  
+> — 当時のクラブパトロンの証言
 
 <div class="mermaid">
 graph LR
-    Club[London club] --> Event[Broken Beat Event]
+    Club[London クラブ] --> Event[Broken Beat イベント]
     Event --> Artists[Dego, Kaidi Tatham, IG Culture]
     Artists --> Label[2000Black]
-    Label --> Community[Broken Beat Community]
+    Label --> Community[Broken Beat コミュニティ]
 </div>
 
 ---
 
-## 6. Recent reevaluation trends
+## 6. 近年の再評価トレンド
 
-Broken Beat has been undergoing a reappraisal in recent years.
+Broken Beat は近年、再評価が進んでいます。
 
-- **Reissue**: Increase in reprints and limited edition releases of early works
-- **New Generation Artists**: Applying Broken Beat to contemporary house, jazz and electronica
-- **Online Community**: Reach a global listenership with Spotify, Bandcamp
-- **Academic evaluation**: The importance of Broken Beat in music history and club culture research is reaffirmed
+- **リイシュー**: 初期作品の復刻や限定盤リリースが増加  
+- **新世代アーティスト**: 現代のハウスやジャズ・エレクトロニカに Broken Beat を応用  
+- **オンラインコミュニティ**: Spotify, Bandcamp で世界的リスナー層に広がる  
+- **学術的評価**: 音楽史・クラブ文化研究での Broken Beat の重要性が再認識  
 
 <div class="mermaid">
 graph TD
-    Old["1990s Broken Beat"] -->|reissue| New["Modern Listener"]
-    New --> Online["Streaming / Bandcamp"]
+    Old["1990s Broken Beat"] -->|リイシュー| New["現代リスナー"]
+    New --> Online["ストリーミング / Bandcamp"]
     Community --> New
-    Academic["Musicological research"] --> Recognition["Historical evaluation of genre"]
+    Academic["音楽学研究"] --> Recognition["ジャンルの歴史的評価"]
 </div>
 
 ---
 
-## 7. Artist individual profile and analysis
+## 7. Individual artist profile and analysis
 
 ### Dego
-- **Start of activities**: Early 1990s
-- **Characteristics**: Development of Broken Beat based on jazz electronica
-- **Analysis of representative works**: In "Live in Tokyo", the drums and bass are slightly out of sync, creating a live feel with an improvisational feel. The highlight of this song is the combination of the floating and swinging feel of the synth.
+- **活動開始**: 1990年代初頭  
+- **特徴**: ジャズ・エレクトロニカをベースにした Broken Beat の発展  
+- **代表作分析**: 「Live in Tokyo」では、ドラムとベースが微妙にずれ、即興感のあるライブ感を演出。シンセの浮遊感とスウィング感の両立が聴きどころ。
 
 ### Kaidi Tatham
-- **Start of activities**: Late 1990s
-- **Features**: Various keyboard works, complex rhythm patterns
-- **Song analysis**: In songs such as "Episode 1", the bass line responds to the rhythm and creates a fluctuating melody, creating the "floating feeling" that is unique to Broken Beat.
+- **活動開始**: 1990年代後半  
+- **特徴**: 多彩なキーボードワーク、複雑なリズムパターン  
+- **曲分析**: 「Episode 1」などでは、ベースラインがリズムに呼応しつつメロディの揺らぎを生み、Broken Beat 特有の「浮遊感」を形成。
 
 ### IG Culture
-- **Start of activities**: 1996
-- **Characteristics**: Soulful and jazz-fusion Broken Beat
-- **Song Analysis**: "Give Me Time" is impressive with its long sustain on the synth pad and asymmetrical rhythm. A structure that allows for a high degree of freedom in vocal phrases and gives the listener "breathing".
+- **活動開始**: 1996  
+- **特徴**: ソウルフルでジャズ融合的な Broken Beat  
+- **曲分析**: 「Give Me Time」はシンセパッドの長いサスティンと非対称リズムが印象的。ボーカルフレーズの自由度が高く、リスナーに「呼吸」を与える構造。
 
 ### 2000Black
-- **Established**: 1998
-- **Characteristics**: Label and artist group, community formation
-- **Activity analysis**: The label's works include the participation of a variety of artists and reflect attempts to expand the range of genres. Characterized by improvisational sound generation at live events.
+- **設立**: 1998  
+- **特徴**: レーベル兼アーティスト集団、コミュニティ形成  
+- **活動分析**: レーベル作品は多彩なアーティストが参加し、ジャンルの幅を広げる試みを反映。ライブイベントでの即興的なサウンド生成が特徴。
 
 ---
 
-## 8. Summary
+## 8. まとめ
 
-UK Broken Beat is a uniquely British style of club music that combines diverse elements such as jazz funk, drum and bass, and hip hop. Core artists and labels such as Dego, Kaidi Tatham, IG Culture, and 2000Black have established unique styles with complex rhythmic structures and soulful melodies. In recent years, it has been reevaluated through reissues and streaming, and is attracting attention in the club scene and the global music community.
+UK Broken Beat は、ジャズ・ファンク、ドラムンベース、ヒップホップなど多様な要素を融合させた英国独自のクラブ音楽です。Dego、Kaidi Tatham、IG Culture、2000Black などの中心的アーティストやレーベルによって、複雑なリズム構造とソウルフルなメロディを持つ独自のスタイルが確立されました。近年はリイシューやストリーミングを通じて再評価され、クラブシーンや世界的音楽コミュニティで注目を集めています。
 
-> "Broken Beat's rhythm is not only danceable, but also an aesthetic groove that can be felt by the ear."
+> 「Broken Beat のリズムは踊るだけでなく、耳で感じるグルーヴの美学でもある」  
 
 ---
 

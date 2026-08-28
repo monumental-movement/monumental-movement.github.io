@@ -11,13 +11,13 @@ tags:
 - House
 - Hiphop
 - 90s
-title: 菲斯·埃文斯的壯舉。吹牛老爹——整夜
+title: Faith Evans Feat. Puff Daddy – All Night Long
 ---
 
 
-美國 R&B 歌手、Notorious B.I.G. 的妻子 Faith Evans 於 1999 年與 Puff Daddy 合作，在 Bad Boy Entertainment 廠牌下發行了 R&B/House。
+USのR&B シンガーであり、Notorious B.I.G. (ノートリアスBIG)の妻だったFaith EvansがPuff Daddyとコラボし、1999年にレーベルBad Boy EntertainmentからリリースされたR&B／House。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. All Night Long (Album Version)
 A2. Life Will Pass You By (Album Version)
@@ -27,7 +27,7 @@ B1. All Night Long (Soul Solution Club Vox)
 B2. All Night Long (A-N-S Uplift Dub)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m37446489386?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37446489386?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JPrI-ysA-Ao?si=X5obtX212YtNTBfK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

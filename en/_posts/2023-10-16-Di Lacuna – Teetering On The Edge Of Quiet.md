@@ -12,9 +12,9 @@ title: Di Lacuna – Teetering On The Edge Of Quiet
 ---
 
 
-Di Lacuna is a post-rock band formed in 1998 by John Sephton, Lee Newell, and Paul Hemmingfield. Member Lee Newell has been playing drums in Fields of the Nephilim since 2007.
+Di Lacunaは、John Sephton、Lee Newell,、Paul Hemmingfieldによって1998年に結成されたポストロックバンド。メンバーのLee Newellは、2007年からFields of the Nephilim（フィールズ・オブ・ザ・ネフィリム）でドラムを担当している。
 
-"Teetering On The Edge Of Quiet...." was released in 1999 by FatCat Records, an electronica noise post-rock label based in Brighton, UK.
+「Teetering On The Edge Of Quiet....」は、UKブライトンを拠点とするエレクトロニカ・ノイズ・ポストロックレーベルFatCat Recordsより1999年にリリースされた。
 
 #### Tracklist
 ```md
@@ -27,5 +27,5 @@ B1. New Project 14
 B2. Scandal Of The Baby Farmers
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m49813157624?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49813157624?afid=6142608987){: .button1}
 

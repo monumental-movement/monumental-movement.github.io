@@ -16,9 +16,9 @@ title: The 5th Dimension –  Aquarius Let The Sunshine In
 
 The 5th Dimensio(フィフス ディメンション)は、サンシャインポップ、ポップソウル、サイケデリックソウルのスタイルで、1960年代後半から1970年代前半にかけて活躍したUSボーカルグループです。
 
-1969年，他以《Aquarius/Let The Sunshine In》獲得葛萊美年度最佳唱片獎。
+1969年に「Aquarius / Let The Sunshine In 」でグラミー賞最優秀レコード賞を受賞。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Aquarius/Let The Sunshine In (The Flesh Failures) 
 

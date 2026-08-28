@@ -9,15 +9,15 @@ permalink: /zh-hant/model-500-deep-space/
 tags:
 - Techno
 - 90s
-title: 型號 500 – 深空
+title: Model 500 – Deep Space
 ---
 
 
-Model 500 是 DJ 兼製作人 Juan Atkins 使用的別名，他被稱為底特律 techno 的先驅之一，直到 2008 年為止。自 2008 年以來，Model 500 的主角包括 Juan Atkins、Underground Resistance 的 Milton Baldwin (DJ Skurge) 和 Mark Taylor。
+Model 500は、デトロイトテクノの先駆者の1人として知られるDJ・プロデューサーJuan Atkins(ホアン・アトキンス)が2008年まで使用した別名義。2008年以降、Model 500はJuan Atkins、Underground ResistanceのMilton Baldwin(DJ Skurge)& Mark Taylorで活動している。
 
-《Deep Space》是胡安·阿特金斯 (Juan Atkins) 於 1995 年在 R&S Records 唱片公司發行的一張 techno 專輯，代表 20 世紀 90 年代底特律 techno 的傑作。
+「Deep Space」は、1995年にレーベルR & S RecordsからリリースされたJuan Atkinsのテクノアルバム。1990年代のデトロイトテクノを代表する名盤。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Milky Way
 2. Orbit
@@ -30,7 +30,7 @@ Model 500 是 DJ 兼製作人 Juan Atkins 使用的別名，他被稱為底特�
 9. Lightspeed
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w0jg3x0P3kw?si=WINpDt2LkieS4iDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

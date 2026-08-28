@@ -10,7 +10,7 @@ tags:
 - Minimal
 - Tech House
 - 00s
-title: Mark & ​​John – Jagging (Remixes)
+title: Mark & John – Jagging (Remixes)
 ---
 
 

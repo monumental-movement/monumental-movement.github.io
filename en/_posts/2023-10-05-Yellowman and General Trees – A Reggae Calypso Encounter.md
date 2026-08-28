@@ -12,9 +12,9 @@ title: Yellowman & General Trees – A Reggae Calypso Encounter
 ---
 
 
-Yellowman is a very popular dancehall reggae artist in the Jamaican music scene, and General Trees is an equally well-known dancehall artist. Their collaboration ""A Reggae Calypso Encounter'' offers a unique sound that combines elements of Jamaican reggae and Trinidad and Tobago calypso.
+イエローマンは、ジャマイカ音楽シーンで非常に人気のあるダンスホールレゲエのアーティストであり、ジェネラル・ツリーズも同様に知名度の高いダンスホールアーティストです。彼らの共演による「A Reggae Calypso Encounter」は、ジャマイカのレゲエとトリニダード・トバゴのカリプソの要素を融合させたユニークなサウンドを提供しています。
 
-The song alternates between Yellowman and General Trees, combining the rhythms of calypso with the energetic style of reggae. The lyrics of the song describe the atmosphere of a dance hall party scene or a calypso festival, with a sense of fun atmosphere and dance rhythms.
+この曲では、イエローマンとジェネラル・ツリーズが交互に歌い、カリプソのリズムとレゲエのエネルギッシュなスタイルが組み合わさっています。曲の歌詞は、ダンスホールのパーティーシーンやカリプソの祭りの雰囲気を描写しており、楽しい雰囲気と踊りのリズムが感じられます。
 
 
 #### Tracklist
@@ -36,7 +36,7 @@ B3. General Trees–Serious Thing
 B4. General Trees–Trees In The Place
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m22742438118?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22742438118?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7PQI7UqX5Y0?si=BcnYFrxXixxA1uBz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

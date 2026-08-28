@@ -13,9 +13,9 @@ title: Of Montreal – The Gay Parade
 ---
 
 
-of Montréal 是一支美國搖滾樂隊，於 1996 年在喬治亞州成立，由凱文·伯恩斯 (Kevin Burns) 領導。
+of Montrealは、1996年ジョージア州でケヴィン・バーンズを中心に結成されたUSロックバンド。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Old Familiar Way
 2. Fun Loving Nun
@@ -33,7 +33,7 @@ of Montréal 是一支美國搖滾樂隊，於 1996 年在喬治亞州成立，�
 14. A Man's Life Flashing Before His Eyes While He And His Wife Drive Off A Cliff Into The Oceanなど
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T4aLrkrnLNc?si=8w34sKNKY0yy2kN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

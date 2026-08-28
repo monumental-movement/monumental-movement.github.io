@@ -12,9 +12,9 @@ title: The Rurals – Lush
 ---
 
 
-"Lush" is
-Real name Andy Compton, released in 2000 on UK label Peng.
-This is an EP from the project The Rurals.
+「Lush」は、
+2000年にUKのレーベル「Peng」からリリースされた本名Andy Compton
+によるプロジェクトThe RuralsのEPです。
 
 
 #### Tracklist
@@ -24,7 +24,7 @@ A. Grey Clouds
 B. Lush
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m41046223978?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41046223978?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RBy6Huco7aI?si=dRLJVxIBzNqkzyEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,16 +10,16 @@ tags:
 - Deep House
 - Tech House
 - 00s
-title: Cpen – 怪物
+title: Cpen – Monsters
 ---
 
 
-Chris Penny，也被稱為CPEN，是一位電子/浩室製作人，作為WestCoast House的代表藝術家之一，在Seasons Recordings、Naked Music、Icon Recordings和Transfusion等唱片公司發行了許多作品。他也與 J.T. 一起活躍在 Untitled Orchestra 樂團中。唐納森和 Lance DeSardi 的 Curb Feelers 樂隊。
+CPENことChris Penny は、WestCoast House の代表的アーティストの一人として、Seasons Recordings, Naked Music, Icon Recordings, Transfusion などのレーベルで多くの作品をリリースする、エレクトロニック／ハウス プロデューサー。J.T. DonaldsonとのユニットUntitled Orchestraや、Lance DeSardiとのユニットCurb Feelersとしても活動している。
 
-《Monsters》是 Deep House/Tech House 的一首歌曲，於 2006 年由 Memorabilia 廠牌發行。
+「Monsters」は、レーベルMemorabiliaから2006年にリリースされたDeep House／Tech House。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Monsters (Original Mix)
 
@@ -27,7 +27,7 @@ B1. Monsters (DJ Mr. Gil & Ricardo Motta Remix)
 B2. Monsters (Mondino Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m55407425290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55407425290?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GNyvKcJAFqY?si=UYCCauXWSIVA1xte" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

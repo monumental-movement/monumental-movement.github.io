@@ -20,7 +20,7 @@ title: '[Column] Experimental Beats × Anime Soundtrack ─ Anime sound history 
 
 Text: mmr | Theme: How has experimental beat updated anime music and expanded visual expression itself?
 
-Electro-acoustic, ethnic percussion, sampling, breakbeats, ambient processing.
+Electroacoustics, ethnic percussion, sampling, breakbeats, ambient processing.
 These are not just decorations, but have been incorporated into anime works as structures that create a worldview.
 
 This article focuses on representative examples from the late 1980s onwards, and examines how experimental beats have penetrated anime music and changed its narrative structure and cultural reception, from the perspectives of works, composers, and sound techniques.
@@ -44,7 +44,7 @@ color: #fff;
 Experimental Beats × Anime Soundtrack refers to the phenomenon in which music that incorporates electronic acoustics, avant-garde percussion instrumentation, non-homogeneous rhythm structures, and sampling culture functions as the soundtrack, theme song, and insert song for animation works.
 
 This does not simply mean "using electronic music."
-The essence is that the construction of the rhythm itself is linked to video editing, camera work, and worldview setting.
+リズムの構築そのものが映像編集、カメラワーク、世界観設定と連動している点が本質である。
 
 ### Main features
 
@@ -64,11 +64,11 @@ The essence is that the construction of the rhythm itself is linked to video edi
 The movie version of AKIRA, released in 1988, was a major turning point in the history of anime music.
 
 The Geino Yamashiro Gumi, which was in charge of the music, is a group whose activities are based on research into ethnic music, and created a large-scale sound system that combined shomyo, gamelan, percussion instruments, and electronic processing.
-The layered polyrhythms, emphasis on overtones, and collective chorus symbolically depicted the chaos of the near-future city of Neo-Tokyo.
+ポリリズムの重層、倍音の強調、集団的コーラスは、近未来都市ネオ東京の混沌を象徴的に描写した。
 
 Unlike conventional symphonic accompaniment, it is important that the rhythm has a structure that "propels" the image.
 
-> In the late 1980s, anime began to move away from its orchestral focus and transform into a field for sonic experimentation.
+> In the late 1980s, anime moved away from its orchestral focus and began to transform into a field for sonic experimentation.
 
 ---
 
@@ -76,7 +76,7 @@ Unlike conventional symphonic accompaniment, it is important that the rhythm has
 
 Kenji Kawai, who was in charge of the music for GHOST IN THE SHELL, released in 1995, combined electronic sounds and religious melodies.
 
-A polyphonic chorus that references Bulgarian voices, an inorganic synth pad, and a low-frequency beat.
+Polyphonic chorus referencing Bulgarian voices, inorganic synth pads, and low-frequency beats.
 This is an example of expressing the tension between physicality and mechanicality through sound.
 
 In Cowboy Bebop, which aired in 1998, Yoko Kanno freely traversed jazz, big band, funk, and electronica.
@@ -86,9 +86,9 @@ The opening song, ""Tank!,'' is a high-speed big band song, but its rhythmic dis
 
 ---
 
-### 2000s: Introduction of hip-hop and lo-fi
+### 2000年代：ヒップホップとローファイの導入
 
-2004's Samurai Champloo is a work that connects hip-hop culture and historical drama.
+2004年のサムライチャンプルーは、ヒップホップ文化と時代劇を接続した作品である。
 
 Nujabes and others participated in the music.
 Jazz samples, breakbeats, and lo-fi textures are strongly linked to the editing tempo and action structure.
@@ -104,13 +104,13 @@ Around the same time, with the spread of digital production environments, music 
 ### 2010s: Fusion of electronic music and sound design
 
 In PSYCHO-PASS, which aired in 2012, Yugo Kanno combined deep bass electronics and strings.
-A sense of urban tension was created using low-frequency beats.
+都市的緊張感を低域ビートで構築した。
 
 Yoko Kanno was in charge again in 2014's Terror of Reverberations.
-Ambient processing, ambient sound textures, and minimal rhythms.
+アンビエント処理、環境音的テクスチャ、最小限のリズム。
 The contrast between the silence and the beat created psychological tension.
 
-During this period, a variety of electronic music such as EDM, ambient, and post-rock was incorporated into anime soundtracks.
+この時代にはEDMやアンビエント、ポストロックなど多様な電子音楽がアニメ劇伴に取り込まれた。
 
 > Experimental beats have moved to a stage where they function as spatial design rather than flashiness.
 
@@ -151,7 +151,7 @@ timeline
 
 ### Entertainment Yamashiro Gumi
 
-Ethnic music research and large-scale choirs.
+Ethnic music research and large-scale chorus.
 Recordings were made with several hundred people, and the production focused on the physical vibrations of percussion instruments.
 
 ### Kenji Kawai
@@ -210,7 +210,7 @@ Akira and Ghost in the Shell have become reference points for cyberpunk expressi
 Hip-hop and lo-fi culture have also been re-exported through anime.
 Samurai Champloo contributed to the international visibility of Japanese beat culture.
 
-In the digital distribution era, we have seen the phenomenon of anime songs re-emerging on global charts.
+配信時代には、アニメ楽曲がグローバルチャートに再浮上する現象も見られる。
 Anime has become a mediating device for the circulation of music culture.
 
 > Experimental beats use anime as a medium to promote music circulation on a global scale.
@@ -227,10 +227,19 @@ It's not necessarily difficult. It often has a repetitive or simple structure, b
 
 Because anime is not bound by realism, abstract sounds and unrealistic rhythms work seamlessly.
 
-### What are your future prospects?
+### 今後の展望は？
 
-With advances in electronic music, AI-generated sound, and sound design, the integration of beats and video is likely to advance even further.
+電子音楽、AI生成音響、サウンドデザインの高度化により、ビートと映像の統合はさらに進むと考えられる。
 
 > The relationship between experimental beats and anime music is not a historical phenomenon, but an ongoing evolutionary process.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t5nlDcO7o7Q?si=Azl7d_rAft90HpQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -9,11 +9,11 @@ tags:
 - Techno
 - German Techno
 - 90s
-title: Pick up Tresor works
+title: Tresor(トレゾア)作品をピックアップ
 ---
 
 
-"The heartbeat of techno echoing behind the iron door, the remarkable works of Tresor"
+「鉄扉の向こうで鳴り響いた、テクノの鼓動、注目すべきTresor(トレゾア)作品群」
 
 <hr>
 
@@ -22,10 +22,10 @@ title: Pick up Tresor works
 ### Joey Beltram – The Rising Sun
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-Overview: Joey Beltram's work released by Tresor in 2004. Available in CD format at MMR.
+概要：2004年にTresorからリリースされたJoey Beltramの作品。MMRではCDフォーマットで入手可能です。
 
 
-Attractive point: Contains many representative songs by veteran techno producer Joey Beltram. Through his collaboration with Tresor, you can enjoy his deepened sound world.
+魅力ポイント：ベテラン・テクノプロデューサーJoey Beltramの代表曲が多数収録。Tresorとのコラボレーションを通して彼の深化したサウンド世界が楽しめます。
 
 #### Tracklist
 ```md
@@ -42,7 +42,7 @@ Attractive point: Contains many representative songs by veteran techno producer 
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -54,10 +54,10 @@ Attractive point: Contains many representative songs by veteran techno producer 
 ### Joey Beltram – Game Form
 <a href="https://jp.mercari.com/item/m93873699872?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20Game%20Form.webp"></a>
 
-Summary: A single containing "Game Form" and remixes by Robert Armani and Mike Dearborn. Released in 2004.
+概要：「Game Form」およびロバート・アルマーニやマイク・ディアボーンによるリミックスを収録したシングル。2004年リリース。
 
 
-Attractive point: This is an exclusive vinyl work with powerful dance floor tracks including remixes.
+魅力ポイント：リミックス含めてダンスフロア仕様の強力なトラックが揃う、エクスクルーシブなヴァイナル作品です。
 
 #### Tracklist
 ```md
@@ -68,7 +68,7 @@ B2. Game Form (Mike Dearborn Remix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -79,10 +79,10 @@ B2. Game Form (Mike Dearborn Remix)
 ### Various – Tresor Compilation Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-Summary: A compilation album by Tresor released in 1998. Following Vol.7 in 1999, this is a piece packed with the charm of early Tresor.
+概要：1998年リリースのTresorによるコンピレーションアルバム。1999年のVol.7に続く、初期のTresorの魅力が詰まった一枚です。
 
 
-Attractive point: Contains a luxurious lineup that symbolizes the Berlin techno scene of the late 90s, and is a good introductory album that allows you to deeply enjoy the label's roots and early sounds.
+魅力ポイント：90年代後半のベルリン・テクノシーンを象徴する豪華ラインナップが収録されており、レーベルのルーツと初期サウンドを深く味わえる良い入門盤。
 
 #### Tracklist
 ```md
@@ -102,7 +102,7 @@ Attractive point: Contains a luxurious lineup that symbolizes the Berlin techno 
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -113,10 +113,10 @@ Attractive point: Contains a luxurious lineup that symbolizes the Berlin techno 
 ### Various – Tresor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-Summary: The 7th Tresor compilation released in 1999. A gorgeous collection of songs from world-famous artists such as Sven Väth, Ben Sims, James Ruskin, Daniel Bell, and DJ Shufflemaster.
+概要：1999年発表のTresorコンピレーション第7弾。Sven Väth や Ben Sims、James Ruskin、Daniel Bell、DJ Shufflemaster など、世界的アーティストの楽曲が収録された豪華コレクションです。
 
 
-Attractive point: Covers a wide range of styles such as dub techno and ambient, and allows you to fully experience the essence of the Tresor label. Recommended for beginners.
+魅力ポイント：Dubテクノやアンビエントなど幅広いスタイルを網羅し、Tresorレーベルのエッセンスを余すところなく体感できる一枚。初心者にもおすすめです。
 
 #### Tracklist
 ```md
@@ -135,7 +135,7 @@ Attractive point: Covers a wide range of styles such as dub techno and ambient, 
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -144,13 +144,13 @@ Attractive point: Covers a wide range of styles such as dub techno and ambient, 
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Family
+### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-Summary: Tresor's early compilation work released in 1992. It is a condensed content packed with songs by various artists from A side to D side.
+概要：1992年にリリースされたTresor初期のコンピレーション作品。A面〜D面まで多彩なアーティストによる楽曲が詰め込まれた凝縮された内容です。
 
 
-Attractive point: As the title suggests, "Klang Der Familie" (Sounds of the Family), this is a historical masterpiece that gives a realistic feel to the formative period of Berlin's techno culture. Especially recommended for analog fans.
+魅力ポイント：「Klang Der Familie」（家族の響き）というタイトル通り、ベルリンのテクノカルチャー形成期をリアルに感じさせる歴史的名作。アナログファンには特におすすめ。
 
 #### Tracklist
 ```md
@@ -168,7 +168,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -179,10 +179,10 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ### DJ Shufflemaster – EXP
 <a href="https://jp.mercari.com/item/m45286503868?afid=6142608987"><img src="../assets/images/DJ%20Shufflemaster%20%E2%80%93%20EXP.webp"></a>
 
-Summary: A full-length album released in 2001 by Japanese hard techno DJ/producer DJ Shufflemaster (Tatsuya Kanamori). It is known as a masterpiece released by Tresor.
+概要：日本のハードテクノDJ／プロデューサーであるDJ Shufflemaster（金森達也）による、2001年リリースのフルアルバム。Tresorから発表された代表作として知られています。
 
 
-Attractive point: The deep hard techno sound and detailed composition are attractive. He has received high praise internationally, and is a valuable Japanese artist who has spread around the world through his relationship with Tresor.
+魅力ポイント：重厚なハードテクノサウンドと緻密な構成が魅力。国際的にも高評価を得ており、Tresorとの関係を通して世界に広がった日本人アーティストとしても貴重な存在です。
 
 #### Tracklist
 ```md
@@ -200,7 +200,7 @@ D2. Innervisions
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -211,10 +211,10 @@ D2. Innervisions
 ### Chrislo – Low
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor092%EF%BC%89.webp"></a>
 
-Overview: One of the related artists that appears in the "Explore more like this" section of Joey Beltram's work page (The Rising Sun). By Chrislo Haas, Tresor 092.
+概要：Joey Beltramの作品ページ（The Rising Sun）の「Explore more like this」セクションに現れる関連アーティストの一つです。Chrislo Haasによる作品で、Tresor 092。
 
 
-Attractive point: This is a solo work by Chrislo Haas, known for his work as D.A.F. and Liaisons Dangereuses, and shows a strong connection to Berlin's experimental electronic music.
+魅力ポイント：D.A.F. や Liaisons Dangereuses などで知られるChrislo Haasのソロ活動として、ベルリンの実験的な電子音楽への強烈な接続を感じさせる一作。
 
 #### Tracklist
 ```md
@@ -230,7 +230,7 @@ Attractive point: This is a solo work by Chrislo Haas, known for his work as D.A
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
 
 
 #### Youtube

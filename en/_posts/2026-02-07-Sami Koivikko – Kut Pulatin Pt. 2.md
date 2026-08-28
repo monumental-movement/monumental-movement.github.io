@@ -27,7 +27,7 @@ B1. Byrthe
 B2. Polemik
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m61454562015?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61454562015?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I8fHs800khA?si=nYqJyDGle9k8dsim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

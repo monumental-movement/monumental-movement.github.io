@@ -10,19 +10,18 @@ tags:
 - Minimal
 - Experimental
 - Installation
-title: '[Column] When sine waves change the space—Sachiko M and the aesthetics of
-  extreme minimalism'
+title: 【コラム】 サイン波が空間を変えるとき——Sachiko Mと極限ミニマリズムの美学
 ---
 
 
 
-## Prologue: Begins where the sound is about to disappear
+## 序章：音が消えかける場所から始まる
 
-Text: mmr｜Theme: The intersection of visual art and the far north of acoustic art that redefines space using only sine waves
+文：mmr｜テーマ：サイン波のみで空間を再定義する音響芸術の極北と視覚芸術の交差点
 
 Music is usually made up of melody, rhythm, and harmony. However, there is music that strips away all of that and is made up of almost a single frequency. Sachiko M is the embodiment of this extreme.
 
-Her works go beyond the framework of "music" and instead function as devices that transform the perception of space itself. By using the purest unit of sound, the sine wave, and presenting a sustained sound that hardly changes, the listener is guided into a state where the listener does not "hear" the sound, but "experiences it as an environment."
+彼女の作品は「音楽」という枠組みを越え、むしろ空間そのものの知覚を変容させる装置として機能する。サイン波という最も純粋な音の単位を用い、ほとんど変化しない持続音を提示することで、聴取者は音を「聴く」のではなく、「環境として経験する」状態へと導かれる。
 
 This isn't just minimalism. Rather, it is an act that shakes the boundary between the presence and absence of sound, and is deeply connected to the exhibition space and the context of art.
 
@@ -35,7 +34,7 @@ This isn't just minimalism. Rather, it is an act that shakes the boundary betwee
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -44,19 +43,19 @@ color: #fff;
 </style>
 
 
-## Sachiko M's methodology: the limit of sine waves
+## Sachiko Mの方法論：サイン波という極限
 
 ### Sine wave selection
 
-A sine wave is a pure single frequency sound with no overtones. Normal musical instruments and electronic sounds have complex overtone structures, but sine waves completely eliminate this.
+サイン波とは、倍音を持たない純粋な単一周波数の音である。通常の楽器音や電子音は複雑な倍音構造を持つが、サイン波はそれを完全に排除している。
 
 Sachiko M mainly uses a test tone generator to sustain a fixed frequency for a long time. Although this method is in the context of improvisation, it is based on extremely restrictive rules.
 
-### Refusal of change
+### 変化の拒否
 
-In her performances, changes in sound are suppressed to the utmost. There is almost no volume or movement, and in some cases, you can"t even tell if it"s ringing or not.
+彼女の演奏では、音の変化は極限まで抑制される。音量も動きもほとんどなく、場合によっては「鳴っているのかどうか分からない」状態すら生まれる。
 
-This is an attitude that completely rejects the ""development" and ""drama" of conventional music.
+これは従来の音楽における「展開」や「ドラマ」を完全に拒否する態度である。
 
 ### Transformation of physicality
 
@@ -68,67 +67,67 @@ Music usually involves the physicality of the performer. However, in Sachiko M"s
 
 ## Near-silent space: Reconstruction of hearing
 
-### From "listening" to "noticing"
+### 「聴く」から「気づく」へ
 
 The persistence of the sine wave obscures the auditory focus. Listeners are unable to actively follow the sounds, and instead focus on environmental sounds and their own body sounds.
 
-For example, the following phenomena occur:
+例えば以下のような現象が起こる：
 
 *Tinnitus-like perception
-* Emphasis on air conditioning noise and clothing rustling
-* Becoming conscious of the existence of others
+* 空調音や衣擦れの強調
+* 他者の存在の意識化
 
 ### Boundary with silence
 
 Sachiko M's sound is often described as "almost silent." However, it is not actually completely silent. Rather, its subtle existence relativizes the concept of silence.
 
-In this respect, her practice resonates with John Cage"s 4:33. However, while Cage"s approach was to accept environmental sounds as music, Sachiko M brings them out through extremely low artificial sounds.
+この点で彼女の実践は、John Cageの《4分33秒》と共鳴する。ただしCageが環境音を「音楽として受け入れる」方向だったのに対し、Sachiko Mは極小の人工音を介してそれを引き出す。
 
-> There is no silence, only the frame of perception changes
+> 無音は存在せず、知覚の枠組みだけが変化する
 
 ---
 
-## Departures and deviations from improvised music
+## 即興音楽からの出発と逸脱
 
 ### Japanese improvisational scene
 
 Sachiko M has occupied an important position in the Japanese improvisational music scene since the 1990s. Yoshihide Otomo and Tetsuji Akiyama are involved in this context.
 
-This scene focused more on the textures and relationships of the sounds themselves than on musical structure.
+このシーンは、音楽的構造よりも音そのものの質感や関係性に焦点を当てていた。
 
 ### reductionism
 
-Her style is associated with a trend called "reductionism." This is an approach that reduces the elements of sound to the absolute minimum, and has the following characteristics:
+彼女のスタイルは「reductionism」と呼ばれる潮流と関連する。これは音の要素を極限まで削減するアプローチであり、以下の特徴を持つ：
 
 * Extremely low volume
-* Long lasting
+* 長時間持続
 * Non-dramatic structure
 
 ### Redefining improvisation
 
-Normally, improvisation means ""instantaneous creation," but in Sachiko M's case, it appears as ""the act of continuing to choose not to change anything."
+通常の即興は「瞬間的な創造」を意味するが、Sachiko Mの場合、それは「何も変えないことを選び続ける行為」として現れる。
 
-> Improvisation is not about change, but also about choosing continuity.
+> 即興とは変化ではなく、持続の選択でもありうる
 
 ---
 
-## Connection with visual arts: Transformation of exhibition space
+## 視覚芸術との接続：展示空間の変質
 
 ### Installation-like nature
 
-Sachiko M's sound is more closely associated with museums and gallery spaces than with concert halls. Since sound functions as part of the environment, the entire space becomes a work of art.
+Sachiko M's sound is more strongly associated with museums and gallery spaces than with concert halls. Since sound functions as part of the environment, the entire space becomes a work of art.
 
 In this respect, her practice resembles a sound installation.
 
 ### Perception transformation of space
 
-With little sound present, the following elements are emphasized:
+音がほとんど存在しない状態では、以下の要素が強調される：
 
-* Light changes
+* 光の変化
 * Architectural structure
-* Movement of people
+* 人の動き
 
-Sound is not a background, but a medium that changes the frame of perception.
+音は背景ではなく、知覚のフレームを変える媒介となる。
 
 ---
 
@@ -145,7 +144,7 @@ The importance of this work lies in its thoroughness that ""nothing happens.'' T
 As a result, the listening experience changes as follows:
 
 * Awareness of the act of listening itself, not the content of the sound
-* Disappearance of boundaries with environmental sounds
+* 環境音との境界の消失
 * Emergence of one's own physical sensations
 
 This work functions more as an auditory installation than as music.
@@ -156,7 +155,7 @@ This work functions more as an auditory installation than as music.
 
 ### Improvisational performance (since 2000s)
 
-Sachiko M's most essential expression is in live performances. Particularly in performances held in gallery spaces in Europe and Japan, the relationship between sound and space is honed to the utmost.
+Sachiko Mの最も本質的な表現はライブにある。特に欧州や日本のギャラリー空間で行われた演奏では、音と空間の関係が極限まで研ぎ澄まされる。
 
 Performance features:
 
@@ -166,20 +165,20 @@ Performance features:
 
 The audience no longer exists as an ""audience" but as ""part of the space." Rather than attracting attention, sound changes the very nature of attention.
 
-This format is different from a traditional concert and creates an experience closer to an art exhibition.
+この形式は、従来のコンサートとは異なり、美術展示に近い体験を生み出す。
 
->Performance appears not as an event but as the creation of an environment
+> 演奏は出来事ではなく、環境の生成として現れる
 
 ---
 
-### Reductionism session (late 1990s~)
+### Reductionism sessions (late 1990s~)
 
-Sachiko M, along with Yoshihide Otomo and Tetsuji Akiyama, worked in the context of so-called reductionism.
+Sachiko Mは大友良英や秋山徹次らと共に、いわゆるreductionismの文脈で活動した。
 
 In this session:
 
 * Avoid sound collisions
-* Extend the pause (ma) to an extreme extent
+* 間（ま）を極端に引き延ばす
 * Concentrate on minute differences in sound
 
 Her sine waves can also create beats and beats (interference sounds) by interfering with the sounds of other performers. This is not an intended rhythm, but a sound that appears as a physical phenomenon.
@@ -190,9 +189,9 @@ What is important here is not the ""performance" but the ""condition setting." M
 
 ---
 
-### Sound installation practice in art space
+### 美術空間でのサウンド・インスタレーション的実践
 
-Since the 2000s, Sachiko M's activities have expanded to museums and galleries. Here, sound is arranged not as a temporal event but as a part of space.
+Since the 2000s, Sachiko M's activities have expanded to include museums and galleries. Here, sound is arranged not as a temporal event but as a part of space.
 
 Characteristic points:
 
@@ -200,9 +199,9 @@ Characteristic points:
 * Homogeneous sound spreads throughout the space
 *Perception changes as the listener moves
 
-In this format, sound functions not as an "exhibit" but as an "environmental condition." As with any visual work, the audience's position and movement determine the experience.
+この形式では、音は「展示物」ではなく「環境条件」として機能する。視覚作品と同様に、観客の位置や動きが体験を決定する。
 
-This can be said to be one of the important turning points in sound art.
+これはサウンドアートにおける重要な転換点のひとつといえる。
 
 > Sound becomes a property of the space itself, not an object.
 
@@ -215,7 +214,7 @@ This can be said to be one of the important turning points in sound art.
 
 <div class="mermaid">
 flowchart TD
-    A[sine wave single frequency] --> B[duration]
+    A[サイン波 単一周波数] --> B[duration]
     B --> C[lack of change]
     C --> D[loss of auditory focus]
     D --> E[The emergence of environmental sounds]
@@ -234,7 +233,7 @@ In this work, although the sound itself is extremely simple, the process of perc
 <div class="mermaid">
 flowchart TB
     A[Sound source Sine wave generator] --> B[spread throughout the space]
-    B --> C1[Audience A]
+    B --> C1[観客A]
     B --> C2[Audience B]
     B --> C3[Audience C]
     C1 --> D1[subtle perceptual differences]
@@ -247,20 +246,20 @@ flowchart TB
 
 Even when the same sound is playing, the experience varies greatly depending on the position in space and physical conditions. As a result, the work diverges into multiple perceptions rather than a single one.
 
-> The same sound is perceived as different works
+> 同じ音が、異なる作品として知覚される
 
 ---
 
-### Interference model in Reductionism session
+### Reductionismセッションにおける干渉モデル
 
 <div class="mermaid">
 flowchart LR
-    A[sine wave] --> D[Interference in space]
+    A[サイン波] --> D[空間内干渉]
     B[Other musical instruments subtle sounds] --> D
     D --> E[roar]
-    D --> F[phase difference]
-    D --> G[accidental rhythm]
-    E --> H[unpredictable perception]
+    D --> F[位相差]
+    D --> G[偶発的リズム]
+    E --> H[予測不能な知覚]
     F --> H
     G --> H
 </div>
@@ -271,82 +270,82 @@ The musical structure is not pre-designed here. Instead, the physical interferen
 
 ---
 
-### Sound placement model in art space
+### 美術空間における音の配置モデル
 
 <div class="mermaid">
 flowchart TB
-    A[whole space] --> B[homogeneous sine wave]
-    B --> C[wall]
-    B --> D[floor]
-    B --> E[air]
+    A[空間 全体] --> B[均質なサイン波]
+    B --> C[壁]
+    B --> D[床]
+    B --> E[空気]
     C --> F[reflection]
     D --> F
-    E --> G[diffusion]
-    F --> H[fluctuation of perception]
+    E --> G[拡散]
+    F --> H[知覚の揺らぎ]
     G --> H
-    H --> I[Reconstruction of space]
+    H --> I[空間の再構築]
 </div>
 
-Sound is perceived as permeating the entire space rather than emanating from a specific location. At this time, the architectural elements begin to function as acoustic bodies.
+音は特定の位置から発せられるというよりも、空間全体に浸透するように知覚される。このとき、建築的要素が音響体として機能し始める。
 
-> The space itself becomes a speaker
+> 空間そのものがスピーカーになる
 
 ---
 
-### Listener's internal change model
+### 聴取者の内的変化モデル
 
 <div class="mermaid">
 flowchart LR
-    A[Listening begins] --> B[search for sounds]
-    B --> C[notice that there is no change]
-    C --> D[Diffusion of attention]
-    D --> E[Environmental sound recognition]
+    A[聴取開始] --> B[音を探す]
+    B --> C[変化がないことに気づく]
+    C --> D[注意の拡散]
+    D --> E[環境音の認識]
     E --> F[Emergence of self-consciousness]
-    F --> G[Transformation of time sense]
+    F --> G[時間感覚の変容]
 </div>
 
 This process occurs in stages, but not necessarily in a linear manner. By repeating concentration and diffusion, an unusual perceptual state is formed.
 
-> The act of listening changes your own cognitive structure
+> 聴く行為が、自己の認識構造を変えていく
 
 ---
 
-## Frequency band model: positioning of sine wave
+## 周波数帯域モデル：サイン波の位置づけ
 
 <div class="mermaid">
 flowchart TD
-    A[Low frequency 20Hz or less] --> B[Near the lower audible limit]
+    A[低周波 20Hz以下] --> B[可聴下限付近]
     B --> C[Midrange 100Hz-1kHz]
-    C --> D[High range 2kHz-10kHz]
-    D --> E[Super high range 10kHz or more]
-    E --> F[Upper audible limit around 20kHz]
+    C --> D[高域 2kHz-10kHz]
+    D --> E[超高域 10kHz以上]
+    E --> F[可聴上限 20kHz付近]
 
 </div>
 
-The sine waves used by Sachiko M are often located at relatively high frequencies within this audible band. This is to create a sense of diffusion within the space and to elicit a sharp auditory response.
+Sachiko Mが用いるサイン波は、多くの場合この可聴帯域の中でも比較的高い周波数に位置することが多い。これは空間内での拡散性や、聴覚の鋭敏な反応を引き出すためである。
 
-Also, because it uses a single frequency, it does not occupy the entire band like normal music, leaving a ""gap'' in the space. The result is a structure in which environmental and body sounds stand out.
+また単一周波数であるため、通常の音楽のように帯域全体を占有せず、空間に「隙間」を残す。その結果、環境音や身体音が際立つ構造が生まれる。
 
-> Areas not occupied by sound expand perception
+> 音が占有しない領域が、知覚を拡張する
 
 ---
 
-## Audible/inaudible boundary model
+## 可聴／不可聴境界モデル
 
 <div class="mermaid">
 flowchart TB
-    A[complete silence] --> B[inaudible area]
-    B --> C[Near perceptual threshold]
-    C --> D[audible range]
-    D --> E[clear sound]
+    A[完全な無音] --> B[inaudible area]
+    B --> C[知覚閾値付近]
+    C --> D[可聴領域]
+    D --> E[明確な音]
 
 </div>
 
-Sachiko M's sound is often placed on the border between being audible and not being audible. Sounds near this perceptual threshold have the following characteristics:
+Sachiko Mの音はしばしば「聴こえるかどうかの境界」に配置される。この知覚閾値付近にある音は、以下のような特徴を持つ：
 
 * You can hear it when you pay attention to it.
-* Disappears when attention is diverted
-* Varies depending on environmental conditions
+* 注意を逸らすと消える
+* 環境条件によって変化する
 
 In this state, sound appears not as a fixed object but as a perceptual process itself.
 
@@ -354,90 +353,90 @@ In this state, sound appears not as a fixed object but as a perceptual process i
 
 ---
 
-## Frequency perception distribution in space
+## 空間内での周波数知覚分布
 
 <div class="mermaid">
 flowchart TD
-    A[Sound source sine wave] --> B[Go straight]
-    A --> C[reflection]
-    A --> D[attenuation]
-    C --> E[Phase shift]
-    B --> F[direct sound]
-    E --> G[interference]
-    F --> H[perception]
+    A[音源 サイン波] --> B[直進]
+    A --> C[反射]
+    A --> D[減衰]
+    C --> E[位相ズレ]
+    B --> F[直接音]
+    E --> G[干渉]
+    F --> H[知覚]
     G --> H
     D --> H
 </div>
 
-Even with a single frequency, minute changes occur in space due to reflection and interference. This creates a different perception in each location, rather than a completely homogeneous sound.
+単一周波数であっても、空間内では反射や干渉によって微細な変化が生まれる。これにより、完全に均質な音ではなく、場所ごとに異なる知覚が発生する。
 
-This effect is particularly noticeable at high frequencies, and slight differences in position can change the impression of the sound.
+特に高周波ではこの影響が顕著であり、わずかな位置の違いが音の印象を変える。
 
-> Simple sounds become complex depending on the space
+> 単純な音が、空間によって複雑化する
 
 ---
 
-## Relationship between audible boundaries and the body
+## 可聴境界と身体の関係
 
 <div class="mermaid">
 flowchart TB
-    A[Sine wave small volume] --> B[ear]
-    B --> C[auditory nerve]
-    C --> D[brain]
-    D --> E[Perception established]
-    E --> F[unstable perception]
-    F --> G[Amplification of physical sensations]
+    A[サイン波 微小音量] --> B[耳]
+    B --> C[聴覚神経]
+    C --> D[脳]
+    D --> E[知覚成立]
+    E --> F[不安定な認識]
+    F --> G[身体感覚の増幅]
 </div>
 
-Sounds near the perceptual threshold are connected not only to the sense of hearing but also to the senses of the entire body. In particular, the following phenomena occur:
+知覚閾値付近の音は、聴覚だけでなく身体全体の感覚と結びつく。特に以下のような現象が起こる：
 
-* Feeling that the sound is coming from inside
-* Confusion with tinnitus
-* Blurring of boundaries between space and body
+* 音が「内側から鳴る」感覚
+* 耳鳴りとの混同
+* 空間と身体の境界の曖昧化
 
-In this state, sound appears not as an external object but as an internal experience of the body.
+この状態では、音は外部の対象ではなく、身体の内部経験として現れる。
 
-> Sound is not an external sensation, but a sensation generated internally.
-
----
-
-### Resonance with art
-
-This approach resonates deeply with minimal and conceptual art. for example:
-
-* Perceptual delay
-* Repetition
-* Attention to space
-
-Sound, like visual works, becomes a device for manipulating the consciousness of the audience.
-
-> Sound is not a work of art, but a device that changes the way we read space.
+> 音は外にあるのではなく、内側で生成される感覚となる
 
 ---
 
-## Stretching Time: A Philosophy of Persistence
+### 美術との共鳴
+
+このアプローチは、ミニマル・アートやコンセプチュアル・アートと深く共鳴する。例えば：
+
+* 知覚の遅延
+* 反復
+* 空間への注意
+
+音は視覚作品と同様に、観客の意識を操作する装置となる。
+
+> 音は作品ではなく、空間の読み方を変える装置となる
+
+---
+
+## 時間の引き伸ばし：持続の哲学
 
 ### Non-temporal structure
 
-It"s hard to feel a clear beginning or end to Sachiko M"s music. Time is not linear, but is experienced as a stagnant or expanded state.
+Sachiko Mの音楽には、明確な始まりや終わりが感じられにくい。時間は線形ではなく、停滞または拡張された状態として経験される。
 
-### Changes in listening experience
+### 聴取体験の変化
 
-The listener gradually enters the following states:
+聴取者は次第に以下の状態に入る：
 
-* Loss of sense of time
-* Going back and forth between concentration and distraction
+* 時間感覚の喪失
+* 集中と散漫の往復
 *Changes in self-consciousness
 
-### Relationship with Feldman
+### フェルドマンとの関係
 
-This sense of time has also been compared to the long-lasting works of Morton Feldman. However, Sachiko M has further reduced the elements, reaching almost a single note.
+この時間感覚は、Morton Feldmanの長時間持続作品とも比較される。しかしSachiko Mはさらに要素を削減し、ほぼ単一音へと到達している。
 
-> Time appears not as something that flows, but as something that stays.
+> 時間は流れるものではなく、滞在するものとして現れる
 
 ---
 
-## Chronology: Sachiko M and acoustic minimalism
+## 年表：Sachiko Mと音響ミニマリズム
 
 <div class="mermaid">
 timeline
@@ -452,46 +451,46 @@ timeline
 
 ---
 
-## Structural diagram: Relationship between sound and space
+## 構造図：音と空間の関係
 
 <div class="mermaid">
 flowchart TD
-    A[sine wave] --> B[very small sound]
-    B --> C[Hearing instability]
-    C --> D[The emergence of environmental sounds]
-    D --> E[Reconception of space]
+    A[sine wave] --> B[極小の音]
+    B --> C[聴覚の不安定化]
+    C --> D[環境音の浮上]
+    D --> E[空間の再認識]
     E --> F[Turning the exhibition space into a work of art]
 </div>
 
 ---
 
-## Significance in modern times: Why is it extreme now?
+## 現代における意義：なぜ今、極限なのか
 
-### Responding to information overload
+### 情報過多への応答
 
-Modern times are always filled with sound and information. Among these, Sachiko M's approach paradoxically sharpens the senses through extreme "reduction."
+現代は常に音と情報に満ちている。その中でSachiko Mのアプローチは、極端な「削減」によって逆説的に感覚を鋭敏化する。
 
-### Perceptual Reeducation
+### 知覚の再教育
 
-Her work redefines the act of listening. Music is not something to be consumed, but rather a process of reconstructing perception.
+彼女の作品は、聴くという行為を再定義する。音楽は消費されるものではなく、知覚を再構築するプロセスとなる。
 
 ### Sound as art
 
-Sound is no longer limited to temporal art, but functions as spatial art. In that sense, Sachiko M is an entity that traverses the boundaries between music and art.
+音はもはや時間芸術に留まらず、空間芸術として機能する。その意味でSachiko Mは、音楽と美術の境界を横断する存在である。
 
 > Sound stripped to its limits opens up the widest space
 
 ---
 
-## Conclusion: What can be seen when the sound disappears
+## 結論：音が消えることで見えるもの
 
-Sachiko M's practice not only expands the possibilities of music, but also questions the framework of perception itself. Through the smallest unit of sine waves, she reconstructs the relationship between space, time, and the body.
+Sachiko Mの実践は、音楽の可能性を拡張するだけでなく、知覚そのものの枠組みを問い直す。サイン波という最小単位を通じて、彼女は空間・時間・身体の関係を再構築する。
 
-What emerges as a result is a ""place'' rather than a sound.
+その結果として現れるのは、音ではなく「場」である。
 
 At that moment when the sound begins to disappear, we begin to hear the space for the first time.
 
-> The absence of sound brings out the existence of space most strongly
+> 音の不在が、空間の存在を最も強く浮かび上がらせる
 
 
 ---
@@ -499,7 +498,7 @@ At that moment when the sound begins to disappear, we begin to hear the space fo
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/53eqvKMUDVU?si=GRKlMetUhx6-6fNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

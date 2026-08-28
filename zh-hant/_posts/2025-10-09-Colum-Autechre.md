@@ -10,20 +10,20 @@ tags:
 - IDM
 - Ambient
 - Techno
-title: 【專欄】Autechre：超越結構－科技之後的聲學建築
+title: 【コラム】 Autechre：構造の彼方へ — テクノ以後の音響建築
 ---
 
 
-## 前言：無機中的有機
+## 序章：無機の中の有機
 
-文字：mmr |主題：肖恩·布斯 (Sean Booth) 和羅布·布朗 (Rob Brown) 的 Autechre。追蹤其聲學結構、技術創新和文化歷史意義的演變
+文：mmr｜テーマ：Sean BoothとRob BrownによるAutechre。その音響構造の進化、技術的革新、そして文化史的意義を辿る
 
-Autechre 不僅僅是一個電子音樂二人組。
-他們的聲音既數學又原始。看起來冷酷的，給人留下了幾分人性的粗糙感。肖恩·布斯 (Sean Booth) 和羅布·布朗 (Rob Brown) 這兩個在曼徹斯特北部相識的年輕人，以嘻哈和工程好奇心為起點，踏上了重新定義聲音結構的道路。
+Autechre（オウテカ）は、単なる“電子音楽デュオ”ではない。  
+彼らの音は、数学的でありながら生々しい。冷たく見えて、どこか人間的なざらつきを残す。Sean BoothとRob Brown――マンチェスター北部で出会った二人の青年は、ヒップホップと工学的好奇心を出発点に、音の「構造そのもの」を再定義する道を歩み始めた。
 
-20 世紀 90 年代初，Autechre 在 Warp Records 的人工智慧系列中脫穎而出。他們正在尋找一種「將機械聲音轉化為情感」的方法。肖恩·布斯後來在接受採訪時說道：
+1990年代初頭、Warp Recordsが掲げた〈Artificial Intelligence〉シリーズの中で、Autechreの登場は異彩を放った。彼らは「機械の音をエモーションに変換する」方法を模索していた。Sean Boothは後年、インタビューでこう語る。
 
-> “Techno 對我們來說不是要消除情感，而是透過結構來表達情感。”
+> “僕らにとってのテクノは感情を排除するものじゃなく、感情を構造で表現するものなんだ。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lC7LGzCZ-q0?si=QoJo6NbKG65Ym2zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -41,108 +41,108 @@ color: #fff;
 }
 </style>
 
-## 第一章：起源與最初的衝動－從Rephlex前夕到<Warp>
+## 第1章：出自と初期衝動 — Rephlex前夜から〈Warp〉へ
 
-肖恩·布斯 (Sean Booth) 和羅布·布朗 (Rob Brown) 均出生於 20 世紀 70 年代。作為一個男孩，他開始使用 Amiga 電腦上的追蹤軟體（例如 OctaMED）創作自己的歌曲。
-他們的音樂根源在於公共敵人、電子放克和 B-Boy 文化。 Autechre 這個名字最初被傳言是“Audio Architecture”的縮寫。
+Sean BoothとRob Brownはともに1970年代生まれ。少年時代、Amigaコンピュータを使った**トラッカーソフト（OctaMEDなど）**で自作曲を作り始める。  
+彼らの音楽的ルーツは、Public EnemyやElectro Funk、そしてB-Boyカルチャーにあった。Autechreという名は、初期には「Audio Architecture（音響建築）」の略とも噂された。
 
-他的早期作品《Incunabula》（1993）帶有 IDM 早期的氣息，旋律仍然保留。
-後續作品《Amber》（1994）以其抒情性和空間感吸引了許多聽眾。他們將類比合成器（Roland SH-101、Oberheim Matrix-6）和數位採樣器結合，在人與機器之間創造了一個空間。
+初期作品『Incunabula』（1993）は、まだメロディの残るIDM黎明期の香りを漂わせる。  
+続く『Amber』（1994）は、その叙情性と空間性で多くのリスナーを魅了した。アナログ・シンセサイザー（Roland SH-101, Oberheim Matrix-6）とデジタルサンプラーを組み合わせ、彼らは**人間と機械の中間領域**を形にした。
 
-> “我們沒有忘記舞池。我們只是想重新想像是什麼讓我們的身體移動。”
+> “僕らはダンスフロアを忘れたわけじゃない。ただ、身体が動く理由を再構築したかった。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pU7-yr70ntw?si=sEwVtn1PRCrpcwbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第二章：聲學解構時代－「Tri Repetae」與極簡主義的崩潰
+## 第2章：音響解体の時代 — 『Tri Repetae』とミニマリズムの崩壊
 
-1995 年，Autechre 迎來了一個轉捩點。
-《Tri Repetae》是第一張突破IDM框架的「結構實驗」專輯。節奏崩潰，聲層變得像鋼板一樣堅硬。他們將鼓機（Roland R8、Nord Lead）作為原材料，將錯誤和噪音融入他們的音樂語法中。
+1995年、Autechreは転換点に達する。  
+『Tri Repetae』は、IDMという枠を突き破った最初の“構造実験”アルバムだ。リズムは崩壊し、音の層は鉄板のように硬質。彼らはドラムマシン（Roland R8、Nord Lead）を**素材**として扱い、エラーやノイズを音楽の文法に組み込んだ。
 
-The Designers Republic 的無機封面設計也與 Autechre 的聲音世界完美契合。
-這也是「視覺和聲音的極簡主義融合」。
+The Designers Republicによる無機質なジャケットデザインも、Autechreの音世界と完全に一致していた。  
+それは「視覚と音のミニマリズムの融合」でもあった。
 
-《Tri Repetae》的發行象徵著電子音樂的一次「感官再教育」。
-「什麼是節奏，什麼是音樂？」這個問題在這裡首次被揭示。
+『Tri Repetae』のリリースは、電子音楽における“感覚の再教育”を象徴する。  
+「何がリズムで、何が音楽か？」という問いが、ここで初めて露わになる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w7D5yAUsjB8?si=Iw4cZ7dCdgT5L5WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第三章：數學與情緒－從“Chiastic Slide”到“LP5”
+## 第3章：数学と感情 — 『Chiastic Slide』から『LP5』へ
 
-1997-1998年，Autechre發展到更複雜的結構。
-Chiastic Slide (1997) 是一個多節奏和重複的實驗。 LP5 (1998) 的結構就像一個聲音雕塑。
-特別值得注意的是使用 **Nord Modular 和 MPC1000** 進行的現場編程。即時改變數據的方法成為後來演算法現場音樂的原型。
+1997〜1998年、Autechreはさらに複雑な構造へと進む。  
+『Chiastic Slide』（1997）は、ポリリズムと反復の実験。『LP5』（1998）は、サウンドの彫刻作品のように構築されている。  
+特筆すべきは、**Nord ModularやMPC1000**によるライブ・プログラミングである。リアルタイムにデータを変化させる手法は、のちのアルゴリズミック・ライブの原型となった。
 
-他們的音樂已經變成一種可以體驗的東西，而不是可以聽到的東西。
-《LP5》中的「Fold 4, Wrap 5」在抽像中充滿了微妙的抒情性。這是隱藏在冰冷背後的**情感的重新發現**。
+彼らの音楽は“聴く”というより“体験する”ものへと変化した。  
+『LP5』収録の「Fold4, Wrap5」は、その抽象性の中にほのかな叙情を湛える。冷たさの裏に潜む、**エモーションの再発見**だった。
 
-> “只要我們是人，情緒就無法消除。”
+> “感情は排除できない。僕らが人間である限りね。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第 4 章：演算法內部的生活—“Confield”和“Draft 7.30”
+## 第4章：アルゴリズムの中の生 — 『Confield』と『Draft 7.30』
 
-2001 年的「Confield」是 Autechre 對 **Max/MSP** 的全面介紹。
-從這個時期開始，他們採用了使用自製演算法自動產生聲音並由人類幹預的方法。
-肖恩·布斯 (Sean Booth) 說：“這不是關於作曲，而是更多關於協調事件。”
+2001年の『Confield』は、Autechreが**Max/MSP**を本格導入した作品。  
+彼らはこの時期から“自作アルゴリズム”を用いて、音を自動生成させ、そこに人間が介入するという手法を採用した。  
+Sean Boothは「作曲というより“発生の調整”だ」と語っている。
 
-「康菲爾德」讓很多聽眾感到困惑。傳統意義上的節奏和旋律已不復存在。然而，我聽得越多，就越發現一種奇怪的生態系統般的秩序。
-在《Draft 7.30》（2003年）中，程式的精確度進一步提高，電子音樂的「智慧」被磨練到了極致。
+『Confield』は多くのリスナーを困惑させた。もはやリズムもメロディも従来の意味では存在しない。しかし聴き込むほどに、そこには奇妙な生態系のような秩序が浮かび上がる。  
+『Draft 7.30』（2003）では、プログラム的精度がさらに高まり、電子音楽の“知性”が極限まで研ぎ澄まされた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYH1fOEUC64?si=1eAEgLLuojv-kE4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第五章：與聽眾的共謀關係－現場與網路時代的Autechre
+## 第5章：リスナーとの共犯関係 — ライブとネット時代のAutechre
 
-Autechre 的現場表演完全排除了視覺呈現。
-燈光熄滅，舞台一片漆黑。觀眾將沉浸在**純淨的聲音空間**中。
-這種完全無機的性質證明了他們的目標是「僅用聲音來統治身體」。
+Autechreのライブは、視覚的演出を完全に排除している。  
+照明は消え、ステージは暗闇。観客は**純粋な音の空間**に包まれる。  
+この徹底した無機質さは、彼らが「音のみで身体を支配する」ことを目指している証でもある。
 
-2010年代，他們發布了**AE_LIVE系列**。我們按原樣記錄了程式即興創作的聲音，並為每個城市呈現了不同的結構。
-此外，《NTS Sessions 1-4》（2018）是長達8個多小時的傑作。這是 Autechre 建立的「聲學演算法宇宙」的一項巨大成就。
+2010年代に入ると、彼らは**AE_LIVEシリーズ**をリリース。プログラムが即興的に生成する音をそのまま記録し、各都市ごとに異なる構造を提示した。  
+さらに『NTS Sessions 1–4』（2018）は、8時間を超える大作。Autechreが“音響アルゴリズムの宇宙”を構築した金字塔だ。
 
-> “即興創作還在於借用程序化思維。”
-
----
-
-## 第 6 章：氛圍音樂的遙遠北方－繼「SIGN」和「PLUS」之後
-
-2020 年，Autechre 推出了兩碟套裝的新篇章。
-“簽名”和“加號”。隱約讓我想起早期Autechre記憶的**溫暖的旋律**又回來了。
-在演算法的精確性中，有一種平靜、有機的波動。
-
-聽眾中常說「Autechre 重新定義了 Ambient」。
-「SIGN」上的曲目聽起來像是機器學習的「沉默」。
-他們的聲音總是遊走在未來與懷舊之間。
+> “即興は、プログラムの思考を借りることでもある。”
 
 ---
 
-## 第7章：Autechre基因－那些受到影響和影響的基因
+## 第6章：環境音楽の極北 — 『SIGN』『PLUS』以降
 
-Autechre 與 Aphex Twin 和 Squarepusher 一樣，其影響力已深深銘刻在 21 世紀以來的電子音樂設計理念中。
-受他們影響的藝術家包括**Alva Noto、Ryoji Ikeda 和 Oneohtrix Point Never**。
-兩人都探討了「結構與情感」與「演算法與詩」之間的界線。
+2020年、Autechreは二枚組の新章を発表する。  
+『SIGN』と『PLUS』。そこには、初期Autechreの記憶をほのかに思わせる**温かい旋律**が戻ってきた。  
+アルゴリズミックな精密さの中に、静謐で有機的な揺らぎが漂う。
 
-隨著技術的進步，Autechre 已經成為一種提出「什麼是構圖？」和「什麼是人類？」等問題的裝置。
-即使在IDM這個詞已經用盡之後，Autechre仍然在現代音樂中留下了它的「智力基因」。
+リスナーの間では「AutechreがAmbientを再定義した」と評されることも多い。  
+『SIGN』のトラック群は、機械が“静寂”を学習したような音楽だ。  
+彼らの音は、つねに**未来とノスタルジーの中間点**を歩み続けている。
 
 ---
 
-## 最後一章：聲音的未來，聆聽的未來
+## 第7章：Autechreの遺伝子 — 影響を受けた者たち、影響を与えた者たち
 
-Autechre 的音樂並不是為了被理解。
-它重構了聽眾的感知並擴展了聲音的概念。
-它們的存在先於「什麼是人類創造？」這個問題。在人工智慧時代。
+Autechreの影響は、Aphex TwinやSquarepusherと並び、21世紀以降の電子音楽の設計思想に深く刻まれた。  
+彼らに影響を受けたアーティストとしては、**Alva Noto, Ryoji Ikeda, Oneohtrix Point Never**らが挙げられる。  
+いずれも「構造と感情」「アルゴリズムと詩情」の境界線を模索する存在だ。
 
-> “人類可能正在使用機器來聆聽大腦中未知部分的聲音。”
+Autechreは、テクノロジーの進化とともに「作曲とは何か」「人間とは何か」を問う装置として機能してきた。  
+IDMという言葉が消費され尽くした後も、Autechreはその**知的遺伝子**を現代音楽に残し続けている。
 
-Autechre 仍在探索聲音**超越結構**的可能性。
+---
+
+## 終章：音の未来、聴取の未来
+
+Autechreの音楽は、理解されることを目的としない。  
+それは、聴く者の認識を再構築し、音の概念そのものを拡張する。  
+彼らの存在は、AI時代の「人間による創造とは何か」という問いに先行していた。
+
+> “人間は機械を使って、自分の脳の未知の部分を聴いているのかもしれない。”
+
+Autechreは、いまもなお**構造の彼方**で、音の可能性を探っている。
 
 ---
 
@@ -169,63 +169,63 @@ flowchart TD
 
 ---
 
-## 唱片目錄
+## ディスコグラフィー
 
-|年份|標題 |發佈 |連結 |
+| 年    | タイトル             | リリース         | リンク                                              |
 | ---- | ---------------- | ------------ | ------------------------------------------------ |
-| 1993 |搖籃期 |扭曲紀錄| [亞馬遜](https://amzn.to/48RINTp) |
-| 1994 |琥珀 |扭曲記錄| [亞馬遜](https://amzn.to/48olvVe) |
-| 1995 |三重重複 |扭曲記錄| [亞馬遜](https://amzn.to/4h6lwiP) |
-| 1997 |奇亞奇溜滑梯|扭曲記錄| [亞馬遜](https://amzn.to/48Ud8Re) |
-| 2001 |康菲爾德 |扭曲記錄| [亞馬遜](https://amzn.to/471jWds) |
-| 2003 |草案 7.30 |扭曲記錄| [亞馬遜](https://amzn.to/46Vvte7) |
-| 2010 |逾越|扭曲紀錄| [亞馬遜](https://amzn.to/46JqFtG) |
-| 2018 | NTS 課程 1-4 |扭曲記錄| [亞馬遜](https://amzn.to/4n78OBW) |
-| 2020 |標誌 |扭曲記錄| [亞馬遜](https://amzn.to/4mTZOQg) |
-| 2020 |加上|扭曲記錄| [亞馬遜](https://amzn.to/4mZfD8t) |
+| 1993 | Incunabula       | Warp Records | [Amazon](https://amzn.to/48RINTp) |
+| 1994 | Amber            | Warp Records | [Amazon](https://amzn.to/48olvVe) |
+| 1995 | Tri Repetae      | Warp Records | [Amazon](https://amzn.to/4h6lwiP) |
+| 1997 | Chiastic Slide   | Warp Records | [Amazon](https://amzn.to/48Ud8Re) |
+| 2001 | Confield         | Warp Records | [Amazon](https://amzn.to/471jWds) |
+| 2003 | Draft 7.30       | Warp Records | [Amazon](https://amzn.to/46Vvte7) |
+| 2010 | Oversteps        | Warp Records | [Amazon](https://amzn.to/46JqFtG) |
+| 2018 | NTS Sessions 1–4 | Warp Records | [Amazon](https://amzn.to/4n78OBW) |
+| 2020 | SIGN             | Warp Records | [Amazon](https://amzn.to/4mTZOQg) |
+| 2020 | PLUS             | Warp Records | [Amazon](https://amzn.to/4mZfD8t) |
 
 
 ---
 
-## 所用技術及設備清單
+## 使用技術・機材一覧
 
-|類別 |設備/軟體|筆記|
-| -------- | ---------------------------------------------------- | ------------------------ | |
-|合成器| Nord Lead、羅蘭 SH-101、奧伯海姆 Matrix-6 |早期作品中常使用 |
-|取樣器| Akai MPC1000、Ensoniq EPS |節拍構造的核心|
-|軟體| Max/MSP、Kyma、Ableton 現場 |自製演算法生成|
-|鼓機| Roland R8，Elektron Machinedrum |實現複雜的節拍結構 |
-|生產理念 |自動生成+人工幹預| “混沌控制”實踐|
-
-
----
-
-## Autechre不斷提問
-
-“什麼是音樂？結構能超越情感嗎？”
-尋找答案的旅程還遠遠沒有結束。
+| カテゴリ    | 機材・ソフトウェア                                   | 備考                          |
+| ------- | ------------------------------------------- | --------------------------- |
+| シンセサイザー | Nord Lead, Roland SH-101, Oberheim Matrix-6 | 初期作品で頻用                     |
+| サンプラー   | Akai MPC1000, Ensoniq EPS                   | ビート構築の中心                    |
+| ソフトウェア  | Max/MSP, Kyma, Ableton Live                 | 自作アルゴリズム生成                  |
+| ドラムマシン  | Roland R8, Elektron Machinedrum             | 複雑な拍構造を実現                   |
+| 制作哲学    | 自動生成＋人間的介入                           | “Control through Chaos” の実践 |
 
 
 ---
 
+## Autechreは問い続ける
 
-### YouTube 播客
+“音楽とは何か？　構造は感情を超え得るのか？”
+その答えを探す旅は、まだ終わらない。
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bRHVGBmNKlk?si=NnSAEVjyGe-caGaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-### 相關專欄
+### 関連コラム
 
-🔗 [[專欄]從IDM的起源到現在－智力探索與舞池之間](https://monumental-movement.jp/Column-IDM)
+🔗 [【コラム】 IDMの発祥から現在まで ― 知的探究とダンスフロアの狭間で](https://monumental-movement.jp/Column-IDM)
 
-🔗 [[專欄]從techno的起源到現在－透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 【【專欄】什麼是氛圍音樂？ 「存在的聲音」而非聽到的聲音的哲學](https://monumental-movement.jp/Column-Ambient)
+🔗 [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-🔗 [[專欄]氛圍：從「聽音樂」到「感受音樂」II](https://monumental-movement.jp/Column-Ambient2)
+🔗 [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

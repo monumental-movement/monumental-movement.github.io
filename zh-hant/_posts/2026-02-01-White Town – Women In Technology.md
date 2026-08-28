@@ -10,16 +10,16 @@ tags:
 - Synth-pop
 - Alternative Rock
 - 90s
-title: 白鎮——科技界的女性
+title: White Town – Women In Technology
 ---
 
 
 
-White Town 是英籍印度音樂家/製作人 Jyoti Prakash Mishra 的獨奏項目的名稱。她最出名的是 1997 年的熱門歌曲“Your Woman”，該歌曲也收錄在這張專輯中。
+White Townは、 イギリス系インド人のミュージシャン／プロデューサー Jyoti Prakash Mishra（ジョティ・プラカシュ・ミシュラ）のソロプロジェクト名。このアルバムにも収録されている1997年のヒット曲『Your Woman』でよく知られている。
 
-《Women In Technology》是喬蒂·米甚拉 (Jyoti Mishra) 的第二張錄音室專輯，於 1997 年發行，完全在喬蒂·米甚拉 (Jyoti Mishra) 的家庭錄音室錄製。
+「Women In Technology」は、1997年にリリースした2枚目のスタジオ・アルバムで、ジョティ・ミシュラの自宅スタジオですべてレコーディングされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Undressed
 2. Thursday At The Blue Note
@@ -36,7 +36,7 @@ White Town 是英籍印度音樂家/製作人 Jyoti Prakash Mishra 的獨奏項�
 13. Give Me Some Pain
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m22250393894?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22250393894?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lVL-zZnD3VU?si=yWTBgx6Dbi0iA0GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

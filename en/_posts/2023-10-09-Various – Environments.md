@@ -12,8 +12,8 @@ title: Various – Environments
 ---
 
 
-"Environments" is
-This is a compilation album released by the label "OM Records" in 2001.
+「Environments」は、
+2001年にレーベル「OM Records 」からリリースされたコンピレーション・アルバムです。
 
 #### Tracklist
 ```md

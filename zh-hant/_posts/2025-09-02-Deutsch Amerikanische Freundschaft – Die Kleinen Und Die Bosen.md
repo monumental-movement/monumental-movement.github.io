@@ -9,15 +9,15 @@ permalink: /zh-hant/deutsch-amerikanische-freundschaft-die-kleinen-und-die-bosen
 tags:
 - Experimental
 - 80s
-title: 德美友誼 – Die Kleinen Und Die Bösen
+title: Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen
 ---
 
 
-DAF 是一支電子龐克/新德國之聲樂隊，於 1978 年在德國杜塞爾多夫成立。被稱為 EBM、NDW、house、techno 和 NDH 的先驅。
+DAFは、1978年にドイツ・デュッセルドルフで結成されたエレクトロパンク／ノイエ・ドイチェ・ヴェレ バンド。EBM、NDW、ハウス、テクノ、NDHの先駆者として知られている。
 
-這張唱片是DAF的第二張專輯，由Mute Records於1980年發行。
+このレコードは、1980年にMute RecordsからリリースされたDAFのセカンドアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Osten Währt Am Längsten
 A2. Essen Dann Schlafen
@@ -41,7 +41,7 @@ B11. El Basilon
 B12. Y La Gracia
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_nyMRQKJ9Q?si=vzj01jOqYgcLzU7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

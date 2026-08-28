@@ -11,22 +11,22 @@ tags:
 - Techno
 - UK Techno
 - 00s
-title: 【專欄】邊界社區－超越邊界的聲音社區
+title: 【コラム】 Border Community — 境界を越える音の共同体
 ---
 
 
-## 一、序言：一個從邊境開始的故事
+## I. 序章：境界線から始まる物語
 
 
-文：mmr｜主題：追溯 James Holden 所確立的「邊界共同體」的音樂哲學以及廠牌超越「邊界」的軌跡
+文：mmr｜テーマ：ジェームス・ホールデンが築いた〈Border Community〉という音楽思想と、その“境界”を越えるレーベルの軌跡を辿る
   
-邊境社區這個名字不僅僅是一個標籤。
-這是「一個透過音樂連結在一起的社區」的聲明，以及「超越現有流派和商業結構」的願望。
+「Border Community」という名前には、単なるレーベル以上の意味がある。  
+それは“音楽を通じてつながる共同体”であり、同時に“既存のジャンルや商業構造を超える”という意志の表明だった。  
 
-2000年代初，俱樂部場景正處於重大變化之中。 Trance 變得形式化，而 Progressive house 則變得僵化。
-在其中，詹姆斯霍爾頓正在探索在旋律與噪音、模擬與數位、智慧與情感之間來回切換的聲音。
+2000年代初頭、クラブシーンは大きな変化の渦中にあった。トランスは形式化し、プログレッシヴ・ハウスは硬直化していた。  
+その中で、ジェームス・ホールデン（James Holden）は、メロディとノイズ、アナログとデジタル、知性と感情を往還する音を模索していた。  
 
-「邊境社區」就是作為他的「邊境實驗室」而誕生的。
+「Border Community」は、そんな彼の“境界の実験室”として生まれた。  
 
 ---
 
@@ -45,28 +45,28 @@ color: #fff;
 
 
 
-## 二. 2001年的風景：後進步主義的黎明
+## II. 01年の風景：ポスト・プログレッシヴの夜明け
 
-2001年，霍爾頓以在銀色星球發行的歌曲《A Break in the Clouds》而受到關注。
-他們的聲音打破了當時進步浩室的模式。憂鬱又富有建築感。飄逸的旋律將俱樂部之夜變成了一種詩意的體驗。
+2001年、Holdenは〈Silver Planet〉から発表した“A Break in the Clouds”で注目を浴びる。  
+そのサウンドは、当時のプログレッシヴ・ハウスの定型を破るものだった。メランコリックでありながら、構築的。浮遊感のあるメロディが、クラブの夜を詩的な体験へと変えていった。  
 
-從這首歌開始，他創造出一種既不是 trance 也不是 house 的聲音。
-這種流動後來以邊境社區的形式具體化。
+この楽曲を皮切りに、彼は“トランスでもハウスでもない”音の場所を切り拓く。  
+その流れは後に、〈Border Community〉という形で結晶化する。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 三．邊界社群成立：DIY精神與共鳴的鏈條
+## III. Border Community設立：DIY精神と共鳴の連鎖
 
-2003年，Holden推出了自己的品牌Border Community。
-與商業俱樂部音樂相反，它提倡藝術家展示、設計和談論自己的作品的 DIY 精神。
+2003年、ホールデンは自らのレーベル〈Border Community〉を立ち上げた。  
+商業的なクラブミュージックに対抗する形で、アーティストが自らの手で作品を発表し、デザインし、語るというDIYの精神を掲げた。  
 
-Nathan Fake 的第一張專輯《The Sky Was Pink》標誌著俱樂部音樂歷史的轉捩點。
-這些充滿情感和內省的曲目影響了後來的後俱樂部世代，例如《Four Tet》和《Caribou》。
+第1弾リリースとなったNathan Fakeの「The Sky Was Pink」は、クラブミュージック史の転換点となる。  
+エモーショナルで内省的なトラックは、Four TetやCaribouといった後続のポストクラブ世代にまで影響を与えた。  
 
-藝術品和發佈設計也很獨特。插圖採用柔和的筆觸，基於白色的簡約設計。
-就像聲音一樣，邊境社區的世界觀旨在「將情感視覺化」。
+アートワークやリリースデザインも独自だった。柔らかい筆致のイラスト、白を基調としたミニマルなデザイン。  
+音と同じく、〈Border Community〉の世界観は“感情の可視化”を目指していた。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IV9HfG6s8Qk?si=LC0WFL0dZbH1AdFi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -76,81 +76,81 @@ Nathan Fake 的第一張專輯《The Sky Was Pink》標誌著俱樂部音樂歷�
 
 ---
 
-## 四．音景：憂鬱科技音樂的誕生
+## IV. 音の風景：メランコリック・テクノの誕生
 
-這個廠牌的特點是「充滿情感的科技」。
-節奏深沉，旋律破碎，但不知為何美麗。
-霍爾頓的哲學很明確：“旋律即使破碎了也是美麗的。”
+このレーベルを特徴づけたのは、「感情を持ったテクノ」だった。  
+ビートは深く、メロディは壊れかけ、しかしどこか美しい。  
+ホールデンの哲学は明確だ——「メロディーは壊れても美しい」。  
 
-合成器的類比失真、磁帶的粗糙度、數位的碎片。
-透過混合這些元素而產生的「情感聲音」是《邊境社區》的核心。
-在環境和恍惚之間，在俱樂部和內省之間——不屬於任何地方的音樂。
+シンセサイザーのアナログな歪み、テープのざらつき、デジタルの断片。  
+それらが混ざり合うことで生まれる“情緒の音響”が〈Border Community〉の核にある。  
+アンビエントとトランスの狭間、クラブと内省の中間——そのどこにも属さない音楽。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AbuGjsziO98?si=TETwN135i7DyIld7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 五、主要藝術家：一群共鳴的聲音
+## V. 主要アーティストたち：共鳴する音の群像
 
-- **內森假**－在懷舊與混亂之間。他的代表作《溺爱之海》是模拟电子乐的不朽之作。
-- **Petar Dundov** — 建築之美與恍惚感覺的融合。數學精確性與情感並存。
-- **Luke Abbott** — 模組化合成器的田園詩般的未來。 「Holkham Drones」描繪了自然與電子之間的共生關係。
-- **MFA、Avus、Ricardo Tobar** — 從本地傳播到全球的「邊界美學」的領導者。
+- **Nathan Fake** — ノスタルジアとカオスの狭間で。代表作『Drowning in a Sea of Love』は、アナログ・エレクトロニカの金字塔。  
+- **Petar Dundov** — 構築美とトランス感覚の融合。数学的精度と情緒の共存。  
+- **Luke Abbott** — モジュラー・シンセによる牧歌的な未来。『Holkham Drones』は自然と電子の共生を描く。  
+- **The MFA、Avus、Ricardo Tobar** — ローカルからグローバルへと波及した“Border的美学”の担い手たち。  
 
-他們的共同點是專注於「聲音情感」而不是流派的態度。
-它體現了霍爾頓所追求的「音樂=思考過程」。
+彼らに共通するのは、ジャンルではなく「音の情緒」を軸にする姿勢だ。  
+それは、ホールデンが求めた「音楽＝思考のプロセス」を体現する。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ziEUmnJyfY?si=iUOhLwmP6ouSoqVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 六．擴大邊界：標籤的演變與擴散
+## VI. 境界線の拡張：レーベルの進化と拡散
 
-2013年，霍爾頓發行了《繼承者們》。
-這是邊境社區的新篇章，同時也是音樂史上的事件。
-融合了合成器即興創作、民間節奏和模擬噪音的聲音將電子音樂帶回了「栩栩如生」的狀態。
+2013年、ホールデンは『The Inheritors』をリリース。  
+これは、〈Border Community〉の新章であり、同時に音楽史的な事件でもあった。  
+シンセサイザーの即興演奏と民族的リズム、アナログノイズが融合したサウンドは、電子音楽を再び“生命的なもの”へと引き戻した。  
 
-之後，他轉型為現場樂隊，聲音更加自由。
-邊境社區可能已經退出主流，但它的影響力繼續傳遞給喬恩·霍普金斯、浮點和四元旦等人。
+その後、ライブバンド編成へと移行し、彼の音はさらに自由になる。  
+〈Border Community〉は表舞台から遠のくが、その影響はJon Hopkins、Floating Points、Four Tetらへと確実に受け継がれていく。  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bV6zHOIfyO0?si=UVJGyf0UHZJxtcIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 七．作為美學的「邊界」：聲音與思想的迴響
+## VII. 美学としての“Border”：音と思想の残響
 
-「邊界」不是流派之間的界限，而是思想之間的界限。
-對霍爾頓來說，音樂是對社會的回應，也是對世界的提問。
+「Border」とは、ジャンルの境界ではなく、思考の境界である。  
+ホールデンにとって音楽は、社会への応答であり、世界への問いかけだった。  
 
-隨著俱樂部文化的商業化，邊境社區成為重獲「情感」和「自主」的基地。
-聲音不是懷舊，而是記憶的重建。
-它有能力讓聽眾重新考慮自己的界限。
+クラブ・カルチャーが商業化していく中で、〈Border Community〉は“感情”と“自律”を取り戻す拠点となった。  
+ノスタルジーではなく、記憶の再構築としての音。  
+それは、聴く者に“自分の境界”を見つめ直させるような力を持っている。  
 
 ---
 
-## 八．最後一章：邊界消失，社區持續存在
+## VIII. 終章：消えた境界、続くコミュニティ
 
-目前邊境社區的活動很平靜。
-但這種精神在許多藝術家身上依然存在。
+現在、〈Border Community〉の活動は静かだ。  
+だが、その精神は多くのアーティストの中で生き続けている。  
 
-「共同體」指的是音樂本身所建立的關係。
-霍爾頓設想的不是一個封閉的標籤，而是一個開放的共鳴空間。
+“Community”とは、音楽そのものがつくる関係性のことだ。  
+ホールデンが描いたのは、閉じたレーベルではなく、開かれた共鳴の場だった。  
 
-超越界限的聲音之旅尚未結束。
+境界を越える音の旅は、まだ終わっていない。  
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8vGUwZvnir0?si=B8BrhT9WFmaYUSIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aU2hwliaQWo?si=jrHS_UZ5wN9coD6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 年表：邊境社區的歷史
+## 年表：Border Communityの軌跡
 
 <div class="mermaid">
 
@@ -167,16 +167,16 @@ flowchart TD
 
 ---
 
-### 邊境社區唱片目錄（主要作品）
+### Border Community ディスコグラフィー（主要作品）
 
 
-|藝術家 |標題 |年份|連結 |
-| ------------- | ------------------------ | | ---- | ------------------------------------------------------------------------ |
-|詹姆斯霍爾登 | *繼承者* | 2013 | [亞馬遜](https://amzn.to/4nrQ5RL) |
-|內森假| *淹沒在愛的海洋* | 2006 | [亞馬遜](https://amzn.to/47ymxvR) |
-|盧克阿博特 | *霍爾克姆無人機* | 2010 | [亞馬遜](https://amzn.to/478NuFT) |
-|佩塔爾鄧多夫 | *來自池塘的想法* | 2012 | [亞馬遜](https://amzn.to/46V6eKr) |
-|外交部 | *母載EP* | 2003 | [Discogs](https://www.discogs.com/release/301896-The-MFA-Motherload-Sphinx?srsltid=AfmBOoojILr1JPVK9jvzSVZgvlRjr2Ki5eL7wDjILr1JPVK9jvzSVZgvlRjr2Ki5eL7mD-wnrwCwq
-|里卡多·托巴爾 | *特雷利斯* | 2013 | [亞馬遜](https://amzn.to/4hmJ0As) |
+| アーティスト        | タイトル                        | 年    | リンク                                                    |
+| ------------- | --------------------------- | ---- | ------------------------------------------------------------ |
+| James Holden  | *The Inheritors*            | 2013 | [Amazon](https://amzn.to/4nrQ5RL)             |
+| Nathan Fake   | *Drowning in a Sea of Love* | 2006 | [Amazon](https://amzn.to/47ymxvR)             |
+| Luke Abbott   | *Holkham Drones*            | 2010 | [Amazon](https://amzn.to/478NuFT)             |
+| Petar Dundov  | *Ideas from the Pond*       | 2012 | [Amazon](https://amzn.to/46V6eKr)             |
+| The MFA       | *Motherload EP*             | 2003 | [Discogs](https://www.discogs.com/release/301896-The-MFA-Motherload-Sphinx?srsltid=AfmBOoojILr1JPVK9jvzSVZgvlRjr2Ki5eL7v-oTwCmRxDnrgdBGbniO) |
+| Ricardo Tobar | *Treillis*                  | 2013 | [Amazon](https://amzn.to/4hmJ0As)             |
 
 

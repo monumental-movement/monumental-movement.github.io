@@ -12,15 +12,15 @@ tags:
 - Techno
 - Game
 - 00s
-title: 8bit專案－熟悉的計算世界
+title: 8bit Project – Familiar Computing World
 ---
 
 
-8bit Project 是一個日本科技流行晶片音樂團體，於 2006 年首次發行 CD。成員包括伊藤俊二、齊藤恆、東海林博典和木下洋介。日本合成器程式設計師協會 (JSPA) 主席松武英樹 (Hideki Matsutake) 是他的「監護人」。
+8bit Projectは、2006年にCDデビューした日本のテクノポップ・チップチューンユニット。メンバーは伊藤俊治、齋藤久師、東海林弘憲、木下洋介。日本シンセサイザープログラマー協会（JSPA）会長の松武秀樹を「後見人」としている。
 
-這件夾克模仿了 Kraftwerk 1981 年發行的《Computer World》。
+ジャケットは、1981年リリースのKraftwerk「コンピューターワールド」のパロディ。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. 恋のマイアヒ
 2. キューティーハニー
@@ -41,4 +41,4 @@ title: 8bit專案－熟悉的計算世界
 17. テクノポリス
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}

@@ -12,9 +12,9 @@ title: Mark Tower & Co. – My Desire
 ---
 
 
-Composed by Giuliano Crivellente, Mauro Farina. The vocalist is Gianni Coraini (also known as Ken Laszlo, DJ NRG, and many others).
+作曲は、Giuliano Crivellente（ジュリアーノ・クリヴェレンテ）, Mauro Farina（マウロ・ファリーナ）。vocalは、Gianni Coraini（別名義：Ken Laszlo/ケン・ラズロ、DJ NRGなど多数）。
 
-"Mark Tower & Co. – My Desire" was released in 1990 by Italian Italo disco and Eurobeat label Asia Records.
+「Mark Tower & Co. – My Desire」は、イタリアのイタロディスコ＆ユーロビートレーベルAsia Recordsより1990年にリリース。
 
 #### Tracklist
 ```md

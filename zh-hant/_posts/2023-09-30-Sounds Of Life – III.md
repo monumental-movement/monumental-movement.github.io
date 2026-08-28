@@ -8,24 +8,24 @@ layout: post
 permalink: /zh-hant/sounds-of-life-iii/
 tags:
 - Drum n Bass
-title: 生命之聲 – III
+title: Sounds Of Life – III
 ---
 
 
-《Hidden Rooms》是 Source Direct 最好的阿門歌曲之一。這首歌曲由許多偉大的製作人精心製作，第一首歌曲將成為完美的舞池熱門歌曲。
+「Hidden Rooms」は、Source Directの最高のアーメンチューンの1つです。このトラックは、数々の優れたプロデューサーによって見事に制作され、最初のドロップによってダンスフロアで完全に機能するでしょう。
 
-尖銳的金屬聲音覆蓋了快速的前奏，是最引人注目的樣本之一，會讓您起雞皮疙瘩。
+急速なアメンブレイクの上に乗り越える尖った金属音は、特筆すべきサンプルの1つで鳥肌が立ちます。
 
-「爵士樂的香料」也很精彩，有很多插曲。
+「Spice of Jazz」も素晴らしく、ブレイクの多い点が特徴です。
 
-#### 曲目表
+#### Tracklist
 ```md
 a. Hidden Rooms
 
 b. A Spice Of Jazz
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m91098858840?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91098858840?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W3fgU6-1Mug?si=9VJU0OqdrBTu_zbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

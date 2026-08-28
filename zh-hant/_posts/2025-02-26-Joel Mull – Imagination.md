@@ -9,17 +9,17 @@ permalink: /zh-hant/joel-mull-imagination/
 tags:
 - Techno
 - 00s
-title: 喬爾馬爾——想像力
+title: Joel Mull – Imagination
 ---
 
 
-Joel Mull 的首張專輯《Imagination》（2000 年）對許多聽眾來說仍然很特別，這位瑞典電子藝術家給現場留下了持久的印象。
+Joel Mullのデビューアルバム『Imagination』（2000年）は、スウェーデン出身のこのテクノアーティストがシーンに鮮烈な印象を残した作品として、今なお多くのリスナーにとって特別な存在です。
 
-這張專輯在他職業生涯的早期發行，巧妙地融合了極簡 techno 和 tech house 的元素，形成了具有獨特情感深度的音景。
+彼のキャリア初期にリリースされたこのアルバムは、ミニマルテクノとテックハウスの要素を巧みに融合させつつ、独自の感情的な深みを持ったサウンドスケープを展開しています。
 
-首先，可以說《暢想》最大的吸引力在於它的身臨其境的感覺。在整張專輯中，喬爾·馬爾以精緻的節奏和質感層次將聽眾帶入了一段超凡脫俗的旅程。
+まず、『Imagination』の最大の魅力は、その没入感にあると言えるでしょう。アルバム全体を通して、Joel Mullはリズムとテクスチャーの繊細な積み重ねによって、聴き手を異次元的な旅へと誘います。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Carbon 14
 2. Daylight
@@ -34,7 +34,7 @@ Joel Mull 的首張專輯《Imagination》（2000 年）對許多聽眾來說仍
 11. Snabba Sekunder
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG6LoMWEzi0?si=oGeryVZjl6aDrLcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

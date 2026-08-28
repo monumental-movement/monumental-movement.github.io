@@ -11,24 +11,24 @@ tags:
 - Nostalgic
 - Theme
 - 7inch
-title: 岩崎芳美 – Touch
+title: 岩崎良美 – タッチ
 ---
 
 
-1985年，《岩崎芳美 – Touch》發行。
+「岩崎良美 – タッチ」は、1985年にリリースされました。
 
-作詞——康金花
+歌詞 – 康珍化
 
-音樂與編曲 – 芹澤宏明
+ミュージック＆編曲 – 芹澤廣明
 
-#### 曲目表
+#### Tracklist
 ```md
 A. タッチ
 
 B. 君がいなければ
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m57717219386?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57717219386?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQznd-eltAQ?si=P-oIwdUC2uAGJFqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

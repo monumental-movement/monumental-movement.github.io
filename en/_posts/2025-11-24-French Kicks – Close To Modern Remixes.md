@@ -9,13 +9,13 @@ tags:
 - House
 - Jazz-Funk
 - 00s
-title: French Kicks – Close To Modern (Remixes)
+title: 'French Kicks – Close To Modern (Remixes) '
 ---
 
 
 French Kicks is an American indie rock band from New York. Their style is a mix of garage rock, post-punk, and mod pop.
 
-This record is a remix of "Close To Modern" from French Kicks' first studio album "One Time Bells."
+ここレコードは、French Kicksのファーストスタジオアルバム『One Time Bells』に収録された「Close To Modern」のリミックス盤。
 
 #### Tracklist
 ```md
@@ -33,7 +33,7 @@ Remix – DJ Smash
 B2. Close To Modern (Mobileglobal Dub Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m25143926960?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25143926960?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XagWBF1hEUI?si=eeLGOr4I-GysRPfR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

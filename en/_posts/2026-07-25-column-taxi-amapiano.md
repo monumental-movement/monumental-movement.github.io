@@ -10,43 +10,42 @@ tags:
 - Amapiano
 - South Africa
 - Kwaito
-title: '[Column] Why did South Africa''s unique taxi culture give rise to the world-famous
-  dance music called Amapiano?'
+title: 【コラム】 南アフリカ独自のタクシー文化が、なぜAmapianoという世界的なダンスミュージックを生み出したのか
 ---
 
 
-## Introduction
+## はじめに
 
-Text: mmr | Theme: South Africa's taxi culture was not just a means of transportation, but an urban culture itself. Amapiano was born from the rhythm and sense of community cultivated in this everyday space.
+文：mmr｜テーマ：南アフリカのタクシー文化は、単なる移動手段ではなく都市文化そのものだった。Amapianoは、その日常空間で育まれたリズムと共同体の感覚から誕生した
 
 
-Amapiano, which is popular all over the world, is often introduced as "new house music."
+世界中で人気を集めるAmapianoは、「新しいハウスミュージック」と紹介されることが多い。
 
-But to understand its origins, it's not enough to look only at clubs and studios.
+しかし、その誕生を理解するにはクラブやスタジオだけを見ても十分ではない。
 
-Rather, it is the minibus taxis that are used by millions of people every day.
+むしろ重要なのは、毎日何百万人もの人々が利用する**ミニバスタクシー**である。
 
-In South Africa, this transport network was more than just public transport.
+南アフリカでは、この交通網は単なる公共交通ではなかった。
 
-It was also a huge medium where people could listen to music, learn about new songs, share trends, and feel the atmosphere of the city.
+人々が音楽を聴き、新しい曲を知り、流行を共有し、街の空気を感じる巨大なメディアでもあった。
 
-Today, Spotify and TikTok play a role in promoting new music.
+今日ではSpotifyやTikTokが新曲を広める役割を担っている。
 
-But when Amapiano began to take shape in the early 2010s, that role was played by taxis running around town.
+しかしAmapianoが形になり始めた2010年代初頭、その役割を果たしていたのは街中を走るタクシーだった。
 
-Music selected by the driver.
+運転手が選ぶ音楽。
 
-The rhythm with which passengers react.
+乗客が反応するリズム。
 
-A dance that begins spontaneously at a stop.
+停留所で自然に始まるダンス。
 
-The accumulation of these daily routines fostered a new musical culture.
+こうした日常の積み重ねが、新しい音楽文化を育てていったのである。
 
-Amapiano is not a genre born solely from the Internet.
+Amapianoはインターネットだけで誕生したジャンルではない。
 
-The city's daily life itself was a gigantic recording studio and a gigantic club.
+都市の日常そのものが、一つの巨大なレコーディングスタジオであり、巨大なクラブでもあった。
 
-> The key to understanding Amapiano is to first understand South Africa's unique urban transportation system.
+> Amapianoを理解する鍵は、まず南アフリカ独自の都市交通システムを知ることにある。
 
 
 
@@ -55,7 +54,7 @@ The city's daily life itself was a gigantic recording studio and a gigantic club
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -66,79 +65,79 @@ color: #fff;
 
 ---
 
-## What does taxi mean?
+## タクシーとは何を意味するのか
 
-### "Taxi" around the world is different from "Taxi" in South Africa
+### 世界の「タクシー」と南アフリカの「Taxi」は違う
 
-When many people hear the word "taxi" in Japan, they think of yellow or black sedans.
+日本で「タクシー」と聞くと、黄色や黒色のセダンを思い浮かべる人が多い。
 
-However, in South Africa, when we say taxi, we almost always mean a **minibus with seating for around 16 people**.
+しかし南アフリカでTaxiと言えば、ほとんどの場合は**16人乗り前後のミニバス**を意味する。
 
-This vehicle runs on a fixed route and departs whenever passengers gather.
+この車両は決まった路線を走り、乗客が集まるたびに発車する。
 
-Fares are relatively low, making it the most important means of transportation in areas where rail and bus networks are insufficient.
+料金も比較的安く、鉄道やバス網が十分ではない地域では最も重要な交通手段となっている。
 
-Even today, it is the center of transportation that supports daily life such as commuting to work, school, and shopping, and is used by many city residents every day.
+現在でも通勤・通学・買い物など、日常生活を支える交通の中心であり、多くの都市住民が毎日利用している。
 
-Therefore, people of various generations and professions ride together in one taxi.
+そのため、一台のタクシーには様々な世代や職業の人々が乗り合わせる。
 
-company employee.
+会社員。
 
-student.
+学生。
 
-A store clerk.
+商店の店員。
 
-construction worker.
+建設作業員。
 
-musician.
+ミュージシャン。
 
 They move around the city listening to the same music.
 
 This has created a ""shared listening experience'' unique to South Africa.
 
-### Apartheid era and traffic conditions
+### アパルトヘイト時代と交通事情
 
-In the late 20th century, apartheid forced many black residents to move to townships on the outskirts of cities.
+20世紀後半、アパルトヘイト政策によって多くの黒人住民は都市郊外のタウンシップへ移住させられた。
 
 Many people will be forced to commute long distances to work in places such as Johannesburg, Pretoria, Soweto and Alexandra.
 
 On the other hand, public transportation was not sufficiently developed.
 
-Minibus taxis filled that void.
+その空白を埋めたのがミニバスタクシーだった。
 
-In the 1980s, deregulation progressed, and many private operators and taxi associations began operating taxis.
+1980年代には規制緩和も進み、多くの個人事業者やタクシー協会が運行を始める。
 
 Competition has become fierce, but the result has been the creation of vast transportation networks that connect entire cities.
 
-This network will become an entity that transports not only people but also culture.
+このネットワークは人だけではなく文化も運ぶ存在になっていく。
 
-### Travel time was time for culture to grow
+### 移動時間は文化が育つ時間だった
 
-Long commute.
+長時間の通勤。
 
-daily movement.
+毎日の移動。
 
-People who spend anywhere from a few minutes to an hour or more in the same space.
+数十分から一時間以上を同じ空間で過ごす人々。
 
-Music was always playing there.
+そこで常に流れていたのが音楽だった。
 
 It's not just radio.
 
 CD selected by the driver himself.
 
-USB memory.
+USBメモリー。
 
-After that, smartphones.
+後にはスマートフォン。
 
-First, the driver brings in new songs to see how the passengers react.
+新しい曲はまず運転手が持ち込み、乗客の反応を見る。
 
-If passengers start swaying, the song gradually spreads to other taxis.
+もし乗客が身体を揺らし始めれば、その曲は次第に別のタクシーへも広がっていく。
 
-In other words, the taxi was also a huge audition venue.
+つまりタクシーは巨大な試聴会場でもあった。
 
-This culture has been going on throughout South Africa since before the internet.
+インターネット以前から、この文化は南アフリカ各地で続いてきた。
 
-> Daily travel time itself became an important social space for nurturing new music.
+> 毎日の移動時間そのものが、新しい音楽を育てる重要な社会空間になっていた。
 
 ---
 
@@ -146,237 +145,237 @@ This culture has been going on throughout South Africa since before the internet
 
 ### The township was a place of creativity.
 
-When many people hear the word "township" alone, they associate it with poverty and inequality.
+「タウンシップ」という言葉だけを見ると、貧困や格差を連想する人も少なくない。
 
-Certainly, social difficulties have existed.
+確かに社会的な困難は存在してきた。
 
 However, the township was also the greatest creative center for South African music.
 
-jazz.
+ジャズ。
 
-gospel.
+ゴスペル。
 
-Maskwandi.
+マスクワンディ。
 
-House.
+ハウス。
 
-Quite.
+クワイト。
 
 And Amapiano.
 
-Many genres are born from here.
+多くのジャンルがここから生まれている。
 
-Music was not only entertainment, but also an important way for people to identify with their community.
+音楽は娯楽であると同時に、人々が共同体を確認する重要な手段でもあった。
 
-### Connection with street culture
+### 路上文化との結び付き
 
-In townships, music isn't just something to enjoy at home.
+タウンシップでは、音楽は家の中だけで楽しむものではない。
 
-street.
+通り。
 
 Store.
 
-market.
+マーケット。
 
-barber.
+床屋。
 
-stall.
+屋台。
 
-sporting event.
+スポーツイベント。
 
 Music is played everywhere.
 
-Taxi stands are no exception.
+タクシー乗り場も例外ではない。
 
-Dancing and socializing naturally begin in places where many people gather and there is some waiting time.
+多くの人が集まり、待ち時間が生まれる場所では自然にダンスや交流が始まる。
 
-Many of the dancers who later became famous started dancing in these public spaces.
+後に有名になるダンサーの中にも、こうした公共空間で踊り始めた人は少なくない。
 
-This is why Amapiano's dance culture is strongly connected to public space.
+Amapianoのダンスカルチャーが公共空間と強く結び付いている理由はここにある。
 
-### Spread of DJ culture
+### DJ文化の広がり
 
 After the 1990s, with the spread of home PCs and relatively inexpensive production software, many young people began producing music at home.
 
-Clubs aren't the only places to play completed songs for the first time.
+完成した曲を最初に流す場所はクラブだけではない。
 
 Give it to the taxi driver.
 
 A friend will give it out via USB.
 
-A DJ plays it at a street event.
+路上イベントでDJが再生する。
 
-These grassroots distribution channels have created a unique culture that is not mediated by major record companies.
+こうした草の根の流通経路は、大手レコード会社を介さない独特の文化を形成した。
 
-This DIY spirit was inherited by later Amapiano products.
+このDIY精神は、後のAmapianoにもそのまま受け継がれている。
 
-### "Trend" is determined by the city
+### 「流行」は街で決まる
 
 In many countries, radio and television stations play a role in determining hit songs.
 
-On the other hand, in South Africa, the reaction of the city was very important.
+一方、南アフリカでは街の反応が非常に重要だった。
 
 Especially at the taxi stand.
 
-market.
+マーケット。
 
-street party.
+ストリートパーティー。
 
-The songs that play repeatedly here remain in people's memories.
+ここで繰り返し流れる曲は、人々の記憶に残る。
 
-The songs that people dance to become popular songs.
+踊られる曲が人気曲になる。
 
-Even though this trend later moved to SNS, the major structure remained the same.
+この流れは後にSNSへ移っても、大きな構造は変わらなかった。
 
-Even before TikTok, South Africa had a culture in which the city became an algorithm.
+TikTok以前から、南アフリカには「街がアルゴリズムになる文化」が存在していたのである。
 
-> Amapiano was music grown not in a studio, but in the city itself.
+> Amapianoはスタジオではなく、街そのものが育てた音楽だった。
 
 <div class="mermaid">
 graph TD
-A[Everyday life in the township] --> B[minibus taxi]
+A[タウンシップの日常] --> B[ミニバスタクシー]
 B --> C[music sharing]
-C --> D[passenger reaction]
+C --> D[乗客の反応]
 D --> E[Reviews]
 E --> F[DJ]
-F --> G[street event]
-G --> H[Popularization of Amapiano]
+F --> G[ストリートイベント]
+G --> H[Amapianoの普及]
 </div>
 
 
 ---
 
-## Music culture before Amapiano
+## Amapiano以前の音楽文化
 
-### The foundation of Kwaito
+### Kwaitoという土台
 
-Amapiano is not a genre that suddenly appeared.
+Amapianoは突然現れたジャンルではない。
 
-Behind this is **Kwaito**, which developed significantly in the 1990s.
+その背景には1990年代に大きく発展した**Kwaito**が存在する。
 
-Kwaito is a unique South African dance music that spread along with social changes around the end of apartheid, and while influenced by Chicago house and European house, it slowed down the tempo and blended local language and street culture.
+Kwaitoはアパルトヘイト終結前後の社会変化とともに広まった南アフリカ独自のダンスミュージックであり、シカゴ・ハウスやヨーロピアン・ハウスの影響を受けながらも、テンポをゆるやかに落とし、現地の言語やストリートカルチャーを融合させた音楽だった。
 
 In addition to English, multiple languages ​​such as Zulu, Xhosa, and Sotho were mixed naturally, and young people in urban areas reflected their daily lives in music.
 
-Groove over speed.
+速さよりもグルーヴ。
 
-Repetition rather than flashy developments.
+派手な展開よりも反復。
 
-The rhythm that makes your body sway naturally.
+身体が自然に揺れるリズム。
 
-These characteristics were inherited by the later Amapiano.
+こうした特徴は、後のAmapianoにも受け継がれている。
 
-### Establishment of house music
+### ハウスミュージックの定着
 
-From the late 1980s to the 1990s, foreign house music rapidly penetrated South Africa.
+1980年代後半から1990年代にかけて、海外のハウスミュージックは南アフリカへ急速に浸透した。
 
-In particular, Chicago house and deep house had a big influence on urban DJs.
+特にシカゴ・ハウスやディープハウスは都市部のDJたちに大きな影響を与えた。
 
-However, it was never imitated.
+しかし、そのまま模倣されることはなかった。
 
-Local DJs adjust the tempo and bass line, changing the dance music to more closely match the rhythm of everyday life.
+現地のDJはテンポやベースラインを調整し、より日常の生活リズムに近いダンスミュージックへ変化させていく。
 
-long journey.
+長時間の移動。
 
-outdoor event.
+屋外イベント。
 
-township party.
+タウンシップのパーティー。
 
-In such an environment, sustained grooves were preferred over intense developments.
+そうした環境では、激しい展開よりも持続するグルーヴの方が好まれたのである。
 
-### Existence of jazz and gospel
+### ジャズとゴスペルの存在
 
-Jazz and gospel music also have a long history in South Africa.
+南アフリカではジャズとゴスペルも長い歴史を持つ。
 
-Throughout the 20th century, jazz clubs developed in urban areas, and many musicians developed their own unique styles.
+20世紀を通じて都市部ではジャズクラブが発展し、多くの演奏家が独自のスタイルを築いてきた。
 
-Gospel music was regularly sung in church, and people were familiar with the rich chorus work and chord progressions.
+教会ではゴスペル音楽が日常的に歌われ、人々は豊かなコーラスワークやコード進行に親しんでいた。
 
-Amapiano's gentle chords and warm harmonies are not unrelated to this musical culture.
+Amapianoの穏やかなコードや温かみのあるハーモニーは、こうした音楽文化とも無関係ではない。
 
-This musical background is one of the reasons why it has a soft sound even though it is club music.
+クラブミュージックでありながら柔らかな響きを持つ理由の一つは、この音楽的背景にある。
 
 ### Urban culture mixes genres
 
-In Johannesburg and Pretoria, diverse genres intersected on a daily basis.
+ヨハネスブルグやプレトリアでは、多様なジャンルが日常的に交わっていた。
 
-The DJ naturally connects house, Kwaito, Afropop, and hip-hop in one night's play.
+DJは一晩のプレイでハウス、Kwaito、アフロポップ、ヒップホップを自然につなぐ。
 
-Passengers hear different genres in succession in the taxi.
+乗客はタクシーの中で異なるジャンルを続けて耳にする。
 
-Genre boundaries were not so strict.
+ジャンルの境界はそれほど厳密ではなかった。
 
-As a result, even when new styles emerged, they were accepted as ""the result of gradual changes in the music of the city" rather than ""completely new music."
+そのため、新しいスタイルが生まれても「まったく新しい音楽」というより、「街の音楽が少しずつ変化した結果」として受け入れられていった。
 
-> Amapiano did not replace one type of music, but was formed by inheriting the urban music culture that had been accumulated over many years.
+> Amapianoは一つの音楽を置き換えたのではなく、長年積み重ねられた都市の音楽文化を受け継ぎながら形作られていった。
 
 ---
 
 ## Birth of Amapiano and the role of taxi culture
 
-### New sounds from Pretoria
+### プレトリアから広がった新しいサウンド
 
-Amapiano, as it is now widely known, is thought to have formed around Pretoria in the early 2010s.
+現在広く知られるAmapianoは、2010年代前半にプレトリア周辺で形成されたと考えられている。
 
-Initially, there was no clear genre name, and it was often treated as a type of deep house track produced by local DJs.
+当初は明確なジャンル名もなく、地元DJが制作したディープハウス系トラックの一種として扱われることも少なくなかった。
 
-Eventually, the distinctive bass line, slow tempo, and spacious synth sound came to be shared, and it began to be recognized as a single style.
+やがて特徴的なベースライン、ゆったりとしたテンポ、広い空間を感じさせるシンセサウンドが共有されるようになり、一つのスタイルとして認識され始める。
 
-Music during this period was first distributed within local communities rather than the internet.
+この時期の楽曲はインターネットよりも、まず地域社会の中で流通していた。
 
-### First listener is not a club
+### 最初のリスナーはクラブではない
 
-Many music genres become popular from clubs and live music venues.
+多くの音楽ジャンルはクラブやライブハウスから人気が広がる。
 
-But in Amapiano"s case, that alone doesn"t explain it.
+しかしAmapianoの場合、それだけでは説明できない。
 
 Newly produced songs were handed out not only to fellow DJs but also to taxi drivers.
 
 If the driver likes it, it will be played dozens of times every day.
 
-Hundreds of passengers on the same line hear the song.
+同じ路線を利用する何百人もの乗客がその曲を耳にする。
 
-If the reaction is good, it will be copied to another driver.
+反応が良ければ別の運転手にもコピーされる。
 
-In this way, the song spread naturally throughout the region.
+こうして曲は地域全体へ自然に広がっていった。
 
-In today"s terms, people"s word of mouth played a role similar to that of an algorithmic recommendation function.
+現在で言えば、アルゴリズムによるおすすめ機能に近い役割を、人々の口コミが担っていたのである。
 
-### The driver was a curator
+### 運転手はキュレーターだった
 
-In South African minibus taxis, the driver often decides what music is played.
+南アフリカのミニバスタクシーでは、運転手が流す音楽を決めることが多い。
 
 The music selection influences the mood of the passengers.
 
-A quiet morning.
+静かな朝。
 
-A crowded evening.
+混雑した夕方。
 
 weekend night.
 
-The songs played change depending on the time of day.
+時間帯によって流れる曲も変わる。
 
-The popular driver was also known for being the first to know new songs.
+人気のある運転手は、新しい曲をいち早く知っていることでも知られていた。
 
-In other words, they were not just drivers, but also curators of the city's music.
+つまり彼らは単なるドライバーではなく、街の音楽を紹介するキュレーターでもあった。
 
-They naturally fulfilled some of the roles played by record shops and radio DJs in their daily lives.
+レコードショップやラジオDJが担ってきた役割の一部を、日常生活の中で自然に果たしていたのである。
 
-### "Where did you hear this song?"
+### 「この曲はどこで聴いた？」
 
-During the period when Amapiano was rapidly spreading, many people said that they first encountered the new song by ""listening to it in a taxi.''
+Amapianoが急速に広がった時期、多くの人が新曲との出会いを「タクシーで聴いた」と語っている。
 
-Morning on my way to work.
+職場へ向かう朝。
 
-Back from school.
+学校帰り。
 
-Back from shopping.
+買い物帰り。
 
-The music that comes to your ears during your daily commute spreads directly into conversations with friends and local events.
+日常の移動時間に耳へ入った音楽が、そのまま友人との会話や地域イベントへ広がっていく。
 
-"Do you know the song that was playing in the taxi yesterday?"
+「昨日タクシーで流れていた曲を知っている？」
 
-This casual conversation turned out to be an advertisement for new music.
+そんな何気ない会話が、新しい音楽の宣伝になっていた。
 
 Rather than advertisements, people's daily lives became the venue for promotion.
 
@@ -384,503 +383,503 @@ Rather than advertisements, people's daily lives became the venue for promotion.
 
 <div class="mermaid">
 flowchart LR
-A[home studio] --> B[DJ]
+A[自宅スタジオ] --> B[DJ]
 B --> C[taxi driver]
 C --> D[daily passenger]
-D --> E[Reviews]
-E --> F[local events]
-F --> G[club]
-G --> H[Expand nationwide]
+D --> E[口コミ]
+E --> F[地域イベント]
+F --> G[クラブ]
+G --> H[全国へ拡大]
 </div>
 
 ---
 
-## Why taxi stands have become "music media"
+## タクシー乗り場が「音楽メディア」になった理由
 
-### It was a place where people naturally gathered.
+### 人が自然に集まる場所だった
 
-A taxi stand is not just a place to wait for a car.
+タクシー乗り場は、ただ車を待つ場所ではない。
 
-Thousands of people come and go in urban areas every day, and while they wait, they talk and exchange information.
+都市部では一日に何千人もの人々が行き交い、待ち時間には会話や情報交換が行われる。
 
 Music was also part of it.
 
-The music playing from the vehicle can be heard by those around you, and other taxi drivers and passengers will naturally hear it as well.
+車両から流れる曲は周囲にも聞こえ、別のタクシーの運転手や乗客も自然と耳にする。
 
-If a particular song is played over and over again, it will become popular in the city as a song that is often listened to these days.
+特定の楽曲が何度も流れれば、「最近よく聴く曲」として街に浸透していく。
 
-Unlike radio broadcasting, this system also created slightly different trends in each region.
+これはラジオ放送とは異なり、地域ごとに少しずつ異なる流行を生み出す仕組みでもあった。
 
-### Dance accelerates popularity
+### ダンスが人気を加速させる
 
-Amapiano spread not only with music but also with dance.
+Amapianoは音楽だけではなく、ダンスとともに広がった。
 
-At taxi ranks and public spaces, young people perform new steps that others imitate.
+タクシー乗り場や公共スペースでは、若者たちが新しいステップを披露し、それを見た人が真似をする。
 
-Even before SNS became popular, word-of-mouth reviews using the body existed.
+SNSが普及する以前から、身体を使った口コミが存在していたのである。
 
-Steps such as "Pouncing Cat" and "Bacardi", which later became known worldwide, also spread as an extension of this regional culture.
+後に世界的に知られる"Pouncing Cat"や"Bacardi"などのステップも、こうした地域文化の延長線上で広まっていった。
 
-### Bridging to the smartphone era
+### スマートフォン時代への橋渡し
 
-In the late 2010s, Amapiano spread even more rapidly through smartphones, WhatsApp, YouTube, etc.
+2010年代後半になると、スマートフォンやWhatsApp、YouTubeなどを通じてAmapianoはさらに急速に拡散する。
 
-However, by then it had already gained support in many regions.
+しかし、その頃にはすでに多くの地域で支持を得ていた。
 
-Rather than becoming popular online, music that was developed offline was suddenly made visible online.
+オンラインで人気になったというより、オフラインで育った音楽がオンラインによって一気に可視化されたのである。
 
-In that sense, taxi culture also served as a bridge to the digital age.
+その意味で、タクシー文化はデジタル時代への橋渡し役でもあった。
 
-> Taxi stands functioned as one of the city's largest media outlets for promoting new music without spending money on advertising.
+> タクシー乗り場は、広告費を使わずに新しい音楽を広める都市最大級のメディアとして機能していた。
 
 ---
 
-## How did Amapiano's signature sound develop?
+## Amapianoを象徴するサウンドはどのように育ったのか
 
-### "Log Drum" has become a genre personality
+### 「Log Drum」がジャンルの個性になった
 
-The most well-known sound that characterizes Amapiano is the heavy bass called **Log Drum**.
+Amapianoを特徴づける音として最もよく知られているのが**Log Drum（ログドラム）**と呼ばれる重低音である。
 
-The name comes from the wooden percussion instrument ""log drum,'' but the sounds used in Amapiano are not recorded from actual wooden instruments, but are electronic sounds created using synthesizers and software sound sources.
+名前の由来は木製の打楽器「ログドラム」だが、Amapianoで使われる音は実際の木製楽器を録音したものではなく、シンセサイザーやソフトウェア音源によって作られた電子音である。
 
-This bass has a role somewhere between a bass line and a percussion instrument.
+この低音はベースラインと打楽器の中間のような役割を持つ。
 
-It emphasizes the rhythm while giving a sense of pitch, creating a unique floating feeling throughout the song.
+音程を感じさせながらもリズムを強調し、楽曲全体に独特の浮遊感を生み出している。
 
-Early producers experimented with multiple sound sources and effects to create their own unique bass sounds.
+初期のプロデューサーたちは複数の音源やエフェクトを試しながら、自分たちなりの低音を作り上げていった。
 
-As a result, Log Drum became known around the world as the signature sound of the genre.
+その結果、Log Drumはジャンルを象徴するサウンドとして世界中に知られるようになる。
 
-### "White space" rather than "gayness"
+### 「派手さ」より「余白」
 
-EDM often emphasizes big drops and intense build-ups.
+EDMでは、大きなドロップや激しいビルドアップが重要視されることが多い。
 
-But Amapiano went in a different direction.
+しかしAmapianoは異なる方向へ進んだ。
 
-The number of sounds is relatively small.
+音数は比較的少ない。
 
-Synths emphasize spaciousness.
+シンセは広がりを重視する。
 
-Vocals are also not packed in more than necessary.
+ボーカルも必要以上に詰め込まない。
 
-Instead, the bass and drums slowly take over the space.
+その代わり、ベースとドラムがゆっくりと空間を支配していく。
 
-This "blank space" goes well with long journeys and daily scenes of the city.
+この「余白」は、長時間の移動や街の日常風景とも相性が良かった。
 
-I don"t get tired even when I"m in a taxi.
+タクシーの中で流れていても疲れない。
 
-Don't interrupt the conversation.
+会話を邪魔しない。
 
-Yet, the body feels a natural rhythm.
+それでいて身体は自然とリズムを感じる。
 
-This design philosophy was one of the reasons why music developed as a companion to urban life.
+都市生活に寄り添う音楽として発展した理由の一つが、この設計思想だった。
 
-### The tempo is close to the breathing of the city
+### テンポは都市の呼吸に近い
 
-Amapiano's tempo is generally around 110-115 BPM.
+Amapianoのテンポは一般的に110〜115BPM前後である。
 
-It's a little slower than house music, but faster than hip hop.
+ハウスミュージックよりやや遅く、Hip Hopよりは速い。
 
-walking speed.
+歩く速度。
 
-Conversation tempo.
+会話のテンポ。
 
-The speed at which people naturally sway their bodies.
+人が自然に身体を揺らす速度。
 
-The tempo is close to that daily rhythm.
+そうした日常のリズムに近いテンポである。
 
-Even sitting in a taxi is comfortable.
+タクシーの中で座っていても心地よい。
 
-I don't feel uncomfortable standing and talking at the bus stop.
+停留所で立ち話をしていても違和感がない。
 
-It was a tempo that worked across the city, not just a dance floor.
+ダンスフロアだけを想定した速度ではなく、街全体で機能するテンポだった。
 
-### Spread because it is simple
+### シンプルだから広がった
 
-The production environment was also relatively simple.
+制作環境も比較的シンプルだった。
 
-Notebook PC.
+ノートPC。
 
-DAW.
+DAW。
 
-Software synth.
+ソフトウェアシンセ。
 
-headphone.
+ヘッドホン。
 
-If I had this kind of environment, I could make it at home.
+こうした環境があれば、自宅でも制作できた。
 
-The fact that it didn't require a large studio encouraged the participation of young creators.
+大規模なスタジオを必要としなかったことは、若いクリエイターの参加を後押しした。
 
-Slightly different styles were born in each region, and each merged into the larger flow known as Amapiano.
+地域ごとに少しずつ異なるスタイルが生まれ、それぞれがAmapianoという大きな流れへ合流していく。
 
-Genres were not invented by one person, but were formed as a result of the gradual efforts of many creators.
+ジャンルは一人の発明ではなく、多くの制作者が少しずつ積み重ねた結果として形作られていった。
 
-> Amapiano's sound developed with the premise of blending naturally into everyday urban life.
+> Amapianoのサウンドは、都市の日常に自然に溶け込むことを前提として発展していった。
 
 <div class="mermaid">
 flowchart TD
-A[deep house] --> E[Amapiano]
+A[ディープハウス] --> E[Amapiano]
 B[Kwaito] --> E
-C[jazz] --> E
-D[gospel] --> E
+C[ジャズ] --> E
+D[ゴスペル] --> E
 E --> F[Log Drum]
-E --> G[wide spatial expression]
+E --> G[広い空間表現]
 E --> H[110〜115 BPM]
-E --> I[repeating groove]
+E --> I[反復するグルーヴ]
 </div>
 
 ---
 
-## Taxi culture did not disappear even in the age of social media
+## SNS時代になってもタクシー文化は消えなかった
 
-### It was a hit in town before YouTube
+### YouTubeより先に街でヒットしていた
 
-In the late 2010s, video and music sharing services such as YouTube and SoundCloud began to become popular.
+2010年代後半になると、YouTubeやSoundCloudなどの動画・音楽共有サービスが普及し始める。
 
-Furthermore, audio sharing on WhatsApp and word of mouth on SNS quickly spread.
+さらにWhatsAppによる音源共有やSNSでの口コミも急速に広がった。
 
-But Amapiano isn't just a genre that became popular online.
+しかしAmapianoは、オンラインだけで人気になったジャンルではない。
 
-Many songs spread to the Internet after they were already well-known in the local community.
+多くの楽曲は、すでに地域社会の中で知られた存在になってからインターネットへ広がっていった。
 
-In other words, digital was not a ""place of birth" but a ""means of expansion."
+つまりデジタルは「誕生の場所」ではなく、「拡大の手段」だった。
 
-### Taxi culture has also changed the way it advertises.
+### タクシー文化は宣伝方法も変えた
 
-In the traditional music industry, promotion to radio stations and CD sales were important.
+従来の音楽産業では、ラジオ局へのプロモーションやCD販売が重要だった。
 
-At Amapiano, on the other hand, connections with local DJs, taxi drivers, and event organizers were important.
+一方、Amapianoでは地域のDJやタクシー運転手、イベント主催者とのつながりが大きな意味を持っていた。
 
-If a song is accepted in a city, it will naturally be copied in other areas.
+曲が街で受け入れられれば、自然と別の地域にもコピーされていく。
 
-After that, radio and social media will follow.
+その後にラジオやSNSが追いかける。
 
-This order was the opposite of most pop music.
+この順番は、多くのポップミュージックとは逆だった。
 
-Urban culture was moving before the media.
+都市文化がメディアより先に動いていたのである。
 
-### Dance videos brought to the world
+### ダンス動画が世界へ運んだ
 
-In the age of social media, Amapiano spreads around the world along with dance videos.
+SNS時代になると、Amapianoはダンス動画とともに世界へ広がる。
 
-The steps, which were created in South Africa, were introduced overseas through TikTok and Instagram, and many people began to imitate them.
+南アフリカ国内で生まれたステップがTikTokやInstagramなどを通じて海外にも紹介され、多くの人が真似を始めた。
 
-However, many of the dances had previously been performed in townships, taxi ranks, and community events.
+しかし、そのダンスの多くは以前からタウンシップやタクシー乗り場、地域イベントで踊られていたものだった。
 
-Online has not created a new culture, but made local culture visible to the world.
+オンラインは新しい文化を作ったのではなく、地域文化を世界へ可視化したのである。
 
-### The local community still supports us
+### 地域コミュニティが今も支えている
 
-Today, Amapiano is played in clubs and festivals around the world.
+現在ではAmapianoは世界各国のクラブやフェスティバルで演奏されている。
 
-Yet within South Africa, ties to local communities remain strong.
+それでも南アフリカ国内では、地域コミュニティとの結び付きが依然として強い。
 
-Taxis remain a daily means of transportation and a place to share music.
+タクシーは今も日常の交通手段であり、音楽を共有する場でもある。
 
-Streaming services aren't always the first place you hear a new hit.
+新しいヒット曲が最初に流れる場所が、必ずしもストリーミングサービスとは限らない。
 
-Taxi culture continues to play an important role as the place that reflects the city's atmosphere first.
+街の空気を最も早く映す場所として、タクシー文化は現在も重要な役割を果たしている。
 
-> Even in the digital age, the foundation that supports Amapiano remains in the daily lives of local communities.
+> デジタル時代になっても、Amapianoを支える基盤は地域社会の日常生活にあり続けている。
 
 ---
 
-## Timeline: Taxi culture and the development of Amapiano
+## 年表：タクシー文化とAmapianoの発展
 
-| Era | Events | Influence on music culture |
+| 年代       | 出来事                        | 音楽文化への影響                 |
 | -------- | -------------------------- | ------------------------ |
-| 1970s | Expanding use of minibus taxis | Urban transportation network formed |
-| 1980s | Taxi industry deregulation progresses | Music and culture spread throughout the city |
-| 1990s | Kwaito gains popularity | South Africa's unique dance music is established |
-| 1994 | Democratization | Youth culture rapidly revitalized |
-| 2000s | Music production using PCs became popular | The number of home-based DJs and producers increased |
-| Early 2010s | Amapiano is formed around Pretoria | New sounds begin to be shared in the region |
-| Late 2010s | Rapidly spreading on WhatsApp, YouTube, and SNS | Recognition spreads domestically and internationally |
-| 2020s | Established as a global dance music | Increased presence in international festivals and charts |
+| 1970年代   | ミニバスタクシー利用が拡大              | 都市交通ネットワークが形成される         |
+| 1980年代   | タクシー業界の規制緩和が進む             | 音楽や文化が都市全体へ広がりやすくなる      |
+| 1990年代   | Kwaitoが人気を集める              | 南アフリカ独自のダンスミュージックが確立     |
+| 1994年    | 民主化                        | 若者文化が急速に活性化する            |
+| 2000年代   | PCによる音楽制作が普及               | 自宅制作のDJ・プロデューサーが増加       |
+| 2010年代前半 | プレトリア周辺でAmapianoが形成される     | 新しいサウンドが地域で共有され始める       |
+| 2010年代後半 | WhatsApp・YouTube・SNSで急速に拡散 | 国内外へ認知が広がる               |
+| 2020年代   | 世界的なダンスミュージックとして定着         | 国際的フェスティバルやチャートでも存在感を高める |
 
-> Amapiano's journey is a history of development through the interplay of urban transportation, local culture, and digital technology.
+> Amapianoの歩みは、都市交通、地域文化、デジタル技術が重なり合いながら発展してきた歴史そのものである。
 
 ---
 
-## "Community listening" experience created by taxi culture
+## タクシー文化が生み出した「共同で聴く」という体験
 
-### A culture where everyone learns about music, not just one person
+### 一人ではなく、みんなで音楽を知る文化
 
-Nowadays, streaming services and social media are the main places people discover new music.
+現在では、新しい音楽と出会う場所はストリーミングサービスやSNSが中心になっている。
 
-It has become commonplace for people to use the recommendation function to select songs according to their tastes and listen to them alone through earphones.
+おすすめ機能が好みに合わせて曲を選び、イヤホンを通して一人で聴くことが当たり前になった。
 
-However, the environment in which Amapiano grew up was very different.
+しかし、Amapianoが育った環境では状況が大きく異なっていた。
 
-In a taxi, all passengers listen to the same song.
+タクシーの車内では、乗客全員が同じ曲を聴く。
 
-Instead of just one person choosing the music, the music played by the driver is shared naturally.
+誰かだけが選曲するのではなく、運転手が流す音楽を自然に共有する。
 
-Those who like it will shake their bodies, and the person next to them will also react.
+気に入った人は身体を揺らし、隣の人も反応する。
 
-Sometimes I ask the name of the song on the spot, and sometimes I start a conversation by saying, ""This song was playing yesterday too.''
+その場で曲名を尋ねることもあれば、「昨日もこの曲が流れていた」と会話が始まることもある。
 
-The encounter with music became a communal experience rather than an individual experience.
+音楽との出会いが個人的な体験ではなく、共同体の体験になっていたのである。
 
-### "Reaction" determines the next hit
+### 「反応」が次のヒットを決める
 
-In taxi culture, immediate reactions were more important than the number of views.
+タクシー文化では、再生回数よりも目の前の反応が重要だった。
 
-Passengers start singing.
+乗客が歌い始める。
 
-Makes me smile.
+笑顔になる。
 
-Move your feet to the rhythm.
+リズムに合わせて足を動かす。
 
-Even when I get off at the stop, I keep humming it.
+停留所で降りても口ずさんでいる。
 
-These physical reactions could be seen every day by drivers and DJs.
+こうした身体的な反応を、運転手やDJは毎日見ることができた。
 
-As a result, ""songs that are truly well-received in the city'' are naturally selected.
+その結果、「街で本当に受け入れられている曲」が自然に選ばれていく。
 
-Hit songs were developed based on human intuition rather than data analysis.
+データ分析ではなく、人間の感覚によってヒット曲が育っていた。
 
-### Reviews before algorithm
+### アルゴリズム以前の口コミ
 
-Today's streaming services have algorithms that suggest similar songs.
+今日のストリーミングサービスでは、アルゴリズムが似た楽曲を提案する。
 
-In taxi culture, on the other hand, people played the role of algorithms.
+一方、タクシー文化では人がアルゴリズムの役割を果たしていた。
 
-The driver likes it.
+運転手が気に入る。
 
-A passenger tells a friend.
+乗客が友人へ伝える。
 
-A DJ plays it at an event.
+DJがイベントで再生する。
 
-Another driver takes it in.
+別の運転手が取り入れる。
 
-Through this repetition, the song gradually spreads to a wider area.
+この繰り返しによって、楽曲は少しずつ広い地域へ伝わっていく。
 
-The music was selected through human interaction rather than computer optimization.
+コンピューターによる最適化ではなく、人間同士の交流によって音楽が選ばれていたのである。
 
-### Music is connected to the cityscape
+### 音楽は街の景色と結び付く
 
-I drive on the same road every morning.
+毎朝同じ道路を走る。
 
-Get off at the same stop.
+同じ停留所で降りる。
 
-See the same cityscape.
+同じ街並みを見る。
 
-The same songs are played there every day.
+そこへ毎日のように同じ楽曲が流れる。
 
-Music comes to be remembered as being strongly connected to the urban landscape.
+音楽は都市の風景と強く結び付いて記憶されるようになる。
 
-This experience is different from listening to music once in a club.
+この体験は、クラブで一度だけ聴く音楽とは性格が異なる。
 
-By repeatedly appearing in people"s lives, Amapiano transformed into a sound that symbolized people"s daily lives.
+生活の中に繰り返し現れることで、Amapianoは人々の日常そのものを象徴するサウンドへ変化していった。
 
-> Amapiano has grown as ""music to be shared with the entire city" rather than ""music to listen to alone."
+> Amapianoは「一人で聴く音楽」ではなく、「街全体で共有する音楽」として成長していった。
 
 <div class="mermaid">
 graph LR
 A[DJ・Producer] --> B[Taxi Driver]
-B --> C[all passengers]
-C --> D[Word of mouth in town]
-D --> E[event]
+B --> C[乗客全員]
+C --> D[街で口コミ]
+D --> E[イベント]
 E --> F[SNS]
-F --> G[to the world]
+F --> G[世界へ]
 </div>
 
 ---
 
-## Amapiano spread to the world
+## 世界へ広がったAmapiano
 
-### Expansion to African countries
+### アフリカ各国への広がり
 
-In the late 2010s, Amapiano spread not only within South Africa but also to surrounding countries.
+2010年代後半になると、Amapianoは南アフリカ国内だけではなく周辺国へも広がっていく。
 
-Botswana.
+ボツワナ。
 
-Namibia.
+ナミビア。
 
-Zimbabwe.
+ジンバブエ。
 
-Mozambique.
+モザンビーク。
 
-Eswatini.
+エスワティニ。
 
-South African television, radio, and music culture have long been a major influence in neighboring countries, and Amapiano was naturally accepted.
+近隣諸国では以前から南アフリカのテレビ、ラジオ、音楽文化の影響が大きく、Amapianoも自然な流れで受け入れられた。
 
-DJs from each region add their own unique arrangements, creating a new regional flavor.
+各地域のDJが独自のアレンジを加え、新しい地域色も生まれていく。
 
-### Interaction with world-class artists
+### 世界的なアーティストとの交流
 
-In the 2020s, Amapiano producers and DJs have more opportunities to perform at festivals in Europe and North America.
+2020年代にはAmapianoのプロデューサーやDJが欧州や北米のフェスティバルへ出演する機会が増えた。
 
-In addition, collaborations with artists from other genres such as Afrobeats, house, hip-hop, and R&B will become more active.
+また、アフロビーツ、ハウス、ヒップホップ、R&Bなど他ジャンルのアーティストとの共同制作も活発になる。
 
-The number of songs that incorporate Log Drum and works that apply Amapiano's unique rhythms has increased, and this style has come to have an influence on popular music around the world.
+Log Drumを取り入れた楽曲や、Amapiano特有のリズムを応用した作品も増え、このスタイルは世界のポピュラー音楽へ影響を与える存在となった。
 
-Yet the core characteristics of the genre remain rooted in South African urban culture.
+それでもジャンルの核となる特徴は、南アフリカの都市文化に根ざしたままである。
 
-### Not "exported music"
+### 「輸出された音楽」ではない
 
-Many global hits are often produced with overseas markets in mind.
+多くのグローバルヒットは、海外市場を意識して制作されることが少なくない。
 
-Amapiano, on the other hand, was first and foremost music created for the community.
+一方、Amapianoはまず地域社会のために作られた音楽だった。
 
-People dancing in the street.
+街で踊る人々。
 
-People commuting by taxi.
+タクシーで通勤する人々。
 
-Young people gather for local events.
+地域イベントへ集まる若者。
 
-Because it grew up as a music that was closely associated with everyday life, it did not lose its uniqueness even when it later spread around the world.
+その日常に寄り添う音楽として育ったからこそ、後に世界へ広がっても独自性を失わなかった。
 
-Being local has led to its global appeal.
+ローカルであることが、そのままグローバルな魅力につながったのである。
 
-### An era in which urban culture reaches the world
+### 都市文化が世界へ届く時代
 
-Before the Internet, it took a long time for local culture to spread to the world.
+インターネット以前、地域文化が世界へ伝わるには長い時間が必要だった。
 
-However, now a single dance video or live video can reach all over the world within a few days.
+しかし現在では、一つのダンス動画やライブ映像が数日で世界中へ届く。
 
-Amapiano is one of the genres that symbolizes this change.
+Amapianoは、その変化を象徴するジャンルの一つである。
 
-However, behind its worldwide popularity is the history of urban culture that has been built up over many years.
+ただし、世界的人気の背景には長年にわたって積み重ねられた都市文化の歴史がある。
 
-Because of the foundation laid by taxi culture, we were able to take full advantage of the dissemination power of the digital age.
+タクシー文化が築いた土台があったからこそ、デジタル時代の拡散力を最大限に生かすことができた。
 
-> Behind South Africa"s global success lies decades of South Africa"s urban culture.
+> 世界的な成功の背景には、何十年にもわたって育まれた南アフリカの都市文化が存在していた。
 
 <div class="mermaid">
 flowchart LR
-A[township]
+A[タウンシップ]
 A --> B[Taxi Culture]
 B --> C[Amapiano]
 C --> D[southern africa]
-D --> E[clubs of the world]
-E --> F[world music scene]
+D --> E[世界のクラブ]
+E --> F[世界の音楽シーン]
 </div>
 
 ---
 
 ## Amapiano's idea that "cities foster music"
 
-### Music doesn't just happen in the studio
+### 音楽はスタジオだけで生まれるものではない
 
 Looking back at music history, many genres are deeply tied to specific cities or regions.
 
-New Orleans jazz.
+ニューオーリンズのジャズ。
 
-Kingston reggae.
+キングストンのレゲエ。
 
 Chicago house.
 
-Detroit techno.
+デトロイトのテクノ。
 
-All of these were born naturally from the local living environment and community.
+これらはすべて、その土地の生活環境やコミュニティから自然に生まれた。
 
-The same goes for Amapiano.
+Amapianoも同じである。
 
-The setting was not a luxurious recording studio, but the everyday life of a township.
+その舞台となったのは、豪華なレコーディングスタジオではなく、タウンシップの日常だった。
 
-daily commute.
+毎日の通勤。
 
-A taxi stand where people gather.
+人々が集まるタクシー乗り場。
 
 Regional events.
 
-dancing on the street.
+路上でのダンス。
 
-These casual scenes gradually developed the uniqueness of the genre.
+こうした何気ない風景が、ジャンルの個性を少しずつ育てていった。
 
-### Infrastructure creates culture
+### インフラが文化を作る
 
-Transportation networks are usually discussed from economic and urban planning perspectives.
+交通網は通常、経済や都市計画の視点で語られることが多い。
 
-But in South Africa, the minibus taxi network also functioned as cultural infrastructure.
+しかし南アフリカでは、ミニバスタクシー網が文化のインフラとしても機能した。
 
-It's not just about transporting people.
+人を運ぶだけではない。
 
-carry music.
+音楽を運ぶ。
 
-Carry trends.
+流行を運ぶ。
 
-carry the dance.
+ダンスを運ぶ。
 
-carry the words.
+言葉を運ぶ。
 
-By connecting different parts of the city, music that had previously been localized became shared across a wide range of areas.
+都市の各地域を結び付けることで、それまで局所的だった音楽が広い範囲へ共有されるようになった。
 
-If the same transportation network as we have today did not exist, Amapiano's spread may have been different.
+もし現在と同じ交通ネットワークが存在しなかったなら、Amapianoの広がり方も異なっていた可能性がある。
 
-The very structure of the city supported the development of musical culture.
+都市の仕組みそのものが、音楽文化の発展を支えていたのである。
 
-### "Where you listen" changes the genre
+### 「聴く場所」がジャンルを変える
 
-Even the same song has different impressions depending on where you listen to it.
+同じ楽曲でも、どこで聴くかによって印象は変わる。
 
-Music you listen to at the club.
+クラブで聴く音楽。
 
-Music you listen to in church.
+教会で聴く音楽。
 
-Music to listen to at home using headphones.
+自宅でヘッドホンを使って聴く音楽。
 
-And listening to music while looking out at the city in a taxi.
+そしてタクシーで街を眺めながら聴く音楽。
 
-Amapiano was a great fit for this last environment.
+Amapianoは、この最後の環境との相性が非常に良かった。
 
-You won't get tired even if you run for a long time.
+長時間流れていても疲れない。
 
-Don't interrupt the conversation.
+会話を邪魔しない。
 
-I can feel the bass clearly.
+低音はしっかり感じられる。
 
-It overlaps with the city scenery and nature.
+街の風景と自然に重なる。
 
-These conditions also influenced the genre's sound design.
+こうした条件が、ジャンルのサウンドデザインにも影響を与えていった。
 
-### Perspectives common to cities around the world
+### 世界の都市にも共通する視点
 
-Amapiano's history is not just a South African story.
+Amapianoの歴史は、南アフリカだけに当てはまる話ではない。
 
-Many cities have their own unique means of transportation and public spaces.
+多くの都市には、その土地ならではの交通手段や公共空間がある。
 
-Station square.
+駅前広場。
 
-market.
+市場。
 
-subway.
+地下鉄。
 
-bus.
+バス。
 
-park.
+公園。
 
-Music often spreads through places where people gather.
+音楽は、こうした人々が集まる場所を通じて広がることが少なくない。
 
-Even with the widespread use of the Internet, local communities have not lost their ability to create new cultures.
+インターネットが普及した現在でも、地域コミュニティが新しい文化を生み出す力は失われていない。
 
-Amapiano can be said to be a representative example of this.
+Amapianoは、そのことを改めて示した代表的な事例と言える。
 
-> Daily life in the city itself can become the greatest creative space for nurturing new musical genres.
+> 都市の日常生活そのものが、新しい音楽ジャンルを育てる最も大きな創造空間になり得る。
 
 ---
 
-## The process leading up to the birth of Amapiano
+## Amapiano誕生までの流れ
 
 <div class="mermaid">
 flowchart TD
-A[Urban structure during apartheid]
-A --> B[Formation of township]
-B --> C[Expansion of minibus taxi network]
-C --> D[Sharing travel time]
-D --> E[music sharing]
-E --> F[Kwaito・House culture]
-F --> G[DIY music production]
-G --> H[Birth of Amapiano]
-H --> I[dance culture]
-I --> J[Global spread through SNS]
+A[アパルトヘイト時代の都市構造]
+A --> B[タウンシップの形成]
+B --> C[ミニバスタクシー網の拡大]
+C --> D[移動時間の共有]
+D --> E[音楽の共有]
+E --> F[Kwaito・House文化]
+F --> G[DIY音楽制作]
+G --> H[Amapiano誕生]
+H --> I[ダンス文化]
+I --> J[SNSによる世界的拡散]
 </div>
 
 ---
 
-## Relationship between taxi culture and Amapiano
+## タクシー文化とAmapianoの関係
 
 <div class="mermaid">
 mindmap
@@ -908,55 +907,55 @@ mindmap
 
 ---
 
-## summary
+## まとめ
 
-Amapiano is not music that was suddenly invented by one artist.
+Amapianoは、一人のアーティストが突然発明した音楽ではない。
 
-Urban life in South Africa.
+南アフリカの都市生活。
 
-township community.
+タウンシップのコミュニティ。
 
-A transportation network called minibus taxi.
+ミニバスタクシーという交通網。
 
-DJ culture.
+DJ文化。
 
-History of Kwaito.
+Kwaitoの歴史。
 
-and daily travel time.
+そして日々の移動時間。
 
-These have been accumulated over many years and have come to fruition as a genre.
+これらが長い年月をかけて積み重なり、一つのジャンルとして結実した。
 
-Around the world, Amapiano is often talked about solely in terms of Log Drum and dance.
+世界中では、AmapianoをLog Drumやダンスだけで語ることも多い。
 
-However, once you understand the urban culture behind it, this music takes on a completely different appearance.
+しかし、その背景にある都市文化を知ると、この音楽はまったく違った姿を見せる。
 
-Taxis were more than just a means of transportation; they were a place where people encountered new music.
+タクシーは単なる交通手段ではなく、人々が新しい音楽と出会う場所だった。
 
-The driver was the music picker and the passenger was the first listener.
+運転手は選曲家であり、乗客は最初のリスナーだった。
 
-The stops became dance floors, and the entire city functioned as a gigantic live venue.
+停留所はダンスフロアとなり、街全体が巨大なライブ会場として機能していたのである。
 
-Nowadays, streaming services and SNS instantly deliver music from all over the world.
+現在ではストリーミングサービスやSNSが世界中の音楽を瞬時に届ける。
 
-Still, the places where new cultures first sprout are still communities where people actually gather and share their lives.
+それでも、新しい文化が最初に芽吹く場所は、今も人々が実際に集まり、生活を共有するコミュニティであることに変わりはない。
 
-Amapiano's history is one of the most representative examples in modern music history of how music grows with cities.
+Amapianoの歴史は、音楽が都市とともに成長することを示した現代音楽史の代表的な事例の一つである。
 
-> Amapiano is not "music born from taxis." To be more precise, it is music that grew out of daily life in the city, people's movement, and shared time.
+> Amapianoは「タクシーから生まれた音楽」ではない。正確には、都市の日常、人々の移動、そして共有された時間が育てた音楽なのである。
 
 ---
 
-## Glossary
+## 用語集
 
-| Terminology | Explanation |
-| -------------------- | ----------------------------------------------------- |
-| **Amapiano** | Dance music based on house music that was formed around Gauteng, South Africa in the early 2010s.       |
-| **Taxi (minibus taxi)** | A shared transportation system that seats around 16 people and is widely used in South Africa. A central presence in urban transportation.                     |
-| **Township** | A residential area formed by apartheid-era policies. Today, it remains a base for a variety of cultural activities.              |
-| **Kwaito** | South Africa's unique dance music that spread in the 1990s. It became an important musical foundation for Amapiano.         |
-| **Log Drum** | Amapiano's signature electronic bass sound. It refers to the tones produced by synthesizers, etc., rather than the wooden percussion instruments themselves. |
-| **DIY production** | A style in which individuals produce music at home using a PC or DAW. This was a major factor in the spread of Amapiano.         |
+| 用語                   | 解説                                                          |
+| -------------------- | ----------------------------------------------------------- |
+| **Amapiano**         | 2010年代前半に南アフリカ・ハウテン州周辺で形成されたハウスミュージックを基盤とするダンスミュージック。       |
+| **Taxi（ミニバスタクシー）**   | 南アフリカで広く利用される16人乗り前後の乗合交通機関。都市交通の中心的存在。                     |
+| **Township（タウンシップ）** | アパルトヘイト時代の政策によって形成された居住地区。現在も多様な文化活動の拠点となっている。              |
+| **Kwaito**           | 1990年代に広まった南アフリカ独自のダンスミュージック。Amapianoの重要な音楽的土台となった。         |
+| **Log Drum**         | Amapianoを象徴する電子的な低音サウンド。木製打楽器そのものではなく、シンセサイザーなどで生成される音色を指す。 |
+| **DIY制作**            | 個人が自宅などでPCやDAWを使って音楽制作を行うスタイル。Amapiano普及の大きな要因となった。         |
 
-> Tracing the history of Amapiano is also about understanding how South Africa"s urban culture and people"s daily lives fostered global music.
+> Amapianoの歴史をたどることは、南アフリカの都市文化と、人々の日常生活がどのように世界的な音楽を育てたのかを理解することでもある。
 
 ---

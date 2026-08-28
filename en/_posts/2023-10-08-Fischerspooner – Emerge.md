@@ -12,11 +12,11 @@ title: Fischerspooner – Emerge
 ---
 
 
-"Emerge" is a song by the American electronic duo Fischerspooner. This song is included in their debut album "# 1" (2001).
+「Emerge」は、アメリカのエレクトロニックデュオ、フィッシャースプーナー（Fischerspooner）による楽曲です。この曲は、彼らのデビューアルバム「# 1」（2001年）に収録されています。
 
-"Emerge" embodies Fischer Spooner's signature sound, combining elements of dance music and art performance. The song features a minimalist, groovy beat, synthesizer riffs, and unique vocal style.
+「Emerge」は、ダンスミュージックとアートパフォーマンスの要素を組み合わせたフィッシャースプーナーの特徴的なサウンドを体現しています。曲は、ミニマルでグルーヴィなビート、シンセサイザーのリフ、独特なヴォーカルスタイルが特徴です。
 
-"Emerge" is known as a song that pursues excitement on the dance floor while having a dark and emotional atmosphere. The combination of fast-paced rhythms and unique soundscapes captivates listeners.
+「Emerge」は、ダークでエモーショナルな雰囲気を持ちながらも、ダンスフロアでの盛り上がりを追求した楽曲として知られています。疾走感のあるリズムとユニークなサウンドスケープが組み合わさり、聴く人々を魅了します。
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ A. Emerge
 B. Emerge (Adult Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m95864985742?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95864985742?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i70xb7i4Dmc?si=LrTDhhKq5bpfj6sN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

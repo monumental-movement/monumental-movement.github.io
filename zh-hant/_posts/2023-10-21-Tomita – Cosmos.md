@@ -9,15 +9,15 @@ permalink: /zh-hant/tomita-cosmos/
 tags:
 - Ambient
 - Classic
-title: 富田 – 宇宙
+title: Tomita – Cosmos
 ---
 
 
-《宇宙》是富田功與太空相關的音樂作品之一，它以科學與音樂結合的方式表達宇宙的神秘與宏偉，充分利用電子音樂和合成器在音樂上表達宇宙的形象。
+「宇宙幻想」（"Cosmos"）は、冨田勲による宇宙に関連する音楽作品の一つで、宇宙の神秘さや壮大さを科学と音楽を組み合わせ、宇宙のイメージを音楽的に表現するために電子音楽とシンセサイザーを駆使して作曲されました。
 
-《Space Fantasy》是一張以宇宙中的恆星、星系和行星為靈感的音樂，是一張凸顯富田勳合成器技術和聲音設計的專輯。
+「宇宙幻想」は、宇宙の星々や銀河、惑星などにインスパイアを受けた音楽であり、冨田勲のシンセサイザーのテクニックとサウンドデザインが際立つアルバムです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Space Fantasy
 
@@ -36,7 +36,7 @@ B3. Hora Staccato
 B4. The Sea Named "Solaris"
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m33587379551?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33587379551?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Phi1YRxzjLo?si=orOw5yE-BpSx2VJj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

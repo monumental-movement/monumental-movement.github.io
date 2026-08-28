@@ -12,11 +12,11 @@ title: MSTRKRFT – Work On You
 ---
 
 
-Mstrkrft (Mastercraft) is a Canadian electronic duo formed in 2005 by Jesse F. Keeler of Death from Above (DFA 1979) and Al-P (Alex Puodziukas) of the electropop group Girlsareshort.
+Mstrkrft（マスタークラフト)は、2005年にDeath from Above (DFA /デス・フロム・アバヴ 1979)のJesse F. Keelerと、エレクトロポップ・グループGirlsareshortのAl-P（Alex Puodziukas）によって結成されたカナダのエレクトロニックデュオ。
 
-"Work On You" is an Electro track released by Australian label Modular Recordings in 2006.
+「Work On You」は、2006年にオーストラリアのレーベルModular RecordingsからリリースされたElectroトラック。
 
-B1 is a remix by Para One, a French electronic producer known for the soundtrack of the French film "Water Lilies."
+B1は、フランスのエレクトロニックプロデューサーであり、フランス映画『水の中のつぼみ』（Water Lilies） のサウンドトラックで知られるPara One によるremix。
 
 #### Tracklist
 ```md

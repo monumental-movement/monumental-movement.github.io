@@ -10,21 +10,21 @@ tags:
 - Avant-garde
 - Metal
 - Experimental
-title: '[Column] Avant-Garde Metal / Experimental Metal'
+title: 【コラム】 Avant-Garde Metal / Experimental Metal（前衛メタル／実験メタル）
 ---
 
 
 
-## Prologue
+## 序章
 
-Text: mmr｜Theme: Redesigning the structure, time, and gravity of avant-garde metal/experimental metal
+文：mmr｜テーマ：前衛メタル／実験メタルの構造・時間・重力の再設計について
 
 
-Avant-Garde Metal is not a genre, but rather a structural reexamination of the metal musical system.
+Avant-Garde Metal はジャンルではなく、メタルという音楽体系に対する構造的再検討の総体である。
 
-The trend known as Avant-Garde Metal or Experimental Metal is not defined by the extremeness of the sound or the sophistication of technique. Its essence lies in an attitude of questioning the structure, time, repetition, and center of gravity that metal has always assumed, and redesigning them.
+Avant-Garde Metal、あるいは Experimental Metal と呼ばれる潮流は、音の過激さや技巧の高度化によって定義されるものではない。その本質は、メタルが前提としてきた構造、時間、反復、重心を疑い、それらを再設計する態度にある。
 
-In this article, I will reconsider avant-garde metal not as a deviant expression, but as a structural ideology. At its center are Gorguts and Maudlin of the Well. Both artists dismantled and rebuilt the internal structure of metal music from different directions.
+本稿では、前衛メタルを逸脱的表現としてではなく、構造思想として捉え直す。その中心に位置するのが Gorguts と Maudlin of the Well である。両者は異なる方向から、メタルという音楽の内部構造を解体し、再構築した。
 
 ---
 
@@ -33,7 +33,7 @@ In this article, I will reconsider avant-garde metal not as a deviant expression
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,167 +42,175 @@ color: #fff;
 </style>
 
 
-## Structural assumptions in metal
+## メタルにおける構造的前提
 
-To understand avant-garde metal, it is first necessary to clarify what normal metal is based on.
+前衛メタルを理解するには、まず通常のメタルが何を前提として成立しているかを明確にする必要がある。
 
-Traditional metal has been formed as a collection of structural assumptions such as the following.
+伝統的メタルは、以下のような構造的前提の集合体として形成されてきた。
 
-* Beat is stable and perceptible
-* Riffs are repeated and create gravity
-* Double beats serve as time reference points
-* Songs have a circular structure
-* The climax is designed as a reaching point.
+* 拍子は安定して知覚可能である
+* リフは反復され、重力を生む
+* 重拍は時間の基準点として機能する
+* 楽曲は循環構造を持つ
+* クライマックスは到達点として設計される
 
-Avant-Garde Metal does not deny these assumptions in part, but invalidates them as a system.
-
----
-
-## Redefining avant-garde
-
-Avant-garde is not about eccentricity or radicalness, but rather the ability to dismantle existing grammar from within.
-
-The reason why Avant-Garde Metal is perceived as difficult is not because of its excessive emotional expression, but because the structures that listeners have unconsciously relied on no longer function. The meter is present but unreliable, the riff is presented but doesn"t stick, and even though it develops, predictions don"t come true.
+Avant-Garde Metal は、これらの前提を部分的に否定するのではなく、体系として無効化していく。
 
 ---
 
-## Evolution and divergence of extreme music
+## 前衛性の再定義
 
-In the late 1980s and early 1990s, death metal rapidly became more extreme in terms of speed, sonic pressure, and density. However, quantitative expansion eventually reached a saturation point, and some artists began to question the structure itself.
+前衛性とは、奇抜さや過激さではなく、既存文法を内部から解体する能力である。
 
-At this turning point, avant-garde metal was born. Rather than further increasing speed and weight, the choice was to dismantle the structural conditions under which they were established.
-
----
-
-## Establishment of structural avant-garde metal
-
-When structure becomes problematic, metal moves to a new stage. Riffs become fragments rather than repeating units, time signatures become disturbances rather than standards, and songs progress as irreversible changes rather than cycles.
+Avant-Garde Metal が難解と受け取られる理由は、感情表現の過剰さではなく、聴取者が無意識に依存してきた構造が機能しなくなる点にある。拍子は存在していても信用できず、リフは提示されても定着せず、展開はあっても予測が成立しない。
 
 ---
 
-## Gorguts: Structural design as destruction
+## 極端音楽の進化と分岐
 
-Gorguts dismantled death metal itself from the inside out, using its vocabulary to its fullest.
+1980年代後半から1990年代初頭にかけて、デスメタルは速度、音圧、密度の面で急速に極端化した。しかし、量的拡張はやがて飽和点に達し、一部のアーティストは構造そのものを問い直す方向へと進んだ。
 
-In their music, riffs are present but without driving force, time signatures are notated but unstable, and developments are perceived as ruptures rather than continuity. This is not the introduction of elements outside the genre, but an avant-garde effect created by distorting the internal grammar.
+この分岐点において、前衛メタルは誕生した。速さや重さをさらに増すのではなく、それらが成立していた構造条件を解体するという選択である。
 
 ---
 
-## Gorguts riff design principle
+## 構造的前衛メタルの成立
 
-Gorguts' riffs deliberately reject the gravity of repetition. Phrase lengths are unequal, pitch relationships have no resolution, and start and end points are treated equally.
+構造が問題化されたとき、メタルは新しい段階へ移行する。リフは反復単位ではなく断片となり、拍子は基準ではなく攪乱要因となり、楽曲は循環ではなく不可逆的な変質として進行する。
 
-The riff is not a device that propels the song forward, but rather serves as a momentary cross-section to present a structural state.
+---
+
+## Gorguts：破壊としての構造設計
+
+Gorguts は、デスメタルの語彙を最大限に用いることで、デスメタルそのものを内側から解体した。
+
+彼らの音楽では、リフは存在するが推進力を持たず、拍子は表記されていても安定せず、展開は連続ではなく断裂として知覚される。これはジャンル外要素の導入ではなく、内部文法の歪曲による前衛性である。
+
+---
+
+## Gorguts のリフ設計原理
+
+Gorguts のリフは、反復による重力を意図的に拒否する。フレーズ長は不均等で、音程関係は解決を持たず、始点と終点は等価に扱われる。
+
+リフは楽曲を前進させる装置ではなく、構造状態を提示するための瞬間的な断面として機能する。
 
 <div class="mermaid">
 flowchart TD
-    A["Pitch fragment"] --> B["Asymmetric arrangement"]
-    B --> C["Repeat Rejection"]
+    A["音程断片"] --> B["非対称配置"]
+    B --> C["反復拒否"]
 </div>
 
 ---
 
-## Rhythm structure of Gorguts
+## Gorguts のリズム構造
 
-Gorguts does not erase the meter, but it creates a state in which the meter cannot be trusted. The phrases do not converge to the beat, and instead of emphasizing the double beats, the drums play the role of cutting off the sense of beat.
+Gorguts は拍子を消去しないが、拍子を信用できない状態を作り出す。フレーズは拍に収束せず、ドラムは重拍を強調する代わりに、拍感を切断する役割を担う。
 
-This rhythm is not a polyrhythm, but should be called a beat-deconstructed rhythm.
-
----
-
-## Album analysis: Gorguts "Obscura"
-
-In Obscura, Gorguts' structural ideas are realized in an extreme form. The songs are not a collection of riffs, but rather a chain of fragmented pitch arrangements and unstable rhythms.
-
-* There is no hierarchical relationship between riffs
-* Time signature change does not indicate a structural change
-* Dissonance becomes the norm and the concepts of tension and release disappear.
-
-As a result, the entire album comes across as one giant structural experiment.
+このリズムはポリリズムではなく、拍感解体型リズムと呼ぶべきものである。
 
 ---
 
-## Album analysis: Gorguts "From Wisdom to Hate"
+## アルバム分析：Gorguts『Obscura』
 
-In this work, the structural deconstruction established in Obscura is partially controlled. The riffs are still non-functional, but they give some order to their placement and slightly restore the readability of the structure.
+『Obscura』において、Gorguts の構造思想は極端な形で具現化される。楽曲はリフの集合体ではなく、断片化された音程配置と不安定なリズムの連鎖として構成されている。
 
-This balance is an important transition point between complete dissolution and complete regression.
+* リフ間に階層関係が存在しない
+* 拍子変更が構造転換を示さない
+* 不協和が常態化し、緊張と解放の概念が消失する
 
----
-
-## Maudlin of the Well: Internalized avant-garde
-
-Maudlin of the Well's avant-garde is based not on destruction but on internalization. They destabilize the structure by running multiple musical periods simultaneously.
+結果として、アルバム全体は一つの巨大な構造実験として知覚される。
 
 ---
 
-## Multilayer time structure
+## アルバム分析：Gorguts『From Wisdom to Hate』
 
-Maudlin of the Well's songs have multiple layers of metal time, chamber music time, and ambient time.
+この作品では、『Obscura』で確立された構造解体が部分的に制御される。リフは依然として非機能的だが、配置には一定の秩序が与えられ、構造の可読性がわずかに回復する。
 
-These time layers are not integrated and always coexist with a gap between them.
+このバランスは、完全な解体と完全な回帰の間に位置する重要な過渡点である。
+
+---
+
+## Maudlin of the Well：内在化された前衛性
+
+Maudlin of the Well の前衛性は、破壊ではなく内在化によって成立している。彼らは複数の音楽的時間を同時に走らせることで、構造を不安定化させる。
+
+---
+
+## 多層時間構造
+
+Maudlin of the Well の楽曲には、メタル的時間、室内楽的時間、アンビエント的時間が重層的に存在する。
+
+これらの時間層は統合されることなく、常にずれを保ったまま共存する。
 
 <div class="mermaid">
 flowchart TD
-    A["delay layer"] --> D["Multi-layered space"]
-    B["Acceleration layer"] --> D
-    C["Stationary layer"] --> D
+    A["遅延層"] --> D["重層空間"]
+    B["加速層"] --> D
+    C["静止層"] --> D
 </div>
 
 ---
 
-## Breathing rhythm
+## リズムの呼吸化
 
-Their rhythm is not a beat, but more like a breath or the length of a story. The tempo is not fixed, and the drums play a role in regulating spatial density rather than being a time keeper.
-
----
-
-## Album Analysis: Maudlin of the Well "Bath"
-
-In "Bath," the intense metal section and the quiet chamber music part are clearly separated, yet coexist within the same song. The structure is not linear, but progresses as a movement in psychological space.
+彼らのリズムは拍ではなく、呼吸や語りの長さに近い。テンポは固定されず、ドラムは時間管理者ではなく、空間密度を調整する役割を担う。
 
 ---
 
-## Album Analysis: Maudlin of the Well "Leaving Your Body Map"
+## アルバム分析：Maudlin of the Well『Bath』
 
-In this work, the separation of structures goes even further. The songs are structured as transitions of states rather than developments, and the concept of climax virtually disappears.
+『Bath』では、激しいメタルセクションと静謐な室内楽的パートが明確に分離されながらも、同一楽曲内で共存する。構造は直線的ではなく、心理的空間の移動として進行する。
 
 ---
 
-## Comparison of both structural ideas
+## アルバム分析：Maudlin of the Well『Leaving Your Body Map』
 
-| Perspective | Gorguts | Maudlin of the Well |
+この作品では、構造の分離がさらに進む。楽曲は展開ではなく、状態の遷移として構成され、クライマックスという概念は事実上消失する。
+
+---
+
+## 両者の構造思想比較
+
+| 観点  | Gorguts | Maudlin of the Well |
 | --- | ------- | ------------------- |
-| Method | Demolition | Layering |
-| Time | Rupture | Parallel |
-| Rhythm | Destruction of pulse sensation | Breathing control |
-| Dissonance | Structural Armament | Spatial Direction |
+| 方法  | 解体      | 重層                  |
+| 時間  | 断裂      | 並行                  |
+| リズム | 拍感破壊    | 呼吸制御                |
+| 不協和 | 構造武装    | 空間演出                |
 
 ---
 
-## Influence and inheritance of avant-garde metal
+## 前衛メタルの影響と継承
 
-Avant-garde metal didn't create a genre, it left behind a way of thinking. In subsequent extreme music, structure became as important as, or even more important than, expression.
+前衛メタルはジャンルを形成するのではなく、思考法を残した。以降の極端音楽において、構造は表現と同等、あるいはそれ以上に重要な要素となる。
 
 ---
 
-## Chronology: Transition of structure-oriented metal
+## 年表：構造志向メタルの推移
 
-| Age | Structural trends |
+| 年代       | 構造的動向      |
 | -------- | ---------- |
-| Late 1980s | Expansion of extreme music |
-| Early 1990s | Dissonance/odd time signature |
-| Late 1990s | Structural demolition type avant-garde metal |
-| 2000s | Introspective/spatial structure |
-| Since the 2010s | Structural thinking has become the norm |
+| 1980年代後半 | 極端音楽の拡張    |
+| 1990年代前半 | 不協和・変拍子    |
+| 1990年代後半 | 構造解体型前衛メタル |
+| 2000年代   | 内省型・空間型構造  |
+| 2010年代以降 | 構造思考の常態化   |
 
 ---
 
-## Conclusion
+## 結語
 
-Gorguts and Maudlin of the Well are not polar opposites of avant-garde metal. They are different coordinates that exist on the same structural axis.
+Gorguts と Maudlin of the Well は、前衛メタルの両極ではない。同一の構造軸上に存在する、異なる座標である。
 
-Avant-garde metal is not a movement that radicalizes music, but an act that continues to question the very conditions under which music exists. The question remains unfinished and is being updated.
+前衛メタルとは、音楽を過激にする運動ではなく、音楽が成立する条件そのものを問い続ける行為である。その問いは現在も未完のまま更新され続けている。
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1h4dYi21L8?si=2AHCPp4flHr6CNx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

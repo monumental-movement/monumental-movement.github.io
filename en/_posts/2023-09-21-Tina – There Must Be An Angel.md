@@ -12,9 +12,9 @@ title: Tina – There Must Be An Angel
 ---
 
 
-This is a cover of the famous song EURYTHMIC from the NEW WAVE period.
+NEW WAVE期の名曲ユーリズミックス (EURYTHMIC)のカバーです。
 
-A popular work from the 90's that covers English in a light and soulful way.
+軽やかでソウルフルに英語カバーした９０年代の人気作。
 
 #### Tracklist
 ```md
@@ -25,5 +25,5 @@ B1  There Must Be An Angel (Instrumental)
 B2  There Must Be An Angel (A Cappella)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m20772595630?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20772595630?afid=6142608987){: .button1}
 

@@ -13,8 +13,8 @@ title: Rei Harakami – [lust]
 ---
 
 
-"Rei Harakami – [lust]" is
-Rei Harakami's fourth original album released in 2005.
+「Rei Harakami – [lust]」は、
+2005年リリースのレイハラカミ４枚目のオリジナルアルバム。
 
 
 #### Tracklist

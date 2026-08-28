@@ -8,13 +8,13 @@ layout: post
 tags:
 - House
 - Tribal
-title: Submission Dj"s – Maringa
+title: Submission Dj's – Maringa
 ---
 
 
-Submission Dj's is a unit of Spanish DJs Juan Maria Diaz Fernandez (Submission DJ/Submission) and Daniel David Fernández (DJ Farrukeit).
+Submission Dj's（サブミッションDj's）は、スペインのDJ、Juan Maria Diaz Fernandez(SubmissionDJ/Submission)とDaniel David Fernández(DJ Farrukeit)のユニット。
 
-Released in 2009 on Tribal Spain Recordings, a sublabel of Spanish label Vendetta Records (house division of Blanco Y Negro Music S.A.).
+スペインのレーベルVendetta Records(Blanco Y Negro Music S.A.のハウス部門)のサブレーベルTribal Spain Recordingsからの2009年リリース。
 
 #### Tracklist
 ```md
@@ -23,7 +23,7 @@ A1. Maringa (Tribal Mix)
 AA1. Maringa (Tech Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m14084306247?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14084306247?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cvDY-_4GPko?si=jASZ48z5mBQmxs_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

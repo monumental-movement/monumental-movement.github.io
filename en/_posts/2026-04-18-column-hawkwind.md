@@ -18,19 +18,19 @@ title: '[Column] The repeating device that made the universe ring: Hawkwind''s t
 
 ## Invention called space lock
 
-Text: mmr｜Theme: Genealogy of musical consciousness expansion that connects repetition, space, and technology
+文：mmr｜テーマ：反復・宇宙・テクノロジーが結びついた音楽的意識拡張の系譜
 
-### From underground London to space
+### ロンドン地下から宇宙へ
 
 Emerging from London's underground scene in 1969, Hawkwind hold a unique place in rock history. They redefined music as a ""spatial experience'' rather than just an extension of psychedelic rock.
 
 The central figure, Dave Brock, starts with blues and folk, but gradually moves toward layering repetition, drone, and electronic sounds. In the process, the band converged into a unique style with a certain rhythm and structure, although improvisation is at its core.
 
-Their music is often referred to as "space rock," but that"s not just an atmospheric metaphor. Sustained beats, siren-like synth sounds, and spoken word vocals. When they come together, the listener"s perception is separated from their everyday sense of time.
+彼らの音楽はしばしば「スペース・ロック」と呼ばれるが、それは単なる雰囲気的な比喩ではない。持続するビート、サイレンのようなシンセサウンド、語りのようなボーカル。それらが一体となることで、聴き手の知覚は日常的な時間感覚から切り離される。
 
 At this point, the key elements that would later lead to techno and ambient music were already in place. Repetition, trance, and mechanical rhythm.
 
->Hawkwind was not based on the theme of ""space," but was an entity that created ""cosmic perception itself" through sound.
+> Hawkwindは「宇宙」をテーマにしたのではなく、「宇宙的な知覚そのもの」を音で作り出した存在だった。
 
 ---
 
@@ -49,59 +49,59 @@ color: #fff;
 
 
 
-## Representative works and the core of the sound
+## 代表作とサウンドの核
 
-### Space experience as a sound source
+### 音源としての宇宙体験
 
-Hawkwind's uniqueness is evident not only in their live performances, but also in their studio work. Here, we will take up representative works and organize their structures and meanings.
+Hawkwindの特異性はライブだけでなく、スタジオ作品にも明確に刻まれている。ここでは代表的な作品を取り上げ、その構造と意味を整理する。
 
 The album ""In Search of Space"' was an early turning point. It is a work that strengthens electronic sounds and narration elements, and clarifies the band"s direction. The sounds are not just pieces of music, but are arranged as a continuous experience.
 
-The follow-up, Doremi Fasol Latido, introduces a tighter repeating structure. The sustain of the riffs and the driving force of the rhythm became stronger, and the trance-like nature of the song became even more intense. The sound here is very close to later techno structures.
+続く『Doremi Fasol Latido』では、よりタイトな反復構造が導入される。リフの持続とリズムの推進力が強まり、トランス性が一段と高まった。ここでのサウンドは後のテクノ的構造に非常に近い。
 
-Their live work ""Space Ritual'' is said to be the purest record of their essence. Long durations, noise, and poetry readings are integrated, anchoring the live experience itself as a sound source.
+そしてライブ作品『Space Ritual』は、彼らの本質を最も純粋に記録したものとされる。長時間の持続、ノイズ、詩の朗読が一体化し、ライブ体験そのものが音源として固定されている。
 
 ""Silver Machine,'' widely known as their signature song, has an exceptional pop structure, but within it there is still repetition and driving force. The simple bass line and rhythm directly move the listener's body.
 
-Then there's "Master of the Universe," a heavy riff and sustained beat stretched to its limits. This song is often referred to as the prototype for later stoner rock and doom.
+さらに「Master of the Universe」では、重いリフと持続的なビートが極限まで引き伸ばされる。この楽曲は、後のストーナーロックやドゥームの原型としても言及されることが多い。
 
 <div class="mermaid">
 graph TD
-A[In Search of Space] --> B[Expansion of electronic sounds]
+A[In Search of Space] --> B[電子音の拡張]
 B --> C[Doremi Fasol Latido]
 C --> D[Repetition reinforcement]
 D --> E[Space Ritual]
-E --> F[Fixed experience]
+E --> F[体験の固定化]
 </div>
 
-What these works have in common is that the songs do not have a ""beginning and an end," but are designed as ""spaces in which to stay."
+これらの作品に共通するのは、楽曲が「始まりと終わり」を持つものではなく、「滞在する空間」として設計されている点だ。
 
-> Hawkwind's masterpieces are not constructed as a collection of songs, but as a continuum that moves the consciousness.
+> Hawkwindの代表作は、曲の集合ではなく、意識を移動させるための連続体として構築されている。
 
 ---
 
 
-## Repetition and Trance Structure
+## 反復とトランスの構造
 
-### Connection with Motorik
+### モータリックとの接続
 
-What is essential when talking about Hawkwind's characteristics is the existence of a sustained beat. This has a quality that resonates with the motorik rhythm of German krautrock.
+Hawkwindの特徴を語るうえで欠かせないのが、持続するビートの存在だ。これはドイツのクラウトロックにおけるモータリック・リズムと共鳴する性質を持つ。
 
-In particular, Hawkwind's approach evolved in parallel to the idea of ​​repetition developed by Neu! and Can. It is not a coincidence, but it is thought that the atmosphere of the time was a shared belief in ""transformation of consciousness through repetition''.
+特にNeu!やCanが展開した反復の思想と、Hawkwindのアプローチは並行的に進化していった。偶然ではなく、同時代の空気として「反復による意識変容」が共有されていたと考えられる。
 
-Hawkwind's songs feature simple riffs that last for long periods of time, then layered with noise and electronic sounds. This structure is surprisingly close to the basic structure of later minimal music and techno.
+Hawkwindの楽曲では、単純なリフが長時間持続し、その上にノイズや電子音が積層される。この構造は、後のミニマル・ミュージックやテクノの基本構造と驚くほど近い。
 
 <div class="mermaid">
 graph TD
-A[simple riff] --> B[a sustained rhythm]
+A[simple riff] --> B[持続するリズム]
 B --> C[Superposition of electronic sounds]
-C --> D[transformation of perception]
-D --> E[trance state]
+C --> D[知覚の変容]
+D --> E[トランス状態]
 </div>
 
-The important point here is that little change actually expands consciousness. Music is not something that progresses, but a place that lasts.
+ここで重要なのは、変化の少なさがむしろ意識を拡張する点だ。音楽は進行するものではなく、持続する場となる。
 
-> Hawkwind's iterations were designed to change perception, not just playing style.
+> Hawkwindの反復は単なる演奏スタイルではなく、知覚そのものを変えるための設計だった。
 
 ---
 
@@ -110,72 +110,72 @@ The important point here is that little change actually expands consciousness. M
 
 ### A total live experience
 
-Hawkwind's live performances are not just about music. It was designed as a comprehensive piece of art that integrated lighting, video, dancers, and poetry readings.
+Hawkwindのライブは、音楽だけでは完結しない。照明、映像、ダンサー、詩の朗読が一体となった総合芸術として設計されていた。
 
-His collaboration with writer Michael Moorcock is particularly important, as his science fiction worldview is closely tied to his music. The stage becomes a narrative space, and the audience becomes involved within it.
+His collaboration with writer Michael Moorcock is particularly important, as his science fiction worldview is closely tied to his music. The stage becomes a narrative space, and the audience becomes engulfed within it.
 
 This method also influenced later industrial and rave culture. It can be said to be an early stage in the process of music transitioning from ""something to listen to" to ""something to experience."
 
 <div class="mermaid">
 graph LR
-A[music] --> D[Comprehensive experience]
-B[picture] --> D
+A[音楽] --> D[Comprehensive experience]
+B[映像] --> D
 C[performance] --> D
 D --> E[immersion]
 </div>
 
-Additionally, the almost excessive volume and duration have a direct effect on physical sensations. This is a feature shared with later noise music.
+また、過剰とも言える音量と持続は、身体的な感覚にも直接作用する。これは後のノイズ・ミュージックとも共通する特徴だ。
 
-> Their live performance was not a concert, but an environment for reconstructing one's senses.
+> 彼らのライブはコンサートではなく、感覚を再構築するための環境そのものだった。
 
 ---
 
 
-## Lemmy and hardening sound image
+## Lemmyとハード化する音像
 
 ### Introduction to weight and velocity
 
-Hawkwind's sound changed significantly in the early 1970s, when Lemmy, who would go on to form Motörhead, was a member.
+In the early 1970s, when Lemmy, who would go on to form Motörhead, was a member, Hawkwind's sound changed significantly.
 
 Their signature song, ""Silver Machine,'' has a simple, powerful riff and a propulsive rhythm, and it instantly boosted the band's popularity. During this period, they acquire a more rock-like energy.
 
-However, what is interesting is that even after making it hard, the repetitive structure is maintained. The addition of speed and weight makes the trance even more physical.
+しかし興味深いのは、ハード化してもなお反復構造は維持されている点だ。速度と重さが加わることで、トランスの質はさらに身体的なものへと変わる。
 
 <div class="mermaid">
 graph TD
-A[repetition] --> B[heavy bass]
+A[repetition] --> B[重低音]
 B --> C[faster speed]
-C --> D[physical trance]
+C --> D[身体的トランス]
 </div>
 
 This change became a bridge to later hard rock, metal, and even industrial.
 
-> Lemmy"s addition was the turning point that changed Hawkwind"s universe into a more gravitational one.
+> Lemmyの加入は、Hawkwindの宇宙をより重力のあるものへと変えた転換点だった。
 
 ---
 
 
-## Influence on electronic music
+## 電子音楽への影響
 
-### Techno before techno
+### テクノ以前のテクノ
 
-Although Hawkwind's music is directly classified as rock, its structure clearly includes archetypes of electronic music.
+Hawkwindの音楽は、直接的にはロックに分類されるが、その構造は明らかに電子音楽の原型を含んでいる。
 
 Constant tempo, repetition, and layered structure. These are the foundations of later Detroit techno and Berlin techno. In particular, the accumulation of sustained beats and subtle changes is the same idea as the core of club music.
 
-Where Kraftwerk was all about mechanics, Hawkwind took a more organic and chaotic approach. However, both have in common that they are ""future-oriented through repetition.''
+Where Kraftwerk was all about mechanics, Hawkwind took a more organic, chaotic approach. However, both have in common that they are ""future-oriented through repetition.''
 
 <div class="mermaid">
 graph LR
 A[Hawkwind] --> B[repetition]
 B --> C[techno]
 A --> D[drone]
-D --> E[ambient]
+D --> E[アンビエント]
 </div>
 
 また、サウンドの持続性はアンビエント的な側面も持つ。音が環境として存在するという考え方は、後の音響芸術にも影響を与えた。
 
-> Although Hawkwind was a rock band, they were already practicing techno thinking.
+> Hawkwindはロックバンドでありながら、すでにテクノ的思考を実践していた。
 
 ---
 
@@ -198,22 +198,31 @@ timeline
 
 Although the members have changed drastically over the long period of their activities, the core ideology remains consistent. It is "extension through sound."
 
-> Hawkwind has always continued on the same route, even though its shape has changed over time.
+> Hawkwindは時代ごとに形を変えながらも、常に同じ航路を進み続けている。
 
 ---
 
 
 ## Conclusion: A device that goes beyond music
 
-### Structure for changing consciousness
+### 意識を変えるための構造
 
-The essence of Hawkwind cannot be explained by genre. They are rock, electronic music, and performance art.
+Hawkwindの本質はジャンルでは説明できない。彼らはロックでもあり、電子音楽でもあり、パフォーマンスアートでもある。
 
 What is important is that they all converge on one point: ""transformation of consciousness.'' Repetition, volume, visuals, narrative. When these are integrated, music becomes a device rather than just entertainment.
 
 This idea is directly connected to modern club culture and sound art. In other words, Hawkwind is not a past entity, but an ongoing foundation.
 
-> Hawkwind's sound was designed to be "entered" rather than heard.
+> Hawkwindの音は、聴くものではなく「入るもの」として設計されていた。
 
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46rwqd8FUWs?si=9NYr3PGzcYJSVyBl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

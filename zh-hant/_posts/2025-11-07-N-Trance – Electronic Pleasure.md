@@ -10,15 +10,15 @@ tags:
 - Euro House
 - House
 - 90s
-title: N-Trance – 電子樂趣
+title: N-Trance – Electronic Pleasure
 ---
 
 
-N-Trance 是英國電子音樂二人組，由 Kevin O'Toole 和 Dale Longwort 於 1990 年組成。
+N-Tranceは、1990年にKevin O'Toole と Dale Longwortによって結成されたイギリスのエレクトロニックミュージックデュオ。
 
-《Electronic Pleasure》是 N-Trance 於 1995 年發行的第一張完整錄音室專輯，其中包括熱門歌曲《Set You Free》、《Stayin' Alive》和《Electronic Pleasure》。
+「Electronic Pleasure」は、1995年にリリースされたN-Trance 初のフルレングススタジオアルバムで、ヒット曲「Set You Free」「Stayin' Alive」「Electronic Pleasure」などが収録されている。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. What Is Your Pleasure?
 2. Electronic Pleasure
@@ -34,7 +34,7 @@ N-Trance 是英國電子音樂二人組，由 Kevin O'Toole 和 Dale Longwort �
 12. That's All We Need
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m94964777024?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94964777024?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bcf5kzBCdy4?si=Xu1Zk16QwxYwltcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

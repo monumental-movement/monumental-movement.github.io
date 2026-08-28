@@ -12,11 +12,11 @@ title: Genghis Khan – Greatest Hits
 ---
 
 
-Genghis Khan is a German disco group formed by Ralph Siegel. He competed in Eurovision in 1979 and came in 4th place.
+ジンギスカンは、Ralph Siegel(ラルフ・シーゲル)によって結成されたドイツのディスコグループ。1979年のユーロビジョンに出場し、4位に入賞した。
 
 Genghis Khan is characterized by songs that are themed around historical figures, exotic cultures, and regions.
 
-Songs such as ""Genghis Khan" and ""Aim for Moscow" became huge hits worldwide.
+「ジンギスカン」や「めざせモスクワ」などは世界的に大ヒットとなった。
 
 #### Tracklist
 ```md
@@ -63,7 +63,7 @@ B7. Dschinghis Khan
 ジンギスカン
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_WR4rNmy9mo?si=PwaouexbBOavPabb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

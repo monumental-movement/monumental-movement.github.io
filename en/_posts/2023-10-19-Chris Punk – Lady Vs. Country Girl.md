@@ -12,7 +12,7 @@ title: Chris Punk – Lady Vs. Country Girl
 ---
 
 
-A house remix of Primal Scream"s "Country Girl" and Modjo"s "Lady (Hear Me Tonight)" by Chris Punk, who has remixed many club hits.
+数々のクラブヒット曲をremixしているChris Punk（クリス・パンク）による、 Primal Scream（プライマル・スクリーム） 「Country Girl」とModjo（モジョ）「Lady (Hear Me Tonight)」のハウスremix。
 
 #### Tracklist
 ```md

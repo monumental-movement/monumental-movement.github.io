@@ -10,29 +10,29 @@ tags:
 - Amsterdam
 - CoffeeShop
 - MusicCulture
-title: '[Column] The intersection of coffee shops and music culture in Amsterdam'
+title: 【コラム】 アムステルダムのコーヒーショップと音楽文化の交差点
 ---
 
 
 
-## Establishment of coffee shop culture and foundation of sound environment
+## コーヒーショップ文化の成立と音環境の基盤
 
-Text: mmr｜Theme: Coffee shops in Amsterdam are not just recreational spaces, but urban devices that have fostered unique soundscapes while being closely tied to music culture.
+文：mmr｜テーマ：アムステルダムのコーヒーショップは単なる嗜好空間ではなく、音楽文化と密接に結びつきながら独自のサウンドスケープを育んできた都市的装置
 
 
-### "Spaces that tolerate sound" created by tolerance policies
+### 寛容政策が生んだ「音を許容する空間」
 
-In the 1970s, the Dutch government adopted a pragmatic policy toward cannabis, introducing a ""gedoogbeleid'' policy that did not strictly control the possession or sale of small amounts. Under this system, coffee shops were born in Amsterdam as a unique cultural device.
+1970年代、オランダ政府は大麻に対する実用主義的な政策を採用し、少量の所持や販売を厳しく取り締まらない「寛容政策（gedoogbeleid）」を導入した。この制度のもとで、アムステルダムには独自の文化装置としてのコーヒーショップが誕生する。
 
-The first store, Mellow Yellow, opened in 1972 and is said to have operated inside a bakery. While ostensibly serving coffee, transactions were quietly going on inside. This "double structure" became the prototype for the space design of the coffee shop. ([Coffeeshop Relax][1])
+1972年に誕生した最初期の店舗「Mellow Yellow」は、パン屋の内部で営業していたとされる。表向きはコーヒーを提供しながら、内部では静かに取引が行われていた。この“二重構造”こそが、コーヒーショップの空間設計における原型となった。 ([Coffeeshop Relax][1])
 
-Then, in 1975, the future iconic "The Bulldog" appeared. This store has established a style of openly selling over the counter, rather than the traditional "hidden transactions." Despite being arrested by the police, he continued to operate his business, and his attitude has become something of an urban legend. It is said that products were hidden in hidden compartments inside the store, and that evidence was immediately destroyed in the event of an arrest. ([The Bulldog Seeds][2])
+さらに1975年、後に象徴的存在となる「The Bulldog」が登場する。この店は従来の“隠れた取引”ではなく、堂々とカウンター越しに販売するスタイルを確立した。警察の摘発を受けながらも営業を続け、その姿勢は都市伝説的に語られている。店内では隠し収納に商品を隠したり、摘発時に即座に証拠を消す工夫があったとも言われる。 ([The Bulldog Seeds][2])
 
-What was important in this environment was "sound." The music continued to flow at a constant tempo, enveloping the guests who stayed for a long time. Not too noisy, but not silent either. This delicate balance naturally selects genres such as reggae and dub.
+こうした環境の中で重要だったのは、「音」である。長時間滞在する客を包み込むように、音楽は一定のテンポで流れ続けた。騒がしすぎず、しかし無音でもない。この微妙なバランスが、レゲエやダブといったジャンルを自然に選び出していく。
 
-From the beginning, coffee shops were in an ambiguous position between illegal and legal, and this ambiguity was reflected in their music. A sound that is not overly assertive, but one that definitely dominates the space. That was the initial condition of this culture.
+コーヒーショップは当初から“違法と合法のあいだ”という曖昧な位置にあり、その曖昧さが音楽にも反映された。主張しすぎない音、しかし確実に空間を支配する音。それがこの文化の初期条件であった
 
-> The institutional gray area created a unique relationship between sound and space for coffee shops.
+> 制度のグレーゾーンがコーヒーショップ独自の音と空間の関係を生み出した
 
 ---
 
@@ -52,71 +52,71 @@ color: #fff;
 
 ## 1980s-90s: Electronic music and the formation of chillout
 
-### Club and coffee shop round trip
+### クラブとコーヒーショップの往復運動
 
-From the late 1980s to the 1990s, Amsterdam rapidly developed as Europe's electronic music capital. Former churches and cultural facilities such as clubs Paradiso and Melkweg became music hubs, and techno and house music spread.
+1980年代後半から90年代、アムステルダムはヨーロッパの電子音楽都市として急速に発展する。クラブ「Paradiso」や「Melkweg」といった元教会・文化施設が音楽拠点となり、テクノやハウスが広がった。
 
-During this period, coffee shops functioned as the "margins" of club culture. It became integrated into the rhythm of the city, as a place to visit after dancing the night away, or a place to calm down before dancing.
+この時期、コーヒーショップはクラブ文化の“余白”として機能する。夜通し踊った後に訪れる場所、あるいはその前に精神を整える場所として、都市のリズムに組み込まれていった。
 
-In fact, according to many travelers' testimonies, the general flow of travel was ""club -> coffee shop -> hotel.'' In the recollections of people who visited in the 1990s, they were left with a strong impression of an atmosphere where they could sink into the sofa and listen to music, and feel comfortable even if the conversation stopped. ([Reddit][3])
+実際、多くの旅行者の証言では「クラブ→コーヒーショップ→ホテル」という動線が一般的だったとされる。1990年代に訪れた人々の回想では、ソファに沈み込みながら音楽を聴き、会話が途切れても違和感がない空気が強く印象に残っている。 ([Reddit][3])
 
-It was in this flow that the concept of ""chill out'' was established. Music to calm the excitement of the club. A sound that slows down the tempo and melts into the space. Ambient and downtempo music took root in coffee shops in this very context.
+この流れの中で「チルアウト」という概念が確立される。クラブの高揚を鎮めるための音楽。テンポを落とし、空間に溶ける音。アンビエントやダウンテンポは、まさにこの文脈でコーヒーショップに定着した。
 
-Also, in this era, the existence of a ""store owner who selects music'' has become important. Increasingly, music itself becomes the identity of the space, such as stores with record shelves and stores with turntables.
+また、この時代には“選曲する店主”という存在も重要になる。レコード棚を持つ店、ターンテーブルを設置する店など、音楽そのものが空間のアイデンティティとなるケースも増えた
 
-> As a place to catch the afterglow of club culture, coffee shops were responsible for another evolution of music.
+> クラブ文化の余韻を受け止める場としてコーヒーショップは音楽のもう一つの進化を担った
 
 ---
 
-## Interaction between music genres and coffee shops
+## 音楽ジャンルとコーヒーショップの相互作用
 
-### "Sound characters" that differ from store to store
+### 店ごとに異なる「音のキャラクター」
 
-Coffee shops in Amsterdam are not uniform. There are over 200 stores, each with a different atmosphere and music. ([Coffeeshop Relax][1])
+アムステルダムのコーヒーショップは一様ではない。200以上の店舗が存在し、それぞれが異なる雰囲気と音楽を持つとされる。 ([Coffeeshop Relax][1])
 
 Some stores play mainly reggae music, while others focus on jazz, soul, or hip-hop. Additionally, stores geared toward tourists may play more easily understandable dance music.
 
-Actual reviews have pointed out that the quality of the experience is greatly influenced by the difference in the sound environment, ranging from ""a store for young people with loud trap music" to ""a calm store where you can have quiet conversations." ([Reddit][4])
+実際のレビューでも、「大音量のトラップが流れる若者向けの店」から「静かに会話ができる落ち着いた店」まで、音環境の差が体験の質を大きく左右することが指摘されている。 ([Reddit][4])
 
-This diversity is no coincidence. A coffee shop is a ""mirror of the city'' that changes its sound to suit its customer base. It reflects the music desired by each demographic, including tourists, locals, and artists.
+この多様性は偶然ではない。コーヒーショップは客層に合わせて音を変える“都市のミラー”である。観光客、地元民、アーティスト、それぞれの層が求める音楽が反映される。
 
-As a result, genres are not fixed, but rather change flexibly. Techno becomes downtempo and hip-hop becomes lounge. Here, music is not a pure genre, but is reconstituted as a form adapted to the space.
+結果として、ジャンルは固定されず、むしろ柔軟に変化する。テクノがダウンテンポに変換され、ヒップホップがラウンジ化される。ここでは音楽は純粋なジャンルではなく、「空間に適応した形」として再構成される
 
-> The coffee shop has become a device for dismantling music genres and re-editing them space by space.
-
----
-
-## Musical diversity created by cities and tourism
-
-### A place where memories from all over the world come together
-
-Amsterdam is a city that welcomes millions of tourists a year, and that influence is directly reflected in the sound of its coffee shops. ([eyeflare.com][5])
-
-For tourists, a coffee shop is not just a store, but an "experience." One traveler said, ""Just standing outside the store makes me feel intoxicated by the atmosphere,'' which shows that the boundaries between inside and outside the store are blurred. ([ediblethoughts.com][6])
-
-There have also been reports of guided tours stopping in front of coffee shops and encouraging people to visit. This is proof that it is not just a dining facility, but a symbol of urban culture.
-
-On the other hand, the increase in tourism is also creating challenges. In recent years, the number of stores catering to tourists has increased, and the balance with local culture has become an issue. Sustainability of the city is being discussed, with the city considering restricting use by tourists.
-
-> Coffee shops are at the forefront of cities where tourism and local culture collide and mix.
+> コーヒーショップは音楽ジャンルを解体し空間ごとに再編集する装置となった
 
 ---
 
-## Coffee shop as soundscape
+## 都市と観光が生む音楽の多様性
 
-### Overlap of sound and city
+### 世界中の記憶が混ざる場所
 
-Music is not the only sound in a coffee shop. The sound of boats on the canal, the bell of a bicycle, the noise outside. Mixed together, they form a unique soundscape.
+アムステルダムは年間数百万の観光客を迎える都市であり、その影響はコーヒーショップの音にも直接反映される。 ([eyeflare.com][5])
 
-Amsterdam was designed as a canal city in the 17th century, with the entire city open to water and sound. This structure blurs the boundaries between indoor and outdoor sounds.
+観光客にとって、コーヒーショップは単なる店舗ではなく“体験”である。ある旅行者は「店の外に立っているだけで空気に酔う」と表現しており、店内外の境界が曖昧な空間であることがわかる。 ([ediblethoughts.com][6])
 
-Furthermore, the conversation inside the store is also an important element. Silence is tolerated in coffee shops, but conversation between strangers often emerges naturally. This "semi-public space" makes the layers of sound even more complex.
+また、ガイドツアーがコーヒーショップの前で立ち止まり、訪問を促す光景も報告されている。これは単なる飲食施設ではなく、都市文化の象徴として扱われている証拠である。
 
-> The coffee shop captures and reconfigures the sounds of the city to create a unique auditory space.
+一方で観光の増加は課題も生んでいる。近年では観光客向けの店舗が増え、地元文化とのバランスが問題視されるようになった。市は観光客による利用制限を検討するなど、都市の持続性が議論されている
+
+> コーヒーショップは観光とローカル文化が衝突し混ざり合う都市の最前線にある
 
 ---
 
-## Chronology: Evolution of coffee shops and music
+## サウンドスケープとしてのコーヒーショップ
+
+### 音と都市の重なり
+
+コーヒーショップの音は音楽だけではない。運河を走るボートの音、自転車のベル、外のざわめき。それらが混ざり合い、独特のサウンドスケープを形成する。
+
+アムステルダムは17世紀の運河都市として設計され、街全体が水と音に開かれている。この構造が、室内と屋外の音の境界を曖昧にする。
+
+さらに、店内の会話も重要な要素である。コーヒーショップでは沈黙も許容されるが、同時に見知らぬ人同士の会話が自然に生まれることも多い。この“半公共的空間”が、音の層をさらに複雑にする
+
+> コーヒーショップは都市の音を取り込み再構成することで独自の聴覚空間を生み出す
+
+---
+
+## 年表：コーヒーショップと音楽の変遷
 
 <div class="mermaid">
 timeline
@@ -130,37 +130,37 @@ timeline
     2020 : ストリーミングと観光の影響
 </div>
 
-> The role of music has continued to change at each historical turning point.
+> 歴史的転換点ごとに音楽の役割が変化し続けてきた
 
 ---
 
-## Diagram: Coffee shop sound environment structure
+## 図：コーヒーショップの音環境構造
 
 <div class="mermaid">
 graph TD
-    A[music] --> D[spatial experience]
-    B[conversation] --> D
-    C[city ​​sounds] --> D
-    D --> E[relax]
+    A[音楽] --> D[空間体験]
+    B[会話] --> D
+    C[都市音] --> D
+    D --> E[リラックス]
     D --> F[exchange]
-    D --> G[immersion]
+    D --> G[没入]
 </div>
 
-> Music forms an experience not by itself but by combining multiple sound elements.
+> 音楽は単独ではなく複数の音要素と結びつくことで体験を形成する
 
 ---
 
-## Change and continuity in modern times
+## 現代における変化と継続
 
-### The conflict between homogenization and individuality
+### 均質化と個性のせめぎ合い
 
-Coffee shops are now entering the streaming era. While selecting music using playlists is efficient, it can also dilute the individuality of each store.
+現在、コーヒーショップはストリーミング時代に突入している。プレイリストによる選曲は効率的である一方、店舗ごとの個性を薄める要因にもなり得る。
 
-Still, Amsterdam's coffee shops are far from homogenized. Historical background, location, and customer base all continue to manifest as differences in sound.
+それでもなお、アムステルダムのコーヒーショップは均質化しきってはいない。歴史的背景、立地、客層、それぞれが音の違いとして現れ続けている。
 
 This culture, which once began in secret, has now become a symbol of the city, attracting people from all over the world. But the essence remains the same. Music is not the main character, but continues to be an essential element for creating a space.
 
-> Coffee shop music continues to play a role in supporting the space throughout the ages.
+> コーヒーショップの音楽は時代を超えて空間を支える役割を保ち続けている
 
 [1]: https://www.coffeeshop-relax.nl/blog-en/use/history-coffeeshops-amsterdam?utm_source=chatgpt.com "History of Amsterdam coffee shops | Coffeeshop Relax"
 [2]: https://thebulldogseeds.com/the-bulldog-amsterdam-no90-worlds-first-coffeeshop/?utm_source=chatgpt.com "The Bulldog Amsterdam No.90: World"s First Coffeeshop"

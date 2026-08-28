@@ -11,20 +11,20 @@ tags:
 - Progressive House
 - House
 - 00s
-title: 未來衝擊－驕傲的偏執
+title: Futureshock – Pride's Paranoia
 ---
 
 
-Futureshock 是一支由英國 DJ 和製作人 Alex Tepper 和 Phil Dockerty 組成的樂團。
-電子二重奏 by.主要活躍於1998年至2003年。
+Futureshock(フューチャーショック)は、UKのDJ・プロデューサーAlex TepperとPhil Dockerty
+によるエレクトロニックデュオ。主に1998年〜2003年まで活動した。
 
-《Pride's Paranoia》是 Parlophone 廠牌於 2003 年發行的前衛浩室曲目。
+「Pride's Paranoia」は、2003年にレーベルParlophoneからリリースされたプログレッシブハウストラック。
 
-A 面的第二首曲目是 Ewan Pearson 的混音作品，他曾將 Cortney Tidwell、Seelenluft、Ladytron、Depeche Mode、The Rapture、Goldfrapp 和 The Chemical Brothers 等多位藝人進行混音。
+A面2曲目は、Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp, The Chemical Brothers等さまざまなアーティストのリミックスを手がけるEwan Pearsonによるremix。
 
-B 面是來自斯德哥爾摩的 DJ 兼製作人 Eric Prydz 的混音，他也擔任 Cirez D 和 Pryda。
+B面は、Cirez D、Pryda名義でも活動するストックホルム出身のDJ・プロデューサーEric Prydz(エリック・プライズ)によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Pride's Paranoia (Full Length Version)
 A2. Pride's Paranoia (Ewan's Sticking Plaster Mix)
@@ -32,7 +32,7 @@ A2. Pride's Paranoia (Ewan's Sticking Plaster Mix)
 B. Pride's Paranoia (Eric Prydz Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m20677280102?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20677280102?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Jq8AvFnL4g?si=L28NA8Ik2M2kFkEh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

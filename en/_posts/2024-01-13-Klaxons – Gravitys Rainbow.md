@@ -8,17 +8,17 @@ layout: post
 tags:
 - Electro
 - Pops
-title: Klaxons – Gravity"s Rainbow
+title: Klaxons – Gravity's Rainbow
 ---
 
 
 Klaxons is an electro rock band formed in New Cross, UK in 2005. "Gravity's Rainbow" was released by Kitsune Music in 2006.
 
-The second track on Side A is a remix by Australian electro-pop band Van She.
+A面２曲目はオーストラリア出身のエレクトロポップ バンドVan She（ヴァンシー）によるremix。
 
 The first song on side B is a remix by Matt Waites, aka Nightmoves.
 
-B-side 2nd track is a remix by British indie rock/synth pop duo To My Boy.
+B面２曲目英国のインディーロック・シンセポップデュオTo My Boy によるremix。
 
 #### Tracklist
 ```md

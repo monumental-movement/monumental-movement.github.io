@@ -12,9 +12,9 @@ title: Various – We Are Reasonable People
 ---
 
 
-Music Week gave the album a positive review, saying, "It will definitely appeal to existing fans and is a good introduction for those interested in underground sounds."
+『Music Week』はこのアルバムに肯定的なレビューとして「既存のファンには間違いなくアピールし、アンダーグラウンドのサウンドに興味を持つ人にとっても良い紹介となるだろう」と掲載しました。
 
-""Brainwashed'' also ranks third among 1998 compilation albums. Furthermore, in 2013, Fact magazine ranked "Freeman Hardy & Willis Acid" at number 10 on its list of the top 50 Aphex Twin tracks.
+"Brainwashed" also ranks third among 1998 compilation albums. Furthermore, in 2013, Fact magazine ranked "Freeman Hardy & Willis Acid" at number 10 on its list of the top 50 Aphex Twin tracks.
 
 #### Tracklist
 ```md
@@ -43,7 +43,7 @@ Music Week gave the album a positive review, saying, "It will definitely appeal 
 12. Mark Bell–A Salute To Those People Who Say Fuck You
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cy-vZouMuww?si=1RNPr9kDQtBPTwUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

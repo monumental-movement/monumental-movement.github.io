@@ -9,18 +9,18 @@ permalink: /zh-hant/friction-atsureki/
 tags:
 - Rock
 - Punk
-title: 摩擦力——摩擦力
+title: Friction – 軋轢
 ---
 
 
-《Friction》是日本龐克搖滾樂團Friction於1980年發行的第一張完整錄音室專輯。製作人和工程師是坂本龍一。這張專輯是2005年重新發行的。
+「軋轢」は、日本のパンク・ロックバンドFriction（フリクション ）の1980年リリースの初のフル・スタジオ・アルバム。プロデューサー・エンジニアは坂本龍一。このアルバムは2005年の再発盤。
 
-[參與會員]
-・Rec - 主唱、貝斯、吉他
+【参加メンバー】
+・レック - ボーカル、ベース、ギター
 ・ツネマツマサトシ - ギター
-・Chico Hige – 鼓、薩克斯風
+・チコ・ヒゲ - ドラムス、サックス
 
-#### 曲目表
+#### Tracklist
 ```md
 1. A-Gas
 2. オートマチック・フラ 
@@ -34,7 +34,7 @@ title: 摩擦力——摩擦力
 10. Out
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=wHKuU_ZjheqoXyHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

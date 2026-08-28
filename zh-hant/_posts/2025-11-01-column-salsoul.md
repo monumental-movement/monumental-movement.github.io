@@ -10,20 +10,20 @@ tags:
 - Experimental
 - Tribal
 - 70s
-title: 【專欄】薩爾索爾樂團與MFSB－從費城到迪斯可的演變
+title: 【コラム】 Salsoul OrchestraとMFSB ― フィラデルフィアからディスコへの進化
 ---
 
 
-## 費城琴弦讓世界翩翩起舞的那一刻
+## フィラデルフィアのストリングスが世界を踊らせた瞬間
 
 
-文：mmr｜主題：關於構成「迪斯可」基礎的音樂革命
+文：mmr｜テーマ：「ディスコ」の原型となる音楽革命について
 
-1970年代初，美國東岸城市費城發生了一場後來成為「迪斯可」原型的音樂革命。
-處於這個中心的是**MFSB（母親父親姐妹兄弟）**和**Salsoul Orchestra**。
+1970年代初頭、アメリカ東海岸の都市・フィラデルフィアで、後に「ディスコ」の原型となる音楽革命が起きた。  
+その中心にいたのが、**MFSB（Mother Father Sister Brother）**と**Salsoul Orchestra（サルソウル・オーケストラ）**。  
 
-他們透過將華麗的編曲與大量的弦樂和法國號、細緻的節奏部分和深情的精神融合在一起，建立了一種名為「管弦樂靈魂」的新聲音。
-這一血統後來傳播到世界各地的迪斯可文化，並被浩室、拉丁甚至嘻哈採樣文化所繼承。
+彼らは、ストリングスとホーンをふんだんに取り入れたゴージャスなアレンジ、緻密なリズム・セクション、そしてソウルフルなスピリットを融合させ、「オーケストラ・ソウル」という新たなサウンドを確立した。  
+この系譜がのちに世界中のディスコ・カルチャーへと波及し、ハウス、ラテン、さらにはヒップホップのサンプリング文化へと受け継がれていく。
 
 ---
 
@@ -41,87 +41,87 @@ color: #fff;
 </style>
 
 
-## 費城聲音的誕生：Gamble & Huff 和 Sigma Sound
+## フィラデルフィア・サウンドの胎動：Gamble & HuffとSigma Sound
 
-20 世紀 60 年代末，由 **Kenneth Gamble** 和 **Leon Huff** 創立的 **費城國際唱片公司 (PIR)** 支持費城音樂界。
-他們以 **Sigma Sound Studios** 為基地開始活動，旨在取代摩城成為黑人音樂的新中心。
+1960年代末、フィラデルフィアの音楽シーンを支えたのは、**Kenneth Gamble**と**Leon Huff**による**Philadelphia International Records (PIR)**。  
+彼らはモータウンに代わる新しい黒人音楽の中心地を目指し、**Sigma Sound Studios**を拠点に活動を開始した。
 
-錄製由獨家會話組 - **MFSB** 支援。
-MFSB 的成員包括：
+録音を支えたのが、専属セッション集団――**MFSB**である。  
+MFSBのメンバーには以下のような錚々たる顔ぶれがいた：
 
-- 厄爾楊（鼓）
-- 諾曼哈里斯（吉他）
-- 羅尼貝克（貝斯手）
-- 鮑比·伊利（吉他）
-- Vincent Montana Jr.（電顫琴/編曲）
+- Earl Young（ドラム）
+- Norman Harris（ギター）
+- Ronnie Baker（ベース）
+- Bobby Eli（ギター）
+- Vincent Montana Jr.（ヴィブラフォン／アレンジャー）
 
-這些演奏者創造的流暢的音樂節奏成為了一個世界性的品牌，被稱為“TSOP（費城之聲）”。
+これらのプレイヤーが織りなす滑らかなグルーヴは、**「TSOP（The Sound of Philadelphia）」**として世界的なブランドになった。
 
 ---
 
-## MFSB - 琴弦主宰律動的時刻
+## MFSB ― ストリングスがグルーヴを支配する瞬間
 
-1973年，專輯《**Love Is The Message**》以MFSB名義發行。
-同名歌曲成為代表首爾歷史的讚歌，並被迪斯科早期的DJ們視為“標準橋曲”而喜愛。
+1973年、MFSB名義のアルバム『**Love Is The Message**』が登場。  
+同名曲はソウル史を代表するアンセムとなり、ディスコ黎明期のDJたちにとって“定番の橋渡し曲”として愛された。
 
-厄爾楊（Earl Young）的“地板上的四人”節奏後來成為迪斯科和浩室音樂的基本節拍。
-此外，小文森特·蒙塔納（Vincent Montana Jr.）的共鳴和弦樂編曲賦予黑人音樂的節奏古典優雅。
+Earl Youngが叩き出す“四つ打ち”のリズム――これこそ後にディスコ、そしてハウスの基本ビートとなるものだった。  
+さらにVincent Montana Jr.のヴァイブとストリングス・アレンジが、黒人音楽のリズムにクラシック的な優雅さを与えた。  
 
-MFSB 不僅僅是一支樂隊，它體現了一個新概念：「工作室管弦樂隊」。
+MFSBは単なるバンドではなく、**「スタジオ・オーケストラ」**という新しい概念の具現者だったのである。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vYjkjpUor9M?si=6apW0wVkoEBW6BL-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 薩爾索爾管弦樂團的誕生：費城之聲的獨立宣言
+## Salsoul Orchestraの誕生：フィリー・サウンドの独立宣言
 
-1975 年，**Vincent Montana Jr.** 離開 MFSB，成立**Salsoul Orchestra** 來追求他的理想。
-在**Salsoul Records**（創辦人：Cayre 兄弟）的支持下，他們的目標是打造帶有濃鬱拉丁元素的迪斯可音樂。
+1975年、MFSBを離脱した**Vincent Montana Jr.**は、自らの理想を追求すべく**Salsoul Orchestra**を結成。  
+バックには**Salsoul Records**（創設者：Cayre兄弟）があり、ラテン要素を強く打ち出したディスコ・サウンドを志向していた。
 
-Montana 利用他在 PIR 培養的編曲技巧將拉丁打擊樂和弦樂融為一體。
-結果，創建了一個獨特的方程式：**Disco+Orchestra+Salsa=Salsoul**。
+モンタナはPIRで培ったオーケストレーション技術を武器に、ラテン・パーカッションとストリングスを融合。  
+その結果、**「ディスコ＋オーケストラ＋サルサ」＝Salsoul**という独自の方程式を生み出す。  
 
-代表歌曲《**Salsooul Hustle**》就是這一點的完美象徵。
-康加鼓、廷巴鼓、弦樂、法國號和靜音吉他完美地交織在一起，同時營造出拉丁歡快和費城精緻的感覺。
+代表曲「**Salsoul Hustle**」は、まさにその象徴。  
+コンガ、ティンバレス、ストリングス、ホーン、そしてミュート・ギターが絶妙に絡み合い、ラテンの陽気さとフィリーの洗練を同時に感じさせた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DmLiiKYhKYg?si=7P_heKoUd6TOeLiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Vincent Montana Jr. - 工匠美學與迪斯科烏托邦
+## Vincent Montana Jr. ― 職人の美学とディスコの理想郷
 
-蒙大拿的安排理念很明確。
-> “管弦樂隊是你統治俱樂部的武器。讓共鳴器、豎琴和弦樂在節奏中翩翩起舞。”
+モンタナのアレンジ哲学は明快だった。  
+> 「オーケストラはクラブを支配するための武器だ。ヴァイブ、ハープ、ストリングスをグルーヴの中で踊らせる。」
 
-他的理想是「優雅舞動的音樂」。
-他們為起源於街頭的舞蹈文化賦予了古典的建築美感，將音樂提升為「優雅的節日」。
+彼の理想は「優雅に踊る音楽」。  
+ストリート発祥のダンス文化にクラシック的な構築美を与え、音楽を“上品な祝祭”へと昇華させた。  
 
-另一方面，他的極端完美主義讓錄音室的音樂人緊張不已，據說每次錄音都需要數十次錄製。
-
----
-
-## 關鍵曲目分析
-
-|歌曲名稱|年份|特點|筆記|
-|------|----|------|--------|
-| **愛情破裂（哦，我喜歡它）** | 1980 |採樣的寶庫。打擊樂和喇叭斷裂在後來的嘻哈音樂中被過度使用。 |被公眾之敵、Eric B. 和 Rakim 等引用 |
-| **薩爾索爾喧囂** | 1975 |早期迪斯可的起源。 4/4 節拍和拉丁律動的融合。 |象徵費城之聲的飛躍。 |
-| **好又壞** | 1976 |弦樂主導的舞曲。 |具有精緻的佈置。 |
-| **逃亡（壯舉。洛萊塔·霍洛威）** | 1977 |以女聲和弦樂為特色的戲劇性發展。 |晚年在家居界重新評估。 |
+一方で、その徹底した完璧主義はスタジオ・ミュージシャンたちを緊張させるほどで、録音は常に数十テイクにも及んだという。
 
 ---
 
-## 文化取樣和重新評估
+## Keyトラック解析
 
-20 世紀 80 年代末，嘻哈音樂發掘了 Salsoul 的遺產。
-「Love Break」的圓號連復段和「Ooh I Love It」的打擊樂在 Public Enemy 的「It Takes a Nation of Millions to Hold Us Back」和 Eric B. & Rakim 的「Paid in Full」中被重新演繹。
-
-同樣在 20 世紀 90 年代，Masters at Work（Louie Vega 和 Kenny Dope）重新設計了 Salsoul 的目錄，並在 house 環境中重新混音。
-Salsoul 的黑膠唱片已成為俱樂部 DJ 的聖書。
+| 曲名 | 年 | 特徴 | 備考 |
+|------|----|------|------|
+| **Love Break (Ooh I Love It)** | 1980 | サンプリングの宝庫。パーカッションとホーンのブレイクが後年のヒップホップで乱用。 | Public Enemy、Eric B. & Rakimなどに引用。 |
+| **Salsoul Hustle** | 1975 | 初期ディスコの原点。4/4ビートとラテン・グルーヴの融合。 | フィリー・サウンドからの飛躍を象徴。 |
+| **Nice ‘n Naasty** | 1976 | ストリングス主導のダンス・トラック。 | 洗練されたアレンジが特徴。 |
+| **Runaway (feat. Loleatta Holloway)** | 1977 | 女性ヴォーカルと弦楽が織り成す劇的展開。 | 後年ハウス界で再評価。 |
 
 ---
 
-## 年表：從費城到薩爾蘇爾的家譜
+## サンプリング文化と再評価
+
+1980年代後半、ヒップホップがSalsoulの遺産を掘り返した。  
+「Love Break」のホーン・リフや「Ooh I Love It」のパーカッションは、Public Enemy『It Takes a Nation of Millions to Hold Us Back』やEric B. & Rakim『Paid in Full』で再構築された。  
+
+また1990年代には、Masters at Work（Louie Vega & Kenny Dope）がSalsoulのカタログを再編集し、ハウス文脈でリミックス。  
+Salsoulのアナログ盤は、クラブDJの“聖典”となった。
+
+---
+
+## 年表：フィラデルフィアからサルソウルへの系譜
 
 <div class="mermaid">
 
@@ -141,30 +141,30 @@ timeline
 
 ---
 
-### 唱片目錄（主要作品）
+### ディスコグラフィー（主要作品）
 
-|年份|藝人 |專輯 |連結 |
-| ---- | -------------------- | ------------------------ | ---- |
-| 1973 | MFSB |愛就是訊息| [亞馬遜](https://amzn.to/48XNk6X) |
-| 1975 |薩爾索爾管弦樂團 |薩爾索爾管弦樂團 | [亞馬遜](https://amzn.to/3X3V4Nt) |
-| 1976 |薩爾索爾管弦樂團 |好又壞| [亞馬遜](https://amzn.to/4omnu1p) |
-| 1977 |薩爾索爾管弦樂團 |魔法之旅| [亞馬遜](https://amzn.to/47txqQN) |
-| 1980 |薩爾索爾管弦樂團 |街頭感 | [亞馬遜](https://amzn.to/4nBROE7) |
+| 年    | アーティスト             | アルバム                     | リンク |
+| ---- | --------------------- | ------------------------- | ---- |
+| 1973 | MFSB                  | Love Is The Message | [Amazon](https://amzn.to/48XNk6X)  |
+| 1975 | The Salsoul Orchestra | The Salsoul Orchestra | [Amazon](https://amzn.to/3X3V4Nt) |
+| 1976 | The Salsoul Orchestra | Nice ‘n Naasty   | [Amazon](https://amzn.to/4omnu1p)    |
+| 1977 | The Salsoul Orchestra | Magic Journey    | [Amazon](https://amzn.to/47txqQN)    |
+| 1980 | The Salsoul Orchestra | Street Sense     | [Amazon](https://amzn.to/4nBROE7)    |
 
 
 ---
 
-## 結論：管弦樂靈魂的基因
+## 結語：オーケストラ・ソウルの遺伝子
 
-MFSB 和薩爾索爾管弦樂團是黑人音樂史上的「橋樑」。
-他們透過出色而聰明的聲音設計實現了從靈魂樂到迪斯科的轉變。
+MFSBとSalsoul Orchestraは、黒人音楽史における「橋渡し役」である。
+彼らはソウルからディスコへの移行を、華麗で知的なサウンド設計によって実現した。
 
-費城的血液當然流淌在當前的俱樂部文化中——浩室音樂和新迪斯可。
-這就是**弦樂演奏節奏**的矛盾之美。
-蒙大拿之手創造的建築之美繼續在舞池深處閃耀。
+クラブ・カルチャーの現在――ハウスやニューディスコの中にも、フィラデルフィアの血は確かに流れている。
+それは、**ストリングスがリズムを奏でる**という矛盾のような美しさ。
+モンタナの手によって生まれたその構築美は、いまなおダンスフロアの奥底で輝き続けている。
 
-> 「費城之聲永遠不會消失——它只會繼續跳舞。”
-> ——小文森‧蒙塔納
+> “The Sound of Philadelphia never dies—it just keeps dancing.”
+> ― Vincent Montana Jr.
 
 
 ---

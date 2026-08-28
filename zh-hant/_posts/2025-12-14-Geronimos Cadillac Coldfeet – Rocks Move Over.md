@@ -11,20 +11,20 @@ tags:
 - House
 - Rock
 - 00s
-title: Geronimo 的凱迪拉克 Coldfeet – 岩石/移開
+title: Geronimo's Cadillac Coldfeet – Rocks / Move Over
 ---
 
 
-Coldfeet 是由 Watusi 和 Lori Fine 組成的日本靈魂樂電子音樂雙人組。
+Coldfeet は、Watusi と Lori Fine による日本のsoul-jazz& electronic デュオ。
 
-A 是 Primal Scream 的「Rocks」的翻唱。
-它於 2007 年由日本品牌 Grand Gallery 發行。
+Aは、Primal Scream(プライマルスクリーム)『Rocks』のカヴァー。
+2007年に日本のレーベルGrand Galleryからリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Geronimo's Cadillac – Rocks
 
 B. Coldfeet – Move Over
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m16774787518?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16774787518?afid=6142608987){: .button1}

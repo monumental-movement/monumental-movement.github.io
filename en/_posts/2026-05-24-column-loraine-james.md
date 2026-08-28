@@ -10,13 +10,13 @@ tags:
 - Ambient
 - IDM
 - Hyperdub
-title: '[Column] Loraine James──Map of emotions beyond the broken beat'
+title: 【コラム】 Loraine James──壊れたビートの先にある感情の地図
 ---
 
 
-## Who is Loraine James?
+## Loraine Jamesとは誰なのか
 
-Text: mmr｜Theme: Loraine James continues to portray the reality of London, personal feelings, and loneliness in the digital age with complex beats. We will trace the meaning this music has given to contemporary electronic music.
+文：mmr｜テーマ：ロンドンの現実、個人的感情、デジタル時代の孤独を複雑なビートで描き続けるLoraine James。その音楽が現代電子音楽に与えた意味を辿る。
 
 
 <style type="text/css">
@@ -24,7 +24,7 @@ Text: mmr｜Theme: Loraine James continues to portray the reality of London, per
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -32,46 +32,46 @@ color: #fff;
 }
 </style>
 
-From the late 2010s to the 2020s, the landscape of electronic music has changed significantly. In the past, "club music" and "experimental music" were talked about in separate contexts, but since the streaming era, the line has rapidly become blurred.
+2010年代後半から2020年代にかけて、電子音楽の風景は大きく変わった。かつて「クラブミュージック」と「実験音楽」は別々の文脈で語られていたが、ストリーミング時代以降、その境界線は急速に曖昧になっていった。
 
-One person who symbolizes these changes in the times is a musician from London.
+そんな時代の変化を象徴する存在の一人が、ロンドン出身の音楽家である。
 
-Her music defies simple genre classification. IDM, ambient, grime, jazz, drum and bass, contemporary music, noise, field recording. They flow as one emotion without being divided into small pieces.
+彼女の音楽は単純なジャンル分けを拒否する。IDM、アンビエント、グライム、ジャズ、ドラムンベース、現代音楽、ノイズ、フィールドレコーディング。それらが細かく分断されることなく、一つの感情として流れていく。
 
-What is particularly distinctive about his work is that he actively incorporates "imperfection" into his works. The tempo wavers, the beat falls apart, and the melody takes an unexpected turn. However, the chaos does not end with a simple experiment. Rather, her music is steeped in emotions such as the fatigue of city life, personal memories, loneliness, anger, and tenderness.
+とりわけ特徴的なのは、「不完全さ」を積極的に作品へ取り込んでいる点だ。テンポは揺れ、ビートは途中で崩れ、メロディは予想外の方向へ向かう。しかしその混沌は、単なる実験では終わらない。むしろ彼女の音楽には、都市生活の疲労、個人的記憶、孤独、怒り、優しさといった感情が強く宿っている。
 
-It"s not dance music that just works in clubs, nor is it experimental music that only pursues esotericism. Loraine James"s work traverses both, presenting a new form of ""electronic music to be heard.''
+クラブで機能するだけのダンスミュージックでもなく、難解さだけを追求した実験音楽でもない。Loraine Jamesの作品は、その両方を横断しながら、新しい「聴かれる電子音楽」の形を提示した。
 
 <div class="mermaid">
 graph TD
-A[grime] --> E[Loraine James]
+A[グライム] --> E[Loraine James]
 B[IDM] --> E
-C[ambient] --> E
-D[jazz] --> E
-F[field recording] --> E
-E --> G[emotional electronic music]
-E --> H[contemporary club sound]
-E --> I[experimental listening works]
+C[アンビエント] --> E
+D[ジャズ] --> E
+F[フィールド録音] --> E
+E --> G[感情的電子音楽]
+E --> H[現代的クラブサウンド]
+E --> I[実験的リスニング作品]
 </div>
 
-Since her appearance, the ""broken structure"' in electronic music has come to be seen as not just an avant-garde, but an expression of an individual"s real emotions.
+彼女の登場以降、電子音楽における「壊れた構造」は単なる前衛性ではなく、個人のリアルな感情表現として受け止められるようになっていった。
 
-> Loraine James represented a generation that moved club music from function to emotion.
+> Loraine Jamesは、クラブミュージックを“機能”から“感情”へ引き寄せた世代の代表的存在だった。
 
 
 ---
 
-## The feeling created by the city of London
+## ロンドンという都市が形成した感覚
 
-Loraine James grew up in Enfield, north London. The city of London has long been a huge testing ground for multicultural music.
+Loraine Jamesはロンドン北部エンフィールドで育った。ロンドンという都市は、長年にわたり多文化的音楽が交差する巨大な実験場だった。
 
-From the late 1990s to the early 2000s, UK garage, jungle, grime, and dubstep were rapidly developing in London. These musics have something in common. This means that the ""urban reality'' is directly engraved into the sound.
+1990年代後半から2000年代初頭にかけてのロンドンでは、UKガラージ、ジャングル、グライム、ダブステップなどが急速に発展していた。これらの音楽には共通点がある。それは「都市の現実」が直接的に音へ刻み込まれていることだ。
 
-The influence of grime culture is particularly strong. A rough beat, a structure that emphasizes bass, a DIY spirit, and a limited equipment environment. These traits remain strongly in Loraine James's later works.
+特にグライム文化の影響は大きい。粗削りなビート、低音重視の構造、DIY精神、限られた機材環境。それらは後のLoraine James作品にも色濃く残っている。
 
-She also learned to play the piano from an early age. Classical harmonic sense and London's bass music culture. The simultaneous existence of these two led to the formation of a unique sound in later years.
+また、彼女は幼少期からピアノ演奏に触れていた。クラシック的な和声感覚とロンドンのベースミュージック文化。この二つが同時に存在していたことが、後年の独特なサウンド形成へ繋がっていく。
 
-More importantly, it was the Internet generation. It was a time when music could be accessed across regions through platforms such as SoundCloud, YouTube, and Bandcamp. Influences from musicians as diverse as Aphex Twin, Flying Lotus, Boards of Canada, Burial, and J Dilla were absorbed piecemeal.
+さらに重要なのが、インターネット世代であったことだ。SoundCloud、YouTube、Bandcampといったプラットフォームを通じ、地域を超えて音楽へアクセスできる時代だった。Aphex Twin、Flying Lotus、Boards of Canada、Burial、J Dillaなど、多様な音楽家の影響が断片的に吸収されていった。
 
 <div class="mermaid">
 timeline
@@ -85,71 +85,71 @@ timeline
 
 The city of London is always noisy. But within that noise, there is also loneliness. The emotional distance in Loraine James's music is deeply connected to this urbanity.
 
-> Her sound simultaneously records the hustle and bustle of London and personal solitude.
+> 彼女のサウンドには、ロンドンの喧騒と個人的孤独が同時に記録されている。
 
 ---
 
 ## DIY spirit and early career
 
-Loraine James's early work has a thoroughly DIY feel.
+Loraine Jamesの初期作品には、徹底したDIY感覚がある。
 
-Sound produced in a limited environment, not with expensive studio equipment. Rather, its roughness functioned as an attractive feature.
+高価なスタジオ設備ではなく、限られた環境の中で制作されたサウンド。その粗さはむしろ魅力として機能していた。
 
-In the late 2010s, she began releasing her work mainly on Bandcamp and SoundCloud. This was a different trend from the traditional music industry. We live in an era where music reaches listeners directly, without going through major labels or specialized media.
+2010年代後半、彼女はBandcampやSoundCloudを中心に作品を発表し始める。これは従来の音楽産業とは異なる流れだった。メジャーレーベルや専門メディアを介さず、直接リスナーへ届く時代である。
 
-In the electronic music scene at the time, ""uniqueness" was becoming more important than ""perfection". Loraine James's work was exactly in line with that trend.
+当時の電子音楽シーンでは、“完成度”よりも“独自性”が重要視され始めていた。Loraine Jamesの作品はまさにその流れに一致していた。
 
-Her early songs have the following characteristics:
+彼女の初期楽曲には、以下のような特徴が見られる。
 
-- Drum that collapses irregularly
-- Overly compressed texture
+- 不規則に崩れるドラム
+- 過剰に圧縮された質感
 - Jazz chord feel
-- Use of voice sample fragments
-- Strong bass design
+- ボイスサンプルの断片使用
+- 強い低音設計
 - emotional ambience
 
-What attracted particular attention was the uniqueness of the way it broke.
+特に注目されたのは、「壊れ方」に独自性があった点である。
 
-Traditional IDM has tended to emphasize mathematical structure. But for Loraine James, the disruption of rhythm functioned as an emotional expression.
+従来のIDMは数学的構造を強調する傾向があった。しかしLoraine Jamesの場合、リズムの崩壊が感情表現として機能していた。
 
 <div class="mermaid">
 flowchart TD
-A[DIY production environment] --> B[rough sound image]
-B --> C[emotional beat]
-C --> D[Establishing uniqueness]
-D --> E[online evaluation]
-E --> F[To label contract]
+A[DIY制作環境] --> B[粗削りな音像]
+B --> C[感情的ビート]
+C --> D[独自性の確立]
+D --> E[オンライン評価]
+E --> F[レーベル契約へ]
 </div>
 
-From around this time onwards, she avoided being talked about in the category of ""female electronic musician.'' The emphasis was on having the work evaluated on its own.
+この頃から彼女は、「女性電子音楽家」というカテゴリで語られることを避けていた。あくまで作品単体で評価されることを重視していたのである。
 
-> Loraine James's early works turned unfinishedness into a weapon.
+> Loraine Jamesの初期作品は、未完成さそのものを武器へ変えていた。
 
 ---
 
-## Encounter with Hyperdub
+## Hyperdubとの邂逅
 
-A major turning point in Loraine James' career was her relationship with an important label in London.
+Loraine Jamesのキャリアにおいて大きな転機となったのが、ロンドンの重要レーベルとの関係である。
 
-Hyperdub has released many cutting-edge artists such as Burial, Cooly G, and Laurel Halo, and has become one of the leading labels for UK electronic music since the 2000s.
+Hyperdubは、BurialやCooly G、Laurel Haloなど数多くの先鋭的アーティストを世に送り出し、2000年代以降のUK電子音楽を代表するレーベルの一つとなった。
 
-What makes this label special is that it doesn't just seek club functionality. Social, urban, experimental, emotional. There was a culture that valued these things.
+このレーベルの特徴は、単なるクラブ機能性だけを求めないことにある。社会性、都市感覚、実験性、感情性。それらを重視する文化があった。
 
-Loraine James was naturally connected to that context.
+Loraine Jamesはその文脈に自然に接続された。
 
-The album ""For You and I'' released in 2019 instantly boosted her popularity.
+2019年に発表されたアルバム『For You and I』は、彼女の知名度を一気に押し上げることになる。
 
 
-Although this work was in a traditional IDM context, it was more personal and emotional. An extremely delicate melody coexisted within the finely fractured beat.
+この作品は従来のIDM文脈にありながら、より個人的で感情的だった。細かく断裂するビートの中に、極めて繊細なメロディが共存していたのである。
 
-What was particularly impressive was how ""human instability'' was directly translated into music.
+特に印象的だったのは、“人間的な不安定さ”がそのまま音楽になっていた点だ。
 
 The tempo is not constant and the song structure is unpredictable. However, this was close to the feelings of modern people.
 
 <div class="mermaid">
 graph TD
-A[Hyperdub] --> B[UK base culture]
-A --> C[experimental electronic music]
+A[Hyperdub] --> B[UKベース文化]
+A --> C[実験電子音楽]
 A --> D[urbanity]
 B --> E[Loraine James]
 C --> E
@@ -157,25 +157,25 @@ D --> E
 E --> F[For You and I]
 </div>
 
-With this album, Loraine James began to be recognized as not just a newcomer, but as someone who would update contemporary electronic music.
+このアルバムによって、Loraine Jamesは単なる新人ではなく、「現代電子音楽を更新する存在」として認識され始めた。
 
-> Her encounter with Hyperdub catapulted Loraine James from a local talent to a global figure.
+> Hyperdubとの出会いは、Loraine Jamesをローカルな才能から世界的存在へ押し上げた。
 
 ---
 
-## Maturity shown by ""Reflection''
+## 『Reflection』が示した成熟
 
-The album ""Reflection"' released in 2021 was a work that defined Loraine James"s musical maturity.
+2021年に発表されたアルバム『Reflection』は、Loraine Jamesの音楽的成熟を決定づけた作品だった。
 
-This work maintains the roughness of the early years, but its compositional power has greatly improved.
+この作品では、初期の荒々しさを維持しながらも、構成力が大きく向上している。
 
-What was distinctive was the way he handled "stillness."
+特徴的なのは、「静けさ」の扱い方だった。
 
-In his previous works, the fragmentation of the beat came to the fore. However, in ""Reflection,'' blank spaces and echoes play an important role.
+以前の作品では、ビートの断片化が前面に出ていた。しかし『Reflection』では、空白や余韻が重要な役割を持っている。
 
-As a result, the music became more emotional.
+その結果、音楽はより感情的になった。
 
-Also, during this period, she actively introduced the guitar and singing voice. He went beyond the framework of being an electronic musician and approached songwriting.
+また、この時期の彼女はギターや歌声も積極的に導入している。電子音楽家という枠組みを超え、ソングライティングへ接近していったのである。
 
 <div class="mermaid">
 mindmap
@@ -194,142 +194,142 @@ mindmap
       内省
 </div>
 
-Reflection also coincided with the pandemic era. As a result, a sense of confinement and inner feelings are strongly projected.
+『Reflection』はパンデミック時代とも重なっていた。そのため、閉塞感や内面的感情が強く投影されている。
 
-In an era when club spaces were suspended, electronic music began to be redefined as music for ""feeling" rather than ""dancing."
+クラブ空間が停止した時代において、電子音楽は“踊るため”ではなく、“感じるため”の音楽として再定義され始めていた。
 
-Loraine James was a symbol of that change.
+Loraine Jamesは、その変化を象徴する存在だった。
 
-> ""Reflection'' was an important work that transformed electronic music into an inner experience.
+> 『Reflection』は、電子音楽を内面的体験へ変換した重要作だった。
 
 ---
 
-## Whatever The Weather name and approach to ambient music
+## Whatever The Weather名義とアンビエントへの接近
 
-Loraine James also performs under the alias Whatever The Weather.
+Loraine Jamesは別名義「Whatever The Weather」でも活動している。
 
-This project emphasizes spatiality rather than beats.
+このプロジェクトでは、ビートよりも空間性が重視されている。
 
-Environmental sounds, sustained sounds, and temperature sensations. Music becomes more abstract, and even the sense of time becomes vague.
+環境音、持続音、温度感覚。音楽はより抽象的になり、時間感覚さえ曖昧になっていく。
 
-This isn't just a side project. Rather, it shows the core of her musical interests.
+これは単なるサイドプロジェクトではない。むしろ、彼女の音楽的関心の核を示している。
 
-Electronic music has long been required to be "futuristic." However, in Whatever The Weather, the "air of life" itself is turned into music.
+電子音楽は長年、「未来的」であることを求められてきた。しかしWhatever The Weatherでは、“生活の空気”そのものが音楽化されている。
 
-Rain sounds, indoor reverberations, minute noises. They are treated as an extension of emotions.
+雨音、室内の残響、微細なノイズ。それらが感情の延長として扱われる。
 
 <div class="mermaid">
 graph TD
-A[Loraine James] --> B[club sex]
-A --> C[complex beat]
-A --> D[emotional expression]
+A[Loraine James] --> B[クラブ性]
+A --> C[複雑ビート]
+A --> D[感情表現]
 A --> E[Whatever The Weather]
-E --> F[environmental sounds]
+E --> F[環境音]
 E --> G[ambient]
 E --> H[static structure]
 </div>
 
-This direction is deeply related to the recent reappraisal of ambient music.
+この方向性は、近年のアンビエント再評価とも深く関係している。
 
-In an era of information overload, people are starting to seek ""blank space" rather than ""stimulation." Whatever The Weather was right in line with the sensibilities of the times.
+情報量過多の時代において、人々は“刺激”より“余白”を求め始めている。Whatever The Weatherは、まさにその時代感覚と一致していた。
 
-> Whatever The Weather was Loraine James's purest reflection of her inner world.
+> Whatever The Weatherは、Loraine Jamesの内面的世界を最も純粋に映し出したプロジェクトだった。
 
 ---
 
-## Gender, identity and self-expression
+## ジェンダー、アイデンティティ、自己表現
 
-One of the reasons why Loraine James is so important is her ""naturalness of self-expression.''
+Loraine Jamesが重要視される理由の一つに、「自己表現の自然さ」がある。
 
-She naturally incorporates her identity into her work without overly politicizing it.
+彼女は自身のアイデンティティを過剰に政治化することなく、作品の中へ自然に織り込んでいる。
 
-Gender, race, and sexuality are important themes in the contemporary electronic music scene. However, in her case, this does not exist as a statement, but as an everyday feeling.
+現代電子音楽シーンでは、ジェンダーや人種、セクシュアリティが重要なテーマとなっている。しかし彼女の場合、それは声明文ではなく、日常感覚として存在している。
 
-His attitude influenced many young musicians.
+その姿勢は多くの若い音楽家へ影響を与えた。
 
-She has also talked about her discomfort with "perfection" in interviews and other events.
+また、彼女はインタビューなどで「完璧さ」への違和感も語っている。
 
-In the age of social media, everything is presented in perfect order. But Loraine James's music instead affirms instability.
+SNS時代では、すべてが整った状態で提示される。しかしLoraine Jamesの音楽は、むしろ不安定さを肯定している。
 
-The beat collapses.
-The pitch fluctuates.
-Noise remains.
+ビートが崩れる。
+音程が揺れる。
+ノイズが残る。
 
-It still holds true.
+それでも成立する。
 
-The feel was very contemporary to many listeners.
+その感覚は、多くのリスナーにとって非常に現代的だった。
 
 <div class="mermaid">
 flowchart LR
-A[SNS era] --> B[pressure of perfection]
+A[SNS時代] --> B[完璧性の圧力]
 B --> C[Loraine James]
-C --> D[Affirmation of imperfection]
-D --> E[empathy]
-E --> F[Impact on new generations]
+C --> D[不完全性の肯定]
+D --> E[共感]
+E --> F[新世代への影響]
 </div>
 
-Her music emphasizes ""feeling" over ""correctness."
+彼女の音楽は、「正しさ」より「実感」を重視している。
 
-> Loraine James showed that imperfect feelings are a modern reality.
+> Loraine Jamesは、不完全な感情こそ現代的リアリティだと示した。
 
 ---
 
-## Influence on contemporary electronic music
+## 現代電子音楽への影響
 
-Since the 2020s, many young electronic musicians have begun to incorporate "emotional breakdown" into their works.
+2020年代以降、多くの若手電子音楽家が「感情的な壊れ方」を作品へ取り入れるようになった。
 
 Behind this is Loraine James.
 
-Traditional electronic music places emphasis on precision. However, she actively introduced misalignment and disintegration.
+従来の電子音楽では、精密さが重要視されていた。しかし彼女は、ズレや崩壊を積極的に導入した。
 
-What is even more important is that it was established as an ""emotion" rather than an ""intellect."
+さらに重要なのは、それを“知性”ではなく“感情”として成立させた点である。
 
-The following characteristics are prevalent in the current electronic music scene.
+現在の電子音楽シーンでは以下の特徴が広がっている。
 
-- irregular rhythm structure
-- Personal audio sample
+- 不規則なリズム構造
+- 個人的音声サンプル
 - Lo-fi texture
-- Fusion with ambient
-- Cross-genre
-- internal themes
+- アンビエントとの融合
+- ジャンル横断性
+- 内面的テーマ
 
-These are elements that existed before Loraine James. However, she integrated them into a modern sentiment.
+これらはLoraine James以前にも存在していた要素だ。しかし彼女は、それらを現代的感情として統合した。
 
 <div class="mermaid">
 graph TD
-A[Loraine James] --> B[emotional IDM]
-A --> C[ambient fusion]
-A --> D[DIY electronic music]
-B --> E[young generation]
+A[Loraine James] --> B[感情的IDM]
+A --> C[アンビエント融合]
+A --> D[DIY電子音楽]
+B --> E[若手世代]
 C --> E
 D --> E
-E --> F[2020s electronic music]
+E --> F[2020年代電子音楽]
 </div>
 
-In particular, musicians from the Bandcamp generation onward have been greatly influenced by her free structure.
+特にBandcamp世代以降の音楽家たちは、彼女の自由な構造から大きな影響を受けている。
 
-Emotion rather than genre name.
-More atmosphere than theory.
-Individuality over perfection.
+ジャンル名より感情。
+理論より空気感。
+完成度より個性。
 
-Those values ​​are deeply ingrained in the current electronic music scene.
+その価値観は、現在の電子音楽シーンに深く浸透している。
 
-> She redefined electronic music as an ""emotional expression" rather than a ""genre."
+> 彼女は電子音楽を“ジャンル”ではなく“感情表現”として再定義した。
 
 ---
 
-## Discography and important works
+## ディスコグラフィと重要作品
 
-### Main albums
+### 主要アルバム
 
-| Year | Works | Features |
+| 年 | 作品 | 特徴 |
 |---|---|---|
-| 2019 | For You and I | Fusion of complex beats and emotionality |
-| 2021 | Reflection | Introspective structure and silent expression |
-| 2022 | Whatever The Weather | Ambient focus |
-| 2023 | Gentle Confrontation | Songwriting Expansion |
+| 2019 | For You and I | 複雑ビートと感情性の融合 |
+| 2021 | Reflection | 内省的構造と静寂表現 |
+| 2022 | Whatever The Weather | アンビエント重視 |
+| 2023 | Gentle Confrontation | ソングライティング拡張 |
 
-### Changes in musical characteristics
+### 音楽的特徴の変化
 
 <div class="mermaid">
 timeline
@@ -341,52 +341,52 @@ timeline
     2023 : 歌と旋律の拡張
 </div>
 
-### Characteristics of sound structure
+### サウンド構造の特徴
 
 <div class="mermaid">
 graph TD
-A[complex drum] --> E[Loraine James Sound]
-B[delicate melody] --> E
-C[environmental sounds] --> E
-D[emotional noise] --> E
-E --> F[contemporary electronic music]
+A[複雑ドラム] --> E[Loraine Jamesサウンド]
+B[繊細メロディ] --> E
+C[環境音] --> E
+D[感情的ノイズ] --> E
+E --> F[現代的電子音楽]
 </div>
 
-> Loraine James's body of work has updated the very way electronic music deals with emotion.
+> Loraine Jamesの作品群は、電子音楽が感情を扱う方法そのものを更新していった。
 
 ---
 
-## Why Loraine James is special
+## なぜLoraine Jamesは特別なのか
 
-Loraine James's uniqueness lies in her ability to simultaneously achieve ""difficulty" and ""intimacy."
+Loraine Jamesの特異性は、「難解さ」と「親密さ」を同時に成立させている点にある。
 
-Her music is complex. But it's not cold.
+彼女の音楽は複雑だ。しかし冷たくはない。
 
-Rather, it is extremely human, personal, unstable, and emotional.
+むしろ極めて人間的で、個人的で、不安定で、感情的である。
 
-It is similar to modern society itself.
+それは現代社会そのものにも近い。
 
-There is a huge amount of information.
-Emotions are fragmented.
-Concentration span becomes shorter.
-The loneliness deepens.
+情報は膨大。
+感情は断片化。
+集中力は短くなる。
+孤独は深まる。
 
-Her music honestly reflects that fragmented modern sensibility.
+彼女の音楽は、その断片化した現代感覚を正直に映している。
 
-That's why many listeners connect to her music with "empathy" rather than "understanding."
+だからこそ、多くのリスナーは「理解」ではなく「共感」で彼女の音楽へ接続していく。
 
-It's part club music, part ambient, and part personal diary.
+クラブミュージックでもあり、アンビエントでもあり、個人の日記でもある。
 
-That ambiguity may be Loraine James's greatest appeal.
+その曖昧さこそ、Loraine James最大の魅力なのかもしれない。
 
 <div class="mermaid">
 graph TD
-A[complexity] --> D[Loraine James]
-B[emotionality] --> D
-C[urbanity] --> D
-D --> E[Modern electronic music updates]
+A[複雑性] --> D[Loraine James]
+B[感情性] --> D
+C[都市性] --> D
+D --> E[現代電子音楽の更新]
 </div>
 
-> Loraine James was a musician who recorded the very emotions of modern people in broken beats.
+> Loraine Jamesは、壊れたビートの中に現代人の感情そのものを記録した音楽家だった。
 
 ---

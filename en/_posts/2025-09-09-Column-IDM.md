@@ -9,40 +9,39 @@ tags:
 - IDM
 - 90s
 - 00s
-title: '[Column] From the origins of IDM to the present - Between intellectual exploration
-  and the dance floor'
+title: 【コラム】 IDMの発祥から現在まで ― 知的探究とダンスフロアの狭間で
 ---
 
 
 
-## What is IDM?
+## IDMとは何か？
 
 
-Text: mmr｜Theme: From the birth of IDM to the present
+文：mmr｜テーマ：IDMの誕生から現在まで
 
-A labyrinth of sounds that tickle intellectual curiosity - IDM (Intelligent Dance Music) was born in the early 1990s out of the experimental spirit of techno and ambient, and is a genre that went beyond the boundaries of club music and opened up a new field of ""electronic music for listening.'' Emphasizing complex rhythms, precise acoustic processing, and original sound design over functionality on the dance floor, it embodies the fusion of technology and artistry. This trend continues from pioneers like Aphex Twin and Autechre to the modern experimental electronic music scene.
+知的好奇心をくすぐる音の迷宮――IDM（Intelligent Dance Music）は、1990年代初頭にテクノやアンビエントの実験精神から生まれ、クラブミュージックの枠を超えて“聴くための電子音楽”という新たな領域を切り開いたジャンルです。ダンスフロアでの機能性よりも、複雑なリズム、緻密な音響処理、そして独創的なサウンドデザインを重視し、テクノロジーと芸術性の融合を体現してきました。その流れはAphex TwinやAutechreをはじめとする先駆者たちから、現代のエクスペリメンタル電子音楽シーンまで脈々と受け継がれています。
 
 ---
 
-## Early 1990s: Birth - The germ of "dance music for listening"
-Amidst the UK rave culture and techno craze of the late 1980s, underground labels and artists began to explore electronic music for home listening, rather than just a club tool.
-The ""Artificial Intelligence" series released by Warp Records in 1992 was a decisive turning point, and the term ""IDM" became popular.
+## 1990年代初頭：誕生 ―「リスニング向けダンスミュージック」の萌芽
+1980年代末のUKレイヴカルチャーとテクノの熱狂の中で、アンダーグラウンドなレーベルやアーティストは、単なるクラブツールではなく“家庭で聴くための電子音楽”を模索し始めた。  
+Warp Recordsが1992年にリリースした《Artificial Intelligence》シリーズが決定的契機となり、「IDM」という呼称が広まる。  
 
-- **Representative masterpiece**
-- Aphex Twin – *Selected Ambient Works 85-92* (1992)
-- Autechre – *Incunabula* (1993)
-- The Orb – *U.F.Orb* (1992)
-- Black Dog Productions – *Bytes* (1993)
+- **代表的な名盤**  
+  - Aphex Twin – *Selected Ambient Works 85-92* (1992)  
+  - Autechre – *Incunabula* (1993)  
+  - The Orb – *U.F.Orb* (1992)  
+  - Black Dog Productions – *Bytes* (1993)  
 
-- **Equipment characteristics**
-In addition to Roland TR-808, 909, and TB-303, samplers such as **Akai S1000** and sequencer environments such as **Atari ST + Cubase** were frequently used, making it possible to construct complex beats.
+- **機材の特徴**  
+  Roland TR-808や909、TB-303に加え、**Akai S1000**などのサンプラー、**Atari ST + Cubase**といったシーケンサー環境が多用され、複雑なビート構築が可能になった。  
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -50,153 +49,153 @@ color: #fff;
 }
 </style>
 
-### List of 10 recommended songs (early 1990s)
+### おすすめ10曲リスト（1990年代初頭）
 
-| No | Artist | Song title | Comments |
+| No | アーティスト | 曲名 | コメント |
 |---|---|---|---|
-| 1 | Aphex Twin | Xtal | Floating ambient beat, symbol of early IDM |
-| 2 | Autechre | Kalpol Intro | The beginning of minimal and abstract IDM |
-| 3 | Black Dog Productions | Carceres Ex Novum | Fusion of melody and beat |
-| 4 | LFO | LFO | Important tracks that connect techno and IDM |
-| 5 | B12 | Soundtrack Of Space | SF-like and futuristic texture |
-| 6 | Orbital | Belfast | Bridging dance and listening |
-| 7 | The Orb | Little Fluffy Clouds | A masterpiece that makes full use of sampling |
-| 8 | Speedy J | De-Orbit | The origin of ambient techno |
-| 9 | Seefeel | Plainsong | Guitar noise and IDM approach |
-| 10 | Global Communication | 14:31 | Meditative ambient works |
+| 1 | Aphex Twin | Xtal | 初期IDMの象徴、浮遊感のあるアンビエント・ビート |
+| 2 | Autechre | Kalpol Intro | ミニマルで抽象的なIDMの幕開け |
+| 3 | Black Dog Productions | Carceres Ex Novum | メロディとビートの融合 |
+| 4 | LFO | LFO | テクノとIDMをつなぐ重要トラック |
+| 5 | B12 | Soundtrack Of Space | SF的で未来的な質感 |
+| 6 | Orbital | Belfast | ダンスとリスニングの橋渡し |
+| 7 | The Orb | Little Fluffy Clouds | サンプリングを駆使した名作 |
+| 8 | Speedy J | De-Orbit | アンビエント・テクノの原点 |
+| 9 | Seefeel | Plainsong | ギターノイズとIDM的アプローチ |
+| 10 | Global Communication | 14:31 | 瞑想的アンビエント作品 |
 
 ---
 
-## Late 1990s: Deepening and complexity
-After interacting with jungle and drum and bass, IDM moved on to rhythmic subdivision and sonic experimentation. Artistic acclaim outside the clubs grew, and it began to be talked about in the context of art schools and galleries.
+## 1990年代後半：深化と複雑化
+ジャングルやドラムンベースとの交流を経て、IDMはリズムの細分化と音響的実験に進んだ。クラブから離れた芸術的評価が高まり、アートスクールやギャラリーでの文脈でも語られるようになる。  
 
 - **Representative masterpiece**
-- Aphex Twin – *Richard D. James Album* (1996)
-- Autechre – *Tri Repetae* (1995)
-- Squarepusher – *Hard Normal Daddy* (1997)
-- μ-Ziq – *Lunatic Harness* (1997)
+  - Aphex Twin – *Richard D. James Album* (1996)  
+  - Autechre – *Tri Repetae* (1995)  
+  - Squarepusher – *Hard Normal Daddy* (1997)  
+  - μ-Ziq – *Lunatic Harness* (1997)  
 
-- **Equipment characteristics**
-Programming environments such as **Max/MSP** and **SuperCollider** have appeared.
-Hardware synths such as **Nord Lead** and **Access Virus** became popular.
+- **機材の特徴**  
+  **Max/MSP**や**SuperCollider**といったプログラミング環境が登場。  
+  ハードウェアシンセは**Nord Lead**や**Access Virus**が人気を博した。  
 
 ### List of 10 recommended songs (late 1990s)
 
-| No | Artist | Song title | Comments |
+| No | アーティスト | 曲名 | コメント |
 |---|---|---|---|
-| 1 | Aphex Twin | Girl/Boy Song | Fusion of strings and complex beats |
-| 2 | Autechre | Eutow | Mechanical and beautiful rhythm design |
+| 1 | Aphex Twin | Girl/Boy Song | ストリングスと複雑ビートの融合 |
+| 2 | Autechre | Eutow | 機械的で美しいリズム設計 |
 | 3 | Squarepusher | My Red Hot Car | An innovative blend of jazz and IDM |
-| 4 | μ-Ziq | Brace Yourself Jason | Drill-like development and playfulness |
+| 4 | μ-Ziq | Brace Yourself Jason | ドリル的展開と遊び心 |
 | 5 | Boards of Canada | Roygbiv | Nostalgic and warm sound |
-| 6 | Plaid | Abla Eedio | Geometric pop melody |
-| 7 | Bogdan Raczynski | Samurai Math Beats | Intense beat experiment |
-| 8 | Cylob | Cut The Midrange, Drop The Bass | A humorous gem from the Aphex group |
-| 9 | Luke Vibert | I Love Acid | The intersection of IDM and acid |
-| 10 | Venetian Snares | Hajnal | Fusion of classical and breakcore |
+| 6 | Plaid | Abla Eedio | 幾何学的でポップな旋律 |
+| 7 | Bogdan Raczynski | Samurai Math Beats | 激烈なビート実験 |
+| 8 | Cylob | Cut The Midrange, Drop The Bass | Aphex一派のユーモラスな逸品 |
+| 9 | Luke Vibert | I Love Acid | IDMとアシッドの交差点 |
+| 10 | Venetian Snares | Hajnal | クラシカルとブレイクコアの融合 |
 
 ---
 
-## 2000s: Post-IDM and Crossover
-Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the nature of releases has changed.
+## 2000年代：ポストIDMとクロスオーバー
+エレクトロニカ、ポストロック、アンビエントなどと融合し、より幅広いリスナーに拡張。インターネットとP2Pの普及でリリースの在り方も変化した。  
 
-- **Representative masterpiece**
-- Boards of Canada – *Geogaddi* (2002)
-- Four Tet – *Rounds* (2003)
-- Plaid – *Spokes* (2003)
-- Venetian Snares – *Rossz Csillag Alatt Született* (2005)
+- **代表的な名盤**  
+  - Boards of Canada – *Geogaddi* (2002)  
+  - Four Tet – *Rounds* (2003)  
+  - Plaid – *Spokes* (2003)  
+  - Venetian Snares – *Rossz Csillag Alatt Született* (2005)  
 
-- **Equipment characteristics**
-Introducing **Ableton Live**, which combines real-time operation and production.
-Soft synths such as **Reaktor and FM7** have become standard.
+- **機材の特徴**  
+  **Ableton Live**が登場し、リアルタイム操作と制作が融合。  
+  **Reaktor、FM7**などのソフトシンセが定番化。  
 
-### List of 10 recommended songs (2000s)
+### おすすめ10曲リスト（2000年代）
 
-| No | Artist | Song title | Comments |
+| No | アーティスト | 曲名 | コメント |
 |---|---|---|---|
-| 1 | Boards of Canada | Dayvan Cowboy | Lyrical acoustic beauty |
-| 2 | Four Tet | My Angel Rocks Back and Forth | Folktronica masterpieces |
-| 3 | Plaid | Zeal | Symbol of the electronica era |
-| 4 | Venetian Snares | Szamar Madar | The line between classical and IDM |
-| 5 | Amon Tobin | Verbal | Clever reconstruction of the sample |
-| 6 | Prefuse 73 | One Word Extinguisher | An encounter between hip-hop and IDM |
-| 7 | Telefon Tel Aviv | Fahrenheit Fair Enough | Smooth acoustics and beats |
-| 8 | Ulrich Schnauss | Monday – Paracetamol | Shoegaze IDM |
-| 9 | Isan | Microdisko | Minimal and warm sound image |
-| 10 | Clark | Totem Crackerjack | Rough and experimental texture |
+| 1 | Boards of Canada | Dayvan Cowboy | 叙情的な音響美 |
+| 2 | Four Tet | My Angel Rocks Back and Forth | フォークトロニカの名曲 |
+| 3 | Plaid | Zeal | エレクトロニカ時代の象徴 |
+| 4 | Venetian Snares | Szamar Madar | クラシカルとIDMの境界線 |
+| 5 | Amon Tobin | Verbal | サンプルの巧みな再構築 |
+| 6 | Prefuse 73 | One Word Extinguisher | ヒップホップとIDMの邂逅 |
+| 7 | Telefon Tel Aviv | Fahrenheit Fair Enough | 滑らかな音響とビート |
+| 8 | Ulrich Schnauss | Monday – Paracetamol | シューゲイズ的IDM |
+| 9 | Isan | Microdisko | ミニマルで温かい音像 |
+| 10 | Clark | Totem Crackerjack | 荒々しく実験的な質感 |
 
 ---
 
-## 2010s: Reconnecting with the club
+## 2010年代：クラブとの再接続
 Mixed with bass music, grime, and ambient techno. IDM became more of an aesthetic than a genre, permeating the sound design of underground clubs and festivals.
 
-- **Representative masterpiece**
-- Oneohtrix Point Never – *Replica* (2011)
-- Actress – *R.I.P* (2012)
-- Arca – *Xen* (2014)
-- Aphex Twin – *Syro* (2014)
+- **代表的な名盤**  
+  - Oneohtrix Point Never – *Replica* (2011)  
+  - Actress – *R.I.P* (2012)  
+  - Arca – *Xen* (2014)  
+  - Aphex Twin – *Syro* (2014)  
 
-- **Equipment characteristics**
-**Modular synth (Eurorack)** boom.
+- **機材の特徴**  
+  **モジュラーシンセ（Eurorack）**のブーム。  
 Original instrument development using **Max for Live**.
 
 ### おすすめ10曲リスト（2010年代）
 
-| No | Artist | Song title | Comments |
+| No | アーティスト | 曲名 | コメント |
 |---|---|---|---|
-| 1 | Oneohtrix Point Never | Replica | Fusion of glitch and ambient |
-| 2 | Actress | Hubble | Dark and abstract IDM |
-| 3 | Arca | Thievery | Avant-garde and sensual acoustics |
-| 4 | Aphex Twin | Minipops 67 | A masterpiece announcing the revival |
-| 5 | James Blake | CMYK | Bridging post-dubstep and IDM |
+| 1 | Oneohtrix Point Never | Replica | グリッチとアンビエントの融合 |
+| 2 | Actress | Hubble | 暗く抽象的なIDM |
+| 3 | Arca | Thievery | 前衛的で官能的な音響 |
+| 4 | Aphex Twin | Minipops 67 | 復活を告げる名曲 |
+| 5 | James Blake | CMYK | ポスト・ダブステップとIDMの橋渡し |
 | 6 | Laurel Halo | Sunlight on the Faded | Experimental vocals and acoustics |
 | 7 | Tim Hecker | Virgins | Noise and IDM construction |
 | 8 | Andy Stott | Luxury Problems | Dark and profound club-oriented IDM |
 | 9 | Holly Herndon | Chorus | Pioneer of AI approach |
-| 10 | Lapalux | Without You | Emotional IDM R&B |
+| 10 | Lapalux | Without You | エモーショナルなIDM的R&B |
 
 ---
 
-## 2020s-present: Dispersing IDM genes
-In the streaming era, the boundaries between genres are becoming increasingly blurred. Elements of IDM are present in scenes as diverse as ambient, hyperpop, techno, and lo-fi beats.
+## 2020年代〜現在：分散するIDMの遺伝子
+ストリーミング時代、ジャンルの境界はますます曖昧に。IDMの要素はアンビエント、ハイパーポップ、テクノ、Lo-fiビートなど多様なシーンで息づいている。  
 
-- **Representative masterpiece**
-- Autechre – *SIGN* / *PLUS* (2020)
-- Kelly Lee Owens – *Inner Song* (2020)
-- Floating Points – *Promises* (2021, with Pharoah Sanders & LSO)
-- Skee Mask – *Pool* (2021)
+- **代表的な名盤**  
+  - Autechre – *SIGN* / *PLUS* (2020)  
+  - Kelly Lee Owens – *Inner Song* (2020)  
+  - Floating Points – *Promises* (2021, with Pharoah Sanders & LSO)  
+  - Skee Mask – *Pool* (2021)  
 
 - **Equipment characteristics**
-**Use of AI support tools and generative music software**.
-Hybrid production that combines modular and software.
+  **AI支援ツールやジェネレーティブ音楽ソフト**の活用。  
+  モジュラーとソフトを組み合わせたハイブリッド制作。  
 
 ### List of 10 recommended songs (2020s-present)
 
 | No | Artist | Song title | Comments |
 |---|---|---|---|
-| 1 | Autechre | M4 Lema | Complex and organic evolution |
+| 1 | Autechre | M4 Lema | 複雑かつ有機的な進化 |
 | 2 | Kelly Lee Owens | Night | Dreamy Soundscape |
-| 3 | Floating Points, Pharoah Sanders | Movement 1 | Supreme fusion of jazz and IDM |
-| 4 | Skee Mask | Rev8617 | Fusion of breakbeat and ambient |
-| 5 | Caterina Barbieri | Fantas | Modular Hypnotic Repetition |
-| 6 | Rian Treanor | Ataxia | The forefront of rhythm experimentation |
-| 7 | Loraine James | Simple Stuff | The new standard-bearer of UK electronica |
-| 8 | Actress | XXX | Intersection with the latest club |
-| 9 | Jlin | Embryo | Intersection between footwork and IDM |
+| 3 | Floating Points, Pharoah Sanders | Movement 1 | ジャズとIDMの至高融合 |
+| 4 | Skee Mask | Rev8617 | ブレイクビートとアンビエントの融合 |
+| 5 | Caterina Barbieri | Fantas | モジュラーによる催眠的反復 |
+| 6 | Rian Treanor | Ataxia | リズム実験の最前線 |
+| 7 | Loraine James | Simple Stuff | UKエレクトロニカの新旗手 |
+| 8 | Actress | XXX | 最新クラブとの交差点 |
+| 9 | Jlin | Embryo | フットワークとIDMの接点 |
 | 10 | Fennesz | Agora | Fusion of guitar acoustics and IDM |
 
 ---
 
 ## The spirit of acoustic experimentation itself
-IDM has gone beyond the framework of ""dance music for intellectual listening'' and has evolved into the very spirit of sonic experimentation.
-Although it started outside clubs, it has now found its way back into club and pop music, and its aesthetic is sprinkled throughout contemporary electronic music.
+IDMは「知的に聴くためのダンスミュージック」という枠を超え、**音響実験の精神そのもの**として進化してきた。  
+クラブの外から始まったが、今では再びクラブやポップスにも浸透し、その美学は現代のエレクトロニック・ミュージック全体に散りばめられている。  
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nlKbA9Cehh4?si=1j50VFSKQk04Nn7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

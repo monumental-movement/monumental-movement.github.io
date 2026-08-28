@@ -23,7 +23,7 @@ title: Pick up Dubstep works
 Features: Three people with different approaches are in charge of each aspect, making this a piece with an attractive composition on both sides.
 
 
-Why: Benga"s bass depth, Walsh"s groove, and Darqwan's originality shine through on each track.
+Why: Benga"s deep bass, Walsh"s groove, and Darqwan's originality shine through on each track.
 
 #### Tracklist
 ```md
@@ -75,7 +75,7 @@ B. Cosmic Minefield
 Features: The combination of Distance, Skream, who have been leading the dubstep scene since its birth, and Goth-Trad, representing Japan, is a dream collaboration.
 
 
-Charm: Skream is a "destructive beat" that makes use of the essence of the original song, while Goth-Trad is a dark, texture-oriented reconstruction, which can be said to be completely opposite sound images contained in one album. This item has great value as a classic and is in high demand from analog enthusiasts and DJs.
+Charm: Skream is a "destructive beat" that makes use of the essence of the original song, while Goth-Trad is a dark and texture-oriented reconstruction, which can be said to be completely opposite sound images contained in one album. This item has great value as a classic and is in high demand from analog enthusiasts and DJs.
 
 #### Tracklist
 ```md

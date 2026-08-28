@@ -11,23 +11,23 @@ tags:
 - Minimal
 - Acid
 - 00s
-title: Jesse Somfay – 我們透過彼此呼吸星星
+title: Jesse Somfay – We Breathe The Stars Through Each Other
 ---
 
 
 
-Jesse Somfay 是來自加拿大的製作人，自 2000 年代中期以來一直活躍於著名品牌 Archipel 和 Traum Schallplatten。他的風格融合了極簡科技、氛圍和鞋履風格。他也因以 Borealis 名義開展的活動而聞名。
+Jesse Somfay（ジェシー・ソムフェイ）は、2000年代半ばから名門レーベルArchipelやTraum Schallplattenを中心に活動しているカナダ出身のプロデューサー。ミニマル・テクノ、アンビエント、シューゲイザーを融合させたスタイルが特徴。Borealis（ボレアリス）名義での活動でもよく知られている。
 
-《We Breathe The Stars Through Each Other》是 Jesse Somfay 的標誌性 Techno/Minimal/Acid 曲目，於 2005 年在 Traum Schallplatten 唱片公司發行。它包含在專輯《Between The Dark And The Light》中。
+「We Breathe The Stars Through Each Other」は、2005年にレーベルTraum Schallplattenからリリースされた、Jesse Somfayの代表作的Techno／Minimal／Acidトラック。アルバム『Between The Dark And The Light』に収録されている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. This Fragile Addiction
 
 B. For One Brief Moment, I Was There
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m43692083399?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43692083399?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rMqoszk4TS4?si=HVlhwlpxMwV7jY_y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

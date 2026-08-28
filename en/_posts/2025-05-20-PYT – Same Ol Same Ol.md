@@ -14,9 +14,9 @@ title: PYT – Same Ol' Same Ol'
 ---
 
 
-P.Y.T. is a US girl group from Florida that was active from 1998 to 2002.
+P.Y.T.は、1998年から2002年に活動したフロリダ出身のUSガールズグループ。
 
-During his career, he toured with InSync, Britney Spears, Destiny's Child, and 98 Degrees, and performed at the 2001 Super Bowl.
+活動中には、インシンク、ブリトニー・スピアーズ、デスティニーズチャイルド、98 Degreesとツアーを行い、2001年のスーパーボウルではパフォーマンスをした。
 
 "Same Ol" Same Ol'" released in 2001 is a contemporary R&B song that used Dr. Dre"s Next episode as the track and became a huge hit.
 
@@ -31,7 +31,7 @@ B1. Same Ol' Same Ol' (Hip Hop Mix)
 B2. Instrumental
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m97173949196?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97173949196?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G6wEuFlTw64?si=E8sx5lRwoXpsffNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

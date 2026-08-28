@@ -10,15 +10,15 @@ tags:
 - JPop
 - Synth-Pop
 - Techno
-title: 黃色魔法樂團 – 美國黃色魔法樂團
+title: Yellow Magic Orchestra – Yellow Magic Orchestra US
 ---
 
 
-這是美國版YMO（黃魔樂團）第一張LP。
+YMO（イエローマジックオーケストラ）ファーストLPのUS盤になります。
 
-日文版本是[這裡](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra/)
+日本盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra/)
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Computer Game "Theme From The Circus"
 
@@ -39,7 +39,7 @@ B3. Bridge Over Troubled Music
 B4. Mad Pierrot
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m43230673648?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43230673648?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01rpPco3L8A?si=YKwjRqhscpgvbl9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

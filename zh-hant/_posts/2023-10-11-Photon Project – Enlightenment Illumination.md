@@ -9,22 +9,22 @@ permalink: /zh-hant/photon-project-enlightenment-illumination/
 tags:
 - Trance
 - Progressive
-title: 光子計畫－啟蒙照明
+title: Photon Project – Enlightenment Illumination
 ---
 
 
-Photon Project 是荷蘭 trance 製作人兼作曲家 Geert Huinink 和 Alco Lammers 的一個專案。 Geert Huinink 因 2001 年至 2007 年與 DJ Tiësto 合作製作了他的前三張專輯《In My Memory》、《Just Be》和《Elements of Life》而聞名，並共同創作了《Magik Journey》、《Forever Today》和《A Tear In The Open》等歌曲。
+Photon Projectは、オランダのトランスプロデューサー兼作曲家Geert HuininkとAlco Lammersによるプロジェクト。Geert Huininkは、2001年から2007年まで、DJ Tiëstoと最初の3枚のアルバム『In My Memory』、『Just Be』、『Elements of Life』で協力し、「Magik Journey」、「Forever Today」、「A Tear In The Open」などの曲を共作した事でも知られている。
 
-除了 Photon Project 之外，Geert Huinink 和 Alco Lammers 還以其他名字進行創作，包括 2 Souls、Dawnseekers、G & A Project、Headstrong、Magik Muzik、Modus Operandi 和 Twenty-Something。
+Geert HuininkとAlco Lammersは、Photon Project以外にも、2 Souls, Dawnseekers, G & A Project, Headstrong, Magik Muzik, Modus Operandi, Twenty-Somethingなどの別名義でも活動している。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Enlightenment
 
 B. Illumination
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m84306913921?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84306913921?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KhTOaMXGhnM?si=DsyCVVzIQIAju2Oa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

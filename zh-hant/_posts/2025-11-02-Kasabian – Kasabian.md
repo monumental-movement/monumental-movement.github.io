@@ -11,7 +11,7 @@ tags:
 - Rock
 - Alternative Rock
 - 00s
-title: 卡薩比安 – 卡薩比安
+title: Kasabian – Kasabian
 ---
 
 
@@ -23,9 +23,9 @@ title: 卡薩比安 – 卡薩比安
 
 イギリス・レスター出身のオルタナティブ／エレクトロ ロックバンドKasabianが、2004年にリリースしたファーストアルバム。カサビアンは、ロックエレクトロニカを融合させたサウンドが特徴。
 
-Kasabian 被認為是 21 世紀英國最活躍的搖滾樂團之一。
+カサビアンは、21世紀にイギリスから登場したロックバンドの中で、最も活躍しているバンドのひとつと評されている。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Club Foot
 2. Processed Beats
@@ -43,7 +43,7 @@ Kasabian 被認為是 21 世紀英國最活躍的搖滾樂團之一。
 13.2. Reason Is Treason (Jacknife Lee Version)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m64130337346?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64130337346?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ogrEX1oBav4?si=VOAXb195Nl1q4zRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

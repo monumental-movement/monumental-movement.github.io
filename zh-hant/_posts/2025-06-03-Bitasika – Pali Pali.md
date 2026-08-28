@@ -11,13 +11,13 @@ tags:
 - Folk
 - World
 - African
-title: Bitasika – 巴利語 巴利語
+title: Bitasika – Pali Pali
 ---
 
 
-Bitasika 是一支非洲樂隊，由來自剛果民主共和國的表演者 BB Mo-Franck 領導，他也是 Shiki 劇團《獅子王》的首席打擊樂手。鼓手/打擊樂手 Jun Watanabe JunJun 也參加。
+Bitasika(ビタシカ)は、コンゴ民主共和国出身の演奏家であり劇団四季「ライオンキング」初代パーカッション奏者、BB Mo-Franck(BBモフラン)率いるアフリカンバンド。ドラマー/パーカッショニストのJunJunこと渡辺 淳も参加している。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Nyengo
 2. Tikanga Nayemba
@@ -30,4 +30,4 @@ Bitasika 是一支非洲樂隊，由來自剛果民主共和國的表演者 BB M
 9. Lost & Found
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m14941575403?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14941575403?afid=6142608987){: .button1}

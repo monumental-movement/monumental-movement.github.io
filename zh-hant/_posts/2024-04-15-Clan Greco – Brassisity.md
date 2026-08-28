@@ -10,31 +10,31 @@ tags:
 - House
 - Deep House
 - Future Jazz
-title: 希臘氏族 – Brasisity
+title: Clan Greco – Brassisity
 ---
 
 
-Clan Greco是由Neffa e Sud Sound System製作人和聯合製作人Ricky Rinaldi、DJ Rodriguez、Bossa Nostra、Gazzara等以及意大利小號手Massimo Greco組成的單位。
+Clan Grecoは、Neffa e Sud Sound SystemやDJ Rodriguez、Bossa Nostra、Gazzaraなどのプロデューサー兼共同プロデューサーRicky Rinaldiと、イタリアのトランペット奏者Massimo Grecoによるユニット。
 
-== 參展藝術家
+≡ 参加アーティスト
 
-貝斯手：克里斯蒂安·利斯
+ベース：Christian Lisi
 
-鼓：羅伯托龐齊奧、羅伯托羅西
+ドラム：Roberto Ponzio, Roberto Rossi
 
-鍵盤：大師加羅法洛、米歇爾特羅貝蒂
+キーボード：Maestro Garofalo, Michele Trombetti
 
-薩克斯風：奇科·蒙蒂菲奧裡
+サックス：Chicco Montefiori
 
-小號：馬西莫·格雷科
+トランペット： Massimo Greco
 
-演唱：西爾維亞·多納蒂
+ヴォーカル：Silvia Donati
 
-製片 Massimo Greco、Ohm Guru
+プロデューサー Massimo Greco, Ohm Guru
 
-聯合製片：黃銅復仇者
+共同プロデューサー：Brass Avengers 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Fast Salsa
 
@@ -61,7 +61,7 @@ D2. Free Bossa
 D3. Full Funk
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

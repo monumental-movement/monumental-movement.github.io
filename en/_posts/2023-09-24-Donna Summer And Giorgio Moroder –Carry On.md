@@ -12,9 +12,9 @@ title: Donna Summer And Giorgio Moroder –Carry On
 ---
 
 
-"Carry On" is a collaboration between Donna Summer and Giorgio Moroder, released in 1977.
+「Carry On」は、ドナ・サマー（Donna Summer）とジョルジオ・モロダー（Giorgio Moroder）のコラボレーション楽曲で1977年にリリースされました。
 
-It is considered one of the hit songs and important works of the golden age of disco music, and continues to be loved by many people in the music scene even today.
+ディスコミュージックの黄金期におけるヒット曲&重要な作品の一つとされており、現在でも音楽シーンにおいても多くの人々に愛され続けています。
 
 
 #### Tracklist

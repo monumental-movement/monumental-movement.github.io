@@ -9,17 +9,17 @@ permalink: /zh-hant/acdc-flick-of-the-switch/
 tags:
 - Rock
 - Hard Rock
-title: AC/DC – 輕輕一按開關
+title: AC/DC – Flick Of The Switch
 ---
 
 
-Flick of the Switch 是澳洲硬搖滾樂團 AC/DC 的第九張錄音室專輯。
+『Flick of the Switch（フリック・オブ・ザ・スイッチ）』は、オーストラリアのハードロックバンドAC/DCの9枚目のスタジオ・アルバムです。
 
-與樂團之前的專輯（1980 年的《Back in Black》和 1981 年的《For those About to Rock》）相比，這張專輯的銷量不佳，並被視為標誌著樂團商業衰退的開始。
+このアルバムは、バンドの1980年の『Back in Black』や1981年の『For Those About to Rock』といった前作と比較して売り上げが伸び悩み、バンドの商業的な衰退の始まりを示すものとされました。
 
-這是 AC/DC 與主唱 Brian Johnson 合作的第三張專輯，也是鼓手 Phil Rudd 暫時離開之前的最後一張專輯。
+AC/DCのリードボーカルであるブライアン・ジョンソンが参加した3枚目のアルバムであり、また、ドラマーのフィル・ラッドが一時的に脱退する前の最後のアルバムとなります。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Rising Power
 
@@ -42,7 +42,7 @@ B4. Badlands
 B5. Brain Shake
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m69281188370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69281188370?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jr7r-mjVgfg?si=WkOg9mGNL53kFICA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

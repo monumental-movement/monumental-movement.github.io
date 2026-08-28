@@ -13,7 +13,7 @@ title: Dusty Kid – Beyond That Hill
 
 Dusty Kid is the alias of Paolo Alberto Lodde, an Italian electronic music producer and DJ.
 
-"Beyond That Hill" is an album released by Dusty Kid in 2009. Pulsing bass lines, atmospheric textures, and complex melodies combine techno, house, and progressive tastes to create Dusty Kid's unique worldview.
+「Beyond That Hill」は、Dusty Kidが2009年にリリースしたアルバムです。パルシングするベースライン、大気的なテクスチャ、複雑なメロディなど、テクノ、ハウス、プログレッシブなどのあらゆるテイストが融合し、ダスティ・キッド独特の世界観を作り出しています。
 
 #### Tracklist
 ```md
@@ -34,7 +34,7 @@ Dusty Kid is the alias of Paolo Alberto Lodde, an Italian electronic music produ
 8. That Hug
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m76599030054?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76599030054?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK3nJqRNKDg?si=AKpm-UjLwulEC8YV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

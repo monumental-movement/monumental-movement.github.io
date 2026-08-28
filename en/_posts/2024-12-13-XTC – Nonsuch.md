@@ -9,11 +9,11 @@ tags:
 - Pop Rock
 - Rock
 - 90s
-title: XTC – Nonesuch
+title: XTC – Nonsuch
 ---
 
 
-"Nonsuch" is the 12th style album by UK rock band XTC, released by Virgin in 1992. The producer is Gus Dudgeon, who has worked on works by Elton John. It was XTC's most political album, touching on topics ranging from love and humanity to the Gulf War and P•T•Barnum, and was a hit in the United States and the United Kingdom.
+「Nonsuch 」は、1992年にVirginからリリースされたUKのロックバンドXTCの12枚目のスタイルアルバム。プロデューサーにはエルトン・ジョンの作品などを手がけるGus Dudgeon(ガス・ダッジョン)。愛、人間性から湾岸戦争、P•T•バーナムまで多岐にわたるトピックに言及したXTCの中では最も政治的なアルバムとなっており、アメリカとイギリスでヒットとなった。
 
 #### Tracklist
 ```md
@@ -36,7 +36,7 @@ title: XTC – Nonesuch
 17. Books Are Burning
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zyp3NMeiV_Q?si=TDJweO2diQVY5QqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

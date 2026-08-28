@@ -13,9 +13,9 @@ title: El Cantor – Toma '96 Remixes!
 ---
 
 
-Davidson Ospina, also known as El Cantor, is a house DJ from New York. He runs his own label, Ospina Digital records. He is also a remixer who has created remixes for many famous artists, including Christina Aguilera"s ""Ain"t No Other Man" and Beyonce's ""Broken Hearted Girl."
+El Cantor ことDavidson OspinaはNY出身のハウスDJ。自身のレーベルOspina Digital recordsを運営している。また、Christina Aguilera(クリスティーナ・アギレラ)「Ain't No Other Man」、Beyonce(ビヨンセ)「Broken Hearted Girl」等、多数の有名アーティストのremix を手掛けるリミキサーでもある。
 
-"Toma '96 Remixes!" is a house/tribal house track released by Digital Dungeon Records in 1996.
+「Toma '96 Remixes!」は、1996年にDigital Dungeon Recordsからリリースされたハウス・トライバルハウストラック。
 
 The first track on Side A is a remix by JohNick, an Italian-American DJ duo from Brooklyn.
 

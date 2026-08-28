@@ -9,15 +9,15 @@ tags:
 - Techno
 - Swedish Techno
 - 00s
-title: Adam Beyer & Henrik B – Heat Wombing
+title: Adam Beyer & Henrik B – Heat  Wombing
 ---
 
 
-Adam Beyer is a Swedish techno producer and DJ from Stockholm. He has released numerous techno tracks on labels such as Drumcode Records, Mad Eye Recordings, and Truesoul Records.
+Adam Beyer （アダム・ベイヤー）は、ストックホルム出身のスウェーデンテクノプロデューサー＆DJ。Drumcode Records、Mad Eye Recordings、Truesoul Records などから数多くのテクノトラックをリリースしている。
 
-Henrik Gustav Berntsson, also known as Henrik B, is a Swedish techno house producer and DJ. Henrik B was once a member of the Swedish House Mafia. Since around 2006, he has been releasing downtempo songs.
+Henrik BことHenrik Gustav Berntssonは、スウェーデンのテクノ・ハウス プロデューサー＆DJ。Henrik Bは、かつてSwedish House Mafiaのメンバーの一人だった。2006年ごろからはダウンテンポよりの楽曲をリリースしている。
 
-"Heat/Wombing" is a techno track released in 2003 by Henrik B's label Illgorhythm Recordings.
+「Heat / Wombing」は、Henrik Bが運営するレーベルIllgorhythm Recordingsから2003年にリリースされたテクノトラック。
 
 #### Tracklist
 ```md
@@ -26,9 +26,9 @@ A. Heat
 B. Wombing
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m97751887852?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97751887852?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8_A0Q7Ymuk?si=CfwBhu5y1S0yR__K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MoZUbvlHTHM?si=SuYeLO7ub-AoGfsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,17 +12,17 @@ title: Sly & The Family Stone – Stand
 ---
 
 
-"Stand!" is Sly & the Family Stone's fourth studio album and one of their most successful works.
+「Stand!」は、スライ＆ザ・ファミリー・ストーンの4枚目のスタジオアルバムであり、彼らの最も成功した作品の一つです。
 
-The album attracted attention for its musical style, which fuses various genres such as funk, soul, rock, and pop.
+アルバムは、ファンク、ソウル、ロック、ポップなど、様々なジャンルを融合させた音楽スタイルで注目を集めました。
 
 The album contains many hit songs, most notably "Everyday People," "Stand!" and "I Want to Take You Higher."
 
 These songs are about social integration and a desire for peace, and feature positive messages and catchy melodies.
 
-"Stand!" reflects Sly & the Family Stone's musical innovation and social significance of its time.
+ 「Stand!」は、スライ＆ザ・ファミリー・ストーンの音楽的な革新性とその時代における社会的な意義を反映した作品です。
 
-The album became emblematic of the evolution of funk music and its influence on pop culture.
+ アルバムは、ファンクミュージックの進化とポップカルチャーへの影響を象徴するものとなりました。
 
 Sly & the Family Stone's experimental approach and positive message have influenced countless musicians and audiences, positioning them as timeless artists.
 

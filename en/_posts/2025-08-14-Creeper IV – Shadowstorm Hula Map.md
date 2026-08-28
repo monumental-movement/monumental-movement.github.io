@@ -13,9 +13,9 @@ title: Creeper IV – Shadowstorm Hula Map
 ---
 
 
-Creeper is a project by Chris Knowles, a UK Acid/Techno DJ and producer who was also the drummer for the British anarcho-punk band Hagar The Womb in the early 1980s, and Techno DJ and producer Henry Cullen (D.A.V.E. The Drummer).
+Creeperは、UK Acid/Techno DJ&プロデューサーであり、1980年代初頭のイギリスのanarcho-punk(アナーコパンク)バンドHagar The Wombのドラマーとしても活躍したChris Knowlesと、Techno DJ&プロデューサー Henry Cullen(D.A.V.E. The Drummer)によるプロジェクト。
 
-"Creeper IV – Shadowstorm / Hula / Map" was released in 2000 on the UK acid-techno label Cluster Records. The fourth in the series released under the names Creeper I to V.
+「Creeper IV – Shadowstorm / Hula / Map 」は、2000年にUK acid-techno レーベルCluster Records からリリースされた。Creeper Ⅰ〜Ⅴ名義でリリースされたシリーズの第4弾。
 
 
 #### Tracklist
@@ -26,7 +26,7 @@ AA1. Hula
 AA2. Map
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m40571568473?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40571568473?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9cjzsUYFU4Q?si=X-cImso_UGwQafBK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

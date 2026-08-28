@@ -12,15 +12,15 @@ tags:
 - Alternative Rock
 - Hardcore
 - Horror Rock
-title: Sum 41 – 這看起來被感染了嗎？
+title: Sum 41 – Does This Look Infected?
 ---
 
 
-2002年發行的《Does This Look Infected?》是Sum41的第二張錄音室專輯。
+2002年にリリースされた「Does This Look Infected?」は、Sum41の2枚目のスタジオアルバム。
 
-這張專輯的流行音樂元素比他們的第一張專輯《All Killer No Filler》要少，風格更黑暗、更重，有重金屬、恐怖龐克、龐克搖滾、流行龐克、旋律硬核、硬核龐克、激流金屬和D-beat等元素。
+このアルバムは、前作のファーストアルバム「All Killer No Filler」よりもポップミュージックの要素が少なく、ダークでヘビーなスタイルで、ヘビーメタル、ホラーパンク、パンクロック、ポップパンク、メロディックハードコア、ハードコアパンク、スラッシュメタル、Dビートの要素がつまったアルバムとなっている。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. The Hell Song
 2. Over My Head (Better Off Dead)
@@ -36,7 +36,7 @@ title: Sum 41 – 這看起來被感染了嗎？
 12. Hooch
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qO-mSLxih-c?si=8CFdT8kN6vvHHVyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

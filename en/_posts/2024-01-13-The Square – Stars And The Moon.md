@@ -13,21 +13,21 @@ title: The Square – Stars And The Moon
 ---
 
 
-THE SQUARE or T-SQUARE is a Japanese jazz fusion band formed in 1976.
+THE SQUARE（ザ・スクェア）またはT-SQUARE（ティー・スクェア）は、1976年に結成された日本のジャズフュージョンバンド。
 
-They were active in the late 1970s and early 1980s, along with other Japanese fusion bands.
+彼らは他の日本のフュージョンバンドと共に、1970年代後半から1980年代初頭にかけて活躍した。
 
-The most successful lineup includes guitarist Masayoshi Ando, ​​bassist Mitsuru Sudo, saxophonist Takeshi Ito, who also plays flute and EWI, keyboardist Hirotaka Izumi, and drummer Hiroyuki Noritake.
+最も成功したラインナップには、ギタリストの安藤正容、ベーシストの須藤満、サックス奏者でフルートとEWIも演奏する伊東たけし、キーボーディストの和泉宏隆、そしてドラマーの則竹博之が含まれています。
 
-"Stars and the Moon", released in 1984, is THE SQUARE's ninth album.
+1984年にリリースされた「Stars and the Moon（スターズ アンド ザ ムーン）」は、THE SQUAREの9作目のアルバム。
 
 ≡ THE SQUARE
 
-Masahiro Ando, ​​Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hasebe
+安藤まさひろ、伊東たけし 、田中豊雪 、和泉宏隆 、長谷部徹 
 
-≡ Participating musicians
+≡ 参加ミュージシャン
 
-Kiyohiko Senba, Junichi Kanezaki, Yutaka Kanai, Eiji Arai, Harumi Mita, Toshihiro Nakanishi Ensemble
+仙波清彦、兼崎順一、Yutaka Kanai、新井英治、三田治美、中西俊博アンサンブル
 
 #### Tracklist
 ```md
@@ -48,7 +48,7 @@ B3. Mist Of Time
 B4. 遠雷
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syTEJ-kPsFU?si=-35KVU12w0l7fcY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

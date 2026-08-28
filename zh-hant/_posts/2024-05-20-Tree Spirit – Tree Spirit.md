@@ -11,15 +11,15 @@ tags:
 - Folk
 - Psychedelic
 - Spiritual
-title: 樹靈 – 樹靈
+title: Tree Spirit – Tree Spirit
 ---
 
 
-Tree Spirit 是來自加州的團體。這支充滿活力、熱愛地球的樂團有一種獨特的風格，他們稱之為“地球搖滾”，融合了搖滾、民謠和迷幻音樂。
+Tree Spiritは、カリフォルニア出身のグループ。ハイエナジーで地球を愛する彼らが「アース・ロック」と呼ぶ独自のスタイルはロック、フォーク、サイケデリックが融合した音楽となっている。
 
-《Tree Spirit》以樂團名稱命名，是 1985 年在他們自己的唱片公司 Tree Spirit Records 上發行的私人專輯。相當罕見的音源和罕見的盒式磁帶。
+グループ名をタイトルとした「Tree Spirit」は、自主レーベルTree Spirit Recordsから1985年にリリースしたプライベートリリース。かなりのレア音源＆希少カセットテープ。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Swamp Song
 A2. Heavy Times
@@ -33,9 +33,9 @@ B3. Time To Know
 B4. Hena Hondohlay Ahn (The Wind, The Sun, The Waters That Run)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m44768758537?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44768758537?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTE3YbLIWsU?si=JfP0QW0IGyLoo74s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5hFven7nzYk?si=U_1r4ZnkVgUl0Vjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

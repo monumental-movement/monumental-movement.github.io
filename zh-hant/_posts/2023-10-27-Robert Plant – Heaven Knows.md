@@ -10,20 +10,20 @@ tags:
 - Rock
 - UK-Rock
 - 7inch
-title: 羅伯特普蘭特——天知道
+title: Robert Plant – Heaven Knows
 ---
 
 
-羅伯特·普蘭特是一位英國搖滾樂手。羅伯特普蘭特（Robert Plant）以硬搖滾樂隊齊柏林飛艇（Led Zeppelin）的主唱而聞名，被認為是搖滾史上最偉大的歌手之一。
+Robert Plant（ロバート・プラント）は、イングランド出身のロックミュージシャン。ハードロックバンドLed Zeppelin（レッド・ツェッペリン）のフロントマンとして知られるロバート・プラントは、ロック史上最も偉大なボーカリストの一人とみなされています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Heaven Knows (Vocal/Edit)
 
 B. Heaven Knows (Vocal/Edit)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m77618413778?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77618413778?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B9Omu_QYb4Q?si=ZMVwV3eJb9VK9cec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

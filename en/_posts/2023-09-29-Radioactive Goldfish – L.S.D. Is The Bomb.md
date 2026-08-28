@@ -14,11 +14,11 @@ title: Radioactive Goldfish – L.S.D. Is The Bomb
 
 "LSD Is The Bomb" is a great approach to the '91 European techno sound, combining aggressive Belgian riffs with sharper, more precise German rhythms.
 
-Many North American artists use plenty of vocal samples, but "LSD Is The Bomb" keeps them from becoming too cheap.
+多くの北米のアーティストはボーカルサンプルをたっぷり使っていますが、「LSD Is The Bomb」ではチープになりすぎないように抑えています。
 
-Additionally, this track has the most devastating key change in the middle. It's truly diabolical.
+さらに、このトラックは途中で最も壊滅的なキー・チェンジを持っています。まさに悪魔的です。
 
-Definitely worth checking out for fans of the old school rave sound of '90-'92.
+'90年から'92年のオールドスクールなレイヴサウンドのファンには、ぜひチェックしてみる価値があります。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ B1. Electrode
 B2. L.S.D Is The Bomb (Dub #2)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m54052820347?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54052820347?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gMM9LS16L7U?si=rZ1wbp-Zs1Uaqilx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

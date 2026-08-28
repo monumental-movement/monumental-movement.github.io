@@ -9,18 +9,18 @@ layout: post
 tags:
 - African
 - History
-title: '[Column] South African Amapiano — A new dance music culture from South Africa'
+title: 【コラム】 South African Amapiano — 南アフリカ発の新たなダンスミュージック文化
 ---
 
 
 
-## Introduction — Why Amapiano now?
+## はじめに — なぜ今 Amapiano か
 
-Text: mmr｜Theme: Amapiano's origins, musical characteristics, history of development, major artists, and process of internationalization
+文：mmr｜テーマ：Amapiano の起源、音楽的特徴、発展の歴史、主要アーティスト、国際化の過程について
 
-In recent years, the dance music genre **Amapiano**, which originated in South Africa, has been attracting attention not only in Japan but also in club scenes across Africa, Europe, North America, and Asia.
+近年、南アフリカ発のダンスミュージックジャンル **Amapiano（アマピアノ）** は、国内のみならずアフリカ全土やヨーロッパ、北米、アジアのクラブシーンでも注目を集めています。
 
-Amapiano is a grassroots music that was born out of the youth culture of townships (low-income urban areas) and nurtured within local communities. Since the 2020s, the spread of streaming and SNS has transformed what was once "underground music" into a global movement.
+Amapiano は、タウンシップ（都市の低所得地区）を中心とした若者文化から生まれ、地域コミュニティの中で育まれてきた草の根的な音楽です。2020年代以降、ストリーミングやSNSの普及により、かつての「地下音楽」は世界規模のムーブメントへと変貌しています。
 
 ---
 
@@ -29,7 +29,7 @@ Amapiano is a grassroots music that was born out of the youth culture of townshi
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -38,104 +38,104 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Origins and Musical Roots
+## 第1章：起源と音楽的ルーツ
 
 ### Background as a music genre
 
-Amapiano is influenced by the following genres:
+Amapiano は、以下のジャンルの影響を受けています：
 
-* **Kwaito**: Dance/house music that was popular in urban areas of South Africa in the 1990s
-* **Gqom**: Club music originating from Durban
-* **Deep house, jazz, lounge, soul/R&B**
+* **Kwaito（クワイト）**：1990年代に南アフリカの都市部で流行したダンス／ハウス系音楽
+* **Gqom**：ダーバン発祥のクラブミュージック
+* **ディープハウス、ジャズ、ラウンジ、ソウル／R&B**
 
-In particular, community outreach through township clubs, street parties, taxi ranks, etc. played an important role in the birth of Amapiano.
+特に、タウンシップでのクラブ、ストリートパーティ、タクシーランクなどを通じたコミュニティ発信が、Amapiano の誕生に重要な役割を果たしました。
 
-### Acoustic features
+### 音響的特徴
 
-Amapiano's sound consists of the following elements:
+Amapiano のサウンドは、以下の要素から構成されます：
 
-* **Log Drum**: A distinctive sound that mixes low bass and woody percussion.
-* **Piano/Keyboard**: Genre name "Amapiano" means "pianos" in Zulu
-* **Unobtrusive drums and shakers**: Rhythm structures that make use of pauses and blank spaces
-* **Tempo**: Slow groove around 110–120 BPM
-* **Vocal**: Various styles such as singing, rapping, chorus, etc.
+* **ログドラム（Log Drum）**：低音ベースと木質パーカッションが混ざった特徴的なサウンド
+* **ピアノ／キーボード**：ジャンル名「Amapiano」はズールー語で「ピアノたち」を意味
+* **控えめなドラムやシェイカー**：間や余白を活かしたリズム構造
+* **テンポ**：110–120 BPM 程度のスローグルーヴ
+* **ボーカル**：歌、ラップ、合唱など多様なスタイル
 
-The combination of these elements led to the development of music that expressed the youth culture of township clubs and streets.
+これらの要素が重なり合い、タウンシップのクラブやストリートでの若者文化を表現する音楽として発展しました。
 
 ---
 
-### Figure 1: Amapiano sound structure
+### 図1：Amapiano の音の構造
 
 <div class="mermaid">
 graph LR
-    P["Piano/Keyboard"] --> S["Amapiano sound"]
-    L["Log drum"] --> S
-    D["Percussion/Drums"] --> S
-    V["vocal"] --> S
-    S --> G["Expression of township culture"]
+    P["ピアノ／キーボード"] --> S["Amapianoサウンド"]
+    L["ログドラム"] --> S
+    D["パーカッション／ドラム"] --> S
+    V["ボーカル"] --> S
+    S --> G["タウンシップ文化の表現"]
 </div>
 
 
 ---
 
-## Chapter 2: Birth and early development (early to mid-2010s)
+## 第2章：誕生と初期の発展（2010年代前半〜中盤）
 
-### Geography and time
+### 地理と時期
 
-The birthplace of Amapiano is Gauteng, South Africa. Particularly important are the townships of **Johannesburg** and **Pretoria**.
+Amapiano の発祥地は南アフリカの **ガウテン州（Gauteng）**。特に **ヨハネスブルグ（Johannesburg）** や **プレトリア（Pretoria）** のタウンシップが重要な舞台です。
 
-According to multiple sources, experiments with Amapiano began around 2012, and the unified name "Amapiano" as a genre was established later.
+複数の資料によれば、2012年ごろから Amapiano の実験が始まっており、ジャンルとしての統一名称「Amapiano」は後から定着しました。
 
-### Pioneers and the formation of places
+### パイオニアと場の形成
 
-* **MFR Souls (Tumelo Nedondwe & Tumelo Mabe)** contributed to the formation of early Amapiano
-* Audio sources are shared among friends and spread via WhatsApp, clubs, parties, and taxi ranks
-* This DIY/grassroots spread became the foundation for the establishment of the genre.
+* **MFR Souls（Tumelo Nedondwe & Tumelo Mabe）** が初期 Amapiano の形成に貢献
+* 音源は仲間内で共有され、WhatsApp やクラブ、パーティ、タクシーランクを介して広がる
+* この DIY／草の根的な広がりが、ジャンル確立の土壌となった
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dx62kohEnsg?si=9J2-_DUYJlzvfs5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Figure 2: Birthplace and initial spread
+### 図2：発祥地と初期拡散
 
 <div class="mermaid">
 graph TD
-    ER["East Rand"] --> TC["Township Club/Party"]
+    ER["East Rand"] --> TC["Township クラブ／パーティ"]
     KT["Katlehong"] --> TC
-    TC --> ON["Online/WhatsApp sharing"]
-    ON --> YC["Diffusion within the youth community"]
+    TC --> ON["オンライン／WhatsApp 共有"]
+    ON --> YC["若者コミュニティ内での拡散"]
 </div>
 
 
 
 ---
 
-I got it. Now, I'll expand on Chapter 3 and onwards, and build a **complete draft in Japanese** while also inserting Markdown diagrams.
+了解です。それでは第3章以降を順次展開し、Markdown 図も挿入しながら **日本語での完全ドラフト** を構築します。
 
 ---
 
-## Chapter 3: Establishment and Breaking of Genres (2017-2019)
+## 第3章：ジャンルの確立とブレイク（2017〜2019）
 
-### Solidification of sound/unification of style
+### サウンドの固まり・スタイルの統一
 
-From 2017 to 2019, Amapiano's sonic framework solidified and a common understanding was formed among DJs and listeners.
-The characteristics of this period are:
+2017〜2019年にかけて、Amapiano の音の枠組みが固まり、DJやリスナーの間で共通認識が形成されました。
+この時期の特徴は以下です：
 
-* Standardized combination of log drum x piano x percussion
-* Tempo is around 110–120 BPM, slow groove is established
-* Try out a variety of expressions including vocals and chorus
+* ログドラム × ピアノ × パーカッションの組み合わせが標準化
+* テンポは110–120 BPM前後、スローグルーヴが定着
+* ボーカルや合唱を加えた多様な表現が試される
 
-As a result, Amapiano has grown from just underground music to a genre recognized as a style.
+これにより、Amapiano は単なる地下音楽から「スタイルとして認知されるジャンル」へと成長しました。
 
-### Key artists and turning points
+### 主要アーティストと転換点
 
 * **Kabza De Small & DJ Maphorisa**
 
-* Album **Scorpion Kings** released in July 2019
-*Promoting genre breakout and commercialization nationwide
+  * 2019年7月、アルバム **Scorpion Kings** をリリース
+  * ジャンルの全国的ブレイクと商業化を促進
 * Sequel **The Return of the Scorpion Kings (November 2019)** was also a success
 
-During this period, Amapiano became more than just a township music, it became a nationally and commercially recognized genre.
+この時期により、Amapiano は単なるタウンシップ発の音楽ではなく、全国的・商業的に認知されるジャンルとなりました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -147,85 +147,85 @@ During this period, Amapiano became more than just a township music, it became a
 graph LR
     MFR["MFR Souls"] --> KAB["Kabza De Small"]
     MAP["DJ Maphorisa"] --> KAB
-    KAB --> SK["Scorpion Kings Album"]
-    SK --> NB["National break"]
+    KAB --> SK["Scorpion Kings アルバム"]
+    SK --> NB["全国的ブレイク"]
 </div>
 
 
 
 ---
 
-## Chapter 4: Pandemic Period and Accelerating Dissemination (2020-2022)
+## 第4章：パンデミック期と加速する普及（2020〜2022）
 
-### COVID‑19 and online spread
+### COVID‑19 とオンライン拡散
 
-*Club closed in 2020 due to lockdown
-* Artists distribute mixes online (e.g. Balcony Mix) to increase recognition nationwide.
-* Young DJs such as Major League DJz are also joining this trend.
+* 2020年、ロックダウンによりクラブ閉鎖
+* アーティストはオンラインでミックス配信（例：Balcony Mix）を行い、全国規模で認知拡大
+* Major League DJz など若手DJもこの流れに参加
 
-### Representative album
+### 代表アルバム
 
-* **Kabza De Small "I Am the King of Amapiano: Sweet & Dust"** (June 2020)
+* **Kabza De Small「I Am the King of Amapiano: Sweet & Dust」**（2020年6月）
 
-* An album that shows the maturity of the genre.
-* Composition that can be enjoyed not only for clubs but also as an album work
+  * ジャンルの成熟を示すアルバム
+  * クラブ向けだけでなく、アルバム作品として楽しめる構成
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnUpA0VsKRo?si=Q_xPDYh1HwCKRzFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Diversification of sounds
+### サウンドの多様化
 
-* Cross-over with jazz, soul, and R&B continues
-* Increased inclusivity with the emergence of female singers and new generation artists
+* ジャズやソウル、R&Bとのクロスオーバーが進む
+* 女性シンガーや新世代アーティストの登場で包摂性が向上
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f_xp7FUmFKw?si=0D4cB57t3DwI35Gi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Figure 4: Diffusion routes during the pandemic period
+### 図4：パンデミック期における拡散ルート
 
 <div class="mermaid">
 graph LR
-    LD["Lockdown/club closure"] --> ONL["Online delivery"]
+    LD["ロックダウン／クラブ閉鎖"] --> ONL["オンライン配信"]
     ONL --> STR["Increase in streaming playback"]
-    STR --> YC["Spread within the youth community"]
-    YC --> NB["National boom"]
+    STR --> YC["若者コミュニティ内で拡散"]
+    YC --> NB["全国的ブーム"]
 </div>
 
 
 
 ---
 
-## Chapter 5: Internationalization and global expansion (2021 and beyond)
+## 第5章：国際化とグローバル展開（2021年以降）
 
-### Crossing borders Amapiano
+### 国境を越える Amapiano
 
-* From 2021 onwards, playing at clubs/festivals in the UK, Europe, North America and Asia
-* Increase in international collaborations and fusion with Afrobeats
-* Streaming data has been played billions of times worldwide (2023)
+* 2021年以降、英国、欧州、北米、アジアのクラブ／フェスでプレイ
+* 国際コラボレーションやアフロビーツとの融合も増加
+* ストリーミングデータでは、全世界で数十億回再生（2023年）
 
-### Large scale live/festival
+### 大規模ライブ／フェス
 
-* **August 2025: Scorpion Kings Live with Friends (Pretoria)**
+* **2025年8月：Scorpion Kings Live with Friends（Pretoria）**
 
-* Approximately 50,000 people mobilized
-* Establishing the genre's status as a "cultural and social symbol"
+  * 約50,000人動員
+  * ジャンルの「文化的・社会的象徴」としての地位確立
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T-2AMmBAHOw?si=NEejihEQW1mT5w3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Figure 5: Internationalization network
+### 図5：国際化のネットワーク
 
 <div class="mermaid">
 graph TD
-    ZA["South Africa"] --> UK["England"]
-    ZA --> EU["European countries"]
-    ZA --> US["North America"]
-    ZA --> AS["Asia"]
+    ZA["南アフリカ"] --> UK["イギリス"]
+    ZA --> EU["ヨーロッパ各国"]
+    ZA --> US["北米"]
+    ZA --> AS["アジア"]
 
-    UK --> GLB["Global recognition"]
+    UK --> GLB["グローバルな認知"]
     EU --> GLB
     US --> GLB
     AS --> GLB
@@ -235,35 +235,35 @@ graph TD
 
 ---
 
-## Chapter 6: Evolution and Present of Sound — Diversification, Criticism, Future
+## 第6章：サウンドの進化と現在 — 多様化、批評、未来
 
 ### Diversification of sounds
 
-* Fusion of jazz, R&B, soul, lounge, Afrobeats, and hip-hop
-*Vocals in Zulu, English and other languages
-* Young artists explore new ways of expression
+* ジャズ、R&B、ソウル、ラウンジ、アフロビーツ、ヒップホップとの融合
+* ボーカルはズールー語、英語、他言語で表現
+* 若手アーティストが新しい表現方法を模索
 
-### Criticisms and Concerns
+### 批評と懸念
 
-* Concerns about "uniformity" and "aiming for hits" due to commercialization
-* However, diversification and branching are also progressing at the same time, and the genre is evolving.
+* 商業化に伴う「画一化」「ヒット狙い」への懸念
+* ただし多様化・分岐も同時進行しており、ジャンルは進化中
 
-### Possibilities for the future
+### 未来への可能性
 
-*Development not only within South Africa, but across Africa and globally.
-* Further growth is expected due to streaming, digital distribution, and spread on SNS
+* 南アフリカ国内だけでなくアフリカ全体、世界規模での発展
+* ストリーミング・デジタル配信・SNSでの拡散により、さらなる成長が見込まれる
 
 ---
 
-### Figure 6: Multidimensional map of sound evolution
+### 図6：サウンド進化の多次元マップ
 
 <div class="mermaid">
 graph TD
-    A["Log drum + piano + percussion"] --> B["Original Amapiano"]
-    B --> C["Jazz fusion"]
-    B --> D["R&B fusion"]
-    B --> E["Hip-hop fusion"]
-    C --> F["Evolution/diversification"]
+    A["ログドラム＋ピアノ＋パーカッション"] --> B["オリジナルAmapiano"]
+    B --> C["ジャズ融合"]
+    B --> D["R&B融合"]
+    B --> E["ヒップホップ融合"]
+    C --> F["進化・多様化"]
     D --> F
     E --> F
 </div>
@@ -272,28 +272,28 @@ graph TD
 
 ---
 
-## Chapter 7: Cultural and social implications
+## 第7章：文化的・社会的意味合い
 
-* Amapiano is an expression of youth culture in the township
-* Language, regional characteristics, daily life, and festival culture are reflected in music.
-* Through internationalization, it also serves as a window for presenting "African youth culture" to the world.
+* Amapiano はタウンシップの若者文化の表現手段
+* 言語・地域性・日常生活・祝祭文化が音楽に反映
+* 国際化により「アフリカの若者文化」を世界に提示する窓口としての側面も持つ
 
 ---
 
-### Figure 7: Amapiano as a cultural expression
+### 図7：文化的表現としての Amapiano
 
 <div class="mermaid">
 graph TD
-  ER["East Rand"] --> TC["Township Club/Party"]
+  ER["East Rand"] --> TC["Township クラブ／パーティ"]
   KT["Katlehong"] --> TC
-  TC --> ON["Online/WhatsApp sharing"]
-  ON --> YC["Diffusion within the youth community"]
+  TC --> ON["オンライン／WhatsApp 共有"]
+  ON --> YC["若者コミュニティ内での拡散"]
 </div>
 
 
 ---
 
-## Chronology
+## 年表
 
 <div class="mermaid">
 timeline
@@ -310,16 +310,16 @@ timeline
 
 ---
 
-## Closing
+## 結び
 
-Amapiano is an iconic South African music genre that has expanded from township underground culture to club festivals around the world.
-At its core, "log drum x piano x percussion x expression of youth culture" remains an unshakable origin, but continues to evolve amid diversification and internationalization.
+Amapiano はタウンシップの地下文化から、世界のクラブ・フェスへと拡大した、南アフリカの象徴的な音楽ジャンルです。
+その核となる「ログドラム × ピアノ × パーカッション × 若者文化の表現」は揺るがない原点でありつつ、多様化・国際化の中で進化し続けています。
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aB5twZG-_V4?si=-50AUkCwEL67JsUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

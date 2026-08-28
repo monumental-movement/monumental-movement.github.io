@@ -12,8 +12,8 @@ title: Onnazae – Dark Knight EP
 ---
 
 
-"Dark Knight EP" is
-This is an EP by Pete Prezzano, real name Pete Prezzano, released on the label "Subtitled Records".
+「Dark Knight EP」は、
+レーベル「Subtitled Records」からリリースされた本名Pete Prezzano「Onnazae」によるEPです。
 
 
 #### Tracklist
@@ -25,5 +25,5 @@ B1. Take Easy
 B2. Take Easy (Edit)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
 

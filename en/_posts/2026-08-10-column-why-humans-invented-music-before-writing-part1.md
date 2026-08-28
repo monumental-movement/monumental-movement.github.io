@@ -16,68 +16,68 @@ title: '[Column] Why Humans Invented Music Before Writing - Part1'
 
 # What were humans listening to before writing?
 
-Text: mmr｜Theme: "Did music exist before writing?" We will delve into the question from the timeline of humanity itself.
+文：mmr｜テーマ：「音楽は文字より前に存在したのか？」という問いを、人類の時間軸そのものから掘り下げます
 
 
 
 
-When we think about human history, we tend to start with what has been recorded.
+人類の歴史を考えるとき、私たちはつい「記録されたもの」から始めてしまう。
 
-When the letters appear, the name of the king remains. The law remains. Religion remains. Records of the war remain. Records of trade are also kept.
+文字が登場すると、王の名前が残る。法律が残る。宗教が残る。戦争の記録が残る。交易の記録も残る。
 
-However, humans lived even in times when writing did not exist.
+しかし、文字が存在しなかった時代にも、人間は生きていた。
 
-They hunted, shared food, raised children, mourned the dead, traveled with friends, warned of danger, and ventured into unknown lands.
+狩りをし、食料を分け、子どもを育て、死者を弔い、仲間と移動し、危険を知らせ、知らない土地へ進んでいった。
 
-And in the background of it all was sound.
+そして、そのすべての背景には音があった。
 
-Human beings are in the world of sound from the moment they are born.
+人間は生まれた瞬間から音の世界にいる。
 
 Mother's voice.
 
-footsteps.
+足音。
 
-wind.
+風。
 
-rain.
+雨。
 
-animal sounds.
+動物の鳴き声。
 
-Breathing.
+呼吸。
 
-cry.
+泣き声。
 
 laughter.
 
-Scream.
+叫び声。
 
-The sound of hitting the body.
+身体を叩く音。
 
-The sound of stones colliding.
+石と石がぶつかる音。
 
 The sound of hitting wood.
 
-These sounds have been a part of human life long before humans learned to write.
+人間が文字を書くようになるよりはるか以前から、こうした音は人間の生活の一部だった。
 
-However, the important point here is that saying that ""sound is old" is not the same as being able to completely prove that ""music existed before writing."
+ただし、ここで重要なのは、「音が古い」ということと、「音楽が文字より先に存在した」と完全に証明できることは同じではないという点だ。
 
-Prehistoric music leaves almost no direct records.
+先史時代の音楽は、ほとんど直接的な記録を残していない。
 
-There is no sheet music.
+楽譜はない。
 
-There's no recording.
+録音もない。
 
-There is no video recording of the performance itself.
+演奏そのものを記録した映像もない。
 
-Therefore, we cannot simply project contemporary music into the past.
+したがって、私たちは現代の音楽をそのまま過去へ投影することはできない。
 
-Still, when you combine archeology, anthropology, linguistics, cognitive science, and comparative research, one very strong possibility emerges.
+それでも、考古学、人類学、言語学、認知科学、比較研究などを組み合わせると、一つの非常に強い可能性が見えてくる。
 
 Even before humans learned to write, humans were using sounds intentionally.
 
-And it is highly likely that some of it had properties similar to what we today call music.
+そして、その一部は現代の私たちが音楽と呼ぶものに近い性質を持っていた可能性が高い。
 
-> The first remaining media in human history may not have been written, but the body and sound.
+> 人類の歴史で最初に残ったメディアは、文字ではなく身体と音だったのかもしれない。
 
 
 
@@ -86,7 +86,7 @@ And it is highly likely that some of it had properties similar to what we today 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -98,17 +98,17 @@ color: #fff;
 
 ## 1. Writing appeared much later in human history
 
-### Things that become invisible when you think about the beginning of civilization in terms of letters
+### 文明の始まりを文字から考えると見えなくなるもの
 
-The oldest writing systems currently known include cuneiform, which was developed in Mesopotamia in the late 4th millennium BC, and the ancient Egyptian writing system.
+現在知られている最古級の文字体系は、紀元前4千年紀後半のメソポタミアで成立した楔形文字や、古代エジプトの文字体系などである。
 
-This is extremely new in terms of human history as a whole.
+これは人類史全体から見ると非常に新しい。
 
 Modern humans, or Homo sapiens, are thought to have existed at least 300,000 years ago.
 
-It took a very long time for characters to appear.
+文字の登場までには、非常に長い時間がある。
 
-To simplify,
+単純化すると、
 
 ```text
 約30万年前
@@ -126,183 +126,183 @@ To simplify,
 └── 現在
 ```
 
-In other words, most of human history was "history without written words."
+つまり、人類の歴史の大部分は「文字のない歴史」だった。
 
-This is an important point.
+これは重要なポイントだ。
 
-Because we often learn about history from written materials, we unconsciously think that ""recorded things = human culture.''
+私たちは歴史を文字資料から学ぶことが多いため、無意識のうちに「記録されたもの＝人類の文化」と考えてしまう。
 
 However, this does not mean that there was no culture in the era when there was no written language.
 
-In fact, it's the opposite.
+むしろ逆だ。
 
-Humans had complex social lives long before they invented writing.
+人間は文字を発明するよりはるか以前から、複雑な社会生活を営んでいた。
 
-They made tools, adapted to their environments, cooperated with others, and passed on knowledge.
+道具を作り、環境に適応し、他者と協力し、知識を伝えていた。
 
-Mechanisms other than writing existed as a way to preserve this knowledge.
+その知識を保存する方法として、文字以外の仕組みが存在していた。
 
-memory.
+記憶。
 
 Imitation.
 
-Repetition.
+反復。
 
 body movement.
 
-voice.
+声。
 
 story.
 
-Ceremony.
+儀礼。
 
-And it's the sound.
+そして音である。
 
 ### "Not recorded" and "did not exist" are different
 
-When studying prehistoric cultures, the biggest problem is the bias in the evidence.
+先史時代の文化を研究するとき、最大の問題になるのが証拠の偏りだ。
 
-Stone tools remain.
+石器は残る。
 
-Bones will also remain if conditions are good.
+骨も条件が良ければ残る。
 
-Cave paintings also remain.
+洞窟壁画も残る。
 
-However, no human voice remains.
+しかし、人間の声は残らない。
 
-There was no applause left.
+拍手も残らない。
 
-There is no dancing left.
+踊りも残らない。
 
-Songs also usually do not survive.
+歌も、通常は残らない。
 
-There is a problem here that is very difficult for modern people to understand.
+ここには、現代人には非常に分かりにくい問題がある。
 
 We can now record music.
 
 You can save it to your smartphone in just a few seconds.
 
-That's why I feel that ""music'' can be preserved like an object.
+だから「音楽」というものを、物体のように保存できると感じている。
 
-But for most of human history, music could not be preserved.
+しかし、人類のほとんどの歴史において、音楽は保存できなかった。
 
-It disappeared the moment it was played.
+演奏された瞬間に消えていった。
 
-What remained were the memories of the person performing and the memories of the person listening.
+残ったのは、演奏する人間の記憶と、それを聴いた人間の記憶だった。
 
 Therefore, when researching prehistoric music, it is difficult to discover ""the music itself.''
 
 Instead, clues include tools that may have been used to create the sound, physical activity, and social behavior.
 
-> To understand pre-writing cultures, we need to think not only about what remained, but also what did not survive.
+> 文字以前の文化を理解するには、残った物だけでなく、残らなかったものについて考える必要がある。
 
 ---
 
 ## 2. Humans used "voice" before writing.
 
-### The first communication is not written.
+### 最初のコミュニケーションは書かれたものではない
 
 The relationship between "music" and "language" becomes important here.
 
-In modern society, we often think of language in terms of letters.
+現代社会では、言語を文字で考えることが多い。
 
-When you hear the word "words," you think of sentences.
+「言葉」と言われると、文章を思い浮かべる。
 
 However, writing is not language itself.
 
-Writing is a later technology for recording language.
+文字は、言語を記録するための後発の技術だ。
 
-Human language is thought to have existed long before writing.
+人間の言語能力は、文字よりはるか以前に存在していたと考えられている。
 
 Therefore, it is natural to think that in early human societies, much of the information was transmitted through voice and the body.
 
 Someone warns of danger.
 
-Call your friends.
+仲間を呼ぶ。
 
 Get the child's attention.
 
-convey emotions.
+感情を伝える。
 
-reassure the other person.
+相手を安心させる。
 
-Show hostility.
+敵意を示す。
 
 Ask for cooperation.
 
-In these acts, not only the simple meaning but also the pitch, strength, length, and rhythm of the voice are important.
+こうした行為では、単純な「意味」だけでなく、声の高さ、強さ、長さ、リズムなども重要になる。
 
-For example, the impression of the same word changes if the pitch of the voice changes.
+例えば、同じ言葉でも声の高さが変われば印象は変わる。
 
 There's a difference between saying something short and strong and saying it long and elongated.
 
 An angry voice and a reassuring voice convey the same message in completely different ways.
 
-In other words, human communication from the beginning included acoustic information that could not be explained by the meaning of words alone.
+つまり、人間のコミュニケーションには、言葉の意味だけでは説明できない音響的な情報が最初から含まれていた。
 
 ### Music and speech are not completely different things
 
-In modern music, lyrics and melody can be considered separately.
+現代の音楽では、歌詞とメロディーを分けて考えることができる。
 
-However, if we think about early human vocal cultures, this distinction may not have been so clear-cut.
+しかし、人類の初期の音声文化について考えると、この区別がそれほど明確だったとは限らない。
 
 talk.
 
-shout.
+叫ぶ。
 
-call.
+call out.
 
-cry.
+泣く。
 
-smile.
+笑う。
 
-sing.
+歌う。
 
-These are all actions using the human voice.
+これらはすべて、人間の声を使った行動だ。
 
 Of course, all of this cannot be called "music."
 
-But it is clear that the human voice has pitch, rhythm, repetition, dynamics, and temporal patterns.
+しかし、人間の声が音程、リズム、反復、強弱、時間的パターンを持つことは明らかだ。
 
-In this sense, it is possible to consider the possibility that music and speech have differentiated from a common ability, rather than having existed as completely separate domains from the beginning.
+この意味で、音楽と発話は完全に別々の領域として最初から存在したというより、共通する能力から分化した可能性を考えることができる。
 
 However, there is no single scientifically settled explanation as to whether ""language came first and then music" or ""musical and linguistic vocalizations developed in parallel."
 
-There are multiple theories about the origin of music.
+There are multiple theories regarding the origin of music.
 
 The important thing here is not to force the parts you don't understand into a single story.
 
-### Still, "musical ability" may be very old
+### それでも「音楽的な能力」は非常に古い可能性がある
 
 Humans can distinguish between sounds.
 
-Can distinguish the pitch of voices.
+声の高さを区別できる。
 
 Able to recognize temporal patterns.
 
-Recognize repetition.
+反復を認識できる。
 
-Can be synchronized.
+同期できる。
 
 Predictable.
 
 These abilities are not only necessary for understanding contemporary music.
 
-It is also involved in language comprehension and social communication.
+言語の理解や社会的コミュニケーションにも関係している。
 
 Humans, in particular, read a tremendous amount of information from other people's voices.
 
-who is speaking?
+誰が話しているのか。
 
 Are you angry?
 
 Are you feeling safe?
 
-Are you excited?
+興奮しているのか。
 
 Are you far away?
 
-Are you nearby?
+近くにいるのか。
 
 Some of this information comes from the acoustic characteristics of the voice rather than the meaning of the words.
 
@@ -330,7 +330,7 @@ Shake your body.
 
 Speak out.
 
-Breathe.
+呼吸する。
 
 repeat.
 
@@ -346,11 +346,11 @@ bite.
 
 Breathe.
 
-My heart beats.
+心臓が拍動する。
 
 sleep.
 
-get up.
+起きる。
 
 Collaborate.
 
@@ -362,7 +362,7 @@ However, the ability of humans to recognize temporal patterns and move their bod
 
 ### What infant research shows
 
-Developmental research shows that infants are sensitive to changes in pitch, intensity, and time of sounds.
+発達研究では、乳児が音の高さや強さ、時間的な変化に敏感であることが知られている。
 
 Furthermore, interactions between infants and caregivers frequently involve the use of vocal pitch, rhythm, and timing.
 
@@ -376,43 +376,43 @@ What"s interesting here is that a baby"s first ""musical environment'' is not an
 
 It's a human voice.
 
-The voices of mothers, fathers, and caregivers.
+母親や父親、養育者の声。
 
-repeated phrases.
+繰り返されるフレーズ。
 
-intonation.
+抑揚。
 
-Call.
+呼びかけ。
 
 Laughter.
 
-cry.
+泣き声。
 
 This exchange of sounds exists at the very beginning of human social life.
 
 ### Are lullabies the origin of music?
 
-Here comes a well-known hypothesis.
+ここから、よく知られた仮説が登場する。
 
 "Music may have started with lullabies."
 
-Lullabies utilize pitch, repetition, rhythm, and melody.
+子守歌は、声の高さ、反復、リズム、メロディーを利用する。
 
-It also has a social function of calming infants.
+また、乳児を落ち着かせるという社会的機能も持つ。
 
-However, we cannot conclude that this is the ""origin of music''.
+しかし、これをそのまま「音楽の起源」と断定することはできない。
 
 One thing is that lullabies are an old form; the other is that they were the first music.
 
-Similarly, hunting, courtship, ritual, dance, and labor have been proposed as origins of music.
+同じように、狩猟、求愛、儀礼、踊り、労働なども音楽の起源として提案されてきた。
 
 Each has a certain rationality.
 
-However, at this point there is no evidence that can definitively say that ""music was created for this one purpose.''
+しかし、現時点で「音楽はこの一つの目的のために生まれた」と断定できる証拠はない。
 
 In fact, it is possible that humans did not use sound for just one purpose from the beginning.
 
-> Music is not a single invention, but may have been gradually formed through various human activities.
+> 音楽は一つの発明品ではなく、さまざまな人間活動の中で徐々に形成された可能性がある。
 
 ---
 
@@ -420,7 +420,7 @@ In fact, it is possible that humans did not use sound for just one purpose from 
 
 ### Don't bring modern musical concepts into prehistoric times
 
-When we hear "first music," we imagine a song.
+「最初の音楽」と聞くと、私たちは曲を想像する。
 
 It has a melody, a rhythm, a beginning and an end.
 
@@ -428,37 +428,37 @@ However, that is an idea based on modern music culture.
 
 There is no evidence that prehistoric humans created ""songs'' in the same sense as modern humans.
 
-To begin with, the concept of "music" itself differs depending on the culture.
+そもそも「音楽」という概念そのものが文化によって異なる。
 
-In some societies, there may not be a clear separation between ritual, music, dance, storytelling, and religious practices.
+ある社会では、儀礼と音楽、踊り、物語、宗教的行為が明確に分離されていない場合がある。
 
 In other words, what we now call "music" is not necessarily an independent category for humans in the past.
 
-So you can think of it differently.
+そこで、別の考え方ができる。
 
 What existed in the beginning may not have been a ""musical work" but an ""action that organizes sounds."
 
 ### There is power in repetition
 
-Humans like repetition.
+人間は繰り返しを好む。
 
 Repeat the same action.
 
-repeat the same words.
+同じ言葉を繰り返す。
 
-Repeat the same rhythm.
+同じリズムを繰り返す。
 
-Repeat the same melody.
+同じメロディーを繰り返す。
 
 Repetition allows you to predict what will happen next.
 
 And being able to predict has great meaning in collaborative work.
 
-When multiple people perform the same action, it is necessary to synchronize the timing.
+複数の人間が同じ動作をする場合、タイミングを合わせる必要がある。
 
-carry things.
+物を運ぶ。
 
-Pull.
+引く。
 
 push.
 
@@ -468,101 +468,101 @@ dance.
 
 Move your body.
 
-Join your voice.
+声を合わせる。
 
-In these activities, rhythms may synchronize behavior.
+こうした活動では、リズムが行動を同期させる可能性がある。
 
-This is not a simple story that ""labor songs were the origin of music.''
+これは「労働歌が音楽の起源だった」という単純な話ではない。
 
-Rather, it is possible that human collective activity itself created an environment in which rhythm could be exploited.
+むしろ、人間の共同活動そのものが、リズムを利用する環境を作り出した可能性があるということだ。
 
 ### Synchronizing is also a social behavior
 
-Humans can move simultaneously with others.
+人間は他者と同時に動くことができる。
 
-And sound is very useful for synchronization.
+そして、音は同期のために非常に便利だ。
 
-You can hear it even when visibility is poor.
+視界が悪くても聞こえる。
 
-Can be used even in the dark.
+It can be used even in the dark.
 
 Reach far.
 
-It can also be linked to body movements.
+身体の動きと結びつけることもできる。
 
 By speaking out loud, you can make your presence known to others.
 
-By clapping, multiple people can share the same timing.
+拍手をすれば、複数人が同じタイミングを共有できる。
 
 By stepping on your feet, you can share a physical rhythm.
 
-Here is an important characteristic of music.
+ここに音楽の重要な特徴がある。
 
 Even one person can make music.
 
-However, music also has a function that allows multiple people to share the same time.
+しかし、音楽には複数人が同じ時間を共有するための機能もある。
 
-And humans are very social animals.
+そして人間は、非常に社会的な動物である。
 
-> The primitive power of music may lie not only in ""communicating'' something, but also in placing multiple bodies at the same time.
+> 音楽の原始的な力は、何かを「伝える」ことだけでなく、複数の身体を同じ時間に置くことにあったのかもしれない。
 
 ---
 
-## 5. What were the earliest musical instruments?
+## 5. 最古の楽器は何だったのか
 
-### Sound tools that are less likely to remain than stone tools
+### 石器よりも残りにくい音の道具
 
-Let's now turn to the archaeological evidence.
+ここで、考古学的な証拠に目を向けてみよう。
 
-Musical instruments are extremely important as direct evidence that humans were intentionally creating sounds.
+人間が意図的に音を作っていたことを示す直接的な証拠として、楽器は非常に重要だ。
 
 However, there are major problems with musical instruments.
 
-tree.
+木。
 
-plant.
+植物。
 
-animal skin.
+動物の皮。
 
 tendon.
 
 Feather.
 
-bone.
+骨。
 
-These materials are harder to preserve than stone.
+こうした素材は、石よりも保存されにくい。
 
 Therefore, it is impossible to know completely what kind of musical instruments existed in prehistoric times.
 
 It is possible that the instruments that survive today are only a fraction of the instruments that existed at that time.
 
-### Bone flute
+### 骨製の笛
 
-Relics interpreted as flutes made of bone or ivory have been found at Paleolithic sites in Europe.
+ヨーロッパの旧石器時代遺跡からは、骨や象牙で作られた笛と解釈される遺物が見つかっている。
 
 Particularly in the Swabian Jura region of Germany, bone and ivory flutes dating back approximately 40,000 years have been discovered.
 
-These coincided with the time when modern humans expanded into Europe.
+これらは、現生人類がヨーロッパへ進出した時期と重なる。
 
-However, in archeology, it cannot be simply determined that ""bones with holes = musical instruments.''
+ただし、考古学では「穴の開いた骨＝楽器」と単純に判断できない。
 
-Animal bones can also have holes naturally.
+動物の骨には自然に穴が開くこともある。
 
-Are there any processing marks?
+加工痕があるのか。
 
 Are the holes regular?
 
 Are there any signs of use?
 
-Is the structure suitable for producing sound?
+音を出すために適した構造なのか。
 
-What about the surrounding archaeological context?
+周辺の考古学的文脈はどうなのか。
 
-It is necessary to combine these multiple pieces of evidence to make a decision.
+こうした複数の証拠を組み合わせて判断する必要がある。
 
-This discretion is very important.
+この慎重さは非常に重要だ。
 
-This is because, when researching the origins of music, humans are desperate to find the ""first musical instrument.''
+This is because when researching the origins of music, humans are always eager to find the ""first musical instrument.''
 
 However, finding the first instrument is not the same as finding the first music.
 
@@ -570,157 +570,157 @@ However, finding the first instrument is not the same as finding the first music
 
 More importantly, instruments are not a prerequisite for music.
 
-There's a voice.
+声がある。
 
 I have hands.
 
 It has legs.
 
-I have a body.
+身体がある。
 
-You can also hit stones.
+石を叩くこともできる。
 
 You can also knock on wood.
 
-In other words, you don't necessarily need special tools to begin musical behavior.
+つまり、音楽的な行動を始めるために、特別な道具は必ずしも必要ではない。
 
 This fact is crucial when considering the origins of music.
 
-If the first music was composed only of the body and voice, it would leave almost no trace archaeologically.
+もし最初の音楽が身体と声だけで成立したなら、それは考古学的にはほとんど痕跡を残さない。
 
 Therefore, the ""earliest musical behavior" may have been much older than the ""oldest musical instrument."
 
-> The day the first humans intentionally repeated a sound may have been much further in the past than the first musical instrument was discovered.
+> 最初の楽器が見つかった日より、最初の人間が意図的に音を反復した日のほうが、はるかに遠い過去にあった可能性がある。
 
 ---
 
 ## 6. What can we see when we connect music and evolution?
 
-### "I stayed because it was useful" alone cannot explain it.
+### 「役に立つから残った」だけでは説明できない
 
-There is a concept that is often used when thinking about evolution.
+進化について考えるとき、よく使われる考え方がある。
 
-If a behavior is advantageous for survival or reproduction, natural selection may maintain the traits associated with that behavior.
+ある行動が生存や繁殖に有利なら、その行動に関係する特徴が自然選択によって維持される可能性がある。
 
-So, what kind of benefits does music have?
+では、音楽にはどのような利点があったのだろうか。
 
 There are several hypotheses regarding this question.
 
 Social cohesion.
 
-Parent-child relationship.
+親子関係。
 
-Mate selection.
+配偶者選択。
 
-Cooperation within a group.
+集団内の協力。
 
-Sharing emotions.
+感情の共有。
 
 Synchronization of physical activity.
 
-Information transmission.
+情報伝達。
 
-However, none of these has been proven to have been the sole evolutionary purpose of music.
+しかし、どれか一つが音楽の唯一の進化的目的だったと証明されているわけではない。
 
-Rather, music may have developed as a result of combining multiple preexisting abilities.
+むしろ、音楽が複数の既存能力を組み合わせた結果として発達した可能性もある。
 
 ### Music requires multiple abilities
 
-Making music involves at least some abilities.
+音楽を作るには、少なくともいくつかの能力が関係する。
 
-Distinguish sounds.
+音を聞き分ける。
 
 Recognize time intervals.
 
-Memorize repetition.
+繰り返しを記憶する。
 
 Predict.
 
-Control your voice and body.
+声や身体を制御する。
 
-Observe the behavior of others.
+他者の行動を観察する。
 
 Match the timing.
 
 Share your feelings.
 
-All of these abilities do not exist solely for music.
+これらはすべて、音楽だけのために存在する能力ではない。
 
-It also relates to language.
+言語にも関係する。
 
-It is also related to social communication.
+社会的コミュニケーションにも関係する。
 
 It is also related to exercise.
 
-It is also related to learning.
+学習にも関係する。
 
-Therefore, music did not suddenly appear independently during human evolution, but may have been created by combining already existing abilities.
+そのため、音楽は人間の進化の中で独立して突然現れたものではなく、すでに存在していた能力を組み合わせることで成立した可能性がある。
 
-### Changing the question "Why does music exist?"
+### 「音楽はなぜあるのか」という問いを変える
 
-Here, we need to change the question itself.
+ここで、問いそのものを変える必要がある。
 
-"Why did humans invent music?"
+「なぜ人間は音楽を発明したのか？」
 
 rather than
 
 "Why did humans have the ability to pattern sounds, repeat them, and share them with others?"
 
-Let's think about it.
+と考えてみる。
 
 Then music ceases to be something special.
 
-language.
+言語。
 
-physical exercise.
+身体運動。
 
-Social cognition.
+社会的認知。
 
-memory.
+記憶。
 
-Emotions.
+感情。
 
 Music appears at these intersections.
 
 Music can be seen as a collection of abilities that humans already possessed into a single activity.
 
-This does not mean that music was a "useless art".
+これは、音楽が「役に立たない芸術」だったという意味でもない。
 
-On the contrary, it is precisely because music can connect with many areas of human society that it may have been maintained as a culture over a long period of time.
+逆に、音楽が人間社会の多くの領域と接続できるからこそ、長い時間をかけて文化として維持された可能性がある。
 
-> If you are looking for the origins of music, it may be easier to look for the abilities that humans have shared with others, rather than the music itself.
+> 音楽の起源を探すなら、音楽そのものより、人間が他者と共有してきた能力を探したほうが近道なのかもしれない。
 
 ---
 
-## 7. The true meaning of "music came before language"
+## 7. 「音楽は言語より先だった」の本当の意味
 
-### Don't make the order a simple single line
+### 順番を単純な一本線にしない
 
-At this point, we return to the first question.
+ここまで来ると、最初の問いに戻る。
 
-Did music come before writing?
+音楽は文字より先にあったのか。
 
-This can be considered quite strongly as ""probably so.''
+これはかなり強く「おそらくそうだった」と考えられる。
 
-However, it is not easy to say that music came before language.
+しかし、「音楽が言語より先にあった」とまでは簡単に言えない。
 
-This is because there is no evidence to directly compare the origins of language and music.
+なぜなら、言語と音楽の起源を直接比較できる証拠がないからだ。
 
-Furthermore, language itself does not have a single clear ""date of invention.''
+Moreover, language itself does not have a single clear ""date of invention.''
 
-In the case of writing, the period of establishment can be determined to some extent from archaeological materials.
+文字なら、考古学的資料から成立時期をある程度特定できる。
 
 However, this is not the case with spoken words.
 
-Humans today do not know exactly when voice communication began.
+声によるコミュニケーションがいつ始まったのかを、現在の人類が正確に知ることはできない。
 
-that's why,
+だから、
 
 ```text
 音楽 → 言語 → 文字
 ```
 
-It is dangerous to draw a single line.
+という一本の線を描くのは危険だ。
 
 Rather,
 
@@ -739,190 +739,190 @@ Rather,
 
 In this way, it is more realistic to think that multiple abilities overlapped over a long period of time.
 
-### Letters were also "substitutes for sounds"
+### 文字は「音の代替物」でもあった
 
-What's even more interesting is that letters themselves are not unrelated to sounds.
+さらに面白いのは、文字そのものが音と無関係ではないことだ。
 
-Many writing systems have been used to record spoken words and languages.
+多くの文字体系は、話し言葉や言語を記録するために使われてきた。
 
-In other words, humans first communicated using voice, and then developed technology that fixed language as visual symbols.
+つまり、人間はまず声を使ってコミュニケーションし、その後、言語を視覚的な記号として固定する技術を発展させた。
 
-The voice of the written word has not been erased.
+文字は、声を消してしまったのではない。
 
-It's a new way to preserve voices over long distances.
+声を遠くまで保存するための新しい方法になった。
 
-Information that previously relied on the memories of people present can now be fixed onto objects.
+それまでなら、その場にいる人間の記憶に依存していた情報を、物体の上に固定できるようになった。
 
-This was a huge change in human history.
+これは人類史上の巨大な変化だった。
 
-But even at that point, the music didn't disappear.
+しかし、その時点でも音楽は消えなかった。
 
-Even when writing appeared, humans continued to sing.
+文字が登場しても、人間は歌い続けた。
 
-He continued to play musical instruments.
+楽器を演奏し続けた。
 
-I kept dancing.
+踊り続けた。
 
-He continued to use sounds in rituals.
+儀礼で音を使い続けた。
 
-In other words, writing was not a substitute for music.
+つまり、文字は音楽の代替ではなかった。
 
-It was a different medium.
+異なるメディアだったのである。
 
-> Writing did not take away sounds from humans, but gave the human ability to memorize sounds another way to store them.
+> 文字は人間から音を奪ったのではなく、音を記憶する人間の能力に別の保存方法を与えた。
 
 ---
 
-## 8. Reconsidering human history from the "first media"
+## 8. 人類史を「最初のメディア」から見直す
 
-### First there was sharing, not recording.
+### 最初に存在したのは記録ではなく共有だった
 
 In modern society, information is stored as files.
 
-Sentence.
+文章。
 
 image.
 
-movie.
+動画。
 
-audio.
+音声。
 
-database.
+データベース。
 
-However, for prehistoric humans, the most important information medium was humans themselves.
+しかし、先史時代の人間にとって、最も重要な情報媒体は人間そのものだった。
 
-Someone knows.
+誰かが知っている。
 
-Someone remembers.
+誰かが覚えている。
 
 someone can sing
 
 Someone can tell a story.
 
-Someone can dance.
+誰かが踊れる。
 
-Someone knows how to make tools.
+誰かが道具の作り方を知っている。
 
-Culture moved from human to human.
+文化は、人間から人間へ移動した。
 
-Repetition becomes extremely important in this situation.
+この状況では、反復が極めて重要になる。
 
 You may forget information you have only heard once.
 
 However, if it is repeated, it becomes easier to remember.
 
-If you have a certain rhythm, you can predict what's next.
+一定のリズムがあれば、次を予測できる。
 
-Having a melody can also make it easier to remember the order of words.
+メロディーがあれば、言葉の順番を覚えやすくなることもある。
 
-In fact, the phenomenon of songs supporting memories can be seen even in modern society.
+実際、歌が記憶を支える現象は現代社会でも確認できる。
 
 However, it cannot be concluded that this was the purpose of prehistoric music.
 
-The important thing is that musical form is compatible with ""memory.''
+重要なのは、音楽的な形式が「記憶」と相性がよいということだ。
 
-### Sound can be "played" instead of "stored"
+### 音は「保存」ではなく「再生」を可能にする
 
-Text fixes information to objects.
+文字は情報を物体に固定する。
 
-Music reproduces information in the human body.
+音楽は情報を人間の身体に再生させる。
 
-This is a big difference.
+これは大きな違いだ。
 
-You can sing without sheet music.
+楽譜がなくても歌える。
 
-You can play without recording.
+録音がなくても演奏できる。
 
-You can repeat the same rhythm over and over again.
+同じリズムを何度も繰り返せる。
 
 You can also teach others.
 
-In other words, although music is not a recording medium, it can be a mechanism for reproducing culture.
+つまり、音楽は記録媒体ではないが、文化を再現する仕組みになり得る。
 
-A person who memorizes a certain melody passes it on to the next person.
+あるメロディーを覚えた人間が、それを次の人間へ伝える。
 
-That person then passes it on to another person.
+その人間がさらに別の人間へ伝える。
 
-It changes a little with each generation.
+世代を越えるたびに少し変化する。
 
-As a result, cultural traditions are formed.
+その結果、文化的な伝統が形成される。
 
-There is a very important feature of human culture here.
+ここには、人間の文化が持つ非常に重要な特徴がある。
 
-Culture is not transmitted only through genes.
+文化は遺伝子だけで伝わるものではない。
 
-Learned from human to human.
+人間から人間へ学習される。
 
-Music may have been one suitable form of cultural transmission.
+音楽は、その文化的伝達に適した形式の一つだった可能性がある。
 
-> For pre-writing humans, songs and rhythms may not have been "records" but a way to convey memories to the next person.
+> 文字以前の人間にとって、歌やリズムは「記録」ではなく、記憶を次の人間へ運ぶ方法だった可能性がある。
 
 ---
 
-## 9. A chronology of human society before the advent of writing
+## 9. 文字が登場する前の人間社会を年表で見る
 
-### Long time between sound and humans
+### 音と人間の長い時間
 
-| Period | Events in human history | Relationship with sound and culture |
+| 時期        | 人類史上の出来事                    | 音・文化との関係                           |
 | --------- | --------------------------- | ---------------------------------- |
-| Approximately 300,000 years ago | Homo sapiens existed in Africa | It is thought that the foundations of vocalization, hearing, and social communication existed |
-| After about 100,000 years ago | Widespread migration of humans progresses | Adaptation to diverse environments and social learning progress |
-| Approximately 70,000 to 50,000 years ago | Significant progress in human dispersion | Complex cultural transmission becomes important |
-| Approximately 40,000 years ago | Artifacts interpreted as bone/ivory flutes discovered in Europe | Oldest existing musical instrument materials |
+| 約30万年前以降  | ホモ・サピエンスがアフリカに存在            | 発声・聴覚・社会的コミュニケーションの基盤が存在していたと考えられる |
+| 約10万年前以降  | 人類の広範な移動が進む                 | 多様な環境への適応と社会的学習が進む                 |
+| 約7万〜5万年前  | 人類の拡散が大きく進展                 | 複雑な文化的伝達が重要になる                     |
+| 約4万年前     | ヨーロッパで骨・象牙製の笛と解釈される遺物が確認される | 現存する最古級の楽器資料                       |
 | Approximately 40,000 to 30,000 years ago | Various symbolic cultures such as cave paintings have been confirmed | Direct evidence is limited as music itself is difficult to preserve |
-| After about 10,000 years ago | Regions where settlement and agriculture spread | Ritual, community, and social organization changed significantly |
+| 約1万年前以降   | 定住化・農耕が広がる地域が現れる            | 儀礼・共同体・社会組織が大きく変化                  |
 | Late 4th millennium BC | Early cuneiform writing established in Mesopotamia | Humans were able to record large amounts of information on material |
 | Late 4th millennium BC | An early writing system established in ancient Egypt | A culture that fixed language visually developed |
 
-Looking at this chronology, one fact stands out.
+この年表を見ると、一つの事実が浮かび上がる。
 
 Writing is not the starting point of human history.
 
-Rather, it emerged from a very long ""pre-literate'' history.
+むしろ、非常に長い「文字以前」の歴史の上に登場した。
 
-In this pre-written world, culture was supported by voice, body, memory, repetition, and imitation.
+そして、その文字以前の世界では、声、身体、記憶、反復、模倣が文化を支えていた。
 
-Music may have been one of the behaviors that adapted to that world.
+音楽は、その世界に適応した行動の一つだった可能性がある。
 
-> Most of human history did not end before writing was recorded, but was remembered through sound and the body.
+> 人類史の大部分は、文字が記録する以前にすでに終わっていたのではなく、音と身体によって記憶されていた。
 
 ---
 
-## 10. Reverse the question once here.
+## 10. ここで一度、問いを逆転させる
 
-### Instead of "why music was born", "why music didn't disappear"
+### 「なぜ音楽が生まれたのか」ではなく「なぜ音楽が消えなかったのか」
 
-When I think about the origins of music, I can't help but want to search for that first moment.
+音楽の起源を考えると、どうしても最初の瞬間を探したくなる。
 
-first song.
+最初の歌。
 
-first rhythm.
+最初のリズム。
 
-first instrument.
+最初の楽器。
 
-First performance.
+最初の演奏。
 
-But pinpointing that moment is nearly impossible.
+しかし、その瞬間を特定することはほぼ不可能だ。
 
-Therefore, another question becomes important.
+だから、別の問いが重要になる。
 
-Why have musical behaviors repeatedly appeared in human history?
+なぜ音楽的な行動は、人類史の中で繰り返し現れたのか。
 
 Humans continued to use sound even as society changed.
 
 hunter-gatherer society.
 
-Agrarian society.
+農耕社会。
 
-urban society.
+都市社会。
 
-Nation.
+国家。
 
-religious community.
+宗教共同体。
 
-modern industrial society.
+現代の工業社会。
 
-and digital society.
+そしてデジタル社会。
 
 The format of music has changed significantly.
 
@@ -930,43 +930,43 @@ Instruments have also changed.
 
 The temperament also changed.
 
-The performance venue has also changed.
+演奏場所も変わった。
 
-Recording technology has also changed.
+録音技術も変わった。
 
-The delivery method has also changed.
+配信方法も変わった。
 
-Still, humans' use of rhythm, melody, and voice has not disappeared.
+それでも、人間がリズムやメロディーや声を使うこと自体は消えていない。
 
-This shows that music is not just a temporary cultural phenomenon.
+これは、音楽が単なる一時的な文化現象ではないことを示している。
 
-Of course, this does not mean that we can simply say that ""music is programmed directly into human genes.''
+もちろん、だからといって「音楽は人間の遺伝子に直接プログラムされた」と単純化することはできない。
 
-The relationship between culture and biology is more complex.
+文化と生物学の関係はもっと複雑だ。
 
 However, there is great significance in the view that the human body and cognition make musical behavior possible, and that culture has developed it into a myriad of forms.
 
 ### Music was not a "superfluous function" for humans.
 
-For a long time, music was sometimes thought of as ""useless.''
+音楽は、長い間「役に立たないもの」と考えられることもあった。
 
-don't make food.
+食料を作らない。
 
-Don't build a house.
+家を建てない。
 
-Don't protect yourself from enemies.
+敵から身を守らない。
 
-However, this is only when we think of the word "useful" narrowly.
+しかし、これは「役に立つ」という言葉を狭く考えた場合の話だ。
 
 In human society, survival is not just about what we eat, but also who we cooperate with, who we trust, what we remember, and how we share our emotions.
 
-Music penetrates deeply into these social realms.
+音楽は、こうした社会的領域に深く入り込む。
 
-That is why, when understanding human history, music cannot be treated as ""entertainment that was born after civilization became affluent.''
+だからこそ、人類の歴史を理解するとき、音楽は「文明が豊かになった後に生まれた娯楽」として扱うことができない。
 
 Rather, it is possible that musical behavior was integrated into the very process of creating society as humans.
 
-> Music was not a luxury created by civilization, but a social tool that humans may have used even before civilization was born.
+> 音楽は文明が生んだ贅沢品ではなく、文明が生まれる前から人間が使っていた可能性のある社会的な道具だった。
 
 ---
 
@@ -976,7 +976,7 @@ Rather, it is possible that musical behavior was integrated into the very proces
 
 This is where the difference between music and language becomes clear.
 
-Language has the ability to point to objects.
+言語には、対象を指し示す能力がある。
 
 "water".
 
@@ -984,11 +984,11 @@ Language has the ability to point to objects.
 
 "danger".
 
-"here".
+「ここ」。
 
-"eat".
+「食べる」。
 
-These words are used to share specific meanings.
+こうした言葉は、特定の意味を共有するために使われる。
 
 So what does music convey?
 
@@ -1002,111 +1002,120 @@ peace of mind.
 
 excitement.
 
-sorrow.
+悲しみ。
 
 Expectations.
 
-movement.
+動き。
 
 end.
 
 The beginning.
 
-And above all, I feel like I'm spending the same time as others right here, right now.
+Above all, I feel that I am spending the same time as others right here, right now.
 
 This means that music can handle social information in a different way than language.
 
 ### Did music exist before "meaning"?
 
-Here, a bold possibility appears.
+ここで一つの大胆な可能性が見えてくる。
 
-Even before humans were able to express specific meanings in words, we may have shared states of sound through the pitch, strength, length, and rhythm of sounds.
+人間は、言葉で具体的な意味を表現する以前から、音の高さ、強さ、長さ、リズムによって状態を共有していたのではないか。
 
-However, this is not a simple proof that ""music came before language.''
+ただし、これは「音楽が言語より先だった」という単純な証明ではない。
 
-Vocal communication and musical vocalizations may have interacted over time.
+声によるコミュニケーションと音楽的な発声が、長い時間をかけて相互作用した可能性がある。
 
-As language develops, sounds become able to convey more specific meanings.
+言語が発達すると、音はより具体的な意味を伝えられるようになる。
 
 Music, on the other hand, has evolved to emphasize elements such as pitch, rhythm, repetition, and structure.
 
 Rather than being separated, the two still fuse together again in the form of songs.
 
-In other words, there may have been a wide range of areas between "speaking" and "singing" in human culture from the beginning.
+つまり、人間の文化には最初から「話す」と「歌う」の間に広い領域が存在していたのかもしれない。
 
->Humans did not create music after inventing words, but it is possible that they developed language and music separately from a long history of using sounds to relate to others.
+> 人間は言葉を発明してから音楽を作ったのではなく、音を使って他者と関係する長い歴史の中から、言語と音楽をそれぞれ発展させた可能性がある。
 
 ---
 
-## 12. Conclusion of Part 1 - The world before writing already had a "culture of sound"
+## 12. Part 1の結論――文字以前の世界には、すでに「音の文化」があった
 
 Writing was a revolutionary invention for mankind.
 
-However, this was not the beginning of human culture.
+しかし、それは人類文化の始まりではない。
 
-Tens of thousands of years before the advent of writing, humans used their voices, heard sounds, observed the actions of others, synchronized their bodies, memorized, and imitated.
+文字が登場する数万年、あるいはそれ以上前から、人間は声を使い、音を聴き、他者の行動を観察し、身体を同期させ、記憶し、模倣していた。
 
-It is not possible to directly record that world.
+その世界を直接録音することはできない。
 
 That"s why we still can"t listen to prehistoric music.
 
-But that doesn"t mean music didn"t exist.
+しかし、そのことは音楽が存在しなかったことを意味しない。
 
-In fact, music has disappeared before our eyes precisely because it was one of the most difficult cultures to preserve.
+むしろ、音楽は最も保存されにくい文化の一つだったからこそ、私たちの目の前から消えている。
 
 The stone tools remained.
 
-The cave paintings remained.
+洞窟壁画は残った。
 
 The bones remained.
 
-The letters remained.
+文字は残った。
 
 However, the human voice disappeared.
 
-The sound of footsteps also disappeared.
+足を踏み鳴らした音も消えた。
 
-The applause also disappeared.
+手拍子も消えた。
 
 The voices I made while dancing disappeared.
 
-Yet humans have continued to use sound for tens of thousands of years.
+それでも、人間は何万年もの間、音を使い続けてきた。
 
-Then, about 5,000 years ago, writing appeared.
+そして、約5千年前、文字が登場する。
 
-From this point on, humans not only ""memorized'' sounds, but also acquired a method to fix language on matter.
+ここから人類は、音を「記憶する」だけではなく、言語を物質の上に固定する方法を手に入れる。
 
 However, the music did not fit into the text.
 
-Music took a different path.
+音楽は別の道を進んだ。
 
 voice.
 
-body.
+身体。
 
 musical instrument.
 
-Ceremony.
+儀礼。
 
-dance.
+踊り。
 
-memory.
+記憶。
 
 community.
 
-Later, it expanded to sheet music, recording, radio, records, tapes, CDs, digital files, and streaming.
+そして後には、楽譜、録音、ラジオ、レコード、テープ、CD、デジタルファイル、ストリーミングへと広がっていく。
 
-In other words, the history of human music is not just the history of musical instruments.
+つまり、人類の音楽史は、楽器の歴史だけではない。
 
-It is also the history of how humans share "time."
+それは、人間が「時間」を共有する方法の歴史でもある。
 
-The next question to ask is a deeper one.
+そして次に問うべきなのは、さらに深い問題だ。
 
-Why are humans the only ones who have placed such complex rhythms, melodies, songs, and dances at the center of society?
+なぜ人間だけが、これほど複雑なリズム、メロディー、歌、踊りを社会の中心に置くようになったのか。
 
-This involves characteristics of the human brain and body that cannot be explained through language alone.
+そこには、言語だけでは説明できない、人間の脳と身体の特徴が関係している。
 
-> Searching for the origins of music is not searching for the first song. The goal is to find out when humans became ""creatures that listen together, move together, and remember together.''
+> 音楽の起源を探すことは、最初の歌を探すことではない。それは、人間がいつ「一緒に聴き、一緒に動き、一緒に覚える生物」になったのかを探すことなのである。
 
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tKQ0H1Lp0uU?si=2WxCygDD1EoGwEtN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

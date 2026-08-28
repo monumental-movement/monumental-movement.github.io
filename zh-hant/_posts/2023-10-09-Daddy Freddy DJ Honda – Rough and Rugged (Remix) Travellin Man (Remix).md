@@ -14,16 +14,16 @@ title: Daddy Freddy DJ Honda – Rough and Rugged (Remix) Travellin' Man (Remix)
 ---
 
 
-“Rough and Rugged (Remix) Travellin' Man (Remix)”
-這是 Daddy Freddy/DJ Honda 於 2005 年在「Jacked Recordings」廠牌上發行的歌曲的鼓與貝斯混音版。
+ 「Rough and Rugged (Remix) Travellin' Man (Remix)」は、
+2005年にレーベル「Jacked Recordings」からリリースされたDaddy Freddy / DJ Hondaの楽曲のドラムンベースリミックスです。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Daddy Freddy–Rough & Rugged (Remix)
 
 B. DJ Honda–Travellin' Man (Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m13560022490?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13560022490?afid=6142608987){: .button1}
 

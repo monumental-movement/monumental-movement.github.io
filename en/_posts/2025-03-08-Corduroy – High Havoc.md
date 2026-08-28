@@ -12,9 +12,9 @@ title: Corduroy – High Havoc
 ---
 
 
-Corduroy is a four-piece acid jazz band based in London.
+Corduroy(コーデュロイ)は、ロンドンを拠点に活動する4人組のアシッドジャズバンド。
 
-"High Havoc" is Corduroy"s second concept album, released in 1993 on Acid Jazz Records. The second song, London England, is said to be a dance floor classic of the 1990s, and Corduroy"s masterpiece includes many other singles that entered the top 10 of the UK indie charts.
+「High Havoc」は、1993年にAcid Jazz RecordsからリリースされたCorduroyの2枚目のコンセプトアルバム。2曲目London Englandは1990年代のダンスフロアクラシックと言われており、他にもUKインディーズチャートTOP10に入ったシングルが多数収録されたCorduroyの代表作。
 
 
 #### Tracklist
@@ -34,7 +34,7 @@ Corduroy is a four-piece acid jazz band based in London.
 13. Clearing Up Music
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

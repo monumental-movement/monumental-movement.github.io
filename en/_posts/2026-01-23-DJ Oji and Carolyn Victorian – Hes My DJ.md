@@ -9,12 +9,12 @@ tags:
 - House
 - Deep House
 - 00s
-title: DJ Oji & Carolyn Victorian – He"s My DJ
+title: DJ Oji & Carolyn Victorian – He's My DJ
 ---
 
 
 
-DJ Oji is a DJ/producer based in Baltimore. "He"s My DJ", co-written with fellow Baltimore-based vocalist Carolyn Victorian, is a House/Deep House track released on Hisa Ishioka"s House label BPM King Street Sounds in 2004.
+DJ Oji は、ボルティモアを拠点に活動するDJ／プロデューサー。同じくボルティモアを拠点とするヴォーカリストCarolyn Victorianとの共作「He's My DJ」は、2004年にHisa Ishioka(ヒサイシオカ)のHouseレーベルBPM King Street SoundsからリリースされたHouse／Deep Houseトラック。
 
 
 

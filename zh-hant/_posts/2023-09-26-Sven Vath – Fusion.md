@@ -13,13 +13,13 @@ title: Sven Vath – Fusion
 ---
 
 
-《Sven Väth - Fusion》是德國 techno DJ 和製作人 Sven Väth 的專輯。他是 techno 音樂界非常重要的人物，有著漫長而成功的職業生涯。
+「Sven Väth - Fusion」は、ドイツのテクノDJおよびプロデューサー、スヴェン・ヴァス（Sven Väth）によるアルバムです。彼はテクノミュージックシーンで非常に重要な存在であり、そのキャリアは長く成功を収めています。
 
-《Fusion》是一張充滿強勁節奏、美妙節奏和夢幻音景的專輯。
+「Fusion」はアルバム全体で、迫力のあるビート、グルーヴィなリズム、幻想的なサウンドスケープが展開されています。
 
-這張專輯包含原創曲目和混音，反映了他們獨特的風格和才華。他的 DJ 技能和製作能力相結合，創造了一個獨特且充滿活力的科技音樂世界。
+このアルバムにはオリジナルトラックやリミックスが収録されており、独自のスタイルと才能が反映されています。彼のDJスキルとプロデュース力が相まって、独創的でダイナミックなテクノミュージックの世界が描かれています。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Fusion
 
@@ -42,7 +42,7 @@ title: Sven Vath – Fusion
 10. Blue Spliff
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m95442512304?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95442512304?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Idk_yNSjOa4?si=0nqeThRZbbds7GiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

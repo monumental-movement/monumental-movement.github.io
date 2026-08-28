@@ -10,31 +10,30 @@ tags:
 - Synthesizer
 - Drum Machine
 - Sampler
-title: '[Column] 50 music equipment that changed the world Part 4 TR-808 SP-1200 MPC
-  Fairlight DX7 LinnDrum TB-303'
+title: 【コラム】 世界を変えた音楽機材50選 Part4 TR-808 SP-1200 MPC Fairlight DX7 LinnDrum TB-303
 ---
 
 
-## 31. Roland Juno-106 — The masterpiece that popularized analog synths
+## 31. Roland Juno-106 — アナログシンセを大衆化した名機
 
 
-The Roland Juno-106, released in 1984, was an important piece of equipment that expanded the use of analog synthesizers to more musicians.
+1984年に発売されたRoland Juno-106は、アナログシンセサイザーをより多くのミュージシャンへ広げた重要な機材である。
 
-Polyphonic analog synthesizers that appeared in the late 1970s and early 1980s were often expensive and complex.
+1970年代後半から1980年代初頭に登場したポリフォニックアナログシンセサイザーは、高価で複雑なものが多かった。
 
-By combining stable digital control and analog circuitry, the Juno-106 achieves both ease of use and rich tone.
+Juno-106は、安定したデジタル制御とアナログ回路を組み合わせることで、扱いやすさと豊かな音色を両立した。
 
-Featuring six-note polyphonic, built-in chorus effects, and an intuitive control panel, it was used by a wide range of users, from beginners to professionals.
+6音ポリフォニック、内蔵コーラスエフェクト、直感的な操作パネルを備え、初心者からプロまで幅広く使用された。
 
-What was particularly distinctive was the warm and spacious pad sound.
+特に特徴的だったのは、温かく広がりのあるパッドサウンドだった。
 
-New wave, pop, and electronic music of the 1980s featured many Juno-106 tones.
+1980年代のニューウェーブ、ポップス、エレクトロニックミュージックでは、Juno-106の音色が数多く使用された。
 
-It was also reevaluated in later years for house and techno production, and was positioned as a standard analog synth for club music.
+また、後年にはハウスやテクノの制作でも再評価され、クラブミュージックにおける定番アナログシンセとして位置づけられた。
 
-The Juno-106 opened up the world of expensive vintage synthesizers to many musicians.
+Juno-106は、高価なヴィンテージシンセサイザーの世界を、多くの音楽家へ開いた存在だった。
 
-> The Juno-106 changed the appeal of analog synthesizers from something special to an everyday production environment.
+> Juno-106は、アナログシンセサイザーの魅力を特別なものから日常的な制作環境へ変えた。
 
 
 <style type="text/css">
@@ -42,7 +41,7 @@ The Juno-106 opened up the world of expensive vintage synthesizers to many music
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -52,165 +51,165 @@ color: #fff;
 
 ---
 
-## 32. Roland SH-101 — Innovative sound created by simple operation
+## 32. Roland SH-101 — シンプルな操作性が生んだ革新的サウンド
 
-The Roland SH-101, released in 1982, is a simple yet powerful analog synthesizer.
+1982年に発売されたRoland SH-101は、シンプルながら強烈な個性を持つアナログシンセサイザーである。
 
-Due to its compact body, simplified operation system, and unique sequencer function, it was used by many electronic music producers.
+コンパクトなボディ、単純化された操作系、独特のシーケンサー機能によって、多くの電子音楽制作者に使用された。
 
-The appeal of the SH-101 was the fact that all sound creation could be controlled directly by hand, rather than complicated menu operations.
+SH-101の魅力は、複雑なメニュー操作ではなく、すべての音作りを手で直接操作できる点だった。
 
-By changing oscillators, filters, and envelopes in real time, intuitive sound design was possible.
+オシレーター、フィルター、エンベロープをリアルタイムで変化させることで、直感的なサウンドデザインが可能だった。
 
-His sharp bass sound played an important role, especially in genres such as acid, techno, and electro.
+特にアシッド、テクノ、エレクトロなどのジャンルでは、その鋭いベースサウンドが重要な役割を果たした。
 
-The shoulder strap also made it suitable for live performance, demonstrating the possibility of using the synthesizer as a physical instrument.
+また、ショルダーストラップによってライブ演奏にも適しており、シンセサイザーを身体的な楽器として扱う可能性を示した。
 
-> The SH-101 proves that simple structure allows for maximum creativity.
-
----
-
-## 33. Roland MC-505 — A groove box for dance music production all in one
-
-The Roland MC-505, released in 1998, is a piece of equipment that further developed the groove box culture.
-
-Introduced as a successor to the MC-303, it is equipped with more powerful sound sources, effects, and sequence functions.
-
-It was suitable for live performances and real-time production because it could combine drum, bass, and synth sounds in one unit.
-
-Many creators used the MC-505 when producing dance music from the late 1990s to the early 2000s.
-
-Particularly appealing was the ability to give form to ideas without using a computer.
-
-This had an impact on later hardware production environments and ways of thinking about mobile music production.
-
-> The MC-505 was a production machine that condensed a studio environment into a small box.
+> SH-101は、シンプルな構造こそ最大の創造性を生むことを証明した。
 
 ---
 
-## 34. Akai MPC2000 — A sampler that makes beat production even more popular
+## 33. Roland MC-505 — ダンスミュージック制作を一台化したグルーヴボックス
 
-The Akai MPC2000, released in 1997, is a device that brought the philosophy of the MPC series to a wider range of users.
+1998年に発売されたRoland MC-505は、グルーヴボックス文化をさらに発展させた機材である。
 
-While inheriting the production method established with the MPC60 and MPC3000 using pad operations, it has been designed to be easier to use.
+MC-303の後継モデルとして登場し、より強力な音源、エフェクト、シーケンス機能を搭載した。
 
-It was used not only by hip-hop producers, but also in electronic music, dance music, and pop production.
+一台でドラム、ベース、シンセサウンドを組み合わせられるため、ライブ演奏やリアルタイム制作に適していた。
 
-The MPC2000 further expanded the culture of sampling, drum programming, and sequence production in one workflow.
+1990年代後半から2000年代初頭のダンスミュージック制作では、多くのクリエイターがMC-505を使用した。
 
-He was important in popularizing the production style of "beating and creating" that continues in the modern beat-making environment.
+特に、コンピューターを使わずにアイデアを形にできる点は大きな魅力だった。
 
-> The MPC2000 changed the culture of beat production from an expert skill to an everyday creative method.
+これは後のハードウェア制作環境やモバイル音楽制作の考え方にも影響を与えた。
 
----
-
-## 35. Yamaha CS-80 — The ultimate in expressive polyphonic synth
-
-The Yamaha CS-80, released in 1977, is known as one of the most expressive analog synthesizers in history.
-
-The CS-80 was designed not only to create tones, but also to reflect the performer's expression in detail.
-
-It had performance functions similar to today's synthesizers, such as a velocity-sensitive keyboard, aftertouch, and a ribbon controller.
-
-Its rich, dreamy sound was especially highly praised for film music and electronic music.
-
-Film composer Vangelis uses the CS-80 to create a grand, spatial sound.
-
-Although the CS-80 was not a mass-produced piece of equipment, it developed the synthesizer into not just a sound source, but a musical instrument with expressive power.
-
-> The CS-80 proves that it is possible to give electronic musical instruments a human look.
+> MC-505は、スタジオ環境を小さな箱の中へ凝縮した制作マシンだった。
 
 ---
 
+## 34. Akai MPC2000 — ビート制作をさらに一般化したサンプラー
 
+1997年に発売されたAkai MPC2000は、MPCシリーズの思想をより広いユーザーへ届けた機材である。
 
-## 36. Roland VP-330 Vocoder Plus — Equipment that converts human voice into electronic music
+MPC60やMPC3000で確立されたパッド操作による制作方法を継承しながら、より扱いやすい設計になった。
 
-The Roland VP-330 Vocoder Plus, released in 1979, is an iconic piece of equipment that combines vocal expression with electronic music.
+ヒップホッププロデューサーだけでなく、電子音楽、ダンスミュージック、ポップス制作でも使用された。
 
-Vocoder technology itself has existed since before the 1970s, but the VP-330 advances it as an instrument that can be used in music production.
+MPC2000によって、サンプリング、ドラムプログラミング、シーケンス制作を一つのワークフローで行う文化がさらに広がった。
 
-Its unique feature was that it could create unique robot voices and futuristic chorus sounds by analyzing human voices and fusing them with synthesizer sounds.
+現代のビートメイキング環境にも続く「叩いて作る」という制作スタイルを一般化した点で重要な存在だった。
 
-Furthermore, by combining the string sound source and vocoder function, it could be used not only as an effect device but also as a playable keyboard.
-
-New wave, synth pop, and electronic music of the 1980s featured many of the VP-330's fantastical sounds.
-
-The idea of ​​treating the voice as a raw material that could be processed electronically rather than as a natural instrument led to the subsequent culture of vocal effects, autotune, and vocal processing.
-
-> VP-330 transforms the human voice from a real sound into a futuristic acoustic material.
+> MPC2000は、ビート制作という文化を専門家の技術から日常的な創作方法へ変えた。
 
 ---
 
-## 37. Roland R-8 Human Rhythm Composer — The evolution of digital drum production
+## 35. Yamaha CS-80 — 表現力豊かなポリフォニックシンセの到達点
 
-The Roland R-8, released in 1989, is a piece of equipment that greatly enhances the expressive power of digital drum machines.
+1977年に発売されたYamaha CS-80は、アナログシンセサイザー史上でも特に表現力の高い機材として知られている。
 
-While the TR series created an electronic rhythm culture, the R-8 pursued more realistic drum sounds and detailed performance expression.
+CS-80は、単に音色を作るだけではなく、演奏者の表現を細かく反映できる設計を持っていた。
 
-Velocity responsiveness, sound strength, and detailed timing adjustments make it possible to perform expressions similar to those of actual drummers.
+ベロシティ対応鍵盤、アフタータッチ、リボンコントローラーなど、現在のシンセサイザーにも通じる演奏機能を備えていた。
 
-Additionally, drum tone expansion cards made it possible to support a variety of genres.
+その豊かで幻想的なサウンドは、映画音楽や電子音楽で特に高く評価された。
 
-It was widely used in pop, dance music, and studio production in the 1990s.
+映画音楽家VangelisはCS-80を使用し、壮大で空間的なサウンドを作り上げた。
 
-The R-8 showed that the rhythm machine was evolving from a simple repeating device to an instrument with performance expression.
+CS-80は大量生産向けの機材ではなかったが、シンセサイザーを単なる音源ではなく、表現力を持つ演奏楽器として発展させた。
 
-> The R-8 was a drum machine that symbolized the transition from mechanical beats to human grooves.
-
----
-
-## 38. Native Instruments Maschine — A production environment that combines hardware and software
-
-Native Instruments Maschine, introduced in 2009, is a system that represents a new form of computer music production.
-
-Although DAWs became popular in the 2000s, there were also dissatisfaction with the mouse and screen-centered production method.
-
-Maschine brings back the intuitive finger-tapping production style by combining a dedicated hardware controller and software environment.
-
-It was possible to create beats, edit samples, build loops, and perform in real time using 16 pads.
-
-This was an adaptation of MPC's idea of ​​""physical beat production'' to the computer age.
-
-It was used in many fields, including hip hop, electronic music, and live performance.
-
-> Maschine brings back the physicality that computer production had almost lost.
+> CS-80は、電子楽器にも人間的な表情を与えられることを証明した。
 
 ---
 
-## 39. Novation Launchpad — Loop music era interface
 
-Novation Launchpad, released in 2009, greatly expanded the live performance culture centered around Ableton Live.
 
-A grid of buttons makes it intuitive to launch clips, loop, and perform.
+## 36. Roland VP-330 Vocoder Plus — 人間の声を電子音楽へ変換した機材
 
-Unlike traditional keyboard and mouse operations, this system was unique in that it allowed users to visually grasp the musical structure while playing.
+1979年に発売されたRoland VP-330 Vocoder Plusは、ボーカル表現と電子音楽を結びつけた象徴的な機材である。
 
-This allows DJs, live performers, and electronic music producers to not only play songs, but also rearrange them on the spot.
+ボコーダー技術自体は1970年代以前から存在していたが、VP-330はそれを音楽制作の現場で使用できる楽器として発展させた。
 
-Launchpad further blurs the line between music production and live performance.
+特徴は、人間の声を分析し、シンセサイザー音と融合させることで独特のロボットボイスや未来的なコーラスサウンドを作れる点だった。
 
-It has also had a major influence on the spread of the current pad controller culture.
+さらに、ストリングス音源とボコーダー機能を組み合わせることで、単なるエフェクト機器ではなく演奏可能なキーボードとして使用できた。
 
-> Launchpad turns computer music back into a hand-controlled instrument.
+1980年代のニューウェーブ、シンセポップ、電子音楽では、VP-330の幻想的なサウンドが数多く使われた。
+
+声を自然な楽器ではなく、電子的に加工できる素材として扱う考え方は、その後のボーカルエフェクト、オートチューン、ボーカルプロセッシング文化へつながっていった。
+
+> VP-330は、人間の声を現実の音から未来的な音響素材へ変化させた。
 
 ---
 
-## 40. Elektron Octatrack — The equipment that evolved the sampler into a live instrument
+## 37. Roland R-8 Human Rhythm Composer — デジタルドラム制作の進化形
 
-The Elektron Octatrack, released in 2011, is a device that greatly expands on the concept of a sampler.
+1989年に発売されたRoland R-8は、デジタルドラムマシンの表現力を大きく高めた機材である。
 
-Traditional samplers were mainly used for playing back and editing recorded sounds.
+TRシリーズが電子的なリズム文化を作った一方で、R-8はよりリアルなドラムサウンドと細かな演奏表現を追求した。
 
-Octatrack is designed for live performance, changing samples in real time.
+ベロシティ対応、音の強弱、細かなタイミング調整など、実際のドラマーに近い表現を可能にした。
 
-By combining pitch changes, time stretching, effect processing, and routing changes, it was possible to play the sound itself.
+さらに、ドラム音色の拡張カードによって多様なジャンルへ対応できた。
 
-He was particularly praised for his work in the fields of experimental electronic music, ambient, and live electronics.
+1990年代のポップス、ダンスミュージック、スタジオ制作で幅広く使用された。
 
-The sampler has become more than just a material management tool, it has become an instrument that continuously changes the sound.
+R-8は、リズムマシンが単純な反復装置ではなく、演奏表現を持つ楽器へ進化していることを示した。
 
-> Octatrack has evolved sampling technology into real-time acoustic expression.
+> R-8は、機械的なビートから人間的なグルーヴへ向かう過程を象徴するドラムマシンだった。
+
+---
+
+## 38. Native Instruments Maschine — ハードウェアとソフトウェアを融合した制作環境
+
+2009年に登場したNative Instruments Maschineは、コンピューター音楽制作の新しい形を示したシステムである。
+
+2000年代にはDAWが一般化していたが、マウスと画面中心の制作方法に対する不満も存在した。
+
+Maschineは、専用ハードウェアコントローラーとソフトウェア環境を組み合わせることで、指で叩いて作る直感的な制作スタイルを復活させた。
+
+16個のパッドによるビート制作、サンプル編集、ループ構築、リアルタイム演奏が可能だった。
+
+これはMPCが築いた「身体的なビート制作」の思想を、コンピューター時代へ適応させたものだった。
+
+ヒップホップ、エレクトロニックミュージック、ライブパフォーマンスなど、多くの分野で使用された。
+
+> Maschineは、コンピューター制作に失われかけた身体性を取り戻した。
+
+---
+
+## 39. Novation Launchpad — ループ音楽時代のインターフェース
+
+2009年に発売されたNovation Launchpadは、Ableton Liveを中心としたライブパフォーマンス文化を大きく広げた。
+
+格子状に配置されたボタンによって、クリップの起動、ループ操作、演奏を直感的に行うことができた。
+
+従来の鍵盤やマウス操作とは異なり、視覚的に音楽構造を把握しながら演奏できる点が特徴だった。
+
+これによって、DJ、ライブパフォーマー、電子音楽制作者は、曲を再生するだけではなく、その場で組み替える表現が可能になった。
+
+Launchpadは、音楽制作とライブ演奏の境界をさらに曖昧にした。
+
+現在のパッドコントローラー文化の普及にも大きな影響を与えている。
+
+> Launchpadは、コンピューター上の音楽を再び手で操作する楽器へ戻した。
+
+---
+
+## 40. Elektron Octatrack — サンプラーをライブ楽器へ進化させた機材
+
+2011年に発売されたElektron Octatrackは、サンプラーの概念を大きく拡張した機材である。
+
+従来のサンプラーは、録音した音を再生・編集する用途が中心だった。
+
+Octatrackは、リアルタイムでサンプルを変化させるライブパフォーマンス向けの設計を採用した。
+
+ピッチ変更、時間伸縮、エフェクト処理、ルーティング変更などを組み合わせることで、音そのものを演奏することが可能だった。
+
+特に実験的電子音楽、アンビエント、ライブエレクトロニクスの分野で高く評価された。
+
+サンプラーは単なる素材管理ツールではなく、音響を変化させ続ける楽器になった。
+
+> Octatrackは、サンプリングという技術をリアルタイムの音響表現へ進化させた。
 
 
 ---

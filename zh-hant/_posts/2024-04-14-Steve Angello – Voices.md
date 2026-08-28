@@ -9,19 +9,19 @@ permalink: /zh-hant/steve-angello-voices/
 tags:
 - House
 - Electro
-title: 史蒂夫安傑洛 – 配音
+title: Steve Angello – Voices
 ---
 
 
-Steve Angello 是一位希臘裔瑞典 DJ、唱片製作人和混音師。
+Steve Angello（スティーブアンジェロ）は、ギリシャ系スウェーデン人の DJ・レコードプロデューサー・リミキサー。
 
-史蒂夫·安傑洛（Steve Angello）是瑞典眾議院黑手黨的成員，其他成員包括阿克斯韋爾（Axwell）和塞巴斯蒂安·英格羅索（Sebastian Ingrosso）。
+Steve Angelloは、Axwell（アクスウェル）、Sebastian Ingrosso（セバスチャン・イングロッソ ）と共にSwedish House Mafia（スウェディッシュハウスマフィア）の一員である。
 
-A 面的第一首曲目是由瑞典 DJ 兼製作人 Eric Prydz（同時也擔任 Cirez D 和 Pryda）混音的作品。
+A面１曲目は、Cirez D、Pryda名義でも活動するスウェーデンのDJ・プロデューサーEric Prydz（エリック・プライズ）によるremix。
 
-B 面的第二首歌是 Laidback Luke 的混音版，他是一位荷蘭 techno house DJ，曾對 Robin S 的“Show Me Love”、Denki Groove 和 Jark Prongo 等多位藝術家進行過混音。
+B面２曲目はRobin S「Show Me Love」や電気グルーヴ、Jark Prongo（ジャーク・ブロンコ）など様々なアーティストのリミックスを手がけるダッチ・テクノハウスDJ、Laidback Luke（レイドバック・ルーク）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Voices (Eric Prydz Remix)
 

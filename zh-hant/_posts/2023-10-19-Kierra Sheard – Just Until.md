@@ -10,13 +10,13 @@ tags:
 - R&B
 - Soul
 - Gospel
-title: 基拉·謝爾德 (Kierra Sheard) – 直到
+title: Kierra Sheard – Just Until
 ---
 
 
-Kierra Kiki Sheard 是一位來自美國底特律的福音歌手。在日本，它被稱為 KiKi。她的母親是福音傳奇克拉克姊妹的凱倫·克拉克·謝爾德。
+Kierra Kiki Sheard（キエラ・キキ・シェアード）は、USデトロイト出身のゴスペルシンガー。日本ではKiKi（キキ）として知られている。母親はゴスペル界の名門、クラーク・シスターズのKaren Clark Sheard（カレン・クラーク・シェアード）。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Let Go (Rock Soul Remix)
 
@@ -31,4 +31,4 @@ B2. Let Go (LP Version)
 B3. Let Go (The Godson Concept)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m74116877219?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74116877219?afid=6142608987){: .button1}

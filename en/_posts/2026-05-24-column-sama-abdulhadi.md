@@ -10,20 +10,20 @@ tags:
 - Techno
 - Electronic
 - Underground
-title: '[Column] Sama'' Abdulhadi ─ Palestinian techno that resonates across borders'
+title: 【コラム】 Sama' Abdulhadi ─ 境界線を越えて鳴り響くパレスチナ・テクノ
 ---
 
 
-## The bass that echoed from Palestine to the world
+## The bass that resounded from Palestine to the world
 
-Text: mmr | Theme: Understanding how contemporary techno intersects with politics, culture, and identity through the activities of Palestinian DJ Sama' Abdulhadi
+文：mmr｜テーマ：パレスチナ出身DJ・Sama' Abdulhadiの活動を通じて、現代テクノが政治・文化・アイデンティティとどのように交差しているのかを読み解く
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -36,17 +36,17 @@ Techno music is often referred to as ""urban music.''
 - Machine sounds in the factory area.
 - Vibrations from cars driving at high speed late at night.
 - Echoes of inorganic concrete.
-- Strobe lights floating in the darkness of the club.
+- クラブの暗闇に浮かぶストロボ。
 
-If you trace its origins, you will find it in Detroit, USA. However, in the 21st century, techno went beyond Europe and spread to the Middle East, Africa, South America, and Asia, absorbing the realities of each region and transforming into new forms.
+その起源を辿れば、アメリカ・デトロイトに行き着く。しかし21世紀に入ると、テクノはヨーロッパを超え、中東やアフリカ、南米、アジアへと広がり、各地の現実を吸収しながら新しい形へ変化していった。
 
-Amidst this trend, there is one person who left a strong impression on dance music fans around the world.
+その流れの中で、世界中のダンスミュージック・ファンに強烈な印象を残した人物がいる。
 
 Sama' Abdulhadi.
 
-A DJ/producer from Palestine, he is a symbol of making the Middle Eastern techno scene visible to the world.
+パレスチナ出身のDJ／プロデューサーであり、中東テクノシーンを世界へ可視化した象徴的存在だ。
 
-One of the things that made her name famous internationally was her appearance in Boiler Room, which was released in 2018. Although centered on the rough and heavy Berlin-style techno, there was a sense of urgency to their playing, and a passion that went beyond mere club music.
+彼女の名前が国際的に広く知られるようになったきっかけの一つは、2018年に公開されたBoiler Room出演だった。荒々しく重厚なベルリン・スタイルのテクノを軸にしながらも、そのプレイにはどこか切迫感があり、単なるクラブ・ミュージックを超えた熱量があった。
 
 But Sama" Abdulhadi"s importance cannot be explained simply as a ""famous female DJ.''
 
@@ -54,13 +54,13 @@ Her activities exist at the intersection of multiple themes such as music, polit
 
 Many club cultures around the world are talked about as symbols of "freedom." However, in an environment where freedom itself is restricted, club spaces are more than just entertainment.
 
-That reality is etched into Sama" Abdulhadi"s kick drum.
+Sama' Abdulhadiが鳴らすキックドラムには、その現実が刻まれている。
 
->Techno is not an escape, but a medium that amplifies the atmosphere of the times and places.
+> テクノは逃避ではなく、時代や土地の空気を増幅するメディアでもある。
 
 ---
 
-## Childhood and Palestine Reality
+## 幼少期とパレスチナの現実
 
 ### A girl who grew up in Ramallah
 
@@ -71,20 +71,20 @@ When she was growing up, Palestine was under constant tension.
 - Military occupation.
 - Inspection.
 - Movement restrictions.
-- Political instability.
+- 政治的不安定。
 - Social oppression.
 
 In an environment where it was difficult for youth culture to spontaneously emerge, music was an important escape.
 
-From the late 1990s to the early 2000s, the spread of satellite broadcasting and the Internet led to a rapid increase in the number of young people in the Middle East gaining access to Western club music. Hip-hop, rock, and electronic music, in particular, functioned as a means of distancing themselves from existing values.
+90年代後半から2000年代初頭にかけて、中東では衛星放送やインターネットの普及により、西洋のクラブミュージックへアクセスする若者が急増する。特にヒップホップ、ロック、電子音楽は、既存の価値観から距離を置く手段として機能した。
 
-Sama' Abdulhadi also discovered electronic music during this wave.
+Sama' Abdulhadiもまた、その波の中で電子音楽に出会う。
 
-His particular influence was European techno and electronic music.
+He was particularly influenced by European techno and electronic music.
 
 repeating rhythm.
 minimalistic structure.
-Communication that does not require language.
+言語を必要としないコミュニケーション。
 
 It was a feeling that could be shared across borders, religions, and ethnic groups.
 
@@ -92,26 +92,26 @@ It was a feeling that could be shared across borders, religions, and ethnic grou
 
 As a young girl, she absorbed a wide variety of music, including rock and hip-hop. But in the end, it was techno that captivated her.
 
-One of the reasons was the "degree of freedom."
+理由の一つは、「自由度」だったという。
 
 It works even without lyrics.
-Regardless of nationality.
-Even if we have different political backgrounds, we can dance on the same floor.
+国籍を問わない。
+政治的背景が違っても同じフロアで踊れる。
 
 Techno was a music that created synchronization rather than conflict.
 
 <div class="mermaid">
 graph TD
-A[Palestinian social environment] --> B[Restrictions on youth culture]
-B --> C[Interest in underground culture]
-C --> D[Encounter with electronic music]
-D --> E[Started DJ activities]
-E --> F[Connect to the international scene]
+A[Palestinian social environment] --> B[若者文化の制限]
+B --> C[アンダーグラウンド文化への関心]
+C --> D[電子音楽との出会い]
+D --> E[DJ活動開始]
+E --> F[国際シーンへ接続]
 </div>
 
 At the time, the electronic music scene itself was still small in the Middle East. Particularly in Palestine, the foundation of club culture is very weak, and it is not easy to hold events.
 
-But that's why I had a strong DIY spirit.
+However, that's why the DIY spirit was so strong.
 
 look for a place,
 Bring your equipment,
@@ -119,7 +119,7 @@ Create a small community.
 
 That experience greatly influenced Sama" Abdulhadi"s later working style.
 
-> The more restrictive the environment, the stronger the culture will grow underground.
+> 制限が多い環境ほど、カルチャーは地下で強く育つ。
 
 ---
 
@@ -127,19 +127,19 @@ That experience greatly influenced Sama" Abdulhadi"s later working style.
 
 ### 2000s Electronic Music Community
 
-In the 2000s, an electronic music community gradually began to form in the Middle East.
+2000年代、中東では徐々に電子音楽コミュニティが形成され始める。
 
 Beirut, Lebanon.
-Jordan Amman.
-Tel Aviv, Israel.
-Ramallah, Palestine.
+ヨルダン・アンマン。
+イスラエル・テルアビブ。
+パレスチナ・ラマッラー。
 
 DJ events and rave culture were born in these cities, albeit on a small scale.
 
-However, the situation is very different from the club scene in Europe and America.
+しかし欧米のクラブシーンとは状況が大きく異なる。
 
-Lack of sound equipment.
-Difficulty in securing a venue.
+音響設備不足。
+会場確保の難しさ。
 social prejudice.
 Administrative issues.
 conservative values.
@@ -148,69 +148,69 @@ In particular, there were very few female DJs.
 
 Sama' Abdulhadi will gain experience as a player in this environment.
 
-### Walls of being a female DJ
+### 女性DJとしての壁
 
-In Middle Eastern society, women's involvement in late-night club culture was often subject to prejudice.
+中東社会において、女性が深夜のクラブカルチャーに関わること自体、偏見の対象になるケースも少なくなかった。
 
-Additionally, techno was often treated as a "male-centric" culture.
+さらにテクノは「男性中心」の文化として扱われがちだった。
 
-DJ equipment.
-Late night event.
-Tour movement.
-Music production.
+DJ機材。
+深夜イベント。
+ツアー移動。
+音楽制作。
 
 All had a strong male-dominated atmosphere.
 
-But Sama" Abdulhadi didn"t want to be consumed by the exclusive category of "female DJ."
+だがSama' Abdulhadiは、自らを「女性DJ」という限定的カテゴリーで消費されることを嫌った。
 
-What she focused on was the play itself.
+彼女が重視していたのは、あくまでプレイそのものだった。
 
-A heavy, hard kick.
-dark groove.
-Tension that lasts for a long time.
+重く硬いキック。
+ダークなグルーヴ。
+長時間持続するテンション。
 
 His style resonated with the Berlin-style hard groove trend.
 
 <div class="mermaid">
 flowchart TD
-A[Western techno culture] --> B[Influx into the Middle East]
-B --> C[Creating local scenes]
+A[Western techno culture] --> B[中東へ流入]
+B --> C[地域独自のシーン形成]
 C --> D[DIY event]
-D --> E[The emergence of female DJs]
-E --> F[Rise of Sama' Abdulhadi]
+D --> E[女性DJの登場]
+E --> F[Sama' Abdulhadiの台頭]
 </div>
 
 Also, rather than portraying her Middle Eastern origins as a ""speciality,'' she placed more emphasis on being evaluated purely as a DJ in the international techno scene.
 
-This attitude gained support from many clubbers and DJs.
+その姿勢は、多くのクラバーやDJから支持を集めた。
 
-> Before she was a "Palestinian DJ", she was an extremely powerful techno DJ.
+> 彼女は“パレスチナ人DJ”である前に、極めて強力なテクノDJだった。
 
 ---
 
-## Global recognition changed by Boiler Room
+## Boiler Roomが変えた世界的認知
 
-### Impact of 2018
+### 2018年の衝撃
 
-One of the events that made Sama" Abdulhadi"s name popular on a global scale was his appearance on Boiler Room in 2018.
+Sama' Abdulhadiの名を世界規模で広めた出来事の一つが、2018年のBoiler Room出演である。
 
-Boiler Room has been a pivotal distribution platform in club culture since the 2000s.
+Boiler Roomは、2000年代以降のクラブカルチャーにおいて極めて重要な配信プラットフォームだった。
 
-Traditionally, club experiences could only be shared by going to the venue. But Boiler Room has taken that craze online.
+従来、クラブ体験は現場に行かなければ共有できなかった。しかしBoiler Roomは、その熱狂をオンライン化した。
 
-Viewers around the world
-Underground clubs in Berlin
-Warehouse rave in London,
-A small box in Tokyo,
-Now you can experience it from home.
+世界中の視聴者が、
+ベルリンの地下クラブも、
+ロンドンの倉庫レイヴも、
+東京の小箱も、
+自宅から体験できるようになった。
 
-Among them, Sama" Abdulhadi"s set stood out.
+その中でSama' Abdulhadiのセットは異彩を放った。
 
-Hard and stoic.
-Energetic and uncompromising.
-There is also a strong sense of unity with the audience.
+ハードでストイック。
+エネルギッシュで妥協がない。
+観客との一体感も強い。
 
-He was highly praised as a full-fledged techno DJ, not just a ""unusual regional DJ.''
+単なる「珍しい地域のDJ」ではなく、本格的なテクノDJとして高く評価された。
 
 <div class="mermaid">
 timeline
@@ -223,35 +223,35 @@ timeline
     2021以降 : 国際的議論の中心人物へ
 </div>
 
-### "Palestine"s first boiler room"
+### 「パレスチナ初のBoiler Room」
 
-She is often referred to as "the first Palestinian Boiler Room DJ."
+彼女はしばしば「初のパレスチナ人Boiler Room出演DJ」と紹介された。
 
-This is not just a title.
+これは単なる肩書きではない。
 
-For many years, the Middle East's electronic music scene has been under-visible by Western media.
+長年、中東の電子音楽シーンは西洋メディアから十分に可視化されてこなかった。
 
-Palestine, in particular, is often consumed as political news, with limited opportunities for cultural aspects to be communicated to the world.
+特にパレスチナは、政治ニュースとして消費されることが多く、カルチャー面が世界へ伝わる機会は限られていた。
 
-Sama" Abdulhadi"s existence has greatly shaken that fixed image.
+Sama' Abdulhadiの存在は、その固定イメージを大きく揺さぶった。
 
-"There is a club culture in Palestine too."
-"Young people are playing techno"
-"There is an underground scene."
+「パレスチナにもクラブカルチャーがある」
+「若者がテクノを鳴らしている」
+「地下シーンが存在する」
 
 Clubbers around the world witnessed this fact.
 
-> Her success was much more than just one DJ's breakthrough.
+> 彼女の成功は、一人のDJのブレイク以上の意味を持っていた。
 
 ---
 
-## Musical Style and Playing Philosophy
+## 音楽スタイルとプレイ哲学
 
-### Hard groove and immersion
+### ハードグルーヴと没入感
 
-Sama" Abdulhadi"s playing is often classified as so-called "hard groove" techno.
+Sama' Abdulhadiのプレイは、いわゆる“ハードグルーヴ”系テクノに分類されることが多い。
 
-The characteristics are as follows.
+特徴は以下の通りである。
 
 <div class="mermaid">
 mindmap
@@ -270,89 +270,89 @@ mindmap
       アンダーグラウンド文化
 </div>
 
-What is especially important is that he is devoted to ""making people dance.''
+特に重要なのは、「踊らせること」に徹している点だ。
 
 In recent years, techno has tended to focus more on social media and visual production. However, her play is extremely physical and emphasizes physicality.
 
-Press with low tone,
-Repetition leads to a trance state,
-Dominate the floor for a long time.
+低音で圧迫し、
+反復でトランス状態へ導き、
+長時間フロアを支配する。
 
-This is close to the tradition of full-fledged club techno from the 1990s onwards.
+これは90年代以降の本格的クラブテクノの伝統に近い。
 
-### Being seen as a "political DJ"
+### “政治的DJ”として見られること
 
-On the other hand, she is often treated as a political figure by the media.
+一方で、彼女はメディアから政治的存在として扱われることも多い。
 
 However, he was wary of being perceived as a simple political activist.
 
-What she repeatedly says is that ""music is the main thing.''
+彼女が繰り返し語っているのは、「まず音楽が中心である」という点である。
 
-Of course, being from Palestine, it is difficult to completely separate yourself from the political context.
+もちろんパレスチナ出身である以上、政治的文脈から完全に切り離されることは難しい。
 
-However, she does not want her story to be talked about solely in terms of victimhood.
+だが彼女は、被害者性だけで語られることを望んでいない。
 
-"We have a culture"
-"It"s creative."
+「自分たちには文化がある」
+「創造性がある」
 "There is a music scene."
 
-It was important to show that fact.
+その事実を示すこと自体が重要だった。
 
-> She was not a ""DJ who talks about politics," but a ""DJ whose very existence is politicized."
+> 彼女は“政治を語るDJ”ではなく、“存在そのものが政治化されるDJ”だった。
 
 ---
 
-## Nabi Musa incident and global debate
+## Nabi Musa事件と世界的議論
 
 ### Incidents of 2020
 
-In 2020, Sama' Abdulhadi performed at a music event in Nabi Musa, Palestinian Territories.
+2020年、Sama' Abdulhadiはパレスチナ自治区のNabi Musaで開催された音楽イベントに出演した。
 
-Nabi Musa is known as a place with historical and religious significance.
+Nabi Musaは歴史的・宗教的意味を持つ場所として知られている。
 
 After the event, some people criticized her for ""desecrating a religious space,'' and she was detained.
 
-This incident caused great debate around the world.
+この事件は世界中で大きな議論を呼んだ。
 
-Club culture supporters defended her.
+クラブカルチャー支持者たちは、彼女を擁護した。
 
 On the other hand, there was also criticism from conservatives.
 
-The problem is not simple.
+問題は単純ではない。
 
-religious space.
-youth culture.
-Politics.
-gender.
+宗教空間。
+若者文化。
+政治。
+ジェンダー。
 Intergenerational values.
 
-Various themes were colliding.
+さまざまなテーマが衝突していた。
 
-### Club culture and public space
+### クラブカルチャーと公共空間
 
 This incident highlighted the position of club culture in the Middle East.
 
 In many parts of Europe and America, club culture has already been institutionalized. However, in the Middle East, club spaces themselves are often socially unstable.
 
 Where will the music be played?
-Who gives permission?
+誰が許可を出すのか。
 To what extent can youth culture be recognized?
 
-The Sama' Abdulhadi incident was not just news of a DJ arrest, but was widely discussed as a clash of cultures and social institutions.
+Sama' Abdulhadi事件は、単なるDJ逮捕ニュースではなく、カルチャーと社会制度の衝突として広く議論された。
 
 <div class="mermaid">
 graph TD
-A[Nabi MusaEvent] --> B[Backlash from conservatives]
+A[Nabi MusaEvent] --> B[保守層の反発]
 A --> C[Club culture support]
-B --> D[religious space debate]
-C --> E[freedom of expression debate]
+B --> D[宗教空間論争]
+C --> E[表現の自由議論]
 D --> F[international coverage]
 E --> F
 </div>
 
-After this incident, she began to be treated as an even more symbolic figure.
+この件以降、彼女はより象徴的存在として扱われるようになる。
 
-> Techno sometimes exposes the boundaries of society.
+> テクノは時に、社会の境界線を露わにする。
 
 ---
 
@@ -364,52 +364,52 @@ The emergence of Sama' Abdulhadi was a huge inspiration to young DJs and produce
 
 The influence on female artists is particularly large.
 
-"You can go to the world even if you are from the Middle East"
-"It"s appreciated even underground."
-"Connecting from the local scene to the international stage"
+「中東出身でも世界へ行ける」
+「アンダーグラウンドでも評価される」
+「ローカルシーンから国際舞台へ繋がれる」
 
-Such a possibility has been visualized.
+そうした可能性が可視化された。
 
-In fact, since the late 2010s, an increasing number of DJs from the Middle East and North Africa have been attracting international attention.
+実際、2010年代後半以降、中東や北アフリカから国際的に注目されるDJが増加している。
 
-### Reassessing the regional scene
+### 地域シーンの再評価
 
-In addition, electronic music media, which had been centered around Europe and the United States, began to actively cover the Middle Eastern scene.
+また、欧米中心だった電子音楽メディアも、中東シーンを積極的に扱うようになった。
 
-Lebanon.
+レバノン。
 egypt.
-Tunisia.
+チュニジア。
 Palestine.
-Jordan.
+ヨルダン。
 
-There will be more opportunities to introduce the underground culture of each region.
+各地域のアンダーグラウンド文化が紹介される機会が増えていく。
 
-This is not a simple story of ""introducing an exotic region.''
+これは「エキゾチックな地域紹介」という単純な話ではない。
 
-In today's globalized techno, it showed that new energy is being born from the periphery.
+In today's globalized techno world, it showed that new energy is being born from the periphery.
 
 <div class="mermaid">
 graph TD
-A[Western-centered techno history] --> B[globalization]
-B --> C[Middle East scene visualization]
+A[Western-centered techno history] --> B[グローバル化]
+B --> C[中東シーン可視化]
 C --> D[Introducing a new generation of DJs]
-D --> E[Creating a club culture unique to the region]
+D --> E[地域独自のクラブ文化形成]
 </div>
 
 Sama' Abdulhadi was a symbol of this trend.
 
-> Berlin is no longer the center of techno.
+> テクノの中心は、もはやベルリンだけではない。
 
 ---
 
 ## World tours and international festivals
 
-### Establishment as a global DJ
+### グローバルDJとしての確立
 
 Since Boiler Room, Sama' Abdulhadi has been performing at clubs and festivals all over the world.
 
 Major clubs in Europe.
-Large festival.
+大型フェス。
 underground rave.
 
 The scope of its activities expanded rapidly.
@@ -417,121 +417,121 @@ The scope of its activities expanded rapidly.
 Her strength lies in the fact that she can perform at both huge festivals and underground clubs.
 
 Groove rather than flashy.
-Flow rather than direction.
-Long-term immersion rather than short-term buzz.
+演出よりも流れ。
+短期的バズよりも長時間の没入感。
 
-His style gained strong support from core techno fans.
+そのスタイルは、コアなテクノファンから強い支持を集めた。
 
-### Resistance to "story consumption"
+### “ストーリー消費”への抵抗
 
-Meanwhile, international media often tried to consume her in the narrative of a "Palestinian female DJ."
+一方で、国際メディアはしばしば彼女を「パレスチナの女性DJ」という物語で消費しようとした。
 
 But Sama' Abdulhadi himself continues to resist that simplification.
 
-Of course, provenance is important.
+もちろん出自は重要だ。
 
-However, she would rather be valued as a member of the techno scene than be treated as ""special.''
+だが彼女は、自分が“特殊な存在”として扱われるより、テクノシーンの一員として評価されることを望んでいる。
 
-This is also an important issue in modern club culture.
+これは現代クラブカルチャーにおける重要な論点でもある。
 
-Make diversity visible.
-At the same time, avoid excessive labeling.
+多様性を可視化すること。
+同時に、過度なラベリングを避けること。
 
-That balance is very difficult.
+そのバランスは非常に難しい。
 
 > Although she is a symbol, she has also resisted being overly symbolized.
 
 ---
 
-## Techno, boundaries, identity
+## テクノ、境界、アイデンティティ
 
-### Club culture that transcends borders
+### 国境を超えるクラブカルチャー
 
-Techno has always been a music that can easily cross borders.
+テクノは元来、国境を越えやすい音楽だった。
 
 Less dependent on lyrics,
 It has a strong repetitive structure,
-Because it is centered around physical sensations,
-Easy to share even in different language areas.
+身体感覚中心であるため、
+異なる言語圏でも共有しやすい。
 
-Sama" Abdulhadi"s success once again proves that trait.
+Sama' Abdulhadiの成功は、その特性を改めて証明した。
 
-A DJ from the politically complex region of Palestine is thrilling floors all over the world.
+パレスチナという政治的に複雑な地域から現れたDJが、世界中のフロアを熱狂させる。
 
-This wasn't just entertainment, it was a cultural connection.
+これは単なるエンターテインメントではなく、カルチャーの接続そのものだった。
 
-### Symbol of modern techno
+### 現代テクノの象徴的存在
 
-Techno has changed significantly since the 21st century.
+21世紀以降のテクノは、大きく変化した。
 
 <div class="mermaid">
 flowchart TD
-A[1980s Detroit] --> B[1990s European expansion]
-B --> C[2000s globalization]
-C --> D[delivery culture]
-D --> E[SNS era]
-E --> F[Multi-regional contemporary techno]
-F --> G[The era of Sama' Abdulhadi]
+A[1980s Detroit] --> B[1990s ヨーロッパ拡大]
+B --> C[2000s グローバル化]
+C --> D[配信文化]
+D --> E[SNS時代]
+E --> F[多地域化した現代テクノ]
+F --> G[Sama' Abdulhadiの時代]
 </div>
 
-The scene that was once Western-centered has become more multipolar.
+かつては欧米中心だったシーンが、より多極化している。
 
-Africa.
-middle east.
-Asia.
+アフリカ。
+中東。
+アジア。
 South America.
 
-Each reality flows into techno, creating new styles and values.
+それぞれの現実がテクノへ流れ込み、新しいスタイルや価値観を生み出している。
 
-Sama' Abdulhadi is one of the artists who symbolizes this change.
+Sama' Abdulhadiは、その変化を象徴するアーティストの一人である。
 
-She's not just a "Middle Eastern DJ."
+彼女は単に「中東のDJ」なのではない。
 
-They are the embodiment of modern global techno itself.
+現代グローバル・テクノそのものを体現する存在なのだ。
 
-> Her sound is made up of the rhythm of knowing the existence of boundaries but still trying to cross them.
+> 彼女の音は、境界線の存在を知りながら、それでも越えていこうとするリズムでできている。
 
 ---
 
-## Chronology of major works and activities
+## 主要作品・活動年表
 
-| Year | Events |
+| 年 | 出来事 |
 |---|---|
-| Late 1980s | Born in Jordan, raised in Palestine |
-| Early 2000s | Start of DJ activities |
+| 1980年代後半 | ヨルダン生まれ、パレスチナ育ち |
+| 2000年代初頭 | DJ活動開始 |
 | 2010s | Expanding activities in the Middle East underground scene |
-| 2018 | Boiler Room appearance attracts worldwide attention |
-| 2019 | Increase in international festival appearances |
-| 2020 | Nabi Musa incident sparks global discussion |
-| From 2021 | Continuing activities as a symbol of the Middle East techno scene |
+| 2018 | Boiler Room出演で世界的注目 |
+| 2019 | 国際フェスティバル出演増加 |
+| 2020 | Nabi Musa事件が世界的議論に |
+| 2021以降 | 中東テクノシーン象徴的存在として活動継続 |
 
 ---
 
-## At the end
+## 終わりに
 
-Sama" Abdulhadi"s career is more than just a success story.
+Sama' Abdulhadiのキャリアは、単なる成功物語ではない。
 
 There are
-music and politics,
-freedom and restriction,
-local and global,
+音楽と政治、
+自由と制限、
+ローカルとグローバル、
 individual and symbolism,
 underground culture and international markets,
 
-These contemporary themes are intricately intertwined.
+そうした現代的テーマが複雑に絡み合っている。
 
-But in the end, what matters is the sound she's making on the floor.
+しかし最終的に重要なのは、彼女がフロアで鳴らしている音そのものだ。
 
-violently,
-Heavy,
-Relentlessly repeated kicks.
+激しく、
+重く、
+執拗に反復するキック。
 
-There is a power to reach the body before explanation.
+そこには説明より先に身体へ届く力がある。
 
-Techno has often been called the "music of the future".
+テクノはしばしば「未来の音楽」と呼ばれてきた。
 
-Sama" Abdulhadi"s existence indicates that its future is already diverse, multiregional, and beginning to transcend boundaries.
+Sama' Abdulhadiの存在は、その未来が既に多様で、多地域的で、境界を越え始めていることを示している。
 
-> The bass sounds she plays not only shake the club, but the world map itself.
+> 彼女が鳴らす低音は、クラブだけでなく、世界地図そのものを揺らしている。
 
 ---

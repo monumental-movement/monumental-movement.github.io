@@ -16,12 +16,12 @@ title: '[Column] Avant-Garde Jazz—a movement that dismantled structure and red
 
 
 
-## Prologue: The moment when jazz stepped into the "unknown"
+## 序章：ジャズが「未知」へ踏み出した瞬間
 
-Text: mmr｜Theme: The essence of Avant-Garde Jazz, which is often shunned as difficult music
+Text: mmr｜Theme: The essence of Avant-Garde Jazz, which is often dismissed as difficult music
 
 
-In the mid-20th century, jazz seemed like a mature music. There were distinct styles: swing, bebop, and hard bop, and a shared language of chord progressions, time signatures, and solo structures. However, in the late 1950s, a movement began to doubt this very premise, quietly but surely. Does music really need to follow harmony and form? How free can improvisation be? The movement that would later be called ""Avant-Garde Jazz'' was born from these questions.
+20世紀半ば、ジャズはすでに完成された音楽のように見えていた。スウィング、ビバップ、ハードバップという明確な様式があり、コード進行、拍子、ソロの構造は共有された言語だった。だが1950年代後半、その前提そのものを疑う動きが静かに、しかし確実に始まる。音楽は本当に和声や形式に従う必要があるのか。即興はどこまで自由であり得るのか。こうした問いから生まれたのが、後に「Avant-Garde Jazz（前衛ジャズ）」と呼ばれる運動である。
 
 > Although this music is often talked about as eccentric or difficult to understand, it is actually strongly connected to the history of jazz, and deeply connected to society and ideology. Avant-garde jazz was not about destruction but redefinition, and it was a movement that exposed the potential contained within the music of jazz.
 
@@ -44,17 +44,17 @@ color: #fff;
 
 ---
 
-## Prehistory: Tensions and limits after Bebop
+## 前史：ビバップ以後の緊張と限界
 
 Bebop, which was established in the 1940s, greatly increased the freedom of improvisation, but also created highly sophisticated norms. Complex chord progressions, fast tempos, and shared diction were both exciting and new constraints for experienced performers. In the 1950s, hard bop and modal jazz were born, and attempts were made to partially free music from chords and tonality.
 
-In particular, mode jazz is an important preliminary stage. The method of improvising for long periods on a limited scale gave performers an idea that was not tied to harmonic progression. The efforts of Miles Davis and John Coltrane served as a bridge to avant-garde jazz. However, the framework of meter, theme, and order of solos was maintained.
+特にモード・ジャズは重要な前段階である。限られたスケールの上で長時間即興する手法は、和声進行に縛られない発想を演奏家にもたらした。マイルス・デイヴィスやジョン・コルトレーンの試みは、前衛ジャズへの橋渡しとなった。だが、それでも拍子、テーマ、ソロの順序といった枠組みは維持されていた。
 
-> Avant-garde jazz began by questioning this ""frame that still remains'' itself.
+> 前衛ジャズは、この「まだ残っている枠」そのものを問い直すところから始まった。
 
 ---
 
-## Ornette Coleman: The revolution called harmolodics
+## Ornette Coleman：ハーモロディクスという革命
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0fiLUR7LSsg?si=nRR8R4PcwBYiAA46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -64,15 +64,15 @@ Ornette Coleman is the most emblematic of the starting point of avant-garde jazz
 
 ### Innovation of the early quartet
 
-Coleman's quartet, formed in the late 1950s, is characterized by its lack of a piano. This choice was made to weaken the harmonic dominance and allow each player to make melodic decisions directly. The composition of trumpet, alto saxophone, bass, and drums created a place where everyone could simultaneously become the subject of improvisation.
+Coleman's quartet, formed in the late 1950s, is characterized by its lack of a piano. This choice was made to weaken the harmonic control and allow each player to make melodic decisions directly. The composition of trumpet, alto saxophone, bass, and drums created a place where everyone could simultaneously become the subject of improvisation.
 
 ### Representative recording analysis: [The Shape of Jazz to Come (1959)](https://amzn.to/49KxOLD)
 
-In this work, the boundaries between theme and improvisation are extremely blurred. The opening melody is clearly presented, but immediately after that each player develops an independent melodic line. What is important is that despite the absence of chord progressions, the performance as a whole does not lose its sense of unity.
+この作品では、テーマと即興の境界が極端に曖昧化されている。冒頭のメロディは明確に提示されるが、直後から各奏者が独立した旋律線を展開する。重要なのは、コード進行が存在しないにもかかわらず、演奏全体が一体感を失わない点である。
 
-Coleman"s alto saxophone makes frequent use of pitch jumps that cross keys, and phrases expand and contract like songs. The bass doesn"t stick to walking, but incorporates melodic movement, and the drums function more as a reaction device than a time signature. Here, the very concept of a rhythm section is being redefined.
+Colemanのアルトサックスは、調性を横断する音程跳躍を多用し、フレーズは歌のように伸縮する。ベースはウォーキングに固執せず、旋律的な動きを取り入れ、ドラムは拍子を示すよりも反応装置として機能する。ここではリズム・セクションという概念そのものが再定義されている。
 
-### Practice of harmolodics
+### ハーモロディクスの実践
 
 In harmolodics, each player has the same melodic rights. There is no need for someone to be the accompaniment; music becomes a place where multiple melodies intersect. This idea erased the boundaries between composition and improvisation, turning performance itself into an act of structure generation.
 
@@ -80,25 +80,25 @@ In harmolodics, each player has the same melodic rights. There is no need for so
 
 ---
 
-## Cecil Taylor: Constructive improvisation that turns the piano into a percussion instrument
+## Cecil Taylor：ピアノを打楽器へ変えた構築的即興
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8esrU0T_J5Y?si=abXvd7umfE6-cN2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Cecil Taylor embodies the ultimate in construction in avant-garde jazz. Although his performances are often described as an outpouring of emotion, they are actually highly organized temporal art. Although it is improvised, its greatest feature is that it has the density and order of a building.
+Cecil Taylorは、前衛ジャズにおける構築性の極致を体現した存在である。彼の演奏は感情の噴出として語られることも多いが、実際には高度に組織化された時間芸術である。即興でありながら、建築物のような密度と秩序を持つ点が最大の特徴だ。
 
-### Redefining piano playing techniques
+### ピアノ奏法の再定義
 
 Taylor's playing style treats the keyboard not as a series of melodies, but as a mass of sound. High-speed clusters using both hands and complex polyrhythms transformed the piano from a melodic instrument to a percussion instrument.
 
-### Representative recording analysis: [Unit Structures (1966)](https://amzn.to/45ALZ3o)
+### 代表録音分析：[Unit Structures（1966）](https://amzn.to/45ALZ3o)
 
-This work is one of the recordings that most clearly records Taylor's thoughts. As the title suggests, music has a structure in which multiple units are repeatedly combined and decomposed. Each instrument plays freely, but the direction of energy is shared.
+この作品は、Taylorの思想が最も明確に記録された録音の一つである。タイトルが示す通り、音楽は複数のユニットが結合・分解を繰り返す構造を持つ。各楽器は自由に演奏するが、エネルギーの方向性は共有されている。
 
 Improvisation is not linear but stacked vertically. Short motifs are repeated, increasing in density and covering the entire piece. The drums do not keep a beat, but form a complex rhythmic layer in response to the movement of the piano.
 
-### Fusion of improvisation and composition
+### 即興と作曲の融合
 
 For Taylor, improvisation was the act of instantly executing a compositional thought. The logic of development is more important than a predetermined theme, and the music self-organizes in time.
 
@@ -113,23 +113,23 @@ For Taylor, improvisation was the act of instantly executing a compositional tho
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HadDarqipA?si=l2HSHkJ2SoX9PkVx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-Sun Ra is a person who liberated avant-garde jazz from the framework of music and expanded it into the realm of thought and mythology. His activities were a comprehensive expression that integrated music production, philosophical discourse, and visual production.
+Sun Raは、前衛ジャズを音楽の枠から解放し、思想と神話の領域へと拡張した人物である。彼の活動は音楽制作、哲学的言説、視覚的演出が一体となった総合的表現だった。
 
-### A community called Arkestra
+### Arkestraという共同体
 
 The Sun Ra Arkestra did not have a fixed composition, and the number of members and the composition of instruments changed depending on the period. This fluidity is directly connected to his musical philosophy, which centers on collective improvisation. Individual performances are free, but the overall performance maintains a sense of ritual unity.
 
-### Representative recording analysis: [The Magic City (1966)](https://amzn.to/3LGlHWG)
+### 代表録音分析：[The Magic City（1966）](https://amzn.to/3LGlHWG)
 
-In this recording, tonality and meter have little meaning. Fragmented phrases, noise-like sounds, and sudden group performances appear alternately. What is important is that the music does not progress linearly.
+この録音では、調性や拍子はほとんど意味を持たない。断片的なフレーズ、ノイズ的な音響、突発的な集団演奏が交互に現れる。重要なのは、音楽が線的に進行しない点である。
 
 Repeated short motifs change the listener's sense of time and lead the music into a cyclical experience. Improvisation functions as a collective ritual rather than a display of individual skill.
 
-### Cosmic thought and musical structure
+### 宇宙思想と音楽構造
 
-For Sun Ra, music was a device to transcend the real world. The concept of space was both a metaphor and a framework of thought to distance itself from the existing social order.
+Sun Raにとって音楽は、現実世界を超えるための装置だった。宇宙という概念は比喩であると同時に、既存の社会秩序から距離を取るための思考枠組みでもあった。
 
-> His music showed that avant-garde jazz could be realized as a spiritual and ideological expression.
+> 彼の音楽は、前衛ジャズが精神的・思想的表現として成立し得ることを示した。
 
 ---
 
@@ -139,32 +139,32 @@ Avant-garde jazz is not just an American phenomenon. Since the 1960s, a unique i
 
 The characteristics of European improvisation are its handling of tone and space. Periods of silence, minute noises, and the persistence of single notes are important elements, and the swing feel characteristic of jazz is often intentionally eliminated. This can be said to be the result of pushing the ideals of avant-garde jazz in a different direction.
 
-> This trend shows that avant-garde jazz is not a specific style, but a way of thinking.
+> この流れは、前衛ジャズが特定の様式ではなく、思考法であることを示している。
 
 ---
 
 ## Social background: 1960s era
 
-The development of avant-garde jazz is inseparable from the social conditions of the 1960s. The civil rights movement, the anti-war movement, and the questioning of existing authority had a strong influence on the consciousness of musicians. This rejection of form and norms was as much a political gesture as it was a musical choice.
+前衛ジャズの発展は、1960年代の社会状況と切り離せない。公民権運動、反戦運動、既存の権威への疑問は、音楽家たちの意識にも強く影響した。形式や規範を拒否する姿勢は、音楽的選択であると同時に政治的態度でもあった。
 
-Many avant-garde jazz performers distance themselves from commercialism and establish their own labels or cooperatives. This was a practice to protect the freedom of performance, and an action to question the very nature of music.
+多くの前衛ジャズ演奏家は、商業主義から距離を置き、自主レーベルや協同組合を設立する。これは演奏の自由を守るための実践であり、音楽のあり方そのものを問い直す行動だった。
 
 > Avant-garde jazz is also a movement that reflects social changes in sound.
 
 ---
 
-## Visualization of structure: Diagram of improvisational relationships in avant-garde jazz
+## 構造の可視化：前衛ジャズの即興関係図
 
 <div class="mermaid">
 flowchart LR
-A[personal improvisation] --> B[group reaction]
-B --> C[instantaneous structure]
+A[personal improvisation] --> B[集団の反応]
+B --> C[瞬間的構造]
 C --> A
 </div>
 
 ---
 
-> This cycle shows the basic mechanism of improvisation in avant-garde jazz. There is no fixed structure; music is generated as a chain of interactions.
+>  この循環は、前衛ジャズにおける即興の基本的な仕組みを示している。固定された構成は存在せず、音楽は相互作用の連鎖として生成される。
 
 ---
 
@@ -185,29 +185,29 @@ timeline
 
 ---
 
-## Subsequent influences: Expansion of improvised music
+## 後続への影響：即興音楽の拡張
 
 Avant-garde jazz had a major influence on later free improvisation, noise, and experimental music. The idea of ​​freedom from form has been inherited in the fields of rock and electronic music as well.
 
-What is particularly important is that he positions improvisation as an expression that is not bound by a specific usage. This has implications that transcend musical genres.
+What is particularly important is that he positions improvisation as an expression that is not tied to a specific usage. This has implications that transcend musical genres.
 
-> Avant-garde jazz is an idea that continues to be updated even today.
+> 前衛ジャズは、現在も更新され続ける考え方である。
 
 ---
 
-## Final chapter: The legacy of avant-garde jazz
+## 終章：前衛ジャズが残したもの
 
-Avant-Garde Jazz is often dismissed as difficult music. However, its essence was an attempt to liberate music from fixed forms and reconsider it as a momentary creation.
+Avant-Garde Jazzは、難解な音楽として距離を置かれることも多い。しかしその本質は、音楽を固定された形から解放し、瞬間の創造として捉え直す試みだった。
 
 
-> Ornette Coleman, Cecil Taylor, Sun Ra and others have shown us that freedom is not born from disorder, but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
+> Ornette Coleman、Cecil Taylor、Sun Ra らが示したのは、自由とは無秩序ではなく、深い相互理解と集中から生まれるという事実である。前衛ジャズは、ジャズが持つ根源的な即興性を、最も純粋な形で可視化した運動だった。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QtAvjGZRf9o?si=Tnpd3CPPiOktnpC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

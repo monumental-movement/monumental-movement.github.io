@@ -10,51 +10,51 @@ tags:
 - Techno
 - Minimal
 - Downtempo
-title: '[Column] HVOB｜Emotional outline drawn by minimal electronic'
+title: 【コラム】 HVOB｜ミニマル・エレクトロニックが描く感情の輪郭
 ---
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: Interpreting HVOB's musical world, where melody, blank space, and images come together, from their formation to the present, focusing on their works and live performances.
+文：mmr｜テーマ：メロディ、余白、映像が一体となったHVOBの音楽世界を、結成から現在まで作品とライブを軸に読み解く
 
 
-Club music has always moved between ""music for dancing" and ""music for listening."
+クラブミュージックは、常に「踊るための音楽」と「聴くための音楽」の間を行き来してきた。
 
-One entity that continues to quietly shake this boundary is HVOB, an electronic music duo formed in Vienna, Austria.
+その境界線を静かに揺らし続けている存在のひとつが、オーストリア・ウィーンで結成された電子音楽デュオ、HVOBである。
 
-When people hear their work for the first time, they often get a different impression than the pounding beats that come to mind when they hear the word "techno."
+彼らの作品を初めて聴いた人は、多くの場合「テクノ」という言葉から想像する激しいビートとは異なる印象を受けるだろう。
 
-Rhythm stripped down to the bare minimum.
+必要最小限まで削ぎ落とされたリズム。
 
-A synthesizer that gives you a sense of spaciousness.
+広い空間を感じさせるシンセサイザー。
 
-Vocals sung in a whisper.
+囁くように歌われるボーカル。
 
-And the quiet passage of time.
+そして静かな時間の流れ。
 
-However, its simplicity does not necessarily mean a lack of information.
+しかし、そのシンプルさは決して情報量の少なさではない。
 
-Each note is carefully placed, and even silence functions as part of the music.
+一つひとつの音が丁寧に配置され、沈黙すら音楽の一部として機能している。
 
-HVOB is not a unit that creates individuality through flashy techniques or complicated compositions.
+HVOBは派手な技巧や複雑な構成によって個性を生み出したユニットではない。
 
 He is one of the few artists who has created a unique world by designing "margins."
 
-In addition to their studio work, they have also received high praise for their live performances.
+また、彼らはスタジオ作品だけでなくライブ表現でも高い評価を得てきた。
 
-Their live performances, which combine video, lighting, sound, and music, are popular all over the world as audiovisual performances rather than club sets.
+映像、照明、音響、そして演奏が一体となるライブは、クラブセットというよりもオーディオビジュアル・パフォーマンスとして世界各地で支持されている。
 
-In this article, we will follow in chronological order the background before HVOB's birth, their formation, the evolution of their work, their live expressions, sound design, and up to the present day.
+この記事では、HVOB誕生以前の背景から結成、作品の変遷、ライブ表現、サウンドデザイン、そして現在に至るまでを年代順に詳しくたどっていく。
 
-> HVOB's appeal lies in the fact that they have built a unique musical world through a series of small changes rather than big changes.
+> HVOBの魅力は、大きな変化ではなく、小さな変化を積み重ねることで独自の音楽世界を築いてきた点にある。
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -67,120 +67,120 @@ color: #fff;
 
 ## Electronic music culture nurtured by the city of Vienna
 
-### A city where classical and electronic music coexist
+### クラシックと電子音楽が共存する街
 
-Vienna has long been known as a center of classical music.
+ウィーンは長くクラシック音楽の中心地として知られてきた。
 
-It is known worldwide as a city where many composers such as Mozart, Beethoven, and Schubert were active.
+モーツァルトやベートーヴェン、シューベルトなど、多くの作曲家が活動した都市として世界的な知名度を持つ。
 
-Meanwhile, since the 1990s, the city's electronic music scene has also developed in its own way.
+一方で1990年代以降、この街では電子音楽シーンも独自の発展を遂げた。
 
-Unlike the huge club culture of Berlin, Vienna creates an environment where minimal, downtempo, ambient, and experimental music naturally mix.
+ベルリンのような巨大クラブ文化とは異なり、ウィーンではミニマル、ダウンテンポ、アンビエント、実験音楽が自然に混ざり合う環境が形成される。
 
 It was not uncommon for electronic music events to be held not only in clubs but also in museums, galleries, and cultural facilities, and the idea of ​​music as art was widespread.
 
 ### Characteristics of Vienna Electronica
 
-In Vienna in the early 2000s, many artists focused on delicate textures rather than extremely flashy sounds.
+2000年代初頭のウィーンでは、極端に派手なサウンドよりも繊細な質感を重視するアーティストが多く現れた。
 
-A mix that makes the space feel larger while reducing the number of sounds.
+音数を減らしながら空間を広く感じさせるミックス。
 
 Attitude to incorporate acoustic sounds into electronic music.
 
 A composition that takes advantage of silence.
 
-These characteristics are also common to later HVOBs.
+こうした特徴は後のHVOBにも共通して見られる。
 
-Of course, HVOB is not the only company that has inherited this trend.
+もちろんHVOBだけがその流れを受け継いだわけではない。
 
 But they managed to bring that aesthetic to the middle ground between pop music and club music.
 
 ### New artist image in the internet age
 
-Around 2010, the number of artists using SoundCloud, YouTube, etc. to publish their works began to increase rapidly.
+2010年前後になると、SoundCloudやYouTubeなどを利用して作品を公開するアーティストが急速に増え始める。
 
-HVOB also began its activities against this backdrop.
+HVOBもこの時代背景の中で活動を開始した。
 
-Rather than the traditional method of sending demos to record companies, it was becoming common for artists to release their own work and have it discovered by listeners around the world.
+レコード会社へデモを送る従来型ではなく、自ら作品を公開し、それを世界中のリスナーが発見する流れが一般化し始めていたのである。
 
-This change has created an environment in which even small cities can receive international recognition.
+この変化は、小規模な都市からでも国際的な評価を受けられる環境を生み出した。
 
-Music distribution in the digital age has also had a major influence on why HVOB has attracted attention across Europe from a relatively early stage.
+HVOBが比較的早い段階からヨーロッパ各地で注目された背景には、このデジタル時代の音楽流通も大きく影響している。
 
 <div class="mermaid">
 graph LR
 
-A[Classical culture in Vienna]
-A --> B[experimental music]
-A --> C[minimal]
-A --> D[ambient]
+A[ウィーンのクラシック文化]
+A --> B[実験音楽]
+A --> C[ミニマル]
+A --> D[アンビエント]
 
-B --> E[electronic music scene]
+B --> E[電子音楽シーン]
 C --> E
 D --> E
 
 E --> F[HVOB]
 </div>
 
-> HVOB did not appear by chance, but was born as an extension of the tranquil electronic music culture that Vienna has cultivated over the years.
+> HVOBは偶然現れた存在ではなく、ウィーンが長年育んできた静謐な電子音楽文化の延長線上から誕生した。
 
 ---
 
-## Birth of HVOB──Anna Müller and Paul Wallner
+## HVOB誕生──Anna MüllerとPaul Wallner
 
-### Duo formation
+### デュオ結成
 
-HVOB was formed in Vienna, Austria in 2012.
+HVOBは2012年、オーストリア・ウィーンで結成された。
 
-The members are Anna Müller and Paul Wallner.
+メンバーはAnna MüllerとPaul Wallner。
 
-The unit name HVOB is
+ユニット名のHVOBは
 
 **Her Voice Over Boys**
 
-It is taken from the initials of
+の頭文字から取られている。
 
-This name implies that Anna Müller's vocals will be the focus.
+この名称には、Anna Müllerのボーカルを中心に据えるという意味が込められている。
 
-However, in live performances and production, the two of them play equal roles, so they are not just a vocal unit.
+ただし、ライブや制作では二人が対等に役割を担っており、単なるボーカルユニットではない。
 
 ### Anna Müller
 
-Anna Müller is not only a vocalist, but also deeply involved in songwriting and production.
+Anna Müllerはボーカルだけでなく、ソングライティングやプロダクションにも深く関わっている。
 
-Her singing style is very restrained and does not emphasize loud vocal volume or technique.
+彼女の歌唱は非常に抑制されており、大きな声量や技巧を前面へ押し出すスタイルではない。
 
-By not emphasizing emotions more than necessary, he leaves room for the listener to project their own emotions.
+感情を必要以上に強調しないため、リスナー自身が感情を投影できる余地を残している。
 
-This sense of distance is also a characteristic of HVOB's works as a whole.
+この距離感はHVOB作品全体の特徴にもなっている。
 
 ### Paul Wallner
 
-Paul Wallner will be responsible for programming, sound design and production.
+Paul Wallnerはプログラミング、サウンドデザイン、プロダクションを担当する。
 
-In his work, there is a tendency to emphasize the overall texture of the space rather than a heavy kick.
+彼の制作では、重厚なキックよりも空間全体の質感を重視する傾向が見られる。
 
-Each tone is carefully designed, and a three-dimensional sound field is created using long reverb and delicate delays.
+一つひとつの音色を丁寧に設計し、長いリバーブや繊細なディレイによって立体的な音場を作り上げる。
 
-As a result, HVOB's music feels less oppressive even when played at high volume, and spreads out while maintaining its transparency.
+その結果、HVOBの音楽は大音量で再生しても圧迫感が少なく、透明感を保ったまま広がる。
 
-### Featured on SoundCloud
+### SoundCloudでの注目
 
-At the beginning of their career, HVOB released their songs on SoundCloud.
+活動初期、HVOBはSoundCloudへ楽曲を公開した。
 
-This sound source was gradually shared among electronic music fans and DJs, and spread throughout Europe.
+この音源は電子音楽ファンやDJの間で徐々に共有され、ヨーロッパ各地へ広まっていく。
 
-At the time, Spotify wasn't as popular as it is now, and SoundCloud was an important outlet for new artists.
+当時はSpotifyが現在ほど一般化しておらず、SoundCloudが新人アーティストの重要な発表の場となっていた。
 
-HVOB will also gain international attention through this platform.
+HVOBもこのプラットフォームを通じて国際的な注目を集めることになる。
 
-### Meet Stil vor Talent
+### Stil vor Talentとの出会い
 
-Early works caught the attention of the Berlin label Stil vor Talent, which led to their official release.
+初期作品はベルリンのレーベル「Stil vor Talent」の目に留まり、正式なリリースへとつながった。
 
-With this agreement, HVOB will be able to greatly expand their opportunities to perform not only in the club scene, but also at festivals and overseas tours.
+この契約によってHVOBはクラブシーンだけでなく、フェスティバルや海外ツアーへの出演機会を大きく広げていく。
 
-The intersection of the two urban cultures of Berlin and Vienna allowed HVOB's activities to spread throughout Europe.
+ベルリンとウィーンという二つの都市文化が交差したことで、HVOBの活動はヨーロッパ全体へ広がることになった。
 
 <div class="mermaid">
 flowchart TD
@@ -188,72 +188,72 @@ flowchart TD
 A[Anna Müller]
 B[Paul Wallner]
 
-A --> C[HVOB formed 2012]
+A --> C[HVOB結成 2012]
 B --> C
 
-C --> D[SoundCloud released]
-D --> E[international attention]
+C --> D[SoundCloud公開]
+D --> E[国際的な注目]
 E --> F[Stil vor Talent]
-F --> G[Debut work]
+F --> G[デビュー作品]
 </div>
 
-> As the name "Her Voice Over Boys" suggests, HVOB's core is vocals, but the two of them collaborated to create their own unique sound.
+> 「Her Voice Over Boys」という名の通り、HVOBはボーカルを核としながらも、二人の共同制作によって独自のサウンドを形作っていった。
 
 ---
 
-## The personality of HVOB shown in the debut work
+## デビュー作品が示したHVOBという個性
 
-### Self-titled work "HVOB" (2013)
+### セルフタイトル作品『HVOB』（2013）
 
-In 2013, HVOB released their self-titled album ""HVOB''.
+2013年、HVOBはセルフタイトル・アルバム『HVOB』を発表した。
 
-This work was so complete that it was hard to believe that it was a unit that had only formed recently, and it left a strong impression on many listeners.
+この作品は、結成から間もないユニットとは思えないほど完成度が高く、多くのリスナーに強い印象を残した。
 
-Deep house and minimal techno were widely supported in Europe at the time, but HVOB did not simply follow that trend.
+当時のヨーロッパではディープハウスやミニマル・テクノが広く支持されていたが、HVOBはその流れを単純になぞることはなかった。
 
-Although the song is based on a four-on-the-floor beat, there is a quiet atmosphere throughout the song, creating a composition that works well as both club music and listening work.
+4つ打ちのビートを土台にしながらも、楽曲全体には静かな空気が流れ、クラブミュージックでありながらリスニング作品としても成立する構成となっていた。
 
-Although the vocals are at the center of the song, they never come too far forward, and are placed on an equal footing with the synthesizer and rhythm.
+ボーカルは楽曲の中心にありながら決して前へ出過ぎず、シンセサイザーやリズムと対等な存在として配置されている。
 
-This sense of balance was already established at the time of his debut work.
+このバランス感覚はデビュー作の時点ですでに確立されていた。
 
-### Sound design is difficult because it is simple
+### シンプルだからこそ難しいサウンドデザイン
 
-If you analyze HVOB"s songs, at first glance you"ll notice that they use very few tones.
+HVOBの楽曲を分析すると、一見すると使用されている音色は非常に少ない。
 
-However, many subtle changes are incorporated into that small number of notes.
+しかし、その少ない音数の中には細かな変化が数多く組み込まれている。
 
-The texture of the kick.
+キックの質感。
 
-How to open a hi-hat.
+ハイハットの開き方。
 
-Shaking synth pads.
+シンセパッドの揺れ。
 
-Reverb decay time.
+リバーブの減衰時間。
 
-Localization of vocals.
+ボーカルの定位。
 
-These changes little by little every few bars, and the listener is unconsciously drawn into the music.
+これらが数小節ごとに少しずつ変化し、聴き手は無意識のうちに音楽へ引き込まれていく。
 
-The composition, which avoids flashy developments but does not leave you bored, is a testament to HVOB's high production ability.
+派手な展開を避けながらも飽きさせない構成は、HVOBのプロダクション能力の高さを物語っている。
 
-### "Always Like This"
+### 「Always Like This」
 
-One of the songs that represents their debut period is "Always Like This".
+デビュー期を代表する楽曲の一つが「Always Like This」である。
 
-The structure, which begins quietly and gradually builds up the beats, became a common feature of subsequent HVOB works.
+静かに始まり、少しずつビートが積み重なっていく構成は、その後のHVOB作品にも共通する特徴となった。
 
-Rather than emphasizing the chorus, this song maintains a certain sense of tension throughout.
+この曲ではサビを強調するのではなく、全体を通して一定の緊張感を維持している。
 
-Rather than a dramatic climax, the feeling is that the emotions change over time.
+ドラマチックな盛り上がりではなく、時間とともに感情が変化していくような感覚が生まれる。
 
-### International recognition
+### 国際的な評価
 
-After the album's release, HVOB will begin live performances throughout Europe.
+アルバム発売後、HVOBはヨーロッパ各地でライブ活動を開始する。
 
-They have performed mainly in Germany, Austria, and Switzerland, and gradually their appearances at festivals have increased.
+ドイツ、オーストリア、スイスを中心に出演を重ね、徐々にフェスティバルへの出演も増えていった。
 
-They began to be invited not only to clubs but also to art events and cultural festivals, and began to be recognized as more than just an "electronic music unit."
+クラブだけでなく、アートイベントやカルチャーフェスティバルにも招かれるようになり、「電子音楽ユニット」という枠を超えた存在として認知され始める。
 
 <div class="mermaid">
 graph LR
@@ -273,59 +273,59 @@ D --> E
 E --> F[Immersive Listening]
 </div>
 
-> Their debut work was a work that determined the direction of HVOB, and it became a rare electronic music album that turned the small number of sounds into a weapon.
+> デビュー作はHVOBの方向性を決定づけた作品であり、音数の少なさを武器へ変えた稀有な電子音楽アルバムとなった。
 
 ---
 
-## Possibilities of expression expanded by "Trialog"
+## 『Trialog』が広げた表現の可能性
 
-### Evolution to second album
+### セカンドアルバムへの進化
 
-In 2015, HVOB will release their second album "Trialog".
+2015年、HVOBはセカンドアルバム『Trialog』を発表する。
 
-The title ""Trialog" is a coined word meaning ""three-way dialogue," and it also overlaps with the expression of HVOB, in which multiple elements such as sound, image, and space interact with each other.
+タイトルの「Trialog」は「三者の対話」を意味する造語であり、音・映像・空間という複数の要素が互いに作用し合うHVOBの表現にも重なる。
 
-Compared to the debut, the sound has become more three-dimensional, with even more depth in the low range.
+デビュー作と比較すると、サウンドはより立体的になり、低域には一層の厚みが加わった。
 
-On the other hand, the number of sounds has not increased rapidly, and the attitude of making use of the blank space has remained consistent.
+一方で音数が急激に増えたわけではなく、余白を活かす姿勢は一貫している。
 
-### Rhythm changes
+### リズムの変化
 
-In ""Trialog,'' the presence of kicks and bass sounds is clearer, and the sense of immersion when played on a club system is improved.
+『Trialog』ではキックやベースの存在感が明確になり、クラブシステムで再生した際の没入感が向上した。
 
-However, even when the beat comes to the forefront, the balance with the melody and vocals remains intact.
+ただし、ビートが前面へ出る場面でもメロディやボーカルとの均衡は崩れない。
 
-Although it"s aimed at the dance floor, it"s still fun to listen to with headphones.
+ダンスフロア向けでありながら、ヘッドフォンでじっくり聴く楽しさも残されている。
 
-This duality is a characteristic of HVOB.
+この二面性がHVOBの特徴である。
 
-### Connection with video
+### 映像との結び付き
 
-From this time on, HVOB began to place greater emphasis on live footage.
+この時期からHVOBはライブ映像にも大きな比重を置くようになる。
 
-The LED screen backdrop and geometric visual expressions visually expanded the musical worldview.
+LEDスクリーンを背景にした演出や幾何学的な映像表現は、音楽の世界観を視覚的にも拡張した。
 
-The video is not just a decoration, but is designed to complement the song structure itself.
+映像は単なる装飾ではなく、楽曲構造そのものを補完する存在として設計されている。
 
-The amount of light and colors are synchronized with the development of the music, allowing the audience to immerse themselves in the work both visually and audibly.
+光量や色彩も楽曲展開と同期し、観客は視覚と聴覚の双方から作品へ没入することになる。
 
-### Maturity of vocal expression
+### ボーカル表現の成熟
 
-Anna Müller's vocals also seem more mature on this album.
+Anna Müllerのボーカルも、このアルバムではさらに成熟した印象を与える。
 
-Her style remains unchanged, expressing her emotions with the minimum necessary intonation without showing off her singing skills.
+歌唱技術を誇示することなく、必要最小限の抑揚で感情を表現するスタイルは変わらない。
 
-However, the nuances of breathing and pronunciation have become more delicate, allowing them to blend naturally with electronic sounds.
+しかし息遣いや発音のニュアンスはより繊細になり、電子音と自然に溶け合うようになった。
 
-His attitude of treating the voice as part of the ""timbre" rather than the ""melody" is a characteristic that distinguishes him from many electronic music artists.
+声を「メロディ」ではなく「音色」の一部として扱う姿勢は、多くの電子音楽アーティストとは異なる特徴である。
 
-### Evaluation as a live act
+### ライブアクトとしての評価
 
-During the ""Trialog"' period, HVOB"s reputation as a live act rapidly increased.
+『Trialog』期になると、HVOBはライブアクトとしての評価も急速に高まる。
 
-By choosing a live performance rather than a DJ set, they were highly praised for being able to maintain the detailed expression of each song.
+DJセットではなくライブ演奏を選択することで、楽曲ごとの細かな表現を維持できる点が高く評価された。
 
-At festivals, not only club artists but also indie and electronica artists are increasingly appearing.
+フェスティバルではクラブ系アーティストだけでなく、インディーやエレクトロニカ系アーティストと並んで出演することも増えていく。
 
 <div class="mermaid">
 flowchart LR
@@ -340,73 +340,73 @@ C --> D[Immersive Experience]
 D --> E[International Recognition]
 </div>
 
-> ""Trialog'' was an important turning point in elevating HVOB from a studio unit to a comprehensive live artist.
+> 『Trialog』はHVOBをスタジオユニットから総合的なライブアーティストへ押し上げた重要な転換点となった。
 
 ---
 
-## "Silk"──Towards a deeper, quieter world
+## 『Silk』──より深く、より静かな世界へ
 
-### Third album "Silk" (2017)
+### サードアルバム『Silk』（2017）
 
-In 2017, HVOB released their third studio album, Silk.
+2017年、HVOBは3作目となるスタジオアルバム『Silk』を発表した。
 
-As the title ""Silk'' suggests, the overall sound of this work is smoother, with softness pushed to the forefront rather than sharpness.
+タイトルの「Silk（シルク）」が示すように、この作品ではサウンド全体がさらに滑らかになり、鋭さよりも柔らかさが前面へ押し出されている。
 
-While maintaining the minimal aesthetic that has been consistent since their debut, the texture of the songs has become even more organic.
+デビュー作から一貫してきたミニマルな美学は維持されながらも、楽曲の質感は一段と有機的になった。
 
-The synthesizer"s tone spreads out and blends into the air, and the rhythm doesn"t overstate itself.
+シンセサイザーの音色は空気に溶け込むように広がり、リズムは必要以上に主張しない。
 
-As a result, even though it is club music, listeners can feel as if they are listening to movie music.
+その結果、クラブミュージックでありながら、リスナーはまるで映画音楽を聴いているような没入感を得ることができる。
 
-""Silk'' is a work by HVOB that transcends the boundaries of dance music and reaches a wider range of listeners.
+『Silk』は、HVOBがダンスミュージックの枠を超え、より幅広いリスナーへ届く作品となった。
 
-### "Ghost"
+### 「Ghost」
 
-One of the songs that represents the album is "Ghost".
+アルバムを代表する楽曲のひとつが「Ghost」である。
 
-A beat that slowly builds up.
+ゆっくりと積み重なるビート。
 
-A floating synth.
+浮遊感のあるシンセ。
 
-Subdued vocals.
+抑制されたボーカル。
 
-This work is a high-level fusion of HVOB-like elements.
+HVOBらしい要素が高い次元で融合した作品となっている。
 
-What is particularly impressive is the "margin" that dominates the entire song.
+特に印象的なのは、楽曲全体を支配する「余白」である。
 
-By intentionally leaving silence rather than cramming in too much sound, each tone stands out more clearly.
+音を詰め込むのではなく、沈黙を意図的に残すことで、一つひとつの音色がより鮮明に浮かび上がる。
 
-This method is a concept shared with ambient and minimal music, and is representative of HVOB's sound design.
+この手法はアンビエントやミニマル・ミュージックとも共通する考え方であり、HVOBのサウンドデザインを象徴している。
 
-### Music that lets you hear the space rather than the melody
+### メロディよりも空間を聴かせる音楽
 
-Typical pop music focuses on memorable melody lines.
+一般的なポップミュージックでは、印象的なメロディラインが中心となる。
 
-However, at HVOB, the space itself is an important element of the music.
+しかしHVOBでは、空間そのものが音楽の重要な要素になっている。
 
-Reverb spread.
+リバーブの広がり。
 
-Reverberation caused by delay.
+ディレイによる残響。
 
-Left and right localization.
+左右の定位。
 
-Sense of distance between low and high frequencies.
+低域と高域の距離感。
 
-This kind of spatial design plays as important a role as the melody.
+こうした空間設計が旋律と同じくらい重要な役割を担っている。
 
-Therefore, just changing the speaker environment can greatly change the impression of the work.
+そのため、スピーカー環境が変わるだけでも作品の印象は大きく変化する。
 
-It's not uncommon for listening to music through headphones and a large PA system to have completely different musical experiences.
+ヘッドフォンで聴く場合と大型PAシステムで聴く場合では、まったく異なる音楽体験になることも珍しくない。
 
-### Live activities spreading around the world
+### 世界各地で広がるライブ活動
 
-After the release of ""Silk'', HVOB began performing live not only in Europe, but also in North America, South America, Asia, and other locations.
+『Silk』のリリース後、HVOBはヨーロッパだけでなく北米、南米、アジアなど各地でライブを行うようになる。
 
-The number of festivals we perform at has become larger, and we have more opportunities to be invited not only to electronic music festivals, but also to art festivals and cross-cultural events.
+出演するフェスティバルも大型化し、電子音楽フェスだけではなく、アートフェスティバルやクロスカルチャーイベントにも招かれる機会が増えていった。
 
-At live performances, rather than faithfully reproducing the album's sound sources, they also make detailed arrangements to suit the occasion.
+ライブではアルバム音源を忠実に再現するのではなく、その場に合わせて細かなアレンジを施すことも特徴となっている。
 
-Therefore, even the same song may have different impressions depending on the venue.
+そのため、同じ楽曲でも会場によって印象が異なることがある。
 
 <div class="mermaid">
 graph TD
@@ -427,79 +427,79 @@ D --> E
 E --> F[Immersive Listening]
 </div>
 
-> ""Silk" was the album that evolved HVOB's music from ""works for the dance floor" to ""works that allow you to enjoy the space itself.''
+> 『Silk』はHVOBの音楽を「ダンスフロアのための作品」から「空間そのものを味わう作品」へと進化させたアルバムだった。
 
 ---
 
-## The complete form of a live show - the audiovisual experience pursued by HVOB
+## ライブという完成形──HVOBが追求するオーディオビジュアル体験
 
-### Why choose a live show instead of a DJ set?
+### DJセットではなくライブを選ぶ理由
 
-Many electronic music artists focus on DJ sets.
+多くの電子音楽アーティストはDJセットを中心に活動する。
 
 The format of selecting existing songs and mixing them on the spot is also the basis of club culture.
 
-On the other hand, HVOB has placed emphasis on live performance since its formation.
+一方、HVOBは結成当初からライブパフォーマンスを重視してきた。
 
-During live performances, he constructs songs while operating synthesizers, controllers, vocals, etc. in real time.
+ライブではシンセサイザーやコントローラー、ボーカルなどをリアルタイムで操作しながら楽曲を構築していく。
 
-Therefore, the length and development of each song may change from performance to performance.
+そのため、一曲ごとの長さや展開が公演ごとに変化することもある。
 
-This is based on the idea of ​​""reconstructing'' music on the spot, rather than simply reproducing a recorded work.
+これは録音作品を単に再現するのではなく、その場で音楽を「再構築」するという考え方に基づいている。
 
-### Fusion with video production
+### 映像演出との融合
 
 Visual production is essential when talking about HVOB's live performances.
 
-Images using LED screens and projections are closely synchronized with the development of the song.
+LEDスクリーンやプロジェクションを用いた映像は、楽曲の展開と密接に同期している。
 
-Abstract geometric pattern.
+抽象的な幾何学模様。
 
-Contrast of light and shadow.
+光と影のコントラスト。
 
-Colors that change slowly.
+ゆっくり変化する色彩。
 
-The images do not serve to explain the story, but rather to visualize the texture of the music.
+映像は物語を説明するものではなく、音楽の質感を視覚化する役割を担っている。
 
-Therefore, it cannot be completed just by looking at the video, nor can it be completed by only listening to the music.
+そのため、映像だけを見ても成立せず、音楽だけを聴いても完成しない。
 
-Only when the two come together will the HVOB live experience be complete.
+両者が一体となることで初めてHVOBのライブ体験が完成する。
 
-### The idea of ​​"playing" light
+### 光を「演奏」するという考え方
 
-Lighting is also an important production element.
+照明もまた重要な演出要素である。
 
-At typical club events, lights often flash violently in time with the beat.
+一般的なクラブイベントでは、ビートに合わせて照明が激しく点滅することが多い。
 
 But with HVOB, the lighting changes more slowly.
 
-By finely adjusting the amount of light, color temperature, and shadows, the quiet tension of the music is emphasized.
+光量や色温度、陰影を細かく調整することで、音楽が持つ静かな緊張感を強調している。
 
-As a result, the audience feels as if they are being enveloped in the space itself, rather than ""watching'' a live performance.
+その結果、観客はライブを「見る」のではなく、空間そのものへ包み込まれるような感覚を味わうことになる。
 
-### Thorough attention to sound
+### 音響への徹底したこだわり
 
-HVOB has also received high praise for its acoustics.
+HVOBは音響面でも高い評価を受けている。
 
-A mix that emphasizes the balance of all frequencies, rather than overemphasizing the low range, allows you to hear every detail even in large venues.
+低域を過度に強調するのではなく、全帯域のバランスを重視するミックスは、大型会場でも細部まで聴き取ることができる。
 
-In particular, the distance between the vocals and the synthesizer has been designed with great precision, and the live performance maintains the same transparency as in the studio work.
+特にボーカルとシンセサイザーの距離感は非常に緻密に設計されており、ライブでもスタジオ作品と同様の透明感を維持している。
 
-As a result, HVOB's live performances sometimes feel more like a ""screening of audio works" than a ""club event."
+そのため、HVOBのライブは「クラブイベント」というよりも「音響作品の上映」に近い印象を受けることさえある。
 
-### Sense of distance from the audience
+### 観客との距離感
 
-At HVOB's live performances, there are almost no performances that provoke the audience.
+HVOBのライブでは、観客を煽るようなパフォーマンスはほとんど見られない。
 
-MC is also the minimum necessary.
+MCも必要最小限である。
 
-However, this does not lead to a cold impression.
+しかし、それが冷たい印象につながることはない。
 
-Rather, an environment has been created in which they can concentrate on the music itself, and many audience members naturally become immersed in the world of the work.
+むしろ音楽そのものへ集中できる環境が作られており、多くの観客は自然に作品世界へ入り込んでいく。
 
-Rather than the artist being in the forefront, the work is placed at the center.
+アーティストが前へ出るのではなく、作品が中心に置かれる。
 
-This attitude has remained consistent from the time of his debut to the present.
+この姿勢はデビュー当初から現在まで一貫している。
 
 <div class="mermaid">
 flowchart TD
@@ -517,118 +517,118 @@ D --> E
 E --> F[Immersion]
 </div>
 
-> HVOB's live performance treats performance, video, lighting, and sound as equal elements, aiming to create a complete piece of comprehensive art.
+> HVOBのライブは演奏・映像・照明・音響を対等な要素として扱い、一つの総合芸術として完成させることを目指している。
 
 ---
 
-## Philosophy of sound design - music created through "subtraction"
+## サウンドデザインの哲学──「引き算」で成立する音楽
 
-### Choose what sounds to keep instead of adding more sounds
+### 音を増やすのではなく、残す音を選ぶ
 
-Analyzing HVOB's works, the most significant feature is the ""small number of sounds.''
+HVOBの作品を分析すると、最も大きな特徴は「音数の少なさ」にある。
 
-In modern electronic music, it's not uncommon to layer dozens of tracks and add detailed sound effects.
+現代のエレクトロニック・ミュージックでは、何十ものトラックを重ね、細かな効果音を加える制作も珍しくない。
 
-On the other hand, HVOB doesn't stack sounds any more than necessary.
+一方、HVOBは必要以上に音を積み重ねない。
 
-One synthesizer.
+一つのシンセサイザー。
 
-One kick.
+一つのキック。
 
-One vocal.
+一つのボーカル。
 
-Each is designed to fulfill its role.
+それぞれが十分な役割を果たすよう設計されている。
 
-This idea of ​​"subtraction" does not simply simplify production.
+この「引き算」の考え方は、単純に制作を簡略化しているわけではない。
 
-Rather, as a result of removing unnecessary elements, each sound that remains is given greater meaning.
+むしろ不要な要素を削ぎ落とした結果、残された音一つひとつにより大きな意味が与えられている。
 
 Because there are so few sounds, slight differences in tone or changes in volume can affect the overall impression of the song.
 
-That"s why small changes play such an important role in HVOB"s songs.
+そのためHVOBの楽曲では、小さな変化が非常に重要な役割を担っている。
 
-### Arrangement with tone as the main character
+### 音色を主役にしたアレンジ
 
-In many pop songs, the melody is the main character.
+多くのポップスではメロディが主役になる。
 
-On the other hand, in HVOB, the ""timbre'' itself becomes the center of the work.
+一方、HVOBでは「音色」そのものが作品の中心となる。
 
-Even if the same chord progression is repeated, the expression of the song slowly changes as the filter opens and closes and the overtones change.
+同じコード進行を繰り返していても、フィルターの開閉や倍音の変化によって楽曲はゆっくりと表情を変えていく。
 
-Rather than following the melody, the listener feels like they are listening to the texture of the sound itself.
+リスナーはメロディを追いかけるというより、音の質感そのものを聴いている感覚になる。
 
-This method is a way of thinking that is shared with ambient and minimal music, and is an important element that supports HVOB's unique worldview.
+この手法はアンビエントやミニマル・ミュージックとも共通する考え方であり、HVOB独自の世界観を支える重要な要素となっている。
 
-### Vocals "don"t come forward"
+### ボーカルは「前に出ない」
 
-Anna Müller's vocals differ from the typical singing style of pop music.
+Anna Müllerのボーカルは、ポップミュージックの一般的な歌唱法とは異なる。
 
-She often sings at a calm volume, without using strong vibrato or dramatic intonation.
+強いビブラートや劇的な抑揚を多用せず、落ち着いた声量で歌うことが多い。
 
-As a result, the vocals don't dominate the song, but are placed on the same layer as the synthesizers and rhythms.
+その結果、ボーカルは楽曲を支配する存在ではなく、シンセサイザーやリズムと同じレイヤーに配置される。
 
-Rather than the lyrics being pushed to the forefront, the voice itself functions as the tone.
+歌詞が前面へ押し出されるのではなく、声そのものが音色として機能しているのである。
 
-This sense of distance creates a quiet tension unique to HVOB.
+この距離感が、HVOB特有の静かな緊張感を生み出している。
 
-### Silence is also part of sound design
+### 静寂もサウンドデザインの一部
 
-""Time when nothing is playing'' is also an important component of HVOB.
+HVOBでは「何も鳴っていない時間」も重要な構成要素となっている。
 
-The kick stops momentarily.
+キックが一瞬止まる。
 
-The synth disappears.
+シンセが消える。
 
-Only the vocals remain.
+ボーカルだけが残る。
 
-These short silences accentuate the next sound.
+こうした短い静寂が次の音を際立たせる。
 
-The dynamics of the song as a whole are created by subtracting sounds rather than adding them.
+音を足すことではなく、あえて引くことによって楽曲全体のダイナミクスを生み出しているのである。
 
-This way of thinking is also reflected in live performances, resulting in a sound that is loud but less tiring to the ears.
+この考え方はライブにも反映されており、大音量でありながら耳に疲労感を与えにくいサウンドにつながっている。
 
 <div class="mermaid">
 flowchart LR
 
 A[fewer notes]
-A --> E[HVOB sound]
+A --> E[HVOBのサウンド]
 
-B[space design]
+B[空間設計]
 B --> E
 
-C[suppressed vocals]
+C[抑制されたボーカル]
 C --> E
 
-D[silence]
+D[静寂]
 D --> E
 
-E --> F[immersive feeling]
+E --> F[没入感]
 </div>
 
-> HVOB's music is shaped by the choice of ""what to leave behind," rather than ""how much sound can be increased."
+> HVOBの音楽は「どれだけ音を増やせるか」ではなく、「何を残すか」という選択によって形作られている。
 
 ---
 
-## Chronology: History of HVOB
+## 年表──HVOBの歩み
 
-### Main events
+### 主な出来事
 
-| Year | Events |
+| 年 | 出来事 |
 |----|--------|
-| 2012 | HVOB formed by Anna Müller and Paul Wallner in Vienna |
-| 2012 | Early works released on SoundCloud and attracting attention |
-| 2013 | Self-titled album "HVOB" released |
-| 2013 | Full-scale live activities in various parts of Europe |
-| 2015 | Second album "Trialog" announced |
-| 2015 | Expanding performances that combine live performances and video production |
-| 2017 | Third album "Silk" announced |
-| 2017～ | Full-scale tour outside of Europe |
-| 2018 | Ratings for audiovisual live performances further increase |
-| 2020 | Album "Rocco" announced |
-| 2021~ | Resuming live activities and performing at festivals around the world |
-| 2022~Present | Continuing new work production and live activities |
+| 2012 | ウィーンでAnna MüllerとPaul WallnerによりHVOB結成 |
+| 2012 | SoundCloudで初期作品を公開し注目を集める |
+| 2013 | セルフタイトル・アルバム『HVOB』を発表 |
+| 2013 | ヨーロッパ各地でライブ活動を本格化 |
+| 2015 | セカンドアルバム『Trialog』発表 |
+| 2015 | ライブと映像演出を組み合わせた公演を拡大 |
+| 2017 | サードアルバム『Silk』発表 |
+| 2017〜 | 欧州以外へのツアーを本格化 |
+| 2018 | オーディオビジュアルライブの評価がさらに高まる |
+| 2020 | アルバム『Rocco』を発表 |
+| 2021〜 | ライブ活動を再開し各国フェスティバルへ出演 |
+| 2022〜現在 | 新作制作とライブ活動を継続 |
 
-### Features of each album
+### アルバムごとの特徴
 
 <div class="mermaid">
 timeline
@@ -647,98 +647,98 @@ timeline
          : より有機的なサウンドへ発展
 </div>
 
-### Expansion of activities
+### 活動の広がり
 
 <div class="mermaid">
 graph TD
 
-A[vienna]
+A[ウィーン]
 
-A --> B[Austria]
+A --> B[オーストリア]
 
 B --> C[Germany]
 
 C --> D[Europe]
 
-D --> E[North America]
+D --> E[北米]
 
-D --> F[South America]
+D --> F[南米]
 
-D --> G[Asia]
+D --> G[アジア]
 
-E --> H[Live performances around the world]
+E --> H[世界各地のライブ]
 F --> H
 G --> H
 </div>
 
-### Direction for each work
+### 作品ごとの方向性
 
 <div class="mermaid">
 graph LR
 
 A[HVOB]
-A --> B[minimal]
+A --> B[ミニマル]
 
 B --> C[Trialog]
 
-C --> D[Video/live enhancement]
+C --> D[映像・ライブ強化]
 
 D --> E[Silk]
 
-E --> F[spatial representation]
+E --> F[空間表現]
 
 F --> G[Rocco]
 
-G --> H[organic sound]
+G --> H[有機的サウンド]
 </div>
 
-> Throughout their 10 years of activities, HVOB has grown into a global live act, gradually deepening their unique aesthetic without making any major changes in direction.
+> 約10年にわたる活動を通じて、HVOBは大きく方向転換することなく、独自の美学を少しずつ深化させながら世界的なライブアクトへ成長していった。
 
 ---
 
-## Discography: Musical evolution traced from HVOB's works
+## ディスコグラフィ──HVOBの作品からたどる音楽的進化
 
-### Studio Album
+### スタジオ・アルバム
 
 #### "HVOB" (2013)
 
-This debut album is a work that determined the direction of the unit HVOB.
+デビュー・アルバムとなる本作は、HVOBというユニットの方向性を決定づけた作品である。
 
-Although it was based on minimal techno, deep house, and electronica, it had a quiet spatial quality that transcended the framework of club music.
+ミニマル・テクノ、ディープハウス、エレクトロニカを土台にしながらも、クラブ・ミュージックの枠に収まらない静かな空間性を備えていた。
 
-By this point, Anna Müller's approach of minimizing the number of notes and treating her vocals as a single instrument had already been perfected.
+音数を最小限に抑え、Anna Müllerのボーカルを一つの楽器として扱うアプローチは、この時点ですでに完成度が高かった。
 
-The song's composition, which seems to design the flow of time itself, such as their signature song "Always Like This," left a strong impression on many listeners.
+代表曲の「Always Like This」をはじめ、時間の流れそのものをデザインするような構成は、多くのリスナーへ強い印象を与えた。
 
-### "Trialog" (2015)
+### 『Trialog』（2015）
 
-In their second album, the presence of low frequencies increased, developing a dynamic sound with live performance in mind.
+セカンドアルバムでは低域の存在感が増し、ライブを意識したダイナミックなサウンドへ発展した。
 
-However, the aesthetic of HVOB's blank spaces has not been lost.
+しかしHVOBらしい余白の美学は失われていない。
 
-The contrast between the quiet parts and the moment when the rhythm picks up has become even more sophisticated, evolving into a work that also connects with visual expression.
+静かなパートとリズムが立ち上がる瞬間のコントラストはさらに洗練され、映像表現とも結び付く作品へと進化している。
 
-It has a high affinity with live sets, and many songs are now played in long arrangements.
+ライブセットとの親和性も高く、多くの楽曲が長尺のアレンジで演奏されるようになった。
 
-### "Silk" (2017)
+### 『Silk』（2017）
 
-As the title suggests, ""Silk'' has a softer sound quality.
+『Silk』ではタイトルが象徴するように、音の質感がさらに柔らかくなった。
 
-It is characterized by a sound design that naturally blends into the atmosphere, rather than having sharp contours.
+鋭い輪郭ではなく、空気へ自然に溶け込むようなサウンドデザインが特徴である。
 
-Space rather than rhythm.
+リズムよりも空間。
 
-Breathing rather than unfolding.
+展開よりも呼吸。
 
-This way of thinking is unified throughout the album, and it can be said to be one of the works that most clearly expresses HVOB's worldview.
+その考え方はアルバム全体へ統一されており、HVOBの世界観を最も端的に表した作品の一つといえる。
 
 ### "Rocco" (2020)
 
-His fourth album, ""Rocco,'' maintains his traditional minimalist structure, but brings more organic sounds to the forefront.
+4作目となる『Rocco』では、従来のミニマルな構成を維持しながらも、有機的なサウンドがより前面へ現れるようになった。
 
-In addition to electronic sounds, he also actively incorporates environmental sounds and sounds reminiscent of analog textures, adding a gentle sense of warmth to the entire work.
+電子音だけではなく、環境音やアナログな質感を思わせる響きも積極的に取り入れられ、作品全体に柔らかな温度感が加わっている。
 
-Although the album was completed before the pandemic, its quiet and introspective atmosphere has given it special meaning to many listeners.
+パンデミック以前に完成したアルバムではあるが、その静けさや内省的な雰囲気は、多くのリスナーにとって特別な意味を持つ作品となった。
 
 ---
 
@@ -748,53 +748,53 @@ Although the album was completed before the pandemic, its quiet and introspectiv
 
 From the late 2000s to the early 2010s, big, flashy sounds like EDM gained worldwide popularity at festivals.
 
-HVOB, on the other hand, chose a different direction from that trend.
+一方でHVOBは、その流れとは異なる方向性を選んだ。
 
 big drop.
 
-Intense build-up.
+激しいビルドアップ。
 
 Excessive sound pressure.
 
-Without relying on these elements, he turned the quietness itself into an attraction.
+そうした要素へ依存することなく、静けさそのものを魅力へ変えたのである。
 
-This attitude has spread as values ​​shared by many minimal electronic and organic electronica artists.
+その姿勢は、多くのミニマル・エレクトロニックやオーガニック・エレクトロニカ系アーティストにも共通する価値観として広がっていった。
 
 ### How to design a live performance as a "work"
 
-Audiovisual live music existed even before HVOB.
+HVOB以前からオーディオビジュアル・ライブは存在していた。
 
-However, they treated images not as an aid to the production, but as an important component of the work itself.
+しかし彼らは映像を演出の補助ではなく、作品そのものを構成する重要な要素として扱った。
 
-picture.
+映像。
 
-illumination.
+照明。
 
-sound.
+サウンド。
 
-space.
+空間。
 
-The attitude of designing each part as a single experience, rather than making them independent, has had a great influence on modern live production.
+それぞれを独立させるのではなく、一つの体験として設計する姿勢は、現代のライブ制作にも大きな影響を与えている。
 
-This is one of the reasons why HVOB's live performances have been highly praised not only at electronic music festivals but also at museums and halls in recent years.
+近年では電子音楽フェスティバルだけでなく、美術館やホールなどでもHVOBのライブが高く評価される理由の一つでもある。
 
-### Courage to leave a "blank space"
+### 「余白」を残す勇気
 
-In a digital environment, you can add as many sounds as you like.
+デジタル環境では、いくらでも音を追加できる。
 
-However, HVOB has continued to make choices in the opposite direction to that freedom.
+しかしHVOBは、その自由さとは逆方向の選択を続けてきた。
 
-Don't decorate more than necessary.
+必要以上に装飾しない。
 
-Don't rush to expand.
+展開を急がない。
 
-Don't be afraid of silence.
+沈黙を恐れない。
 
-This approach to production is very characteristic of modern music production.
+こうした制作姿勢は、現代の音楽制作において非常に特徴的である。
 
-Convey emotion by reducing sound, not by increasing it.
+音を増やすことではなく、減らすことによって感情を伝える。
 
-This way of thinking transcends genres and influences many creators.
+その考え方はジャンルを越えて、多くのクリエイターへ影響を与えている。
 
 <div class="mermaid">
 mindmap
@@ -822,43 +822,43 @@ mindmap
       Contemporary Live Design
 </div>
 
-> Rather than competing with showiness, HVOB has built a unique presence by continuing to refine its quietness.
+> HVOBは派手さを競うのではなく、静けさを磨き続けることで独自の存在感を築き上げた。
 
 ---
 
-## Conclusion
+## おわりに
 
-Looking back at HVOB's history, there are few dramatic changes in direction.
+HVOBの歩みを振り返ると、そこには劇的な方向転換はほとんど見られない。
 
-He did not pander to trends, nor did he drastically change his musical style.
+流行へ大きく迎合することもなく、自らの音楽性を急激に変化させることもなかった。
 
-Even so, it is clear why they continue to perform live all over the world and attract so many listeners.
+それでも世界各地でライブを続け、多くのリスナーを惹きつけている理由は明確である。
 
 They have made small changes in each work.
 
-Refine the tone a little.
+音色を少し磨く。
 
-Expand the space a little.
+空間を少し広げる。
 
-Further improve synchronization with video.
+映像との同期をさらに高める。
 
-Improve the perfection of your live performance.
+ライブの完成度を向上させる。
 
-The accumulation of these efforts has created the unique style of HVOB.
+そうした積み重ねが、HVOBという唯一無二のスタイルを形作ってきた。
 
-In modern electronic music, new equipment and software are appearing one after another, and the production environment is constantly changing.
+現代の電子音楽では、新しい機材やソフトウェアが次々に登場し、制作環境は絶えず変化している。
 
 However, when listening to HVOB's work, it becomes clear that the most important thing is not the equipment, but the decision of ""which sounds should be played and which ones should not be played.''
 
-This doesn't just apply to club music.
+それはクラブミュージックだけに当てはまる話ではない。
 
-It is also a universal idea that is common to all music production.
+音楽制作全体に共通する普遍的な考え方でもある。
 
-The small duo, which originated in the city of Vienna, has gained international acclaim not for its flashy buzz, but for its consistent production.
+ウィーンという都市から始まった小さなデュオは、派手な話題性ではなく、一貫した作品づくりによって国際的な評価を獲得した。
 
 To this day, he continues to explore new forms of expression in electronic music, both in the studio and live.
 
-HVOB's music never speaks out loud.
+HVOBの音楽は、決して大きな声で語りかけてはこない。
 
 However, the more you listen, the deeper the depth of this quiet world becomes.
 
@@ -867,7 +867,7 @@ That is why their works continue to be listened to throughout the ages.
 <div class="mermaid">
 graph TD
 
-A[2012 Formed]
+A[2012 結成]
 --> B[2013 debut]
 
 B --> C[2015 Trialog]
@@ -876,11 +876,11 @@ C --> D[2017 Silk]
 
 D --> E[2020 Rocco]
 
-E --> F[Live performances around the world]
+E --> F[世界各地でライブ活動]
 
-F --> G[Still active]
+F --> G[現在も活動継続]
 </div>
 
-> HVOB is one of Austria's leading electronic duos that continues to present the value of ""quietness", ""white space" and ""space'' in electronic music to the present day.
+> HVOBは、電子音楽における「静けさ」「余白」「空間」の価値を現代へ提示し続ける、オーストリアを代表するエレクトロニック・デュオの一組である。
 
 ---

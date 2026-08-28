@@ -12,16 +12,16 @@ tags:
 - British
 - Folk
 - 80s
-title: 月亮幣 – 月亮幣
+title: Mooncoin – Mooncoin
 ---
 
 
-Mooncoin是由Mickie Zekley和Michael Hubbert組成的二人組合，其風格融合了愛爾蘭音樂、凱爾特音樂和英國音樂。
+Mooncoinは、Mickie Zekley（ミッキー・ゼクリー）とMichael Hubbert（マイケル・ハバート）によるデュオで、アイルランド音楽、ケルト音楽＆イギリス音楽を組み合わせたスタイルが特徴。
 
-《Mooncoin》是美國廠牌 Kicking Mule Records 於 1982 年發行的稀有音源。
+「Mooncoin」は、USのレーベルKicking Mule Recordsから1982年にリリースされたレア音源。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. The Barley Straw
 A2. The Rambling Pitchfork
@@ -36,4 +36,4 @@ B4. The Claudy Banks And Eleanor Plunkett
 B5. Breton Tune And La Mair E La Hilha
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m23254495215?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23254495215?afid=6142608987){: .button1}

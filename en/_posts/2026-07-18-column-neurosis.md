@@ -10,43 +10,43 @@ tags:
 - Post Metal
 - Sludge Metal
 - Hardcore Punk
-title: '[Column] Neurosis──Innovators who created the concept of post-metal'
+title: 【コラム】 Neurosis──ポストメタルという概念を生み出した革新者たち
 ---
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: Tracing the trajectory of Neurosis, which fundamentally expanded the expressive realm of heavy music by fusing violence and silence, ethnic music, electronic sound, and even visual production.
+文：mmr｜テーマ：暴力性と静寂、民族音楽と電子音、映像演出までも融合し、ヘヴィミュージックの表現領域を根本から拡張したNeurosisの軌跡をたどる
 
 
 
-Since the late 1980s, heavy metal has been divided into countless subdivisions.
+1980年代後半以降、ヘヴィメタルは数え切れないほど細分化された。
 
-Thrash metal further branches into death metal and black metal, and hardcore punk develops into crust and grindcore. Among them, there was a group that started making music that belonged to both, but could not fit into either.
+スラッシュメタルはさらにデスメタルやブラックメタルへ枝分かれし、ハードコア・パンクはクラストやグラインドコアへ発展する。その中で、どちらにも属しながらどちらにも収まりきらない音楽を作り始めた集団がいた。
 
-That group is **Neurosis**, which was formed in Oakland, California, USA.
+それがアメリカ・カリフォルニア州オークランドで結成された**Neurosis**である。
 
-Nowadays, it is often referred to as "post-metal," but the band itself has not always focused on the genre name.
+現在では「ポストメタル」という呼称で語られることが多いが、バンド自身は一貫してジャンル名を重視してこなかった。
 
-What they were pursuing wasn't just heavy guitar riffs or fast drumming.
+彼らが追求したのは、単に重いギターリフでも、高速なドラミングでもない。
 
-The idea was to design the music itself as a "flow of time" and to stretch tension and release to the limit.
+音楽そのものを「時間の流れ」として設計し、緊張と解放を極限まで引き延ばすことだった。
 
-A few minutes of quiet ambient music is followed by a huge noise.
+静かなアンビエントが数分続いた直後に巨大なノイズが押し寄せる。
 
-After the sound of ethnic instruments, a sludge metal-like riff explodes.
+民族楽器が鳴り響いたあとにスラッジメタル級のリフが炸裂する。
 
-Video works cover the live space, and even the lighting becomes part of the performance.
+映像作品がライブ空間を覆い、照明さえ演奏の一部となる。
 
-This comprehensive artistic idea had an immeasurable influence on later heavy music.
+こうした総合芸術的な発想は、後のヘヴィミュージックに計り知れない影響を与えた。
 
-Today, many bands such as Isis, Cult of Luna, Pelican, Amenra, and Russian Circles are part of Neurosis' lineage.
+今日ではIsis、Cult of Luna、Pelican、Amenra、Russian Circlesなど数多くのバンドがNeurosisの系譜として語られる。
 
-However, its innovation was never appreciated from the beginning.
+しかし、その革新性は決して最初から評価されていたわけではない。
 
-They started out in the underground hardcore punk scene and gradually evolved their music over the years to get to where they are today.
+彼らはハードコア・パンクの地下シーンから出発し、何年にもわたり少しずつ自らの音楽を変化させながら現在の姿へ到達したのである。
 
-> The history of Neurosis is not a revolution born overnight, but rather a record of evolution over many years of trial and error.
+> Neurosisの歴史は、一夜にして生まれた革命ではなく、長年の試行錯誤が積み重なった進化の記録でもある。
 
 
 
@@ -55,7 +55,7 @@ They started out in the underground hardcore punk scene and gradually evolved th
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -65,173 +65,173 @@ color: #fff;
 
 ---
 
-## Values ​​nurtured by the land of Auckland
+## オークランドという土地が育てた価値観
 
-### Bay Area Uniqueness
+### ベイエリアの独自性
 
-Neurosis was formed in 1985 in Oakland, California.
+Neurosisは1985年、カリフォルニア州オークランドで結成された。
 
-Oakland is located on the eastern shore of San Francisco Bay and is part of the so-called Bay Area cultural region.
+オークランドはサンフランシスコ湾東岸に位置し、いわゆるベイエリア文化圏の一部である。
 
-In the 1980s, very diverse musical cultures coexisted in this region.
+1980年代当時、この地域では非常に多様な音楽文化が共存していた。
 
-As a representative example,
+代表例としては、
 
-- thrash metal
-- hardcore punk
-- Industrial
-- alternative rock
-- jazz
-- Avant-garde
+- スラッシュメタル
+- ハードコア・パンク
+- インダストリアル
+- オルタナティブロック
+- ジャズ
+- アヴァンギャルド
 
-etc. were intersecting at close range.
+などが近距離で交差していた。
 
-While bands such as Metallica, Exodus, and Testament were active, the punk community, which emphasized the DIY spirit, was also extremely active.
+Metallica、Exodus、Testamentなどが活動していた一方、DIY精神を重視するパンクコミュニティも極めて活発だった。
 
-Rather than strictly distinguishing between these genres, the early members of Neurosis were influenced by their local culture, ""absorbing interesting music.''
+Neurosisの初期メンバーは、こうしたジャンルを厳密に区別するよりも、「面白い音楽なら吸収する」という土地柄の影響を受けていた。
 
-### DIY spirit
+### DIY精神
 
-At that time, the American West Coast underground did not rely on major labels,
+当時のアメリカ西海岸アンダーグラウンドでは、大手レーベルに頼らず、
 
-- Independent production
-- Independent events
-- Independent distribution
+- 自主制作
+- 自主イベント
+- 自主流通
 
-was the norm.
+が当たり前だった。
 
-Neurosis has also been active within that culture since the beginning.
+Neurosisも初期からその文化の中で活動する。
 
-Their attitude of producing only the works they considered ideal, rather than conforming to the demands of record companies, remained unchanged until later years.
+レコード会社の要望に合わせるのではなく、自分たちが理想と考える作品だけを制作する姿勢は、後年まで一貫して変わらない。
 
-Their values, which prioritize the quality of their work over commerciality, symbolize their entire career.
+商業性より作品性を優先する価値観は、彼らのキャリア全体を象徴している。
 
-### Departing from hardcore punk
+### ハードコア・パンクからの出発
 
-Neurosis was very different from its current form when it first formed.
+結成当初のNeurosisは現在の姿とはかなり異なる。
 
-In the early works,
+初期作品では、
 
-- short songs
-- Intense tempo
-- Rhythm derived from punk
-- Shout-based vocals
+- 短い楽曲
+- 激しいテンポ
+- パンク由来のリズム
+- シャウト主体のボーカル
 
 が中心だった。
 
-In particular, the influence of 1980s American hardcore is very strong.
+特に1980年代アメリカン・ハードコアの影響は非常に色濃い。
 
-When listeners who are only familiar with black metal and post-metal listen to their early works, the impression they get is so different that it"s hard to believe they"re the same band.
+ブラックメタルやポストメタルのイメージしか知らないリスナーが初期作品を聴くと、同じバンドとは思えないほど印象が異なる。
 
-However, from around this time, heavy chord progressions and a strange sense of tension were already present.
+しかし、この頃から既に重苦しいコード進行や異様な緊張感は存在していた。
 
-The seeds that would lead to his later work, Neurosis, were certainly planted in his early works.
+後年のNeurosisへ続く種は、初期作品の段階で確かに蒔かれていたのである。
 
-> The current magnificent sound world has its origins deeply rooted in the DIY hardcore scene.
+> 現在の壮大な音世界も、原点はDIYハードコア・シーンに深く根差していた。
 
 ---
 
-## Formation of band with initial members
+## 初期メンバーとバンドの形成
 
-Neurosis is also known for the fact that the central figure has remained the same for a long time since their formation.
+Neurosisは結成以来、中心人物が長く変わらないことでも知られている。
 
-Representative examples include:
+代表的な存在として挙げられるのが、
 
--Scott Kelly
+- Scott Kelly
 - Steve Von Till
--Dave Edwardson
+- Dave Edwardson
 
-It is.
+である。
 
-Furthermore, through changes in drummers and support members, a unique ensemble was formed.
+さらにドラマーやサポートメンバーの変遷を経ながら、独自のアンサンブルが形成されていった。
 
 ### Scott Kelly
 
 Scott Kelly was a guitarist and vocalist for many years.
 
-It is characterized not only by its wild screams, but also by its low-pitched singing.
+荒々しい絶叫だけではなく、低く語るような歌唱も特徴である。
 
-His vocals have a texture that feels like he's directly expressing a "pack of emotions" rather than a melody.
+彼のボーカルはメロディを聴かせるというより、「感情の塊」を直接ぶつけるような質感を持つ。
 
-His guitar style was not technical, fast-playing, but focused on the weight of each note.
+ギターもテクニカルな速弾きではなく、一音一音の重さを重視するスタイルだった。
 
 ### Steve Von Till
 
-Steve Von Till will also be in charge of guitar and vocals.
+Steve Von Tillもギターとボーカルを担当する。
 
-He has a different voice than Scott Kelly, with a deeper, deeper sound.
+Scott Kellyとは異なる声質を持ち、より低く、重厚な響きを持つ。
 
-The two people take turns singing, creating a three-dimensional feel unique to Neurosis.
+二人が交互に歌うことで、Neurosis特有の立体感が生まれる。
 
-In addition, he has produced many folk and ambient works as a solo artist, and this experience is reflected in Neurosis.
+また、ソロ活動ではフォークやアンビエント作品も多数制作しており、その経験はNeurosisにも反映されている。
 
 ### Dave Edwardson
 
-Bassist Dave Edwardson doesn"t just support the band"s low notes.
+ベース担当Dave Edwardsonは、バンドの低音を支えるだけではない。
 
-He has also been involved in electronic sounds and samplers, and has played a role in building the atmosphere of the entire work.
+電子音やサンプラーなどにも関わり、作品全体の空気感を構築する役割を担ってきた。
 
-Neurosis' deep bass is not a simple bass line, but functions as the sound design itself.
+Neurosisの重低音は単純なベースラインではなく、サウンドデザインそのものとして機能している。
 
-### Features of multiple vocals
+### 複数ボーカルという特徴
 
-Neurosis doesn't have a structure dominated by one frontman.
+Neurosisでは一人のフロントマンが支配する構造ではない。
 
-multiple people sing,
+複数人が歌い、
 
-Multiple people manipulate noise,
+複数人がノイズを操り、
 
-Multiple people are involved in spatial production.
+複数人が空間演出に関わる。
 
-This collective expression is what sets them apart from other metal bands.
+この集合体としての表現が、他のメタルバンドとの大きな違いとなっている。
 
-> Neurosis developed as a band that emphasized collective expression itself, rather than a star system.
-
----
-
-## Direction indicated by early works
-
-In 1987, they released their debut album ""Pain of Mind''.
-
-This work is very different from his later masterpieces.
-
-Overall, the sound is close to crossover hardcore or thrashcore, and the playing time is relatively short.
-
-but,
-
-- dark chord progression
-- disturbing atmosphere
-- heavy bass
-
-You can see the elements that will lead to later Neurosis.
-
-The follow-up, 1989's The Word as Law, featured heavier songs with slower tempos.
-
-What is important here is that we have begun to emphasize "weight" rather than "speed."
-
-At the height of thrash metal's heyday, Neurosis started moving in the opposite direction.
-
-Furthermore, the song structure gradually becomes longer, moving away from the simple A-melody/B-melody structure.
-
-At this point, the term "post-metal" did not yet exist.
-
-However, looking back, it can be said that this era was an important turning point when Neurosis' unique compositional method began to take shape.
-
-> Although the first two works are not complete, they provide an essential foundation for understanding later innovations.
+> Neurosisはスターシステムではなく、集団表現そのものを重視するバンドとして発展していった。
 
 ---
 
-## Early discography
+## 初期作品が示した方向性
 
-| Year | Works | Features |
+1987年にはデビューアルバム『Pain of Mind』を発表する。
+
+この作品は後年の代表作とは大きく異なる。
+
+全体としてはクロスオーバー・ハードコアやスラッシュコアに近いサウンドであり、演奏時間も比較的短い。
+
+しかし、
+
+- ダークなコード進行
+- 不穏な空気
+- 重苦しい低音
+
+など、後のNeurosisへ繋がる要素が確認できる。
+
+続く1989年『The Word as Law』では、より重く、テンポを落とした楽曲が増えていく。
+
+ここで重要なのは、「速さ」より「重量」を重視し始めた点である。
+
+スラッシュメタル全盛期だった当時、Neurosisは逆方向へ歩み始めた。
+
+さらに楽曲構成も徐々に長くなり、単純なAメロ・Bメロ構成から脱却していく。
+
+この時点ではまだ「ポストメタル」という言葉は存在していなかった。
+
+しかし後から振り返れば、この時代こそNeurosis独自の作曲法が形成され始めた重要な転換期だったと言える。
+
+> 初期2作品は完成形ではないものの、後年の革新を理解するうえで欠かせない土台となっている。
+
+---
+
+## 初期ディスコグラフィ
+
+| 年 | 作品 | 特徴 |
 |----|------|------|
-|1987|Pain of Mind|Debut work with strong hardcore flavor|
-|1989|The Word as Law|Lowering the tempo and increasing the sense of weight|
+|1987|Pain of Mind|ハードコア色が強いデビュー作|
+|1989|The Word as Law|テンポダウンと重量感の拡大|
 
 <div class="mermaid">
 graph TD
 
-A[1985 Formed]
+A[1985 結成]
 -->B[DIY Hardcore]
 
 B
@@ -241,240 +241,240 @@ C
 -->D[The Word as Law]
 
 D
--->E[To heavier and longer songs]
+-->E[より重く長い楽曲へ]
 </div>
 
-> At this time, Neurosis was quietly taking the first step in an evolution that would later change heavy music around the world.
+> この時代のNeurosisは、後に世界中のヘヴィミュージックを変える進化の第一歩を静かに踏み出していた。
 
 
 
 ---
 
-## "Souls at Zero" – The turning point where Neurosis broke out of its shell
+## 『Souls at Zero』――Neurosisが自らの殻を破った転換点
 
-In the 1990s, Neurosis became more than just a hardcore band.
+1990年代に入ると、Neurosisは単なるハードコア・バンドではなくなっていく。
 
-The turning point was their third work, Souls at Zero, released in 1992.
+その転機となったのが、1992年に発表された3作目『Souls at Zero』である。
 
-Many critics now consider this work to be the "starting point of the birth of post-metal."
+現在では、この作品を「ポストメタル誕生の起点」と位置付ける評論家も少なくない。
 
-Of course, the term "post-metal" didn't exist at that time.
+もちろん当時は「ポストメタル」という呼称は存在していない。
 
-However, looking back on it in later years, this work contained many elements that would be inherited not only by Neurosis but also by many subsequent bands.
+しかし後年振り返ると、この作品には後のNeurosisだけでなく、多くの後続バンドが継承する要素が数多く含まれていた。
 
-The biggest change was the shift from the idea of ​​""writing songs" to ""designing spaces."
+最も大きな変化は、「曲を書く」という発想から「空間を設計する」という発想へ移ったことである。
 
-Until then, Neurosis had a sense of weight to it.
+それまでのNeurosisにも重量感はあった。
 
-But on Souls at Zero, that weight begins to function as more than just a guitar riff, it serves as the structure of the entire song.
+しかし『Souls at Zero』では、その重さが単なるギターリフではなく、楽曲全体の構造として機能し始める。
 
-The intro begins quietly,
+イントロは静かに始まり、
 
-The noise gradually overlaps,
+少しずつノイズが重なり、
 
-The bass makes the air tremble,
+ベースが空気を震わせ、
 
-drums added,
+ドラムが加わり、
 
-A huge riff appears at the end.
+最後に巨大なリフが現れる。
 
-This "build-up composition" became a style that symbolized subsequent Neurosis works.
+この「積み上げる構成」は、その後のNeurosis作品を象徴するスタイルとなった。
 
-This work also makes it clear that he is not afraid of silence.
+また、静寂を恐れない姿勢もこの作品で明確になる。
 
-In metal, ""continuing to make sounds'' was often thought of as energy, but Neurosis used silence itself as production.
+メタルでは「音を鳴らし続ける」ことがエネルギーと考えられがちだったが、Neurosisは沈黙そのものを演出として用いた。
 
-It is precisely because of the silence that the next explosion stands out.
+静けさがあるからこそ、次に訪れる爆発が際立つのである。
 
-### Rhythm changes
+### リズムの変化
 
-In his early works, the sense of speed derived from punk was noticeable.
+初期作品ではパンク由来の疾走感が目立っていた。
 
-But on Souls at Zero, the rhythm becomes slower and heavier.
+しかし『Souls at Zero』では、リズムはゆったりと重くなる。
 
-By making each note resonate, the performance has changed to one that puts pressure on the listener.
+一音一音を響かせることで、リスナーに圧力を与える演奏へ変化した。
 
-This would later become a staple of sludge metal and post-metal, but at the time it was a fairly original approach.
+これは後にスラッジメタルやポストメタルの定番となるが、当時としてはかなり独創的なアプローチだった。
 
-### Ambient introduction
+### アンビエントの導入
 
-Electronic sounds and environmental sounds are also actively used in this work.
+本作では電子音や環境音も積極的に使用されている。
 
-These were not decorations, but important elements that shaped the overall atmosphere of the song.
+これらは装飾ではなく、楽曲全体の雰囲気を形作る重要な要素だった。
 
-It will be further developed in later works, but its prototype has already been completed here.
+後年の作品ではさらに発展していくが、その原型はすでにここで完成している。
 
-### The length of the song also changes
+### 曲の長さにも変化
 
-In the 1980s, hardcore songs were generally around 2-3 minutes long.
+1980年代のハードコアでは2〜3分程度の楽曲が一般的だった。
 
-On the other hand, ""Souls at Zero'' has an increasing number of long songs, creating a structure that allows you to enjoy the development itself.
+一方、『Souls at Zero』では長尺の楽曲が増え、展開そのものを楽しませる構成になっていく。
 
-This led to the establishment of the idea that emotions accumulate over a long period of time, rather than as short-term impulses.
+短い衝動ではなく、長い時間をかけて感情を積み重ねるという考え方が確立されたのである。
 
-> ""Souls at Zero'' marked the second chapter of the band Neurosis, and became the blueprint for what would become post-metal.
+> 『Souls at Zero』はNeurosisというバンドの第二章を告げる作品であり、後のポストメタルの設計図となった。
 
 ---
 
-## "Enemy of the Sun" and the completion of its own world
+## 『Enemy of the Sun』と独自世界の完成
 
-1993's Enemy of the Sun further deepened the direction that Souls at Zero had taken.
+1993年発表の『Enemy of the Sun』では、『Souls at Zero』で生まれた方向性がさらに深化する。
 
-Here, Neurosis expands their music into something more three-dimensional.
+ここでNeurosisは、自らの音楽をより立体的なものへ押し広げていく。
 
-Don't just rely on the guitar,
+ギターだけで押し切るのではなく、
 
-electronic sound,
+電子音、
 
-sample,
+サンプル、
 
-drone,
+ドローン、
 
-ethnic percussion,
+民族的なパーカッション、
 
-environmental sounds,
+環境音、
 
-Feedback noise etc. are mixed naturally.
+フィードバックノイズなどが自然に混ざり合う。
 
-These are by no means "experiments".
+これらは決して「実験」のためではない。
 
-It is used as a material to depict the scenes of songs.
+楽曲の情景を描くための素材として使われている。
 
-The atmosphere changes with each scene, just like movie music.
+まるで映画音楽のように、場面ごとに空気が変わっていくのである。
 
-### Expanding dynamics
+### ダイナミクスの拡大
 
-What is essential when talking about Neurosis is the bold use of volume differences.
+Neurosisを語る上で欠かせないのが、音量差を大胆に利用する手法である。
 
-In quiet scenes, reduce the number of sounds as much as possible.
+静かな場面では極限まで音数を減らす。
 
-Then a huge riff appears.
+そこから巨大なリフが現れる。
 
-This difference creates a psychological impact.
+この落差が心理的なインパクトを生み出している。
 
-Its distinctive feature was that it was not simply ""heavy," but was designed with a ""structure that gives the impression of weight."
+単純に「重い」のではなく、「重さを感じさせる構造」を設計している点が特徴だった。
 
-### Role of the two vocalists
+### 二人のボーカルの役割
 
-Scott Kelly and Steve Von Till each have different voices.
+Scott KellyとSteve Von Tillは、それぞれ異なる声質を持っている。
 
-There are scenes where I scream,
+叫ぶ場面もあれば、
 
-There are also scenes that speak
+語るような場面もあり、
 
-There are also scenes where the song is sung low.
+低く歌い上げる場面もある。
 
-By sharing the roles between the two, a range of emotions was created that could not be expressed alone.
+二人が役割を分担することで、一人では表現できない感情の幅が生まれた。
 
-This style would become a major characteristic of Neurosis until later years.
+このスタイルは後年までNeurosisの大きな個性となる。
 
-### Creating works with live performance in mind
+### ライブを前提とした作品作り
 
-Neurosis is not complete with just an album.
+Neurosisはアルバムだけでは完成しない。
 
-The work is constructed with the premise that it will be performed live.
+ライブで演奏されることを前提に作品が構築されている。
 
-long intro,
+長いイントロ、
 
-slow development,
+ゆっくりした展開、
 
-A huge climax.
+巨大なクライマックス。
 
-These are designed to maximize effectiveness at live venues.
+これらはライブ会場で最大限の効果を発揮するよう設計されている。
 
-Therefore, even in studio recordings, the sound is created with an awareness of "space."
+そのためスタジオ録音でさえ、「空間」を意識した音作りになっている。
 
-> With ""Enemy of the Sun,'' Neurosis established a musical world that only they could create.
+> 『Enemy of the Sun』によってNeurosisは、自らにしか作れない音楽世界を確立した。
 
 ---
 
-## Innovation in video and live performance
+## 映像とライブ演出の革新
 
-Visual production is an essential element that characterizes Neurosis live performances.
+Neurosisのライブを特徴づける要素として、映像演出は欠かせない。
 
-From the early 1990s, video works began to be projected onto screens during live performances.
+1990年代前半から、ライブではスクリーンに映像作品が投影されるようになる。
 
-This is different from a typical music video.
+これは一般的なミュージックビデオとは異なる。
 
-abstract images,
+抽象映像、
 
-natural scenery,
+自然風景、
 
-industrial area,
+工業地帯、
 
-flame,
+炎、
 
-smoke,
+煙、
 
-religious images,
+宗教的なイメージ、
 
-A collage video etc. will be played in sync with the performance.
+コラージュ映像などが演奏と同期しながら流れる。
 
-The image is not a background.
+映像は背景ではない。
 
-It was treated as an important element of the live experience itself.
+ライブ体験そのものを構成する重要な要素として扱われた。
 
-### Joined by Josh Graham
+### Josh Grahamの参加
 
-In later years, visual artist Josh Graham became heavily involved in live video production.
+後年になると、ビジュアルアーティストJosh Grahamがライブ映像制作に深く関わるようになる。
 
-His video work further expanded the Neurosis live experience.
+彼の映像作品はNeurosisのライブ体験をさらに拡張した。
 
-The abstract images projected on the giant screen played an important role in immersing the audience.
+巨大スクリーンいっぱいに映し出される抽象映像は、観客を没入させる重要な役割を果たした。
 
-### Lighting is also part of the performance
+### 照明も演奏の一部
 
-Lighting is not just a performance.
+照明も単なる演出ではない。
 
-As the song develops,
+曲の展開に合わせ、
 
-darkness,
+暗闇、
 
-intense white light,
+強烈な白色光、
 
-Backlit,
+逆光、
 
-Smoke etc. are designed in detail.
+スモークなどが細かく設計される。
 
-Although such comprehensive productions are not uncommon today, they were extremely advanced in the early 1990s.
+こうした総合演出は現在では珍しくないが、1990年代初頭としては極めて先進的だった。
 
-### Distance to audience
+### 観客との距離
 
-Neurosis is not the type of live show that excites the audience.
+Neurosisは観客を煽るタイプのライブではない。
 
-There are also relatively few MCs.
+MCも比較的少ない。
 
-The priority was to create an environment where they could concentrate on the music itself.
+音楽そのものへ集中できる環境を作ることが優先された。
 
-For this reason, live performances are often experienced as an immersive work rather than a concert.
+そのためライブはコンサートというより、一つの没入型作品として体験されることが多い。
 
-> Neurosis was also a band that redefined live performances not as ""performances" but as ""general art."
+> Neurosisはライブを「演奏」ではなく、「総合芸術」として再定義したバンドでもあった。
 
 ---
 
-## Differences from heavy music at the time
+## 当時のヘヴィミュージックとの違い
 
-The early 1990s was a turning point for metal.
+1990年代前半はメタルの転換期だった。
 
-In death metal, technological competition is rapidly progressing,
+デスメタルは急速に技術競争が進み、
 
-Black metal has formed its own culture in Northern Europe,
+ブラックメタルは北欧で独自文化を形成し、
 
-Grunge was a worldwide success.
+グランジは世界的な成功を収めていた。
 
-Among them, Neurosis did not completely belong to any one trend.
+その中でNeurosisは、どの流れにも完全には属さなかった。
 
-Don't compete for speed,
+速さを競わず、
 
-Don't show off your skills,
+技巧を誇示せず、
 
-There's no aiming for a hit song.
+ヒット曲を狙うこともない。
 
-They turned "air" itself into a work of art.
+彼らは「空気」そのものを作品化していた。
 
-This was an extremely unusual direction.
+これは極めて珍しい方向性だった。
 
-It can be said that the reason why the term "Atmospheric Sludge" became established in later years was to describe this unique sound.
+後年「Atmospheric Sludge」という呼び方が定着するのも、この独特なサウンドを説明するためだったと言える。
 
 <div class="mermaid">
 graph LR
@@ -486,16 +486,16 @@ B
 -->C[Enemy of the Sun]
 
 C
--->D[Video production]
+-->D[映像演出]
 
 C
--->E[ambient]
+-->E[アンビエント]
 
 C
--->F[sludge]
+-->F[スラッジ]
 
 D
--->G[The road to Post-Metal]
+-->G[Post-Metalへの道]
 
 E
 -->G
@@ -505,164 +505,164 @@ F
 
 </div>
 
-### Progress in 1992-1993
+### 1992〜1993年の歩み
 
-| Year | Event | Significance |
-| ----- | -------------------- | --------------------- |
-| 1992 | "Souls at Zero" announced | Establishing the current direction of Neurosis |
-| 1993 | Announcement of "Enemy of the Sun" | Further development of visuals, ambient music, and weight |
-| Around 1993 | Live video production in full swing | Establishment of expression that combines music and video |
+| 年     | 出来事                  | 意義                  |
+| ----- | -------------------- | ------------------- |
+| 1992  | 『Souls at Zero』発表    | 現在のNeurosisの方向性を確立  |
+| 1993  | 『Enemy of the Sun』発表 | 映像・アンビエント・重量感をさらに発展 |
+| 1993頃 | ライブ映像演出が本格化          | 音楽と映像を融合した表現を確立     |
 
-> In just two years from 1992 to 1993, Neurosis transformed from a hardcore band to a unique group of expression.
-
----
-
-## "Through Silver in Blood" – A monumental post-metal masterpiece
-
-In 1996, Neurosis released Through Silver in Blood, considered by many listeners and critics to be one of their best albums.
-
-This work was an album that brought together the elements that had been accumulated up to that point into a single destination.
-
-Having set their direction with ""Souls at Zero" and expanded their world view with ""Enemy of the Sun," Neurosis succeeds in organically tying them all together with this work.
-
-Throughout the album, you get the impression that it's not just a collection of songs, but one gigantic piece of work.
-
-Although each song stands on its own, there is a flow of silence and explosion, tension and release that runs through the album.
-
-Therefore, rather than listening to just one song, it is structured so that the true value of the work can be conveyed by experiencing it as a single piece.
-
-### A work that rewrites the definition of "weight"
-
-In heavy music, the word "heavy" often refers to volume or distortion.
-
-But that's not the only weight Neurosis has shown.
-
-By slowing down the tempo to an extreme, elongating the sound, and not being afraid of blank spaces, the sound seemed to compress the very air, creating a sense of spiritual weight.
-
-The guitar is not played fast.
-
-Rather, it creates the feeling that the entire space shakes every time a single note is played.
-
-This approach had a major influence on later sludge metal, doom metal, and post-metal.
-
-### Structure that tells a story throughout the album
-
-Through Silver in Blood, each song's role is clearly designed.
-
-Rather than just lining up intense songs, there are also quiet introductions and scenes that serve as interludes, and the overall flow is meticulously constructed.
-
-This kind of idea is similar to the structure of a movie or a full-length novel.
-
-The listener will experience the sensation of traveling through the album as a whole, rather than listening to the progress of each song.
-
-### Worldwide reputation
-
-Although it was not a huge commercial hit when it was first released, it received extremely high praise in the underground scene.
-
-As time passed, its influence further expanded, with many artists citing this work as an important work.
-
-Currently, it is often talked about as one of the representative works of the 1990s in the history of heavy music.
-
-> ""Through Silver in Blood'' became a work that symbolized not only Neurosis but also the expression of post-metal itself.
+> 1992年から1993年にかけてのわずか2年間で、Neurosisはハードコア・バンドから唯一無二の表現集団へと大きく姿を変えていった。
 
 ---
 
-## "Times of Grace" ─ Deepening of silence and spirituality
+## 『Through Silver in Blood』──ポストメタルの金字塔
 
-With 1999's Times of Grace, Neurosis took a further inward step.
+1996年、Neurosisは多くのリスナーや批評家から最高傑作の一つと評価される『Through Silver in Blood』を発表した。
 
-While maintaining the overwhelming sense of weight of ""Through Silver in Blood,'' wider dynamics and delicate expression have been added.
+この作品は、それまで積み重ねてきた要素を一つの到達点へまとめ上げたアルバムだった。
 
-This work brings together folk, ambient, drone, and folk music elements more naturally.
+『Souls at Zero』で方向性を定め、『Enemy of the Sun』で世界観を拡張したNeurosisは、本作でそのすべてを有機的に結び付けることに成功する。
 
-It became clearer that they were aiming for a ""spiritual experience through sound'' that went beyond the framework of heavy metal.
+アルバム全体を通して感じられるのは、「楽曲の集合」ではなく「一つの巨大な作品」という印象である。
 
-### Breathing song structure
+それぞれの曲は独立しているが、静寂と爆発、緊張と解放という流れがアルバム全体を貫いている。
 
-In this work, the performance rarely continues with a constant tension.
+そのため、一曲だけを切り取って聴くよりも、一枚を通して体験することで作品の真価が伝わる構成となっている。
 
-The quiet scenes continue for a long time, gradually building up energy.
+### 「重さ」の定義を書き換えた作品
 
-Then, the moment it reaches its peak, a huge riff appears.
+ヘヴィミュージックにおいて「重い」という言葉はしばしば音量や歪みの強さを意味する。
 
-This flow is similar to breathing and the ebb and flow of waves.
+しかしNeurosisが示した重さは、それだけではない。
 
-The listener not only hears the sound, but also physically feels the change.
+極端にテンポを落とし、音を引き伸ばし、余白を恐れず、空気そのものを圧縮するようなサウンドによって、精神的な重量感を生み出していた。
 
-### Introducing acoustic elements
+ギターは速く弾かれない。
 
-Neurosis has previously incorporated folk instruments and ambient sounds, but acoustic textures take on an even more prominent role on Times of Grace.
+むしろ、一音が鳴るたびに空間全体が揺れるような感覚を作り出している。
 
-The contrast with the intense parts made the quiet scenes stand out even more.
+このアプローチは、後のスラッジメタルやドゥームメタル、ポストメタルに大きな影響を与えた。
 
-### Relationship with "Grace"
+### アルバム全体で物語を描く構成
 
-In the same year, the ambient piece ""Grace'' was also released.
+『Through Silver in Blood』では、各曲の役割が明確に設計されている。
 
-This work is a companion piece to ""Times of Grace,'' presenting the sound material born from the same production process in a different form.
+激しい曲だけを並べるのではなく、静かな導入やインタールード的な役割を持つ場面も配置され、全体の流れが緻密に構築されている。
 
-While one piece is centered around band performance, the other is centered around ambient music and soundscapes.
+こうした発想は、映画や長編小説のような構成に近い。
 
-This attempt shows that Neurosis had a flexible view of the ""album'' format itself.
+聴き手は一曲ごとの展開ではなく、アルバム全体を旅するような感覚を味わうことになる。
 
-> ""Times of Grace"' was Neurosis"s fusion of spirituality and sonic expression to an even higher level.
+### 世界的な評価
 
----
+発売当初から商業的な大ヒットを記録したわけではないが、地下シーンでは極めて高い評価を受けた。
 
-## Establishment of independent label "Neurot Recordings"
+時間の経過とともに、その影響力はさらに拡大し、多くのアーティストが本作を重要作品として挙げるようになる。
 
-In 1999, Neurosis founded their own label **Neurot Recordings**.
+現在では、ヘヴィミュージック史における1990年代の代表作の一つとして語られることが多い。
 
-This event marked a very important turning point in the band's history.
-
-They have always emphasized a DIY spirit, but by running their own label, they have built a system in which they can independently manage the entire production process, from production to distribution.
-
-### Why was it an independent label?
-
-Neurosis is not just about music.
-
-* Jacket design
-*Package
-* Video works
-* Live performance
-
-I even thought of it as a piece of work.
-
-Therefore, it was necessary to create an environment where the production policy would not be influenced by outside intentions.
-
-It can be said that starting an independent label was a natural choice to realize that philosophy.
-
-### Interact with new artists
-
-Neurot Recordings has become a venue for not only Neurosis' own work, but also the work of experimental and original artists.
-
-As a result, the label will function not just as a distribution company, but as a base that supports the culture of heavy music and experimental music.
-
-### Impact on music culture
-
-From the late 1990s to the early 2000s, many underground artists started establishing their own labels.
-
-The Neurosis initiative is often talked about as one of the examples that symbolizes this trend.
-
-> The establishment of Neurot Recordings was an event that demonstrated Neurosis' willingness to design not only their own expressions but also their activities themselves.
+> 『Through Silver in Blood』は、Neurosisだけでなくポストメタルという表現そのものを象徴する作品となった。
 
 ---
 
-## Achievement in the late 1990s
+## 『Times of Grace』──静寂と精神性の深化
 
-By the late 1990s, Neurosis had fully established their own expression.
+1999年発表の『Times of Grace』では、Neurosisはさらに内面的な方向へ歩みを進める。
 
-The characteristics can be summarized as follows.
+『Through Silver in Blood』の圧倒的な重量感を維持しながら、より広いダイナミクスと繊細な表現が加わった。
 
-* Impulse derived from hardcore punk
-* Heaviness of sludge metal
-* Doom metal sense of time
-* Ambient space design
-* Fusion of video and live performance
-* The idea of ​​constructing the entire album as one work
-* Production system that follows the DIY spirit
+この作品では、フォーク、アンビエント、ドローン、民族音楽的な要素がより自然に融合している。
 
-Although some of these elements were not uncommon on their own, there were almost no examples at the time that integrated them to this extent.
+ヘヴィメタルという枠組みを超え、「音による精神的体験」を目指す姿勢がより明確になった。
+
+### 呼吸するような楽曲構成
+
+本作では、演奏が一定のテンションで続くことは少ない。
+
+静かな場面が長く続き、徐々にエネルギーが蓄積される。
+
+そして、頂点に達した瞬間に巨大なリフが現れる。
+
+この流れは、呼吸や波の満ち引きにも似ている。
+
+リスナーは単に音を聴くだけでなく、その変化を身体的に感じることになる。
+
+### アコースティック要素の導入
+
+Neurosisは以前から民族楽器や環境音を取り入れていたが、『Times of Grace』ではアコースティックな質感がさらに重要な役割を担う。
+
+激しいパートとの対比によって、静かな場面の存在感がいっそう際立った。
+
+### 『Grace』との関係
+
+同年には、アンビエント作品『Grace』も発表された。
+
+これは『Times of Grace』と対を成す作品であり、同じ制作過程から生まれた音素材を異なる形で提示している。
+
+片方がバンド演奏を中心とした作品であるのに対し、もう一方はアンビエントやサウンドスケープを主体としている。
+
+この試みは、Neurosisが「アルバム」という形式そのものを柔軟に捉えていたことを示している。
+
+> 『Times of Grace』は、Neurosisが精神性と音響表現をさらに高い次元で融合させた作品だった。
+
+---
+
+## 自主レーベル「Neurot Recordings」の設立
+
+1999年、Neurosisは自主レーベル**Neurot Recordings**を設立する。
+
+この出来事は、バンドの歴史において非常に重要な転換点となった。
+
+彼らは以前からDIY精神を重視していたが、自らレーベルを運営することで、制作から流通まで作品全体を主体的に管理できる体制を築いた。
+
+### なぜ自主レーベルだったのか
+
+Neurosisは音楽だけでなく、
+
+* ジャケットデザイン
+* パッケージ
+* 映像作品
+* ライブ演出
+
+までも一つの作品として考えていた。
+
+そのため、制作方針を外部の意向に左右されない環境が必要だった。
+
+自主レーベルは、その理念を実現するための自然な選択だったと言える。
+
+### 新しいアーティストとの交流
+
+Neurot RecordingsはNeurosis自身の作品だけでなく、実験性や独自性を持つアーティストの作品も発表する場となった。
+
+これにより、レーベルは単なる流通会社ではなく、ヘヴィミュージックや実験音楽の文化を支える拠点として機能していく。
+
+### 音楽文化への影響
+
+1990年代後半から2000年代初頭にかけて、多くのアンダーグラウンド・アーティストが自主レーベルを設立するようになる。
+
+Neurosisの取り組みも、その流れを象徴する事例の一つとして語られることが多い。
+
+> Neurot Recordingsの設立は、Neurosisが表現だけでなく活動そのものも自ら設計する姿勢を示した出来事だった。
+
+---
+
+## 1990年代後半の到達点
+
+1990年代後半までに、Neurosisは独自の表現を完全に確立していた。
+
+その特徴を整理すると、次のようになる。
+
+* ハードコア・パンク由来の衝動
+* スラッジメタルの重量感
+* ドゥームメタル的な時間感覚
+* アンビエントの空間設計
+* 映像とライブ演出の融合
+* アルバム全体を一つの作品として構築する思想
+* DIY精神を貫く制作体制
+
+これらは単独では珍しくない要素もあるが、それらをここまで一体化した例は当時ほとんど存在しなかった。
 
 <div class="mermaid">
 graph TD
@@ -680,212 +680,212 @@ D
 -->E[Neurot Recordings]
 
 E
--->F[Establishment of post-metal]
+-->F[ポストメタルの確立]
 
 </div>
 
-### Major events from 1996 to 1999
+### 1996〜1999年の主要な出来事
 
-| Year | Event | Significance |
-| ---- | --------------------------- | ------------------------ |
-| 1996 | "Through Silver in Blood" announced | Highly acclaimed as a representative work of Neurosis |
-| 1999 | Announcement of "Times of Grace" | Further deepening spirituality and acoustic expression |
-| 1999 | Announcement of "Grace" | Presenting a paired composition as an ambient piece |
-| 1999 | Established Neurot Recordings | Established a system to manage production and distribution by ourselves |
+| 年    | 出来事                         | 意義                        |
+| ---- | --------------------------- | ------------------------- |
+| 1996 | 『Through Silver in Blood』発表 | Neurosisを代表する作品として高く評価される |
+| 1999 | 『Times of Grace』発表          | 精神性と音響表現をさらに深化            |
+| 1999 | 『Grace』発表                   | アンビエント作品として対になる構成を提示      |
+| 1999 | Neurot Recordings設立         | 制作・流通を自ら管理する体制を構築         |
 
-> By the end of the 1990s, Neurosis had moved beyond being a band and had laid the creative foundations that would later influence all of heavy music.
-
----
-
-## 2000s: Maturity of expression and further expansion
-
-In the 2000s, Neurosis didn't make a dramatic change of direction, but rather dug deeper into the expressions they had built up to that point.
-
-In his works from the 1990s, pressure and destructive power came to the fore.
-
-However, since the 2000s, while maintaining that strength, it has become more quiet and introspective.
-
-This was also the result of acquiring the courage to reduce noise.
-
-Even the time when the instruments are not playing becomes part of the work.
-
-It is precisely because of the silence that the next note has a strong meaning.
-
-### "A Sun That Never Sets"
-
-""A Sun That Never Sets,'' released in 2001, is a work that symbolizes this change.
-
-The traditional sense of weight is maintained, but the weight of the acoustic guitar and clean tone increases, creating an overall spacious sound image.
-
-In addition to the wild shouting, there are also more scenes of low singing.
-
-As a result, the entire work has an atmosphere that gives a sense of ""nature" and ""the flow of time."
-
-As the album title suggests, the world view where light and darkness coexist runs through the entire album.
-
-### "The Eye of Every Storm"
-
-2004's The Eye of Every Storm further strengthens this trend.
-
-In this work, there are many songs that are more impressive during quiet moments than during intense scenes.
-
-The tempo is slow, and each note resonates for a long time.
-
-There are moments when it feels more like an epic soundscape piece than a metal piece.
-
-Even so, the overwhelming sense of weight typical of Neurosis has not been lost.
-
-"Intensity" and "tranquility" are not opposed to each other, but coexist as complements to each other.
-
-### The change of maturity
-
-At this time, Neurosis was entering a stage where they were refining the expressions they had cultivated up to that point, rather than adding new techniques one after another.
-
-Therefore, at first glance, it is difficult to notice any major changes.
-
-However, if you listen to the details, you will notice that the sound placement and spatial design have become more precise than ever before.
-
-Rather than showing off the weight, let it exist naturally.
-
-That was Neurosis after the 2000s.
-
-> In the 2000s, Neurosis further enhanced its uniqueness through depth of expression rather than explosive power.
+> 1990年代の終わりまでに、Neurosisは一つのバンドという枠を超え、後のヘヴィミュージック全体に影響を及ぼす創造的な基盤を築き上げていた。
 
 ---
 
-## "Given to the Rising" and maturity
+## 2000年代──表現の成熟とさらなる拡張
 
-2007's ""Given to the Rising'' is a perfect fusion of the aggressiveness from their early days and the quiet expression cultivated in the 2000s.
+2000年代に入ると、Neurosisは劇的な方向転換を行うのではなく、それまで築き上げた表現をさらに深く掘り下げていく。
 
-This work is said to be a summary of Neurosis' career.
+1990年代の作品では、重圧や破壊力が前面に出ていた。
 
-long song structure,
+しかし2000年代以降は、その力強さを保ちながらも、より静かで内省的な側面が強くなっていく。
 
-heavy guitar,
+これは「音を減らす勇気」を身につけた結果でもあった。
 
-drone,
+楽器が鳴っていない時間さえ、作品の一部として成立する。
 
-electronic sound,
+静寂があるからこそ、次に訪れる一音が強い意味を持つのである。
 
-ethnic elements,
+### 『A Sun That Never Sets』
 
-Ambient.
+2001年に発表された『A Sun That Never Sets』は、その変化を象徴する作品である。
 
-All of them are connected in a natural way.
+従来の重量感は維持されているが、アコースティックギターやクリーントーンの比重が増え、全体として開放感のある音像が広がる。
 
-No particular element stands out, and the entire work functions like one giant organism.
+荒々しいシャウトだけではなく、低く歌い上げる場面も増えた。
 
-### Mature vocals
+その結果、作品全体に「自然」や「時間の流れ」を感じさせる空気が生まれている。
 
-Scott Kelly and Steve Von Till's vocals have also fully matured by this time.
+アルバムタイトルが示すように、光と闇が共存する世界観が全編を貫いている。
 
-He doesn't just bring out his anger like he did when he was younger.
+### 『The Eye of Every Storm』
 
-With the added depth and persuasive power that came from a long career, the range of emotional expression has expanded greatly.
+2004年の『The Eye of Every Storm』では、その傾向がさらに強まる。
 
-Both shouts and songs are inevitably placed within the flow of the work.
+本作では、激しい場面よりも静かな時間の方が印象的な楽曲も少なくない。
 
-### Interaction with Live
+テンポはゆっくりと進み、一つひとつの音が長く響く。
 
-The songs on ""Given to the Rising'' gain even more presence when performed live.
+メタル作品というより、壮大なサウンドスケープ作品に近い感覚を持つ瞬間もある。
 
-During the quiet intro, the entire venue is filled with tension, and at the climax, a huge wall of sound engulfs the audience.
+それでも、Neurosisらしい圧倒的な重量感は失われていない。
 
-The mutually complementary relationship between studio work and live work has not changed during this period.
+「激しさ」と「静けさ」が対立するものではなく、互いを引き立てる存在として共存しているのである。
 
-> ""Given to the Rising'' was a work that brought together the musical ideas that Neurosis had accumulated over many years.
+### 成熟という変化
 
----
+この時期のNeurosisは、新しい技法を次々に追加するのではなく、それまで培った表現をより洗練させていく段階に入っていた。
 
-## "Honor Found in Decay" and beyond
+そのため、一見すると大きな変化は感じにくい。
 
-With 2012's Honor Found in Decay, Neurosis moves even further toward emphasizing white space.
+しかし細部を聴き込むと、音の配置や空間設計は以前にも増して緻密になっている。
 
-The playing time is long;
+重さを誇示するのではなく、自然に存在させる。
 
-The tempo is slow;
+それが2000年代以降のNeurosisだった。
 
-The number of sounds is kept to the minimum necessary.
-
-Despite this, the tension throughout the work is maintained until the end.
-
-This expression was only possible because of the compositional skills cultivated over many years.
-
-### Construction rather than improvisation
-
-Neurosis isn't the type of band that uses a lot of improvisation even in their live performances.
-
-Even in scenes where it feels like they are playing freely, many of them are meticulously designed.
-
-Because all performers share the flow of the entire piece, the meaning of each note is not lost.
-
-### Evolution of sound design
-
-By this time, electronic sounds and environmental sounds were completely integrated into the songs.
-
-Listeners become immersed in the work without being aware of whether it is a guitar, noise, or natural sounds.
-
-Blurring the boundaries itself became the aesthetic of Neurosis.
-
-> ""Honor Found in Decay'' can be said to be one of the completed forms that Neurosis has reached as a mature artist.
+> 2000年代のNeurosisは、爆発力ではなく表現の深さによって独自性をさらに高めていった。
 
 ---
 
-## Relationship with the word post metal
+## 『Given to the Rising』と円熟期
 
-Currently, Neurosis is often introduced as a representative of "post-metal."
+2007年発表の『Given to the Rising』では、初期から続く攻撃性と、2000年代に培われた静かな表現が見事に融合した。
 
-However, the band itself has not actively used this genre name.
+この作品は、Neurosisのキャリアを総括するような内容とも言われる。
 
-In fact, the term "post-metal" was not popular in the 1990s, and was only established by critics and listeners in later years.
+長尺の楽曲構成、
 
-### Why "post"?
+重厚なギター、
 
-The prefix "post" does not simply mean "after."
+ドローン、
 
-Traditional metals focused on
+電子音、
 
-* Speed
-* Technique
-* Riff-centered composition
+民族的な要素、
 
-This means that he distanced himself from such values ​​and opened up a new method of expression.
+アンビエント。
 
-Neurosis didn't deny metal.
+それらすべてが自然な形で結び付けられている。
 
-Rather, it expanded its vocabulary.
+特定の要素だけが突出することはなく、作品全体が一つの巨大な有機体のように機能している。
 
-### Music that transcends genres
+### 円熟したボーカル
 
-Their works include
+Scott KellyとSteve Von Tillのボーカルも、この時期には完全に成熟している。
 
-* Hardcore Punk
-* Sludge metal
-* Doom Metal
-* Ambient
-* fork
-* Industrial
-* Drone
+若い頃のような怒りを前面に押し出すだけではない。
 
-Various elements such as these coexist.
+長いキャリアを経たことで生まれた深みや説得力が加わり、感情表現の幅が大きく広がった。
 
-Therefore, it is difficult to explain using only one genre name.
+叫びも歌も、それぞれが作品の流れの中で必然的に配置されている。
 
-Even now, many music media introduce Neurosis using multiple genre names.
+### ライブとの相互作用
 
-### Music that creates an "atmosphere"
+『Given to the Rising』の楽曲は、ライブで演奏されることでさらに存在感を増す。
 
-The biggest feature of Neurosis is that it builds an atmosphere rather than a riff.
+静かなイントロでは会場全体が緊張に包まれ、クライマックスでは巨大な音の壁が観客を飲み込む。
 
-reduce the number of sounds,
+スタジオ作品とライブ作品が相互に補完し合う関係は、この時期にも変わらない。
 
-extend the time,
+> 『Given to the Rising』は、Neurosisが長年積み重ねてきた音楽的思想を一つに集約した作品だった。
 
-Adopt silence,
+---
 
-Create a worldview that includes images and lighting.
+## 『Honor Found in Decay』とその後
 
-This idea became the basis for the later post-metal genre.
+2012年発表の『Honor Found in Decay』では、Neurosisはさらに余白を重視する方向へ進む。
+
+演奏時間は長く、
+
+テンポは遅く、
+
+音数は必要最小限に抑えられている。
+
+それにもかかわらず、作品全体の緊張感は最後まで維持されている。
+
+これは長年にわたり培われた構成力があってこそ実現できた表現だった。
+
+### 即興性より構築性
+
+Neurosisはライブでも即興演奏を多用するタイプではない。
+
+自由に演奏しているように感じられる場面でも、その多くは緻密に設計されている。
+
+演奏者全員が作品全体の流れを共有しているため、一音ごとの意味が失われない。
+
+### サウンドデザインの進化
+
+この時期になると、電子音や環境音は完全に楽曲へ溶け込んでいる。
+
+リスナーは、それがギターなのかノイズなのか、あるいは自然音なのかを意識することなく作品へ没入していく。
+
+境界を曖昧にすること自体が、Neurosisの美学となっていた。
+
+> 『Honor Found in Decay』は、Neurosisが成熟した表現者として到達した一つの完成形と言える。
+
+---
+
+## ポストメタルという言葉との関係
+
+現在、Neurosisは「ポストメタル」の代表格として紹介されることが多い。
+
+しかし、バンド自身はこのジャンル名を積極的に用いてきたわけではない。
+
+実際、1990年代には「ポストメタル」という言葉は一般化しておらず、後年になって評論家やリスナーによって定着していった。
+
+### なぜ「ポスト」なのか
+
+「ポスト」という接頭語は、「〜の後」という単純な意味ではない。
+
+従来のメタルが重視していた、
+
+* 速さ
+* 技巧
+* リフ中心の構成
+
+といった価値観から距離を置き、新たな表現方法を切り開いたことを意味している。
+
+Neurosisはメタルを否定したわけではない。
+
+むしろ、その語彙を広げたのである。
+
+### ジャンルを超える音楽
+
+彼らの作品には、
+
+* ハードコア・パンク
+* スラッジメタル
+* ドゥームメタル
+* アンビエント
+* フォーク
+* インダストリアル
+* ドローン
+
+など、多様な要素が共存している。
+
+そのため、一つのジャンル名だけで説明することは難しい。
+
+現在でも、多くの音楽メディアは複数のジャンル名を併記してNeurosisを紹介している。
+
+### 「雰囲気」を作る音楽
+
+Neurosis最大の特徴は、リフよりも「雰囲気」を構築する点にある。
+
+音数を減らし、
+
+時間を引き延ばし、
+
+静寂を取り入れ、
+
+映像や照明まで含めて世界観を作り上げる。
+
+こうした考え方が、後のポストメタルというジャンルの基礎になった。
 
 <div class="mermaid">
 graph TD
@@ -894,7 +894,7 @@ A[Hardcore Punk]
 -->B[Sludge Metal]
 
 B
--->C[Neurosis's unique expression]
+-->C[Neurosis独自の表現]
 
 C
 -->D[Ambient]
@@ -916,224 +916,224 @@ F
 
 </div>
 
-### Main steps from 2001 to 2012
+### 2001〜2012年の主な歩み
 
-| Year | Works | Features |
+| 年    | 作品                       | 特徴                 |
 | ---- | ------------------------ | ------------------ |
-| 2001 | "A Sun That Never Sets" | Further development of tranquility and openness |
-| 2004 | "The Eye of Every Storm" | A mature work that emphasizes spatiality |
+| 2001 | 『A Sun That Never Sets』  | 静けさと開放感をさらに発展      |
+| 2004 | 『The Eye of Every Storm』 | 空間性を重視した成熟作        |
 | 2007 | "Given to the Rising" | A masterpiece from a mature period that combines aggression and serenity |
 | 2012 | "Honor Found in Decay" | A work that heightens blank space and tension to the utmost |
 
-> From the 2000s to the early 2010s, Neurosis became unique by continuing to refine the expression they had created, without following trends.
+> 2000年代から2010年代前半にかけて、Neurosisは流行を追うことなく、自ら築いた表現を磨き続けることで唯一無二の存在となっていった。
 
 ---
 
-## Influence on subsequent artists: "Before Neurosis" and "After Neurosis"
+## 後続アーティストへの影響──「Neurosis以前」と「Neurosis以後」
 
-When discussing Neurosis' achievements, the most important thing is not how many copies they sold.
+Neurosisの功績を語る際、最も重要なのは「何枚売れたか」ではない。
 
-Their true value lies in the fact that they rewrote the very way heavy music was made after that.
+彼らの真価は、その後のヘヴィミュージックの作り方そのものを書き換えたことにある。
 
-Until the 1980s, heavy metal music centered around riffs, solos, and performance techniques.
+1980年代までのヘヴィメタルでは、リフやソロ、演奏技術が楽曲の中心だった。
 
-Of course, Neurosis also has some powerful riffs.
+もちろんNeurosisにも強力なリフは存在する。
 
-However, they placed more emphasis on composing ""time" and ""space."
+しかし彼らは、それ以上に「時間」と「空間」を作曲することへ重点を置いた。
 
-This idea has been inherited by many bands since the 2000s.
+この発想は2000年代以降、多くのバンドに受け継がれていく。
 
-It has now become commonplace,
+現在では当たり前となった、
 
-* Long songs
-* Development from silence to explosion
-* Introducing ambient
-* Live experience including video production
-* The idea of ​​constructing the entire album as one work
+* 長尺の楽曲
+* 静寂から爆発への展開
+* アンビエントの導入
+* 映像演出を含めたライブ体験
+* アルバム全体を一つの作品として構築する考え方
 
-These were never common before Neurosis.
+これらはNeurosis以前には決して一般的なものではなかった。
 
-Of course, there were other artists who were experimenting with their work.
+もちろん、他にも実験的な試みを行っていたアーティストは存在する。
 
-However, Neurosis' name is indispensable as an entity that has consistently put these ideas into practice in the context of heavy music and has had a major influence.
+しかし、それらをヘヴィミュージックの文脈で一貫して実践し、大きな影響を与えた存在としてNeurosisの名前は欠かせない。
 
-> Neurosis was a band that changed the way we think about music rather than creating a new genre.
+> Neurosisは「新しいジャンルを作った」というより、「音楽の考え方そのもの」を変えたバンドだった。
 
 ---
 
-## The generation that inherited post-metal
+## ポストメタルを継承した世代
 
-There are many bands that have openly said they were influenced by Neurosis, or have been praised for having strongly inherited their musicality.
+Neurosisの影響を公言、あるいは音楽性から強く受け継いでいると評価されるバンドは数多い。
 
-Among these, the following generations are considered to be particularly important.
+その中でも特に重要とされるのが以下の世代である。
 
 ### Isis
 
-America's Isis is the band that made the term "post-metal" widely known.
+アメリカのIsisは、ポストメタルという言葉が広く知られるきっかけとなった存在である。
 
-long intro,
+長いイントロ、
 
-repeated riffs,
+繰り返されるリフ、
 
-quiet ambient,
+静かなアンビエント、
 
-A huge climax.
+巨大なクライマックス。
 
-This composition strongly reflects the ideas inherited from Neurosis.
+こうした構成にはNeurosisから受け継がれた思想が色濃く反映されている。
 
-However, Isis aimed for a more transparent sound and developed it in its own unique direction.
+ただし、Isisはより透明感のあるサウンドを志向し、独自の方向へ発展させた。
 
 ### Cult of Luna
 
-Cult of Luna from Sweden is known as a band that was heavily influenced by Neurosis in terms of spatial design.
+スウェーデンのCult of Lunaは、空間設計という点でNeurosisの影響を強く受けたバンドとして知られる。
 
-The visual song structure and grand sense of scale continue the flow of Neurosis, while developing into a cold sound image typical of Scandinavia.
+映像的な楽曲構成や壮大なスケール感は、Neurosisの流れを受け継ぎながら北欧らしい冷たい音像へ発展している。
 
 ### Pelican
 
-Pelican is a post-metal band that focuses on instrumental music.
+Pelicanはインストゥルメンタルを中心としたポストメタル・バンドである。
 
-Even though there are no vocals, the composition depicting a scene with just the songs gives a sense of the influence of Neurosis.
+ボーカルが存在しないにもかかわらず、楽曲だけで情景を描く構成はNeurosisの影響を感じさせる。
 
 ### Amenra
 
-Belgium's Amenra has much in common with Neurosis in that they combine religious and spiritual themes with live production.
+ベルギーのAmenraは、宗教的・精神的なテーマをライブ演出と融合させる点でNeurosisとの共通点が多い。
 
-The dynamics that go from silence to explosion are often talked about as part of that lineage.
+静寂から爆発へ向かうダイナミクスも、その系譜として語られることが多い。
 
 ### Russian Circles
 
-Russian Circles can be described in the context of instrumental rock, but the way the songs are constructed overall shows a post-metal influence that continued from Neurosis.
+Russian Circlesはインストゥルメンタル・ロックの文脈でも語られるが、楽曲全体の構築方法にはNeurosisから続くポストメタルの影響が見られる。
 
-> Many subsequent bands did not imitate Neurosis, but developed the idea in their own ways.
+> 多くの後続バンドはNeurosisを模倣したのではなく、その発想をそれぞれの方法で発展させていった。
 
 ---
 
-## Influences that transcend genres
+## ジャンルを越えて広がった影響
 
-Neurosis' influence extends beyond post-metal.
+Neurosisの影響は、ポストメタルだけにとどまらない。
 
-### Post Lock
+### ポストロック
 
-It has been compared to post-rock works such as Godspeed You! Black Emperor and Mono.
+Godspeed You! Black EmperorやMonoなどのポストロック作品と比較されることもある。
 
-Of course, the direct lineage is different.
+もちろん直接的な系譜は異なる。
 
-but,
+しかし、
 
-Silence,
+静寂、
 
-long-term development,
+長時間の展開、
 
-There are many common elements, such as a structure that emphasizes the climax.
+クライマックスを重視する構成など、共通する要素は少なくない。
 
-### Drone Music
+### ドローン・ミュージック
 
-It also has a high affinity with drone works that focus on long-lasting sounds.
+長時間持続する音を中心としたドローン作品との親和性も高い。
 
-In Neurosis, sustained sounds that vibrate the entire space play an important role, rather than just noise.
+Neurosisでは、単なるノイズではなく、空間全体を震わせる持続音が重要な役割を果たしている。
 
-### Experimental Music
+### エクスペリメンタル・ミュージック
 
-His attitude of not being bound by genre is also appreciated by many experimental musicians.
+ジャンルに縛られない姿勢も、多くの実験音楽家に評価されている。
 
-Although they are metal,
+彼らはメタルでありながら、
 
-folk music,
+民族音楽、
 
-environmental sounds,
+環境音、
 
 ambient,
 
-electronic sound,
+電子音、
 
-Field recordings were incorporated naturally.
+フィールドレコーディングなどを自然に取り入れた。
 
-This flexibility is highly valued in the current experimental music scene.
+この柔軟性は、現在の実験音楽シーンでも高く評価されている。
 
-> Neurosis was an influence not only on heavy music, but also on acoustic work as a whole.
-
----
-
-## Contribution to live culture
-
-Neurosis live shows are not just a place to recreate songs.
-
-playing,
-
-illumination,
-
-picture,
-
-air,
-
-volume,
-
-silence.
-
-All of them are designed as part of the work.
-
-### From "watching" to "immersing"
-
-At a typical rock concert, the audience focuses on watching the performers.
-
-However, at Neurosis, the entire space is transformed into a work of art using gigantic images and lighting.
-
-Rather than looking at the stage, the audience experiences the sensation of entering the space.
-
-This immersive live performance can now be seen in a variety of genres.
-
-### Meaning of volume
-
-Neurosis live shows are also known for being extremely loud.
-
-However, the purpose is not just to be impressive.
-
-By feeling the bass throughout your body, you create an experience that goes beyond just your hearing.
-
-Huge drones and bass sounds affect not only your ears, but your entire body.
-
-This physicality is also an important element that characterizes Neurosis' live performances.
-
-### Relationship with the audience
-
-MC is minimal.
-
-There are few flashy performances.
-
-Even so, the audience's concentration remained intact.
-
-This is because the live performance itself is a work of art.
-
-> Neurosis has evolved live music from entertainment to an immersive artistic experience.
+> Neurosisはヘヴィミュージックだけでなく、音響作品全体にも影響を与えた存在だった。
 
 ---
 
-## Discography timeline
+## ライブ文化への貢献
 
-| Year | Works | Category |
+Neurosisのライブは、単に楽曲を再現する場ではない。
+
+演奏、
+
+照明、
+
+映像、
+
+空気、
+
+音量、
+
+沈黙。
+
+それらすべてが作品の一部として設計されている。
+
+### 「観る」から「没入する」へ
+
+一般的なロックコンサートでは、観客は演奏者を見ることが中心になる。
+
+しかしNeurosisでは、巨大な映像と照明によって空間全体が作品化される。
+
+観客はステージを見るというより、その空間へ入り込む感覚を体験する。
+
+この没入型ライブは、現在ではさまざまなジャンルで見られるようになった。
+
+### 音量の意味
+
+Neurosisのライブは非常に大きな音量でも知られる。
+
+しかし、その目的は単なる迫力ではない。
+
+身体全体で低音を感じることで、聴覚だけではない体験を作り出している。
+
+巨大なドローンや低音は、耳だけでなく身体全体へ作用する。
+
+この身体性もNeurosisのライブを特徴づける重要な要素である。
+
+### 観客との関係性
+
+MCは最小限。
+
+派手なパフォーマンスも少ない。
+
+それでも観客の集中力は途切れない。
+
+それは、ライブそのものが一つの作品として成立しているからである。
+
+> Neurosisはライブをエンターテインメントではなく、没入型の芸術体験へと発展させた。
+
+---
+
+## ディスコグラフィ年表
+
+| 年    | 作品                      | 区分       |
 | ---- | ----------------------- | -------- |
-| 1987 | Pain of Mind | Studio Album |
-| 1989 | The Word as Law | Studio Album |
-| 1992 | Souls at Zero | Studio Album |
+| 1987 | Pain of Mind            | スタジオアルバム |
+| 1989 | The Word as Law         | スタジオアルバム |
+| 1992 | Souls at Zero           | スタジオアルバム |
 | 1993 | Enemy of the Sun | Studio album |
-| 1996 | Through Silver in Blood | Studio Album |
-| 1999 | Times of Grace | Studio Album |
-| 1999 | Grace | Ambient works |
-| 2001 | A Sun That Never Sets | Studio Album |
-| 2004 | The Eye of Every Storm | Studio Album |
-| 2007 | Given to the Rising | Studio Album |
+| 1996 | Through Silver in Blood | スタジオアルバム |
+| 1999 | Times of Grace          | スタジオアルバム |
+| 1999 | Grace                   | アンビエント作品 |
+| 2001 | A Sun That Never Sets   | スタジオアルバム |
+| 2004 | The Eye of Every Storm  | スタジオアルバム |
+| 2007 | Given to the Rising     | スタジオアルバム |
 | 2012 | Honor Found in Decay | Studio Album |
-| 2016 | Fires Within Fires | Studio Album |
+| 2016 | Fires Within Fires      | スタジオアルバム |
 
 ---
 
-## History of the band
+## バンドの歩み
 
 <div class="mermaid">
 flowchart LR
 
-A[1985 Formed]
+A[1985 結成]
 -->B[Hardcore Punk]
 
 B
@@ -1167,7 +1167,7 @@ J
 
 ---
 
-## Changes in musicality
+## 音楽性の変遷
 
 <div class="mermaid">
 flowchart TD
@@ -1185,14 +1185,14 @@ D
 -->E[Folk]
 
 E
--->F[Video production]
+-->F[映像演出]
 
 F
 -->G[Post-Metal]
 
 </div>
 
-> Over the course of over 30 years of activity, Neurosis has consistently updated their expression and built a unique creativity that will remain in the history of heavy music.
+> 約30年以上にわたる活動を通じて、Neurosisは一貫して自らの表現を更新し続け、ヘヴィミュージックの歴史に残る独自の創造性を築き上げていった。
 
 ---
 
@@ -1200,134 +1200,134 @@ F
 
 ## Why Neurosis is still special
 
-Looking back at the history of music, there are many artists who can be said to have ""created a new genre.''
+音楽史を振り返ると、「新しいジャンルを生み出した」と語られるアーティストは数多く存在する。
 
 However, the ones who have truly brought about major changes have changed the way we think about music, rather than the name of the genre.
 
-Neurosis is a perfect example of this.
+Neurosisはまさにその代表例である。
 
-They distanced themselves from the 1980s heavy music values ​​of ""faster" and ""more intense" and pushed elements that had previously played a supporting role, such as ""time," ""space," ""texture," and ""silence," to the center of their work.
+彼らは「より速く」「より激しく」という1980年代ヘヴィミュージックの価値観から距離を置き、「時間」「空間」「質感」「沈黙」といった、それまで脇役だった要素を作品の中心へ押し上げた。
 
-As a result, heavy music is no longer just a competition for aggressiveness, but has expanded its possibilities for expression that accumulates emotions over a long period of time.
+その結果、ヘヴィミュージックは単なる攻撃性を競うものではなく、長い時間をかけて感情を積み重ねる表現へと可能性を広げた。
 
-Nowadays, many artists use compositions that move from silence to explosion.
+現在では、多くのアーティストが静寂から爆発へ向かう構成を採用している。
 
-It is not uncommon to incorporate ambient music and drones.
+アンビエントやドローンを取り入れることも珍しくない。
 
-However, in the early 1990s, there were very few types of heavy music that blended these elements so naturally.
+しかし1990年代初頭、それらをここまで自然に融合したヘヴィミュージックは極めて少数だった。
 
-Rather than inventing new techniques, Neurosis integrated disparate cultures into a single work.
+Neurosisは新しい技法を発明したというより、それぞれ異なる文化を一つの作品へ統合したのである。
 
 > The innovation of Neurosis lies not only in creating new sounds, but also in presenting new ways of listening.
 
 ---
 
-## A band that changed the concept of "weight"
+## 「重さ」の概念を変えたバンド
 
-In heavy music, the word "heavy" has long meant volume, distortion, and bass strength.
+ヘヴィミュージックにおいて、「重い」という言葉は長年、音量や歪み、低音の強さを意味してきた。
 
-Neurosis has rewritten its very meaning.
+Neurosisは、その意味そのものを書き換えた。
 
-Their weight is not just a simple guitar sound.
+彼らの重さは、単純なギターサウンドではない。
 
-Time passes slowly,
+ゆっくり流れる時間、
 
-A long silence,
+長く続く静寂、
 
-fewer sounds,
+少ない音数、
 
-Bass that dominates the entire space,
+空間全体を支配する低音、
 
-And a composition that maintains a sense of tension.
+そして緊張感を持続させる構成。
 
-All of these things combined create a sense of spiritual weight.
+それらすべてが組み合わさることで、精神的な重量感が生み出される。
 
-In other words, the feeling is not that the work is heavy because the sound is loud, but that the work as a whole is heavy.
+つまり、「音が大きいから重い」のではなく、「作品全体が重い」という感覚である。
 
-This idea became a method of expression that was applicable not only to post-metal, but also to post-rock, drone, ambient, and even film music.
+この考え方は、その後のポストメタルだけでなく、ポストロックやドローン、アンビエント、さらには映画音楽の分野にも通じる表現方法となった。
 
-> Neurosis expressed "heaviness" not through physical volume, but through the overall structure of the piece.
+> Neurosisは「ヘヴィネス」を物理的な音量ではなく、作品全体の構造によって表現した。
 
 ---
 
-## An attitude that does not conform to trends
+## 流行に迎合しなかった姿勢
 
 From the 1980s to the present, heavy music trends have changed many times.
 
-The rise of thrash metal.
+スラッシュメタルの隆盛。
 
-Expansion of death metal.
+デスメタルの拡大。
 
-The rise of black metal.
+ブラックメタルの台頭。
 
-nu metal trend.
+ニューメタルの流行。
 
-Popularity of metal core.
+メタルコアの人気。
 
-The appearance of Gent.
+ジェントの登場。
 
-Neurosis has rarely consciously changed direction in these trends.
+Neurosisは、それらの流れを意識して方向転換したことはほとんどない。
 
-Although changes continue with each work, these changes are always born from within.
+作品ごとに変化は続けながらも、その変化は常に自らの内側から生まれている。
 
-That's why, even when listening to his works spanning over 30 years, there is no sense of unnatural disconnection.
+だからこそ、30年以上にわたる作品群を通して聴いても、不自然な断絶を感じさせない。
 
-Although each piece is different, they are all connected as one long story.
+一枚ごとの違いはあっても、すべてが一本の長い物語としてつながっている。
 
-This consistency is one of the reasons why he is respected by so many listeners and artists.
+この一貫性こそ、多くのリスナーやアーティストから尊敬を集める理由の一つである。
 
-> Neurosis' greatest strength was their attitude of continuing to refine their own expression rather than adapting to the times.
-
----
-
-## Uniqueness as a band
-
-Neurosis doesn't have any players with outstanding skill.
-
-There are no super-fast guitar solos, and there are few times when they flaunt complex odd time signatures.
-
-However, the overall quality of the work is extremely high because each performer does not make any more of an argument than is necessary.
-
-Two vocalists: Scott Kelly and Steve Von Till.
-
-Bass and sound design by Dave Edwardson.
-
-Solid drumming by Jason Roeder.
-
-Furthermore, the visual work of Josh Graham, who has supported live footage for many years.
-
-Each of them has functioned as a "part of the work" rather than a "main character."
-
-This collective nature is an essential feature when talking about the band Neurosis.
-
-> Neurosis has focused on building a piece of work as a group rather than on individual skills.
+> 時代に合わせるのではなく、自らの表現を磨き続けた姿勢がNeurosisの最大の強みだった。
 
 ---
 
-## Chronology
+## バンドとしての独自性
 
-| Year | Events |
-| ------ | ------------------------------------------ |
-| 1985 | Formed in Oakland, California |
-| 1987 | "Pain of Mind" announced |
-| 1989 | "The Word as Law" published |
-| 1992 | "Souls at Zero" announced |
-| 1993 | "Enemy of the Sun" announced |
-| 1996 | "Through Silver in Blood" announced |
-| 1999 | "Times of Grace" and "Grace" released, Neurot Recordings established |
-| 2001 | "A Sun That Never Sets" announced |
-| 2004 | "The Eye of Every Storm" announced |
-| 2007 | "Given to the Rising" announced |
-| 2012 | "Honor Found in Decay" announced |
-| 2016 | "Fires Within Fires" announced |
-| 2022 | It is announced that Scott Kelly will be leaving the band |
-| After 2022 | The band has been suspended, and there are no new releases or tours |
+Neurosisには、突出した技巧を前面に押し出すプレイヤーはいない。
 
-> The progress that has been made since 1985 has become a trajectory that rewrites the history of heavy music itself.
+超高速ギターソロもなければ、複雑な変拍子を誇示することも少ない。
+
+しかし、それぞれの演奏者が必要以上に主張しないことで、作品全体の完成度は非常に高い。
+
+Scott KellyとSteve Von Tillの二人のボーカル。
+
+Dave Edwardsonによる低音とサウンドデザイン。
+
+Jason Roederによる安定したドラミング。
+
+さらに長年ライブ映像を支えてきたJosh Grahamのビジュアルワーク。
+
+それぞれが「主役」ではなく、「作品の一部」として機能してきた。
+
+この集団性は、Neurosisというバンドを語る上で欠かせない特徴である。
+
+> Neurosisは個人技ではなく、集団として一つの作品を築き上げることを重視してきた。
 
 ---
 
-## What Neurosis leaves behind
+## 年表
+
+| 年      | 出来事                                           |
+| ------ | --------------------------------------------- |
+| 1985   | カリフォルニア州オークランドで結成                             |
+| 1987   | 『Pain of Mind』発表                              |
+| 1989   | 『The Word as Law』発表                           |
+| 1992   | 『Souls at Zero』発表                             |
+| 1993   | 『Enemy of the Sun』発表                          |
+| 1996   | 『Through Silver in Blood』発表                   |
+| 1999   | 『Times of Grace』『Grace』発表、Neurot Recordings設立 |
+| 2001   | 『A Sun That Never Sets』発表                     |
+| 2004   | 『The Eye of Every Storm』発表                    |
+| 2007   | 『Given to the Rising』発表                       |
+| 2012   | 『Honor Found in Decay』発表                      |
+| 2016   | 『Fires Within Fires』発表                        |
+| 2022   | Scott Kellyがバンドから離脱することが公表される                 |
+| 2022以降 | バンドは活動停止状態となり、新作やツアーは行われていない                  |
+
+> 1985年から積み重ねられた歩みは、ヘヴィミュージックの歴史そのものを書き換える軌跡となった。
+
+---
+
+## Neurosisが残したもの
 
 <div class="mermaid">
 flowchart TD
@@ -1342,10 +1342,10 @@ B
 -->D[Atmospheric Sludge]
 
 B
--->E[Live expression including video production]
+-->E[映像演出を含むライブ表現]
 
 B
--->F[DIY label management]
+-->F[DIYレーベル運営]
 
 C
 -->G[Isis]
@@ -1363,48 +1363,48 @@ C
 -->K[Russian Circles]
 
 E
--->L[immersive live culture]
+-->L[没入型ライブ文化]
 
 F
--->M[Development of underground culture]
+-->M[アンダーグラウンド文化の発展]
 
 </div>
 
 ---
 
-## Discography list
+## ディスコグラフィ一覧
 
-| Year | Title | Type |
+| 年    | タイトル                    | 種別                      |
 | ---- | ----------------------- | ----------------------- |
-| 1987 | Pain of Mind | Studio Album |
-| 1989 | The Word as Law | Studio Album |
-| 1992 | Souls at Zero | Studio Album |
-| 1993 | Enemy of the Sun | Studio Album |
-| 1996 | Through Silver in Blood | Studio Album |
-| 1999 | Times of Grace | Studio Album |
-| 1999 | Grace | Ambient Companion Album |
-| 2001 | A Sun That Never Sets | Studio Album |
-| 2004 | The Eye of Every Storm | Studio Album |
-| 2007 | Given to the Rising | Studio Album |
-| 2012 | Honor Found in Decay | Studio Album |
-| 2016 | Fires Within Fires | Studio Album |
+| 1987 | Pain of Mind            | Studio Album            |
+| 1989 | The Word as Law         | Studio Album            |
+| 1992 | Souls at Zero           | Studio Album            |
+| 1993 | Enemy of the Sun        | Studio Album            |
+| 1996 | Through Silver in Blood | Studio Album            |
+| 1999 | Times of Grace          | Studio Album            |
+| 1999 | Grace                   | Ambient Companion Album |
+| 2001 | A Sun That Never Sets   | Studio Album            |
+| 2004 | The Eye of Every Storm  | Studio Album            |
+| 2007 | Given to the Rising     | Studio Album            |
+| 2012 | Honor Found in Decay    | Studio Album            |
+| 2016 | Fires Within Fires      | Studio Album            |
 
 ---
 
 ## summary
 
-Starting from hardcore punk, Neurosis has expanded the possibilities of heavy music by fusing diverse musical elements such as metal, ambient, industrial, folk, and drone.
+Neurosisは、ハードコア・パンクから出発しながら、メタル、アンビエント、インダストリアル、フォーク、ドローンなど多様な音楽的要素を融合し、ヘヴィミュージックの可能性を大きく押し広げた。
 
-His path has not been one of following trends, but rather a long history of exploration that continues to update his own expression little by little.
+その歩みは流行を追うものではなく、自らの表現を少しずつ更新し続ける長い探求の歴史だった。
 
-The term "post-metal" is just a name given later.
+「ポストメタル」という言葉は後から与えられた呼称に過ぎない。
 
-What Neurosis actually did was not create a genre, but develop heavy music into a comprehensive art that encompasses time, space, images, and physical sensations.
+Neurosisが実際に行ったことは、ジャンルを作ることではなく、ヘヴィミュージックを時間・空間・映像・身体感覚まで含めた総合的な芸術へと発展させたことだった。
 
-The expressions they created have been passed down to many artists today, and continue to be interpreted by new generations.
+彼らが築いた表現は、現在でも数多くのアーティストに受け継がれ、新しい世代によって解釈され続けている。
 
-Neurosis, whose influence goes beyond commercial success alone, is essential to understanding contemporary heavy music, and their work continues to attract new listeners.
+商業的な成功だけでは測れない影響力を持つNeurosisは、現代のヘヴィミュージックを理解するうえで欠かすことのできない存在であり、その作品群は今なお新たな聴き手を惹きつけ続けている。
 
-> The history of Neurosis is not a success story of one band, but a history of creation that expanded the expressive field of heavy music itself.
+> Neurosisの歴史は、一つのバンドの成功物語ではなく、ヘヴィミュージックという表現領域そのものを拡張した創造の歴史だった。
 
 ---

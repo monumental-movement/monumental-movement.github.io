@@ -14,13 +14,13 @@ title: Lamb – God Bless
 
 
 
-Lamb is an electronic duo from Manchester, England whose style is a fusion of trip-hop, jungle, dub, drum & bass, and jazz. He is best known for his hit singles "Gorecki" and "Gabriel."
+Lamb(ラム)は、トリップホップ、ジャングル、ダブ、ドラム&ベース、ジャズを融合させたスタイルが特徴の、イギリス・マンチェスターのエレクトロニック・デュオ。ヒットシングル「Gorecki」「Gabriel」でよく知られている。
 
-"God Bless" is a Drum n Bass/Trip Hop track released as a maxi single from the debut studio album "Lamb" released by Fontana in 1996.
+「God Bless 」は、1996年にレーベルFontanaリリースされたデビュースタジオアルバム『Lamb』からのマキシシングルとしてリリースされたDrum n Bass／Trip Hopトラック。
 
-B1 is a remix by UK producer Luke Vibert, also known as Plug and Wagon Christ.
+B1は、 Plug や Wagon Christ名義でも知られるUKのプロデューサーLuke Vibertによるリミックス。
 
-B2 is a remix by Andrea Parker, known for the album "Kiss My Arp" released on Mo' Wax.
+B2は、Mo' Waxからリリースしたアルバム『Kiss My Arp』で知られるAndrea Parkerによるリミックス。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ B1. God Bless (Wagon Christ Mix)
 B2. God Bless (Godless Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m52517778000?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52517778000?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N9lQjEtiMp0?si=KToyJfoBaaXLo9Ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,7 +14,7 @@ title: Rebecca – Blond Saurus
 ---
 
 
-"Blond Saurus", released in 1989, is Rebecca's seventh album, produced by François Carbocan (François K), and her last original album.
+1989年にリリースされた「Blond Saurus」は、プロデューサーにフランソワ・カーボキャン(フランソワK)を迎えた、Rebecca(レベッカ)7枚目のアルバムであり、レベッカ最後のオリジナルアルバム。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ title: Rebecca – Blond Saurus
 10. One Way Or Another
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m41701755020?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41701755020?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jXrlUcJpkMg?si=HJ7ffC3sCX-uvsVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

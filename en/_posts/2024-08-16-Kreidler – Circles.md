@@ -15,9 +15,9 @@ title: Kreidler – Circles
 ---
 
 
-Kreidler is a band formed in Düsseldorf, Germany in 1994. Fusing electronic and acoustic instruments, they incorporate various styles such as techno, electropop, avant-garde, post-rock, ambient, electronica, and krautrock depending on the release.
+Kreidlerは、1994年にドイツ・デュッセルドルフで結成されたバンド。エレクトロニックとアコースティック楽器を融合し、リリースに応じてテクノ、エレクトロポップ、アバンギャルド、ポストロック、アンビエント、エレクトロニカ、クラウトロックなど様々なスタイルを取り入れている。
 
-"Circles" was released in 2000 on the German label Wonder, founded by Jutta Bächner.
+「Circles」は、Jutta Bächnerが設立したドイツのレーベルWonderから2000年にリリースされた。
 
 #### Tracklist
 ```md

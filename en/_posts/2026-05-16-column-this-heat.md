@@ -10,20 +10,20 @@ tags:
 - Post Punk
 - Experimental
 - Avant-Garde
-title: '[Column] This Heat: The deepest part of post-punk recorded in an era of discontinuity'
+title: '【コラム】 This Heat: 断絶の時代を録音したポストパンク最深部'
 ---
 
 
-## What was This Heat?
+## This Heatとは何だったのか
 
-Text: mmr｜Theme: Cold War anxiety, urban confinement, the DIY spirit, and an obsession with recording technology itself. This Heat transformed post-punk into not just an update of rock, but an act of questioning sound itself.
+文：mmr｜テーマ：冷戦下の不安、都市の閉塞感、DIY精神、そして録音技術そのものへの執着。This Heatは、ポストパンクを単なるロックの更新ではなく、「音そのものを問い直す行為」へ変えた
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -31,131 +31,131 @@ color: #fff;
 }
 </style>
 
-In Britain in the late 1970s, post-punk music was rapidly branching out. Bands becoming more political, groups moving towards dance, artists moving closer to electronic music. Among them, This Heat was trying to dismantle the existing rock structure itself.
+1970年代後半のイギリスでは、パンク以後の音楽が急速に枝分かれしていた。より政治的になるバンド、ダンスへ向かうグループ、電子音楽へ接近するアーティスト。そのなかで、既存のロック構造そのものを分解しようとしていたのがThis Heatだった。
 
-Formed in 1976, This Heat was started by Charles Hayward, Charles Bullen and Gareth Williams. Although it is generally classified as post-punk, its music defies simple genre classification.
+1976年に結成されたThis Heatは、チャールズ・ヘイワード、チャールズ・ブレン、ガレス・ウィリアムズの3人によって始まった。一般的にはポストパンクに分類されることが多いが、その音楽は単純なジャンル分けを拒否している。
 
-They mixed repetitive funk, contemporary music, tape manipulation, improvisation, ambient sounds, minimal music, noise, and electronic sounds, and brought the tension of a rock band to the mix.
+彼らはファンクの反復、現代音楽、テープ操作、即興演奏、環境音、ミニマルミュージック、ノイズ、電子音を混ぜ合わせ、そこにロックバンドとしての緊張感を持ち込んだ。
 
-At a time when many post-punk bands were updating their performance style, This Heat was trying to change the very concept of recording.
+多くのポストパンクバンドが「演奏スタイル」を更新していた時代に、This Heatは「録音の概念」そのものを変えようとしていた。
 
-For them, the studio was not a place for recording. The studio itself was an instrument.
+彼らにとってスタジオは記録場所ではなかった。スタジオそのものが楽器だった。
 
 <div class="mermaid">
 graph TD
-A["Punk"] --> B["DIY spirit"]
-A --> C["Political unrest"]
-A --> D["Approaching experimental music"]
-B --> E["This Heat Formation"]
+A["Punk"] --> B["DIY精神"]
+A --> C["政治的不安"]
+A --> D["実験音楽への接近"]
+B --> E["This Heat結成"]
 C --> E
 D --> E
-E --> F["Tape editing"]
-E --> G["Improvisation"]
-E --> H["Noise and Repetition"]
+E --> F["テープ編集"]
+E --> G["即興演奏"]
+E --> H["ノイズと反復"]
 </div>
 
-At the end of the 1970s, Britain was surrounded by an ominous atmosphere, including an economic crisis, rising unemployment, strikes, the expansion of far-right groups, and fears of nuclear war. This Heat's music is directly imbued with the tensions of the era.
+1970年代末のイギリスは、経済危機、失業率の上昇、ストライキ、極右勢力の拡大、核戦争への恐怖など、不穏な空気に包まれていた。This Heatの音楽には、その時代の緊張が直接刻み込まれている。
 
-Their work is often described as "apocalyptic." However, it is not a staged darkness. The feeling of a time when cities and society were truly unstable has been firmly established in the sound.
+彼らの作品はしばしば「終末的」と形容される。しかし、それは演出的な暗さではない。都市と社会が本当に不安定化していた時代の感覚が、そのまま音として定着しているのである。
 
-> This Heat was shaking up the musical system itself, not from within the post-punk genre, but from outside it.
+> This Heatは、ポストパンクというジャンルの内部ではなく、その外側から音楽の仕組み自体を揺さぶっていた。
 
 
 ---
 
-## Background of the members
+## メンバーたちの背景
 
-### Charles Hayward
+### チャールズ・ヘイワード
 
-Charles Hayward was in Quiet Sun before This Heat. Quiet Sun was a progressive rock band with ties to Roxy Music, but Hayward gradually began to feel distant from the group due to its complex technical principles.
+チャールズ・ヘイワードは、This Heat以前にQuiet Sunで活動していた。Quiet Sunはロキシー・ミュージック周辺とも接点を持つプログレッシブロック系バンドだったが、ヘイワードは次第に複雑な技巧主義へ距離を感じるようになる。
 
-He wanted music that was more direct, more physical, and at the same time moved toward unknown sounds.
+彼はより直接的で、身体性を持ち、同時に未知の音へ向かう音楽を求めていた。
 
-Hayward as a drummer was very unique. Instead of stabilizing the beat, he breaks up the repetition little by little. Although the tempo is maintained, the listener feels as if the ground is distorting.
+ドラマーとしてのヘイワードは非常に独特だった。ビートを安定させるのではなく、反復を少しずつ崩していく。テンポは維持されているのに、聴いている側は地面が歪んでいく感覚に襲われる。
 
-This feeling had a strong influence on later post-rock and math rock.
+この感覚は後のポストロックやマスロックにも強い影響を与えた。
 
-### Charles Bullen
+### チャールズ・ブレン
 
-Charles Bullen was in charge of guitar, tape manipulation, and electronic sound processing. His guitar is completely different from a typical rock guitar.
+チャールズ・ブレンはギター、テープ操作、電子音処理を担当した。彼のギターは一般的なロックギターとはまったく異なる。
 
-Rather than building around riffs, they used fragmented noises, metallic resonances, repetitions, and sustained notes to create space.
+リフを中心に構築するのではなく、断片的なノイズ、金属的な響き、反復音、持続音を用いて空間を作り出していた。
 
-Sometimes you can"t even tell that it"s a guitar.
+時にはギターであることすら分からない音も多い。
 
-### Gareth Williams
+### ガレス・ウィリアムズ
 
-Gareth Williams was one of This Heat's most unpredictable players.
+ガレス・ウィリアムズはThis Heatのなかでも特に予測不能な存在だった。
 
-He took on a wide range of roles including keyboards, tape editing, singing, and percussion, and brought a strong sense of experimentation to the band.
+キーボード、テープ編集、歌、パーカッションなど幅広い役割を担い、バンドに強い実験性を持ち込んだ。
 
-Williams" sense is extremely fragmented, with a child"s-song-like melody appearing out of nowhere, then immediately descending into crumbling noise.
+ウィリアムズの感覚は極めて断片的で、突然子どもの歌のようなメロディが現れたかと思えば、直後に崩壊寸前のノイズへ移行する。
 
-This Heat's instability was exacerbated by his presence.
+This Heatの不安定さは、彼の存在によってさらに加速していた。
 
 <div class="mermaid">
 flowchart TD
-A["Charles Hayward"] --> D["Rhythm construction"]
-B["Charles Bullen"] --> E["Guitar and noise"]
-C["Gareth Williams"] --> F["Tape Editing and Chaos"]
-D --> G["The uniqueness of This Heat"]
+A["Charles Hayward"] --> D["リズム構築"]
+B["Charles Bullen"] --> E["ギターとノイズ"]
+C["Gareth Williams"] --> F["テープ編集と混沌"]
+D --> G["This Heatの独自性"]
 E --> G
 F --> G
 </div>
 
-There was no clear division of roles among the three. Rather, they continued to invade each other"s territory. That ambiguity kept This Heat"s music from becoming fixed.
+3人は明確に役割分担されていたわけではない。むしろ互いの領域へ侵入し続けていた。その曖昧さが、This Heatの音楽を固定化させなかった。
 
-> This Heat's sound was created not as a result of the three individuals' individualities harmonizing, but as a result of constant conflict.
+> This Heatのサウンドは、3人の個性が調和した結果ではなく、常に衝突し続けた結果として成立していた。
 
 ---
 
-## Experimental space called Cold Storage
+## Cold Storageという実験空間
 
-Cold Storage is absolutely essential when talking about This Heat.
+This Heatを語るうえで絶対に欠かせないのがCold Storageである。
 
-Cold Storage was an independent studio built in a converted former cold storage warehouse in south London. They used it as their home base, recording, editing, and experimenting.
+Cold Storageは、ロンドン南部に存在した旧冷蔵倉庫を改造した自主スタジオだった。彼らはここを自分たちの拠点として使用し、録音、編集、実験を繰り返した。
 
-It was crucial to have a space of our own, away from the constraints of a commercial studio.
+商業スタジオの制約から離れ、自分たちだけの空間を持ったことは決定的だった。
 
-They cut tapes, spun them backwards, changed speeds, created loops, mixed in ambient sounds, and reimagined improvisations.
+彼らはテープを切断し、逆回転させ、速度を変更し、ループを作り、環境音を混ぜ、即興演奏を再構築した。
 
-Rather than completing the song after recording, the recording process itself was composing.
+録音後に曲を完成させるのではなく、録音過程そのものが作曲だった。
 
-This is also connected to later sampler culture and DAW-like ideas.
+これは後のサンプラー文化やDAW的発想にも通じている。
 
 <div class="mermaid">
 flowchart TD
-A["Performance"] --> B["recording"]
-B --> C["Tape cutting"]
-C --> D["Reverse rotation"]
-D --> E["edit"]
-E --> F["Rebuild"]
-F --> G["Complete song"]
+A["演奏"] --> B["録音"]
+B --> C["テープ切断"]
+C --> D["逆回転"]
+D --> E["編集"]
+E --> F["再構築"]
+F --> G["完成曲"]
 </div>
 
-Cold Storage wasn't just a studio, it was a laboratory.
+Cold Storageは単なるスタジオではなく、実験室だった。
 
-Music and noise, coincidence and intention, performance and editing. This is where the boundaries become blurred.
+音楽とノイズ、偶然と意図、演奏と編集。その境界線はここで曖昧になっていく。
 
-There were very few rock bands in the late 1970s that integrated recording and editing into their songwriting concepts to this extent.
+1970年代後半にここまで録音編集を作曲概念へ統合していたロックバンドは極めて少ない。
 
-> Cold Storage could be called the "fourth member" of This Heat.
+> Cold Storageは、This Heatの「第四のメンバー」とも言える存在だった。
 
 ---
 
-## Debut album "This Heat"
+## デビューアルバム『This Heat』
 
-1979's self-titled album This Heat occupies a unique place in post-punk history.
+1979年に発表されたセルフタイトル作『This Heat』は、ポストパンク史のなかでも特異な位置に存在している。
 
-This album doesn't have the stability of a normal rock album.
+このアルバムには通常のロックアルバムのような安定感がほとんど存在しない。
 
-The album unfolds as a kind of disturbing collage, a series of short snippets, noises, tape edits, repetitions, ambient sounds, and disconnected rhythms.
+短い断片、ノイズ、テープ編集、反復、環境音、切断されたリズムが連続し、アルバム全体が一種の不穏なコラージュとして進行する。
 
-"Horizontal Hold" was especially symbolic.
+特に「Horizontal Hold」は象徴的だった。
 
-As the title suggests, which refers to television interference, the song has a structure in which the signal fluctuates intermittently, disrupting the signal.
+テレビ電波障害を意味するタイトル通り、楽曲は断続的に揺らぎ、信号が乱れるような構造を持つ。
 
-""24 Track Loop'' is an important song that combines minimal music and tape experimentation, and influenced later industrial, drone, and noise scenes.
+また「24 Track Loop」は、ミニマルミュージックとテープ実験が融合した重要曲であり、後のインダストリアル、ドローン、ノイズシーンにも影響を与えた。
 
 <div class="mermaid">
 flowchart TD
@@ -163,138 +163,138 @@ A["Rock"] --> E["This Heat"]
 B["Tape Music"] --> E
 C["Minimal Music"] --> E
 D["Noise"] --> E
-E --> F["Extending Post Punk"]
+E --> F["Post Punkの拡張"]
 </div>
 
-This work was not a commercial success. However, it had a strong impact on some listeners and musicians.
+この作品は商業的成功とは無縁だった。しかし一部のリスナーや音楽家に強烈な衝撃を与えた。
 
-In particular, the contradiction of being a rock band, yet denying the framework of rock, inspired many subsequent generations.
+特に「ロックバンドでありながら、ロックの枠組みを否定している」という矛盾が、多くの後続世代を刺激した。
 
-> ""This Heat'' pushed post-punk beyond dark rock into the realm of sonic experimentation.
+> 『This Heat』は、ポストパンクを暗いロックではなく、音響実験の領域へ押し広げた作品だった。
 
 ---
 
-## "Deceit" and music from the era of nuclear war
+## 『Deceit』と核戦争時代の音楽
 
-Deceit, released in 1981, is often referred to as This Heat's best work.
+1981年に発表された『Deceit』は、This Heatの最高傑作として語られることが多い。
 
-During this period, the Cold War was once again intensifying. The fear of nuclear war existed as a real thing and was deeply embedded in people's way of life.
+この時代、冷戦は再び緊張を強めていた。核戦争への恐怖は現実的なものとして存在し、人々の生活感覚へ深く入り込んでいた。
 
-""Deceit'' is deeply engraved with the atmosphere of that era.
+『Deceit』には、その時代の空気が濃密に刻まれている。
 
-From the album's opening song, "Sleep," it sounds like the world is already on the verge of collapse.
+アルバム冒頭の「Sleep」から、既に世界は崩壊寸前のように響く。
 
-Military rhythms, urgent vocals, and unstable harmonies. The song is not just a political message, but also embodies the ""psychological state of fear'' itself.
+軍事的なリズム、切迫したボーカル、不安定なハーモニー。楽曲は単なる政治メッセージではなく、「恐怖の心理状態」そのものを音にしている。
 
-"Cenotaph" is particularly known as a representative song.
+「Cenotaph」は特に代表的な楽曲として知られる。
 
-Although it has content that evokes a world after nuclear war, it is not a simple protest song.
+核戦争後の世界を想起させる内容を持ちながら、単純なプロテストソングにはなっていない。
 
-Rather, quiet resignation and strange beauty coexist.
+むしろ、静かな諦念と異様な美しさが共存している。
 
 <div class="mermaid">
 flowchart TD
-A["Cold War"] --> B["Fear of nuclear war"]
-B --> C["Social anxiety"]
+A["冷戦"] --> B["核戦争への恐怖"]
+B --> C["社会不安"]
 C --> D["Deceit"]
 D --> E["Cenotaph"]
 D --> F["Sleep"]
 D --> G["Paper Hats"]
 </div>
 
-Deceit was an album that perfectly combined politics and experimentation.
+『Deceit』は、政治性と実験性が完全に融合したアルバムだった。
 
-There were many political bands in post-punk, but Rather than shouting slogans, This Heat expressed the sense of social collapse.
+ポストパンクには政治的バンドが多かったが、This Heatはスローガンを叫ぶのではなく、社会の崩壊感覚そのものを音響化していた。
 
-> ""Deceit" was a work that translated the anxieties of the Cold War era into sound, not as an ""atmosphere," but as a structure itself.
+> 『Deceit』は、冷戦時代の不安を「雰囲気」ではなく、構造そのものとして音へ変換した作品だった。
 
 ---
 
-## This Heat as a live band
+## ライブバンドとしてのThis Heat
 
-This Heat has a strong impression of focusing on studio work, but their live performances were also extremely unique.
+This Heatはスタジオワーク中心の印象が強いが、ライブも極めて独特だった。
 
-They actively used tape playback, noise manipulation, and improvisation in their live performances.
+彼らはライブでもテープ再生、ノイズ操作、即興演奏を積極的に使用していた。
 
-As a result, the performance changed greatly each time.
+そのため演奏は毎回大きく変化した。
 
-It didn't have the reproducibility of a normal rock live performance, but rather the appeal was that it was on the verge of losing control.
+通常のロックライブのような再現性は存在せず、むしろ「制御不能寸前」の状態が魅力だった。
 
-For the audience, it felt more like being thrown into a giant sound system than listening to a song.
+観客にとっては、曲を聴くというより、巨大な音響装置の内部へ放り込まれる感覚に近かった。
 
-In particular, Hayward's drumming was overwhelming live.
+特にヘイワードのドラミングはライブで圧倒的だった。
 
-Although it seemed like they were hitting a simple beat, they kept subtly shifting their accents, making the entire space unstable.
+単純なビートを叩いているように見えながら、微妙にアクセントをずらし続けることで、空間全体を不安定化させていた。
 
 <div class="mermaid">
 flowchart TD
-A["Live performance"] --> B["Improvisation"]
-A --> C["Tape playback"]
-A --> D["Noise operation"]
-B --> E["Unpredictable development"]
+A["ライブ演奏"] --> B["即興"]
+A --> C["テープ再生"]
+A --> D["ノイズ操作"]
+B --> E["予測不能な展開"]
 C --> E
 D --> E
 </div>
 
-Many people in the audience at the time were confused.
+当時の観客のなかには困惑する者も多かった。
 
-However, on the other hand, a group of people who strongly support this chaos are also emerging.
+しかし一方で、この混沌を強烈に支持する層も生まれていく。
 
-> This Heat's live performance was not a recreation of a song, but a space where they shared a "state on the verge of collapse."
+> This Heatのライブは、楽曲の再現ではなく、「崩壊寸前の状態」を共有する空間だった。
 
 ---
 
-## Disbandment and too short period of activity
+## 解散と短すぎた活動期間
 
-This Heat disbanded in 1982.
+This Heatは1982年に解散する。
 
-It lasted only a few years.
+活動期間はわずか数年だった。
 
-However, the impact it left in such a short period of time was enormous.
+しかし、その短期間で残した影響は非常に大きい。
 
-It is said that there were multiple reasons for the group's disbandment, including differences in musical direction, mental fatigue, and financial problems.
+解散理由には音楽的方向性の違い、精神的疲労、経済的問題など複数の要因があったとされる。
 
-Gareth Williams, in particular, gradually began to distance himself from band activities.
+特にガレス・ウィリアムズは次第にバンド活動から距離を置くようになっていた。
 
-This Heat's music was always dense and on edge.
+This Heatの音楽は常に高密度で、緊張状態を維持していた。
 
-While this was a source of creativity, it was not something that could be sustained over a long period of time.
+それは創造性の源泉である一方、長期間持続できるものではなかった。
 
-After their split, Hayward and Bullen formed Camberwell Now, continuing elements of This Heat.
+解散後、ヘイワードとブレンはCamberwell Nowを結成し、This Heat的要素を継続していく。
 
-Meanwhile, Williams has retreated from the spotlight.
+一方、ウィリアムズは表舞台から離れていった。
 
 <div class="mermaid">
 flowchart TD
-A["This Heat"] --> B["Dissolution 1982"]
+A["This Heat"] --> B["解散 1982"]
 B --> C["Camberwell Now"]
-B --> D["Individual activities"]
-C --> E["Continuation of experimental spirit"]
+B --> D["各自の活動"]
+C --> E["実験精神の継続"]
 </div>
 
-Because it was so short-lived, This Heat has become something of a myth.
+短命だったからこそ、This Heatは神話化された側面もある。
 
-But it"s not the mystery that"s important. The fact is that the recordings that have actually survived are still extremely cutting-edge.
+だが重要なのは神秘性ではない。実際に残された録音物が、今なお極めて先鋭的である点にある。
 
-> This Heat wasn't a band that disappeared in a short period of time, but a band that reached the future in a short period of time.
+> This Heatは短期間で消えたのではなく、短期間で未来へ到達してしまったバンドだった。
 
 ---
 
-## Huge impact on subsequent generations
+## 後続世代への巨大な影響
 
-This Heat's influence quietly spread from the 1980s onwards.
+This Heatの影響は1980年代以降、静かに広がっていった。
 
-In particular, post-rock, experimental music, industrial, noise, math rock, and avant-rock have been reevaluated in many areas since the 1990s.
+特に1990年代以降のポストロック、実験音楽、インダストリアル、ノイズ、マスロック、アヴァンロックなど、多くの領域で再評価が進んだ。
 
-Many later artists have cited This Heat as an influence, including Slint, Stereolab, Tortoise, Sonic Youth, Radiohead, and Black Midi.
+Slint、Stereolab、Tortoise、Sonic Youth、Radiohead、Black Midiなど、後年の多くのアーティストがThis Heatからの影響を語っている。
 
-The reason they were praised was not just because of their ""unusual music.''
+彼らが評価された理由は単なる「変わった音楽」だからではない。
 
-This Heat maintained the format of a rock band while destroying its inner structure.
+This Heatは、ロックバンドの形式を維持したまま、その内部構造を破壊していた。
 
-This was a very important point.
+これは非常に重要な点だった。
 
-It was because they experimented while maintaining the band format, rather than moving toward completely modern music, that they were able to connect with many subsequent generations.
+完全な現代音楽へ進むのではなく、あくまでバンド形式を保ったまま実験を行ったからこそ、多くの後続世代へ接続されたのである。
 
 <div class="mermaid">
 flowchart TD
@@ -303,112 +303,112 @@ A --> C["Industrial"]
 A --> D["Noise"]
 A --> E["Experimental Rock"]
 B --> F["Tortoise"]
-C --> G["Various experimental music"]
-D --> H["Noise scene"]
+C --> G["各種実験音楽"]
+D --> H["ノイズシーン"]
 E --> I["Black Midi"]
 </div>
 
-Furthermore, the attitude of treating recording editing as an act of composition has become even more important in the digital age.
+また、録音編集を作曲行為として扱う姿勢は、デジタル時代にさらに重要性を増した。
 
-DAW editing is commonplace these days, but This Heat pushed it to the extreme during the analog tape era.
+現在ではDAWによる編集は一般化しているが、This Heatはアナログテープ時代にそれを極限まで推し進めていた。
 
-> This Heat was already putting ideas into practice in the late 1970s, anticipating the modern music production environment.
+> This Heatは、現代の音楽制作環境を先取りする発想を、1970年代末に既に実践していた。
 
 ---
 
 ## A band that turned "anxiety" into music
 
-If you view This Heat as simply experimental music, you lose sight of its essence.
+This Heatを単なる実験音楽として捉えると、本質を見失う。
 
-What makes their music special is not its technical skill or avant-garde, but the fact that it translated the ""anxieties of the times'' into sound in a very specific way.
+彼らの音楽が特別なのは、技巧や前衛性ではなく、「時代の不安」を極めて具体的に音へ変換していた点にある。
 
-The Cold War, the sense of urban decay, a surveillance society, information noise, and economic instability.
+冷戦、都市の崩壊感覚、監視社会、情報ノイズ、経済不安。
 
-These elements are very relevant to today's world.
+そうした要素は現在の世界にも強く通じている。
 
-That's why This Heat never gets old, even in modern times.
+だからこそ、This Heatは現代でも古びない。
 
-In fact, for listeners living in the digital age and beyond, their fragmented and unstable sonic sensibilities may even have a more realistic feel to them.
+むしろデジタル時代以降のリスナーにとって、彼らの断片的で不安定な音響感覚は、より現実的に響いている部分すらある。
 
-Fragmented information.
+断片化された情報。
 
-Endless noise.
+終わらないノイズ。
 
-A sense of constant tension.
+常時接続された緊張感。
 
-This Heat was already expressing them over 40 years ago.
+This Heatは、それらを40年以上前に既に表現していた。
 
 <div class="mermaid">
 flowchart TD
-A["Late 1970s"] --> B["Cold War Anxiety"]
+A["1970年代末"] --> B["冷戦不安"]
 B --> C["This Heat"]
-C --> D["Fragmented sound"]
-D --> E["Modern Digital Society"]
+C --> D["断片化された音"]
+D --> E["現代デジタル社会"]
 </div>
 
 Rather than prophesying the future, their music may have been the result of an extreme pursuit of ""what kind of sounds would humans make when society becomes unstable?''
 
-> This Heat"s work was music that didn"t try to explain the atmosphere of the times, but let you hear the atmosphere itself.
+> This Heatの作品は、時代の空気を説明するのではなく、その空気そのものを聴かせる音楽だった。
 
 ---
 
-## Chronology
+## 年表
 
-| Year | Events |
-| -------- | ------------------------ |
-| 1976 | This Heat Formation |
+| 年        | 出来事                       |
+| -------- | ------------------------- |
+| 1976     | This Heat結成               |
 | 1977 | Started working with Cold Storage |
-| 1979 | "This Heat" announced |
-| 1980 | "Health and Efficiency" published |
-| 1981 | "Deceit" announced |
-| 1982 | Dissolution |
-| Late 1980s | Re-evaluation underway |
-| 1990s | Influence spread to post-rock generation |
-| Since the 2000s | Established as an important work of experimental rock |
+| 1979     | 『This Heat』発表             |
+| 1980     | 『Health and Efficiency』発表 |
+| 1981     | 『Deceit』発表                |
+| 1982     | 解散                        |
+| 1980年代後半 | 再評価が進行                    |
+| 1990年代   | ポストロック世代へ影響拡大             |
+| 2000年代以降 | 実験ロックの重要作として定着            |
 
 ---
 
-## Discography overview
+## ディスコグラフィ概略
 
-### "This Heat" (1979)
+### 『This Heat』（1979）
 
-Although it is a debut work, it is already completed.
+デビュー作にして既に完成形。
 
-An unusual post-punk piece that mixes noise, tape editing, minimalism, and improvisation.
+ノイズ、テープ編集、ミニマリズム、即興が混在する異形のポストパンク作品。
 
-### "Health and Efficiency" (1980)
+### 『Health and Efficiency』（1980）
 
-EP work.
+EP作品。
 
-Funk-like repetition and experimental sounds are further enhanced.
+ファンク的反復と実験音響がさらに強化されている。
 
-### "Deceit" (1981)
+### 『Deceit』（1981）
 
-A masterpiece that captures the tensions of the Cold War era.
+冷戦時代の緊張を刻み込んだ代表作。
 
-An album that combines politics and sonic experimentation to the extreme.
+政治性と音響実験が極限まで融合したアルバム。
 
-> The number of works by This Heat is small. However, its density exceeds that of many long-lived bands.
+> This Heatの作品数は少ない。しかし、その密度は多くの長寿バンドを上回っている。
 
 ---
 
-## Why is This Heat still talked about?
+## なぜ今もThis Heatが語られるのか
 
-This Heat was never a band that achieved mass popularity.
+This Heatは決して大衆的人気を獲得したバンドではなかった。
 
-However, the reason why they continue to be talked about even today is clear.
+しかし現在でも彼らが語られ続ける理由は明確である。
 
-This is because he did not treat "experiments" as mere novelties.
+それは、「実験」を単なる奇抜さとして扱わなかったからだ。
 
-Their experimental nature was deeply connected to the sense of the times and social anxiety.
+彼らの実験性は、時代感覚や社会不安と深く結びついていた。
 
-Therefore, the sound never gets old.
+そのため音が古びない。
 
-And while genre-crossing is commonplace these days, This Heat has been traversing rock, noise, contemporary music, electronic music, and improvisation long before that.
+また、現代ではジャンル横断が当たり前になっているが、This Heatはその遥か以前からロック、ノイズ、現代音楽、電子音楽、即興演奏を横断していた。
 
-They weren't aiming for genre fusion.
+彼らはジャンル融合を狙ったわけではない。
 
-As a result of simply continuing to choose the ""necessary sound'', genre boundaries began to disappear.
+単純に「必要な音」を選び続けた結果、ジャンル境界が消えていったのである。
 
 <div class="mermaid">
 flowchart TD
@@ -416,43 +416,43 @@ A["Rock"] --> E["This Heat"]
 B["Avant-Garde"] --> E
 C["Tape Music"] --> E
 D["Improvisation"] --> E
-E --> F["Bridge to modern experimental music"]
+E --> F["現代実験音楽への橋渡し"]
 </div>
 
-This Heat aren't the type of band to be preserved as legends of the past.
+This Heatは過去の伝説として保存されるタイプのバンドではない。
 
-Rather, it is an existence that continues to be rediscovered every time I search for new music.
+むしろ、新しい音楽を探すたびに再発見され続ける存在である。
 
-> This Heat was not a ""difficult masterpiece,'' but a band that updated the very possibilities of music.
+> This Heatは「難解な名盤」ではなく、音楽の可能性そのものを更新したバンドだった。
 
 ---
 
-## At the end
+## 終わりに
 
-There"s no sense of security in This Heat"s music.
+This Heatの音楽には安心感がない。
 
-It's not easy to listen to either.
+聴きやすさもない。
 
-But that instability was at their core.
+だが、その不安定さこそが彼らの核心だった。
 
-They were trying to record the rifts of an era rather than beautiful melodies.
+彼らは美しいメロディよりも、時代の裂け目を録音しようとしていた。
 
-That's why the sound resonates with a strange reality even today.
+だからこそ、その音は現在でも異様なリアリティを持って響く。
 
-Post-punk is not enough to describe this band.
+ポストパンクという言葉だけでは、このバンドは到底説明できない。
 
-This Heat recorded the moment when rock changed from "music" to "situation itself."
+This Heatは、ロックが「音楽」から「状況そのもの」へ変化していく瞬間を記録していた。
 
-And that record remains futuristic even after more than 40 years.
+そしてその記録は、40年以上経った今も、なお未来的であり続けている。
 
-> Listening to This Heat's work is more like an experience of connecting to an unstable era itself, rather than appreciating a masterpiece from the past.
+> This Heatの作品を聴くことは、過去の名盤を鑑賞することではなく、不安定な時代そのものへ接続する体験に近い。
 
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ct21vEa9DLI?si=qZBQXfIqkZQBOI_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -10,15 +10,15 @@ tags:
 - Reggae
 - Hiphop
 - 90s
-title: 內圈-黑玫瑰
+title: Inner Circle – Black Roses
 ---
 
 
-Inner Circle，也被稱為 The Inner Circle Band 或 The Bad Boys of Reggae，是一支於 1968 年在金斯敦成立的牙買加雷鬼樂隊。
+Inner Circle(インナー・サークル)は、The Inner Circle Bandまたは The Bad Boys of Reggae(バッド・ボーイズ・オブ・レゲエ)としても知られ、1968年にキングストンで結成されたジャマイカのレゲエバンド。
 
-這張CD中收錄的《Bad Boys》風靡全球，並以美國電視節目COPS的主題曲而聞名。
+このCDに収録されている「Bad Boys(バッド・ボーイズ)」は世界的なヒットとなり、アメリカのテレビ番組COPS(全米警察24時 コップス)の主題歌としても有名。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Man Standing On The Corner
 2. One Vibe
@@ -31,7 +31,7 @@ Inner Circle，也被稱為 The Inner Circle Band 或 The Bad Boys of Reggae，�
 9. Picture On The Wall
 10. Bad Boys
 ```
-[在 Mercari 購買](https://jp.mercari.com/item/m27200283979?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27200283979?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tJzF7VO9oI4?si=UyEPv-UPdBpbUyX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,13 +13,13 @@ title: Hoodlum Priest – Heart Of Darkness
 ---
 
 
-《黑暗之心》是Fudrum Priest的作品中脫穎而出的一首歌曲。 Hudrum Priest 是英國音樂家 Derek Thompson 的專案。他的音樂具有實驗性，融合了各種流派的元素，以黑暗的氛圍和實驗性的音景為特色。
+「Heart of Darkness」は、フドラム・プリーストの作品の中でも特筆される楽曲です。フドラム・プリーストは、UKのミュージシャンであるDerek Thompsonのプロジェクトで、彼の音楽は様々なジャンルの要素を取り入れたエクスペリメンタル的であり、ダークな雰囲気や実験的なサウンドスケープが特徴的です。
 
-顧名思義，《黑暗之心》是一首以內心衝突和黑暗深處為主題的歌曲，歌曲的進展充滿張力，結合怪誕的音效和沈重的節奏。歌詞探索了深刻、內省的內容，與黑暗主題保持一致。
+「Heart of Darkness」は、その名の通り暗黒の中にある心の葛藤や深層をテーマにした楽曲で、曲の進行は緊張感に満ちており、不気味なサウンドエフェクトや重厚なリズムが組み合わさっています。歌詞は暗黒のテーマに合わせて深く、内省的な内容を探求しています。
 
-《黑暗之心》是一張真正體現Fudrum Priest獨特音樂風格與藝術表現的專輯。
+「Heart of Darkness」は、フドラム・プリーストの特異な音楽スタイルとアーティスティックな表現を正に体現したアルバムです。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Introduction To The Heart Of Darkness
 
@@ -42,7 +42,7 @@ title: Hoodlum Priest – Heart Of Darkness
 10. Rebel Angel
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m35353871687?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35353871687?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dF-y7RQTBtc?si=TPzxiNWv6M3Ip7nl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,9 +14,9 @@ title: Koivun Kaiku – Keepers
 ---
 
 
-"Keepers", released in 1987, is folk and world music played by the kantele, a Finnish folk instrument and a type of plucked string instrument in the zither family.
+1987年にリリースされた「Keepers」は、フィンランドの民族楽器で、ツィター属撥弦楽器の一種であるカンテレ(kantele)によるフォーク＆ワールドミュージック。
 
-The group name Koivun Kaiku means "Echo of the Birch".
+グループ名Koivun Kaikuは、”Echo of the Birch”＝”白樺の響き”の意味。
 
 #### Tracklist
 ```md
@@ -41,4 +41,4 @@ B8. Reppurin Laulu
 B9. Konevitsan Kirkonkellojen Soitto 
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}

@@ -12,7 +12,7 @@ title: DJ Omega – Spellbound
 ---
 
 
-DJ Omega (Will Simpson) is an electronic music producer from Detroit. Mixed by DJ/producer DJ Godfather (Brian Jeffries) from Detroit.
+DJ Omega（Will Simpson）は、デトロイト出身のエレクトロニックミュージックプロデューサー。mixは、デトロイト出身のDJ/プロデューサーDJ Godfather(Brian Jeffries)。
 
 #### Tracklist
 ```md

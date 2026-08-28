@@ -13,9 +13,9 @@ title: Total Eclipse – Update Files
 ---
 
 
-Total Eclipse is a project started in 1992 by three French producers. He became famous for his gore-trance albums released in 1995 and 1996.
+Total Eclipseは、1992年に3人のフランス人プロデューサーによって始まったプロジェクト。1995年＆1996年にリリースしたゴアトランスアルバムで有名になった。
 
-"Update Files" is a psychedelic trance album released in 2003 by the Japanese gore and psytrance label Arcadia Music.
+「Update Files 」は、2003年に日本のゴア＆サイトランスレーベルArcadia Musicからリリースされたサイケデリックトランスアルバム。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ Total Eclipse is a project started in 1992 by three French producers. He became 
 10. Aguas Blancas
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

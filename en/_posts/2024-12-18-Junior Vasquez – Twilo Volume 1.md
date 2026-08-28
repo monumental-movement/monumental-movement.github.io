@@ -14,7 +14,7 @@ title: Junior Vasquez – Twilo Volume 1
 ---
 
 
-A 2-disc set of House mixes by DJ Junior Vasquez released by Virgin in 2000.
+2000年にVirginからリリースされたDJ Junior Vasquez によるHouse ミックス2枚組。
 
 #### Tracklist
 ```md
@@ -41,7 +41,7 @@ A 2-disc set of House mixes by DJ Junior Vasquez released by Virgin in 2000.
 2-09. Zelma Davis – The Power (Junior Vasquez Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m88730253725?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88730253725?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TXYsBCm8z40?si=x5KTgKy1y4bJH9Sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,17 +10,17 @@ tags:
 - Drum n Bass
 - Jazz
 - Experimental
-title: '[Column] Squarepusher: A fusion of breakbeats, jazz, and electronic music'
+title: 【コラム】 Squarepusher：ブレイクビーツとジャズ、電子音楽の融合者
 ---
 
 
-## 1. Introduction
+## 1. はじめに
 
 
-Text: mmr｜Theme: Tom Jenkinson's early life, early works, musical style, and explanation of all songs by album
+文：mmr｜テーマ：Tom Jenkinsonの生い立ち、初期作品、音楽スタイル、アルバム別全曲解説
 
-Tom Jenkinson, also known as Squarepusher, is a British musician who has had a prominent presence in the contemporary electronic scene since the mid-1990s.
-His music is known for his innovative style, which single-handedly integrates complex breakbeats, advanced bass playing, jazz improvisation, and IDM-style electronic sound.
+SquarepusherことTom Jenkinsonは、1990年代半ばから現代エレクトロニック・シーンで際立った存在感を放つイギリスの音楽家である。  
+彼の音楽は、複雑なブレイクビーツ、高度なベース演奏、ジャズ的即興演奏、IDM的電子音響を一人で統合した革新的スタイルで知られる。  
 
 
 ---
@@ -30,7 +30,7 @@ His music is known for his innovative style, which single-handedly integrates co
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -39,44 +39,44 @@ color: #fff;
 </style>
 
 
-## 2. Tom Jenkinson's early life and musical background
+## 2. Tom Jenkinsonの生い立ちと音楽的背景
 
-### 2.1 Childhood and musical environment
+### 2.1 幼少期と音楽環境
 
-Born in 1975 near Manchester. Played piano, bass guitar, and drums since childhood.
-He received a classical jazz education and mastered complex rhythms and chords.
+1975年、マンチェスター近郊に生まれる。ピアノ、ベースギター、ドラムを幼少期から演奏。  
+クラシック・ジャズ教育を受け、複雑なリズムや和音を体得。
 
-### 2.2 Influence of jazz fusion
+### 2.2 ジャズ・フュージョンの影響
 
-- Jaco Pastorius: polyphonic bass, improvisation
-- Weather Report: Complex Rhythms
-- ELP: Electronic sound and live fusion
+- ジャコ・パストリアス: 多声的ベース、即興  
+- ウェザー・リポート: 複雑なリズム  
+- ELP: 電子音とライブ融合  
 
-### 2.3 Encounter with electronic music
+### 2.3 電子音楽との出会い
 
-He was exposed to Acid House and early techno and started recording at home using Akai S1000 and TR-808/909.
+Acid House、初期テクノに触れ、Akai S1000やTR-808/909を用いた自宅録音を開始。
 
 ---
 
-## 3. Early works and Warp Records contract
+## 3. 初期作品とWarp Records契約
 
-### 3.1 Spymania independent release
+### 3.1 Spymania自主リリース
 
-- 1995: *Conumber E:P* announced
+- 1995年: *Conumber E:P* 発表  
 - Introducing short loops, multi-layering, and odd time signatures
 
-### 3.2 Warp Records Contract
+### 3.2 Warp Records契約
 
-- 1996: *Feed Me Weird Things* debut
-- IDM + Jazz + Drum & Bass fusion
+- 1996年: *Feed Me Weird Things* デビュー  
+- IDM＋ジャズ＋ドラムンベース融合  
 
 <div class="mermaid">
 
 graph TD
-    A[Independent release: Spymania] --> B[attention]
-    B --> C[Warp Records contract]
-    C --> D[debut album]
-    D --> E[international recognition]
+    A[自主リリース: Spymania] --> B[attention]
+    B --> C[Warp Records契約]
+    C --> D[デビューアルバム]
+    D --> E[国際的認知]
 
 </div>
 
@@ -84,43 +84,43 @@ graph TD
 
 ## 4. Characteristics of music style
 
-### 4.1 Breakcore Drum and Bass
+### 4.1 ブレイクコア・ドラムンベース
 
 <div class="mermaid">
 
 graph TD
-    A[drum machine] --> C[multilayer rhythm]
-    B[bass playing] --> C
-    C --> D[Intense auditory experience]
+    A[ドラムマシン] --> C[多層リズム]
+    B[ベース演奏] --> C
+    C --> D[密度の高い聴覚体験]
 
 </div>
 
 ---
 
-### 4.2 Jazz fusion influence
+### 4.2 ジャズ・フュージョン影響
 
-* Highly improvised bass playing
-* Fusion elements in chord progressions and phrases
+* 即興性の高いベース演奏
+* コード進行とフレーズにフュージョン要素
 
-### 4.3 Analog + digital fusion
+### 4.3 アナログ＋デジタル融合
 
 * TR-808/909, TB-303, Minimoog
 * Akai S1000, Reason
-* Fusion of typing + live performance
+* 打ち込み＋生演奏の融合
 
 ---
 
-## 5. Explanation of all songs by album + visualization
+## 5. アルバム別全曲解説＋視覚化
 
 ### 5.1 Feed Me Weird Things (1996)
 
-**Equipment used**: Akai S1000, TR-808/909, Minimoog, Korg MS-20
+**使用機材**: Akai S1000, TR-808/909, Minimoog, Korg MS-20
 
-#### Song explanation + rhythm diagram
+#### 曲解説＋リズム図
 
 1. **Squarepusher Theme**
 
-* Odd time signature breakbeat + bass improvisation
+   * 変拍子ブレイクビーツ＋ベース即興
 
 <div class="mermaid">
 
@@ -137,7 +137,7 @@ sequenceDiagram
 
 2. **Theme from Ernest Borgnine**
 
-* Analog synth + high speed drums
+   * アナログシンセ＋高速ドラム
 
 <div class="mermaid">
 
@@ -153,7 +153,7 @@ graph LR
 
 3. **Conumber**
 
-* Fusion bass + IDM electronic sound
+   * フュージョンベース＋IDM電子音
 
 <div class="mermaid">
 
@@ -172,7 +172,7 @@ graph TD
 
 ### 5.2 Hard Normal Daddy (1997)
 
-**Equipment used**: Akai S3000, TR-808/909, Novation Bass Station, Moog Voyager
+**使用機材**: Akai S3000, TR-808/909, Novation Bass Station, Moog Voyager
 
 1. **My Red Hot Car**
 
@@ -190,7 +190,7 @@ graph LR
 
 2. **Vic Acid**
 
-* Polyrhythm + jazz improvisation
+   * ポリリズム＋ジャズ即興
 
 <div class="mermaid">
 
@@ -208,11 +208,11 @@ pie
 
 ### 5.3 Music Is Rotted One Note (1998)
 
-**Equipment used**: Fender Jazz Bass, Korg MS-20, Roland JP-8000
+**使用機材**: Fender Jazz Bass, Korg MS-20, Roland JP-8000
 
 1. **Port Rhombus**
 
-* Live recording improvisation
+   * ライブ録音即興
 
 <div class="mermaid">
 
@@ -228,11 +228,11 @@ sequenceDiagram
 
 ### 5.4 Go Plastic (2001)
 
-**Equipment used**: Minimoog, TB-303, TR-808/909, Akai MPC
+**使用機材**: Minimoog, TB-303, TR-808/909, Akai MPC
 
 1. **Go! Spastic**
 
-* High-speed breakbeat + fractal rhythm
+   * 高速ブレイクビーツ＋フラクタルリズム
 
 <div class="mermaid">
 
@@ -248,8 +248,8 @@ graph TD
 
 ### 5.5〜5.9 Ultravisitor〜Be Up A Hello
 
-* Rhythm diagram, waveform image, and fractal structure of each song are developed in the same way
-* **Example**: Ultravisitor *Welcome to Europe*
+* 各曲のリズム図、波形イメージ、フラクタル構造を同様に展開
+* **例**: Ultravisitor *Welcome to Europe*
 
 <div class="mermaid">
 
@@ -263,9 +263,9 @@ graph TD
 ---
 
 
-## 6. Live performance + technical illustration
+## 6. ライブパフォーマンス＋技術図解
 
-* Bass improvisation + drum machine + sampler
+* ベース即興＋ドラムマシン＋サンプラー
 
 <div class="mermaid">
 
@@ -281,10 +281,10 @@ graph TD
 ---
 
 
-## 7. Evaluation/Impact
+## 7. 評価・影響
 
-* IDM, drum and bass pioneer
-* Warp Records golden era pillar
+* IDM、ドラムンベース先駆者
+* Warp Records黄金期支柱
 * Technical precision + improvisational fusion + innovation evaluation
 
 ---
@@ -308,7 +308,7 @@ graph TD
 ---
 
 
-## 9. Musicality mapping
+## 9. 音楽性マッピング
 
 <div class="mermaid">
 
@@ -325,10 +325,10 @@ graph LR
 ---
 
 
-## 10. Conclusion
+## 10. 結論
 
-Squarepusher is an innovative artist who fuses electronic music, jazz, and breakbeats.
-Live improvisation, complex acoustic structures, and album-to-album experimentation are indicators of innovation in contemporary electronic music.
+Squarepusherは電子音楽＋ジャズ＋ブレイクビーツを融合した革新的アーティスト。
+ライブ即興演奏、複雑音響構造、アルバムごとの実験性は現代エレクトロニック音楽の革新指標。
 The rhythmic structure, waveforms, and fractal illustrations of each song will help you further deepen your understanding of music.
 
 ---

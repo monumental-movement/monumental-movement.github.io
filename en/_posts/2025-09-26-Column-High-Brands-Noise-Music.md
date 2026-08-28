@@ -13,13 +13,13 @@ title: '[Column] High brands and noise music — the intersection of luxury and 
 ---
 
 
-## At first glance, the two seem unrelated.
+## 一見、関係のなさそうな両者
 
-Text: mmr｜Theme: The affinity between recent fashion shows and noise music
+文：mmr｜テーマ：近年のファッションショーと、ノイズミュージックとの親和性
 
-Noise music is all about underground live houses, sweat and feedback sounds, and extreme performances. High brands, on the other hand, are the runways of Paris, Milan, and Tokyo, shiny textiles, and the height of sophistication.
-It is easy to think that the two cannot intersect.
-However, if you look at fashion shows in recent years, you will find that the two have built a surprisingly close relationship.
+ノイズミュージックといえば、地下ライブハウス、汗とフィードバック音、過激なパフォーマンス。対してハイブランドは、パリ・ミラノ・東京のランウェイ、光沢あるテキスタイル、洗練の極み。
+「両者が交わることはない」と思われがちだ。
+しかし、近年のファッションショーを観察すると、両者はむしろ驚くほど親密な関係を築いている。
 
 ---
 
@@ -29,7 +29,7 @@ However, if you look at fashion shows in recent years, you will find that the tw
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -38,100 +38,100 @@ color: #fff;
 </style>
 
 
-### Intimacy between fashion show and noise
+### ファッションショーとノイズの親密さ
 
 Since the 1990s, high-end brand shows have actively introduced not only rock and classical music but also noise/industrial music.
 
-[Balenciaga](https://amzn.to/3KItfr1) made industrial noise roar in a ruin-like space, presenting clothing and space as ""aggressive beauty.''
+[Balenciaga](https://amzn.to/3KItfr1) は、廃墟のような空間でインダストリアル・ノイズを轟かせ、衣服と空間を「攻撃的な美」として提示した。
 
-Rei Kawakubo of [COMME des GARÇONS](https://amzn.to/42fzNDE) has been drawn to experimental music since the 1980s, and has layered repetition and dissonance into fashion.
+[COMME des GARÇONS](https://amzn.to/42fzNDE) の川久保玲は、80年代から実験音楽に惹かれ、反復や不協和をファッションに重ね合わせた。
 
-[Yohji Yamamoto](https://amzn.to/42cl0JT) alternated between tranquil classical music and roaring noise in his show, acoustically visualizing the "white space" and "excess" of clothing.
+[Yohji Yamamoto](https://amzn.to/42cl0JT) は、ショーにおいて静謐なクラシックと轟音ノイズを交互に流し、衣服の「余白」と「過剰」を音響的に可視化した。
 
-Noise becomes a device that emphasizes the dismantling of fashion's existing beauty through the ""negation of harmony.''
+ノイズは「調和の否定」を通じて、ファッションの持つ既存の美の解体を強調する装置となる。
 
 ---
 
-### Paradoxical affinity — anti-commercial becomes brand value
+### 逆説的な親和性 — 反商業がブランド価値になる
 
 Noise originally developed as an antithesis to capitalism and commercial music. What Merzbow and Hijikaido embody is ""outside the framework of the music industry.''
-But ironically, it's this "anti-commercial" attitude that makes it an attractive poison for brands.
+しかし、皮肉なことにその「反商業」的姿勢こそが、ブランドにとっては魅力的な毒となる。
 
-Just as [Vivienne Westwood](https://amzn.to/46DRqyf) incorporated punk into capitalism, noise is also used as a ""foreign substance for brands to differentiate themselves.'' In other words, rebellion is transformed into a nourishing source of luxury.
-
----
-
-### Anecdotes and specific episodes
-
-The footage from [**Hijokaidan**](https://amzn.to/3IlDq4h) was used as a visual production material for a European fashion brand, emphasizing the ""coexistence of chaos and sophistication.''
-
-[GUCCI](https://amzn.to/4gIXl9X) mixed industrial noise into the campaign video, intentionally creating a conflict with classical music.
-
-[Rick Owens](https://amzn.to/3KGkWMm) introduced drone-like noises to his shows in the 2010s, lulling the audience into an "uncomfortable immersion."
-
-[Yoji Yamamoto](https://amzn.to/4gN0be7) said in an interview, ""Clothing requires silence, but sometimes a roar that destroys that silence is useful.''
+[ヴィヴィアン・ウエストウッド](https://amzn.to/46DRqyf)がパンクを資本主義に組み込んだように、ノイズもまた「ブランドが差別化を図るための異物」として利用される。つまり、反逆がラグジュアリーの栄養源に転化するのである。
 
 ---
 
-### Contemporary significance — noise to create instability
+### 逸話と具体的エピソード
+
+[**非常階段（Hijokaidan）**](https://amzn.to/3IlDq4h)の映像は、ヨーロッパのファッションブランドのビジュアル演出素材として使用され、「カオスと洗練の共存」を強調した。
+
+[GUCCI](https://amzn.to/4gIXl9X) はキャンペーン映像にインダストリアルなノイズを混在させ、クラシックとの衝突を意図的に演出した。
+
+[Rick Owens](https://amzn.to/3KGkWMm) は2010年代のショーでドローン的なノイズを導入し、観客を「不快な没入」へと誘導した。
+
+[山本耀司](https://amzn.to/4gN0be7) はインタビューで「衣服には沈黙が必要だが、時にそれを破壊する轟音が役に立つ」と語っている。
+
+---
+
+### 現代的意義 — 不安定さを演出するためのノイズ
 
 Fashion in the 21st century faces the risks of ""mass consumption" and ""high-speed circulation."
-Therefore, noise emphasizes ""instability" and ""uniqueness" as a counter to homogenization.
-Roars and noises make the audience uncomfortable and arouse, proving that the brand is a ""provocateur.''
+そこでノイズは、均質化へのカウンターとして「不安定さ」「唯一無二」を強調する。
+轟音や雑音は観客に不快さと覚醒を与え、ブランドが「挑発者」であることを証明する。
 
 ---
 
-### Brand and Noise/Experimental Music Case Studies
+### ブランドとノイズ／実験音楽の事例表
 
 | Brand | Music/Artists used | Characteristics of the production |
 | --------------------- | ----------------- | ------------- |
-| [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | Drone, noise, minimal | "Deconstruction of beauty" through dissonance |
-| [**Yohji Yamamoto**](https://amzn.to/42cl0JT) | Drone-like improvisation inspired by Keiji Haino | Contrast between silence and roar |
+| [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | ドローン、ノイズ、ミニマル     | 不協和による「美の解体」  |
+| [**Yohji Yamamoto**](https://amzn.to/42cl0JT)    | 灰野敬二に触発されたドローン的即興 | 静と轟音の対比       |
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Industrial noise, environmental sounds | Production that evokes war and collapse |
-| [**Rick Owens**](https://amzn.to/3KGkWMm) | Drone noise, low frequency sound | Ritual immersive experience |
-| [**Gucci**](https://amzn.to/4gIXl9X) | Classical + electronic noise | Collision of extravagance and foreign sensation |
-| [**Vivienne Westwood**](https://amzn.to/46DRqyf) | Punk-noise sound | Branding anti-establishment aesthetics |
-| [**Prada**](https://amzn.to/4nonZY9) | Environmental sounds, white noise | Symbolization of the extraordinary |
-| [**Alexander McQueen**](https://amzn.to/46wxWLO) | Classical + electronic noise | A production that symbolizes the collapse of beauty |
+| [**Rick Owens**](https://amzn.to/3KGkWMm)        | ドローンノイズ、低周波サウンド   | 儀式的な没入体験      |
+| [**Gucci**](https://amzn.to/4gIXl9X)             | クラシック＋電子ノイズ       | 豪奢と異物感の衝突     |
+| [**Vivienne Westwood**](https://amzn.to/46DRqyf) | パンク〜ノイズ的サウンド      | 反体制的美学をブランド化  |
+| [**Prada**](https://amzn.to/4nonZY9)             | 環境音、ホワイトノイズ       | 非日常の記号化       |
+| [**Alexander McQueen**](https://amzn.to/46wxWLO) | クラシック＋電子ノイズ       | 美の崩壊を象徴する演出   |
 
 
 ---
 
-### Each brand's approach to noise
+### 各ブランドのノイズへのアプローチ
 
-In-depth examples of major brands and noise
+主要ブランドとノイズの深掘り事例
 
 ✦ [COMME des GARÇONS](https://amzn.to/42fzNDE)
 
-Rei Kawakubo pursues the affinity between "deconstruction of beauty" and noise.
+川久保玲が追求する「美の解体」とノイズの親和性。
 
-Introducing drones, metallic sounds, and experimental music into the show.
+ドローン、金属音、実験音楽をショーに導入。
 
 Related artists: Merzbow, Keiji Haino, David Tudor, Alva Noto.
 
 ✦ [Yohji Yamamoto](https://amzn.to/42cl0JT)
 
-A stage setting depicting the contrast between silence and roaring sound.
+静寂と轟音のコントラストを舞台装置化。
 
-Influenced by Keiji Haino and improvisation.
+灰野敬二やインプロヴィゼーションから影響。
 
-Related artists: Keiji Haino, Keiji Haino-related improvisational unit.
+関係アーティスト：灰野敬二、Keiji Haino関連即興ユニット。
 
 ✦ [Balenciaga](https://amzn.to/3KItfr1)
 
-Full introduction of industrial noise during the Demna period.
+デムナ期にインダストリアルノイズを全面導入。
 
-A roar echoes through muddy runways and ruined spaces.
+泥のランウェイや廃墟空間で轟音を響かせる。
 
-Related artists: Throbbing Gristle, Whitehouse, Puce Mary.
+関係アーティスト：Throbbing Gristle、Whitehouse、Puce Mary。
 
 ✦ [Rick Owens](https://amzn.to/3KGkWMm)
 
-Creates a "ceremonial immersion" using drone noise and low frequencies.
+ドローンノイズと低周波で「儀式的没入」を演出。
 
 The sound directly shakes the audience's bodies.
 
-Related artists: Deathprod, Sunn O))), Nurse With Wound.
+関係アーティスト：Deathprod、Sunn O))), Nurse With Wound。
 
 ✦ [Gucci](https://amzn.to/4gIXl9X)
 
@@ -139,149 +139,149 @@ A collision of classical music and noise, and a reverse irradiation of luxury.
 
 Especially noticeable during the Alessandro Michele period.
 
-Associated artists: Alessandro Cortini, Fennesz.
+関係アーティスト：Alessandro Cortini、Fennesz。
 
 ✦ [Vivienne Westwood](https://amzn.to/46DRqyf)
 
-Branded punk and pioneered the introduction of the noise spirit.
+パンクをブランド化し、ノイズ的精神を先駆的に導入。
 
 Based on the anti-establishment sound of the 1970s.
 
-Related artists: Sex Pistols (Johnny Rotten), early industrial group.
+関係アーティスト：Sex Pistols（ジョニー・ロットン）、初期インダストリアル勢。
 
 ✦ [Prada](https://amzn.to/4nonZY9)
 
-Environmental sounds and white noise were introduced in the 2000s.
+2000年代から環境音・ホワイトノイズを導入。
 
-Fusing urban noise with "elegance".
+都市雑音を「エレガンス」と融合。
 
-Related artists: Ryoji Ikeda, Oval.
+関係アーティスト：Ryoji Ikeda、Oval。
 
 ✦ [Alexander McQueen](https://amzn.to/46wxWLO)
 
-The theme is beauty and death, order and decay, and heavy use of classical music and noise.
+美と死、秩序と崩壊をテーマに、クラシック＋ノイズを多用。
 
-Electronic noise also lurks in the 2010 posthumous show.
+2010年の遺作ショーにも電子ノイズが潜む。
 
 Related artists: Aphex Twin (noise/ambient side), Chris Watson.
 
 ✦ [Louis Vuitton](https://amzn.to/3KgB7jB)
 
-During the Nicolas Ghesquière era, experimental music was introduced into the show.
+ニコラ・ジェスキエール期、ショーに実験音楽を導入。
 
-A fusion of urban noise and electro.
+都市的ノイズとエレクトロの融合。
 
-Related artists: Oneohtrix Point Never, Ben Frost.
+関係アーティスト：Oneohtrix Point Never、Ben Frost。
 
 ✦ [Dior](https://amzn.to/4mBaLWU)
 
 Uses drone-like music during the Kim Jones era.
 
-Converts noise/ambience into a luxurious space.
+ノイズ／アンビエントをラグジュアリーな空間に変換。
 
-Associated artists: William Basinski, Tim Hecker.
+関係アーティスト：William Basinski、Tim Hecker。
 
 ✦ [Saint Laurent](https://amzn.to/3KlN6we)
 
-Emphasizes industrial rock and noise elements.
+インダストリアルロックやノイズ要素を強調。
 
-An affinity for black leather and roar.
+ブラックレザーと轟音の親和性。
 
-Related artists: Swans, Shellac.
-
----
-
-### Brand × Noise/Experimental Music Artist Comparison Table
-
-| Brand | Appointed and related artists | Features of production |
-| --------------------- | ------------------------------------- | --------------- |
-| [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | Merzbow, Keiji Haino, Alva Noto | Deconstructing aesthetics through dissonance |
-| [**Yohji Yamamoto**](https://amzn.to/42cl0JT) | Keiji Haino, improviser | Contrast between silence and roar |
-| [**Balenciaga**](https://amzn.to/3KItfr1) | Throbbing Gristle, Whitehouse, Puce Mary | Ruined space and violent acoustics |
-| [**Rick Owens**](https://amzn.to/3KGkWMm) | Sunn O))), Deathprod, NWW | Ritual Immersive Experience |
-| [**Gucci**](https://amzn.to/4gIXl9X) | Fennesz, Alessandro Cortini | Collision of luxury and foreignness |
-| [**Vivienne Westwood**](https://amzn.to/46DRqyf) | Sex Pistols, early industrial group | Introduction of anti-establishment and anti-aesthetics |
-| [**Prada**](https://amzn.to/4nonZY9) | Ryoji Ikeda, Oval | Transforming city noise into elegance |
-| [**Alexander McQueen**](https://amzn.to/46wxWLO) | Aphex Twin, Chris Watson | A devastating production of beauty and death |
-| [**Louis Vuitton**](https://amzn.to/3KgB7jB) | Oneohtrix Point Never, Ben Frost | Futuristic/urban experimental sound |
-| [**Dior**](https://amzn.to/4mBaLWU) | William Basinski, Tim Hecker | Fusion of drones and luxury |
-| [**Saint Laurent**](https://amzn.to/3KlN6we) | Swans, Shellac | Affinity of black leather and roar |
-
-
+関係アーティスト：Swans、Shellac。
 
 ---
 
-### "Sound of fashion" from a noise artist"s perspective
+### ブランド × ノイズ／実験音楽アーティスト 対照表
 
-From the noise/experimental music side, contact with high-end brands was also important.
+| ブランド                  | 起用・関連アーティスト                            | 演出の特徴           |
+| --------------------- | -------------------------------------- | --------------- |
+| [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | Merzbow、灰野敬二、Alva Noto                 | 不協和による美学の解体     |
+| [**Yohji Yamamoto**](https://amzn.to/42cl0JT)    | 灰野敬二、即興演奏家                             | 静と轟音の対比         |
+| [**Balenciaga**](https://amzn.to/3KItfr1)        | Throbbing Gristle、Whitehouse、Puce Mary | 廃墟的空間と暴力的音響     |
+| [**Rick Owens**](https://amzn.to/3KGkWMm)        | Sunn O)))、Deathprod、NWW                | 儀式的没入体験         |
+| [**Gucci**](https://amzn.to/4gIXl9X)              | Fennesz、Alessandro Cortini             | 豪奢と異物感の衝突       |
+| [**Vivienne Westwood**](https://amzn.to/46DRqyf) | Sex Pistols、初期インダストリアル勢                | 反体制と反美学の導入      |
+| [**Prada**](https://amzn.to/4nonZY9)             | Ryoji Ikeda、Oval                       | 都市雑音をエレガンスに変換   |
+| [**Alexander McQueen**](https://amzn.to/46wxWLO) | Aphex Twin、Chris Watson                | 美と死の崩壊的演出       |
+| [**Louis Vuitton**](https://amzn.to/3KgB7jB)     | Oneohtrix Point Never、Ben Frost        | 未来的・都市的な実験音     |
+| [**Dior**](https://amzn.to/4mBaLWU)              | William Basinski、Tim Hecker            | ドローンとラグジュアリーの融合 |
+| [**Saint Laurent**](https://amzn.to/3KlN6we)     | Swans、Shellac                          | 黒革と轟音の親和性       |
 
-[Merzbow](https://amzn.to/4mG80nl) (Japanese noise master)...While the themes are environmental issues and anti-consumption, it is paradoxically incorporated into luxury.
 
-[Keiji Haino](https://amzn.to/4ntvDR6)...Like clothing, improvisation that "deconstructs form" resonates with designers.
 
-[Throbbing Gristle](https://amzn.to/46nkrzq)...As the father of industrial, it is directly connected to the aesthetics of Balenciaga and Rick Owens.
+---
 
-[Ryoji Ikeda](https://amzn.to/4nqNCYt)…Data music and minimalism resonate with Prada's modernity.
+### ノイズアーティストから見る「ファッションの音」
 
-[Fennesz](https://amzn.to/4mvo7DT), [Tim Hecker](https://amzn.to/46EZO0j)...Sounds between beauty and decay are chosen by Dior and Gucci.
+ノイズ／実験音楽の側からも、ハイブランドとの接点は重要だった。
 
-[Sunn O)))](https://amzn.to/4mE03yK)…The ritualistic nature of drones fits into Rick Owens' worldview.
+[Merzbow](https://amzn.to/4mG80nl)（日本のノイズ巨匠）…環境問題や反消費をテーマにしつつ、逆説的にラグジュアリーに取り込まれる。
+
+[灰野敬二](https://amzn.to/4ntvDR6)…衣服同様「形式を解体する」即興演奏がデザイナーに響く。
+
+[Throbbing Gristle](https://amzn.to/46nkrzq)…インダストリアルの祖として、BalenciagaやRick Owensの美学に直結。
+
+[Ryoji Ikeda](https://amzn.to/4nqNCYt)…データ音楽とミニマルがPradaのモダン性と共鳴。
+
+[Fennesz](https://amzn.to/4mvo7DT)、[Tim Hecker](https://amzn.to/46EZO0j)…美と崩壊の狭間にあるサウンドが、DiorやGucciに選ばれる。
+
+[Sunn O)))](https://amzn.to/4mE03yK)…ドローンの儀式性がRick Owensの世界観にフィット。
 
 ---
 
 
-### Show video links by brand and points of interest
+### ブランド別ショー映像リンクと注目ポイント
 
 | Brand | Video title | Production/sound points | Link |
-| --------------------- | -------------------------------------------------- | ---------------------------------- | ----------------------------------------------------- |
-| **COMME des GARÇONS** | COMME des GARÇONS FW25 "Small Is Stronger" | Suitable for deciphering the overall atmosphere of the show and the overlap between dark lighting and music | [YouTube](https://www.youtube.com/watch?v=YW0q4spnnj8) |
-| **COMME des GARÇONS** | Spring Summer 2024 | Pay attention to the sound selection and development that reveals the experimental nature of Ray Kawakubo's period | [YouTube](https://www.youtube.com/watch?v=QBmd_Z90GbY) |
-| **COMME des GARÇONS** | Men"s SS2026 | Easy to understand trends in production and spatial sound in the latest collection | [YouTube](https://www.youtube.com/watch?v=14r7GrH1HPM) |
-| **COMME des GARÇONS** | FW2025/26 | Easy to understand trends in production and spatial sound in the latest collection | [YouTube](https://www.youtube.com/watch?v=2m9G1duJjxQ) |
-| **Prada** | Fall Winter 2025/26 | You can observe the synchronization of lighting and sound during Milan Fashion Week | [YouTube](https://www.youtube.com/watch?v=d3dTdbNBOWI) |
-| **Others (Brand Mix)** | Experience the Glamor – PRADA/GUCCI, etc. | Useful for comparing performances across multiple brands and viewing trends in music selection | [YouTube](https://www.youtube.com/watch?v=hrIOOlCo0ag) |
-| **GUCCI** | Glamorous Catwalk Music & Elegant Fashion Show | Reference video to confirm the "musical feel" of the GUCCI brand | [YouTube](https://www.youtube.com/watch?v=nGoR6-mEkGQ) |
+| --------------------- | -------------------------------------------------- | --------------------------------- | ----------------------------------------------------- |
+| **COMME des GARÇONS** | COMME des GARÇONS FW25 “Small Is Stronger”          | ショー全体の空気感、暗めの照明と音楽の重なりを読み解くのに適している | [YouTube](https://www.youtube.com/watch?v=YW0q4spnnj8) |
+| **COMME des GARÇONS** | Spring Summer 2024                                  | レイ・カワクボ期の実験性が現れるサウンド選定や展開に注目       | [YouTube](https://www.youtube.com/watch?v=QBmd_Z90GbY) |
+| **COMME des GARÇONS** | Men’s SS2026                                        | 最新コレクションでの演出・空間音響化の傾向を把握しやすい       | [YouTube](https://www.youtube.com/watch?v=14r7GrH1HPM) |
+| **COMME des GARÇONS** | FW2025/26                                           | 最新コレクションでの演出・空間音響化の傾向を把握しやすい       | [YouTube](https://www.youtube.com/watch?v=2m9G1duJjxQ) |
+| **Prada**             | Fall Winter 2025/26                                 | ミラノ・ファッションウィークでの演出、照明と音響の同期性を観察可能  | [YouTube](https://www.youtube.com/watch?v=d3dTdbNBOWI) |
+| **その他（ブランドミックス）**     | Experience the Glamour – PRADA／GUCCI等               | 複数ブランドを横断する演出比較、音楽選曲の傾向を俯瞰するのに有用   | [YouTube](https://www.youtube.com/watch?v=hrIOOlCo0ag) |
+| **GUCCI**             | Glamorous Catwalk Music & Elegant Fashion Show      | GUCCI ブランドの“音楽感”を確認する参考映像          | [YouTube](https://www.youtube.com/watch?v=nGoR6-mEkGQ) |
 | **GUCCI** | Glamorous Catwalk Music & Elegant Fashion Show (separate video) | Comparison material for viewing separate edits, music and time structure with the same theme | [YouTube](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |
 
 ---
 
 
-### COMME des GARÇONS / Gucci / Prada
+### COMME des GARÇONS / Gucci / Prada 
 
-Material archive of "noise/experimental artists/acoustics that were actually used in shows/campaigns (or whose relationship was clearly reported)"
+「ショー／キャンペーンで実際に使われた（あるいは明確に関係が報じられた）ノイズ／実験系アーティスト／音響関係」の資料アーカイブ
 
-COMME des GARÇONS — A tradition of incorporating experimental sounds/noise into "show music"
+COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取り込む伝統
 
-| Show / Materials | Featured Artists | Supplementary Points | References |
-| ------------------------------------ | -------------------------------------------------: | ------------------------------------------------------------------------------------ | ----------------- |
+| ショー / 素材                              |                            起用されたアーティスト | 補足（注目点）                                                                                              | 参照                |
+| ------------------------------------- | -------------------------------------------: | ---------------------------------------------------------------------------------------------------- | ----------------- |
 | Comme des Garçons SS15 (collection episode such as "Red") | **Drone-type sounds including Sunn O))), Earth (drone/drone metal)** | Dazed reported in a special feature that ""Drone-type bands (Sunn O))), Earth) were used in the SS15 soundtrack.'' A case in point where the show's dark aesthetic and sound are strongly connected. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
-| Comme des Garçons (sound produced for fashion shows) | **Florian Hecker** (produces music for fashion/12" releases available) | There are reports that Hecker has produced several songs for Comme des Garçons, and a limited edition has been released by Editions Mego. A "contemporary sound" piece exclusively for the show. ([The [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
-| SS14/Archive playlist, etc. | Show playlist (mixture of experimental sounds, environmental sounds, and noise) | Example of a sound collage for a show uploaded to Dazed's SoundCloud/playlist, etc. Convenient for "verifying" show sound sources. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
+| Comme des Garçons (sound produced for fashion shows) | **Florian Hecker** (produces music for fashion/12" release available) | There are reports that Hecker has produced several songs for Comme des Garçons, and a limited edition is being released by Editions Mego. A "contemporary sound" piece exclusively for the show. ([The [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
+| SS14／アーカイヴ・プレイリスト等                    |                   ショー用プレイリスト（実験音〜環境音〜ノイズの混成） | Dazed のSoundCloud/プレイリスト等にショー用のサウンドコラージュがアップされている例。ショー音源の“検証”に便利。 ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com))                  | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
 ---
 
-#### COMME des GARÇONS — FW25: "Smaller Is Stronger" (video)
+#### COMME des GARÇONS — FW25: "Smaller Is Stronger"（映像）  
 <iframe width="800" height="450" src="https://www.youtube.com/embed/YW0q4spnnj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Notable points (short review)**
-- The low-frequency drone that plays as the venue goes dark amplifies the volume of the black with "sound" ("textural synchronization" of clothing and sound). Reference: Official video.
+**注目ポイント（短評）**  
+- 会場の暗転とともに流れる低域のドローンが、黒のボリュームを「音」で増幅している（衣服と音の“質感同期”）。参照：公式映像。 
 
 ---
 
-### Gucci — "Mixed" sound production with big producers (classic x modern)
+### Gucci — 大物プロデューサーと“混成”するサウンド演出（古典×現代）
 
-| Show / Materials | Artists | Supplements | References |
-| ---------------------------- | ------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Gucci](https://amzn.to/4gIXl9X) (Sabato De Sarno debut show, etc.) | **[Mark Ronson](https://amzn.to/46nSdEG) (Show music production/mix)** | Mark Ronson produces Gucci"s show music. An example of mixing classical music to contemporary pop/remix to create a show"s narrative (detailed interview included in the article). ([Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)) | [Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com) |
-| Gucci campaign/special video (region-limited sound material) | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2) (e.g. providing music for some projects)** | [Cortini](https://amzn.to/3WaGPWF)(Nine Inch Nails Related) and electronic music from the same generation are being used in brand videos (there are examples of music being provided in projects for China, etc.). *This does not mean that all of the brand's shows are noise-oriented, but rather a "local selection of production." ([Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
+| ショー / 素材                        |                                       起用されたアーティスト | 補足                                                                                                                                   | 参照              |
+| ------------------------------- | ------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Gucci](https://amzn.to/4gIXl9X) （Sabato De Sarno デビューショー等） |                       **[Mark Ronson](https://amzn.to/46nSdEG)（ショー音楽プロデュース／ミックス）** | Mark Ronson がGucciのショー音楽をプロデュース。クラシック〜現代ポップ／リミックスを混ぜ、ショーの物語性を作り上げた事例（記事で詳細インタビューあり）。 ([Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com))                                         | [Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)    |
+| Gucci キャンペーン／スペシャル映像（地域限定の音素材）  | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2)（例：一部プロジェクトでの楽曲提供）** | [Cortini](https://amzn.to/3WaGPWF)（Nine Inch Nails 関連）や同世代のエレクトロニック系がブランド映像に起用される事例が報じられている（中国向け企画などでの楽曲提供例あり）。※ブランドの全ショーがノイズ寄り、というわけではなく“演出の局所的選択”。 ([Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
 
 ---
 
-#### GUCCI — Sabato De Sarno (Sound: Mark Ronson)
+#### GUCCI — Sabato De Sarno（サウンド：Mark Ronson）  
 <iframe width="800" height="450" src="https://www.youtube.com/embed/RThDNP1UewY" frameborder="0" allowfullscreen></iframe>
 
-**Points to note**
-- "Narrative" sound design by Mark Ronson. He creates a "time axis" by remixing traditional songs and using modern voices. Reference: Vogue interview (Mark Ronson x Gucci).
+**注目ポイント**  
+- Mark Ronson による“物語化された”サウンドデザイン。伝統曲のリミックスと現代声の使い分けで“時間軸”を作っている。参照：Vogueインタビュー（Mark Ronson × Gucci）。 
 
 ---
 
@@ -289,42 +289,42 @@ COMME des GARÇONS — A tradition of incorporating experimental sounds/noise in
 ### Prada — the connection point between sound director and techno/minimal
 
 
-| Show / Materials | Artists | Supplements | References |
-| ------------------------------------- | ----------------------------: | ------------------------------------------------------------------------------------------------------------ | ----------- |
-| Prada (Raf Simons × Miuccia / Raf period, etc.) | [**Richie Hawtin (Plastikman)**](https://amzn.to/3VCMmVS) | An example of Richie Hawtin"s show music during Raf Simons' tenure. An important case where minimal/techno is layered with Prada"s atmosphere. ([Vogue][1]) | [Vogue][1] |
-| Prada (example of sound director) | [**Frédéric Sanchez (sound director)**](https://amzn.to/42PkrG0) | Sanchez has been collaborating with Prada (as well as Dior, Comme des Garçons, etc.) for many years, building the "sound image" of the show. His interview article is a good resource that shows the close collaboration between brand and sound. ([Vogue][2]) | [Vogue][2] |
+| ショー / 素材                              |             起用されたアーティスト | 補足                                                                                                               | 参照           |
+| ------------------------------------- | ----------------------------: | ---------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Prada（Raf Simons × Miuccia / Raf 期など） | [**Richie Hawtin（Plastikman）**](https://amzn.to/3VCMmVS) | Raf Simons 就任期にRichie Hawtin がショー音楽を手掛けた事例。ミニマル／テクノがPradaの空気感に重ねられた重要なケース。 ([Vogue][1])                                | [Vogue][1] |
+| Prada（サウンド・ディレクターの例）                  |   [**Frédéric Sanchez（音響演出家）**](https://amzn.to/42PkrG0) | Sanchez は長年にわたり Prada（および Dior、Comme des Garçons 等）と協働しており、ショーの“音像”を構築してきた。彼のインタビュー記事は、ブランドと音の密な協働を示す良資料。 ([Vogue][2]) | [Vogue][2] |
 
 [1]: https://www.vogue.com/article/miuccia-prada-raf-simons-plastikman-richie-hawtin-runway-soundtrack?utm_source=chatgpt.com "Miuccia Prada and Raf Simons's Musical Collaborator Plastikman Weighs In on Soundtracking Their First Shows"
 [2]: https://www.vogue.com/article/frederic-sanchez-playlist-interview?utm_source=chatgpt.com "Meet Frédéric Sanchez, Prada's Music Man-And Hear His Fantastical Playlist for Vogue"
 
 ---
 
-#### Prada — Show sound source by Plastikman (Richie Hawtin) (example)
+#### Prada — Plastikman（Richie Hawtin）によるショー音源（例）  
 
-**Sound source (streaming)**: [Plastikman](https://amzn.to/48AkKrV) — "Inxtro" (Prada 2021 Runway Soundtracks) — [edm.com](https://edm.com/lifestyle/richie-hawtin-prada-runway-soundtracks-2021)
-**Points to note**
-- Transferring the physicality of minimal techno to the runway. An example of sound design alongside Frédéric Sanchez.
+**音源（ストリーミング）**: [Plastikman](https://amzn.to/48AkKrV) — "Inxtro"（Prada 2021 Runway Soundtracks） — [edm.com](https://edm.com/lifestyle/richie-hawtin-prada-runway-soundtracks-2021)   
+**注目ポイント**  
+- ミニマル・テクノの身体性をランウェイに転用。Frédéric Sanchez と並ぶサウンド設計の実例。
 
 
 ---
 
 ### Balenciaga / Rick Owens / Alexander McQueen / Louis Vuitton / Dior (each video + related artist)
 
-| Brand | Representative video | Featured artist (report/credit) |
-| ------------------- | -------------------- |-------------------------- |
+| ブランド   | 代表映像     | 起用アーティスト（報道/クレジット）  | 
+| ------------------- | -------------------- |----------------------------- | 
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); Shows playlist — [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Sound design: **BFRND** (Show exclusive score)/Industrial sound usage example |
-| [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 "TEMPLE" — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 etc. (many) | Drone/Low frequency production. Immersive noise production can be confirmed from the show footage |
-| **Alexander McQueen** | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery & Alessandro Cortini** appointed as campaign song (song "At First Sight") |
-| **Louis Vuitton** | Various show & afterparty records (example archives) — Daft Punk/Virgil Abloh's DJ relationships, etc. (multiple) | In the past, **Daft Punk** provided song editing to LV and also used **Dev Hynes (Blood Orange)** for the score (Virgil Abloh period) |
-| **Dior** | Dior (various campaigns/show videos) | There are many cases in which sound designers such as Frédéric Sanchez are involved, and there is a connection with ambient/drone-type production |
+| [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 "TEMPLE" — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 etc. (many) | Drone/Low frequency production. Immersive noise production can be confirmed from the show video |
+| **Alexander McQueen**    | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)  | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）   | 
+| **Louis Vuitton**      | 各種ショー & Afterparty 記録（例のアーカイブ） — Daft Punk / Virgil Abloh のDJ関係など（複数） | かつて **Daft Punk** が LV に楽曲編集提供、また **Dev Hynes (Blood Orange)** をスコア起用した事例あり（Virgil Abloh期） |  
+| **Dior**                                  | Dior（キャンペーン／ショー映像各種）   | Frédéric Sanchez 等のサウンドデザイナーが関与する事例が多く、アンビエント／ドローン系の演出との接点あり  |  
 
 ---
 
-### summary
+### まとめ
 
-"High brand" and "noise music" seem to be unrelated at first glance.
-However, both share an aesthetic that deconstructs and reconstructs beauty.
-Noise tears apart the pretensions of luxury and paradoxically strengthens its brand value.
+一見無縁に見える「ハイブランド」と「ノイズミュージック」。
+だが両者は、美を解体し再構築する美学を共有している。
+ノイズは、ラグジュアリーの虚飾を引き裂き、逆説的にそのブランド価値を強化する。
 The roar that echoes on the runways of the 21st century is proof that brands are not meant to be consumed, but to provoke.
 
 ---
@@ -332,16 +332,16 @@ The roar that echoes on the runways of the 21st century is proof that brands are
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lk1stD9OoT4?si=5pUqbzW7aon05sg7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Related columns
+### 関連コラム
 
 
-🔗 [[Column] History and masterpieces of Experimental Music: From its origins to the present](https://monumental-movement.jp/Column-Experimental-Music)
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
 
 
-🔗 [[Column] Noise Music — From its origins to the present: Historical background, famous records, and changes in equipment](https://monumental-movement.jp/Column-Noise-Music)
+🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)

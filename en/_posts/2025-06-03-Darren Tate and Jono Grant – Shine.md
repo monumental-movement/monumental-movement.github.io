@@ -13,11 +13,11 @@ title: Darren Tate & Jono Grant – Shine
 ---
 
 
-Darren Tate is a member of JODA and a house trance dance music DJ/producer from the UK who also works under the names DT8 Project and 8 Ball.
+Darren Tate (ダレン・テイト)は、JODAのメンバーであり、DT8 Projectや8 Ball 名義でも活動するイギリス出身のハウス・トランス・ダンスミュージックDJ/プロデューサー。
 
-Jono Grant is a member of the UK electronic music group Above & Beyond, and a producer who is also active as a member of JODA, Dirt Devils, and Zed-X.
+Jono Grant (ジョノ・グラント)は、UKのエレクトロミュージックグループAbove & Beyondのメンバーであり、JODA 、Dirt DevilsやZed-Xなどのメンバーとしても活動するプロデューサー。
 
-"shine" is a trance track released by label ID&T in 2003.
+「shine」は、2003年にレーベル ID&Tからリリースされたトランストラック。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A. Let The Light Shine In (Shine)
 B. Let The Light Shine In
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m84737147866?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84737147866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ufu7DIHO0S4?si=DTm6PuooIiret5Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,15 +12,15 @@ tags:
 - Psychedelic
 - Experimental
 - Rare
-title: 軟機 – 軟機
+title: The Soft Machine – The Soft Machine
 ---
 
 
-The Soft Machine 是一支來自坎特伯雷的英國前衛爵士搖滾樂隊，由 Mike Rutledge、Robert Wyatt、Kevin Ayers、David Allen 和 Larry Nowlin 於 1966 年中期組成。樂團以威廉·S·巴勒斯的小說“The Soft Machine”命名。
+The Soft Machine（ソフト・マシーン）は、1966年半ばにマイク・ラトレッジ、ロバート・ワイアット、ケビン・エアーズ、デイヴィッド・アレン、ラリー・ナウリンによって結成されたカンタベリー出身のUKプログレッシヴジャズロックバンド。バンド名は、ウィリアム S. バロウズの小説「ソフトマシーン」にちなんで名付けられた。
 
-Soft Machine 成為英國最早的迷幻樂團之一，後來進入前衛搖滾和爵士搖滾，並於 1971 年成為一支器樂樂團。
+ソフトマシーンは、イギリス初のサイケデリックバンドの1つとなり後にプログレッシブロックやジャズロックに移行し、1971年にはインストゥルメンタルバンドになった。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Hope For Happiness
 2. Joy Of A Toy
@@ -37,7 +37,7 @@ Soft Machine 成為英國最早的迷幻樂團之一，後來進入前衛搖滾�
 13. Box 25/4 Lid
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdQ3Uc9Rc8g?si=wKnvhQ7S8BBwF9io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

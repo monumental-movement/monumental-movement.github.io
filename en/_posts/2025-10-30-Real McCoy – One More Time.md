@@ -20,7 +20,7 @@ title: Real McCoy – One More Time
 
 
 
-One More Time, released in 1997, is the fourth studio album by German Eurohouse act Real McCoy.
+1997年にリリースされた「One More Time」は、ドイツのユーロハウスアクトReal McCoyの4枚目のスタジオアルバム。
 
 #### Tracklist
 ```md
@@ -41,7 +41,7 @@ One More Time, released in 1997, is the fourth studio album by German Eurohouse 
 15. Start Loving Me
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m70516087025?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70516087025?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1EbRikt1bJo?si=dT0wZFAiUl6sF6_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

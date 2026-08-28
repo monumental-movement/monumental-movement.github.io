@@ -13,7 +13,7 @@ title: Treplec – Fliege Jürgen! EP
 ---
 
 
-Released in 2006, this 2-disc EP from Milnormodern label owner Nils Scheibe's project Treplec features groovy tracks with soothing percussive, minimalist rhythms, thick, low-pitched bass, and mysterious melodies and pads.
+2006年リリース作品で、MilnormodernのレーベルオーナーであるNils ScheibeのプロジェクトTreplecによる2枚組EPは心地良いパーカッシヴでミニマルなリズムに、図太く低く鳴るベースとミステリアスなメロディーやパッドが入ってくるグルーヴィーなトラックたちです。
 
 #### Tracklist
 ```md

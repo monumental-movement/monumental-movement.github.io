@@ -15,9 +15,9 @@ title: Carl Craig – Landcruising
 
 Carl Craig is a member of the second generation of Detroit techno, discovered by Derrick May, who is known as one of the founders of Detroit techno along with Kevin Saunderson and Juan Atkins.
 
-He creates a sound that incorporates various elements such as innovative ambient, techno, breakbeat, and future jazz.
+革新的なアンビエント、テクノ、ブレイクビート、フューチャージャズなど様々な要素を盛り込んだサウンドを作っている。
 
-"Landcruising", released in 2005 by WEA"s subsidiary Blanco Y Negro, is Carl Craig"s first album and is considered a masterpiece. In 2005, it was remastered, remixed, and new songs added, and was released under the title ""The Album Formerly Known As...'' by the RushHour label, and was reevaluated.
+WEAの子会社Blanco Y Negroから2005年にリリースされた 「Landcruising」は、カールクレイグの1stアルバムであり名作とされる一枚。2005年にはリマスター＆リミックス＋新曲追加で、タイトル「The Album Formerly Known As...」としてレーベルRushHourからリリースされ再評価されている。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ He creates a sound that incorporates various elements such as innovative ambient
 9. Home Entertainment
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

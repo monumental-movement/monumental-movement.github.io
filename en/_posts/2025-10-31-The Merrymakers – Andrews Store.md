@@ -13,9 +13,9 @@ title: The Merrymakers – Andrew's Store
 ---
 
 
-The Merrymakers are a Swedish musical duo consisting of Anders Hellgren and David Myhr. He also provides/produces music for Puffy AmiYumi, Dorian Gray, Yuko Yamaguchi, and Fujifabric.
+The Merrymakers(ザ・メリーメーカーズ)は、Anders HellgrenとDavid Myhrで構成されたスウェーデンの音楽デュオ。Puffy AmiYumi、Dorian Gray、Yuko Yamaguchi、Fujifabricへの楽曲提供／プロデュースなどの活動もしている。
 
-"Andrew's Store", released in 1997 on the label Stockholm Records, is The Merrymakers' representative album.
+1997年にレーベルStockholm Records からリリースした「Andrew's Store」はThe Merrymakersの代表アルバム。
 
 #### Tracklist
 ```md
@@ -29,4 +29,4 @@ The Merrymakers are a Swedish musical duo consisting of Anders Hellgren and Davi
 8. I Won't Let Down
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m21065900366?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21065900366?afid=6142608987){: .button1}

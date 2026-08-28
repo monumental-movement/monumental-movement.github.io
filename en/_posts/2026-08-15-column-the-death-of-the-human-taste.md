@@ -10,98 +10,98 @@ tags:
 - Algorithms
 - Psychology
 - Sociology
-title: '[Column] The Death of the Human Taste — Is "liking" really yours?'
+title: 【コラム】 The Death of the Human Taste — 「好き」は、本当に自分のものなのか
 ---
 
 
 # The Death of the Human Taste
 
-Text: mmr｜Theme: Are the music and culture you think you like really the ones you chose? In an age where repetition, society, media, and algorithms create people's "likes," we ask whether we still have our own hobbies.
+文：mmr｜テーマ：自分が好きだと思っている音楽や文化は、本当に自分で選んだものなのか。反復、社会、メディア、アルゴリズムが人間の「好き」を作る時代に、私たちはまだ自分の趣味を持っているのかを問う
 
 
-## Is "love" really yours?
+## 「好き」は、本当に自分のものなのか
 
-How did you come to like the music you like?
+あなたは、自分の好きな音楽をどうやって好きになったのだろう。
 
-Maybe it's because someone taught me.
+誰かに教えてもらったからかもしれない。
 
-Maybe it was because a friend was listening to it.
+友人が聴いていたからかもしれない。
 
-Maybe it"s because it"s been on TV so many times.
+テレビで何度も流れていたからかもしれない。
 
-Maybe it's because it was used in a movie.
+映画の中で使われていたからかもしれない。
 
-Maybe it was because I stumbled across it at a record store.
+レコード店で偶然見つけたからかもしれない。
 
-Or maybe it's because it came up in the recommendations on Spotify, YouTube, or TikTok.
+あるいは、SpotifyやYouTube、TikTokのおすすめに出てきたからかもしれない。
 
-Here I can ask a slightly strange question.
+ここで、少し奇妙な質問ができる。
 
-Is that ""like'' something you really chose for yourself?
+その「好き」は、本当に自分で選んだものなのだろうか。
 
-Of course, it's not like someone orders you to like something.
+もちろん、誰かに命令されて好きになるわけではない。
 
-Even if people are told to like this song, they won't fall in love easily.
+「この曲を好きになれ」と言われても、人は簡単には好きにならない。
 
-However, human preferences do not arise from a place of complete freedom.
+しかし、人間の好みは完全に自由な場所から生まれてくるわけでもない。
 
-We form what we like while being influenced by what we see, hear, repeatedly interact with, what people around us value, and what society considers valuable.
+私たちは、見たもの、聴いたもの、繰り返し接したもの、周囲の人々が評価したもの、社会の中で価値があるとされたものの影響を受けながら、自分の「好き」を作っていく。
 
-This isn't just about music.
+これは音楽だけの話ではない。
 
-The same goes for movies, fashion, food, books, games, and art.
+映画も、ファッションも、食べ物も、本も、ゲームも、アートも同じだ。
 
-Nowadays, the environment for creating "likes" has changed dramatically.
+そして現在、その「好き」を作る環境が大きく変わった。
 
-In the past, humans created gateways to culture.
+以前は、人間が文化への入口を作っていた。
 
-A record store clerk.
+レコード店の店員。
 
-Radio DJ.
+ラジオDJ。
 
-Magazine editor.
+雑誌の編集者。
 
-friend.
+友人。
 
-brother or sister.
+兄や姉。
 
-school.
+学校。
 
-club.
+クラブ。
 
-Live house.
+ライブハウス。
 
-And now there is an algorithm at the door.
+そして現在、その入口にはアルゴリズムがいる。
 
-what did you listen to?
+あなたが何を聴いたか。
 
-How many seconds did it take to leave?
+何秒で離れたか。
 
-How many times have you played it?
+何度再生したか。
 
-What did you search for?
+何を検索したか。
 
-What did you click?
+何をクリックしたか。
 
-What did you watch till the end?
+何を最後まで見たか。
 
-What did you skip?
+何をスキップしたか。
 
-From that large amount of behavioral data, it can infer what you're likely to see next.
+その大量の行動データから、次にあなたが見そうなものが推測される。
 
-In other words, in today's culture,
+つまり現在の文化では、
 
-"What do you like?"
+「何が好きなのか」
 
-Not only
+だけではなく、
 
-"What might I like next?"
+「次に何を好きになる可能性があるのか」
 
-It has come to be predicted that
+まで予測されるようになった。
 
-This is where the biggest change in modern hobbies lies.
+ここに、現代の「趣味」の最も大きな変化がある。
 
-> We don't just choose our culture. We live in an era where the very environment in which we choose from culture is designed by someone else.
+> 私たちは文化を選んでいるだけではない。文化から何を選ぶかという環境そのものを、誰かに設計される時代に生きている。
 
 
 <style type="text/css">
@@ -109,7 +109,7 @@ This is where the biggest change in modern hobbies lies.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -119,1473 +119,1505 @@ color: #fff;
 
 ---
 
-## 1. Preferences did not exist from the beginning.
+## 1. 好みは、最初から存在していたわけではない
 
-"I like rock."
+「私はロックが好きだ」
 
-"I like classical music."
+「私はクラシックが好きだ」
 
-"I like hip-hop"
+「私はヒップホップが好きだ」
 
-"I like techno."
+「私はテクノが好きだ」
 
-When we say that, we think as if the nature of ""rock lover" or ""techno lover" existed within us from the beginning.
+そう言うとき、私たちはまるで自分の中に最初から「ロック好き」「テクノ好き」という性質が存在していたかのように考える。
 
-However, in reality it is not so simple.
+しかし、実際にはそう単純ではない。
 
-Human beings do not choose a specific music genre from the moment they are born.
+人間は生まれた瞬間から特定の音楽ジャンルを選んでいるわけではない。
 
-Babies don"t judge things like ""I like this because it"s jazz," or ""I don"t like this because it"s techno."
+赤ん坊は「これはジャズだから好き」「これはテクノだから嫌い」と判断しているわけではない。
 
-As cultural experiences accumulate, boundaries between ""I like this" and ""I don't like this" gradually form.
+文化的な経験が積み重なっていくことで、少しずつ「これは好き」「これは嫌い」という境界が形成される。
 
-The music that was playing at home.
+家で流れていた音楽。
 
-The music my parents listened to.
+親が聴いていた音楽。
 
-The sounds I heard at school.
+学校で聞いた音。
 
-A song that was playing on TV.
+テレビで流れていた曲。
 
-A CD that a friend had.
+友達が持っていたCD。
 
-Music I heard on the street.
+街で聞いた音楽。
 
-movie soundtrack.
+映画のサウンドトラック。
 
-club experience.
+クラブでの体験。
 
-A video I found by chance on the internet.
+インターネットで偶然見つけた映像。
 
-These things form an individual's preferences over a long period of time.
+そうしたものが、長い時間をかけて個人の好みを作る。
 
-In music psychology, it has long been studied that repeated exposure to a certain piece of music changes one's familiarity with and liking for that music.
+音楽心理学では、ある音楽に繰り返し接触することで、その音楽への親しみや好意が変化することが長く研究されてきた。
 
-This is the so-called "mere exposure effect".
+いわゆる「mere exposure effect」、単純接触効果である。
 
-When it comes to music, multiple studies have confirmed that repeated listening to an unknown melody increases familiarity and liking.
+音楽についても、未知の旋律を繰り返し聴くことで、親しみや好意が高まることが複数の研究で確認されている。
 
-This is important.
+これは重要なことだ。
 
-Because we often
+なぜなら、私たちはしばしば、
 
-"I love this song, so I listen to it over and over again."
+「この曲が好きだから、何度も聴いている」
 
-Because I think so.
+と思っているからだ。
 
-But the opposite is also possible.
+しかし逆方向の可能性もある。
 
-"I listened to it so many times that I fell in love with it."
+「何度も聴いたから、好きになった」
 
-It is.
+のである。
 
-Of course, not all preferences can be explained by mere exposure effects alone.
+もちろん、すべての好みが単純接触効果だけで説明できるわけではない。
 
-You may get bored if you repeat it too much.
+繰り返しすぎると飽きる場合もある。
 
-Research has also reported a pattern in which liking for music increases and then decreases depending on the number of exposures.
+研究では、音楽への好意が露出回数によって上昇した後、低下するパターンも報告されている。
 
-In other words,
+つまり、
 
-i don't know
+知らない
+
 ↓
-I know a little
+
+少し知っている
+
 ↓
-feel familiar
+
+親しみを感じる
+
 ↓
-fall in love with
+
+好きになる
+
 ↓
-listen too much
+
+聴きすぎる
+
 ↓
-get bored
 
-That change can occur.
+飽きる
 
-What's interesting here is that tastes are not determined solely by ""the work itself.''
+という変化が起こり得る。
 
-Between works and people,
+ここで面白いのは、好みが「作品そのもの」だけによって決まっていないことだ。
 
-"Number of contacts"
+作品と人間との間に、
 
-There is a third element.
+「接触回数」
 
-Nowadays, this number of contacts can be manipulated not only by humans but also by algorithms.
+という第三の要素が存在する。
 
-> The line between "I listen to it because I like it" and "I fell in love with it because I listened to it" is not as clear as you might think.
+そして現代では、この接触回数を人間だけでなくアルゴリズムも操作できる。
+
+> 「好きだから聴いている」と「聴いているから好きになった」の境界は、思っているほど明確ではない。
 
 ---
 
-## 2. Radio has already created "tastes"
+## 2. ラジオは、すでに「好み」を作っていた
 
-Even before algorithms, there existed a system for determining cultural entry points.
+アルゴリズム以前にも、文化の入口を決める仕組みは存在していた。
 
-Radio is a prime example.
+ラジオはその代表例だ。
 
-A song is played on the radio over and over again.
+ある曲が何度もラジオで流れる。
 
-People know the song.
+人々はその曲を知る。
 
-Even if you"re not particularly interested at first, you"ll memorize the lyrics as you listen to it over and over again.
+最初は特に興味がなくても、何度も聴いているうちに歌詞を覚える。
 
-Memorize the melody.
+メロディを覚える。
 
-Know the chorus.
+サビを知る。
 
-And before you know it, that song becomes a song you know.
+そして、いつの間にかその曲が「知っている曲」になる。
 
-Music history has studied the relationship between such repeated exposure and popular songs.
+音楽史では、こうした反復露出と人気曲の関係が研究されてきた。
 
-A 1987 study confirmed that songs that were at the top of the charts and stayed on the charts for a long time received more repeat play in the media and thus gained more recognition.
+1987年の研究では、チャート上位にあり、長期間チャートに残った楽曲ほどメディアで繰り返し流れるため、認知度が高まることが確認されている。
 
-There is an important structure here.
+ここには重要な構造がある。
 
-It flows because it's popular.
+人気だから流れる。
 
-It is known because it flows.
+流れるから知られる。
 
-Because it is known, it is listened to even more.
+知られるからさらに聴かれる。
 
-It becomes popular because it is listened to.
+聴かれるから人気になる。
 
-This cycle existed even before the modern Internet.
+この循環は、現在のインターネット以前から存在していた。
 
-Record companies, radio stations, music magazines, television, and record stores.
+レコード会社、ラジオ局、音楽雑誌、テレビ、レコード店。
 
-Each of them created a cultural "entrance".
+それぞれが文化の「入口」を作っていた。
 
-Therefore, music listeners in the past were not completely free.
+だから、昔の音楽リスナーも完全に自由だったわけではない。
 
-However, there are important differences.
+ただし、重要な違いがある。
 
-The gatekeepers at that time were humans.
+当時のゲートキーパーは、人間だった。
 
-The DJ chose the song.
+DJが曲を選んだ。
 
-Magazine editors selected articles.
+雑誌編集者が記事を選んだ。
 
-The store clerk recommended the record.
+店員がレコードを推薦した。
 
-A friend lent me the tape.
+友人がテープを貸した。
 
-Naturally, that judgment was biased.
+その判断には、当然ながら偏りがあった。
 
-However, there was a ""human habit'' behind this bias.
+しかし、その偏りには「人間の癖」があった。
 
-A certain DJ likes strange songs.
+あるDJは変な曲を好む。
 
-One store clerk knows a lot about jazz.
+ある店員はジャズに詳しい。
 
-Some editors only introduce punk.
+ある編集者はパンクばかり紹介する。
 
-This human bias sometimes bends culture in unexpected directions.
+その人間的な偏りが、文化を意外な方向へ曲げることがあった。
 
-From there, new genres and scenes were sometimes born.
+そして、そこから新しいジャンルやシーンが生まれることもあった。
 
-Current algorithms also have biases.
+現在のアルゴリズムにも偏りはある。
 
-However, this bias is not fundamentally a personal hobby.
+しかし、その偏りは基本的に個人的な趣味ではない。
 
-click rate.
+クリック率。
 
-Viewing time.
+視聴時間。
 
-reproduction.
+再生。
 
-keep.
+保存。
 
-Leave.
+離脱。
 
-engagement.
+エンゲージメント。
 
-Prediction accuracy.
+予測精度。
 
-Optimized based on these measurable behaviors.
+そうした測定可能な行動に基づいて最適化される。
 
-This is where the structure of culture changes.
+ここで文化の構造が変わる。
 
-"I"ll introduce it because it"s interesting."
+「面白いから紹介する」
 
-rather than
+ではなく、
 
-"Display because there is a high possibility of reaction"
+「反応する可能性が高いから表示する」
 
-This idea is central.
+という考え方が中心になる。
 
-> Human curation was "I think this is interesting." The algorithmic curation is "You are likely to respond to this".
+> 人間のキュレーションは「私はこれが面白いと思う」だった。アルゴリズムのキュレーションは「あなたはこれに反応する可能性が高い」である。
 
 ---
 
-## 3. The Internet has created "infinite choices"
+## 3. インターネットは「無限の選択肢」を作った
 
-Culture before the Internet had major limitations.
+インターネット以前の文化には、大きな制約があった。
 
-You can't see everything.
+すべてを見ることはできない。
 
-I can't even listen to everything.
+すべて聴くこともできない。
 
-There are limits to the records that can be stocked in record stores.
+レコード店に置けるレコードには限界がある。
 
-There are limits to the articles that can be published in magazines.
+雑誌に掲載できる記事にも限界がある。
 
-There are limits to the programs that can be broadcast on television.
+テレビで放送できる番組にも限界がある。
 
-In other words, there were physical "shelves" in culture.
+つまり、文化には物理的な「棚」が存在していた。
 
-And someone was choosing what would go on that shelf.
+そして、その棚に入るものを誰かが選んでいた。
 
-The Internet has drastically changed this constraint.
+インターネットは、この制約を大幅に変えた。
 
-music from around the world.
+世界中の音楽。
 
-Movies from around the world.
+世界中の映画。
 
-Images from around the world.
+世界中の映像。
 
-Sentences from around the world.
+世界中の文章。
 
-Photos from around the world.
+世界中の写真。
 
-Cultures that were previously geographically inaccessible are now displayed on the same screen.
+それまでなら地理的にアクセスできなかった文化が、同じ画面に並ぶようになった。
 
-This is a very unique situation in human history.
+これは人類史上かなり特殊な状況だ。
 
-More options now available.
+選択肢が増えた。
 
-However, a problem arises here.
+しかし、ここで一つ問題が生まれる。
 
-When there are too many options, humans cannot compare them all.
+選択肢が増えすぎると、人間はすべてを比較できない。
 
-You can choose one song out of 100.
+100曲から1曲を選ぶことはできる。
 
-However, it is difficult to choose one song from a million songs.
+しかし100万曲から1曲を選ぶのは難しい。
 
-This is where recommendation systems come into play.
+そこで推薦システムが登場する。
 
-instead of you
+あなたの代わりに、
 
-"Would you like to listen to this?"
+「これを聴いてみませんか？」
 
-and will give you suggestions.
+と候補を出してくれる。
 
-This is very convenient.
+これは非常に便利だ。
 
-And indeed, recommendation systems have become important tools for exploring vast music catalogs.
+そして実際、推薦システムは巨大な音楽カタログを探索するための重要な道具になった。
 
-Spotify Research also explains that algorithmic recommendations are significantly shaping music streaming consumption.
+Spotify Researchも、アルゴリズムによる推薦が音楽ストリーミング上の消費を大きく形作っていると説明している。
 
-The problem is that recommendations don't just "reduce options."
+問題は、推薦が単に「選択肢を減らす」だけではないことだ。
 
-The recommendation is
+推薦は、
 
-"The culture you will experience next"
+「あなたが次に経験する文化」
 
-It is possible to decide that.
+そのものを決める可能性がある。
 
-From this point on, the recommendation system ceases to be a search tool.
+ここから、推薦システムは検索ツールではなくなる。
 
-It becomes a cultural editing device.
+文化の編集装置になる。
 
-> Having infinite options is not the same as seeing infinite options.
+> 無限の選択肢を持つことと、無限の選択肢を見ることは同じではない。
 
 ---
 
-## 4. Are "recommendations for you" a mirror of yourself?
+## 4. 「あなたへのおすすめ」は、あなた自身の鏡なのか
 
-When I look at the recommendations section, I sometimes get a strange feeling.
+おすすめ欄を見ると、不思議な感覚になることがある。
 
-"I know I like this."
+「これ、私が好きなのを分かっている」
 
-That's the moment I think.
+と思う瞬間だ。
 
-In fact, recommender systems predict users' preferences based on their past behavior.
+実際、推薦システムは過去の行動からユーザーの好みを予測する。
 
-What did you play?
+何を再生したか。
 
-What did you save?
+何を保存したか。
 
-What content did you watch for the longest time?
+どのコンテンツを長く見たか。
 
-Which artist did you choose?
+どのアーティストを選んだか。
 
-Which genres did you repeat?
+どのジャンルを繰り返したか。
 
-Based on that information, it will then suggest what you might like.
+その情報から、次に好みそうなものを提示する。
 
-So in a sense, the recommendation section is a mirror created from my own history.
+だからおすすめ欄は、ある意味では自分自身の履歴から作られた鏡でもある。
 
-But it's not a perfect mirror.
+しかし、完全な鏡ではない。
 
-This is because ""things that were not chosen'' are not reflected in that mirror.
+なぜなら、その鏡には「選ばれなかったもの」が映らないからだ。
 
-Music you don't know yet.
+あなたがまだ知らない音楽。
 
-Genres that I have never searched for.
+一度も検索していないジャンル。
 
-Artists you don't know exist.
+存在を知らないアーティスト。
 
-Works that are too far from your current interests.
+あなたの現在の興味から遠すぎる作品。
 
-Such things are difficult to predict from the perspective of a recommendation system.
+そうしたものは、推薦システムから見ると予測しにくい。
 
-As a result, the more you look for ""what you are likely to react to next'' based on your past actions, the more your past preferences have the power to determine future candidates.
+その結果、あなたの過去の行動から「次に反応しそうなもの」を探すほど、過去の好みが未来の候補を決める力を持つ。
 
-This is a very important change in culture.
+これは文化にとって非常に重要な変化だ。
 
-In the past,
+昔なら、
 
-"My friend suddenly brought me a strange record."
+「友人が突然変なレコードを持ってきた」
 
-Something happened.
+という出来事が起こった。
 
-However, the algorithm
+しかしアルゴリズムには、
 
-"Music you've never listened to, but based on your tastes, you might like."
+「あなたがこれまで一度も聴いていないが、あなたの好みから考えると好きそうな音楽」
 
-You can search for.
+を探すことができる。
 
-This may lead to more encounters with new music.
+これは新しい音楽との出会いを増やす可能性がある。
 
-In fact, when it comes to music recommendation, the possibility of algorithms presenting new content that users would not otherwise encounter through their natural behavior is being studied.
+実際、音楽推薦については、アルゴリズムがユーザーの自然な行動だけでは出会わない新しいコンテンツを提示する可能性が研究されている。
 
-On the other hand, this "newness" does not mean completely free exploration.
+一方で、その「新しさ」が完全に自由な探索になるわけではない。
 
-A study published in Scientific Reports in 2025 that analyzed the consumption history of approximately 50,000 Deezer users showed that while algorithmic curation may introduce novelty more than users' organic behavior, that novelty may be semantically more narrowly focused.
+2025年にScientific Reportsで発表された約5万人のDeezerユーザーの消費履歴を分析した研究では、アルゴリズムによるキュレーションは、ユーザーのオーガニックな行動より新規性を導入する場合がある一方、その新規性が意味的にはより狭い範囲に集中する可能性が示された。
 
-In other words,
+つまり、
 
-"We're showing you something new."
+「新しいものを見せている」
 
-And,
+ことと、
 
-"It"s really taking me far."
+「本当に遠くまで連れていっている」
 
-That's different.
+ことは違う。
 
-This is very important.
+これは非常に重要だ。
 
-Recommendations can take you to places you don't know.
+おすすめは、あなたを知らない場所へ連れていくこともある。
 
-However, that location may also be near "a place you already seem to like."
+しかし、その場所は「あなたがすでに好きそうな場所」の近くである可能性もある。
 
-> Algorithms don't just lock you up. Rather, you can efficiently let them adventure within the range that you like.
+> アルゴリズムはあなたを閉じ込めるだけではない。むしろ、あなたが好きそうな範囲の中で、効率よく冒険させることができる。
 
 ---
 
-## 5. The term filter bubble
+## 5. フィルターバブルという言葉
 
-Since the 2010s, the term "filter bubble" has become widely used when discussing Internet culture.
+2010年代から、インターネット文化を語るときに「フィルターバブル」という言葉が広く使われるようになった。
 
-The idea is simple.
+考え方は単純だ。
 
-Information is personalized for each user.
+ユーザーごとに情報がパーソナライズされる。
 
-Then, only the information that the user wants to see is displayed.
+すると、ユーザーが見たいと思う情報ばかりが表示される。
 
-As a result, people may be surrounded by only information that is close to their own thoughts and preferences.
+その結果、自分の考えや好みに近い情報だけに囲まれる可能性がある。
 
-The same problem can occur with music.
+音楽でも同じ問題が考えられる。
 
-Listen to techno.
-
-↓
-
-Music close to techno is recommended.
+テクノを聴く。
 
 ↓
 
-listen to it.
+テクノに近い音楽が推薦される。
 
 ↓
 
-More similar music will be recommended.
+それを聴く。
 
 ↓
 
-listen to that music.
+さらに似た音楽が推薦される。
 
 ↓
 
-"I like techno," he realized.
+その音楽を聴く。
 
 ↓
 
-Music close to techno is further recommended.
+「私はテクノが好きだ」と認識する。
 
-This cycle continues.
-
-However, it is not accurate to use the term filter bubble alone to describe reality.
-
-Research also shows that recommendation systems do not always reduce diversity.
-
-A 2014 study empirically investigated how recommendation systems affect content diversity.
-
-Furthermore, recent music research has confirmed that algorithms both reduce diversity and, conversely, encourage exploration of new content.
-
-In other words,
-
-"Algorithms trap humans"
-
-It's not that simple.
-
-Rather, the problem is
-
-"In what direction should we create diversity?"
-
-It's in
-
-Being able to listen to 100 different types of techno is also diversity.
-
-but,
-
-techno
 ↓
-house
-↓
-disco
-↓
-funk
-↓
-afrobeat
-↓
-traditional music of west africa
-↓
-Indonesian electronic music
 
-This kind of movement is also diversity.
+テクノに近い音楽がさらに推薦される。
 
-Even though the word "diversity" is the same, its meaning is completely different.
+この循環が続く。
 
-> ""Showing something different" is not enough. What really matters is ""how far apart can you show something different?"
+ただし、フィルターバブルという言葉だけで現実を説明するのは正確ではない。
+
+研究では、推薦システムが常に多様性を減らすとは限らないことも示されている。
+
+2014年の研究では、推薦システムがコンテンツの多様性にどのような影響を与えるかが実証的に調査された。
+
+さらに近年の音楽研究では、アルゴリズムが多様性を減らす側面と、逆に新しいコンテンツへの探索を促す側面の両方が確認されている。
+
+つまり、
+
+「アルゴリズムは人間を閉じ込める」
+
+という単純な話ではない。
+
+むしろ問題は、
+
+「どの方向に多様性を作るのか」
+
+にある。
+
+100種類のテクノを聴かせることも多様性だ。
+
+しかし、
+
+テクノ
+
+↓
+
+ハウス
+
+↓
+
+ディスコ
+
+↓
+
+ファンク
+
+↓
+
+アフロビート
+
+↓
+
+西アフリカの伝統音楽
+
+↓
+
+インドネシアの電子音楽
+
+という移動も多様性である。
+
+同じ「多様性」という言葉でも、その意味は全く違う。
+
+> 「違うものを見せる」だけでは足りない。本当に重要なのは、「どれくらい遠くまで違うものを見せるのか」である。
 
 ---
 
-## 6. Humans tend to like ""what they know" rather than ""what they like"
+## 6. 人間は「好きなもの」より「知っているもの」を好きになりやすい
 
-Now, let's return to the human side once again.
+ここで、もう一度人間側に戻ろう。
 
-Even without algorithms, humans have a natural tendency to prefer what they know.
+アルゴリズムがなくても、人間にはもともと「知っているものを好みやすい」という性質がある。
 
-This has also been confirmed in music research.
+これは音楽研究でも確認されてきた。
 
-Repeated exposure to unknown music may make it easier to recognize, increase familiarity, and increase liking.
+未知の音楽に繰り返し触れると、認識しやすくなり、親しみが増し、好意も上昇する場合がある。
 
-At first glance, this seems obvious.
+これは一見すると当たり前に見える。
 
-However, when you think about culture, it has a very significant meaning.
+しかし、文化について考えると非常に大きな意味を持つ。
 
-For example, when I first heard it,
+例えば、初めて聴いたときには、
 
-"What is this?"
+「何これ？」
 
-Suppose there is a song that makes you think.
+と思った曲があるとする。
 
-Listen again.
+もう一度聴く。
 
-"I don"t really understand yet."
+「まだよく分からない」
 
-Listen further.
+さらに聴く。
 
-"I"m starting to understand a little bit."
+「少し分かってきた」
 
-after that,
+その後、
 
-"This song is surprisingly good."
+「この曲、意外といいな」
 
-Become.
+になる。
 
-Listen further.
+さらに聴く。
 
-"I quite like it."
+「かなり好きだ」
 
-Become.
+になる。
 
-In other words, the initial feeling of discomfort is not the same as "dislike."
+つまり、最初の違和感は「嫌い」と同じではない。
 
-simply,
+単に、
 
-"I still don't understand."
+「まだ理解できていない」
 
-Maybe only.
+だけかもしれない。
 
-However, in today's digital environment, decisions are often made within the first few seconds.
+ところが、現在のデジタル環境では、最初の数秒で判断されることが多い。
 
-to the next.
+次へ。
 
-skip.
+スキップ。
 
-Leave.
+離脱。
 
-scroll.
+スクロール。
 
-Don't click.
+クリックしない。
 
-Thus, the relationship with culture is shortened.
+こうして、文化との関係が短くなる。
 
-If it was an old record, I would listen to it many times since I bought it.
+昔のレコードなら、買ってしまった以上、何度も聴くことがあった。
 
-I bought a CD.
+CDを買った。
 
-I bought a cassette.
+カセットを買った。
 
-I bought a record.
+レコードを買った。
 
-I spent time on that work.
+その作品に時間を使った。
 
-Sometimes I didn't understand a piece at first, but after a few weeks I suddenly started to like it.
+最初は理解できなかった作品が、数週間後に突然好きになることもあった。
 
-Now, if you don't like something, you can immediately move on to another piece.
+現在は、気に入らなければすぐに別の作品へ移動できる。
 
-This is great freedom.
+これは素晴らしい自由だ。
 
-But at the same time
+しかし同時に、
 
-"I'll be patient until I understand."
+「理解するまで我慢する」
 
-There is also the possibility that this cultural experience may be reduced.
+という文化的経験を減らす可能性もある。
 
-> In culture, there are not only works that you fall in love with in an instant, but also works that you fall in love with over and over again.
+> 文化には「一瞬で好きになる作品」だけではなく、「何度も付き合っているうちに好きになる作品」もある。
 
 ---
 
-## 7. "Skip" has become the new judge of modern times
+## 7. 「スキップ」は、現代の新しい審査員になった
 
-In the streaming era, listeners have become extremely empowered.
+ストリーミング時代、リスナーは非常に強い権限を持つようになった。
 
-If you don't like it, you can skip it.
+気に入らなければスキップできる。
 
-You can move to another song.
+別の曲に移動できる。
 
-Can be searched.
+検索できる。
 
-You can create playlists.
+プレイリストを作れる。
 
-You can create your own music environment.
+自分だけの音楽環境を構築できる。
 
-This is a powerful freedom that never existed in the past.
+これは過去には存在しなかったほど強力な自由だ。
 
-But that freedom has another side.
+しかし、その自由には別の側面がある。
 
-For platforms, user behavior becomes data.
+プラットフォームにとって、ユーザーの行動はデータになる。
 
-What did you listen to to the end?
+何を最後まで聴いたか。
 
-where did you leave?
+どこで離脱したか。
 
-What did you repeat?
+何を繰り返したか。
 
-Your actions may influence your next recommendation.
+その行動は、次の推薦に影響する可能性がある。
 
-In other words,
+つまり、
 
-"Skip"
+「スキップする」
 
-One action is
+という一つの行動が、
 
-"This music doesn't suit me"
+「この音楽は自分には合わない」
 
-It is passed to the system as information.
+という情報としてシステムに渡される。
 
-Then a strange cycle begins.
+そこで奇妙な循環が始まる。
 
-You skip.
-
-↓
-
-The system determines that this type is not preferred.
+あなたがスキップする。
 
 ↓
 
-Recommendations for similar works will decrease.
+システムが「このタイプは好まれない」と判断する。
 
 ↓
 
-You listen to that type of music less.
+似た作品の推薦が減る。
 
 ↓
 
-You will not know the music.
+あなたはそのタイプの音楽を聴く機会が減る。
 
 ↓
 
-I think, ""I don't like this kind of music.''
+その音楽を知らないままになる。
 
-But did he really hate it?
+↓
 
-or,
+「自分はこういう音楽が好きではない」と思う。
 
-"I didn"t have a chance to listen to it enough."
+しかし、本当に嫌いだったのだろうか。
 
-I wonder if it's just that.
+あるいは、
 
-Of course, this doesn't mean that all recommendation systems work this way.
+「十分に聴く機会がなかった」
 
-Actual recommendation algorithms are highly complex, balancing multiple objectives such as exploration and exploitation, accuracy and diversity.
+だけなのだろうか。
 
-Still, there is a big problem with modern culture here.
+もちろん、これはすべての推薦システムが必ずこう動くという意味ではない。
 
-We judge our own "dislikes".
+実際の推薦アルゴリズムは非常に複雑であり、探索と利用、精度と多様性など複数の目的を調整している。
 
-However, the opportunities for people to come into contact with the works that serve as the basis for their judgments have changed depending on their past actions.
+それでも、ここには現代文化の大きな問題がある。
 
-> What can you try before deciding what you like? That entrance has become important in modern times.
+私たちは自分の「嫌い」を判断している。
+
+しかし、その判断材料となる作品への接触機会そのものが、過去の行動によって変化している。
+
+> 好みを判断する前に、何を試すことができるのか。その入口こそが、現代では重要になっている。
 
 ---
 
-## 8. "Being yourself" is also a combination of cultures.
+## 8. 「自分らしさ」は、文化の組み合わせでもある
 
-People talk about their hobbies as part of their identity.
+人は自分の趣味をアイデンティティとして語る。
 
-"I like jazz."
+「私はジャズが好き」
 
-"I like punk"
+「私はパンクが好き」
 
-"I like underground"
+「私はアンダーグラウンドが好き」
 
-"I don't listen to mainstream"
+「私はメインストリームを聴かない」
 
-At this point, music is no longer just entertainment.
+このとき、音楽は単なる娯楽ではなくなる。
 
-It becomes a tool to explain who you are.
+自分が何者なのかを説明する道具になる。
 
-This has been particularly strong in youth culture.
+これは特に若者文化で強く見られてきた。
 
-punk.
+パンク。
 
-hip hop.
+ヒップホップ。
 
-metal.
+メタル。
 
-Goth.
+ゴス。
 
-Rave.
+レイヴ。
 
-Skate culture.
+スケート文化。
 
-club culture.
+クラブカルチャー。
 
-Each culture had not only music, but also clothing, language, location, physical expression, values, and camaraderie.
+それぞれの文化には音楽だけではなく、服装、言葉、場所、身体表現、価値観、仲間意識があった。
 
-In other words,
+つまり、
 
-"What should I listen to?"
+「何を聴くか」
 
-teeth,
+は、
 
-"Who are you with?"
+「誰と一緒にいるか」
 
-It was also connected.
+とも結びついていた。
 
-Therefore, musical tastes have social meaning.
+だから、音楽の好みは社会的な意味を持つ。
 
-But in the digital environment, this relationship is changing.
+しかしデジタル環境では、この関係も変化している。
 
-In the past, in order to break into a genre, you had to be part of that cultural community.
+以前は、あるジャンルに入り込むためには、その文化のコミュニティに入る必要があった。
 
-Go to a record store.
+レコード店に行く。
 
-Go to a live house.
+ライブハウスに行く。
 
-Go to the club.
+クラブに行く。
 
-Read magazines.
+雑誌を読む。
 
-make friends
+友人を作る。
 
-Exchange records.
+レコードを交換する。
 
 In the process, we also gain information other than music.
 
-Now, with a single search, you can enter the center of that culture.
+現在は、検索一つでその文化の中心に入れる。
 
-This is amazing.
+これは素晴らしい。
 
-However, at the same time, culture can also be separated as "content."
+しかし、同時に文化を「コンテンツ」として切り離すこともできる。
 
-I only watch punk music.
+パンクの音楽だけを見る。
 
-I only watch hip hop songs.
+ヒップホップの曲だけを見る。
 
-Watch only techno videos.
+テクノの動画だけを見る。
 
-You can consume the work without knowing the history, location, or human relationships behind it.
+その背景にある歴史や場所、人間関係を知らなくても、作品だけを消費できる。
 
-Here,
+ここでは、
 
-"culture"
+「文化」
 
-but
+が
 
-"Recommended content"
+「推薦可能なコンテンツ」
 
-Changes to
+へ変わる。
 
-> Culture is not just about works. It becomes culture only when it includes the place where the work was created, its history, and human relationships.
+> 文化は作品だけではない。作品を生み出した場所、歴史、人間関係まで含めて初めて文化になる。
 
 ---
 
-## 9. The "genre" box also changes depending on the algorithm
+## 9. 「ジャンル」という箱も、アルゴリズムによって変わる
 
-Music genres are convenient words created by humans to organize culture.
+音楽ジャンルは、人間が文化を整理するために作った便利な言葉だ。
 
-rock.
+ロック。
 
-jazz.
+ジャズ。
 
-Soul.
+ソウル。
 
-House.
+ハウス。
 
 Techno.
 
-Ambient.
+アンビエント。
 
-hip hop.
+ヒップホップ。
 
-reggae.
+レゲエ。
 
 punk.
 
-However, actual music cannot be categorized so neatly.
+しかし、実際の音楽はそんなにきれいに分類できない。
 
-Artists are influenced by other genres.
+アーティストは別のジャンルから影響を受ける。
 
-Musicians mix different cultures.
+ミュージシャンは異なる文化を混ぜる。
 
 New technology creates new sounds.
 
-DJs play multiple genres on the same floor.
+DJは複数のジャンルを同じフロアで鳴らす。
 
-And from there, a new genre is born.
+そして、そこから新しいジャンルが生まれる。
 
 Looking back at music history, much of new music has arisen at the boundaries of existing categories.
 
 However, recommendation systems need to present relevant content in a way that is easy for users to understand.
 
-Therefore,
+そのため、
 
-"People who listen to this music also listen to this"
+「この音楽を聴いた人は、こちらも聴く」
 
-That relationship is important.
+という関係が重要になる。
 
-This is convenient.
+これは便利だ。
 
 However, historical connections in music and algorithmic "similarity" are not the same thing.
 
-For example, just because one piece of music has influenced another doesn't mean they are sonically similar.
+例えば、ある音楽が別の音楽に影響を与えたからといって、音響的に似ているとは限らない。
 
-On the other hand, even if they are acoustically very similar, they may have completely different cultural backgrounds.
+逆に、音響的には非常に似ていても、文化的な背景がまったく異なる場合もある。
 
 In other words,
 
 "resemble"
 
-The word has multiple meanings.
+という言葉には複数の意味がある。
 
-sounds similar.
+音が似ている。
 
-The rhythm is similar.
+リズムが似ている。
 
-The tempo is similar.
+テンポが似ている。
 
-The singing voices are similar.
+歌声が似ている。
 
-The listeners overlap.
+聴取者が重なる。
 
-There are historical influences.
+歴史的な影響関係がある。
 
-The same is used in clubs.
+クラブで同じように使われる。
 
-Born in the same area.
+同じ地域から生まれた。
 
-However, the ""similarity" that algorithms can handle does not match the ""similarity" that humans think of based on cultural history.
+しかしアルゴリズムが扱える「似ている」と、人間が文化史の中で考える「似ている」は一致しない。
 
-> The history of music is not a history of "similar things." It is also a "history of different things meeting each other."
+> 音楽の歴史は「似ているもの」の歴史ではない。「異なるものが出会った歴史」でもある。
 
 ---
 
-## 10. Algorithms don"t just discover "preferences"
+## 10. アルゴリズムは「好み」を発見するだけではない
 
-This may be the most important point on this topic.
+ここが、このテーマで最も重要なポイントかもしれない。
 
 The algorithm is
 
-"What do you like?"
+「あなたが何を好きなのか」
 
-It's not just discovering.
+を発見しているだけではない。
 
-By recommendation,
+推薦によって、
 
-"What will you encounter next?"
+「あなたが次に何に出会うのか」
 
-is decided.
+を決めている。
 
-And that experience influences the next preference.
+そして、その経験が次の好みに影響する。
 
-In other words,
+つまり、
 
-past preferences
+過去の好み
+
 ↓
-Recommendation
+
+推薦
+
 ↓
-new experience
+
+新しい経験
+
 ↓
-new taste
+
+新しい好み
+
 ↓
+
 new data
+
 ↓
-new recommendation
 
-This creates a cycle.
+新しい推薦
 
-This is not unidirectional.
+という循環が生まれる。
 
-Humans create algorithms.
+これは一方向ではない。
 
-Algorithms influence human behavior.
+人間がアルゴリズムを作る。
 
-The behavior returns to the algorithm.
+アルゴリズムが人間の行動に影響する。
 
-Through this cycle, preferences change dynamically.
+その行動が再びアルゴリズムに戻る。
 
-A study published in the Journal of Cultural Economics in 2026 uses music recommendations like Spotify and personalized services like Netflix to model how engagement-based curation can influence the formation of long-term aesthetic preferences. The research deals with factors such as increasing familiarity through moderate contact, boredom through excessive contact, and the recommender's control over contact opportunities.
+この循環によって、好みは動的に変化する。
 
-Here, "preferences" are no longer a fixed profile.
+2026年にJournal of Cultural Economicsで発表された研究では、Spotifyのような音楽推薦やNetflixのようなパーソナライズされたサービスを例に、エンゲージメントを基準とするキュレーションが長期的な美的嗜好の形成にどのような影響を与え得るかがモデル化されている。研究では、適度な接触による親しみの増加と、過剰接触による飽き、そして推薦側が接触機会を制御するという要素が扱われている。
+
+ここで「好み」は固定されたプロフィールではなくなる。
 
 The person you were yesterday makes you the person you are today.
 
-Today"s you creates tomorrow"s recommendations.
+今日のあなたが明日の推薦を作る。
 
-And tomorrow's recommendations will shape your preferences for the day after tomorrow.
+そして明日の推薦が、明後日のあなたの好みを作る。
 
-In this cycle,
+この循環の中で、
 
 「私はこういう人間だから、こういう音楽が好きだ」
 
 という説明は、少しずつ難しくなる。
 
-because,
+なぜなら、
 
-"I started liking this kind of music because I listened to this kind of music."
+「こういう音楽を聴いてきたから、こういう音楽が好きになった」
 
-Because there is a possibility that.
+という可能性もあるからだ。
 
-> Preference is not a personality trait. It is also a history that continues to be updated through experience.
+> 好みは性格ではない。経験によって更新され続ける履歴でもある。
 
 ---
 
-## 11. So, is "human taste" dead?
+## 11. では、「人間の好み」は死んだのか
 
-Let's return to the title here.
+ここでタイトルに戻ろう。
 
-The Death of the Human Taste.
+The Death of the Human Taste。
 
-"The death of human hobbies."
+「人間の趣味の死」。
 
-Is human taste really dead?
+本当に、人間の好みは死んだのだろうか。
 
-The answer is, he's not dead yet.
+答えは、まだ「死んでいない」だ。
 
-To begin with, human preferences were not completely free even before algorithms.
+そもそも、人間の好みはアルゴリズム以前から完全に自由ではなかった。
 
-home.
+家庭。
 
-region.
+地域。
 
 class.
 
-education.
+教育。
 
-friend.
+友人。
 
-media.
+メディア。
 
-market.
+市場。
 
-Popular.
+流行。
 
-community.
+コミュニティ。
 
-All of these things have influenced our tastes.
+これらすべてが、私たちの好みに影響してきた。
 
-that's why,
+だから、
 
-"In the past, we were completely free."
+「昔は完全に自由だった」
 
-That story is not accurate.
+という物語は正確ではない。
 
-What has changed is
+変わったのは、
 
-"Who designs the entrance to culture?"
+「誰が文化への入口を設計するのか」
 
-That's the part.
+という部分だ。
 
-There used to be human editors.
+かつては人間の編集者がいた。
 
-There are algorithms now.
+現在はアルゴリズムがいる。
 
-The biggest difference is that the algorithm can create different entry points for each individual.
+そして最も大きな違いは、アルゴリズムが個人ごとに異なる入口を作れることだ。
 
-On TV, millions of people watch the same program.
+テレビなら、同じ番組を何百万人も見る。
 
-In magazines, tens of thousands of people read the same article.
+雑誌なら、同じ記事を何万人も読む。
 
-However, in the recommendation system, the screen of the person next to you is different from your own screen.
+しかし推薦システムでは、隣にいる人の画面と自分の画面が違う。
 
-Even on the same platform, you can experience different cultural environments.
+同じプラットフォームにいても、異なる文化環境を体験できる。
 
-This is the individualization of culture.
+これは文化の個人化だ。
 
-At the same time, it may weaken the shared cultural experience.
+同時に、文化の共有体験を弱める可能性もある。
 
-In the past,
+昔は、
 
 "Did you watch TV yesterday?"
 
-A conversation took place.
+という会話が成立した。
 
-Currently,
+現在は、
 
-"Did you see the video that was recommended yesterday?"
+「昨日おすすめに出てきた動画見た？」
 
 Become.
 
-However, the recommendations are not the same for everyone.
+しかし、そのおすすめは全員に同じものではない。
 
-The center of culture is
+文化の中心が、
 
-"Everyone sees the same thing"
+「みんなが同じものを見る」
 
-from,
+から、
 
-"Each person sees something different."
+「それぞれが違うものを見る」
 
-is moving to.
+へ移動している。
 
 >Human taste is not dead. The place where preferences are formed is moving from society to the personal screen.
 
 ---
 
-## 12. What will happen to culture if "coincidence" decreases?
+## 12. 「偶然」が減ると、文化はどうなるのか
 
-Culture requires coincidence.
+文化には偶然が必要だ。
 
-I come across something that I would not have chosen for myself.
+自分では選ばなかったものに出会う。
 
-A stranger hands me a record.
+知らない人からレコードを渡される。
 
-I joined a different club by mistake.
+間違えて別のクラブに入る。
 
-Look at what the person next to you picked up at the record store.
+レコード店で隣の人が手に取った作品を見る。
 
-I read an article about an artist I don't know while flipping through a magazine.
+雑誌をめくっていて知らないアーティストの記事を読む。
 
-Suddenly, a strange song comes on the radio.
+ラジオから突然、奇妙な曲が流れてくる。
 
-These coincidences are inefficient.
+こうした偶然は、効率が悪い。
 
-That"s why it"s interesting.
+だからこそ面白い。
 
-Recommendation systems are fundamentally designed to increase efficiency.
+推薦システムは、基本的に効率を高めるために作られている。
 
-Find something you might like.
+あなたが好きそうなものを探す。
 
-We'll show you what you might be interested in.
+あなたが興味を持ちそうなものを提示する。
 
-List the things you won't let go of.
+あなたが離れないものを並べる。
 
-This is reasonable.
+これは合理的だ。
 
-However, when we look at cultural history, we find that new things can emerge from irrational encounters.
+しかし文化史を見ると、合理的ではない出会いから新しいものが生まれることがある。
 
-Something that deviates slightly from the existing genre.
+既存のジャンルから少し外れたもの。
 
-Something I don't understand.
+理解できないもの。
 
-Things that aren't likely to sell.
+売れそうにないもの。
 
-Not recommended to anyone.
+誰にも推薦されないもの。
 
-Such things may later become important cultures.
+そうしたものが、後になって重要な文化になる場合がある。
 
-Of course, not all strange works have value.
+もちろん、すべての奇妙な作品が価値を持つわけではない。
 
-Most are forgotten.
+大半は忘れられる。
 
-That's why culture requires a huge amount of failure.
+だからこそ、文化には膨大な失敗が必要になる。
 
-New music does not necessarily succeed as a ""new culture'' from the beginning.
+新しい音楽は、最初から「新しい文化」として成功するとは限らない。
 
-Often it appears at first as something that cannot be classified.
+多くの場合、それは最初には分類できない何かとして登場する。
 
-And that "inability to classify" becomes important.
+そして、その「分類できなさ」が重要になる。
 
-> What algorithms are most difficult at may not be things that have no value, but things that cannot yet be determined.
-
----
-
-## 13. Can "unrecommended music" exist?
-
-This is an important issue for artists as well.
-
-In the past, in the music industry, in order to sell, you had to go through multiple gates such as record companies, radio, magazines, live shows, and stores.
-
-Now, anyone can publish their work.
-
-This is a historically significant change.
-
-However, there is a difference between being made public and being discovered.
-
-The work exists.
-
-↓
-
-someone listens
-
-↓
-
-Data is generated.
-
-↓
-
-Recommended.
-
-↓
-
-More people listen.
-
-↓
-
-More data will be generated.
-
-We need to enter this cycle.
-
-Conversely,
-
-Even if the work exists,
-
-If no one discovers
-
-No data is generated.
-
-If no data is generated,
-
-Hard to recommend.
-
-If not recommended,
-
-Even more difficult to detect.
-
-There is a new kind of "invisible wall" here.
-
-Physical record store shelves are gone.
-
-However, instead there are digital rankings and recommendation sections.
-
-The shelves haven't disappeared.
-
-It just disappeared.
-
-> In the digital age, the freedom to create works and the freedom to have them discovered have become separate.
+> アルゴリズムが最も苦手なのは、価値がないものではなく、まだ価値を判断できないものかもしれない。
 
 ---
 
-## 14. Humans can reverse use of algorithms
+## 13. 「おすすめされない音楽」は存在できるのか
 
-However, there is no need to be too pessimistic here.
+これはアーティストにとっても重要な問題だ。
 
-Humans have one great ability.
+以前の音楽産業では、売れるためにはレコード会社、ラジオ、雑誌、ライブ、店舗など複数のゲートを通る必要があった。
 
-Being able to intentionally change the environment.
+現在は、誰でも作品を公開できる。
 
-Don't follow recommendations.
+これは歴史的に大きな変化だ。
 
-search for.
+しかし、公開できることと、発見されることは違う。
 
-Look for genres you don't know.
+作品が存在する。
 
-Listen to old works.
+↓
 
-Go to a record store.
+誰かが聴く。
 
-ask a friend.
+↓
 
-Read magazines.
+データが発生する。
 
-Go to a live show.
+↓
 
-Search for music from different countries.
+推薦される。
 
-Create your own playlist.
+↓
 
-Consciously look for things that the algorithm doesn't come up with.
+さらに人が聴く。
 
-This is not a story about ""escape from the algorithm.''
+↓
 
-Rather, the idea is to use algorithms as tools, but not to make their recommendations the only point of entry into culture.
+さらにデータが発生する。
 
-Introducing diversity into the recommendation system is also a subject of technical research in Spotify"s research. Presenting content that differs from the user"s past preferences and encouraging exploration is a design challenge for recommendation systems.
+この循環に入る必要がある。
 
-In other words,
+逆に言えば、
 
-"Algorithms or humans?"
+作品が存在していても、
 
-It's not just a choice.
+誰にも発見されなければ、
 
-What you really need is
+データが生まれない。
 
-"While using an algorithm, I don"t let the algorithm choose for me alone."
+データが生まれなければ、
 
-That's the idea.
+推薦されにくい。
 
-> Freedom does not mean choosing everything yourself. It"s about having access to things you didn"t choose.
+推薦されなければ、
 
----
+さらに発見されにくい。
 
-## 15. What is truly dangerous is not "similar things"
+ここには新しい種類の「見えない壁」が存在する。
 
-I would like to clear up one misunderstanding here.
+物理的なレコード店の棚はなくなった。
 
-The problem is
+しかし、代わりにデジタル上のランキングや推薦欄がある。
 
-"Listen to similar music"
+棚は消えたのではない。
 
-isn't it.
+見えなくなっただけだ。
 
-Humans naturally like things that are similar.
-
-If you like jazz, you'll want to listen to other jazz.
-
-If you like techno, you'll want to listen to other techno.
-
-Listen to the same artist's album over and over again.
-
-That in itself is not a bad thing.
-
-The problem is
-
-"To what extent do you think you are making a choice, but to what extent is it actually your choice?"
-
-That's what it means.
-
-for example,
-
-Choose from 10 candidates.
-
-This looks free.
-
-However, those 10 were selected from the beginning.
-
-In that case,
-
-"Which one did you choose?"
-
-is my own decision,
-
-"What candidates did you see?"
-
-is determined by another decision.
-
-This difference is huge.
-
-There are two stages of selection.
-
-Make a candidate.
-
-Choose from the candidates.
-
-We tend to think of only the latter as ""chosen by ourselves.''
-
-But the former is just as important.
-
-> Real choice is not just choosing between options. It's also about knowing where your options come from.
+> デジタル時代には「作品を作れる自由」と「作品を発見してもらえる自由」が別々になった。
 
 ---
 
-## 16. What will "like" be like in the 2030s?
+## 14. 人間はアルゴリズムを逆利用できる
 
-In the future, cultural recommendations may become even more sophisticated.
+しかし、ここで悲観的になりすぎる必要はない。
 
-Already today, recommendation systems combine vast amounts of information, including past behavior, content characteristics, and relationships with other users.
+人間には一つ大きな能力がある。
 
-If AI-based generation technology becomes more widespread in the future, the situation will become even more complex.
+意図的に環境を変えられることだ。
 
-"Music you might like"
+おすすめに従わない。
 
-Not just that.
+検索する。
 
-"New music you'll love"
+知らないジャンルを探す。
 
-It is possible to generate that.
+古い作品を聴く。
 
-your taste.
+レコード店に行く。
 
-Your past play history.
+友人に尋ねる。
 
-the tempo you prefer.
+雑誌を読む。
 
-the voice you prefer.
+ライブへ行く。
 
-any code you like.
+違う国の音楽を探す。
 
-images you like.
+自分でプレイリストを作る。
 
-Any text you like.
+アルゴリズムが出してこないものを意識的に探す。
 
-combine them,
+これは「アルゴリズムから逃げる」という話ではない。
 
-"Culture for you"
+むしろ、アルゴリズムを道具として使いながら、その推薦だけを文化の入口にしないという考え方だ。
 
-generated in real time.
+Spotifyの研究でも、推薦システムに多様性を導入することは技術的な研究対象になっている。ユーザーの過去の嗜好と異なるコンテンツを提示し、探索を促すこと自体が推薦システムの設計課題になっている。
 
-This is the ultimate in personalization.
+つまり、
 
-However, a strange problem arises here.
+「アルゴリズムか、人間か」
 
-if,
+という二択ではない。
 
-"What you like"
+本当に必要なのは、
+
+「アルゴリズムを使いながら、アルゴリズムだけに選ばせない」
+
+という考え方だ。
+
+> 自由とは、すべてを自分で選ぶことではない。自分が選んでいないものにもアクセスできる状態を持つことだ。
+
+---
+
+## 15. 本当に危険なのは「似たもの」ではない
+
+ここで一つ誤解を解いておきたい。
+
+問題は、
+
+「似た音楽ばかり聴くこと」
+
+ではない。
+
+人間はもともと似たものを好む。
+
+ジャズが好きなら、別のジャズを聴きたくなる。
+
+テクノが好きなら、別のテクノを聴きたくなる。
+
+同じアーティストのアルバムを何度も聴く。
+
+それ自体は悪いことではない。
+
+問題は、
+
+「自分が選択していると思っている範囲が、実際にはどこまで自分の選択なのか」
+
+ということだ。
+
+例えば、
+
+10個の候補から選ぶ。
+
+これは自由に見える。
+
+しかし、その10個が最初から選ばれている。
+
+その場合、
+
+「どれを選んだか」
+
+は自分の決定でも、
+
+「何を候補として見たか」
+
+は別の決定によって決まっている。
+
+この違いは非常に大きい。
+
+選択は二段階ある。
+
+候補を作る。
+
+その候補から選ぶ。
+
+私たちは後者だけを「自分で選んだ」と考えがちだ。
+
+しかし前者も同じくらい重要だ。
+
+> 本当の選択とは、選択肢を選ぶことだけではない。選択肢がどこから来たのかを知ることでもある。
+
+---
+
+## 16. 2030年代の「好き」はどうなるのか
+
+今後、文化推薦はさらに高度になる可能性がある。
+
+すでに現在でも、推薦システムは過去の行動、コンテンツの特徴、他ユーザーとの関係など、大量の情報を組み合わせている。
+
+今後、AIによる生成技術がさらに普及すれば、状況はもっと複雑になる。
+
+「あなたが好きそうな音楽」
+
+だけではない。
+
+「あなたが好きになりそうな新しい音楽」
+
+そのものを生成できる可能性がある。
+
+あなたの好み。
+
+あなたの過去の再生履歴。
+
+あなたが好むテンポ。
+
+あなたが好む声。
+
+あなたが好むコード。
+
+あなたが好む映像。
+
+あなたが好む文章。
+
+それらを組み合わせ、
+
+「あなた向けの文化」
+
+をリアルタイムで生成する。
+
+これは究極のパーソナライゼーションだ。
+
+しかし、ここで奇妙な問題が生まれる。
+
+もし、
+
+「あなたが好きなもの」
 
 だけで構成された音楽が存在したら、
 
-Is it really new music?
+それは本当に新しい音楽なのだろうか。
 
-or,
+あるいは、
 
-Is it a mirror that accurately reflects your past preferences?
+あなたの過去の好みを精密に反射した鏡なのだろうか。
 
-Culture requires unpredictability.
+文化には予測できないものが必要だ。
 
-Something I don't understand.
+理解できないもの。
 
-Something you'll hate.
+嫌いになるもの。
 
-驚くもの。
+Something surprising.
 
-Things that don't make sense at first.
+最初は意味が分からないもの。
 
-Such things change human sensibilities.
+そうしたものが人間の感覚を変える。
 
 If culture were to return only ""what you like,''
 
-Will your tastes expand?
+あなたの好みは広がるのだろうか。
 
-Or
+それとも、
 
-Will your current preferences be permanently reinforced?
+あなたの現在の好みが永久に強化されるのだろうか。
 
-> The most personalized culture is not necessarily the most free.
+> 最高にパーソナライズされた文化は、最高に自由な文化とは限らない。
 
 ---
 
-## 17. Chronology: How has human "cultural selection" changed?
+## 17. 年表：人間の「文化選択」はどう変わったのか
 
-| Era | Entrance to major cultures | Subjects responsible for selection | Characteristics |
+| 時代       | 主な文化の入口        | 選択を担う主体         | 特徴                   |
 | -------- | -------------- | --------------- | -------------------- |
-| Early 1900s | Home, concerts, sheet music | Family, community, performers | Limited physical access |
-| 1920s | Radio | Broadcasting station/DJ | Delivering the same music to a large number of people |
-| 1950s | Radio, record stores, and television | DJs, store clerks, and record companies | Popular music market expands |
+| 1900年代初頭 | 家庭・演奏会・楽譜      | 家族・地域・演奏者       | 物理的アクセスが限定的          |
+| 1920年代   | ラジオ            | 放送局・DJ          | 同じ音楽を大量の人に届ける        |
+| 1950年代   | ラジオ・レコード店・テレビ  | DJ・店員・レコード会社    | ポピュラー音楽市場が拡大         |
 | 1960年代   | レコード・FM・雑誌     | 編集者・DJ・コミュニティ   | サブカルチャーが拡大           |
-| 1970s | Record stores, clubs, and magazines | DJs, store staff, and the scene | Cross-genre culture develops |
-| 1980s | MTV/Radio/CD | Broadcasting stations/labels | Combining music and video |
-| 1990s | CDs, specialty stores, and the Internet | Media, friends, and search | Expanding information access |
-| 2000年代   | ブログ・検索・動画サイト   | ユーザー・検索エンジン     | 発見経路が急速に分散           |
-| 2010s | SNS/Streaming | Platform/Recommendation System | Personalization in full swing |
-| 2020s | Recommendations/Short Videos/AI | Algorithms + Users | Even predicting "the next thing you'll like" |
+| 1970年代   | レコード店・クラブ・雑誌   | DJ・店員・シーン       | ジャンル横断的な文化が発達        |
+| 1980年代   | MTV・ラジオ・CD     | 放送局・レーベル        | 音楽と映像の結合             |
+| 1990年代   | CD・専門店・インターネット | メディア・友人・検索      | 情報アクセスが拡大            |
+| 2000s | Blogs/search/video sites | Users/search engines | Discovery paths are rapidly dispersing |
+| 2010年代   | SNS・ストリーミング    | プラットフォーム・推薦システム | パーソナライズが本格化          |
+| 2020年代   | 推薦・ショート動画・AI   | アルゴリズム＋ユーザー     | 「次に好きになるもの」まで予測対象になる |
 
-If you visualize this change, it becomes very simple.
+この変化を図にすると、非常にシンプルになる。
 
 <hr>
 
 <div class="mermaid">
 flowchart LR
-A["Human community"] --> B["media"]
+A["人間のコミュニティ"] --> B["メディア"]
 B --> C["マスメディア"]
-C --> D["internet"]
-D --> E["search"]
+C --> D["インターネット"]
+D --> E["検索"]
 E --> F["SNS"]
-F --> G["Recommendation algorithm"]
-G --> H["Personalized culture"]
-H --> I["Next preference"]
+F --> G["推薦アルゴリズム"]
+G --> H["個人化された文化"]
+H --> I["次の好み"]
 I --> G
 </div>
 
-In the past, ""culture'' came first, and humans chose from there.
+かつては「文化」が先にあり、人間がそこから選んでいた。
 
-Currently, the ""next culture'' is being assembled from human behavior data.
+現在は、人間の行動データから「次の文化」が組み立てられる。
 
-> The system that selects culture is moving closer to creating culture itself.
+> 文化を選ぶシステムが、文化そのものを作る側へ近づいている。
 
 ---
 
-## 18. Cycle of preference
+## 18. 好みの循環
 
-Modern ""liking'' can be thought of as the following cycle.
+現代の「好き」は、次のような循環として考えることができる。
 
 <div class="mermaid">
 flowchart TD
-A["Past experience"] --> B["Current preferences"]
-B --> C["Search/Play/Click"]
-C --> D["Behavioral data"]
-D --> E["Recommendation system"]
-E --> F["New content"]
-F --> G["Repeated contact"]
-G --> H["Familiarity/recognition"]
-H --> I["New taste"]
+A["過去の経験"] --> B["現在の好み"]
+B --> C["検索・再生・クリック"]
+C --> D["行動データ"]
+D --> E["推薦システム"]
+E --> F["新しいコンテンツ"]
+F --> G["繰り返し接触"]
+G --> H["親しみ・認知"]
+H --> I["新しい好み"]
 I --> C
 </div>
 
-The important point here is that there is no ""completely free starting point'' anywhere in a cycle.
+ここで重要なのは、循環のどこにも「完全に自由な出発点」がないことだ。
 
-I have past experience.
+過去の経験がある。
 
-From that experience, I was able to form my current preferences.
+その経験から現在の好みができる。
 
-Actions arise from current preferences.
+現在の好みから行動が生まれる。
 
 Recommendations are made from actions.
 
-New experiences emerge from recommendations.
+推薦から新しい経験が生まれる。
 
-New experiences create new tastes.
+新しい経験が新しい好みを作る。
 
-And those new preferences become data again.
+そして、その新しい好みがまたデータになる。
 
-This cycle never stops.
+この循環は止まらない。
 
-that's why,
+だから、
 
-"What do I like?"
+「自分の好みは何か」
 
-Just asking that question is not enough.
+という質問だけでは不十分になる。
 
-What's really important is
+本当に重要なのは、
 
-"What kind of experiences shaped my tastes?"
+「自分の好みは、どのような経験によって作られたのか」
 
-That's the question.
+という質問だ。
 
 ---
 
-## 19. The feeling of "dislike" also comes from the environment.
+## 19. 「嫌い」という感情も、環境から生まれる
 
-It's not just that I like it.
+好きだけではない。
 
-Haters have the same problem.
+嫌いも同じ問題を抱えている。
 
-"I hate hip-hop"
+「私はヒップホップが嫌い」
 
-"I don't like classical music"
+「私はクラシックが苦手」
 
-"I don't listen to techno"
+「私はテクノを聴かない」
 
-It's not uncommon to hear these words.
+こうした言葉を聞くことは珍しくない。
 
 but,
 
 "I don"t like it after listening to it enough."
 
-Or
+のか、
 
-"I've hardly ever heard of it."
+「ほとんど聴いたことがない」
 
-It has a different meaning.
+のかでは意味が違う。
 
-Once you listen to certain music, you start to hate it.
+ある音楽を一度聴いて嫌いになる。
 
-It could be a real dislike.
+それは本当の嫌いかもしれない。
 
-However, if you judge only the first few seconds, that judgment is not an evaluation of the work as a whole.
+しかし、最初の数秒だけで判断しているなら、その判断は作品全体に対する評価ではない。
 
-In today's content environment, works are increasingly judged in a short amount of time.
+現代のコンテンツ環境では、作品が短時間で判断される場面が増えている。
 
-The determination result is then returned to the recommendation system.
+そして、その判断結果が推薦システムに戻る。
 
-At this time,
+このとき、
 
-"I don"t watch it because I don"t like it."
+「嫌いだから見ない」
 
 and
 
-"I don"t know because I don"t see it."
+「見ないから知らない」
 
-begins to mix.
+が混ざり始める。
 
-This creates cultural problems.
+これは文化的な問題を生む。
 
-This is because I sometimes think that I don"t like what I don"t know.
+なぜなら、知らないことを嫌いだと思うことがあるからだ。
 
-vice versa,
+逆に、
 
-Sometimes I think I like what I know.
+知っていることを好きだと思うこともある。
 
-In other words,
+つまり、
 
-like
-dislike
-know
-i don't know
+好き
+嫌い
+知っている
+知らない
 
-is not a completely separate category.
+は完全に別のカテゴリーではない。
 
-Each influences the other.
+それぞれが影響し合っている。
 
->Even within the emotion of ""dislike," there may be a hidden history of ""I didn't know."
+> 「嫌い」という感情の中にも、「知らなかった」という歴史が隠れていることがある。
 
 ---
 
-## 20. How to have "your own hobby" in the true sense of the word
+## 20. 本当の意味で「自分の趣味」を持つには
 
-So what should we do?
+では、どうすればいいのか。
 
-The answer is surprisingly simple.
+答えは意外と単純だ。
 
-It's not about not using recommendations.
+おすすめを使わないことではない。
 
-This is not to deny algorithms.
+アルゴリズムを否定することでもない。
 
-Rather,
+むしろ、
 
-"I'll leave you one route to explore on your own."
+「自分で探索する経路を一つ残しておく」
 
-That's true.
+ことだ。
 
-For example, just once a month, search for unrecommended music.
+例えば、月に一度だけ、推薦されていない音楽を探す。
 
-Listen to music from countries you don't normally listen to.
+自分が普段聴かない国の音楽を聴く。
 
-Listen to the genre that is farthest from your favorite genre.
+自分の好きなジャンルから最も遠いジャンルを聴く。
 
-Look up music from older eras.
+古い年代の音楽を調べる。
 
-Ask a friend to tell you about an album that you would never choose.
+友人に「自分なら絶対選ばないアルバム」を教えてもらう。
 
-At a record store, you just look at the jacket and choose it.
+レコード店でジャケットだけを見て選ぶ。
 
-Listen again to a piece of work that you couldn't understand after listening to it once in the past.
+過去に一度聴いて理解できなかった作品をもう一度聴く。
 
 These actions have something in common.
 
-It's about bringing ""unpredictability'' back into your life.
+「予測できないこと」を自分の生活に戻すことだ。
 
-And it's not just music.
+そして、これは音楽だけではない。
 
-A movie is fine too.
+A movie is fine.
 
-A book is fine too.
+本でもいい。
 
-Even food is fine.
+食でもいい。
 
-It could be fashion.
+ファッションでもいい。
 
-Even art is fine.
+アートでもいい。
 
 文化との接触に「偶然」を戻す。
 
-That alone could potentially lead you to move in a different direction from the current version of yourself created by the recommendation system.
+それだけで、推薦システムが作る現在の自分とは違う方向へ進む可能性がある。
 
-Of course, as a result,
+もちろん、その結果として、
 
-"I didn"t like it after all."
+「やっぱり好きじゃなかった」
 
 となるかもしれない。
 
@@ -1593,39 +1625,39 @@ Of course, as a result,
 
 重要なのは、
 
-"I confirmed it myself."
+「自分で確かめた」
 
-That"s because it"s an experience.
+Because it's an experience.
 
-> A true hobby is not a list of things you like. It is also the ability to try things you don't know.
+> 本当の趣味とは、好きなもののリストではない。知らないものを試す能力でもある。
 
 ---
 
-## 21. "The Death of Human Taste" is not a real death
+## 21. 「The Death of Human Taste」は、本当の死ではない
 
-When you think about it this far, the title ""Human Hobbies Are Dead'' begins to look a little different.
+ここまで考えると、「人間の趣味は死んだ」というタイトルは少し違って見えてくる。
 
-Human taste is not dead.
+人間の好みは死んでいない。
 
 むしろ、これまで以上に大量の文化に触れられるようになった。
 
 You can listen to music from all over the world.
 
-You can also search for past works.
+過去の作品も探せる。
 
-You can also access unknown artists.
+無名のアーティストにもアクセスできる。
 
-You can also find small genres.
+小さなジャンルも見つけられる。
 
-You can also learn about the culture of distant countries.
+遠い国の文化も知ることができる。
 
-This is the greatest freedom in human history.
+これは人類史上、非常に大きな自由だ。
 
-The problem is how to use that freedom.
+問題は、その自由の使い方だ。
 
 The existence of music from all over the world,
 
-It's different to know music from all over the world.
+世界中の音楽を自分が知っていることは違う。
 
 巨大なカタログがあることと、
 
@@ -1633,19 +1665,19 @@ It's different to know music from all over the world.
 
 There are a lot of recommendations,
 
-Discovering the culture on your own is also different.
+自分で文化を発見していることも違う。
 
-Therefore, the modern problem is
+だから、現代の問題は、
 
-"Algorithms have killed human hobbies"
+「アルゴリズムが人間の趣味を殺した」
 
 ではない。
 
-It's more subtle.
+もっと微妙だ。
 
 「アルゴリズムによって、趣味が作られる過程そのものが見えにくくなった」
 
-It is.
+のである。
 
 we,
 
@@ -1653,220 +1685,220 @@ we,
 
 I can say that.
 
-but,
+しかし、
 
-"Why did I like this?"
+「なぜこれを好きになったのか」
 
-Surprisingly, I can't explain it.
+については、意外と説明できない。
 
-In the background,
+その背景には、
 
 家庭。
 
-friend.
+友人。
 
-society.
+社会。
 
-media.
+メディア。
 
 Repetition.
 
-memory.
+記憶。
 
 Coincidence.
 
-market.
+市場。
 
-And then there's the algorithm.
+そしてアルゴリズムがある。
 
-> The phrase ""my hobbies'' includes a surprisingly large number of things other than my own.
+> 「自分の趣味」という言葉の中には、自分以外のものが驚くほどたくさん入っている。
 
 ---
 
-## 22. Lastly, I want you to see my playlist.
+## 22. 最後に、あなたのプレイリストを見てほしい
 
-Finally, you can do one experiment.
+最後に、一つだけ実験ができる。
 
-Open your playlist.
+自分のプレイリストを開く。
 
-See your favorite artists.
+好きなアーティストを見る。
 
-Watch your favorite songs.
+好きな曲を見る。
 
-Then ask one question at a time.
+そして一つずつ質問してみる。
 
 「この曲を、私はどうやって知った？」
 
-From a friend?
+友人から？
 
-From your family?
+家族から？
 
-From the movie?
+映画から？
 
-From the radio?
+ラジオから？
 
 From the club?
 
-From a magazine?
+雑誌から？
 
 SNSから？
 
-From YouTube?
+YouTubeから？
 
-From recommendation?
+おすすめから？
 
-And then,
+そして次に、
 
-"Did you like me from the beginning?"
+「最初から好きだった？」
 
-I ask.
+と聞く。
 
-There may be a surprising number of songs that don't.
+There may be a surprising number of songs that aren't like that.
 
-A song that I listened to many times and fell in love with.
+何度も聴いて好きになった曲。
 
-A song I hated at first.
+最初は嫌いだった曲。
 
 A song that someone recommended to me.
 
-A song I came across by chance.
+偶然出会った曲。
 
-A song that only made sense to me years later.
+何年も後になって意味が分かった曲。
 
 Erase all this history
 
-"i like this"
+「私はこれが好き」
 
-You can't just leave it alone.
+だけを残すことはできない。
 
-Because that's what a hobby is.
+趣味とは、そういうものだからだ。
 
 It's not pure self-expression.
 
-It is also a collection of memories.
+記憶の集合でもある。
 
-It is also a collection of experiences.
+経験の集合でもある。
 
-It's also about relationships with others.
+他人との関係でもある。
 
-It is also an influence of society.
+社会の影響でもある。
 
-And now it's also an interaction with recommendation systems.
+そして現在では、推薦システムとの相互作用でもある。
 
 That's why,
 
-"Are my hobbies really my own?"
+「自分の趣味は本当に自分のものなのか？」
 
-The question becomes important.
+という問いは重要になる。
 
-The answer is
+答えは、
 
-"It's not completely mine."
+「完全には自分のものではない」
 
-It might be.
+なのかもしれない。
 
 But that's no reason to be pessimistic.
 
 In fact, it's the opposite.
 
-If you know how your "likes" are created,
+自分の「好き」がどのように作られたのかを知れば、
 
-You can become a little more conscious about what you like from now on.
+これから何を好きになるのかについて、少しだけ意識的になれる。
 
-There's no need to refuse a recommendation.
+おすすめを拒否する必要はない。
 
-There's no need to reject trends.
+流行を拒否する必要もない。
 
-There's no need to deny the mainstream.
+メインストリームを否定する必要もない。
 
-However, sometimes I close the screen.
+ただ、ときどき画面を閉じる。
 
-Don't search.
+検索しない。
 
 I don't see any recommendations.
 
-Look for something that no one else has chosen.
-
-and,
-
-"This has nothing to do with me."
-
-Listen to what you thought just once.
-
-Something might start from there.
-
-It doesn't have to be a new genre.
-
-You don't even have to be a new artist.
-
-simply,
-
-"The self I didn't know"
-
-Just meeting someone is enough.
-
----
-
-## Conclusion
-
-Human hobbies were not always free from the beginning.
-
-And now, it"s not like it"s suddenly being taken away by an algorithm.
-
-Tastes have long been shaped by society, culture, memory, repetition, and relationships with others.
-
-What has changed is the speed and scale of the system.
-
-Once upon a time, humans
-
-"I want you to listen to this."
-
-I chose.
-
-Currently,
-
-"You're likely to listen to this"
-
-The machine predicts.
-
-And those predictions change what we experience, which in turn changes our preferences.
-
-Herein lies the greatest paradox of modern culture.
-
-Choices are at an all-time high.
-
-but,
-
-"What do you want to see?"
-
-The entrance that decides the decision has also become the most powerful in history.
-
-So the problem is
-
-"Is the algorithm bad?"
-
-isn't it.
-
-This is a more personal question.
-
-今日あなたが聴いている音楽の中で、
-
-How many things have you found on your own?
+誰にも選ばれていないものを探す。
 
 そして、
 
-Rather than "I chose it because I like it,"
+「これは自分には関係ない」
 
-"I fell in love with him because he appeared in front of me so many times."
+と思っていたものを一度だけ聴いてみる。
 
-How many things will there be?
+そこから何かが始まるかもしれない。
 
-Knowing the answer is
+それが新しいジャンルである必要はない。
 
-It's not about denying your hobbies.
+You don't even have to be a new artist.
+
+単に、
+
+「自分が知らなかった自分」
+
+に出会うだけでもいい。
+
+---
+
+## 結論
+
+人間の趣味は、最初から自由だったわけではない。
+
+そして現在、突然アルゴリズムによって奪われたわけでもない。
+
+好みは昔から、社会、文化、記憶、反復、他人との関係によって作られてきた。
+
+変わったのは、その仕組みの速度と規模だ。
+
+かつては人間が、
+
+"I want you to listen to this."
+
+と選んでいた。
+
+現在は、
+
+「あなたはこれを聴く可能性が高い」
+
+と機械が予測する。
+
+そして、その予測によって私たちが経験するものが変わり、その経験が再び好みを変える。
+
+Herein lies the greatest paradox of modern culture.
+
+選択肢は史上最大になった。
+
+しかし、
+
+「何を見るか」
+
+を決める入口も史上最大の力を持つようになった。
+
+だから問題は、
+
+「アルゴリズムは悪いのか」
+
+ではない。
+
+もっと個人的な質問になる。
+
+今日あなたが聴いている音楽の中で、
+
+「自分で探したもの」はいくつあるだろう。
+
+そして、
+
+「自分が好きだから選んだ」のではなく、
+
+「何度も目の前に現れたから好きになった」
+
+ものは、いくつあるだろう。
+
+その答えを知ることは、
+
+自分の趣味を否定することではない。
 
 むしろ、自分の趣味を取り戻す最初の一歩になる。
 
->Human hobbies are not dead. However, the moment we stop thinking about where the feeling of ""like'' comes from, we stop choosing our own hobbies.
+> 人間の趣味は死んでいない。だが、「好き」という感情がどこから来たのかを考えなくなった瞬間、私たちは自分の趣味を自分で選ぶことをやめてしまう。
 
 ---

@@ -12,9 +12,9 @@ title: Mylo Vs Miami Sound Machine – Doctor Pressure
 ---
 
 
-"Doctor Pressure" is a collaborative song between Scottish DJ and producer Mylo and American pop band Miami Sound Machine. This song was released in 2005.
+「Doctor Pressure」はスコットランドのDJ・プロデューサーであるMylo（マイロ）とアメリカのポップバンド、Miami Sound Machine（マイアミ・サウンド・マシーン）とのコラボレーション楽曲です。この曲は、2005年にリリース。
 
-"Doctor Pressure" is a clever remix of Mylo"s hit "Drop the Pressure" and Miami Sound Machine"s hit "Dr. Beat." Mylo is an electronic music artist known for "Drop the Pressure," and Miami Sound Machine is a band fronted by Gloria Estefan, who had a string of pop hits in the 1980s.
+「Doctor Pressure」は、Myloのヒット曲「Drop the Pressure」とMiami Sound Machineのヒット曲「Dr. Beat」を巧みに組み合わせたリミックスです。Myloは「Drop the Pressure」で知られるエレクトロニックミュージックのアーティストであり、Miami Sound Machineは1980年代に一連のポップヒットを生み出したグロリア・エステファン（Gloria Estefan）をフロントに持つバンド。
 
 
 #### Tracklist
@@ -28,7 +28,7 @@ B1. Mylo–Drop The Pressure (Rex The Dog Remix)
 B2. Mylo–Drop The Pressure (Stanton Warriors Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m34100476893?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34100476893?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7FL0twxqpHA?si=swHeHJqUs4yygB4l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

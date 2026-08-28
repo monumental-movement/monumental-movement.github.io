@@ -11,17 +11,17 @@ tags:
 - Hardcore
 - Happy Hardcore
 - 90s
-title: Ryan Campbell 和 The Acme Hardcore Company – 英國 Happy Traxx 1.0
+title: Ryan Campbell & The Acme Hardcore Company – U.K. Happy Traxx 1.0
 ---
 
 
-義大利廠牌 D-Boy Records 於 1996 年發行的 Hardcore/Happy Hardcore 曲目。
+イタリアのレーベルD-Boy Recordsから1996年にリリースされたHardcore／Happy Hardcoreトラック。
 
-Acme Hardcore Company 是由英國硬核製作人/DJ Jason Holloway 和 DJ/圖形設計師 Stuart Devlin (Stu. J.) 組成的二人組。其他名稱包括卡通 Capers、Stu.J.和不明飛行物。
+The Acme Hardcore Companyは、UKのハードコアプロデューサー／DJ Jason Hollowayと、DJ／グラフィックデザイナーStuart Devlin(Stu. J.)によるデュオ。別名義でCartoon Capers, Stu.J. & UFOなどがある。
 
-A 使用 DJ Weirdo 和 DJ Sim 的「Go get busy on the tempo」樣本。
+Aは、DJ Weirdo & DJ Sim 『Go get busy on the tempo』のサンプリングを使用している。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Ryan Campbell – Oo Oo Woo
 A2. Acme Hardcore Co. – Dreema
@@ -29,4 +29,4 @@ A2. Acme Hardcore Co. – Dreema
 B. Acme Hardcore Co. – Hold That Fucker Down
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m65799413582?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65799413582?afid=6142608987){: .button1}

@@ -14,9 +14,9 @@ title: Sharooz Presents Monofonic – The Masterblaster EP
 
 
 
-Sharooz Raoofi, also known as Principleasure, is a musician. He has also released under the names 40khz, Monofonic, and Vails.
+SharoozことSharooz Raoofiは、Principleasure名義でも知られるミュージシャン。40khz, Monofonic, Vails名義でもリリースしている。
 
-"The Masterblaster EP" is an Electro/House track released by German label Rotor Records in 2006.
+「The Masterblaster EP」は、2006年にドイツのレーベルRotor Records からリリースされたElectro／Houseトラック。
 
 #### Tracklist
 ```md
@@ -26,4 +26,4 @@ B1. Voodoo
 B2. Seventh Sense
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m98197950974?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98197950974?afid=6142608987){: .button1}

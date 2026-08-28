@@ -11,15 +11,15 @@ tags:
 - Techno
 - House
 - 90s
-title: 阿里尤卡 – 布吉巴斯克斯
+title: Ari Jukka – Boogie Basix
 ---
 
 
-Ari J. Ruukamo，又名 Ari Jukka，是一位於 20 世紀 80 年代末開始創作音樂的藝術家，主要從事 Garage/Deep house 流派。他也與芬蘭 DJ/製作人 Tuomas Salmela 一起參與 Deep House 計畫 Lifestyle People。 1993 年，他與 Jori Hulkkonen 和 Jukka Hautamäki 共同創立了芬蘭廠牌 Lumi Records。
+Ari Jukka ことAri J. Ruokamoは、1980年代後半から制作を始め、Garage／ Deep house系をメインに活動したアーティスト。フィンランドのDJ／プロデューサーTuomas Salmela とのDeep House プロジェクトLifestyle People としても活動した。 1993年にはJori Hulkkonen & Jukka Hautamäki と共にフィンランドのレーベルLumi Recordsを設立。
 
-《Boogie Basix》是瑞典廠牌 Trainspotter's Nightmare 於 1996 年發行的 Acid House/Techno/House 曲目，廠牌由 Glenn Wilson 和 Cari Lekebusch 於 1995 年至 1997 年營運。
+「Boogie Basix 」は、1995年〜1997年にGlenn Wilson とCari Lekebuschが運営していたスウェーデンのレーベルTrainspotter's Nightmareから1996年にリリースされたAcid House／Techno／Houseトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Best Of Funk
 A2. Jack For You Ass
@@ -29,7 +29,7 @@ B2. Booty Boogie
 B3. Slappin'
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m22500763686?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22500763686?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_s6en8VKF_w?si=t4uWSDs80u-pYfZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

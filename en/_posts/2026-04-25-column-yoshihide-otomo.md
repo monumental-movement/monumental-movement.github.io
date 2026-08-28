@@ -16,15 +16,15 @@ title: '[Column] Can sound become an exhibition? The intersection of Yoshihide O
 
 
 
-## The moment when sound turns into an exhibition
+## 音が展示に変わる瞬間
 
-Text: mmr｜Theme: Interpreting the practice of continuously transforming music into space through anecdotes and representative works
+文：mmr｜テーマ：音楽を空間へと変換し続ける実践を、逸話と代表作から読み解く
 
 ### From improvisational musician to spatial artist
 
-Although Yoshihide Otomo's career began in the context of Japanese free jazz/improvisational music, he departed from that framework at an early stage. Although he had a guitar and a turntable in his hands, they functioned more as ""devices for arranging sound in space'' than musical instruments.
+大友良英のキャリアは、日本のフリージャズ／即興音楽の文脈から始まりながらも、早い段階でその枠組みを逸脱していく。彼が手にしていたのはギターやターンテーブルであったが、それらは楽器というよりも「音を空間に配置するための装置」として機能していた。
 
-In particular, his activities at Ground Zero in the 1990s symbolized a turning point. The method of fragmenting and rearranging a huge amount of records and existing sound sources was not just sampling, but close to ""architecture of sound." His masterpiece ""Consume Red" is an extreme example of this, where the listener is thrown into an overwhelming amount of information that makes it impossible to follow the song.
+特に1990年代のGround Zeroでの活動は、その転換点を象徴している。膨大なレコードや既存音源を断片化し、再配置するという手法は、単なるサンプリングではなく「音の建築」に近いものだった。代表作『Consume Red』は、その極端な例であり、聴き手は楽曲を追うことができないほどの情報量の中に投げ込まれる。
 
 It is said that at live concerts at the time, it was not uncommon for audience members to leave the venue midway through due to the excessive volume and density of noise. However, this was not a failure; it was also an intentional structure that exposed the limits of the act of "listening."
 
@@ -38,7 +38,7 @@ It is said that at live concerts at the time, it was not uncommon for audience m
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -49,32 +49,32 @@ color: #fff;
 
 
 
-## Anecdote: A concert where the sound disappeared
+## 逸話：音が消えたライブ
 
-### Extreme with Sachiko M
+### Sachiko Mとの極限
 
-Collaborating with Sachiko M occupies a unique position in Yoshihide Otomo's career. The sine wave oscillator she uses is a device that sustains a single frequency with little variation.
+Sachiko Mとの共演は、大友良英のキャリアの中でも特異な位置を占める。彼女が用いるサイン波発振器は、ほとんど変化のない単一周波数を持続するだけの装置である。
 
-At one performance, the volume was so low that many in the audience felt as if nothing was happening. However, at the back of the venue, the vibrations of the air conditioning, the creaking of chairs, and the sound of the audience's breathing began to become noticeable.
+あるパフォーマンスでは、あまりに音量が小さく、観客の多くが「何も起きていない」と感じたまま時間が過ぎたとされる。しかし、会場の後方では空調の振動や椅子の軋み、観客の呼吸音が際立って聞こえ始めていた。
 
-This incident is one of the often told anecdotes, and is understood not as ""the performance being defeated by the environmental sounds," but as a moment in which ""the environment itself was transformed into a work."
+この出来事はしばしば語られる逸話のひとつであり、「演奏が環境音に負けた」のではなく、「環境そのものが作品へと転化した」瞬間として理解されている。
 
-There is also a story that at another performance, a member of the audience thought there was a problem with the equipment and complained to the staff. However, that was actually the intention of the piece, and even the ""state of no sound'' was incorporated as a component.
+また別の公演では、観客の一人が機材トラブルだと思い込みスタッフに抗議したという話も残っている。だが実際にはそれが作品の意図であり、「音が存在しない状態」すらも構成要素として組み込まれていた。
 
-> Silence is not an absence, but the most powerful means of exposing space.
+> 無音は欠如ではなく、空間を露出させる最も強い手段となる
 
 ---
 
 
-## Sound as installation
+## インスタレーションとしての音
 
-### Intrusion into exhibition space
+### 展示空間への侵入
 
-Otomo's performances at museums and galleries are definitely different from traditional live music performances. Audience members are not fixed to their seats, but can freely move around and experience the sound.
+美術館やギャラリーにおける大友のパフォーマンスは、従来の音楽ライブとは決定的に異なる。観客は座席に固定されるのではなく、自由に移動しながら音を体験する。
 
 In one exhibition, multiple speakers were scattered throughout the space, creating a completely different sound experience depending on the audience's position. There is no concept of front, and the work changes depending on where you stand.
 
-This form corresponds to the logic of installation in visual art. Although sound is not an object, it functions as an ""exhibit'' by changing the conditions of the space.
+この形式は、視覚芸術におけるインスタレーションの論理と一致する。音は物体ではないが、空間の条件を変化させることで「展示物」として機能する。
 
 What is even more interesting is that the performers themselves are treated as part of the space. The performance is not an ""object to be seen," but an ""element of spatial change."
 
@@ -83,41 +83,41 @@ What is even more interesting is that the performers themselves are treated as p
 ---
 
 
-## Specific image of spatial art seen from representative works
+## 代表作から見る空間芸術の具体像
 
-### Back-and-forth movement between excess and lack
+### 過剰と欠如の往復運動
 
-Ground Zero's ""Consume Red" is a work that pushes sonic excess to the extreme. On the other hand, in ""Revolutionary Pekinese Opera ver. 1.28," cultural fragments collide and the dissolution of meaning progresses.
+Ground Zeroの『Consume Red』は、音の過剰性を極限まで推し進めた作品である。一方で、『Revolutionary Pekinese Opera ver.1.28』では文化的断片が衝突し、意味の解体が進行する。
 
-In contrast, on ""Filament" and ""Sine Wave Solo" with Sachiko M, the sound is reduced to the bare minimum. The subject here is not ""what is making the sound," but ""how does the space change?"
+対照的に、Sachiko Mとの『Filament』や『Sine Wave Solo』では、音は極限まで削減される。ここでは「何が鳴っているか」ではなく、「どのように空間が変化するか」が主題となる。
 
-Furthermore, Otomo Yoshihide"s New Jazz Ensemble"s ""Dreams'' features a large ensemble of improvisations, but the structure is perceived as an overall flow rather than individual performances.
+さらにOtomo Yoshihide's New Jazz Ensembleの『Dreams』では、大編成による即興が展開されるが、その構造は個々の演奏ではなく、全体の流れとして知覚される。
 
-In this way, his works continue to update spatial awareness, moving back and forth between the extremes of "excess" and "lack."
+このように彼の作品は、「過剰」と「欠如」という両極を往復しながら、空間認識を更新し続けている。
 
-> Too much sound and too little sound are not contradictory; both are means of creating space.
+> 音の多さと少なさは対立せず、どちらも空間を生成する手段となる
 
 ---
 
 
 ## Film music and on-site performance
 
-### Is it possible to improvise in the video?
+### 映像の中で即興は可能か
 
-Yoshihide Otomo's attitude is consistent when it comes to film music as well. Even if the sound is recorded, it is important to maintain the sense that it is generated on the spot.
+映画音楽においても、大友良英の姿勢は一貫している。録音された音であっても、その場で生成される感覚を保つことが重視される。
 
 In the movie ""Dr. Akagi,'' the music does not guide the emotion of the scene, but rather creates a unique tension by existing in parallel with the images.
 
 An even more interesting anecdote is the production policy of not strictly synchronizing the music with the video, but intentionally leaving some "discrepancies" to maintain the on-site feel. This discrepancy gives the audience an unconscious sense of discomfort and makes the video experience more three-dimensional.
 
-Furthermore, in live screenings, different sounds may be added each time even for the same movie, and the work is not fixed.
+また、ライブ上映においては、同じ映画であっても毎回異なる音が付けられることがあり、作品は固定されない。
 
 > Film music is not a finished product, but has a structure that is updated each time it is performed again.
 
 ---
 
 
-## Chronology: The intersection of anecdotes and masterpieces
+## 年表：逸話と代表作の交差
 
 <div class="mermaid">
 timeline
@@ -132,23 +132,23 @@ timeline
     2010s : 映画音楽・展示の横断
 </div>
 
-> An anecdote is not just an episode; it shows the essence of an expression.
+> 逸話は単なるエピソードではなく、表現の本質を示している
 
 ---
 
 
-## Diagram: Structure of excess and lack
+## 図：過剰と欠如の構造
 
 <div class="mermaid">
 flowchart LR
-    A[excessive sound] --> B[perceptual saturation]
-    B --> C[compression of space]
-    C --> D[very small sound]
-    D --> E[expansion of perception]
-    E --> F[opening up space]
+    A[過剰な音] --> B[perceptual saturation]
+    B --> C[空間の圧縮]
+    C --> D[極小音]
+    D --> E[知覚の拡張]
+    E --> F[空間の開放]
 </div>
 
-> The extremeness of sound becomes a device for shaking spatial perception
+> 音の極端さは、空間認識を揺さぶるための装置となる
 
 ---
 
@@ -157,9 +157,9 @@ flowchart LR
 
 <div class="mermaid">
 graph TD
-    A[performance] --> B[Diffusion of sound]
+    A[演奏] --> B[Diffusion of sound]
     B --> C[space]
-    C --> D[audience movement]
+    C --> D[観客の移動]
     D --> E[change in perception]
     E --> A
 </div>
@@ -169,53 +169,53 @@ graph TD
 ---
 
 
-## Music connected to the masses
+## 大衆と接続された音楽
 
-### The turning point of "Ama-chan"
+### 「あまちゃん」という転換点
 
 The 2013 NHK TV drama series ""Ama-chan"' was a decisive turning point in Yoshihide Otomo"s career.
 
-His music, which until then had often been talked about in an underground or experimental context, suddenly entered the ""everyday life'' of people throughout Japan. Although the opening theme has a light and familiar melody, it incorporates a jazz and minimalist musical structure. ([Apple Music - Web Player][1])
+それまで地下的・実験的な文脈で語られることが多かった彼の音楽が、一気に日本中の「日常」に入り込んだのである。オープニングテーマは軽快で親しみやすい旋律を持ちながらも、内部にはジャズやミニマル音楽的な構造が組み込まれている。([Apple Music - Web Player][1])
 
-Even more important was the live performance that followed.
+さらに重要なのは、その後に展開されたライブである。
 ""Ama-chan Special Big Band'' not only reproduces the accompanying music, but has also been reconstructed as a large ensemble. At national tours and performances at NHK Hall, enthusiastic reactions have been recorded, with the audience standing on their feet. ([Tower Records Online][2])
 
-What was happening here was more than just a hit.
+ここで起きていたのは単なるヒットではない。
 
 * Experimental musicians enter the center of popular culture
 * Improvisation is connected to the form of pop music
-* Music expands as a "shared experience"
+* 音楽が「共有される体験」として拡張される
 
-In other words, ""Ama-chan" was a symbolic event in which Otomo's music shifted from a ""closed avant-garde" to an ""open public space.''
+つまり『あまちゃん』は、大友の音楽が「閉じた前衛」から「開かれた公共空間」へ移行した象徴的出来事だった。
 
-> The avant-garde first gains social space by being translated to the masses.
+> 前衛は大衆に翻訳されることで、初めて社会的な空間を獲得する
 
 ---
 
 
-## Ensembles Tokyo and "Music for Everyone"
+## アンサンブルズ東京と「誰でも音楽」
 
 ### A device called a hand sign
 
-Ensembles Tokyo, for which Yoshihide Otomo served as artistic director, is the project in which his ideas are most clearly socialized.
+大友良英が芸術監督を務めた「アンサンブルズ東京」は、彼の思想が最も明確に社会化されたプロジェクトである。
 
-At the core of this project is a performance system using "hand signals." Music is generated by the conductor giving improvisational instructions through hand movements, and the participants responding to them.
+このプロジェクトの核にあるのが「ハンドサイン」による演奏システムだ。指揮者が手の動きで即興的な指示を出し、参加者がそれに応答することで音楽が生成される。
 
 The importance of this method is clear:
 
-* No sheet music required
-* Regardless of whether you have music education or not
+* 楽譜を必要としない
+* 音楽教育の有無を問わない
 * Establish improvisation and control at the same time
 
 In fact, this project has been ongoing since 2015, functioning as a ""participatory festival'' where general participants and professional musicians perform in the same venue.
 
-Furthermore, during the coronavirus pandemic, the hand sign method was released as a video and shared as a mechanism for establishing an ensemble even remotely.
+さらにコロナ禍においては、ハンドサインの手法が動画として公開され、遠隔でもアンサンブルが成立する仕組みとして共有された。
 
 This idea is extremely radical.
 
-Music will be redefined not as something to listen to, but as a social process in which anyone can participate.
+音楽は「聴くもの」ではなく、「誰でも参加できる社会的プロセス」として再定義される。
 
-> Music is liberated from a technical skill to a sharable act
+> 音楽は専門技術ではなく、共有可能な行為へと解放される
 
 ---
 
@@ -229,65 +229,65 @@ Ensembles Tokyo Hand Sign Teaching Video
 ---
 
 
-## International expansion
+## 国際的な展開
 
-### Acoustic space expanding to Vienna, Korea
+### 韓国・ウィーンへ拡張する音響空間
 
 In recent years, Yoshihide Otomo's activities have expanded beyond Japan to Asia and Europe. In performances in South Korea and live performances in Europe such as Vienna, he continues to cross the boundaries between improvised music and sound art.
 
-The point is that his music is perceived as a ""methodology" rather than a ""genre."
+彼の音楽が「ジャンル」ではなく「方法論」として受け取られている点である。
 
-* Improvisation = structure of communication
-* Acoustics = means of spatial design
+* 即興＝コミュニケーションの構造
+* 音響＝空間設計の手段
 * Ensemble = social model
 
 Because these elements can be shared across countries and cultures, they are being transformed and developed in different forms in each region.
 
-> Music is not exported as a work, but spread as a method.
+> 音楽は作品として輸出されるのではなく、方法として拡散する
 
 ---
 
 
 ## Anecdote: The moment when the audience becomes the performer
 
-### Disappearance of boundaries
+### 境界の消失
 
-At Ensembles Tokyo, moments often occur where the boundary between audience and performer disappears.
+アンサンブルズ東京の現場では、観客と演奏者の境界が消える瞬間が頻繁に起こる。
 
-In one session, the workshop participants played a central role in the performance, with professional musicians responding to the performance. This is a reversed relationship in normal musical structure.
+ある回では、ワークショップ参加者が本番で中心的な役割を担い、プロの演奏家がそれに呼応する形で演奏が進行した。これは通常の音楽構造では逆転した関係である。
 
-In other cases, Bon dance and improvisation merged, making music and physical movement inseparable.
+また別のケースでは、盆踊りと即興演奏が融合し、音楽と身体運動が分離不可能な状態となった。
 
-These events are not a coincidence, but a result of the design philosophy that ""everyone can participate.''
+こうした出来事は偶然ではなく、「誰でも参加できる」という設計思想の帰結である。
 
-> Music is no longer an object of appreciation, but a place that is created through participation.
+> 音楽は鑑賞対象ではなく、参加によって成立する場へと変わる
 
 ---
 
 
 ## Conclusion: Music as society
 
-### Where does the sound go?
+### 音はどこへ向かうのか
 
 What runs through Yoshihide Otomo's activities is the consistent idea of ​​""creating a place through sound.''
 
-* "Ama-chan" is aimed at the masses.
-*Ensembles Tokyo for society
-* Cross-cultural activities in international activities
+* 『あまちゃん』では大衆へ
+* アンサンブルズ東京では社会へ
+* 国際活動では文化横断へ
 
 Music is no longer a complete work of art, but has begun to function as an infrastructure that connects people.
 
-At the heart of this is a very simple question.
+そしてその中心にあるのは、極めてシンプルな問いである。
 
-"Who makes the music?"
+「誰が音楽を作るのか」
 
-Otomo's answer is clear.
+大友の答えは明確だ。
 
-It's not just the performers.
+それは、演奏者だけではない。
 
-> Music is a space created by everyone in it
+> 音楽は、そこにいるすべての人によって生成される空間である
 
-[1]: https://music.apple.com/jp/song/656553614 "Ama-chan Opening Theme/Long Version - Song by Yoshihide Otomo - Apple Music"
-[2]: https://tower.jp/article/feature_item/2014/01/08/0710 "Ama-chan "Special Big Band Concert in NHK Hall" - TOWER RECORDS ONLINE"
+[1]: https://music.apple.com/jp/song/656553614 " あまちゃん オープニングテーマ/ロングバージョン - 大友良英の曲 - Apple Music"
+[2]: https://tower.jp/article/feature_item/2014/01/08/0710 "あまちゃん“スペシャルビッグバンド コンサート in NHKホール” - TOWER RECORDS ONLINE"
 
 ---

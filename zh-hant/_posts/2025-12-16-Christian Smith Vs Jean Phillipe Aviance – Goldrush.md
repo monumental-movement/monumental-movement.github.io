@@ -10,17 +10,17 @@ tags:
 - Techno
 - Tech House
 - 90s
-title: 克里斯蒂安史密斯 VS.讓菲利普阿維昂斯 – Goldrush
+title: Christian Smith Vs. Jean Phillipe Aviance – Goldrush
 ---
 
 
-Christian Smith 是一位來自瑞典的 Tech-House/Funky Techno 製作人和 DJ。 Jean-Phillippe Aviance 是來自美國華盛頓特區的 DJ 兼製作人。
+Christian Smithは、スウェーデン出身のTech-House ／Funky Techno プロデューサー&DJ。Jean-Phillippe Avianceは、アメリカ・ワシントンDC出身のDJ＆プロデューサー。
 
-《Goldrush》是一首 Techno/Tech House 曲目，於 1998 年在 Christian Smith 自己的唱片公司 Tronic 上發行。
+「Goldrush」は、1998年にChristian Smith自身のレーベルTronicからリリースしたTechno／Tech Houseトラック。
 
-B1 是美國 Techno/House/Tech House DJ 和製作人 Bryan Zentz（又名 Barada）的混音作品。
+B1は、アメリカのTechno/House/Tech House DJ＆プロデューサーBarada ことBryan Zentzによるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Goldrush (Original Mix)
 
@@ -28,7 +28,7 @@ B1. Goldrush (Barada's 757 Mix)
 B2. Torque
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31778938370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31778938370?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RH_lZQOnl_M?si=8CXEFe6ib6Edp7lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

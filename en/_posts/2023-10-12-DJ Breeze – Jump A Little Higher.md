@@ -12,13 +12,13 @@ title: DJ Breeze – Jump A Little Higher
 ---
 
 
-DJ Breeze (Mark Breeze) was a DJ and producer who was popular in the British dance music scene in the 1990s and 2000s. Specializing in happy hardcore and hardcore breakbeat styles, he created many club hits.
+DJ Breeze（Mark Breeze/マーク・ブリーズ）は、1990年代から2000年代にかけて、イギリスのダンス・ミュージックシーンで人気を博したDJとプロデューサー。ハッピーハードコアやハードコアブレイクビーツのスタイルを得意とし、多くのクラブヒットを生み出した。
 
-"Jump A Little Higher" features an uplifting melody and energetic beat, and was frequently played in the hardcore scene and at Rave.
+「Jump A Little Higher」は、アップリフティングなメロディやエネルギッシュなビートが特徴で、ハードコアシーンやRaveで頻繁にプレイされたトラック。
 
-Side A is a remix by British DJ Brisk.
+A面はイギリスのDJ Brisk（DJブリスク）によるremix。
 
-"Jump A Little Higher" samples the vocals from Poor Pocket Productions" "Kick Your Legs In The Air" and the sound effects from Peech Boys' "Don"t Make Me Wait (Special Version)."
+「Jump A Little Higher」は、ヴォーカルを Poor Pocket Productions 「Kick Your Legs In The Air」から、サウンドエフェクトをPeech Boys 「Don't Make Me Wait (Special Version)」からサンプリング。
 
 #### Tracklist
 ```md

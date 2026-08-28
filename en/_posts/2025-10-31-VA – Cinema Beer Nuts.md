@@ -14,7 +14,7 @@ title: VA – Cinema Beer Nuts
 ---
 
 
-Hardcore Punk Compilation: Hopeless Records Cinema Beer Series
+ハードコア・パンク コンピレーション：Hopeless RecordsのCinema Beerシリーズ
 
 VA – Cinema Beer Nuts
 
@@ -41,4 +41,4 @@ VA – Cinema Beer Nuts
 19. Millencolin – Lozin' Must
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}

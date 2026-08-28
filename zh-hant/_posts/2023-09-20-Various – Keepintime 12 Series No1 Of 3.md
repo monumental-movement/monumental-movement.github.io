@@ -9,16 +9,16 @@ permalink: /zh-hant/various-keepintime-12-series-no1-of-3/
 tags:
 - Break Beat
 - Jazz
-title: 各種 – Keepintime 12 系列 No1 Of 3
+title: Various – Keepintime 12 Series No1 Of 3
 ---
 
 
-這是紀錄片「Keepintime」中的 12 吋系列節目，其中包括 DJ Shadow 和其他傳奇鼓手之間的會議。
+DJ シャドウらとレジェンドのドラマーたちのセッションを収録したドキュメンタリー"Keepintime"の12インチ・シリーズです。
 
-B2 也包括會議的現場錄音。
+そしてB2にはセッションのライヴ録音も収録されています。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  Cut Chemist–A Peek In Time
 
@@ -28,7 +28,7 @@ B1  King Britt–King's On Time Mix
 
 B2  Unknown Artist–Exclusive Excerpt From Keepintime: A Live Recording
 ```
-[在 Mercari 購買](https://jp.mercari.com/item/m29653192560?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29653192560?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QT3GXm7HoXI?si=h9OBbQ-wA4hYE6Bi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

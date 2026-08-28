@@ -9,24 +9,24 @@ permalink: /zh-hant/slusnik-luna-sun/
 tags:
 - Trance
 - 00s
-title: Slusnik Luna – 太陽
+title: Slusnik Luna – Sun
 ---
 
 
-Slusnik Luna 是芬蘭 Trance/House 音樂二人組，由 Niko Nyman 和 Nicklas Renqvist 於 1994 年在赫爾辛基組成。
+Slusnik Lunaは、Niko Nyman と Nicklas Renqvistにより、1994年にヘルシンキで結成されたフィンランドのTrance / House ミュージックデュオ。
 
-首支單曲「Sun」於2000年在赫爾辛基俱樂部Unity俱樂部的唱片公司Unity Records上首次發行。這首國歌隨後在世界各地的多個唱片公司發行，包括英國獨立唱片公司Incentive Music和美國唱片公司Ultra Records，並成為俱樂部熱門歌曲。
+デビューシングル「Sun」は、ヘルシンキのクラブClub UnityのレコードレーベルUnity Recordsから2000年に最初にリリースされた。その後、UKのインディペンデントレーベルIncentive MusicやUSのレーベルUltra Recordsなど世界中のさまざまなレーベルからリリースされ、クラブヒットとなったアンセム曲。
 
-這張唱片是Unity Records於2000年發行的早期版本。
+このレコードは、2000年にUnity Recordsリリースされた初期盤。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Sun
 
 AA. Raid-133
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m97912186762?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97912186762?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JmsMhWqlszY?si=ncskF_bUYeFQtbXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,13 +10,13 @@ tags:
 - Experimental
 - Post Rock
 - History
-title: '[Column] Anticon — Genealogy of anti-icons and their surrounding music'
+title: 【コラム】 Anticon — 反・アイコンの系譜とその周縁音楽
 ---
 
 
-## Beyond indie hip-hop, post-rock, electronica, and the art scene in general
+##  インディヒップホップを超えて、ポストロック、エレクトロニカ、アートシーン全般に
 
-Text: mmr | Theme: The history of experimental hip-hop/indie music by Anticon (founded in 1998) and the discography of major artists.
+文：mmr｜テーマ：Anticon（1998年設立）による実験的ヒップホップ／インディ音楽の歴史と、主要アーティストのディスコグラフィを
 
 
 Anticon (anticon.) is an American indie/experimental hip-hop label/collective that was founded in 1998. While many of the founding members expanded their activities into "avant-garde hip-hop" and indie/electronica, crossing over between solo acts and derivative units, the label's activities declined in the late 2010s after significant changes (departure of a co-founder, death of a member, etc.).
@@ -27,7 +27,7 @@ Anticon (anticon.) is an American indie/experimental hip-hop label/collective th
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -39,22 +39,22 @@ color: #fff;
 
 ## History and spirit — origins as "anti"
 
-Anticon was founded in 1998 with **Sole (Tim Holland)**, **Doseone (Adam Drucker)**, **Jel (Jeffrey Logan)**, **Odd Nosdam (David Madson)**, **Pedestrian (James Brandon Best)**, **Yoni Wolf (Why?)** and others.
+Anticonは1998年、**Sole（Tim Holland）** や **Doseone（Adam Drucker）**、**Jel（Jeffrey Logan）**、**Odd Nosdam（David Madson）**、**Pedestrian（James Brandon Best）**、**Yoni Wolf（Why?）** らを中心に立ち上がった。  
 The name comes from the word "ant-icon", symbolizing resistance to established genres and commercial norms.
 
-Representative projects include **cLOUDDEAD**, **Themselves**, **Subtle**, and **Deep Puddle Dynamics**.
+代表的なプロジェクトには **cLOUDDEAD**、**Themselves**、**Subtle**、**Deep Puddle Dynamics** などがある。
 
 ---
 
 ### Musical characteristics and transformation
-In the early days, the band"s core was fragmentary, abstract, and even literary lyrics, which were described as ""avant-hip-hop" or ""hip-hop"s version of post-rock," as well as an experimental orientation that made extensive use of samples, noise, and ambience. However, since the mid-2000s, the individual members have shifted towards indie rock, electronica, and pop, and as a result, Anticon has become less of a "single genre label" and more of a "group of individuals who resonate with each other." Representative Why? (Yoni Wolf) has deepened his melody-oriented songwriting, while Doseone and others have turned to performance-oriented projects.
+初期は“avant-hip-hop”や「ポストロックのヒップホップ版」と評されるような、断片的で抽象的、文学的とも評されるリリックと、サンプルやノイズ、アンビエンスを多用する実験志向が核だった。しかし2000年代中盤以降、個々のメンバーはインディロックやエレクトロニカ、ポップ寄りの編成へと歩みを移し、結果としてAnticonは「単一ジャンルのレーベル」ではなく、むしろ“共鳴する個人群”になっていった。代表格のWhy?（Yoni Wolf）はメロディ志向のソングライティングを深め、Doseoneらはパフォーマンス志向のプロジェクトに傾斜した。
 
 ---
 
-### Anecdote/Turning Point
-- **Sole's departure (2010)**: Co-founder Sole announced his departure from Anticon in 2010. It is said that there were differences in business views and directions, but he commented that they would continue to work together on a personal basis.
+### 逸話・転機
+- **Soleの離脱（2010）**：共同創設者のSoleは2010年にAnticonからの離脱を表明。ビジネス上の見解や方向性の違いが背景にあったとされるが、個人的な連携は継続するとコメントした。
 
-- **Alias ​​Passes away (2018)**: Co-founder, producer/artist Alias ​​passed away suddenly in 2018. Since then, the label"s activities have dwindled, and one of its founding members, Sole, has stated that the label was dissolved after Alias' death. This is a clear turning point in Anticon"s history
+- **Aliasの死去（2018）**：共同創設者でプロデューサー／アーティストのAliasは2018年に急逝。以後レーベルは活動が縮小し、創設メンバーの1人であるSoleの言及によれば、Aliasの死後、レーベルは解消（dissolved）したとされる。これはAnticonの歴史における明確なターニングポイントである
 
 ---
 
@@ -62,12 +62,12 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 ### Recommended albums by generation
 
 
-| Year | Artist | Title | Link |
-| --------: | -------------- | ------------------------ | -------------------------------------------------------------------- |
-| 1999–2001 | cLOUDDEAD | *cLOUDDEAD* | [Amazon](https://amzn.to/4mPWdmu) |
-| 2000 | Sole | *Bottle of Humans* | [Amazon](https://amzn.to/46VIXXn) |
+|        年代 | アーティスト         | 作品名                      | リンク                                                                            |
+| --------: | -------------- | ------------------------ | ------------------------------------------------------------------------------------ |
+| 1999–2001 | cLOUDDEAD      | *cLOUDDEAD*     | [Amazon](https://amzn.to/4mPWdmu)                             |
+|      2000 | Sole           | *Bottle of Humans*       | [Amazon](https://amzn.to/46VIXXn)                    |
 | 2002 | Themselves | *The No Music* | [Amazon](https://amzn.to/48k36sF) |
-| 2005 | Why? | *Elephant Eyelash* | [Amazon](https://amzn.to/434860O) |
+|      2005 | Why?           | *Elephant Eyelash*       | [Amazon](https://amzn.to/434860O)                  |
 | 2003 | Alias ​​| *Muted* | [Amazon](https://amzn.to/4mPkFUO) |
 | 1999–2004 | V.A. (Anticon) | *Anticon: Label Sampler* | [Amazon](https://amzn.to/477VKY2) |
 
@@ -84,9 +84,9 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 ### ■ Sole (Tim Holland)
 
 
-| Year | Title | Notes | Link |
-| ---- | -------------------- | ---------------- | ------------------------------------------------------------------------- |
-| 1999 | *Bottle of Humans* | Anticon's earliest solo masterpiece | [Amazon](https://amzn.to/46VIXXn) |
+| 年    | タイトル                 | 備考               | リンク                                                                    |
+| ---- | -------------------- | ---------------- | ---------------------------------------------------------------------- |
+| 1999 | *Bottle of Humans*   | Anticonの最初期ソロ代表作 | [Amazon](https://amzn.to/46VIXXn)      |
 | 2003 | *Selling Live Water* | Deepening your political message | [Amazon](https://amzn.to/3IUkjOQ) |
 | 2005 | *Live From Rome* | Lo-fi feel and experimentation | [Amazon](https://amzn.to/3INASvV) |
 | 2010 | *Plastique* | Co-produced with Skyrider Band | [Amazon](https://amzn.to/4nHW0Da) |
@@ -104,8 +104,8 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 | Year | Title | Notes | Link |
 | ---- | --------------- | ---------- | ------------------------------------------------------------- |
 | 1998 | *Hemisphere* | Early works with Jel | [YouTube](https://www.youtube.com/watch?v=jiFusSPAbWM) |
-| 2005 | *Ha* | Abstract solo | [Amazon](https://www.amazon.com/Ha-Doseone/dp/B0009A40U8) |
-| 2016 | *G Is For Deep* | Beat/Singing Voice Experiment | [Amazon](https://amzn.to/48eN2Z6) |
+| 2005 | *Ha*            | アブストラクトなソロ | [Amazon](https://www.amazon.com/Ha-Doseone/dp/B0009A40U8)     |
+| 2016 | *G Is For Deep* | ビート／歌声の実験  | [Amazon](https://amzn.to/48eN2Z6) |
 
 
 --- 
@@ -120,7 +120,7 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 | Year | Title | Notes | Link |
 | ---- | ------------ | ------ | ------------------------------------------------------------- |
 | 2002 | *10 Seconds* | MPC feats | [Amazon](https://amzn.to/42pzaYl) |
-| 2006 | *Soft Money* | Many guests | [Amazon](https://amzn.to/3KAS5sY) |
+| 2006 | *Soft Money* | ゲスト多数  | [Amazon](https://amzn.to/3KAS5sY) |
 
 
 --- 
@@ -133,10 +133,10 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 ### ■ Odd Nosdam (David Madson)
 
 | Year | Title | Notes | Link |
-| ---- | -------------------------- | -------------------- | -------------------------------------------------------------------------- |
+| ---- | ----------------------------- | -------------------- | -------------------------------------------------------------------------- |
 | 2001 | *Plan 9… Meat Your Hypnotis.* | Sample Heterogeneous Beauty | [Amazon](https://amzn.to/3VPgzBg) |
 | 2005 | *Burner* | Ambient texture | [Amazon](https://amzn.to/42nw4UB) |
-| 2007 | *Level Live Wires* | Boards of Canada's worldview | [Amazon](https://amzn.to/42kl7TS) |
+| 2007 | *Level Live Wires*            | Boards of Canada的世界観 | [Amazon](https://amzn.to/42kl7TS) |
 
 
 --- 
@@ -147,14 +147,14 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 
 
 
-### ■ Alias ​​(Brendon Whitney)
+### ■ Alias (Brendon Whitney)
 
-| Year | Title | Notes | Link |
-| ---- | ------------------------------------- | -------- | --------------------------------------------------------------- |
-| 2000 | *The Other Side of the Looking Glass* | Debut work | [Amazon](https://amzn.to/4o9dFDz) |
-| 2003 | *Muted* | Suppressed Sound World | [Amazon](https://amzn.to/4mPkFUO) |
-| 2008 | *Resurgam* | Post-rock | [Amazon](https://amzn.to/3Wsfz65) |
-| 2014 | *Pitch Black Prism* | Final work | [Amazon](https://amzn.to/3KDPhv3) |
+| 年    | タイトル                                  | 備考       | リンク                                                                           |
+| ---- | ------------------------------------- | -------- | ----------------------------------------------------------------------------- |
+| 2000 | *The Other Side of the Looking Glass* | デビュー作    | [Amazon](https://amzn.to/4o9dFDz) |
+| 2003 | *Muted*                               | 抑制された音世界 | [Amazon](https://amzn.to/4mPkFUO)                    |
+| 2008 | *Resurgam*                            | ポストロック寄り | [Amazon](https://amzn.to/3Wsfz65)                 |
+| 2014 | *Pitch Black Prism*                   | 最終作      | [Amazon](https://amzn.to/3KDPhv3)        |
 
 --- 
 
@@ -166,13 +166,13 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 
 ### ■ Why? (Yoni Wolf)
 
-| Year | Title | Notes | Link |
-| ---- | ------------------ | --------- | ------------------------------------------------------------------ |
+| 年    | タイトル               | 備考        | リンク                                                                 |
+| ---- | ------------------ | --------- | ------------------------------------------------------------------- |
 | 2005 | *Elephant Eyelash* | Early masterpieces | [Amazon](https://amzn.to/434860O) |
 | 2008 | *Alopecia* | Highly hailed as a masterpiece | [Amazon](https://amzn.to/46Afnb3) |
 | 2009 | *Eskimo Snow* | Mellow texture | [Amazon](https://amzn.to/42nYH40) |
 | 2012 | *Mumps, etc.* | Humorous lyrics | [Amazon](https://amzn.to/46Q7L33) |
-| 2017 | *Moh Lhean* | Recent masterpieces | [Amazon](https://amzn.to/4gXck0f) |
+| 2017 | *Moh Lhean*        | 近年の代表作    | [Amazon](https://amzn.to/4gXck0f)        |
 
 --- 
 
@@ -183,9 +183,9 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 
 ### ■ cLOUDDEAD
 
-| Year | Title | Notes | Link |
-| ---- | ----------- | ---- | ----------------------------------------------------- |
-| 2001 | *cLOUDDEAD* | A fantastic masterpiece | [Amazon](https://amzn.to/4mPWdmu) |
+| 年    | タイトル        | 備考   | リンク                                                      |
+| ---- | ----------- | ---- | -------------------------------------------------------- |
+| 2001 | *cLOUDDEAD* | 幻の名盤 | [Amazon](https://amzn.to/4mPWdmu) |
 
 --- 
 
@@ -197,11 +197,11 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 
 ### ■ Themselves (Doseone + Jel)
 
-| Year | Title | Notes | Link |
+| 年    | タイトル           | 備考     | リンク                                                                  |
 | ---- | -------------- | ------ | -------------------------------------------------------------------- |
-| 2000 | *Them* | Debut work | [Amazon](https://amzn.to/46MSmAs) |
+| 2000 | *Them*         | デビュー作  | [Amazon](https://amzn.to/46MSmAs)                                |
 | 2002 | *The No Music* | Representative works | [Amazon](https://amzn.to/48k36sF) |
-| 2009 | *CrownsDown* | Full of tension | [Amazon](https://amzn.to/3Wj15We) |
+| 2009 | *CrownsDown*   | 緊張感溢れる | [Amazon](https://amzn.to/3Wj15We) |
 
 --- 
 
@@ -213,10 +213,10 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 
 ### ■ Subtle
 
-| Year | Title | Notes | Link |
+| 年    | タイトル                 | 備考               | リンク                                                             |
 | ---- | -------------------- | ---------------- | ------------------------------------------------------------ |
-| 2004 | *A New White* | Project led by Doseone | [Amazon](https://amzn.to/3IHs6Q6) |
-| 2006 | *For Hero: For Fool* | Highly rated work | [Amazon](https://amzn.to/4o4wvf0) |
+| 2004 | *A New White*        | Doseone主導のプロジェクト | [Amazon](https://amzn.to/3IHs6Q6) |
+| 2006 | *For Hero: For Fool* | 高評価作             | [Amazon](https://amzn.to/4o4wvf0) |
 
 
 --- 
@@ -230,9 +230,9 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 
 ### ■ Deep Puddle Dynamics
 
-| Year | Title | Notes | Link |
-| ---- | ---------------------------- | -------------------------- | --------------------------------------------------------------- |
-| 1998 | *The Taste of Rain… Why Kneel?* | Legendary works by Slug, Sole, Alias ​​and others | [Amazon](https://amzn.to/46PKVIV) |
+| 年    | タイトル                            | 備考                         | リンク                                                                 |
+| ---- | ------------------------------- | -------------------------- | ------------------------------------------------------------------- |
+| 1998 | *The Taste of Rain… Why Kneel?* | Slug, Sole, Aliasらによる伝説的作品 | [Amazon](https://amzn.to/46PKVIV) |
 
 --- 
 
@@ -244,13 +244,13 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 
 ### Influence in production/guest performance
 
-The members of Anticon collaborated extensively outside of their own label. For example, his remix work with Odd Nosdam and production/collaboration with Alias ​​intersect with artists from the post-rock and indie worlds. Anticon also became a hub for releases and tours from outsiders such as Buck 65 and Sage Francis, contributing to the formation of its own scene.
+Anticonのメンバーは自分たちのレーベル外でも幅広くコラボレーションを行った。例えばOdd Nosdamのリミックス仕事やAliasのプロデュース／コラボは、ポストロックやインディ界隈のアーティストとも交差している。またAnticonは外部からBuck 65やSage Francisなどのリリースやツアーのハブにもなり、独自のシーン形成に寄与した。
 
 
 ---
 
 
-### Current status (2020s) and legacy
+### 現在の状態（2020年代）と遺産
 
 There are reports that the official website and activities have shrunk since 2018, and that "continuation as a label" has virtually ceased with the death of founding member Alias. However, individual artists (Why?, Doseone, Odd Nosdam, etc.) continue to pursue solo careers or other labels, and Anticon's musical influence remains strong in the indie/experimental music world to this day. The diaspora of the 2010s and the turning point of 2018 are good examples of how the "collective body" of a label changes as individuals become more diverse.
 
@@ -258,7 +258,7 @@ There are reports that the official website and activities have shrunk since 201
 ---
 
 
-### Deep dive: Highlights to listen to
+### 深掘り：聴きどころ
 
 **Decoration and deconstruction of words**: Anticon style vocals often embellish words to shake up meaning and emotion. Lyric analysis (vocabulary frequency, theme changes) is also interesting from a cultural research perspective.
 
@@ -269,9 +269,9 @@ There are reports that the official website and activities have shrunk since 201
 ---
 
 
-### Reference (excerpt)
+### 参考（抜粋）
 
-- [Tape Op / Interview article (Anticon production method)](https://tapeop.com/interviews/43/anticon)
+- [Tape Op / インタビュー記事（Anticonのプロダクション手法）](https://tapeop.com/interviews/43/anticon)
 
 
 - [Pitchfork: "Anticon Co-Founder Brendon Whitney (Alias) Dead at 41"](https://pitchfork.com/news/anticon-co-founder-brendon-whitney-alias-dead-at-41)
@@ -284,7 +284,7 @@ There are reports that the official website and activities have shrunk since 201
 
 ### summary
 
-Anticon was more than just a hip-hop label; it was a cultural experiment that proposed new possibilities for words and sounds, incorporating elements of experimental music, post-rock, and electronica. Key members such as Sole, Doseone, Jel, Alias, Odd Nosdam, and Why? continued to update their poetic expressions and sonic worlds through solo work, bands, and collaborations.
+Anticonは、単なるヒップホップ・レーベルにとどまらず、実験音楽・ポストロック・エレクトロニカの要素を巻き込みながら「言葉」と「音」の新しい可能性を提示した文化的実験場だった。SoleやDoseone、Jel、Alias、Odd Nosdam、Why? といった主要メンバーは、それぞれがソロやバンド、コラボレーションを通じて、自らの詩的表現と音響世界を更新し続けた。
 
 At the core of its activities is an awareness of the ""expansion of underground hip-hop" from the late 1990s to the 2000s, and as a result, Anticon has taken on a strong character as an ""art collective," ""independent lab," and ""ideological community." cLOUDDEAD"s fantastic works, Why?"s pop-leaning albums, and the experimental production of Alias ​​and Odd Nosdam continue to influence many listeners and musicians to this day.
 

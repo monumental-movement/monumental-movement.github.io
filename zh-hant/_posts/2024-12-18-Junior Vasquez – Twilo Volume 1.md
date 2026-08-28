@@ -11,13 +11,13 @@ tags:
 - Mix
 - DJMix
 - 00s
-title: Junior Vasquez – Twilo 第 1 卷
+title: Junior Vasquez – Twilo Volume 1
 ---
 
 
-Virgin 於 2000 年發行了 DJ Junior Vasquez 製作的 2 張 House 混音唱片。
+2000年にVirginからリリースされたDJ Junior Vasquez によるHouse ミックス2枚組。
 
-#### 曲目表
+#### Tracklist
 ```md
 1-01. Pre YMO – InDo (Junior Vasquez Remix)
 1-02. Bobby Slate – Floating Higher
@@ -42,7 +42,7 @@ Virgin 於 2000 年發行了 DJ Junior Vasquez 製作的 2 張 House 混音唱�
 2-09. Zelma Davis – The Power (Junior Vasquez Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m88730253725?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88730253725?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TXYsBCm8z40?si=x5KTgKy1y4bJH9Sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,13 +11,13 @@ tags:
 - Abstract
 - Drum n Bass
 - 90s
-title: 大衛鮑伊 – 1. 外面
+title: David Bowie – 1. Outside
 ---
 
 
-大衛鮑伊 (David Bowie) 的第 18 張專輯於 1995 年與製作人布萊恩伊諾 (Brian Eno) 發行。第20首歌曲是初回版+日本版的專屬特典曲目。
+プロデューサーにBrian Enoをむかえ、1995年にリリースされたDavid Bowieの18枚目のアルバム。20曲目は初回盤＋日本盤限定のボーナストラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Leon Takes Us Outside
 2. Outside
@@ -41,7 +41,7 @@ title: 大衛鮑伊 – 1. 外面
 20. Get Real
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

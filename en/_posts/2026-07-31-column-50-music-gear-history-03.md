@@ -10,31 +10,30 @@ tags:
 - Synthesizer
 - Drum Machine
 - Sampler
-title: '[Column] 50 music equipment that changed the world Part 3 TR-808 SP-1200 MPC
-  Fairlight DX7 LinnDrum TB-303'
+title: 【コラム】 世界を変えた音楽機材50選 Part3 TR-808 SP-1200 MPC Fairlight DX7 LinnDrum TB-303
 ---
 
 
-## 21. E-mu Emulator II — A masterpiece that spread sampling culture to pop music
+## 21. E-mu Emulator II — サンプリング文化をポップミュージックへ広げた名機
 
 
-E-mu Emulator II, released in 1984, is an important digital instrument that expanded sampling technology to general music production.
+1984年に発売されたE-mu Emulator IIは、サンプリング技術を一般的な音楽制作へ広げた重要なデジタル楽器である。
 
-Early samplers were very expensive and were often used for limited studio or research purposes.
+初期のサンプラーは非常に高価で、限られたスタジオや研究用途で使用されることが多かった。
 
-The Emulator II was relatively affordable and easy to use at the time, and became a sampler that professional musicians could use in actual production settings.
+Emulator IIは、当時としては比較的扱いやすい価格と操作性を実現し、プロのミュージシャンが実際の制作現場で使用できるサンプラーとなった。
 
-Its unique feature was that it could record actual musical instrument sounds and environmental sounds and play them as a keyboard instrument.
+特徴は、実際の楽器音や環境音を録音し、それを鍵盤楽器として演奏できる点だった。
 
-This allows musicians to create new music using real-world sounds as raw materials.
+これにより、ミュージシャンは現実の音を素材として新しい音楽を構築できるようになった。
 
 Many pop, new wave, and film scores of the 1980s used Emulator II's unique, textured sounds.
 
-In addition, the idea of ​​reconstructing sounds using a sampler had a great influence on later hip-hop production and electronic music.
+また、サンプラーによる音の再構成という考え方は、後のヒップホップ制作や電子音楽にも大きな影響を与えた。
 
-The production method of not only recording sound but also cutting it, rearranging it, and transforming it has become the basic idea of ​​modern music production.
+音を録音するだけではなく、切り取り、並べ替え、変形するという制作方法は、現在の音楽制作の基本的な考え方になっている。
 
-> Emulator II expanded the sampling culture of converting real sounds into new instruments.
+> Emulator IIは、現実の音を新しい楽器へ変換するサンプリング文化を広げた。
 
 
 <style type="text/css">
@@ -42,7 +41,7 @@ The production method of not only recording sound but also cutting it, rearrangi
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -53,181 +52,181 @@ color: #fff;
 
 ---
 
-## 22. Yamaha SY77 — A hybrid synthesizer that further develops digital sound sources
+## 22. Yamaha SY77 — デジタル音源をさらに発展させたハイブリッドシンセサイザー
 
-Released in 1989, the Yamaha SY77 was an innovative synthesizer that combined FM sound source and sample playback technology.
+1989年に発売されたYamaha SY77は、FM音源とサンプル再生技術を組み合わせた革新的なシンセサイザーだった。
 
-The Yamaha DX7 made FM sound sources popular worldwide, but the SY77 added a sample sound source technology called AWM (Advanced Wave Memory).
+Yamaha DX7によってFM音源は世界的に普及したが、SY77はそこへAWM（Advanced Wave Memory）というサンプル音源技術を加えた。
 
-This makes it possible to create complex tones that combine real instrument sounds and digitally synthesized sounds.
+これにより、リアルな楽器音とデジタル合成音を組み合わせた複雑な音色作りが可能になった。
 
-The SY77 is not just a preset sound source, but a combination of multiple sound source methods to achieve a wide range of sound designs.
+SY77は、単なるプリセット音源ではなく、複数の音源方式を組み合わせることで幅広いサウンドデザインを実現した。
 
-Pop, fusion, and electronic music in the early 1990s often used this transparent digital sound.
+1990年代初頭のポップス、フュージョン、電子音楽では、その透明感のあるデジタルサウンドが多く使用された。
 
 The idea of ​​integrating multiple sound source systems also influenced subsequent workstation synthesizers.
 
-> SY77 expands the possibilities of digital music production by fusing different sound source technologies.
+> SY77は、異なる音源技術を融合することでデジタル音楽制作の可能性を広げた。
 
 ---
 
-## 23. Roland JV-1080 — The sound module that dominated the 1990s sound
+## 23. Roland JV-1080 — 1990年代サウンドを支配した音源モジュール
 
-The Roland JV-1080, released in 1994, is a sound module that symbolizes music production in the 1990s.
+1994年に発売されたRoland JV-1080は、1990年代の音楽制作を象徴する音源モジュールである。
 
-At the time, many producers used multiple instruments in their productions.
+当時、多くのプロデューサーは複数の楽器を組み合わせて制作していた。
 
-The JV-1080 contained a large number of high-quality preset tones in one unit, providing a wide range of tones such as synthesizer, piano, strings, and drums.
+JV-1080は、大量の高品質なプリセット音色を一台に収録し、シンセサイザー、ピアノ、ストリングス、ドラムなど幅広い音色を提供した。
 
 It was particularly compatible with MIDI environments, and was widely used in computer-based music production.
 
-The sounds of the JV series were frequently used in pop music, game music, TV music, and dance music in the 1990s.
+1990年代のポップス、ゲーム音楽、テレビ音楽、ダンスミュージックでは、JVシリーズの音色が頻繁に使われた。
 
-It also influenced the idea of ​​""having a large amount of built-in tones'' in the software sound generation era.
+また、ソフトウェア音源時代における「大量の音色を内蔵する」という考え方にも影響を与えた。
 
-This is one of the ideas that formed the basis of the current virtual sound source library.
+現在のバーチャル音源ライブラリーの基礎となった思想の一つである。
 
-> The JV-1080 created an era in which a huge music library could be carried in a single studio rack.
+> JV-1080は、スタジオのラック一台で巨大な音楽ライブラリーを持ち運ぶ時代を作った。
 
 ---
 
-## 24. Roland SP-1200 — The sampler that created the golden age of hip-hop
+## 24. Roland SP-1200 — ヒップホップ黄金期を作ったサンプラー
 
-Released in 1987, the E-mu SP-1200 was a sampler that changed the history of hip-hop production.
+1987年に発売されたE-mu SP-1200は、ヒップホップ制作の歴史を変えたサンプラーである。
 
-The SP-1200 was not intended for long-term, high-quality recording.
+SP-1200は、長時間の高音質録音を目的とした機材ではなかった。
 
-However, the harsh sound quality created by the limited sampling time and uniquely low bit rate created a texture unique to hip-hop.
+しかし、限られたサンプリング時間と独特の低ビットレートによって生まれる荒々しい音質が、ヒップホップ特有の質感を形成した。
 
-Sampler loop editing, drum programming, and extracting sounds from records became central to hip-hop production in the late 1980s and 1990s.
+サンプラーによるループ編集、ドラムプログラミング、レコードからの音の抽出は、1980年代後半から1990年代のヒップホップ制作の中心となった。
 
-The grainy sound produced by the SP-1200 was loved by many producers, and later became a symbol of the "vintage hip-hop sound."
+SP-1200による粒状感のあるサウンドは、多くのプロデューサーに愛され、後に「ヴィンテージヒップホップサウンド」の象徴となった。
 
 What is important is that technological constraints did not limit creativity, but instead gave rise to unique expressions.
 
-Modern producers often intentionally recreate the feel of older samplers.
+現代のプロデューサーが意図的に古いサンプラーの質感を再現することも多い。
 
-> The SP-1200 was a historical piece of equipment that transformed limited technology into musical individuality.
+> SP-1200は、制限された技術を音楽的個性へ変換した歴史的機材だった。
 
 ---
 
-## 25. Technics SL-1200 — The turntable that supported DJ culture
+## 25. Technics SL-1200 — DJ文化を支えたターンテーブル
 
-The Technics SL-1200, released in 1972, is an essential turntable for the development of DJ culture.
+1972年に発売されたTechnics SL-1200は、DJ文化の発展に欠かせないターンテーブルである。
 
-It was originally developed as a high-performance home record player.
+当初は高性能な家庭用レコードプレーヤーとして開発された。
 
-However, due to its high durability, stable rotational performance, and direct drive method, it became widely used by club DJs and hip-hop DJs.
+しかし、その高い耐久性、安定した回転性能、ダイレクトドライブ方式によって、クラブDJやヒップホップDJに広く使用されるようになった。
 
-Of particular importance were scratching, beat matching, and a structure that could withstand long-term use.
+特に重要だったのは、スクラッチ、ビートマッチング、長時間使用に耐える構造だった。
 
-DJs no longer just play records, they now operate turntables like musical instruments.
+DJはレコードを単に再生するだけではなく、ターンテーブルを楽器のように操作するようになった。
 
-The SL-1200 played a central role in the development of hip-hop culture, club culture, and house music.
+ヒップホップ文化、クラブ文化、ハウスミュージックの発展において、SL-1200は中心的な役割を果たした。
 
-Even today, when digital DJ equipment has become widespread, it continues to be highly regarded for its ease of use and cultural symbolism.
+デジタルDJ機器が普及した現在でも、その操作感と文化的象徴性は高く評価され続けている。
 
-> The SL-1200 transforms the record player from a playback device to a musical instrument.
+> SL-1200は、レコードプレーヤーを再生装置から演奏楽器へ変えた。
 
 ---
 
 ## 26. Oberheim OB-X — The flagship polyphonic analog synth
 
-The Oberheim OB-X, introduced in 1980, is a representative analog polyphonic synthesizer.
+1980年に登場したOberheim OB-Xは、アナログポリフォニックシンセサイザーの代表的な存在である。
 
-Unlike previous single-note synthesizers, it was able to play multiple notes at the same time, making it possible to express rich chords.
+それまでの単音シンセサイザーとは異なり、複数音を同時に演奏できることで、豊かなコード表現が可能になった。
 
-The OB-X was used by many musicians due to its thick analog sound and spacious stereo feel.
+OB-Xは、太いアナログサウンドと広がりのあるステレオ感によって、多くのミュージシャンに使用された。
 
-It was especially used in 1980s pop and rock music to create thick synth pads and lead sounds.
+特に1980年代のポップスやロックでは、厚みのあるシンセパッドやリード音を作るために活用された。
 
-This created a trend in which analog synthesizers were recognized as not just electronic sound generators, but as full-fledged musical instruments that could play chords.
+アナログシンセサイザーが単なる電子音生成機ではなく、和音を演奏できる本格的な楽器として認識される流れを作った。
 
-> The OB-X pushed analog synthesizers to the center of the band's sound.
-
----
-
-## 27. EMS VCS3 — A compact synthesizer that expands the possibilities of experimental music
-
-The EMS VCS3, released in 1969, was a synthesizer that had a major influence on the history of experimental music and electronic acoustics.
-
-Despite its compact size, the unique patching method enabled complex acoustic processing.
-
-Unlike ordinary keyboard instruments, it was designed as a piece of equipment for exploring the process of creating sound itself.
-
-It was also used in electronic sound productions such as the BBC Radiophonic Workshop, providing a unique sound for film scores and experimental music.
-
-The VCS3 showed that the synthesizer was not only a device for playing melodies, but also a device for exploring acoustics itself.
-
-> The EMS VCS3 transforms the synthesizer from a future instrument to a canvas for sonic experimentation.
+> OB-Xは、アナログシンセサイザーをバンドサウンドの中心へ押し上げた。
 
 ---
 
-## 28. ARP 2600 — A modular synthesizer that combines education and creativity
+## 27. EMS VCS3 — 実験音楽の可能性を広げた小型シンセサイザー
 
-The ARP 2600, introduced in 1971, was an important piece of equipment that expanded the concept of modular synthesizers to more musicians.
+1969年に発売されたEMS VCS3は、実験音楽や電子音響の歴史に大きな影響を与えたシンセサイザーである。
 
-The large modular synthesizers of the late 1960s were extremely expensive and complex systems.
+コンパクトな筐体ながら、独特なパッチング方式によって複雑な音響処理が可能だった。
 
-Therefore, it was mainly used by research facilities and some professionals.
+一般的な鍵盤楽器とは異なり、音を作る過程そのものを探求するための機材として設計されていた。
 
-The ARP 2600 employs a relatively easy-to-use design while retaining the flexibility of a modular system.
+BBC Radiophonic Workshopなどの電子音響制作でも使用され、映画音楽や実験音楽に独特のサウンドを提供した。
 
-Oscillators, filters, envelopes, mixers, etc. were built into the main unit, and the flow of sound could be changed using patch cables.
+VCS3は、シンセサイザーがメロディーを演奏するだけではなく、音響そのものを探究するための装置であることを示した。
 
-This structure allowed the performers to create while understanding the mechanism by which sounds were created, rather than simply selecting preset sounds.
-
-The ARP 2600 was also widely used in electronic music education.
-
-He has also created unique sonic expressions in a variety of genres, including film music, experimental music, and progressive rock.
-
-It had a major influence on the culture of thinking of synthesizers not as ""complete machines that produce sound," but as ""environments for designing acoustics."
-
-> The ARP 2600 ushered in an era in which people learned how sound is created before playing it.
+> EMS VCS3は、シンセサイザーを未来の楽器から音響実験のキャンバスへ変えた。
 
 ---
 
-## 29. Moog Modular System — A giant invention that laid the foundation for electronic music
+## 28. ARP 2600 — 教育と創造を結びつけたモジュラーシンセサイザー
 
-The Moog Modular System, developed in the 1960s, is one of the most important synthesizers that laid the foundation for modern electronic music.
+1971年に登場したARP 2600は、モジュラーシンセサイザーの概念をより多くの音楽家へ広げた重要な機材である。
 
-Created by developer Robert Moog, the system freely combined electronic circuits such as oscillators, filters, and amplifiers to create sounds that were impossible with conventional instruments.
+1960年代後半の大型モジュラーシンセサイザーは、非常に高価で複雑なシステムだった。
 
-Early Moog systems were very large and were more like acoustic research equipment than musical instruments.
+そのため、主に研究施設や一部の専門家によって使用されていた。
 
-However, its flexibility gave musicians the freedom to design new tones.
+ARP 2600は、モジュラー方式の柔軟性を残しながら、比較的扱いやすい設計を採用した。
 
-In 1968, Walter Carlos' album ""Switched-On Bach'' made the Moog synthesizer famous worldwide.
+本体内部にはオシレーター、フィルター、エンベロープ、ミキサーなどが組み込まれ、パッチケーブルによって音の流れを変更できた。
 
-Attempts to play classical pieces on electronic instruments showed many people the potential of synthesizers.
+この構造によって、演奏者は単にプリセット音を選択するのではなく、音が生まれる仕組みそのものを理解しながら制作できた。
 
-After that, Moog's philosophy was inherited by many analog synthesizers, including the Minimoog.
+ARP 2600は、電子音楽教育でも広く使用された。
 
-The basic concepts of modern software synthesizers, modular environments, and electronic music production were also formed during this period.
+また、映画音楽、実験音楽、プログレッシブ・ロックなど、多様なジャンルで独自の音響表現を生み出した。
+
+シンセサイザーを「完成した音を出す機械」ではなく、「音響を設計する環境」として考える文化に大きな影響を与えた。
+
+> ARP 2600は、音を演奏する前に、音が生まれる仕組みを学ぶ時代を作った。
+
+---
+
+## 29. Moog Modular System — 電子音楽の基礎を築いた巨大な発明
+
+1960年代に開発されたMoog Modular Systemは、現代の電子音楽の基礎を築いた最重要シンセサイザーの一つである。
+
+開発者Robert Moogによって作られたこのシステムは、オシレーター、フィルター、アンプなどの電子回路を自由に組み合わせることで、従来の楽器では不可能だった音響を生み出した。
+
+初期のMoogシステムは非常に大型で、演奏する楽器というよりも音響研究装置に近い存在だった。
+
+しかし、その柔軟性によって、音楽家は新しい音色を自由に設計できるようになった。
+
+1968年、Walter Carlosによるアルバム「Switched-On Bach」は、Moogシンセサイザーを世界的に知らしめるきっかけとなった。
+
+電子楽器でクラシック作品を演奏するという試みは、多くの人々にシンセサイザーの可能性を示した。
+
+その後、Moogの思想はMinimoogをはじめ、多くのアナログシンセサイザーへ受け継がれていった。
+
+現代のソフトウェアシンセサイザー、モジュラー環境、電子音楽制作の基本概念も、この時代に形成された。
 
 > The Moog Modular System was the first huge acoustic experiment that expanded on the very way humans make sound.
 
 ---
 
-## 30. Pioneer CDJ-1000 — The equipment that brought DJ performance into the digital age
+## 30. Pioneer CDJ-1000 — DJパフォーマンスをデジタル時代へ移行させた機材
 
-The Pioneer CDJ-1000, released in 2001, was the equipment that determined the digitalization of DJ culture.
+2001年に発売されたPioneer CDJ-1000は、DJ文化のデジタル化を決定づけた機材である。
 
-Before that, club DJs mainly used turntables such as the Technics SL-1200 and analog records.
+それ以前のクラブDJでは、Technics SL-1200などのターンテーブルとアナログレコードが中心だった。
 
-However, with the spread of CDs, music media was undergoing major changes.
+しかし、CDの普及によって音楽メディアは大きく変化していた。
 
-The CDJ-1000 provided an operating feel similar to that of a turntable while using CDs.
+CDJ-1000は、CDを使用しながらターンテーブルに近い操作感を提供した。
 
-The digital sound source has evolved into a form suitable for live performance, including scratch operation using the jog dial, pitch adjustment, waveform display, and cue point management.
+ジョグダイヤルによるスクラッチ操作、ピッチ調整、波形表示、キューポイント管理など、デジタル音源をライブパフォーマンスに適した形へ進化させた。
 
-As a result, DJs moved into an era where they played mainly digital files rather than just physical records.
+これによって、DJは物理的なレコードだけではなく、デジタルファイルを中心にプレイする時代へ移行していった。
 
-The CDJ series has become a standard in clubs, festivals, and DJ booths around the world.
+CDJシリーズは、クラブ、フェスティバル、世界中のDJブースで標準的な存在となった。
 
-It also had a major influence on later digital DJ software and controllers.
+さらに後のデジタルDJソフトウェアやコントローラーにも大きな影響を与えた。
 
-> The CDJ-1000 bridged the music media from analog to digital while preserving the spirit of DJ culture.
+> CDJ-1000は、DJ文化の精神を保ちながら、音楽メディアをアナログからデジタルへ橋渡しした。
 
 ---
 

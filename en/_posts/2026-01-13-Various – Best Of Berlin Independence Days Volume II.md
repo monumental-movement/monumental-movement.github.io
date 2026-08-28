@@ -13,13 +13,13 @@ title: Various – Best Of Berlin Independence Days Volume II
 ---
 
 
-A video (VHS) of a live performance at the 1988 Berlin Fair For Independent Music, released by the Berlin label Stud!o K7 in 1990. Featuring artists Mudhoney, Young Gods, Buzzcocks F.O.C. (Flag Of Convenience).
+ベルリンのレーベルStud!o K7が1990年にリリースした、1988年Berlin Fair For Independent Musicでのライブ演奏ビデオ(VHS)。出演アーティストMudhoney 、Young Gods 、Buzzcocks F.O.C. (Flag Of Convenience)。
 
-Mudhoney is a band from Seattle, USA that had a great influence on grunge/alternative rock musicians such as NIRVANA.
+Mudhoney (マッドハニー)は、NIRVANAなどグランジ／オルタナティブロックミュージシャン達に多大なる影響を与えた、アメリカ・シアトル出身のバンド。
 
-Young Gods is a Swiss industrial rock band formed in 1985. The band's name is taken from ""Young God'' by the American post-punk/experimental rock band Swans.
+Young Gods(ヤングゴッツ)は、1985年に結成されたスイスのインダストリアルロックバンド。バンド名は、アメリカのポストパンク／エクスペリメンタルロックバンドSwans(スワンズ)の『Young God』からとった。
 
-(Full length 42 minutes)
+(全編42分)
 
 
 #### Tracklist
@@ -34,7 +34,7 @@ Young Gods is a Swiss industrial rock band formed in 1985. The band's name is ta
 8. Jean Pierre
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m31349607002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31349607002?afid=6142608987){: .button1}
 
 
 #### YouTube

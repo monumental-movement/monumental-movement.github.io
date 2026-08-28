@@ -11,8 +11,7 @@ tags:
 - Rara
 - Ritual Music
 - Afro-Caribbean
-title: '[Column] Rara: Festival music and social memory resounding on the streets
-  of Haiti'
+title: 【コラム】 ララ（Rara）──ハイチの路上に鳴り響く祭礼音楽と社会の記憶
 ---
 
 
@@ -21,11 +20,11 @@ title: '[Column] Rara: Festival music and social memory resounding on the street
 
 Text: mmr｜Theme: The history and present of street culture where religion, politics, and community intersect, deciphered through Haitian festival music rara
 
-The season has arrived on the dry land of Haiti, where sharp metal sounds and low, undulating drums overlap. Rara does not have a specific venue. Music moves along the roads, penetrates the villages, and transforms people's living spaces into stages. The group continues walking until dawn, accompanied by costumes, dances, and religious symbols. This music is not entertainment, but prayer, political statement, and history storyteller.
+ハイチの乾いた大地に、鋭く突き抜ける金属音と低くうねる太鼓が重なり合う季節が訪れる。ララ（Rara）は、特定の会場を持たない。音楽は道路を進み、集落を貫き、人々の生活空間そのものを舞台へと変える。仮装や踊り、宗教的象徴を伴いながら、集団は夜明けまで歩き続ける。この音楽は娯楽ではなく、祈りであり、政治的表明であり、歴史の語り部でもある。
 
-Lala is more than just carnival music. It is a culture where the timeline of Lent before Easter, the cosmology of the Voodoo faith, and the memories of colonial rule and revolution overlap, crystallizing in the sounds heard on the streets. This article traces the rara's origins, instrumentation, social functions, and modern transformations as an accumulation of facts.
+ララは単なるカーニバル音楽ではない。復活祭前の四旬節という時間軸、ヴードゥー信仰の宇宙観、植民地支配と革命の記憶が折り重なり、路上で鳴る音として結晶化した文化である。本稿では、ララの起源から楽器編成、社会的機能、現代的変容までを、事実の積み重ねとして辿っていく。
 
-> Lala is a collective memory device in the form of music, and a culture that continues to update history through walking.
+> ララは、音楽という形をとった集団の記憶装置であり、歩くことで歴史を更新し続ける文化である。
 
 
 ---
@@ -35,7 +34,7 @@ Lala is more than just carnival music. It is a culture where the timeline of Len
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -44,163 +43,163 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Historical origin of Lala
+## 第1章　ララの歴史的起源
 
-The origin of lala is closely tied to the deep layers of Haitian society that was formed between the 18th and 19th centuries. In Saint-Domingue during the French colonial period, people brought from various parts of Africa maintained their own religious rituals and musical culture. Although these traditions were suppressed under plantation control, they were inherited in fragments through nightly gatherings and festivals.
+ララの起源は、18世紀から19世紀にかけて形成されたハイチ社会の深層と密接に結びついている。フランス植民地時代のサン＝ドマングでは、アフリカ各地から連れてこられた人々が、それぞれの宗教儀礼や音楽文化を保持していた。これらはプランテーションの管理下で抑圧されつつも、夜間の集会や祝祭の中で断片的に継承された。
 
-After independence in 1804, Catholicism and African faiths mixed in Haiti and became systematized as Voodoo. Rara became established in this religious mix as an outdoor processional ritual, especially during Lent. It has been pointed out that the form of marching reflects the memory of forced displacement during the colonial period and the experience of armed uprisings during the revolutionary period.
+1804年の独立後、ハイチではカトリックとアフリカ系信仰が混交し、ヴードゥーとして体系化されていく。ララは、この宗教的混淆の中で、特に四旬節の期間に行われる屋外行進儀礼として定着した。行進という形式は、植民地期の強制移動の記憶と、革命期の武装蜂起の経験を反映していると指摘されている。
 
-The Rara procession was not simply a celebration, but had the clear purpose of offering to the spirits, calling out to the spirits of the ancestors, and affirming the unity of the community. Music developed as an integral part of walking, and was characterized by continuous rhythm without stopping.
+ララの行進は、単に祝うためではなく、精霊への奉納、祖霊への呼びかけ、共同体の結束確認という明確な目的を持っていた。音楽は、歩行と不可分のものとして発展し、停止することなく連続するリズムが特徴となった。
 
-> Lala was founded at the intersection of suppressed religious practices and post-revolutionary social restructuring.
-
----
-
-## Chapter 2 Lala as a religious ritual
-
-Lara is deeply connected to Voodoo beliefs. Many of the processions are dedicated to a specific loa (spirit), and each piece of music and rhythm is given a symbolic meaning. Participants not only play music, but also purify the passageways for spirits and receive blessings.
-
-Ceremonial preparations are often made before the start of a march. After offerings, prayers, and calls from leaders, the group takes to the streets. Music is a means of communicating with spirits, and its volume and repetition function as elements that promote a trance state.
-
-Religious aspects differ from region to region, and even within the same rara, the objects of dedication and the methods of dedication vary. This flexibility is one of the reasons why Lara has survived in such a wide area.
-
-> Rara's religiosity is not a fixed doctrine, but a collection of practices that are updated with each march.
+> ララの成立は、抑圧された宗教実践と革命後の社会再編が交差した地点にある。
 
 ---
 
-## Chapter 3 Instrumentation and Acoustic Structure
+## 第2章　宗教儀礼としてのララ
 
-Lara's defining feature is the metal wind instrument vaksen. A long tube made of bamboo or metal is blown, and multiple players play single notes to form a polyrhythm. Added to this are drums, maracas, and metal percussion instruments.
+ララはヴードゥー信仰と深く結びついている。行進の多くは、特定のロア（精霊）に捧げられ、楽曲やリズムにはそれぞれ象徴的意味が付与されている。参加者は音楽を演奏するだけでなく、精霊の通過路を清め、祝福を受ける役割を担う。
 
-The vaxin is not so much a melodic instrument as a device for building layers of sound. Each player plays a different pitch and rhythm, creating an overall undulating sound. Music is not written into musical scores, but is inherited through physical memory.
+行進の開始前には、儀礼的な準備が行われることが多い。供物、祈祷、リーダーによる呼びかけを経て、集団は路上へと出る。音楽は精霊との交信手段であり、音量や反復はトランス状態を促す要素として機能する。
+
+宗教的側面は地域ごとに異なり、同じララでも奉納対象や進行方法は多様である。この柔軟性こそが、ララが広範な地域で存続してきた理由の一つである。
+
+> ララの宗教性は固定された教義ではなく、行進のたびに更新される実践の集積である。
+
+---
+
+## 第3章　楽器編成と音響構造
+
+ララを特徴づけるのは、金属製の管楽器ヴァクシン（vaksen）である。竹や金属で作られた長い管を吹き鳴らし、単音を担当する複数の奏者がポリリズムを形成する。これに太鼓、マラカス、金属打楽器が加わる。
+
+ヴァクシンは旋律楽器というより、音の層を構築するための装置である。各奏者は異なる音高やリズムを担当し、全体としてうねるような音響を生み出す。音楽は譜面化されず、身体的記憶によって継承される。
 
 <div class="mermaid">
 flowchart LR
-A[Vaxin] --> B[rhythm layer]
-C[drum] --> B
-D[shaker] --> B
-B --> E[group acoustics]
+A[ヴァクシン] --> B[リズム層]
+C[太鼓] --> B
+D[シェイカー] --> B
+B --> E[集団音響]
 </div>
 
-> Rara's sound is created not as an individual performance, but as a collective breath.
+> ララの音は、個人の演奏ではなく、集団の呼吸として成立する。
 
 ---
 
-## Chapter 4 Social and political functions
+## 第4章　社会的・政治的機能
 
-Lara has historically carried social commentary and political messages. Lyrics can include satire about current events or those in power, and the march itself can be a form of protest.
+ララは歴史的に、社会批評や政治的メッセージを担ってきた。歌詞には時事的出来事や権力者への皮肉が含まれることがあり、行進そのものが抗議の形式となる場合もある。
 
-Under the dictatorship, Rara marches were sometimes subject to surveillance, but the music and celebration served as a way to express opinions while avoiding direct repression. The nature of street movement was important in avoiding censorship and control.
+独裁政権下では、ララの行進が監視対象となることもあったが、音楽と祝祭の形式をとることで、直接的な弾圧を回避しつつ意見表明を行う手段として機能した。路上を移動する性質は、検閲や統制を回避する上で重要であった。
 
-> Lala is a speaking device in public space, wearing a celebratory mask.
-
----
-
-## Chapter 5 Regional differences and diversity
-
-Even within Haiti, the style of rara varies greatly depending on the region. In urban areas, there is a tendency for the formations to become larger and louder. On the other hand, in rural areas, there is a strong religious ritual, and the relationships among the participants are close.
-
-Rara is also inherited in immigrant communities, and marches held abroad function as a place for identity confirmation. The form changes depending on the environment and legal system, but the core of the combination of walking and music remains the same.
-
-> Rara is not a single style, but a group of cultures that change form depending on the situation.
+> ララは祝祭の仮面を被った、公共空間での発言装置である。
 
 ---
 
-## Chapter 6 Lara in modern times
+## 第5章　地域差と多様性
 
-Modern-day Lala oscillates between traditional rituals, tourism, and the music industry. While recordings and stage productions have gained new audiences, it has also been pointed out that there is a danger that the essence of street marches will be lost.
+ハイチ国内でも、ララの様式は地域によって大きく異なる。都市部では編成が大規模化し、音量も増す傾向がある。一方、農村部では宗教儀礼色が強く、参加者の関係性も密接である。
 
-Still, every year during Lent, Lara reappears on the streets. Even in situations where electricity and resources are limited, music can be created as long as the body and breath are present. This fact supports Lala's sustainability.
+移民コミュニティにおいてもララは継承され、国外で行われる行進は、アイデンティティ確認の場として機能している。環境や法制度の違いに応じて形態は変化するが、歩行と音楽の結合という核心は保たれている。
 
-> Lala continues to be walking music, even as it adapts to modern times.
+> ララは一つの様式ではなく、状況に応じて姿を変える文化群である。
 
 ---
 
-## Chronology Lara and Haitian Society
+## 第6章　現代におけるララ
 
-| Years | Events |
+現代のララは、伝統的儀礼と観光、音楽産業の間で揺れている。録音やステージ化によって新たな聴衆を獲得する一方、路上行進という本質が失われる危険性も指摘されている。
+
+それでも、毎年四旬節になると、ララは再び路上に現れる。電力や資源が限られた状況でも、身体と呼吸があれば音楽は成立する。その事実が、ララの持続性を支えている。
+
+> ララは現代化に適応しつつも、歩く音楽であり続けている。
+
+---
+
+## 年表　ララとハイチ社会
+
+| 年代    | 出来事                   |
 | ----- | --------------------- |
-| 18th century | African ritual music inherited in colonial society |
-| 1804 | Haitian independence, religious and cultural restructuring |
-| 19th century | Rara as a Lenten procession |
-| 20th century | Role as political expression becomes obvious |
+| 18世紀  | アフリカ系儀礼音楽が植民地社会で継承される |
+| 1804年 | ハイチ独立、宗教文化の再編         |
+| 19世紀  | 四旬節行進としてのララが定着        |
+| 20世紀  | 政治的表現としての役割が顕在化       |
 | 21st century | Inheritance and reinterpretation in the diaspora |
 
-> The chronology shows that Lara has been running parallel to social changes.
+> 年表は、ララが社会変動と並走してきたことを示している。
 
 ---
 
 ## Chapter 7 Spatial structure and physical sensation of marching
 
-The essence of Lala is "movement". The performers and participants do not remain on a fixed stage, but pass through roads, intersections, village boundaries, and the vicinity of cemeteries. These spaces have a functional meaning in everyday life, but during the Rara period they take on a ceremonial meaning. The places through which the music passes are temporarily sanctified and become etched in the community's memory.
+ララの本質は「移動」にある。演奏者と参加者は一定の舞台に留まらず、道路、交差点、集落の境界、墓地周辺などを通過する。これらの空間は日常では機能的な意味を持つが、ララの期間中は儀礼的意味を帯びる。音楽が通過した場所は一時的に聖化され、共同体の記憶に刻まれる。
 
-What is important in marching is acoustic continuity rather than visual order. Even if the ranks are disorganized, the march will continue as long as the sound does not break up. Participants rely on sound to determine their location and synchronize their bodies. For this reason, in Lara, hearing is more central to spatial recognition than line of sight.
+行進において重要なのは視覚的秩序よりも音響的連続性である。隊列が乱れても、音が途切れなければ行進は成立する。参加者は音を頼りに位置を把握し、身体を同期させる。このためララでは、視線よりも聴覚が空間認識の中心となる。
 
 <div class="mermaid">
 flowchart TD
-A[Starting point: Ceremonial base] --> B[Road inside the village]
-B --> C[intersection/boundary]
-C --> D[Near cemetery/sanctuary]
-D --> E[Return or another base]
+A[出発点: 儀礼拠点] --> B[Road inside the village]
+B --> C[交差点・境界]
+C --> D[墓地・聖域付近]
+D --> E[帰還または別拠点]
 </div>
 
 > Lara's marching space is a temporary map that is reorganized by sound.
 
 ---
 
-## Chapter 8 Elements of body, fatigue, and duration
+## 第8章　身体・疲労・持続という要素
 
-Lara lasts a long time. Marches have been recorded lasting from several hours to overnight, and sometimes over multiple days. Although the performers take breaks, they basically keep walking, blowing, and tapping. Fatigue is inevitable, and sharing that limit becomes part of the ritual itself.
+ララは長時間に及ぶ。数時間から一晩、時には複数日にわたる行進も記録されている。演奏者は休憩を挟みながらも、基本的には歩き続け、吹き続け、叩き続ける。疲労は不可避であり、その限界を共有すること自体が儀礼の一部となる。
 
-The physical demands are supported by the simplicity and repetitive nature of the music. This is why sustainable patterns are valued over complex melodies and advanced techniques. Music is not designed to overwork the body, but is optimized to be a form that the body can sustain.
+The physical demands are supported by the simplicity and repetitive nature of the music. This is why sustainable patterns are valued over complex melodies and advanced techniques. Music is not designed to overwork the body, but is optimized to sustain the body.
 
-> Lala's musical structure is designed on the premise that the body can continue walking.
-
----
-
-## Chapter 9 Lyrics and Oral Tradition
-
-Lara's lyrics are rarely written down and are passed down orally. The content is not fixed, and current events and local events are improvised. This makes Rara a living record that reflects the situation in that place that year.
-
-The lyrics often use metaphors and allusions, and often avoid direct expression. This has functioned not only as a religious consideration but also as a response to political oppression. Meaning is deciphered through the shared knowledge of the participants.
-
-> Lala's lyrics are a language that can only be fully understood within a community.
+> ララの音楽構造は、身体が歩き続けられることを前提に設計されている。
 
 ---
 
-## Chapter 10 View and representation from the outside
+## 第9章　歌詞と口承伝承
 
-Lala has attracted the attention of foreign researchers and tourists, but its representation tends to be biased. In many cases, only musical exoticism and celebratory aspects are emphasized, and religious and political contexts are omitted.
+ララの歌詞は書き留められることが少なく、口承によって伝えられる。内容は固定されず、時事的な出来事や地域内の出来事が即興的に盛り込まれる。これによりララは、その年その場所の状況を反映する生きた記録となる。
 
-This external gaze has also influenced Lara's self-understanding. While some groups have become more theatrical and have strengthened visual elements, there are also movements that continue to emphasize internal ritual aspects.
+歌詞には比喩や暗示が多用され、直接的表現は避けられることが多い。これは宗教的配慮だけでなく、政治的抑圧への対応としても機能してきた。意味は参加者の共有知識によって解読される。
 
-> Lara has always changed amidst the tension between the inner and outer gaze.
-
----
-
-## Chapter 11 Reinterpretation as a music genre
-
-Since the late 20th century, rara has been reinterpreted as a musical genre that is recorded and performed on stage. During this process, the instrumentation and song structure were sorted out, and the format of the music for listening was prepared.
-
-However, the recorded Lala is only part of the original experience. Music, separated from walking, ambient sounds, and accidental events, cannot escape being a fragment of ritual.
-
-> Even though Lala has been categorized as a genre, it is still music that has not completely established itself.
+> ララの歌詞は、共同体内部でのみ完全に理解される言語である。
 
 ---
 
-## Chapter 12 Lala from a comparative perspective
+## 第10章　外部からの視線と表象
 
-There is a large amount of processional festival music in the Caribbean and African diaspora. While Lala has similarities with these, it remains unique in its particular seasonality and religious role.
+ララは国外研究者や観光客の関心を集めてきたが、その表象には偏りが生じやすい。音楽的エキゾチシズムや祝祭性のみが強調され、宗教的・政治的文脈が省略される例も多い。
 
-Comparative studies emphasize marching, repetition, and participatory structures, but Lala's case is characterized by a particularly high degree of political message connotation.
+こうした外部視線は、ララの自己理解にも影響を与えてきた。一部のグループでは演出性が高まり、視覚的要素が強化される一方、内部儀礼としての側面を重視し続ける動きも存在する。
 
-> Lala is a cultural form that can be compared but cannot be easily substituted.
+> ララは常に、内側と外側の視線の緊張関係の中で変化してきた。
 
 ---
 
-## Final Chapter Music that continues to walk
+## 第11章　音楽ジャンルとしての再解釈
 
-Rara is a culture that has survived through practice rather than records. There are no music scores or fixed forms, and the sounds are updated through the body. When the march ends, the music disappears, only to reappear on the streets the following year.
+20世紀後半以降、ララは録音され、ステージ上で演奏される音楽ジャンルとして再解釈されてきた。この過程で楽器編成や曲構造が整理され、聴取用音楽としての形式が整えられた。
+
+しかし、録音されたララは本来の体験の一部に過ぎない。歩行、周囲音、偶発的な出来事と切り離された音楽は、儀礼の断片であることを免れない。
+
+> ララはジャンル化されてもなお、完全には定着しない音楽である。
+
+---
+
+## 第12章　比較視点から見るララ
+
+カリブ海地域やアフリカ系ディアスポラには、行進型の祭礼音楽が多数存在する。ララはそれらと共通点を持ちながらも、特定の季節性と宗教的役割において独自性を保っている。
+
+比較研究では、行進、反復、参加型構造が強調されるが、ララの場合、政治的メッセージの内包度が特に高い点が特徴として挙げられる。
+
+> ララは比較可能でありながら、容易に代替できない文化形態である。
+
+---
+
+## 終章　歩き続ける音楽
+
+ララは記録よりも実践によって生き延びてきた文化である。譜面や定型は存在せず、音は身体を通して更新される。行進が終わると音楽は消えるが、次の年には再び路上に現れる。
 
 This cycle is the core of Lala. A moment when history, religion, politics, and life come together and become visible as sound. Today, Lara continues to walk the streets of Haiti.
 
@@ -211,7 +210,7 @@ This cycle is the core of Lala. A moment when history, religion, politics, and l
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pjdbcRhyCBY?si=xvdMmkn1eCMF4EHX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

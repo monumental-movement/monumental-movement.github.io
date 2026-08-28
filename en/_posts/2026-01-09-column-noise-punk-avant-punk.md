@@ -9,22 +9,22 @@ layout: post
 tags:
 - Noise Punk
 - Avant-Punk
-title: '[Column] Noise Punk / Avant-Punk ─ When destructive impulse becomes ideology'
+title: 【コラム】 Noise Punk / Avant-Punk ─ 破壊衝動が思想になるとき
 ---
 
 
 
-## Prologue: Why did punk have to break?
+## 序章：パンクはなぜ壊れなければならなかったのか
 
 Text: mmr｜Theme: About noise punk/avant punk, which is a memory device for constantly rejecting the safe zone of music
 
-Noise punk/avan punk is an attempt at extreme self-destruction that arose from within the punk movement that was born in the late 1970s. Rather than the superficial images of early punk, such as speed and rebellion, punk is characterized by its underlying impulse of ""denial," ""rejection," and ""destruction,'' which extends to the musical structure itself.
+ノイズパンク／アヴァン・パンクは、1970年代後半に生まれたパンク・ムーブメントの内部から発生した、極端な自己分解の試みである。スピードや反抗といった初期パンクの表層的イメージではなく、その根底にあった「否定」「拒否」「破壊」という衝動を、音楽構造そのものにまで押し広げた点に特徴がある。
 
-In this music, skill and pleasure are not important. Rather, phrases that are close to unplayable, dissonance, and rhythms on the verge of collapse are actively chosen. There was a clear distrust of rock's entertainment and commercial value.
+この音楽では、上手さや快楽性は重要ではない。むしろ演奏不能に近いフレーズ、不協和音、崩壊寸前のリズムが積極的に選ばれる。そこには、ロックが持っていた娯楽性や商品性への明確な不信が存在していた。
 
-DNA and The Pop Group are the most radical embodiment of this attitude. Rather than updating punk, they opened up a completely different realm of expression by dismantling punk from within.
+DNAやThe Pop Groupは、その姿勢を最も先鋭的な形で体現した存在である。彼らはパンクを更新したのではなく、パンクを内部から解体することで、まったく別の表現領域を切り開いた。
 
-> Noise punk was an attempt to visualize ideas by destroying music.
+> ノイズパンクとは、音楽を壊すことで思想を可視化しようとした試みだった。
 
 ---
 
@@ -33,7 +33,7 @@ DNA and The Pop Group are the most radical embodiment of this attitude. Rather t
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,85 +42,85 @@ color: #fff;
 </style>
 
 
-## Punk after Punk: Collapse of preconditions
+## パンク以後のパンク：前提条件の崩壊
 
-Around 1977, punk spread rapidly and at the same time rapidly became formalized. 3 chords, short songs, aggressive attitude. They quickly became a style and began to be reproduced. Noise punk/avan punk was born out of a strong sense of discomfort with this situation.
+1977年前後、パンクは急速に拡散し、同時に急速に形式化していった。3コード、短い曲、攻撃的な態度。それらは瞬く間に様式となり、再生産され始める。ノイズパンク／アヴァン・パンクは、この状況に対する強い違和感から生まれた。
 
-The problem for them was that rock was once again being reduced to ""easy-to-understand music''. Rebellion becomes a symbol, and dissent becomes fashionable. In order to reject the process itself, the music intentionally moved in an incomprehensible direction.
+彼らにとって問題だったのは、ロックが再び「わかりやすい音楽」に回収されていくことである。反抗が記号化され、反体制がファッション化される。その過程そのものを拒否するため、音楽は意図的に理解不能な方向へと向かった。
 
-This attitude seemed to deny punk, but in reality it was a thorough implementation of the fundamental spirit of punk.
+この姿勢は、パンクを否定しているようでいて、実際にはパンクの根源的精神を徹底化したものだった。
 
-> Avant-punk was born not to end punk, but to purify it.
-
----
-
-## Noise choice
-
-Noise is not decoration in noise punk. Nor is it a substitute for melody or rhythm. It is a means of presenting "rejection" as a sound.
-
-In traditional rock music, dissonance and feedback have been treated as elements that create thrills and exhilaration. But in noisepunk, they persist and are not resolved. The listener is denied pleasure and remains in an unstable state.
-
-This structure is not accidental, but intentional. I don"t understand, I don"t fit in, I don't feel comfortable. That feeling was exactly the experience they wanted to present.
-
-> The noise was not a musical effect, but an attitude.
+> アヴァン・パンクは、パンクを終わらせるためではなく、純化するために生まれた。
 
 ---
 
-## New York and DNA: Performance as deconstruction
+## ノイズという選択
 
-DNA was a band active in New York in the late 1970s, and was a core member of the so-called no wave movement. Their music is structured in such a way that it deconstructs all the basic elements of rock.
+ノイズは、ノイズパンクにおいて装飾ではない。旋律やリズムの代替物でもない。それは「拒否」を音として提示するための手段である。
 
-The guitar does not form chords, but emit single notes or irregular noises. The bass and drums don't share a beat, and the performance is always on the verge of collapse. The vocals reject the melody and are released as fragmented words and screams.
+従来のロックでは、不協和音やフィードバックはスリルや高揚感を生む要素として扱われてきた。しかしノイズパンクでは、それらは持続し、解決されない。聴き手は快感に到達することを拒まれ、不安定な状態に置かれ続ける。
 
-Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established''.
+この構造は偶然ではなく、意図的なものである。理解できない、馴染めない、居心地が悪い。その感覚こそが、彼らの提示したかった体験だった。
 
-> DNA achieved the paradox of denying rock by performing.
+> ノイズは音楽的効果ではなく、態度そのものだった。
+
+---
+
+## ニューヨークとDNA：解体としての演奏
+
+DNAは、1970年代後半のニューヨークで活動したバンドであり、いわゆるノー・ウェイヴ・ムーブメントの中核的存在である。彼らの音楽は、ロックの基本要素をすべて分解するように構成されている。
+
+ギターはコードを形成せず、単音や不規則なノイズを発する。ベースとドラムは拍を共有せず、演奏は常に崩壊寸前にある。ヴォーカルはメロディを拒否し、断片的な言葉や叫びとして放出される。
+
+DNAの演奏は、即興的でありながらも、単なる無秩序ではない。むしろ「ロックが成立しない瞬間」を持続させるための緊張感に満ちている。
+
+> DNAは、演奏することでロックを否定するという逆説を実現した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IKOhni-j9_M?si=RIs9kxSM94LQmtKK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## No Wave context
+## ノー・ウェイヴという文脈
 
-An essential part of talking about DNA is the short-lived New York movement called No Wave. This was more a collection of attitudes than a genre.
+DNAを語るうえで欠かせないのが、ノー・ウェイヴと呼ばれるニューヨークの短命なムーブメントである。これはジャンルというより、態度の集合体であった。
 
-No Wave was characterized by its complete rejection of blues and rock"n"roll traditions. Denied the pleasure of dance music and the catharsis of punk, the music became extremely dry.
+ノー・ウェイヴの特徴は、ブルースやロックンロールの伝統を完全に拒否した点にある。ダンスミュージック的な快楽も、パンク的なカタルシスも否定され、音楽は極端に乾いたものとなった。
 
-In this context, DNA is positioned as the entity that has undergone the most thorough deconstruction.
+この文脈の中でDNAは、最も徹底した解体を行った存在として位置づけられる。
 
-> No Wave was not a genre, but a series of acts of destruction.
+> ノー・ウェイヴは、ジャンルではなく破壊行為の連続だった。
 
 ---
 
-## The Pop Group: A fusion of politics and noise
+## The Pop Group：政治とノイズの融合
 
-The Pop Group was a British band active in the late 1970s that combined punk, funk, dub, and free jazz into a radical fusion.
+The Pop Groupは、1970年代後半のイギリスで活動したバンドであり、パンク、ファンク、ダブ、フリージャズを過激に融合させた。
 
-Their music is both physical and chaotic. Sharp guitar cuts, unstable rhythms, and aggressive vocals all ring out at the same time, with no clear center.
+彼らの音楽は、肉体的でありながら混沌としている。鋭いギターのカッティング、不安定なリズム、攻撃的なヴォーカルが同時に鳴り響き、明確な中心を持たない。
 
-The significance of The Pop Group was that its music was explicitly political. Critiques of capitalism, consumer society, and power structures were embedded not only in the lyrics but in the very structure of the sound.
+The Pop Groupの重要性は、その音楽が明確に政治的であった点にある。資本主義、消費社会、権力構造に対する批判が、歌詞だけでなく音の構造そのものに組み込まれていた。
 
-> The Pop Group made noise function as a political language.
+> The Pop Groupは、ノイズを政治的言語として機能させた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l9BjtT0_KsE?si=tpidLvBxlpdvGYAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Comparison of two avant-garde styles
+## 二つの前衛性の比較
 
 <div class="mermaid">
 flowchart LR
-A[Avant-Punk] --> B[Demolition of the structure]
-A --> C[political impulse]
+A[Avant-Punk] --> B[構造の解体]
+A --> C[政治的衝動]
 B --> D[DNA]
 C --> E[The Pop Group]
 </div>
 
-Although DNA and The Pop Group are in the same avant-punk context, their focus is different. One focused on the destruction of the rock structure itself, the other musicalized their anger at social structures.
+DNAとThe Pop Groupは、同じアヴァン・パンクの文脈に置かれながらも、その焦点は異なる。一方はロック構造そのものの破壊に集中し、もう一方は社会構造への怒りを音楽化した。
 
-This difference shows that avant-punk was not a single methodology.
+この差異は、アヴァン・パンクが単一の方法論ではなかったことを示している。
 
-> Avant-garde was not about looking in the same direction, but about making multiple rejections at the same time.
+> 前衛性とは、同じ方向を見ることではなく、同時に複数の拒否を行うことだった。
 
 ---
 
@@ -135,19 +135,19 @@ timeline
     1980 : アヴァン・パンク的手法の拡散
 </div>
 
-This trend occurred intensively in a short period of time and left a deep influence on subsequent alternative music.
+この流れは短期間で集中的に発生し、その後のオルタナティブ音楽に深い影響を残した。
 
 > The history of noise punk is short, but its aftershocks are long lasting.
 
 ---
 
-## Impact and Sustainability
+## 影響と持続
 
-Noise punk/avan punk was not a commercial success, but its influence extends to subsequent experimental music, post-punk, industrial, and even contemporary noise.
+ノイズパンク／アヴァン・パンクは、商業的成功とは無縁であったが、その影響は後続の実験音楽、ポストパンク、インダストリアル、さらには現代ノイズにまで及んでいる。
 
-What is important is not a particular sound, but the fact that an attitude of continued doubt was inherited. Every time music is about to be reclaimed as pleasure, it has played the role of creating a crack.
+重要なのは、特定のサウンドではなく、「疑い続ける姿勢」が継承された点である。音楽が快楽に回収されそうになるたびに、そこへ亀裂を入れる役割を果たしてきた。
 
-> Noise punk is a memory device that constantly refuses the safe zone of music.
+> ノイズパンクは、常に音楽の安全地帯を拒否し続けるための記憶装置である。
 
 ---
 

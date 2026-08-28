@@ -10,17 +10,16 @@ tags:
 - Mathcore
 - Experimental
 - Metal
-title: '[Column] Mathcore / Experimental Metal Thorough explanation: Extremely complex
-  musical structures and performance mechanisms'
+title: 【コラム】 Mathcore / Experimental Metal 徹底解説：複雑性が極まる音楽構造と演奏メカニズム
 ---
 
 
 
 ## Mathcore / Experimental Metal
 
-Text: mmr｜Theme: History, technical characteristics, major works, song structure analysis, performance techniques, and influence on related genres
+文：mmr｜テーマ：歴史、技術的特徴、主要作品、楽曲構造分析、演奏技術、そして関連ジャンルへの波及について
 
-Characterized by mathematical complexity, non-linear progression, and extreme dynamics, **Mathcore** is one of the most challenging styles of heavy music that rapidly evolved from the late 1990s to the 2000s. This genre is based on the aggressiveness of hardcore and metalcore, but incorporates elements of jazz, experimental music, and progressive metal, actively subverting the traditional 4/4 time signature and pursuing an odd time signature structure that can be described as mathematical.
+数学的な複雑性、非直線的な展開、極端なダイナミクスを特徴とする **Mathcore** は、1990年代後半から2000年代にかけて急速に進化したヘヴィミュージックの中でも特に挑戦的なスタイルである。このジャンルはハードコアやメタルコアの攻撃性を基盤にしつつ、ジャズ、実験音楽、プログレッシブ・メタルの要素を取り込み、伝統的な4/4拍子を積極的に破壊しながら、数学的と形容される変拍子構造を追求してきた。
 
 **The Dillinger Escape Plan (hereinafter referred to as DEP)** and **Meshuggah** are representatives of this field, and it is extremely interesting that although they were active at the same time, they challenged the "extreme of complexity" from different directions.
 
@@ -32,7 +31,7 @@ Characterized by mathematical complexity, non-linear progression, and extreme dy
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -41,167 +40,167 @@ color: #fff;
 </style>
 
 
-## Birth and origins of Mathcore
+## Mathcoreの誕生と源流
 
-### Evolution from hardcore punk
+### ハードコア・パンクからの進化
 
-Mathcore's foundations lie in the **hardcore punk** and **metalcore** of the late 1980s and early 90s. In particular, bands like Converge, Botch, and Coalesce began to introduce not only aggression but also **irregular riff structures, chord breakdowns, and sudden tempo changes**, setting the stage for what would become Mathcore.
+Mathcoreの基礎は、1980年代後半〜90年代初頭の **ハードコア・パンク** と **メタルコア** にある。特に、Converge、Botch、Coalesce といったバンドは、攻撃性だけでなく **不規則なリフ構造、コードの分解的運用、唐突なテンポ変化** を導入し始め、後のMathcoreの枠組みを準備した。
 
-### Boston-New Jersey Underground Scene
+### ボストン〜ニュージャージーの地下シーン
 
-DEP appeared in the northeastern United States in the late 1990s, when the fusion of hardcore and noise rock was active, and the combination of "technocraticism" gave rise to new variations with unprecedented speed and complexity.
-
----
-
-## Innovation of The Dillinger Escape Plan
-
-DEP was formed in 1997. His debut EP *Under the Running Board* (1998) and groundbreaking debut album *Calculating Infinity* (1999) earned him instant acclaim.
-
-The following are the characteristics of their song structures.
-
-### 1. Ultra-fast and fragmented structure
-
-The technique of **changing phrases of 1-2 beats at high speed, rather than in units of measures, is remarkable.
-The aural sense of direction is constantly shaken by the breaks, polyrhythms, and accents that are inserted.
-
-### 2. Influence from jazz
-
-Guitarist Ben Weinman reconstructed the tension chords and upper structure-like sounds of jazz using irregular tuning.
-*Specific music examples are omitted as external links are prohibited.
-
-### 3. Separation of vocals and acoustics
-
-Since the vocals do not follow the instrument structure, it feels like the rhythm of the song and the band are not linked.
-This "independence" is stronger than in other genres, and increases the experimental nature.
+DEPが登場した1990年代後半のアメリカ北東部は、ハードコアとノイズロックの融合が活性化していた時期で、そこに “技術主義” が重なることで、従来にないスピードと複雑さを持つ新バリエーションが生まれた。
 
 ---
 
-## Polyrhythmic structure of Meshuggah
+## The Dillinger Escape Plan の革新性
 
-Sweden's Meshuggah is a separate group from Mathcore, but is extremely important in its integration of polyrhythm and metal.
+DEPは1997年結成。デビューEP *Under the Running Board*（1998）と、革新的デビューアルバム *Calculating Infinity*（1999）で即座に評価を得る。
+
+以下は彼らの曲構造の特徴である。
+
+### 1. 超高速・断片化された構造
+
+小節単位ではなく、**1〜2拍のフレーズを高速で切り替える** 手法が顕著。
+挿入されるブレイク、ポリリズム、アクセントのズレによって、聴覚上の方向感が常に揺さぶられる。
+
+### 2. ジャズからの影響
+
+ギタリスト Ben Weinman はジャズのテンションコードやアッパーストラクチャー的な響きを変則チューニングで再構成した。
+※外部リンク禁止のため具体的譜例は割愛。
+
+### 3. ボーカルと音響の分離
+
+ボーカルは楽器構造に従わないため、歌とバンドのリズムが連動していないように感じられる。
+この“独立性” が他ジャンルより強く、実験性を高めている。
+
+---
+
+## Meshuggah のポリリズム構造
+
+スウェーデンのMeshuggahは、Mathcoreとは別系統だが、**ポリリズムとメタルの統合** という点で極めて重要である。
 
 ### Typical methods:
 
 * The basic time signature is 4/4
-* But guitar riffs go in cycles of **5 beats, 7 beats, 9 beats** etc.
-*As a result, the riff and drum accents periodically "shift"
+* しかしギターリフは **5拍、7拍、9拍** などのサイクルで進む
+* そのためリフとドラムのアクセントは周期的に“ズレる”
 
-This allows the listener to experience both a linear groove and a non-linear accent at the same time.
-This "multilayered rhythm" became the basis of later Djent and Experimental Metal.
+これにより、リスナーは直線的なグルーヴと非直線的アクセントの両方を同時に体感することになる。
+この“多層的リズム” が後のDjentやExperimental Metalの基礎となった。
 
 ---
 
-## Song structure analysis
+## 楽曲構造分析
 
 ### The Dillinger Escape Plan Type: Fragmented Structure
 
 <div class="mermaid">
 flowchart TD
-    A["Short fragmentary riff"] --> B["Extreme tempo change"]
-    B --> C["irregular break"]
-    C --> D["Rapid contrast between stillness and movement"]
-    D --> E["Complex final development"]
+    A["短い断片的リフ"] --> B["Extreme tempo change"]
+    B --> C["不規則ブレイク"]
+    C --> D["急激な静〜動の対比"]
+    D --> E["複雑な最終展開"]
 </div>
 
 
-### Meshuggah type: polyrhythmic structure
+### Meshuggah 型：ポリリズム構造
 
 <div class="mermaid">
 flowchart TD
-    A["Basic beat of 4/4"] --> B["Guitar: Irregular beat cycle"]
-    B --> C["Periodic shift in accent"]
-    C --> D["Swaying groove feeling"]
-    D --> E["Converging riff structure"]
+    A["4/4の基礎拍"] --> B["ギター: 変則拍サイクル"]
+    B --> C["アクセントの周期的ズレ"]
+    C --> D["揺らぐグルーヴ感"]
+    D --> E["収束するリフ構造"]
 </div>
 
 
 ---
 
-## Performance technique: Skill set required by Mathcore
+## 演奏技術：Mathcoreが要求するスキルセット
 
-### Guitar
+### ギター
 
-* Matching irregular accents **Right hand mute + alternate combination**
-* Need to memorize "beat fragments" rather than measures
+* 不規則アクセントに合わせた **右手ミュート＋オルタネイトの組み合わせ**
+* 小節単位ではなく“拍断片”で覚える必要
 * Fast switching between tension chords and irregular forms
 
 ### Drum
 
-* Dealing with **metric modulation** (the illusion of tempo)
-* Multi-stage arrangement of snare accents
-*Polyrhythmic simultaneous pronunciation (e.g. 5 connected figures on top of 4/4)
+* **メトリック・モジュレーション**（テンポ感覚の錯覚）を扱う
+* スネアアクセントの多段階配置
+* Polyrhythmic simultaneous pronunciation (e.g. 5 connected figures on top of 4/4)
 
-### Base
+### ベース
 
-* Most important as a bridge between the "swing" of drums and guitar
-* Often only the bass plays phrases with different cycles
+* ドラムとギターの“揺れ”の橋渡しとして最重要
+* しばしばベースだけが異なるサイクルのフレーズを演奏する
 
-### Vocal
+### ボーカル
 
-* Features an "independent axis" of expression that is not bound by song structure
-* Sudden switch between growl, scream, and clean in DEP
+* 曲構造に縛られない“独立軸”の表現が特徴
+* DEPではグロウル、スクリーム、クリーンの急切り替え
 
 ---
 
-## Chronology of Mathcore's major works
+## Mathcoreの主要作品年表
 
 <div class="mermaid">
 flowchart TD
-    A["1997: Formation of The Dillinger Escape Plan"] --> B["1998：Under the Running Board"]
+    A["1997：The Dillinger Escape Plan 結成"] --> B["1998：Under the Running Board"]
     B --> C["1999：Calculating Infinity"]
-    C --> D["2002: Botch disbanded"]
+    C --> D["2002：Botch 解散"]
     D --> E["2005：Meshuggah / Catch Thirtythree"]
     E --> F["2007：DEP / Ire Works"]
     F --> G["2013：Car Bomb / w^w^^w^w"]
-    G --> H["2016: End of DEP activities"]
+    G --> H["2016：DEP 活動終了"]
 </div>
 
 
 ---
 
-## Sound Design: Acoustics that support complexity
+## サウンドデザイン：複雑性を支える音響
 
-### Mix technology
+### ミックス技術
 
-In Mathcore, multiple tracks of distorted guitar overlap, so organizing the frequency bands is essential.
-In particular, attack sounds tend to be concentrated in the **2-5kHz** band, and if this area is not properly processed, the outline of the sound will become unclear.
+Mathcoreでは歪んだギターが複数トラック重なるため、周波数帯域の整理が必須となる。
+特に **2〜5kHz** の帯域はアタック音が密集しやすく、この部分を適切に処理しないと音の輪郭が不鮮明になってしまう。
 
-### Drum recording
+### ドラム録音
 
-* Emphasizes the "core" of kick and snare
-* Tom's localization is not linear, and is often arranged in unique ways to match the complexity of the song.
+* キックとスネアの“芯”を強調
+* Tomの定位はリニアではなく、楽曲の複雑性に合わせて独特の配置にされることも多い
 
 ---
 
-## Spread into genres
+## ジャンルへの波及
 
-Mathcore has influenced a variety of derivative genres since the 2000s.
+Mathcoreは2000年代以降、多様な派生ジャンルへ影響を与えた。
 
-### Contributing to Djent
+### Djentへの貢献
 
-Meshuggah's influence is significant. The introduction of irregular time signatures and low-pitched 7- to 8-string guitars led to its successor.
+Meshuggahの影響力が顕著。変則拍子と低音7弦〜8弦ギターの導入が後続を牽引した。
 
 ### Experimental Metal
 
-The fragmented structure of DEP and Car Bomb has been incorporated into many modern metal bands.
+DEPやCar Bombの断片化構造は、多くの現代系メタルバンドに取り込まれた。
 
-### Post-Metal / Noise
+### Post-Metal / Noise系
 
-While the complex rhythmic structure remained the same, the number of cases in which it was combined with spatial sounds and ambient elements increased, and the structure became more multi-layered.
-
----
-
-## Current location of Mathcore
-
-Mathcore from the late 2010s to the 2020s has become more integrated with technology, and while the rhythmic irregularities remain the same, the sound design has become more elaborate.
-
-Car Bomb, Frontierer, Rolo Tomassi and others form the new generation.
+複雑なリズム構造はそのままに、空間系サウンドやアンビエント要素と結びつくケースが増え、多層構造化が進んだ。
 
 ---
 
-## summary
+## Mathcoreの現在地
 
-Mathcore/Experimental Metal is not just "complex and intense" music, but a highly structured musical system that combines the spirit of hardcore, the freedom of jazz, the structural beauty of progressive rock, and the strength of metal.
-The core of this lies not in complexity itself, but in the dynamism that results from the integration of complexity and chaos.
+2010年代後半〜2020年代のMathcoreは、よりテクノロジーとの融合が進み、リズムの変則性はそのままに、**サウンドデザインの緻密化** が著しい。
+
+Car Bomb、Frontierer、Rolo Tomassi などが新世代を形成している。
+
+---
+
+## まとめ
+
+Mathcore / Experimental Metal は、単に“複雑で激しい”音楽ではなく、ハードコアの精神、ジャズの自由度、プログレの構造美、メタルの剛腕が複合した **高度に構築された音楽体系** である。
+その核心は、複雑性そのものにあるのではなく、**複雑性とカオスが一体化した結果生まれるダイナミズム** にある。
 
 ---

@@ -15,7 +15,7 @@ title: Björk – Volta
 ---
 
 
-Volta is Björk's sixth studio album, released in 2007. Several artists are participating, including Mark Bell, Timbaland, Danja, and Antony Hegarty (Anohni Hegarty) of Antony & the Johnsons.
+Voltaは、2007年にリリースされたBjörkの6枚目のスタジオアルバム。Mark Bell、Timbaland、Danja、Antony & the JohnsonsのAntony Hegarty(Anohni Hegarty)など、複数のアーティストが参加している。
 
 #### Tracklist
 ```md
@@ -55,7 +55,7 @@ Volta is Björk's sixth studio album, released in 2007. Several artists are part
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
 
 
 #### Youtube

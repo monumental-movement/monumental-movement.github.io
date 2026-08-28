@@ -10,18 +10,18 @@ tags:
 - Experimental
 - Hiphop
 - Abstract
-title: '[Column] Experimental Hip Hop / Abstract Hip Hop reconstruction'
+title: 【コラム】 Experimental Hip Hop / Abstract Hip Hopの再構築
 ---
 
 
 
-## Another hip-hop history created by "beat deconstruction experiments" since the 2000s
+## 2000年代以降の“ビート解体実験”が生んだもう一つのヒップホップ史
 
-Text: mmr｜Theme: History of beat experiments, sampling culture, and changes in major works
+文：mmr｜テーマ：ビート実験史・サンプリング文化・主要作品の変遷について
 
 Experimental Hip Hop and Abstract Hip Hop have developed as trends in hip hop that ""deconstruct and recompose forms.'' In the late '90s, there was a spirit of "structural destruction" presented by Company Flow and Anti-Pop Consortium, and in the 2000s and beyond, Flying Lotus, Shabazz Palaces, Busdriver, Milo, Clipping. and others pioneered their own unique aesthetics.
 
-In this article, we will summarize the history of beat experiments, sampling techniques, and developments after the LA beat scene based on facts. It also deals with the "swing/slip" culture after J Dilla and its contact with jazz/electronic music/club music, giving an overview of trends up to the 2020s.
+本稿では、**ビート実験史**、**サンプリング技法**、**LAビートシーン以降の展開**を事実に基づいて整理する。またJ Dilla以降の「スイング／ズレ」文化、ジャズ／電子音楽／クラブミュージックとの接触面も扱い、2020年代までの流れを総覧する。
 
 ---
 
@@ -30,7 +30,7 @@ In this article, we will summarize the history of beat experiments, sampling tec
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,185 +40,185 @@ color: #fff;
 
 
 
-## 1. Definition of Experimental Hip Hop / Abstract Hip Hop
-The definitions here are based on those used in general criticism and music research papers.
+## 1. Experimental Hip Hop / Abstract Hip Hop の定義
+ここでは一般的な批評・音楽研究論文で扱われる定義に基づく。
 
-### ● Experimental Hip Hop
-- A trend that intentionally deviates from the syntax of hip-hop (rhythm structure, sampling, rap format) and fuses it with surrounding genres such as **electronic music, noise, free jazz, and ambient**.
-- Great expansion from the 2000s LA beat scene.
-- Focused on producers such as Flying Lotus, Teebs, Daedelus, and Samiyam.
+### ● Experimental Hip Hop  
+- ヒップホップの文法（リズム構造、サンプリング、ラップ形式）を意図的に逸脱し、**電子音楽・ノイズ・フリージャズ・アンビエント**など周辺ジャンルと融合する潮流。  
+- 2000年代 LA ビートシーンから大きく拡張。  
+- Flying Lotus、Teebs、Daedelus、Samiyam などのプロデューサーを中心に展開。
 
-### ● Abstract Hip Hop
-- Hip-hop, which was established in the late 1990s and has an "abstracted idiom".
+### ● Abstract Hip Hop  
+- 1990年代後半に確立された、“抽象化された語法”を持つヒップホップ。  
 - Features abstract wordplay, Stream of Consciousness-like lyrics, and a beat that deviates from the traditional "boom bap" structure.
-- Represented by Company Flow, Anti-Pop Consortium, Cannibal Ox, Aesop Rock, etc.
+- Company Flow、Anti-Pop Consortium、Cannibal Ox、Aesop Rock などが代表。
 
 ---
 
-## 2. 1990s: The origin of abstract hip-hop
+## 2. 1990年代：アブストラクト・ヒップホップの起点
 The foundations of Experimental/Abstract Hip Hop were formed in the late 1990s.
 
-### ● Company Flow (1992–2001)
+### ● Company Flow（1992–2001）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m7E0Gk8gLI?si=esl_-u8TYT57iKXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- Formed in New York mainly by El-P.
+- El-P を中心にニューヨークで結成。  
 - 1997's "Funcrusher Plus" is a masterpiece of abstract hip-hop.
-- Balancing criticality towards industrial structure and experimental production.
+- 産業構造に対する批判性と実験的プロダクションを両立。
 
-### ● Anti-Pop Consortium (1997–)
+### ● Anti-Pop Consortium（1997–）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYeC-s8sZLc?si=HnjDLiLC91E61Clq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- An important role in the NY underground at the end of the 1990s.
+- 1990年代末のNYアンダーグラウンドで重要な役割。  
 - Introducing noisy sounds, segmented rap and electronic music.
-- Expands the connection between electronic music and hip-hop by signing with Warp Records.
+- Warp Records と契約したことで、電子音楽とヒップホップの接続点を拡大。
 
-### ● Cannibal Ox (2001)
+### ● Cannibal Ox（2001）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q33vfqNPtcg?si=aG8bh_oUWZboCK28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 - El-P's production on "The Cold Vein" was highly praised.
-- A historic piece that introduced industrial/noise textures to hip-hop.
+- インダストリアル／ノイズ質感をヒップホップに導入した歴史的作品。
 
-These created the musical ground that directly led to later Shabazz Palaces and Clipping.
+これらは後年の Shabazz Palaces や Clipping. に直結する音楽的土壌を作った。
 
 ---
 
-## 3. 2000s: The rise of the LA beat scene and the redefinition of "experiment"
+## 3. 2000年代：LAビートシーンの台頭と“実験”の再定義
 
-### ● Low End Theory (2006–2018)
-- A famous event started at the club "The Airliner" in Lincoln Heights, Los Angeles.
-- Led by Daddy Kev, Gaslamp Killer and others, it became the mother of the LA beat scene.
-- Flying Lotus' signature song "Massage Situation" (2007) symbolizes the expansion of the scene.
+### ● Low End Theory（2006–2018）
+- ロサンゼルス・リンカーンハイツのクラブ “The Airliner” で開始された名イベント。  
+- Daddy Kev、Gaslamp Killer らが中心となり、LAビート・シーンの母体に。  
+- Flying Lotusの代表曲『Massage Situation』（2007）などがシーン拡大を象徴。
 
-### ● Flying Lotus (late 2000s~)
+### ● Flying Lotus（2000年代後半〜）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ScYz9sNaQk?si=zZ_87mQGAH6Fc8ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- One of the most important figures in experimental hip-hop.
-- Belongs to Warp Records since 2006.
+- 実験的ヒップホップの最重要人物の1人。  
+- 2006年からWarp Records所属。  
 - Crossed jazz/electronic music/hip-hop with ""Los Angeles" (2008) and ""Cosmogramma" (2010).
-- Characterized by "pulsating non-linear rhythm" and complex sampling structure.
+- “脈動するような非直線リズム”と複雑なサンプリング構築が特徴。
 
 ### ● Brainfeeder (2008～)
-- Label founded by Flying Lotus.
-- Featuring Teebs, Samiyam, Tokimonsta, Thundercat, and more.
-- Spread abstract beat culture on a global scale.
+- Flying Lotusが設立したレーベル。  
+- Teebs、Samiyam、Tokimonsta、Thundercatなどが参加。  
+- アブストラクト・ビート文化を世界規模に押し広げた。
 
 ---
 
-## 4. Shabazz Palaces: Redefining abstraction in hip-hop
+## 4. Shabazz Palaces：ヒップホップの抽象化を再定義した存在
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zNXxd3yYDaM?si=kdXTFpn5kj1KpTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Shabazz Palaces was started around 2009, led by Ishmael Butler (formerly of Digable Planets).
+Shabazz Palaces は Ishmael Butler（元Digable Planets）が中心となり2009年頃に始動。
 
-### Features
-- A combination of West African percussion, psychedelia, ambient and experimental sound.
-- Rap is often melodic and cryptographic, and does not rely on the traditional 16-bar structure.
-- "Black Up" (2011) is a masterpiece of abstract hip-hop in the 2010s.
-
----
-
-## 5. Beat experiment: "misalignment" and non-linear grooves after J Dilla
-
-At the heart of experimental hip-hop since the 2000s is the ""reinvention of rhythm.''
+### 特徴
+- 西アフリカのパーカッション、サイケデリア、アンビエント、実験音響を組み合わせた構築。  
+- ラップはしばしばメロディックかつ暗号的で、従来の16小節構造に依らない。  
+- 『Black Up』（2011）は2010年代アブストラクト・ヒップホップの代表作。
 
 ---
 
-### ● Influence of J Dilla
-- The "humanized swing" and "drunk beat" found in 2006"s "Donuts" had a decisive influence on later generations.
-- His style of not completely following the grid, leaving intentional deviations and disturbances, permeated the LA beat scene and Flying Lotus' works.
+## 5. ビート実験：J Dilla以降の“ズレ”と非直線グルーヴ
 
-### ● Structure of "Drunk Beat"
-- Kick and snare are a few milliseconds out of sequence.
-- The bass line is also half a step behind the rhythm, creating a fluctuation with body temperature.
-- Samiyam, Knxwledge, Mndsgn, etc. inherited this idea.
-
-### ● Intersection with electronic music
-- Warp Records introduces a structural approach to electronic music (Autechre, Boards of Canada, etc.).
-- The rhythmic language of experimental hip-hop expanded with the introduction of complex polyrhythms and non-repetitive structures.
+2000年代以降の実験的ヒップホップの中心には「リズムの再発明」がある。
 
 ---
 
-## 6. Sampling culture: from analog to digital
+### ● J Dillaの影響  
+- 2006年の『Donuts』に見られる “humanized swing” “drunk beat” が後世に決定的な影響。  
+- グリッドに完全に合わせず、意図的なズレや乱れを残すスタイルがLAビートシーンやFlying Lotusの作品に浸透。
 
-### ● 1990–2000s: MPC culture
-- MPC2000/2000XL is mainstream.
-- The focus is on "chop culture," in which analog samples are chopped into small pieces and reconstructed.
+### ● “Drunk Beat”の構造
+- キックとスネアがシーケンスから数ミリ秒ずれる。  
+- ベースラインもリズムから半歩遅れることで、体温を持った揺らぎを生む。  
+- Samiyam、Knxwledge、Mndsgn などがこの思想を受け継いだ。
+
+### ● 電子音楽との交差
+- Warp Recordsの電子音楽（Autechre、Boards of Canada など）の構造的アプローチが導入。  
+- 複雑なポリリズム、非反復構造が導入され、実験的ヒップホップのリズム言語は拡張した。
+
+---
+
+## 6. サンプリング文化：アナログからデジタルへ
+
+### ● 1990–2000年代：MPC文化  
+- MPC2000 / 2000XL が主流。  
+- アナログサンプルを細かく刻み、再構成する“チョップ文化”が中心。  
 -Madlib and J Dilla are representative examples.
 
 ### ● Late 2000s: Acceleration of DAW introduction
-- With the spread of Ableton Live and Reason, **dramatically complex layer configurations** became possible.
-- Flying Lotus uses both digital and analog to create a multi-layered soundscape.
+- Ableton Live や Reason が普及し、**飛躍的に複雑なレイヤー構成**が可能に。  
+- Flying Lotus はデジタルとアナログを併用し多層のサウンドスケープを構築。
 
-### ● 2010s: The era of emphasis on texture
-- Teebs "pinhole texture" sampling (mixing fine noise)
-- Ethereal sound of Clams Casino (stretched vocal sample)
-- Mysterious collage of Shabazz Palaces
+### ● 2010年代：テクスチャ重視の時代  
+- Teebsの“ピンホール質感”サンプリング（微細ノイズを混ぜる）  
+- Clams Casinoのエーテル的サウンド（ヴォーカルサンプルの引き伸ばし）  
+- Shabazz Palacesの神秘的コラージュ  
 This gave rise to a trend that focused on texture.
 
 ---
 
-## 7. Extensions since 2010s: Clipping. / Milo / Open Mike Eagle
+## 7. 2010年代以降の拡張：Clipping. / Milo / Open Mike Eagle
 
-### ● Clipping. (2010~)
+### ● Clipping.（2010〜）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/20OY9Clvhw4?si=DQHDBvjaynVEOjbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- Built under the influence of noise music and connecting experimental electronic music techniques to rap.
+- ノイズミュージックの影響下で構築され、実験電子音楽の技法をラップに接続。  
 - He introduces noise, harshness, and glitches into his beats, and his delivery is mathematically precise.
 
 ---
 
-### ● Milo (R.A.P. Ferreira)
+### ● Milo（R.A.P. Ferreira）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YVv5pDspfA?si=DfUljTJuFYLK0GAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- Poetry/philosophical usage.
-- Beats cross jazz/abstract/lo-fi.
-- The density and abstraction of the words are high.
+- ポエトリー／哲学的語法。  
+- ビートはジャズ／アブストラクト／ローファイを横断。  
+- 詞の密度と抽象度が高い。
 
 ---
 
-### ● Open Mike Eagle
+### ● Open Mike Eagle 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BD560SeXvKI?si=pskaVooKtftV57R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- Representative of "Art Rap".
+- “Art Rap”の代表格。  
 - A mix of humor and social observation based on urban life.
 
 
 ---
 
-## 8. 2020s: Generalization of experimentation
-In the 2020s, streaming culture has liberated "experimentation" from specific scenes, and young artists around the world have begun to freely rebuild structures.
+## 8. 2020年代：実験性の一般化
+2020年代にはストリーミング文化によって“実験性”が特定のシーンから解放され、世界中の若いアーティストが自由に構造を再構築し始めた。
 
-### ● Features
-- Expand globally (Japan, Korea, Eastern Europe, Central and South America).
-- The beats are more minimal and ambient.
-- Introduction of noise components and field recording became common.
+### ● 特徴  
+- グローバル（日本、韓国、東欧、中南米）へ拡張。  
+- ビートはよりミニマルかつアンビエント化。  
+- ノイズ成分やフィールドレコーディングの導入が一般化。
 
 ---
 
-## 9. Chronology: Experimental / Abstract Hip Hop History
+## 9. 年表：Experimental / Abstract Hip Hop 史
 
 <div class="mermaid">
 timeline
@@ -239,46 +239,46 @@ timeline
 
 ---
 
-## 10. Diagram: Structure of Experimental Hip Hop
+## 10. 図解：Experimental Hip Hop の構造
 
 <div class="mermaid">
 flowchart TD
-    A["Underground 90s (Company Flow/APC)"] --> B["Establishing abstract language"]
-    B --> C["LA Beat Scene (2006~)"]
+    A["アンダーグラウンド90s（Company Flow / APC）"] --> B["アブストラクト語法の確立"]
+    B --> C["LAビートシーン（2006〜）"]
     C --> D["Flying Lotus / Brainfeeder"]
-    D --> E["Polyrhythm/Non-linear beat"]
-    E --> F["Multinational experimental scene in the 2020s"]
+    D --> E["ポリリズム / 非直線ビート"]
+    E --> F["2020年代の多国籍実験シーン"]
 </div>
 
 ---
 
-## 11. Major works
+## 11. 主要作品
 
-* **Company Flow – "Funcrusher Plus" (1997)**
-* **Anti-Pop Consortium – "Tragic Epilogue" (2000)**
-* **Cannibal Ox – "The Cold Vein" (2001)**
-* **J Dilla – "Donuts" (2006)**
-* **Flying Lotus – "Los Angeles" (2008)**
-* **Flying Lotus – "Cosmogramma" (2010)**
-* **Shabazz Palaces – "Black Up" (2011)**
-* **Clipping. – "CLPPNG" (2014)**
-* **Milo – "who told you to think??!!?!?!?!" (2017)**
+* **Company Flow – 『Funcrusher Plus』(1997)**
+* **Anti-Pop Consortium – 『Tragic Epilogue』(2000)**
+* **Cannibal Ox – 『The Cold Vein』(2001)**
+* **J Dilla – 『Donuts』(2006)**
+* **Flying Lotus – 『Los Angeles』(2008)**
+* **Flying Lotus – 『Cosmogramma』(2010)**
+* **Shabazz Palaces – 『Black Up』(2011)**
+* **Clipping. – 『CLPPNG』(2014)**
+* **Milo – 『who told you to think??!!?!?!?!』(2017)**
 
 ---
 
-## 12. Conclusion: Experimental / Abstract What is Hip Hop?
+## 12. 結論：Experimental / Abstract Hip Hopとは何か
 
-Experimental/Abstract Hip Hop is not just a "subgenre" of hip hop, but an intellectual project that deconstructs rhythmic structures, narratives, sample culture, and electronic music approaches, and continues to this day.
+Experimental / Abstract Hip Hop は単にヒップホップの“派生ジャンル”ではなく、**リズム構造・語り・サンプル文化・電子音楽的アプローチを解体する知的プロジェクト**として始まり、現在も継続している。
 
-The multi-layered electronic music of Flying Lotus, the abstract rap poetry pioneered by Shabazz Palaces, the non-linear swing of J Dilla, the noise experiments of Clipping.
-They continue to function today as a "laboratory for the future of hip-hop."
+Flying Lotus が示した多層的電子音楽、Shabazz Palaces が切り拓いた抽象詩のラップ、J Dilla による非直線スイング、Clipping. のノイズ実験…。
+それらは“ヒップホップの未来のための実験室”として現在も機能し続けている。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iJEozjrvTMs?si=rfY3Ewks4oie-Bwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

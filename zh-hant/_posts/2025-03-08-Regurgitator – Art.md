@@ -10,15 +10,15 @@ tags:
 - Alternative Rock
 - Rock
 - 90s
-title: 反流器 – ...藝術
+title: Regurgitator – ...Art
 ---
 
 
-Regurgitator 是一支來自澳洲的另類搖滾樂團。樂團成立於 1993 年底，由主唱、吉他手和鍵盤手 Quan Yeomans、貝斯手、鍵盤手和主唱 Ben Ely 以及鼓手 Martin Lee 組成。
+Regurgitator(リガージテーター)は、オーストラリア出身のオルタナティヴロックバンド。1993年後半にリードボーカル、ギター、キーボードのQuan Yeomans、ベースギター、キーボード、ボーカルのBen Ely、ドラムのMartin Leeによって結成された。
 
-《...Art》是 Regurgitator 的第三張錄音室專輯，於 1999 年發行。
+「 ...Art(...アート)」は、1999年にリリースされたRegurgitatorの3枚目のスタジオアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Happiness
 2. Ghost
@@ -35,7 +35,7 @@ Regurgitator 是一支來自澳洲的另類搖滾樂團。樂團成立於 1993 �
 13. Virtual Life
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TljyVCEkYpE?si=37_7kEJymfL9CFy3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

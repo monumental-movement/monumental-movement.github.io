@@ -14,7 +14,7 @@ title: Various – Build & Destroy (The Best Of Mo Wax Recordings)
 ---
 
 
-A two-disc compilation album released in 1996 by MO WAX, a legendary label representing the 90s.
+90年代を代表する伝説のレーベルMO WAXから1996年リリースされた2枚組のコンピレーションアルバム。
 
 #### Tracklist
 ```md
@@ -30,7 +30,7 @@ A two-disc compilation album released in 1996 by MO WAX, a legendary label repre
 など全19曲
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m44754932911?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44754932911?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_BeVBMw?si=xRs32hHfhXZ2-Plx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

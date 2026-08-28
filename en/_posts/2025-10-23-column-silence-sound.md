@@ -12,16 +12,16 @@ title: '[Column] Silent music: Rediscovering the act of listening'
 ---
 
 
-## Prologue: What do we listen to in music without sound?
+## 序章：音のない音楽に、私たちは何を聴くのか
 
 
-Text: mmr | Theme: After John Cage's ""4 minutes and 33 seconds,'' silence became another aspect of music. What is listening? Considering the reconstruction of the relationship between humans and the world as told by music without sound
+文：mmr｜テーマ：ジョン・ケージの『4分33秒』以降、沈黙は音楽のもう一つの側面となった。聴くとは何か。音のない音楽が語りかける、人間と世界の関係の再構築を考察
 
-When John Cage's ""4:33'' premiered in New York in 1952, audiences were confused and agitated.
-The pianist doesn't play a single note. However, the venue was filled with sounds: coughs, chairs creaking, and the wind outside.
+1952年、ジョン・ケージの《4分33秒》がニューヨークで初演されたとき、観客は戸惑い、そしてざわめいた。  
+ピアニストは一音も奏でない。しかし、会場には音が溢れていた——咳払い、椅子の軋み、外の風の音。  
 At that moment, it became clear that music is not just composed sounds, but the act of listening itself.
 
-Cage speaks. "There is no silence. Everything is sound."
+ケージは語る。「沈黙は存在しない。すべてが音である」と。  
 This philosophy greatly expanded the realm of music and was passed on to 21st century sound art, field recording, and ambient music.
 
 ---
@@ -31,7 +31,7 @@ This philosophy greatly expanded the realm of music and was passed on to 21st ce
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,25 +40,25 @@ color: #fff;
 </style>
 
 
-## Chapter 1: What is listening to sound? — Listening as sensory retraining
+## 第一章：音を聴くとは何か — 感覚の再訓練としてのリスニング
 
-We do too much ""unconscious listening'' in our daily lives.
-Smartphone notification sounds, subway announcements, street noises.
-They recede into the background of consciousness and become just a piece of information.
+私たちは日常の中で、あまりに多くの「無意識的な聴取」をしている。  
+スマートフォンの通知音、地下鉄のアナウンス、街角のノイズ。  
+それらは意識の背景に退き、ただの情報の一部になる。
 
-However, Cage and the composers of musique concrète encouraged us to practice rediscovering listening.
+しかし、ケージやミュージック・コンクレートの作曲家たちは、**「聴く」ことを再発見する訓練**を促した。  
 Listening is an act of renewing your relationship with the world,
-It is an attitude of accepting ""the sounds that already exist'' rather than choosing a sound.
+音を選び取るのではなく、「すでにある音」を受け入れる態度である。
 
-This attitude would later be carried over into Brian Eno's ambient music.
-he speaks. ""Ambient music is music that exists with the environment, even if you don't consciously listen to it.''
+この態度は、のちにブライアン・イーノのアンビエント・ミュージックにも引き継がれる。  
+彼は語る。「アンビエントとは、意識的に聴かなくても、環境と共に在る音楽である」と。
 
 ---
 
-## Chapter 2: Genealogy of Silence — From Cage to Contemporary Sound Art
+## 第二章：沈黙の系譜 — ケージから現代サウンドアートへ
 
-After Cage, "silence" became a kind of musical material.
-Below is a chronology showing its genealogy.
+ケージ以後、「沈黙」は一種の音楽的素材となった。  
+下記は、その系譜を示す年表である。
 
 <div class="mermaid">
 
@@ -74,35 +74,35 @@ timeline
 
 </div>
 
-In this trend, silence has been treated not as a "blank space" but as a "possibility."
-In other words, when the act of listening becomes a theme, music transcends that framework. **
+この流れの中で、沈黙は「空白」ではなく「可能性」として扱われてきた。
+つまり、**聴くという行為が主題化されるとき、音楽はその枠を越える。**
 
 ---
 
 
-## Chapter 3: Music as environment — the birth of soundscapes
+## 第三章：環境としての音楽 — サウンドスケープの誕生
 
-In the late 1960s, Canadian composer R. Marie Schaefer proposed the concept of "soundscape."
+1960年代後半、カナダの作曲家R・マリー・シェーファーは「サウンドスケープ」という概念を提唱した。
 This was an attempt to understand sound as part of society, culture, and the natural environment.
 
-"We live in a landscape of sound. To listen is to understand the environment."
+「私たちは音の風景の中を生きている。聴くとは環境を理解することである。」
 
-The hustle and bustle of the city, the rustle of the forest, the babbling of the river—recording and editing them became a musical act in itself.
+都市の雑踏、森のざわめき、川のせせらぎ——それらを録音し、編集すること自体が音楽的行為となった。
 This idea continues in today's field recording culture and artists who incorporate ambient sounds (Ryuichi Sakamoto, Chris Watson, etc.).
 
 ---
 
 ## Chapter 4: Ethics of Silence — Empathy brought about by "listening"
 
-The act of listening is not just a sensation.
-It is also an ethical attitude of being open to others.
+聴くという行為は、単なる感覚ではない。
+それは**他者に開かれる倫理的態度**でもある。
 
-In the field of music therapy, ""listening to sounds" is often combined with ""accepting others" training.
-Sociologist James Calhoun also points out that ""silence in public spaces is disappearing.''
-Constantly playing background music, constant flow of information.
-Have we become afraid of "time without sound"?
+音楽療法の現場では、「音を聴くこと」がしばしば「他者を受け入れる」訓練と重ねられる。
+また、社会学者ジェイムズ・カルホーンは「公共空間での沈黙が失われつつある」と指摘する。
+常時再生されるBGM、絶え間ない情報の流れ。
+私たちは「音のない時間」を恐れるようになってはいないか？
 
-Recovering silence also means regaining the ability to listen to music.
+沈黙を取り戻すとは、音楽を聴く力を取り戻すことでもある。
 
 ---
 
@@ -112,9 +112,9 @@ What Spotify and YouTube offer is "chosen silence."
 For example, the "Lo-Fi Chill" and "Focus" playlists are filled with "sounds" meant to create silence.
 Paradoxically, there is a consumption of **production of tranquility**.
 
-On the other hand, AI music generation technology continues to produce infinite sounds.
-Among these, what listeners may be looking for is a ""moment without sound.''
-In other words, the value of silence in an age of digital saturation is resurfacing.
+一方で、AI音楽生成技術は無限の音を生み出し続ける。
+その中で、聴く者が求めるのは「音のない瞬間」かもしれない。
+つまり、**デジタル飽和の時代における沈黙の価値**が再浮上している。
 
 
 ---
@@ -124,10 +124,10 @@ In other words, the value of silence in an age of digital saturation is resurfac
 <div class="mermaid">
 
 graph TD
-    A[act of listening] --> B[External sounds (environmental sounds/music)]
+    A[聴く行為] --> B[外的音（環境音・音楽）]
     A --> C[Internal sounds (memories, thoughts, physical sensations)]
-    B --> D[Selective listening: listening to music]
-    C --> E[Reflective listening: listening to yourself]
+    B --> D[選択的聴取：音楽を聴く]
+    C --> E[反響的聴取：自分を聴く]
     D --> F[Creative Silence: Composition/Improvisation]
     E --> F
 
@@ -138,26 +138,26 @@ Silence functions not as a "space" for playing music, but as a space for thinkin
 
 ---
 
-## Conclusion: The Future of Silence — Toward a Politics of Listening
+## 結章：沈黙の未来 — 聴くことの政治学へ
 
-Silence will likely become a new form of resistance in future music culture.
-Information overload, instant gratification, and algorithmic music selection.
+これからの音楽文化において、「沈黙」は新たな抵抗の形になるだろう。
+過剰な情報、即時的な快楽、アルゴリズムに支配された選曲。
 In this context, listening becomes a kind of **slow listening** exercise.
 
 When we regain the verb "listen,"
-Music once again connects us with the world.
+音楽は再び私たちを世界とつなぐ。
 
 ---
 
-## Reference chronology: Spread of philosophy of silence and sound
+## Reference chronology: Expansion of the philosophy of silence and sound
 
 
 | Year | Events | Main people |
 | ----- | -------------------- | ------------- |
-| 1952 | 《4:33》 Premiere | John Cage |
-| 1967 | "Soundwalk" concept proposed | Max Newhouse |
+| 1952  | 《4分33秒》初演            | ジョン・ケージ       |
+| 1967  | 「サウンドウォーク」概念提唱       | マックス・ニューハウス   |
 | 1977 | "Tuning of the World" Publishing | R. Marie Schaefer |
-| 1982 | The Rise of Ambient Music | Brian Eno |
-| 2000s | Expansion of field recording culture | Chris Watson, Ryuichi Sakamoto |
-| 2020s | Re-valuing "silence" with AI-generated music | Sound artists from various countries |
+| 1982  | アンビエント音楽の台頭          | ブライアン・イーノ     |
+| 2000s | フィールドレコーディング文化の拡張    | クリス・ワトソン、坂本龍一 |
+| 2020s | AI生成音楽と「静けさ」の再価値化    | 各国サウンドアーティスト  |
 

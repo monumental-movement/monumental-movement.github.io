@@ -10,20 +10,20 @@ tags:
 - Leftfield
 - Disco
 - 00s
-title: 狂喜——奧利奧
+title: The Rapture – Olio
 ---
 
 
-The Rapture是一支來自紐約的樂隊，成立於1998年。他們的風格融合了舞曲龐克、後龐克、迷幻浩室、迪斯可、電子樂和搖滾等多種流派的口味，是2000年代初開始的後龐克復興運動中舞曲龐克運動的核心樂團。
+The Rapture(ザ・ラプチャー)は、1998年に結成したNY出身のバンド。ダンスパンク、ポストパンク、アシッドハウス、ディスコ、エレクトロニカ、ロックなど様々なジャンルのテイストをミックスしたスタイルが特徴で、2000年代初頭のポストパンクリバイバルからのダンス・パンクムーブメントの中心的バンド。
 
-限量版僅1000本（單面）
+1000枚のみの限定盤(片面)
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Olio
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gnOhHJlEYUA?si=Mq0-5uHjrMZn0v6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

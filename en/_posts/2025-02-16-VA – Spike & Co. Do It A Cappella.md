@@ -14,7 +14,7 @@ title: VA – Spike & Co. Do It A Cappella
 ---
 
 
-This album is the soundtrack for a 1990 PBS documentary about a cappella music directed by Spike Lee.
+このアルバムは、1990年にSpike Leeが監督した、アカペラ音楽をテーマ にしたPBSドキュメンタリーのサウンドトラック。
 
 #### Tracklist
 ```md
@@ -33,7 +33,7 @@ This album is the soundtrack for a 1990 PBS documentary about a cappella music d
 13. Ladysmith Black Mambazo With Mint Juleps – The Lion Sleeps Tonight
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMnxUgxphOg?si=LTGQplU_-L3Kr-yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ title: '[Column] Orloge Simard - The current state of chaotic rock pioneered by 
 
 Text: mmr | Theme: Orloge Simard, who emerged from the Saguenay region of Quebec, built a unique rock image with vulgarity, humor, and social observation as their weapons. Tracking its progress with a focus on locality, anti-censorship, and live culture
 
-The rock scene in Quebec"s Saguenay region has long had a unique intensity. Unlike urban areas such as Montreal or Quebec City, in Saguenay, the ""region itself'' functions strongly as the cultural background. Bar culture, harsh winter climate, working-class life, and black humor unique to the Francophone world. Mixing these together, Quebec"s regional rock has a "rawness" that is different from that of urban indie.
+The rock scene in Quebec"s Saguenay region has long had a unique intensity. Unlike urban areas such as Montreal or Quebec City, in Saguenay, the ""region itself'' functions strongly as the cultural background. Bar culture, harsh winter climate, working class life, and the unique black humor of the Francophone world. Mixing these together, Quebec"s regional rock has a "rawness" that is different from that of urban indie.
 
 In this vein, Quebec rock band Orloge Simard emerged in 2012. The central character is Olivier Simard. He originally played music to make people laugh, and with the addition of several Saguenay musicians, the band Orloge Simard was formed.
 
@@ -55,7 +55,7 @@ color: #fff;
 
 When discussing Orloge Simard, one thing that always comes up is the extremeness of his lyrics. In fact, their songs foreground explicit language, sexual jokes, violent imagery, and alcohol culture.
 
-From their early days, they were often introduced as a band that people with hearing impairments should avoid. In a report on ""Coke calciné" released in 2016, the members themselves admitted that they were ""deliberately vulgar."
+From the beginning, they were often introduced as a band that people with hearing impairments should avoid. In a report on ""Coke calciné" released in 2016, the members themselves admitted that they were ""deliberately vulgar."
 
 However, if we dismiss Orloge Simard as just a ""sleazy band,'' we lose sight of the essence.
 
@@ -67,7 +67,7 @@ However, Orloge Simard is more than just an inheritor.
 
 What makes them unique is that they have a meme sensibility that is new to the internet era. At live performances, the characters are emphasized, and the fictional world and reality are vaguely mixed. Even the song titles and artwork have a manga-like and chaotic sensibility.
 
-What is more important is that they exaggerate ""locality.''
+More importantly, they exaggerate the ""locality.''
 
 Saguenay accent, regional jokes, local feel. Rather than hiding them, they amplified them to the extreme, turning Quebec's local culture into entertainment.
 
@@ -100,7 +100,7 @@ The album contained a large amount of local urban youth culture, drunkenness, dr
 
 What is important about this work is that "miscellaneousness" functions as an intentional aesthetic.
 
-Some songs approach garage rock, while others have a folk atmosphere. There are also moments when the song has a punk-like momentum but suddenly shifts to a country-like melody.
+Some songs approach garage rock, while others have a folk atmosphere. There are also moments when the song has a punk-like momentum, but suddenly shifts to a country-like melody.
 
 In other words, ""Aucun Cadre'' was an album that conceptualized the very lack of unity.
 
@@ -135,7 +135,7 @@ This work has a rougher, more dangerous atmosphere than his later works.
 
 The performance is rough and the recording is not very neat. But that was the appeal of Orloge Simard at the time.
 
-They prioritized recording the ""heat of the moment" rather than creating a ""completed work."
+彼らは「完成された作品」を作るよりも、“その場の熱”を記録することを優先していた。
 
 At the stage of ""Coke calciné'', the characteristics of Orloge Simard were already clear.
 
@@ -147,7 +147,7 @@ At the stage of ""Coke calciné'', the characteristics of Orloge Simard were alr
 
 Furthermore, they had been using the expression "folk sale" since then. This functioned as a term that emphasized Quebec's uniquely vulgar folk sensibilities.
 
-At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of cases in which audiences at some festivals were repulsed by radical lyrics.
+At their live shows, it was not uncommon for the audience to be confused. In fact, there have been reports of audiences at some festivals revolting due to radical lyrics.
 
 However, at the same time, the number of fans who enthusiastically supported them increased.
 
@@ -155,7 +155,7 @@ What is important is that Orloge Simard was not afraid of being disliked.
 
 They did not aim to appeal to everyone, but rather expanded their world to include rejection.
 
-This was a crucial attitude in Quebec's underground culture.
+これはケベックのアンダーグラウンド文化において極めて重要な態度だった。
 
 > Early Orloge Simard served as a blatant counter to polite indie culture.
 
@@ -169,17 +169,17 @@ They toured bars, live music venues, and local festivals across Quebec, graduall
 
 Particularly important were appearances at the Festival d'été de Québec, Francos de Montréal, Woodstock en Beauce, and the Coup de cœur francophone.
 
-These are not just career achievements.
+これらは単なるキャリア上の実績ではない。
 
-It was an event that proved that a band like Orloge Simard, which has an extremely strong local flavor, can engage the audience even at large-scale festivals.
+Orloge Simard のような“地方色が極端に強いバンド”が、大規模フェスでも観客を巻き込めることを証明した出来事だった。
 
 At live performances, they place more emphasis on "group enthusiasm" than performance technique.
 
 The distance from the audience is extremely close, and the chaos on stage itself becomes a production.
 
-There is also a theatrical element to their live performances. Characterized behavior, tension based on alcohol culture, and agitation with the audience. These are not just rock shows, but more like "participatory spaces."
+また、彼らのライブには演劇的要素も存在する。キャラクター化された振る舞い、アルコール文化を前提としたテンション、観客との煽り合い。これらは単なるロックショーではなく、“参加型空間”に近い。
 
-Quebec rock history has a tradition of emphasizing a sense of community with the audience. Orloge Simard updated it to modern times.
+ケベック・ロック史には、観客との共同体感覚を重視する伝統が存在する。Orloge Simard はそれを現代的に更新した。
 
 <div class="mermaid">
 sequenceDiagram
@@ -196,7 +196,7 @@ R->>A: カルト的人気形成
 
 Their live performances are often described as "unique," not only because of their musicality, but also because they contained a "danger that could only be achieved on the spot."
 
-> Orloge Simard's main body existed not in the studio, but in the live space where he mingled with the audience.
+> Orloge Simard の本体はスタジオではなく、観客と混ざり合うライブ空間に存在していた。
 
 ---
 
@@ -206,13 +206,13 @@ Released in 2017, Beuvez tousjours, ne mourez jamais was an important turning po
 
 The literal translation of the title is "Always drink, never die." At this point, the band's worldview had already been completely established.
 
-This album streamlined the songwriting while maintaining the rawness of their earlier work. It wasn't just a bad vibe, but their ability to build as a band had clearly improved.
+このアルバムでは、初期作品の荒々しさを維持しながらも、ソングライティングの整理が進んだ。単なる悪ノリではなく、バンドとしての構築力が明確に向上していたのである。
 
 Also, during this period, Orloge Simard's live performances rapidly increased in popularity, gaining cult popularity throughout Quebec.
 
 In 2017, he was nominated in the GAMIQ (Gala alternatif de la musique indépendante du Québec) public voting category.
 
-This meant that they began to be recognized as a part of the Quebec indie scene, rather than just a band that made jokes.
+これは、単なるネタ系バンドではなく、ケベック・インディーシーンの存在として認識され始めたことを意味していた。
 
 Furthermore, they positively expressed the "bar culture" during this period.
 
@@ -220,11 +220,11 @@ However, this is not a simple celebration of alcohol.
 
 In Quebec"s local culture, bars are social spaces and places for community building. In Orloge Simard"s work, this feeling is exaggerated to the extreme.
 
-In other words, they depicted local communities through "drunken culture."
+つまり彼らは、“酔っ払い文化”を通じて地方共同体を描いていたのである。
 
-Around this time, the band began to experience sold-out performances at large venues.
+また、バンドはこの頃から大型会場でのソールドアウト公演も経験するようになる。
 
-Success at clubs such as Montreal"s Club Soda and Quebec City"s Impérial Bell signaled that Orloge Simard was becoming more than just a local band, and had a province-wide following.
+モントリオールの Club Soda、ケベック・シティの Impérial Bell などでの成功は、Orloge Simard が単なる地方バンドではなく、州全体で支持される存在へ変化していたことを示していた。
 
 > ""Beuvez tousjours, ne mourez jamais" was the completion of Orloge Simard's ""tavern philosophy."
 
@@ -236,11 +236,11 @@ In 2019, Orloge Simard released the documentary Saguenay Libre.
 
 This work records the band's artistic views, live culture, and regional characteristics while following the ""Beuvez tousjours, ne mourez jamais'' tour.
 
-The title "Saguenay Libre" has a symbolic meaning.
+タイトルの“Saguenay Libre”には象徴的意味がある。
 
 This was not just the name of the area, but also functioned as a phrase that expressed the ""liberation of Saguenay values.''
 
-For Orloge Simard, Saguenay is more than just his hometown.
+Orloge Simard にとって、サグネーは単なる出身地ではない。
 
 It was the ""spiritual background"' that formed the band"s character, humor, accent, live feel, and even aesthetic itself.
 
@@ -248,7 +248,7 @@ In addition to live footage, the documentary also depicts how the band builds a 
 
 Moreover, the work is not just a success story, but also presents the meaning of ""transmitting culture from the region.''
 
-In contrast to the Montreal-centered cultural structure, bands from Saguenay succeeded while maintaining their unique culture.
+モントリオール中心の文化構造に対し、サグネー発のバンドが独自文化を維持したまま成功する。
 
 This had an important meaning in the Quebec cultural area.
 
@@ -275,11 +275,11 @@ After this work, Orloge Simard was increasingly talked about as a ""symbol of Qu
 
 ---
 
-## "À chacun son Waterloo" – Evolution as a rock band
+## 『À chacun son Waterloo』――ロックバンドとしての進化
 
 À chacun son Waterloo, released in 2020, marked a major change for Orloge Simard.
 
-The band themselves have described this album as being more "rock-oriented" than before.
+バンド自身も、このアルバムを以前より“ロック寄り”になった作品として説明している。
 
 In addition, the lyrics are less explicit than before, with more melancholic elements and self-satire.
 
@@ -293,7 +293,7 @@ In terms of music, a horn section was also introduced, expanding the range of ar
 
 Although the roughness of the early days remains, the level of perfection as a work has greatly improved.
 
-What drew particular attention was the ""range of emotional expression.''
+特に注目されたのは、“感情表現の幅”だった。
 
 Until then, Orloge Simard had masked his emotions with humor and excess. However, in À chacun son Waterloo, there are more moments of nostalgia and melancholy.
 
@@ -301,9 +301,9 @@ This showed the band's maturation.
 
 However, that doesn't mean they suddenly became classy.
 
-Rather, it should be said that they have evolved into a band that cannot be explained by vulgarity alone.
+むしろ、“下品さだけでは説明できないバンド”へ進化したと言うべきだろう。
 
-> ""À chacun son Waterloo"' was Orloge Simard"s expansion from a "meme" to a full-fledged rock band.
+> 『À chacun son Waterloo』は、Orloge Simard が“ネタ的存在”から本格的ロックバンドへ拡張された作品だった。
 
 ---
 
@@ -311,23 +311,23 @@ Rather, it should be said that they have evolved into a band that cannot be expl
 
 ""Culture du culte"', released in 2022, is a work commemorating the 10th anniversary of the band"s formation, and at the same time, it is also an album that most strongly expresses Orloge Simard's thoughts.
 
-They are positioning this work as an "anti-censorship manifesto."
+彼らはこの作品を“反検閲マニフェスト”として位置づけている。
 
 The album introduction uses words such as "authenticity," "intellectual nonchalance," and "extreme worship," making the very concept of "culture du culte" a worldview.
 
 What is important here is that Orloge Simard is not simply posing as an anti-establishment figure.
 
-They expressed discomfort with the ""homogenization of speech" and ""safe expression" in modern society.
+They expressed discomfort with the "homogenization of speech" and "safe expression" in modern society.
 
 In other words, their anti-censorship philosophy is not an expression of shock per se, but rather a sense of trying to protect a ""space where people can freely fail.''
 
 This attitude is also connected to modern Internet culture.
 
-In the age of social media, comments can instantly become the subject of criticism and surveillance. Orloge Simard tried to maintain a ""disorganized rock space'' against such an atmosphere.
+SNS時代には、発言が即座に炎上や監視の対象となる。Orloge Simard は、そうした空気に対して“無秩序なロック空間”を維持しようとした。
 
 As a result, they continue to garner support and criticism at the same time.
 
-But that is also the reason for Orloge Simard's existence.
+しかし、それこそが Orloge Simard の存在意義でもある。
 
 <div class="mermaid">
 quadrantChart
@@ -341,7 +341,7 @@ quadrantChart
     Orloge Simard: [0.75, 0.72]
 </div>
 
-""Culture du culte" was a work that made it clear that they were not just a popular local band, but a ""rock group with ideas."
+『Culture du culte』は、彼らが単なるローカル人気バンドではなく、“思想を持ったロック集団”であることを明確化した作品だった。
 
 > With ""Culture du culte," Orloge Simard presented ""anti-censorship" not as entertainment but as a cultural theory.
 
@@ -363,34 +363,34 @@ They placed extreme emphasis on Saguenay accents and local jokes, and rather use
 
 This was an extremely important strategy in Quebec culture.
 
-Also, while they have a punk spirit, they also place emphasis on "community".
+Also, while they have a punk spirit, they also place emphasis on a sense of community.
 
 While typical punk music emphasizes individualistic rebellion, Orloge Simard's live shows are closer to communal frenzy.
 
-The audience participates not as ""solitary rebels," but as ""comrades making noise together."
+観客は“孤独な反逆者”ではなく、“一緒に騒ぐ仲間”として参加する。
 
-This feeling is deeply connected to Quebec's bar culture and festival culture.
+この感覚は、ケベックの酒場文化やフェス文化とも深く結びついている。
 
 Additionally, they value humor.
 
 Quebec rock culture has a tradition of expressing politics and social criticism through humor. Orloge Simard also belongs to that lineage.
 
-> Orloge Simard は、ケベック・ロックの地方性、共同体性、ブラックユーモアを現代化した存在だった。
+> Orloge Simard was a modernization of Quebec rock's provincial, communal, and black humor.
 
 ---
 
-## Discography and chronology of activities
+## ディスコグラフィと活動年表
 
-### Major works
+### 主要作品
 
-| Year | Works | Overview |
+| 年    | 作品                                 | 概要                |
 | ---- | ---------------------------------- | ----------------- |
-| 2013 | Coke calciné | Early mini album. Relapse later |
+| 2013 | Coke calciné | Initial mini album. Relapse later |
 | 2014 | Aucun Cadre | Full-scale debut work |
-| 2017 | Beuvez tousjours, ne mourez jamais | A masterpiece that determined the popularity of live performances |
-| 2019 | Saguenay Libre | Documentary |
-| 2020 | À chacun son Waterloo | A transformational work with a stronger rock color |
-| 2022 | Culture du culte | 10th anniversary work that brings anti-censorship ideas to the fore |
+| 2017 | Beuvez tousjours, ne mourez jamais | ライブ人気を決定づけた代表作    |
+| 2019 | Saguenay Libre                     | ドキュメンタリー作品        |
+| 2020 | À chacun son Waterloo              | ロック色を強めた転換作       |
+| 2022 | Culture du culte                   | 反検閲思想を前面化した10周年作品 |
 
 <div class="mermaid">
 timeline
@@ -408,33 +408,33 @@ timeline
 
 For many years, the band continued to play both club and festival appearances.
 
-Their success with Club Soda and Impérial Bell shows that they are more than just an underground band, with a following throughout Quebec.
+Club Soda や Impérial Bell での成功は、彼らが単なる地下バンドではなく、ケベック全域に支持層を持つ存在であることを示している。
 
-In addition, they will continue to perform live activities in the 2020s and beyond, holding anniversary performances of their early works.
+また、2020年代以降も彼らはライブ活動を継続し、結成初期作品の周年公演なども行っている。
 
 > The history of Orloge Simard was a process in which a local band from Saguenay spread throughout Quebec.
 
 ---
 
-## Why Orloge Simard continues to be supported?
+## Why Orloge Simard continues to be supported
 
-Orloge Simard is not a band that will appeal to everyone.
+Orloge Simard は、万人受けするタイプのバンドではない。
 
 In fact, there are many people who dislike their lyrics and live style.
 
 Still, the reason they have continued to be supported for so many years is because they are ""seriously protecting their world.''
 
-In the contemporary music scene, many artists try to adapt to algorithms and markets.
+現代音楽シーンでは、多くのアーティストがアルゴリズムや市場に適応しようとする。
 
 But Orloge Simard went in the opposite direction.
 
-It strengthened its localism, maintained its vulgarity, prioritized live culture, and brought a sense of community to the fore.
+ローカル性を強め、下品さを維持し、ライブ文化を優先し、共同体感覚を前面に出した。
 
-As a result, their music is not ""music that can reach everyone," but ""music that deeply pierces those who deeply pierce it."
+その結果、彼らは“誰にでも届く音楽”ではなく、“深く刺さる人には強烈に刺さる音楽”になった。
 
 Their activities also overlap with Quebec culture itself.
 
-An exaggerated affirmation of the local culture of French-speaking Canada. This attitude has become a place for many viewers to confirm their identity.
+フランス語圏カナダのローカル文化を、誇張しながら肯定する。その姿勢が、多くの観客にとってアイデンティティ確認の場になっている。
 
 Moreover, Orloge Simard never loses its sense of danger.
 
@@ -446,25 +446,25 @@ This instability functions as rock's original charm.
 
 ---
 
-## Conclusion: Orloge Simard was the future of "regional rock"
+## 結論――Orloge Simard は“地方ロック”の未来像だった
 
-Orloge Simard started out as a provincial band in Quebec.
+Orloge Simard は、ケベックの地方バンドとして出発した。
 
-But they were more than just local favorites.
+しかし彼らは、単なるローカル人気に留まらなかった。
 
-While bringing Saguenay culture to the fore, it combined festival culture, live community, anti-censorship ideology, and black humor to form a unique world.
+サグネー文化を前面に押し出しながら、フェスティバル文化、ライブ共同体、反検閲思想、ブラックユーモアを結びつけ、独自の世界を形成した。
 
 Their music is sometimes harsh, vulgar, and chaotic.
 
 But that chaos is at the core of Orloge Simard.
 
-Amidst the rise of organized indie culture and safely managed entertainment, they have maintained their unorganized enthusiasm.
+整然としたインディー文化や、安全に管理されたエンターテインメントが増える中で、彼らは“整理されない熱狂”を維持し続けてきた。
 
 Their existence also shows that local cultures can maintain their uniqueness even in a global era.
 
 There's no need to hide your Saguenay accent, bar culture or dark humor.
 
-Rather, a new culture is established by amplifying it to the extreme.
+むしろ、それを極端に増幅することで、新しいカルチャーは成立する。
 
 Orloge Simard was an example of this.
 
@@ -473,5 +473,14 @@ And the "aucuncadrisme" they created is not just anarchy.
 This was his attitude of ""continuing to maintain an unconventional state.''
 
 > Orloge Simard has become a rare presence in the contemporary Canadian music scene, continuing to translate Quebec culture into rock frenzy.
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e01od6XoDPM?si=G7Vp7Aln13IxmSaB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -8,22 +8,22 @@ layout: post
 permalink: /zh-hant/clivilles-and-cole-a-deeper-love-a-deeper-feeling-mix/
 tags:
 - House
-title: Crivillés & Cole – 更深的愛（更深的情感組合）
+title: Clivillés & Cole – A Deeper Love (A Deeper Feeling Mix)
 ---
 
 
-Clivillés & Cole 是由 Robert Clivillés 和 David Cole 組成的單位。自 20 世紀 80 年代末以來，他一直作為美國唱片製作人、詞曲作者和混音師活躍，並在 90 年代取得了全球性的成功。
+Clivillés & Cole（クリヴィレス＆コール）は、Robert Clivillés（ロバート・クリヴィレス）とDavid Cole （デヴィッド・コール）によるユニット。1980年代後半からUSのレコードプロデューサー、ソングライター、リミキサーとして活躍し1990年代には世界的に成功を収めた。
 
-《A Deeper Love (A Deeper Feeling Mix)》和 U2 的《Pride》house remix 都成為全球熱門歌曲。
+「A Deeper Love (A Deeper Feeling Mix)」とU2「Pride」のハウスremixはどちらも世界的なヒット曲となった。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. A Deeper Love (A Deeper Feeling Mix)
 
 B. Pride (In The Name Of Love) (MLK 12'' Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m61317278445?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61317278445?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yupxyWxqGD8?si=8LKXVmqUWC07BfFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ title: Sandy Warez – Tribal Tricks Vol. 1
 
 
 
-Sandy Warez is a veteran DJ in the hardcore techno world with over 20 years of experience. He presides over ""Footworxx'', one of the most influential labels in the modern hardcore scene, and has produced many young artists.
+Sandy Warez は、20年以上のキャリアを持つハードコア・テクノ界のベテランDJ。現代のハードコアシーンにおいて最も影響力のあるレーベルの一つ『Footworxx』を主宰しており、多くの若手アーティストを輩出している。
 
 ""Tribal Tricks Vol. 1'' is an early hard techno piece released by Sandy Warez on the Belgian label Subsounds in 2002, before he shifted to his current Frenchcore/hardcore style.
 
@@ -26,7 +26,7 @@ B1. Bangin' Press
 B2. Ultimate Groove
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m10491107037?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10491107037?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rjv5td0wIHw?si=kfiCdLsFk3lVeQJ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

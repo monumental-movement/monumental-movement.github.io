@@ -13,9 +13,9 @@ title: Club Crashers – Hell Yeah!
 ---
 
 
-Jochen Miller (Jochen van der Steijn / DJ Jochen), also known as Club Crashers, is a DJ/musician from the Netherlands.
+Club CrashersことJochen Miller (Jochen van der Steijn / DJ Jochen) は、オランダ出身のDJ／ミュージシャン。
 
-"Hell Yeah!" is a hard trance song released on the Dutch Hard House/Hard Trance label Patriot Hard-Beat in 2001.
+「Hell Yeah!」は、2001年にオランダのHard House/Hard TranceレーベルPatriott Hard-Beatからリリースされたハードトランス。
 
 #### Tracklist
 ```md
@@ -25,4 +25,4 @@ B1. Hell Yeah! (Club Mix)
 B2. Hell Yeah! (DJ Jochen Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m38864975401?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38864975401?afid=6142608987){: .button1}

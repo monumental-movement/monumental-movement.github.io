@@ -12,10 +12,10 @@ title: DJ Bam Bam – Elektro-Synthesis
 ---
 
 
-DJ Bam Bam is a Chicago-style hard house DJ and producer.
+DJ Bam Bamは、シカゴスタイル・ハードハウスのDJ兼プロデューサー。
 The vocalist for the first song on side B is Ron Carroll (R.O.N.N), who was active in the house music scene.
 
-"Elektro-Synthesis" was released in 2000 by Underground Construction, a hard house/tech house label based in Chicago, US.
+「Elektro-Synthesis」は、USシカゴに拠点を置くハードハウス・テックハウスレーベルUnderground Constructionより、2000年にリリース。
 
 #### Tracklist
 ```md

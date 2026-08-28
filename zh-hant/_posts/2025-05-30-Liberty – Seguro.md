@@ -10,15 +10,15 @@ tags:
 - Electronic
 - Hard Trance
 - 00s
-title: 自由 – 塞古羅
+title: Liberty – Seguro
 ---
 
 
-Liberty 是由比利時 DJ/製作人 Johan Goyvaerts（DJ Liberty）和 Maurits Engelen（Maurizzio）組成的二人組。 Maurizzio 的叔叔是 Praga Khan，他被認為是比利時新節拍/迷幻浩室/科技電子舞曲音樂界的先驅之一。
+Libertyは、ベルギーのDJ・プロデューサー Johan Goyvaerts(DJ Liberty)とMaurits Engelen(Maurizzio)によるデュオ。Maurizzioの叔父は、ベルギー発祥のニュービート/アシッドハウス/テクノエレクトロニックダンスミュージックシーンのパイオニアの一人とみなされているPraga Khan(プラガ・カーン)。
 
-《Seguro》是比利時唱片公司 No Name Records Trance 於 2000 年發行的一首硬 Trance 曲目。
+「Seguro」は、2000年にベルギーのレーベルNo Name Records Tranceからリリースされたハードトランストラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Seguro (Original Mix)
 A2. Seguro (Maurizzio Mix)
@@ -27,7 +27,7 @@ B1. Seguro (Mirando Mix)
 B2. Seguro (Mirando Edit)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m66128506073?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66128506073?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H8iD1wHWmE0?si=tWdsL_R7XI52UktA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

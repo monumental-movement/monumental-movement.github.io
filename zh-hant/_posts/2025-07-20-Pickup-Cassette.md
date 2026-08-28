@@ -8,20 +8,20 @@ layout: post
 permalink: /zh-hant/pickup-cassette/
 tags:
 - Cassette
-title: 拾取盒式磁帶作品
+title: カセットテープ作品をピックアップ
 ---
 
 
-“一組非凡的盒式磁帶作品，生動地捕捉了地下的氣息，散發出獨特的美感。”
+「アンダーグラウンドの息吹を生々しく刻み込み、独自の美学を放つ注目すべきカセットテープ作品群」
 
-<小時>
+<hr>
 
-### 無藝術家 – 環境（磁帶二）
-<a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>.
+### No Artist – Environments (Cassette Two) 
+<a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>
 
-1970 年代現場錄音/療癒 捕捉自然環境的療癒音景。
+1970年代  フィールド録音／ヒーリング 自然環境を捉えた癒し系サウンドスケープ。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Tintinnabulation (Contemplative Sound)
 
@@ -29,19 +29,19 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
-### 噪音的藝術——毫無意義的廢話
-<a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20InSense%20Of%20Noise%20%E2%80%93%2030%20N.
+### The Art of Noise – In No Sense Nonsense
+<a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
-1987 年 Leftfield Synth 普普藝術流行 x 實驗性、獨特的合成器作品。
+1987年 Leftfieldシンセポップ アートポップ×実験寄り、ユニークなシンセ作。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Galleons Of Stone
 A2. Dragnet
@@ -79,20 +79,20 @@ B16. One Earth
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
 
-### 吻 – 搖滾翻滾
-<a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Rollp">20Over.
+### Kiss – Rock And Roll Over
+<a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
 
-1976 年 70 年代 Hard Rock 日本第一版磁帶，很酷的復古。
+1976年 70s ハードロック  日本初版カセット、クールなヴィンテージ。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. I Want You
 A2. Take Me
@@ -108,20 +108,20 @@ B5. Makin' Love
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
 
-### Amany & The Badawist – 來吧，巴塞姆
-<a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%9320and%20The%20Badawist%20%E2%80%9320and%20The%20Badawist%20%E2%80%9320ComeCome>
+### Amany & The Badawist – Come on, Bassem
+<a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
 
 2024年 トライバル／世界音楽  中東・アフリカ系のトライバル音響。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1.  بدويست 
 
@@ -149,18 +149,18 @@ Come on, Bassem
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
 
 
-<小時>
+<hr>
 
 
-### 湯瑪斯紐曼 – 女人的香氣
-<a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%(webp.
+### Thomas Newman – Scent Of A Woman
+<a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
 
-1992 年電影原聲帶 經典電影的原創配樂磁帶。
+1992年 映画サウンドトラック  名作映画のオリジナルスコア・テープ。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1.  Main Title
 A2.  A Tour Of Pleasures
@@ -183,19 +183,19 @@ B7. End Title
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
-### 亞當克萊頓 (Adam Clayton) 與拉里馬倫 (Larry Mullen) – 《碟中諜》主題曲
+### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-1996年電影《不可能的任務》主題曲官方錄音帶。
+1996年 映画テーマ曲  映画『ミッション・インポッシブル』の公式テープ。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -204,20 +204,20 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
 
-### Dieselboy – 導演剪輯版
-<a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cirector's%</Cut.
+### Dieselboy – The Director’s Cut
+<a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
 
-2023 Drum n Bass 由美國鼓貝斯 DJ 打造的激烈混音
+2023年 Drum n Bass 米ドラムンベースDJによる強烈ミックス 
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Side A
 
@@ -254,19 +254,19 @@ B. Side B
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
-### 各種 - 享受！故事
-<a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%">20Story.webp.
+### Various – The Enjoy! Story
+<a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
-20 世紀 90 年代？經典嘻哈祖魯民族時代早期合輯
+1990年台？ クラシックヒップホップ Zulu Nation時代の黎明期コンピ 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -305,19 +305,19 @@ D9. Higher Ground – Shake 'Em Up
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
-### 運行-D.M.C. – 搖滾之王
-<a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20King%20Of%E2%80%93%20King%20Of%20King%20Of%。
+### Run‑D.M.C. – King Of Rock
+<a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
 
-1985 年？  嘻哈/搖滾融合，搖滾和饒舌的開創性和流行作品
+1985年？  ヒップホップ／ロック融合  ロックとラップの先駆的人気作 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Rock The House
 A2. King Of Rock
@@ -332,19 +332,19 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
-### Dr. Dre – 讓我騎
-<a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Dre%20%E2%80%93%20Let%20Me%20Ride.
+### Dr. Dre – Let Me Ride
+<a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
 
-1992年西岸音樂經典嘻哈/G-Funk代表歌曲
+ 1992年 クラシックヒップホップ／Gファンク 西海岸サウンドの代表曲 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Let Me Ride (Radio Mix)
 
@@ -362,14 +362,14 @@ Guest– George Clinton
 ```
 
 
-[在 Mercari 購買](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<小時>
+<hr>
 
-### 清單
+### List
 
 <div class="table-border">
 <table>

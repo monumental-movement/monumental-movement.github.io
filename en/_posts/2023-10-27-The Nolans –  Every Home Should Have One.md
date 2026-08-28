@@ -9,22 +9,22 @@ tags:
 - Disco
 - Nostalgic
 - 7inch
-title: The Nolans – Every Home Should Have One
+title: The Nolans –  Every Home Should Have One
 ---
 
 
-"The Nolans – Every Home Should Have One" is part of a series distributed as a prize in a Coca-Cola sweepstakes held in Japan in 1981.
+「The Nolans –  Every Home Should Have One」は、1981年に日本で開催されたコカ・コーラの懸賞の景品として配布されたシリーズのひとつです。
 
 The title of the record is "Adored Aye Aye" on the front of the jacket and "Adored Aye Aye Every Home Should Have One" on the back.
 
-The record contains only the A side (label side) and the B side (signed color photo of the group) is not grooved. The record is packaged in a clear round-bottomed inner record bag and an outer paper jacket with a photo of the artist. The back of the outer jacket includes a brief artist biography (Japanese) and lyrics (English and Japanese).
+レコードはA面 (レーベル面) のみ収録されており、B面 (グループのサイン入りカラー写真) には溝が切られていません。レコードは、透明な丸底のインナーレコード袋に入れられ、さらにアーティストの写真がついた外側の紙ジャケットに収められています。外側のジャケットの裏面には、アーティストの簡単な経歴 (日本語) と歌詞 (英語と日本語) が記載されています。
 
 #### Tracklist
 ```md
 A. Every Home Should Have One (あこがれアイ・アイ・アイ)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m72093615038?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72093615038?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S_5RIEiOm-k?si=rGc_1OAh0z98dJ4L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

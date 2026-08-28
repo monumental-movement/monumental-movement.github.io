@@ -10,39 +10,38 @@ tags:
 - Canadian Metal
 - Progressive Metal
 - Thrash Metal
-title: '[Column] Voivod: SF, nuclear war, and the extreme north of progressive thrash
-  metal'
+title: 【コラム】 Voivod：SF、核戦争、プログレッシブ化するスラッシュメタルの極北
 ---
 
 
 
-## What was Voivod?
+## Voivodとは何だったのか
 
-Text: mmr｜Theme: Canadian maverick band Voivod has rebuilt thrash metal with science fiction and an experimental spirit, paving the way for the future of progressive metal.
+文：mmr｜テーマ：カナダの異端バンドVoivodは、スラッシュメタルをSFと実験精神で再構築し、プログレッシブ・メタルの未来像を切り開いた
 
-Looking back at the history of heavy metal in the 1980s, many bands competed in terms of speed and weight. However, there was a clearly different presence among them. Voivod is from Jonquières, Quebec, Canada.
+1980年代のヘヴィメタル史を振り返ると、多くのバンドが「速さ」や「重さ」を競い合っていた。しかし、その中で明らかに異質な存在がいた。カナダ・ケベック州ジョンクィエール出身のVoivodである。
 
-They weren't just thrash metal.
+彼らは単なるスラッシュメタルではなかった。
 
-They created a unique musical universe by fusing the roughness of punk, the construction of progressive rock, the mechanical sensibilities of industrial, and the worldview of science fiction.
+パンクの荒々しさ、プログレッシブ・ロックの構築性、インダストリアル的な機械感覚、そしてSF的世界観を融合させながら、独自の音楽宇宙を築き上げていった。
 
 When many listeners hear Voivod's music for the first time, they feel strangely out of place.
 
-- The riff is distorted.
-- Tempo changes suddenly.
+- リフは歪んでいる。
+- テンポは突然変化する。
 - The chord progression is unstable and has a floating feel.
 - The vocals are like a roar, but also somehow cold.
 
-However, deep within the chaos there is a strong sense of unity.
+だが、その混乱の奥には強烈な統一感が存在している。
 
-Voivod was a band that was trying to create an "alternative future" rather than "destruction."
+Voivodは「破壊」ではなく、「別の未来」を作ろうとしていたバンドだった。
 
-In the 1980s, when thrash metal was all about violence and anti-establishment themes, Voivod brought themes of space, technology, nuclear war, cyborgization, and the collapse of human civilization to the fore.
+1980年代のスラッシュメタルが暴力性や反体制をテーマにしていた時代、Voivodは宇宙、テクノロジー、核戦争、サイボーグ化、人類文明の崩壊といったテーマを前面に押し出した。
 
-And it's not just a lyrical production.
-The sound itself echoes like a collapsed futuristic city.
+しかもそれは単なる歌詞上の演出ではない。
+音そのものが、崩壊した未来都市のように響く。
 
-This feeling was the biggest thing that made Voivod unique.
+この感覚こそが、Voivodを唯一無二の存在にした最大の理由だった。
 
 
 ---
@@ -52,7 +51,7 @@ This feeling was the biggest thing that made Voivod unique.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -62,116 +61,116 @@ color: #fff;
 
 
 
-### Origin of name and initial concept
+### 名前の由来と初期コンセプト
 
-The name "Voivod" is derived from an Eastern European military title, meaning ruler or warrior.
+「Voivod」という名前は、東欧の軍事的称号に由来する言葉であり、支配者や戦士を意味する。
 
 The band was formed around 1982.
 
-The initial members were the following four people.
+初期メンバーは以下の4人だった。
 
-* Denis "Snake" Bélanger (vocals)
-* Denis "Piggy" D'Amour (guitar)
-* Jean-Yves "Blacky" Thériault (bass)
-* Michel "Away" Langevin (drums)
+* Denis “Snake” Bélanger（ボーカル）
+* Denis “Piggy” D'Amour（ギター）
+* Jean-Yves “Blacky” Thériault（ベース）
+* Michel “Away” Langevin（ドラム）
 
-Away, in particular, was an important figure in shaping Voivod's visual world.
+特にAwayは、Voivodのビジュアル世界を形成した重要人物だった。
 
-He was not only the drummer, but also the jacket designer and artwork.
+彼はドラマーであるだけでなく、ジャケットデザインやアートワークも担当していた。
 
-Voivod"s decadent, mechanical worldview is reinforced by Away"s visual sensibilities.
+Voivodの退廃的で機械的な世界観は、Awayのビジュアル感覚によって強固なものになっていく。
 
-They were influenced by music as diverse as Motörhead, Venom, Discharge, Pink Floyd, and King Crimson.
+彼らはモーターヘッド、ヴェノム、ディスチャージ、ピンク・フロイド、キング・クリムゾンなど多様な音楽から影響を受けていた。
 
-In other words, Voivod was not a pure metal band from the beginning.
+つまりVoivodは、最初から純粋なメタルバンドではなかったのである。
 
-### An unusual band born from a local city
+### 地方都市から生まれた異形のバンド
 
-Jonquières is not a huge city like Montreal or Toronto.
+ジョンクィエールは、モントリオールやトロントのような巨大都市ではない。
 
-Rather, it was a regional city with an industrial atmosphere.
+むしろ工業地帯的な空気を持つ地方都市だった。
 
-It is often said that this sense of confinement had a strong influence on Voivod's unique worldview.
+この閉塞感が、Voivod独特の世界観に強く影響したと語られることが多い。
 
-factory.
+工場。
 
-smoke.
+煙。
 
-Cold region.
+寒冷地。
 
-machine.
+機械。
 
-Isolated.
+孤立。
 
-This feeling is directly reflected in their sound.
+こうした感覚は、彼らのサウンドにそのまま投影されている。
 
-While the American West Coast thrash of the same period was urban and street-like, Voivod's music has an "industrialized cold region" feel.
+同時期のアメリカ西海岸スラッシュが都市的でストリート的だったのに対し、Voivodの音楽には「工業化された寒冷地」の感覚がある。
 
-This was a fairly rare trait in metal history.
+これはメタル史の中でもかなり珍しい個性だった。
 
-### Early demo era
+### 初期デモ時代
 
-The 1984 demo To The Death! already contained what would become Voivod.
+1984年のデモ『To The Death!』は、すでに後のVoivodらしさを含んでいた。
 
-A rough performance.
+荒削りな演奏。
 
-Punk impulse.
+パンク的衝動。
 
-Noisy guitar.
+ノイジーなギター。
 
 However, at that point there was already a feeling that it was ""not your average thrash''.
 
-Piggy's guitar playing was unique.
+Piggyのギタープレイは特異だった。
 
-At a time when traditional thrash metal focused on fast, chromatic riffs, he used a lot of dissonance and strange chords.
+一般的なスラッシュメタルがクロマチックな高速リフを重視していた時代、彼は不協和音や奇妙なコードを多用した。
 
-This guitar style would later influence many musicians.
+このギタースタイルは後に多くのミュージシャンへ影響を与えることになる。
 
-> Voivod was an "otherworldly band" that emerged from within thrash metal.
+> Voivodは、スラッシュメタルの内部から現れた“異世界のバンド”だった。
 
 ---
 
-## "War and Pain" and the era of nuclear war
+## 『War and Pain』と核戦争の時代
 
-In 1984, Voivod released their debut album, War and Pain.
+1984年、Voivodはデビューアルバム『War and Pain』を発表する。
 
 At that time, the world was shrouded in Cold War tension.
 
-- Fear of nuclear war.
-- Arms race.
-- Dystopian future view.
+- 核戦争への恐怖。
+- 軍拡競争。
+- ディストピア的未来観。
 
-This atmosphere pervaded 1980s culture, but Voivod musicalized it in their own way.
+こうした空気は1980年代カルチャー全体に浸透していたが、Voivodはそれを独自の形で音楽化した。
 
-### Ruined future world
+### 荒廃した未来世界
 
-Although ""War and Pain"' is a rough-hewn thrash metal work, Voivod"s worldview has already been clearly formed.
+『War and Pain』は、荒削りなスラッシュメタル作品でありながら、すでにVoivodの世界観が明確に形成されている。
 
-What is particularly important is that they did not simply depict Satanism or violence, but rather a ""SF-like world of war.''
+特に重要なのは、彼らが単なる悪魔主義や暴力描写ではなく、「SF的戦争世界」を描いていた点である。
 
-The title track develops a war machine-like rhythm.
+タイトル曲では、戦争機械のようなリズムが展開される。
 
-The guitar sounds like a mass of noise, not just a riff.
+ギターは単なるリフではなく、騒音の塊のように響く。
 
-This was quite unique among thrash metal at the time.
+これは当時のスラッシュメタルの中でもかなり異質だった。
 
 ### Crossover feeling
 
 Voivod's early works also had a strong hardcore punk influence.
 
-There are elements of Discharge and GBH in the tempo and aggression.
+テンポ感や攻撃性には、ディスチャージやGBH的要素が見える。
 
-However, they mixed in a strange sense of odd time signatures.
+しかし、彼らはそこに奇妙な変拍子感覚を混ぜ込んでいった。
 
-At this point, the seeds of the later progressive movement were present.
+この時点で、後のプログレッシブ化の萌芽が存在している。
 
 ### Away artwork
 
 Away"s jacket collection is extremely important to understanding Voivod"s music.
 
-His illustrations were a mix of comic books, sci-fi movies, metal art, and underground comics sensibilities.
+彼のイラストには、コミック、SF映画、メタルアート、地下コミックス的感覚が混ざっていた。
 
-Voivod's worldview was a comprehensive work that included not only sound but also visuals.
+Voivodの世界観は、音だけではなく視覚を含めた総合的作品だったのである。
 
 <div class="mermaid">
 graph TD
@@ -182,31 +181,31 @@ B --> E[Sci-Fi Imagery]
 E --> F[Voivodian Universe]
 </div>
 
-### Stranger than extreme
+### 極端さよりも異質さ
 
-In the 1980s, there was a trend in thrash music to be faster and more violent.
+1980年代スラッシュには、より速く、より暴力的であることを競う流れがあった。
 
-But Voivod is different.
+しかしVoivodは違った。
 
 They pursued "unusualness."
 
-This directly led to later progressive metal and avant-garde metal.
+それが後のプログレッシブ・メタルやアヴァンギャルド・メタルへ直結していく。
 
-> ""War and Pain'' was the moment when the strange universe called Voivod first appeared.
+> 『War and Pain』は、Voivodという異形の宇宙が初めて姿を現した瞬間だった。
 
 ---
 
-## "Rrröööaaarrr" and a slash that makes noise
+## 『Rrröööaaarrr』とノイズ化するスラッシュ
 
-1986's Rrröööaaarrr took Voivod in a more dangerous direction.
+1986"s Rrröööaaarrr was Voivod"s next move in a more dangerous direction.
 
 This album deliberately subverts the hedonism of typical thrash metal.
 
 The sound became muddy, the riffs twisted, the structure destabilized.
 
-### Piggy's Unusual Guitar
+### Piggyの異常なギター
 
-Piggy's guitar style completely entered its own realm during this period.
+Piggyのギタースタイルは、この時期に完全に独自領域へ入っていく。
 
 Unlike the power chord-based thrash music, he often used muddy chords and strange tensions.
 
@@ -216,25 +215,25 @@ The sound had a feel that could be connected to later noise rock and math rock.
 
 ### Drum and bass changes
 
-The drumming on Away was also unique.
+Awayのドラミングも独特だった。
 
 Instead of a simple high-speed beat, create gaps and gaps in the rhythm.
 
-Blacky"s bass was also important, and his unique distorted bass became the core of Voivod"s sound.
+Blackyのベースも重要で、彼の独特な歪みベースはVoivodサウンドの核となった。
 
-He is especially famous for his unique sound called "blower bass."
+特に“blower bass”と呼ばれる独自サウンドは有名である。
 
 ### Outside of thrash metal
 
-""Rrröööaaarrr'' was considered quite heretical even in the contemporary metal scene.
+『Rrröööaaarrr』は、同時代のメタルシーンでもかなり異端視された。
 
-However, in later years, this album was reevaluated.
+だが後年、このアルバムは再評価される。
 
-The reason is clear.
+理由は明確だ。
 
 Voivod was already creating "alternative metal" at this point.
 
-In the mid-1980s, they anticipated the experimental metal sensibilities that would spread from the 1990s onwards.
+In the mid-1980s, they were ahead of the curve in the experimental metal sensibilities that would spread from the 1990s onwards.
 
 ### Canada's position
 
@@ -244,45 +243,45 @@ They were free because they were not at the center of the huge American market.
 
 Independent evolution was possible outside the mold of commercial success.
 
-> ""Rrröööaaarrr'' was an important work that transformed thrash metal into noise and avant-garde.
+> 『Rrröööaaarrr』は、スラッシュメタルがノイズと前衛性へ変異した重要作だった。
 
 ---
 
-## The future begins with "Killing Technology"
+## 『Killing Technology』で始まった未来
 
-1987's Killing Technology was a turning point not just in Voivod history, but in metal history as a whole.
+1987年の『Killing Technology』は、Voivod史だけでなくメタル史全体における転換点だった。
 
-From this work, Voivod began to become progressive in earnest.
+この作品から、Voivodは本格的にプログレッシブ化していく。
 
 ### A look at technological civilization
 
 As the title suggests, technology is a major theme in this work.
 
-However, Voivod does not paint a optimistic picture of future technology.
+ただしVoivodは、未来技術を楽観的に描かない。
 
-The future they envision is an unstable, mechanized dystopia.
+彼らの描く未来は常に不安定で、機械化されたディストピアである。
 
-The late 1980s was also a time when computer technology began to rapidly penetrate general society.
+1980年代後半は、コンピューター技術が急速に一般社会へ浸透し始めた時代でもあった。
 
-Voivod was a musical expression of this change.
+Voivod was a musical expression of that change.
 
-### Progressive structure
+### プログレッシブ化する構造
 
-In "Killing Technology", the song structure changes significantly.
+『Killing Technology』では曲構造が大きく変化する。
 
-It's not a simple sprint, but the development becomes more complex.
+単純な疾走ではなく、展開が複雑化していく。
 
-- Odd time signature.
-- Strange break.
-- Spatial riff.
+- 変拍子。
+- 奇妙なブレイク。
+- 空間的リフ。
 
-These had a great influence on later technical metal.
+これらは後のテクニカル・メタルへ大きな影響を与えた。
 
-### Fusion of SF and metal
+### SFとメタルの融合
 
-Before Voivod, there were bands that focused on science fiction.
+Voivod以前にもSFを扱うバンドは存在した。
 
-However, there have been few bands that have futuristicized the musical structure itself to this extent.
+しかし、ここまで音楽構造そのものを未来化したバンドは少なかった。
 
 They were trying to create science fiction not only with the lyrics but also with the "sound itself."
 
@@ -296,77 +295,77 @@ D --> F[Avant Metal]
 D --> G[Progressive Thrash]
 </div>
 
-### Huge impact on what follows
+### 後続への巨大な影響
 
-This album was later cited by many bands as an influence.
+このアルバムは後年、多くのバンドから影響源として言及される。
 
-In particular, the impact on the following trends will be significant.
+特に以下の流れへの影響は大きい。
 
-* Technical death metal
-*Mathrock
-* Avan Metal
-* Post metal
-* Progressive slash
+* テクニカル・デスメタル
+* マスロック
+* アヴァンメタル
+* ポストメタル
+* プログレッシブ・スラッシュ
 
-Voivod instantly expanded the vision of the future of metal.
+Voivodは、メタルの未来像を一気に拡張した。
 
-### Evolution as a live band
+### ライブバンドとしての進化
 
-During this period, they also gained recognition for their live performances.
+この時期、彼らはライブでも評価を高めていく。
 
-Although the song is complex, it was extremely energetic on stage.
+複雑な楽曲でありながら、ステージでは極めてエネルギッシュだった。
 
-Snake"s insane performance was also an important part of Voivod"s appeal.
+Snakeの狂気的パフォーマンスもVoivodの重要な魅力だった。
 
-> ""Killing Technology'' was a historic work that connected thrash metal to the future.
+> 『Killing Technology』は、スラッシュメタルを未来へ接続した歴史的作品だった。
 
 ---
 
-## Completion of "Dimension Hatröss" and concept album
+## 『Dimension Hatröss』とコンセプトアルバムの完成
 
-Dimension Hatröss, released in 1988, marked Voivod's arrival into a completely unique world.
+1988年発表の『Dimension Hatröss』は、Voivodが完全に独自世界へ到達した作品である。
 
-This album has also been highly praised as a concept work.
+このアルバムは、コンセプト作品としても高く評価されている。
 
-### Voivodian universe
+### Voivodianという宇宙
 
-Voivod developed a worldview centered around its own character "Korgull".
+Voivodは独自キャラクター「Korgull」を中心とした世界観を展開していた。
 
-In Dimension Hatröss, that worldview deepens even further.
+『Dimension Hatröss』では、その世界観がさらに深化する。
 
-Science fiction, spirituality, mechanical civilization, and cosmic horror mix here.
+ここではSF、精神世界、機械文明、宇宙的恐怖が混ざり合う。
 
-### Abnormality of acoustic space
+### 音響空間の異常性
 
-The biggest feature of this album is its sense of spatial processing.
+このアルバム最大の特徴は、空間処理感覚である。
 
 The guitar doesn't sound like a wall, it just floats.
 
-The rhythm moves forward but floats.
+リズムは前進しながらも浮遊する。
 
-As a result, Voivod has acquired an "outer space sound."
+結果として、Voivodは「宇宙空間的サウンド」を獲得した。
 
-### Influence from progressive rock
+### プログレッシブ・ロックからの影響
 
-The influence of King Crimson is particularly strong.
+キング・クリムゾンの影響は特に強い。
 
-- Dissonance.
-- Irregular rhythm.
-- Spatial construction.
+- 不協和音。
+- 変則リズム。
+- 空間的構築。
 
-However, Voivod is not just a throwback to progressive rock.
+ただしVoivodは単なるプログレ回帰ではない。
 
-They maintained their punk-like violence while becoming more complex.
+彼らはパンク的暴力性を維持したまま複雑化していた。
 
-This is extremely important.
+ここが極めて重要である。
 
-### Intellectualization of metal
+### メタルの知性化
 
-In the late 1980s, metal music was becoming more sophisticated.
+1980年代後半、メタルは技巧化を進めていた。
 
-However, the special feature of Voivod was not its ""theoretical complexity," but its ""different world construction."
+しかしVoivodの特殊性は、「理論的複雑さ」ではなく「異世界構築」にあった。
 
-They treated music as a giant science fiction device.
+彼らは音楽を巨大なSF装置として扱っていたのである。
 
 <div class="mermaid">
 graph TD
@@ -377,33 +376,33 @@ D[Dissonance] --> E
 E --> F[Avant Metal Blueprint]
 </div>
 
-### Cult popularity
+### カルト的人気
 
-At this point, Voivod was far from a commercial success.
+この時点でVoivodは商業的大成功とは距離があった。
 
-However, it has gained an enthusiastic following.
+しかし熱狂的支持者を獲得していく。
 
-It received particularly high praise from musicians.
+特にミュージシャンからの評価は非常に高かった。
 
-In later years, many experimental metal bands cited Voivod as an important source.
+後年、多くの実験的メタルバンドがVoivodを重要源流として挙げている。
 
-> ""Dimension Hatröss" was a masterpiece that transformed metal into ""space architecture."
+> 『Dimension Hatröss』は、メタルを“宇宙建築”へ変化させた傑作だった。
 
 ---
 
-## "Nothingface" and its destination
+## 『Nothingface』と到達点
 
-1989"s Nothingface is often talked about as the signature work of Voivod"s career.
+1989年の『Nothingface』は、Voivodキャリアの代表作として語られることが多い。
 
-This work combines their experimental nature and ease of listening with a miraculous balance.
+この作品では、彼らの実験性と聴きやすさが奇跡的なバランスで融合した。
 
-### "Astronomy Domine" cover
+### 「Astronomy Domine」のカバー
 
 A cover of Pink Floyd"s song "Astronomy Domine" symbolizes Voivod"s musical roots.
 
-They weren't just a thrash band, they were deeply psychedelic and cosmic.
+彼らは単なるスラッシュバンドではなく、サイケデリックと宇宙感覚を深く吸収していた。
 
-### Major distribution and reputation expansion
+### メジャー流通と評価拡大
 
 "Nothingface" received relatively wide acclaim among Voivod's works.
 
@@ -413,23 +412,23 @@ But at the same time, they never fully adapted to the mainstream market.
 
 ### Complexity and Groove
 
-This work has a stronger sense of groove than before.
+この作品では、従来よりグルーヴ感が強化されている。
 
-Although complex, the music progresses fluidly.
+複雑でありながら、楽曲が流動的に進行する。
 
 This feeling also connected to later alternative metal.
 
-### Piggy's Guitar Revolution
+### Piggyのギター革命
 
 Piggy's codework was completely unique at this point.
 
-It deviates greatly from the idea of ​​a general metal guitar.
+一般的メタルギターの発想から大きく逸脱している。
 
-Establishing beauty while using dissonance.
+不協和音を使いながら、美しさを成立させる。
 
-This ability was Voivod's greatest feature.
+この能力がVoivod最大の特徴だった。
 
-### The Eve of the End of the Cold War
+### 冷戦終結前夜
 
 1989 was also the year of the fall of the Berlin Wall.
 
@@ -437,49 +436,49 @@ As the Cold War structure began to change, Voivod's nuclear war worldview began 
 
 They were not just a band of the times, but an expression of civilizational anxiety itself.
 
-> ""Nothingface"' was a work that crystallized Voivod"s experimentalism and musicality at the highest level.
+> ""Nothingface"' was the crystallization of Voivod"s experimentalism and musicality at the highest level.
 
 ---
 
 ## Changes and struggles in the 1990s
 
-In the 1990s, the metal scene changed drastically.
+1990年代に入ると、メタルシーンは大きく変化する。
 
-- Grunge.
-- Alternative.
-- Industrial.
+- グランジ。
+- オルタナティブ。
+- インダストリアル。
 
-The market for traditional thrash metal was shrinking.
+従来型スラッシュメタルは市場縮小へ向かっていった。
 
-Voivod will also explore new directions amidst these changes.
+Voivodもまた、その変化の中で新たな方向を模索する。
 
 ### Melody version of "Angel Rat"
 
-With 1991's Angel Rat, Voivod took a more melodic direction.
+1991年の『Angel Rat』では、Voivodはよりメロディアスな方向へ進んだ。
 
-The psychedelic colors and rock feel are stronger here.
+ここではサイケデリック色やロック的感覚が強まっている。
 
-Although some fans were confused, this work was reevaluated in later years.
+一部ファンは戸惑ったが、この作品も後年高く再評価される。
 
 ### "The Outer Limits"
 
 1993's ""The Outer Limits'' again strengthens the sci-fi tone.
 
-The long song "Jack Luminous" became an important song symbolizing Voivod's progressive nature.
+長尺曲「Jack Luminous」は、Voivodのプログレッシブ性を象徴する重要曲となった。
 
 ### Blacky leaves
 
-Bassist Blacky left the band around 1991.
+ベーシストBlackyは1991年頃に脱退する。
 
-This brought about a huge change in Voivod's sound.
+これはVoivodサウンドに大きな変化をもたらした。
 
 His distorted bass sound was an important element supporting Voivod's mechanical sense.
 
-### Market and Experimentality
+### 市場と実験性
 
-In the 1990s, the metal market was undergoing major restructuring.
+1990年代メタル市場は大きく再編されていた。
 
-Among them, Voivod remained more experimental than commercial.
+その中でVoivodは、商業性より実験性を維持し続けた。
 
 Although this was difficult, it also increased their value in the long term.
 
@@ -492,11 +491,11 @@ C --> E[The Outer Limits]
 E --> F[Progressive Legacy]
 </div>
 
-### Connection with the alternative era
+### オルタナティブ時代との接続
 
 What"s interesting is that Voivod"s sound had a surprising affinity with 1990s alternative sensibilities.
 
-noise.
+ノイズ。
 
 instability.
 
@@ -510,99 +509,99 @@ These naturally connect to later post-metal and alternative metal.
 
 ## An innovator named Piggy
 
-Piggy's presence is absolutely essential when talking about Voivod.
+Voivodを語る上で、Piggyの存在は絶対に欠かせない。
 
-He occupies a very special place in metal guitar history.
+彼はメタルギターの歴史において極めて特殊な位置を占めている。
 
 ### The man who changed the concept of riffing
 
-Normal thrash guitar emphasizes aggression and speed.
+通常のスラッシュギターは、攻撃性と速度を重視する。
 
-However, Piggy created an ""unstable space.''
+しかしPiggyは、「不安定な空間」を作った。
 
-His code is muddy.
+彼のコードは濁っている。
 
-However, that turbidity was what made the Voivod sound.
+だが、その濁りこそがVoivodサウンドを成立させていた。
 
-### Distance from jazz and progressive rock
+### ジャズやプログレとの距離感
 
 Piggy was not a show-off guitarist.
 
 There was also distance from the fast-shooting competition.
 
-Rather, he was a space architect.
+Rather, he was a space designer.
 
-In that sense, he is often compared to Robert Fripp.
+その意味で、ロバート・フリップとの比較も多い。
 
 ### Impact on subsequent
 
-Piggy's influence is far-reaching.
+Piggyの影響は非常に広範囲に及ぶ。
 
 * Gojira
 * Mastodon
 *Opeth
-* Around Meshuggah
-* Technical metal group after Voivod
+* Meshuggah周辺
+* Voivod以降のテクニカルメタル群
 
 Many bands have been influenced by his "dissonant aesthetic".
 
 ### Feelings rather than music theory
 
-Importantly, Piggy's music was not theory-driven.
+重要なのは、Piggyの音楽が理論先行ではなかった点である。
 
-He was building guitars with a unique feel.
+彼は独自感覚でギターを構築していた。
 
-As a result, Voivod has a unique floating feeling that is difficult to explain.
+結果として、Voivodには説明困難な独特の浮遊感が生まれた。
 
-### Piggy's death
+### Piggyの死
 
-In 2005, Piggy died of colon cancer.
+2005年、Piggyは大腸癌によって死去する。
 
-This was a devastating blow to Voivod.
+これはVoivodにとって壊滅的打撃だった。
 
-However, the recordings and ideas he left behind were used in his later works.
+しかし彼の残した録音やアイデアは、その後の作品にも活用されることになる。
 
-> Piggy was an innovator who brought the metal guitar to space.
+> Piggyは、メタルギターを“宇宙空間化”した革新者だった。
 
 ---
 
-## Away's visual universe
+## Awayのビジュアル宇宙
 
 Voivod is not just a sound band.
 
-Away's artwork was a huge part of shaping the Voivod world.
+Awayによるアートワークは、Voivod世界を形成する巨大要素だった。
 
 ### DIY spirit
 
-From the beginning, Away was in charge of jackets and logos.
+初期からAwayはジャケットやロゴを担当していた。
 
-This is similar to the punk DIY spirit.
+これはパンク的DIY精神にも通じる。
 
-The Voivod were building their own world.
+Voivodは、自分たち自身で世界を構築していたのである。
 
-### SF comic worldview
+### SF comic world view
 
-The world Away depicts is a mixture of Mobius, underground comics, and science fiction animation.
+Awayの描く世界には、メビウス、地下コミックス、SFアニメーション的感覚も混在している。
 
-As a result, Voivod became "readable metal."
+その結果、Voivodは「読むことのできるメタル」になった。
 
-### Music and visual integration
+### 音楽と視覚の統合
 
-With Voivod, artwork and sound are perfectly connected.
+Voivodでは、アートワークとサウンドが完全に結びついている。
 
-This is very important.
+これは非常に重要である。
 
-They weren't just creating album jackets, they were creating world settings.
+彼らは単なるアルバムジャケット制作ではなく、世界設定を作っていた。
 
-### Expanding Metal Aesthetics
+### メタル美学の拡張
 
-Much of 1980s metal featured muscular, exaggerated visuals.
+1980年代メタルの多くは、筋肉的で誇張されたビジュアルを用いていた。
 
-But Voivod is different.
+しかしVoivodは違う。
 
-They depicted an unstable and distorted future city.
+彼らは不安定で歪んだ未来都市を描いた。
 
-This sense could be connected to later cyberpunk culture.
+そのセンスは後のサイバーパンク文化とも接続可能だった。
 
 <div class="mermaid">
 mindmap
@@ -621,115 +620,115 @@ mindmap
       Isolation
 </div>
 
-### Consistency of worldview
+### 世界観の一貫性
 
 Voivod changes with each work.
 
 However, at its core, the sense of an ""unstable future world'' remains consistent.
 
-This has pushed them into a ""general artistic band'' rather than just a genre band.
+This has pushed them beyond just a genre band to a ""general artistic band.''
 
 > The artwork for Away was a huge device called Voivod that visualizes the universe.
 
 ---
 
-## Relaunch and Voivod in the 21st century
+## 再始動と21世紀のVoivod
 
-Since the 2000s, Voivod has continued its activities despite facing difficulties.
+2000年代以降、Voivodは困難を抱えながらも活動を継続する。
 
 ### Joined by Jason Newsted
 
-There was also a time when Jason Newsted, formerly of Metallica, joined the group.
+元メタリカのJason Newstedが加入した時期も存在した。
 
-He was known as an avid Voivod fan.
+彼はVoivodの熱心なファンとして知られていた。
 
-The addition of Newsted has also led to a renewed focus on Voivod.
+Newsted加入は、Voivodへの再注目にもつながった。
 
-### Continuation after Piggy's death
+### Piggy没後の継続
 
 After Piggy's death, it seemed difficult for the band to continue.
 
-But Voivod didn't stop working.
+しかしVoivodは活動を止めなかった。
 
-This was not just an act of maintaining nostalgia, but an act of continuing the very concept of Voivod.
+これは単なるノスタルジー維持ではなく、Voivodという概念そのものを継続する行為だった。
 
-### Connecting with the new generation
+### 新世代との接続
 
-In the 21st century, Voivod is being reevaluated by the younger generation.
+21世紀に入り、Voivodは若い世代から再評価されていく。
 
-The reason is clear.
+理由は明確である。
 
-This is because modern metal contains a lot of Voivod elements.
+現代メタルは、Voivod的要素を大量に含んでいるからだ。
 
-Dissonance.
+不協和音。
 
-Odd time signature.
+変拍子。
 
 SF worldview.
 
-Acoustic spatiality.
+音響的空間性。
 
 What was once heresy later became standard.
 
-### After "Target Earth"
+### 『Target Earth』以降
 
-Since 2013's Target Earth, Voivod has once again approached its creative peak.
+2013年の『Target Earth』以降、Voivodは再び創造的ピークへ近づいていく。
 
-They weren't just a comeback band.
+彼らは単なる復活バンドではなかった。
 
 It is still evolving.
 
-### Spirit of not becoming a veteran
+### ベテラン化しない精神
 
 Many long-lived metal bands end up being replays of their past.
 
-But Voivod was relatively free of that.
+しかしVoivodは比較的そうならなかった。
 
-They still maintain their experimental spirit.
+彼らは現在でも実験精神を維持している。
 
-> In the 21st century, Voivod continues to be an ongoing experiment rather than a "legend from the past."
+> 21世紀のVoivodは、“過去の伝説”ではなく、現在進行形の実験体であり続けている。
 
 ---
 
-## What Voivod leaves behind
+## Voivodが残したもの
 
-Voivod wasn't a huge commercial band.
+Voivodは巨大商業バンドではなかった。
 
-However, in terms of influence, he was extremely important.
+しかし影響力という意味では、極めて大きな存在だった。
 
-### Influence on progressive metal
+### プログレッシブ・メタルへの影響
 
-Voivod's sensibilities are deeply pervasive in current progressive metal.
+現在のプログレッシブ・メタルには、Voivod的感覚が深く浸透している。
 
-Metal is not just a technical competition, but a spatial design.
+単なる技巧競争ではなく、空間設計としてのメタル。
 
-This was an important area that Voivod pioneered.
+これはVoivodが切り開いた重要領域だった。
 
-### Metal becoming avant-garde
+### アヴァンギャルド化するメタル
 
-Before Voivod, metal was a relatively stylized music.
+Voivod以前、メタルは比較的様式化された音楽だった。
 
-But they introduced the avant-garde from within.
+しかし彼らは、その内部から前衛性を導入した。
 
-As a result, the path of avant metal and experimental metal expanded.
+結果として、アヴァンメタルや実験的メタルの道が広がった。
 
-### Authentic fusion of SF and metal
+### SFとメタルの本格融合
 
-Metal that dealt with science fiction images existed.
+SF的イメージを扱うメタルは存在していた。
 
 But Voivod has reduced this down to its sonic structure.
 
-This was a very important innovation.
+これは非常に重要な革新だった。
 
 ### The value of "being different"
 
-This is perhaps Voivod's greatest achievement.
+Voivod最大の功績は、おそらくここにある。
 
-They weren't afraid to be "weird."
+彼らは「変であること」を恐れなかった。
 
 Moreover, he maintained this uniqueness to the very end.
 
-As a result, they went down in history apart from fashion.
+その結果、彼らは流行とは別軸で歴史に残ることになった。
 
 <div class="mermaid">
 timeline
@@ -748,37 +747,37 @@ timeline
 
 ### The future of metal
 
-Voivod's music sounds futuristic even today.
+Voivodの音楽は、今聴いても未来的である。
 
 This is extremely rare.
 
-While much 1980s metal still retains a strong sense of the times, Voivod still resonates as the "sound of the future."
+多くの1980年代メタルが時代性を強く残している中、Voivodは今なお“未来の音”として響く。
 
-That"s because they weren"t just a trend, they were turning ""anxiety about the future'' into music.
+それは彼らが単なる流行ではなく、「未来不安そのもの」を音楽化していたからである。
 
-> Voivod transformed metal from a style of the past to a device for imagining the future.
+> Voivodは、メタルを過去の様式ではなく、“未来を想像する装置”へ変化させた。
 
 ---
 
-## Chronology
+## 年表
 
-| Year | Events |
+| 年    | 出来事                    |
 | ---- | ---------------------- |
-| 1982 | Formed in Quebec, Canada |
-| 1984 | "War and Pain" announced |
-| 1986 | "Rrröööaaarrr" announced |
-| 1987 | "Killing Technology" announced |
+| 1982 | カナダ・ケベック州で結成           |
+| 1984 | 『War and Pain』発表       |
+| 1986 | 『Rrröööaaarrr』発表       |
+| 1987 | 『Killing Technology』発表 |
 | 1988 | "Dimension Hatröss" announced |
-| 1989 | "Nothingface" announced |
-| 1991 | "Angel Rat" announced |
+| 1989 | 『Nothingface』発表        |
+| 1991 | 『Angel Rat』発表          |
 | 1993 | "The Outer Limits" announced |
-| 2005 | Piggy passes away |
-| 2013 | "Target Earth" announced |
-| 2022 | Celebrating 40th anniversary |
+| 2005 | Piggy死去                |
+| 2013 | 『Target Earth』発表       |
+| 2022 | 結成40周年期を迎える            |
 
 ---
 
-## Main albums
+## 主要アルバム
 
 | Works | Publication year | Features |
 | ------------------ | ---- | -------------- |
@@ -786,8 +785,8 @@ That"s because they weren"t just a trend, they were turning ""anxiety about the 
 | Rrröööaaarrr | 1986 | Noisy experimental thrash |
 | Killing Technology | 1987 | Technicalization and sense of the future |
 | Dimension Hatröss | 1988 | Completed as a concept work |
-| Nothingface | 1989 | Fusion of experimentation and perfection |
-| Angel Rat | 1991 | Change to emphasis on melody |
+| Nothingface        | 1989 | 実験性と完成度の融合     |
+| Angel Rat          | 1991 | メロディ重視への変化     |
 | The Outer Limits | 1993 | Long progressive version |
 | Target Earth | 2013 | Re-evaluation of modern Voivod |
 
@@ -795,11 +794,11 @@ That"s because they weren"t just a trend, they were turning ""anxiety about the 
 
 ## At the end
 
-Voivod was a mutation of thrash metal.
+Voivodは、スラッシュメタルの突然変異だった。
 
-However, they did not end with mere mutations.
+しかし彼らは、単なる突然変異で終わらなかった。
 
-This abnormality was inherited in later generations and permeated into many areas such as progressive metal, avant metal, post metal, and technical metal.
+その異常性は後の時代に継承され、プログレッシブ・メタル、アヴァンメタル、ポストメタル、テクニカルメタルなど、多くの領域へ浸透していった。
 
 They didn't create "futuristic metal."
 
@@ -807,7 +806,7 @@ He was translating the anxiety, mechanization, isolation, informationization, an
 
 That's why Voivod never gets old even when you listen to it now.
 
-In fact, modern society is closer to the world they envisioned.
+むしろ現代社会の方が、彼らの描いた世界へ近づいている。
 
 Information that becomes noise.
 
@@ -815,13 +814,13 @@ Divide.
 
 Fusion with machines.
 
-An unstable civilization.
+不安定な文明。
 
 Voivod has been making them sound since the 1980s.
 
-And that sound still resonates today as if it is coming from the future.
+And the sound still resonates as if it is coming from the future.
 
-> Voivod were one of the first innovative bands to translate "anxiety about the future" into metal.
+> Voivodとは、“未来の不安”をメタルへ変換した最初期の革新的バンドの一つだった。
 
 
 ---
@@ -829,7 +828,7 @@ And that sound still resonates today as if it is coming from the future.
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FsrBKe5auGg?si=fNq6sIF857tojDuP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

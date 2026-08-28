@@ -9,111 +9,111 @@ permalink: /zh-hant/column-90s-uktechno/
 tags:
 - UK Techno
 - 90s
-title: '[專欄]英國Techno的黃金時代'
+title: 【コラム】 UKテクノの黄金時代
 ---
 
 
-## 英國 techno 的黃金時代：記錄 20 世紀 90 年代的聲音與奮鬥
+## UKテクノの黄金時代：1990年代の音と闘争の記録
 
-文：mmr｜主題：英國科技文化
+文：mmr｜テーマ：UKテクノ・カルチャー
 
 
-<小時>
+<hr>
 
-### Techno，另一場英國革命
-1990 年代，電子音樂在聲音和精神上不斷深化和變異，就像一個出生在底特律、在英國長大的孩子一樣。英國不僅接受了這種音樂，還將其從地下擴展到俱樂部、狂歡和聲音實驗場所。在這篇文章中，我們將從文化、音樂、人物和唱片公司的角度來全面介紹 90 年代英國 techno 的全貌。
+### テクノ、もうひとつのUK革命
+1990年代、テクノはデトロイトで生まれた子供がUKで育ったかのように、その音と精神を深化させ、変異させていく。イギリスはこの音楽をただ受け入れただけでなく、アンダーグラウンドからクラブ、レイヴ、そして音響実験の場へと拡張した。この記事では、90年代UKテクノの全体像を文化、音楽、人物、レーベルの視点から網羅していく。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 銳舞文化與地下音樂的融合
-繼 1988 年《愛的第二個夏天》之後，英國陷入了迷幻音樂和銳舞的爆發。此後，硬核、碎拍和電子音樂的各種亞種在 90 年代初在地下發展起來。
+### レイヴカルチャーとアンダーグラウンドの融合
+1988年の“セカンド・サマー・オブ・ラブ”を経て、UKはアシッド・ハウスとレイヴの爆発的な熱狂に包まれる。その余波の中で、90年代初頭にはハードコア、ブレイクビート、そしてテクノの多様な亜種が地下で育っていった。
 
-另一方面，柴契爾政府的垮台和經濟差距的擴大，導致年輕人的不滿和叛逆情緒烙印在音樂中。英國的 techno 不僅僅是舞曲，它也是一場配備音響系統和非法狂歡的社會運動。
+一方でサッチャー政権の終焉と経済格差の広がりは、若者たちの不満と反抗心を音楽に刻ませた。UKテクノはただのダンスミュージックではなく、サウンドシステムと非合法レイヴを武器にした社会運動でもあった。
 
 
-<小時>
+<hr>
 
-### 創新者的血統
+### 革新者たちの系譜
 
-[**● 黑狗**](https://amzn.to/3IHLfS5)
+[**● The Black Dog**](https://amzn.to/3IHLfS5)
 
-智慧科技（IDM）的先驅。雖然受到底特律的影響，他們發展出更黑暗、更聰明的聲音。 Warp Records 發行的 ['Bytes' (1993)](https://amzn.to/46ZmuJ2) 具有標誌性意義。
+インテリジェント・テクノ（IDM）の先駆者。デトロイトの影響を受けつつも、よりダークで知的なサウンドを展開。Warp Recordsからリリースされた[『Bytes』（1993年）](https://amzn.to/46ZmuJ2)は象徴的。
 
-[**● 外科醫生（安東尼·柴爾德）**](https://amzn.to/3J8lKJC)
+[**● Surgeon（アンソニー・チャイルド）**](https://amzn.to/3J8lKJC)
 
-伯明翰科技的旗手。堅硬、工業、堅固。他因發行《Tresor》和《Downwards》而聲名鵲起，至今仍是英國 techno 的核心人物。
+バーミンガム・テクノの旗手。ハードでインダストリアル、そしてソリッド。TresorやDownwardsからのリリースで名を上げ、現在でもUKテクノの中核にいる。
 
-[**● 盧克·斯萊特**](https://amzn.to/4mZWTpi)
+[**● Luke Slater**](https://amzn.to/4mZWTpi)
 
-被稱為[行星攻擊系統](https://amzn.to/3J1f2oO)。開發艱苦而時髦的技術，由 NovaMute 和其他人在 90 年代末發布。
+[Planetary Assault Systems](https://amzn.to/3J1f2oO)名義で知られる。ハードでありながらもファンキーなテクノを展開し、90年代後半にはNovaMuteなどからもリリース。
 
-[**● 瑞吉斯與英國謀殺男孩**](https://amzn.to/4mZWUtm)
+[**● Regis & British Murder Boys**](https://amzn.to/4mZWUtm)
 
-英國工業技術的核心人物。 Regis 創立了 Downwards 廠牌，並創立了伯明罕自己的反烏托邦音樂。
+UKのインダストリアル・テクノの核心人物。RegisはDownwardsレーベルを設立し、バーミンガム独自のディストピア・サウンドを確立。
 
 [**● Autechre**](https://amzn.to/4q1OyUJ)
 
-雖然更多的是 IDM 而不是純粹的 techno，但他們和 Warp Records 一起代表了英國 techno 知識的一面。 《Incunabula》和《Amber》是90年代的代表作品。
+純粋なテクノというよりIDMだが、Warp Recordsと共にUKテクノの知的側面を象徴。『Incunabula』『Amber』などは90年代を代表する作品。
 
 
-<小時>
+<hr>
 
-### 英國科技之母
+### UKテクノの母胎
 
-[**● Warp Records（謝菲爾德）**](https://amzn.to/3L81dp5)
+[**● Warp Records（シェフィールド）**](https://amzn.to/3L81dp5)
 
-早期他們發布了bouncy bleep techno，後來轉戰IDM聖地。包括 LFO、Nightmares on Wax、Autechre、The Black Dog 等。
+初期はバウンシーなブリープテクノをリリースし、後にIDMの聖地へ。LFO、Nightmares on Wax、Autechre、The Black Dogなどが所属。
 
-[**● 向下（伯明罕）**](https://amzn.to/4ocHKSr)
+[**● Downwards（バーミンガム）**](https://amzn.to/4ocHKSr)
 
-由雷吉斯創立。他與外科醫生和其他人一起定義了“伯明翰聲音”，專注於工業和禁慾聲音。
+Regisが設立。インダストリアルで禁欲的なサウンドを中心に、Surgeonらと共に「バーミンガム・サウンド」を定義。
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
-Mute Records 的子廠牌。與 Luke Slater、Speedy J 和 Laurent Garnier 等藝術家一起，他們不僅傳播到了英國，還傳播到了整個歐洲的 techno 場景。
+Mute Recordsのサブレーベル。Luke Slater、Speedy J、Laurent Garnierなどを抱え、UKのみならずヨーロッパ全体のテクノシーンにも波及。
 
-[**● 和平青蛙**](https://amzn.to/42BtHxw)
+[**● Peacefrog**](https://amzn.to/42BtHxw)
 
-該廠牌引進了更深層的、基於底特律的英國技術。名單中包括盧克·斯萊特 (Luke Slater)、史黛西·普倫 (Stacey Pullen) 和保羅·麥克 (Paul Mac)。
-
-
-
-<小時>
-
-### 僵化、實驗性、叛逆
-
-90 年代英國 techno 具有以下聲音特徵：
-
-- 來自工業/EBM的影響（尤其是向下類型）
-
-- 實驗結構與聲音設計（Warp風格）
-
-- 堅硬且最小的凹槽（Surgeon、Slater 型）
-
-- 社會和政治訊息的內化（銳舞文化的影響）
-
-值得注意的是，在英國，人們不僅對techno的「功能性」有更強的認識，而且對「表現力」和「深思熟慮」也有更強烈的認識。
+よりディープでデトロイト由来のUKテクノを紹介したレーベル。Luke Slater、Stacey Pullen、Paul Macらが名を連ねる。
 
 
-<小時>
 
-### 音樂與空間的政治
-20 世紀 90 年代的英國 techno 是一種重視場地而非音樂的文化。從在農村倉庫和戶外場地舉行的非法狂歡，到將音響系統裝到卡車上四處走動的自由派對人員（如螺旋部落），聲音佔據了物理空間，動搖了現有的社會秩序。
+<hr>
+
+### 硬質、実験的、そして反抗的
+
+90年代UKテクノは、次のような音的特徴を持つ：
+
+- インダストリアル／EBMからの影響（特にDownwards系）
+
+- 実験的な構造とサウンドデザイン（Warp系）
+
+- ハードでミニマルなグルーヴ（Surgeon、Slater系）
+
+- 社会的・政治的メッセージの内在化（レイヴ文化の影響）
+
+テクノの「機能性」だけでなく、「表現性」「思想性」がUKではより強く意識されていた点は注目すべきだろう。
+
+
+<hr>
+
+### 音楽と空間の政治学
+90年代UKテクノは、音楽以上に“場”を重要視した文化だった。田舎の倉庫や野外フィールドで開催される違法レイヴ、音響システムをトラックに積んで移動するフリーパーティ・クルー（Spiral Tribeなど）など、音は物理空間を占拠し、既存の社会秩序を揺さぶった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 英國科技的遺產
-20 世紀 90 年代的英國 techno 追求聲音和思想的激進可能性，同時遠離商業主義。現今大部分的科技音樂、工業音樂、噪音音樂和實驗音樂都受到它的影響。
+### UKテクノの残した遺産
+90年代のUKテクノは、商業主義とは距離を置きつつ、音と思想のラディカルな可能性を追求した。現在のテクノ、インダストリアル、ノイズ、実験音楽の多くがその影響を受けている。
 
-那個時代的英國電子音樂並不是為了跳舞，而是為了證明它的存在。這種噪音的迴響仍然在現代地下產生共鳴。
+あの時代のUKテクノは、「踊るため」ではなく、「存在を主張するため」に鳴らされた。今なお、そのノイズの残響は、現代のアンダーグラウンドに響いている。
 
-<小時>
+<hr>
 
-### [參考光碟指南]
+### 【参考ディスクガイド】
 
 <div class="table-border">
 <table>
@@ -174,19 +174,19 @@ Mute Records 的子廠牌。與 Luke Slater、Speedy J 和 Laurent Garnier 等�
 
 ---
 
-### 概括
+### まとめ
 
-90 年代的英國 techno 不僅是一場音樂運動，更是這座城市的心跳。冰冷的節奏和朦朧的憂鬱。
+90年代のUKテクノは、ただの音楽ムーブメントではなく、都市の鼓動そのものだった。鉄のように冷たいビートと、霧のように漂うメランコリー。
 
-其間，一場地下狂熱誕生了。謝菲爾德的一家前工廠、伯明罕的一座倉庫、倫敦黎明前的俱樂部——它們都以相同的節奏振動。
+その狭間で、アンダーグラウンドの熱狂が生まれた。Sheffieldの工場跡、Birminghamの倉庫、Londonの夜明け前のクラブ──どこも同じリズムで震えていた。
 
-Techno從工業的迴響中創造出詩歌，呈現出一種破壞與重建的美學。英國techno在解構聲音和時間的同時，聽起來像是「機器的靈魂」。這是一場安靜而暴力的革命的記憶，至今仍在繼續。
+テクノは産業の残響から詩を生み、破壊と再構築の美学を提示したのだ。音と時間を解体しながら、UKテクノは“機械の魂”を鳴らした。それは今も続く、静かで激しい革命の記憶である。
 
 ---
 
 
-### 相關專欄
+### 関連コラム
 
-🔗 [[專欄] Luke Slater：英國techno及其音樂世界的先驅](https://monumental-movement.jp/Column-Luke-Slater)
+🔗 [【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[專欄]從techno的起源到現在－透過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)

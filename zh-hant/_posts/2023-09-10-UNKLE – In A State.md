@@ -11,7 +11,7 @@ tags:
 - House
 - Progressive
 - Remix
-title: UNKLE－處於一種狀態
+title: UNKLE – In A State
 ---
 
 
@@ -23,18 +23,18 @@ title: UNKLE－處於一種狀態
 
 「In a State」は、イギリスのエレクトロニック・ミュージック・グループであるUNKLE（アンクル）による楽曲です。この曲は、彼らのアルバム「Psyence Fiction」に収録されており、その中でも特に注目されたトラックの一つです。
 
-Sasha 的這首混音版尤其以其電子音樂元素和獨特的節奏而聞名。
+特にこのSashaによるリミックスは、エレクトロニック・ミュージックの要素と独特のリズムが特徴で有名なトラックです。
 
-UNKLE的歌曲受到了廣大樂迷的支持，是最受歡迎的樂團之一，尤其是在電子音樂愛好者中。
+UNKLEの楽曲は幅広い音楽ファンから支持を受けており、特にエレクトロニック・ミュージック愛好者にとっては人気のあるバンドの一つです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. In A State (Sasha Remix)
 
 B. In A State (Album Version)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aZ7MLvaO2U?si=c90K8CISqlZW6PXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

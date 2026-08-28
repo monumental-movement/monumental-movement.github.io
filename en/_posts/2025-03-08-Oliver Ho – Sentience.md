@@ -15,7 +15,7 @@ title: Oliver Ho – Sentience
 
 Oliver Ho is a techno DJ and producer based in London.
 
-"Sentience" is Oliver Ho"s masterpiece, released in 1999 on Blueprint, a label founded by James Ruskin and Richard Polson. Oliver Ho"s debut album was also released on the same label.
+「Sentience」は、James RuskinとRichard Polson によって設立されたレーベルBlueprintから1999年にリリースされたOliver Hoの代表作。Oliver Hoのデビューアルバムも同レーベルからリリースされた。
 
 
 #### Tracklist
@@ -35,5 +35,5 @@ Oliver Ho is a techno DJ and producer based in London.
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40117909925?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG18zTBt9XI?si=ysxGVMcvsKBUeD1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

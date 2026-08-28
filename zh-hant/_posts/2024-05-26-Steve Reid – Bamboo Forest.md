@@ -11,17 +11,17 @@ tags:
 - Healing
 - Spiritual
 - 80s
-title: 史蒂夫·里德——竹林
+title: Steve Reid – Bamboo Forest
 ---
 
 
-史蒂夫·里德是一位美國爵士打擊樂演奏家和製作人。他是 The Rippingtons 的聯合創始人和 Supertramp 的成員。
+Steve Reid （スティーヴンリード ）は、アメリカのジャズパーカッショニスト＆プロデューサー。The Rippingtons（ザ・リッピントンズ）の共同創設者であり、Supertramp（スーパートランプ）のメンバーとしても活躍した。
 
-1994年發行的《竹林》是他的首張個人專輯，受到世界節奏的影響，在此期間他兩次被爵士雜誌評為年度打擊樂演奏家。
+1994年にリリースされた「Bamboo Forest」は、ワールドビートの影響を受けて制作したソロデビューアルバムであり、この時期に米ジャズ誌Jazzizのパーカッショニスト・オブ・ザ・イヤーに２度選ばれた。
 
-參與這張專輯的成員包括活躍於融合爵士樂界的美國薩克斯風演奏家 Jeff Kashiwa 和​​活躍於 The Rippingtons 的貝斯手 Kim Stone。
+このアルバムの参加メンバーは、US出身のジャズ・フュージョン界で活躍するサックス奏者Jeff Kashiwa（ジェフ・カシワ）、The Rippingtonsで活躍したベーシストKim Stone。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Amazon Mist
 2. Catch The Wind
@@ -35,7 +35,7 @@ title: 史蒂夫·里德——竹林
 10. Balloon Safari
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

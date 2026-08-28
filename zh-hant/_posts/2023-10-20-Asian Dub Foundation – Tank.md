@@ -9,13 +9,13 @@ permalink: /zh-hant/asian-dub-foundation-tank/
 tags:
 - Electronica
 - Hiphop
-title: 亞洲配音基金會 – Tank
+title: Asian Dub Foundation – Tank
 ---
 
 
-《Tank》是AsianDubFoundation的第五張專輯。這張專輯在配音音樂製作人阿德里安·舍伍德的幫助下由 Ghetto Priest 演唱。
+「Tank」は、AsianDubFoundation の５枚目のアルバム。このアルバムでは、ダブミュージック専門のプロデューサーAdrian Sherwood（エイドリアン・シャーウッド）の協力を得て、Ghetto Priest（ゲットー・プリースト）がボーカルとして参加した。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Flyover
 2. Tank
@@ -30,7 +30,7 @@ title: 亞洲配音基金會 – Tank
 11. Melody 7
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m14272970015?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14272970015?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_tPVMwSFzs?si=Y-gcDqnXt2lLvR92" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

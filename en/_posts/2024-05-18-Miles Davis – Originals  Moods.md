@@ -13,11 +13,11 @@ title: Miles Davis – Originals / Moods
 ---
 
 
-One of Miles Davis' four-cassette compilations released in 1988. The tape is chrome tape.
+1988年にリリースされたマイルスデイヴィスの4本カセットコンピレーションの中の一つ。テープはクロームテープ。
 
-F-1 and F-3 are produced by Howard A. Roberts, known for his work with Howard Roberts Chorale and Harry Belafonte.
+F-1とF-3は、 Howard Roberts ChoraleやHarry Belafonte （ハリー ベラフォンテ）との仕事で知られるHoward A. Roberts（ハワードロバーツ）がプロデュース。
 
-F-4"s "It"s About That Time" features Dave Holland on bass and Chick Corea and Joe Zawinul on piano.
+F-4の「It's About That Time」は、bassがDave Holland（デイヴ・ホランド）、pianoがChick Corea（チック・コリア）と Joe Zawinul（ジョー・ザヴィヌル）。
 
 #### Tracklist
 ```md
@@ -34,5 +34,5 @@ F-4. It's About That Time
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15443418452?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqNTltOGh5c?si=zK-dqJEoz3xqXOgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,20 +10,20 @@ tags:
 - Rockabilly
 - RockAndRoll
 - CountryMusic
-title: '[Column] Wanda Jackson: The Queen Who Turned Country Into Rock "n" Roll'
+title: '【コラム】 Wanda Jackson: The Queen Who Turned Country Into Rock ’n’ Roll'
 ---
 
 
-## America before rock and roll
+## ロックンロール以前のアメリカ
 
-Text: mmr | Theme: In the 1950s, in the male-dominated world of rock and roll, Wanda Jackson proved that women could rock. Follow her life as she cuts through the era with her voice, crossing country, rockabilly, and gospel.
+文：mmr｜テーマ：1950年代、男性中心だったロックンロールの世界で、ワンダ・ジャクソンは“女性でもロックできる”ことを証明した。カントリー、ロカビリー、ゴスペルを横断しながら、自分の声で時代を切り裂いた彼女の人生を追う
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -32,37 +32,37 @@ color: #fff;
 </style>
 
 
-After World War II, the musical landscape in America was rapidly changing. Country music spread mainly on local radio stations, rhythm and blues was nurtured in the black community, and gospel took root in the South. As these things mixed together, a new youth culture called "rock and roll" was about to be born.
+第二次世界大戦後のアメリカでは、音楽の景色が急速に変わり始めていた。地方ラジオ局を中心に広がっていたカントリー音楽、黒人コミュニティで育まれていたリズム＆ブルース、南部に根付くゴスペル。それらが混ざり合い、新しい若者文化として“ロックンロール”が誕生しようとしていた。
 
-But in the early 1950s, rock and roll was largely a man's world. Only male singers strum their guitars, scream, and get the audience excited. Female singers were still expected to be ""elegant" and ""neat."
+しかし1950年代前半、ロックンロールはほぼ男性の世界だった。ギターをかき鳴らし、叫び、観客を熱狂させるのは男性歌手ばかり。女性シンガーには、まだ「上品さ」や「清楚さ」が求められていた。
 
-At that time, there was a woman who appeared with a fierce shout and a sharp sense of rhythm.
+そんな時代に、激しいシャウトと鋭いリズム感で現れた女性がいた。
 
-That person was Wanda Jackson.
+その人物こそ、ワンダ・ジャクソンだった。
 
 <div class="mermaid">
 graph TD
-A["Country"] --> D["The Birth of Rock"n"Roll"]
-B["Rhythm & Blues"] --> D
-C["gospel"] --> D
-D --> E["Explosion of youth culture"]
-E --> F["Wanda Jackson appears"]
+A["カントリー"] --> D["ロックンロール誕生"]
+B["リズム＆ブルース"] --> D
+C["ゴスペル"] --> D
+D --> E["若者文化の爆発"]
+E --> F["ワンダ・ジャクソン登場"]
 </div>
 
-> At a time when rock"n"roll was still "men's music," Wanda Jackson jumped head-on into it.
+> ロックンロールがまだ“男性の音楽”だった時代、ワンダ・ジャクソンはそこへ真正面から飛び込んでいった。
 
 ---
 
 
-## A girl who grew up in Oklahoma
+## オクラホマで育った少女
 
-Wanda Lavon Jackson was born on October 20, 1937 in Maude, Oklahoma, USA. Music has been around her since she was young, and she grew up listening to country music under the influence of her father.
+ワンダ・ラヴォン・ジャクソンは1937年10月20日、アメリカ・オクラホマ州モードで生まれた。幼い頃から音楽が身近にあり、父親の影響でカントリー音楽を聴いて育った。
 
-The family later moved to California, but returned to Oklahoma. During her nomadic life, she was strongly influenced by radio culture. In America in the 1950s, radio was the greatest source of entertainment and a device for creating new stars.
+一家は後にカリフォルニアへ移住するが、再びオクラホマへ戻る。その移動生活の中で、彼女はラジオ文化に強く影響を受けた。1950年代のアメリカでは、ラジオは最大のエンターテインメントであり、新しいスターを生み出す装置でもあった。
 
-Wanda's singing ability was praised as a child and she began appearing on local radio programs. She particularly stood out on country and western programs, and her singing voice attracted attention from an early age.
+ワンダは子どもの頃から歌唱力を評価され、地元ラジオ番組に出演するようになる。特にカントリー・ウェスタン系番組で頭角を現し、その歌声は早くから注目を集めた。
 
-Already a regional star in high school, he entered the music industry at a young age.
+高校時代にはすでに地域スターとなっており、若くして音楽業界に足を踏み入れていた。
 
 <div class="mermaid">
 timeline
@@ -73,89 +73,89 @@ timeline
     1954 : プロ契約へ接近
 </div>
 
-> Wanda Jackson's origins lie in Southern American radio culture and country music.
+> ワンダ・ジャクソンの原点は、南部アメリカのラジオ文化とカントリー音楽にあった。
 
 ---
 
-## From country girl to rock and roll
+## カントリー少女からロックンロールへ
 
-In 1954, Wanda Jackson signs with Decca Records. At first, she was marketed as a typical country singer.
+1954年、ワンダ・ジャクソンはデッカ・レコードと契約する。最初は典型的なカントリー歌手として売り出されていた。
 
-But someone appears that changes her life.
+だが彼女の人生を変える人物が現れる。
 
-It was Elvis Presley.
+エルヴィス・プレスリーだった。
 
-At the time, Elvis was still on the verge of his breakout success, but he was beginning to gain attention after touring the South. Wanda meets Elvis on tour, and he advises her that she should sing rock"n"roll, not just country.
+当時、エルヴィスはまだ爆発的成功を迎える直前だったが、南部ツアーで注目され始めていた。ワンダはツアーでエルヴィスと知り合い、彼から「カントリーだけではなく、ロックンロールを歌うべきだ」と勧められる。
 
-This encounter was decisive.
+この出会いは決定的だった。
 
-Wanda has always had a strong sense of rhythm. Furthermore, her deep, punchy voice deviated greatly from the conventional image of female singers. It was a perfect match for rock"n"roll.
+ワンダはもともと強いリズム感を持っていた。さらに低めでパンチのある声質は、従来の女性歌手像から大きく外れていた。ロックンロールとの相性は抜群だったのである。
 
-However, at the time, there was great resistance to women singing rock music. Television and radio stations shunned her as "radical," and she was criticized by conservatives.
+しかし当時、女性がロックを歌うことには大きな抵抗があった。テレビ局やラジオ局は“過激”だとして敬遠し、保守的な層から批判も受けた。
 
-However, Wanda did not change her style.
+それでもワンダはスタイルを変えなかった。
 
 <div class="mermaid">
 flowchart TD
-A["Activities as a country singer"] --> B["Meet Elvis"]
-B --> C["I"m encouraged to play rock"n'roll"]
-C --> D["Going the rockabilly route"]
-D --> E["Establishing your own style"]
+A["カントリー歌手として活動"] --> B["エルヴィスと出会う"]
+B --> C["ロックンロールを勧められる"]
+C --> D["ロカビリー路線へ"]
+D --> E["独自スタイル確立"]
 </div>
 
-> Meeting Elvis liberated Wanda Jackson from being an "ordinary country singer."
+> エルヴィスとの出会いは、ワンダ・ジャクソンを“普通のカントリー歌手”から解放した。
 
 ---
 
-## The impact of "Fujiyama Mama"
+## “Fujiyama Mama” の衝撃
 
-In 1957, Wanda Jackson released "Fujiyama Mama".
+1957年、ワンダ・ジャクソンは「Fujiyama Mama」を発表する。
 
-This song is a rockabilly piece with a ferocious sense of speed and energy, and has become her signature song. Her explosive singing, roaring rhythm, and wild shouts completely destroyed the image of female singers at the time.
+この曲は猛烈なスピード感とエネルギーを持つロカビリー作品であり、彼女の代表曲となった。爆発的な歌唱、唸るようなリズム、そして荒々しいシャウトは、当時の女性歌手のイメージを完全に破壊した。
 
-This song is known for being a big hit, especially in Japan.
+特に日本ではこの曲が大ヒットしたことで知られる。
 
-The word "Fujiyama" in the title and the lyrics reminiscent of the atomic bomb would later provoke various debates, but in the United States in the 1950s, it was also used as a symbol of "energy" and "explosive power."
+タイトルに含まれる“フジヤマ”という言葉や、原爆を連想させる歌詞は後年さまざまな議論を呼ぶことになるが、1950年代当時のアメリカでは「エネルギー」や「爆発力」の象徴として使われていた側面も大きい。
 
-Wanda herself was concentrating on singing with all her might.
+ワンダ自身は、とにかく激しく歌うことに集中していた。
 
-The audience was surprised to hear her song. It was extremely rare to find a female singer who could shout and dominate the stage like a male singer.
+観客は彼女の歌を聴いて驚いた。男性歌手のようにシャウトし、ステージを支配する女性シンガーは極めて珍しかったからだ。
 
 <div class="mermaid">
 graph TD
-A["Fujiyama Mama"] --> B["Intense rockabilly"]
-A --> C["Renovating the image of women"]
-A --> D["Popular in Japan"]
-A --> E["Representative song"]
+A["Fujiyama Mama"] --> B["激しいロカビリー"]
+A --> C["女性像を刷新"]
+A --> D["日本でも人気"]
+A --> E["代表曲化"]
 </div>
 
-> ""Fujiyama Mama'' was the work that etched Wanda Jackson into rock history.
+> 「Fujiyama Mama」は、ワンダ・ジャクソンをロック史に刻み込んだ作品だった。
 
 ---
 
-## Birth of the Rockabilly Queen
+## ロカビリー・クイーン誕生
 
-In the late 1950s, Wanda Jackson released a series of rockabilly songs.
+1950年代後半、ワンダ・ジャクソンは次々とロカビリー楽曲を発表していく。
 
-"Mean Mean Man"
-"Let's Have a Party"
-"Hard Headed Woman"
+「Mean Mean Man」
+「Let's Have a Party」
+「Hard Headed Woman」
 
-In these songs, her characteristic "growling delivery" was on full display.
+これらの楽曲では、彼女特有の“うなるような歌い回し”が全面に出ていた。
 
-Fashion was even more important.
+さらに重要だったのがファッションである。
 
-Fringed dresses, high heels, and flashy makeup. Wanda brought an unusual level of flamboyance for a country singer, and was even involved in the costume design herself.
+フリンジ付きドレス、ハイヒール、派手なメイク。ワンダはカントリー歌手としては異例の派手さを持ち込み、自ら衣装デザインにも関与していた。
 
-She didn't erase her "femininity."
+彼女は“女性らしさ”を消したのではない。
 
-Rather, they acquired the strength of rock while retaining their femininity.
+むしろ、女性性を保ちながらロックの強さを獲得したのである。
 
-This style had a great influence on later female rock singers.
+このスタイルは後の女性ロックシンガーたちに大きな影響を与えた。
 
 <div class="mermaid">
 mindmap
-  root((wanda jackson))
+  root((ワンダ・ジャクソン))
     音楽
       ロカビリー
       カントリー
@@ -170,124 +170,124 @@ mindmap
       ステージ表現
 </div>
 
-> Wanda Jackson redefined ""a woman playing rock.''
+> ワンダ・ジャクソンは、“女性がロックを演奏する姿”そのものを再定義した。
 
 ---
 
-## Wall of female rock singers
+## 女性ロックシンガーの壁
 
-In the 1950s and early 1960s, the music industry remained male-dominated.
+1950年代から1960年代初頭にかけて、音楽業界は依然として男性優位だった。
 
-Female singers were expected to be ""pretty,'' and violent expressions and sexual energy were not welcomed.
+女性歌手は“可愛らしくあること”を期待され、激しい表現や性的エネルギーを前面に出すことは歓迎されなかった。
 
-But Wanda was different.
+だがワンダは違った。
 
-She provoked the audience on stage, sang wildly, and exposed her emotions. They were competing on the same playing field as male artists.
+彼女はステージ上で観客を煽り、荒々しく歌い、感情をむき出しにした。男性アーティストと同じ土俵で戦ったのである。
 
-However, the trade-off was that the industry sometimes saw them as ""difficult to deal with.'' He also experienced restrictions on his television appearances and backlash from conservatives.
+しかしその代償として、業界側からは「扱いづらい存在」と見られることもあった。テレビ出演の制限や、保守層からの反発も経験した。
 
-Still, she continued to tour.
+それでも彼女はツアーを続けた。
 
-It gained support not only in the United States, but also in Europe and overseas.
+アメリカ国内だけでなく、ヨーロッパや海外でも支持を獲得していく。
 
 <div class="mermaid">
 graph TD
-A["Image of women in the 1950s"] --> B["Cleanliness"]
-A --> C["obedience"]
-D["Wanda Jackson"] --> E["Offensive performance"]
-D --> F["Rock expression"]
-D --> G["Pioneer of female rock"]
+A["1950年代の女性像"] --> B["清楚さ"]
+A --> C["従順さ"]
+D["ワンダ・ジャクソン"] --> E["攻撃的パフォーマンス"]
+D --> F["ロック表現"]
+D --> G["女性ロックの先駆"]
 </div>
 
-> Wanda Jackson pushed the boundaries not only of music but of female expression itself.
+> ワンダ・ジャクソンは、音楽だけでなく女性表現の境界線そのものを押し広げていった。
 
 ---
 
-## Return to country and changing times
+## カントリー回帰と時代の変化
 
-In the 1960s, rock music changed rapidly. The wave of the British Invasion arrived and ushered in a post-Beatles era.
+1960年代に入ると、ロック音楽は急速に変化する。ブリティッシュ・インヴェイジョンの波が到来し、ビートルズ以降の時代へ突入していった。
 
-Meanwhile, 1950s-style rockabilly gradually fell out of the mainstream.
+その中で、1950年代型ロカビリーは徐々に主流から外れていく。
 
-Wanda Jackson also shifted her focus back to country music.
+ワンダ・ジャクソンも再びカントリー音楽へ重心を移していった。
 
-She hasn't completely given up on rock. However, since he was able to perform more stably in the country market, he became more of a Nashville artist.
+彼女は完全にロックを捨てたわけではない。しかしカントリー市場のほうが安定した活動ができたこともあり、以後はナッシュビル系アーティストとしての側面が強くなる。
 
-Even so, her singing always retained a rock-like power.
+それでも彼女の歌唱には常にロック的な迫力が残っていた。
 
 <div class="mermaid">
 flowchart TD
-A["1950s Rockabilly Golden Age"] --> B["1960s Music Change"]
-B --> C["British Invasion"]
-C --> D["Rockabilly decline"]
-D --> E["Country Return"]
+A["1950s ロカビリー黄金期"] --> B["1960s 音楽変化"]
+B --> C["ブリティッシュ・インヴェイジョン"]
+C --> D["ロカビリー衰退"]
+D --> E["カントリー回帰"]
 </div>
 
-> Even though the times have changed, Wanda Jackson's ""core strength'' has remained the same.
+> 時代の流れが変わっても、ワンダ・ジャクソンの“芯の強さ”は変わらなかった。
 
 ---
 
-## Encounter with Gospel
+## ゴスペルとの出会い
 
-In the 1970s, Wanda Jackson deepened her religious values ​​and turned to gospel music.
+1970年代、ワンダ・ジャクソンは宗教的価値観を深め、ゴスペル音楽へ傾倒していく。
 
-This was a major turning point in her life.
+これは彼女の人生における大きな転機だった。
 
-He distanced himself from the rock"n"roll life of his youth and began to pursue activities more rooted in his faith. She began releasing gospel music and appearing at religious events.
+若い頃のロックンロール的生活から距離を置き、より信仰に根差した活動へ向かうようになる。彼女はゴスペル作品を発表し、宗教イベントなどにも出演するようになった。
 
-However, even here, she did not lose the power of her voice.
+ただし、ここでも彼女は“声の力”を失わなかった。
 
-The emotional expressions cultivated during the rock era were also powerfully persuasive in gospel music.
+ロック時代に培った感情表現は、ゴスペルにおいても強烈な説得力を持っていた。
 
 <div class="mermaid">
 graph TD
-A["1970s"] --> B["Deepening of faith"]
-B --> C["Gospel Activities"]
-C --> D["New expression"]
-D --> E["Continuation of emotional expression"]
+A["1970年代"] --> B["信仰の深化"]
+B --> C["ゴスペル活動"]
+C --> D["新たな表現"]
+D --> E["感情表現の継続"]
 </div>
 
-> Singing has always been a way of life for Wanda Jackson.
+> ワンダ・ジャクソンにとって歌うことは、常に人生そのものだった。
 
 ---
 
-## Rockabilly Queen being reevaluated
+## 再評価されるロカビリー・クイーン
 
-From the 1980s onward, as rockabilly and roots music began to be reevaluated, Wanda Jackson once again attracted attention.
+1980年代以降、ロカビリーやルーツ音楽の再評価が進むと、ワンダ・ジャクソンも再び注目を集めるようになる。
 
-Punk and garage rock artists were strongly influenced by her rawness.
+パンクやガレージロックのアーティストたちは、彼女の荒々しさに強い影響を受けていた。
 
-It"s not like she"s rocking it even though she's a woman.
+「女性なのにロックしている」のではない。
 
-"He was a real rock singer from the beginning."
+「最初から本物のロックシンガーだった」
 
-That's how it came to be appreciated.
+そう評価されるようになったのである。
 
-Furthermore, in the 2000s, she gained support from the younger generation, and many musicians began to talk about her as the "mother of rock."
+さらに2000年代には若い世代からも支持を集め、多くのミュージシャンが彼女を“ロックの母”として語るようになった。
 
 <div class="mermaid">
 graph TD
-A["Since the 1980s"] --> B["Rockabilly Re-evaluation"]
-B --> C["Discovered by the younger generation"]
-C --> D["Recognized as the origin of women's rock"]
-D --> E["Legendary"]
+A["1980年代以降"] --> B["ロカビリー再評価"]
+B --> C["若い世代が発見"]
+C --> D["女性ロックの原点として認識"]
+D --> E["伝説化"]
 </div>
 
-> Wanda Jackson was reevaluated not as a star of an era, but as "rock history itself."
+> ワンダ・ジャクソンは、一時代のスターではなく“ロックの歴史そのもの”として再評価されていった。
 
 ---
 
-## Rock and Roll Hall of Fame
+## ロックの殿堂入り
 
-In 2011, Wanda Jackson will be inducted into the Rock and Roll Hall of Fame.
+2011年、ワンダ・ジャクソンはロックの殿堂入りを果たす。
 
-This was not just a meritorious award.
+これは単なる功労賞ではなかった。
 
-It had the meaning of formally inscribing into history the role that female artists played in the early days of rock"n"roll.
+ロックンロール草創期において、女性アーティストが果たした役割を正式に歴史へ刻み込む意味を持っていた。
 
-There were other female singers before her. However, Wanda Jackson held a special place as a head-on expression of the intensity of rock 'n' roll.
+彼女以前にも女性歌手は存在した。しかし、ロックンロールの激しさを真正面から表現した存在として、ワンダ・ジャクソンは特別な位置にいた。
 
-Its influence extends to current female rock artists.
+その影響は現在の女性ロックアーティストにも連なっている。
 
 <div class="mermaid">
 timeline
@@ -298,71 +298,71 @@ timeline
     2011 : ロックの殿堂入り
 </div>
 
-> Wanda Jackson's induction into the Rock and Roll Hall of Fame was the moment when her existence was recognized as "history."
+> ロックの殿堂入りは、ワンダ・ジャクソンの存在が“歴史”として認められた瞬間だった。
 
 ---
 
-## Wanda Jackson's legacy
+## ワンダ・ジャクソンが残したもの
 
-Wanda Jackson's accomplishments go beyond just having a hit song.
+ワンダ・ジャクソンの功績は、単にヒット曲を残したことではない。
 
-She broke the stereotypes of how women should sing.
+彼女は、「女性はどう歌うべきか」という固定観念を壊した。
 
-It's okay to scream.
-It's okay to be intense.
-It's okay to control the audience.
+叫んでもいい。
+激しくてもいい。
+観客を支配してもいい。
 
-He was one of the first to pave the way.
+その道を最初期に切り開いた一人だった。
 
-Her spirit has been inherited by later Janis Joplin, Joan Jett, and even other female artists after punk.
+後のジャニス・ジョプリン、ジョーン・ジェット、さらにはパンク以降の女性アーティストたちにも、彼女の精神は受け継がれている。
 
-And above all, Wanda Jackson was "a woman who seriously rocked."
+そして何より、ワンダ・ジャクソンは“本気でロックした女性”だった。
 
-That is the reason why it still attracts so many people.
+それが今も多くの人を惹きつける理由である。
 
 <div class="mermaid">
 graph TD
-A["Wanda Jackson"] --> B["Pioneer of female rock"]
-A --> C["Symbol of rockabilly"]
-A --> D["Bridge to Country"]
-A --> E["Influence on posterity"]
+A["ワンダ・ジャクソン"] --> B["女性ロックの先駆"]
+A --> C["ロカビリーの象徴"]
+A --> D["カントリーとの架け橋"]
+A --> E["後世への影響"]
 
-E --> F["Janis Joplin"]
-E --> G["Joan Jett"]
-E --> H["Female punk generation"]
+E --> F["ジャニス・ジョプリン"]
+E --> G["ジョーン・ジェット"]
+E --> H["女性パンク世代"]
 </div>
 
-> Wanda Jackson was the person who unleashed the "potential of female rock" into the future.
+> ワンダ・ジャクソンは、“女性ロックの可能性”を未来へ解き放った存在だった。
 
 ---
 
-## Chronology
+## 年表
 
-| Year | Events |
+| 年 | 出来事 |
 |---|---|
-| 1937 | Born in Oklahoma |
-| 1954 | Signed with Decca Records |
-| Mid-1950s | Interaction with Elvis Presley |
-| 1957 | "Fujiyama Mama" announced |
-| 1958 | "Let's Have a Party" hit |
-| 1960s | Transition to country music |
-| 1970s | Full-scale gospel activities |
-| Since the 1980s | Re-attention due to reappraisal of rockabilly |
-| 2011 | Rock and Roll Hall of Fame induction |
+| 1937 | オクラホマ州で誕生 |
+| 1954 | デッカ・レコードと契約 |
+| 1950年代中盤 | エルヴィス・プレスリーと交流 |
+| 1957 | 「Fujiyama Mama」発表 |
+| 1958 | 「Let's Have a Party」ヒット |
+| 1960年代 | カントリー中心へ移行 |
+| 1970年代 | ゴスペル活動を本格化 |
+| 1980年代以降 | ロカビリー再評価で再注目 |
+| 2011 | ロックの殿堂入り |
 
 ---
 
-## At the end
+## 終わりに
 
-The history of rock and roll has often been told in a male-centered manner.
+ロックンロールの歴史は、しばしば男性中心で語られてきた。
 
-However, at the very beginning, there was a woman who grabbed the microphone, screamed, and excited the audience.
+だが、その最初期にマイクを握り、叫び、観客を熱狂させていた女性がいた。
 
-Wanda Jackson wasn't special because she was a woman.
+ワンダ・ジャクソンは、“女性だから特別”だったのではない。
 
-It was pure rock as hell.
+純粋に、とてつもなくロックだったのである。
 
-> Wanda Jackson's voice continues to resonate with the primal energy of rock and roll.
+> ワンダ・ジャクソンの歌声は、今もなおロックンロールの原始的エネルギーを鳴らし続けている。
 
 
 ---
@@ -370,7 +370,7 @@ It was pure rock as hell.
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/04VduMgZF74?si=-mqrDAQmyLNEkAul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

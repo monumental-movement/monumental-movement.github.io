@@ -12,10 +12,10 @@ title: Geodezik – Trap EP
 ---
 
 
-《陷阱EP》是
-這是 Takahiro Shimojo 的專案 Geodezik 的 EP，於 1999 年在「Beat Records」廠牌上發行。
+「Trap EP」は、
+1999年にレーベル「Beat Records」からリリースされた下城貴博 (Takahiro Shimojo)によるプロジェクトGeodezikのEPです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Eye-Link
 
@@ -26,5 +26,5 @@ B1. Night Dive
 B2. Outstepper
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86478584214?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86478584214?afid=6142608987){: .button1}
 

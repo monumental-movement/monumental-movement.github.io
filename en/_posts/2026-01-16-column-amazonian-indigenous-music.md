@@ -11,21 +11,20 @@ tags:
 - Primitive
 - Amazon
 - World Music
-title: '[Column] Musical culture of indigenous Amazonians: a universe of sounds nurtured
-  by forests and communities'
+title: 【コラム】 アマゾン先住民の音楽文化──森と共同体が育んだ音の宇宙
 ---
 
 
 
-## Prologue: A world of sounds that fills the forest
+## 序章：森に満ちる音の世界
 
-Text: mmr｜Theme: Music culture that is not a fixed heritage, but has been inherited while changing forms in response to changes in the environment and society.
+文：mmr｜テーマ：固定された遺産ではなく、環境と社会の変化に応じて形を変えながら継承されてきた音楽文化について
 
-The Amazon River Basin is one of the most culturally diverse regions in the world. Hundreds of indigenous groups have lived together, each with their own distinct languages, myths, and social structures. In this context, music has developed not as an independent form of entertainment or art, but as an act that is inseparable from life itself.
+アマゾン川流域は、世界でもっとも文化的多様性が高い地域のひとつである。数百におよぶ先住民集団が、それぞれ異なる言語、神話、社会構造を保持しながら生活してきた。その中で音楽は、娯楽や芸術として独立した存在ではなく、生活そのものと不可分の行為として発達してきた。
 
-Songs are sung to pray for success in hunting and farming, and dances mark seasonal cycles and milestones in growth. Music is not something you listen to, but something you do, and it is also an act that confirms your membership in a community. Silence is almost nonexistent in the Amazon forest. Birds, insects, wind, and water all make sounds, and human music is also placed on this continuum.
+歌は狩猟や農耕の成功を祈るために歌われ、踊りは季節の循環や成長の節目を示す。音楽は「聴くもの」ではなく「行うもの」であり、共同体の成員であることを確認する行為でもある。アマゾンの森において、沈黙はほとんど存在しない。鳥、昆虫、風、水、そのすべてが音を発し、人間の音楽もまたその連続線上に置かれている。
 
-> Amazonian indigenous music has existed as an act that dissolves the boundaries between nature and humans.
+> アマゾン先住民の音楽は、自然と人間の境界を溶かす行為として存在してきた。
 
 ---
 
@@ -43,138 +42,138 @@ color: #fff;
 </style>
 
 
-## Social structure and the role of music
+## 社会構造と音楽の役割
 
 
 
-In many Amazonian indigenous societies, music has a distinct social role. Who sings which songs and when is strictly regulated, and the musical acts permitted vary depending on age, gender, and social status.
+多くのアマゾン先住民社会では、音楽は明確な社会的役割を持つ。誰が、いつ、どの歌を歌うかは厳密に定められており、年齢や性別、社会的立場によって許可される音楽行為が異なる。
 
-Certain ceremonial songs are known only to elders, and their melodies are passed down orally from generation to generation. On the other hand, the songs that accompany group dances are shared by the entire community and become engraved on the body through repetition. Musical knowledge is not something that can be taught; it is something that can be acquired naturally in everyday life.
+特定の儀礼歌は長老のみが知り、その旋律は世代を越えて口承される。一方、集団舞踊に伴う歌は共同体全体で共有され、反復によって身体に刻み込まれていく。音楽的知識は教育されるものではなく、生活の中で自然に身につくものである。
 
-Music also plays a role in maintaining order within a community. The progress of the ritual is controlled by music, and when the song ends, the next act begins. Time itself is divided by sound.
+Music also plays a role in maintaining order within a community. The progression of the ritual is controlled by music, and when the song ends, the next act begins. Time itself is divided by sound.
 
-> Music is a device that visualizes the structure of society and fixes the order of the community in the form of sound.
-
----
-
-## Melody and rhythm as imitation of nature
-
-
-In indigenous Amazonian music, many of the melodies and rhythms are directly influenced by the natural environment. The sounds of birds, the footsteps of animals, and the rhythm of rain are directly incorporated into musical materials.
-
-Melodies are often composed of short repetitions of phrases, and are not intended to develop or resolve as in Western music. The structure, which does not have a clear end, reflects the sense of a continuous space in the forest. The rhythm is also not metrical, but cyclical and contains fluctuations.
-
-These musics do not "describe" nature. This is an act to reaffirm that humans exist as a part of nature.
-
-> Imitating the sounds of the forest means standing on the same level of existence as nature.
+> 音楽は社会の構造を可視化し、共同体の秩序を音として固定する装置である。
 
 ---
 
-## Symbolism of instrumentation and materials
+## 自然模倣としての旋律とリズム
 
 
-The instruments used are made from materials obtained from the surrounding environment. The main materials include wood, bamboo, bone, seeds, shells, and clay, each of which has a specific symbolism.
+アマゾン先住民の音楽において、旋律やリズムの多くは自然環境から直接的な影響を受けている。鳥の鳴き声、動物の足音、雨のリズムは、そのまま音楽的素材として取り込まれる。
 
-The flute is one of the most important musical instruments, and is often said to reproduce the voices of mythical beings and ancestors. Taiko drums serve as the basis for dances and marches, and serve to unify the movement of the community. Shakers are associated with rain and fertility and are an essential part of rituals.
+旋律は短いフレーズの反復で構成されることが多く、西洋音楽のような展開や解決を目的としない。終わりを明確に示さない構造は、森という連続的な空間の感覚を反映している。リズムも拍節的ではなく、循環的で揺らぎを含む。
 
-For some instruments, it may not even be possible to see them; only the sound is allowed. Music has meaning in a realm that goes beyond visual information.
+これらの音楽は自然を「描写」するものではない。人間が自然の一部として存在することを再確認するための行為である。
 
->The sound of musical instruments itself has been regarded as a manifestation of spiritual beings.
-
----
-
-## Ritual music and consciousness transformation
-
-
-Rites of passage and healing use long, repetitive songs and rhythms. These changes the participants' state of consciousness and shift them from the everyday world to ritual time.
-
-Shamans communicate with spirits through song and seek out the causes of illness and illness. Lyrics are often symbolic and have no direct meaning. What is important is not the content of the words, but the vibration and repetition of the sound itself.
-
-Music is a therapy, a medium, and a technique for crossing boundaries.
-
-> Ritual music is a means of traversing the layers of the world through sound.
+> 森の音を模倣することは、自然と同じ存在位相に立つことを意味している。
 
 ---
 
-## Integration of mythology, language, and music
+## 楽器体系と素材の象徴性
 
 
-In Amazonian indigenous societies, myths are often told in songs. Specific melodies are associated with specific stories, and when sung, past events are recreated in the present.
+使用される楽器は、周囲の環境から得られる素材で作られる。木、竹、骨、種子、貝、粘土などが主な材料であり、それぞれが特定の象徴性を持つ。
 
-In a society without written materials, music functions as a memory device. Forgetting the melody is synonymous with losing the story. The language itself is melodious, and the boundaries between spoken words and songs are blurred.
+笛はもっとも重要な楽器のひとつであり、神話的存在や祖先の声を再現するとされる例が多い。太鼓は踊りや行進の基盤となり、共同体の動きを統合する役割を果たす。シェイカーは雨や豊穣と結びつけられ、儀礼において不可欠な存在である。
 
-Music, language, and mythology are not separate elements, but exist as a single system.
+一部の楽器は、見ること自体が禁じられている場合もあり、音だけが許される。音楽は視覚情報を超えた領域で意味を持つ。
 
-> Songs are myths told, and music becomes history itself.
-
----
-
-## Chronology: Changes in music culture
-
-
-* BC: Each region developed its own ritual music system.
-* 16th century: Contact with religious musical ideas due to the arrival of outside forces
-* 19th century: Missionary activities restrict some musical practices
-* Late 20th century: Systematic recording through ethnomusicology progresses
-* 21st century: Re-evaluation and succession activities led by indigenous peoples are becoming more active
-
-> Music culture has survived in various forms even under external pressure.
+> 楽器の音色そのものが、精霊的存在の顕現とみなされてきた。
 
 ---
 
-## Diagram: Circular structure centered around music
+## 儀礼音楽と意識変容
+
+
+通過儀礼や治療儀礼では、長時間にわたる反復的な歌とリズムが用いられる。これらは参加者の意識状態を変化させ、日常世界から儀礼的時間へと移行させる。
+
+シャーマンは歌を通じて精霊と交信し、病や不調の原因を探る。歌詞は象徴的で、直接的な意味を持たないことが多い。重要なのは言葉の内容ではなく、音の振動と反復そのものにある。
+
+音楽は治療であり、媒介であり、境界を越えるための技法である。
+
+> 儀礼音楽は、音によって世界の層を横断するための手段である。
+
+---
+
+## 神話・言語・音楽の統合
+
+
+アマゾン先住民社会では、神話は歌として語られることが多い。特定の旋律は特定の物語と結びつき、歌われることで過去の出来事が現在に再生される。
+
+文字を持たない社会において、音楽は記憶装置として機能する。旋律を忘れることは、物語を失うことと同義である。言語そのものも旋律的であり、話し言葉と歌の境界は曖昧である。
+
+音楽、言語、神話は分離された要素ではなく、ひとつの体系として存在している。
+
+> 歌は語られる神話であり、音楽は歴史そのものとなる。
+
+---
+
+## 年表：音楽文化の変遷
+
+
+* 紀元前：流域ごとに独自の儀礼音楽体系が成立
+* 16世紀：外部勢力の到来により宗教的音楽観と接触
+* 19世紀：宣教活動により一部の音楽実践が制限される
+* 20世紀後半：民族音楽学による体系的記録が進行
+* 21世紀：先住民主体による再評価と継承活動が活発化
+
+> 音楽文化は外部圧力の中でも、形を変えながら存続してきた。
+
+---
+
+## 図：音楽を中心とした循環構造
 
 <div class="mermaid">
 graph TD
-A[natural environment] --> B[mythology]
-B --> C[ritual]
-C --> D[music]
-D --> E[social order]
+A[自然環境] --> B[神話]
+B --> C[儀礼]
+C --> D[音楽]
+D --> E[社会秩序]
 E --> B
 </div>
 
 ---
 
-> Music is the central axis that connects nature and society in a cyclical manner.
+> 音楽は自然と社会を循環的に結びつける中心軸である。
 
 ---
 
-## Contact with external cultures and selective transformation
+## 外部文化との接触と選択的変容
 
 
-Contact with outside cultures resulted in reorganization rather than rupture. New instruments and melodies were incorporated into the existing system, while elements that did not align with the community's values ​​were eliminated.
+外部文化との接触は、断絶ではなく再編をもたらした。新しい楽器や旋律が既存の体系に取り込まれる一方、共同体の価値観に合わない要素は排除された。
 
-Music has always prioritized meaning within the community. Change is not passive, but the result of active choice.
+音楽は常に共同体内部の意味を優先してきた。変化は受動的ではなく、主体的選択の結果である。
 
->Transformation has functioned as a strategy for continuity rather than loss.
-
----
-
-## Inheritance and practice in modern times
-
-
-Currently, many indigenous peoples use audio recordings and videos to record their musical culture and use it for education and cultural inheritance. Music has also become a symbol of asserting cultural independence and land rights.
-
-At the same time, there is a strong sense of caution against commercial use that has lost its context. Music continues to be an act of living within a community.
-
-> Music is not a legacy of the past, but an ongoing cultural practice.
+> 変容は喪失ではなく、継続のための戦略として機能してきた。
 
 ---
 
-## Conclusion: The time the forest continues to play
+## 現代における継承と実践
 
 
-Amazonian indigenous music is an integrative system that connects the natural, social, and spiritual worlds. It is not a fixed form and has continued to change with the environment.
+現在、多くの先住民が録音や映像を用いて音楽文化を記録し、教育や文化継承に活用している。音楽は文化的自立と土地権利を主張する象徴ともなっている。
 
-As long as forests exist and people live there, the music will continue to play.
+同時に、文脈を失った商業的利用への警戒も強い。音楽は今なお、共同体内部で生きる行為であり続けている。
 
-> Amazon's music is a culture that echoes time itself.
+> 音楽は過去の遺産ではなく、現在進行形の文化実践である。
+
+---
+
+## 結語：森が奏で続ける時間
+
+
+アマゾン先住民の音楽は、自然、社会、精神世界を結びつける統合的な体系である。それは固定された形式ではなく、環境と共に変化し続けてきた。
+
+森が存在し、人がそこに生きる限り、その音楽もまた鳴り続ける。
+
+> アマゾンの音楽は、時間そのものを響かせる文化である。
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dv8e-Wc5GG8?si=TbNAmAsgEJ4zMplE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

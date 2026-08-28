@@ -13,7 +13,7 @@ title: Man-To-Man – Cyclone
 
 
 
-Man-To-Man is the alias of Pierre Jerksten, a veteran Swedish DJ and producer known worldwide as Hertz.
+Man-To-Manは、Hertz名義で世界的によく知られるスウェーデンのベテランDJ／プロデューサーPierre Jerkstenの別名義。
 
 "Cyclone" is a Techno track released in 2002 by Pierre J's Techno/Tech House label Q-Records.
 

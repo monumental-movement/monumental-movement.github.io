@@ -9,13 +9,13 @@ tags:
 - Reggae
 - African
 - 90s
-title: O"Yaba – One Foundation
+title: O'Yaba – One Foundation
 ---
 
 
-O'Yaba is an eight-piece South African reggae group led by Tshidiso Alexis Faku, formed in the early 1990s. They created a unique reggae sound that blended Jamaican influences with a distinctive South African touch, and became popular both nationally and internationally.
+O'Yaba(オヤバ)は、90年代初頭に結成した、Tshidiso Alexis Fakuが率いる8人組の南アフリカのレゲエグループ。ジャマイカの影響と独特の南アフリカのタッチを融合させたユニークなレゲエサウンドを生み出し、国内外ので人気を博した。
 
-"One Foundation" is a Reggae/African album released in 1994 on the label QUATTRO.
+「One Foundation」は、レーベルQUATTROから1994年にリリースされたReggae／Africanアルバム。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ O'Yaba is an eight-piece South African reggae group led by Tshidiso Alexis Faku,
 11. One Foundation
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m11032207979?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11032207979?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jGSubnLrcIc?si=lPY_UAKOr8ZgkQ3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

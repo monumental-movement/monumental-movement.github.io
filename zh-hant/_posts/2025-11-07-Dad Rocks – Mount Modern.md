@@ -10,15 +10,15 @@ tags:
 - Alternative Rock
 - Folk Rock
 - 10s
-title: 爸爸搖滾！ – 現代山
+title: Dad Rocks! – Mount Modern
 ---
 
 
-爸爸搖滾！是冰島音樂家 Snaevar Albertsson 於 2010 年創立的一個項目，他因丹麥獨立搖滾樂團 Mimas 而聞名。
+Dad Rocks!は、デンマークのインディーロックバンドMimasで有名になったアイスランドのミュージシャン、Snaevar Albertssonが2010年に結成したプロジェクト。
 
-《Mount Modern》是Dad Rocks!於2011年發行的首張專輯。
+「Mount Modern」は2011年にリリースされたDad Rocks! のデビューアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Mount Modern
 2. Weapons
@@ -33,7 +33,7 @@ title: 爸爸搖滾！ – 現代山
 11. Pants
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m97240263266?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97240263266?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g7pEjQxcQMQ?si=GZ2TcKCRoE2ifNsG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

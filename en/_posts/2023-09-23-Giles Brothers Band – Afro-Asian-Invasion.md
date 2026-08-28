@@ -13,11 +13,11 @@ title: Giles Brothers Band – Afro-Asian-Invasion
 ---
 
 
-"Giles Brothers Band - Afro-Asian-Invasion" is an album released by Giles Brothers Band, a jazz fusion band. This album develops music that incorporates elements of other cultures, and you can feel the influence of Africa and Asia.
+「Giles Brothers Band - Afro-Asian-Invasion」は、ジャズ・フュージョンのバンドであるGiles Brothers Bandによってリリースされたアルバムです。このアルバムは、異文化の要素を取り入れた音楽を展開しており、アフリカとアジアの影響を感じることができます。
 
-"Afro-Asian-Invasion" is a work that combines diverse musical elements, such as exotic rhythms, the use of ethnic instruments, and unique harmonies. Although it has a foundation in jazz, it fuses traditional musical styles from Africa and Asia, creating a unique sound.
+「Afro-Asian-Invasion」は、エキゾチックなリズムや民族楽器の使用、独特なハーモニーなど、多様な音楽要素が組み合わさった作品です。ジャズの基盤を持ちながらも、アフリカやアジアの伝統的な音楽スタイルを融合させているため、独自のサウンドが生まれています。
 
-This song is well known to music lovers and fans of jazz fusion. His uniqueness and creativity continue to captivate listeners.
+この曲は、音楽愛好家やジャズ・フュージョンのファンにとって、よく知られています。その独自性とクリエイティビティによって、聴く者を魅了し続けています。
 
 #### Tracklist
 ```md
@@ -26,7 +26,7 @@ A Feet Back On The Ground
 B We'll Give You Love (24 Hour Day)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m37042695370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37042695370?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhlkc0JbBs4?si=zVBeSeY_Jtv5_s7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

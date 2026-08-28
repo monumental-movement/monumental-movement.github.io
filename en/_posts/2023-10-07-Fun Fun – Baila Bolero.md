@@ -12,9 +12,9 @@ title: Fun Fun – Baila Bolero
 ---
 
 
-"Baila Bolero" develops Fun Fun's distinctive dance-pop sound. The song title "Baila Bolero" means "dancing the bolero" in Spanish, and as the name suggests, the song is full of energy and a cheerful rhythm that makes it easy to dance.
+「Baila Bolero」は、ファン・ファンの特徴的なダンスポップサウンドを展開しています。曲名の「Baila Bolero」はスペイン語で「ボレロを踊る」という意味であり、その名の通り、楽曲は陽気で踊りやすいリズムとエネルギーに溢れています。
 
-This song is a dance floor song that combines elements of bolero and disco, and features a cool rhythm and catchy melody. The vivid vocals by the Fan Fan members also enhance the charm of the song.
+この曲は、ボレロとディスコの要素を組み合わせたダンスフロア向けの楽曲であり、カッチョイなリズムとキャッチーなメロディが特徴です。ファン・ファンのメンバーによる鮮やかなヴォーカルも、曲の魅力を引き立てています。
 
 "Baila Bolero" is one of the songs that gained popularity during the disco and Eurodisco boom of the time, and is known as a masterpiece among fans. Its upbeat sound and danceable rhythm make it a popular song at dance parties and clubs.
 
@@ -29,7 +29,7 @@ A2. Baila Bolero (7" Radio Mix)
 B. Baila Bolero (House Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m20134677507?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20134677507?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Nt1WaRjQ3I?si=d7drBhiqBFTvZz0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

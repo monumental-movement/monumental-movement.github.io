@@ -21,7 +21,7 @@ Producer – Nazih Dia
 
 Vocals – Maan Al-Amir
 
-Arrangement - Bassem Yazbek
+アレンジーBassem Yazbek
 
 #### Tracklist
 ```md

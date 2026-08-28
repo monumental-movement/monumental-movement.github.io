@@ -14,9 +14,9 @@ title: Zongamin – Zongamin
 ---
 
 
-Mukai Susumu Mukai, also known as Zongamin, is a Japanese musician and producer based in the UK. He is active as a remixer for Air, Playgroup, Graffiti, John Cale, Mickey Moonlight, Headman, Sandro Perri, Alexis Taylor, Seelenluft, etc., and plays as a member of Vanishing Twin, Becker & Mukai, Off World, Stalactite, School Of Hypnosis.
+ZongaminことMukai Susumu Mukaiは、UKを拠点に活動する日本出身のミュージシャン兼プロデューサー。 Air, Playgroup, Graffiti, John Cale, Mickey Moonlight, Headman, Sandro Perri, Alexis Taylor, Seelenluft等のremixerとして活躍しており、Vanishing Twin, Becker & Mukai, Off World, Stalactite, School Of Hypnosisのメンバーとしてプレイしている。
 
-"Zongamin" is the debut album released by XL Recordings in 2003.
+「Zongamin」は2003年にXL Recordingsからリリースされたデビューアルバム。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ Mukai Susumu Mukai, also known as Zongamin, is a Japanese musician and producer 
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
 
 
 #### Youtube

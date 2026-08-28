@@ -10,27 +10,26 @@ tags:
 - Industrial
 - Noise
 - Experimental
-title: '[Column] Throbbing Gristle and the birth of industrial—the moment when music
-  collapses and is rebuilt'
+title: 【コラム】 Throbbing Gristleとインダストリアルの誕生——音楽が崩壊し再構築される瞬間
 ---
 
 
 
-## Introduction: Where does music break down?
+## はじめに：音楽はどこから壊れるのか
 
-Text: mmr｜Theme: A record of innovation that deconstructed the definition of music through noise and provocation and transformed the sounds of industrial society into art.
+文：mmr｜テーマ：ノイズと挑発によって音楽の定義を解体し、産業社会の音を芸術へ転化した革新の記録
 
-In the mid-1970s, rock music had already matured and pop music was becoming an industry. On the other hand, the fundamental question, ""What is music?'' remained fixed, with almost no one questioning it.
+1970年代半ば、ロックは既に成熟し、ポップミュージックは産業として完成されつつあった。その一方で、「音楽とは何か」という根本的な問いは、ほとんど誰にも疑われることなく固定されていた。
 
-Throbbing Gristle completely destroyed that premise.
+その前提を真正面から破壊したのが、Throbbing Gristleである。
 
-Their sound rejects melody, distorts rhythm, and collapses structure. It wasn't just an experiment. Rather, it was an attempt to expose ""how limited existing musical forms themselves are.''
+彼らの音は、旋律を拒否し、リズムを歪め、構造を崩壊させる。それは単に実験的だったのではない。むしろ「既存の音楽形式そのものが、いかに限定的であるか」を露呈させる試みだった。
 
-They didn't make music. It exposed the outside of music.
+彼らは音楽を作ったのではない。音楽の外側を露出させたのである。
 
-For audiences at the time, it was an experience closer to rejection than shock. However, within that rejection lay the possibility of new music.
+当時の聴衆にとって、それは衝撃というより、拒絶に近い体験だった。しかし、その拒絶の中にこそ、新しい音楽の可能性が潜んでいた。
 
-> There are areas that can only be seen through the destruction of music.
+> 音楽が壊れることでしか見えない領域がある。
 
 ---
 
@@ -39,7 +38,7 @@ For audiences at the time, it was an experience closer to rejection than shock. 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -48,141 +47,141 @@ color: #fff;
 </style>
 
 
-## Prehistory: Art that deals with the body, society, and taboos
+## 前史：身体・社会・タブーを扱う芸術
 
-To understand the essence of Throbbing Gristle, it is impossible to avoid the work of its predecessor, COUM Transmissions.
+Throbbing Gristleの本質を理解するには、その前身であるCOUM Transmissionsの活動を避けて通ることはできない。
 
-In the late 1960s, Genesis P-Orridge and Cosey Fanni Tutti were performing in areas that traditional art didn't cover: sex, violence, the body, and deviance.
+1960年代後半、Genesis P-OrridgeとCosey Fanni Tuttiは、既存の芸術が扱わない領域——性、暴力、身体、逸脱——をテーマにパフォーマンスを行っていた。
 
-Their works were often offensive and socially unacceptable. However, this was not just a provocation, but an act that exposed ""what society is trying not to see.''
+彼らの作品はしばしば不快であり、社会的に受け入れがたいものだった。しかし、それは単なる挑発ではなく、「社会が見ないようにしているもの」を露出させる行為だった。
 
-""Prostitution,'' held at the Institute of Contemporary Arts in London in 1976, is a symbolic event. The exhibition caused such an uproar that it was debated in the British Parliament, and they were denounced as "destroyers of civilization."
+1976年、ロンドンのInstitute of Contemporary Artsで開催された「Prostitution」は、その象徴的な出来事である。この展示は、英国議会で議論されるほどの騒動となり、彼らは「文明の破壊者」として非難された。
 
-However, what is important is that they were already challenging the ""limits of expression'' here. Music is just a medium chosen after the fact.
+だが重要なのは、ここで既に彼らが「表現の限界」に挑戦していたという点である。音楽は後から選ばれたメディアに過ぎない。
 
-COUM used their bodies, not their sounds, to clash with society. Throbbing Gristle was the one who translated that into sound.
+COUMは音ではなく身体を使って社会に衝突していた。Throbbing Gristleは、それを音へと変換した存在だった。
 
-> Their starting point was not music, but society itself.
-
----
-
-
-## Formation: Existing as a system rather than a band
-
-In 1975, Throbbing Gristle was formed. Members are Genesis P-Orridge, Cosey Fanni Tutti, Chris Carter, and Peter Christopherson.
-
-The composition of these four people is extremely important. This is because they were not just musicians, but a collective that brought together different fields.
-
-Carter was responsible for electronics design and sound processing, Christopherson was responsible for visuals and design, and P-Orridge and Tutti were responsible for concept and performance.
-
-In other words, they were not a "band" but a "cross-media system."
-
-Their phrase "Industrial Music for Industrial People" is more than just a genre name. It was a critique of social structure, and at the same time a declaration of the function of his music.
-
-How are humans managed, consumed, and standardized in an industrialized society? This process is reproduced as sound. That was their purpose.
-
-> They didn't play music, they recreated social structures.
+> 彼らの出発点は音楽ではなく、社会そのものだった。
 
 ---
 
 
-## Industrial Records: A revolution in DIY and distribution
+## 結成：バンドではなくシステムとしての存在
 
-Throbbing Gristle founded Industrial Records in 1976.
+1975年、Throbbing Gristleが結成される。メンバーはGenesis P-Orridge、Cosey Fanni Tutti、Chris Carter、Peter Christopherson。
 
-This decision was extremely important. Their work was not accepted commercially or ethically by major labels at the time.
+この4人の構成は極めて重要である。なぜなら、彼らは単なるミュージシャンではなく、それぞれ異なる領域を持ち寄った集合体だったからだ。
 
-They managed all recording, production, distribution, and sales themselves. This complete autonomy became the basic model for the later independent scene.
+Carterは電子機器の設計と音響処理を担い、Christophersonは映像とデザインを担当し、P-OrridgeとTuttiはコンセプトとパフォーマンスを担った。
 
-Industrial Records was more than just a label, it was an expansion device for thought. Not only the music, but also the visuals, text, logo, and packaging were all designed based on a unified concept.
+つまり彼らは「バンド」ではなく、「メディア横断的なシステム」だった。
 
-In addition, the influence spread to other artists through this label. From this point on, the concept of "industrial" expanded into a concrete movement.
+彼らが掲げた「Industrial Music for Industrial People」というフレーズは、単なるジャンル名ではない。それは社会構造への批評であり、同時に自らの音楽の機能を示す宣言だった。
 
-> Independence meant assuming responsibility, not freedom.
+工業化された社会の中で、人間はどのように管理され、消費され、規格化されていくのか。そのプロセスを音として再現する。それが彼らの目的だった。
 
----
-
-
-## Structure of sound: Using the outside of music as material
-
-Throbbing Gristle's sound cannot be captured by conventional music theory.
-
-They did not focus on playing musical instruments. Instead, he used synthesizers, homemade circuits, tape manipulation, feedback, and radio noise.
-
-What is important is that these are not just effects, but are treated as ""sounds themselves''.
-
-""The Second Annual Report'' is a symbolic work. This album is composed of live recordings and a collection of fragmented sounds, dismantling the traditional concept of a "song."
-
-Furthermore, ""20 Jazz Funk Greats'' intentionally incorporates a pop structure while embedding a sense of unease within it.
-
-This was a highly strategic shift. By presenting ""music that seems understandable but is incomprehensible'' rather than complete noise, they spread anxiety to a wider audience.
-
->Music existed not to be understood, but to shake.
+> 彼らは音楽を演奏するのではなく、社会構造を再生した。
 
 ---
 
 
-## Live: A space to test the limits of your senses
+## Industrial Records：DIYと流通の革命
 
-Seeing Throbbing Gristle live was a radically different experience than a traditional concert.
+Throbbing Gristleは1976年にIndustrial Recordsを設立する。
 
-Sounds are loud and repetitive, images are disturbing, and words are spoken provocatively. The audience is not allowed to "enjoy" but rather is forced to endure.
+この決断は極めて重要だった。当時のメジャーレーベルでは、彼らの作品は商業的にも倫理的にも受け入れられなかったからである。
 
-This is no coincidence. They were intentionally testing the limits of the audience's senses and psychology.
+彼らは録音、制作、流通、販売のすべてを自分たちで管理した。この完全な自律性は、後のインディペンデント・シーンにおける基本モデルとなる。
 
-In addition, each live performance had a different structure, was highly improvisational, and had low reproducibility. In other words, he refused to be fixed as a work of art.
+Industrial Recordsは単なるレーベルではなく、思想の拡張装置だった。音楽だけでなく、ビジュアル、文章、ロゴ、パッケージに至るまで、すべてが統一されたコンセプトのもとで設計されていた。
 
-This approach would later influence live experiences in noise, industrial, and even club culture.
+また、このレーベルを通じて、他のアーティストにも影響が広がっていく。インダストリアルという概念は、ここから具体的な運動として拡張していった。
 
-> The live performance was not a reenactment, but an event itself.
-
----
-
-
-## Conflict with society: censorship and misunderstanding
-
-Throbbing Gristle has always been subject to criticism and censorship due to its extreme expressions.
-
-Their works were often misunderstood and treated as ""dangerous'' for their depiction of violence and taboo themes. However, their intention was not to affirm these things, but to make visible the dark side of society.
-
-In this respect, they were also pioneers of media criticism. It used sound and visuals to show how information is manipulated and consumed.
-
-> They were a mirror of society, and at the same time a lens that amplified distortions.
+> 独立とは、自由ではなく責任を引き受けることだった。
 
 ---
 
 
-## Influence: create conditions, not genres
+## サウンドの構造：音楽の外側を素材にする
 
-Throbbing Gristle"s influence isn"t limited to any particular genre.
+Throbbing Gristleのサウンドは、従来の音楽理論では捉えきれない。
 
-He had a direct influence on contemporaries such as Cabaret Voltaire and SPK, as well as later artists such as Nine Inch Nails and Ministry.
+彼らは楽器の演奏を中心に据えなかった。代わりに、シンセサイザー、自作回路、テープ操作、フィードバック、ラジオノイズなどを用いた。
 
-Furthermore, its influence spread to include techno, noise, ambient, contemporary art, and even club culture.
+重要なのは、これらが単なるエフェクトではなく、「音そのもの」として扱われた点である。
 
-What they left behind was not a style, but the very condition of ""how to make music.''
+『The Second Annual Report』は、その象徴的な作品である。このアルバムはライブ録音や断片的な音の集合で構成され、従来の「楽曲」という概念を解体している。
 
-> They left behind a framework of thought, not a genre.
+さらに『20 Jazz Funk Greats』では、意図的にポップな構造を取り入れながら、その内部に不穏さを埋め込むという手法が取られた。
 
----
+これは極めて戦略的な転換だった。完全なノイズではなく、「理解できそうで理解できない音楽」を提示することで、より広い層に不安を浸透させたのである。
 
-
-## Dissolution and bifurcation: Expansion brought about by the end
-
-In 1981, Throbbing Gristle disbanded.
-
-However, after that, each member moved on to new projects such as Psychic TV and Coil.
-
-These activities further deepened the methods established by Throbbing Gristle.
-
-A reunion took place in 2004, and at the same time their past works were reevaluated, their influence on a new generation once again expanded.
-
-> Dissolution was not the end, but expansion through dispersion.
+> 音楽は理解されるためではなく、揺さぶるために存在した。
 
 ---
 
 
-## Timeline: History of Throbbing Gristle
+## ライブ：感覚の限界を試す空間
+
+Throbbing Gristleのライブは、従来のコンサートとは根本的に異なる体験だった。
+
+音は大音量で反復され、映像は不安を煽り、言葉は挑発的に発せられる。観客は「楽しむ」ことを許されず、むしろ耐えることを強いられる。
+
+これは偶然ではない。彼らは意図的に、観客の感覚と心理の限界を試していた。
+
+また、ライブは毎回異なる構成を持ち、即興性が強く、再現性が低かった。つまり、作品として固定されることを拒否していたのである。
+
+このアプローチは、後のノイズやインダストリアル、さらにはクラブカルチャーにおけるライブ体験にも影響を与える。
+
+> ライブは再現ではなく、出来事そのものだった。
+
+---
+
+
+## 社会との衝突：検閲と誤解
+
+Throbbing Gristleは、その過激な表現ゆえに、常に批判と検閲の対象となった。
+
+彼らの作品は、暴力やタブーを扱うことでしばしば誤解され、「危険な存在」として扱われた。しかし、彼らの意図はそれらを肯定することではなく、社会の暗部を可視化することにあった。
+
+この点において、彼らはメディア批評の先駆者でもあった。情報がどのように操作され、消費されるのかを、音と映像で提示していたのである。
+
+> 彼らは社会の鏡であり、同時に歪みを増幅するレンズだった。
+
+---
+
+
+## 影響：ジャンルではなく条件を作る
+
+Throbbing Gristleの影響は、特定のジャンルに限定されない。
+
+Cabaret VoltaireやSPKといった同時代のアーティストに加え、後のNine Inch Nails、Ministryなどに直接的な影響を与えた。
+
+さらに、テクノ、ノイズ、アンビエント、現代アート、さらにはクラブカルチャーに至るまで、その影響は広がっていく。
+
+彼らが残したのはスタイルではなく、「どのように音楽を作るか」という条件そのものだった。
+
+> 彼らはジャンルではなく、思考の枠組みを残した。
+
+---
+
+
+## 解散と分岐：終わりが生む拡張
+
+1981年、Throbbing Gristleは解散する。
+
+しかしその後、Psychic TV、Coilなど、メンバーはそれぞれ新たなプロジェクトへと移行する。
+
+これらの活動は、Throbbing Gristleで確立された手法をさらに深化させるものだった。
+
+2004年には再結成も行われ、過去の作品が再評価されると同時に、新しい世代への影響が再び拡大した。
+
+> 解散は終わりではなく、分散による拡張だった。
+
+---
+
+
+## 年表：Throbbing Gristleの歴史
 
 <div class="mermaid">
 timeline
@@ -199,19 +198,19 @@ timeline
 ---
 
 
-## Conclusion: What Only Those Who Destroyed Music Seen
+## 結論：音楽を壊した者だけが見たもの
 
-Throbbing Gristle didn't expand on music. I completely destroyed music once.
+Throbbing Gristleは、音楽を拡張したのではない。音楽を一度完全に壊した。
 
-What emerged as a result was the genre of industrial, and even more so, an idea that pertains to modern electronic music as a whole.
+その結果として現れたのが、インダストリアルというジャンルであり、さらには現代の電子音楽全体に通じる思考だった。
 
-Their works are still not easy to listen to. However, this sense of discomfort makes us question what we are looking for in music.
+彼らの作品は今もなお聴きやすいものではない。しかし、その違和感こそが、私たちが音楽に何を求めているのかを問い返してくる。
 
-Music doesn"t have to be comfortable. It doesn"t have to be beautiful.
+音楽は快適である必要はない。美しい必要もない。
 
-But how does it relate to reality? Only that question remains.
+ただ、現実とどのように関わるのか。その問いだけが残る。
 
-> They marked the end of music and paved the way beyond.
+> 彼らは音楽の終わりを提示し、その先を切り開いた。
 
 ---
 

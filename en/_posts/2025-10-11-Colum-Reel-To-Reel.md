@@ -10,21 +10,21 @@ tags:
 - CD
 - Cassette
 - History
-title: '[Column] Open reel revival theory: Magnetism will record the future again'
+title: 【コラム】 オープンリール復活論：磁気が再び未来を記録する
 ---
 
 
-## Signs of reel-to-reel revival — sound as matter is reconnected
+## オープンリール復活の予兆 — 物質としての音が再接続される
 
 
-Text: mmr｜Theme: What can the analog technology of magnetism tell us in the post-digital era?—The future of "Reel to Real" seen through the reprint of Rhino High Fidelity
+文：mmr｜テーマ：磁気というアナログ技術が、デジタル以後の時代に何を語りうるのか——Rhino High Fidelityの復刻から見える“Reel to Real”の未来
 
 
 2025. Rhino High Fidelity's announcement as part of its analog reprint series has caused a stir in the audio culture world.
-T. Rex"s ""Electric Warrior" and Yes"s ""The Yes Album," both masterpieces released in 1971, will be re-released in **reel-to-reel tape** format.
+T. Rex『Electric Warrior』とYes『The Yes Album』——いずれも1971年に発売された名盤が、**オープンリール・テープ**という形式で再リリースされるというのだ。
 
-Records have returned, and cassettes have been revived. The next thing that is rewound is **Reel to Reel**.
-This movement is not just nostalgia. It is a movement to bring back ""sound as a substance'' in an era where data is becoming increasingly lightweight and streaming is becoming more widespread.
+レコードが帰還し、カセットが蘇った。そして次に巻き戻されるのは、**Reel to Reel（オープンリール）**。  
+この動きは単なる懐古ではない。データの軽量化とストリーミングの普及が進む現代において、**「物質としての音」**を取り戻すムーブメントなのだ。
 
 ---
 
@@ -42,27 +42,27 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Analog after digital — Rebooting "lost physicality"
-Spotify and Apple Music have created a world where you can listen to music instantly and anywhere.
+## 第1章　デジタル以後のアナログ — “失われた身体性”のリブート
+SpotifyやApple Musicは、音を「即時に」「どこでも」聴ける世界を作った。  
 But there is no sense of touch. The sound became an abstract waveform on the cloud, losing its texture.
 
 Reel-to-reel does the exact opposite.
-Listeners change the reels, watch the rotation, and "play" the magnetic flow.
-There is an act of physically handling time. Sound is not just reproduced data, but returns to a phenomenon involving movement and friction.
+リスナーはリールを掛け替え、回転を見つめ、磁気の流れを“再生”する。  
+そこには**時間を物理的に扱う行為**がある。音は単なる再生データではなく、**運動と摩擦を伴う現象**へと戻る。  
 
-What modern people are looking for may be this "regenerating body."
-Reel-to-reel is a device that encourages the rematerialization of listening.
+現代人が求めているのは、もしかするとこの「再生する身体」かもしれない。  
+オープンリールは、**聴くことの再物質化**を促すデバイスなのだ。
 
 ---
 
-## Chapter 2 Media Theory of Magnetism — What is Recording?
-If you look at the surface of the tape with a microscope, you will see countless magnetic particles lined up there.
-Sound is a physical pattern in which electrical signals are arranged as magnetic shading.
-Unlike the digital world, which is made up of 0s and 1s, there is a ""continuous world'' here.
+## 第2章　磁気のメディア論 — 記録とは何か？
+テープの表面を顕微鏡で覗くと、そこには無数の磁性粒子が並んでいる。  
+音とは、電気信号を磁気の濃淡として並べた物理的パターンのこと。  
+0と1で構成されるデジタルとは異なり、ここには**“連続的な世界”**が存在する。
 
-What Reel-to-Reel depicts is not sonic data, but **sound memory**.
-It is a technology that prioritizes ""vividness" over ""accuracy."
-Magnetized tape contains the atmosphere of the performance, the humidity of the space, and even the engineer's intentions.
+オープンリールが描き出すのは、音のデータではなく、**音の記憶**である。  
+それは「正確さ」よりも「生々しさ」を優先するテクノロジーだ。  
+帯磁したテープは、演奏の空気・空間の湿度・エンジニアの意図までも含んでしまう。  
 In other words, it is a "material time device" that mediates sound.
 
 In contrast to infinite digital reproduction, reel-to-reel magnetism deteriorates, stretches, and disappears.
@@ -70,72 +70,72 @@ However, it is this "finiteness" that turns sound into a special event.
 
 ---
 
-## Chapter 3 Genealogy of analog revival and next wave
-Over the past 20 years, we have witnessed a ""resurgence of analogue'' many times.
-Records revive the **ritual of vision** through the ""object'' called the jacket,
-Cassettes brought back the DIY spirit and **lo-fi freedom**.
+## 第3章　アナログ復活の系譜と次の波
+ここ20年で私たちは何度も「アナログの復権」を目撃してきた。  
+レコードはジャケットという「物体」を通じて**視覚の儀式**を蘇らせ、  
+カセットはDIY的精神と**ローファイの自由**を取り戻した。
 
-And reel-to-reel goes even further.
-It is a return to the ""pure form of sound'', and the very origin of the act of recording.
-Determined to engrave sound not on a hard disk or on the cloud, but on the irreversible substance of magnetism.
+そして、オープンリールはそのさらに先を行く。  
+それは**「音響の純粋形態」**への回帰であり、録音という行為の源流そのもの。  
+ハードディスクでもクラウドでもなく、**磁気という不可逆な物質**に音を刻むという決意。
 
-The analog revival is not just a nostalgic revival;
-**It's a human counterculture to digital saturation**.
+アナログ復活は、ノスタルジーの再演ではなく、  
+**デジタルの飽和に対する人間的なカウンターカルチャー**なのだ。  
 
 ---
 
-## Chapter 4 Presented by Rhino High Fidelity — "High-Resolution Nostalgia"
-For Rhino's reprint, we have selected two works from 1971 that symbolize the pinnacle of analog recording.
-T. Rex's ""Electric Warrior'' is a glam rock metal heat.
+## 第4章　Rhino High Fidelityが提示したもの — 「高解像度のノスタルジア」
+Rhinoの復刻は、1971年というアナログ録音の頂点を象徴する2作品を選んだ。  
+T. Rex『Electric Warrior』はグラムロックの金属的な熱、  
 Yes "The Yes Album" is a progressive rock acoustic space.
-The intention is to reproduce them with a quality that is as close as possible to the master tapes.
+それらを**マスターテープに限りなく近いクオリティ**で再現する意図がある。
 
 However, what is important here is not "sound quality".
-"High Fidelity" is not only "high fidelity" but also **faithfulness to reality**.
-Noise and distortion have been removed by the wave of digitalization,
-In fact, it was proof of the human imperfection that music had.
+「High Fidelity」とは、“高忠実度”であると同時に、**現実（Reality）への忠実さ**でもある。  
+デジタル化の波で削ぎ落とされたノイズや歪みは、  
+実は音楽が持っていた**人間的な不完全さの証拠**だった。  
 
-Rhino's endeavor represents a shift from "perfect reproduction" to "honest reproduction."
-It is an act of "believing in sound" rather than "consuming sound."
+Rhinoの試みは、「完璧な再生」から「誠実な再現」への転換を意味している。  
+それは、“音を消費する”のではなく“音を信じる”行為なのだ。
 
 ---
 
 ## Chapter 5 Reelism 2025: The birth of a new analog culture
-Reel-to-reel is currently undergoing a quiet update.
-Companies such as Recording The Masters and ATR Magnetics have resumed tape production.
+オープンリールは今、静かなアップデートを遂げている。  
+Recording The MastersやATR Magneticsといった企業がテープ製造を再開し、  
 Young engineers and artists are rebuilding the "Reel culture."
 
 In the area of ​​ambient and experimental music,
-Open reel is being reevaluated as a ""media that shows processes''**.
+オープンリールが**「プロセスを見せるメディア」**として再評価されている。  
 Rather than cutting and pasting sounds,
 I actually cut the tape, splice it, and edit it by hand.
-This analog operation paradoxically stimulates the creativity of the digital generation.
+そのアナログ的な操作が、逆説的に**デジタル世代の創造性**を刺激する。  
 
-Reel-to-reel is no longer "vintage";
-**"Hacker analog" is becoming a symbol of post-digital.**
+オープンリールは今や“ヴィンテージ”ではなく、  
+**“ハッカー的アナログ”＝ポスト・デジタルの象徴**になりつつある。
 
 ---
 
 ## Chapter 6 Reel to Mind — The future of perception expanded by analog
-Listening to reel-to-reel is not like rewinding time.
-Rather, it is an act of reconstructing time.
-As the tape is played, the number of tapes decreases, and the sound continues to play in a finite space.
-Its finite nature encourages listeners to concentrate and immerse themselves.
+オープンリールを聴くことは、時間を巻き戻すことではない。  
+むしろ、**時間を再構築する行為**だ。  
+再生とともにテープは減り、音は有限の中で鳴り続ける。  
+その有限性が、聴く者に集中と没入を促す。
 
 Just as the infinite loop of streaming gave rise to "listening while listening,"
-Reel's limited time will help you regain your ability to concentrate on listening.
-Analog is no longer retro.
-It's another way technology expands human senses.
+リールの有限な時間は「聴くという集中力」を取り戻す。  
+アナログはもはやレトロではない。  
+それは、**テクノロジーが人間の感覚を拡張するもう一つの方法**なのだ。  
 
 ---
 
 ## Final Chapter: Where does the magnetic memory go?
 The sounds engraved on magnetic bands are not records of the past, but physical messages for the future.
 As digital technology dominates memory as "data,"
-Reel-to-reel is trying to regain its memory as a "material".
+オープンリールは“物質”としての記憶を再び取り戻そうとしている。  
 
-The reissue of Rhino High Fidelity is just the first symbolic step.
-When sound **has gravity** again, we will remember the meaning of the act of ""listening''.
+Rhino High Fidelityの復刻は、その象徴的な第一歩にすぎない。  
+音が再び**重力を持つ**とき、私たちは「聴く」という行為の意味を思い出すだろう。  
 Reel is once again turning to record the future.
 
 ---
@@ -146,11 +146,11 @@ Reel is once again turning to record the future.
 <div class="mermaid">
 
 flowchart TD
-    A1950["1950s: Popularization of open reel for home use (Sony, Akai)"]
+    A1950["1950年代：家庭用オープンリール普及（ソニー、アカイ）"]
     A1971["1971: T. Rex"s "Electric Warrior"/Yes"s "The Yes Album" released"]
-    A1982["1980s: The advent of CD, the end of the analog era"]
-    A2000["2000s: Analog re-evaluation and resumption of tape production"]
-    A2025["2025: Rhino High Fidelity announces reel-to-reel reissue"]
+    A1982["1980年代：CD登場、アナログ時代の終焉"]
+    A2000["2000年代：アナログ再評価とテープ製造再開"]
+    A2025["2025年：Rhino High Fidelityがオープンリール復刻を発表"]
 
     A1950 --> A1971 --> A1982 --> A2000 --> A2025
 
@@ -158,22 +158,22 @@ flowchart TD
 
 ---
 
-### Appendix B: Reel-to-reel reprint lineup
+### 付録B：オープンリール復刻ラインナップ
 
-[Rhino sales link-RHINO HIGH FIDELITY](https://store.rhino.com/en/rhino-store/special-edition-shops/rhino-high-fidelity)
+[Rhinoの販売先リンク-RHINO HIGH FIDELITY](https://store.rhino.com/en/rhino-store/special-edition-shops/rhino-high-fidelity)
 
 | Artist | Title | Year | Link |
-| :----- | :----- | :--: | :-------------------------------------------------- |
+| :----- | :--------------- | :--: | :-------------------------------------------------- |
 | T. Rex | Electric Warrior | 1971 | [Amazon](https://amzn.to/4nMX4Wg) |
 | Yes | The Yes Album | 1971 | [Amazon](https://amzn.to/4mZJxt9) |
 
 ---
 
-> "Reel to Reel is Reel to Real."
+> 「Reel to Reelは、Reel to Real（現実）である。」
 
 ---
 
 
-### Related columns
+### 関連コラム
 
 🔗 [[Column] "From the sound of a needle to streaming, sound continues to live on through time." From the era of rewind to the era of infinite skip](https://monumental-movement.jp/Column-Media-Types)

@@ -10,36 +10,35 @@ tags:
 - Rock n Roll
 - Music History
 - Rock
-title: '[Column] Elvis Presley: The birth of rock and roll and the biggest star of
-  the 20th century'
+title: '【コラム】 Elvis Presley: ロックンロールの誕生と20世紀最大のスター'
 ---
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: Tracing the life and achievements of Elvis Presley, who fused gospel, blues, and country and spread rock"n"roll to the world.
+文：mmr｜テーマ：ゴスペル、ブルース、カントリーを融合し、ロックンロールを世界へ広めたエルヴィス・プレスリーの生涯と功績を辿る
 
-When discussing the history of 20th century popular music, there are certain names that cannot be avoided.
+20世紀のポピュラー音楽史を語るとき、避けて通れない名前がある。
 
-Elvis Presley.
+エルヴィス・プレスリー。
 
-Known as the "King of Rock and Roll," he was more than just a popular singer.
+「キング・オブ・ロックンロール」と呼ばれた彼は、単なる人気歌手ではなかった。
 
-The America in which he appeared in the 1950s was a society with clear boundaries between races, cultures, and generations.
+彼が現れた1950年代のアメリカは、人種、文化、世代の境界線がはっきり存在する社会だった。
 
-At a time like this, a young white man from the South boldly incorporated the influence of black music, fused it with country and gospel, and presented it to the world as a completely new music.
+そんな時代に、南部の白人青年が黒人音楽の影響を大胆に取り込み、カントリーやゴスペルと融合させ、まったく新しい音楽として世界へ提示した。
 
-The impact is not limited to the music industry.
+その衝撃は音楽業界だけにとどまらない。
 
-It changed fashion, movies, television, youth culture, and even pop culture itself around the world.
+ファッション、映画、テレビ、若者文化、さらには世界中のポップカルチャーそのものを変えていった。
 
-Elvis wasn't the only person who created rock and roll.
+エルヴィスはロックンロールを作った唯一の人物ではない。
 
-But he was the man who turned rock"n"roll into a worldwide phenomenon.
+しかし、ロックンロールを世界規模の現象へ変えた人物だった。
 
 In this article, we will re-examine Elvis Presley's influence while tracing his life and musical achievements along with the historical background.
 
-> The story of Elvis is not just the success story of one star, but also the cultural history of the 20th century.
+> エルヴィスの物語は、一人のスターの成功談ではなく、20世紀文化史そのものでもある。
 
 
 <style type="text/css">
@@ -47,7 +46,7 @@ In this article, we will re-examine Elvis Presley's influence while tracing his 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -58,113 +57,113 @@ color: #fff;
 
 ---
 
-## Young Elvis and Southern America
+## 少年エルヴィスと南部アメリカ
 
-January 8, 1935.
+1935年1月8日。
 
-Elvis Aaron Presley was born in Tupelo, Mississippi.
+ミシシッピ州トゥペロでエルヴィス・アーロン・プレスリーは誕生した。
 
-The family was never wealthy.
+家庭は決して裕福ではなかった。
 
 His father, Vernon Presley, had many regular jobs, while his mother, Gladys, supported the household while raising her son.
 
-Elvis was born as a twin, but his older brother Jesse was stillborn.
+エルヴィスは双子として生まれたが、兄ジェシーは死産だった。
 
-As a result, he essentially grew up as an only child.
+そのため、彼は実質的に一人っ子として育つ。
 
-From an early age, he attended church and became familiar with gospel music.
+幼少期から教会へ通い、ゴスペル音楽に親しんだ。
 
-This experience greatly influenced his later singing style.
+この経験は後年の歌唱スタイルに大きな影響を与える。
 
-On the other hand, he was also absorbing country and blues music through the radio.
+一方で彼はラジオを通じてカントリーやブルースも吸収していた。
 
-In the American South, black and white music existed geographically close to each other.
+南部アメリカでは黒人音楽と白人音楽が地理的には近くに存在していた。
 
 However, they were socially divided.
 
-Elvis was one of the few young people who naturally crossed that line.
+エルヴィスはその境界線を自然に横断した数少ない若者だった。
 
-In 1948, the family moved to Memphis, Tennessee.
+1948年、一家はテネシー州メンフィスへ移住する。
 
-This migration would greatly change later history.
+この移住が後の歴史を大きく変えることになる。
 
-Memphis was a city where blues and country intersected.
+メンフィスはブルースとカントリーが交差する街だった。
 
-It was the ideal musical environment for young Elvis.
+若きエルヴィスにとって、まさに理想的な音楽環境だったのである。
 
 <div class="mermaid">
 graph LR
-A[gospel] --> D[elvis]
-B[blues] --> D
+A[ゴスペル] --> D[エルヴィス]
+B[ブルース] --> D
 C[country] --> D
-D --> E[unique style]
+D --> E[独自のスタイル]
 </div>
 
-> Later rock and roll was born from the diverse musical experiences he absorbed as a boy.
+> 後のロックンロールは、少年時代に吸収した多様な音楽体験から生まれていた。
 
 ---
 
-## Fateful encounter with Sun Records
+## サン・レコードとの運命的な出会い
 
-1953.
+1953年。
 
-Elvis, now 18, visits Sun Studios in Memphis.
+18歳になったエルヴィスはメンフィスのサン・スタジオを訪れる。
 
-He paid a few dollars and recorded an acetate record as a present for his mother.
+数ドルを支払い、母親へのプレゼントとしてアセテート盤を録音した。
 
 This action will change your life.
 
-Sam Phillips, who ran Sun Records, had been looking for a ""white singer with a black musical sensibility'' for some time.
+サン・レコードを運営していたサム・フィリップスは、以前から「黒人音楽の感覚を持つ白人歌手」を探していた。
 
-Elvis was close to exactly that condition.
+エルヴィスはまさにその条件に近かった。
 
-In 1954, he did a recording session with guitarist Scotty Moore and bassist Bill Black.
+1954年、ギタリストのスコティ・ムーア、ベーシストのビル・ブラックと共に録音セッションを行う。
 
-Arthur Crudup"s blues song ""That"s All Right,'' played during the break, received a great response.
+休憩中に演奏したアーサー・クルーダップのブルース曲「That's All Right」が大きな反響を呼んだ。
 
-History begins from here.
+ここから歴史が動き始める。
 
-The song that was played on the radio quickly became a hot topic.
+ラジオで流された楽曲は瞬く間に話題となった。
 
-The audience could not tell whether the person singing was white or black.
+聴衆は歌っている人物が白人なのか黒人なのか分からなかったという。
 
-He had a different sensibility from traditional white singers.
+それほど従来の白人歌手とは異なる感覚を持っていた。
 
-From 1954 to 1955, he toured extensively in the South.
+1954年から1955年にかけて、彼は南部を中心にツアーを重ねる。
 
-At the live venue, young people were starting to get excited.
+ライブ会場では若者たちが熱狂し始めていた。
 
-> The Sun Records era was a time when Elvis discovered his own musical language.
+> サン・レコード時代は、エルヴィスが自分自身の音楽言語を発見した時期だった。
 
 ---
 
-## Rock"n"roll explosion moment
+## ロックンロール爆発の瞬間
 
-End of 1955.
+1955年末。
 
-Elvis signs a contract with major label RCA.
+エルヴィスは大手レーベルRCAと契約する。
 
-From here, run up the stairs to the star.
+ここからスターへの階段を駆け上がる。
 
-"Heartbreak Hotel", released in 1956, reached number one in the United States.
+1956年に発表された「Heartbreak Hotel」は全米1位を獲得。
 
-The following songs, ""Hound Dog" and ""Don't Be Cruel," also became big hits.
+続く「Hound Dog」「Don't Be Cruel」も大ヒットとなった。
 
-At the time, the youth music market was rapidly expanding in America.
+当時のアメリカでは、若者向け音楽市場が急速に拡大していた。
 
-Elvis becomes a symbol of this.
+エルヴィスはその象徴となる。
 
-However, his popularity cannot be explained by music alone.
+しかし彼の人気は音楽だけでは説明できない。
 
-The intense hip movements he showed on TV.
+テレビ出演で見せた激しい腰の動き。
 
-Unique hairstyle.
+独特のヘアスタイル。
 
-A performance that can be called provocative.
+挑発的とも言えるパフォーマンス。
 
-Conservative adults strongly objected.
+保守的な大人たちは強く反発した。
 
-Meanwhile, young people were enthusiastic.
+一方で若者たちは熱狂した。
 
 <div class="mermaid">
 timeline
@@ -175,180 +174,180 @@ timeline
 1956 : 全米的スターへ
 </div>
 
-Some TV stations even took measures to not show people from the waist down.
+テレビ局によっては腰から下を映さない措置まで取られた。
 
-That's how much he shook up the values ​​of his time.
+それほど彼は時代の価値観を揺さぶったのである。
 
-> The arrival of Elvis was a revolution in youth culture more than music.
+> エルヴィスの登場は、音楽以上に若者文化の革命だった。
 
 ---
 
-## Success as a movie star
+## 映画スターとしての成功
 
-From 1956 onwards, Hollywood also took notice of Elvis.
+1956年以降、ハリウッドもエルヴィスに注目する。
 
-Her first film, Love Me Tender, was a commercial success.
+初主演映画『Love Me Tender』は興行的成功を収めた。
 
-From then on, he appeared in many films until the early 1960s.
+以後、1960年代前半まで多数の映画に出演する。
 
-Representative works include the following.
+代表作には以下がある。
 
 * Love Me Tender
 * Jailhouse Rock
-*King Creole
-*Blue Hawaii
+* King Creole
+* Blue Hawaii
 * Viva Las Vegas
 
-In particular, the dance scene in ""Jailhouse Rock'' is still talked about as a famous scene in rock history.
+特に『Jailhouse Rock』のダンスシーンは現在でもロック史の名場面として語られる。
 
-The movie further expanded Elvis' popularity.
+映画はエルヴィスの人気をさらに拡大した。
 
-It has spread not only to music fans but also to the general public.
+音楽ファンだけでなく一般層へも浸透したのである。
 
-However, his film-centered activities were also criticized.
+ただし映画中心の活動には批判もあった。
 
-This is because many of the works have become similar in content and the musical challenge has decreased.
+多くの作品が似た内容になり、音楽的挑戦が減ったからである。
 
-> His success as a movie star was huge, but it also led to stagnation as a musician.
-
----
-
-## Military life and changing times
-
-1958.
-
-At the height of his popularity, Elvis enlists in the U.S. Army.
-
-The fact that he served as a regular soldier despite being a star became a hot topic.
-
-While stationed in Germany, he met his future wife, Priscilla.
-
-Discharged in 1960.
-
-After returning to Japan, the single "It's Now or Never" became a huge hit.
-
-But the music world was changing.
-
-In the early 1960s, a new generation of artists emerged.
-
-In particular, the Beatles, who emerged from England, took the world by storm.
-
-Rock begins to evolve in more diverse directions.
-
-Although Elvis remained popular, he was gradually drifting away from the center of the era.
-
-> Military life marked a break in Elvis' life, and the music scene was heading into a new era.
+> 映画スターとしての成功は巨大だったが、同時に音楽家としての停滞も招いていた。
 
 ---
 
-## 1968 Comeback Special
+## 軍隊生活と時代の変化
 
-Late 1960s.
+1958年。
 
-Elvis' career was stagnant.
+人気絶頂のエルヴィスはアメリカ陸軍へ入隊する。
 
-While his film appearances continued, his musical reputation was declining.
+スターでありながら一般兵として勤務したことは大きな話題になった。
 
-A TV special in 1968 completely changed that situation.
+ドイツ駐留中には後に妻となるプリシラと出会う。
 
-Commonly known as ""68 Comeback Special.''
+1960年に除隊。
 
-Elvis, dressed in black leather, sings in front of a small audience.
+帰国後のシングル「It's Now or Never」は大ヒットとなる。
 
-His appearance reminded me of the rebels of the 1950s.
+しかし音楽界は変化していた。
 
-He's not a flashy movie star.
+1960年代前半になると、新しい世代のアーティストが台頭する。
 
-He was a pure rock"n"roll singer.
+特にイギリスから現れたビートルズは世界を席巻した。
 
-The program becomes a great success.
+ロックはより多様な方向へ進化し始める。
 
-Many critics consider this special to be one of the biggest comebacks of his career.
+エルヴィスも依然として人気を維持していたが、時代の中心から少しずつ離れつつあった。
+
+> 軍隊生活はエルヴィスの人生に区切りを与え、音楽シーンは新たな時代へ向かっていた。
+
+---
+
+## 1968年カムバック・スペシャル
+
+1960年代後半。
+
+エルヴィスのキャリアは停滞していた。
+
+映画出演が続く一方で、音楽的評価は低下していた。
+
+そんな状況を一変させたのが1968年のテレビ特番だった。
+
+通称「68 Comeback Special」。
+
+黒革の衣装に身を包み、小規模な観客の前で歌うエルヴィス。
+
+その姿は1950年代の反逆者を思い出させた。
+
+派手な映画スターではない。
+
+純粋なロックンロール・シンガーとしての姿だった。
+
+番組は大成功となる。
+
+多くの評論家は、この特番を彼のキャリア最大級の復活劇と評価している。
 
 <div class="mermaid">
 flowchart LR
-A[Movie-centric era]
---> B[Stagnant popularity]
---> C[1968 special number]
---> D[reputation recovery]
---> E[Live activity revival]
+A[映画中心時代]
+--> B[人気停滞]
+--> C[1968特番]
+--> D[評価回復]
+--> E[ライブ活動復活]
 </div>
 
 > The 1968 revival marked a turning point for Elvis to be recognized as a musician again.
 
 ---
 
-## Las Vegas era
+## ラスベガス時代
 
-1970s.
+1970年代。
 
-Elvis mainly performs in Las Vegas.
+エルヴィスはラスベガス公演を中心に活動する。
 
-Luxurious jumpsuit.
+豪華なジャンプスーツ。
 
-Large band.
+大編成バンド。
 
-huge stage.
+巨大なステージ。
 
-The former rock"n"roll youth had become the king of entertainment.
+かつてのロックンロール青年はエンターテインメントの王となっていた。
 
-In 1973, ""Aloha from Hawaii'' was broadcast by satellite to countries around the world.
+1973年には『Aloha from Hawaii』が衛星中継で世界各国へ放送された。
 
-This is said to be one of the first large-scale global music broadcasts in history.
+これは史上初の大規模グローバル音楽中継の一つとされる。
 
-Live performances still received high praise.
+ライブパフォーマンスは依然として高い評価を受けた。
 
-However, problems increase in his personal life.
+しかし私生活では問題が増えていく。
 
-Deterioration of health.
+健康状態の悪化。
 
-Dependence on prescription drugs.
+処方薬への依存。
 
-The emotional burden of divorce.
+離婚による精神的負担。
 
-These problems gradually became more serious.
+こうした問題は徐々に深刻化した。
 
-> The Las Vegas years were a time of immense success and personal struggle.
+> ラスベガス時代は巨大な成功と個人的苦悩が同時に進行した時期だった。
 
 ---
 
-## Last days and sudden death
+## 最後の日々と突然の死
 
-August 16, 1977.
+1977年8月16日。
 
-Elvis died at his home, Graceland, in Memphis, Tennessee.
+エルヴィスはテネシー州メンフィスの自宅グレイスランドで亡くなった。
 
-He was 42 years old.
+42歳だった。
 
-Shock runs throughout the world.
+世界中に衝撃が走る。
 
-Tens of thousands of fans gathered to pay their respects.
+数万人のファンが追悼のため集まった。
 
-Even after his death, his popularity did not decline.
+死後も人気は衰えなかった。
 
-Albums continue to sell.
+アルバムは売れ続ける。
 
-Video works will also be reevaluated.
+映像作品も再評価される。
 
-New generations of fans continued to emerge.
+新たな世代のファンも生まれ続けた。
 
-Many stars are forgotten over time.
+多くのスターは時代とともに忘れられる。
 
-But Elvis was an exception.
+しかしエルヴィスは例外だった。
 
-He became a mythical figure.
+彼は神話的存在となったのである。
 
-> His death in 1977 was not the end, but the beginning of a legend.
+> 1977年の死は終わりではなく、伝説の始まりでもあった。
 
 ---
 
 ## What Elvis left behind in music history
 
-Elvis didn't invent rock and roll.
+エルヴィスはロックンロールの発明者ではない。
 
 However, as a popularizer he was unparalleled.
 
-There are many elements that he bridged.
+彼が橋渡しした要素は数多い。
 
 <div class="mermaid">
 mindmap
@@ -361,61 +360,61 @@ root((Elvis))
   グローバル化
 </div>
 
-There are countless artists who say they have been influenced by him.
+影響を受けたと語るアーティストは数え切れない。
 
-* the beatles
-* Rolling Stones
-* Bob Dylan
-*Bruce Springsteen
-*U2
-*Many contemporary artists
+* ビートルズ
+* ローリング・ストーンズ
+* ボブ・ディラン
+* ブルース・スプリングスティーン
+* U2
+* 多くの現代アーティスト
 
-Without him, pop music would likely look very different today.
+彼の存在がなければ、現在のポップミュージックは大きく異なる姿になっていた可能性が高い。
 
-> Elvis was the person who established the very concept of a rock star in the world.
+> エルヴィスはロックスターという概念そのものを世界へ定着させた人物だった。
 
 ---
 
-## Chronology
+## 年表
 
-| Year | Events |
+| 年    | 出来事                   |
 | ---- | --------------------- |
-| 1935 | Born in Tupelo, Mississippi |
-| 1948 | Move to Memphis |
-| 1953 | First recording at Sun Studio |
-| 1954 | That's All Right Announcement |
-| 1955 | RCA contract |
-| 1956 | Heartbreak Hotel No. 1 in America |
-| 1958 | Enlisted in the U.S. Army |
-| 1960 | Discharge |
-| 1968 | Comeback Special |
-| 1969 | Las Vegas performance begins |
-| 1973 | Aloha from Hawaii |
-| 1977 | Passed away |
+| 1935 | ミシシッピ州トゥペロで誕生         |
+| 1948 | メンフィスへ移住              |
+| 1953 | サン・スタジオで初録音           |
+| 1954 | That's All Right 発表   |
+| 1955 | RCA契約                 |
+| 1956 | Heartbreak Hotel 全米1位 |
+| 1958 | アメリカ陸軍入隊              |
+| 1960 | 除隊                    |
+| 1968 | Comeback Special      |
+| 1969 | ラスベガス公演開始             |
+| 1973 | Aloha from Hawaii     |
+| 1977 | 死去                    |
 
 ---
 
-## Why is Elvis still talked about?
+## なぜ今もエルヴィスは語られるのか
 
-Despite being an artist born over 90 years ago, Elvis is still talked about all over the world.
+90年以上前に生まれたアーティストでありながら、エルヴィスは今も世界中で語られている。
 
-It's not just because they had a lot of hit songs.
+それはヒット曲が多かったからだけではない。
 
 He crossed musical boundaries.
 
-It transcended racial barriers.
+人種の壁を越えた。
 
-It transcended generational barriers.
+世代の壁を越えた。
 
-Through music, he presented the values ​​of a new era.
+そして音楽を通じて新しい時代の価値観を提示した。
 
-Rock and roll wasn't just a music genre.
+ロックンロールは単なる音楽ジャンルではなかった。
 
-It was a symbol of freedom and change.
+自由と変化の象徴だった。
 
-At the center of this was Elvis Presley.
+その中心に立っていたのがエルヴィス・プレスリーだったのである。
 
-> Elvis' legacy lies not only in his songs, but in the power of music to change culture.
+> エルヴィスの遺産は楽曲だけではなく、文化を変える音楽の力そのものにある。
 
 
 ---

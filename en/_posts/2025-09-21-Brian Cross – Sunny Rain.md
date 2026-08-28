@@ -13,11 +13,11 @@ title: Brian Cross – Sunny Rain
 ---
 
 
-Brian Cross (Brian Fortuny Cruz) is a Spanish DJ/producer.
+Brian Cross (Brian Fortuny Cruz)は、スペインのDJ／プロデューサー。
 
 This record is House/Electro, released in 2008 by Italian dance/house label Net's Work International. (promo edition)
 
-A1 is a remix by Robbie Rivera, head of Miami label Juicy Music.
+A1は、マイアミのレーベルJuicy Musicの主宰Robbie Riveraによるremix。
 
 B1 is a remix by Swedish DJ/producer StoneBridge (Sten Hallström), known for his Grammy-nominated remixes of Robin S"s "Show Me Love" (1993) and Ne-Yo"s "Closer" (2008).
 

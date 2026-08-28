@@ -11,20 +11,19 @@ tags:
 - 90s
 - 00s
 - sts9
-title: '[Column] Sound Tribe Sector 9 (STS9) - The trajectory of a 21st century live
-  band where improvisation and electronic music intersect'
+title: 【コラム】 Sound Tribe Sector 9（STS9）――即興と電子音楽が交差する21世紀型ライブバンドの軌跡
 ---
 
 
 ## The avant-garde of 21st century live music where improvisation and electronic music intersect
 
-Text: mmr｜Theme: History of STS9 from its formation to the present, musical characteristics, live philosophy, representative works, and cultural and social influence
+文：mmr｜テーマ：STS9 の結成から現在に至る歴史、音楽的特質、ライブの哲学、代表作、そして文化的・社会的影響について
 
 
-Sound Tribe Sector 9 (*STS9*) is known as a representative of "livetronica", which has undergone a unique evolution in the American live scene from the late 1990s to the present.
+Sound Tribe Sector 9（以下 *STS9*）は、1990年代末から現在まで、アメリカのライブシーンにおいて独自の進化を遂げてきた“ライブトロニカ（livetronica）”の代表格として知られる。  
 Their music is a fusion of the improvisational nature of a jam band, the structure and texture of electronic music, and the groove of club culture, making them different from just a rock band or an electronic music unit.
 
-Their stance has always been that ""music = an experience in a live space,'' and they have placed emphasis on autonomous community formation, from production to tour management, stage direction, and social activities.
+その姿勢は一貫して「音楽＝ライブ空間での体験」であり、作品制作からツアー運営、舞台演出、社会活動に至るまで、**自律的なコミュニティ形成**を重視してきた。
 
 ---
 
@@ -33,7 +32,7 @@ Their stance has always been that ""music = an experience in a live space,'' and
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -42,64 +41,64 @@ color: #fff;
 </style>
 
 
-# 1. History before formation (~1997): "Neither a band nor a DJ" style born around Atlanta
+# 1. 結成前史（〜1997）：アトランタの周辺で生まれた「バンドでもDJでもない」スタイル
 
-The origins of STS9 can be traced back to the mid-1990s, when musicians active in the Atlanta area formed
-**"Is it possible to create the atmosphere that a DJ creates in a club with live music?"**
-It is said that it started with this question.
+STS9 の起源は、1990年代半ばのアトランタ周辺で活動していたミュージシャンたちが、  
+**“DJ がクラブで作っている空気感を、生演奏で作れないか？”**  
+という疑問から始まったとされる。
 
 The members had a wide range of backgrounds, including rock, jazz, funk, electronic music, and even world music. In particular, the "groove-first ensemble" emphasized by the drum/percussion team became an important core that has continued from the beginning to the present.
 
-Around 1997, a rare
-**Electronica x Live Ensemble**
-This direction was formed and the name Sound Tribe Sector 9 was started.
+1997年頃には、当時としては珍しい  
+**エレクトロニカ × ライブアンサンブル**  
+という方向性が形成され、Sound Tribe Sector 9 という名義がスタートする。
 
 ---
 
-# 2. 1998–2002: Early works and adaptation to touring culture
+# 2. 1998–2002：初期作品とツアー文化への適応  
 ## 2-1. Debut Era ― *Interplanetary Escape Vehicle* (1998)
 
-Their debut album, Interplanetary Escape Vehicle, released in 1998, had a stronger live performance feel compared to the current STS9, with a mix of post-rock-like guitar expanses, Afrobeat-like rhythms, and jazz-like ensembles.
+1998年リリースのデビュー作『Interplanetary Escape Vehicle』は、現在のSTS9と比較すると生演奏色が強く、ポストロック的なギターの広がり、アフロビート的なリズム、ジャズ的なアンサンブルが混在している。
 
-At the time, "livetronica" bands that mixed electronic music and improvisation, such as The Disco Biscuits and The New Deal, were beginning to emerge in the United States, and STS9 was positioned as part of this trend.
+当時のアメリカでは、The Disco Biscuits や The New Deal など、電子音楽と即興を混ぜた“ライブトロニカ”系バンドが台頭し始めており、STS9 もその潮流の一端に位置づけられる。
 
-## 2-2. Resonance with festival culture
+## 2-2. フェス文化との共鳴
 
 During this period, STS9 actively performed at local festivals.
-**"Clubs/Fests/Live Bands Intersect Equally"**
-We have established a unique position.
+**「クラブ／フェス／ライブバンドが同等に交差する」**  
+という独自の立ち位置を確立した。
 
-- long improvisations
-- DJ-like loop feel
-- Lighting and video production with a worldview
+- 長尺の即興  
+- DJ 的なループ感  
+- 世界観を持つ照明や映像演出  
 
-These were rare in the rock scene at the time, and were described by the audience as a ""DJ set that played.''
+これらは当時のロックシーンには珍しく、観客からは“演奏するDJセット”とも形容された。
 
 ---
 
-# 3. 2003–2008: Full-fledged approach to electronic music and golden age
-## 3-1. *Artifact* (2005) - STS9's iconic work
+# 3. 2003–2008：電子音楽への本格的接近と黄金期  
+## 3-1. *Artifact*（2005）― STS9 の象徴的作品
 
-2005"s "Artifact" is considered to be STS9"s masterpiece.
+2005年の『Artifact』は、**STS9 の代表作**とされるアルバムである。
 
-The multi-layered structure of synth layers, programmed beats, and thick percussion completely moved them away from the jam band framework and into a more electronic music direction.
+シンセのレイヤー、プログラミングされたビート、厚いパーカッションの多層構造は、ジャムバンドという枠組みから完全に離れ、より電子音楽的な方向性へ踏み込んだ。
 
-Representative song:
-- "Atlas"
-- "Something"
-- "Arigato"
-- "Tokyo"
--"Peoples"
+代表曲：
+- “Atlas”
+- “Somesing”
+- “Arigato”
+- “Tokyo”
+- “Peoples”
 
-These are frequently played in the current setlist and best symbolize STS9's musical image.
+これらは現在のセットリストでも頻繁に演奏されており、STS9 の音楽的イメージを最もよく象徴する。
 
-"Artifact" is a work that showcases STS9's sound and creativity to the fullest, earning high acclaim in the electronic music and jam band scene for its unique sound and innovative approach.
+「Artifact」は、STS9のサウンドとクリエイティビティを最大限に発揮した作品であり、その独特なサウンドと革新的なアプローチによって、エレクトロニックミュージックやジャムバンドシーンで高い評価を得ています。
 
-Their sound combines elements from a variety of genres, including ambient, electronica, jazz, funk, and dubstep.
+アンビエント、エレクトロニカ、ジャズ、ファンク、ダブステップなど、さまざまなジャンルの要素を組み合わせたサウンドが特徴です。
 
-A2"s "Tokyo" is known as STS9"s signature song and is often played in live performances.
+A2の「Tokyo」は、STS9の代表的な楽曲として知られており、ライブパフォーマンスでも頻繁に演奏されます。
 
-"Artifact" is an important album in STS9's career, and is a must-have for fans of the band.
+「Artifact」は、STS9のキャリアの中でも重要な位置を占めるアルバムであり、バンドのファンにとっては欠かせない作品となっています。
 
 
 #### Tracklist
@@ -113,129 +112,129 @@ B2. Somesing
 B3. Better Day
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-dPyfCe_vQ?si=GHXuKOfR8ZEVKid0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## 3-2. Evolution of live arrangement
+## 3-2. ライブアレンジの進化
 
-The live structure of the same period was
-- breakbeats
-- Downtempo
-- IDM-like pattern
-- long improvisations
-The audience transitioned to a floor/festival-type experience with the premise of ""dancing.''
+同時期のライブ構造は、  
+- ブレイクビーツ  
+- ダウンテンポ  
+- IDM 的なパターン  
+- 長尺の即興  
+が入り混じり、観客は「踊る」ことを前提としたフロア／フェス型の体験へ移行した。
 
-What's important here is that STS9 pursued a technique for reproducing the "texture of electronic music" with guitar and bass.
-Many parts passed through the effects chain, creating a characteristic in which the editorial thinking in the DAW was directly reflected in the live performance.
-
----
-
-# 4. 2009–2014: Deepening of independent labels, social activities, and set structure
-## 4-1. Management of independent label 1320 Records
-
-STS9 launched their own label **1320 Records**,
-In addition to their own work, they supported artists with similar musical aspirations.
-
-It is unique in that it is not just a place for album production, but plays a role close to that of a community.
-
-## 4-2. Establishment of social activities and charity culture
-
-Since the beginning of STS9
-- Educational support
-- Environmental protection
-- Local activities
-He has actively participated in charity activities such as
-
-There are also many performances that donate a portion of the live ticket proceeds, and many songs that have social issues as their theme.
-In particular, "Peaceblaster" (2008) is positioned as a conceptual work with political and environmental themes as its background.
+ここで重要なのは、STS9 が**ギターやベースで“電子音楽の質感”を再現する技法**を追求したことだ。  
+多くのパートがエフェクトチェーンを通り、DAW での編集的思考がライブに直接反映されるという特徴が生まれた。
 
 ---
 
-# 5. 2015–Present: Member change and new phase
-## 5-1. Transition to new system
+# 4. 2009–2014：自主レーベル・社会活動・セット構造の深化  
+## 4-1. 自主レーベル 1320 Records の運営
 
-In 2014, the long-time guitarist left the group, and a new system was established with Hunter Brown at the center.
-This change also had an impact on the music, with clearer and more minimalist structures becoming more common.
+STS9 は自主レーベル **1320 Records** を立ち上げ、  
+自分たちの作品だけでなく、同じ音楽的志向のアーティストをサポートした。  
 
-## 5-2. *The Universe Inside* (2016)
+単なるアルバム制作の場ではなく、コミュニティに近い役割を果たしたことが特徴的である。
 
-This 2016 album has an even greater emphasis on synths, and the number of songs focused on dance music has also increased.
-In the live arrangements, there were many attempts to reconstruct past songs in an EDM style.
+## 4-2. 社会活動とチャリティ文化の定着
 
-## 5-3. Current STS9
+STS9 は初期から  
+- 教育支援  
+- 環境保護  
+- 地域活動  
+などの慈善活動に積極的に参加してきた。
 
-In the 2020s, STS9 has maintained a firm position as a festival headliner, while also holding their own event "WAVE SPELL" and strengthening their community-like activities.
-
----
-
-# 6. Musical features of STS9
-## 6-1. Rhythm structure: percussion-driven groove
-
-The biggest feature of STS9 is its ensemble structure, with drums and percussion at the center.
-In electronic music, live music plays the role of a drum machine, with bass, guitar, synths, and samples layered on top.
-
-- Afrobeat
-- breakbeats
-- Latin percussion
-- IDM subdivision
-are combined, and the method of ""creating a worldview with rhythm'' is thorough.
-
-## 6-2. Extensive use of sound processing and effects
-
-In order to reproduce the feel of electronica with live performance,
-- delay
-- Looper
-- filter
-- Granular processing
-Each instrument actively uses these.
-
-This ensures **acoustic thickness** even during live performances, creating a three-dimensional feel similar to that of a DJ set.
+ライブチケット収益の一部を寄付する公演や、社会問題をテーマにした楽曲も多い。  
+特に“Peaceblaster”（2008）は、政治・環境的テーマを背景にしたコンセプチュアルな作品として位置づけられる。
 
 ---
 
-# 7. STS9's Live Philosophy: Set Structure, Lighting, Community
-## 7-1. Structuring the set list
-STS9 changes their set list every time they tour,
-- Opener (world view presentation)
-- Midfield build-up
-- floor peak
-- Deep downtempo part
-- encore
-and designs live performances with a structure that is similar to a DJ set.
+# 5. 2015–現在：メンバー交代と新しいフェーズ  
+## 5-1. 新体制への移行
 
-## 7-2. Lighting/Video: Integration of sound and light
+2014年、長らくギターを務めてきたメンバーが脱退し、新たに Hunter Brown が中心となる形で新体制が確立した。  
+この変化は音楽面にも影響を与え、よりクリアでミニマルな構造が増えたとされる。
 
-Lighting is extremely important at STS9 live performances.
-A particular feature is that the movement of light is linked to changes in the song.
+## 5-2. *The Universe Inside*（2016）
+
+2016年のこのアルバムは、シンセの比重がさらに高まり、ダンスミュージックに寄せた楽曲も増加。  
+ライブアレンジでは、過去曲を EDM 的に再構成する試みも多く見られた。
+
+## 5-3. 現在のSTS9
+
+2020年代に入り、STS9 はフェスティバルのヘッドライナーとして確固たる地位を維持しながら、独自イベント“WAVE SPELL”を開催するなど、よりコミュニティ的な活動を強めている。
+
+---
+
+# 6. STS9 の音楽的特徴  
+## 6-1. リズム構造：パーカッション主導のグルーヴ
+
+STS9 の最大の特徴は、**ドラム＋パーカッションが中心にある**アンサンブル構造である。  
+電子音楽で言えばドラムマシンの役割を生演奏が担い、その上にベース、ギター、シンセ、サンプルが重なる。
+
+- アフロビート  
+- ブレイクビーツ  
+- ラテン・パーカッション  
+- IDM 的細分化  
+が組み合わさり、“リズムで世界観を作る”方式が徹底している。
+
+## 6-2. 音響処理とエフェクトの多用
+
+エレクトロニカの感触を生演奏で再現するため、  
+- ディレイ  
+- ルーパー  
+- フィルター  
+- グラニュラー的処理  
+などを各楽器が積極的に使用する。
+
+これにより、ライブでも**音響的な厚み**が保証され、DJセットに近い立体感が形成される。
+
+---
+
+# 7. STS9 のライブ哲学：セット構造・照明・コミュニティ  
+## 7-1. セットリストの構造化  
+STS9 はツアーにおいて毎回セットリストを変えるが、  
+- オープナー（世界観提示）  
+- 中盤のビルドアップ  
+- フロアピーク  
+- ダウンテンポの深いパート  
+- アンコール  
+と“DJセットに近い”構造でライブをデザインする。
+
+## 7-2. 照明・映像：音と光の一体化
+
+照明はSTS9のライブにおいて極めて重要で、  
+特に光の動きが曲の変化とリンクする点が特徴。  
 During the festival"s night performances, the lighting itself functions as a gigantic "stage set," heightening the audience"s sense of immersion.
 
-## 7-3. Community culture
+## 7-3. コミュニティ文化
 
-STS9 fans are highly community-oriented, which is typical of the jam band scene.
-There are also many "traveling fans" who follow the tour.
+STS9 のファンは、ジャムバンドシーン特有のコミュニティ志向が強く、  
+ツアーを追いかける“トラベリング・ファン”も多い。
 
 ---
 
 # 8. Work explanation (main albums)
 
 ## *Interplanetary Escape Vehicle* (1998)
-It has a strong color of early live music. Strong influence of world music.
+初期の生演奏色が濃い。ワールドミュージックの影響が強い。
 
 ## *Offerings* (1999)
-A mixture of improvisational structure and electronica.
+即興的な構造とエレクトロニカの混在。
 
 ## *Peaceblaster* (2008)
 A concept work based on political and environmental themes.
 
 ## *The Universe Inside* (2016)
-This work is more dance-oriented and symbolizes the new system.
+よりダンス寄りの作品で、新体制を象徴。
 
 ---
 
-# 9. Chronology (Mermaid)
+# 9. 年表（Mermaid）
 
 <div class="mermaid">
 timeline
@@ -253,13 +252,13 @@ timeline
 
 ---
 
-# 10. STS9 Sound Technical Structure (Mermaid: Signal Flow Diagram)
+# 10. STS9 サウンドの技術的構造（Mermaid：信号フロー図）
 
 <div class="mermaid">
 flowchart LR
-  A[drums/percussion] --> B[rhythm foundation]
-  B --> C[bass groove]
-  C --> D[guitar/synth layers]
+  A[drums/percussion] --> B[リズム基盤]
+  B --> C[ベースのグルーヴ]
+  C --> D[ギター / シンセのレイヤー]
   D --> E[Effect processing]
   E --> F[whole mix]
   F --> G[Lighting / Synchronization with VJ]
@@ -267,46 +266,46 @@ flowchart LR
 
 ---
 
-# 11. Cultural influence and positioning
+# 11. 文化的影響と位置づけ  
 ## 11-1. Establishing LiveTronica
 
-STS9, along with The Disco Biscuits and The New Deal, have become representative of "livetronica",
-They have established a new genre that bridges electronic music and jam bands.
+STS9 は The Disco Biscuits や The New Deal などと共に“ライブトロニカ”の代表的存在となり、  
+電子音楽とジャムバンドを架橋する新ジャンルを確立した。
 
-## 11-2. Strong ties with festival culture
+## 11-2. フェス文化との強い結びつき
 
-STS9's live shows go well with festivals.
-- Bonnaroo
-- Electric Forest
-- Suwannee Hulaween
-Their ""late night sets" at major festivals such as ""Late Night" have become legendary.
+STS9 のライブはフェスとの相性が良く、  
+- Bonnaroo  
+- Electric Forest  
+- Suwannee Hulaween  
+などの主要フェスにおける“深夜セット”は伝説化している。
 
-## 11-3. Pioneer examples of community artists
+## 11-3. コミュニティ型アーティストの先駆例
 
-Independent label management, charity activities, holding original festivals, etc.
-It is also important because it shows how artists should be in the 21st century and beyond.
+自主レーベル運営、チャリティ活動、独自フェスの開催など、  
+21世紀以降のアーティストの在り方を示した点でも重要である。
 
 ---
 
-# 12. Conclusion: 21st century "bands that evolve through live performance"
+# 12. 結論：21世紀の「ライブで進化するバンド」
 
-Sound Tribe Sector 9 is
-**An attempt to transfer the structure of electronic music to live performance while maintaining the band format**
+Sound Tribe Sector 9は、  
+**バンドという形式を保ちながら、電子音楽の構造を生演奏に移植するという試み**  
 He is a rare person who has continued to pursue this for over 20 years.
 
-The music is never complete only with recorded works,
-It is constantly updated with the "here and now" experience of a live performance.
+その音楽は録音作品だけでは決して完結せず、  
+常にライブという“今ここ”の体験で更新される。
 
 their steps are
-** "How close can a live band get to electronic music?"
-"To what extent can electronic music capture the dynamism of live music?"**
-It is an ongoing experiment in answering this question, and can be said to be one of the symbols of 21st century musical culture itself.
+**「ライブバンドがどこまで電子音楽に近づけるか」  
+「電子音楽がどこまで生演奏の躍動を取り込めるか」**  
+という問いに対する継続的な実験であり、21世紀の音楽文化そのものの象徴の一つと言える。
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NWVkzhV4Z0o?si=M5OXYkP5I0C_7KXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

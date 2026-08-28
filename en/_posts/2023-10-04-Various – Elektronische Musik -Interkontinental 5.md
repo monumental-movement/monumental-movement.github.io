@@ -14,8 +14,8 @@ title: Various – Elektronische Musik -Interkontinental 5
 ---
 
 
-"Various – Elektronische Musik -Interkontinental 5" is
-This is a 3-disc compilation album released in 2006 by the German label "Traum Schallplatten".
+「Various – Elektronische Musik -Interkontinental 5」は、
+2006年にドイツのレーベル「Traum Schallplatten」からリリースされた３枚組のコンピレーション・アルバムです。
 
 #### Tracklist
 ```md
@@ -44,7 +44,7 @@ F1. Florian Meindl–Don't Flue The Birds
 F2. Process–Tendency To Synchronize
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m26372156759?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26372156759?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZwQHKnxcEFo?si=V5cRYOt-QpH755Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,22 +9,22 @@ permalink: /zh-hant/earthbound-essence-of-life/
 tags:
 - Trance
 - Progressive
-title: Earthbound－生命的本質
+title: Earthbound – Essence Of Life
 ---
 
 
-Earthbound 是由 Anders Eriksson 和 Fredrik Johansson 組成的瑞典歐洲前衛舞團。
+Earthboundは、Anders ErikssonとFredrik Johanssonによるスウェーデンのユーロ・プログレッシブダンスアクト。
 
-Side A 是英國 trance & psytrance DJ/製作人/混音師 John '00' Fleming (John Fleming) 的混音版。 B 面是 Skynet UK（Ian Widgery）的混音版。
+A面はUKトランス＆サイトランスDJ/プロデューサー/リミキサーJohn '00' Fleming(John Fleming)によるremix。B面はSkynet UK（Ian Widgery）によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Essence Of Life (John "00" Fleming Remix)
 
 B. Essence Of Life (Skynet UK Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m35665629445?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35665629445?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MtrKFyVK6b4?si=f2KA1nq8mzKF6q-p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

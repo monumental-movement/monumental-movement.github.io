@@ -15,7 +15,7 @@ title: Matt Bianco – Just Can"t Stand It
 
 Matt Bianco is one of Britain"s top jazz pop bands, formed in 1983 by former members of the modern jazz ensemble Blue Ronde a la Turk. Currently, it is the name of Mark Riley"s personal band unit.
 
-"Just Can"t Stand It" and "Up Front" are single cuts from Matt Bianco"s second album "Matt Bianco" released in 1986.
+「Just Can't Stand It」「Up Front」は、1986年にリリースされたMatt Biancoの2ndアルバム『Matt Bianco』からのシングルカット。
 
 #### Tracklist
 ```md

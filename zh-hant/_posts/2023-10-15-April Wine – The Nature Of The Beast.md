@@ -9,15 +9,15 @@ permalink: /zh-hant/april-wine-the-nature-of-the-beast/
 tags:
 - Rock
 - Hard Rock
-title: 四月酒－野獸的本性
+title: April Wine – The Nature Of The Beast
 ---
 
 
-《The Nature Of The Beast》是加拿大搖滾樂團April Wine於1981年發行的一張專輯。這張專輯被高度評價為樂團的代表作之一，尤其是《Just Between You and Me》和《Sign of the Gypsy Queen》在商業上取得了成功，至今仍作為April Wine的標誌性歌曲而聞名。
+「The Nature Of The Beast」は、カナダのロックバンドApril Wineが1981年にリリースしたアルバム。このアルバムは、バンドの代表作の一つとして高く評価されており、特に「Just Between You and Me」と「Sign of the Gypsy Queen」は、商業的にも成功を収め今でもエイプリル・ワインの代表曲として有名。
 
-這張專輯的成功提高了樂團的國際知名度，並使他們成為加拿大搖滾樂壇的重要組成部分。
+このアルバムの成功により、バンドは国際的な知名度を高め、カナダのロックシーンで重要な位置を占めることになった。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. All Over Town
 
@@ -42,7 +42,7 @@ B4. Bad Boys
 B5. One More Time
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m95537522288?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95537522288?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dsAso4CMy0g?si=21HaNoWtwDpqUGom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

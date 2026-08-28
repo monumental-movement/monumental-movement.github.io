@@ -10,20 +10,19 @@ tags:
 - Rock
 - Citypop
 - Fusion
-title: '[Column] Planet of Bass: Cultural History of Bassists in the World and Japan
-  ---Sounds Under the Earth''s Surface'
+title: 【コラム】 低音の惑星：世界と日本のベーシスト文化史──地表の下で鳴る音
 ---
 
 
-## "The soul of music is in the bass."
+## “音楽の魂は低音にある。”
 
 
-Text: mmr｜Theme: "Bass philosophy" that permeates the world and Japanese bassist culture
+文：mmr｜テーマ：世界と日本のベーシスト文化を貫く“低音の思想”
 
 We are often captivated by melodies.
-However, the moment when we "feel" music is always in the bass tones resonating deep within our bodies.
-When the subwoofer in a club shakes the air, or when a hit hits your chest at a live house,
-At the center of this is an invisible gravity called the "base."
+だが、音楽を「感じる」瞬間は、いつも身体の奥で鳴っている低音にある。  
+クラブのサブウーファーが空気を揺らす時も、ライブハウスで胸を打つ一打も、  
+その中心にあるのは「ベース」という名の見えざる重力だ。
 
 ---
 
@@ -32,7 +31,7 @@ At the center of this is an invisible gravity called the "base."
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -41,39 +40,39 @@ color: #fff;
 </style>
 
 
-## I. Listening to music with your body, not your ears
+## I. 耳ではなく身体で聴く音楽
 
 Bass is a sound that your body reacts to before you hear it.
-He stands between rhythm and harmony, and determines the center of gravity of music.
+リズムとハーモニーの狭間に立ち、音楽の重心を決定づける存在。  
 It is not just an accompaniment, but controls the very breath of the music.
 
 Since the 20th century, changes in music have always accompanied innovations in bass.
-Jazz gives you the freedom to improvise, rock gives off a rebellious energy,
-Every time techno or hip-hop etched the urban atmosphere, bass presented a "new physicality."
+ジャズが即興の自由を手に入れ、ロックが反逆のエネルギーを放ち、  
+テクノやヒップホップが都市の空気を刻むたび、ベースは“新しい身体性”を提示してきた。
 
 ---
 
-## II. Crustal changes in the world: History of 20th century music driven by bass sounds
+## II. 世界の地殻変動：低音が動かした20世紀音楽史
 
 ### 1. Starting with the rebellion of jazz
 
 Listening to Charles Mingus play
-It sounds more than just a bass line, it sounds like a statement to society.
-Anger and intelligence, improvisation and construction. There is poetry in that bass tone.
+それは単なるベース・ラインではなく、社会への声明に聞こえる。  
+怒りと知性、即興と構築。その低音には詩が宿る。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Players like Ray Brown and Ron Carter
+レイ・ブラウンやロン・カーターのようなプレイヤーたちは、  
 He brought philosophy to "Walking Baseline."
-Rhythm that speaks between sounds - this is what has elevated jazz to an art form.
+音の“間”で語るリズム──それがジャズを芸術に押し上げた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Yoshio Suzuki and Kunimitsu Inaba, who supported postwar jazz cafes in Japan,
+日本でも戦後のジャズ喫茶を支えた鈴木良雄や稲葉国光が、  
 Enjoying this "freedom of bass sounds" with the sensibilities of our own country,
 Before long, they were creating their own unique groove at night in Tokyo.
 
@@ -85,14 +84,14 @@ In the 1960s, bass appeared at the center of rock.
 Paul McCartney started a revolution as a melodious bassist,
 John Entwistle (The Who) sought architectural beauty amidst the roar.
 
-Jack Bruce (Cream) and John Paul Jones (Led Zeppelin)
+ジャック・ブルース（Cream）やジョン・ポール・ジョーンズ（Led Zeppelin）は、  
 Although he has blues roots, he constructed the ensemble architecturally.
-After that, rock music no longer lacked the "singing spirit" of the bass.
+その後のロックは、低音の“歌心”を欠かさなくなった。  
 
-The advent of punk unleashed the harshness of the bass.
+パンクの登場は、ベースの荒々しさを解放した。  
 Sid Vicious (Sex Pistols) rejected artifice and sounded rebellion with his very existence.
-And the sad melody played by Joy Division's Peter Hook,
-It has been proven that the bass can be the ""subject of emotion.''
+そしてJoy Divisionのピーター・フックが奏でた悲しみの旋律は、  
+ベースが“感情の主語”となり得ることを証明した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oGMPIynCni8?si=Ic56pmgVGAXXWbBJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -100,12 +99,12 @@ It has been proven that the bass can be the ""subject of emotion.''
 
 ### 3. Funk and experimentation: an era where bass came to the fore
 
-The moment when Larry Graham's slap playing style was born,
+ラリー・グラハムのスラップ奏法が誕生した瞬間、  
 The bass became the rhythm itself.
-Bootsy Collins' cosmic funk,
+ブーツィー・コリンズが放つ宇宙的ファンク、  
 A fretless poem by Jaco Pastorius.
 
-The bass is no longer an "accompaniment", but has evolved into a "narrator".
+The bass is no longer an "accompaniment" but has evolved into a "narrator".
 Mick Carn and Tony Levin treat the sound itself as if it were a sculpture,
 He pushed bass into the realm of abstract art.
 
@@ -113,20 +112,20 @@ He pushed bass into the realm of abstract art.
 
 ---
 
-## III. Japan's bass map: Bassists who move between above ground and underground
+## III. 日本の低音地図：地上と地下を行き来するベーシストたち
 
-### 1. Haruomi Hosono and translators of Japanese rhythm
+### 1. 細野晴臣と日本語リズムの翻訳者たち
 
 Before YMO, Haruomi Hosono had already changed the ""center of gravity'' of Japanese pop music.
-A low tone that follows the rhythm of the words rather than the rhythm of English.
-What he established was the aesthetic of ""grooving in Japanese.''
+英語のノリではなく、言葉のリズムに寄り添う低音。  
+彼が打ち立てたのは“日本語でグルーヴする”という美学だった。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 Hironori Ito of Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-They have created a world-class sound between popular songs and AOR.
+彼らは歌謡曲とAORの狭間で、世界に通じるサウンドを築いた。  
 The bass guitar no longer played a role behind the scenes, but became an element that supported the "dignity" of music.
 
 ---
@@ -134,27 +133,27 @@ The bass guitar no longer played a role behind the scenes, but became an element
 ### 2. Underground movement: noise, post-rock, club culture
 
 After the 1990s, the Japanese underground began to connect with bass sounds.
-Kentaro Nakao of NUMBER GIRL hits a groove of distortion and anger,
+NUMBER GIRLの中尾憲太郎は、歪みと怒りのグルーヴを叩きつけ、  
 ZAZEN BOYS' Ichiro Yoshida has elevated odd time signatures into "building intelligence."
 
 The bassists of ROVO and Shibusa Shirazu,
 Freely moving between jazz and rock, improvisation and construction,
-It blurred the line between club culture and live music.
+クラブカルチャーと生演奏の境界を曖昧にした。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k4jrFCIJYac?si=IAWwH54Pgzu4o3jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-The delicate bass tones of downy and toe sounds like a poem depicting a city night.
-There is not a scream, but a ""breathing stillness''.
+downyやtoeの繊細な低音は、都市の夜を描く詩のようだ。  
+そこには、叫びではなく“呼吸する静けさ”がある。
 
 ---
 
 ### 3. Bass philosophy after club culture
 
-In the 2000s, bass changed its appearance once again.
+2000年代、ベースは再び姿を変える。  
 Shinichi Osawa brings "human bass" to club tracks,
-STUTS and yahyel combined typing and live music.
+STUTSやyahyelが打ち込みと生演奏を融合させた。  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -162,54 +161,54 @@ STUTS and yahyel combined typing and live music.
 
 Current bands like King Gnu and millennium parade,
 The bass controls the ""narrative'' of the song.
-Hama Okamoto is a nexus of tradition and modernity.
+ハマ・オカモトは伝統と現代性の結節点として、  
 It offers "musical civility" beyond playability.
 
 ---
 
-## IV. Underground of the world: Counterculture connected by bass sounds
+## IV. 世界の地下：低音で繋がるカウンターカルチャー
 
 Joy Division"s Peter Hook, PIL"s Jah Wobble,
 and Tina Weymouth from Talking Heads.
-What they showed was that the bass was a symbol of "intellectual rebellion."
+彼らが示したのは、ベースが「知的反逆」の象徴であるということだった。  
 
 In Bristol, Massive Attack and Portishead established trip-hop,
 In London, Burial and Kode9 redefined the bass as an "unconscious urban sound."
-In Berlin, Moritz von Oswald and Electric Indigo,
-He elevated the bass sound of techno to the level of "architectural art."
+ベルリンではMoritz von OswaldやElectric Indigoが、  
+テクノの低音を「建築的芸術」にまで高めた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=-5M_UTVWqc3dB2OD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-The bass is no longer a musical instrument,
+ベースはもはや楽器を超え、  
 It has become a "common language of culture."
 
 ---
 
-## V. Equipment and Aesthetics: Another History of Instruments
+## V. 機材と美学：楽器が語るもうひとつの歴史
 
-Fender Precision, Jazz Bass, Rickenbacker.
+フェンダー・プレシジョン、ジャズベース、リッケンバッカー。  
 Each shape indicates a difference in musical thought itself.
 
-The evolution of synth basses also democratized bass sounds.
+シンセベースの進化もまた、低音の民主化を進めた。  
 Moog, Roland, Novation---machines have emotions,
 The baseline changed from "program" to "personality."
 
-After Jaco, Fretless became something like a silent poet.
+ジャコ以降、フレットレスは沈黙の詩人のような存在になり、  
 It has been passed down as a "sound sculpture" that makes the space itself resonate.
 
 ---
 
 ## VI. Conclusion: Bass is "society"s subconscious"
 
-The bass is not the center of music.
-However, it continues to be the "ground" upon which all sounds stand.
+ベースは音楽の中心ではない。  
+だが、すべての音が立つための“地盤”であり続ける。  
 
 The bass translates feelings that cannot be put into words,
-Slowly shaking society's unconscious mind.
+社会の無意識をゆっくりと揺さぶる。  
 
-On that line that passes through the world and Japan, above ground and underground,
+世界と日本、地上と地下を貫くその線の上に、  
 We are still standing today.
 
 Listen with your heart, not your ears.
@@ -222,15 +221,15 @@ The planet of bass has not stopped ringing yet.
 | Artist | Work | Year | Notes | Link |
 |:--|:--|:--:|:--|:--|
 | Charles Mingus | *Mingus Ah Um* | 1959 | Rebellion and lyricism in jazz | [Amazon](https://amzn.to/4qmvgd2) |
-| Jaco Pastorius | *Jaco Pastorius* | 1976 | Fretless Poetry | [Amazon](https://amzn.to/3L1qTUl) |
+| Jaco Pastorius | *Jaco Pastorius* | 1976 | フレットレスの詩 | [Amazon](https://amzn.to/3L1qTUl) |
 | Haruomi Hosono | *Philharmony* | 1982 | Translation of Japanese rhythm | [Amazon](https://amzn.to/4qi4uT0) |
-| Mick Karn | *Dreams of Reason Produce Monsters* | 1987 | Dreams told by bass | [Amazon](https://amzn.to/499CNWg) |
-| Kentaro Nakao (NUMBER GIRL) | *SAPPUKEI* | 2000 | Distorted urban bass | [Amazon](https://amzn.to/47115k4) |
-| Thundercat | *Drunk* | 2017 | Modern times where bass sings | [Amazon](https://amzn.to/47bvA5w) |
+| Mick Karn | *Dreams of Reason Produce Monsters* | 1987 | ベースが語る夢 | [Amazon](https://amzn.to/499CNWg) |
+| 中尾憲太郎（NUMBER GIRL） | *SAPPUKEI* | 2000 | 歪んだ都市の低音 | [Amazon](https://amzn.to/47115k4) |
+| Thundercat | *Drunk* | 2017 | ベースが歌う現代 | [Amazon](https://amzn.to/47bvA5w) |
 
 ---
 
-### Chronology and illustrations: Evolution of the bass (1950–2025)
+### 年表と図解：低音の進化（1950–2025）
 
 <div class="mermaid">
 
@@ -256,26 +255,26 @@ timeline
 
 flowchart LR
 %% Center: Bass
-Bass["BASS\n(Bass)\n—The center of gravity, groove, and harmony"]
+Bass["BASS\n(bass)\n— 重心・グルーヴ・ハーモニーの要"]
 
 
 %% Primary roles
-Rhythm["Foundation of rhythm\n(timekeeping)"]
-Harmony["Chord Basics\n(Root/Progression)"]
-Groove["Creating a groove\n(feel/nuance)"]
+Rhythm["リズムの基盤\n(timekeeping)"]
+Harmony["和音の基礎\n(ルート／進行)"]
+Groove["グルーヴの創出\n(フィール／ニュアンス)"]
 Texture["Tone/Texture\n(Tone/Effect)"]
 Lead["Melody/Solo\n(Turn to the front)"]
-Design["Sound Design\n(Synth Bass/Programming)"]
+Design["サウンドデザイン\n(シンセベース／プログラミング)"]
 
 
 %% Techniques/Instruments
 Upright["Upright / Upright\n(Walking/Jazz)"]
 P_Bass["Fender P-Bass\n(rock/pop classic)"]
-J_Bass["Fender J-Bass\n(Multipurpose)"]
+J_Bass["Fender J-Bass\n(multipurpose) "]
 Fretless["Fretless\n(Smooth tone/makes you sing)"]
-Synth["Synth bass\n(Bass design/sub bass)"]
-Slap["Slap/Tapping\n(Funk/Aggressive)"]
-Effects["Effects: Compressor\nOverdrive, Chorus, etc."]
+Synth["シンセベース\n(低音設計／サブベース) "]
+Slap["スラップ／タッピング\n(funk/aggressive) "]
+Effects["エフェクト: コンプレッサー\nオーバードライブ・コーラス等"]
 
 
 %% Connections

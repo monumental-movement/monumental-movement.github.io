@@ -10,17 +10,17 @@ tags:
 - Blues
 - Country
 - Classic
-title: 閃電霍普金斯 – Mojo Hand
+title: Lightnin' Hopkins – Mojo Hand
 ---
 
 
-《Mojo Hand》是美國著名藍調音樂人萊特寧·霍普金斯創作的一首經典藍調歌曲。這首歌於1960年首次錄製，此後成為他的標誌性歌曲之一。
+「Mojo Hand（モジョ・ハンド）」は、著名なアメリカのブルースミュージシャン、ライトニン・ホプキンスによるクラシックなブルース曲です。この曲は1960年に初めて録音され、その後彼の代表曲の一つとなりました。
 
-獨特的吉他演奏和充滿激情的歌聲是“Mojo Hand”的特色。
+特徴的なギタープレイと情熱的なボーカルが「Mojo Hand」を特徴づけています。
 
-這首歌抓住了傳統布魯斯的精髓，傳達了愛情、旅行和尋找魔力之手的主題，魔力之手是布魯斯傳奇中被認為能帶來好運的神奇護身符。 Lightnin' Hopkins 充滿激情的演唱和吉他演奏使《Mojo Hand》成為永恆的布魯斯經典。
+この曲は、愛、旅、そしてモジョ・ハンド（ブルースの伝説では運を呼び寄せると信じられている魔法の護符）を求めるテーマを伝えており、伝統的なブルースの本質を捉えています。ライトニン・ホプキンスの情熱的な歌唱とギタープレイによって、「Mojo Hand」は時代を超えたブルースの名曲となっています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Mojo Hand
 
@@ -49,7 +49,7 @@ B3. Shine On, Moon!
 B4. Santa
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m49152824232?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49152824232?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sJbnR_uKfC4?si=qUjofTxeHbcLAyTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

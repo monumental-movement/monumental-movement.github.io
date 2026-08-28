@@ -12,26 +12,26 @@ title: Manix – Manic Minds
 ---
 
 
-"Manix" is the solo project of 4 Hero's Marc Clair. Manix was one of the most important artists in the UK rave scene at the time, which centered around old school breakbeats.
+「Manix（マニックス）」は、4 HeroのMarc Clairのソロプロジェクト。Manixは、UKのオールドスクールブレイクビーツを中心とした当時のレイブシーンにおいて重要なアーティストの一人。
 
-[Sample list]
-Track AI
+【サンプル一覧】
+Track Ai
 
-Synth: Modular Expansion - Cubes
-Drum Break: The Winstons - Amen, Brother.
-Vocal/Scratch: Jungle Brothers - Jimmy's Bonus Beat.
-Vocal: Cheryl Lynn - Encore.
+シンセ：Modular Expansion - Cubes
+ドラムブレイク：The Winstons - Amen, Brother.
+ヴォーカル/スクラッチ：Jungle Brothers - Jimmy's Bonus Beat.
+ヴォーカル：Cheryl Lynn - Encore.
 
 Track Aii
 
-Piano: Bizarre Inc - Playing With Knives.
-Beep Noise: Tears For Fears - Mad World.
-Vocal: Public Enemy - Black Steel In The Hour Of Chaos.
+ピアノ：Bizarre Inc - Playing With Knives.
+ビープノイズ：Tears For Fears - Mad World.
+ヴォーカル：Public Enemy - Black Steel In The Hour Of Chaos.
 
 Track AAi
 
-Piano Sterling Void - Don't Wanna Go.
-Vocal: Extortion Featuring Dihan Brooks - How Do You See Me Now.
+ピアノ Sterling Void - Don't Wanna Go.
+ヴォーカル：Extortion Featuring Dihan Brooks - How Do You See Me Now.
 
 #### Tracklist
 ```md
@@ -44,7 +44,7 @@ AAi. Feel Real Good
 AAii. Can't Tech No More
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHSk7LjiLpI?si=awS-r836s_6jAj4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

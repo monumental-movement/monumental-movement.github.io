@@ -10,13 +10,13 @@ tags:
 - House
 - Tribal
 - Minimal
-title: 推拉——非洲
+title: Push Pull – Africa
 ---
 
 
-《Push/Pull-Africa》是 Deep End 廠牌於 1990 年以電音傳奇 NEWCLEUS 核心人物 BEN CENAC（COZMO D/Maurice Cenac）的化名發行的部落唱片。
+「Push/Pull– Africa」は、エレクトロレジェンドNEWCLEUSの中心人物BEN CENAC（COZMO D/Maurice Cenac）の別名義で、1990年にDeep Endレーベルよリーリスされたトライバルハウスレコード。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Africa
 
@@ -25,7 +25,7 @@ B1. Africa (Mau Mau Mix)
 B2. Africa (Future Primitive)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m43922737030?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43922737030?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GoZQgoZA4dA?si=Cctx7HaWBSrQaSp5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

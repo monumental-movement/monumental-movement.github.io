@@ -9,18 +9,18 @@ permalink: /zh-hant/the-beatnuts-world-famous-classics-1993-1998/
 tags:
 - Hiphop
 - Compilation
-title: The Beatnuts – 世界著名經典 1993-1998
+title: The Beatnuts –World Famous Classics 1993-1998
 ---
 
 
-《The Beatnuts – World Famous Classics 1993-1998》（World Famous Classics 1993-1998）{: .button1} 是嘻哈樂團 Beatnuts 的精選專輯和最佳專輯。
+「The Beatnuts – World Famous Classics 1993-1998」(ワールド・フェイマス・クラシックス1993-1998){: .button1}は、ヒップホップグループであるビートナッツのコンピレーションアルバム＆ベスト盤です。
 
-Beatnuts 由製作人和說唱歌手 Psycho Les 和 JuJu 組成，以其獨特的製作風格和詼諧的歌詞在 20 世紀 90 年代受到關注。
+The Beatnutsは、プロデューサー兼ラッパーのPsycho LesとJuJuで構成され、その独特なプロダクションスタイルとウィットに富んだ歌詞で1990年代に注目を集めました。
 
-這張專輯收錄了 Beatnuts 早年的流行歌曲和有影響力的曲目。
+このアルバムには、The Beatnutsの初期の年にリリースされた人気曲や影響力のあるトラックが収録されています。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1.World's Famous
 
@@ -51,7 +51,7 @@ Beatnuts 由製作人和說唱歌手 Psycho Les 和 JuJu 組成，以其獨特�
 14.Give Me Tha Ass
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CD-aPRFuHZQ?si=vpVqZ9N_nT3EQjP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

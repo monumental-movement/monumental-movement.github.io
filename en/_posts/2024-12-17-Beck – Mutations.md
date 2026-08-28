@@ -13,7 +13,7 @@ title: Beck – Mutations
 ---
 
 
-"Mutations" is Beck's sixth studio album, released in 1998 by DGC Records. It was produced by Nigel Godrich, known as the producer of Radiohead, and won the Grammy Award for Best Alternative Music Album.
+「Mutations」は、1998年にDGCレコードからリリースされたBeckの6枚目のスタジオアルバム。Radioheadのプロデューサーとして知られるNigel Godrich(ナイジェル・ゴッドリッチ)がプロデュースし、グラミー賞の最優秀オルタナティブ・ミュージック・アルバムを受賞した。
 
 The 12th track is a bonus track only available on the Japanese version. The 14th track is an international bonus track.
 
@@ -35,7 +35,7 @@ The 12th track is a bonus track only available on the Japanese version. The 14th
 14. Runners Dial Zero
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tWVUpRBA0s0?si=JOhmMff1NMR_lAIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

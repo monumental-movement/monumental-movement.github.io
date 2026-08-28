@@ -14,9 +14,9 @@ title: Purveyors Of Fine Funk – Purveyors Of Fine Funk
 
 Purveyors Of Fine Funk is a group that produces songs that incorporate elements of funk music, and as the name suggests, they deliver high quality funk.
 
-It features elements such as funky rhythms, slap bass, and a brass section. The songs have danceable grooves and catchy melodies that entertain listeners as they follow the rhythm.
+ファンキーなリズム、スラップベース、ブラスセクションなどの要素が特徴です。曲は、踊りやすいグルーヴやキャッチーなメロディがあり、聴く人々をリズムに乗せて楽しませます。
 
-This work has been praised for its fusion of funk music tradition and modern elements. While respecting the roots of funk, they create new appeal with their unique artistic approach.
+ファンクミュージックの伝統と現代的な要素を融合させた作品として評価されています。彼らは、ファンクのルーツを尊重しつつも、独自のアーティスティックなアプローチで新たな魅力を生み出しています。
 
 #### Tracklist
 ```md

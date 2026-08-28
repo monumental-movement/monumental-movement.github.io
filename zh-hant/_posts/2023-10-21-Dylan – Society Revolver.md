@@ -9,20 +9,20 @@ permalink: /zh-hant/dylan-society-revolver/
 tags:
 - House
 - Tech House
-title: 迪倫 – 社會左輪手槍
+title: Dylan – Society Revolver
 ---
 
 
-Dylan 是 Breakbeat、Techno 和 Electro 製作人 Dylan Rhymes 的別名。 《Society/Revolver》於 2000 年由 Dylan Rhymes 自己的廠牌 Blue Black 發行。
+Dylanは、ブレイクビーツ・テクノ・エレクトロプロデューサーDylan Rhymes（ディラン・ライムス）の別名義。「Society / Revolver」は、Dylan Rhymes自身のレーベルBlue Blackより2000年にリリース。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Society (The System)
 
 B. Revolver
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m89252373710?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89252373710?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1A4_hq15xV4?si=eaQ74jbQ4hBYVWmW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

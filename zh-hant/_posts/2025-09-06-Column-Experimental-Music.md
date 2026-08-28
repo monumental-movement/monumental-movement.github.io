@@ -10,33 +10,33 @@ tags:
 - Experimental
 - Avant-garde
 - Noise
-title: 【專欄】實驗音樂的歷史與代表作：從起源到現在
+title: 【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで
 ---
 
 
 
-## 實驗音樂的歷史與代表作
+## Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤  
 
 
-文：mmr｜主題：實驗音樂從前衛到後數位時代的變遷
+文：mmr｜テーマ：実験音楽に関する前衛からポスト・デジタル時代までの変遷
 
 
-「實驗音樂」的誕生是為了嘗試脫離傳統的和聲與形式，探索聲音本身的可能性。它始於20世紀初的前衛運動，超越了古典音樂的框架，並不斷擴展到包括電子聲學、工業、噪音和現代數位音樂。在這裡，我們將以十年為單位整理歷史背景、著名唱片、設備變遷，追溯實驗音樂的軌跡。
-
----
-
-## 1940年代-1950年代：實驗音樂的誕生
-- **背景：** 戰後的歐洲和美國尋求重建音樂。約翰凱吉的《Music of Chance》和謝弗的具體音樂出現。
-- **設備：** 錄音機、準備好的鋼琴、早期的振盪器。
-
-### 傑作
-- [皮耶‧謝弗 – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)
-- [約翰凱吉 – *奏鳴曲與間奏曲* (1948)](https://amzn.to/425qJRN)
-- [卡爾海因茨·施托克豪森 – *Gesang der Jünglinge* (1956)](https://amzn.to/46p9j3C)
+「エクスペリメンタル・ミュージック（実験音楽）」は、伝統的な和声や形式から逸脱し、**音そのものの可能性を探求する試み**として誕生しました。クラシックの枠組みを超えた20世紀初頭の前衛運動から始まり、電子音響、インダストリアル、ノイズ、現代のデジタル音楽まで広がり続けています。ここでは、**年代ごとの時代背景、名盤、機材の変遷**を整理し、エクスペリメンタルの軌跡をたどります。
 
 ---
 
-## 10 推薦選擇
+## 1940s〜1950s：実験音楽の胎動
+- **背景:** 戦後ヨーロッパとアメリカで、音楽の再構築が模索される。ジョン・ケージによる「偶然性の音楽」、シェーフェールによるミュージック・コンクレートが登場。  
+- **機材:** テープレコーダー、プリペアド・ピアノ、初期オシレーター。  
+
+### 名盤
+- [Pierre Schaeffer – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)  
+- [John Cage – *Sonatas and Interludes* (1948)](https://amzn.to/425qJRN)  
+- [Karlheinz Stockhausen – *Gesang der Jünglinge* (1956)](https://amzn.to/46p9j3C)  
+
+---
+
+## おすすめ10選
 
 
 <style type="text/css">
@@ -52,234 +52,234 @@ color: #fff;
 }
 </style>
 
-|藝術家 |賽道 |年份|
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
-|皮埃爾謝弗 |化學練習曲| 1948 |
-|約翰凱奇 | 4分33秒 | 1952 |
-|約翰凱吉 |威廉斯混音| 1952 |
-|皮耶‧亨利 |為人類交響曲 | 1950 |
-|卡爾海因茨·施托克豪森 |研究二 | 1954 |
-|埃德加·瓦雷茲 |電子詩| 1958 |
-|約翰凱吉 |想像中的風景No.4 | 1951 |
-| 路易吉·魯索洛（重新錄音）| Intonarumori 演示 | 20 世紀 40 年代再現 |
-|莫頓費爾德曼 |投影 I | 1950 |
-|厄爾布朗 | 1952 年 12 月 | 1952 |
+| Pierre Schaeffer | Étude aux chemins de fer | 1948 |
+| John Cage | 4’33’’ | 1952 |
+| John Cage | Williams Mix | 1952 |
+| Pierre Henry | Symphonie pour un homme seul | 1950 |
+| Karlheinz Stockhausen | Studie II | 1954 |
+| Edgard Varèse | Poème électronique | 1958 |
+| John Cage | Imaginary Landscape No.4 | 1951 |
+| Luigi Russolo（再録音作品） | Intonarumori Demo | 1940s再現 |
+| Morton Feldman | Projection I | 1950 |
+| Earle Brown | December 1952 | 1952 |
 
 ---
 
-## 20 世紀 60 年代：前衛音樂與電子音樂的繁榮
-- **背景：** 與極簡主義、前衛藝術運動和迷幻文化產生共鳴。模組化合成器的誕生。
-- **設備：** Moog Modular、Buchla、EMS VCS3、磁帶環。
+## 1960s：アヴァンギャルドと電子音楽の開花
+- **背景:** ミニマリズム、アヴァンギャルド芸術運動、サイケデリック文化と共振。モジュラーシンセの誕生。  
+- **機材:** Moog Modular, Buchla, EMS VCS3, テープループ。  
 
-### 傑作
-- [La Monte Young – *調音良好的鋼琴* (1964)](https://amzn.to/4msIjGA)
-- [特里·萊利 – *In C* (1968)](https://amzn.to/46p9sEc)
-- [銀蘋果 – *銀蘋果* (1968)](https://amzn.to/3ImPkLd)
+### 名盤
+- [La Monte Young – *The Well-Tuned Piano* (1964)](https://amzn.to/4msIjGA)  
+- [Terry Riley – *In C* (1968)](https://amzn.to/46p9sEc)  
+- [Silver Apples – *Silver Apples* (1968)](https://amzn.to/3ImPkLd)  
 
 ---
 
-## 10 推薦選擇
+## おすすめ10選
 
-|藝術家 |賽道 |年份|
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
-|拉蒙特年輕 |高壓線路降壓變壓器的第二個夢想| 1962 |
-|特里·萊利 |在C語言中| 1968 |
-|史蒂夫·賴克 |鋼琴階段| 1967 |
-|寶琳·奧利韋羅斯 |再見蝴蝶 | 1965 |
-|銀蘋果|振盪| 1968 |
-|施托克豪森 |聯絡 | 1960 |
-|阿爾文·盧西爾 |獨奏者音樂 | 1965 |
-|科尼利厄斯·卡杜 |論文| 1967 |
-|莫頓·蘇博尼克 |月亮的銀蘋果| 1967 |
-| AMM | AMM音樂| 1966 |
+| La Monte Young | The Second Dream of the High-Tension Line Stepdown Transformer | 1962 |
+| Terry Riley | In C | 1968 |
+| Steve Reich | Piano Phase | 1967 |
+| Pauline Oliveros | Bye Bye Butterfly | 1965 |
+| Silver Apples | Oscillations | 1968 |
+| Stockhausen | Kontakte | 1960 |
+| Alvin Lucier | Music for Solo Performer | 1965 |
+| Cornelius Cardew | Treatise | 1967 |
+| Morton Subotnick | Silver Apples of the Moon | 1967 |
+| AMM | AMMMusic | 1966 |
 
 ---
 
-## 20 世紀 70 年代：噪音、工業的出現
-- **背景：** 將「噪音」融入音樂，同時與龐克和前衛藝術交叉。工業文化的誕生。
-- **設備：** EMS Synthi A、ARP 2600、Roland System 100、自製噪音產生器。
+## 1970s：ノイズ、インダストリアルの萌芽
+- **背景:** パンクや前衛芸術と交差しながら「騒音」を音楽に取り込む。インダストリアル・カルチャーの誕生。  
+- **機材:** EMS Synthi A, ARP 2600, Roland System 100, 自作ノイズジェネレーター。  
 
-### 傑作
-- [顫動的軟骨 – *第二份年度報告* (1977)](https://amzn.to/42E1K87)
-- [布萊恩伊諾 – *謹慎音樂* (1975)](https://amzn.to/3KAP0sL)
-- [浮士德 – *浮士德 IV* (1973)](https://amzn.to/4mwh9hY)
+### 名盤
+- [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)  
+- [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)  
+- [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)  
 
 ---
 
-## 10 推薦選擇
+## おすすめ10選
 
-|藝術家 |賽道 |年份|
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
-|顫動的軟骨 |漢堡小姐| 1978 |
-|布萊恩·伊諾 |謹慎的音樂| 1975 |
-|浮士德 |克勞特洛克| 1973 |
-|菲利普·格拉斯 |音樂十二部分（第 1 部分） | 1974 |
-|勞瑞·安德森 | O超人（現場原創）| 1979 |
-|橘夢|斐德拉 | 1974 |
-|發電廠|高速公路 | 1974 |
-|自殺 |惡靈騎士 | 1977 |
-|查理曼巴勒斯坦|彈奏音樂| 1974 |
-|羅伯特·阿什利 |自動寫作| 1979 |
+| Throbbing Gristle | Hamburger Lady | 1978 |
+| Brian Eno | Discreet Music | 1975 |
+| Faust | Krautrock | 1973 |
+| Philip Glass | Music in Twelve Parts (Part 1) | 1974 |
+| Laurie Anderson | O Superman (ライブ原曲) | 1979 |
+| Tangerine Dream | Phaedra | 1974 |
+| Kraftwerk | Autobahn | 1974 |
+| Suicide | Ghost Rider | 1977 |
+| Charlemagne Palestine | Strumming Music | 1974 |
+| Robert Ashley | Automatic Writing | 1979 |
 
 ---
 
 
-## 20 世紀 80 年代：DIY 精神與卡帶文化
-- **背景：** 隨著盒式地鐵的普及，地下實驗音樂場景不斷擴大。在日本，已經建立了「噪音」場景。
-- **設備：** Tascam Portastudio、Roland TR-808、Yamaha DX7、短波收音機。
+## 1980s：DIY精神とカセット・カルチャー
+- **背景:** カセットMTRの普及により、地下からの実験音楽シーンが拡大。日本では「ノイズ」シーンが確立。  
+- **機材:** Tascam Portastudio, Roland TR-808, Yamaha DX7, ショートウェーブラジオ。  
 
-### 傑作
-- [有傷口的護士 – *與瑪麗同倫* (1982)](https://amzn.to/3W3pNK4)
-- [Merzbow – *金屬原聲音樂* (1981)](https://amzn.to/3IxXFvp)
-- [格倫布蘭卡 – *升天* (1981)](https://amzn.to/42sW29p)
+### 名盤
+- [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)  
+- [Merzbow – *Metal Acoustic Music* (1981)](https://amzn.to/3IxXFvp)  
+- [Glenn Branca – *The Ascension* (1981)](https://amzn.to/42sW29p)  
 
 ---
 
-## 10 推薦選擇
+## おすすめ10選
 
-|藝術家 |賽道 |年份|
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
-|梅爾茲鮑 |金屬原聲音樂| 1981 |
-|護士有傷口|雅加布魯斯| 1982 |
-|格倫布蘭卡 |第 1 課 | 1980 |
-|目前 93 |狗血崛起| 1984 |
-| SPK |金屬舞 | 1983 |
-|法國 | Zoviet蘇聯流行歌曲與青年音樂（摘錄）| 1985 |
-|白宮|像他媽的鰻魚一樣蠕動| 1981 |
-|音速青年|李自由了| 1987 |
-|測試部|強迫症| 1983 |
-|新鮑滕研究所 |玉貢 | 1985 |
+| Merzbow | Metal Acoustic Music | 1981 |
+| Nurse With Wound | Yagga Blues | 1982 |
+| Glenn Branca | Lesson No. 1 | 1980 |
+| Current 93 | Dogs Blood Rising | 1984 |
+| SPK | Metal Dance | 1983 |
+| Zoviet France | Popular Soviet Songs and Youth Music (excerpt) | 1985 |
+| Whitehouse | Wriggle Like a Fucking Eel | 1981 |
+| Sonic Youth | Lee Is Free | 1987 |
+| Test Dept | Compulsion | 1983 |
+| Einstürzende Neubauten | Yü-Gung | 1985 |
 
 ---
 
 
-## 20 世紀 90 年代：數位實驗與故障
-- **背景：** 隨著個人電腦和取樣器的普及，聲音的解構和重建取得了進展。也連接到 IDM 和環境音樂。
-- **設備：** Akai S3000、Max/MSP、Cubase、Pro Tools。
+## 1990s：デジタル実験とグリッチ
+- **背景:** PCとサンプラーが普及し、音響解体・再構築が進む。IDMやアンビエントとも接続。  
+- **機材:** Akai S3000, Max/MSP, Cubase, Pro Tools。  
 
-### 傑作
-- [橢圓形 – *94diskont* (1995)](https://amzn.to/4pIOKbx)
-- [Aphex Twin – *精選環境作品卷 II* (1994)](https://amzn.to/47XIhmE)
-- [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)
+### 名盤
+- [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)  
+- [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)  
+- [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)  
 
 ---
 
-## 10 推薦選擇
+## おすすめ10選
 
-|藝術家 |賽道 |年份|
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
-|橢圓形|做同時| 1995 |
-| Aphex 雙床 |大黃| 1994 |
-|奧泰克雷 |尤托 | 1995 |
-|芬內斯 |澳洲 | 1997 |
-|池田良二 | +/- [1] | 1996 |
-|泛索尼克 |烏拉尼亞| 1995 |
+| Oval | Do While | 1995 |
+| Aphex Twin | Rhubarb | 1994 |
+| Autechre | Eutow | 1995 |
+| Fennesz | Aus | 1997 |
+| Ryoji Ikeda | +/- [1] | 1996 |
+| Pan Sonic | Urania | 1995 |
 | Scanner | Mass Observation | 1994 |
-|馬特莫斯 |加州鼻整形術| 1998 |
-|池田+阿爾瓦諾托| Uni 縮寫 | 1999 |
-|梅爾茲鮑 |脈衝惡魔（軌道 1）| 1996 |
+| Matmos | California Rhinoplasty | 1998 |
+| Ikeda + Alva Noto | Uni Acronym | 1999 |
+| Merzbow | Pulse Demon (track 1) | 1996 |
 
 ---
 
 
-## 2000 年代：筆記型電腦與全球化
-- **背景：** 噪音、電子音樂和現場錄音正在國際上傳播。現場表演中的「筆記型電腦表演」已變得司空見慣。
-- **設備：** Ableton Live、SuperCollider、Kontakt、筆記型電腦。
+## 2000s：ラップトップとグローバル化
+- **背景:** ノイズ、エレクトロニカ、フィールドレコーディングが国際的に広がる。ライブでの「ラップトップ演奏」が一般化。  
+- **機材:** Ableton Live, SuperCollider, Kontakt, ノートPC。  
 
-### 傑作
-- [Fennesz – *無盡的夏天* (2001)](https://amzn.to/3K9awVB)
-- [狼眼 – *燒傷的心靈* (2004)](https://amzn.to/4nCm8P2)
-- [池田亮司 – *Dataplex* (2005)](https://amzn.to/4nLgwSW)
+### 名盤
+- [Fennesz – *Endless Summer* (2001)](https://amzn.to/3K9awVB)  
+- [Wolf Eyes – *Burned Mind* (2004)](https://amzn.to/4nCm8P2)  
+- [Ryoji Ikeda – *Dataplex* (2005)](https://amzn.to/4nLgwSW)  
 
 ---
 
-## 10 推薦選擇
+## おすすめ10選
 
-|藝術家 |賽道 |年份|
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
-|芬內斯 |無盡的夏天| 2001 |
-|狼眼|臉上被刺傷 | 2004 |
-|池田良二 |資料中心| 2005 |
-|克里斯蒂安芬尼斯 & 坂本龍一 |哈魯 | 2005 |
-|阿爾瓦諾托 | Xerrox Vol.1（施樂單相器）| 2007 |
-|蒂姆·赫克 | Spiricom 廣播電台 | 2003 |
-|奧倫安巴奇 |莊園的葡萄| 2004 |
-|埋葬|去內臟（環境）| 2005 |
-| KTL |森林地面| 2007 |
+| Fennesz | Endless Summer | 2001 |
+| Wolf Eyes | Stabbed in the Face | 2004 |
+| Ryoji Ikeda | Dataplex | 2005 |
+| Christian Fennesz & Ryuichi Sakamoto | Haru | 2005 |
+| Alva Noto | Xerrox Vol.1 (Xerrox Monophaser) | 2007 |
+| Tim Hecker | Radio Spiricom | 2003 |
+| Oren Ambarchi | Grapes from the Estate | 2004 |
+| Burial | Gutted (アンビエント寄り) | 2005 |
+| KTL | Forest Floor | 2007 |
 | Matmos | Supreme Balloon | 2008 |
 
 ---
 
 
-## 2010年代：多媒體與裝置
-- **背景：** 融合聲音藝術與裝置。 ASMR、無人機和環境音樂正在重新評估。
-- **裝置：** Eurorack 模組、Max for Live、Pure Data、DIY 樂器。
+## 2010s：マルチメディアとインスタレーション
+- **背景:** サウンドアートやインスタレーションと融合。ASMRやドローン、アンビエントが再評価。  
+- **機材:** Eurorackモジュール, Max for Live, Pure Data, DIY楽器。  
 
-### 傑作
-- [Oneohtrix Point Never – *複製* (2011)](https://amzn.to/3W29tJz)
-- [提姆赫克 – *處女* (2013)](https://amzn.to/3VrREDB)
-- [Holly Herndon – *平台* (2015)](https://amzn.to/3W1lCyj)
+### 名盤
+- [Oneohtrix Point Never – *Replica* (2011)](https://amzn.to/3W29tJz)  
+- [Tim Hecker – *Virgins* (2013)](https://amzn.to/3VrREDB)  
+- [Holly Herndon – *Platform* (2015)](https://amzn.to/3W1lCyj)  
 
 ---
 
-## 10 推薦選擇
+## おすすめ10選
 
-|藝術家 |賽道 |年份|
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
-| Oneohtrix 點從不 |複製品 | 2011 |
-|提姆‧赫克 |處女 | 2013 |
-|霍莉·赫恩登 |合唱| 2014年|
-|本·弗羅斯特 |文特爾 | 2014 |
-|伊夫腫瘤 |舔蘭花| 2018 |
-|卡特琳娜·巴比耶里 |芬達 | 2019 | 2019
-|凱特琳·奧裡莉亞·史密斯 |一個意圖 | 2016 | 2016
-|羅利波特 | 4101 | 4101 2016 | 2016
-|勞倫斯英文 |鏡之荒野| 2014年|
-|韋爾科·S。對於那些從未經歷過的人（以及那些曾經經歷過的人）| 2016 | 2016
+| Oneohtrix Point Never | Replica | 2011 |
+| Tim Hecker | Virgins | 2013 |
+| Holly Herndon | Chorus | 2014 |
+| Ben Frost | Venter | 2014 |
+| Yves Tumor | Licking an Orchid | 2018 |
+| Caterina Barbieri | Fantas | 2019 |
+| Kaitlyn Aurelia Smith | An Intention | 2016 |
+| Roly Porter | 4101 | 2016 |
+| Lawrence English | Wilderness of Mirrors | 2014 |
+| Huerco S. | For Those of You Who Have Never (And Also Those Who Have) | 2016 |
 
 ---
 
-## 2020年代：人工智慧與後數位時代
-- **背景：** AI作曲、演算法音樂、VR/AR空間的沉浸式體驗正在進行中。噪音和實驗音樂再次與俱樂部場景相交。
-- **設備：** AI生成工具（RAVE、Magenta Studio）、Eurorack、模組化合成器+機器學習演算法。
+## 2020s：AIとポスト・デジタルの時代
+- **背景:** AI作曲、アルゴリズミック音楽、VR/AR空間での没入型体験が進行中。ノイズや実験音楽が再びクラブシーンと交錯。  
+- **機材:** AI生成ツール（RAVE, Magenta Studio）、Eurorack、モジュラーシンセ＋機械学習アルゴリズム。  
 
-### 傑作
-- [Holly Herndon – *PROTO*（2019 年，AI 人聲合唱）](https://amzn.to/4nhKdv3)
-- [卡莉‧馬龍 – *生命之火* (2022)](https://amzn.to/4nJoBYc)
-- [卡特琳娜·巴比耶里 – *靈魂出口* (2022)](https://amzn.to/3W4Hg4M)
+### 名盤
+- [Holly Herndon – *PROTO* (2019, AIボーカル合唱)](https://amzn.to/4nhKdv3)  
+- [Kali Malone – *Living Torch* (2022)](https://amzn.to/4nJoBYc)
+- [Caterina Barbieri – *Spirit Exit* (2022)](https://amzn.to/3W4Hg4M)  
 
 ---
-## 10 推薦選擇
+## おすすめ10選
 
-|藝術家 |賽道 |年份|
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
-|霍莉·赫恩登 |前沿| 2019（AI合唱）|
-|卡莉馬龍 |生命火炬 I | 2022 | 2022
-|卡特琳娜·巴比耶里 |破碎的旋律| 2022 | 2022
-|失憶症掃描器| AS無淚| 2020 |
-|奧泰克雷 |標誌 | 2020 |
-|李甘布爾 |特戈雷亞爾 | 2021 |
-|藍色物體|聖特雷莎的狂喜| 2021 |
-|池田良二 |超| 2020 |
-|卡莉馬龍 |犧牲守則| 2020 |
-|瑪麗娜·赫洛普 |繆 | 2022 | 2022
+| Holly Herndon | Frontier | 2019（AI合唱） |
+| Kali Malone | Living Torch I | 2022 |
+| Caterina Barbieri | Broken Melody | 2022 |
+| Amnesia Scanner | AS Tearless | 2020 |
+| Autechre | Sign | 2020 |
+| Lee Gamble | A Tergo Real | 2021 |
+| Object Blue | Ecstasy of Saint Teresa | 2021 |
+| Ryoji Ikeda | Ultra | 2020 |
+| Kali Malone | The Sacrificial Code | 2020 |
+| Marina Herlop | miu | 2022 |
 
 ---
 
-## 實驗音樂的未來
-實驗音樂始終在不斷拓展音樂的邊界。從 **1940 年代準備的鋼琴和磁帶實驗**，**70 年代的噪音和工業**，**90 年代的數字故障**，到 **2020 年代人工智能生成的音樂**，它一直在變化。
+## 実験音楽の未来
+エクスペリメンタル・ミュージックは常に「音楽の境界」を拡張し続けてきました。**1940年代のプリペアド・ピアノやテープ実験**から始まり、**70年代のノイズやインダストリアル**、**90年代のデジタル・グリッチ**、そして**2020年代のAI生成音楽**まで、その姿は常に変化し続けています。  
 
-實驗音樂的本質是不可預測性和探索精神。即使在商業音樂之外，它的影響力也滲透到搖滾、俱樂部音樂、當代音樂和流行音樂中，使其成為一股不可忽視的力量。
+実験音楽の本質は「予測不可能性」と「探求の精神」です。商業音楽の外側であっても、その影響はロック、クラブミュージック、現代音楽、ポップスにまで浸透しており、もはや無視できない存在です。  
 
-未來，連「音樂」的概念也可能因為AI、腦波介面、VR/AR的融合而改變。
-**實驗音樂是預測未來的鏡子，將繼續為聽眾和創作者呈現「聲音的新視野」。 **
+今後はAIや脳波インターフェース、VR/ARとの融合によって「音楽」という概念すら変わる可能性があります。  
+**実験音楽は未来を占う鏡であり、聴く者・創る者双方に「音の新しい地平」を提示し続けるでしょう。**
 
 ---
 
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P2O94rg-Ees?si=ZoOKP9544iDBPyj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -13,15 +13,15 @@ title: FreeTEMPO – Sounds
 ---
 
 
-FreeTEMPO is a project by Takeshi Hanzawa. Started activities under the name FreeTEMPO in 2000.
+FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト。2000年にFreeTEMPO名義で活動開始。
 
-In 2002, she joined the Italian label IRMA RECORDS and released her first mini album ""Love Affair.''
+2002年、イタリアのレーベルIRMA RECORDSに参加し、1stミニアルバム『Love affair』をリリース。
 
-Since then, they have released numerous albums and singles, and with their melodic songs and sophisticated sound, they have gained many fans both in Japan and abroad.
+以降、数々のアルバムやシングルをリリースし、メロディックな楽曲と洗練されたサウンドで、国内外で多くのファンを獲得。
 
-In 2010, he suspended his activities under the name FreeTEMPO, and since then has participated in various music projects.
+2010年にFreeTEMPO名義での活動を休止し、その後は様々な音楽プロジェクトに参加。
 
-In 2021, he resumed activities under the name FreeTEMPO for the first time in 11 years.
+2021年に11年ぶりにFreeTEMPO名義での活動を再開。
 
 #### Tracklist
 ```md
@@ -39,7 +39,7 @@ In 2021, he resumed activities under the name FreeTEMPO for the first time in 11
 12. Sounds
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdzo4ariC1Q?si=0spyPgnN5Iie-62l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

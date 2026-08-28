@@ -9,13 +9,13 @@ permalink: /zh-hant/muro-super-disco-breaks-volumes-1-4/
 tags:
 - Hiphop
 - Mix
-title: Muro – 超級迪斯可突破第 1-4 卷
+title: Muro – Super Disco Breaks Volumes 1-4
 ---
 
 
-這是 Muro 的混音帶「Super Disco Breaks Volumes 1-4」。
+Muroによるミックステープ「Super Disco Breaks Volumes 1-4」です。
 
-#### 曲目表
+#### Tracklist
 ```md
 Side A. Super Disco Breaks Lesson 1
 
@@ -26,5 +26,5 @@ Side C. Super Disco Breaks Lesson 3
 Side D. Super Disco Breaks Lesson 4
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m85258489919?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85258489919?afid=6142608987){: .button1}
 

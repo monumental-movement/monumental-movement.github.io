@@ -10,16 +10,16 @@ tags:
 - Techno
 - German Techno
 - Downtempo
-title: 約翰內斯·赫爾（Johannes Heil）－未來原始人
+title: Johannes Heil – Future Primitive
 ---
 
 
-約翰內斯·海爾的音樂具有黑暗、戲劇性的氛圍，帶有沉重的節奏和迷幻的聲音。精心的製作和不斷演變的編曲將聽眾帶入一個未來世界。
+ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。
 
-Johannes Heil 的作品深受 techno 樂迷和地下樂壇的好評，並以其獨特的聲音風格而聞名。
+ヨハネス・ハイルの作品は、テクノミュージックのファンやアンダーグラウンドな音楽シーンで高い評価を受けており、その独特なサウンドスタイルが魅力とされています。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1  Future Primitive Intro
 
@@ -40,7 +40,7 @@ C2  Golden Dawn
 D   Cherubim
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

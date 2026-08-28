@@ -10,41 +10,40 @@ tags:
 - Piano
 - Modern Classical
 - Ambient
-title: '[Column] Boris──The heresy of Japanese rock that continues to transcend genre
-  boundaries'
+title: 【コラム】 Boris──ジャンルという境界を越え続ける日本ロックの異端
 ---
 
 
-## Who is Boris?
+## Borisとは何者なのか
 
-Text: mmr｜Theme: Tracing the trajectory of Boris as he spread from Japan to the rest of the world, deciphering the unique music world that continues to evolve across genres and its historical significance.
+文：mmr｜テーマ：日本から世界へと広がったBorisの軌跡を辿りながら、ジャンルを越えて進化し続ける独創的な音楽世界と、その歴史的意義を読み解く
 
 
-Since the 1990s, many unique bands have appeared in the Japanese rock scene. Among them, there are few who have resisted conventional categorization and continually updated their music as much as Boris.
+1990年代以降、日本のロックシーンには数多くの個性的なバンドが登場した。その中でもBorisほど既存のジャンル分けを拒み、自らの音楽を絶えず更新し続けてきた存在は決して多くない。
 
-Heavy metal, stoner rock, doom metal, psychedelic rock, noise rock, drone, ambient, even pop and shoegaze.
+ヘヴィメタル、ストーナーロック、ドゥームメタル、サイケデリックロック、ノイズロック、ドローン、アンビエント、さらにはポップやシューゲイザーまで。
 
-Normally, it is rare for one band to have such a diverse range of musical styles. However, even though Boris presented a completely different worldview with each album, he never lost his strong individuality, which is known as ""Boris-ness.''
+普通であれば一つのバンドがこれほど多様な音楽性を持つことは珍しい。しかしBorisは、アルバムごとにまったく異なる世界観を提示しながらも、「Borisらしさ」と呼ばれる強い個性を失わなかった。
 
-In some ways, his music was highly praised overseas before it was in Japan.
+その音楽は、日本国内よりも先に海外で高く評価された側面もある。
 
-They have been introduced in Western music media as one of Japan's leading experimental rock bands, and have gained international support through numerous festivals and tours.
+欧米の音楽メディアでは「日本を代表する実験的ロックバンド」の一つとして紹介され、多くのフェスティバルやツアーを通じて国際的な支持を獲得してきた。
 
-They have also attracted attention from not only rock but also experimental music and the art scene, and continue to engage in cross-genre activities.
+In addition to rock music, they have also attracted attention from the experimental music and art scenes, and continue to engage in cross-genre activities.
 
-Boris's characteristic is not simply that he plays a wide range of genres.
+Borisの特徴は、単に「幅広いジャンルを演奏する」ことではない。
 
-He changes his way of thinking about sound itself with each work, and his attitude is to continue to defy listeners' expectations.
+作品ごとに音そのものの考え方を変え、リスナーの予想を裏切り続ける姿勢にある。
 
-In some pieces, roaring guitars dominate, in others silence.
+ある作品では轟音ギターが支配し、ある作品では静寂が支配する。
 
 One piece features a series of pop songs, while another features a nearly hour-long drone.
 
-This extreme swing range can be said to be Boris' greatest appeal.
+この極端な振れ幅こそがBoris最大の魅力と言える。
 
 In the music market, "brand consistency" is often emphasized. But Boris is one of those rare individuals who has chosen change over consistency, and whose change has become a brand in itself.
 
->Boris were not just a band that expanded genres, but they were one of the few rock bands that tried to transcend the very concept of genre.
+> Borisはジャンルを広げたバンドではなく、「ジャンルという概念そのもの」を越えようとしてきた数少ないロックバンドの一つだった。
 
 
 <style type="text/css">
@@ -52,7 +51,7 @@ In the music market, "brand consistency" is often emphasized. But Boris is one o
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -65,79 +64,79 @@ color: #fff;
 
 ## Formation and members
 
-Boris was formed in Tokyo in 1992.
+Borisは1992年に東京都で結成された。
 
-Until now, they have consistently maintained a three-piece formation.
+現在まで一貫してスリーピース編成を維持している。
 
-There are three members:
+メンバーは次の三人である。
 
-| Members | Person in charge |
+| メンバー    | 担当             |
 | ------- | -------------- |
-| Takeshi | Bass, vocals, guitar |
+| Takeshi | ベース、ボーカル、ギター   |
 | Wata | Guitar, effects, vocals |
-| Atsuo | Drums, Vocals |
+| Atsuo   | ドラム、ボーカル       |
 
 This organization has not changed significantly since its formation.
 
-Their style, which is unusual for a rock band, is that they do not use fixed vocals.
+ロックバンドとしては珍しく、ボーカルを固定しないスタイルも特徴である。
 
-The person in charge changes depending on the song, and each person shows a different expression.
+楽曲によって担当が変わり、それぞれが異なる表情を見せる。
 
 Also, during live performances, the performance parts may change flexibly, and it can be seen that they prioritize the optimal expression of each song.
 
-It is known that the band name "Boris" is derived from the song "Boris" by the American band Melvins.
+バンド名「Boris」は、アメリカのバンドMelvinsの楽曲「Boris」に由来することが知られている。
 
-This shows that they had a strong interest in heavy, slow rock from the beginning of their formation.
+このことからも、結成当初からヘヴィでスローなロックへの強い関心を持っていたことがうかがえる。
 
-But they were more than just followers of the Melvins.
+しかし、彼らはMelvinsの単なるフォロワーでは終わらなかった。
 
-While embracing early influences, he built his own world from there.
+While embracing early influences, he built his own unique world from there.
 
-The three of them have been deeply involved not only in music, but also in artwork and live performances.
+三人は音楽だけでなく、アートワークやライブ演出にも深く関わってきた。
 
 His attitude of having a different visual concept for each album and completing the entire work as a single expression continues to this day.
 
-> Boris is not a band with fixed roles; each of the three members remains a co-creator who shapes the music as a whole.
+> Borisは固定された役割を持つバンドではなく、三人それぞれが音楽全体を形づくる共同制作者であり続けている。
 
 ---
 
-## The soil of the Japanese underground in the 1990s
+## 1990年代日本アンダーグラウンドという土壌
 
-Around the time Boris was formed in 1992, while major rock was gaining widespread support in Japan, a completely different trend was growing in the underground music scene.
+Borisが結成された1992年前後、日本ではメジャーロックが広く支持を集める一方、地下音楽シーンではまったく異なる潮流が育っていた。
 
-noise music.
+ノイズミュージック。
 
-hardcore.
+ハードコア。
 
 indie rock.
 
 Improvisation.
 
-experimental music.
+実験音楽。
 
-Each of these genres developed independently, far from commercial success.
+こうしたジャンルは商業的成功とは距離を置きながら、それぞれ独自の発展を遂げていた。
 
-In the 1980s, noise artists such as Merzbow attracted international attention, and Japan's unique avant-garde culture was forming.
+1980年代にはMerzbowをはじめとするノイズアーティストが国際的に注目され、日本独自のアヴァンギャルド文化が形成されていた。
 
-Also, Japan's hardcore scene was beginning to receive worldwide recognition.
+また、日本のハードコアシーンも世界的な評価を受け始めていた。
 
-Boris began his career under the influence of this underground culture.
+Borisはこうした地下文化の影響を受けながら活動を開始した。
 
-But they didn't stay in one community.
+しかし彼らは一つのコミュニティに留まることはなかった。
 
-Appeared in heavy rock live,
+ヘヴィロックのライブにも出演し、
 
-Also appeared at noise events,
+ノイズイベントにも出演し、
 
-He also participates in experimental music projects.
+実験音楽の企画にも参加する。
 
-Its flexibility has been a characteristic seen since its formation.
+その柔軟さは結成当初から見られる特徴である。
 
-In the 1990s, the Internet was not as popular as it is today, and it was not easy to exchange information with other countries.
+1990年代当時、インターネットは現在ほど普及しておらず、海外との情報交換は容易ではなかった。
 
 Still, Japanese underground music is gradually being introduced to the world through overseas indie labels and music magazines.
 
-Boris also began to attract the attention of overseas listeners in this trend.
+Borisもまた、その流れの中で海外リスナーの関心を集め始めた。
 
 It is characteristic of Japanese rock bands that their name became known overseas even before they achieved great commercial success in Japan.
 
@@ -145,37 +144,37 @@ It is characteristic of Japanese rock bands that their name became known oversea
 
 ---
 
-## Direction indicated by debut work "Absolutego"
+## デビュー作『Absolutego』が示した方向性
 
 In 1996, Boris released his first full-length album, Absolutego.
 
 This work was very different from typical rock albums.
 
-It adopts a bold format in which the entire album is composed of almost one song.
+アルバム全体をほぼ一曲で構成するという大胆な形式を採用している。
 
-The performance time is approximately one hour.
+演奏時間は約一時間。
 
 The guitars slowly pile up.
 
-Long drawn out feedback.
+長く引き延ばされるフィードバック。
 
-Heavy bass.
+重低音。
 
-Repetition.
+反復。
 
-Silence.
+静寂。
 
-These elements gradually change to create a huge acoustic space.
+こうした要素が少しずつ変化しながら巨大な音響空間を作り上げていく。
 
 It was an extremely unique work in Japan at the time.
 
-However, overseas, it received high praise from listeners who prefer drone music and experimental music.
+しかし海外ではドローンミュージックや実験音楽を好むリスナーから高い評価を受けた。
 
 What is important here is that they did not pursue ""speed" or ""gaiety."
 
-Boris treated time itself as a musical expression.
+Borisは時間そのものを音楽表現として扱った。
 
-Rather than a piece of music, he constructed the work as an acoustic experience.
+楽曲というより、一つの音響体験として作品を構築したのである。
 
 This approach recurs in his later works.
 
@@ -185,147 +184,147 @@ Although Absolutego was his debut work, it also symbolized Boris's creative atti
 
 ---
 
-## Roaring aesthetics established with "Amplifier Worship"
+## 『Amplifier Worship』で確立した轟音美学
 
-Amplifier Worship, released in 1998, is one of Boris's most representative works from his early years.
+1998年に発表された『Amplifier Worship』は、Boris初期を代表する作品の一つである。
 
-As the title suggests, the huge sound pressure emitted from the amplifier itself is an important theme in this work.
+タイトルが示すように、本作ではアンプから放たれる巨大な音圧そのものが重要なテーマとなっている。
 
 Although it is based on doom metal, elements of psychedelic rock and noise rock are intricately mixed into it.
 
 The songs are heavy, slow, and huge.
 
-On the other hand, it is not enough to just feel the weight.
+On the other hand, it is not enough just to feel the weight.
 
-Dynamics that suddenly transition from a quiet part to a roar.
+静かなパートから突然轟音へ移行するダイナミクス。
 
-Sensitive feedback.
+繊細なフィードバック。
 
-Recording that takes advantage of space.
+空間を生かした録音。
 
-These give the work a unique three-dimensional feel.
+これらが作品に独特の立体感を与えている。
 
 In the overseas media, many people have praised this work as one of the important works of 1990s doom metal and stoner rock.
 
-Also, from around this time, Boris gradually deepened his relationships with overseas labels.
+また、この頃からBorisは海外レーベルとの関係を徐々に深めていく。
 
-It was also a time when activities began in earnest not only in Japan but also with an eye on overseas markets.
+日本国内だけではなく、海外市場を視野に入れた活動が本格化する時期でもあった。
 
 > With ""Amplifier Worship,'' Boris began to be recognized as not just a heavy rock band, but an entity that pursues roaring sound as a form of sonic art.
 
 ---
 
-## Chronology (1992-1998)
+## 年表（1992〜1998）
 
-| Year | Events |
+| 年         | 出来事                       |
 | --------- | ------------------------- |
-| 1992 | Boris formed in Tokyo |
-| 1993-1995 | Gained experience mainly through live activities |
-| 1996 | "Absolutego" announced |
-| 1998 | "Amplifier Worship" announced |
-| Around 1998 | Recognition begins to spread in overseas underground scenes |
+| 1992      | 東京都でBoris結成               |
+| 1993〜1995 | ライブ活動を中心に経験を積む            |
+| 1996      | 『Absolutego』発表            |
+| 1998      | 『Amplifier Worship』発表     |
+| 1998頃     | 海外アンダーグラウンドシーンでも認知が広がり始める |
 
 <div class="mermaid">
 graph LR
-A[1992 Formed]
--->B[Live activities]
+A[1992 結成]
+-->B[ライブ活動]
 -->C[1996 Absolutego]
--->D[Establishment of acoustic experiments]
+-->D[音響実験の確立]
 -->E[1998 Amplifier Worship]
--->F[The beginning of overseas evaluation]
+-->F[海外評価の始まり]
 </div>
 
 ---
 
-## "Flood" ---The idea of ​​playing time itself
+## 『Flood』──時間そのものを演奏するという発想
 
 In 2000, Boris began to move in a more independent direction.
 
-The work that became a symbol of this was ""Flood,'' recorded in 2000, first released in limited release in 2001, and then reissued in 2008.
+その象徴となった作品が、2000年に録音され、2001年に初めて限定発売され、その後2008年に再発された『Flood』である。
 
-Flood is made up of four parts, each designed as one long sequence rather than a standalone song.
+『Flood』は全体が四つのパートで構成されているが、それぞれが独立した楽曲というより、一つの長い流れとして設計されている。
 
 A quiet arpeggio.
 
-Faint noise.
+かすかなノイズ。
 
-The guitars slowly pile up.
+ゆっくりと積み重なるギター。
 
-The volume increases over time.
+時間をかけて膨らんでいく音量。
 
-And a sudden roar.
+そして突然訪れる轟音。
 
-The composition returns to silence.
+再び静寂へ戻る構成。
 
 While a typical rock song can be completed in a few minutes, ""Flood'' takes several minutes to paint a scene.
 
-Its structure has a feel similar to classical music suites, contemporary music, and even film music.
+その構成は、クラシック音楽の組曲や現代音楽、さらには映画音楽にも近い感覚を持つ。
 
-Like the "flood" implied by the work's title, the sound gradually spreads and eventually engulfs the entire listener.
+作品タイトルが意味する「洪水」のように、音は徐々に広がり、やがてリスナー全体を包み込む。
 
 Rather than riffs or songs, the "passage of time" is the most important element here.
 
-Boris has been creating long-form works for some time, but Flood takes his expression even further.
+Borisは以前から長尺作品を制作していたが、『Flood』ではその表現がさらに洗練された。
 
-Multiple elements such as drone, ambient, psychedelic rock, and post-rock naturally fuse together in one piece.
+ドローン、アンビエント、サイケデリックロック、ポストロックといった複数の要素が、一つの作品の中で自然に融合している。
 
-Today, many fans cite ""Flood'' as their masterpiece.
+今日では『Flood』を代表作として挙げるファンも少なくない。
 
-This work has continued to occupy an important place in live performances for many years, and it is a record that shows Boris's high compositional ability.
+長年にわたりライブでも重要な位置を占め続けている作品であり、Borisの作曲能力の高さを示す一枚でもある。
 
-> ""Flood'' is an album that transforms an experience of time itself into a work, rather than the idea of ​​playing a single song.
+> 『Flood』は、一曲を演奏するという発想ではなく、一つの時間体験そのものを作品へ変換したアルバムだった。
 
 ---
 
-## "Heavy Rocks" shows another Boris
+## 『Heavy Rocks』が示したもう一つのBoris
 
-In 2002, Boris releases Heavy Rocks.
+2002年、Borisは『Heavy Rocks』を発表する。
 
-Unlike his previous long drone works, this work features relatively compact songs.
+それまでの長尺ドローン作品とは異なり、本作では比較的コンパクトな楽曲が並ぶ。
 
-However, it never approached a commercial rock album.
+しかし、決して商業的なロックアルバムへ接近したわけではない。
 
-Rather, it can be said to be a work that converts heaviness into more direct energy.
+むしろ、ヘヴィネスをより直接的なエネルギーへ変換した作品と言える。
 
-Strong guitar riff.
+強烈なギターリフ。
 
-Feeling of running.
+疾走感。
 
 fuzz sound.
 
-Punk-like momentum.
+パンク的な勢い。
 
 A psychedelic development.
 
-The album as a whole has strong stoner rock and hard rock influences.
+アルバム全体には、ストーナーロックやハードロックの影響が色濃く現れている。
 
-On the other hand, Boris' characteristic free structure is maintained, and it does not fit into a simple genre work.
+一方で、Boris特有の自由な構成は維持されており、単純なジャンル作品には収まらない。
 
-With ""Heavy Rocks", recognition as a ""heavy rock band" quickly spread overseas.
+『Heavy Rocks』によって、海外では「ヘヴィロックバンド」としての認知も一気に広がった。
 
-Particularly in Europe and the United States, they gained a lot of support from stoner rock and doom metal listeners.
+特に欧米ではストーナーロックやドゥームメタルのリスナーから高い支持を集めることになる。
 
-Interestingly, Boris later released another album of the same name in 2011, titled Heavy Rocks.
+興味深い点として、Borisは後年の2011年にも同名の『Heavy Rocks』を発表している。
 
-The reuse of the title suggests that this word is not just the name of the band's work, but symbolizes an ideology.
+タイトルを再び用いたことからも、この言葉がバンドにとって単なる作品名ではなく、一つの思想を象徴していることがうかがえる。
 
-> ""Heavy Rocks'' was an important turning point in presenting roar as physical rock rather than abstract art.
+> 『Heavy Rocks』は、轟音を抽象芸術ではなく身体性を伴うロックとして提示した重要な転換点となった。
 
 ---
 
-## The presence of "Akuma no Uta" and the Japanese title
+## 『Akuma no Uta』と日本語タイトルの存在感
 
-""Akuma no Uta'', released in 2003, received high praise overseas.
+2003年に発表された『Akuma no Uta』は、海外でも高い評価を受けた作品である。
 
-The album title remained in Japanese, and was distributed overseas as ""Akuma no Uta.''
+アルバムタイトルは日本語のまま使用され、海外でも『Akuma no Uta』として流通した。
 
-This is also one of Boris' characteristics.
+これはBorisの特徴の一つでもある。
 
-The intention is not to change the fact that it is in Japanese, but to present it as the name of an international work.
+日本語であることをあえて変えず、そのまま国際的な作品名として提示する姿勢である。
 
 In terms of music, it inherited the flow of ""Heavy Rocks,'' but added a more psychedelic and dynamic development.
 
-Heavy riff.
+重厚なリフ。
 
 melody.
 
@@ -333,55 +332,55 @@ Contrast between stillness and movement.
 
 feedback.
 
-noise.
+ノイズ。
 
-These coexist very naturally.
+これらが極めて自然に共存している。
 
 The album jacket was also impressive and received high praise for its visual aspects.
 
-By this time, his attitude of designing not just the sound but the entire work as an artistic expression had been fully established.
+音だけではなく、作品全体を一つの芸術表現として設計する姿勢は、この時期には完全に確立されていた。
 
-In overseas media, we are increasingly being talked about as an independent and creative band, going beyond the framework of "Japanese heavy rock."
+海外メディアでは「日本のヘヴィロック」という枠を越え、独立した創造性を持つバンドとして語られる機会が増えていく。
 
-> ""Akuma no Uta'' became one of his masterpieces that reached the world while retaining its Japanese cultural background.
+> 『Akuma no Uta』は、日本語という文化的背景を保持したまま世界へ届いた代表作の一つとなった。
 
 ---
 
-## Expanding overseas tours and international recognition
+## 海外ツアーと国際的評価の拡大
 
-The early 2000s was also a time when Boris' overseas activities rapidly expanded.
+2000年代前半は、Borisにとって海外での活動が急速に広がった時期でもある。
 
-They have held live tours in Europe and America, gaining support in different scenes such as indie rock, doom metal, noise, and experimental music.
+欧米各国でライブツアーを重ね、インディーロック、ドゥームメタル、ノイズ、実験音楽といった異なるシーンで支持を集めていく。
 
-The musicality, which cannot be explained only by a specific genre, has become a big attraction for overseas music fans.
+特定のジャンルだけでは説明できない音楽性は、むしろ海外の音楽ファンにとって大きな魅力となった。
 
-One festival attracts a heavy metal crowd, another attracts contemporary music listeners.
+一つのフェスティバルではヘヴィメタルの観客を魅了し、別のイベントでは現代音楽のリスナーを惹きつける。
 
 This flexibility was extremely rare even at the time.
 
-In addition, by deepening relationships with overseas indie labels, their works will be widely introduced to listeners that would otherwise be difficult to reach within Japan.
+また、海外のインディーレーベルとの関係を深めたことで、日本国内だけでは届きにくかったリスナー層にも作品が広く紹介されるようになる。
 
-Through these activities, Boris was increasingly being talked about as a representative example of a ""Japanese rock band that was first appreciated overseas.''
+こうした活動を通じて、Borisは「海外で先に評価された日本のロックバンド」の代表例として語られることが増えていった。
 
-The reputation of the band both domestically and internationally influences each other, and the band's presence continues to grow.
+国内外での評価が相互に影響し合い、バンドの存在感はさらに高まっていく。
 
-> The early 2000s was a time when Boris expanded their recognition from a Japanese band to an international experimental rock band.
+> 2000年代前半は、Borisが日本のバンドから世界の実験的ロックバンドへと認識を広げた時代だった。
 
 ---
 
 ## Collaborative production across genres
 
-Collaborative production with a variety of artists is essential when talking about Boris's activities.
+Borisの活動を語る上で欠かせないのが、多様なアーティストとの共同制作である。
 
 They have collaborated with many musicians regardless of genre or nationality.
 
-This kind of collaborative production is not just about creating a buzz.
+こうした共同制作は、単なる話題作りではない。
 
-His distinctive feature is that he does not lose his own expression while incorporating the musicality of the other person.
+相手の音楽性を取り込みながらも、自らの表現を失わない点に特徴がある。
 
-Works that emphasize heaviness share weight, while experimental music explores acoustics itself.
+ヘヴィネスを強調する作品では重さを共有し、実験音楽では音響そのものを探求する。
 
-That flexibility pushed Boris's music further into the world.
+その柔軟性が、Borisの音楽をさらに広い世界へ押し広げていった。
 
 His co-stars do not dilute Boris' personality, but rather bring out new sides to him.
 
@@ -389,11 +388,11 @@ For this reason, there are many cases where co-produced works receive the same h
 
 This attitude has continued to this day.
 
-> Through collaboration, Boris has not changed himself, but expanded his possibilities.
+> Borisはコラボレーションを通じて自らを変えるのではなく、自らの可能性をさらに拡張してきた。
 
 ---
 
-## Sound structure
+## サウンドの構造
 
 Boris' music cannot be explained simply by being "loud."
 
@@ -406,8 +405,8 @@ A[Boris]
 A-->C[stoner rock]
 A-->D[psychedelic]
 A-->E[noise]
-A-->F[drone]
-A-->G[ambient]
+A-->F[ドローン]
+A-->G[アンビエント]
 A-->H[pop]
 A-->I[shoegaze]
 
@@ -422,9 +421,9 @@ I-->J
 
 </div>
 
-As you can see from this diagram, Boris is not a band that branches out around one genre.
+この図から分かるように、Borisは一つのジャンルを中心に枝分かれしたバンドではない。
 
-Rather, he incorporates a variety of musical elements at the same time and reconstructs them in different proportions for each work.
+むしろ、多様な音楽的要素を同時に取り込み、それらを一つの作品ごとに異なる割合で再構成している。
 
 That's why, even though his impression changes greatly from album to album, he never loses his identity as Boris.
 
@@ -432,7 +431,7 @@ That's why, even though his impression changes greatly from album to album, he n
 
 ---
 
-## ""Pink"'──The turning point that determined the world"s reputation
+## 『Pink』──世界的評価を決定づけた転換点
 
 ---
 
@@ -440,13 +439,13 @@ Pink, released in 2005, is an essential work when discussing Boris's career.
 
 In their early works, there was a heavy emphasis on drone and doom metal, but in ""Pink'', while maintaining the heaviness, the propulsive power of the songs themselves became even stronger.
 
-A fast-paced number.
+テンポの速いナンバー。
 
 Powerful guitar riff.
 
-A psychedelic development mixed with noise.
+ノイズを織り交ぜたサイケデリックな展開。
 
-And melodious elements.
+そして、メロディアスな要素。
 
 These things coexist naturally in one album.
 
@@ -454,29 +453,29 @@ In particular, the contents of the overseas edition were reorganized, and for ma
 
 It was also highly praised in Western music media, and was even featured as one of the best albums of the year.
 
-From around this time, Boris was not only being introduced as a Japanese rock band, but also increasingly being treated as a representative of the international experimental rock scene.
+この頃からBorisは、日本のロックバンドという紹介だけではなく、国際的な実験的ロックシーンを代表する存在として扱われる機会が増えていく。
 
-""Pink'' is one of the most well-known works of her career, and served as an opportunity to significantly expand her new fan base.
+『Pink』はキャリアの中で最も知名度の高い作品の一つであり、新しいファン層を大きく広げる契機となった。
 
-> ""Pink'' is Boris' masterpiece that led to his music being shared on a global scale.
-
----
-
-## Expanded presence at overseas festivals
+> 『Pink』は、Borisの音楽が世界規模で共有されるきっかけとなった代表作である。
 
 ---
 
-In the late 2000s, Boris began touring more actively overseas.
+## 海外フェスティバルで広がった存在感
+
+---
+
+2000年代後半になると、Borisは海外ツアーをさらに活発化させる。
 
 North America.
 
-Europe.
+ヨーロッパ。
 
-Australia.
+オーストラリア。
 
-All over Asia.
+アジア各地。
 
-The range of live activities expanded year by year.
+ライブ活動の範囲は年々広がっていった。
 
 What is interesting is the wide range of festivals they perform at.
 
@@ -484,27 +483,27 @@ Heavy metal event.
 
 Indie rock festival.
 
-Experimental music festival.
+実験音楽祭。
 
 noise event.
 
-art festival.
+アートフェスティバル。
 
-Normally these events would have different audiences, but Boris fit seamlessly into them all.
+通常であれば、それぞれ異なる観客層を持つイベントだが、Borisはそのすべてに自然に溶け込んだ。
 
-Their live performances are characterized not only by their loud volume, but also by their bold use of silence.
+ライブでは音量の大きさだけでなく、静寂を大胆に取り入れる演奏も特徴となっている。
 
-A roar that overwhelms the audience.
+観客を圧倒する轟音。
 
 An almost silent moment.
 
-This extreme contrast creates an experience that is even more impressive than the studio work.
+その極端な対比が、スタジオ作品以上に印象的な体験を生み出している。
 
-The content of the performances often changes for each live performance, and even the same set list often gives a completely different impression.
+ライブごとに演奏内容を変えることも多く、同じセットリストでも全く異なる印象になることが少なくない。
 
 The improvisational nature that cannot be conveyed through recorded works alone is one of the reasons why Boris has been supported for many years.
 
-> Boris's live performances have developed into an acoustic experience that can only be realized on the spot, rather than a reproduction of a song.
+> Borisのライブは楽曲の再現ではなく、その場でしか成立しない音響体験として発展してきた。
 
 ---
 
@@ -512,7 +511,7 @@ The improvisational nature that cannot be conveyed through recorded works alone 
 
 ---
 
-In 2008, ""Smile'' was released.
+2008年には『Smile』が発表される。
 
 Contrary to the title of the work, the content does not simply indicate brightness.
 
@@ -520,21 +519,21 @@ psychedelic rock.
 
 noise.
 
-electronics.
+エレクトロニクス。
 
-alternative rock.
+オルタナティブロック。
 
 Ambient.
 
 These elements overlap in a complex way, resulting in a more free composition than ever before.
 
-If ""Pink" was a work that brought energy to the fore, ""Smile" shows an even deeper interest in the color of sound and the expression of space.
+『Pink』がエネルギーを前面に押し出した作品だったとすれば、『Smile』では音の色彩や空間表現への関心がさらに深まっている。
 
-While the album as a whole has a sense of openness, it also coexists with a sense of instability and tension.
+アルバム全体には開放感がありながらも、不安定さや緊張感も共存している。
 
 This balance creates a unique floating feeling.
 
-Around this time, fans around the world began to look to Boris as a band whose work they could not predict what they would create next.
+この頃になると、Borisは「次はどんな作品を作るのか予測できないバンド」として世界中のファンから期待されるようになった。
 
 Even though his direction changed with each successive work, these changes were accepted as typical of Boris.
 
@@ -548,7 +547,7 @@ Even though his direction changed with each successive work, these changes were 
 
 2011 will be a particularly important year for Boris.
 
-Two albums on the same day,
+同日に二枚のアルバム、
 
 "Attention Please"
 
@@ -564,7 +563,7 @@ shoegaze.
 
 dream pop.
 
-alternative rock.
+オルタナティブロック。
 
 These elements are strongly reflected in the work, which has a soft atmosphere.
 
@@ -576,53 +575,53 @@ Rather than cramming everything into one work, each piece is presented as an ind
 
 This flexible way of thinking was extremely rare even in the rock scene at the time.
 
-> The two works of 2011 vividly proved that Boris is an existence that cannot be described in one direction.
+> 2011年の二作品は、Borisが一つの方向性では語れない存在であることを鮮やかに証明した。
 
 ---
 
-## The existence of a guitarist named Wata
+## Wataというギタリストの存在
 
 ---
 
 Wata's guitar playing is essential when talking about Boris.
 
-He's not the type to put flashy, fast-playing moves to the forefront.
+派手な速弾きを前面へ出すタイプではない。
 
-However, the texture of each note.
+しかし、一音ごとの質感。
 
 feedback.
 
 delay.
 
-Reverb.
+リバーブ。
 
 Fuzz.
 
-These are skillfully combined to create a unique acoustic space.
+これらを巧みに組み合わせ、独自の音響空間を作り上げている。
 
 Their performances tend to emphasize the ""tone'' rather than the guitar solo itself.
 
 He stretches out a single sound for a long time and treats overtones and reverberations as part of the work.
 
-This way of thinking also overlaps with the ideas of ambient and drones.
+この考え方はアンビエントやドローンの発想とも重なっている。
 
-Boris often attracts attention from guitarists around the world for his equipment, and his sound creation, which utilizes a variety of effectors, is an important element that supports Boris' individuality.
+世界中のギタリストから機材面でも注目されることが多く、多彩なエフェクターを駆使したサウンドメイクはBorisの個性を支える重要な要素となっている。
 
 On the other hand, he is also characterized by his attitude of not showing off his skills more than necessary.
 
-His performance style, which prioritizes the entire song, is highly praised by many musicians.
+楽曲全体を最優先に考える演奏スタイルは、多くのミュージシャンから高く評価されている。
 
-> Wata's performance has redefined the guitar as an instrument for drawing space rather than a melodic instrument.
+> Wataの演奏は、ギターを旋律の楽器ではなく空間を描くための楽器として再定義してきた。
 
 ---
 
-## Acoustic balance created by three people
+## 三人が作る音響バランス
 
 ---
 
 Boris's performance is not based on individual technique alone.
 
-The roles of the three people are closely linked.
+三人の役割が密接に結び付いている。
 
 <div class="mermaid">
 graph TD
@@ -631,8 +630,8 @@ B[Wata]
 C[Atsuo]
 
 A --> D[Bass/configuration]
-B --> E[space/tone]
-C --> F[Propulsion/dynamics]
+B --> E[空間・音色]
+C --> F[推進力・ダイナミクス]
 
 D --> G[Boris Sound]
 E --> G
@@ -640,13 +639,13 @@ F --> G
 
 </div>
 
-Takeshi supports not only the bass but also the overall structure of the song.
+Takeshiは低音だけでなく楽曲全体の構成を支える。
 
 Wata designs the tone and space.
 
-As a drummer, Atsuo not only sets the rhythm, but also plays a role in driving the energy of the entire live performance.
+Atsuoはドラマーとしてリズムを刻むだけでなく、ライブ全体のエネルギーを牽引する役割も担う。
 
-The balance of these three roles creates Boris' unique three-dimensional sound.
+この三つの役割が均衡することで、Boris独特の立体的なサウンドが生まれる。
 
 Another unique feature of this band is that rather than just one person taking the lead, their roles flexibly change with each work.
 
@@ -654,11 +653,11 @@ Another unique feature of this band is that rather than just one person taking t
 
 ---
 
-## Chronology (2005-2011)
+## 年表（2005〜2011）
 
-| Year | Events |
+| 年    | 出来事                        |
 | ---- | -------------------------- |
-| 2005 | "Pink" announcement |
+| 2005 | 『Pink』発表                   |
 | 2006 | International acclaim further increases with the release of the overseas version of ""Pink'' |
 | 2008 | "Smile" announced |
 | 2011 | "Attention Please" announced |
@@ -674,27 +673,27 @@ timeline
     2011 : Heavy Rocks
 </div>
 
-> After ""Pink'', Boris established their reputation overseas, and at the same time further strengthened their presence as a creative band that continues to present a different musical world with each work.
+> 『Pink』以降のBorisは、海外での評価を確立すると同時に、作品ごとに異なる音楽世界を提示し続ける創造的なバンドとして、その存在感をさらに強めていった。
 
 ---
 
-## A creative philosophy that continues to transcend genres
+## ジャンルを超え続ける創作哲学
 
-Even now, it is not easy to categorize Boris into one genre.
+Borisを一つのジャンルへ分類することは、現在でも容易ではない。
 
 In some works it's doom metal.
 
 Another piece is ambient.
 
-Other works morph into shoegaze, pop, noise, and psychedelic rock.
+さらに別の作品ではシューゲイザーやポップ、ノイズ、サイケデリックロックへと姿を変える。
 
-However, the change is not a coincidence.
+しかし、その変化は偶然ではない。
 
-From the beginning, Boris has maintained the attitude of ""choosing the method that best suits the music we want to express," rather than ""playing a genre."
+Borisは結成当初から「ジャンルを演奏する」のではなく、「表現したい音楽に最も適した方法を選ぶ」という姿勢を貫いてきた。
 
-As a result, even though the musicality varies greatly from piece to piece, a common aesthetic sense flows through the entire work.
+そのため、一枚ごとに音楽性が大きく変化しても、作品全体には共通した美意識が流れている。
 
-This is not based on volume or distortion, but rather on the idea of ​​""treating the sound itself as a space.''
+それは音量や歪みではなく、「音そのものを空間として扱う」という発想である。
 
 One guitar chord.
 
@@ -702,87 +701,87 @@ Long lasting feedback.
 
 Silence.
 
-reverberation.
+残響。
 
-These elements are arranged over time to create a single work world.
+こうした要素を時間の流れとともに配置し、一つの作品世界を構築していく。
 
-This is also why it is recommended to listen to Boris's works in albums.
+Borisの作品をアルバム単位で聴くことが推奨される理由もここにある。
 
 This is because it is designed as a single work, not just the individual songs, but also the order and flow of the songs.
 
 This attitude has not changed even in the streaming era.
 
-Even as playlist-based music consumption continues to expand, Boris continues to place emphasis on the album as a form of expression, which is typical of Boris.
+プレイリスト中心の音楽消費が広がる中でも、アルバムという表現形式を重視し続けている点はBorisらしい特徴である。
 
 > Boris does not deny genre, but continues to freely treat genre as a means of expression.
 
 ---
 
-## The reason why it was evaluated internationally before domestically
+## 国内より先に世界で評価された理由
 
 Boris has received high praise in Japan, but his fame has spread overseas first.
 
 Behind this is the change in the Western indie scene from the late 1990s to the early 2000s.
 
-At the time, there was a growing interest in music different from traditional rock, such as stoner rock, doom metal, post-rock, drone, and noise music.
+当時はストーナーロック、ドゥームメタル、ポストロック、ドローン、ノイズミュージックなど、従来のロックとは異なる音楽への関心が高まっていた。
 
-Boris' work had a musicality that naturally connected with these multiple scenes.
+Borisの作品は、それら複数のシーンと自然に接続できる音楽性を持っていた。
 
 On the other hand, in Japan, the market tends to be segmented by genre, and Boris, who is difficult to categorize into a single style, did not necessarily fit within the existing framework.
 
-Overseas, its ""unclassification'' was rather perceived as originality.
+海外ではその「分類できないこと」がむしろ独創性として受け止められたのである。
 
 In addition, cooperation with overseas indie labels and continuous touring activities were also important factors in increasing international reputation.
 
-Support spread through word of mouth, specialized magazines, and live performances, and a passionate fan community was eventually formed around the world.
+口コミや専門誌、ライブを通じて支持が広がり、やがて世界各地に熱心なファンコミュニティが形成されていった。
 
 Currently, they are internationally recognized as one of Japan's leading experimental rock bands.
 
-> Boris's international success is a great example of how Japanese music can be embraced across genres.
+> Borisの国際的成功は、日本発の音楽がジャンルを越えて受け入れられる可能性を示した好例となった。
 
 ---
 
 ## Impact on subsequent generations
 
-Boris' influence is not limited to just one genre.
+Borisの影響は、一つのジャンルだけに限定されない。
 
-Heavy rock.
+ヘヴィロック。
 
-noise.
+ノイズ。
 
-psychedelic.
+サイケデリック。
 
-Drone.
+ドローン。
 
-Ambient.
+アンビエント。
 
-alternative rock.
+オルタナティブロック。
 
 Many artists are inspired by Boris in these wide-ranging fields.
 
-The influence is not just on playing technique.
+影響は演奏技術だけではない。
 
 His attitude is to make bold changes in direction with each album.
 
-A willingness to try different arrangements for each live performance.
+A willingness to try different arrangements for each live show.
 
-The idea is to design the sound itself as a work of art.
+音そのものを作品として設計する考え方。
 
-These ideas have been passed down to the current experimental rock and indie scenes.
+これらは、現在の実験的なロックやインディーシーンにも受け継がれている。
 
-Also, many listeners overseas cite Boris as the gateway to becoming interested in Japanese experimental music.
+また、海外では日本の実験音楽に興味を持つ入口としてBorisを挙げるリスナーも少なくない。
 
-As a result, interest in other Japanese artists and the underground music scene has expanded.
+その結果、他の日本人アーティストや地下音楽シーンへの関心が広がるきっかけにもなっている。
 
-While Boris is a highly regarded figure on his own, he has also played a role in introducing Japan's experimental music culture as a whole to the world.
+Borisは単独で評価される存在であると同時に、日本の実験音楽文化全体を世界へ紹介する役割も果たしてきた。
 
-> Boris' influence extends not only to the work itself, but also to the value of ""free creation.''
+> Borisの影響は作品そのものだけではなく、「自由に創作してよい」という価値観にも及んでいる。
 
 ---
 
-## Evolution seen from discography
+## ディスコグラフィから見える進化
 
-Looking back over more than 30 years of activity, it is clear that Boris's work has not developed in a single straight line, but has changed directions many times.
+30年以上に及ぶ活動を振り返ると、Borisの作品は一つの直線ではなく、幾度も方向を変えながら発展してきたことが分かる。
 
 <div class="mermaid">
 flowchart LR
@@ -828,48 +827,48 @@ I --> J
 
 </div>
 
-What becomes clear from this trend is a consistent attitude of ""not repeating the path of successful works.''
+この流れから見えてくるのは、「成功した作品の路線を繰り返さない」という一貫した姿勢である。
 
 In general, there are many cases where the next album is produced as an extension of the highly acclaimed album.
 
-But Boris has repeatedly dared to go in different directions.
+しかしBorisは、あえて異なる方向へ進むことを繰り返してきた。
 
-Therefore, every time a new song is announced, fans have high expectations, wondering, ""What kind of sound will it be this time?''
+そのため、ファンは新作が発表されるたびに「今回はどんな音なのか」という期待を抱く。
 
-Unpredictability itself is part of Boris' appeal.
+予測できないこと自体が、Borisというバンドの魅力になっているのである。
 
-> Boris's discography can be read as a record of endless exploration, rather than a history of progress towards a single finished product.
+> Borisのディスコグラフィは、一つの完成形へ向かう歴史ではなく、終わりのない探究の記録として読み解くことができる。
 
 ---
 
-## What Boris left behind in modern music
+## Borisという存在が現代音楽に残したもの
 
-Boris has been active beyond the framework of a Japanese rock band.
+Borisは、日本のロックバンドという枠組みを越えて活動してきた。
 
-While they are supported by heavy music fans, they are also appreciated by experimental music, contemporary music, and the art scene.
+ヘヴィミュージックのファンから支持される一方で、実験音楽や現代音楽、アートシーンからも評価されている。
 
 The reason lies not in style but in attitude.
 
-Don't be afraid of change.
+変化を恐れないこと。
 
 Don't follow preconceived notions.
 
-Take on new challenges with each piece.
+作品ごとに新しい挑戦を行うこと。
 
-These have continued consistently since their formation.
+これらは結成以来、一貫して続いている。
 
 In the music market, ease of understanding and reproducibility are often emphasized.
 
-But Boris has continued on a different path.
+しかしBorisは、それとは異なる道を歩み続けてきた。
 
 As a result, they continue to be looked upon by listeners around the world as a band whose next work cannot be predicted.
 
 Even after more than 30 years of activity, there are not many artists who can still give us fresh surprises every time a new work is released.
 
-Boris is an essential figure in the history of experimental rock in Japan, and has also carved out a unique place in the history of rock around the world.
+Borisは、日本の実験的ロックの歴史を語るうえで欠かせない存在であり、同時に世界のロック史においても独自の位置を築いてきた。
 
-Their history has not been to transcend genres, but rather has been shaped by continuing to expand the possibilities of musical expression.
+その歩みは、ジャンルを超えることが目的ではなく、音楽表現の可能性を広げ続けた結果として形づくられてきたのである。
 
-> The history of Boris is not the history of the development of a single genre, but rather the history of over 30 years of continuing to put into practice the question ""How free can music be?''
+> Borisの歴史は、一つのジャンルの発展史ではなく、「音楽はどこまで自由になれるのか」という問いを30年以上かけて実践し続けてきた軌跡そのものである。
 
 ---

@@ -10,20 +10,20 @@ tags:
 - Trance
 - Dutch Trance
 - 00s
-title: 排名 1 – 電波
+title: Rank 1 – Airwave
 ---
 
 
-Rank 1 是由荷蘭 trance DJ/製作人 Piet Bervoets 和 Benno De Goeij 於 1999 年啟動的計畫。他們擁有《Airwave》、《Such is Life》、《L.E.D.》、《There be light》等多首熱門歌曲，其中2000年發行的《Airwave》被稱為Rank 1的代表歌曲，也是當時trance界的讚歌。
+Rank 1 は、オランダのトランス DJ／プロデューサーPiet Bervoets と Benno De Goeijが1999年にスタートしたプロジェクト。「Airwave」「Such is Life」「L.E.D.」「There be light」など数々のヒット曲があり、中でも2000年にリリースされた「Airwave」はRank 1 の代表曲であり当時のトランスシーンのアンセムとして知られている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Airwave (Original Mix Edit)
 
 B. Airwave (Rank 1 Vs. Dutch Force Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m60422033271?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60422033271?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ypDtUUtuNzQ?si=LpCxLZ5uLqeaX1aP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

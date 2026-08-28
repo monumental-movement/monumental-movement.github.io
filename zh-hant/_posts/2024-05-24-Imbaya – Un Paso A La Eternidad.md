@@ -12,15 +12,15 @@ tags:
 - Quechua
 - Folk
 - 90s
-title: 因巴亞 – Un Paso A La Eternidad
+title: Imbaya – Un Paso A La Eternidad
 ---
 
 
-Imbaya 是一個玻利維亞三重奏組，演奏以長笛和吉他為主的傳統南美音樂，偶爾也有人聲。成員包括 Jaime Vega、Carlos Vega 和 Mario Vega，他們演奏安地斯文化的樂器，如 quena、quenacho、flauta de pan（排笛）和 sampona。
+Imbayaは、フルートとギターを基調に時々ボーカルを加えた伝統的な南米音楽を演奏するボリビアのトリオ。メンバーは、ケーナ、ケーナチョ、フラウタ・デ・パン（パンフルート）、サンポーナなどのアンデス文化の楽器の演奏者Jaime VegaとCarlos Vega＆Mario Vega。
 
-《Un Paso A La Eternidad》是一張以秘魯克丘亞人製作的本土音樂的專輯，是1993年發行的卡帶。
+「Un Paso A La Eternidad（永遠への一歩）」は、ペルーのケチュア族によって作られたネイティブ音楽をベースとしたアルバムで、1993年にリリースされたカセットテープ。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Puro Runas
 2. Encuentros
@@ -39,4 +39,4 @@ Imbaya 是一個玻利維亞三重奏組，演奏以長笛和吉他為主的傳�
 15. Guajira Cafe
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m83026933947?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83026933947?afid=6142608987){: .button1}

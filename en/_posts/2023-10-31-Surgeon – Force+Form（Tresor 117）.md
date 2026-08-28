@@ -8,13 +8,13 @@ layout: post
 tags:
 - Techno
 - DJ
-title: Surgeon – Force+Form (Tresor 117)
+title: Surgeon – Force+Form（Tresor 117）
 ---
 
 
-A CD by UK electronic musician and DJ, Surgeon, released in 1999 on Tresor.
+Tresor（トレゾア）から1999年にリリースされたUKエレクトロニックミュージシャン＆DJ、Surgeon（サージョン）のCD。
 
-Surgeon is also known as one of the first DJs to use Ableton Live and Final Scratch in his DJ sets.
+Surgeonは、DJ セットでAbleton Live と Final Scratch を使用した最初の DJ の 1 人としても知られている。
 
 
 #### Tracklist
@@ -46,7 +46,7 @@ At The Heart Of It All
 4b. Part 2
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m56790117457?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56790117457?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nbfFhkk-4Ks?si=b_AtPUTXVb6mVGwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

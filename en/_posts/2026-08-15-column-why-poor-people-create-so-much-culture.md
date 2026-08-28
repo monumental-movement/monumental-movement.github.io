@@ -10,64 +10,63 @@ tags:
 - Culture
 - Subculture
 - Sociology
-title: '[Column] Why Poor People Create So Much Culture — Why do poor people create
-  so much culture?'
+title: 【コラム】 Why Poor People Create So Much Culture — 貧しい人々は、なぜこれほど多くの文化を生み出すのか？
 ---
 
 
 # Why Poor People Create So Much Culture
 
-Text: mmr｜Theme: Poverty itself does not give rise to creativity, but explores the history of people who reused existing music, clothes, cities, and tools with limited resources, rearranged them, and transformed them into a DIY culture, which propelled Hip-Hop, Punk, Reggae, Graffiti, Skateboarding, and Street Fashion into global culture.
+文：mmr｜テーマ：貧困そのものが創造性を生むのではなく、限られた資源の中で既存の音楽、服、街、道具を再利用し、組み替え、DIY文化へ変えた人々が、Hip-Hop、Punk、Reggae、Graffiti、Skateboarding、Street Fashionを世界文化へ押し上げた歴史を探る
 
 
-"Why do poor people create so much culture?"
+「貧しい人々は、なぜこれほど多くの文化を生み出すのか？」
 
-This seems a bit of a wild question.
+これは、少し乱暴な問いに見える。
 
-Of course, it is not only the poor who create culture. Kings, aristocrats, universities, companies, wealthy people, and nations have created huge cultures.
+もちろん、文化を作るのは貧しい人々だけではない。王侯貴族も、大学も、企業も、富裕層も、国家も、巨大な文化を作ってきた。
 
-Still, when we look at popular culture from the late 20th century to the present, a strange pattern emerges.
+それでも、20世紀後半から現在までの大衆文化を見渡すと、不思議なパターンが浮かび上がる。
 
-Hip-hop.
+Hip-Hop。
 
-Punk.
+Punk。
 
-Reggae.
+Reggae。
 
-Graffiti.
+Graffiti。
 
-Skateboarding.
+Skateboarding。
 
-Street Fashion.
+Street Fashion。
 
-These were not designed from the beginning to be huge industries.
+これらは、最初から巨大な産業として設計されたものではなかった。
 
-Rather, they were often created by young people who were under-resourced by the existing cultural industries, using what they had at hand.
+むしろ多くの場合、既存の文化産業から十分な資源を与えられていなかった若者たちが、手元にあるものを使って作り上げた。
 
-If they didn't have expensive instruments, they used records.
+高価な楽器がなければ、レコードを使った。
 
-If there were no big clubs, they used the streets, parks, and shared spaces in apartments.
+大きなクラブがなければ、路上や公園やアパートの共有空間を使った。
 
-If there was no museum, I used the wall or the subway.
+美術館がなければ、壁や地下鉄を使った。
 
-If they couldn't buy new clothes in bulk, they would combine existing clothes, alter them, and change their meaning.
+新しい服を大量に買えなければ、既存の服を組み合わせ、改造し、意味を変えた。
 
-Without dedicated sports facilities, the city itself became a playground.
+専用のスポーツ施設がなければ、街そのものを遊び場にした。
 
-What is important is that this ""lack'' was not just an inconvenience.
+そして重要なのは、その「足りなさ」が単なる不便では終わらなかったことだ。
 
-The shortage created a need to use what we already had in a different way.
+不足していたからこそ、既存のものを別の方法で使う必要が生まれた。
 
-As a result, the very way culture is created has changed.
+その結果、文化の作り方そのものが変わった。
 
-> Poverty itself does not breed creativity. The situation where we have to create culture with limited resources can strengthen our ability to reuse, recombine, and give new meaning to existing things.
+> 貧困そのものが創造性を生むのではない。限られた資源の中で文化を作らなければならない状況が、既存のものを再利用し、組み替え、新しい意味を与える力を強くすることがある。
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -77,119 +76,119 @@ color: #fff;
 
 ---
 
-## 1. "I don"t have money" and "I don"t have anything" are not the same thing.
+## 1. 「お金がない」と「何もない」は同じではない
 
-When looking at cultural history, we often think of ""resources'' only in terms of money.
+文化史を見るとき、私たちはしばしば「資源」をお金だけで考えてしまう。
 
-However, there are many more resources for creating culture.
+しかし、文化を作るための資源はもっと多い。
 
-time.
+時間。
 
-place.
+場所。
 
-fellow.
+仲間。
 
-body.
+身体。
 
-memory.
+記憶。
 
-record.
+レコード。
 
-clothes.
+服。
 
-wall.
+壁。
 
-words.
+言葉。
 
-city.
+街。
 
-And above all, network with others.
+そして何より、他人とのネットワーク。
 
-For example, in the 1970s in the Bronx, New York, the city was experiencing serious economic and social difficulties. The decline of the manufacturing industry, population migration, and changes in urban infrastructure had a major impact on local communities, and young people began to create a new culture in this environment.
+たとえば、1970年代のニューヨーク・ブロンクスでは、都市の経済的・社会的な困難が深刻化していた。製造業の衰退、人口移動、都市インフラの変化などが地域社会に大きな影響を与え、その環境の中で若者たちは新しい文化を作り始めた。
 
-The early history of Hip-Hop is a typical example.
+Hip-Hopの初期史は、その典型だ。
 
-On August 11, 1973, DJ Kool Herc threw a party at 1520 Sedgwick Avenue in the Bronx that would become an iconic event in Hip-Hop history. The party, which also raised money for sister Cindy Campbell to buy back-to-school clothes, wasn't a huge music event.
+1973年8月11日、DJ Kool Hercがブロンクスの1520 Sedgwick Avenueで開いたパーティーは、後のHip-Hop史における象徴的な出来事になった。妹Cindy Campbellが新学期の服を買うための資金を集める目的も持ったこのパーティーは、巨大な音楽イベントではなかった。
 
-Rather, it was a small gathering place for young people from the area.
+むしろ、地域の若者が集まる小さな場だった。
 
-And what was important here was not a ""new instrument.''
+そして、そこで重要だったのは「新しい楽器」ではない。
 
-It was a record that already existed.
+既に存在していたレコードだった。
 
-The DJ found a break in the record where the drums were emphasized, repeated it, and layered it with dancing and MC.
+DJはレコードの中からドラムが強調された部分、つまりbreakを見つけ、それを繰り返し、そこに踊りやMCを重ねた。
 
-In other words, in the early days of Hip-Hop, the idea was to ""use what you already have in a different way" rather than ""buy something new."
+つまり、Hip-Hopの初期には「新しいものを買う」より「既にあるものを別の方法で使う」という発想があった。
 
-This is not just music technology.
+これは単なる音楽技術ではない。
 
-It was a way of thinking about culture.
+文化に対する考え方そのものだった。
 
-"This is how you use it."
+「これはこう使うものだ」
 
-In contrast to the existing rules,
+という既存のルールに対して、
 
-"Maybe it can be used in another way."
+「別の使い方ができるのではないか」
 
-I think so.
+と考える。
 
-This idea later spread to sampling culture, DJ culture, street art, fashion, video, and graphic design.
+この発想は、後のサンプリング文化、DJ文化、ストリートアート、ファッション、映像、グラフィックデザインにまで広がっていく。
 
 ---
 
-## 2. Hip-Hop turned "what"s missing" into a weapon
+## 2. Hip-Hopは「足りないもの」を武器に変えた
 
-In the Bronx in the 1970s, when Hip-Hop emerged, urban blight and economic hardship were the cultural backdrop.
+Hip-Hopが登場した1970年代のブロンクスでは、都市の荒廃や経済的困難が文化の背景にあった。
 
-However, it is not enough to simply describe Hip-Hop as ""music born out of poverty.''
+だからといって、Hip-Hopを「貧困から生まれた音楽」とだけ説明するのは不十分だ。
 
-Hip-Hop had many overlapping elements, including African American music history, funk, soul, disco, Jamaican sound system culture, spoken word, dance, and the traditions of urban communities.
+Hip-Hopには、アフリカ系アメリカ人の音楽史、ファンク、ソウル、ディスコ、ジャマイカのサウンドシステム文化、spoken word、ダンス、都市コミュニティの伝統など、多数の要素が重なっていた。
 
 What was important was how to combine these different cultures.
 
-Library of Congress also identifies the early days of Hip-Hop as a culture of expression, documentation, and empowerment by Black and Latinx youth in the Bronx in the 1970s.
+Library of Congress also positions Hip-Hop's early years as a culture of expression, documentation, and empowerment by Black and Latinx youth in the Bronx in the 1970s.
 
-What was happening here was cultural "recycling."
+ここで起きていたことは、文化的な「リサイクル」だった。
 
-old record.
+古いレコード。
 
-old rhythm.
+古いリズム。
 
-old word
+古い言葉。
 
-old clothes.
+古い服。
 
 old dance
 
-old equipment.
+古い機材。
 
-Break them down and put them in a different context.
+それらを分解して、別の文脈に置く。
 
-So at the heart of Hip-Hop is a method of ""changing the meaning of something that already exists,'' rather than creating something completely new from scratch.
+だからHip-Hopの核心には、ゼロから完全に新しいものを作るというより、「既にあるものの意味を変える」という方法がある。
 
 This phenomenon is not limited to poor areas.
 
-However, in environments where funding and equipment are limited, this method becomes extremely powerful.
+しかし、資金や設備が限られている環境では、この方法が非常に強力になる。
 
-Instead of buying new things, use what you already have.
+新しいものを買う代わりに、既にあるものを使う。
 
-Instead of calling in experts, we do it ourselves.
+専門家に頼む代わりに、自分たちでやる。
 
 If we don"t have a formal venue, we"ll do it in town.
 
-If the media doesn't cover it, they will spread their name on their own.
+メディアに取り上げてもらえなければ、自分たちで名前を広げる。
 
-The hip-hop cultural ecosystem had this DIY structure.
+Hip-Hopの文化的エコシステムは、こうしたDIY的な構造を持っていた。
 
 DJ.
 
 M.C.
 
-B-boy/B-girl.
+B-boy / B-girl。
 
-Graffiti writer.
+Graffiti writer。
 
-Although each had different expressions, they shared the same cultural space.
+それぞれが別々の表現を持ちながら、同じ文化空間を共有していた。
 
 <div class="mermaid">
 flowchart TD
@@ -205,73 +204,73 @@ flowchart TD
     G --> H["Global Mainstream Culture"]
 </div>
 
-This structure is important because one expression stimulates another.
+この構造が重要なのは、一つの表現が別の表現を刺激するからだ。
 
-Music changes fashion.
+音楽がファッションを変える。
 
-Fashion changes graphics.
+ファッションがグラフィックを変える。
 
-Graphics change album covers and advertisements.
+グラフィックがアルバム・ジャケットや広告を変える。
 
-Dance changes the composition of music.
+ダンスが音楽の構成を変える。
 
-In other words, culture does not exist as a single work, but rather becomes a system of interactions.
+つまり、文化が一つの作品として存在するのではなく、相互に作用するシステムになる。
 
-> Hip-Hop's innovation lies not only in ""making something'' out of impoverished circumstances, but also in connecting music, bodies, clothes, letters, and places into a single cultural system.
+> Hip-Hopの革新性は、貧しい環境から「何かを作った」ことだけではなく、音楽、身体、服、文字、場所を一つの文化システムに接続したことにある。
 
 ---
 
-## 3. Graffiti――The wall became a canvas instead of a museum
+## 3. Graffiti――美術館ではなく壁がキャンバスになった
 
-The history of Graffiti is also an important example for thinking about this issue.
+Graffitiの歴史も、この問題を考えるための重要な例だ。
 
-In New York in the 1970s, large amounts of graffiti appeared on subway cars and urban spaces.
+1970年代のニューヨークでは、地下鉄車両や都市空間に大量のgraffitiが現れた。
 
-In the early days of graffiti, it was important to make the name and tag stand out.
+初期のgraffitiには、名前やtagを目立たせることが重要だった。
 
-At first glance, this looks like a simple doodle.
+これは一見すると単純な落書きに見える。
 
-However, there was one clear problem.
+しかし、そこには一つの明確な問題があった。
 
-"How do we record to the city that we are here?"
+「自分がここにいることを、どうやって都市に記録するか？」
 
-I can't put my name in the newspaper.
+新聞に名前を載せることはできない。
 
-You can't even rent a gallery.
+ギャラリーを借りることもできない。
 
-I can't even appear on TV.
+テレビに出演することもできない。
 
-If so, write the name on the city itself.
+ならば、街そのものに名前を書く。
 
-Graffiti turned urban space into media.
+Graffitiは、都市空間をメディアに変えた。
 
-Smithsonian introduces the history of Hip-Hop graffiti, which developed in New York in the 1970s and later made its way into galleries and museums. Early tags functioned as an act of spreading one's name to a city.
+Smithsonianは、Hip-Hop graffitiが1970年代ニューヨークで発展し、後にギャラリーや美術館へ進出していった歴史を紹介している。初期のtagは自己の名前を都市に広げる行為として機能した。
 
-There is a very interesting reversal here.
+ここには非常に興味深い逆転がある。
 
-In traditional art,
+従来の芸術では、
 
-Painter → Canvas → Gallery → Audience
+画家 → キャンバス → ギャラリー → 観客
 
-That was the basic order.
+という順番が基本だった。
 
-At Graffiti,
+Graffitiでは、
 
-Author → City → Passerby
+作者 → 都市 → 通行人
 
-becomes.
+となる。
 
-Viewers can view the works without paying admission to the museum.
+観客は、美術館に入場料を払わなくても作品を見ることができる。
 
-Moreover, the works change the very landscape of the city.
+しかも作品は、都市の風景そのものを変えてしまう。
 
-The subway will no longer be just a means of transportation.
+地下鉄が単なる交通手段ではなくなる。
 
-Walls are no longer just buildings.
+壁が単なる建築物ではなくなる。
 
-Street corners become exhibition spaces.
+街角が展示空間になる。
 
-And the "white space" of the city becomes a cultural resource.
+そして、都市の「余白」が文化的資源になる。
 
 <div class="mermaid">
 flowchart LR
@@ -283,99 +282,99 @@ flowchart LR
     G --> H["Public Audience"]
 </div>
 
-Of course, Graffiti has a checkered history that includes illegal activities.
+もちろん、Graffitiは違法行為を含む複雑な歴史を持つ。
 
-We cannot ignore this point and just talk about it as ""free art.''
+その点を無視して「自由な芸術」とだけ語ることもできない。
 
-However, what is important in terms of cultural history is that the space outside the system became the infrastructure for new art.
+しかし文化史として重要なのは、制度の外側にある空間が、新しい芸術のインフラになったことだ。
 
-Graffiti was later incorporated into the art market.
+後にGraffitiは美術市場へ取り込まれていく。
 
-That's also a kind of irony.
+それは一つの皮肉でもある。
 
-At first, I went out into the city because I couldn't enter the museum.
+最初は「美術館に入れない」から街に出た。
 
-However, in the end, the city's aesthetics found their way into the museum.
+ところが、最終的にはその街の美学が美術館の中に入っていった。
 
-> Expressions that are driven out of the center of culture can eventually change the design of the center itself.
+> 文化の中心から追い出された表現が、やがて文化の中心そのもののデザインを変えることがある。
 
 ---
 
 ## 4. Punk - From "Can't buy" to "Break and make"
 
-If we turn our attention to Britain in the 1970s, we see another form of cultural reaction.
+1970年代のイギリスに目を移すと、別の形の文化的反応が見えてくる。
 
 It's Punk.
 
 Punk's origins cannot be pinned down to one place, one person, or one band.
 
-Multiple currents overlapped, including American underground music, New York's CBGB neighborhood, British youth culture, a backlash against established rock, and the economic and political conditions of British society in the 1970s.
+アメリカの地下音楽、ニューヨークのCBGB周辺、イギリスの若者文化、既存のロックへの反発、1970年代のイギリス社会の経済的・政治的状況など、複数の流れが重なっていた。
 
-However, one of the important characteristics of British punk was the "anti-finished product".
+しかし、イギリスPunkの重要な特徴の一つが「反・完成品」だった。
 
-It"s okay if you can"t play well.
+上手く演奏できなくてもいい。
 
-You don't need an expensive instrument.
+高価な楽器がなくてもいい。
 
-You don't have to follow existing fashion.
+既存のファッションに従わなくてもいい。
 
-You don't have to wait for a big record company.
+大きなレコード会社を待たなくてもいい。
 
-Create your own band.
+自分たちでバンドを作る。
 
-Make your own flyer.
+自分たちでフライヤーを作る。
 
 Modify your own clothes.
 
-release their own records.
+自分たちでレコードを出す。
 
-Punk made the ""practice stage before becoming a pro'' itself a culture.
+Punkは「プロになる前の練習段階」そのものを文化にした。
 
-Britain in the mid-1970s was experiencing economic and social instability, and punk was strongly connected to that environment. The Metropolitan Museum of Art also links the formation of Punk to Britain"s recession and socio-political climate in the mid-1970s, as well as the youth"s backlash against the older generation.
+1970年代半ばのイギリスは経済的・社会的な不安を抱えており、Punkはその環境と強く結びついていた。The Metropolitan Museum of Artも、Punkの形成を1970年代半ばのイギリスの不況や社会政治的状況、そして若者による既存世代への反発と関連づけている。
 
-And Punk Fashion has written this idea directly onto the body.
+そして、Punk Fashionはこの思想を身体に直接書き込んだ。
 
-Torn clothes.
+破れた服。
 
-safety pin.
+安全ピン。
 
-DIY print.
+DIYプリント。
 
-Modified T-shirt.
+改造したTシャツ。
 
-old clothes.
+古着。
 
-Military supplies.
+軍用品。
 
-Leather jacket.
+革ジャン。
 
-Don't respect existing clothes as "finished products."
+既存の服を「完成品」として尊重しない。
 
-break.
+壊す。
 
-Cut.
+切る。
 
-sew.
+縫う。
 
-Paste.
+貼る。
 
-combine.
+組み合わせる。
 
-And change the meaning.
+そして、意味を変える。
 
-Vivienne Westwood and Malcolm McLaren"s 1977 "God Save the Queen" T-shirt also goes down as a symbol of Punk"s anti-fashion attitude.
+1977年のVivienne WestwoodとMalcolm McLarenによる「God Save the Queen」Tシャツも、Punkの反ファッション的な姿勢を象徴する存在として記録されている。
 
-This is not just poor fashion.
+これは単なる貧乏ファッションではない。
 
-Rather, he turned ""not spending money'' into an aesthetic.
+むしろ「お金をかけないこと」を美学に変えた。
 
-The important thing here is that
+ここで重要なのは、
 
-"It"s cheap so I have no choice but to wear it."
+「安いから仕方なく着る」
 
-and
+と
 
-"Choose something cheap and turn it into your own expression."
+「安いものを選び、それを自分の表現に変える」
 
 is completely different.
 
@@ -383,35 +382,35 @@ is completely different.
 
 ---
 
-## 5. Reggae - urban poverty and huge sound systems
+## 5. Reggae――都市の貧困と巨大な音響システム
 
-The same structure can be seen when considering the history of Reggae.
+Reggaeの歴史を考えるときにも、同じ構造が見えてくる。
 
-Reggae was developed in Jamaica in the late 1960s.
+Reggaeは1960年代後半のジャマイカで発展した。
 
-His direct musical lineage included Ska and Rocksteady, and he was also influenced by American Rhythm and Blues.
+その直接的な音楽的系譜にはSkaやRocksteadyがあり、さらにアメリカのRhythm and Bluesなどからも影響を受けていた。
 
-However, to understand the social environment in which that music developed, we cannot ignore Kingston's urban culture.
+しかし、その音楽が発展した社会環境を理解するには、Kingstonの都市文化を無視できない。
 
-Areas such as Trench Town were home to urban immigrant and low-income communities, where music, religion, politics, and community were closely intertwined.
+Trench Townなどの地域では、都市に移動してきた人々や低所得層のコミュニティが形成され、音楽、宗教、政治、地域社会が密接に結びついていた。
 
-Smithsonian materials also explain that Reggae was formed in the late 1960s as a fusion of Ska, Rocksteady, and American R&B, and developed as a music that incorporates social and political situations into its lyrics.
+Smithsonianの資料でも、Reggaeは1960年代後半にSka、Rocksteady、American R&Bなどが融合して成立し、社会的・政治的状況を歌詞に取り込む音楽として発展したことが説明されている。
 
-Again, it's not just the huge studios that are important.
+ここでも重要なのは、巨大なスタジオだけではない。
 
-Sound System culture.
+Sound System文化だ。
 
-DJs and selectors with huge sound equipment play music in places where people gather.
+巨大な音響設備を持つDJやselectorが、人々の集まる場所で音楽を鳴らす。
 
 Play a record.
 
-Discover new sounds.
+新しい音を発見する。
 
-See the audience's reaction.
+観客の反応を見る。
 
-Layer another song.
+別の曲を重ねる。
 
-MC speaks.
+MCが話す。
 
 Music becomes the center of the community.
 
@@ -430,71 +429,71 @@ flowchart TD
     G --> H["Reggae Culture"]
 </div>
 
-This structure would later lead to Hip-Hop.
+この構造は後のHip-Hopにもつながっていく。
 
-Rather than going to a special place to listen to music, the music itself creates a place of community.
+音楽を聴くために特別な場所へ行くのではなく、音楽そのものがコミュニティの場所を作る。
 
 Therefore, musical cultures born in poor regions often have strong social networks.
 
 This is because music is not only entertainment, but also a place for information exchange, self-expression, political statements, and identity formation.
 
-> Reggae's history is one in which music not only records the reality of impoverished areas, but also becomes a social infrastructure for people to gather and affirm their existence.
+> Reggae's history is one in which music not only records the reality of impoverished areas, but also becomes a social infrastructure for people to gather and affirm their own existence.
 
 ---
 
-## 6. Skateboarding - If there are no facilities, use the city itself
+## 6. Skateboarding――施設がなければ街そのものを使う
 
 Skateboarding is a little different.
 
-It's not music.
+音楽ではない。
 
-However, the structure of their cultural formation is very similar.
+しかし、その文化形成の構造は非常によく似ている。
 
-Skateboarding developed in California in the 1950s and 1960s and had a strong connection to surfing.
+Skateboardingは1950年代から1960年代にかけてカリフォルニアで発展し、サーフィンとの強い関係を持っていた。
 
-It is well known that surfing evolved from the idea of ​​""surfing on land'' when there are no waves.
+波がないときに「陸上でサーフィンする」という発想から発展したことはよく知られている。
 
-Early skateboards were simply constructed by attaching roller skate wheels to a wooden board.
+初期のSkateboardは、ローラースケートの車輪を木の板に取り付けるような単純な構造だった。
 
-In other words, it was not created from the beginning for the huge sports industry.
+つまり、最初から巨大なスポーツ産業のために作られたものではない。
 
-It started by combining existing items.
+既存のものを組み合わせるところから始まった。
 
-Smithsonian traces the Skateboard's origins to the combination of roller skate wheels and a wooden board, and the history of the skateboard, which was first manufactured in California.
+Smithsonianは、Skateboardの起源をローラースケートの車輪と木製ボードの組み合わせに位置づけ、カリフォルニアで最初に製造された歴史を紹介している。
 
-Skateboarding became a big boom in the 1960s, and mass sales began in 1965.
+1960年代にはSkateboardingが一度大きなブームになり、1965年には大量販売が行われた。
 
-However, the boom quickly faded after that.
+しかし、その後ブームは急速に衰退する。
 
-However, Skateboarding did not disappear.
+ところがSkateboardingは消えなかった。
 
-In the 1970s, technical improvements such as urethane wheels progressed, and Southern California's skateboarding culture changed dramatically again.
+1970年代にはウレタン製の車輪など技術的改良が進み、南カリフォルニアのSkateboarding文化は再び大きく変化する。
 
-In particular, the pool, which had been emptied due to the drought in the mid-1970s, became a new space for skateboarders.
+特に1970年代半ばの干ばつで空になったプールが、Skateboarderたちの新しい空間になった。
 
-The Z-Boys and others developed an aggressive surfing-like style that differed from the traditional two-dimensional skating style.
+Z-Boysなどは、従来の平面的な滑り方とは異なる、サーフィンのような攻撃的なスタイルを発展させた。
 
-Here again, "lack" has a different meaning.
+ここでも「不足」が別の意味を持つ。
 
 Pools aren't really meant for skateboarding.
 
-However, the disused pool had new possibilities.
+しかし、使われなくなったプールには新しい可能性があった。
 
-If there are no sports facilities, use urban space.
+スポーツ施設がなければ、都市空間を使う。
 
-If there is no dedicated course, use the stairs.
+専用のコースがなければ、階段を使う。
 
-Use the handrail.
+手すりを使う。
 
-Use the curb.
+縁石を使う。
 
-Use vacant land.
+空き地を使う。
 
-use buildings.
+建物を使う。
 
-Read the city itself as a topography.
+街そのものを地形として読む。
 
-This idea led to Street Skateboarding.
+この発想がStreet Skateboardingにつながっていく。
 
 <div class="mermaid">
 flowchart LR
@@ -509,139 +508,139 @@ flowchart LR
     F --> G["Street Skating Culture"]
 </div>
 
-And Skateboarding is becoming more than just a sport.
+そしてSkateboardingは、単なるスポーツではなくなっていく。
 
-music.
+音楽。
 
-picture.
+映像。
 
-magazine.
+雑誌。
 
-photograph.
+写真。
 
-graphic.
+グラフィック。
 
-shoes.
+靴。
 
-T-shirt.
+Tシャツ。
 
-brand.
+ブランド。
 
-All form one cultural sphere.
+すべてが一つの文化圏を形成する。
 
-Footwear brands like Vans also developed a unique identity through their association with skateboarding culture.
+VansのようなシューズブランドもSkateboarding文化との関係を通じて独自のアイデンティティを強めていった。
 
-> Skateboarding was a culture that read the city in a different way, rather than "using" it.
-
----
-
-## 7. Fashion -- It"s not about buying clothes, it"s about editing clothes.
-
-The same can be said about fashion.
-
-Fashion generally has a structure in which designers create new clothes and consumers purchase them.
-
-But in Street Fashion, consumers themselves become designers.
-
-There's a big difference here.
-
-In Hip-Hop Style, existing sportswear, denim, sneakers, jackets, etc. were rearranged.
-
-The FIT exhibit positions Hip-Hop Style as a cultural invention by Black and Brown working-class youth, highlighting the combination, customization, and personalization of existing clothing as key characteristics.
-
-In other words,
-
-the clothes themselves
-
-than
-
-"How to wear it"
-
-becomes important.
-
-Even the same pair of jeans can have different meanings if worn differently.
-
-Even the same pair of sneakers can have different meanings depending on who wears them, what music they are associated with, and what region they are popular in.
-
-In Punk, you destroy clothes.
-
-In Hip-Hop, silhouettes and brands are rearranged.
-
-In Skateboarding, highly functional clothing and shoes have cultural significance.
-
-In other words, Street Fashion will become stronger as a "derivative creation" of existing products.
-
-This is also related to economic constraints.
-
-There's no need to buy new clothes every week.
-
-I use one jacket for many years.
-
-Buy used clothes.
-
-Exchange with a friend.
-
-Attach a patch.
-
-Add print.
-
-Change your silhouette.
-
-In this way, we transform "products" into "individual works."
-
-> The revolution in street fashion is not about creating new clothes, but about inventing new ways to wear ordinary clothes.
+> Skateboardingは、都市を「利用する」のではなく、都市を別の方法で読む文化だった。
 
 ---
 
-## 8. Culture is born on the margins, not in poor places.
+## 7. Fashion――服を買うことではなく、服を編集すること
 
-When we compare the examples so far, one common feature becomes apparent.
+Fashionについても、同じことが言える。
 
-Hip-hop.
+一般的なFashionは、デザイナーが新しい服を作り、それを消費者が購入するという構造を持つ。
 
-Graffiti.
+しかしStreet Fashionでは、消費者自身がデザイナーになる。
 
-Punk.
+ここに大きな違いがある。
 
-Reggae.
+Hip-Hop Styleでは、既存のスポーツウェア、デニム、スニーカー、ジャケットなどが組み替えられた。
 
-Skateboarding.
+FITの展示では、Hip-Hop StyleをBlack and Brown working-class youthによる文化的発明として位置づけ、既存の服を組み合わせること、カスタマイズすること、個人化することが重要な特徴として紹介されている。
 
-Street Fashion.
+つまり、
 
-These developed in areas slightly outside the center of the existing system.
+服そのもの
 
-However, it cannot be explained with just one word, ""because they are poor.''
+よりも
 
-There is a more accurate way to say it.
+「どう着るか」
 
-That is "margin".
+が重要になる。
 
-Margins are spaces that are not fully controlled by institutions.
+同じジーンズでも、履き方が違えば意味が変わる。
 
-Vacant land.
+同じスニーカーでも、誰が履くか、どの音楽と結びつくか、どの地域で流行するかによって意味が変わる。
 
-On the street.
+Punkでは服を破壊する。
 
-subway.
+Hip-Hopではシルエットやブランドを組み替える。
 
-club.
+Skateboardingでは機能性の高い服や靴が文化的意味を持つ。
 
-Apartment.
+つまりStreet Fashionは、既存商品の「二次創作」として強くなる。
 
-warehouse.
+これは経済的な制約とも関係する。
 
-empty pool.
+新しい服を毎週買う必要はない。
 
-Used clothing store.
+一つのジャケットを何年も使う。
 
-record shop.
+古着を買う。
 
-local party.
+友人と交換する。
 
-In these places, cultural rules are not yet fixed.
+ワッペンを付ける。
 
-Therefore, experiments can be performed.
+プリントを加える。
+
+シルエットを変える。
+
+そうして「商品」を「個人の作品」に変える。
+
+> Street Fashionの革命は、新しい服を作ったことではなく、普通の服を新しい意味で着る方法を発明したことにある。
+
+---
+
+## 8. 文化は「貧しい場所」ではなく「余白」で生まれる
+
+ここまでの例を並べると、一つの共通点が見えてくる。
+
+Hip-Hop。
+
+Graffiti。
+
+Punk。
+
+Reggae。
+
+Skateboarding。
+
+Street Fashion。
+
+これらは、既存制度の中心から少し外れた場所で発展した。
+
+しかし「貧しいから」という一言だけでは説明できない。
+
+もっと正確な言い方がある。
+
+それは「余白」だ。
+
+余白とは、制度が完全には管理していない場所である。
+
+空き地。
+
+路上。
+
+地下鉄。
+
+クラブ。
+
+アパート。
+
+倉庫。
+
+空のプール。
+
+中古服店。
+
+レコードショップ。
+
+地域のパーティー。
+
+こうした場所では、文化のルールがまだ固定されていない。
+
+そのため、実験ができる。
 
 <div class="mermaid">
 flowchart TD
@@ -658,65 +657,65 @@ flowchart TD
     I --> J
 </div>
 
-This is an important difference.
+これは重要な違いだ。
 
-At the center, "failure" is costly.
+中心では「失敗」が高くつく。
 
-When it comes to large-scale projects for record companies, failure can be costly.
+レコード会社の大規模プロジェクトなら、失敗には大きな費用がかかる。
 
-For a museum exhibition, production costs and venue fees are required.
+美術館の展覧会なら、制作費や会場費が必要になる。
 
-For fashion brands, there are risks related to product development and inventory.
+ファッションブランドなら、商品開発や在庫のリスクがある。
 
-But when young people on the street modify their clothes, the cost of failure is relatively small.
+しかし、路上の若者が自分の服を改造する場合、失敗のコストは比較的小さい。
 
-So you can be bold.
+だから大胆になれる。
 
-Then, through bold trial and error, a new format is born.
+そして、大胆な試行錯誤の中から新しい形式が生まれる。
 
-> It is not necessarily abundant resources that create culture. Sometimes the most daring experiments are made possible by environments where there is little to lose by failing.
+> 文化を生むのは、必ずしも豊富な資源ではない。ときには、失敗しても失うものが少ない環境が、最も大胆な実験を可能にする。
 
 ---
 
-## 9. DIY was not a "cheap way" but a "way to take back power"
+## 9. DIYは「安い方法」ではなく「権力を取り戻す方法」だった
 
-The term DIY has become very common these days.
+DIYという言葉は、現在では非常に一般的になった。
 
-But in the history of Subculture, it's not just a money-saving technique.
+しかし、Subcultureの歴史では単なる節約術ではない。
 
-For DIY,
+DIYには、
 
-"I make it myself, so I can decide for myself."
+「自分で作るから、自分で決められる」
 
-There is a meaning.
+という意味がある。
 
-Punk made the flyer themselves.
+Punkが自分たちでフライヤーを作った。
 
-We made our own records.
+自分たちでレコードを作った。
 
-They modified their own clothes.
+自分たちで服を改造した。
 
-Young people in Hip-Hop created their own events.
+Hip-Hopの若者たちは、自分たちでイベントを作った。
 
-Graffiti writers used urban space for themselves.
+Graffiti writersは、自分たちで都市空間を使った。
 
-Skateboarders found themselves a place in the city.
+Skateboardersは、自分たちで街の中の場所を見つけた。
 
-These actions have something in common.
+この行動には共通するものがある。
 
-It's about bypassing the existing gatekeepers.
+既存のゲートキーパーを迂回することだ。
 
-music industry.
+音楽業界。
 
-art industry.
+美術業界。
 
-fashion industry.
+ファッション業界。
 
-sports industry.
+スポーツ業界。
 
-Each of these industries has a system that determines who can participate.
+これらの業界には、それぞれ「誰が参加できるか」を決める仕組みが存在する。
 
-However, in DIY culture, we create that entrance ourselves.
+しかしDIY文化では、その入口を自分たちで作る。
 
 <div class="mermaid">
 flowchart LR
@@ -728,119 +727,119 @@ flowchart LR
     G --> H["Cultural Growth"]
 </div>
 
-Of course, DIY has its limits.
+もちろんDIYにも限界はある。
 
-Funds may be required.
+資金が必要になる場合もある。
 
-Equipment may be required.
+設備が必要になる場合もある。
 
-Commercial success may require collaboration with companies.
+商業的な成功には企業との協力が必要になることもある。
 
-However, in the first stage, the attitude of not waiting for permission was very important.
+しかし最初の段階では、「許可を待たない」という態度が非常に大きな意味を持った。
 
-> The true value of DIY culture is not that it can be made cheaply. The idea was not to limit the right to create culture to experts only.
-
----
-
-## 10. Why the explanation that "poverty breeds creativity" is dangerous
-
-At this point, it is necessary to doubt the title itself.
-
-"Why Poor People Create So Much Culture"
-
-This title is strong.
-
-However, if understood literally, it is wrong.
-
-Poverty is not a magic device for creativity.
-
-Poverty brings with it many hardships, including housing instability, limited educational opportunities, health problems, discrimination, unemployment, crime victimization, and political exclusion.
-
-Just because the people who created the culture experienced poverty, we cannot assume that ""poverty was a good thing.''
-
-In fact, it's the opposite.
-
-Many cultural movements emerged as a result of people living in poverty and social exclusion still trying to have a voice for themselves.
-
-So the important thing is
-
-"Being poor makes you creative."
-
-isn't it.
-
-"When access to resources is limited, people find other resources."
-
-That's what it means.
-
-time.
-
-fellow.
-
-city.
-
-memory.
-
-Used item.
-
-existing sound source.
-
-body.
-
-words.
-
-Although these items may have low economic value, they may have cultural value.
-
-Those who discover its cultural value will later create a huge market.
-
-> Rather than romanticizing poverty, it is important to focus on the ability of humans to create culture even under limited conditions in order to understand this theme.
+> DIY文化の本当の価値は、安く作れることではない。文化を作る権利を専門家だけのものにしないことだった。
 
 ---
 
-## 11. Why "poor culture" becomes expensive later on
+## 10. 「貧困が創造性を生む」という説明が危険な理由
 
-There is a very interesting paradox of cultural history here.
+ここで、一度タイトルそのものを疑う必要がある。
 
-Cheap at first.
+「Why Poor People Create So Much Culture」
 
-The last one is expensive.
+このタイトルは強い。
 
-First underground.
+しかし、文字通りに理解すると間違っている。
 
-Finally, there is the mainstream.
+貧困は創造性を生む魔法の装置ではない。
 
-At first it seems dangerous.
+貧困は、住居の不安定、教育機会の制限、健康上の問題、差別、失業、犯罪被害、政治的排除など、多くの困難を伴う。
 
-Finally, it will be displayed in a museum.
+文化を作った人々が貧困を経験したからといって、「貧困は良いものだった」と考えることはできない。
 
-The first is "Youth's Play."
+むしろ逆だ。
 
-In the end, it will be studied at a university.
+多くの文化運動は、貧困や社会的排除の中で生きる人々が、それでも自分たちの声を持とうとした結果として現れた。
 
-Graffiti is a typical example.
+だから重要なのは、
 
-What was once treated as graffiti in urban spaces later began to be exhibited in galleries and museums.
+「貧しいから創造的になる」
 
-The same goes for punk fashion.
+ではない。
 
-Torn clothes, safety pins, and modified clothing emerged as a reaction to existing fashion.
+「資源へのアクセスが制限されているとき、人々は別の資源を見つける」
 
-However, over time, this aesthetic came to be referred to by the fashion industry.
+ということだ。
 
-FIT materials also repeatedly record the influence of punk and street style on later fashion, and the movement from subculture to high fashion.
+時間。
 
-The same goes for Hip-Hop Fashion.
+仲間。
 
-The style began as a regional culture in the 1970s, spread through the 1980s and 1990s, and in the 21st century has come to influence global fashion culture, including luxury fashion.
+街。
 
-What is happening here is ""cultural migration.''
+記憶。
 
-From the periphery to the center.
+中古品。
 
-From informal to official.
+既存の音源。
 
-From cheap to expensive.
+身体。
 
-From local culture to global market.
+言葉。
+
+これらは経済的価値が低くても、文化的価値を持つことがある。
+
+そして、その文化的価値を発見した人々が、後から巨大な市場を作る。
+
+> 貧困をロマン化するのではなく、限られた条件の中でも人間が文化を作る能力に注目することが、このテーマを理解するために重要だ。
+
+---
+
+## 11. なぜ「貧しい文化」が後から高価になるのか
+
+ここには、文化史の非常に面白い逆説がある。
+
+最初は安い。
+
+最後は高い。
+
+最初は地下。
+
+最後はメインストリーム。
+
+最初は危険視される。
+
+最後は博物館に展示される。
+
+最初は「若者の遊び」。
+
+最後は大学で研究される。
+
+Graffitiがその典型だ。
+
+かつて都市空間の落書きとして扱われた表現が、後にはギャラリーや美術館で展示されるようになった。
+
+Punk Fashionも同じだ。
+
+破れた服、安全ピン、改造された衣服などは、既存のFashionへの反発として登場した。
+
+ところが、やがてその美学はFashion Industryの側から参照されるようになる。
+
+FITの資料でも、PunkやStreet Styleが後のFashionに与えた影響と、サブカルチャーから高級Fashionへの移動が繰り返し記録されている。
+
+Hip-Hop Fashionも同じである。
+
+1970年代の地域文化として始まったスタイルは、1980年代、1990年代を通じて広がり、21世紀にはLuxury Fashionを含む世界的なFashion Cultureに影響を与えるようになった。
+
+ここで起きているのは「文化の移動」だ。
+
+周辺から中心へ。
+
+非公式から公式へ。
+
+安価なものから高価なものへ。
+
+地域文化から世界市場へ。
 
 <div class="mermaid">
 flowchart LR
@@ -852,87 +851,87 @@ flowchart LR
     F --> G["Institutional Recognition"]
 </div>
 
-This cycle has become a very important pattern in modern culture.
+この循環は現代文化の非常に重要なパターンになった。
 
-> Cultural markets often discover and commodify what is already happening on the periphery, rather than creating something new at the centre.
-
----
-
-## 12. The "value" of culture is not visible at first.
-
-Why can't companies and existing cultural industries understand this culture from the beginning?
-
-One reason is that cultural values ​​and economic values ​​are different.
-
-Early Hip-Hop parties didn't have the huge market value they have today.
-
-Graffiti was also given a different meaning before it was appreciated in the art market.
-
-Skateboarding didn't always see its future as a huge sports industry either.
-
-There was no guarantee that Punk would become a global fashion influence either.
-
-In other words, a new culture does not necessarily have "market value" from the beginning.
-
-In fact, from the market's point of view, it appears inefficient at first.
-
-That's why I can be free.
-
-Not commercially optimized.
-
-Not tailored to advertiser preferences.
-
-It is not intended for mass sales.
-
-Not following existing rules.
-
-And new forms are born from this free realm.
-
-> The value of a new culture cannot often be measured by the market at the moment the culture is born.
+> 文化市場は、しばしば中心で新しいものを作るのではなく、周辺ですでに起きていることを発見し、商品化する。
 
 ---
 
-## 13. The era of "cultural explosion" in the 1970s
+## 12. 文化の「価値」は最初には見えない
 
-From the 1960s to the 1980s, youth culture rapidly developed around the world.
+なぜ企業や既存の文化産業は、こうした文化を最初から理解できないのだろうか。
 
-It's not just music.
+一つの理由は、文化の価値と経済的価値が違うからだ。
 
-Fashion.
+初期Hip-Hopのパーティーに、現在のような巨大市場としての価値はなかった。
 
-movie.
+Graffitiにも、美術市場で評価される前には別の意味しか与えられていなかった。
 
-Graffiti.
+Skateboardingにも、巨大なスポーツ産業としての未来が最初から見えていたわけではない。
 
-Dance.
+Punkにも、世界的なFashion Influenceになるという保証はなかった。
 
-Skateboarding.
+つまり、新しい文化は最初から「市場価値」を持っているとは限らない。
 
-Comics.
+むしろ、最初は市場から見れば非効率に見える。
 
-Photography.
+だからこそ自由でいられる。
 
-Zine.
+商業的に最適化されていない。
 
-Club Culture.
+広告主の好みに合わせていない。
 
-Each influenced the other.
+大量販売を前提としていない。
 
-This is especially important in the 1970s.
+既存のルールに従っていない。
 
-Hip-hop and Graffiti developed in New York.
+そして、その自由な領域から新しい形式が生まれる。
 
-In Britain, punk was associated with social anxiety.
+> 新しい文化の価値は、文化が生まれた瞬間にはまだ市場によって測定できないことが多い。
 
-In Jamaica, Reggae gained international influence.
+---
 
-Skateboarding culture has taken a new direction in California.
+## 13. 1970年代という「文化爆発」の時代
 
-These are not the same cultures.
+1960年代から1980年代にかけては、世界各地で若者文化が急速に発達した。
 
-They have different histories, races, politics, and regions.
+音楽だけではない。
 
-However, what they have in common is that ""young people created their own expressions outside of the existing cultural apparatus.''
+Fashion。
+
+映画。
+
+Graffiti。
+
+Dance。
+
+Skateboarding。
+
+Comics。
+
+Photography。
+
+Zine。
+
+Club Culture。
+
+それぞれが相互に影響し合った。
+
+特に1970年代は重要だ。
+
+ニューヨークではHip-HopとGraffitiが発展した。
+
+イギリスではPunkが社会的な不安と結びついた。
+
+ジャマイカではReggaeが国際的な影響力を強めた。
+
+カリフォルニアではSkateboardingの文化が新しい方向へ進んだ。
+
+これらは互いに同じ文化ではない。
+
+歴史も、人種も、政治も、地域も違う。
+
+しかし、共通しているのは「若者が既存の文化装置の外側で自分たちの表現を作った」ことだ。
 
 <div class="mermaid">
 timeline
@@ -952,123 +951,123 @@ timeline
            : Street styles enter mainstream media
 </div>
 
-In the 1980s, these cultures began to be distributed nationally and internationally through the media.
+そして1980年代になると、これらの文化がメディアによって全国的、国際的に流通するようになる。
 
-tv set.
+テレビ。
 
-magazine.
+雑誌。
 
-record.
+レコード。
 
-movie.
+映画。
 
-Music Video.
+Music Video。
 
-Advertising.
+Advertising。
 
-At this stage, the Subculture becomes a "market".
+この段階で、Subcultureは「市場」になる。
 
-However, what we must not forget is that culture existed before it was commercialized.
+しかし、ここで忘れてはいけないのは、商品化される前に文化が存在していたことだ。
 
-> The market did not create the culture, but often discovered the value of the culture that already existed.
-
----
-
-## 14. Why is "street" so strong?
-
-The term street culture is often ambiguous.
-
-But historically, the Street is more than just a place.
-
-The Street was a social space not fully owned by institutions.
-
-There people meet by chance.
-
-Music plays.
-
-The dance begins.
-
-Her clothes stand out.
-
-A picture is drawn on the wall.
-
-Skateboarder tries his tricks.
-
-Strangers become the audience.
-
-In other words, Street is characterized by the intersection of multiple cultures.
-
-Hip-Hop was especially strong because it took advantage of this intersection.
-
-DJ.
-
-M.C.
-
-Graffiti.
-
-Dance.
-
-Fashion.
-
-Everything could be connected in the same urban space.
-
-That"s why Hip-Hop can"t be explained just by "music genre".
-
-It was a cultural network.
-
-FIT also treats Hip-Hop Style as a broad cultural phenomenon that includes not only music but also fashion, sports, Black Pride, and personal expression.
-
-> Street Culture is strong because music, the body, clothes, text, and place are not separated, but move simultaneously within a single living space.
+> 市場は文化を作ったのではなく、すでに存在していた文化の価値を後から発見した場合が多い。
 
 ---
 
-## 15. Culture creators were not "consumers"
+## 14. 「ストリート」はなぜ強いのか
 
-In modern market societies, people are often treated as "consumers."
+Street Cultureという言葉には、しばしば曖昧さがある。
 
-buy a product
+しかし歴史的に見ると、Streetは単なる場所ではない。
 
-listen to music.
+Streetは、制度に完全には所有されていない社会空間だった。
 
-get dressed.
+そこでは人々が偶然出会う。
 
-Watch sports.
+音楽が流れる。
 
-Watch a movie.
+ダンスが始まる。
 
-However, in Subculture, the consumer suddenly becomes the ""creator''.
+服装が目立つ。
 
-buy records.
+壁に絵が描かれる。
+
+Skateboarderが技を試す。
+
+知らない人が観客になる。
+
+つまりStreetには、複数の文化が交差する特徴がある。
+
+Hip-Hopが特に強かったのは、この交差点を利用したからでもある。
+
+DJ。
+
+MC。
+
+Graffiti。
+
+Dance。
+
+Fashion。
+
+すべてが同じ都市空間で接続できた。
+
+だからHip-Hopは「音楽ジャンル」だけでは説明できない。
+
+それは文化的ネットワークだった。
+
+FITもHip-Hop Styleを、音楽だけではなくFashion、スポーツ、Black Pride、個人表現などを含む広い文化現象として扱っている。
+
+> Street Cultureが強いのは、そこでは音楽、身体、服、文字、場所が分離されず、一つの生活空間の中で同時に動くからだ。
+
+---
+
+## 15. 文化を作る人は「消費者」ではなかった
+
+近代の市場社会では、人々はしばしば「消費者」として扱われる。
+
+商品を買う。
+
+音楽を聴く。
+
+服を着る。
+
+スポーツを見る。
+
+映画を見る。
+
+しかしSubcultureでは、消費者が突然「作り手」に変わる。
+
+レコードを買う。
 
 ↓
 
-DJ uses it in a different way.
+DJがそれを別の方法で使う。
 
-buy clothes
-
-↓
-
-Change the way you wear it.
-
-buy shoes
+服を買う。
 
 ↓
 
-Use it for another purpose.
+着方を変える。
 
-see the city
-
-↓
-
-Discover spots.
-
-look at the wall
+靴を買う。
 
 ↓
 
-Make it into a canvas.
+別の用途で使う。
 
-This change is extremely important in cultural history.
+街を見る。
+
+↓
+
+スポットを発見する。
+
+壁を見る。
+
+↓
+
+キャンバスにする。
+
+この変化は、文化史上非常に重要だ。
 
 <div class="mermaid">
 flowchart TD
@@ -1080,173 +1079,173 @@ flowchart TD
     F --> G["Mainstream Culture"]
 </div>
 
-In other words, new culture is not necessarily born from "new products."
+つまり、新しい文化は「新しい商品」から生まれるとは限らない。
 
-It can occur when a consumer uses an existing product in a different way.
+既存の商品を、消費者が別の方法で使ったときに生まれることがある。
 
-Hip-hop sampling.
+Hip-Hopのサンプリング。
 
-Modification of Punk's clothes.
+Punkの服の改造。
 
-Urban use of Skateboarding.
+Skateboardingの都市利用。
 
-Graffiti's use of public space.
+Graffitiの公共空間利用。
 
-Street fashion styling.
+Street Fashionのスタイリング。
 
-All of them were "inventions of usage."
+どれも「使用方法の発明」だった。
 
-> Revolutionary culture may begin by changing the way old things are used rather than by inventing new things.
-
----
-
-## 16. Who owns the "ability to create culture"?
-
-This history ultimately asks a much larger question.
-
-Who creates culture?
-
-A university professor?
-
-Are you a famous artist?
-
-Is it a big company?
-
-A record company?
-
-Fashion Designer?
-
-Of course, they also create culture.
-
-But that's not all.
-
-Young people on the street also make them.
-
-People who wear second-hand clothes also make them.
-
-I also make a DJ who digs old records.
-
-I also made a Graffiti writer to write names on the wall.
-
-We also create people who skateboard in vacant lots.
-
-We also create people who play music in small clubs.
-
-In other words, culture is not just for those who are recognized by the system.
-
-Culture arises from life itself.
-
-Therefore, it is no coincidence that poor communities have become important in cultural history.
-
-While the ""budget for creating culture" is small, there are many reasons why ""culture must be created."
-
-prove their existence.
-
-Record your area.
-
-express their dissatisfaction.
-
-find our friends.
-
-create their own style.
-
-imagine our future.
-
-They become culture.
-
-> Culture is not a luxury made only by those who can afford it. It is also a way for humans to meaningfully share their existence.
+> 革命的な文化は、新しい物を発明することより、古い物の使い方を変えることから始まる場合がある。
 
 ---
 
-## 17. Timeline: From Scarcity to World Culture
+## 16. 「文化を作る能力」は誰のものなのか
 
-| Period | Event | Cultural Meaning |
+この歴史が最終的に問いかけるのは、もっと大きな問題だ。
+
+誰が文化を作るのか。
+
+大学教授か。
+
+有名な芸術家か。
+
+大企業か。
+
+レコード会社か。
+
+Fashion Designerか。
+
+もちろん、彼らも文化を作る。
+
+しかし、それだけではない。
+
+街角にいる若者も作る。
+
+中古の服を着ている人も作る。
+
+古いレコードを掘っているDJも作る。
+
+壁に名前を書くGraffiti writerも作る。
+
+空き地でSkateboardingをする人も作る。
+
+小さなクラブで音楽を流す人も作る。
+
+つまり文化は、制度が認定した人だけのものではない。
+
+文化は、生活そのものから発生する。
+
+そのため、貧しいコミュニティが文化史で重要になることは偶然ではない。
+
+そこでは「文化を作るための予算」が少ない一方、「文化を作らなければならない理由」が非常に多い。
+
+自分たちの存在を証明する。
+
+自分たちの地域を記録する。
+
+自分たちの不満を表現する。
+
+自分たちの仲間を見つける。
+
+自分たちのスタイルを作る。
+
+自分たちの未来を想像する。
+
+それらが文化になる。
+
+> 文化とは、余裕がある人だけが作る贅沢品ではない。人間が自分たちの存在を意味あるものとして共有するための方法でもある。
+
+---
+
+## 17. 年表――不足から世界文化へ
+
+| 年代       | 出来事                                                  | 文化的意味                            |
 | -------- | ---------------------------------------------------- | -------------------------------- |
-| 1950s | Early Skateboarding develops in California | Connecting surfing culture and urban space |
-| Early 1960s | Makaha and others manufacture Skateboards | Skateboarding becomes popular |
-| Late 1960s | Reggae is formed in Jamaica | Fusion of Ska, Rocksteady, R&B, etc. |
-| Late 1960s | Early Graffiti developed in New York and other areas | Recording names and presence in urban spaces |
-| Early 1970s | Hip-Hop culture formed in the Bronx, New York | DJs, MCs, dancers, and graffiti connected |
-| 1973 | DJ Kool Herc's Party in the Bronx | An Iconic Starting Point in Hip-Hop History |
-| Mid-1970s | Punk expands in Britain | DIY, anti-fashion, youth culture |
-| Mid-1970s | Skateboarding in California changes again | New techniques and styles such as pool skating |
-| Late 1970s | Hip-Hop, Graffiti, and Dance expand in New York | Integration as urban culture |
-| 1980s | Hip-Hop spreads outside of New York | From local culture to national culture |
-| 1980s | Graffiti enters galleries | Institutionalization of Street Art |
-| 1980s | Punk aesthetic permeates fashion | Connection between Subculture and Mainstream Fashion |
-| 1990s | Hip-Hop Fashion expands its influence worldwide | Internationalization of Streetwear |
-| 2000s | Street Culture takes hold in advertising, fashion, and music industries | Commercialization of Subculture |
-| 2010s | Hip-Hop Style has a strong influence on Luxury Fashion | The boundary between Street and High Fashion is changing |
-| 2020s | The history of Hip-Hop, Punk, Graffiti, and Skateboarding is established as museum and research subjects | Subculture becomes cultural heritage |
+| 1950年代   | カリフォルニアで初期Skateboardingが発展                           | サーフィン文化と都市空間の接続                  |
+| 1960年代前半 | MakahaなどがSkateboardを製造                               | Skateboardingが大衆化                |
+| 1960年代後半 | ジャマイカでReggaeが形成される                                   | Ska、Rocksteady、R&Bなどの融合          |
+| 1960年代後半 | 初期Graffitiがニューヨークなどで発展                               | 名前と存在を都市空間に記録                    |
+| 1970年代前半 | ニューヨークのブロンクスでHip-Hop文化が形成                            | DJ、MC、Dance、Graffitiが接続          |
+| 1973     | DJ Kool Hercのブロンクスでのパーティー                            | Hip-Hop史の象徴的出発点                  |
+| 1970年代半ば | イギリスでPunkが拡大                                         | DIY、反ファッション、若者文化                 |
+| 1970年代半ば | カリフォルニアのSkateboardingが再変化                            | Pool skatingなど新しい技術とスタイル         |
+| 1970年代後半 | Hip-Hop、Graffiti、Danceがニューヨークで拡大                     | 都市文化としての統合                       |
+| 1980年代   | Hip-Hopがニューヨーク外へ広がる                                  | 地域文化から全国文化へ                      |
+| 1980年代   | Graffitiがギャラリーへ進出                                    | Street Artの制度化                   |
+| 1980年代   | Punkの美学がFashionへ浸透                                   | SubcultureとMainstream Fashionの接続 |
+| 1990年代   | Hip-Hop Fashionが世界的に影響力を拡大                           | Streetwearの国際化                   |
+| 2000年代   | Street Cultureが広告・Fashion・音楽産業に定着                    | Subcultureの商業化                   |
+| 2010年代   | Hip-Hop StyleがLuxury Fashionにも強く影響                   | StreetとHigh Fashionの境界が変化        |
+| 2020年代   | Hip-Hop、Punk、Graffiti、Skateboardingの歴史が博物館・研究対象として定着 | Subcultureが文化遺産化                 |
 
 
-What this chronology shows is not a simple straight line of ""poverty → culture.''
+この年表が示すのは、単純な「貧困 → 文化」という直線ではない。
 
-Rather,
+むしろ、
 
-Constraints → DIY → Community → Experiment → Subculture → Media → Mainstream → Commercialization
+制約 → DIY → コミュニティ → 実験 → Subculture → メディア → Mainstream → 商業化
 
-It's a cycle.
+という循環だ。
 
-> Whenever a culture that started on the periphery moves to the center, it acquires new meaning and new market value.
+> 周辺から始まった文化が中心に移動するたび、その文化は新しい意味と新しい市場価値を獲得していく。
 
 ---
 
-## 18. See the six cultures as one structure
+## 18. 6つの文化を一つの構造として見る
 
-Hip-hop.
+Hip-Hop。
 
-Punk.
+Punk。
 
-Reggae.
+Reggae。
 
-Graffiti.
+Graffiti。
 
-Skateboarding.
+Skateboarding。
 
-Fashion.
+Fashion。
 
-At first glance, they look completely different.
+一見すると、まったく違う。
 
-music.
+音楽。
 
-music.
+音楽。
 
-music.
+音楽。
 
-art.
+美術。
 
-Sports.
+スポーツ。
 
-clothes.
+服。
 
-However, if you look at the way culture is created, there are commonalities.
+しかし、文化の作られ方を見ると共通点がある。
 
 ### Hip-Hop
 
-Reorganize existing records.
+既存のレコードを再構成する。
 
 ### Punk
 
-Destroying and reconstructing existing music and clothing.
+既存の音楽と服を破壊して再構成する。
 
 ### Reggae
 
-Reconfiguring existing musical forms within the Jamaican social environment.
+既存の音楽形式をジャマイカの社会環境の中で再構成する。
 
 ### Graffiti
 
-Transforming urban space into art space.
+都市空間を美術空間に変える。
 
 ### Skateboarding
 
-Transforming urban buildings into sports spaces.
+都市の建築物をスポーツ空間に変える。
 
 ### Fashion
 
-Transform existing products into personal expressions.
+既存の商品を個人の表現に変える。
 
-In other words, what they have in common is "conversion."
+つまり、共通しているのは「変換」だ。
 
 <div class="mermaid">
 flowchart TD
@@ -1271,305 +1270,305 @@ J --> K["Mainstream Influence"]
 
 </div>
 
-Cultural creativity is not just the ability to create something out of nothing.
+文化的創造性とは、何もないところから何かを作る能力だけではない。
 
-Look at what already exists
+すでに存在するものを見て、
 
-"Can we use this as something else?"
+「これを別のものとして使えないか？」
 
-It is also the ability to think.
+と考える能力でもある。
 
-This ability becomes especially important in resource-poor environments.
+この能力は、資源の少ない環境で特に重要になる。
 
-Because you can't buy something new from the beginning.
+なぜなら、最初から新しいものを買うことができないからだ。
 
-So use what you have.
+だから、あるものを使う。
 
-Then change the way you use it.
+そして、使い方を変える。
 
-Culture is born in that moment.
+その瞬間に文化が生まれる。
 
->Creativity is determined not only by ""what you have," but also by ""how you reevaluate what you have."
-
----
-
-## 19. Why do companies come later?
-
-If Subculture is successful, companies will approach.
-
-This is a natural progression.
-
-Companies are looking for markets.
-
-Subculture has a passionate community.
-
-It has its own unique style.
-
-It has its own language.
-
-It has its own music.
-
-Above all, there is value in being "different from others."
-
-This is very attractive to the market.
-
-That's why advertising incorporates street culture.
-
-Fashion Brand references punk and hip-hop aesthetics.
-
-Sports brands are associated with Skateboarding culture.
-
-The music industry signs Subculture artists.
-
-The art market embraces Graffiti.
-
-What happens here is the commercialization of culture.
-
-Commercialization is not necessarily a bad thing.
-
-It also becomes a force to spread culture to the world.
-
-Artists can make a living.
-
-The production environment will improve.
-
-The work is saved.
-
-Reaching an international audience.
-
-However, another problem also arises at the same time.
-
-The meaning of culture changes.
-
-Rebellion becomes advertising.
-
-DIY becomes a product.
-
-Styles born from poverty become expensive luxury products.
-
-And sometimes we lose sight of the history of ""who created that culture.''
-
-> When the mainstream incorporates a subculture, the culture does not disappear, but advances to a new stage while changing its meaning.
+> 創造性とは「何を持っているか」だけではなく、「持っているものをどう見直すか」によって決まる。
 
 ---
 
-## 20. The true meaning of the title "Poor people create culture"
+## 19. なぜ企業は後からやって来るのか
 
-So let's go back to the first question.
+Subcultureが成功すると、企業が近づいてくる。
+
+これは自然な流れだ。
+
+企業は市場を探している。
+
+Subcultureには、熱狂的なコミュニティがある。
+
+独自のスタイルがある。
+
+独自の言語がある。
+
+独自の音楽がある。
+
+そして何より、「他の人とは違う」という価値がある。
+
+これは市場にとって非常に魅力的だ。
+
+だから広告はStreet Cultureを取り込む。
+
+Fashion BrandはPunkやHip-Hopの美学を参照する。
+
+スポーツブランドはSkateboarding文化と結びつく。
+
+音楽産業はSubcultureのアーティストを契約する。
+
+美術市場はGraffitiを取り込む。
+
+ここで起きるのは、文化の商業化だ。
+
+商業化は必ずしも悪いことではない。
+
+文化を世界へ広げる力にもなる。
+
+アーティストが生活できるようになる。
+
+制作環境が改善する。
+
+作品が保存される。
+
+国際的な観客に届く。
+
+しかし、同時に別の問題も生まれる。
+
+文化の意味が変わる。
+
+反抗が広告になる。
+
+DIYが商品になる。
+
+貧困から生まれたスタイルが高価なLuxury商品になる。
+
+そして、「誰がその文化を作ったのか」という歴史が見えなくなることがある。
+
+> MainstreamがSubcultureを取り込むとき、文化は消えるのではなく、意味を変えながら新しい段階へ進む。
+
+---
+
+## 20. 「貧しい人々は文化を作る」というタイトルの本当の意味
+
+では、最初の問いに戻ろう。
 
 Why Poor People Create So Much Culture?
 
-The answer is not that poor people are particularly creative.
+答えは、「貧しい人々は特別に創造的だから」ではない。
 
-It's not that simple.
+そんな単純な話ではない。
 
-The real point is that culture is often invented in conditions of scarcity and constraint.
+本当のポイントは、文化がしばしば「不足」と「制約」の中で発明されることだ。
 
-I don't have funds.
+資金がない。
 
-That"s why it"s DIY.
+だからDIYになる。
 
-There are no facilities.
+設備がない。
 
-So use the existing location.
+だから既存の場所を使う。
 
-There are no new materials.
+新しい素材がない。
 
-So reuse.
+だから再利用する。
 
-There is no official media.
+正式なメディアがない。
 
-So we send it out ourselves.
+だから自分たちで発信する。
 
-Existing Fashion cannot be accessed.
+既存のFashionにアクセスできない。
 
-So we create our own way of wearing it.
+だから自分たちで着方を作る。
 
-There are no dedicated sports facilities.
+専用のスポーツ施設がない。
 
-That's why I use the city.
+だから街を使う。
 
-In other words, constraints require "alternatives."
+つまり、制約が「代替案」を要求する。
 
-And the alternatives eventually become culture.
+そして代替案が、やがて文化になる。
 
-Of course, creating culture requires talent.
+もちろん、文化を生み出すには才能が必要だ。
 
-Individual ability is also required.
+個人の能力も必要だ。
 
-We also need community.
+コミュニティも必要だ。
 
-Historical conditions are also necessary.
+歴史的な条件も必要だ。
 
-The political situation is also necessary.
+政治的な状況も必要だ。
 
-Technology is also needed.
+技術も必要だ。
 
-Therefore, it is wrong to think that ""culture is born from poverty alone.''
+だから、「貧困だけで文化が生まれる」と考えるのは間違っている。
 
-However, the phenomenon of cultural innovation emerging from places with few resources can be repeatedly seen in the cultural history of the second half of the 20th century.
+しかし、資源の少ない場所から文化的イノベーションが生まれるという現象は、20世紀後半の文化史の中で繰り返し確認できる。
 
-Hip-hop.
+Hip-Hop。
 
-Punk.
+Punk。
 
-Reggae.
+Reggae。
 
-Graffiti.
+Graffiti。
 
-Skateboarding.
+Skateboarding。
 
-Street Fashion.
+Street Fashion。
 
-Each has a different history.
+それぞれの歴史は違う。
 
-Still, there is one common movement behind it all.
+それでも、その背後には一つの共通する動きがある。
 
-Don't accept the existing world as it is.
+既存の世界を、そのまま受け取らない。
 
-disassemble something.
+あるものを分解する。
 
-Rearrange.
+組み替える。
 
-make it our own.
+自分たちのものにする。
 
-And share it with your friends.
+そして、それを仲間と共有する。
 
-A new culture is born from this.
-
----
-
-## 21. The center of culture is always on the move.
-
-Cultural history has a ""center.''
-
-However, the center is not eternal.
-
-At one time it was a royal palace.
-
-At one time it was a church.
-
-At one time it was a university.
-
-At one time, it was a big company.
-
-In the second half of the 20th century, the street corner became an important cultural center.
-
-Bronx.
-
-Kingston.
-
-London.
-
-Los Angeles.
-
-Streets in various places.
-
-The culture that was born here eventually found its way into television, into record stores, into magazines, into advertising, into museums, into Fashion Week, and even into the marketing strategies of huge corporations.
-
-Therefore, when looking at cultural history, if we only follow what was important from the beginning, we will lose sight of history.
-
-At first it was small.
-
-What was not understood at first.
-
-It was cheap at first.
-
-Something that at first seemed vulgar.
-
-At first it was considered dangerous.
-
-The culture of the next era may be hidden within these things.
-
-> The center of culture is not a fixed place. New expressions born on the periphery shift the center itself over time.
+そこから新しい文化が生まれる。
 
 ---
 
-## 22. Conclusion: Culture can begin with "what you don"t have"
+## 21. 文化の中心は、いつも移動している
 
-The most important thing is not to glorify poverty.
+文化史には「中心」がある。
 
-In fact, the opposite is true.
+しかし、その中心は永遠ではない。
 
-Poverty is tough.
+ある時代には王宮だった。
 
-Lack of resources is painful.
+ある時代には教会だった。
 
-Social exclusion is unfair.
+ある時代には大学だった。
 
-Still, humans create meaning within their environments.
+ある時代には大企業だった。
 
-And sometimes that meaning becomes culture.
+そして20世紀後半には、街角が重要な文化的中心になった。
 
-Hip-Hop used existing records in new ways.
+ブロンクス。
 
-Punk destroyed and reassembled existing music and clothing.
+Kingston。
 
-Reggae combines Jamaican music and social experience.
+London。
 
-Graffiti uses cities as its canvas.
+Los Angeles。
 
-Skateboarding turned the city into a sports facility.
+各地のStreet。
 
-Street Fashion takes existing products and turns them into personal creations.
+ここで生まれた文化が、やがてテレビに入り、レコード店に入り、雑誌に入り、広告に入り、美術館に入り、Fashion Weekに入り、巨大な企業のマーケティング戦略にまで入り込んだ。
 
-None of these were born out of thin air.
+だから文化史を見るとき、「最初から重要だったもの」だけを追うと、歴史を見失う。
 
-Rather, they looked at something that already existed from a different angle.
+最初は小さかったもの。
 
-old record.
+最初は理解されなかったもの。
 
-old clothes.
+最初は安かったもの。
 
-old building.
+最初は下品だと思われたもの。
 
-old town
+最初は危険視されたもの。
 
-old technology.
+そうしたものの中に、次の時代の文化が隠れていることがある。
 
-old culture.
-
-And put them in a new context.
-
-So, the core of this story is not just about "Poor People."
-
-It's a story about humans' ability to re-edit the world within constraints.
-
-Culture doesn't always start with a huge budget.
-
-It doesn't necessarily start with expensive equipment.
-
-Sometimes it starts with an old record.
-
-It all starts with a spray can.
-
-It starts with a torn T-shirt.
-
-It all starts with used sneakers.
-
-It starts with an empty pool.
-
-It begins with a turntable placed on the street.
-
-And then someone says.
-
-"Let's try using this in a different way."
-
-At that moment, the consumer becomes the creator.
-
-The city becomes a canvas.
-
-Clothes send a message.
-
-Music becomes a community.
-
-And the people who were around them eventually changed the world's culture itself.
-
-> New cultures don't always start with new things. Sometimes it begins by looking at things that already exist in the world as ""something else.''
+> 文化の中心は固定された場所ではない。周辺で生まれた新しい表現が、時間をかけて中心そのものを移動させていく。
 
 ---
 
-## 23. View this column in one picture
+## 22. 結論――文化は「持っていないもの」から始まることがある
+
+最も重要なのは、貧困を美化することではない。
+
+むしろ、その反対だ。
+
+貧困は厳しい。
+
+資源の不足は苦しい。
+
+社会的排除は不公平だ。
+
+それでも、人間はその環境の中で意味を作る。
+
+そして、ときにはその意味が文化になる。
+
+Hip-Hopは、既存のレコードを新しい方法で使った。
+
+Punkは、既存の音楽と服を壊して再構成した。
+
+Reggaeは、ジャマイカの音楽と社会経験を結びつけた。
+
+Graffitiは、都市をキャンバスにした。
+
+Skateboardingは、街をスポーツ施設にした。
+
+Street Fashionは、既存の商品を個人の作品にした。
+
+どれも「何もないところ」から生まれたわけではない。
+
+むしろ、すでに存在していたものを別の角度から見た。
+
+古いレコード。
+
+古い服。
+
+古い建物。
+
+古い街。
+
+古い技術。
+
+古い文化。
+
+そして、それらを新しい文脈に置いた。
+
+だから、この物語の核心は「Poor People」だけではない。
+
+それは、人間が制約の中で世界を再編集する能力についての物語だ。
+
+文化とは、巨大な予算から始まるとは限らない。
+
+高価な設備から始まるとも限らない。
+
+時には、古いレコード一枚から始まる。
+
+一本のスプレー缶から始まる。
+
+破れたTシャツから始まる。
+
+中古のスニーカーから始まる。
+
+空っぽのプールから始まる。
+
+路上に置かれたターンテーブルから始まる。
+
+そして、誰かが言う。
+
+「これを、別の方法で使ってみよう。」
+
+その瞬間、消費者は作り手になる。
+
+街はキャンバスになる。
+
+服はメッセージになる。
+
+音楽はコミュニティになる。
+
+そして、周辺にいた人々が、やがて世界の文化そのものを変えていく。
+
+> 新しい文化は、いつも新しい物から始まるとは限らない。ときには、世界にすでにある物を「別のもの」として見るところから始まる。
+
+---
+
+## 23. このコラムを一枚の図で見る
 
 <div class="mermaid">
 flowchart TD
@@ -1607,41 +1606,41 @@ Q --> R["Global Cultural Influence"]
 
 </div>
 
-What this diagram shows is not a simple causal relationship of ""poverty → creativity.''
+この図が示しているのは、「貧困 → 創造性」という単純な因果関係ではない。
 
-More precisely,
+より正確には、
 
-"Constraints → Alternatives → DIY → Community → Subculture → Mainstream"
+「制約 → 代替手段 → DIY → コミュニティ → Subculture → Mainstream」
 
-This is a cultural cycle.
+という文化的循環である。
 
-And this cycle doesn't just exist in music.
+そして、この循環は音楽だけに存在するものではない。
 
-music.
+音楽。
 
-art.
+美術。
 
-Fashion.
+Fashion。
 
-Sports.
+スポーツ。
 
-dance.
+ダンス。
 
-graphic.
+グラフィック。
 
-picture.
+映像。
 
-It can appear in everything.
+すべてに現れる可能性がある。
 
-Culture does not only emerge in places with sufficient resources.
+文化は、資源が十分にある場所だけで生まれるわけではない。
 
-Rather, people invent their own methods where there is something that cannot be met by existing systems.
+むしろ、既存のシステムでは満たされない何かがある場所で、人々が自分たちの方法を発明する。
 
-That small method will soon be used all over the world.
+その小さな方法が、やがて世界中で使われる。
 
-That's the most powerful thing about Subculture.
+それがSubcultureの最も強力なところだ。
 
-> Ideas that change world culture are not necessarily aimed at the global market from the beginning.
+> 世界の文化を変えるアイデアは、最初から世界市場を目指していたとは限らない。
 
 
 ---

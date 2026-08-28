@@ -8,7 +8,7 @@ layout: post
 tags:
 - Hiphop
 - Vinyl
-title: '[Column] Origin of sampling ─ 20 most sampled sound sources'
+title: '[Column] The origins of sampling - 20 most sampled sound sources'
 ---
 
 
@@ -46,7 +46,7 @@ Former drummer Gregory Coleman passed away without a reward, but the ""spirit of
 
 #### 2. Lyn Collins – "Think (About It)" (1972)
 Produced by James Brown. A woman"s powerful shout and "Woo! Yeah!" break symbolize the golden age of hip-hop. Quotes include Rob Base & DJ E-Z Rock"s "It Takes Two," as well as Snoop Dogg and Beyoncé.
-Combining the strength of feminism and the dynamism of funk, it caused a ""chain reaction of voices'' on the club floor.
+Combining the strength of feminism and the dynamism of funk, it caused a "chain reaction of voices" on the club floor.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKix_06L5AY?si=k-WaUDAVRRi6Mk3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ Bernard Edwards" bass line became famous on Sugarhill Gang"s "Rapper's Delight."
 ---
 
 #### 5. James Brown – "Funky Drummer" (1970)
-Clyde Stubblefield's drum breaks are the holy grail of sampling. Public Enemy, LL Cool J, Prince, Beastie Boys -- every time that snare hit, the era was renewed.
+Clyde Stubblefield's drum break is the holy grail of sampling. Public Enemy, LL Cool J, Prince, Beastie Boys -- every time that snare hit, the era was renewed.
 The ""nucleus of rhythm'' has breathed life into the greatest number of works, from before hip-hop to after hip-hop.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AoQ4AtsFWVM?si=R0oO64bCh8qulHO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -110,7 +110,7 @@ Although the melody is modest, the "space" between the snare and kick forms a go
 
 #### 10. The Honey Drippers – "Impeach the President" (1973)
 A drum break where political messages and grooves coexist. Nas, The Notorious B.I.G., and even J. Cole.
-The reason why the title ironically resonates across time is because the ""aesthetics of resistance'' carved into the rhythm is universal.
+The reason why the title ironically resonates across time is because the ""aesthetics of resistance'' engraved in the rhythm is universal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7hNr8WpVYI0?si=IEACVEwNdD9Xf7Rb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -125,7 +125,7 @@ A famous material that symbolizes RZA's "shade sampling philosophy".
 ---
 
 #### 12. Joe Tex – "Papa Was Too" (1966)
-A fusion of James Brown-style funk and comedic rhythms. Quoted by Fatboy Slim and the Beastie Boys, it became the key to translating funk's "talk" into hip-hop.
+A fusion of James Brown-style funk and comedic rhythms. Quoted by Fatboy Slim and the Beastie Boys, it became the key to translating the "talk" of funk into hip-hop.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3oQdfZVMkYI?si=4OQVI7HXZGxLl0I7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -140,7 +140,7 @@ The smooth groove has a level of perfection that feels like it was written with 
 ---
 
 #### 14. Mountain – "Long Red" (1972)
-The chant "You know what I mean!" was often used by Public Enemy and De La Soul during live performances.
+The chant "You know what I mean!" was frequently used by Public Enemy and De La Soul during live performances.
 This is a great example of how a simple rock song becomes a hip-hop "part" through vocal sampling.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

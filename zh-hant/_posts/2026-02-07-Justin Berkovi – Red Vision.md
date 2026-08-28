@@ -10,16 +10,16 @@ tags:
 - Techno
 - Electro
 - 00s
-title: 賈斯汀貝爾科維 – 紅色視覺
+title: Justin Berkovi – Red Vision
 ---
 
 
 
-Justin Berkovi 是英國 techno 界資深 DJ/製作人，自 20 世紀 90 年代以來一直活躍。他也以 BTrax 的名義工作，並經營品牌 Predicaments。
+Justin Berkovi は、90年代から活躍するイギリス・テクノ界のベテランDJ／プロデューサー。BTrax名義でも活動しており、レーベルPredicamentsを運営している。
 
-《Red Vision》是 Justin Berkovi 自己的廠牌 Predicaments 於 2000 年發行的一首 Techno/Electro 歌曲。
+「Red Vision」は、2000年にJustin Berkovi 自身のレーベルPredicamentsからリリースされたTechno／Electroトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Child Of War
 A2. Invasion
@@ -28,7 +28,7 @@ B1. G&G Nights
 B2. Red Vision
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m25543899746?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25543899746?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4wi5yWrvkg?si=x3RFeuQF0oCRQT8j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,13 +9,13 @@ permalink: /zh-hant/tresor-compilation-vol-7/
 tags:
 - Techno
 - German Techno
-title: Tresor 彙編卷。 7
+title: Tresor Compilation Vol. 7
 ---
 
 
-《Tresor Compilation Vol. 7》是1999年發行的合輯專輯。
+「Tresor Compilation Vol. 7」は、1999年にリリースされたコンピレーションアルバムです。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Sven Väth –Dub Control Your Mind (Track & Feel Edit)
 2. Maurizio –M4
@@ -31,7 +31,7 @@ title: Tresor 彙編卷。 7
 12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

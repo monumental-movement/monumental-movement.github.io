@@ -9,15 +9,15 @@ permalink: /zh-hant/sexual-harrassment-i-need-a-freak/
 tags:
 - Electro
 - Anthem
-title: 性騷擾－我需要一個怪胎
+title: Sexual Harrassment – I Need A Freak
 ---
 
 
-Sexual Harrassment 是一個以 DJ 兼製作人 Lynn Tolliver, Jr.（又名 David Payto）為中心的美國計畫。
+Sexual Harrassmentは、DJ兼プロデューサーのLynn Tolliver, Jr（リン・トリバー・ジュニア　別名：David Payto/デヴィッド・ペイトン）を中心とした米国発のプロジェクト。
 
-《I Need A Freak》的原版發行於1989年。這張唱片是2004年發行的再發行版。
+「I Need A Freak」のオリジナル盤は1989年リリース。このレコードは2004年リリースのReissue盤。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. I Need A Freak (Long Version)
 
@@ -26,7 +26,7 @@ B1. I Need A Freak (Short Version)
 B2. I Need A Freak (Instrumental Version)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m91285110747?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91285110747?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xnNNY2TD8s8?si=xZ0-FH8b4bHqvvgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,11 +14,11 @@ title: Spiral Life – Flourish
 ---
 
 
-"Flourish", released in 1995, is Spiral Life's third studio album and last album.
+1995年にリリースされた「Flourish」は、Spiral Life(スパイラルライフ)の3枚目のスタジオアルバムであり、ラストアルバム。
 
-Spiral Life is a unit composed of Koji Kurumatani and Shokichi Ishida who were active from 1993 to 1996. During their three years of activities, they released three original albums, with "Flourish" becoming their biggest hit.
+Spiral Lifeは、1993年から1996年に活動した車谷浩司と石田ショーキチによるユニット。3年間の活動で、3枚のオリジナルアルバムをリリースし、「Flourish」は一番のヒット作となった。
 
-The song "GARDEN" was used as the opening theme for "Asakusabashi Young Clothing Store."
+収録曲「GARDEN」は、「浅草橋ヤング洋品店」オープニングテーマに使用された。
 
 #### Tracklist
 ```md
@@ -35,7 +35,7 @@ The song "GARDEN" was used as the opening theme for "Asakusabashi Young Clothing
 11. Nero
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bezCXU9hdCs?si=wHzi-g6loe7up-uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

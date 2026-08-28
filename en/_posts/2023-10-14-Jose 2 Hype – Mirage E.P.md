@@ -14,7 +14,7 @@ title: Jose 2 Hype – Mirage E.P
 
 Jose Gutierrez, aka Jose 2 Hype, has been one of the pioneers of techno and rave culture since 1992.
 
-Released in 1996 on the Chicago label Underground Construction, "Jack Attack" is Jose 2 Hype's anthem.
+1996年にシカゴのレーベルUnderground Constructionからリリースされた「Jack Attackは」Jose 2 Hype のアンセム。
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ A2. Jack Attack (Ghetto Hype Remix)
 B. A Bailar
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ff97zRPQPAM?si=lON_HVWZ4sk9qML_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

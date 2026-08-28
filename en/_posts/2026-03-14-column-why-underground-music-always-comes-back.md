@@ -10,54 +10,54 @@ tags:
 - Underground
 - Subculture
 - Culture
-title: '[Column] Why does music that was born underground come back again and again?'
+title: 【コラム】 地下から生まれた音楽は、なぜ何度でも復活するのか
 ---
 
 
 
-## What is Underground Music?
+## Underground Musicとは何か
 
-Text: mmr | Theme: Why does the music that comes from underground come back again and again? Deciphering the cyclical structure of underground culture and its relationship with society through the history of jazz, punk, house, grime, etc.
+文：mmr｜テーマ：地下から生まれる音楽はなぜ何度でも蘇るのか。ジャズ、パンク、ハウス、グライムなどの歴史を通して、アンダーグラウンド文化の循環構造と社会との関係を読み解く
 
 
-### Sound starting from an invisible place
+### 見えない場所から始まる音
 
-Many revolutions in music history were not created for the masses from the beginning.
+音楽史の多くの革命は、最初から大衆に向けて作られたものではない。
 In fact, the opposite is true.
 
-A lot of new music comes from obscure places.
+多くの新しい音楽は、目立たない場所から生まれる。
 
-- underground club
-- warehouse party
-- pirate radio
-- small record shop
-- Self-produced cassette
+- 地下クラブ
+- 倉庫パーティー
+- 海賊ラジオ
+- 小さなレコードショップ
+- 自主制作カセット
 
 Music born in these places is often ""sounds that are not understood'' at first.
 
-Looking back on history,
+歴史を振り返ると、
 
-- jazz
-- rock
-- punk
-- hip hop
+- ジャズ
+- ロック
+- パンク
+- ヒップホップ
 - House
-- Techno
-- grime
+- テクノ
+- グライム
 
-All of these genres started out underground.
+これらのジャンルはすべて、最初はアンダーグラウンドだった。
 
-In other words, underground is not a genre.
+つまり、アンダーグラウンドとはジャンルではない。
 
-It is a **state**.
+それは **状態** である。
 
-- Not yet accepted by society
-- Not yet an industry
+- まだ社会に受け入れられていない
+- まだ産業になっていない
 - I can't explain it yet.
 
-It is a word that refers to the place where such music exists.
+そうした音楽が存在する場所を指す言葉である。
 
-> Underground is not ""hidden music" but ""future music that is not yet understood."
+> アンダーグラウンドとは「隠れた音楽」ではなく「まだ理解されていない未来の音楽」である。
 
 ---
 
@@ -66,7 +66,7 @@ It is a word that refers to the place where such music exists.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -75,128 +75,128 @@ color: #fff;
 </style>
 
 
-## Conditions for the birth of underground
+## アンダーグラウンドが生まれる条件
 
-### Culture born in the gaps in society
+### 社会の隙間で生まれる文化
 
-Underground music has several conditions in common.
+アンダーグラウンド音楽には、いくつかの共通する条件がある。
 
-First, being on the **social periphery**.
+第一に **社会的な周縁** であること。
 
-- Surroundings of the city
+- 都市の周辺
 - Immigrant community
 - Youth culture
-- Minority culture
+- マイノリティ文化
 
-In these places, values ​​that differ from mainstream culture develop.
+こうした場所では、主流文化とは違う価値観が育つ。
 
-Second, there is **technical freedom**.
+第二に **技術的な自由** があること。
 
 - Inexpensive recording equipment
 - new instruments
-- pirate radio
-- internet
+- 海賊ラジオ
+- インターネット
 
-When technology becomes widespread, music suddenly becomes democratized.
+技術が普及すると、音楽は突然民主化される。
 
-Thirdly, there is a **small community**.
+第三に **小さなコミュニティ** が存在すること。
 
-- record shop
-- Club
+- レコードショップ
+- クラブ
 - DIY events
 - Local media
 
-Underground culture first matures in small communities before reaching the masses.
+アンダーグラウンド文化は、大衆の前にまず小さなコミュニティで成熟する。
 
-When these conditions come together, new music is born.
+こうした条件が重なるとき、新しい音楽は生まれる。
 
 > Underground culture does not occur in isolation; it emerges naturally from the gaps in society.
 
 ---
 
-## The moment underground becomes mainstream
+## アンダーグラウンドが主流になる瞬間
 
-### Diffusion of subculture
+### サブカルチャーの拡散
 
 If you look at history, a lot of underground music explodes at a certain moment.
 
-This happens mainly due to three factors.
+それは主に三つの要因で起きる。
 
-- Media
-- Technology
-- industry
+- メディア
+- テクノロジー
+- 産業
 
-For example, jazz in the 1920s was spread by the recording industry.
+たとえば1920年代のジャズは、レコード産業によって広がった。
 
-Rock and roll in the 1950s was spread by radio and television.
+1950年代のロックンロールは、ラジオとテレビによって拡散した。
 
-Punk in the 1970s was spread by music magazines and indie labels.
+1970年代のパンクは、音楽雑誌とインディーレーベルによって広がった。
 
-House and techno in the late 1980s spread around the world through club culture and a network of record shops.
+1980年代後半のハウスとテクノは、クラブ文化とレコードショップのネットワークによって世界に広がった。
 
-In other words, underground music becomes **visible** at some stage.
+つまりアンダーグラウンド音楽は、ある段階で **可視化** される。
 
-And at that moment, culture spreads.
+そしてその瞬間に、文化は拡散する。
 
-> Underground culture changes from subculture to pop culture the moment it becomes visible.
+> アンダーグラウンド文化は、可視化された瞬間にサブカルチャーからポップカルチャーへ変わる。
 
 ---
 
-## The turning point of commercialization
+## 商業化という転換点
 
-### Change brought about by success
+### 成功がもたらす変化
 
-Once underground culture spreads, the next thing that happens is commercialization.
+アンダーグラウンド文化が広がると、次に起きるのが商業化である。
 
-- record company
-- Media
-- advertisement
-- Brand
+- レコード会社
+- メディア
+- 広告
+- ブランド
 
-These industries begin to be involved in culture.
+こうした産業が文化に関わり始める。
 
-As a result, music reaches more people.
+その結果、音楽はより多くの人に届く。
 
 But at the same time, changes occur.
 
 - music becomes shorter
-- Sound becomes easier to understand
-- Image becomes branded
+- 音は分かりやすくなる
+- イメージがブランド化される
 
-Many genres become ""pop'' at this stage.
+多くのジャンルは、この段階で「ポップ化」する。
 
-- Punk becomes pop punk
-- Hip hop becomes pop rap
-- Techno turns into EDM
+- パンクはポップパンクになり
+- ヒップホップはポップラップになり
+- テクノはEDMに変化する
 
-This change is not the end of culture.
+この変化は、文化の終わりではない。
 
-Rather, it is **part of a cycle**.
+むしろ **循環の一部** である。
 
-> When underground culture becomes successful, it becomes mainstream culture, and from that moment on, the next underground is born.
+> アンダーグラウンド文化は成功すると主流文化になり、その瞬間から次のアンダーグラウンドが生まれる。
 
 ---
 
-## Return to the underground
+## 地下への回帰
 
-### Why the underground is coming back
+### なぜアンダーグラウンドは戻ってくるのか
 
 When we look at the history of music, there is a strange phenomenon.
 
-Music that becomes mainstream is always rejected at some point.
+主流になった音楽は、必ずどこかで拒否される。
 
-This is a backlash from the younger generation.
+それは若い世代による反発である。
 
-- Sound became commercial
-- Culture is now safe
-- Messages have been weakened
+- 音が商業的になった
+- 文化が安全になった
+- メッセージが弱くなった
 
-When a new generation feels this way, they head elsewhere.
+こう感じたとき、新しい世代は別の場所へ向かう。
 
 - warehouse party
-- DIY events
-- pirate radio
-- Online community
+- DIYイベント
+- 海賊ラジオ
+- オンラインコミュニティ
 
 In other words, underground culture is born as a **reaction** of mainstream culture.
 
@@ -206,7 +206,7 @@ This cycle is repeated over and over again.
 
 ---
 
-## Circulation of underground culture in music history
+## 音楽史における地下文化の循環
 
 <div class="mermaid">
 graph LR
@@ -219,15 +219,15 @@ F --> G[New Underground Emerges]
 G --> A
 </div>
 
-This cycle can be seen in almost every genre.
+この循環は、ほぼすべてのジャンルに見られる。
 
-- jazz
-- rock
+- ジャズ
+- ロック
 - punk
 - hip hop
-- dance music
+- ダンスミュージック
 
-Culture spreads, matures, becomes saturated, and then returns underground.
+文化は一度広がり、成熟し、飽和し、そして再び地下へ戻る。
 
 > Musical culture does not progress in a straight line, but as a cycle that goes back and forth between underground and above ground.
 
@@ -235,53 +235,53 @@ Culture spreads, matures, becomes saturated, and then returns underground.
 
 ## Chronology: History of underground music
 
-| Years | Events |
+| 年代     | 出来事                       |
 | ------ | ------------------------- |
-| 1920s | Jazz develops in underground clubs in American cities |
-| 1950s | Rock and roll expands as youth culture |
-| 1970s | Punk emerges as a DIY culture |
-| 1980s | Birth of house and techno in Chicago and Detroit |
-| 1990s | Rave culture and the expansion of drum and bass |
-| 2000s | Grime was born from pirate radio |
-| 2010s | Internet-originated genres such as SoundCloud rap emerge |
-| 2020s | Internet community forms new underground scene |
+| 1920年代 | ジャズがアメリカ都市の地下クラブで発展       |
+| 1950年代 | ロックンロールが若者文化として拡大         |
+| 1970年代 | パンクがDIY文化として登場            |
+| 1980年代 | シカゴとデトロイトでハウスとテクノ誕生       |
+| 1990s | Rave culture and drum & bass expansion |
+| 2000年代 | 海賊ラジオからグライム誕生             |
+| 2010年代 | SoundCloudラップなどネット発ジャンル登場 |
+| 2020年代 | インターネットコミュニティが新たな地下シーン形成  |
 
-> Underground culture has always been born in new places and changed over time.
+> アンダーグラウンド文化は常に新しい場所で誕生し、時代ごとに姿を変えてきた。
 
 ---
 
-## Underground culture in the internet age
+## インターネット時代の地下文化
 
-### Underground in the digital age
+### デジタル時代のアンダーグラウンド
 
-In the 21st century, the meaning of underground has changed somewhat.
+21世紀になると、アンダーグラウンドの意味は少し変わった。
 
-Previously, a "physical location" was required.
+以前は「物理的な場所」が必要だった。
 
 - underground club
-- Local record store
-- pirate radio
+- ローカルレコード店
+- 海賊ラジオ
 
-But the Internet has created a new underground.
+しかしインターネットは、新しい地下を作った。
 
-- Online forum
-- Streaming
--SNS
+- オンラインフォーラム
+- ストリーミング
+- SNS
 - Music sharing site
 
 - SoundCloud
--Bandcamp
+- Bandcamp
 - YouTube
 
-These platforms connected small scenes around the world.
+これらのプラットフォームは、世界中の小さなシーンをつなげた。
 
 As a result, underground culture **lost its geographical limitations**.
 
-- Producer in Tokyo
-- London DJ
-- Berlin Club
+- 東京のプロデューサー
+- ロンドンのDJ
+- ベルリンのクラブ
 
-Sometimes these things create a scene at the same time.
+これらが同時に一つのシーンを作ることもある。
 
 > Underground culture in the Internet age exists not as a place but as a network.
 
@@ -289,51 +289,51 @@ Sometimes these things create a scene at the same time.
 
 ## Why underground culture won't disappear
 
-### Music evolution device
+### 音楽の進化装置
 
 The music industry is huge.
 
-But much of that innovation comes from outside the industry.
+しかしその革新の多くは、産業の外から生まれる。
 
-Because there are three freedoms in the underground.
+なぜならアンダーグラウンドには三つの自由があるからだ。
 
-- Freedom to fail
-- Freedom to experiment
+- 失敗する自由
+- 実験する自由
 - Freedom to continue even if it doesn't sell
 
-In mainstream culture, this freedom is restricted.
+主流文化では、この自由は制限される。
 
-- budget
-- market
-- Brand
+- 予算
+- 市場
+- ブランド
 
-However, in underground culture, these constraints are weak.
+しかし地下文化では、これらの制約が弱い。
 
-As a result, new sounds are born.
+そのため新しい音が生まれる。
 
-Often it is a strange and incomprehensible sound.
+多くの場合、それは奇妙で理解されない音である。
 
-But after a few years, the sound can become mainstream.
+しかし数年後、その音は主流になることがある。
 
-> Underground culture is a laboratory for testing the future of music.
+> アンダーグラウンド文化は、音楽の未来を試す実験室である。
 
 ---
 
-## Conclusion: Underground is the future
+## 結論：地下は未来である
 
-Underground music has appeared many times throughout history.
+アンダーグラウンド音楽は、歴史の中で何度も現れてきた。
 
-It doesn't go away.
+それは消えない。
 
-This is because as long as mainstream culture exists, there will also be an outside world.
+なぜなら、主流文化が存在する限り、その外側も存在するからである。
 
-Underground cultures start small, grow in communities, and eventually spread around the world.
+地下文化は小さく始まり、コミュニティで育ち、やがて世界に広がる。
 
-And the moment it expands, a new underground is born somewhere.
+そして広がった瞬間、新しい地下がどこかで生まれている。
 
-Music history is a repetition of this process.
+音楽史とは、この繰り返しである。
 
-The sounds that begin underground eventually become the sounds of the times.
+地下から始まる音は、やがて時代の音になる。
 
 > The future of music is always beginning to sound underground, where we can't see it yet.
 

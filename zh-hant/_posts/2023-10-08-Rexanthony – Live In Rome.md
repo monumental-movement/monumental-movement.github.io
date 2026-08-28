@@ -9,22 +9,22 @@ permalink: /zh-hant/rexanthony-live-in-rome/
 tags:
 - Techno
 - Hardcore
-title: Rexanthony – 住在羅馬
+title: Rexanthony – Live In Rome
 ---
 
 
-《Live In Rome》是義大利 DJ 兼製作人 Rexanthony 的現場專輯。這張專輯作為他現場表演的收藏發行。
+「Live In Rome」は、イタリアのDJ・プロデューサーであるレクサンソニー（Rexanthony）によるライブアルバムです。このアルバムは、彼のライブパフォーマンスを収めた作品としてリリースされました。
 
-Lexanthony 活躍於 techno 和 Hard trance 等電子音樂流派，並以其活力和獨特的表演風格而聞名。他的現場表演充滿了強大的節拍、硬合成音以及吸引俱樂部和節日人群的效果器。
+レクサンソニーは、テクノやハードトランスなどのエレクトロニックミュージックジャンルで活躍しており、そのパフォーマンスのエネルギーと独自のスタイルで知られています。彼のライブセットは、パワフルなビート、ハードなシンセサウンド、エフェクトの使用など、クラブやフェスティバルの観客を魅了する要素が詰まっています。
 
-《Live In Rome》是一部可以讓您以音訊方式體驗Lexanthony現場表演的作品。這張專輯包括他的標誌性歌曲和混音，讓你感受到場地的能量和觀眾的反應。
+「Live In Rome」は、レクサンソニーのライブパフォーマンスをオーディオとして体験することができる作品です。アルバムには、彼の代表曲やリミックスが収録されており、会場のエネルギーと観客の反応を感じることができます。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Live In Rome
 
 B1. Live In Rome
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m19682643460?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19682643460?afid=6142608987){: .button1}
 

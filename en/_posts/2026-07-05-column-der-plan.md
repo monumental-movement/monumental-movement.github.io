@@ -10,22 +10,22 @@ tags:
 - Avant Pop
 - Krautrock
 - Experimental
-title: '[Column] Der Plan──Another future of electronic music drawn by German avant-pop'
+title: 【コラム】 Der Plan──ドイツ・アヴァンポップが描いた電子音楽のもう一つの未来
 ---
 
 
-## Birth in 1979 and the atmosphere of Düsseldorf
+## 1979年の誕生とデュッセルドルフの空気
 
-Text: mmr｜Theme: Der Plan, who overturned the conventional wisdom of pop with humor and electronic music, traces the original trajectory carved into the history of German experimental music.
+文：mmr｜テーマ：ユーモアと電子音楽でポップの常識を覆したDer Planが、ドイツ実験音楽史に刻んだ独創的な軌跡をたどる
 
-The flow of electronic music and art around Düsseldorf, Germany from the late 1970s to the early 1990s was not just the development of a musical genre, but also a redesign of urban culture and technological sensibilities. Among them, Der Plan was able to create a unique position by combining humor and an experimental spirit.
+1970年代末から90年代初頭にかけてのドイツ・デュッセルドルフ周辺の電子音楽とアートの流れは、単なる音楽ジャンルの発展ではなく、都市文化とテクノロジー感覚の再設計でもあった。その中でDer Planは、ユーモアと実験精神を両立させながら独自のポジションを築いた存在だった。
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -37,132 +37,132 @@ color: #fff;
 ---
 
 
-### Pop experiment born from an industrial city
+### 工業都市から生まれたポップ実験
 
-Der Plan was formed in 1979 by Frank Fenstermacher, Moritz R, Robert Görl and Chrislo Haas. The city of Düsseldorf was known as one of the centers of post-Kraftwerk electronic music, providing an environment where mechanical rhythm and artistic experimentation intersected.
+1979年、Frank Fenstermacher、Moritz R、Robert Görl、Chrislo HaasによってDer Planは結成された。デュッセルドルフという都市は、クラフトワーク以降の電子音楽の中心地の一つとして知られ、機械的リズムと芸術的実験が交差する環境が整っていた。
 
-In the German music scene at the time, there was a strong movement to explore new forms of expression while breaking the rock format, and Der Plan was born in this trend. However, they were not just avant-garde artists, but instead chose the position of experimentation under the guise of pop, anticipating the later ""avant pop'' feel.
+当時のドイツ音楽シーンでは、ロックの形式を壊しながら新しい表現を模索する動きが強く、Der Planもその流れの中で誕生した。ただし彼らは単なる前衛ではなく、ポップの皮をかぶった実験という立ち位置を選び、後の“アヴァン・ポップ”的感覚を先取りしていた。
 
-The initial membership composition was fluid, and the group's character as a project-type group was already strongly evident at this point.
+初期メンバー構成は流動的であり、プロジェクト型の集団としての性格がすでにこの時点で強く表れていた。
 
-> The starting point for Der Plan was an experimental field for electronic pop where urban mechanics and playfulness intersect.
-
----
-
-## Initial member changes and sound reorganization
-
-### Nuclei formed in a short period of time
-
-Shortly after their debut, Robert Görl and Chrislo Haas left the group, and with the addition of Kurt Dahlke (Pyrolator), Der Plan's sound took a major turn. Pyrolator combines electronic music with punk sensibilities and will form the core of the group.
-
-With this change, Der Plan became more than just a band, but a production unit with studio-like thinking. Structural design was more important than instrumentation, and music came to be treated as a ""construction" rather than a ""performance."
-
-This period was characterized by an extreme mix of pop melodies and mechanical rhythms, which also influenced later synthpop and parts of industrial.
-
-> Early fluctuations transformed Der Plan from a fixed band to an experimental production
+> Der Planの出発点は、都市の機械性と遊戯性が交差する電子ポップの実験場だった
 
 ---
 
+## 初期メンバー変遷とサウンドの再編
 
-## Experimentality and electronic music development during the Pyrolator era
+### 短期間で形成された核
 
-### Coexistence of humor and mechanicality
+デビュー直後、Robert GörlとChrislo Haasはグループを離れ、その後にKurt Dahlke（Pyrolator）が加入することで、Der Planのサウンドは大きく方向転換する。Pyrolatorは電子音楽とパンク的感性を融合させる存在であり、グループの中核を支えることになる。
 
-After joining Pyrolator, Der Plan became more clearly focused on electronic music. The traditional rock structure was deliberately dismantled, with synthesizers, rhythm machines, and tape manipulation taking center stage.
+この変化によりDer Planは単なるバンドではなく、スタジオ的思考を持つ制作ユニットへと近づいた。楽器編成よりも構造設計が重視され、音楽は「演奏」ではなく「構築物」として扱われるようになる。
 
-An important characteristic of this period is ""humor.'' Der Plan was not a serious avant-garde, but rather had a lightness that parodied pop culture. However, its lightness was not just a joke, but also a sharp observation on media society.
+この時期の特徴は、ポップなメロディと機械的リズムの極端な混在であり、それが後のシンセポップやインダストリアルの一部にも影響を与えた。
 
-The music is fragmented, and the lyrics and structure are discontinuously arranged, so the listener receives a collage-like experience rather than a unified narrative.
-
-> Der Plan from the Pyrolator era was a device that dismantled the structure of electronic music with laughter.
+> 初期の変動はDer Planを固定バンドから実験的プロダクションへと変質させた
 
 ---
 
 
-## 1993 Dissolution and Underground Rating
+## Pyrolator時代の実験性と電子音楽的展開
 
-### A silent influence
+### ユーモアと機械性の共存
 
-In 1993, Der Plan ceased its activities. This breakup was not dramatic, but rather was perceived as a natural progression. Because of its project-like nature, the end was more like a halt than a clear collapse.
+Pyrolator加入後のDer Planは、より明確に電子音楽的アプローチを強めていく。シンセサイザー、リズムマシン、テープ操作などが中心となり、従来のロック的構造は意図的に解体された。
 
-At this point, Der Plan was more of an influence in the underground scene than a commercial success. In particular, he left an indirect influence on electronic music, experimental pop, and noise artists in Germany and abroad.
+この時期の重要な特徴は「ユーモア」である。Der Planは深刻な前衛性ではなく、むしろポップカルチャーをパロディ化するような軽さを持っていた。だがその軽さは単なる冗談ではなく、メディア社会への鋭い観察でもあった。
 
-Their work was later reevaluated and became an important piece of German electronic music in the 1980s.
+音楽は断片化され、歌詞や構造も断絶的に配置されることで、リスナーは統一された物語ではなく、コラージュ的体験を受け取ることになる。
 
-> Even after disbanding, Der Plan remained a reference point for electronic pop experimentation.
-
----
-
-
-## 2004 restart and branch of Der Plan V.4.0
-
-### Collision and redefinition of old and new
-
-In 2004, Moritz R restarts Der Plan with new members Achim Treu and JJ Jones. However, this activity caused a difference of opinion with the original members, and it became a branched form under the name Der Plan V.4.0.
-
-This period is characterized by the problem of originality. The historical meaning of the name Der Plan and the direction of the new project did not necessarily match, and the group's identity became multiple.
-
-Musically, while incorporating elements of modern electronic music, they sought a direction different from the humorous experimentation of their early days.
-
-> The restart was also an attempt to redefine the very concept of Der Plan.
+> Pyrolator期のDer Planは電子音楽の構造を笑いとともに解体する装置だった
 
 ---
 
 
-## 2014 Reunion and Andreas Dorau Birthday Party Live
+## 1993年の解散とアンダーグラウンド評価
 
-### Short-term revival as a return to origins
+### 静かに残った影響力
 
-In January 2014, the original trio reunited for a short live performance at Andreas Dorau's 50th birthday event. This reunion has a strong meaning as a symbolic reunion rather than a resumption of long-term activities.
+1993年、Der Planは活動を停止する。この解散は劇的なものではなく、むしろ自然な流れとして受け止められた。プロジェクト型の性格を持っていたため、終わりは明確な崩壊ではなく停止に近いものだった。
 
-The reunion of friends who share the history of the Düsseldorf scene temporarily brought back the experimental spirit of the past. Although the performance is short, it is an important opportunity to recreate the feeling of the early days.
+この時点でDer Planは商業的成功よりも、アンダーグラウンドシーンでの影響力を持つ存在となっていた。特にドイツ国内外の電子音楽、実験ポップ、ノイズ系アーティストに対して間接的な影響を残す。
 
-This event will be marked as a "reconnection" moment in Der Plan's history.
+彼らの作品は後に再評価され、1980年代ドイツ電子音楽の重要な断片として扱われるようになる。
 
-> The 2014 reunion was a musical ritual that momentarily connected past and present.
-
----
-
-## Continuity from 2017 to the 2025 project
-
-### Relocation to modern times
-
-In 2017, new singles and albums will be released, and the original trio will once again take center stage. The approach taken here is not just to recreate the past, but to reconstruct it.
-
-Furthermore, in 2025, the original members will also participate in the Der Plan cover work project, showing a movement to reinterpret history itself. This is not just nostalgia, but an attempt to re-edit material from the past from a modern perspective.
-
-Der Plan's history is not linear, but rather has a fragmented reboot structure.
-
-> Der Plan has become a project that treats time not as a straight line but as an intermittent reconstruction.
+> 解散後もDer Planは電子ポップ実験の参照点として生き続けた
 
 ---
 
+
+## 2004年再始動とDer Plan V.4.0の分岐
+
+### 新旧の衝突と再定義
+
+2004年、Moritz Rは新メンバーAchim TreuとJJ JonesとともにDer Planを再始動させる。しかしこの活動は従来のオリジナルメンバーとの間で意見の相違を生み、Der Plan V.4.0という名称での分岐形態となった。
+
+この時期の特徴は、オリジナル性の問題である。Der Planという名称が持つ歴史的意味と、新しいプロジェクトの方向性が必ずしも一致せず、グループのアイデンティティは複数化していく。
+
+音楽的には現代的な電子音楽の要素を取り込みつつも、初期のユーモラスな実験性とは異なる方向性が模索された。
+
+> 再始動はDer Planの概念そのものを再定義する試みでもあった
+
 ---
 
-## Chronology of discography and influence
 
-### Fragmentary genealogy of electronic pop
+## 2014年再結集とAndreas Dorau誕生会ライブ
 
-Der Plan's activities need to be understood not as a single album history, but as a fragmented project history. Below is a structure that visualizes the flow.
+### 原点回帰としての短期復活
+
+2014年1月、オリジナルのトリオが再集結し、Andreas Dorauの50歳誕生日イベントで短いライブを行う。この再結集は長期活動の再開ではなく、象徴的な再会としての意味合いが強い。
+
+デュッセルドルフ・シーンの歴史を共有する仲間たちの再会は、過去の実験精神を一時的に呼び戻すものとなった。演奏は短いながらも、初期の感覚を再現する重要な機会となる。
+
+このイベントはDer Planの歴史における「再接続」の瞬間として記録される。
+
+> 2014年の再結集は過去と現在を一瞬だけ接続する音楽的儀式だった
+
+---
+
+## 2017年以降と2025年プロジェクトへの連続性
+
+### 現代への再配置
+
+2017年には新しいシングルとアルバムが発表され、オリジナル・トリオによる活動が再び表舞台に現れる。ここでは過去の単なる再現ではなく、再構築としてのアプローチが取られている。
+
+さらに2025年にはDer Planのカバー作品プロジェクトにもオリジナルメンバーが参加し、歴史そのものを再解釈する動きが見られる。これは単なる懐古ではなく、過去の素材を現在の視点で再編集する試みである。
+
+Der Planの歴史は直線的ではなく、断片的に再起動する構造を持っている。
+
+> Der Planは時間を直線ではなく断続的な再構築として扱うプロジェクトになった
+
+---
+
+---
+
+## ディスコグラフィと影響の年表構造
+
+### 電子ポップの断片的系譜
+
+Der Planの活動は単一のアルバム史ではなく、断片的なプロジェクト史として理解される必要がある。以下はその流れを視覚化した構造である。
 
 <div class="mermaid">
 graph TD
-A[1979 Formed] --> B[Initial member change]
-B --> C[Pyrolator subscription and digitalization]
-C --> D[Establishment of avant-pop in the 1980s]
-D --> E[1993 Disbanded]
-E --> F[2004 V.4.0 restart]
-F --> G[2014 Original reunion]
-G --> H[2017 New return]
-H --> I[2025 Cover Reinterpretation Project]
+A[1979 結成] --> B[初期メンバー変動]
+B --> C[Pyrolator加入と電子化]
+C --> D[1980年代アヴァンポップ確立]
+D --> E[1993 解散]
+E --> F[2004 V.4.0再始動]
+F --> G[2014 オリジナル再結集]
+G --> H[2017 新作復帰]
+H --> I[2025 カバー再解釈プロジェクト]
 </div>
 
-This flow is not just a chronology of activities, but also a history of re-editing identity.
+この流れは単なる活動年表ではなく、アイデンティティの再編集史でもある。
 
-Furthermore, Der Plan's influence has spread beyond the direct inheritance of genres, through the ideas of humor, collage, and structural destruction in electronic music.
+また、Der Planの影響は直接的なジャンル継承よりも、電子音楽におけるユーモア、コラージュ、構造破壊の思想として広がった。
 
-Especially in the context of German electronic music, they are positioned as introducing a more playful and human distortion to the mechanical nature of the post-Kraftwerk era.
+特にドイツ電子音楽の文脈では、Kraftwerk以降の機械性に対し、より遊戯的で人間的な歪みを導入した存在として位置づけられる。
 
-> The essence of Der Plan was not the music genre, but the redesign of the structure itself.
+> Der Planの本質は音楽ジャンルではなく構造そのものの再設計にあった
 
 ---

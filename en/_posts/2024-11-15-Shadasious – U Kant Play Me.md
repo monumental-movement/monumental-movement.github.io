@@ -14,11 +14,11 @@ title: Sha'dasious – U Kant Play Me
 
 
 Sha'dasious – U Kant Play Me / Phunk Wucha Heard
-Shadacious
+シャダシャス
 
-Single cut from Sha"dasious"s first album "Phunk Wucha Heard". "U Kant Play Me" is a hip hop classic that is supported by the Hip Hop and R&B scenes.
+Sha'dasiousのファーストアルバム「Phunk Wucha Heard」からのシングルカット。「U Kant Play Me」はHipHop、R&Bシーンから支持されるヒップホップクラシック。
 
-This record is a US version released by RCA in 1994.
+このレコードは、1994年にRCAからリリースされたUS盤。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ B2. Phunk Wucha Heard (Remix)
 B3. Phunk Wucha Heard (Remix Instrumental)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m33289222948?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33289222948?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wlq2Vb6mkcE?si=wSGl4sMXuDHIaWxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

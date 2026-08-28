@@ -10,24 +10,24 @@ tags:
 - Breakbeat
 - Breaks
 - 00s
-title: Neztic – 踢下去
+title: Neztic – Kickin' Down
 ---
 
 
-Manuel Neztic，又名 Neztic，是一位 DJ，自 1998 年以來一直活躍在墨西哥電子音樂界。
+NezticことManuel Nezticは、1998年からメキシコのエレクトロニックミュージックシーンで活動するDJ。
 
-《Kickin' Down》由英國碎拍唱片公司 Mob Records 於 2006 年發行，也被稱為澳洲職業足球聯賽 A-League 廣告活動的官方主題曲。
+イギリスのブレークビーツ・ブレイクレーベルMob Recordsから2006年にリリースされた「Kickin' Down」は、オーストラリアのプロフットボール リーグ、A リーグ の広告キャンペーンの公式テーマ曲としても知られている。
 
-B 面是芬蘭 DJ 兼製作人 Rico Tubbs 的混音作品。
+B面は、フィンランドのDJ・プロデューサーRico Tubbs によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Kickin' Down
 
 B. Kickin' Down (Rico Tubbs Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m62664981312?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62664981312?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-A5loOOnvkg?si=GQK2P5iOEPKfHJhf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

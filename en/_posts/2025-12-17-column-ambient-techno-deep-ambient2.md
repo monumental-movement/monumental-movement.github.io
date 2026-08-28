@@ -9,16 +9,16 @@ layout: post
 tags:
 - Ambient
 - Techno
-title: '[Column] Ambient Techno / Deep Ambient 2'
+title: 【コラム】 Ambient Techno / Deep Ambient（深海系アンビエント）2
 ---
 
 
 
-## 1. Sequel theme setting
+## 1. 続編の主題設定
 
-Text: mmr｜Theme: About "deep sea acoustics" that redefines the act of listening to music
+文：mmr｜テーマ：音楽を聴くという行為を再定義する「深海的音響」について
 
-We treat Ambient Techno/Deep Ambient not as an ""acoustic genre," but as a ""practice that redesigns the act of listening itself." Based on the history of its establishment, sound technology, and contrasting structure that were covered in the first part, here we shift our focus to the production environment, listening environment, playback media, and how time is used.
+Ambient Techno / Deep Ambient を「音響ジャンル」としてではなく、「聴取行為そのものを再設計する実践」として扱う。前編で扱った成立史・音響技術・対比構造を前提としつつ、ここでは制作環境、聴取環境、再生メディア、そして時間の使われ方に焦点を移す。
 
 ---
 
@@ -27,7 +27,7 @@ We treat Ambient Techno/Deep Ambient not as an ""acoustic genre," but as a ""pra
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -44,105 +44,113 @@ When played over a long period of time, short-term stimuli and symbolic developm
 
 ---
 
-## 3. Boundary between loop and non-loop
+## 3. ループと非ループの境界
 
-The loops in Ambient Techno/Deep Ambient are not a gimmick to make you hear repetition itself. Rather, it is a device for artificially creating a state in which it appears that no change exists.
+Ambient Techno / Deep Ambient におけるループは、反復そのものを聴かせるための仕掛けではない。むしろ、変化が存在しないように見える状態を人工的に作り出すための装置である。
 
-There is no perfect loop; there is always some fluctuation. Opening and closing of filters, increase/decrease of noise components, length of reverberation tail. These minute differences are the only clues that give the listener a sense of the passage of time.
+完全なループは存在せず、必ずわずかな揺らぎが含まれる。フィルターの開閉、ノイズ成分の増減、残響の尾の長さ。これらの微差が、聴取者に時間経過を感じさせる唯一の手がかりとなる。
 
 ---
 
 ## 4. Production environment and sound characteristics
 
-Deep sea ambient sounds are closely related to the production environment in which they are used. The quality of sustain is different between sounds that are precisely constructed in a studio and sounds that are improvised.
+深海系アンビエントの音響は、使用される制作環境とも密接に関係している。スタジオで精密に構築された音と、即興的に生成された音とでは、持続の質が異なる。
 
-In highly improvised productions, the sound is not too controlled, leaving a slight instability. This instability makes music not a static object, but an ongoing phenomenon.
-
----
-
-## 5. Dealing with silence and silence
-
-In Deep Ambient, silence is more than just a pause. The moment the sound disappears, reverberation and environmental sounds come to the foreground, and the listener's attention shifts to the outside world.
-
-For this reason, in many works, complete silence is avoided, and very faint sounds are sustained. What appears to be silence is actually filled with acoustics.
+即興性の高い制作では、音は制御されすぎず、わずかな不安定さを残す。この不安定さが、音楽を静的なオブジェクトではなく、現在進行形の現象として成立させる。
 
 ---
 
-## 6. Playback media and sound experience
+## 5. 無音と沈黙の扱い
 
-Ambient Techno / Deep Ambient's character changes greatly depending on the playback media. Large speakers, headphones and small devices. Each creates a different depth.
+Deep Ambient では、無音は単なる休止ではない。音が消えた瞬間に、残響や環境音が前景化し、聴取者の注意は外部へと移動する。
 
-In headphones, the physical pressure in the low frequencies is reduced, but the density of the internal space increases. On the other hand, in speaker playback, the space itself becomes a resonator.
-
----
-
-## 7. Intermediate area between work, sleep, and wakefulness
-
-Deep sea ambient is suitable for areas that are neither fully awake nor fully asleep. In this intermediate state, music is not an object of attention, but exists as a background of consciousness.
-
-What is important in this application is that the music does not induce emotion. Emotional ups and downs bring consciousness to the foreground.
+このため、多くの作品では完全な無音は避けられ、極微音が持続される。沈黙に見える状態も、実際には音響的に満たされている。
 
 ---
 
-## 8. Night listening culture
+## 6. 再生メディアと音響体験
 
-Ambient Techno/Deep Ambient has been strongly associated with nighttime listening culture. During times when visual information is reduced, the spatiality of sound is relatively amplified.
+Ambient Techno / Deep Ambient は、再生メディアによって性格を大きく変える。大型スピーカー、ヘッドフォン、小型デバイス。それぞれが異なる深度を生む。
 
-In works intended for nighttime playback, a configuration is often chosen in which the high frequencies are suppressed and the low and mid-low frequencies sustain for a long time.
-
----
-
-## 9. Reinterpretation of fieldness
-
-Deep-sea ambient music has the feel of a field recording without directly using natural sounds. What is important is not the sound source, but the imagination of the space.
-
-Even if it is an artificial sound, if the sense of distance, reflection, and shielding are designed, the listener will perceive the non-existent environment as a real space.
+ヘッドフォンでは、低域の物理的圧力は減少するが、内部空間の密度が増す。一方、スピーカー再生では、空間そのものが共鳴体となる。
 
 ---
 
-## 10. Listener independence
+## 7. 作業・睡眠・覚醒の中間領域
 
-In this kind of music, the listener is not a passive entity. It's always up to the listener to decide how much attention to give and when to let the music become the background.
+深海系アンビエントは、完全な覚醒状態でも、完全な睡眠状態でもない領域に適している。この中間状態では、音楽は注意の対象にならず、意識の背景として存在する。
 
-Ambient Techno/Deep Ambient is extremely democratic music in that it does not force listening intensity.
-
----
-
-## 11. Sustaining the digital age
-
-In a streaming environment, music is easily skipped. However, deep-sea ambient music resists this immediacy. Because music cannot be judged in a short period of time, the act of continuing to play it has meaning in itself.
+この用途において重要なのは、音楽が感情を誘導しないことである。感情の起伏は、意識を前景化させてしまう。
 
 ---
 
-## 12. Complementary relationship with the first part
+## 8. 夜間リスニング文化
 
-While the first part dealt with acoustic structure and history, this article focuses on practice and usage. Although both are independent, they share the same design philosophy.
+Ambient Techno / Deep Ambient は、夜間のリスニング文化と強く結びついてきた。視覚情報が減少する時間帯では、音響の空間性が相対的に増幅される。
+
+夜間再生を前提とした作品では、高域は抑制され、低域と中低域が長時間持続する構成が選ばれることが多い。
 
 ---
 
-## 13. Chronology
+## 9. フィールド性の再解釈
+
+深海系アンビエントは、自然音を直接使用しなくとも、フィールドレコーディング的感覚を内包する。重要なのは音源ではなく、空間の想像力である。
+
+人工音であっても、距離感、反射、遮蔽が設計されていれば、聴取者は実在しない環境を現実の空間として受け取る。
+
+---
+
+## 10. リスナーの主体性
+
+この種の音楽において、リスナーは受動的存在ではない。どの程度注意を向けるか、どのタイミングで音楽を背景化するかは、常にリスナーに委ねられている。
+
+Ambient Techno / Deep Ambient は、聴取の強度を強制しないという点で、極めて民主的な音楽である。
+
+---
+
+## 11. デジタル時代の持続
+
+ストリーミング環境では、音楽は容易にスキップされる。しかし深海系アンビエントは、この即時性に抵抗する。短時間で判断できない音楽であるがゆえに、再生し続ける行為自体が意味を持つ。
+
+---
+
+## 12. 前編との補完関係
+
+前編が音響構造と歴史を扱ったのに対し、本稿は実践と使用法に焦点を当てた。両者は独立しつつも、同一の設計思想を共有している。
+
+---
+
+## 13. 年表
 
 * 1990s: Popularization of long-form ambient works
-* 2000s: Diversification of personal listening environments
-* 2010s: Establishment of regeneration for work and sleep
-* 2020s: Re-evaluation as environmental music
+* 2000年代：個人リスニング環境の多様化
+* 2010年代：作業用・睡眠用再生の定着
+* 2020年代：環境音楽としての再評価
 
 ---
 
-## 14. Structure diagram
+## 14. 構造図
 
 <div class="mermaid">
 graph TD
-A[the work] --> B[playback environment]
-B --> C[listening condition]
-C --> D[change in consciousness]
+A[作品] --> B[再生環境]
+B --> C[聴取状態]
+C --> D[意識の変化]
 </div>
 
 ---
 
-## 16. Summary
+## 16. 総括
 
-Ambient Techno / Deep Ambient redefines the act of listening to music. Deep-sea acoustics is the optimized format for this and will continue to expand with applications.
+Ambient Techno / Deep Ambient は、音楽を聴くという行為を再定義する。深海的音響は、そのための最適化された形式であり、今後も用途とともに拡張され続けるだろう。
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6TgYdAvwvgQ?si=mfpInhw1rOR7ih-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -20,7 +20,7 @@ title: '[Column] RE/Search: Magazines that record subcultures and their cultural
 Text: mmr｜Theme: About "RE/Search", a historical archive of subcultures and a cultural heritage that cross-sectionally records music, movies, and art
 
 
-V. Vale is a publisher and editor based in San Francisco since the late 1970s. His works Search & Destroy and RE/Search became important archives that systematically recorded underground culture.
+V. Valeは、1970年代後半から現在に至るまでサンフランシスコを拠点に活動する出版・編集者です。彼が手がけた『Search & Destroy』や『RE/Search』は、アンダーグラウンド文化を体系的に記録する重要なアーカイブとなりました。  
 In this article, we look back at the history of RE/Search by year and cover related music, movies, and art events.
 
 
@@ -41,22 +41,22 @@ color: #fff;
 
 ## Origin and development of RE/Search
 
-### Search & Destroy (1977–1979)
+### Search & Destroy（1977–1979）
 
-Founded as Punk Zine. It introduced the West Coast punk scene and later became the foundation for RE/Search.
+パンク・ジンとして創刊。西海岸のパンクシーンを紹介し、のちのRE/Searchの基盤となった。
 
 ---
 
 ### RE/Search first issue (1980–)
 
-Started in 1980. Contains interviews and reviews on the themes of industrial music and avant-garde culture.
+1980年にスタート。インダストリアル音楽やアヴァンギャルド文化をテーマにしたインタビュー、レビューを掲載。  
 His representative issues include ""Industrial Culture Handbook," ""Modern Primitives," and ""Incredibly Strange Films.''
 
 ---
 
 ### Since the 1990s
 
-Featuring body modification, cult movies, cyberpunk, and more. It has expanded beyond publishing to include events and exhibitions.
+ボディモディフィケーション、カルト映画、サイバーパンクなどを特集。出版だけでなく、イベントや展覧会にも広がりを見せた。
 
 ---
 
@@ -69,14 +69,14 @@ RE/Search is more than just a publication; it also serves as a subculture archiv
 
 ## Recommended RE/Search magazines by age group
 
-| Magazine title | Publication year | Main contents/features | Contributors | Links |
+| 雑誌タイトル | 発行年 | 主な内容・特徴 | 寄稿者 | リンク |
 |------|--------------|---------|----------------|---------------------------|------------|
 | **RE/Search #1: Industrial Culture Handbook** | 1980 | Recording the origins of industrial music | Throbbing Gristle, Cabaret Voltaire | [Amazon](https://amzn.to/4mOAmMf) |
-| **RE/Search Modern Primitives** | 1981 | Special feature on body modification culture | Fakir Musafar | [Amazon](https://amzn.to/46ygAja) |
-| **RE/Search Incredibly Strange Films** | 1983 | Special feature on B-movies and cult films | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |
+| **RE/Search Modern Primitives** | 1981 | ボディモディフィケーション文化特集 | Fakir Musafar | [Amazon](https://amzn.to/46ygAja) |
+| **RE/Search Incredibly Strange Films** | 1983 | B級映画・カルト映画特集 | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |
 | **RE/Search Industrial Culture Handbook (Revised)** | 1987 | Revised edition of Industrial Culture | SPK, Nurse With Wound | [Amazon](https://amzn.to/430Mnqx) |
 | **RE/Search J.G. Ballard** | 1988 | Science fiction writer Ballard special feature | J.G. Ballard | [Amazon](https://amzn.to/4756574) |
-| **RE/Search Industrial Culture Handbook 2000 Edition** | 2000 | Noise/Rethinking Industrial Culture | Coil, Merzbow | [Amazon](https://amzn.to/48KwgkG) |
+| **RE/Search Industrial Culture Handbook 2000 Edition** | 2000 | ノイズ／インダストリアル文化の再考 | Coil, Merzbow | [Amazon](https://amzn.to/48KwgkG) |
 
 ---
 
@@ -88,17 +88,17 @@ RE/Search is more than just a publication; it also serves as a subculture archiv
 | 1980 | Industrial Music Night | Events | Live Series in San Francisco. Documents the early days of industrial culture. | RE/Search Archive |
 | 1981 | *Red Mecca* | Music | Cabaret Voltaire's masterpiece. Reflecting urban anxiety and the atmosphere of the Cold War era. | [Amazon](https://amzn.to/42U9djx) |
 | 1981 | *Pink Flamingos* | Movie | Cult film by John Waters. A symbol of subculture. | [Amazon](https://amzn.to/46QdBS2) |
-| 1983 | *Scatology* | Music | Coil's early experimental work. A fusion of ritual and noise aesthetics. | [Amazon](https://amzn.to/42jkIB8) |
-| 1983 | *Liquid Sky* | Movie | A cult science fiction film depicting New York's drug culture. Resonates with the RE/Search worldview. | [Amazon](https://amzn.to/3IPyDbj) |
-| 1987 | *Leichenschrei* | Music | The pinnacle of noise industrial music by SPK. | [Amazon](https://amzn.to/46QdYMq) |
+| 1983 | *Scatology* | 音楽 | Coilの初期実験作。儀式性とノイズ美学が融合。 | [Amazon](https://amzn.to/42jkIB8) |
+| 1983 | *Liquid Sky* | 映画 | NYのドラッグカルチャーを描いたカルトSF。RE/Search的世界観と共鳴。 | [Amazon](https://amzn.to/3IPyDbj) |
+| 1987 | *Leichenschrei* | 音楽 | SPKによるノイズ・インダストリアルの頂点。 | [Amazon](https://amzn.to/46QdYMq) |
 | 1987 | *Begotten* | Movie | Silent, monochrome experimental film. Mythical and decadent visual beauty. | [Amazon](https://amzn.to/46IZMEU) |
 | 1988 | *Homotopy to Marie* | Music | Nurse With Wound's masterpiece. Connecting avant-garde music and contemporary art. | [Amazon](https://amzn.to/4h09g3q) |
 | 1988 | *Videodrome* | Movie | Directed by Cronenberg. A cult work depicting the fusion of the body and media. | [Amazon](https://amzn.to/46NeieD) |
 | 1991 | *Queen of Siam* | Music | Post-punk solo by Lydia Lunch. Contains radical social criticism. | [Amazon](https://amzn.to/46PFkSP) |
 | 1991 | *Tetsuo: The Iron Man* | Movie | A Japanese cult film directed by Shinya Tsukamoto. The theme is body modification and urban anxiety. | [Amazon](https://amzn.to/4nSA47G) |
-| 1996 | *The Audacity of Hype* | Music | Political punk work by Jello Biafra. | [Amazon](https://amzn.to/430M5zX) |
+| 1996 | *The Audacity of Hype* | 音楽 | Jello Biafraによる政治的パンク作品。 | [Amazon](https://amzn.to/430M5zX) |
 | 1996 | *Tetsuo II* | Movie | Sequel to "Tetsuo". Further exploring the boundaries between body and machine. | [Amazon](https://amzn.to/4nyMMsI) |
-| 2000 | *Pulse Demon* | Music | Merzbow's masterpiece in the history of noise. An overwhelming sound experiment. | [Amazon](https://amzn.to/4nAbmcG) |
+| 2000 | *Pulse Demon* | 音楽 | Merzbowによるノイズ史に残る傑作。圧倒的な音響実験。 | [Amazon](https://amzn.to/4nAbmcG) |
 | 2000 | *Ghost in the Shell* | Movie | Animated film directed by Mamoru Oshii. A philosophical story of cyborgs and AI. | [Amazon](https://amzn.to/3WkaXiq) |
 
 
@@ -106,7 +106,7 @@ RE/Search is more than just a publication; it also serves as a subculture archiv
 
 ### RE/Search anecdotes and inside stories
 
-There are many anecdotes about RE/Search's publishing activities. Typical examples are listed below.
+RE/Searchの出版活動には数々の逸話が存在する。以下に代表的なものを挙げる。
 
 - **Birth of Search & Destroy**
 While working at San Francisco's City Lights bookstore, Vale founded Search & Destroy with help from Lawrence Ferlinghetti and Allen Ginsberg. The aim was to convey the energy of the punk scene.
@@ -117,24 +117,24 @@ Direct interviews with Throbbing Gristle and Cabaret Voltaire by phone and mail.
 - **Shock created by Modern Primitives**
 Introducing body modification as "art". He elevated piercing and tattoo culture from taboo to culture. This directly led to later art events and performances.
 
-- **Collaboration with John Waters**
-John Waters provided many materials during the production of Incredibly Strange Films. ""Vale was the only place that treated my films as having cultural value,'' he recalled.
+- **John Watersとの協力関係**  
+  『Incredibly Strange Films』制作時、ジョン・ウォーターズが多くの資料を提供。「Valeだけが私の映画を文化的価値として扱ってくれた」と述懐。
 
 - **Ballard special feature and subculture literature**
-In 1988, he traveled to London to interview J.G. Ballard in person. Ballard said, ""I never thought that the people who would read my novels would be the punk generation.''
+  1988年のJ.G. Ballard特集ではロンドンに渡航し直接インタビュー。Ballardは「自分の小説を読むのがパンク世代だとは思わなかった」と発言。
 
 - **Funding difficulties and the continuation of zine culture**
-Although circulation was small, readers spread all over the world, and Vale said, ""A passionate readership is more important than mass circulation.''
+  発行部数は少なかったが、読者は世界中に広がり、Valeは「大量発行よりも熱狂的な読者が大事」と語った。
 
-- **Resonance with San Francisco**
+- **サンフランシスコとの共振**  
 Experimental groups such as Survival Research Laboratories and Other Cinema gathered around RE/Search, building a network of zines and art.
 
 ---
 
 ### summary
 
-V. Vale's RE/Search is more than just a magazine; it is a historical archive of subculture, and a cultural heritage that cross-cuts music, film, and art. From industrial to modern primitives, cult films to cyberpunk, he continues to explore a wide range of fields, and his influence continues to be felt all over the world.
-For researchers and underground culture enthusiasts, RE/Search is a must-read.
+V. ValeのRE/Searchは、単なる雑誌を超えてサブカルチャーの歴史的アーカイブであり、音楽・映画・アートを横断的に記録した文化的遺産です。インダストリアルからモダンプリミティブ、カルト映画からサイバーパンクに至るまで、幅広い領域を探求し続けており、その影響は今なお世界中に波及しています。
+研究者やアンダーグラウンド文化愛好者にとって、RE/Searchは必読の資料といえるでしょう。
 
 ---
 

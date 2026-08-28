@@ -10,33 +10,33 @@ tags:
 - Techno
 - Break Beat
 - Hard Techno
-title: Quadrophonia－未來的浪潮
+title: Quadrophonia – The Wave Of The Future
 ---
 
 
-Quadrophonia 是荷蘭 DJ Lucien Foort 和比利時 DJ Olivier Abbeloos 的一個項目。
+Quadrophonia（クアドロフォニア）は、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。
 
-《The Wave Of The Future》是一首 1991 年發行的碎拍硬蕊科技歌曲。
+「The Wave Of The Future」は1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
 
-A 面的第二首曲目是 Mark Ryder (DJ Ryder) 的混音版。
+A面2曲目はMark Ryder(DJ Ryder)によるremix。
 
-奧利維爾·阿貝盧斯 (Olivier Abbeloos) 1969 年 1 月 18 日出生於比利時阿爾斯特。
+Olivier Abbeloosは、1969年1月18日、ベルギーのアールストで生まれました。
 
-他從小就對音樂感興趣，13 歲時，父母給了他一套 DJ 設備，他開始打碟。 17 歲時，他開始自己製作音樂，使用兩台錄音機創作大型混音。
+幼少期から音楽に興味を持ち、13歳の時に両親からDJセットをもらい、DJを始めて、17歳になると2台のトラックレコーダーを使ってメガミックスを作成するなど、独学で音楽制作を始めました。
 
-他的第一個項目是 L&O 的“Even Now”，但他的名字沒有出現在製作人員名單中，隨後他與帕特里克·德·梅耶 (Patrick de Mayer) 共同創作了他的第一個合作項目《The Beat Machine》。
+彼の最初のプロジェクトは、L&Oの"Even Now"でしたが、クレジットには名前が載っておらず、その後、パトリック・デ・マイヤーと最初の共同プロジェクトであるThe Beat Machine を結成しました。
 
-他的名字因他與 Lucien Foott 的二人組 Quadroonia 而廣為人知。
+彼の名を広く知らしめたのは、Lucien Foortとのデュオ、クアドロフォニアです。
 
-同時，T99最初是Patrick De Meyer的個人項目，在發行了三張專輯後，Patrick De Meyer聽說Olivier Abbeloos正在創作一首名為“Anastasia”的歌曲，並建議他們以T99的名義發行它。
+一方、T99 は当初、Patrick De Meyerのソロプロジェクトとして活動し、3作品をリリースした後、Olivier Abbeloosが "Anasthasia" という楽曲を制作しているのを聞いたPatrick De Meyerは、T99 名義でリリースすることを提案します。
 
-Olivier Abbeloos 同意了，T99 開始以二人組的形式工作。
+Olivier Abbeloosは了承し、以降T99はデュオとして活動するようになりました。
 
-兩人後來發行了他們唯一的專輯《Children Of Chaos》。
+2人は後に唯一のアルバム "Children Of Chaos" をリリースしています。
 
-順便說一句，阿布里洛斯的妹夫是奧利維爾彼得斯 (Olivier Pieters)，他也在唱片店 Target Records 的進口部門工作。
+余談ですが、アブリーロスの義理の兄弟はOlivier Pietersであり、レコードショップ「ターゲット・レコーズ」の輸入部門でも働いていました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. The Wave Of The Future (Large Mix)
 
@@ -49,7 +49,7 @@ B2. The Wave Of The Future (Medium Mix)
 B3. The Wave Of The Future (Small Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,18 +11,18 @@ tags:
 - World
 - Country
 - 80s
-title: 蘭迪·特拉維斯——生命的風暴
+title: Randy Travis – Storms Of Life
 ---
 
 
-蘭迪·特拉維斯 (Randy Travis) 是一位美國鄉村歌手兼演員，自 1979 年以來一直活躍。
+Randy Travis(ランディ・トラヴィス)は、1979年から活動するアメリカのカントリー歌手、俳優。
 
-他們的首張錄音室專輯《Storms of Life》於 1986 年發行，取得了巨大的商業成功，並使他們聲名大噪。它已被認證為三白金唱片。
+1986年にリリースされたデビュースタジオアルバム「Storms Of Life」は、商業的に大成功を収め、このアルバムで一躍有名になった。トリプルプラチナディスクに認定されている。
 
-蘭迪·特拉維斯（Randy Travis）與瑞芭·麥肯泰爾（Reba McEntire）、喬治·斯特雷特（George Strait）、托比·基思（Toby Keith）等人一起被譽為對新傳統國家發展做出貢獻的人之一。
+Randy Travisは、リーバ・マッキンタイア, ジョージ・ストレイト, トビー・キース等と並びネオトラディショナルカントリーの発展に貢献した一人として知られている。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. On The Other Hand
 A2. The Storms Of Life
@@ -37,7 +37,7 @@ B4. Reasons I Cheat
 B5. There'll Always Be A Honky Tonk Somewhere
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syhTjuxqpVA?si=Xcy3uenTrKoAJG3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

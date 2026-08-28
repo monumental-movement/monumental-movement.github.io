@@ -12,12 +12,12 @@ title: System F – Cry (Remixes)
 ---
 
 
-"System F – Cry (Remixes)"
-The first track on side A is a remix by Italian project CRW.
+「System F – Cry (Remixes)」の
+A面１曲目は、イタリアのプロジェクトCRWによるremix。
 
-The first track on the B-side is a remix by Oliver Lieb, a DJ and producer who has been active in the electronic music scene since 1988.
+B面１曲目は、1988 年からエレクトロニックミュージックシーンで活躍するDJ 兼プロデューサーOliver Lieb（オリバー リーブ）によるremix。
 
-The second track on side B is a self-club mix by Ferry Corsten, also known as System F.
+B面２曲目はSystem FことFerry Corsten（フェリー・コーステン）によるセルフ・クラブミックス 。
 
 
 #### Tracklist
@@ -31,7 +31,7 @@ B1. Cry (Oliver Lieb Remix)
 B2. Cry (Ferry Corsten Club Mix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnABU3Iqge4?si=_cU6vI92gaatWXSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

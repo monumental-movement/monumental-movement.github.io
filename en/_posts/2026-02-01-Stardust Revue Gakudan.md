@@ -31,4 +31,4 @@ title: Stardust Revue Band
 10. Candle On The Water
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m34893813565?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34893813565?afid=6142608987){: .button1}

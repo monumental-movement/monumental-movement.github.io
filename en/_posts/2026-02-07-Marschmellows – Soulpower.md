@@ -15,11 +15,11 @@ title: Marschmellows – Soulpower
 
 
 
-Marschmellows was an electronic music project based in Germany from the late 1990s to the 2000s. Their sound is a fusion of Future Jazz, Broken Beat, and downtempo, and they are known as one of the artists representing INFRACom!, a prestigious label in Frankfurt, Germany.
+Marschmellowsは、1990年代後半から2000年代にかけてドイツを拠点に活動したエレクトロニック・ミュージック・プロジェクト。フューチャー・ジャズ（Future Jazz）、ブロークン・ビーツ（Broken Beat）、ダウンテンポを融合させたサウンドが特徴で、ドイツ・フランクフルトの名門レーベルINFRACom!を代表するアーティストの一組として知られている。
 
-"Soulpower" is a House/Broken Beat/Future Jazz track released on the label INFRACom! in 1998, which is also included in the album "Rebound".
+「Soulpower」は、アルバム『Rebound』にも収録されている1998年にレーベルINFRACom!からリリースされたHouse／Broken Beat／Future Jazzトラック。
 
-B is a remix by Jazzanova, a German DJ/producer collective based in Berlin.
+Bは、ベルリンを拠点とするドイツのDJ/プロデューサー集団Jazzanova（ジャザノヴァ）によるリミックス。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ A2. Buggy
 B. Soulpower (Jazzanova Reworked Soul Power) (Extended Version)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m38935842024?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38935842024?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n34vA9xSalU?si=kWkQxtRWvbyVXa5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

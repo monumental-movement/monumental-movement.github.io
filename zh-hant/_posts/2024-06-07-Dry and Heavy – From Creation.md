@@ -10,18 +10,18 @@ tags:
 - Dub
 - Reggae
 - 00s
-title: 乾而重－從創作開始
+title: Dry & Heavy – From Creation
 ---
 
 
-Dry&Heavy 是一支日本雷鬼配音樂隊，由鼓手 Shigeki Nanao (Dry) 和貝斯手 Takeshi Akimoto (Heavy) 於 1991 年組成。
-Dry&Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 King Tubby 和 Lee Perry，他們在國內外雷鬼和配音音樂節上取得了成功。
+Dry&Heavyは、ドラマーの七尾茂基（Dry）とベーシストの秋元武志（Heavy）によって1991年に結成された日本のレゲエ・ダブバンド。
+Dry&Heavyのサウンドは、King Tubby（キング・タビー）やLee Perry （リー・ペリー）など1970年代のジャマイカ・ダブサウンドの影響を感じるスタイルで、国内外のレゲエフェスティバルやダブフェスティバルで成功を収めている。
 
-1995年，Rikuru Mai和Ao Inoue加入。 2001 年 Fuji Rock 期間，Takeshi Akimoto 離開了樂隊，Audio Active 的貝斯手 Pata 加入。 2011年，以七尾和秋元組成的原創節奏組再次開始活動。
+1995年にリクル・マイや井上青らが加入。2001年のフジロック中に秋元武志が脱退し、Audio ActiveのベーシストPataが加入。2011年からは七尾と秋本によるオリジナルのリズムチームで再度活動を開始した。
 
-《From Creation》是日本電子廠牌Beat Records於2002年發行的第五張專輯。
+「From Creation」は、2002年に日本のエレクトロニックレーベルBeat Recordsからリリースされた5枚目のアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Reverse Again
 2. New Creation
@@ -37,7 +37,7 @@ Dry&Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 King
 12. Bright Shining Star
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TD92FzAQejM?si=rXLkZB2ZDW6kS2_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

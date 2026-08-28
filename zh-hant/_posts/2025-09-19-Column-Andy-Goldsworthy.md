@@ -10,15 +10,15 @@ tags:
 - Minimal
 - Ambient
 - Field Recording
-title: 【專欄】安迪高茲沃西與音樂－圍繞著時間與大自然的藝術共鳴
+title: 【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
 ---
 
 
-## 安迪·戈茲沃西與音樂：與時間和大自然的藝術共鳴
+## Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
 
-文：mmr｜主題：Andy Goldsworthy 的作品以及環境、現場錄音和極簡音樂的聲音共鳴
+文：mmr｜テーマ：Andy Goldsworthyの作品とアンビエントやフィールド録音、ミニマル・ミュージックがもつ音の共鳴性について
 
-安迪·戈茲沃西（Andy Goldsworthy，1956 年-）是一位英國藝術家，以其使用天然材料的裝置和大地藝術而聞名。他的作品關注時間的流逝、材料的變化和自然循環等元素。他的方法與音樂有許多共同點，尤其是環境音樂、現場錄音和簡約音樂。
+アンディー・ゴールズワージー（Andy Goldsworthy, 1956-）は、自然素材を用いたインスタレーションやランド・アートで知られるイギリスのアーティスト。彼の作品は時間の流れ、素材の変化、自然の循環といった要素をテーマにしている。そのアプローチは音楽――特にアンビエントやフィールドレコーディング、ミニマル・ミュージック――と多くの共通点を持っている。
 
 ---
 
@@ -37,114 +37,114 @@ color: #fff;
 </style>
 
 
-### 高茲沃西的作品和音樂之間的共同點
+### Goldsworthyの作品と音楽の共通性
 
-|主題|高茲沃西的作品|與音樂的相似之處|
-|--------------------|----------------|----------------|
-| **時間** |作品以冰、樹葉、樹枝等融化或枯萎等變化為前提 |使用相移和循環的音樂時間感（例如 Steve Reich）|
-| **位置** |作品與其創作的自然環境密不可分|透過現場錄音捕捉「當地聲音」的音樂 |
-| **轉瞬即逝** |因風雨日曬而倒塌的作品|消失的混響和持續聲音的淡出 |
-| **循環** |強調季節和自然現象的循環|透過無人機和重複結構來感知時間的循環 |
-| **沉默** |空間與間隔的重要性|約翰凱吉與環境作品中「沉默」的存在 |
-
----
-
-### 高茲沃西的代表作品/項目
-
-- **雪球系列**：在城市中立起一個巨大的雪球，並展示它隨著時間的推移而融化。
-- **冰柱星**：一塊製成星形的冰，在日出時融化。
-- **石河（1997）**：美國史丹佛大學安裝的蜿蜒石牆。
-- **花楸葉與洞**：紅葉排列成圓圈並漂浮在水面上的作品。
-- **風暴王牆（1997-98）**：紐約風暴王藝術中心的一道長蛇形石牆。
+| テーマ | Goldsworthyの作品 | 音楽との共通点 |
+|--------|----------------|----------------|
+| **時間** | 氷、葉、枝などが溶けたり枯れたりする変化を前提にした作品 | フェーズシフトやループによる音楽的時間感覚（例：スティーヴ・ライヒ） |
+| **場所** | 作品は制作場所の自然環境と不可分 | フィールド録音による「その場の音」を取り込む音楽 |
+| **儚さ** | 風、雨、日差しによって崩壊する作品 | 消えゆく残響や持続音のフェードアウト |
+| **循環** | 季節や自然現象のサイクルを強調 | ドローンや反復構造による循環的時間感覚 |
+| **沈黙** | 空間や間合いの重要性 | ジョン・ケージやアンビエント作品における「無音」の存在 |
 
 ---
 
-### 作者：高茲沃西
+### Goldsworthyの代表的な作品・プロジェクト
 
-- [「與大自然的合作」(1990)](https://amzn.to/48qQfVp)
-- [「手到地球」（1990）]（https://amzn.to/46r497l）
-- [「石頭」（1994）]（https://amzn.to/4n83E9l）
-- [「時間」（2000）]（https://amzn.to/3VYNbs4）
-- [「木頭」（1996）]（https://amzn.to/4pwJ04e）
-- [「牆」(2000)](https://amzn.to/4mmHTBm)
-- [「拱門」(1999)](https://amzn.to/4nmEsvO)
-- [「安迪‧戈茲沃西：計畫」(2004)](https://amzn.to/3IjjtLo)
+- **Snowball Series**: 都市に巨大な雪玉を設置し、時間と共に溶けていく様子を展示。
+- **Icicle Star**: 氷片を星形に組み上げ、日の出で融解する作品。
+- **Stone River (1997)**: アメリカ・スタンフォード大学に設置された石の蛇行する壁。
+- **Rowan Leaves and Hole**: 赤い葉を円形に配置し、水面に浮かべる作品。
+- **Storm King Wall (1997–98)**: ニューヨークのストーム・キング・アートセンターにある長大な蛇行石壁。
 
 ---
 
-### 與 Goldsworthy 作品相符的音樂播放清單（按流派）
+### Goldsworthyの著書
 
-#### 周圍的
-
-- Brian Eno - *Ambient 1：機場音樂*
-- 哈羅德·巴德 - *珍珠*
-- 蓋子之星 - *以及他們對衰落的改進*
-
-#### 現場錄音
-
-- 克里斯·沃森 ― *天氣預報*
-- Jana Winderen ― *能量場*
-- 希爾德加德韋斯特坎普 - *進入迷宮*
-
-#### 最小的
-
-- Steve Reich ― *18 位音樂家的音樂*
-- 特里·萊利 - *C*
-- 菲利普·格拉斯 - *玻璃工廠*
+- [『A Collaboration with Nature』 (1990)](https://amzn.to/48qQfVp)
+- [『Hand to Earth』 (1990)](https://amzn.to/46r497l)
+- [『Stone』 (1994)](https://amzn.to/4n83E9l)
+- [『Time』 (2000)](https://amzn.to/3VYNbs4)
+- [『Wood』 (1996)](https://amzn.to/4pwJ04e)
+- [『Wall』 (2000)](https://amzn.to/4mmHTBm)
+- [『Arch』 (1999)](https://amzn.to/4nmEsvO)
+- [『Andy Goldsworthy: Projects』 (2004)](https://amzn.to/3IjjtLo)
 
 ---
 
-###  根據「時間流」組織的播放列表
+### Goldsworthy作品に合う音楽プレイリスト（ジャンル別）
+
+#### アンビエント
+
+- Brian Eno ― *Ambient 1: Music for Airports*
+- Harold Budd ― *The Pearl*
+- Stars of the Lid ― *And Their Refinement of the Decline*
+
+#### フィールド録音
+
+- Chris Watson ― *Weather Report*
+- Jana Winderen ― *Energy Field*
+- Hildegard Westerkamp ― *Into the Labyrinth*
+
+#### ミニマル
+
+- Steve Reich ― *Music for 18 Musicians*
+- Terry Riley ― *In C*
+- Philip Glass ― *Glassworks*
+
+---
+
+###  「時間の流れ」に沿った構成プレイリスト
 
 #### 朝
 
-- Brian Eno - *Ambient 1：機場音樂*
-- 克里斯·沃森 ― *河邊的早晨*
-- Steve Reich ― *18 位音樂家的音樂*
+- Brian Eno ― *Ambient 1: Music for Airports*
+- Chris Watson ― *Morning at the River*
+- Steve Reich ― *Music for 18 Musicians*
 
 #### 昼
 
-- 特里·萊利 - *C*
-- Jana Winderen ― *能量場*
-- 菲利普·格拉斯 - *玻璃工廠*
+- Terry Riley ― *In C*
+- Jana Winderen ― *Energy Field*
+- Philip Glass ― *Glassworks*
 
-#### 晚上
+#### 夕方
 
-- 哈羅德·巴德和布萊恩·伊諾 - *珍珠*
-- Hildegard Westerkamp - *Kits Beach Soundwalk*
-- 蓋子之星 - *垂死母親的安魂曲*
+- Harold Budd & Brian Eno ― *The Pearl*
+- Hildegard Westerkamp ― *Kits Beach Soundwalk*
+- Stars of the Lid ― *Requiem for Dying Mothers*
 
 #### 夜
 
-- 威廉巴辛斯基 - *崩解循環*
-- 艾利安拉迪格 - *死亡三部曲*
-- 生物圈 - *基質*
+- William Basinski ― *The Disintegration Loops*
+- Eliane Radigue ― *Trilogie de la Mort*
+- Biosphere ― *Substrata*
 
-### 季節的流動
+### 季節の流れ
 
-- 春天：坂本龍一 - *非同步*
-- 夏天：克里斯·沃森 ― *天氣預報*
-- 秋季：約翰約翰遜 - *奧菲*
-- 冬季：Alva Noto 和 Ryuichi Sakamoto - *Vrion*
+- 春：Ryuichi Sakamoto ― *Async*
+- 夏：Chris Watson ― *Weather Report*
+- 秋：Johann Johannsson ― *Orphée*
+- 冬：Alva Noto & Ryuichi Sakamoto ― *Vrioon*
 
 ---
 
 ### 結論
 
-安迪·高茲沃西 (Andy Goldsworthy) 的作品具有「一次性」的品質，會隨著時間和自然而變化和消失。他的美學與環境、現場錄音和簡約音樂的「氛圍」、「重複」和「沉默」產生強烈共鳴。透過將兩者結合起來體驗，一場跨越視覺和聽覺感官的「與自然的對話」就誕生了。
+アンディー・ゴールズワージーの作品は、時間や自然とともに変化し消えていく「一回性」を宿している。その美学は、アンビエントやフィールド録音、ミニマル・ミュージックがもつ音の「環境性」「反復」「沈黙」と強く共鳴する。両者を組み合わせて体験することで、視覚と聴覚を横断する「自然との対話」が生まれる。
 
 ---
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tb-uIGywwqc?si=Ag_bqU4OVg_fE593" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 相關專欄
+### 関連コラム
 
-[[專欄]什麼是氛圍音樂？ 「存在的聲音」而非聽到的聲音的哲學]（https://monumental-movement.jp/Column-Ambient）
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-[[專欄]氛圍：從「聽音樂」到「感受音樂」II](https://monumental-movement.jp/Column-Ambient2)
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

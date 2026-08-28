@@ -10,15 +10,15 @@ tags:
 - Trip Hop
 - Hiphop
 - 00s
-title: 道奇城製作公司 – 釋放你的愛
+title: Dodge City Productions – Unleash Your Love
 ---
 
 
-Dodge City Productions (DCP) 是由早期 Broken Beat 創新者 Ian Grant（IG Culture）和 Roger Drakes（Dodge）發起的一個項目。他們被稱為酸性爵士樂運動的負責人。
+Dodge City Productions(DCP)は、Broken Beatの初期のイノベーターIan Grant(IG Culture)とRoger Drakes(Dodge)によるプロジェクト。Acid Jazzモーブメントを担ったデュオとして知られている。
 
-《Unleash Your Love》是 Trip Hop 歌曲，於 1993 年在 Island Records 的子廠牌（舞曲廠牌）4th & Broadway 上發行。
+「Unleash Your Love」は、1993年にIsland Records のサブレーベル(ダンスレーベル) 4th & BroadwayからリリースされたTrip Hopトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Unleash Your Love (City Lick Mix)
 
@@ -26,7 +26,7 @@ B1. Unleash Your Love (Unleash A Scat Mix)
 B2. Unleash Your Love (No Strings Attached Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31544458752?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31544458752?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HntV38AhHZI?si=C3HNRD2_isBLQ0tK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ title: '[Column] Music changes depending on food and ideology—Cultural history
 # Music changes depending on food and ideology - the cultural history built by vegans and straight edges
 
 
-Text: mmr｜Theme: Tracing how the ideas of vegan, vegetarian, and straight edge artists have changed music culture and social consciousness, from hardcore to noise/avant-garde music.
+文：mmr｜テーマ：ビーガンやベジタリアン、ストレートエッジを掲げるアーティストたちの思想が、どのように音楽文化と社会意識を変えてきたのかを、ハードコアからノイズ／前衛音楽まで横断的に辿る
 
 ## Introduction
 
@@ -38,9 +38,9 @@ Although these two have different origins, they eventually intersected and forme
 
 Tracing the history of music, we see not only changes in sound, but also changes in people's values ​​and ways of living.
 
-In this article, we explore the relationship between music and ethics, expanding our horizons from the birth of straight edge to the formation of vegan hardcore, as well as noise and avant-garde music.
+本稿では、ストレートエッジの誕生からヴィーガン・ハードコアの形成、さらにはノイズや前衛音楽にまで視野を広げながら、音楽と倫理の関係を探っていく。
 
-> Music is a vessel for carrying thoughts, and those thoughts are born from the details of life.
+> 音楽は思想を運ぶ器であり、その思想は生活の細部から生まれる
 
 
 
@@ -49,7 +49,7 @@ In this article, we explore the relationship between music and ethics, expanding
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -60,7 +60,7 @@ color: #fff;
 
 ---
 
-## Social background on the eve of the birth of straight edge
+## ストレートエッジ誕生前夜の社会背景
 
 ### 1970s American youth culture
 
@@ -68,17 +68,17 @@ In the late 1970s in America, rock and punk were at the center of youth culture.
 
 At the same time, drugs and alcohol were widely accepted as symbols of rock stardom.
 
-Many iconic musicians, including Jimi Hendrix, Janis Joplin, and Jim Morrison, had their lives cut short by drugs and lifestyles of excess.
+ジミ・ヘンドリックスやジャニス・ジョプリン、ジム・モリソンなど、多くの象徴的ミュージシャンが薬物や過剰な生活によって短い生涯を終えていた。
 
 Freedom was often associated with self-destruction.
 
 However, some young people began to appear who were uncomfortable with this trend.
 
-Are "rebelling" and "destructing yourself" really the same thing?
+「反抗すること」と「自分を壊すこと」は本当に同じなのだろうか。
 
-This question led to later straight edge thinking.
+この疑問が後のストレートエッジ思想へとつながっていく。
 
-### The advent of hardcore punk
+### ハードコア・パンクの登場
 
 From the late 1970s to the early 1980s, punk evolved into more extreme forms.
 
@@ -116,7 +116,7 @@ The term "straight edge" spread through live houses, fanzines, and cassette tape
 
 <div class="mermaid">
 graph TD
-A[Minor Threat songs] --> B[empathy of young people]
+A[Minor Threat songs] --> B[若者の共感]
 B --> C[straight edge culture]
 C --> D[Spread to the hardcore scene]
 D --> E[Ethical lifestyle]
@@ -126,23 +126,23 @@ Straight Edge was not a political party or a religion.
 
 It was not a theory created by someone, but a culture that grew from the empathy of young people.
 
-> Straight edge was not an engineered idea, but a culture expanded by resonance.
+> ストレートエッジは設計された思想ではなく、共鳴によって拡張された文化だった
 
 ---
 
-## Straight edge perversion in the hardcore scene
+## ハードコアシーンでのストレートエッジの変質
 
-### Birth of the X symbol
+### Xシンボルの誕生
 
 The symbol "X" symbolizes straight edge culture.
 
-An X was written on the back of his hand to prevent minors from ordering alcohol at live music venues.
+ライブハウスでは未成年者が酒を注文できないよう、手の甲にX印を書かれていた。
 
 Eventually, young people accept it as a matter of pride.
 
-The mark of rejection has transformed into identity.
+拒否の印がアイデンティティへ変化したのである。
 
-### Role of Youth of Today
+### Youth of Todayの役割
 
 In the late 1980s, Youth of Today further developed straight edge ideas.
 
@@ -156,23 +156,23 @@ Straight edge has become less of a music genre and more of a lifestyle.
 
 It was both a philosophy of self-control and a critique of society.
 
-> Straight Edge has transcended a music genre and has been redefined as a lifestyle ethic.
+> ストレートエッジは音楽ジャンルを超え、生活倫理として再定義された
 
 ---
 
-## Earth Crisis and Vegan Straight Edge
+## Earth Crisisとヴィーガン・ストレートエッジ
 
-### Turning point in the 1990s
+### 1990年代の転換点
 
-In the 1990s, Earth Crisis appears.
+1990年代、Earth Crisisが登場する。
 
 They strongly advocated veganism, animal liberation, and environmental protection.
 
-### Combining music and activism
+### 音楽と行動主義の融合
 
-What set Earth Crisis apart was the perfect sync between music and action.
+Earth Crisisの特徴は、音楽と行動が完全に一致していたことだった。
 
-Lyrics were not just emotional expressions, but concrete action guidelines.
+歌詞は単なる感情表現ではなく具体的な行動指針だった。
 
 Even eating habits and consumption behavior were talked about as part of music culture.
 
@@ -180,19 +180,19 @@ Even eating habits and consumption behavior were talked about as part of music c
 
 During this period, straight edge moves to a new stage.
 
-In addition to abstinence from alcohol and drugs, veganism became an important factor.
+禁酒・禁薬に加え、完全菜食主義が重要な要素となった。
 
 > Hardcore has become both music and a place for ethical practice.
 
 ---
 
-## Historical background of vegetarian music
+## Musical historical background of vegetarianism
 
 Veganism and vegetarianism didn't start out as hardcore.
 
-Its origins lie in the counterculture of the 1960s.
+その源流には1960年代のカウンターカルチャーがある。
 
-Oriental thought, the environmental movement, and the idea of ​​returning to nature have influenced many musicians.
+東洋思想、環境運動、自然回帰思想は多くのミュージシャンへ影響を与えた。
 
 The idea of ​​harmony between body and mind also permeated musical culture.
 
@@ -208,7 +208,7 @@ He has been advocating for animal welfare for many years.
 
 Their activities have had an impact not only on music fans but also on society in general.
 
-This is a prime example of the natural connection between music and an ethical message.
+This is a prime example of how music and ethical messages are naturally linked.
 
 ---
 
@@ -216,11 +216,11 @@ This is a prime example of the natural connection between music and an ethical m
 
 Morrissey is also known as an animal rights activist.
 
-He has expressed his criticism of the meat industry and the use of animals through his music.
+彼は音楽を通じて食肉産業や動物利用への批判を表現してきた。
 
 His statements were often controversial.
 
-However, the controversy itself made visible the relationship between music and ethics.
+しかしその論争自体が、音楽と倫理の関係を可視化することになった。
 
 > Music can be a device for social dialogue
 
@@ -230,29 +230,29 @@ However, the controversy itself made visible the relationship between music and 
 
 In the 21st century, veganism has become a popular part of youth culture.
 
-Billie Eilish is a symbol of this.
+Billie Eilishはその象徴的存在である。
 
 In the age of social media, artists' lives themselves are becoming visible.
 
-倫理的選択は作品の外側ではなく表現の一部になった。
+Ethical choices became part of the expression rather than external to the work.
 
 ---
 
 ## Thoughts that cross genres
 
-ヴィーガニズムやストレートエッジはハードコアを超えて広がった。
+Veganism and straight edge have spread beyond hardcore.
 
 Metal, hip hop, pop, electronic music.
 
 Even though the genres are different, they now share a common awareness of issues related to the body and ethics.
 
-Ideas that were once a subculture have permeated general culture.
+かつてサブカルチャーだった思想は一般文化へ浸透していった。
 
 ---
 
-## Japanese noise music and physicality
+## 日本のノイズ音楽と身体性
 
-ここで視点を日本へ移そう。
+Let's now shift our perspective to Japan.
 
 In Japanese avant-garde music, there are performers who have continued to question the body and ethics in a way different from straight edge or veganism.
 
@@ -260,7 +260,7 @@ In Japanese avant-garde music, there are performers who have continued to questi
 
 ## Merzbow and sound as non-consumption
 
-Masami Akita, also known as Merzbow, is a global symbol of noise music.
+Merzbowこと秋田昌美は世界的なノイズミュージックの象徴である。
 
 He has long expressed support for animal rights and veganism.
 
@@ -268,21 +268,21 @@ He has long expressed support for animal rights and veganism.
 
 The music rejects hedonistic consumption.
 
-Saturated noise burdens the listener and separates music from mere entertainment.
+飽和したノイズは聴く者に負荷を与え、音楽を単なる娯楽から切り離す。
 
-> The sound itself that cannot be consumed becomes an ethics.
+> 消費できない音そのものが倫理になる
 
 Just as straight edge rejected alcohol and drugs, you could say that Merzbow rejected the comfort of consuming music.
 
 ---
 
-## Keiji Haino and the limits of the body
+## 灰野敬二と身体の極限
 
 Keiji Haino is a representative of Japanese avant-garde music.
 
-There are no clear political slogans in his improvisations.
+彼の即興演奏には明確な政治的スローガンは存在しない。
 
-However, the performance itself is an act of exploring the limits of the body.
+しかし演奏そのものが身体の限界を探る行為となっている。
 
 Voices, silence, noise.
 
@@ -302,11 +302,11 @@ They expressed the violence and controlled society of society through sound.
 
 Noise was not entertainment but a tool for social criticism.
 
-This trend later evolved into industrial, noise, and power electronics.
+This trend later developed into industrial, noise, and power electronics.
 
 ---
 
-## Power electronics and exposure ethics
+## パワーエレクトロニクスと露出の倫理
 
 If straight edge is an ""ethics of refusal," power electronics can be said to be an ""ethics of exposure."
 
@@ -320,10 +320,10 @@ Music is not a source of pleasure, but a device for confronting reality.
 
 <div class="mermaid">
 flowchart TD
-A[musical expression] --> B[physical practice]
-B --> C[eating habits]
+A[musical expression] --> B[身体的実践]
+B --> C[食生活]
 C --> D[ethics]
-D --> E[cultural formation]
+D --> E[culture formation]
 E --> F[Passing on to the next generation]
 
 B --> G[Noise expression]
@@ -333,12 +333,12 @@ H --> E
 
 ---
 
-## Chronology
+## 年表
 
-| Years | Events |
+| 年代 | 出来事 |
 |--------|-------|
-| 1960s | Counterculture and expansion of vegetarianism |
-| 1970s | Birth of punk and hardcore |
+| 1960年代 | カウンターカルチャーと菜食主義の拡大 |
+| 1970年代 | パンクとハードコア誕生 |
 | 1981 | Minor Threat "Straight Edge" announced |
 | Late 1980s | Thought expansion by Youth of Today |
 | 1990s | Earth Crisis clarifies vegan ideology |
@@ -346,7 +346,7 @@ H --> E
 | Since the 1990s | Merzbow leads the global noise scene |
 | 2000s | Strengthening the connection between animal welfare and music culture |
 | 2010s | Accelerating sharing of values ​​through SNS |
-| 2020年代 | ヴィーガニズムの一般化 |
+| 2020s | Popularization of veganism |
 
 ---
 
@@ -354,7 +354,7 @@ H --> E
 
 Straight edge and veganism aren't just fringe cultures around music.
 
-These were practices that connected music and life.
+それらは音楽と生活を結びつける実践だった。
 
 On the other hand, avant-garde musicians such as Merzbow and Keiji Haino proposed a different form of ethics by questioning the body itself.
 
@@ -366,12 +366,21 @@ However, there are underlying similarities between the two.
 
 This is his attitude of not separating his way of life from his music.
 
-Music is not just sound.
+音楽は音だけではない。
 
-There is a body, a life, and a thought.
+そこには身体があり、生活があり、思想がある。
 
-And the accumulation of these becomes a culture.
+そしてその積み重ねが文化になる。
 
 > The history of music is not only the history of sound, but also the history of way of life.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YW5IvLPqjiI?si=M-neNq9NKKP7BXYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

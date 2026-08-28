@@ -10,42 +10,42 @@ tags:
 - Streaming
 - Algorithm
 - Culture
-title: '[Column] Music history rewritten by algorithms'
+title: 【コラム】 アルゴリズムが書き換える音楽史
 ---
 
 
 
-## Music history has been rewritten by "technology"
+## 音楽史は「技術」によって書き換えられてきた
 
-Text: mmr｜Theme: Unraveling how algorithms have changed the structure of music hits and the history of genres
+文：mmr｜テーマ：アルゴリズムが音楽のヒット構造とジャンルの歴史をどのように変えたのかを解き明かす
 
 
-Looking back at the history of music, the mechanics of a hit have always changed due to technology.
+音楽史を振り返ると、ヒットの仕組みは常に技術によって変化してきた。
 
-Radio was the first major medium to bring music into homes in the early 20th century.
-After that, the recording industry distributed music as a product around the world.
-With the advent of MTV in the 1980s, music transformed into a pop culture that was linked to images.
+ラジオは20世紀初頭に音楽を家庭へ届けた最初の巨大メディアだった。
+その後、レコード産業は音楽を商品として世界中に流通させた。
+1980年代にはMTVが登場し、音楽は映像と結びついたポップ文化へと変化した。
 
-However, in the 21st century, the distribution structure of music has changed even more.
-That's streaming and algorithms.
+しかし21世紀に入り、音楽の流通構造はさらに大きく変わる。
+それがストリーミングとアルゴリズムである。
 
-On distribution services such as Spotify and YouTube,
-The program recommends songs, not a human DJ.
+SpotifyやYouTubeなどの配信サービスでは、
+人間のDJではなくプログラムが楽曲を推薦する。
 
-This change is not just a technological innovation.
+この変化は単なる技術革新ではない。
 
-The algorithm is
+アルゴリズムは
 
-・What will be a hit?
-・What genre will be created?
-・Which song will go down in history?
+・何がヒットするのか
+・どのジャンルが生まれるのか
+・どの曲が歴史に残るのか
 
-It is beginning to have an impact on the history of music itself.
+という「音楽史そのもの」に影響を与え始めている。
 
-Music history used to be shaped by record companies, radio stations, and critics.
-But right now, algorithms are at the center of it all.
+かつて音楽史はレコード会社、ラジオ局、評論家によって形作られていた。
+しかし現在、その中心にいるのはアルゴリズムである。
 
-> The new editors of music history are not record companies but algorithms.
+> 音楽史の新しい編集者は、レコード会社ではなくアルゴリズムになった。
 
 ---
 
@@ -54,7 +54,7 @@ But right now, algorithms are at the center of it all.
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -64,288 +64,288 @@ color: #fff;
 
 
 
-## Music discovery before streaming
+## ストリーミング以前の音楽発見
 
-Before algorithms, there were very limited ways to discover music.
+アルゴリズムが登場する前、音楽を発見する方法は非常に限られていた。
 
-The following three are typical.
+代表的なものは次の3つである。
 
-1. Radio
-2. Music magazine
-3. Record shop
+1. ラジオ
+2. 音楽雑誌
+3. レコードショップ
 
-Radio DJs were the cultural gatekeepers to new music.
-For example, in the United States, rock and roll in the 1950s,
-In the UK, broadcasts such as BBC Radio 1 determined music trends.
+ラジオDJは新しい音楽を紹介する文化的ゲートキーパーだった。
+例えばアメリカでは1950年代のロックンロール、
+イギリスではBBC Radio 1などが音楽の流行を決定づけた。
 
-Record shops were also important places of discovery.
-Staff recommendations, listening equipment, jacket design, etc.
-It stimulated listeners' curiosity.
+また、レコードショップも重要な発見の場所だった。
+店員の推薦、試聴機、ジャケットデザインなどが
+リスナーの好奇心を刺激した。
 
-CD sales reached their peak in the 1990s,
-The music market becomes a huge industry.
+1990年代にはCD販売がピークを迎え、
+音楽市場は巨大産業となる。
 
-However, there were major constraints on music discovery during this period.
+しかしこの時代の音楽発見には大きな制約があった。
 
-- Physical distribution
-- Regional differences
-- Media exposure
+- 物理的流通
+- 地域差
+- メディア露出
 
-In other words, much of the world's music
-""I didn't even have a chance to be heard in the first place.''
+つまり、世界の音楽の多くは
+「そもそも聴かれる機会すらなかった」のである。
 
-The advent of the Internet suddenly broke down this restriction.
+インターネットの登場は、この制約を一気に崩した。
 
->Digitalization has made it possible for music to exist infinitely, but humans cannot search for it all.
+> デジタル化によって音楽は無限に存在できるようになったが、人間はそのすべてを探すことができない。
 
 ---
 
 
-## A new DJ called Algorithm
+## アルゴリズムという新しいDJ
 
-In the late 2000s, music distribution services rapidly became popular.
+2000年代後半、音楽配信サービスは急速に普及した。
 
-Of particular importance is the streaming recommendation system.
+特に重要なのがストリーミングの推薦システムである。
 
-The algorithm mainly uses the following data.
+アルゴリズムは主に以下のデータを利用する。
 
-- Play history
-- Skip rate
-- Number of saves
-- Add playlist
-- User similarity
+- 再生履歴
+- スキップ率
+- 保存数
+- プレイリスト追加
+- ユーザーの類似性
 
-Analyze this data and
-Recommend different songs for each user.
+このデータを分析し、
+ユーザーごとに異なる楽曲を推薦する。
 
-A typical example is Spotify's Discover Weekly.
-This feature, introduced in 2015,
-Generate a new playlist every week for each user.
+代表的な例がSpotifyのDiscover Weeklyである。
+2015年に導入されたこの機能は、
+ユーザーごとに毎週新しいプレイリストを生成する。
 
-As a result, many artists
-without appearing on radio or television
-It has gained a worldwide audience.
+その結果、多くのアーティストが
+ラジオやテレビに出演することなく
+世界的なリスナーを獲得するようになった。
 
-YouTube's recommendation system is equally important.
-By presenting videos one after another based on the playback history,
-The amount of time spent consuming music has increased significantly.
+YouTubeの推薦システムも同様に重要である。
+再生履歴を基に動画を次々と提示することで、
+音楽の消費時間を大きく伸ばした。
 
-The algorithm is
-It's not just about helping people find music.
+アルゴリズムは
+単に音楽を探す手助けをするだけではない。
 
-The listener's musical experience itself
+リスナーの音楽体験そのものを
 It's being redesigned.
 
-> Today's listeners do not "search" for music, but are "recommended" to it.
+> 現代のリスナーは音楽を「探す」のではなく「推薦される」。
 
 ---
 
 
-## Hit songs created by algorithms
+## アルゴリズムが作るヒット曲
 
-The algorithm also changed the structure of the hits.
+アルゴリズムはヒットの構造も変えた。
 
-Traditional hits are
-The decision was based on radio frequency, CD sales, and chart ranking.
+従来のヒットは
+ラジオ回数、CD売上、チャート順位によって決まった。
 
-But in streaming
-The number of views is the main focus.
+しかしストリーミングでは
+再生回数が中心となる。
 
-Due to this change, even the way music was created changed.
+この変化により、楽曲の作り方まで変わった。
 
-Hit songs in the streaming era have their own characteristics.
+ストリーミング時代のヒット曲には特徴がある。
 
-- short intro
-- Impressive hook in the first 30 seconds
-- Repeating structure
-- short songs
+- イントロが短い
+- 最初の30秒で印象的なフック
+- 繰り返し構造
+- 短い楽曲
 
 This has to do with how streaming is measured.
 
-in many services
-If it is played for about 30 seconds or more
-Counted as 1 stream.
+多くのサービスでは
+約30秒以上再生されると
+1ストリームとしてカウントされる。
 
-Therefore, the artist
-before listener skips
-It is necessary to present the appeal of the music.
+そのため、アーティストは
+リスナーがスキップする前に
+楽曲の魅力を提示する必要がある。
 
-Furthermore, the influence of playlist culture is also significant.
+さらにプレイリスト文化の影響も大きい。
 
-The listener is not the album
-I started listening to music in playlists.
+リスナーはアルバムではなく
+プレイリスト単位で音楽を聴くようになった。
 
-As a result,
-Songs need to work on their own.
+結果として、
+曲は単独で機能する必要がある。
 
-The algorithm is
-The song structure itself is starting to change.
+アルゴリズムは
+楽曲構造そのものを変え始めている。
 
-> In the streaming era, hits are optimized for data, not radio.
+> ストリーミング時代のヒットは、ラジオではなくデータに最適化されている。
 
 ---
 
 
-## Playlist is now the new radio
+## プレイリストが新しいラジオになった
 
-The biggest feature of the algorithm era is
-It's a playlist culture.
+アルゴリズム時代の最大の特徴は
+プレイリスト文化である。
 
-On Spotify and Apple Music
-Official playlists have huge influence.
+SpotifyやApple Musicでは
+公式プレイリストが巨大な影響力を持つ。
 
-Typical playlists include the following:
+代表的なものには次のようなプレイリストがある。
 
 - RapCaviar
 - Today's Top Hits
 - Lo-Fi Beats
 
-These playlists are
-Has tens of millions of followers.
+これらのプレイリストは
+数千万のフォロワーを持つ。
 
-In other words,
-Posting one playlist
-Sometimes it becomes a worldwide hit.
+つまり、
+一つのプレイリスト掲載が
+世界的ヒットにつながることもある。
 
-Features of playlists
-This point is based on "mood" rather than genre.
+プレイリストの特徴は
+ジャンルよりも「ムード」に基づく点である。
 
-example
+例
 
 - Chill
--Focus
--Workout
+- Focus
+- Workout
 - Sleep
 
-music is not a genre
-It became the soundtrack for life scenes.
+音楽はジャンルではなく
+生活シーンのサウンドトラックになった。
 
-This is a major change in music history.
+これは音楽史の中でも大きな変化である。
 
-Genres once created cultural communities.
-Examples include punk, hip-hop, and techno.
+かつてジャンルは文化コミュニティを作った。
+パンク、ヒップホップ、テクノなどがその例だ。
 
-But now,
-Many listeners are not conscious of genre
-listening to music.
+しかし現在、
+多くのリスナーはジャンルを意識せずに
+音楽を聴いている。
 
-> The playlist has been rearranged with music centered around "life" rather than genre.
+> プレイリストはジャンルではなく「生活」を中心に音楽を再編した。
 
 ---
 
 
-## New genres are born from algorithms
+## 新しいジャンルはアルゴリズムから生まれる
 
-The algorithm is
-It also influences the formation of genres.
+アルゴリズムは
+ジャンル形成にも影響を与えている。
 
-for example
+例えば
 
 - Lo-fi Hip Hop
 - Phonk
 - Drift Phonk
--Hyperpop
+- Hyperpop
 
-Genres such as
-Proliferated within internet culture and algorithms.
+などのジャンルは
+インターネット文化とアルゴリズムの中で拡散した。
 
-Especially lo-fi hip hop
-This is a typical example of how it spread through YouTube distribution.
+特にLo-fi Hip Hopは
+YouTube配信によって広まった代表例である。
 
-Music optimized for studying and working
-Good compatibility with algorithms.
+勉強用、作業用という用途に最適化された音楽は
+アルゴリズムと相性が良い。
 
-long playback time,
-This is because it is difficult for listeners to skip.
+再生時間が長く、
+リスナーがスキップしにくいためである。
 
-TikTok has also become a new genre of spreading device.
+TikTokも新しいジャンルの拡散装置となっている。
 
-Songs used in short videos
-It instantly becomes a worldwide hit.
+短い動画に使われた楽曲が
+瞬時に世界的ヒットになる。
 
-This phenomenon is
-What is record company marketing?
-Go at different speeds.
+この現象は
+レコード会社のマーケティングとは
+異なるスピードで進む。
 
-in internet culture
-Music genres are born and evolve.
+インターネット文化の中で
+音楽ジャンルが誕生し、進化していく。
 
-> Modern genres are born in algorithms, not clubs.
-
----
-
-
-## Problems with the algorithm
-
-Algorithms have problems as well as advantages.
-
-The typical ones are
-
-- filter bubble
-- Music homogenization
-- Dependence on large platforms
-
-What is a filter bubble?
-This is a phenomenon where only similar music is recommended.
-
-Because listeners only listen to songs that are close to their tastes.
-It may be difficult to encounter new cultures.
-
-In addition, the songs optimized by the algorithm are
-They often have similar structures.
-
-It is a short, simple, and repetitive song.
-
-Furthermore, the artist
-Depends on platform rules.
-
-Playlist posting and recommendations
-This is because it has a major impact on profits.
-
-In other words, the algorithm
-While creating new opportunities
-They are also creating new power structures.
-
-> Algorithms have created a free music world, but at the same time they have also become the new gatekeepers.
+> 現代のジャンルはクラブではなくアルゴリズムの中で生まれる。
 
 ---
 
 
-## Music history in the age of algorithms
+## アルゴリズムの問題点
 
-music history so far
-It has been talked about by genre and artist.
+アルゴリズムには利点だけでなく問題もある。
 
-But now,
-There is an algorithm behind it.
+代表的なものは
 
-- Birth of a hit song
-- Genre formation
-- Listener experience
+- フィルターバブル
+- 音楽の均質化
+- 巨大プラットフォームへの依存
 
-all of these
-Influenced by data and recommendation systems.
+フィルターバブルとは
+似た音楽ばかり推薦される現象である。
 
-future music historians
-You may want to research factors such as:
+リスナーは好みに近い曲ばかり聴くため
+新しい文化に出会いにくくなる可能性がある。
 
-- Streaming data
-- playlist culture
-- SNS spread
-- Algorithm design
+また、アルゴリズムに最適化された楽曲は
+似た構造を持つことが多い。
 
-In other words, music history
-It is also a history of technology.
+短く、シンプルで、繰り返しが多い曲である。
 
-Records, radio, MTV, the internet.
-Next came the algorithms.
+さらにアーティストは
+プラットフォームのルールに依存する。
 
-> The history of music has always been driven by technology, not sound.
+プレイリスト掲載や推薦が
+収益に大きく影響するためだ。
+
+つまりアルゴリズムは
+新しいチャンスを生む一方で
+新しい権力構造も作っている。
+
+> アルゴリズムは自由な音楽世界を作ると同時に、新しいゲートキーパーにもなった。
 
 ---
 
 
-## Timeline: History of algorithms and music distribution
+## アルゴリズム時代の音楽史
+
+音楽史はこれまで
+ジャンルやアーティストによって語られてきた。
+
+しかし現在、
+その背後にはアルゴリズムが存在する。
+
+- ヒット曲の誕生
+- ジャンルの形成
+- リスナー体験
+
+これらすべてが
+データと推薦システムによって影響を受けている。
+
+未来の音楽史家は
+次のような要素を研究することになるかもしれない。
+
+- ストリーミングデータ
+- プレイリスト文化
+- SNS拡散
+- アルゴリズム設計
+
+つまり音楽史は
+技術史でもある。
+
+レコード、ラジオ、MTV、インターネット。
+その次に来たのがアルゴリズムである。
+
+> 音楽の歴史は、いつの時代も「音」ではなく「技術」によって動かされてきた。
+
+---
+
+
+## 年表：アルゴリズムと音楽配信の歴史
 
 <div class="mermaid">
 timeline
@@ -364,40 +364,40 @@ title Digital Music and Algorithmic Discovery
 
 ---
 
-## Structural changes in music discovery
+## 音楽発見の構造変化
 
 <div class="mermaid">
 flowchart TD
 
-A[radio dj] --> B[hit songs]
-C[record company] --> B
-D[music magazine] --> B
+A[ラジオDJ] --> B[ヒット曲]
+C[レコード会社] --> B
+D[音楽雑誌] --> B
 
-E[algorithm] --> F[playlist]
-F --> G[hit songs]
+E[アルゴリズム] --> F[プレイリスト]
+F --> G[ヒット曲]
 E --> G
 
 </div>
 
 ---
 
-## Why algorithms will change music history
+## アルゴリズムが音楽史を変える理由
 
 <div class="mermaid">
 graph TD
 
-A[user data] --> B[Recommendation algorithm]
-B --> C[playlist]
-C --> D[Increase in number of plays]
-D --> E[Birth of a hit song]
-E --> F[Genre formation]
+A[ユーザーデータ] --> B[推薦アルゴリズム]
+B --> C[プレイリスト]
+C --> D[再生数増加]
+D --> E[ヒット曲誕生]
+E --> F[ジャンル形成]
 
 </div>
 
 ---
 
-Algorithms are not just a mechanism for distributing music.
-It is a new cultural apparatus that will determine how music is discovered, shared and remembered.
+アルゴリズムは音楽を単に配信する仕組みではない。
+それは音楽がどのように発見され、共有され、記憶されるかを決める新しい文化装置である。
 
 And its influence will further change the history of music in the future.
 

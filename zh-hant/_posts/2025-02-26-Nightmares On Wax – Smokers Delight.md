@@ -11,21 +11,21 @@ tags:
 - Acid Jazz
 - Dub
 - 90s
-title: 蠟上的惡夢－吸煙者的喜悅
+title: Nightmares On Wax – Smokers Delight
 ---
 
 
-Nightmares On Wax 的 Smokers Delight (1995) 是英國製作人 George Evelyn 專案的第二張專輯，由 Warp Records 發行，鞏固了其在慢節奏和 Trip-Hop 歷史上的地位。這張專輯仍然是一首永恆的傑作，將聽眾帶入一個舒緩的放鬆境界，遠離俱樂部文化的喧囂。
+Nightmares On Waxの『Smokers Delight』（1995年）は、英国のプロデューサーGeorge Evelynによるプロジェクトの2作目として、Warp Recordsからリリースされたアルバムで、ダウンテンポとトリップホップの歴史において確固たる地位を築いた作品です。このアルバムは、クラブカルチャーの喧騒から一歩引いた場所で、リスナーを心地よいチルアウトの領域へと誘う、時代を超えた傑作として今も語り継がれています。
 
-首先，《Smokers Delight》的核心在於它的「輕鬆節奏」。專輯以“Nights Introude”開頭，以柔和的弦樂和昆西瓊斯的“Summer In The City”的輕柔節拍為特色，立即將聽眾帶入一個輕鬆的空間。
+まず、『Smokers Delight』の核心は、その「ゆったりとしたグルーヴ」にあります。アルバムは冒頭の「Nights Introlude」から、Quincy Jonesの「Summer In The City」をサンプリングした柔らかなストリングスと穏やかなビートで幕を開け、リスナーを即座にリラックスした空間へと引き込みます。
 
-音樂上，嘻哈框架與雷鬼、靈魂樂和放克的精髓交織在一起，賦予其獨特的折衷風格。例如，在“Groove St.”中，深沉的鋼琴低音線與平滑的低音線交織在一起，而輕鼓的添加創造了一個簡單但令人上癮的循環。同時，「Pipes Honor」之類的較長曲目，其長度超過九分鐘，逐漸發展出吉他和鍵盤的層次，帶領聽眾踏上冥想之旅。
+音楽的には、ヒップホップの骨格にレゲエ、ソウル、ファンクのエッセンスが織り込まれ、独自の折衷主義が際立っています。例えば、「Groove St.」では重厚なピアノの低音と滑らかなベースラインが絡み合い、そこに軽快なドラムが加わることで、シンプルながらも病みつきになるループが生まれています。一方、「Pipes Honour」のような9分を超える長尺トラックでは、ギターとキーボードが織りなすレイヤーが徐々に展開し、聴く者を瞑想的な旅へと導きます。
 
-製作背景​​也很有趣。在搭檔 Kevin Harper 離開後，Evelyn 將 Nightmares On Wax 重新定義為個人項目，並透過 Smokers Delight 找到了新的方向。這張唱片採用模擬設備和採樣技術，體現了 90 年代的 DIY 精神，並與當時 Warp 廠牌的創新態度產生共鳴。羅賓·泰勒·弗斯 (Robin Taylor-Firth) 的鍵盤參與和遍布各處的手演奏樂器的循環創造了數字和模擬的精緻融合，創造出超越人工冰冷的人聲。
+制作背景も興味深い点です。EvelynはパートナーのKevin Harperが去った後、ソロプロジェクトとしてNightmares On Waxを再定義し、『Smokers Delight』で新たな方向性を見出しました。アナログ機材とサンプリング技術を駆使したこの作品は、90年代のDIY精神を体現しており、当時のWarpレーベルの革新的な姿勢とも共鳴しています。Robin Taylor-Firthのキーボード参加や、随所にちりばめられた手弾きの楽器によるループが、デジタルとアナログの融合を絶妙に実現し、人工的な冷たさを超えた人間味のあるサウンドを生み出しています。
 
 
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Nights Introlude
 2. Dreddoverboard
@@ -46,7 +46,7 @@ Nightmares On Wax 的 Smokers Delight (1995) 是英國製作人 George Evelyn �
 16. Gambia Via Vagator Beach
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C6ixa3G_tL4?si=oqR77d3pR6_Eziw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,8 +19,8 @@ title: Shaun Escoffery – Space Rider old
 
 
 
-"Space Rider" is
-This is an EP by Shaun Escoffery released in 2002 by the UK label "Oyster Music".
+「Space Rider」は、
+2002年にUKのレーベル「Oyster Music」からリリースされたShaun EscofferyによるEPです。
 
 
 #### Tracklist

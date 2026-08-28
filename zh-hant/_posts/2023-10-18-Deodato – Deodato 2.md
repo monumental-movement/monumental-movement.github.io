@@ -8,15 +8,15 @@ layout: post
 permalink: /zh-hant/deodato-deodato-2/
 tags:
 - Funk
-title: 德奧達托 – 德奧達托 2
+title: Deodato – Deodato 2
 ---
 
 
-Eumir Deodato，也稱為 Deodato，是一位巴西音樂家、作曲家、編曲家和製作人。
+Deodatoこと、Eumir Deodato（エウミール・デオダート）は、ブラジルのミュージシャン/作曲家/アレンジャー/プロデューサー。
 
-德奧達託的第二張專輯《藍色狂想曲》於 1973 年發行，其中包括喬治·格甚溫的《藍色狂想曲》、莫里斯·拉威爾的《死去公主的孔雀舞曲》和穆迪布魯斯樂隊的《緞夜》等歌曲，這些歌曲都是由德奧達托風格改編的。
+1973年リリースのデオダート２作目のアルバム「ラプソディー・イン・ブルー」では、George Gershwin（ジョージ・ガーシュウィン）の「Rhapsody In Blue」、Maurice Ravel（モーリス・ラヴェル）の「亡き王女のためのパヴァーヌ」、The Moody Blues（ムーディー・ブルース）の「サテンの夜」などをデオダート流のアレンジを加えて収録。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Nights In White Satin
 
@@ -29,7 +29,7 @@ B1. Super Strut
 B2. Rhapsody In Blue
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m92189547389?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92189547389?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2CPXY-8jwM?si=bYpAMTqrf22TZE_p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

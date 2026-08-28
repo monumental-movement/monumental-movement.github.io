@@ -10,22 +10,22 @@ tags:
 - Electronic
 - Techno
 - 00s
-title: DJ Rush – 讓我們改變吧
+title: DJ Rush – Let's Change
 ---
 
 
-Isaiah Major，也被稱為 DJ Rush，是一位來自芝加哥、居住在德國的 techno 和 house DJ 兼製作人。他也以 Major Rush 和 Russian Roulette 的名義工作。
+DJ RushことIsaiah Majorは、シカゴ出身でドイツを拠点に活動するテクノ＆ハウスDJ・プロデューサー。Major Rush、Russian Roulette名義でも活動している。
 
-《Let's Change》是前 Spiral Tribe 成員 Charlie Hall 的廠牌 Pro-Jex 於 2003 年發行的一首電子歌曲。
+「Let's Change」は、Spiral Tribeの元メンバーCharlie Hall(チャーリーホール)のレーベルPro-Jexから2003年にリリースされたテクノトラック。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Let's Change
 
 (※シングルサイド)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m28195059530?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28195059530?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VVXrCWjSoh4?si=Dp44ISuF3EPlDGiL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

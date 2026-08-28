@@ -9,15 +9,15 @@ permalink: /zh-hant/dsk-work-my-body-over-sweat/
 tags:
 - House
 - 90s
-title: DSK – 鍛鍊身體（流汗）
+title: DSK – Work My Body Over (Sweat)
 ---
 
 
-DSK 是由 Davis-Stone-Klein 的 Hot Productions 團隊（Larry Davis、Joe Stone、Paul Klein）創建的浩室舞曲音樂計畫。
+DSKは、Davis-Stone-Klein ( Larry Davisラリー・デイヴィス、Joe Stone ジョー・ストーン、Paul Kleinポール・クライン) の Hot Productionsチームによって制作されたハウス ・ ダンスミュージックプロジェクト。
 
-《Work My Body Over (Sweat)》是一首90年代在舞蹈俱樂部和廣播中經常播放的歌曲，其充滿活力、適合跳舞的節奏和朗朗上口的歌聲。
+「Work My Body Over (Sweat)」は、エネルギッシュで踊りやすいビートとキャッチーなボーカルが特徴的で、90年代にダンスクラブやラジオで頻繁にプレイされた一曲。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Work My Body Over (Sweat) (Radio)
 
@@ -32,7 +32,7 @@ B2. Work My Body Over (Sweat) (Instrumental Freestyle)
 B3. Work My Body Over (Sweat) (Percapella)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m42353720924?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42353720924?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U2krr7aNaKc?si=IKxtpC25OFBJU6Di" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

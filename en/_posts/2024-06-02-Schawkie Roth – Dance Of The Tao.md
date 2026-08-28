@@ -14,9 +14,9 @@ title: Schawkie Roth – Dance Of The Tao
 ---
 
 
-Considered one of the pioneers of New Age spiritual music, Schawkie Roth is a composer specializing in healing, meditation, relaxation music, and acoustic jazz.
+ニューエイジ・スピリチュアル音楽の先駆者の一人とみなされているSchawkie Rothは、ヒーリング・瞑想・リラクゼーション音楽やアコースティックジャズを専門とする作曲家。
 
-"Dance Of The Tao" is a new age album released in 1978.
+「Dance Of The Tao（ダンス・オブ・ザ・タオ）」は、1978年にリリースされたニューエイジアルバム。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

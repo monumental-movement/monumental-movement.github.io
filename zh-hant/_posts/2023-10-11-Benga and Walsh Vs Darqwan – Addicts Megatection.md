@@ -9,26 +9,26 @@ permalink: /zh-hant/benga-and-walsh-vs-darqwan-addicts-megatection/
 tags:
 - Dubstep
 - UK Dubstep
-title: Benga 和 Walsh VS Darqwan – 癮君子大保護
+title: Benga and Walsh Vs Darqwan – Addicts Megatection
 ---
 
 
-「Benga & Walsh Vs Darqwan – Addicts / Megatection」是由三位著名迴響貝斯藝術家 Benga、Walsh 和 Darqwan 創作的迴響貝斯曲目。
+「Benga & Walsh Vs Darqwan – Addicts / Megatection」は、3人の著名なダブステップアーティスト、Benga、Walsh、DarqwanによるDubstepトラック。
 
-Benga 是迴響貝斯的先驅之一，是來自英國倫敦南部的迴響貝斯製作人。他以製作熱門單曲而聞名，例如“Katy On A Mission”（Katy B）、“I Need Air”（Magnetic Man 壯舉 Angela Hunte）和“Fire”（Magnetic Man 壯舉 Ms Dynamite）。
+ダブステップの先駆者の一人であるBengaは、UKサウスロンドン出身のダブステッププロデューサー。 「Katy On A Mission」（Katy B）、「I Need Air」（Magnetic Man feat. Angela Hunte）、「Fire」（Magnetic Man feat. Ms Dynamite）などのヒットシングルを手がけたことで知られている。
 
-Walsh 是克羅伊登的迴響貝斯 DJ 和製作人，自英國迴響貝斯界早期以來一直活躍。沃爾什在迴響貝斯界備受推崇，以其獨特的聲音和技術技巧而聞名。
+UKダブステップシーンの初期から活動するWalshは、クロイドンを拠点とするダブステップDJ&プロデューサー。Walshは、ダブステップシーンで高い評価を受けており、その独自のサウンドとテクニカルなスキルで知られている。
 
-Darqwan 是來自英國謝菲爾德的迴響貝斯 DJ/製作人/混音師 Oris Jay 的別名。 Darqwan 因其融合了多種迴響貝斯聲音的作品而聞名，並因其原創性和創造力而受到關注。
+Darqwanは、UKシェフィールド出身のダブステップDJ/プロデューサー/リミキサー Oris Jayの別名義。Darqwanは、ダブステップの幅広いサウンドを取り入れた作品で知られており、その独創性とクリエイティビティによって注目を集めている。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Benga & Walsh–Addicts
 
 B. Darqwan–Megatection
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

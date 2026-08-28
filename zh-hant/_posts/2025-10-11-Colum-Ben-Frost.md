@@ -11,23 +11,23 @@ tags:
 - Experimental
 - Ambient
 - 00s
-title: '[專欄] Ben Frost 與聲學建築：噪音與結構之間'
+title: 【コラム】 Ben Frostと音響建築：ノイズと構造のあいだで
 ---
 
 
-## Ben Frost 和聲學建築 - 頻率暴力
+## Ben Frostと音響建築 - 周波数の暴力
 
 
-文字：mmr |主題：重新定義數位時代的崇高 作者：Ben Frost
+文：mmr｜テーマ：Ben Frostによるデジタル時代における崇高さの再定義
 
 
-當許多聽眾第一次聽到本·弗羅斯特的音樂時，他們首先註意到的不是音量，而是密度。
-這不僅僅是一聲巨響。聲音使空間本身膨脹、壓縮，其存在彷彿奪去了它的呼吸。
+Ben Frostの音楽を初めて聴いたとき、多くのリスナーがまず感じるのは「音量」ではなく「密度」だ。  
+それは単なる大音響ではない。音が空間そのものを押し広げ、圧縮し、呼吸を奪うように存在する。  
 
-對來自澳洲、現居冰島的弗羅斯特來說，**聲音是一種物理現象，也是一種暴力形式**。
-它被建構為一種超越旋律和節奏的建築和觸覺體驗。
+オーストラリア出身、アイスランド在住のFrostにとって、**音とは物理現象であり、暴力の一形態**である。  
+それは旋律やリズムを超えた、建築的・触覚的な体験として構築される。  
 
-「聲音是空氣的雕塑，是作用在身體上的壓力，」他說。
+「音は空気の彫刻であり、身体に作用する圧力だ」と彼は語る。  
 
 ---
 
@@ -45,154 +45,154 @@ color: #fff;
 </style>
 
 
-## 冰島的寧靜與澳洲的粗獷
+## アイスランドの静寂とオーストラリアの粗野さ
 
-他的作品將冰島的寧靜與澳洲的荒野並存。
-在雷克雅未克郊區的安靜風景中，他創造了過度的失真和深沉的低音。
+彼の作品には、アイスランド的な静寂とオーストラリア的な荒野が共存している。  
+レイキャヴィーク郊外の静かな風景の中で、彼は過剰なまでの歪みと重低音を作り出す。  
 
-與 Bedroom Community 的 Valgeir Sigurðsson 和 Nico Muhly 合作，
-它在經典結構和電子破壞之間造成了緊張的張力。
+Bedroom CommunityのValgeir Sigurðsson、Nico Muhlyらとの共同作業は、  
+クラシカルな構造と電子的破壊の間に張り詰めた緊張を生んだ。  
 
-2009年的《**By the Throat**》是一部真正具有像徵意義的作品。
-在這裡，聲音像野獸一樣咆哮、呼吸和攻擊。
-狼嚎、呼吸聲和低頻咆哮的現場錄音。
-這些不是環境聲音，而是被組織為「攻擊聲音」。
+2009年の『**By the Throat**』は、まさにその象徴的作品である。  
+ここでは、音が獣のように唸り、息づき、襲いかかる。  
+フィールドレコーディングされた狼の遠吠え、呼吸音、低周波の唸り。  
+それらは環境音ではなく、「襲いかかる音響」として編成されている。
 
 ---
 
-## 聲音作為武器，聲音作為儀式
+## 武器としての音、儀式としての音
 
 Frostの音響哲学を語る上で外せないのは、「音の武装化」という観点である。  
-他利用低音和失真來精確設計聲音暴力。
+彼はサブベースと歪みを使って**音の暴力性を精密にデザイン**する。  
 
-透過與 Hildur Guðnadóttir、Tim Hecker 等人的合作，
-我們探索了聲音如何跨越「痛苦」和「愉悅」之間的界限。
+Hildur Guðnadóttir、Tim Heckerらとのコラボレーションを通して、  
+音が「痛み」と「快楽」の境界をどのように横断するかを探求した。  
 
-在他的作品中，聽者的身體成為一個「共鳴器」。
-聽聲音的是腹腔、皮膚和骨骼，而不是耳朵。
-聲音圍繞著聽者，就像充滿空間的氣壓。
+彼の作品では、リスナーの身体が“共振体”になる。  
+耳ではなく、腹腔、皮膚、骨が聴く。  
+音は空間を満たす気圧のように、聴く者を包囲する。  
 
-它更像是一種**儀式**而不是音樂。
-有一天，一系列聲音擴展了意識並改變了現實。
+それはもはや音楽というよりも、**儀式**だ。  
+音の連続が、意識を拡張し、現実を変質させるような瞬間が訪れる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/snHUxlz99kA?si=PMj7lMipQhNWicjB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 工作室的戰場
+## スタジオという戦場
 
-Ben Frost 的製作環境更像是一個戰場，而不僅僅是一個錄音室。
-大量的模組化合成器、改進的麥克風和頂級壓縮器。
-你不是「錄音」聲音，而是**抓住它，就像你在打它一樣**。
+Ben Frostの制作環境は、単なるレコーディングスタジオではなく「戦場」に近い。  
+膨大なモジュラーシンセ、改造マイク、過剰なコンプレッサー。  
+そこでは音を「録る」のではなく、**殴りつけるように掴み取る**。
 
-他並不否認偶然性，但同時又說，“每一個頻率都有它存在的理由。”
-雜訊和失真並非無用。
+彼は偶然性を拒絶しないが、同時に「すべての周波数には存在理由がある」と言う。  
+ノイズも、歪みも、無駄ではない。  
 
-現場記錄的風聲和振動，
-當它開始透過電子處理呈現出建築結構時，
-它變成了聲音建築。
+フィールドレコーディングされた風音や振動が、  
+電子的処理によって建築的な構造を持ち始めるとき、  
+それは音響建築（Sound Architecture）へと変わる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ekzFAz7lSkY?si=sS1W8na0q2JvHfEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 電影轉折：陰影配樂
+## シネマティック・ターン：影のためのスコア
 
-自 2010 年代以來，Frost 的活動擴展到電影和戲劇音樂。
-諸如“**堅韌**”、“**黑暗**”和“**狼養大**”之類的分數是
-它不是一種煽動恐懼的聲音，而是一種塑造故事本身空間的聲音。
+2010年代以降、Frostの活動は映画・ドラマ音楽へと拡張した。  
+『**Fortitude**』『**Dark**』『**Raised by Wolves**』などのスコアは、  
+恐怖を煽るための音ではなく、**物語の空間そのものを形成する音**として機能する。  
 
-他的樂譜中幾乎沒有旋律。
-相反，存在的是空間的「壓力」和呼吸的「持續時間」。
-本·弗羅斯特在影片中扮演「聲音建築師」。
+彼のスコアには旋律がほとんど存在しない。  
+かわりに存在するのは、空間の「圧」、呼吸の「間」。  
+Ben Frostは映像の中で「音の建築家」として振る舞う。
 
-黑暗中迴響的低音就像城市的心跳，
-它喚起了人類在文明中遺失的「沉默的記憶」。
+暗闇の中で響く低音は、都市の鼓動のようであり、  
+人間が文明の中で失った“沈黙の記憶”を呼び起こす。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFs4yX4V7NQ?si=5uis91ei2caQPCcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 光的爆炸：A U R O R A 與聲音的重要性
+## 光の爆発：A U R O R Aと音の臨界
 
-**A U R O R A** 於 2014 年發行，是 Ben Frost 職業生涯的分水嶺。
-透過這部作品，他拋棄了先前「原聲+電音」的做法，
-**我建構了一個幾乎完全由電子聲音粒子組成的世界**。
+2014年に発表された『**A U R O R A**』は、Ben Frostのキャリアにおける分水嶺である。  
+この作品で彼は、これまでの「アコースティック＋電子音」的アプローチを捨て、  
+**ほぼ完全に電子的な音の粒子のみ**で世界を構築した。  
 
-鼓組和吉他消失了，取而代之的是**以光速閃爍的脈衝**
-金屬噪音的碎片描繪了一個宇宙空間。
-Steve Albini 的混音出奇的乾；
-聲音的混響被消除，以可視化弗羅斯特想要的“無氧聲學效果”。
+ドラムセットやギターは消え、代わりに**光速で閃光するパルス**と  
+金属的なノイズの断片が宇宙的な空間を描く。  
+Steve Albiniによるミックスは驚くほどドライで、  
+音の残響を削ぎ落とし、Frostの意図する“無酸素の音響”を可視化している。  
 
-《A U R O R A》是根據我在非洲剛果的經歷改編的。
-它的靈感來自極端的物理條件，如陽光、熱和電力的不穩定性。
-這是光的暴力，是由光子構造的聲音。
+『A U R O R A』は、アフリカ・コンゴの地での経験、  
+太陽光や熱、電力の不安定さといった**極限の物理条件**から発想された。  
+それは光による暴力、**フォトンによる音の構築**である。  
 
-這張專輯之後，他的聲音變得越來越建築化和無機化。
-同時，它開始像一個活的有機體一樣脈動。
-AURORA可以說是一部真正捕捉到聲音變成光的瞬間的作品。
+このアルバム以降、彼の音はますます建築的・無機的になり、  
+同時に“生命”をもつ有機体のように脈打ち始めた。  
+A U R O R Aは、まさに**音が光になる瞬間**をとらえた作品と言える。
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LJ2X1ZRVmA?si=pXC60kUfINLbu5jq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 身體、機器與神聖性
+## 身体、機械、そして聖性
 
-對於現場表演，Frost 將燈光保持在最低限度；
-將舞台變成一個充滿光和噪音的儀式空間。
+ライブパフォーマンスのFrostは、照明を最小限にし、  
+ステージを光とノイズの儀式空間へと変える。  
 
-極高的聲壓、低頻波動、白光。
-他們麻木了觀眾的感官，將其變成了**神聖的體驗**。
+極端な音圧、低周波のうねり、白色光。  
+それらは観客の感覚を麻痺させ、**聖的体験**へと転化する。  
 
-這個結構類似萊巴赫、天鵝，甚至是宗教儀式。
-「超越過度的平靜」——
-弗羅斯特從中找到了一種**解脫**。
+その構造は、LaibachやSwans、さらには宗教儀式のようでもある。  
+「過剰を超えた先にある静けさ」——  
+Frostはそこに、一種の**救済**を見出している。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NSfwDnnJdo?si=DWEXMeMqNZDNqzLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 時間的崩潰和數字深淵
+## 時間の崩壊とデジタルの深淵
 
-近年來，Frost一直在利用AI構圖和即時處理來
-他對「聲音無法控制的自主性」感興趣。
+近年のFrostは、AI作曲やリアルタイム処理を通じて、  
+「制御不可能な音の自律性」に関心を寄せている。  
 
-聲音離開他的雙手，以一種自生的方式改變。
-塔可夫斯基和威廉吉布森式的未來願景。
+音は彼の手を離れ、自己生成的に変化していく。  
+TarkovskyやWilliam Gibson的な未来像——  
 朽ちたテクノロジーと残響の詩学がそこにある。  
 
-弗羅斯特的聲音試圖重新定義數位時代的崇高。
-這就像建築師試圖維護一個結構而不擔心倒塌。
+Frostのサウンドは、デジタル時代における**“崇高さの再定義”**を試みている。  
+それは、崩壊を恐れずに構造を保とうとする建築家のようだ。
 
 ---
 
-## 邁向新的聲學學生態系統
+## 新しい音響生態系へ
 
-最終，本·弗羅斯特並沒有關注自然與人造之間的界限。
-相反，它是一個在此期間誕生的“新生態系統”。
+Ben Frostが最終的に見つめているのは、自然と人工の境界ではない。  
+むしろ、**そのあいだに生まれる「新しい生態系」**だ。  
 
-電子聲音並不是模仿自然，而是成為自然本身的語言。
-噪音不是破壞，而是環境的聲音。
+電子音は自然の模倣ではなく、自然の言語そのものになる。  
+ノイズは破壊ではなく、環境の声である。  
 
-他說：
-> “傾聽的行為是一種生存感。”
+彼はこう語る。  
+> 「聴くという行為は、生き延びるための感覚だ。」
 
-聲音不再是娛樂或藝術。
-它是一種讓人類與世界重新連結的「生理工具」。
+音はもはや娯楽でも芸術でもない。  
+それは、人間が世界と接続しなおすための「生理的ツール」なのだ。
 
 ---
 
-## 唱片目錄：用作聲學地圖
+## ディスコグラフィー：音響地図としての作品群
 
-|年份|標題 |主要特點 |友情連結 |
-|----|------------|------------|---------------|
-| 2003 | **鋼傷** |使用微妙的環境聲音和吉他來嘗試微妙的聲學效果 | [亞馬遜](https://amzn.to/4h639dD) |
-| 2007 | **機器理論** |最小結構與雜訊的加速主義融合 | [亞馬遜](https://amzn.to/471ouk1) |
-| 2009 | **喉嚨** |動物聲音與暴力紋理的臨界點| [亞馬遜](https://amzn.to/3WyR7QC) |
-| 2014 | **A U R O R A** |光與振動的爆炸，首先轉移到扭曲| [亞馬遜](https://amzn.to/4n5Dl2R) |
-| 2017 | 2017 **中心無法容納** | Steve Albini 記錄的模擬密度 | [亞馬遜](https://amzn.to/4n3dOaH) |
-| 2017–2020 | **黑暗：週期 I–III (OST)** | Netflix 戲劇音樂，打造低音與靜音 | [亞馬遜](https://amzn.to/4o76X0w) |
+| 年 | タイトル | 主な特徴 | リンク |
+|----|------------|-----------|---------------|
+| 2003 | **Steel Wound** | 繊細な環境音とギターによる微細音響の実験 | [Amazon](https://amzn.to/4h639dD) |
+| 2007 | **Theory of Machines** | ミニマル構造とノイズの加速主義的融合 | [Amazon](https://amzn.to/471ouk1) |
+| 2009 | **By the Throat** | アニマルサウンドと暴力的質感の臨界点 | [Amazon](https://amzn.to/3WyR7QC) |
+| 2014 | **A U R O R A** | 光と振動の爆発、Warp移籍第一弾 | [Amazon](https://amzn.to/4n5Dl2R) |
+| 2017 | **The Centre Cannot Hold** | Steve Albini録音によるアナログ的密度 | [Amazon](https://amzn.to/4n3dOaH) |
+| 2017–2020 | **Dark: Cycle I–III (OST)** | Netflixドラマ音楽、重低音と沈黙の構築 | [Amazon](https://amzn.to/4o76X0w) |
 
 ---
 
@@ -200,24 +200,24 @@ AURORA可以說是一部真正捕捉到聲音變成光的瞬間的作品。
 
 ---
 
-## 留下的沉默
+## 残された静寂
 
-近年來，本·弗羅斯特又陷入沉默。
-在靠近北極圈的地方，我們記錄了冰的聲音、風的顫抖、雪的迴響。
-他正在重新考慮聲音的「極限」。
+Ben Frostは近年、再び沈黙の中へと戻っていった。  
+北極圏に近い場所で、氷の音、風の震え、雪の反響を録音しながら、  
+彼は音の「限界」を再考している。  
 
-什麼是聲音？
-什麼是噪音？
-沉默真的是相反的嗎？
+音とは何か。  
+ノイズとは何か。  
+そして沈黙は、果たしてその反対なのか。  
 
-最終，弗羅斯特所展現的並不是聲音結束時的“寂靜”，而是聲音結束時的“寂靜”。
-**一種新的聲音潛伏在寂靜中**。
+最終的にFrostが示すのは、音の終わりにある“静寂”ではなく、  
+**静寂の中に潜む新たな音**である。  
 
-> 「聲音的極限不是噪音，而是寂靜。」
+> 「音の限界はノイズではない。静けさだ。」
 
 ---
 
-## 本·弗羅斯特主要年表
+## Ben Frost 主要年表
 
 <div class="mermaid">
 
@@ -239,13 +239,13 @@ flowchart TD
 
 ---
 
-### 本弗羅斯特官方鏈接
+### Ben Frost 公式リンク
 
-[官方網站](https://ethermachines.com)
+[Official Website](https://ethermachines.com)
 
-[官方Instagram](https://www.instagram.com/ethermachines)
+[Official Instagram](https://www.instagram.com/ethermachines)
 
-[樂隊營](https://benfrost.bandcamp.com/album/steelwound-20th-anniversary-edition)
+[Bandcamp](https://benfrost.bandcamp.com/album/steelwound-20th-anniversary-edition)
 
 [Soundcloud](https://soundcloud.com/benfrost)
 
@@ -253,14 +253,14 @@ flowchart TD
 
 
 
-### 相關專欄
+### 関連コラム
 
-🔗 [[專欄]灣區噪音/實驗音樂場景－50年的破壞與共鳴](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
+🔗 [【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
 
-🔗 [[專欄]噪音音樂 — 從起源到現在：歷史背景、著名唱片、裝備變遷](https://monumental-movement.jp/Column-Noise-Music)
+🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)
 
-🔗 【【專欄】90年代至2000年代日本地下岩石與噪音的軌跡】(https://monumental-movement.jp/Column- Japanese-Underground-Rock-Noise)
+🔗 [【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
 
-🔗 [[專欄]實驗音樂的歷史與傑作：從起源到現在](https://monumental-movement.jp/Column-Experimental-Music)
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
 
-🔗 [[專欄]高品牌與噪音音樂－奢華與激進音響的交集](https://monumental-movement.jp/Column-High-Brands-Noise-Music)
+🔗 [【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点](https://monumental-movement.jp/Column-High-Brands-Noise-Music)

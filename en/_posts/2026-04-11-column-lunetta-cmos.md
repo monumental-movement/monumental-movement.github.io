@@ -10,30 +10,29 @@ tags:
 - CMOS
 - Lunetta
 - DIY
-title: '[Column] The world of CMOS Synth and Lunetta: The aesthetics of primitive
-  electronic music played by logic circuits'
+title: 【コラム】 CMOS SynthとLunettaの世界：ロジック回路が奏でる原始的電子音楽の美学
 ---
 
 
 
-## What is CMOS Synth?
+## CMOS Synthとは何か
 
-Text: mmr | Theme: The moment when logic circuits become music ─ The world of primitive electronic acoustics depicted by CMOS Synth and Lunetta
+文：mmr｜テーマ：ロジック回路が音楽になる瞬間──CMOS SynthとLunettaが描く原始的電子音響の世界
 
 DIY synthesizers using CMOS logic ICs, the so-called Lunetta Synth, are a culture that generates sounds from extremely simple and primitive circuits, in contrast to today's sophisticated electronic music environment. This article will discuss its origins, structure, acoustic characteristics, and modern re-evaluation based on historical facts and technical perspectives.
 
-### The moment when logic IC becomes sound
+### ロジックICが音になる瞬間
 
-CMOS Synth is a general term for synthesizers that generate sound using CMOS logic ICs originally designed as digital circuits. These ICs were originally intended for calculations and signal processing, but by devising a clock and feedback structure, they can oscillate and generate audible sounds.
+CMOS Synthとは、本来デジタル回路として設計されたCMOSロジックICを用いて音を生成するシンセサイザーの総称である。これらのICは本来、計算や信号処理を目的としているが、クロックやフィードバック構造を工夫することで発振し、可聴域の音を生成することができる。
 
-Typical ICs include the following.
+代表的なICには以下のようなものがある。
 
-* 40106: Schmitt trigger inverter
-*4040: Binary counter
-* 4017: Decade counter
-*4070: XOR gate
+* 40106：シュミットトリガー・インバータ
+* 4040：バイナリカウンタ
+* 4017：ディケードカウンタ
+* 4070：XORゲート
 
-These can produce sounds when used alone, but complex rhythms and patterns can be created by combining multiple of them.
+これらは単体でも音を出すが、複数を組み合わせることで複雑なリズムやパターンが生成される。
 
 ---
 
@@ -42,7 +41,7 @@ These can produce sounds when used alone, but complex rhythms and patterns can b
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -52,151 +51,151 @@ color: #fff;
 
 
 
-### Definition of Lunetta Synth
+### Lunetta Synthの定義
 
-Lunetta Synth is a name derived from the name of Italian DIY builder Stanley Lunetta, and specifically refers to a system with the following characteristics.
+Lunetta Synthとは、イタリアのDIYビルダーStanley Lunettaの名前に由来する呼称で、特に以下の特徴を持つシステムを指す。
 
-* Consisting only of CMOS logic ICs
-*Basically do not use analog filters or VCA
-*Free connection by patching
-* Tone change due to power supply voltage
+* CMOSロジックICのみで構成される
+* アナログフィルタやVCAを基本的に使わない
+* パッチングによる自由な接続
+* 電源電圧による音色変化
 
-It is these constraints that have created a unique sound and culture.
+この制約こそが、独特のサウンドと文化を形成した。
 
-> CMOS Synth is a field in which electronic circuits themselves become musical instruments, rather than musical equipment.
+> CMOS Synthは、音楽機材ではなく電子回路そのものが楽器となる領域である。
 
 ---
 
-## Technical Basics: Why does sound come out?
+## 技術的基礎：なぜ音が出るのか
 
-### Mechanism of oscillation
+### 発振の仕組み
 
-CMOS inverters have the characteristic that the input and output are inverted. By combining this with a resistor and a capacitor, a self-oscillating circuit (oscillator) is constructed.
+CMOSインバータは、入力と出力が反転する特性を持つ。これに抵抗とコンデンサを組み合わせることで、自己発振回路（オシレータ）が構成される。
 
 <div class="mermaid">
 flowchart LR
-A[input] --> B[inverter]
-B --> C[output]
-C --> D[RC circuit]
+A[入力] --> B[インバータ]
+B --> C[出力]
+C --> D[RC回路]
 D --> A
 </div>
 
-This loop causes the voltage to change periodically, generating a square wave.
+このループにより、電圧が周期的に変化し、矩形波が生成される。
 
-### Frequency division by counter
+### カウンタによる分周
 
-A counter IC divides the input clock and generates signals with multiple different periods. This provides the following effects.
+カウンタICは入力クロックを分周し、複数の異なる周期の信号を生成する。これにより、以下のような効果が得られる。
 
-* Generation of rhythm patterns
-* Polyrhythm structure
-* pseudo melody
+* リズムパターンの生成
+* ポリリズム構造
+* 疑似メロディ
 
 <div class="mermaid">
 flowchart TD
-CLK[clock] --> C1[1/2]
+CLK[クロック] --> C1[1/2]
 CLK --> C2[1/4]
 CLK --> C3[1/8]
 CLK --> C4[1/16]
 </div>
 
-### Sound transformation using logic operations
+### ロジック演算による音の変形
 
-Logical operations such as XOR and AND change the relationship between signals. This creates a complex spectrum even with a simple waveform.
+XORやANDなどの論理演算は、信号同士の関係性を変化させる。これにより、単純な波形でも複雑なスペクトルが生まれる。
 
-*XOR: Increases overtones and becomes noisy
-* AND: Gate-like intermittent sound
-*OR: Density increase due to overlap
+* XOR：倍音が増加し、ノイジーになる
+* AND：ゲート的な断続音
+* OR：重なりによる密度増加
 
-> Sound generation is based on logical operations rather than analog.
-
----
-
-## Historical background
-
-### The interface between digital circuits and music
-
-In the 1970s, CMOS ICs became popular as low-power, inexpensive electronic components. Around the same time, experiments in electronic music gradually expanded from analog to digital.
-
-However, the idea of ​​using CMOS as a sound source was not mainstream, and existed as an attempt by some experimentalists.
-
-### Connection with DIY culture
-
-In the early 2000s, CMOS sound creation was rediscovered through Internet forums and personal sites. The following factors are particularly important.
-
-* Parts availability
-*Circuit simplicity
-*Low cost
-* Can be manufactured by soldering only
-
-In this vein, the concept of "Lunetta Synth" spread and became established in the DIY community.
-
-### Relationship with modular synths
-
-Lunetta has a different philosophy from modular synths, but they intersect in the following points.
-
-* Structural changes due to patching
-* Modular design
-* Experimental sound generation
-
-However, the decisive difference is that the focus is on logic signals rather than voltage control.
-
-> Lunetta is not a modular simplification, but a completely different evolution.
+> 音響生成はアナログではなく論理演算によって成立している。
 
 ---
 
-## Acoustic characteristics
+## 歴史的背景
 
-### Square wave domination
+### デジタル回路と音楽の接点
 
-The basic waveform of CMOS Synth is a square wave. This results in the following characteristics:
+1970年代、CMOS ICは低消費電力で安価な電子部品として普及した。同時期に電子音楽の実験はアナログからデジタルへと徐々に拡張していく。
 
-* Strong harmonic components
-* Digital hard texture
-* Rhythmic discontinuity
+しかし、CMOSを音源として使う発想は主流ではなく、一部の実験家による試みとして存在していた。
 
-### Instability and contingency
+### DIY文化との結びつき
 
-The behavior of CMOS circuits changes depending on the power supply voltage, temperature, and wiring.
+2000年代初頭、インターネット上のフォーラムや個人サイトを通じて、CMOSによる音作りが再発見される。特に以下の要因が大きい。
 
-* Clock fluctuation
-* Aperiodic pattern
-* Chaotic rhythm
+* 部品の入手容易性
+* 回路の単純さ
+* 低コスト
+* ハンダ付けのみで製作可能
 
-This creates music with low repeatability.
+この流れの中で「Lunetta Synth」という概念が広まり、DIYコミュニティの中で確立された。
 
-### Connection outside the audio range
+### モジュラーシンセとの関係
 
-By dividing the high frequency clock, the process of dropping it into the audible range itself becomes a musical structure.
+Lunettaはモジュラーシンセとは異なる思想を持つが、以下の点で交差する。
+
+* パッチングによる構造変化
+* モジュール的な設計
+* 実験的音響生成
+
+ただし、電圧制御ではなくロジック信号が中心である点が決定的に異なる。
+
+> Lunettaはモジュラーの簡略化ではなく、全く別の進化系である。
+
+---
+
+## 音響的特徴
+
+### 矩形波の支配
+
+CMOS Synthの基本波形は矩形波である。これにより以下の特徴が生まれる。
+
+* 強い高調波成分
+* デジタル的な硬質感
+* リズミカルな断続性
+
+### 不安定性と偶発性
+
+CMOS回路は電源電圧や温度、配線によって挙動が変化する。
+
+* クロックの揺らぎ
+* 非周期的パターン
+* カオス的リズム
+
+これにより、再現性の低い音楽が生まれる。
+
+### 可聴域外との接続
+
+高周波クロックを分周することで、可聴域に落とし込まれる過程自体が音楽的構造となる。
 
 <div class="mermaid">
 flowchart LR
-HF[high frequency] --> DIV[Frequency division]
-DIV --> AUD[audible sound]
+HF[高周波] --> DIV[分周]
+DIV --> AUD[可聴音]
 </div>
 
-> Music is not generated, but extracted from a hierarchy of frequencies.
+> 音楽は生成されるのではなく、周波数の階層から抽出される。
 
 ---
 
-## Circuit design and practice
+## 回路設計と実践
 
-### Basic configuration
+### 基本構成
 
-The simplest Lunetta has the following configuration.
+最も単純なLunettaは以下の構成で成立する。
 
-*Oscillator (40106)
-* Counter (4040)
-* Output mixing
+* オシレータ（40106）
+* カウンタ（4040）
+* 出力ミキシング
 
-As a result, signals having multiple periods are output simultaneously.
+これにより、複数の周期を持つ信号が同時に出力される。
 
-### Patching culture
+### パッチング文化
 
-Lunetta's feature is not fixed wiring, but connection changes using jumpers and patch cables.
+Lunettaの特徴は固定配線ではなく、ジャンパーやパッチケーブルによる接続変更である。
 
-* Freely connect inputs and outputs
-* Generating a feedback loop
-* Unpredictable behavior
+* 入力と出力を自由に接続
+* フィードバックループの生成
+* 予測不能な挙動
 
 <div class="mermaid">
 flowchart TD
@@ -205,92 +204,101 @@ B --> C[LOGIC]
 C --> A
 </div>
 
-### Importance of power supply voltage
+### 電源電圧の重要性
 
-CMOS ICs operate at around 3V to 15V, but the sound changes depending on the voltage.
+CMOS ICは3V〜15V程度で動作するが、電圧によって音が変化する。
 
-* High voltage: high speed/treble range
-* Low voltage: low speed/distortion
+* 高電圧：高速・高音域
+* 低電圧：低速・歪み
 
-The voltage itself acts as a parameter.
+電圧自体がパラメータとして機能する。
 
-> Breaking the stability of the circuit creates musicality.
+> 回路の安定性を崩すことが音楽性を生む。
 
 ---
 
-## Timeline: Deployment of CMOS Synth and Lunetta
+## 年表：CMOS SynthとLunettaの展開
 
-### 1970s-1990s
+### 1970年代〜1990年代
 
-* 1970s: Popularization of CMOS ICs
-* 1980s: Mainstreaming of digital sound sources
-* 1990s: Fragmented practice of DIY electronic music
+* 1970年代：CMOS ICの普及
+* 1980年代：デジタル音源の主流化
+* 1990年代：DIY電子音楽の断片的実践
 
-### 2000s
+### 2000年代
 
-* Early circuit sharing on the Internet
-* Popularization of the name Lunetta Synth
-* Activation of individual production
+* 初期インターネット上での回路共有
+* Lunetta Synthという名称の普及
+* 個人制作の活発化
 
-### Since 2010s
+### 2010年代以降
 
-* Re-evaluation in parallel with modular revival
-* Workshops and community building
-* Development as a work of art
+* モジュラー再興と並行した再評価
+* ワークショップやコミュニティ形成
+* アート作品としての展開
 
 <div class="mermaid">
 flowchart LR
-A[1970s CMOS spread] --> B[1990s experiment]
-B --> C[2000s rediscovery]
-C --> D[2010s culturalization]
+A[1970s CMOS普及] --> B[1990s 実験]
+B --> C[2000s 再発見]
+C --> D[2010s 文化化]
 </div>
 
-> Circuits, which were a by-product of technology, became independent as a culture.
+> 技術の副産物だった回路が文化として自立した。
 
 ---
 
-## Position in modern times
+## 現代における位置づけ
 
-### Relationship with noise/experimental music
+### ノイズ／実験音楽との関係
 
-Lunetta has a high affinity with the following genres.
+Lunettaは以下のジャンルと親和性が高い。
 
-* Noise music
-* Industrial
-* Experimental electronic music
+* ノイズミュージック
+* インダストリアル
+* 実験電子音楽
 
-This is due to the emphasis placed on contingency rather than control.
+これは、制御よりも偶発性を重視する点に起因する。
 
-### Educational value
+### 教育的価値
 
-CMOS Synth is also effective as an introduction to electronic engineering.
+CMOS Synthは電子工学の入門としても有効である。
 
-* Understanding logic circuits
-* Experience the oscillation principle
-* Visualization of the relationship between sound and electricity
+* ロジック回路の理解
+* 発振原理の体験
+* 音と電気の関係の可視化
 
-### Circuits as art
+### アートとしての回路
 
-The circuit itself becomes a visual object and is also used as an installation.
+回路そのものが視覚的オブジェクトとなり、インスタレーションとしても利用される。
 
-* Visualization with LED
-* Synchronization of sound and light
-* Physical layout aesthetics
+* LEDによる視覚化
+* 音と光の同期
+* 物理的配置の美学
 
-> Lunetta sits at the interface of music, engineering, and art.
+> Lunettaは音楽、工学、美術の境界に位置する。
 
 ---
 
-## Conclusion: Why CMOS Synth now?
+## 結論：なぜ今、CMOS Synthなのか
 
-In contrast to today's highly optimized music production environments, CMOS Synth is inefficient and uncontrollable. However, this very restriction creates unpredictable sounds and structures.
+高度に最適化された現代の音楽制作環境に対し、CMOS Synthは非効率で制御不能な存在である。しかしその制約こそが、予測不能な音と構造を生み出す。
 
-* Simple circuit
-*Complicated results
-* Non-reproducibility
+* シンプルな回路
+* 複雑な結果
+* 再現不可能性
 
 These are elements that digital music tends to lose, and that"s where Lunetta"s value lies.
 
-> Primitive circuits pose the most modern questions.
+> 原始的な回路は、最も現代的な問いを投げかけている。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzbtCCI9sLs?si=SHroFf8N43k9bkDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

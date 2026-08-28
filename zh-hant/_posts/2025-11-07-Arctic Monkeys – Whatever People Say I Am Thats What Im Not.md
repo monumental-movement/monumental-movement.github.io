@@ -11,15 +11,15 @@ tags:
 - Indie Rock
 - Rock
 - 00s
-title: 北極猴子－無論人們怎麼說我，我都不是
+title: Arctic Monkeys – Whatever People Say I Am, That's What I'm Not
 ---
 
 
-Arctic Monkeys是一支來自英國謝菲爾德的搖滾樂隊，成立於2002年。 Arctic Monkeys是「部落格搖滾」時代的代表，透過網路獲得大眾關注。
+Arctic Monkeys(アークティックモンキーズ)は、2002年に結成されたイングランド・シェフィールド出身のロックバンド。アークティック・モンキーズは、インターネットを通じて世間の注目を集めた「ブログ・ロック」時代の代表格。
 
-這張專輯是多米諾唱片公司於2006年發行的首張錄音室專輯。
+このアルバムは2006年にレーベルDominoからリリースされたデビュースタジオアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. The View From The Afternoon
 2. I Bet You Look Good On The Dancefloor
@@ -36,7 +36,7 @@ Arctic Monkeys是一支來自英國謝菲爾德的搖滾樂隊，成立於2002�
 13. A Certain Romance
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK7egZaT3hs?si=gqjos97Utn1Hjnin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

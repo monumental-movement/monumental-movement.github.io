@@ -10,26 +10,25 @@ tags:
 - Experimental
 - Jazz
 - Grindcore
-title: '[Column] Jazz impulses reverberating from the toilet ─ The true identity of
-  the anonymous art called Clown Core'
+title: 【コラム】 トイレから響くジャズの衝動──Clown Coreという匿名芸術の正体
 ---
 
 
-## Introduction: Foreign music that started in the toilet and van
+## はじめに：トイレとバンから始まった異物の音楽
 
-Text: mmr｜Theme: Deciphering Clown Core's true image and impulses, focusing on their anonymity, musicality, visual expression, and relationship with internet culture.
+文：mmr｜テーマ：Clown Coreの匿名性、音楽性、映像表現、インターネット文化との関係を軸に、その実像と衝動を読み解く
 
-Clown Core was a project that emerged from the beginning as if it didn't trust the framework of music. What appears on the screen is the inside of a private bathroom or a small van. There are two people wearing clown masks, and the saxophone and drums collide with each other with unusual density. There is no set stage or audience. In its place, all that is left is the pressure of the enclosed space and the excessive sound impulses that spill out from it.
-This project has the paradox of intentionally breaking the traditional concept of a band, while at the same time relying on extremely precise performance techniques.
+Clown Coreは、音楽という枠組みを最初から信用していないように現れたプロジェクトだった。画面に映るのは、トイレの個室や狭いバンの中。そこにいるのは道化のマスクをかぶった二人の人物で、サックスとドラムが異常な密度でぶつかり合う。整ったステージも観客も存在しない。その代わりにあるのは、閉塞空間の圧力と、そこから溢れ出す過剰な音の衝動だけである。
+このプロジェクトは、従来のバンドという概念を意図的に崩しながら、同時に極端に精密な演奏技術によって成立しているという矛盾を抱えている。
 
-> Clown Core is a musical experiment that breaks down the boundaries of space and genre.
+> Clown Coreは空間とジャンルの境界を破壊しながら成立する音楽実験である
 
 <style type="text/css">
 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,21 +39,21 @@ color: #fff;
 ---
 
 
-## Assumption of anonymity: The question of who is playing?
+## 匿名性という前提：誰が演奏しているのかという問い
 
-The biggest feature of Clown Core is that its true identity has not been made clear for a long time. There have been various speculations about the members, including a saxophonist active in the jazz scene and a drummer known for experimental music and funk. However, the project itself is designed to avoid fixating on any particular figure.
-This anonymity is not just a mystery, but rather built into the structure of the work itself. The clown mask that hides the face functions as a device that shifts the gaze from ""who is playing" to ""what is being played."
-The lack of interviews or explanatory text also strengthens its structure. Music is not spoken of, but suddenly appears and disappears.
+Clown Coreの最大の特徴は、その正体が長い間明確にされていない点にある。メンバーについては様々な推測が存在し、ジャズ・シーンで活動するサックス奏者や、実験音楽・ファンク領域で知られるドラマーとの関連が語られてきた。しかしプロジェクト自体は、特定の人物像を固定することを避けるように設計されている。
+この匿名性は単なるミステリーではなく、むしろ作品そのものの構造に組み込まれている。顔を隠す道化のマスクは「誰が演奏しているか」ではなく、「何が演奏されているか」へと視線を移動させる装置として機能している。
+インタビューや説明的なテキストをほとんど持たないことも、その構造を強化している。音楽は語られるのではなく、突然現れて消える。
 
-> Anonymity in Clown Core is not a performance, but a redesign of perception itself.
+> Clown Coreにおける匿名性は演出ではなく知覚の再設計そのものである
 
 ---
 
-## The Core of Musicality: The Collision of Jazz and Grindcore
+## 音楽性の核：ジャズとグラインドコアの衝突
 
-At first glance, Clown Core's music sounds chaotic. However, a sophisticated structure lurks inside. Rapidly changing tempos, complex rhythm patterns, and sudden genre changes. The improvisational nature of jazz and the violent compression of grindcore coexist.
-In particular, the saxophone, while retaining some of the traditional jazz idiom, deviates into sounds that resemble noise and screams. On the other hand, the drums repeatedly cycle at extreme speeds and stops, destroying the structure itself.
-This relationship is closer to complicity rather than conflict. The impulse to destroy order always takes precedence before it can be established.
+Clown Coreの音楽は、一見するとカオスそのものに聞こえる。しかしその内部には高度な構造が潜んでいる。急速に変化するテンポ、複雑なリズムパターン、突発的なジャンル転換。ジャズの即興性と、グラインドコアの暴力的な圧縮が同時に存在している。
+特にサックスは、伝統的なジャズ語法を部分的に保持しながらも、ノイズや悲鳴のような音響へと逸脱していく。一方ドラムは、極端なスピードと停止を繰り返し、構造そのものを崩し続ける。
+この関係性は対立ではなく共犯関係に近い。秩序を構築する前に、それを崩壊させる衝動が常に優先される。
 
 <div class="mermaid">
 timeline
@@ -63,41 +62,41 @@ timeline
     2020 : バン内部での演奏映像が拡散
     2020s前半 : ジャズと極端音楽の融合として再評価
 </div>  
-> Clown Core's musicality is not a genre fusion, but a genre destruction.
+> Clown Coreの音楽性はジャンル融合ではなくジャンル破壊として成立している  
 
 ---
 
-## Violence in visual expression: closed spaces such as toilets and vans
+## 視覚表現の暴力性：トイレとバンという閉鎖空間
 
-Clown Core's images are composed of extremely limited spaces. Typical examples are toilet cubicles and the interior of moving vans. These spaces completely exclude the general context of musical performance.
-A toilet is a place that is inherently private and is the space furthest from the social gaze. By deliberately converting this into a performance space, viewers feel a strong sense of discomfort. At the same time, this sense of discomfort forces you to concentrate on the music itself.
-In the images of the van, mobility and occlusion exist at the same time. The outside world is flowing at high speed, but inside, the extremely dense performance continues. This contrast can also be interpreted as a metaphor for the modern information overload environment itself.
+Clown Coreの映像は、極端に限定された空間で構成されている。代表的なのはトイレの個室と移動中のバン内部である。これらの空間は、音楽パフォーマンスの一般的な文脈を完全に排除する。
+トイレという場所は、本来プライベートであり、社会的な視線から最も遠い空間である。それをあえてパフォーマンス空間に変換することで、視聴者は強い違和感を覚える。同時にその違和感は、音楽そのものへの集中を強制する。
+バンの映像では、移動性と閉塞性が同時に存在する。外部世界は高速で流れているが、内部では極端に密度の高い演奏が続く。この対比は、現代の情報過多環境そのもののメタファーとしても解釈できる。
 
-> Clown Core's video maximizes the density of the music by cutting down on space.
-
----
-
-## Connecting to Internet Culture: Diffusion as Fragments
-
-Clown Core gained recognition not through the traditional distribution structure of the music industry, but through fragmentary dissemination on the Internet. Rather than units such as albums or singles, the focus is on short units such as videos.
-This format is strongly associated with modern viewing environments. Users stumble upon the video by chance and are shocked before they can understand it. This is followed by a reversed order of searching for information.
-Comment culture and memetic spread also play an important role. The Clown Core is something that is shared before it is explained, and its meaning is always added later.
-
-> Clown Core incorporates the very contingency of the Internet into its structure.
+> Clown Coreの映像は空間を削ることで音楽の密度を最大化している
 
 ---
 
-## Structural Analysis of Sound: Designed Excess, Not Destruction
+## インターネット文化との接続：断片としての拡散
 
-Clown Core"s music may be perceived as chaos, but there"s a clear design within it. In particular, the rhythmic cuts and reconstructions are deliberately placed. Sudden stops, extreme accelerations, and irregular time signature changes all act like calculated amplitudes.
-Jazz improvisation exists not as freedom but as controlled deviation. Grindcore violence is also built into the structure rather than an emotional outburst.
-Due to this dual structure, Clown Core's music is established as ""music designed to be broken.''
+Clown Coreは従来の音楽業界の流通構造ではなく、インターネット上の断片的な拡散によって認知されていった。アルバムやシングルという単位よりも、動画という短い単位が中心にある。
+この形式は現代的な視聴環境と強く結びついている。ユーザーは偶然その映像に遭遇し、理解する前に衝撃を受ける。その後に情報を探すという逆転した順序が成立している。
+また、コメント文化やミーム的拡散も重要な役割を果たしている。Clown Coreは説明される前に共有される存在であり、その意味は常に後付けされていく。
 
-> Clown Core's sound is not chaotic, but a precisely constructed overload
+> Clown Coreはインターネットの偶発性そのものを作品構造に取り込んでいる
 
 ---
 
-## Chronology and structure visualization
+## サウンドの構造分析：破綻ではなく設計された過剰
+
+Clown Coreの音楽は混乱として認識されがちだが、その内部には明確な設計がある。特にリズムの切断と再構築は、意図的に配置されている。突然の停止、極端な加速、不規則な拍子変化は、すべて計算された振幅のように機能する。
+ジャズ的な即興は、自由さではなく制御された逸脱として存在する。グラインドコア的な暴力性もまた、感情の爆発ではなく構造の一部として組み込まれている。
+この二重構造により、Clown Coreの音楽は「壊れているように設計された音楽」として成立している。
+
+> Clown Coreのサウンドは混沌ではなく精密に構築された過負荷である
+
+---
+
+## 年表と構造の可視化
 
 <div class="mermaid">
 timeline
@@ -108,27 +107,27 @@ timeline
     2021 : ジャンル横断的な評価が拡大
     2023以降 : 実験音楽・ジャズ文脈で再解釈が進行
 </div>  
-> The history of Clown Core exists not as a line but as a layered layer of fragments.
+> Clown Coreの歴史は線ではなく断片の積層として存在している  
 
 ---
 
-## Clown Core as an expression idea
+## 表現思想としてのClown Core
 
-Clown Core is more than just a musical project, it functions as a question of the form of expression itself. Performance techniques, space, anonymity, video, and internet culture. All of these are treated in the same way, dismantling the traditional framework of a "musical work."
-Here, the momentary emergence and disappearance are more important than the concept of a completed work. The priority is to remain as a shock rather than being understood.
-This attitude is also a response to today's excessive information environment. In a world where the next stimulus arrives before the meaning can be explained, Clown Core directly converts ""incomprehensibility'' into value.
+Clown Coreは単なる音楽プロジェクトではなく、表現形式そのものへの問いとして機能している。演奏技術、空間、匿名性、映像、そしてインターネット文化。これらすべてが同列に扱われ、従来の「音楽作品」という枠組みを解体している。
+そこでは完成された作品という概念よりも、瞬間的な発生と消失が重要になる。理解されることよりも、衝撃として残ることが優先される。
+この姿勢は、現代の過剰な情報環境に対する一つの応答でもある。意味を説明する前に、すでに次の刺激が訪れる世界において、Clown Coreは「理解不能であること」をそのまま価値に変換している。
 
-> Clown Core is a structure that presents music as an excess of experience rather than explanation.
+> Clown Coreは音楽を説明するのではなく体験の過剰として提示する構造体である
 
 ---
 
-## Conclusion: Precision remains in decay
+## 結論：崩壊の中に残る精密さ
 
-Clown Core exists by intentionally blurring the line between chaos and order. There is no story or clear message. However, the extremely densely designed sound and images forcibly shake the viewer's perception.
-A space called a toilet, a mobile object called a van, an anonymous performer, and music that rejects genre. All of them function as devices for testing the ""limits of expression'' in modern times.
-Clown Core does not exist to be understood, but rather to shake up the very act of understanding.
+Clown Coreは、混乱と秩序の境界を意図的に曖昧にしながら存在している。そこにはストーリーも明確なメッセージもない。しかし、極端な密度で設計された音と映像が、視聴者の認知を強制的に揺さぶる。
+トイレという空間、バンという移動体、匿名のパフォーマー、そしてジャンルを拒絶する音楽。それらはすべて、現代における「表現の限界」を試すための装置として機能している。
+Clown Coreは理解されるために存在しているのではなく、理解という行為そのものを揺さぶるために存在している。
 
-> Clown Core is a precise musical experiment based on the premise of collapse.
+> Clown Coreは崩壊を前提とした上で成立する精密な音楽実験である
 
 
 ---

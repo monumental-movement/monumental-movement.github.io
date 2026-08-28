@@ -10,25 +10,25 @@ tags:
 - Chillstep
 - Liquid
 - Dubstep
-title: '[Column] Chillstep / Liquid Dubstep'
+title: 【コラム】 Chillstep / Liquid Dubstep
 ---
 
 
 
-## Prologue Bass sinking into silence: What is Chillstep / Liquid Dubstep?
+## 序章　静けさに沈む低音：Chillstep / Liquid Dubstep とは何か
 
-Text: mmr｜Theme: About the "emotional dubstep" born between silence and bass
+文：mmr｜テーマ：静寂と低音のあいだに生まれた「感情のダブステップ」について
 
-Chillstep and Liquid Dubstep are spin-off genres that began to take shape on the Internet around 2010, emphasizing the melodic and ambient aspects of dubstep. Unlike traditional dubstep's aggressive wobble bass, harsh filter modulation, and metallic leads of brostep and later, Chillstep brings to the fore ""quietness, transparency, and a soft-defined low range.''
+Chillstep（チルステップ）および Liquid Dubstep（リキッド・ダブステップ）は、2010年前後からインターネット上で急速に形を持ち始めた、ダブステップのメロディアスでアンビエントな側面を強調した派生ジャンルである。伝統的なダブステップが持つ攻撃的なワブルベース、荒々しいフィルター変調、ブロステップ以降の金属的リードとは異なり、Chillstep では「静かさ・透明感・輪郭の柔らかい低域」が前面に出る。
 
-The background flow is as follows.
+背景には以下のような流れがある。
 
-* Late 2000s: Deepening of UK dubstep (Skream, Benga, Digital Mystikz)
+* 2000年代後半：UK ダブステップの深化（Skream、Benga、Digital Mystikz）
 * 2008–2010: Rise of melodic approaches (e.g. Mt. Eden)
-* 2010s: Spread of "Chillstep Compilation" on YouTube
-* Artists such as Blackmill and MitiS have established a melody-oriented style
+* 2010年代：YouTube による “Chillstep Compilation” の拡散
+* Blackmill、MitiS などのアーティストがメロディ特化型のスタイルを確立
 
-The result was ""dubstep as an emotional expression,'' which absorbed liquid elements from ambient, trance, and drum and bass, and grew into a genre deeply connected to EDM, lo-fi, and beautiful video editing culture.
+結果として生まれたのは、アンビエント、トランス、ドラムンベースのリキッド要素を吸収した「感情表現としてのダブステップ」であり、EDM とローファイ、美しい映像編集文化とも深く結びつくジャンルへと成長した。
 
 ---
 
@@ -37,7 +37,7 @@ The result was ""dubstep as an emotional expression,'' which absorbed liquid ele
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -46,201 +46,201 @@ color: #fff;
 </style>
 
 
-## 1. Roots and establishment: late 2000s to early 2010s
+## 1. ルーツと成立：2000年代後半〜2010年代初頭
 
 ### 1-1 Dubstep evolution and melody development
 
-Dubstep was originally rooted in London's underground, and was characterized by heavy sub-bass and harsh snare sounds. However, from 2008 to 2010, tracks with a melodic approach became popular on YouTube and SoundCloud.
+ダブステップは当初ロンドンのアンダーグラウンドに根ざし、重量級のサブベースと倚音感の強いスネアが特徴だった。しかし2008〜2010年にかけて、YouTube・SoundCloud と共にメロディアスなアプローチを持つトラックが拡散される。
 
-Features include the following.
+特徴としては以下のようなものがある。
 
-* Narrows the bass wobble width for softer modulation
+* ベースのワブル幅を狭め、柔らかくモジュレーション
 * Increased ratio of piano strings pads
-* Gives breathing dynamics without making the side chain extremely deep
-* Focus on "build ~ melody" rather than drop
+* サイドチェインを極端に深くせず、呼吸するようなダイナミクスを付与
+* ドロップよりも“ビルド〜メロディ”を中心に据える
 
 Although the influence of Mt. Eden is large, the genre name ""Chillstep'' arose naturally within internet culture.
 
 ---
 
-## 2. Genre characteristics: Chillstep / Liquid Dubstep acoustic structure
+## 2. ジャンル特性：Chillstep / Liquid Dubstep の音響構造
 
-Here, we will organize the characteristics at the production process level.
+ここでは、制作工程レベルで特徴を整理する。
 
-### 2-1 BPM/Structure
+### 2-1 BPM・構造
 
-* BPM is most commonly around **140** (dubstep standard)
-* Halftime drum (snare beat 2)
-* Drops exist, but use "white space" rather than aggression
+* BPMは **140前後**（ダブステップ基準）が最も一般的
+* ハーフタイムドラム（スネア2拍目）
+* ドロップは存在するが、攻撃性より「余白」を活かす
 
-### 2-2 Base design
+### 2-2 ベースデザイン
 
-The symbol of Chillstep is "smooth sub-bass."
+Chillstep の象徴は「滑らかなサブベース」である。
 
-* Sine wave center
-* Adjust warmth with slight distortion (soft clipping)
-* Produce a breathing-like fluctuation with light LFO (1/4, 1/8, etc.)
-* Add emotion through volume changes without using excessive filter modulation
+* サイン波中心
+* わずかな歪み（soft clipping）で暖かさを調整
+* 軽いLFO（1/4、1/8 など）で呼吸するような揺らぎを演出
+* 過剰にフィルター・モジュレーションを行わず、音量変化で感情をつける
 
-### 2-3 Melody and synth design
+### 2-3 メロディとシンセ設計
 
-* Lead: Soft saw wave, or analog emulation
-* Pad: Wide stereo, high-density texture with suppressed overtones
-* Piano: Reverb with long reverberation and less pre-delay
-* Strings: strengthen the legato and connect the top line smoothly
+* リード：柔らかいソー波、またはアナログエミュレーション
+* パッド：広めのステレオ、倍音を抑えた高密度テクスチャ
+* ピアノ：残響の長いプリデレイ少なめのリバーブ
+* ストリングス：レガートを強め、トップラインを滑らかに接続
 
-**It is important to note that the emotional peak is placed at the melody's extension, not at the drop. **
+**感情のピークはドロップではなくメロディの伸びに置かれる点が重要。**
 
-### 2-4 Effects
+### 2-4 エフェクト
 
-* Reverb: Large, but with strong high cut
-* Delay: 1/4, 1/8 dotted soft reflections
-* Sidechain: Create distance between drums and pads
-* Noise layer: Ambience such as wind, rain, analog hiss, etc.
+* リバーブ：大きめ、ただしハイカットを強めに入れる
+* ディレイ：1/4、1/8 dotted の柔らかい反射
+* サイドチェイン：ドラムとパッドの距離を作る
+* ノイズレイヤー：風、雨、アナログヒスなどのアンビエンス
 
-### 2-5 Differences with Liquid Dubstep
+### 2-5 Liquid Dubstep との違い
 
-Liquid Dubstep inherits the feel of Liquid Drum"n"Bass, with a more "transparent, water-like" texture.
+Liquid Dubstep は Liquid Drum’n’Bass の感触を受け継ぎ、より「透明・水的」質感が強い。
 
-* Clear high-end and sparkling impression
-*High vocal chop ratio
-*Base is smoother and less jittery
-* Often uses one-shot FX like bubbles
+* ハイエンドを明瞭に残し、きらめく印象
+* ボーカルチョップの比率が高い
+* ベースはより滑らかで、揺らぎが少ない
+* 気泡のようなワンショットFXを使用することが多い
 
-If Chillstep is the "calmness of the night," Liquid Dubstep is the "light in the water."
-
----
-
-## 3. Blackmill and MitiS: Genre Establishers
-
-### 3-1 Blackmill — symbol of chillstep
-
-Blackmill is a representative of melodic dubstep, gaining international acclaim as it spread through YouTube. The characteristics are below.
-
-* Lyrical and emotional melody
-* Extremely clean sub-bass
-* Trance arpeggio
-* Careful layering of strings
-* Drops do not attack, but instead "spread out"
-
-Blackmill's style became the template for Chillstep and created a large following.
-
-### Blackmill style production process
-
-1. Create a chord progression on the piano (such as a simple I–V–vi–IV type)
-2. Layer the strings and set the attack slowly
-3. Generate high frequency lead with analog style soft synth
-4. Create a sub-bass with a sine wave and lightly shake it with a 1/4 LFO
-5. Drums are modest, kicks are deep and short
-6. Big reverb on pads and leads
-7. Place windy white noise FX in the background
-
-### 3-2 MitiS — Pianist sensitivity and emotional construction
-
-MitiS has a background in classical piano and brings a unique emotion to Chillstep/Melodic Dubstep.
-
-* Piano main melody
-* Transparent and unbreakable mix
-* Trance-like rising feeling
-* Carefully processed vocal chop
-* Layered with a staccato synth lead
-
-MitiS's work smoothly straddles the boundary between Chillstep and Melodic Dubstep, exhibiting a more dramatic structure.
+Chillstep が「夜の静けさ」なら、Liquid Dubstep は「水中の光」のような響きである。
 
 ---
 
-## 4. Chillstep's video culture and internet spread
+## 3. Blackmill と MitiS：ジャンルの確立者
 
-It is important that Chillstep spread as a ""visual culture'' along with music.
+### 3-1 Blackmill — チルステップの象徴
 
-* Night view, starry sky, fog, forest
-* Low saturation cinematic tone
-* Slow motion water drops and waves
-* Cinematic depth of field
-* Lo-Fi style texture
+Blackmill はメロディック・ダブステップの代表的存在であり、YouTubeによる拡散と共に国際的評価を得た。特徴は以下。
 
-Chillstep compilations on YouTube proliferated, combining visual beauty and sonic clarity, visually reinforcing the genre's identity.
+* リリカルでエモーショナルなメロディ
+* きわめてクリーンなサブベース
+* トランス的アルペジオ
+* ストリングスの丁寧なレイヤー
+* ドロップも攻撃せず「包むように広がる」
 
-### Visual composition
+Blackmill の作風は Chillstep の雛形となり、多くのフォロワーを生んだ。
 
-1. Still lake surface, distant light, slowly moving fog
-2. Pad sound that spreads gently above it
-3. Reflections on the water surface resonate with the overtones of the lead melody
-4. The base sinks with the afterglow of the night city
-5. A production in which the flow of stars synchronizes with the arpeggio
+### Blackmill 風の制作工程
 
-The viewing experience of Chillstep symbolizes the genre characteristics of the Internet era, where "music + visual expression" are integrated.
+1. ピアノでコードプロgressionを作る（シンプルな I–V–vi–IV 型など）
+2. ストリングスを重ね、アタックを遅めに設定
+3. 高域リードをアナログ風ソフトシンセで生成
+4. サブベースをサイン波で作り、1/4のLFOで軽く揺らす
+5. ドラムは控えめ、キックは深く短い
+6. パッドとリードに大きなリバーブ
+7. 風のようなホワイトノイズFXを背景に置く
+
+### 3-2 MitiS — ピアニスト的感性とエモーショナルな構築
+
+MitiS はクラシックピアノの素養をバックグラウンドに持ち、Chillstep / Melodic Dubstep に独特の感情を持ち込んだ。
+
+* ピアノの主旋律
+* 透明感のある崩れないミックス
+* トランス的上昇感
+* ボーカルチョップを丁寧に加工
+* スタッカート気味のシンセリードとのレイヤー
+
+MitiS の作品は Chillstep と Melodic Dubstep の境界を滑らかに跨ぎ、よりドラマティックな構造を示す。
 
 ---
 
-## 5. Production process: How to make Chillstep / Liquid Dubstep
+## 4. Chillstep の映像文化とネット拡散
 
-Here, we will organize sound creation and mixing step by step from a producer's perspective.
+Chillstep は音楽と共に「映像文化」として広まったことが重要である。
 
-### 5-1 Idea building
+* 夜景・星空・霧・森
+* 低彩度の映画的トーン
+* スローモーションの水滴や波
+* シネマティックな被写界深度
+* Lo-Fi テイストの質感
+
+YouTube のチルステップ・コンピレーションは、これらの映像美と音の透明感が融合した形で急増し、ジャンルのアイデンティティを視覚的にも補強した。
+
+### 映像的構図
+
+1. 静止した湖面、遠くの光、ゆっくり動く霧
+2. その上に穏やかに広がるパッドサウンド
+3. 水面の反射がリードメロディの倍音と共鳴
+4. 夜の街の残照とともにベースが沈み込む
+5. 星の流れがアルペジオと同期する演出
+
+Chillstep の視聴体験は、「音楽＋視覚表現」が一体化したインターネット時代のジャンル特性を象徴する。
+
+---
+
+## 5. 制作工程：Chillstep / Liquid Dubstep を作る方法
+
+ここではプロデューサー視点で、音作りとミックスを段階的に整理する。
+
+### 5-1 アイデア構築
 
 * Late night silence
-* Natural motifs such as water, fog, and stars
+* 水、霧、星といった自然モチーフ
 * The melody is built around simple, long lines.
 * Create a "mental space" that is neither positive nor negative
 
-### 5-2 Chord progression
+### 5-2 コード進行
 
 Chillstep has a lot of clear code.
 
-*I–vi–IV–V
-*I–V–vi–IV
-* iii–IV–I–V etc.
+* I–vi–IV–V
+* I–V–vi–IV
+* iii–IV–I–V など
 
-Emphasis is placed on ""sustainability" and ""lingering resonance" rather than modulation or complication.
+転調や複雑化よりも「持続」と「余韻」を重視する。
 
-### 5-3 Synth Design
+### 5-3 シンセ設計
 
 #### Lead Synth
 
-* Saw wave + noise blend
-* Slower attack, longer release
-* Add analog style drift
+* ソー波＋ノイズブレンド
+* アタック遅め、リリース長め
+* アナログ風の揺らぎ（drift）を加える
 
-#### Pad
+#### パッド
 
-*4~6 layers
-* The filter has a strong high cut
-* Reverb tail is long and pre-delay is short
+* 4〜6レイヤー
+* フィルターはハイカット強め
+* リバーブのテイルは長く、プリディレイ短め
 
-#### Vocal Chop
+#### ボーカルチョップ
 
-* Pitch correction
-* Stretch by granular processing
-* High frequency shelf for airy feel
+* ピッチ補正
+* グラニュラー処理で伸ばす
+* エア感を出すため高域シェルフ
 
-### 5-4 Subbase
+### 5-4 サブベース
 
-* Sine wave center
-* Mix in triangle waves to add warmth if desired
-* LFO is gentle
-* Side chain is thin
-* Release is short and tight
+* サイン波中心
+* 必要に応じて三角波を混ぜて暖かさを追加
+* LFOは緩やか
+* サイドチェインは薄く
+* リリースは短めでタイトに
 
 ### 5-5 drums
 
-* Kick: Do not reduce the low range too much
-* Snare: Thin deep reverb
-* Hat: Reduces shake and smoothes high end
-* Percussion: water droplet FX enabled
+* キック：低域を絞りすぎない
+* スネア：深いリバーブを薄く
+* ハット：シャカつきを抑え、ハイエンドをスムーズに
+* パーカッション：水滴的FXが有効
 
-### 5-6 mix
+### 5-6 ミックス
 
-*Smoothly suppresses 5-7kHz stimulation
+* 5〜7kHz の刺激を抑えて滑らかに
 * Minimize background noise (analog hiss, wind, rain, etc.)
-* Fog-like texture with high cut reverb
-* Sidechain is suppressive, only creates movement
+* リバーブのハイカットで霧のような質感
+* サイドチェインは抑制的、動きを作る程度
 
 ---
 
-## 6. Chronology by scene
+## 6. シーン別年表
 
-### Chillstep / Liquid Dubstep development history (brief)
+### Chillstep / Liquid Dubstep 発展史（簡略）
 
 <div class="mermaid">
 timeline
@@ -256,41 +256,49 @@ timeline
 
 ---
 
-## 7. Illustrated: Chillstep Acoustic Structure Overview
+## 7. 図解：Chillstep 音響構造の概要
 
 <div class="mermaid">
 flowchart TD
-    A["Pad (wide area/static)"] --> B["Melody lead (smooth/transparent)"]
+    A["パッド（広域・静的）"] --> B["メロディリード（滑らか・透明）"]
     A --> C["Sub bass (centered on sine wave)"]
-    B --> D["Vocal chop (atmosphere)"]
-    C --> E["Halftime Drum"]
-    D --> F["Spatial FX (large reverb)"]
+    B --> D["ボーカルチョップ（空気感）"]
+    C --> E["ハーフタイムドラム"]
+    D --> F["空間FX（大きめリバーブ）"]
 </div>
 
 
 ---
 
-## 8. Current status and future prospects of the genre
+## 8. ジャンルの現在地と今後の展望
 
-Chillstep/Liquid Dubstep is not just an offshoot of dubstep, but a typical example of how the internet and visual culture have shaped a musical genre. Even in the 2020s, it has smoothly integrated with genres such as lo-fi culture, ambient, melodic bass, and future garage, and has been widely accepted as a form of "quiet electronic."
+Chillstep / Liquid Dubstep は、単なるダブステップの派生ではなく、インターネットと映像文化が音楽のジャンルを形成した代表的なケースと言える。2020年代に入ってからも、ローファイ文化、アンビエント、Melodic Bass、Future Garage などのジャンルと滑らかに融合し、より広い範囲で“静かなエレクトロニック”の一形態として受容されている。
 
-Additionally, the following trends have been observed in recent years.
+また、近年では以下の傾向が見られる。
 
-* Incorporating Lo-Fi aesthetic
-* Organic percussion (wood, stone, paper sounds)
-* Connection with cinematic sound
-* Integration with VR, underwater footage, nature walk footage, etc.
+* Lo-Fi aesthetic の取り込み
+* オーガニック系パーカッション（木、石、紙の音）
+* シネマティック音響との接続
+* VR・水中映像・自然散策映像などとの統合
 
-Chillstep, which is a combination of "music + visuals + story," is likely to continue to have a quiet place on the Internet, even if it is not mainstream.
-
----
-
-## 9. Summary
-
-Chillstep / Liquid Dubstep is music that strips away the aggressive aspects of dubstep and rebuilds it around emotion, scenery, and tranquility. Artists such as Blackmill and MitiS defined the genre through their lyricism and careful sonic processing, creating many followers.
-
-Its musicality is not based on "strength" but on "temperature, breathing, and blank spaces."
-A quiet late night, the light of a video, a foggy landscape--Chillstep continues to have a solid presence by nestling into these scenes.
+「音楽＋視覚＋物語」としてのChillstepは、今後もメインストリームではなくとも、インターネット上の静かな居場所を保ち続けると考えられる。
 
 ---
 
+## 9. まとめ
+
+Chillstep / Liquid Dubstep は、ダブステップの攻撃的側面を削ぎ落とし、感情・風景・静けさを中心に再構築した音楽である。Blackmill、MitiS などのアーティストは、その叙情性と丁寧な音響処理によってジャンルの輪郭を明確にし、多くのフォロワーを生んだ。
+
+その音楽性は「強さ」ではなく「温度・呼吸・余白」で成立する。
+静かな深夜、映像の光、霧の広がる風景——そこに寄り添う形でChillstep は確かな存在感を持ち続けている。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2le3qMj9SrQ?si=ro-rZjfi_VgNMRx3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -12,9 +12,9 @@ title: Main Source – Think Atom
 ---
 
 
-Main Source is a joint American-Canadian hip-hop group originally consisting of DJ/producer brothers Kevin McKenzie (aka K-Cut) and Sean McKenzie (aka Sir Scratch) from Toronto, Canada, and rapper/producer William Paul Mitchell (aka Large Professor) from Queens.
+Main Sourceは、アメリカとカナダの合同ヒップホップグループで、もともとはトロント、カナダ出身のDJ/プロデューサーの兄弟、ケビン・マッケンジー（別名K-Cut）とショーン・マッケンジー（別名Sir Scratch）、そしてクイーンズ出身のラッパー/プロデューサー、ウィリアム・ポール・ミッチェル（別名Large Professor）から成っていました。
 
-Large Professor later left and was replaced by another MC, Michael Dearing (also known as MC Mikey D).
+後にLarge Professorが脱退し、別のMCであるマイケル・デアリング（別名MC Mikey D）に交代しました。
 
 #### Tracklist
 ```md

@@ -11,20 +11,20 @@ tags:
 - Techno
 - Ambient
 - 90s
-title: Sanjiva – 流動喜悅的秘密房間
+title: Sanjiva – Secret Rooms Over Flowing Delight
 ---
 
 
-Charles Reix（也稱為 Sanjiva）創作的一首 Techno Ambient Trance 曲目。它於 1996 年由 Sanjiva 自己的廠牌 Ninetysix Sounds 發行。他也以 Charles Kyosan 的名義工作。
+Sanjiva ことCharles Reixによるテクノ・アンビエント・トランストラック。1996年にSanjiva自身のレーベルNinetysix Soundsからリリースされた。Charles Kyosan名義でも活動していた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Secret Rooms
 
 B. Over Flowing Delight
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOHFGNvXAyY?si=khW6vSqPWYVZ3Chz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

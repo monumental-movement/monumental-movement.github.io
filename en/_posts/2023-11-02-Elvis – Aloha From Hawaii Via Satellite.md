@@ -12,11 +12,11 @@ title: Elvis – Aloha From Hawaii Via Satellite
 ---
 
 
-Elvis Presley's 1973 Hawaii performance live album - Japan original compilation.
+Elvis Presley（エルヴィス・プレスリー）の1973年ハワイ公演ライブアルバム - 日本独自編集盤です。
 
-Recorded live at 12:30 a.m. on Sunday, January 14, 1973 at the Honolulu International Center.
+録音は、1973年1月14日 (日曜日) 午前12:30、ホノルル国際センターにてライヴ録音。
 
-This album is a Japan-specific compilation album that was released in a hurry after the TV special aired.
+このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
 
 #### Tracklist
 ```md
@@ -69,7 +69,7 @@ D4. A Big Hunk O' Love
 D5. Can't Help Falling In Love
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

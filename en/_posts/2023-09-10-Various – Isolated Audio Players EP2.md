@@ -20,15 +20,15 @@ title: Various – Isolated Audio Players EP2
 
 
 
-Isolated Audio Players EP2 was released in 2001 by the excellent Japanese record label PICKIN' MUSHROOM RECORDINGS.
+Isolated Audio Players EP2は、2001年に日本の優れたレコードレーベルであるPICKIN' MUSHROOM RECORDINGSからリリースされました。
 
-There is a Flicker by Takayuki Shiraishi of Deep House. This track was also played by DJ HIKARU and features a deep sound and rhythm.
+ディープハウスの白石隆之によるFlickerがあります。このトラックは、DJ HIKARUもプレイしており、深いサウンドとリズムが特徴です。
 
-In addition, "Tennis" by JIN HIYAMA, which has an electric breakbeat with a unique texture, is attractive with its rough sound and exciting beat.
+また、エレクトリックなブレイクビーツに独自の質感を持たせたJIN HIYAMAによる "Tennis"は、ザラついたサウンドと刺激的なビートが魅力です。
 
-And finally, "Storm" by DOL-LOP, a central figure of SOUND-CHANNEL, an important label that contributed to Japan's underground scene, is included. This track features a unique and cool breakbeat, giving it a distinctly Japanese originality.
+そして最後に、日本のアンダーグラウンドシーンに貢献した重要なレーベル、SOUND-CHANNELの中心人物であるDOL-LOPによる "Storm" が収録されています。このトラックは、独自のクールなブレイクビートが特徴で、日本人らしい独創性が感じられます。
 
-This EP has been hailed as one of the important works in the Japanese music scene. You will be able to enjoy the essence of the underground music of the time.
+このEPは、日本の音楽シーンにおいて重要な作品の一つとして、賞賛されています。当時のアンダーグラウンドな音楽のエッセンスを堪能できることでしょう。
 
 #### Tracklist
 ```md
@@ -44,7 +44,7 @@ B1. Jin Hiyama–Tennis
 B2. Dol-lop–Storm
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m98362957361?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98362957361?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-oDioCUZXeU?si=jOgBJmDUk1eHr7YH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

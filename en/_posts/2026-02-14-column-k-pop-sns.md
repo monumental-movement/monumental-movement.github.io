@@ -17,7 +17,7 @@ title: '[Column] Relationship between K-POP and SNS strategy | Why did it gain g
 
 ## Why is K-POP so popular? - Success factors seen from the structure
 
-Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy
+Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy based on facts
 
 ### K-POP as a "system" that transcends music genres
 
@@ -27,7 +27,7 @@ In South Korea, a training system led by talent agencies was established in the 
 
 This flow of ""nurturing → debut → continuous content supply"' has a high affinity with the SNS era, which is an important prerequisite for K-POP"s success.
 
-> The strength of K-POP lies not in individual songs, but in a comprehensive "strategic model" that includes operational design.
+> K-POPの強さは楽曲単体ではなく、運営設計を含めた総合的な“戦略モデル”にある。
 
 ---
 
@@ -52,7 +52,7 @@ color: #fff;
 
 Until the 2000s, overseas expansion relied on television broadcasts and local contracts. However, YouTube, which launched in 2005, changed the situation completely.
 
-In 2012, PSY's ""Gangnam Style'' became a worldwide hit, becoming the first song at the time to surpass 1 billion views on YouTube. This event is a symbolic event that demonstrated that K-POP can overcome language barriers.
+In 2012, PSY's "Gangnam Style" became a worldwide hit, becoming the first song at the time to surpass 1 billion views on YouTube. This event is a symbolic event that demonstrated that K-POP can overcome language barriers.
 
 Since then, it has become standard for K-POP music videos to be released on YouTube at the same time as their debut. The number of views has become an indicator of fandom, and a structure has been created in which fans around the world can share their "results" in real time.
 
@@ -85,7 +85,7 @@ By actively communicating on Twitter, they were shaping overseas trends even bef
 
 ## Chronology of K-POP expansion seen through data
 
-### Main events
+### Major events
 
 * 1996: H.O.T. debut
 * 2009: Girls' Generation enters Japan
@@ -139,7 +139,7 @@ By supporting multilingual subtitles from the time of debut, we anticipate an in
 
 ### 3. Organizing your fandom
 
-Through official fan clubs, apps, voting systems, etc., we will visualize the amount of enthusiasm and form a sustainable economic zone.
+Visualize the amount of enthusiasm through official fan clubs, apps, voting systems, etc. and form a sustainable economic zone.
 
 > K-POP strategy is a business model that designs and quantifies energy.
 
@@ -166,7 +166,7 @@ K-Pop's success is not a coincidence or a single hit.
 
 These work together to enable sustained expansion.
 
-K-POP strategy is a model that integrates music business and platform economy. There is a clear design philosophy and continuous operation.
+K-POP strategy is a model that integrates the music business and platform economy. There is a clear design philosophy and continuous operation.
 
 > K-POP is popular because it designed emotions and algorithms at the same time.
 

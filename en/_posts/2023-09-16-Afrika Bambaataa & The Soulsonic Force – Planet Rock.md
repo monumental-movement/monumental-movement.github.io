@@ -13,13 +13,13 @@ title: Afrika Bambaataa & The Soulsonic Force – Planet Rock
 ---
 
 
-A song by American hip-hop artist Afrika Bambaataa and his band The Soulsonic Force, released in 1982.
+アメリカのヒップホップアーティスト、Afrika Bambaataaと彼のバンドThe Soulsonic Forceによる楽曲で、1982年にリリースされました。
 
-It is known as a pioneering song that combines elements of electronic music, funk, and hip-hop. The song features a unique synthesizer riff and vocal sample, and its innovative sound had a major influence on the evolution of hip-hop and dance music.
+エレクトロニックミュージック、ファンク、ヒップホップの要素を融合させた先駆的な楽曲として知られています。この曲は、独特のシンセサイザーのリフとボーカルサンプルを特徴としており、その革新的なサウンドはヒップホップやダンスミュージックの進化に大きな影響を与えました。
 
 It gained huge popularity with the rise of breakdance and street culture, and is recognized as a hip-hop classic. The song has also been sampled and reinterpreted by numerous artists and producers, influencing songs in a variety of genres.
 
-'Planet Rock' is widely acclaimed as the signature work of Afrika Bambaataa and The Soulsonic Force, whose innovative sound and pioneering approach hold a significant place in the history of hip-hop and dance music.
+「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
 
 #### Tracklist
 ```md

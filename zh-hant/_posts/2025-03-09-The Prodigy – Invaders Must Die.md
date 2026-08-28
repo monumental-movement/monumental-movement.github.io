@@ -10,16 +10,16 @@ tags:
 - Breaks
 - Big Beat
 - 00s
-title: 神童－入侵者必須死
+title: The Prodigy – Invaders Must Die
 ---
 
 
-這張專輯是英國電子舞曲樂團The Prodigy 的第五張錄音室專輯。這張專輯於2009年發行，是第一張讓所有樂團成員參與製作過程的專輯，並取得了商業上的成功。
+このアルバムは、UKのエレクトロニックダンスミュージックグループ、The Prodigy(プロディジー)の5枚目のスタジオ・アルバム。2009年にリリースされたこのアルバムは、すべてのバンドメンバーが制作プロセスに参加した初めてのアルバムで、商業的にも成功を収めた。
 
-內含《Invaders Must Die》、《Omen》、《Warrior's Dance》和《Take Me to the Hospital》等熱門歌曲。
+「Invaders Must Die」、「Omen」、「Warrior's Dance」、「Take Me to the Hospital」等のヒット曲が収録されている。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 CD-1. Invaders Must Die
 CD-2. Omen
@@ -44,7 +44,7 @@ DVD-3. World's On Fire (Live)
 DVD-4. Warrior's Dance (Live)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 
-#### 尤特布埃
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

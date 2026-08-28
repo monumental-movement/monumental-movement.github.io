@@ -12,11 +12,11 @@ title: Photek – Modus Operandi
 ---
 
 
-Rupert Parkes, better known as Photek, is a British electronic music DJ, record producer, and television and film composer based in Los Angeles.
+Photekとして知られているRupert Parkes （ルパート・パークス）は、ロサンゼルスを拠点とするイギリスの電子音楽 DJ/レコード プロデューサー、テレビおよび映画音楽の作曲家。
 
-Photek received three consecutive Grammy nominations in the Best Remix Recording, Non-Classical category, for Daft Punk"s "End of Line" on the soundtrack of the film Tron: Legacy in 2012, and for Moby"s "Lie Down in Darkness" in 2012.
+Photekは、2012 年に映画『トロン: レガシー』のサウンドトラックに収録されているダフトパンクの「エンド・オブ・ライン」、2012 年にモービーズ の「ライ・ダウン・イン・ダークネス」で、非クラシック部門の最優秀リミックス・レコーディング部門で 3 回連続でグラミー賞にノミネートされた。
 
-"Modus Operandi" is a future jazz downtempo jungle track by Photek released in 1998 on Virgin Group"s electronic/dance sub-label Science in the late 90"s.
+「Modus Operandi」は、90年代後半のVirginグループのエレクトロニック/ダンスサブレーベルScienceより1998年にリリースされたPhotekのフューチャージャズ・ダウンテンポ ・ジャングルトラック。
 
 #### Tracklist
 ```md
@@ -25,7 +25,7 @@ A. Modus Operandi
 B. Yendi
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m20766489483?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20766489483?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZVAtLvEhhN4?si=fWPNnKW7RgoJcv58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

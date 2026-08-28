@@ -11,34 +11,34 @@ tags:
 - 80s
 - 90s
 - 00s
-title: 【專欄】Electro：機器雕刻的未來城市的節奏
+title: 【コラム】 エレクトロ（Electro）：マシンが刻む未来都市のリズム
 ---
 
 
-## 網路放克聽起來既頹廢又複雜。
+## 退廃と洗練を同時に響かせる電脳ファンク
 
 
-文：mmr｜主題：隨著霹靂舞而生的電子心跳
+文：mmr｜テーマ：ブレイクダンスと共に生まれた電子の鼓動
 
-<小時>
+<hr>
 
-### 介紹
+### イントロダクション
 
-Electro 是 20 世紀 80 年代初出現的電子音樂潮流。他們以放克和嘻哈節奏為基礎，以節奏機尤其是 Roland TR-808 的節拍為核心，實現了獨特的演變。深沉的低音大鼓、乾小鼓和合成器的未來主義聲音對後來的 techno、house、electricclash 甚至現代低音音樂產生了深遠的影響。
+エレクトロ（Electro）は、1980年代初頭に生まれた電子音楽の潮流である。ファンクやヒップホップのリズムを基盤に、リズムマシン、特にRoland TR-808のビートを核とすることで独自の進化を遂げた。重低音のキック、乾いたスネア、そしてシンセサイザーによる近未来的なサウンドは、のちのテクノ、ハウス、エレクトロクラッシュ、さらには現代のベースミュージックにも強烈な影響を残している。
 
-<小時>
+<hr>
 
-### 電子音樂的起源：與嘻哈音樂的共鳴
+### エレクトロの起源：ヒップホップとの共振
 
-電子音樂的誕生與紐約布朗克斯區的霹靂舞文化密切相關。
+エレクトロの誕生は、ニューヨーク・ブロンクスのブレイクダンス・カルチャーと密接に結びついている。
 
-#### **Afrika Bambaataa 與 The Soulsonic Force – Planet Rock (1982)**
+#### **Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)**
 
-這是一部歷史傑作，採樣了 Kraftwerk 的“Trans-Europe Express”和“Numbers”，並將它們與 TR-808 的節奏融合在一起。結果，電子音樂成為「未來派嘻哈音樂」。
+クラフトワークの「Trans-Europe Express」と「Numbers」をサンプリングし、TR-808のリズムに融合した歴史的名曲。これにより、エレクトロは「未来的なヒップホップ」として登場した。
 
-《Planet Rock》被廣泛讚譽為 Afrika Bambaataa 和 The Soulsonic Force 的標誌性作品，其創新的聲音和開創性的方法在嘻哈和舞曲音樂史上佔有重要地位。
+「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Planet Rock (Vocal)
 
@@ -47,56 +47,56 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**埃及情人 – 埃及，埃及**
+**Egyptian Lover – Egypt, Egypt**
 
-她充分利用合成器，呈現出一種性和頹廢的世界觀。象徵西海岸場景的歌曲。
+シンセを駆使しつつ、セクシャルで退廃的な世界観を提示。西海岸シーンを象徴する一曲。
 
-電子樂不僅是一種音樂類型，更是一種與霹靂舞和街頭時尚密不可分的文化。銀色的服裝和網路風格的視覺效果體現了「機器與人類融合」時代的感性。
+エレクトロは単なる音楽ジャンルではなく、ブレイクダンスやストリート・ファッションと不可分のカルチャーであった。シルバーの衣装やサイバー風ビジュアルは「マシンと人間の融合」という時代感覚を体現していた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 科技與電子的交叉點
+### テクノとエレクトロの交錯
 
-1980 年代末和 1990 年代，底特律科技音樂和電子音樂重新結合。
+1980年代後半から1990年代にかけて、デトロイト・テクノとエレクトロは再び結びつく。
 
-**Drexciya（來自底特律的傳奇二人組）** 是一部以海底文明為主題的概念作品，為硬電子節拍賦予了神話般的品質。
+**Drexciya（デトロイトの伝説的デュオ）**は、海底文明をテーマにしたコンセプト作品で、硬質なエレクトロ・ビートに神話性を付与した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LJuuaAIzDNQ?si=sL_5sD8Q9YAv0T4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**胡安·阿特金斯（Juan Atkins，型號 500）** 是 techno 領域的先驅，也是多產的電子音樂曲目製作人，自由地跨越了兩者之間的界限。
+**Juan Atkins（Model 500）**は、テクノのパイオニアであると同時に、エレクトロ的なトラックを数多く制作し、両者の境界を自由に行き来した。
 
-這種趨勢後來導致了 IDM 和故障電子樂。
+この流れは、のちのIDMやグリッチ・エレクトロニカにもつながっていく。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NQCB6yK9gvc?si=5eg1vQF0lHBk3phd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
 ### 2000年代のリバイバルとエレクトロクラッシュ
 
-2000 年代初，電子音樂重新成為人們關注的焦點。
+2000年代初頭、エレクトロは再び脚光を浴びる。
 
-**Electroclash**：由 Kittin 小姐和駭客、Fischerspooner、成人驅動。和其他人。他們頹廢、以藝術為導向的聲音與時尚產業緊密相連。
+**Electroclash（エレクトロクラッシュ）**：Miss Kittin & The Hacker、Fischerspooner、Adult. などが牽引。退廃的でアート志向のサウンドは、ファッション業界とも密接に結びついた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkDFsFpwcFE?si=g93DAy6Rf931tE-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Electro House 連結**：Justice 和 Digitalism 等法國/德國藝術家透過將電子合成器即興演奏與 house 4/4 融合在一起，席捲了俱樂部舞台。
+**Electro Houseとの接続**：JusticeやDigitalismといったフランス／ドイツのアーティストが、エレクトロ的なシンセ・リフをハウスの4つ打ちに融合し、クラブシーンを席巻。
 
-Justice 是一支自 2003 年開始活躍的法國電子舞曲樂隊，其首張專輯於 2007 年由法國廠牌 Ed Banger Records 發行，在全球範圍內取得了成功，其中包括格萊美獎最佳電子/舞曲專輯提名。
+2003年から活動するフランスのエレクトロニックダンスバンドJusticeのデビューアルバムは、フランスのレーベルEd Banger Records(エドバンガーレコード)から2007年にリリースされ、グラミー賞のベスト・エレクトロニック/ダンス・アルバム部門にノミネートされるなど世界的な成功を収めた。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Genesis
 2. Let There Be Light
@@ -112,52 +112,52 @@ Justice 是一支自 2003 年開始活躍的法國電子舞曲樂隊，其首張
 12. One Minute To Midnight
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<小時>
+<hr>
 
-### 現代電子
+### 現代のエレクトロの姿
 
-今天的電子音樂以其最純粹的形式繼承下來，但也分散到各種流派中。
+今日のエレクトロは、純粋な形で継承される一方、様々なジャンルに分散している。
 
-作為 techno/IDM 的子流派，使用類比合成器和 808 的硬軌不斷發布。
+テクノ／IDMのサブジャンルとして、アナログシンセと808を用いた硬質なトラックがリリースされ続けている。
 
-源自電子樂的節奏方法在低音音樂和 trap 中也很明顯。
+ベースミュージックやTrapにも、エレクトロ由来のリズム・アプローチが顕著に見られる。
 
-在日本場景中，Ken Ishii 和 Goth-Trad 融入了電子元素並發展了自己獨特的詮釋。
+日本のシーンでは、Ken IshiiやGoth-Tradがエレクトロ的要素を取り入れ、独自の解釈を展開してきた。
 
-<小時>
+<hr>
 
-### 著名傑作
+### 注目すべき代表作
 
-[Afrika Bambaataa 與 Soulsonic Force – Planet Rock (1982)](https://monumental-movement.jp/Afrika-Bambaataa-&-The-Soulsonic-Force-Planet-Rock)
+[Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)](https://monumental-movement.jp/Afrika-Bambaataa-&-The-Soulsonic-Force-Planet-Rock)
 
-[埃及情人 – 尼羅河上 (1984)](https://amzn.to/49dLrmB)
+[Egyptian Lover – On the Nile (1984)](https://amzn.to/49dLrmB)
 
-[Cybotron – 清晰 (1983)](https://amzn.to/3WRX6QB)
+[Cybotron – Clear (1983)](https://amzn.to/3WRX6QB)
 
-[Drexciya – 海王星的巢穴 (1999)](https://amzn.to/42Q2l70)
+[Drexciya – Neptune’s Lair (1999)](https://amzn.to/42Q2l70)
 
-[Miss Kittin & The Hacker – 第一張專輯 (2001)](https://amzn.to/4or6aI1)
+[Miss Kittin & The Hacker – First Album (2001)](https://amzn.to/4or6aI1)
 
-[正義 – 十字架 (2007)(https://monumental-movement.jp/Justice-+)
+[Justice – Cross (2007](https://monumental-movement.jp/Justice-+)
 
-<小時>
+<hr>
 
-### 動搖機器與人類界線的電動凹槽
+### マシンと人間の境界を揺さぶる電撃グルーヴ
 
-Electro不僅是一種暫時的流派，而是電子音樂發展的基石。它的 DNA 繼續存在於嘻哈音樂、電子音樂、浩室音樂、電擊音樂甚至現代電子舞曲。
-機器和人類共鳴的聲音是電子音樂的核心，也是它繼續預測音樂未來的原因。
+エレクトロは、単なる一過性のジャンルではなく、電子音楽の発展における基盤となる存在である。ヒップホップ、テクノ、ハウス、エレクトロクラッシュ、さらには現代のエレクトロニック・ダンスミュージックに至るまで、そのDNAは脈々と息づいている。
+マシンと人間が共振するサウンド――それこそがエレクトロの核心であり、未来の音楽を予言し続ける所以なのだ。
 
 ---
 
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CerbZmbFQgs?si=XBpdPn7-Fiu7KKIH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

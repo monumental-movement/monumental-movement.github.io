@@ -13,13 +13,13 @@ title: Ian McCulloch – September Song
 ---
 
 
-Ian McCulloch is a singer and guitarist (born May 5, 1959) known for his emotional image and is primarily known as the vocalist of Echo And The Bunnymen.
+Ian McCullochは、シンガーであり、ギタリスト（1959年5月5日生まれ）で、情緒的なイメージで知られており、主にEcho And The Bunnymenのボーカリストとして知られています。
 
-His career also includes a stint with The Crucial Three in the 1970s with Pete Wylie and Julian Cope, and in the 90s with the Bunnymen offshoot Electrafixion.
+彼のキャリアには、1970年代にPete WylieとJulian Copeと共にThe Crucial Threeで活動した時期や、90年代にBunnymenの派生バンドであるElectrafixionでの活動も含まれています。
 
-McCulloch cites Lou Reed, Iggy Pop, The Doors, Leonard Cohen, and especially David Bowie as his musical influences.
+マッカロークは自身の音楽的影響源として、ルー・リード、イギー・ポップ、ザ・ドアーズ、レナード・コーエン、そして特にデヴィッド・ボウイを挙げています。
 
-He describes Cohen's 1968 song "Susan" as "a song with perfect lyrics and a perfect melody" and Bowie as "the greatest solo artist of the 20th century who had a huge influence".
+彼は、コーエンの1968年の曲「スーザン」を「完璧な歌詞と完璧なメロディーを持つ曲」、そしてボウイを「非常に大きな影響を与えた20世紀最高のソロアーティスト」と評しています。
 
 #### Tracklist
 ```md

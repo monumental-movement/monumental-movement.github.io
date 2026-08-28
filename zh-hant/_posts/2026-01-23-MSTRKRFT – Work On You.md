@@ -9,17 +9,17 @@ permalink: /zh-hant/mstrkrft-work-on-you/
 tags:
 - Electro
 - 00s
-title: MSTRKRFT – 為你而努力
+title: MSTRKRFT – Work On You
 ---
 
 
-Mstrkrft (Mastercraft) 是一支加拿大電子二人組，由 Death from Below (DFA 1979) 的 Jesse F. Keeler 和電子流行樂隊 Girlsareshort 的 Al-P (Alex Puodziukas) 於 2005 年組建。
+Mstrkrft（マスタークラフト)は、2005年にDeath from Above (DFA /デス・フロム・アバヴ 1979)のJesse F. Keelerと、エレクトロポップ・グループGirlsareshortのAl-P（Alex Puodziukas）によって結成されたカナダのエレクトロニックデュオ。
 
-《Work On You》是澳洲廠牌 Modular Recordings 於 2006 年發行的一首電子歌曲。
+「Work On You」は、2006年にオーストラリアのレーベルModular RecordingsからリリースされたElectroトラック。
 
-B1 是由法國電子製作人 Para One 製作的混音版，Para One 因法國電影《睡蓮》的配樂而聞名。
+B1は、フランスのエレクトロニックプロデューサーであり、フランス映画『水の中のつぼみ』（Water Lilies） のサウンドトラックで知られるPara One によるremix。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Work On You
 
@@ -27,7 +27,7 @@ B1. Work On You (Para One Remix)
 B2. Community Revolution In Progress
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m23648685109?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23648685109?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVAe5F0vto4?si=bJdsDN_CKlyOnetn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

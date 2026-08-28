@@ -13,11 +13,11 @@ title: Latex – Encore
 ---
 
 
-Michael Borrmann, also known as Latex, is a producer from Germany. He also works under the name Steril and has released on various labels including DJ Hell's label International Deejay Gigolo Records and Lasergun.
+Latex ことMichael Borrmannはドイツ出身のプロデューサー。Steril名義でも活動しており、DJ Hell のレーベルInternational Deejay Gigolo RecordsやLasergunなど様々なレーベルからリリースしている。
 
-"Encore" is an Electro, Tech House track released in 2001 on Müller Records, a Berlin-based techno and electro label run by Frank Müller.
+「Encore」は、2001年にFrank Müller(フランク・ミュラー)が運営するベルリンを拠点とするテクノ&エレクトロレーベルMüller RecordsからリリースされたElectro, Tech Houseトラック。
 
-Mastering was done by engineer Christoph Grote-Beverborg of Dubplates & Mastering, aka CGB.
+マスタリングはDubplates & MasteringのエンジニアCGBことChristoph Grote-Beverborg。
 
 #### Tracklist
 ```md
@@ -28,7 +28,7 @@ B1. Encore
 B2. Rain In The Night
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m37449680311?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37449680311?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lxyTLrqExWI?si=6EmcK7LMSC8HE6KN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

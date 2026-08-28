@@ -10,15 +10,15 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: 魯道夫搖滾 (Rudolf Rocker) – 魯道夫搖滾 (Rudolf Rocker) 的異國聲音
+title: Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker
 ---
 
 
-魯道夫搖滾樂團是一支英國情景主義室內流行樂團，由傑瑞米·戴森、馬克·古道爾和史蒂文·古道爾組成。鍵盤手傑里米·戴森(Jeremy Dyson)也是BBC情境喜劇《紳士聯盟》的製作成員，並以編劇和喜劇演員的身份活躍。
+Rudolf Rocker(ルドルフ・ロッカー)は、Jeremy Dyson, Mark Goodall, Steven GoodallによるUKのシチュエーショニズムチェンバーポップアンサンブルバンド。キーボード担当のJeremy Dyson(ジェレミー・ダイソン)は、BBCのシットコム『リーグ・オブ・ジェントルマン 奇人同盟!』の制作メンバーでもあり脚本家・コメディアンとして活動している。
 
-《The Exotic Sounds Of Rudolf Rocker》是 Mook Records 唱片公司於 1998 年發行的獨立搖滾專輯。
+「The Exotic Sounds Of Rudolf Rocker」は、1998年にレーベルMook Records からリリースされたインディーロックアルバム。
 
-#### 曲目表
+#### Tracklist
 ```md
 1. Girum
 2. Guy Debord
@@ -33,4 +33,4 @@ title: 魯道夫搖滾 (Rudolf Rocker) – 魯道夫搖滾 (Rudolf Rocker) 的�
 11. Tight Stance
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m92910574936?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92910574936?afid=6142608987){: .button1}

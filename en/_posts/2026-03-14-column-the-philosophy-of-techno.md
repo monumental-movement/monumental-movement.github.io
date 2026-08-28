@@ -25,11 +25,11 @@ A 4/4 beat that continues to play in the darkness of the club.
 repeating rhythm.
 Inorganic synthesizer sound.
 
-At first glance, techno appears to be just dance music.
+一見すると、テクノはただのダンスミュージックのように見える。
 
-However, this music was not created just for entertainment.
+しかし、この音楽は単なる娯楽として生まれたわけではない。
 
-Collapse of the city.
+都市の崩壊。
 mechanized society.
 Imagination for the future.
 
@@ -39,9 +39,9 @@ And before you know it, people will start saying this.
 
 Techno is not music, but ""thought.''
 
-These words are by no means an exaggeration.
+この言葉は決して誇張ではない。
 
-This is because techno has always been music for thinking about the future and society.
+テクノは常に、未来と社会を考えるための音楽だったからだ。
 
 > Techno is a rhythm for imagining the future.
 
@@ -62,11 +62,11 @@ color: #fff;
 
 
 
-## 機械と音楽の出会い
+## The encounter between machines and music
 
-In order to understand the philosophy of techno, it is first necessary to look back at the relationship between machines and music.
+テクノの思想を理解するためには、まず機械と音楽の関係を振り返る必要がある。
 
-At the beginning of the 20th century, music underwent major changes.
+20世紀初頭、音楽は大きな変化を迎えた。
 
 録音技術の登場である。
 
@@ -78,34 +78,34 @@ This change changed the very concept of music.
 Electronic musical instruments were born in the 1920s.
 
 - theremin
-- Ondes Martenot
+- オンド・マルトノ
 
 These instruments used electricity to produce sound.
 
-Music has become something created not only by the body but also by technology.
+音楽は、身体だけでなくテクノロジーによって作られるものになったのである。
 
 Furthermore, after World War II, when magnetic tape became popular, new music was born.
 
-Music made by cutting and pasting tape.
+テープを切り貼りして作る音楽。
 
 Music that combines electronic sounds.
 
-These were later called "electronic music."
+これらは後に「電子音楽」と呼ばれる。
 
 Electronic music has liberated music from the concept of performance.
 
 作曲家は音そのものを素材として扱うようになる。
 
-This idea was the basis of techno.
+この考え方こそ、テクノの根本にある思想だった。
 
-> The origin of techno lies in the idea that music is viewed as a ""construction" rather than a ""performance".
+> テクノの原点は、音楽を「演奏」ではなく「構築」として捉える発想にある。
 
 ---
 
 
 ## Kraftwerk and the sounds of the future
 
-In the 1970s, new music was born in Germany.
+1970年代、ドイツで新しい音楽が生まれる。
 
 That is Kraftwerk.
 
@@ -117,11 +117,11 @@ They broke away from rock tradition and created music that incorporated mechanic
 
 Using these electronic devices, they created a futuristic sound.
 
-The theme was also unique.
+テーマも独特だった。
 
 - Highway
-- computer
-- robot
+- コンピューター
+- ロボット
 
 Whereas previous pop music was about love and emotion, their theme was technology itself.
 
@@ -129,8 +129,8 @@ Music has become a medium that depicts the city of the future.
 
 Even more important was their aesthetic.
 
-- A singing voice that is devoid of emotion.
-- Uniform rhythm.
+- 感情を排した歌声。
+- 均一なリズム。
 - Minimalist structure.
 
 This was music that expressed the relationship between humans and machines.
@@ -142,13 +142,13 @@ This idea would later become a central element of techno.
 ---
 
 
-## The city of Detroit
+## デトロイトという都市
 
 In the 1980s, techno was born in the American city of Detroit.
 
 This city had a special background.
 
-Detroit was once the center of the automobile industry.
+かつてデトロイトは自動車産業の中心だった。
 
 - Ford
 - General Motors
@@ -164,13 +164,13 @@ The city is filled with vacant lots and ruins.
 
 In this situation, young people began to create new music.
 
-They created their own style while being influenced by European electronic music.
+彼らはヨーロッパの電子音楽に影響を受けながら、独自のスタイルを生み出した。
 
-That's Detroit techno.
+それがデトロイト・テクノである。
 
 This music reflected the reality of the city.
 
-- 工場の機械のようなビート。
+- Beats like a factory machine.
 - Futuristic city-like synth sounds.
 - Inorganic yet emotional atmosphere.
 
@@ -181,7 +181,7 @@ Techno was the sound of the city.
 ---
 
 
-## テクノの三人の創始者
+## Three founders of techno
 
 The history of Detroit techno begins with three people.
 
@@ -192,9 +192,9 @@ They started making music in high school.
 The influences were diverse.
 
 - european electronic music
-- funk
-- disco
-- SF culture
+- ファンク
+- ディスコ
+- SF文化
 
 When these things are mixed together, a new sound is born.
 
@@ -204,13 +204,13 @@ Their music was not only music for clubs, but also music for imagining future ci
 - Technology.
 - artificial intelligence.
 
-こうしたテーマはテクノの重要なモチーフになる。
+These themes become important motifs in techno.
 
 This music was also a new form of black music.
 
 While having a tradition of jazz and funk, they incorporate electronic music.
 
-In other words, techno was a fusion of black music and futuristic ideas.
+つまりテクノは、黒人音楽と未来思想の融合だったのである。
 
 > Techno was born at the intersection of black musical tradition and futuristic technology.
 
@@ -220,7 +220,7 @@ In other words, techno was a fusion of black music and futuristic ideas.
 
 テクノの最大の特徴は反復である。
 
-同じビートが何分も続く。
+The same beat continues for minutes.
 
 The melody hardly changes.
 
@@ -228,25 +228,25 @@ Why was this structure created?
 
 One of the reasons is dance.
 
-In the club, we needed a long groove.
+クラブでは長いグルーヴが必要だった。
 
 However, another reason lies in the philosophy of music.
 
-Repetition changes human consciousness.
+反復は、人間の意識を変える。
 
-When the same rhythm continues, the listener loses sense of time.
+If the same rhythm continues, the listener loses sense of time.
 
-This is a phenomenon found in many cultures.
+これは多くの文化で見られる現象である。
 
 - religious rituals
 - trance music
 - Shamanism
 
-Repetitive rhythms lead humans into a trance state.
+反復するリズムは、人間をトランス状態に導く。
 
 Techno was a reconstruction of this old musical principle using electronic sounds.
 
-In short, techno is the most futuristic music, but also the most primitive.
+つまりテクノは、最も未来的な音楽でありながら、最も原始的な音楽でもある。
 
 > Techno repetition is a device for changing time and consciousness.
 
@@ -255,7 +255,7 @@ In short, techno is the most futuristic music, but also the most primitive.
 
 ## A community called a club
 
-The philosophy of techno is also deeply connected to club culture.
+テクノの思想は、クラブ文化とも深く結びついている。
 
 Clubs are not just entertainment facilities.
 
@@ -263,7 +263,7 @@ New social relationships are born there.
 
 - race
 - Gender
-- Occupation
+- 職業
 
 On the club floor, these differences temporarily disappear.
 
@@ -273,7 +273,7 @@ This experience has been called "temporary community" by sociologists.
 
 On the techno floor, collective energy is more important than individual energy.
 
-DJs are the ones who control that energy.
+DJはそのエネルギーをコントロールする存在だ。
 
 Design the floor time while connecting the songs.
 
@@ -286,30 +286,30 @@ Clubs were spaces created by music.
 ---
 
 
-## Minimalism and techno
+## ミニマリズムとテクノ
 
 Another characteristic of techno is minimalism.
 
 Build music with few elements.
 
 - kick
-- Hi-hat
+- ハイハット
 - base
-- Synth
+- シンセ
 
-This alone makes the song complete.
+これだけで曲が成立する。
 
 This structure has something in common with minimalism in contemporary music.
 
 Composers in the 1960s began creating music that used repetition.
 
-Repeat short phrases and change them little by little.
+短いフレーズを繰り返しながら、少しずつ変化させる。
 
 Techno uses the same method.
 
 Small changes produce big effects over a long period of time.
 
-This is especially powerful on the club floor.
+これはクラブのフロアで特に強い力を持つ。
 
 - Slight filter changes.
 - Added hi-hat.
@@ -323,11 +323,11 @@ Minimal music sharpens the listener's senses.
 ---
 
 
-## Techno spreading around the world
+## 世界に広がるテクノ
 
 In the 1990s, techno spread all over the world.
 
-- Berlin
+- ベルリン
 - London
 - Tokyo
 - Amsterdam
@@ -336,7 +336,7 @@ Each city created its own style.
 
 Berlin produces a darker, more minimal sound.
 
-In London, it is associated with rave culture.
+ロンドンでは、レイヴ文化と結びつく。
 
 Japan has developed its own club scene.
 
@@ -344,7 +344,7 @@ In this way, techno becomes a global music.
 
 But the important thing is that all cities shared the same ideology.
 
-- Imagination for the future.
+- 未来への想像力。
 - Interest in technology.
 - A community called a club.
 
@@ -359,7 +359,7 @@ These were the core of techno culture.
 
 <div class="mermaid">
 graph TD
-A[Birth of electronic music]
+A[電子音楽の誕生]
 B[Kraftwerk]
 C[detroit]
 D[club culture]
@@ -380,15 +380,15 @@ E --> F
 ---
 
 
-## Techno history chronology
+## テクノ史 年表
 
 | Years | Events |
 | ------ | ----------------- |
-| 1920s | Birth of electronic musical instruments |
+| 1920年代 | 電子楽器の誕生           |
 | 1940s | Magnetic tape music |
 | 1970s | Development of German electronic music |
-| 1980s | Birth of Detroit Techno |
-| 1990s | Expansion of global club culture |
+| 1980年代 | デトロイト・テクノ誕生       |
+| 1990年代 | 世界的クラブ文化の拡大       |
 | 2000s | Minimal techno trend |
 | 2010s | Festivalization and globalization |
 | 2020s | Streaming and online DJ culture |
@@ -398,7 +398,7 @@ E --> F
 ---
 
 
-## Techno as the music of the future
+## 未来の音楽としてのテクノ
 
 Techno has always imagined the future.
 
@@ -408,13 +408,13 @@ Techno has always imagined the future.
 
 These themes have been depicted in music for decades.
 
-But what's interesting is that the real world is moving closer to that future.
+しかし興味深いのは、現実の世界がその未来に近づいていることだ。
 
 - A.I.
-- Digital society
+- デジタル社会
 - Automation
 
-The world envisioned by techno is gradually becoming reality.
+テクノが描いてきた世界は、徐々に現実になっている。
 
 That's why techno continues to have new meaning.
 
@@ -431,7 +431,7 @@ Rather, it is a culture for thinking about the future.
 
 Techno is not just a genre.
 
-- It's about how to make music.
+- それは音楽の作り方。
 - How the city feels.
 - Imagination of the future.
 
@@ -439,13 +439,13 @@ It is a culture that includes these things.
 
 People imagine the future within the repeating beats.
 
-And on the floor of a dark club, they share the same rhythm.
+そして暗いクラブのフロアで、同じリズムを共有する。
 
 At that moment, music becomes more than just entertainment.
 
 It becomes a thought.
 
-Techno is music for thinking about the future.
+テクノは、未来を考えるための音楽なのだ。
 
 > Techno is an ideological rhythm for imagining the future.
 

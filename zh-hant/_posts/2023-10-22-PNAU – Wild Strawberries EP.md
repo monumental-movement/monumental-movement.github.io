@@ -9,13 +9,13 @@ permalink: /zh-hant/pnau-wild-strawberries-ep/
 tags:
 - Techno
 - Acid
-title: PNAU – 野草莓 EP
+title: PNAU – Wild Strawberries EP
 ---
 
 
-PNAU 是由 Nick Littlemore 和 Peter Mayes 組成的澳洲電子舞曲樂團。
+PNAU（プナウ）は、Nick Littlemore（ニック・リトルモア）、Peter Mayes（ピーター・メイズ）によるオーストラリアのエレクトロニックダンスミュージックグループ。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Wild Strawberries [Extended Mix]
 
@@ -24,7 +24,7 @@ B1. No More Violence [Extended Mix]
 B2. We Have Tomorrow [Extended Mix]
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m56119602273?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56119602273?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nd58wUq0gsM?si=fdf4f5_12M3JoS6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

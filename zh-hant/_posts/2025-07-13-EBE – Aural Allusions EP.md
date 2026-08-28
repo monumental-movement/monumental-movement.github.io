@@ -10,16 +10,16 @@ tags:
 - Leftfield
 - Tech House
 - 00s
-title: EBE – 聽覺典故 EP
+title: EBE – Aural Allusions EP
 ---
 
 
-Lucas Rodenbush，也被稱為 EBE，是一位居住在聖荷西的美國電子音樂家。他曾在 Transmat、Soma、Plastic City、Greyhound、Afterhours、Resource Records、Jump Recordings 和 Organized Noise 等多家著名唱片公司發行唱片。其他名稱包括 Entity 和 Moonchild。
+EBEことLucas Rodenbush(ルーカス・ローデンブッシュ)は、サンホゼを拠点に活動するアメリカのエレクトロニックミュージシャン。Transmat, Soma, Plastic City, Grayhound, Afterhours, Resource Records, Jump Recordings, Organised Noiseなど様々な有名レーベルからリリースしている。別名義ではEntityやMoonchildなどがある。
 
-《Aural Allusions EP》是一首基於 Leftfield & Tech House 的電子和碎拍曲目，由 Greyhound Recordings 於 2005 年發行。 Greyhound Recordings 是一家先鋒舞蹈廠牌，具有融合 house、dub、techno 和迷幻放克元素的獨特願景。
+「Aural Allusions EP」は、2005年にハウス、ダブ、テクノ、サイケデリック・ファンクの要素を融合させるというユニークなビジョンを持つ先駆的なダンスレーベルGrayhound RecordingsからリリースされたLeftfield&Tech Houseをベースとしたエレクトロ＆ブレイクビートトラック。
 
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Busted
 A2. Electric
@@ -27,7 +27,7 @@ A2. Electric
 B. Overboard
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m25474551060?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25474551060?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hbnVF27yjOg?si=XE3blRbCoUoWqBPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

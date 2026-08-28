@@ -9,25 +9,24 @@ tags:
 - Citypop
 - 70s
 - 80s
-title: '[Column] Tatsuro Yamashita: Analog aesthetics and changes in sound after transition
-  to digital'
+title: 【コラム】 山下達郎：アナログの美学とデジタル移行後の音の変化
 ---
 
 
-## Production environment, equipment, recording methods, studio culture, media specifications
+## 制作環境・機材・録音手法・スタジオ文化・媒体仕様
 
-Text: mmr｜Theme: From the city pop era to the latest works, about the sound philosophy followed by "recording people"
+文：mmr｜テーマ：シティポップ時代から最新作まで、「録音の人」が貫いたサウンド哲学について
 
-In the history of Japanese pop music, **Tatsuro Yamashita** is not only a vocalist and composer, but also one of Japan's leading ""recording authors''.
-What runs through his albums, more than trends or music genres that change with the times, is **recording technology, medium, and acoustic philosophy**.
+日本のポップミュージック史において、**山下達郎**はボーカリスト・作曲家であると同時に、日本屈指の「録音作者」である。  
+彼のアルバムを貫いているものは、時代によって変化する流行や音楽ジャンル以上に、**録音技術、媒体、音響思想**である。
 
-especially,
+特に、  
 - **Thorough sound creation in the analog tape era**
-- **Careful changes and selections after introducing digital recording/digital equipment**
-- **Relationship with studio culture in the city pop era**
-- **Consistency of philosophy in recent remasters**
+- **デジタル録音／デジタル機器導入後の慎重な変化と選択**  
+- **シティポップ時代のスタジオ文化との関係**  
+- **近年のリマスターにおける哲学の一貫性**  
 
-These changes are not simply differences in sound quality, but reflect the history of popular recording in Japan itself.
+これらの変遷は、単なる音質の違いではなく、日本のポピュラー録音史そのものを映し出している。
 
 ---
 
@@ -47,64 +46,64 @@ color: #fff;
 
 # 1. 1970s: The golden age of analog tape and the foundation of Tatsuro Yamashita
 
-## ■ Sugar Babe (1973–1976)
+## ■ シュガー・ベイブ（1973–1976）  
 Tatsuro Yamashita's musical outlook was formed in the rock/pop analog recording culture of this period.
 
-- Recording medium: **Analog multitrack tape (2 inches, mainly 16-24tr)**
-- Studio: Early Japanese studio (Victor, Nichion, CBS Sony, etc.)
+- 録音媒体：**アナログ・マルチトラック・テープ（2インチ、主に16〜24tr）**  
+- スタジオ：日本の黎明期スタジオ（ビクター、日音、CBSソニーなど）  
 - Musical background: Deep commitment to American recording culture such as Brian Wilson, Phil Spector, Stax, etc.
 
-During this period, Tatsuro said that he had already solidified the idea that ""recording technology is the basis of music.''
+この時代、達郎はすでに「録音技術こそが音楽の根幹」という思想を固めていたと語っている。
 
 ### ■ Sound characteristics of "SONGS" (1975)
 - Self-chorus overdubbing
-- **Dead room sound** of drums
+- ドラムの**デッドなルームサウンド**  
 - Live recording of horns/strings
 - Analog-specific **thick mid-low range**
 
-Arrangements and recordings optimized for analog characteristics had already begun.
+アナログ特性に最適化されたアレンジと録音が、既にここから始まっていた。
 
 ---
 
-# 2. Late 1970s: Early solo period and the completed form of "Analog Layer"
+# 2. 1970年代後半：ソロ初期と「アナログ・レイヤー」の完成形
 
 ## ■ "SPACY" (1977), "GO AHEAD!" (1978)
-This period was the era when Tatsuro made full use of analog 24-track recording.
+この時期は、達郎が**アナログ24トラック録音を使い倒した時代**である。
 
-Features:
-- **Temperature-feeling compression** with tape
-- Overdubbing of hand playing (guitar, keyboard, percussion)
+特徴：
+- テープによる**温度感のあるコンプレッション**  
+- 手弾きの多重録音（ギター、キーボード、パーカッション）  
 - **Dozens of overdubbing vocals**
 
-In later years, Tatsuro said, ""The more you layer analogue, the more nuances will come together,'' and the works from this time are the ideal form of this.
+達郎は後年、「アナログは重ねるほどニュアンスが丸く収まる」と語っており、この頃の作品はその理想形である。
 
 ---
 
-# 3. 1980–1982: "RIDE ON TIME" "FOR YOU"
-## ■ The pinnacle of recording technology in the city pop era
+# 3. 1980–1982年：『RIDE ON TIME』『FOR YOU』  
+## ■ シティポップ時代の録音技術の頂点
 
-In the early 1980s, Japanese studio technology had reached a world-class level.
-At the center of this was **CBS Sony Shinanomachi Studio**.
+1980年代初頭、日本のスタジオ技術は世界的にも高い水準に到達していた。  
+その中心にあったのが **CBSソニー信濃町スタジオ**。
 
 ### ▼ Analog recording peak
-- Equipment used: Studer A80/A800 24tr, NEVE console
+- 使用機材：Studer A80/A800 24tr、NEVEコンソール  
 - Rhythm: Live drums + analog recording
-- Guitar: Warm tone through compressor
+- ギター：コンプレッサーを通した温かいトーン  
 - Chorus: "Dense layering" unique to analog
 - Reverb: EMT 140 plate with Lexicon pre-delay
 
 The sound from this time is often referred to as the ""ideal form of city pop.''
 
-## ■ Recording aesthetics of "FOR YOU" (1982)
-A work that is talked about as one of the top of Tatsuro's works.
-Acoustic characteristics:
+## ■ 『FOR YOU』（1982）の録音美学
+This work is said to be one of the top of Tatsuro's works.
+音響的特徴：
 
-1. **The highest level of clarity in analog recording**
+1. **アナログ録音の最高峰レベルのクリアさ**  
 2. The "thickness" of analog drum recordings
-3. Perfect chorus density and localization
+3. コーラスの密度と定位の完璧な構築  
 4. The treble side is rounded and feels like an analog ear.
 
-A rare work that is entirely analog but has modern resolution.
+すべてアナログでありながら、モダンな解像度を持った稀有な作品。
 
 ---
 
@@ -113,17 +112,17 @@ A rare work that is entirely analog but has modern resolution.
 CD was released in Japan in 1982.
 In the late 1980s, **digital recording equipment (PCM, digital multi, digital reverb)** began to spread rapidly.
 
-However, Tatsuro Yamashita is **one of the artists who was most cautious about digitalization**.
+だが、山下達郎は **デジタル化にもっとも慎重だったアーティストの一人**である。
 
-## ■ First introduction of digital
-Tatsuro began using digital equipment in earnest.
+## ■ デジタルの初導入  
+達郎が本格的にデジタル機材を使用しはじめたのは、  
 - Introduced digital synths (DX7, etc.)
-- Limited use of digital reverb (Lexicon 224/480)
-- The recording itself strongly maintains "analog tape"
+- デジタルリバーブ（Lexicon 224/480）は限定使用  
+- 録音そのものは「アナログ・テープ」を強く保持  
 
 Specifically, I avoided digital recording itself for the following reasons:
 
-- In the early stages of digital recording, high frequencies are hard and depth is easily lost.
+- デジタル録音初期は高域が硬く、奥行きが失われやすい  
 - I hated losing the "roundness" of analog over-recording.
 - Analog was better for building my own chorus.
 
@@ -133,33 +132,33 @@ In fact, Tatsuro says, ""The era when analog 24 tracks became obsolete was a cri
 
 # 5. 1990s: Entering the digital recording era and new approaches
 
-In the 1990s, the industry completely transitioned to digital.
+1990年代に入り、業界は完全にデジタルへ移行する。
 
-### ▼ Although Tatsuro transitioned to digital recording, his basic stance remained the same.
-- Adopts digital recording
+### ▼ Although Tatsuro transitioned to digital recording, he did not change his basic stance.
+- デジタル録音採用  
 - However, **increased processing to maintain analog texture**
-- Musical instrument recordings still use a lot of live sound
+- 楽器の録音は依然として生音を多用  
 - Continued chorus recording method
 
 ## ■ "ARTISAN" (1991)
-- A masterpiece from the era of full-fledged digital recording
-- High resolution, clear mid-high range
-- Using digital equipment while maintaining chorus techniques from the analog era
-- Sound is sharp but not cold
+- 本格的なデジタル録音時代の代表作  
+- 高解像度、クリアな中高域  
+- デジタル機材を使用しつつ、アナログ時代のコーラス技法を維持  
+- サウンドはシャープだが冷たくない  
 
-Tatsuro says, ""Even with digital recording, you can create a sense of temperature depending on how you record it.''
+達郎は「デジタルでも、録り方次第で温度感は出せる」と語っている。
 
 ---
 
-# 6. 2000s: The maturity of digital production and the establishment of "analog digital"
+# 6. 2000年代：デジタル制作成熟期と“アナログ的デジタル”の確立
 
-## ■ 2000s recording philosophy
+## ■ 2000年代の録音哲学
 - Production environment is completely digital
 - However, focus on microphone selection and room sound during the recording stage.
-- "Design analog textures even if they are digital"
+- 「デジタルであってもアナログ質感を設計する」  
 
 Tatsuro also built a high-quality recording environment at home,
-Achieving a unique fusion of **self-produced + digital + live sound**.
+**セルフ・プロデュース＋デジタル＋生音**という独自の融合を達成する。
 
 ---
 
@@ -167,26 +166,26 @@ Achieving a unique fusion of **self-produced + digital + live sound**.
 
 Throughout the 2020s, many analog era works have been remastered.
 
-Even in remastering, Tatsuro has made it clear that he strongly dislikes changing the sound.
+達郎はリマスターにおいても、**音の改変を極端に嫌う**スタンスを明確にしている。
 
-### ▼ Remastered features
+### ▼ リマスターの特徴
 - Faithfully reproduces the original tape
-- No extreme EQ
+- 極端なEQは一切せず  
 - Do not raise sound pressure unnaturally (reject loudness war)
-- Convey the original intent as is.
+- オリジナルの意図をそのまま伝える  
 
-As a result, recent analog reissues have received high praise worldwide.
+結果として、近年のアナログ再発は世界的にも高評価を受けている。
 
 ---
 
 # 8. 2020s: Latest works - era of analog return
 
 Nowadays, the demand for analog records is increasing again.
-Tatsuro maintains the following attitude amid the digital age:
+達郎は、デジタル全盛の中で次のような姿勢を貫く：
 
 - Recording is mainly digital
 - But focus on analog release
-- The mix retains an analog feel
+- ミックスはアナログ的な質感を残す  
 - Avoid excessive sound pressure
 - Maintains roundness of high range and thickness of midrange
 
@@ -194,7 +193,7 @@ In particular, his latest work has a sound that is a high-level fusion of "analo
 
 ---
 
-# 9. Chronology: Flow of transition from analog to digital
+# 9. 年表：アナログ〜デジタル移行の流れ
 
 <div class="mermaid">
 timeline
@@ -212,17 +211,17 @@ timeline
 
 ---
 
-# 10. Technical comparison of analog and digital sounds
-### -- Differences in acoustics based on Tatsuro's works
+# 10. アナログ音とデジタル音の技術的比較  
+### ――達郎作品を基準に見る音響の違い
 
-| Item | Analog period (~1980s) | Digital period (1990s~) |
+| 項目 | アナログ期（〜1980年代） | デジタル期（1990年代〜） |
 |------|---------------------------|--------------------------|
 | Recording media | Tape (2 inches) | PCM/ProTools |
-| Sound impression | Warm, thick, round | Clear, sharp |
-| Chorus | The more you layer, the more it becomes together | It tends to become stiff when layered |
-| Drums | Thick and natural low range | Fast rise |
-| Noise | Small amount of tape hiss | Almost zero |
-| Tatsuro"s evaluation | "It"s close to the ideal form of music" | "It depends on how you use it" |
+| 音の印象 | 温かい、厚い、丸い | クリア、シャープ |
+| Chorus | The more you layer, the more it becomes | It tends to become stiff when layered |
+| ドラム | 低域が太く自然 | 立ち上がりが速い |
+| ノイズ | 少量のテープヒス | ほぼゼロ |
+| 達郎の評価 | 「音楽の理想形に近い」 | 「使い方次第」 |
 
 ---
 
@@ -231,45 +230,45 @@ timeline
 The reason why Tatsuro Yamashita's masterpieces were reevaluated worldwide as city pop was as follows.
 It"s not just the charm of the songs, but also the texture of analog recording and Japan"s 1980s studio culture.
 
-point:
+ポイント：
 
-- Compatibility of live drums and analog recording
+- 生ドラムとアナログ録音の相性  
 - Advanced playing by hand musicians (Tatsuo Hayashi, Hironori Ito, Jun Aoyama, etc.)
-- Acoustic design of large studios (Shinanomachi, Victor, On Air, etc.)
+- 大型スタジオの音響設計（信濃町、ビクター、オンエアなど）  
 - Rich mid-low range with NEVE console
-- EMT plate reverberation culture
+- EMTプレートの残響文化  
 
-These "time-specific conditions" make the analog city pop sound unique.
+これら“時代に固有の条件”が、アナログ・シティポップの音を唯一無二にしている。
 
 ---
 
 # 12. Conclusion:
-## Tatsuro Yamashita's sound is not "analog vs. digital"
-## **Consistency in "recording philosophy" is everything**
+## 山下達郎の音は「アナログ vs デジタル」ではなく  
+## **“録音哲学”の一貫性がすべてである**
 
-Throughout his 50-year career, Tatsuro's sound can be summarized as follows:
+50年のキャリアを通じて、達郎の音はこうまとめられる：
 
-- Analog era:
-**By mastering the limits of materials and equipment, we have achieved the ultimate in "temperature sensation"**
+- アナログ時代：  
+  **素材と機器の限界を使いこなすことで“温度感”を極めた**
 
-- After digital migration:
-**Continued to maintain an analog feel while accepting the evolution of technology**
+- デジタル移行後：  
+  **技術の進化を受け入れつつ、アナログ的質感を保持し続けた**
 
-- Remastered era:
-**We have maintained a stance of faithfully reproducing the original sound rather than rewriting history**
+- リマスター時代：  
+  **歴史を塗り替えるのではなく、原音を忠実に再生するという姿勢を貫いた**
 
-In other words,
-**Even if the media and equipment change, the essence of Tatsuro Yamashita's sound remains the same. **
+つまり、  
+**メディアや機材が変わっても、山下達郎の音の本質は変わっていない。**
 
-It is said that "recording technology is music itself",
-This is a reflection of the beliefs he has held since the beginning of his career.
+それは「録音技術は音楽そのもの」という、  
+彼が活動初期から抱き続けてきた信念の反映である。
 
 ---
 
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F6hlK4KYBEQ?si=jNMFOmKVk-Z8RtOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

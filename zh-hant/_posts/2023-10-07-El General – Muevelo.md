@@ -10,19 +10,19 @@ tags:
 - House
 - Reggae
 - Ragga
-title: 埃爾將軍 – Muevelo
+title: El General – Muevelo
 ---
 
 
-《Muévelo》是巴拿馬雷鬼藝術家 El General 創作的一首歌。這首歌於1991年發行。
+「Muévelo」は、パナマ出身のレゲトンアーティスト、エル・ジェネラル（El General）による楽曲です。この曲は、1991年にリリースされました。
 
-《Muévelo》被譽為雷鬼音樂的代表歌曲之一，也是El General最受歡迎的歌曲之一。歌曲的標題「Muévelo」在西班牙語中是「移動」的意思，顧名思義，這首歌充滿節奏和能量，激發了舞蹈和派對的氣氛。
+「Muévelo」は、レゲトンの代表的な曲の一つとして知られており、エル・ジェネラルの最も人気のある楽曲の一つです。曲名の「Muévelo」はスペイン語で「動かす」を意味し、その名の通り、楽曲は踊りやパーティーの雰囲気を盛り上げるリズムとエネルギーに溢れています。
 
-《Muévelo》融合了雷鬼音樂特有的拉丁節奏和舞廳元素，並結合了El General獨特的饒舌風格。這首歌的特點是輕快的節奏和令人上癮的副歌，使其成為一首讓聽眾翩翩起舞的有力歌曲。
+「Muévelo」は、レゲトンの特徴であるラテン系のリズムやダンスホールの要素を取り入れており、エル・ジェネラルの独自のラップスタイルと組み合わさっています。曲は、軽快なビートや中毒性のあるフックが特徴であり、聴く人々を踊らせるパワフルな楽曲です。
 
-El General的《Muévelo》因其富有感染力的節奏和有趣的派對氣氛而受到拉丁樂迷和雷鬼愛好者的廣泛接受。這首歌至今仍被人們所喜愛，成為他職業生涯的代表作品之一。
+エル・ジェネラルの「Muévelo」は、その感染力のあるリズムと楽しいパーティーの雰囲気から、ラテン音楽のファンやレゲトン愛好家に広く受け入れられました。この曲は、彼のキャリアを代表する作品の一つとして、現在でも人々に愛され続けています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Muevelo (Version Radio)
 
@@ -33,7 +33,7 @@ B1. Muevelo (Remix)
 B2. Te Ves Buena (Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m24319848302?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24319848302?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZduEgYG9Zxw?si=KlNJaRirZDTrykeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,11 +9,11 @@ tags:
 - Rock
 - Funk
 - 7inch
-title: Prince And The Revolution – Purple Rain
+title: Prince And The Revolution  – Purple Rain
 ---
 
 
-"Prince And The Revolution – Purple Rain" was released in 1984.
+「Prince（プリンス） And The Revolution  – Purple Rain – パープル・レイン」は、1984年にリリースされました。
 
 #### Tracklist
 ```md

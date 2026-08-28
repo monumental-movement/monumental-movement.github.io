@@ -11,7 +11,7 @@ tags:
 - RnB
 - Ragga
 - HipHop
-title: 拉布拉犬——呃
+title: The Labrat – Eh
 ---
 
 
@@ -21,9 +21,9 @@ title: 拉布拉犬——呃
 
 
 
-The Labrat 的 HipHop/Ragga HipHop 曲目在 Muy Caliente Records 上發行。同一類別號，標籤文字有黑文版本和紅文版本，本筆記錄為紅文版本。
+Muy Caliente RecordsからリリースされたThe LabratによるHipHop／Ragga HipHopトラック。同じカテゴリーナンバーで、ラベルのテキストが黒文字ver.と赤文字ver.が存在し、このレコードは赤文字ver.。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. I Just Shag A Lot
 A2. Shagstrumental
@@ -32,4 +32,4 @@ B1. Dame Chocha
 B2. Da Heazy
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m19481515616?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19481515616?afid=6142608987){: .button1}

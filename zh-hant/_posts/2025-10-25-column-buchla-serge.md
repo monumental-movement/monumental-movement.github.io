@@ -12,21 +12,21 @@ tags:
 - Techno
 - Modular
 - History
-title: 【專欄】Buchla 和 Serge：電子聲學的另一個譜系
+title: 【コラム】 BuchlaとSerge：電子音響のもうひとつの系譜
 ---
 
 
-## “簡介—什麼是模組化？”
+## 「はじめに — モジュラーとは何か」
 
 
-文字：mmr |主題：西岸模組化合成器的精神史。 Don Buchler 和 Serge Tocheny 的想法如何融入當今的聲音設計
+文：mmr｜テーマ：西海岸モジュラーシンセの精神史。ドン・ブックラとサージ・トチェーニーの思想が、どのように今日のサウンドデザインへ継承されたのか
 
-20 世紀 70 年代初，美國西岸。
-有些人離開了大學的電子音樂工作室，試圖將**一種用於設計聲音的設備**帶回他們的個人創作空間。
-他們的名字是 **Don Buchla** 和 **Serge Tcherepnin**。
+1970年代初頭、アメリカ西海岸。  
+大学の電子音楽スタジオを離れ、**「音をデザインする装置」**を個人の創造空間へと持ち帰ろうとした人々がいた。  
+彼らの名前は **Don Buchla（ドン・ブックラ）** と **Serge Tcherepnin（サージ・トチェーニン）**。  
 
-Buchla 和 Serge 經常被稱為所謂的“模組化合成器的鼻祖”，但他們實際上脫穎而出，因為他們尋求創造哲學工具而不是商業工具。
-他們的設計理念包含「反規範」的聲音視角，這在當今的 Eurorack、Max/MSP，甚至基於人工智慧的生成音樂中很常見。
+BuchlaとSergeは、いわゆる「モジュラーシンセの始祖」として語られることが多いが、実際には**商業楽器ではなく、哲学的な道具**を作ろうとした点で異彩を放っている。  
+彼らの設計思想は、今日のEurorackやMax/MSP、あるいはAIを用いた生成音楽にも通底する“反・規範的”な音響観を宿していた。
 
 ---
 
@@ -45,23 +45,23 @@ color: #fff;
 
 
 
-## 1.Don Buchler：電子聲音的詩學
+## 1. ドン・ブックラ：電子音の詩学
 
-### 1-1.從舊金山磁帶音樂中心
+### 1-1. サンフランシスコ・テープ・ミュージック・センターから
 
-20 世紀 60 年代初，在舊金山的錄音帶音樂中心，**Morton Subotnick** 和 **Pauline Oliveros** 等藝術家正在探索實驗音樂與科技之間的新關係。
-他們尋找的是“一種不是鋼琴或吉他延伸的樂器。”
+1960年代初期、サンフランシスコのテープ・ミュージック・センターでは、**Morton Subotnick** や **Pauline Oliveros** らが、実験音楽とテクノロジーの新しい関係を模索していた。  
+彼らが求めたのは、「ピアノやギターの延長ではない楽器」だった。
 
-**Buchla Series 100 (1963–1966)** 應 Subotnick 的請求而出現。
-傳統的音樂可操作性被有意避免，例如使用旋鈕和跳線的聲學電路配置，以及觸控板鍵盤（實際上是一個沒有音階的電壓輸入設備）。
+Subotnickの依頼に応えて登場したのが、**Buchla Series 100（1963–1966）**である。  
+ノブとパッチケーブルによる音響回路の構成、タッチプレート式キーボード（実際には「音階を持たない電圧入力デバイス」）など、従来の楽器的操作性を意図的に排していた。
 
-> “沒有黑白鍵。” — 唐·布奇拉
+> “No black and white keys.” — Don Buchla
 
-### 1-2. Buchla 的理念：高性能電子產品
+### 1-2. Buchlaの思想：Performative Electronics
 
-布赫拉將樂器設計為「一個控制與生成共存的生態系統」。
-聲音並不是直接來自表演者的身體，而是由電壓變化的抽象行為所產生的。
-因此，表演變成了即興的“表演”，聲音也變得流暢。
+Buchlaは楽器を**「制御と生成が同居する生態系」**として設計した。  
+音は演奏者の身体から直接出るのではなく、電圧変化という**抽象的な振る舞い**によって生成される。  
+そのため、演奏は即興的な“行為”となり、音は流動する。
 
 ---
 
@@ -79,71 +79,71 @@ flowchart LR
 
 </div>
 
-這個結構象徵著布赫拉「催化聲音而不是操縱聲音」的世界觀。
+この構造こそが、「**音を操作するのではなく、音を触媒する**」というBuchlaの世界観を象徴している。  
 Low Pass Gate（音量と音色を一体制御する素子）は、後にEurorack文化でも定番の哲学装置となった。
 
 ---
 
 ## 2. サージ・トチェーニン：民主化されたモジュール
 
-### 2-1. 「人民合成器」的誕生
+### 2-1. “The People’s Synthesizer” の誕生
 
-20 世紀 70 年代末，年輕音樂家 Serge Tochenin 對 Don Buchla 的設計理念印象深刻，在 UCLA 學習電子音樂時，他設想了一種「更多人可以使用的類似 Buchla 的設備」。
-那就是**Serge 模組化音樂系統（1974-）**。
+1970年代後半、ドン・ブックラの設計思想に感銘を受けた若き音楽家サージ・トチェーニンは、UCLAで電子音楽を学びながら「より多くの人が手にできるBuchla的装置」を構想した。  
+それが **Serge Modular Music System（1974–）**である。
 
-Buchler 為藝術家創建了定制機器，而 Serge 植根於 DIY 文化和大學社區，秉承「開放原理圖，以便任何人都可以建造它們」的精神。
-這種開源態度是一場概念革命，先於 Eurorack 後來的傳播。
+ブックラが芸術家のための特注機を作ったのに対し、SergeはDIY文化と大学コミュニティに根ざし、**「回路図を公開し、誰でも作れる」**という精神を掲げた。  
+このオープンソース的な姿勢は、後のEurorack普及に先駆けた概念的革命だった。
 
-### 2-2. Serge 的理念：補丁可程式性
+### 2-2. Sergeの哲学：Patch Programmability
 
-Serge 的基本理念是**「一個模組，多種功能」**。
-換句話說，這個想法是單一電路可以具有無限多種工作模式，這取決於它的連接方式。
-例如，雙通用斜坡發生器（俗稱“DSG”）
-- 信封
-- 低頻振盪器
-- 觸發延遲
-- 時鐘分頻器
-- 混沌模組
-功能會根據補丁配置而變化。
+Sergeの根本思想は、**“One module, many functions”**。  
+つまり、単一の回路が接続方法次第で無数の動作モードを持つという考えだ。  
+たとえばDual Universal Slope Generator（通称「DSG」）は、  
+- エンベロープ  
+- LFO  
+- トリガーディレイ  
+- クロックディバイダ  
+- カオスモジュール  
+と、パッチ構成次第で機能が変容する。
 
-這個理念直接延續到今天的 Max/MSP 修補、Reaktor Blocks 和 Eurorack 的 Make Noise「數學」。
+この思想は今日のMax/MSPパッチング、Reaktor Blocks、あるいはEurorackのMake Noise「Maths」へと直系で受け継がれている。
 
 ---
 
-## 3. Buchla 和 Serge 的比較：結構和思想
+## 3. BuchlaとSergeの比較：構造と思想
 
-|元素|布赫拉 |謝爾蓋|
-|------|---------|---------|
-|起點|藝術家的實驗儀器|教育與DIY文化|
-|經營理念 |表演（聲音作為動作）|功能性（結構健全）|
-|功能設計|專用模組配置|組合通用模組 |
-|控制|抽象電壓操作|具體訊號處理 |
-|聲學趨勢 |有機、動態、流暢 |線性、清晰、反應快|
-|文化影響 |藝術聲音、裝置|噪音、電子音樂、DIY 電子音樂 |
+| 要素 | Buchla | Serge |
+|------|--------|--------|
+| 出発点 | 芸術家向け実験楽器 | 教育・DIY文化 |
+| 操作思想 | Performative（行為としての音） | Functional（構造としての音） |
+| 機能設計 | 専用モジュール構成 | 汎用モジュールを組み合わせ |
+| コントロール | 抽象的電圧動作 | 具体的信号操作 |
+| 音響傾向 | 有機・動的・滑らか | 線形・明快・高速レスポンス |
+| 文化的影響 | アートサウンド、インスタレーション | ノイズ、テクノ、DIY電子音楽 |
 
 ---
 
 ## 4. 技術年表
 
-|年份|活動 |筆記|
+| 年 | 出来事 | 備考 |
 |----|--------|------|
-| 1963 | Buchla 系列 100 開發開始 | Subotnick 委託製作的第一個模組 |
-| 1966 | Buchla Music Easel 原型亮相 |便攜式合成器的創始人|
-| 1974 | Serge 模組化公告 | “人民的合成器”口號|
-| 1980 | Serge 雙斜率產生器簡介 |已完成補丁概念|
-| 20 世紀 90 年代 |塞爾日重新評估期 |模擬的復興與復發|
-| 2004 | Eurorack 繁榮開始 |繼承Doepfer、Make Noise等|
-| 2020 年代 | Buchla 美國/Serge 轉載|原創思想的重新語境化|
+| 1963 | Buchla Series 100 開発開始 | Subotnick委託による最初のモジュラー |
+| 1966 | Buchla Music Easel 原型登場 | ポータブル・シンセの始祖 |
+| 1974 | Serge Modular 発表 | “People’s Synthesizer”のスローガン |
+| 1980 | Serge Dual Slope Generator 登場 | パッチ哲学の完成形 |
+| 1990s | Serge再評価期 | アナログリバイバルと再発 |
+| 2004 | Eurorackブーム開始 | Doepfer, Make Noiseなどに継承 |
+| 2020s | Buchla USA / Serge復刻 | オリジナル思想の再文脈化 |
 
 ---
 
-## 5. 對模組化文化的影響
+## 5. モジュラー文化への影響
 
-布赫勒和薩爾奇的哲學將聲音本身重新定義為「社會行為」。
-換句話說，他將注意力從「儀器」轉移到「環境」和「介面」。
+ブックラとサージの哲学は、**音響そのものを“社会的行為”として再定義**した。  
+つまり、「楽器」から「環境」「インターフェース」へと視点を移したのだ。
 
-Eurorack的模組化「無限組合」不僅是零件的自由，而是意義的重新配置。
-Buchla的「物理性」和Serge的「結構性」已經融合，今天的電子音樂變得越來越「偏心」。
+Eurorackにおけるモジュラーの“無限の組み合わせ”は、単にパーツの自由ではなく、**意味の再構成**そのもの。  
+Buchlaの「身体性」、Sergeの「構造性」が融合し、今日の電子音楽はますます“非中心的”になっている。
 
 ---
 
@@ -163,14 +163,14 @@ timeline
 
 ---
 
-## 6. 連結現代：演算法與身體之間
+## 6. 現代への接続：アルゴリズムと身体のあいだで
 
-Buchla/Serge 精神在 Max/MSP、VCV Rack 甚至人工智慧生成的音樂工具中依然生氣勃勃。
-它不僅僅是一個“模組的組合”，而是一個連接時間、空間、身體和機率的藝術框架。
+Max/MSPやVCV Rack、さらにはAI生成音楽ツールにおいても、Buchla/Sergeの精神は生きている。  
+それは単なる“モジュールの組み合わせ”ではなく、**時間・空間・身体・確率を接続するアート的フレーム**である。
 
-模組化合成器不僅僅是創造聲音的「工具」；
-它是一種產生聲音和人之間發生的「事件」的媒介。
-Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。
+モジュラーシンセは、音を作るための「道具」ではなく、  
+音と人とのあいだに生まれる「出来事」を生成するメディアだ。  
+BuchlaとSergeの設計思想は、まさにそのメディア哲学の萌芽であり続けている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpCdodqTYtE?si=lIQMClxtxuqhBIvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -179,24 +179,24 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBVCa3RaR0c?si=VWdNaHjNBMK-r8Mj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
-## 結論—「控制電壓」的詩學
+## 結語 — “Control Voltage” の詩学
 
-據說唐·布克勒在去世前曾說過這句話。
-> “電壓不是一個數字——而是一個手勢。”
+ドン・ブックラは生前、こう語ったという。  
+> “Voltage is not a number — it’s a gesture.”  
 
-中士也說。
-> “每個補丁都是一個作品。”
+サージもまた言う。  
+> “Every patch is a composition.”  
 
-對他們來說，電壓不只是一個訊號；更是一個訊號。
-**這是「一種連結人類意志和機器的詩意語言。」**
+彼らにとって、電圧とは単なる信号ではなく、  
+**「人間の意志と機械のあいだを結ぶ詩的な言語」**だった。  
 
-即使到了 2025 年，我們仍繼續聆聽那股電壓的詩意。
+2025年の今もなお、私たちはその電圧の詩を聴き続けている。
 
 ---
 
-### YouTube 播客
+### YouTube Podcast
 
-*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVHO4y4znW8?si=8bfuNpxwJy43R_SL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -10,19 +10,19 @@ tags:
 - Jazz
 - Fusion
 - Progressive
-title: '[Column] Progressive Jazz / Fusion'
+title: 【コラム】 Progressive Jazz / Fusion（プログレッシブジャズ／フュージョン）
 ---
 
 
 
-## Introduction: The concept of progressive jazz/fusion
+## 序論：プログレッシブジャズ／フュージョンという概念
 
-Text: mmr｜Theme: Positioning the modular drone as an intersection of the history of acoustic technology, history of musical instruments, and compositional thought, and systematically organizing its formation and development.
+文：mmr｜テーマ：モジュラードローンを音響技術史・楽器史・作曲思想の交差点として位置づけ、その成立と展開を体系的に整理
 
 
 Progressive jazz/fusion is a developmental trend in jazz that was formed from the late 1960s to the 1970s, and was established as a result of the simultaneous integration of multiple musical idioms such as modal jazz, post-bop, rock, funk, contemporary music, and folk music. ""Progressive'' here does not simply mean technical sophistication, but refers to the attitude itself that continues to reorganize musical structure, rhythm design, timbre arrangement, and the relationship between improvisation and composition.
 
-Although the term fusion is often understood as a compromise between jazz and rock, the reality is more complex. External conditions such as the standardization of electric instruments, the evolution of PA and studio technology, changes in recording media, and the acceleration of international musical exchange directly influenced performance styles and structural design. In this article, we will examine the underlying logic of progressive jazz/fusion by analyzing the structure, instruments, and performance philosophy of Weather Report and Mahavishnu Orchestra, which form the core of this trend.
+フュージョンという語はしばしばジャズとロックの折衷として理解されるが、実態はより複合的である。電気楽器の標準化、PAおよびスタジオ技術の進化、録音メディアの変化、国際的な音楽交流の加速といった外的条件が、演奏様式と構造設計に直接影響を与えた。本稿では、この潮流の中核を成す Weather Report と Mahavishnu Orchestra を軸に、構造・楽器・演奏思想を分解しながら、プログレッシブジャズ／フュージョンの内在的論理を整理する。
 
 ---
 
@@ -31,7 +31,7 @@ Although the term fusion is often understood as a compromise between jazz and ro
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,54 +40,54 @@ color: #fff;
 </style>
 
 
-## Historical background: late 1960s to early 1970s
+## 歴史的背景：1960年代末から1970年代初頭
 
-In the late 1960s, jazz expanded its vocabulary beyond hard bop and gained flexibility in its temporal structure through modal playing and free improvisation. On the other hand, rock music was changing into music that was based on loud volumes and repetitive beats, and was designed for large-scale listening environments. The maturation of electric instruments and amplification technology has expanded the connection between the two on a physical rather than an ideological level.
+1960年代後半、ジャズはハードバップ以降の語彙を拡張し、モード奏法や自由即興を通じて時間構造の柔軟性を獲得していた。一方ロックは、大音量化と反復的ビートを基盤に、大規模な聴取環境を前提とする音楽へと変化していた。エレクトリック楽器と増幅技術の成熟は、両者の接点を理念的ではなく物理的なレベルで拡張した。
 
-During this period, many jazz musicians introduced electric pianos, electric basses, and amplified guitars, building ensembles based on volume, sustain, and timbre manipulation that were impossible with traditional acoustic formations. As a result, new forms of performance featuring long structures, circular riffs, complex meters, and repetitive structures took hold, and progressive jazz/fusion came to be recognized as a distinct current.
+この時期、多くのジャズ・ミュージシャンがエレクトリックピアノ、エレクトリックベース、増幅ギターを導入し、従来のアコースティック編成では成立し得なかった音量・持続・音色操作を前提とするアンサンブルを構築した。結果として、長尺構成、循環的リフ、複合拍子、反復構造を特徴とする新しい演奏形態が定着し、プログレッシブジャズ／フュージョンが明確な潮流として認識されるようになる。
 
 ---
 
-## Weather Report: Collective improvisation and sonic textures
+## Weather Report：集合的即興と音響テクスチャ
 
-### Formation and basic philosophy of the band
+### バンドの成立と基本思想
 
-Weather Report was formed in 1970 and prioritized the sonic integrity of the ensemble as a whole, rather than the excellence of individual soloists. The traditional division of roles between theme, accompaniment, and improvisation was intentionally blurred, and the pieces were designed as processes that generate and transform over time rather than fixed forms.
+Weather Report は1970年に結成され、個々のソリストの卓越性よりも、アンサンブル全体の音響的統合を最優先事項とした。テーマ、伴奏、即興という従来の役割分担は意図的に曖昧化され、楽曲は固定された形式というよりも、時間の中で生成・変容するプロセスとして設計された。
 
-This idea is distinctive in that improvisation is viewed as ""sound production by a group" rather than ""individual expression." Each instrument moves away from its fixed role as the main melody or accompaniment, and instead functions as an element of timbre, rhythmic density, and spatial arrangement.
+この思想は、即興を「個人表現」ではなく「集団による音響生成」として捉える点に特徴がある。各楽器は主旋律や伴奏といった固定的役割を離れ、音色・リズム密度・空間配置の一要素として機能する。
 
-### Structural features and time design
+### 構造的特徴と時間設計
 
-Weather Report's song structure often avoids a linear format of thematic presentation and alternation of solos, instead adopting a cyclical and variable structure. Short motifs and chord fragments are repeated, and the rhythm arrangement, range, and timbre change each time, resulting in a gradual transformation of the whole piece.
+Weather Report の楽曲構造は、主題提示とソロの交代という直線的形式を回避し、循環的かつ可変的な構造を採用することが多い。短いモチーフやコード断片が反復され、その都度リズム配置や音域、音色が変化することで、全体が漸進的に変容していく。
 
 <div class="mermaid">
 flowchart TD
-    A["Introduction texture"] --> B["Motif generation"]
-    B --> C["Group improvisation"]
+    A["導入テクスチャ"] --> B["モチーフ生成"]
+    B --> C["集団即興"]
     C --> B
-    C --> D["Attenuation/Termination"]
+    C --> D["減衰・終止"]
 </div>
 
 
-In this structure, the increase or decrease in acoustic density itself becomes the driving force of the song, rather than a clear climax. The time signature is often not specified, and the drums play a role in controlling the direction of the flow rather than emphasizing the beat.
+この構造では、明確なクライマックスよりも、音響密度の増減そのものが楽曲の推進力となる。拍子は明示されないことも多く、ドラムは拍の強調ではなく、流れの方向性を制御する役割を担う。
 
-### Instrumentation and division of roles
+### 楽器編成と役割分担
 
-The keyboard uses an electric piano and a synthesizer, and rather than presenting a harmonic progression, he creates a sonic layer of sustained notes and fragmented phrases. The bass doesn't just support the low notes, it also carries the melodic movement, indicating the direction of the song as a whole. Rather than maintaining a constant beat, the drums drive the whole thing through texture, accent placement, and density adjustment.
+キーボードはエレクトリックピアノやシンセサイザーを用い、和声進行の提示よりも、持続音や断片的フレーズによる音響層を形成する。ベースは低音支持に留まらず、旋律的運動を担うことで、楽曲全体の方向性を示す。ドラムは一定拍の維持よりも、質感・アクセント配置・密度調整を通じて全体を推進する。
 
 ---
 
-## Mahavishnu Orchestra: Built Complexity and Speed
+## Mahavishnu Orchestra：構築された複雑性と速度
 
-### Formation and aesthetics of the band
+### バンドの成立と美学
 
-The Mahavishnu Orchestra began operations in the early 1970s and was characterized by extremely fast tempos, complex time signature structures, and strictly composed unison. While Weather Report emphasized fluid generation, Mahavishnu Orchestra contrasts with its emphasis on constructability and reproducibility.
+Mahavishnu Orchestra は1970年代初頭に活動を開始し、極めて高速なテンポ、複雑な拍子構造、厳密に作曲されたユニゾンを特徴とした。Weather Report が流動的生成を重視したのに対し、Mahavishnu Orchestra は構築性と再現性を重視する点で対照的である。
 
-The improvisation here takes place within a composed framework rather than complete freedom. Each performer is required to perform within highly technical constraints, and the ensemble as a whole has the integrity of a precision machine.
+ここでの即興は、完全な自由というよりも、作曲された枠組みの内部で展開される。各演奏者は高度な技術的制約の中で演奏することを求められ、アンサンブル全体は精密機械のような統合性を持つ。
 
-### Rhythmic structure and form
+### リズム構造と形式
 
-Mahavishnu Orchestra's compositions use irregular time signatures and frequent changes in time signature. These are not mere esotericities, but structural means for clearly controlling tension and release. The theme is often presented in unison for all instruments, followed by solos and variations.
+Mahavishnu Orchestra の楽曲では、不規則拍子や拍子の頻繁な転換が用いられる。これらは単なる難解さではなく、緊張と解放を明確に制御するための構造的手段である。主題はしばしば全楽器ユニゾンで提示され、その後にソロや変奏が配置される。
 
 <div class="mermaid">
 sequenceDiagram
@@ -103,25 +103,25 @@ sequenceDiagram
 
 ---
 
-### Instrument composition and performance techniques
+### 楽器構成と演奏技術
 
-The electric guitar is accompanied by distortion and continuously develops high-speed scales and arpeggios. The violin was introduced as a melodic instrument in rock formations, and has the same volume and maneuverability as the guitar. The keyboard is responsible for supporting sustained notes and harmonies, and supports the overall thickness.
+エレクトリックギターは歪みを伴い、高速なスケールやアルペジオを連続的に展開する。ヴァイオリンはロック編成における旋律楽器として導入され、ギターと同等の音量と機動性を持つ。キーボードは持続音や和声補強を担い、全体の厚みを支える。
 
 ---
 
-## Structural comparison: two directions
+## 構造比較：二つの方向性
 
-Weather Report and the Mahavishnu Orchestra were active at the same time, but their structural orientations were very different. One pursues fluid generation and sonic texture, the other pursues rigorous compositional structure and speed.
+Weather Report と Mahavishnu Orchestra は同時代に活動したが、その構造的志向は大きく異なる。一方は流動的生成と音響テクスチャを、もう一方は厳密な作曲構造と速度を追求した。
 
-| Perspective | Weather Report | Mahavishnu Orchestra |
+| 観点 | Weather Report | Mahavishnu Orchestra |
 | -- | -------------- | -------------------- |
-| Improvisation | Collective | Individual solo focus |
-| Structure | Cyclic/variable | Segmental/fixed |
-| Sound | Emphasis on texture | Emphasis on rhythm and speed |
+| 即興 | 集合的            | 個別ソロ中心               |
+| 構造 | 循環的・可変         | 分節的・固定               |
+| 音響 | テクスチャ重視        | リズムと速度重視             |
 
 ---
 
-## Chronology: Development of progressive jazz/fusion
+## 年表：プログレッシブジャズ／フュージョンの展開
 
 <div class="mermaid">
 timeline
@@ -136,21 +136,21 @@ timeline
 
 ---
 
-## Instrument technology and studio technology
+## 楽器技術とスタジオ技術
 
-The spread of electric instruments had a direct impact not only on performance techniques but also on recording methods. Multi-track recording made it possible to create sound arrangements that would not be possible with simultaneous performance, and effect processing and localization promoted the awareness of constructing the ensemble as a single sonic sculpture.
-
----
-
-## Impact on subsequent generations
-
-Progressive jazz/fusion left a legacy of thinking that linked structural design and timbre-centrism in subsequent contemporary jazz, experimental rock, and electronic music. The attitude of treating improvisation and composition as a continuum, rather than as opposing concepts, has been inherited as a creative attitude that cuts across genres.
+エレクトリック楽器の普及は、演奏技術のみならず録音手法にも直接影響を与えた。マルチトラック録音は、同時演奏では不可能な音響配置を可能にし、エフェクト処理や定位操作は、アンサンブルを一つの音響彫刻として構築する意識を促進した。
 
 ---
 
-## Conclusion
+## 後続世代への影響
 
-Progressive Jazz/Fusion was more of a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
+プログレッシブジャズ／フュージョンは、その後の現代ジャズ、実験的ロック、電子音楽において、構造設計と音色中心主義を結びつける思考を残した。即興と作曲を対立概念としてではなく、連続体として扱う姿勢は、ジャンル横断的な創作態度として継承されている。
+
+---
+
+## 結論
+
+Progressive Jazz / Fusion は、様式というよりも方法論であり、音楽構造の再設計に向けた実践の集積であった。Weather Report に見られる集合的音響生成と、Mahavishnu Orchestra における構築的複雑性は、この潮流の両極を示している。両者を併置して理解することで、プログレッシブジャズ／フュージョンの本質がより立体的に浮かび上がる。
 
 ---
 

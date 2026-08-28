@@ -16,8 +16,8 @@ title: Mansun – Taxlo$$ (Remixes)
 
 "Taxloss" (Taxlo$$) is a single by British alternative rock band Mansun from their debut studio album Attack of the Gray Lantern, released in 1997. Contains the album version of "Taxloss" and a collection of remixes.
 
-A1 is a remix by UK Trance & Psy-Trance DJ/producer John '00' Fleming.
-B2 is a remix by record producer Daniele Cenacchi, also known as Gaudi.
+A1は、UKのTrance & Psy-Trance DJ／プロデューサーJohn '00' Flemingによるremix。
+B2は、レコードプロデューサーGaudi(ガウディ)ことDaniele Cenacchi によるremix。
 
 #### Tracklist
 ```md

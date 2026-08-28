@@ -10,15 +10,15 @@ tags:
 - House
 - Acid
 - Electro
-title: 迪巴巴－愛情列車
+title: Dibaba – Love Train
 ---
 
 
-這是瑞典OLLE CORNEER樂團DIBABA於2005年發行的EP。
+2005年リリースのスウェーデン人のOLLE CORNEERによるユニットDIBABAによるEPです。
 
-還包括 John Dahlbäck 的酸混音。
+John Dahlbäckによるアシッド・リミックスも収録。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Love Train (Andreas Tilliander Remix)
 
@@ -29,7 +29,7 @@ B1. Love Train (John Dahlbäck Acid Train Mix)
 B2. Love Train (KFK's Dar-K Remix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m87226223493?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87226223493?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHL8vlzzQts?si=HlYO2J4ImZ0acamp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

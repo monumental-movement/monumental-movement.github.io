@@ -10,37 +10,37 @@ tags:
 - Jazz
 - Smooth Jazz
 - 70s
-title: 友誼－友誼
+title: Friendship – Friendship
 ---
 
 
-由頂尖音樂家亞伯拉罕·拉博瑞爾、亞歷克斯·阿庫納、唐·格魯辛、厄尼·瓦茨、李·里特諾和史蒂夫·福爾曼製作。
-友誼
-爵士放克專輯。 1979 年上映。
+Abraham Laboriel（エイブラハム・ラボリエル/アブラハム・ロペス・ラボーリエル）, Alex Acuña（アレックス・アクーニャ）, Don Grusin （ドン・グルーシン）, Ernie Watts（アーニー・ワッツ）, Lee Ritenour（リー・リトナー）, Steve Forman（スティーブ・フォーマン）というトップミュージシャンが集結して制作された
+Friendship（フレンドシップ）
+によるジャズファンクアルバム。1979年リリース。
 
-亞伯拉罕‧拉博瑞爾 (Abraham Laboriel) 是一位墨西哥貝斯手，1947 年 7 月 17 日出生於墨西哥城。
+Abraham Laborielは、メキシコ人ベーシストで1947年7月17日にメキシコシティで生まれました。
 
-他也是 Koinonia 樂團的創始人。
+バンド「コイノニア」の創設者でもあります。
 
-他早期的音樂教育來自他的父親，他是一位吉他手和作曲家。
+幼少期の音楽教育は、ギタリストであり作曲家でもある父親から受けました。
 
-10 歲時，他與一個名為“Los Traviesos”的搖滾樂隊進行了第一次錄音。
+10歳の頃、"Los Traviesos" というロックンロールグループで初レコーディングを経験します。
 
-青少年時期，他在墨西哥擔任音樂家和演員，然後搬到波士頓並就讀伯克利音樂學院。
+10代はメキシコでミュージシャンと俳優の両方として活動した後、ボストンに渡りバークリー音楽院に入学。
 
-1972年獲得作曲學士學位。在校期間，他也與該校教員電顫琴演奏家加里·伯頓（Gary Burton）一起表演。
+1972年に作曲専攻で学士号を取得します。在学中には、同校の教員であるヴィブラフォン奏者のゲイリー・バートンとも共演しています。
 
-隨後，他與約翰尼·馬西斯 (Johnny Mathis)、米歇爾·勒格朗 (Michel Legrand) 和亨利·曼奇尼 (Henry Mancini) 等藝術家一起巡演，並於 1976 年搬到洛杉磯，開始了多流派的錄音室錄音生涯。
+その後、ジョニー・マティス、ミシェル・ルグラン、ヘンリー・マンシーニといったアーティストとツアーを行い、1976年にはロサンゼルスに移り、多岐にわたるジャンルのスタジオレコーディングキャリアをスタートさせます。
 
-他曾與許多爵士藝術家合作演出和錄製唱片，包括 George Benson、Larry Carlton、The Crusaders、Ella Fitzgerald、Dave Grusin、Herbie Hancock、Freddie Hubbard、Al Jarreau、John Kremer、Manhattan Transfer、Joe Pass、Joe Sample、Lalo Schiffrin、Diane Schur、Sarah Vaughan、Joewinul 等。
+彼は、数多くのジャズアーティストと共演・レコーディングを行い、その中には、ジョージ・ベンソン、ラリー・カールトン、ザ・クルセイダーズ、エラ・フィッツジェラルド、デイヴ・グルーシン、ハービー・ハンコック、フレディ・ハバード、アル・ジャロウ、ジョン・クレマー、マンハッタン・トランスファー、ジョー・パス、ジョー・サンプル、ラロ・シフリン、ダイアン・シューア、サラ・ヴォーン、ジョー・ザヴィヌルなどが含まれます。
 
-他還與 Lee Ritenour、Ernie Watts 和 Alex Acuna 一起與 Friendship 樂團一起錄製唱片，並繼續與 Lee 和 Dave Grusin 一起表演和錄製，並在 GRP Records 上發行了作品。
+また、リー・リトナー、アーニー・ワッツ、アレックス・アキュナと組んだバンド「フレンドシップ」でもレコーディングを行い、現在もリーやデイヴ・グルーシンと共演・レコーディングを続けており、GRPレコードから作品を発表しています。
 
-此外，他還是一位廣受歡迎的貝斯手，並受到無數藝術家的追捧，包括萊昂內爾·里奇、昆西·瓊斯、杰弗裡·奧斯本、查卡·汗、羅比·羅伯遜、肯尼·羅傑斯、肯尼·洛金斯和魯本·布萊茲。
+さらに、ライオネル・リッチー、クインシー・ジョーンズ、ジェフリー・オズボーン、チャカ・カーン、ロビー・ロバートソン、ケニー・ロジャース、ケニー・ロギンス、ルーベン・ブレイズなど、数え切れないほどのアーティストからの依頼を受け、引っ張りだこのベーシストでした。
 
-他連續第三年被洛杉磯格萊美獎組織協會 (NARAS) 成員評選為“貝斯類別最有價值球員”，僅次於雷布朗和查克多曼尼科。
+ロサンゼルス支部グラミー賞主催団体 (NARAS) の会員による投票では、3年連続で「ベース部門の最優秀者 (Most Valuable Player)」に選ばれ、レイ・ブラウンやチャック・ドーマンニコに続く栄誉に輝きました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Bullet Train
 
@@ -56,7 +56,7 @@ B2. Waterwings
 
 B3. The Real Thing
 ```
-[在 Mercari 購買](https://jp.mercari.com/item/m43866436551?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43866436551?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aIQ6cIM_REI?si=qYPLWi4RjLSEU0Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

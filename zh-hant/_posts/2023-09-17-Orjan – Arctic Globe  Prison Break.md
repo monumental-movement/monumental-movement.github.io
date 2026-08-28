@@ -9,32 +9,32 @@ permalink: /zh-hant/orjan-arctic-globe-prison-break/
 tags:
 - Trance
 - EDM
-title: Orjan – 北極環球 / 越獄
+title: Orjan – Arctic Globe / Prison Break
 ---
 
 
-《Orjan - Arctic Globe / Prison Break》是挪威trance音樂製作人Orjan創作的一首歌。
+「Orjan - Arctic Globe / Prison Break」は、ノルウェーのトランスミュージックプロデューサーであるOrjan（オルヤン）による楽曲です。
 
-《Arctic Globe》的特點是優美的旋律和宏偉的聲音。旋律和合成音的結合讓人想起寒冷、閃亮的冰雪世界，帶領聽眾踏上一段奇幻的旅程。
+「Arctic Globe」は、美しいメロディと壮大なサウンドが特徴で、冷たく輝く氷の世界を連想させるようなメロディとシンセサウンドが組み合わさり、聴く人を幻想的な旅に連れて行きます。
 
-這首歌情緒高漲，能量落落，讓你充分享受trance音樂的魅力。
+この曲は、感情的なビルドアップとエネルギッシュなドロップが特徴であり、トランスミュージックの魅力を存分に味わえるでしょう。
 
-另一方面，《越獄》是一首帶有黑暗和戲劇氣氛的歌曲。沉重的低音線條和合成器聲音的層次感增強了緊張感，創造了一個充滿速度的恍惚世界。
+一方、「Prison Break」は、ダークでドラマティックな雰囲気が漂う楽曲です。重厚なベースラインとシンセサウンドの重なりが緊張感を高め、疾走感あふれるトランスの世界を作り出しています。
 
-這首歌的特點是強勁的節奏和強烈的能量，將聽者帶入一個充滿活力的音樂世界。
+この曲は、パワフルなビートとインテンスなエネルギーが特徴であり、聴く人を躍動感溢れる音楽の世界へと引き込みます。
 
-《Arctic Globe / Prison Break》是一首可以欣賞到Orjan獨特的trance聲音的歌曲。
+「Arctic Globe / Prison Break」は、Orjanの独自のトランスサウンドを楽しめる楽曲として知られています。
 
-他的音樂以精良的製作和情感的表達為特點，吸引了許多聽眾。這些歌曲對於迷幻音樂迷和那些尋找充滿活力的聲音的人來說將是一個有吸引力的選擇。
+彼の音楽は、洗練されたプロダクションと感情的な表現が特徴であり、多くのリスナーに魅力を与えてきました。これらの曲は、トランスミュージックのファンやエネルギッシュなサウンドを求める人にとって、魅力的な選択肢となるでしょう。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Arctic Globe
 
 AA. Prison Break
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tk95FwufszQ?si=OtBlRffV7SmfWZHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

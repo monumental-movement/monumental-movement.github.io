@@ -13,13 +13,13 @@ title: Baby Blue – Too Loud
 ---
 
 
-Baby Blue is a UK dance music duo consisting of Darren Stokes and Lyndsey Edwards.
+Baby Blueは、Darren Stokes（ダレン・ストークス）とLyndsey Edwards.（リンジー・エドワーズ）によるUKダンスミュージックデュオ。
 
-Also active under a different name, Tin Tin Out.
+別名義で、Tin Tin Outとしても活躍した。
 
-The first song on side B is a remix by Trevor Rockcliffe, who is active at festivals such as Love Parade, Dance Planet, and Tribal Gathering, as well as world-famous clubs.
+B面１曲目は、Love Parade, Dance Planet, Tribal Gatheringなどのフェスや世界的に有名なクラブで活躍するTrevor Rockcliffeによるremix。
 
-The second song on the B-side is a remix by Dave Aude, who has remixed artists such as Coldplay, Katy Perry, Rihanna, Lady Gaga, Pet Shop Boys, and Beyoncé, and won the Grammy Award for Best Remix Recording in the Non-Classical Category in 2016 for his remix of Mark Ronson's "Uptown Funk" featuring Bruno Mars.
+B面２曲目は、コールドプレイ、ケイティ・ペリー、リアーナ、レディー・ガガ、ペット・ショップ・ボーイズ、ビヨンセなどのremixを手がけ、2016年にブルーノ・マーズをフィーチャーしたマーク・ロンソンの「Uptown Funk」のリミックスでグラミー賞の非クラシック部門最優秀リミックス・レコーディング賞を受賞したDave Aude（デイヴ・オード）によるremix。
 
 #### Tracklist
 ```md

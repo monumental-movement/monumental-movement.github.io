@@ -12,21 +12,21 @@ title: '[Column] Detroit Techno: Human dance born from the heartbeat of machines
 ---
 
 
-## "The sound of the future born from a devastated city"
+## 「荒廃した街が生んだ、未来のサウンド」
 
-Text: mmr | Theme: Detroit Techno is a cultural product that combines urban history, technology, and Black American creativity
+文：mmr｜テーマ：デトロイト・テクノとは都市の歴史、テクノロジー、ブラック・アメリカンの創造性が合わさった文化的産物
 
-Detroit techno is ""electronic music with a human touch'' that was born from the intersection of urban industrial sounds, black American dance culture, and European electronic music. In this column, we will comprehensively introduce the history of its origin, the characteristics of its sound, its main characters and representative songs, its social background, its spread around the world, and its influence to this day.
+デトロイト・テクノは、都市の産業音、ブラック・アメリカンのダンス文化、ヨーロッパの電子音楽が交差して生まれた「人間味のある電子音楽」です。このコラムでは発生の経緯、サウンドの特徴、主要人物と代表曲、社会的背景と世界への伝播、そして今日に至るまでの影響を網羅的にまとめてご紹介します。
 
 <hr>
 
 ### Origins and Definition — When and Who Called it "Techno"?
 
-In the early 1980s in Detroit, electronic dance music that made full use of synths and rhythm machines grew.
+1980年代初頭のデトロイトで、シンセとリズムマシンを駆使した電子ダンス音楽が育ちました。
 
-Led by Juan Atkins, Derrick May, and Kevin Saunderson (not the so-called "Berlin trio" but the "Detroit trio"), they presented a sonic aesthetic that was different from the existing "electro" and "house," and it became established as "techno."
+ホアン・アトキンス（Juan Atkins）、デリック・メイ（Derrick May）、ケヴィン・ソーンサーンド（Kevin Saunderson）の3人（いわゆる“ベルリンの3人組”ではなく「デトロイト3人組」）が中心となり、既存の「エレクトロ」「ハウス」とは異なる音の美学を提示し、それが「テクノ」と命名され定着していきます。
 
-The release of the 1988 compilation "Techno! The New Dance Sound of Detroit" (https://amzn.to/4q9NMVF) played a decisive role in the spread of the genre name.
+1988年のコンピレーション[『Techno! The New Dance Sound of Detroit』](https://amzn.to/4q9NMVF)の発表が、ジャンル名の広がりに決定的な役割を果たしました。 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYSagw7v4dU?si=9qLNd3HRNE_AfOPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -43,25 +43,25 @@ On the other hand, African American radio DJ culture (e.g. curators like Electri
 
 <hr>
 
-### Sound characteristics — mechanical but warm
+### サウンドの特徴 — 機械的だが暖かい
 
-- Built around drum machines (TR-808/909) and synths (Roland type, analog).
+- ドラムマシン（TR-808/909）、シンセ（ローランド系、アナログ）を中心に構築。
 
-- Layer melodic/textural synth work on simple repetitive rhythms.
+- シンプルな反復リズムに、メロディック／テクスチャ的なシンセワークを重ねる。
 
-- Detroit style is colder and more mechanical than house, but has ""melody and emotion.''
+- ハウスよりも冷たく機械的、しかし「メロディや感情性」を持つのがデトロイト流。
 
 The line between DJ and producer was blurred, and the songs were refined through playing practice (mixing/reacting) in clubs.
 
 <hr>
 
-### Main characters and "signature songs"
+### 主要人物と「代表曲」
 
 #### **Juan Atkins / Cybotron / Model 500**
 
-"Clear" (1983) under the name Cybotron is one of the important songs of early electro-techno, and is characterized by a mechanical groove and a sense of space with synths.
+Cybotron名義の「Clear」（1983）は初期のエレクトロ〜テクノの重要曲の一つで、機械的なグルーヴとシンセの空間感が特徴です。 
 
-""No UFOs'' (1985) under the name Model 500 was released on the Metroplex label and is renowned as a techno classic.
+Model 500名義の「No UFOs」（1985）は、Metroplexレーベルから発表され、テクノ・クラシックとして名高い。 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EarSRa19sZc?si=8RNavw7qdllV1mOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@ The line between DJ and producer was blurred, and the songs were refined through
 
 #### **Derrick May / Rhythim Is Rhythim**
 
-"Strings of Life" (1987) is an anthem that shook the club with its emotional piano phrase-like synth and driving rhythm. This is a song that is influential in both techno and house.
+「Strings of Life」（1987）はエモーショナルなピアノ・フレーズ風シンセと疾走するリズムで、クラブを震わせたアンセム。テクノとハウスの双方で影響力を持つ一曲です。 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HE8x4EZgOos?si=dWyKg9KfmJMEky5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -93,7 +93,7 @@ One of Jeff Mills' masterpieces, ""The Bells,'' has sold over 500,000 copies wor
 
 #### **Other (Scene Expansion)**
 
-Diverse generations followed, including Richie Hawtin (a second generation whose later work bridged the gap between Detroit and the international scene).
+Richie Hawtin（後の活動でデトロイトと国際シーンの橋渡しをした第二世代）など、多様な世代が続きます。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xk81Oty1a-U?si=ehXcCwf_TWvv1H9D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -105,76 +105,76 @@ Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, fo
 
 <hr>
 
-### Worldwide transmission — to and from Berlin/Europe
+### ワールドワイドな伝播 — ベルリン／ヨーロッパとの往還
 
-Detroit techno combined with Berlin rave and club culture in the 1990s to create new expressions, and conversely, clubs from Europe (particularly Germany) invited Detroit artists, leading to mutual development. The 1988 compilation ""Techno!" became the catalyst that established the word ""techno" in the European market.
+デトロイトのテクノは、90年代のベルリン・レイヴやクラブカルチャーと結びついて新たな表現を生み、逆にヨーロッパ（特にドイツ）のクラブがデトロイトのアーティストを招くことで相互発展を遂げました。1988年のコンピレーション『Techno!』は欧州市場で「テクノ」の語を定着させる起爆剤となりました。 
 
 <hr>
 
 
-### Impact — Beyond Music
+### 影響 — 音楽以外への波及
 
 **Fashion**: Workwear, utility, and minimal/functional aesthetics influence club wear.
 
-**Visual/Art**: Artwork that uses industrial textures and contrasts between neon and steel is on the rise.
+**ビジュアル／アート**：産業的な素材感、ネオンと鉄のコントラストを用いたアートワークが増加。
 
-**Technological perspective**: The democratization of music production equipment (used equipment distribution, cheap synths) has supported the idea that ""anyone can produce''.
-
-<hr>
-
-### Modern Detroit Techno — Inheritance and Reinterpretation
-
-Even into the 21st century, Detroit continues to be talked about as the "sacred place" for techno. While the artists of yesteryear continue to play in the field, a younger generation is remixing and reinterpreting the spirit of the classics, making it sound in new clubs and festivals. There is also a movement where music is linked to urban social issues and the context of recovery, and music is used as a means of community revitalization.
+**テクノロジー観**：音楽制作機材の民主化（機材の中古流通、安価なシンセ）が“誰でもプロデュースできる”という発想を後押ししました。
 
 <hr>
 
-### Highlights/Introduction list (must listen tracks)
+### 現代のデトロイト・テクノ — 継承と再解釈
 
-The following are the "core" songs for understanding Detroit techno.
+21世紀に入ってもデトロイトはテクノの”聖地”として語られ続けます。往年のアーティストが現場でプレイを続ける一方、若い世代が古典の精神をリミックス／再解釈し、新しいクラブやフェスで鳴らしています。都市の社会問題や復興の文脈と結びつき、音楽がコミュニティ再生の手段となる動きも見られます。
 
-- **["Clear" — Cybotron](https://amzn.to/4omRRnX) — 1983**
+<hr>
 
-- **["No UFOs" — Model 500 (Juan Atkins)](https://amzn.to/475SU4C) — 1985**
+### 聴きどころ／入門リスト（必聴トラック）
 
-- **["Strings of Life" — Rhythim Is Rhythim (Derrick May)](https://amzn.to/3WInaO0) — 1987**
+以下はデトロイト・テクノを理解するための“核”となる曲です。
+
+- **[「Clear」 — Cybotron](https://amzn.to/4omRRnX) — 1983**
+
+- **[「No UFOs」 — Model 500 (Juan Atkins)](https://amzn.to/475SU4C) — 1985**
+
+- **[「Strings of Life」 — Rhythim Is Rhythim (Derrick May)](https://amzn.to/3WInaO0) — 1987**
 
 - **["Big Fun" "Good Life" — Inner City (Kevin Saunderson)](https://amzn.to/47a5os8) — 1988**
 
-- **Compilation: ["Techno! The New Dance Sound of Detroit"](https://amzn.to/4q9NMVF) — 1988**
+- **コンピ：[『Techno! The New Dance Sound of Detroit』](https://amzn.to/4q9NMVF) — 1988**
 
 
 <hr>
 
-### Production technical notes
+### 制作のテクニカル・メモ
 
-**Representative equipment**: Roland TR-808/909 (rhythm), SH-101, Juno series, sequencer (hard/soft).
+**代表的な機材**：ローランドTR-808/909（リズム）、SH-101、Junoシリーズ、シーケンサー（ハード／ソフト）。
 
-**Construction method**: Add "movement" to the repeating beats by changing filters and effects, and design spaces. It's common to use EQ to keep the lows thick and the highs clear.
+**構築法**：反復するビートの上に、フィルター変更やエフェクトで“動き”をつけ、スペース（間）をデザインする。EQで低域を太く、ハイをクリアに保つのが一般的。
 
-**Mastering**: Since it is intended for club playback, be careful of low-end dropout and phase. Take advantage of the characteristics of both analog and digital.
+**マスタリング**：クラブ再生を前提とするためローエンドの抜けや位相に注意。アナログ／デジタル両面の特性を活かす。
 
 <hr>
 
-### From Detroit to the World - The Eternal Poetry of Electronics
+### デトロイトから世界へ ― 永遠に鳴り響く電子機器の詩
 
-Detroit techno is more than just dance music; it"s a cultural product of the city"s history, technology, and Black American creativity. Rather, the repetition of mechanical rhythms evokes human emotions and community - this is Detroit's "warm mechanical sound." By listening to famous songs from the past and experiencing the spirit at the venue (DJ set or festival), you will be able to appreciate the depth of this music even more.
+デトロイト・テクノは単なるダンス音楽ではなく、都市の歴史、テクノロジー、ブラック・アメリカンの創造性が合わさった文化的産物です。機械的なリズムの反復は、むしろ人間の感情や共同体を呼び起こす――それがデトロイト流の“温度のある機械音”です。過去の名曲群を聴き、現場（のDJセットやフェス）でその精神を体感することで、この音楽の深さがより実感できるでしょう。
 
 ---
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTihU-gnxwo?si=lsZkzvpVRdjObT3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Related columns
+### 関連コラム
 
-🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Column] Tresor - The sacred place of techno that changed the world from underground in Berlin](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)

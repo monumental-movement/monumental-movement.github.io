@@ -8,20 +8,20 @@ layout: post
 permalink: /zh-hant/morgana-dank-one-another-night-flower/
 tags:
 - Trance
-title: Morgana Dank-One – 另一種夜花
+title: Morgana Dank-One – Another Night Flower
 ---
 
 
-這是唱片公司「Major Record」於2005年發行的一張EP。
+2005年にレーベル「Major Record」からリリースされたEPです。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Morgana – Another Night (DJ Tora Vocal Mix)
 
 B. Dank-One – Flower (Original Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m79733444581?afid=61426089871){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79733444581?afid=61426089871){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mf-P1AFYaoI?si=Nfr7zyophUwCMcJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,13 +14,13 @@ title: Magicnumber – Flyaway
 
 
 
-Magicnumber is the alias of British musician/composer/producer/bassist Ross Hillard. Under the name Magicnumber, he develops a wide range of sounds that incorporate house, soul, downtempo, jazz and orchestral elements.
+Magicnumberは、イギリスのミュージシャン／作曲家／プロデューサー／ベーシストRoss Hillardの別名義。Magicnumber名義では、ハウス、ソウル、ダウンテンポ、ジャズ〜オーケストラル要素を取り入れた幅広いサウンドを展開している。
 
-"Flyaway" is a Deep House track released in 2004 by Stereo Deluxe, a label specializing in modern & urban club/lounge music.
+「Flyaway 」は、2004年にmodern & urban club/ loungeミュージックに特化したレーベルStereo DeluxeからリリースされたDeep Houseトラック。
 
 A2 is a remix by British House production team Liquid People by Conan Manchester and Dan Smith.
 
-B2 is a remix by Andy Mac and DJ/producer Atjazz (Martin Iveson).
+B2は、Andy Macと、DJ／プロデューサーAtjazz(Martin Iveson)によるリミックス。
 
 #### Tracklist
 ```md
@@ -31,7 +31,7 @@ B1. Fly Away (Mr. Dr. Magimix)
 B2. Fly Away (Little Big Bee Remix)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m95412444381?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95412444381?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H_lhLRH7phA?si=RcZujc15gxSoiY7z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

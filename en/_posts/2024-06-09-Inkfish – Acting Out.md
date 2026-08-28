@@ -15,9 +15,9 @@ title: Inkfish – Acting Out
 ---
 
 
-Inkfish, a stalwart of the underground house scene, is a producer and DJ collective that has been active since the 90s. The members are Mattias Lindblom, Jesper Lindquist, Andreas Hermansson and Johan Hermansson from Sweden.
+アンダーグラウンド ハウス シーンの重鎮Inkfishは、90年代から活動するプロデューサー＆DJ集団。メンバーは、ウェーデン出身のMattias Lindblom、Jesper Lindquist、Andreas Hermansson、Johan Hermansson の 4 人。
 
-Inkfish has worked under various names with such big-name producers/DJs as David West, Hardy Heller, Tomas Andersson, and progressive legend Ian Ossia. He has also produced artists such as Medway, Tom Novy & Jerome Isma-ae, and Matt Darey.
+Inkfish は、さまざまな名義で、David West、Hardy Heller、Tomas Andersson、プログレッシブ界の伝説 Ian Ossia などの大物プロデューサー/DJ と共演している。また、Medway、Tom Novy & Jerome Isma-ae、Matt Darey などをプロデュースしている。
 
 "Acting Out" is a progressive tribal house track by Inkfish that was released in 2003 in a limited edition of 500 copies.
 
@@ -26,7 +26,7 @@ Inkfish has worked under various names with such big-name producers/DJs as David
 A. Acting Out
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m47096405084?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47096405084?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMffgmavpE8?si=3ejHN8YBz5MOBGQn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

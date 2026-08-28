@@ -12,13 +12,13 @@ title: Ascension – Someone
 ---
 
 
-Ascension is a project by UK dance music producers Rick Simmonds and Stephen Jones.
+Ascension(アセンション)は、UKダンスミュージックのプロデューサーRick SimmondsとStephen Jones によるプロジェクト。
 
 "Someone" is a trance track released in 2000 by the UK Trance & House label Code Blue.
 
-A is a remix by UK Trance DJ and producer Steve Helstrip, aka Thrillseekers.
+Aは、Thrillseekers ことUK Trance DJ&プロデューサーSteve Helstripによるリミックス。
 
-B is a remix by UK electronic dance music (EDM) duo Binary Finaly.
+Bは、UKのエレクトロニックダンスミュージック(EDM)デュオ、Binary Finary(バイナリーファイナリー)によるリミックス。
 
 
 #### Tracklist

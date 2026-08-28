@@ -12,9 +12,9 @@ title: Ikarus – 7 Days Out!
 ---
 
 
-Ikarus is a project of Toru Shimada and was released in 1998 on his label Philosomatik Records.
+IkarusはToru Shimadaのプロジェクトで、彼のレーベルPhilosomatik Records より1998年にリリースされました。
 
-"Ikarus – 7 Days Out!" is a record played by many DJs including Danny Tenaglia, Peter Rauhofer, Cevin Fisher and Junior Vasquez.
+「Ikarus – 7 Days Out!」は、Danny Tenaglia（ダニー テナグリア）, Peter Rauhofer（ピーター ラウホーファー）, Cevin Fisher（セビン フィッシャー） やJunior Vasquez（ジュニア バスケス）など多くのDJがplayしたレコードです。
 
 #### Tracklist
 ```md

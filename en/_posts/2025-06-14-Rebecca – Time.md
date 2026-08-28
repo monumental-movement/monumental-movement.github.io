@@ -15,11 +15,11 @@ title: Rebecca – Time
 ---
 
 
-"Time" is Rebecca"s fifth album, released in 1986 by the FITZBEAT label. The catchphrases of this album are ""It"s not about logic..." and ""Boredom and cramps are all thrown into the trash can."
+「Time」は、レーベルFITZBEAT（フィッツビート）から 1986年にリリースされたRebecca(レベッカ)5枚目のアルバム。このアルバムのキャッチコピーは、『理屈じゃなくて…』『退屈も、窮屈も、みんなまとめてゴミ箱行きだ』。
 
-Contains the hit songs "LONELY BUTTERFLY" and "CHEAP HIPPIES".
+ヒット曲、「LONELY BUTTERFLY(ロンリー・バタフライ)」、　「CHEAP HIPPIES(チープ・ヒッピーズ)」が収録されている。
 
-The song "Never Told You But I Love You" is
+収録曲「Never Told You But I Love You」は、
 Coupling of the theme song ""MONOTONE BOY" of the movie ""Binetsu Shonen".
 
 #### Tracklist
@@ -36,7 +36,7 @@ B3. White Sunday
 B4. Never Told You But I Love You
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHuMjO9g0Bw?si=xg7jMwRxFEGpTRiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

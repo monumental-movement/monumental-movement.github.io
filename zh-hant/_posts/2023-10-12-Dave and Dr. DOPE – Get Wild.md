@@ -9,15 +9,15 @@ permalink: /zh-hant/dave-and-dr-dope-get-wild/
 tags:
 - Techno
 - Hyper Techno
-title: 戴夫和 DOPE 博士 – 狂野起來
+title: Dave and Dr. DOPE – Get Wild
 ---
 
 
-由義大利製作人 Dave Rodgers 和 Dr. D.O.P.E. 製作的 TM NETWORK 的《Get Wild》的超科技編曲組合。
+イタリアのプロデューサーDave Rodgers（デイヴロジャース）とDr. D.O.P.E.（ドクター・ドープ）によるTM NETWORK（TMネットワーク）の「Get Wild（ゲットワイルド）」のハイパーテクノ・アレンジミックス。
 
-製片：阿爾貝托康蒂尼和戴夫羅傑斯。
+プロデューサーは、Alberto Contini（アルベルト・コンティニ）とDave Rodgers（デイヴロジャース）。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Get Wild (Extended Mix)
 
@@ -26,7 +26,7 @@ B1. Get Wild (DJ Version)
 B2. Get Wild (Instrumental)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m98858239692?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98858239692?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1BDc8Cp9zi4?si=vfz25mLe7po7ns8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

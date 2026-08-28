@@ -9,15 +9,15 @@ permalink: /zh-hant/di-lacuna-teetering-on-the-edge-of-quiet/
 tags:
 - Rock
 - Post Rock
-title: Di Lacuna－在安靜的邊緣搖搖欲墜
+title: Di Lacuna – Teetering On The Edge Of Quiet
 ---
 
 
-Di Lacuna 是一支後搖滾樂隊，由約翰·塞夫頓 (John Sephton)、李·紐厄爾 (Lee Newell) 和保羅·海明菲爾德 (Paul Hemmingfield) 於 1998 年組建。成員 Lee Newell 自 2007 年以來一直在 Fields of the Nephilim 中擔任鼓手。
+Di Lacunaは、John Sephton、Lee Newell,、Paul Hemmingfieldによって1998年に結成されたポストロックバンド。メンバーのLee Newellは、2007年からFields of the Nephilim（フィールズ・オブ・ザ・ネフィリム）でドラムを担当している。
 
-「Teetering On The Edge Of Quiet...」由位於英國布萊頓的電子噪音後搖唱片公司 FatCat Records 於 1999 年發行。
+「Teetering On The Edge Of Quiet....」は、UKブライトンを拠点とするエレクトロニカ・ノイズ・ポストロックレーベルFatCat Recordsより1999年にリリースされた。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Brand New Low
 
@@ -28,5 +28,5 @@ B1. New Project 14
 B2. Scandal Of The Baby Farmers
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m49813157624?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49813157624?afid=6142608987){: .button1}
 

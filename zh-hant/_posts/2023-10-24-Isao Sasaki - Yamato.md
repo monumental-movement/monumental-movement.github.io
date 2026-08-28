@@ -10,26 +10,26 @@ tags:
 - Theme
 - JPop
 - 7inch
-title: 佐佐木功 – 告別宇宙戰艦大和號愛的戰士 – 好敵人
+title: ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵
 ---
 
 
-《佐佐木功 - 告別宇宙戰艦大和號：愛的戰士們 - Good Enemy》是 1978 年電影《告別宇宙戰艦大和號：愛的戰士們》的插入曲/形象歌。
+「ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵」は、1978年の映画『さらば宇宙戦艦ヤマト 愛の戦士たち』の挿入歌・イメージソング。
 
-歌詞-阿久悠
+作詞 - 阿久悠 
 
-作曲/編曲 - 宮川靖
+作曲・編曲 - 宮川泰 
 
-歌曲 - 佐佐木功
+ 歌 - ささきいさお
 
-#### 曲目表
+#### Tracklist
 ```md
 A. 好敵手
 
 B. テレサよ永遠に
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m54170309035?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54170309035?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEpoq39ezN8?si=8jBS81DdYfFoXR7V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

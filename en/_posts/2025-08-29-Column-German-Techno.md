@@ -10,12 +10,11 @@ tags:
 - Techno
 - 90s
 - 00s
-title: '[Column] Genealogy and present of German Techno - Aesthetics of sound spreading
-  from Berlin to the world'
+title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学
 ---
 
 
-## An inorganic heartbeat that shakes the world from Berlin.
+## ベルリン発、世界を震わせる無機質な鼓動。
 
 
 Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and silence.
@@ -24,7 +23,7 @@ Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and sile
 
 ### What is German techno?
 
-"German Techno" rose rapidly from the late 1980s to the early 1990s, and continues to have a major influence on the world club scene. Cities such as Berlin and Frankfurt in particular are known as symbolic hubs for the development of techno, creating their own unique aesthetics through club culture and label activities.
+「German Techno（ドイツ テクノ）」は、1980年代後半から1990年代初頭にかけて急速に台頭し、現在も世界のクラブ・シーンに大きな影響を与え続けています。特にベルリンやフランクフルトといった都市は、テクノ発展の象徴的な拠点として知られ、クラブカルチャーやレーベルの活動を通じて、独自の美学を築き上げました。
 
 <hr>
 
@@ -38,13 +37,13 @@ The fall of the Berlin Wall in 1989 was a turning point in the development of te
 
 <hr>
 
-### Characteristics of German Techno
+### ジャーマン・テクノの特徴
 
 - **Minimalism and repeatability**
 
 German techno emphasized more mechanical and linear rhythms compared to the soulful elements of Detroit techno.
 
-- **Industrial influence**
+- **インダストリアルの影響**
 
 Inheriting the tradition of electronic music represented by Kraftwerk, the sound reflects the inorganicity and coldness of an industrial city.
 
@@ -58,13 +57,13 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 - **Sven Väth (Frankfurt)**: Symbol of German techno. Internationalizing the scene through the label Cocoon.
 
-- **Ellen Allien (Berlin)**: Founder of BPitch Control. A fusion of underground and experimentalism.
+- **Ellen Allien（ベルリン）**：BPitch Control 創設者。アンダーグラウンドと実験性を融合。
 
-- **Paul Kalkbrenner**: Widely known for the movie ""Berlin Calling.'' Melodic and lyrical techno.
+- **Paul Kalkbrenner**: Widely known for the movie "Berlin Calling". Melodic and lyrical techno.
 
 - **Johannes Heil**: Producer pursuing hard and dark German techno.
 
-- **Len Faki, Ben Klock, Marcel Dettmann**: Gained worldwide acclaim as residents at Berghain.
+- **Len Faki, Ben Klock, Marcel Dettmann**：Berghain のレジデントとして世界的評価を獲得。
 
 <hr>
 
@@ -82,7 +81,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 - Lots of repetitive riffs with synthesizers
 
-**Significant movement**: The club "Dorian Gray" in Frankfurt and underground parties in Berlin support the scene.
+**代表的動き**：フランクフルトのクラブ「Dorian Gray」、ベルリンのアンダーグラウンドパーティがシーンを支える。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9u7x5UQHlqA?si=plSaqk1woQjz_HrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -90,7 +89,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 #### Early 1990s (expansion period)
 
-**Background**: After the fall of the Berlin Wall, rave culture exploded in empty warehouses and factory sites. Club "Tresor" opened (1991).
+**背景**：ベルリンの壁崩壊後、空き倉庫や工場跡地でのレイヴ文化が爆発。クラブ「Tresor」オープン（1991）。
 
 **Sound Features**:
 
@@ -112,11 +111,11 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 **Sound Features**:
 
-- Development of minimal techno (simplified structures, emphasis on repeatability)
+- ミニマルテクノの発展（単純化された構造、反復性を強調）
 
 - Rise of hard techno and acid techno
 
-- Detroit's "soulful" element fades, giving way to a cold, mechanical sound.
+- デトロイトの「ソウルフル」要素が薄れ、冷徹で機械的な音に
 
 **Featured Artists**: Chris Liebing, Johannes Heil, Heiko Laux.
 
@@ -130,7 +129,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 **Sound Features**:
 
-- Hard minimal/industrial style becomes mainstream
+- ハードミニマル／インダストリアル寄りが主流に
 
 - Fusion with groove-oriented techno house (Tech House)
 
@@ -150,17 +149,17 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 - Berghain sound: heavy kick, dark and inorganic atmosphere
 
-- Reinterpretation of industrial and EBM elements
+- インダストリアルやEBM要素の再解釈
 
-- Melodic techno and deep techno gain worldwide support
+- メロディック・テクノやディープ・テクノが世界的に支持を獲得
 
-**Representative artists**: Ben Klock, Marcel Dettmann, Nina Kraviz (based in Berlin), Stephan Bodzin.
+**代表的アーティスト**：Ben Klock、Marcel Dettmann、Nina Kraviz（ベルリンで活動）、Stephan Bodzin。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xogJgUteDAs?si=i6hRGdVxGs5Go9UD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2020s (currently ongoing)
+#### 2020年代（現在進行形）
 
 **Background**: In the streaming era, club culture is being reevaluated after the pandemic.
 
@@ -170,11 +169,11 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 - Melodic techno is popular at festivals and streaming (Tale Of Us type)
 
-- Reinterpretations of hard trance and 90s sounds are also popular.
+- ハードトランスや90年代的サウンドの再解釈も盛ん
 
-**Trend**: While inheriting the coolness characteristic of past "German techno," it has evolved with the addition of emotional expression and visual production.
+**Trend**: While inheriting the coolness typical of past "German techno," it has evolved with the addition of emotional expression and visual production.
 
-If you compare the songs by decade, you can see a cycle of ""Industrial and cold → Minimalization → Hardening → Melodicization → Re-industrialization''**.
+年代ごとに聴き比べると、**「インダストリアルで冷徹 → ミニマル化 → ハード化 → メロディック化 → 再インダストリアル化」**という循環が見えてきます。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +184,7 @@ If you compare the songs by decade, you can see a cycle of ""Industrial and cold
 Today's German Techno has evolved widely, from hard, industrial trends to melodic and lyrical expressions, yet still maintains its iconic status as ""Berlin, the capital of techno.''
 
 In conclusion, German Techno is both a cultural product of the past and a testing ground for the future of sound design.
-Listening to his works while tracing their history is nothing but understanding the dynamism of music, where cities and humans, machines and emotions intertwine.
+その歴史を辿りながら作品を聴くことは、都市と人間、機械と感情が交錯する音楽のダイナミズムを理解することに他なりません。
 
 
 ---
@@ -199,15 +198,15 @@ Listening to his works while tracing their history is nothing but understanding 
 
 ---
 
-### Related columns
+### 関連コラム
 
-🔗 [[Column] Four Germanys, four technos — wall reverberations and minimalist philosophy](https://monumental-movement.jp/column-german-techno-areas)
+🔗 [【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学](https://monumental-movement.jp/column-german-techno-areas)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
 🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
 🔗 [[Column] Tresor - The sacred place of techno that changed the world from underground in Berlin](https://monumental-movement.jp/Column-Tresor)
 

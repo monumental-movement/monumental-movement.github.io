@@ -15,13 +15,13 @@ title: Fumio Miyashita - Meisou
 ---
 
 
-Tomio Miyashita is a musician, music therapist, and synthesizer player from Nagano Prefecture.
+宮下 富実夫は、長野県出身の音楽家・ミュージックセラピスト・シンセサイザー奏者。
 
-They started their activities in 1965 and formed the progressive rock group "Far East Family Band". Kitaro was also a member of the Far East Family Band.
+1965年から活動を開始し、プログレッシブ・ロック・グループ「ファー・イースト・ファミリー・バンド」を結成。ファーイーストファミリーバンドには喜多郎も在籍していた。
 
-While actively performing tours and healing concerts in Japan and abroad, he has also appeared in the 1988 animated film "Kaze no Matasaburo: Acorn and the Wildcat", the 1990 film "Heaven and Earth", the 1992 film "Gaia Symphony No. 1", and the animated film "Phoenix" based on Osamu Tezuka's original work. He was also in charge of composing movie music and theme songs for films such as "Phoenix Edition", "Phoenix Edition" directed by Toshio Hirata, "Phoenix Edition" directed by Yoshiaki Kawajiri, and "Phoenix Edition" directed by Yoshiaki Kawajiri. For the 1997 Nagano Olympics, he composed the theme song for the bid, ""Kotobuki.''
+国内外で、ツアー＆ヒーリングコンサートを精力的に行う一方、1988年アニメ映画「風の又三郎・どんぐりと山猫」、1990年映画「天と地と」、1992年映画「ガイアシンフォニー 第一番」、手塚治虫原作のアニメ映画の「火の鳥 鳳凰編」、平田敏夫監督「火の鳥ヤマト編」、川尻善昭監督「火の鳥宇宙編」などの映画音楽や主題歌の作曲も担当した。1997年の長野オリンピックでは招致テーマ曲「寿」を制作している。
 
-"Meditation" is a new age ambient album released by BIWA Records in 1989.
+「瞑想」は、1989年にBIWA Recordsからリリースされたニューエイジ・アンビエントアルバム。
 
 #### Tracklist
 ```md
@@ -29,7 +29,7 @@ While actively performing tours and healing concerts in Japan and abroad, he has
 2. 静寂郷 - Seijyakukyo, A Region Of Stillness
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

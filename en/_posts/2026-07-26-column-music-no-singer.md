@@ -10,53 +10,52 @@ tags:
 - Instrumental
 - Jazz
 - Ambient
-title: '[Column] Music can exist even without a singer - another history of music
-  opened up by instrumental music'
+title: 【コラム】 歌手がいなくても音楽は成立する──インストゥルメンタルが切り開いたもう一つの音楽史
 ---
 
 
-## Introduction
+## はじめに
 
-Text: mmr｜Theme: Reconsidering the common sense that ""music cannot exist without singing,'' and interpreting the expressive power and cultural value of music without a singer through the history of classical music to electronic music.
+文：mmr｜テーマ：「歌がなければ音楽は成立しない」という常識を問い直し、クラシックから電子音楽までの歴史を通して、歌手のいない音楽が持つ表現力と文化的価値を読み解く
 
 
-"What's your favorite song?"
+「好きな歌は？」
 
-When asked this question, many people think of songs with vocals.
+そう聞かれたとき、多くの人はボーカルのある楽曲を思い浮かべる。
 
-Pop, rock, R&B, hip hop.
-Even if you look at modern hit charts, singers are always at the center of them.
+ポップス、ロック、R&B、ヒップホップ。
+現代のヒットチャートを見ても、その中心には常に歌手がいる。
 
-That's why ""music without songs'' seems a little special.
+だからこそ、「歌がない音楽」は少し特殊な存在に見える。
 
-movie music.
-Classic.
-jazz.
-Ambient.
-Techno.
-game music.
+映画音楽。
+クラシック。
+ジャズ。
+アンビエント。
+テクノ。
+ゲーム音楽。
 
-Although these works are highly acclaimed all over the world and loved by many people, they do not necessarily require a singer.
+こうした作品は世界中で高く評価され、多くの人に愛されているにもかかわらず、必ずしも歌手を必要としていない。
 
-In fact, if we look back at the history of human music, ""music with songs" and ""music without songs" have always coexisted.
+実際、人類の音楽史を振り返ると、「歌のある音楽」と「歌のない音楽」は常に共存してきた。
 
-Furthermore, much of the music that is currently highly regarded as ""works of art'' does not have lyrics.
+しかも、現在「芸術作品」として高く評価されている音楽の多くは、歌詞を持たない。
 
-This is no coincidence.
+これは偶然ではない。
 
-Music is essentially an art that is not only used to convey words, but also to share emotions, space, time, and physical sensations through the sounds themselves.
+音楽は本来、「言葉」を伝えるためだけのものではなく、「音そのもの」を通して感情や空間、時間、身体感覚を共有する芸術だからである。
 
-Lyrics convey meaning.
+歌詞は意味を伝える。
 
-On the other hand, melody, harmony, rhythm, and timbre directly convey feelings that cannot be explained in words.
+一方、旋律や和声、リズム、音色は、言葉では説明できない感覚を直接伝える。
 
-Therefore, music can exist even without a singer.
+そのため、歌手がいなくても音楽は成立する。
 
-In fact, there are many worlds that can only be expressed through the absence of songs.
+むしろ、歌が存在しないことで初めて表現できる世界も数多く存在する。
 
-In this column, we will trace the history of human music, looking at how ""music without singers'' developed and why it continues to exist as an important art form even today.
+このコラムでは、人類の音楽史をたどりながら、「歌手がいない音楽」がどのように発展し、なぜ現代でも重要な芸術として存在し続けているのかを見ていく。
 
->Singing is a form of music, not a condition that defines music itself.
+> 歌は音楽の一つの形であり、音楽そのものを定義する条件ではない。
 
 
 <style type="text/css">
@@ -64,7 +63,7 @@ In this column, we will trace the history of human music, looking at how ""music
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -76,700 +75,700 @@ color: #fff;
 ---
 
 
-## From the beginning, music wasn't just about "singing"
+## 音楽は最初から「歌」だけではなかった
 
-### What humanity's oldest musical instrument shows us
+### 人類最古の楽器が示すもの
 
-The oldest known musical instruments include the bone flute, which is about 40,000 years old.
+現在確認されている最古級の楽器には、約4万年前の骨笛が含まれる。
 
-These bone flutes, found throughout Europe, were made from the bones of birds and large mammals and had a structure that allowed them to play multiple pitches.
+ヨーロッパ各地で発見されたこれらの骨笛は、鳥や大型哺乳類の骨から作られ、複数の音程を演奏できる構造を持っていた。
 
-The existence of bone flutes indicates that humans were playing ""melodies'' from a very early stage.
+骨笛が存在するという事実は、人類が非常に早い段階から「旋律」を演奏していたことを示している。
 
-Of course, there is a high possibility that songs were also sung on the spot.
+もちろん、その場で歌も歌われていた可能性は高い。
 
-However, the important point is that there is a strong possibility that music could have been created using instruments alone.
+しかし重要なのは、「楽器だけでも音楽が成立していた可能性」が十分にあるという点である。
 
-The repetition of certain rhythms and pitches is thought to have been important in hunting, rituals, and community rituals.
+狩猟や祭祀、共同体の儀式では、一定のリズムや音程を繰り返すこと自体が重要だったと考えられている。
 
-Lyrics weren't necessarily necessary there.
+そこでは必ずしも歌詞は必要ではなかった。
 
-Sound played a role in bringing communities together.
+音は共同体をまとめる役割を担っていた。
 
-### Ancient civilization and instrumental culture
+### 古代文明と器楽文化
 
-Harps and lutes were played in ancient Egypt.
+古代エジプトではハープやリュートが演奏されていた。
 
-The harp was developed in Mesopotamia.
+メソポタミアでは竪琴が発達した。
 
-In ancient Greece, the lyre and aulos were important musical instruments, used not only for plays and festivals, but also for education.
+古代ギリシャではリラやアウロスが重要な楽器となり、演劇や祭礼だけでなく、教育にも利用された。
 
-Of course, singing was important, but instrumental performances were also widely performed.
+もちろん歌唱も重要だったが、器楽だけの演奏も広く行われていた。
 
-It was not uncommon for dances and rituals to proceed as musicians played melodies.
+演奏者が旋律を奏でることで、舞踊や儀式が進行することも珍しくなかった。
 
-In other words, humans have distinguished between ""singing" and ""performance" since ancient times.
+つまり、人類は古代から「歌」と「演奏」を区別していたのである。
 
-### Instrumental music spread in medieval Europe
+### 中世ヨーロッパで広がる器楽
 
-Religious music played an important role in medieval Europe.
+中世ヨーロッパでは宗教音楽が大きな位置を占めていた。
 
-Vocal works such as Gregorian chant are famous, but instrumental performances were also popular at court and in cities.
+グレゴリオ聖歌のような声楽作品は有名だが、その一方で宮廷や都市では器楽演奏も盛んだった。
 
-lute
+リュート
 
-Vierre
+ヴィエール
 
-hurdy gurdy
+ハーディ・ガーディ
 
-shawm
+ショーム
 
-These instruments were played at festivals and balls, where people enjoyed the music rather than the singing.
+これらの楽器は祝祭や舞踏会で演奏され、人々は歌ではなく演奏そのものを楽しんでいた。
 
-What is important here is that instrumental music did not exist solely as ""singing accompaniment.''
+ここで重要なのは、器楽が「歌の伴奏」としてだけ存在していたわけではないということである。
 
-An independent performance culture gradually took shape.
+独立した演奏文化が徐々に形成されていったのである。
 
-### Instrumental music became independent during the Renaissance
+### ルネサンスで器楽が独立する
 
-In the 15th and 16th centuries, instrumental music rapidly increased.
+15〜16世紀になると、器楽曲が急速に増えていく。
 
-Works for keyboard instruments.
+鍵盤楽器のための作品。
 
-Lute solo.
+リュート独奏曲。
 
-A collection of dances.
+舞曲集。
 
-Ensemble.
+合奏曲。
 
-These were published as works without lyrics and were popularized by many performers.
+これらは歌詞を持たない作品として出版され、多くの演奏家によって広まっていった。
 
-Printing technology also made great progress.
+印刷技術の発達も大きかった。
 
-Music scores began to be distributed in large quantities, and the culture of performing only instrumental music spread throughout Europe.
+楽譜が大量に流通するようになり、器楽作品だけを演奏する文化がヨーロッパ各地へ広がったのである。
 
-Around this time, music had begun to be established as not only an art that conveys lyrics, but also an art that consists only of sound.
+この頃には、音楽は「歌詞を伝える芸術」だけではなく、「音だけで構成される芸術」として確立し始めていた。
 
-> Instrumental music has grown throughout history as an independent art form, rather than a substitute for singing.
+> 器楽は歌の代用品ではなく、独立した芸術として歴史の中で成長していった。
 
 ---
 
-## "Expression without singing" proven by classical music
+## クラシック音楽が証明した「歌のない表現」
 
-### Turning point in the Baroque era
+### バロック時代の転換点
 
-The Baroque era, which spanned from the 17th to the 18th century, was a time of dramatic development in instrumental music.
+17世紀から18世紀にかけてのバロック時代は、器楽音楽が飛躍的に発展した時代だった。
 
-Improvements in the violin family progressed, and keyboard instruments such as the harpsichord and organ also developed.
+ヴァイオリン属の改良が進み、チェンバロやオルガンなどの鍵盤楽器も発展する。
 
-The format of concertos and sonatas was established, and performance techniques rapidly became more sophisticated.
+協奏曲やソナタという形式が整えられ、演奏技術も急速に高度化した。
 
-Instrumental music no longer supported the songs, but became the main character.
+器楽はもはや歌を支える存在ではなく、主役になっていた。
 
-This change is a major turning point in music history.
+この変化は音楽史における大きな転換点である。
 
-### A huge expression called symphony
+### シンフォニーという巨大な表現
 
-In the late 18th century, the symphony developed.
+18世紀後半になると交響曲が発展する。
 
-The idea of ​​dozens of performers creating a single piece had never existed before.
+数十人規模の演奏者が一つの作品を作り上げるという発想は、それ以前には存在しなかった。
 
-Symphonies have no lyrics.
+交響曲には歌詞がない。
 
-There are no characters.
+登場人物もいない。
 
-But the audience felt the story there.
+しかし聴衆はそこに物語を感じた。
 
-tension.
+緊張。
 
-release.
+解放。
 
-Conflict.
+対立。
 
-victory.
+勝利。
 
-Silence.
+静寂。
 
-All of these are drawn using only musical instruments.
+これらはすべて楽器だけで描かれていく。
 
-In other words, even without words, humans can read the passage of time and changes in emotions just from sounds.
+つまり、人間は言葉がなくても、音だけから時間の流れや感情の変化を読み取れるのである。
 
-### Musical instruments have expressions that go beyond "voice"
+### 楽器は「声」を超える表現を持つ
 
-There are limits to the human vocal range.
+人間の声域には限界がある。
 
-However, musical instruments have fewer such restrictions.
+しかし楽器には、その制約が少ない。
 
-A violin can maintain its sound for a long time.
+ヴァイオリンは長く音を保ち続けられる。
 
-The trumpet resounds far.
+トランペットは遠くまで響く。
 
-The timpani produces a low tone that shakes the entire body.
+ティンパニは身体全体を揺らす低音を生み出す。
 
-The piccolo plays high notes like a bird.
+ピッコロは鳥のような高音を奏でる。
 
-In an orchestra, different tones are combined to create a huge acoustic space that cannot be achieved by a single singer.
+オーケストラでは、それぞれ異なる音色が組み合わさり、一人の歌手では実現できない巨大な音響空間が作られる。
 
-The lack of singers does not mean that there is less expression.
+歌手がいないことは、表現が少ないことではない。
 
-In fact, there are cases where the options for expression are expanded.
+むしろ、表現の選択肢が広がる場合もある。
 
-### What is the audience listening to?
+### 聴衆は何を聴いているのか
 
-When listening to instrumental music, people don't follow the lyrics.
+器楽作品を聴くとき、人は歌詞を追わない。
 
-Instead, your ears turn to other information.
+代わりに耳は別の情報へ向かう。
 
-Tone.
+音色。
 
-Strength and weakness.
+強弱。
 
-Harmony.
+和声。
 
-tempo.
+テンポ。
 
-space.
+空間。
 
-Repetition.
+反復。
 
-Expectations.
+期待。
 
-betrayal.
+裏切り。
 
-The brain unconsciously integrates these elements and understands them as a single story.
+こうした要素を脳は無意識に統合し、一つの物語として理解している。
 
-This isn't just classical music.
+これはクラシック音楽だけではない。
 
-This is a characteristic of human music perception that is common to modern movie music and game music.
+現代の映画音楽やゲーム音楽にも共通する、人間の音楽認知の特徴である。
 
-> Classical music showed the world that you can tell epic stories without lyrics.
+> クラシック音楽は、歌詞がなくても壮大な物語を描けることを世界に示した。
 
 ---
 
-## "Conversations that don"t require words" expanded by jazz
+## ジャズが広げた「言葉のいらない会話」
 
-### New communication called improvisation
+### 即興演奏という新しいコミュニケーション
 
-At the beginning of the 20th century, as jazz developed in America, the way people thought about music changed even more.
+20世紀初頭、アメリカでジャズが発展すると、音楽に対する考え方はさらに大きく変化した。
 
-Of course, there are many works in jazz that center around singing.
+ジャズにはもちろん歌を中心とした作品も多い。
 
-However, what is essential to telling this history is instrumental improvisation.
+しかし、その歴史を語るうえで欠かせないのは、インストゥルメンタルによる即興演奏である。
 
-In New Orleans, a style was established in which trumpet, clarinet, trombone, piano, bass, and drums played in concert with each other.
+ニューオーリンズでは、トランペット、クラリネット、トロンボーン、ピアノ、ベース、ドラムが互いに呼応しながら演奏するスタイルが確立された。
 
-What is important here is the idea that ""all performers engage in dialogue," rather than ""one person telling a story."
+ここで重要なのは、「誰か一人が物語を語る」のではなく、「演奏者全員が対話を行う」という発想である。
 
-Instead of conveying meaning through lyrics, the phrases themselves served as communication.
+歌詞によって意味を伝える代わりに、フレーズそのものがコミュニケーションの役割を果たした。
 
-Another instrument responds to the short melody, and new ideas are layered on top of that response.
+短い旋律に別の楽器が応答し、その応答にさらに新しいアイデアが重なっていく。
 
-This flow is very similar to a conversation.
+この流れは会話によく似ている。
 
-For this reason, jazz is often described as a ""conversation between performers.''
+そのためジャズはしばしば「演奏者同士の会話」と表現される。
 
-Of course, they are not actually exchanging words.
+もちろん実際に言葉を交わしているわけではない。
 
-However, the changes in rhythm and pitch that occur during a performance are perceived by the audience as natural dialogue.
+しかし演奏中に交わされるリズムや音程の変化は、聴衆にも自然な対話として認識される。
 
-### Solo speaks about "individuality" rather than lyrics
+### ソロは歌詞ではなく「個性」を語る
 
-In jazz, it is not uncommon for a piece of music to be played in different ways each time.
+ジャズでは、一つの楽曲を毎回異なる形で演奏することが珍しくない。
 
-After playing the theme, each performer takes a solo.
+テーマを演奏したあと、それぞれの奏者がソロを展開する。
 
-Even if it is the same song, the content changes each time it is played.
+同じ楽曲でも演奏のたびに内容は変わる。
 
-This is a different feature from classical music.
+これはクラシック音楽とは異なる特徴である。
 
-In a solo performance, not only the performer's technique, but also the way he chooses notes, the way he uses pauses, and the rhythmic fluctuations emerge as his individuality.
+ソロでは演奏者の技術だけでなく、音の選び方、間の取り方、リズムの揺らぎなどが個性として現れる。
 
-In other words, rather than expressing oneself through the lyrics, the performance itself reflects one's personality.
+つまり、歌詞によって自分を表現するのではなく、演奏そのものが人格を映し出す。
 
-The longer someone listens to jazz, the better they will be able to tell who is playing just by the sound.
+ジャズを長く聴く人ほど、「誰が演奏しているか」を音だけで判別できるようになる。
 
-There are so many differences in tone and phrasing between performers.
+それほどまでに演奏者ごとの音色やフレージングには違いがある。
 
-Just as singers express their individuality through their voices, jazz players express their individuality through their instruments.
+歌手が声で個性を表現するように、ジャズ奏者は楽器で個性を表現しているのである。
 
-### Huge sound architecture created by big bands
+### ビッグバンドが生み出した巨大な音の建築
 
-From the 1930s to the 1940s, big band jazz entered its golden age.
+1930年代から1940年代にかけて、ビッグバンド・ジャズが黄金期を迎える。
 
-This style, performed by groups of anywhere from a dozen to more than 20 people, involves precise combinations of multiple wind instruments and a rhythm section.
+十数人から二十人を超える編成で演奏されるこのスタイルでは、複数の管楽器とリズム隊が精密に組み合わされる。
 
-saxophone section.
+サックス・セクション。
 
-trumpet section.
+トランペット・セクション。
 
-trombone section.
+トロンボーン・セクション。
 
-Each has a different role and forms layers of sound.
+それぞれが異なる役割を持ち、音の層を形成していく。
 
-Many works were produced here that did not feature singers.
+ここでは歌手が登場しない作品も数多く制作された。
 
-Still, the audience went wild.
+それでも観客は熱狂した。
 
-The reason is clear.
+理由は明確である。
 
-This is because the overwhelming sound pressure, complex ensemble, and lively swing feel had the power to make people dance.
+圧倒的な音圧、複雑なアンサンブル、そして躍動するスウィング感そのものが、人々を踊らせる力を持っていたからである。
 
-The focus of music shifted from ""singing" to ""rhythm" and ""ensemble.''
+音楽の中心は「歌」ではなく、「リズム」と「アンサンブル」へと移っていった。
 
-### Abstract expression shown by modern jazz
+### モダンジャズが示した抽象表現
 
-After World War II, jazz became even more diverse.
+第二次世界大戦後、ジャズはさらに多様化する。
 
-Bebop developed high-speed improvisation, and later expanded into diverse directions such as hard bop, modal jazz, and free jazz.
+ビバップでは高速な即興演奏が発展し、その後もハードバップ、モード・ジャズ、フリー・ジャズなど、多様な方向へ広がっていった。
 
-Particularly in modal jazz, the selection of scales is more important than the chord progression, and there are more performances that take a long time to depict the space.
+特にモード・ジャズでは、コード進行よりも音階の選択が重視され、長い時間をかけて空間を描くような演奏が増える。
 
-In free jazz, the traditional format is deliberately broken, and the improvisational reactions between the performers become the works themselves.
+フリー・ジャズでは、あえて従来の形式を崩し、演奏者同士の即興的な反応そのものが作品となった。
 
-Here, there may not even be a fixed structure, let alone lyrics.
+ここでは歌詞どころか、一定の構成すら存在しない場合もある。
 
-However, the performance was a success and was supported by many in the audience.
+それでも演奏は成立し、多くの聴衆に支持された。
 
-It has come to be thought that the condition for music to exist is not ""the existence of songs," but ""the creation of relationships through sound."
+音楽が成立する条件は、「歌があること」ではなく、「音を通じて関係性が生まれること」にあると考えられるようになったのである。
 
->Jazz has proven that the performance itself, not the lyrics, can bring people into dialogue.
+> ジャズは、歌詞ではなく演奏そのものが人と人を対話させることを証明した。
 
 ---
 
-## "Invisible narrator" shown by film music
+## 映画音楽が示した「見えない語り手」
 
-### A presence that conveys emotions before images
+### 映像より先に感情を伝える存在
 
-When watching a movie, you can sometimes feel the emotion even when the characters aren't saying anything.
+映画を観ていて、登場人物が何も話していない場面でも感情が伝わることがある。
 
-One of the reasons is music.
+その理由の一つが音楽である。
 
-Film music doesn't just exist to supplement dialogue.
+映画音楽は、セリフを補足するためだけの存在ではない。
 
-Rather, it plays a role in conveying to the audience the emotions that the characters cannot express in words and the atmosphere that cannot be expressed through images alone.
+むしろ、登場人物が言葉にできない感情や、映像だけでは表現しきれない空気を観客へ伝える役割を担っている。
 
-Tense bass.
+緊張感のある低音。
 
-A gentle stringed instrument.
+穏やかな弦楽器。
 
-A brass instrument suddenly rings out.
+突然鳴り響く金管楽器。
 
-A quiet piano.
+静かなピアノ。
 
-Through these changes in sound, the audience unconsciously understands the direction of the story.
+こうした音の変化によって、観客は物語の方向性を無意識に理解している。
 
-Even without lyrics, music is an important narrator of the story.
+歌詞がなくても、音楽は物語の重要な語り手になっているのである。
 
-### A tradition that dates back to the silent film era
+### 無声映画時代から続く伝統
 
-The history of film music dates back to the era of silent movies.
+映画音楽の歴史は、無声映画の時代までさかのぼる。
 
-At the movie theater, a piano and a small orchestra played in front of the screen, creating an atmosphere that matched the images.
+映画館ではスクリーンの前でピアノや小編成の楽団が演奏し、映像に合わせて雰囲気を作り出していた。
 
-From around this time, music had the role of ""making people feel the images," rather than ""explaining them."
+この頃から、音楽は「映像を説明する」のではなく、「映像を感じさせる」役割を持っていた。
 
-A quiet melody in sad scenes.
+悲しい場面では静かな旋律。
 
-The chase scene has a fast tempo.
+追跡場面では速いテンポ。
 
-Soft harmony in love.
+恋愛では柔らかな和声。
 
-These methods have been inherited to this day.
+こうした手法は現在まで受け継がれている。
 
-The audience can understand the meaning of the scene just by listening to the sound without having to read the lyrics.
+観客は歌詞を読まなくても、音だけで場面の意味を理解できる。
 
-### Theme music creates memories
+### テーマ音楽が記憶をつくる
 
-There is a technique called ""leitmotif'' in film music.
+映画音楽には「ライトモティーフ」と呼ばれる手法がある。
 
-It is a method of repeatedly using a melody that corresponds to a specific person, place, or event.
+特定の人物や場所、出来事に対応する旋律を繰り返し使用する方法である。
 
-Every time the same melody plays, the audience is automatically reminded of its existence.
+同じ旋律が流れるたびに、観客はその存在を自然と思い出す。
 
-This is a different mechanism of memory than lyrics.
+これは歌詞とは異なる記憶の仕組みである。
 
 The human brain easily memorizes melodies and tones for long periods of time, and it is not uncommon for a few seconds of a melody to recall an entire piece.
 
-For this reason, film music has become an important element that supports the memory of the work itself.
+そのため映画音楽は、作品そのものの記憶を支える重要な要素となっている。
 
-### Music anticipates emotions
+### 音楽は感情を先回りする
 
-Music plays before you watch the video.
+映像を観る前に音楽が鳴る。
 
-The audience then unconsciously predicts what will happen next.
+すると観客は、これから起こる出来事を無意識に予測する。
 
-Calm chords make us feel safe, while unstable chords make us feel nervous.
+穏やかな和声なら安心感を抱き、不安定な和音なら緊張を覚える。
 
-This is an expression technique that has been accumulated over many years in film music.
+これは長年にわたり映画音楽で積み重ねられてきた表現技法である。
 
-The important thing to note here is that singers are not needed here either.
+重要なのは、ここでも歌手は必要とされていないという点である。
 
-If the lyrics were always flowing, the audience's attention would be more likely to be focused on the words.
+もし常に歌詞が流れていたなら、観客の注意は言葉へ向かいやすくなる。
 
-On the other hand, instrumental music can support emotions naturally without interfering with the visuals.
+一方、インストゥルメンタルは映像を邪魔せず、感情だけを自然に支えることができる。
 
-That is why even today, most film music is composed mainly of instrumental music.
+だからこそ映画音楽は、今日でも大半が器楽を中心に構成されている。
 
-> Film music has developed as ""another narrator'' that supports the story and emotions using only sound rather than words.
+> 映画音楽は、言葉ではなく音だけで物語と感情を支える「もう一人の語り手」として発展してきた。
 
 ---
 
-## Ambient and electronic music have changed the act of "listening"
+## アンビエントと電子音楽が変えた「聴く」という行為
 
-### Music can be not only the foreground but also the background
+### 音楽は前景だけでなく背景にもなれる
 
-In the latter half of the 20th century, the idea that music is something you listen to with concentration began to change.
+20世紀後半になると、「音楽は集中して聴くもの」という考え方そのものが変化し始める。
 
-In classical music and jazz, the performance itself is the main character, and the audience is expected to pay attention to the stage.
+クラシックやジャズでは、演奏そのものが主役であり、聴衆はステージへ意識を向けることが前提だった。
 
-However, with the development of recording technology and electronic musical instruments, new roles for music are emerging.
+しかし、録音技術や電子楽器の発達によって、新しい音楽の役割が生まれる。
 
-That is "music that creates space."
+それが「空間をつくる音楽」である。
 
-Ambient is known as a typical example.
+アンビエントは、その代表的な例として知られている。
 
-In this music, the emphasis is on timbre, reverberation, and the flow of time itself, rather than flashy melodies or dramatic developments.
+この音楽では、派手なメロディーや劇的な展開よりも、音色や残響、時間の流れそのものが重視される。
 
-Rather than "following" the music, people naturally spend time in the space.
+人は音楽を「追いかける」のではなく、その空間の中で自然に過ごす。
 
-In other words, a new way of thinking was established in which music plays the leading role, but at the same time it becomes part of the environment.
+つまり、音楽が主役でありながら、同時に環境の一部にもなるという新しい考え方が確立されたのである。
 
-When lyrics exist, people inevitably try to understand the meaning.
+歌詞が存在すると、人はどうしても意味を理解しようとする。
 
-But without lyrics, attention turns to the sound itself.
+しかし歌詞がなければ、注意は音そのものへ向かう。
 
-As a result, music can more easily harmonize with space, architecture, light, and scenery.
+その結果、音楽は空間や建築、光や風景と調和しやすくなる。
 
-### Synthesizers expanded the possibilities of music
+### シンセサイザーが音楽の可能性を広げた
 
-The existence of synthesizers is essential to the development of electronic music.
+電子音楽の発展には、シンセサイザーの存在が欠かせない。
 
-Until then, musical instruments produced sound by vibrating strings or vibrating air.
+それまで楽器は、弦を震わせたり、空気を振動させたりすることで音を生み出していた。
 
-On the other hand, a synthesizer uses electronic circuits to create the sound itself.
+一方、シンセサイザーは電子回路によって音そのものを作り出す。
 
-This made it possible to freely design tones that had not previously existed in nature.
+これによって、それまで自然界には存在しなかった音色を自由に設計できるようになった。
 
-A sound that changes smoothly.
+滑らかに変化する音。
 
 A long-lasting drone.
 
-Complex swaying overtones.
+複雑に揺れる倍音。
 
-A rhythm that changes at regular intervals.
+一定の周期で変化するリズム。
 
-These sounds cannot be reproduced by the human voice.
+こうした音は、人間の声では再現できない。
 
-That's why in most electronic music, the focus is on the sound itself rather than the singing.
+だからこそ、多くの電子音楽では歌よりも音響そのものが中心となる。
 
-Electronic music was one of the first major genres in which the ""timbre'' took center stage instead of the singer.
+電子音楽は、歌手の代わりに「音色」が主役となった最初の大きなジャンルの一つだった。
 
-### Immersive feeling created by minimal repetition
+### ミニマルな反復が生み出す没入感
 
-Ambient and minimal music often uses short phrases that are repeated over and over again.
+アンビエントやミニマル・ミュージックでは、短いフレーズが何度も繰り返されることが多い。
 
-In a typical pop song, the structure keeps changing to get to the chorus.
+一般的なポップソングでは、サビへ向かうために構成が変化し続ける。
 
-On the other hand, there are few major changes in minimalist works.
+一方で、ミニマルな作品では大きな変化は少ない。
 
-However, within this ""changelessness'', very small changes accumulate.
+しかし、その「変わらなさ」の中で、ごく小さな変化が積み重なっていく。
 
-The tone changes slightly.
+音色が少し変わる。
 
-The volume increases slightly.
+音量がわずかに増える。
 
-The rhythm is slightly off.
+リズムがほんの少しずれる。
 
-These minute changes are only noticeable after listening for a long time.
+こうした微細な変化は、長時間聴き続けることで初めて認識される。
 
-As a result, the listener becomes conscious of time itself.
+そのため、聴き手は時間そのものに意識を向けるようになる。
 
-The theme of the work is not a story based on the lyrics, but the flow of time.
+歌詞によるストーリーではなく、「時間の流れ」が作品のテーマになるのである。
 
-### Dance music doesn't need singers either
+### ダンスミュージックも歌手を必要としない
 
-Electronic music also had a huge impact on club culture.
+電子音楽は、クラブカルチャーにも大きな影響を与えた。
 
-In many genres such as house, techno, and minimal techno, there are many works that do not include vocals at all.
+ハウス、テクノ、ミニマル・テクノなど、多くのジャンルではボーカルがまったく入らない作品も少なくない。
 
-Yet on dance floors around the world, many people continue to dance for long periods of time.
+それでも世界中のダンスフロアでは、多くの人々が長時間踊り続ける。
 
-The reason is clear.
+その理由は明確である。
 
-This is because the purpose of dance music is not to convey words, but to move the body.
+ダンスミュージックの目的は、言葉を伝えることではなく、身体を動かすことだからである。
 
-constant tempo.
+一定のテンポ。
 
-repeated rhythm.
+繰り返されるリズム。
 
-bass groove.
+低音のグルーヴ。
 
-An accumulation of sounds.
+音の積み重ね。
 
-These act directly on the body.
+これらは身体に直接働きかける。
 
 People naturally respond to the rhythm even if they don't understand the lyrics.
 
-This allows people with different languages ​​and cultures to share the same music on the same floor.
+そのため、異なる言語や文化を持つ人々が同じフロアで同じ音楽を共有できる。
 
 Instrumental music has the power to connect bodies beyond language.
 
-> Ambient and electronic music have greatly expanded the common sense that ""music is something you listen to," to ""experience the sound itself."
+> アンビエントと電子音楽は、「音楽は歌を聴くもの」という常識を、「音そのものを体験するもの」へと大きく広げた。
 
 ---
 
-## Game music has proven that "melodies remain memorable even without singing"
+## ゲーム音楽が証明した「歌なしでも記憶に残る旋律」
 
-### Technical constraints gave birth to new expressions
+### 技術的制約が新しい表現を生んだ
 
-In the 1980s, when home game consoles began to become popular, many game consoles had significant limitations in sound source performance.
+家庭用ゲーム機が普及し始めた1980年代、多くのゲーム機は音源性能に大きな制限を抱えていた。
 
-The number of sounds that could be played simultaneously was limited, and it was not practical to play back recorded singing voices.
+同時に鳴らせる音の数は限られ、録音した歌声を再生することも現実的ではなかった。
 
-Composers therefore had to create impressive melodies using only a limited number of notes.
+そのため、作曲家たちは限られた音数だけで印象的な旋律を作る必要があった。
 
-short phrase.
+短いフレーズ。
 
-Simple harmony.
+シンプルな和声。
 
-A structure premised on repetition.
+繰り返しを前提とした構成。
 
-These were ideas born out of constraints.
+これらは制約から生まれた工夫だった。
 
-However, as a result, much game music has acquired extremely high memorability.
+しかし、その結果として、多くのゲーム音楽は非常に高い記憶性を獲得した。
 
-There are many theme songs around the world that remind you of a work with just a few notes.
+数音だけで作品を思い出せるテーマ曲は、世界中に数多く存在している。
 
-### Connecting player actions and music
+### プレイヤーの行動と音楽が結び付く
 
-The big difference between movie music and game music is the flow of time.
+映画音楽とゲーム音楽の大きな違いは、時間の流れにある。
 
-In movies, the images move at a constant speed.
+映画では映像が一定の速度で進む。
 
-On the other hand, in games, the speed of progress changes depending on the player.
+一方、ゲームではプレイヤーによって進行速度が変化する。
 
-Therefore, game music needs to have a structure that does not get boring even if it is repeated many times.
+そのため、ゲーム音楽は何度繰り返されても飽きにくい構造が求められる。
 
-It should be natural even if it loops.
+ループしても自然であること。
 
-There should be little discomfort even when the scene changes.
+場面が切り替わっても違和感が少ないこと。
 
-Being able to maintain tension for a long period of time.
+緊張感を長時間維持できること。
 
-To meet these conditions, much game music has developed around instrumental music rather than singing.
+こうした条件を満たすため、多くのゲーム音楽は歌ではなく器楽を中心に発展してきた。
 
-Players memorize the music by associating it with their own experiences, not the lyrics.
+プレイヤーは歌詞ではなく、自分自身の体験と音楽を結び付けて記憶する。
 
-Therefore, just by listening to the same melody, I can vividly remember the scenes and emotions I had at the time.
+そのため、同じ旋律を聴いただけで、当時遊んだ場面や感情を鮮明に思い出すことがある。
 
-### The line between environmental sounds and music becomes blurred
+### 環境音と音楽の境界が曖昧になる
 
-In recent years, there has been an increase in the number of games that smoothly blend environmental sounds and music.
+近年のゲームでは、環境音と音楽を滑らかに融合させる作品も増えている。
 
 The sound of the wind.
 
 The sound of rain.
 
-Mechanical sound.
+機械音。
 
-The rustle of the forest.
+森のざわめき。
 
 These natural sounds and sound effects are designed to be continuous with the music.
 
-The player becomes oblivious to where the music starts and where the environmental sounds end.
+プレイヤーはどこからが音楽で、どこまでが環境音なのかを意識しなくなる。
 
-This idea is also common to ambient music.
+この発想はアンビエントとも共通している。
 
-Because there are no lyrics, music can easily become integrated with images and space.
+歌詞がないからこそ、音楽は映像や空間と一体化しやすいのである。
 
-### In modern times, it is also appreciated as a concert piece.
+### 現代ではコンサート作品としても評価される
 
-Nowadays, game music is not just background music.
+現在、ゲーム音楽は単なるBGMではない。
 
-Orchestral concerts are held all over the world, attracting large audiences.
+世界各地でオーケストラによる演奏会が開催され、多くの観客を集めている。
 
-These concerts often focus on works without songs.
+これらの演奏会では、歌が入らない作品が中心となることも多い。
 
-Even so, the venue was filled with enthusiasm.
+それでも会場には熱狂が生まれる。
 
-People remember their experiences and share their emotions simply through melodies, tones, harmonies, and rhythms.
+人々は旋律や音色、和声、リズムだけで当時の体験を思い出し、感情を共有している。
 
-This is one of the modern examples of how music is an art that does not rely solely on lyrics.
+これは、音楽が歌詞だけに依存しない芸術であることを示す現代の代表例の一つといえる。
 
 > Game music has shown players around the world that even a limited amount of sound can leave a deep impression on people's memories and emotions.
 
 ---
 
-## The human brain responds to "music" not "songs"
+## 人間の脳は「歌」ではなく「音楽」に反応している
 
-### Lyrics and music are processed differently in the brain
+### 歌詞と音楽は脳の中で異なる処理を受ける
 
-When listening to sung music, the human brain processes multiple pieces of information simultaneously.
+歌のある音楽を聴くとき、人間の脳では複数の情報が同時に処理されている。
 
-One is words.
+一つは言葉である。
 
-In order to understand lyrics, areas that process language come into play.
+歌詞を理解するためには、言語を処理する領域が働く。
 
-The other thing is music.
+もう一つは音楽である。
 
-Research in brain science and cognitive science has shown that melody, rhythm, harmony, timbre, tempo, etc. are processed by different neural networks than language.
+旋律、リズム、和声、音色、テンポなどは、言語とは異なる神経ネットワークによって処理されることが、脳科学や認知科学の研究から示されている。
 
-In other words, although it seems like we are listening to a song, we actually receive the words and sounds separately.
+つまり、歌を聴いているようでいて、人は実際には「言葉」と「音」を別々に受け取っている。
 
-That's why even songs in foreign languages ​​can be moving.
+だからこそ、外国語の歌でも感動できる。
 
 Many people have had the experience of being moved by just a beautiful melody or powerful rhythm, even if they don't understand the meaning of the lyrics.
 
 This shows that music itself has a function independent of language.
 
-### Rhythm works directly on the body
+### リズムは身体へ直接働きかける
 
-Humans don't just listen to music with their ears.
+人間は音楽を耳だけで聴いているわけではない。
 
-When listening to music with a constant tempo, you may unconsciously beat the beat with your feet or shake your head.
+テンポが一定の音楽を聴くと、無意識に足で拍子を取ったり、首を振ったりすることがある。
 
-This phenomenon is widespread across cultures.
+この現象は文化を超えて広く見られる。
 
-Sound, which has a certain period, is deeply connected to human motor functions.
+一定の周期を持つ音は、人間の運動機能とも深く結び付いている。
 
-This is also the reason why dance music allows your body to move naturally.
+ダンスミュージックで身体が自然に動く理由もここにある。
 
-I don't dance because I understand the lyrics.
+歌詞を理解しているから踊るのではない。
 
-The bass sounds and rhythms act directly on the body.
+低音やリズムが身体へ直接働きかけているのである。
 
-For this reason, only instrumental club music continues to be supported around the world.
+そのため、インストゥルメンタルだけのクラブミュージックが世界中で支持され続けている。
 
-### Tone changes emotions
+### 音色は感情を変化させる
 
-Even if the melody is the same, the impression can change dramatically just by changing the instrument played.
+同じ旋律でも、演奏する楽器が変わるだけで印象は大きく変わる。
 
-The piano makes you feel calm.
+ピアノなら穏やかに感じられる。
 
-Brass instruments sound powerful.
+金管楽器なら力強く響く。
 
-String instruments feel softer.
+弦楽器なら柔らかく感じられる。
 
-Electronic sounds give a futuristic impression.
+電子音なら未来的な印象になる。
 
-This is because the tone has a direct effect on emotions.
+これは音色が感情へ直接影響を与えるためである。
 
 Even without a singer, people can feel the warmth, tension, spaciousness, and solitude just by the tone.
 
-The reason why timbre is emphasized in film music, game music, and ambient music is deeply related to this characteristic.
+映画音楽やゲーム音楽、アンビエントで音色が重視される理由も、この特性と深く関係している。
 
-### The absence of lyrics allows for greater imagination
+### 歌詞がないことで想像力が広がる
 
-The lyrics have meaning.
+歌詞には意味がある。
 
-That's why the message the work wants to convey becomes relatively clear.
+だからこそ、作品が伝えたい内容は比較的明確になる。
 
-On the other hand, in music without lyrics, the meaning is determined by the listener himself.
+一方、歌詞のない音楽では、その意味を聴き手自身が補う。
 
 Some people think of landscapes.
 
-Some people remember past events.
+ある人は過去の出来事を思い出す。
 
-Others imagine the future.
+また別の人は未来を想像する。
 
-Even the same work can be received in very different ways.
+同じ作品でも受け取り方は大きく異なる。
 
-This is a major feature of instrumental music works.
+これは器楽作品が持つ大きな特徴である。
 
-Rather than the author presenting a single story, each listener creates their own story.
+作者が一つの物語を提示するのではなく、聴き手それぞれが自分だけの物語を作り上げる。
 
-For this reason, many instrumental works continue to be performed for a long time, transcending eras and cultures.
+そのため、インストゥルメンタル作品は時代や文化を超えて長く演奏され続けるものが多い。
 
-> Music without songs is an art that is not limited in meaning, but is completed by the imagination of each listener.
-
----
-
-## Music without singers will continue to spread
-
-### Instrumental music spreading in the streaming era
-
-With the spread of streaming services, the way music is listened to has changed dramatically.
-
-Working in progress.
-
-Studying.
-
-Reading.
-
-Before sleep.
-
-On the move.
-
-In such situations, music without lyrics is increasingly being chosen.
-
-Ambient music, piano music, lo-fi music, and film music are increasingly being played around the world because they are less distracting and blend naturally into the space.
-
-The lack of songs is not a drawback, but a strength depending on the situation in which it is used.
-
-### Things that will not change even in the AI ​​era
-
-In recent years, the methods of music production have changed rapidly.
-
-Computer-based composition support and automatic generation technology are also becoming commonplace.
-
-However, no matter how much the means of production change, the way people receive music remains the same.
-
-People memorize melodies.
-
-Move your body to the rhythm.
-
-Receive emotions from the tone.
-
-These have continued regardless of the presence or absence of lyrics.
-
-In other words, the essence of ""what is music?'' does not change much even if performance techniques and production environments change.
-
-### Music without a singer is never an exception.
-
-Classic.
-
-jazz.
-
-movie music.
-
-game music.
-
-Ambient.
-
-Techno.
-
-House.
-
-minimal music.
-
-All of these are musical cultures that have been popular around the world for many years.
-
-There is no history in which it was thought that ""because there are no songs, the value is low''.
-
-Rather, each of them has established their own unique way of expressing it, and it has been developed by many composers, performers, and audiences.
-
-The absence of singers is not a lack, but one of the diversity that exists in the art of music.
-
-> The history of music is not only the history of songs, but also the history of proving that rich expression can be achieved even without songs.
+> 歌がない音楽は、意味を限定するのではなく、聴き手一人ひとりの想像力によって完成する芸術でもある。
 
 ---
 
-## Chronology
+## 歌手がいない音楽は、これからも広がり続ける
 
-| Eras | Events | Meaning in music history |
+### 配信時代に広がるインストゥルメンタル
+
+ストリーミングサービスの普及によって、音楽の聴かれ方は大きく変化した。
+
+作業中。
+
+勉強中。
+
+読書中。
+
+睡眠前。
+
+移動中。
+
+こうした場面では、歌詞のない音楽が選ばれる機会も増えている。
+
+集中を妨げにくく、空間に自然になじむことから、アンビエントやピアノ、ローファイ、映画音楽などの再生数は世界的に伸びている。
+
+歌がないことは欠点ではなく、利用される場面に応じた強みになっている。
+
+### AI時代でも変わらないもの
+
+近年は音楽制作の方法も急速に変化している。
+
+コンピューターによる作曲支援や自動生成技術も一般的になりつつある。
+
+しかし、どれほど制作手段が変わっても、音楽を受け取る人間の感覚は大きく変わらない。
+
+人は旋律を覚える。
+
+リズムに身体を動かす。
+
+音色から感情を受け取る。
+
+これらは歌詞の有無とは関係なく続いてきた。
+
+つまり、「音楽とは何か」という本質は、演奏技術や制作環境が変わっても大きくは変わらないのである。
+
+### 歌手がいない音楽は決して例外ではない
+
+クラシック。
+
+ジャズ。
+
+映画音楽。
+
+ゲーム音楽。
+
+アンビエント。
+
+テクノ。
+
+ハウス。
+
+ミニマル・ミュージック。
+
+これらはすべて、世界中で長年親しまれてきた音楽文化である。
+
+いずれも「歌がないから価値が低い」と考えられた歴史はない。
+
+むしろ、それぞれ独自の表現方法を確立し、多くの作曲家や演奏家、聴衆によって発展してきた。
+
+歌手がいないことは欠落ではなく、音楽という芸術が持つ多様性の一つなのである。
+
+> 音楽の歴史は、歌の歴史であると同時に、歌がなくても豊かに表現できることを証明してきた歴史でもある。
+
+---
+
+## 年表
+
+| 年代            | 出来事             | 音楽史における意味            |
 | ------------- | --------------- | -------------------- |
-| Approximately 40,000 years ago | Bone flutes are made | The oldest evidence of instrumental music culture |
-| Ancient Egypt and Mesopotamia | Harp and lyre spread | Instrumental music developed in ceremonies and court |
-| Ancient Greece | Lyra and auros spread | Song and instrumental music developed independently |
-| Middle Ages | Instrumental music culture such as the lute spreads | Instrumental music becomes established in dance and court music |
-| 15th and 16th centuries | Publication of instrumental music increases | Instrumental music becomes an independent genre |
-| 17th to 18th centuries | Development of Baroque music | Instrumental forms such as sonatas and concertos established |
-| Late 18th century | Symphony develops | Large-scale instrumental works become popular |
-| Early 20th century | Birth of jazz | Expansion of instrumental expression through improvisation |
-| Mid-20th century | Film music develops | Instrumental music becomes the center of visual expression |
-| Late 20th century | Synthesizers and electronic music spread | Expression through new tones expands |
-| Since the 1980s | Game music has developed | Instrumental music has become established in popular culture |
-| 21st century | Streaming era | Growing demand for work/environmental music |
+| 約4万年前         | 骨笛が作られる         | 器楽文化の最古級の証拠          |
+| 古代エジプト・メソポタミア | ハープや竪琴が普及       | 儀式や宮廷で器楽が発展          |
+| 古代ギリシャ        | リラやアウロスが広まる     | 歌と器楽が独立して発展          |
+| 中世            | リュートなどの器楽文化が広がる | 舞踏や宮廷音楽で器楽が定着        |
+| 15〜16世紀       | 器楽曲の出版が増加       | インストゥルメンタルが独立したジャンルへ |
+| 17〜18世紀       | バロック音楽の発展       | ソナタ・協奏曲など器楽形式が確立     |
+| 18世紀後半        | 交響曲が発展          | 大規模な器楽作品が一般化         |
+| 20世紀初頭        | ジャズが誕生          | 即興演奏による器楽表現が拡大       |
+| 20世紀中頃        | 映画音楽が発展         | 器楽が映像表現の中心となる        |
+| 20世紀後半        | シンセサイザーと電子音楽が普及 | 新しい音色による表現が広がる       |
+| 1980年代以降      | ゲーム音楽が発展        | インストゥルメンタルが大衆文化へ定着   |
+| 21世紀          | ストリーミング時代       | 作業用・環境音楽として需要が拡大     |
 
 <div class="mermaid">
 timeline
@@ -811,85 +810,85 @@ I --> J
 
 ---
 
-## Conclusion
+## おわりに
 
-In our daily lives, when we hear the word "music," we often think of songs.
+私たちは日常の中で、「音楽」と聞くと歌を思い浮かべることが多い。
 
-A hit song played on the radio.
+ラジオから流れるヒットソング。
 
-Pop music you hear around town.
+街中で耳にするポップス。
 
-A song sung at a live venue.
+ライブ会場で歌われる楽曲。
 
-In modern commercial music, there are many situations in which the singer is the center of the work.
+現代の商業音楽では、歌手が作品の中心となる場面が数多く存在する。
 
-However, if we look at the entire history of human music, the picture becomes a little different.
+しかし、人類の音楽史全体を見渡すと、その姿は少し違って見えてくる。
 
-Flute and drums were played in ancient rituals.
+古代の祭祀で演奏された笛や太鼓。
 
-A lute played in the royal court.
+宮廷で奏でられたリュート。
 
-Symphony by orchestra.
+オーケストラによる交響曲。
 
-Jazz improvisation.
+ジャズの即興演奏。
 
-Dramatic music played in movie theaters.
+映画館で流れる劇伴音楽。
 
-BGM that colors the game world.
+ゲームの世界を彩るBGM。
 
-An acoustic space created by ambient and techno.
+アンビエントやテクノが生み出す音響空間。
 
-All of these are musics that could exist without singers and have been passed down to many people.
+これらはすべて、歌手がいなくても成立し、多くの人々に受け継がれてきた音楽である。
 
-Music is not an art that conveys emotions through words alone.
+音楽は、言葉だけで感情を伝える芸術ではない。
 
-Melody creates anticipation and relief.
+旋律は期待や安堵を生み出す。
 
-The harmonies depict tension and resolution.
+和声は緊張と解決を描く。
 
-Rhythm moves the body.
+リズムは身体を動かす。
 
-Tone changes the impression of a space.
+音色は空間の印象を変える。
 
-Silence makes you aware of the passage of time.
+静寂は時間の流れを意識させる。
 
-These elements are the foundation of the musical experience that humans have cultivated over a long history, and they affect us in a way different from lyrics.
+こうした要素は、人間が長い歴史の中で培ってきた音楽体験の基盤であり、歌詞とは異なる方法で私たちへ働きかけている。
 
-That"s why I am moved by songs written in foreign languages, even if I don"t understand the meaning of the lyrics.
+だからこそ、歌詞の意味が分からない外国語の楽曲にも心を動かされる。
 
-That's why you can remember scenes from movies just by listening to music.
+だからこそ、映画のワンシーンを音楽だけで思い出せる。
 
-That's why I still hum the melody of the game decades later.
+だからこそ、ゲームの旋律を数十年経っても口ずさめる。
 
-And that's why instrumental-only works continue to be performed across generations and borders.
+そして、だからこそ、インストゥルメンタルだけの作品が世代や国境を越えて演奏され続けているのである。
 
-The history of music is not a history centered around songs.
+音楽の歴史は、「歌が中心だった歴史」ではない。
 
-It is the history of ""what people have felt and shared through sound.''
+それは、「人が音を通して何を感じ、何を共有してきたか」という歴史である。
 
-There is no doubt that singing is one of the most important forms of expression that has arisen throughout history.
+歌は、その歴史の中で生まれた最も重要な表現の一つであることは間違いない。
 
-But that's not all there is to music.
+しかし、それだけが音楽ではない。
 
-Music without songs has a blank space that cannot be explained in words.
+歌のない音楽には、言葉では説明しきれない余白がある。
 
-There is room for the listener to find their own meaning, accumulate memories, and reflect their emotions.
+聴き手自身が意味を見つけ、記憶を重ね、感情を映し出す余地がある。
 
-That freedom is probably one of the reasons why instrumental music has survived for centuries.
+その自由さこそが、インストゥルメンタルが何世紀にもわたって生き続けてきた理由の一つなのだろう。
 
-Classical symphonies, jazz improvisations, film music, game music, ambient music, and electronic music all have expanded the possibilities of ""music without singing'' in different ways.
+クラシックの交響曲も、ジャズの即興演奏も、映画音楽も、ゲーム音楽も、アンビエントも、電子音楽も、それぞれ異なる方法で「歌のない音楽」の可能性を広げてきた。
 
-What they have in common is not the absence of singers.
+それらに共通するのは、歌手が存在しないことではない。
 
-Sound alone can evoke people's memories, move their bodies, stimulate their imagination, and allow them to share emotions.
+音だけで人の記憶を呼び起こし、身体を動かし、想像力を刺激し、感情を共有できるという点である。
 
-Music is an art that is actually older than words.
+音楽は本来、言葉よりも古い芸術である。
 
-And even today, its essence has not changed.
+そして現在もなお、その本質は変わっていない。
 
-Whether there are songs or not, people continue to find meaning in music.
+歌があっても、歌がなくても、人は音楽の中に意味を見つけ続けている。
 
-> Music can exist even without a singer. This is not an exception, but a natural pattern that has been accumulated over thousands of years of human musical history.
+> 歌手がいなくても音楽は成立する。それは例外ではなく、人類の音楽史が何千年にもわたって積み重ねてきた、ごく自然な姿なのである。
 
 ---
 

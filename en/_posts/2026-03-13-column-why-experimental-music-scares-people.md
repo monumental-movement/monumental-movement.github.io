@@ -17,39 +17,39 @@ title: '[Column] Why does experimental music scare people? Music and human psych
 
 ## Why does experimental music scare people?
 
-Text: mmr｜Theme: Why does experimental music feel "scary"? Unraveling the reason from historical, psychological, and cultural perspectives
+文：mmr｜テーマ：実験音楽はなぜ「怖い」と感じられるのか。歴史・心理・文化の視点からその理由を解き明かす
 
 
-### Rules for music to be "music"
+### 音楽が「音楽である」ためのルール
 
-For many people, music is something that exists within a certain set of rules.
-It has a melody, it has a rhythm, it has a structure, it has a predictable flow.
+多くの人にとって音楽とは、ある程度のルールの中で成立するものだ。
+メロディがあり、リズムがあり、構造があり、予測できる流れがある。
 
-The basic structure of both classical music and pop music is surprisingly common.
-Over a long history, patterns that make humans feel comfortable have been formed, such as tension and release, repetition, and the progression of harmony.
+クラシック音楽でもポップスでも、その基本構造は驚くほど共通している。
+緊張と解放、反復、ハーモニーの進行など、長い歴史の中で人間が心地よく感じるパターンが形成されてきた。
 
-However, experimental music dares to break that rule.
+しかし実験音楽は、そのルールをあえて破る。
 
-There's no melody.
-The rhythm is disrupted.
-The sound sounds like noise.
+旋律がない。
+リズムが崩れる。
+音がノイズのように聞こえる。
 
-These were not just novelties, but important ideas that were born in the artistic movements of the 20th century.
+これらは単なる奇抜さではなく、20世紀の芸術運動の中で生まれた重要な思想だった。
 
-Artists began to ask questions.
+芸術家たちは問い始めた。
 
 "What is music?"
 
-As a result of this question, music gradually moves into unknown territory.
+この問いの結果として、音楽は次第に未知の領域へ進んでいく。
 
 <div class="mermaid">
 graph TD
-A[19th century music rules] --> B[20th century artistic revolution]
+A[19世紀 音楽の規則] --> B[20th century artistic revolution]
 B --> C[Expanding the concept of music]
-C --> D[Birth of experimental music]
+C --> D[実験音楽の誕生]
 </div>
 
-> Experimental music did not destroy sound, but expanded the very definition of music.
+> 実験音楽は音を壊したのではなく、音楽の定義そのものを拡張した。
 
 ---
 
@@ -58,7 +58,7 @@ C --> D[Birth of experimental music]
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -70,53 +70,53 @@ color: #fff;
 
 ### Can noise become music?
 
-In 1913, Italian Futurist artist Luigi Russolo declared:
+1913年、イタリア未来派の芸術家ルイジ・ルッソロは宣言した。
 
-Modern society is a ""civilization of noise.''
+近代社会は「騒音の文明」だ。
 
-- factory
+- 工場
 - car
-- Machine
-- City
+- 機械
+- 都市
 
-These sounds did not exist in 19th century classical music.
+これらの音は、19世紀のクラシック音楽には存在しなかった。
 
-Russo argued in his essay ""The Art of Noise'':
+ルッソロは論文『騒音芸術』でこう主張した。
 
-Modern music should embrace noise.
+近代の音楽はノイズを受け入れるべきだ。
 
-He actually created and performed noise instruments.
+彼は実際に騒音楽器を制作し、演奏を行った。
 
-- The audience reaction was intense.
-- yell
-- confusion
+- 聴衆の反応は激しかった。
+- 怒号
+- 混乱
 - Occasionally near-riot situation
 
-However, this idea had a great influence on later music history.
+しかしこの思想は、後の音楽史に大きな影響を与える。
 
-Noise is not the enemy of music.
+ノイズは音楽の敵ではない。
 It was a new material.
 
-### Attempt to break the structure of music
+### 音楽の構造を壊す試み
 
 In the mid-20th century, composers tried even more radical methods.
 
-- coincidence
-- disorder
-- silence
+- 偶然性
+- 無秩序
+- 沈黙
 
-Incorporate these into your music.
+これらを音楽に取り入れる。
 
-The symbolic work is the one from 1952.
+その象徴的作品が、1952年の作品だ。
 
-The performer sits in front of the piano.
+演奏者はピアノの前に座る。
 But it doesn't play at all.
 
-The audience's coughs and the creaking of chairs echoed through the venue.
+会場に響くのは、観客の咳や椅子の軋み。
 
-In other words, the environment itself becomes music.
+つまり環境そのものが音楽になる。
 
-This idea completely changed the concept of music.
+この考えは音楽の概念を完全に変えてしまった。
 
 <div class="mermaid">
 timeline
@@ -127,46 +127,46 @@ timeline
 1970s : ノイズミュージック
 </div>
 
-> Experimental music did not destroy music, but expanded the space in which music existed.
+> 実験音楽は音楽を壊したのではなく、音楽が存在する場所を広げた。
 
 ---
 
-## The human brain understands music by "prediction"
+## 人間の脳は「予測」で音楽を理解する
 
 ### Why pop music is soothing
 
 The human brain has an excellent ability to recognize patterns.
 
-Music is no exception.
+音楽も例外ではない。
 
-Research shows that when we listen to music, we unconsciously anticipate the next note.
+研究によれば、人は音楽を聴くとき無意識に次の音を予測している。
 
-- melody flow
+- Melody flow
 - chord progression
 - rhythm
 
 When a prediction is correct, the brain feels pleasure.
 
-This is one of the charms of pop music.
+これがポップスの魅力の一つだ。
 
-But in experimental music, this prediction hardly works.
+しかし実験音楽では、この予測がほとんど機能しない。
 
 - The sound suddenly changes
 - Rhythm is disrupted
-- Structure does not exist
+- 構造が存在しない
 
-The brain gets confused.
+脳は混乱する。
 
-This confusion can be felt as "anxiety."
+この混乱は「不安」として感じられることがある。
 
-So part of fear is a psychological response.
+つまり恐怖の一部は、心理的な反応なのだ。
 
 <div class="mermaid">
 graph LR
-A[listen to music] --> B[brain predicts]
+A[listen to music] --> B[脳が予測]
 B --> C{予測一致}
-C -->|Yes| D[pleasure]
-C -->|No| E[anxiety]
+C -->|Yes| D[快感]
+C -->|No| E[不安]
 E --> F[experimental music sensation]
 </div>
 
@@ -174,83 +174,83 @@ E --> F[experimental music sensation]
 
 ---
 
-## Images of noise and violence
+## ノイズと暴力のイメージ
 
-### Why does distorted sound cause anxiety?
+### なぜ歪んだ音は不安を呼ぶのか
 
-Loudly distorted sounds in nature were often a sign of danger.
+自然界で大きく歪んだ音は、しばしば危険のサインだった。
 
-- Animal intimidation
-- Arashi
-- Destruction sound
+- 動物の威嚇
+- 嵐
+- 破壊音
 
 Humans are instinctively wary of such sounds.
 
-Therefore,
+そのため、
 
-- strong distortion
+- 強いディストーション
 - metallic noise
-- extreme volume
+- 極端な音量
 
-These create psychological tension.
+これらは心理的な緊張を生む。
 
 In the late 20th century, musicians began to use this effect intentionally.
 
-Noise is not just noise.
-It was a way to directly stimulate emotions.
+ノイズは単なる騒音ではない。
+感情を直接刺激する手段だった。
 
-### The advent of noise music
+### ノイズ音楽の登場
 
-Since the 1970s, a music genre centered around noise has been born.
+Since the 1970s, a music genre centered around noise has emerged.
 
-- Feedback
+- フィードバック
 - electronic noise
 - destructive sounds
 
-This music was often extreme.
+この音楽はしばしば極端だった。
 
 But that's not a coincidence.
 
-Experimental music was also a study of how humans ""react to sound.''
+実験音楽は、人間が「音にどう反応するか」を探る研究でもあった。
 
 <div class="mermaid">
 graph TD
-A[nature warning sounds] --> B[human alarm response]
-B --> C[Anxiety about distorted sound]
+A[nature warning sounds] --> B[人間の警戒反応]
+B --> C[歪んだ音への不安]
 C --> D[noise music]
 </div>
 
-> Noise was not just noise, but a sound that directly touched human senses.
+> ノイズは単なる騒音ではなく、人間の感覚に直接触れる音だった。
 
 ---
 
-## "Incomprehensible" as a culture
+## 文化としての「理解不能」
 
-### New art is always rejected
+### 新しい芸術はいつも拒絶される
 
-History shows that new art is almost always rejected.
+歴史を見ると、新しい芸術はほぼ必ず拒絶される。
 
-- impressionist painting
-- jazz
-- rock and roll
+- 印象派絵画
+- ジャズ
+- ロックンロール
 
-All were initially subject to criticism.
+どれも最初は批判の対象だった。
 
-Experimental music followed the same path.
+実験音楽も同じ道を歩んだ。
 
-What you don't understand creates anxiety.
+理解できないものは、不安を生む。
 
 And anxiety often turns into rejection.
 
 But over time, the art is gradually understood.
 
-### Experiments create the future
+### 実験が未来を作る
 
-Much experimental music has created the future of popular music.
+多くの実験音楽は、大衆音楽の未来を作ってきた。
 
-- electronic music
-- sampling
-- Ambient
+- 電子音楽
+- サンプリング
+- アンビエント
 
 Techniques that were once avant-garde have become commonplace in today's music.
 
@@ -258,64 +258,64 @@ In other words, experimental music is like a musical laboratory.
 
 <div class="mermaid">
 graph TD
-A[experimental music] --> B[new technology]
-B --> C[music innovation]
-C --> D[To popular music]
+A[実験音楽] --> B[新しい技術]
+B --> C[音楽の革新]
+C --> D[大衆音楽へ]
 </div>
 
-> Much of today's pop music comes from experiments that were never understood before.
+> 今日のポップ音楽の多くは、かつて理解されなかった実験から生まれている。
 
 ---
 
-## Chronology of experimental music
+## 実験音楽の年表
 
-### Major events
+### 主要な出来事
 
-| Year | Events |
+| 年      | 出来事          |
 | ------ | ------------ |
-| 1913 | Futurists' declaration of noise art |
+| 1913   | 未来派による騒音芸術宣言 |
 | 1930s | Start of electronic music research |
 | 1952 | Advent of accidental music |
 | 1960s | Fluxus movement |
-| 1970s | Development of noise music |
-| 1990s | Expansion of electronic experimental music |
-| 2000s | Popularization of digital music |
+| 1970年代 | ノイズ音楽の発展     |
+| 1990年代 | 電子実験音楽の拡大    |
+| 2000年代 | デジタル音楽の普及    |
 
-> The history of experimental music has always been one of pushing the boundaries of music.
+> 実験音楽の歴史は、常に音楽の境界を押し広げてきた。
 
 ---
 
-## Why do people still continue to make experimental music?
+## なぜそれでも人は実験音楽を作り続けるのか
 
-### Curiosity about unknown sounds
+### 未知の音への好奇心
 
-The history of music has always been a history of discovering new sounds.
+音楽の歴史は、常に新しい音の発見の歴史だった。
 
 - new instruments
-- new technology
-- New expression
+- 新しい技術
+- 新しい表現
 
-Experimental music is at the forefront of this.
+実験音楽はその最前線にある。
 
-Even if it is difficult for many people to understand, there is a genuine exploration in it.
+多くの人にとって理解しにくくても、そこには純粋な探求がある。
 
-To what extent can sound become music?
+音はどこまで音楽になりうるのか。
 
 That question has not yet been completely answered.
 
-### Fear is proof of the unknown
+### 恐怖は未知の証拠
 
-It's natural to feel afraid of experimental music.
+実験音楽が怖いと感じるのは、自然なことだ。
 
-The unknown makes people anxious.
+未知のものは人を不安にさせる。
 
-However, at the same time, the unknown is also the source of creativity.
+However, at the same time, the unknown is also the source of creation.
 
 Art has always been born between fear and curiosity.
 
-And experimental music continues to stand on the border.
+そして実験音楽は、その境界に立ち続けている。
 
-> The reason experimental music is scary is because it represents the future of sound that no one knows about yet.
+> 実験音楽が怖いのは、それがまだ誰も知らない音の未来だからだ。
 
 ---
 

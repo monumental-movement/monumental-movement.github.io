@@ -13,7 +13,7 @@ title: Eagles – Hotel California
 ---
 
 
-Title song from the Eagles' album ""Hotel California.'' Lyrics and music by Don Felder and Don Henley.
+Eagles（イーグルス）のアルバム「ホテル・カリフォルニア」のタイトル曲。作詞・作曲は、Don Felder（ドン・フェルダー）、Don Henley（ドン・ヘンリー）。
 
 #### Tracklist
 ```md

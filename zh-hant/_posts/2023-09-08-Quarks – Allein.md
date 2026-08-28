@@ -10,19 +10,19 @@ tags:
 - Electro
 - Tech House
 - House
-title: 夸克——阿蘭
+title: Quarks – Allein
 ---
 
 
-Quarks 是來自德國柏林的電子流行二人組，成立於 1995 年，由 Gudrun Gut 和 Thomas Fehlmann 組成。他們在 20 世紀 90 年代末和 2000 年代初在德國電子音樂界流行起來。
+ドイツ・ベルリン出身のエレクトロポップデュオ「Quarks」は1995年に結成され、メンバーはグドルン・グート（Gudrun Gut）とトーマス・フェールマン（Thomas Fehlmann）。彼らは1990年代後半から2000年代初頭にかけて、ドイツのエレクトロニックミュージックシーンで人気を博しました。
 
-Quarks 的音樂結合了電子流行音樂、合成流行音樂和實驗聲音的元素。
+Quarksの音楽は、エレクトロニックポップ、シンセポップ、実験的なサウンドの要素を組み合わせています。
 
-他們的歌曲以朗朗上口的旋律、電子節拍和古德倫·古特獨特的歌聲為特色。
+彼らの曲は、キャッチーなメロディ、エレクトロニックなビート、そしてグドルン・グートの特徴的なボーカルを特徴としていました。
 
-即使在 2004 年解散後，他們仍然對德國電子流行音樂界產生了重大影響，他們的音樂仍然受到電子和流行音樂愛好者的喜愛。
+2004年の解散後もドイツのエレクトロポップシーンに大きな影響を与え、彼らの音楽はエレクトロニックとポップミュージックのファンによって今も愛されています。
 
-#### 曲目表
+#### Tracklist
 ```md
 A. Allein (Augen Zu Und Durch)
 
@@ -38,7 +38,7 @@ Vocals [Additional Vox] – Darkfarmer
 B2. Allein (Original)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NWym4qjCOdc?si=xOXe6BT1pKmYFd-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

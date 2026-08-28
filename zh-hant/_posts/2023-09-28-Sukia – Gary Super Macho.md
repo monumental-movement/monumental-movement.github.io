@@ -9,17 +9,17 @@ permalink: /zh-hant/sukia-gary-super-macho/
 tags:
 - Hiphop
 - Triphop
-title: Sukia – 加里超級男子氣概
+title: Sukia – Gary Super Macho
 ---
 
 
-這是 Mo Wax 於 1997 年發行的 Trip hop 歌曲。
+1997年にMo Waxからリリースされたトリップホップです。
 
-Sukia 是一支總部位於美國加州卡馬裡奧的美國電子樂隊，成員包括前兒童演員羅斯哈里斯 (Ross Harris)，他曾在 1920 世紀 70 年代出現在《CHiPS》和《Little House》等節目中。
+Sukiaは、アメリカの電子音楽バンドで、アメリカ合衆国カリフォルニア州カマリロを拠点にしており、かつての子役俳優であるRoss Harrisが在籍しており、1970年代には『CHiPS』や『小さな家』などの番組に出演していました。
 
-他們成立於 20 世紀 90 年代初，在洛杉磯不斷壯大的獨立音樂界中，其名字取自義大利同名吸血鬼漫畫書。
+1990年代初頭に、拡大するロサンゼルスのインディーミュージックシーンの中で結成され、同名のイタリアの吸血鬼コミックブックから名前を取りました。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. Barry Super Macho (Dust Brothers Remix)
 
@@ -30,7 +30,7 @@ B1. Gary Super Macho (Major Force West Remix)
 B2. Gary Super Macho (Single Edit)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m70399421918?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70399421918?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GBV0yuzlwVI?si=DgXqVVaYjALMlUeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,17 +9,17 @@ permalink: /zh-hant/londonbeat-ive-been-thinking-about-you/
 tags:
 - House
 - EDM
-title: Londonbeat – 我一直在想你
+title: Londonbeat – I've Been Thinking About You
 ---
 
 
 
-Londonbeat 是一支英國舞曲流行樂隊，在 20 世紀 90 年代初創作了許多流行和舞曲熱門歌曲。
-成員包括吉米·赫爾姆斯、吉米·錢伯斯和查爾斯·皮埃爾。
+Londonbeat（ロンドンビート）は、1990 年代初頭にポップやダンスのヒット曲を数多く生み出したイギリスのダンスポップバンドです。
+メンバーは Jimmy Helms（ジミー・ヘルムズ）、Jimmy Chambers（ジミー・チェンバース）、Charles Pierrer（チャールズ・ピエール）。
 
-《I've Been Thinking About You》是他們的標誌性歌曲，並於 1991 年在 Billboard Hot 100 和 Hot Dance Music/Club Play 排行榜上排名第一。
+「I've Been Thinking About You」は彼らの代表曲で、1991 年Billboard Hot 100 と Hot Dance Music/Club Play チャートで第1位を獲得。
 
-#### 曲目表
+#### Tracklist
 ```md
 A1. I've Been Thinking About You (Def 12" Mix)
 
@@ -34,7 +34,7 @@ B2. I've Been Thinking About You (The Eclipse Mix)
 B3. I've Been Thinking About You (Trak Mix)
 ```
 
-[在 Mercari 購買](https://jp.mercari.com/item/m47205730719?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47205730719?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dGw3w_njQ4g?si=JLeWYzbBaWn8TXmz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,10 +15,10 @@ title: Rednose Distrikt – Hedde Gy'N Nieuwe Jurk
 ---
 
 
-Rednose Distrikt began as a collaboration between Amsterdam-based band Kid Sublime and Steven de Peven, before Kid Sublime left and was replaced by Mike Kivits, aka Aardvarck.
-Their sound is characterized by a mix of various elements, including broken beat, offside techno, cut-up soul, and sampled slapstick jazz.
+Rednose Distriktは、アムステルダムを拠点に活動するKid SublimeとSteven de Pevenのコラボレーションとしてスタートし、後にKid Sublime が脱退しAardvarck ことMike Kivitsが加入した。
+彼らのサウンドは、ブロークンビート、オフサイドテクノ、カットアップソウル、サンプルスラップスティックジャズなど、さまざまな要素ミックスするスタイルが特徴。
 
-This record is an abstract break house track released in 2005 by Rockwell Records, a spin-off of Dutch shop Rockwell. (promo edition)
+このレコードは、オランダのショップRockwellのスピンオフRockwell Recordsから2005年にリリースされたアブストラクト・ブレイク・ハウストラック。(プロモ盤)
 
 #### Tracklist
 ```md
@@ -42,4 +42,4 @@ B7. Untitled
 B8. Untitled
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m14745864557?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14745864557?afid=6142608987){: .button1}

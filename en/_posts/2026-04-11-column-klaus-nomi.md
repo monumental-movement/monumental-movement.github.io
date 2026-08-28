@@ -10,21 +10,20 @@ tags:
 - New Wave
 - Opera
 - 80s
-title: '[Column] Klaus Nomi: The critical point of the new wave opened up by voices
-  and strange forms'
+title: 【コラム】 Klaus Nomi：声と異形が切り開いたニューウェーブの臨界点
 ---
 
 
 
-## Prologue: Where did the deformed pop star come from?
+## 序章：異形のポップスターはどこから来たのか
 
-Text: mmr｜Theme: The trajectory of Klaus Nomi, who created a strange form of pop through the fusion of opera and new wave
+文：mmr｜テーマ：オペラとニューウェーブの融合によって異形のポップを創出したクラウス・ノミの軌跡
 
-German countertenor Klaus Nomi emerged as a unique figure in New York in the early 1980s. A classically trained voice, sci-fi, geometric costumes, and almost mechanical movements. They transcended the framework of mere music and functioned as performances that simultaneously stirred the visual and auditory senses.
+ドイツ出身のカウンターテナー歌手、Klaus Nomiは、1980年代初頭のニューヨークにおいて、他に類を見ない存在として登場した。クラシック音楽の訓練を受けた声と、SF的で幾何学的な衣装、そして機械的とも言える動き。それらは単なる音楽の枠を超え、視覚と聴覚を同時に揺さぶるパフォーマンスとして機能した。
 
-Although he has been active for only a few years, the aesthetic he has developed in that short time has influenced new wave, art pop, and even contemporary performance culture.
+彼の活動期間はわずか数年に過ぎないが、その短い時間の中で築かれた美学は、ニューウェーブ、アートポップ、さらには現代のパフォーマンス文化にまで影響を与えている。
 
-> Although short-lived, its existence expanded the very definition of pop.
+> 短命でありながら、その存在はポップの定義そのものを拡張した
 
 ---
 
@@ -33,7 +32,7 @@ Although he has been active for only a few years, the aesthetic he has developed
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -43,17 +42,17 @@ color: #fff;
 
 
 
-## Early life and European background
+## 生い立ちとヨーロッパ的背景
 
 ### Formative years in Germany
 
-Klaus Nomi was born in Germany in 1944, and his real name was Klaus Sperberg. Raised in post-war Europe, she showed a strong interest in opera from an early age. Particularly attracted to baroque music and classical vocal music, he acquired vocal techniques as a countertenor through self-study and training.
+Klaus Nomiは1944年、ドイツに生まれ、本名をクラウス・シュペルベルクといった。戦後のヨーロッパで育ち、幼少期からオペラに強い関心を示した。特にバロック音楽や古典声楽に惹かれ、カウンターテナーとしての発声技術を独学と訓練で身につけていく。
 
-He had experience working at the Deutsche Oper Berlin and was exposed to the behind-the-scenes aspects of performing arts. The stage sense and deep understanding of classical music cultivated during this period became the foundation of his later unique style.
+彼はベルリン・ドイツ・オペラで働いた経験を持ち、舞台芸術の裏側にも触れていた。この時期に培われた舞台感覚とクラシックへの深い理解が、後の独自のスタイルの基盤となる。
 
-### Immigration to New York
+### ニューヨークへの移住
 
-In the mid-1970s, he moved to the United States and settled in New York City. At the time, New York was a chaotic city where punk, disco, and art scenes intersected, making it the perfect testing ground for someone as unique as him.
+1970年代半ば、彼はアメリカへ渡り、New York Cityに拠点を移す。当時のニューヨークはパンク、ディスコ、アートシーンが交差する混沌の都市であり、彼のような異質な存在にとっては絶好の実験場だった。
 
 He continued his music career while working at a restaurant, and eventually gained attention in the underground scene.
 
@@ -61,162 +60,162 @@ He continued his music career while working at a restaurant, and eventually gain
 
 ---
 
-## Breaking Moment: A Revolution in Performance and Visuality
+## ブレイクの瞬間：パフォーマンスと視覚の革命
 
-### Impact at New Wave Vaudeville
+### New Wave Vaudevilleでの衝撃
 
-In 1978, he appeared at the performance event "New Wave Vaudeville" and dominated the audience's attention with his unusual presence. The performance here was more than just singing, it was a fusion of visual art, theater, and music.
+1978年、彼はパフォーマンスイベント「New Wave Vaudeville」に出演し、その異様な存在感で観客の視線を独占した。ここでのパフォーマンスは、単なる歌唱ではなく、視覚芸術、演劇、音楽の融合だった。
 
-Triangular suits, whitewashed faces, extremely exaggerated movements. These works foreshadowed the later trend of visual emphasis in pop culture.
+三角形のスーツ、白塗りの顔、極端に誇張された動き。これらは後のポップカルチャーにおけるビジュアル重視の潮流を先取りしていた。
 
-### Voice specificity
+### 声の特異性
 
-His greatest feature is his singing, which combines operatic high range and pop structure. His attempt to sing a pop song using a countertenor voice was extremely unusual at the time.
+彼の最大の特徴は、オペラ的な高音域とポップスの構造を融合させた歌唱である。カウンターテナーの声を用いてポップソングを歌うという試みは、当時としては極めて異例だった。
 
-This was an attempt to blur the boundaries between classical and pop music, and could be considered a precursor to later crossover music.
+これはクラシックとポップの境界を曖昧にする試みであり、後のクロスオーバー音楽の先駆けとも言える。
 
 > Destroyed the existing pop framework both visually and vocally
 
 ---
 
-## Connection with David Bowie
+## デヴィッド・ボウイとの接点
 
 ### Co-starring on Saturday Night Live
 
-In 1980, David Bowie featured Klaus Nomi on the backing vocals when he appeared on the television show "Saturday Night Live." This appearance will be one of his biggest media exposures.
+1980年、David Bowieはテレビ番組「Saturday Night Live」に出演した際、バックコーラスとしてKlaus Nomiを起用した。この出演は彼にとって最大のメディア露出のひとつとなる。
 
 Bowie himself was an artist who valued transformation and visual expression, and their aesthetics had something in common.
 
-### Intersection of art and pop
+### アートとポップの交差
 
-This collaboration was also the moment when the boundaries between underground and mainstream began to melt. Nomi's existence was not just eccentricity, but presented the possibility of pop with an artistic concept.
+この共演は、アンダーグラウンドとメインストリームの境界が溶け始めた瞬間でもあった。Nomiの存在は、単なる奇抜さではなく、芸術的なコンセプトを持つポップの可能性を提示した。
 
-> His contact with Bowie was a decisive moment when his aesthetic connected with the times.
-
----
-
-## Representative works and musical characteristics
-
-### Album works
-
-He released two studio albums during his lifetime.
-
-* Klaus Nomi (1981)
-* Simple Man (1982)
-
-These works are a mix of pop songs and classical arias, and are characterized by compositions that transcend genre boundaries.
-
-### Representative song
-
-* "Total Eclipse"
-* "Cold Song"
-* "Simple Man"
-
-In particular, "Cold Song" is based on the work of Henry Purcell, and is a symbolic song that combines his classical background with pop production.
-
-> A unique musical language was created through the coexistence of classical quotations and pop structures.
+> ボウイとの接点は彼の美学が時代と接続した決定的な瞬間だった
 
 ---
 
-## Visual expression and fashion innovation
+## 代表作と音楽的特徴
 
-### Geometric costume
+### アルバム作品
 
-His costumes had a futuristic design that emphasized straight lines and symmetry, and were distinctive among the fashions of the time. This is not just a costume, but a visual language integrated with his music.
+彼は生前に2枚のスタジオアルバムを発表している。
+
+* Klaus Nomi（1981年）
+* Simple Man（1982年）
+
+これらの作品では、ポップソングとクラシックのアリアが混在し、ジャンルの境界を越えた構成が特徴となっている。
+
+### 代表曲
+
+* 「Total Eclipse」
+* 「Cold Song」
+* 「Simple Man」
+
+特に「Cold Song」はHenry Purcellの作品を基にしたもので、彼のクラシック的素養とポップ的演出が融合した象徴的な楽曲である。
+
+> クラシックの引用とポップの構造が共存することで独自の音楽言語が成立した
+
+---
+
+## 視覚表現とファッションの革新性
+
+### 幾何学的衣装
+
+彼の衣装は、直線と対称性を強調した未来的デザインであり、当時のファッションの中でも異彩を放っていた。これは単なる衣装ではなく、彼の音楽と一体化したビジュアル言語である。
 
 ### Body production
 
-His movements were mechanical and theatrical, often giving the impression of being inhuman. This establishes his character as a ""non-human being''.
+His movements were both mechanical and theatrical, often giving the impression of being inhuman. This establishes his character as a ""non-human being.''
 
 > Visual expression functioned as an inseparable element from music.
 
 ---
 
-## Historical background: New wave and art scene
+## 時代背景：ニューウェーブとアートシーン
 
-### New York in the early 1980s
+### 1980年代初頭のニューヨーク
 
-At this time, New York was experiencing a post-punk new wave, and art and music were closely intertwined. At the intersection of club culture, performance art, and visual expression, Klaus Nomi's style was naturally embraced.
+この時代のニューヨークは、パンク後のニューウェーブが広がり、アートと音楽が密接に結びついていた。クラブ文化、パフォーマンスアート、映像表現が交錯する中で、Klaus Nomiのスタイルは自然に受け入れられた。
 
-### Rising from the underground
+### アンダーグラウンドからの浮上
 
-He prioritized artistic expression over commercial success, an attitude that resonated with the underground culture of the time.
+彼は商業的成功よりも芸術的表現を優先しており、その姿勢は当時のアンダーグラウンド文化と共鳴していた。
 
 > The experimental spirit of the era made his expression possible
 
 ---
 
-## Detailed analysis of representative works: Voices and Crystals of Deformities
+## 代表作の詳細分析：声と異形の結晶
 
-### "Total Eclipse"
+### 「Total Eclipse」
 
-This song is one of the most obvious examples of Klaus Nomi's pop side. His countertenor is placed on top of a new wave sound centered on synthesizers, creating an acoustic space with a thin sense of reality.
+この楽曲は、Klaus Nomiのポップ的側面が最も明確に現れた作品のひとつである。シンセサイザーを主体としたニューウェーブ的サウンドの上に、彼のカウンターテナーが乗ることで、現実感の希薄な音響空間が生まれている。
 
-Both the lyrics and the sound have a somewhat apocalyptic and cold impression, and are often interpreted as reflecting the urban anxiety and loneliness of the time. Coupled with his mechanical physical expression, this work presents the ""boundary between humans and non-humans'' as music.
+歌詞とサウンドの双方において、どこか終末的で冷たい印象を持ち、当時の都市的な不安や孤独を反映していると解釈されることが多い。彼の機械的な身体表現とも相まって、「人間と非人間の境界」を音楽として提示した作品である。
 
-> It is a representative example of invading a foreign sensation while borrowing the form of pop.
+> ポップの形式を借りながら異質な感覚を侵入させた代表例となっている
 
 ---
 
-### "Cold Song"
+### 「Cold Song」
 
-The song, an aria based on Henry Purcell"s operatic work, showcases Nomi"s classical roots in its purest form.
+この楽曲は、Henry Purcellのオペラ作品を基にしたアリアであり、Nomiのクラシック的ルーツを最も純粋な形で示している。
 
-His singing is not just a reproduction, but uses extremely deformed vibrato and visual presentation to amplify the images of "cold" and "death" that the original song has. His movements and facial expressions on stage are more like sculptures or video works than music.
+彼の歌唱は単なる再現ではなく、極端にデフォルメされたビブラートと視覚演出によって、原曲の持つ「寒さ」や「死」のイメージを増幅させている。舞台上での彼の動きや表情は、もはや音楽というよりも彫刻や映像作品に近い。
 
-This song is an iconic performance that proves that classical and new wave can be fused.
+この楽曲は、クラシックとニューウェーブが融合し得ることを証明した象徴的なパフォーマンスである。
 
-> It was the moment when the music of the past was reconstructed with a futuristic body.
+> 過去の音楽を未来的な身体で再構築した瞬間だった
 
 ---
 
 ### "Simple Man"
 
-This song, which was also included in the album of the same name, is a work that strongly expresses his emotional side. Although it has a relatively straight structure compared to other songs, the singing voice still has an unrealistic sound to it.
+同名アルバムにも収録されたこの楽曲は、彼の感情的側面が強く表れた作品である。他の楽曲に比べて比較的ストレートな構成を持ちながらも、その歌声はやはり非現実的な響きを帯びている。
 
-The theme of ""simple humans" indicated in the title serves to emphasize the contrast with the ""inhuman beings" on stage. In other words, this song can be said to symbolize the duality of his own identity.
+タイトルが示す「単純な人間」というテーマは、彼の舞台上の「非人間的存在」との対比を強調する役割を果たしている。つまり、この曲は彼自身のアイデンティティの二重性を象徴しているとも言える。
 
-> The tension between humanity and dysmorphia is visualized as music.
+> 人間性と異形性の間にある緊張が音楽として可視化されている
 
 ---
 
-### "Lightning Strikes"
+### 「Lightning Strikes」
 
 This cover of Lou Christie"s song maintains the pop format, but transforms it into a completely different impression with Nomi"s unique voice.
 
-While retaining the lightness of the original song, his voice adds a somewhat disturbing and floating quality to the song. This is a good example of his high ""power of interpretation.''
+原曲の持つ軽快さは残しつつも、彼の声によってどこか不穏で浮遊感のある質感が付加される。これは彼の「解釈する力」の高さを示す好例である。
 
 > His ability to reconstruct existing pop music with unusual filters stands out.
 
 ---
 
-### "Nomi Song"
+### 「Nomi Song」
 
 This song is a self-reference piece that symbolizes his own character and worldview. It has a structure that is completed by combining not only music but also images and performances.
 
-It is inseparable from his stage costumes and movements, and can be said to be an example of the creation of the very existence of ""Klaus Nomi.''
+彼の舞台衣装や動きと不可分であり、「Klaus Nomi」という存在そのものを作品化した例と言える。
 
-> It is a meta-expression that sublimates one's own existence into a work of art.
+> 自身の存在を作品へと昇華したメタ的表現である
 
 ---
 
-## Structure common to representative works
+## 代表作に共通する構造
 
 <div class="mermaid">
 flowchart TD
-A[Existing genre] --> B[classic quotes]
+A[既存ジャンル] --> B[クラシック引用]
 A --> C[pop structure]
-B --> D[countertenor]
+B --> D[カウンターテナー]
 C --> D
-D --> E[visual presentation]
-E --> F[strange pop]
+D --> E[視覚演出]
+E --> F[異形のポップ]
 </div>
 
-> A unique style is created by deconstructing and reconstructing existing musical structures.
+> 既存の音楽構造を分解し再構築することで独自の様式が成立している
 
 ---
 
-## Chronology: Klaus Nomi's trajectory
+## 年表：Klaus Nomiの軌跡
 
 <div class="mermaid">
 timeline
@@ -230,44 +229,44 @@ timeline
     1983 : 死去
 </div>
 
-> Just a few years of activity had a long-term impact
+> わずか数年の活動が長期的な影響を生んだ
 
 ---
 
-## Structural diagram: Expression structure of Klaus Nomi
+## 構造図：Klaus Nomiの表現構成
 
 <div class="mermaid">
 flowchart TD
-A[classical vocal music] --> B[countertenor]
-B --> C[pop structure]
-C --> D[new wave]
-D --> E[visual presentation]
-E --> F[Overall performance]
+A[クラシック声楽] --> B[カウンターテナー]
+B --> C[ポップ構造]
+C --> D[ニューウェーブ]
+D --> E[視覚演出]
+E --> F[総合パフォーマンス]
 </div>
 
-> Integration of music and visuals was at the core of his expression
+> 音楽と視覚の統合が彼の表現の核心にあった
 
 ---
 
-## Late life and death
+## 晩年と死
 
 Klaus Nomi died in 1983. The cause of death was AIDS, making him one of the first notable artists to die from the disease.
 
-At the time, understanding of the disease was extremely limited, and his death was a huge shock to the artistic community.
+当時、この病気に関する理解は極めて限定的であり、彼の死は芸術コミュニティにも大きな衝撃を与えた。
 
->His death symbolized the end of an era and the visibility of new problems
+> 彼の死は一つの時代の終わりと新たな問題の可視化を象徴していた
 
 ---
 
-## Impact and legacy
+## 影響と遺産
 
 ### Impact on posterity
 
-Klaus Nomi's style influenced many subsequent artists. In particular, he is a pioneer in the fusion of visuals and music.
+Klaus Nomiのスタイルは、その後の多くのアーティストに影響を与えた。特に、視覚と音楽の融合という点において、彼は先駆的存在である。
 
-### Contemporary reappraisal
+### 現代的再評価
 
-In the 21st century, his work has been reevaluated and increasingly referenced in the fields of film and fashion. His aesthetic continues to show the possibility of expression that transcends genres.
+21世紀に入り、彼の作品は再評価が進み、映像やファッションの分野でも参照されることが増えている。彼の美学は、ジャンルを越えた表現の可能性を示し続けている。
 
 > His legacy extends not only to music but also to the form of expression itself.
 
@@ -276,7 +275,7 @@ In the 21st century, his work has been reevaluated and increasingly referenced i
 
 ### YouTube Podcast
 
-*This podcast is in English, but you can watch it with automatic subtitles and translation.
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Yq-mXZhG1M?si=2gQEB5BlwEUMsmrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
