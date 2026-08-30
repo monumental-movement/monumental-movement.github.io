@@ -1059,3 +1059,13 @@ Amapianoの音楽的な革新は、単にlog drumを発明したことでも、J
 > Amapianoの本当の速さはBPMには存在しない。それは、音と音の間、低音と身体の間、そして一拍の内部に存在している。
 
 ---
+
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Icz6OHh1Di4?si=FhpbotNM9mtMlJiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

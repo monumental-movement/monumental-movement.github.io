@@ -953,3 +953,11 @@ Amapianoの歴史は、音楽が都市とともに成長することを示した
 > Amapianoの歴史をたどることは、南アフリカの都市文化と、人々の日常生活がどのように世界的な音楽を育てたのかを理解することでもある。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jPrQ5WhqCyg?si=0W0feqLiZb4s9XBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

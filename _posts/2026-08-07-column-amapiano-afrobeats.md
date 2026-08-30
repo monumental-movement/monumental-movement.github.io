@@ -1371,3 +1371,12 @@ Future : New African hybrid sounds
 > AmapianoとAfrobeatsが示しているのは、アフリカ音楽が世界の影響を受ける時代から、世界の音楽を動かす時代へ変わったということである。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hib9zeOv15c?si=0VLU2j5H7vo2Uan7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
