@@ -1674,3 +1674,12 @@ H --> I
 > ベルリンに名クラブが多い理由は、優れた建物が存在したからではなく、その建物を歴史ごと受け継ぎ、新しい文化へと育て続けてきた都市そのものにある。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VmFRGK779_0?si=NA7QJKViZIlp7Fa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
