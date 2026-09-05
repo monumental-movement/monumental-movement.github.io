@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Ian Pooley ── UKハウスの知性が刻んだ1990年代クラブミュージックの輪郭"
 author: mmr
 categories: [ Column ]
-tags: [ Northern Soul, Soul ]
+tags: [ House, UKHouse ]
 image: ../assets/images/column-ian-pooley.webp
 date: 2026-01-23 00:00:04 +0900
 ---
