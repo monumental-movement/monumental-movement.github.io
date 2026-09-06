@@ -970,3 +970,12 @@ F --> A
 > 音楽史を理解することは、ヒット作品だけでなく、その背後で新しい可能性を探り続けてきた無数の小さな文化を理解することでもある。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-6DwZkQPCk?si=wqFrWgyVmQ13g-0W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

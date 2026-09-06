@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 越境するノイズとボサノヴァ：アート・リンゼイの軌跡"
 author: mmr
 categories: [ Column ]
-tags: [ No Wave, Bossa Nova, Nose ]
+tags: [ No Wave, Bossa Nova, Noise ]
 image: ../assets/images/column-arto-lindsay.webp
 date: 2026-04-18 00:00:04 +0900
 ---
@@ -225,5 +225,14 @@ G --> H[日本ノイズとの共振]
 H --> I[2000s コラボ・プロデュース]
 </div>
 
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KXB4b7HwWR4?si=OA0x8LixZJw6Nufu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
