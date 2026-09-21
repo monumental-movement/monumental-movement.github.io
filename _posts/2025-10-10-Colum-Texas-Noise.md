@@ -161,6 +161,14 @@ flowchart TD
 ---
 
 
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lT5FxcG2Jao?si=u5S3OMWA7-096UIz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 関連コラム
 
 🔗 [【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)

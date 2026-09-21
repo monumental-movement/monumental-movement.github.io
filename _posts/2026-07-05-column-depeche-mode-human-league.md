@@ -4,7 +4,7 @@ title: "【コラム】 シンセポップの二つの進化系統：Depeche Mod
 author: mmr
 categories: [ Column ]
 tags: [ Synth Pop, New Wave, 80s ]
-image: ../assets/images/column-depache-mode-human-league.webp
+image: ../assets/images/column-depeche-mode-human-league.webp
 date: 2026-07-05 00:00:01 +0900
 ---
 
@@ -208,5 +208,14 @@ Depeche Modeの影響は、ダークウェーブ、インダストリアル、�
 
 > 現代の電子音楽はHuman League的な明るさとDepeche Mode的な深さの間で揺れている
 
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kyM33d4lWiM?si=_BK3DrHf09UYXnie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

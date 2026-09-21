@@ -325,3 +325,12 @@ Squarepusherは電子音楽＋ジャズ＋ブレイクビーツを融合した�
 各曲のリズム構造・波形・フラクタル図解により、音楽理解をさらに深められる。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/daEV6fyvOYU?si=_awpA5EC_BePA18-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

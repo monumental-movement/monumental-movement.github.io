@@ -1222,3 +1222,12 @@ Crassの作品やDial Houseでの生活、Crass Recordsの運営、反戦運動�
 > Penny Rimbaudの歩みは、パンク史の一章にとどまらず、現代のインディペンデント文化やDIY精神へと連なる、半世紀以上に及ぶ実践の記録として読み継がれている。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HYO5Yw4_-TY?si=fRFHP2i69dWoi24h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

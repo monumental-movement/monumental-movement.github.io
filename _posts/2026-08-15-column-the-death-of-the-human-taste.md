@@ -1896,3 +1896,11 @@ YouTubeから？
 > 人間の趣味は死んでいない。だが、「好き」という感情がどこから来たのかを考えなくなった瞬間、私たちは自分の趣味を自分で選ぶことをやめてしまう。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56rpI4pyjAQ?si=CaUb1ANqsMOWP0kx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

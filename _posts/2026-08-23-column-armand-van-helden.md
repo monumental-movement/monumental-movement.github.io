@@ -1557,3 +1557,11 @@ Van Heldenは、その循環の中で音楽を動かし続けてきた。
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jy9f7Iuu11I?si=fVOUw0mB7eSDFSy3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -163,3 +163,14 @@ Ambient, Drone, Minimalといったジャンルを越え、彼の音楽は“聴
 
 音が消えた後にも、心の中に何かが残る——。  
 それこそが、Susumu Yokotaという音楽家が世界に遺した最大の“響き”なのだ。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B1hkVo42Cfs?si=6hfHamgTD9Kmq_eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

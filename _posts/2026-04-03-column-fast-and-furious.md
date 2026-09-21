@@ -160,3 +160,12 @@ E --> F[重低音中心]
 > 本当の速さは、音が作り出す錯覚の中に存在する
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbPYFcIMPU8?si=3LDur-Ue0W2iHQ6Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
