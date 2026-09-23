@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【コラム】 Why Everything Is Becoming Faster — なぜ、すべてが速くなっているのか"
+title: "【コラム】 Why Everything Is Becoming Slower — なぜ、すべてが遅くなっているのか"
 author: mmr
 categories: [ Column ]
 tags: [ Ambient, Vinyl, Culture ]
