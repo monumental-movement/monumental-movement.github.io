@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 若年期に聴いた音楽ジャンルは、その後の人生と社会行動に影響するのか"
 author: mmr
 categories: [ Column ]
-tags: [ Sociology, Cculture, Generation ]
+tags: [ Sociology, Culture, Generation ]
 image: ../assets/images/column-sociology-youth-culture-generation.webp
 date: 2026-02-14 00:00:05 +0900
 ---
