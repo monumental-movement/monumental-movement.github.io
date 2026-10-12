@@ -212,3 +212,11 @@ MPCは音楽制作の方法だけでなく、音楽そのものの構造を変�
 > MPCは音を作る機械ではなく、時間を再構築する装置である。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wjJGtZXR2U4?si=_LbtCInI2fQ9wBVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

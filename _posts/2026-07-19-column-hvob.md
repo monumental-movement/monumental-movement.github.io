@@ -878,3 +878,12 @@ F --> G[現在も活動継続]
 > HVOBは、電子音楽における「静けさ」「余白」「空間」の価値を現代へ提示し続ける、オーストリアを代表するエレクトロニック・デュオの一組である。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FA_H2GHpCRY?si=6IfUC2xhDNJ_oQr-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

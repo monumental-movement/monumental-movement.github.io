@@ -916,3 +916,11 @@ Boards of Canadaの音楽は、流行や時代性を超えて聴き継がれる�
 > Boards of Canadaは、電子音楽に「未来」を描く手段だけではなく、「記憶」を描く表現としての可能性を静かに刻み続けている。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cq0A0Ukhplw?si=LxqpaoEYWkVopaBy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

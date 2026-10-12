@@ -1784,3 +1784,12 @@ High Fadeは、その可能性を体現するバンドなのである。
 > High Fadeは、ストリートから世界へ広がった現代ファンク・ロックの象徴であり、ライブ音楽が持つ永遠の力を証明している。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mwzJv738yI?si=R6nMO13pxkPNKrs-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

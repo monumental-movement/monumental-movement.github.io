@@ -615,3 +615,11 @@ Discordコミュニティ発の音楽ムーブメントは、単なるインタ�
 > Discord時代の音楽文化は、都市ではなく“接続”によって形成される新しい地下シーンなのである。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2eON_bOCKlw?si=393_OhXfngrD_vfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

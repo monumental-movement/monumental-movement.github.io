@@ -684,3 +684,11 @@ DIY精神、
 > フリーサンプル文化は、音楽制作を“特別な才能の世界”から、“誰でも参加できる創作空間”へ変えていった。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WNgIO16oYOg?si=zhQFLH03DoFfQbIV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

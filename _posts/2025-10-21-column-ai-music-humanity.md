@@ -185,3 +185,13 @@ AIが作曲を手伝い、ノスタルジアが未来の材料となり、グロ
 | Billie Eilish       | *HIT ME HARD AND SOFT* (2024)       | “アルバム体験”の再評価        | [Amazon](https://amzn.to/4ouVbx9)
 | 食品まつり a.k.a foodman | *やすらぎランド* (2021)         | 日本発の静的クラブサウンド       | [Amazon](https://amzn.to/4ql8GkN)
 
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cqe9d9caCQA?si=jmJzk6vo2k1cw7XY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

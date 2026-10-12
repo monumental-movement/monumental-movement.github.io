@@ -759,3 +759,11 @@ H --> B
 > 日本のテクノは、電子楽器開発、クラブカルチャー、芸術表現、そして世界との交流を通じて独自の進化を遂げ、未来へ向かって今なお新しい音楽文化を創造し続けている。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uHLK2KIyo9s?si=lPmTMJXag4tDM3H3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

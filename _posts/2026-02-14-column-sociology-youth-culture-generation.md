@@ -257,3 +257,12 @@ D --> E[成人後の行動傾向]
 > 本稿は、音楽ジャンルと社会行動の関係を、決定論ではなく累積的影響として捉える研究潮流に依拠している。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5c8xvKsQTmY?si=X3ppR_ZZwa7c2DkD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

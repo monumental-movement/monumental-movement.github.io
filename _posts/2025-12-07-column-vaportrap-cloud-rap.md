@@ -184,3 +184,11 @@ Cloud Rap は単なるジャンルではなく、ネット以降のヒップホ�
 今後、生成AI との連動により、Cloud Rap 的質感はさらに抽象化され、よりアンビエントで“非人間的”な音像へ広がることが予想される。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bZ2PGjtXD80?si=YE6iUKQK7ZBU6AsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

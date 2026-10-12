@@ -242,3 +242,12 @@ VR空間やメタバースイベントでのリアルタイム音楽体験が拡
 > ゲーム音楽が若年層のメインストリームになる瞬間は、単一の事件ではなく、40年にわたる技術と文化の積層の帰結である。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JsxiadaAvi4?si=Ek6Fo7Ctt3JGErII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

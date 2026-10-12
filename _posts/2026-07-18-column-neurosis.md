@@ -1402,3 +1402,11 @@ Neurosisが実際に行ったことは、ジャンルを作ることではなく
 > Neurosisの歴史は、一つのバンドの成功物語ではなく、ヘヴィミュージックという表現領域そのものを拡張した創造の歴史だった。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yL9XY9CkFM?si=JagpwQ5W9KtzTG3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -1094,3 +1094,12 @@ G-->H["現代実験音楽への影響"]
 > Wolf Eyesは、デトロイトの地下文化から生まれた一つのグループであると同時に、「音とは何か」「音楽とは何か」という問いを30年近くにわたって探究し続けてきた実験音楽史の重要な存在である。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fpjy01Kfkvs?si=aNFDrhalzQxRkrt3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
