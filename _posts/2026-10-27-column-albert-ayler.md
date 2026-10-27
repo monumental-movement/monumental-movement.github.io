@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Free Jazz, Avant-Garde, Spiritual Jazz ]
 image: ../assets/images/column-albert-ayler.webp
-date: 2026-10-26 00:00:02 +0900
+date: 2026-10-27 00:00:03 +0900
 ---
 
 ## アルバート・アイラー——サックスは叫び、ジャズは境界を越えた

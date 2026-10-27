@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Punk Rock, Psychobilly, Rockabilly ]
 image: ../assets/images/column-the-cramps.webp
-date: 2026-10-26 00:00:01 +0900
+date: 2026-10-26 00:00:02 +0900
 ---
 
 ## The Crampsとは何者だったのか
