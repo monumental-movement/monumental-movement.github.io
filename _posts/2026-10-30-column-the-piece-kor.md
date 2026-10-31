@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Garage Rock, Psychedelic Rock, Proto-Punk ]
 image: ../assets/images/column-the-piece-kor.webp
-date: 2026-10-23 00:00:01 +0900
+date: 2026-10-30 00:00:01 +0900
 ---
 
 ## はじめに：アメリカのロック史に埋もれたメリーランドのバンド

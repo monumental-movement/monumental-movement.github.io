@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Punk Rock, Melodic Hardcore, Skate Punk ]
 image: ../assets/images/column-nofx.webp
-date: 2026-10-23 00:00:04 +0900
+date: 2026-10-30 00:00:04 +0900
 ---
 
 ## NOFX — パンクを大きな声で笑い飛ばす

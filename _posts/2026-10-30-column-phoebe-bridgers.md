@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Indie Rock, Indie Folk, Pops ]
 image: ../assets/images/column-phoebe-bridgers.webp
-date: 2026-10-23 00:00:00 +0900
+date: 2026-10-30 00:00:00 +0900
 ---
 
 ## 1. なぜPhoebe Bridgersの歌は、こんなにも静かなのに忘れられないのか

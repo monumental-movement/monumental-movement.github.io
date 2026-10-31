@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Progressive Folk, Folk Rock, Psychedelic ]
 image: ../assets/images/column-mellow-candle.webp
-date: 2026-10-23 00:00:02 +0900
+date: 2026-10-30 00:00:02 +0900
 ---
 
 ## 1. たった一枚のアルバムが、バンドの歴史を越えていく
