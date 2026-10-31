@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Hardcore Punk, Detroit, Punk Rock ]
 image: ../assets/images/column-negative-approach.webp
-date: 2026-10-230 00:00:03 +0900
+date: 2026-10-23 00:00:03 +0900
 ---
 
 ## Negative Approach — 怒りを音楽の最小単位まで凝縮したバンド
