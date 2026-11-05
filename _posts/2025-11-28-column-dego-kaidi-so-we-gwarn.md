@@ -9,12 +9,6 @@ date: 2025-11-28 00:00:06 +0900
 ---
 
 
-
-
-
-
-
-
 ## はじめに — Broken Beat の誕生と文脈
 
 文：mmr｜テーマ：EUK Broken Beat とグローバル・ブラック・ミュージックの交差点について
@@ -179,3 +173,11 @@ Dego & Kaidi と Sound Signature の協働は、単なるアルバム制作に�
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEICMH1yW6M?si=V3awQhuhmKotCcg7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

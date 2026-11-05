@@ -117,6 +117,15 @@ AIとデジタルが進化する時代においても、夜のリズムは消え
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GHTLfWXkBVY?si=viIxz-ciM4iZd1o7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## 年表：クラブカルチャーと都市の進化（1970–2025）
 
 <div class="mermaid">
