@@ -188,6 +188,15 @@ Reconditeの音楽は「テクノを自然へ戻す」行為である。
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6zRtH3_XIuU?si=xiKW4bOTRvmUqVO7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## 参考文献・出典
 
 - [林野庁『森林浴の生理的効果に関する研究』（2004）](https://www.ffpri.go.jp/pubs/seikasenshu/2004/documents/p46-47.pdf)

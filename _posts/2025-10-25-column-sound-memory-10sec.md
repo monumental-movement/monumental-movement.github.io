@@ -134,3 +134,12 @@ DJは無意識のうちに、“10秒ごとに空間を再編成”している�
 それこそが、時代を超えて鳴り続ける**「私たちの10秒」**なのだ。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_F_X8RMptPc?si=QmskJJHkkmQUfBR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

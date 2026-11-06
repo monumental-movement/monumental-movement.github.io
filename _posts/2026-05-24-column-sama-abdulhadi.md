@@ -529,3 +529,12 @@ Sama' Abdulhadiの存在は、その未来が既に多様で、多地域的で�
 > 彼女が鳴らす低音は、クラブだけでなく、世界地図そのものを揺らしている。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Up6kU-PrK_s?si=imoXw6IBUVx4fdof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

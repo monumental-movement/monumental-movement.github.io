@@ -271,3 +271,12 @@ TR-808は、発売当初は失敗作だった。しかし、その音はあま�
 > 音楽を変えたのは機械ではなく、それを使った人間だった
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRjyBMd6CHk?si=P12RjMtN-58PLRdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -1504,6 +1504,14 @@ AIによって、その圧縮が少しずつ解け始めている。
 ---
 
 
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/InUD5_AzVH4?si=9mZr_YImE12f2ond" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## 年表：匿名の創作から生成AIまで
 
 | 時代        | 出来事                      | 変化                         |

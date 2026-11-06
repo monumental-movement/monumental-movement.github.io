@@ -196,3 +196,12 @@ AIはその民主化をさらに推し進め、
 > **共創の知能（Co-Creative Intelligence）**なのだ。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUKkr4ridg?si=nqV_kdiSVN_MagEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

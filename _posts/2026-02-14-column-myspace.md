@@ -129,3 +129,12 @@ flowchart TB
 2000年代のMyspaceは、単なるSNSとしてではなく、音楽と文化を結びつける革新的なプラットフォームであった。個人が自己表現し、コミュニティを形成し、アーティストとリスナーが直接結びつく経験は、現代SNS時代の音楽発信の基礎を築いた。Myspaceの試みは、現在のネットミュージック文化を理解する上で不可欠であり、その意義は今も色あせていない。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1U-NezCxBk?si=I-7W2J-2S0ngrXTp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -198,3 +198,12 @@ Mathcore / Experimental Metal は、単に“複雑で激しい”音楽では�
 その核心は、複雑性そのものにあるのではなく、**複雑性とカオスが一体化した結果生まれるダイナミズム** にある。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0XHwM_eAlww?si=xAluDRaHLQpXYlg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

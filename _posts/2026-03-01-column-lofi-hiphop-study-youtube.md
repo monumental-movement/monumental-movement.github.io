@@ -155,3 +155,12 @@ YouTubeやストリーミング環境で育った世代にとって、アルゴ�
 > Lo-Fiヒップホップの人気は偶然ではなく、音響構造とデジタル環境の相互作用によって形成された。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/juLTqK2a1yg?si=LazG46U_zcdm5NSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
