@@ -166,7 +166,7 @@ Hillageはギターとボーカルを担当し、バンドの音楽的な中心�
 
 1972年、Khanは唯一のスタジオアルバム『Space Shanty』を発表する。
 
-<PRIVATE_PERSON>的なプログレッシブ・ロックの構造を持ちながら、カンタベリー周辺の音楽家らしい柔軟な展開が特徴となっている。
+プログレッシブ・ロックの構造を持ちながら、カンタベリー周辺の音楽家らしい柔軟な展開が特徴となっている。
 
 アルバムでは、Hillageのギターが楽曲の中心に置かれている。
 
@@ -198,9 +198,6 @@ Hillageは以前からGongのメンバーと交流があり、Kevin Ayersとの�
 
 ## 3. Gong — ギターが音楽の風景を作り始める
 
-<text> </text>
-
-<AsyncImage query="Gong band 1974 Daevid Allen Steve Hillage Tim Blake vintage photograph" aspectRatio="16:9" width="100%"/>
 
 1970年代前半、HillageはGongに参加する。
 
@@ -336,7 +333,6 @@ Gongでの経験は、Hillageにとって単なるバンド活動ではなかっ
 
 ## 4. 『Fish Rising』— Gongの宇宙からソロの世界へ
 
-<AsyncImage query="Steve Hillage Fish Rising 1975 original album cover" aspectRatio="16:9" width="100%"/>
 
 1975年、Hillageはソロアルバム『Fish Rising』を発表する。
 
@@ -375,8 +371,6 @@ Hillageは、Gongでの活動をひとつの時期として捉え、そこから
 ---
 
 ## 5. 『L』— Todd Rundgrenとの出会いとアメリカ録音
-
-<AsyncImage query="Steve Hillage L 1976 album cover" aspectRatio="16:9" width="100%"/>
 
 1976年、Hillageはセカンドソロアルバム『L』を発表する。
 
@@ -417,8 +411,6 @@ Don Cherryの参加は特に重要である。
 ---
 
 ## 6. 『Motivation Radio』— ギターから電子音響へ
-
-<AsyncImage query="Steve Hillage Motivation Radio 1977 album cover" aspectRatio="16:9" width="100%"/>
 
 1977年、Hillageは『Motivation Radio』を発表する。
 
@@ -474,8 +466,6 @@ Hillageの音楽は、ギターを中心としたロックから、電子的な�
 
 ## 7. 『Green』— サイケデリックな音響の完成
 
-<AsyncImage query="Steve Hillage Green 1978 album cover" aspectRatio="16:9" width="100%"/>
-
 1978年、Hillageは『Green』を発表する。
 
 『Motivation Radio』と同じ時期に準備されていた楽曲を、異なる方向性に分けてまとめた作品である。
@@ -529,8 +519,6 @@ Hillageはそうした制約を理解しながら、機材を工夫して使用�
 ---
 
 ## 8. 『Live Herald』と『Rainbow Dome Musick』— 演奏から空間へ
-
-<AsyncImage query="Steve Hillage Rainbow Dome Musick 1979 album cover" aspectRatio="16:9" width="100%"/>
 
 1979年、Hillageは『Live Herald』と『Rainbow Dome Musick』を発表する。
 
@@ -708,8 +696,6 @@ Hillageは、この新しいダンスミュージックの動きに強い関心�
 
 ## 11. System 7 — サイケデリック・ロックとテクノの融合
 
-<AsyncImage query="System 7 Steve Hillage Miquette Giraudy 1990s electronic music" aspectRatio="16:9" width="100%"/>
-
 1990年頃、Steve HillageとMiquette GiraudyはSystem 7の活動を始める。
 
 System 7は、ギターを中心としたロックバンドではない。
@@ -786,7 +772,6 @@ System 7は、単に英国のプログレッシブ・ロック出身者がテク
 
 ## 12. The Orbとの関係 — ロックのギターがアンビエント・テクノに入る
 
-<AsyncImage query="The Orb Alex Paterson 1990s ambient techno studio" aspectRatio="16:9" width="100%"/>
 
 System 7の活動を語るうえで、The Orbとの関係は欠かせない。
 
