@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】SALIF KEITA サリフ・ケイタ：アフリカの黄金の声 — マリの異端児から世界を魅了する歌手へ"
 author: mmr
 categories: [ Column ]
-tags: [ TMali, Afro Pop, Manding Music ]
+tags: [ Mali, Afro Pop, Manding Music ]
 image: ../assets/images/column-salif-keita.webp
 date: 2026-11-10 00:00:00 +0900
 ---
