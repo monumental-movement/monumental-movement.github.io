@@ -8,7 +8,7 @@ image: ../assets/images/column-tinariwen.webp
 date: 2026-11-09 00:00:00 +0900
 ---
 
-## ## Tinariwen — 砂漠の向こうから届いた声
+## Tinariwen — 砂漠の向こうから届いた声
 
 文：mmr｜テーマ：トゥアレグの亡命と抵抗から生まれたTinariwen。その結成、砂漠を巡るカセット文化、マリの紛争、世界的な成功、そして2026年のHoggarまでをたどる
 
