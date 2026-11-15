@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【コラム】instürzende Neubauten アインシュテュルツェンデ・ノイバウテン――崩壊する建築物から生まれた新しい音楽"
+title: "【コラム】Einstürzende Neubauten アインシュテュルツェンデ・ノイバウテン――崩壊する建築物から生まれた新しい音楽"
 author: mmr
 categories: [ Column ]
 tags: [ Industrial, Experimental, Noise ]
