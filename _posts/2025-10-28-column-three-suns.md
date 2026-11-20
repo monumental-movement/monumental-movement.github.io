@@ -41,7 +41,7 @@ color: #fff;
 
 Three Sunsは1940年、ペンシルヴェニア出身の兄弟**Al Nevins（ギター）**、**Morty Nevins（アコーディオン）**、そして従兄弟の**Artie Dunn（オルガン）**によって結成された。
 
-当初はナイトクラブやホテル・ラウンジでの演奏が中心だったが、1944年に**「Twilight Time」**がヒット。
+当初はナイトクラブやホテル・ラウンジでの演奏が中心だったが、1944年に **「Twilight Time」**がヒット。
 この1曲が、戦後のアメリカにおける「家庭音楽」という概念を生んだと言ってもいい。
 
 > 🎵 *“Heavenly shades of night are falling…”*  
@@ -185,5 +185,14 @@ flowchart TD
 ---
 
 > “Three Sunsの音は、戦後アメリカの小宇宙を呼吸していた。”
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1zWuTzu88rk?si=qRJqDWP7Hej1el8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

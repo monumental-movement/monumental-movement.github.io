@@ -166,3 +166,12 @@ Nick Höppnerはその内部で、制度を運営し、フロアで検証し、�
 > フロアで鳴る音は制度を超え、しかし制度によって支えられている。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWJv_Cz3jtk?si=unXRaHBLuvyEHQsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

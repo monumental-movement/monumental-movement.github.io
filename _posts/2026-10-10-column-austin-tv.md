@@ -907,3 +907,10 @@ Austin TVの作品は、そうした時間の違いを受け入れる余地を�
 
 ---
 
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMMiZqamuGU?si=8Jv_Ljliyk1FOhfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

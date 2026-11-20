@@ -137,4 +137,14 @@ pie title 世界Vinyl市場シェア（2025推定）
 むしろ、**人間の記憶と感情が回転する象徴**として、
 静かに、そして確実に未来へと回り続けている。
 
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ErT_n3-7Tk?si=zodWac0kvqOaxaVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 

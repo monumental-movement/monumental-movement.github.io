@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【コラム】 The Pop Group ― ブリストルが生んだ反逆のサウンドと時代背景"
+title:  "【コラム】The Pop Group ― ブリストルが生んだ反逆のサウンドと時代背景"
 author: mmr
 categories: [ Column ]
 tags: [ Post Punk, 70s, Dub, Avant-Garde ]
@@ -218,5 +218,14 @@ The Pop Groupは、音楽を**抵抗の言語**として再定義したバンド
 > “This is not entertainment. This is resistance.”
 
 彼らの叫びは、今なお、静寂の中で共鳴している。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_3LUNdGb04?si=in58JVaNS_f95zHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

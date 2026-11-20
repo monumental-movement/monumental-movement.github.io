@@ -866,3 +866,11 @@ Borisは、日本の実験的ロックの歴史を語るうえで欠かせない
 > Borisの歴史は、一つのジャンルの発展史ではなく、「音楽はどこまで自由になれるのか」という問いを30年以上かけて実践し続けてきた軌跡そのものである。
 
 ---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uerJ9PuitFg?si=lR1KpmWtTUuF0LR3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

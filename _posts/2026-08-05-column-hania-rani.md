@@ -1711,3 +1711,12 @@ Hania Raniの歩みは、21世紀の音楽がジャンルや形式を越え、�
 > Hania Raniの音楽は、旋律や技巧だけではなく、時間・空間・静寂そのものを創作の対象とすることで、現代音楽に新たな可能性を示した。
 
 ---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xEvT_T_iBSU?si=jlBj0Nbfe0phVhst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
