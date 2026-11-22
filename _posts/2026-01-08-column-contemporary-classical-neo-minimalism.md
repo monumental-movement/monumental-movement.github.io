@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Contemporary Classical / Neo-minimalism 現代クラシックの新しい波"
 author: mmr
 categories: [ Column ]
-tags: [ Afrobeat, Afro-Fusion ]
+tags: [ Contemporary, Minimalism ]
 image: ../assets/images/column-contemporary-classical-neo-minimalism.webp
 date: 2026-01-08 00:00:06 +0900
 ---
