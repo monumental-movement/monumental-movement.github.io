@@ -312,18 +312,18 @@ François Kは、この時代を代表するリミキサーのひとりとして
 
 その名前が挙がるアーティストには、以下のようなミュージシャンがいる。
 
-- <Entity value="Diana Ross" category="musical_artist"/>
-- <Entity value="Depeche Mode" category="musical_artist"/>
-- <Entity value="Kraftwerk" category="musical_artist"/>
-- <Entity value="U2" category="musical_artist"/>
-- <Entity value="The Cure" category="musical_artist"/>
-- <Entity value="The Smiths" category="musical_artist"/>
-- <Entity value="Pet Shop Boys" category="musical_artist"/>
-- <Entity value="Yazoo" category="musical_artist"/>
-- <Entity value="Adam Ant" category="musical_artist"/>
-- <Entity value="Thomas Dolby" category="musical_artist"/>
-- <Entity value="Ashford & Simpson" category="musical_artist"/>
-- <Entity value="Erasure" category="musical_artist"/>
+- Diana Ross
+- Depeche Mode
+- Kraftwerk
+- U2
+- The Cure
+- The Smiths
+- Pet Shop Boys
+- Yazoo
+- Adam Ant
+- Thomas Dolby
+- Ashford & Simpson
+- Erasure
 
 これらのアーティストは、同じ音楽的な方向性を持っていたわけではない。
 
